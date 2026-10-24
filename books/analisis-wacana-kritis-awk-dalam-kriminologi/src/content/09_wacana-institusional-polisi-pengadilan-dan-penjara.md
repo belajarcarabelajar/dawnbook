@@ -1,6 +1,6 @@
 ## Wacana Institusional Polisi, Pengadilan, dan Penjara
 
-Bahasa dalam kriminologi bukan sekadar alat komunikasi, melainkan instrumen kekuasaan. Di balik tumpukan dokumen birokrasi, terdapat mekanisme yang menjaga otoritas negara serta menentukan pihak yang bebas dan terbelenggu. Institusi penegak hukum memanfaatkan wacana kebahasaan untuk mengonstruksi tembok kekuasaan birokratis.
+Bahasa dalam kriminologi bukan sekadar alat komunikasi, melainkan instrumen kekuasaan. Di balik tumpukan dokumen birokrasi, terdapat mekanisme yang menjaga otoritas negara serta menentukan pihak yang bebas dan yang ditahan. Institusi penegak hukum memanfaatkan wacana kebahasaan untuk mengonstruksi kekuasaan birokratis.
 
 ### 1. Bahasa sebagai Benteng Wacana Institusional
 
@@ -23,7 +23,7 @@ Di kepolisian, wacana sering kali dikemas dalam bentuk Laporan Polisi, Berita Ac
 
 ### 3. Ritualisme dan Dominasi Simbolis Pengadilan
 
-Pengadilan merupakan arena tempat wacana mencapai puncak formalitasnya. Di ruang sidang, bahasa dipergunakan untuk menegaskan kontrol penuh atas penetapan kebenaran hukum.
+Pengadilan merupakan lembaga dengan wacana yang paling formal. Di ruang sidang, bahasa dipergunakan untuk menegaskan kontrol penuh atas penetapan kebenaran hukum.
 
 #### Mekanisme Kekuasaan Wacana Sidang
 
@@ -102,7 +102,7 @@ Dalam kriminologi investigatif, analisis ini digunakan untuk membedakan antara a
 Dalam praktik investigasi kriminologi, ahli linguistik forensik menganalisis berbagai fenomena kebahasaan melalui pendekatan sistematis:
 
 1. **Tantangan Manipulasi Gaya Bahasa:**  
-   Ketika pelaku kejahatan siber mencoba meniru idiolek orang lain untuk menjebak korban, elemen bahasa bawah sadar seperti pola penempatan koma, frekuensi penggunaan kata hubung tertentu, dan kecenderungan sintaksis tetap sangat sulit dipalsukan secara konsisten dalam jangka panjang.
+   Ketika pelaku kejahatan siber mencoba meniru idiolek orang lain untuk menjebak korban, elemen bahasa bawah sadar seperti pola penempatan koma, frekuensi penggunaan kata hubung tertentu, dan kecenderungan sintaksis tetap sulit dipalsukan secara konsisten dalam jangka panjang.
 
 2. **Evolusi Komunikasi Digital:**  
    Di era media sosial dan pesan instan, karakter teks yang pendek dan penggunaan tanda baca serta simbol khusus dapat menyulitkan analisis statistik sintaksis. Namun, kebiasaan unik dalam memilih variasi kata, typo yang berulang, atau pola struktural tertentu justru memberikan data spesifik bagi analisis identifikasi pelaku.
@@ -113,10 +113,10 @@ Dalam praktik investigasi kriminologi, ahli linguistik forensik menganalisis ber
    > **Pernyataan B (Tuduhan Faktual/Pencemaran):** *"Pemilik toko ini adalah seorang penipu yang sengaja mencuri uang pelanggan."* (Mengandung tuduhan spesifik tentang tindak kejahatan pidana yang memerlukan pembuktian hukum).
 
 4. **Korelasinya dengan Profiling Kriminal (*Criminal Profiling*):**  
-   Penggunaan istilah medis yang sangat spesifik berdampingan dengan tata bahasa yang berantakan pada dokumen ancaman atau pemerasan menunjukkan profil tersangka yang memiliki paparan pengetahuan teknis khusus, namun sedang berada di bawah tekanan emosional tinggi atau mencoba mengaburkan latar belakang pendidikannya.
+   Penggunaan istilah medis yang spesifik berdampingan dengan tata bahasa yang berantakan pada dokumen ancaman atau pemerasan menunjukkan profil tersangka yang memiliki paparan pengetahuan teknis khusus, namun sedang berada di bawah tekanan emosional tinggi atau mencoba mengaburkan latar belakang pendidikannya.
 
 ### Inti Pembahasan Wacana Institusional
 
-Wacana institusional dan linguistik forensik dalam kriminologi membuktikan bahwa bahasa bukan sekadar sarana penyampaian pesan. Bahasa adalah medan pertarungan kekuasaan, alat bukti ilmiah, sekaligus cermin dari relasi otoritas negara terhadap masyarakat. Melalui Analisis Wacana Kritis, ketidakadilan yang terselubung di balik bahasa formal birokrasi dapat diurai dan dikritisasi secara objektif.
+Wacana institusional dan linguistik forensik dalam kriminologi membuktikan bahwa bahasa bukan sekadar sarana penyampaian pesan. Bahasa adalah tempat kekuasaan diperebutkan, alat bukti ilmiah, sekaligus cermin dari relasi otoritas negara terhadap masyarakat. Melalui Analisis Wacana Kritis, ketidakadilan yang terselubung di balik bahasa formal birokrasi dapat diurai dan dikritisasi secara objektif.
 
 > **Insight:** "Kekuasaan yang paling efektif adalah kekuasaan yang membuat masyarakat tidak sadar bahwa mereka sedang dikendalikan, semata-mata karena bahasa yang digunakan telah dianggap wajar dan memang sudah seharusnya demikian."

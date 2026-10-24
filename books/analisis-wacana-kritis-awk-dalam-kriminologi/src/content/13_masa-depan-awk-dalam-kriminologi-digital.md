@@ -1,6 +1,6 @@
 ## Masa Depan AWK dalam Kriminologi Digital
 
-Dunia kriminologi tidak lagi hanya berpijak pada ruang interogasi fisik atau lembaran koran cetak. Kita telah memasuki era di mana kejahatan, kontrol sosial, dan konstruksi tentang "siapa yang berbahaya" diproduksi melalui baris kode dan interaksi di media sosial. Analisis Wacana Kritis (AWK) kini menghadapi tantangan sekaligus peluang terbesar dalam sejarahnya: **Kriminologi Digital**.
+Dunia kriminologi tidak lagi hanya berpijak pada ruang interogasi fisik atau lembaran koran cetak. Kita telah memasuki era di mana kejahatan, kontrol sosial, dan konstruksi tentang "siapa yang berbahaya" diproduksi melalui baris kode dan interaksi di media sosial. Analisis Wacana Kritis (AWK) kini menghadapi tantangan sekaligus peluang baru: **Kriminologi Digital**.
 
 Dalam bab ini, pemelajar akan mengeksplorasi bagaimana AWK beradaptasi untuk membongkar relasi kuasa yang tersembunyi di balik layar gawai, algoritma yang tidak terlihat, dan sistem pengawasan yang semakin canggih.
 
@@ -46,7 +46,7 @@ Jika $w\_i$ untuk variabel latar belakang etnis atau wilayah tertentu lebih ting
 
 ### 3. Wacana Pengawasan Digital (*Digital Surveillance*)
 
-Negara dan korporasi kini memiliki kemampuan untuk mengawasi warga secara total. AWK berperan membongkar bagaimana narasi "keamanan" digunakan untuk melegitimasi pengebirian "privasi".
+Negara dan korporasi kini memiliki kemampuan luas untuk mengawasi warga. AWK berperan membongkar bagaimana narasi "keamanan" digunakan untuk melegitimasi pembatasan "privasi".
 
 - **Eufemisme Keamanan:** Penggunaan istilah seperti *"smart city"*, *"safe monitoring"*, atau *"data-driven protection"* sering kali merupakan wacana untuk menutupi praktik pengawasan massal yang diskriminatif.
 - **Normalisasi Pengawasan:** Bagaimana wacana di media sosial membuat masyarakat merasa "biasa" dan "sukarela" untuk dipantau, yang dalam kriminologi dikenal sebagai *panopticon* digital.
@@ -102,7 +102,7 @@ Teknik ini digunakan untuk menentukan penulis asli dari sebuah teks yang tidak d
 
 #### 6.3 Menimbang Niat dan Risiko dalam Teks Ancaman
 
-Dalam kriminologi, sangat penting untuk membedakan antara **ancaman nyata** dan sekadar **luapan emosi**. Linguistik forensik membantu menentukan:
+Dalam kriminologi, penting untuk membedakan antara **ancaman nyata** dan sekadar **luapan emosi**. Linguistik forensik membantu menentukan:
 
 - Keberadaan niat (*intent*) yang jelas dalam teks.
 - Tingkat risiko berdasarkan pola komunikasi yang digunakan.

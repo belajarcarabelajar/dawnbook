@@ -8,7 +8,7 @@ Dalam bab ini, kita akan membedah bagaimana wacana media massa mengonstruksi ket
 
 ### 1. Media sebagai Cermin Cembung Realitas Kriminal
 
-Bayangkan media massa sebagai sebuah cermin. Namun, ia bukan cermin datar yang memantulkan bayangan apa adanya, melainkan **cermin cembung** yang mendistorsi proporsi. Kejahatan kekerasan yang langka sering kali diperbesar hingga memenuhi seluruh layar kaca, sementara kejahatan kerah putih (*white-collar crime*) yang berdampak sistemik sering kali tampak kecil atau bahkan tidak terlihat.
+Bayangkan media massa sebagai sebuah cermin. Namun, ia bukan cermin datar yang memantulkan bayangan apa adanya, melainkan **cermin cembung** yang mendistorsi proporsi. Kejahatan kekerasan yang langka sering kali diperbesar porsinya di layar kaca, sementara kejahatan kerah putih (*white-collar crime*) yang berdampak sistemik sering kali tampak kecil atau bahkan tidak terlihat.
 
 #### Mengapa Distorsi Ini Terjadi?
 
@@ -17,7 +17,7 @@ Media massa bekerja berdasarkan nilai berita (*news values*). Kejahatan yang ber
 - **Over-representasi**: Kejahatan kekerasan muncul jauh lebih sering di berita daripada angka riil di statistik kepolisian.
 - **Simplifikasi**: Masalah sosial yang kompleks (seperti kemiskinan struktural atau kegagalan sistemik) disederhanakan menjadi cerita dikotomis antara "orang jahat" melawan "orang baik".
 
-> **Perspektif Kunci:** Ketakutan akan kejahatan sering kali tidak berkorelasi linear dengan tingkat kriminalitas aktual. Seseorang bisa merasa sangat terancam di lingkungan yang tingkat kejahatannya menurun, semata-mata karena intensitas pemberitaan yang tinggi dan dramatis.
+> **Perspektif Kunci:** Ketakutan akan kejahatan sering kali tidak berkorelasi linear dengan tingkat kriminalitas aktual. Seseorang bisa merasa terancam di lingkungan yang tingkat kejahatannya menurun, semata-mata karena intensitas pemberitaan yang tinggi dan dramatis.
 
 ---
 
@@ -87,7 +87,7 @@ Mari terapkan kerangka AWK dalam analisis skenario pemberitaan tentang kasus "Be
 
 #### Analisis AWK terhadap Teks Berita A
 
-1. **Diksi "Darurat" & "Sadis"**: Menciptakan rasa urgensi tinggi dan ketakutan kolektif yang mencekam.
+1. **Diksi "Darurat" & "Sadis"**: Menciptakan rasa urgensi tinggi dan ketakutan kolektif.
 2. **Ideologi Punitif**: Mendorong pendekatan penghukuman keras. Frasa *"Rakyat yang bertindak"* secara implisit melegitimasi aksi main hakim sendiri (*vigilantism*).
 3. **Stereotipisasi**: Kata *"Komplotan Bandit"* membangun citra organisasi kriminal yang terstruktur dan berbahaya, mengabaikan fakta bahwa pelaku mungkin individu yang terdesak faktor sosio-ekonomi.
 
@@ -137,7 +137,7 @@ Linguistik forensik merupakan cabang ilmu bahasa terapan yang memanfaatkan anali
 - **Diferensiasi Opini vs. Pencemaran Nama Baik**:
   - *Pernyataan A:* "Layanan di toko ini sangat lambat dan tidak profesional." $\rightarrow$ Merupakan penilaian subjektif atas pengalaman layanan (kritik).
   - *Pernyataan B:* "Pemilik toko ini adalah seorang penipu yang sengaja mencuri uang pelanggan." $\rightarrow$ Mengandung tuduhan faktual tanpa pembuktian hukum (pencemaran nama baik).
-- **Profil Kriminal Lewat Teks**: Penggunaan istilah teknis medis yang sangat presisi tetapi dikombinasikan dengan tata bahasa yang tidak teratur dalam surat tebusan mengindikasikan tersangka yang memiliki latar belakang pendidikan atau profesi medis tertentu, namun mencoba menyamarkan identitasnya melalui manipulasi tata bahasa.
+- **Profil Kriminal Lewat Teks**: Penggunaan istilah teknis medis yang presisi tetapi dikombinasikan dengan tata bahasa yang tidak teratur dalam surat tebusan mengindikasikan tersangka yang memiliki latar belakang pendidikan atau profesi medis tertentu, namun mencoba menyamarkan identitasnya melalui manipulasi tata bahasa.
 
 ---
 

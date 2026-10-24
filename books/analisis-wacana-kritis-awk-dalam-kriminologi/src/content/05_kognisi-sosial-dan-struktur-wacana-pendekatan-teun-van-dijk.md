@@ -1,6 +1,6 @@
 ## Kognisi Sosial dan Struktur Wacana menurut Teun van Dijk
 
-Pernahkah terlintas pertanyaan mengapa sebuah kebijakan keamanan yang sangat ketat seringkali diterima dengan tangan terbuka oleh masyarakat? Padahal, kebijakan tersebut mungkin membatasi kebebasan sipil. Jawabannya seringkali tidak terletak pada fakta-fakta statistik kejahatan, melainkan pada bagaimana pesan tersebut dikonstruksi dalam pikiran publik.
+Pernahkah terlintas pertanyaan mengapa sebuah kebijakan keamanan yang ketat seringkali diterima dengan tangan terbuka oleh masyarakat? Padahal, kebijakan tersebut mungkin membatasi kebebasan sipil. Jawabannya seringkali tidak terletak pada fakta-fakta statistik kejahatan, melainkan pada bagaimana pesan tersebut dikonstruksi dalam pikiran publik.
 
 Dalam kerangka Analisis Wacana Kritis (AWK), **Teun van Dijk** menawarkan perspektif yang unik dengan memasukkan elemen "jembatan" yang hilang dalam analisis bahasa tradisional: **Kognisi Sosial**.
 
@@ -120,7 +120,7 @@ Teknik ini digunakan untuk menentukan penulis asli dari sebuah teks yang tidak d
 
 ### C. Analisis Konten untuk Menilai Niat dan Risiko
 
-Dalam kriminologi, membedakan antara **ancaman nyata** dan sekadar **luapan emosi** sangat krusial. Linguistik forensik membantu menentukan:
+Dalam kriminologi, membedakan antara **ancaman nyata** dan sekadar **luapan emosi** itu penting. Linguistik forensik membantu menentukan:
 
 - Keberadaan niat (*intent*) yang jelas dalam teks tersebut.
 - Tingkat risiko berdasarkan pola komunikasi yang digunakan.
@@ -137,7 +137,7 @@ Untuk memahami bagaimana kriminolog menggunakan bahasa sebagai alat bukti, berik
    > - Pernyataan B: "Pemilik toko ini adalah seorang penipu yang sengaja mencuri uang pelanggan."
    
    Pernyataan A merupakan penilaian subjektif terhadap kualitas layanan (opini), sedangkan Pernyataan B memuat tuduhan tindakan pidana yang spesifik tanpa pembuktian hukum (pencemaran nama baik).
-4. **Hubungan dengan Profiling Kriminal:** Jika sebuah surat tuntutan tebusan menggunakan istilah medis yang sangat spesifik namun dengan tata bahasa yang berantakan, profil kriminologi yang dapat disusun menunjuk pada latar belakang tersangka yang memiliki pengetahuan teknis/medis tetapi mencoba mengaburkan identitas melalui penyimpangan tata bahasa.
+4. **Hubungan dengan Profiling Kriminal:** Jika sebuah surat tuntutan tebusan menggunakan istilah medis yang spesifik namun dengan tata bahasa yang berantakan, profil kriminologi yang dapat disusun menunjuk pada latar belakang tersangka yang memiliki pengetahuan teknis/medis tetapi mencoba mengaburkan identitas melalui penyimpangan tata bahasa.
 
 ## Benang Merah Pendekatan Van Dijk
 

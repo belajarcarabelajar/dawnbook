@@ -1,18 +1,18 @@
 ## Fondasi Teoretis Bahasa, Kekuasaan, dan Ideologi
 
-Selamat datang di jantung Analisis Wacana Kritis (AWK). Jika pada bab sebelumnya kerangka dasar AWK secara umum telah dibahas, sekarang pembahasan akan membedah "mesin" teoretis yang menggerakkannya. Dalam kriminologi, kejahatan bukan sekadar aksi fisik semata, melainkan sesuatu yang didefinisikan, diperdebatkan, dan dikonstruksi melalui bahasa dan media diskursif.
+Bab ini masuk ke inti teori Analisis Wacana Kritis (AWK). Jika pada bab sebelumnya kerangka dasar AWK secara umum telah dibahas, sekarang pembahasan akan membedah "mesin" teoretis yang menggerakkannya. Dalam kriminologi, kejahatan bukan sekadar aksi fisik semata, melainkan sesuatu yang didefinisikan, diperdebatkan, dan dikonstruksi melalui bahasa dan media diskursif.
 
-Mengapa seorang individu yang mencuri barang kebutuhan pokok dilabeli sebagai "kriminal", sementara korporasi yang membuang limbah beracun ke sungai sering kali hanya disebut mengalami "masalah administratif"? Jawabannya terletak pada hubungan komutatif yang rumit antara **Bahasa**, **Kekuasaan**, dan **Ideologi**.
+Mengapa seorang individu yang mencuri barang kebutuhan pokok dilabeli sebagai "kriminal", sementara korporasi yang membuang limbah beracun ke sungai sering kali hanya disebut mengalami "masalah administratif"? Jawabannya terletak pada hubungan yang rumit antara **Bahasa**, **Kekuasaan**, dan **Ideologi**.
 
 ### 1. Bahasa Bukan Sekadar Alat Komunikasi
 
-Dalam pandangan tradisional, bahasa dianggap sebagai cermin realitas, ia hanya memantulkan apa yang terjadi di dunia fisik. Namun, dalam AWK, bahasa dipahami secara mendalam sebagai **praktik sosial** (*social practice*) yang aktif membentuk kenyataan.
+Dalam pandangan tradisional, bahasa dianggap sebagai cermin realitas, ia hanya memantulkan apa yang terjadi di dunia fisik. Namun, dalam AWK, bahasa dipahami sebagai **praktik sosial** (*social practice*) yang aktif membentuk kenyataan.
 
 > **Wawasan Utama:** Bahasa tidak hanya mendeskripsikan dunia; bahasa secara aktif mengonstruksi dan membentuk realitas sosial.
 
 #### Lensa Kamera
 
-Bayangkan bahasa sebagai sebuah lensa kamera. Tergantung pada lensa yang digunakan (pilihan kata, tata bahasa, serta struktur narasi), objek yang sama dapat diposisikan dan diperlihatkan secara sangat berbeda:
+Bayangkan bahasa sebagai sebuah lensa kamera. Tergantung pada lensa yang digunakan (pilihan kata, tata bahasa, serta struktur narasi), objek yang sama dapat diposisikan dan diperlihatkan secara berbeda:
 
 - **Lensa Wide-Angle:** "Kemiskinan sistemik dan ketimpangan struktural menyebabkan peningkatan angka pencurian." (Fokus pada struktur sosial dan ketidakadilan ekonomi).
 - **Lensa Macro:** "Si A adalah residivis yang tidak jera dan memiliki penyimpangan perilaku." (Fokus pada kesalahan individual dan patologi perseorangan).
@@ -21,7 +21,7 @@ Pilihan "lensa" ini bukanlah hal yang kebetulan atau netral, melainkan hasil dar
 
 ### 2. Relasi Kuasa Michel Foucault
 
-Michel Foucault, seorang pemikir besar asal Prancis, merevolusi cara memandang kekuasaan. Baginya, kekuasaan bukan hanya sesuatu yang dimiliki raja atau pemerintah secara terpusat (*top-down*), melainkan sesuatu yang menyebar seperti jaringan kapiler di seluruh institusi dan praktik masyarakat.
+Michel Foucault, pemikir asal Prancis, mengubah cara memandang kekuasaan. Baginya, kekuasaan bukan hanya sesuatu yang dimiliki raja atau pemerintah secara terpusat (*top-down*), melainkan sesuatu yang menyebar seperti jaringan kapiler di seluruh institusi dan praktik masyarakat.
 
 #### Pengetahuan adalah Kekuasaan (*Power-Knowledge Relation*)
 
@@ -49,7 +49,7 @@ Jika Foucault menekankan penyebaran kekuasaan melalui wacana dan pengetahuan, An
 Hegemoni bekerja dengan menyusupkan cara pandang penguasa hingga berubah menjadi "akal sehat" (*common sense*) di tengah masyarakat:
 
 - **Konstruksi Institusional:** Masyarakat secara umum menyetujui bahwa pemenjaraan (*incarceration*) adalah satu-satunya solusi logis untuk menangani kejahatan. Pertanyaan mendasar seperti *"Apakah ada alternatif pemulihan selain memenjarakan seseorang?"* jarang sekali mengemuka.
-- **Dampak Diskursif:** Ketika suatu gagasan telah menjelma menjadi "akal sehat", gagasan tersebut berhenti dipertanyakan. Kondisi ini merupakan puncak pencapaian dari kekuasaan hegemonik.
+- **Dampak Diskursif:** Ketika suatu gagasan telah menjelma menjadi "akal sehat", gagasan tersebut berhenti dipertanyakan. Kondisi ini merupakan puncak dari kekuasaan hegemonik.
 
 ### 4. Mesin Ideologi di Balik Teks
 
@@ -98,7 +98,7 @@ Untuk memahami keterkaitan konsep-konsep di atas, lihat analisis terhadap narasi
 
 > **Pesan Utama:** Mempelajari AWK dalam kriminologi melatih kemampuan kritikal untuk tidak menerima secara polos apa yang tertera dalam dokumen hukum atau pemberitaan media kriminal. Analisis harus selalu mengajukan pertanyaan kunci: *Siapa yang diuntungkan oleh wacana ini? Dan suara siapa yang sedang dibungkam?*
 
-> **Refleksi Media:** Saat membaca pemberitaan mengenai penangkapan demonstran, pencermatan terhadap pilihan kata media antara "aktivis" atau "perusuh" mengungkapkan bagaimana satu kata mampu mengubah seluruh konstruksi kekuasaan dalam persepsi publik.
+> **Refleksi Media:** Saat membaca pemberitaan mengenai penangkapan demonstran, pencermatan terhadap pilihan kata media antara "aktivis" atau "perusuh" mengungkapkan bagaimana satu kata mampu mengubah konstruksi kekuasaan dalam persepsi publik.
 
 ### 7. Linguistik Forensik
 

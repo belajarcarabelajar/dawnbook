@@ -1,6 +1,6 @@
 ## Analisis Kesaksian Saksi dan Dinamika Ruang Sidang
 
-Selamat datang di modul ini. Setelah sebelumnya mempelajari fondasi teoretis dan metodologi Analisis Wacana Kritis (AWK), kini analisis masuk ke dalam medan pertempuran yang sesungguhnya dalam sistem peradilan pidana: **Ruang Sidang dan Ruang Interogasi.**
+Selamat datang di modul ini. Setelah sebelumnya mempelajari fondasi teoretis dan metodologi Analisis Wacana Kritis (AWK), kini analisis masuk ke praktik sistem peradilan pidana: **Ruang Sidang dan Ruang Interogasi.**
 
 Di sini, bahasa bukan sekadar alat komunikasi. Bahasa adalah instrumen kekuasaan yang digunakan untuk mengonstruksi kebenaran, menghancurkan kredibilitas, atau membebaskan seseorang dari jerat hukum. Mari membedah bagaimana kata-kata bekerja di bawah tekanan hukum.
 
@@ -59,7 +59,7 @@ Dalam AWK, analisis menyoroti bagaimana jaksa mungkin menggunakan kata **"memban
 
 ### 3. De-kredibilitas Saksi melalui Analisis Linguistik
 
-Salah satu dinamika paling krusial adalah bagaimana pengacara mencoba meruntuhkan kesaksian melalui strategi bahasa.
+Salah satu dinamika penting adalah bagaimana pengacara mencoba meruntuhkan kesaksian melalui strategi bahasa.
 
 #### Strategi *Silence and Speech*
 
@@ -122,7 +122,7 @@ Ini adalah teknik untuk menentukan siapa penulis asli dari sebuah teks yang tida
 
 #### Pola Komunikasi sebagai Petunjuk Tingkat Ancaman
 
-Dalam kriminologi, sangat penting untuk membedakan antara **ancaman nyata** dan sekadar **luapan emosi**. Linguistik forensik membantu menentukan:
+Dalam kriminologi, penting untuk membedakan antara **ancaman nyata** dan sekadar **luapan emosi**. Linguistik forensik membantu menentukan:
 
 - Apakah ada niat (*intent*) yang jelas dalam teks tersebut?
 - Seberapa tinggi tingkat risiko berdasarkan pola komunikasi yang digunakan?
@@ -136,7 +136,7 @@ Untuk memahami bagaimana seorang kriminolog menggunakan bahasa sebagai alat bukt
 1. **Tantangan Manipulasi Gaya Bahasa:** Jika seseorang mencoba meniru gaya menulis orang lain untuk menjebak mereka dalam sebuah kasus kejahatan siber, elemen bahasa apa yang paling sulit untuk dipalsukan secara konsisten?
    - *Petunjuk:* Cermati kebiasaan bawah sadar seperti penempatan koma atau penggunaan kata hubung.
 
-2. **Evolusi Digital:** Di era media sosial dan pesan instan (seperti WhatsApp atau X/Twitter), teks sering kali sangat pendek dan diwarnai beragam simbol. Bagaimana hal ini mempersulit atau justru membantu tugas seorang ahli linguistik forensik dalam mengidentifikasi pelaku?
+2. **Evolusi Digital:** Di era media sosial dan pesan instan (seperti WhatsApp atau X/Twitter), teks sering kali pendek dan diwarnai beragam simbol. Bagaimana hal ini mempersulit atau justru membantu tugas seorang ahli linguistik forensik dalam mengidentifikasi pelaku?
 
 3. **Batas Antara Opini dan Pencemaran Nama Baik:** Dalam kasus hukum, sering terjadi perdebatan apakah sebuah kalimat adalah "kritik" atau "pencemaran nama baik".
    
@@ -145,7 +145,7 @@ Untuk memahami bagaimana seorang kriminolog menggunakan bahasa sebagai alat bukt
    
    Perbedaan struktur bahasa antara pernyataan A dan B dapat dianalisis dari sudut pandang hukum berdasarkan derajat faktualitas, tuduhan pidana, dan bukti objektif.
 
-4. **Hubungan dengan Profiling Kriminal:** Jika sebuah surat tuntutan tebusan menggunakan istilah medis yang sangat spesifik namun dengan tata bahasa yang tidak terstruktur, profil kriminologi seperti apa yang bisa disusun mengenai latar belakang tersangka?
+4. **Hubungan dengan Profiling Kriminal:** Jika sebuah surat tuntutan tebusan menggunakan istilah medis yang spesifik namun dengan tata bahasa yang tidak terstruktur, profil kriminologi seperti apa yang bisa disusun mengenai latar belakang tersangka?
 
 Linguistik forensik bukan hanya tentang apa yang dikatakan, melainkan bagaimana hal itu dikatakan dan apa yang tersirat di balik struktur tersebut.
 

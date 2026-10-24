@@ -1,8 +1,8 @@
 ## Konstruksi Sosial tentang Kejahatan dan Penjahat
 
-Selamat datang di inti pembahasan Analisis Wacana Kritis (AWK) dalam kriminologi. Pada bagian ini, pemelajar akan membongkar sebuah ilusi besar: asumsi bahwa "kejahatan" adalah sesuatu yang secara alamiah ada dan "penjahat" adalah jenis manusia yang berbeda dari masyarakat lainnya.
+Selamat datang di inti pembahasan Analisis Wacana Kritis (AWK) dalam kriminologi. Pada bagian ini, pemelajar akan membongkar asumsi bahwa "kejahatan" adalah sesuatu yang secara alamiah ada dan "penjahat" adalah jenis manusia yang berbeda dari masyarakat lainnya.
 
-Bagian ini memperlihatkan bagaimana bahasa bukan sekadar alat untuk melaporkan peristiwa, melainkan pahat yang membentuk persepsi masyarakat tentang benar dan salah, normal dan menyimpang.
+Bagian ini memperlihatkan bagaimana bahasa bukan sekadar alat untuk melaporkan peristiwa, melainkan alat yang membentuk persepsi masyarakat tentang benar dan salah, normal dan menyimpang.
 
 ### 1. Kejahatan sebagai Produk Budaya, Bukan Fakta Alamiah
 
@@ -27,7 +27,7 @@ AWK menganalisis bagaimana bahasa menciptakan dikotomi antara "Kita" (masyarakat
    - *Contoh:* "Pembersihan hama masyarakat" atau "Virus kriminalitas yang menjangkiti kota."
 3. **Patologisasi:** Menggambarkan penjahat sebagai orang yang "sakit" atau "tidak normal" secara mental, sehingga masyarakat merasa berhak melakukan intervensi atau pengasingan tanpa perlu mempertanyakan ketidakadilan sosial di baliknya.
 
-> **Refleksi Kritis:** Pernahkah kita menyadari bahwa kata "penjahat" jarang digunakan untuk korporasi yang merusak lingkungan, namun sangat cepat digunakan untuk pemuda yang mencuri ponsel? Mengapa konstruksi bahasanya berbeda?
+> **Refleksi Kritis:** Pernahkah kita menyadari bahwa kata "penjahat" jarang digunakan untuk korporasi yang merusak lingkungan, namun cepat digunakan untuk pemuda yang mencuri ponsel? Mengapa konstruksi bahasanya berbeda?
 
 ### 3. Narasi Dominan dan Hegemoni Definisi
 

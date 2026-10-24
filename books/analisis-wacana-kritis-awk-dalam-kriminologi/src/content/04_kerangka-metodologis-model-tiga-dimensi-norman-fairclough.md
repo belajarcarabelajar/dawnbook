@@ -1,6 +1,6 @@
 ## Kerangka Metodologis Model Tiga Dimensi Norman Fairclough
 
-Selamat datang di jantung teknis dari Analisis Wacana Kritis (AWK). Jika kita membayangkan kriminologi sebagai upaya untuk membedah mengapa dan bagaimana kejahatan terjadi, maka model Norman Fairclough adalah mikroskop canggih yang digunakan untuk melihat bagaimana bahasa menjadi instrumen kekuasaan dalam mendefinisikan kejahatan itu sendiri.
+Bab ini membahas sisi teknis Analisis Wacana Kritis (AWK). Jika kita membayangkan kriminologi sebagai upaya untuk membedah mengapa dan bagaimana kejahatan terjadi, maka model Norman Fairclough adalah mikroskop yang digunakan untuk melihat bagaimana bahasa menjadi instrumen kekuasaan dalam mendefinisikan kejahatan itu sendiri.
 
 Norman Fairclough memandang wacana bukan sekadar kata-kata yang diucapkan, melainkan sebuah **praktik sosial**. Untuk membedahnya, ia menawarkan kerangka kerja tiga dimensi yang saling berkaitan: **Teks**, **Praktik Diskursif**, dan **Praktik Sosial-Budaya**.
 
@@ -156,7 +156,7 @@ Atribusi kepenulisan adalah teknik untuk menentukan penulis asli dari sebuah tek
 
 ### 3. Analisis Konten untuk Membedakan Ancaman Nyata dari Luapan Emosi
 
-Dalam kriminologi, sangat penting untuk membedakan antara **ancaman nyata** dan sekadar **luapan emosi**. Linguistik forensik membantu menentukan:
+Dalam kriminologi, penting untuk membedakan antara **ancaman nyata** dan sekadar **luapan emosi**. Linguistik forensik membantu menentukan:
 
 * Apakah ada niat (*intent*) yang jelas dalam teks tersebut?
 * Seberapa tinggi tingkat risiko berdasarkan pola komunikasi yang digunakan?
@@ -165,7 +165,7 @@ Dalam kriminologi, sangat penting untuk membedakan antara **ancaman nyata** dan 
 
 ## Skenario Analisis dan Pendalaman Kasus Linguistik Forensik
 
-Untuk memahami cara kriminolog menggunakan bahasa sebagai alat bukti, berikut adalah beberapa skenario analisis mendalam yang dapat dipelajari:
+Untuk memahami cara kriminolog menggunakan bahasa sebagai alat bukti, berikut adalah beberapa skenario analisis yang dapat dipelajari:
 
 ### 1. Menjebak Orang Lain lewat Tiruan Gaya Menulis
 Jika seseorang mencoba meniru gaya menulis orang lain untuk menjebak mereka dalam sebuah kasus kejahatan siber, elemen bahasa yang paling sulit untuk dipalsukan secara konsisten adalah kebiasaan bawah sadar, seperti penempatan koma, struktur kalimat imperatif, atau pola penggunaan kata hubung.
@@ -183,6 +183,6 @@ Dalam kasus hukum, perdebatan sering terjadi mengenai apakah suatu kalimat tergo
 **Analisis Struktur:** Pernyataan A berfokus pada pengalaman subjektif terhadap kualitas layanan (opini/evaluasi), sedangkan Pernyataan B memuat tuduhan faktual atas perbuatan pidana ("penipu", "mencuri") tanpa pembuktian hukum, sehingga secara linguistik dan legal berpotensi kuat memenuhi unsur pencemaran nama baik.
 
 ### 4. Hubungan dengan Profiling Kriminal
-Apabila sebuah surat tuntutan tebusan menggunakan istilah medis yang sangat spesifik namun disusun dengan tata bahasa yang tidak teratur, profil kriminologi dapat menyimpulkan bahwa tersangka kemungkinan memiliki latar belakang pekerjaan di bidang kesehatan atau pendidikan teknis tertentu, namun berada dalam kondisi tekanan psikologis tinggi saat menyusun teks tersebut.
+Apabila sebuah surat tuntutan tebusan menggunakan istilah medis yang spesifik namun disusun dengan tata bahasa yang tidak teratur, profil kriminologi dapat menyimpulkan bahwa tersangka kemungkinan memiliki latar belakang pekerjaan di bidang kesehatan atau pendidikan teknis tertentu, namun berada dalam kondisi tekanan psikologis tinggi saat menyusun teks tersebut.
 
 *Linguistik forensik bukan hanya tentang apa yang dikatakan, melainkan bagaimana hal itu dikatakan dan apa yang tersirat di balik struktur tersebut.*

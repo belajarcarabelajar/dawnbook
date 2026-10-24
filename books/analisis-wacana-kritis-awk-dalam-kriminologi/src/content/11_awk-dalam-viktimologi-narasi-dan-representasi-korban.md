@@ -25,7 +25,7 @@ Sebelum melangkah pada analisis tekstual, penting untuk memahami konsep teoretis
 
 ### 2. Konstruksi Bahasa dalam Viktimisasi Sekunder
 
-**Viktimisasi Sekunder** (*Secondary Victimization*) merujuk pada proses di mana institusi penegak hukum, sistem peradilan, media, atau masyarakat kembali menimbulkan dampak psikologis negatif pada korban melalui sikap, prosedur formal, atau (yang paling krusial) penggunaan struktur bahasa.
+**Viktimisasi Sekunder** (*Secondary Victimization*) merujuk pada proses di mana institusi penegak hukum, sistem peradilan, media, atau masyarakat kembali menimbulkan dampak psikologis negatif pada korban melalui sikap, prosedur formal, atau (terutama) penggunaan struktur bahasa.
 
 #### Pilihan Kata dan Agensi
 
@@ -137,8 +137,8 @@ Linguistik forensik membedakan antara ancaman pidana yang nyata (*true threat*) 
 
 ### 8. Ringkasan dan Catatan Kunci
 
-- **Kekuasaan dan Bahasa:** Bahasa adalah gelanggang tempat status korban didefinisikan, di mana pihak yang memegang kekuasaan wacana menentukan siapa yang berhak mendapatkan empati atau prasangka.
-- **Pencegahan Viktimisasi Sekunder:** Kesadaran terhadap bias bahasa di lingkungan penegak hukum dan media sangat penting untuk mencegah terjadinya trauma berulang bagi korban.
+- **Kekuasaan dan Bahasa:** Bahasa adalah tempat status korban didefinisikan, di mana pihak yang memegang kekuasaan wacana menentukan siapa yang berhak mendapatkan empati atau prasangka.
+- **Pencegahan Viktimisasi Sekunder:** Kesadaran terhadap bias bahasa di lingkungan penegak hukum dan media penting untuk mencegah terjadinya trauma berulang bagi korban.
 - **Peran Peneliti AWK:** Bertujuan membongkar bias ideologis tersembunyi dalam teks hukum dan media guna mendorong representasi korban yang lebih adil, netral, dan bermartabat.
 
 > **Insight Akhir:** Mengembangkan analisis wacana kritis terhadap representasi korban bukan bertujuan mengabaikan fakta hukum, melainkan memastikan bahwa instrumen bahasa dan peradilan tidak dipergunakan untuk menindas kembali pihak yang mengalami kejahatan.
