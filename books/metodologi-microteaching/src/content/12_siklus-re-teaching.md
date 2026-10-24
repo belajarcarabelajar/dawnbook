@@ -1,4 +1,4 @@
-# Siklus Re-teaching
+## Siklus Re-teaching
 
 Dalam dunia pengembangan perangkat lunak, terdapat istilah "Beta Testing" dan "Patching" untuk memperbaiki *bug* sebelum produk benar-benar siap. Dalam dunia pendidikan, khususnya *microteaching*, proses ini disebut dengan **Re-teaching** (Mengajar Kembali).
 

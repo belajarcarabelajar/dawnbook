@@ -1,4 +1,4 @@
-# Karakteristik dan Prinsip Pembelajaran Mikro
+## Karakteristik dan Prinsip Pembelajaran Mikro
 
 Selamat datang di inti dari metodologi *microteaching*! Jika pada bagian sebelumnya kita telah memahami filosofi dan sejarahnya, sekarang kita akan membedah "mesin" di balik pembelajaran mikro. Mengapa metode ini dianggap sebagai cara paling efektif untuk melatih calon guru? Jawabannya terletak pada satu kata kunci: **Penyederhanaan**.
 

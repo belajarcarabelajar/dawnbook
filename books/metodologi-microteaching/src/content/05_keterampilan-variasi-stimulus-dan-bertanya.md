@@ -1,4 +1,4 @@
-# Keterampilan Variasi Stimulus dan Bertanya
+## Keterampilan Variasi Stimulus dan Bertanya
 
 Pernahkah kamu duduk di sebuah seminar di mana pembicaranya berbicara dengan nada datar selama dua jam tanpa bergerak sedikit pun dari podium? Kemungkinan besar, pikiran kamu mulai melayang ke daftar belanjaan atau apa yang akan kamu makan siang nanti.
 
