@@ -2,7 +2,7 @@
 
 ## Neurogenesis
 
-Selama puluhan tahun, dunia sains meyakini sebuah dogma yang cukup suram: kita terlahir dengan jumlah sel otak tertentu, dan seiring bertambahnya usia, sel-sel tersebut akan mati tanpa pernah bisa digantikan. Namun, memasuki akhir abad ke-20, paradigma ini runtuh. Para ilmuwan menemukan bahwa otak orang dewasa bukanlah sebuah patung batu yang statis, melainkan sebuah taman yang dinamis di mana benih-benih kehidupan baru terus tumbuh.
+Selama puluhan tahun, dunia sains meyakini sebuah dogma yang cukup suram: setiap dari kita terlahir dengan jumlah sel otak tertentu. Seiring bertambahnya usia, sel-sel tersebut akan mati tanpa pernah bisa digantikan. Namun, memasuki akhir abad ke-20, paradigma ini runtuh. Para ilmuwan menemukan bahwa otak orang dewasa bukanlah sebuah patung batu yang statis, melainkan sebuah taman yang dinamis di mana benih-benih kehidupan baru terus tumbuh.
 
 Fenomena luar biasa ini disebut **Neurogenesis**.
 

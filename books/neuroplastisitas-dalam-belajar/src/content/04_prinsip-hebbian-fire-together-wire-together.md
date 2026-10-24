@@ -1,6 +1,6 @@
 ## Prinsip Hebbian
 
-Pernahkah kamu bertanya-tanya mengapa setelah berulang kali berlatih alat musik atau menghafal kosa kata asing, jari-jari atau pikiran kamu seolah-olah bergerak secara otomatis? Fenomena ini bukan sekadar "kebiasaan", melainkan manifestasi fisik dari hukum paling fundamental dalam neurosains: **Prinsip Hebbian**.
+Setelah berulang kali berlatih alat musik atau menghafal kosa kata asing, jari-jari atau pikiran kamu seolah-olah bergerak secara otomatis. Pernahkah kamu bertanya-tanya mengapa? Fenomena ini bukan sekadar "kebiasaan", melainkan manifestasi fisik dari hukum paling fundamental dalam neurosains: **Prinsip Hebbian**.
 
 Dalam bagian ini, kita akan menjelajahi bagaimana aktivitas sinkron antara sel-sel saraf mengubah arsitektur otak kita dan menjadi fondasi utama bagi pembentukan memori jangka panjang.
 

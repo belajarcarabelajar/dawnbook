@@ -1,6 +1,6 @@
 ## Masa Depan Pendidikan Berbasis Neurosains
 
-Bayangkan sebuah sekolah di mana kurikulumnya tidak bersifat kaku, melainkan bernapas dan beradaptasi seiring dengan perkembangan sirkuit saraf setiap siswanya. Kita tidak lagi berada di era di mana "satu ukuran cocok untuk semua." Berkat pemahaman mendalam tentang **neuroplastisitas**, kita sedang berdiri di ambang pintu revolusi pendidikan terbesar dalam sejarah manusia.
+Bayangkan sebuah sekolah yang kurikulumnya tidak kaku, melainkan bernapas dan beradaptasi seiring perkembangan sirkuit saraf setiap siswanya. Kita tidak lagi berada di era di mana "satu ukuran cocok untuk semua." Berkat pemahaman mendalam tentang **neuroplastisitas**, kita sedang berdiri di ambang pintu revolusi pendidikan terbesar dalam sejarah manusia.
 
 Materi ini akan merangkum perjalanan kita memahami otak dan memproyeksikan bagaimana pengetahuan tersebut akan mengubah wajah ruang kelas, kebijakan pendidikan, dan metode pengajaran di seluruh dunia.
 
