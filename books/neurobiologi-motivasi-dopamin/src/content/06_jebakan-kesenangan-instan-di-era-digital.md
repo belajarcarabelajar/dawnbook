@@ -2,13 +2,13 @@
 
 Pernahkah kamu berniat membuka ponsel hanya untuk mengecek jam, namun tiba-tiba tersadar 30 menit telah berlalu? Waktu itu habis karena kamu terjebak dalam guliran (*scrolling*) tanpa henti di media sosial. Atau mungkin kamu merasa sangat sulit untuk menolak godaan makanan cepat saji meskipun kamu tidak benar-benar lapar?
 
-Selamat datang di era **Supernormal Stimuli**, sebuah masa di mana teknologi dan industri makanan telah berhasil meretas sirkuit purba di otak kita untuk mendapatkan perhatian dan kesenangan instan secara terus-menerus.
+Inilah era **Supernormal Stimuli**, masa ketika teknologi dan industri makanan memanfaatkan sirkuit purba di otak kita untuk mendapatkan perhatian dan kesenangan instan secara terus-menerus.
 
 ## Evolusi vs. Revolusi Digital
 
 Otak manusia berevolusi di lingkungan yang langka sumber daya. Di masa lalu, mendapatkan makanan manis atau interaksi sosial adalah hal yang sulit dan membutuhkan usaha besar. Oleh karena itu, otak kita mengembangkan sistem motivasi yang sangat sensitif terhadap **imbalan (reward)**.
 
-Masalahnya, evolusi biologi berjalan sangat lambat, sementara evolusi teknologi melesat secepat kilat. Kita memiliki otak pemburu-pengumpul (*hunter-gatherer*) yang hidup di dunia yang dipenuhi oleh "hutan digital" penuh dengan buah-buahan yang terlalu manis dan terlalu mudah didapat.
+Masalahnya, evolusi biologi berjalan sangat lambat, sementara evolusi teknologi berjalan sangat cepat. Kita memiliki otak pemburu-pengumpul (*hunter-gatherer*) yang hidup di dunia yang dipenuhi oleh "hutan digital" penuh dengan buah-buahan yang terlalu manis dan terlalu mudah didapat.
 
 > **Insight Penting:** Masalahnya bukan pada dopamin itu sendiri, melainkan pada kecepatan, kemudahan, dan intensitas stimulasi yang kita terima di era digital.
 
@@ -18,7 +18,7 @@ Media sosial dirancang menggunakan prinsip psikologi perilaku yang sama dengan m
 
 ### Bagaimana Ini Menjebak Otak?
 
-Ketika kamu menggulir layar, kamu tidak tahu kapan kamu akan menemukan konten yang menarik (lucu, provokatif, atau informatif). Ketidakpastian inilah yang memicu lonjakan dopamin yang sangat besar.
+Ketika kamu menggulir layar, kamu tidak tahu kapan kamu akan menemukan konten yang menarik (lucu, provokatif, atau informatif). Ketidakpastian inilah yang memicu lonjakan dopamin yang besar.
 
 - **Validasi Sosial:** Setiap "Like", komentar, atau pengikut baru adalah sinyal bagi otak bahwa kita "penting" secara sosial.
 - **FOMO (Fear of Missing Out):** Otak kita secara instingtif takut ketinggalan informasi yang bisa krusial bagi kelangsungan hidup, membuat kita terus mengecek notifikasi.
@@ -33,14 +33,14 @@ Hal ini menciptakan kondisi di mana otak terus-menerus berada dalam fase *wantin
 
 ## 3. Makanan Cepat Saji (Hyper-palatable Foods)
 
-Makanan cepat saji dirancang secara laboratoris untuk mencapai "Bliss Point", kombinasi sempurna antara lemak, gula, dan garam yang tidak ditemukan secara alami di alam dalam konsentrasi setinggi itu.
+Makanan cepat saji dirancang secara laboratoris untuk mencapai "Bliss Point", kombinasi lemak, gula, dan garam yang tidak ditemukan secara alami di alam dalam konsentrasi setinggi itu.
 
-- **Stimulasi Berlebih:** Makanan ini membanjiri reseptor rasa kita, mengirimkan sinyal dopamin yang jauh lebih kuat daripada makanan alami (seperti buah atau sayuran).
+- **Stimulasi Berlebih:** Makanan ini merangsang reseptor rasa kita secara berlebihan, mengirimkan sinyal dopamin yang jauh lebih kuat daripada makanan alami (seperti buah atau sayuran).
 - **Short-circuiting Satiety:** Stimulasi dopamin yang masif dapat menumpulkan sinyal hormon leptin (hormon kenyang), sehingga kita terus makan meskipun perut sudah penuh secara fisik.
 
 ## Dampak pada Struktur Otak dan Impulsivitas
 
-Stimulasi berlebih yang kronis ini menyebabkan terjadinya pergeseran kekuasaan di dalam otak kita.
+Stimulasi berlebih yang kronis ini menyebabkan terjadinya pergeseran keseimbangan di dalam otak kita.
 
 ### Lemahnya Prefrontal Cortex (PFC)
 
@@ -87,6 +87,6 @@ Untuk menghindari jebakan ini, kita perlu melakukan "rekayasa lingkungan":
 2. **Gunakan Aturan 10 Menit:** Jika kamu merasa dorongan impulsif untuk membuka media sosial atau makan camilan, katakan pada diri sendiri: *"Boleh, tapi tunggu 10 menit."* Ini memberi waktu bagi PFC untuk "online" kembali dan mengambil alih kendali.
 3. **Matikan Notifikasi Non-Manusia:** Matikan semua notifikasi kecuali pesan langsung dari manusia nyata. Jangan biarkan algoritma menentukan kapan kamu harus memberikan perhatian.
 
-> **Pesan Utama:** Otak kamu tidak dirancang untuk menangani stimulasi tak terbatas. Menyadari bahwa kamu sedang "dipancing" oleh algoritma adalah langkah pertama untuk merebut kembali kendali atas perhatian dan motivasi kamu.
+> **Pesan Utama:** Otak kamu tidak dirancang untuk menangani stimulasi yang terus-menerus. Menyadari bahwa kamu sedang "dipancing" oleh algoritma adalah langkah pertama untuk merebut kembali kendali atas perhatian dan motivasi kamu.
 
 *Coba renungkan: Dalam satu jam terakhir, berapa banyak tindakan yang kamu lakukan berdasarkan keputusan sadar, dan berapa banyak yang merupakan respon otomatis terhadap stimulasi instan?*

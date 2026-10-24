@@ -2,7 +2,7 @@
 
 Bayangkan kamu duduk di sebuah ruangan kecil. Di depan kamu, ada sebuah piring berisi satu butir marshmallow yang manis dan empuk. Seorang peneliti masuk dan memberi tahu kamu: "Saya harus keluar sebentar. Jika marshmallow ini masih ada di piring saat saya kembali, saya akan memberimu satu lagi. Jadi, kamu akan punya dua."
 
-Inilah inti dari **Delayed Gratification**: kemampuan untuk menolak godaan kesenangan instan demi mendapatkan imbalan yang jauh lebih besar di masa depan. Dalam modul ini, kita akan mempelajari bagaimana melatih "otot" otak kita untuk memenangkan pertempuran melawan impulsivitas.
+Inilah inti dari **Delayed Gratification**: kemampuan untuk menolak godaan kesenangan instan demi mendapatkan imbalan yang jauh lebih besar di masa depan. Dalam modul ini, kita akan mempelajari bagaimana melatih "otot" otak kita untuk menahan impulsivitas.
 
 ## PFC vs. Sistem Limbik
 

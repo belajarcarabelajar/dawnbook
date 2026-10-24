@@ -2,13 +2,13 @@
 
 Pernahkah kamu bertanya-tanya mengapa menggulir media sosial berjam-jam terasa sangat mudah, tetapi memulai satu halaman laporan kerja terasa sangat berat? Atau mengapa aroma kopi di pagi hari bisa membuat kamu beranjak dari tempat tidur bahkan sebelum kamu benar-benar meminumnya?
 
-Jawaban dari pertanyaan-pertanyaan ini tidak terletak pada kemauan semata, melainkan pada mekanisme biologis di dalam otak kita. Selamat datang di penjelajahan **Neurobiologi Motivasi**.
+Jawaban dari pertanyaan-pertanyaan ini tidak terletak pada kemauan semata, melainkan pada mekanisme biologis di dalam otak kita. Mekanisme inilah yang dipelajari **Neurobiologi Motivasi**.
 
 ## Motivasi Lebih dari Sekadar Keinginan
 
 Secara psikologis, kita sering mendefinisikan motivasi sebagai dorongan untuk melakukan sesuatu. Namun, secara **neurobiologis**, motivasi adalah proses kalkulasi biaya dan imbalan (*cost-benefit analysis*) yang berlangsung secara terus-menerus di bawah sadar kita.
 
-Motivasi menjadi jembatan utama antara **persepsi** (apa yang kita lihat dan rasakan) serta **aksi** (apa yang kita lakukan).
+Motivasi menghubungkan **persepsi** (apa yang kita lihat dan rasakan) dengan **aksi** (apa yang kita lakukan).
 
 ### Mobil dan Sistem Kemudi
 
@@ -83,7 +83,7 @@ Bayangkan kamu menghadapi tugas berat seperti menulis esai atau laporan. Otak ka
 
 - **Motivasi adalah proses biologis**, berbasis mekanisme saraf dan bukan sekadar keteguhan mental.
 - **Otak berfungsi sebagai mesin prediksi** yang terus menerus menghitung kelayakan suatu tindakan berdasarkan nisbah imbalan dan usaha.
-- **Dopamin** berperan sebagai molekul kunci yang menjadi bahan bakar utama penggerak tindakan.
-- Memahami formulasi motivasi biologis membantu kamu meretas kebiasaan sendiri untuk mengatasi penundaan pekerjaan.
+- **Dopamin** adalah molekul utama yang mendorong tindakan.
+- Memahami formulasi motivasi biologis membantu kamu mengubah kebiasaan sendiri untuk mengatasi penundaan pekerjaan.
 
 > **Pelajaran Utama:** Kita tidak bisa selalu mengontrol perasaan kita, tetapi kita bisa mengelola lingkungan dan cara kita menyajikan tugas kepada otak untuk memicu dorongan bertindak yang tepat.

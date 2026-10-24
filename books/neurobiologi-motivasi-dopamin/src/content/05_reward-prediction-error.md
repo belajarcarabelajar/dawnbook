@@ -1,6 +1,6 @@
 ## Reward Prediction Error
 
-Pernahkah kamu memesan secangkir kopi di kedai baru tanpa ekspektasi tinggi, lalu terkejut karena rasanya sangat luar biasa? Kamu merasa sangat senang dan mungkin ingin kembali lagi besok. Sebaliknya, bayangkan kamu pergi ke restoran berbintang lima dengan ekspektasi selangit, namun makanannya terasa biasa saja. Kamu merasa kecewa, padahal makanannya tidak buruk.
+Pernahkah kamu memesan secangkir kopi di kedai baru tanpa ekspektasi tinggi, lalu terkejut karena rasanya enak? Kamu merasa senang dan mungkin ingin kembali lagi besok. Sebaliknya, bayangkan kamu pergi ke restoran berbintang lima dengan ekspektasi tinggi, namun makanannya terasa biasa saja. Kamu merasa kecewa, padahal makanannya tidak buruk.
 
 Fenomena ini bukan sekadar masalah selera, melainkan hasil dari perhitungan matematis yang dilakukan otakmu setiap saat. Inilah yang disebut dengan **Reward Prediction Error (RPE)** atau Error Prediksi Imbalan.
 
@@ -66,7 +66,7 @@ Sebuah perusahaan rintisan (*startup*) sering memberikan diskon besar-besaran di
 Memberikan perhatian atau hadiah kecil secara tiba-tiba tanpa alasan khusus (kejutan) memicu RPE positif yang jauh lebih berkesan dibandingkan memberikan hadiah mewah yang sudah lama diminta atau direncanakan.
 
 #### 3. Pembelajaran dan Pendidikan
-Seorang pendidik yang memanfaatkan metode bervariasi serta memberikan tantangan yang pas (tidak terlalu mudah, tidak terlalu sulit) akan menjaga peserta didik dalam kondisi RPE positif yang stabil, kunci utama memasuki *flow state* atau konsentrasi penuh.
+Seorang pendidik yang memanfaatkan metode bervariasi serta memberikan tantangan yang pas (tidak terlalu mudah, tidak terlalu sulit) akan menjaga peserta didik dalam kondisi RPE positif yang stabil, yang membantu mereka memasuki *flow state* atau konsentrasi penuh.
 
 ---
 
@@ -74,19 +74,19 @@ Seorang pendidik yang memanfaatkan metode bervariasi serta memberikan tantangan 
 
 Mengapa seseorang yang sangat sukses terkadang tetap merasa hampa?
 
-Ketika kamu terbiasa memperoleh pencapaian luar biasa, ambang batas **Ekspektasi** dirimu secara otomatis melonjak naik ($\text{Ekspektasi} \uparrow$). Demi mendapatkan sinyal **RPE** yang positif, kamu membutuhkan **Imbalan Aktual** yang jauh lebih raksasa lagi ($\text{Aktual} \uparrow\uparrow$).
+Ketika kamu terbiasa memperoleh pencapaian besar, ambang batas **Ekspektasi** dirimu secara otomatis naik ($\text{Ekspektasi} \uparrow$). Demi mendapatkan sinyal **RPE** yang positif, kamu membutuhkan **Imbalan Aktual** yang jauh lebih besar lagi ($\text{Aktual} \uparrow\uparrow$).
 
 $$
 0 = 100 \ (\text{Aktual}) - 100 \ (\text{Ekspektasi})
 $$
 
-Secara matematis, kendati kamu memperoleh imbalan angka 100 (yang di mata orang lain sudah sangat fantastis), apabila ekspektasimu sudah terpatri di angka 100, perasaan yang muncul hanyalah netral (*Zero RPE*). Inilah yang menjelaskan mengapa kita terus mengejar hal yang lebih besar tanpa pernah merasa benar-benar puas.
+Secara matematis, kendati kamu memperoleh imbalan angka 100 (yang di mata orang lain sudah besar), apabila ekspektasimu sudah terpatri di angka 100, perasaan yang muncul hanyalah netral (*Zero RPE*). Inilah yang menjelaskan mengapa kita terus mengejar hal yang lebih besar tanpa pernah merasa benar-benar puas.
 
 ---
 
 ### Strategi Mengelola RPE untuk Kesejahteraan Mental
 
-Untuk menjaga sistem motivasi otak tetap sehat dan seimbang, kamu bisa meretas cara kerja RPE melalui beberapa langkah:
+Untuk menjaga sistem motivasi otak tetap sehat dan seimbang, kamu bisa memanfaatkan cara kerja RPE melalui beberapa langkah:
 
 1. **Praktikkan Rasa Syukur (*Gratitude*):** Dengan secara sadar mengapresiasi hal-hal sederhana, kamu menurunkan ambang batas ekspektasi ($\text{Ekspektasi} \downarrow$), sehingga momen kecil dalam hidup lebih sering menghadirkan **Positive Prediction Error**.
 2. **Kelola Ekspektasi dengan Bijak:** Hindari memvisualisasikan hasil akhir secara berlebihan; alihkan fokus utama pada proses. Visualisasi hasil yang terlalu muluk justru berisiko memicu *Negative Prediction Error* saat realitas tidak seindah bayangan.

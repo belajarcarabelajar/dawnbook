@@ -2,7 +2,7 @@
 
 Pernahkah kamu mendapati dirimu terus-menerus menekan tombol "Next Episode" di Netflix atau menggeser layar Instagram selama berjam-jam? Kamu terus melakukannya walau sudah merasa bosan, lelah, dan tidak lagi benar-benar menikmati konten yang kamu lihat.
 
-Secara logika, jika kita tidak menikmati sesuatu, kita seharusnya berhenti. Namun, otak manusia memiliki mekanisme yang jauh lebih kompleks. Dalam modul ini, kita akan membedah salah satu penemuan paling revolusioner dalam neurosains modern: **pemisahan antara keinginan (*wanting*) dan kesenangan (*liking*)**.
+Secara logika, jika kita tidak menikmati sesuatu, kita seharusnya berhenti. Namun, otak manusia memiliki mekanisme yang jauh lebih kompleks. Dalam modul ini, kita akan membedah salah satu temuan penting dalam neurosains modern: **pemisahan antara keinginan (*wanting*) dan kesenangan (*liking*)**.
 
 ---
 
@@ -41,10 +41,10 @@ Ini adalah sensasi kenikmatan murni saat kamu mendapatkan atau mengonsumsi imbal
 Dalam kondisi sehat, *wanting* dan *liking* berjalan selaras. Namun, dalam siklus adiksi (baik itu zat, gadget, atau judi), terjadi pergeseran yang berbahaya:
 
 #### Sensitisasi *Wanting*
-Setiap kali otak terpapar stimulus yang memicu dopamin secara masif, sirkuit *wanting* mengalami **sensitisasi**. Artinya, sirkuit ini menjadi semakin peka terhadap petunjuk (*cues*) yang berkaitan dengan objek tersebut. Contoh: Hanya dengan melihat ikon aplikasi media sosial, otakmu sudah melepaskan dopamin dalam jumlah besar, menciptakan dorongan luar biasa untuk membukanya.
+Setiap kali otak terpapar stimulus yang memicu dopamin secara masif, sirkuit *wanting* mengalami **sensitisasi**. Artinya, sirkuit ini menjadi semakin peka terhadap petunjuk (*cues*) yang berkaitan dengan objek tersebut. Contoh: Hanya dengan melihat ikon aplikasi media sosial, otakmu sudah melepaskan dopamin dalam jumlah besar, menciptakan dorongan kuat untuk membukanya.
 
 #### Desensitisasi *Liking* (Toleransi)
-Di sisi lain, karena otak dibombardir terus-menerus, ia melakukan proteksi diri dengan mengurangi jumlah reseptor kesenangan. Ini disebut **downregulation**. Akibatnya, kamu membutuhkan dosis yang lebih tinggi hanya untuk merasakan tingkat kenikmatan yang sama dengan sebelumnya.
+Di sisi lain, karena otak terpapar terus-menerus, ia melakukan proteksi diri dengan mengurangi jumlah reseptor kesenangan. Ini disebut **downregulation**. Akibatnya, kamu membutuhkan dosis yang lebih tinggi hanya untuk merasakan tingkat kenikmatan yang sama dengan sebelumnya.
 
 **Hubungan matematis ini dapat digambarkan sebagai:**
 
@@ -64,7 +64,7 @@ Ikuti skenario nyata berikut:
 2. **Pukul 23.30:** Kamu menyadari sudah 1,5 jam melihat video pendek. Kamu merasa mata perih dan otak "kosong".
 3. **Pukul 23.35:** Meskipun kamu tidak tertawa atau belajar hal baru dari video tersebut (*Liking* rendah), jarimu terus menggeser ke atas (*Wanting* tinggi).
 
-> **Bahan Perenungan:** Pernahkah kamu merasa "haus" akan informasi baru di internet, tetapi setelah membacanya, kamu merasa tidak mendapatkan apa-apa? Itu adalah bukti bahwa sistem *Wanting*-mu sedang dibajak oleh algoritma, sementara sistem *Liking*-mu sudah kelelahan.
+> **Bahan Perenungan:** Pernahkah kamu merasa "haus" akan informasi baru di internet, tetapi setelah membacanya, kamu merasa tidak mendapatkan apa-apa? Itu tanda bahwa sistem *Wanting*-mu sedang dipicu terus oleh algoritma, sementara sistem *Liking*-mu sudah kelelahan.
 
 ---
 
@@ -95,4 +95,4 @@ Memahami perbedaan ini adalah kunci untuk mendapatkan kembali kendali atas peril
 | **Kondisi Dalam Adiksi** | Meningkat (*Sensitisasi*) | Menurun (*Toleransi*) |
 | **Fokus Waktu** | Masa Depan (*Antisipasi*) | Masa Sekarang (*Konsumsi*) |
 
-> **Pesan Penutup:** Manusia sering terjebak mengejar bayangan kebahagiaan karena bingung membedakan antara **dorongan untuk memiliki** dan **kemampuan untuk menikmati**. Dengan memahami neurobiologi ini, kamu memiliki kekuatan untuk berhenti menjadi budak dari sistem *wanting*-mu sendiri.
+> **Pesan Penutup:** Manusia sering terjebak mengejar kebahagiaan karena bingung membedakan antara **dorongan untuk memiliki** dan **kemampuan untuk menikmati**. Dengan memahami neurobiologi ini, kamu bisa berhenti dikendalikan oleh sistem *wanting*-mu sendiri.

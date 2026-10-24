@@ -1,6 +1,6 @@
 ## Dopamin Tonik vs. Fasik
 
-Pernahkah kamu terbangun di pagi hari merasa sangat bersemangat dan siap menaklukkan dunia tanpa alasan yang jelas? Atau sebaliknya, merasa lesu dan tidak bermotivasi meskipun tidak ada hal buruk yang terjadi? Kunci dari fluktuasi perasaan ini terletak pada bagaimana otak kamu mengelola "stok" dopaminnya.
+Pernahkah kamu terbangun di pagi hari merasa sangat bersemangat dan siap memulai hari tanpa alasan yang jelas? Atau sebaliknya, merasa lesu dan tidak bermotivasi meskipun tidak ada hal buruk yang terjadi? Kunci dari fluktuasi perasaan ini terletak pada bagaimana otak kamu mengelola "stok" dopaminnya.
 
 Dalam memahami neurobiologi motivasi, kita harus membedakan antara dua cara dopamin bekerja dalam sistem saraf kita: **Dopamin Tonik** (level dasar) dan **Dopamin Fasik** (lonjakan mendadak).
 
@@ -66,7 +66,7 @@ Jika $B$ (Tonik) kamu sangat rendah, bahkan $S$ (fasik/stimulus) yang besar pun 
 
 ### 3. Mengapa "High" Diikuti "Low"?
 
-Salah satu hukum paling krusial dalam neurobiologi adalah **homeostasis**. Otak selalu berusaha menyeimbangkan kadar dopamin.
+Salah satu prinsip penting dalam neurobiologi adalah **homeostasis**. Otak selalu berusaha menyeimbangkan kadar dopamin.
 
 Ketika kamu mengalami lonjakan dopamin fasik yang sangat tinggi (misalnya memenangkan lotre atau pesta semalam suntuk), otak akan merespons dengan menurunkan kadar dopamin tonik (baseline) di bawah level normal sebagai bentuk kompensasi. Inilah yang disebut sebagai *crash* atau penurunan suasana hati setelah kesenangan besar.
 

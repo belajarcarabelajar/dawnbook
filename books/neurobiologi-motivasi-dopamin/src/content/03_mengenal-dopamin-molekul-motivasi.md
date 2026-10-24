@@ -2,7 +2,7 @@
 
 Selama puluhan tahun, dopamin sering kali disalahpahami oleh publik. Media populer kerap menjuluki dopamin sebagai "molekul kesenangan" (*pleasure chemical*). Kamu mungkin sering mendengar seseorang berkata, "Aku sedang dapat *dopamine hit*" saat mereka menikmati cokelat manis atau melihat jumlah *like* bertambah di media sosial.
 
-Namun, neurosains modern mengungkap fakta yang jauh berbeda. Dopamin sebenarnya bukanlah tentang **merasakan** kenikmatan, melainkan tentang **pengejaran** terhadap kenikmatan tersebut. Dopamin adalah bahan bakar neurokimia yang mendorong kamu untuk bergerak, mencari, bertindak, dan menginginkan sesuatu.
+Namun, neurosains modern memberi gambaran yang berbeda. Dopamin sebenarnya bukanlah tentang **merasakan** kenikmatan, melainkan tentang **pengejaran** terhadap kenikmatan tersebut. Dopamin adalah bahan bakar neurokimia yang mendorong kamu untuk bergerak, mencari, bertindak, dan menginginkan sesuatu.
 
 ---
 
@@ -22,7 +22,7 @@ Untuk memahami bedanya pengejaran dan rasa nikmat, bayangkan kamu sedang sangat 
 
 > **Insight Utama:** Dopamin mengatur sirkuit *wanting* (menginginkan), sedangkan molekul kimiawi lain seperti opioid endogen mengatur sirkuit *liking* (menyukai).
 
-*Pernahkah kamu merasa sangat bersemangat saat memesan barang secara online, namun ketika paketnya tiba dan dibuka, rasa antusias itu mendadak menguap begitu saja? Itulah bukti nyata bahwa dopamin bekerja pada proses antisipasi, bukan pada kepemilikan.*
+*Pernahkah kamu merasa sangat bersemangat saat memesan barang secara online, namun ketika paketnya tiba dan dibuka, rasa antusias itu mendadak menguap begitu saja? Itu contoh bahwa dopamin bekerja pada proses antisipasi, bukan pada kepemilikan.*
 
 ---
 
@@ -65,12 +65,12 @@ Dalam eksperimen neurosains laboratorium, tikus yang kadar dopamin di otaknya di
 Memahami bahwa dopamin adalah molekul pengejaran akan mengubah caramu memandang produktivitas, kebiasaan, hingga prokrastinasi.
 
 ### 1. Jebakan "The Chasing Game"
-Desain aplikasi media sosial dan strategi pemasaran digital sengaja mengeksploitasi sirkuit ini. Notifikasi merah di layar ponsel kamu memicu lonjakan dopamin karena menawarkan potensi "informasi baru". Kamu membuka ponsel bukan selalu karena menikmati kontennya, melainkan karena otak kamu terobsesi dengan *antisipasi* terhadap kejutan informasi tersebut.
+Desain aplikasi media sosial dan strategi pemasaran digital sengaja mengeksploitasi sirkuit ini. Notifikasi merah di layar ponsel kamu memicu lonjakan dopamin karena menawarkan potensi "informasi baru". Kamu membuka ponsel bukan selalu karena menikmati kontennya, melainkan karena otak kamu terdorong oleh *antisipasi* terhadap kejutan informasi tersebut.
 
 ### 2. Strategi Mengatasi Prokrastinasi
 Sering kali kamu menunda pekerjaan bukan karena tugas itu terlalu sulit, melainkan karena **antisipasi** terhadap rasa lelah atau kebosanan menekan pelepasan dopamin. 
 
-**Solusi Praktis:** Pecah tugas raksasa menjadi langkah-langkah mikro. Setiap kali kamu menyelesaikan satu langkah kecil, otak menerima sinyal kemajuan (*progress signal*) yang melepaskan dopamin dalam jumlah pas, memberikan suntikan energi untuk menyelesaikan langkah berikutnya.
+**Solusi Praktis:** Pecah tugas besar menjadi langkah-langkah mikro. Setiap kali kamu menyelesaikan satu langkah kecil, otak menerima sinyal kemajuan (*progress signal*) yang melepaskan dopamin dalam jumlah pas, memberikan energi untuk menyelesaikan langkah berikutnya.
 
 ### 3. Olahraga dan Kondisi Aliran (*Flow State*)
 Saat kamu mulai melangkah untuk berolahraga, dopamin dilepaskan sebagai antisipasi terhadap rasa bugar serta pencapaian target. Lonjakan awal ini membantu kamu menembus hambatan awal hingga mencapai *flow state* di mana tindakan terasa mengalir alami.
@@ -79,9 +79,9 @@ Saat kamu mulai melangkah untuk berolahraga, dopamin dilepaskan sebagai antisipa
 
 ## Mengapa Pengejaran Lebih Penting daripada Hasil?
 
-Secara evolusioner, desain sirkuit dopamin sangat krusial bagi kelangsungan hidup manusia. Jika manusia purba merasa puas sepenuhnya setelah berhasil berburu satu ekor rusa, mereka akan berdiam diri dan akhirnya mati kelaparan saat musim dingin tiba.
+Secara evolusioner, desain sirkuit dopamin penting bagi kelangsungan hidup manusia. Jika manusia purba merasa puas sepenuhnya setelah berhasil berburu satu ekor rusa, mereka akan berdiam diri dan akhirnya mati kelaparan saat musim dingin tiba.
 
-Oleh karena itu, dopamin dirancang untuk **tidak pernah terpuaskan secara permanen**. Ia adalah mesin pendorong alami yang menjaga spesies manusia agar terus berevolusi, membangun peradaban, menciptakan teknologi, dan menjelajahi hal-hal baru.
+Oleh karena itu, dopamin dirancang untuk **tidak pernah terpuaskan secara permanen**. Ia mendorong manusia untuk terus mencari dan menjelajahi hal-hal baru.
 
 ### Ringkasan Poin Kunci
 
