@@ -220,3 +220,33 @@ describe("book pelajaran-hidup-dari-harvest-moon-back-to-nature", () => {
     expect(hits).toEqual([]);
   });
 });
+
+// The strategy guide is copyrighted, so the book cites it as a bibliographic record and never links a scan of it.
+describe("pelajaran-hidup-dari-harvest-moon-back-to-nature attribution", () => {
+  test("no file in the book's src links to archive.org or mentions a scan", () => {
+    const src = path.join(BOOK, "src");
+    const hits = fs
+      .readdirSync(src, { recursive: true, encoding: "utf-8" })
+      .filter((f) => f.endsWith(".md"))
+      .filter((f) => /archive\.org|pindaian/i.test(fs.readFileSync(path.join(src, f), "utf-8")));
+    expect(hits).toEqual([]);
+  });
+
+  test("the Referensi intro says the book is an unofficial fan work", () => {
+    const md = fs.readFileSync(path.join(BOOK, "src/content/14_referensi.md"), "utf-8");
+    const intro = md.split("\n### ")[0];
+    expect(intro).toContain("tidak berafiliasi");
+    expect(intro).toContain("merek dagang");
+  });
+});
+
+// The public research notes record that a scan was read, but never link it (debt sweep U3a, 2026-10-24).
+describe("pelajaran-hidup-dari-harvest-moon-back-to-nature public notes", () => {
+  test("the research notes and plan do not link the archive.org scan of the guide", () => {
+    const hits = [NOTES, PLAN]
+      .filter((p) => fs.existsSync(p))
+      .filter((p) => /archive\.org\/(details|metadata|download)\/docslide/i.test(fs.readFileSync(p, "utf-8")))
+      .map((p) => path.relative(ROOT, p));
+    expect(hits).toEqual([]);
+  });
+});

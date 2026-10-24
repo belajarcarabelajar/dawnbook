@@ -11,37 +11,35 @@ Selain tokoh utama, kehadiran tokoh pendukung dalam novel *9 Summers 10 Autumns*
 1. **Mbak Isa (Siti Aisyah - Peran Lanjutan)**
    Mbak Isa rela menunda impian akademiknya demi memberikan kesempatan kuliah bagi adik-adiknya, serta bekerja keras sebagai pengajar privat:
    
-   > “Mbak Isa memutuskan untuk mengambil beberapa kursus di Malang sambil mencari kesempatan kerja. Dengan reputasi sebagai anak yang lumayan pintar, akhirnya mbakku yang pendiam ini memutuskan untuk memberikan les privat kepada anak SD dan SMP. Dalam selang waktu yang tidak lama, ia dikenal sebagai guru les yang andal dan mendapatkan tambahan murid dengan cepat.” (Hlm. 40)
+   Sambil mencari kerja, Mbak Isa mengambil beberapa kursus di Malang. Berbekal reputasi sebagai anak yang lumayan pintar, kakak yang pendiam ini lalu memberi les privat untuk anak SD dan SMP, dan tak lama kemudian ia dikenal sebagai guru les andal yang muridnya cepat bertambah (Hlm. 40).
 
 2. **Rohani (Mbak Inan)**
    Mbak Inan adalah kakak kedua Iwan yang memiliki karakter tegas, disiplin, menyukai kebersihan, serta sangat mencintai dunia sastra dan puisi. Dialah yang menularkan darah seni kepada adik-adiknya:
    
-   > “Ketika anak-anak lain merengek waktu akan berangkat sekolah, ia selalu siap dengan cerianya, dengan bedak yang tidak rata di mukanya. Ketika anak-anak lain malu-malu maju ke depan kelas untuk menyanyi, kakakku yang jago baca puisi ini mengacungkan tangan, ingin tampil ke depan.” (Hlm. 43)
-   
-   > “Kami sering bertanya-tanya, dari mana darah seni ini mengalir? Dialah yang mengajari kami seni baca puisi, bagaimana intonasi dan gaya penghayatan, bagaimana memasuki sebuah karya. Di sinilah kami tersentuh, menghargai keindahan lewat puisi. Di sinilah rasa sentimental memasuki darah kami. Keindahan berpuisi, keindahan menikmati sebuah karya.” (Hlm. 44)
-   
-   > “Mbak Inan juga selalu mengajarkan untuk menjaga kebersihan… Mbak Inan selalu bangun lebih pagi, menyapu halaman, menyirami tanaman, menyapu lantai rumah, dan mengepelnya… Dialah yang membagi tugas untuk adik-adiknya: siapa, kapan, dan bagaimana membersihkan rumah. Dia juga menciptakan teknik sendiri untuk mengepel lantai semen rumah supaya kelihatan lebih mengkilap.” (Hlm. 45)
+   Waktu anak-anak lain merengek sebelum berangkat sekolah, Mbak Inan sudah siap dengan riang, meski bedak di wajahnya tidak rata. Waktu teman-temannya malu maju ke depan kelas untuk menyanyi, ia justru mengacungkan tangan karena ingin tampil (Hlm. 43).
+
+   Iwan dan saudara-saudaranya sering bertanya-tanya “dari mana darah seni ini mengalir?” (Hlm. 44). Mbak Inan yang mengajari adik-adiknya membaca puisi, dari intonasi sampai cara menghayati dan memasuki sebuah karya. Dari situ mereka tersentuh dan belajar menghargai keindahan lewat puisi, dan rasa sentimental pun meresap ke dalam diri mereka.
+
+   Soal kebersihan, Mbak Inan selalu bangun lebih pagi untuk menyapu halaman, menyiram tanaman, lalu menyapu dan mengepel lantai. Ia pula yang membagi tugas bersih-bersih kepada adik-adiknya, dan ia juga menciptakan teknik sendiri agar lantai semen rumah tampak lebih mengkilap (Hlm. 45).
 
 3. **Rini Agustina**
    Adik perempuan Iwan yang sangat terampil, rajin, dan tekun dalam membantu pekerjaan rumah tangga serta mencari nafkah:
    
-   > “Rini menjadi adik kelasku di SD Ngaglik I dan terlihat ia lebih menyukai ilmu keterampilan, seperti menyulam, membuat boneka gajah dari kapas, atau membuat durian dari bola plastik. Tangannya begitu terampil” (Hlm. 50)
-   
-   > “Rini yang berkulit lebih putih dari kami semua dan rambut hitam yang tebal, dengan ketekunannya, dengan kebesaran hatinya, melalui jari-hari bersama alat-alat dapur, buku-buku pasien, sapu, dan kain pel. Ia selalu bangun pagi, naik angkot oranye ke Desa Junggo… Ketekunannya, ketegarannya untuk mencari uang, melelehkan hati kami semua. Keringatnya menetes di atas atap rumah mungilku.” (Hlm. 51)
+   Di SD Ngaglik I, tempat ia menjadi adik kelas Iwan, Rini lebih menyukai pelajaran keterampilan: menyulam, membuat boneka gajah dari kapas, atau membuat durian dari bola plastik. Tangannya begitu terampil (Hlm. 50).
+
+   Hari-hari Rini diisi alat dapur, buku pasien, sapu, dan kain pel. Ia selalu bangun pagi dan naik angkot oranye ke Desa Junggo, dan ketekunannya mencari uang melelehkan hati seluruh keluarga. Dalam kata-kata Iwan, “Keringatnya menetes di atas atap rumah mungilku” (Hlm. 51).
 
 4. **Mira (Denok)**
    Adik bungsu Iwan yang berhati lembut, penuh kasih sayang, sensitif, namun gigih beradaptasi dengan dunia profesional berkat bimbingan mentornya:
    
-   > “Mira, hatinya begitu lunak. Ia mudah tersentuh. Di tengah kesedihan dan kebahagiaan, air mata adalah bahasanya. Mira adalah kejujuran yang tak pernah retak. Tapi, ia kadang retak karena menggenggam masa lalu terlalu kuat.” (Hlm. 55)
-   
-   > “Mira tak pernah meminta apa pun kepada orang tua kami. Ia hanya menerima. Ia mengerti benar yang kami lalui. Ia mengerti ketidakmampuan kami. Ia begitu mengerti. Mira hatinya putih, gampang teriris.” (Hlm. 55)
-   
-   > “Mira adalah pribadi yang hangat. Di masa kuliahnya, ia mengenal Bu Tata, wanita yang berpandangan luas, yang menjadi inspirasi adikku. Bu Tata berlatar belakang pendidikan luar negeri, menjadi jendela baru buat adikku. Setelah bekerja dengan Bu Tata untuk beberapa proyek, Mira tak hanya mulai bermain-main dengan internet dan bahasa Inggris, ia juga mulai mengenal etika profesional. Berkat Bu Tata pula Mira bisa bekerja di Komisi Flu Burung Indonesia Jakarta.” (Hlm. 57–58)
+   Hati Mira begitu lunak dan mudah tersentuh; dalam sedih maupun bahagia, “air mata adalah bahasanya” (Hlm. 55). Ia jujur tanpa retak, meski kadang retak karena menggenggam masa lalu terlalu kuat. Ia juga tak pernah meminta apa pun kepada orang tua, dan ia sungguh memahami keterbatasan keluarganya.
+
+   Semasa kuliah, Mira yang hangat mengenal Bu Tata, perempuan berpandangan luas berlatar pendidikan luar negeri yang menjadi jendela baru baginya. Lewat beberapa proyek bersama Bu Tata, Mira mulai bermain-main dengan internet dan bahasa Inggris serta mengenal etika profesional. Berkat Bu Tata pula Mira bisa bekerja di Komisi Flu Burung Indonesia di Jakarta (Hlm. 57–58).
 
 5. **Audrey**
    Teman dekat Iwan di New York yang berwatak ramah dan terbuka, menjadi rekan bertukar pikiran yang membantunya merefleksikan nilai-nilai kehidupan:
    
-   > “Setelah saling bertukar beberapa e-mail siang itu, keesokan harinya, seperti tak mau menunda lagi, aku bertemu dengan Audrey seusai yoga. Kami berbincang selama berjam-jam tentang hidup, yoga, dan spirituality di Blue Ribbon, restoran Jepang favoritnya di West Village. Sangat mudah untuk terus menggulirkan bola perbincangan dengannya. This is quite Connection, pikirku. Mungkin kami berada di jalur pencarian hidup yang sama saat itu. Mulai dari yoga sampai Barneys.” (Hlm. 81)
+   Sehari setelah bertukar beberapa e-mail, Iwan menemui Audrey seusai yoga. Mereka berbincang berjam-jam tentang hidup, yoga, dan spiritualitas di Blue Ribbon, restoran Jepang favorit Audrey di West Village, dan obrolan itu mengalir dengan mudah. Iwan merasa “mungkin kami berada di jalur pencarian hidup yang sama saat itu” (Hlm. 81), mulai dari yoga sampai Barneys.
 
 ### Peran Lingkungan Akademik dan Kerja
 
