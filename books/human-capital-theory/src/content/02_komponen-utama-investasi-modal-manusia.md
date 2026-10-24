@@ -1,6 +1,6 @@
 ## Komponen Utama Investasi Modal Manusia
 
-Selamat datang di pembahasan inti mengenai **Teori Modal Manusia** (*Human Capital Theory*). Jika sebelumnya kita telah memahami bahwa manusia bukan hanya "biaya", tetapi "aset" ekonomi yang bernilai, sekarang kita akan membedah jenis-jenis investasi yang dapat ditanamkan ke dalam diri agar nilai aset tersebut meningkat.
+Pembahasan inti **Teori Modal Manusia** (*Human Capital Theory*) bermuara pada satu soal praktis: investasi apa saja yang bisa menaikkan nilai diri seseorang? Jika sebelumnya kita telah memahami bahwa manusia bukan hanya "biaya", tetapi "aset" ekonomi yang bernilai, sekarang kita akan membedah jenis-jenis investasi yang dapat ditanamkan ke dalam diri agar nilai aset tersebut meningkat.
 
 Bayangkan diri kamu sebagai sebuah perangkat lunak (*software*). Pendidikan formal adalah sistem operasi dasarnya, pelatihan teknis adalah fitur-fitur khusus yang kamu tambahkan, dan kesehatan adalah perangkat keras (*hardware*) yang memastikan seluruh sistem berjalan lancar. Tanpa investasi yang tepat, potensi ekonomi seseorang akan tetap menjadi kapasitas yang tidak terpakai.
 
