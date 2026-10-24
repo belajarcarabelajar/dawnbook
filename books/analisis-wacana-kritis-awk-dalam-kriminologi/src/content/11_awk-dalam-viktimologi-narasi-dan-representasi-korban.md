@@ -86,7 +86,7 @@ Media massa memegang peranan sentral dalam membentuk persepsi kolektif masyaraka
 
 ### 5. Bedah Teks Sederhana
 
-Sebagai latihan metode AWK, perhatikan potongan kutipan berita berikut:
+Sebagai latihan metode AWK, cermati potongan kutipan berita berikut:
 
 > *"Seorang pria paruh baya nekat mengakhiri hidupnya karena depresi terlilit hutang pinjol. Pria yang dikenal tertutup ini jarang bersosialisasi dengan tetangga."*
 

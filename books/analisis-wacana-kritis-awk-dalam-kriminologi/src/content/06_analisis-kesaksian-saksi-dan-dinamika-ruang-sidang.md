@@ -45,7 +45,7 @@ Kalimat di atas bukan sekadar pertanyaan; kalimat tersebut adalah sebuah **argum
 
 #### Pilihan Kata (Diksi) dan Pembingkaian (*Framing*)
 
-Pilihan kata dapat mengubah interpretasi fakta yang sama. Perhatikan perbedaan berikut dalam menggambarkan sebuah kecelakaan:
+Pilihan kata dapat mengubah interpretasi fakta yang sama. Lihat perbedaan berikut dalam menggambarkan sebuah kecelakaan:
 
 | Kata Kerja | Implikasi Kecepatan / Kekerasan |
 | --- | --- |
@@ -134,7 +134,7 @@ Dalam kriminologi, sangat penting untuk membedakan antara **ancaman nyata** dan 
 Untuk memahami bagaimana seorang kriminolog menggunakan bahasa sebagai alat bukti, mari mendalami beberapa skenario dan pertanyaan analisis berikut:
 
 1. **Tantangan Manipulasi Gaya Bahasa:** Jika seseorang mencoba meniru gaya menulis orang lain untuk menjebak mereka dalam sebuah kasus kejahatan siber, elemen bahasa apa yang paling sulit untuk dipalsukan secara konsisten?
-   - *Petunjuk:* Perhatikan kebiasaan bawah sadar seperti penempatan koma atau penggunaan kata hubung.
+   - *Petunjuk:* Cermati kebiasaan bawah sadar seperti penempatan koma atau penggunaan kata hubung.
 
 2. **Evolusi Digital:** Di era media sosial dan pesan instan (seperti WhatsApp atau X/Twitter), teks sering kali sangat pendek dan diwarnai beragam simbol. Bagaimana hal ini mempersulit atau justru membantu tugas seorang ahli linguistik forensik dalam mengidentifikasi pelaku?
 

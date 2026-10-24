@@ -130,7 +130,7 @@ flowchart TD
 
 ### Latihan Analisis Kritis
 
-Cobalah mengambil sebuah berita kriminal dari media massa hari ini dan amati judulnya. Apabila subjek (pelaku) diganti dengan deskripsi yang lebih humanis (misalnya: "seorang ayah tiga anak" alih-alih "pencuri motor"), perhatikan bagaimana persepsi publik terhadap kejahatan tersebut dapat berubah secara signifikan. Analisis ini menunjukkan alasan mengapa media massa cenderung memilih deskripsi tertentu.
+Cobalah mengambil sebuah berita kriminal dari media massa hari ini dan amati judulnya. Apabila subjek (pelaku) diganti dengan deskripsi yang lebih humanis (misalnya: "seorang ayah tiga anak" alih-alih "pencuri motor"), cermati bagaimana persepsi publik terhadap kejahatan tersebut dapat berubah secara signifikan. Analisis ini menunjukkan alasan mengapa media massa cenderung memilih deskripsi tertentu.
 
 **Kesimpulan:** Model Tiga Dimensi Fairclough memungkinkan pemelajar untuk tidak hanya menjadi pembaca pasif, tetapi menjadi pengamat kritis yang mampu melihat agenda tersembunyi di balik narasi kriminalitas. Dengan memahami bagaimana teks dikonstruksi, analisis dapat dilakukan untuk mempertanyakan apakah "kebenaran" dalam hukum adalah kebenaran objektif atau sekadar hasil dari konstruksi bahasa yang dominan.
 
@@ -174,7 +174,7 @@ Jika seseorang mencoba meniru gaya menulis orang lain untuk menjebak mereka dala
 Di era media sosial dan pesan instan (seperti WhatsApp dan Twitter/X), teks sering kali berukuran pendek dan dipenuhi dengan karakter khusus maupun singkatan. Hal ini memberikan tantangan sekaligus peluang unik bagi ahli linguistik forensik dalam mengidentifikasi pola kebiasaan mengetik (*typing habits*) dan jejak digital pelaku.
 
 ### 3. Batas Antara Opini dan Pencemaran Nama Baik
-Dalam kasus hukum, perdebatan sering terjadi mengenai apakah suatu kalimat tergolong "kritik" atau "pencemaran nama baik". Perhatikan perbandingan dua pernyataan berikut:
+Dalam kasus hukum, perdebatan sering terjadi mengenai apakah suatu kalimat tergolong "kritik" atau "pencemaran nama baik". Bandingkan dua pernyataan berikut:
 
 > **Pernyataan A:** "Layanan di toko ini sangat lambat dan tidak profesional."
 > 
