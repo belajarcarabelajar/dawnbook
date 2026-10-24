@@ -1,6 +1,6 @@
 ## Grit
 
-Pernahkah kamu melihat seseorang yang secara akademis biasa-biasa saja, tetapi sepuluh tahun kemudian memimpin perusahaan besar atau menjadi ahli di bidangnya? Sementara itu, rekan mereka yang dianggap "jenius" justru tampak jalan di tempat. Perbedaan mencolok ini sering kali bukan disebabkan oleh tingkat IQ atau keberuntungan semata, melainkan sebuah kualitas mental yang disebut **Grit**.
+Pernahkah kamu melihat seseorang yang secara akademis biasa saja, tetapi sepuluh tahun kemudian memimpin perusahaan besar atau menjadi ahli di bidangnya? Sementara itu, rekan mereka yang dianggap "jenius" justru tampak jalan di tempat. Perbedaan mencolok ini sering kali bukan disebabkan oleh tingkat IQ atau keberuntungan semata, melainkan sebuah kualitas mental yang disebut **Grit**.
 
 Dalam perjalanan membangun resiliensi, Grit adalah mesin yang menjaga kamu tetap bergerak saat motivasi awal sudah memudar. Jika resiliensi adalah kemampuan untuk bangkit kembali setelah jatuh, maka Grit adalah kemampuan untuk terus berjalan ribuan kilometer menuju garis finish, meski kamu harus jatuh bangun berkali-kali.
 
