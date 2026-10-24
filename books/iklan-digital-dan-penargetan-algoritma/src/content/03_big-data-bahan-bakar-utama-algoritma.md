@@ -1,4 +1,4 @@
-## Big Data sebagai Bahan Bakar Algoritma
+## Big Data dalam Algoritma Iklan
 
 Bayangkan sebuah mesin jet yang canggih. Tanpa bahan bakar berkualitas tinggi, mesin tersebut hanya diam. Dalam ekosistem periklanan digital, **Algoritma** adalah mesin jetnya, dan **Big Data** adalah bahan bakarnya.
 
@@ -85,7 +85,7 @@ $$
 P(\text{Click}) = f(\text{Demografi}, \text{Minat}, \text{Perilaku}, \text{Konteks})
 $$
 
-### 5. Iklan "The Ghost Ad" yang Seolah Mendengarkan
+### 5. Iklan yang Seolah Mendengarkan Pembicaraan
 
 Pernahkah kamu membicarakan suatu produk dengan teman, lalu tiba-tiba iklan produk tersebut muncul di media sosial kamu? Meskipun sering dianggap "mendengarkan pembicaraan", kenyataannya algoritma sering kali hanya mengolah **Big Data**:
 

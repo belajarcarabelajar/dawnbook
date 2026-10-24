@@ -69,7 +69,7 @@ Penyaringan audiens berdasarkan kriteria mikro bisa sangat sederhana. Misalkan t
 
 Pengguna 2 sebenarnya juga suka kopi, tetapi tersaring karena tinggal di Bandung dan kebiasaan belanjanya rendah.
 
-### Studi Kasus & Aplikasi Dunia Nyata
+### Contoh Kampanye Mikro-Penargetan
 
 #### Peluncuran Produk Vegan Dog Food Khusus Anjing Senior
 

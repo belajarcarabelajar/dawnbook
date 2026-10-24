@@ -4,7 +4,7 @@ Selamat datang di modul ini! Setelah sebelumnya kita membahas bagaimana data dik
 
 Di bagian ini, kita akan membedah "sabuk pengaman" dan "rambu-rambu" hukum yang membatasi sejauh mana data kamu boleh diambil dan digunakan untuk iklan.
 
-## 1. Dari "Wild West" Menuju Regulasi Ketat
+## 1. Dari Periklanan Tanpa Aturan ke Regulasi Ketat
 
 Dahulu, dunia periklanan digital sering dianggap sebagai *Wild West*, wilayah tanpa hukum di mana data pribadi dipanen secara masif tanpa izin. Namun, kesadaran akan privasi mengubah keadaan itu.
 

@@ -4,7 +4,7 @@ Pernahkah kamu merasa seolah-olah ponsel kamu sedang "mendengarkan" pembicaraan 
 
 Ini adalah hasil dari **Penargetan Perilaku (Behavioral Targeting)** yang bekerja selaras dengan **Psikologi Konsumen**. Algoritma tidak hanya memproses data; mereka memetakan bagaimana otak manusia bekerja untuk menciptakan dorongan belanja.
 
-## 1. Jembatan Antara Data dan Keinginan
+## 1. Dari Data ke Keinginan Konsumen
 
 Algoritma digital berfungsi seperti seorang pelayan restoran yang intuitif. Sebelum kamu memesan, ia sudah tahu bahwa kamu menyukai makanan pedas karena ia telah memperhatikan pilihan kamu selama berbulan-bulan.
 
@@ -70,7 +70,7 @@ Di mana:
 
 Semakin banyak data psikologis (minat, emosi, waktu aktif) yang dimasukkan ke dalam variabel $B$, semakin akurat prediksi iklan tersebut.
 
-## 5. Retargeting yang Cerdas
+## 5. Retargeting di Setiap Tahap Pembelian
 
 **Skenario Perjalanan Membeli Sepatu Lari**
 
@@ -87,7 +87,7 @@ Ada garis tipis antara membantu konsumen menemukan apa yang mereka butuhkan dan 
 - **Dark Patterns:** Taktik antarmuka pengguna yang memaksa tindakan secara tidak sadar (misalnya, tombol "Batal" yang dibuat hampir tidak terlihat).
 - **Filter Bubbles:** Algoritma yang hanya menunjukkan apa yang kita sukai dapat memperkuat bias dan menutup perspektif baru.
 
-## Ringkasan untuk Pembelajar Kinestetik
+## Eksperimen Kecil yang Bisa Kamu Coba
 
 Untuk benar-benar memahami ini, cobalah eksperimen kecil:
 

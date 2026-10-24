@@ -20,7 +20,7 @@ $$
 
 Di mana $f$ merepresentasikan fitur seperti (usia, lokasi, minat\_otomotif, riwayat\_belanja).
 
-### 2. Tiga Pilar Logika Algoritma Penargetan
+### 2. Tiga Pendekatan Algoritma Penargetan
 
 Untuk memprediksi apa yang ingin kamu lihat, algoritma menggunakan tiga pendekatan utama:
 
@@ -80,7 +80,7 @@ Dalam hitungan ini, meskipun iklan "Luxury Watch" memiliki bayaran (bid) terting
 - **Prediksi Real-Time:** Dalam hitungan detik, saat pengguna tersebut membuka portal berita, algoritma penargetan bekerja sama dengan jaringan iklan untuk menampilkan iklan diskon popok atau susu formula dari merek kompetitor.
 - **Hasil:** Konversi terjadi karena iklan muncul saat relevansi emosional dan kebutuhan fungsional sedang tinggi.
 
-### Ringkasan Penting
+### Ringkasan Cara Kerja Algoritma
 
 - **Data adalah Input:** Algoritma membutuhkan aliran data terus-menerus untuk menjaga akurasi.
 - **Vektorisasi:** Manusia diubah menjadi titik-titik data matematis agar bisa diproses secara komputasi.

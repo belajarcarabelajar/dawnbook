@@ -91,7 +91,7 @@ Mari kita lihat bagaimana teknologi ini bekerja bersama dalam sebuah skenario ny
 3. **Langkah 3:** Andi menutup situs tersebut dan membuka aplikasi Instagram di ponselnya. Instagram mengenali **Device ID** Andi yang sudah terhubung dengan profil minat "Outdoor".
 4. **Langkah 4:** Melalui sistem lelang cepat (RTB), iklan tenda model A yang dilihat Andi tadi langsung muncul di *feed* Andi.
 
-### Ringkasan Jejak Digital
+### Perbandingan Empat Teknologi Pelacakan
 
 | Teknologi | Bentuk | Lokasi Penyimpanan | Kegunaan Utama |
 | --- | --- | --- | --- |

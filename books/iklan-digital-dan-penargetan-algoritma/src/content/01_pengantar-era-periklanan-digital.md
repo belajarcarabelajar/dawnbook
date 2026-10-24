@@ -10,11 +10,11 @@ Berbeda dengan iklan tradisional, iklan digital tidak hanya sekadar "memberi tah
 
 > "Iklan digital bukan lagi tentang mencari audiens, melainkan tentang ditemukan oleh audiens yang tepat di saat yang paling tepat."
 
-### Siaran Radio vs. Asisten Pribadi
+### Megafon vs. Asisten Pribadi
 
 Bayangkan iklan tradisional seperti seseorang yang berteriak menggunakan **megafon** di tengah pasar yang ramai. Dia berteriak kepada semua orang, berharap ada satu atau dua orang yang tertarik dengan dagangannya. Sebaliknya, iklan digital ibarat seorang **asisten pribadi** yang berbisik di telinga kamu, "Saya tahu kamu sedang mencari sepatu lari yang nyaman untuk maraton bulan depan, ini ada diskon 20% untuk merek favorit kamu."
 
-## Sejarah Singkat dari Cetak ke Piksel
+## Sejarah Singkat Iklan dari Cetak ke Digital
 
 Transisi dari media tradisional ke digital tidak terjadi dalam semalam. Mari kita lihat lini masa transformasinya:
 
@@ -30,11 +30,11 @@ Pada 27 Oktober 1994, sejarah berubah. Situs web *HotWired* menampilkan **banner
 
 - **Hasilnya:** Angka klik (Click-Through Rate/CTR) mencapai 44%, angka yang hampir mustahil dicapai di era sekarang.
 
-### 3\. Revolusi Mesin Pencari (Awal 2000-an)
+### 3\. Iklan di Mesin Pencari (Awal 2000-an)
 
 Google meluncurkan **AdWords** (sekarang Google Ads) pada tahun 2000. Ini memperkenalkan konsep **Contextual Advertising** (Iklan Kontekstual), di mana iklan muncul berdasarkan apa yang sedang dicari oleh pengguna. Jika kamu mencari "hotel di Bali", kamu akan melihat iklan hotel di Bali.
 
-### 4\. Era Media Sosial dan Ekosistem Dinamis (Sekarang)
+### 4\. Era Media Sosial (Sekarang)
 
 Dengan munculnya Facebook, Instagram, dan TikTok, iklan tidak lagi hanya berdasarkan *apa yang kamu cari*, tetapi juga *siapa kamu*, *apa minat kamu*, dan *bagaimana perilaku kamu*. Kita telah masuk ke ekosistem yang sangat dinamis di mana konten iklan dibuat secara otomatis untuk menyesuaikan dengan selera individu.
 
