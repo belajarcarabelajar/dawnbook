@@ -1,10 +1,10 @@
 ## Tantangan dan Hambatan dalam Pembelajaran Multidisiplin
 
-Pembelajaran multidisiplin, meskipun menawarkan berbagai manfaat, juga tidak luput dari berbagai tantangan dan hambatan nyata dalam implementasinya. Memahami hambatan ini sangat penting untuk dapat merancang strategi yang efektif dalam mengatasi dan meminimalkannya.
+Pembelajaran multidisiplin, meskipun menawarkan berbagai manfaat, juga tidak luput dari berbagai tantangan dan hambatan nyata dalam implementasinya. Memahami hambatan ini penting untuk dapat merancang strategi yang efektif dalam mengatasi dan meminimalkannya.
 
 ### 1. Tantangan Integrasi Materi dari Berbagai Disiplin
 
-Salah satu inti dari pembelajaran multidisiplin adalah kemampuan untuk mengintegrasikan pengetahuan dan konsep dari berbagai disiplin ilmu. Namun, proses ini sering kali menjadi sangat kompleks.
+Salah satu inti dari pembelajaran multidisiplin adalah kemampuan untuk mengintegrasikan pengetahuan dan konsep dari berbagai disiplin ilmu. Namun, proses ini sering kali menjadi kompleks.
 
 Setiap disiplin ilmu memiliki struktur pengetahuan, kerangka kerja, dan metodologinya sendiri yang unik. Menyatukan elemen-elemen ini tanpa menghilangkan kedalaman masing-masing disiplin adalah tugas yang sulit. Sebagai contoh, cara seorang sejarawan menganalisis data sangat berbeda dengan seorang ilmuwan data, dan mencari titik temu dalam pendekatan mereka membutuhkan pemikiran yang cermat.
 
@@ -49,7 +49,7 @@ Tantangan paling umum adalah menyelaraskan prioritas dan jadwal yang berbeda. An
 
 Selain itu, gaya kerja dan komunikasi kerap bertolak belakang. Sebagai contoh, seorang insinyur mungkin lebih menyukai data konkret dan visualisasi grafik, sementara ilmuwan humaniora lebih nyaman dengan narasi mendalam serta analisis kualitatif. Perbedaan gaya ini membutuhkan pemahaman dan kompromi dari seluruh anggota tim.
 
-Tanpa adanya pembagian peran yang jelas sejak awal, tumpang tindih pekerjaan atau justru kekosongan tanggung jawab sangat mungkin terjadi. Oleh karena itu, kemampuan mengelola konflik yang lahir dari benturan perspektif, istilah, dan prioritas menjadi prasyarat mutlak dalam menyukseskan kerja tim lintas disiplin.
+Tanpa adanya pembagian peran yang jelas sejak awal, tumpang tindih pekerjaan atau justru kekosongan tanggung jawab sangat mungkin terjadi. Oleh karena itu, kemampuan mengelola konflik yang lahir dari benturan perspektif, istilah, dan prioritas menjadi prasyarat dalam menyukseskan kerja tim lintas disiplin.
 
 #### Skenario di Dunia Nyata
 
@@ -59,6 +59,6 @@ Dalam aspek **integrasi materi**, ahli lingkungan fokus pada model penyebaran po
 
 Masalah **terminologi** juga sering muncul. Bagi ahli lingkungan, "data" berarti hasil pengukuran kadar partikulat di udara. Bagi insinyur, "data" adalah baris-baris informasi dalam database. Sementara bagi sosiolog, "data" berupa hasil wawancara dan survei kualitatif masyarakat.
 
-Selain itu, **bias disipliner** bisa memicu konflik ketika insinyur cenderung mengecilkan faktor sosial kemasyarakatan, sementara sosiolog merasa intervensi teknologi semata tidak akan mampu memecahkan masalah mendasar. Semua ini dibumbui oleh tantangan **koordinasi tim**, di mana menyinkronkan jadwal rapat di antara insinyur yang dikejar tenggat waktu perilisan kode dengan ahli lingkungan yang sibuk mengambil sampel di lapangan sering kali menjadi hambatan tersendiri.
+Selain itu, **bias disipliner** bisa memicu konflik ketika insinyur cenderung mengecilkan faktor sosial kemasyarakatan, sementara sosiolog merasa intervensi teknologi semata tidak akan mampu memecahkan masalah mendasar. Semua ini masih ditambah tantangan **koordinasi tim**, di mana menyinkronkan jadwal rapat di antara insinyur yang dikejar tenggat waktu perilisan kode dengan ahli lingkungan yang sibuk mengambil sampel di lapangan sering kali menjadi hambatan tersendiri.
 
 Mengidentifikasi serta secara proaktif mencari jalan keluar bagi tantangan-tantangan tersebut menjadi penentu utama dalam menyukseskan program pembelajaran multidisiplin.

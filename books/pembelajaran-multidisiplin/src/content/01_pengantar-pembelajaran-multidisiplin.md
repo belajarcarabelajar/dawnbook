@@ -1,6 +1,6 @@
 ## Pengantar Pembelajaran Multidisiplin
 
-Pembelajaran multidisiplin adalah sebuah pendekatan transformatif yang sangat penting di tengah kompleksitas dunia modern. Bagian ini akan menjadi fondasi bagi pemahaman kita tentang pembelajaran multidisiplin, mendefinisikannya, meninjau sejarah singkat perkembangannya, dan menjelaskan mengapa pendekatan ini semakin relevan dan mendasar di era kontemporer.
+Pembelajaran multidisiplin adalah pendekatan yang memadukan beberapa disiplin ilmu untuk memahami masalah dunia modern yang makin kompleks. Bagian ini akan menjadi fondasi bagi pemahaman kita tentang pembelajaran multidisiplin, mendefinisikannya, meninjau sejarah singkat perkembangannya, dan menjelaskan mengapa pendekatan ini semakin relevan dan mendasar di era kontemporer.
 
 ### Apa itu Pembelajaran Multidisiplin?
 
@@ -12,7 +12,7 @@ Secara lebih spesifik:
 - **Memperkaya perspektif:** Topik pembelajaran diperkaya dengan menggabungkan perspektif dari berbagai disiplin ilmu.
 - **Bersifat aditif:** Dalam konteks multidisiplin, disiplin-disiplin ilmu bekerja secara paralel pada aspek-aspek berbeda dari suatu topik tanpa harus meleburkan batasan masing-masing disiplin. Komunikasi antar disiplin dapat terjadi, namun kolaborasi mungkin lebih terbatas dibandingkan pendekatan lain seperti interdisipliner. Ahli dari masing-masing bidang tetap berada dalam disiplinnya saat menggabungkan perspektif.
 
-> **Bahan Pertimbangan:** Bagaimana membedakan antara "menggabungkan perspektif" dan "mengintegrasikan" perspektif dari berbagai disiplin ilmu? Perbedaan ini merupakan kunci untuk memahami nuansa antara multidisiplin dan interdisiplin yang akan dibahas lebih lanjut di bagian lain.
+> **Bahan Pertimbangan:** Bagaimana membedakan antara "menggabungkan perspektif" dan "mengintegrasikan" perspektif dari berbagai disiplin ilmu? Perbedaan ini menjadi dasar untuk memahami nuansa antara multidisiplin dan interdisiplin yang akan dibahas lebih lanjut di bagian lain.
 
 **Contoh Kasus Multidisiplin:**
 

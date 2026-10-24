@@ -4,7 +4,7 @@ Pembelajaran multidisiplin merupakan pendekatan yang mengintegrasikan berbagai d
 
 ### 1. Peningkatan Kreativitas
 
-Pembelajaran multidisiplin secara fundamental merangsang dan meningkatkan kreativitas. Ketika kamu dihadapkan pada pengetahuan dan metodologi dari berbagai bidang, kamu didorong untuk membuat koneksi yang tidak biasa dan menghasilkan ide-ide baru. Dengan menghubungkan berbagai mata pelajaran, kamu dapat melihat masalah dari berbagai sudut pandang dan menemukan solusi yang lebih inovatif.
+Pembelajaran multidisiplin merangsang dan meningkatkan kreativitas. Ketika kamu dihadapkan pada pengetahuan dan metodologi dari berbagai bidang, kamu didorong untuk membuat koneksi yang tidak biasa dan menghasilkan ide-ide baru. Dengan menghubungkan berbagai mata pelajaran, kamu dapat melihat masalah dari berbagai sudut pandang dan menemukan solusi yang lebih inovatif.
 
 > *Kreativitas seringkali muncul di persimpangan ide-ide yang beragam. Semakin banyak "persimpangan" yang kamu miliki, semakin besar potensi inovasi.*
 
@@ -24,7 +24,7 @@ Kerja sama lintas disiplin dalam pemecahan masalah membantu kita menghindari pem
 
 ### 3. Adaptabilitas terhadap Perubahan
 
-Dunia saat ini ditandai oleh perubahan yang cepat dan kompleks, terutama didorong oleh kemajuan ilmu pengetahuan dan teknologi. Dalam konteks ini, kemampuan untuk beradaptasi adalah kunci. Pembelajaran multidisiplin membekali kamu dengan fleksibilitas kognitif yang memungkinkan kamu beradaptasi dengan cepat terhadap lingkungan yang dinamis, mempelajari keterampilan baru, dan menavigasi tantangan yang berbeda.
+Dunia saat ini ditandai oleh perubahan yang cepat dan kompleks, terutama didorong oleh kemajuan ilmu pengetahuan dan teknologi. Dalam konteks ini, kemampuan untuk beradaptasi menjadi penting. Pembelajaran multidisiplin membekali kamu dengan fleksibilitas kognitif yang memungkinkan kamu beradaptasi dengan cepat terhadap lingkungan yang dinamis, mempelajari keterampilan baru, dan menavigasi tantangan yang berbeda.
 
 > *Individu yang memiliki pemahaman luas dan keterampilan yang beragam akan lebih siap menghadapi perubahan yang cepat dan kompleks.*
 
@@ -40,7 +40,7 @@ Sebagai contoh, ketika kamu mempelajari biologi (sains), ekonomi (ilmu sosial), 
 
 ### 5. Mendorong Inovasi
 
-Semua keunggulan di atas bekerja secara sinergis untuk memicu lahirnya inovasi. Peningkatan kreativitas, kemampuan pemecahan masalah yang holistik, adaptabilitas, serta pemahaman yang terintegrasi merupakan bahan bakar utama untuk menciptakan hal-hal baru.
+Semua keunggulan di atas saling mendukung dalam memicu lahirnya inovasi. Peningkatan kreativitas, kemampuan pemecahan masalah yang holistik, adaptabilitas, serta pemahaman yang terintegrasi menjadi dasar untuk menciptakan hal-hal baru.
 
 Inovasi ini didorong melalui beberapa cara:
 
@@ -51,10 +51,10 @@ Pertemuan berbagai disiplin ilmu memperbesar peluang lahirnya terobosan. Kamu bi
 Integrasi pengetahuan lintas bidang membantu menciptakan jalan keluar yang tahan lama di berbagai sektor, seperti teknologi informasi, energi terbarukan, pertanian, dan kesehatan.
 
 **Perspektif Unik**  
-Inovasi sering kali lahir dari cara pandang baru terhadap masalah lama. Multidisiplin menyediakan beragam lensa segar yang sebelumnya tidak terpikirkan.
+Inovasi sering kali lahir dari cara pandang baru terhadap masalah lama. Multidisiplin menyediakan beragam cara pandang yang sebelumnya tidak terpikirkan.
 
 Sebagai ilustrasi, mari kita lihat beberapa contoh nyata:
-* **Teknologi Nano:** Inovasi ini melibatkan ilmu material, fisika, kimia, dan biologi, yang akhirnya menghasilkan terobosan besar mulai dari bidang kedokteran hingga sektor energi.
+* **Teknologi Nano:** Inovasi ini melibatkan ilmu material, fisika, kimia, dan biologi, yang akhirnya menghasilkan terobosan mulai dari bidang kedokteran hingga sektor energi.
 * **Pendidikan Kreatif:** Program studi seperti Desain Media Digital di ITB secara sengaja menggabungkan mata kuliah dari Fakultas Seni Rupa dan Desain (FSRD) dengan Sekolah Teknik Elektro dan Informatika (STEI) guna mencetak lulusan inovatif yang siap bersaing di industri kreatif.
 
-> *Dalam lingkungan yang semakin kompleks dan cepat berubah, inovasi menjadi kunci utama untuk mengatasi berbagai tantangan.*
+> *Dalam lingkungan yang semakin kompleks dan cepat berubah, inovasi dibutuhkan untuk mengatasi berbagai tantangan.*

@@ -14,7 +14,7 @@ Langkah inovatif ini terbukti berhasil melahirkan lulusan yang tidak terkurung d
 
 #### b. Pendidikan Psikedelik Multidisiplin di University of Maryland, Baltimore (UMB)
 
-Pada tahun 2023, kolaborasi lintas ilmu di UMB menelurkan program pelatihan terjangkau yang mengupas tuntas terapi psikedelik. Tiga fakultas (Pekerjaan Sosial, Farmasi, dan Keperawatan) bersinergi menyusun rangkaian edukasi interprofesional bertajuk *"Multidisciplinary Perspectives on Psychedelic Science and Medicine"*. Pembahasan di dalamnya membentang dari aspek psikofarmakologi, uji klinis, etika profesi, aksesibilitas, hingga strategi meminimalkan risiko (*harm reduction*).
+Pada tahun 2023, kolaborasi lintas ilmu di UMB menghasilkan program pelatihan terjangkau tentang terapi psikedelik. Tiga fakultas (Pekerjaan Sosial, Farmasi, dan Keperawatan) bekerja sama menyusun rangkaian edukasi interprofesional bertajuk *"Multidisciplinary Perspectives on Psychedelic Science and Medicine"*. Pembahasan di dalamnya membentang dari aspek psikofarmakologi, uji klinis, etika profesi, aksesibilitas, hingga strategi meminimalkan risiko (*harm reduction*).
 
 Inisiatif tersebut mendapat sambutan hangat dengan partisipasi lebih dari 200 mahasiswa serta praktisi berlisensi. Angka ini menegaskan besarnya kebutuhan edukasi lintas disiplin pada sektor yang sedang berkembang pesat ini. Dampak jangka panjangnya, keberhasilan program awal tersebut berhasil mengamankan pendanaan hibah untuk membangun infrastruktur kurikulum interprofesional yang mapan di bidang terapi psikedelik.
 
@@ -32,13 +32,13 @@ Ketika para ilmuwan berkolaborasi melintasi batas-batas bidang studi konvensiona
 
 Earth Institute di Columbia Climate School giat mendokumentasikan studi kasus riset interdisipliner guna membagikan pengalaman dan praktik terbaik mereka. Proyek-proyek di sini mempertemukan para ahli dari beragam latar belakang untuk bersama-sama mengurai ancaman perubahan iklim dan degradasi lingkungan.
 
-Pengalaman dari proyek-proyek ini menunjukkan bahwa kunci utama riset lintas disiplin adalah penyelarasan di fase awal. Anggota tim perlu meluangkan waktu khusus untuk memahami bahasa teknis dan karakteristik data satu sama lain. Komunikasi tatap muka berkala serta pembagian tugas yang terperinci sejak awal sangat menentukan kelancaran riset.
+Pengalaman dari proyek-proyek ini menunjukkan bahwa riset lintas disiplin paling bergantung pada penyelarasan di fase awal. Anggota tim perlu meluangkan waktu khusus untuk memahami bahasa teknis dan karakteristik data satu sama lain. Komunikasi tatap muka berkala serta pembagian tugas yang terperinci sejak awal menentukan kelancaran riset.
 
 #### b. Proyek Genom Manusia (Human Genome Project)
 
-Sebagai salah satu kerja sama ilmiah paling bersejarah, *Human Genome Project* berhasil memetakan serta mengurutkan seluruh cetak biru genetik manusia. Keberhasilan proyek raksasa ini ditopang oleh kolaborasi lintas ilmu, mulai dari biologi molekuler, genetika, epidemiologi, teknologi genomik, bioetika, hingga bioinformatika.
+Sebagai salah satu kerja sama ilmiah paling bersejarah, *Human Genome Project* berhasil memetakan serta mengurutkan seluruh genom manusia. Keberhasilan proyek besar ini ditopang oleh kolaborasi lintas ilmu, mulai dari biologi molekuler, genetika, epidemiologi, teknologi genomik, bioetika, hingga bioinformatika.
 
-Rampung pada tahun 2003, megaproyek ini menghasilkan tumpukan data yang membuka jalan bagi deteksi variasi genetik serta mekanisme penyakit di tingkat seluler. Proyek ini juga meletakkan fondasi bagi pengembangan pengobatan personal (*personalized medicine*). Dalam prosesnya, bidang bioinformatika (perpaduan biologi dan ilmu komputer) memegang peran vital dalam menerjemahkan limpahan data genomik tersebut.
+Rampung pada tahun 2003, proyek ini menghasilkan data dalam jumlah besar yang membuka jalan bagi deteksi variasi genetik serta mekanisme penyakit di tingkat seluler. Proyek ini juga meletakkan fondasi bagi pengembangan pengobatan personal (*personalized medicine*). Dalam prosesnya, bidang bioinformatika (perpaduan biologi dan ilmu komputer) memegang peran penting dalam mengolah data genomik tersebut.
 
 #### c. Riset Kanker
 
@@ -93,7 +93,7 @@ Inovasi keuangan sosial ini berhasil membantu jutaan pelaku usaha kecil, yang se
 
 #### c. Agrowisata Berbasis Komunitas Kampung Flory, Sleman
 
-Kampung Flory di Sleman, Daerah Istimewa Yogyakarta, menunjukkan bagaimana lahan pertanian konvensional dapat disulap menjadi destinasi agrowisata ramah lingkungan yang inklusif. Transformasi ini terwujud berkat kolaborasi erat antara warga desa, pemerintah daerah, pelaku usaha, dan akademisi, yang didukung oleh pemanfaatan teknologi digital untuk promosi dan manajemen.
+Kampung Flory di Sleman, Daerah Istimewa Yogyakarta, menunjukkan bagaimana lahan pertanian konvensional dapat diubah menjadi destinasi agrowisata ramah lingkungan yang inklusif. Transformasi ini terwujud berkat kolaborasi erat antara warga desa, pemerintah daerah, pelaku usaha, dan akademisi, yang didukung oleh pemanfaatan teknologi digital untuk promosi dan manajemen.
 
 Keberhasilan Kampung Flory tidak hanya mendongkrak perekonomian lokal dan menciptakan lapangan kerja baru bagi generasi muda, tetapi juga mempererat ikatan sosial antarwarga. Proyek agrowisata ini menjadi bukti konkret bahwa perencanaan wilayah yang melibatkan berbagai pemangku kepentingan mampu melahirkan nilai ekonomi sekaligus melestarikan lingkungan.
 
@@ -105,6 +105,6 @@ Platform ini mencatat tingkat keberhasilan hingga 80% dalam merumuskan solusi ba
 
 ### Benang Merah Keempat Bidang
 
-Berbagai studi kasus di atas memperlihatkan dengan jelas bahwa pendekatan multidisiplin lebih dari sekadar tren akademik sesaat. Metode ini merupakan kebutuhan nyata di era modern. Baik dalam merancang kurikulum pendidikan tinggi yang dinamis, menembus batas baru riset ilmiah, melahirkan produk industri berorientasi pengguna, maupun mengurai benang kusut masalah sosial, kemampuan menghubungkan berbagai cabang ilmu menjadi kunci lahirnya solusi yang berdaya guna. Keberhasilan implementasi ini menuntut keterbukaan sikap, komunikasi yang jernih, serta kerelaan untuk keluar dari batas nyaman bidang keahlian masing-masing.
+Berbagai studi kasus di atas memperlihatkan dengan jelas bahwa pendekatan multidisiplin lebih dari sekadar tren akademik sesaat. Metode ini merupakan kebutuhan nyata di era modern. Baik dalam merancang kurikulum pendidikan tinggi yang dinamis, memajukan riset ilmiah, melahirkan produk industri berorientasi pengguna, maupun mengurai masalah sosial yang rumit, kemampuan menghubungkan berbagai cabang ilmu menjadi dasar lahirnya solusi yang berdaya guna. Keberhasilan implementasi ini menuntut keterbukaan sikap, komunikasi yang jernih, serta kerelaan untuk keluar dari batas nyaman bidang keahlian masing-masing.
 
 Pendekatan lintas ilmu ini pada akhirnya membekali individu maupun tim untuk tumbuh menjadi pembelajar yang lebih tangguh, kreatif, dan siap menjawab tantangan di tengah dunia yang terus saling terhubung.

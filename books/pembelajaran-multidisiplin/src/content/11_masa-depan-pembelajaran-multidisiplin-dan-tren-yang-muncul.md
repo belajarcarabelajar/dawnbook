@@ -1,6 +1,6 @@
 ## Masa Depan Pembelajaran Multidisiplin dan Tren yang Muncul
 
-Dunia terus bergerak maju dengan cepat, didorong oleh revolusi teknologi dan digitalisasi yang tak terhindarkan. Dalam konteks ini, pembelajaran multidisiplin menjadi semakin penting sebagai fondasi untuk menghadapi tantangan masa depan yang dinamis. Bagian ini akan mengupas tren masa depan dalam pembelajaran multidisiplin, dampaknya bagi pendidikan sepanjang hayat (*lifelong learning*), bagaimana sistem ini beradaptasi dengan kebutuhan pasar kerja, serta perkembangannya dalam menjawab tantangan global yang kian rumit.
+Cara kita bekerja dan belajar berubah dengan cepat, didorong oleh perkembangan teknologi dan digitalisasi yang tak terhindarkan. Dalam konteks ini, pembelajaran multidisiplin menjadi semakin penting sebagai fondasi untuk menghadapi tantangan masa depan yang dinamis. Bagian ini membahas tren masa depan dalam pembelajaran multidisiplin, dampaknya bagi pendidikan sepanjang hayat (*lifelong learning*), bagaimana sistem ini beradaptasi dengan kebutuhan pasar kerja, serta perkembangannya dalam menjawab tantangan global yang kian rumit.
 
 ### 1. Tren Masa Depan dalam Pembelajaran Multidisiplin
 
@@ -52,7 +52,7 @@ Perubahan teknologi dan digitalisasi mengubah cara kita bekerja, berinteraksi, d
 
 #### 3.2 Keterampilan Multidisiplin sebagai Keunggulan Kompetitif
 
-Program belajar yang kontekstual dan terhubung dengan industri adalah kunci mencetak lulusan yang siap bersaing. Dunia kerja masa kini sangat membutuhkan profesional yang memiliki satu keahlian mendalam (*T-shaped skills*), namun juga memahami bidang-bidang lain di sekitarnya.
+Program belajar yang kontekstual dan terhubung dengan industri berperan penting dalam mencetak lulusan yang siap bersaing. Dunia kerja masa kini membutuhkan profesional yang memiliki satu keahlian mendalam (*T-shaped skills*), namun juga memahami bidang-bidang lain di sekitarnya.
 
 > **Contoh Nyata:** Sebagai contoh, seorang praktisi IT yang paham dasar-dasar bisnis akan jauh lebih tajam dalam merancang sistem yang laku di pasar. Begitu juga seorang insinyur sipil yang melek ekologi akan lebih piawai merancang infrastruktur ramah lingkungan.
 
@@ -76,8 +76,8 @@ Menggabungkan berbagai ilmu sering kali melahirkan terobosan kreatif yang sulit 
 
 #### 4.3 Pembangunan Berkelanjutan dan Etika
 
-Para lulusan diharapkan peka terhadap kelestarian alam dan mampu menerapkan prinsip keberlanjutan dalam setiap karya mereka. Terlebih di era kecerdasan buatan, pemanfaatan teknologi harus tetap berlandaskan nilai kemanusiaan, demi menjaga harmoni antara efisiensi mesin dan etika hidup manusia.
+Para lulusan diharapkan peka terhadap kelestarian alam dan mampu menerapkan prinsip keberlanjutan dalam setiap karya mereka. Terlebih di era kecerdasan buatan, pemanfaatan teknologi harus tetap berlandaskan nilai kemanusiaan, agar efisiensi mesin sejalan dengan etika manusia.
 
 Tantangan terbesar kita kini adalah memastikan bahwa pendekatan multidisiplin melampaui pemecahan masalah teknis, sekaligus menumbuhkan empati dan tanggung jawab sosial yang mendalam terhadap tantangan global.
 
-Pada akhirnya, masa depan pembelajaran lintas disiplin terletak pada keterpaduan yang lebih erat antarilmu dengan dukungan teknologi. Fokusnya bergeser pada pembentukan keterampilan adaptif untuk mendukung belajar sepanjang hayat dan memenuhi kebutuhan pasar yang dinamis. Dengan pendekatan ini, generasi mendatang akan tumbuh menjadi pribadi yang lincah, inovatif, dan siap menyumbang solusi nyata bagi bumi.
+Pada akhirnya, masa depan pembelajaran lintas disiplin terletak pada keterpaduan yang lebih erat antarilmu dengan dukungan teknologi. Fokusnya bergeser pada pembentukan keterampilan adaptif untuk mendukung belajar sepanjang hayat dan memenuhi kebutuhan pasar yang dinamis. Dengan pendekatan ini, generasi mendatang akan tumbuh menjadi pribadi yang lincah, inovatif, dan siap menyumbang solusi nyata bagi tantangan global.

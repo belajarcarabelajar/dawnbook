@@ -1,6 +1,6 @@
 ## Mengembangkan Keterampilan Esensial untuk Pembelajaran Multidisiplin
 
-Pembelajaran multidisiplin tidak cukup hanya dengan menguasai beberapa bidang ilmu. Proses ini membutuhkan seperangkat keterampilan dasar yang memungkinkan seseorang untuk menavigasi, berkolaborasi, dan berinovasi di persimpangan berbagai disiplin secara efektif. Keterampilan-keterampilan ini menjadi fondasi penting dalam memahami kerumitan dunia nyata serta merumuskan solusi yang utuh. Bagian ini akan mengupas tuntas keterampilan kunci yang harus dikembangkan untuk unggul di lingkungan pembelajaran multidisiplin.
+Pembelajaran multidisiplin tidak cukup hanya dengan menguasai beberapa bidang ilmu. Proses ini membutuhkan seperangkat keterampilan dasar yang memungkinkan seseorang untuk menavigasi, berkolaborasi, dan berinovasi di persimpangan berbagai disiplin secara efektif. Keterampilan-keterampilan ini menjadi fondasi penting dalam memahami kerumitan dunia nyata serta merumuskan solusi yang utuh. Bagian ini membahas keterampilan utama yang harus dikembangkan untuk unggul di lingkungan pembelajaran multidisiplin.
 
 ### 1. Pengembangan Pemikiran Kritis
 

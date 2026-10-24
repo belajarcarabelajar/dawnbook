@@ -109,4 +109,4 @@ Sebagai gambaran, contoh rubrik asesmen proyek multidisiplin berikut hanya mempe
 | **Level 2 (Perlu Perbaikan)** | Disiplin terpisah dengan sedikit upaya integrasi | Solusi standar dengan sedikit inovasi | Komunikasi kurang jelas atau sulit dipahami audiens beragam |
 | **Level 1 (Belum Tercapai)** | Tidak ada integrasi disiplin | Solusi tidak inovatif atau tidak realistis | Komunikasi tidak efektif |
 
-> Pada akhirnya, asesmen dalam pembelajaran multidisiplin bertujuan untuk melihat bagaimana peserta didik merajut berbagai utas pengetahuan menjadi satu kesatuan pemahaman yang kokoh, lalu menggunakannya untuk menghadapi kerumitan dunia nyata.
+> Pada akhirnya, asesmen dalam pembelajaran multidisiplin bertujuan untuk melihat bagaimana peserta didik menggabungkan pengetahuan dari berbagai bidang menjadi pemahaman yang utuh, lalu menggunakannya untuk menghadapi masalah nyata yang rumit.

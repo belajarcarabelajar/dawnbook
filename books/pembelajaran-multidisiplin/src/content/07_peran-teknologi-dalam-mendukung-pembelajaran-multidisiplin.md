@@ -16,7 +16,7 @@ Beberapa contoh platform yang sering digunakan antara lain:
 - **Miro dan Jamboard** untuk kebutuhan pemetaan ide visual secara kolaboratif.
 - **GitHub dan GitLab** yang sangat efektif untuk melacak versi kode (*version control*) serta dokumentasi proyek teknis lintas disiplin.
 
-> Kolaborasi adalah jantung dari pembelajaran multidisiplin, dan platform daring adalah pembuluh darah yang mengalirkan ide.
+> Kolaborasi adalah inti pembelajaran multidisiplin, dan platform daring menjadi sarana untuk bertukar ide.
 
 ### Alat Visualisasi Data
 
