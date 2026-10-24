@@ -53,7 +53,7 @@ Di bidang pendidikan, konsep ini menuntun pengajar untuk memperlakukan siswa tan
 
 Nama Abraham Maslow identik dengan teori motivasi yang dikenal sebagai *hierarchy of needs*. Ia merumuskan bahwa perilaku kita dipacu oleh berlapis-lapis kebutuhan yang memiliki urutan khusus, mulai dari yang sifatnya insting bertahan hidup dasar sampai pada kebutuhan filosofis tertinggi.
 
-#### Membedah Hierarchy of Needs
+#### Susunan Hierarchy of Needs
 
 Maslow menyusun kebutuhan manusia dalam bentuk piramida hierarkis. Prinsip utamanya, kebutuhan pada lapisan paling bawah wajib dipenuhi (minimal sampai taraf tertentu) sebelum individu mampu mengarahkan fokus dan energinya untuk meraih level di atasnya.
 
@@ -77,7 +77,7 @@ flowchart BT
     D --> E["Kebutuhan aktualisasi diri (kapasitas maksimal diri)"]
 ```
 
-#### Perjalanan Menuju Self-Actualization
+#### Ciri Orang yang Mengaktualisasikan Diri
 
 *Self-actualization* adalah proses mengembangkan diri sepenuhnya sesuai dengan talenta alamiahnya. Melalui riset kualitatif terhadap sosok-sosok yang dianggap telah mengaktualisasikan dirinya (seperti Abraham Lincoln dan Eleanor Roosevelt), Maslow membedah bagaimana profil psikologis manusia di tahap tertinggi ini.
 

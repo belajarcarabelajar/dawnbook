@@ -18,7 +18,7 @@ Menjawab titik buta teori trait, Pendekatan Kognitif (Kelly, Mischel) memperliha
 
 Terakhir, Pendekatan Biologis dan Evolusioner menggali genetik, struktur otak, hormon, dan temperamen bawaan. Sifat kepribadian ditelusuri dari seberapa besar perannya dalam menjaga kelangsungan hidup leluhur manusia di masa purba. Pendekatan ini berguna untuk riset medis, namun berisiko melupakan fakta bahwa warisan genetik selalu membutuhkan stimulasi lingkungan untuk bisa terekspresi.
 
-## Menyatukan Kepingan Teori
+## Penggabungan Teori
 
 Melihat celah-celah tersebut, penggabungan teori tidak bisa lagi dihindari. Kita membutuhkan kerangka yang melampaui perdebatan *nature vs nurture*.
 
