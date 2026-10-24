@@ -1,6 +1,6 @@
 ## Hubungan Erat Sepak Bola dan Geopolitik
 
-Selamat datang di titik temu antara olahraga paling populer di bumi dan papan catur kekuasaan dunia. Kerap kali kita mendapat imbauan untuk tidak mencampuradukkan politik dengan olahraga. Namun, jika menilik sejarah Piala Dunia, pemisahan tersebut nyaris mustahil diwujudkan.
+Olahraga paling populer di bumi dan papan catur kekuasaan dunia bertemu di satu titik yang sama, yaitu panggung Piala Dunia. Kerap kali kita mendapat imbauan untuk tidak mencampuradukkan politik dengan olahraga. Namun, jika menilik sejarah Piala Dunia, pemisahan tersebut nyaris mustahil diwujudkan.
 
 Sejak peluit pertama dibunyikan di Uruguay pada tahun 1930, Piala Dunia FIFA berkembang melampaui batas lapangan hijau. Turnamen ini menjadi cermin ketegangan global, instrumen diplomasi, sekaligus panggung bagi berbagai negara untuk memproyeksikan pengaruh mereka tanpa perlu memicu konflik bersenjata.
 

@@ -1,6 +1,6 @@
 ## Fasisme dan Propaganda Piala Dunia Italia 1934
 
-Selamat datang di salah satu bab kelam dalam sejarah olahraga dunia. Jika kamu berpikir bahwa politisasi olahraga adalah fenomena modern, maka kisah Piala Dunia 1934 akan mengubah perspektifmu. Di sini, kita akan membedah bagaimana sepak bola dijadikan alat propaganda oleh rezim fasis Benito Mussolini.
+Ada bab-bab kelam dalam sejarah olahraga dunia, dan kisah sepak bola Italia pada pertengahan 1930-an termasuk salah satunya. Jika kamu berpikir bahwa politisasi olahraga adalah fenomena modern, maka kisah Piala Dunia 1934 akan mengubah perspektifmu. Di sini, kita akan membedah bagaimana sepak bola dijadikan alat propaganda oleh rezim fasis Benito Mussolini.
 
 ## Mussolini dan Sepak Bola
 

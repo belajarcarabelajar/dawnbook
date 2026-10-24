@@ -4,7 +4,7 @@ Bayangkan sebuah stadion megah yang bergemuruh oleh sorak-sorai 70.000 penonton.
 
 Namun, hanya beberapa blok dari gegap gempita Stadion Monumental itu, di dalam gedung **ESMA (Escuela de Mecánica de la Armada)**, jeritan para tahanan politik diredam oleh suara radio yang menyiarkan pertandingan yang sama.
 
-Selamat datang di Piala Dunia 1978, sebuah turnamen yang sering disebut sebagai "Piala Dunia Paling Berdarah" dalam sejarah sepak bola.
+Itulah wajah Piala Dunia 1978, sebuah turnamen yang sering disebut sebagai "Piala Dunia Paling Berdarah" dalam sejarah sepak bola.
 
 ## 1. Rezim "Proses Reorganisasi Nasional"
 

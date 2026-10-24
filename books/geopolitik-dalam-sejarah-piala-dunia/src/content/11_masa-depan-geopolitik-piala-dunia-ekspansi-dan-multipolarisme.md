@@ -1,6 +1,6 @@
 ## Masa Depan Geopolitik Piala Dunia Menghadapi Ekspansi dan Multipolarisme
 
-Selamat datang di bab penutup dari perjalanan panjang kita menelusuri sejarah geopolitik sepak bola. Jika bab-bab sebelumnya membahas bagaimana Piala Dunia menjadi cermin dari perang, ideologi, dan konflik masa lalu, bab ini akan mengajak kamu melihat ke depan.
+Perjalanan panjang kita menelusuri sejarah geopolitik sepak bola, dari satu turnamen ke turnamen berikutnya, kini tiba di bab penutupnya. Jika bab-bab sebelumnya membahas bagaimana Piala Dunia menjadi cermin dari perang, ideologi, dan konflik masa lalu, bab ini akan mengajak kamu melihat ke depan.
 
 Kita sedang memasuki era saat sepak bola bertransformasi dari instrumen diplomasi negara tunggal menjadi ekosistem **multipolar**. Fenomena ini mencerminkan pergeseran kekuatan ekonomi global dari Barat menuju Timur dan Selatan.
 
