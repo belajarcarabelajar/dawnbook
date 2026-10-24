@@ -26,7 +26,7 @@ Dalam Laissez-faire, karena intervensi pemerintah seperti pajak atau regulasi sa
 2. **Akumulasi Modal:** Tanpa hak milik, tidak ada alasan untuk menabung atau berinvestasi. Investasi adalah fondasi pertumbuhan ekonomi jangka panjang.
 3. **Tanggung Jawab:** Hak milik memaksa individu menanggung risiko. Jika kamu merusak alat produksi milikmu sendiri, kamu sendiri yang rugi. Hal ini menciptakan efisiensi secara alami.
 
-> **Poin Penting:** Hak properti mengubah energi kreatif manusia menjadi aset produktif. Tanpa kepastian hukum atas hak milik, ekonomi akan terjebak dalam kondisi subsisten (hanya cukup untuk makan hari ini).
+> **Poin Penting:** Hak properti mengubah usaha manusia menjadi aset produktif. Tanpa kepastian hukum atas hak milik, ekonomi akan terjebak dalam kondisi subsisten (hanya cukup untuk makan hari ini).
 
 ### 2. Kebebasan Berkontrak
 

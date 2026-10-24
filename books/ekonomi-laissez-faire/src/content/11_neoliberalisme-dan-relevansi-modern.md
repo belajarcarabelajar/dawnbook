@@ -27,11 +27,11 @@ Untuk memahami relevansinya, kita harus membedah empat pilar utama yang sering d
 
 ## 3. Dari Teori ke Kebijakan Nyata
 
-Neoliberalisme bukan sekadar teori di atas kertas, melainkan mesin penggerak ekonomi dunia melalui berbagai peristiwa sejarah penting:
+Neoliberalisme bukan sekadar teori di atas kertas, melainkan kebijakan nyata yang muncul dalam berbagai peristiwa sejarah penting berikut:
 
 ### Era Thatcher dan Reagan (1980-an)
 
-Margaret Thatcher (Inggris) dan Ronald Reagan (AS) merupakan arsitek utama neoliberalisme di panggung dunia. Mereka memangkas pajak bagi kelompok kaya melalui teori *trickle-down economics* dan membatasi kekuatan serikat buruh.
+Margaret Thatcher (Inggris) dan Ronald Reagan (AS) merupakan tokoh utama neoliberalisme di tingkat dunia. Mereka memangkas pajak bagi kelompok kaya melalui teori *trickle-down economics* dan membatasi kekuatan serikat buruh.
 
 ### Konsensus Washington (*Washington Consensus*)
 

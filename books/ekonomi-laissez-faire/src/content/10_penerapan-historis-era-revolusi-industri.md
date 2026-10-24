@@ -1,16 +1,16 @@
 ## Penerapan Historis Era Revolusi Industri
 
-Selamat datang di laboratorium sejarah ekonomi yang paling dinamis! Jika pada bagian sebelumnya kamu telah mempelajari teori **Laissez-faire**, sekarang kita akan melihat bagaimana teori tersebut bekerja di dunia nyata.
+Jika pada bagian sebelumnya kamu telah mempelajari teori **Laissez-faire**, sekarang kita akan melihat bagaimana teori tersebut bekerja di dunia nyata.
 
-Bayangkan sebuah arena balap tanpa wasit, di mana setiap pembalap bebas memodifikasi mesinnya sekuat mungkin. Itulah gambaran ekonomi di Inggris dan Amerika Serikat pada abad ke-19. Tanpa regulasi yang menghambat, dunia menyaksikan ledakan inovasi dan akumulasi kekayaan yang melimpah dalam sejarah manusia.
+Bayangkan sebuah arena balap tanpa wasit, di mana setiap pembalap bebas memodifikasi mesinnya sekuat mungkin. Itulah gambaran ekonomi di Inggris dan Amerika Serikat pada abad ke-19. Tanpa regulasi yang menghambat, masa itu ditandai lonjakan inovasi dan akumulasi kekayaan yang besar.
 
 ## 1. Inggris sebagai Episentrum Laissez-faire Dunia
 
-Inggris adalah negara pertama yang memeluk prinsip **Laissez-faire**. Transisi dari sistem **Merkantilisme** (saat pemerintah mengontrol ketat perdagangan) menuju pasar bebas dimulai berkat pengaruh pemikiran Adam Smith.
+Inggris adalah negara pertama yang menganut prinsip **Laissez-faire**. Transisi dari sistem **Merkantilisme** (saat pemerintah mengontrol ketat perdagangan) menuju pasar bebas dimulai berkat pengaruh pemikiran Adam Smith.
 
 ### Penghapusan Hukum Jagung (Corn Laws) 1846
 
-Salah satu momen paling bersejarah dalam penerapan Laissez-faire adalah penghapusan **Corn Laws**. Undang-undang ini sebelumnya mengenakan tarif tinggi pada impor gandum untuk melindungi petani lokal.
+Salah satu momen penting dalam penerapan Laissez-faire adalah penghapusan **Corn Laws**. Undang-undang ini sebelumnya mengenakan tarif tinggi pada impor gandum untuk melindungi petani lokal.
 
 - **Penerapan:** Para pendukung pasar bebas berargumen bahwa perdagangan bebas akan menurunkan harga makanan bagi pekerja industri.
 - **Hasil:** Inggris beralih menjadi negara industri murni, mengimpor makanan murah dan mengekspor barang manufaktur. Ini menjadi bukti nyata teori keunggulan komparatif.
@@ -87,4 +87,4 @@ Bagaimana sejarah ini relevan dengan kondisi sekarang?
 
 > **Catatan Reflektif:** Laissez-faire di era Revolusi Industri membuktikan bahwa kebebasan total mampu menciptakan kekayaan berlimpah. Namun tanpa pengawasan, sistem ini cenderung memicu ketimpangan sosial yang mendalam.
 
-Jika kamu hidup di Inggris pada tahun 1850 sebagai pemilik pabrik, kamu tentu memuja Laissez-faire. Namun, jika kamu menjadi pekerja di pabrik tersebut, apakah pandanganmu tetap sama? Di sinilah letak perdebatan abadi antara efisiensi pasar dan keadilan sosial.
+Jika kamu hidup di Inggris pada tahun 1850 sebagai pemilik pabrik, kamu tentu mendukung Laissez-faire. Namun, jika kamu menjadi pekerja di pabrik tersebut, apakah pandanganmu tetap sama? Pertanyaan ini adalah inti perdebatan panjang antara efisiensi pasar dan keadilan sosial.

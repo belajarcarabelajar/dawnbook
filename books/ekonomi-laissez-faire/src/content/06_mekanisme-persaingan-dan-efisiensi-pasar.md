@@ -1,12 +1,12 @@
 ## Mekanisme Persaingan dan Efisiensi Pasar
 
-Dalam sistem ekonomi Laissez-faire, persaingan bukanlah sebuah kekacauan, melainkan sebuah orkestra yang disiplin. Tanpa adanya dirigen pusat (pemerintah), pasar mengandalkan kompetisi antarindividu dan perusahaan untuk menentukan siapa yang paling mampu memberikan nilai terbaik. Bagian ini mengupas bagaimana pertarungan di pasar bebas justru menjadi kunci utama kemakmuran masyarakat.
+Dalam sistem ekonomi Laissez-faire, persaingan bukanlah sebuah kekacauan, melainkan proses yang tertib. Tanpa adanya pengatur pusat (pemerintah), pasar mengandalkan kompetisi antarindividu dan perusahaan untuk menentukan siapa yang paling mampu memberikan nilai terbaik. Bagian ini membahas bagaimana persaingan di pasar bebas menjadi kunci kemakmuran masyarakat.
 
 ## Persaingan sebagai Mesin Penggerak Inovasi
 
 Bayangkan sebuah perlombaan lari tanpa garis finis. Setiap pelari harus terus berlari lebih cepat karena jika mereka melambat, pelari lain akan menyalip dan mengambil hadiahnya. Itulah esensi persaingan dalam ekonomi Laissez-faire.
 
-Dalam pasar yang bebas dari hambatan regulasi, setiap produsen memiliki insentif yang sangat kuat untuk menjadi yang terbaik. Mengapa? Karena dalam sistem ini, **keuntungan adalah sinyal keberhasilan**, dan **kerugian adalah hukuman bagi ketidakefisienan**.
+Dalam pasar yang bebas dari hambatan regulasi, setiap produsen memiliki insentif yang kuat untuk menjadi yang terbaik. Mengapa? Karena dalam sistem ini, **keuntungan adalah sinyal keberhasilan**, dan **kerugian adalah hukuman bagi ketidakefisienan**.
 
 ### 1. Efisiensi Produksi
 
@@ -37,7 +37,7 @@ Persaingan memicu apa yang disebut para ekonom sebagai "penghancuran kreatif". P
 
 ## Bagaimana Konsumen Menjadi Pemenang Utama
 
-Sering kali muncul kekhawatiran bahwa tanpa campur tangan pemerintah, perusahaan akan menindas konsumen. Namun, teori Laissez-faire berpendapat sebaliknya: **Kedaulatan Konsumen** adalah penguasa tertinggi di pasar bebas.
+Sering kali muncul kekhawatiran bahwa tanpa campur tangan pemerintah, perusahaan akan menindas konsumen. Namun, teori Laissez-faire berpendapat sebaliknya: di pasar bebas berlaku **Kedaulatan Konsumen**, yaitu konsumen yang menentukan arah pasar.
 
 ### Penurunan Harga secara Alami
 
@@ -51,7 +51,7 @@ Persaingan bukan hanya soal harga murah. Jika dua produk memiliki harga yang sam
 
 ## Efisiensi Alokatif
 
-Salah satu keajaiban mekanis dari persaingan bebas adalah **Efisiensi Alokatif**. Ini terjadi ketika sumber daya masyarakat dialokasikan untuk menghasilkan barang dan jasa yang paling diinginkan oleh masyarakat tersebut.
+Salah satu hasil persaingan bebas adalah **Efisiensi Alokatif**. Ini terjadi ketika sumber daya masyarakat dialokasikan untuk menghasilkan barang dan jasa yang paling diinginkan oleh masyarakat tersebut.
 
 Dalam pasar bebas, harga bertindak sebagai sinyal:
 
@@ -89,6 +89,6 @@ Tanpa adanya persaingan bebas yang mendorong inovasi ini, kita mungkin masih aka
 
 ## Filter Alami Bernama Persaingan
 
-Mekanisme persaingan dalam ekonomi Laissez-faire bertindak sebagai filter alami. Ia menyaring perusahaan yang tidak efisien dan memberikan penghargaan kepada mereka yang inovatif. Hasil akhirnya bukanlah kekacauan, melainkan sistem yang secara otomatis mengarahkan energi individu yang berorientasi pada kepentingan diri menuju satu tujuan mulia: **menyediakan barang terbaik dengan harga terendah bagi masyarakat luas.**
+Mekanisme persaingan dalam ekonomi Laissez-faire bertindak sebagai filter alami. Ia menyaring perusahaan yang tidak efisien dan memberikan penghargaan kepada mereka yang inovatif. Hasil akhirnya bukanlah kekacauan, melainkan sistem yang secara otomatis mengarahkan energi individu yang berorientasi pada kepentingan diri menuju satu tujuan: **menyediakan barang terbaik dengan harga terendah bagi masyarakat luas.**
 
 > **Refleksi:** Dapatkah kamu memikirkan satu produk di sekitar kamu yang kualitasnya menurun namun harganya terus naik? Jika ya, apakah di industri tersebut terdapat persaingan bebas, ataukah ada hambatan masuk yang diciptakan oleh regulasi?

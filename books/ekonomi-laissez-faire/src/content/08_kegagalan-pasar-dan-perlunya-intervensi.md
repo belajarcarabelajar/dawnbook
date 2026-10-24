@@ -1,6 +1,6 @@
 ## Kegagalan Pasar dan Perlunya Intervensi
 
-Dalam dunia ideal **Laissez-faire**, mekanisme pasar dianggap sebagai konduktor orkestra yang sempurna. Setiap individu yang mengejar kepentingan pribadinya secara otomatis menciptakan harmoni ekonomi bagi masyarakat. Namun, kenyataan tidak selalu seindah teori tersebut. Ada kalanya "tangan tak terlihat" (*Invisible Hand*) kehilangan cengkeramannya, mengakibatkan sumber daya terbuang sia-sia atau terdistribusi secara tidak adil.
+Dalam dunia ideal **Laissez-faire**, mekanisme pasar dianggap sebagai pengatur yang sempurna. Setiap individu yang mengejar kepentingan pribadinya secara otomatis menciptakan keteraturan ekonomi bagi masyarakat. Namun, kenyataan tidak selalu sesuai dengan teori tersebut. Ada kalanya "tangan tak terlihat" (*Invisible Hand*) gagal bekerja, mengakibatkan sumber daya terbuang sia-sia atau terdistribusi secara tidak adil.
 
 Inilah yang disebut sebagai **Kegagalan Pasar (Market Failure)**.
 

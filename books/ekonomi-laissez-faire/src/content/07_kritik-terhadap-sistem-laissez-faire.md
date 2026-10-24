@@ -1,16 +1,16 @@
 ## Kritik terhadap Sistem Laissez-faire
 
-Sistem **Laissez-faire** sering digambarkan sebagai sebuah simfoni ekonomi yang sempurna, tempat setiap individu mengejar kepentingan pribadinya. Dari situ, kesejahteraan bagi masyarakat luas dianggap tercipta secara otomatis. Namun, dalam praktiknya, simfoni ini sering kali menghasilkan nada-nada sumbang.
+Sistem **Laissez-faire** sering digambarkan sebagai tatanan ekonomi yang sempurna, tempat setiap individu mengejar kepentingan pribadinya. Dari situ, kesejahteraan bagi masyarakat luas dianggap tercipta secara otomatis. Namun, dalam praktiknya, sistem ini sering kali menimbulkan masalah.
 
-Meskipun prinsip "biarkan terjadi" (Laissez-faire) menawarkan kebebasan luar biasa, para kritikus berpendapat bahwa tanpa aturan main dan wasit yang tegas, yaitu pemerintah, pasar bebas dapat berubah menjadi arena yang merusak. Bagian ini akan mengupas sisi gelap dari kebebasan pasar tanpa batas.
+Meskipun prinsip "biarkan terjadi" (Laissez-faire) menawarkan kebebasan, para kritikus berpendapat bahwa tanpa aturan main dan wasit yang tegas, yaitu pemerintah, pasar bebas dapat menimbulkan kerusakan. Bagian ini membahas dampak buruk dari kebebasan pasar yang tidak dibatasi.
 
 ## 1. Risiko Monopoli
 
-Salah satu ironi terbesar dari Laissez-faire adalah bahwa persaingan bebas cenderung menghancurkan dirinya sendiri. Tanpa regulasi antimonopoli, perusahaan yang paling efisien atau paling agresif dapat melahap pesaingnya hingga tidak ada lagi pilihan bagi konsumen.
+Salah satu ironi dari Laissez-faire adalah bahwa persaingan bebas cenderung menghancurkan dirinya sendiri. Tanpa regulasi antimonopoli, perusahaan yang paling efisien atau paling agresif dapat menyingkirkan pesaingnya hingga tidak ada lagi pilihan bagi konsumen.
 
 ### Permainan Papan Monopoly
 
-Bayangkan kamu bermain papan permainan *Monopoly*. Pada awalnya, semua orang memiliki peluang yang sama. Namun, begitu satu pemain berhasil menguasai tanah-tanah strategis dan membangun hotel, pemain lain akan perlahan bangkrut karena harus membayar sewa yang mahal. Di akhir permainan, satu orang menguasai segalanya, dan permainan berakhir karena tidak ada lagi persaingan. Inilah yang dikhawatirkan kritikus: **Laissez-faire pada titik ekstremnya akan membunuh kompetisi yang menjadi motor penggeraknya sendiri.**
+Bayangkan kamu bermain papan permainan *Monopoly*. Pada awalnya, semua orang memiliki peluang yang sama. Namun, begitu satu pemain berhasil menguasai tanah-tanah strategis dan membangun hotel, pemain lain akan perlahan bangkrut karena harus membayar sewa yang mahal. Di akhir permainan, satu orang menguasai segalanya, dan permainan berakhir karena tidak ada lagi persaingan. Inilah yang dikhawatirkan kritikus: **Laissez-faire pada titik ekstremnya akan menghilangkan kompetisi yang menjadi penggeraknya sendiri.**
 
 **Dampak Negatif Monopoli:**
 
