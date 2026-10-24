@@ -1,6 +1,6 @@
 ## Tokoh dan Penokohan Utama dalam Novel 9 Summers 10 Autumns
 
-Dalam novel otobiografis *9 Summers 10 Autumns*, kekuatan narasi sangat dipengaruhi oleh penggambaran karakter tokoh-tokohnya yang hidup dan realistis. Setiap tokoh memiliki watak khas yang mencerminkan perjuangan hidup mereka dalam menghadapi keterbatasan:
+Dalam novel otobiografis *9 Summers 10 Autumns*, kekuatan narasi banyak dipengaruhi oleh penggambaran karakter tokoh-tokohnya yang hidup dan realistis. Setiap tokoh memiliki watak khas yang mencerminkan perjuangan hidup mereka dalam menghadapi keterbatasan:
 
 1. **Iwan Setyawan (Tokoh Utama / 'Aku')**
    Iwan digambarkan sebagai anak laki-laki yang cerdas, tekun, sederhana, dan pantang menyerah. Ia menyerap nilai-nilai kesederhanaan dan kasih sayang dari lingkungan keluarganya yang bersahaja:
@@ -24,7 +24,7 @@ Dalam novel otobiografis *9 Summers 10 Autumns*, kekuatan narasi sangat dipengar
 
 ### Perkembangan Tokoh Iwan dari Batu ke New York
 
-Analisis komparatif terhadap perkembangan karakter tokoh Iwan menunjukkan kontras psikologis yang tajam. Di masa kecilnya di Batu, ia digambarkan sebagai anak sopir angkot yang minder namun memiliki tekad belajar yang luar biasa akibat ketakutannya akan kegagalan. Setelah ia bertransformasi menjadi direktur riset di New York, watak tekunnya tetap bertahan, namun diiringi dengan munculnya rasa kesepian eksistensial dan keterasingan sosial (*alienation*). Titik balik perkembangan karakter ini terjadi ketika ia menyadari bahwa kesuksesan material di New York tidak dapat menggantikan kehangatan komunal keluarga di Batu.
+Analisis komparatif terhadap perkembangan karakter tokoh Iwan menunjukkan kontras psikologis yang tajam. Di masa kecilnya di Batu, ia digambarkan sebagai anak sopir angkot yang minder namun memiliki tekad belajar yang kuat akibat ketakutannya akan kegagalan. Setelah ia bertransformasi menjadi direktur riset di New York, watak tekunnya tetap bertahan, namun diiringi dengan munculnya rasa kesepian eksistensial dan keterasingan sosial (*alienation*). Titik balik perkembangan karakter ini terjadi ketika ia menyadari bahwa kesuksesan material di New York tidak dapat menggantikan kehangatan komunal keluarga di Batu.
 
 ### Menilik Tokoh di Sekitar Iwan
 

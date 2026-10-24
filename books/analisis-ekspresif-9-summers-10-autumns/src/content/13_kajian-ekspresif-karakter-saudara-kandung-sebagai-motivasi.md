@@ -2,7 +2,7 @@
 
 ### Dukungan Moral Saudara Kandung
 
-Prestasi dan pengorbanan saudara kandung Iwan Setyawan menjadi pemicu dorongan ekspresif (*expressive drive*) yang sangat kuat dalam novel ini. 
+Prestasi dan pengorbanan saudara kandung Iwan Setyawan menjadi pemicu dorongan ekspresif (*expressive drive*) yang kuat dalam novel ini. 
 
 Mbak Isa, kakak pertamanya, adalah cermin *independent learning* (kemandirian belajar) yang menularkan gairah belajar bagi seluruh adiknya:
 
@@ -24,7 +24,7 @@ Ketekunan Rini Agustina dalam keterampilan dan kelembutan hati (*soft-heartednes
 
 ### Rantai Motivasi dan Tanggung Jawab Moral
 
-Analisis terhadap hubungan persaudaraan dalam keluarga Iwan menyingkap struktur rantai motivasi yang saling menguatkan. Kepintaran akademis alami Mbak Isa (kakak tertua) menjadi mercusuar inspirasi bagi Iwan kecil, sementara tanggung jawabnya sebagai satu-satunya anak laki-laki di keluarga melahirkan kesadaran moral yang kuat untuk segera sukses secara finansial agar dapat membantu adik-adiknya (Rini dan Mira). Hubungan erat ini mengekspresikan cinta kasih tanpa syarat (*unconditional love*) sebagai kompensasi atas keterbatasan ekonomi mereka.
+Analisis terhadap hubungan persaudaraan dalam keluarga Iwan memperlihatkan rantai motivasi yang saling menguatkan. Kepintaran akademis alami Mbak Isa (kakak tertua) menjadi mercusuar inspirasi bagi Iwan kecil, sementara tanggung jawabnya sebagai satu-satunya anak laki-laki di keluarga melahirkan kesadaran moral yang kuat untuk segera sukses secara finansial agar dapat membantu adik-adiknya (Rini dan Mira). Hubungan erat ini mengekspresikan cinta kasih tanpa syarat (*unconditional love*) sebagai kompensasi atas keterbatasan ekonomi mereka.
 
 Dari atas ke bawah, rantai itu berjalan seperti ini.
 
@@ -43,4 +43,4 @@ flowchart TD
 
 ### Dari Keluarga ke Logika Statistik (*Statistical Logic*) dalam Sastra
 
-Dorongan moral dari keluarga ini kemudian menemukan jalannya lewat pencapaian akademis yang cemerlang. Di bab selanjutnya, kita akan meneliti bagaimana latar belakang pendidikan tinggi pengarang di bidang Statistika secara ekspresif membentuk cara ia berkarya.
+Dorongan moral dari keluarga ini kemudian menemukan jalannya lewat pencapaian akademis. Di bab selanjutnya, kita akan meneliti bagaimana latar belakang pendidikan tinggi pengarang di bidang Statistika secara ekspresif membentuk cara ia berkarya.

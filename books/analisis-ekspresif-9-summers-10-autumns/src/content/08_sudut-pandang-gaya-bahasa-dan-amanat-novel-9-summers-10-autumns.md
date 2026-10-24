@@ -1,10 +1,10 @@
 ## Sudut Pandang, Gaya Bahasa, dan Amanat Novel 9 Summers 10 Autumns
 
-Kekuatan sebuah narasi memoar tidak hanya terletak pada peristiwa yang dialami, melainkan pada bagaimana peristiwa tersebut dituturkan. Melalui perpaduan sudut pandang persona pertama, gaya bahasa puitis yang reflektif, serta pesan moral yang kuat, Iwan Setyawan berhasil menghidupkan kembali memoar perjalanannya dari Kota Batu hingga ke New York, merajut harmoni emosi yang begitu dekat dengan pembaca.
+Kekuatan sebuah narasi memoar tidak hanya terletak pada peristiwa yang dialami, melainkan pada bagaimana peristiwa tersebut dituturkan. Melalui perpaduan sudut pandang persona pertama, gaya bahasa puitis yang reflektif, serta pesan moral yang kuat, Iwan Setyawan menuturkan perjalanannya dari Kota Batu hingga ke New York dengan cara yang terasa dekat bagi pembaca.
 
 ### Sudut Pandang Persona Pertama ('Aku')
 
-Sudut pandang adalah cara pengarang menempatkan dirinya dalam cerita. Sudut pandang persona pertama, atau yang juga dikenal sebagai "Aku", adalah cara pengarang menempatkan dirinya sebagai "aku" dalam cerita, sehingga kemahatahuan pengarang terbatas. Dalam novel 9 Summers 10 Autumns, pengarang menggunakan sudut pandang persona pertama, sehingga pembaca dapat merasakan langsung monolog batin Iwan. Hal ini membuat pembaca sangat akrab dengan konflik yang dirasakan tokoh saat menghadapi kemiskinan dan perasaan tokoh ketika merasakan keberhasilan.
+Sudut pandang adalah cara pengarang menempatkan dirinya dalam cerita. Sudut pandang persona pertama, atau yang juga dikenal sebagai "Aku", adalah cara pengarang menempatkan dirinya sebagai "aku" dalam cerita, sehingga kemahatahuan pengarang terbatas. Dalam novel 9 Summers 10 Autumns, pengarang menggunakan sudut pandang persona pertama, sehingga pembaca dapat merasakan langsung monolog batin Iwan. Hal ini membuat pembaca akrab dengan konflik yang dirasakan tokoh saat menghadapi kemiskinan dan perasaan tokoh ketika merasakan keberhasilan.
 
 ### Gaya Bahasa Puitis dan Reflektif
 
@@ -16,7 +16,7 @@ Amanat adalah pesan dari pengarang yang disampaikan melalui cerita. Amanat dapat
 
 ### Membedah Personifikasi dan Metafora
 
-Analisis stilistika dalam novel ini menunjukkan penggunaan majas personifikasi dan metafora secara dominan untuk menggambarkan kerinduan. Pengarang menuliskan, *'Ibuku, hatinya putih, ia adalah puisi hidupku'* (Hlm. 35) sebagai metafora ketulusan, serta *'keringatnya menetes di atas atap rumah mungilku'* (Hlm. 51) yang mempersonifikasikan pengorbanan saudara perempuannya. Pilihan majas puitis ini secara langsung mengomunikasikan rasa sentimental dan keintiman emosional yang mendalam kepada pembaca.
+Analisis stilistika dalam novel ini menunjukkan penggunaan majas personifikasi dan metafora secara dominan untuk menggambarkan kerinduan. Pengarang menuliskan, *'Ibuku, hatinya putih, ia adalah puisi hidupku'* (Hlm. 35) sebagai metafora ketulusan, serta *'keringatnya menetes di atas atap rumah mungilku'* (Hlm. 51) yang mempersonifikasikan pengorbanan saudara perempuannya. Pilihan majas puitis ini secara langsung mengomunikasikan rasa sentimental dan keintiman emosional kepada pembaca.
 
 ### Keintiman Sudut Pandang Orang Pertama
 

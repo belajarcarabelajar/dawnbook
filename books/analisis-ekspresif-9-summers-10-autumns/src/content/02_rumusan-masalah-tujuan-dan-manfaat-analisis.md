@@ -1,6 +1,6 @@
 ## Rumusan Masalah, Tujuan, dan Manfaat Analisis
 
-Mengurai jalinan kisah dalam *9 Summers 10 Autumns* membutuhkan landasan analisis yang terarah. Berangkat dari latar belakang psikologis Iwan Setyawan yang berkelindan erat dengan perjalanan hidup tokoh utama, pembedahan secara struktural dan ekspresif menjadi kunci untuk menyingkap makna terdalam dari novel ini.
+Mengurai jalinan kisah dalam *9 Summers 10 Autumns* membutuhkan landasan analisis yang terarah. Berangkat dari latar belakang psikologis Iwan Setyawan yang berkaitan erat dengan perjalanan hidup tokoh utama, analisis struktural dan ekspresif dipakai untuk memahami makna novel ini.
 
 ### Rumusan Masalah
 
@@ -33,7 +33,7 @@ Analisis ini memiliki beberapa manfaat, baik teoretis maupun praktis.
 2. Bagi Penulis: Analisis ini dapat menjadi sarana untuk mengaplikasikan teori kritik sastra dan mengasah kepekaan terhadap realitas sosial yang ada di dalam karya sastra.
 3. Bagi Masyarakat: Analisis ini dapat meningkatkan apresiasi masyarakat terhadap karya sastra yang memiliki nilai melalui pendidikan.
 
-Dengan demikian, analisis ini dapat memberikan kontribusi penting dalam memahami novel *9 Summers 10 Autumns* dari perspektif strukturalisme dan ekspresifisme.
+Dengan demikian, analisis ini dapat membantu memahami novel *9 Summers 10 Autumns* dari perspektif strukturalisme dan ekspresifisme.
 
 ### Pemetaan Rumusan Masalah
 

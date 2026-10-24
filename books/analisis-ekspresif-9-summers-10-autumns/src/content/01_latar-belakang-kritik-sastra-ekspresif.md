@@ -18,16 +18,16 @@ Pendekatan ekspresif dalam kritik sastra memandang karya sastra sebagai produk l
 
 > "Pendekatan ekspresif menitikberatkan analisis pada hubungan genetik-kausalitas antara karya sastra dengan latar belakang psikologis dan sosiologis pengarangnya."
 
-Melalui lensa ekspresif, novel *9 Summers 10 Autumns* tampil melampaui batas narasi fiksi biasa, berfungsi sebagai media katarsis emosional bagi Iwan Setyawan untuk mengekspresikan:
+Melalui lensa ekspresif, novel *9 Summers 10 Autumns* berfungsi sebagai media katarsis emosional bagi Iwan Setyawan untuk mengekspresikan:
 - **Nostalgia Masa Kecil**: Memori tentang kesederhanaan hidup di kaki Gunung Panderman.
 - **Tekanan Mental & Kesepian**: Perasaan keterasingan (*alienation*) di tengah gemerlap Manhattan, New York.
-- **Kebanggaan dan Bakti**: Ungkapan terima kasih yang tulus atas pengorbanan tanpa batas dari kedua orang tuanya.
+- **Kebanggaan dan Bakti**: Ungkapan terima kasih yang tulus atas pengorbanan kedua orang tuanya.
 
 ---
 
 ### Membandingkan Biografi dan Fiksi
 
-Jika kita membandingkan data biografi asli Iwan Setyawan dengan representasi fiksi dalam bab-bab awal novel, kita dapat mengidentifikasi bagaimana penulis memproyeksikan memori masa kecilnya di Batu secara langsung ke dalam teks. Batu yang dingin dan agraris dikonstruksikan tidak hanya sebagai koordinat geografis, melainkan sebagai metafora bagi kehangatan batin keluarga yang melindungi mereka dari badai kemiskinan ekonomi. Kontras biografis ini terlihat jelas ketika kita membandingkannya dengan novel otobiografis lain seperti *Laskar Pelangi* karya Andrea Hirata, di mana kemiskinan Belitung digambarkan lewat perjuangan kolektif di sekolah dasar yang reyot, sedangkan dalam *9 Summers 10 Autumns*, perjuangan Iwan lebih difokuskan pada dinamika domestik rumah mungilnya.
+Jika kita membandingkan data biografi asli Iwan Setyawan dengan representasi fiksi dalam bab-bab awal novel, kita dapat mengidentifikasi bagaimana penulis memproyeksikan memori masa kecilnya di Batu secara langsung ke dalam teks. Batu yang dingin dan agraris dikonstruksikan tidak hanya sebagai koordinat geografis, melainkan sebagai metafora bagi kehangatan batin keluarga yang melindungi mereka dari kemiskinan ekonomi. Kontras biografis ini terlihat jelas ketika kita membandingkannya dengan novel otobiografis lain seperti *Laskar Pelangi* karya Andrea Hirata, di mana kemiskinan Belitung digambarkan lewat perjuangan kolektif di sekolah dasar yang reyot, sedangkan dalam *9 Summers 10 Autumns*, perjuangan Iwan lebih difokuskan pada dinamika domestik rumah mungilnya.
 
 ### Batas Antara Penulis dan Karya
 

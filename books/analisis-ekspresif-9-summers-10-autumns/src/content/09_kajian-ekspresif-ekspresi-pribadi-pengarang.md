@@ -1,10 +1,10 @@
 ## Ekspresi Pribadi Pengarang
 
-Sebuah karya sastra lahir dari kedalaman jiwa penciptanya, bukan dari ruang hampa. Setelah menelusuri elemen-elemen formal seperti alur, penokohan, dan latar, kini kita melangkah lebih jauh ke dalam ruang batin pengarang melalui pendekatan ekspresif. Dalam ruang ini, novel *9 Summers 10 Autumns* tampil sebagai gerbang nyata yang menyingkap jejak emosional dan perjalanan hidup asli Iwan Setyawan.
+Sebuah karya sastra lahir dari pengalaman batin penciptanya, bukan dari ruang hampa. Setelah menelusuri elemen-elemen formal seperti alur, penokohan, dan latar, kini kita beralih ke batin pengarang melalui pendekatan ekspresif. Dari sudut ini, novel *9 Summers 10 Autumns* memperlihatkan jejak emosional dan perjalanan hidup asli Iwan Setyawan.
 
 ### Refleksi Jiwa Pengarang dalam Ruang Kota
 
-Pendekatan ekspresif memandang karya sastra sebagai pancaran langsung dari kejiwaan, emosi, dan pengalaman pribadi pengarangnya. Dalam novel *9 Summers 10 Autumns*, Iwan Setyawan mengekspresikan seluruh pergulatan batinnya saat berada di perantauan Kota New York yang sangat kompetitif:
+Pendekatan ekspresif memandang karya sastra sebagai ungkapan langsung dari kejiwaan, emosi, dan pengalaman pribadi pengarangnya. Dalam novel *9 Summers 10 Autumns*, Iwan Setyawan mengekspresikan pergulatan batinnya saat berada di perantauan Kota New York yang kompetitif:
 
 > “Di New York aku bukan siapa-siapa. Aku bukan direktur sebuah perusahaan riset terkemuka di dunia. Aku adalah Iwan dari Batu. Aku kembali menjadi anak sopir angkot yang berjuang untuk bertahan di kota paling kompetitif di dunia.” (Hlm. 3)
 
@@ -16,8 +16,8 @@ Ekspresi pribadi ini memperlihatkan bagaimana novel berfungsi sebagai wadah kata
 
 ### Novel sebagai Katarsis Emosional
 
-Penyejajaran antara rekam jejak autobiografis Iwan Setyawan dan teks novel memperlihatkan keakuratan pendekatan ekspresif. Pengalaman kejiwaan riil berupa kerinduan mendalam pada kampung halaman dan perasaan terasing di perantauan diekspresikan secara jujur dalam novel melalui narasi batin tokoh 'Aku': *'Di New York aku bukan siapa-siapa... Aku adalah Iwan dari Batu'* (Hlm. 3). Penyejajaran ini mengonfirmasi bahwa penulisan novel ini berfungsi sebagai media katarsis emosional bagi pengarang untuk menyalurkan seluruh beban emosional selama menetap di New York.
+Penyejajaran antara rekam jejak autobiografis Iwan Setyawan dan teks novel memperlihatkan keakuratan pendekatan ekspresif. Pengalaman kejiwaan riil berupa kerinduan mendalam pada kampung halaman dan perasaan terasing di perantauan diekspresikan secara jujur dalam novel melalui narasi batin tokoh 'Aku': *'Di New York aku bukan siapa-siapa... Aku adalah Iwan dari Batu'* (Hlm. 3). Penyejajaran ini mengonfirmasi bahwa penulisan novel ini berfungsi sebagai media katarsis emosional bagi pengarang untuk menyalurkan beban emosionalnya selama menetap di New York.
 
 ### Dari Emosi Pribadi ke Kekuatan Iman di Perantauan
 
-Selain pergulatan emosional pribadi, keteguhan spiritual juga menjadi jangkar penting bagi pengarang dalam menghadapi badai kehidupan di perantauan.
+Selain pergulatan emosional pribadi, keteguhan spiritual juga menjadi pegangan penting bagi pengarang dalam menghadapi kesulitan hidup di perantauan.
