@@ -19,6 +19,9 @@ Nashori, F., & Saputro, I. (2021). *Psikologi resiliensi*. Universitas Islam Ind
 Reivich, K., & Shatté, A. (2002). *The resilience factor: 7 essential skills for overcoming life's inevitable obstacles*. Broadway Books. [https://www.penguinrandomhouse.com/books/139986/the-resilience-factor-by-karen-reivich-phd-and-andrew-shatte-phd/](https://www.penguinrandomhouse.com/books/139986/the-resilience-factor-by-karen-reivich-phd-and-andrew-shatte-phd/)
 > Panduan komprehensif yang menjabarkan tujuh keterampilan utama pembentuk resiliensi, termasuk regulasi emosi, kendali impuls, optimisme, dan efikasi diri.
 
+Taleb, N. N. (2012). *Antifragile: Things that gain from disorder*. Random House. [https://www.penguinrandomhouse.com/books/176227/antifragile-by-nassim-nicholas-taleb/](https://www.penguinrandomhouse.com/books/176227/antifragile-by-nassim-nicholas-taleb/)
+> Buku yang memperkenalkan istilah *antifragile* untuk hal-hal yang justru menjadi lebih baik karena tekanan dan ketidakteraturan, melampaui sekadar tangguh.
+
 ### Artikel Jurnal Ilmiah
 
 Connor, K. M., & Davidson, J. R. T. (2003). Development of a new resilience scale: The Connor-Davidson Resilience Scale (CD-RISC). *Depression and Anxiety*, *18*(2), 76–82. [https://doi.org/10.1002/da.10113](https://doi.org/10.1002/da.10113)
