@@ -1,6 +1,6 @@
 ## Pengantar Psikologi Positif
 
-Selamat datang dalam perjalanan untuk memahami apa yang membuat hidup kita berjalan optimal, bukan hanya berfokus untuk memperbaiki kerusakan. Selama puluhan tahun, psikologi sering kali diidentikkan dengan sofa terapis, diagnosis gangguan mental, dan upaya memulihkan trauma. Namun, **Psikologi Positif** hadir untuk melengkapi spektrum tersebut.
+Memahami apa yang membuat hidup kita berjalan optimal, bukan hanya berfokus untuk memperbaiki kerusakan, adalah tujuan perjalanan yang dimulai di sini. Selama puluhan tahun, psikologi sering kali diidentikkan dengan sofa terapis, diagnosis gangguan mental, dan upaya memulihkan trauma. Namun, **Psikologi Positif** hadir untuk melengkapi spektrum tersebut.
 
 > "Psikologi bukan hanya tentang mempelajari penyakit, kelemahan, dan kerusakan; ia juga mempelajari kekuatan dan kebajikan. Pemulihan tidak melulu soal memperbaiki apa yang rusak, tetapi juga memelihara potensi terbaik yang ada di dalam diri kita." - **Martin Seligman**
 

@@ -1,6 +1,6 @@
 ## Model Kesejahteraan PERMA
 
-Selamat datang di inti dari Psikologi Positif. Jika sebelumnya kita telah memahami bahwa psikologi tidak hanya berfokus pada penyembuhan luka mental, maka **Model PERMA** adalah cetak biru untuk membangun "rumah" kesejahteraan yang kokoh.
+Inti dari Psikologi Positif terletak pada sebuah kerangka yang memetakan bagian-bagian penopang kesejahteraan, layaknya denah sebuah rumah. Jika sebelumnya kita telah memahami bahwa psikologi tidak hanya berfokus pada penyembuhan luka mental, maka **Model PERMA** adalah cetak biru untuk membangun "rumah" kesejahteraan yang kokoh.
 
 Dirumuskan oleh **Martin Seligman**, pelopor Psikologi Positif modern, model ini menggeser fokus dari sekadar "kebahagiaan" (yang sering kali bersifat sementara) menuju **kesejahteraan (well-being)** yang berkelanjutan. Seligman percaya bahwa kesejahteraan tidak bersumber dari satu hal tunggal, melainkan hasil dari lima elemen independen yang saling mendukung.
 
