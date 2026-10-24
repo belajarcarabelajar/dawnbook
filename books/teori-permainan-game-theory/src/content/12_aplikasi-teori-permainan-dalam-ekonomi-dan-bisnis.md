@@ -1,8 +1,8 @@
 ## Aplikasi Teori Permainan dalam Ekonomi dan Bisnis
 
-Pernahkah kamu bertanya-tanya mengapa perusahaan besar seperti Samsung dan Apple selalu meluncurkan produk di waktu yang hampir bersamaan? Atau mengapa harga tiket pesawat bisa berubah secara drastis hanya dalam hitungan jam? Selamat datang di "papan catur" ekonomi. Di sini, kesuksesan sebuah bisnis tidak hanya ditentukan oleh keputusannya sendiri, tetapi juga oleh bagaimana keputusan tersebut berinteraksi dengan langkah para pesaingnya.
+Pernahkah kamu bertanya-tanya mengapa perusahaan besar seperti Samsung dan Apple selalu meluncurkan produk di waktu yang hampir bersamaan? Atau mengapa harga tiket pesawat bisa berubah secara drastis hanya dalam hitungan jam? Dalam ekonomi, kesuksesan sebuah bisnis tidak hanya ditentukan oleh keputusannya sendiri, tetapi juga oleh bagaimana keputusan tersebut berinteraksi dengan langkah para pesaingnya.
 
-Dalam bagian ini, kita akan mengeksplorasi bagaimana Teori Permainan menjadi alat navigasi utama dalam memahami persaingan pasar, dinamika harga, dan kecerdasan di balik sistem lelang.
+Dalam bagian ini, kita akan melihat bagaimana Teori Permainan membantu memahami persaingan pasar, dinamika harga, dan cara kerja sistem lelang.
 
 ## 1. Catur Antar Raksasa
 
@@ -52,12 +52,12 @@ Bayangkan dua maskapai penerbangan, *Lestari Air* dan *Mega Flight*, yang melaya
 
 ## 3. Seni Menentukan Harga lewat Mekanisme Lelang
 
-Lelang adalah salah satu aplikasi Teori Permainan yang paling canggih, digunakan mulai dari menjual lukisan kuno hingga mengalokasikan frekuensi 5G dan iklan digital (Google Ads).
+Lelang adalah salah satu aplikasi Teori Permainan, digunakan mulai dari menjual lukisan kuno hingga mengalokasikan frekuensi 5G dan iklan digital (Google Ads).
 
 ### Jenis-Jenis Lelang Utama
 
 1. **Lelang Inggris (Ascending-Price):** Harga naik terus sampai hanya tersisa satu penawar. Strategi optimal: Berhenti saat harga melebihi nilai subjektif kamu terhadap barang tersebut.
-2. **Lelang Belanda (Descending-Price):** Juru lelang memulai dengan harga sangat tinggi dan menurunkannya sampai ada orang yang berteriak "Beli!". Ini sangat mengandalkan kecepatan dan nyali.
+2. **Lelang Belanda (Descending-Price):** Juru lelang memulai dengan harga sangat tinggi dan menurunkannya sampai ada orang yang berteriak "Beli!". Ini mengandalkan kecepatan dan nyali.
 3. **Lelang Harga Pertama (First-Price Sealed-Bid):** Penawar memasukkan tawaran dalam amplop tertutup. Penawar tertinggi menang dan membayar sesuai angka yang ia tulis. Di sini sering terjadi *bid shading* (menawar di bawah nilai asli agar dapat untung).
 4. **Lelang Vickrey (Second-Price Sealed-Bid):** Penawar tertinggi menang, tetapi ia hanya perlu membayar **harga yang ditawarkan oleh penawar tertinggi kedua**.
 

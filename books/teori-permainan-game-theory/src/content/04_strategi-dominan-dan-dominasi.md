@@ -1,8 +1,8 @@
 ## Strategi Dominan dan Dominasi
 
-Dalam hiruk-pikuk pengambilan keputusan strategis, sering kali kita merasa pusing dengan banyaknya kemungkinan langkah yang bisa diambil oleh lawan. Namun, bagaimana jika ada sebuah langkah yang **selalu** lebih baik dari langkah lainnya, apa pun yang dilakukan orang lain? Inilah inti dari **Strategi Dominan**.
+Saat mengambil keputusan strategis, kita sering pusing dengan banyaknya kemungkinan langkah yang bisa diambil oleh lawan. Namun, bagaimana jika ada sebuah langkah yang **selalu** lebih baik dari langkah lainnya, apa pun yang dilakukan orang lain? Inilah inti dari **Strategi Dominan**.
 
-Memahami strategi dominan bukan hanya tentang memenangkan permainan, tetapi tentang menyederhanakan kompleksitas dunia nyata menjadi pilihan-pilihan yang logis dan tak terbantahkan.
+Memahami strategi dominan bukan hanya tentang memenangkan permainan, tetapi tentang menyederhanakan situasi nyata yang rumit menjadi pilihan-pilihan yang logis.
 
 ### 1. Apa Itu Strategi Dominan?
 

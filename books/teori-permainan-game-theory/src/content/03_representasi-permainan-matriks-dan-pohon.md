@@ -1,6 +1,6 @@
 ## Representasi Permainan lewat Matriks dan Pohon
 
-Dalam Teori Permainan, cara kita menyajikan sebuah masalah menentukan seberapa mudah kita dapat menyelesaikannya. Bayangkan kamu sedang mencoba menjelaskan strategi bisnis yang kompleks atau taktik dalam sebuah olahraga. Jika kamu menjelaskannya hanya dengan kata-kata, risiko terjadinya salah paham sangat besar.
+Dalam Teori Permainan, cara kita menyajikan sebuah masalah menentukan seberapa mudah kita dapat menyelesaikannya. Bayangkan kamu sedang mencoba menjelaskan strategi bisnis yang kompleks atau taktik dalam sebuah olahraga. Jika kamu menjelaskannya hanya dengan kata-kata, risiko terjadinya salah paham besar.
 
 Representasi visual dan matematis berfungsi sebagai "cetak biru" yang mengubah narasi interaksi sosial atau ekonomi menjadi model yang dapat dihitung dan dianalisis. Terdapat dua format utama yang digunakan oleh para pakar: **Bentuk Normal (Matriks)** dan **Bentuk Ekstensif (Pohon)**.
 

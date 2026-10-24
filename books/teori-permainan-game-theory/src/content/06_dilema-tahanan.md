@@ -79,4 +79,4 @@ Jika secara logika kita akan selalu berakhir pada pengkhianatan, bagaimana masya
 
 Pernahkah kamu berada dalam situasi kerja kelompok ketika kamu melakukan semua pekerjaan sementara temanmu mendapatkan nilai yang sama tanpa berusaha? Itulah Dilema Tahanan dalam kehidupan sekolah! Mengapa kamu masih mau bekerja sama meskipun ada risiko temanmu menjadi "free rider"?
 
-> **Penting:** Kepercayaan (Trust) adalah komoditas ekonomi yang paling berharga. Tanpa mekanisme untuk mengatasi Dilema Tahanan, kolaborasi manusia akan runtuh.
+> **Penting:** Kepercayaan (Trust) punya nilai ekonomi. Tanpa mekanisme untuk mengatasi Dilema Tahanan, kerja sama antarmanusia sulit terjaga.

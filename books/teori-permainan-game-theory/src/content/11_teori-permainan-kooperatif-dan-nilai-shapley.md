@@ -2,7 +2,7 @@
 
 Dalam bagian-bagian sebelumnya, kita banyak belajar tentang bagaimana pemain bersaing untuk mendapatkan hasil terbaik bagi diri mereka sendiri. Namun, di dunia nyata, sering kali jauh lebih menguntungkan jika kita bekerja sama daripada saling menjatuhkan.
 
-Selamat datang di dunia **Teori Permainan Kooperatif**. Di sini, fokus kita bergeser dari "Bagaimana saya menang?" menjadi "Bagaimana kita bisa bekerja sama, dan bagaimana kita membagi keuntungannya dengan adil?"
+Cabang yang mempelajarinya disebut **Teori Permainan Kooperatif**. Di sini, fokus kita bergeser dari "Bagaimana saya menang?" menjadi "Bagaimana kita bisa bekerja sama, dan bagaimana kita membagi keuntungannya dengan adil?"
 
 ## 1. Apa itu Teori Permainan Kooperatif?
 
@@ -19,7 +19,7 @@ Dalam permainan kooperatif, setiap kelompok (koalisi) memiliki nilai tertentu ya
 > 
 > - Andi punya tepung.
 > - Budi punya telur.
-> - Caca punya oven. Secara individu, mereka tidak bisa membuat kue. Namun, jika mereka membentuk koalisi besar, mereka bisa membuat kue raksasa seharga Rp100.000. Masalahnya: **Siapa yang berhak mendapatkan berapa bagian dari Rp100.000 tersebut?**
+> - Caca punya oven. Secara individu, mereka tidak bisa membuat kue. Namun, jika mereka membentuk koalisi besar, mereka bisa membuat kue seharga Rp100.000. Masalahnya: **Siapa yang berhak mendapatkan berapa bagian dari Rp100.000 tersebut?**
 
 ## 2. Nilai Shapley sebagai Definisi Keadilan
 
@@ -88,7 +88,7 @@ Mari kita lihat skenario dunia nyata yang sering kita alami.
 
 ## 5. Nilai Shapley untuk Biaya Bandara, Explainable AI, dan Kekuatan Suara
 
-Konsep kooperatif dan Nilai Shapley bukan hanya teori di atas kertas. Ini digunakan di berbagai bidang canggih:
+Konsep kooperatif dan Nilai Shapley bukan hanya teori di atas kertas. Ini digunakan di berbagai bidang:
 
 ### A. Alokasi Biaya Bandara (The Airport Problem)
 

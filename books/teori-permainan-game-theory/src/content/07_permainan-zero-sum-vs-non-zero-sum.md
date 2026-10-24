@@ -1,6 +1,6 @@
 ## Permainan Zero-Sum vs. Non-Zero-Sum
 
-Salah satu klasifikasi yang paling mendasar dan penting dalam Teori Permainan adalah membedakan antara **Zero-Sum Games** dan **Non-Zero-Sum Games**. Perbedaan ini bukan sekadar istilah teknis, melainkan cerminan dari bagaimana sumber daya, nilai, dan kepentingan didistribusikan dalam sebuah interaksi strategis.
+Salah satu klasifikasi dasar dalam Teori Permainan adalah pembedaan antara **Zero-Sum Games** dan **Non-Zero-Sum Games**. Perbedaan ini bukan sekadar istilah teknis, melainkan cerminan dari bagaimana sumber daya, nilai, dan kepentingan didistribusikan dalam sebuah interaksi strategis.
 
 Bayangkan sebuah kue di atas meja. Apakah kita hanya bisa memperebutkan potongan yang ada, atau mungkinkah kita bekerja sama untuk memanggang kue yang lebih besar? Pertanyaan inilah yang menjadi inti dari pembahasan kita kali ini.
 
@@ -109,4 +109,4 @@ Dari dua contoh ini terlihat cara cepat mengecek sifat sebuah matriks: jumlahkan
 > - **Non-Zero-Sum** mengakui bahwa melalui koordinasi, total nilai bisa ditambah (atau dikurangi).
 > - Kebanyakan interaksi manusia di dunia nyata (ekonomi, hubungan sosial, inovasi) bersifat **Non-Zero-Sum**, meskipun sering kali kita secara keliru menganggapnya sebagai Zero-Sum karena pola pikir kompetitif yang sempit.
 
-Memahami perbedaan ini memungkinkan kita untuk mengidentifikasi peluang kerja sama di tempat yang awalnya terlihat seperti konflik murni, yang merupakan inti dari strategi tingkat lanjut dalam kehidupan maupun bisnis.
+Memahami perbedaan ini memungkinkan kita untuk mengidentifikasi peluang kerja sama di tempat yang awalnya terlihat seperti konflik murni, baik dalam kehidupan maupun bisnis.

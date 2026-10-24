@@ -1,8 +1,8 @@
 ## Teori Permainan Algoritmik dan AI
 
-Selamat datang di titik temu antara matematika, ekonomi, dan ilmu komputer! Jika sebelumnya kita telah mempelajari bagaimana manusia mengambil keputusan strategis, sekarang kita akan mengeksplorasi apa yang terjadi ketika **algoritma** dan **kecerdasan buatan (AI)** menjadi pemainnya.
+Teori permainan algoritmik memadukan matematika, ekonomi, dan ilmu komputer. Jika sebelumnya kita telah mempelajari bagaimana manusia mengambil keputusan strategis, sekarang kita akan mengeksplorasi apa yang terjadi ketika **algoritma** dan **kecerdasan buatan (AI)** menjadi pemainnya.
 
-Bayangkan sebuah dunia ketika jutaan bot perdagangan saham, mobil otonom, dan algoritma lelang iklan saling berinteraksi setiap milidetik. Bagaimana kita memastikan sistem yang begitu kompleks ini tetap stabil dan efisien? Jawabannya terletak pada **Teori Permainan Algoritmik (Algorithmic Game Theory - AGT)**.
+Bayangkan jutaan bot perdagangan saham, mobil otonom, dan algoritma lelang iklan saling berinteraksi setiap milidetik. Bagaimana kita memastikan sistem serumit ini tetap stabil dan efisien? Jawabannya terletak pada **Teori Permainan Algoritmik (Algorithmic Game Theory - AGT)**.
 
 ## 1. Jembatan Antara Insentif dan Komputasi
 
@@ -43,7 +43,7 @@ Dalam AI, kita sering tidak hanya membangun satu model, melainkan ekosistem keti
 - **Tujuan Berbeda**: Agen bisa bekerja sama (kooperatif) atau bersaing (kompetitif).
 
 **Contoh Skenario Lelang Iklan Real-Time**
-Saat kamu membuka halaman web, di balik layar terjadi lelang instan untuk menentukan iklan mana yang muncul. Ribuan algoritma penawar (*bidding agents*) bertarung dalam hitungan milidetik. Di sini, AI harus memutuskan berapa nilai penawaran yang optimal tanpa mengetahui penawaran lawan, menggunakan prinsip-prinsip teori permainan.
+Saat kamu membuka halaman web, di balik layar terjadi lelang instan untuk menentukan iklan mana yang muncul. Ribuan algoritma penawar (*bidding agents*) bersaing dalam hitungan milidetik. Di sini, AI harus memutuskan berapa nilai penawaran yang optimal tanpa mengetahui penawaran lawan, menggunakan prinsip-prinsip teori permainan.
 
 ## 4. Desain Mekanisme (Mechanism Design)
 
@@ -91,6 +91,6 @@ Apa yang terjadi jika AI menjadi terlalu pintar dalam bernegosiasi? Ada risiko d
 
 *Coba bayangkan skenario ini: jika dua algoritma penetapan harga di toko online belajar bahwa mereka berdua untung lebih besar jika tidak pernah menurunkan harga, apakah itu sebuah kesuksesan AI atau kegagalan pasar?*
 
-> **Pesan Utama:** Teori permainan algoritmik bukan hanya tentang menang, tetapi tentang membangun sistem yang adil, stabil, dan efisien secara komputasi di tengah dunia yang penuh dengan agen yang mementingkan diri sendiri.
+> **Pesan Utama:** Teori permainan algoritmik bukan hanya tentang menang, tetapi tentang membangun sistem yang adil, stabil, dan efisien secara komputasi ketika banyak agen mementingkan diri sendiri.
 
-*Apakah kamu siap untuk merancang mekanisme masa depan ketika kode dan insentif berjalan beriringan?*
+*Jika kamu merancang sebuah sistem yang dipakai banyak agen, aturan apa yang akan kamu buat agar berkata jujur menjadi strategi terbaik mereka?*
