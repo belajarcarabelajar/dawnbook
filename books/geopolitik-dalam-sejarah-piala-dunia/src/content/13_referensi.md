@@ -1,6 +1,6 @@
 ## Referensi
 
-Daftar pustaka berikut memuat literatur ilmiah berupa buku dan artikel jurnal akademik terkemuka yang menjadi rujukan buku ini. Rujukan itu membahas hubungan antara sepak bola, geopolitik, kekuatan lunak (*soft power*), dan *sportswashing* sepanjang sejarah penyelenggaraan Piala Dunia FIFA.
+Daftar pustaka berikut memuat buku, artikel jurnal akademik, dan satu esai George Orwell yang menjadi rujukan buku ini. Rujukan itu membahas hubungan antara sepak bola, geopolitik, kekuatan lunak (*soft power*), dan *sportswashing* sepanjang sejarah penyelenggaraan Piala Dunia FIFA.
 
 1. **Boykoff, J. (2022).** Toward a theory of sportswashing: Mega-events, soft power, and political conflict. *Sociology of Sport Journal*, *39*(4), 342-351. [https://doi.org/10.1123/ssj.2022-0095](https://doi.org/10.1123/ssj.2022-0095)
 
