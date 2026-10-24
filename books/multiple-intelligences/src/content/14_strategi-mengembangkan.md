@@ -12,7 +12,7 @@ Sebelum memperbaiki sesuatu, kamu butuh peta. Mengidentifikasi kecerdasan domina
 
 ### 1\. Analisis "Kondisi Flow"
 
-Perhatikan betul saat-saat di mana kamu merasa kehilangan jejak waktu karena terlalu asyik dengan suatu aktivitas. Jika itu terjadi ketika berdebat atau merangkai kata, kamu mungkin sangat kuat di **Linguistik**. Namun, apabila momen tersebut muncul saat memecahkan teka-teki logika atau menyusun data mentah menjadi pola yang terbaca, besar kemungkinan kamu dominan di **Logis-Matematis**.
+Amati baik-baik saat-saat di mana kamu merasa kehilangan jejak waktu karena terlalu asyik dengan suatu aktivitas. Jika itu terjadi ketika berdebat atau merangkai kata, kamu mungkin sangat kuat di **Linguistik**. Namun, apabila momen tersebut muncul saat memecahkan teka-teki logika atau menyusun data mentah menjadi pola yang terbaca, besar kemungkinan kamu dominan di **Logis-Matematis**.
 
 ### 2\. Inventarisasi Jejak Masa Lalu
 

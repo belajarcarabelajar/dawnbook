@@ -52,4 +52,4 @@ Metode melatih kecerdasan ini bisa disesuaikan dengan dominasi gaya belajar masi
 
 Bagi mereka yang auditori, rutinitas seperti berdebat, bergabung dalam diskusi panel, atau merangkum lisan isi *podcast* bisa sangat menajamkan insting bahasa. Sementara itu, pendekatan kinestetik dapat ditempuh melalui bermain peran (*role-playing*) dalam simulasi komunikasi yang sarat tekanan, seperti berlatih negosiasi gaji atau presentasi bisnis.
 
-Pada akhirnya, bahasa adalah jembatan paling kokoh untuk menghubungkan realitas batin dan dunia luar. Mengolah kata berarti kita turut serta mengonstruksi pemahaman baru. Menariknya, kecerdasan ini akan terus mekar sepanjang usia. Tiap kali kamu membaca satu istilah baru atau menuangkan isi kepala ke dalam jurnal, jejaring saraf bahasamu di otak sedang diperkokoh.
+Pada akhirnya, bahasa adalah jembatan paling kokoh untuk menghubungkan realitas batin dan dunia luar. Mengolah kata berarti kita turut serta mengonstruksi pemahaman baru. Kecerdasan ini akan terus mekar sepanjang usia. Tiap kali kamu membaca satu istilah baru atau menuangkan isi kepala ke dalam jurnal, jejaring saraf bahasamu di otak sedang diperkokoh.
