@@ -28,7 +28,7 @@ Dalam bukunya, Nassim Taleb memperkenalkan konsep **Antifragile**. Jika sesuatu 
 
 > **Sudut Pandang:** Quarter-Life Crisis adalah api yang bisa menghanguskanmu jika kamu adalah kertas, tetapi akan menempamu menjadi pedang yang tajam jika kamu adalah besi mentah.
 
-*Apakah tantangan yang kamu hadapi saat ini adalah penghalang, or sebenarnya adalah "beban latihan" yang dibutuhkan otot mentalmu untuk tumbuh?*
+*Apakah tantangan yang kamu hadapi saat ini adalah penghalang, atau sebenarnya adalah "beban latihan" yang dibutuhkan otot mentalmu untuk tumbuh?*
 
 ### 3. Strategi Memperkuat Kapasitas Mental
 
@@ -45,7 +45,7 @@ Konsep dari Carol Dweck ini menekankan bahwa kecerdasan dan kemampuan bukanlah b
 
 Banyak orang gagal membangun resiliensi karena bersikap terlalu kejam pada diri sendiri. Padahal, resiliensi membutuhkan energi, dan kritik diri yang berlebihan menguras energi itu.
 
-- Bayangkan kamu sedang berbicara dengan sahabat yang sedang terpuruk. Apakah kamu akan memaki mereka? Tenu tidak. Terapkan kebaikan yang sama pada dirimu sendiri.
+- Bayangkan kamu sedang berbicara dengan sahabat yang sedang terpuruk. Apakah kamu akan memaki mereka? Tentu tidak. Terapkan kebaikan yang sama pada dirimu sendiri.
 
 #### C. Menemukan Locus of Control yang Sehat
 
