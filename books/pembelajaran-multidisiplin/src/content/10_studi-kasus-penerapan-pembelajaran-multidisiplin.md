@@ -46,8 +46,6 @@ Upaya memerangi kanker menuntut kerja sama multidisipliner yang luas, yang memad
 
 Integrasi keilmuan ini mempercepat inovasi dalam penanganan kanker. Hasilnya terlihat jelas pada metode diagnosis yang lebih dini dan akurat, perancangan terapi terapeutik yang spesifik bagi tiap pasien, serta peningkatan angka harapan hidup pasien secara nyata.
 
-> "Kolaborasi interdisipliner telah membuka jalan bagi masa depan yang lebih baik, mulai dari memperluas pemahaman kita tentang otak hingga memengaruhi kebijakan untuk mengatasi perubahan iklim, meningkatkan eksplorasi ruang angkasa, menyingkap rahasia genom manusia, dan memajukan perjuangan kita melawan kanker."
-
 ### 3. Pengembangan Produk Industri
 
 Dalam industri manufaktur dan teknologi, penerapan metode multidisiplin membantu tim mengintegrasikan seluruh proses pengembangan produk (sejak konsep awal desain hingga strategi pemasaran) sehingga produk yang dihasilkan lebih inovatif dan diterima pasar.
