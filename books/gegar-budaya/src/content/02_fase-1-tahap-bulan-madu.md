@@ -22,7 +22,7 @@ Selama pembaginya (kesadaran akan realitas sehari-hari) masih rendah, maka tingk
 
 ## 2. Karakteristik Utama Fase Bulan Madu
 
-Untuk mengenali apakah kamu atau seseorang yang kamu kenal sedang berada dalam fase ini, perhatikan ciri-ciri berikut:
+Untuk mengenali apakah kamu atau seseorang yang kamu kenal sedang berada dalam fase ini, cermati ciri-ciri berikut:
 
 - **Euforia yang Tinggi:** Perasaan senang yang meluap-luap karena berhasil mencapai tujuan (misalnya, akhirnya bisa kuliah di luar negeri atau memulai karier internasional).
 - **Fokus pada Kesamaan:** Kamu cenderung mencari kesamaan antara budaya asal dan budaya baru untuk merasa terhubung, sambil merayakan perbedaan sebagai "hiburan".

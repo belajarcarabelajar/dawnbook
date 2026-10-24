@@ -52,10 +52,10 @@ Waktu adalah pesan non-verbal yang sangat kuat. Bagaimana kamu memperlakukan wak
 
 Bagaimana cara menerapkan pengetahuan ini secara praktis? Gunakan metode **"The Mirror and Observe" (Cermin dan Observasi)**:
 
-1. **Metode Observasi Diam:** Luangkan waktu 15 menit di kafe atau taman di negara baru. Jangan bermain ponsel. Perhatikan bagaimana orang menyapa, berapa jarak antara mereka, dan seberapa banyak mereka menggerakkan tangan.
+1. **Metode Observasi Diam:** Luangkan waktu 15 menit di kafe atau taman di negara baru. Jangan bermain ponsel. Amati bagaimana orang menyapa, berapa jarak antara mereka, dan seberapa banyak mereka menggerakkan tangan.
 2. **Mirroring (Penyelarasan):** Secara halus, tirulah bahasa tubuh lawan bicara kamu. Jika mereka berbicara dengan tenang dan tangan berada di bawah, jangan meledak-ledak dengan gerakan tangan yang lebar. Ini menciptakan rasa aman secara psikologis bagi penduduk lokal.
 3. **Verifikasi Verbal:** Jika kamu ragu, gunakan kalimat terbuka: *"Saya menyadari di sini orang-orang cenderung \[X\], apakah saya melakukannya dengan benar?"*
 
 > **Pesan Utama:** Integrasi tidak membuatmu kehilangan jati diri, melainkan memperkaya "perbendaharaan kata" tubuh kamu. Memahami komunikasi non-verbal akan mengubah kamu dari seorang "orang asing yang aneh" menjadi "orang asing yang peka dan menghormati".
 
-*Sudahkah kamu memperhatikan bagaimana cara orang-orang di sekitar kamu saat ini menggunakan tangan mereka saat berbicara? Coba perhatikan satu hal kecil hari ini yang sebelumnya tidak pernah kamu sadari.*
+*Sudahkah kamu memperhatikan bagaimana cara orang-orang di sekitar kamu saat ini menggunakan tangan mereka saat berbicara? Coba amati satu hal kecil hari ini yang sebelumnya tidak pernah kamu sadari.*
