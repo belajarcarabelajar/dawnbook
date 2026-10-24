@@ -1,6 +1,6 @@
 ## Memahami Module Tree
 
-Setelah memahami cara mendefinisikan module dan mengatur visibilitasnya, sekarang mari kita bayangkan module-module tersebut sebagai ruangan-ruangan di dalam sebuah gedung besar. Bagaimana cara kamu memberi tahu orang lain lokasi ruangan tertentu?
+Setelah memahami cara mendefinisikan module dan mengatur visibilitasnya, sekarang bayangkan module-module itu sebagai ruangan di dalam gedung besar. Bagaimana cara kamu memberi tahu orang lain lokasi ruangan tertentu?
 
 Ada dua cara: memberikan alamat lengkap dari pintu utama gedung (**Absolute Path**), atau memberikan petunjuk arah dari tempat kamu berdiri saat ini (**Relative Path**). Di Rust, kita menyebut "petunjuk arah" ini sebagai **Paths**.
 

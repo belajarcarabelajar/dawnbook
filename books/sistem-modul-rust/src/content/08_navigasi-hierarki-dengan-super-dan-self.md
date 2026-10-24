@@ -1,6 +1,6 @@
 ## Navigasi Hierarki dengan 'super' dan 'self'
 
-Menulis path yang sangat panjang hanya untuk memanggil fungsi yang sebenarnya berada "tepat di sebelah" atau "satu tingkat di atas" modul saat ini tentu sangat melelahkan. Di dalam Rust module system, kamu tidak harus selalu menggunakan absolute path yang dimulai dari `crate`.
+Menulis path panjang untuk memanggil fungsi yang berada "tepat di sebelah" atau "satu tingkat di atas" modul saat ini tentu melelahkan. Di dalam Rust module system, kamu tidak harus selalu menggunakan absolute path yang dimulai dari `crate`.
 
 Rust menyediakan dua keyword, yaitu **`self`** dan **`super`**, yang berfungsi sebagai navigasi relatif. Jika diibaratkan dengan filesystem pada komputermu, `self` adalah seperti `./` (current directory), sedangkan `super` adalah seperti `../` (parent directory).
 

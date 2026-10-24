@@ -1,4 +1,4 @@
-Ketika proyek Rust berkembang dari sekadar "Hello World" menjadi aplikasi berskala produksi, tantangan terbesarnya bukan lagi memahami sintaksis, melainkan merancang **organisasi** kode. Tanpa struktur yang terencana, direktori `src` akan cepat berubah menjadi belantara kode yang membingungkan.
+Ketika proyek Rust berkembang dari sekadar "Hello World" menjadi aplikasi berskala produksi, memahami sintaksis bukan lagi tantangan terbesarnya. Kini tantangan itu ada pada cara merancang **organisasi** kode. Tanpa struktur yang terencana, direktori `src` akan cepat berubah menjadi belantara kode yang membingungkan.
 
 Para praktisi Rust (Rustaceans) menggunakan pola standar dan praktik terbaik tertentu untuk menjaga basis kode bersih, modular, dan mudah dipelihara.
 
