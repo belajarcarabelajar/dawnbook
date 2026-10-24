@@ -18,7 +18,7 @@ Proses ini terjadi dalam beberapa tahap:
 
 > **Insight Memorable:** Otak kita tidak lahir dengan kabel yang sudah terpasang mati. Sirkuit kita terbentuk melalui setiap pengalaman yang kita pilih untuk ditekuni.
 
-### 2\. Myelinasi sebagai Jalan Tol Informasi
+### 2\. Myelinasi Mempercepat Sinyal Saraf
 
 Setelah koneksi atau jalur saraf terbentuk, jalur tersebut awalnya masih lambat dan rapuh. Di sinilah peran **Myelin** masuk.
 

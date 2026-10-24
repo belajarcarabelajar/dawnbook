@@ -66,7 +66,7 @@ $$
 
 Artinya, perubahan struktur otak ($\Delta$) adalah fungsi ($f$) dari seberapa besar perhatian yang kamu berikan dikalikan dengan seberapa sering kamu mengulanginya.
 
-## 5\. Aplikasi Dunia Nyata & Kasus Praktis
+## 5\. Dampak Nyata dalam Kehidupan Manusia
 
 Neuroplastisitas bukan hanya teori laboratorium; ia memiliki dampak nyata dalam kehidupan manusia:
 

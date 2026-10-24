@@ -14,7 +14,7 @@ Fenomena ini disebut **Neurogenesis**.
 
 Meskipun terjadi secara terbatas di otak dewasa dibandingkan saat masa perkembangan janin, proses ini penting bagi fungsi kognitif kita.
 
-### Pabrik Neuron di Otak Kita
+### Lokasi Neurogenesis di Otak
 
 Di otak manusia dewasa, neurogenesis terutama terjadi di dua lokasi utama, namun yang paling relevan dengan proses belajar dan memori adalah **Hippocampus**, tepatnya di area yang disebut *Gyrus Dentatus*.
 

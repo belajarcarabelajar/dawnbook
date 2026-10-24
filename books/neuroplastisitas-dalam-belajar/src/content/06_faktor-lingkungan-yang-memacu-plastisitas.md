@@ -20,7 +20,7 @@ Ketika otak terpapar pada lingkungan yang diperkaya, terjadi serangkaian perubah
 - **Penebalan Korteks Serebral:** Area otak yang bertanggung jawab atas pemrosesan informasi tingkat tinggi menjadi lebih tebal dan padat.
 - **Peningkatan Vaskularisasi:** Aliran darah ke otak meningkat, memastikan pasokan oksigen dan nutrisi yang lebih baik untuk mendukung aktivitas saraf.
 
-## 2\. Pilar Utama Stimulasi Eksternal
+## 2\. Tiga Elemen Stimulasi Lingkungan
 
 Bagaimana sebuah lingkungan bisa memicu plastisitas? Ada tiga elemen kunci yang harus ada agar perubahan struktural terjadi secara optimal:
 
@@ -40,7 +40,7 @@ Stimulasi yang terlalu sederhana tidak akan memicu perubahan yang berarti. Lingk
 
 Manusia adalah makhluk sosial. Interaksi dengan orang lain adalah salah satu tugas kognitif paling kompleks yang bisa dilakukan otak. Mendengarkan, berempati, dan merespons dalam percakapan melibatkan jaringan saraf yang luas secara simultan.
 
-## 3\. Pengalaman Baru sebagai Akselerator Plastisitas
+## 3\. Pengalaman Baru Mempercepat Plastisitas
 
 Setiap kali kamu mempelajari keterampilan baru atau berada di lingkungan asing, otak kamu melakukan "remodeling". Mari kita lihat skenario nyata:
 
@@ -66,7 +66,7 @@ kamu tidak perlu pindah ke luar negeri untuk mendapatkan manfaat ini. kamu dapat
 
 Perbandingan sederhananya begini. Di lingkungan yang statis dan penuh rutinitas, koneksi saraf yang tidak dipakai berkurang lewat pemangkasan (*pruning*). Di lingkungan yang dinamis dan kaya stimulasi, otak justru membentuk koneksi baru (*synaptogenesis*).
 
-## 5\. Ringkasan Real-World Application
+## 5\. Faktor Lingkungan yang Bisa Kamu Atur
 
 | Faktor Lingkungan | Dampak pada Otak | Implementasi Praktis |
 | --- | --- | --- |

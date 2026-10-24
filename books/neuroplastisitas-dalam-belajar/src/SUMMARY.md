@@ -8,7 +8,7 @@
 - [Faktor Lingkungan yang Memacu Plastisitas](content/06_faktor-lingkungan-yang-memacu-plastisitas.md)
 - [Peran Fokus dan Atensi dalam Perubahan Otak](content/07_peran-fokus-dan-atensi-dalam-perubahan-otak-sang-p.md)
 - [Psikologi Belajar Growth Mindset vs Fixed Mindset](content/08_psikologi-belajar-growth-mindset-vs-fixed-mindset.md)
-- [Jembatan Sains dari Mindset ke Perubahan Otak](content/09_jembatan-sains-bagaimana-mindset-mengubah-otak.md)
+- [Bagaimana Mindset Mengubah Otak](content/09_jembatan-sains-bagaimana-mindset-mengubah-otak.md)
 - [Strategi Belajar Berbasis Neuroplastisitas](content/10_strategi-belajar-berbasis-neuroplastisitas-menguki.md)
 - [Dampak Gaya Hidup terhadap Efisiensi Sinaptik](content/11_dampak-gaya-hidup-terhadap-efisiensi-sinaptik.md)
 - [Anatomi Plateau](content/12_1-memahami-anatomi-plateu-mengapa-kita-stuck.md)

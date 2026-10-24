@@ -19,7 +19,7 @@ Bayangkan otak kamu adalah sebuah taman. Agar tanaman (neuron) dapat tumbuh kuat
 
 > **Insight Penting:** Tanpa kadar BDNF yang cukup, otak kita menjadi kaku. Kita mungkin belajar keras, tetapi sinapsis kita sulit untuk "mengunci" informasi tersebut karena kurangnya dukungan protein ini.
 
-## 2\. Booster Alami BDNF dari Aktivitas Fisik
+## 2\. Aktivitas Fisik Meningkatkan BDNF
 
 Aktivitas fisik bukan hanya tentang kesehatan jantung atau otot; ini adalah intervensi neurobiologis yang kuat untuk meningkatkan efisiensi belajar.
 
@@ -77,11 +77,11 @@ Ketiga faktor ini tidak bekerja secara terpisah, melainkan saling memperkuat dal
 
 | Faktor | Dampak Langsung pada Sinapsis | Peran BDNF |
 | --- | --- | --- |
-| **Olahraga** | Meningkatkan suplai darah & oksigen | Memicu produksi massal BDNF baru |
+| **Olahraga** | Meningkatkan suplai darah & oksigen | Memicu produksi BDNF baru |
 | **Tidur** | Membersihkan toksin & mengunci memori | Memfasilitasi kerja BDNF dalam memperkuat sinapsis |
 | **Nutrisi** | Menyediakan blok bangunan fisik (lipid) | Mendukung kelangsungan hidup neuron yang dipicu BDNF |
 
-## Protokol Optimalisasi Sinapsis
+## Langkah yang Bisa Kamu Terapkan
 
 Untuk memaksimalkan kapasitas belajar kamu berdasarkan sains neuroplastisitas, terapkan langkah-langkah berikut:
 

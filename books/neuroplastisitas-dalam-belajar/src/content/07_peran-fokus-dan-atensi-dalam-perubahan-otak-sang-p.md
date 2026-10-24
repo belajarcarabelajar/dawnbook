@@ -20,18 +20,18 @@ Bayangkan otak kamu adalah sebuah ruangan besar yang gelap, penuh dengan peralat
 
 Agar sirkuit saraf berubah secara fisik, otak perlu melepaskan bahan kimia tertentu yang disebut **neuromodulator**. Tiga pemain utama dalam proses ini adalah:
 
-### A. Epinefrin (Adrenalin) – Saklar Kewaspadaan
+### A. Epinefrin (Adrenalin) Memicu Kewaspadaan
 
 Epinefrin dilepaskan dari batang otak dan kelenjar adrenal. Fungsinya adalah untuk menciptakan rasa **waspada dan energi**. Tanpa epinefrin, kita merasa mengantuk atau malas, dan otak tidak berada dalam kondisi yang cukup aktif untuk memulai perubahan.
 
-### B. Asetilkolin (ACh) – Sang Penanda (The Highlighter)
+### B. Asetilkolin (ACh) Menandai Sinapsis yang Aktif
 
 Ini adalah kunci utama dari fokus. Ketika kamu memusatkan perhatian pada satu hal secara intens, nukleus basalis di otak melepaskan **Asetilkolin**.
 
 - $\text{ACh}$ berfungsi seperti "stabilo" atau *highlighter* yang menandai sinapsis (celah antar saraf) yang aktif pada saat itu.
 - *Analogi Penandaan Sinaptik:* Saat seseorang fokus penuh memecahkan soal logika, $\text{ACh}$ menandai jalur saraf spesifik tersebut sebagai "PENTING: Ubah bagian ini!"
 
-### C. Dopamin – Sang Penguat (The Reward)
+### C. Dopamin Memperkuat Koneksi
 
 Dopamin dilepaskan saat kita merasa mencapai sesuatu atau berada di jalur yang benar. Dopamin membantu memperkuat koneksi yang telah ditandai oleh asetilkolin.
 

@@ -12,7 +12,7 @@ Dweck menyimpulkan bahwa setiap individu memiliki "teori implisit" tentang kecer
 
 > **Intisari Pemikiran:** Cara kamu memandang diri sendiri memengaruhi cara kamu menghadapi tantangan. Jika kamu percaya kemampuan kamu sudah "terpahat di batu", kamu akan selalu merasa perlu membuktikan diri berulang kali. Jika kamu percaya kemampuan kamu bisa "ditempa", kamu akan fokus pada pertumbuhan.
 
-## 2\. Membedah Dua Kutub Mindset
+## 2\. Dua Jenis Mindset
 
 Bayangkan kecerdasan kamu sebagai sebuah objek. Apakah objek itu adalah **Patung Marmer** yang sudah jadi, atau **Otot** yang bisa dilatih?
 
@@ -44,7 +44,7 @@ Berikut adalah tabel perbandingan bagaimana kedua pola pikir ini merespons berba
 | **Kritik** | Merasa terancam dan defensif. | Belajar dari masukan yang diberikan. |
 | **Kesuksesan Orang Lain** | Merasa iri atau terancam. | Menjadikannya sebagai inspirasi. |
 
-## 4\. Matematika Mindset
+## 4\. Rumus Sederhana Hasil Belajar
 
 Secara konseptual, kita bisa melihat perbedaan hasil belajar melalui pendekatan matematis sederhana. Jika $H$ adalah Hasil Belajar, $B$ adalah Bakat bawaan, dan $U$ adalah Usaha, maka:
 

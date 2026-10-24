@@ -84,7 +84,7 @@ Untuk membantu pemahaman visual, ikuti alur informasi berikut:
 
 > **Insight Terpenting:** Pembelajaran bukan sekadar memasukkan data ke dalam gudang penyimpanan. Pembelajaran adalah **perubahan anatomi**. kamu secara harfiah sedang mengubah struktur biologis otak kamu setiap kali kamu berusaha memahami sesuatu yang baru.
 
-## Ringkasan Singkat
+## Intisari
 
 - **Neuron** adalah sel penyampai pesan dengan bagian utama: Dendrit, Soma, Akson, dan Mielin.
 - **Sinapsis** adalah titik komunikasi antar neuron yang menggunakan bahan kimia (**neurotransmitter**).

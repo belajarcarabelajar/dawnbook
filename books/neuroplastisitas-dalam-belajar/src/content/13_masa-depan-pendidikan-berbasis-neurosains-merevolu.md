@@ -4,7 +4,7 @@ Bayangkan sebuah sekolah yang kurikulumnya tidak kaku, melainkan beradaptasi sei
 
 Materi ini akan merangkum perjalanan kita memahami otak dan memproyeksikan bagaimana pengetahuan tersebut akan mengubah ruang kelas, kebijakan pendidikan, dan metode pengajaran di seluruh dunia.
 
-## 1\. Pergeseran Paradigma dari Pabrik Menuju Taman Saraf
+## 1\. Meninggalkan Model Pabrik dalam Pendidikan
 
 Selama lebih dari seabad, sistem pendidikan global mengadopsi model industrial: siswa diproses secara linear berdasarkan usia kronologis, bukan kesiapan kognitif. Neurosains mengubah ini dengan analogi yang lebih akurat.
 
@@ -73,7 +73,7 @@ Meskipun masa depan ini tampak cerah, ada beberapa tantangan besar yang harus di
 
 > **Pesan Penting:** Neurosains memberikan kita alat, tetapi nilai-nilai kemanusiaanlah yang menentukan bagaimana alat itu digunakan. Teknologi harus melayani potensi manusia, bukan mengaturnya.
 
-## Sebuah Undangan untuk Berubah
+## Penutup
 
 Masa depan pendidikan berbasis neurosains bukan hanya tentang teknologi canggih atau pemindaian otak di setiap meja. Ini tentang **pemahaman yang lebih penuh kasih** terhadap batasan dan potensi dari biologi manusia.
 

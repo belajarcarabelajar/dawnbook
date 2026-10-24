@@ -68,7 +68,7 @@ flowchart LR
 
 *Pertanyaan Reflektif: Apabila prinsip "Fire Together, Wire Together" mendasari proses belajar, dampak apakah yang terjadi ketika suatu jalur saraf tidak lagi diaktifkan secara berkala? (Petunjuk: Prinsip "Use it or lose it").*
 
-## 5\. Aplikasi Dunia Nyata dan Kasus Praktis
+## 5\. Penerapan Prinsip Hebbian
 
 ### A. Membentuk Kebiasaan (Habit Stacking)
 

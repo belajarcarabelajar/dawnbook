@@ -30,7 +30,7 @@ Saat kamu membuat kesalahan dan menyadarinya, otak melepaskan neuromodulator sep
 
 *Prinsip Sinyal Kesalahan: Tanpa adanya kekeliruan saat berlatih, sistem saraf berasumsi bahwa jalur yang aktif saat ini sudah memadai sehingga tidak memicu mekanisme rekonfigurasi plastisitas.*
 
-## 3\. Teknik Mendobrak Stagnasi (Breaking the Plateau)
+## 3\. Teknik Keluar dari Plateau (Breaking the Plateau)
 
 Untuk keluar dari plateau, kita harus memaksa otak keluar dari mode otomatisasi. Berikut adalah teknik berbasis sains untuk melakukannya:
 
@@ -80,12 +80,12 @@ Bayangkan seorang pengembang perangkat lunak yang merasa kemampuan *debugging* -
 3. **Time Pressure:** Beri batasan waktu yang ketat untuk menemukan masalah. Tekanan ini melepaskan neurokimia yang meningkatkan plastisitas.
 4. **Tambah Batasan Baru:** Jangan hanya menulis ulang program yang sudah biasa dibuat. Tulis program yang sama dengan batasan (*constraint*) baru. Misalnya, program penghitung huruf vokal yang biasanya memakai percabangan `if` dan perulangan `for` ditulis ulang tanpa keduanya.
 
-## 6\. Ringkasan Strategi untuk Pembelajar
+## 6\. Solusi untuk Tiap Masalah Plateau
 
 | Masalah | Solusi Neuroplastisitas | Tindakan Nyata |
 | --- | --- | --- |
 | **Bosan/Autopilot** | Tingkatkan kesulitan | Tambahkan batasan atau target waktu. |
-| **Takut Salah** | Re-framing Error | Anggap kesalahan sebagai "tombol aktivasi" plastisitas. |
+| **Takut Salah** | Re-framing Error | Anggap kesalahan sebagai pemicu plastisitas. |
 | **Lelah Mental** | Konsolidasi Data | Gunakan *micro-rest* atau tidur berkualitas untuk BDNF. |
 | **Statis** | Variabilitas | Gunakan teknik *interleaving* (mencampur sub-topik). |
 
