@@ -61,7 +61,7 @@ Banyak orang merasa bersalah saat menolak permintaan orang lain atau berkata tid
 
 ## 4. Regulasi Emosi
 
-Karena gaya kelekatan berakar pada aspek neurobiologis, pemulihannya pun perlu melibatkan tubuh secara langsung. Ketika kamu merasa terpicu (*triggered*), sistem sarafmu otomatis masuk ke mode *fight-or-flight* (lawan atau lari).
+Karena gaya kelekatan berakar pada aspek neurobiologis, pemulihannya perlu melibatkan tubuh secara langsung. Ketika kamu merasa terpicu (*triggered*), sistem sarafmu otomatis masuk ke mode *fight-or-flight* (lawan atau lari).
 
 ### Teknik "Grounding" 5-4-3-2-1
 

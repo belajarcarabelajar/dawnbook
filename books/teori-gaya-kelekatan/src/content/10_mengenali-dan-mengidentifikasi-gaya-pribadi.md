@@ -23,14 +23,14 @@ Coba ingat kembali interaksi kamu dengan orang tua atau pengasuh utama saat seda
 * Apakah mereka hadir dan menenangkan kamu secara konsisten?
 * Apakah kehadiran mereka terasa tidak menentu?
 * Apakah kamu merasa harus mandiri sebelum waktunya karena mereka tampak tidak nyaman dengan emosi kamu?
-* Apakah mereka justru menjadi sumber rasa takut kamu?
+* Apakah mereka sendiri yang menjadi sumber rasa takut kamu?
 
 ### B. Observasi Perilaku Dewasa (Buah)
 
 Amati juga reaksi kamu dalam situasi intim saat ini:
 
 * **Saat Konflik:** Apakah kamu ingin segera menyelesaikannya karena takut ditinggalkan, atau justru ingin menarik diri dan menyendiri?
-* **Saat Keintiman:** Apakah kamu merasa nyaman berbagi rahasia, atau justru merasa sesak ketika seseorang mencoba mendekat?
+* **Saat Keintiman:** Apakah kamu merasa nyaman berbagi rahasia, atau merasa sesak ketika seseorang mencoba mendekat?
 * **Saat Membutuhkan Bantuan:** Apakah kamu ragu meminta tolong karena takut ditolak, atau merasa orang lain tidak akan pernah tulus membantu?
 
 ## 3. Mengenali "Pemicu" (Triggers)
