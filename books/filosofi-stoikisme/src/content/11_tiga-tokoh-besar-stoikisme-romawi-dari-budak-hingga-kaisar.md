@@ -10,7 +10,7 @@ Lucius Annaeus Seneca adalah sosok yang penuh kontras. Ia adalah salah satu oran
 
 ### Kebijaksanaan dalam Kemakmuran dan Kesengsaraan
 
-Seneca sering kali dianggap sebagai "Stoik yang paling manusiawi" karena tulisan-tulisannya yang berbentuk surat (*Epistulae Morales ad Lucilium*) terasa sangat pribadi dan penuh empati.
+Seneca sering kali dianggap sebagai "Stoik yang paling manusiawi" karena tulisan-tulisannya yang berbentuk surat (*Epistulae Morales ad Lucilium*) terasa pribadi dan penuh empati.
 
 - **Tentang Singkatnya Kehidupan**: Seneca berargumen bahwa hidup ini tidak pendek, melainkan kita yang membuang banyak waktu.
 	> "Kita bukan kekurangan waktu, tapi kita yang terlalu banyak menyia-nyiakannya."
@@ -74,4 +74,4 @@ Bagaimana kita menerapkan perspektif mereka dalam menghadapi masalah modern (mis
 - *Apakah kamu merasa terjebak oleh keadaan yang tidak adil (seperti Epictetus)?*
 - *Atau kamu sedang berjuang mengelola kecemasan di tengah kesibukan dan ambisi (seperti Seneca)?*
 
-> **Pesan Penutup:** Meskipun mereka hidup dalam dunia yang sangat berbeda, Seneca, Epictetus, dan Marcus Aurelius setuju pada satu hal: Kebahagiaan tidak ditemukan dalam status atau harta, melainkan dalam karakter dan cara kita berpikir.
+> **Pesan Penutup:** Meskipun keadaan hidup mereka berbeda, Seneca, Epictetus, dan Marcus Aurelius setuju pada satu hal: Kebahagiaan tidak ditemukan dalam status atau harta, melainkan dalam karakter dan cara kita berpikir.

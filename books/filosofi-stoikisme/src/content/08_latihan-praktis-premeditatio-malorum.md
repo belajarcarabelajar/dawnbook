@@ -2,7 +2,7 @@
 
 Bayangkan kamu sedang merencanakan liburan impian ke pantai. kamu sudah membayangkan sinar matahari yang hangat, suara ombak yang menenangkan, dan es kelapa muda di tangan. Namun, begitu kamu tiba di bandara, penerbangan dibatalkan, koper kamu hilang, dan hujan badai diprediksi akan berlangsung seminggu penuh.
 
-Bagi kebanyakan orang, ini adalah resep untuk kemarahan dan frustrasi yang meledak-ledak. Namun bagi seorang Stoik, skenario ini sudah "dimainkan" di dalam kepala mereka jauh sebelum mereka berangkat. Inilah inti dari **Premeditatio Malorum**.
+Bagi kebanyakan orang, ini adalah resep untuk kemarahan dan frustrasi. Namun bagi seorang Stoik, skenario ini sudah "dimainkan" di dalam kepala mereka jauh sebelum mereka berangkat. Inilah inti dari **Premeditatio Malorum**.
 
 ## Apa itu Premeditatio Malorum?
 
@@ -20,7 +20,7 @@ Ada dua alasan psikologis utama mengapa teknik yang berusia ribuan tahun ini mas
 
 ### 1\. Menghilangkan Efek Kejut (The Element of Surprise)
 
-Seneca, salah satu filsuf Stoik terbesar, menulis:
+Seneca, salah satu filsuf Stoik, menulis:
 
 > "Sesuatu yang sudah diantisipasi sebelumnya akan datang dengan hantaman yang lebih ringan."
 

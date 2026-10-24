@@ -34,7 +34,7 @@ $$
 
 Jika kamu berusia 30 tahun: $W\_{\text{sisa}} = (80 - 30) \times \frac{2}{3} = 33.3 \text{ tahun}$
 
-Angka ini terlihat banyak, namun jika kita memasukkan faktor kesehatan dan energi yang menurun seiring usia, waktu untuk benar-benar "hidup" dengan kapasitas penuh sangatlah terbatas.
+Angka ini terlihat banyak, namun jika kita memasukkan faktor kesehatan dan energi yang menurun seiring usia, waktu untuk benar-benar "hidup" dengan kapasitas penuh terbatas.
 
 ## 3\. Tamu di Jamuan Makan
 
@@ -65,7 +65,7 @@ Filter ini juga bisa memakai ukuran sederhana: apakah kejadian ini merusak karak
 
 Untuk mengintegrasikan konsep ini, Stoikisme menyarankan latihan rutin:
 
-1. **Pagi Hari:** Saat bangun, katakan pada diri sendiri: *"Aku mungkin tidak akan melihat malam hari."* Ini bukan untuk menakut-nakuti, tapi untuk membuat hari itu menjadi sangat berharga.
+1. **Pagi Hari:** Saat bangun, katakan pada diri sendiri: *"Aku mungkin tidak akan melihat malam hari."* Ini bukan untuk menakut-nakuti, tapi untuk membuat hari itu menjadi berharga.
 2. **Malam Hari:** Saat akan tidur, katakan: *"Aku telah hidup, dan aku telah menyelesaikan perjalanan yang diberikan takdir kepadaku."* (Sejajar dengan kutipan Seneca). Jika kamu bangun besok pagi, itu adalah bonus.
 3. **Interaksi Sosial:** Saat berpisah dengan orang yang dicintai, sadarilah dalam hati bahwa ini *bisa jadi* pertemuan terakhir. Kesadaran ini akan menghilangkan keinginan untuk bertengkar dan meningkatkan rasa kasih sayang.
 

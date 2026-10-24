@@ -6,7 +6,7 @@ Dikotomi Kendali adalah "pintu masuk" sekaligus fondasi paling penting dalam sel
 
 ## Apa Itu Dikotomi Kendali?
 
-Secara harfiah, **dikotomi** berarti pembagian dua hal yang saling bertolak belakang atau sangat berbeda. Epictetus, seorang mantan budak yang menjadi guru Stoik paling berpengaruh, membuka bukunya *Enchiridion* dengan kalimat yang sangat terkenal:
+Secara harfiah, **dikotomi** berarti pembagian dua hal yang saling bertolak belakang atau sangat berbeda. Epictetus, seorang mantan budak yang menjadi guru Stoik paling berpengaruh, membuka bukunya *Enchiridion* dengan kalimat yang terkenal:
 
 > "Ada hal-hal yang berada di bawah kendali kita, dan ada hal-hal yang tidak berada di bawah kendali kita."
 

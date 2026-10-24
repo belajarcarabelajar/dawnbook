@@ -1,6 +1,6 @@
 ## Sejarah dan Evolusi Stoikisme
 
-Bab ini menelusuri asal-usul Stoikisme. Untuk memahami Stoikisme, kita tidak bisa hanya membaca kutipan-kutipan bijak di Instagram. Kita harus kembali ke titik nol: sebuah kapal yang karam, seorang pedagang yang kehilangan segalanya, dan sebuah teras umum di jantung kota Athena.
+Kutipan-kutipan bijak Stoik mudah ditemukan di Instagram, tetapi kutipan saja tidak cukup untuk memahami dari mana filsafat ini berasal. Kita harus kembali ke titik nol: sebuah kapal yang karam, seorang pedagang yang kehilangan segalanya, dan sebuah teras umum di jantung kota Athena.
 
 Stoikisme bukanlah filsafat yang lahir di menara gading yang terisolasi. Ia lahir di jalanan, diuji oleh kesulitan hidup yang nyata, dan berevolusi selama lebih dari lima abad hingga menjadi kompas moral bagi budak maupun kaisar.
 
@@ -16,7 +16,7 @@ Zeno kemudian belajar di bawah asuhan berbagai guru filsafat (seperti kaum Sinis
 
 ## 2\. Tiga Periode Utama Stoikisme
 
-Evolusi Stoikisme selama kurang lebih 500 tahun dapat dibagi menjadi tiga fase besar. Setiap fase memberikan kontribusi unik pada bangunan besar filsafat ini.
+Evolusi Stoikisme selama kurang lebih 500 tahun dapat dibagi menjadi tiga fase besar. Setiap fase memberikan kontribusi unik pada filsafat ini.
 
 ### A. Stoa Awal (Abad ke-3 - ke-2 SM)
 
@@ -24,7 +24,7 @@ Pada fase ini, Stoikisme fokus pada pengembangan sistem logika, fisika (pemahama
 
 - **Zeno dari Citium:** Sang pendiri.
 - **Cleanthes:** Penerus Zeno yang menekankan dimensi spiritual/religius dalam alam semesta.
-- **Chrysippus:** Dikenal sebagai "Pendiri Kedua". Ia adalah seorang jenius logika yang menulis ratusan buku. Tanpanya, Stoikisme mungkin akan terlupakan.
+- **Chrysippus:** Dikenal sebagai "Pendiri Kedua". Ia adalah seorang ahli logika yang menulis ratusan buku. Tanpanya, Stoikisme mungkin akan terlupakan.
 	- *Logika Stoik:* Jika $P$ maka $Q$; dan $P$ terjadi; maka $Q$ terjadi.
 
 ### B. Stoa Madya (Abad ke-2 - ke-1 SM)
@@ -54,7 +54,7 @@ timeline
 
 ## 3\. Transformasi di Kekaisaran Romawi
 
-Mengapa orang Romawi begitu mencintai Stoikisme? Jawabannya ada pada karakter bangsa Romawi itu sendiri: mereka adalah orang-orang yang menghargai tugas (*duty*), disiplin, dan keteguhan hati.
+Mengapa orang Romawi mencintai Stoikisme? Jawabannya ada pada karakter bangsa Romawi itu sendiri: mereka adalah orang-orang yang menghargai tugas (*duty*), disiplin, dan keteguhan hati.
 
 Stoikisme di Romawi bertransformasi dari sekadar "teori tentang alam semesta" menjadi **"seni untuk hidup"** (*Ars Vivendi*).
 

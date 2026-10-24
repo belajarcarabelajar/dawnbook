@@ -14,7 +14,7 @@ Amor Fati bukan hanya "menerima" apa yang terjadi dengan pasrah (resigna), melai
 
 ## Dari Penerimaan Menuju Transformasi
 
-Untuk memahami Amor Fati secara mendalam, kita bisa melihatnya sebagai sebuah tangga perkembangan mental:
+Untuk memahami Amor Fati, kita bisa melihatnya sebagai sebuah tangga perkembangan mental:
 
 1. **Penolakan:** "Ini tidak seharusnya terjadi! Mengapa saya sangat tidak beruntung?"
 2. **Penerimaan Pasif:** "Ya sudah, mau bagaimana lagi. Saya terima nasib saya."
@@ -70,4 +70,4 @@ Langkah yang sama juga bisa dipakai pada kejadian sehari-hari. Bayangkan kamera 
 
 > **Poin Penting:** Amor Fati bukan berarti kamu berhenti berusaha memperbaiki keadaan. kamu tetap berusaha maksimal (sesuai dikotomi kendali), tetapi begitu hasilnya keluar, apa pun itu, kamu memeluknya seolah-olah itu adalah pilihan kamu sendiri sejak awal.
 
-**Amor Fati adalah keberanian untuk berkata "Ya" kepada hidup, tanpa syarat.** Dengan mencintai apa pun yang terjadi, kamu tidak mudah dikalahkan oleh nasib, karena setiap kejadian bisa kamu jadikan bahan bakar.
+**Amor Fati adalah keberanian untuk berkata "Ya" kepada hidup, tanpa syarat.** Dengan mencintai apa pun yang terjadi, kamu tidak mudah dikalahkan oleh nasib, karena setiap kejadian bisa kamu manfaatkan untuk tumbuh.

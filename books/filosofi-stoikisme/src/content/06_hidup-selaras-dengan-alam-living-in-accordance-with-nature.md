@@ -1,6 +1,6 @@
 ## Hidup Selaras dengan Alam (Living in Accordance with Nature)
 
-Bab ini membahas inti filosofi Stoikisme. Jika kamu pernah mendengar slogan utama kaum Stoik, kemungkinan besar itu adalah: **"Hiduplah selaras dengan alam."**
+Jika kamu pernah mendengar slogan utama kaum Stoik, kemungkinan besar itu adalah: **"Hiduplah selaras dengan alam."**
 
 Namun, jangan salah sangka. Bagi kaum Stoik, ini bukan berarti kamu harus pindah ke hutan, berhenti menggunakan teknologi, atau menjadi seorang naturalis. Hidup "selaras dengan alam" memiliki makna metafisika dan etika yang jauh lebih dalam, yang berkaitan dengan peran kita sebagai manusia di tengah keteraturan semesta.
 

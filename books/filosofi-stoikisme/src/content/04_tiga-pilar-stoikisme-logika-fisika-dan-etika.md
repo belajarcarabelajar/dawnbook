@@ -1,12 +1,12 @@
 ## Tiga Pilar Stoikisme
 
-Bagi banyak orang saat ini, Stoikisme mungkin terdengar seperti sekumpulan kutipan motivasi untuk tetap tenang di bawah tekanan. Namun, bagi para filosof kuno di Stoa, ini adalah sebuah sistem ilmu pengetahuan yang sangat terstruktur. Mereka tidak melihat filsafat sebagai hobi akhir pekan, melainkan sebagai kurikulum menyeluruh untuk memahami realitas dan menguasai seni hidup.
+Bagi banyak orang saat ini, Stoikisme mungkin terdengar seperti sekumpulan kutipan motivasi untuk tetap tenang di bawah tekanan. Namun, bagi para filosof kuno di Stoa, ini adalah sebuah sistem ilmu pengetahuan yang terstruktur. Mereka tidak melihat filsafat sebagai hobi akhir pekan, melainkan sebagai kurikulum menyeluruh untuk memahami realitas dan menguasai seni hidup.
 
 Untuk memahami Stoikisme secara utuh, kita harus melihat "Tiga Pilar" yang membangun pondasinya: **Logika**, **Fisika**, dan **Etika**.
 
 ## Analogi Taman Stoik
 
-Para penganut Stoikisme awal (seperti Zeno dari Citium dan Chrysippus) sangat menyukai analogi untuk menjelaskan bagaimana ketiga bidang ini saling berkaitan. Salah satu yang paling terkenal adalah analogi **Taman yang Subur**:
+Para penganut Stoikisme awal (seperti Zeno dari Citium dan Chrysippus) menyukai analogi untuk menjelaskan bagaimana ketiga bidang ini saling berkaitan. Salah satu yang paling terkenal adalah analogi **Taman yang Subur**:
 
 1. **Logika adalah Pagar:** Ia melindungi taman dari penyusup (argumen palsu dan emosi yang menyesatkan) serta menjaga agar pikiran tetap jernih.
 2. **Fisika adalah Tanah dan Pohon:** Ia merupakan struktur dasar, nutrisi, dan pemahaman tentang bagaimana ekosistem taman tersebut bekerja.
