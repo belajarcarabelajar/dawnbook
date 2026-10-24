@@ -1,4 +1,4 @@
-## Tahap Sensorimotor (Lahir - 2 Tahun)
+## Tahap Sensorimotor
 
 Bayangkan kamu terbangun di planet asing tanpa peta, bahasa, atau pemahaman cara kerja benda. Itulah kondisi bayi yang baru lahir.
 

@@ -1,4 +1,4 @@
-## Tahap Operasional Konkret (Usia 7 - 11 Tahun)
+## Tahap Operasional Konkret
 
 Di tahap ini, dunia anak yang tadinya penuh "sihir" dan tebak-tebakan intuisi pelan-pelan berubah jadi lebih logis dan teratur. Kalau di fase praoperasional mereka yakin banget bulan ngikutin ke mana pun mereka pergi, sekarang di **Tahap Operasional Konkret**, mereka mulai sadar kalau ada hukum alam yang mengatur benda-benda fisik.
 

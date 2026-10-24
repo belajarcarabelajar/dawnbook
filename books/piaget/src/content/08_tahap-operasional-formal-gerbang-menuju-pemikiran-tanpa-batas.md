@@ -1,4 +1,4 @@
-## Tahap Operasional Formal (11 Tahun ke Atas)
+## Tahap Operasional Formal
 
 Di tahap sebelumnya (Operasional Konkret), anak-anak sudah bisa berpikir logis, tapi pemikiran mereka masih terbatas pada objek fisik yang bisa dilihat dan disentuh. Nah, di **Tahap Operasional Formal**, batasan itu mulai hilang.
 

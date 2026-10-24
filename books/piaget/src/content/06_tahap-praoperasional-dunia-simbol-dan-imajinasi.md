@@ -1,4 +1,4 @@
-## Tahap Praoperasional (2 - 7 Tahun)
+## Tahap Praoperasional
 
 Selesai dengan fase sensorimotor yang serba fisik, anak masuk ke **Tahap Praoperasional**. Di usia ini, keajaiban imajinasi mulai muncul. Mereka bisa membayangkan benda yang tidak ada di depan mata. Tapi ingat, namanya saja "pra-operasional", jadi jangan harap mereka sudah bisa berpikir secara logis.
 

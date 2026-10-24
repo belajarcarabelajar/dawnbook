@@ -1,3 +1,5 @@
+## Kritik Terhadap Teori Piaget
+
 Jean Piaget memang raksasa dalam dunia psikologi perkembangan. Namun, tidak ada teori yang sempurna. Seiring berjalannya waktu, para peneliti menyadari ada celah dari peta pemikiran anak yang digambar Piaget. Beberapa bagian bahkan sedikit meleset.
 
 Bagian ini membahas sisi kritis teori Piaget. Kita juga akan melihat cara pemikir **Neo-Piagetian** memperbarui "perangkat lunak" teori ini agar sesuai dengan penemuan baru.
