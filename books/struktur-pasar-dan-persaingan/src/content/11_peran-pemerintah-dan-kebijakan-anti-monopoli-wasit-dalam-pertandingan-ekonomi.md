@@ -89,7 +89,7 @@ Dalam kasus ini, pemerintah tidak membubarkan monopolinya, melainkan **meregulas
 
 ### Aktivitas Analisis Cepat
 
-Cobalah perhatikan lingkungan di sekitar kamu:
+Cobalah amati lingkungan di sekitar kamu:
 
 1. Sebutkan satu produk yang hanya disediakan oleh satu perusahaan di daerah kamu. Apakah itu termasuk monopoli alami atau monopoli karena hambatan buatan?
 2. Cari berita terbaru tentang "Putusan KPPU". Pelanggaran apa yang paling sering dilakukan oleh perusahaan di Indonesia belakangan ini?
