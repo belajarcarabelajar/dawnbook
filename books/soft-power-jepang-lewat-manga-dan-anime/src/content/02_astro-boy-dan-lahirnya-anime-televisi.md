@@ -1,47 +1,46 @@
 ## Astro Boy dan Lahirnya Anime Televisi
 
-Bayangkan sebuah ruang keluarga di Jepang pada hari Tahun Baru 1963, saat layar televisi menayangkan bocah robot bernama Atom. Anak-anak duduk paling depan, orang tua di belakang, dan selama setengah jam tidak ada yang beranjak. Mereka tidak tahu sedang menyaksikan sebuah awal. Hari itu, 1 Januari 1963, Fuji TV menyiarkan episode pertama *Tetsuwan Atom*, yang kemudian dikenal dunia sebagai *Astro Boy*.
+Bayangkan sebuah ruang keluarga di Jepang pada hari Tahun Baru 1963, ketika layar televisi menayangkan seorang bocah robot bernama Atom. Anak-anak duduk paling depan, orang tua di belakang, dan selama setengah jam tidak ada yang beranjak. Tak seorang pun di ruangan itu tahu bahwa mereka sedang menonton sebuah awal. Hari itu, 1 Januari 1963, Fuji TV menyiarkan episode pertama *Tetsuwan Atom*, yang kemudian dikenal dunia sebagai *Astro Boy*.
 
-Kalau kamu ingin memahami mengapa anime bisa menjadi alat *soft power* Jepang, tayangan inilah titik berangkat yang paling masuk akal. Di bab ini kita melihat bagaimana satu serial sudah memperlihatkan empat kebiasaan industri yang masih bertahan: serial televisi yang tayang rutin, ritme produksi yang cepat, tokoh yang dijual sebagai barang dagangan, dan ekspor yang dimulai sejak tahun pertama.
+Kalau kamu ingin tahu mengapa anime bisa menjadi alat *soft power* Jepang, tayangan inilah titik berangkat yang paling masuk akal. Banyak kebiasaan industri anime yang bertahan sampai sekarang sudah terlihat pada satu serial itu.
 
 ### Setengah Jam yang Mengubah Layar Kaca
 
-Menurut catatan resmi [Tezuka Productions](https://tezukaosamu.net/en/anime/30.html), situs yang mengelola karya Osamu Tezuka, *Tetsuwan Atom* diproduksi oleh Mushi Production dan tayang di Fuji TV dari 1 Januari 1963 sampai 31 Desember 1966. Serial ini merupakan serial animasi televisi Jepang pertama yang berdurasi 30 menit per episode. Totalnya 193 episode.
+Catatan resmi [Tezuka Productions](https://tezukaosamu.net/en/anime/30.html), pengelola karya Osamu Tezuka, menyebut *Tetsuwan Atom* sebagai serial animasi televisi Jepang pertama yang berdurasi 30 menit per episode. Mushi Production membuatnya, dan serial itu tayang di Fuji TV dari 1 Januari 1963 sampai 31 Desember 1966 dengan total 193 episode.
 
-Angka itu layak direnungkan sebentar. Empat tahun penayangan dengan 193 episode berarti rata-rata hampir satu episode setiap pekan. Animasi adalah pekerjaan yang lambat, karena setiap gerakan harus digambar. Menjaga pasokan sebanyak itu menuntut studio bekerja dengan ritme yang sangat ketat, sejak serial anime televisi yang pertama.
+Hitung sebentar. Empat tahun dan 193 episode berarti rata-rata hampir satu episode setiap pekan. Animasi adalah pekerjaan yang lambat, karena setiap gerakan harus digambar. Menjaga pasokan sebanyak itu menuntut studio bekerja dengan ritme yang sangat ketat, dan ritme itu sudah ada sejak serial anime televisi yang pertama.
 
-Penonton pun membalasnya. Rating tertinggi serial ini mencapai 40,7 persen. Bagi stasiun televisi, angka seperti itu membuktikan bahwa kartun buatan dalam negeri bisa menarik pemirsa dalam jumlah besar.
+Penonton membalas kerja itu. Pada puncaknya, rating serial ini mencapai 40,7 persen. Bagi stasiun televisi, angka seperti itu membuktikan bahwa kartun buatan dalam negeri bisa menarik pemirsa dalam jumlah besar.
 
 ### Cokelat Meiji Seika dan Lahirnya Waralaba Tokoh
 
-Serial setengah jam setiap pekan butuh biaya, dan di sinilah sponsor masuk. Menurut halaman penerbit buku Marc Steinberg, produsen cokelat Meiji Seika mensponsori *Astro Boy* dan memasarkan produknya bersama sang tokoh, misalnya lewat stiker yang dibagikan bersama cokelat. Atom tidak lagi hanya ditonton, tetapi juga dikumpulkan.
+Serial setengah jam setiap pekan butuh biaya, dan di titik ini sebatang cokelat masuk ke dalam cerita. Halaman penerbit buku Marc Steinberg mencatat bahwa produsen cokelat Meiji Seika mensponsori *Astro Boy* dan memasarkan produknya bersama sang tokoh, misalnya lewat stiker yang dibagikan bersama cokelat. Anak-anak tidak lagi hanya menonton Atom. Mereka mengumpulkannya. Tokoh yang tadinya hanya hidup setengah jam sepekan kini ikut pulang ke rumah bersama sebatang cokelat.
 
-Peneliti media Marc Steinberg, dalam bukunya *Anime's Media Mix* (2012), menganggap momen ini sangat penting. Ia menulis bahwa *media mix*, istilah Jepang untuk apa yang di Barat disebut konvergensi media, "menyala" pada 1 Januari 1963 bersama *Astro Boy*. Menurut Steinberg, pemasaran cokelat Meiji Seika mengubah Atom menjadi waralaba tokoh: sosok yang hidup di layar, di kemasan, dan di saku anak-anak sekaligus.
+Steinberg, peneliti media yang menulis *Anime's Media Mix* (2012), menganggap momen ini sangat penting. *Media mix*, istilah Jepang untuk apa yang di Barat disebut konvergensi media, ia anggap mulai menyala pada 1 Januari 1963 bersama *Astro Boy*. Dalam bacaannya, pemasaran cokelat itu mengubah Atom menjadi waralaba tokoh: sosok yang hidup di layar, di kemasan, dan di saku anak-anak sekaligus.
 
-Steinberg juga menarik garis dari Atom ke waralaba yang datang belakangan, seperti Pokémon, Doraemon, dan Hello Kitty. Pelajarannya sederhana tetapi besar. Tokoh bisa menjadi aset yang bernilai lebih tinggi daripada tayangan itu sendiri, karena ia bisa dijual berkali-kali dalam bentuk yang berbeda.
+Steinberg juga menarik garis dari Atom ke waralaba yang datang belakangan, seperti Pokémon, Doraemon, dan Hello Kitty. Pelajarannya sederhana tetapi besar. Tokoh bisa menjadi aset yang bernilai lebih tinggi daripada tayangannya sendiri, karena ia bisa dijual berkali-kali dalam bentuk yang berbeda.
 
 ### Jalan Atom Menuju Stasiun TV Amerika
 
-Ekspor tidak menunggu lama. Pada 1963, tahun yang sama dengan penayangan perdana di Jepang, NBC Enterprises membeli hak *Tetsuwan Atom*. Catatan Tezuka Productions menyebut Tezuka sendiri berangkat ke Amerika pada Maret 1963 untuk urusan kontrak itu, dan kontrak untuk 52 episode ditandatangani pada Mei 1963.
+Ekspor tidak menunggu lama. Pada 1963, tahun yang sama dengan penayangan perdananya, NBC Enterprises membeli hak *Tetsuwan Atom*. Tezuka sendiri berangkat ke Amerika pada Maret 1963 untuk mengurus kontraknya, dan pada Mei 1963 kontrak untuk 52 episode ditandatangani.
 
-Fred Ladd, yang menangani versi bahasa Inggrisnya, menyiapkan 104 episode berbahasa Inggris. Satu hal perlu kamu catat dengan cermat. Serial ini tidak ditayangkan di jaringan NBC. Serial ini dipasarkan NBC Enterprises secara sindikasi ke stasiun TV AS mulai September 1963, menjangkau sekitar 50 stasiun. Sindikasi berarti stasiun lokal membeli hak tayang satu per satu, sehingga Atom muncul di banyak kota tanpa harus bergantung pada satu jaringan nasional.
+Fred Ladd, yang menangani versi bahasa Inggrisnya, menyiapkan 104 episode berbahasa Inggris. Namun Atom tidak tampil di jaringan nasional NBC. Serial itu dipasarkan NBC Enterprises secara sindikasi ke stasiun TV AS mulai September 1963. Artinya, stasiun lokal membeli hak tayang satu per satu, dan Atom muncul di sekitar 50 stasiun di banyak kota tanpa harus bergantung pada satu jaringan nasional.
 
-Selain Amerika, catatan Tezuka Productions menyebut serial ini juga tayang di Tiongkok dan Eropa. Sejak awal, anime televisi sudah dibuat untuk penonton Jepang tetapi dijual juga ke luar negeri.
+Amerika pun bukan satu-satunya tujuan: serial ini juga tayang di Tiongkok dan Eropa. Sejak awal, anime televisi dibuat untuk penonton Jepang tetapi dijual juga ke luar negeri.
 
 ### Robot Ramah dalam Pidato Diplomasi
 
-Empat dekade kemudian, Atom muncul lagi di tempat yang tak terduga, yaitu pidato seorang menteri luar negeri. Pada 28 April 2006, Taro Aso berpidato di Digital Hollywood University tentang diplomasi budaya. Dalam [pidato itu](https://www.mofa.go.jp/announce/fm/aso/speech0604-2.html), ia menyebut *Astro Boy* dan Doraemon sebagai tokoh yang membuat robot terlihat ramah, lebih mirip penolong daripada ancaman.
+Empat dekade kemudian, Atom muncul di tempat yang tak terduga, yaitu pidato seorang menteri luar negeri. Pada 28 April 2006, Taro Aso berbicara tentang diplomasi budaya di Digital Hollywood University. Dalam [pidato itu](https://www.mofa.go.jp/announce/fm/aso/speech0604-2.html), ia menyebut *Astro Boy* dan Doraemon sebagai tokoh yang membuat robot terlihat ramah, lebih seperti penolong daripada ancaman.
 
-Pernyataan ini menunjukkan sesuatu yang menarik. Sebuah serial kartun dari 1963 dianggap ikut membentuk cara orang memandang teknologi, dan pemerintah Jepang menyadari nilai citra tersebut. Hiburan anak-anak yang dulu ikut dipakai untuk menjual cokelat pada akhirnya dikutip sebagai modal diplomasi.
-
-### Cetakan yang Masih Dipakai Industri Anime
-
-Jika kamu menonton anime musim ini, banyak unsurnya sudah ada pada *Astro Boy*. Ada serial televisi yang tayang secara teratur. Ada tuntutan memproduksi episode dalam jumlah banyak dengan cepat. Ada sponsor dan barang dagangan yang membuat tokoh hidup di luar layar. Ada pula penjualan ke luar negeri yang dimulai hampir bersamaan dengan penayangan di dalam negeri.
-
-Tentu industri sekarang jauh lebih besar dan rumit. Namun pertanyaan dasarnya tetap sama dengan yang dihadapi pada 1963: bagaimana cara membiayai tayangan yang mahal ongkos pembuatannya, dan bagaimana cara agar tokohnya menghasilkan nilai lebih lama daripada masa tayangnya.
+Lintasan itu cukup jauh untuk sebuah kartun. Serial yang dulu membantu menjual stiker dan cokelat kini dianggap ikut membentuk cara orang memandang teknologi. Pemerintah Jepang menyadari nilai citra tersebut, sampai Aso mengutip Atom sebagai modal diplomasi.
 
 ### Ringkasan
 
-*Tetsuwan Atom* tayang di Fuji TV dari 1 Januari 1963 sampai 31 Desember 1966 dalam 193 episode, dengan rating tertinggi 40,7 persen. Ia menjadi serial animasi televisi Jepang pertama berdurasi 30 menit. Sponsor Meiji Seika mengubah Atom menjadi waralaba tokoh, momen yang oleh Steinberg disebut sebagai titik nyala *media mix*. Pada tahun yang sama, NBC Enterprises membeli haknya dan memasarkannya secara sindikasi ke sekitar 50 stasiun TV AS mulai September 1963. Puluhan tahun kemudian, Taro Aso menyebut Atom sebagai tokoh yang membuat robot tampak ramah.
+Jika kamu menonton anime musim ini, banyak unsurnya sudah ada pada *Astro Boy*:
 
-Pola yang lahir dari Atom, yaitu tokoh yang dijual di banyak media sekaligus, membutuhkan mesin pembiayaan yang lebih besar seiring tumbuhnya industri. Bab berikutnya membedah model bisnis yang membiayai anime, mulai dari *media mix* sampai komite produksi yang membagi risiko pendanaan di antara banyak perusahaan.
+- serial televisi yang tayang teratur, setengah jam per episode, dengan rating tertinggi 40,7 persen;
+- tuntutan memproduksi banyak episode dengan cepat, hampir satu setiap pekan;
+- sponsor dan barang dagangan yang membuat tokoh hidup di luar layar, seperti stiker cokelat Meiji Seika;
+- penjualan ke luar negeri yang dimulai pada tahun yang sama dengan penayangan perdana, lewat sindikasi NBC Enterprises ke sekitar 50 stasiun TV AS; serial yang sama juga tayang di Tiongkok dan Eropa.
+
+Industri sekarang jauh lebih besar dan rumit, tetapi pertanyaan dasarnya masih sama dengan yang dihadapi pada 1963. Siapa yang membiayai tayangan semahal itu, dan bagaimana membuat tokohnya menghasilkan nilai lebih lama daripada masa tayangnya? Pola yang lahir dari Atom, yaitu tokoh yang dijual di banyak media sekaligus, membutuhkan mesin pembiayaan yang lebih besar seiring tumbuhnya industri, dan jawabannya kelak datang dari komite produksi yang membagi risiko pendanaan di antara banyak perusahaan.

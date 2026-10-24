@@ -1,7 +1,7 @@
 ---
 schema: ultra-plan/v1
 plan_id: 2026-10-24-dawnbook-voice-pass-six-books
-status: Draft
+status: Approved
 version: 1
 runner_contract: true
 skill: "super-ultra-code-plan (loaded through the Skill tool from ~/.claude/skills/super-ultra-code-plan/SKILL.md)"
@@ -101,7 +101,7 @@ tasks:
 
 # Plan: section 29 voice pass for six pipeline-written books
 
-Status: Draft (plan only; no book text changes until the owner approves)
+Status: Approved
 Author: Iwan Kurniawan <iwan@belajarcarabelajar.com>, no trailer
 Classification: Architectural by size (about 70 chapters in six books plus a shared checker), Bounded in kind (the same flow as plan 2026-10-24-dawnbook-harvest-moon-voice).
 Trigger: the same-class sweep after the Harvest Moon voice fix (owner selected follow-up V-N1, 2026-10-24).
@@ -109,8 +109,8 @@ Trigger: the same-class sweep after the Harvest Moon voice fix (owner selected f
 ## Checklist
 
 - [x] Measure: per-chapter scaffold score for all 60 books (patterns: "Kalau dipikir-pikir", "menurut studi/penelitian/riset/data/laporan/survei", a study or report as the subject of "menunjukkan/menemukan/mencatat/menyebut", "bab berikutnya", "Menariknya", "Perhatikan"). Evidence: one-off scan 2026-10-24, median 0.25 per chapter; the six books below score 1.3 to 2.8.
-- [ ] Plan gate: owner approves this plan (one PR per book, or one PR for all six).
-- [ ] G1: shared checker `scripts/check-voice.ts` with tests (RED first), caps from GEMINI.md section 29.
+- [x] Plan gate: owner approves this plan (one PR per book, or one PR for all six). Evidence: AskUserQuestion 2026-10-24: Plan = Approve and start now; one PR per book, G1 ships in the first book's PR.
+- [x] G1: shared checker `scripts/check-voice.ts` with tests (RED first), caps from GEMINI.md section 29. Evidence 2026-10-24: `bun test tests/scripts/check-voice.test.ts` RED with 4 fail on the review defects (unanchored Referensi skip, vacuous empty book, -lah/-nya connectors, `sebab berikutnya`), then exit 0 with 22 pass; soft-power and Harvest Moon book tests call it.
 - [ ] B1-B6: one book per task; each fans out to chapter rewriters under the section 29 dispatch paragraph and the rewriting-never-adds rule, then a parent audit and two reviewers (facts old versus new, and voice).
 - [ ] V1: gates and build.
 - [ ] D1: PRs; merge, deploy and D1 seed asked separately per PR.

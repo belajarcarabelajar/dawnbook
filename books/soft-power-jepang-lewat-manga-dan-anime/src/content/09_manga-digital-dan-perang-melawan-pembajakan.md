@@ -1,28 +1,26 @@
 ## Manga Digital dan Perang Melawan Pembajakan
 
-Bab terbaru manga favoritmu bisa dibaca gratis di aplikasi resmi, tetapi situs bajakan menawarkan seluruh arsipnya tanpa bayar. Pilihan mana yang kamu ambil? Pertanyaan sederhana ini sebenarnya menyentuh inti pertarungan industri manga beberapa tahun terakhir. Penerbit Jepang tidak bisa lagi hanya mengandalkan toko buku. Pembaca sudah pindah ke layar, dan situs bajakan ikut menunggu di sana.
-
-Bab ini mengikuti tiga arus sekaligus: perpindahan pembaca dari kertas ke ponsel, perlawanan hukum terhadap situs bajakan, dan cara penerbit merebut kembali pembaca dengan layanan resmi yang gratis. Di ujungnya, ada pesaing baru yang datang dari negara tetangga.
+Bab terbaru manga favoritmu terbit, dan dua tautan menunggu di layar: aplikasi resmi yang gratis, atau situs bajakan yang menyimpan seluruh arsipnya. Mana yang kamu ketuk? Pilihan sekecil itu sudah menjadi inti pertarungan industri manga beberapa tahun terakhir. Toko buku tidak lagi cukup, sebab pembaca sudah pindah ke ponsel, dan pembajak ikut menunggu di sana.
 
 ### Ketika Ponsel Mengalahkan Kertas
 
-Angka dari Shuppan Kagaku Kenkyujo, lembaga riset penerbitan Jepang, menunjukkan seberapa jauh pergeseran itu. Pada 2025, pasar komik Jepang (cetak dan digital) bernilai 692,5 miliar yen. Nilai itu turun 1,7 persen, penurunan pertama setelah tujuh tahun tumbuh berturut-turut. Yang menarik adalah komposisinya. Komik digital mencapai 527,3 miliar yen, naik 2,9 persen, dan kini menguasai 76,1 persen pasar. Komik cetak tinggal 165,2 miliar yen setelah anjlok 14,0 persen.
+Hitungan Shuppan Kagaku Kenkyujo, lembaga riset penerbitan Jepang, memperlihatkan seberapa jauh perpindahan itu. Pada 2025, komik digital sudah menguasai 76,1 persen pasar komik Jepang, sementara penjualan versi cetak anjlok 14,0 persen dalam setahun. Pasar secara keseluruhan turun 1,7 persen, penurunan pertama setelah tujuh tahun tumbuh berturut-turut.
 
-Komik juga bukan sekadar pelengkap bisnis buku di Jepang. Pada tahun yang sama, komik menyumbang 44,8 persen dari seluruh pasar penerbitan. Jadi ketika cara orang membaca manga berubah, seluruh industri penerbitan ikut bergeser.
+Ini bukan urusan satu rak di sudut toko. Tahun itu komik menyumbang 44,8 persen dari seluruh pasar penerbitan Jepang. Begitu cara orang membaca manga berubah, seluruh industri buku ikut bergeser bersamanya.
 
-### Kerugian Triliunan Yen dari Konten Curian
+### Kerugian dalam Angka Taksiran
 
-Perpindahan ke layar membawa masalah lama dalam bentuk baru. Salinan digital mudah disebar, dan situs bajakan bisa memuat banyak judul tanpa membayar sepeser pun kepada pengarang. CODA, organisasi antipembajakan konten Jepang, bersama PwC memperkirakan kerugian akibat pembajakan pada 2022 berada di kisaran 1,95 sampai 2,202 triliun yen, sekitar lima kali lipat angka 2019.
+Layar yang memudahkan pembaca juga memudahkan pencuri. Salinan digital gampang disebar, dan satu situs bisa memuat banyak judul tanpa membayar apa-apa kepada pengarangnya.
 
-Perkiraan yang lebih baru, dengan cakupan konten digital, jauh lebih besar. Dalam [rilis bersama METI dan CODA](https://www.meti.go.jp/english/press/2026/0126_001.html) tanggal 26 Januari 2026, kerugian konten digital akibat pembajakan pada 2025 ditaksir sekitar 5,7 triliun yen.
+Besar kerugiannya berupa taksiran. CODA, organisasi antipembajakan konten Jepang, bersama PwC menempatkan kerugian 2022 di kisaran 1,95 sampai 2,202 triliun yen, sekitar lima kali lipat angka 2019. Taksiran yang lebih baru memakai cakupan konten digital dan hasilnya jauh lebih besar: [rilis bersama METI dan CODA](https://www.meti.go.jp/english/press/2026/0126_001.html) pada 26 Januari 2026 menyebut angka sekitar 5,7 triliun yen untuk 2025.
 
 ### Jatuhnya Manga-mura
 
-Kasus paling terkenal adalah Manga-mura, situs bajakan yang beroperasi sejak 2016. CODA memperkirakan kerugian dari situs ini mencapai 319,2 miliar yen hanya dalam periode September 2017 sampai Februari 2018. Situs itu menghilang pada 17 April 2018, setelah pemerintah meminta penyedia layanan internet memblokirnya.
+Kasus yang paling terkenal bernama Manga-mura, situs bajakan yang beroperasi sejak 2016. CODA memperkirakan situs ini menimbulkan kerugian 319,2 miliar yen hanya dalam rentang September 2017 sampai Februari 2018. Pada 17 April 2018 situs itu lenyap, setelah pemerintah meminta penyedia layanan internet memblokirnya.
 
-Pengelolanya, Romi Hoshino, diekstradisi dari Filipina pada September 2019. Pada Juni 2021, Pengadilan Distrik Fukuoka menjatuhkan hukuman tiga tahun penjara, denda 10 juta yen, dan perampasan 62 juta yen. Ceritanya belum selesai di situ. Pada 18 April 2024, [Pengadilan Distrik Tokyo](https://www.japantimes.co.jp/news/2024/04/18/japan/crime-legal/manga-mura-copyright-ruling/) memerintahkan ganti rugi 1,7 miliar yen kepada tiga penerbit besar, yaitu Kadokawa, Shueisha, dan Shogakukan.
+Hilangnya situs ternyata baru babak awal. Pengelolanya, Romi Hoshino, diekstradisi dari Filipina pada September 2019 dan dijatuhi hukuman tiga tahun penjara oleh Pengadilan Distrik Fukuoka pada Juni 2021. Lalu pada 18 April 2024, [Pengadilan Distrik Tokyo](https://www.japantimes.co.jp/news/2024/04/18/japan/crime-legal/manga-mura-copyright-ruling/) memerintahkan ganti rugi 1,7 miliar yen bagi tiga penerbit besar, Kadokawa, Shueisha, dan Shogakukan.
 
-Urutan peristiwanya, dari situs mulai beroperasi sampai putusan ganti rugi, tergambar pada bagan di bawah ini.
+Kalau semua tanggal itu dijajarkan dari atas ke bawah, panjangnya perkara ini langsung terasa.
 
 ```mermaid
 flowchart TD
@@ -37,33 +35,22 @@ flowchart TD
     A --> B --> C --> D --> E --> F
 ```
 
-Pelajaran dari kasus ini cukup jelas. Penegakan hukum bisa menutup satu situs, tetapi prosesnya bertahun-tahun, dan pembaca yang kehilangan satu sumber gratis bisa saja mencari sumber lain.
+Hukum memang bisa menutup satu situs. Masalahnya, prosesnya memakan waktu bertahun-tahun, sementara pembaca yang kehilangan satu sumber gratis bisa saja mencari sumber lain.
 
 ### Bab Gratis yang Terbit Serentak
 
-Di luar jalur hukum, penerbit juga menawarkan alternatif legal. Seperti disinggung di bab 5, Shueisha meluncurkan MANGA Plus pada Januari 2019, dengan bab baru yang terbit bersamaan dengan Jepang serta bab pertama dan terbaru yang gratis. Pada Agustus 2021, pembatasan wilayahnya dihapus.
+Di luar jalur hukum, penerbit juga menawarkan alternatif yang legal di tempat yang sama. Shueisha meluncurkan MANGA Plus pada Januari 2019, layanan yang sudah disinggung di bab 5. Bab baru terbit bersamaan dengan Jepang, bab pertama dan bab terbaru bisa dibaca gratis, dan sejak Agustus 2021 pembatasan wilayahnya dihapus.
 
-Dengan model itu, pembaca di luar Jepang punya pilihan resmi yang tersedia pada hari yang sama, gratis, dan legal. Menurut laporan Anime News Network, MANGA Plus memiliki 6 juta *monthly active users* (pengguna aktif bulanan) pada 2023. Menurut laporan Asahi Shimbun, angkanya sekitar 5,5 juta pada 2025, dengan sekitar 100 judul dalam sembilan bahasa.
+Bagi pembaca di luar Jepang, artinya sederhana. Ada pilihan resmi yang tersedia pada hari yang sama, tanpa bayar, dan legal. Pada 2025, Asahi Shimbun mencatat layanan ini dipakai sekitar 5,5 juta pengguna aktif bulanan, dengan sekitar 100 judul dalam sembilan bahasa.
 
-### Rak Komik Amerika dan Prancis
+### Rak Luar Negeri dan Pesaing di Layar
 
-Strategi itu bertemu permintaan yang sedang tinggi di luar Jepang. Menurut ICv2, penjualan komik dan novel grafis di Amerika Serikat dan Kanada mencapai 2,075 miliar dolar AS pada 2021, naik 62 persen, dengan manga sebagai salah satu pendorong terkuat. Pada 2024, angkanya 1,94 miliar dolar AS.
+Strategi itu bertemu permintaan yang sedang tinggi. Di Amerika Serikat dan Kanada, ICv2 mencatat penjualan komik dan novel grafis mencapai 2,075 miliar dolar AS pada 2021, naik 62 persen, dengan manga sebagai salah satu pendorong terkuat. Di Prancis, data NielsenIQ-GfK menghitung 39,6 juta eksemplar manga terjual pada 2023, dan lebih dari separuh komik yang dibeli di sana adalah manga.
 
-Data Circana BookScan memperlihatkan pasang surutnya. Penjualan unit manga pada Januari sampai Agustus 2023 turun 27 persen dibanding periode yang sama tahun 2022, tetapi masih 351 persen lebih tinggi daripada 2019. Dalam 12 bulan sampai Juni 2024, manga bersama *manhwa* (komik Korea) menguasai 40 persen penjualan novel grafis di AS.
-
-Di Prancis, data NielsenIQ-GfK mencatat 39,6 juta eksemplar manga terjual pada 2023, senilai 331 juta euro. Lebih dari separuh komik yang dibeli di sana adalah manga. Menurut laporan ActuaLitté, angka 2024 sekitar 35,9 juta eksemplar.
-
-### Webtoon Korea Ikut Berebut Pembaca
-
-Pembaca digital tidak hanya diincar penerbit Jepang. Pada 2019, [Japan Times](https://www.japantimes.co.jp/news/2019/05/05/business/tech/south-koreas-booming-webtoons-put-japans-print-manga-notice/) melaporkan bahwa *webtoon* Korea, komik digital yang dibaca lewat aplikasi, mulai menjadi ancaman serius bagi manga cetak Jepang. Menurut laporan itu, pembaca muda yang tumbuh bersama ponsel beralih ke judul-judul berbasis aplikasi.
-
-Artinya, layanan resmi gratis juga menjadi cara agar manga tetap berada di layar yang sama tempat pesaingnya bersaing.
+Namun layar ponsel bukan milik manga sendirian. Pada 2019, [Japan Times](https://www.japantimes.co.jp/news/2019/05/05/business/tech/south-koreas-booming-webtoons-put-japans-print-manga-notice/) melaporkan bahwa *webtoon* Korea, komik digital yang dibaca lewat aplikasi, mulai menjadi ancaman serius bagi manga cetak Jepang. Laporan itu melihat pembaca muda yang tumbuh bersama ponsel beralih ke judul-judul berbasis aplikasi. Dari sudut ini, bab gratis di MANGA Plus juga menjadi cara agar manga tetap hadir di layar yang sama tempat pesaingnya bersaing.
 
 ### Recap
 
-- Pada 2025, komik digital menguasai 76,1 persen pasar komik Jepang, sementara penjualan cetak turun 14,0 persen.
-- Kerugian akibat pembajakan diperkirakan mencapai triliunan yen, dan kasus Manga-mura berakhir dengan hukuman pidana serta ganti rugi 1,7 miliar yen.
-- MANGA Plus menawarkan bab resmi yang gratis dan terbit serentak dengan Jepang, alternatif legal bagi pembaca.
-- Manga kuat di Amerika Utara dan Prancis, tetapi kini bersaing dengan webtoon Korea untuk merebut pembaca digital.
+Pada 2025, lebih dari tiga perempat pasar komik Jepang sudah berbentuk digital, dan pembajakan ikut pindah ke layar dengan kerugian yang ditaksir mencapai triliunan yen. Kasus Manga-mura menunjukkan bahwa jalur hukum bisa berhasil, tetapi lambat. Penerbit juga menawarkan bab resmi yang gratis dan terbit serentak, di layar yang kini juga diperebutkan *webtoon* Korea.
 
-Manga dan anime tidak berhenti di halaman atau layar. Banyak penggemar ingin berdiri di persimpangan, stasiun, dan kota yang mereka kenal dari cerita, lalu memotretnya sendiri. Bab berikutnya mengikuti perjalanan itu, dari halaman komik ke tempat nyata yang kini didatangi penggemar dari berbagai negara.
+Sebagian penggemar tidak puas hanya menatap layar. Mereka ingin berdiri di persimpangan, stasiun, dan kota yang mereka kenal dari cerita, lalu memotretnya dengan tangan sendiri. Dari halaman, langkah mereka kini mengarah ke tempat-tempat nyata.

@@ -1,61 +1,48 @@
 ## Doraemon, Elex, dan Penggemar Indonesia
 
-Bagi banyak anak Indonesia, Minggu pagi pernah identik dengan satu tontonan, yaitu robot kucing biru di layar RCTI. Jam dinding menunjuk 08.00 WIB, sarapan belum habis, dan lagu pembuka Doraemon sudah terdengar dari ruang tengah. Mungkin kamu juga punya kenangan seperti itu. Kalau iya, kamu termasuk bagian dari cerita yang lebih besar: bagaimana Indonesia berubah dari penonton yang kebetulan menyalakan televisi menjadi salah satu khalayak penting bagi budaya pop Jepang.
+Sarapan belum habis, jam dinding menunjuk pukul delapan, dan lagu pembuka si robot kucing biru sudah terdengar dari ruang tengah setiap Minggu pagi. Mungkin kamu tumbuh bersama suara itu. Kalau iya, kamu ikut menjadi bagian dari perubahan yang berjalan pelan: Indonesia bergeser dari penonton yang kebetulan menyalakan televisi menjadi khalayak yang belajar, berkumpul, berkarya, dan sebagian ikut menggambar.
 
-Bab-bab sebelumnya banyak membahas Amerika Serikat dan Eropa. Kali ini kita pulang ke rumah sendiri dan menelusuri jejaknya, dari layar kaca, rak komik, ruang kelas bahasa, sampai aula pameran dan studio animasi.
+### Robot Kucing Biru Setiap Minggu Pagi
 
-### Pagi Minggu Bersama RCTI
+Jadwal itu punya tanggal lahir. RCTI mengambil alih hak siar Doraemon pada 9 Desember 1990 dan menayangkannya setiap Minggu pukul 08.00 WIB, setelah serial ini sempat tayang lebih dulu di TVRI, seperti dicatat [detikJogja](https://www.detik.com/jogja/budaya/d-8297372/kapan-doraemon-rilis-ini-sejarahnya-hingga-berhenti-tayang-di-tv-indonesia). Slot itu bertahan sekitar 35 tahun. Dalam rentang selama itu, anak yang dulu menonton sambil sarapan bisa saja kini sudah punya anak sendiri.
 
-Menurut [laporan detikJogja](https://www.detik.com/jogja/budaya/d-8297372/kapan-doraemon-rilis-ini-sejarahnya-hingga-berhenti-tayang-di-tv-indonesia), RCTI mengambil alih hak siar Doraemon pada 9 Desember 1990 dan menayangkannya setiap Minggu pukul 08.00 WIB. Laporan yang sama menyebut serial ini sempat tayang lebih dulu di TVRI.
+Karena kebiasaannya begitu panjang, hilangnya dari jadwal terasa janggal. Dari akhir Desember 2025 sampai awal Januari 2026, Doraemon menghilang dari jadwal RCTI tanpa penjelasan resmi.
 
-Doraemon bertahan di RCTI sekitar 35 tahun. Lalu, dari akhir Desember 2025 sampai awal Januari 2026, Doraemon menghilang dari jadwal RCTI tanpa penjelasan resmi. Hilangnya Doraemon dari jadwal itu terasa janggal justru karena kebiasaannya sudah begitu lama. Dalam rentang 35 tahun, anak yang dulu menonton sambil sarapan bisa saja sudah punya anak sendiri.
+Barangkali seperti inilah soft power bekerja: pelan, berulang, dan nyaris tak terasa. Tidak ada kampanye yang menyuruhmu menyukai Nobita. Kamu hanya bertemu dengannya setiap pekan, dan pertemuan itu lama-lama berubah menjadi rasa akrab.
 
-Pengulangan seperti ini bisa jadi cara soft power bekerja, pelan tapi dalam. Tidak ada kampanye yang menyuruh kamu menyukai Nobita. Kamu hanya terbiasa melihatnya setiap pekan, dan kebiasaan itu lama-lama menjadi rasa akrab.
+### Lisensi dari Penerbit Buku Komputer
 
-### Komik Berlisensi dari Penerbit Buku Komputer
+Kalau televisi membuka pintu, toko bukulah yang menahannya agar tidak tertutup lagi. Elex Media Komputindo lahir pada 15 Januari 1985 sebagai penerbit buku komputer, bukan penerbit komik, walau kini ia menyebut dirinya pelopor komik Jepang di Indonesia.
 
-Televisi membuka pintu, sementara toko buku menahannya tetap terbuka. Elex Media Komputindo didirikan pada 15 Januari 1985 sebagai penerbit buku komputer, bukan penerbit komik. Kini perusahaan itu menyebut dirinya pelopor komik Jepang di Indonesia.
+Ceritanya datang dari Ratna Sari, editor Elex, yang berbincang dengan detikHot pada 2013. Elex membeli lisensi *Candy Candy* pada 1991, lalu menyusul *Kungfu Boy*, Doraemon, dan *Dragon Ball*. Jadi Elex lebih tepat disebut salah satu pelopor manga berlisensi, bukan penerbit manga pertama di negeri ini. Rajawali Grafitti Press sudah menerbitkan sejumlah judul manga pada 1980-an, kemungkinan besar tanpa lisensi.
 
-Ratna Sari, editor Elex, bercerita kepada detikHot pada 2013 bahwa Elex membeli lisensi *Candy Candy* pada 1991. Setelah itu menyusul *Kungfu Boy*, Doraemon, dan *Dragon Ball*. Karena itu Elex lebih tepat disebut salah satu pelopor manga berlisensi, bukan yang pertama menerbitkan manga di sini. Rajawali Grafitti Press sudah menerbitkan sejumlah judul manga pada 1980-an, kemungkinan besar tanpa lisensi.
+Kata "berlisensi" itu bukan urusan teknis kecil. Dengan lisensi, uang dari komik yang kamu beli mengalir kembali ke pemegang hak di Jepang.
 
-Perbedaan antara terbitan berlisensi dan tidak berlisensi ini penting. Lisensi berarti uang mengalir kembali ke pemegang hak di Jepang.
+### Dari Rasa Akrab ke Ruang Kelas
 
-### Ratusan Ribu Pelajar Bahasa Jepang
+Rasa akrab dengan tokoh fiksi kadang berlanjut ke hal yang menuntut kesabaran, yaitu belajar bahasanya. Survei Japan Foundation tahun 2024 menempatkan Indonesia di peringkat kedua dunia untuk jumlah pelajar bahasa Jepang, yakni 732.914 orang menurut angka Japan Foundation Jakarta yang dikutip CNBC Indonesia. Sumber yang sama menyebut Indonesia di peringkat pertama untuk jumlah lembaga pengajarnya, 3.103 lembaga. Survei itu tidak mengukur berapa banyak pelajar yang terdorong oleh anime, jadi bacalah angkanya sebagai tanda besarnya minat, bukan bukti sebab-akibat.
 
-Rasa akrab dengan tokoh fiksi bisa berlanjut ke sesuatu yang lebih menuntut kesabaran, yaitu belajar bahasanya. Survei Japan Foundation tahun 2024 menempatkan Indonesia di peringkat kedua dunia dalam jumlah pelajar bahasa Jepang. Menurut CNBC Indonesia yang mengutip Japan Foundation Jakarta, jumlahnya 732.914 pelajar.
+Ada pula yang memilih berangkat. JNTO mencatat 517.651 pengunjung dari Indonesia pada 2024 dan memperkirakan rekor 640.600 pengunjung pada 2025. Godaannya adalah menyambungkan angka itu langsung ke anime, padahal belum ada sumber yang membuktikan hubungan tersebut. Keputusan berlibur ke luar negeri dipengaruhi banyak hal, dan anime paling banter hanya salah satunya.
 
-Menurut sumber yang sama, Indonesia bahkan berada di urutan pertama untuk jumlah lembaga yang mengajarkan bahasa Jepang, yaitu 3.103 lembaga. Di seluruh dunia, pelajarnya sekitar 4 juta orang di 143 negara dan wilayah. Survei ini tidak mengukur berapa banyak pelajar yang terdorong oleh anime, jadi kamu sebaiknya membacanya sebagai tanda besarnya minat, bukan bukti sebab-akibat.
+### Aula Penuh Karya Penggemar
 
-### Comifuro yang Terus Membesar
+Penggemar juga butuh tempat berkumpul. *Comic Frontier*, yang akrab disebut Comifuro, memperlihatkan seberapa jauh kebutuhan itu tumbuh. Comifuro pertama pada 2012 hanya diikuti sekitar 35 *circle*, kelompok kreator yang menjual karya sendiri. Comic Frontier 22 pada 16-17 Mei 2026 di ICE BSD City menghadirkan lebih dari 1.500 circle dari Indonesia, Asia Tenggara, dan Jepang, seperti dilaporkan Kompas Ohayo Jepang.
 
-Penggemar juga butuh tempat berkumpul. *Comic Frontier*, yang akrab disebut Comifuro, adalah contoh paling jelas. Menurut Kompas Ohayo Jepang, Comic Frontier 22 digelar pada 16-17 Mei 2026 di ICE BSD City dan menghadirkan lebih dari 1.500 *circle*, kelompok kreator yang menjual karya sendiri, dari Indonesia, Asia Tenggara, dan Jepang. Comifuro pertama pada 2012 hanya diikuti sekitar 35 circle.
+Di aula yang sama, circle Indonesia berdiri sejajar dengan kreator dari Jepang. Penggemar lokal tidak lagi sekadar menerima budaya pop Jepang. Mereka mengolahnya menjadi karya baru.
 
-Soal jumlah pengunjung, analisis KAORI Nusantara memperkirakan sekitar 20 ribu orang per hari pada 2022-2023. Yang menarik, circle dari Indonesia berdiri sejajar dengan kreator dari Jepang di aula yang sama. Penggemar lokal tidak lagi hanya menerima budaya pop Jepang, tetapi mengolahnya menjadi karya baru.
+Pengolahan serupa tampak pada *cosplay*, kegiatan berdandan menyerupai tokoh fiksi. Ranny Rastati meneliti anak muda Muslim yang ber-cosplay dengan hijab dalam artikelnya di *Jurnal Masyarakat dan Budaya* tahun 2015 ([DOI 10.14203/jmb.v17i3.326](https://doi.org/10.14203/jmb.v17i3.326)). Para *cosplayer* itu menerima praktik ini selama mengikuti syariat, menghindari pose yang berlebihan, dan menghindari kontak dekat saat berfoto. Daya tarik budaya, dengan kata lain, tidak ditelan mentah-mentah. Penggemar menyesuaikannya dengan nilai yang mereka pegang.
 
-### Cosplay Berhijab dan Tafsir Lokal
+### Menggambar untuk Penonton Negeri Lain
 
-Pengolahan itu juga terlihat pada *cosplay*, kegiatan berdandan menyerupai tokoh fiksi. Ranny Rastati menelitinya dalam artikel "Dari Soft Power Jepang hingga Hijab Cosplay" di *Jurnal Masyarakat dan Budaya* 17(3) tahun 2015 ([DOI 10.14203/jmb.v17i3.326](https://doi.org/10.14203/jmb.v17i3.326)). Rastati mencatat bahwa Jepang membangun ulang citranya setelah perang lewat anime, manga, dan cosplay.
+Pada akhirnya arah ceritanya berbalik. Animenomics melaporkan pada Juni 2025 bahwa Aswin Nur Cahya dari Jiva Animation di Malang ikut berkontribusi pada produksi besar seperti *Attack on Titan*. Studio Ubud di Jakarta ikut mengerjakan *Bleach* bersama studio Pierrot, juga *One Piece*.
 
-Penelitian lapangannya berfokus pada anak muda Muslim yang melakukan cosplay berhijab. Para *cosplayer* itu menerima praktik ini selama mengikuti syariat, menghindari pose yang berlebihan, dan menghindari kontak dekat saat berfoto. Temuan ini menunjukkan bahwa daya tarik budaya tidak diterima mentah-mentah. Penggemar menyesuaikannya dengan nilai yang mereka pegang.
-
-### Rekor Pelancong ke Jepang
-
-Ada juga yang akhirnya berangkat ke Jepang. Siaran pers JNTO mencatat 517.651 pengunjung dari Indonesia pada 2024. Untuk 2025, JNTO memperkirakan 640.600 pengunjung, naik 23,8 persen dan menjadi rekor, dengan Desember 2025 sebagai bulan tertinggi (81.700 pengunjung).
-
-Angka ini menggoda untuk dikaitkan langsung dengan anime, tetapi belum ada sumber yang membuktikan hubungan itu. Keputusan berlibur ke luar negeri dipengaruhi banyak hal, dan anime paling banter hanya salah satunya. Yang bisa dikatakan dengan aman hanyalah bahwa minat orang Indonesia terhadap Jepang terlihat di banyak tempat sekaligus.
-
-### Tangan Indonesia di Balik Layar Studio
-
-Cerita terakhir bergerak ke arah sebaliknya. Orang Indonesia tidak hanya menonton, tetapi juga ikut bekerja di dalam industri. Menurut laporan Animenomics pada Juni 2025, Aswin Nur Cahya dari Jiva Animation di Malang ikut berkontribusi pada produksi besar seperti *Attack on Titan*. Laporan yang sama menyebut Studio Ubud di Jakarta ikut mengerjakan *Bleach* bersama studio Pierrot, juga *One Piece*.
-
-Bagi soft power Jepang, ini lapisan yang menarik. Orang Indonesia yang dulu hanya menonton kini ikut menggambar tontonan untuk penonton di negara lain.
+Orang Indonesia yang dulu hanya menonton kini ikut menggambar tontonan untuk penonton di negara lain.
 
 ### Key Takeaways
 
-- Doraemon tayang di RCTI sejak hak siarnya diambil alih pada 9 Desember 1990 dan bertahan sekitar 35 tahun, cukup lama untuk dikenal lintas generasi.
-- Elex Media Komputindo, yang awalnya penerbit buku komputer, menjadi salah satu pelopor manga berlisensi lewat *Candy Candy* pada 1991.
-- Indonesia menempati peringkat kedua dunia untuk jumlah pelajar bahasa Jepang dan peringkat pertama untuk jumlah lembaganya.
-- Comifuro tumbuh dari sekitar 35 circle pada 2012 menjadi lebih dari 1.500 pada 2026, sementara cosplay berhijab menunjukkan cara penggemar menafsirkan ulang budaya Jepang.
-- Kunjungan orang Indonesia ke Jepang mencetak rekor pada 2025, tetapi hubungannya dengan anime belum terbukti.
+- Doraemon menemani Minggu pagi di RCTI sejak 9 Desember 1990, sekitar 35 tahun, cukup lama untuk dikenal lintas generasi.
+- Elex Media Komputindo, yang lahir sebagai penerbit buku komputer, menjadi salah satu pelopor manga berlisensi lewat *Candy Candy* pada 1991.
+- Indonesia berada di peringkat kedua dunia untuk jumlah pelajar bahasa Jepang, walau survei itu tidak mengukur peran anime.
+- Comifuro tumbuh dari sekitar 35 circle menjadi lebih dari 1.500, dan cosplay berhijab menunjukkan penggemar menafsirkan ulang apa yang mereka sukai.
 
-Semua cerita ini terdengar seperti kisah sukses, dan memang begitu dari sisi penonton. Namun setiap episode yang kamu tonton dibuat oleh orang-orang dengan jam kerja dan upah tertentu, dan setiap lonjakan wisata membawa beban bagi kota yang didatangi. Bab berikutnya membalik sudut pandang itu dan menghitung harga di balik kesuksesan.
+Dari kursi penonton, semua ini terdengar seperti kisah sukses. Namun episode yang kamu tonton sambil sarapan itu digambar oleh orang-orang dengan jam kerja dan upah tertentu. Siapa mereka, dan berapa harga yang mereka bayar untuk tontonan yang begitu kamu sukai?
