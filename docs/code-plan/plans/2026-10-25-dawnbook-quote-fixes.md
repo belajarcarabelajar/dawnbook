@@ -84,6 +84,7 @@ Trigger: owner decision 2026-10-25 after the read-only audit in `docs/code-plan/
 - [x] W1: 12 books, one subagent per book; one reviewer for the wave. Evidence: one commit per book; reviewer verdict correct with 5 P3, fixed in 6 commits (4c48f473..99a236ff); two archive.org/details links the writers added (Kabat-Zinn 1994 lending copy, Durant DLI scan) were caught by `referensi-links.test.ts` in the full gate and replaced with publisher pages (4db47c3f, 2d3a55a9).
 - [x] W2: 11 books, one subagent per book; one reviewer for the wave. Evidence: one commit per book (Kania's three with her identity and the Iwan trailer); reviewer verdict correct with 3 P3 (added descriptors), fixed in cbf5ef4e, f0ee080f, 69a1363d.
 - [x] Q1: guard GREEN; book checks, `bun test tests/scripts/ tests/books/` and `bun run build` exit 0. Evidence (head 69a1363d, clean tree): `known-misattributions.test.ts` exit 0; `bun test tests/scripts/ tests/books/` exit 0, 658 pass, 0 fail; `bun run build` exit 0, 0 parse errors; `check-heading-colons` exit 0; copy rules flag only the four required Kania trailers.
+- [x] Debt sweep (owner selected all three follow-ups; Close plan = keep it open): two guard rules added RED (d52544d1: EWS pillars credited to UNESCO, Antifragile without Taleb); sistem-peringatan-dini chapter 3 pillars credited to the UN/ISDR checklist and chapter 4 Pasal 5, 6, 8 and 46 described as the law states them (cc969f78); Taleb credited in resiliensi and, found by the guard, quarter-life-crisis (424384d7, 49732101); a writer renamed two headings to satisfy the two-paragraph window, so the headings were restored and the Taleb rule became chapter-scoped (62e95706, mutation-checked: masking Taleb turns it red); geopolitik Referensi intro and the Terry edition (f5df5727, bc8ae5be). Review of these commits: correct, 2 P3 (pillar names are the checklist's short heading forms, kept; Terry: Wikiquote gives the 6th ed. as 1971 p. 4, Open Library and later citations give 1972; the book cites 1972 without a page). Final gate on bc8ae5be: `bun test tests/scripts/ tests/books/` exit 0, 658 pass, 0 fail; `bun run build` exit 0, 0 parse errors; heading colons exit 0; copy rules flag only the four required Kania trailers.
 - [ ] X1: one PR, one commit per book under the book's author; merge asked alone; deploy, D1 seed and GSC reindex asked separately.
 
 ## Visual Implementation Map
@@ -139,4 +140,9 @@ Same class as the fixes, not done in this plan:
 - sistem-peringatan-dini-early-warning-system chapter 04: "Pasal 6 dan 46 menegaskan bahwa pencegahan termasuk peringatan dini adalah tanggung jawab pemerintah" overstates UU 24/2007 (Pasal 6 does not mention early warning; Pasal 46 does not assign responsibility).
 - resiliensi-dan-ketangguhan chapter 12 uses "Antifragile" without crediting Nassim Taleb.
 - geopolitik-dalam-sejarah-piala-dunia Referensi intro calls the list "literatur ilmiah"; it now includes Orwell's Tribune essay.
-- fungsi-manajemen-poac: the exact edition and page of Terry's definition are unconfirmed (Wikiquote gives the 6th ed., 1971, p. 4; Referensi lists 1956).
+- Done in this PR: the three items above (EWS chapters 3 and 4, Taleb, geopolitik intro and Terry edition).
+- Still open (LATER): sistem-peringatan-dini chapter 10 line 58 says "UNESCO menekankan bahwa sistem peringatan dini berpusat pada manusia" in a quote-style block; not checked.
+
+## Closeout status
+
+- 2026-10-25: readiness NEEDS-HUMAN (exit 3) before the PR; owner decision (Close plan gate): keep it open. Reopen after the PR is merged and the deploy, D1 seed and GSC reindex decisions are made.
