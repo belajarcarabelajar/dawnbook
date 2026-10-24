@@ -54,7 +54,7 @@ Dalam beberapa panel, terlihat aktivitas jual beli. Terdapat penggambaran timban
 Masyarakat Jawa Kuno adalah pecinta seni. Relief menunjukkan:
 
 - **Pemusik:** Memainkan instrumen seperti gendang (*mridangga*), seruling, kecapi, dan simbal.
-- **Penari:** Gerakan tari yang digambarkan sangat luwes, menunjukkan bahwa tari bukan sekadar ritual, tapi juga hiburan profesional.
+- **Penari:** Gerakan tari yang digambarkan luwes, menunjukkan bahwa tari bukan sekadar ritual, tapi juga hiburan profesional.
 - **Permainan:** Ada penggambaran orang yang sedang bermain dadu atau menyaksikan pertunjukan ketangkasan.
 
 ### Transportasi
@@ -84,6 +84,6 @@ Pengetahuan tentang kehidupan sosial dalam relief ini bukan sekadar informasi us
 | **Pohon** | Kalpataru (pohon kehidupan) yang penuh hiasan. | Simbol kemakmuran dan hubungan dengan alam. |
 | **Alat Dapur** | Periuk tanah liat, tempayan air. | Menunjukkan penggunaan teknologi gerabah yang luas. |
 
-> **Pesan Memorable:** "Melihat relief Karmawibhangga bukan sekadar belajar tentang agama, tapi tentang mengenali wajah nenek moyang kita sendiri, bagaimana mereka tertawa, bekerja, dan berpakaian dalam harmoni dengan alam Jawa yang subur."
+> **Pesan Memorable:** "Melihat relief Karmawibhangga bukan sekadar belajar tentang agama, tapi tentang mengenali wajah nenek moyang kita sendiri, bagaimana mereka tertawa, bekerja, dan berpakaian di tanah Jawa."
 
 *Coba amati gambar atau foto relief Karmawibhangga yang tersedia di museum atau buku teks. Dapatkah kamu menemukan perbedaan antara cara seorang pelayan dan seorang raja memegang sebuah benda?*

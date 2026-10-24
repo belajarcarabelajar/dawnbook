@@ -62,7 +62,7 @@ Bagi mata yang tidak terlatih, panel-panel ini mungkin terlihat serupa. Namun, a
 
 ## 5. Psikologi di Balik Visual
 
-Mengapa leluhur kita repot-repot memahat hal-hal yang mengerikan maupun yang sangat indah di dasar candi?
+Mengapa leluhur kita repot-repot memahat hal-hal yang mengerikan maupun yang indah di dasar candi?
 
 1. **Terapi Visual (Shock Therapy):** Melihat visualisasi neraka bertujuan untuk menciptakan *Samvega*, yaitu perasaan gentar yang sehat yang mendorong seseorang untuk segera berbuat baik.
 2. **Visualisasi Cita-cita:** Melihat visualisasi surga memberikan harapan dan target perilaku sosial yang ideal (kedermawanan, ketenangan).

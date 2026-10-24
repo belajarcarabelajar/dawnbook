@@ -86,4 +86,4 @@ Memahami filosofi di balik relief Karmawibhangga bukan sekadar studi sejarah, me
 
 ### Pebisnis Sukses yang Kasar kepada Karyawan
 
-Bayangkan seseorang yang sukses dalam bisnis tetapi sangat kasar kepada karyawannya. Secara finansial (buah karma masa lalu), dia berlimpah. Namun, dengan kekasarannya (niat buruk saat ini), dia sedang menanam benih "kesepian" atau "permusuhan" yang akan matang di masa depan. Relief Karmawibhangga mengajarkan kita untuk melihat melampaui apa yang tampak di permukaan saat ini.
+Bayangkan seseorang yang sukses dalam bisnis tetapi kasar kepada karyawannya. Secara finansial (buah karma masa lalu), dia berlimpah. Namun, dengan kekasarannya (niat buruk saat ini), dia sedang menanam benih "kesepian" atau "permusuhan" yang akan matang di masa depan. Relief Karmawibhangga mengajarkan kita untuk melihat melampaui apa yang tampak di permukaan saat ini.

@@ -54,7 +54,7 @@ Menghormati mereka yang patut dihormati, orang tua, guru, dan para bijak, adalah
 Relief Karmawibhangga seringkali menggunakan teknik **Komposisi Sinkronis**, di mana sebab dan akibat diletakkan dalam satu bingkai panel namun dipisahkan oleh elemen pembatas tipis (seperti pohon atau bangunan).
 
 1. **Sisi Kiri (Sebab):** Menampilkan aksi kebajikan. Misalnya, seorang bangsawan memberikan pakaian kepada rakyat jelata.
-2. **Sisi Kanan (Akibat):** Menampilkan hasil dari aksi tersebut. Seringkali digambarkan tokoh tersebut berada di lingkungan yang sangat indah (mirip taman surga) atau dikelilingi oleh harta benda (simbol *Kalpataru* atau pohon pengabul keinginan).
+2. **Sisi Kanan (Akibat):** Menampilkan hasil dari aksi tersebut. Seringkali digambarkan tokoh tersebut berada di lingkungan yang indah (mirip taman surga) atau dikelilingi oleh harta benda (simbol *Kalpataru* atau pohon pengabul keinginan).
 
 ## 4. Etika dalam Tindakan
 

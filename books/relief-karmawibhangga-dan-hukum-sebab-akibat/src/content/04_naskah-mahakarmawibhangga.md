@@ -58,7 +58,7 @@ Mengubah naskah filosofis menjadi gambar di batu bukanlah tugas mudah. Para pema
 Pemilihan Mahakarmawibhangga sebagai sumber utama di kaki Borobudur memiliki tujuan strategis:
 
 1. **Pendidikan Dasar**: Borobudur dirancang sebagai sarana ziarah edukatif. Hukum karma adalah fondasi dasar etika Buddhis bagi masyarakat awam sebelum mereka mempelajari tingkatan spiritual yang lebih tinggi di relief bagian atas.
-2. **Universalitas**: Cerita dalam naskah ini bersifat sangat membumi. Ia berbicara tentang kehidupan sehari-hari: cara makan, hubungan keluarga, cara berdagang, dan etika sosial.
+2. **Universalitas**: Cerita dalam naskah ini bersifat membumi. Ia berbicara tentang kehidupan sehari-hari: cara makan, hubungan keluarga, cara berdagang, dan etika sosial.
 3. **Standarisasi Ajaran**: Dengan merujuk pada teks Sanskerta yang diakui secara internasional (pada masa itu), Borobudur menegaskan posisinya sebagai pusat pembelajaran agama yang otentik.
 
 ## 6. Contoh Implementasi Naskah pada Relief

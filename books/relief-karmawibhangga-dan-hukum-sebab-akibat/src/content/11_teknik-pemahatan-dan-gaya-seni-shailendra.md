@@ -65,6 +65,6 @@ Pengetahuan tentang gaya seni Shailendra ini tidak hanya berhenti di buku sejara
 
 ### Kesimpulan Visual
 
-Secara keseluruhan, teknik pemahatan dan gaya seni Shailendra pada Karmawibhangga adalah kombinasi antara **keterampilan teknis yang mumpuni** dan **kedalaman spiritual**. Mereka tidak hanya memahat batu; mereka memahat sebuah ajaran agar tetap bisa dibaca oleh mata, dirasakan oleh hati, dan dikagumi oleh akal manusia, bahkan ribuan tahun setelah pahatan itu pertama kali dibuat.
+Secara keseluruhan, teknik pemahatan dan gaya seni Shailendra pada Karmawibhangga adalah kombinasi antara **keterampilan teknis yang mumpuni** dan **kedalaman spiritual**. Mereka tidak hanya memahat batu; mereka memahat sebuah ajaran agar bisa dibaca orang lebih dari seribu tahun setelah pahatan itu pertama kali dibuat.
 
-> **Pesan Utama:** Keindahan relief Borobudur terletak pada kemampuan para pemahatnya untuk membuat batu yang kaku menjadi tampak "hidup" melalui penguasaan proporsi anatomi dan ekspresi emosi yang sangat halus.
+> **Pesan Utama:** Keindahan relief Borobudur terletak pada kemampuan para pemahatnya untuk membuat batu yang kaku menjadi tampak "hidup" melalui penguasaan proporsi anatomi dan ekspresi emosi yang halus.

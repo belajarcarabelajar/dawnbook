@@ -37,7 +37,7 @@ Pencurian (*Adinnadana*) atau mengambil apa yang tidak diberikan juga mendapat p
 
 ## 3. Fitnah dan Kata-kata Kasar
 
-Tidak hanya tindakan fisik, Karmawibhangga juga menyoroti perilaku verbal. Ucapan yang memecah belah atau menyakitkan hati digambarkan memiliki dampak yang sangat pedih.
+Tidak hanya tindakan fisik, Karmawibhangga juga menyoroti perilaku verbal. Ucapan yang memecah belah atau menyakitkan hati digambarkan memiliki dampak yang pedih.
 
 - **Tindakan:** Panel menunjukkan dua orang yang sedang berbisik-bisik (memfitnah) atau seseorang yang berteriak dengan wajah penuh kemarahan kepada orang lain.
 - **Konsekuensi:** Di sisi kanan, mereka digambarkan terlahir dengan cacat fisik pada bagian mulut, atau berada di alam penderitaan di mana lidah mereka disiksa. Secara simbolis, ini melambangkan hilangnya kekuatan kata-kata mereka; tidak ada lagi yang percaya pada mereka.
@@ -62,7 +62,7 @@ Dalam Buddhisme, beratnya penderitaan ($P$) ditentukan oleh intensitas $N$ (apak
 
 ## Mengapa Relief ini "Disembunyikan"?
 
-Seperti yang kita tahu, 160 panel ini tertutup oleh struktur tambahan (selasar). Secara filosofis, beberapa ahli berpendapat bahwa penggambaran penderitaan yang sangat gamblang, seperti orang yang digergaji, direbus, atau disiksa hewan buas, dianggap terlalu "keras" untuk peziarah yang belum siap secara spiritual.
+Seperti yang kita tahu, 160 panel ini tertutup oleh struktur tambahan (selasar). Secara filosofis, beberapa ahli berpendapat bahwa penggambaran penderitaan yang gamblang, seperti orang yang digergaji, direbus, atau disiksa hewan buas, dianggap terlalu "keras" untuk peziarah yang belum siap secara spiritual.
 
 Namun, secara teknis, panel-panel ini berfungsi sebagai **fondasi moral**. Sebelum seseorang naik ke tingkat Borobudur yang lebih tinggi (alam pencerahan), mereka harus "tuntas" terlebih dahulu dengan urusan etika dasar di kaki candi.
 

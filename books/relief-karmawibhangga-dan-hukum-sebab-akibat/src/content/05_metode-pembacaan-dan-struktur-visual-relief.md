@@ -72,7 +72,7 @@ Para seniman Shailendra menggunakan teknik visual tertentu untuk menunjukkan sta
 
 ### 5. Storyboarding dan UX Design
 
-Prinsip pembagian panel Karmawibhangga sebenarnya masih sangat relevan dalam dunia profesional modern, terutama dalam bidang kreatif:
+Prinsip pembagian panel Karmawibhangga sebenarnya masih relevan dalam dunia profesional modern, terutama dalam bidang kreatif:
 
 1. **Storyboarding Film:** Bagaimana seorang sutradara menyusun urutan kejadian dalam satu *frame* untuk menunjukkan perkembangan karakter.
 2. **User Experience (UX) Design:** Desainer aplikasi menggunakan urutan visual (kiri ke kanan) untuk memandu pengguna dari "Aksi" (menekan tombol) ke "Hasil" (transaksi berhasil).
