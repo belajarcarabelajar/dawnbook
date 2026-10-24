@@ -2,7 +2,7 @@
 
 Di kasir, harga yang diberi coret besar sering menang daripada harga termurah, dan itu bukan kebodohan berhitung, melainkan cara otak manusia bekerja.
 
-Coba kenang momen seperti ini. Kamu berdiri di rak minuman, menimbang dua pilihan. Yang pertama bertuliskan harga biasa. Yang kedua harga sama persis, hanya saja di sampingnya ada stiker besar bertuliskan diskon, dengan harga lama yang dicoret tebal. Kamu tahu, secara aritmetika, keduanya sama. Tapi tangammu memilih yang kedua, dan di kepala muncul kalimat penebar rasa aman: "yang ini lebih untung." Kalau kamu pernah mengalami hal serupa, dan hampir semua orang pernah, kamu sudah menyaksikan langsung bahwa keputusan uang jarang dibuat oleh kalkulator yang dingin. Ia dibuat oleh manusia, dengan semua keterbatasannya.
+Coba kenang momen seperti ini. Kamu berdiri di rak minuman, menimbang dua pilihan. Yang pertama bertuliskan harga biasa. Yang kedua harga sama persis, hanya saja di sampingnya ada stiker besar bertuliskan diskon, dengan harga lama yang dicoret tebal. Kamu tahu, secara aritmetika, keduanya sama. Tapi tanganmu memilih yang kedua, dan di kepala muncul kalimat penebar rasa aman: "yang ini lebih untung." Kalau kamu pernah mengalami hal serupa, dan hampir semua orang pernah, kamu sudah menyaksikan langsung bahwa keputusan uang jarang dibuat oleh kalkulator yang dingin. Ia dibuat oleh manusia, dengan semua keterbatasannya.
 
 Buku ini ditulis untuk membedah pertanyaan yang sederhana bentuknya tapi dalam isi: kenapa kita, orang-orang yang pintar berhitung, bisa begitu tidak konsisten soal uang? Kenapa bonus dan gaji yang sama besarnya diperlakukan berbeda? Kenapa kerugian kecil terasa menyakitkan, sementara keuntungan setara hanya terasa biasa saja? Dan yang paling penting: apa yang bisa kita lakukan soal itu? Sebelum menjawab, kita perlu berangkat dari titik nol yang sering terlewat: manusia bukan mesin perhitungan, dan itu bukan cela, melainkan fakta desain.
 
@@ -16,7 +16,7 @@ Satu catatan penting supaya kamu tidak salah mengutip: istilah bounded rationali
 
 ### Cukup baik adalah strategi, bukan kekalahan
 
-Contoh favorit Simon datang dari papan catur. Mesin catur yang mencoba mempertimbangkan semua kemungkinan langkah akan mati tertawa sebelum giliran kedua: jumlah variasi permainan yang harus dihitung meledak melebihi kapasitas komputasi apa pun. Solusi pemain manusia, dan juga program catur yang ia bahas, adalah menyederhanakan: mengurangi variasi yang diperiksa di tiap posisi menjadi kurang dari seratus. Ia menyebut hasilnya penyederhanaan yang spektakuler terhadap masalah pilihan.
+Contoh favorit Simon datang dari papan catur. Mesin catur yang mencoba mempertimbangkan semua kemungkinan langkah akan kewalahan sebelum giliran kedua: jumlah variasi permainan yang harus dihitung meledak melebihi kapasitas komputasi apa pun. Solusi pemain manusia, dan juga program catur yang ia bahas, adalah menyederhanakan: mengurangi variasi yang diperiksa di tiap posisi menjadi kurang dari seratus. Ia menyebut hasilnya penyederhanaan yang spektakuler terhadap masalah pilihan.
 
 Dan pesannya untuk catur sekaligus untuk uang sangat manusiawi: pemain tidak perlu mencari langkah terbaik, ia hanya perlu langkah yang baik. Kamu tidak perlu menemukan alokasi gaji yang sempurna secara matematis; kamu perlu alokasi yang cukup baik, bisa dijalankan, dan tidak membuatmu kelelahan berpikir setiap tanggal satu. Masalahnya, cara berpikir hemat energi ini tidak berhenti di momen-momen besar. Ia dipakai untuk semua keputusan, termasuk keputusan uang yang sebenarnya mudah dihitung. Di sinilah jalan pintas berpikir, yang disebut heuristik, mulai memainkan perannya.
 
@@ -36,11 +36,8 @@ Untuk sekarang, cukup satu kesimpulan besar: keputusan finansialmu tidak dibuat 
 
 ## Poin Kunci
 
-- Manusia ekonomi yang rasional sempurna tidak pernah ada; Simon (1955) mengajak kita mengganti rasionalitas global dengan gambaran manusia yang punya akses informasi dan kapasitas berhitung terbatas.
-- Manusia menyederhanakan masalah pilihan agar muat di kapasitas berpikirnya, menilai hasil sebagai memuaskan atau tidak, dan berhenti di garis ambang (aspiration level); di catur, pemain hanya mencari langkah yang baik, bukan terbaik.
-- Istilah bounded rationality dan satisficing tidak muncul harfiah di paper 1955; yang muncul adalah idenya, jadi kutip idenya, bukan istilahnya, dari paper itu.
-- Tversky dan Kahneman (1974) menunjukkan orang memakai heuristik saat menghadapi ketidakpastian, dan kesalahannya berpola, bukan acak.
-- Eksperimen roda keberuntungan: angka acak 10 vs 65 menggeser median tebakan negara Afrika di PBB dari 25 menjadi 45, dan insentif akurasi tidak menghapusnya.
-- Karena kesalahan kita berpola, ia bisa dipetakan dan diantisipasi; itulah tugas sebelas bab berikutnya.
+- Manusia ekonomi yang rasional sempurna tidak pernah ada. Simon (1955) menggambarkan pembuat keputusan yang menyederhanakan masalah agar muat di kapasitas berpikirnya, lalu berhenti di hasil yang memuaskan, bukan yang terbaik.
+- Tversky dan Kahneman (1974) menunjukkan bahwa heuristik sering berguna tapi bisa menyimpang secara sistematis: angka acak dari roda keberuntungan menggeser median tebakan dari 25 menjadi 45.
+- Karena kesalahan kita berpola, bukan acak, ia bisa dipetakan dan diantisipasi.
 
-Kalkulator bukan kamu, tapi siapa sebenarnya yang mengambil keputusan di dalam kepalamu? Bab berikutnya memperkenalkan dua sistem berpikir yang bekerja seperti dua karyawan dengan jam kerja yang sangat berbeda: satu selalu siaga dan cepat, satu pintar tapi malas. Hampir semua kebiasaan finansialmu, baik dan buruknya, bisa dijelaskan dari tarik-menarik keduanya.
+Kalkulator bukan kamu. Lalu siapa sebenarnya yang mengambil keputusan di dalam kepalamu?

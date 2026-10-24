@@ -36,15 +36,10 @@ Bagian yang tidak nyaman: kelebihan percaya diri hampir tidak terasa dari dalam.
 
 Jawaban dari temuan Barber dan Odean memang membosankan, dan itu justru kekuatannya: kurangi frekuensi. Setiap keputusan dagang harus melewati senggang satu malam dan satu pertanyaan sederhana, "kalau saya tidak sudah memegang posisi ini, apakah saya akan membelinya hari ini dengan harga ini?" Kalau jawabannya ragu, biaya terbesar yang kamu hemat adalah biaya dari keputusan yang tidak perlu. Bagi kebanyakan orang yang bukan profesional, pasivitas yang disiplin ternyata strategi yang lebih jujur daripada aktivitas yang merasa pintar.
 
-Kelebihan percaya diri membuat kita terlalu yakin pada penilaian sendiri. Tapi ada penyakit yang berlawanan arah dan sama berbahayanya: terlalu percaya pada arah kerumunan. Bab berikutnya membahas kenapa kita ikut membeli saat semua orang membeli, kenapa gelembung terbentuk dari perilaku yang tampak waras satu per satu, dan kenapa arus itu bisa pecah secepat ia terbentuk.
-
 ## Poin Penting
 
-- Data 66.465 rumah tangga investor (1991-1996) menunjukkan kelompok paling aktif berdagang memperoleh pengembalian bersih tahunan 11,4 persen, sementara pasar 17,9 persen dan kelompok paling jarang berdagang 18,5 persen (Barber dan Odean, 2000).
-- Selisih itu dihitung sebagai net annualized geometric mean, artinya sudah termasuk potongan biaya transaksi; keputusan dagang yang tidak perlu membayar biaya tanpa menambah hasil.
-- Penjelasan yang konsisten dengan data adalah kelebihan percaya diri: keyakinan berlebih pada kemampuan memilih dan menentukan waktu membuat orang berdagang terlalu sering.
-- Pria berdagang 45 persen lebih banyak daripada wanita, dan perdagangan menggerus pengembalian bersih pria 2,65 poin persentase per tahun versus 1,72 poin untuk wanita (Barber dan Odean, 2001, data lebih dari 35.000 rumah tangga).
-- Pantau perilaku, bukan perasaan: frekuensi pindah posisi dan pola atribusi (untung karena kemampuan, rugi karena sial) adalah sinyal kelebihan percaya diri yang paling mudah diamati.
-- Senggang satu malam dan satu pertanyaan "apakah saya akan membeli ini hari ini" adalah filter paling murah untuk menghemat biaya keputusan yang tidak perlu.
+- Rumah tangga yang paling aktif berdagang memperoleh pengembalian bersih sekitar 11,4 persen setahun, jauh di bawah pasar yang menghasilkan 17,9 persen, dan angka itu sudah dipotong biaya transaksi (Barber dan Odean, 2000).
+- Penjelasan yang paling konsisten dengan data adalah kelebihan percaya diri, dan pria, yang berdagang 45 persen lebih banyak daripada wanita, kehilangan lebih banyak pengembalian bersih karenanya (Barber dan Odean, 2001).
+- Pantau perilaku, bukan perasaan, lalu beri setiap keputusan dagang senggang satu malam dan satu pertanyaan: apakah kamu akan membelinya hari ini dengan harga ini?
 
-Kepercayaan pada diri sendiri yang berlebihan bisa diukur dari rekeningmu. Tapi kepercayaan pada kerumunan bekerja diam-diam, karena ia bahkan tidak merasa perlu dianalisis: semua orang sudah membeli, lalu apa ragunya? Bab berikutnya masuk ke jantung FOMO, informational cascade, dan kenapa gelembung pasar terbentuk dari orang-orang yang secara pribadi justru ragu.
+Kepercayaan berlebih pada diri sendiri meninggalkan jejak di rekeningmu. Kepercayaan pada kerumunan bekerja lebih diam-diam, karena ia tidak merasa perlu dianalisis: semua orang sudah membeli, lalu apa ragunya?
