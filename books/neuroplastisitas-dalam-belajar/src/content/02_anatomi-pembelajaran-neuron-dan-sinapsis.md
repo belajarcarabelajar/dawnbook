@@ -70,7 +70,7 @@ Saat pertama kali memetik gitar, sinapsis di area motorik otak kamu masih "longg
 
 ## 6\. Visualisasi Sederhana Jalur Saraf
 
-Untuk membantu pemahaman visual, perhatikan alur informasi berikut:
+Untuk membantu pemahaman visual, ikuti alur informasi berikut:
 
 1. **Input:** Mata melihat rumus matematika $a^2 + b^2 = c^2$.
 2. **Respon Neuron:** Neuron di korteks visual menangkap pola tersebut.
