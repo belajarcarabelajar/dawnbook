@@ -32,17 +32,17 @@ Kenangan bekerja hampir ke arah sebaliknya. Liburan tidak bisa dipakai setiap ha
 
 Kamu adalah rangkuman dari pengalaman yang pernah kamu jalani. Pernah mendaki sampai puncak, pernah ikut lomba lari pertama, pernah menemani sahabat yang patah hati: semua menempel pada jawaban atas pertanyaan "siapa aku". Barang jarang punya kekuatan itu; orang jarang memperkenalkan diri sebagai pemilik mesin cuci dua tabung.
 
-Makanya pengalaman mudah masuk obrolan. Ceritanya lengkap: awal mulanya, kekacauannya, insiden di tengah jalan. Di reunian maupun meja warung kopi, yang diputar ulang hampir selalu pengalaman, bukan barang. Setiap kali diceritakan lagi, ia mengukir identitas lebih dalam.
+Karena itu pengalaman mudah masuk obrolan. Ceritanya lengkap: awal mulanya, kekacauannya, insiden di tengah jalan. Di reuni maupun meja warung kopi, yang diputar ulang hampir selalu pengalaman, bukan barang. Setiap kali diceritakan lagi, ia mengukir identitas lebih dalam.
 
 ### Pengalaman hidup bersama orang lain
 
-Perhatikan contoh di dua bagian tadi: hampir semuanya melibatkan orang lain. Konser bersama ribuan orang, makan malam bersama keluarga, kelas bersama teman baru. Pengalaman sering bersifat sosial, dan hubungan yang hangat adalah salah satu sumber kebahagiaan paling awet.
+Contoh di dua bagian tadi hampir semuanya melibatkan orang lain. Konser bersama ribuan orang, makan malam bersama keluarga, kelas bersama teman baru. Pengalaman sering bersifat sosial, dan hubungan yang hangat adalah salah satu sumber kebahagiaan paling awet.
 
 Pengalaman juga jarang diadu samping ke samping. Liburanmu tidak bisa ditaruh di samping liburan tetangga lalu dibandingkan spesifikasinya. Barang lain ceritanya: spesifikasi ponsel bisa diadu dalam hitungan detik, dan perbandingan seperti itulah yang di bab tentang tetangga dan status sudah kita bahas sebagai pemicu rasa kurang.
 
 > Membandingkan barang itu seperti membandingkan dua struk belanja: angkanya jelas, pemenangnya pasti, dan yang kalah merasa tersakiti. Membandingkan pengalaman itu seperti membandingkan dua lagu favorit: tidak ada yang menang, yang ada masing-masing mengingatkan pada momen yang berbeda.
 
-Menariknya, nilai pengalaman cenderung naik seiring waktu. Liburan yang dulu biasa saja bisa menjadi legenda keluarga sepuluh tahun kemudian, kebalikan dari barang yang makin lama makin murah di pasaran.
+Nilai pengalaman bahkan cenderung naik seiring waktu. Liburan yang dulu biasa saja bisa menjadi legenda keluarga sepuluh tahun kemudian, kebalikan dari barang yang makin lama makin murah di pasaran.
 
 ### Namun bukan berarti semua pengalaman otomatis baik
 
@@ -58,15 +58,12 @@ Jadi pertanyaan yang lebih berguna mungkin begini: pembelian ini menghubungkan a
 
 Pertama, pakai satu aturan sederhana saat ragu: pilih yang meninggalkan cerita. Kalau dua pilihan harganya mirip, tanyakan pada diri sendiri: mana yang setahun lagi masih bisa kamu ceritakan? Jawaban paling hidup biasanya menang, dan aturan sependek itu gampang dibawa dari tombol checkout sampai etalase mall.
 
-Kedua, mulai dari pengalaman murah yang dekat. Piknik di taman kota, mencoba resep baru bersama keluarga, jalan santai mengelilingi kampung sendiri, atau ngobrol panjang dengan sahabat di warung kaki lima. Yang dituntut bukan harga, tapi kehadiranmu di dalamnya.
+Kedua, mulai dari pengalaman murah yang dekat. Piknik di taman kota, mencoba resep baru bersama keluarga, jalan santai mengelilingi kampung sendiri, atau mengobrol panjang dengan sahabat di warung kaki lima. Yang dituntut bukan harga, tapi kehadiranmu di dalamnya.
 
 Ketiga, dan ini penting, jangan mengutuk diri karena barang yang sudah terlanjur dibeli. Mesin yang sama yang membuat barang cepat terasa biasa juga membuat penyesalan cepat memudar. Gadget yang dulu bikin sesal lama-lama hanya menjadi alat kerja biasa; yang bisa kamu ubah adalah pembelian berikutnya.
 
 ## Poin Penting
 
 - Studi Van Boven dan Gilovich (2003) di Journal of Personality and Social Psychology menunjukkan orang lebih bahagia dengan pembelian pengalaman daripada pembelian material, konsisten di tiga cara pengukuran: mengingat pembelian lampau, memprediksi pembelian mendatang, dan menilai pembelian orang lain.
-- Tiga alasan di baliknya: adaptasi memangsa barang lebih cepat sementara kenangan bisa diputar ulang; pengalaman menyatu dengan identitas dan cerita pribadi; pengalaman biasanya sosial, sulit diadu samping ke samping, dan nilainya justru tumbuh seiring waktu.
+- Tiga alasan di baliknya: adaptasi memangsa barang lebih cepat sementara kenangan bisa diputar ulang; pengalaman menyatu dengan identitas dan cerita pribadi; pengalaman sering bersifat sosial, sulit diadu samping ke samping, dan nilainya cenderung tumbuh seiring waktu.
 - Nuansanya: jenis pembelian bukan vonis. Yang menentukan adalah seberapa baik pembelian menyambung kebutuhan psikologis, yaitu hubungan, kompetensi, dan otonomi, seperti dua sepeda dengan nasib berbeda itu.
-- Antidot praktisnya: saat ragu pilih yang meninggalkan cerita, mulai dari pengalaman murah yang dekat, dan jangan mengutuk pembelian barang yang sudah terlanjur karena adaptasi juga ikut menyelamatkanmu.
-
-Ada satu benang merah dari semua contoh di bab ini: pengalaman yang paling membekas hampir selalu menyentuh orang lain dan butuh waktu longgar untuk dirasakan. Dua petunjuk itu bukan kebetulan, melainkan pintu masuk ke dua strategi berikutnya: uang yang dikeluarkan untuk kebaikan orang lain, dan uang yang dipakai membeli kembali waktu.

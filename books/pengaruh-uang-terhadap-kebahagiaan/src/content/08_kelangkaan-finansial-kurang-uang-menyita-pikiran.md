@@ -2,7 +2,7 @@
 
 Tanggal dua puluh lima. Kamu duduk di warung kopi bersama pasangan, tapi sebagian kepalamu tidak ikut di sana. Di meja ada dua cangkir dan satu piring kue yang kamu bagi dua. Di kepala ada kalkulator yang tidak bisa dimatikan: cicilan jatuh tempo tiga hari lagi, bensin harus cukup sampai akhir pekan, uang saku sekolah belum disisihkan, tagihan listrik entah sudah masuk atau belum. Pasanganmu bercerita, kamu mengangguk di tempat yang tepat, tapi secara teknis sedang berhitung. Bukan hitungan yang sulit, tapi hitungan yang melelahkan, dan dia jalan terus tanpa diminta.
 
-Kalau adegan ini terasa familiar, ada penjelasan ilmiah yang menenangkan sekaligus mengganggu: pikiran yang melayang itu bukan tanda kamu tidak peduli atau tidak syukur. Itu tanda kekurangan uang sedang menyita sebagian kapasitas otakmu, dan cara menyitanya sudah diukur dengan sangat rapi. Setelah bab-bab tentang uang yang bertambah, sekarang kita turun ke sisi sebaliknya: ketika uang terlalu sedikit.
+Kalau adegan ini terasa familiar, ada penjelasan ilmiah yang menenangkan sekaligus mengganggu: pikiran yang melayang itu bukan tanda kamu tidak peduli atau tidak bersyukur. Itu tanda kekurangan uang sedang menyita sebagian kapasitas otakmu, dan cara menyitanya sudah diukur dengan sangat rapi. Setelah bab-bab tentang uang yang bertambah, sekarang kita turun ke sisi sebaliknya: ketika uang terlalu sedikit.
 
 ### Eksperimen alami di ladang tebu
 
@@ -20,7 +20,7 @@ Kalau orang yang sama tampak lebih cerdas saat keuangan longgar dan lebih lambat
 
 ### Bandwidth yang terpaksa dibagi
 
-Peneliti menyebut kapasitas berpikir kita sebagai bandwidth, dan kapasitas ini terbatas. Setiap hal yang menangkap perhatian ikut memakainya. Kekurangan uang jago sekali menangkap perhatian karena sifatnya yang mendesak: tagihan punya tenggat, harga di kasir naik diam-diam, anak butuh sepatu sebelum upacara bendera. Kenyataan finansial tidak meminta izin untuk masuk pikiran: ia muncul saat kamu mencoba fokus bekerja, mendengarkan cerita anak, atau menyetir, dan setiap kali muncul sebagian bandwidth terpakai.
+Peneliti menyebut kapasitas berpikir kita sebagai bandwidth, dan kapasitas ini terbatas. Setiap hal yang menangkap perhatian ikut memakainya. Kekurangan uang sangat mudah menangkap perhatian karena sifatnya yang mendesak: tagihan punya tenggat, harga di kasir naik diam-diam, anak butuh sepatu sebelum upacara bendera. Kenyataan finansial tidak meminta izin untuk masuk pikiran: ia muncul saat kamu mencoba fokus bekerja, mendengarkan cerita anak, atau menyetir, dan setiap kali muncul sebagian bandwidth terpakai.
 
 Efek lanjutannya menjalar ke hal-hal yang kelihatan tak berkaitan dengan uang:
 
@@ -35,7 +35,7 @@ Inilah poin yang paling sering disalahpahami: ini bukan cerita tentang karakter.
 
 Mullainathan dan Shafir mengembangkan temuan ini dalam buku *Scarcity*. Satu konsepnya sangat membantu menjelaskan perilaku finansial yang dari luar sering dianggap tidak masuk akal: kelangkaan membuat pikiran masuk ke lorong sempit.
 
-Saat sesuatu yang dibutuhkan makin langka, perhatian otomatis menyempit ke hal yang paling mendesak hari ini. Ini adaptasi yang masuk akal: kalau besok sudah ada uang makan dan tanggal gelap di depan mata, menyibukkan diri dengan rencana pensiun memang bukan prioritas. Tapi lorong ini punya harga. Cakrawala menyusut, dan keputusan jangka panjang seperti menabung, memeriksa kesehatan, atau menyisihkan dana darurat mudah tertunda, bukan karena tidak tahu pentingnya, tapi karena semuanya berada di luar dinding lorong.
+Saat sesuatu yang dibutuhkan makin langka, perhatian otomatis menyempit ke hal yang paling mendesak hari ini. Ini adaptasi yang masuk akal: kalau besok belum ada uang makan dan tanggal tua di depan mata, menyibukkan diri dengan rencana pensiun memang bukan prioritas. Tapi lorong ini punya harga. Cakrawala menyusut, dan keputusan jangka panjang seperti menabung, memeriksa kesehatan, atau menyisihkan dana darurat mudah tertunda, bukan karena tidak tahu pentingnya, tapi karena semuanya berada di luar dinding lorong.
 
 > Ibaratnya orang yang berenang di arus deras. Dia tahu benar seharusnya menuju tepi yang jauh, tapi seluruh tenaganya habis hanya untuk menjaga kepala tetap di atas air hari ini.
 
@@ -43,7 +43,7 @@ Dari sini pola yang tampak kontradiktif menjadi masuk akal: orang yang paling bu
 
 ### Kenapa bab ini menentukan sisa buku
 
-Sambungkan dengan dua bab sebelumnya. Di bab 3 kita melihat uang dan kesejahteraan berjalan beriringan, dengan kenaikan paling tajam di lapisan berpendapatan rendah. Di bab 4 muncul kelompok minoritas yang bahagianya tidak ikut naik meski uang bertambah. Studi petani tebu memberi keduanya mekanisme yang konkret.
+Sambungkan dengan dua temuan sebelumnya. Di bab 3 kita melihat uang dan kesejahteraan berjalan beriringan, dengan kenaikan paling tajam di lapisan berpendapatan rendah. Di bab 4 muncul kelompok minoritas yang bahagianya tidak ikut naik meski uang bertambah. Studi petani tebu memberi keduanya mekanisme yang konkret.
 
 Menghapus kelangkaan memberi lompatan kesejahteraan terbesar karena yang dipulihkan bukan hanya barang yang bisa dibeli, tapi kapasitas berpikir yang selama ini disita. Bagi yang kekurangan, uang tambahan berarti satu lapisan kekhawatiran berhenti mengintip dan bandwidth mulai kembali utuh.
 
@@ -53,20 +53,17 @@ Kalau ada satu sikap yang pantas dipinjam dari studi ini, itu empati. Sangat mud
 
 ### Meringankan beban, bukan menambah nasihat
 
-Jika kamu sendiri yang sedang di lorong itu, nasihat klasik seperti "yakinlah dan rajin menabung" sering hanya menambah beban. Yang lebih membantu adalah mengurangi jumlah keputusan finansial yang harus diambil dengan kepala yang sudah penuh:
+Jika kamu sendiri yang sedang di lorong itu, nasihat klasik seperti "bersabarlah dan rajin menabung" sering hanya menambah beban. Yang lebih membantu adalah mengurangi jumlah keputusan finansial yang harus diambil dengan kepala yang sudah penuh:
 
 - **Otomatisasi keputusan kecil.** Tagihan dan transfer rutin dijadwalkan otomatis sehingga tidak perlu diputuskan ulang setiap bulan.
 - **Sederhanakan struktur.** Lebih sedikit akun, tempat menyimpan uang, dan langganan yang harus dipantau. Setiap kesederhanaan mengembalikan sedikit bandwidth.
-- **Kelompokkan jatuh tempo.** Kalkulator di kepala tidak perlu jalan setiap hari kalau semua tagihan dikerumuni di satu-dua tanggal yang sama.
+- **Kelompokkan jatuh tempo.** Kalkulator di kepala tidak perlu jalan setiap hari kalau semua tagihan dikumpulkan di satu-dua tanggal yang sama.
 - **Bangun bantalan sekecil apa pun.** Dana darurat nominal kecil bukan soal angkanya, tapi soal menurunkan intensitas alarm yang berbunyi di kepala.
 
 Langkah-langkah ini tidak menyelesaikan persoalan struktural yang lebih besar, dan memang bukan itu tugasnya. Tugasnya memberi kepalamu sedikit ruang, karena keputusan yang diambil di ruang yang lebih longgar biasanya lebih baik.
 
 ## Recap
 
-- Studi Mani, Mullainathan, Shafir, dan Zhao (2013) di jurnal Science menunjukkan petani tebu India berperforma jauh lebih rendah pada tes kognitif sebelum panen dibanding setelahnya. Orang yang sama, tes yang sama.
-- Efeknya setara dengan kehilangan satu malam tidur penuh, atau penurunan poin IQ yang berarti, dan itu terjadi meski kebutuhan makan tetap terpenuhi.
+- Studi Mani, Mullainathan, Shafir, dan Zhao (2013) di jurnal Science menunjukkan petani tebu India berperforma jauh lebih rendah pada tes kognitif sebelum panen dibanding setelahnya, dengan efek kira-kira setara kehilangan satu malam tidur penuh, meski kebutuhan makan terpenuhi.
 - Kekurangan uang menangkap perhatian dan memakan bandwidth mental: keputusan, kesabaran, fokus kerja, dan pengasuhan ikut menyusut. Ini pajak kognitif dari kekurangan, bukan soal karakter.
 - Scarcity mindset mempersempit cakrawala dan mendorong fokus jangka pendek, sehingga keputusan jangka panjang mudah tertunda; lingkaran itu bisa berputar sendiri.
-- Inilah alasan efek uang paling kuat di lapisan berpendapatan rendah, dan tekanan finansial kronis bisa menjadi jalur menuju kelompok yang tidak tertolong uang tambahan kecil.
-- Karena itu, pembahasan soal belanja harus dimulai dari empati, bukan nasihat. Di bab berikutnya kita masuk ke satu bentuk pengeluaran yang justru terbukti banyak memberi: membeli pengalaman.
