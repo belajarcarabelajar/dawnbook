@@ -20,6 +20,8 @@ Bab ini merangkum **_referensi sistem peringatan dini_** yang kamu butuhkan untu
 
 - United Nations Office for Disaster Risk Reduction, World Meteorological Organization, International Telecommunication Union, & International Federation of Red Cross and Red Crescent Societies. (2022). *Early warnings for all: Executive action plan 2023-2027*. WMO/UNDRR. [Early Warnings for All: Executive Action Plan 2023-2027](https://www.preventionweb.net/publication/early-warnings-all-executive-action-plan-2023-2027)
 
+- United Nations International Strategy for Disaster Reduction. (2006). *Developing early warning systems: A key checklist* (Working draft, Third International Conference on Early Warning, Bonn, 27-29 Maret 2006). UN/ISDR. [Developing Early Warning Systems: A Key Checklist](https://www.unisdr.org/2006/ppew/info-resources/ewc3/Checklist-english.pdf)
+
 - World Meteorological Organization. (2018). *Multi-hazard early warning systems: A checklist*. WMO. [Multi-Hazard Early Warning Systems Checklist](https://library.wmo.int/records/item/55800-multi-hazard-early-warning-systems-a-checklist)
 
 - United Nations Office for Disaster Risk Reduction & World Meteorological Organization. (2023). *Global status of multi-hazard early warning systems 2023*. UNDRR/WMO. [Global Status of Multi-Hazard Early Warning Systems 2023](https://www.undrr.org/reports/global-status-MHEWS-2023)

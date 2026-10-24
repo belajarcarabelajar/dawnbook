@@ -10,7 +10,11 @@ Sistem hukum kebencanaan Indonesia dibangun berlapis untuk memastikan tidak ada 
 
 **Undang-Undang Nomor 24 Tahun 2007 tentang Penanggulangan Bencana** menjadi undang-undang payung. Pasal 6 dan 46 menegaskan bahwa pencegahan termasuk peringatan dini adalah tanggung jawab pemerintah pusat dan daerah.
 
-> "Penyelenggaraan penanggulangan bencana meliputi tahap prabencana, saat tanggap darurat, dan pascabencana. Pencegahan dan kesiapsiagaan pada tahap prabencana wajib mengintegrasikan sistem peringatan dini."
+Pasal 33 undang-undang yang sama membagi penyelenggaraannya ke dalam tiga tahap:
+
+> "Penyelenggaraan penanggulangan bencana terdiri atas 3 (tiga) tahap meliputi: a. prabencana; b. saat tanggap darurat; dan c. pascabencana."
+
+Peringatan dini berada di tahap prabencana. Pasal 44 menyebutnya bersama kesiapsiagaan dan mitigasi sebagai kegiatan dalam situasi ketika terdapat potensi bencana.
 
 **Undang-Undang Nomor 31 Tahun 2009 tentang Meteorologi, Klimatologi, dan Geofisika** memberi mandat eksklusif kepada Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) untuk observasi, pengolahan, dan diseminasi informasi meteorologi, klimatologi, dan geofisika, termasuk peringatan dini cuaca ekstrem, gempa bumi, dan tsunami.
 

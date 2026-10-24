@@ -1,9 +1,9 @@
 ## Empat Pilar Utama Early Warning System
 
-Memahami **empat pilar early warning system** membantu kamu melihat mengapa sistem peringatan dini tidak bisa direduksi menjadi sensor dan sirene saja. Banyak kegagalan EWS bukan karena teknologi tidak ada, tapi karena satu pilar dibiarkan lemah sementara pilar lain diperkuat berlebihan. UNESCO melalui kerangka *people-centred EWS* menegaskan bahwa EWS efektif harus ditopang empat pilar yang saling terkait dan tidak terpisahkan.
+Memahami **empat pilar early warning system** membantu kamu melihat mengapa sistem peringatan dini tidak bisa direduksi menjadi sensor dan sirene saja. Banyak kegagalan EWS bukan karena teknologi tidak ada, tapi karena satu pilar dibiarkan lemah sementara pilar lain diperkuat berlebihan. Daftar periksa yang disiapkan sekretariat Konferensi Internasional Ketiga tentang Peringatan Dini (EWC III, Bonn, 2006) bersama UN/ISDR menyusun EWS *people-centred* di atas empat elemen: pengetahuan risiko, layanan pemantauan dan peringatan, komunikasi dan diseminasi peringatan, serta kemampuan respons masyarakat.
 
-> Sistem peringatan dini yang berpusat pada manusia terdiri dari empat elemen yang saling berhubungan: pengetahuan risiko bencana, pemantauan dan layanan peringatan, diseminasi dan komunikasi, serta kemampuan respons. Kegagalan pada satu elemen dapat menyebabkan kegagalan seluruh sistem.
-> - UNESCO, *Early Warning Systems: A Checklist*
+> Sistem peringatan dini yang lengkap dan efektif terdiri atas empat elemen yang saling terkait, mulai dari pengetahuan tentang bahaya dan kerentanan hingga kesiapsiagaan dan kapasitas untuk merespons. Kelemahan atau kegagalan pada satu bagian dapat mengakibatkan kegagalan seluruh sistem.
+> - UN/ISDR, *Developing Early Warning Systems: A Key Checklist* (EWC III, 2006)
 
 Empat pilar bekerja sebagai rantai. Kekuatan sistem ditentukan pilar terlemah:
 
