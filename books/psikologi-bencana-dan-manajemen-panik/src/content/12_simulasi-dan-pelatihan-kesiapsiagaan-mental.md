@@ -63,7 +63,7 @@ flowchart TD
 
 ### 3. Dinamika Neuroplastisitas dan Otomatisasi Respons
 
-Ketika suatu tindakan protektif dipraktikkan secara konsisten dalam kondisi yang menyerupai realitas, koneksi sinaptik antar-neuron yang terlibat dalam respons tersebut mengalami penguatan struktural (*Long-Term Potentiation*). Gagasan ini berakar pada prinsip yang dirumuskan Donald Hebb (1949), yang kemudian diringkas Carla Shatz (1992) menjadi *cells that fire together wire together*.
+Ketika suatu tindakan protektif dipraktikkan secara konsisten dalam kondisi yang menyerupai realitas, koneksi sinaptik antar-neuron yang terlibat dalam respons tersebut mengalami penguatan struktural (*Long-Term Potentiation*). Gagasan ini berakar pada prinsip yang dirumuskan Donald Hebb (1949), yang kemudian diringkas Carla Shatz (1992) menjadi *cells that fire together, wire together*.
 
 Secara konseptual, efektivitas respons tindakan krisis dapat dimodelkan melalui hubungan berikut:
 
