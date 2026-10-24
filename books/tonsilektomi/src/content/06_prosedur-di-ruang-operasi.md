@@ -62,7 +62,7 @@ Mari kita lihat contoh nyata bagaimana tim bekerja secara sinkron:
 - **Menit ke-25:** Kedua tonsil telah diangkat. Dokter Bedah memeriksa area "bed" (bekas tempat tonsil) dan tidak menemukan rembesan darah.
 - **Menit ke-30:** Pasien mulai menggerakkan jari tangan, tanda mulai terbangun. Ia kemudian dipindahkan ke ruang pemulihan dalam kondisi stabil.
 
-## Ringkasan Langkah Operasi
+## Durasi Tiap Tahapan Operasi
 
 | Tahapan | Apa yang Terjadi? | Durasi Perkiraan |
 | --- | --- | --- |

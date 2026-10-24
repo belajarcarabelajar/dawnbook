@@ -4,7 +4,7 @@ Setelah menjalani tonsillectomy, tenggorokan kamu akan terasa sangat sensitive. 
 
 Berikut adalah panduan lengkap mengenai nutrition dan diet yang harus kamu ikuti selama masa pemulihan.
 
-## Mengapa Nutrition Sangat Penting Post-Surgery?
+## Mengapa Nutrisi Penting Setelah Operasi?
 
 Setelah tonsil diangkat, area tersebut akan membentuk keropeng (scab) putih yang sensitive. Diet yang tepat berfungsi untuk:
 

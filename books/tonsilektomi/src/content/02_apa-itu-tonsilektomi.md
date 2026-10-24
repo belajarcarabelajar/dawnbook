@@ -4,7 +4,7 @@ Pernahkah kamu membayangkan prosedur medis yang sudah ribuan tahun dilakukan man
 
 Secara harfiah, Tonsilektomi berasal dari dua kata: *"Tonsil"* (amandel) dan *"Ektomi"* (pembuangan/pengangkatan). Dalam dunia medis, ini adalah prosedur pembedahan untuk mengangkat sepasang jaringan limfoid yang terletak di belakang tenggorokanmu.
 
-## Definisi dan Esensi Tonsilektomi
+## Definisi Tonsilektomi
 
 Tonsilektomi adalah operasi pengangkatan **tonsil palatina** secara keseluruhan. Meskipun sering dianggap sebagai "operasi anak-anak", prosedur ini juga dilakukan pada orang dewasa dengan indikasi medis tertentu.
 

@@ -64,7 +64,7 @@ Meskipun demikian, metode ini menuntut biaya investasi alat yang tinggi dan prot
 | **Coblation** | Radiofrekuensi | Rendah ($40^{\circ}\text{C}$ sampai $70^{\circ}\text{C}$) | Rendah | Rendah |
 | **Harmonic** | Ultrasonik | Sedang ($50^{\circ}\text{C}$ sampai $100^{\circ}\text{C}$) | Rendah | Sedang |
 
-## Aplikasi Dunia Nyata & Skenario
+## Memilih Teknik Sesuai Kondisi Pasien
 
 Penerapan teknologi ini disesuaikan dengan profil klinis masing-masing pasien. Sebagai contoh, pada kasus anak-anak dengan keluhan *sleep apnea* akibat pembesaran amandel, dokter umumnya menyukai teknik *microdebrider* atau *coblation*. Tujuannya adalah mengecilkan ukuran amandel secara cepat dengan trauma minimal, sehingga anak segera mau makan dan minum pascatindakan untuk menghindari risiko dehidrasi.
 

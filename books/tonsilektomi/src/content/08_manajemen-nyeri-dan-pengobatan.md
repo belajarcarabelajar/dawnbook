@@ -65,7 +65,7 @@ Sebagai gambaran praktis, mari kita lihat bagaimana Budi, seorang pasien dewasa,
   $$
   </div>
 
-### Tips untuk Kenyamanan Maksimal
+### Tips Lain agar Lebih Nyaman
 
 - Gunakan aplikasi pesan di ponsel atau papan tulis kecil selama beberapa hari pertama agar otot-otot tenggorokanmu bisa beristirahat penuh tanpa dipaksa berbicara.
 - Bila diizinkan oleh dokter, mengunyah permen karet bebas gula bisa membantu merangsang air liur sekaligus melatih kelenturan rahang agar tidak kaku (trismus).

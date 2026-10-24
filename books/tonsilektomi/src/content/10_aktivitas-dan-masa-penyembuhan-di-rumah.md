@@ -4,7 +4,7 @@ Selamat! Kamu atau buah hatimu telah melewati tahap operasi. Namun, perlu diinga
 
 Anggaplah luka bekas operasi amandel ini seperti **semen basah pada trotoar yang baru diperbaiki**. Jika kamu menginjaknya terlalu cepat atau memberikan tekanan sebelum kering, hasilnya akan rusak. Begitu pula dengan tenggorokanmu, bagian ini membutuhkan waktu tanpa gangguan untuk benar-benar pulih.
 
-## Peta Jalan Pemulihan 14 Hari
+## Tahapan Pemulihan 14 Hari
 
 Masa pemulihan setelah operasi amandel umumnya berlangsung selama 10 hingga 14 hari. Kondisi yang dirasakan bisa berbeda-beda setiap harinya:
 

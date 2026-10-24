@@ -2,7 +2,7 @@
 
 Setelah bedah tonsilektomi selesai, proses pemulihanmu atau anakmu baru saja dimulai. Tahap awal setelah keluar dari meja operasi berlangsung di **PACU (Post-Anesthesia Care Unit)** atau Ruang Pemulihan. Di unit ini, tim medis mendampingi transisi dari kondisi tidak sadar akibat bius menuju kondisi stabil secara aman.
 
-## Apa itu PACU? (Analogi "Terminal Transit")
+## Apa itu PACU?
 
 Bayangkan operasi seperti penerbangan jarak jauh. Kamu baru saja mendarat, tetapi belum benar-benar sampai di rumah. Ruang PACU berfungsi layaknya terminal transit di bandara.
 
