@@ -1,8 +1,8 @@
 ## Friction sebagai Alat, Bukan Musuh
 
-Kenapa kita rela berjuang keras menambah daya tahan mental, tapi segan sekali berpindah tempat charger? Kamu mungkin pernah mengulang mantra tekad di depan cermin atau memasang alarm berlapis, sementara ponsel yang membuatmu begadang masih tergeletak di samping bantal, siap dijangkau tanpa mengangkat kepala. Solusinya cuma satu gerakan kecil: pindahkan charger ke seberang kamar. Tapi langkah sesederhana itu terasa seperti kecurangan, sedangkan perjuangan batin yang menyiksa terasa seperti jalan yang benar.
+Kenapa kita rela berjuang keras menambah daya tahan mental, tapi segan sekali melakukan hal sepele seperti memindahkan tempat charger ponsel? Kamu mungkin pernah mengulang mantra tekad di depan cermin atau memasang alarm berlapis, sementara ponsel yang membuatmu begadang masih tergeletak di samping bantal, siap dijangkau tanpa mengangkat kepala. Solusinya cuma satu gerakan kecil: pindahkan charger ke seberang kamar. Tapi langkah sesederhana itu terasa seperti kecurangan, sedangkan perjuangan batin yang menyiksa terasa seperti jalan yang benar.
 
-Anggapan itu perlu dibalik. Dalam ilmu kebiasaan, kesulitan bukan sekadar rintangan yang harus ditaklukkan dengan kekuatan kehendak. Kesulitan, atau friction, adalah variabel desain yang bisa kamu atur naik dan turun. Bab-bab sebelumnya sudah menunjukkan bahwa konteks memancing perilaku dan momen mulai membuka pintu perubahan. Bab ini melengkapinya: begitu kamu mengatur seberapa susah sebuah tindakan, kamu memegang pengungkit tersembunyi yang bekerja bahkan saat motivasimu kosong.
+Anggapan itu perlu dibalik. Dalam ilmu kebiasaan, kesulitan bukan sekadar rintangan yang harus ditaklukkan dengan kekuatan kehendak. Kesulitan, atau friction, adalah variabel desain yang bisa kamu atur naik dan turun. Konteks memancing perilaku dan momen mulai membuka pintu perubahan; friction melengkapinya: begitu kamu mengatur seberapa susah sebuah tindakan, kamu memegang pengungkit tersembunyi yang bekerja bahkan saat motivasimu kosong.
 
 ### Mengapa langkah kecil menentukan pemenang
 
@@ -14,13 +14,13 @@ Di sinilah friction bekerja. Karena jalur impulsif nyaris tanpa biaya, penambaha
 
 ### Empat hukum untuk membangun, empat inversi untuk melucuti
 
-Kerangka paling praktis untuk memakai friction secara sengaja datang dari James Clear dalam Atomic Habits (2018). Ia merangkum pembentukan kebiasaan baik menjadi empat hukum: make it obvious (buat jelas), make it attractive (buat menarik), make it easy (buat mudah), dan make it satisfying (buat memuaskan). Menariknya, hukum yang sama bisa dibalik untuk melucuti kebiasaan buruk: make it invisible, make it unattractive, make it difficult, dan make it unsatisfying. Satu kerangka, dua mata uang.
+Kerangka paling praktis untuk memakai friction secara sengaja datang dari James Clear dalam Atomic Habits (2018). Ia merangkum pembentukan kebiasaan baik menjadi empat hukum: make it obvious (buat jelas), make it attractive (buat menarik), make it easy (buat mudah), dan make it satisfying (buat memuaskan). Hukum yang sama juga bisa dibalik untuk melucuti kebiasaan buruk: make it invisible, make it unattractive, make it difficult, dan make it unsatisfying. Satu kerangka, dua mata uang.
 
 Untuk melucuti kebiasaan buruk, inversi yang paling ampuh biasanya dibuat invisible, menyembunyikan pemicunya. Karena bab 7 sudah menunjukkan bahwa cue adalah penyulut mesin kebiasaan, jalan paling hemat tenaga adalah memastikan mesin itu tidak pernah menyala: ponsel ditaruh di ruangan lain saat bekerja, camilan tidak masuk daftar belanja. Kamu tidak sedang melawan kebiasaan, kamu mencegahnya dipanggil.
 
 Inversi kedua adalah make it difficult, menambah langkah. Ini versi aktif dari cerita charger tadi: log out dari akun yang biasa menghabiskan waktumu, simpan kata sandinya di aplikasi terpisah, atau taruh alat kebiasaan buruk di tempat yang butuh usaha ekstra. Setiap langkah tambahan menaikkan biaya jalur impulsif, dan karena impuls tak mau membayar pajak, ia menyerah lebih dulu. Sisi cerminnya justru resep kebiasaan baik: kalau menyusahkan itu efektif melucuti kebiasaan buruk, maka mempermudah adalah inti hukum make it easy.
 
-Dua inversi sisanya melengkapi paketnya. Make it unattractive berarti mengubah cara kamu membingkai kebiasaan buruk sehingga daya tariknya turun, misalnya dengan menuliskan jujur biaya tersembunyi yang selama ini kamu hindari dipikirkan. Make it unsatisfying bekerja di sisi akibat, memastikan kebiasaan buruk tidak lagi berakhir tanpa konsekuensi yang terasa, misalnya lewat komitmen yang terlihat orang lain. Inversi terakhir ini paling sulit dijalankan sendirian, dan penggantinya yang lebih elegan, yaitu mengganti rutinitas, menunggu di bab berikutnya.
+Dua inversi sisanya melengkapi paketnya. Make it unattractive berarti mengubah cara kamu membingkai kebiasaan buruk sehingga daya tariknya turun, misalnya dengan menuliskan secara jujur biaya tersembunyi yang selama ini kamu hindari untuk dipikirkan. Make it unsatisfying bekerja di sisi akibat, memastikan kebiasaan buruk tidak lagi berakhir tanpa konsekuensi yang terasa, misalnya lewat komitmen yang terlihat orang lain. Inversi terakhir ini paling sulit dijalankan sendirian, dan penggantinya yang lebih elegan adalah mengganti rutinitas.
 
 ### Kalimat kecil yang mengikat pemicu ke respons
 
@@ -40,11 +40,6 @@ Bandingkan dua versi. Versi lemah: "Jika saya merasa bosan, maka saya akan kuran
 
 ## Recap
 
-- Jalur impulsif itu murah dan cepat (Gardner, 2015), sehingga menambah atau memangkas beberapa langkah kecil saja cukup mengubah pemenangnya antara kebiasaan dan niat.
-- Kerangka Clear (2018) memakai empat hukum untuk membentuk kebiasaan baik, dan inversinya untuk melucuti kebiasaan buruk: make it invisible dengan menyembunyikan cue, make it difficult dengan menambah langkah, plus make it unattractive dan make it unsatisfying.
-- Implementation intention berbunyi "Jika situasi Y muncul, maka saya akan melakukan X", dan meta-analisis Gollwitzer dan Sheeran (2006) dari banyak tes independen menunjukkan dampaknya medium-besar pada pencapaian tujuan.
-- Kekuatannya dari mekanisme, bukan sihir: rencana menautkan cue tertentu ke respons tertentu, sehingga peluang mudah tertangkap dan aksinya hampir otomatis, tanpa bergantung pada niat abstrak.
-- Rencana yang baik menuntut konteks yang nyata, aksi yang terdefinisi, serta respons kompetitif yang singkat, bukan janji aspirasi.
-- Friction bukan musuh yang dilawan, melainkan alat yang diatur: kamu memilih perilaku mana yang dibuat mudah dan mana yang dibuat susah.
-
-Implementation intention yang kamu kuasai di bab ini adalah kendaraan utamanya, dan bab berikutnya tinggal menentukan arah lajunya. Karena kebiasaan lama tak bisa dihapus dari otak, satu-satunya jalan adalah mengganti, bukan menghapus, dan di sanalah golden rule of habit change serta habit reversal masuk panggung.
+- Jalur impulsif itu murah dan cepat (Gardner, 2015), sehingga menambah atau memangkas beberapa langkah kecil saja cukup mengubah pemenangnya antara kebiasaan dan niat: friction adalah alat yang diatur, bukan musuh yang dilawan.
+- Empat hukum Clear (2018) membentuk kebiasaan baik, dan inversinya, seperti menyembunyikan cue atau menambah langkah, melucuti kebiasaan buruk.
+- Implementation intention berbunyi "Jika situasi Y muncul, maka saya akan melakukan X" dan berdampak medium-besar pada pencapaian tujuan dalam meta-analisis Gollwitzer dan Sheeran (2006); rencana yang baik menuntut konteks yang nyata, aksi yang terdefinisi, dan respons kompetitif yang singkat.

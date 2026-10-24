@@ -1,6 +1,6 @@
 ## Momen Mulai dan Efek Fresh Start
 
-Coba perhatikan satu pemandangan yang hampir semua orang kenal. Setiap awal Januari, pusat kebugaran di mana-mana tiba-tiba penuh. Alat lari antre, kelas senam padat, kasur yoga tak kebagian. Para pelatih bercanda bahwa member baru datang serombongan dan orang lama harus rela menunggu. Lalu tanpa diumumkan siapa-siapa, bulan Maret datang, dan ruangannya kembali lega seperti biasa. Fenomena ini begitu umum sampai menjadi bahan lelucon tahunan, meski tidak ada yang pernah merancangnya.
+Setiap awal Januari, pusat kebugaran di mana-mana tiba-tiba penuh, sebuah pemandangan yang hampir semua orang kenal. Alat lari antre, kelas senam padat, kasur yoga tak kebagian. Para pelatih bercanda bahwa member baru datang serombongan dan orang lama harus rela menunggu. Lalu tanpa diumumkan siapa-siapa, bulan Maret datang, dan ruangannya kembali lega seperti biasa. Fenomena ini begitu umum sampai menjadi bahan lelucon tahunan, meski tidak ada yang pernah merancangnya.
 
 Pola yang sama muncul di tempat lain. Buku harian baru diisi rajin di hari-hari pertama Januari, lalu tergeletak tak tersentuh di Februari. Jadwal makan sehat dimulai dengan semangat di hari Senin, dan Minggu malam berikutnya sudah goyah. Ada sesuatu pada tanggal-tanggal tertentu yang membuat kita merasa bisa memulai, dan ada pula sesuatu yang membuat semangat itu menguap begitu cepat. Pertanyaannya ganda: kenapa kalender punya kekuatan sebesar itu, dan bisakah kita memakainya dengan cerdas, bukan sekadar menjadi korban siklusnya tahun demi tahun?
 
@@ -10,7 +10,7 @@ Fenomena yang tadi kamu bayangkan ternyata punya nama ilmiah. Hengchen Dai, Kath
 
 Mekanismenya menarik. Landmark waktu bekerja seperti garis pemisah yang digores melintang di atas kalender. Segala kegagalan, tunda-tundaan, dan niat yang gugur terasa milik "masa lalu", bagian dari diri lama yang sudah tertutup lembarannya. Karena masa lampau terasa terpisah dari diri sekarang, percobaan baru terasa lebih bersih, tidak lagi menyeret beban kegagalan yang sama. Perasaan ini bukan sekadar hiasan pikiran; ia terbukti mengangkat motivasi orang untuk mengejar target yang selama ini tertunda.
 
-> Ibaratnya kamu pindah kamar dan mendapat lemari baru. Baju lama yang sembrono kau lipat rapi karena lemari yang kosong menuntut awal yang tertib. Kamunya masih sama, tetangganya masih sama, tetapi garis pemisah itu membuat kamu merasa layak memulai dari nol. Tanggal 1 Januari melakukan hal yang sama pada kalender hidupmu.
+> Ibaratnya kamu pindah kamar dan mendapat lemari baru. Baju lama yang sembrono kamu lipat rapi karena lemari yang kosong menuntut awal yang tertib. Kamu masih sama, tetangganya masih sama, tetapi garis pemisah itu membuat kamu merasa layak memulai dari nol. Tanggal 1 Januari melakukan hal yang sama pada kalender hidupmu.
 
 ### Dua mekanisme yang saling menguatkan
 
@@ -30,16 +30,14 @@ Aturan ketiga: manfaatkan fase awal saat kemajuan paling terasa. Ingat kurva asi
 
 ### Efek yang musiman, sistem yang permanen
 
-Sekarang peringatannya, dan ini penting. Perhatikan lagi pusat kebugaran di Januari: penuh. Maret: kosong. Fresh start effect itu musiman, ia datang saat landmark tiba dan memudar setelahnya. Ia pembuka pintu, bukan mesin penggerak jarak jauh. Orang yang mengandalkan efek ini saja terjebak dalam siklus yang kamu kenal: semangat besar tiap tahun baru, runtuh beberapa minggu kemudian, lalu menunggu landmark berikutnya untuk semangat besar lagi. Memulai terus-menerus bukan hal yang sama dengan melanjutkan, dan perubahan yang selalu kembali ke awal tidak pernah menumpuk.
+Sekarang peringatannya, dan ini penting. Ingat lagi pusat kebugaran di Januari: penuh. Maret: kosong. Fresh start effect itu musiman, ia datang saat landmark tiba dan memudar setelahnya. Ia pembuka pintu, bukan mesin penggerak jarak jauh. Orang yang mengandalkan efek ini saja terjebak dalam siklus yang kamu kenal: semangat besar tiap tahun baru, runtuh beberapa minggu kemudian, lalu menunggu landmark berikutnya untuk semangat besar lagi. Memulai terus-menerus bukan hal yang sama dengan melanjutkan, dan perubahan yang selalu kembali ke awal tidak pernah menumpuk.
 
-Jadi posisikan momen mulai pada tempatnya yang benar. Ia adalah saat terbaik untuk meluncurkan perubahan, bukan alat untuk menopangnya. Yang menopang adalah sistem: desain konteks, pengelolaan gesekan, cara mengganti kebiasaan lama, dan identitas yang memindik. Salah satu komponen sistem itu, dan mungkin yang paling kecil penyabarnya, membahas kenapa justru susahnya sebuah perilaku bisa jadi senjata untukmu, bukan musuhmu. Itulah bahasan bab berikutnya.
+Jadi posisikan momen mulai pada tempatnya yang benar. Ia adalah saat terbaik untuk meluncurkan perubahan, bukan alat untuk menopangnya. Yang menopang adalah sistem: desain konteks, pengelolaan gesekan, cara mengganti kebiasaan lama, dan identitas.
 
 ## Kesimpulan Bab
 
-- **Fresh start effect** (Dai, Milkman dan Riis, 2014): landmark waktu seperti tahun baru, Senin, tanggal 1, dan ulang tahun meningkatkan motivasi untuk perilaku aspiratif.
-- Mekanismenya adalah garis pemisah waktu: masa lalu dengan segala kegagalannya terasa terpisah dari diri sekarang, sehingga memulai terasa lebih bersih dan mungkin.
-- Efek ini berbeda dari habit discontinuity di bab 7: yang satu bekerja pada rasa identitas dan waktu dari dalam, yang lain memutus pemicu konteks dari luar, dan keduanya saling menguatkan saat terjadi bersamaan.
-- Cara pakai yang cerdas: pilih landmark terdekat alih-alih menunggu yang megah, selesaikan desain konteks sebelum landmark tiba, dan manfaatkan minggu-minggu awal ketika kurva otomatisitas Lally paling curam.
-- Efek ini musiman: ia membuka pintu perubahan, bukan menopangnya, dan tidak boleh menggantikan sistem yang dibangun di bab-bab berikutnya.
+- **Fresh start effect** (Dai, Milkman dan Riis, 2014): landmark waktu seperti tahun baru, Senin, tanggal 1, dan ulang tahun meningkatkan motivasi untuk perilaku aspiratif, karena masa lalu dengan segala kegagalannya terasa terpisah dari diri sekarang.
+- Efek ini bekerja dari dalam, pada rasa identitas dan waktu, sedangkan habit discontinuity di bab 7 memutus pemicu konteks dari luar; keduanya saling menguatkan saat terjadi bersamaan.
+- Pilih landmark terdekat alih-alih menunggu yang megah, selesaikan desain konteks sebelum landmark tiba, dan ingat bahwa efek ini musiman: ia membuka pintu perubahan, bukan menopangnya.
 
-Momen mulai sudah kamu pegang sekarang, dan kamu tahu kapan waktunya tiba. Namun peluncuran saja tidak cukup, karena pertarungan sesungguhnya terjadi pada setiap pengulangan. Bab berikutnya membahas friction, dan kenapa membuat perilaku yang benar menjadi yang paling mudah dijalankan adalah langkah desain yang paling menentukan.
+Momen mulai sudah kamu pegang sekarang. Namun peluncuran saja tidak cukup, karena pertarungan sesungguhnya terjadi pada setiap pengulangan.
