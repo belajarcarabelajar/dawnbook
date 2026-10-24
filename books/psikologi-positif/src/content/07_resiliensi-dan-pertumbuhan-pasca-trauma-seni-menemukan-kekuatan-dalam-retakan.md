@@ -1,6 +1,6 @@
 ## Resiliensi dan Pertumbuhan Pasca Trauma
 
-Kehidupan tidak selalu berjalan mulus. Kadang-kadang, badai yang begitu hebat datang menghantam hingga fondasi diri terasa retak. Psikologi Positif memandang krisis ini dari sudut pandang yang berbeda. Alih-alih hanya berfokus pada upaya bertahan hidup, kita didorong untuk memanfaatkan tekanan tersebut agar bisa bertransformasi menjadi pribadi yang lebih tangguh dan bijaksana.
+Kehidupan tidak selalu berjalan mulus. Kadang-kadang, datang masalah berat yang membuat diri terasa goyah. Psikologi Positif memandang krisis ini dari sudut pandang yang berbeda. Alih-alih hanya berfokus pada upaya bertahan hidup, kita didorong untuk memanfaatkan tekanan tersebut agar bisa bertransformasi menjadi pribadi yang lebih tangguh dan bijaksana.
 
 Bagian ini membahas dua konsep penting: **Resiliensi** (kemampuan untuk bangkit kembali) dan **Post-Traumatic Growth** (kemampuan untuk tumbuh melampaui kondisi sebelum krisis).
 
@@ -15,21 +15,21 @@ Bagian ini membahas dua konsep penting: **Resiliensi** (kemampuan untuk bangkit 
 Memiliki resiliensi bukan berarti kebal dari rasa sakit, kesedihan, atau kecemasan. Mereka yang resilien tetap merasakan emosi negatif tersebut. Perbedaannya terletak pada kemampuan mereka mengelola rasa sakit itu, sehingga tidak sampai melumpuhkan fungsi hidup sehari-hari.
 
 Beberapa faktor kunci yang membentuk resiliensi seseorang antara lain:
-- **Hubungan sosial yang suportif**: Dukungan dan empati dari orang-orang terdekat menjadi sandaran utama saat badai datang.
+- **Hubungan sosial yang suportif**: Dukungan dan empati dari orang-orang terdekat menjadi sandaran utama saat masa sulit datang.
 - **Keyakinan diri (efikasi diri)**: Rasa percaya bahwa kita memiliki kendali atas cara kita merespons situasi.
 - **Kemampuan regulasi emosi** agar tetap tenang dan tidak lekas panik di bawah tekanan.
 - **Optimisme realistis**, yaitu memandang masalah sebagai tantangan sementara yang spesifik, alih-alih beban permanen yang merusak seluruh aspek hidup.
 
 ### 2. Pertumbuhan Pasca Trauma (Post-Traumatic Growth/PTG)
 
-Jika resiliensi berfokus pada pemulihan kembali ke kondisi awal, maka **Post-Traumatic Growth (PTG)** melangkah lebih jauh. Konsep ini menggambarkan perubahan psikologis positif yang dialami seseorang setelah berjuang melewati badai hidup yang sangat berat.
+Jika resiliensi berfokus pada pemulihan kembali ke kondisi awal, maka **Post-Traumatic Growth (PTG)** melangkah lebih jauh. Konsep ini menggambarkan perubahan psikologis positif yang dialami seseorang setelah berjuang melewati krisis hidup yang berat.
 
 > **Seni Kintsugi**: Tradisi Jepang ini memperbaiki keramik pecah dengan menyambungnya menggunakan pernis emas. Hasil secara visual membuat keramik tidak hanya utuh kembali, melainkan tampak lebih indah dan bernilai justru karena garis-garis retakan emas yang berkilau. Begitu pula dengan luka batin manusia yang bertransformasi.
 
 #### Lima Domain Pertumbuhan (Tedeschi & Calhoun)
 
 Penelitian oleh Tedeschi dan Calhoun menunjukkan ada lima area utama di mana seseorang sering kali mengalami pertumbuhan setelah melewati krisis:
-- **Apresiasi hidup yang lebih mendalam**: Prioritas bergeser, dan hal-hal sederhana yang dulu terabaikan kini terasa sangat berharga.
+- **Apresiasi hidup yang lebih mendalam**: Prioritas bergeser, dan hal-hal sederhana yang dulu terabaikan kini terasa berharga.
 - **Hubungan sosial yang lebih erat**: Muncul rasa empati yang lebih kuat terhadap sesama yang juga sedang terluka, serta kedekatan emosional yang lebih intim dengan orang tercinta.
 - **Menyadari kekuatan diri sendiri**: Timbul keyakinan baru bahwa 'jika saya sanggup melewati krisis ini, saya pasti bisa menghadapi tantangan apa pun di depan'.
 - **Terbukanya kemungkinan baru dalam hidup**, seperti keberanian untuk berganti karier atau mengejar mimpi yang sebelumnya ragu dicoba.
@@ -59,7 +59,7 @@ Cobalah mengubah narasi di dalam kepalamu. Alih-alih meratap dengan pertanyaan, 
 
 #### B. Menulis Ekspresif (Expressive Writing)
 
-Metode yang dikembangkan oleh James Pennebaker ini mengajakmu meluangkan waktu 15–20 menit sehari untuk menumpahkan perasaan terdalam ke dalam tulisan. Proses ini membantu otak mengurai emosi yang benang kusut menjadi struktur cerita yang lebih teratur dan mudah dipahami.
+Metode yang dikembangkan oleh James Pennebaker ini mengajakmu meluangkan waktu 15–20 menit sehari untuk menumpahkan perasaan terdalam ke dalam tulisan. Proses ini membantu otak mengurai emosi yang kusut menjadi struktur cerita yang lebih teratur dan mudah dipahami.
 
 #### C. Mencari Dukungan Sosial
 
@@ -70,17 +70,17 @@ Hindari kecenderungan menarik diri dari pergaulan. Sebagai makhluk sosial, berba
 Mari kita bandingkan dua cara merespons skenario yang sama: **kehilangan pekerjaan secara tiba-tiba**.
 - **Respons tanpa resiliensi**: Seseorang langsung merasa dunianya runtuh, menyalahkan diri sendiri sepenuhnya, serta menutup diri dari lingkungan sosial karena malu. Hal ini sering kali berujung pada depresi yang berlarut-larut.
 - **Respons yang resilien**: Seseorang tetap merasakan kesedihan dan kecemasan yang wajar. Namun, setelah emosinya mereda, ia mulai menghubungi relasi profesionalnya, mempelajari keahlian baru yang relevan, serta memanfaatkan momen ini untuk mengevaluasi arah kariernya.
-- **Wujud nyata PTG**: Setahun berselang, ia berhasil merintis usaha mandiri yang selaras dengan minat terbesarnya. Ia menyadari bahwa meski kehilangan pekerjaan awalnya sangat menyakitkan, peristiwa tersebut rupanya menjadi pintu gerbang yang memaksanya tumbuh menjadi pribadi mandiri.
+- **Wujud nyata PTG**: Setahun berselang, ia berhasil merintis usaha mandiri yang selaras dengan minat terbesarnya. Ia menyadari bahwa meski kehilangan pekerjaan awalnya sangat menyakitkan, peristiwa tersebut rupanya mendorongnya tumbuh menjadi pribadi mandiri.
 
 ### 6. Latihan Refleksi
 
 Coba ingat kembali satu tantangan berat yang pernah kamu lewati dalam dua atau tiga tahun terakhir. Luangkan waktu sejenak untuk menjawab beberapa pertanyaan ini guna mengenali potensi pertumbuhan dirimu:
-1. Kekuatan baru apa yang berhasil kamu temukan dalam dirimu setelah melewati badai tersebut?
+1. Kekuatan baru apa yang berhasil kamu temukan dalam dirimu setelah melewati masa sulit tersebut?
 2. Siapa sosok yang hubungannya menjadi lebih dekat dan erat denganmu akibat peristiwa itu?
 3. Bagaimana cara pandangmu tentang kehidupan bergeser dibandingkan sebelum krisis terjadi?
 
 **Pesan Penting:**
 
-> Menjadi resilien tidak berarti kamu dilarang terjatuh. Resiliensi adalah keberanian untuk bangkit berdiri, sekali lagi, setelah setiap kali kamu terjatuh. Pertumbuhan pasca trauma menjadi bukti nyata bahwa kita memiliki kemampuan luar biasa untuk merajut kembali serpihan hidup menjadi sesuatu yang jauh lebih berharga.
+> Menjadi resilien tidak berarti kamu dilarang terjatuh. Resiliensi adalah keberanian untuk bangkit berdiri, sekali lagi, setelah setiap kali kamu terjatuh. Pertumbuhan pasca trauma menunjukkan bahwa kita mampu menata kembali hidup setelah krisis menjadi sesuatu yang lebih berharga.
 
 *Jika semua kesulitan dalam hidupmu adalah guru, pelajaran paling berharga apa yang telah mereka ajarkan kepadamu sejauh ini?*

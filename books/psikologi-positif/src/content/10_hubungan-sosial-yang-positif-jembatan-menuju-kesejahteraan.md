@@ -20,7 +20,7 @@ Penelitian menunjukkan bahwa kualitas hubungan sosial kita memiliki pengaruh yan
 
 ### 2. Active Constructive Responding (ACR)
 
-Salah satu kontribusi terbesar psikologi positif dalam hubungan adalah teori dari **Shelly Gable** tentang cara kita merespons kabar baik orang lain. Ternyata, bagaimana reaksi kita saat orang lain mendapatkan kabar baik atau meraih sukses lebih menentukan kualitas hubungan dibandingkan respons kita saat mereka menghadapi kesulitan.
+Salah satu kontribusi psikologi positif dalam hubungan adalah teori dari **Shelly Gable** tentang cara kita merespons kabar baik orang lain. Ternyata, bagaimana reaksi kita saat orang lain mendapatkan kabar baik atau meraih sukses lebih menentukan kualitas hubungan dibandingkan respons kita saat mereka menghadapi kesulitan.
 
 Ada empat cara kita merespons kabar baik, namun hanya satu yang memperkuat hubungan:
 

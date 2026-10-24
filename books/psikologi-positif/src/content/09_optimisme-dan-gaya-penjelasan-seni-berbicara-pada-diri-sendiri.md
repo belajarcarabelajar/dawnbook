@@ -1,6 +1,6 @@
 ## Optimisme dan Gaya Penjelasan
 
-Pernahkah kamu bertanya-tanya mengapa dua orang yang menghadapi kegagalan serupa bisa menunjukkan reaksi yang sangat bertolak belakang? Yang satu mungkin merasa dunianya runtuh dan memutuskan untuk berhenti mencoba, sementara yang lain melihatnya sebagai hambatan kecil lalu segera bangkit kembali.
+Pernahkah kamu bertanya-tanya mengapa dua orang yang menghadapi kegagalan serupa bisa menunjukkan reaksi yang bertolak belakang? Yang satu mungkin merasa dunianya runtuh dan memutuskan untuk berhenti mencoba, sementara yang lain melihatnya sebagai hambatan kecil lalu segera bangkit kembali.
 
 Perbedaan ini tidak ditentukan oleh peristiwa itu sendiri, tetapi oleh cara mereka menafsirkan kejadian tersebut dalam pikiran masing-masing. Inilah esensi dari **Gaya Penjelasan (*Explanatory Style*)**, sebuah konsep kognitif dalam psikologi positif yang dipelopori oleh Martin Seligman.
 

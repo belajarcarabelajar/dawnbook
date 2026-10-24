@@ -2,7 +2,7 @@
 
 Pernahkah kamu merasa sangat bersemangat saat mengerjakan sesuatu, hingga waktu terasa berlalu begitu saja? Atau mungkin kamu merasa "menjadi diri sendiri" ketika membantu orang lain atau memecahkan masalah yang rumit? Dalam psikologi positif, perasaan ini bukanlah kebetulan. Itu adalah tanda bahwa kamu sedang menggunakan **Kekuatan Karakter (Character Strengths)**-mu.
 
-Jika psikologi tradisional memiliki *Diagnostic and Statistical Manual of Mental Disorders* (DSM) untuk mengklasifikasikan gangguan mental, Dr. Christopher Peterson dan Dr. Martin Seligman menciptakan antitesisnya: klasifikasi **Values in Action (VIA)**. Klasifikasi ini berfungsi as peta jalan ilmiah untuk mengidentifikasi potensi terbaik yang ada di dalam diri manusia.
+Jika psikologi tradisional memiliki *Diagnostic and Statistical Manual of Mental Disorders* (DSM) untuk mengklasifikasikan gangguan mental, Dr. Christopher Peterson dan Dr. Martin Seligman menciptakan antitesisnya: klasifikasi **Values in Action (VIA)**. Klasifikasi ini berfungsi sebagai peta jalan ilmiah untuk mengidentifikasi potensi terbaik yang ada di dalam diri manusia.
 
 ## 1. Apa Itu Kekuatan Karakter?
 
