@@ -2,7 +2,7 @@
 
 Bab terbaru manga favoritmu terbit, dan dua tautan menunggu di layar: aplikasi resmi yang gratis, atau situs bajakan yang menyimpan seluruh arsipnya. Mana yang kamu ketuk? Pilihan sekecil itu sudah menjadi inti pertarungan industri manga beberapa tahun terakhir. Toko buku tidak lagi cukup, sebab pembaca sudah pindah ke ponsel, dan pembajak ikut menunggu di sana.
 
-### Ketika Ponsel Mengalahkan Kertas
+### Komik Digital Menggeser Versi Cetak
 
 Hitungan Shuppan Kagaku Kenkyujo, lembaga riset penerbitan Jepang, memperlihatkan seberapa jauh perpindahan itu. Pada 2025, komik digital sudah menguasai 76,1 persen pasar komik Jepang, sementara penjualan versi cetak anjlok 14,0 persen dalam setahun. Pasar secara keseluruhan turun 1,7 persen, penurunan pertama setelah tujuh tahun tumbuh berturut-turut.
 
@@ -43,7 +43,7 @@ Di luar jalur hukum, penerbit juga menawarkan alternatif yang legal di tempat ya
 
 Bagi pembaca di luar Jepang, artinya sederhana. Ada pilihan resmi yang tersedia pada hari yang sama, tanpa bayar, dan legal. Pada 2025, Asahi Shimbun mencatat layanan ini dipakai sekitar 5,5 juta pengguna aktif bulanan, dengan sekitar 100 judul dalam sembilan bahasa.
 
-### Rak Luar Negeri dan Pesaing di Layar
+### Pasar Manga Luar Negeri dan Webtoon Korea
 
 Strategi itu bertemu permintaan yang sedang tinggi. Di Amerika Serikat dan Kanada, ICv2 mencatat penjualan komik dan novel grafis mencapai 2,075 miliar dolar AS pada 2021, naik 62 persen, dengan manga sebagai salah satu pendorong terkuat. Di Prancis, data NielsenIQ-GfK menghitung 39,6 juta eksemplar manga terjual pada 2023, dan lebih dari separuh komik yang dibeli di sana adalah manga.
 

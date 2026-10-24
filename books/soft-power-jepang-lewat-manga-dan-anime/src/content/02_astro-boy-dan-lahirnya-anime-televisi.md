@@ -4,7 +4,7 @@ Bayangkan sebuah ruang keluarga di Jepang pada hari Tahun Baru 1963, ketika laya
 
 Kalau kamu ingin tahu mengapa anime bisa menjadi alat *soft power* Jepang, tayangan inilah titik berangkat yang paling masuk akal. Banyak kebiasaan industri anime yang bertahan sampai sekarang sudah terlihat pada satu serial itu.
 
-### Setengah Jam yang Mengubah Layar Kaca
+### Serial Animasi Setengah Jam Pertama
 
 Catatan resmi [Tezuka Productions](https://tezukaosamu.net/en/anime/30.html), pengelola karya Osamu Tezuka, menyebut *Tetsuwan Atom* sebagai serial animasi televisi Jepang pertama yang berdurasi 30 menit per episode. Mushi Production membuatnya, dan serial itu tayang di Fuji TV dari 1 Januari 1963 sampai 31 Desember 1966 dengan total 193 episode.
 

@@ -18,7 +18,7 @@ Besarnya perubahan baru terasa kalau kamu mundur ke 2012. Japan Forward (Sankei)
 
 Sandingkan angka itu dengan 2.170,2 miliar yen pada 2024, dan hasilnya kira-kira sembilan kali lipat dalam dua belas tahun. Perkalian itu hitungan penulis buku ini, bukan angka resmi AJA, tetapi arahnya sulit dibantah. Pertanyaannya, lewat pintu mana penonton luar negeri kini menemukan anime?
 
-### Pintu Masuk Bernama Streaming
+### Peralihan ke Layanan Streaming
 
 Dulu anime menyeberang lewat stasiun televisi, kaset video, dan subtitle buatan penggemar. Sekarang pintunya adalah aplikasi di ponsel dan televisi pintar, dan dua perusahaan memperlihatkan pergeseran itu dengan jelas.
 

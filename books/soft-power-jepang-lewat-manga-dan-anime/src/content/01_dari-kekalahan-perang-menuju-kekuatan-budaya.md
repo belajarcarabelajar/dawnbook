@@ -14,7 +14,7 @@ Dalam buku *Soft Power: The Means to Success in World Politics* (PublicAffairs, 
 
 Bayangkan seorang kakak yang ingin adiknya membereskan kamar. Ia bisa mengancam, dan kamar itu mungkin rapi sore ini. Ia juga bisa membuat sang adik ingin meniru kebiasaannya karena kagum. Cara kedua lebih lambat, tetapi tidak perlu diawasi terus dan tidak memancing perlawanan.
 
-### Raksasa Ekonomi yang Kurang Memikat
+### Penilaian Nye atas Jepang pada 1990
 
 Di artikel tahun 1990 itu, Jepang tidak tampil sebagai contoh sukses. Nye menilai *soft power* Jepang terbatas karena budayanya berorientasi ke dalam. Ekonominya besar, tetapi budayanya belum cukup keluar untuk memikat orang di negeri lain.
 

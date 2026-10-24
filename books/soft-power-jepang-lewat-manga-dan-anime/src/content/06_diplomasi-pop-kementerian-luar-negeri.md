@@ -20,7 +20,7 @@ Usulan pertama terwujud setahun kemudian. Pada Mei 2007, atas prakarsa Aso, keme
 
 Yang membuatnya unik adalah penyelenggaranya. Hadiah ini tidak diurus penerbit, tetapi oleh kementerian yang biasa menangani hubungan antarnegara. Umurnya yang panjang juga menunjukkan bahwa ia bukan proyek sekali jalan yang ikut lenyap ketika menterinya berganti.
 
-### Kucing Robot Naik Pangkat Jadi Duta
+### Doraemon Diangkat Jadi Duta Anime
 
 Usulan kedua berbelok di tengah jalan. Ketika Koumura melantik Doraemon sebagai *Anime Ambassador* pada 2008, sebuah peristiwa yang tercatat dalam siaran pers kementerian dan Buku Biru Diplomatik 2009, yang diangkat bukan seniman muda seperti gagasan Aso, melainkan tokoh kartun.
 

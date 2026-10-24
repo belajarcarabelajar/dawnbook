@@ -4,7 +4,7 @@ Pada November 1999, sebuah film kartun Jepang dibuka di peringkat pertama biosko
 
 Anime sebenarnya bukan pendatang baru di sana. Astro Boy sudah tayang di stasiun TV Amerika sejak 1963. Namun inilah gelombang pertama yang menembus arus utama. Dari kira-kira 1988 sampai 2000-an, anime dan manga bergeser dari tontonan segelintir penggemar menjadi bagian dari budaya populer Barat, dan pergeseran itu tidak datang lewat satu jalan. Ada jalur film seni, jalur waralaba anak, dan jalur komik *shonen* (manga untuk pembaca remaja laki-laki). Masing-masing menjangkau penonton yang berbeda.
 
-### Akira Mengguncang Penonton Film Dewasa
+### Akira di Bioskop Seni Amerika
 
 Sekitar sebelas tahun sebelum Pokémon, jalan pertama sudah dibuka dari arah yang sama sekali berbeda. *Akira* tayang di Jepang pada 16 Juli 1988 dengan anggaran lebih dari 1 miliar yen, angka terbesar untuk film anime sampai saat itu, seperti dicatat [liputan khusus Japan Times](https://features.japantimes.co.jp/akira-new/). Di Amerika Serikat, film ini tayang perdana pada 25 Desember 1989 lewat Streamline Pictures, lalu beredar terbatas sepanjang 1990. Mula-mula ia diputar di beberapa kota, kemudian menyebar ke jaringan bioskop *arthouse* yang lebih luas.
 
@@ -12,7 +12,7 @@ Jalur peredaran itu penting. Di bioskop *arthouse*, *Akira* bersanding dengan fi
 
 Inggris merasakannya lewat rak video. Helen McCarthy, yang dikutip Japan Times, melihat rilis video *Akira* di Inggris pada 1991 sebagai pemicu ledakan anime di negara itu. Jalur pertama ini terbuka di dua tempat sekaligus: layar bioskop seni dan rak video. Dibaca dari sudut *soft power*, di situ peran *Akira*: ia memberi kritikus dan pencinta film alasan untuk membicarakan animasi Jepang dengan serius, bukan sekadar sebagai hiburan anak.
 
-### Monster Saku Menyerbu Televisi Amerika
+### Pokémon di Televisi Amerika
 
 Jalur kedua dibuka oleh sesuatu yang ramah anak. Di Jepang, *Pokémon* sudah menempuh rantai yang kamu lihat di bab 3, dari gim pertama pada 27 Februari 1996, serial televisi pada 1997, sampai film layar lebar pada 1998. Menurut [sejarah resmi The Pokémon Company](https://corporate.pokemon.co.jp/en/aboutus/history/), animenya mulai tayang di AS pada September 1998 di 111 stasiun televisi, pada tahun yang sama dengan peluncuran gim *Red* dan *Blue* di sana. Setahun kemudian, pada November 1999, filmnya mencetak angka box office yang kamu baca di awal bab.
 
