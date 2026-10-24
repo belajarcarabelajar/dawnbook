@@ -1,12 +1,12 @@
 ## Anatomi Makroskopis Labyrinth Tulang dan Membran
 
-Selamat datang di inti dari sistem keseimbangan kita. Jika otak adalah pusat komando, maka telinga dalam adalah markas intelijen yang sangat canggih dan terlindungi dengan ketat. Tersembunyi jauh di dalam bagian petrosa tulang temporal (tulang tengkorak yang paling keras), terdapat sebuah labirin rumit yang menentukan bagaimana kita merasakan dunia dan posisi kita di dalamnya.
+Selamat datang di inti dari sistem keseimbangan kita. Jika otak adalah pusat komando, maka telinga dalam adalah markas intelijen yang terlindungi dengan ketat. Tersembunyi jauh di dalam bagian petrosa tulang temporal (tulang tengkorak yang paling keras), terdapat sebuah labirin rumit yang menentukan bagaimana kita merasakan posisi kita di dalam ruang.
 
-Dalam bagian ini, kita akan membedah struktur "rumah" bagi sensor keseimbangan kita, memahami perbedaan antara dinding luar yang keras dan saluran dalam yang lunak, serta cairan yang menghidupinya.
+Dalam bagian ini, kita akan membedah struktur "rumah" bagi sensor keseimbangan kita, memahami perbedaan antara dinding luar yang keras dan saluran dalam yang lunak, serta cairan yang mengisinya.
 
 ### 1. Labirin di Dalam Tulang
 
-Bayangkan sebuah kastil kuno yang memiliki sistem pipa rahasia di dalam dinding-dinding batunya. Kastil itu sendiri adalah **Labyrinth Tulang**, sedangkan sistem pipa air yang fleksibel di dalamnya adalah **Labyrinth Membran**.
+Bayangkan sebuah kastil kuno yang memiliki sistem pipa tersembunyi di dalam dinding-dinding batunya. Kastil itu sendiri adalah **Labyrinth Tulang**, sedangkan sistem pipa air yang fleksibel di dalamnya adalah **Labyrinth Membran**.
 
 Sistem ini terdiri dari dua bagian fungsional utama:
 
@@ -45,7 +45,7 @@ Terletak di dalam labyrinth tulang, terdapat **Labyrinth Membran**. Ini adalah s
 
 #### Cairan Aktif Endolymph
 
-Di dalam labyrinth membran terdapat cairan yang sangat unik bernama **Endolymph**:
+Di dalam labyrinth membran terdapat cairan bernama **Endolymph**:
 
 - **Komposisi:** Sangat kaya akan Kalium ($\text{K}^+$) dan rendah Natrium ($\text{Na}^+$).
 - **Keunikan:** Ini adalah satu-satunya cairan ekstraseluler dalam tubuh yang memiliki konsentrasi Kalium tinggi, menyerupai cairan intraseluler.
@@ -72,7 +72,7 @@ Untuk memahami struktur ini dengan mudah, bayangkan sebuah **pipa besi** yang ko
 
 ### 6. Hidrops Endolimfatik (Penyakit Meniere)
 
-Dalam kondisi klinis normal, produksi dan penyerapan endolymph berada dalam keseimbangan yang sempurna. Namun, pada kondisi yang disebut **Hidrops Endolimfatik** (sering dikaitkan dengan Penyakit Meniere), terjadi kelebihan volume endolymph di dalam labyrinth membran.
+Dalam kondisi klinis normal, produksi dan penyerapan endolymph berada dalam keseimbangan. Namun, pada kondisi yang disebut **Hidrops Endolimfatik** (sering dikaitkan dengan Penyakit Meniere), terjadi kelebihan volume endolymph di dalam labyrinth membran.
 
 **Apa yang terjadi?**
 

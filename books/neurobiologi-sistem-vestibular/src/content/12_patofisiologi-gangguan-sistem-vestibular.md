@@ -1,6 +1,6 @@
 ## Patofisiologi Gangguan Sistem Vestibular
 
-Pernahkah seseorang turun dari komidi putar dan merasa dunia masih berputar meskipun kedua kaki telah menapak di tanah yang stabil? Bagi kebanyakan orang, sensasi ini hanya berlangsung beberapa detik. Namun, bagi jutaan individu dengan gangguan vestibular, "dunia yang berputar" adalah realitas medis yang melumpuhkan.
+Pernahkah seseorang turun dari komidi putar dan merasa dunia masih berputar meskipun kedua kaki telah menapak di tanah yang stabil? Bagi kebanyakan orang, sensasi ini hanya berlangsung beberapa detik. Namun, bagi jutaan individu dengan gangguan vestibular, "dunia yang berputar" adalah kondisi medis yang melumpuhkan.
 
 Setelah mempelajari bagaimana sistem vestibular bekerja secara normal, mulai dari deteksi rotasi di kanalis semisirkularis hingga integrasi di batang otak, sekarang kita akan mengeksplorasi apa yang terjadi ketika sistem yang presisi ini mengalami kegagalan fungsi.
 

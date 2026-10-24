@@ -109,4 +109,4 @@ flowchart TD
     K -.->|"proyeksi meluas"| G["Hipokampus dan korteks entorhinal"]
 ```
 
-> **Pesan Utama:** Persepsi kesadaran ruang merupakan hasil orkestrasi antara transduksi fisik di telinga dalam dan interpretasi tingkat tinggi di korteks serebri. Manusia tidak hanya bereaksi terhadap tarikan gravitasi dan gerakan secara mekanis, melainkan memahami keberadaan dan orientasi diri dalam ruang semesta melalui proyeksi kortikal ini.
+> **Pesan Utama:** Persepsi kesadaran ruang merupakan hasil kerja sama antara transduksi fisik di telinga dalam dan interpretasi tingkat tinggi di korteks serebri. Manusia tidak hanya bereaksi terhadap tarikan gravitasi dan gerakan secara mekanis, melainkan memahami keberadaan dan orientasi diri dalam ruang melalui proyeksi kortikal ini.

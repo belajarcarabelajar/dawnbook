@@ -2,11 +2,11 @@
 
 Pernahkah timbul pertanyaan mengapa tubuh secara otomatis menegang dan menyesuaikan posisi saat bus yang ditumpangi tiba-tiba mengerem? Atau bagaimana manusia bisa tetap berdiri tegak di atas permukaan yang tidak stabil tanpa harus berpikir keras untuk menggerakkan setiap otot?
 
-Inilah sistem "pilot otomatis" tubuh manusia. **Jalur Vestibulo-Spinal** adalah jembatan saraf yang menghubungkan informasi keseimbangan dari telinga dalam langsung ke otot-otot tubuh kita. Tanpa jalur ini, gravitasi akan menjadi musuh yang tak terkalahkan bagi manusia.
+Inilah sistem "pilot otomatis" tubuh manusia. **Jalur Vestibulo-Spinal** adalah jembatan saraf yang menghubungkan informasi keseimbangan dari telinga dalam langsung ke otot-otot tubuh kita. Tanpa jalur ini, tubuh akan sulit berdiri tegak melawan gravitasi.
 
 ### 1. Filosofi "Tali Tak Terlihat"
 
-Bayangkan tubuh manusia seperti sebuah boneka marionet. Namun, alih-alih digerakkan oleh tangan manusia, tali-tali yang mengikat otot dikendalikan oleh sistem pengolah sinyal yang canggih di batang otak (Nukleus Vestibularis), yang menerima data waktu nyata (*real-time*) dari sensor kemiringan (labirin vestibular).
+Bayangkan tubuh manusia seperti sebuah boneka marionet. Namun, alih-alih digerakkan oleh tangan manusia, tali-tali yang mengikat otot dikendalikan oleh sistem pengolah sinyal di batang otak (Nukleus Vestibularis), yang menerima data waktu nyata (*real-time*) dari sensor kemiringan (labirin vestibular).
 
 Ketika tubuh miring ke kiri, pusat kendali ini menarik serat pada otot-otot sisi kanan agar tubuh tidak jatuh. Proses ini berlangsung sangat cepat, di bawah ambang kesadaran kita, sehingga dinamakan sebagai **kontrol postur otomatis**.
 

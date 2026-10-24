@@ -1,6 +1,6 @@
 ## Organ Otolit Sakulus dan Utrikulus
 
-Pernahkah kamu bertanya-tanya bagaimana otak bisa mengetahui tubuh sedang bergerak maju di dalam mobil yang gelap? Atau bagaimana manusia bisa merasakan lift yang tiba-tiba bergerak naik meskipun tidak melihat ke luar? Jawabannya terletak pada dua struktur mungil namun luar biasa di telinga dalam: **Utrikulus** dan **Sakulus**, yang secara kolektif dikenal sebagai **Organ Otolit**.
+Pernahkah kamu bertanya-tanya bagaimana otak bisa mengetahui tubuh sedang bergerak maju di dalam mobil yang gelap? Atau bagaimana manusia bisa merasakan lift yang tiba-tiba bergerak naik meskipun tidak melihat ke luar? Jawabannya terletak pada dua struktur mungil di telinga dalam: **Utrikulus** dan **Sakulus**, yang secara kolektif dikenal sebagai **Organ Otolit**.
 
 Jika kanalis semisirkularis berfungsi sebagai "giroskop" untuk mendeteksi rotasi, maka Organ Otolit adalah "akselerometer" dan "sensor gravitasi" biologis kita.
 
@@ -55,7 +55,7 @@ Setiap makula dibagi menjadi dua bagian oleh sebuah garis melengkung yang disebu
 - Pada **utrikulus**, kinocilium (rambut terpanjang) berorientasi *menuju* striola.
 - Pada **sakulus**, kinocilium berorientasi *menjauhi* striola.
 
-Susunan ini memastikan bahwa gerakan apa pun akan merangsang beberapa sel rambut sambil menghambat sel rambut lainnya. Pola aktivasi yang kompleks ini memungkinkan otak untuk menafsirkan arah gerakan dengan presisi yang luar biasa.
+Susunan ini memastikan bahwa gerakan apa pun akan merangsang beberapa sel rambut sambil menghambat sel rambut lainnya. Pola aktivasi yang kompleks ini memungkinkan otak untuk menafsirkan arah gerakan secara tepat.
 
 ### 5. Aplikasi Dunia Nyata dan Kasus Praktis
 

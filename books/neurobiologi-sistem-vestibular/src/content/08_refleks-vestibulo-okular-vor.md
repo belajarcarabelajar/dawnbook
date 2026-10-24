@@ -1,8 +1,8 @@
 ## Refleks Vestibulo-Okular (VOR)
 
-Pernahkah kita mencoba membaca pesan teks di ponsel saat sedang berjalan cepat atau berlari? Meskipun kepala bergerak naik-turun dan bergoyang ke samping, mata kita masih mampu "mengunci" teks tersebut sehingga terbaca dengan jelas. Keajaiban biologis ini bukan terjadi secara kebetulan; ini adalah kerja keras dari **Refleks Vestibulo-Okular (VOR)**.
+Pernahkah kita mencoba membaca pesan teks di ponsel saat sedang berjalan cepat atau berlari? Meskipun kepala bergerak naik-turun dan bergoyang ke samping, mata kita masih mampu "mengunci" teks tersebut sehingga terbaca dengan jelas. Kemampuan ini bukan terjadi secara kebetulan; ini adalah hasil kerja **Refleks Vestibulo-Okular (VOR)**.
 
-VOR adalah salah satu refleks tercepat dalam tubuh manusia. Fungsinya sangat spesifik: menghasilkan gerakan mata yang berlawanan arah dengan gerakan kepala untuk menjaga bayangan objek tetap stabil di pusat retina (**fovea**).
+VOR adalah salah satu refleks tercepat dalam tubuh manusia. Fungsinya spesifik: menghasilkan gerakan mata yang berlawanan arah dengan gerakan kepala untuk menjaga bayangan objek tetap stabil di pusat retina (**fovea**).
 
 ## Gimbal Biologis
 
@@ -107,7 +107,7 @@ Air hangat atau dingin dimasukkan ke liang telinga untuk menciptakan arus konvek
 
 ## Kesimpulan
 
-Refleks Vestibulo-Okular adalah jembatan fungsional antara sistem keseimbangan dan sistem penglihatan. Melalui jalur tiga neuron yang sangat cepat, VOR memastikan bahwa meskipun dunia kita selalu bergerak, persepsi visual kita tetap stabil dan tajam. Tanpa VOR, aktivitas sederhana seperti berjalan atau mengemudi akan menjadi tantangan visual yang mustahil diatasi.
+Refleks Vestibulo-Okular adalah jembatan fungsional antara sistem keseimbangan dan sistem penglihatan. Melalui jalur tiga neuron yang sangat cepat, VOR memastikan bahwa meskipun kepala kita selalu bergerak, persepsi visual kita tetap stabil dan tajam. Tanpa VOR, aktivitas sederhana seperti berjalan atau mengemudi akan membuat pandangan berguncang dan buram.
 
 > **Poin Utama untuk Diingat:**
 >

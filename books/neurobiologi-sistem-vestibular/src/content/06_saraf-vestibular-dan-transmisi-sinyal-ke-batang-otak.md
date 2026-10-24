@@ -108,4 +108,4 @@ $$
 - Informasi vestibular dikodekan melalui **modulasi frekuensi tembakan**, bukan melalui perubahan amplitudo potensial aksi.
 - Sistem beroperasi menggunakan **tonus elektrokimiawi dasar** (pelepasan istirahat kontinu), yang menjamin sensitivitas deteksi gerak 360 derajat dalam segala orientasi ruang.
 
-> **Wawasan Penting:** Serat saraf vestibular memiliki kecepatan transmisi dan laju pelepasan kontinu yang luar biasa tinggi. Kecepatan transmisi sub-milidetik ini sangat esensial karena penyesuaian refleksif terhadap gravitasi dan stabilitas visual harus terjadi sebelum persepsi sadar terbentuk di korteks serebri.
+> **Wawasan Penting:** Serat saraf vestibular memiliki kecepatan transmisi dan laju pelepasan kontinu yang tinggi. Kecepatan transmisi sub-milidetik ini esensial karena penyesuaian refleksif terhadap gravitasi dan stabilitas visual harus terjadi sebelum persepsi sadar terbentuk di korteks serebri.

@@ -2,7 +2,7 @@
 
 Bayangkan saat kita sedang berada di dalam kereta api yang mulai bergerak perlahan. Mata melihat peron stasiun menjauh, telinga dalam merasakan percepatan halus, dan otot-otot kaki menyesuaikan ketegangan agar tubuh tetap seimbang. Bagaimana otak mengetahui bahwa tubuh yang bergerak, dan bukan stasiunnya yang bergeser?
 
-Jawabannya terletak pada sebuah pusat kendali lalu lintas canggih di batang otak: **Nukleus Vestibularis**.
+Jawabannya terletak pada sebuah pusat kendali lalu lintas di batang otak: **Nukleus Vestibularis**.
 
 Nukleus vestibularis bukan sekadar stasiun pengulang (*relay station*) yang meneruskan sinyal dari telinga dalam ke otak. Struktur ini berfungsi sebagai prosesor komputasi biologis yang mengintegrasikan informasi dari berbagai modalitas sensorik untuk menciptakan gambaran akurat tentang posisi dan gerakan tubuh di ruang tiga dimensi.
 
@@ -82,4 +82,4 @@ Dalam beberapa hari hingga pekan, sistem saraf pusat mengaktifkan mekanisme **ko
 2. **Substitusi Sensorik:** Nukleus vestibularis meningkatkan pembobotan sinyal (*weighting*) dari modalitas visual dan proprioseptif servikal untuk menggantikan input labirin yang hilang.
 3. **Rehabilitasi Vestibular:** Pemberian latihan adaptif (seperti protokol *Cawthorne-Cooksey*) mempercepat pemulihan plastisitas sinaptik pada sirkuit batang otak dan serebelum.
 
-> **Kesimpulan:** Nukleus vestibularis merupakan konduktor utama orkestra keseimbangan tubuh. Tanpa integrasi sensorimotor yang terjadi di sini, tubuh manusia tidak akan mampu berdiri tegak dengan stabil, apalagi memfokuskan pandangan secara jernih saat bergerak aktif. Pusat integrasi ini mengolah sinyal mentah dari berbagai modalitas sensorik menjadi persepsi ruang yang utuh dan adaptif.
+> **Kesimpulan:** Nukleus vestibularis merupakan pusat koordinasi utama keseimbangan tubuh. Tanpa integrasi sensorimotor yang terjadi di sini, tubuh manusia tidak akan mampu berdiri tegak dengan stabil, apalagi memfokuskan pandangan secara jernih saat bergerak aktif. Pusat integrasi ini mengolah sinyal mentah dari berbagai modalitas sensorik menjadi persepsi ruang yang utuh dan adaptif.

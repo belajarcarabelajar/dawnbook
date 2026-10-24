@@ -1,6 +1,6 @@
 ## Pengantar Sistem Vestibular
 
-Selamat datang di penjelajahan mendalam mengenai salah satu sistem sensorik paling vital namun sering kali terlupakan: **Sistem Vestibular**. Jika penglihatan memberi tahu kita di mana benda berada, dan pendengaran memberi tahu kita apa yang terjadi di sekitar, maka sistem vestibular memberi tahu kita **siapa dan di mana kita berada dalam ruang**.
+Selamat datang di pembahasan tentang salah satu sistem sensorik yang penting namun sering kali terlupakan: **Sistem Vestibular**. Jika penglihatan memberi tahu kita di mana benda berada, dan pendengaran memberi tahu kita apa yang terjadi di sekitar, maka sistem vestibular memberi tahu kita **di mana posisi kita dalam ruang**.
 
 Sistem ini bekerja 24 jam sehari, termasuk saat kita tidur, untuk memastikan bahwa kita tidak merasa pusing saat menoleh dan tetap tegak meskipun dunia di sekitar kita bergerak.
 
@@ -8,11 +8,11 @@ Sistem ini bekerja 24 jam sehari, termasuk saat kita tidur, untuk memastikan bah
 
 Sistem vestibular adalah sistem sensorik yang bertanggung jawab untuk memberikan input dominan tentang gerakan dan keseimbangan. Terletak jauh di dalam telinga bagian dalam, sistem ini berfungsi sebagai **giroskop dan akselerometer alami** tubuh manusia.
 
-Bayangkan sebuah *smartphone* modern. Di dalamnya terdapat sensor kecil yang mendeteksi apakah ponsel sedang tegak atau miring (potret atau lanskap). Sistem vestibular melakukan hal yang persis sama untuk otak kita, namun dengan presisi yang jauh lebih luar biasa.
+Bayangkan sebuah *smartphone* modern. Di dalamnya terdapat sensor kecil yang mendeteksi apakah ponsel sedang tegak atau miring (potret atau lanskap). Sistem vestibular melakukan hal yang persis sama untuk otak kita, namun dengan presisi yang jauh lebih tinggi.
 
 #### Sang Pilot di Balik Layar
 
-Bayangkan tubuh manusia sebagai sebuah pesawat terbang yang canggih. Mata adalah jendela kokpit, otot adalah kemudi, tetapi **sistem vestibular adalah instrumen navigasi internal**. Tanpa instrumen ini, sang pilot (otak) tidak akan tahu apakah pesawat sedang menanjak, menukik, atau miring, terutama saat terbang di dalam awan tebal (seperti saat berjalan di ruangan gelap).
+Bayangkan tubuh manusia sebagai sebuah pesawat terbang. Mata adalah jendela kokpit, otot adalah kemudi, tetapi **sistem vestibular adalah instrumen navigasi internal**. Tanpa instrumen ini, sang pilot (otak) tidak akan tahu apakah pesawat sedang menanjak, menukik, atau miring, terutama saat terbang di dalam awan tebal (seperti saat berjalan di ruangan gelap).
 
 ### 2. Fungsi Utama Sistem Vestibular
 
@@ -30,7 +30,7 @@ Sistem vestibular adalah satu-satunya indra yang secara khusus dirancang untuk m
 
 #### C. Stabilisasi Pandangan (*Gaze Stabilization*)
 
-Ketika mencoba merekam video sambil berlari, hasilnya biasanya berguncang dan tidak stabil. Namun, saat seseorang berlari, pandangan matanya tetap stabil. Mengapa? Karena sistem vestibular mengirimkan sinyal super cepat ke otot mata untuk bergerak berlawanan arah dengan gerakan kepala. Mekanisme ini memastikan bayangan objek tetap jatuh tepat di fovea (pusat ketajaman mata).
+Ketika mencoba merekam video sambil berlari, hasilnya biasanya berguncang dan tidak stabil. Namun, saat seseorang berlari, pandangan matanya tetap stabil. Mengapa? Karena sistem vestibular mengirimkan sinyal cepat ke otot mata untuk bergerak berlawanan arah dengan gerakan kepala. Mekanisme ini memastikan bayangan objek tetap jatuh tepat di fovea (pusat ketajaman mata).
 
 ### 3. Komponen Sensorik Utama
 
@@ -58,7 +58,7 @@ Memahami sistem vestibular bukan hanya teori akademis; ini adalah kunci di balik
 
 ### 5. Mengapa Studi Neurobiologi Vestibular Penting?
 
-Tanpa sistem ini, aktivitas sederhana seperti berdiri tegak akan membutuhkan konsentrasi mental yang luar biasa besar. Penurunan fungsi vestibular (akibat penuaan atau cedera) sering kali menyebabkan vertigo parah, hilangnya kepercayaan diri untuk bergerak, dan risiko jatuh yang fatal pada lansia.
+Tanpa sistem ini, aktivitas sederhana seperti berdiri tegak akan membutuhkan konsentrasi mental yang besar. Penurunan fungsi vestibular (akibat penuaan atau cedera) sering kali menyebabkan vertigo parah, hilangnya kepercayaan diri untuk bergerak, dan risiko jatuh yang fatal pada lansia.
 
 Fenomena merasa masih "terombang-ambing" di daratan setelah menghabiskan waktu seharian di atas kapal merupakan salah satu wujud adaptasi sistem saraf pusat terhadap input vestibular yang terus-menerus berubah.
 
@@ -71,4 +71,4 @@ Fenomena merasa masih "terombang-ambing" di daratan setelah menghabiskan waktu s
 | **Gravitasi** | Memberikan referensi "bawah" yang konstan bagi tubuh. |
 | **Integrasi** | Bekerja sama dengan mata dan otot untuk koordinasi gerakan. |
 
-> **Langkah Selanjutnya:** Setelah memahami gambaran besarnya, bagian berikutnya akan membawa pemelajar masuk ke dalam laboratorium alami tubuh manusia untuk melihat **Anatomi Makroskopis Labyrinth Tulang dan Membran**, tempat keajaiban mekanis ini dimulai.
+> **Langkah Selanjutnya:** Setelah memahami gambaran besarnya, bagian berikutnya akan membawa pemelajar ke **Anatomi Makroskopis Labyrinth Tulang dan Membran**, struktur tempat mekanisme ini dimulai.
