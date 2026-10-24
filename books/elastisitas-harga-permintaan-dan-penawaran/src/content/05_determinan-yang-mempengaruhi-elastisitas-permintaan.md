@@ -1,5 +1,5 @@
 ## Determinan yang Mempengaruhi Elastisitas Permintaan
-Mengapa kenaikan harga tiket pesawat sebesar 10% bisa membuat orang meninggalkan pesawat dan beralih menggunakan kereta api? Sementara itu, kenaikan harga garam sebesar 50% tidak membuat ibu rumah tangga berhenti membelinya. Jawabannya terletak pada **Determinan Elastisitas Permintaan**.
+Mengapa kenaikan harga tiket pesawat sebesar 10% bisa membuat orang beralih menggunakan kereta api, sementara kenaikan harga garam 50% tidak? Ibu rumah tangga tidak berhenti membeli garam. Jawabannya terletak pada **Determinan Elastisitas Permintaan**.
 Setelah memahami apa itu elastisitas dan bagaimana cara menghitungnya pada bab sebelumnya, sekarang kita akan membedah mengapa sebuah produk bisa sangat sensitif terhadap harga (elastis) atau justru sangat cuek terhadap perubahan harga (inelastis).
 ## 1. Ketersediaan Barang Substitusi (Barang Pengganti)
 Ini adalah faktor yang paling utama. Bayangkan kamu sedang berada di sebuah *food court*. Jika stan "Ayam Goreng A" menaikkan harganya secara drastis, kamu dengan mudah bisa bergeser ke stan "Ayam Goreng B" atau "Mie Goreng C".

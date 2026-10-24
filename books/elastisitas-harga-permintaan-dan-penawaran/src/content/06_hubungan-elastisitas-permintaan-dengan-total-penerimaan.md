@@ -1,5 +1,5 @@
 ## Hubungan Elastisitas Permintaan dengan Total Penerimaan
-Pernahkah kamu bertanya-tanya mengapa perusahaan seperti Apple jarang sekali memberikan diskon besar-besaran untuk produknya? Sebaliknya, minimarket di dekat rumah kamu hampir setiap minggu memberikan promo "Beli 2 Gratis 1". Jawabannya terletak pada strategi **Total Revenue** (total penerimaan) yang didasarkan pada **Elastisitas Permintaan**.
+Pernahkah kamu bertanya-tanya mengapa perusahaan seperti Apple jarang sekali memberikan potongan harga besar-besaran? Sebaliknya, minimarket di dekat rumah kamu hampir setiap minggu memberikan promo "Beli 2 Gratis 1". Jawabannya terletak pada strategi **Total Revenue** (total penerimaan) yang didasarkan pada **Elastisitas Permintaan**.
 Sebagai produsen atau pemilik bisnis, keputusan untuk menaikkan atau menurunkan harga adalah pedang bermata dua. Jika kamu menaikkan harga, kamu mendapat lebih banyak uang per unit, tetapi jumlah pelanggan mungkin berkurang. Di sinilah pemahaman tentang hubungan antara elastisitas dan total penerimaan menjadi sangat penting.
 ### 1. Memahami Total Penerimaan (Total Revenue)
 Sebelum masuk ke hubungan dengan elastisitas, kita harus menyamakan persepsi tentang apa itu **Total Penerimaan (Total Revenue/$\text{TR}$)**.
