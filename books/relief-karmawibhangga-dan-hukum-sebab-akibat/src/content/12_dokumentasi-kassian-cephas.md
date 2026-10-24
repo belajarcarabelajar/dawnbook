@@ -6,7 +6,7 @@ Inilah analogi yang tepat untuk peran **Kassian Cephas** terhadap relief Karmawi
 
 ## Siapakah Kassian Cephas?
 
-Kassian Cephas (1845-1912) bukan sekadar fotografer biasa. Ia adalah fotografer profesional pertama dari kalangan pribumi (Jawa) yang diakui secara internasional. Sebagai fotografer resmi Kesultanan Yogyakarta, Cephas memiliki kemampuan teknis yang luar biasa di era di mana fotografi masih merupakan teknologi yang sangat rumit dan mahal.
+Kassian Cephas (1845-1912) bukan sekadar fotografer biasa. Ia adalah fotografer profesional pertama dari kalangan pribumi (Jawa) yang diakui secara internasional. Sebagai fotografer resmi Kesultanan Yogyakarta, Cephas memiliki kemampuan teknis yang tinggi di era ketika fotografi masih rumit dan mahal.
 
 **Mengapa Cephas yang dipilih?** Pada akhir abad ke-19, pemerintah kolonial Belanda melalui *Archaeologische Vereeniging* (Perhimpunan Arkeologi) menyadari pentingnya mendokumentasikan relief yang baru ditemukan oleh J.W. IJzerman pada tahun 1885. Cephas dipilih karena:
 
@@ -81,4 +81,4 @@ Pengetahuan tentang dokumentasi Kassian Cephas memberikan kita pelajaran penting
 
 Seorang mahasiswa arkeologi ingin meneliti tentang hukuman bagi pencuri di masa Jawa Kuno. Karena 156 panel Karmawibhangga tertutup oleh batu penyokong candi, mahasiswa tersebut tidak bisa melihatnya langsung. Ia kemudian membuka **Arsip Digital Foto Kassian Cephas**. Di sana, ia menemukan panel nomor 86 yang menggambarkan orang yang mencuri hasil bumi dan konsekuensi yang diterimanya. Inilah bukti nyata bagaimana teknologi (fotografi) melestarikan ajaran moral (Karmawibhangga).
 
-> **Ingatlah:** Setiap kali kamu melihat reproduksi gambar relief Karmawibhangga di buku atau museum, kamu sebenarnya sedang melihat dunia melalui mata Kassian Cephas. Ia adalah jembatan antara masa lalu yang terkubur dan masa depan yang ingin tahu.
+> **Ingatlah:** Setiap kali kamu melihat reproduksi gambar relief Karmawibhangga di buku atau museum, kamu sebenarnya sedang melihat dunia melalui mata Kassian Cephas. Fotonya menghubungkan kita dengan relief yang kini tertutup.

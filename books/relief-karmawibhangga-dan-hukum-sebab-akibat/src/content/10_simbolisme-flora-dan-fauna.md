@@ -6,11 +6,11 @@ Flora (tumbuh-tumbuhan) dan Fauna (hewan) dalam relief Karmawibhangga bukan seka
 
 ## 1. Makna Simbolis Flora
 
-Dalam relief Karmawibhangga, tumbuh-tumbuhan sering kali muncul untuk menunjukkan lokasi cerita, apakah itu di hutan belantara, pedesaan, atau lingkungan istana. Namun, beberapa tumbuhan memiliki makna simbolis yang sangat dalam.
+Dalam relief Karmawibhangga, tumbuh-tumbuhan sering kali muncul untuk menunjukkan lokasi cerita, apakah itu di hutan belantara, pedesaan, atau lingkungan istana. Namun, beberapa tumbuhan memiliki makna simbolis.
 
 ### A. Kalpataru (Pohon Kehidupan/Harapan)
 
-Kalpataru adalah pohon surgawi yang dianggap dapat mengabulkan semua keinginan. Dalam relief, pohon ini sering digambarkan dengan sangat detail, dihiasi dengan perhiasan atau dikelilingi oleh pundi-pundi uang.
+Kalpataru adalah pohon surgawi yang dianggap dapat mengabulkan semua keinginan. Dalam relief, pohon ini sering digambarkan secara rinci, dihiasi dengan perhiasan atau dikelilingi oleh pundi-pundi uang.
 
 - **Makna:** Simbol kemurahan hati dan pahala dari perbuatan baik (karma baik). Kehadirannya menunjukkan bahwa tokoh dalam relief tersebut sedang menikmati buah dari kebajikannya.
 - **Analogi:** Bayangkan Kalpataru sebagai "mesin penjual otomatis ilahi" yang mengeluarkan hadiah berdasarkan koin kebajikan yang telah kamu tabung sebelumnya.
@@ -68,7 +68,7 @@ Bayangkan flora dan fauna ini sebagai **cermin**. Jika sebuah panel relief menun
 
 Alam dalam Karmawibhangga bereaksi terhadap kualitas moral manusia di pusat cerita.
 
-> **Insight Memorable:** Dalam filosofi Karmawibhangga, alam semesta bukanlah panggung yang mati. Ia adalah entitas yang beresonansi dengan tindakan kita. Saat kita menanam kebajikan, "taman" kehidupan kita akan berbunga; saat kita menanam keburukan, "hutan" di sekitar kita akan menjadi gelap dan mengancam.
+> **Insight Memorable:** Dalam filosofi Karmawibhangga, alam di sekitar tokoh tidak netral: keadaannya mengikuti tindakan manusia. Saat kita menanam kebajikan, "taman" kehidupan kita akan berbunga; saat kita menanam keburukan, "hutan" di sekitar kita akan menjadi gelap dan mengancam.
 
 ## 5. Simbolisme Modern
 
@@ -76,10 +76,10 @@ Meskipun kita tidak lagi memahat relief di dinding batu, kita masih menggunakan 
 
 - **Merpati Putih:** Digunakan secara universal sebagai simbol perdamaian (mirip dengan fungsi burung dalam relief untuk menunjukkan kedamaian).
 - **Pohon Beringin:** Dalam konteks Indonesia, sering menjadi simbol pengayoman dan persatuan (sejajar dengan fungsi Kalpataru sebagai pemberi perlindungan).
-- **Kampanye Lingkungan:** Saat kita melihat poster hutan yang gundul dengan hewan yang menderita, secara psikologis kita merasakan adanya "kesalahan moral" manusia, sebuah narasi sebab-akibat yang sangat serupa dengan pesan di kaki Borobudur.
+- **Kampanye Lingkungan:** Saat kita melihat poster hutan yang gundul dengan hewan yang menderita, secara psikologis kita merasakan adanya "kesalahan moral" manusia, sebuah narasi sebab-akibat yang serupa dengan pesan di kaki Borobudur.
 
 ## Latihan Refleksi
 
 Coba amati lingkungan di sekitar kamu hari ini. Jika hidup kamu saat ini adalah sebuah panel relief Karmawibhangga, hewan atau tumbuhan apa yang paling cocok menggambarkan suasana hati atau tindakan kamu minggu ini? Apakah kamu sedang menjadi bunga teratai yang tenang, atau monyet yang gelisah?
 
-**Penting:** Memahami simbolisme flora dan fauna membantu kita menyadari bahwa setiap detail kecil dalam relief Karmawibhangga memiliki tujuan. Tidak ada pahatan yang sia-sia; setiap helai daun dan setiap kepakan sayap burung adalah bagian dari simfoni besar tentang hukum sebab-akibat.
+**Penting:** Memahami simbolisme flora dan fauna membantu kita menyadari bahwa setiap detail kecil dalam relief Karmawibhangga memiliki tujuan. Tidak ada pahatan yang sia-sia; setiap daun dan burung yang dipahat ikut menyampaikan pesan tentang hukum sebab-akibat.

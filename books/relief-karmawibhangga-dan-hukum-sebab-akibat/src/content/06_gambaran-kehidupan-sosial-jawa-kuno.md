@@ -2,11 +2,11 @@
 
 Relief Karmawibhangga pada dasarnya adalah "buku pedoman moral" tentang hukum sebab-akibat, yang dipahatkan di 160 panel. Namun, bagi para arkeolog dan sejarawan, panel-panel ini adalah sebuah **kapsul waktu visual**. Para pemahat Borobudur tidak hanya menggambarkan surga dan neraka, tetapi mereka memotret realitas sosial, gaya hidup, dan suasana lingkungan Jawa pada masa Wangsa Shailendra (sekitar tahun 750-850 M).
 
-Bayangkan relief ini sebagai sebuah "umpan Instagram" dari masa lalu. Melalui detail pahatan yang sangat halus, kita bisa melihat apa yang mereka pakai, bagaimana bentuk rumah mereka, hingga bagaimana mereka berinteraksi satu sama lain ribuan tahun yang lalu.
+Bayangkan relief ini sebagai sebuah "umpan Instagram" dari masa lalu. Melalui detail pahatan yang halus, kita bisa melihat apa yang mereka pakai, bagaimana bentuk rumah mereka, hingga bagaimana mereka berinteraksi satu sama lain lebih dari seribu tahun yang lalu.
 
 ## 1. Busana dan Perhiasan sebagai Simbol Status Sosial
 
-Busana pada masa Jawa Kuno bukan sekadar penutup tubuh, melainkan indikator hierarki sosial yang sangat jelas.
+Busana pada masa Jawa Kuno bukan sekadar penutup tubuh, melainkan indikator hierarki sosial yang jelas.
 
 ### Pakaian Rakyat Jelata vs. Bangsawan
 
@@ -15,14 +15,14 @@ Busana pada masa Jawa Kuno bukan sekadar penutup tubuh, melainkan indikator hier
 
 ### Perhiasan (Ornamen Tubuh)
 
-Detail perhiasan dalam relief Karmawibhangga sangat memukau. Kita dapat menemukan berbagai jenis perhiasan yang masih dikenal hingga saat ini:
+Relief Karmawibhangga menggambarkan perhiasan secara rinci. Kita dapat menemukan berbagai jenis perhiasan yang masih dikenal hingga saat ini:
 
 - **Kelat Bahu (Keyura):** Hiasan yang melingkar di lengan atas.
 - **Gelang (Kankana):** Dipakai di pergelangan tangan dan kaki.
 - **Anting-anting (Kundala):** Berbagai bentuk, dari yang bulat besar hingga yang menggantung.
 - **Kalung (Hara):** Seringkali terdiri dari beberapa untaian manik-manik atau logam mulia.
 
-> **Wawasan Penting:** Kekayaan detail ini menunjukkan bahwa pada abad ke-8, masyarakat Jawa sudah memiliki keahlian metalurgi (pengolahan logam) yang sangat maju untuk menciptakan perhiasan yang rumit dan estetis.
+> **Wawasan Penting:** Kekayaan detail ini menunjukkan bahwa pada abad ke-8, masyarakat Jawa sudah memiliki keahlian metalurgi (pengolahan logam) yang maju untuk menciptakan perhiasan yang rumit dan estetis.
 
 ## 2. Arsitektur Jawa Kuno
 
@@ -43,7 +43,7 @@ Hampir semua rumah tinggal yang digambarkan dalam relief berbentuk **rumah pangg
 
 ## 3. Adat Istiadat dan Aktivitas Keseharian
 
-Relief ini merekam dinamika sosial yang sangat hidup, mulai dari suasana pasar hingga hiburan rakyat.
+Relief ini merekam kehidupan sosial sehari-hari, mulai dari suasana pasar hingga hiburan rakyat.
 
 ### Kehidupan Pasar dan Perdagangan
 

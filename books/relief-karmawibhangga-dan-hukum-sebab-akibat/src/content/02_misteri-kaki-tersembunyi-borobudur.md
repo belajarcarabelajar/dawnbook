@@ -1,12 +1,12 @@
 ## Misteri Kaki Tersembunyi Candi Borobudur
 
-Bayangkan kamu sedang membangun sebuah gedung pencakar langit yang megah, namun di tengah jalan kamu menyadari fondasinya tidak cukup kuat. Beban puncak yang berat terlalu besar untuk ditopangnya. Apa yang akan kamu lakukan? Kamu mungkin akan mempertebal bagian bawahnya, meskipun itu berarti menutupi ukiran indah yang baru saja selesai dipahat.
+Bayangkan kamu sedang membangun sebuah gedung pencakar langit, namun di tengah jalan kamu menyadari fondasinya tidak cukup kuat. Beban puncak yang berat terlalu besar untuk ditopangnya. Apa yang akan kamu lakukan? Kamu mungkin akan mempertebal bagian bawahnya, meskipun itu berarti menutupi ukiran indah yang baru saja selesai dipahat.
 
-Inilah awal mula dari salah satu misteri arkeologi terbesar di dunia: **Kaki Tersembunyi (Hidden Base) Candi Borobudur.** Di balik struktur tambahan yang kita lihat sekarang, terdapat 160 panel relief **Karmawibhangga** yang sengaja "dikubur" oleh para pembangun aslinya.
+Inilah awal mula **Kaki Tersembunyi (Hidden Base) Candi Borobudur.** Di balik struktur tambahan yang kita lihat sekarang, terdapat 160 panel relief **Karmawibhangga** yang sengaja "dikubur" oleh para pembangun aslinya.
 
 ### 1. Penemuan yang Tidak Disengaja (1885)
 
-Selama berabad-abad, dunia tidak tahu bahwa Borobudur menyimpan rahasia di bagian dasarnya. Rahasia ini baru terungkap pada tahun **1885** oleh **Jan Willem Ijzerman**, ketua pertama *Archaeologische Vereeniging* (Perhimpunan Arkeologi) di Yogyakarta.
+Selama berabad-abad, tidak ada yang tahu bahwa bagian dasar Borobudur menyimpan relief. Relief ini baru ditemukan pada tahun **1885** oleh **Jan Willem Ijzerman**, ketua pertama *Archaeologische Vereeniging* (Perhimpunan Arkeologi) di Yogyakarta.
 
 #### Kronologi Penemuan
 
@@ -14,7 +14,7 @@ Selama berabad-abad, dunia tidak tahu bahwa Borobudur menyimpan rahasia di bagia
 2. **Pembongkaran Kecil:** Ia melakukan penggalian kecil di sudut tenggara.
 3. **Kejutan Arkeologis:** Di balik tumpukan batu tersebut, ia menemukan dinding yang dipenuhi dengan relief indah dan prasasti singkat (inskripsi) yang memberikan instruksi bagi para pemahat.
 
-> "Seolah-olah alam semesta ingin menyimpan catatan moralitas manusia di tempat yang paling gelap agar tetap abadi."
+> Relief tentang perbuatan manusia itu ternyata tersimpan di bagian candi yang tidak terlihat.
 
 ### 2. Mengapa Ditutup? Perdebatan Teori
 
@@ -22,7 +22,7 @@ Hingga saat ini, para ahli masih memperdebatkan alasan utama penutupan 160 panel
 
 #### A. Masalah Gravitasi
 
-Secara teknis, Borobudur dibangun di atas bukit alami yang tanahnya tidak stabil. Seiring pembangunan berjalan menuju stupa utama yang sangat berat, terjadi tekanan luar biasa ke arah bawah dan samping.
+Secara teknis, Borobudur dibangun di atas bukit alami yang tanahnya tidak stabil. Seiring pembangunan berjalan menuju stupa utama yang berat, terjadi tekanan besar ke arah bawah dan samping.
 
 **Analogi "Kue Lapis":** Bayangkan sebuah kue lapis yang lembut. Jika kamu menaruh beban berat di puncaknya, bagian bawah kue akan mulai melebar atau "mbleber" ke samping karena tidak kuat menahan beban.
 
@@ -70,12 +70,12 @@ flowchart TD
 
 ### 4. Bagian yang Masih Terbuka
 
-Jika kamu berkunjung ke Borobudur saat ini, kamu masih bisa melihat **4 panel** yang sengaja dibiarkan terbuka di sudut tenggara. Ini dilakukan agar pengunjung dapat menyaksikan sebagian kecil dari keindahan "Kaki Tersembunyi" tersebut tanpa mengorbankan stabilitas struktur.
+Jika kamu berkunjung ke Borobudur saat ini, kamu masih bisa melihat **4 panel** yang sengaja dibiarkan terbuka di sudut tenggara. Ini dilakukan agar pengunjung dapat melihat sebagian kecil relief "Kaki Tersembunyi" tersebut tanpa mengorbankan stabilitas struktur.
 
 ### Pelajaran dari Kaki Tersembunyi
 
-Kisah penutupan relief ini memberikan pelajaran berharga dalam berbagai bidang modern:
+Kisah penutupan relief ini memberikan pelajaran untuk beberapa bidang modern:
 
 1. **Arsitektur & Teknik Sipil:** Pentingnya perhitungan beban fondasi sejak awal perencanaan. Dalam proyek modern, kegagalan memperhitungkan "beban tambahan" bisa berakibat fatal.
 2. **Manajemen Prioritas:** Terkadang, kita harus "mengorbankan" sesuatu yang indah atau berharga (relief) demi tujuan yang lebih besar atau keselamatan jangka panjang (keutuhan candi).
-3. **Arkeologi Digital:** Kasus Borobudur menunjukkan bahwa dokumentasi (seperti foto Kassian Cephas) sangat krusial. Di masa depan, teknologi seperti *LIDAR* dan *3D Scanning* akan menjadi cara kita "melihat" apa yang tersembunyi tanpa harus merusak fisik aslinya.
+3. **Arkeologi Digital:** Kasus Borobudur menunjukkan bahwa dokumentasi (seperti foto Kassian Cephas) itu penting. Di masa depan, teknologi seperti *LIDAR* dan *3D Scanning* akan menjadi cara kita "melihat" apa yang tersembunyi tanpa harus merusak fisik aslinya.

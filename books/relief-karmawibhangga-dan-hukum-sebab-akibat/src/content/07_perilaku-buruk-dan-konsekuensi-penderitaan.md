@@ -1,8 +1,8 @@
 ## Perilaku Buruk dan Konsekuensi Penderitaan
 
-Selamat datang di penelusuran bagian yang paling mencekam namun penuh pelajaran dari relief Karmawibhangga. Jika pada bagian sebelumnya kita telah memahami filosofi hukum karma, kini saatnya kita melihat bagaimana hukum tersebut "divisualisasikan" secara konkret oleh para pemahat Borobudur pada abad ke-8.
+Di antara panel Karmawibhangga, ada deretan adegan pembunuhan, pencurian, dan fitnah yang disusul gambaran penderitaan pelakunya. Jika pada bagian sebelumnya kita telah memahami filosofi hukum karma, kini saatnya kita melihat bagaimana hukum tersebut "divisualisasikan" secara konkret oleh para pemahat Borobudur pada abad ke-8.
 
-Relief-relief ini bukan sekadar gambar mati; mereka adalah peringatan keras tentang bagaimana setiap tindakan negatif, sekecil apa pun, memiliki gaung yang akan kembali kepada pelakunya.
+Relief-relief ini bukan sekadar gambar mati; mereka adalah peringatan bahwa setiap tindakan negatif, sekecil apa pun, akan kembali kepada pelakunya.
 
 ## Sebab di Kiri, Akibat di Kanan
 
@@ -15,7 +15,7 @@ Sebelum kita membedah panel-panel tertentu, penting untuk memahami "bahasa visua
 
 ## 1. Pembunuhan dan Kekejaman terhadap Makhluk Hidup
 
-Pembunuhan (*Pranatipata*) adalah pelanggaran moral pertama dan paling berat dalam etika Buddhis. Di kaki Borobudur, hal ini digambarkan dengan sangat detail.
+Pembunuhan (*Pranatipata*) adalah pelanggaran moral pertama dan paling berat dalam etika Buddhis. Di kaki Borobudur, hal ini digambarkan secara rinci.
 
 ### Deskripsi Panel
 
@@ -24,7 +24,7 @@ Dalam beberapa panel, kita melihat gambaran orang yang sedang berburu, menyembel
 - **Tindakan:** Seorang pria terlihat sedang memegang pisau besar, bersiap memotong leher seekor hewan (seperti babi atau kambing). Di sekitarnya, orang-orang tampak berpesta dan tertawa.
 - **Konsekuensi:** Di sisi kanan panel yang sama, atau pada panel berikutnya, orang tersebut digambarkan sedang direbus dalam kawah besar di neraka, atau dalam kehidupan mendatang ia terlahir sebagai sosok yang berumur pendek dan penuh penyakit.
 
-**Analogi Sederhana:** Bayangkan kamu melempar bola kasti ke tembok beton dengan tenaga penuh. Semakin keras kamu melempar (niat buruk), semakin keras pula bola itu memantul kembali ke arah kamu. Penderitaan dalam relief ini adalah "pantulan" dari energi negatif yang dilepaskan saat mencabut nyawa.
+**Analogi Sederhana:** Bayangkan kamu melempar bola kasti ke tembok beton dengan tenaga penuh. Semakin keras kamu melempar (niat buruk), semakin keras pula bola itu memantul kembali ke arah kamu. Penderitaan dalam relief ini adalah "pantulan" dari perbuatan mencabut nyawa.
 
 ## 2. Pencurian dan Ketamakan
 
