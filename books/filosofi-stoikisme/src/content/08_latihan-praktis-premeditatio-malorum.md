@@ -16,7 +16,7 @@ Latihan ini bukan tentang menjadi pesimis atau menyebarkan aura negatif. Sebalik
 
 ## Mengapa Kita Melakukannya?
 
-Ada dua alasan psikologis utama mengapa teknik yang berusia ribuan tahun ini tetap relevan hingga era modern:
+Ada dua alasan psikologis utama mengapa teknik yang berusia ribuan tahun ini masih relevan hingga era modern:
 
 ### 1\. Menghilangkan Efek Kejut (The Element of Surprise)
 
@@ -92,7 +92,7 @@ Misalnya, koneksi internet kamu mati saat presentasi. Itu kejadian negatif, jadi
 
 ### B. Hubungan Asmara
 
-**Latihan:** Bayangkan orang yang kamu cintai suatu saat akan pergi, baik karena perpisahan atau kematian (sejalan dengan *Memento Mori*). **Hasil:** Bukannya menjadi sedih, kamu justru akan berhenti bermain HP saat makan malam bersama mereka dan benar-benar menghargai kehadiran mereka malam ini.
+**Latihan:** Bayangkan orang yang kamu cintai suatu saat akan pergi, baik karena perpisahan atau kematian (sejalan dengan *Memento Mori*). **Hasil:** Bukannya menjadi sedih, kamu akan berhenti bermain HP saat makan malam bersama mereka dan benar-benar menghargai kehadiran mereka malam ini.
 
 ### C. Perjalanan Udara
 

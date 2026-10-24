@@ -47,7 +47,7 @@ Salah satu analogi paling terkenal dari tokoh Stoik awal (Zeno atau Chrysippus) 
 	- **Pilihan A:** Berlari mengikuti gerobak dengan sukarela. Ia tetap ditarik, tetapi ia bergerak dengan anggun dan tanpa rasa sakit.
 		- **Pilihan B:** Melawan, menggonggong, dan mencoba diam di tempat. Hasilnya? Ia tetap akan terseret oleh gerobak tersebut, namun dengan luka-luka dan penderitaan.
 
-*Dalam hidup kamu, momen apa yang terasa seperti kamu sedang "menolak terseret gerobak" dan justru menyakiti diri sendiri?*
+*Dalam hidup kamu, momen apa yang terasa seperti kamu sedang "menolak terseret gerobak" dan akhirnya menyakiti diri sendiri?*
 
 ## 4\. Kehendak vs. Realitas
 

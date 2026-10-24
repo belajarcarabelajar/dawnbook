@@ -11,7 +11,7 @@ Langkah awal untuk melatih ketajaman berpikir adalah memisahkan antara **korelas
 * **Korelasi** merujuk pada hubungan statistik ketika dua variabel cenderung bergerak bersamaan. Misalnya, jika variabel $A$ meningkat, variabel $B$ juga ikut naik (korelasi positif), atau sebaliknya (korelasi negatif). Namun, gerakan bersama ini tidak menjamin adanya hubungan sebab-akibat.
 * **Kausalitas**, di sisi lain, menuntut adanya hubungan langsung: satu peristiwa (sebab) secara nyata memicu lahirnya peristiwa lain (akibat).
 
-> **Analogi Sederhana:** Bayangkan kamu membaca data bahwa wilayah dengan jumlah pos pemadam kebakaran melimpah selalu mencatat kerugian material akibat kebakaran yang sangat tinggi. Apakah itu berarti keberadaan petugas pemadam justru memicu kerugian? Jelas tidak. Keduanya tampak berhubungan karena dipengaruhi oleh variabel ketiga (*confounding variable*), yaitu **skala kebakaran**. Kebakaran hebat pasti membutuhkan lebih banyak petugas sekaligus melahirkan kerugian yang lebih besar.
+> **Analogi Sederhana:** Bayangkan kamu membaca data bahwa wilayah dengan jumlah pos pemadam kebakaran melimpah selalu mencatat kerugian material akibat kebakaran yang sangat tinggi. Apakah itu berarti keberadaan petugas pemadam memicu kerugian? Jelas tidak. Keduanya tampak berhubungan karena dipengaruhi oleh variabel ketiga (*confounding variable*), yaitu **skala kebakaran**. Kebakaran hebat pasti membutuhkan lebih banyak petugas sekaligus melahirkan kerugian yang lebih besar.
 
 ### Mengapa Kita Sering Keliru?
 

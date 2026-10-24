@@ -6,7 +6,7 @@ Kenapa cara pengukuran ini penting? Karena yang terekam bukan ingatan yang cende
 
 ### Korelasi yang Kokoh dan Konsisten
 
-Temuan ini bukan cerita dari satu aplikasi saja. Jauh sebelum ponsel pintar ada, Ed Diener dan Robert Biswas-Diener sudah menelusuri ratusan studi tentang uang dan kesejahteraan. Review komprehensif mereka pada 2002 menemukan pola yang konsisten di berbagai penjuru dunia. Di dalam satu negara, korelasi antara pendapatan dan kesejahteraan positif. Di antarnegara, ada jurang kesejahteraan yang lebar antara negara kaya dan negara miskin. Dan yang paling penting bagimu: efek uang paling kuat justru terasa pada lapisan berpendapatan rendah.
+Temuan ini bukan cerita dari satu aplikasi saja. Jauh sebelum ponsel pintar ada, Ed Diener dan Robert Biswas-Diener sudah menelusuri ratusan studi tentang uang dan kesejahteraan. Review komprehensif mereka pada 2002 menemukan pola yang konsisten di berbagai penjuru dunia. Di dalam satu negara, korelasi antara pendapatan dan kesejahteraan positif. Di antarnegara, ada jurang kesejahteraan yang lebar antara negara kaya dan negara miskin. Dan yang paling penting bagimu: efek uang paling kuat terasa pada lapisan berpendapatan rendah.
 
 Jadi kalau ada yang bilang "orang kaya dan orang miskin sama-sama bahagia kok", data tidak mendukungnya sebagai aturan umum. Kecenderungannya jelas, berulang, dan muncul di banyak konteks: pendapatan yang lebih tinggi berjalan beriringan dengan kesejahteraan yang lebih tinggi.
 
@@ -32,7 +32,7 @@ Justru dari kerangka sederhana ini temuan Killingsworth terasa mengejutkan. Kurv
 
 Ada dua situasi yang perlu kamu pahami secara berbeda. Di pendapatan rendah, uang bekerja sebagai pembebas. Rupiah tambahan langsung berubah menjadi rasa lega: sewa terbayar, anak sekolah dengan tenang, sakit tidak otomatis berarti utang baru. Uang menghapus masalah yang nyata dan menyita pikiran, dan itulah kenapa efeknya terasa begitu besar.
 
-Di pendapatan tinggi, efek per rupiah makin kecil, tapi tidak nol. Uang tetap membeli sesuatu: lebih banyak pilihan, kendali atas waktu, bantalan saat keadaan buruk datang. Ia tidak lagi menghapus masalah hidup, hanya menghaluskan gesekannya. Karena itu temuan ini sama sekali bukan "uang tidak penting". Data justru berkata uang penting di semua level, hanya intensitasnya berubah. Yang keliru justru dua kutub ekstrem: klaim bahwa uang tak ada hubungannya dengan bahagia, dan klaim bahwa bahagia bisa dibeli penuh dengan uang.
+Di pendapatan tinggi, efek per rupiah makin kecil, tapi tidak nol. Uang tetap membeli sesuatu: lebih banyak pilihan, kendali atas waktu, bantalan saat keadaan buruk datang. Ia tidak lagi menghapus masalah hidup, hanya menghaluskan gesekannya. Karena itu temuan ini sama sekali bukan "uang tidak penting". Data berkata uang penting di semua level, hanya intensitasnya berubah. Yang keliru adalah dua kutub ekstrem: klaim bahwa uang tak ada hubungannya dengan bahagia, dan klaim bahwa bahagia bisa dibeli penuh dengan uang.
 
 ## Poin Kunci
 

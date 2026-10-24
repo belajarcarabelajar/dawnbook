@@ -60,7 +60,7 @@ flowchart TD
 
 Lingkaran ini terus berputar selama organisasi masih berdiri. Di setiap putaran, hasil aktual dibandingkan dengan rencana awal. Jika penyimpangannya melewati ambang batas, rencana dievaluasi dan diperbaiki (kembali ke tahap *Planning*); jika tidak, rencana dilanjutkan dan dijalankan dalam skala yang lebih besar.
 
-Sebagai contoh, jika sebuah perusahaan ponsel pintar tetap menggunakan rencana tahun 2010 untuk tahun 2024 tanpa memedulikan hasil evaluasi pasar, mereka tidak akan mampu bertahan di tengah persaingan.
+Sebagai contoh, jika sebuah perusahaan ponsel pintar masih menggunakan rencana tahun 2010 untuk tahun 2024 tanpa memedulikan hasil evaluasi pasar, mereka tidak akan mampu bertahan di tengah persaingan.
 
 ## 4. Peluncuran Produk Startup
 

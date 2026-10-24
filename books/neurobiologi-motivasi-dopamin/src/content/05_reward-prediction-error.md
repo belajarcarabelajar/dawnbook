@@ -1,6 +1,6 @@
 ## Reward Prediction Error
 
-Pernahkah kamu memesan secangkir kopi di kedai baru tanpa ekspektasi tinggi, lalu terkejut karena rasanya sangat luar biasa? Kamu merasa sangat senang, bahkan mungkin ingin kembali lagi besok. Sebaliknya, bayangkan kamu pergi ke restoran berbintang lima dengan ekspektasi selangit, namun makanannya terasa biasa saja. Kamu merasa kecewa, padahal makanannya tidak buruk.
+Pernahkah kamu memesan secangkir kopi di kedai baru tanpa ekspektasi tinggi, lalu terkejut karena rasanya sangat luar biasa? Kamu merasa sangat senang dan mungkin ingin kembali lagi besok. Sebaliknya, bayangkan kamu pergi ke restoran berbintang lima dengan ekspektasi selangit, namun makanannya terasa biasa saja. Kamu merasa kecewa, padahal makanannya tidak buruk.
 
 Fenomena ini bukan sekadar masalah selera, melainkan hasil dari perhitungan matematis yang dilakukan otakmu setiap saat. Inilah yang disebut dengan **Reward Prediction Error (RPE)** atau Error Prediksi Imbalan.
 

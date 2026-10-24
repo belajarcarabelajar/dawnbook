@@ -17,11 +17,11 @@ Berpikir kritis pada dasarnya adalah **memanggil System 2 dengan sengaja**. Kamu
 
 Pertanyaan terakhir yang paling sulit dan paling penting. Kita paling gampang ditipu oleh kabar yang kita *harap* benar.
 
-Penelitian Pennycook dan Rand (2019) menemukan bahwa orang yang lebih terbiasa berpikir analitis justru lebih baik membedakan berita benar dari palsu, dan ini berlaku lintas pandangan politik. Artinya masalahnya sering bukan "kubu mana yang kamu bela", tapi seberapa sering kamu mau berhenti dan memeriksa. Pengetahuan yang relevan juga membantu: makin kamu paham topiknya, makin mudah mencium yang janggal.
+Penelitian Pennycook dan Rand (2019) menemukan bahwa orang yang lebih terbiasa berpikir analitis lebih baik membedakan berita benar dari palsu, dan ini berlaku lintas pandangan politik. Artinya masalahnya sering bukan "kubu mana yang kamu bela", tapi seberapa sering kamu mau berhenti dan memeriksa. Pengetahuan yang relevan juga membantu: makin kamu paham topiknya, makin mudah mencium yang janggal.
 
 ### Baca Lateral, Bukan Vertikal
 
-Cara kebanyakan orang menilai sebuah situs adalah dengan **membaca vertikal**: tetap di halaman itu, lihat desainnya rapi atau tidak, ada logo atau tidak, bahasanya meyakinkan atau tidak. Masalahnya, tampilan meyakinkan itu justru paling gampang dipalsukan. Situs abal-abal bisa terlihat lebih profesional daripada situs kampus.
+Cara kebanyakan orang menilai sebuah situs adalah dengan **membaca vertikal**: tetap di halaman itu, lihat desainnya rapi atau tidak, ada logo atau tidak, bahasanya meyakinkan atau tidak. Masalahnya, tampilan meyakinkan itulah yang paling gampang dipalsukan. Situs abal-abal bisa terlihat lebih profesional daripada situs kampus.
 
 Wineburg dan McGrew (2019) mempelajari bagaimana pemeriksa fakta profesional bekerja, lalu membandingkannya dengan mahasiswa dan sejarawan. Hasilnya: pemeriksa fakta hampir tidak pernah menilai situs dari isinya sendiri. Mereka **membaca lateral**. Begitu mendarat di sebuah halaman, mereka langsung membuka tab baru dan bertanya ke internet: "Sebenarnya situs ini apa? Siapa yang mendanainya? Apa kata sumber lain tentang mereka?"
 
@@ -59,10 +59,10 @@ Beri jeda beberapa detik. Lihat beberapa hasil, bukan cuma yang pertama. Baca sa
 
 Semua teori di atas tidak berguna kalau tidak masuk ke keseharian. Beberapa kebiasaan praktis, terutama untuk lalu lintas pesan di Indonesia:
 
-- **Curiga pada kabar yang minta cepat disebar.** "Sebarkan sebelum dihapus!" adalah teknik menekan supaya kamu tidak sempat berpikir. Justru itu sinyal untuk berhenti.
+- **Curiga pada kabar yang minta cepat disebar.** "Sebarkan sebelum dihapus!" adalah teknik menekan supaya kamu tidak sempat berpikir. Itulah sinyal untuk berhenti.
 - **Cek dulu sebelum meneruskan ke grup keluarga.** Kamu tidak wajib jadi orang pertama yang membagikan. Lebih baik telat tapi benar daripada cepat tapi salah.
 - **Waspadai pesan berantai tanpa sumber jelas.** Kalau tidak ada nama media, tanggal, atau tautan yang bisa dicek, anggap itu belum terverifikasi.
-- **Curiga pada emosi kuat di dirimu sendiri.** Kalau sebuah kabar bikin kamu langsung marah atau langsung senang, itu justru saat paling rawan. Emosi kuat adalah tanda untuk berhenti, bukan untuk membagikan.
+- **Curiga pada emosi kuat di dirimu sendiri.** Kalau sebuah kabar bikin kamu langsung marah atau langsung senang, itulah saat paling rawan. Emosi kuat adalah tanda untuk berhenti, bukan untuk membagikan.
 - **Kabari pengirimnya baik-baik kalau ternyata hoax.** Tujuannya memutus rantai, bukan mempermalukan. Sering pengirim awal juga korban.
 
 Literasi digital bukan berarti kamu curiga pada segala hal sampai lelah sendiri. Justru sebaliknya: dengan sedikit kebiasaan memeriksa, kamu bisa lebih tenang, karena kamu tahu cara mengecek dan tidak lagi digiring oleh setiap kabar yang lewat.
@@ -71,4 +71,4 @@ Literasi digital bukan berarti kamu curiga pada segala hal sampai lelah sendiri.
 
 Berpikir kritis bukan bakat langka, melainkan kebiasaan memanggil System 2 dengan sengaja: bertanya siapa sumbernya, apa buktinya, apa motifnya, dan kenapa kamu percaya. Alih-alih menilai situs dari tampilannya (membaca vertikal), pemeriksa fakta profesional **membaca lateral**, keluar dari halaman untuk melihat apa kata sumber lain. Metode **SIFT** memberi empat gerakan yang bisa diulang: berhenti, selidiki sumber, cari liputan lebih baik, dan lacak klaim ke konteks aslinya. Tambahkan **click restraint**, kebiasaan menahan diri dari hasil pertama, dan sejumlah kebiasaan harian seperti mengecek sebelum meneruskan ke grup keluarga. Penelitian menunjukkan kebiasaan analitis dan pengetahuan yang relevan memang meningkatkan kemampuan membedakan yang benar dari yang palsu.
 
-Tapi kebiasaan memeriksa perlu alat yang lebih konkret, dan pertahanan yang paling kuat justru dibangun *sebelum* hoax datang. Di modul terakhir, **Verifikasi Fakta dan Inokulasi**, kita akan masuk ke teknik memverifikasi klaim dan gambar langkah demi langkah, lalu ke gagasan bahwa kamu bisa "divaksin" melawan manipulasi dengan mengenali polanya lebih dulu.
+Tapi kebiasaan memeriksa perlu alat yang lebih konkret, dan pertahanan yang paling kuat dibangun *sebelum* hoax datang. Di modul terakhir, **Verifikasi Fakta dan Inokulasi**, kita akan masuk ke teknik memverifikasi klaim dan gambar langkah demi langkah, lalu ke gagasan bahwa kamu bisa "divaksin" melawan manipulasi dengan mengenali polanya lebih dulu.

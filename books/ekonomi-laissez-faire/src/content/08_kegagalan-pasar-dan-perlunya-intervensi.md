@@ -31,7 +31,7 @@ Jika $\text{SMC} \neq \text{SMB}$, maka terjadilah kegagalan pasar. Mari kita be
   - **Masalah:** Manfaat individu (*Private Benefit*) lebih rendah dari manfaat total masyarakat (*Social Benefit*).
   - **Dampak:** Konsumsi yang kurang (*underconsumption*) dari tingkat ideal masyarakat.
 
-> **Analogi:** Bayangkan kamu sedang menonton konser. Jika penonton di depanmu berdiri agar melihat lebih jelas, kamu terpaksa ikut berdiri. Pada akhirnya semua orang berdiri, merasa lelah, dan pandangan tetap terhalang. Inilah kegagalan koordinasi akibat tindakan individu.
+> **Analogi:** Bayangkan kamu sedang menonton konser. Jika penonton di depanmu berdiri agar melihat lebih jelas, kamu terpaksa ikut berdiri. Pada akhirnya semua orang berdiri, merasa lelah, dan pandangan masih terhalang. Inilah kegagalan koordinasi akibat tindakan individu.
 
 ### 3. Barang Publik dan Masalah "Penumpang Gelap"
 
@@ -109,7 +109,7 @@ Krisis ini memicu perdebatan mendalam: Apakah pasar gagal karena minimnya regula
 
 ### Menemukan Titik Keseimbangan
 
-Meskipun kegagalan pasar menjadi landasan bagi intervensi publik, kita harus tetap mewaspadai **Kegagalan Pemerintah (Government Failure)**. Hambatan birokrasi dan kebijakan yang ditunggangi kepentingan politik kerap memperburuk distorsi pasar.
+Meskipun kegagalan pasar menjadi landasan bagi intervensi publik, kita harus mewaspadai **Kegagalan Pemerintah (Government Failure)**. Hambatan birokrasi dan kebijakan yang ditunggangi kepentingan politik kerap memperburuk distorsi pasar.
 
 Tantangan utama dalam ekonomi Laissez-faire modern adalah merancang tata kelola intervensi yang paling minim distorsi namun efektif melindungi kesejahteraan masyarakat.
 

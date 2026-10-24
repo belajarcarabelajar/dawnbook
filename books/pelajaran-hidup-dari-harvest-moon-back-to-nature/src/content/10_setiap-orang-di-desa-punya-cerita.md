@@ -16,7 +16,7 @@ Sekarang bayangkan kamu lupa, atau merasa itu bukan urusanmu. Panen tetap berjal
 
 Musim dingin menyimpan satu adegan lagi untuk Cliff. Pada hari bersalju, lewat pukul 10 pagi, ia bisa jatuh pingsan di Rose Square dan dibawa ke Clinic untuk pulih. Di salju tempatnya jatuh tertinggal sebuah foto. Pungut foto itu, kembalikan setelah ia membaik, dan Cliff akan berterima kasih.
 
-Panduan resmi dari Prima tidak menjelaskan foto apa itu, dan tidak pernah menyebut Cliff sedih atau sakit hati. Kamu pun tidak perlu tahu. Mengembalikan barang milik seseorang tidak menuntutmu memahami seluruh kisahnya, apalagi menebak isi hatinya lalu memberinya label.
+Panduan resmi dari Prima tidak menjelaskan foto apa itu, dan tidak pernah menyebut Cliff sedih atau sakit hati. Kamu juga tidak perlu tahu. Mengembalikan barang milik seseorang tidak menuntutmu memahami seluruh kisahnya, apalagi menebak isi hatinya lalu memberinya label.
 
 ### Angka yang Bukan Potret Satu Orang
 
@@ -44,7 +44,7 @@ Dalam cerita ini, waktu sama pentingnya dengan niat baik. Datang terlalu pagi, d
 
 Kai hanya datang ke desa pada musim panas dan membuka Kai's Seaside Lodge di pantai. Saat kamu memanen jagung (*Corn*) untuk pertama kali, ia bertanya berapa harga yang kamu minta: 50, 100, atau 200 G. Harga normalnya 100 G, dan itu sudah adil.
 
-Minta 200 G, dan kamu tidak mendapat teman baru. Minta 50 G, separuh harga normal, dan Kai senang; jalan menuju persahabatan dengannya pun terbuka.
+Minta 200 G, dan kamu tidak mendapat teman baru. Minta 50 G, separuh harga normal, dan Kai senang; jalan menuju persahabatan dengannya juga terbuka.
 
 Selisih 50 G tetap uang sungguhan bagi ladangmu. Namun pilihan ini bukan soal untung atau rugi. Ini keputusan untuk tidak memasang harga setinggi mungkin pada setiap transaksi, apalagi pada pertemuan pertama dengan orang yang baru kamu kenal.
 

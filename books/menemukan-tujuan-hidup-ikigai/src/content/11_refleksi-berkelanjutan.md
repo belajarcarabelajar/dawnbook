@@ -50,6 +50,6 @@ Setelah beberapa tahun, Ayu mulai merasa hampa. Kesuksesan finansial dan karier 
 
 Ayu mengambil inisiatif untuk mengikuti lokakarya desain UX/UI dan menjadi sukarelawan di organisasi nirlaba yang berfokus pada pendidikan anak. Di sana, ia menemukan kepuasan luar biasa saat merancang solusi yang benar-benar memecahkan masalah nyata dan memberikan dampak sosial.
 
-Ikigainya pun berevolusi. Kini, fokus utamanya adalah merancang pengalaman pengguna yang intuitif dan bermakna untuk platform pendidikan digital bagi anak-anak kurang beruntung. Sebagai desainer produk di sebuah startup edutech, Ayu berhasil menyelaraskan kecintaannya pada desain, keahlian UX/UI yang dimiliki, kepedulian terhadap pendidikan anak, dengan penghasilan yang memadai.
+Ikigainya juga berevolusi. Kini, fokus utamanya adalah merancang pengalaman pengguna yang intuitif dan bermakna untuk platform pendidikan digital bagi anak-anak kurang beruntung. Sebagai desainer produk di sebuah startup edutech, Ayu berhasil menyelaraskan kecintaannya pada desain, keahlian UX/UI yang dimiliki, kepedulian terhadap pendidikan anak, dengan penghasilan yang memadai.
 
 Kisah Ayu menegaskan bahwa Ikigai selalu berkembang melalui siklus refleksi, adaptasi, dan komitmen terhadap pertumbuhan diri. Proses penyempurnaan ini menuntut kita untuk selalu bereksperimen, mendengarkan intuisi, serta menjaga fleksibilitas agar tujuan hidup selalu selaras dengan jati diri yang paling autentik.

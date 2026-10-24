@@ -50,6 +50,6 @@ Semua itu soal uang yang bertambah. Saat uang terlalu sedikit, yang disita bukan
 
 ## Intisari
 
-- Studi klasik Brickman, Coates, dan Janoff-Bulman (1978) menemukan pemenang lotere Illinois tidak lebih bahagia dari kelompok kontrol dan justru lebih sedikit menikmati hal-hal kecil sehari-hari, bukti bahwa sensasi besar menenggelamkan sensasi harian.
+- Studi klasik Brickman, Coates, dan Janoff-Bulman (1978) menemukan pemenang lotere Illinois tidak lebih bahagia dari kelompok kontrol dan malah lebih sedikit menikmati hal-hal kecil sehari-hari, bukti bahwa sensasi besar menenggelamkan sensasi harian.
 - Focusing illusion membuat prediksi kebahagiaan kita meleset: saat membayangkan hidup lebih kaya, pikiran mengunci perhatian pada hal yang berubah dan mengabaikan jam-jam rutin yang tidak berubah.
 - Koreksi satu mitos: adaptasi tidak berarti kembali ke titik nol. Ia kuat tapi tidak total, sebagian peristiwa meninggalkan jejak permanen, dan korelasi pendapatan dengan kesejahteraan masih ada.

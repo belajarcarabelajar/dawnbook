@@ -6,7 +6,7 @@ Sementara itu, ladangmu belum disiram, ayam belum diberi makan, dan sebongkah ba
 
 ### Ladang Rapi, Kalender Kosong
 
-Buku strategi resmi terbitan Prima justru menghitung sebaliknya. Menanam dan memanen memang penting, tetapi hubungan dengan warga desa sama pentingnya. Warga yang menyukaimu memberimu barang yang tidak bisa kamu dapat dengan cara lain. Yang sudah akrab bahkan membagikan resep, dan setiap resep yang berhasil kamu masak ikut menaikkan persentase penyelesaian gim. Jalan termudah untuk disukai pun tidak rumit: datang ke kegiatan desa, keluar sesekali dari ladang, dan bersenang-senang.
+Buku strategi resmi terbitan Prima justru menghitung sebaliknya. Menanam dan memanen memang penting, tetapi hubungan dengan warga desa sama pentingnya. Warga yang menyukaimu memberimu barang yang tidak bisa kamu dapat dengan cara lain. Yang sudah akrab juga membagikan resep, dan setiap resep yang berhasil kamu masak ikut menaikkan persentase penyelesaian gim. Jalan termudah untuk disukai pun tidak rumit: datang ke kegiatan desa, keluar sesekali dari ladang, dan bersenang-senang.
 
 Yang menuntut siasat adalah waktunya. Kebanyakan acara berlangsung sepanjang hari, jadi pekerjaan ladang sebaiknya beres sebelum kamu berangkat; batas jam datangnya sudah dibahas di bab 3. Beberapa festival baru dimulai malam hari, jadi ada baiknya menyimpan permainan sehari sebelumnya.
 

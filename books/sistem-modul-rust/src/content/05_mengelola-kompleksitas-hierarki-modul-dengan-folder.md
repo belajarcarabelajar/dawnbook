@@ -105,7 +105,7 @@ pub mod compression; // Mencari file di media/image/compression.rs
 pub fn upload(name: &str) { ... }
 ```
 
-Kalau diperhatikan, struktur folder di komputermu sebenarnya membentuk pola sebuah "pohon" (tree). Sistem modul Rust mencerminkan struktur pohon ini secara identik.
+Struktur folder di komputermu sebenarnya membentuk pola sebuah "pohon" (tree). Sistem modul Rust mencerminkan struktur pohon ini secara identik.
 
 ### Pengembangan Game Engine
 

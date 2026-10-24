@@ -24,7 +24,7 @@ Istilah **filter bubble** dipopulerkan Eli Pariser pada 2011. Idenya sederhana: 
 
 Bahayanya halus. Kamu tidak merasa sedang disaring. Bagimu, gelembung itu terasa seperti "seluruh dunia", karena kamu tidak melihat apa yang disembunyikan. Yang tak pernah muncul di layar terasa seolah tidak ada.
 
-Personalisasi ini memberi makan bias konfirmasi. Kalau kamu cenderung mencari yang membenarkan keyakinanmu, dan platform dengan senang hati menyodorkan lebih banyak dari itu, lingkaran tertutup pun terbentuk: kamu memberi sinyal, algoritma memantulkan balik, kamu makin yakin.
+Personalisasi ini memberi makan bias konfirmasi. Kalau kamu cenderung mencari yang membenarkan keyakinanmu, dan platform dengan senang hati menyodorkan lebih banyak dari itu, terbentuklah lingkaran tertutup: kamu memberi sinyal, algoritma memantulkan balik, kamu makin yakin.
 
 ### Ruang gema
 
@@ -57,7 +57,7 @@ Selain apa yang disaring, **bagaimana informasi mengalir** juga penting. Ekosist
 - **Grup tertutup**: ruang seperti WhatsApp dan Telegram sulit dijangkau koreksi. Hoaks beredar di antara orang-orang yang saling percaya, jauh dari mata pemeriksa fakta, dan bantahan jarang ikut masuk.
 - **Bot dan akun palsu**: jangkauan bisa dibesarkan secara artifisial. Ratusan akun otomatis membuat sebuah klaim tampak jauh lebih populer dan luas daripada kenyataannya.
 
-Kombinasi kecepatan dan ruang tertutup ini berarti hoaks sering menang dalam soal waktu. Ia sudah menyebar dan diyakini sebelum koreksi sempat mengejar. Dan bahkan ketika koreksi datang, ia harus menembus dinding grup tertutup yang tidak menghendaki kehadirannya.
+Kombinasi kecepatan dan ruang tertutup ini berarti hoaks sering menang dalam soal waktu. Ia sudah menyebar dan diyakini sebelum koreksi sempat mengejar. Dan sekalipun koreksi datang, ia harus menembus dinding grup tertutup yang tidak menghendaki kehadirannya.
 
 ### Hoaks yang murah dan menguntungkan dalam ekonomi perhatian
 

@@ -5,7 +5,7 @@ Bayangkan kamu dan rekanmu tertangkap oleh polisi karena dicurigai melakukan kej
 1. Jika kamu **mengaku** dan rekanmu **diam**, kamu bebas, dan rekanmu dipenjara 10 tahun.
 2. Jika kamu **diam** dan rekanmu **mengaku**, kamu dipenjara 10 tahun, dan rekanmu bebas.
 3. Jika kalian berdua **mengaku**, kalian berdua dipenjara 5 tahun.
-4. Jika kalian berdua tetap **diam**, kalian berdua hanya dipenjara 1 tahun (atas tuduhan ringan).
+4. Jika kalian berdua sama-sama **diam**, kalian berdua hanya dipenjara 1 tahun (atas tuduhan ringan).
 
 Apa yang akan kamu lakukan? Inilah inti dari **Dilema Tahanan**, sebuah paradoks dalam Teori Permainan yang menunjukkan mengapa kerja sama sulit dicapai bahkan ketika itu menguntungkan semua pihak.
 
@@ -24,7 +24,7 @@ Untuk menganalisis ini secara ilmiah, kita menggunakan **Bentuk Normal** atau ma
 
 Mari kita bedah pola pikir Tahanan A secara rasional:
 
-1. **Jika Tahanan B tetap diam:** Pilihan terbaik saya adalah **Mengaku** (0 tahun daripada 1 tahun).
+1. **Jika Tahanan B diam:** Pilihan terbaik saya adalah **Mengaku** (0 tahun daripada 1 tahun).
 2. **Jika Tahanan B mengaku:** Pilihan terbaik saya juga **Mengaku** (5 tahun daripada 10 tahun).
 
 Apa pun yang dilakukan Tahanan B, pilihan terbaik bagi Tahanan A adalah **Mengaku**. Dalam Teori Permainan, ini disebut sebagai **Strategi Dominan**. Karena Tahanan B juga memiliki logika yang sama, mereka berdua akhirnya akan mengaku.
@@ -77,6 +77,6 @@ Jika secara logika kita akan selalu berakhir pada pengkhianatan, bagaimana masya
 - **Reputasi:** Dalam komunitas kecil, pengkhianat akan dikucilkan.
 - **Kontrak Hukum:** Pemerintah menciptakan aturan yang menghukum mereka yang "berkhianat" (seperti denda bagi perusahaan yang melakukan monopoli).
 
-Pernahkah kamu berada dalam situasi kerja kelompok ketika kamu melakukan semua pekerjaan sementara temanmu mendapatkan nilai yang sama tanpa berusaha? Itulah Dilema Tahanan dalam kehidupan sekolah! Mengapa kamu tetap mau bekerja sama meskipun ada risiko temanmu menjadi "free rider"?
+Pernahkah kamu berada dalam situasi kerja kelompok ketika kamu melakukan semua pekerjaan sementara temanmu mendapatkan nilai yang sama tanpa berusaha? Itulah Dilema Tahanan dalam kehidupan sekolah! Mengapa kamu masih mau bekerja sama meskipun ada risiko temanmu menjadi "free rider"?
 
 > **Penting:** Kepercayaan (Trust) adalah komoditas ekonomi yang paling berharga. Tanpa mekanisme untuk mengatasi Dilema Tahanan, kolaborasi manusia akan runtuh.

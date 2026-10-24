@@ -26,12 +26,12 @@ Bayangkan sebuah kue ulang tahun. Jika kamu mengambil potongan yang lebih besar,
 
 **Contoh Klasik:**
 
-- **Catur atau Poker:** Dalam turnamen poker, total uang di meja tetap. Jika kamu memenangkan 1.000 dolar, uang itu berasal dari kantong pemain lain.
+- **Catur atau Poker:** Dalam turnamen poker, total uang di meja tidak berubah. Jika kamu memenangkan 1.000 dolar, uang itu berasal dari kantong pemain lain.
 - **Pasar Berjangka (Futures Market):** Dalam perdagangan derivatif, setiap rupiah yang dihasilkan oleh seorang *trader* adalah rupiah yang hilang dari *trader* lainnya.
 
 ## 2. Permainan Non-Zero-Sum Membangun Nilai Bersama
 
-**Permainan Non-Zero-Sum** adalah situasi di mana total keuntungan dan kerugian dari para pemain tidak berjumlah nol. Di sini, interaksi dapat menghasilkan nilai tambah (**Positive-Sum**) atau justru menghancurkan nilai (**Negative-Sum**).
+**Permainan Non-Zero-Sum** adalah situasi di mana total keuntungan dan kerugian dari para pemain tidak berjumlah nol. Di sini, interaksi dapat menghasilkan nilai tambah (**Positive-Sum**) atau menghancurkan nilai (**Negative-Sum**).
 
 ### Karakteristik Utama Permainan Non-Zero-Sum
 

@@ -44,7 +44,7 @@ $$
 
 #### Nutrisi Penunjang Ketahanan Stres
 
-- **Kompleks Karbohidrat (Gandum utuh, ubi):** Menjaga kadar gula darah tetap stabil.
+- **Kompleks Karbohidrat (Gandum utuh, ubi):** Menjaga kadar gula darah stabil.
 - **Omega-3 (Ikan, biji chia):** Mengurangi peradangan di otak yang dipicu oleh stres.
 - **Magnesium (Bayam, cokelat hitam):** Sering disebut sebagai "mineral relaksasi" karena membantu otot dan saraf rileks.
 - **Probiotik (Yogurt, tempe):** Menjaga kesehatan mikroba usus yang berkomunikasi langsung dengan otak melalui saraf vagus.

@@ -55,7 +55,7 @@ Jika kamu merasa nyeri bertambah parah pada hari kelima, jangan cemas. Itu adala
 
 Sebagai gambaran praktis, mari kita lihat bagaimana Budi, seorang pasien dewasa, mengelola jadwal pemulihannya di rumah:
 
-- Budi memasang alarm ponsel setiap 6 jam sekali untuk meminum parasetamol secara teratur, bahkan saat tengah malam. Dia tidak ingin melewatkan jadwal obat dan terbangun dalam kondisi kesakitan.
+- Budi memasang alarm ponsel setiap 6 jam sekali untuk meminum parasetamol secara teratur, termasuk saat tengah malam. Dia tidak ingin melewatkan jadwal obat dan terbangun dalam kondisi kesakitan.
 - Dia memanfaatkan 'jendela kesempatan' dengan menunggu sekitar 30 menit setelah minum obat pereda nyeri sebelum mulai menyantap makanan lunak.
 - Budi juga mencatat setiap waktu minum obat di selembar kertas untuk melacak konsumsinya agar tidak melebihi batas aman harian:
 

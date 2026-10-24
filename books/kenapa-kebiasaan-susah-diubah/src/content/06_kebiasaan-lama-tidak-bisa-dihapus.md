@@ -12,7 +12,7 @@ Kabar yang perlu kamu terima adalah ini: kebiasaan tersimpan di otak sebagai aso
 
 Kaitan itu tidak tersimpan sebagaimana berkas di komputer yang bisa kamu geser ke tempat sampah. Seperti dibahas di bab tiga, otak mengompilasi rangkaian aksi menjadi chunk yang tersimpan di basal ganglia, struktur dalam yang bekerja tanpa meminta izin kesadaran (Graybiel, 2008). Begitu terkompilasi, chunk itu tidak lagi membutuhkan partisipasimu untuk berjalan. Ia hanya membutuhkan pemicunya.
 
-Inilah kenapa penghapusan tidak termasuk pilihan otak. Yang bisa dikontrol, menurut Wood dan Rünger (2016), bukan asosiasinya, melainkan tiga hal di sekelilingnya: konteks yang memicu, imbalan yang menopang, dan perencanaan yang mengarahkan. Asosiasinya sendiri dibiarkan tetap di tempatnya, seperti jalur tanah di taman. Kamu tidak bisa mencabutnya dari tanah, tapi kamu bisa memutuskan untuk tidak menginjaknya.
+Inilah kenapa penghapusan tidak termasuk pilihan otak. Yang bisa dikontrol, menurut Wood dan Rünger (2016), bukan asosiasinya, melainkan tiga hal di sekelilingnya: konteks yang memicu, imbalan yang menopang, dan perencanaan yang mengarahkan. Asosiasinya sendiri dibiarkan di tempatnya, seperti jalur tanah di taman. Kamu tidak bisa mencabutnya dari tanah, tapi kamu bisa memutuskan untuk tidak menginjaknya.
 
 ### Menahan itu mahal, mencegah itu murah
 
@@ -28,7 +28,7 @@ Ilustrasinya begini (ini ilustrasi, bukan data riset): menahan diri untuk tidak 
 
 Kalau jejaknya tidak bisa dihapus, lalu apa yang terjadi pada kebiasaan yang sudah lama tidak dijalankan? Jawabannya: ia tidur.
 
-Bukti bahwa jejak hanya terkubur, bukan terhapus, datang dari studi Wood, Tam, dan Guerrero Witt (2005). Mereka mengikuti mahasiswa yang pindah ke universitas baru. Temuannya menarik: di lingkungan yang berubah total, daya dorong kebiasaan lama merosot, dan perilaku mereka justru diarahkan oleh niat, bukan kebiasaan. Kebiasaan lama itu tidak dilenyapkan dari otak mereka selama pindah kampus. Ia hanya kehilangan panggilannya, karena konteks yang biasa memanggilnya tidak ada lagi.
+Bukti bahwa jejak hanya terkubur, bukan terhapus, datang dari studi Wood, Tam, dan Guerrero Witt (2005). Mereka mengikuti mahasiswa yang pindah ke universitas baru. Temuannya menarik: di lingkungan yang berubah total, daya dorong kebiasaan lama merosot, dan perilaku mereka diarahkan oleh niat, bukan kebiasaan. Kebiasaan lama itu tidak dilenyapkan dari otak mereka selama pindah kampus. Ia hanya kehilangan panggilannya, karena konteks yang biasa memanggilnya tidak ada lagi.
 
 Dan panggilan itu bisa datang lagi. Ini ilustrasi yang sering muncul dalam kisah nyata berhenti merokok, sekadar ilustrasi dan bukan data riset: seseorang sudah setahun bersih dari rokok, niatnya kuat, identitas barunya sudah terasa asli. Lalu di suatu sore ia berkumpul dengan teman lama di tempat yang sama seperti zaman dulu, dan tanpa rencana apa pun, satu tarikan terjadi. Tidak karena niatnya lemah. Pemicu lama muncul lagi dalam bentuk utuhnya, dan jejak yang tidur setahun itu bangun secepat jalur tanah yang kembali diinjak.
 

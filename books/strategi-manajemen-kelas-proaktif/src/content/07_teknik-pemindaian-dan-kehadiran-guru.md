@@ -2,7 +2,7 @@
 
 Pernahkah kamu bertanya-tanya mengapa beberapa guru seolah-olah memiliki "indra keenam"? Mereka bisa mengetahui ada siswa yang sedang asyik bermain ponsel di pojok belakang, bahkan saat mereka sedang menulis di papan tulis. Rahasianya bukan pada kekuatan super, melainkan pada keterampilan yang disebut **Withitness** dan teknik **Pemindaian (Scanning)** yang efektif.
 
-Dalam modul ini, kita akan mempelajari bagaimana kehadiran fisik dan kewaspadaan mental kamu dapat menjadi alat manajemen kelas yang paling ampuh, bahkan sebelum kamu mengucapkan satu patah kata pun.
+Dalam modul ini, kita akan mempelajari bagaimana kehadiran fisik dan kewaspadaan mental kamu dapat menjadi alat manajemen kelas yang paling ampuh, bahkan sebelum kamu mengucapkan satu patah kata.
 
 ## 1. Konsep 'Withitness'
 
@@ -16,7 +16,7 @@ Istilah *Withitness* pertama kali dicetuskan oleh pakar psikologi pendidikan, Ja
 
 1. **Deteksi Dini:** Mengenali tanda-tanda gangguan (seperti bisik-bisik atau tatapan kosong) sebelum berkembang menjadi kekacauan.
 2. **Target yang Tepat:** Jika terjadi gangguan, guru tahu persis siapa pemicunya dan merespons orang yang tepat.
-3. **Multitasking (Overlapping):** Kemampuan mengawasi seluruh kelas sambil tetap membantu satu siswa secara individual.
+3. **Multitasking (Overlapping):** Kemampuan mengawasi seluruh kelas sambil membantu satu siswa secara individual.
 
 ## 2. Teknik Pemindaian (Scanning) yang Efektif
 
@@ -69,7 +69,7 @@ Untuk mulai menerapkan teknik ini, cobalah langkah-langkah berikut di kelas beri
 
 1. **Gunakan "Pintu Masuk" sebagai Radar Awal:** Berdirilah di pintu saat siswa masuk. Pindai suasana hati mereka. Siapa yang tampak sedih? Siapa yang terlalu bersemangat? Ini adalah *withitness* tahap awal.
 2. **Latihan Memutar:** Saat mengajar, berjalanlah membentuk pola "U" atau "S" di antara deretan meja siswa. Jangan biarkan ada barisan yang tidak kamu lalui.
-3. **Tingkatkan Kecepatan Pemindaian:** Berlatihlah untuk melihat ke sekeliling kelas tepat saat kamu merasakan suasana mulai menjadi sedikit riuh, bahkan sebelum suara gaduh itu benar-benar muncul.
+3. **Tingkatkan Kecepatan Pemindaian:** Berlatihlah untuk melihat ke sekeliling kelas tepat saat kamu merasakan suasana mulai menjadi sedikit riuh, sebelum suara gaduh itu benar-benar muncul.
 
 **Important:** Manajemen kelas proaktif melalui kehadiran guru bukan tentang menjadi "polisi" yang mencari kesalahan, melainkan tentang menjadi "pelindung" yang memastikan lingkungan belajar tetap kondusif bagi semua orang.
 

@@ -62,7 +62,7 @@ Langkah yang sama juga bisa dipakai pada kejadian sehari-hari. Bayangkan kamera 
 
 1. **Dalam Karier:** Ketika sebuah proyek gagal, seorang praktisi Amor Fati tidak akan tenggelam dalam penyesalan. Ia akan berkata, "Kegagalan ini memberi saya data yang tidak akan saya dapatkan dari kesuksesan. Saya mencintai kegagalan ini karena ia membuat saya lebih cerdas untuk proyek berikutnya."
 2. **Dalam Hubungan:** Saat mengalami penolakan atau patah hati, alih-alih merasa hancur, kita melihatnya sebagai cara alam semesta untuk menjauhkan kita dari jalan yang salah dan mempersiapkan karakter kita untuk hubungan yang lebih dewasa di masa depan.
-3. **Dalam Kesehatan:** Bahkan dalam menghadapi penyakit, Amor Fati mengajarkan kita untuk mencintai momen tersebut sebagai kesempatan untuk melatih kesabaran dan ketangguhan mental yang tidak bisa dipelajari saat kita sehat.
+3. **Dalam Kesehatan:** Saat menghadapi penyakit, Amor Fati mengajarkan kita untuk mencintai momen tersebut sebagai kesempatan untuk melatih kesabaran dan ketangguhan mental yang tidak bisa dipelajari saat kita sehat.
 
 ## Perenungan untuk kamu
 

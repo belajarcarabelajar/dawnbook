@@ -13,7 +13,7 @@ Kompensasi vestibular adalah proses pemulihan fungsional yang terjadi setelah ad
 Bayangkan sebuah pesawat terbang dengan dua mesin (telinga kiri dan kanan) yang memberikan daya dorong seimbang. Jika mesin kiri mati mendadak, pesawat akan miring dan berputar ke satu sisi secara liar.
 
 - **Fase Akut:** Pilot (otak) panik saat mencoba menstabilkan pesawat yang tidak seimbang.
-- **Kompensasi:** Pilot menyesuaikan kemudi (*re-weighting*) dan menggunakan instrumen lain seperti GPS dan pandangan visual untuk tetap terbang lurus, meskipun hanya dengan satu mesin yang tersisa.
+- **Kompensasi:** Pilot menyesuaikan kemudi (*re-weighting*) dan menggunakan instrumen lain seperti GPS dan pandangan visual untuk terus terbang lurus, meskipun hanya dengan satu mesin yang tersisa.
 
 ### 2. Bagaimana Otak Beradaptasi?
 
@@ -94,7 +94,7 @@ Tidak semua orang pulih dengan kecepatan yang sama. Beberapa faktor kuncinya ada
 - **Aktivitas Fisik:** Semakin aktif bergerak, semakin cepat otak belajar.
 - **Obat-obatan:** Penggunaan obat anti-vertigo (sedatif vestibular) dalam jangka panjang justru dapat **menghambat** kompensasi karena obat tersebut menidurkan sistem saraf pusat yang seharusnya belajar.
 - **Lingkungan:** Lingkungan yang kaya rangsangan visual membantu proses substitusi.
-- **Usia:** Otak yang lebih muda umumnya memiliki tingkat neuroplastisitas yang lebih tinggi, namun lansia tetap bisa melakukan kompensasi dengan waktu yang lebih lama.
+- **Usia:** Otak yang lebih muda umumnya memiliki tingkat neuroplastisitas yang lebih tinggi, namun lansia masih bisa melakukan kompensasi dengan waktu yang lebih lama.
 
 *Pertanyaan reflektif: Ketika terjadi gangguan keseimbangan, tindakan yang lebih optimal adalah mencoba melakukan gerakan-gerakan ringan yang terarah daripada beristirahat total agar dapat menstimulasi proses adaptasi dan plastisitas saraf.*
 

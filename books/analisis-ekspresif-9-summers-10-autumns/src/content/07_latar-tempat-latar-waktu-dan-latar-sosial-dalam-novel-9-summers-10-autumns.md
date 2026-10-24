@@ -54,6 +54,6 @@ Kontras ini menjadi motor penggerak utama konflik batin tokoh Iwan. Keberadaanny
 
 *Bagaimana latar sosial kemiskinan di Kota Batu di tahun 1970-an membentuk cara pandang Iwan terhadap nilai sebuah materi atau uang ketika ia sudah hidup berkecukupan di New York? Apakah kemakmuran finansial melunturkan nilai-nilai moral kesederhanaan yang diajarkan oleh ibunya?*
 
-### Menuju Pilihan Kata dan Sudut Pandang
+### Kontras Latar yang Dituturkan secara Estetis
 
 Latar tempat dan suasana yang kontras tersebut diekspresikan secara estetis lewat pilihan kata yang khas.

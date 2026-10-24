@@ -96,7 +96,7 @@ Agar mekanisme ini berfungsi optimal, diperlukan beberapa prasyarat utama:
 
 - **Keamanan dan Penegakan Hukum:** Menjamin orang berani berinvestasi dan berdagang secara aman.
 - **Informasi yang Transparan:** Memastikan konsumen tahu persis kualitas barang yang mereka beli.
-- **Ketiadaan Monopoli:** Menjaga agar pintu persaingan tetap terbuka lebar bagi pelaku usaha baru.
+- **Ketiadaan Monopoli:** Menjaga agar pintu persaingan terbuka lebar bagi pelaku usaha baru.
 
 > **Catatan Penting:** *The Invisible Hand* tidak berarti bahwa setiap tindakan egois berdampak baik. Konsep ini berlaku dalam kerangka pasar yang kompetitif dan bermoral, tempat hukum serta aturan main tetap dihormati.
 

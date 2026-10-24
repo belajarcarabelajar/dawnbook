@@ -28,7 +28,7 @@ Meskipun murni Laissez-faire jarang diterapkan secara ekstrem saat ini, prinsip-
 
 ### Kebijakan Fiskal Sisi Penawaran (*Supply-Side*)
 
-Di masa depan, perdebatan fiskal akan terus berkisar pada efektivitas pemotongan pajak untuk mendorong investasi. Logikanya tetap sama: membiarkan modal tetap di tangan swasta akan menghasilkan pertumbuhan yang lebih besar daripada dikelola oleh negara.
+Di masa depan, perdebatan fiskal akan terus berkisar pada efektivitas pemotongan pajak untuk mendorong investasi. Logikanya tidak berubah: membiarkan modal tetap di tangan swasta akan menghasilkan pertumbuhan yang lebih besar daripada dikelola oleh negara.
 
 - **Deregulasi:** Upaya untuk mengurangi *red tape* atau hambatan birokrasi adalah napas modern dari Laissez-faire agar bisnis bisa bergerak lebih lincah.
 

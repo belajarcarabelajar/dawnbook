@@ -40,7 +40,7 @@ Bagian ini bacaan praktis penulis buku, bukan temuan dari studi mana pun. Coba b
 
 > "Aku gagal padahal sudah berusaha."
 
-Kalimat pertama terasa lebih ringan. Ia menaruh sebabnya pada waktu dan persiapan, hal yang masih bisa dibenahi, dan membiarkan pertanyaan tentang kemampuan tetap tak terjawab. Kalimat kedua lebih berat karena tidak ada celah untuk lari: usaha sudah dikeluarkan, dan hasilnya tetap begitu. Bila tafsir Ferrari dan Tice benar, kelegaan jenis pertama itulah yang dibeli penundaan, dengan harga hasil yang lebih buruk lagi.
+Kalimat pertama terasa lebih ringan. Ia menaruh sebabnya pada waktu dan persiapan, hal yang masih bisa dibenahi, dan membiarkan pertanyaan tentang kemampuan tak terjawab. Kalimat kedua lebih berat karena tidak ada celah untuk lari: usaha sudah dikeluarkan, dan hasilnya tetap begitu. Bila tafsir Ferrari dan Tice benar, kelegaan jenis pertama itulah yang dibeli penundaan, dengan harga hasil yang lebih buruk lagi.
 
 Kalau kamu mengenali pola ini pada dirimu, satu langkah kecil patut dicoba: pisahkan "hasil ini jelek" dari "aku ini jelek". Tindakan itu menurunkan taruhan, dan taruhan yang lebih rendah membuat memulai tidak lagi terasa seperti sidang.
 

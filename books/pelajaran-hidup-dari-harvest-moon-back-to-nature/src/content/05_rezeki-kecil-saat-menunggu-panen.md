@@ -8,7 +8,7 @@ Ia memetik rumput (*Grass*) dan buah beri di sepanjang jalan, lalu berhenti di d
 
 Di HM BTN, tanaman liar di Mother's Hill, di sisi Hot Spring, dan di sekitar rumah Gotz tumbuh kembali setiap hari, selalu di tempat yang sama. Harganya kecil. Rumput dan beri bisa langsung dimasukkan ke Harvest Bin dan diangkut Zack bersama hasil ladang, jadi tidak ada yang terbuang hanya karena nilainya receh.
 
-Isinya berganti mengikuti musim, jadi ada gunanya berkeliling sebentar di awal setiap musim. Di musim semi, Blue Grass laku 100 G dan Bamboo Shoot 50 G. Di musim gugur, sebuah Truffle di dekat danau di Mother's Hill bernilai 500 G, cukup untuk membuat jalan pagi terasa seperti perburuan harta. Musim dingin lebih pelit lagi. Yang bisa dipungut hanya Honey seharga 50 G, itu pun kalau di musim yang lebih awal kamu sudah menanam bunga dan lebah sudah bersarang di pohon apel. Bahkan rezeki kecil di musim sepi bergantung pada apa yang kamu siapkan sebelumnya.
+Isinya berganti mengikuti musim, jadi ada gunanya berkeliling sebentar di awal setiap musim. Di musim semi, Blue Grass laku 100 G dan Bamboo Shoot 50 G. Di musim gugur, sebuah Truffle di dekat danau di Mother's Hill bernilai 500 G, cukup untuk membuat jalan pagi terasa seperti perburuan harta. Musim dingin lebih pelit lagi. Yang bisa dipungut hanya Honey seharga 50 G, itu pun kalau di musim yang lebih awal kamu sudah menanam bunga dan lebah sudah bersarang di pohon apel. Rezeki kecil di musim sepi juga bergantung pada apa yang kamu siapkan sebelumnya.
 
 Daya tariknya ada pada pengulangan: tanaman liar kembali setiap hari di tempat yang sama.
 
@@ -16,7 +16,7 @@ Daya tariknya ada pada pengulangan: tanaman liar kembali setiap hari di tempat y
 
 Musim semi membuka satu pintu lagi. Greg, nelayan yang biasa memancing di dermaga pada pagi hari, akan bertanya apakah kamu mau mencoba. Jawab "ya", dan ia memberimu sebuah Fishing Rod.
 
-Memancing menuntut sabar. Kamu menahan tombol, menunggu pelampung mendadak tenggelam, lalu melepasnya dengan cepat. Kadang kailnya naik kosong, kadang yang tersangkut hanya sampah. Sampah pun tidak selalu sia-sia. Sesekali yang terangkat adalah botol berisi resep, dan May dari Yodel Farm senang menerima kaleng kosong atau sepatu bot sebagai hadiah. Pagi yang terasa gagal di dermaga masih menyisakan sesuatu untuk diberikan.
+Memancing menuntut sabar. Kamu menahan tombol, menunggu pelampung mendadak tenggelam, lalu melepasnya dengan cepat. Kadang kailnya naik kosong, kadang yang tersangkut hanya sampah. Namun, sampah tidak selalu sia-sia. Sesekali yang terangkat adalah botol berisi resep, dan May dari Yodel Farm senang menerima kaleng kosong atau sepatu bot sebagai hadiah. Pagi yang terasa gagal di dermaga masih menyisakan sesuatu untuk diberikan.
 
 Ikan yang berhasil ditangkap datang dalam tiga ukuran, kecil, sedang, dan besar, dengan harga jual yang berbeda. Ikan juga bisa diternakkan di kolam, dan syaratnya sederhana tetapi tidak boleh terlewat: satu kantong pakan setiap hari. Tanpa pakan, ikan di kolam tidak akan pernah berkembang biak.
 
@@ -32,7 +32,7 @@ Hidup di luar gim juga berjalan dari panen ke panen: gaji bulanan, honor proyek,
 
 Federal Reserve menanyakan hal ini kepada orang dewasa di Amerika Serikat: kalau tiba-tiba muncul pengeluaran darurat sebesar 400 dolar AS, bagaimana kamu menutupnya? Dalam [rilis hasil SHED 2025](https://www.federalreserve.gov/newsevents/pressreleases/other20260513a.htm), 63 persen menjawab dengan uang tunai atau yang setara, sama seperti tahun sebelumnya. Itu jawaban atas situasi andaian di negara lain, jadi angkanya tidak bisa dipindahkan begitu saja ke sini. Yang terasa dekat adalah sisanya: lebih dari sepertiga responden tidak memilih jawaban itu.
 
-Seberapa tebal bantalan yang wajar? [Sebuah artikel KPKNL Lahat di situs DJKN Kemenkeu](https://www.djkn.kemenkeu.go.id/kpknl-lahat/baca-artikel/18366/Investasi-Bagi-Orang-Berpenghasilan-Tetap.html) menyarankan orang berpenghasilan tetap menyiapkan dana darurat paling sedikit tiga bulan pengeluaran, ditambah asuransi dasar, sebelum mulai berinvestasi. Tiga bulan itu batas bawah, bukan garis akhir.
+Seberapa tebal bantalan yang wajar? [Sebuah artikel KPKNL Lahat di situs DJKN Kemenkeu](https://www.djkn.kemenkeu.go.id/kpknl-lahat/baca-artikel/18366/Investasi-Bagi-Orang-Berpenghasilan-Tetap.html) menyarankan orang dengan penghasilan tetap menyiapkan dana darurat paling sedikit tiga bulan pengeluaran, ditambah asuransi dasar, sebelum mulai berinvestasi. Tiga bulan itu batas bawah, bukan garis akhir.
 
 Cara mengumpulkannya bisa meniru pagi di Mother's Hill: sedikit, tetapi diulang. Pemasukan sampingan yang kecil tidak menggantikan gaji, sama seperti Truffle tidak menggantikan ladang. Namun kalau terus disisihkan, ia bisa menjadi bantalan yang membuatmu tidak panik ketika panen besar belum tiba.
 

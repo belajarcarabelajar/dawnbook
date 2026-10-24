@@ -8,6 +8,10 @@ export interface VoiceCap {
   label: string;
   pattern: RegExp;
   max: number;
+  // Matches removed before counting (idioms and technical terms that only look like the pattern).
+  except?: RegExp[];
+  // Count outside fenced code blocks only.
+  proseOnly?: boolean;
 }
 
 export interface SourceWordCap {
@@ -34,7 +38,34 @@ export const VOICE_CAPS: VoiceCap[] = [
   { label: "stock connector", pattern: /(?<![\p{L}\p{N}])(perhatikan(lah)?|di situlah letak(nya)?|menariknya|ada satu (detail|catatan))(?![\p{L}\p{N}])/giu, max: 0 },
   { label: "bab berikutnya", pattern: /(?<![\p{L}])bab berikutnya/giu, max: 0 },
   { label: "tokoh kita", pattern: /tokoh kita/gi, max: 2 },
+  {
+    label: "crutch words",
+    pattern: /(?<![\p{L}\p{N}])(tetap|pun|bahkan|justru)(?![\p{L}\p{N}])/giu,
+    max: 4,
+    // Link targets, "apa pun" and kin (indefinite pronouns), and "biaya tetap" and kin (fixed-quantity terms) are not crutch words.
+    except: [
+      /https?:\/\/[^\s)>\]]+/gu,
+      /(?<![\p{L}\p{N}])(apa|siapa|mana|berapa|seberapa|kapan|bagaimana) pun(?![\p{L}\p{N}])/giu,
+      /(?<![\p{L}\p{N}])(biaya|aset|pegawai|karyawan|harga|bunga|titik|pengeluaran|pendapatan|penghasilan|gaji|tarif|kurs|sudut|kecepatan|laju|modal|kontrak|pikir) tetap(?![\p{L}\p{N}])/giu,
+    ],
+    proseOnly: true,
+  },
+  { label: "diperhatikan opener", pattern: /(?<![\p{L}\p{N}])(kalau|jika) diperhatikan(?![\p{L}\p{N}])/giu, max: 0 },
+  { label: "bridge heading", pattern: /^#{1,6} +Menuju /gmu, max: 0 },
+  {
+    label: "chapter announcement",
+    pattern: /(?<![\p{L}\p{N}])(pada bab ini|dalam bab ini|bab ini akan)(?![\p{L}\p{N}])/giu,
+    max: 2,
+  },
 ];
+
+const FENCE = /^```[^\n]*\n[\s\S]*?^```[ \t]*$/gm;
+
+function capText(text: string, cap: VoiceCap): string {
+  let t = cap.proseOnly ? text.replace(FENCE, "") : text;
+  for (const e of cap.except ?? []) t = t.replace(e, " ");
+  return t;
+}
 
 // Only books whose sources have a name that turned into a crutch need an entry here.
 export const BOOK_VOICE_CONFIG: Record<string, VoiceOptions> = {
@@ -69,8 +100,9 @@ function countedText(md: string): string {
 
 export function voiceViolations(file: string, md: string, options?: VoiceOptions): string[] {
   const text = countedText(md);
-  return capsFor(file, options).flatMap(({ label, pattern, max }) => {
-    const count = (text.match(pattern) ?? []).length;
+  return capsFor(file, options).flatMap((cap) => {
+    const { label, pattern, max } = cap;
+    const count = (capText(text, cap).match(pattern) ?? []).length;
     return count > max ? [`${label} x${count} (max ${max})`] : [];
   });
 }

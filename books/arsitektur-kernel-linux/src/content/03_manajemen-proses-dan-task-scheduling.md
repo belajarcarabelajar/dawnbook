@@ -70,7 +70,7 @@ Jika nilai *nice* tinggi (kurang prioritas), $\text{vruntime}$ bertambah cepat, 
 
 ### Struktur Data Red-Black Tree
 
-Untuk mencari proses dengan $\text{vruntime}$ terkecil secara cepat, CFS menyimpan daftar proses yang siap jalan dalam struktur data **red-black tree**. Hal ini memungkinkan pencarian dengan kompleksitas waktu $O(\log n)$, yang tetap kencang meskipun ada ribuan proses.
+Untuk mencari proses dengan $\text{vruntime}$ terkecil secara cepat, CFS menyimpan daftar proses yang siap jalan dalam struktur data **red-black tree**. Hal ini memungkinkan pencarian dengan kompleksitas waktu $O(\log n)$, yang masih kencang meskipun ada ribuan proses.
 
 ## 4. Real-world Application & Scenario
 

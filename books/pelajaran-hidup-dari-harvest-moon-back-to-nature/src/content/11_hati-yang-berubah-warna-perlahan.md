@@ -4,7 +4,7 @@ Setiap kali kamu menyapa gadis yang kelak bisa kamu nikahi, sebuah hati kecil mu
 
 Itulah *Heart Meter*, cara HM BTN menunjukkan seberapa besar rasa sayang perempuan itu kepada si petani. Lima perempuan di Mineral Village bisa kamu nikahi: Ann di penginapan Doug, Elli di Clinic, Karen yang sesekali menjaga Supermarket, Mary di Library, dan Popuri di Poultry Farm. Kamu tidak bertemu mereka sekaligus. Mereka muncul satu per satu selama kamu menjelajahi desa dan mengajak orang bicara. Hati di pojok dialog itu bergeser sedikit demi sedikit, seperti kedekatan di dunia nyata.
 
-Kamu juga bukan satu-satunya yang menaruh hati. Dokter diam-diam menyukai Elli, Cliff diam-diam menyukai Ann, dan Kai menaruh hati pada Popuri. Para perempuan itu pun bukan sasaran yang duduk menunggu didekati. Setiap orang di desa itu punya perasaannya sendiri.
+Kamu juga bukan satu-satunya yang menaruh hati. Dokter diam-diam menyukai Elli, Cliff diam-diam menyukai Ann, dan Kai menaruh hati pada Popuri. Para perempuan itu juga bukan sasaran yang duduk menunggu didekati. Setiap orang di desa itu punya perasaannya sendiri.
 
 ### Tujuh Warna Menuju Merah
 
@@ -28,13 +28,13 @@ Setiap anak tangga itu diisi oleh hari-hari biasa: sapaan, hadiah, dan perhatian
 
 ### Bunga bagi Elli, Jamur bagi Mary
 
-Panduan resmi Prima menyarankan hal yang sederhana tetapi melelahkan: pelajari apa yang disukai dan dibenci tiap orang, hafalkan jadwal hariannya supaya mudah ditemui, lalu beri hadiah sesering mungkin. Pada musim dingin, panduan yang sama bahkan menganjurkan hadiah setiap hari.
+Panduan resmi Prima menyarankan hal yang sederhana tetapi melelahkan: pelajari apa yang disukai dan dibenci tiap orang, hafalkan jadwal hariannya supaya mudah ditemui, lalu beri hadiah sesering mungkin. Pada musim dingin, panduan yang sama menganjurkan hadiah setiap hari.
 
 Seleranya tidak seragam, sama seperti wataknya. Ann periang dan tomboi, Mary gemar membaca dan menulis, sedangkan Karen pandai mendengarkan tetapi agak sulit didekati karena ia sangat aktif dan tidak selalu ada di toko. Elli senang menerima bunga, sedangkan Mary senang diberi jamur. Hadiah yang sama tidak menyentuh semua orang, jadi kamu harus benar-benar mengenal orang yang kamu dekati.
 
-Ada juga momen yang ikut menaikkan rasa sayang: memberinya kue kering saat Spring Thanksgiving, mengajaknya ke Goddess Festival, menonton kembang api bersama, atau membawakan hadiah di hari ulang tahunnya. Karen bahkan bisa membalas perhatianmu: kalau ia menyukaimu, ia memberimu benih Moondrop di musim semi. Kamu menanamnya, menunggunya mekar, lalu membawakan bunganya kembali kepadanya.
+Ada juga momen yang ikut menaikkan rasa sayang: memberinya kue kering saat Spring Thanksgiving, mengajaknya ke Goddess Festival, menonton kembang api bersama, atau membawakan hadiah di hari ulang tahunnya. Karen bisa membalas perhatianmu: kalau ia menyukaimu, ia memberimu benih Moondrop di musim semi. Kamu menanamnya, menunggunya mekar, lalu membawakan bunganya kembali kepadanya.
 
-Bahkan hadiah yang lebih mahal tetap hanya satu hadiah. Saibara bisa membuatkan perhiasan dari Orichalc dan 1.000 G yang disukai sebagian besar perempuan, tetapi perhiasan itu hanya mengisi satu hari di antara banyak hari lain. Rasa sayang di desa ini diraih perlahan, bukan dibeli sekali bayar.
+Hadiah yang lebih mahal tetap hanya satu hadiah. Saibara bisa membuatkan perhiasan dari Orichalc dan 1.000 G yang disukai sebagian besar perempuan, tetapi perhiasan itu hanya mengisi satu hari di antara banyak hari lain. Rasa sayang di desa ini diraih perlahan, bukan dibeli sekali bayar.
 
 ### Blue Feather yang Menunggu Giliran
 
