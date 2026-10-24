@@ -34,7 +34,7 @@ Apabila aktivitasnya mencakup hal yang kamu cintai, dibutuhkan dunia, dan mendat
 
 Selanjutnya, gabungan antara keahlian, kebutuhan dunia, dan penghasilan akan menciptakan **Profesi yang Memuaskan**. Pekerjaan ini bermakna dan mapan secara finansial. Namun, tanpa adanya elemen "cinta" atau gairah yang mendalam, keseharian akan terasa seperti rutinitas wajib alih-alih sesuatu yang menyenangkan. Seorang insinyur handal yang membangun infrastruktur penting mungkin tidak selalu merasa antusias menghadapi rincian tugasnya.
 
-### 3. Inti Sejati Ikigai
+### 3. Titik Tengah Keempat Pilar
 
 Inti dari Ikigai terletak di titik tengah yang mempertemukan keempat pilar tersebut secara selaras:
 

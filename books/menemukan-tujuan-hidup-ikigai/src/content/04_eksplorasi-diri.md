@@ -2,7 +2,7 @@
 
 Di sini kita fokus pada pilar pertama dari Ikigai: **Apa yang Kamu Cintai** (*What You Love*). Area ini merupakan sumber energi utama. Mencari tahu apa yang benar-benar kamu nikmati adalah langkah awal untuk memetakan tujuan hidupmu.
 
-## Mengapa Pilar Ini Begitu Berharga?
+## Mengapa Pilar Ini Penting?
 
 Pilar "Apa yang Kamu Cintai" berfungsi sebagai pemberi makna. Tanpa gairah ini, rutinitas bisa terasa kosong walaupun kamu ahli melakukannya atau mendapat bayaran tinggi. Saat kamu menjalani sesuatu yang dicintai, biasanya muncul energi karena kamu tidak merasa seperti sedang dipaksa bekerja. Ada kepuasan batin yang muncul tanpa perlu menunggu pujian atau imbalan dari luar. Selain itu, kamu akan lebih mudah masuk ke dalam fase *flow state*, di mana waktu seolah berlalu begitu saja karena perhatianmu tersita sepenuhnya oleh aktivitas tersebut.
 
@@ -40,7 +40,7 @@ Kamu juga bisa membuat tabel sederhana berisi "Suka" dan "Tidak Suka". Jangan ra
 
 Namun pada akhirnya, teori saja tidak akan cukup. Pilih beberapa aktivitas dari daftar impianmu dan luangkan waktu untuk benar-benar melakukannya. Ikuti kursus singkat, datang ke pertemuan komunitas, atau sediakan jam khusus di akhir pekan. Kegagalan atau rasa bosan di tengah jalan adalah hal wajar karena esensi dari proses ini memang terletak pada percobaan dan eliminasi.
 
-## Mengabaikan Kebisingan Internal
+## Meredam Keraguan dari Dalam Diri
 
 Dalam proses mencari tahu apa yang kamu cintai, tidak jarang akan muncul keraguan dari dalam diri sendiri. Kritik internal mungkin mengatakan bahwa minatmu terlalu kekanak-kanakan, tidak berguna, atau membuang-buang waktu. Ada juga ketakutan akan penilaian orang lain serta kecemasan soal biaya. 
 

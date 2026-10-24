@@ -40,7 +40,7 @@ Pembelajaran seumur hidup, baik melalui buku, kursus, maupun diskusi dengan berb
 
 Semakin dalam kamu memahami kekuatan, kelemahan, nilai-nilai, serta keinginan terdalam, semakin utuh pula gambaran Ikigai yang kamu miliki. Perubahan yang terjadi dalam diri merupakan tanda bahwa Ikigai mungkin memerlukan penyelarasan ulang.
 
-### Evolusi Ikigai Seorang Desainer Grafis
+### Perubahan Ikigai Seorang Desainer Grafis
 
 Mari kita lihat contoh perjalanan Ayu, seorang desainer grafis.
 
