@@ -1,6 +1,6 @@
 ## Hubungan Sosial yang Positif
 
-Pernahkah kamu memperhatikan bahwa kabar buruk terasa lebih ringan saat dibagi, dan kabar baik terasa berlipat ganda bahagianya saat dirayakan bersama orang lain? Dalam **Psikologi Positif**, fenomena ini bukan kebetulan belaka.
+Pernahkah kamu memperhatikan bahwa kabar buruk terasa lebih ringan saat dibagi, dan kabar baik terasa berlipat ganda saat dirayakan bersama orang lain? Dalam **Psikologi Positif**, fenomena ini bukan kebetulan belaka.
 
 Hubungan sosial adalah elemen "**R**" (*Relationships*) dalam model kesejahteraan **PERMA** milik Martin Seligman. Manusia adalah makhluk ultra-sosial; kita tidak hanya ingin terhubung, tetapi kita butuh terhubung untuk bertahan hidup secara psikologis dan fisik.
 
