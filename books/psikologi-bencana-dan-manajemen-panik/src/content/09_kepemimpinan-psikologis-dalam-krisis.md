@@ -1,6 +1,6 @@
 ## Kepemimpinan Psikologis dalam Krisis
 
-Ketika bencana mendadak melanda, seperti gempa bumi dahsyat yang mengguncang pusat perbelanjaan, listrik padam seketika, alarm bahaya meraung, dan reruntuhan mengaburkan pandangan. Dalam hitungan detik pertama, rantai komando dan struktur organisasi formal (seperti petugas keamanan, pengelola gedung, atau protokol evakuasi standar) kerap kali lumpuh akibat disorientasi massal. Di titik genting ini, **kepemimpinan psikologis** (*psychological leadership*) memegang peran penentu antara keselamatan bersama atau eskalasi kepanikan.
+Ketika bencana mendadak melanda, misalnya gempa bumi dahsyat yang mengguncang pusat perbelanjaan, listrik padam seketika dan alarm bahaya meraung. Reruntuhan mengaburkan pandangan. Dalam hitungan detik pertama, rantai komando dan struktur organisasi formal (seperti petugas keamanan, pengelola gedung, atau protokol evakuasi standar) kerap kali lumpuh akibat disorientasi massal. Di titik genting ini, **kepemimpinan psikologis** (*psychological leadership*) memegang peran penentu antara keselamatan bersama atau eskalasi kepanikan.
 
 Kepemimpinan psikologis tidak bertumpu pada jabatan struktural atau otoritas formal, melainkan pada kapasitas mental untuk memproyeksikan stabilitas, mengambil kendali atas disrupsi, serta memberikan arah navigasi yang terukur kepada massa yang kehilangan orientasi. Saat struktur formal runtuh, respon psikologis kolektif tidak mencari figur penguasa, melainkan figur penenang dan pelindung (*stabilizer and protector*).
 

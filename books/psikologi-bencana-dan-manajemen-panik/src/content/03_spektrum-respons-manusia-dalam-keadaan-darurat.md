@@ -1,6 +1,6 @@
 ## Spektrum Respons Manusia dalam Keadaan Darurat
 
-Bayangan umum mengenai respons individu saat menghadapi gempa bumi besar atau kebakaran gedung bertingkat sering kali terpolarisasi secara keliru: seseorang dianggap akan langsung berlari menyelamatkan diri secara heroik atau sebaliknya langsung tenggelam dalam kepanikan buta. Namun, data empiris dalam psikologi bencana membuktikan bahwa respons manusia dalam keadaan darurat bekerja melintasi sebuah spektrum perilaku yang kompleks dan bertingkat.
+Bayangan umum mengenai respons individu saat menghadapi gempa bumi besar atau kebakaran gedung bertingkat sering kali terpolarisasi secara keliru. Seseorang dianggap akan langsung berlari menyelamatkan diri secara heroik atau sebaliknya langsung tenggelam dalam kepanikan buta. Namun, data empiris dalam psikologi bencana membuktikan bahwa respons manusia dalam keadaan darurat bekerja melintasi sebuah spektrum perilaku yang kompleks dan bertingkat.
 
 Perilaku manusia saat krisis bukanlah fenomena biner. Reaksi individu tidak sekadar terbagi menjadi tenang versus panik, melainkan bergerak dinamis pada kontinum kognitif dan motorik yang dipengaruhi oleh tingkat persepsi ancaman, riwayat latihan kedaruratan (*stress inoculation*), serta kapasitas regulasi sistem saraf otonom.
 
