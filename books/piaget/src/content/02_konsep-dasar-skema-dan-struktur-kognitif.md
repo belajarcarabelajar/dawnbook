@@ -61,7 +61,7 @@ Memahami skema punya dampak praktis di kehidupan:
 - **Parenting:** Orang tua sering bingung saat anak salah menyebut benda. Ini hal wajar. Otak anak sekadar mencocokkan hal asing dengan arsip di kepala mereka yang masih terbatas.
 - **Desain Produk (UX):** Desainer antarmuka mengincar skema pengguna. Ikon keranjang belanja dipakai agar pengguna langsung tahu fungsinya tanpa perlu baca buku panduan.
 
-## 6. Ringkasan
+## 6. Istilah Kunci
 
 | Istilah | Penjelasan Sederhana | Analogi |
 | --- | --- | --- |

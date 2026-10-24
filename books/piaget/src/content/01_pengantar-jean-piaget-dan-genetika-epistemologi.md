@@ -2,7 +2,7 @@
 
 Sebelum mempelajari tahapan-tahapan rumit dalam perkembangan anak, kenali dulu sosok di balik teori ini: **Jean Piaget**. Ia bukan sekadar seorang psikolog; ia seorang pemikir yang ingin menjawab pertanyaan mendasar: *"Bagaimana kita bisa tahu apa yang kita tahu?"*
 
-## 1\. Siapakah Jean Piaget? (Sang Ilmuwan Cilik yang Tekun)
+## 1\. Siapakah Jean Piaget?
 
 Jean Piaget (1896–1980) adalah seorang pemikir asal Swiss yang sudah menunjukkan kecerdasannya sejak dini. Latar belakang pendidikannya bukanlah psikologi, melainkan **Biologi**.
 
@@ -40,7 +40,7 @@ $\text{Pengetahuan} = \text{Aksi} \times \text{Objek}$
 
 *Coba Amati Fenomena Ini: Pernahkah terlihat seorang bayi yang terus-menerus menjatuhkan mainannya dari kursi tinggi? Bagi Piaget, bayi tersebut bukan sedang nakal, melainkan sedang melakukan eksperimen "epistemologi" tentang gravitasi dan keberadaan benda.*
 
-## 4\. Arsitektur Pikiran
+## 4\. Pikiran yang Terus Direnovasi
 
 Bayangkan pikiran manusia seperti sebuah **bangunan yang terus direnovasi**.
 

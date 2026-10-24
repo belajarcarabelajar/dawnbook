@@ -87,7 +87,7 @@ Mereka langsung paham sebab-akibatnya gara-gara hasilnya langsung nongol di laya
 
 > Coba deh ingat-ingat waktu kecil dulu. Pernah nggak ngerasa "diculasi" pas dikasih cokelat yang udah dipotek-potek kecil biar kelihatannya banyak? Pas kamu mulai sadar kalau jumlah aslinya ya segitu-segitu aja biarpun bentuknya berubah, nah, di titik itulah cara mikirmu udah naik level ke tahap Operasional Konkret.
 
-### Ringkasan Konsep
+### Lima Kemampuan Utama
 
 | Kemampuan | Deskripsi |
 | --- | --- |

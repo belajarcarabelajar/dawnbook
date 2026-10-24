@@ -12,7 +12,7 @@ Lingkungan fisik berfungsi sebagai laboratorium. Tanpa benda-benda untuk disentu
 
 > **Intisari:** Pengetahuan tidak diberikan kepada anak, tetapi **dikonstruksi** oleh anak melalui tindakan terhadap objek fisik.
 
-## 2\. Katalisator Pertumbuhan Skema
+## 2\. Cara Benda Fisik Mengubah Skema
 
 Bagaimana tepatnya sebuah benda fisik bisa mengubah cara berpikir seorang anak? Hal ini terjadi melalui mekanisme adaptasi yang dipicu oleh pengalaman sensorik.
 
@@ -78,7 +78,7 @@ Alih-alih memberikan rumus $V = p \times l \times t$ di papan tulis, guru yang m
 - Siswa mengalami "kejutan" fisik yang memicu akomodasi.
 - Pengetahuan tersimpan lebih lama karena dibangun dari pengalaman langsung, bukan hafalan.
 
-## 6\. Arsitek dan Material Bangunan
+## 6\. Lingkungan Fisik Ibarat Material Bangunan
 
 Bayangkan perkembangan kognitif anak adalah proses membangun sebuah gedung (kecerdasan).
 

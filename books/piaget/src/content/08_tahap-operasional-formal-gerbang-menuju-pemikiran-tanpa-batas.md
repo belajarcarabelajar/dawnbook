@@ -64,7 +64,7 @@ Remaja di tahap ini sanggup mengevaluasi kebenaran logika suatu pernyataan (prop
 Anak tahap konkret akan protes keras: *"Mana ada kucing terbang!"*
 Tapi remaja tahap formal bisa bilang: *"Secara logika kesimpulannya benar karena mengikuti premis awal, biarpun di dunia nyata itu salah."*
 
-## 5\. Aplikasi Dunia Nyata & Skenario
+## 5\. Penerapan Pemikiran Formal
 
 ### Dalam Pembelajaran Sains dan Matematika
 
@@ -74,7 +74,7 @@ Siswa mulai siap belajar aljabar. Huruf seperti $x$, $y$, dan $z$ menggantikan a
 
 Remaja mulai kritis terhadap aturan dan otoritas. Mereka sering membayangkan versi dunia yang ideal lalu membandingkannya dengan realita. Tidak heran kalau masa remaja sering dipenuhi idealisme berapi-api.
 
-### Skenario Pemecahan Masalah Teknis
+### Pemecahan Masalah Teknis
 
 Dalam dunia teknis, operasional formal sangat penting untuk *debugging* atau merancang sistem.
 
