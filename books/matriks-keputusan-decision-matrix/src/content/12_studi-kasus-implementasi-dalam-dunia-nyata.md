@@ -1,6 +1,6 @@
 ## Tiga Kasus Nyata Matriks Keputusan
 
-Vendor logistik, rekrutmen *senior software engineer*, dan apartemen untuk investasi menjadi tiga kasus penerapan **matriks keputusan** di bab terakhir ini. Setelah memahami teori dasar, kriteria penilaian, hingga cara menentukan skor berbobot, kini saatnya melihat bagaimana alat bantu ini bekerja secara riil di lapangan.
+Vendor logistik, rekrutmen *senior software engineer*, dan apartemen investasi menjadi tiga kasus penerapan **matriks keputusan** di bab ini. Setelah memahami teori dasar, kriteria penilaian, hingga cara menentukan skor berbobot, kini saatnya melihat bagaimana alat bantu ini bekerja secara riil di lapangan.
 
 Teori tanpa praktik sering kali terasa abstrak. Ibarat mempelajari mesin mobil, kamu baru akan benar-benar memahaminya saat mencoba mengemudikannya langsung di jalan raya. Bagian ini mengeksplorasi tiga skenario dunia nyata: dunia bisnis, manajemen sumber daya manusia, dan keuangan pribadi.
 
