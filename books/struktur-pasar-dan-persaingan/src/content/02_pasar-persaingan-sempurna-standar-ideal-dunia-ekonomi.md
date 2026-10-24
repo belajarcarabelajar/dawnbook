@@ -6,7 +6,7 @@ Inilah inti dari **Pasar Persaingan Sempurna (Perfect Competition)**. Dalam ekon
 
 ## 1. Karakteristik Utama Pasar Persaingan Sempurna
 
-Untuk memahami mengapa pasar ini disebut "sempurna", kita harus melihat lima pilar utama yang membangun strukturnya:
+Untuk memahami mengapa pasar ini disebut "sempurna", kita harus melihat lima ciri utamanya:
 
 ### A. Banyak Penjual dan Banyak Pembeli
 
@@ -81,6 +81,6 @@ Perdagangan mata uang global mendekati persaingan sempurna.
 - **Visualisasi Kurva:** Bayangkan grafik dengan garis lurus horizontal setinggi harga pasar. Itulah "ruang gerak" kamu sebagai penjual. Kamu tidak bisa naik ke atas garis itu.
 - **Refleksi Diri:** *Amati saat kamu membeli pulsa atau kuota data di marketplace. Meskipun ada banyak penjual, harganya cenderung sangat mirip (berdekatan). Apakah ini mendekati persaingan sempurna? Mengapa atau mengapa tidak? (Petunjuk: Pertimbangkan faktor branding dan kepercayaan toko).*
 
-> **Kesimpulan:** Pasar Persaingan Sempurna adalah laboratorium ekonomi. Meskipun jarang ditemukan dalam bentuk murninya, memahami model ini membantu kita melihat bagaimana persaingan yang sehat dapat menekan harga dan menguntungkan masyarakat secara luas.
+> **Kesimpulan:** Pasar Persaingan Sempurna adalah model pembanding dalam ekonomi. Meskipun jarang ditemukan dalam bentuk murninya, memahami model ini membantu kita melihat bagaimana persaingan yang sehat dapat menekan harga dan menguntungkan masyarakat secara luas.
 
 *Pada bagian selanjutnya, kita akan membedah bagaimana mekanisme harga terbentuk secara spesifik melalui titik keseimbangan (equilibrium) dalam struktur pasar ini.*

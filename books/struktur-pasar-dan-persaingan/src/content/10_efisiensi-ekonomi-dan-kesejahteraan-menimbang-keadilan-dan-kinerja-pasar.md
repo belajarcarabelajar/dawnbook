@@ -1,6 +1,6 @@
 ## Efisiensi Ekonomi dan Kesejahteraan
 
-Sepanjang perjalanan memahami struktur pasar, kamu telah melihat perusahaan yang tunduk pada harga pasar hingga yang berkuasa menentukan harga sendiri. Namun, pertanyaan besarnya: **Manakah dari struktur pasar ini yang paling menguntungkan bagi masyarakat?**
+Di bab-bab sebelumnya, kamu telah melihat perusahaan yang tunduk pada harga pasar hingga yang berkuasa menentukan harga sendiri. Namun, pertanyaan besarnya: **Manakah dari struktur pasar ini yang paling menguntungkan bagi masyarakat?**
 
 Bagian ini membedah konsep "efisiensi" sebagai ukuran seberapa baik sebuah pasar melayani kepentingan bersama melalui alokasi sumber daya dan distribusi kesejahteraan.
 

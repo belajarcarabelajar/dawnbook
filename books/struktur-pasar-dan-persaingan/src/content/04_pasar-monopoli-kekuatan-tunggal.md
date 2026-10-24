@@ -2,7 +2,7 @@
 
 Bayangkan kamu berada di sebuah kota kecil di tengah gurun. Di kota itu, terdapat satu-satunya sumur air. Pemilik sumur tersebut tidak memiliki pesaing; tidak ada orang lain yang bisa menggali sumur karena kondisi tanah yang ekstrem. Jika kamu haus, kamu harus membeli air darinya dengan harga berapa pun yang ia tetapkan.
 
-Inilah esensi dari **Pasar Monopoli**. Dalam struktur pasar ini, satu perusahaan berdiri sebagai penguasa tunggal, menjadi produsen utama di wilayahnya tanpa ada penantang yang berarti.
+Inilah esensi dari **Pasar Monopoli**. Dalam struktur pasar ini, hanya ada satu perusahaan yang menjadi produsen di wilayahnya, tanpa pesaing yang berarti.
 
 ## 1. Karakteristik Utama Sang Penguasa Pasar
 
@@ -57,7 +57,7 @@ $$
 
 Setelah menemukan jumlah produksi optimal $Q$, produsen akan melihat kurva permintaan pasar untuk menentukan harga maksimum yang bersedia dibayar oleh konsumen.
 
-Apakah seorang monopolis akan selalu menaikkan harga setinggi-tingginya? Jawabannya tidak selalu. Jika harga dipatok terlampau tinggi, jumlah barang yang dibeli konsumen akan anjlok drastis sehingga total laba justru merosot. Monopolis harus menemukan titik keseimbangan optimum antara harga jual dan volume penjualan.
+Apakah seorang monopolis akan selalu menaikkan harga setinggi-tingginya? Jawabannya tidak selalu. Jika harga dipatok terlampau tinggi, jumlah barang yang dibeli konsumen akan turun tajam sehingga total laba justru merosot. Monopolis harus menemukan titik keseimbangan optimum antara harga jual dan volume penjualan.
 
 ## 4. Memilih Harga Jual
 
@@ -106,4 +106,4 @@ Meskipun monopoli mendatangkan keuntungan besar bagi pemilik usaha, dari sudut p
 > **Pesan Utama:** Karena monopolis sengaja membatasi volume produksi untuk menahan harga tinggi, terjadi **Inefisiensi Alokatif**. Sebagian konsumen yang sejatinya rela membayar di atas biaya produksi tetap tidak bisa mengakses produk tersebut.
 
 > **Diskusi Interaktif:**
-> Di era digital saat ini, apakah perusahaan platform raksasa seperti Google atau Meta dapat dikategorikan sebagai monopoli? Hambatan apa saja yang menyulitkan pesaing baru untuk masuk dan bertanding di pasar tersebut?
+> Di era digital saat ini, apakah perusahaan platform besar seperti Google atau Meta dapat dikategorikan sebagai monopoli? Hambatan apa saja yang menyulitkan pesaing baru untuk masuk dan bertanding di pasar tersebut?

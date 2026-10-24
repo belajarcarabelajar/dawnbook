@@ -1,6 +1,6 @@
 ## Mekanisme Harga di Persaingan Sempurna
 
-Pernahkah kamu membayangkan sebuah pasar di mana tidak ada satu pun penjual yang bisa mendikte harga? Di pasar ini, harga seolah-olah turun dari langit, dan semua orang, baik penjual besar maupun kecil, harus menerimanya apa adanya. Inilah inti dari **Mekanisme Harga dalam Pasar Persaingan Sempurna (PPS)**.
+Pernahkah kamu membayangkan sebuah pasar di mana tidak ada satu pun penjual yang bisa mendikte harga? Di pasar ini, harga ditentukan oleh pasar, dan semua orang, baik penjual besar maupun kecil, harus menerimanya apa adanya. Inilah inti dari **Mekanisme Harga dalam Pasar Persaingan Sempurna (PPS)**.
 
 Dalam bagian ini, kita akan membedah bagaimana interaksi jutaan keputusan individu menciptakan satu harga keseimbangan tunggal dan mengapa dalam jangka panjang, perusahaan-perusahaan di pasar ini hanya bisa memperoleh "laba yang cukup untuk bertahan hidup."
 
