@@ -22,9 +22,9 @@ Dalam ekosistem produksi di Korea Selatan, naskah berfungsi sebagai blueprint me
 
 Bayangkan sebuah restoran mewah. Sutradara bertugas layaknya pramusaji yang menyajikan hidangan dan menata ruangan, sementara aktor menjadi bahan-bahan masakannya. Namun, penulis skenario adalah kepala juru masak (*chef de cuisine*) yang meracik formula rasa. Tanpa resep yang kuat, bahan berkualitas tinggi sekalipun akan terasa hambar.
 
-### Profil Penulis Ikonik dan Karakteristik Karya Mereka
+### Penulis Terkenal dan Ciri Karya Mereka
 
-| Nama Penulis | Karya Ikonik | Karakteristik Tulisan |
+| Nama Penulis | Karya Terkenal | Karakteristik Tulisan |
 | --- | --- | --- |
 | **Kim Eun-sook** | *Goblin, Descendants of the Sun* | Dialog puitis yang cerdas (*witty*), dibalut romansa komedi yang megah. |
 | **Noh Hee-kyung** | *Our Blues, It's Okay That's Love* | Sentuhan humanisme yang peka, berfokus pada pemulihan luka batin dan kesehatan mental. |

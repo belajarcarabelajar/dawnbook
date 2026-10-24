@@ -62,7 +62,7 @@ Mari kita teliti bagaimana serial ini mengubah pandangan masyarakat:
 - **Inovasi cerita**: Penulis dan sutradara mengambil langkah berani dengan mengangkat kasus kriminal nyata yang terjadi di Korea Selatan sebagai dasar cerita.
 - Pendekatan realistis ini menghasilkan rating penayangan yang sempat menyentuh angka 70% sekaligus berhasil memulihkan citra positif kepolisian di mata publik.
 
-## Jembatan Emas Dua Dekade
+## Warisan Era 1970-an dan 1980-an
 
 Dekade 1970-an hingga 1980-an menjadi masa peralihan bagi industri televisi Korea Selatan. Tanpa keberanian mengeksplorasi genre kriminal, drama sejarah berskala besar, serta teknologi warna pada masa itu, K-Drama tidak akan memiliki kedalaman estetika visual dan narasi seperti yang kita saksikan di berbagai platform *streaming* hari ini.
 

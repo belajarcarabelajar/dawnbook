@@ -4,7 +4,7 @@ Pada awal tahun 2000-an, drama televisi Korea Selatan mulai ditonton luas di ber
 
 Pada bagian ini, kita akan membedah bagaimana dua "pilar" utama, yaitu *Winter Sonata* dan *Jewel in the Palace*, tidak hanya menjadi tontonan populer, tetapi juga menjadi instrumen diplomatik dan ekonomi yang mengubah citra Korea Selatan di mata dunia.
 
-## 1. Mengapa Hallyu Meledak di Asia?
+## 1. Mengapa Hallyu Populer di Asia?
 
 Sebelum kita masuk ke judul-judul spesifik, mari kita gunakan sebuah analogi. Bayangkan K-drama di awal 2000-an seperti sebuah "Jembatan Emosional". Di saat Barat menawarkan aksi yang meledak-ledak dan nilai-nilai individualisme, K-drama menawarkan sesuatu yang akrab bagi masyarakat Asia: **Nilai-nilai Konfusianisme**, kesetiaan keluarga, dan romansa yang murni (sering kali tanpa kontak fisik yang berlebihan).
 
@@ -14,7 +14,7 @@ Sebelum kita masuk ke judul-judul spesifik, mari kita gunakan sebuah analogi. Ba
 - Sinematografi lebih sinematik serta pemilihan lokasi syuting yang estetik mendongkrak **kualitas produksi**.
 - **Musik (OST)**: Lagu tema melankolis menjadi unsur penting yang membekas di ingatan penonton.
 
-## 2. Penaklukan Negeri Sakura oleh Winter Sonata (2002)
+## 2. Winter Sonata dan Penonton Jepang (2002)
 
 Jika ada satu drama yang bertanggung jawab mengubah hubungan diplomatik Korea dan Jepang melalui budaya, itu adalah *Winter Sonata*. Drama ini lebih dari sekadar kisah cinta segitiga dan amnesia; ia merupakan fenomena sosiologis yang nyata.
 
@@ -29,11 +29,11 @@ Aktor utama, **Bae Yong-joon**, menjadi sangat populer di kalangan wanita paruh 
 - **Melodrama Klasik**: Kisah bertumpu pada cinta yang hilang, pertemuan kembali, dan takdir tragis.
 - **Estetika Musim Dingin**: Pulau Nami yang bersalju menjadi latar visual ikonik yang romantis.
 
-## 3. Diplomasi Rasa dan Sejarah Jewel in the Palace (2003)
+## 3. Jewel in the Palace (2003) yang Mengangkat Kuliner dan Sejarah
 
 Jika *Winter Sonata* menarik penonton melalui romansa, *Jewel in the Palace* (Dae Jang Geum) menarik penonton di banyak negara melalui **Sejarah dan Kuliner**. Drama ini menceritakan perjalanan seorang yatim piatu yang menjadi koki istana hingga akhirnya menjadi dokter wanita pertama bagi raja.
 
-### Ekspansi Global yang Luas
+### Jangkauan di Luar Asia Timur
 
 Berbeda dengan *Winter Sonata* yang berfokus di Asia Timur, *Dae Jang Geum* populer di lebih dari 90 negara, termasuk Asia Tenggara (Indonesia, Vietnam) hingga Timur Tengah (Iran). Di Iran, drama ini mencatat rating di atas 80%.
 
@@ -82,7 +82,7 @@ Pengetahuan tentang Gelombang Hallyu Pertama ini lebih dari sekadar sejarah hibu
 
 Saat ini, banyak negara (termasuk Indonesia dengan "Indo-pop" atau Thailand dengan drama BL-nya) mencoba mereplikasi formula Hallyu Pertama: **Produksi yang berkualitas tinggi + Nilai lokal yang universal + Dukungan penuh pemerintah.**
 
-## Ringkasan Singkat
+## Dua Drama Utama Gelombang Pertama
 
 | Drama | Fokus Utama | Wilayah Utama | Dampak Utama |
 | --- | --- | --- | --- |

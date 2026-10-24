@@ -4,7 +4,7 @@ Drama Korea kini semakin sering diadaptasi dari webtoon dan bereksperimen dengan
 
 Di bab ini, kita akan membedah bagaimana webtoon menjadi sumber ide baru. Kita juga akan melihat bagaimana eksperimen genre seperti *thriller*, horor, dan *sci-fi* berhasil mengubah wajah industri hiburan Korea di mata dunia.
 
-### 1. Revolusi Webtoon
+### 1. Webtoon dan Strategi OSMU
 
 Webtoon tidak hanya berfungsi sebagai komik digital biasa, tetapi juga menjadi *storyboard* yang sudah teruji popularitasnya. Fenomena *One Source Multi-Use* (OSMU) kini menjadi strategi utama di mana satu *intellectual property* (IP) dikembangkan ke berbagai format media.
 
@@ -16,7 +16,7 @@ Webtoon tidak hanya berfungsi sebagai komik digital biasa, tetapi juga menjadi *
 
 > **Analogi:** Memproduksi drama dari webtoon ibarat membangun rumah dengan cetak biru yang sudah divalidasi oleh ribuan arsitek (pembaca). Risiko kegagalan struktural menjadi jauh lebih kecil dibandingkan dengan membangun tanpa perencanaan matang.
 
-#### Contoh Transformasi Ikonik
+#### Contoh Adaptasi Webtoon
 
 - *Itaewon Class* (2020) sukses mengemas kisah balas dendam dan persaingan bisnis menjadi simbol perjuangan anak muda.
 - Melalui *Moving* (2023), industri membuktikan bahwa kisah *superhero* bermuatan kearifan lokal mampu bersaing dengan skala produksi Hollywood.

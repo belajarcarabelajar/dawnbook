@@ -2,7 +2,7 @@
 
 Perkembangan pertelevisian Korea Selatan mencapai titik balik estetika yang menarik. Berbeda dengan era sebelumnya yang didominasi melodrama penuh air mata dan konflik kelas sosial yang berat, periode modernisasi melahirkan tren baru yang dikenal sebagai *trendy drama*. Pada era ini, fokus narasi bergeser dari sekadar bertahan hidup ke arah penggambaran gaya hidup perkotaan, estetika visual yang modis, serta dinamika hubungan yang terasa lebih ringan namun tetap menyentuh emosi.
 
-## Dari Air Mata ke Tawa dan Gaya
+## Dari Melodrama Sedih ke Komedi Romantis dan Gaya Hidup
 
 Modernisasi drama Korea bermula ketika para produser menyadari bahwa pemirsa tidak hanya ingin larut dalam kesedihan karakter, tetapi juga ingin meniru gaya hidup mereka. Hal ini memicu integrasi yang kuat antara kisah romansa dan representasi tren modern.
 
@@ -24,7 +24,7 @@ Persamaan ini menggambarkan bagaimana dua karakter dengan kepribadian bertolak b
 
 > **Insight:** Evolusi cerita ini tidak menghilangkan konflik emosional, tetapi mengemasnya melalui dialog yang cerdas (*witty*) serta situasi sehari-hari yang dekat (*relatable*) dengan kehidupan masyarakat urban.
 
-## Sinematografi sebagai Bahasa Visual
+## Standar Visual Setara Film Layar Lebar
 
 Pada fase ini, industri drama Korea mulai menerapkan standar visual yang menyerupai film layar lebar. Kamera tidak lagi diposisikan sebagai alat dokumentasi statis, melainkan medium penuturan cerita yang aktif.
 

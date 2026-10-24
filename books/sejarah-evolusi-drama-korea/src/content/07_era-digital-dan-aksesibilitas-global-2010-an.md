@@ -4,7 +4,7 @@ Pada dekade 2010-an, platform *streaming* legal dan media sosial membawa K-drama
 
 Bayangkan K-drama pada awal tahun 2000-an bagaikan butik eksklusif yang hanya bisa kamu kunjungi jika kamu tahu persis lokasinya. Namun, memasuki era 2010-an, butik tersebut tiba-tiba membuka cabang di setiap sudut internet melalui platform *streaming* dan media sosial. Inilah masa ketika hambatan bahasa mulai berkurang berkat interaksi digital dan koneksi internet cepat.
 
-## 1. Platform Streaming dan Runtuhnya Batas Geografis
+## 1. Platform Streaming dan Penonton di Luar Asia
 
 Sebelum tahun 2010, penggemar K-drama di luar Asia harus bergantung pada DVD fisik yang mahal atau situs bajakan dengan kualitas video rendah serta terjemahan yang membingungkan.
 
@@ -52,7 +52,7 @@ Langkah berani ini diambil agar drama bisa lulus sensor ketat di China, sehingga
 
 Drama ini mencetak rating di atas 30% di Korea Selatan. Lebih dari itu, kepopulerannya mendominasi lini masa media sosial global, membuktikan bahwa kisah bertema militer dan kemanusiaan memiliki daya tarik universal yang melintasi batas budaya.
 
-## 4. Media Sosial sebagai Bahan Bakar Viralitas
+## 4. Media Sosial dan Komunitas Penggemar Global
 
 Twitter (kini X), Facebook, dan Instagram berfungsi sebagai "ruang keluarga digital" bagi komunitas global. Penggemar tidak lagi menonton secara terisolasi; mereka aktif berdiskusi, membuat meme, dan membagikan cuplikan video secara langsung (*real-time*).
 
@@ -66,7 +66,7 @@ Dampak pariwisata terasa ketika lokasi syuting seperti Pantai Zakynthos di Yunan
 
 > "Di era 2010-an, K-drama telah bergeser dari sekadar hiburan layar kaca menjadi bagian dari identitas global bagi para penggemarnya."
 
-## Ringkasan Transisi
+## Hallyu 1.0 dan Hallyu 2.0
 
 | Fitur | Awal 2000-an (Hallyu 1.0) | 2010-an (Digital/Hallyu 2.0) |
 | :--- | :--- | :--- |

@@ -12,7 +12,7 @@ Tahun 2016 adalah tahun penting ketika Netflix secara resmi meluncurkan layanann
 
 > "Lebih dari sekadar tempat penayangan baru, platform OTT memberi penulis ruang bereksperimen di luar batasan rating penyiaran."
 
-### 2. Runtuhnya Tembok Sensor dan Tabu
+### 2. Longgarnya Sensor dan Tabu
 
 Salah satu perubahan paling mencolok adalah kebebasan konten. Televisi publik di Korea (KBS, MBC, SBS) memiliki aturan sensor yang ketat dari *Korea Communications Standards Commission* (KCSC).
 
@@ -27,7 +27,7 @@ Aturan ketat di stasiun TV konvensional sering kali menyensor gambar tajam seper
 | **Model Pendapatan** | Iklan & Product Placement (PPL) | Langganan (Subscription) |
 | **Fokus Cerita** | Luas (Family-friendly) | Niche (Spesifik & Eksperimental) |
 
-### 3. Anggaran Spektakuler dan Kualitas Sinematik
+### 3. Anggaran Besar dan Kualitas Sinematik
 
 Dengan masuknya modal asing, anggaran produksi K-Drama melonjak ke angka yang sebelumnya hanya mungkin ditemukan di film layar lebar.
 

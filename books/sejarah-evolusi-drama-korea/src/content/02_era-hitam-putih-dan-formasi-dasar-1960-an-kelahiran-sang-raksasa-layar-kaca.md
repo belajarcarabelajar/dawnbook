@@ -73,7 +73,7 @@ Meski industri kini memakai resolusi 4K dan teknologi CGI, fondasi yang diletakk
 * Kehadiran **sentimen "Han"**, yaitu perasaan duka mendalam sekaligus ketabahan yang kerap muncul dalam melodrama modern seperti *Autumn in My Heart*. Ini adalah bentuk evolusi langsung dari genre *Shinpa* tempo dulu.
 * Konsep **hierarki keluarga** dan penghormatan kepada orang tua tetap menjadi sumbu konflik utama dalam drama populer modern seperti *Reborn Rich* atau *Sky Castle*. Nilai-nilai ini awalnya dibangun lewat narasi-narasi di dekade 1960-an.
 
-## Ringkasan Teknis Era 1960-an
+## Perbandingan Teknis Era 1960-an dan Era Modern
 
 Untuk memahami skala evolusi ini, lihat perbandingan sederhana berikut:
 

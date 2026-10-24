@@ -14,7 +14,7 @@ Hingga akhir 1980-an, pemirsa Korea Selatan hanya memiliki dua pilihan utama: **
 
 > **Analogi Sederhana:** Bayangkan sebuah pasar yang selama puluhan tahun hanya menjual dua jenis roti yang rasanya sama. Tiba-tiba, sebuah toko roti baru buka dengan menu yang lebih berani, topping yang melimpah, dan dekorasi toko yang modern. Toko lama tidak punya pilihan lain selain merombak resep mereka atau mereka akan kehilangan pelanggan. Itulah yang dilakukan SBS terhadap KBS dan MBC.
 
-### 2. Sandglass (1995) yang "Menghentikan" Sebuah Bangsa
+### 2. Sandglass (1995) dan Dampak Sosiopolitiknya
 
 Jika kita harus menunjuk satu drama yang mendefinisikan era 90-an, jawabannya adalah **Sandglass (Moraesigye)**. Drama ini tumbuh menjadi fenomena sosiopolitik yang nyata, melampaui fungsinya sebagai tontonan biasa.
 
