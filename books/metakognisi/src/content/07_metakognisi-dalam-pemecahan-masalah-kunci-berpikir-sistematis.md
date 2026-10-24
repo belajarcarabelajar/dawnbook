@@ -48,7 +48,7 @@ Rencana yang matang belum tentu menjamin keberhasilan. Kamu juga harus rajin mem
 
 ### 2.1. Memantau Kemajuan
 
-Ketika sedang menerapkan suatu strategi, selalu perhatikan bagaimana caramu mengeksekusinya.
+Ketika sedang menerapkan suatu strategi, selalu cermati bagaimana caramu mengeksekusinya.
 
 - **Tanya pada diri sendiri:**
 	- "Apakah saya paham bagian ini?"
