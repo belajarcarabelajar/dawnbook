@@ -2,9 +2,9 @@
 
 Bayangkan seseorang sedang menjaga sebuah toko. Di akhir hari, harus dipastikan bahwa jumlah uang di laci kasir ditambah dengan total pengeluaran harus sama persis dengan modal awal ditambah pendapatan. Jika ada satu rupiah saja yang hilang, kita tahu ada sesuatu yang salah.
 
-Alam semesta beroperasi dengan cara yang sama. Dalam peristiwa **Peluruhan Beta**, meskipun sebuah inti atom berubah wujud menjadi inti lain, alam semesta memiliki buku kas yang sangat ketat. Ada aturan-aturan tertentu yang tidak boleh dilanggar, yang kita sebut sebagai **Hukum Kekekalan**.
+Alam semesta beroperasi dengan cara yang sama. Dalam peristiwa **Peluruhan Beta**, meskipun sebuah inti atom berubah wujud menjadi inti lain, alam semesta memiliki buku kas yang ketat. Ada aturan-aturan tertentu yang tidak boleh dilanggar, yang kita sebut sebagai **Hukum Kekekalan**.
 
-Tanpa pemahaman tentang hukum-hukum ini, kita tidak akan pernah bisa memprediksi hasil reaksi nuklir atau menemukan partikel misterius seperti *neutrino*.
+Tanpa pemahaman tentang hukum-hukum ini, kita tidak akan pernah bisa memprediksi hasil reaksi nuklir atau menemukan partikel seperti *neutrino*.
 
 ## 1. Kekekalan Muatan Listrik ($Q$)
 
@@ -45,7 +45,7 @@ Lihat angka atas (14). Sebelum dan sesudah reaksi, jumlahnya tidak berubah, yait
 
 Inilah bagian yang sempat membuat para fisikawan pusing di awal abad ke-20. Ketika mengamati peluruhan beta, para ilmuwan melihat bahwa energi elektron yang keluar bervariasi (spektrum kontinu). Jika hanya ada dua partikel yang dihasilkan (inti baru dan elektron), seharusnya elektron selalu memiliki energi yang sama berdasarkan hukum kekekalan momentum.
 
-Wolfgang Pauli mengusulkan sebuah solusi jenius: ada partikel hantu yang membawa pergi sisa energi dan momentum tersebut agar hukum kekekalan terjaga. Partikel inilah yang kita kenal sebagai **Neutrino** ($\nu$) atau **Antineutrino** ($\bar{\nu}$).
+Wolfgang Pauli mengusulkan sebuah solusi: ada partikel hantu yang membawa pergi sisa energi dan momentum tersebut agar hukum kekekalan terjaga. Partikel inilah yang kita kenal sebagai **Neutrino** ($\nu$) atau **Antineutrino** ($\bar{\nu}$).
 
 - **Momentum Linear:** Jumlah vektor momentum sebelum dan sesudah harus sama. Jika inti sisa bergerak ke kiri, maka elektron dan neutrino harus bergerak ke arah yang menyeimbangkannya.
 - **Energi:** Total energi massa diam ditambah energi kinetik harus sama sebelum dan sesudah peluruhan:

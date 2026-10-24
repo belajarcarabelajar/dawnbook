@@ -59,9 +59,9 @@ Proses perpindahan elektron ini menghasilkan dua fenomena deteksi yang sangat pe
 
 ### Penggunaan dalam Sains dan Medis
 
-Penangkapan elektron bukan sekadar teori fisika; ia memiliki kegunaan praktis yang luar biasa:
+Penangkapan elektron bukan sekadar teori fisika; ia memiliki kegunaan praktis:
 
-- **Diagnostik Medis (Isotop Iodium-123):** Isotop ${}^{123}\text{I}$ meluruh melalui penangkapan elektron menjadi ${}^{123}\text{Te}$. Proses ini memancarkan Sinar-X yang sangat berguna dalam pemindaian kelenjar tiroid tanpa memberikan dosis radiasi partikel (beta) yang merusak jaringan tubuh pasien.
+- **Diagnostik Medis (Isotop Iodium-123):** Isotop ${}^{123}\text{I}$ meluruh melalui penangkapan elektron menjadi ${}^{123}\text{Te}$. Proses ini memancarkan Sinar-X yang berguna dalam pemindaian kelenjar tiroid tanpa memberikan dosis radiasi partikel (beta) yang merusak jaringan tubuh pasien.
 
   **Persamaan:**
   <div>
@@ -81,4 +81,4 @@ Penangkapan elektron bukan sekadar teori fisika; ia memiliki kegunaan praktis ya
 | **Hasil Akhir** | Proton $\rightarrow$ Neutron | Proton $\rightarrow$ Neutron |
 | **Efek Samping** | Anihilasi Gamma | Sinar-X atau Elektron Auger |
 
-> **Insight Berharga:** Penangkapan elektron membuktikan betapa efisiennya alam semesta. Jika sebuah atom tidak mampu membayar biaya untuk membuang partikel (beta plus), ia akan menggunakan sumber daya yang sudah ada di sekitarnya (elektron orbital) untuk mencapai kedamaian atau stabilitas.
+> **Insight Berharga:** Penangkapan elektron adalah jalan lain menuju stabilitas. Jika sebuah atom tidak mampu membayar biaya untuk membuang partikel (beta plus), ia akan menggunakan sumber daya yang sudah ada di sekitarnya (elektron orbital).

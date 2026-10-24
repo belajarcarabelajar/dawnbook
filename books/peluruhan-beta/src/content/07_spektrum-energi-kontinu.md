@@ -38,13 +38,13 @@ $$
 
 Karena massa inti sangat besar dibandingkan elektron, energi kinetik inti ($K_{\text{inti}}$) biasanya diabaikan, sehingga: $Q \approx K_{\beta} + K_{\nu}$
 
-Di mana $K_{\nu}$ adalah energi yang dibawa oleh partikel misterius yang kita sebut **neutrino**.
+Di mana $K_{\nu}$ adalah energi yang dibawa oleh partikel yang kita sebut **neutrino**.
 
 ### 3. Krisis Hukum Kekekalan Energi
 
 Sebelum keberadaan neutrino diusulkan, spektrum kontinu ini menciptakan krisis besar dalam dunia fisika. Jika partikel beta keluar dengan energi yang lebih kecil dari $E_{\text{max}}$, lalu ke mana sisa energinya pergi?
 
-Ada dua kemungkinan mengerikan bagi fisikawan saat itu:
+Ada dua kemungkinan bagi fisikawan saat itu:
 
 1. **Hukum Kekekalan Energi tidak berlaku** pada skala subatomik (pendapat yang sempat didukung oleh Niels Bohr).
 2. Ada **partikel tak terlihat** yang membawa sisa energi tersebut.
@@ -55,7 +55,7 @@ Pada tahun 1930, Wolfgang Pauli memilih opsi kedua. Ia mengusulkan keberadaan pa
 
 - Jika partikel beta membawa energi kecil, neutrino membawa energi besar.
 - Jika partikel beta membawa energi maksimal ($E_{\text{max}}$), maka neutrino membawa energi mendekati nol.
-- Total energi keduanya selalu tetap, sehingga **Hukum Kekekalan Energi tetap tegak berdiri.**
+- Total energi keduanya selalu tetap, sehingga **Hukum Kekekalan Energi tetap berlaku.**
 
 ### 4. Perbandingan Visual Alfa vs Beta
 
@@ -68,7 +68,7 @@ Pada tahun 1930, Wolfgang Pauli memilih opsi kedua. Ia mengusulkan keberadaan pa
 
 ### 5. Spektroskopi Beta
 
-Dalam dunia nyata, pemahaman tentang spektrum kontinu ini sangat krusial dalam **Dosimetri Radiasi** dan **Identifikasi Isotop**.
+Dalam dunia nyata, pemahaman tentang spektrum kontinu ini penting dalam **Dosimetri Radiasi** dan **Identifikasi Isotop**.
 
 **Brachytherapy Medis** Dalam pengobatan kanker menggunakan sumber beta seperti Strontium-90 (${}^{90}\text{Sr}$), dokter tidak hanya melihat energi maksimumnya. Karena spektrumnya kontinu, dosis radiasi yang diterima jaringan tidak seragam di seluruh kedalaman.
 
@@ -79,4 +79,4 @@ Dalam dunia nyata, pemahaman tentang spektrum kontinu ini sangat krusial dalam *
 
 *Coba renungkan: Jika kita berhasil menciptakan alat pendeteksi yang bisa menangkap elektron dan neutrino secara bersamaan dalam sebuah peluruhan beta, apakah kita akan melihat spektrum garis kembali untuk total energi keduanya? Mengapa demikian?*
 
-> **Kesimpulan Penting:** Spektrum energi kontinu pada peluruhan beta adalah bukti tidak langsung namun kuat akan keberadaan **neutrino**. Tanpa distribusi energi yang kontinu ini, kita mungkin tidak akan pernah menyadari adanya partikel hantu yang memenuhi alam semesta kita.
+> **Kesimpulan Penting:** Spektrum energi kontinu pada peluruhan beta adalah bukti tidak langsung namun kuat akan keberadaan **neutrino**. Tanpa distribusi energi yang kontinu ini, kita mungkin tidak akan pernah menyadari adanya neutrino.

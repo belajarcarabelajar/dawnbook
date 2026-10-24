@@ -1,6 +1,6 @@
 ## Peran Neutrino dan Antineutrino
 
-Pernahkah terbayang sebuah partikel yang bisa menembus dinding beton setebal satu tahun cahaya tanpa menyentuh satu atom pun? Selamat datang di dunia **Neutrino** dan **Antineutrino**. Dalam bab ini, kita akan menelusuri jejak partikel hantu yang kehadirannya sempat dianggap sebagai solusi putus asa namun akhirnya menjadi kunci pembuka rahasia alam semesta.
+Pernahkah terbayang sebuah partikel yang bisa menembus dinding beton setebal satu tahun cahaya tanpa menyentuh satu atom pun? Selamat datang di dunia **Neutrino** dan **Antineutrino**. Dalam bab ini, kita akan menelusuri jejak partikel hantu yang kehadirannya sempat dianggap sebagai solusi putus asa namun akhirnya berhasil dideteksi.
 
 ### 1. Krisis Hukum Kekekalan
 
@@ -8,7 +8,7 @@ Pada awal abad ke-20, para fisikawan menghadapi dilema besar. Dalam peluruhan al
 
 Secara matematis, jika sebuah inti atom $A$ meluruh menjadi $B$ dan sebuah elektron ($e^-$), maka energi elektron seharusnya selalu sama dengan selisih massa antara $A$ dan $B$. Faktanya, energi elektron seringkali **lebih kecil** dari yang seharusnya.
 
-**Ke mana perginya sisa energi tersebut?** Ada dua pilihan pahit saat itu:
+**Ke mana perginya sisa energi tersebut?** Ada dua pilihan saat itu:
 
 1. Hukum Kekekalan Energi tidak berlaku di tingkat subatomik (pendapat Niels Bohr).
 2. Ada partikel tak terlihat yang membawa lari sisa energi tersebut.
@@ -71,7 +71,7 @@ Meskipun terdengar seperti sains fiksi, neutrino memiliki kegunaan nyata:
 
 1. **Tomografi Bumi:** Ilmuwan menggunakan neutrino yang dihasilkan di atmosfer untuk memetakan kepadatan inti bumi, karena neutrino melambat sedikit saat melewati material padat.
 2. **Pemantauan Reaktor Nuklir:** Karena reaktor menghasilkan antineutrino dalam jumlah besar, badan pengawas internasional dapat mendeteksi apakah sebuah negara sedang memproduksi plutonium untuk senjata nuklir hanya dengan menempatkan detektor neutrino di luar gedung reaktor tanpa harus masuk ke dalam.
-3. **Astronomi Neutrino:** Tidak seperti cahaya yang bisa terhalang debu angkasa, neutrino dari ledakan bintang (Supernova) sampai ke bumi tanpa hambatan, memberikan informasi langsung tentang apa yang terjadi di jantung bintang.
+3. **Astronomi Neutrino:** Tidak seperti cahaya yang bisa terhalang debu angkasa, neutrino dari ledakan bintang (Supernova) sampai ke bumi tanpa hambatan, memberikan informasi langsung tentang apa yang terjadi di bagian dalam bintang.
 
 ### Ringkasan Konsep
 
@@ -82,4 +82,4 @@ Meskipun terdengar seperti sains fiksi, neutrino memiliki kegunaan nyata:
 | **Muatan** | Netral ($0$) | Netral ($0$) |
 | **Helisitas** | Kidal (Left-handed) | Kanan (Right-handed) |
 
-*Renungan Realitas Kosmis: Apabila triliunan neutrino menembus struktur fisik manusia setiap detik tanpa interaksi, fakta ini mengungkap bahwa materi padat di alam semesta sebagian besar terdiri dari ruang hampa subatomik.*
+*Renungan: Apabila triliunan neutrino menembus struktur fisik manusia setiap detik tanpa interaksi, fakta ini mengungkap bahwa materi padat di alam semesta sebagian besar terdiri dari ruang hampa subatomik.*

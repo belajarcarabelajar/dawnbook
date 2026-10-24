@@ -1,6 +1,6 @@
 ## Keamanan dan Proteksi Radiasi Beta
 
-Kamu sudah memahami bagaimana peluruhan beta terjadi dan bagaimana partikel ini digunakan dalam berbagai teknologi. Pertanyaan krusial yang muncul adalah: **Bagaimana interaksi dengan radiasi ini dapat dilakukan secara aman?**
+Kamu sudah memahami bagaimana peluruhan beta terjadi dan bagaimana partikel ini digunakan dalam berbagai teknologi. Pertanyaan berikutnya adalah: **Bagaimana interaksi dengan radiasi ini dapat dilakukan secara aman?**
 
 Berbeda dengan partikel alfa yang berat atau sinar gamma yang sangat menembus, partikel beta memiliki karakteristik unik yang memerlukan strategi perlindungan khusus. Bagian ini akan membahas daya tembus partikel beta dan bagaimana memilih material perisai yang tepat untuk menjaga keselamatan diri.
 
@@ -33,7 +33,7 @@ Risiko terbesar muncul jika isotop pemancar beta masuk ke dalam tubuh melalui pe
 
 ### 3. Mengapa Timbal Bukan Selalu Perisai Terbaik?
 
-Dalam dunia proteksi radiasi gamma, timbal ($\text{Pb}$) adalah standar emas karena nomor atomnya ($Z$) yang tinggi. Namun, **untuk radiasi beta, menggunakan timbal secara langsung bisa berbahaya.**
+Dalam dunia proteksi radiasi gamma, timbal ($\text{Pb}$) adalah pilihan utama karena nomor atomnya ($Z$) yang tinggi. Namun, **untuk radiasi beta, menggunakan timbal secara langsung bisa berbahaya.**
 
 #### Fenomena Bremsstrahlung (Radiasi Pengereman)
 
@@ -53,7 +53,7 @@ $$
 
 Untuk meminimalkan efek Bremsstrahlung, kita harus menggunakan material dengan **nomor atom rendah (Low-Z)**. Material ini akan menghentikan partikel beta dengan lebih lembut tanpa menghasilkan banyak sinar-X.
 
-1. **Plastik atau Akrilik (Plexiglass):** Material ini sangat ideal karena kaya akan hidrogen dan karbon (nomor atom rendah). Ketebalan sekitar 1 hingga 2 cm biasanya cukup untuk menghentikan sebagian besar partikel beta laboratorium.
+1. **Plastik atau Akrilik (Plexiglass):** Material ini cocok karena kaya akan hidrogen dan karbon (nomor atom rendah). Ketebalan sekitar 1 hingga 2 cm biasanya cukup untuk menghentikan sebagian besar partikel beta laboratorium.
 2. **Aluminium:** Logam ringan ini juga efektif dan sering digunakan dalam aplikasi industri sebagai perisai tambahan.
 3. **Kayu:** Meskipun jarang digunakan secara formal, kayu yang tebal mampu menyerap radiasi beta.
 
@@ -93,4 +93,4 @@ Dalam pabrik kertas, sumber beta digunakan untuk mengukur ketebalan kertas secar
 | **Risiko Utama** | Luka bakar kulit, kerusakan mata, dan kontaminasi internal. |
 | **Kesalahan Umum** | Menggunakan timbal tipis yang justru memicu radiasi Sinar-X (Bremsstrahlung). |
 
-**Pesan Penting:** Dalam menangani radiasi beta, kejernihan pandangan (visual) sangat penting. Oleh karena itu, penggunaan perisai akrilik transparan sangat populer karena memungkinkan teknisi melihat apa yang dikerjakan dengan aman tanpa harus terpapar langsung oleh pancaran partikel beta.
+**Pesan Penting:** Dalam menangani radiasi beta, kejernihan pandangan (visual) penting. Oleh karena itu, perisai akrilik transparan banyak dipakai karena memungkinkan teknisi melihat apa yang dikerjakan dengan aman tanpa harus terpapar langsung oleh pancaran partikel beta.

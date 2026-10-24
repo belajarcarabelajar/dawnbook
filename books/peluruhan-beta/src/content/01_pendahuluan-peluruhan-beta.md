@@ -57,7 +57,7 @@ Salah satu contoh peluruhan beta yang paling terkenal dan berguna bagi sejarah m
 
 1. Semua makhluk hidup menyerap ${}^{14}\text{C}$ dari atmosfer selama mereka hidup.
 2. Setelah mati, penyerapan berhenti, dan ${}^{14}\text{C}$ di dalam kayu mulai meluruh menjadi Nitrogen-14 (${}^{14}\text{N}$) melalui **peluruhan beta**.
-3. Karena kita tahu seberapa cepat partikel beta dipancarkan (waktu paruhnya), kita bisa menghitung sisa ${}^{14}\text{C}$ dan menentukan usia benda tersebut dengan akurasi yang luar biasa.
+3. Karena kita tahu seberapa cepat partikel beta dipancarkan (waktu paruhnya), kita bisa menghitung sisa ${}^{14}\text{C}$ dan menentukan usia benda tersebut.
 
 ## Ringkasan Konsep Dasar
 

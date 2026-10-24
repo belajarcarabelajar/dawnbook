@@ -1,16 +1,16 @@
 ## Struktur Atom dan Ketidakstabilan Inti
 
-Beberapa benda di alam semesta ini tetap utuh selama miliaran tahun, sementara yang lain perlahan-lahan berubah menjadi unsur yang berbeda. Mengapa bisa begitu? Jawabannya terletak jauh di dalam jantung atom, pada **nukleus** atau inti atom.
+Beberapa benda di alam semesta ini tetap utuh selama miliaran tahun, sementara yang lain perlahan-lahan berubah menjadi unsur yang berbeda. Mengapa bisa begitu? Jawabannya terletak pada **nukleus** atau inti atom.
 
-Dalam bagian ini, kita akan mengeksplorasi bagaimana arsitektur inti atom menentukan nasibnya: apakah ia akan menjadi fondasi yang kokoh bagi materi, atau justru menjadi bom waktu mikroskopis yang memicu peluruhan beta.
+Dalam bagian ini, kita akan melihat bagaimana susunan inti atom menentukan apakah inti itu stabil atau justru meluruh lewat peluruhan beta.
 
 ### 1. Pertarungan Dua Gaya di Inti Atom
 
 Inti atom bukanlah sekumpulan partikel yang diam. Di dalamnya terdapat dua jenis nukleon (partikel penyusun inti): **Proton** yang bermuatan positif ($p^+$) dan **Neutron** yang bermuatan netral ($n^0$).
 
-Kehidupan di dalam inti atom adalah hasil dari tarik-ulur antara dua gaya fundamental:
+Keadaan di dalam inti atom ditentukan oleh tarik-ulur antara dua gaya fundamental:
 
-1. **Gaya Nuklir Kuat (Strong Nuclear Force):** Seperti lem super yang sangat kuat namun memiliki jangkauan sangat pendek. Gaya ini merekatkan proton dan neutron agar tetap bersatu.
+1. **Gaya Nuklir Kuat (Strong Nuclear Force):** Seperti lem yang kuat namun memiliki jangkauan sangat pendek. Gaya ini merekatkan proton dan neutron agar tetap bersatu.
 2. **Gaya Elektromagnetik (Gaya Coulomb):** Gaya tolak-menolak antar sesama proton karena muatan positifnya yang sejenis.
 
 > **Analogi Sederhana:** Bayangkan inti atom adalah sebuah ruangan kecil yang penuh dengan magnet-magnet kuat yang saling menolak (proton). Agar ruangan itu tidak meledak, kita membutuhkan perekat khusus (neutron) yang memberikan gaya tarik tambahan tanpa menambah gaya tolak.
@@ -42,7 +42,7 @@ Jika kita memplot jumlah neutron ($N$) terhadap jumlah proton ($Z$) dalam sebuah
 
 #### Mengapa Peluruhan Beta Terjadi?
 
-Peluruhan beta adalah mekanisme koreksi otomatis alam semesta untuk memperbaiki rasio N/Z yang menyimpang:
+Peluruhan beta adalah cara inti memperbaiki rasio N/Z yang menyimpang:
 
 1. **Kelebihan Neutron (Di atas pita kestabilan):** Rasio N/Z terlalu tinggi. Inti ingin mengubah neutron menjadi proton untuk menurunkan rasio tersebut. Inilah pemicu **Peluruhan Beta Minus ($\beta^-$)**.
 2. **Kekurangan Neutron/Kelebihan Proton (Di bawah pita kestabilan):** Rasio N/Z terlalu rendah. Inti ingin mengubah proton menjadi neutron untuk meningkatkan rasio tersebut. Inilah pemicu **Peluruhan Beta Plus ($\beta^+$)** atau **Penangkapan Elektron**.
@@ -85,4 +85,4 @@ flowchart TD
     A -->|"sangat berat, Z lebih dari 83, di ujung atas pita"| D["Peluruhan alfa"]
 ```
 
-**Poin Penting:** Peluruhan beta bukanlah sebuah kerusakan, melainkan upaya elegan dari inti atom untuk mencapai konfigurasi energi yang paling rendah dan stabil melalui penyesuaian rasio proton dan neutronnya.
+**Poin Penting:** Peluruhan beta bukanlah sebuah kerusakan, melainkan cara inti atom untuk mencapai konfigurasi energi yang paling rendah dan stabil melalui penyesuaian rasio proton dan neutronnya.

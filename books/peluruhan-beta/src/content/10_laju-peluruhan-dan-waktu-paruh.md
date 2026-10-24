@@ -2,7 +2,7 @@
 
 Pernahkah muncul pertanyaan, jika kita memiliki satu gram zat radioaktif yang memancarkan partikel beta, apakah zat tersebut akan habis dalam sekejap? Ataukah ia akan bertahan selamanya?
 
-Dalam dunia fisika nuklir, kita tidak bisa memprediksi kapan **satu atom spesifik** akan meluruh. Namun, kita bisa memprediksi dengan sangat akurat bagaimana **sekelompok besar atom** akan berperilaku. Inilah keindahan dari statistik peluruhan radioaktif.
+Dalam dunia fisika nuklir, kita tidak bisa memprediksi kapan **satu atom spesifik** akan meluruh. Namun, kita bisa memprediksi dengan sangat akurat bagaimana **sekelompok besar atom** akan berperilaku. Itulah yang dijelaskan oleh statistik peluruhan radioaktif.
 
 ### 1. Probabilitas dalam Ketidakpastian
 
@@ -123,7 +123,7 @@ Hasil ini sama dengan $1000 \times (\frac{1}{2})^2$ pada rumus praktis di bagian
 
 ### 7. Mengapa Laju Peluruhan Perlu Dihitung?
 
-**Skenario Medis (Brachytherapy):** Dokter menggunakan isotop pemancar beta untuk membunuh sel kanker. Mereka harus menghitung laju peluruhan dengan sangat presisi. Jika laju peluruhan tidak dihitung dengan benar:
+**Skenario Medis (Brachytherapy):** Dokter menggunakan isotop pemancar beta untuk membunuh sel kanker. Mereka harus menghitung laju peluruhan dengan teliti. Jika laju peluruhan tidak dihitung dengan benar:
 
 - **Terlalu cepat:** Dosis radiasi tidak cukup untuk membunuh tumor.
 - **Terlalu lambat:** Pasien terpapar radiasi berbahaya lebih lama dari yang dibutuhkan.
@@ -133,6 +133,6 @@ Hasil ini sama dengan $1000 \times (\frac{1}{2})^2$ pada rumus praktis di bagian
 ### Empat Konsep Kunci Laju Peluruhan
 
 - **Laju peluruhan** sebanding dengan jumlah inti yang ada.
-- **Konstanta peluruhan ($\lambda$)** menentukan seberapa agresif suatu zat meluruh.
+- **Konstanta peluruhan ($\lambda$)** menentukan seberapa cepat suatu zat meluruh.
 - **Waktu paruh ($T_{1/2}$)** adalah durasi di mana sampel berkurang menjadi setengahnya.
 - **Aktivitas** diukur dalam Bq, menggambarkan kekuatan pancaran radiasi pada saat tertentu.
