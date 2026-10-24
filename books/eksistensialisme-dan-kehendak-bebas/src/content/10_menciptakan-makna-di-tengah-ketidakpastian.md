@@ -2,7 +2,7 @@
 
 Penciptaan makna di tengah ketidakpastian ontologis merupakan bentuk aktualisasi kebebasan manusia dalam merespons ketiadaan tujuan teleologis kosmis. Setelah menelaah dialektika kebebasan radikal, kecemasan, dan kondisi absurdisme, persoalan krusial yang mengemuka adalah bagaimana kesadaran manusia mampu menegakkan makna di tengah alam semesta yang bisu dan kontingen.
 
-### 1. Ketiadaan Esensi Apriori sebagai Ruang Kreasi Murni
+### 1. Ketiadaan Rancangan Awal Membuka Ruang Kreasi
 
 Dalam ontologi eksistensialisme, ketiadaan rancangan awal bagi manusia bukanlah kondisi defisit yang melumpuhkan, melainkan premis utama bagi terbukanya ruang kreasi nilai. Ketidakpastian objektif duniawi diposisikan sebagai ruang terbuka tempat kesadaran mewujudkan intensionalitasnya.
 
@@ -45,7 +45,7 @@ Ketika subjek menghadapi krisis kehampaan di hadapan kesunyian alam semesta, pen
 | **Kelumpuhan Pilihan (*Angst*)** | Keraguan berlebih saat menghadapi berbagai alternatif jalur hidup. | Mengambil komitmen pada tindakan bertahap untuk memecah kebuntuan analisis. |
 | **Kelelahan Moral** | Kelelahan batin akibat menanggung beban kebebasan yang berat. | Mengakui batasan faktisitas jasmani dan menyusun jeda reflektif yang proporsional. |
 
-### 4. Rekonstruksi Identitas Pasca-Krisis
+### 4. Membangun Ulang Diri Setelah Krisis
 
 Ketika seorang individu mengalami disrupsi struktural dalam kehidupannya (seperti kegagalan karier atau kehilangan peran sosial), respons eksistensial membedakan antara keterpurukan pasif dan regenerasi otonom:
 - **Respon Pasif:** Mengidentifikasikan esensi diri secara kaku dengan status fungsional masa lalu, sehingga kehilangan peran sosial dianggap sebagai kehancuran eksistensi.

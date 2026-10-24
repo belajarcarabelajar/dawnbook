@@ -37,7 +37,7 @@ Ketika seorang individu mengambil suatu keputusan, tindakan tersebut tidak hanya
 
 Jean-Paul Sartre merumuskan paradoks fundamental bahwa manusia "dikutuk untuk bebas" (*condamné à être libre*). Manusia tidak menghendaki kelahirannya ke dunia, namun begitu terlempar ke dalam eksistensi, ia bertanggung jawab secara penuh atas seluruh praksis kehidupannya.
 
-#### Karakteristik Kecemasan Eksistensial menurut Sartre
+#### Ciri-Ciri Kecemasan Eksistensial
 1. **Ketiadaan Sandaran Metafisik:** Tidak tersedianya tata nilai objektif yang inheren pada kosmos, sehingga subjek memikul tugas mandiri dalam menciptakan makna.
 2. **Urgensi Temporal:** Setiap momen temporal adalah titik bifurkasi keputusan yang mendefinisikan masa depan.
 3. **Solitudo Keputusan:** Kendati individu meminta pertimbangan pihak lain, tindakan memilih penasihat mana yang akan dipercaya tetap merupakan keputusan soliter dari subjek yang bersangkutan.
@@ -49,7 +49,7 @@ Dalam dinamika masyarakat kontemporer yang menyediakan multiplisitas opsi profes
 - **Studi Kasus Otonomi Profesional:** Seorang profesional yang melepaskan stabilitas karier korporat demi membangun inisiatif independen menghadapi *Angst* bukan semata karena risiko finansial, melainkan karena ketiadaan alibi jika proyek tersebut gagal.
 - **Ketiadaan Kambing Hitam:** Kegagalan atau keberhasilan proyek otonom merupakan buah langsung dari keputusan kehendak personal.
 
-### 5. Rekonseptualisasi Kecemasan sebagai Kekuatan Otentik
+### 5. Memaknai Ulang Rasa Cemas
 
 Eksistensialisme tidak memandang kecemasan sebagai kondisi disfungsional yang harus dieliminasi melalui medikalisasi, melainkan sebagai indikator otentisitas kesadaran:
 

@@ -24,7 +24,7 @@ Guna mencapai kemerdekaan eksistensial, subjek dituntut melakukan **Transvaluasi
 | **Destruksi Radikal** | Memutuskan ketergantungan mental pada otoritas dogmatis eksternal. | Pembersihan ruang kesadaran dari rasa bersalah metafisik. |
 | **Kreasi Nilai Otonom** | Merumuskan prinsip-prinsip hidup baru yang mengafirmasi daya hidup. | Penegakan kedaulatan moral berbasis dorongan internal. |
 
-### 3. Tiga Transformasi Roh Menuju Otonomi Penuh
+### 3. Unta, Singa, dan Anak Kecil
 
 Dalam *Thus Spoke Zarathustra*, Nietzsche memetakan proses dialektika evolusi spiritual manusia melalui alegori Tiga Transformasi Roh (*Die drei Verwandlungen*):
 
@@ -46,7 +46,7 @@ flowchart TD
     R2 -->|"melampaui negasi pemberontakan"| R3["Anak Kecil, “Sebuah Roda Berputar”"]
 ```
 
-### 4. *Übermensch* dan Pemodelan Pertumbuhan Eksistensial
+### 4. *Übermensch* dan Model Pertumbuhan Diri
 
 Puncak dari proyek filosofis Nietzsche adalah figur **Übermensch** (Manusia Unggul / *Overman*). Übermensch bukanlah spesies mutan biologis, melainkan idealitas pencapaian eksistensial manusia yang berhasil melampaui nihilisme melalui penegasan hidup total (*Amor Fati*).
 

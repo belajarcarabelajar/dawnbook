@@ -2,7 +2,7 @@
 
 Kehendak bebas dalam eksistensialisme merupakan kapasitas radikal subjek untuk menentukan tindakan di tengah ketidakpastian realitas. Subjek melakukannya tanpa paksaan determinisme. Kehendak bebas bukan sekadar konsep metafisika teoretis, melainkan kondisi eksistensial niscaya yang menempatkan manusia sebagai agen otonom yang memegang kendali penuh atas trayektori kehidupannya.
 
-### 1. Ontologi Kehendak Bebas Melampaui Determinisme
+### 1. Kehendak Bebas Menghadapi Tiga Determinisme
 
 Dalam diskursus filsafat dan sains, kehendak bebas kerap dihadapkan secara biner dengan doktrin determinisme biologis, sosial, maupun teologis:
 
@@ -25,7 +25,7 @@ Struktur eksistensi manusia dalam mengekspresikan kehendak bebas bergerak dalam 
 
 > Realitas faktisitas dianalogikan seperti papan catur beserta aturan mekanis pergerakan bidaknya. Seorang pecatur tidak dapat mengubah aturan dasar langkah kuda atau benteng. Namun, kedaulatan kehendak bebas terartikulasi pada pilihan kalkulasi strategis dalam menggerakkan bidak untuk merespons langkah lawan. Papan catur menyajikan batasan faktual, namun strategi lahir sepenuhnya dari transendensi sang pemain.
 
-### 3. Pemodelan Logika Keputusan Eksistensial
+### 3. Identitas Terbentuk dari Rangkaian Pilihan
 
 Kehendak bebas beroperasi pada celah intensionalitas antara persepsi atas situasi dan eksekusi praksis. Secara matematis, identitas eksistensial subjek merupakan fungsi akumulasi dari rangkaian keputusan sadar:
 
@@ -43,7 +43,7 @@ Salah satu tesis mendasar Sartre menyatakan bahwa manusia "dikutuk untuk bebas" 
 
 Ketika seseorang bersikap pasif dan membiarkan institusi luar mendikte haluan hidupnya, sikap pasif tersebut merupakan keputusan sukarela untuk menundukkan otonomi diri. Dalih bahwa suatu tindakan "terpaksa dilakukan karena keadaan" merupakan bentuk pengingkaran terhadap keniscayaan kehendak bebas.
 
-### 5. Aktualisasi Kehendak Bebas dalam Kehidupan Konkret
+### 5. Menjalankan Kehendak Bebas di Kehidupan Nyata
 
 Pengejawantahan kehendak bebas dalam realitas konkret memerlukan disiplin kognitif dan keberanian moral:
 

@@ -13,7 +13,7 @@ Dalam kerangka eksistensialis, reklamasi otonomi digital diwujudkan melalui:
 1. **Tanggung Jawab Radikal atas Atensi:** Menyadari bahwa setiap interaksi digital merupakan pilihan kehendak sadar yang membentuk esensi diri.
 2. **Askesis Digital sebagai Tindakan Emansipatoris:** Membatasi paparan stimulus digital bukan sekadar manajemen produktivitas teknis, melainkan praksis pembebasan kesadaran dari status objek tatapan massa.
 
-### 2. Dekonstruksi Identitas Vokasional
+### 2. Identitas yang Disamakan dengan Pekerjaan
 
 Masyarakat industri dan pasca-industri kerap menjebak individu ke dalam reduksionisme fungsional, yakni menyamakan esensi kemanusiaan semata-mata dengan peran ekonomi atau gelar profesi.
 

@@ -2,7 +2,7 @@
 
 Sintesis filsafat eksistensialisme menegaskan bahwa hidup dengan pilihan sadar merupakan wujud martabat dan kedaulatan manusia. Melintasi pemikiran fundamental para filsuf eksistensialis, mulai dari doktrin ontologis bahwa eksistensi mendahului esensi, dinamika kecemasan (*Angst*) sebagai pusingnya kebebasan, hingga pemberontakan terhadap absurditas dan penegasan kehendak berkuasa, filsafat ini bermuara pada satu imperatif: kedaulatan subjek dalam menciptakan makna hidup secara otentik.
 
-### 1. Rekapitulasi Konseptual
+### 1. Pokok Pikiran Eksistensialisme
 
 Eksistensialisme hadir sebagai filsafat pembebasan yang mengonversi disorientasi kosmis menjadi panggilan keberanian praksis. Pokok-pokok pikiran yang menjadi fondasi bangunan pemikiran ini mencakup:
 
@@ -32,7 +32,7 @@ $$
 $$
 </div>
 
-### 4. Menegakkan Otentisitas di Tengah Kontingensi Duniawi
+### 4. Cara Menjaga Hidup Tetap Otentik
 
 Menjalani kehidupan secara sadar menuntut konsistensi dalam mengartikulasikan kehendak bebas:
 1. **Audit Kritis Disposisi Diri:** Menguji secara periodik apakah prinsip yang dihidupi berakar pada intensionalitas otonom atau sekadar reproduksi konformitas sosial.

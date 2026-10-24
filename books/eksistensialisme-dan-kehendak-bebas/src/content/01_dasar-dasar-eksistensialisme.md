@@ -2,7 +2,7 @@
 
 Eksistensialisme adalah aliran filsafat yang menjadikan pengalaman subjektif, kebebasan memilih, dan tanggung jawab individual fondasi eksistensi manusia. Pemikiran ini lahir bukan sekadar sebagai diskursus teoretis abstrak, melainkan sebagai artikulasi ontologis terhadap kondisi konkret manusia dalam menavigasi kehidupan di tengah dunia yang kontingen dan sarat ketidakpastian.
 
-### 1. Hakikat Ontologis Eksistensialisme
+### 1. Manusia Hadir Tanpa Tujuan Bawaan
 
 Secara ontologis, eksistensialisme berfokus pada dinamika pengalaman partikular individu, kedaulatan kehendak, dan keniscayaan tanggung jawab moral. Para pemikir eksistensialis menegaskan bahwa manusia tidak hadir dengan tujuan esensial atau takdir bawaan yang telah terdeterminasi sebelumnya. Manusia terlebih dahulu terlempar (*geworfen*) ke dalam realitas duniawi, kemudian secara sadar mengonstruksi esensi serta identitas dirinya melalui rangkaian pilihan konkret.
 
@@ -10,7 +10,7 @@ Secara ontologis, eksistensialisme berfokus pada dinamika pengalaman partikular 
 
 > Dalam perspektif eksistensial, keberadaan manusia dianalogikan seperti seorang aktor yang melangkah ke atas panggung pementasan tanpa naskah tertulis dan tanpa arahan sutradara. Seluruh gestur, artikulasi, dan tindakan panggung merupakan konsekuensi langsung dari keputusan otonom sang aktor. Hal ini menegaskan postulat fundamental bahwa setiap individu merupakan penulis, pengarah, sekaligus eksekutor atas jalan hidupnya sendiri.
 
-### 2. Genealogi Historis
+### 2. Riwayat Perkembangan Eksistensialisme
 
 Eksistensialisme berkembang secara bertahap melalui respon kritis terhadap sistem filsafat idealisme dan krisis sosio-historis peradaban modern:
 

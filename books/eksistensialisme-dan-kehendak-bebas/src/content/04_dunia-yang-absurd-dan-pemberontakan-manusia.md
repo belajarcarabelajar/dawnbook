@@ -29,7 +29,7 @@ Camus mengangkat figur mitologi Yunani, **Sisifus**, sebagai metafora kondisi ek
 
 Camus menegaskan bahwa momen paling krusial terletak pada saat Sisifus melangkah turun kembali ke dasar gunung. Pada jeda kesadaran tersebut, Sisifus menyadari sepenuhnya ketidakbermaknaan objektif tugasnya, dan kesadaran inilah yang mentransformasikan penderitaan menjadi kemenangan intelek yang otonom.
 
-### 3. Tipologi Respons terhadap Absurditas
+### 3. Kemungkinan Sikap terhadap Absurditas
 
 Dalam menghadapi realitas absurd, Camus memetakan tiga kemungkinan sikap yang dapat diambil oleh manusia:
 
