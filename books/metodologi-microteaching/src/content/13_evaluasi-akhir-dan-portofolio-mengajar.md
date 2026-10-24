@@ -93,4 +93,4 @@ Sebagai penutup dari seluruh rangkaian Microteaching, kamu wajib menyusun **Renc
 
 Evaluasi Akhir dan Portofolio Mengajar adalah momen di mana kamu berhenti sejenak untuk melihat ke belakang, agar kamu bisa berlari lebih cepat ke depan. Microteaching bukan sekadar simulasi singkat; ia adalah bekal awal kamu sebagai guru profesional. Dengan mendokumentasikan setiap prosesnya, kamu sedang menyusun catatan kompetensi yang bisa terus kamu kembangkan.
 
-Joseph Joubert, moralis Prancis (1754-1824), menulis dalam *Pensées*, "Mengajar adalah belajar dua kali." Mendokumentasikan proses belajar itu adalah cara terbaik untuk memastikan kita tidak pernah berhenti bertumbuh.
+Joseph Joubert menulis dalam *Pensées*, "Mengajar adalah belajar dua kali." Mendokumentasikan proses belajar itu adalah cara terbaik untuk memastikan kita tidak pernah berhenti bertumbuh.
