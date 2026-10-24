@@ -72,7 +72,7 @@ Di sebuah sekolah di Chicago, siswa yang tidak lulus mata pelajaran tertentu tid
 
 Mengubah pola pikir tidak terjadi dalam semalam. Berikut adalah langkah-langkah praktisnya:
 
-1. **Sadari dan Kenali Suara Fixed Mindset-mu:** Ketika menghadapi tantangan, kenali suara batin yang meragukanmu. Jika ia berbisik, *"Kamu tidak punya bakat untuk bidang ini,"* segera jawab dengan, *"Mungkin aku belum menguasainya sekarang, tapi aku bisa melatihnya secara bertahap."*
+1. **Sadari dan Kenali Suara Fixed Mindset-mu:** Ketika menghadapi tantangan, dengarkan suara batin yang meragukanmu. Jika ia berbisik, *"Kamu tidak punya bakat untuk bidang ini,"* segera jawab dengan, *"Mungkin aku belum menguasainya sekarang, tapi aku bisa melatihnya secara bertahap."*
 2. **Biasakan Menyisipkan Kata "Belum":** Saat merasa gagal dalam suatu hal, ubah cara bicaramu pada diri sendiri. Alih-alih mengeluh, *"Aku tidak bisa mempresentasikan ide di depan umum,"* katakanlah, *"Aku **belum** mahir berpresentasi di depan umum."* Penambahan kata kecil ini membuka ruang untuk belajar.
 3. **Apresiasi Proses, Bukan Hanya Hasil Akhir:** Latih dirimu untuk menghargai usaha dan strategi yang diambil. Saat memuji diri sendiri atau orang lain, jangan hanya fokus pada label kecerdasan seperti, *"Wah, kamu memang jenius!"* Sebaliknya, soroti usahanya: *"Hasil ini luar biasa karena kamu sudah mencoba berbagai pendekatan kreatif untuk menyelesaikannya."*
 4. **Sambut Kritik Konstruktif dengan Terbuka:** Pandanglah masukan dari orang lain sebagai data gratis yang membantumu berkembang lebih cepat, bukan sebagai serangan pribadi.
