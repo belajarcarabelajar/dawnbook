@@ -2,7 +2,7 @@
 
 Aristotle. (2014). *Nicomachean ethics* (C. D. C. Reeve, Trans.). Hackett Publishing Company.
 
-Durant, W. (1926). *The story of philosophy*. Simon & Schuster. <https://archive.org/details/in.ernet.dli.2015.236498>
+Durant, W. (1926). *The story of philosophy*. Simon & Schuster. <https://www.simonandschuster.com/books/Story-of-Philosophy/Will-Durant/9780671201593>
 
 Foot, P. (2001). *Natural goodness*. Oxford University Press.
 
