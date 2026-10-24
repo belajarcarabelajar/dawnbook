@@ -2,7 +2,7 @@
 
 Mikrofisika awan dingin (*cold clouds*) membahas kondisi atmosfer ketika air dapat bertahan cair meskipun suhu lingkungan jauh di bawah titik beku. Jika pembahasan sebelumnya berfokus pada dinamika tetesan air cair, bagian ini mengulas bagaimana kristal es pertama terbentuk di atmosfer.
 
-### 1. Air Cair di Bawah Titik Beku
+### 1. Air Superdingin (Supercooled Water)
 
 Fakta mendasar dalam meteorologi fisik menunjukkan bahwa uap air murni tidak serta-merta membeku tepat pada suhu $0^\circ\text{C}$. Di atmosfer bebas, tetesan air murni dapat tetap berfase cair hingga suhu mendekati $-40^\circ\text{C}$. Kondisi cair metastabil ini dikenal sebagai **air superdingin** (*supercooled water*).
 
