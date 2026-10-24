@@ -1,5 +1,5 @@
 ## Variasi Derajat Elastisitas Penawaran
-Setelah memahami bagaimana cara menghitung koefisien elastisitas penawaran $(E_s)$, langkah selanjutnya adalah memahami apa arti dari angka-angka tersebut. Dalam dunia nyata, respon produsen terhadap perubahan harga tidaklah seragam. Ada produsen yang bisa dengan sangat cepat menambah produksi saat harga naik, namun ada juga yang "tangannya terikat" oleh keterbatasan sumber daya.
+Setelah memahami bagaimana cara menghitung koefisien elastisitas penawaran $(E_s)$, langkah selanjutnya adalah memahami apa arti dari angka-angka tersebut. Dalam dunia nyata, respon produsen terhadap perubahan harga tidaklah seragam. Ada produsen yang bisa dengan cepat menambah produksi saat harga naik, namun ada juga yang "tangannya terikat" oleh keterbatasan sumber daya.
 Derajat elastisitas penawaran mengelompokkan tingkat sensitivitas ini ke dalam lima kategori utama. Memahami kategori ini membantu kita memprediksi bagaimana pasar akan bereaksi terhadap guncangan harga.
 ## 1. Penawaran Inelastis Sempurna
 Pada kategori ini, kuantitas barang yang ditawarkan **sama sekali tidak berubah**, berapapun perubahan harga yang terjadi di pasar. Produsen benar-benar tidak mampu menambah atau mengurangi jumlah barang yang tersedia.
@@ -47,5 +47,5 @@ $$
 
 Karena $2{,}5 > 1$, maka penawaran sepatu tersebut termasuk kategori **Elastis**.
 ## Mengapa Memahami Variasi Ini Penting?
-> **Insight Penting:** Bagi pemerintah, memahami derajat elastisitas penawaran sangat penting saat akan menerapkan pajak. Jika penawaran suatu barang **inelastis** (seperti bensin atau tanah), maka produsen tidak bisa menghindar dengan mengurangi produksi, sehingga beban pajak akan lebih banyak ditanggung oleh pihak yang kurang fleksibel dalam menyesuaikan diri.
+> **Insight Penting:** Bagi pemerintah, memahami derajat elastisitas penawaran penting saat akan menerapkan pajak. Jika penawaran suatu barang **inelastis** (seperti bensin atau tanah), maka produsen tidak bisa menghindar dengan mengurangi produksi, sehingga beban pajak akan lebih banyak ditanggung oleh pihak yang kurang fleksibel dalam menyesuaikan diri.
 Sebagai pengusaha, memiliki fleksibilitas produksi yang tinggi memungkinkan bisnis berada di kategori penawaran elastis. Hal ini membuat perusahaan dapat merespon lonjakan harga pasar secara cepat dan memaksimalkan potensi keuntungan.

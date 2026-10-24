@@ -14,7 +14,7 @@ $$
 - $\text{\%} \Delta P$: Persentase perubahan harga barang tersebut.
 > **Catatan Penting:** Karena hukum permintaan menyatakan bahwa harga dan jumlah permintaan bergerak ke arah yang berlawanan (jika harga naik, permintaan turun), hasil penghitungan biasanya negatif. Namun, dalam ekonomi, kita sering menggunakan **nilai mutlak (absolute value)** untuk menyederhanakan interpretasi. Jadi, jika hasilnya $-2$, kita menyebutnya $2$.
 ## 2. Metode Elastisitas Titik (Point Elasticity)
-Metode ini digunakan untuk menghitung elastisitas pada satu titik tertentu pada kurva permintaan. Metode ini sangat berguna jika perubahan harga yang terjadi relatif kecil atau jika kita memiliki data harga awal dan jumlah awal yang spesifik.
+Metode ini digunakan untuk menghitung elastisitas pada satu titik tertentu pada kurva permintaan. Metode ini berguna jika perubahan harga yang terjadi relatif kecil atau jika kita memiliki data harga awal dan jumlah awal yang spesifik.
 ### Rumus Elastisitas Titik
 
 $$
@@ -98,4 +98,4 @@ Bayangkan kamu adalah seorang Manajer Pemasaran di sebuah perusahaan aplikasi st
 - **Gunakan Metode Nilai Tengah** jika kamu ingin hasil yang lebih akurat dan konsisten untuk perubahan harga yang cukup besar.
 - **Arah Pergerakan:** Ingatlah bahwa $E_d > 1$ berarti konsumen sangat sensitif (elastis), sementara $E_d < 1$ berarti konsumen tidak terlalu peduli dengan perubahan harga (inelastis).
 Sebagai gambaran, jika kamu menjual obat-obatan yang menyelamatkan nyawa, apakah kamu akan menggunakan pertimbangan elastisitas yang sama seperti saat menjual tiket konser? Produk mana yang kira-kira memiliki koefisien elastisitas lebih besar?
-> **Pesan Utama:** Angka elastisitas adalah "suara" konsumen yang diterjemahkan ke dalam bahasa matematika. Memahaminya berarti memahami seberapa besar kekuatan tawar-menawar yang kamu miliki di pasar.
+> **Pesan Utama:** Angka elastisitas menyatakan respons konsumen terhadap harga dalam bentuk angka. Memahaminya berarti memahami seberapa besar kekuatan tawar-menawar yang kamu miliki di pasar.

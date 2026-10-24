@@ -1,6 +1,6 @@
 ## Teknik Penghitungan Koefisien Elastisitas Penawaran
-Setelah memahami konsep dasar mengapa produsen bereaksi terhadap perubahan harga, kita sampai pada pertanyaan besar selanjutnya. **"Seberapa besar reaksi tersebut?"**
-Dalam dunia ekonomi, kita tidak cukup hanya mengatakan bahwa penawaran "naik sedikit" atau "naik banyak". Kita membutuhkan angka pasti untuk mengambil keputusan bisnis yang akurat. Di sinilah **Teknik Penghitungan Koefisien Elastisitas Penawaran ($\text{E}_s$)** berperan. Materi ini akan memandu kamu menerapkan rumus matematika secara sistematis untuk mengukur derajat kepekaan penawaran.
+Setelah memahami konsep dasar mengapa produsen bereaksi terhadap perubahan harga, kita sampai pada pertanyaan selanjutnya. **"Seberapa besar reaksi tersebut?"**
+Dalam ekonomi, kita tidak cukup hanya mengatakan bahwa penawaran "naik sedikit" atau "naik banyak". Kita membutuhkan angka pasti untuk mengambil keputusan bisnis yang akurat. Di sinilah **Teknik Penghitungan Koefisien Elastisitas Penawaran ($\text{E}_s$)** berperan. Materi ini akan memandu kamu menerapkan rumus matematika secara sistematis untuk mengukur derajat kepekaan penawaran.
 ## 1. Metode Persentase
 Metode ini adalah cara paling sederhana untuk melihat hubungan antara perubahan harga dan perubahan jumlah barang yang ditawarkan. Secara matematis, koefisien elastisitas penawaran ($\text{E}_s$) dihitung dengan membagi persentase perubahan jumlah barang yang ditawarkan dengan persentase perubahan harga.
 ### Rumus Umum
@@ -26,7 +26,7 @@ $$
 \text{E}_s = \frac{(\text{Q}_2 - \text{Q}_1) / [(\text{Q}_2 + \text{Q}_1) / 2]}{(\text{P}_2 - \text{P}_1) / [(\text{P}_2 + \text{P}_1) / 2]}
 $$
 
-Penggunaan rata-rata ini sangat penting karena dalam bisnis, kita seringkali membutuhkan angka yang stabil terlepas dari apakah kita sedang merencanakan kenaikan harga atau mengantisipasi penurunan harga.
+Penggunaan rata-rata ini penting karena dalam bisnis, kita seringkali membutuhkan angka yang stabil terlepas dari apakah kita sedang merencanakan kenaikan harga atau mengantisipasi penurunan harga.
 ## 3. Koki dan Pesanan Mendadak
 Untuk memahami angka koefisien ini, bayangkan sebuah restoran:
 - **Penawaran Inelastis ($\text{E}_s < 1$):** Seperti koki yang hanya punya satu kompor. Meskipun harga makanan naik 50\%, dia tetap tidak bisa memasak lebih cepat karena keterbatasan fisik alat. Perubahan jumlah ($\text{Q}$) lebih kecil daripada perubahan harga ($\text{P}$).
@@ -71,7 +71,7 @@ Hasil metode nilai tengah adalah **1,8**, sedikit lebih kecil daripada angka 2 d
 ## 6. Industri Agrikultur vs. Manufaktur
 Dalam praktiknya, teknik penghitungan ini memberikan wawasan berbeda untuk industri yang berbeda:
 1. **Industri Agrikultur (Contoh: Petani Padi):** Meskipun harga padi di pasar melonjak hari ini, petani tidak bisa langsung memanen lebih banyak padi besok pagi. Proses biologis membutuhkan waktu. Saat dihitung, nilai $\text{E}_s$ padi dalam jangka pendek biasanya **rendah (inelastis)**.
-2. **Industri Digital (Contoh: Software sebagai Layanan/SaaS):** Jika harga langganan sebuah aplikasi naik dan permintaan tetap ada, perusahaan bisa menambah kapasitas server (penawaran) dalam hitungan menit untuk melayani jutaan pengguna baru. Nilai $\text{E}_s$ untuk produk digital cenderung **sangat tinggi (elastis)** karena hambatan produksinya rendah.
+2. **Industri Digital (Contoh: Software sebagai Layanan/SaaS):** Jika harga langganan sebuah aplikasi naik dan permintaan tetap ada, perusahaan bisa menambah kapasitas server (penawaran) dalam hitungan menit untuk melayani pengguna baru. Nilai $\text{E}_s$ untuk produk digital cenderung **sangat tinggi (elastis)** karena hambatan produksinya rendah.
 ### Rangkuman Alur Kerja Analisis
 - **Identifikasi Perubahan:** Tentukan harga dan kuantitas sebelum dan sesudah.
 - **Pilih Metode:** Gunakan persentase untuk perubahan kecil, gunakan nilai tengah untuk analisis yang lebih formal.
@@ -92,4 +92,4 @@ flowchart TD
     S3 --> S4["Putuskan perlu tidaknya menambah kapasitas gudang atau tenaga kerja"]
 ```
 
-> **Insight Penutup:** Angka elastisitas penawaran adalah "radar" bagi manajer operasional. Semakin tinggi angkanya, semakin lincah perusahaan kamu berdansa dengan fluktuasi harga pasar.
+> **Insight Penutup:** Angka elastisitas penawaran membantu manajer operasional membaca kemampuan perusahaan merespons harga. Semakin tinggi angkanya, semakin mudah perusahaan kamu menyesuaikan produksi dengan naik-turunnya harga pasar.

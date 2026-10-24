@@ -1,6 +1,6 @@
 ## Konsep Dasar Elastisitas Harga Penawaran
 Selamat datang di pembahasan mengenai sisi lain dari pasar: **Sisi Produsen**. Jika sebelumnya kita telah mempelajari bagaimana konsumen bereaksi terhadap harga, sekarang saatnya kita masuk ke posisi para pemilik pabrik, petani, dan penyedia jasa.
-Pernahkah kamu bertanya-tanya mengapa saat harga masker melonjak drastis, rak-rak toko tetap kosong selama berbulan-bulan sebelum akhirnya melimpah kembali? Atau mengapa harga tiket konser bisa meroket tanpa ada penambahan kursi penonton? Jawabannya terletak pada **Elastisitas Harga Penawaran**.
+Pernahkah kamu bertanya-tanya mengapa saat harga masker melonjak drastis, rak-rak toko tetap kosong selama berbulan-bulan sebelum akhirnya melimpah kembali? Atau mengapa harga tiket konser bisa naik tajam tanpa ada penambahan kursi penonton? Jawabannya terletak pada **Elastisitas Harga Penawaran**.
 ## Apa Itu Elastisitas Harga Penawaran?
 Secara sederhana, **Elastisitas Harga Penawaran (Price Elasticity of Supply atau PES)** mengukur seberapa sensitif atau responsif para produsen terhadap perubahan harga di pasar.
 Dalam hukum penawaran, kita tahu bahwa jika harga naik, produsen ingin menjual lebih banyak. Namun, pertanyaannya adalah: **Mampukah mereka?**
@@ -11,7 +11,7 @@ Untuk memahami konsep ini, bayangkan dua jenis respon produksi:
 1. **Si Karet Gelang (Elastis):** Bayangkan sebuah pabrik percetakan kaos digital. Jika harga kaos tiba-tiba naik, mereka hanya perlu membeli lebih banyak kaos polos dan menjalankan mesin lebih lama. Produksi bisa "melar" dengan cepat mengikuti harga.
 2. **Si Kawat Baja (Inelastis):** Bayangkan sebuah perkebunan jati. Jika harga kayu jati naik hari ini, petani tidak bisa langsung memanen lebih banyak pohon karena pohon jati butuh waktu puluhan tahun untuk tumbuh. Produksi "kaku" dan sulit berubah dalam jangka pendek.
 ## Mengapa Respons Produsen Berbeda-beda?
-Responsivitas produsen ditentukan oleh sejauh mana mereka dapat menggeser sumber daya (bahan baku, tenaga kerja, modal) untuk menghasilkan produk tersebut. Secara konseptual, ada dua pilar utama yang menentukan tingkat respons ini:
+Responsivitas produsen ditentukan oleh sejauh mana mereka dapat menggeser sumber daya (bahan baku, tenaga kerja, modal) untuk menghasilkan produk tersebut. Secara konseptual, ada dua hal utama yang menentukan tingkat respons ini:
 ### 1. Fleksibilitas Penyesuaian
 Produsen yang memiliki stok barang melimpah atau kapasitas mesin yang masih menganggur akan lebih responsif. Mereka bisa langsung mengirim barang ke pasar begitu harga naik.
 ### 2. Dimensi Waktu
@@ -30,7 +30,7 @@ Karena arah perubahan harga dan jumlah penawaran searah (keduanya naik atau kedu
 - Jika $E_s > 1$: Penawaran sangat responsif (Elastis).
 - Jika $E_s < 1$: Penawaran kurang responsif (Inelastis).
 ## Uber dan "Surge Pricing"
-Salah satu contoh paling modern dari konsep elastisitas penawaran adalah sistem **Surge Pricing** (kenaikan harga saat permintaan tinggi) pada aplikasi transportasi online seperti Uber atau Grab.
+Salah satu contoh dari konsep elastisitas penawaran adalah sistem **Surge Pricing** (kenaikan harga saat permintaan tinggi) pada aplikasi transportasi online seperti Uber atau Grab.
 **Skenarionya:** Saat hujan deras, permintaan meningkat. Uber menaikkan harga secara otomatis. Mengapa?
 1. **Insentif bagi Produsen:** Harga yang lebih tinggi menarik pengemudi yang sedang beristirahat untuk segera masuk ke jalan (meningkatkan penawaran).
 2. **Respons Cepat:** Karena pengemudi memiliki mobilitas tinggi, mereka bisa merespons perubahan harga dalam hitungan menit. Ini adalah contoh layanan dengan penawaran yang sangat **elastis**.
