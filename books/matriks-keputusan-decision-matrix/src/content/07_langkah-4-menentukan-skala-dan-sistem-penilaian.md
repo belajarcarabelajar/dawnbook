@@ -1,6 +1,6 @@
 ## Penentuan Skala dan Sistem Penilaian
 
-Tantangan berikutnya dalam menyusun **matriks keputusan (decision matrix)** adalah menentukan skala dan **sistem penilaian (scoring system)** secara adil. Kriteria penilaian dan bobotnya sudah kamu tentukan di langkah sebelumnya. Tanpa standarisasi yang tepat, perbandingan antar-alternatif akan menjadi bias dan tidak konsisten.
+Kriteria penilaian dan bobotnya sudah kamu tentukan, jadi tantangan berikutnya adalah menentukan skala dan **sistem penilaian (scoring system)** secara adil. Langkah ini termasuk dalam penyusunan **matriks keputusan (decision matrix)**. Tanpa standarisasi yang tepat, perbandingan antar-alternatif akan menjadi bias dan tidak konsisten.
 
 Bayangkan kamu sedang menjadi juri dalam sebuah kompetisi memasak. Jika kamu menilai hidangan kontestan A pada aspek rasa menggunakan skala 1–10, sedangkan hidangan kontestan B pada aspek presentasi dinilai menggunakan skala 1–100, hasil akhirnya akan kacau. Kamu tidak akan bisa membandingkan kedua hidangan tersebut secara objektif.
 

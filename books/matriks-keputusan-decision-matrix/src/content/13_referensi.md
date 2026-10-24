@@ -1,6 +1,6 @@
 ## Referensi
 
-Berikut referensi ilmiah, buku, dan artikel jurnal akademik yang melandasi bab-bab tentang matriks keputusan dan analisis keputusan multikriteria. Istilah aslinya adalah *decision matrix* dan *multi-criteria decision analysis*.
+Berikut referensi ilmiah, buku, dan artikel jurnal akademik yang melandasi bab-bab tentang matriks keputusan dan analisis keputusan multikriteria. Dalam bahasa Inggris, keduanya disebut *decision matrix* dan *multi-criteria decision analysis*.
 
 Belton, V., & Stewart, T. J. (2002). *Multiple criteria decision analysis: An integrated approach*. Kluwer Academic Publishers. [https://doi.org/10.1007/978-1-4615-1495-4](https://doi.org/10.1007/978-1-4615-1495-4)
 
