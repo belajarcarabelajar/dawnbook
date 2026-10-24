@@ -1,6 +1,6 @@
 ## Mengubah Krisis Menjadi Transformasi Positif
 
-Selamat! Jika kamu sampai pada bagian ini, artinya kamu siap untuk berhenti sekadar "bertahan hidup" dan mulai "berkembang". *Quarter-Life Crisis* (QLC) sering kali membuatmu kehilangan arah. Tapi, tahukah kamu bahwa dalam bahasa Mandarin, kata "krisis" (*wēijī*) terdiri dari dua karakter: satu melambangkan "bahaya" dan satu lagi melambangkan **"peluang"**?
+Jika kamu sudah sampai pada bagian ini, artinya kamu siap untuk berhenti sekadar "bertahan hidup" dan mulai "berkembang". *Quarter-Life Crisis* (QLC) sering kali membuatmu kehilangan arah. Tapi, tahukah kamu bahwa dalam bahasa Mandarin, kata "krisis" (*wēijī*) terdiri dari dua karakter: satu melambangkan "bahaya" dan satu lagi melambangkan **"peluang"**?
 
 Bagian ini akan memandu kamu mengubah rasa bingung tersebut menjadi energi untuk melakukan transformasi diri yang autentik.
 
