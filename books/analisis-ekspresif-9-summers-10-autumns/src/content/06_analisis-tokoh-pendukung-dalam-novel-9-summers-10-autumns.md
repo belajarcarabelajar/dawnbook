@@ -32,7 +32,7 @@ Selain tokoh utama, kehadiran tokoh pendukung dalam novel *9 Summers 10 Autumns*
 4. **Mira (Denok)**
    Adik bungsu Iwan yang berhati lembut, penuh kasih sayang, sensitif, namun gigih beradaptasi dengan dunia profesional berkat bimbingan mentornya:
    
-   Hati Mira begitu lunak dan mudah tersentuh; dalam sedih maupun bahagia, “air mata adalah bahasanya” (Hlm. 55). Ia jujur tanpa retak, meski kadang retak karena menggenggam masa lalu terlalu kuat. Ia juga tak pernah meminta apa pun kepada orang tua, sebab ia sungguh memahami keterbatasan keluarganya.
+   Hati Mira begitu lunak dan mudah tersentuh; dalam sedih maupun bahagia, “air mata adalah bahasanya” (Hlm. 55). Ia jujur tanpa retak, meski kadang retak karena menggenggam masa lalu terlalu kuat. Ia juga tak pernah meminta apa pun kepada orang tua, dan ia sungguh memahami keterbatasan keluarganya.
 
    Semasa kuliah, Mira yang hangat mengenal Bu Tata, perempuan berpandangan luas berlatar pendidikan luar negeri yang menjadi jendela baru baginya. Lewat beberapa proyek bersama Bu Tata, Mira mulai bermain-main dengan internet dan bahasa Inggris serta mengenal etika profesional. Berkat Bu Tata pula Mira bisa bekerja di Komisi Flu Burung Indonesia di Jakarta (Hlm. 57–58).
 
