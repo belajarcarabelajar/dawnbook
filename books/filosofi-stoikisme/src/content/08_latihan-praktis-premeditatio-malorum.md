@@ -28,7 +28,7 @@ Penderitaan manusia sering kali bukan berasal dari kejadian itu sendiri, melaink
 
 ### 2\. Melawan Adaptasi Hedonik (Hedonic Adaptation)
 
-Sebagai manusia, kita sangat cepat terbiasa dengan hal-hal baik. Mobil baru, promosi jabatan, atau pasangan yang mencintai kita akan terasa "biasa saja" setelah beberapa bulan. Ini disebut adaptasi hedonik. *Premeditatio Malorum* memaksa kita membayangkan hidup *tanpa* hal-hal tersebut, yang secara instan memicu rasa syukur yang mendalam atas apa yang masih kita miliki saat ini.
+Sebagai manusia, kita sangat cepat terbiasa dengan hal-hal baik. Mobil baru, promosi jabatan, atau pasangan yang mencintai kita akan terasa "biasa saja" setelah beberapa bulan. Ini disebut adaptasi hedonik. *Premeditatio Malorum* memaksa kita membayangkan hidup *tanpa* hal-hal tersebut, yang memicu rasa syukur atas apa yang masih kita miliki saat ini.
 
 ## Panduan Langkah-Demi-Langkah Latihan
 
@@ -113,4 +113,4 @@ Banyak orang salah paham dan menganggap latihan ini sama dengan rasa cemas. Mari
 
 *Pikirkan satu hal yang paling kamu takuti terjadi minggu ini. Cobalah duduk tenang selama 2 menit, bayangkan hal itu benar-benar terjadi, dan lihatlah bagaimana karakter terbaik kamu (sabar, berani, atau bijaksana) bisa merespons situasi tersebut.*
 
-> **Pesan Utama:** Kita tidak bisa mengendalikan apa yang dilemparkan kehidupan kepada kita, tetapi kita bisa mengendalikan bagaimana kita mempersiapkan diri untuk menerimanya. Dengan berlatih menghadapi badai di dalam pikiran, kita menjadi pelaut yang tak tergoyahkan saat badai yang sebenarnya tiba di lautan kenyataan.
+> **Pesan Utama:** Kita tidak bisa mengendalikan apa yang dilemparkan kehidupan kepada kita, tetapi kita bisa mengendalikan bagaimana kita mempersiapkan diri untuk menerimanya. Dengan berlatih menghadapi kesulitan di dalam pikiran, kita lebih siap saat kesulitan itu benar-benar datang.

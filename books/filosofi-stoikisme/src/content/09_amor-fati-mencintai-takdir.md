@@ -2,7 +2,7 @@
 
 Pernahkah kamu berada dalam situasi di mana segalanya tampak berjalan berlawanan dengan rencana kamu? Ban mobil bocor saat ingin rapat penting, hujan turun tepat saat kamu mengadakan acara *outdoor*, atau kegagalan proyek yang sudah dikerjakan berbulan-bulan. Reaksi spontan kita biasanya adalah mengeluh, marah, atau merasa menjadi korban keadaan.
 
-Namun, para Stoik menawarkan perspektif yang radikal dan membebaskan: **Amor Fati**.
+Namun, para Stoik menawarkan perspektif lain: **Amor Fati**.
 
 ## Apa Itu Amor Fati?
 
@@ -22,7 +22,7 @@ Untuk memahami Amor Fati secara mendalam, kita bisa melihatnya sebagai sebuah ta
 
 ### Analogi Api yang Berkobar
 
-Marcus Aurelius, sang Kaisar Stoik, memberikan analogi yang luar biasa tentang bagaimana Amor Fati bekerja:
+Marcus Aurelius, sang Kaisar Stoik, memberikan analogi tentang bagaimana Amor Fati bekerja:
 
 Bayangkan sebuah api kecil. Jika kamu melemparkan seember air atau tumpukan sampah besar ke atasnya, api itu akan padam. Namun, bayangkan **api yang berkobar hebat**. Apa pun yang dilemparkan ke dalamnya (kayu basah, kain kotor, atau sampah) justru akan **dilahap, dijadikan bahan bakar, dan membuat api tersebut menyala lebih terang.**
 
@@ -70,4 +70,4 @@ Langkah yang sama juga bisa dipakai pada kejadian sehari-hari. Bayangkan kamera 
 
 > **Poin Penting:** Amor Fati bukan berarti kamu berhenti berusaha memperbaiki keadaan. kamu tetap berusaha maksimal (sesuai dikotomi kendali), tetapi begitu hasilnya keluar, apa pun itu, kamu memeluknya seolah-olah itu adalah pilihan kamu sendiri sejak awal.
 
-**Amor Fati adalah keberanian untuk berkata "Ya" kepada hidup, tanpa syarat.** Dengan mencintai apa pun yang terjadi, kamu menjadi manusia yang tidak bisa dikalahkan oleh nasib, karena bagi kamu, setiap kejadian adalah sebuah kemenangan.
+**Amor Fati adalah keberanian untuk berkata "Ya" kepada hidup, tanpa syarat.** Dengan mencintai apa pun yang terjadi, kamu tidak mudah dikalahkan oleh nasib, karena setiap kejadian bisa kamu jadikan bahan bakar.

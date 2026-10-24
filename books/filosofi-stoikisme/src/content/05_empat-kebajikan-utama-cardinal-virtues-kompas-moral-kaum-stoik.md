@@ -2,7 +2,7 @@
 
 Bagi para filosof Stoik, tujuan hidup bukanlah kekayaan, ketenaran, atau sekadar menghindari rasa sakit. Tujuan utamanya adalah hidup dalam **Eudaimonia** (kebahagiaan yang timbul dari perkembangan jiwa) melalui **Arete** (kebajikan atau keunggulan karakter).
 
-Bayangkan hidup kamu sebagai sebuah kapal di tengah samudra yang luas dan penuh badai. Tanpa navigasi yang tepat, kamu akan terombang-ambing oleh ombak emosi dan keadaan eksternal. **Empat Kebajikan Utama (Cardinal Virtues)** adalah kompas, peta, kemudi, dan jangkar kamu. Kata "cardinal" sendiri berasal dari bahasa Latin *cardo* yang berarti "engsel",karena pada empat pilar inilah seluruh pintu menuju kehidupan yang bermakna berputar.
+Bayangkan hidup kamu sebagai sebuah kapal di tengah laut. Tanpa navigasi yang tepat, kamu akan terombang-ambing oleh emosi dan keadaan eksternal. **Empat Kebajikan Utama (Cardinal Virtues)** adalah kompas kamu. Kata "cardinal" sendiri berasal dari bahasa Latin *cardo* yang berarti "engsel",karena pada empat pilar inilah seluruh pintu menuju kehidupan yang bermakna berputar.
 
 ## 1\. Kebijaksanaan Praktis (Wisdom / Prudence - Phronesis)
 
@@ -41,7 +41,7 @@ Banyak orang menyalahartikan keberanian sebagai ketiadaan rasa takut atau sekada
 
 ## 4\. Menahan Diri (Temperance / Moderation - Sophrosyne)
 
-Di dunia yang penuh dengan godaan konsumerisme dan kepuasan instan, *Temperance* adalah perisai pelindung kita.
+Di dunia yang penuh dengan godaan konsumerisme dan kepuasan instan, *Temperance* menjaga kita agar tidak terseret godaan itu.
 
 **Definisi:** Penguasaan diri atas keinginan, nafsu, dan impuls. Ini adalah kemampuan untuk memilih apa yang cukup daripada apa yang diinginkan.
 

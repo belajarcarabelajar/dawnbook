@@ -1,6 +1,6 @@
 ## Memento Mori
 
-Banyak orang menganggap bahwa memikirkan kematian adalah hal yang kelam, morbid, atau bahkan tabu. Namun, bagi para Stoik, **Memento Mori**, frasa Latin yang berarti "Ingatlah bahwa engkau akan mati", adalah salah satu alat mental yang paling kuat untuk menjalani hidup yang lebih bermakna, penuh kasih, dan fokus.
+Banyak orang menganggap bahwa memikirkan kematian adalah hal yang kelam, morbid, atau bahkan tabu. Namun, bagi para Stoik, **Memento Mori**, frasa Latin yang berarti "Ingatlah bahwa engkau akan mati", adalah salah satu alat mental untuk menjalani hidup yang lebih bermakna, penuh kasih, dan fokus.
 
 Bagi seorang Stoik, kesadaran bahwa hidup ini terbatas bukanlah alasan untuk berputus asa, melainkan pengingat untuk tidak menyia-nyiakan waktu pada hal-hal yang tidak penting.
 

@@ -1,6 +1,6 @@
 ## Hidup Selaras dengan Alam (Living in Accordance with Nature)
 
-Selamat datang di jantung filosofi Stoikisme. Jika kamu pernah mendengar slogan utama kaum Stoik, kemungkinan besar itu adalah: **"Hiduplah selaras dengan alam."**
+Bab ini membahas inti filosofi Stoikisme. Jika kamu pernah mendengar slogan utama kaum Stoik, kemungkinan besar itu adalah: **"Hiduplah selaras dengan alam."**
 
 Namun, jangan salah sangka. Bagi kaum Stoik, ini bukan berarti kamu harus pindah ke hutan, berhenti menggunakan teknologi, atau menjadi seorang naturalis. Hidup "selaras dengan alam" memiliki makna metafisika dan etika yang jauh lebih dalam, yang berkaitan dengan peran kita sebagai manusia di tengah keteraturan semesta.
 
@@ -10,7 +10,7 @@ Untuk memahami apa artinya hidup selaras dengan alam, kita harus terlebih dahulu
 
 Dalam kosmologi Stoik, alam semesta bukanlah sekumpulan kejadian acak yang kacau. Sebaliknya, alam semesta adalah sebuah organisme yang hidup, teratur, dan rasional. Penggerak keteraturan ini disebut *Logos*.
 
-**Konduktor Orkestra** Bayangkan alam semesta sebagai sebuah pertunjukan orkestra raksasa. Setiap instrumen (bintang, planet, pohon, hewan, manusia) memiliki bagian untuk dimainkan. *Logos* adalah skor musik sekaligus konduktornya. Selama semua instrumen mengikuti skor tersebut, terciptalah harmoni. Kekacauan hanya terjadi jika instrumen mencoba memainkan lagunya sendiri di luar ritme yang ditentukan.
+**Konduktor Orkestra** Bayangkan alam semesta sebagai sebuah pertunjukan orkestra. Setiap instrumen (bintang, planet, pohon, hewan, manusia) memiliki bagian untuk dimainkan. *Logos* adalah skor musik sekaligus konduktornya. Selama semua instrumen mengikuti skor tersebut, terciptalah harmoni. Kekacauan hanya terjadi jika instrumen mencoba memainkan lagunya sendiri di luar ritme yang ditentukan.
 
 ### Karakteristik Logos
 

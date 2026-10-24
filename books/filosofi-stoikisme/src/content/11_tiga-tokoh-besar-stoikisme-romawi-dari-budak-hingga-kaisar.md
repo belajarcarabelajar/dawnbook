@@ -1,8 +1,8 @@
 ## Tiga Tokoh Besar Stoikisme Romawi
 
-Pernahkah kamu membayangkan sebuah filosofi yang dipegang teguh oleh tiga orang dengan latar belakang yang sangat kontras? Bayangkan seorang penasihat kaisar yang sangat kaya raya, seorang budak yang cacat fisik, dan seorang kaisar yang menguasai hampir seluruh dunia yang dikenal saat itu.
+Pernahkah kamu membayangkan sebuah filosofi yang dipegang teguh oleh tiga orang dengan latar belakang yang kontras? Bayangkan seorang penasihat kaisar yang kaya raya, seorang budak yang cacat fisik, dan seorang kaisar yang menguasai hampir seluruh dunia yang dikenal saat itu.
 
-Meskipun status sosial mereka bagaikan bumi dan langit, ketiganya menarik kesimpulan yang sama tentang kehidupan melalui **Stoikisme**. Di bagian ini, kita akan mempelajari "Tiga Besar" Stoikisme Romawi yang pemikirannya tetap relevan hingga hari ini, ribuan tahun setelah mereka tiada.
+Meskipun status sosial mereka jauh berbeda, ketiganya menarik kesimpulan yang sama tentang kehidupan melalui **Stoikisme**. Di bagian ini, kita akan mempelajari "Tiga Besar" Stoikisme Romawi yang pemikirannya tetap relevan hingga hari ini, ribuan tahun setelah mereka tiada.
 
 ## 1\. Seneca (4 SM - 65 M)
 

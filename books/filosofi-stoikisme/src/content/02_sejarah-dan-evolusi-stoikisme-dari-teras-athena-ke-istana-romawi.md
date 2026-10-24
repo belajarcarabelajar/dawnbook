@@ -1,6 +1,6 @@
 ## Sejarah dan Evolusi Stoikisme
 
-Selamat datang di perjalanan melintasi waktu. Untuk memahami Stoikisme, kita tidak bisa hanya membaca kutipan-kutipan bijak di Instagram. Kita harus kembali ke titik nol: sebuah kapal yang karam, seorang pedagang yang kehilangan segalanya, dan sebuah teras umum di jantung kota Athena.
+Bab ini menelusuri asal-usul Stoikisme. Untuk memahami Stoikisme, kita tidak bisa hanya membaca kutipan-kutipan bijak di Instagram. Kita harus kembali ke titik nol: sebuah kapal yang karam, seorang pedagang yang kehilangan segalanya, dan sebuah teras umum di jantung kota Athena.
 
 Stoikisme bukanlah filsafat yang lahir di menara gading yang terisolasi. Ia lahir di jalanan, diuji oleh kesulitan hidup yang nyata, dan berevolusi selama lebih dari lima abad hingga menjadi kompas moral bagi budak maupun kaisar.
 
@@ -38,7 +38,7 @@ Pada masa ini, Stoikisme mulai menyebar ke Roma. Para filsuf mulai melunakkan be
 
 Inilah era yang paling kita kenal sekarang. Pada periode ini, diskusi teoritis tentang logika dan fisika mulai berkurang, digantikan oleh fokus penuh pada **Etika** dan **pengembangan karakter**.
 
-- Di sini kita menemukan tiga tokoh raksasa: **Seneca** (negarawan), **Epictetus** (mantan budak), dan **Marcus Aurelius** (kaisar).
+- Di sini kita menemukan tiga tokoh utama: **Seneca** (negarawan), **Epictetus** (mantan budak), dan **Marcus Aurelius** (kaisar).
 
 Ketiga periode itu, beserta tokoh-tokohnya, terangkum dalam garis waktu ini.
 
@@ -68,7 +68,7 @@ Di zaman Romawi, orang-orang tidak lagi terlalu peduli dengan akarnya; mereka la
 
 ## 4\. Keberagaman Pengikut
 
-Salah satu bukti luar biasa dari evolusi Stoikisme adalah bagaimana ia bisa merangkul spektrum sosial yang begitu luas. Ini membuktikan bahwa prinsip-prinsip Stoik bersifat universal.
+Salah satu bukti dari evolusi Stoikisme adalah bagaimana ia bisa merangkul spektrum sosial yang luas. Ini membuktikan bahwa prinsip-prinsip Stoik bersifat universal.
 
 | Tokoh | Latar Belakang | Fokus Pemikiran |
 | --- | --- | --- |
@@ -76,7 +76,7 @@ Salah satu bukti luar biasa dari evolusi Stoikisme adalah bagaimana ia bisa mera
 | **Seneca** | Penasihat kaisar dan orang terkaya di Roma. | Bagaimana menggunakan kekayaan tanpa menjadi budaknya. |
 | **Marcus Aurelius** | Orang paling berkuasa di dunia (Kaisar). | Menjaga kerendahan hati dan integritas di tengah kekuasaan absolut. |
 
-*Pertanyaan Filosofis: Jika sebuah filsafat mampu memberikan kedamaian batin yang sama bagi seorang budak maupun seorang kaisar yang memimpin dunia, bukankah itu menunjukkan adanya kebenaran fundamental di dalamnya?*
+*Pertanyaan Filosofis: Jika sebuah filsafat mampu memberikan kedamaian batin yang sama bagi seorang budak maupun seorang kaisar, bukankah itu menunjukkan adanya kebenaran fundamental di dalamnya?*
 
 ## 5\. Stoikisme dalam Sejarah
 
@@ -89,8 +89,8 @@ Bagaimana sejarah Stoikisme ini membantu kita di dunia modern?
 
 ## Warisan yang Tak Padam
 
-Stoikisme tidak mati bersama runtuhnya Kekaisaran Romawi. Ia "berhibernasi" dalam tulisan-tulisan para Bapa Gereja, muncul kembali di era Renaissance, memengaruhi para pemikir Pencerahan, dan kini meledak kembali di era digital melalui terapi kognitif perilaku (CBT) dan gerakan pengembangan diri.
+Stoikisme tidak mati bersama runtuhnya Kekaisaran Romawi. Ia "berhibernasi" dalam tulisan-tulisan para Bapa Gereja, muncul kembali di era Renaissance, memengaruhi para pemikir Pencerahan, dan kini populer kembali di era digital melalui terapi kognitif perilaku (CBT) dan gerakan pengembangan diri.
 
 Evolusi Stoikisme menunjukkan satu hal: **Selama manusia masih menghadapi penderitaan, ketidakpastian, dan kematian, prinsip-prinsip yang diajarkan di Teras Berwarna Athena akan selalu relevan.**
 
-> **Insight:** Stoikisme bukanlah tentang menjadi orang yang tidak punya perasaan, melainkan tentang membangun ketangguhan sejarah dalam diri kita agar tidak hancur oleh badai kehidupan yang tidak terelakkan.
+> **Insight:** Stoikisme bukanlah tentang menjadi orang yang tidak punya perasaan, melainkan tentang membangun ketangguhan sejarah dalam diri kita agar tidak hancur oleh kesulitan hidup yang tidak terelakkan.

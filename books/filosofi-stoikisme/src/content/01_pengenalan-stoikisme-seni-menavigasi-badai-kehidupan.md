@@ -78,4 +78,4 @@ Stoikisme tidak meminta kamu untuk membuang harta atau menjadi pertapa. Sebalikn
 > - Tujuannya adalah mencapai ketenangan (*ataraxia*) melalui pengembangan karakter.
 > - Filsafat ini membantu kita membedakan mana yang bisa diubah (pikiran dan tindakan kita) dan mana yang tidak (segala sesuatu di luar diri kita).
 
-Dalam bagian selanjutnya, kita akan menelusuri bagaimana pemikiran hebat ini lahir dan berkembang dari jalanan Athena hingga ke istana kekaisaran Romawi.
+Dalam bagian selanjutnya, kita akan menelusuri bagaimana pemikiran ini lahir dan berkembang dari jalanan Athena hingga ke istana kekaisaran Romawi.
