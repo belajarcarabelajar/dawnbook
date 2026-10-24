@@ -13,3 +13,4 @@
 - [Dampak Gaya Hidup terhadap Efisiensi Sinaptik](content/11_dampak-gaya-hidup-terhadap-efisiensi-sinaptik.md)
 - [Anatomi Plateau](content/12_1-memahami-anatomi-plateu-mengapa-kita-stuck.md)
 - [Masa Depan Pendidikan Berbasis Neurosains](content/13_masa-depan-pendidikan-berbasis-neurosains-merevolu.md)
+- [Referensi](content/14_referensi.md)
