@@ -30,8 +30,6 @@ Peningkatan pada aspek **Aksesibilitas Digital** (seperti kecepatan internet dan
 
 ## 2. My Love from the Star (2013-2014)
 
-*Fenomena Alien dan Budaya Pop*
-
 Drama ini melampaui kisah romansa biasa. Ia menjadi titik balik penting saat K-drama menunjukkan pengaruhnya terhadap gaya hidup global.
 
 Ada beberapa faktor utama yang memicu kepopulerannya. Pertama, perpaduan genre (*genre mash-up*) yang berani dengan mencampurkan latar sejarah era Joseon, fiksi ilmiah bertema alien, dan komedi romantis modern. Kedua, lahirnya tren budaya baru seperti *chimaek* (paduan *chicken and beer*) yang dipicu oleh karakter Cheon Song-yi, yang langsung populer di berbagai negara, terutama China. Faktor terakhir adalah dampak langsung pada ekonomi retail, seperti produk lipstik yang dikenakan aktris Jun Ji-hyun yang habis diborong secara global hanya dalam hitungan hari.
@@ -39,8 +37,6 @@ Ada beberapa faktor utama yang memicu kepopulerannya. Pertama, perpaduan genre (
 Fenomena ini menunjukkan bagaimana *soft power* bekerja secara nyata dalam kehidupan sehari-hari, ketika keputusan konsumsi penonton terpengaruh langsung oleh apa yang mereka lihat di layar kaca.
 
 ## 3. Descendants of the Sun (2016)
-
-*Revolusi Sistem Produksi*
 
 Jika *My Love from the Star* memengaruhi tren gaya hidup, maka *Descendants of the Sun* (DOTS) mengubah sistem produksinya.
 
