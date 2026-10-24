@@ -1,0 +1,4 @@
+# graphify classifies these citation-heavy research notes as papers, so `graphify update` never
+# rebuilds them while graphify-sync keeps re-adding their document node; the shrink guard then
+# refuses every update. Excluding them keeps update and sync consistent.
+docs/code-plan/plans/research-*.md
