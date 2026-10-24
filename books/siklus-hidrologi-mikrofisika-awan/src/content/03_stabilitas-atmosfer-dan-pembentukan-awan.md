@@ -29,7 +29,7 @@ Proses perubahan suhu ini disebut **Proses Adiabatik**, yakni perubahan suhu yan
 
 Terdapat tiga jenis laju penurunan suhu yang utama untuk dipahami:
 
-1. **Dry Adiabatic Lapse Rate (DALR) / Laju Adiabatik Kering:** Laju pendinginan paket udara yang *belum jenuh* ($\text{RH} < 100\text{\%}$) saat bergerak naik.
+1. **Dry Adiabatic Lapse Rate (DALR) / Laju Adiabatik Kering:** Laju pendinginan paket udara yang *belum jenuh* ($\text{RH} \lt 100\text{\%}$) saat bergerak naik.
 
    <div>
    $$
@@ -55,9 +55,9 @@ Stabilitas atmosfer ditentukan dengan membandingkan suhu paket udara yang naik (
 
 | Kondisi Stabilitas | Hubungan Lapse Rate | Perilaku Paket Udara | Bentuk Awan yang Terbentuk |
 | :--- | :--- | :--- | :--- |
-| **Atmosfer Stabil** | $\text{ELR} < \text{SALR} < \text{DALR}$ | Paket udara lebih dingin dari lingkungan; tenggelam kembali. | Tanpa awan atau awan pipih lapis (*Stratus*). |
+| **Atmosfer Stabil** | $\text{ELR} \lt \text{SALR} \lt \text{DALR}$ | Paket udara lebih dingin dari lingkungan; tenggelam kembali. | Tanpa awan atau awan pipih lapis (*Stratus*). |
 | **Atmosfer Tidak Stabil** | $\text{ELR} > \text{DALR} > \text{SALR}$ | Paket udara lebih hangat dari lingkungan; terus naik secara spontan. | Awan vertikal menjulang (*Cumulus*, *Cumulonimbus*). |
-| **Ketidakstabilan Bersyarat** | $\text{SALR} < \text{ELR} < \text{DALR}$ | Stabil saat kering, namun menjadi tidak stabil setelah mencapai kejenuhan. | Awan konvektif berkembang jika ada dorongan mekanis awal. |
+| **Ketidakstabilan Bersyarat** | $\text{SALR} \lt \text{ELR} \lt \text{DALR}$ | Stabil saat kering, namun menjadi tidak stabil setelah mencapai kejenuhan. | Awan konvektif berkembang jika ada dorongan mekanis awal. |
 
 #### A. Atmosfer Stabil (Stable)
 Udara dikatakan stabil jika paket udara yang didorong naik memiliki suhu **lebih dingin** dibandingkan lingkungan sekitarnya. Karena lebih dingin dan bermassa jenis lebih besar, paket udara tersebut akan cenderung turun kembali ke posisi semula.
@@ -76,7 +76,7 @@ Kondisi ini merupakan keadaan yang paling umum di atmosfer. Paket udara bersifat
 
   <div>
   $$
-  \text{SALR} < \text{ELR} < \text{DALR}
+  \text{SALR} \lt \text{ELR} \lt \text{DALR}
   $$
   </div>
 
