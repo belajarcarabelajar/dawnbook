@@ -29,7 +29,7 @@ $$
 - Jika hasil hitungnya **lebih besar dari 1**, artinya konsumen sangat sensitif (Elastis).
 - Jika hasil hitungnya **lebih kecil dari 1**, artinya konsumen kurang sensitif (Inelastis).
 Sebagai gambaran, perusahaan teknologi seperti Apple dapat menaikkan harga iPhone setiap tahun tanpa kehilangan mayoritas pembelinya karena persepsi merek yang kuat membuat permintaannya cenderung inelastis.
-## Krisis Harga Bahan Bakar
+## Kenaikan Harga BBM
 Mari kita lihat bagaimana mekanisme ini bekerja dalam praktik nyata melalui skenario berikut:
 **Konteks:** Pemerintah mengumumkan kenaikan harga BBM (Bensin) sebesar 30%.
 1. **Reaksi Jangka Pendek (Inelastis):** Pada minggu pertama, orang-orang mengeluh tetapi tetap mengisi tangki kendaraan mereka. Mengapa? Karena mereka harus bekerja, mengantar anak sekolah, dan tidak punya pilihan transportasi instan. Permintaan hanya turun sedikit (misal 2%). Inilah mekanisme **Permintaan Inelastis**.

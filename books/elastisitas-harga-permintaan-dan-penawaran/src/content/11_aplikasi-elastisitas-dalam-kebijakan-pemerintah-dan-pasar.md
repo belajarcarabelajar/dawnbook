@@ -42,12 +42,12 @@ Banyak negara kini menerapkan "Sugar Tax" atau pajak pada minuman berpemanis dal
 2. **Analisis Elastisitas:** Agar kebijakan ini efektif mengurangi konsumsi, permintaan terhadap MBDK harus bersifat **elastis**. Jika elastis, kenaikan harga akibat pajak akan membuat orang beralih ke air mineral (substitusi).
 3. **Realita:** Jika ternyata masyarakat sudah "kecanduan" dan permintaannya **inelastis**, maka konsumsi gula tidak akan banyak berkurang, namun pemerintah akan mendapatkan **penerimaan pajak yang besar**.
 > **Insight Penting:** Pemerintah seringkali dihadapkan pada dilema. Jika tujuannya **mengubah perilaku** (misal: berhenti merokok), mereka butuh permintaan yang **elastis**. Jika tujuannya **menambah kas negara**, mereka mencari barang dengan permintaan yang **inelastis**.
-## Ringkasan untuk Pembelajar
+## Pajak, Subsidi, dan Kontrol Harga
 | Kebijakan | Jika Permintaan Inelastis | Jika Permintaan Elastis |
 | --- | --- | --- |
 | **Pajak** | Beban utama di konsumen; Penerimaan negara tinggi. | Beban utama di produsen; Penjualan turun drastis. |
 | **Subsidi** | Manfaat utama dirasakan konsumen (harga turun). | Manfaat utama dirasakan produsen (pendapatan naik). |
-| **Kontrol Harga** | Dampak kelangkaan/surplus cenderung kecil. | Dampak kelangkaan/surplus sangat besar dan masif. |
-### Latihan Refleksi (Kinesthetic/Auditory Learning)
+| **Kontrol Harga** | Dampak kelangkaan/surplus cenderung kecil. | Dampak kelangkaan/surplus besar. |
+### Memajaki Garam atau Tiket Konser
 Cobalah bayangkan kamu adalah seorang menteri keuangan yang harus menutup defisit anggaran sebesar 10 triliun rupiah. Kamu memiliki dua pilihan: memajaki garam dapur atau memajaki tiket konser musik internasional. Berdasarkan konsep elastisitas, tentukan mana yang akan memberikan pendapatan paling stabil dan jelaskan alasanmu.
 **Analogi Terakhir:** Bayangkan elastisitas sebagai sebuah karet gelang. Jika pemerintah menarik satu ujung (memberi beban pajak), ujung mana yang paling sakit? Pihak yang "karetnya" paling kaku (inelastis) tidak bisa menghindar, sehingga mereka yang menanggung tarikan paling kuat. Pihak yang "karetnya" lentur (elastis) bisa dengan mudah melompat atau menghindar ke produk lain, sehingga mereka terhindar dari beban tersebut.

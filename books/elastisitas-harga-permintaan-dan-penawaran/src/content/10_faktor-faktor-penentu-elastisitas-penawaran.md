@@ -16,7 +16,7 @@ Faktor ini bergantung pada sifat fisik barang yang diproduksi.
 - **Barang Tahan Lama (Durable Goods):** Barang seperti baja, baju, atau gadget dapat disimpan dalam gudang. Jika harga turun, produsen menyimpan barangnya. Jika harga naik, mereka tinggal mengeluarkan stok dari gudang. Hal ini membuat penawaran lebih **elastis**.
 - **Barang Mudah Rusak (Perishable Goods):** Produk seperti sayuran, buah-buahan, atau ikan segar tidak bisa disimpan lama. Produsen harus segera menjualnya berapa pun harganya di pasar sebelum membusuk. Oleh karena itu, penawaran barang-barang ini cenderung **inelastis**.
 Lantas, bagaimana dengan sektor jasa (seperti layanan potong rambut atau kursi pesawat yang kosong)? Karena jasa tidak bisa disimpan untuk masa depan, elastisitas penawarannya cenderung lebih kaku saat terjadi lonjakan permintaan secara tiba-tiba.
-### 4. Peranan Dimensi Waktu (The Key Factor)
+### 4. Peranan Dimensi Waktu
 Dimensi waktu adalah faktor paling penting dalam menentukan elastisitas penawaran. Secara umum, semakin lama waktu yang dimiliki produsen untuk beradaptasi, semakin elastis penawarannya.
 Ekonomi membaginya menjadi tiga periode waktu:
 #### A. Jangka Waktu Sangat Pendek (Momentary/Market Period)
@@ -31,14 +31,14 @@ Produsen dapat mengubah beberapa faktor produksi (seperti menambah jam lembur at
 Semua faktor produksi bersifat variabel. Perusahaan bisa membangun pabrik baru, membeli mesin tambahan, atau perusahaan baru bisa masuk ke industri tersebut.
 - **Kondisi:** Respons terhadap perubahan harga paling besar.
 - **Elastisitas:** Elastis ($\text{E}_s > 1$).
-### Ringkasan Visual Faktor Elastisitas
+### Fleksibel atau Kaku per Faktor
 | Faktor | Penawaran Elastis (Fleksibel) | Penawaran Inelastis (Kaku) |
 | --- | --- | --- |
 | **Kapasitas** | Banyak kapasitas menganggur | Sudah mencapai batas maksimal |
 | **Faktor Produksi** | Mudah dipindahkan/didapat | Langka atau sangat spesifik |
 | **Stok Barang** | Mudah disimpan (Tahan lama) | Sulit disimpan (Mudah busuk) |
 | **Waktu** | Jangka Panjang | Jangka Pendek |
-### Krisis Chip Semikonduktor
+### Kelangkaan Chip Semikonduktor
 Mari kita lihat fenomena kelangkaan chip global beberapa waktu lalu. Ketika permintaan barang elektronik melonjak (dan harga chip naik), mengapa produsen chip tidak bisa langsung menambah pasokan?
 1. **Kapasitas Produksi:** Pabrik chip (Fabs) sudah beroperasi pada kapasitas hampir 100%.
 2. **Mobilitas Faktor Produksi:** Membangun pabrik chip memerlukan investasi miliaran dolar dan teknologi canggih (mobilitas rendah).

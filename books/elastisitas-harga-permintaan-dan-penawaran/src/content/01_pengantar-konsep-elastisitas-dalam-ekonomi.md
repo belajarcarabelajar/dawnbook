@@ -28,7 +28,7 @@ Pemerintah menggunakan konsep elastisitas untuk menentukan barang mana yang akan
 - **Kasus Rokok:** Pemerintah mengenakan pajak tinggi pada rokok karena rokok bersifat adiktif (inelastis). Meskipun harga naik karena pajak, orang akan membelinya, sehingga pendapatan negara dari pajak meningkat tanpa mematikan industri tersebut secara mendadak.
 ### 3. Prediksi Keseimbangan Pasar
 Dalam mikroekonomi, kita mempelajari bagaimana pasar mencapai keseimbangan. Elastisitas membantu kita memprediksi seberapa cepat pasar akan kembali ke titik normal setelah terjadi guncangan (seperti bencana alam atau perubahan teknologi).
-## Perang Harga Supermarket
+## Garam dan Sereal di Rak Supermarket
 Bayangkan dua produk di rak supermarket: **Garam** dan **Sereal Cokelat**.
 - **Skenario A (Garam):** Garam tidak punya banyak substitusi dan hanya menyerap sebagian kecil anggaran bulanan kamu. Jika harga garam naik dari Rp2.000 menjadi Rp3.000 (naik 50%), kamu mungkin akan tetap membelinya dalam jumlah yang sama. **Garam memiliki elastisitas rendah (inelastis).**
 - **Skenario B (Sereal Cokelat):** Ada sepuluh merk sereal cokelat yang berbeda. Jika Merk X menaikkan harga sebesar 20%, konsumen akan langsung menoleh ke Merk Y atau Z yang lebih murah. **Sereal Merk X memiliki elastisitas tinggi (elastis).**

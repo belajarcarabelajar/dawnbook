@@ -33,7 +33,7 @@ Kondisi ekstrem lainnya di mana pada tingkat harga tertentu, konsumen bersedia m
 - **Karakteristik:** Penjual dapat menjual semua barangnya pada harga pasar, namun tidak ada yang mau membeli jika harga dinaikkan di atas harga tersebut.
 - **Representasi Grafis:** Kurva berbentuk **garis horizontal mendatar**.
 - **Contoh:** Barang dalam pasar persaingan sempurna, seperti hasil pertanian (gandum atau beras) di pasar induk yang standar mutunya sama persis. Jika satu petani menaikkan harga sendiri, pembeli akan langsung beralih ke ribuan petani lainnya yang harganya normal.
-### Ringkasan Perbandingan Derajat Elastisitas
+### Lima Derajat Elastisitas Permintaan
 | Jenis Elastisitas | Nilai Koefisien ($|\text{E}_d|$) | Deskripsi | Bentuk Kurva |
 | :--- | :--- | :--- | :--- |
 | **Elastis** | $|\text{E}_d| > 1$ | Responsif terhadap harga | Landai |

@@ -26,7 +26,7 @@ Ini adalah kondisi ekstrem di mana pada harga tertentu, produsen bersedia memaso
 - **Konsep:** Harga ditentukan oleh pasar, dan produsen adalah *price taker*.
 - **Bentuk Kurva:** Kurva penawaran berbentuk **garis lurus horizontal**.
 - **Contoh Nyata:** Meskipun sulit ditemukan dalam bentuk murni, pasar komoditas global sering mendekati kondisi ini. Misalnya, seorang petani kecil di pasar gandum internasional. Ia bisa menjual berapapun gandumnya pada harga pasar dunia, tetapi jika ia menaikkan harga sedikit saja, tidak akan ada yang membeli darinya karena pembeli punya akses ke jutaan petani lain pada harga pasar.
-## Ringkasan Visual Derajat Elastisitas
+## Tabel Derajat Elastisitas Penawaran
 | Jenis Elastisitas | Nilai Koefisien $(E_s)$ | Deskripsi Respon | Bentuk Kurva |
 | --- | --- | --- | --- |
 | **Inelastis Sempurna** | $E_s = 0$ | Tidak ada respon | Vertikal |

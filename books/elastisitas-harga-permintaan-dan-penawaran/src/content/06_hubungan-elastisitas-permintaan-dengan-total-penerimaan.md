@@ -56,7 +56,7 @@ flowchart LR
     B -->|"harga terus turun, TR turun"| C["Wilayah inelastis"]
 ```
 
-### 5. Aplikasi Dunia Nyata & Kasus Bisnis
+### 5. Contoh dari Maskapai, Tol, dan Smartphone
 #### Industri Maskapai Penerbangan
 Maskapai menggunakan sistem *dynamic pricing*. Untuk tiket kelas bisnis yang biasanya dibeli oleh pelancong bisnis (permintaan inelastis karena mendesak dan dibayar kantor), harga dipasang tinggi. Menaikkan harga pada segmen ini akan meningkatkan $\text{TR}$ maskapai. Sebaliknya, untuk tiket promo liburan (permintaan elastis), mereka sering memberikan diskon untuk mengisi kursi yang kosong agar $\text{TR}$ naik.
 #### Tarif Tol
