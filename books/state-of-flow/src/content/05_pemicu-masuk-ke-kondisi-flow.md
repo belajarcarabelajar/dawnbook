@@ -1,4 +1,4 @@
-## Pemicu (Triggers) Masuk ke Kondisi Flow
+## Pemicu Masuk ke Kondisi Flow
 
 Bayangkan kamu adalah seorang pendaki tebing. Tangan kamu mencari celah kecil di batu, kaki kamu bertumpu pada pijakan yang sangat sempit, dan di bawah kamu ada jurang yang dalam. Pada saat itu, tidak ada ruang untuk memikirkan tagihan listrik, masalah di kantor, atau apa yang akan kamu makan malam nanti. Seluruh dunia kamu menyusut hanya menjadi gerakan berikutnya. Inilah **Flow**.
 
