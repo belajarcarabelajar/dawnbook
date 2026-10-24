@@ -48,7 +48,7 @@ Sebaliknya, jika ia memilih bersikap autentik, Budi akan jujur pada dirinya send
 
 #### Media Sosial dan Citra Diri
 
-Di era digital, jebakan peran di media sosial sangat kuat. Seseorang terjebak dalam *bad faith* ketika ia memaksakan diri menampilkan kehidupan yang serbaperfect hanya demi memenuhi ekspektasi pengikut atau standar sosial. Di sisi lain, autentisitas di dunia digital mewujud saat seseorang menggunakan platform sosial sebagai ruang ekspresi yang jujur, tanpa mendikte nilainya dari jumlah tanda suka atau penilaian orang lain.
+Di era digital, jebakan peran di media sosial kuat. Seseorang terjebak dalam *bad faith* ketika ia memaksakan diri menampilkan kehidupan yang serbaperfect hanya demi memenuhi ekspektasi pengikut atau standar sosial. Di sisi lain, autentisitas di dunia digital mewujud saat seseorang menggunakan platform sosial sebagai ruang ekspresi yang jujur, tanpa mendikte nilainya dari jumlah tanda suka atau penilaian orang lain.
 
 ### 5. Langkah Praktis Menuju Hidup yang Autentik
 

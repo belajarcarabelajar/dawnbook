@@ -4,7 +4,7 @@ Pernahkah kamu terbangun di tengah malam dan bertanya apa tujuanmu berada di sin
 
 ## 1. Apa Itu Eksistensialisme?
 
-Secara sederhana, **Eksistensialisme** adalah tradisi filsafat yang berfokus pada pengalaman individu sebagai titik tolak pemikiran filosofis. Berbeda dengan filsafat tradisional yang sering mencari "hakikat umum" manusia atau hukum alam yang abstrak, eksistensialisme justru menukik ke dalam realitas subjektif: kegelisahan, kebebasan, dan perjuangan individu untuk menciptakan makna.
+Secara sederhana, **Eksistensialisme** adalah tradisi filsafat yang berfokus pada pengalaman individu sebagai titik tolak pemikiran filosofis. Berbeda dengan filsafat tradisional yang sering mencari "hakikat umum" manusia atau hukum alam yang abstrak, eksistensialisme justru berangkat dari realitas subjektif: kegelisahan, kebebasan, dan perjuangan individu untuk menciptakan makna.
 
 > "Eksistensialisme tidak berputar di lingkup teori akademis kelas saja, tetapi menjelma menjadi seruan untuk hidup secara autentik di tengah dunia yang kerap terasa tidak masuk akal."
 

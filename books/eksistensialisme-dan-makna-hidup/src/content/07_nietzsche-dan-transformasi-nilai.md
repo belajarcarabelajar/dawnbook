@@ -20,13 +20,13 @@ Bayangkan sebuah kapal yang berlayar di malam hari dengan panduan sebuah mercusu
 Runtuhnya nilai-nilai absolut membawa manusia ke hadapan **Nihilisme**: keyakinan bahwa hidup tidak memiliki makna, tujuan, atau nilai intrinsik. Nietzsche membagi nihilisme menjadi dua bentuk:
 
 1. **Nihilisme Pasif:** Pandangan bahwa karena tidak ada makna objektif, maka hidup ini sia-sia. Ini berujung pada keputusasaan, pesimisme, dan mentalitas menyerah pada keadaan.
-2. **Nihilisme Aktif:** Kekuatan penghancur yang sengaja meruntuhkan nilai-nilai lama yang sudah membusuk guna memberi ruang bagi penciptaan sesuatu yang baru. Bagi Nietzsche, ini adalah tanda kekuatan.
+2. **Nihilisme Aktif:** Kekuatan penghancur yang sengaja meruntuhkan nilai-nilai lama yang sudah usang guna memberi ruang bagi penciptaan sesuatu yang baru. Bagi Nietzsche, ini adalah tanda kekuatan.
 
 *Jika besok pagi kamu bangun dan menyadari bahwa tidak ada aturan universal tentang apa yang "benar" dan "salah", apakah kamu akan merasa takut atau justru merasa merdeka?*
 
 ## 3. *Umwertung aller Werte* (Penilaian Kembali Segala Nilai)
 
-Untuk keluar dari lubang nihilisme, Nietzsche menawarkan konsep revaluasi nilai. Ia mengkritik apa yang disebutnya sebagai *Moralitas Budak* (*Slave Morality*).
+Untuk keluar dari nihilisme, Nietzsche menawarkan konsep revaluasi nilai. Ia mengkritik apa yang disebutnya sebagai *Moralitas Budak* (*Slave Morality*).
 
 - **Moralitas Budak:** Nilai-nilai yang memuja kerendahhatian, kepatuhan, dan pengorbanan diri (sering diasosiasikan Nietzsche dengan institusi agama tradisional). Ini dianggap sebagai bentuk kebencian terhadap kekuatan hidup.
 - **Moralitas Tuan (*Master Morality*):** Nilai-nilai yang memuja kekuatan, kebangsawanan jiwa, kreativitas, dan penegasan diri.

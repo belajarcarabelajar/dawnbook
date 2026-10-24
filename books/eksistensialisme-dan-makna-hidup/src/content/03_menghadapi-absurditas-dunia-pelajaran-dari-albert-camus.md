@@ -8,7 +8,7 @@ Dalam bagian ini, kita akan menjelajahi salah satu konsep paling provokatif dala
 
 ## 1\. Apa Itu Absurditas?
 
-Banyak orang mengira "absurd" berarti "aneh" atau "lucu". Namun, bagi Camus, absurditas memiliki definisi yang sangat spesifik dan teknis.
+Banyak orang mengira "absurd" berarti "aneh" atau "lucu". Namun, bagi Camus, absurditas memiliki definisi yang spesifik dan teknis.
 
 **Absurditas adalah hasil dari sebuah tabrakan (collision).**
 
@@ -89,7 +89,7 @@ Bayangkan kamu sedang berada di sebuah kafe. Kamu menyadari bahwa dalam 100 tahu
 
 ## 5\. Bayangkan Sisyphus Bahagia
 
-Camus menutup esainya dengan kalimat yang sangat terkenal:
+Camus menutup esainya dengan kalimat yang terkenal:
 
 > "Perjuangan itu sendiri menuju puncak sudah cukup untuk mengisi hati manusia. Kita harus membayangkan Sisyphus bahagia."
 

@@ -6,7 +6,7 @@ Logoterapi, yang sering disebut sebagai "Aliran Psikoterapi Wina Ketiga", berfok
 
 ### 1. Viktor Frankl dan Kamp Konsentrasi
 
-Untuk memahami Logoterapi, kita harus melihat konteks kelahirannya. Viktor Frankl menghabiskan tiga tahun di berbagai kamp konsentrasi, termasuk Auschwitz. Di sana, ia kehilangan segalanya: keluarga, identitas, harta benda, hingga naskah bukunya yang sangat berharga.
+Untuk memahami Logoterapi, kita harus melihat konteks kelahirannya. Viktor Frankl menghabiskan tiga tahun di berbagai kamp konsentrasi, termasuk Auschwitz. Di sana, ia kehilangan segalanya: keluarga, identitas, harta benda, hingga naskah bukunya.
 
 Dalam kondisi di mana nyawa tidak ada harganya, Frankl mengamati sebuah pola menarik:
 
@@ -77,7 +77,7 @@ Frankl merancang metode praktis untuk membebaskan pasien dari lingkaran setan ke
 
 Bayangkan seseorang yang kehilangan pekerjaan yang telah ia rintis selama dua dekade.
 
-Jika dia menghadapi situasi ini tanpa pemahaman Logoterapi, dia sangat rentan merasa dunianya runtuh, kehilangan identitas diri, lalu terperosok ke dalam kekosongan batin yang mendalam.
+Jika dia menghadapi situasi ini tanpa pemahaman Logoterapi, dia rentan merasa dunianya runtuh, kehilangan identitas diri, lalu terperosok ke dalam kekosongan batin yang mendalam.
 
 Sebaliknya, dengan menerapkan prinsip Logoterapi, dia akan memandang krisis ini sebagai ruang untuk menguji "Nilai Sikap". Dia menyadari bahwa harga dirinya tidak ditentukan oleh jabatan semata. Dari sini, dia bisa memanfaatkan waktu luang untuk menekuni kegemaran yang sempat tertunda (Nilai Kreatif) atau menjalin kedekatan emosional yang lebih hangat dengan keluarganya (Nilai Pengalaman).
 

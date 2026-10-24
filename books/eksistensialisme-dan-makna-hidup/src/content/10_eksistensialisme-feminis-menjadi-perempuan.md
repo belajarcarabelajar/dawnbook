@@ -1,6 +1,6 @@
 ## Eksistensialisme Feminis
 
-Bab ini membahas eksistensialisme feminis. Jika sebelumnya kita telah membahas bagaimana Jean-Paul Sartre menekankan bahwa "eksistensi mendahului esensi," maka **Simone de Beauvoir** membawa prinsip ini ke dalam realitas yang spesifik dan personal: **pengalaman hidup sebagai seorang perempuan.**
+Eksistensialisme feminis menelusuri cara masyarakat membentuk arti menjadi perempuan, dan cara seseorang merebut kembali kendali atas dirinya. Jika sebelumnya kita telah membahas bagaimana Jean-Paul Sartre menekankan bahwa "eksistensi mendahului esensi," maka **Simone de Beauvoir** membawa prinsip ini ke dalam realitas yang spesifik dan personal: **pengalaman hidup sebagai seorang perempuan.**
 
 Filsafat ini membedah bagaimana konstruksi sosial membentuk identitas gender, sekaligus menawarkan cara bagi kita untuk merebut kembali kendali atas diri sendiri.
 
@@ -42,14 +42,14 @@ Dalam masyarakat patriarki tradisional, laki-laki diberikan akses luas untuk men
 Bagaimana seorang perempuan (atau individu mana pun yang terbelenggu konstruksi sosial) dapat merebut kembali kebebasannya? Beauvoir menawarkan beberapa jalan:
 
 - **Kemandirian Finansial:** Sebelum bisa bebas secara eksistensial, seseorang membutuhkan fondasi ekonomi yang mandiri. Tanpa kemampuan menyokong hidup sendiri, kamu akan selalu rentan terjebak di bawah kehendak orang lain.
-- **Melibatkan Diri dalam Proyek Kreatif:** Melalui aktivitas intelektual, seni, atau sosial, kamu menciptakan makna baru bagi dunia di luar cangkang dirimu sendiri.
+- **Melibatkan Diri dalam Proyek Kreatif:** Melalui aktivitas intelektual, seni, atau sosial, kamu menciptakan makna baru bagi dunia di luar dirimu sendiri.
 - **Melawan Keyakinan Buruk (*Bad Faith*):** Penting untuk berhenti bersembunyi di balik alasan "memang sudah kodratnya begini." Sadarilah bahwa apa yang dilabeli sebagai "kodrat" sering kali hanyalah alat sosial untuk melanggengkan penindasan.
 
 ### 5. Skenario Kehidupan Modern
 
 Mari kita lihat bagaimana teori ini bekerja dalam praktik sehari-hari:
 
-**Pilihan Karier vs. Ekspektasi Keluarga** Sinta adalah seorang insinyur mesin yang sangat berbakat (Transendensi). Namun, keluarganya terus menekankan bahwa ia harus segera menikah dan berhenti bekerja lembur karena "perempuan seharusnya di rumah menjaga keharmonisan" (Imans).
+**Pilihan Karier vs. Ekspektasi Keluarga** Sinta adalah seorang insinyur mesin yang berbakat (Transendensi). Namun, keluarganya terus menekankan bahwa ia harus segera menikah dan berhenti bekerja lembur karena "perempuan seharusnya di rumah menjaga keharmonisan" (Imans).
 
 Dalam sudut pandang Beauvoir, andai Sinta menyerah pada tekanan keluarga hanya demi mematuhi apa yang ia yakini sebagai "kodrat perempuan," ia sesungguhnya sedang terjebak dalam *Bad Faith* atau keyakinan buruk.
 
@@ -66,4 +66,4 @@ Untuk hidup secara autentik dalam kerangka feminisme eksistensialis, kamu bisa m
 
 > **Insight Utama:** Kebebasan sejati tidak diukur dari seberapa mirip kita dengan laki-laki, tetapi dari hak yang sama untuk merumuskan makna keberadaan kita sendiri tanpa dibatasi oleh anatomi tubuh.
 
-Sebagai langkah awal untuk menemukan kebebasan eksistensialmu, cobalah mengurai satu hal dalam keseharianmu yang selama ini kamu anggap wajib dilakukan hanya karena tuntutan gender atau status sosial. Jika label tersebut dilepas sepenuhnya, apakah kamu akan tetap memilih untuk melakukannya? Jawaban jujurmu atas pertanyaan ini bisa menjadi pintu gerbang menuju kehidupan yang lebih autentik.
+Sebagai langkah awal untuk menemukan kebebasan eksistensialmu, cobalah mengurai satu hal dalam keseharianmu yang selama ini kamu anggap wajib dilakukan hanya karena tuntutan gender atau status sosial. Jika label tersebut dilepas sepenuhnya, apakah kamu akan tetap memilih untuk melakukannya? Jawaban jujurmu atas pertanyaan ini bisa menjadi langkah pertama menuju kehidupan yang lebih autentik.

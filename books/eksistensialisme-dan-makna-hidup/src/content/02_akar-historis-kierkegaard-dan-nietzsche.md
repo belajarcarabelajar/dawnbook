@@ -42,7 +42,7 @@ Jika Kierkegaard mencari makna di dalam Tuhan, Friedrich Nietzsche (1844–1900)
 
 ### "Tuhan Sudah Mati" (Gott ist tot)
 
-Pernyataan Nietzsche ini sangat populer sekaligus paling sering disalahpahami. Dia tidak bermaksud mengumumkan kematian sosok supranatural. Nietzsche ingin menunjukkan bahwa kepercayaan pada Tuhan telah kehilangan perannya sebagai poros moral dan kebudayaan masyarakat modern.
+Pernyataan Nietzsche ini populer sekaligus paling sering disalahpahami. Dia tidak bermaksud mengumumkan kematian sosok supranatural. Nietzsche ingin menunjukkan bahwa kepercayaan pada Tuhan telah kehilangan perannya sebagai poros moral dan kebudayaan masyarakat modern.
 
 **Konsekuensi Logis:** Jika Tuhan yang menjadi sumber nilai absolut hilang, nihilisme akan membayangi manusia:
 
@@ -79,7 +79,7 @@ Nietzsche percaya dorongan dasar manusia melampaui sekadar pertahanan hidup ala 
 
 ## Mengapa Mereka Relevan Sekarang?
 
-Gagasan kedua pemikir ini bukan sekadar warisan masa lalu. Kita bisa memanfaatkannya sebagai panduan praktis untuk mengarungi dinamika dunia modern:
+Gagasan kedua pemikir ini bukan sekadar warisan masa lalu. Kita bisa memanfaatkannya sebagai panduan praktis untuk menghadapi dunia modern:
 
 - **Menjinakkan FOMO (Fear of Missing Out)**: Gagasan Kierkegaard tentang kecemasan mengingatkan kita bahwa bingung memilih arah adalah tanda kebebasan yang nyata. Alih-alih cemas dan menghindar, kita ditantang mengambil keputusan secara utuh.
 - **Navigasi Krisis Makna di Era Digital**: Nietzsche menawarkan jalan keluar dari kehampaan modern lewat konsep *Übermensch*. Kita didorong menolak arus tren media sosial secara buta, lalu merumuskan sendiri prinsip hidup yang berharga, misalnya memprioritaskan integritas dibanding popularitas.
