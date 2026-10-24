@@ -279,7 +279,7 @@ Trigger: owner request 2026-10-24 after the Raymond Chin Bridgeplay/NotProton co
   - [x] U3b (PR B): Contoh 4.14 speakers, 70-80% cited to Hattie (2012) via Gewertz (2019), chapter 6 tables per the article (69756da0).
   - Reviews: PR B follow-ups "correct", no findings; PR C follow-ups "correct" with two P2 (Komdigi source verified as supporting CekRekening.id; IASC loss fixed in e5b21dda).
   - Combined gate (A, B, C merged in a scratch worktree at fc4f4bdb): `bun test tests/scripts/ tests/books/` exit 0, 655 pass, 0 fail; `bun run build` exit 0.
-- [ ] X1: three PRs; merge asked alone per PR; deploy, D1 seed and GSC reindex asked separately.
+- [x] X1: three PRs; merge asked alone per PR; deploy, D1 seed and GSC reindex asked separately. Evidence 2026-10-25: #206 merged 06b8fc63, #207 merged 33dbe23f, #208 merged b02d9e17 (each on its own Merge question, `--match-head-commit`, later PRs synced with `git merge origin/main`, no force push); `bun test tests/scripts/ tests/books/` on main b02d9e17 exit 0, 657 pass, 0 fail; `deploy-website.sh` exit 0 (https://03fe5b70.dawnbook.pages.dev; About credit and the six Referensi URLs checked live); `migrate-to-d1.ts` exit 0 ("All seeds applied successfully", db/seed.sql restored); GSC sitemap PUT 204, errors 0.
 
 ## Visual Implementation Map
 
@@ -402,6 +402,19 @@ Three branches through `pr-registry.mjs claim --repo /home/belajarcarabelajar/Pr
 - File size: `scripts/builder/template-engine.ts` is 57,975 bytes (over the 20,000-byte default) and `LICENSE-CONTENT` 18,375 bytes before this plan. N1 adds one sentence to each; splitting either file is out of scope, so this line is the size-raise note for both.
 - Rollback: revert the PR; each task is its own commit.
 
+## Remote branches (recorded 2026-10-25)
+
+The three merged PR branches still exist on `origin`; they were not deleted. Recorded with `git ls-remote --heads origin '2026-10-24-dawnbook-attribution-fixes/*'`:
+
+| Branch | Head | PR | State |
+|---|---|---|---|
+| `2026-10-24-dawnbook-attribution-fixes/attribution-notices` | a9c562023ced | #206 | merged as 06b8fc63 |
+| `2026-10-24-dawnbook-attribution-fixes/attribution-book-fixes` | f8a0c8659f3f | #207 | merged as 33dbe23f |
+| `2026-10-24-dawnbook-attribution-fixes/attribution-referensi` | f3460750fb83 | #208 | merged as b02d9e17 |
+| `2026-10-24-dawnbook-attribution-fixes/attribution-closeout` | (this PR) | | open |
+
+Deleting them is the owner's call (`git push origin --delete <branch>`); every commit is already in `main`, so deletion loses nothing. Local worktrees of the first three were removed on 2026-10-25.
+
 ## Backlog (re-pass, 2026-10-24)
 
 Found while executing the follow-ups; not done in this session (the sweep has one round). Each is LATER.
@@ -416,6 +429,11 @@ Found while executing the follow-ups; not done in this session (the sweep has on
 - LATER `defer: same-class audit of the other 54 books, owner decision` unsourced or misattributed quotations were found in 4 of the 6 books checked; the remaining books were not checked.
 - LATER `defer: owner policy decision` a one-line AI-assistance disclosure (history audit: "AI" author label removed in cea19025, 9 PR bodies mention a generator).
 
+### Backlog verification (2026-10-25, main b02d9e17)
+
+All nine items re-checked. Items 1 to 7 and 9 still hold on main (line numbers updated where they moved: literasi-keuangan Kring Pajak 11:92, document retention 11:100; topic-control "Nah / Jadi" 06:70; piaget conflict 11:15 vs 05:63 confirmed). Item 8, the quotation audit of the other 54 books, is done read-only: about 45 quotations verified, 15 misattributed, 15 altered, 17 unverified, 5 lifted without credit. Gravest: a sentence presented as UU 24/2007 that the law does not contain (sistem-peringatan-dini 04:13); "we are what we repeatedly do" credited to Aristotle five times (virtue-ethics); Frankl, Einstein, Augustine and Roosevelt misattributions; an invented 1934 fascist "quote" (geopolitik 02:23); a commercial blog passage translated into a blockquote without credit (pembelajaran-multidisiplin 10:49). Full table: `docs/code-plan/artifacts/2026-10-25-dawnbook-quote-audit.md`.
+
 ## Closeout status
 
 - 2026-10-24: `bun ~/vivera/scripts/plan-closeout.mjs --readiness` = NEEDS-HUMAN (exit 3): 0 open step boxes, every task UNPROVEN (no `skip_if`), X1 open. Owner decision (Close plan gate): keep it open. Reopen the question after PRs #206, #207 and #208 are merged in that order and the deploy, D1 seed and reindex decisions are made.
+- 2026-10-25, after merges, deploy, D1 seed and reindex: readiness still NEEDS-HUMAN (exit 3): 0 open boxes, every task UNPROVEN. Owner decision (Close plan gate, second time): keep it open. Owner decision on the quotation audit: fix the findings in a new plan (`2026-10-25-dawnbook-quote-fixes`), which takes over backlog item 8; reopen this plan's closeout when that plan is approved.
