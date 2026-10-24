@@ -22,7 +22,7 @@ Ini adalah pemicu yang paling fundamental. Flow menuntut perhatian tunggal yang 
 
 - **Aplikasi:** Matikan notifikasi ponsel, tutup tab browser yang tidak relevan, dan fokuslah pada satu tugas selama minimal 90 menit.
 
-### B. Tujuan yang Jelas (Clear Goals)
+### B. Tahu Persis Langkah Berikutnya (Clear Goals)
 
 Ketika kamu tahu persis apa yang harus dilakukan selanjutnya, otak tidak perlu membuang energi untuk merencanakan atau menebak-nebak. Fokus kamu tetap tertuju pada *eksekusi*.
 
@@ -69,7 +69,7 @@ Flow tidak hanya terjadi secara individu. Pernahkah kamu berada dalam tim di man
 3. **Partisipasi yang Setara:** Setiap anggota tim memiliki keterampilan yang relevan dan berkontribusi secara nyata.
 4. **Rasa Kontrol:** Anggota tim merasa memiliki otonomi atas tugas mereka di dalam kelompok.
 
-## Skenario Pemrograman
+## Memperbaiki Bug Sistem Pembayaran
 
 Mari kita lihat bagaimana seorang Software Engineer menggunakan pemicu ini untuk masuk ke dalam kondisi flow saat memperbaiki bug kritis.
 

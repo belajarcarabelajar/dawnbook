@@ -12,7 +12,7 @@ Bayangkan sebuah sungai yang mengalir deras namun tenang. Airnya tidak dipaksa u
 
 > **Definisi Inti:** *Flow* adalah kondisi kesadaran yang optimal di mana kita merasakan yang terbaik dan memberikan performa terbaik kita.
 
-### Sang Dirigen Orkestra
+### Dirigen Orkestra
 
 Bayangkan seorang dirigen orkestra di tengah pertunjukan. Dia tidak lagi memikirkan gerakan tangannya secara mekanis. Dia tidak mencemaskan apa yang akan dimakan untuk makan malam. Dia, tongkatnya, para pemain musik, dan partitur menyatu dalam satu pertunjukan. Inilah esensi dari *flow*: hilangnya pemisahan antara "diri" dan "aktivitas".
 

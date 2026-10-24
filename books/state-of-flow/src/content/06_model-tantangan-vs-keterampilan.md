@@ -53,7 +53,7 @@ Seiring berkembangnya riset, Csikszentmihalyi memperhalus model ini menjadi 8 ko
 | **Boredom** | Rendah | Menengah | Kurang minat, merasa terjebak dalam rutinitas. |
 | **Apathy** | Rendah | Rendah | Kondisi paling negatif; tidak peduli, tidak ada gairah (misal: menonton TV tanpa tujuan). |
 | **Worry** | Menengah | Rendah | Merasa tidak mampu menghadapi situasi yang agak sulit. |
-| **Anxiety** | Tinggi | Rendah | Stres berat karena tuntutan yang luar biasa besar. |
+| **Anxiety** | Tinggi | Rendah | Stres berat karena tuntutan yang terlalu besar. |
 | **Arousal** | Tinggi | Menengah | Tertarik dan fokus, namun masih butuh peningkatan skill untuk mencapai *flow*. |
 
 Delapan kondisi dalam tabel itu bisa kamu letakkan pada grafik dua sumbu, dengan keterampilan di sumbu mendatar dan tantangan di sumbu tegak.
@@ -74,7 +74,7 @@ quadrantChart
     Arousal: [0.5, 0.85]
 ```
 
-## 4\. Aplikasi Nyata dan Skenario
+## 4\. Contoh dari Perangkat Lunak dan Video Game
 
 ### Pengembangan Perangkat Lunak (Software Engineering)
 

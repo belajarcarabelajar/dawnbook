@@ -38,7 +38,7 @@ Pernahkah kamu merasa sebuah game tiba-tiba menjadi terlalu sulit atau justru te
 
 Jika rasio ini menjauh dari angka 1, pengalaman *flow* akan hilang. AI masa depan bertugas menjaga rasio ini tetap stabil secara dinamis setiap detiknya.
 
-## 3\. Revolusi Pendidikan lewat Flow-Centric Learning
+## 3\. Flow-Centric Learning di Pendidikan
 
 Pendidikan konvensional sering kali menjadi pembunuh *flow* karena pendekatan *one-size-fits-all*. Masa depan pendidikan sedang bergeser menuju model yang memprioritaskan keterlibatan mendalam (deep engagement).
 

@@ -34,7 +34,7 @@ Dalam flow, koneksi saraf menjadi lebih efisien. Otak mulai mengenali pola denga
 
 Meskipun intensitasnya tinggi, flow seringkali terasa "tanpa usaha" (*effortless*). Karena tubuh melepaskan koktail neurotransmiter seperti dopamin dan norepinefrin, kamu tidak merasa lelah selama proses berlangsung. Kamu baru merasakan lelah setelah keluar dari kondisi tersebut.
 
-### 3\. Output Kreatif yang Melampaui Batas Standar
+### 3\. Kualitas dan Kreativitas Hasil Kerja
 
 Flow bukan hanya tentang kecepatan (efisiensi), tetapi juga tentang **kualitas (efektivitas)**.
 
@@ -47,7 +47,7 @@ Dalam kondisi mental biasa, kita cenderung menggunakan jalur pemikiran yang suda
 
 | Aspek | Kondisi Mental Biasa | Kondisi Flow |
 | --- | --- | --- |
-| **Fokus** | Terfragmentasi (Mudah terganggu) | Laser-focused (Imersif) |
+| **Fokus** | Terfragmentasi (Mudah terganggu) | Terpusat penuh (Imersif) |
 | **Kesadaran Diri** | Tinggi (Sering mengkritik diri sendiri) | Hilang (Melebur dengan tugas) |
 | **Persepsi Waktu** | Terasa lambat atau membosankan | Distorsi waktu (Cepat berlalu) |
 | **Pengambilan Keputusan** | Berdasarkan analisis yang melelahkan | Intuitif dan instan |
@@ -61,7 +61,7 @@ Bekerja dalam **kondisi mental biasa** seperti mengendarai mobil dengan rem tang
 
 Bekerja dalam **kondisi flow** adalah seperti mengaktifkan sistem *turbocharger* pada mobil balap yang baru diservis. Rem tangan dilepas, jalur dikosongkan, dan mesin bekerja selaras. Kamu melaju jauh lebih cepat dengan hambatan yang jauh lebih sedikit.
 
-### 6\. Aplikasi Nyata dan Skenario
+### 6\. Contoh Penulisan Kode dan Laporan
 
 #### Penulisan Kode (Software Engineering)
 

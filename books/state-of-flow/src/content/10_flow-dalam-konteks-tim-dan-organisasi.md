@@ -27,7 +27,7 @@ Untuk menciptakan kondisi ini, organisasi tidak bisa hanya "berharap" itu terjad
 9. **The "Yes, And" Rule (Pola Pikir Improvisasi):** Mengambil ide rekan dan membangunnya lebih lanjut, bukan langsung menolaknya.
 10. **Shared Risk (Risiko Bersama):** Kegagalan atau keberhasilan ditanggung bersama, menciptakan rasa urgensi dan solidaritas.
 
-## Membangun Arsitektur Organisasi untuk Flow
+## Struktur Organisasi yang Mendukung Flow
 
 Di tingkat organisasi, struktur dapat mendukung atau justru menghambat *Group Flow*. Berikut adalah formula sederhana untuk melihat potensi sinergi tim:
 

@@ -53,7 +53,7 @@ Dimana:
 
 **Pesan utamanya:** Jika $R$ (pemulihan) mendekati nol, maka $S$ (keberlanjutan) juga akan merosot, tidak peduli seberapa tinggi intensitas flow kamu.
 
-### Kasus "The Crunch" di Industri Kreatif
+### "The Crunch" di Industri Kreatif
 
 Dalam industri pengembangan video game atau film, terdapat istilah **"The Crunch"**. Ini adalah periode di mana karyawan bekerja dalam kondisi flow yang dipaksakan selama berbulan-bulan untuk mengejar tenggat waktu.
 

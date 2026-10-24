@@ -4,7 +4,7 @@ Pernahkah kamu merasa seolah dunia di sekitarmu memudar, waktu melambat atau jus
 
 Memahami neurobiologi flow bukan hanya soal memuaskan rasa ingin tahu ilmiah. Dengan memahami "mesin" di balik kondisi ini, kita bisa belajar cara mengaktifkannya dengan lebih konsisten.
 
-## 1\. Transient Hypofrontality saat "CEO" Otak Beristirahat
+## 1\. Transient Hypofrontality di Korteks Prefrontal
 
 Banyak orang mengira bahwa saat berada dalam kondisi flow, otak kita bekerja lebih keras dan menyalakan lebih banyak area. Kenyataannya justru **sebaliknya**. Fenomena ini dikenal sebagai **Transient Hypofrontality**.
 
@@ -26,7 +26,7 @@ Saat kamu masuk ke dalam flow, otak melakukan efisiensi energi. Ia menonaktifkan
 2. **Distorsi Waktu:** Karena PFC yang memproses integrasi waktu melambat, kamu bisa merasa 2 jam berlalu seperti 2 menit.
 3. **Aksi Menjadi Instingtif:** Keputusan diambil lebih cepat karena tidak perlu melewati proses filter logika yang panjang.
 
-## 2\. Koktail Kimiawi 5 Neurotransmiter Utama
+## 2\. Lima Neurotransmiter Utama
 
 Kondisi flow adalah satu-satunya saat di mana otak manusia melepaskan lima bahan kimia "pembangkit gairah" secara bersamaan. Steven Kotler, seorang pakar flow, menyebutnya sebagai **The Performance Cocktail**.
 
