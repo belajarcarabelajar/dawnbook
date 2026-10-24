@@ -1,6 +1,6 @@
 ## Gaya Kelekatan Cemas (Anxious-Preoccupied)
 
-Bayangkan kamu sedang mengendarai mobil di jalan tol yang gelap, dan indikator bahan bakar kamu terus-menerus berkedip di angka "E" (Empty), meskipun kamu baru saja mengisi bensin. Kamu merasa panik, tidak tenang, dan terus-menerus mencari pom bensin berikutnya karena takut terdampar di tengah jalan.
+Bayangkan kamu sedang mengendarai mobil di jalan tol yang gelap, dan indikator bahan bakar kamu terus-menerus berkedip di angka "E" (Empty). Padahal, kamu baru saja mengisi bensin. Kamu merasa panik, tidak tenang, dan terus-menerus mencari pom bensin berikutnya karena takut terdampar di tengah jalan.
 
 Bagi orang dengan **Gaya Kelekatan Cemas (Anxious-Preoccupied)**, hubungan asmara sering kali terasa seperti mobil tersebut. Mereka hidup dalam rasa haus akan kasih sayang yang konstan, selalu khawatir bahwa perhatian dari pasangan bisa hilang kapan saja.
 
