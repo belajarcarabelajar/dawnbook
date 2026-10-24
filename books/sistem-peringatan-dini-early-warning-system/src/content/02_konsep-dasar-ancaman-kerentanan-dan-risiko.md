@@ -101,4 +101,4 @@ Karena perbedaan kerentanan dan kapasitas. Kualitas bangunan, kepadatan, akses i
 **Bagaimana peringatan dini masuk dalam rumus?**
 Peringatan dini meningkatkan \\( \text{Kapasitas} \\). Dengan waktu tambahan beberapa menit hingga jam, kamu dapat mengurangi keterpaparan lewat evakuasi dan menurunkan kerentanan lewat tindakan antisipasi.
 
-Memahami logika ancaman kerentanan risiko bencana membantu kamu bergeser dari sikap reaktif menjadi proaktif membaca peta risiko. Bab berikutnya membahas penerjemahan keempat pilar ini ke sistem peringatan dini operasional.
+Memahami logika ancaman kerentanan risiko bencana membantu kamu bergeser dari sikap reaktif menjadi proaktif membaca peta risiko.
