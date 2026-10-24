@@ -24,7 +24,7 @@ Jika Efek Halo memberikan "lingkaran cahaya" malaikat pada seseorang, **Efek Tan
 
 *Apakah kamu pernah merasa tidak menyukai seseorang hanya karena satu opini politik mereka, padahal kamu belum mengenal aspek lain dari hidup mereka?*
 
-## 3. Mekanisme Psikologis di Balik Layar
+## 3. Kebutuhan akan Konsistensi Kognitif
 
 Secara psikologis, kedua bias ini berakar pada kebutuhan kita akan **konsistensi kognitif**. Kita ingin dunia kita masuk akal dan konsisten. Jika kita menyukai seseorang, rasanya aneh (secara mental) jika mereka memiliki sifat buruk. Jadi, otak kita "menghaluskan" ketidakkonsistenan tersebut.
 

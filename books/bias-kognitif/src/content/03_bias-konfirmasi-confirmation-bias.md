@@ -6,7 +6,7 @@ Selamat, kamu baru saja mengalami **Bias Konfirmasi**.
 
 Bias konfirmasi adalah salah satu bias kognitif yang paling kuat. Ini adalah kecenderungan kita untuk mencari, menafsirkan, dan mengingat informasi dengan cara yang memperkuat keyakinan atau hipotesis awal kita, sambil mengabaikan informasi yang bertentangan dengannya.
 
-## Tiga Pilar Bias Konfirmasi
+## Tiga Cara Kerja Bias Konfirmasi
 
 Otak kita tidak bekerja seperti hakim yang tidak memihak dalam mencari kebenaran. Sebaliknya, otak kita sering bertindak seperti **pengacara** yang hanya mencari bukti untuk memenangkan kasusnya. Ada tiga cara utama bagaimana bias ini beroperasi:
 

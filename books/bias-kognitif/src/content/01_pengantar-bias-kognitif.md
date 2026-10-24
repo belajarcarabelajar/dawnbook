@@ -12,13 +12,13 @@ Secara sederhana, **cognitive bias** adalah kesalahan sistematis dalam berpikir 
 
 Cognitive bias bertindak sebagai *rule of thumb* yang tidak tepat. Serumit apa pun cara kerjanya, otak kita memiliki keterbatasan dalam memproses informasi.
 
-## Revolusi Kahneman dan Tversky
+## Penelitian Kahneman dan Tversky
 
 Sebelum tahun 1970-an, dunia ekonomi dan psikologi sebagian besar percaya bahwa manusia adalah makhluk yang rasional (**Homo Economicus**). Diasumsikan bahwa jika diberikan data yang cukup, manusia akan selalu mengambil keputusan yang paling menguntungkan secara logis.
 
 Pandangan itu berubah lewat kolaborasi dua psikolog asal Israel: **Amos Tversky** dan **Daniel Kahneman**.
 
-### Titik Balik
+### Dari Eksperimen sampai Hadiah Nobel
 
 Mulai tahun 1969, mereka melakukan serangkaian eksperimen yang membuktikan bahwa manusia sering kali mengabaikan hukum logika dan probabilitas.
 
@@ -57,7 +57,7 @@ Untuk memahami dari mana bias berasal, kita perlu mengenal konsep dua sistem dal
 
 Cognitive bias terjadi ketika **System 1** mengambil alih tugas yang seharusnya dikerjakan oleh **System 2**, or ketika System 1 menyodorkan jawaban cepat yang kemudian disetujui begitu saja oleh System 2 yang malas.
 
-## Skenario Dunia Nyata
+## Bias dalam Wawancara Kerja
 
 **Memilih Kandidat Karyawan** Seorang manajer HR sedang mewawancarai dua kandidat.
 

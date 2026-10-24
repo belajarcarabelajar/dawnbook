@@ -16,7 +16,7 @@ Bayangkan sebuah kapal di tengah laut yang menurunkan jangkar. Kapal tersebut ma
 
 Sama halnya dengan pikiran kita: ketika kita diberi sebuah angka (jangkar), estimasi atau keputusan kita mungkin berubah, tetapi jarang sekali kita bisa "berlayar" jauh meninggalkan pengaruh angka awal tersebut.
 
-## Kekuatan Angka Acak
+## Eksperimen Roda Angka
 
 Dua tokoh pionir psikologi kognitif, **Amos Tversky** dan **Daniel Kahneman**, mendemonstrasikan fenomena ini dalam sebuah eksperimen yang terkenal.
 

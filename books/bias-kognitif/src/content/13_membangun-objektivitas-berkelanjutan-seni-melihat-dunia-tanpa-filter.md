@@ -12,7 +12,7 @@ Bayangkan pikiran kamu seperti sebuah lensa kamera. Seiring berjalannya waktu, d
 
 > **Insight:** Objektivitas bukan berarti tidak memiliki emosi atau pendapat. Objektivitas adalah kemampuan untuk memisahkan antara fakta yang ada di depan mata dengan cerita yang dikonstruksi oleh otak kamu tentang fakta tersebut.
 
-### 2. Pilar Utama Objektivitas
+### 2. Tiga Pegangan Objektivitas
 
 Untuk tetap objektif dalam jangka panjang, kamu memerlukan tiga pegangan:
 
@@ -38,7 +38,7 @@ Artinya, keyakinan kamu saat ini ($P(\text{Keyakinan})$) harus selalu siap berge
 
 Kamu harus berani mengkritik diri sendiri. Tanyakan: *"Apakah saya menginginkan hal ini menjadi benar, atau apakah ini memang benar?"*
 
-### 3. "Mental Gym" Harian
+### 3. Latihan Objektivitas Harian
 
 Agar otot objektivitas kamu tetap kuat, lakukan latihan berikut dalam kehidupan sehari-hari:
 

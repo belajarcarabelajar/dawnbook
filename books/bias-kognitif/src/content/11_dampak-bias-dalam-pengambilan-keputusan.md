@@ -69,7 +69,7 @@ Kita cenderung menilai kesalahan diri sendiri berdasarkan **situasi**, tetapi me
 - **Diri sendiri:** "Aku telat karena jalanan macet parah." (Situasi)
 - **Orang lain:** "Dia telat karena memang orangnya tidak disiplin." (Karakter)
 
-## Ringkasan Dampak Secara Global
+## Ringkasan Dampak per Sektor
 
 | Sektor | Bias Utama | Dampak Nyata |
 | --- | --- | --- |
@@ -86,7 +86,7 @@ Mari kita lihat bagaimana berbagai bias berkumpul dalam satu ruangan rapat:
 - **Insinyur muda** merasa ada masalah teknis, tetapi memilih diam karena tidak ingin bertentangan dengan kelompok. (**Groupthink** atau **In-group Bias**)
 - Setelah proyek A gagal total dua tahun kemudian, **Komisaris** berkata, "Saya sudah tahu proyek ini pasti akan gagal!" (**Hindsight Bias**)
 
-## Distorsi Realitas
+## Tiga Kerugian Akibat Bias
 
 Dampak bias dalam pengambilan keputusan lebih dari sekadar "salah pilih". Dampak sebenarnya adalah **distorsi realitas**. Ketika kita membiarkan bias memegang kendali:
 
