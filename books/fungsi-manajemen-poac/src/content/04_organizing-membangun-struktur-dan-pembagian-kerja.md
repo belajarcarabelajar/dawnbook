@@ -1,6 +1,6 @@
 ## Organizing untuk Membangun Struktur dan Pembagian Kerja
 
-Setelah sebuah organisasi menentukan arah dan tujuannya dalam tahap **Planning**, langkah selanjutnya adalah menentukan cara mencapai tujuan tersebut. Cara itu harus efisien. Di sinilah fungsi **Organizing** (Pengorganisasian) masuk ke dalam permainan.
+Setelah sebuah organisasi menentukan arah dan tujuannya dalam tahap **Planning**, langkah selanjutnya adalah menentukan cara mencapainya secara efisien. Di sinilah fungsi **Organizing** (Pengorganisasian) masuk ke dalam permainan.
 
 Jika *Planning* adalah sebuah cetak biru (blueprint) sebuah gedung, maka *Organizing* adalah proses mendirikan kerangka bangunan, memasang pipa, kabel listrik, dan menentukan ruang mana yang akan digunakan untuk apa. Tanpa pengorganisasian yang baik, rencana hebat sekalipun akan berantakan karena tidak adanya kejelasan mengenai siapa melakukan apa dan siapa bertanggung jawab kepada siapa.
 
