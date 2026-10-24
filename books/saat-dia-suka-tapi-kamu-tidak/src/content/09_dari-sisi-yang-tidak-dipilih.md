@@ -77,4 +77,4 @@ Langkah-langkah ini bukan resep yang menjamin rasa sakit hilang dalam waktu tert
 - Tahapnya ada tiga, yaitu segera, menimbang, dan jangka panjang. Konteks lebih berperan di tahap menimbang, dan paparan yang berkepanjangan dapat mengarah pada rasa pasrah, walau itu bukan ramalan untuk setiap orang.
 - Menghormati pilihannya, mundur ketika balasan berhenti, serta membangun lagi rasa memiliki dan harga diri di tempat lain adalah langkah yang bisa kamu ambil.
 
-Perasaan seperti ini tidak hanya muncul di usia dewasa. Kadang ia sudah hadir di masa seragam sekolah, ketika naksir seseorang bisa terasa seperti seluruh dunia.
+Perasaan seperti ini tidak hanya muncul di usia dewasa. Kadang ia sudah hadir di masa seragam sekolah, ketika naksir seseorang bisa terasa sebagai hal yang paling penting.

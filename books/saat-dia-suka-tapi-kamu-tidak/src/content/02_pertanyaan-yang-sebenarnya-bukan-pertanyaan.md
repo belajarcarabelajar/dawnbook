@@ -38,7 +38,7 @@ Dua tahun kemudian, [Lee dan Pinker (2010)](https://doi.org/10.1037/a0019688) me
 
 Mereka juga mencatat bahwa dalam percakapan sehari-hari, hukumannya bisa berupa sanksi emosional, bukan sanksi hukum. Pertanyaan soal status hubungan bisa dibilang masuk wilayah ini.
 
-Bagian yang paling menarik adalah gagasan *higher-order plausible deniability*, atau penyangkalan tingkat kedua. Dalam rumusan [Lee dan Pinker](https://doi.org/10.1037/a0019688), bahkan ketika kesediaan pendengar sudah diketahui, ucapan tidak langsung masih berguna karena mencegah kepastian, gosip, dan terbentuknya pengetahuan bersama tentang permintaan itu.
+Gagasan lain dalam tulisan itu adalah *higher-order plausible deniability*, atau penyangkalan tingkat kedua. Dalam rumusan [Lee dan Pinker](https://doi.org/10.1037/a0019688), bahkan ketika kesediaan pendengar sudah diketahui, ucapan tidak langsung masih berguna karena mencegah kepastian, gosip, dan terbentuknya pengetahuan bersama tentang permintaan itu.
 
 Jadi, menurut teori ini, orang yang cukup yakin kamu akan menyambut ajakannya mungkin tetap memilih jalan memutar. Yang dijaganya bukan sekadar informasi, melainkan agar maksudnya tidak menjadi sesuatu yang pasti dan bisa dibicarakan orang lain.
 
