@@ -96,7 +96,7 @@ flowchart TD
     L4 -->|"reaksi momentum"| L5
 ```
 
-## 5. Aplikasi Dunia Nyata dan Skenario Teknik
+## 5. Penerapan di Luar Pesawat Terbang
 
 Konsep dasar aerodinamika ini tidak hanya diaplikasikan pada pesawat terbang, melainkan juga pada berbagai inovasi teknologi lainnya:
 

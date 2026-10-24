@@ -102,6 +102,6 @@ Dengan angka ilustrasi, ambil sebuah pesawat latih yang sedang terbang jelajah d
 
 Artinya, pada kondisi jelajah itu gaya hambat sekitar 1.051 N inilah yang harus diatasi oleh gaya dorong pesawat latih.
 
-### Rangkuman Eksekutif
+### Inti Pembahasan
 
 Pengelolaan gaya hambat dalam rekayasa aerodinamika merupakan upaya mengoptimalkan distribusi energi. Pada rezim kecepatan tinggi, **gaya hambat parasit** mendominasi keseluruhan tahanan gerak, menuntut kehalusan permukaan dan integrasi bentuk yang aerodinamis. Sebaliknya, pada kecepatan rendah dan sudut serang tinggi, **gaya hambat induksi** menjadi kontributor dominan yang ditentukan oleh geometri bentang sayap. Perancangan sayap dan airfoil yang unggul selalu bertumpu pada kompromi terukur antara pembangkitan gaya angkat yang memadai dan minimasi penalti gaya hambat.

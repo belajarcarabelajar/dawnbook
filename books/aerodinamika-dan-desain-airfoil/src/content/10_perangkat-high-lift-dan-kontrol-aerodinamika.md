@@ -4,7 +4,7 @@ Pesawat terbang komersial modern maupun pesawat tempur beroperasi pada rentang k
 
 Konflik perancangan ini dijembatani oleh **perangkat penambah gaya angkat (*high-lift devices*)** dan sistem kontrol aerodinamika. Sistem mekanis ini memungkinkan konfigurasi geometri sayap diubah secara dinamis sesuai kebutuhan masing-masing fase penerbangan.
 
-### 1. Fondasi Fisika Kebutuhan Perangkat High-Lift
+### 1. Dasar Fisika Kebutuhan Perangkat High-Lift
 
 Gaya angkat aerodinamika total ($L$) yang menopang bobot pesawat didefinisikan oleh persamaan:
 
@@ -70,16 +70,16 @@ Pengaruh integrasi masing-masing perangkat terhadap kurva performa $C_L \text{--
 - **Pengaruh Slats:** Tidak mengubah nilai $C_{L0}$ secara drastis, tetapi memperpanjang kelurusan kurva $C_L$ ke arah kanan hingga sudut serang yang jauh lebih besar ($\alpha_{\text{stall}}$ meningkat dari sekitar $14^\circ \text{--} 16^\circ$ menjadi $22^\circ \text{--} 28^\circ$).
 - **Kombinasi Slat dan Flap:** Menghasilkan pergeseran kurva ke arah atas sekaligus memperpanjang batas sudut serang ke arah kanan, melipatgandakan $C_{L,\max}$ sayap bersih (*clean wing*) dari rentang $1.2 \text{--} 1.6$ menjadi $2.6 \text{--} 3.2$ pada konfigurasi pendaratan penuh.
 
-### 6. Skenario Operasional Penerbangan
+### 6. Pengaturan Flap dan Slat per Fase Terbang
 
 Dalam praktik operasional penerbangan, pengaturan perangkat *high-lift* disesuaikan dengan trade-off antara gaya angkat dan gaya hambat:
 
-#### Skenario Lepas Landas (Take-off)
+#### Fase Lepas Landas (Take-off)
 Pada fase lepas landas, pesawat membutuhkan gaya angkat tambahan yang memadai namun dengan penalti gaya hambat minimal demi menjamin laju tanjak (*climb gradient*) positif:
 - **Pengaturan:** Menggunakan defleksi flap rendah hingga moderat (misalnya Flaps 1, 5, atau 15) bersama bilah *slats* posisi intermediate.
 - **Tujuan:** Memaksimalkan rasio $L/D$ agar pesawat mampu terangkat dari landasan pada kecepatan aman serta tetap memiliki akselerasi dorongan mesin (*thrust margin*) yang memadai.
 
-#### Skenario Pendekatan dan Pendaratan (Approach and Landing)
+#### Fase Pendekatan dan Pendaratan (Approach and Landing)
 Pada fase akhir pendaratan, kecepatan rendah dan profil penurunan stabil menjadi prioritas utama:
 - **Pengaturan:** Flap diturunkan secara bertahap hingga konfigurasi penuh (misalnya Flaps 30 atau 40) dengan bilah *slats* terbuka penuh (*fully extended*).
 - **Tujuan:** Mencapai nilai $C_{L,\max}$ setinggi mungkin guna meminimalkan $v_{\text{stall}}$ dan $v_{\text{ref}}$, sekaligus memanfaatkan gaya hambat ekstra (*high drag profile*) sebagai rem aerodinamika alami untuk mengontrol kemiringan sudut luncur (*glide slope*).

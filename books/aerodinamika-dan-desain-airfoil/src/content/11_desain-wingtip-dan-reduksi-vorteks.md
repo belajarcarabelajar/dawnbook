@@ -81,7 +81,7 @@ Penerapan winglet menuntut analisis kompromi (*trade-off analysis*) yang ketat a
 
 Perancang aerodinamika mengandalkan komputasi dinamika fluida (*Computational Fluid Dynamics* / $\text{CFD}$) dan uji terowongan angin untuk memastikan bahwa penurunan hambatan induksi jauh melampaui penalti hambatan parasit dan beban massa struktural.
 
-### 5. Studi Kasus dan Aplikasi Lapangan
+### 5. Ujung Sayap di Maskapai, Alam, dan Turbin Angin
 
 **Studi Operasional Efisiensi Armada Komersial**
 

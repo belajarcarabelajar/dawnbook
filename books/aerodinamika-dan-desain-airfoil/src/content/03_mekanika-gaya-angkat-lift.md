@@ -8,7 +8,7 @@ Secara mendasar, gaya angkat tercipta akibat adanya perbedaan distribusi tekanan
 
 Ketika aliran udara bertemu dengan airfoil yang bergerak maju, aliran tersebut terbelah pada titik stagnasi (*stagnation point*). Akibat geometri kelengkungan (*camber*) dan orientasi sayap, partikel udara di permukaan atas dipaksa mengalir mengikuti kontur kurvatur cembung dan mengalami percepatan lokal dibandingkan aliran udara di permukaan bawah.
 
-#### Analogi Efek Konstriksi
+#### Aliran di Pipa yang Menyempit
 
 > Bayangkan aliran fluida yang mengalir melalui penyempitan saluran pipa. Ketika luas penampang menyempit, fluida dipaksa menambah kecepatannya untuk menjaga laju aliran massa tetap konstan. Fenomena serupa terjadi di atas permukaan atas airfoil, di mana kelengkungan geometri menciptakan percepatan aliran lokal.
 

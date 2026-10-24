@@ -190,7 +190,7 @@ Pada sudut serang moderat, permukaan atas umumnya mengalami hisapan ($C\_p$ bern
 
 ---
 
-### 6. Studi Kasus Aplikasi Industri
+### 6. Studi Kasus Industri
 
 #### Industri Balap Formula 1
 Dalam regulasi teknis *FIA Formula 1*, alokasi waktu pengujian aerodinamika (*Aerodynamic Testing Restrictions* / ATR) dibatasi secara ketat dalam bentuk jam komputasi CFD (*teraflops*) dan waktu operasi terowongan angin (*run time* per pekan). Tim balap menggunakan CFD berkecepatan tinggi untuk menyeleksi ratusan konsep geometri sayap depan (*front wing*) dan sayap belakang (*rear wing*). Hanya beberapa geometri paling menjanjikan yang kemudian diproduksi menjadi model skala $60\text{\%}$ untuk diuji di terowongan angin guna memvalidasi korelasi aliran pusaran (*vortex interaction*) dan sensitivitas jarak tanah (*ride height sensitivity*).
@@ -200,7 +200,7 @@ Pada perancangan pesawat modern seperti Airbus A350 dan Boeing 787, bentuk kelen
 
 ---
 
-### Rangkuman Inti
+### Poin Kunci
 
 1. **CFD dan Terowongan Angin adalah Komplementer**: CFD memberikan fleksibilitas komputasi untuk eksplorasi dan optimasi geometri secara masif, sementara terowongan angin memberikan pembuktian fisik nyata dan sertifikasi desain.
 2. **Landasan Matematis CFD**: Bertumpu pada persamaan kontinuitas dan Navier-Stokes. Pemilihan model turbulensi (RANS, LES, DNS) dan resolusi kisi dekat dinding ($y^+ \le 1$) sangat menentukan akurasi hasil simulasi.

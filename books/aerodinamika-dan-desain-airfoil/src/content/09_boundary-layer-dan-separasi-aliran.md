@@ -135,7 +135,7 @@ Keberadaan lesung pipit (*dimples*) sengaja memicu turbulensi pada lapisan batas
 - **Fungsi:** Strip ini memaksa terjadinya separasi aliran dan *stall* lebih awal pada bagian pangkal sayap saat sudut serang tinggi.
 - **Keuntungan Keselamatan:** Ujung sayap (*wingtip*) dan bidang kendali kemudi guling (*aileron*) tetap menerima aliran yang melekat, sehingga kendali lateral pesawat tetap berfungsi optimal saat tanda-tanda awal *stall* mulai terdeteksi.
 
-### Ringkasan Karakteristik Lapisan Batas
+### Perbandingan Lapisan Batas Laminar dan Turbulen
 
 | Parameter | Aliran Laminar | Aliran Turbulen |
 | :--- | :--- | :--- |

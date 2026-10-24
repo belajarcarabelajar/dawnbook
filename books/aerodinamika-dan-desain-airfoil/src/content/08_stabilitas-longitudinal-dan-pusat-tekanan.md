@@ -97,7 +97,7 @@ Pada armada kargo berbadan lebar seperti Boeing 747-8F, pengaturan penempatan pa
 
 Pesawat tempur modern generasi ke-4 dan ke-5 (seperti F-16 Falcon atau F-22 Raptor) sengaja dirancang dengan konfigurasi stabilitas statis santai (*Relaxed Static Stability* - RSS), yaitu menempatkan posisi $\text{CG}$ di belakang $\text{AC}$. Konfigurasi ini secara alamiah tidak stabil, tetapi dikendalikan secara terus-menerus oleh komputer kendali terbang digital (*Fly-by-Wire*). Rancangan ini dipilih karena ketidakstabilan statis memberikan laju respons rotasi (*pitch rate*) yang sangat cepat untuk manuver tempur ekstrem.
 
-### Perbandingan Komprehensif Titik Referensi
+### Perbandingan Tiga Titik Referensi
 
 | Konsep | Lokasi Utama | Sifat Perilaku | Peran Utama dalam Desain |
 | --- | --- | --- | --- |
