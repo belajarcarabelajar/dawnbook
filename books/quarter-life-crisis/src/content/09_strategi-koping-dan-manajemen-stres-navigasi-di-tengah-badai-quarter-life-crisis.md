@@ -88,4 +88,4 @@ Menulis membantu kita melihat pola pikir kita dari perspektif luar. Cobalah menj
 
 **Penting:** Coping strategy tidak bekerja secara instan untuk melenyapkan masalah dalam semalam. Anggap ini sebagai otot yang harus terus dilatih. Semakin sering kamu mempraktikkannya, semakin tangguh kamu menghadapi ketidakpastian khas Quarter-Life Crisis.
 
-> "Kamu tidak bisa menghentikan ombak, tetapi kamu bisa belajar berselancar." , Jon Kabat-Zinn
+> "Kamu tidak bisa menghentikan ombak, tetapi kamu bisa belajar berselancar." Kalimat ini aslinya keterangan pada poster Swami Satchidananda yang sedang berselancar, yang dikutip Jon Kabat-Zinn dalam *Wherever You Go, There You Are* (1994).

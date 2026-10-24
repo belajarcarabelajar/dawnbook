@@ -8,7 +8,7 @@ Dalam bagian ini, kita akan membedah apa yang sebenarnya terjadi di dalam kepala
 
 Dahulu, psikologi membagi transisi hidup secara kaku: masa remaja lalu langsung masa dewasa. Namun, Psikolog **Jeffrey Jensen Arnett** menyadari adanya celah besar di antaranya yang ia sebut sebagai **Emerging Adulthood**, biasanya terjadi pada usia 18 hingga 29 tahun.
 
-> "Ini adalah fase di mana seseorang bukan lagi remaja, tetapi belum sepenuhnya merasa menjadi orang dewasa."
+Arnett (2000) menggambarkannya sebagai masa ketika seseorang sudah bukan remaja lagi, tetapi belum sepenuhnya merasa menjadi orang dewasa.
 
 Arnett mengidentifikasi lima fitur utama dari fase ini:
 
