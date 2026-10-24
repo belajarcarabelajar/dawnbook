@@ -1,6 +1,6 @@
 ## Memahami Sistem Saraf Fight or Flight
 
-Pernahkah kamu merasa jantung berdegup kencang, napas memburu, dan telapak tangan berkeringat saat harus berbicara di depan umum atau ketika hampir mengalami kecelakaan di jalan raya? Reaksi tersebut bukan cuma rasa gugup biasa, tetapi sebuah mekanisme biologis yang telah menjaga nenek moyang kita tetap selamat selama ribuan tahun.
+Pernahkah kamu merasa jantung berdegup kencang, napas memburu, dan telapak tangan berkeringat saat harus berbicara di depan umum? Atau ketika hampir mengalami kecelakaan di jalan raya? Reaksi tersebut bukan cuma rasa gugup biasa, tetapi sebuah mekanisme biologis yang telah menjaga nenek moyang kita tetap selamat selama ribuan tahun.
 
 Selamat datang di pusat kendali otomatis tubuh kamu: **Sistem Saraf Otonom**.
 

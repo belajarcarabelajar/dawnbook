@@ -1,6 +1,6 @@
 ## Teknik Membumi (Grounding) saat Terjadi Panik
 
-Pernahkah kamu merasa seolah-olah pikiranmu "melayang" menjauh, atau terjebak dalam pusaran kecemasan yang membuat dunia di sekitarmu terasa tidak nyata? Dalam psikologi, fenomena ini sering disebut sebagai disosiasi (*dissociation*) atau *detachment*. Saat panik menyerang, otak cenderung beralih ke mode bertahan hidup yang ekstrem, mengabaikan realitas fisik demi ancaman yang ada dalam pikiran.
+Pernahkah kamu merasa seolah-olah pikiranmu "melayang", atau terjebak dalam pusaran kecemasan yang membuat dunia sekitarmu terasa tidak nyata? Dalam psikologi, fenomena ini sering disebut sebagai disosiasi (*dissociation*) atau *detachment*. Saat panik menyerang, otak cenderung beralih ke mode bertahan hidup yang ekstrem, mengabaikan realitas fisik demi ancaman yang ada dalam pikiran.
 
 **Grounding** (atau teknik membumi) adalah jangkarmu. Sama seperti sebuah kapal yang membutuhkan jangkar agar tidak hanyut terbawa badai, *grounding* membantu kamu tetap terhubung dengan realitas di sini dan saat ini (*here and now*).
 
