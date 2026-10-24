@@ -1,6 +1,6 @@
 ## Referensi dan Daftar Pustaka
 
-Berikut adalah daftar literatur ilmiah, buku teks utama, dan artikel jurnal bereputasi yang menjadi fondasi teoretis serta praktis dalam pengembangan buku *Metodologi Microteaching*.
+Berikut adalah daftar literatur ilmiah, buku teks utama, dan artikel jurnal bereputasi di balik buku *Metodologi Microteaching*. Semuanya menjadi fondasi teoretis serta praktis dalam pengembangan buku ini.
 
 ### Buku dan Monograf Utama
 
