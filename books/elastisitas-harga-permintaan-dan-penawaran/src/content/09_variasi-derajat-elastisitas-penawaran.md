@@ -8,7 +8,7 @@ Pada kategori ini, kuantitas barang yang ditawarkan **sama sekali tidak berubah*
 - **Contoh Nyata:** Tanah di lokasi spesifik, lukisan karya seniman yang sudah meninggal, atau produk dengan kapasitas produksi yang sudah mencapai batas maksimal absolut dalam jangka sangat pendek.
 ## 2. Penawaran Inelastis
 Penawaran dikatakan inelastis jika persentase perubahan jumlah barang yang ditawarkan **lebih kecil** daripada persentase perubahan harganya. Artinya, produsen kurang responsif terhadap perubahan harga.
-- **Analogi:** Seperti mencoba menarik karet gelang yang sudah sangat tua dan kaku. Kamu menariknya dengan tenaga kuat (perubahan harga besar), namun karet tersebut hanya memanjang sedikit (perubahan jumlah sedikit).
+- **Analogi:** Seperti mencoba menarik karet gelang yang sudah sangat tua dan kaku. Kamu menarik karet itu dengan tenaga kuat (perubahan harga besar), namun karet tersebut hanya memanjang sedikit (perubahan jumlah sedikit).
 - **Bentuk Kurva:** Kurva penawaran cenderung **curam (steep)**.
 - **Contoh Nyata:** Produk pertanian seperti padi. Meskipun harga padi melonjak hari ini, petani tidak bisa langsung memanen padi besok pagi. Mereka butuh waktu musim tanam, sehingga tambahan penawaran di pasar akan terbatas dalam jangka pendek.
 ## 3. Penawaran Elastis Uniter

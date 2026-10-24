@@ -13,7 +13,7 @@ Sejauh mana kamu "harus" memiliki barang tersebut sangat menentukan reaksi kamu 
 Sebagai contoh, apakah smartphone saat ini masih tergolong barang mewah, atau sudah bergeser menjadi kebutuhan pokok bagi kamu? Pergeseran persepsi ini akan mengubah elastisitas permintaannya.
 ## 3. Proporsi Pendapatan yang Dihabiskan
 Besarnya anggaran yang kamu keluarkan untuk sebuah barang dibandingkan dengan total pendapatan kamu sangat berpengaruh.
-- **Porsi Kecil (Inelastis):** Perhatikan harga garam atau korek api kayu. Jika harga garam naik dari Rp2.000 menjadi Rp3.000 (naik 50%), kamu mungkin tidak akan terlalu peduli karena pengeluaran tersebut sangat kecil dibanding gaji bulanan kamu.
+- **Porsi Kecil (Inelastis):** Ambil contoh harga garam atau korek api kayu. Jika harga garam naik dari Rp2.000 menjadi Rp3.000 (naik 50%), kamu mungkin tidak akan terlalu peduli karena pengeluaran tersebut sangat kecil dibanding gaji bulanan kamu.
 - **Porsi Besar (Elastis):** Sebaliknya, pertimbangkan harga mobil atau cicilan rumah. Kenaikan 5% saja pada harga rumah akan memakan porsi pendapatan yang sangat besar, sehingga calon pembeli akan berpikir dua kali atau mencari alternatif lain.
 **Hubungan Matematis Sederhana:** Jika pengeluaran untuk barang $X$ adalah $P \times Q$, maka:
 
@@ -44,4 +44,4 @@ Semakin spesifik definisi sebuah barang, maka akan semakin elastis permintaannya
 2. **Loyalitas Merek:** Jika pelanggan kamu merasa kopi kamu punya rasa unik yang tidak ada di tempat lain (mengurangi substitusi di mata mereka), permintaan menjadi lebih **inelastis**. Kamu punya ruang lebih besar untuk menaikkan harga.
 3. **Waktu:** Mungkin di minggu pertama kenaikan harga, pelanggan tetap datang (jangka pendek). Namun jika setelah sebulan mereka merasa terlalu mahal, mereka akan mulai membawa kopi sachet dari rumah (jangka panjang).
 > **Important:** Memahami determinan elastisitas membantu manajer pemasaran menentukan apakah strategi "Diskon Gede-Gedean" (cocok untuk barang elastis) atau "Premium Pricing" (cocok untuk barang inelastis) yang lebih efektif untuk meningkatkan profit.
-Sebagai gambaran, perhatikan barang terakhir yang kamu beli karena harganya sedang diskon. Apakah barang tersebut memiliki banyak substitusi, ataukah harganya memakan porsi besar dari uang saku kamu? Itulah elastisitas yang sedang bekerja dalam kehidupan sehari-hari.
+Sebagai gambaran, ingat kembali barang terakhir yang kamu beli karena harganya sedang diskon. Apakah barang tersebut memiliki banyak substitusi, ataukah harganya memakan porsi besar dari uang saku kamu? Itulah elastisitas yang sedang bekerja dalam kehidupan sehari-hari.
