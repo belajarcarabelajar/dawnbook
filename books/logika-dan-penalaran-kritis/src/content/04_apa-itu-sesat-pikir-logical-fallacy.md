@@ -10,7 +10,7 @@ Sesat pikir sering kali terdengar meyakinkan. Mereka seperti "ilusi optik" bagi 
 
 Pikiran manusia secara alami mencari jalan pintas (*heuristics*) untuk memproses informasi dengan cepat. Para manipulator, pengiklan, dan politisi sering memanfaatkan celah ini untuk membujuk kita tanpa menyodorkan bukti yang kokoh. Dengan mengenali polanya, kamu bisa melindungi diri dari manipulasi semacam itu.
 
-## Galeri Sesat Pikir
+## Sesat Pikir yang Sering Dijumpai
 
 Berikut adalah beberapa jenis sesat pikir yang paling sering kita jumpai dalam kehidupan sehari-hari:
 

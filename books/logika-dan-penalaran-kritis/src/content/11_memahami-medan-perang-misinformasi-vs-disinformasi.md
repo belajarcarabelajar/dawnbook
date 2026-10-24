@@ -1,4 +1,4 @@
-## Memahami Medan Perang Misinformasi vs. Disinformasi
+## Memahami Misinformasi dan Disinformasi
 
 Di tengah informasi yang melimpah, kemampuan untuk memproses data bukan lagi sekadar keunggulan, melainkan mekanisme pertahanan diri. Jika informasi adalah makanan bagi pikiran kita, maka era digital telah menyajikan "prasmanan" yang sayangnya juga berisi makanan kedaluwarsa, beracun, atau sekadar hiasan plastik yang tampak lezat.
 

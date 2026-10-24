@@ -10,7 +10,7 @@ Berpikir kritis adalah proses intelektual yang aktif dan disiplin untuk mengonse
 
 > **Esensi:** Berpikir kritis adalah kegiatan "berpikir tentang cara kita berpikir" (*metakognisi*). Tujuannya adalah memperbaiki kualitas pemikiran agar lebih jernih, akurat, dan berlandaskan bukti.
 
-### Sang Penambang Emas
+### Ayakan Penambang Emas
 
 Bayangkan pikiran kamu adalah seorang penambang emas. Setiap hari, arus informasi dari internet, berita, hingga percakapan sehari-hari membawa tumpukan pasir dan lumpur ke hadapan kamu.
 
