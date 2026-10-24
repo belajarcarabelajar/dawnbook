@@ -50,3 +50,11 @@ describe("book analisis-ekspresif-9-summers-10-autumns", () => {
     });
   });
 });
+
+// Hlm. 35 says "Kebijakan Ibu menyelamatkan kami semua"; the analysis must not add "pengorbanan" (debt sweep U3a).
+describe("analisis-ekspresif-9-summers-10-autumns wording", () => {
+  test("chapter 12 does not add 'pengorbanan' to Ibu's wisdom", () => {
+    const file = readdirSync(CONTENT).find((f) => f.startsWith("12_"))!;
+    expect(readFileSync(path.join(CONTENT, file), "utf-8")).not.toContain("Kebijakan dan pengorbanan Ibu");
+  });
+});
