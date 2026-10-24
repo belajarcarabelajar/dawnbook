@@ -88,4 +88,4 @@ Agar aktivitas selaras dengan rencana, manajer harus mengikuti alur sistematis:
 
 Organizing adalah tentang menciptakan **keteraturan di tengah kompleksitas**. Dengan struktur yang tepat, setiap individu tahu di mana posisi mereka, apa yang diharapkan dari mereka, dan kepada siapa mereka harus meminta bantuan. Struktur yang baik tidak bersifat kaku, melainkan harus mampu beradaptasi dengan perubahan rencana dan tantangan pasar.
 
-> **Pelajaran Berharga:** Struktur yang buruk akan melumpuhkan orang-orang baik, tetapi struktur yang tepat akan memberikan ruang bagi orang-orang biasa untuk menghasilkan kinerja yang luar biasa.
+> **Pelajaran Berharga:** Struktur yang buruk akan menghambat orang-orang baik, tetapi struktur yang tepat akan memberikan ruang bagi orang-orang biasa untuk menghasilkan kinerja yang tinggi.

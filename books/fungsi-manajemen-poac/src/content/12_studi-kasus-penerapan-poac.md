@@ -4,9 +4,9 @@
 
 Teori tanpa praktik hanyalah informasi, namun praktik tanpa teori adalah spekulasi. Setelah mempelajari setiap komponen **Planning, Organizing, Actuating, dan Controlling (POAC)**, mari kita lihat bagaimana sistem manajemen ini bekerja di dunia nyata.
 
-Analogi terbaik untuk POAC adalah sebuah **orkestra**. *Planning* adalah partitur musiknya, *Organizing* adalah pembagian instrumen dan pemainnya, *Actuating* adalah aba-aba sang konduktor saat musik mulai dimainkan, dan *Controlling* adalah pendengaran tajam konduktor untuk memastikan tidak ada nada yang sumbang.
+Salah satu analogi untuk POAC adalah sebuah **orkestra**. *Planning* adalah partitur musiknya, *Organizing* adalah pembagian instrumen dan pemainnya, *Actuating* adalah aba-aba sang konduktor saat musik mulai dimainkan, dan *Controlling* adalah pendengaran tajam konduktor untuk memastikan tidak ada nada yang sumbang.
 
-Dalam bagian ini, kita akan membedah dua raksasa industri (satu dari panggung global dan satu dari kebanggaan lokal Indonesia) untuk melihat bagaimana POAC membawa mereka menuju puncak kesuksesan.
+Dalam bagian ini, kita akan membedah dua perusahaan besar (satu perusahaan global dan satu perusahaan Indonesia) untuk melihat bagaimana mereka menerapkan POAC.
 
 ## 1. Transformasi Apple Inc. (Era Steve Jobs & Tim Cook)
 
@@ -31,7 +31,7 @@ Berbeda dengan perusahaan besar lainnya yang menggunakan struktur divisional (be
 
 Di Apple, pelaksanaan digerakkan oleh budaya perfeksionisme dan inovasi.
 
-- **Gaya kepemimpinan:** Steve Jobs dikenal dengan kemampuan memotivasi tim hingga melampaui batas kemampuan biasa, sementara Tim Cook menyempurnakan efisiensi rantai pasok dengan presisi tinggi.
+- **Gaya kepemimpinan:** Steve Jobs dikenal dengan kemampuan memotivasi tim, sementara Tim Cook meningkatkan efisiensi rantai pasok.
 - **Saluran komunikasi:** Penyelenggaraan pertemuan rutin internal (Town Hall) serta presentasi produk baru yang dikemas secara teatrikal memastikan seluruh elemen perusahaan memahami visi bersama.
 
 ### D. Controlling lewat Standar Kualitas yang Kejam

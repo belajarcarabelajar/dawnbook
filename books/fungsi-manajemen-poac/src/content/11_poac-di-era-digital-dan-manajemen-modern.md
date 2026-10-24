@@ -1,6 +1,6 @@
 ## POAC di Era Digital dan Manajemen Modern
 
-Selamat datang di garis depan manajemen modern! Jika pada bagian-bagian sebelumnya kamu telah membedah Planning, Organizing, Actuating, dan Controlling secara fundamental, sekarang saatnya melihat bagaimana kerangka kerja klasik ini bertransformasi di tengah perkembangan teknologi dan dinamika pasar yang sangat cepat.
+Selamat datang di pembahasan manajemen modern! Jika pada bagian-bagian sebelumnya kamu telah membedah Planning, Organizing, Actuating, dan Controlling secara fundamental, sekarang saatnya melihat bagaimana kerangka kerja klasik ini berubah di tengah perkembangan teknologi dan dinamika pasar yang cepat.
 
 Dahulu, rencana bisnis dibuat untuk jangka panjang (sekitar 5 hingga 10 tahun) dan jarang berubah. Di era digital, rencana tersebut bisa menjadi tidak relevan hanya dalam hitungan bulan. Mari pelajari bagaimana POAC berevolusi menjadi lebih lincah, cerdas, dan berbasis data.
 
@@ -89,4 +89,4 @@ Mengadaptasi POAC ke era digital bukan berarti membuang teori manajemen klasik. 
 2. **Literasi Data:** Mengambil keputusan berdasarkan angka dan fakta, bukan hanya mengandalkan perasaan.
 3. **Konektivitas:** Memastikan seluruh anggota organisasi terhubung secara digital untuk meminimalkan hambatan birokrasi.
 
-> **Catatan Penting:** Teknologi hanyalah alat bantu. Jiwa dari manajemen tetap terletak pada manusianya. Di era digital, peran manajer bergeser dari pengawas kaku yang suka memerintah menjadi penyelaras yang menyatukan teknologi dan potensi manusia demi mencapai tujuan bersama.
+> **Catatan Penting:** Teknologi hanyalah alat bantu. Inti dari manajemen tetap terletak pada manusianya. Di era digital, peran manajer bergeser dari pengawas kaku yang suka memerintah menjadi penyelaras yang menyatukan teknologi dan potensi manusia demi mencapai tujuan bersama.

@@ -77,8 +77,8 @@ Mari kita lihat bagaimana konsep manajemen ini diterapkan pada skenario nyata:
 
 ## Inti Pembahasan
 
-Manajemen tidak hanya sebatas teori di buku teks. Ini adalah instrumen praktis yang membantu manusia mencapai hal-hal besar secara terorganisasi. Dengan memahami **POAC**, kamu memiliki kompas untuk mengelola apa pun, mulai dari tugas kuliah, organisasi mahasiswa, hingga perusahaan rintisan (*startup*) milikmu sendiri.
+Manajemen tidak hanya sebatas teori di buku teks. Ini adalah instrumen praktis yang membantu manusia mencapai tujuan secara terorganisasi. Dengan memahami **POAC**, kamu memiliki kompas untuk mengelola apa pun, mulai dari tugas kuliah, organisasi mahasiswa, hingga perusahaan rintisan (*startup*) milikmu sendiri.
 
 > **Pesan Penting:** Manajemen yang baik adalah tentang menjaga keseimbangan. Terlalu banyak kontrol bisa mematikan kreativitas, sementara terlalu sedikit perencanaan bisa menyebabkan kekacauan.
 
-*Setelah memahami gambaran besar ini, bagian selanjutnya akan membawa kamu menyelam lebih dalam ke fungsi pertama: **Planning**, di mana semua mimpi besar mulai dipetakan secara strategis.*
+*Setelah memahami gambaran besar ini, bagian selanjutnya membahas lebih dalam fungsi pertama: **Planning**, tempat tujuan mulai dipetakan secara strategis.*

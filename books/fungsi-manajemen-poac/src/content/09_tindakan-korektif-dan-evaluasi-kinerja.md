@@ -112,4 +112,4 @@ Penyimpangan 6% sudah melewati toleransi 5%, sehingga statusnya masuk tingkat ke
 
 Tindakan korektif dan evaluasi bertujuan untuk membangun ketahanan (*resilience*), bukan untuk menghukum kegagalan. Organisasi yang hebat tidak terhindar dari kesalahan, tetapi mereka mampu belajar dengan cepat dari kesalahan tersebut melalui evaluasi yang jujur serta tindakan korektif yang tepat sasaran.
 
-> **Poin Utama:** Tindakan korektif mengubah hambatan menjadi tangga menuju efisiensi yang lebih tinggi. Tanpa adanya tindakan koreksi, organisasi rentan mengulangi kesalahan yang sama secara terus-menerus.
+> **Poin Utama:** Tindakan korektif menjadikan hambatan sebagai bahan perbaikan untuk mencapai efisiensi yang lebih tinggi. Tanpa adanya tindakan koreksi, organisasi rentan mengulangi kesalahan yang sama secara terus-menerus.

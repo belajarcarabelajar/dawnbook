@@ -1,6 +1,6 @@
 ## Delegasi Wewenang dan Alokasi Sumber Daya
 
-Organisasi yang sudah punya visi jelas (Planning) dan struktur kokoh (Organizing) masuk ke langkah penting berikutnya: menentukan siapa melakukan apa. Langkah ini sekaligus menetapkan dengan alat apa mereka bekerja dan seberapa besar tanggung jawab yang mereka emban. Di sinilah prinsip **Delegasi Wewenang** dan **Alokasi Sumber Daya** menjadi jembatan antara rencana di atas kertas dengan aksi nyata di lapangan.
+Organisasi yang sudah punya visi jelas (Planning) dan struktur kokoh (Organizing) masuk ke langkah penting berikutnya: menentukan siapa melakukan apa. Langkah ini sekaligus menetapkan dengan alat apa mereka bekerja dan seberapa besar tanggung jawab yang mereka emban. Di sinilah prinsip **Delegasi Wewenang** dan **Alokasi Sumber Daya** menghubungkan rencana di atas kertas dengan aksi nyata di lapangan.
 
 ## 1. Prinsip "The Right Man on the Right Place"
 
