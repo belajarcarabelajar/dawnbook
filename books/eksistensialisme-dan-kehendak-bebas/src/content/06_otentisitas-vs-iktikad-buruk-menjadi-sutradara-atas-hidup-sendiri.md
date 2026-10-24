@@ -1,6 +1,6 @@
 ## Otentisitas vs Iktikad Buruk
 
-Dialektika antara otentisitas dan iktikad buruk atau mauvaise foi menggambarkan ketegangan etis manusia dalam memeluk kebebasan atau melarikan diri darinya. Dalam filsafat eksistensialisme Jean-Paul Sartre, persoalan ini menempati posisi sentral dalam menguji integritas kesadaran subjek di hadapan tuntutan sosial dan kecemasan ontologis.
+Dialektika otentisitas dan iktikad buruk atau mauvaise foi menggambarkan ketegangan etis manusia dalam memeluk kebebasan atau melarikan diri darinya. Dalam filsafat eksistensialisme Jean-Paul Sartre, persoalan ini menempati posisi sentral dalam menguji integritas kesadaran subjek di hadapan tuntutan sosial dan kecemasan ontologis.
 
 ### 1. Hakikat Otentisitas
 

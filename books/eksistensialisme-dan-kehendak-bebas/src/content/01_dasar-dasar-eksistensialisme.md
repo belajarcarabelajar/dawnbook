@@ -1,6 +1,6 @@
 ## Dasar-Dasar Eksistensialisme
 
-Eksistensialisme merupakan aliran filsafat yang menempatkan pengalaman subjektif, kebebasan memilih, dan tanggung jawab individual sebagai fondasi eksistensi manusia. Pemikiran ini lahir bukan sekadar sebagai diskursus teoretis abstrak, melainkan sebagai artikulasi ontologis terhadap kondisi konkret manusia dalam menavigasi kehidupan di tengah dunia yang kontingen dan sarat ketidakpastian.
+Eksistensialisme adalah aliran filsafat yang menjadikan pengalaman subjektif, kebebasan memilih, dan tanggung jawab individual fondasi eksistensi manusia. Pemikiran ini lahir bukan sekadar sebagai diskursus teoretis abstrak, melainkan sebagai artikulasi ontologis terhadap kondisi konkret manusia dalam menavigasi kehidupan di tengah dunia yang kontingen dan sarat ketidakpastian.
 
 ### 1. Hakikat Ontologis Eksistensialisme
 

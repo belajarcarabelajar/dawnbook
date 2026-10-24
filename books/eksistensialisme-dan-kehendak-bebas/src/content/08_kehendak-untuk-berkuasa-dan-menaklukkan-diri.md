@@ -1,6 +1,6 @@
 ## Kehendak untuk Berkuasa dan Menaklukkan Diri
 
-Konsep kehendak untuk berkuasa atau Wille zur Macht dari Friedrich Nietzsche merupakan dinamika ontologis dalam melampaui keterbatasan dan menaklukkan diri. Konsepsi ini kerap mengalami reduksionisme historis yang keliru sebagai pembenaran atas dominasi politis, padahal bagi Nietzsche, lokus kehendak berkuasa yang paling luhur terletak pada kapasitas subjek untuk menundukkan dorongan insting primitif, mengorganisasi kekacauan batin, dan melahirkan nilai-nilai baru secara mandiri.
+Kehendak untuk berkuasa atau Wille zur Macht dari Friedrich Nietzsche merupakan dinamika ontologis dalam melampaui keterbatasan dan menaklukkan diri. Konsepsi ini kerap mengalami reduksionisme historis yang keliru sebagai pembenaran atas dominasi politis, padahal bagi Nietzsche, lokus kehendak berkuasa yang paling luhur terletak pada kapasitas subjek untuk menundukkan dorongan insting primitif, mengorganisasi kekacauan batin, dan melahirkan nilai-nilai baru secara mandiri.
 
 ### 1. Ontologi *Wille zur Macht*
 

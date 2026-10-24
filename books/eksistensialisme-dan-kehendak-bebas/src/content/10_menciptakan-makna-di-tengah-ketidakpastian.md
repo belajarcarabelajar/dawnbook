@@ -1,6 +1,6 @@
 ## Menciptakan Makna di Tengah Ketidakpastian
 
-Proses penciptaan makna di tengah ketidakpastian ontologis merupakan puncak aktualisasi kebebasan manusia dalam merespons ketiadaan tujuan teleologis kosmis. Setelah menelaah dialektika kebebasan radikal, kecemasan, dan kondisi absurdisme, persoalan krusial yang mengemuka adalah bagaimana kesadaran manusia mampu menegakkan makna di tengah alam semesta yang bisu dan kontingen.
+Penciptaan makna di tengah ketidakpastian ontologis merupakan puncak aktualisasi kebebasan manusia dalam merespons ketiadaan tujuan teleologis kosmis. Setelah menelaah dialektika kebebasan radikal, kecemasan, dan kondisi absurdisme, persoalan krusial yang mengemuka adalah bagaimana kesadaran manusia mampu menegakkan makna di tengah alam semesta yang bisu dan kontingen.
 
 ### 1. Ketiadaan Esensi Apriori sebagai Ruang Kreasi Murni
 

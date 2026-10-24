@@ -1,6 +1,6 @@
 ## Filosofi 'Raja Bajak Laut' dalam One Piece
 
-Eksplorasi filosofis atas konsep Raja Bajak Laut (*Pirate King*) dalam karya naratif *One Piece* karya Eiichiro Oda menghadirkan eksperimen pemikiran mengenai pencarian kedaulatan individu dan kebebasan non-dominatif. Melalui figurasi Monkey D. Luffy dan warisan Gol D. Roger, konsepsi abstrak kebebasan eksistensial diuji dalam lanskap sosial yang sarat dengan hegemoni absolut Pemerintah Dunia (*World Government*), hegemoni kaum bangsawan dunia (*Tenryuubito*), dan determinisme takdir mitologis.
+Eksplorasi filosofis atas konsep Raja Bajak Laut (*Pirate King*) dalam *One Piece* karya Eiichiro Oda menghadirkan eksperimen pemikiran. Eksperimen itu berkisar pada pencarian kedaulatan individu dan kebebasan non-dominatif. Melalui figurasi Monkey D. Luffy dan warisan Gol D. Roger, konsepsi abstrak kebebasan eksistensial diuji dalam lanskap sosial yang sarat dengan hegemoni absolut Pemerintah Dunia (*World Government*), hegemoni kaum bangsawan dunia (*Tenryuubito*), dan determinisme takdir mitologis.
 
 ### 1. Kebebasan (*Freedom*) vs Dominasi (*Power-Over*)
 
