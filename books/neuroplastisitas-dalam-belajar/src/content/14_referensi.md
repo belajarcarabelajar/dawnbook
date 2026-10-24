@@ -1,6 +1,6 @@
 ## Referensi
 
-Daftar ini mengumpulkan sumber untuk gagasan, tokoh, dan penelitian yang dibahas di buku ini, supaya kamu bisa menelusurinya lebih jauh. Setiap entri terhubung ke karya yang disebut di dalam bab, misalnya buku Donald Hebb, studi supir taksi London, atau penelitian Carol Dweck dan Jason Moser tentang mindset. Banyak artikel ilmiah di sini berbahasa Inggris dan sebagian berada di balik akses berbayar, tetapi abstraknya biasanya bisa kamu baca gratis.
+Daftar ini mengumpulkan sumber untuk gagasan, tokoh, dan penelitian yang dibahas di buku ini, supaya kamu bisa menelusurinya lebih jauh. Sebagian entri adalah karya yang disebut langsung di dalam bab, misalnya buku Donald Hebb, studi supir taksi London, atau penelitian Carol Dweck dan Jason Moser tentang mindset. Sebagian lagi adalah bacaan lanjutan untuk hal yang dibahas bab tanpa menyebut sumbernya, seperti anjuran aktivitas fisik 150 menit per minggu dari WHO. Banyak artikel ilmiah di sini berbahasa Inggris dan sebagian berada di balik akses berbayar, tetapi abstraknya biasanya bisa kamu baca gratis.
 
 ### Buku dan Karya Klasik
 

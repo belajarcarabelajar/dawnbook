@@ -1,6 +1,6 @@
 ## Referensi
 
-Daftar ini mengumpulkan sumber untuk gagasan, tokoh, dan penelitian yang dibahas di buku ini, supaya kamu bisa membaca lebih jauh dari tangan pertama. Gagasan digital minimalism, digital declutter, dan deep work berasal dari dua buku Cal Newport, sedangkan istilah psikologi yang muncul di bab ekonomi perhatian, kesendirian, rekreasi, dan dunia kerja punya akar di penelitian yang tercantum di bawah. Sebagian besar karya ditulis dalam bahasa Inggris, dan beberapa artikel jurnal hanya bisa dibaca penuh lewat langganan atau perpustakaan kampus.
+Daftar ini mengumpulkan sumber untuk gagasan, tokoh, dan penelitian yang dibahas di buku ini, supaya kamu bisa membaca lebih jauh dari tangan pertama. Gagasan digital minimalism, digital declutter, dan deep work berasal dari dua buku Cal Newport yang memang disebut di bab-babnya. Sebagian entri lain adalah bacaan lanjutan untuk konsep yang dijelaskan di bab tanpa menyebut nama pencetusnya, misalnya siklus pemicu dan hadiah variabel, kondisi flow, loss aversion, attention residue, dan default mode network. Sebagian besar karya ditulis dalam bahasa Inggris, dan beberapa artikel jurnal hanya bisa dibaca penuh lewat langganan atau perpustakaan kampus.
 
 ### Buku
 

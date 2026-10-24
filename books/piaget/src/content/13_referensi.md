@@ -4,16 +4,16 @@ Daftar ini mengumpulkan sumber untuk gagasan, tokoh, dan penelitian yang dibahas
 
 ### Buku
 
-- Case, R. (1985). *Intellectual development: Birth to adulthood*. Academic Press. [Internet Archive](https://archive.org/details/intellectualdeve00case)
-- Donaldson, M. (1978). *Children's minds*. Fontana/Collins. [Internet Archive](https://archive.org/details/childrensminds0000dona)
-- Inhelder, B., & Piaget, J. (1958). *The growth of logical thinking from childhood to adolescence: An essay on the construction of formal operational structures*. Basic Books. [Internet Archive](https://archive.org/details/growthoflogicalt00inhe)
-- Piaget, J. (1952a). *The child's conception of number*. Routledge & Kegan Paul. [Internet Archive](https://archive.org/details/childsconception0000piag_i3d5)
+- Case, R. (1985). *Intellectual development: Birth to adulthood*. Academic Press. [Google Books](https://books.google.com/books/about/Intellectual_Development.html?id=cKR9AAAAMAAJ)
+- Donaldson, M. (1978). *Children's minds*. Fontana/Collins. [HarperCollins](https://harpercollins.co.uk/products/childrens-minds-margaret-donaldson)
+- Inhelder, B., & Piaget, J. (1958). *The growth of logical thinking from childhood to adolescence: An essay on the construction of formal operational structures*. Routledge. [Routledge](https://www.routledge.com/The-Growth-Of-Logical-Thinking-From-Childhood-To-Adolescence-AN-ESSAY-ON-THE-CONSTRUCTION-OF-FORMAL-OPERATIONAL-STRUCTURES/PiagetJeanInhelderBrbel/p/book/9780415864442)
+- Piaget, J. (1951). *Play, dreams and imitation in childhood*. Routledge. [Routledge](https://www.routledge.com/Play-Dreams-And-Imitation-In-Childhood/PiagetJean/p/book/9780415864459)
+- Piaget, J. (1952a). *The child's conception of number*. Routledge & Kegan Paul. [Routledge, cetak ulang Selected Works](https://www.routledge.com/Childs-Conception-of-Number-Selected-Works-vol-2/Piaget-Gattegno-Hodgson/p/book/9780415846455)
 - Piaget, J. (1952b). *The origins of intelligence in children* (M. Cook, Trans.). International Universities Press. [UNESDOC](https://unesdoc.unesco.org/ark:/48223/pf0000057630)
-- Piaget, J. (1954). *The construction of reality in the child*. Basic Books. [Internet Archive](https://archive.org/details/constructionofre00piag)
-- Piaget, J. (1962). *Play, dreams and imitation in childhood*. Norton. [Internet Archive](https://archive.org/details/playdreamsimitat0000piag)
-- Piaget, J. (1971). *Genetic epistemology*. Norton. [Internet Archive](https://archive.org/details/geneticepistemol00piag)
-- Piaget, J. (1985). *The equilibration of cognitive structures: The central problem of intellectual development*. University of Chicago Press. [Internet Archive](https://archive.org/details/equilibrationofc0000piag)
-- Piaget, J., & Inhelder, B. (1956). *The child's conception of space*. Routledge & Kegan Paul. [Internet Archive](https://archive.org/details/childsconception0000jean_m0x9)
+- Piaget, J. (1954). *The construction of reality in the child*. Routledge. [Routledge](https://www.routledge.com/The-Construction-Of-Reality-In-The-Child/Piaget/p/book/9780415846752)
+- Piaget, J. (1970). *Genetic epistemology* (E. Duckworth, Trans.). Columbia University Press. [Wellcome Collection](https://wellcomecollection.org/works/eef7vcqw)
+- Piaget, J. (1985). *The equilibration of cognitive structures: The central problem of intellectual development* (T. Brown & K. J. Thampy, Trans.). University of Chicago Press. [IUCAT](https://iucat.iu.edu/iuk/1538219)
+- Piaget, J., & Inhelder, B. (1956). *The child's conception of space*. Routledge & Kegan Paul. [Routledge, cetak ulang Selected Works](https://www.routledge.com/Childs-Conception-of-Space-Selected-Works-vol-4/Piaget/p/book/9780415846462)
 - Vygotsky, L. S. (1978). *Mind in society: The development of higher psychological processes* (M. Cole, V. John-Steiner, S. Scribner, & E. Souberman, Eds.). Harvard University Press. [Harvard University Press](https://www.hup.harvard.edu/books/9780674576292)
 
 ### Artikel Ilmiah

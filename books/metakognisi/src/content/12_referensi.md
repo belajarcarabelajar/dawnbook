@@ -1,6 +1,6 @@
 ## Referensi
 
-Daftar ini mengumpulkan sumber untuk gagasan, tokoh, dan penelitian yang dibahas di buku ini, supaya kamu bisa membaca lebih jauh sendiri. Buku ini tidak disusun dari daftar tersebut. Setiap entri dipilih karena membahas langsung hal yang muncul di bab-bab sebelumnya, mulai dari istilah metakognisi yang dikenalkan John Flavell, tiga jenis pengetahuan metakognitif, siklus regulasi diri, sampai efek Dunning-Kruger, latihan mengingat, dan teknik Pomodoro.
+Daftar ini mengumpulkan sumber untuk gagasan, tokoh, dan penelitian yang dibahas di buku ini, supaya kamu bisa membaca lebih jauh sendiri. Buku ini tidak disusun dari daftar tersebut. Sebagian entri memuat nama yang memang disebut di dalam bab, seperti John Flavell, efek Dunning-Kruger, dan teknik Pomodoro. Sebagian lainnya adalah bacaan lanjutan untuk konsep yang dijelaskan bab-bab sebelumnya tanpa menyebut penelitinya, misalnya tiga jenis pengetahuan metakognitif, siklus regulasi diri, latihan mengingat, dan belajar berjarak.
 
 ### Buku
 

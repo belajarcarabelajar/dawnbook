@@ -1,16 +1,15 @@
 ## Referensi
 
-Daftar ini mengumpulkan sumber resmi dan bacaan untuk gagasan, aturan, dan angka yang dibahas dalam buku ini, supaya kamu bisa menelusurinya lebih jauh. Aturan pajak, ketentuan penjaminan, dan hasil survei diperbarui secara berkala, jadi biasakan membuka versi terbaru di laman lembaga penerbitnya sebelum mengambil keputusan.
+Daftar ini menghimpun sumber resmi dan bacaan lanjutan seputar gagasan, aturan, dan angka yang dibahas dalam buku ini, supaya kamu bisa menelusurinya. Aturan pajak, ketentuan penjaminan, dan hasil survei diperbarui secara berkala, jadi biasakan membuka versi terbaru di laman lembaga penerbitnya sebelum mengambil keputusan.
 
 ### Buku dan Artikel
 
-- Doran, G. T. (1981). There's a S.M.A.R.T. way to write management's goals and objectives. *Management Review, 70*(11), 35. [Catatan artikel di EBSCOhost](https://openurl.ebsco.com/contentitem/gcd:6043491?sid=ebsco:plink:crawler&id=ebsco:gcd:6043491)
+- Bjerke, M. B., & Renger, R. (2017). Being smart about writing SMART objectives. *Evaluation and Program Planning, 61*, 125-127. [https://doi.org/10.1016/j.evalprogplan.2016.12.009](https://doi.org/10.1016/j.evalprogplan.2016.12.009)
 - Warren, E., & Tyagi, A. W. (2006). *All Your Worth: The Ultimate Lifetime Money Plan*. Free Press. [Halaman buku di Simon & Schuster](https://www.simonandschuster.com/books/All-Your-Worth/Elizabeth-Warren/A-Guide-to-Personal-Finances/9780743269889)
 
 ### Peraturan Perundang-undangan
 
 - Kementerian Keuangan. (2016). *Peraturan Menteri Keuangan Nomor 101/PMK.010/2016 tentang Penyesuaian Besarnya Penghasilan Tidak Kena Pajak*. [JDIH Kementerian Keuangan](https://jdih.kemenkeu.go.id/dok/101-pmk-010-2016)
-- Kementerian Keuangan. (2024). *Peraturan Menteri Keuangan Nomor 81 Tahun 2024 tentang Ketentuan Perpajakan dalam Rangka Pelaksanaan Sistem Inti Administrasi Perpajakan*. [JDIH Kementerian Keuangan](https://jdih.kemenkeu.go.id/dok/pmk-81-tahun-2024)
 - Kementerian Ketenagakerjaan. (2022). *Peraturan Menteri Ketenagakerjaan Nomor 4 Tahun 2022 tentang Tata Cara dan Persyaratan Pembayaran Manfaat Jaminan Hari Tua*. [JDIH BPK](https://peraturan.bpk.go.id/Details/210568/permenaker-no-4-tahun-2022)
 - Otoritas Jasa Keuangan. (2019). *Peraturan Otoritas Jasa Keuangan Nomor 40/POJK.03/2019 tentang Penilaian Kualitas Aset Bank Umum*. [Dokumen di situs OJK](https://www.ojk.go.id/id/regulasi/Documents/Pages/Penilaian-Kualitas-Aset-Bank-Umum/pojk%2040-2019.pdf)
 - Pemerintah Republik Indonesia. (2015). *Peraturan Pemerintah Nomor 45 Tahun 2015 tentang Penyelenggaraan Program Jaminan Pensiun*. [JDIH Kementerian Ketenagakerjaan](https://jdih.kemnaker.go.id/asset/data_puu/PP_NOMOR_45_TAHUN2015.PDF)
