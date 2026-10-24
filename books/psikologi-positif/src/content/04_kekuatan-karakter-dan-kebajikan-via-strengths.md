@@ -104,7 +104,7 @@ Salah satu intervensi psikologi positif yang paling efektif adalah memilih satu 
 - *Cara Lama:* Membaca berita di pagi hari seperti biasa.
 - *Cara Baru:* Mencoba rute pulang yang berbeda, atau mengajukan pertanyaan mendalam kepada rekan kerja yang jarang kamu ajak bicara.
 
-## 5. Aplikasi Dunia Nyata & Kasus Penggunaan
+## 5. Contoh Penggunaan Kekuatan
 
 ### Kreativitas dan Humor Budi
 

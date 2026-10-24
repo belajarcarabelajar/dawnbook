@@ -6,7 +6,7 @@ Dalam psikologi positif, pengalaman optimal ini dikenal dengan istilah **Flow** 
 
 Konsep ini dipelopori oleh **Mihaly Csikszentmihalyi** (diucapkan: *me-high chick-sent-me-high*). Ia mendefinisikannya sebagai kondisi ketika seseorang begitu menyatu dengan aktivitasnya hingga segala hal di luar itu tampak tidak relevan. Pengalaman tersebut mendatangkan kepuasan yang besar, sehingga pelakunya rela mencurahkan banyak energi hanya demi bisa terus melakukannya.
 
-### 1. Anatomi Pengalaman Flow
+### 1. Delapan Elemen Pengalaman Flow
 
 *Flow* berbeda dengan konsentrasi biasa. Kondisi ini mencerminkan keteraturan kognitif yang tinggi. Csikszentmihalyi mengidentifikasi delapan elemen utama yang menandai kondisi *flow*:
 

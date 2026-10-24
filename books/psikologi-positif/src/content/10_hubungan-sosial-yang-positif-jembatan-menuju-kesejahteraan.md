@@ -53,7 +53,7 @@ Hubungan positif bukan berarti selalu menyetujui segalanya. Hubungan yang suport
 - **Komunikasi Asertif:** Sampaikan apa yang kamu butuhkan dengan jujur tanpa harus memojokkan lawan bicara. Kamu bisa menggunakan rumus sederhana ini:
 	- *Formula:* `"Aku merasa [perasaan] ketika [kejadian], dan aku butuh [kebutuhan/solusi]."`
 
-### 5. Aplikasi Dunia Nyata dan Skenario
+### 5. Dua Situasi Sehari-hari
 
 #### Presentasi Sulit Rekan Kerja
 
@@ -69,7 +69,7 @@ Terjadi konflik karena perbedaan pendapat mengenai rencana liburan.
 - **Tindakan Positif:** Gunakan *Mindful Listening*. Biarkan mereka berbicara tanpa interupsi. Validasi perasaan mereka sebelum menyampaikan sudut pandangmu.
 - **Hasil:** Konflik tidak berujung pada pertengkaran, melainkan pada pemecahan masalah bersama.
 
-### Ringkasan untuk Pembelajar
+### Tiga Hal yang Perlu Dilatih
 
 Hubungan sosial yang positif adalah keterampilan yang bisa dipelajari, tidak terbatas pada tipe kepribadian ekstrover atau introver. Fokuslah pada:
 

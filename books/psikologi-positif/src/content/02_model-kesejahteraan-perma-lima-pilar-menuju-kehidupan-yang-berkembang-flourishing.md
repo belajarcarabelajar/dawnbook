@@ -94,7 +94,7 @@ Cobalah mengukur kondisimu dengan memberikan skor 1-10 untuk setiap elemen PERMA
 | **M**eaning | | Melakukan satu aksi kebaikan kecil secara acak tanpa mengharap imbalan. |
 | **A**ccomplishment | | Menyelesaikan satu tugas tertunda yang terus membayangi pikiran. |
 
-## Ekosistem Lima Pilar
+## Kelima Pilar yang Saling Terkait
 
 Model PERMA mengingatkan kita bahwa kesejahteraan bukanlah titik akhir yang statis. Elemen-elemen ini bekerja layaknya sebuah ekosistem yang dinamis. Kamu tidak harus mencetak skor sempurna pada kelima pilar secara bersamaan. Dengan memahami pilar-pilar ini, kamu memiliki kompas untuk mengevaluasi bagian mana dari hidupmu yang sedang membutuhkan perhatian lebih agar kamu bisa terus bertumbuh secara optimal (*flourish*).
 
