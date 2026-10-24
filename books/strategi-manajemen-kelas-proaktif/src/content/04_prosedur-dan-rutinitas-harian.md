@@ -1,4 +1,4 @@
-# Prosedur dan Rutinitas Harian
+## Prosedur dan Rutinitas Harian
 
 Pernahkah kamu memperhatikan bagaimana kru *pit stop* Formula 1 bekerja? Hanya dalam hitungan detik, ban diganti, bahan bakar diisi (pada era tertentu), dan mobil kembali melaju. Tidak ada instruksi yang diteriakkan di tengah kebisingan; setiap orang tahu persis apa yang harus dilakukan, kapan melakukannya, dan bagaimana melakukannya.
 

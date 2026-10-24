@@ -1,4 +1,4 @@
-# Strategi Keterlibatan Siswa Aktif
+## Strategi Keterlibatan Siswa Aktif
 
 Pernahkah kamu memperhatikan bahwa gangguan perilaku di kelas paling sering terjadi saat transisi yang lama, ceramah yang monoton, atau ketika siswa merasa tidak memiliki peran dalam pembelajaran?
 

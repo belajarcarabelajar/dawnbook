@@ -1,4 +1,4 @@
-# Penetapan Norma dan Kontrak Sosial
+## Penetapan Norma dan Kontrak Sosial
 
 Bayangkan kamu sedang membangun sebuah rumah. Aturan kelas yang dibuat sepihak oleh guru ibarat instruksi kaku dari seorang mandor yang tidak pernah menempati rumah tersebut. Sebaliknya, **Kontrak Sosial** adalah desain arsitektur yang dirancang bersama oleh seluruh penghuninya. Ketika siswa merasa memiliki "saham" dalam menentukan bagaimana kelas berjalan, mereka tidak lagi sekadar menaati aturan karena takut dihukum, melainkan karena mereka menghargai kesepakatan yang mereka buat sendiri.
 

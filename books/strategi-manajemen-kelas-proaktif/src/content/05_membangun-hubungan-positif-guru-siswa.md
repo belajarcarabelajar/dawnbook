@@ -1,4 +1,4 @@
-# Membangun Hubungan Positif Guru-Siswa
+## Membangun Hubungan Positif Guru-Siswa
 
 Pernahkah kamu bertanya-tanya mengapa seorang siswa bersedia bekerja ekstra keras untuk satu guru, namun tampak sangat tidak peduli di kelas guru lainnya? Jawabannya jarang sekali terletak pada materi pelajaran, melainkan pada **kualitas hubungan** di antara mereka.
 

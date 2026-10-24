@@ -1,4 +1,4 @@
-# Komunikasi Proaktif dengan Orang Tua
+## Komunikasi Proaktif dengan Orang Tua
 
 Pernahkah kamu membayangkan komunikasi antara guru dan orang tua seperti sebuah rekening bank emosional? Jika kita hanya menghubungi orang tua saat ada masalah (pelanggaran disiplin atau nilai anjlok), itu sama saja dengan melakukan "penarikan" terus-menerus tanpa pernah melakukan "setoran". Akibatnya, hubungan menjadi defisit dan penuh ketegangan.
 

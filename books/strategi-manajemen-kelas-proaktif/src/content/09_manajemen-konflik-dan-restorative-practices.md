@@ -1,4 +1,4 @@
-# Manajemen Konflik dan Restorative Practices
+## Manajemen Konflik dan Restorative Practices
 
 Konflik di dalam kelas seringkali dianggap sebagai gangguan yang harus segera "dihilangkan" dengan hukuman. Namun, dalam manajemen kelas proaktif, konflik dipandang sebagai **peluang pembelajaran sosial-emosional**. *Restorative Practices* (Praktik Restoratif) adalah sebuah pergeseran paradigma dari bertanya "Aturan apa yang dilanggar?" menjadi "Siapa yang dirugikan dan bagaimana kita memperbaikinya?"
 

@@ -1,4 +1,4 @@
-# Teknik Pemindaian dan Kehadiran Guru
+## Teknik Pemindaian dan Kehadiran Guru
 
 Pernahkah kamu bertanya-tanya mengapa beberapa guru seolah-olah memiliki "indra keenam"? Mereka bisa mengetahui ada siswa yang sedang asyik bermain ponsel di pojok belakang, bahkan saat mereka sedang menulis di papan tulis. Rahasianya bukan pada kekuatan super, melainkan pada keterampilan yang disebut **Withitness** dan teknik **Pemindaian (Scanning)** yang efektif.
 

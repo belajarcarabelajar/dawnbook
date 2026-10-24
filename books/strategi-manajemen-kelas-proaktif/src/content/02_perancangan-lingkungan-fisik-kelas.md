@@ -1,4 +1,4 @@
-# Perancangan Lingkungan Fisik Kelas
+## Perancangan Lingkungan Fisik Kelas
 
 Bayangkan kamu masuk ke sebuah restoran. Jika meja-meja disusun terlalu rapat, kamu akan merasa sesak. Jika pelayan sulit menjangkau meja kamu karena terhalang dekorasi, layanan akan lambat. Sebaliknya, restoran yang dirancang dengan baik membuat aliran pergerakan terasa alami dan suasana menjadi nyaman.
 

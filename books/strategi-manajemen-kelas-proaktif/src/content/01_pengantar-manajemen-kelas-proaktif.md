@@ -1,4 +1,4 @@
-# Pengantar Manajemen Kelas Proaktif
+## Pengantar Manajemen Kelas Proaktif
 
 Selamat datang di modul pertama dari perjalanan kamu menuju pengelolaan kelas yang lebih bermakna. Bayangkan sebuah ruang kelas di mana kamu tidak perlu berteriak untuk mendapatkan perhatian, tidak perlu terus-menerus menginterupsi pelajaran untuk menegur siswa, dan setiap menit yang kamu habiskan benar-benar digunakan untuk mengajar.
 
