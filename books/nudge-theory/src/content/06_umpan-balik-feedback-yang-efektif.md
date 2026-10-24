@@ -95,6 +95,6 @@ Tujuan dari Arsitektur Pilihan melalui *feedback* adalah membuat nilai $E$ mende
 
 Sebagai contoh, jika air pancuran (*shower*) membutuhkan waktu 30 detik untuk menyesuaikan suhu, kamu cenderung terus memutar keran ke arah panas karena tidak merasakan perubahan suhu secara instan. Begitu air tiba-tiba menjadi sangat panas, kamu akan terkejut dan memutarnya terlalu jauh ke arah dingin. Kamu pun terjebak dalam siklus koreksi yang berlebihan akibat umpan balik yang terlambat.
 
-## Kesimpulan
+## Petunjuk Arah yang Jelas
 
 Umpan balik yang efektif menyajikan informasi secara tepat waktu dan mudah dipahami untuk memicu perbaikan nyata, alih-alih menumpuk data tanpa arah. Sebagai arsitek pilihan, tugasmu adalah memastikan pengguna selalu mendapatkan petunjuk arah yang jelas agar mereka tidak berjalan dalam ketidakpastian.

@@ -79,7 +79,7 @@ $$
 
 Ini berarti ada **23% kemungkinan terjadi kesalahan** secara keseluruhan. Dengan menambahkan *forcing function* atau *nudge* yang meningkatkan $p$ menjadi $0.999$, kita dapat menghindarkan sistem dari kegagalan besar.
 
-## Kesimpulan
+## Desain yang Pemaaf
 
 Mengantisipasi kesalahan bukan berarti menganggap pengguna bodoh. Sebaliknya, ini adalah bentuk **empati dalam desain**. Dengan memahami keterbatasan kognitif manusia, kita dapat membangun lingkungan yang tidak hanya lebih aman, tetapi juga lebih nyaman digunakan.
 
