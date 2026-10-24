@@ -1,52 +1,45 @@
 ## Rezeki Kecil Saat Menunggu Panen
 
-Pagi itu si petani muda berjalan ke Mother's Hill dengan tas yang masih kosong, sementara panen pertama di ladangnya masih beberapa hari lagi. Di sepanjang jalan ada rumput (*Grass*) dan buah beri, dan di dekat Hot Spring tumbuh tanaman yang kemarin sudah ia petik. Pagi itu tanaman tadi sudah tumbuh lagi, di titik yang sama persis.
+Pagi itu si petani muda mendaki Mother's Hill dengan tas kosong, sebab panen pertama di ladangnya baru akan tiba beberapa hari lagi.
 
-Ladang baru saja ditanami, dan dompet si petani masih tipis. Jalan pagi ke bukit inilah yang mengisi jeda itu.
+Ia memetik rumput (*Grass*) dan buah beri di sepanjang jalan, lalu berhenti di dekat Hot Spring. Tanaman yang kemarin ia petik di sana sudah berdiri lagi, di titik yang sama persis. Ladang baru saja ditanami, dompet masih tipis, dan bukit ini diam-diam menawarkan sesuatu untuk dibawa pulang.
 
-### Tanaman Liar yang Tumbuh Lagi Besok Pagi
+### Bukit yang Tumbuh Lagi Setiap Pagi
 
-Panduan resmi Prima menyarankan tokoh kita memungut tanaman liar di awal setiap musim, tepat ketika tanaman di ladang belum matang. Hasilnya dijual dengan untung yang tidak besar. Nilainya justru ada pada sifatnya: tanaman liar itu tumbuh kembali setiap hari, selalu di tempat yang sama. Rumput dan buah beri bisa langsung dimasukkan ke Harvest Bin untuk diangkut Zack.
+Di HM BTN, tanaman liar di Mother's Hill, di sisi Hot Spring, dan di sekitar rumah Gotz tumbuh kembali setiap hari, selalu di tempat yang sama. Harganya kecil. Rumput dan beri bisa langsung dimasukkan ke Harvest Bin dan diangkut Zack bersama hasil ladang, jadi tidak ada yang terbuang hanya karena nilainya receh.
 
-Tempatnya pun disebut jelas, yaitu Mother's Hill, sisi Hot Spring, dan sekitar rumah Gotz. Panduan juga menganjurkan sedikit menjelajah di awal tiap musim untuk melihat apa saja yang bisa dikumpulkan. Untuk musim semi, tabel di panduan mencatat Blue Grass seharga 100 G dan Bamboo Shoot seharga 50 G, walau tabel itu mungkin tidak lengkap.
+Isinya berganti mengikuti musim, jadi ada gunanya berkeliling sebentar di awal setiap musim. Di musim semi, Blue Grass laku 100 G dan Bamboo Shoot 50 G. Di musim gugur, sebuah Truffle di dekat danau di Mother's Hill bernilai 500 G, cukup untuk membuat jalan pagi terasa seperti perburuan harta. Musim dingin lebih pelit lagi. Yang bisa dipungut hanya Honey seharga 50 G, itu pun kalau di musim yang lebih awal kamu sudah menanam bunga dan lebah sudah bersarang di pohon apel. Bahkan rezeki kecil di musim sepi bergantung pada apa yang kamu siapkan sebelumnya.
 
-Setiap musim membawa temuannya sendiri. Di musim gugur, panduan mengingatkan untuk memungut setiap hari dan memberi contoh Truffle di dekat danau di Mother's Hill yang bernilai 500 G. Di musim dingin pilihannya menyempit: Honey menjadi satu-satunya barang yang bisa dipungut, itu pun hanya kalau di musim yang lebih awal kamu menanam bunga dan lebah bersarang di pohon apel; harganya 50 G.
+Daya tariknya ada pada pengulangan: tanaman liar kembali setiap hari di tempat yang sama.
 
-Angka-angka itu kecil. Tetapi karena tanamannya kembali setiap pagi, rezeki ini bisa dipungut lagi esok hari.
+### Kail Kosong dan Kaleng Bekas
 
-### Joran dari Greg di Dermaga
+Musim semi membuka satu pintu lagi. Greg, nelayan yang biasa memancing di dermaga pada pagi hari, akan bertanya apakah kamu mau mencoba. Jawab "ya", dan ia memberimu sebuah Fishing Rod.
 
-Musim semi membuka sumber lain. Greg si nelayan biasa memancing di dermaga pada pagi hari. Kalau tokoh kita mampir, Greg bertanya apakah ia suka memancing dan mau mencobanya. Jawab "ya", dan Greg memberinya sebuah Fishing Rod untuk dipakai sendiri. Panduan menyebut memancing sebagai cara yang bagus untuk menambah uang.
+Memancing menuntut sabar. Kamu menahan tombol, menunggu pelampung mendadak tenggelam, lalu melepasnya dengan cepat. Kadang kailnya naik kosong, kadang yang tersangkut hanya sampah. Sampah pun tidak selalu sia-sia. Sesekali yang terangkat adalah botol berisi resep, dan May dari Yodel Farm senang menerima kaleng kosong atau sepatu bot sebagai hadiah. Pagi yang terasa gagal di dermaga masih menyisakan sesuatu untuk diberikan.
 
-Caranya menuntut sabar. Tombol ditahan sampai pelampung mendadak tenggelam atau tokoh kita tampak menahan tarikan, lalu dilepas dengan cepat. Kalau beruntung, yang naik adalah ikan atau benda yang berguna. Kalau sial, kailnya kosong atau yang tersangkut hanya sampah. Ikan sendiri datang dalam tiga ukuran, kecil, sedang, dan besar, dengan harga jual yang berbeda.
+Ikan yang berhasil ditangkap datang dalam tiga ukuran, kecil, sedang, dan besar, dengan harga jual yang berbeda. Ikan juga bisa diternakkan di kolam, dan syaratnya sederhana tetapi tidak boleh terlewat: satu kantong pakan setiap hari. Tanpa pakan, ikan di kolam tidak akan pernah berkembang biak.
 
-Sampah pun tidak selalu sia-sia. Menurut panduan, tokoh kita bisa mengangkat botol berisi resep, dan May dari Yodel Farm senang menerima kaleng kosong dan sepatu bot sebagai hadiah. Hari yang terasa gagal di dermaga masih menyisakan sesuatu.
+### Panen Besar Datang dari Ladang
 
-Ikan yang ditangkap atau diternakkan di kolam juga bisa dijual. Untuk beternak ikan, syaratnya sederhana tetapi harus rutin: satu kantong pakan setiap hari. Tanpa pakan, ikan di kolam tidak akan pernah berkembang biak.
+Semua ini tidak akan membuatmu kaya. Panduan resmi gim ini pun terang-terangan menyebut uang besar datang dari apa yang kamu tanam, bukan dari memungut atau menambang (tambang punya ceritanya sendiri di bab 13). Hasil ladang, seperti lobak (*Turnip*) yang cepat panen di bab 1, masih menjadi mesin utama, karena panen pertama membeli benih untuk putaran berikutnya.
 
-### Uang Besar Tetap Datang dari Ladang
+Rezeki kecil punya tugas lain. Ia tidak menggantikan panen. Ia menjaga si petani tetap bergerak selama panen belum datang, sehingga setiap pagi ada yang bisa dibawa pulang dan tidak ada hari yang dihabiskan menunggu dengan tangan kosong. Urutannya penting karena tanaman tidak tumbuh pada hari kamu lupa menyiramnya, kecuali hujan turun (bab 1): siram ladang dulu, baru naik ke bukit. Rezeki dari bukit hanya tambahan; panen di ladanglah yang dipertaruhkan.
 
-Panduan resmi Prima tidak membesar-besarkan semua ini. Memungut tanaman liar dan menambang memang menghasilkan uang, tulis panduan itu, tetapi "the real money lies in what you grow". Menambang punya ceritanya sendiri di bab 13. Hasil ladang, seperti lobak (*Turnip*) yang cepat panen di bab 1, tetap menjadi sumber uang utama, karena hasil panen pertama membeli benih untuk putaran berikutnya.
+### Empat Ratus Dolar di Hari yang Salah
 
-Lalu apa gunanya rezeki kecil? Kalau dipikir-pikir, fungsinya bukan menggantikan panen, melainkan menjaga tokoh kita tetap bergerak selama panen belum datang. Setiap pagi ada sesuatu yang bisa dibawa pulang, sekecil apa pun.
+Hidup di luar gim juga berjalan dari panen ke panen: gaji bulanan, honor proyek, hasil usaha yang baru cair di akhir. Masalahnya, pengeluaran tak terduga tidak pernah menunggu tanggal gajian. Di Mother's Hill, tanaman liar tumbuh kembali di tempat yang sama, jadi si petani tahu ke mana harus melangkah besok pagi. Di luar gim, kepastian semacam itu jarang ada, sehingga bantalan paling baik dikumpulkan ketika keadaan tenang, bukan ketika tagihan sudah datang.
 
-### Bantalan Sebelum Hasil Besar Datang
+Federal Reserve menanyakan hal ini kepada orang dewasa di Amerika Serikat: kalau tiba-tiba muncul pengeluaran darurat sebesar 400 dolar AS, bagaimana kamu menutupnya? Dalam [rilis hasil SHED 2025](https://www.federalreserve.gov/newsevents/pressreleases/other20260513a.htm), 63 persen menjawab dengan uang tunai atau yang setara, sama seperti tahun sebelumnya. Itu jawaban atas situasi andaian di negara lain, jadi angkanya tidak bisa dipindahkan begitu saja ke sini. Yang terasa dekat adalah sisanya: lebih dari sepertiga responden tidak memilih jawaban itu.
 
-Di dunia nyata, banyak dari kita juga hidup dari "panen" yang datang berkala: gaji bulanan, honor proyek, atau hasil usaha yang baru cair di akhir. Di antara dua panen, pengeluaran tak terduga bisa muncul kapan saja.
+Seberapa tebal bantalan yang wajar? [Sebuah artikel KPKNL Lahat di situs DJKN Kemenkeu](https://www.djkn.kemenkeu.go.id/kpknl-lahat/baca-artikel/18366/Investasi-Bagi-Orang-Berpenghasilan-Tetap.html) menyarankan orang berpenghasilan tetap menyiapkan dana darurat paling sedikit tiga bulan pengeluaran, ditambah asuransi dasar, sebelum mulai berinvestasi. Tiga bulan itu batas bawah, bukan garis akhir.
 
-Survei rumah tangga Federal Reserve di Amerika Serikat memberi gambaran seberapa siap orang menghadapinya. Dalam [rilis hasil SHED 2025](https://www.federalreserve.gov/newsevents/pressreleases/other20260513a.htm) tertanggal 13 Mei 2026, 63 persen orang dewasa di AS menjawab akan menutup pengeluaran darurat sebesar 400 dolar AS dengan uang tunai atau yang setara. Angka itu sama dengan hasil survei 2024.
-
-Survei ini mengukur jawaban responden atas pengeluaran andaian, bukan kejadian nyata, dan hanya mencakup orang dewasa di AS. Angkanya tidak bisa dipindahkan begitu saja ke Indonesia. Tetap saja, kalau dibalik, lebih dari sepertiga responden tidak menjawab begitu.
-
-Soal ukuran tabungan, [sebuah artikel di situs DJKN Kemenkeu](https://www.djkn.kemenkeu.go.id/kpknl-lahat/baca-artikel/18366/Investasi-Bagi-Orang-Berpenghasilan-Tetap.html) dari KPKNL Lahat menyarankan dana darurat minimal tiga bulan pengeluaran, ditambah asuransi dasar, sebelum mulai berinvestasi. Artikel itu ditulis untuk orang berpenghasilan tetap dan hanya memberi batas bawah, bukan dokumen kebijakan yang berlaku untuk semua orang.
-
-Kamu bisa mengumpulkannya dengan meniru pagi di Mother's Hill: sedikit, tetapi diulang. Pemasukan sampingan yang kecil tidak akan membuatmu kaya, sama seperti Truffle tidak menggantikan ladang. Namun kalau disisihkan terus, ia bisa menjadi bantalan yang membuatmu tidak terburu-buru ketika "panen besar" belum tiba.
+Cara mengumpulkannya bisa meniru pagi di Mother's Hill: sedikit, tetapi diulang. Pemasukan sampingan yang kecil tidak menggantikan gaji, sama seperti Truffle tidak menggantikan ladang. Namun kalau terus disisihkan, ia bisa menjadi bantalan yang membuatmu tidak panik ketika panen besar belum tiba.
 
 ### Inti Pembahasan
 
-- Tanaman liar di Mother's Hill, sisi Hot Spring, dan sekitar rumah Gotz tumbuh lagi setiap hari di tempat yang sama, jadi bisa dipungut ulang selama menunggu panen.
-- Memancing menambah uang tetapi menuntut sabar, dan sampah yang tersangkut kadang masih berguna.
-- Panduan resmi tetap menempatkan uang besar pada hasil ladang; rezeki kecil mengisi jeda.
-- Survei Federal Reserve 2025 mencatat 63 persen orang dewasa di AS akan menutup pengeluaran darurat 400 dolar AS dengan uang tunai atau yang setara, dan artikel di situs DJKN Kemenkeu menyarankan, bagi orang berpenghasilan tetap, dana darurat minimal tiga bulan pengeluaran.
+- Tanaman liar di bukit tumbuh lagi setiap pagi, dan dermaga menunggu dengan jorannya. Nilainya kecil, tetapi bisa diambil lagi besok.
+- Uang besar datang dari ladang; rezeki kecil hanya membuatmu terus bergerak selama menunggu.
+- Dalam survei Federal Reserve 2025, 63 persen orang dewasa di AS akan menutup pengeluaran darurat 400 dolar AS dengan uang tunai. Artikel DJKN menyarankan dana darurat paling sedikit tiga bulan pengeluaran sebagai batas bawah sebelum berinvestasi.
 
-Lama-lama rezeki kecil dari bukit dan dermaga menumpuk, dan muncul pertanyaan baru: kapan saatnya uang itu dibelanjakan untuk alat kerja yang lebih baik, seperti yang dibahas di bab berikutnya.
+Koin-koin kecil dari bukit dan dermaga lama-lama menumpuk, sementara bengkel Saibara menunggu dengan tawaran alat yang lebih baik.
