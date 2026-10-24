@@ -4,7 +4,7 @@ Mari mulai dengan eksperimen pikiran. Ini murni latihan membayangkan, bukan stud
 
 Tawaran pertama: kamu boleh menerima seratus ribu rupiah hari ini, atau seratus sepuluh ribu rupiah seminggu lagi. Pilih satu. Tawaran kedua: seratus ribu rupiah setahun lagi, atau seratus sepuluh ribu rupiah setahun lebih seminggu. Pilih lagi. Selisihnya sama persis di kedua tawaran: sepuluh ribu rupiah untuk menunggu tujuh hari tambahan.
 
-Kalau kamu memilih "hari ini" di tawaran pertama tetapi memilih "yang lebih besar" di tawaran kedua, kamu tidak sendirian, dan tidak ada yang salah dengan kepalamu. Kamu baru saja merasakan sesuatu yang oleh para ekonom perilaku disebut **bias masa kini** (*present bias*). Bab ini membahas apa itu, kenapa ia cocok sekali dengan kebiasaan menunda, dan apa yang bisa dilakukan tentangnya.
+Kalau kamu memilih "hari ini" di tawaran pertama tetapi memilih "yang lebih besar" di tawaran kedua, kamu tidak sendirian, dan tidak ada yang salah dengan kepalamu. Kamu baru saja merasakan sesuatu yang oleh para ekonom perilaku disebut **bias masa kini** (*present bias*). Bab ini membahas apa itu, kenapa ia cocok dengan kebiasaan menunda, dan apa yang bisa dilakukan tentangnya.
 
 ### Diskon untuk menunggu
 

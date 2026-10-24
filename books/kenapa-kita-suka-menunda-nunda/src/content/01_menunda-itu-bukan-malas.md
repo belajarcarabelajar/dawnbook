@@ -12,7 +12,7 @@ Steel (2007) menganalisis 691 korelasi dalam meta-analisisnya tentang penundaan,
 
 Terjemahan yang setia kira-kira begini: menunda berarti menangguhkan, secara sukarela, tindakan yang sebenarnya sudah kamu niatkan, padahal kamu memperkirakan dirimu akan lebih buruk keadaannya akibat penangguhan itu. Ada tiga unsur di dalamnya. Penundaannya **sukarela**, artinya tidak dipaksa keadaan. Tindakannya **diniatkan**, artinya kamu memang mau melakukannya. Dan kamu **mengharapkan rugi**, artinya sebagian dirimu sudah menghitung bahwa menunda itu tidak menguntungkan.
 
-Ketiga unsur itu menjelaskan kenapa pengalaman menunda terasa begitu aneh dari dalam. Kamu tidak bingung soal apa yang benar. Kamu hanya tidak melakukannya.
+Ketiga unsur itu menjelaskan kenapa pengalaman menunda terasa aneh dari dalam. Kamu tidak bingung soal apa yang benar. Kamu hanya tidak melakukannya.
 
 ### Beda dengan malas, prioritas, dan penundaan strategis
 

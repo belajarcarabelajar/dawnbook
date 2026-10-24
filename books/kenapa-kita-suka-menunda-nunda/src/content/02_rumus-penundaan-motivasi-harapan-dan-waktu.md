@@ -54,7 +54,7 @@ flowchart LR
     C --> D["Hasil bagi membesar"]
 ```
 
-> Ilustrasi penulis, bukan temuan: sebuah esai yang tenggatnya sebulan lagi terasa jinak selama tiga minggu, lalu mendadak jadi pusat hidupmu di malam terakhir.
+> Ilustrasi penulis, bukan temuan: sebuah esai yang tenggatnya sebulan lagi terasa jinak selama tiga minggu, lalu mendadak terasa mendesak di malam terakhir.
 
 Itu hanya gambaran, tetapi polanya cocok dengan bentuk persamaan. Definisi Steel (2007) yang kita temui di bab pertama menjelaskan kenapa gambaran ini terasa janggal: kita tahu akan rugi, tetapi lonjakan tarikan di ujung datang terlambat untuk menyelamatkan kualitas.
 
@@ -82,4 +82,4 @@ Persamaan ini tidak bisa kamu isi dengan angka lalu memprediksi kapan tepatnya k
 2. Tenggat menarik motivasi karena T - t mengecil. Ini akibat logis dari persamaan, bukan hasil eksperimen terpisah.
 3. Prediktor dalam meta-analisis Steel (2007) sejalan dengan unsur-unsur ini, tetapi sifatnya korelasional, dan model ini peta untuk berpikir, bukan alat ukur yang presisi.
 
-Satu unsur persamaan masih menyimpan pertanyaan: kenapa jeda waktu terasa begitu berat? Jejaknya mengarah ke kebiasaan batin kita menimbang "sekarang" lebih besar daripada "nanti".
+Satu unsur persamaan masih menyimpan pertanyaan: kenapa jeda waktu terasa berat? Jejaknya mengarah ke kebiasaan batin kita menimbang "sekarang" lebih besar daripada "nanti".
