@@ -2,7 +2,7 @@
 
 Pernahkah timbul pertanyaan mengapa seseorang merasa dunia masih berputar sesaat setelah berhenti berputar-putar di tempat? Atau bagaimana seorang pesenam lantai dapat melakukan *backflip* dan mendarat dengan tegak tanpa kehilangan arah? Jawabannya terletak di dalam telinga bagian dalam manusia, tepatnya pada tiga struktur berbentuk cincin yang disebut **Kanalis Semisirkularis**.
 
-Jika organ otolit (yang akan dibahas di bagian selanjutnya) adalah "detektor gravitasi dan garis lurus", maka Kanalis Semisirkularis adalah "detektor rotasi" canggih yang bekerja dalam tiga dimensi.
+Jika organ otolit (yang akan dibahas di bagian selanjutnya) adalah "detektor gravitasi dan garis lurus", maka Kanalis Semisirkularis adalah "detektor rotasi" yang bekerja dalam tiga dimensi.
 
 ### 1. Arsitektur Tiga Dimensi
 
@@ -102,4 +102,4 @@ Sisi kanan naik dan sisi kiri turun dari laju istirahat yang sama, persis pola *
 
 ### Kesimpulan Bagian
 
-Kanalis semisirkularis adalah keajaiban mekanika fluida biologis. Dengan memanfaatkan inersia endolimfe dan fleksibilitas kupula, tubuh manusia mampu memetakan setiap rotasi kepala dalam ruang tiga dimensi dengan presisi luar biasa, memungkinkan koordinasi keseimbangan tetap terjaga bahkan dalam aktivitas yang paling dinamis sekalipun.
+Kanalis semisirkularis bekerja dengan prinsip mekanika fluida. Dengan memanfaatkan inersia endolimfe dan fleksibilitas kupula, tubuh manusia mampu memetakan setiap rotasi kepala dalam ruang tiga dimensi, memungkinkan koordinasi keseimbangan tetap terjaga dalam aktivitas yang dinamis.

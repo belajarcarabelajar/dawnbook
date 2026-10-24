@@ -1,6 +1,6 @@
 ## Pengantar Siklus Hidrologi Global
 
-Selamat datang di awal perjalanan memahami salah satu sistem pendukung kehidupan paling mendasar di planet ini. Bumi dapat diandaikan sebagai sebuah mesin raksasa yang bekerja tanpa henti. Bahan bakarnya berasal dari energi radiasi matahari, sementara cairan yang mengalir dan menggerakkan seluruh sistem ini adalah air.
+Salah satu sistem yang menopang kehidupan di Bumi adalah siklus hidrologi, yaitu perpindahan air antara lautan, udara, dan daratan yang terus berlangsung. Bumi dapat diandaikan sebagai sebuah mesin yang bekerja tanpa henti. Bahan bakarnya berasal dari energi radiasi matahari, sementara cairan yang mengalir dan menggerakkan seluruh sistem ini adalah air.
 
 Siklus hidrologi melingkupi sirkulasi air yang berlangsung secara konstan dan tertutup antara atmosfer, daratan, serta lautan. Dalam bab ini, kita akan mempelajari bagaimana molekul air melakukan perjalanan ribuan kilometer, berpindah wujud dari fase cair ke gas lalu kembali lagi, serta menjaga jumlah total air di Bumi tetap relatif konstan selama jutaan tahun.
 
@@ -105,9 +105,9 @@ Studi mengenai siklus hidrologi global memberikan fondasi penting bagi berbagai 
 
 Di kawasan tropis seperti Kalimantan, alih fungsi lahan hutan (deforestasi) mengurangi tingkat **transpirasi** vegetasi secara langsung. Penurunan ini menyebabkan kelembapan udara di atas kawasan tersebut berkurang, sehingga mengurangi pembentukan awan hujan dan menaikkan suhu permukaan lokal. Fenomena ini menunjukkan bagaimana gangguan pada satu komponen siklus dapat memengaruhi kestabilan sirkulasi air regional.
 
-### Kesimpulan
+### Siklus Air yang Terus Berlangsung
 
-Siklus hidrologi global merupakan interaksi abadi antara massa air dan radiasi matahari. Air menguap menuju atmosfer sebagai uap tak kasatmata, mengumpul menjadi awan, dan kembali menyirami daratan untuk menopang kehidupan.
+Siklus hidrologi global merupakan interaksi yang terus berlangsung antara massa air dan radiasi matahari. Air menguap menuju atmosfer sebagai uap tak kasatmata, mengumpul menjadi awan, dan kembali menyirami daratan untuk menopang kehidupan.
 
 > **Poin Utama Bab Ini:**
 > 

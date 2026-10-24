@@ -1,19 +1,19 @@
 ## Visualisasi Alam Surga dan Neraka
 
-Pernahkah kamu membayangkan bagaimana seniman abad ke-8 memvisualisasikan konsep abstrak seperti "pahala" dan "siksa" tanpa bantuan teknologi CGI atau layar digital? Di kaki tersembunyi Borobudur, relief Karmawibhangga melakukan hal itu dengan luar biasa. Jika bagian sebelumnya membahas tentang *tindakan* manusia, maka bagian ini adalah tentang *destinasi* atau hasil akhir dari perjalanan jiwa tersebut.
+Pernahkah kamu membayangkan bagaimana seniman abad ke-8 memvisualisasikan konsep abstrak seperti "pahala" dan "siksa"? Mereka tidak punya bantuan teknologi CGI atau layar digital. Di kaki tersembunyi Borobudur, relief Karmawibhangga melakukan hal itu. Jika bagian sebelumnya membahas tentang *tindakan* manusia, maka bagian ini adalah tentang *destinasi* atau hasil akhir dari perjalanan jiwa tersebut.
 
 Relief ini bukan sekadar dekorasi, melainkan sebuah "peta kosmik" yang menggambarkan berbagai tingkatan alam keberadaan sebagai konsekuensi logis dari hukum sebab-akibat.
 
 ## 1. Konsep Ruang dan Waktu dalam Karmawibhangga
 
-Dalam kosmologi Buddhis, alam semesta dibagi menjadi beberapa tingkatan. Relief Karmawibhangga berfokus pada **Kāmadhātu** (Alam Hasrat), di mana makhluk-makhluk di dalamnya masih terikat oleh keinginan indrawi. Namun, di dalam Kāmadhātu sendiri terdapat spektrum yang sangat lebar: dari penderitaan paling dalam di Neraka hingga kenikmatan surgawi yang luhur.
+Dalam kosmologi Buddhis, alam semesta dibagi menjadi beberapa tingkatan. Relief Karmawibhangga berfokus pada **Kāmadhātu** (Alam Hasrat), di mana makhluk-makhluk di dalamnya masih terikat oleh keinginan indrawi. Namun, di dalam Kāmadhātu sendiri terdapat spektrum yang lebar: dari penderitaan paling dalam di Neraka hingga kenikmatan surgawi.
 
-Para pemahat Borobudur menggunakan teknik visual yang cerdas untuk membedakan alam-alam ini:
+Para pemahat Borobudur menggunakan teknik visual tertentu untuk membedakan alam-alam ini:
 
 - **Alam Rendah (Neraka/Preta):** Digambarkan dengan garis-garis yang tajam, ekspresi wajah yang menderita, dan suasana yang kacau.
 - **Alam Tinggi (Surga/Dewaloka):** Digambarkan dengan komposisi yang tenang, simetris, dan penuh dengan simbol kemakmuran seperti pohon surgawi.
 
-> **Intisari:** Visualisasi ini berfungsi sebagai pengingat bahwa setiap detik kehidupan kita sedang "melukis" pemandangan masa depan kita sendiri.
+> **Intisari:** Visualisasi ini berfungsi sebagai pengingat bahwa perbuatan kita sekarang menentukan keadaan kita di masa depan.
 
 ## 2. Estetika Alam Surga
 
@@ -62,7 +62,7 @@ Bagi mata yang tidak terlatih, panel-panel ini mungkin terlihat serupa. Namun, a
 
 ## 5. Psikologi di Balik Visual
 
-Mengapa leluhur kita repot-repot memahat hal-hal yang mengerikan maupun yang sangat indah di dasar candi?
+Mengapa leluhur kita repot-repot memahat hal-hal yang mengerikan maupun yang indah di dasar candi?
 
 1. **Terapi Visual (Shock Therapy):** Melihat visualisasi neraka bertujuan untuk menciptakan *Samvega*, yaitu perasaan gentar yang sehat yang mendorong seseorang untuk segera berbuat baik.
 2. **Visualisasi Cita-cita:** Melihat visualisasi surga memberikan harapan dan target perilaku sosial yang ideal (kedermawanan, ketenangan).
@@ -76,4 +76,4 @@ Bayangkan seorang peziarah di abad ke-9 berjalan mengelilingi kaki Borobudur. Di
 
 Penting untuk diingat bahwa dalam filosofi yang diusung Karmawibhangga, surga dan neraka **tidak bersifat kekal**. Visualisasi ini menggambarkan kondisi "transisi".
 
-> **Insight Berharga:** Di setiap panel, selalu ada celah untuk perubahan. Seseorang yang berada di alam rendah bisa naik ke alam tinggi setelah hutang karmanya lunas, demikian pula sebaliknya. Relief ini adalah visualisasi dari **ketidakkekalan (Anicca)** yang dibungkus dalam drama kehidupan dan kematian.
+> **Insight Berharga:** Di setiap panel, selalu ada celah untuk perubahan. Seseorang yang berada di alam rendah bisa naik ke alam tinggi setelah hutang karmanya lunas, demikian pula sebaliknya. Relief ini memvisualisasikan **ketidakkekalan (Anicca)** melalui adegan kehidupan dan kematian.

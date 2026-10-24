@@ -31,7 +31,7 @@ Makanan bekerja dari sisi lain. Gim ini mengukur dua hal, *Strength* (tenaga) da
 
 Pada hari badai, panduan resminya bahkan bercanda: tidur saja, dan bayangkan betapa segarnya si petani setelah terlelap 24 jam.
 
-### Kantuk yang Pandai Menipu
+### Kurang Tidur yang Tidak Terasa
 
 Dunia nyata jarang sebaik itu memberi tanda. Dalam percobaan [Van Dongen dan rekan-rekannya (2003)](https://doi.org/10.1093/sleep/26.2.117), 48 orang dewasa sehat mendapat jatah empat, enam, atau delapan jam di tempat tidur setiap malam selama dua minggu. Kemampuan berpikir kelompok empat dan enam jam terus merosot, sementara rasa kantuk yang mereka nilai sendiri hanya naik sedikit setelah hari-hari awal. Pada peserta percobaan itu, penurunan tersebut tampaknya sebagian besar tidak mereka sadari. Perasaan sendiri, alat ukur yang biasa kita andalkan, ternyata bisa meleset.
 

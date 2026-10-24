@@ -10,7 +10,7 @@ Bab-bab sebelumnya sudah menunjukkan bahwa kebiasaan bekerja lewat loop otomatis
 
 Ada **tempat**: kursi tertentu di rumah yang selalu jadi tempat menunda pekerjaan, dapur yang otomatis memancingmu buka kulkas. Ada **waktu**: jam sepuluh malam yang tahu-tahu membuat tanganmu mencari camilan. Ada **orang**: sekadar bertegur sapa dengan teman nongkrong lama yang langsung memantik ajakan jajan. Dan ada **aksi sebelumnya**, pemicu yang paling licin: selesainya satu pekerjaan yang otomatis diikuti buka media sosial, tanpa ada jeda pikir di antaranya. Lapis-lapis ini menumpuk, saling menguatkan, sampai satu kebiasaan punya cadangan berlapis-lapis. Satu pemicu hilang, yang lain tetap siap mengambil alih.
 
-Inilah alasan kenapa tekad sekeras apa pun sering kalah. Kamu sedang melawan bukan satu godaan, melainkan seluruh tata letak hidup yang terkoordinasi rapi memanggilmu kembali.
+Inilah alasan kenapa tekad sekeras apa pun sering kalah. Kamu sedang melawan bukan satu godaan, melainkan banyak pemicu di sekitarmu yang saling menguatkan dan memanggilmu kembali.
 
 ### Pindah kampus, putus rantai
 
@@ -18,9 +18,9 @@ Psikolog Wendy Wood bersama koleganya, Lee Tam dan Melissa Guerrero Witt, menguj
 
 Temuan ini bukan anomali. Ia konsisten dengan tinjauan besar dari Judith Ouellette dan Wendy Wood pada 1998, yang menyimpulkan bahwa perilaku lampau paling kuat memprediksi perilaku masa depan ketika konteks hidup seseorang stabil. Sebaliknya, saat konteks tidak stabil, yang kembali dominan justru niat dan pertimbangan sadar. Dengan kata lain, konteks yang tetap sama adalah bahan bakar kebiasaan, dan pergantian konteks memutus pasokannya.
 
-> Ada ironi yang perlu kamu cerna: hal yang biasanya terasa seperti keterpaksaan, seperti pindah kota demi kerja atau kampus demi kuliah, ternyata jadi salah satu momen paling berharga untuk membentuk ulang diri. Kesempatan itu datang sendiri tanpa diminta, dan kebanyakan orang membiarkannya lewat begitu saja.
+> Ada ironi yang perlu kamu cerna: hal yang biasanya terasa seperti keterpaksaan, seperti pindah kota demi kerja atau kampus demi kuliah, ternyata jadi salah satu momen paling baik untuk mengubah kebiasaan. Kesempatan itu datang sendiri tanpa diminta, dan kebanyakan orang membiarkannya lewat begitu saja.
 
-### Jendela emas yang sempit
+### Peluang singkat ketika hidup berubah
 
 Kalau pergantian konteks melemahkan kebiasaan lama, apakah momen itu bisa dimanfaatkan secara sengaja? Bas Verplanken dan Deborah Roy menguji pertanyaan ini lewat eksperimen lapangan dengan 800 peserta. Mereka memberikan intervensi perubahan perilaku kepada dua kelompok: yang sedang berada dalam momen perubahan hidup, seperti baru pindah rumah, dan yang hidupnya sedang stabil. Hasilnya mendukung apa yang mereka sebut **habit discontinuity hypothesis**: intervensi jauh lebih efektif diberikan saat seseorang sedang mengalami perubahan hidup, karena pola lama sedang terbuka dan belum tergantikan.
 
@@ -30,7 +30,7 @@ Tapi ada catatan penting: jendela itu sempit. Efek positifnya memudar seiring ke
 
 Bagaimana kalau kamu tidak sedang pindah mana-mana? Kabar baiknya, yang penting bukan skala perpindahannya, melainkan terputusnya asosiasi lama. Kamu bisa merekayasa konteks dalam ukuran kecil: atur ulang meja kerja sehingga ponsel tidak lagi berada dalam jangkauan tangan, ganti rute pagi agar kamu tidak lagi lewat gerobak yang selalu memancingmu berhenti, susun ulang urutan kegiatan pagi sehingga aksi yang memicu kebiasaan buruk kehilangan posisinya dalam rantai.
 
-Ini bukan sekadar trik kenyamanan. Kebiasaan adalah respons otomatis yang dipicu konteks, sehingga kontrol terhadapnya berbentuk pengelolaan konteks, bukan pengejaran pikiran yang berusaha menolak godaan setiap jam. Ganti panggungnya, dan naskah lamanya kehilangan tempat untuk dipentaskan. Tuliskan di kepalamu satu kalimat kerja untuk bab ini: konteks stabil adalah teman terbaik kebiasaan lama, dan konteks yang berubah adalah jendela emas untuk kebiasaan baru.
+Ini bukan sekadar trik kenyamanan. Kebiasaan adalah respons otomatis yang dipicu konteks, sehingga kontrol terhadapnya berbentuk pengelolaan konteks, bukan pengejaran pikiran yang berusaha menolak godaan setiap jam. Ganti panggungnya, dan naskah lamanya kehilangan tempat untuk dipentaskan. Tuliskan di kepalamu satu kalimat kerja untuk bab ini: konteks stabil adalah teman terbaik kebiasaan lama, dan konteks yang berubah adalah kesempatan untuk kebiasaan baru.
 
 ## Poin Penting
 
@@ -38,4 +38,4 @@ Ini bukan sekadar trik kenyamanan. Kebiasaan adalah respons otomatis yang dipicu
 - Mahasiswa yang pindah universitas dalam studi Wood, Tam, dan Guerrero Witt (2005) kehilangan daya dorong kebiasaan lama, dan perilaku mereka diarahkan oleh niat.
 - Intervensi perubahan perilaku lebih efektif saat diberikan dalam momen perubahan hidup (Verplanken dan Roy, 2016), dan tanpa perpindahan besar kamu masih bisa merekayasa konteks kecil: mengatur ulang meja, mengganti rute, atau mengubah urutan pagi.
 
-Kalau perpindahan konteks begitu ampuh, apakah kamu harus menunggu keajaiban pindah kota untuk berubah? Ternyata tidak, karena momen mulai juga bisa kamu pilih dan tandai dengan sengaja.
+Kalau perpindahan konteks berpengaruh sebesar itu, apakah kamu harus menunggu pindah kota untuk berubah? Ternyata tidak, karena momen mulai juga bisa kamu pilih dan tandai dengan sengaja.

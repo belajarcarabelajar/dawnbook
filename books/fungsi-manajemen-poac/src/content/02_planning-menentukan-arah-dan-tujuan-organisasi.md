@@ -14,7 +14,7 @@ Jika manajemen diibaratkan sebagai sebuah bangunan, perencanaan adalah **cetak b
 
 ### 2. Visi dan Misi
 
-Setiap rencana besar dimulai dari dua pernyataan fundamental yang menjadi "bintang utara" bagi organisasi.
+Setiap rencana besar dimulai dari dua pernyataan dasar yang menjadi penunjuk arah bagi organisasi.
 
 #### A. Visi (The "Where")
 

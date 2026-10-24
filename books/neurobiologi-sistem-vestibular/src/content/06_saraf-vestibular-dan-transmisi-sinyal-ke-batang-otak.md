@@ -1,6 +1,6 @@
 ## Saraf Vestibular dan Transmisi Sinyal ke Batang Otak
 
-Setelah sel rambut vestibular berhasil mengubah gerakan mekanis menjadi sinyal listrik melalui proses transduksi, tugas berikutnya adalah mengirimkan data tersebut ke pusat integrasi di otak. Jika sel rambut dianalogikan sebagai mikrofon yang menangkap gelombang suara, maka sistem membutuhkan kabel penghantar berkualitas tinggi untuk mengirimkan rekaman sinyal tersebut ke unit pemrosesan pusat tanpa distorsi.
+Setelah sel rambut vestibular mengubah gerakan mekanis menjadi sinyal listrik melalui transduksi, data itu harus dikirim ke pusat integrasi di otak. Jika sel rambut dianalogikan sebagai mikrofon yang menangkap gelombang suara, maka sistem membutuhkan kabel penghantar berkualitas tinggi untuk mengirimkan rekaman sinyal tersebut ke unit pemrosesan pusat tanpa distorsi.
 
 Dalam sistem vestibular, jalur transmisi ini dibentuk oleh **Saraf Vestibular**, yang merupakan bagian vestibular dari Saraf Kranial ke-VIII (*Nervus Vestibulocochlearis*). Bagian ini menghubungkan reseptor perifer di telinga dalam menuju nukleus vestibularis di batang otak.
 
@@ -33,7 +33,7 @@ Saraf vestibular tidak berjalan sebagai satu berkas tunggal yang seragam, melain
 
 **Relevansi Klinis Pembagian Cabang:** Kerusakan selektif pada salah satu cabang (misalnya akibat neuritis vestibularis superior) dapat memicu manifestasi klinis yang spesifik, seperti vertigo pada orientasi gerakan tertentu dengan fungsi organ otolit sakulus atau kanalis posterior yang tetap intak.
 
-### 3. Bahasa Frekuensi dalam Transmisi Bioelektrik
+### 3. Kode Frekuensi Potensial Aksi
 
 Transmisi informasi dari telinga dalam ke otak dikodekan melalui **Frekuensi Tembakan Potensial Aksi** (*Action Potential Firing Rate*).
 
@@ -108,4 +108,4 @@ $$
 - Informasi vestibular dikodekan melalui **modulasi frekuensi tembakan**, bukan melalui perubahan amplitudo potensial aksi.
 - Sistem beroperasi menggunakan **tonus elektrokimiawi dasar** (pelepasan istirahat kontinu), yang menjamin sensitivitas deteksi gerak 360 derajat dalam segala orientasi ruang.
 
-> **Wawasan Penting:** Serat saraf vestibular memiliki kecepatan transmisi dan laju pelepasan kontinu yang luar biasa tinggi. Kecepatan transmisi sub-milidetik ini sangat esensial karena penyesuaian refleksif terhadap gravitasi dan stabilitas visual harus terjadi sebelum persepsi sadar terbentuk di korteks serebri.
+> **Wawasan Penting:** Serat saraf vestibular memiliki kecepatan transmisi dan laju pelepasan kontinu yang tinggi. Kecepatan transmisi sub-milidetik ini esensial karena penyesuaian refleksif terhadap gravitasi dan stabilitas visual harus terjadi sebelum persepsi sadar terbentuk di korteks serebri.

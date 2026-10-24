@@ -1,8 +1,8 @@
 ## Pengantar dan Klasifikasi Struktur Pasar
 
-Selamat datang di modul pertama mengenai **Struktur Pasar dan Persaingan**. Sebelum kita menyelam lebih jauh ke dalam berbagai model ekonomi yang kompleks, kita perlu membangun fondasi yang kokoh tentang apa itu "struktur pasar" dan mengapa hal ini menjadi penentu utama perilaku perusahaan di dunia nyata.
+Sebelum masuk ke model ekonomi, kita perlu paham apa itu "struktur pasar" dan mengapa ia penentu utama perilaku perusahaan di dunia nyata.
 
-Bayangkan kamu masuk ke sebuah pasar tradisional. Di sana, puluhan pedagang menjual cabai dengan kualitas yang hampir sama. Sekarang, bandingkan dengan saat kamu ingin membeli sistem operasi untuk komputer (pilihan kamu sangat terbatas, mungkin hanya antara Windows atau macOS). Mengapa kedua situasi ini sangat berbeda? Itulah yang dipelajari dalam struktur pasar.
+Bayangkan kamu masuk ke sebuah pasar tradisional. Di sana, puluhan pedagang menjual cabai dengan kualitas yang hampir sama. Sekarang, bandingkan dengan saat kamu ingin membeli sistem operasi untuk komputer (pilihan kamu sangat terbatas, mungkin hanya antara Windows atau macOS). Mengapa kedua situasi ini berbeda? Itulah yang dipelajari dalam struktur pasar.
 
 ## Apa Itu Struktur Pasar?
 
@@ -19,11 +19,11 @@ Bayangkan struktur pasar sebagai sebuah jenis olahraga:
 
 ## Faktor-Faktor Penentu Struktur Pasar
 
-Ekonom menggunakan beberapa variabel kunci untuk mengklasifikasikan pasar. Memahami variabel ini adalah kunci untuk membedakan satu jenis pasar dengan yang lainnya.
+Ekonom menggunakan beberapa variabel kunci untuk mengklasifikasikan pasar. Variabel inilah yang membedakan satu jenis pasar dengan yang lainnya.
 
 ### 1. Jumlah Penjual dan Pembeli
 
-Jumlah pelaku pasar sangat menentukan tingkat persaingan.
+Jumlah pelaku pasar menentukan tingkat persaingan.
 
 - Jika jumlahnya sangat banyak $N \to \infty$, tindakan satu individu tidak akan memengaruhi harga pasar.
 - Jika hanya ada satu penjual $N = 1$, ia memiliki kendali penuh.
@@ -39,7 +39,7 @@ Apakah produk yang dijual identik atau unik?
 
 Seberapa mudah perusahaan baru untuk bergabung dalam industri ini?
 
-- Hambatan bisa berupa modal yang besar, lisensi pemerintah, atau teknologi yang sangat rahasia.
+- Hambatan bisa berupa modal yang besar, lisensi pemerintah, atau teknologi yang dirahasiakan.
 - Semakin tinggi hambatan masuk, semakin kecil persaingan yang dihadapi perusahaan lama.
 
 ### 4. Penguasaan Informasi

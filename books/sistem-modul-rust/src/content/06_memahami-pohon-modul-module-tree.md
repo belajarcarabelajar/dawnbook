@@ -1,6 +1,6 @@
 ## Memahami Module Tree
 
-Setelah memahami cara mendefinisikan module dan mengatur visibilitasnya, sekarang mari kita bayangkan module-module tersebut sebagai ruangan-ruangan di dalam sebuah gedung besar. Bagaimana cara kamu memberi tahu orang lain lokasi ruangan tertentu?
+Setelah memahami cara mendefinisikan module dan mengatur visibilitasnya, sekarang bayangkan module-module itu sebagai ruangan di dalam gedung besar. Bagaimana cara kamu memberi tahu orang lain lokasi ruangan tertentu?
 
 Ada dua cara: memberikan alamat lengkap dari pintu utama gedung (**Absolute Path**), atau memberikan petunjuk arah dari tempat kamu berdiri saat ini (**Relative Path**). Di Rust, kita menyebut "petunjuk arah" ini sebagai **Paths**.
 
@@ -65,7 +65,7 @@ mod ruang_makan {
 
 ### Menggunakan super
 
-Kata kunci `super` sangat berguna untuk mengakses item yang berada tepat satu tingkat di atas module saat ini. Ini membantu mengurangi pengulangan jika kamu memindahkan seluruh submodule ke parent module yang berbeda.
+Kata kunci `super` berguna untuk mengakses item yang berada tepat satu tingkat di atas module saat ini. Ini membantu mengurangi pengulangan jika kamu memindahkan seluruh submodule ke parent module yang berbeda.
 
 ```rust
 fn umumkan_pesanan() {}
@@ -111,7 +111,7 @@ Rust secara default menyembunyikan isi module (private). Agar sebuah path bisa d
 - Module harus ditandai `pub`.
 - Item (function, struct) harus ditandai `pub`.
 
-Ketika Absolute Path yang digunakan sangat panjang, seperti `crate::area::bangunan::lantai::ruangan::meja::laci::kunci()`, mengetiknya berulang kali tentu akan sangat melelahkan. Rust menyediakan cara praktis untuk menyederhanakan penulisan ini, yang akan kita bahas di bagian `use` nanti.
+Ketika Absolute Path yang digunakan panjang, seperti `crate::area::bangunan::lantai::ruangan::meja::laci::kunci()`, mengetiknya berulang kali tentu melelahkan. Rust menyediakan cara praktis untuk menyederhanakan penulisan ini, yang akan kita bahas di bagian `use` nanti.
 
 ## Struktur Proyek Web
 
@@ -150,7 +150,7 @@ mod tests {
 - **Absolute Path**: Direkomendasikan untuk proyek besar. Jika kamu melihat `crate::models::user::User`, kamu langsung tahu di mana file tersebut berada tanpa perlu mengecek posisi file saat ini.
 - **Relative Path**: Bagus untuk module kecil yang bersifat mandiri (self-contained) atau saat menulis unit test di dalam file yang sama menggunakan `super`.
 
-## Ringkasan Cepat
+## Alamat Lengkap atau Arah Belokan
 
 | Jenis Path | Dimulai Dengan | Analogi |
 | --- | --- | --- |

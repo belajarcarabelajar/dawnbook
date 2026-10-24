@@ -1,4 +1,4 @@
-## Membangun Trust dan Psychological Safety
+## Membangun Kepercayaan dan Keamanan Psikologis
 
 Bayangkan sebuah tim akrobat sirkus yang sedang melakukan atraksi *trapeze* di ketinggian 20 meter. Mengapa mereka berani melompat dan bersalto di udara tanpa ragu? Jawabannya bukan karena mereka tidak takut jatuh, melainkan karena ada jaring pengaman di bawah mereka. Latihan ribuan jam memang penting, tetapi jaring itulah yang memberi mereka keyakinan untuk mencoba gerakan ekstrem. Jika terjatuh, jaring tersebut siap menangkap mereka dari benturan fatal.
 
@@ -27,7 +27,7 @@ Di mana:
 *   **$I$ (Intimacy)**: Tingkat kedekatan emosional dan rasa aman ketika berbagi informasi dengan kamu.
 *   **$S$ (Self-orientation)**: Orientasi pada diri sendiri (seberapa besar kamu mengutamakan kepentingan pribadi dibanding tim).
 
-Jika orientasi diri ($S$) kamu terlalu dominan, tingkat kepercayaan ($T$) secara otomatis akan merosot tajam, bahkan jika kamu memiliki kompetensi dan keandalan kerja yang luar biasa.
+Jika orientasi diri ($S$) kamu terlalu dominan, tingkat kepercayaan ($T$) akan turun, bahkan jika kamu memiliki kompetensi dan keandalan kerja yang tinggi.
 
 ## 2. Empat Tahapan Psychological Safety
 
@@ -98,7 +98,7 @@ Menghadapi masalah yang sama, sang manajer memilih mengumpulkan tim dan berdisku
 
 Untuk memetakan kondisi tim saat ini, kamu bisa menggunakan beberapa pertanyaan refleksi yang diadaptasi dari instrumen penelitian Amy Edmondson berikut:
 
-1.  Saat kamu berbuat salah di dalam tim, apakah hal tersebut kerap dijadikan senjata untuk menyudutkanmu?
+1.  Saat kamu berbuat salah di dalam tim, apakah hal tersebut kerap dipakai untuk menyudutkanmu?
 2.  Apakah anggota tim merasa bebas untuk membicarakan isu-isu sensitif atau masalah yang sulit diselesaikan?
 3.  Apakah ada kecenderungan anggota tim menolak orang lain hanya karena perbedaan sudut pandang?
 4.  Seberapa aman bagi anggota tim untuk mengambil risiko kerja?

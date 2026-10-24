@@ -1,8 +1,8 @@
 ## Mengapa Pengalaman Setiap Orang Berbeda?
 
-Pernahkah kamu bertanya-tanya mengapa ada orang yang tampak sangat mudah berbaur di negara baru, sementara yang lain merasa sangat tertekan hingga ingin segera pulang?
+Pernahkah kamu bertanya-tanya mengapa sebagian orang tampak mudah berbaur di negara baru, sementara yang lain tertekan hingga ingin segera pulang?
 
-Gegar budaya bukan merupakan fenomena "satu ukuran untuk semua". Intensitas atau berat-ringannya guncangan yang dirasakan seseorang sangat bergantung pada interaksi berbagai variabel. Jika kita membayangkan proses adaptasi sebagai sebuah perjalanan melintasi laut, maka faktor-faktor ini adalah kombinasi antara kekuatan ombak (lingkungan), ketangguhan kapal (kepribadian), dan peta yang dibawa (persiapan).
+Gegar budaya bukan merupakan fenomena "satu ukuran untuk semua". Intensitas atau berat-ringannya guncangan yang dirasakan seseorang bergantung pada interaksi berbagai variabel. Jika kita membayangkan proses adaptasi sebagai sebuah perjalanan melintasi laut, maka faktor-faktor ini adalah kombinasi antara kekuatan ombak (lingkungan), ketangguhan kapal (kepribadian), dan peta yang dibawa (persiapan).
 
 Secara matematis, kita bisa menggambarkan intensitas gegar budaya ($I$) sebagai fungsi dari berbagai variabel:
 
@@ -28,7 +28,7 @@ Di mana:
 - **Agama dan Nilai:** Perbedaan pandangan moral, etika kerja, dan tabu sosial.
 - **Iklim dan Geografis:** Perpindahan dari daerah tropis ke negara dengan empat musim yang ekstrem bisa memicu stres fisik yang berat.
 
-> **Analogi:** Bayangkan kamu biasa mengendarai sepeda motor di jalanan pedesaan yang tenang. Pindah ke budaya dengan "jarak dekat" seperti pindah ke kota kecil tetangga. Namun, pindah ke budaya dengan "jarak jauh" seperti tiba-tiba harus mengemudikan pesawat jet di tengah badai tanpa instruksi yang jelas.
+> **Analogi:** Bayangkan kamu biasa mengendarai sepeda motor di jalanan pedesaan yang tenang. Pindah ke budaya dengan "jarak dekat" seperti pindah ke kota kecil tetangga. Namun, pindah ke budaya dengan "jarak jauh" seperti tiba-tiba harus mengemudikan pesawat jet tanpa instruksi yang jelas.
 
 ## 2. Karakteristik Kepribadian (The Human Element)
 
@@ -84,6 +84,6 @@ Dengan profil seperti ini, intensitas gegar budaya Andi diperkirakan tinggi. Rek
 
 Intensitas gegar budaya bukanlah tanda kelemahan karakter. Itu adalah hasil interaksi antara siapa kamu, dari mana kamu berasal, dan ke mana kamu pergi.
 
-> **Insight:** Memahami faktor-faktor ini memungkinkan kita untuk melakukan intervensi dini. Jika kamu tahu kamu akan pindah ke budaya dengan jarak yang jauh ($D$ tinggi) dan kamu memiliki toleransi rendah terhadap ketidakpastian ($P$ rendah), maka kamu harus melipatgandakan upaya dalam persiapan dan pencarian dukungan sosial ($E$ dan $S$) untuk menyeimbangkan keadaan.
+> **Insight:** Memahami faktor-faktor ini memungkinkan kita untuk melakukan intervensi dini. Jika kamu tahu kamu akan pindah ke budaya dengan jarak yang jauh ($D$ tinggi) dan kamu memiliki toleransi rendah terhadap ketidakpastian ($P$ rendah), maka kamu perlu menambah upaya dalam persiapan dan pencarian dukungan sosial ($E$ dan $S$) untuk menyeimbangkan keadaan.
 
 *Tugas Mandiri: Coba petakan dirimu. Jika kamu harus pindah ke negara yang paling berbeda dengan budayamu saat ini, faktor mana yang menurutmu akan menjadi tantangan terbesar bagimu?*

@@ -1,6 +1,6 @@
 ## Hambatan Masuk dan Keluar Pasar
 
-Pernahkah kamu bertanya-tanya mengapa membuka warung kopi kecil di pinggir jalan terasa mudah, tetapi membuat perusahaan baru untuk menyaingi raksasa penerbangan seperti Boeing atau Airbus hampir mustahil?
+Membuka warung kopi kecil di pinggir jalan terasa mudah, tetapi membuat perusahaan baru untuk menyaingi Boeing atau Airbus hampir mustahil. Pernahkah kamu bertanya-tanya mengapa perbedaannya sebesar itu?
 
 Perbedaan ini berakar pada **Hambatan Masuk dan Keluar (Barriers to Entry and Exit)**. Dalam ekonomi, hambatan ini bertindak seperti filter yang menentukan seberapa ketat persaingan dalam sebuah industri.
 
@@ -52,7 +52,7 @@ Pemerintah juga dapat membatasi jumlah pemain lewat aturan resmi:
 
 ### E. Diferensiasi Produk dan Loyalitas Merek
 
-Pelanggan sering kali memiliki loyalitas emosional pada merek yang sudah dikenal. Perusahaan ponsel baru, misalnya, harus mengeluarkan biaya pemasaran raksasa hanya untuk membujuk pengguna setia Apple atau Samsung agar mau beralih ke produk mereka.
+Pelanggan sering kali memiliki loyalitas emosional pada merek yang sudah dikenal. Perusahaan ponsel baru, misalnya, harus mengeluarkan biaya pemasaran yang besar hanya untuk membujuk pengguna setia Apple atau Samsung agar mau beralih ke produk mereka.
 
 ## 3. Hambatan Keluar
 
@@ -68,7 +68,7 @@ Banyak orang mengira keluar dari pasar itu mudah (tinggal tutup toko). Namun dal
 Guna memperjelas gambaran, bayangkan dua skenario berikut:
 
 - **Pasar Persaingan Sempurna** ibarat **Pasar Tradisional**: Siapa pun bisa menggelar dagangan dengan modal kecil (hambatan masuk rendah) dan bebas pergi kapan saja bila jualan tidak laku (hambatan keluar rendah).
-- **Pasar Berhambatan Tinggi** ibarat **Laboratorium Nuklir**: Kamu membutuhkan izin khusus, investasi raksasa, serta sertifikasi keahlian untuk bisa masuk (hambatan masuk tinggi). Saat ingin keluar pun, kamu tidak bisa asal menutup pintu karena pembersihan limbah radioaktif memerlukan biaya sangat besar (hambatan keluar tinggi).
+- **Pasar Berhambatan Tinggi** ibarat **Laboratorium Nuklir**: Kamu membutuhkan izin khusus, investasi besar, serta sertifikasi keahlian untuk bisa masuk (hambatan masuk tinggi). Saat ingin keluar pun, kamu tidak bisa asal menutup pintu karena pembersihan limbah radioaktif memerlukan biaya sangat besar (hambatan keluar tinggi).
 
 ## 5. Hambatan Pasar pada Industri Farmasi
 
@@ -81,11 +81,11 @@ Mari kita lihat bagaimana hambatan ini bekerja dalam satu industri nyata:
 | **Regulasi (Pemerintah)** | Wajib melewati berbagai tahap uji klinis dari lembaga pengawas seperti BPOM atau FDA. |
 | **Ekonomi Skala (Biaya)** | Perusahaan besar seperti Pfizer memiliki saluran distribusi global dengan biaya per unit jauh lebih murah dibanding laboratorium kecil. |
 
-**Skenario:** Jika sebuah perusahaan kecil ingin menyaingi obat yang sudah terkenal, mereka harus mengalokasikan biaya riset tinggi, menunggu paten habis, melewati uji klinis yang rumit, dan mendobrak kepercayaan konsumen terhadap merek lama. Alasan inilah yang membuat harga obat sering kali bertahan tinggi dalam durasi yang panjang.
+**Skenario:** Jika sebuah perusahaan kecil ingin menyaingi obat yang sudah terkenal, mereka harus mengalokasikan biaya riset tinggi, menunggu paten habis, melewati uji klinis yang rumit, dan menggeser kepercayaan konsumen terhadap merek lama. Alasan inilah yang membuat harga obat sering kali bertahan tinggi dalam durasi yang panjang.
 
 ## 6. Ringkasan Hubungan Hambatan dengan Struktur Pasar
 
 1. **Hambatan Rendah:** Mendorong terciptanya **Persaingan Sempurna** atau **Persaingan Monopolistik**. Laba ekonomis cenderung menjadi nol dalam jangka panjang karena pesaing mudah masuk.
-2. **Hambatan Tinggi:** Mendorong terciptanya **Oligopoli** atau **Monopoli**. Perusahaan dapat mempertahankan laba di atas normal dalam jangka panjang karena benteng industri cukup kuat untuk menahan pendatang baru.
+2. **Hambatan Tinggi:** Mendorong terciptanya **Oligopoli** atau **Monopoli**. Perusahaan dapat mempertahankan laba di atas normal dalam jangka panjang karena hambatan di industri itu cukup tinggi untuk menahan pendatang baru.
 
 > **Pesan Utama:** Hambatan masuk melindungi margin laba sekaligus mendorong efisiensi dan inovasi. Tanpa garansi paten (hambatan masuk legal), perusahaan tentu enggan menginvestasikan dana besar demi meriset penemuan medis baru.

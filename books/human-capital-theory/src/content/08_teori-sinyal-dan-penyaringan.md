@@ -1,4 +1,4 @@
-# Kritik Teori Sinyal dan Penyaringan (Signaling vs Screening)
+## Kritik Teori Sinyal dan Penyaringan (Signaling vs Screening)
 
 Bayangkan kamu adalah seorang manajer HR yang harus memilih satu dari 500 pelamar kerja untuk posisi analis data. Kamu tidak punya waktu untuk mengamati kinerja mereka selama satu bulan penuh sebelum memutuskan. Apa yang kamu lihat pertama kali? **Ijazah.**
 
@@ -36,7 +36,7 @@ C(e)_{\text{L}} > C(e)_{\text{H}}
 $$
 </div>
 
-Di mana $e$ adalah tingkat pendidikan, dan $C(e)$ melambangkan fungsi biaya perolehan pendidikan. "Biaya" di sini bukan hanya uang sekolah, melainkan juga **biaya psikis, usaha, dan waktu**. Bagi seseorang yang kurang berbakat, bergadang untuk belajar kalkulus jauh lebih menyiksa dan mahal secara peluang dibandingkan bagi seseorang yang berbakat.
+Di mana $e$ adalah tingkat pendidikan, dan $C(e)$ melambangkan fungsi biaya perolehan pendidikan. "Biaya" di sini bukan hanya uang sekolah, melainkan juga **biaya psikis, usaha, dan waktu**. Bagi seseorang yang kurang berbakat, bergadang untuk belajar kalkulus jauh lebih berat dan mahal secara peluang dibandingkan bagi seseorang yang berbakat.
 
 **Kesimpulan Logis:** Pemberi kerja menyadari bahwa hanya individu dari kelompok $P\_{\text{H}}$ yang rasional secara ekonomi untuk menyelesaikan pendidikan tinggi. Oleh karena itu, ijazah menjadi filter yang efisien di pasar tenaga kerja yang mengalami ketimpangan informasi (*information asymmetry*).
 
@@ -55,7 +55,7 @@ Meski sering digunakan secara bergantian, keduanya memiliki sudut pandang dan ak
 - **Signaling (Pemberian Sinyal):** Berfokus pada tindakan **individu (pelamar)**. Individu berinvestasi dalam pendidikan untuk memberi sinyal kualitas mereka kepada pasar kerja demi mengatasi *information asymmetry*.
 - **Screening (Penyaringan):** Berfokus pada tindakan **perusahaan (pemberi kerja)**. Perusahaan menggunakan kriteria pendidikan sebagai alat untuk menyaring dan mengelompokkan pelamar ke dalam kategori produktivitas tanpa harus melakukan tes individual yang mahal.
 
-### 6. Aplikasi Dunia Nyata dan Skenario
+### 6. Sinyal Ijazah di Pasar Kerja
 
 #### Rekrutmen Perusahaan Konsultan Manajemen
 

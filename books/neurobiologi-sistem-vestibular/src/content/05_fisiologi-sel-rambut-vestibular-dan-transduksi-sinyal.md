@@ -1,8 +1,8 @@
 ## Fisiologi Sel Rambut Vestibular dan Transduksi Sinyal
 
-Bagaimana otak dapat mengetahui secara presisi ke mana arah kepala miring, bahkan saat mata tertutup? Jawabannya terletak pada keajaiban mikroskopis yang disebut **sel rambut vestibular**. Sel-sel ini merupakan transduser biologis, yaitu perangkat yang mengubah satu bentuk energi mekanik menjadi bentuk lain berupa sinyal listrik.
+Bagaimana otak dapat mengetahui secara presisi ke mana arah kepala miring, bahkan saat mata tertutup? Jawabannya terletak pada sel mikroskopis yang disebut **sel rambut vestibular**. Sel-sel ini merupakan transduser biologis, yaitu perangkat yang mengubah satu bentuk energi mekanik menjadi bentuk lain berupa sinyal listrik.
 
-Dalam bagian ini, kita akan menyelami mekanisme tingkat seluler tentang bagaimana gerakan fisik yang halus pada rambut-rambut kecil ini memicu rentetan aktivitas kimia dan listrik yang memungkinkan tubuh tetap tegak dan seimbang.
+Dalam bagian ini, kita akan membahas mekanisme tingkat seluler tentang bagaimana gerakan fisik yang halus pada rambut-rambut kecil ini memicu rentetan aktivitas kimia dan listrik yang memungkinkan tubuh tetap tegak dan seimbang.
 
 ### 1. Arsitektur Sel Rambut
 
@@ -16,7 +16,7 @@ Sel rambut vestibular memiliki struktur yang sangat terspesialisasi di bagian ap
 
 ### 2. Mekanotransduksi
 
-Proses pengubahan energi mekanik menjadi sinyal listrik disebut **mekanotransduksi**. Keunikan sistem vestibular dan pendengaran terletak pada kecepatannya yang luar biasa karena tidak bergantung pada kurir kimiawi sekunder yang lambat, melainkan pada pembukaan gerbang saluran ion secara fisik langsung.
+Proses pengubahan energi mekanik menjadi sinyal listrik disebut **mekanotransduksi**. Keunikan sistem vestibular dan pendengaran terletak pada kecepatannya yang tinggi karena tidak bergantung pada kurir kimiawi sekunder yang lambat, melainkan pada pembukaan gerbang saluran ion secara fisik langsung.
 
 #### Defleksi dan Pembukaan Kanal
 

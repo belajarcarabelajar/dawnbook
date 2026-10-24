@@ -1,8 +1,8 @@
 ## Strategi Pengendalian Topik Melalui Pertanyaan Guru
 
-Dalam wacana pedagogi di sekolah dasar, pertanyaan guru memegang peranan utama sebagai alat pengemudi alur pembicaraan di kelas. Ketika mengajar, guru kerap melontarkan pertanyaan pada awal gerakan wacana untuk membuka topik baru, membelokkan arah pembahasan, atau menguji pemahaman siswa. Cara ini menjadi mekanisme pengendalian topik paling dominan yang menentukan kapan siswa boleh berbicara dan materi apa yang harus dibahas.
+Dalam wacana pedagogi di sekolah dasar, pertanyaan guru memegang peranan utama sebagai alat pengarah alur pembicaraan di kelas. Ketika mengajar, guru kerap melontarkan pertanyaan pada awal gerakan wacana untuk membuka topik baru, membelokkan arah pembahasan, atau menguji pemahaman siswa. Cara ini menjadi mekanisme pengendalian topik paling dominan yang menentukan kapan siswa boleh berbicara dan materi apa yang harus dibahas.
 
-Namun, pengajuan pertanyaan oleh guru tidak selalu menghasilkan tanggapan cepat dari siswa. Terdapat dinamika menarik antara jenis pertanyaan yang diajukan dengan kesiapan siswa dalam memberikan jawaban.
+Namun, pengajuan pertanyaan oleh guru tidak selalu menghasilkan tanggapan cepat dari siswa. Terdapat dinamika antara jenis pertanyaan yang diajukan dengan kesiapan siswa dalam memberikan jawaban.
 
 ---
 
@@ -17,7 +17,7 @@ Tabel berikut menunjukkan distribusi frekuensi respons siswa terhadap strategi p
 | **Langsung Direspons** | 28% | 11% | Siswa siap dan langsung mengambil giliran bicara. |
 | **Tidak Langsung Direspons** | 31% | 51% | Perlu pengulangan pertanyaan atau pancingan tambahan. |
 
-Data di atas memperlihatkan fenomena menarik. Pada Teks 1, misalnya, pertanyaan guru yang tidak langsung direspons siswa mencapai 51%, sedangkan yang langsung direspons hanya 11%. Secara keseluruhan, pertanyaan guru yang tidak langsung direspons (31%) lebih banyak daripada yang langsung direspons (28%).
+Pada Teks 1, misalnya, pertanyaan guru yang tidak langsung direspons siswa mencapai 51%, sedangkan yang langsung direspons hanya 11%. Secara keseluruhan, pertanyaan guru yang tidak langsung direspons (31%) lebih banyak daripada yang langsung direspons (28%).
 
 Kondisi ini menegaskan adanya pola dominasi guru di dalam kelas. Siswa cenderung memosisikan diri sebagai penerima pasif yang baru akan bersuara jika pemicunya adalah pertanyaan spesifik dari guru.
 
@@ -48,7 +48,7 @@ Di akhir pertukaran (gerakan 102 dan 103), guru memberikan konfirmasi dalam dua 
 
 ### Refleksi Pedagogis untuk Pendidik
 
-Tingginya angka pertanyaan yang tidak direspons secara langsung memberikan pelajaran berharga bagi praktik mengajar di sekolah dasar. Jika kamu mengendalikan seluruh topik melalui pertanyaan tertutup yang kaku, siswa akan merasa takut salah dan memilih diam.
+Tingginya angka pertanyaan yang tidak direspons secara langsung memberikan pelajaran bagi praktik mengajar di sekolah dasar. Jika kamu mengendalikan seluruh topik melalui pertanyaan tertutup yang kaku, siswa akan merasa takut salah dan memilih diam.
 
 > **Catatan Strategi Pertanyaan Guru:**
 > Pengendalian topik yang efektif bukan berarti mendominasi percakapan dengan pertanyaan beruntun. Sebagai pendidik, kamu perlu memberikan waktu tunggu (*wait time*) yang cukup agar siswa dapat memproses pertanyaan dan berani menyampaikan tanggapan tanpa merasa diinterogasi.
@@ -61,7 +61,7 @@ Beberapa langkah yang dapat kamu terapkan untuk memperbaiki dinamika pertanyaan 
 
 ---
 
-### Rangkuman & Pertanyaan Refleksi 5
+### Ketika Guru Bertanya, Siapa yang Bicara?
 
 1. **Refleksi Utama**: Apakah bentuk interaksi yang dijelaskan pada bab ini mencerminkan dinamika kelas yang inklusif atau didominasi oleh pendidik?
 2. **Penerapan Praktis**: Bagaimana strategi komunikasi dalam bab ini dapat disesuaikan untuk meningkatkan partisipasi aktif siswa?

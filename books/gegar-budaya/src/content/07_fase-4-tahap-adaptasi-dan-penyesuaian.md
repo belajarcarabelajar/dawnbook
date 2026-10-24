@@ -1,6 +1,6 @@
 ## Tahap Adaptasi dan Penyesuaian (The Adjustment Phase)
 
-Setelah melewati badai emosional di tahap krisis dan mulai mendaki perlahan di tahap pemulihan, kamu akhirnya sampai pada sebuah dataran tinggi yang stabil: **Tahap Adaptasi dan Penyesuaian**. Jika tahap-tahap sebelumnya terasa seperti perjuangan untuk bertahan hidup, fase ini adalah momen ketika kamu mulai benar-benar "hidup" dan menikmati keberadaan kamu di lingkungan yang baru.
+Setelah melewati masa sulit di tahap krisis dan mulai pulih perlahan di tahap pemulihan, kamu akhirnya sampai pada kondisi yang stabil. Kondisi itu bernama **Tahap Adaptasi dan Penyesuaian**. Jika tahap-tahap sebelumnya terasa seperti usaha untuk sekadar bertahan, fase ini adalah momen ketika kamu mulai menikmati keberadaan kamu di lingkungan yang baru.
 
 Dalam fase ini, keanehan budaya lokal tidak lagi terasa mengancam atau menjengkelkan, melainkan menjadi bagian dari rutinitas yang dapat diprediksi.
 
@@ -13,7 +13,7 @@ Inti dari fase keempat ini adalah pencapaian **Keseimbangan Fungsional**. Ini ti
 Bayangkan kamu terbiasa menyetir di sisi kiri jalan, lalu pindah ke negara yang menyetir di sisi kanan.
 
 - **Tahap Krisis:** Kamu ketakutan, sering salah masuk jalur, dan berkali-kali hampir kecelakaan.
-- **Tahap Pemulihan:** Kamu bisa menyetir, tapi otak kamu bekerja sangat keras. Kamu harus terus mengingatkan diri: *"Kanan, kanan, tetap di kanan."*
+- **Tahap Pemulihan:** Kamu bisa menyetir, tapi otak kamu bekerja keras. Kamu harus terus mengingatkan diri: *"Kanan, kanan, tetap di kanan."*
 - **Tahap Adaptasi:** Kamu menyetir sambil mendengarkan musik atau berbincang. Tangan dan kaki kamu bergerak secara otomatis. Kamu tidak lagi "berpikir" tentang jalurnya; kamu hanya "mengemudi".
 
 > **Insight:** Adaptasi bukanlah tentang hilangnya perbedaan, melainkan tentang hilangnya beban emosional yang menyertai perbedaan tersebut.
@@ -25,7 +25,7 @@ Pada titik ini, individu biasanya menunjukkan perubahan perilaku dan mental yang
 1. **Penerimaan Terhadap Paradoks:** Kamu mulai memahami bahwa budaya lokal memiliki logika tersendiri. Kamu mungkin tetap tidak setuju dengan nilai tertentu, tetapi kamu bisa menerimanya sebagai bagian dari realitas tanpa merasa marah.
 2. **Kemampuan Navigasi Sosial:** Kamu mengerti nuansa bahasa (slang, sarkasme, atau eufemisme) dan norma tidak tertulis. Kamu tahu kapan harus tawar-menawar, kapan harus mengantre, dan bagaimana cara menyapa orang dengan tepat sesuai konteksnya.
 3. **Kembalinya Rasa Humor:** Salah satu indikator terkuat adaptasi adalah kemampuan untuk menertawakan diri sendiri atas kesalahan budaya yang pernah dibuat. Humor memerlukan pemahaman konteks yang dalam; jika kamu bisa bercanda dengan orang lokal, kamu telah beradaptasi.
-4. **Stabilitas Emosional:** Fluktuasi suasana hati yang ekstrem berkurang. Tingkat kecemasan menurun drastis karena lingkungan baru bukan lagi sebuah "teka-teki" yang harus dipecahkan setiap hari.
+4. **Stabilitas Emosional:** Fluktuasi suasana hati yang ekstrem berkurang. Tingkat kecemasan menurun karena lingkungan baru bukan lagi sebuah "teka-teki" yang harus dipecahkan setiap hari.
 
 ## Efisiensi Energi dalam Adaptasi
 
@@ -54,7 +54,7 @@ Mencapai fase ini adalah prestasi besar, namun perawatan mental tetap diperlukan
 - **Teruslah Menjadi Pelajar:** Budaya bersifat dinamis. Tetaplah terbuka terhadap perubahan-perubahan kecil di lingkungan sekitar.
 - **Jaga Jaringan Sosial Campuran:** Memiliki teman lokal membantu integrasi, sementara memiliki teman sesama ekspatriat memberikan ruang untuk berbagi perasaan yang hanya dipahami oleh orang asing.
 - **Refleksi Diri:** Secara berkala, tinjau kembali seberapa jauh kamu telah berkembang.
-	- *Apa hal yang dulu membuat kamu stres di negara ini, tapi sekarang terasa sangat biasa saja bagi kamu?*
+	- *Apa hal yang dulu membuat kamu stres di negara ini, tapi sekarang terasa biasa saja bagi kamu?*
 
 ## Adaptasi vs. Asimilasi
 
@@ -77,4 +77,4 @@ Coba jawab pertanyaan berikut untuk mengetahui posisi kamu:
 3. Apakah kamu memiliki rutinitas yang stabil dan lingkaran pertemanan yang dapat diandalkan?
 4. Apakah bahasa lokal (atau dialek lokal) mulai terdengar seperti "suara latar" dan bukan lagi "kebisingan" yang memusingkan?
 
-Jika mayoritas jawaban kamu adalah **Ya**, selamat! Kamu telah berhasil menaklukkan salah satu tantangan psikologis terbesar dalam mobilitas global. Kamu bukan lagi pengunjung biasa; kamu adalah bagian dari ekosistem tersebut.
+Jika mayoritas jawaban kamu adalah **Ya**, selamat! Kamu telah berhasil melewati tantangan psikologis yang besar. Kamu bukan lagi pengunjung biasa; kamu sudah menjadi bagian dari lingkungan tersebut.

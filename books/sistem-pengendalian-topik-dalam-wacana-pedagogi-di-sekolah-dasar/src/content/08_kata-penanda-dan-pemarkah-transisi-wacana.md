@@ -76,7 +76,7 @@ Ketika guru ingin mencairkan suasana atau mengalihkan sesi teori ke kegiatan rel
 > **Siswa & Guru:** (Bernyanyi bersama)  
 > **Guru:** "Iya, bagus ya."
 
-Kata *kalau begitu* menjadi simpul yang menghubungkan evaluasi cerita pendek dengan aktivitas bernyanyi bersama, sehingga perubahan dinamika kelas terasa halus dan alami.
+Kata *kalau begitu* menghubungkan evaluasi cerita pendek dengan aktivitas bernyanyi bersama, sehingga perubahan dinamika kelas terasa halus dan alami.
 
 ---
 
@@ -104,14 +104,14 @@ Pemahaman terhadap pemarkah wacana memberikan wawasan penting bagi kamu yang ing
    Penggunaan kata penanda yang konsisten membantu siswa mengidentifikasi kapan sebuah topik dimulai, dikembangkan, dan diakhiri. Hal ini menurunkan tingkat kebingungan siswa dalam mengikuti alur pelajaran.
 
 2. **Pengaturan Ritme Belajar**  
-   Pemarkah seperti *eh...* atau *baik* memberi jeda napas dalam interaksi, memungkinkan siswa memproses informasi sebelum menerima perintah berikutnya.
+   Pemarkah seperti *eh...* atau *baik* memberi jeda dalam interaksi, memungkinkan siswa memproses informasi sebelum menerima perintah berikutnya.
 
 3. **Dominasi dan Kontrol Kognitif Guru**  
    Hampir seluruh pemarkah wacana transisi dikuasai oleh guru. Hal ini menunjukkan bahwa guru memegang kendali penuh atas kapan topik harus berganti dan ke mana arah pembicaraan dikembangkan.
 
 ---
 
-### Rangkuman & Pertanyaan Refleksi 8
+### Kata-Kata Penanda Perpindahan Materi
 
 Pemarkah wacana seperti *ya*, *nah*, *jadi*, *coba*, *sekarang*, *baik*, *eh*, *kemudian*, dan *kalau begitu* merupakan instrumen verbal penting yang digunakan guru untuk memandu transisi topik dalam wacana kelas. Melalui pemarkah ini, guru tidak hanya mengendalikan batasan antar-topik, tetapi juga mengarahkan perhatian siswa, mengelola ritme berpikir, dan menghubungkan satu konsep dengan konsep lainnya.
 

@@ -42,7 +42,7 @@ Studi kedua dalam penelitian yang sama menemukan bahwa alasan yang berkaitan den
 
 Kekhawatiran pertama terdengar mirip dengan temuan Joel dan rekan tentang kepedulian pada perasaan orang lain. Penolak tidak hanya memikirkan dirinya sendiri, tetapi juga orang di depannya dan hubungan yang mungkin masih harus dijalani, misalnya karena kalian akan terus bertemu di kelas yang sama. Bab 7 nanti menyinggung soal alasan ini secara singkat.
 
-### Mengenali Tarikan yang Membuatmu Ingin Mengiyakan
+### Mengenali Rasa yang Membuatmu Ingin Mengiyakan
 
 Dari ketiga penelitian tadi, ada pola yang bisa kamu pegang. Rasa bersalah, rasa terganggu oleh usaha gigih, dan keinginan untuk tidak menyakiti muncul dalam penelitian-penelitian ini. Penelitian-penelitian ini tidak mengatakan bahwa perasaan itu tanda kamu sudah berbuat salah. Dalam pandangan buku ini, tidak membalas perasaan seseorang bukan kesalahan moral.
 

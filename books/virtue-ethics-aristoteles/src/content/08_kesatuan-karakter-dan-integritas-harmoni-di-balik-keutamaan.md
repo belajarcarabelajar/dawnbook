@@ -1,10 +1,10 @@
 ## Kesatuan Karakter dan Integritas
 
-Bayangkan sebuah orkestra simfoni. Kamu mungkin memiliki seorang pemain biola yang luar biasa, seorang peniup oboe yang jenius, dan seorang perkusionis yang andal. Namun, jika masing-masing dari mereka bermain sesuai kehendak hati tanpa mempedulikan satu sama lain, yang dihasilkan adalah kebisingan.
+Bayangkan sebuah orkestra simfoni. Kamu mungkin memiliki seorang pemain biola yang mahir, seorang peniup oboe yang jenius, dan seorang perkusionis yang andal. Namun, jika masing-masing dari mereka bermain sesuai kehendak hati tanpa mempedulikan satu sama lain, yang dihasilkan adalah kebisingan.
 
 Begitu pula dengan karakter manusia dalam **Etika Kebajikan**. Kebajikan-kebajikan seperti keberanian, kejujuran, dan keadilan tidak bisa berdiri sendiri sebagai unit-unit yang terpisah. Mereka harus bekerja sama dalam sebuah harmoni yang utuh. Inilah yang kita sebut sebagai **Kesatuan Karakter** dan **Integritas**.
 
-## 1. Keutamaan Bukanlah Pulau Terpencil
+## 1. Kesatuan Kebajikan
 
 Dalam pandangan Aristotelian, keutamaan-keutamaan itu saling mengimplikasikan satu sama lain. Seseorang tidak bisa benar-benar memiliki satu kebajikan besar tanpa memiliki kebajikan lainnya. Konsep ini sering disebut sebagai *Unity of the Virtues* (Kesatuan Kebajikan).
 
@@ -21,7 +21,7 @@ Dalam contoh di atas, "keberanian" tanpa "kebijaksanaan" merupakan sebuah cacat 
 2. **Tujuan yang Sama:** Semua kebajikan diarahkan pada tujuan akhir yang sama, yaitu *Eudaimonia* (kebahagiaan atau kesejahteraan yang bermakna).
 3. **Akar yang Sama:** Semua kebajikan moral bersumber pada satu kemampuan pusat, yaitu kemampuan untuk membuat pilihan rasional yang baik.
 
-## 2. Integritas sebagai Perekat Karakter
+## 2. Arti Integritas
 
 Kata **Integritas** berasal dari bahasa Latin *integer*, yang berarti "utuh", "lengkap", atau "tidak terbagi". Dalam konteks karakter, integritas adalah kualitas yang memastikan bahwa seluruh aspek diri kita (pikiran, perkataan, dan tindakan) selaras dengan nilai-nilai moral yang kita anut.
 
@@ -51,7 +51,7 @@ Dalam kehidupan pribadi, seseorang yang jujur di tempat kerja tetapi tidak setia
 
 Integritas tidak berarti menjadi sempurna tanpa kesalahan. Integritas berarti memiliki komitmen untuk terus menyelaraskan bagian-bagian diri kita yang terpecah menuju satu kesatuan tujuan moral yang utuh.
 
-## Ringkasan Visual
+## Rumus Simbolis Eudaimonia
 
 Untuk mencapai $E$ (Eudaimonia), kita memerlukan $\sum V$ (Jumlah dari seluruh Kebajikan) yang terikat oleh $I$ (Integritas) dan dipandu oleh $P$ (Phronesis).
 

@@ -1,12 +1,12 @@
 ## Mengembangkan Keterampilan Esensial untuk Pembelajaran Multidisiplin
 
-Pembelajaran multidisiplin tidak cukup hanya dengan menguasai beberapa bidang ilmu. Proses ini membutuhkan seperangkat keterampilan dasar yang memungkinkan seseorang untuk menavigasi, berkolaborasi, dan berinovasi di persimpangan berbagai disiplin secara efektif. Keterampilan-keterampilan ini menjadi fondasi penting dalam memahami kerumitan dunia nyata serta merumuskan solusi yang utuh. Bagian ini akan mengupas tuntas keterampilan kunci yang harus dikembangkan untuk unggul di lingkungan pembelajaran multidisiplin.
+Pembelajaran multidisiplin tidak cukup hanya dengan menguasai beberapa bidang ilmu. Proses ini membutuhkan seperangkat keterampilan dasar yang memungkinkan seseorang untuk menavigasi, berkolaborasi, dan berinovasi di persimpangan berbagai disiplin secara efektif. Keterampilan-keterampilan ini menjadi fondasi penting dalam memahami kerumitan dunia nyata serta merumuskan solusi yang utuh. Bagian ini membahas keterampilan utama yang harus dikembangkan untuk unggul di lingkungan pembelajaran multidisiplin.
 
 ### 1. Pengembangan Pemikiran Kritis
 
-Pemikiran kritis adalah kemampuan untuk menganalisis informasi secara objektif, mengenali bias, menilai argumen, dan merumuskan kesimpulan yang berdasar. Dalam pembelajaran multidisiplin, keterampilan ini sangat penting karena kamu akan berhadapan dengan beragam kerangka berpikir, metodologi, dan asumsi yang berbeda dari setiap cabang ilmu.
+Pemikiran kritis adalah kemampuan untuk menganalisis informasi secara objektif, mengenali bias, menilai argumen, dan merumuskan kesimpulan yang berdasar. Dalam pembelajaran multidisiplin, keterampilan ini penting karena kamu akan berhadapan dengan beragam kerangka berpikir, metodologi, dan asumsi yang berbeda dari setiap cabang ilmu.
 
-Mengapa pemikiran kritis sangat dibutuhkan dalam pembelajaran multidisiplin? Pertama, kemampuan ini membantumu menyaring dan menilai keabsahan informasi dari berbagai sumber yang memiliki standar pembuktian berbeda. Kedua, kamu bisa mengenali bias disiplin ilmu tertentu atau asumsi tersembunyi di balik suatu pendekatan, sehingga sudut pandangmu menjadi lebih objektif. Selain itu, pemecahan masalah secara menyeluruh hanya bisa terwujud jika kamu mampu melihat persoalan tanpa terjebak pada satu cara pandang saja. Pada akhirnya, semua keterampilan ini menjadi fondasi untuk menyatukan potongan-potongan informasi yang berserak menjadi sebuah pemahaman utuh yang baru.
+Mengapa pemikiran kritis dibutuhkan dalam pembelajaran multidisiplin? Pertama, kemampuan ini membantumu menyaring dan menilai keabsahan informasi dari berbagai sumber yang memiliki standar pembuktian berbeda. Kedua, kamu bisa mengenali bias disiplin ilmu tertentu atau asumsi tersembunyi di balik suatu pendekatan, sehingga sudut pandangmu menjadi lebih objektif. Selain itu, pemecahan masalah secara menyeluruh hanya bisa terwujud jika kamu mampu melihat persoalan tanpa terjebak pada satu cara pandang saja. Pada akhirnya, semua keterampilan ini menjadi fondasi untuk menyatukan potongan-potongan informasi yang berserak menjadi sebuah pemahaman utuh yang baru.
 
 Untuk mengasah pemikiran kritis, ada beberapa langkah praktis yang bisa kamu terapkan:
 
@@ -20,13 +20,13 @@ Untuk mengasah pemikiran kritis, ada beberapa langkah praktis yang bisa kamu ter
 
 ### 2. Kemampuan Komunikasi yang Efektif Lintas Disiplin
 
-Komunikasi yang efektif adalah jembatan yang menghubungkan berbagai disiplin ilmu. Dalam lingkungan multidisiplin, kamu akan berinteraksi dengan orang-orang yang memiliki latar belakang, istilah teknis, dan cara berpikir yang berbeda. Kemampuan menyampaikan gagasan dengan jelas dan memahami sudut pandang orang lain sangatlah penting.
+Komunikasi yang efektif adalah jembatan yang menghubungkan berbagai disiplin ilmu. Dalam lingkungan multidisiplin, kamu akan berinteraksi dengan orang-orang yang memiliki latar belakang, istilah teknis, dan cara berpikir yang berbeda. Kemampuan menyampaikan gagasan dengan jelas dan memahami sudut pandang orang lain penting.
 
 Menjalin komunikasi antar-disiplin tentu bukan tanpa hambatan. Beberapa tantangan yang sering muncul antara lain:
 
 1. **Tembok jargon:** Setiap bidang studi memiliki istilah teknisnya sendiri yang kerap membingungkan orang luar.
 2. Perbedaan kerangka berpikir membuat suatu konsep yang sama bisa diartikan berbeda atau memicu dampak yang bertolak belakang di bidang lain.
-3. Gaya penyampaian yang kontras: ada disiplin yang sangat kaku dan berbasis data teknis, sementara yang lain lebih mengutamakan narasi atau konsep abstrak.
+3. Gaya penyampaian yang kontras: ada disiplin yang kaku dan berbasis data teknis, sementara yang lain lebih mengutamakan narasi atau konsep abstrak.
 
 Agar pesanmu tersampaikan dengan baik lintas disiplin, cobalah beberapa strategi berikut:
 
@@ -40,7 +40,7 @@ Agar pesanmu tersampaikan dengan baik lintas disiplin, cobalah beberapa strategi
 
 Empati adalah kemampuan untuk memahami atau merasakan apa yang dialami orang lain dari sudut pandang mereka sendiri, dengan kata lain, menempatkan diri pada posisi orang lain. Dalam pembelajaran multidisiplin, empati melampaui perasaan emosional. Sikap ini melibatkan penghargaan intelektual terhadap cara disiplin ilmu lain melihat dan memecahkan masalah.
 
-Mengapa empati sangat penting dalam pembelajaran multidisiplin?
+Mengapa empati penting dalam pembelajaran multidisiplin?
 
 * **Membangun rasa percaya dan kerja sama:** Saat kamu menunjukkan empati, rekan dari bidang lain akan merasa dihargai, sehingga hubungan kerja menjadi lebih solid.
 * Kamu bisa lebih mudah menyelami motivasi dan nilai dasar di balik cara kerja disiplin lain, meskipun bertolak belakang dengan kebiasaan bidangmu sendiri.
@@ -55,7 +55,7 @@ Empati intelektual ini dapat dilatih melalui beberapa langkah nyata. Mulailah de
 
 Sintesis adalah proses menggabungkan informasi yang berbeda untuk menciptakan pemahaman baru atau solusi yang selaras. Di lingkungan multidisiplin, kamu akan berhadapan dengan banyak data, teori, dan metodologi dari berbagai bidang. Kemampuan untuk menyaring, menyatukan, dan menafsirkan informasi ini adalah inti dari pembelajaran multidisiplin.
 
-Ada beberapa alasan mengapa kemampuan menyatukan informasi ini menjadi begitu penting:
+Ada beberapa alasan mengapa kemampuan menyatukan informasi ini menjadi penting:
 
 - **Memperoleh gambaran utuh:** Menggabungkan wawasan dari berbagai ilmu membantu kita melihat suatu masalah dengan lebih lengkap dan mendalam.
 - Kamu bisa mendeteksi keterkaitan atau pola tersembunyi yang tidak akan kelihatan jika masing-masing bidang ilmu dipelajari secara terpisah.

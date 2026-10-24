@@ -1,6 +1,6 @@
 ## Peran Teknologi dalam Mendukung Pembelajaran Multidisiplin
 
-Pembelajaran multidisiplin menggabungkan perspektif, konsep, dan metodologi dari berbagai disiplin ilmu untuk memahami suatu fenomena atau memecahkan masalah. Di era digital saat ini, teknologi modern telah berkembang melampaui fungsi alat bantu dasar. Kini, teknologi bertindak sebagai fasilitator utama yang memungkinkan integrasi pengetahuan yang lebih mendalam dan efektif. Dengan teknologi, batas-batas disipliner menjadi lebih lentur, mempermudah kolaborasi, visualisasi, simulasi, dan akses informasi yang sebelumnya sulit dijangkau.
+Pembelajaran multidisiplin menggabungkan perspektif, konsep, dan metodologi berbagai disiplin ilmu untuk memahami fenomena atau memecahkan masalah. Di era digital saat ini, teknologi modern telah berkembang melampaui fungsi alat bantu dasar. Kini, teknologi bertindak sebagai fasilitator utama yang memungkinkan integrasi pengetahuan yang lebih mendalam dan efektif. Dengan teknologi, batas-batas disipliner menjadi lebih lentur, mempermudah kolaborasi, visualisasi, simulasi, dan akses informasi yang sebelumnya sulit dijangkau.
 
 > **Poin Utama:** Teknologi berperan sebagai jembatan yang menghubungkan berbagai disiplin ilmu, menjadikan proses belajar lintas disiplin lebih dinamis, interaktif, dan relevan dengan tantangan nyata.
 
@@ -14,20 +14,20 @@ Beberapa contoh platform yang sering digunakan antara lain:
 - **Microsoft Teams dan Google Workspace** sebagai ekosistem kolaborasi dokumen dan komunikasi terpadu.
 - **Slack** yang berfokus pada saluran obrolan bertopik khusus.
 - **Miro dan Jamboard** untuk kebutuhan pemetaan ide visual secara kolaboratif.
-- **GitHub dan GitLab** yang sangat efektif untuk melacak versi kode (*version control*) serta dokumentasi proyek teknis lintas disiplin.
+- **GitHub dan GitLab** yang efektif untuk melacak versi kode (*version control*) serta dokumentasi proyek teknis lintas disiplin.
 
-> Kolaborasi adalah jantung dari pembelajaran multidisiplin, dan platform daring adalah pembuluh darah yang mengalirkan ide.
+> Kolaborasi adalah inti pembelajaran multidisiplin, dan platform daring menjadi sarana untuk bertukar ide.
 
 ### Alat Visualisasi Data
 
-Alat visualisasi data (*data visualization tools*) mengubah kumpulan data yang rumit menjadi representasi grafis yang mudah dipahami, seperti grafik, diagram, peta, atau infografis. Dalam pembelajaran multidisiplin, alat ini sangat membantu untuk menganalisis dan menginterpretasikan data yang berasal dari berbagai disiplin ilmu guna mengungkap pola, tren, dan hubungan yang tersembunyi.
+Alat visualisasi data (*data visualization tools*) mengubah kumpulan data yang rumit menjadi representasi grafis yang mudah dipahami, seperti grafik, diagram, peta, atau infografis. Dalam pembelajaran multidisiplin, alat ini membantu untuk menganalisis dan menginterpretasikan data yang berasal dari berbagai disiplin ilmu guna mengungkap pola, tren, dan hubungan yang tersembunyi.
 
 Dalam pembelajaran lintas disiplin, visualisasi data memberikan beberapa manfaat nyata:
 1. **Mengintegrasikan data heterogen:** Menggabungkan berbagai sumber data (seperti data ekonomi, lingkungan, dan sosial) untuk analisis yang menyeluruh.
 2. **Mempermudah pemahaman bersama:** Membantu para ahli memahami implikasi data di luar keahlian spesifik mereka dengan cepat.
 3. **Menyajikan temuan secara efektif:** Mempermudah penemuan hubungan antarvariabel dan menyajikan temuan rumit kepada publik secara lebih menarik.
 
-Alat yang populer digunakan meliputi platform instan seperti **Tableau** dan **Microsoft Power BI** yang menggunakan sistem *drag-and-drop*. Untuk kebutuhan analisis kustom yang lebih mendalam, pustaka (*libraries*) pemrograman **Python** (seperti Matplotlib, Seaborn, dan Plotly) serta **D3.js** untuk web interaktif sangat sering diandalkan. Sementara itu, untuk data berbasis spasial, sistem informasi geografis seperti **ArcGIS** atau **QGIS** menjadi pilihan utama dalam bidang geografi dan perencanaan kota.
+Alat yang populer digunakan meliputi platform instan seperti **Tableau** dan **Microsoft Power BI** yang menggunakan sistem *drag-and-drop*. Untuk kebutuhan analisis kustom yang lebih mendalam, pustaka (*libraries*) pemrograman **Python** (seperti Matplotlib, Seaborn, dan Plotly) serta **D3.js** untuk web interaktif sering diandalkan. Sementara itu, untuk data berbasis spasial, sistem informasi geografis seperti **ArcGIS** atau **QGIS** menjadi pilihan utama dalam bidang geografi dan perencanaan kota.
 
 Sebagai contoh, kita bisa menggabungkan data curah hujan (meteorologi) dengan data hasil panen (agronomi) dan data penjualan (ekonomi) untuk melihat hubungannya. Berikut data contoh (fiktif) selama lima tahun:
 
@@ -43,7 +43,7 @@ Jika ketiga deret ini digambar sebagai grafik garis dalam satu bidang, terlihat 
 
 ### Simulasi Interaktif
 
-Simulasi interaktif (*interactive simulations*) adalah model komputer yang meniru sistem atau proses dunia nyata, memungkinkan pengguna memanipulasi variabel dan mengamati hasilnya secara langsung. Ini sangat berharga dalam pembelajaran multidisiplin karena membuka ruang eksperimen tanpa risiko fisik, memperjelas pemahaman sistem yang rumit, dan membantu menerapkan teori ke dalam skenario praktis.
+Simulasi interaktif (*interactive simulations*) adalah model komputer yang meniru sistem atau proses dunia nyata, memungkinkan pengguna memanipulasi variabel dan mengamati hasilnya secara langsung. Ini berharga dalam pembelajaran multidisiplin karena membuka ruang eksperimen tanpa risiko fisik, memperjelas pemahaman sistem yang rumit, dan membantu menerapkan teori ke dalam skenario praktis.
 
 Simulasi interaktif hadir dalam berbagai bentuk sesuai kebutuhan analisis:
 - **Simulasi Ilmiah:** Memodelkan fenomena alam seperti reaksi kimia, pergerakan planet, atau evolusi populasi.
@@ -72,13 +72,13 @@ Keberadaan sumber daya ini memainkan peran penting dalam pembelajaran lintas dis
 - Membuka akses global terhadap materi berkualitas tanpa sekat geografis.
 - Menyediakan konteks masalah yang lebih kaya melalui beragam sudut pandang dan metodologi.
 
-Mengembangkan kemampuan mencari, menyaring, dan memadukan informasi dari berbagai wadah digital ini akan sangat membantu kelancaran studi lintas disiplin kamu.
+Mengembangkan kemampuan mencari, menyaring, dan memadukan informasi dari berbagai wadah digital ini akan membantu kelancaran studi lintas disiplin kamu.
 
 ### Artificial Intelligence (AI) untuk Mengintegrasikan Pengetahuan
 
 Artificial Intelligence (AI) atau kecerdasan buatan dapat berperan sebagai asisten cerdas yang membantu menghubungkan berbagai disiplin ilmu, menyesuaikan pengalaman belajar, dan menemukan keterkaitan yang mungkin terlewatkan oleh manusia.
 
-Dalam ekosistem multidisiplin, penerapan AI dapat dirangkum ke dalam beberapa fungsi utama:
+Dalam pembelajaran multidisiplin, penerapan AI dapat dirangkum ke dalam beberapa fungsi utama:
 - **Sistem Rekomendasi Pintar:** Menyarankan artikel, buku, atau kursus lintas bidang yang relevan berdasarkan minat dan riwayat belajar kamu.
 - **Natural Language Processing (NLP):** Menganalisis teks ilmiah untuk menemukan konsep kunci, menerjemahkan istilah teknis antar-bidang, serta mendeteksi hubungan antar-entitas (misalnya korelasi antara inovasi teknologi dan dampak sosial).
 - **Asisten Pembelajaran & Chatbot:** Menjawab pertanyaan lintas disiplin secara instan dan menjelaskan teori rumit secara sederhana.

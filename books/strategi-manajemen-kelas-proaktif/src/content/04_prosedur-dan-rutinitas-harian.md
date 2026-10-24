@@ -1,4 +1,4 @@
-# Prosedur dan Rutinitas Harian
+## Prosedur dan Rutinitas Harian
 
 Pernahkah kamu memperhatikan bagaimana kru *pit stop* Formula 1 bekerja? Hanya dalam hitungan detik, ban diganti, bahan bakar diisi (pada era tertentu), dan mobil kembali melaju. Tidak ada instruksi yang diteriakkan di tengah kebisingan; setiap orang tahu persis apa yang harus dilakukan, kapan melakukannya, dan bagaimana melakukannya.
 
@@ -13,9 +13,9 @@ Seringkali kita mencampuradukkan antara aturan dan prosedur. Memahami perbedaann
 
 > "Prosedur adalah cara kita melakukan sesuatu agar kelas berjalan lancar. Rutinitas adalah prosedur yang telah menjadi kebiasaan otomatis bagi siswa."
 
-## 2. Arsitektur Transisi yang Efisien
+## 2. Merancang Transisi yang Efisien
 
-Transisi adalah "lubang hitam" waktu dalam pembelajaran. Tanpa prosedur yang jelas, perpindahan dari satu aktivitas ke aktivitas lain dapat membuang waktu 5 hingga 10 menit.
+Transisi adalah saat waktu pembelajaran mudah terbuang. Tanpa prosedur yang jelas, perpindahan dari satu aktivitas ke aktivitas lain dapat membuang waktu 5 hingga 10 menit.
 
 ### Kalkulasi Kehilangan Waktu
 
@@ -33,7 +33,7 @@ $$
 $$
 </div>
 
-75 jam adalah waktu yang sangat besar yang hilang hanya karena transisi yang berantakan!
+Ada 75 jam pembelajaran yang hilang hanya karena transisi yang berantakan.
 
 ### Strategi Transisi "30 Detik"
 
@@ -72,7 +72,7 @@ flowchart TD
     F --> G["Ikuti instruksi tambahan"]
 ```
 
-## 4. Manajemen Waktu dan Kemandirian (The "Autopilot" Mode)
+## 4. Manajemen Waktu dan Kemandirian Siswa
 
 Agar kelas berjalan otomatis, siswa perlu tahu apa yang harus dilakukan tanpa harus bertanya setiap saat.
 
@@ -119,4 +119,4 @@ Pastikan kamu memiliki prosedur untuk hal-hal berikut:
 - Apa yang dilakukan jika tugas sudah selesai lebih awal (Aktivitas Jangkar).
 - Membereskan kelas dan persiapan pulang.
 
-Dengan rutinitas yang kuat, kamu tidak lagi menjadi "polisi lalu lintas" di kelas, melainkan seorang direktur orkestra yang memimpin simfoni pembelajaran yang harmonis.
+Dengan rutinitas yang kuat, kamu tidak lagi menjadi "polisi lalu lintas" di kelas, melainkan pemimpin yang menjaga pembelajaran berjalan teratur.

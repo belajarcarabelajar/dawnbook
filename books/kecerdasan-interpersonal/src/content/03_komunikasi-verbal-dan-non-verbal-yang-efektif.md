@@ -1,10 +1,10 @@
 ## Komunikasi Verbal dan Non-Verbal yang Efektif
 
-Pernahkah kamu mengirim pesan teks yang disalahpahami sebagai kemarahan oleh temanmu, padahal kamu hanya sedang terburu-buru? Atau mungkin kamu pernah mendengarkan presentasi di mana pembicaranya memiliki data yang luar biasa, namun suaranya yang monoton membuat audiens tertidur?
+Pernahkah kamu mengirim pesan teks yang disalahpahami sebagai kemarahan oleh temanmu, padahal kamu hanya sedang terburu-buru? Atau mungkin kamu pernah mendengarkan presentasi di mana pembicaranya memiliki data yang kuat, namun suaranya yang monoton membuat audiens tertidur?
 
 Dalam profil **T-shaped professional**, kemampuan teknismu adalah garis vertikal yang mendalam, sedangkan **kemampuan komunikasi** adalah garis horizontal yang memungkinkan keahlian tersebut menjangkau dan memengaruhi orang lain. Komunikasi yang efektif berfokus pada cara pesan diterima dan dipahami oleh lawan bicara, tidak hanya terbatas pada kata-kata yang diucapkan.
 
-## 1. Anatomi Komunikasi
+## 1. Tiga Elemen Pesan
 
 Bayangkan komunikasi sebagai sebuah sinyal radio. Jika pemancar (kamu) mengirimkan sinyal yang lemah atau terganggu oleh *noise*, maka penerima akan mendapatkan pesan yang statis dan tidak jelas.
 
@@ -12,7 +12,7 @@ Ketika menyampaikan perasaan atau sikap, Albert Mehrabian merumuskan model 7-38-
 
 > **Insight Utama:** Jika kata-katamu mengatakan "Saya senang membantu kamu," tetapi wajahmu cemberut dan nada suaramu ketus, orang akan lebih memercayai bahasa tubuhmu daripada kata-katamu. Fenomena ini disebut sebagai **inkongruensi** (*incongruence*).
 
-## 2. Presisi Pemilihan Kata
+## 2. Memilih Kata yang Tepat
 
 Dalam dunia profesional, kata-kata adalah alat bedah. Kamu bisa menggunakan "palu godam" yang kasar atau "skalpel" yang presisi.
 
@@ -26,7 +26,7 @@ Terakhir, prioritaskan kejelasan (*clarity*). Pilihlah kalimat yang ringkas dan 
 - Kurang efektif: "Sebenarnya, aku pikir mungkin ada baiknya jika kita barangkali mempertimbangkan untuk sedikit mengubah jadwal."
 - Efektif: "Aku mengusulkan agar kita memajukan tenggat waktu proyek sebanyak dua hari."
 
-Pilihan kata yang tepat akan menentukan apakah pesanmu membangun jembatan pemahaman atau justru menciptakan dinding pemisah.
+Pilihan kata yang tepat akan menentukan apakah pesanmu dipahami atau justru membuat lawan bicara menjaga jarak.
 
 ## 3. Komunikasi Vokal
 
@@ -40,7 +40,7 @@ Melatih vokal berarti melatih dinamika suara. Beberapa aspek yang perlu diperhat
 
 ## 4. Komunikasi Non-Verbal
 
-Bahasa tubuh sering kali bersifat bawah sadar, namun dampaknya sangat besar terhadap persepsi orang lain terhadapmu.
+Bahasa tubuh sering kali bersifat bawah sadar, namun dampaknya besar terhadap persepsi orang lain terhadapmu.
 
 Beberapa aspek bahasa tubuh berikut bisa kamu latih untuk mendukung pesan verbalmu:
 
@@ -49,7 +49,7 @@ Beberapa aspek bahasa tubuh berikut bisa kamu latih untuk mendukung pesan verbal
 - **Memanfaatkan gestur tangan**: Gerakan tangan membantu memperjelas poin yang sedang dibahas. Gerakan yang natural terbukti membantu audiens memahami dan mengingat materi dengan lebih baik.
 - **Menjaga jarak fisik (*proxemics*)**: Di lingkungan kerja profesional, pertahankan jarak sosial ideal sekitar 1,2 hingga 2 meter demi menghormati ruang pribadi rekan bicara.
 
-## 5. Sinkronisasi Komunikasi Tanpa Distorsi
+## 5. Kongruensi Kata, Suara, dan Bahasa Tubuh
 
 Distorsi terjadi ketika ada kesenjangan antara apa yang dikatakan dan apa yang ditampilkan. Untuk menjadi komunikator yang handal, kamu harus mencapai **Kongruensi**.
 

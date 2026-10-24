@@ -1,8 +1,8 @@
 ## Kritik, Evaluasi, dan Masa Depan Teori Kecerdasan Majemuk
 
-Sejak diperkenalkan oleh Howard Gardner pada tahun 1983, Teori Kecerdasan Majemuk (MI) telah merevolusi dunia pendidikan. Namun, seperti halnya setiap teori besar yang menantang status quo, ia tidak lepas dari badai kritik. Di satu sisi, para pendidik memujinya karena sifatnya yang inklusif; di sisi lain, para psikolog kognitif mempertanyakan dasar ilmiahnya.
+Sejak diperkenalkan oleh Howard Gardner pada tahun 1983, Teori Kecerdasan Majemuk (MI) telah banyak memengaruhi dunia pendidikan. Namun, seperti halnya setiap teori besar yang menantang status quo, ia tidak lepas dari kritik. Di satu sisi, para pendidik memujinya karena sifatnya yang inklusif; di sisi lain, para psikolog kognitif mempertanyakan dasar ilmiahnya.
 
-Halaman ini akan membawa kamu menelusuri medan perdebatan intelektual ini, memahami tantangan teknis dalam pengukurannya, dan melihat bagaimana teori ini bertransformasi untuk menjawab tantangan abad ke-21.
+Halaman ini akan membawa kamu menelusuri perdebatan ini, memahami tantangan teknis dalam pengukurannya, dan melihat bagaimana teori ini bertransformasi untuk menjawab tantangan abad ke-21.
 
 ## 1\. Kritik Terhadap Validitas Teori
 
@@ -66,4 +66,4 @@ Secara evaluatif, sekolah tersebut berhasil memfasilitasi bakat seni dan sosial 
 | **Penerapan** | Sangat luas di jenjang pendidikan dasar | Ekspansi ke pengembangan sumber daya manusia di berbagai industri. |
 | **Pengukuran** | Observasional dan rentan subjektivitas | Penggunaan simulasi virtual untuk tes berbasis kinerja secara lebih netral. |
 
-Secara keseluruhan, Teori Kecerdasan Majemuk memiliki nilai kebenaran praktis yang sangat kuat di lapangan meskipun masih menghadapi perdebatan statistik. Teori ini hadir sebagai pengingat bahwa potensi manusia terlalu luas untuk disimpulkan hanya lewat satu ukuran tunggal. Masa depan teori ini difokuskan pada kemampuannya memanusiakan sistem pendidikan yang semakin terdigitalisasi. Gagasan Gardner membuka ruang bagi banyak orang untuk menemukan potensi unik mereka di luar batasan numerik tradisional.
+Secara keseluruhan, Teori Kecerdasan Majemuk memiliki nilai kebenaran praktis yang kuat di lapangan meskipun masih menghadapi perdebatan statistik. Teori ini hadir sebagai pengingat bahwa potensi manusia terlalu luas untuk disimpulkan hanya lewat satu ukuran tunggal. Masa depan teori ini difokuskan pada kemampuannya memanusiakan sistem pendidikan yang semakin terdigitalisasi. Gagasan Gardner membuka ruang bagi banyak orang untuk menemukan potensi unik mereka di luar batasan numerik tradisional.

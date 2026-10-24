@@ -2,11 +2,11 @@
 
 Prinsip eksistensi mendahului esensi menegaskan bahwa manusia hadir di dunia sebelum mendefinisikan hakikat dirinya melalui tindakan dan pilihan sadar. Konsepsi yang dirumuskan oleh Jean-Paul Sartre melalui frasa *l'existence précède l'essence* ini meruntuhkan pandangan esensialisme klasik bahwa manusia memiliki cetak biru teleologis atau kodrat baku yang mendikte arah kehidupannya.
 
-### 1. Dekonstruksi Esensialisme
+### 1. Beda Benda Buatan dan Manusia
 
 Untuk menjelaskan distingsi ontologis antara artefak buatan manusia dan subjek kesadaran, Sartre mengetengahkan perbandingan fenomenologis mengenai pisau pemotong kertas (*the paper knife*).
 
-#### Analogi Fenomenologis Pisau Kertas
+#### Pisau Kertas dan Perajinnya
 
 Sebelum sebilah pisau pemotong kertas diproduksi, sang perajin telah memiliki konsep mental mengenai fungsi, bentuk, dan tujuan utilitas benda tersebut. Dengan demikian, esensi atau tujuan konseptual mendahului keberadaan fisiknya:
 
@@ -64,10 +64,10 @@ Eksistensialisme mengkritik keras kecenderungan manusia untuk menjadikan label p
 - **Kekeliruan Reifikasi:** Memperlakukan kesadaran (*pour-soi*) seolah-olah merupakan benda mati (*en-soi*) dengan sifat yang permanen.
 - **Solusi Eksistensial:** Seseorang tidak memiliki esensi pemalu yang kodrati; ia hanya berulang kali memilih tindakan yang mencerminkan rasa malu. Dengan mengubah pilihan tindakan secara sadar, esensi diri bertransformasi menjadi pribadi yang berani.
 
-### 6. Dekonstruksi Konsep Panggilan Hidup
+### 6. Tidak Ada Panggilan Hidup yang Tersembunyi
 
 Banyak individu mengalami kelumpuhan eksistensial akibat keyakinan bahwa terdapat satu "panggilan hidup" (*calling*) tersembunyi yang harus dicari. Eksistensialisme mendemistifikasi ilusi ini dengan menegaskan bahwa tidak ada panggilan objektif yang tertanam di kosmos. Panggilan hidup adalah apa pun jalan hidup yang dipilih, diperjuangkan, dan diisi dengan makna secara otentik oleh subjek yang bersangkutan.
 
-### 7. Manusia sebagai Arsitek Makna Keberadaan
+### 7. Manusia Menentukan Makna Hidupnya
 
-Doktrin eksistensi mendahului esensi menempatkan manusia sebagai arsitek tunggal atas makna keberadaannya. Ketiadaan kodrat tetap bukan alasan untuk putus asa, melainkan panggilan untuk menegakkan otonomi diri di hadapan kemungkinan-kemungkinan masa depan yang tak terbatas.
+Doktrin eksistensi mendahului esensi menempatkan manusia sebagai arsitek tunggal atas makna keberadaannya. Ketiadaan kodrat tetap bukan alasan untuk putus asa, melainkan panggilan untuk menegakkan otonomi diri di hadapan kemungkinan-kemungkinan masa depan.

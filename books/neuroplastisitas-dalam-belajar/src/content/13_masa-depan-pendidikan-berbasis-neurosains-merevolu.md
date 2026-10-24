@@ -1,10 +1,10 @@
 ## Masa Depan Pendidikan Berbasis Neurosains
 
-Bayangkan sebuah sekolah di mana kurikulumnya tidak bersifat kaku, melainkan bernapas dan beradaptasi seiring dengan perkembangan sirkuit saraf setiap siswanya. Kita tidak lagi berada di era di mana "satu ukuran cocok untuk semua." Berkat pemahaman mendalam tentang **neuroplastisitas**, kita sedang berdiri di ambang pintu revolusi pendidikan terbesar dalam sejarah manusia.
+Bayangkan sebuah sekolah yang kurikulumnya tidak kaku, melainkan beradaptasi seiring perkembangan sirkuit saraf setiap siswanya. Kita tidak lagi berada di era di mana "satu ukuran cocok untuk semua." Berkat pemahaman tentang **neuroplastisitas**, pendidikan sedang menuju perubahan besar.
 
-Materi ini akan merangkum perjalanan kita memahami otak dan memproyeksikan bagaimana pengetahuan tersebut akan mengubah wajah ruang kelas, kebijakan pendidikan, dan metode pengajaran di seluruh dunia.
+Materi ini akan merangkum perjalanan kita memahami otak dan memproyeksikan bagaimana pengetahuan tersebut akan mengubah ruang kelas, kebijakan pendidikan, dan metode pengajaran di seluruh dunia.
 
-## 1\. Pergeseran Paradigma dari Pabrik Menuju Taman Saraf
+## 1\. Meninggalkan Model Pabrik dalam Pendidikan
 
 Selama lebih dari seabad, sistem pendidikan global mengadopsi model industrial: siswa diproses secara linear berdasarkan usia kronologis, bukan kesiapan kognitif. Neurosains mengubah ini dengan analogi yang lebih akurat.
 
@@ -73,10 +73,10 @@ Meskipun masa depan ini tampak cerah, ada beberapa tantangan besar yang harus di
 
 > **Pesan Penting:** Neurosains memberikan kita alat, tetapi nilai-nilai kemanusiaanlah yang menentukan bagaimana alat itu digunakan. Teknologi harus melayani potensi manusia, bukan mengaturnya.
 
-## Sebuah Undangan untuk Berubah
+## Penutup
 
-Masa depan pendidikan berbasis neurosains bukan hanya tentang teknologi canggih atau pemindaian otak di setiap meja. Ini tentang **pemahaman yang lebih penuh kasih** terhadap batasan dan potensi luar biasa dari biologi manusia.
+Masa depan pendidikan berbasis neurosains bukan hanya tentang teknologi canggih atau pemindaian otak di setiap meja. Ini tentang **pemahaman yang lebih penuh kasih** terhadap batasan dan potensi dari biologi manusia.
 
 Dengan mengakui bahwa otak setiap siswa bersifat plastis, kita menghapus kata "bodoh" atau "tidak berbakat" dari kamus pendidikan kita. Kita menggantinya dengan "belum terbentuk" atau "sedang berkembang."
 
-*Refleksi Akhir: Bagaimana cara kamu memandang kapasitas belajar kamu sendiri hari ini, setelah mengetahui bahwa otak kamu memiliki kemampuan tak terbatas untuk mengatur ulang dirinya sepanjang hayat?*
+*Refleksi Akhir: Bagaimana cara kamu memandang kapasitas belajar kamu sendiri hari ini, setelah mengetahui bahwa otak kamu mampu mengatur ulang dirinya sepanjang hayat?*

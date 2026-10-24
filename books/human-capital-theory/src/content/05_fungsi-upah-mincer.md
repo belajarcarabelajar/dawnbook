@@ -1,8 +1,8 @@
-# Fungsi Upah Mincer
+## Fungsi Upah Mincer
 
 Mengapa seorang dokter spesialis berpenghasilan lebih besar daripada seorang dokter umum? Dan mengapa dokter umum yang telah berpraktik selama 20 tahun biasanya dibayar lebih tinggi daripada dokter yang baru lulus kemarin?
 
-Secara intuitif, jawabannya berada pada dua elemen utama: **Pendidikan** dan **Pengalaman**. Namun, dalam ilmu ekonomi tenaga kerja, kita membutuhkan alat ukur kuantitatif yang presisi untuk menghitung kontribusi masing-masing faktor tersebut terhadap tingkat pendapatan seseorang. Di sinilah **Fungsi Upah Mincer** (*Mincer Earnings Function*) menjadi instrumen utama.
+Secara intuitif, jawabannya berada pada dua elemen utama: **Pendidikan** dan **Pengalaman**. Namun, dalam ilmu ekonomi tenaga kerja, kita membutuhkan alat ukur kuantitatif untuk menghitung kontribusi masing-masing faktor tersebut terhadap tingkat pendapatan seseorang. Di sinilah **Fungsi Upah Mincer** (*Mincer Earnings Function*) menjadi instrumen utama.
 
 Dikembangkan oleh Jacob Mincer pada tahun 1974, model ini diakui sebagai *framework* empiris standar dalam ekonomi tenaga kerja. Model Mincer menghubungkan Teori Modal Manusia (*Human Capital Theory*) dengan bukti empiris lapangan, mengukur nilai ekonomi dari setiap tambahan tahun pendidikan formal serta setiap tahun pengalaman kerja.
 
@@ -36,7 +36,7 @@ Mari kita bedah alasan teoretis di balik bentuk fungsional model Mincer:
 
 Dalam model Mincer, pendidikan dispesifikasikan dalam bentuk linear terhadap logaritma upah. Hal ini mengimplikasikan bahwa setiap tambahan satu tahun sekolah meningkatkan upah sebesar persentase yang konstan ($\beta\_1$).
 
-> **Analogi:** Bayangkan pendidikan sebagai bibit unggul modal manusia. Setiap karung bibit tambahan yang kamu tanam di lahan keterampilanmu meningkatkan hasil panen pendapatan sebesar persentase tertentu secara konsisten.
+> **Analogi:** Bayangkan pendidikan sebagai bibit modal manusia. Setiap karung bibit tambahan yang kamu tanam di lahan keterampilanmu meningkatkan hasil panen pendapatan sebesar persentase tertentu secara konsisten.
 
 #### B. Pengalaman ($E$ dan $\text{E}^2$) serta Kurva Pendapatan-Usia
 
@@ -45,7 +45,7 @@ Mincer menyadari bahwa hubungan antara pengalaman kerja dan upah tidak tumbuh ta
 - **$\beta\_2 > 0$ (Positif):** Pada tahap awal karier, akumulasi pengalaman kerja melalui *On-the-Job Training* dan pembelajaran praktis meningkatkan produktivitas serta upah pekerja secara pesat.
 - **$\beta\_3 < 0$ (Negatif):** Parameter negatif pada variabel kuadratik ini mencerminkan hukum imbal hasil yang semakin berkurang (*diminishing returns to experience*).
 
-Secara visual, jika kita memetakan pendapatan terhadap akumulasi pengalaman atau usia kerja, grafiknya membentuk **parabola cekung (terbalik)**. Pendapatan melonjak pesat pada usia muda, mencapai titik puncak (*peak earnings*) pada usia paruh baya, lalu mendatar atau menurun perlahan saat mendekati masa pensiun akibat depresiasi keterampilan (*skill obsolescence*) dan penurunan kapasitas fisik.
+Secara visual, jika kita memetakan pendapatan terhadap akumulasi pengalaman atau usia kerja, grafiknya membentuk **parabola cekung (terbalik)**. Pendapatan naik cepat pada usia muda, mencapai titik puncak (*peak earnings*) pada usia paruh baya, lalu mendatar atau menurun perlahan saat mendekati masa pensiun akibat depresiasi keterampilan (*skill obsolescence*) dan penurunan kapasitas fisik.
 
 ### 3. Membaca Makna Ekonomi dari Angka Imbal Hasil
 
@@ -87,7 +87,7 @@ Fungsi Mincer memiliki implikasi praktis yang luas di pasar tenaga kerja:
 
 ### 6. Keterbatasan Model dan Agenda Diskusi
 
-Meskipun menjadi standar emas dalam estimasi imbal hasil pendidikan, model dasar Mincer memiliki sejumlah keterbatasan metodologis:
+Meskipun menjadi model standar dalam estimasi imbal hasil pendidikan, model dasar Mincer memiliki sejumlah keterbatasan metodologis:
 
 - **Bias Kemampuan (*Ability Bias*):** Estimasi $\beta\_1$ dapat terdistorsi jika individu berpendidikan tinggi juga memiliki bakat atau motivasi alami yang lebih tinggi sejak awal, yang tidak terukur oleh variabel sekolah.
 - **Kuantitas vs Kualitas Pendidikan:** Model ini memperhitungkan durasi tahun sekolah ($S$), namun mengabaikan perbedaan kualitas institusi pendidikan. Satu tahun pendidikan di institusi terkemuka dihitung sama dengan satu tahun di sekolah berfasilitas minim pada model dasar.

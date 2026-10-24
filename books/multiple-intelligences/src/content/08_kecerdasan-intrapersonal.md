@@ -1,12 +1,12 @@
 ## Kecerdasan Intrapersonal
 
-Bayangkan kamu memiliki sebuah kompas internal yang sangat canggih. Kompas ini tidak menunjukkan arah utara atau selatan, melainkan menunjukkan siapa kamu sebenarnya, apa yang kamu rasakan, dan ke mana arah hidup yang paling sesuai dengan nilai-nilaimu. Itulah inti dari Kecerdasan Intrapersonal.
+Bayangkan kamu memiliki sebuah kompas internal. Kompas ini tidak menunjukkan arah utara atau selatan, melainkan menunjukkan siapa kamu sebenarnya, apa yang kamu rasakan, dan ke mana arah hidup yang paling sesuai dengan nilai-nilaimu. Itulah inti dari Kecerdasan Intrapersonal.
 
 Jika Kecerdasan Interpersonal berfokus pada memahami orang lain, Kecerdasan Intrapersonal terarah ke dalam, yakni kemampuan untuk memahami diri sendiri. Howard Gardner mendefinisikan kecerdasan ini sebagai kemampuan untuk membangun model mental yang akurat dan nyata tentang diri sendiri.
 
 ## 1. Membangun Model Mental Diri
 
-Kecerdasan intrapersonal adalah proses kognitif aktif untuk memetakan lanskap batin kita, jauh melampaui kebiasaan melamun belaka. Ada tiga pilar utama dalam membangun model mental ini:
+Kecerdasan intrapersonal adalah proses kognitif aktif untuk memetakan isi batin kita, bukan sekadar kebiasaan melamun. Ada tiga pilar utama dalam membangun model mental ini:
 
 ### A. Pengenalan Emosi (Emotional Literacy)
 
@@ -56,9 +56,9 @@ Di mana:
 
 Seseorang dengan kecerdasan intrapersonal tinggi mampu meminimalkan variabel $\text{Ego}$ dan $\text{Tekanan Luar}$ untuk mencapai keputusan yang paling otentik.
 
-## 5. Aplikasi Dunia Nyata & Skenario
+## 5. Peran di Berbagai Bidang Profesi
 
-Kecerdasan ini berperan sebagai mesin di balik pencapaian di banyak bidang, dan keberadaannya amat penting dalam profesi tertentu.
+Kecerdasan ini berperan dalam pencapaian di banyak bidang, dan keberadaannya amat penting dalam profesi tertentu.
 
 ### Menghadapi Kegagalan Proyek
 
@@ -69,8 +69,8 @@ Kecerdasan ini berperan sebagai mesin di balik pencapaian di banyak bidang, dan 
 
 - **Psikolog atau Terapis:** Perlu berdamai dan memahami diri sendiri secara tuntas sebelum bisa membantu orang lain menyelesaikan masalah mereka.
 - **Penulis dan Filsuf:** Pekerjaannya berpusat pada upaya menggali kedalaman emosi manusia melalui jalur refleksi personal yang intens.
-- **Entrepreneur:** Membutuhkan ketangguhan mental yang tebal serta kejernihan atas apa yang sebenarnya menjadi visi pribadinya.
-- **Pemimpin Spiritual:** Fokus utamanya adalah menjaga integritas antara apa yang diajarkan, tindakan nyata di dunia, dengan nilai batin yang sejati.
+- **Entrepreneur:** Membutuhkan ketangguhan mental serta kejernihan atas apa yang sebenarnya menjadi visi pribadinya.
+- **Pemimpin Spiritual:** Fokus utamanya adalah menjaga integritas antara apa yang diajarkan, tindakan nyata di dunia, dengan nilai batinnya.
 
 ## 6. Mengembangkan Kecerdasan Intrapersonal
 

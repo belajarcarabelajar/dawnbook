@@ -1,6 +1,6 @@
 ## Psikologi di Balik Attention Economy (Ekonomi Perhatian)
 
-Selamat datang di inti dari permasalahan digital kita. Jika kamu pernah merasa ingin membuka Instagram "hanya untuk lima menit" namun tiba-tiba tersadar satu jam telah berlalu, kamu tidak sedang berhalusinasi. Kamu juga tidak sedang menunjukkan kelemahan karakter.
+Kebiasaan menatap layar lebih lama dari niat awal berakar pada cara aplikasi dirancang untuk menahan perhatianmu selama mungkin. Jika kamu pernah merasa ingin membuka Instagram "hanya untuk lima menit" namun tiba-tiba tersadar satu jam telah berlalu, kamu tidak sedang berhalusinasi. Kamu juga tidak sedang menunjukkan kelemahan karakter.
 
 Kamu sebenarnya sedang berhadapan dengan ribuan insinyur perangkat lunak dan psikolog perilaku di Silicon Valley yang tugas satu-satunya adalah memastikan kamu tetap menatap layar sesering dan selama mungkin. Inilah yang disebut dengan **Ekonomi Perhatian (Attention Economy)**.
 
@@ -45,7 +45,7 @@ Aplikasi modern dirancang persis seperti ini:
 
 **Catatan:** Jika setiap kali membuka aplikasi kamu mendapatkan konten yang sama atau selalu bagus, kamu akan cepat bosan. Justru karena 90% kontennya "sampah" dan 10% sisanya "menarik", otakmu terus mencari yang 10% itu.
 
-## 4\. Validasi Sosial dan Hierarki Primal
+## 4\. Fitur Validasi Sosial
 
 Manusia adalah makhluk sosial yang secara evolusioner takut dikucilkan dari kelompok. Industri teknologi memanfaatkan rasa takut ini melalui fitur-fitur validasi:
 
@@ -69,7 +69,7 @@ Mari kita lihat bagaimana teori-teori di atas bekerja dalam skenario nyata:
 
 1. **Pemicu (Trigger):** Kamu merasa sedikit bosan atau stres (ketidaknyamanan emosional).
 2. **Tindakan (Action):** Secara otomatis, tanganmu merogoh saku dan membuka Instagram.
-3. **Hadiah Variabel (Variable Reward):** Kamu melakukan *pull-to-refresh*. Foto pertama biasa saja, foto kedua adalah iklan, tapi foto ketiga adalah foto mantanmu yang baru saja bertunangan. **BOOM!** Dopamin melonjak. Kamu terpaku untuk mencari tahu lebih lanjut.
+3. **Hadiah Variabel (Variable Reward):** Kamu melakukan *pull-to-refresh*. Foto pertama biasa saja, foto kedua adalah iklan, tapi foto ketiga adalah foto mantanmu yang baru saja bertunangan. Dopamin melonjak. Kamu terpaku untuk mencari tahu lebih lanjut.
 4. **Investasi (Investment):** Kamu memberikan *like* atau menulis komentar. Sekarang kamu telah "menanam saham" dan akan terus kembali untuk melihat apakah ada orang yang membalas komentarmu.
 
 Kalau digambar, keempat langkah itu membentuk lingkaran yang membuatmu terus kembali.
@@ -100,4 +100,4 @@ Kesadaran adalah langkah pertama. Begitu kamu menyadari bahwa aplikasi-aplikasi 
 
 *Tugas refleksi:* Amati perasaanmu saat membuka media sosial nanti. Apakah ada tujuan spesifik, atau jempolmu bergerak sendiri berburu dopamin?
 
-*Materi selanjutnya akan membahas cara membangun benteng pertahanan dari manipulasi perhatian menggunakan nilai-nilai hidup.*
+*Materi selanjutnya akan membahas cara memakai nilai-nilai hidup untuk melindungi perhatianmu dari manipulasi.*

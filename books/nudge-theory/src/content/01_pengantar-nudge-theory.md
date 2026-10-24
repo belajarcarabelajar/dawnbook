@@ -1,6 +1,6 @@
 ## Pengantar Nudge Theory
 
-Selamat datang di modul pertama dari perjalanan kita memahami **Arsitektur Pilihan** (*Choice Architecture*). Pernahkah kamu merasa bahwa keputusan yang kamu buat (seperti memilih menu makan siang, mengeklik tombol "Beli Sekarang", atau menentukan rute pulang) adalah hasil murni dari kehendak bebasmu?
+Setiap pilihan yang kamu ambil hadir dalam lingkungan yang sudah dirancang, dan rancangan itu punya nama: **Arsitektur Pilihan** (*Choice Architecture*). Pernahkah kamu merasa bahwa keputusan yang kamu buat (seperti memilih menu makan siang, mengeklik tombol "Beli Sekarang", atau menentukan rute pulang) adalah hasil murni dari kehendak bebasmu?
 
 Kenyataannya, setiap keputusan yang kita ambil selalu terjadi di dalam sebuah wadah atau lingkungan yang telah dirancang. Cara pilihan-pilihan tersebut disajikan kepadamu sangat memengaruhi apa yang akhirnya kamu pilih. Inilah inti dari Arsitektur Pilihan.
 
@@ -19,7 +19,7 @@ Seorang **Arsitek Pilihan** adalah siapa saja yang bertanggung jawab untuk menyu
 
 > "Seorang arsitek pilihan memiliki tanggung jawab untuk menyusun konteks keputusan sedemikian rupa sehingga pengguna tetap memiliki kebebasan memilih, namun diarahkan menuju hasil yang lebih baik bagi diri mereka sendiri."
 
-## Sang Manajer Kantin
+## Tata Letak Makanan di Kantin Sekolah
 
 Bayangkan kamu adalah seorang manajer kantin di sekolah besar. Kamu ingin para siswa makan lebih sehat tanpa harus melarang mereka membeli *junk food*. Dalam hal ini, kamu memegang kendali penuh atas tata letak makanan.
 
@@ -30,7 +30,7 @@ Meskipun pilihan menu yang ditawarkan sama persis (siswa bebas memilih apa saja)
 
 ## Lingkungan Fisik vs. Digital
 
-Arsitektur pilihan bekerja secara universal, baik di dunia nyata maupun di dunia maya.
+Arsitektur pilihan bekerja baik di dunia nyata maupun di dunia maya.
 
 ### 1. Lingkungan Fisik
 
@@ -90,4 +90,4 @@ Arsitek lift memahami bahwa manusia merasa cemas saat menunggu secara pasif. Den
 
 Kita bisa melatih kepekaan terhadap arsitektur pilihan ini dalam keseharian. Saat sedang bekerja di kantor, bersantai di rumah, atau sekadar menavigasi menu di ponsel, cobalah amati bagaimana tata letak objek atau antarmuka aplikasi didesain. Sering kali, posisi tombol atau penempatan barang dirancang secara sengaja untuk mengarahkan langkah kita berikutnya.
 
-> **Poin Penting:** Arsitektur pilihan berfokus pada memandu tindakan manusia tanpa menghilangkan kebebasan mereka. Di pembahasan berikutnya, kita akan mempelajari motor penggerak utama di balik perilaku ini, yaitu **Dual Process Theory**.
+> **Poin Penting:** Arsitektur pilihan berfokus pada memandu tindakan manusia tanpa menghilangkan kebebasan mereka. Di pembahasan berikutnya, kita akan mempelajari dasar psikologis perilaku ini, yaitu **Dual Process Theory**.

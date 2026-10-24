@@ -6,7 +6,7 @@ Janji itu bahkan sempat kamu umumkan dengan penuh semangat. "Malam ini saya tidu
 
 Kalau kamu sering berada di lingkaran seperti itu, buku ini ditulis untuk menjawab pertanyaan tersebut. Dan jawabannya, sebagaimana akan kamu lihat, jarang berbicara soal kemauan keras. Ia berbicara soal mesin.
 
-### Niat berbicara, kebiasaan tidak mendengarkan
+### Niat dan kebiasaan berjalan di jalur berbeda
 
 Kegagalan berulang seperti di atas sering dicatat sebagai soal karakter: kurang disiplin, kurang kuat, terlalu banyak alasan. Padahal kalau bukti riset diletakkan di atas meja, ceritanya jauh lebih teknis sekaligus jauh lebih memaafkan. Niat dan kebiasaan adalah dua sistem yang berjalan di jalur berbeda. Niat butuh perhatian, pertimbangan, dan tenaga. Kebiasaan tidak menyentuh ketiganya.
 
@@ -20,17 +20,17 @@ Karena itu pula niat selalu kalah waktu. Pada momen pemicu tiba, niatmu sedang l
 
 Mungkin kamu menyangka masalah ini hanya menyangkut begadang, camilan tengah malam, atau membuka media sosial tanpa sadar. Skalanya jauh lebih besar.
 
-Dalam studi diary yang dirancang Wood, Quinn, dan Kashy (2002), partisipan mencatat perilaku mereka sepanjang hari, termasuk ke mana pikiran mereka melayang saat melakukannya. Hasilnya mengejutkan: sekitar 43% perilaku harian dalam salah satu studi dilakukan hampir setiap hari dan biasanya di lokasi yang sama, sering sambil pikiran mengembara ke tempat lain. Artinya, porsi besar hari kita tidak benar-benar diputuskan. Ia dijalankan oleh mesin otomatis sementara kepala kita sedang di mana-mana.
+Dalam studi diary yang dirancang Wood, Quinn, dan Kashy (2002), partisipan mencatat perilaku mereka sepanjang hari, termasuk ke mana pikiran mereka melayang saat melakukannya. Hasilnya: sekitar 43% perilaku harian dalam salah satu studi dilakukan hampir setiap hari dan biasanya di lokasi yang sama, sering sambil pikiran mengembara ke tempat lain. Artinya, porsi besar hari kita tidak benar-benar diputuskan. Ia dijalankan oleh mesin otomatis sementara kepala kita sedang di mana-mana.
 
 Kalau porsi sebesar itu berjalan autopilot, konsekuensinya jelas. Kualitas hidup tidak hanya ditentukan keputusan besar yang jarang terjadi, seperti pindah kerja atau membeli rumah, melainkan juga hal-hal kecil yang terjadi hampir tanpa pikiran setiap hari: apa yang kamu gigit saat cemas, apa yang kamu buka begitu bangun tidur, apa yang kamu lakukan begitu duduk di meja. Dari sudut pandang ini, mengubah hidup berarti mengatur ulang mesin yang menjalankan hal-hal kecil itu. Inilah alasan kenapa kebiasaan layak dibahas serius, bukan sekadar jadi bahan resolusi awal tahun yang dilupakan sepekan kemudian.
 
-### Melawan mesin atau mengelolanya
+### Melawan kebiasaan atau mengelolanya
 
 Refleks pertama kebanyakan orang adalah menganggap kebiasaan buruk sebagai musuh yang harus dimusnahkan. Berhenti total, tanpa ampun, mulai hari ini. Sikap itu terasa heroik, tapi ia bertumpu pada asumsi yang keliru: bahwa mesin otomatis di dalam diri bisa dihapus dengan satu keputusan.
 
 Riset yang dirangkum Wood dan Rünger (2016) menunjukkan sebaliknya. Asosiasi antara konteks dan respons yang sudah tertanam tidak lenyap begitu kita berjanji. Yang bisa dilakukan justru lebih cerdas: mengelola konteks agar pemicu jarang muncul, mengatur imbalan, dan menyusun rencana sebelum momentum datang. Bukan melawan mesin dengan tenaga, tapi mengambil alih kemudi lewat desain.
 
-Perbedaan dua sikap ini akan menentukan nasib hampir semua usaha perubahanmu. Orang yang berharap niat mengalahkan mesin akan berulang kali kecewa, bukan karena dia lemah, tapi karena dia membawa alat yang salah ke pekerjaan yang salah. Orang yang memahami cara mesin bekerja mendapat keuntungan ganda: kebiasaan buruk bisa dikelola sampai kehilangan cengkeramannya, dan kebiasaan baik bisa dipasang agar bekerja untukmu, bukan melawanmu.
+Perbedaan dua sikap ini akan menentukan hasil hampir semua usaha perubahanmu. Orang yang berharap niat mengalahkan mesin akan berulang kali kecewa, bukan karena dia lemah, tapi karena dia membawa alat yang salah ke pekerjaan yang salah. Orang yang memahami cara mesin bekerja mendapat keuntungan ganda: kebiasaan buruk bisa dikelola sampai kehilangan cengkeramannya, dan kebiasaan baik bisa dipasang agar bekerja untukmu, bukan melawanmu.
 
 Buku ini menempuh perjalanan itu langkah demi langkah. Kita mulai dengan membongkar anatomi mesin, sebuah siklus sederhana yang menghubungkan pemicu, rutinitas, dan imbalan. Dari sana kita melirik ke dalam otak untuk melihat di mana mesin itu benar-benar beroperasi, menguji kenapa niat sekuat apa pun kerap gugur di tengah jalan, dan mencari tahu berapa lama sesungguhnya kebiasaan baru butuh waktu untuk menempel. Paruh berikutnya lebih praktis: memilih momen perubahan yang paling menguntungkan, menyusun rencana berbentuk jika-maka, mengganti rutinitas tanpa membongkar seluruh mesin, sampai membongkar mitos populer yang selama ini hanya membuat usahamu gagal sebelum mulai. Sepanjang buku ini, satu gagasan menjadi benang merah: kamu tidak perlu menjadi orang yang jauh lebih kuat, kamu hanya perlu menjadi arsitek yang paham mesinnya.
 

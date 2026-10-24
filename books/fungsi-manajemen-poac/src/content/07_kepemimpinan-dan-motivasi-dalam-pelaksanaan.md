@@ -1,8 +1,8 @@
 ## Kepemimpinan dan Motivasi dalam Pelaksanaan
 
-Dalam kerangka **POAC (Planning, Organizing, Actuating, Controlling)**, fungsi **Actuating** (Pelaksanaan) adalah fase di mana rencana di atas kertas berubah menjadi aksi nyata. Jika *Planning* adalah peta dan *Organizing* adalah kendaraannya, maka **Kepemimpinan dan Motivasi** adalah bahan bakar dan pengemudi yang memastikan kendaraan tersebut sampai ke tujuan.
+Dalam kerangka **POAC (Planning, Organizing, Actuating, Controlling)**, fungsi **Actuating** (Pelaksanaan) mengubah rencana di atas kertas menjadi aksi nyata. Jika *Planning* adalah peta dan *Organizing* adalah kendaraannya, maka **Kepemimpinan dan Motivasi** adalah bahan bakar dan pengemudi yang memastikan kendaraan tersebut sampai ke tujuan.
 
-Tanpa kepemimpinan yang efektif dan motivasi yang kuat, sumber daya organisasi yang paling hebat sekalipun akan tetap diam atau bergerak tanpa arah.
+Tanpa kepemimpinan yang efektif dan motivasi yang kuat, sumber daya organisasi akan diam atau bergerak tanpa arah.
 
 ## 1. Gaya Kepemimpinan
 

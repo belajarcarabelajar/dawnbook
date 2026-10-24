@@ -1,8 +1,8 @@
 ## Dampak Bias dalam Pengambilan Keputusan
 
-Bayangkan otak kita adalah seorang hakim di dalam ruang sidang yang sangat sibuk. Setiap hari, ribuan kasus (keputusan) masuk ke meja hijau tersebut. Karena beban kerja yang luar biasa, sang hakim sering kali mengambil "jalan pintas" untuk memberikan vonis cepat tanpa memeriksa seluruh bukti secara mendalam.
+Bayangkan otak kita adalah seorang hakim di dalam ruang sidang yang sangat sibuk. Setiap hari, ribuan kasus (keputusan) masuk ke meja hijau tersebut. Karena beban kerjanya berat, sang hakim sering kali mengambil "jalan pintas" untuk memberikan vonis cepat tanpa memeriksa seluruh bukti secara mendalam.
 
-Inilah realitas pengambilan keputusan manusia. Bias kognitif lebih dari sekadar istilah psikologi di buku teks. Ia adalah kekuatan tidak terlihat yang membentuk sejarah, meruntuhkan bisnis bernilai miliaran dolar, dan memengaruhi cara kita menyukai atau membenci orang lain.
+Inilah realitas pengambilan keputusan manusia. Bias kognitif lebih dari sekadar istilah psikologi di buku teks. Ia membentuk sejarah, meruntuhkan bisnis bernilai miliaran dolar, dan memengaruhi cara kita menyukai atau membenci orang lain.
 
 ## 1. Dunia Bisnis
 
@@ -15,7 +15,7 @@ Pada tahun 2000, pendiri Netflix, Reed Hastings, menawarkan perusahaannya kepada
 - **Status Quo Bias:** Ia merasa model bisnis penyewaan fisik masih sangat kuat.
 - **Confirmation Bias:** Ia hanya melihat data pelanggan yang masih datang ke toko, tanpa memedulikan tren digital yang mulai tumbuh.
 
-**Dampaknya:** Blockbuster akhirnya bangkrut pada 2010, sedangkan Netflix berkembang menjadi raksasa media global.
+**Dampaknya:** Blockbuster akhirnya bangkrut pada 2010, sedangkan Netflix berkembang menjadi perusahaan media global yang besar.
 
 ### Rekrutmen Karyawan
 
@@ -54,7 +54,7 @@ Dalam sebuah eksperimen psikologi hukum, hakim-hakim berpengalaman diberikan kas
 
 ## 4. Hubungan Personal dan Sosial
 
-Dalam kehidupan sehari-hari, bias kognitif sering menjadi "hantu" yang mengganggu komunikasi kita dengan pasangan, teman, atau keluarga.
+Dalam kehidupan sehari-hari, bias kognitif sering mengganggu komunikasi kita dengan pasangan, teman, atau keluarga.
 
 ### Hindsight Bias dalam Pertengkaran
 
@@ -69,7 +69,7 @@ Kita cenderung menilai kesalahan diri sendiri berdasarkan **situasi**, tetapi me
 - **Diri sendiri:** "Aku telat karena jalanan macet parah." (Situasi)
 - **Orang lain:** "Dia telat karena memang orangnya tidak disiplin." (Karakter)
 
-## Ringkasan Dampak Secara Global
+## Ringkasan Dampak per Sektor
 
 | Sektor | Bias Utama | Dampak Nyata |
 | --- | --- | --- |
@@ -86,7 +86,7 @@ Mari kita lihat bagaimana berbagai bias berkumpul dalam satu ruangan rapat:
 - **Insinyur muda** merasa ada masalah teknis, tetapi memilih diam karena tidak ingin bertentangan dengan kelompok. (**Groupthink** atau **In-group Bias**)
 - Setelah proyek A gagal total dua tahun kemudian, **Komisaris** berkata, "Saya sudah tahu proyek ini pasti akan gagal!" (**Hindsight Bias**)
 
-## Kesimpulan
+## Tiga Kerugian Akibat Bias
 
 Dampak bias dalam pengambilan keputusan lebih dari sekadar "salah pilih". Dampak sebenarnya adalah **distorsi realitas**. Ketika kita membiarkan bias memegang kendali:
 
@@ -96,4 +96,4 @@ Dampak bias dalam pengambilan keputusan lebih dari sekadar "salah pilih". Dampak
 
 > **Insight:** Mengakui bahwa kamu memiliki bias adalah langkah pertama menuju kebijaksanaan. Keputusan yang baik tidak lahir karena kita bebas dari bias, tetapi karena kita sadar dan terus mengoreksinya.
 
-*Selanjutnya, kita akan mempelajari teknik praktis untuk melawan "hantu-hantu" pikiran ini dalam bab "Teknik Mitigasi dan Debiasing".*
+*Selanjutnya, kita akan mempelajari teknik praktis untuk melawan bias-bias ini dalam bab "Teknik Mitigasi dan Debiasing".*

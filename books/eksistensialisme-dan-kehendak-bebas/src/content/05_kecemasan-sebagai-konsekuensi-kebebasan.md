@@ -11,9 +11,9 @@ Dalam tradisi filsafat eksistensial, khususnya melalui pemikiran Søren Kierkega
 
 > "Kecemasan adalah pusingnya kebebasan (*the dizziness of freedom*), yang muncul saat kebebasan memandang ke dalam jurang kemungkinannya sendiri." - Søren Kierkegaard
 
-#### Fenomenologi di Tepi Jurang
+#### Pusing di Tepi Jurang
 
-Kierkegaard mengilustrasikan kecemasan melalui pengalaman seseorang yang berdiri di bibir jurang curam. Sensasi pusing yang dialami bukan sekadar ketakutan objektif akan tergelincir karena gravitasi, melainkan kesadaran eksistensial yang menggetarkan bahwa tidak ada rintangan fisik apa pun yang mencegah dirinya untuk melompat selain keputusan kehendaknya sendiri.
+Kierkegaard mengilustrasikan kecemasan melalui pengalaman seseorang yang berdiri di bibir jurang curam. Sensasi pusing yang dialami bukan sekadar ketakutan objektif akan tergelincir karena gravitasi, melainkan kesadaran eksistensial bahwa tidak ada rintangan fisik apa pun yang mencegah dirinya untuk melompat selain keputusan kehendaknya sendiri.
 
 ### 2. Tanggung Jawab Radikal sebagai Sumber Kecemasan
 
@@ -37,19 +37,19 @@ Ketika seorang individu mengambil suatu keputusan, tindakan tersebut tidak hanya
 
 Jean-Paul Sartre merumuskan paradoks fundamental bahwa manusia "dikutuk untuk bebas" (*condamné à être libre*). Manusia tidak menghendaki kelahirannya ke dunia, namun begitu terlempar ke dalam eksistensi, ia bertanggung jawab secara penuh atas seluruh praksis kehidupannya.
 
-#### Karakteristik Kecemasan Eksistensial menurut Sartre
+#### Ciri-Ciri Kecemasan Eksistensial
 1. **Ketiadaan Sandaran Metafisik:** Tidak tersedianya tata nilai objektif yang inheren pada kosmos, sehingga subjek memikul tugas mandiri dalam menciptakan makna.
 2. **Urgensi Temporal:** Setiap momen temporal adalah titik bifurkasi keputusan yang mendefinisikan masa depan.
 3. **Solitudo Keputusan:** Kendati individu meminta pertimbangan pihak lain, tindakan memilih penasihat mana yang akan dipercaya tetap merupakan keputusan soliter dari subjek yang bersangkutan.
 
-### 4. Fenomenologi Pilihan dalam Dinamika Modern
+### 4. Lumpuh karena Terlalu Banyak Pilihan
 
 Dalam dinamika masyarakat kontemporer yang menyediakan multiplisitas opsi profesional dan personal, individu kerap mengalami kelumpuhan keputusan (*choice overload*):
 
 - **Studi Kasus Otonomi Profesional:** Seorang profesional yang melepaskan stabilitas karier korporat demi membangun inisiatif independen menghadapi *Angst* bukan semata karena risiko finansial, melainkan karena ketiadaan alibi jika proyek tersebut gagal.
 - **Ketiadaan Kambing Hitam:** Kegagalan atau keberhasilan proyek otonom merupakan buah langsung dari keputusan kehendak personal.
 
-### 5. Rekonseptualisasi Kecemasan sebagai Kekuatan Otentik
+### 5. Memaknai Ulang Rasa Cemas
 
 Eksistensialisme tidak memandang kecemasan sebagai kondisi disfungsional yang harus dieliminasi melalui medikalisasi, melainkan sebagai indikator otentisitas kesadaran:
 
@@ -74,6 +74,6 @@ flowchart TD
     E --> F["Pelarian dari tanggung jawab"]
 ```
 
-### 7. Harga Ontologis dari Kebebasan
+### 7. Kecemasan yang Menyertai Kebebasan
 
-Kecemasan adalah harga ontologis yang harus dibayar demi kepemilikan atas kebebasan. Menolak kecemasan berarti menolak kedaulatan diri sebagai manusia bebas. Dengan merangkul kecemasan sebagai konsekuensi wajar dari kebebasan, individu dapat melangkah dengan penuh kesadaran dan keteguhan dalam mengarungi dinamika eksistensi.
+Kecemasan adalah harga ontologis yang harus dibayar demi kepemilikan atas kebebasan. Menolak kecemasan berarti menolak kedaulatan diri sebagai manusia bebas. Dengan merangkul kecemasan sebagai konsekuensi wajar dari kebebasan, individu dapat bertindak dengan sadar dan teguh.

@@ -1,8 +1,8 @@
 ## Flow dalam Konteks Tim dan Organisasi
 
-Bayangkan sebuah band jazz yang sedang berimprovisasi di atas panggung. Tanpa partitur yang kaku, setiap pemain menanggapi nada dari pemain lain secara instan. Tidak ada yang mendominasi, namun musik yang dihasilkan terdengar sangat harmonis dan jauh lebih indah daripada jika mereka bermain sendiri-sendiri. Itulah yang kita sebut sebagai **Group Flow** (Aliran Kelompok).
+Bayangkan sebuah band jazz yang sedang berimprovisasi di atas panggung. Tanpa partitur yang kaku, setiap pemain menanggapi nada dari pemain lain secara instan. Tidak ada yang mendominasi, namun musik yang dihasilkan terdengar harmonis dan jauh lebih indah daripada jika mereka bermain sendiri-sendiri. Itulah yang kita sebut sebagai **Group Flow** (Aliran Kelompok).
 
-Dalam konteks organisasi, *Group Flow* adalah kondisi di mana sebuah tim bekerja dalam sinkronisasi yang sempurna, di mana ide-ide mengalir tanpa hambatan, dan produktivitas melonjak melampaui batas kemampuan individu.
+Dalam konteks organisasi, *Group Flow* adalah kondisi di mana sebuah tim bekerja selaras, ide-ide mengalir lancar, dan produktivitas tim melampaui kemampuan anggotanya secara sendiri-sendiri.
 
 ## Apa itu Group Flow?
 
@@ -27,7 +27,7 @@ Untuk menciptakan kondisi ini, organisasi tidak bisa hanya "berharap" itu terjad
 9. **The "Yes, And" Rule (Pola Pikir Improvisasi):** Mengambil ide rekan dan membangunnya lebih lanjut, bukan langsung menolaknya.
 10. **Shared Risk (Risiko Bersama):** Kegagalan atau keberhasilan ditanggung bersama, menciptakan rasa urgensi dan solidaritas.
 
-## Membangun Arsitektur Organisasi untuk Flow
+## Struktur Organisasi yang Mendukung Flow
 
 Di tingkat organisasi, struktur dapat mendukung atau justru menghambat *Group Flow*. Berikut adalah formula sederhana untuk melihat potensi sinergi tim:
 

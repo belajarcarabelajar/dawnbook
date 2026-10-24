@@ -2,7 +2,7 @@
 
 Bayangkan kamu sedang berdiri di tengah pasar yang sangat ramai. Orang-orang bertukar barang, bernegosiasi harga, dan menciptakan inovasi baru setiap saat. Namun, bayangkan jika di pasar tersebut, barang yang kamu bawa bisa diambil siapa saja tanpa izin, atau janji yang dibuat seseorang untuk membayar kamu besok bisa diingkari tanpa konsekuensi.
 
-Apakah pasar itu akan tetap berjalan? Tentu tidak. Dalam sistem ekonomi **Laissez-faire**, kebebasan individu dan hak properti adalah **fondasi mutlak** yang menopang seluruh struktur ekonomi, bukan sekadar pelengkap.
+Apakah pasar itu akan tetap berjalan? Tentu tidak. Dalam sistem ekonomi **Laissez-faire**, kebebasan individu dan hak properti adalah **fondasi** yang menopang seluruh struktur ekonomi, bukan sekadar pelengkap.
 
 ### 1. Hak Properti Pribadi
 
@@ -26,7 +26,7 @@ Dalam Laissez-faire, karena intervensi pemerintah seperti pajak atau regulasi sa
 2. **Akumulasi Modal:** Tanpa hak milik, tidak ada alasan untuk menabung atau berinvestasi. Investasi adalah fondasi pertumbuhan ekonomi jangka panjang.
 3. **Tanggung Jawab:** Hak milik memaksa individu menanggung risiko. Jika kamu merusak alat produksi milikmu sendiri, kamu sendiri yang rugi. Hal ini menciptakan efisiensi secara alami.
 
-> **Poin Penting:** Hak properti mengubah energi kreatif manusia menjadi aset produktif. Tanpa kepastian hukum atas hak milik, ekonomi akan terjebak dalam kondisi subsisten (hanya cukup untuk makan hari ini).
+> **Poin Penting:** Hak properti mengubah usaha manusia menjadi aset produktif. Tanpa kepastian hukum atas hak milik, ekonomi akan terjebak dalam kondisi subsisten (hanya cukup untuk makan hari ini).
 
 ### 2. Kebebasan Berkontrak
 
@@ -57,7 +57,7 @@ $$
 
 > **Bahan Pemikiran:** Apakah sebuah kontrak benar-benar bebas jika salah satu pihak menghadapi keterbatasan pilihan? Pendukung Laissez-faire berpendapat bahwa intervensi pemerintah justru mempersempit pilihan tersebut di masa depan.
 
-### 3. Sinergi Dua Pilar
+### 3. Kedua Pilar Bekerja Bersama
 
 Hak properti dan kebebasan berkontrak bekerja secara simbiotis. Mari kita lihat alurnya dalam skenario dunia nyata:
 

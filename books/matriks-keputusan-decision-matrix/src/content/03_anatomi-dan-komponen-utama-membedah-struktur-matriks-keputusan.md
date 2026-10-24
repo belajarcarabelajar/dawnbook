@@ -1,6 +1,6 @@
 ## Anatomi dan Komponen Utama Matriks Keputusan
 
-Pernahkah kamu merasa kewalahan saat harus memilih di antara beberapa opsi yang sama-sama menarik? Bayangkan kamu sedang berdiri di depan rak laptop. Ada yang baterainya tahan lama tetapi berat, ada yang sangat ringan tetapi mahal, dan ada yang performanya tinggi tetapi desainnya biasa saja. Pikiran kita sering kali macet karena mencoba memproses semua variabel ini secara bersamaan. Di sinilah **matriks keputusan** (*decision matrix*) berperan sebagai *exoskeleton* bagi otak kita. Alat ini membantu menstrukturkan pilihan berdasarkan berbagai **kriteria penilaian** untuk menghasilkan **skor berbobot** yang objektif.
+Pernahkah kamu merasa kewalahan saat harus memilih di antara beberapa opsi yang sama-sama menarik? Bayangkan kamu sedang berdiri di depan rak laptop. Ada yang baterainya tahan lama tetapi berat, ada yang sangat ringan tetapi mahal, dan ada yang performanya tinggi tetapi desainnya biasa saja. Pikiran kita sering kali macet karena mencoba memproses semua variabel ini secara bersamaan. Di sinilah **matriks keputusan** (*decision matrix*) membantu: alat ini menstrukturkan pilihan berdasarkan berbagai **kriteria penilaian** untuk menghasilkan **skor berbobot** yang objektif.
 
 Untuk menguasai metode ini, mari kita bedah anatomi dan komponen utamanya terlebih dahulu.
 
@@ -25,7 +25,7 @@ Setiap alternatif harus bersifat *comparable* (sebanding). Sebagai contoh, kamu 
 
 Kriteria wajib relevan dan dapat diukur dengan jelas agar penilaian tetap objektif. Semakin spesifik kriteria yang kamu tentukan, semakin minim bias yang muncul. Contohnya, saat menyeleksi laptop baru, kriteria yang digunakan bisa berupa *harga*, *daya tahan baterai*, *berat fisik*, hingga *kapasitas memori (RAM)*.
 
-Apakah semua kriteria memiliki tingkat kepentingan yang sama bagimu? Jika kamu sering bekerja secara *remote* di luar ruangan, daya tahan baterai tentu jauh lebih penting dibandingkan kapasitas RAM yang super besar. Perbedaan tingkat kepentingan inilah yang melahirkan komponen berikutnya.
+Apakah semua kriteria memiliki tingkat kepentingan yang sama bagimu? Jika kamu sering bekerja secara *remote* di luar ruangan, daya tahan baterai tentu jauh lebih penting dibandingkan kapasitas RAM yang besar. Perbedaan tingkat kepentingan inilah yang melahirkan komponen berikutnya.
 
 ### 3. Bobot (*Weight*)
 
@@ -85,7 +85,7 @@ Mari kita lihat penerapannya pada skenario nyata. Bayangkan seorang manajer HR i
 - **Alternatif**: Andi, Budi, dan Citra.
 - **Kriteria**: Kemampuan *coding* (bobot 50%), kerja sama tim (bobot 30%), dan ekspektasi gaji (bobot 20%).
 - **Proses Penilaian**:
-  - Citra memiliki kemampuan *coding* yang luar biasa (skor 5), tetapi ekspektasi gajinya sangat tinggi sehingga mendapat skor terendah untuk kriteria gaji (skor 1).
+  - Citra memiliki kemampuan *coding* yang sangat baik (skor 5), tetapi ekspektasi gajinya sangat tinggi sehingga mendapat skor terendah untuk kriteria gaji (skor 1).
   - Andi memiliki kemampuan *coding* standar (skor 3), tetapi sangat kooperatif dalam tim (skor 5) dan ekspektasi gajinya masuk akal (skor 4).
 
 Dengan menggunakan struktur *decision matrix* ini, manajer HR tidak hanya terpaku pada siapa yang paling mahir pemrograman, melainkan dapat menemukan kandidat yang paling sesuai dengan kebutuhan organisasi secara menyeluruh.

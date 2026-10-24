@@ -1,8 +1,8 @@
 ## Mekanisme Peluruhan Beta Minus (β−)
 
-Pernahkah terbayang sebuah atom yang tiba-tiba berubah identitasnya? Dalam dunia fisika nuklir, ini bukan sekadar imajinasi. Peluruhan Beta Minus ($\beta^-$) adalah salah satu keajaiban alam di mana sebuah inti atom melakukan transmutasi untuk mencapai kestabilan.
+Pernahkah terbayang sebuah atom yang tiba-tiba berubah identitasnya? Dalam dunia fisika nuklir, ini bukan sekadar imajinasi. Peluruhan Beta Minus ($\beta^-$) adalah proses di mana sebuah inti atom melakukan transmutasi untuk mencapai kestabilan.
 
-Mari kita selami lebih dalam bagaimana sebuah neutron yang tampak tenang di dalam inti atom bisa berubah menjadi proton dan memancarkan partikel berenergi tinggi.
+Mari kita lihat bagaimana sebuah neutron yang tampak tenang di dalam inti atom bisa berubah menjadi proton dan memancarkan partikel berenergi tinggi.
 
 ## Apa Itu Peluruhan Beta Minus?
 
@@ -28,7 +28,7 @@ Neutron dan proton tersusun dari partikel yang lebih kecil yang disebut **quark*
 
 Dalam peluruhan $\beta^-$, satu quark **down** di dalam neutron berubah menjadi quark **up**. Perubahan identitas quark inilah yang mengubah neutron menjadi proton.
 
-### 2. Persamaan Reaksi Nuklir
+### 2. Persamaan Peluruhan Beta Minus
 
 Secara matematis, proses dasar ini dapat dituliskan sebagai: $n \rightarrow p + e^- + \bar{\nu}_e$
 
@@ -69,10 +69,10 @@ $$
 
 1. **Induk**: Karbon-14 memiliki 6 proton dan 8 neutron (tidak stabil).
 2. **Proses**: Satu neutron berubah menjadi proton.
-3. **Anak**: Menjadi Nitrogen-14 (7 proton, 7 neutron) yang sangat stabil.
+3. **Anak**: Menjadi Nitrogen-14 (7 proton, 7 neutron) yang stabil.
 4. **Hasil samping**: Sebuah elektron terpental keluar dengan kecepatan mendekati kecepatan cahaya.
 
-## Aplikasi Dunia Nyata (Real-World Applications)
+## Kegunaan Peluruhan Beta Minus
 
 Mekanisme peluruhan $\beta^-$ bukan sekadar teori fisika; ia memiliki kegunaan praktis yang luas:
 
@@ -88,4 +88,4 @@ Mekanisme peluruhan $\beta^-$ bukan sekadar teori fisika; ia memiliki kegunaan p
 - **Hasil Akhir**: Nomor atom bertambah 1 ($Z+1$), nomor massa tetap ($A$).
 - **Gaya yang Bekerja**: Gaya Nuklir Lemah.
 
-> **Pesan Penting:** Peluruhan beta minus adalah cara alam semesta mendaur ulang ketidakstabilan menjadi kestabilan, membuktikan bahwa identitas sebuah materi tidaklah absolut, melainkan dinamis.
+> **Pesan Penting:** Peluruhan beta minus adalah cara inti yang kelebihan neutron mencapai kestabilan, dan dalam prosesnya identitas unsur itu ikut berubah.

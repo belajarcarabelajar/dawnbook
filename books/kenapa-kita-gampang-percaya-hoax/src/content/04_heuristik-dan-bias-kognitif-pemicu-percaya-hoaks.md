@@ -1,10 +1,10 @@
 ## Heuristik dan Bias Kognitif Pemicu Percaya Hoaks
 
-Otak kamu tidak punya waktu untuk menimbang setiap informasi yang lewat dengan teliti. Setiap hari kamu dibombardir ratusan, bahkan ribuan potongan pesan: notifikasi grup keluarga, unggahan teman, judul berita, pesan berantai. Kalau otak harus memverifikasi semuanya satu per satu, kamu tidak akan sempat melakukan apa pun. Maka otak mengambil jalan pintas. Jalan pintas inilah yang jadi celah masuk paling empuk buat hoaks.
+Otak kamu tidak punya waktu untuk menimbang setiap informasi yang lewat dengan teliti. Setiap hari kamu dibombardir ratusan, bahkan ribuan potongan pesan: notifikasi grup keluarga, unggahan teman, judul berita, pesan berantai. Kalau otak harus memverifikasi semuanya satu per satu, kamu tidak akan sempat melakukan apa pun. Maka otak mengambil jalan pintas. Jalan pintas inilah yang jadi celah masuk bagi hoaks.
 
-Di bab ini kamu akan berkenalan dengan mesin pengambilan keputusan cepat di kepalamu, dan kenapa mesin yang sama yang membuatmu efisien juga membuatmu rentan.
+Di bab ini kamu akan berkenalan dengan cara otakmu mengambil keputusan cepat, dan kenapa cara yang sama yang membuatmu efisien juga membuatmu rentan.
 
-### Heuristik sebagai jalan pintas yang berguna tapi bocor
+### Heuristik dan keputusan cepat
 
 Pada 1974, dua psikolog, **Amos Tversky** dan **Daniel Kahneman**, menunjukkan bahwa manusia jarang berpikir seperti kalkulator statistik. Sebaliknya, kita mengandalkan **heuristik**, yaitu aturan praktis yang menyederhanakan penilaian rumit menjadi keputusan cepat.
 
@@ -16,16 +16,16 @@ Masalahnya, jalan pintas yang berguna untuk memilih warung juga dipakai untuk me
 
 ### Bias konfirmasi
 
-Dari sekian banyak bias, satu ini adalah pemicu utama kenapa hoaks tertentu terasa begitu meyakinkan. **Bias konfirmasi** (dirangkum secara luas oleh **Nickerson**, 1998) adalah kecenderungan untuk mencari, menerima, dan mengingat informasi yang **mengonfirmasi keyakinan yang sudah kamu pegang**, sambil mengabaikan atau menolak yang bertentangan.
+Dari sekian banyak bias, satu ini adalah pemicu utama kenapa hoaks tertentu terasa meyakinkan. **Bias konfirmasi** (dirangkum secara luas oleh **Nickerson**, 1998) adalah kecenderungan untuk mencari, menerima, dan mengingat informasi yang **mengonfirmasi keyakinan yang sudah kamu pegang**, sambil mengabaikan atau menolak yang bertentangan.
 
 Lihat pola ini dalam keseharian:
 
 - Kamu sudah tidak suka pada suatu tokoh. Lalu muncul kabar buruk soal dia. Kamu langsung percaya dan membagikannya, tanpa merasa perlu mengecek.
 - Kabar baik tentang tokoh yang sama? Kamu curiga, kamu cari cacatnya, kamu anggap pencitraan.
 
-Hoaks yang "sesuai selera" adalah yang paling gampang menyebar, karena ia tidak menantang keyakinanmu, ia **memeluknya**. Kamu tidak merasa sedang ditipu. Kamu merasa sedang dibenarkan. Inilah kenapa hoaks politik, hoaks kesehatan, dan hoaks berbau kelompok begitu lengket: mereka membidik keyakinan yang sudah ada, bukan menciptakan keyakinan baru.
+Hoaks yang "sesuai selera" adalah yang paling gampang menyebar, karena ia tidak menantang keyakinanmu, ia **memeluknya**. Kamu tidak merasa sedang ditipu. Kamu merasa sedang dibenarkan. Inilah kenapa hoaks politik, hoaks kesehatan, dan hoaks berbau kelompok mudah lengket: mereka membidik keyakinan yang sudah ada, bukan menciptakan keyakinan baru.
 
-### Heuristik ketersediaan saat yang mudah teringat terasa lebih benar
+### Heuristik ketersediaan
 
 **Heuristik ketersediaan** (*availability heuristic*) membuat kamu menilai sesuatu lebih mungkin terjadi atau lebih benar kalau contohnya **mudah muncul di kepala**.
 
@@ -37,7 +37,7 @@ Hoaks memanfaatkan ini dengan **cerita yang dramatis dan gampang dibayangkan**. 
 
 Ada dua jalan pintas kembar yang bekerja di sini.
 
-**Heuristik keterkenalan** membuat sesuatu yang terasa **familiar** lebih dipercaya. Kalau kamu sudah beberapa kali melihat klaim yang sama berseliweran, ia mulai terasa benar hanya karena akrab, bukan karena terbukti. Ini adalah fondasi dari **efek kebenaran ilusi** yang akan kita bahas tuntas di bab 5.
+**Heuristik keterkenalan** membuat sesuatu yang terasa **familiar** lebih dipercaya. Kalau kamu sudah beberapa kali melihat klaim yang sama berseliweran, ia mulai terasa benar hanya karena akrab, bukan karena terbukti. Ini adalah fondasi dari **efek kebenaran ilusi** yang akan kita bahas di bab 5.
 
 **Source heuristic** membuat kamu menilai kebenaran pesan dari **siapa yang tampak menyampaikannya**. Kalau sebuah kabar seolah datang dari lembaga resmi, dokter, atau media besar, kamu cenderung menurunkan kewaspadaan. Pembuat hoaks tahu ini. Maka mereka menempelkan logo kementerian, mencatut nama rumah sakit, atau membuat tangkapan layar yang meniru tampilan media terkenal. Yang dinilai bukan isi klaimnya, melainkan **kemasannya yang terlihat sah**.
 
@@ -49,7 +49,7 @@ Pesan yang ditulis dengan kalimat sederhana, font yang jelas, nama yang gampang 
 
 Karena itu hoaks yang bagus jarang bertele-tele. Ia ringkas, bombastis, dan enak dibaca sekali lewat. Kelancaran membacamu disalahartikan otak sebagai kelayakan untuk dipercaya.
 
-### Bagaimana hoaks membajak tiap bias
+### Bagaimana hoaks memanfaatkan tiap bias
 
 | Bias / Heuristik | Definisi singkat | Bagaimana hoaks mengeksploitasinya |
 | --- | --- | --- |
@@ -74,4 +74,4 @@ Jadi pertahanan pertama bukanlah merasa "aku terlalu pintar untuk tertipu". Just
 - **Kefasihan pemrosesan** membuat pesan yang mudah dibaca disalahartikan sebagai pesan yang benar.
 - Pembuat hoaks tidak menaklukkan logikamu, mereka membajak jalan pintasmu.
 
-Salah satu jalan pintas di atas layak dibahas sendiri karena begitu kuatnya. Ketika sebuah klaim palsu diulang cukup sering, ia mulai terasa benar hanya karena akrab di telinga. Di modul berikutnya kita akan membedah fenomena itu secara khusus: **Efek Kebenaran Ilusi**.
+Salah satu jalan pintas di atas layak dibahas tersendiri. Ketika sebuah klaim palsu diulang cukup sering, ia mulai terasa benar hanya karena akrab di telinga. Di modul berikutnya kita akan membedah fenomena itu secara khusus: **Efek Kebenaran Ilusi**.

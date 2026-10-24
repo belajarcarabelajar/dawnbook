@@ -2,13 +2,13 @@
 
 Pernahkah kamu merasa seperti bendungan yang hampir jebol karena debit air terlalu besar? Air tersebut menggambarkan emosi kamu (kemarahan, kesedihan, atau kecemasan) yang jika terus ditekan tanpa penyaluran memadai akan meluap dan menimbulkan kerusakan.
 
-Regulasi emosi (*emotion regulation*) memfokuskan perhatian pada pengelolaan arus perasaan agar tetap terkendali dan tersalurkan secara produktif, bukan menekan atau meniadakan emosi tersebut. Bab ini membahas seni mengenali, memberi nama, dan melepaskan emosi melalui teknik yang teruji secara neurosains dan psikologis.
+Regulasi emosi (*emotion regulation*) memfokuskan perhatian pada pengelolaan arus perasaan agar tetap terkendali dan tersalurkan secara produktif, bukan menekan atau meniadakan emosi tersebut. Bab ini membahas cara mengenali, memberi nama, dan melepaskan emosi melalui teknik yang teruji secara neurosains dan psikologis.
 
 ### 1. Prinsip "Name It to Tame It"
 
 Langkah awal mengelola emosi mendalam adalah menyadari keberadaannya. Dalam struktur otak, **Amigdala** (*amygdala*) berperan memicu respons emosional instingtif. Saat emosi kewalahan datang, Amigdala bekerja sangat aktif.
 
-Penelitian neurosains menunjukkan bahwa saat seseorang memberi nama pada emosi yang dirasakan (*affect labeling*), aktivitas di Amigdala menurun secara mendalam, sementara aktivitas di **Prefrontal Cortex** (pusat kendali logika dan penalaran) meningkat.
+Penelitian neurosains menunjukkan bahwa saat seseorang memberi nama pada emosi yang dirasakan (*affect labeling*), aktivitas di Amigdala menurun, sementara aktivitas di **Prefrontal Cortex** (pusat kendali logika dan penalaran) meningkat.
 
 > **Prinsip Utama:** Giving a name to a feeling is the first step toward regaining control. (Memberi nama pada perasaan adalah langkah awal mengambil kembali kendali atas diri kamu).
 
@@ -66,7 +66,7 @@ Andi baru saja menerima umpan balik negatif dari atasannya di hadapan rekan kerj
 4. **Hasil Akhir:**
    Andi terhindar dari tindakan impulsif yang berpotensi merusak karier dan berhasil memperoleh kejelasan kognitif untuk mengevaluasi kinerjanya secara rasional.
 
-### 5. Kotak Pertolongan Pertama Emosional
+### 5. Rencana Penyaluran Emosi
 
 Persiapkan strategi respons sebelum gelombang emosi meluap. Isilah tabel panduan diri berikut:
 

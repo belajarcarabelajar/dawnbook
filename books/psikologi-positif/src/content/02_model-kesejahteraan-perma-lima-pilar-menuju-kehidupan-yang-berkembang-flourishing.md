@@ -1,6 +1,6 @@
 ## Model Kesejahteraan PERMA
 
-Selamat datang di inti dari Psikologi Positif. Jika sebelumnya kita telah memahami bahwa psikologi tidak hanya berfokus pada penyembuhan luka mental, maka **Model PERMA** adalah cetak biru untuk membangun "rumah" kesejahteraan yang kokoh.
+Inti dari Psikologi Positif terletak pada sebuah kerangka yang memetakan bagian-bagian penopang kesejahteraan, layaknya denah sebuah rumah. Jika sebelumnya kita telah memahami bahwa psikologi tidak hanya berfokus pada penyembuhan luka mental, maka **Model PERMA** adalah cetak biru untuk membangun "rumah" kesejahteraan yang kokoh.
 
 Dirumuskan oleh **Martin Seligman**, pelopor Psikologi Positif modern, model ini menggeser fokus dari sekadar "kebahagiaan" (yang sering kali bersifat sementara) menuju **kesejahteraan (well-being)** yang berkelanjutan. Seligman percaya bahwa kesejahteraan tidak bersumber dari satu hal tunggal, melainkan hasil dari lima elemen independen yang saling mendukung.
 
@@ -94,10 +94,10 @@ Cobalah mengukur kondisimu dengan memberikan skor 1-10 untuk setiap elemen PERMA
 | **M**eaning | | Melakukan satu aksi kebaikan kecil secara acak tanpa mengharap imbalan. |
 | **A**ccomplishment | | Menyelesaikan satu tugas tertunda yang terus membayangi pikiran. |
 
-## Kesimpulan
+## Kelima Pilar yang Saling Terkait
 
 Model PERMA mengingatkan kita bahwa kesejahteraan bukanlah titik akhir yang statis. Elemen-elemen ini bekerja layaknya sebuah ekosistem yang dinamis. Kamu tidak harus mencetak skor sempurna pada kelima pilar secara bersamaan. Dengan memahami pilar-pilar ini, kamu memiliki kompas untuk mengevaluasi bagian mana dari hidupmu yang sedang membutuhkan perhatian lebih agar kamu bisa terus bertumbuh secara optimal (*flourish*).
 
-> **Pesan Utama:** Kesejahteraan sejati dibangun melalui langkah kecil yang konsisten pada setiap pilar PERMA.
+> **Pesan Utama:** Kesejahteraan dibangun melalui langkah kecil yang konsisten pada setiap pilar PERMA.
 
-Dalam pembahasan berikutnya, kita akan mendalami pilar pertama: **Positive Emotion dan Teori Broaden-and-Build**, untuk menyingkap alasan ilmiah mengapa emosi positif mampu memperluas kapasitas berpikir dan ketangguhan kita.
+Dalam pembahasan berikutnya, kita akan mendalami pilar pertama: **Positive Emotion dan Teori Broaden-and-Build**, untuk melihat alasan ilmiah mengapa emosi positif mampu memperluas kapasitas berpikir dan ketangguhan kita.

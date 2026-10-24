@@ -1,6 +1,6 @@
 ## Jebakan Niat
 
-Bayangkan dirimu sebagai sebuah kota tua yang jalanan dan persimpangannya sudah lama ditata, jauh sebelum niat barumu muncul. Di setiap persimpangan besar berdiri papan iklan raksasa yang baru, bercahaya terang, terpasang kemarin malam. Iklan itu berkata: "Mulai besok, ambil jalan baru yang lebih sehat." Iklan itu buatanmu. Kamu yang memesannya, kamu yang membayarnya dengan seluruh semangatmu. Tapi di bawah aspal kota itu, sudah puluhan tahun tertanam rel kereta yang mengarah ke tujuan lama. Setiap pagi, tanpa kamu sadari, kereta itu berangkat tepat waktu, dan kamu ikut naik ke dalamnya. Iklan mewah itu tetap terpasang, terang, dan tidak pernah sekalipun mengubah rute kereta.
+Bayangkan dirimu sebagai sebuah kota tua yang jalanan dan persimpangannya sudah lama ditata, jauh sebelum niat barumu muncul. Di setiap persimpangan besar berdiri papan iklan besar yang baru, bercahaya terang, terpasang kemarin malam. Iklan itu berkata: "Mulai besok, ambil jalan baru yang lebih sehat." Iklan itu buatanmu. Kamu yang memesannya, kamu yang membayarnya dengan seluruh semangatmu. Tapi di bawah aspal kota itu, sudah puluhan tahun tertanam rel kereta yang mengarah ke tujuan lama. Setiap pagi, tanpa kamu sadari, kereta itu berangkat tepat waktu, dan kamu ikut naik ke dalamnya. Iklan itu tetap terpasang, terang, dan tidak pernah sekalipun mengubah rute kereta.
 
 Iklan itu adalah niat. Rel di bawah tanah adalah kebiasaan. Mesin pengotomat di basal ganglia dan dopamin yang mencatat setiap imbalan sudah kita lihat. Kini muncul pertanyaan yang lebih tajam: kalau niat saja tidak cukup, seberapa persis tidak cukupnya? Dan kenapa otak justru mendesain dirinya seperti itu?
 
@@ -10,11 +10,11 @@ Pertanyaan "apakah menaikkan niat mengubah perilaku" sebenarnya bisa diuji di la
 
 Webb dan Sheeran mengumpulkan seluruh eksperimen semacam itu ke dalam satu meta-analisis yang terbit di Psychological Bulletin pada 2006. Mereka mengukur dua hal terpisah: seberapa besar intervensi berhasil menaikkan niat, dan seberapa besar intervensi yang sama berhasil mengubah perilaku. Hasilnya tegas. Intervensi memang berhasil menaikkan niat dengan efek berukuran besar, d = 0,66. Tapi perubahan perilaku yang mengikutinya hanya berukuran kecil-sedang, d = 0,36.
 
-Apa artinya itu dalam bahasa sehari-hari? Artinya, meski kamu berhasil membakar semangat seseorang sampai mendidih, sampai dia benar-benar bulat tekadnya, hampir separuh tenaga itu hilang di perjalanan sebelum menjelma jadi tindakan. Niat memang berpengaruh, dan jangan pernah meremehkannya. Tapi pengaruh itu jauh dari cukup. Ada sesuatu yang bekerja di antara niat dan tindakan, sesuatu yang menyerap sebagian besar daya dorong itu dan tetap memilih jalan lama. Sesuatu itu punya nama: kebiasaan.
+Apa artinya itu dalam bahasa sehari-hari? Artinya, meski kamu berhasil menaikkan semangat seseorang sampai dia benar-benar bulat tekadnya, hampir separuh tenaga itu hilang di perjalanan sebelum menjadi tindakan. Niat memang berpengaruh, dan jangan pernah meremehkannya. Tapi pengaruh itu jauh dari cukup. Ada sesuatu yang bekerja di antara niat dan tindakan, sesuatu yang menyerap sebagian besar daya dorong itu dan tetap memilih jalan lama. Sesuatu itu punya nama: kebiasaan.
 
 ### Dua jalur di dalam kepalamu
 
-Untuk memahami kenapa hal itu terjadi, psikolog Benjamin Gardner pada 2015 meninjau 136 studi empiris tentang perilaku kesehatan dan merangkumnya dalam sebuah model yang disebut dual-process, atau proses ganda. Menurut model ini, setiap keputusan kecilmu hari ini ditarik oleh dua jalur yang bekerja dengan cara sangat berbeda.
+Untuk memahami kenapa hal itu terjadi, psikolog Benjamin Gardner pada 2015 meninjau 136 studi empiris tentang perilaku kesehatan dan merangkumnya dalam sebuah model yang disebut dual-process, atau proses ganda. Menurut model ini, setiap keputusan kecilmu hari ini ditarik oleh dua jalur yang bekerja dengan cara berbeda.
 
 Jalur pertama adalah jalur reflektif. Di sinilah niat, perencanaan, dan penilaian bekerja. Jalur ini yang aktif saat kamu berkata dalam hati, "mulai minggu depan aku akan jogging tiap pagi." Jalur reflektif itu cerdas dan fleksibel, tapi ia lambat dan mahal energi. Setiap keputusan yang dibuat di jalur ini menguras bahan bakar mental yang sama dengan yang kamu pakai untuk kerja, memutuskan menu makan malam, dan menahan diri dari membuka media sosial jam tiga sore.
 
@@ -28,7 +28,7 @@ Lalu apakah niat itu tandus? Tidak juga, dan penelitian berikut terasa menenangk
 
 Tapi temuan keduanya lebih menarik dari itu. Ketika konteks hidup berubah, pindah rumah, pindah kerja, atau hidup dengan cara yang baru, dominasi kebiasaan itu retak. Dalam situasi tidak stabil, niat dan penalaran kembali menjadi penentu utama perilaku. Papan iklanmu tiba-tiba punya daya lagi, karena rel di bawah tanah tidak lagi mengarah ke mana pun.
 
-Temuan ini adalah lentera yang akan terus menyala sepanjang sisa buku ini. Ia memberi tahu dua hal sekaligus. Pertama, berjuang melawan kebiasaan di dalam konteks lama adalah pertarungan paling tidak seimbang, dan itu bukan kegagalan karaktermu. Kedua, dan ini yang penting, ada momen-momen ketika medan pertarungan berpihak kepadamu.
+Temuan ini akan kita pakai sepanjang sisa buku ini. Ia memberi tahu dua hal sekaligus. Pertama, berjuang melawan kebiasaan di dalam konteks lama adalah pertarungan paling tidak seimbang, dan itu bukan kegagalan karaktermu. Kedua, dan ini yang penting, ada momen-momen ketika medan pertarungan berpihak kepadamu.
 
 Untuk saat ini, cukup serap satu pesan dari bab ini. Rencana "besok aku pasti lebih kuat" adalah strategi yang sudah teruji gagal, bukan karena kamu kurang kuat, tapi karena pertarungan itu tidak pernah dimenangkan oleh kekuatan niat semata. Pertanyaannya lalu bergeser: kalau bukan niat, lalu berapa lama sebenarnya waktu yang dibutuhkan untuk membangun jalur baru di bawah aspal itu? Jawabannya lebih panjang dari "21 hari" yang selalu kamu dengar, dan ceritanya bermula dari satu buku tua tahun 1960.
 

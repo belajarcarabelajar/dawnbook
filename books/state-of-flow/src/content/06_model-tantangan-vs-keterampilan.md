@@ -1,6 +1,6 @@
 ## Model Tantangan vs Keterampilan
 
-Pernahkah kamu merasa begitu tenggelam dalam sebuah tugas sehingga waktu seakan berhenti, namun di lain waktu kamu merasa sangat frustrasi hingga ingin menyerah, atau justru merasa sangat bosan hingga mengantuk? Perbedaan perasaan ini bukan terjadi secara acak. Hal ini ditentukan oleh hubungan matematis dan psikologis antara seberapa sulit tugas tersebut (**Tantangan**) dan seberapa hebat kamu dalam melakukannya (**Keterampilan**).
+Pernahkah kamu begitu tenggelam dalam sebuah tugas sehingga waktu seakan berhenti, namun di lain waktu merasa sangat frustrasi hingga ingin menyerah? Ada pula saat kamu merasa sangat bosan hingga mengantuk. Perbedaan perasaan ini bukan terjadi secara acak. Hal ini ditentukan oleh hubungan matematis dan psikologis antara seberapa sulit tugas tersebut (**Tantangan**) dan seberapa hebat kamu dalam melakukannya (**Keterampilan**).
 
 Mihaly Csikszentmihalyi, bapak dari konsep *Flow*, memetakan hubungan ini ke dalam sebuah model grafis yang menjadi fondasi utama dalam memahami bagaimana kita bisa mencapai performa puncak.
 
@@ -39,7 +39,7 @@ Terjadi ketika $\text{Keterampilan} > \text{Tantangan}$. Bayangkan seorang ahli 
 
 ### C. Saluran Flow (Flow Channel)
 
-Terjadi ketika $\text{Tantangan} \approx \text{Keterampilan}$. Inilah "zona emas". Tugas tersebut cukup sulit untuk membuat kamu tetap waspada dan fokus, namun cukup bisa dilakukan sehingga kamu merasa memiliki kendali.
+Terjadi ketika $\text{Tantangan} \approx \text{Keterampilan}$. Tugas tersebut cukup sulit untuk membuat kamu tetap waspada dan fokus, namun cukup bisa dilakukan sehingga kamu merasa memiliki kendali.
 
 ## 3\. Delapan Spektrum Pengalaman (The Experience Fluctuation Model)
 
@@ -53,7 +53,7 @@ Seiring berkembangnya riset, Csikszentmihalyi memperhalus model ini menjadi 8 ko
 | **Boredom** | Rendah | Menengah | Kurang minat, merasa terjebak dalam rutinitas. |
 | **Apathy** | Rendah | Rendah | Kondisi paling negatif; tidak peduli, tidak ada gairah (misal: menonton TV tanpa tujuan). |
 | **Worry** | Menengah | Rendah | Merasa tidak mampu menghadapi situasi yang agak sulit. |
-| **Anxiety** | Tinggi | Rendah | Stres berat karena tuntutan yang luar biasa besar. |
+| **Anxiety** | Tinggi | Rendah | Stres berat karena tuntutan yang terlalu besar. |
 | **Arousal** | Tinggi | Menengah | Tertarik dan fokus, namun masih butuh peningkatan skill untuk mencapai *flow*. |
 
 Delapan kondisi dalam tabel itu bisa kamu letakkan pada grafik dua sumbu, dengan keterampilan di sumbu mendatar dan tantangan di sumbu tegak.
@@ -74,7 +74,7 @@ quadrantChart
     Arousal: [0.5, 0.85]
 ```
 
-## 4\. Aplikasi Nyata dan Skenario
+## 4\. Contoh dari Perangkat Lunak dan Video Game
 
 ### Pengembangan Perangkat Lunak (Software Engineering)
 
@@ -105,7 +105,7 @@ Jika kamu merasa keluar dari jalur *flow*, gunakan langkah-langkah praktis berik
 2. **Tingkatkan Kualitas:** Jika menulis laporan terasa membosankan, tantang diri kamu untuk menggunakan kosakata yang lebih kaya atau analisis yang lebih mendalam.
 3. **Eksperimentasi:** Gunakan metode baru untuk menyelesaikan masalah lama.
 
-> **Penting:** Gerakan di dalam grafik ini bersifat spiral ke atas. Setiap kali kamu berhasil mengatasi tantangan tinggi dengan keterampilan baru, kamu tidak akan pernah kembali ke level tantangan yang rendah dengan kepuasan yang sama. Ini adalah **Evolusi Diri**.
+> **Penting:** Gerakan di dalam grafik ini bersifat spiral ke atas. Setiap kali kamu berhasil mengatasi tantangan tinggi dengan keterampilan baru, kamu tidak akan pernah kembali ke level tantangan yang rendah dengan kepuasan yang sama. Begitulah diri kamu bertumbuh.
 
 ## Kesimpulan
 

@@ -1,6 +1,6 @@
 ## Pengantar Bias Kognitif
 
-Selamat datang di langkah pertama untuk memahami salah satu misteri terbesar dalam perilaku manusia: **cognitive bias**. Pernahkah kamu merasa sangat yakin akan sesuatu, namun kemudian menyadari bahwa kamu sepenuhnya salah? Atau pernahkah kamu bertanya-tanya mengapa orang-orang yang cerdas terkadang membuat keputusan yang sangat tidak logis?
+Langkah pertama untuk memahami cara manusia mengambil keputusan adalah mengenal satu pola yang sering luput disadari: **cognitive bias**. Pernahkah kamu merasa sangat yakin akan sesuatu, namun kemudian menyadari bahwa kamu sepenuhnya salah? Atau pernahkah kamu bertanya-tanya mengapa orang-orang yang cerdas terkadang membuat keputusan yang tidak logis?
 
 Penyebabnya bukan karena kita kekurangan informasi atau kurang pintar, tetapi karena cara kerja alami otak kita.
 
@@ -10,19 +10,19 @@ Secara sederhana, **cognitive bias** adalah kesalahan sistematis dalam berpikir 
 
 > **Analogi Lensa Kamera:** Bayangkan otakmu adalah sebuah lensa kamera. Idealnya, lensa ini harus menangkap dunia apa adanya (objektif). Namun, setiap manusia lahir dengan "lensa yang sedikit retak" atau memiliki filter warna tertentu. Akibatnya, gambar yang dihasilkan oleh pikiran kita sering kali sedikit terdistorsi (terlalu terang di satu sisi, atau buram di sisi lainnya) tanpa kita sadari bahwa distorsi itu ada.
 
-Cognitive bias bertindak sebagai *rule of thumb* yang tidak tepat. Meskipun otak kita adalah mesin paling kompleks di alam semesta, ia memiliki keterbatasan dalam memproses informasi.
+Cognitive bias bertindak sebagai *rule of thumb* yang tidak tepat. Serumit apa pun cara kerjanya, otak kita memiliki keterbatasan dalam memproses informasi.
 
-## Revolusi Kahneman dan Tversky
+## Penelitian Kahneman dan Tversky
 
 Sebelum tahun 1970-an, dunia ekonomi dan psikologi sebagian besar percaya bahwa manusia adalah makhluk yang rasional (**Homo Economicus**). Diasumsikan bahwa jika diberikan data yang cukup, manusia akan selalu mengambil keputusan yang paling menguntungkan secara logis.
 
-Segalanya berubah berkat kolaborasi dua psikolog asal Israel: **Amos Tversky** dan **Daniel Kahneman**.
+Pandangan itu berubah lewat kolaborasi dua psikolog asal Israel: **Amos Tversky** dan **Daniel Kahneman**.
 
-### Titik Balik
+### Dari Eksperimen sampai Hadiah Nobel
 
 Mulai tahun 1969, mereka melakukan serangkaian eksperimen yang membuktikan bahwa manusia sering kali mengabaikan hukum logika dan probabilitas.
 
-- **1974:** Mereka menerbitkan makalah fenomenal *"Judgment Under Uncertainty: Heuristics and Biases"* di jurnal *Science*.
+- **1974:** Mereka menerbitkan makalah *"Judgment Under Uncertainty: Heuristics and Biases"* di jurnal *Science*.
 - **2002:** Daniel Kahneman dianugerahi Penghargaan Nobel dalam Ilmu Ekonomi (Amos Tversky telah wafat pada 1996, namun karyanya diakui secara luas sebagai dasar penghargaan tersebut).
 
 Karya mereka menunjukkan bahwa kesalahan manusia lahir dari mekanisme kognitif itu sendiri, bukan karena gangguan emosi.
@@ -55,9 +55,9 @@ Untuk memahami dari mana bias berasal, kita perlu mengenal konsep dua sistem dal
 1. **System 1 (Cepat & Intuitif):** Bekerja secara otomatis, tanpa usaha, dan di luar kendali sadar kita. Inilah sumber utama cognitive bias.
 2. **System 2 (Lambat & Analitis):** Membutuhkan perhatian penuh, usaha mental, dan digunakan untuk memecahkan masalah kompleks atau perhitungan matematika seperti: $\sqrt{144} \times 15 = ?$
 
-Cognitive bias terjadi ketika **System 1** mengambil alih tugas yang seharusnya dikerjakan oleh **System 2**, or ketika System 1 menyodorkan jawaban cepat yang kemudian disetujui begitu saja oleh System 2 yang malas.
+Cognitive bias terjadi ketika **System 1** mengambil alih tugas yang seharusnya dikerjakan oleh **System 2**, atau ketika System 1 menyodorkan jawaban cepat yang kemudian disetujui begitu saja oleh System 2 yang malas.
 
-## Skenario Dunia Nyata
+## Bias dalam Wawancara Kerja
 
 **Memilih Kandidat Karyawan** Seorang manajer HR sedang mewawancarai dua kandidat.
 
@@ -69,10 +69,10 @@ Karena pengaruh bias (dalam hal ini *Halo Effect*), otak manajer (System 1) seca
 ## Rangkuman Intisari
 
 - **Cognitive bias** adalah kesalahan berpikir sistematis yang memengaruhi penilaian kita.
-- **Kahneman & Tversky** adalah pionir yang meruntuhkan mitos bahwa manusia selalu rasional.
+- **Kahneman & Tversky** adalah pionir yang menunjukkan bahwa manusia tidak selalu rasional.
 - **Evolusi** membentuk bias sebagai mekanisme bertahan hidup untuk menghemat energi dan mempercepat pengambilan keputusan.
 - **System 1** (cepat) adalah tempat sebagian besar bias terjadi, sedangkan **System 2** (lambat) adalah alat kita untuk mengoreksinya.
 
 *Coba ingat satu keputusan besar yang kamu buat dalam satu tahun terakhir. Apakah kamu benar-benar menggunakan data objektif, atau adakah "perasaan instan" yang mendikte keputusan tersebut? Mungkinkah itu adalah cara kerja System 1-mu?*
 
-Di bagian selanjutnya, kita akan membedah **heuristics (heuristik)**, yaitu "mesin" yang bekerja di balik layar yang menghasilkan bias-bias ini.
+Di bagian selanjutnya, kita akan membedah **heuristics (heuristik)**, yaitu jalan pintas mental yang menghasilkan bias-bias ini.

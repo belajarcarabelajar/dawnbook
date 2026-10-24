@@ -2,7 +2,7 @@
 
 Bayangkan kamu duduk di sebuah ruangan kecil. Di depan kamu, ada sebuah piring berisi satu butir marshmallow yang manis dan empuk. Seorang peneliti masuk dan memberi tahu kamu: "Saya harus keluar sebentar. Jika marshmallow ini masih ada di piring saat saya kembali, saya akan memberimu satu lagi. Jadi, kamu akan punya dua."
 
-Inilah inti dari **Delayed Gratification**: kemampuan untuk menolak godaan kesenangan instan demi mendapatkan imbalan yang jauh lebih besar di masa depan. Dalam modul ini, kita akan mempelajari bagaimana melatih "otot" otak kita untuk memenangkan pertempuran melawan impulsivitas.
+Inilah inti dari **Delayed Gratification**: kemampuan untuk menolak godaan kesenangan instan demi mendapatkan imbalan yang jauh lebih besar di masa depan. Dalam modul ini, kita akan mempelajari bagaimana melatih "otot" otak kita untuk menahan impulsivitas.
 
 ## PFC vs. Sistem Limbik
 
@@ -76,7 +76,7 @@ Mari kita lihat bagaimana prinsip ini diterapkan dalam berbagai skenario kehidup
 | **Kesehatan** | Tidur larut malam menonton serial. | Tidur tepat waktu & bangun pagi untuk olahraga. | Energi tinggi, fokus tajam, dan umur panjang. |
 | **Karir/Studi** | Menunda tugas dengan *scrolling* TikTok. | Mengerjakan tugas tersulit di pagi hari. | Reputasi profesional & penguasaan *skill* baru. |
 
-## Strategi "The Joy of Progress"
+## Hadiah Kecil di Tengah Jalan
 
 Salah satu cara terbaik untuk bertahan dalam *delayed gratification* adalah dengan menemukan "hadiah kecil" di tengah jalan.
 

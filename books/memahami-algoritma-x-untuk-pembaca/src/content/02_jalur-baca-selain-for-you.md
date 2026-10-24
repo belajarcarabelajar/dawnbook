@@ -28,13 +28,13 @@ List adalah cara paling langsung untuk memegang kendali atas siapa yang kamu bac
 
 Search melayani kebutuhan yang lain lagi: kamu datang membawa pertanyaan, bukan menunggu disodori. Pencarian lanjutan bisa menyaring berdasarkan kata (semua kata, frasa persis, salah satu kata, kata yang dikecualikan, tagar, dan bahasa), akun, tempat, serta tanggal. Fitur ini memerlukan sesi login di x.com. Hasil pencarian juga terbagi ke beberapa tab, termasuk Top dan Latest, jadi biasakan membuka keduanya sebelum menarik kesimpulan.
 
-### Explore dan Trends dengan Kacamata Kritis
+### Cara Kerja Explore dan Trends
 
 Explore sering disangka sama dengan For You di beranda, padahal berbeda. Menurut penjelasan resmi X tentang rekomendasi Explore, tab For You di Explore merekomendasikan Trends, Events, Topics, dan Videos secara personal. Tab Trending terikat pada lokasi tertentu dan dijelaskan sebagai tidak dipersonalisasi untuk setiap akun.
 
 [Halaman rekomendasi Trends](https://help.x.com/en/resources/recommender-systems/trends-recommendations) menyebut empat hal yang memengaruhi Trends yang kamu lihat: Topics yang kamu ikuti, engagement terbarumu, minat yang sama dengan kelompok pengguna serupa, dan lokasi. Karena campurannya seluas itu, Trends personal tetap bisa memuat hal di luar minatmu. Di Uni Eropa, kotak What's happening tidak dipersonalisasi.
 
-Ada dua jenis umpan balik dengan efek yang sangat berbeda:
+Ada dua jenis umpan balik dengan efek yang berbeda:
 
 - **Not interested** hanya mengubah Trends yang kamu lihat sendiri.
 - **Harmful or spammy** adalah laporan yang memengaruhi Trends di seluruh X. Pakai hanya bila alasannya memang benar, bukan sekadar karena topiknya tidak kamu sukai.
@@ -55,7 +55,7 @@ Following dan List memberimu kendali lebih langsung atas kumpulan penulis, tetap
 
 - For You hanyalah salah satu jalur, dan karena X membuka kembali tab terakhir yang kamu pakai, kebiasaan mudah mengunci pilihanmu.
 - X Help hanya menyebut Following berisi post dari akun yang kamu ikuti; urutan terbaru dan penempatan iklan di Following serta Lists berasal dari README Home Mixer di repositori lama.
-- List memberi kendali atas sumber, bisa dibuat Private, dan bisa disematkan di samping tab Home, sedangkan Search menjawab pertanyaan dengan filter yang presisi.
+- List memberi kendali atas sumber, bisa dibuat Private, dan bisa disematkan di samping tab Home, sedangkan Search menjawab pertanyaan lewat filter pencarian lanjutan.
 - Trends dipengaruhi minat, engagement, dan lokasi, jadi bukan ukuran penting atau benarnya sebuah kabar.
 
 Setelah tahu ada banyak pintu masuk, saatnya mengintip mesin For You dari dekat dengan mengikuti perjalanan sebuah post, dari saat ia diterbitkan sampai mendarat di layarmu.

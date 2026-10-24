@@ -2,7 +2,7 @@
 
 Ada paradoks kecil yang hampir semua orang alami. Tugas yang paling berarti justru terasa paling tidak menarik untuk disentuh hari ini. Misalnya menyusun proposal besar atau menyiapkan berkas pajak. Sebaliknya, pekerjaan remeh seperti merapikan laci, membalas pesan lama, atau mencuci piring yang sebenarnya bisa menunggu mendadak terasa mendesak dan menyenangkan. Kalau motivasi hanya soal seberapa penting sebuah tugas, pola ini tidak masuk akal. Karena itu para peneliti mencari penjelasan yang lebih rapi, dan salah satu yang paling berpengaruh dirumuskan sebagai persamaan.
 
-### Persamaan di balik rasa malas
+### Persamaan temporal motivation theory
 
 Steel dan König (2006) menyusun **temporal motivation theory** (TMT), teori motivasi yang memasukkan waktu sebagai pemain utama. Teori ini dibangun dari beberapa gagasan sebelumnya: picoeconomics, teori ekspektansi, cumulative prospect theory, dan teori kebutuhan. Intinya diringkas dalam satu persamaan:
 
@@ -54,7 +54,7 @@ flowchart LR
     C --> D["Hasil bagi membesar"]
 ```
 
-> Ilustrasi penulis, bukan temuan: sebuah esai yang tenggatnya sebulan lagi terasa jinak selama tiga minggu, lalu mendadak jadi pusat hidupmu di malam terakhir.
+> Ilustrasi penulis, bukan temuan: sebuah esai yang tenggatnya sebulan lagi terasa jinak selama tiga minggu, lalu mendadak terasa mendesak di malam terakhir.
 
 Itu hanya gambaran, tetapi polanya cocok dengan bentuk persamaan. Definisi Steel (2007) yang kita temui di bab pertama menjelaskan kenapa gambaran ini terasa janggal: kita tahu akan rugi, tetapi lonjakan tarikan di ujung datang terlambat untuk menyelamatkan kualitas.
 
@@ -72,7 +72,7 @@ Petanya kira-kira begini, dan sebagian merupakan tafsir kasar penulis buku ini:
 
 Ingat bahwa ini temuan korelasional. Hubungan itu menunjukkan pola yang searah dengan teori, bukan bukti bahwa tiap faktor menyebabkan penundaan.
 
-### Model, bukan stopwatch
+### Batas kegunaan persamaan ini
 
 Persamaan ini tidak bisa kamu isi dengan angka lalu memprediksi kapan tepatnya kamu akan mulai bekerja. Kamu tidak punya skala yang pasti untuk "nilai" atau "harapan", dan perasaanmu berubah dari jam ke jam. Model ini berguna sebagai peta: ia menunjuk empat tempat yang bisa dikutak-katik, bukan jam yang berdetak di kepalamu. Faktor lain seperti suasana hati dan stres juga ikut bermain.
 
@@ -82,4 +82,4 @@ Persamaan ini tidak bisa kamu isi dengan angka lalu memprediksi kapan tepatnya k
 2. Tenggat menarik motivasi karena T - t mengecil. Ini akibat logis dari persamaan, bukan hasil eksperimen terpisah.
 3. Prediktor dalam meta-analisis Steel (2007) sejalan dengan unsur-unsur ini, tetapi sifatnya korelasional, dan model ini peta untuk berpikir, bukan alat ukur yang presisi.
 
-Satu unsur persamaan masih menyimpan pertanyaan: kenapa jeda waktu terasa begitu berat? Jejaknya mengarah ke kebiasaan batin kita menimbang "sekarang" lebih besar daripada "nanti".
+Satu unsur persamaan masih menyimpan pertanyaan: kenapa jeda waktu terasa berat? Jejaknya mengarah ke kebiasaan batin kita menimbang "sekarang" lebih besar daripada "nanti".

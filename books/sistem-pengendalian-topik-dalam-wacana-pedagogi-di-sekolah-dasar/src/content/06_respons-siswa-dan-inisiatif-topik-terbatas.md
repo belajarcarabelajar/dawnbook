@@ -1,10 +1,10 @@
 ## Respons Siswa dan Inisiatif Pembuka Topik Baru
 
-Dalam wacana pedagogi di sekolah dasar, alur pembicaraan kelas lebih sering didikte oleh guru. Meski demikian, siswa sesekali mengambil keberanian untuk mengendalikan atau membuka topik baru di tengah pertukaran komunikasi. Inisiatif siswa ini paling sering ditandai dengan penggunaan kata sapaan seperti *Bu* atau *Pak*. Kemunculan inisiatif yang sangat terbatas ini memperlihatkan betapa kuatnya dominasi struktur komunikasi guru dibandingkan ruang partisipasi siswa di kelas.
+Dalam wacana pedagogi di sekolah dasar, alur pembicaraan kelas lebih sering didikte oleh guru. Meski demikian, siswa sesekali mengambil keberanian untuk mengendalikan atau membuka topik baru di tengah pertukaran komunikasi. Inisiatif siswa ini paling sering ditandai dengan penggunaan kata sapaan seperti *Bu* atau *Pak*. Kemunculan inisiatif yang terbatas ini memperlihatkan dominasi struktur komunikasi guru atas ruang partisipasi siswa di kelas.
 
 ### Inisiatif Terbatas Siswa dalam Pembukaan Topik
 
-Berdasarkan temuan empiris dalam wacana kelas sekolah dasar, partisipasi aktif siswa dalam membuka topik baru berada pada tingkat yang amat rendah. Dari seluruh rekaman wacana yang dianalisis, pengendalian topik oleh siswa hanya ditemukan pada Teks 5, Teks 7, dan Teks 9. Siswa memanfaatkan kata sapaan langsung untuk menarik perhatian guru sebelum menyampaikan pertanyaan atau gagasan baru.
+Berdasarkan temuan empiris dalam wacana kelas sekolah dasar, partisipasi aktif siswa dalam membuka topik baru berada pada tingkat yang rendah. Dari seluruh rekaman wacana yang dianalisis, pengendalian topik oleh siswa hanya ditemukan pada Teks 5, Teks 7, dan Teks 9. Siswa memanfaatkan kata sapaan langsung untuk menarik perhatian guru sebelum menyampaikan pertanyaan atau gagasan baru.
 
 Tabel berikut menggambarkan distribusi dan pola inisiatif pembukaan topik oleh siswa dalam wacana interaksi kelas:
 
@@ -14,7 +14,7 @@ Tabel berikut menggambarkan distribusi dan pola inisiatif pembukaan topik oleh s
 | **Teks 7 (Menanam Ubi Kayu)** | *Bu* | Meminta klarifikasi aturan penulisan & hafalan | Guru menjawab sebagian, lalu mengabaikan |
 | **Teks 9 (Naskah Drama)** | *Pak* | Meminta izin melihat teks & konfirmasi anggota | Guru memberikan petunjuk dan arahan pementasan |
 
-> **Catatan Pedagogis**: Penggunaan kata sapaan oleh siswa merupakan satu-satunya sarana formal yang dianggap sopan oleh siswa untuk memutus alur wacana guru. Namun, frekuensi penggunaan yang sangat kecil menegaskan bahwa otoritas pembukaan topik masih sepenuhnya dipegang oleh guru.
+> **Catatan Pedagogis**: Penggunaan kata sapaan oleh siswa merupakan satu-satunya sarana formal yang dianggap sopan oleh siswa untuk memutus alur wacana guru. Namun, frekuensi penggunaan yang kecil menegaskan bahwa otoritas pembukaan topik masih sepenuhnya dipegang oleh guru.
 
 ### Dinamika Kata Sapaan dan Pemanggilan Berulang
 
@@ -32,7 +32,7 @@ Pada contoh di atas, siswa S2 perlu memanggil *"Pak, pak, bapak"* hingga tiga ka
 
 ### Fenomena Pengabaian Respons dan Ketimpangan Otoritas
 
-Tidak semua inisiatif topik yang dibuka oleh siswa mendapatkan tanggapan dari guru. Ada kalanya pertanyaan siswa disambut dengan sikap diam atau pengabaian, yang semakin mempertegas posisi guru sebagai pemegang kendali mutlak wacana.
+Tidak semua inisiatif topik yang dibuka oleh siswa mendapatkan tanggapan dari guru. Ada kalanya pertanyaan siswa disambut dengan sikap diam atau pengabaian, yang semakin mempertegas posisi guru sebagai pemegang kendali wacana.
 
 Sebagai gambaran, amati potongan wacana pada kegiatan menulis (Teks 7) di bawah ini:
 
@@ -71,6 +71,6 @@ Kata penanda *ya* mencatatkan frekuensi tertinggi sebesar 13% dalam pengalihan t
 
 ---
 
-### Rangkuman & Pertanyaan Refleksi 6
+### Seberapa Besar Ruang Inisiatif Siswa?
 1. **Refleksi Utama**: Apakah bentuk interaksi yang dijelaskan pada bab ini mencerminkan dinamika kelas yang inklusif atau didominasi oleh pendidik?
 2. **Penerapan Praktis**: Bagaimana strategi komunikasi dalam bab ini dapat disesuaikan untuk meningkatkan partisipasi aktif siswa?

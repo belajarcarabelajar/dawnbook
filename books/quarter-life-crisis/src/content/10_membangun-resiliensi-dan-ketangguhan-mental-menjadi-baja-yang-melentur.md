@@ -6,9 +6,9 @@ Dalam menghadapi **Quarter-Life Crisis**, kita sering kali merasa seperti telur,
 
 Resiliensi bukan hanya soal kemampuan "tahan banting" atau menahan beban tanpa mengeluh. Ini adalah kemampuan untuk beradaptasi, pulih, dan tumbuh lebih kuat setelah mengalami kegagalan, kesulitan, atau stres yang berat.
 
-### 1. Memahami Anatomi Resiliensi
+### 1. Apa yang Membentuk Resiliensi
 
-Resiliensi tidak muncul secara ajaib. Resiliensi merupakan "otot mental" yang dibangun lewat perpaduan pola pikir, regulasi emosi, dan tindakan konsisten. Secara ilmiah, resiliensi dapat digambarkan melalui persamaan sederhana:
+Resiliensi tidak muncul dengan sendirinya. Resiliensi merupakan "otot mental" yang dibangun lewat perpaduan pola pikir, regulasi emosi, dan tindakan konsisten. Secara ilmiah, resiliensi dapat digambarkan melalui persamaan sederhana:
 
 $$
 \text{Resiliensi} = \frac{\text{Pola Pikir Adaptif} + \text{Dukungan Sosial}}{\text{Tingkat Tekanan}}
@@ -16,17 +16,17 @@ $$
 
 Meskipun kita tidak selalu bisa mengendalikan "Tingkat Tekanan", kita punya kendali penuh untuk memperkuat pembilang (Pola Pikir dan Dukungan) agar resiliensi terjaga.
 
-#### Tiga Pilar Ketangguhan Mental
+#### Tiga Jenis Resiliensi
 
 1. **Resiliensi Kognitif:** Bagaimana kita memproses informasi dan menafsirkan kegagalan. Apakah kita melihat hambatan sebagai jalan buntu atau sebagai teka-teki yang harus dipecahkan?
-2. **Resiliensi Emosional:** Kemampuan untuk tetap tenang di tengah badai perasaan. Caranya dengan mengenali emosi tanpa membiarkannya mengambil alih kendali hidup kita.
+2. **Resiliensi Emosional:** Kemampuan untuk tetap tenang saat perasaan sedang bergejolak. Caranya dengan mengenali emosi tanpa membiarkannya mengambil alih kendali hidup kita.
 3. **Resiliensi Perilaku:** Langkah nyata yang kita ambil untuk bangkit, meskipun kita merasa takut atau lelah.
 
 ### 2. Dari "Fragile" Menjadi "Antifragile"
 
 Dalam bukunya, Nassim Taleb memperkenalkan konsep **Antifragile**. Jika sesuatu yang *fragile* (rapuh) hancur karena tekanan, dan sesuatu yang *resilient* (tangguh) mampu bertahan dari tekanan, maka sesuatu yang *antifragile* justru **bertumbuh dan menjadi lebih baik** akibat tekanan tersebut.
 
-> **Sudut Pandang:** Quarter-Life Crisis adalah api yang bisa menghanguskanmu jika kamu adalah kertas, tetapi akan menempamu menjadi pedang yang tajam jika kamu adalah besi mentah.
+> **Sudut Pandang:** Quarter-Life Crisis bekerja seperti api: kertas terbakar olehnya, sementara besi ditempa menjadi lebih kuat.
 
 *Apakah tantangan yang kamu hadapi saat ini adalah penghalang, atau sebenarnya adalah "beban latihan" yang dibutuhkan otot mentalmu untuk tumbuh?*
 
@@ -81,4 +81,4 @@ Sebagai langkah praktis, buatlah daftar (digital atau fisik) yang berisi hal-hal
 
 > **Pesan Utama:** Ketangguhan mental tidak berarti kamu tidak pernah jatuh. Ini adalah kemampuan untuk bangkit kembali setiap kali kamu terjatuh.
 
-*Ingatlah bahwa intan hanya terbentuk di bawah tekanan tinggi selama ribuan tahun. Krisis yang kamu alami sekarang adalah proses yang sedang membentuk nilai dirimu di masa depan.*
+*Krisis yang kamu alami sekarang adalah bagian dari proses yang membentuk dirimu di masa depan.*

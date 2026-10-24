@@ -1,6 +1,6 @@
 ## Spektrum Respons Manusia dalam Keadaan Darurat
 
-Bayangan umum mengenai respons individu saat menghadapi gempa bumi besar atau kebakaran gedung bertingkat sering kali terpolarisasi secara keliru: seseorang dianggap akan langsung berlari menyelamatkan diri secara heroik atau sebaliknya langsung tenggelam dalam kepanikan buta. Namun, data empiris dalam psikologi bencana membuktikan bahwa respons manusia dalam keadaan darurat bekerja melintasi sebuah spektrum perilaku yang kompleks dan bertingkat.
+Bayangan umum mengenai respons individu saat menghadapi gempa bumi besar atau kebakaran gedung bertingkat sering kali terpolarisasi secara keliru. Seseorang dianggap akan langsung berlari menyelamatkan diri secara heroik atau sebaliknya langsung tenggelam dalam kepanikan buta. Namun, data empiris dalam psikologi bencana membuktikan bahwa respons manusia dalam keadaan darurat bekerja melintasi sebuah spektrum perilaku yang kompleks dan bertingkat.
 
 Perilaku manusia saat krisis bukanlah fenomena biner. Reaksi individu tidak sekadar terbagi menjadi tenang versus panik, melainkan bergerak dinamis pada kontinum kognitif dan motorik yang dipengaruhi oleh tingkat persepsi ancaman, riwayat latihan kedaruratan (*stress inoculation*), serta kapasitas regulasi sistem saraf otonom.
 
@@ -56,7 +56,7 @@ Ketika otak mendeteksi anomali ekstrem yang belum pernah tersimpan dalam skema m
 
 Dalam manajemen darurat lapangan, pemutusan siklus pembekuan kognitif ini memerlukan stimulus eksternal yang tajam, seperti sentuhan fisik terukur atau instruksi verbal yang lugas dan berenergi tinggi (misalnya: *"LEPASKAN SABUK, BERDIRI SEKARANG!"*).
 
-### 3. Perilaku Heroik Impulsif dan Altruisme Ekstrem
+### 3. Perilaku Heroik yang Impulsif
 
 Di kutub respons yang berlawanan, muncul tindakan kepahlawanan spontan. Penelitian psikologi bencana menunjukkan bahwa tindakan heroik dalam fase awal krisis kerap bersifat impulsif dan didorong oleh refleks otomatis prososial, bukan hasil pertimbangan deliberatif yang panjang.
 
@@ -106,7 +106,7 @@ Penerapan konsep spektrum respons dapat diamati secara jelas melalui simulasi ke
 | **Respons Heroik & Adaptif ($10 \text{\%}$)** | Menarik alat pemadam api ringan (APAR), membuka pintu darurat, memberi instruksi jalur keluar kepada massa. | Meningkatkan laju evakuasi dan menurunkan angka fatalitas kelompok di sekitarnya. |
 | **Disfungsional ($10 \text{\%}$)** | Menjerit histeris secara konstan, meronta tanpa arah, menyebarkan desas-desus palsu di tengah kerumunan. | Mempercepat kenaikan ketegangan psikologis massa di sekitarnya. |
 
-### Rangkuman dan Pendalaman Analitis
+### Respons Darurat Bukan Ukuran Moral
 
 Spektrum respons manusia dalam keadaan darurat menegaskan bahwa perilaku individu pada detik-detik awal bencana bukanlah tolok ukur integritas moral, melainkan cerminan mekanisme neurofisiologis dalam merespons bahaya akut.
 

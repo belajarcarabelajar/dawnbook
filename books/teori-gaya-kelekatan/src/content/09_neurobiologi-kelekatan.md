@@ -1,10 +1,10 @@
 ## Neurobiologi Kelekatan
 
-Pernahkah kamu bertanya-tanya mengapa aroma seseorang yang kamu cintai bisa seketika menenangkan detak jantung kamu? Atau mengapa penolakan dari pasangan terasa seperti rasa sakit fisik yang nyata? Jawabannya tidak hanya terletak di "hati", tetapi tertanam jauh di dalam sirkuit saraf kita.
+Pernahkah kamu bertanya-tanya mengapa aroma seseorang yang kamu cintai bisa seketika menenangkan detak jantung kamu? Atau mengapa penolakan dari pasangan terasa seperti rasa sakit fisik yang nyata? Jawabannya ada di sirkuit saraf kita, tidak hanya di "hati".
 
 Kelekatan (*attachment*) adalah proses biologis yang nyata, lebih dari sekadar konsep psikologis abstrak. Hubungan awal kita dengan pengasuh berperan sebagai arsitek yang membangun struktur fisik otak kita.
 
-## 1. Plastisitas Otak sebagai Organ Sosial
+## 1. Otak Bayi yang Dibentuk Pengalaman
 
 Otak bayi yang baru lahir adalah organ yang paling tidak matang dibandingkan mamalia lainnya. Kondisi ini sebenarnya menjadi keuntungan alamiah karena memungkinkan otak untuk dibentuk oleh lingkungan tempat ia dibesarkan. Fenomena ini dikenal sebagai plastisitas yang bergantung pada pengalaman (*Experience-Dependent Plasticity*).
 
@@ -38,7 +38,7 @@ Oksitosin adalah hormon yang dilepaskan saat terjadi kontak mata, sentuhan kulit
 
 ### Kortisol
 
-Kortisol bekerja sebagai hormon stres. Ketika seorang bayi menangis tanpa henti dan tidak ditenangkan, tubuhnya dibanjiri oleh zat ini. Kadar kortisol yang tinggi secara terus-menerus di masa kecil dapat mengganggu perkembangan hippocampus (pusat memori), membuat sistem saraf menjadi sulit kembali ke keadaan tenang bahkan setelah stres berlalu.
+Kortisol bekerja sebagai hormon stres. Ketika seorang bayi menangis tanpa henti dan tidak ditenangkan, kadar zat ini dalam tubuhnya meningkat. Kadar kortisol yang tinggi secara terus-menerus di masa kecil dapat mengganggu perkembangan hippocampus (pusat memori), membuat sistem saraf menjadi sulit kembali ke keadaan tenang bahkan setelah stres berlalu.
 
 ### Dopamin
 
@@ -74,9 +74,9 @@ $$
 
 Sebagai contoh, mari kita bayangkan situasi konflik antara Andi, yang memiliki kelekatan cemas, dan Budi, yang memiliki kelekatan menghindar.
 
-Saat pertengkaran terjadi, amigdala Andi langsung bereaksi aktif dan memicu kekhawatiran bahwa Budi akan pergi. Detak jantungnya meningkat dan hormon kortisol membanjiri tubuhnya, mendorongnya untuk terus mengejar Budi demi mendapatkan kepastian. Di sisi lain, sistem saraf Budi merasa sangat kewalahan (*overwhelmed*). Untuk melindungi dirinya dari tekanan emosional tersebut, ia masuk ke mode mati rasa (*hipo-arousal*), memilih diam, dan menjauh.
+Saat pertengkaran terjadi, amigdala Andi langsung bereaksi aktif dan memicu kekhawatiran bahwa Budi akan pergi. Detak jantungnya meningkat dan kadar kortisol di tubuhnya naik, mendorongnya untuk terus mengejar Budi demi mendapatkan kepastian. Di sisi lain, sistem saraf Budi merasa kewalahan (*overwhelmed*). Untuk melindungi dirinya dari tekanan emosional tersebut, ia masuk ke mode mati rasa (*hipo-arousal*), memilih diam, dan menjauh.
 
-Memahami bahwa reaksi ini adalah respons otomatis dari sistem saraf, bukan disengaja untuk menyakiti, sangatlah penting. Melalui proses regulasi bersama (*co-regulation*), seperti pelukan hangat atau bernapas tenang bersama, pasangan dapat membantu meredakan produksi hormon stres satu sama lain dan kembali ke dalam jendela toleransi mereka.
+Penting untuk memahami bahwa reaksi ini adalah respons otomatis dari sistem saraf, bukan disengaja untuk menyakiti. Melalui proses regulasi bersama (*co-regulation*), seperti pelukan hangat atau bernapas tenang bersama, pasangan dapat membantu meredakan produksi hormon stres satu sama lain dan kembali ke dalam jendela toleransi mereka.
 
 ## Harapan dalam Neuroplastisitas
 
@@ -86,32 +86,4 @@ Seperti ungkapan bahwa luka yang lahir dari sebuah hubungan hanya bisa dipulihka
 
 Saat kamu merasa cemas dalam sebuah hubungan, cobalah untuk memperhatikan di bagian tubuh mana kamu merasakan ketegangan tersebut. Menyadari reaksi fisik ini membantu kamu memahami bahwa tubuh kamu sedang menjalankan pola pertahanan lama. Dengan kesadaran ini, kamu memiliki kemampuan untuk melatih kembali respons sistem saraf tersebut melalui kehadiran diri yang tenang.
 
-## Seni dan Keterampilan di Balik Relasi yang Mendalam
-
-Membangun relasi yang bermakna adalah seni sekaligus keterampilan sosial yang melibatkan kedalaman emosional, kejujuran, dan investasi waktu. Relasi yang mendalam melampaui percakapan basa-basi (*small talk*) dan menyentuh aspek nilai, impian, serta dukungan timbal balik.
-
-Berikut adalah pilar utama dalam membangun koneksi yang dalam:
-
-1. **Mendengarkan Secara Aktif (Active Listening):** Ini berarti mendengarkan untuk memahami emosi di baliknya, tidak hanya mendengar kata-kata. Fokuslah pada lawan bicara tanpa menyela atau sibuk memikirkan tanggapan kamu selanjutnya.
-2. **Kerentanan (Vulnerability):** Menurut peneliti Brené Brown, kerentanan adalah jembatan menuju koneksi. Ini berarti berani menunjukkan sisi asli kamu, termasuk ketakutan dan kegagalan, bukan hanya sisi 'sempurna' yang ingin kamu tampilkan.
-3. **Konsistensi dan Kehadiran:** Hubungan yang kuat dibangun melalui momen-momen kecil yang terakumulasi. Kehadiran saat dibutuhkan lebih berharga daripada hadiah yang mahal.
-4. **Empati di Atas Simpati:** Simpati adalah merasa kasihan pada seseorang; empati adalah mencoba merasakan apa yang mereka rasakan.
-
-"Koneksi adalah energi yang tercipta di antara orang-orang ketika mereka merasa dilihat, didengar, dan dihargai." (Brené Brown)
-
-### Dua Kebiasaan Kecil untuk Memperdalam Relasi
-
-Untuk membantu kamu memvisualisasikan bagaimana sebuah hubungan tumbuh, kita bisa membayangkan sebuah persamaan sederhana tentang kedalaman relasi:
-
-<div>
-$$
-\text{Kedalaman Relasi} = \frac{\text{Waktu Berkualitas} \times \text{Keterbukaan}}{\text{Ego}}
-$$
-</div>
-
-Artinya, semakin besar keterbukaan dan waktu yang diberikan, semakin dalam relasinya. Namun, jika ego terlalu mendominasi, kedalaman tersebut akan berkurang.
-
-**Contoh Tindakan Nyata:**
-
-* **Ajukan pertanyaan terbuka:** Alih-alih bertanya "Apa kabarmu?", cobalah bertanya "Apa hal yang paling membuatmu bersemangat minggu ini?"
-* **Apresiasi yang spesifik:** Alih-alih berkata "Terima kasih," cobalah berkata "Aku sangat menghargai caramu mendengarkanku tadi, itu membuatku merasa sangat didukung."
+Kamu juga tidak harus melakukannya sendirian: lewat regulasi bersama, pelukan hangat atau napas tenang bersama pasangan ikut membantu sistem sarafmu kembali ke dalam jendela toleransi.

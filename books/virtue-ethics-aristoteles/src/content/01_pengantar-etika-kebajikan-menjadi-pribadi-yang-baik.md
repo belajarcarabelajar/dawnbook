@@ -1,6 +1,6 @@
 ## Pengantar Etika Kebajikan
 
-Selamat datang dalam perjalanan eksplorasi moral yang paling mendalam dalam sejarah filsafat. Jika biasanya kita belajar tentang etika sebagai daftar "boleh" dan "tidak boleh", atau "dosa" dan "pahala", maka **Etika Kebajikan (Virtue Ethics)** mengajak kamu melihat ke arah yang berbeda: ke dalam diri kamu sendiri.
+Etika kebajikan menilai moralitas dari karakter orang yang bertindak, sebuah cara pandang yang dasarnya diletakkan oleh Aristoteles. Jika biasanya kita belajar tentang etika sebagai daftar "boleh" dan "tidak boleh", atau "dosa" dan "pahala", maka **Etika Kebajikan (Virtue Ethics)** mengajak kamu melihat ke arah yang berbeda: ke dalam diri kamu sendiri.
 
 Alih-alih berfokus pada tindakan spesifik atau aturan yang kaku, etika kebajikan menyoroti pentingnya **karakter**. Pertanyaan mendasarnya sudah bergeser dari *"Apa yang harus saya lakukan?"* menjadi *"Orang seperti apakah saya seharusnya?"*
 
@@ -22,7 +22,7 @@ Mari kita pakai contoh nyata di dunia memasak.
 
 Bayangkan seorang **Koki Pemula**. Ia bekerja mengekor pada **aturan** dan harus melihat buku resep setiap detik. Jika resep mengatakan "tambahkan 5 gram garam", ia menimbangnya dengan teliti. Jika timbangannya mendadak rusak, ia akan kebingungan dan masakannya bisa gagal.
 
-Di sisi lain, ada seorang **Koki Maestro** yang memasak berbekal **karakter dan insting**. Ia jarang membuka buku resep karena indra perasanya sudah terlatih sangat tajam. Instingnya tahu persis kapan harus menambah sedikit garam hanya dari aroma masakan di wajan. Inilah wujud "kebajikan" di dapur.
+Di sisi lain, ada seorang **Koki Maestro** yang memasak berbekal **karakter dan insting**. Ia jarang membuka buku resep karena indra perasanya sudah terlatih tajam. Instingnya tahu persis kapan harus menambah sedikit garam hanya dari aroma masakan di wajan. Inilah wujud "kebajikan" di dapur.
 
 Dalam hidup sehari-hari, aturan kaku seringkali tidak memadai karena dunia terlalu kompleks untuk dimasukkan dalam satu buku petunjuk. Etika Kebajikan percaya bahwa dengan melatih diri menjadi individu yang jujur, berani, dan murah hati, keputusan yang benar akan mengalir secara alami dari dalam diri kamu tanpa paksaan dari luar.
 
@@ -58,7 +58,7 @@ Sebaliknya, **Pribadi Berkebajikan** akan menerapkan **Phronesis** (Kebijaksanaa
 
 ### Mengapa Ini Penting Bagi kamu?
 
-Di era modern yang serba terburu-buru, Etika Kebajikan hadir sebagai pelabuhan batin. Ia menawarkan sebuah proses bertumbuh yang bernilai tinggi, dibanding sekadar menyodorkan jawaban instan. 
+Di era modern yang serba terburu-buru, Etika Kebajikan menawarkan sebuah proses bertumbuh, dibanding sekadar menyodorkan jawaban instan.
 
 Secara matematis, etika ini mengikuti fungsi pertumbuhan sederhana:
 
@@ -68,4 +68,4 @@ $$
 $$
 </div>
 
-Etika kebajikan pada intinya membahas seni memanusiakan diri sendiri. Kualitas diri sesungguhnya dinilai dari siapa kamu saat kamu sendirian dan bagaimana dorongan batin tersebut menuntun ke arah kehidupan yang bermakna. Pendekatan ini menempatkan sosok manusianya sebagai sentral utama. Lewat pembiasaan yang tiada henti, karakter perlahan menguat sampai ke tahap Eudaimonia,kondisi puncak tatkala manusia merealisasikan seluruh potensi terbaiknya.
+Etika kebajikan pada intinya membahas cara membentuk diri menjadi manusia yang baik. Kualitas diri sesungguhnya dinilai dari siapa kamu saat kamu sendirian dan bagaimana dorongan batin tersebut menuntun ke arah kehidupan yang bermakna. Pendekatan ini menempatkan sosok manusianya sebagai sentral utama. Lewat pembiasaan yang konsisten, karakter perlahan menguat sampai ke tahap Eudaimonia, kondisi tatkala manusia merealisasikan seluruh potensi terbaiknya.

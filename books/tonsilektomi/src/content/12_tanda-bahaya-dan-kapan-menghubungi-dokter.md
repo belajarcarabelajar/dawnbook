@@ -53,7 +53,7 @@ Berikut adalah contoh perbedaan penanganan medis yang cepat dibandingkan dengan 
 
 **Skenario B (Tindakan Terlambat):** Santi merasa sangat lemas dan tidak buang air kecil sejak pagi karena takut merasakan nyeri saat menelan. Ia mengira kondisi lemas ini wajar setelah operasi. Sore harinya, Santi pingsan akibat dehidrasi berat. *Hasil: Santi harus menjalani rawat inap kembali untuk mendapatkan infus cairan intravena, yang sebenarnya bisa dicegah jika tanda dehidrasi diantisipasi lebih awal.*
 
-## Ringkasan Tindakan Darurat
+## Gejala Darurat dan Tindakannya
 
 | Gejala | Tindakan |
 | --- | --- |

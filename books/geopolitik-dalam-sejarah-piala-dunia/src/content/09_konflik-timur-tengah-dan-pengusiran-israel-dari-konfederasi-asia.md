@@ -1,18 +1,18 @@
 ## Konflik Timur Tengah dan Pengusiran Israel dari Konfederasi Asia
 
-Sepak bola sering kali dianggap sebagai "bahasa universal", namun sejarah menunjukkan bahwa politik sering kali menjadi tembok yang tidak bisa ditembus oleh si kulit bundar. Salah satu fragmen paling dramatis dalam sejarah geopolitik sepak bola adalah perjalanan Tim Nasional Israel.
+Sepak bola sering kali dianggap "bahasa universal", namun sejarah menunjukkan politik kerap membatasi jangkauannya. Perjalanan Tim Nasional Israel adalah salah satu contohnya dalam sejarah geopolitik sepak bola.
 
-Bagaimana mungkin sebuah negara yang secara geografis terletak di jantung Asia harus bertanding memperebutkan tiket Piala Dunia melawan negara-negara seperti Inggris, Spanyol, dan Jerman di Eropa? Jawabannya ada pada ruang-ruang diplomasi dan konflik bersenjata di Timur Tengah, bukan di atas rumput hijau.
+Bagaimana mungkin sebuah negara yang secara geografis terletak di Asia harus bertanding memperebutkan tiket Piala Dunia melawan negara-negara seperti Inggris, Spanyol, dan Jerman di Eropa? Jawabannya ada pada ruang-ruang diplomasi dan konflik bersenjata di Timur Tengah, bukan di atas rumput hijau.
 
 ## 1. Israel sebagai Pendiri AFC
 
-Pada awalnya, hubungan Israel dengan sepak bola Asia sangatlah harmonis. Israel merupakan salah satu dari 12 negara pendiri **Asian Football Confederation (AFC)** pada tahun 1954. Pada masa itu, Israel adalah kekuatan besar di sepak bola Asia, memenangkan Piala Asia 1964 dan secara rutin menjadi penantang utama di kawasan tersebut.
+Pada awalnya, hubungan Israel dengan sepak bola Asia harmonis. Israel merupakan salah satu dari 12 negara pendiri **Asian Football Confederation (AFC)** pada tahun 1954. Pada masa itu, Israel adalah kekuatan besar di sepak bola Asia, memenangkan Piala Asia 1964 dan secara rutin menjadi penantang utama di kawasan tersebut.
 
 Namun, ketegangan politik dengan negara-negara Arab, yang berakar dari konflik Arab-Israel tahun 1948, mulai merembet ke lapangan hijau. Sepak bola menjadi alat bagi negara-negara tetangga Israel untuk menunjukkan solidaritas mereka terhadap Palestina melalui kebijakan **boikot**.
 
 ## 2. Krisis Kualifikasi 1958 dan "Juara Tanpa Bertanding"
 
-Peristiwa paling unik sekaligus memalukan bagi FIFA terjadi pada kualifikasi Piala Dunia 1958. Ini adalah contoh nyata bagaimana politik dapat melumpuhkan sistem kompetisi.
+Peristiwa yang memalukan bagi FIFA terjadi pada kualifikasi Piala Dunia 1958. Ini adalah contoh nyata bagaimana politik dapat melumpuhkan sistem kompetisi.
 
 **Skenario Boikot:**
 Beberapa negara mengambil sikap tegas dalam babak kualifikasi ini:
@@ -36,7 +36,7 @@ Dalam sebuah kongres AFC yang diprakarsai oleh **Kuwait**, dilakukan pemungutan 
 
 Secara resmi, Israel dikeluarkan dari AFC. Hal ini menciptakan anomali geopolitik: sebuah negara yang diakui FIFA tetapi tidak memiliki "rumah" (konfederasi).
 
-## 4. Masa "Nomaden" dan Pengembaraan di Benua Lain
+## 4. Israel Berpindah-pindah Zona Kualifikasi
 
 Selama hampir dua dekade (1974-1991), Israel menjadi tim "tunawisma" dalam kualifikasi Piala Dunia. Mereka harus berpindah-pindah zona kualifikasi tergantung pada keputusan FIFA, yang sering kali mencari solusi pragmatis agar jadwal tidak berantakan.
 
@@ -65,7 +65,7 @@ Kasus Israel di AFC adalah pelajaran klasik bahwa olahraga tidak bisa dipisahkan
 - **Evolusi Boikot**: Pola boikot yang terjadi pada era 1970-an kini terus berulang dalam bentuk lain, seperti penolakan bertanding melawan Rusia setelah invasi ke Ukraina, atau gelombang protes hak asasi manusia menjelang turnamen di Qatar 2022.
 - **Kekuatan Diplomasi Blok**: Kasus ini menunjukkan bahwa organisasi global seperti FIFA kerap tidak berdaya menghadapi kesepakatan kolektif dari blok politik regional jika suara mayoritas mereka bersatu.
 
-## Ringkasan Perubahan Peta Kualifikasi
+## Tiga Periode Konfederasi Israel
 
 | Periode | Konfederasi Israel | Dampak Utama |
 | --- | --- | --- |
@@ -73,6 +73,6 @@ Kasus Israel di AFC adalah pelajaran klasik bahwa olahraga tidak bisa dipisahkan
 | **1974 - 1991** | **Independen/Nomaden** | Israel berpindah antara Oseania dan Eropa; logistik yang kacau. |
 | **1994 - Sekarang** | **UEFA (Eropa)** | Israel memiliki rumah tetap; kualifikasi menjadi jauh lebih kompetitif (sulit). |
 
-> **Insight Penting:** Perpindahan Israel ke UEFA terjadi sebagai solusi administratif atas kebuntuan diplomatik, bukan karena faktor kedekatan geografis. Kasus ini menegaskan bahwa peta politik kerap menentukan batas-batas wilayah dalam sepak bola dunia melebihi batas bumi yang sebenarnya.
+> **Insight Penting:** Perpindahan Israel ke UEFA terjadi sebagai solusi administratif atas kebuntuan diplomatik, bukan karena faktor kedekatan geografis. Kasus ini menegaskan bahwa peta politik kerap menentukan batas-batas wilayah dalam sepak bola dunia melebihi batas geografis.
 
 Jika hari ini Israel masih berkompetisi di Asia, bagaimana kira-kira dinamika persaingan sepak bola dan tensi politik di kawasan Timur Tengah akan berlangsung?

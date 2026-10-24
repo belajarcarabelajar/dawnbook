@@ -1,12 +1,12 @@
-## Kebajikan dan Buah Manis Tindakan Mulia
+## Kebajikan dan Hasil Perbuatan Baik
 
-Setelah sebelumnya kita melihat bagaimana tindakan negatif berujung pada penderitaan, kini kita akan membalik lembaran relief Karmawibhangga untuk melihat sisi yang penuh harapan dan cahaya. Jika relief Borobudur adalah sebuah cermin, maka bagian ini adalah bagian yang memantulkan wajah terbaik kemanusiaan.
+Setelah melihat tindakan negatif berujung pada penderitaan, kini kita membalik lembaran relief Karmawibhangga ke sisi perbuatan baik dan hasilnya. Jika relief Borobudur adalah sebuah cermin, maka bagian ini memantulkan perbuatan baik manusia.
 
-Di kaki tersembunyi Borobudur, terdapat panel-panel yang secara visual sangat kontras dengan panel hukuman. Suasananya lebih tenang, komposisinya lebih harmonis, dan ekspresi tokoh-tokohnya memancarkan kedamaian. Inilah visualisasi dari **Kusala Karma** (perbuatan baik).
+Di kaki tersembunyi Borobudur, terdapat panel-panel yang secara visual kontras dengan panel hukuman. Suasananya lebih tenang, komposisinya lebih harmonis, dan ekspresi tokoh-tokohnya tampak damai. Inilah visualisasi dari **Kusala Karma** (perbuatan baik).
 
-## 1. Menanam Benih di Tanah yang Subur
+## 1. Perumpamaan Benih
 
-Untuk memahami panel-panel ini, bayangkan hukum sebab-akibat sebagai sebuah sistem agrikultur kosmik. Setiap tindakan kita adalah benih yang ditanam di ladang kesadaran.
+Untuk memahami panel-panel ini, bayangkan hukum sebab-akibat sebagai pertanian. Setiap tindakan kita adalah benih yang ditanam.
 
 > **Analogi:** Jika kemarahan adalah benih berduri yang melukai penanamnya, maka kebajikan adalah benih pohon buah yang rimbun. Kita tidak hanya menikmati buahnya yang manis, tetapi juga keteduhan di bawah naungannya.
 
@@ -26,7 +26,7 @@ Di mana:
 
 ## 2. Pilar-Pilar Kebajikan dalam Relief
 
-Relief Karmawibhangga menyoroti tiga pilar utama yang dianggap sebagai "investasi spiritual" paling berharga dalam pandangan masyarakat Jawa Kuno dan ajaran Buddha:
+Relief Karmawibhangga menyoroti tiga pilar utama kebajikan dalam pandangan masyarakat Jawa Kuno dan ajaran Buddha:
 
 ### A. Kedermawanan (Dana)
 
@@ -54,7 +54,7 @@ Menghormati mereka yang patut dihormati, orang tua, guru, dan para bijak, adalah
 Relief Karmawibhangga seringkali menggunakan teknik **Komposisi Sinkronis**, di mana sebab dan akibat diletakkan dalam satu bingkai panel namun dipisahkan oleh elemen pembatas tipis (seperti pohon atau bangunan).
 
 1. **Sisi Kiri (Sebab):** Menampilkan aksi kebajikan. Misalnya, seorang bangsawan memberikan pakaian kepada rakyat jelata.
-2. **Sisi Kanan (Akibat):** Menampilkan hasil dari aksi tersebut. Seringkali digambarkan tokoh tersebut berada di lingkungan yang sangat indah (mirip taman surga) atau dikelilingi oleh harta benda (simbol *Kalpataru* atau pohon pengabul keinginan).
+2. **Sisi Kanan (Akibat):** Menampilkan hasil dari aksi tersebut. Seringkali digambarkan tokoh tersebut berada di lingkungan yang indah (mirip taman surga) atau dikelilingi oleh harta benda (simbol *Kalpataru* atau pohon pengabul keinginan).
 
 ## 4. Etika dalam Tindakan
 
@@ -66,13 +66,13 @@ Meskipun relief ini dibuat pada abad ke-8, pesan moralnya tetap relevan dalam ke
 | **Khanti** (Sabar) | Tidak terpancing emosi oleh komentar negatif di media sosial. | Kesehatan mental terjaga, reputasi yang stabil, dan hubungan interpersonal yang lebih baik. |
 | **Apacayana** (Hormat) | Menghargai privasi rekan kerja atau etika terhadap senior. | Terbangunnya budaya kerja yang sehat dan dihargai balik oleh lingkungan. |
 
-## 5. "Si Penolong yang Rendah Hati"
+## 5. Kisah Dharma dan Musafir
 
 Bayangkan sebuah panel relief yang menceritakan tentang **Dharma**, seorang petani sederhana.
 
 > Dalam satu adegan, Dharma melihat seorang musafir yang kehausan. Alih-alih mengabaikannya, ia memberikan satu-satunya kendi air yang ia miliki. Di panel berikutnya, digambarkan musim kemarau melanda desa tersebut, namun ladang milik Dharma entah bagaimana tetap mendapatkan aliran air yang cukup, sementara penduduk lain membantunya sebagai rasa terima kasih atas kebaikannya selama ini.
 
-Ini mengilustrasikan bahwa karma bukan hanya tentang "kehidupan nanti", tetapi juga tentang bagaimana energi baik yang kita pancarkan menciptakan lingkungan yang suportif bagi diri kita sendiri di masa kini.
+Ini mengilustrasikan bahwa karma bukan hanya tentang "kehidupan nanti", tetapi juga tentang bagaimana perbuatan baik kita menciptakan lingkungan yang suportif bagi diri kita sendiri di masa kini.
 
 ## Kebahagiaan sebagai Hasil Alami
 
@@ -80,7 +80,7 @@ Pesan utama dari bagian relief ini adalah bahwa kebahagiaan bukanlah keberuntung
 
 **Poin Penting:**
 
-- **Kebajikan bukan beban**, melainkan investasi untuk kedamaian diri sendiri.
+- **Kebajikan bukan beban**, melainkan jalan menuju kedamaian diri sendiri.
 - **Kualitas niat** menentukan manisnya buah karma. Memberi dengan sombong memiliki hasil yang berbeda dengan memberi dengan rendah hati.
 - **Setiap tindakan kecil berharga**, sebagaimana setetes air yang lama-kelamaan memenuhi tempayan.
 

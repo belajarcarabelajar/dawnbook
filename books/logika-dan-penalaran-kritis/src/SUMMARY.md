@@ -10,5 +10,5 @@
 - [Bahasa dan Retorika dalam Penalaran](content/08_bahasa-dan-retorika-dalam-penalaran.md)
 - [Pemecahan Masalah secara Sistematis](content/09_pemecahan-masalah-secara-sistematis.md)
 - [Penalaran Etis dan Pengambilan Keputusan](content/10_penalaran-etis-dan-pengambilan-keputusan-di-mana-logika-bertemu-nurani.md)
-- [Memahami Medan Perang Misinformasi vs. Disinformasi](content/11_memahami-medan-perang-misinformasi-vs-disinformasi.md)
+- [Memahami Misinformasi dan Disinformasi](content/11_memahami-medan-perang-misinformasi-vs-disinformasi.md)
 - [Referensi](content/12_referensi.md)

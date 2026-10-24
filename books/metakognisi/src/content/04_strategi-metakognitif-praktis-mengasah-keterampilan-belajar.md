@@ -4,7 +4,7 @@ Metakognisi pada dasarnya adalah kemampuan memahami dan mengatur proses berpikir
 
 ## 1. Menetapkan Tujuan SMART
 
-Punya tujuan itu langkah awal yang sangat penting saat merencanakan sesuatu. Kalau tujuannya jelas, kamu bisa lebih fokus dan tahu persis sejauh mana progres belajarmu. Salah satu cara yang cukup masuk akal untuk dipakai adalah teknik SMART.
+Punya tujuan itu langkah awal yang penting saat merencanakan sesuatu. Kalau tujuannya jelas, kamu bisa lebih fokus dan tahu persis sejauh mana progres belajarmu. Salah satu cara yang cukup masuk akal untuk dipakai adalah teknik SMART.
 
 **SMART** sendiri adalah singkatan dari:
 
@@ -28,7 +28,7 @@ Memakai teknik SMART ini sebenarnya melatih cara berpikir metakognitif. Kamu jad
 
 ## 2. Bertanya pada Diri Sendiri (Self-Questioning)
 
-Pernah nggak sih kamu baca buku berjam-jam, tapi pas ditanya isinya, malah nge-blank? Nah, metode ini ngebantu banget biar kita nggak cuma baca pasif, tapi benar-benar ikut mikir. Intinya, kamu aktif nanya ke diri sendiri tentang materi yang lagi dipelajari.
+Pernah nggak sih kamu baca buku berjam-jam, tapi pas ditanya isinya, malah nge-blank? Nah, metode ini ngebantu biar kita nggak cuma baca pasif, tapi benar-benar ikut mikir. Intinya, kamu aktif nanya ke diri sendiri tentang materi yang lagi dipelajari.
 
 Kamu bisa pakai cara ini di berbagai tahap:
 
@@ -79,7 +79,7 @@ Mengevaluasi diri sendiri itu bikin kamu makin peka sama standar kualitas kerjaa
 
 ## 5. Memecah Tugas Besar Biar Nggak Bikin Stres
 
-Dikasih tugas gede biasanya bikin kita malas duluan karena kelihatan ribet banget. Salah satu akal-akalannya adalah memecah tugas raksasa itu jadi remah-remah kecil yang gampang diberesin satu per satu. 
+Dikasih tugas gede biasanya bikin kita malas duluan karena kelihatan ribet banget. Salah satu akal-akalannya adalah memecah tugas besar itu jadi bagian kecil yang gampang diberesin satu per satu. 
 
 Langkah-langkah praktisnya:
 
@@ -90,4 +90,4 @@ Langkah-langkah praktisnya:
 5. **Pasang target kecil-kecilan.** Bikin target simpel, misal: "Sore ini aku harus dapet 5 sumber jurnal utama yang bisa dipakai."
 6. **Mulai eksekusi.** Langsung kerjain dari langkah paling pertama. Nggak usah kepikiran bagian akhirnya dulu.
 
-Memecah tugas kayak gini ampuh banget buat ngurangin kebiasaan menunda. Otak kita nggak ngerasa terlalu terbebani karena yang dilihat cuma langkah kecil yang masuk akal diselesaikan hari itu juga.
+Memecah tugas kayak gini ampuh buat ngurangin kebiasaan menunda. Otak kita nggak ngerasa terlalu terbebani karena yang dilihat cuma langkah kecil yang masuk akal diselesaikan hari itu juga.

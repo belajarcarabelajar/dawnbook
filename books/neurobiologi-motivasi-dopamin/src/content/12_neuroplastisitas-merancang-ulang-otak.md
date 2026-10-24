@@ -2,11 +2,11 @@
 
 ### Otak Kamu Tidak Bersifat Statis
 
-Setelah mempelajari bagaimana dopamin bekerja, bagaimana sistem *reward* bisa "rusak" akibat stimulasi berlebih, dan bagaimana siklus adiksi terbentuk, kamu mungkin merasa cemas. Kamu mungkin bertanya: *"Apakah otak saya sudah rusak selamanya?"* atau *"Apakah saya akan selalu terjebak dalam motivasi yang rendah?"*
+Kamu sudah mempelajari cara kerja dopamin, bagaimana sistem *reward* bisa "rusak" akibat stimulasi berlebih, dan bagaimana siklus adiksi terbentuk. Setelah semua itu, kamu mungkin merasa cemas. Kamu mungkin bertanya: *"Apakah otak saya sudah rusak selamanya?"* atau *"Apakah saya akan selalu terjebak dalam motivasi yang rendah?"*
 
 Jawabannya adalah **tidak**.
 
-Selamat datang di konsep **Neuroplastisitas**, sebuah kemampuan luar biasa dari otak manusia untuk berubah, beradaptasi, dan menyusun ulang dirinya sendiri sebagai respons terhadap pengalaman, perilaku, dan lingkungan. Bab ini adalah penutup yang penuh harapan: kamu bukan sekadar penumpang di otak kamu; kamu adalah arsiteknya.
+Alasannya adalah **Neuroplastisitas**, kemampuan otak manusia untuk berubah, beradaptasi, dan menyusun ulang dirinya sendiri sebagai respons terhadap pengalaman, perilaku, dan lingkungan. Bab penutup ini menunjukkan bahwa kamu bisa ikut membentuk otakmu sendiri.
 
 ### Apa Itu Neuroplastisitas?
 
@@ -56,11 +56,11 @@ Berikut adalah langkah-langkah untuk melatih ulang otak kamu menggunakan prinsip
 
 Saat kamu mencoba membangun kebiasaan baru (misalnya: membaca buku alih-alih bermain HP), otak kamu akan merasa tidak nyaman. Ini adalah tanda bahwa otak sedang mencoba memaksa kamu kembali ke jalur saraf yang lama (jalur dopamin murah).
 
-> **Penting:** Rasa tidak nyaman adalah bukti fisik bahwa neuroplastisitas sedang terjadi. Kamu sedang "mencangkul" jalan baru di otak kamu.
+> **Penting:** Rasa tidak nyaman adalah tanda bahwa neuroplastisitas sedang terjadi. Kamu sedang "mencangkul" jalan baru di otak kamu.
 
 #### 2. Konsistensi di Atas Intensitas
 
-Otak tidak berubah karena satu ledakan aktivitas besar, melainkan karena pengulangan kecil yang konsisten.
+Otak tidak berubah karena satu aktivitas besar, melainkan karena pengulangan kecil yang konsisten.
 
 - *Perbandingan:* Melakukan meditasi 5 menit setiap hari selama sebulan jauh lebih efektif untuk mengubah struktur otak daripada meditasi 5 jam hanya dalam satu hari.
 
@@ -86,12 +86,12 @@ Untuk mempercepat perubahan otak, kamu bisa menggunakan bantuan biologis berikut
 2. **Latihan Aerobik:** Olahraga meningkatkan produksi **BDNF** (*Brain-Derived Neurotrophic Factor*). BDNF sering disebut sebagai "pupuk" bagi otak yang mempermudah pertumbuhan neuron baru.
 3. **Fokus Intens (*Deep Work*):** Neuroplastisitas pada orang dewasa memerlukan perhatian penuh. Saat kamu fokus secara intens, otak melepaskan asetilkolin yang menandai neuron mana yang harus berubah.
 
-### Menjadi Tuan atas Biologi Kamu
+### Kerusakan Akibat Dopamin Instan Tidak Permanen
 
-> "Otak kamu adalah satu-satunya organ yang memiliki kemampuan untuk berubah secara sadar berdasarkan keinginan pemiliknya."
+> Otak kamu bisa berubah secara sadar, sesuai keinginanmu sendiri.
 
-Mempelajari neurobiologi motivasi bukan hanya tentang memahami zat kimia, tetapi tentang memahami bahwa **kamu memiliki kekuatan untuk berubah.** Kerusakan akibat dopamin instan tidaklah permanen. Dengan pemahaman tentang homeostasis, baseline dopamin, dan neuroplastisitas, kamu kini memiliki alat untuk mengambil alih kemudi.
+Mempelajari neurobiologi motivasi bukan hanya tentang memahami zat kimia, tetapi tentang memahami bahwa **kamu bisa berubah.** Kerusakan akibat dopamin instan tidaklah permanen. Dengan pemahaman tentang homeostasis, baseline dopamin, dan neuroplastisitas, kamu kini memiliki alat untuk mengambil alih kemudi.
 
-Pikirkan satu kebiasaan buruk yang ingin kamu hilangkan. Sadarilah bahwa setiap kali kamu menolaknya, kamu sedang secara fisik menghancurkan jalan setapak yang lama di otak kamu. Dan setiap kali kamu memilih kebiasaan baik, kamu sedang menanam benih untuk sirkuit motivasi yang lebih kuat di masa depan.
+Pikirkan satu kebiasaan buruk yang ingin kamu hilangkan. Sadarilah bahwa setiap kali kamu menolaknya, kamu sedang melemahkan jalan setapak yang lama di otak kamu. Dan setiap kali kamu memilih kebiasaan baik, kamu sedang menanam benih untuk sirkuit motivasi yang lebih kuat di masa depan.
 
 **Otak kamu siap berubah. Apakah kamu siap untuk memulainya?**

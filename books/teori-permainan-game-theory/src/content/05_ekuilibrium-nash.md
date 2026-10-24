@@ -1,6 +1,6 @@
 ## Ekuilibrium Nash (Nash Equilibrium)
 
-Selamat datang di jantung Teori Permainan! Jika kamu pernah menonton film *A Beautiful Mind*, kamu pasti tidak asing dengan sosok **John Nash**. Konsep yang ia rumuskan bukan sekadar teori akademis, melainkan sebuah kacamata untuk melihat bagaimana dunia bekerja, mulai dari perang dagang, strategi militer, hingga mengapa orang-orang mengantre di kasir supermarket.
+Jika kamu pernah menonton film *A Beautiful Mind*, kamu pasti tidak asing dengan sosok **John Nash**. Konsep yang ia rumuskan bukan sekadar teori akademis, melainkan cara untuk memahami berbagai interaksi, mulai dari perang dagang, strategi militer, hingga mengapa orang-orang mengantre di kasir supermarket.
 
 Dalam bagian ini, kita akan membongkar apa itu Ekuilibrium Nash, mengapa ia disebut sebagai titik "tanpa penyesalan", dan bagaimana cara menemukannya dalam sebuah interaksi strategis.
 

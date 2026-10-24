@@ -1,12 +1,12 @@
 ## Konsep Utama Dikotomi Kendali
 
-Pernahkah kamu merasa sangat stres karena terjebak macet saat akan menghadiri pertemuan penting? Atau mungkin kamu merasa cemas luar biasa memikirkan pendapat orang lain tentang presentasi kamu? Jika iya, kamu sedang mengalami konflik batin yang menurut para Stoik bersumber dari satu kesalahan fatal: **mencampuradukkan apa yang bisa kamu kendalikan dengan apa yang tidak.**
+Pernahkah kamu merasa sangat stres karena terjebak macet saat akan menghadiri pertemuan penting? Atau mungkin kamu merasa cemas memikirkan pendapat orang lain tentang presentasi kamu? Jika iya, kamu sedang mengalami konflik batin yang menurut para Stoik bersumber dari satu kesalahan fatal: **mencampuradukkan apa yang bisa kamu kendalikan dengan apa yang tidak.**
 
 Dikotomi Kendali adalah "pintu masuk" sekaligus fondasi paling penting dalam seluruh bangunan filsafat Stoikisme. Tanpa memahami ini, latihan Stoik lainnya akan sulit diterapkan.
 
 ## Apa Itu Dikotomi Kendali?
 
-Secara harfiah, **dikotomi** berarti pembagian dua hal yang saling bertolak belakang atau sangat berbeda. Epictetus, seorang mantan budak yang menjadi guru Stoik paling berpengaruh, membuka bukunya *Enchiridion* dengan kalimat yang sangat terkenal:
+Secara harfiah, **dikotomi** berarti pembagian dua hal yang saling bertolak belakang atau sangat berbeda. Epictetus, seorang mantan budak yang menjadi guru Stoik paling berpengaruh, membuka bukunya *Enchiridion* dengan kalimat yang terkenal:
 
 > "Ada hal-hal yang berada di bawah kendali kita, dan ada hal-hal yang tidak berada di bawah kendali kita."
 
@@ -14,7 +14,7 @@ Konsep ini mengajarkan bahwa kebahagiaan dan ketenangan batin kita tidak bergant
 
 ### 1\. Hal-hal di Bawah Kendali Kita (Internal)
 
-Ini adalah wilayah kedaulatan penuh kamu. Hanya ada sedikit hal yang benar-benar bisa kita kendalikan secara mutlak, yaitu:
+Ini adalah wilayah yang sepenuhnya kamu kuasai. Hanya ada sedikit hal yang benar-benar bisa kita kendalikan secara mutlak, yaitu:
 
 - **Opini/Penilaian kita:** Bagaimana kita memandang suatu peristiwa.
 - **Niat/Keinginan kita:** Apa yang kita tuju dan apa yang kita hindari.

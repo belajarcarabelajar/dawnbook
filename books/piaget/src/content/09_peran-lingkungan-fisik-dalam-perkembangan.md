@@ -1,6 +1,6 @@
 ## Peran Lingkungan Fisik dalam Perkembangan
 
-Pernahkah kamu memperhatikan seorang balita yang terus-menerus menjatuhkan sendok dari meja makannya? Bagi orang tua, ini mungkin melelahkan. Namun, dalam pandangan Jean Piaget, anak tersebut sedang melakukan eksperimen ilmiah yang sangat penting. Ia sedang mempelajari gravitasi, suara benturan, dan konsep sebab-akibat.
+Pernahkah kamu memperhatikan seorang balita yang terus-menerus menjatuhkan sendok dari meja makannya? Bagi orang tua, ini mungkin melelahkan. Namun, dalam pandangan Jean Piaget, anak tersebut sedang melakukan eksperimen ilmiah yang penting. Ia sedang mempelajari gravitasi, suara benturan, dan konsep sebab-akibat.
 
 Dalam teori Piaget, perkembangan kognitif tidak terjadi di dalam ruang hampa. Kecerdasan bukan sekadar hadiah genetika yang muncul begitu saja seiring bertambahnya usia. Sebaliknya, kecerdasan adalah hasil dari **interaksi aktif** antara anak dengan dunia fisik di sekitarnya.
 
@@ -8,11 +8,11 @@ Dalam teori Piaget, perkembangan kognitif tidak terjadi di dalam ruang hampa. Ke
 
 Piaget memandang anak-anak bukan sebagai bejana kosong yang menunggu untuk diisi informasi, melainkan sebagai **ilmuwan kecil (little scientists)** yang aktif membangun pemahaman mereka sendiri.
 
-Lingkungan fisik berfungsi sebagai laboratorium raksasa. Tanpa benda-benda untuk disentuh, diputar, dilempar, atau dibongkar, proses kognitif anak akan terhambat. Melalui manipulasi objek, anak-anak menguji "hipotesis" mereka tentang bagaimana dunia bekerja.
+Lingkungan fisik berfungsi sebagai laboratorium. Tanpa benda-benda untuk disentuh, diputar, dilempar, atau dibongkar, proses kognitif anak akan terhambat. Melalui manipulasi objek, anak-anak menguji "hipotesis" mereka tentang bagaimana dunia bekerja.
 
 > **Intisari:** Pengetahuan tidak diberikan kepada anak, tetapi **dikonstruksi** oleh anak melalui tindakan terhadap objek fisik.
 
-## 2\. Katalisator Pertumbuhan Skema
+## 2\. Cara Benda Fisik Mengubah Skema
 
 Bagaimana tepatnya sebuah benda fisik bisa mengubah cara berpikir seorang anak? Hal ini terjadi melalui mekanisme adaptasi yang dipicu oleh pengalaman sensorik.
 
@@ -31,7 +31,7 @@ Melalui interaksi fisik, anak melakukan apa yang disebut Piaget sebagai **Abstra
 - Apa warnanya?
 - Bagaimana suaranya jika dipukul?
 
-Informasi-informasi mentah ini adalah bahan bakar utama bagi pembentukan skema kognitif yang lebih kompleks.
+Informasi-informasi mentah ini adalah bahan utama bagi pembentukan skema kognitif yang lebih kompleks.
 
 ## 3\. Aksi adalah Fondasi Pemikiran
 
@@ -78,7 +78,7 @@ Alih-alih memberikan rumus $V = p \times l \times t$ di papan tulis, guru yang m
 - Siswa mengalami "kejutan" fisik yang memicu akomodasi.
 - Pengetahuan tersimpan lebih lama karena dibangun dari pengalaman langsung, bukan hafalan.
 
-## 6\. Arsitek dan Material Bangunan
+## 6\. Lingkungan Fisik Ibarat Material Bangunan
 
 Bayangkan perkembangan kognitif anak adalah proses membangun sebuah gedung (kecerdasan).
 
@@ -86,7 +86,7 @@ Bayangkan perkembangan kognitif anak adalah proses membangun sebuah gedung (kece
 - **Proses Kognitif** (asimilasi/akomodasi) adalah tukang bangunannya.
 - **Lingkungan Fisik** adalah material bangunannya (semen, bata, kayu).
 
-Tanpa material bangunan yang memadai dan bervariasi, tukang bangunan yang paling hebat sekalipun tidak akan bisa mendirikan gedung yang kokoh dan kompleks. Semakin kaya material yang disediakan lingkungan, semakin megah "gedung mental" yang bisa dibangun oleh anak.
+Tanpa material bangunan yang memadai dan bervariasi, tukang bangunan tidak akan bisa mendirikan gedung yang kokoh dan kompleks. Semakin kaya material yang disediakan lingkungan, semakin kompleks "gedung mental" yang bisa dibangun oleh anak.
 
 ## Evaluasi Mandiri
 

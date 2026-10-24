@@ -1,8 +1,8 @@
-## Jembatan Sains dari Mindset ke Perubahan Otak
+## Bagaimana Mindset Mengubah Otak
 
-Selamat datang di titik temu yang paling menarik dalam studi neuroplastisitas. Di bagian sebelumnya, kita telah mempelajari perbedaan psikologis antara **Growth Mindset** (pola pikir bertumbuh) dan **Fixed Mindset** (pola pikir tetap). Namun, apakah kamu tahu bahwa perbedaan ini bukan sekadar masalah "sikap positif"?
+Di bagian sebelumnya, kita telah mempelajari perbedaan psikologis antara **Growth Mindset** (pola pikir bertumbuh) dan **Fixed Mindset** (pola pikir tetap). Namun, apakah kamu tahu bahwa perbedaan ini bukan sekadar masalah "sikap positif"?
 
-Mindset sebenarnya adalah **arsitek fisik** bagi otak kamu. Keyakinan kamu tentang kemampuan belajar secara langsung memprogram bagaimana sirkuit saraf kamu merespons kegagalan, memproses informasi, dan membangun ketangguhan. Mari kita bedah bagaimana "kepercayaan" berubah menjadi "biologi".
+Mindset sebenarnya ikut **membentuk otak kamu secara fisik**. Keyakinan kamu tentang kemampuan belajar memengaruhi bagaimana sirkuit saraf kamu merespons kegagalan, memproses informasi, dan membangun ketangguhan. Mari kita bedah bagaimana "kepercayaan" berubah menjadi "biologi".
 
 ### 1\. Sinyal ERN dan Pe dalam Pemrosesan Kesalahan
 
@@ -13,14 +13,14 @@ Ketika kamu membuat kesalahan, misalnya salah menjawab soal matematika atau sala
 
 **Perbedaan Berbasis Mindset:** Penelitian oleh Dr. Jason Moser menunjukkan perbedaan yang mencolok pada kedua sinyal ini:
 
-- Individu dengan **Growth Mindset** memiliki sinyal **Pe yang jauh lebih kuat**. Otak mereka memberikan perhatian lebih besar pada kesalahan. Mereka tidak mengabaikan kegagalan; sebaliknya, mereka "berselancar" di atas kesalahan tersebut untuk belajar.
+- Individu dengan **Growth Mindset** memiliki sinyal **Pe yang jauh lebih kuat**. Otak mereka memberikan perhatian lebih besar pada kesalahan. Mereka tidak mengabaikan kegagalan; sebaliknya, mereka memakai kesalahan tersebut untuk belajar.
 - Individu dengan **Fixed Mindset** cenderung memiliki sinyal Pe yang lemah. Otak mereka mencoba "menutup mata" terhadap kesalahan karena menganggap kesalahan sebagai ancaman terhadap identitas cerdas mereka.
 
 > **Insight Penting:** Pertumbuhan otak tidak terjadi saat kamu melakukan segalanya dengan benar, tetapi justru terjadi saat kamu melakukan kesalahan dan otak kamu bekerja keras untuk memperbaikinya.
 
-### 2\. ACC sebagai Pusat Komando Ketangguhan (Resilience)
+### 2\. Peran ACC dalam Ketangguhan (Resilience)
 
-Struktur otak yang berperan penting dalam "Jembatan Sains" ini adalah **Anterior Cingulate Cortex (ACC)**. ACC bertindak seperti menara pengawas yang memantau konflik dan mengatur emosi.
+Struktur otak yang berperan penting dalam cara mindset mengubah otak adalah **Anterior Cingulate Cortex (ACC)**. ACC bertindak seperti menara pengawas yang memantau konflik dan mengatur emosi.
 
 Dalam konteks Growth Mindset, ACC terhubung lebih kuat dengan **Prefrontal Cortex (PFC)**, bagian otak yang bertanggung jawab atas logika dan perencanaan.
 
@@ -38,7 +38,7 @@ Mindset juga mengubah cara otak memproses **Dopamin**, neurotransmiter yang seri
 
 Secara matematis, kita bisa melihat hubungan antara usaha ($u$), keyakinan ($k$), dan pertumbuhan sinapsis ($\Delta S$): $\Delta S \propto k \times u$ Jika keyakinan ($k$) kamu adalah nol (Fixed Mindset: "Saya tidak bisa berubah"), maka sebesar apa pun usaha ($u$) yang kamu lakukan, pertumbuhan sinapsis ($\Delta S$) akan minimal karena otak tidak dalam keadaan "siap" untuk plastisitas.
 
-### 4\. Mengubah Sirkuit Kegagalan
+### 4\. Dua Respons Otak terhadap Error
 
 Bagaimana pengetahuan ini diterapkan dalam kehidupan sehari-hari? Mari kita lihat skenario berikut:
 
@@ -65,15 +65,15 @@ flowchart TD
 1. **Reframe Kesalahan:** Saat salah, katakan dalam hati: *"Ah, ini adalah sinyal Pe saya sedang bekerja. Otak saya sedang memetakan jalur baru."*
 2. **Fokus pada "Belum":** Gunakan kata "Belum" ($\text{Not Yet}$). Kalimat "Saya tidak bisa" adalah jalan buntu bagi neuron. Kalimat "Saya belum bisa" adalah undangan bagi neuroplastisitas untuk mulai bekerja.
 
-### 5\. Ringkasan Visual Proses Perubahan Otak
+### 5\. Perbandingan Otak Kedua Mindset
 
 | Aspek | Fixed Mindset | Growth Mindset |
 | --- | --- | --- |
 | **Fokus Utama** | Validasi (Ingin terlihat pintar) | Pembelajaran (Ingin menjadi pintar) |
 | **Respons Amigdala** | Tinggi (Kesalahan dianggap ancaman) | Terkendali (Kesalahan dianggap data) |
-| **Sinyal Pe (EEG)** | Lemah | Kuat dan Intens |
-| **Koneksi ACC-PFC** | Terputus/Lemah saat gagal | Sangat Aktif (Regulasi diri) |
-| **Hasil Jangka Panjang** | Stagnasi sirkuit saraf | Penguatan arsitektur saraf secara kontinu |
+| **Sinyal Pe (EEG)** | Lemah | Jauh lebih kuat |
+| **Koneksi ACC-PFC** | Terputus/Lemah saat gagal | Lebih kuat (Regulasi diri) |
+| **Hasil Jangka Panjang** | Stagnasi sirkuit saraf | Penguatan sirkuit saraf secara kontinu |
 
 *Refleksi Proses Belajar: Jika hari ini tidak ada kekeliruan atau tantangan dalam proses belajar, akankah jaringan otak terdorong untuk melakukan adaptasi fisik secara optimal?*
 

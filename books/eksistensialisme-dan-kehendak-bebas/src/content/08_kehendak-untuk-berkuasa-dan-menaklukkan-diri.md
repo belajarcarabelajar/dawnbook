@@ -1,6 +1,6 @@
 ## Kehendak untuk Berkuasa dan Menaklukkan Diri
 
-Konsep kehendak untuk berkuasa atau Wille zur Macht dari Friedrich Nietzsche merupakan dinamika ontologis dalam melampaui keterbatasan dan menaklukkan diri. Konsepsi ini kerap mengalami reduksionisme historis yang keliru sebagai pembenaran atas dominasi politis, padahal bagi Nietzsche, lokus kehendak berkuasa yang paling luhur terletak pada kapasitas subjek untuk menundukkan dorongan insting primitif, mengorganisasi kekacauan batin, dan melahirkan nilai-nilai baru secara mandiri.
+Kehendak untuk berkuasa atau Wille zur Macht dari Friedrich Nietzsche merupakan dinamika ontologis dalam melampaui keterbatasan dan menaklukkan diri. Konsepsi ini kerap mengalami reduksionisme historis yang keliru sebagai pembenaran atas dominasi politis, padahal bagi Nietzsche, lokus kehendak berkuasa yang paling luhur terletak pada kapasitas subjek untuk menundukkan dorongan insting primitif, mengorganisasi kekacauan batin, dan melahirkan nilai-nilai baru secara mandiri.
 
 ### 1. Ontologi *Wille zur Macht*
 
@@ -10,7 +10,7 @@ Nietzsche memosisikan *Wille zur Macht* (*Will to Power*) bukan sebagai ambisi h
 
 Secara fenomenologis, penaklukkan diri dianalogikan seperti seorang pemahat marmer:
 - **Daya Kehendak Berkuasa:** Merepresentasikan intensitas dan keberanian mengayunkan pahat reflektif.
-- **Praksis Penaklukkan Diri:** Proses disiplin dalam mengikis bagian marmer yang kasar dan amorf, sehingga bentuk estetis serta potensi unggul subjek dapat terartikulasi secara paripurna.
+- **Praksis Penaklukkan Diri:** Proses disiplin dalam mengikis bagian marmer yang kasar dan amorf, sehingga bentuk estetis serta potensi unggul subjek dapat terbentuk.
 
 ### 2. Transvaluasi Nilai (*Umwertung aller Werte*)
 
@@ -24,7 +24,7 @@ Guna mencapai kemerdekaan eksistensial, subjek dituntut melakukan **Transvaluasi
 | **Destruksi Radikal** | Memutuskan ketergantungan mental pada otoritas dogmatis eksternal. | Pembersihan ruang kesadaran dari rasa bersalah metafisik. |
 | **Kreasi Nilai Otonom** | Merumuskan prinsip-prinsip hidup baru yang mengafirmasi daya hidup. | Penegakan kedaulatan moral berbasis dorongan internal. |
 
-### 3. Tiga Transformasi Roh Menuju Otonomi Penuh
+### 3. Unta, Singa, dan Anak Kecil
 
 Dalam *Thus Spoke Zarathustra*, Nietzsche memetakan proses dialektika evolusi spiritual manusia melalui alegori Tiga Transformasi Roh (*Die drei Verwandlungen*):
 
@@ -46,7 +46,7 @@ flowchart TD
     R2 -->|"melampaui negasi pemberontakan"| R3["Anak Kecil, “Sebuah Roda Berputar”"]
 ```
 
-### 4. *Übermensch* dan Pemodelan Pertumbuhan Eksistensial
+### 4. *Übermensch* dan Model Pertumbuhan Diri
 
 Puncak dari proyek filosofis Nietzsche adalah figur **Übermensch** (Manusia Unggul / *Overman*). Übermensch bukanlah spesies mutan biologis, melainkan idealitas pencapaian eksistensial manusia yang berhasil melampaui nihilisme melalui penegasan hidup total (*Amor Fati*).
 
@@ -66,7 +66,7 @@ Di mana variabel formulasi mencakup:
 
 Formulasi ini menegaskan bahwa peningkatan derajat penaklukkan diri ($s$) secara konsisten melipatgandakan kapasitas aktualisasi eksistensial manusia.
 
-### 5. Kontekstualisasi Etika Penaklukkan Diri
+### 5. Penerapan Kehendak Berkuasa Hari Ini
 
 Dalam realitas kontemporer, penerapan *Wille zur Macht* beroperasi dalam arena penataan disposisi internal:
 
@@ -76,4 +76,4 @@ Dalam realitas kontemporer, penerapan *Wille zur Macht* beroperasi dalam arena p
 
 ### 6. Menguasai Kelemahan Diri Sendiri
 
-Kehendak untuk berkuasa pada hakikatnya adalah kehendak untuk menguasai kelemahan diri sendiri. Manusia bukanlah produk statis, melainkan jembatan yang menghubungkan kebiasaan pasif masa lalu dengan kemungkinan-kemungkinan luhur masa depan. Melalui penaklukkan diri yang berkelanjutan, manusia merealisasikan kedaulatannya sebagai pencipta nilai yang merdeka.
+Kehendak untuk berkuasa pada hakikatnya adalah kehendak untuk menguasai kelemahan diri sendiri. Manusia bukanlah produk statis, melainkan jembatan yang menghubungkan kebiasaan pasif masa lalu dengan kemungkinan-kemungkinan masa depan. Melalui penaklukkan diri yang berkelanjutan, manusia merealisasikan kedaulatannya sebagai pencipta nilai yang merdeka.

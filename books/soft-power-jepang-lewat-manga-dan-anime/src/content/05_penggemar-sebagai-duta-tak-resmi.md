@@ -20,7 +20,7 @@ Alat utama gerakan ini bernama *fansub*, gabungan kata *fan* dan *subtitle*: tek
 
 Sejak 1998, tulis Leonard, sebagian besar *fansub* sudah berupa berkas digital. Salinan fisik harus berpindah tangan satu demi satu, sedangkan berkas digital jauh lebih mudah disalin dan dikirim ulang. Satu terjemahan pun bisa beredar lebih luas daripada sebelumnya.
 
-### Pelanggaran yang Ikut Membuka Pintu
+### Pelanggaran Hak Cipta yang Ikut Membuka Pasar
 
 Bagian berikut ini tidak nyaman: semua kegiatan tadi melanggar hak cipta. Leonard tidak menutupinya. Ia malah menaruhnya di pusat argumen. Pelanggaran yang terus-menerus selama 1976 sampai 1993, katanya, ikut mendorong perdagangan dan perkembangan seni. Dalam kerangka itu, penonton tanpa izin pada masa tersebut adalah calon pembeli resmi begitu produknya akhirnya tersedia.
 

@@ -1,19 +1,19 @@
 ## Pengantar Jean Piaget dan Genetika Epistemologi
 
-Sebelum mempelajari tahapan-tahapan rumit dalam perkembangan anak, kenali dulu sosok di balik teori ini: **Jean Piaget**. Ia bukan sekadar seorang psikolog; ia adalah seorang penjelajah intelektual yang ingin menjawab pertanyaan mendasar: *"Bagaimana kita bisa tahu apa yang kita tahu?"*
+Sebelum mempelajari tahapan-tahapan rumit dalam perkembangan anak, kenali dulu sosok di balik teori ini: **Jean Piaget**. Ia bukan sekadar seorang psikolog; ia seorang pemikir yang ingin menjawab pertanyaan mendasar: *"Bagaimana kita bisa tahu apa yang kita tahu?"*
 
-## 1\. Siapakah Jean Piaget? (Sang Ilmuwan Cilik yang Tekun)
+## 1\. Siapakah Jean Piaget?
 
-Jean Piaget (1896–1980) adalah seorang pemikir asal Swiss yang menunjukkan kecerdasan luar biasa sejak dini. Latar belakang pendidikannya bukanlah psikologi, melainkan **Biologi**.
+Jean Piaget (1896–1980) adalah seorang pemikir asal Swiss yang sudah menunjukkan kecerdasannya sejak dini. Latar belakang pendidikannya bukanlah psikologi, melainkan **Biologi**.
 
-- **Awal yang Cemerlang:** Pada usia 10 tahun, Piaget menerbitkan artikel ilmiah pertamanya tentang burung pipit albino.
+- **Mulai Sejak Kecil:** Pada usia 10 tahun, Piaget menerbitkan artikel ilmiah pertamanya tentang burung pipit albino.
 - **Latar Belakang Biologi:** Ia meraih gelar doktor dalam bidang malakologi (studi tentang moluska/siput). Pengalaman ini sangat penting karena ia melihat bagaimana siput beradaptasi secara fisik dengan lingkungannya. Ia kemudian berpikir: *Bukankah pikiran manusia juga melakukan hal yang sama?*
 
 > **Wawasan Penting:** Piaget memandang kecerdasan bukan sebagai angka (IQ), melainkan sebagai bentuk **adaptasi biologis** yang memungkinkan manusia bertahan hidup dan berfungsi dalam lingkungannya.
 
 ## 2\. Dari Tes IQ ke Pola Pikir
 
-Pada tahun 1920-an, Piaget bekerja di laboratorium Theodore Simon di Paris, membantu menstandarisasi tes kecerdasan (IQ). Di sinilah ia menemukan sesuatu yang revolusioner.
+Pada tahun 1920-an, Piaget bekerja di laboratorium Theodore Simon di Paris, membantu menstandarisasi tes kecerdasan (IQ). Di sinilah ia memperhatikan satu pola.
 
 Ia menyadari bahwa anak-anak pada usia yang sama cenderung memberikan **jawaban salah yang serupa**. Baginya, kesalahan ini bukanlah tanda kebodohan, melainkan bukti bahwa anak-anak memiliki **logika yang berbeda** dengan orang dewasa.
 
@@ -22,7 +22,7 @@ Ia menyadari bahwa anak-anak pada usia yang sama cenderung memberikan **jawaban 
 
 ## 3\. Filosofi Genetika Epistemologi
 
-Istilah **Genetika Epistemologi** mungkin terdengar sangat teknis, namun maknanya sangat mendalam bagi fondasi teori Piaget. Mari kita bedah terminologinya:
+Istilah **Genetika Epistemologi** mungkin terdengar teknis, namun istilah ini menjadi fondasi teori Piaget. Mari kita bedah terminologinya:
 
 1. **Genetika (Genesis):** Bukan merujuk pada gen atau DNA, melainkan pada kata "genesa" yang berarti **asal-usul** atau **perkembangan**.
 2. **Epistemologi:** Cabang filsafat yang mempelajari **hakikat dan batas-batas pengetahuan**.
@@ -40,7 +40,7 @@ $\text{Pengetahuan} = \text{Aksi} \times \text{Objek}$
 
 *Coba Amati Fenomena Ini: Pernahkah terlihat seorang bayi yang terus-menerus menjatuhkan mainannya dari kursi tinggi? Bagi Piaget, bayi tersebut bukan sedang nakal, melainkan sedang melakukan eksperimen "epistemologi" tentang gravitasi dan keberadaan benda.*
 
-## 4\. Arsitektur Pikiran
+## 4\. Pikiran yang Terus Direnovasi
 
 Bayangkan pikiran manusia seperti sebuah **bangunan yang terus direnovasi**.
 
@@ -57,4 +57,4 @@ Memahami Genetika Epistemologi mengubah cara kita memperlakukan proses belajar-m
 2. **Menghargai Kesalahan:** Dalam perspektif Piagetian, kesalahan logika anak adalah jendela untuk memahami tahap perkembangan mereka saat ini.
 3. **Kesiapan Belajar (Readiness):** Kita tidak bisa mengajarkan kalkulus kepada anak usia 5 tahun, bukan karena mereka kurang pintar, tetapi karena "struktur epistemologi" mereka belum mencapai tahap yang memungkinkan pemahaman abstrak tersebut.
 
-> **Pesan Utama:** Perkembangan kognitif adalah tarian antara kematangan biologis dan pengalaman lingkungan. Pengetahuan tidak diberikan kepada kita; kita menciptakannya.
+> **Pesan Utama:** Perkembangan kognitif adalah hasil interaksi antara kematangan biologis dan pengalaman lingkungan. Pengetahuan tidak diberikan kepada kita; kita menciptakannya.

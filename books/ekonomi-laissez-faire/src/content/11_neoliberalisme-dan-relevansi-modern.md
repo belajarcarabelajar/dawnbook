@@ -4,7 +4,7 @@ Setelah memahami fondasi klasik **Laissez-faire**, kita kini sampai pada babak m
 
 Dalam bagian ini, kita akan mengevaluasi bagaimana prinsip-prinsip kebebasan pasar bangkit kembali dan mendominasi kebijakan ekonomi global sejak akhir abad ke-20 hingga hari ini.
 
-## 1. Apa Itu Neoliberalisme? (Laissez-faire 2.0)
+## 1. Apa Itu Neoliberalisme?
 
 Secara sederhana, **neoliberalisme** adalah kebangkitan kembali ide-ide ekonomi pasar bebas abad ke-19. Konsep ini tidak sebatas membiarkan pasar berjalan sendiri, melainkan sebuah rancangan terencana untuk membentuk masyarakat di mana **persaingan** menjadi pengatur utama aktivitas manusia.
 
@@ -27,11 +27,11 @@ Untuk memahami relevansinya, kita harus membedah empat pilar utama yang sering d
 
 ## 3. Dari Teori ke Kebijakan Nyata
 
-Neoliberalisme bukan sekadar teori di atas kertas, melainkan mesin penggerak ekonomi dunia melalui berbagai peristiwa sejarah penting:
+Neoliberalisme bukan sekadar teori di atas kertas, melainkan kebijakan nyata yang muncul dalam berbagai peristiwa sejarah penting berikut:
 
 ### Era Thatcher dan Reagan (1980-an)
 
-Margaret Thatcher (Inggris) dan Ronald Reagan (AS) merupakan arsitek utama neoliberalisme di panggung dunia. Mereka memangkas pajak bagi kelompok kaya melalui teori *trickle-down economics* dan membatasi kekuatan serikat buruh.
+Margaret Thatcher (Inggris) dan Ronald Reagan (AS) merupakan tokoh utama neoliberalisme di tingkat dunia. Mereka memangkas pajak bagi kelompok kaya melalui teori *trickle-down economics* dan membatasi kekuatan serikat buruh.
 
 ### Konsensus Washington (*Washington Consensus*)
 
@@ -72,7 +72,7 @@ Di beberapa negara, layanan kesehatan dikelola penuh oleh mekanisme pasar.
 Saat ini, dominasi neoliberalisme mulai dipertanyakan kembali akibat beberapa fenomena:
 
 - **Krisis Finansial 2008:** Menunjukkan bahwa pasar finansial tanpa regulasi dapat memicu keruntuhan ekonomi global.
-- **Pandemi COVID-19:** Membuktikan bahwa dalam situasi darurat, peran negara yang kuat sangat vital untuk menyediakan vaksin dan bantuan sosial.
+- **Pandemi COVID-19:** Membuktikan bahwa dalam situasi darurat, peran negara yang kuat vital untuk menyediakan vaksin dan bantuan sosial.
 - **Perubahan Iklim:** Mekanisme pasar sering gagal menangani eksternalitas negatif seperti polusi. Emisi $\text{CO}_2$ tidak akan turun hanya mengandalkan "tangan tak terlihat" tanpa regulasi karbon yang tegas.
 
    $$\text{Eksternalitas Negatif} = \text{Biaya Sosial} > \text{Biaya Privat}$$

@@ -2,7 +2,7 @@
 
 Pernahkah kamu memperhatikan sebuah pohon bambu saat badai besar melanda? Ia tertiup angin kencang, batangnya melengkung hampir menyentuh tanah, namun ketika badai berlalu, ia tegak kembali, tidak patah, bahkan sering kali tampak lebih bersih dan kuat. Inilah esensi dari apa yang akan kita pelajari: kemampuan untuk tidak hanya bertahan, tetapi juga bangkit kembali.
 
-Di dunia yang bergerak sangat cepat dan penuh ketidakpastian ini, resiliensi dan ketangguhan tidak hanya menjadi "bonus" karakter, tetapi juga keterampilan bertahan hidup (survival skill) yang mendasar.
+Saat perubahan datang cepat dan banyak hal tidak pasti, resiliensi dan ketangguhan tidak hanya menjadi "bonus" karakter, tetapi juga keterampilan bertahan hidup (survival skill) yang mendasar.
 
 ## 1\. Apa Itu Resiliensi?
 
@@ -38,12 +38,12 @@ Fokus utama ketangguhan adalah pada **daya tahan (endurance)** dan **kekuatan** 
 
 *Apakah kamu saat ini merasa lebih seperti bambu yang fleksibel atau batu karang yang kokoh? Keduanya dibutuhkan dalam situasi yang berbeda.*
 
-## 3\. Mengapa Resiliensi Sangat Penting di Era Modern?
+## 3\. Mengapa Resiliensi Penting di Era Modern?
 
 Dunia saat ini sering digambarkan dengan istilah **VUCA** (*Volatility, Uncertainty, Complexity, Ambiguity*). Tantangan hidup modern tidak lagi hanya berupa ancaman fisik, tetapi juga stres kognitif dan emosional yang konstan.
 
-1. **Kelelahan Digital & Burnout:** Arus informasi yang tak henti-hentinya menuntut otak kita untuk terus bekerja. Tanpa resiliensi, kita mudah mengalami kelelahan mental kronis.
-2. **Ketidakpastian Ekonomi & Karier:** Perubahan teknologi (seperti AI) mengubah lanskap pekerjaan dengan sangat cepat. Kemampuan untuk beradaptasi adalah kunci keberlangsungan karier.
+1. **Kelelahan Digital & Burnout:** Arus informasi yang terus-menerus menuntut otak kita untuk terus bekerja. Tanpa resiliensi, kita mudah mengalami kelelahan mental kronis.
+2. **Ketidakpastian Ekonomi & Karier:** Perubahan teknologi (seperti AI) mengubah lanskap pekerjaan dengan cepat. Kemampuan untuk beradaptasi penting bagi keberlangsungan karier.
 3. **Kesehatan Mental:** Resiliensi bertindak sebagai pelindung (buffer) terhadap gangguan kecemasan dan depresi.
 
 **Catatan:** Resiliensi bukanlah sifat statis yang kamu miliki sejak lahir atau tidak sama sekali. Resiliensi adalah sebuah "otot" mental yang bisa dilatih dan diperkuat melalui perilaku, pikiran, dan tindakan yang dipelajari.
@@ -73,7 +73,7 @@ Mari kita lihat bagaimana resiliensi dan ketangguhan bekerja dalam praktik nyata
 
 ## Kesimpulan
 
-Dasar dari resiliensi adalah penerimaan bahwa kesulitan adalah bagian tak terelakkan dari kehidupan. Namun, meskipun kita tidak selalu bisa mengendalikan apa yang terjadi pada kita, kita memiliki kendali penuh atas bagaimana kita meresponsnya.
+Dasar dari resiliensi adalah penerimaan bahwa kesulitan adalah bagian tak terelakkan dari kehidupan. Namun, meskipun kita tidak selalu bisa mengendalikan apa yang terjadi pada kita, kita memiliki kendali atas bagaimana kita meresponsnya.
 
 > **Key Takeaway:** Resiliensi bukan berarti kamu tidak merasakan sakit atau kesedihan. Resiliensi berarti kamu terus melangkah maju *meskipun* kamu merasakannya.
 

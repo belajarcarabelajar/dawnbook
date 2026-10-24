@@ -1,5 +1,5 @@
 ## Referensi
-Daftar referensi berikut memuat karya akademis utama, buku teks dasar mikroekonomi, serta artikel jurnal ilmiah yang menjadi fondasi dalam pembahasan elastisitas harga permintaan dan penawaran. Jika kamu ingin mendalami lebih jauh konsep elastisitas dari sudut pandang teori maupun analisis empiris, kamu dapat merujuk pada sumber-sumber literatur ilmiah berikut.
+Daftar referensi berikut memuat karya akademis utama, buku teks dasar mikroekonomi, serta artikel jurnal ilmiah. Karya-karya ini menjadi fondasi dalam pembahasan elastisitas harga permintaan dan penawaran. Jika kamu ingin mendalami lebih jauh konsep elastisitas dari sudut pandang teori maupun analisis empiris, kamu dapat merujuk pada sumber-sumber literatur ilmiah berikut.
 ### Buku Teks Utama
 Case, K. E., Fair, R. C., & Oster, S. M. (2020). *Principles of microeconomics* (13th ed.). Pearson.
 Mankiw, N. G. (2021). *Principles of microeconomics* (9th ed.). Cengage Learning.

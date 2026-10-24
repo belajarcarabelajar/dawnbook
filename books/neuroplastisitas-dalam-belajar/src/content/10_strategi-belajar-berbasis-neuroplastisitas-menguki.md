@@ -1,10 +1,10 @@
 ## Strategi Belajar Berbasis Neuroplastisitas
 
-Selamat datang di inti operasional dari perjalanan neuroplastisitas kamu. Jika bab-bab sebelumnya telah menjelaskan *mengapa* otak bisa berubah, bagian ini akan fokus pada *bagaimana* kamu secara sengaja melakukan perubahan tersebut.
+Bab-bab sebelumnya menjelaskan *mengapa* otak bisa berubah; sekarang giliran *bagaimana* kamu mengubahnya dengan sengaja.
 
 Bayangkan otak kamu adalah sebuah hutan belantara yang rimbun. Belajar hal baru sama seperti mencoba menebas semak belukar untuk menciptakan jalan setapak. Jika kamu hanya melewatinya sekali, semak akan tumbuh kembali dengan cepat. Namun, jika kamu melewatinya berulang kali dengan teknik yang tepat, jalan setapak itu akan menjadi jalan raya beton yang permanen.
 
-Strategi berikut bukan sekadar tips belajar biasa; ini adalah **protokol penguatan sinapsis** yang dirancang untuk bekerja selaras dengan biologi otak kamu.
+Strategi berikut dirancang untuk **memperkuat sinapsis** dengan bekerja selaras dengan biologi otak kamu.
 
 ### 1\. Active Recall
 
@@ -19,7 +19,7 @@ Strategi berikut bukan sekadar tips belajar biasa; ini adalah **protokol penguat
 - Gunakan *flashcards* (seperti Anki atau Quizlet).
 - Ajarkan konsep tersebut kepada orang lain (Teknik Feynman).
 
-> **Penting:** Semakin sulit kamu berusaha mengingat, semakin kuat sinyal yang dikirimkan ke otak bahwa informasi ini sangat penting untuk dipertahankan.
+> **Penting:** Semakin sulit kamu berusaha mengingat, semakin kuat sinyal yang dikirimkan ke otak bahwa informasi ini penting untuk dipertahankan.
 
 ### 2\. Spaced Repetition
 
@@ -81,4 +81,4 @@ Untuk memastikan strategi di atas memicu neuroplastisitas yang maksimal, cermati
 > 2. **Beri jeda waktu** (Spaced Repetition) daripada belajar sistem kebut semalam.
 > 3. **Campur materi kamu** (Interleaving) daripada belajar secara monoton.
 
-Dengan menerapkan teknik-teknik ini, kamu tidak hanya belajar lebih cepat, tetapi kamu sedang secara sadar mengarsiteki ulang struktur otak kamu untuk menjadi lebih efisien dan tangguh dalam memproses informasi baru.
+Dengan menerapkan teknik-teknik ini, kamu tidak hanya belajar lebih cepat, tetapi kamu sedang secara sadar mengubah struktur otak kamu untuk menjadi lebih efisien dan tangguh dalam memproses informasi baru.

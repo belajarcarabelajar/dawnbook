@@ -1,6 +1,6 @@
 ## Filosofi Karma dalam Buddhisme
 
-Pernahkah kamu bertanya-tanya mengapa kehidupan setiap orang tampak begitu berbeda? Mengapa ada yang lahir dalam kelimpahan sementara yang lain dalam kekurangan? Di dasar Candi Borobudur, tepatnya pada bagian **Kamadhatu**, terdapat 160 panel relief yang tidak sekadar menceritakan dongeng, melainkan sebuah hukum alam yang sangat fundamental dalam ajaran Buddha: **Hukum Karma**.
+Pernahkah kamu bertanya-tanya mengapa kehidupan setiap orang tampak begitu berbeda? Mengapa ada yang lahir dalam kelimpahan sementara yang lain dalam kekurangan? Di dasar Candi Borobudur, tepatnya pada bagian **Kamadhatu**, terdapat 160 panel relief yang tidak sekadar menceritakan dongeng, melainkan sebuah hukum alam yang mendasar dalam ajaran Buddha: **Hukum Karma**.
 
 Sebelum kita membedah isi dari naskah *Mahakarmawibhangga* atau teknik pemahatannya, kita harus memahami terlebih dahulu "mesin" yang menggerakkan seluruh cerita di relief tersebut. Tanpa memahami filosofi Karma, relief-relief itu hanya akan terlihat seperti potongan gambar acak.
 
@@ -26,7 +26,7 @@ $$
 $$
 </div>
 
-### Analogi Kebun Kehidupan
+### Analogi Petani
 
 Bayangkan kamu adalah seorang petani:
 
@@ -78,7 +78,7 @@ Hukum Karma adalah bahan bakar dari roda **Samsara** (siklus kelahiran dan kemat
 
 ## Menerapkan Filosofi Karma
 
-Memahami filosofi di balik relief Karmawibhangga bukan sekadar studi sejarah, melainkan alat untuk navigasi hidup modern:
+Memahami filosofi di balik relief Karmawibhangga bukan sekadar studi sejarah, melainkan bekal untuk menjalani hidup sekarang:
 
 1. **Tanggung Jawab Pribadi:** Kita berhenti menyalahkan keberuntungan atau orang lain atas situasi kita. Kita menyadari bahwa kita adalah "pemilik" dan "pewaris" dari perbuatan kita sendiri.
 2. **Kesadaran Niat (Mindfulness):** Sebelum bertindak atau berbicara, tanyakan: *"Apakah niat saya didasari oleh keserakahan, kebencian, atau kasih sayang?"*
@@ -86,4 +86,4 @@ Memahami filosofi di balik relief Karmawibhangga bukan sekadar studi sejarah, me
 
 ### Pebisnis Sukses yang Kasar kepada Karyawan
 
-Bayangkan seseorang yang sukses dalam bisnis tetapi sangat kasar kepada karyawannya. Secara finansial (buah karma masa lalu), dia berlimpah. Namun, dengan kekasarannya (niat buruk saat ini), dia sedang menanam benih "kesepian" atau "permusuhan" yang akan matang di masa depan. Relief Karmawibhangga mengajarkan kita untuk melihat melampaui apa yang tampak di permukaan saat ini.
+Bayangkan seseorang yang sukses dalam bisnis tetapi kasar kepada karyawannya. Secara finansial (buah karma masa lalu), dia berlimpah. Namun, dengan kekasarannya (niat buruk saat ini), dia sedang menanam benih "kesepian" atau "permusuhan" yang akan matang di masa depan. Relief Karmawibhangga mengajarkan kita untuk melihat melampaui apa yang tampak di permukaan saat ini.

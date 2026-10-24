@@ -1,6 +1,6 @@
 ## Akar Historis Kierkegaard dan Nietzsche
 
-Selamat datang di titik awal perjalanan eksistensialisme. Sebelum Jean-Paul Sartre mempopulerkan istilah ini di kafe-kafe Paris pada abad ke-20, dua pemikir besar abad ke-19 telah meletakkan fondasinya. Meskipun mereka tidak pernah bertemu dan memiliki latar belakang yang sangat berbeda (yang satu seorang Kristen taat dan yang lainnya pengkritik keras agama), keduanya sepakat pada satu hal: **Individu adalah pusat dari kebenaran.**
+Sebelum Jean-Paul Sartre mempopulerkan istilah eksistensialisme di kafe-kafe Paris pada abad ke-20, dua pemikir abad ke-19 telah meletakkan fondasinya. Meskipun mereka tidak pernah bertemu dan memiliki latar belakang yang sangat berbeda (yang satu seorang Kristen taat dan yang lainnya pengkritik keras agama), keduanya sepakat pada satu hal: **Individu adalah pusat dari kebenaran.**
 
 Mari kita telusuri bagaimana kegelisahan Søren Kierkegaard dan pemberontakan Friedrich Nietzsche membentuk cara kita memahami makna hidup hari ini.
 
@@ -42,7 +42,7 @@ Jika Kierkegaard mencari makna di dalam Tuhan, Friedrich Nietzsche (1844–1900)
 
 ### "Tuhan Sudah Mati" (Gott ist tot)
 
-Pernyataan Nietzsche ini sangat populer sekaligus paling sering disalahpahami. Dia tidak bermaksud mengumumkan kematian sosok supranatural. Nietzsche ingin menunjukkan bahwa kepercayaan pada Tuhan telah kehilangan perannya sebagai poros moral dan kebudayaan masyarakat modern.
+Pernyataan Nietzsche ini populer sekaligus paling sering disalahpahami. Dia tidak bermaksud mengumumkan kematian sosok supranatural. Nietzsche ingin menunjukkan bahwa kepercayaan pada Tuhan telah kehilangan perannya sebagai poros moral dan kebudayaan masyarakat modern.
 
 **Konsekuensi Logis:** Jika Tuhan yang menjadi sumber nilai absolut hilang, nihilisme akan membayangi manusia:
 
@@ -79,7 +79,7 @@ Nietzsche percaya dorongan dasar manusia melampaui sekadar pertahanan hidup ala 
 
 ## Mengapa Mereka Relevan Sekarang?
 
-Gagasan kedua pemikir ini bukan sekadar warisan masa lalu. Kita bisa memanfaatkannya sebagai panduan praktis untuk mengarungi dinamika dunia modern:
+Gagasan kedua pemikir ini bukan sekadar warisan masa lalu. Kita bisa memanfaatkannya sebagai panduan praktis untuk menghadapi dunia modern:
 
 - **Menjinakkan FOMO (Fear of Missing Out)**: Gagasan Kierkegaard tentang kecemasan mengingatkan kita bahwa bingung memilih arah adalah tanda kebebasan yang nyata. Alih-alih cemas dan menghindar, kita ditantang mengambil keputusan secara utuh.
 - **Navigasi Krisis Makna di Era Digital**: Nietzsche menawarkan jalan keluar dari kehampaan modern lewat konsep *Übermensch*. Kita didorong menolak arus tren media sosial secara buta, lalu merumuskan sendiri prinsip hidup yang berharga, misalnya memprioritaskan integritas dibanding popularitas.
@@ -91,7 +91,7 @@ Bayangkan Budi, seorang akuntan sukses yang merasa hampa.
 - **Secara Kierkegaardian:** Budi mungkin berada di tahap etis. Ia harus melakukan "loncatan" untuk menemukan apa yang secara subjektif bermakna baginya, mungkin sebuah panggilan spiritual atau pengabdian yang melampaui logika karier.
 - **Secara Nietzschean:** Budi harus sadar bahwa "makna" tidak akan turun dari langit. Ia harus menggunakan kehendak untuk berkuasanya untuk mendefinisikan ulang siapa dirinya, mungkin dengan menciptakan karya seni atau membangun sistem baru yang mencerminkan nilai pribadinya, bukan nilai perusahaan.
 
-## Ringkasan Visual
+## Dua Cabang Akar Eksistensialisme
 
 Kedua akar eksistensialisme dalam bab ini bisa kamu rangkum menjadi dua cabang berikut.
 

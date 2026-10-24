@@ -1,12 +1,12 @@
 ## Prinsip Optimalisasi Penggunaan Alat
 
-Setelah kamu melewati tahap pembersihan (Digital Declutter), kamu mungkin mendapati diri kamu hanya memiliki segelintir aplikasi dan perangkat yang tersisa. Namun, tantangannya tidak berhenti di sana. Memiliki sedikit alat tidak otomatis membuat kamu menjadi produktif atau tenang.
+Setelah melewati tahap pembersihan (Digital Declutter), kamu mungkin mendapati dirimu hanya memiliki segelintir aplikasi dan perangkat yang tersisa. Namun, tantangannya tidak berhenti di sana. Memiliki sedikit alat tidak otomatis membuat kamu menjadi produktif atau tenang.
 
-**Optimalisasi penggunaan alat** adalah seni memastikan bahwa setiap teknologi yang "lolos seleksi" bekerja secara maksimal untuk melayani nilai-nilai inti kamu. Jika *Digital Declutter* diibaratkan membuang sampah, *Optimalisasi* adalah proses mengasah pedang agar setajam mungkin.
+**Optimalisasi penggunaan alat** adalah cara memastikan bahwa setiap teknologi yang "lolos seleksi" benar-benar melayani nilai-nilai inti kamu. Jika *Digital Declutter* diibaratkan membuang sampah, *Optimalisasi* adalah proses mengasah pedang agar setajam mungkin.
 
 ### 1. Mengapa Sedikit Lebih Baik
 
-Bayangkan seorang koki profesional. Ia jarang membutuhkan 50 jenis gadget dapur otomatis yang masing-masing hanya punya satu fungsi, seperti pemotong alpukat atau pengupas bawang elektrik. Sebaliknya, ia mengandalkan satu **Pisau Koki (Chef’s Knife)** berkualitas tinggi yang dirawat dengan sangat baik. Lewat satu pisau itu, hampir semua urusan dapur bisa diselesaikan.
+Bayangkan seorang koki profesional. Ia jarang membutuhkan 50 jenis gadget dapur otomatis yang masing-masing hanya punya satu fungsi, seperti pemotong alpukat atau pengupas bawang elektrik. Sebaliknya, ia mengandalkan satu **Pisau Koki (Chef’s Knife)** berkualitas tinggi yang dirawat dengan baik. Lewat satu pisau itu, hampir semua urusan dapur bisa diselesaikan.
 
 Dalam digital minimalisme, prinsipnya serupa. Setiap alat baru membawa biaya perawatan mental berupa notifikasi, pembaruan rutin, hingga kurva pembelajaran. Menguasai satu alat secara mendalam jauh lebih efektif daripada sekadar tahu sedikit-sedikit tentang sepuluh alat berbeda. Pembatasan ini juga meminimalkan perpindahan antar aplikasi (context switching), sebuah kebiasaan buruk yang bisa menurunkan IQ produktivitas kamu hingga 10 poin.
 
@@ -18,7 +18,7 @@ Optimalisasi fokus pada membatasi fungsi sebuah alat agar sejajar dengan tujuan 
 
 #### A. Aturan Satu Fungsi Utama (Single-Purpose Mastery)
 
-Gunakan teknologi dengan niat yang sangat spesifik untuk mencegahnya menjadi lubang hitam penyedot perhatian. Sebagai contoh, jika kamu memakai iPad untuk membaca jurnal (Nilai: Pengembangan Diri), hapus semua browser dan aplikasi hiburan dari dalamnya. Jadikan perangkat itu khusus beroperasi sebagai e-reader.
+Gunakan teknologi dengan niat yang spesifik agar ia tidak menyedot perhatianmu. Sebagai contoh, jika kamu memakai iPad untuk membaca jurnal (Nilai: Pengembangan Diri), hapus semua browser dan aplikasi hiburan dari dalamnya. Jadikan perangkat itu khusus beroperasi sebagai e-reader.
 
 #### B. Menghilangkan Friksi pada Aktivitas Bernilai Tinggi
 
@@ -32,7 +32,7 @@ Buat hambatan tambahan untuk aktivitas yang kurang selaras dengan prioritas kamu
 
 Beberapa konfigurasi praktis berikut bisa langsung diterapkan pada perangkat kamu saat ini:
 
-#### Operasi "Layar Beranda Kosong"
+#### Layar Beranda Kosong
 
 Layar utama ponsel harus sepi dari godaan. Bersihkan semua ikon aplikasi dari layar utama dan sisakan wallpaper yang menenangkan. Mulai sekarang, biasakan memakai fitur pencarian (Search/Spotlight) setiap kali ingin membuka aplikasi. Pendekatan ini memaksa otak mengetik nama aplikasi secara sadar, menghentikan refleks ketukan jari ke ikon berwarna-warni yang seringkali tidak disengaja.
 
@@ -57,7 +57,7 @@ $$
 
 #### Penulis yang Mengoptimalkan Laptop
 
-Seorang penulis yang menjadikan laptop sebagai instrumen utama berkarya (Nilai: Kreativitas) dapat memasang aplikasi penulisan yang menutupi seluruh layar seperti Ulysses atau FocusWriter. Ditambah ekstensi pemblokir internet selama sesi menulis, laptop tersebut beralih fungsi dari portal dunia maya menjadi mesin tik modern yang sangat terfokus.
+Seorang penulis yang menjadikan laptop sebagai alat utama berkarya (Nilai: Kreativitas) dapat memasang aplikasi penulisan yang menutupi seluruh layar seperti Ulysses atau FocusWriter. Ditambah ekstensi pemblokir internet selama sesi menulis, laptop tersebut beralih fungsi dari alat berselancar di internet menjadi mesin tik modern yang hanya dipakai untuk menulis.
 
 #### Smartphone sebagai Alat Navigasi Saja
 

@@ -1,6 +1,6 @@
 ## Perencanaan Pajak Dasar
 
-Punya literasi keuangan yang kuat berarti kamu paham cara mengelola uang, termasuk soal kewajiban bayar pajak. Memahami sistem perpajakan dan melakukan perencanaan pajak dasar sangat penting buat menjaga kesehatan finansialmu.
+Punya literasi keuangan yang kuat berarti kamu paham cara mengelola uang, termasuk soal kewajiban bayar pajak. Memahami sistem perpajakan dan melakukan perencanaan pajak dasar penting buat menjaga kesehatan finansialmu.
 
 Bagian ini akan membahas dasar-dasar sistem pajak di Indonesia. Kamu juga akan belajar cara lapor pajak dan mengelolanya dengan lebih efisien tanpa pusing.
 
@@ -53,13 +53,13 @@ Katakanlah kamu masih lajang dan bergaji Rp5 juta sebulan.
 
 Perencanaan pajak (*tax planning*) itu strategi mengelola kewajiban pajak dengan optimal tanpa melanggar hukum. 
 
-Tujuannya agar kamu membayar pajak sesuai porsi, memanfaatkan insentif yang tersedia, dan menjaga pengeluaran tetap hemat secara legal. Tentu saja, ini sangat berbeda dari penggelapan pajak yang melanggar hukum.
+Tujuannya agar kamu membayar pajak sesuai porsi, memanfaatkan insentif yang tersedia, dan menjaga pengeluaran tetap hemat secara legal. Tentu saja, ini berbeda dari penggelapan pajak yang melanggar hukum.
 
 Beberapa keuntungan kalau kamu merencanakan pajak dengan baik:
 
 - **Beban pajak lebih ringan.** Kamu bisa mengalokasikan sisa uangnya buat nabung atau investasi.
 - **Bebas dari denda.** Salah lapor atau telat bayar bisa berujung sanksi finansial yang lumayan menguras kantong.
-- **Arus kas lebih rapi.** Kalau kamu sudah menghitung porsi pajak di awal, arus kas bulanan bakal jauh lebih sehat untuk rencana jangka panjang.
+- **Arus kas lebih rapi.** Kalau kamu sudah menghitung porsi pajak di awal, arus kas bulanan bakal lebih sehat untuk rencana jangka panjang.
 
 ## Kewajiban Dasar Kamu Sebagai Wajib Pajak
 
@@ -67,7 +67,7 @@ Kalau syarat gajimu sudah masuk kriteria, kamu otomatis jadi Wajib Pajak. Ada be
 
 - **Bikin NPWP:** Nomor Pokok Wajib Pajak ini ibarat KTP-nya urusan pajak. 
 - **Hitung Pajak Sendiri:** Karena pakai sistem *self-assessment*, kamu punya tanggung jawab buat menghitung Pajak Penghasilan kamu sendiri.
-- **Bayar Tepat Waktu:** Setor kewajibanmu sebelum jatuh tempo. Sekarang bayar pajak sangat gampang karena bisa *online* lewat bank atau dompet digital.
+- **Bayar Tepat Waktu:** Setor kewajibanmu sebelum jatuh tempo. Sekarang bayar pajak gampang karena bisa *online* lewat bank atau dompet digital.
 - **Lapor SPT Tahunan:** Setiap tahun kamu harus melaporkan semua penghasilan, potongan pajak, sampai daftar harta dan utangmu di Surat Pemberitahuan (SPT).
 
 ## Panduan Singkat Melaporkan Pajak
@@ -84,7 +84,7 @@ Formulir yang dipakai tergantung dari pekerjaan dan besaran gajimu:
 
 ### Cara Lapor via e-Filing
 
-Proses pelaporannya sangat praktis:
+Proses pelaporannya praktis:
 
 1. Masuk ke situs DJP Online pakai NPWP dan kata sandi kamu.
 2. Buka menu "Lapor", lalu klik opsi "e-Filing".
@@ -95,9 +95,9 @@ Proses pelaporannya sangat praktis:
 
 > **Tips:** Jangan nunggu sampai akhir Maret buat lapor. Website DJP kadang *down* kalau terlalu banyak yang akses bersamaan. Kalau bingung, langsung saja telepon Kring Pajak di 1500200.
 
-## Strategi Cerdas Mengelola Pajak
+## Langkah Praktis Mengelola Pajak
 
-Merencanakan pajak itu seni memanfaatkan aturan pajak yang ada supaya pengeluaranmu lebih efisien. Berikut langkah-langkah praktisnya:
+Merencanakan pajak berarti memanfaatkan aturan pajak yang ada supaya pengeluaranmu lebih efisien. Berikut langkah-langkah praktisnya:
 
 - **Update Info Terbaru:** Aturan pajak lumayan sering berubah. Pastikan kamu selalu tahu info terbaru soal tarif atau insentif baru dari pemerintah.
 - **Klaim Pengurangan Pajak:** Jangan lewatkan fasilitas seperti PTKP atau insentif pajak lain, misalnya pembebasan buat tabungan pensiun tertentu.

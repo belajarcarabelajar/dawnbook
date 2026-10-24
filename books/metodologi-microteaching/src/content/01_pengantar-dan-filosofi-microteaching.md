@@ -1,6 +1,6 @@
-# Pengantar dan Filosofi Microteaching
+## Pengantar dan Filosofi Microteaching
 
-Selamat datang di langkah pertama kamu untuk menjadi pendidik yang inspiratif dan kompeten. Sebelum kita masuk ke teknis penyusunan rencana pembelajaran atau teknik bertanya, kita perlu memahami fondasi utama dari metode yang telah merevolusi pelatihan guru di seluruh dunia: **Microteaching** (Pembelajaran Mikro).
+Langkah pertama kamu untuk menjadi pendidik yang inspiratif dan kompeten dimulai dari fondasi metodenya, bukan dari teknik mengajar. Sebelum kita masuk ke teknis penyusunan rencana pembelajaran atau teknik bertanya, kita perlu memahami fondasi utama dari metode yang kini dipakai dalam pendidikan guru di seluruh dunia: **Microteaching** (Pembelajaran Mikro).
 
 ## Apa itu Microteaching?
 
@@ -39,9 +39,9 @@ timeline
 
 ## Mengapa Microteaching Itu Penting? (Urgensi)
 
-Mengajar adalah sebuah seni sekaligus sains. Tanpa microteaching, seorang pendidik pemula sering kali mengalami *reality shock* saat pertama kali berdiri di depan kelas sungguhan. Berikut adalah urgensi mengapa microteaching sangat krusial:
+Mengajar adalah sebuah seni sekaligus sains. Tanpa microteaching, seorang pendidik pemula sering kali mengalami *reality shock* saat pertama kali berdiri di depan kelas sungguhan. Berikut adalah alasan mengapa microteaching penting:
 
-### 1. Jembatan Teori dan Praktik
+### 1. Menghubungkan Teori dan Praktik
 
 Banyak mahasiswa menguasai teori psikologi pendidikan atau metodologi secara akademis, namun "blank" saat harus mengaplikasikannya. Microteaching mengubah pengetahuan abstrak menjadi tindakan nyata.
 
@@ -80,9 +80,9 @@ flowchart LR
     C --> D["Re-plan & Re-teach (Revisi & Praktik Ulang)"]
 ```
 
-*Pikirkan tentang ini: Jika seorang atlet profesional berlatih ribuan kali hanya untuk satu gerakan smash atau tendangan penalti, bukankah seorang pendidik juga butuh latihan yang sama intensnya untuk membentuk karakter manusia?*
+*Pikirkan tentang ini: Jika seorang atlet profesional berlatih ribuan kali hanya untuk satu gerakan smash atau tendangan penalti, bukankah seorang pendidik juga butuh latihan yang sama intensnya?*
 
-## Aplikasi Nyata dan Skenario
+## Contoh dari Calon Guru dan Guru Profesional
 
 Microteaching tidak hanya untuk mahasiswa. Guru profesional pun menggunakannya untuk beradaptasi dengan kurikulum baru atau teknologi baru.
 

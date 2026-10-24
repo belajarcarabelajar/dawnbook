@@ -1,6 +1,6 @@
 ## Bias Kelompok (In-group Bias)
 
-Pernahkah kamu merasa lebih akrab dengan seseorang hanya karena mereka mendukung tim sepak bola yang sama, lulus dari universitas yang sama, atau bahkan sekadar menggunakan merek ponsel yang sama dengan kamu? Perasaan instan bahwa "orang ini adalah bagian dari saya" adalah inti dari **Bias Kelompok** atau *In-group Bias*.
+Pernahkah kamu merasa lebih akrab dengan seseorang hanya karena ia mendukung tim sepak bola yang sama atau lulus dari universitas yang sama? Atau bahkan sekadar karena kalian memakai merek ponsel yang sama? Perasaan instan bahwa "orang ini adalah bagian dari saya" adalah inti dari **Bias Kelompok** atau *In-group Bias*.
 
 Secara sederhana, **Bias Kelompok** adalah kecenderungan psikologis manusia untuk memberikan perlakuan istimewa, penilaian lebih positif, dan dukungan lebih besar kepada anggota kelompoknya sendiri (*in-group*) dibandingkan dengan orang-orang di luar kelompoknya (*out-group*).
 
@@ -33,14 +33,14 @@ Ini adalah sisi "positif" dari bias ini. Kita cenderung melihat anggota kelompok
 
 ### B. Out-group Derogation (Peremehan Kelompok Luar)
 
-Ini adalah sisi gelapnya. Kita cenderung melihat orang di luar kelompok sebagai ancaman, kurang kompeten, atau bahkan kurang "manusiawi".
+Ini adalah sisi negatifnya. Kita cenderung melihat orang di luar kelompok sebagai ancaman, kurang kompeten, atau bahkan kurang "manusiawi".
 
 - **Out-group Homogeneity Effect:** Kita cenderung menganggap semua orang di luar kelompok kita adalah sama (stereotip), sementara melihat kelompok kita sendiri sangat beragam.
 	- *"Ah, semua orang dari departemen pemasaran itu cuma bisa bicara besar,"* tetapi saat melihat departemen sendiri, kamu berkata, *"Tim IT kita punya berbagai macam kepribadian yang unik."*
 
 ## Polarisasi dan Konflik
 
-Bias kelompok adalah bahan bakar utama di balik **polarisasi**. Ketika kita hanya berinteraksi dengan kelompok sendiri (sering diperparah oleh algoritme media sosial), kita menciptakan "ruang gema" (*echo chambers*).
+Bias kelompok adalah pendorong utama **polarisasi**. Ketika kita hanya berinteraksi dengan kelompok sendiri (sering diperparah oleh algoritme media sosial), kita menciptakan "ruang gema" (*echo chambers*).
 
 Dalam matematika sosial, kekuatan bias ini bisa digambarkan secara konseptual (meskipun tidak kaku) sebagai fungsi dari identitas:
 
@@ -61,11 +61,11 @@ Semakin sedikit interaksi kita dengan "orang luar", semakin kuat bias kita terha
 Dalam dunia teknik, sering terjadi gesekan antara tim *Developer* (yang membuat kode) dan tim *Operations* (yang menjaga stabilitas sistem).
 
 - **Masalah:** Saat terjadi *error*, tim Dev menyalahkan infrastruktur (Out-group), sementara tim Ops menyalahkan kode yang berantakan (Out-group).
-- **Solusi (DevOps):** Filosofi DevOps diciptakan justru untuk menghancurkan bias kelompok ini dengan menyatukan mereka ke dalam satu kelompok besar dengan tujuan yang sama.
+- **Solusi (DevOps):** Filosofi DevOps diciptakan untuk mengatasi bias kelompok ini dengan menyatukan mereka ke dalam satu kelompok besar dengan tujuan yang sama.
 
 ### 2\. Fenomena "Not Invented Here" (NIH)
 
-Banyak perusahaan besar menolak menggunakan teknologi hebat yang diciptakan oleh perusahaan lain atau komunitas *open-source*. Mereka lebih memilih membuat versi sendiri yang lebih buruk hanya karena "bukan kita yang membuatnya". Ini adalah bentuk murni dari *In-group Bias* di level korporasi.
+Banyak perusahaan besar menolak menggunakan teknologi bagus yang diciptakan oleh perusahaan lain atau komunitas *open-source*. Mereka lebih memilih membuat versi sendiri yang lebih buruk hanya karena "bukan kita yang membuatnya". Ini adalah bentuk *In-group Bias* di level korporasi.
 
 Saat menyeleksi ide, pola pikir bias kelompok itu sederhana: ide dari anggota tim sendiri langsung disambut sebagai "ide brilian, mari kita eksekusi", sedangkan ide dari pihak lain "perlu ditinjau ulang", yang dalam praktiknya berarti dicari-cari kesalahannya.
 

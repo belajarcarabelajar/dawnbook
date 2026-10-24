@@ -67,6 +67,6 @@ Dalam interaksi ini, pengulangan kata *"Kambing"* oleh guru memastikan seluruh k
 
 ---
 
-### Rangkuman & Pertanyaan Refleksi 10
+### Menakar Penguatan dari Guru
 1. **Refleksi Utama**: Apakah bentuk interaksi yang dijelaskan pada bab ini mencerminkan dinamika kelas yang inklusif atau didominasi oleh pendidik?
 2. **Penerapan Praktis**: Bagaimana strategi komunikasi dalam bab mefasilitasi partisipasi aktif siswa?

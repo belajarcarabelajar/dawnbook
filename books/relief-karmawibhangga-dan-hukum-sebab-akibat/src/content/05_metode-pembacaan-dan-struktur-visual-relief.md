@@ -1,6 +1,6 @@
 ## Metode Pembacaan dan Struktur Visual Relief Karmawibhangga
 
-Bayangkan kamu sedang berdiri di kaki Candi Borobudur yang megah. Di hadapanmu, terbentang deretan panel batu yang bisu namun penuh cerita. Membaca relief Karmawibhangga bukan sekadar melihat gambar, melainkan melakukan sebuah "perjalanan waktu" dan "audit spiritual."
+Bayangkan kamu sedang berdiri di kaki Candi Borobudur. Di hadapanmu, terbentang deretan panel batu berisi cerita. Membaca relief Karmawibhangga bukan sekadar melihat gambar, melainkan mengikuti urutan perbuatan dan akibatnya.
 
 Untuk memahami pesan moral di balik 160 panel yang ada di kaki tersembunyi (*Kamadhatu*), kita memerlukan "kunci" teknis untuk membuka kode visualnya. Bab ini akan memandumu memahami struktur fisik panel dan metode pembacaan yang telah dipraktikkan selama berabad-abad.
 
@@ -12,13 +12,13 @@ Dalam tradisi Buddhisme, sebuah monumen suci tidak dikunjungi secara acak. Ada a
 
 - **Secara Teknis:** Pengunjung memosisikan candi selalu di sebelah kanan (*right-hand side*).
 - **Urutan:** Dimulai dari pintu sisi Timur, lalu bergerak menuju Selatan, Barat, Utara, dan kembali lagi ke Timur.
-- **Filosofi:** Gerakan ini mengikuti arah peredaran matahari di langit, melambangkan harmoni dengan alam semesta dan penghormatan setinggi-tingginya kepada Sang Buddha.
+- **Filosofi:** Gerakan ini mengikuti arah peredaran matahari di langit, melambangkan keselarasan dengan alam semesta dan penghormatan kepada Sang Buddha.
 
-> **Insight Memorable:** Membaca relief dengan cara Pradaksina berarti kamu menempatkan "pusat kebenaran" (candi) sebagai kompas di sisi kanan hidupmu saat melangkah maju.
+> **Insight Memorable:** Membaca relief dengan cara Pradaksina berarti kamu selalu menjaga candi di sisi kananmu sambil berjalan maju.
 
 ### 2. Komposisi Visual Panel Sebab dan Akibat
 
-Setiap panel relief Karmawibhangga bukanlah satu adegan tunggal yang statis. Para pemahat Jawa Kuno menggunakan teknik narasi visual yang sangat cerdas untuk menggambarkan hukum karma.
+Setiap panel relief Karmawibhangga bukanlah satu adegan tunggal yang statis. Para pemahat Jawa Kuno menggunakan teknik narasi visual untuk menggambarkan hukum karma.
 
 #### Struktur Pembagian Panel
 
@@ -72,7 +72,7 @@ Para seniman Shailendra menggunakan teknik visual tertentu untuk menunjukkan sta
 
 ### 5. Storyboarding dan UX Design
 
-Prinsip pembagian panel Karmawibhangga sebenarnya masih sangat relevan dalam dunia profesional modern, terutama dalam bidang kreatif:
+Prinsip pembagian panel Karmawibhangga sebenarnya masih relevan dalam dunia profesional modern, terutama dalam bidang kreatif:
 
 1. **Storyboarding Film:** Bagaimana seorang sutradara menyusun urutan kejadian dalam satu *frame* untuk menunjukkan perkembangan karakter.
 2. **User Experience (UX) Design:** Desainer aplikasi menggunakan urutan visual (kiri ke kanan) untuk memandu pengguna dari "Aksi" (menekan tombol) ke "Hasil" (transaksi berhasil).
@@ -83,4 +83,4 @@ Prinsip pembagian panel Karmawibhangga sebenarnya masih sangat relevan dalam dun
 - **Sisi Kiri (Sebab):** Gambar orang membuang sampah plastik ke sungai.
 - **Sisi Kanan (Akibat):** Gambar banjir yang merendam pemukiman mereka sendiri. Ini adalah penggunaan struktur "Karmawibhangga" dalam komunikasi visual modern untuk menciptakan efek jera.
 
-> **Pesan Utama:** Struktur relief Karmawibhangga bukan dibuat untuk estetika semata. Urutan **Pradaksina** melatih kedisiplinan fisik, sementara pembagian **Sebab-Akibat** pada panel melatih ketajaman logika moral. Dengan memahami cara membacanya, kamu tidak lagi melihat batu, melainkan melihat cermin kehidupan.
+> **Pesan Utama:** Struktur relief Karmawibhangga bukan dibuat untuk estetika semata. Urutan **Pradaksina** melatih kedisiplinan fisik, sementara pembagian **Sebab-Akibat** pada panel melatih cara berpikir sebab-akibat. Dengan memahami cara membacanya, kamu tidak lagi melihat batu berukir saja, tetapi membaca urutan perbuatan dan akibatnya.

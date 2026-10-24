@@ -58,13 +58,13 @@ Bagi nominal besar menjadi target bulanan. Angka Rp 3.125.000 per bulan terasa l
 Cek kembali pos pengeluaran bulanan. Cari anggaran hiburan atau konsumsi yang bisa dialihkan ke pos tabungan.
 
 **Gunakan Sistem Autodebet**
-Jadwalkan pemindahan dana otomatis ke rekening tabungan tepat pada hari gajian. Ini cara ampuh mencegah uang terpakai untuk hal konsumtif.
+Jadwalkan pemindahan dana otomatis ke rekening tabungan tepat pada hari gajian. Cara ini membantu mencegah uang terpakai untuk hal konsumtif.
 
 **Cari Tambahan Pemasukan**
 Manfaatkan keahlian untuk mengambil pekerjaan lepas atau cari peluang bisnis sampingan. Pemasukan ekstra akan mempercepat pencapaian target.
 
 **Bereskan Utang Konsumtif**
-Utang dengan bunga tinggi seperti pinjol atau kartu kredit sangat membebani arus kas. Lunasi utang ini terlebih dulu sebelum fokus investasi besar-besaran.
+Utang dengan bunga tinggi seperti pinjol atau kartu kredit membebani arus kas. Lunasi utang ini terlebih dulu sebelum fokus pada investasi besar.
 
 **Pilih Instrumen Investasi yang Tepat**
 Jika batas waktu target kamu masih panjang (di atas 5 tahun), pertimbangkan instrumen investasi seperti reksa dana atau saham. Potensi imbal hasilnya bisa mengalahkan inflasi.
@@ -80,7 +80,7 @@ Proses mewujudkan target keuangan sering kali memakan waktu lama. Berikut cara m
 
 ## Kapan Perlu Menyesuaikan Tujuan?
 
-Kondisi finansial bisa berubah. Sangat wajar untuk menyesuaikan kembali target yang sudah dibuat.
+Kondisi finansial bisa berubah. Wajar untuk menyesuaikan kembali target yang sudah dibuat.
 
 Faktor yang memengaruhi perubahan target:
 - Peristiwa hidup (menikah, kehilangan pekerjaan, sakit).
@@ -108,4 +108,4 @@ Berikut beberapa contoh nyata cara merancang target SMART.
 **3. Liburan ke Luar Negeri**
 "Saya butuh Rp 25.000.000 untuk liburan ke Jepang pada Oktober 2027. Saya akan menabung Rp 1.000.000 tiap bulan mulai dari sekarang selama 25 bulan."
 
-Memulai kebiasaan menabung adalah tantangan terbesarnya. Lewat perencanaan detail ini, kamu punya peta yang jelas untuk sampai ke tujuan.
+Memulai kebiasaan menabung memang tidak mudah. Lewat perencanaan detail ini, kamu punya rencana yang jelas untuk sampai ke tujuan.

@@ -2,11 +2,11 @@
 
 ### Struktur Sosial dan Relasi Tokoh Utama
 
-Dalam analisis kritik sastra, tokoh pendukung memainkan peran penting dalam mengembangkan karakter utama dan plot cerita. Dalam novel *9 Summers 10 Autumns*, tokoh pendukung seperti Mbak Inan, Rini, Mira, dan Audrey memiliki karakteristik yang unik dan menarik. Dalam modul ini, kita akan menganalisis karakteristik dan peran tokoh pendukung dalam novel ini.
+Dalam analisis kritik sastra, tokoh pendukung memainkan peran penting dalam mengembangkan karakter utama dan plot cerita. Dalam novel *9 Summers 10 Autumns*, tokoh pendukung seperti Mbak Inan, Rini, Mira, dan Audrey memiliki karakteristik masing-masing. Dalam modul ini, kita akan menganalisis karakteristik dan peran tokoh pendukung dalam novel ini.
 
 ### Kontribusi Tokoh Keluarga dan Kolega Profesional
 
-Selain tokoh utama, kehadiran tokoh pendukung dalam novel *9 Summers 10 Autumns* sangat penting dalam membentuk kepribadian Iwan Setyawan dan mendorongnya mencapai impian. Berikut adalah analisis watak tokoh pendukung:
+Selain tokoh utama, kehadiran tokoh pendukung dalam novel *9 Summers 10 Autumns* penting dalam membentuk kepribadian Iwan Setyawan dan mendorongnya mencapai impian. Berikut adalah analisis watak tokoh pendukung:
 
 1. **Mbak Isa (Siti Aisyah - Peran Lanjutan)**
    Mbak Isa rela menunda impian akademiknya demi memberikan kesempatan kuliah bagi adik-adiknya, serta bekerja keras sebagai pengajar privat:
@@ -47,6 +47,6 @@ Selain tokoh utama, kehadiran tokoh pendukung dalam novel *9 Summers 10 Autumns*
 
 Analisis peran sosial menunjukkan bahwa tokoh pendukung seperti para dosen di IPB dan rekan kerja di Jakarta (misalnya Audrey di New York atau Mas Mul) tidak sekadar menjadi pelengkap cerita. Mereka bertindak sebagai jembatan transisi sosial (*social facilitators*) yang membantu Iwan keluar dari mentalitas minder anak daerah. Interaksi sosial dengan Audrey di kelas yoga West Village, misalnya, membantu mengekspresikan sisi humanis dan pencarian spiritual Iwan di tengah tekanan kerja korporat Amerika Serikat.
 
-### Tokoh yang Tidak Hidup di Ruang Hampa
+### Watak Tokoh dan Latar Cerita
 
 Watak para tokoh dan interaksi mereka tentu tidak terjadi di ruang hampa. Di bab selanjutnya, kita akan meneliti latar fisik dan sosial, mulai dari kesejukan Batu hingga belantara beton New York, yang melingkupi perjalanan hidup mereka.

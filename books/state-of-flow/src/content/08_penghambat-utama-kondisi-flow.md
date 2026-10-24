@@ -1,10 +1,10 @@
 ## Penghambat Utama Kondisi Flow
 
-Bayangkan kamu sedang mengendarai mobil balap di lintasan yang mulus dengan kecepatan tinggi. Segalanya terasa sinkron, mesin menderu harmonis, dan kamu merasa menyatu dengan kendaraan. Tiba-tiba, seseorang menumpahkan sekotak paku di tengah jalan atau menarik rem tangan secara mendadak. Itulah yang terjadi ketika **Flow Killers** masuk ke dalam ruang kerja mental kamu.
+Bayangkan kamu sedang mengendarai mobil balap di lintasan yang mulus dengan kecepatan tinggi. Segalanya terasa sinkron, mesin menderu, dan kamu merasa menyatu dengan kendaraan. Tiba-tiba, seseorang menumpahkan sekotak paku di tengah jalan atau menarik rem tangan secara mendadak. Itulah yang terjadi ketika **Flow Killers** masuk ke dalam ruang kerja mental kamu.
 
-Kondisi *flow* adalah keadaan yang sangat rapuh. Meskipun memberikan produktivitas luar biasa, ia membutuhkan lingkungan dan kondisi mental yang spesifik untuk tetap bertahan. Dalam bagian ini, kita akan membedah musuh-musuh utama yang mencegah kamu mencapai atau mempertahankan kondisi alir tersebut.
+Kondisi *flow* adalah keadaan yang sangat rapuh. Meskipun memberikan produktivitas tinggi, ia membutuhkan lingkungan dan kondisi mental yang spesifik untuk tetap bertahan. Dalam bagian ini, kita akan membedah musuh-musuh utama yang mencegah kamu mencapai atau mempertahankan kondisi alir tersebut.
 
-## 1\. Gangguan Digital yang Mencuri Perhatian
+## 1\. Gangguan Digital
 
 Di era modern, gangguan digital adalah penghambat nomor satu. Setiap kali ponsel kamu bergetar atau muncul notifikasi di sudut layar komputer, otak kamu mengalami apa yang disebut sebagai **Orienting Response**.
 
@@ -40,7 +40,7 @@ Dalam kondisi stres tinggi:
 2. **Prefrontal Cortex** (pusat logika dan fokus) menjadi kurang aktif.
 3. Hasilnya adalah kepanikan, bukan fokus.
 
-*Tumpukan tugas yang terasa luar biasa berat dapat membuat sistem saraf masuk ke mode "Freeze" - beku di tempat, tidak mampu memulai apa pun - yang merupakan kebalikan total dari kondisi flow.*
+*Tumpukan tugas yang terasa terlalu berat dapat membuat sistem saraf masuk ke mode "Freeze" - beku di tempat, tidak mampu memulai apa pun - yang merupakan kebalikan total dari kondisi flow.*
 
 ## 4\. Lingkungan yang Tidak Mendukung Fokus Mendalam
 
@@ -74,13 +74,13 @@ Mari kita terapkan ini dalam skenario profesional. Bayangkan seorang desainer gr
 - Menggunakan teknik **Time Blocking**: Dedikasikan waktu khusus untuk membalas pesan *setelah* sesi desain selesai.
 - Menggunakan **Noise-Canceling Headphones** untuk menciptakan ruang isolasi suara.
 
-## Ringkasan Penghambat
+## Penghambat, Dampak, dan Cara Mengatasinya
 
 | Penghambat | Dampak pada Otak | Cara Mengatasi |
 | --- | --- | --- |
 | **Notifikasi Digital** | Memecah perhatian & memicu dopamine loop. | Mode pesawat atau aplikasi pemblokir gangguan. |
 | **Multitasking** | Meningkatkan beban kognitif & sisa perhatian. | Fokus pada satu tugas tunggal (Single-tasking). |
 | **Stres Tinggi** | Mengaktifkan respon "Fight or Flight". | Latihan pernapasan atau memecah tugas menjadi lebih kecil. |
-| **Interupsi Fisik** | Menghancurkan momentum mental. | Mengatur batasan fisik (misalnya: memakai headphone sebagai tanda jangan diganggu). |
+| **Interupsi Fisik** | Memutus momentum mental. | Mengatur batasan fisik (misalnya: memakai headphone sebagai tanda jangan diganggu). |
 
 > **Insight Berharga:** Menghilangkan penghambat seringkali lebih efektif daripada mencoba memaksa diri untuk fokus. Menyingkirkan rintangan adalah strategi yang jauh lebih andal daripada mengandalkan kekuatan kehendak semata - tugas utama kamu adalah membersihkan 'paku-paku' di lintasan mental kamu.

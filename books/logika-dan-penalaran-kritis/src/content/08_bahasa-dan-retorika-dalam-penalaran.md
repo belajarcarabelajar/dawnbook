@@ -1,8 +1,8 @@
 ## Bahasa dan Retorika dalam Penalaran
 
-Pernahkah kamu merasa sangat setuju dengan sebuah pidato atau tulisan, namun saat mencoba merangkum argumennya secara logis, kamu menyadari bahwa isinya sebenarnya kosong? Atau mungkin kamu merasa tidak nyaman dengan sebuah berita, meskipun data yang disajikan tampak benar?
+Pernahkah kamu merasa sangat setuju dengan sebuah pidato atau tulisan, lalu menyadari isinya kosong saat mencoba merangkum argumennya secara logis? Atau mungkin kamu merasa tidak nyaman dengan sebuah berita, meskipun data yang disajikan tampak benar?
 
-Itulah kekuatan **bahasa dan retorika**. Dalam penalaran kritis, bahasa bukan sekadar alat komunikasi yang netral. Bahasa adalah lensa yang bisa memperjelas kebenaran atau justru mengaburkannya dengan kabut emosi dan manipulasi.
+Itulah kekuatan **bahasa dan retorika**. Dalam penalaran kritis, bahasa bukan sekadar alat komunikasi yang netral. Bahasa bisa memperjelas kebenaran, atau mengaburkannya lewat emosi dan manipulasi.
 
 ## 1. Bahasa dan Dua Lapisan Maknanya
 
@@ -59,7 +59,7 @@ Pertanyaan yang di dalamnya sudah terselip asumsi yang belum tentu benar.
 
 ### 3. Bahasa Emotif (Slanting)
 
-Penggunaan kata sifat yang sangat bermuatan emosi untuk menggiring opini tanpa argumen faktual.
+Penggunaan kata sifat yang bermuatan emosi untuk menggiring opini tanpa argumen faktual.
 
 - **Contoh:** "Kebijakan yang **mengerikan** dan **kejam** ini akan menghancurkan masa depan kita."
 - **Masalah Logika:** Kata "mengerikan" dan "kejam" bersifat subjektif. Tanpa penjelasan mengapa kebijakan itu buruk secara data, kalimat ini hanyalah serangan emosional.
@@ -100,7 +100,7 @@ Dalam kehidupan sehari-hari, media sosial sering menggunakan bahasa tertentu unt
 
 ### Strategi Menghadapi Manipulasi Bahasa
 
-1. **Menerjemahkan ke Bahasa Netral:** Saat mendengar kalimat yang sangat emotif, coba tulis kembali kalimat tersebut dengan kata-kata yang paling netral dan faktual. Periksa apakah argumennya masih masuk akal.
+1. **Menerjemahkan ke Bahasa Netral:** Saat mendengar kalimat yang emotif, coba tulis kembali kalimat tersebut dengan kata-kata yang paling netral dan faktual. Periksa apakah argumennya masih masuk akal.
 2. **Mencari Definisi Operasional:** Jika seseorang menggunakan kata abstrak seperti "Keadilan" atau "Kemerdekaan", tanyakan: "Apa definisi spesifikmu mengenai hal ini dalam konteks sekarang?"
 3. **Memisahkan Fakta dari Kata Sifat:** Singkirkan semua kata sifat (indah, buruk, luar biasa, busuk) dan lihat apa yang tersisa. Jika yang tersisa tidak ada, maka pernyataan tersebut bukanlah argumen, melainkan sekadar retorika.
 

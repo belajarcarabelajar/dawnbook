@@ -2,7 +2,7 @@
 
 Di tambang Harvest Moon: Back to Nature, setiap lubang yang kamu injak membawamu turun satu lantai, dan tidak ada jalan naik ke lantai sebelumnya.
 
-Bab terakhir ini turun ke bawah tanah untuk satu pelajaran yang sering datang terlambat. Sebagian pilihan tidak punya jalan pulang, dan cara terbaik menghadapinya adalah bersiap sebelum melangkah, bukan menyesal sesudahnya.
+Bab terakhir ini turun ke bawah tanah untuk satu pelajaran. Sebagian pilihan tidak punya jalan pulang, dan cara terbaik menghadapinya adalah bersiap sebelum melangkah, bukan menyesal sesudahnya.
 
 ### Pintu yang Hanya Terbuka di Musim Dingin
 

@@ -1,6 +1,6 @@
 ## Rekonstruksi dan Pengucilan Negara Poros Pasca-Perang Dunia II
 
-Setelah jeda selama 12 tahun akibat kecamuk Perang Dunia II, sepak bola dunia mencoba bangkit dari puing-puing kehancuran. Piala Dunia 1950 di Brasil lebih dari sekadar turnamen olahraga. Ajang ini menjadi simbol **rekonstruksi tatanan dunia**, memperlihatkan bagaimana diplomasi lapangan hijau digunakan untuk menghukum masa lalu sekaligus merajut masa depan.
+Setelah jeda selama 12 tahun akibat kecamuk Perang Dunia II, sepak bola dunia mencoba bangkit kembali. Piala Dunia 1950 di Brasil lebih dari sekadar turnamen olahraga. Ajang ini menjadi simbol **rekonstruksi tatanan dunia**, memperlihatkan bagaimana diplomasi lapangan hijau digunakan untuk menghukum masa lalu sekaligus merajut masa depan.
 
 ## 1. Jeda Panjang dan Trauma Global (1938-1950)
 
@@ -25,7 +25,7 @@ Geopolitik sangat menentukan siapa yang boleh menendang bola di tahun 1950. FIFA
 - **Jerman:** Negara ini terbagi menjadi zona pendudukan. Karena belum memiliki pemerintahan yang diakui secara internasional dan sebagai bentuk hukuman moral, Jerman (baik Barat maupun Timur) dilarang berpartisipasi dalam kualifikasi.
 - **Jepang:** Mengalami nasib yang sama. Sebagai agresor utama di Asia, Jepang dikucilkan dari komunitas sepak bola internasional hingga proses rehabilitasi politik mereka dianggap cukup.
 
-### B. Pengecualian Italia yang Menarik
+### B. Pengecualian untuk Italia
 
 Meskipun Italia adalah bagian dari Poros pimpinan Mussolini, mereka tetap diizinkan ikut serta. Mengapa?
 

@@ -1,8 +1,8 @@
 ## Fondasi Teori Kecerdasan Majemuk
 
-Selama puluhan tahun, dunia pendidikan dan psikologi seperti terkunci pada satu pertanyaan sempit: *"Seberapa cerdas kamu?"* Melalui teori ini, sudut pandangnya digeser menjadi lebih bermakna, yaitu *"Bagaimana cara kamu menjadi cerdas?"*
+Selama puluhan tahun, dunia pendidikan dan psikologi seperti terkunci pada satu pertanyaan sempit: *Seberapa cerdas kamu?* Melalui teori ini, sudut pandangnya digeser menjadi lebih bermakna, yaitu *Bagaimana cara kamu menjadi cerdas?*
 
-Bagian ini membahas dasar-dasar Teori Kecerdasan Majemuk (*Multiple Intelligences*), sebuah pendekatan yang membongkar batasan kaku dari sekadar angka IQ dan memperlihatkan betapa luasnya spektrum kemampuan kita sebagai manusia.
+Bagian ini membahas dasar-dasar Teori Kecerdasan Majemuk (*Multiple Intelligences*), sebuah pendekatan yang tidak berhenti pada angka IQ dan memperlihatkan ragam kemampuan kita sebagai manusia.
 
 ## 1. Awal Mula Perubahan Sudut Pandang
 
@@ -48,7 +48,7 @@ Setiap dari kita sebenarnya memiliki semua jenis kecerdasan yang ada, hanya saja
 
 Di dunia nyata, berbagai kecerdasan ini beroperasi secara bersamaan dan saling melengkapi. Jarang sekali sebuah aktivitas hanya menuntut satu jenis kemampuan. Misalnya, seorang koki profesional tidak cuma butuh kendali motorik saat memotong bahan (kinestetik); ia juga harus bisa menakar bumbu dengan presisi (logis-matematis) sekaligus memimpin ritme kerja para asistennya di dapur (interpersonal). Pada akhirnya, teori ini menegaskan bahwa tidak ada satu standar mutlak untuk menilai kecerdasan seseorang dalam sebuah bidang, karena selalu ada banyak rute berbeda untuk mencapai keunggulan.
 
-## 5. Meruntuhkan Batas Antara Bakat dan Kecerdasan
+## 5. Kriteria Sebuah Kemampuan Disebut Kecerdasan
 
 Masuknya suatu kemampuan ke dalam kategori kecerdasan majemuk tidak dilakukan sembarangan oleh Gardner. Ada sejumlah kriteria ketat yang harus dipenuhi.
 

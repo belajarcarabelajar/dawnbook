@@ -1,4 +1,4 @@
-# Perancangan Lingkungan Fisik Kelas
+## Perancangan Lingkungan Fisik Kelas
 
 Bayangkan kamu masuk ke sebuah restoran. Jika meja-meja disusun terlalu rapat, kamu akan merasa sesak. Jika pelayan sulit menjangkau meja kamu karena terhalang dekorasi, layanan akan lambat. Sebaliknya, restoran yang dirancang dengan baik membuat aliran pergerakan terasa alami dan suasana menjadi nyaman.
 
@@ -46,7 +46,7 @@ Manajemen kelas proaktif bertujuan agar siswa tidak selalu bergantung pada guru 
 
 **Real-world Application:**
 
-> Di sebuah kelas di Jakarta, seorang guru menyediakan "Kotak Darurat" di sudut kelas yang berisi alat tulis cadangan. Hasilnya? Interupsi saat pelajaran berkurang drastis karena siswa tidak perlu lagi mengangkat tangan hanya untuk meminjam penghapus.
+> Di sebuah kelas di Jakarta, seorang guru menyediakan "Kotak Darurat" di sudut kelas yang berisi alat tulis cadangan. Hasilnya? Interupsi saat pelajaran berkurang karena siswa tidak perlu lagi mengangkat tangan hanya untuk meminjam penghapus.
 
 ## 5. Meminimalisir Distraksi Sensorik
 
@@ -56,7 +56,7 @@ Lingkungan fisik bukan hanya tentang apa yang bisa disentuh, tapi juga apa yang 
 - **Pencahayaan:** Jika memungkinkan, gunakan cahaya alami. Cahaya lampu flouresens yang terlalu terang dapat memicu kecemasan pada beberapa siswa.
 - **Area "Cool Down":** Sediakan satu pojok kecil dengan kursi nyaman atau karpet untuk siswa yang merasa kewalahan secara emosional.
 
-## 6. Transformasi Ruang
+## 6. Penataan Ulang Kelas Ibu Sari
 
 **Masalah:** Ibu Sari memiliki kelas yang sangat aktif. Setiap kali ia meminta siswa mengumpulkan tugas ke mejanya di depan, terjadi aksi saling dorong dan kelas menjadi gaduh selama 5 menit.
 

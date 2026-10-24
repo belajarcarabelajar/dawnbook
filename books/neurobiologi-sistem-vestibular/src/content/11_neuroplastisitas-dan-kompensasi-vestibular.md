@@ -1,8 +1,8 @@
 ## Neuroplastisitas dan Kompensasi Vestibular
 
-Pernahkah terbayangkan apa yang terjadi jika salah satu "sensor keseimbangan" di telinga dalam tiba-tiba berhenti mengirimkan sinyal? Dunia akan terasa berputar (vertigo), mual melanda, dan berdiri tegak terasa mustahil. Namun, luar biasanya, dalam beberapa minggu, sebagian besar orang dapat kembali berjalan normal.
+Pernahkah terbayangkan apa yang terjadi jika salah satu "sensor keseimbangan" di telinga dalam tiba-tiba berhenti mengirimkan sinyal? Dunia akan terasa berputar (vertigo), mual melanda, dan berdiri tegak terasa mustahil. Namun, dalam beberapa minggu, sebagian besar orang dapat kembali berjalan normal.
 
-Kemampuan pemulihan ajaib ini bukan karena organ yang rusak itu sembuh dengan sendirinya, melainkan karena otak kita melakukan **reprogramming** besar-besaran. Inilah yang kita sebut sebagai **Kompensasi Vestibular**, sebuah manifestasi luar biasa dari **Neuroplastisitas**.
+Kemampuan pulih ini bukan karena organ yang rusak itu sembuh dengan sendirinya, melainkan karena otak kita melakukan **reprogramming**. Inilah yang kita sebut sebagai **Kompensasi Vestibular**, sebuah wujud dari **Neuroplastisitas**.
 
 ### 1. Apa Itu Kompensasi Vestibular?
 

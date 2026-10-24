@@ -81,7 +81,7 @@ Artinya, Pemain A harus memilih Angka 50% dari waktu dan Gambar 50% dari waktu a
 
 Perhitungan yang sama dari sisi Pemain A (menyamakan ekspektasi hasilnya saat memilih Angka dan saat memilih Gambar) menghasilkan $q = 0{,}5$ untuk Pemain B. Jadi, dalam ekuilibrium strategi campuran Matching Pennies, kedua pemain memilih masing-masing aksi dengan peluang 0,5.
 
-### 4. Aplikasi Dunia Nyata dan Kasus Praktis
+### 4. Strategi Campuran di Keamanan Siber, Olahraga, dan Hukum
 
 Strategi campuran bukan sekadar teori matematika, melainkan alat pertahanan dan optimasi di dunia nyata.
 
@@ -116,4 +116,4 @@ Polisi lalu lintas tidak bisa berjaga di setiap sudut jalan setiap saat. Dengan 
 
 **Latihan Cepat:** Dalam permainan Batu-Gunting-Kertas, jika lawan kamu ternyata sangat sering mengeluarkan **Batu** (misal 60% waktu), apa yang harus kamu lakukan dengan strategi campuranmu untuk mengeksploitasi kelemahan tersebut? *(Petunjuk: Kamu tidak lagi harus 1/3, 1/3, 1/3. Kamu harus menyesuaikan probabilitasmu untuk lebih sering mengeluarkan Kertas!)*
 
-> **Pesan Utama:** Strategi campuran mengajarkan kita bahwa dalam dunia yang kompetitif, **ketidakpastian adalah aset**. Dengan menjadi acak secara terukur, kamu menciptakan pertahanan yang solid terhadap lawan yang paling cerdas sekalipun.
+> **Pesan Utama:** Strategi campuran mengajarkan kita bahwa dalam persaingan, **ketidakpastian adalah aset**. Dengan menjadi acak secara terukur, kamu mencegah lawan mengeksploitasi pola pilihanmu.

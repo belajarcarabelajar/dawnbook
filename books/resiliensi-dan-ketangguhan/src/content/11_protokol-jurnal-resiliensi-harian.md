@@ -1,10 +1,10 @@
 ## Protokol Jurnal Resiliensi Harian
 
-Selamat datang di mental gym kamu. Jika bagian-bagian sebelumnya telah membekali kamu dengan teori dan pemahaman tentang resiliensi, bagian ini adalah tempat di mana kamu benar-benar "mengangkat beban" untuk memperkuat resilience muscle tersebut.
+Anggap halaman ini sebagai mental gym kamu, ruang yang diisi jurnal dan latihan praktis, bukan tumpukan teori baru tentang resiliensi. Jika bagian-bagian sebelumnya telah membekali kamu dengan teori dan pemahaman tentang resiliensi, bagian ini adalah tempat di mana kamu benar-benar "mengangkat beban" untuk memperkuat resilience muscle tersebut.
 
-Resiliensi bukanlah sebuah bakat yang kita bawa sejak lahir, melainkan sebuah keterampilan yang diasah melalui pengulangan. Analogi yang paling tepat adalah **sistem kekebalan tubuh**. Tubuh kita menjadi kuat bukan karena tidak pernah terpapar kuman, melainkan karena ia belajar mengenali, melawan, dan beradaptasi setelah terpapar. Latihan praktis dan jurnal ini adalah "vaksin" dan "nutrisi" bagi jiwamu.
+Resiliensi bukanlah sebuah bakat yang kita bawa sejak lahir, melainkan sebuah keterampilan yang diasah melalui pengulangan. Analogi yang tepat adalah **sistem kekebalan tubuh**. Tubuh kita menjadi kuat bukan karena tidak pernah terpapar kuman, melainkan karena ia belajar mengenali, melawan, dan beradaptasi setelah terpapar. Latihan praktis dan jurnal ini adalah "vaksin" dan "nutrisi" bagi mentalmu.
 
-## 1. Protokol Jurnal Resiliensi Harian
+## 1. Dua Metode Jurnal
 
 Menulis lebih dari sekadar memindahkan kata ke kertas. Aktivitas ini merupakan proses kognitif untuk merapikan pikiran yang semrawut menjadi struktur yang logis. Berikut adalah dua metode jurnal yang bisa kamu terapkan secara bergantian.
 
@@ -26,7 +26,7 @@ Gunakan metode ini saat kamu mengalami kejadian spesifik yang menekan atau membu
 - **D (Disputation):** Debat keyakinan negatifmu. Apa bukti bahwa itu tidak sepenuhnya benar?
 - **E (Energization):** Bagaimana perasaanmu sekarang setelah berhasil melakukan reframing terhadap masalah tersebut?
 
-> **Penting:** Konsistensi lebih berharga daripada durasi. Menulis selama 5 menit setiap hari jauh lebih efektif daripada menulis 2 jam namun hanya dilakukan sebulan sekali.
+> **Penting:** Konsistensi lebih berharga daripada durasi. Menulis selama 5 menit setiap hari lebih efektif daripada menulis 2 jam namun hanya dilakukan sebulan sekali.
 
 ## 2. Visualisasi "The Resilient Self"
 
@@ -41,7 +41,7 @@ Biasanya, kita memvisualisasikan kegagalan (kecemasan). Kali ini, kita akan memb
 3. **Visualisasikan Respons:** Lihat dirimu menarik napas dalam, tetap tenang, dan menggunakan salah satu teknik resiliensi (seperti melakukan reframing) untuk mengatasinya.
 4. **Rasakan Hasilnya:** Rasakan kelegaan dan kepuasan setelah kamu berhasil melewati hambatan tersebut, bukan karena keberuntungan, tetapi berkat tindakanmu.
 
-## 3. Pertanyaan Reflektif untuk Melatih Otot Resiliensi
+## 3. Pertanyaan Reflektif
 
 Gunakan pertanyaan-pertanyaan ini sebagai kompas saat kamu merasa tersesat dalam kesulitan. Cobalah untuk menjawabnya dengan jujur dalam jurnalmu.
 
@@ -72,7 +72,7 @@ Semakin singkat waktu pemulihan pada tingkat stres yang tinggi, semakin tinggi i
 | 26 Oktober 2023 | 4 | 30 | Rapat rutin | 40 / 31 = 1,29 |
 | 27 Oktober 2023 | 7 | 45 | Konflik dengan rekan | 70 / 46 = 1,52 |
 
-**Real-world Application:** Dari tabel tersebut, kamu bisa menyadari bahwa pada tanggal 27, meskipun tingkat stres cukup tinggi (7), waktu pemulihanmu jauh lebih cepat (45 menit) dibanding tanggal 25 (120 menit), sehingga indeksnya naik dari 0,66 menjadi 1,52. Ini adalah bukti nyata bahwa "otot" resiliensimu sedang berkembang!
+**Real-world Application:** Dari tabel tersebut, kamu bisa menyadari bahwa pada tanggal 27, meskipun tingkat stres cukup tinggi (7), waktu pemulihanmu jauh lebih cepat (45 menit) dibanding tanggal 25 (120 menit), sehingga indeksnya naik dari 0,66 menjadi 1,52. Ini tanda bahwa "otot" resiliensimu sedang berkembang.
 
 ## 5. Gagal Memenangkan Tender
 

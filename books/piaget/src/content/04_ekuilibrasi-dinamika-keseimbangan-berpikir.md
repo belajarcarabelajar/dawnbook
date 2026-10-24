@@ -1,6 +1,6 @@
 ## Ekuilibrasi
 
-Pernah bingung belajar sesuatu yang benar-benar baru? Rasanya otak seperti mendidih. Sampai akhirnya, *klik!* Semua mendadak masuk akal. Piaget menyebut momen ajaib itu **ekuilibrasi**.
+Pernah bingung belajar sesuatu yang benar-benar baru? Rasanya semua serba membingungkan. Sampai akhirnya, *klik!* Semua mendadak masuk akal. Piaget menyebut momen itu **ekuilibrasi**.
 
 Ekuilibrasi adalah konsep krusial tapi gampang-gampang susah dipahami. Bayangkan asimilasi dan akomodasi sebagai perkakasnya. Ekuilibrasi adalah mesin pendorongnya. Tanpanya, perkembangan kognitif kita mandek. Atau malah kacau balau.
 
@@ -44,9 +44,9 @@ flowchart TD
 Bayangkan isi kepala kita berfungsi macam **termostat AC**.
 
 - **Set Point (Equilibrium):** Kamu pasang suhu $24^\circ\text{C}$. Ruangan sejuk. Sistem diam tanpa beban.
-- **Perubahan Lingkungan:** Matahari siang membakar. Suhu ruangan loncat ke $28^\circ\text{C}$. Inilah fase **disekuilibrium**.
-- **Respon Ekuilibrasi:** Sensor termostat mendeteksi suhu panas ekstrem. Mesin pendingin otomatis menyala kencang.
-- **Hasil:** Ruangan kembali ke $24^\circ\text{C}$. Bedanya, di dunia kognitif, titik keseimbangan yang baru ini punya struktur pondasi jauh lebih canggih dari sebelumnya.
+- **Perubahan Lingkungan:** Matahari siang terik. Suhu ruangan loncat ke $28^\circ\text{C}$. Inilah fase **disekuilibrium**.
+- **Respon Ekuilibrasi:** Sensor termostat mendeteksi suhu naik. Mesin pendingin otomatis menyala.
+- **Hasil:** Ruangan kembali ke $24^\circ\text{C}$. Bedanya, di dunia kognitif, titik keseimbangan yang baru ini punya struktur yang lebih kompleks dari sebelumnya.
 
 ### 4\. Menyeimbangkan Asimilasi dan Akomodasi
 
@@ -55,13 +55,13 @@ Ekuilibrasi berperan jadi wasit penengah asimilasi dan akomodasi.
 - Kebanyakan **asimilasi**: Anak maksa memasukkan pengalaman baru ke laci lama yang sempit. Pikiran jadi kaku. Dunia terlihat kelewat sederhana.
 - Kebanyakan **akomodasi**: Pikiran anak berubah total tiap melihat hal sepele. Isi kepala berantakan. Nggak punya pijakan solid sama sekali.
 
-Ekuilibrasi menjaga harmoni itu berdetak konstan:
+Ekuilibrasi menjaga keduanya tetap seimbang:
 
 $$
 \text{Ekuilibrasi} \approx \frac{\text{Asimilasi}}{\text{Akomodasi}} \rightarrow \text{Keseimbangan Mental}
 $$
 
-*Coba pikir: Pernah ketemu orang super keras kepala (overdosis asimilasi)? Atau orang yang plin-plan nggak punya prinsip (overdosis akomodasi)? Menurut kacamata Piaget, mesin ekuilibrasi di otak mereka sedang rusak atau macet.*
+*Coba pikir: Pernah ketemu orang yang keras kepala (kebanyakan asimilasi)? Atau orang yang plin-plan nggak punya prinsip (kebanyakan akomodasi)? Menurut kacamata Piaget, ekuilibrasi mereka sedang macet.*
 
 ### 5\. Mengapa Langit Berwarna Biru?
 
@@ -71,20 +71,20 @@ Kita pantau ekuilibrasi bekerja lewat kisah Budi si balita.
 
 **2. Tantangan.** Budi melihat awan jalan-jalan. Nggak ada tanda-tanda tumpahan cat dari langit. Gurunya bilang warna biru itu gara-gara cahaya matahari, bukan tukang cat gaib.
 
-**3. Disequilibrium.** Budi garuk-garuk kepala. *"Kalau nggak dicat, kok warnanya biru terus? Kenapa nggak luntur pas hujan deras?"* Batinnya gelisah luar biasa. Inilah momen sakral saat mesin kognitif mulai menyala panas.
+**3. Disequilibrium.** Budi garuk-garuk kepala. *"Kalau nggak dicat, kok warnanya biru terus? Kenapa nggak luntur pas hujan deras?"* Batinnya gelisah. Pada saat inilah ekuilibrasi mulai bekerja.
 
-**4. Ekuilibrasi & Akomodasi.** Budi mati-matian mencerna omongan gurunya soal cahaya. Perlahan skemanya bergeser drastis. Warna bukan cuma soal kuas yang dioles. Cahaya ternyata punya magis untuk menciptakan warna.
+**4. Ekuilibrasi & Akomodasi.** Budi berusaha mencerna omongan gurunya soal cahaya. Perlahan skemanya bergeser. Warna bukan cuma soal kuas yang dioles. Ternyata cahaya bisa menghasilkan warna.
 
-**5. New Equilibrium.** Budi kembali tenang. Dunianya masuk akal lagi. Namun kali ini struktur pikirannya sudah naik satu level lebih canggih.
+**5. New Equilibrium.** Budi kembali tenang. Dunianya masuk akal lagi. Namun kali ini struktur pikirannya sudah naik satu level.
 
 ### 6\. Pentingnya "Kebingungan"
 
-Bagi dunia pendidik dan pengasuhan, ekuilibrasi membawa satu pesan frontal: **sedikit kebingungan itu menyehatkan.**
+Bagi dunia pendidik dan pengasuhan, ekuilibrasi membawa satu pesan: **sedikit kebingungan itu menyehatkan.**
 
-- **Tahan Jawabanmu:** Guru yang buru-buru ngasih kunci jawaban malah membunuh disekuilibrium. Tanpa rasa bingung, tak ada ekuilibrasi. Biarkan anak berkelahi sebentar dengan pertanyaannya.
+- **Tahan Jawabanmu:** Guru yang buru-buru ngasih kunci jawaban malah menghilangkan disekuilibrium. Tanpa rasa bingung, tak ada ekuilibrasi. Biarkan anak memikirkan pertanyaannya sebentar.
 - **Beri Tantangan Pas:**
-	- Terlalu gampang $\rightarrow$ Anak bertahan di zona equilibrium (hasilnya: bosan mati).
-	- Terlampau susah $\rightarrow$ Anak stres berat dan memilih balik badan (ekuilibrasi batal).
-	- **Titik Optimal:** Suapkan misteri yang letaknya pas seinci di atas batas pemahaman mereka.
+	- Terlalu gampang $\rightarrow$ Anak bertahan di zona equilibrium (hasilnya: bosan).
+	- Terlampau susah $\rightarrow$ Anak stres dan memilih balik badan (ekuilibrasi batal).
+	- **Titik Optimal:** Berikan soal yang sedikit di atas batas pemahaman mereka.
 
-**Untuk Belajarmu Sendiri:** Mentok memahami algoritma koding? Jangan buru-buru tutup laptop. Kepalamu sedang terbakar api **disekuilibrium**. Bukannya bodoh, kamu justru sedang antre tepat di depan gerbang lompatan intelektual berikutnya.
+**Untuk Belajarmu Sendiri:** Mentok memahami algoritma koding? Jangan buru-buru tutup laptop. Kamu sedang mengalami **disekuilibrium**. Bukannya bodoh, kamu sedang berada di ambang pemahaman berikutnya.

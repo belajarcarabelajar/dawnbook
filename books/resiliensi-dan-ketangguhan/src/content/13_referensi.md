@@ -1,6 +1,6 @@
 ## Referensi
 
-Bagian ini menyajikan daftar pustaka ilmiah, artikel jurnal terakreditasi, dan buku referensi utama yang menjadi fondasi teoritis mengenai resiliensi psikologis (*psychological resilience*) dan ketangguhan mental (*mental toughness*). Seluruh sumber di bawah ini dapat diakses untuk penelusuran literatur lebih lanjut.
+Bagian ini menyajikan daftar pustaka ilmiah, artikel jurnal terakreditasi, dan buku referensi utama tentang resiliensi dan ketangguhan mental. Sumber-sumber ini menjadi fondasi teoritis bagi resiliensi psikologis (*psychological resilience*) dan ketangguhan mental (*mental toughness*). Seluruh sumber di bawah ini dapat diakses untuk penelusuran literatur lebih lanjut.
 
 ### Buku Referensi Utama
 

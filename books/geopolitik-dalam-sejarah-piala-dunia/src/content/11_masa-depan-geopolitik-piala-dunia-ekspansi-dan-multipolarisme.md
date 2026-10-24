@@ -1,6 +1,6 @@
 ## Masa Depan Geopolitik Piala Dunia Menghadapi Ekspansi dan Multipolarisme
 
-Selamat datang di bab penutup dari perjalanan panjang kita menelusuri sejarah geopolitik sepak bola. Jika bab-bab sebelumnya membahas bagaimana Piala Dunia menjadi cermin dari perang, ideologi, dan konflik masa lalu, bab ini akan mengajak kamu melihat ke depan.
+Perjalanan panjang kita menelusuri sejarah geopolitik sepak bola, dari satu turnamen ke turnamen berikutnya, kini tiba di bab penutupnya. Jika bab-bab sebelumnya membahas bagaimana Piala Dunia menjadi cermin dari perang, ideologi, dan konflik masa lalu, bab ini akan mengajak kamu melihat ke depan.
 
 Kita sedang memasuki era saat sepak bola bertransformasi dari instrumen diplomasi negara tunggal menjadi ekosistem **multipolar**. Fenomena ini mencerminkan pergeseran kekuatan ekonomi global dari Barat menuju Timur dan Selatan.
 
@@ -8,7 +8,7 @@ Kita sedang memasuki era saat sepak bola bertransformasi dari instrumen diplomas
 
 Mulai tahun 2026, kita akan menyaksikan perubahan format paling drastis dalam sejarah modern FIFA: penambahan jumlah peserta dari 32 menjadi **48 tim**. Secara administratif, langkah ini menghadirkan tantangan logistik yang besar. Namun secara geopolitik, ekspansi tersebut mengirimkan pesan kuat tentang **demokratisasi dan inklusi**.
 
-### Mengapa 48? Analogi "Meja Perjamuan Global"
+### Mengapa 48 Tim?
 
 Bayangkan Piala Dunia seperti perjamuan makan malam eksklusif. Selama puluhan tahun, perhelatan ini didominasi oleh perwakilan dari Eropa dan Amerika Selatan. Negara-negara Asia dan Afrika sering kali hanya menjadi pelengkap dengan kuota yang sangat terbatas. Ekspansi menjadi 48 tim menjadi cara FIFA memperluas jangkauan agar kekuatan ekonomi baru dapat ikut ambil bagian.
 
@@ -18,7 +18,7 @@ Bayangkan Piala Dunia seperti perjamuan makan malam eksklusif. Selama puluhan ta
 - **CAF (Afrika):** Mengamankan kenaikan jatah hingga 9 slot langsung.
 - **CONCACAF dan CONMEBOL:** Menjalani penambahan yang memperkuat integrasi di wilayah Amerika.
 
-Ekspansi ini bertujuan membuka akses pasar baru secara global, melebihi sekadar aspek keadilan di lapangan. Dengan memperbesar peluang bagi negara berpopulasi raksasa seperti Tiongkok, India, atau Indonesia, FIFA ingin menjaga keberlanjutan finansial organisasi di tengah kejenuhan pasar Eropa.
+Ekspansi ini bertujuan membuka akses pasar baru secara global, melebihi sekadar aspek keadilan di lapangan. Dengan memperbesar peluang bagi negara berpopulasi besar seperti Tiongkok, India, atau Indonesia, FIFA ingin menjaga keberlanjutan finansial organisasi di tengah kejenuhan pasar Eropa.
 
 > "Dalam politik sepak bola, satu suara dari Kepulauan Cook memiliki nilai yang sama dengan satu suara dari Jerman. Ekspansi adalah mata uang yang digunakan untuk membeli loyalitas politik global."
 
@@ -73,7 +73,7 @@ Arab Saudi kini berdiri sebagai satu-satunya kandidat tuan rumah untuk Piala Dun
 
 - **Strategi:** Menjadikan sepak bola sebagai pilar utama "Vision 2030" guna mentransformasi citra negara secara global.
 - **Multipolarisme:** Langkah ini membuktikan bahwa kendali kekuatan sepak bola tidak lagi memerlukan persetujuan tradisional dari negara-negara Barat.
-- **Teknologi dan Inovasi:** Pembangunan stadion masa depan di kawasan NEOM menyatukan kecanggihan teknologi dengan pesan politik tentang masa depan peradaban.
+- **Teknologi dan Inovasi:** Pembangunan stadion di kawasan NEOM memadukan teknologi canggih dengan pesan politik tentang masa depan.
 
 *Langkah Arab Saudi ini searah dengan pergeseran multipolar di bagian 3: peta kekuatan yang dulu terpusat di Eropa dan Amerika Selatan mulai menyebar ke Asia, Timur Tengah, dan Afrika.*
 
@@ -81,6 +81,6 @@ Arab Saudi kini berdiri sebagai satu-satunya kandidat tuan rumah untuk Piala Dun
 
 Masa depan turnamen ini bertumpu pada **skala dan konektivitas**. Perkembangan dari 13 tim di Uruguay hingga mencapai 48 tim di Amerika Utara mencerminkan bagaimana hubungan antarbangsa berevolusi dari sekat-sekat isolasi menuju jaringan global yang rumit.
 
-Piala Dunia telah tumbuh melampaui turnamen biasa; ajang ini kini menyerupai **PBB yang memegang kendali bola**. Memahami pergolakan geopolitik di belakangnya membantu kita memetakan arah pergeseran kekuasaan dunia di masa mendatang.
+Piala Dunia kini lebih dari sekadar turnamen; ajang ini menyerupai **forum antarbangsa**. Memahami pergolakan geopolitik di belakangnya membantu kita memetakan arah pergeseran kekuasaan dunia di masa mendatang.
 
-> **Catatan Penutup:** Di tengah dunia yang kerap terbelah oleh kepentingan politik, lapangan hijau menjadi ruang unik tempat 48 negara tetap sepakat mematuhi aturan main yang sama. Di sanalah letak kekuatan diplomasi sepak bola yang sesungguhnya.
+> **Catatan Penutup:** Di tengah dunia yang kerap terbelah oleh kepentingan politik, lapangan hijau menjadi ruang tempat 48 negara tetap sepakat mematuhi aturan main yang sama. Dari situ diplomasi sepak bola mendapatkan kekuatannya.

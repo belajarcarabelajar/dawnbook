@@ -1,12 +1,12 @@
 ## Pasar Persaingan Sempurna
 
-Bayangkan kamu berada di sebuah pasar tradisional yang sangat luas di mana terdapat ribuan petani yang menjual beras dengan jenis dan kualitas yang persis sama. Jika kamu bertanya harga kepada satu petani dan dia menawarkan harga yang lebih mahal dari harga pasar, kamu cukup bergeser satu langkah ke penjual di sebelahnya untuk mendapatkan harga yang lebih murah. Di sisi lain, jika petani tersebut menurunkan harganya, dia hanya akan merugi karena dia bisa menjual seluruh stoknya pada harga pasar yang berlaku.
+Bayangkan kamu berada di pasar tradisional yang sangat luas, tempat ribuan petani menjual beras dengan jenis dan kualitas yang persis sama. Jika kamu bertanya harga kepada satu petani dan dia menawarkan harga yang lebih mahal dari harga pasar, kamu cukup bergeser satu langkah ke penjual di sebelahnya untuk mendapatkan harga yang lebih murah. Di sisi lain, jika petani tersebut menurunkan harganya, dia hanya akan merugi karena dia bisa menjual seluruh stoknya pada harga pasar yang berlaku.
 
 Inilah inti dari **Pasar Persaingan Sempurna (Perfect Competition)**. Dalam ekonomi, ini dianggap sebagai struktur pasar yang paling ideal karena menjamin efisiensi maksimum, meskipun dalam dunia nyata, model ini lebih sering berfungsi sebagai tolok ukur (benchmark) daripada realitas yang mutlak.
 
 ## 1. Karakteristik Utama Pasar Persaingan Sempurna
 
-Untuk memahami mengapa pasar ini disebut "sempurna", kita harus melihat lima pilar utama yang membangun strukturnya:
+Untuk memahami mengapa pasar ini disebut "sempurna", kita harus melihat lima ciri utamanya:
 
 ### A. Banyak Penjual dan Banyak Pembeli
 
@@ -81,6 +81,6 @@ Perdagangan mata uang global mendekati persaingan sempurna.
 - **Visualisasi Kurva:** Bayangkan grafik dengan garis lurus horizontal setinggi harga pasar. Itulah "ruang gerak" kamu sebagai penjual. Kamu tidak bisa naik ke atas garis itu.
 - **Refleksi Diri:** *Amati saat kamu membeli pulsa atau kuota data di marketplace. Meskipun ada banyak penjual, harganya cenderung sangat mirip (berdekatan). Apakah ini mendekati persaingan sempurna? Mengapa atau mengapa tidak? (Petunjuk: Pertimbangkan faktor branding dan kepercayaan toko).*
 
-> **Kesimpulan:** Pasar Persaingan Sempurna adalah laboratorium ekonomi. Meskipun jarang ditemukan dalam bentuk murninya, memahami model ini membantu kita melihat bagaimana persaingan yang sehat dapat menekan harga dan menguntungkan masyarakat secara luas.
+> **Kesimpulan:** Pasar Persaingan Sempurna adalah model pembanding dalam ekonomi. Meskipun jarang ditemukan dalam bentuk murninya, memahami model ini membantu kita melihat bagaimana persaingan yang sehat dapat menekan harga dan menguntungkan masyarakat secara luas.
 
 *Pada bagian selanjutnya, kita akan membedah bagaimana mekanisme harga terbentuk secara spesifik melalui titik keseimbangan (equilibrium) dalam struktur pasar ini.*

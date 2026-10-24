@@ -1,12 +1,12 @@
 ## Memahami Sistem Saraf Fight or Flight
 
-Pernahkah kamu merasa jantung berdegup kencang, napas memburu, dan telapak tangan berkeringat saat harus berbicara di depan umum atau ketika hampir mengalami kecelakaan di jalan raya? Reaksi tersebut bukan cuma rasa gugup biasa, tetapi sebuah mekanisme biologis yang telah menjaga nenek moyang kita tetap selamat selama ribuan tahun.
+Pernahkah kamu merasa jantung berdegup kencang, napas memburu, dan telapak tangan berkeringat saat harus berbicara di depan umum? Atau ketika hampir mengalami kecelakaan di jalan raya? Reaksi tersebut bukan cuma rasa gugup biasa, tetapi sebuah mekanisme biologis yang telah menjaga nenek moyang kita tetap selamat selama ribuan tahun.
 
-Selamat datang di pusat kendali otomatis tubuh kamu: **Sistem Saraf Otonom**.
+Reaksi itu diatur oleh pusat kendali otomatis tubuh kamu: **Sistem Saraf Otonom**.
 
 ### 1. Sistem Saraf Otonom
 
-Bayangkan tubuh kamu seperti sebuah kendaraan canggih. Kamu tidak perlu memikirkan cara memompa darah atau mencerna makanan, karena semuanya berjalan secara otomatis di latar belakang. Inilah fungsi dari **Sistem Saraf Otonom (SSO)** (*Autonomic Nervous System*).
+Bayangkan tubuh kamu seperti sebuah kendaraan. Kamu tidak perlu memikirkan cara memompa darah atau mencerna makanan, karena semuanya berjalan secara otomatis di latar belakang. Inilah fungsi dari **Sistem Saraf Otonom (SSO)** (*Autonomic Nervous System*).
 
 SSO terbagi menjadi dua divisi utama yang bekerja saling melengkapi seperti pedal gas dan rem:
 
@@ -14,7 +14,7 @@ SSO terbagi menjadi dua divisi utama yang bekerja saling melengkapi seperti peda
 2. **Sistem Saraf Parasimpatik (*Parasympathetic Nervous System* - Rem):** Mengaktifkan respons *rest-and-digest* (istirahat dan cerna).
 
 > [!NOTE]
-> **Homeostasis:** Keseimbangan antara sistem simpatik dan parasimpatik disebut *homeostasis*. Saat stres melanda, keseimbangan ini bergeser secara drastis ke arah sistem simpatik.
+> **Homeostasis:** Keseimbangan antara sistem simpatik dan parasimpatik disebut *homeostasis*. Saat stres melanda, keseimbangan ini bergeser ke arah sistem simpatik.
 
 ### 2. Sistem Saraf Simpatik
 

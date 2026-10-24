@@ -1,10 +1,10 @@
 ## Keamanan Kernel melalui Namespaces dan Cgroups
 
-Selamat datang di jantung teknologi containerization modern. Jika kamu pernah bertanya-tanya bagaimana Docker atau Kubernetes dapat menjalankan ratusan aplikasi pada satu mesin tanpa saling mengganggu, jawabannya bukan karena sihir, melainkan berkat dua fitur fundamental dalam Kernel Linux: **Namespaces** dan **Control Groups (Cgroups)**.
+Inti teknologi containerization modern ada di dalam Kernel Linux. Jika kamu pernah bertanya-tanya bagaimana Docker atau Kubernetes dapat menjalankan ratusan aplikasi pada satu mesin tanpa saling mengganggu, jawabannya ada pada dua fitur fundamental dalam Kernel Linux: **Namespaces** dan **Control Groups (Cgroups)**.
 
 Dalam arsitektur kernel, keamanan bukan hanya soal enkripsi atau password, tetapi juga tentang **isolasi** dan **pembatasan**. Mari kita bedah bagaimana kernel membangun dinding virtual serta mengatur alokasi resource untuk menciptakan lingkungan yang aman dan efisien.
 
-## 1. Si Dinding dan Si Akuntan
+## 1. Peran Namespaces dan Cgroups
 
 Untuk memahami perbedaan peran keduanya, bayangkan sebuah gedung apartemen:
 
@@ -107,7 +107,7 @@ Sekarang, apa pun yang kamu jalankan di shell tersebut tidak akan bisa menggunak
 
 ## 5. Bagaimana Docker Menggunakannya?
 
-Teknologi container seperti Docker sebenarnya merupakan wrapper yang elegan di atas Namespaces dan Cgroups.
+Teknologi container seperti Docker sebenarnya merupakan wrapper di atas Namespaces dan Cgroups.
 
 Skenario: Kamu menjalankan sebuah aplikasi microservice berbasis Node.js.
 

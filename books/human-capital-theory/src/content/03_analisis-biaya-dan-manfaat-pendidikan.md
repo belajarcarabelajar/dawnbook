@@ -1,6 +1,6 @@
-# Analisis Biaya dan Manfaat Pendidikan
+## Analisis Biaya dan Manfaat Pendidikan
 
-Pernahkah kamu bertanya-tanya mengapa seseorang rela menghabiskan waktu empat tahun di universitas dan membayar biaya kuliah yang mahal, sementara mereka bisa saja langsung bekerja setelah lulus SMA dan menghasilkan uang?
+Pernahkah kamu bertanya-tanya mengapa seseorang rela menghabiskan waktu empat tahun di universitas dan membayar biaya kuliah yang mahal? Ia bisa saja langsung bekerja setelah lulus SMA dan menghasilkan uang.
 
 Dalam **Teori Modal Manusia** (*Human Capital Theory*), keputusan ini bukan sekadar mengejar gelar atau prestise sosial. Pendidikan dipandang sebagai sebuah **investasi**, persis seperti perusahaan yang membeli mesin baru untuk meningkatkan kapasitas produksi. Keputusan untuk melanjutkan pendidikan merupakan hasil kalkulasi rasional antara pengorbanan hari ini dengan potensi imbalan di masa depan.
 
@@ -33,7 +33,7 @@ Biaya langsung mencakup seluruh pengeluaran riil yang keluar dari dompetmu:
 - **Bahan Ajar:** Buku teks, perangkat lunak khusus, dan peralatan laboratorium.
 - **Biaya Administrasi:** Pendaftaran, ujian, dan ijazah.
 
-#### Biaya Peluang (*Opportunity Costs*) sebagai "Si Pencuri Tak Terlihat"
+#### Biaya Peluang (*Opportunity Costs*)
 
 Biaya peluang merupakan komponen yang paling sering diabaikan, padahal nilainya kerap menjadi **biaya terbesar** dalam keputusan pendidikan. **Biaya peluang** (*opportunity cost*) adalah potensi pendapatan yang *seharusnya* kamu terima jika kamu memilih untuk bekerja penuh waktu daripada bersekolah.
 
@@ -126,7 +126,7 @@ Beberapa variabel utama menentukan besarnya tingkat pengembalian (*rate of retur
 
 Fenomena **Brain Drain** (perpindahan tenaga ahli ke luar negeri) dapat dijelaskan melalui analisis biaya-manfaat. Ketika individu telah mengeluarkan investasi besar untuk membangun modal manusia, mereka cenderung mencari pasar kerja yang menawarkan pengembalian tertinggi.
 
-Meskipun biaya migrasi awal cukup tinggi, perbedaan manfaat moneter ($\text{B}\_t$) yang melimpah di negara maju membuat kalkulasi $\text{NPV}$ tetap bernilai positif. Akibatnya, tenaga profesional seperti dokter dan insinyur terdorong untuk bermigrasi ke negara dengan standar kompensasi yang lebih tinggi.
+Meskipun biaya migrasi awal cukup tinggi, perbedaan manfaat moneter ($\text{B}\_t$) yang besar di negara maju membuat kalkulasi $\text{NPV}$ tetap bernilai positif. Akibatnya, tenaga profesional seperti dokter dan insinyur terdorong untuk bermigrasi ke negara dengan standar kompensasi yang lebih tinggi.
 
 ---
 

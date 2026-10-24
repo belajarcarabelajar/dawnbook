@@ -1,6 +1,6 @@
 ## Panduan Praktis Etika Kebajikan
 
-Setelah mempelajari teori-teori besar mulai dari Aristoteles hingga kebijakan praktis (*Phronesis*), pertanyaan besar yang tersisa adalah: **"Bagaimana cara saya menerapkan semua ini saat bangun tidur besok pagi?"**
+Setelah mempelajari teori-teori besar mulai dari Aristoteles hingga kebijakan praktis (*Phronesis*), satu pertanyaan besar masih tersisa. **"Bagaimana cara saya menerapkan semua ini saat bangun tidur besok pagi?"**
 
 Etika kebajikan bukanlah sebuah buku resep yang memberikan instruksi kaku, melainkan sebuah seni hidup. Jika etika modern sering bertanya, "Apa yang harus saya lakukan dalam situasi ini?", etika kebajikan bertanya, **"Pribadi seperti apa yang ingin saya bentuk melalui tindakan ini?"**
 
@@ -10,7 +10,7 @@ Berikut adalah panduan praktis untuk mengubah konsep-konsep filosofis tersebut m
 
 Sebelum mendaki gunung, kamu harus tahu di mana posisi kamu sekarang. Dalam etika kebajikan, ini disebut dengan evaluasi diri terhadap **Doktrin Jalan Tengah**.
 
-**Analogi:** Bayangkan karakter kamu seperti sebuah instrumen musik yang senarnya mungkin terlalu kendor (kekurangan/defisiensi) or terlalu kencang (kelebihan/ekses). Kamu perlu menyetemnya agar menghasilkan nada yang harmonis.
+**Analogi:** Bayangkan karakter kamu seperti sebuah instrumen musik yang senarnya mungkin terlalu kendor (kekurangan/defisiensi) atau terlalu kencang (kelebihan/ekses). Kamu perlu menyetemnya agar menghasilkan nada yang harmonis.
 
 - **Latihan:** Pilih satu kebajikan (misalnya: Keberanian).
 - **Identifikasi Ekstrem:**
@@ -36,7 +36,7 @@ Di mana $n$ adalah jumlah pengulangan dalam waktu $t$. Semakin besar $n$, semaki
 2. **Cari Pemicu (Cue):** Saat kamu merasa kesal karena antrean panjang atau internet lambat, lihat itu sebagai "Gym Mental".
 3. **Lakukan Tindakan Kecil:** Alih-alih mengeluh, ambil napas dalam dan berikan senyum kepada petugas. Ini adalah satu unit $\text{Tindakan}$ yang menambah skor $\text{Karakter}$ kamu.
 
-### 3. Menggunakan Kompas Phronesis dalam Pengambilan Keputusan
+### 3. Phronesis di Situasi yang Rumit
 
 Dalam situasi yang rumit, aturan seringkali gagal. Di sinilah **Kebijaksanaan Praktis (Phronesis)** berperan sebagai sistem navigasi kamu.
 
@@ -68,9 +68,9 @@ Bagaimana etika kebajikan menjawab tantangan modern seperti media sosial?
 | **Berbagi Pencapaian** | Rendah diri yang palsu | **Kejujuran/Autentisitas** | Pamer/Sombong |
 | **Konsumsi Berita** | Naif (percaya semua hal) | **Kekritisan Intelektual** | Sinisme (tidak percaya apa pun) |
 
-### 5. Membangun Komunitas Kebajikan (Ecosystem of Excellence)
+### 5. Membangun Komunitas Kebajikan
 
-Kamu tidak bisa menjadi bajik sendirian di ruang hampa. Karakter kita sangat dipengaruhi oleh siapa yang kita ajak berinteraksi.
+Kamu tidak bisa menjadi bajik sendirian di ruang hampa. Karakter kita dipengaruhi oleh siapa yang kita ajak berinteraksi.
 
 - **Cari Role Model:** Siapa orang dalam hidup kamu yang memanifestasikan kebajikan yang ingin kamu miliki? Pelajari cara mereka bereaksi terhadap tekanan.
 - **Kontribusi Sosial:** Gunakan kebajikan kamu untuk melayani orang lain. *Eudaimonia* (kebahagiaan sejati) seringkali ditemukan saat kita melampaui kepentingan diri sendiri dan berkontribusi pada kesejahteraan *Polis* (komunitas) kita.

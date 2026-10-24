@@ -2,7 +2,7 @@
 
 ## Mekanisme Pembentukan Jalur Saraf
 
-Pernahkah kamu membayangkan otak kamu sebagai sebuah kota yang sangat sibuk namun belum memiliki peta jalan yang tetap? Setiap kali kamu mempelajari kata baru dalam bahasa asing atau mencoba teknik melakukan *dribble* bola basket, kota tersebut mulai membangun jalan setapak baru. Jika kamu terus melakukannya, jalan setapak itu berubah menjadi jalan raya yang lebar dan cepat.
+Pernahkah kamu membayangkan otak kamu sebagai sebuah kota yang sibuk namun belum memiliki peta jalan yang tetap? Setiap kali kamu mempelajari kata baru dalam bahasa asing atau mencoba teknik melakukan *dribble* bola basket, kota tersebut mulai membangun jalan setapak baru. Jika kamu terus melakukannya, jalan setapak itu berubah menjadi jalan raya yang lebar dan cepat.
 
 Mekanisme ini bukan sekadar kiasan; ini adalah proses biologis nyata yang disebut **neuroplastisitas struktural**. Mari kita bedah bagaimana otak kita secara fisik berubah bentuk saat kita belajar.
 
@@ -10,24 +10,24 @@ Mekanisme ini bukan sekadar kiasan; ini adalah proses biologis nyata yang disebu
 
 Inti dari pembentukan jalur saraf adalah **sinaptogenesis**, yaitu proses penciptaan sinapsis (titik temu) baru antara neuron. Bayangkan neuron sebagai kabel listrik yang ingin terhubung satu sama lain untuk mengirimkan pesan.
 
-Proses ini terjadi dalam beberapa tahap yang menakjubkan:
+Proses ini terjadi dalam beberapa tahap:
 
 1. **Pertumbuhan Akson (Axonal Sprouting):** Saat kamu menerima informasi baru, ujung neuron yang disebut akson mulai menumbuhkan "cabang-cabang" baru.
-2. **Pencarian Target:** Cabang-cabang ini memiliki ujung yang sangat sensitif yang disebut *growth cones*. Mereka bertindak seperti radar, mencari neuron tetangga yang relevan dengan informasi tersebut.
+2. **Pencarian Target:** Cabang-cabang ini memiliki ujung yang sensitif yang disebut *growth cones*. Mereka bertindak seperti radar, mencari neuron tetangga yang relevan dengan informasi tersebut.
 3. **Pembentukan Koneksi:** Begitu ujung akson menemukan dendrit (penerima) dari neuron lain, mereka melakukan "jabat tangan" kimiawi. Struktur protein mulai terbentuk untuk mengunci koneksi ini.
 
-> **Insight Memorable:** Otak kita tidak lahir dengan kabel yang sudah terpasang mati. Kita adalah arsitek dari sirkuit kita sendiri melalui setiap pengalaman yang kita pilih untuk ditekuni.
+> **Insight Memorable:** Otak kita tidak lahir dengan kabel yang sudah terpasang mati. Sirkuit kita terbentuk melalui setiap pengalaman yang kita pilih untuk ditekuni.
 
-### 2\. Myelinasi sebagai Jalan Tol Informasi
+### 2\. Myelinasi Mempercepat Sinyal Saraf
 
-Setelah koneksi atau jalur saraf terbentuk, jalur tersebut awalnya masih sangat lambat dan rapuh. Di sinilah peran **Myelin** masuk.
+Setelah koneksi atau jalur saraf terbentuk, jalur tersebut awalnya masih lambat dan rapuh. Di sinilah peran **Myelin** masuk.
 
 Myelin adalah lapisan lemak yang membungkus akson, berfungsi mirip dengan isolator pada kabel listrik. Proses pembungkusannya disebut **Myelinasi**.
 
 - **Jalur Tanpa Myelin:** Pesan bergerak seperti orang yang berjalan kaki di atas tanah berlumpur. Lambat dan melelahkan.
 - **Jalur Dengan Myelin:** Pesan bergerak seperti mobil balap di jalan tol yang mulus. Myelin memungkinkan sinyal elektrik meloncat dengan kecepatan tinggi melalui celah yang disebut *Nodes of Ranvier*.
 
-**Analogi Kehidupan Nyata:** Bayangkan kamu sedang belajar bermain gitar. Awalnya, jari kamu terasa kaku dan lambat (jalur saraf belum bermyelin). Setelah berlatih berminggu-minggu, jari kamu bergerak secara otomatis dengan sangat cepat. Itu adalah hasil dari lapisan myelin yang semakin menebal pada jalur saraf khusus "bermain gitar" kamu.
+**Analogi Kehidupan Nyata:** Bayangkan kamu sedang belajar bermain gitar. Awalnya, jari kamu terasa kaku dan lambat (jalur saraf belum bermyelin). Setelah berlatih berminggu-minggu, jari kamu bergerak secara otomatis dengan cepat. Itu adalah hasil dari lapisan myelin yang semakin menebal pada jalur saraf khusus "bermain gitar" kamu.
 
 ### 3\. Synaptic Pruning
 
@@ -44,7 +44,7 @@ Otak memiliki prinsip ekonomi yang ketat: *"Gunakan atau Hilangkan"* (*Use it or
 
 Ketika kita mempelajari keterampilan baru secara intensif, otak melakukan **reorganisasi kortikal**. Area di otak yang bertanggung jawab atas keterampilan tersebut benar-benar bisa "memperluas wilayahnya" dengan mengambil alih area di sekitarnya yang kurang aktif.
 
-**Contoh Kasus:** Pada pemain instrumen musik gesek (seperti biola), area di korteks motorik yang mengontrol jari-jari tangan kiri (yang menekan senar) terbukti lebih luas dan lebih kompleks dibandingkan dengan orang yang tidak bermain musik. Otak secara fisik menjajah ruang lebih banyak untuk mendukung kebutuhan aktivitas tersebut.
+**Contoh Kasus:** Pada pemain instrumen musik gesek (seperti biola), area di korteks motorik yang mengontrol jari-jari tangan kiri (yang menekan senar) terbukti lebih luas dan lebih kompleks dibandingkan dengan orang yang tidak bermain musik. Otak secara fisik memakai ruang lebih banyak untuk mendukung kebutuhan aktivitas tersebut.
 
 ### Kapan Sebuah Jalur Saraf Bertahan?
 
@@ -58,6 +58,6 @@ Memahami biologi ini memberi kita strategi nyata untuk belajar lebih efektif:
 - **Repetisi Berjarak (Spaced Repetition):** Pengulangan berkala memberikan sinyal kepada otak bahwa jalur ini "penting", sehingga memicu proses Myelinasi yang lebih tebal.
 - **Tidur yang Cukup:** Proses fisik pembentukan protein sinapsis dan pembersihan jalur saraf yang tidak perlu (pruning) terjadi secara maksimal saat kita tidur nyenyak.
 
-**Pesan Utama:** Otak kamu adalah organ yang sangat plastis. Setiap kali kamu menantang diri sendiri untuk mempelajari sesuatu yang sulit, kamu sedang memerintahkan neuron kamu untuk melakukan "jabat tangan" baru dan membangun jalan tol informasi yang akan bertahan seumur hidup.
+**Pesan Utama:** Otak kamu adalah organ yang plastis. Setiap kali kamu menantang diri sendiri untuk mempelajari sesuatu yang sulit, kamu sedang mendorong neuron kamu untuk melakukan "jabat tangan" baru dan membangun jalan tol informasi.
 
 *Mari kita renungkan: Keterampilan apa yang ingin kamu bangun "jalan tol"-nya di dalam otak kamu mulai hari ini?*

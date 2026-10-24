@@ -1,8 +1,8 @@
-# Pengantar Teori Modal Manusia
+## Pengantar Teori Modal Manusia
 
-Pernahkah kamu bertanya-tanya mengapa seorang dokter spesialis mendapatkan pendapatan jauh lebih tinggi dibanding seorang pekerja administrasi dasar? Atau mengapa berbagai negara maju berlomba-lomba mengalokasikan porsi anggaran besar untuk sektor pendidikan dan kesehatan? Jawabannya terletak pada satu konsep fundamental ekonomi: **Human Capital** (Modal Manusia).
+Pernahkah kamu bertanya-tanya mengapa seorang dokter spesialis mendapatkan pendapatan jauh lebih tinggi dibanding seorang pekerja administrasi dasar? Atau mengapa berbagai negara maju berlomba-lomba mengalokasikan porsi anggaran besar untuk sektor pendidikan dan kesehatan? Jawabannya terletak pada satu konsep ekonomi: **Human Capital** (Modal Manusia).
 
-Dalam bab ini, kita akan mempelajari pemahaman dasar mengenai bagaimana kualitas diri manusia, seperti pengetahuan, keahlian, dan kesehatan, bertransformasi dari sekadar komponen biaya menjadi aset produktif yang paling berharga dalam perekonomian modern.
+Dalam bab ini, kita akan mempelajari pemahaman dasar mengenai bagaimana kualitas diri manusia, seperti pengetahuan, keahlian, dan kesehatan, bertransformasi dari sekadar komponen biaya menjadi aset produktif dalam perekonomian modern.
 
 ## Apa Itu Human Capital?
 
@@ -12,7 +12,7 @@ Secara konvensional, istilah "modal" atau "kapital" identik dengan cadangan aset
 > **Human Capital** adalah akumulasi pengetahuan, keahlian, bakat, kondisi kesehatan, dan kapabilitas yang melekat pada diri individu, yang memungkinkan mereka meningkatkan efisiensi dan menghasilkan nilai ekonomi.
 
 > **Analogi Perangkat Keras dan Perangkat Lunak**  
-> Bayangkan sebuah perusahaan seperti sistem komputer. Gedung, mesin, dan instrumen fisik adalah *hardware* (perangkat keras). Namun, tanpa *software* (perangkat lunak) yang andal, sistem tersebut tidak dapat menjalankan tugas kompleks. Human Capital berfungsi sebagai *software*, yaitu sistem operasi dan aplikasi cerdas yang menentukan efisiensi kinerja *hardware* tersebut.
+> Bayangkan sebuah perusahaan seperti sistem komputer. Gedung, mesin, dan instrumen fisik adalah *hardware* (perangkat keras). Namun, tanpa *software* (perangkat lunak) yang andal, sistem tersebut tidak dapat menjalankan tugas kompleks. Human Capital berfungsi sebagai *software*, yaitu sistem operasi dan aplikasi yang menentukan efisiensi kinerja *hardware* tersebut.
 
 ### Komponen Utama Human Capital
 
@@ -37,7 +37,7 @@ Schultz menegaskan bahwa **pendidikan adalah bentuk investasi produktif**. Dalam
 
 ### 2. Analisis Mikroekonomi Gary Becker atas Perilaku Individu
 
-Jika Schultz memberikan dasar makroekonomi, **Gary Becker** meletakkan fondasi mikroekonomi dalam karyanya yang monumental, *Human Capital* (1964). Becker menganalisis keputusan individu dalam mengalokasikan waktu dan biaya untuk pendidikan menggunakan kerangka optimasi rasional.
+Jika Schultz memberikan dasar makroekonomi, **Gary Becker** meletakkan fondasi mikroekonomi dalam karyanya, *Human Capital* (1964). Becker menganalisis keputusan individu dalam mengalokasikan waktu dan biaya untuk pendidikan menggunakan kerangka optimasi rasional.
 
 Dalam pandangan Becker, keputusan individu untuk menempuh pendidikan tinggi atau mengikuti kursus profesional beroperasi serupa dengan keputusan perusahaan membeli peralatan baru, yaitu melalui perbandingan rasional antara biaya investasi dan imbal hasil (*return*).
 
@@ -84,11 +84,11 @@ Jika nilai $\text{NPV} > 0$, keputusan menunda pendapatan saat ini demi mengakum
 
 ### Implikasi pada Skala Perusahaan
 
-Perusahaan teknologi terkemuka mengalokasikan anggaran besar untuk penyediaan pelatihan berkelanjutan, program sertifikasi, serta jaminan kesehatan menyeluruh. Langkah ini diambil bukan sebagai bentuk kepedulian sosial belaka, melainkan karena manajemen menyadari bahwa ketajaman pemikiran dan produktivitas tenaga kerja merupakan aset utama pembentuk nilai perusahaan.
+Perusahaan teknologi terkemuka mengalokasikan anggaran besar untuk penyediaan pelatihan berkelanjutan, program sertifikasi, serta jaminan kesehatan menyeluruh. Langkah ini diambil bukan sebagai bentuk kepedulian sosial belaka, melainkan karena manajemen menyadari bahwa kemampuan berpikir dan produktivitas tenaga kerja merupakan aset utama pembentuk nilai perusahaan.
 
 ## Ringkasan Bab
 
-Setiap individu pada hakikatnya bertindak sebagai pengelola atas modal manusianya sendiri. Setiap waktu yang kamu investasikan untuk mempelajari keterampilan baru, serta setiap upaya menjaga kesehatan fisik dan mental, merupakan tindakan akumulasi modal yang menentukan kapasitas ekonomimu di masa depan.
+Setiap individu bertindak sebagai pengelola atas modal manusianya sendiri. Setiap waktu yang kamu investasikan untuk mempelajari keterampilan baru, serta setiap upaya menjaga kesehatan fisik dan mental, merupakan tindakan akumulasi modal yang menentukan kapasitas ekonomimu di masa depan.
 
 Jika kamu menganalogikan dirimu sebagai sebuah entitas usaha, berapa besar porsi investasi yang telah kamu alokasikan untuk meningkatkan kualitas aset utamamu (dirimu sendiri) sepanjang tahun ini?
 

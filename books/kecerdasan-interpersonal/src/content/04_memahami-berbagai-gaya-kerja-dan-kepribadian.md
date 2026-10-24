@@ -1,12 +1,12 @@
 ## Memahami Berbagai Gaya Kerja dan Kepribadian
 
-Pernahkah kamu merasa begitu mudah berbicara dengan rekan setim dari divisi desain, tetapi mendadak merasa seperti menggunakan bahasa asing ketika berdiskusi dengan tim finance? Atau mungkin kamu merasa frustrasi saat atasan hanya ingin melihat angka-angka mentah, sementara kamu ingin menjabarkan visi kreatif di balik proyek tersebut?
+Pernahkah kamu merasa mudah berbicara dengan rekan setim divisi desain, tetapi mendadak seperti memakai bahasa asing saat berdiskusi dengan tim finance? Atau mungkin kamu merasa frustrasi saat atasan hanya ingin melihat angka-angka mentah, sementara kamu ingin menjabarkan visi kreatif di balik proyek tersebut?
 
-Perbedaan ini tidak menunjukkan bahwa salah satu pihak kurang kompeten. Hal tersebut murni karena perbedaan **gaya kerja dan kepribadian**. Di dalam profil *T-Shaped Professional*, kemampuan teknis spesifik kamu merupakan garis vertikal, sementara keluwesan beradaptasi dengan beragam kepribadian adalah jembatan horizontal yang menghubungkan kolaborasi.
+Perbedaan ini tidak menunjukkan bahwa salah satu pihak kurang kompeten. Hal tersebut murni karena perbedaan **gaya kerja dan kepribadian**. Di dalam profil *T-Shaped Professional*, kemampuan teknis spesifik kamu merupakan garis vertikal, sementara keluwesan beradaptasi dengan beragam kepribadian adalah garis horizontal yang memungkinkan kolaborasi.
 
 ## Mengapa Kita Perlu Memahami Gaya Kerja?
 
-Bayangkan sebuah tim layaknya sebuah orkestra. Jika seluruh pemusik memukul drum sekeras-kerasnya, hasilnya bukanlah simfoni yang indah, melainkan kebisingan yang mengganggu. Sebaliknya, bila pemain biola tidak memahami kapan pemain perkusi akan masuk, ritme lagu akan berantakan.
+Bayangkan sebuah tim layaknya sebuah orkestra. Jika seluruh pemusik memukul drum sekeras-kerasnya, hasilnya bukan musik, melainkan kebisingan yang mengganggu. Sebaliknya, bila pemain biola tidak memahami kapan pemain perkusi akan masuk, ritme lagu akan berantakan.
 
 Memahami gaya kerja mempermudah kolaborasi dalam beberapa aspek:
 
@@ -18,7 +18,7 @@ Menerapkan satu cara komunikasi yang seragam ke semua orang justru bisa menjadi 
 
 ## Model Kepribadian DISC di Lingkungan Kerja
 
-Salah satu model yang sangat praktis untuk memetakan dinamika tim adalah **DISC**. Kerangka ini membagi kepribadian berdasarkan dua sumbu utama: hubungan kerja (**Tugas vs. Orang** / *Task vs. People*) dan tempo kerja (**Cepat/Aktif vs. Lambat/Reflektif** / *Active vs. Reflective*).
+Salah satu model yang praktis untuk memetakan dinamika tim adalah **DISC**. Kerangka ini membagi kepribadian berdasarkan dua sumbu utama: hubungan kerja (**Tugas vs. Orang** / *Task vs. People*) dan tempo kerja (**Cepat/Aktif vs. Lambat/Reflektif** / *Active vs. Reflective*).
 
 ### 1. Dominance (Si Pelaksana Cepat)
 
@@ -52,7 +52,7 @@ Salah satu model yang sangat praktis untuk memetakan dinamika tim adalah **DISC*
   - Jaga agar nada komunikasi tetap profesional dan terstruktur.
   - Fokus pada aspek "Mengapa" (mengapa tren data tersebut bisa terjadi atau mengapa metode tersebut yang akhirnya dipilih).
 
-## Formula Sinergi Interpersonal
+## Gaya Komunikasi dan Kualitas Konten
 
 Dalam dunia kerja profesional, kita dapat mengilustrasikan efektivitas kolaborasi $E$ sebagai fungsi dari keselarasan gaya komunikasi $A$ terhadap kualitas konten teknis $C$:
 
@@ -110,8 +110,8 @@ Mari kita lihat skenario berikut saat sebuah tim lintas fungsi (teknologi, desai
 **Cara Menjembatani:** Sebagai fasilitator diskusi yang tanggap, kamu dapat menyatukan berbagai sudut pandang tersebut dengan berkata:
 "Saya sangat memahami urgensi peluncuran dari tim Sales. Agar konsep kreatif dari tim Design bisa berjalan dengan lancar tanpa terhambat kendala performa sistem yang dikhawatirkan tim Engineer, kita dapat merilis versi MVP (*Minimum Viable Product*) terlebih dahulu minggu depan. Kita luncurkan fitur utama dulu, sementara tim Engineer memantau stabilitas sistem secara bertahap."
 
-## Menjadi Jembatan di Tengah Perbedaan
+## Menyesuaikan Diri dengan Gaya Rekan Kerja
 
-Memahami gaya kerja dan kepribadian rekan kerja merupakan bentuk nyata dari **empati intelektual**. Kamu menyadari bahwa setiap orang memiliki cara berpikir dan "sistem operasi" yang berbeda di kepala mereka. Dengan mengenali dan menyesuaikan diri dengan karakter komunikasi mereka, kamu tidak hanya tumbuh menjadi profesional yang andal secara teknis, tetapi juga menjadi perekat yang memperkuat soliditas tim.
+Memahami gaya kerja dan kepribadian rekan kerja merupakan bentuk nyata dari **empati intelektual**. Kamu menyadari bahwa setiap orang memiliki cara berpikir dan "sistem operasi" yang berbeda di kepala mereka. Dengan mengenali dan menyesuaikan diri dengan karakter komunikasi mereka, kamu tidak hanya tumbuh menjadi profesional yang andal secara teknis, tetapi juga memperkuat kekompakan tim.
 
 Langkah pertama yang dapat kamu coba mulai esok hari adalah memetakan satu orang rekan kerja yang paling menantang untuk diajak berkomunikasi. Dengan menebak kecenderungan tipe DISC mereka, kamu bisa merencanakan satu perubahan kecil pada caramu berbicara agar pesanmu dapat diterima dengan lebih efektif.

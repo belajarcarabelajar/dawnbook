@@ -1,8 +1,8 @@
 ## Perbandingan Laissez-faire vs Intervensionisme
 
-Selamat datang di medan pertempuran ideologi ekonomi terbesar dalam sejarah modern. Di satu sisi, kita memiliki **Laissez-faire**, yang percaya bahwa ekonomi bekerja paling baik jika dibiarkan sendiri. Di sisi lain, kita memiliki **Intervensionisme** (termasuk Keynesianisme), yang berpendapat bahwa tangan pemerintah diperlukan untuk menjaga agar mesin ekonomi tidak meledak atau mogok.
+Saat ekonomi melemah, sebagian ekonom memilih membiarkan pasar pulih sendiri, sementara yang lain meminta pemerintah turun tangan. Di satu sisi, kita memiliki **Laissez-faire**, yang percaya bahwa ekonomi bekerja paling baik jika dibiarkan sendiri. Di sisi lain, kita memiliki **Intervensionisme** (termasuk Keynesianisme), yang berpendapat bahwa tangan pemerintah diperlukan untuk menjaga agar mesin ekonomi tidak meledak atau mogok.
 
-Mari kita bedah perbedaan mendalam antara membiarkan pasar bebas bekerja secara alami dengan upaya sadar untuk mengarahkannya.
+Mari kita bedah perbedaan antara membiarkan pasar bebas bekerja secara alami dengan upaya sadar untuk mengarahkannya.
 
 ## 1. Hutan Belantara vs. Taman Kota
 
@@ -108,6 +108,6 @@ Selama pandemi global 2020-2022, perdebatan ini muncul ke permukaan secara nyata
 
 *Refleksi: Menurut kamu, apakah efisiensi lebih penting daripada kesetaraan, atau mungkinkah kita mencapai keduanya sekaligus?*
 
-## Kesimpulan
+## Bukan Soal Siapa yang Benar
 
 Perbandingan antara Laissez-faire dan Intervensionisme bukanlah tentang mencari siapa yang benar dan siapa yang salah, melainkan tentang menemukan **titik keseimbangan**. Laissez-faire memberikan mesin pertumbuhan yang kuat, sementara Intervensionisme menyediakan rem dan sabuk pengaman yang diperlukan untuk perjalanan yang aman bagi seluruh anggota masyarakat.

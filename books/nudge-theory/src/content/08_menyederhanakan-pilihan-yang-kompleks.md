@@ -70,7 +70,7 @@ Di Amerika Serikat, banyak karyawan bingung memilih dari 50+ pilihan investasi u
 
 ### B. E-commerce (Amazon/Netflix)
 
-Sistem rekomendasi adalah salah satu wujud penyederhanaan pilihan yang sangat efektif. Alih-alih membiarkanmu bingung mencari di antara jutaan item, algoritma akan menyodorkan saran: *"Karena kamu menonton X, kamu mungkin menyukai Y."* Hal ini mengubah proses pencarian yang melelahkan menjadi proses pengenalan yang jauh lebih mudah.
+Sistem rekomendasi adalah salah satu wujud penyederhanaan pilihan yang efektif. Alih-alih membiarkanmu bingung mencari di antara jutaan item, algoritma akan menyodorkan saran: *"Karena kamu menonton X, kamu mungkin menyukai Y."* Hal ini mengubah proses pencarian yang melelahkan menjadi proses pengenalan yang jauh lebih mudah.
 
 ### C. Menu Restoran
 

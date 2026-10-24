@@ -2,7 +2,7 @@
 
 Bayangkan kamu sedang bermain catur. Sebelum kamu menggerakkan bidak, kamu tidak hanya memikirkan posisi saat ini, tetapi kamu mencoba membayangkan: *"Jika saya melangkah ke A, lawan akan melangkah ke B. Jika lawan melangkah ke B, saya akan membalas dengan C."*
 
-Inilah inti dari **Permainan Sekuensial**. Berbeda dengan permainan simultan (seperti Batu-Gunting-Kertas) di mana semua orang bergerak bersamaan, dalam permainan sekuensial, urutan waktu dan informasi adalah segalanya.
+Inilah inti dari **Permainan Sekuensial**. Berbeda dengan permainan simultan (seperti Batu-Gunting-Kertas) di mana semua orang bergerak bersamaan, dalam permainan sekuensial, urutan waktu dan informasi memegang peran utama.
 
 ## 1. Apa Itu Permainan Sekuensial?
 
@@ -23,9 +23,9 @@ Sebelum kita melakukan analisis, kita harus memahami struktur "peta" permainan i
 3. **Simpul Terminal (Terminal Nodes):** Titik akhir permainan di mana hasil ditentukan.
 4. **Hasil (Payoffs):** Angka yang menunjukkan keuntungan/kerugian bagi setiap pemain di akhir jalur tertentu.
 
-## 3. Induksi Mundur (Backward Induction) sebagai Logika Detektif
+## 3. Induksi Mundur (Backward Induction)
 
-Teknik paling ampuh untuk memecahkan permainan sekuensial adalah **Induksi Mundur (Backward Induction)**.
+Teknik utama untuk memecahkan permainan sekuensial adalah **Induksi Mundur (Backward Induction)**.
 
 > **Insight:** Induksi mundur adalah proses menganalisis permainan dari akhir (langkah terakhir) kembali ke awal untuk menentukan urutan langkah yang optimal.
 
@@ -89,7 +89,7 @@ Hasil yang kita temukan melalui induksi mundur disebut **Subgame Perfect Nash Eq
 
 Namun, melalui induksi mundur, Pendatang (P) tahu bahwa ancaman itu tidak rasional. Saat benar-benar dihadapkan pada pilihan di akhir, Petahana akan lebih memilih untung $5$ daripada rugi $-1$. Induksi mundur membantu kita menyaring strategi yang hanya berupa gertakan.
 
-## 6. Aplikasi Dunia Nyata dan Kasus Praktis
+## 6. Induksi Mundur di Negosiasi, Catur, dan Militer
 
 1. **Negosiasi Gaji:** Calon karyawan memberikan angka pertama (jangkar), perusahaan merespons. Calon karyawan harus memikirkan: *"Jika saya meminta X, apakah mereka akan menolak atau memberikan penawaran kontra Y?"*
 2. **Catur dan Board Games:** Mesin catur seperti Stockfish menggunakan evaluasi jutaan posisi ke depan dan melakukan induksi mundur untuk menemukan langkah terbaik saat ini. Dalam dunia AI, bentuk induksi mundur ini dikenal sebagai algoritma **Minimax**, yang juga dipakai untuk permainan seperti Tic-Tac-Toe.
@@ -97,10 +97,10 @@ Namun, melalui induksi mundur, Pendatang (P) tahu bahwa ancaman itu tidak rasion
 
 ## 7. Tantangan dan Batasan
 
-Meskipun secara teori sangat kuat, induksi mundur memiliki kelemahan dalam praktik:
+Meskipun kuat secara teori, induksi mundur memiliki kelemahan dalam praktik:
 
 - **Rasionalitas Terbatas (Bounded Rationality):** Manusia tidak selalu rasional secara sempurna. Kadang orang melakukan tindakan balas dendam meskipun itu merugikan diri mereka sendiri (menghancurkan asumsi SPNE).
-- **Kompleksitas Komputasi:** Dalam permainan seperti Catur atau Go, jumlah kemungkinan langkah sangat besar sehingga tidak mungkin melakukan induksi mundur hingga ke akhir yang absolut bagi otak manusia (dan bahkan komputer super).
+- **Kompleksitas Komputasi:** Dalam permainan seperti Catur atau Go, jumlah kemungkinan langkah sangat besar sehingga tidak mungkin melakukan induksi mundur hingga ke akhir permainan, baik oleh otak manusia maupun komputer super.
 - **Masalah Kepercayaan:** Jika ada ketidakpastian informasi, induksi mundur menjadi jauh lebih sulit dilakukan.
 
 ### Bahan Pertimbangan

@@ -2,7 +2,7 @@
 
 Pernahkah kamu merasa bahwa gaya kelekatan kamu (apakah itu cemas, menghindar, atau disorganisasi) adalah "vonis seumur hidup"? Kabar baiknya: **ilmu psikologi membuktikan bahwa masa lalu tidak harus mendikte masa depanmu.**
 
-Meskipun kita tidak bisa mengubah apa yang terjadi pada masa kecil, kita memiliki kekuatan penuh untuk mengubah cara meresponsnya di masa dewasa. Inilah yang disebut dengan **Earned Secure Attachment** atau Kelekatan Aman yang Diperoleh.
+Meskipun kita tidak bisa mengubah apa yang terjadi pada masa kecil, kita bisa mengubah cara meresponsnya di masa dewasa. Inilah yang disebut dengan **Earned Secure Attachment** atau Kelekatan Aman yang Diperoleh.
 
 ## Apa itu "Earned Security"?
 
@@ -14,7 +14,7 @@ Meskipun kita tidak bisa mengubah apa yang terjadi pada masa kecil, kita memilik
 
 Bayangkan sebuah keramik yang pecah. Seseorang dengan *Earned Security* mirip dengan **Kintsugi**, yaitu seni Jepang memperbaiki keramik pecah menggunakan emas cair. Alih-alih menyembunyikan retakannya, guratan emas tersebut justru membuat keramik lebih kuat dan indah. Retakan atau luka masa lalu itu tetap ada, tetapi tidak lagi mendefinisikan kerapuhan; ia justru menjadi simbol ketangguhan.
 
-## Narasi yang Koheren (Coherent Narrative) sebagai Kunci Utama
+## Narasi yang Koheren (Coherent Narrative)
 
 Penelitian oleh Mary Main menemukan bahwa faktor pembeda terbesar bagi orang dewasa untuk mencapai kelekatan aman bukan pada tingkat "kesempurnaan" masa kecil mereka, tetapi pada kemampuan menceritakan kisah hidup secara **koheren**.
 
@@ -70,7 +70,7 @@ Jika selama puluhan tahun jalur ketakutan akan penolakan sudah terbentuk seperti
 
 **Skenario:** Sari tumbuh dengan gaya kelekatan cemas karena ayahnya yang sering pergi tanpa kabar. Memasuki usia 20-an, ia kerap membombardir pasangannya dengan puluhan pesan singkat jika tidak segera dibalas.
 
-**Proses Earned Security:** Melalui terapi selama dua tahun, Sari mulai menyadari bahwa kecemasannya adalah gema dari masa lalu. Dia kemudian menjalin hubungan dengan Andi yang memiliki gaya kelekatan aman. Awalnya, ketenangan Andi sempat membuat Sari merasa bosan karena tidak adanya drama yang biasa dia alami. Namun, Sari memilih bertahan dan belajar bahwa hubungan yang sehat tidak harus terasa seperti roller coaster.
+**Proses Earned Security:** Melalui terapi selama dua tahun, Sari mulai menyadari bahwa kecemasannya berakar pada masa lalu. Dia kemudian menjalin hubungan dengan Andi yang memiliki gaya kelekatan aman. Awalnya, ketenangan Andi sempat membuat Sari merasa bosan karena tidak adanya drama yang biasa dia alami. Namun, Sari memilih bertahan dan belajar bahwa hubungan yang sehat tidak harus terasa seperti roller coaster.
 
 **Hasil:** Lima tahun kemudian, Sari tidak lagi panik jika pesannya tidak langsung dibalas. Dia telah berhasil mencapai *Earned Security*. Ingatan akan rasa cemas itu masih ada, tetapi sistem sarafnya tidak lagi bereaksi secara berlebihan.
 
@@ -82,11 +82,11 @@ Menjadi *Earned Secure* bukan berarti kamu harus menjadi orang sempurna yang ter
 * Berkomunikasi secara transparan mengenai kebutuhan emosional dan batasan diri.
 * Mampu memberikan dukungan tulus bagi orang lain tanpa mengorbankan jati diri sendiri.
 
-**Pesan untukmu:** Keamanan emosional bukanlah hadiah eksklusif yang hanya diberikan kepada orang-orang beruntung. Ini adalah keterampilan yang dapat dipelajari, diperjuangkan, dan akhirnya dimiliki. Masa lalu kamu adalah bab awal dari buku kehidupanmu, tetapi kamulah yang memegang pena untuk menulis bab-bab selanjutnya.
+**Pesan untukmu:** Keamanan emosional bukanlah sesuatu yang hanya dimiliki orang-orang beruntung. Ini adalah keterampilan yang dapat dipelajari, diperjuangkan, dan akhirnya dimiliki. Masa lalu membentuk titik awalmu, tetapi langkah selanjutnya ada di tanganmu.
 
 ## Keterampilan Sosial untuk Hubungan yang Bermakna
 
-Membangun relasi yang bermakna adalah seni sekaligus keterampilan sosial yang melibatkan kedalaman emosional, kejujuran, dan investasi waktu. Hubungan yang bermakna melampaui percakapan basa-basi (*small talk*) serta menyentuh aspek nilai, impian, dan dukungan timbal balik.
+Membangun relasi yang bermakna adalah seni sekaligus keterampilan sosial yang melibatkan kedalaman emosional, kejujuran, dan kesediaan meluangkan waktu. Hubungan yang bermakna melampaui percakapan basa-basi (*small talk*) serta menyentuh aspek nilai, impian, dan dukungan timbal balik.
 
 Berikut adalah beberapa pilar penting dalam membangun koneksi yang dalam:
 
@@ -94,8 +94,8 @@ Berikut adalah beberapa pilar penting dalam membangun koneksi yang dalam:
 
 1. **Mendengarkan Secara Aktif (Active Listening):** Hal ini melibatkan pemahaman emosi di balik kata-kata yang terucap, bukan hanya mendengarkan suara. Fokuslah sepenuhnya pada lawan bicara tanpa terdistraksi memikirkan tanggapan kamu selanjutnya.
 2. **Kerentanan (Vulnerability):** Menurut peneliti Brené Brown, kerentanan adalah jembatan menuju koneksi. Ini berarti berani menunjukkan sisi asli kamu (termasuk ketakutan dan kegagalan) bukan hanya sisi "sempurna" yang ingin kamu tampilkan.
-3. **Konsistensi dan Kehadiran:** Hubungan yang kuat dibangun melalui momen-momen kecil yang konsisten terkumpul. Kehadiran nyata saat dibutuhkan jauh lebih berharga daripada hadiah materi yang mahal.
-4. **Empati di Atas Simpati:** Simpati adalah merasa kasihan pada seseorang, sedangkan empati adalah usaha sungguh-sungguh untuk ikut merasakan apa yang sedang mereka alami.
+3. **Konsistensi dan Kehadiran:** Hubungan yang kuat dibangun melalui momen-momen kecil yang konsisten terkumpul. Kehadiran nyata saat dibutuhkan lebih berharga daripada hadiah materi yang mahal.
+4. **Empati di Atas Simpati:** Simpati adalah merasa kasihan pada seseorang, sedangkan empati adalah usaha untuk ikut merasakan apa yang sedang mereka alami.
 
 "Koneksi adalah energi yang tercipta di antara orang-orang ketika mereka merasa dilihat, didengar, dan dihargai," tulis Brené Brown.
 
@@ -103,9 +103,11 @@ Berikut adalah beberapa pilar penting dalam membangun koneksi yang dalam:
 
 Untuk membantu kamu memvisualisasikan cara hubungan tumbuh, kita bisa menggunakan analogi persamaan sederhana berikut:
 
+<div>
 $$
-\\text{Kedalaman Relasi} = \\frac{\\text{Waktu Berkualitas} \\times \\text{Keterbukaan}}{\\text{Ego}}
+\text{Kedalaman Relasi} = \frac{\text{Waktu Berkualitas} \times \text{Keterbukaan}}{\text{Ego}}
 $$
+</div>
 
 Artinya, semakin besar keterbukaan dan waktu berkualitas yang dicurahkan, semakin dalam pula relasi yang terbentuk. Sebaliknya, jika ego terlalu mendominasi, kedalaman tersebut akan menyusut.
 

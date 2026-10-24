@@ -1,7 +1,7 @@
 ---
 schema: ultra-plan/v1
 plan_id: 2026-10-24-dawnbook-voice-crutch-cap
-status: Approved
+status: Complete
 version: 1
 runner_contract: true
 skill: "super-ultra-code-plan (loaded through the Skill tool from ~/.claude/skills/super-ultra-code-plan/SKILL.md)"
@@ -95,7 +95,7 @@ Trigger: owner follow-up choices on plan 2026-10-24-dawnbook-voice-scaffold-48-b
 - [x] G1: test-first, add to `scripts/check-voice.ts` a crutch-word cap of 4 per chapter with the two exclusions above, plus the near-miss caps if approved ("Kalau/Jika diperhatikan" 0, headings starting "Menuju " 0, chapter announcements at most 2). Evidence: 5 new tests RED, then exit 0; positive controls: without the fence rule or without the exclusions the same text gives "crutch words x5 (max 4)". After G1, `bun run check:voice` reports 85 crutch, 4 bridge-heading and 1 diperhatikan hits in 39 books (announcements 0).
 - [x] C1-C3: one subagent per book; each cuts crutch words only where they are not idiomatic, never changing meaning or adding a fact; scope guard and check-voice per book; one reviewer per wave. Evidence 2026-10-24: 39 books, one subagent each in three waves; parent re-check per book (check-voice exit 0, crutch guard exit 0, structure output identical to its baseline) before its own commit; three reviewers, no P1, P2s applied in per-book review commits. Checker exclusions added on the way, test-first and mutation-proven: "pola pikir tetap", link targets.
 - [x] V1: `bun run check:voice` exit 0 over all 60 books (the build gate), book tests and build exit 0. Evidence: `bun run check:voice` exit 0 (60 books, 0 problems); `bun test tests/books/ tests/scripts/check-voice.test.ts tests/scripts/build.test.ts` exit 0 (89 pass); `bun run build` exit 0 with the voice gate and SEO R1-R7.
-- [ ] D1: one PR; merge asked alone; deploy, D1 seed and GSC reindex asked separately.
+- [x] D1: one PR; merge asked alone; deploy, D1 seed and GSC reindex asked separately. Evidence: PR #201 merged (owner answer "Merge"), then #199; deploy of `main` 9217304 on 2026-10-24 (owner answer "Deploy, seed, reindex"): `deploy-website.sh` exit 0, log shows "Checking chapter voice..." and "Deployment complete"; `migrate-to-d1.ts` exit 0 ("All seeds applied successfully", no error lines); GSC sitemap PUT HTTP 204, `lastSubmitted` 2026-10-24T03:52:15Z; live check of `/books/<slug>/content/01_*` for nudge-theory, neurobiologi-sistem-vestibular and pelajaran-hidup-dari-harvest-moon-back-to-nature found the new crutch-pass sentence on each page. Recorded in the next session's PR (structure fixes) because the evidence is post-merge.
 
 ## Waves
 
@@ -144,3 +144,8 @@ One PR through pr-registry; merge, deploy, D1 seed and GSC asked separately.
 - The cap counts words, not meaning: a writer may cut a "pun" that carries emphasis. Reviewers check that no hedge or nuance is lost.
 - Exclusions are a fixed list; a technical term missing from it shows up as a cap hit and is added to the list with a test, never rewritten.
 - Rollback: revert the PR; the cap and the text changes are separate commits.
+
+## Closeout status
+
+- 2026-10-24: `bun scripts/plan-closeout.mjs --readiness docs/code-plan/plans/2026-10-24-dawnbook-voice-crutch-cap.md` (run from ~/vivera) printed `readiness: NEEDS-HUMAN`, exit 3: no task has a `skip_if` proof, 0 open step boxes, 0 other open boxes, 0 open NOW follow-ups.
+- Owner decision 2026-10-24 (Close plan gate, asked with that verdict shown): Mark Complete, on the human evidence recorded under D1 (PR #201 merged, deploy 9217304 exit 0, D1 seed exit 0, GSC sitemap PUT 204, live page check). Status set to Complete in PR #202.

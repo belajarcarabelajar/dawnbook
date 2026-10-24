@@ -1,6 +1,6 @@
 ## Kebangkitan Stasiun Swasta dan Era Persaingan (1990-an)
 
-Selamat datang di dekade yang mengubah segalanya! Jika tahun 1970-an dan 1980-an adalah masa pertumbuhan, maka **tahun 1990-an adalah masa "ledakan" bagi industri televisi Korea Selatan**. Ini adalah periode ketika K-Drama mulai bertransformasi dari hiburan layar kaca domestik menjadi produk industri yang sangat kompetitif, provokatif, dan berani secara estetika.
+Pada 1990-an, lahirnya stasiun swasta pertama memicu persaingan rating yang mengubah cara drama Korea diproduksi. Jika tahun 1970-an dan 1980-an adalah masa pertumbuhan, maka **tahun 1990-an adalah masa ketika industri televisi Korea Selatan berkembang cepat**. Ini adalah periode ketika K-Drama mulai bertransformasi dari hiburan layar kaca domestik menjadi produk industri yang kompetitif, provokatif, dan berani secara estetika.
 
 ### 1. Munculnya SBS dan Runtuhnya Duopoli
 
@@ -8,23 +8,23 @@ Hingga akhir 1980-an, pemirsa Korea Selatan hanya memiliki dua pilihan utama: **
 
 **Apa dampaknya?**
 
-- **Persaingan Rating yang Kejam:** Ketergantungan SBS pada iklan mendorong mereka memproduksi konten yang lebih berani dan memikat demi merebut penonton KBS serta MBC.
+- **Persaingan Rating yang Ketat:** Ketergantungan SBS pada iklan mendorong mereka memproduksi konten yang lebih berani dan memikat demi merebut penonton KBS serta MBC.
 - **Investasi besar-besaran** yang dilakukan seluruh stasiun TV untuk meningkatkan anggaran produksi, membeli kamera mutakhir, serta menggandeng penulis dan aktor papan atas dengan bayaran tinggi.
 - **Eksperimen Genre:** Nilai-nilai keluarga tradisional mulai digeser oleh kehadiran genre aksi, *thriller* politik, hingga drama perkotaan yang modern dan modis.
 
-> **Analogi Sederhana:** Bayangkan sebuah pasar yang selama puluhan tahun hanya menjual dua jenis roti yang rasanya sama. Tiba-tiba, sebuah toko roti baru buka dengan menu yang lebih berani, topping yang melimpah, dan dekorasi toko yang sangat modern. Toko lama tidak punya pilihan lain selain merombak resep mereka atau mereka akan kehilangan pelanggan selamanya. Itulah yang dilakukan SBS terhadap KBS dan MBC.
+> **Analogi Sederhana:** Bayangkan sebuah pasar yang selama puluhan tahun hanya menjual dua jenis roti yang rasanya sama. Tiba-tiba, sebuah toko roti baru buka dengan menu yang lebih berani, topping yang melimpah, dan dekorasi toko yang modern. Toko lama tidak punya pilihan lain selain merombak resep mereka atau mereka akan kehilangan pelanggan. Itulah yang dilakukan SBS terhadap KBS dan MBC.
 
-### 2. Sandglass (1995) yang "Menghentikan" Sebuah Bangsa
+### 2. Sandglass (1995) dan Dampak Sosiopolitiknya
 
 Jika kita harus menunjuk satu drama yang mendefinisikan era 90-an, jawabannya adalah **Sandglass (Moraesigye)**. Drama ini tumbuh menjadi fenomena sosiopolitik yang nyata, melampaui fungsinya sebagai tontonan biasa.
 
 **Mengapa Sandglass begitu ikonik?**
 
-1. **Keberanian Politik:** Untuk pertama kalinya, cuplikan nyata dan dramatisasi **Pembantaian Gwangju 1980** ditampilkan secara berani di layar kaca, padahal topik ini sangat sensitif dan tabu selama rezim militer sebelumnya.
-2. **Skala produksi raksasa** pada zamannya, yang menghasilkan kualitas sinematografi setara film bioskop.
-3. **Dampak sosial yang luar biasa** ditunjukkan oleh raihan rating yang menyentuh **64.5%**. Muncul seloroh populer kala itu bahwa jalanan Seoul mendadak lengang karena semua orang bergegas pulang untuk menonton kelanjutan kisahnya.
+1. **Keberanian Politik:** Untuk pertama kalinya, cuplikan nyata dan dramatisasi **Pembantaian Gwangju 1980** ditampilkan secara berani di layar kaca, padahal topik ini sensitif dan tabu selama rezim militer sebelumnya.
+2. **Skala produksi besar** pada zamannya, yang menghasilkan kualitas sinematografi setara film bioskop.
+3. **Dampak sosialnya** terlihat dari raihan rating yang menyentuh **64.5%**. Muncul seloroh populer kala itu bahwa jalanan Seoul mendadak lengang karena semua orang bergegas pulang untuk menonton kelanjutan kisahnya.
 
-Fenomena saat seluruh negeri seolah berhenti beraktivitas demi menyaksikan drama ini menegaskan bahwa *Sandglass* telah tumbuh melampaui fungsi hiburan biasa dan menjadi cermin sejarah yang mendalam bagi bangsanya.
+Fenomena saat seluruh negeri seolah berhenti beraktivitas demi menyaksikan drama ini menegaskan bahwa *Sandglass* telah tumbuh melampaui fungsi hiburan biasa dan menjadi cermin sejarah bagi bangsanya.
 
 ### 3. Evolusi Narasi Menuju Urban Modern
 
@@ -58,4 +58,4 @@ Memahami era 1990-an membantu kita menghargai standar tinggi K-Drama saat ini. T
 - **Urban Trendy Drama** merefleksikan keinginan generasi muda Korea untuk hidup secara modern dan bebas.
 - **Peningkatan aspek teknis** terlihat dari peralihan syuting studio ke lokasi luar ruangan, investasi pada lagu tema (OST), serta sinematografi berkualitas sinema.
 
-> **Pesan Penutup:** Era 90-an adalah "masa remaja" K-Drama, sebuah masa ketika drama Korea mulai berani memberontak, mencari jati diri, dan menemukan kekuatan narasinya sebelum siap menaklukkan dunia pada dekade berikutnya.
+> **Pesan Penutup:** Era 90-an adalah "masa remaja" K-Drama, sebuah masa ketika drama Korea mulai berani memberontak, mencari jati diri, dan menemukan kekuatan narasinya sebelum dikenal luas di luar Korea pada dekade berikutnya.

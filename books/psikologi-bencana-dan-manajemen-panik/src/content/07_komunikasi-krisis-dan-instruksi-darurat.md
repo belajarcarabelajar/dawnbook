@@ -1,6 +1,6 @@
 ## Komunikasi Krisis dan Instruksi Darurat
 
-Situasi darurat seperti guncangan gempa bumi di pusat perbelanjaan, padamnya sistem kelistrikan gedung bertingkat secara mendadak, atau kepulan asap tebal di koridor perkantoran selalu memicu kekacauan sensorik. Lampu padam, sirene meraung, dan massa mulai bergerak tanpa arah yang jelas. Di tengah turbulensi situasi tersebut, suara yang memberikan instruksi dengan tepat menjadi pembeda mutlak antara keselamatan massal dan tragedi kemanusiaan.
+Guncangan gempa bumi di pusat perbelanjaan atau padamnya sistem kelistrikan gedung bertingkat secara mendadak selalu memicu kekacauan sensorik. Hal yang sama terjadi pada kepulan asap tebal di koridor perkantoran. Lampu padam, sirene meraung, dan massa mulai bergerak tanpa arah yang jelas. Di tengah kekacauan tersebut, suara yang memberikan instruksi dengan tepat menjadi pembeda antara keselamatan massal dan tragedi kemanusiaan.
 
 Dalam psikologi bencana, komunikasi darurat bukan sekadar transmisi pesan verbal, melainkan instrumen intervensi psikologis aktif untuk menstabilkan perilaku massa, meredam disorientasi kognitif, dan mengarahkan tindakan penyelamatan secara terkoordinasi.
 
@@ -118,7 +118,7 @@ Oleh karena itu, prioritas taktis pertama seorang komunikator darurat bukanlah b
 
 ---
 
-### 8. Analisis Penerapan dan Sintesis Taktis
+### 8. Pesan Evakuasi Lima Detik di Tengah Banjir Bandang
 
 Sebagai sintesis pemahaman komunikasi darurat, bayangkan skenario evakuasi banjir bandang mendadak di mana sistem kelistrikan padam total dan jendela waktu berbicara yang tersedia hanya lima detik sebelum sambungan terputus:
 
@@ -130,4 +130,4 @@ Formulasi lima kata ini secara langsung memenuhi kriteria ketat komunikasi benca
 3. **Urgensi:** Seketika (*sekarang*).
 4. **Beban Kognitif Minimum:** Menghilangkan kata sambung atau pembuka formal yang tidak bernilai operasional.
 
-Dalam komunikasi krisis psikologis, prinsip *less is more* berlaku secara mutlak. Pengurangan jumlah kata berbanding lurus dengan peningkatan probabilitas tindakan penyelamatan yang tepat dan serentak.
+Dalam komunikasi krisis psikologis, prinsip *less is more* berlaku. Pengurangan jumlah kata berbanding lurus dengan peningkatan probabilitas tindakan penyelamatan yang tepat dan serentak.

@@ -1,8 +1,8 @@
 ## Aplikasi dan Manfaat Peluruhan Beta dalam Kehidupan
 
-Setelah kita mempelajari bagaimana atom yang tidak stabil melepaskan energi melalui peluruhan beta, muncul sebuah pertanyaan penting: **"Apa gunanya semua radiasi ini bagi manusia?"**
+Setelah kita mempelajari cara atom tak stabil melepaskan energi lewat peluruhan beta, muncul pertanyaan: **Apa gunanya semua radiasi ini bagi manusia?**
 
-Meskipun radiasi sering kali dianggap menakutkan, peluruhan beta sebenarnya adalah pahlawan tanpa tanda jasa dalam dunia medis, industri manufaktur, hingga pengungkapan sejarah peradaban manusia. Karakteristik partikel beta (yang memiliki daya tembus sedang: lebih kuat dari alfa tetapi lebih lemah dari gamma) membuatnya sangat ideal untuk tugas-tugas presisi yang tidak bisa dilakukan oleh jenis radiasi lainnya.
+Meskipun radiasi sering kali dianggap menakutkan, peluruhan beta sebenarnya banyak dipakai dalam dunia medis, industri manufaktur, hingga pengungkapan sejarah peradaban manusia. Karakteristik partikel beta (yang memiliki daya tembus sedang: lebih kuat dari alfa tetapi lebih lemah dari gamma) membuatnya cocok untuk tugas-tugas presisi yang tidak bisa dilakukan oleh jenis radiasi lainnya.
 
 Mari kita jelajahi bagaimana partikel kecil berkecepatan tinggi ini bekerja untuk kita.
 
@@ -95,7 +95,7 @@ Bayangkan ${}^{14}\text{C}$ sebagai butiran pasir di bagian atas jam pasir. Begi
 
 Beberapa jenis sensor asap (smoke detector) menggunakan prinsip ionisasi yang mirip dengan aplikasi beta, meskipun lebih sering menggunakan partikel alfa. Namun, dalam aplikasi industri khusus, peluruhan beta digunakan dalam **kromatografi gas** untuk mendeteksi polutan di udara atau residu pestisida pada makanan. Elektron dari peluruhan beta menabrak molekul udara dan menciptakan arus listrik; jika ada molekul polutan yang lewat, arus tersebut akan berubah, memicu alarm atau pencatatan data.
 
-### Ringkasan Aplikasi
+### Isotop dan Fungsinya per Bidang
 
 | Bidang | Isotop Utama | Fungsi Utama | Prinsip Fisika |
 | --- | --- | --- | --- |
@@ -103,4 +103,4 @@ Beberapa jenis sensor asap (smoke detector) menggunakan prinsip ionisasi yang mi
 | **Industri** | ${}^{90}\text{Sr}$, ${}^{85}\text{Kr}$ | Pengukuran ketebalan | Daya tembus yang sensitif terhadap massa jenis |
 | **Sains** | ${}^{14}\text{C}$ | Penanggalan Arkeologi | Laju peluruhan beta yang konstan (Waktu paruh) |
 
-> **Insight Penting:** Aplikasi peluruhan beta menunjukkan bahwa radiasi bukan sekadar bahaya yang harus dihindari, melainkan alat presisi tinggi. Kuncinya terletak pada pemahaman kita terhadap daya tembus dan waktu paruh isotop tersebut untuk kemaslahatan manusia.
+> **Insight Penting:** Aplikasi peluruhan beta menunjukkan bahwa radiasi bukan sekadar bahaya yang harus dihindari, melainkan alat yang presisi. Kuncinya terletak pada pemahaman kita terhadap daya tembus dan waktu paruh isotop tersebut.

@@ -1,17 +1,17 @@
 ## Dampak Pergeseran Makna pada Etika Berbahasa
 
-Perubahan konotasi kata menuntut kepekaan sosial tinggi agar interaksi antarpenutur tetap menjunjung martabat kemanusiaan dan terhindar dari kesalahpahaman. Berkomunikasi dengan bahasa yang mengalami pergeseran makna, baik pejorasi maupun ameliorasi, ibarat melintasi bentang alam yang strukturnya senantiasa berubah. Tanpa pembaruan peta pemahaman kebahasaan, penutur berisiko terjatuh dalam kesalahpahaman atau menyinggung perasaan lawan bicara.
+Perubahan konotasi kata menuntut kepekaan sosial tinggi agar interaksi antarpenutur menjunjung martabat kemanusiaan dan terhindar dari kesalahpahaman. Berkomunikasi dengan bahasa yang mengalami pergeseran makna, baik pejorasi maupun ameliorasi, ibarat melintasi bentang alam yang strukturnya senantiasa berubah. Tanpa pembaruan peta pemahaman kebahasaan, penutur berisiko terjatuh dalam kesalahpahaman atau menyinggung perasaan lawan bicara.
 
 Dinamika pergeseran makna leksikal merupakan cerminan etika berinteraksi sosial di tengah masyarakat yang majemuk.
 
 ### 1. Nilai Rasa dalam Interaksi Sosial
 
-Setiap kata tidak hanya memuat arti harfiah (denotasi), tetapi juga membawa muatan emosional dan derajat kesantunan (konotasi atau nilai rasa). Kesantunan berbahasa sangat bergantung pada kecakapan penutur dalam menangkap nilai rasa tersebut.
+Setiap kata tidak hanya memuat arti harfiah (denotasi), tetapi juga membawa muatan emosional dan derajat kesantunan (konotasi atau nilai rasa). Kesantunan berbahasa bergantung pada kecakapan penutur dalam menangkap nilai rasa tersebut.
 
 | Dimensi Pergeseran | Dampak Komunikasi | Konsekuensi Etis |
 | :--- | :--- | :--- |
-| **Pejorasi** | Menjadi jebakan komunikasi yang merendahkan lawan bicara. | Menggunakan kata yang menurun nilai rasanya dalam forum resmi dapat dianggap sebagai pelecehan martabat. |
-| **Ameliorasi** | Menjadi jembatan penghormatan yang memuliakan martabat. | Memilih kosakata yang terangkat nilai rasanya memperkuat respek, kesopanan, dan profesionalisme. |
+| **Pejorasi** | Dapat merendahkan lawan bicara. | Menggunakan kata yang menurun nilai rasanya dalam forum resmi dapat dianggap sebagai pelecehan martabat. |
+| **Ameliorasi** | Menunjukkan penghormatan terhadap martabat. | Memilih kosakata yang terangkat nilai rasanya memperkuat respek, kesopanan, dan profesionalisme. |
 
 > **Catatan Konseptual:** Etika berbahasa tidak hanya bertumpu pada ketepatan informasi faktual, melainkan pada penerimaan rasa kolektif masyarakat terhadap kata yang dituturkan.
 
@@ -43,7 +43,7 @@ $$
 
 Ketika seorang penutur menggunakan kosakata yang telah mengalami pejorasi atas dalih makna historis, nilai rasa saat ini bernilai negatif sehingga merusak hasil akhir etika komunikasi.
 
-### 4. Prinsip Navigasi Kesantunan Berbahasa
+### 4. Prinsip Kesantunan Berbahasa
 
 Untuk merawat kesantunan dan mencegah friksi interaksi, beberapa prinsip praktis dapat diterapkan:
 
@@ -71,6 +71,6 @@ Perbedaan pemilihan kata membawa implikasi langsung terhadap suasana relasi sosi
 
 ### Intisari Etika Semantik
 
-Memahami dinamika pejorasi dan ameliorasi merupakan bagian dari ikhtiar merawat kemanusiaan dalam berbahasa. Penghargaan terhadap nilai rasa setiap kata membangun landasan peradaban tutur yang harmonis, minim gesekan, dan saling memuliakan.
+Memahami pejorasi dan ameliorasi membantu kamu berbahasa dengan lebih menghargai orang lain. Memperhatikan nilai rasa setiap kata membuat percakapan lebih santun, minim gesekan, dan saling menghormati.
 
-> **Prinsip Utama:** Pilihan kata mencerminkan cara penutur memandang sesama. Menuturkan kosakata bernilai rasa luhur merupakan langkah nyata dalam memperindah interaksi sosial.
+> **Prinsip Utama:** Pilihan kata mencerminkan cara penutur memandang sesama. Memilih kosakata yang bernilai rasa santun adalah cara sederhana menjaga hubungan baik dengan orang lain.

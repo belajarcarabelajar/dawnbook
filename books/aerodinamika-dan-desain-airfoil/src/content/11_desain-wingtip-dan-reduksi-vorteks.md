@@ -1,8 +1,8 @@
 ## Desain Wingtip dan Reduksi Vorteks
 
-Pernahkah teramati bentuk ujung sayap pesawat komersial modern saat duduk di dekat jendela kabin? Terlihat jelas ujung sayap yang melengkung ke atas atau memiliki sirip tambahan aerodinamis yang khas. Struktur tersebut bukan sekadar variasi estetika, melainkan salah satu inovasi terpenting dalam sejarah rekayasa penerbangan untuk meningkatkan efisiensi bahan bakar dan performa aerodinamika.
+Pernahkah teramati bentuk ujung sayap pesawat komersial modern saat duduk di dekat jendela kabin? Terlihat jelas ujung sayap yang melengkung ke atas atau memiliki sirip tambahan aerodinamis yang khas. Struktur tersebut bukan sekadar variasi estetika, melainkan perangkat untuk meningkatkan efisiensi bahan bakar dan performa aerodinamika.
 
-Pembahasan ini mengupas tuntas aspek fisika dan matematika di balik **Desain Wingtip dan Reduksi Vorteks**, menguraikan bagaimana fenomena kebocoran aliran udara di ujung sayap dapat dikendalikan dan diubah menjadi keuntungan aerodinamis.
+Fisika dan matematika **Desain Wingtip dan Reduksi Vorteks** menjelaskan bagaimana kebocoran aliran udara di ujung sayap dapat dikendalikan dan diubah menjadi keuntungan aerodinamis.
 
 ### 1. Kebocoran Tekanan dan Pembentukan Vorteks
 
@@ -44,7 +44,7 @@ $$
 #### Variasi Desain Wingtip Modern
 
 1. **Blended Winglets:** Memiliki transisi kurva lengkung yang mulus (*smooth radius*) antara permukaan sayap utama dan sirip vertikal (misalnya pada Boeing 737-800). Bentuk lengkungan kontinu ini meminimalkan hambatan interferensi (*interference drag*) pada titik pertemuan struktur.
-2. **Sharklets:** Varian winglet berukuran besar dengan kurva elegan khas yang dikembangkan untuk lini Airbus (seperti keluarga A320neo), dirancang untuk mengoptimalkan distribusi gaya angkat rentang sayap.
+2. **Sharklets:** Varian winglet berukuran besar dengan kurva khas yang dikembangkan untuk lini Airbus (seperti keluarga A320neo), dirancang untuk mengoptimalkan distribusi gaya angkat rentang sayap.
 3. **Raked Wingtips:** Ujung sayap dengan sudut sapuan ke belakang (*sweepback*) yang lebih tajam dibanding sayap utama (seperti pada Boeing 777-300ER dan Boeing 787 Dreamliner). Desain ini memperpanjang *effective aspect ratio* tanpa menimbulkan penambahan beban momen tekuk sebesar sirip vertikal penuh.
 4. **Split Scimitar Winglets:** Desain sayap tingkat lanjut yang menggabungkan sirip ke atas berbentuk bilah pedang (*scimitar*) dengan sirip ventral ke arah bawah, membagi sirkulasi vorteks menjadi beberapa inti yang lebih kecil dan lebih cepat meluruh.
 
@@ -81,7 +81,7 @@ Penerapan winglet menuntut analisis kompromi (*trade-off analysis*) yang ketat a
 
 Perancang aerodinamika mengandalkan komputasi dinamika fluida (*Computational Fluid Dynamics* / $\text{CFD}$) dan uji terowongan angin untuk memastikan bahwa penurunan hambatan induksi jauh melampaui penalti hambatan parasit dan beban massa struktural.
 
-### 5. Studi Kasus dan Aplikasi Lapangan
+### 5. Ujung Sayap di Maskapai, Alam, dan Turbin Angin
 
 **Studi Operasional Efisiensi Armada Komersial**
 
@@ -107,6 +107,6 @@ Ketika sebuah maskapai penerbangan melakukan modifikasi *retrofit* dengan memasa
 
 **Prinsip Kunci:**
 
-> Pengendalian pusaran ujung sayap menegaskan bahwa dalam rekayasa aerodinamika tingkat lanjut, pemahaman terhadap aliran tiga dimensi dan konversi energi sirkulasi adalah kunci utama dalam merealisasikan efisiensi penerbangan modern.
+> Pengendalian pusaran ujung sayap menunjukkan bahwa efisiensi penerbangan modern bergantung pada pemahaman aliran tiga dimensi dan konversi energi sirkulasi.
 
 *Tugas Refleksi:* *Jika seorang insinyur merancang pesawat latih ringan berkecepatan rendah dengan waktu terbang pendek, apakah pemasangan winglet kompleks tetap memberikan rasio biaya-manfaat (*cost-benefit ratio*) yang menguntungkan? Pertimbangkan perbandingan antara penambahan bobot struktur dengan penghematan hambatan induksi pada rezim operasi tersebut.*

@@ -1,6 +1,6 @@
 ## Permainan Berulang (Repeated Games)
 
-Dalam modul sebelumnya, kita telah mempelajari **Dilema Tahanan (Prisoner's Dilemma)** di mana dua pihak sering kali berakhir dengan hasil buruk karena mereka tidak bisa saling percaya dalam satu kali interaksi. Namun, dalam kehidupan nyata, kita jarang berinteraksi dengan orang lain hanya sekali. Kita bertemu rekan bisnis yang sama, berbelanja di toko yang sama, dan bekerja dengan tim yang sama selama bertahun-tahun.
+Dalam modul sebelumnya, kita telah mempelajari **Dilema Tahanan (Prisoner's Dilemma)** di mana dua pihak sering kali berakhir dengan hasil buruk. Hal itu terjadi karena mereka tidak bisa saling percaya dalam satu kali interaksi. Namun, dalam kehidupan nyata, kita jarang berinteraksi dengan orang lain hanya sekali. Kita bertemu rekan bisnis yang sama, berbelanja di toko yang sama, dan bekerja dengan tim yang sama selama bertahun-tahun.
 
 **Permainan Berulang (Repeated Games)** adalah cabang dari teori permainan yang mempelajari bagaimana perilaku manusia berubah ketika interaksi terjadi berkali-kali. Di sini, dimensi waktu dan masa depan menjadi faktor penentu keputusan kita.
 
@@ -31,7 +31,7 @@ Perilaku pemain sangat bergantung pada apakah mereka tahu kapan permainan akan b
 
 ### A. Permainan Berulang Terbatas (Finitely Repeated Games)
 
-Jika pemain tahu persis bahwa permainan akan berakhir pada ronde ke-10, sebuah fenomena menarik terjadi yang disebut **Induksi Mundur (Backward Induction)**:
+Jika pemain tahu persis bahwa permainan akan berakhir pada ronde ke-10, muncul pola yang dijelaskan dengan **Induksi Mundur (Backward Induction)**:
 
 1. Pada ronde ke-10 (terakhir), tidak ada masa depan lagi. Maka, pemain akan berbuat curang (defect) seperti dalam permainan satu kali.
 2. Karena semua tahu semua orang akan curang di ronde ke-10, maka di ronde ke-9 tidak ada gunanya membangun kepercayaan. Pemain akan curang di ronde ke-9.
@@ -69,7 +69,7 @@ stateDiagram-v2
     Curang --> Kerja : lawan bekerja sama
 ```
 
-**Mengapa Tit-for-Tat sangat efektif?**
+**Mengapa Tit-for-Tat efektif?**
 
 - **Ramah:** Tidak pernah menjadi yang pertama untuk berbuat curang.
 - **Tegas:** Langsung membalas jika lawan berbuat curang.
@@ -102,7 +102,7 @@ stateDiagram-v2
 
 Dalam teori permainan, **Teorema Folk** menyatakan bahwa dalam permainan berulang tak terbatas, hampir semua hasil yang saling menguntungkan (di mana setiap pemain mendapatkan lebih dari yang mereka dapatkan jika mereka saling menjatuhkan) dapat dicapai sebagai Ekuilibrium Nash, asalkan pemain cukup sabar ($\delta$ cukup tinggi).
 
-Ini menjelaskan mengapa di komunitas kecil atau pasar tradisional, orang-orang cenderung sangat jujur. Mereka terikat dalam "permainan" yang tidak diketahui kapan berakhirnya, sehingga menjaga keharmonisan jauh lebih menguntungkan daripada keuntungan sesaat dari menipu.
+Ini menjelaskan mengapa di komunitas kecil atau pasar tradisional, orang-orang cenderung jujur. Mereka terikat dalam "permainan" yang tidak diketahui kapan berakhirnya, sehingga menjaga keharmonisan jauh lebih menguntungkan daripada keuntungan sesaat dari menipu.
 
 ## 5. Tit-for-Tat Menghadapi Satu Kecurangan
 
@@ -137,7 +137,7 @@ Perusahaan seperti Netflix atau Spotify memperlakukan kamu dalam konteks permain
 
 ## Kesimpulan
 
-Permainan Berulang mengajarkan kita bahwa **etika dan kepercayaan bukan sekadar nilai moral, melainkan strategi matematika yang optimal**. Dalam dunia yang saling terhubung, bertindak egois dalam jangka pendek sering kali menjadi kerugian besar dalam jangka panjang.
+Permainan Berulang mengajarkan kita bahwa **etika dan kepercayaan bukan sekadar nilai moral, melainkan strategi matematika yang optimal**. Dalam interaksi yang berulang, bertindak egois dalam jangka pendek sering kali menjadi kerugian besar dalam jangka panjang.
 
 **Poin Utama untuk Diingat:**
 

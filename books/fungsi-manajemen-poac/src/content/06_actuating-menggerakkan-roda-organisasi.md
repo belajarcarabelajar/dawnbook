@@ -1,6 +1,6 @@
-## Actuating untuk Menggerakkan Roda Organisasi
+## Actuating untuk Menggerakkan Organisasi
 
-Bayangkan kamu memiliki sebuah peta harta karun yang sangat detail (**Planning**) dan kamu telah mengumpulkan tim ahli dengan peralatan penggalian tercanggih (**Organizing**). Namun, jika tidak ada seorang pun yang mulai mengayunkan cangkul atau melangkah mengikuti peta tersebut, harta itu akan tetap terkubur selamanya.
+Bayangkan kamu memiliki sebuah peta harta karun yang detail (**Planning**) dan tim ahli dengan peralatan penggalian (**Organizing**). Namun, jika tidak ada seorang pun yang mulai mengayunkan cangkul atau melangkah mengikuti peta tersebut, harta itu akan tetap terkubur.
 
 Inilah esensi dari **Actuating** (Penggerakan). Jika Planning dan Organizing adalah persiapan di balik layar, maka Actuating adalah saat lampu panggung dinyalakan dan pertunjukan dimulai.
 
@@ -10,7 +10,7 @@ Inilah esensi dari **Actuating** (Penggerakan). Jika Planning dan Organizing ada
 
 Dalam literatur manajemen, Actuating sering juga disebut sebagai *Directing* (Pengarahan), *Leading* (Kepemimpinan), atau *Influencing* (Mempengaruhi).
 
-> **Intisari Actuating:** Rencana sehebat apa pun tidak akan memiliki nilai jika tidak dieksekusi. Actuating adalah "napas" yang membuat tubuh organisasi bergerak.
+> **Intisari Actuating:** Rencana sehebat apa pun tidak akan memiliki nilai jika tidak dieksekusi. Actuating adalah fungsi yang membuat organisasi bergerak.
 
 Secara matematis, keberhasilan Actuating dapat dilihat sebagai fungsi dari:
 
@@ -24,7 +24,7 @@ di mana:
 - $M$ = motivasi
 - $S$ = sumber daya yang tersedia
 
-## 2. Mengapa Actuating Dianggap Sebagai "Jantung" Manajemen?
+## 2. Mengapa Actuating Dianggap Fungsi Terpenting?
 
 Banyak ahli menyebut Actuating sebagai fungsi yang paling penting karena berhubungan langsung dengan **manusia**. Mesin bisa diprogram, anggaran bisa dihitung, tetapi manusia memiliki perasaan, ambisi, dan dinamika yang kompleks.
 

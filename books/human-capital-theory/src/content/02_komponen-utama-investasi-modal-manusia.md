@@ -1,12 +1,12 @@
-# Komponen Utama Investasi Modal Manusia
+## Komponen Utama Investasi Modal Manusia
 
-Selamat datang di pembahasan inti mengenai **Teori Modal Manusia** (*Human Capital Theory*). Jika sebelumnya kita telah memahami bahwa manusia bukan hanya "biaya", tetapi "aset" ekonomi yang bernilai, sekarang kita akan membedah jenis-jenis investasi yang dapat ditanamkan ke dalam diri agar nilai aset tersebut meningkat.
+Pembahasan inti **Teori Modal Manusia** (*Human Capital Theory*) bermuara pada satu soal praktis: investasi apa saja yang bisa menaikkan nilai diri seseorang? Jika sebelumnya kita telah memahami bahwa manusia bukan hanya "biaya", tetapi "aset" ekonomi yang bernilai, sekarang kita akan membedah jenis-jenis investasi yang dapat ditanamkan ke dalam diri agar nilai aset tersebut meningkat.
 
 Bayangkan diri kamu sebagai sebuah perangkat lunak (*software*). Pendidikan formal adalah sistem operasi dasarnya, pelatihan teknis adalah fitur-fitur khusus yang kamu tambahkan, dan kesehatan adalah perangkat keras (*hardware*) yang memastikan seluruh sistem berjalan lancar. Tanpa investasi yang tepat, potensi ekonomi seseorang akan tetap menjadi kapasitas yang tidak terpakai.
 
 ---
 
-### 1. Pendidikan Formal Menjadi Fondasi Utama
+### 1. Pendidikan Formal
 
 Pendidikan formal adalah bentuk investasi modal manusia yang paling terlihat dan terstruktur. Ini mencakup alur pembelajaran dari sekolah dasar hingga perguruan tinggi (*higher education*).
 
@@ -14,7 +14,7 @@ Pendidikan formal adalah bentuk investasi modal manusia yang paling terlihat dan
 
 Secara ekonomi, pendidikan formal meningkatkan **produktivitas marjinal** (*marginal productivity*) individu. Dengan menguasai literasi, numerasi, dan kemampuan berpikir kritis, seseorang menjadi lebih efisien dalam memecahkan masalah dan menyelesaikan pekerjaan yang kompleks.
 
-> **Definisi Utama:** Pendidikan bukan hanya tentang mengisi tempat penampungan informasi, melainkan menyalakan api produktivitas yang terus berkobar sepanjang masa kerja seseorang.
+> **Definisi Utama:** Pendidikan bukan hanya tentang mengisi tempat penampungan informasi, melainkan membangun kemampuan produktif yang dipakai sepanjang masa kerja seseorang.
 
 **Analogi:** Pendidikan formal ibarat membangun **pondasi gedung pencakar langit**. Semakin dalam dan kuat pondasinya (tingkat pendidikan), semakin tinggi struktur yang bisa dibangun di atasnya (karir dan pendapatan) tanpa risiko runtuh.
 
@@ -151,13 +151,13 @@ Berdasarkan perhitungan tersebut, modal investasi dapat kembali (*Break-Even Poi
 
 ---
 
-### Ringkasan Sintesis
+### Intisari
 
 - **Pendidikan Formal:** Membangun kerangka berpikir analitis dan fondasi kognitif jangka panjang.
 - **Pelatihan Teknis:** Mempertajam spesialisasi dan adaptabilitas terhadap dinamika industri.
 - **Perawatan Kesehatan:** Menjaga kebugaran fisik dan mental guna menahan laju depresiasi kemampuan kerja.
 - **Migrasi Geografis:** Memastikan aset modal manusia ditempatkan pada pasar kerja yang memberikan imbalan paling optimal.
 
-> **Catatan Sintesis:** Investasi modal manusia bersifat akumulatif dan saling melengkapi. Pendidikan dasar yang solid mempermudah penyerapan pelatihan teknis; fisik yang bugar memperpanjang periode imbal hasil investasi pendidikan; serta keberanian relokasi memastikan seluruh akumulasi modal tersebut memperoleh pengakuan imbalan (*Rate of Return*) maksimal di pasar kerja.
+> **Catatan Sintesis:** Investasi modal manusia bersifat akumulatif dan saling melengkapi. Pendidikan dasar yang solid mempermudah penyerapan pelatihan teknis; fisik yang bugar memperpanjang periode imbal hasil investasi pendidikan; serta kesediaan pindah lokasi memastikan seluruh akumulasi modal tersebut memperoleh imbalan (*Rate of Return*) maksimal di pasar kerja.
 
 Dari keempat komponen di atas, komponen mana yang saat ini perlu kamu prioritaskan untuk memperkuat nilai modal manusia dan kapasitas ekonomimu di masa depan?

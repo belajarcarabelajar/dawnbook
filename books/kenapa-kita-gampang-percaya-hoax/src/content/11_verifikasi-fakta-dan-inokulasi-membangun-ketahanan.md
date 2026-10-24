@@ -1,6 +1,6 @@
 ## Verifikasi Fakta dan Inokulasi
 
-Sepanjang buku ini kamu sudah melihat kenapa otak kita gampang tergelincir: bias kognitif, emosi yang dibajak, gema ruang media sosial, sampai motif orang yang sengaja menyebar kebohongan. Bab terakhir ini tidak lagi soal "kenapa", melainkan soal "lalu apa". Kabar baiknya, percaya hoaks bukan takdir. Kita akan bahas dua lapis pertahanan: yang reaktif, memeriksa sesuatu yang sudah terlanjur sampai ke tanganmu, dan yang preventif, "memvaksin" pikiranmu supaya lebih tahan sejak awal.
+Sepanjang buku ini kamu sudah melihat kenapa otak kita gampang tergelincir: bias kognitif, emosi yang dibajak, dan gema ruang media sosial. Ada pula motif orang yang sengaja menyebar kebohongan. Bab terakhir ini tidak lagi soal "kenapa", melainkan soal "lalu apa". Kabar baiknya, percaya hoaks bukan takdir. Kita akan bahas dua lapis pertahanan: yang reaktif, memeriksa sesuatu yang sudah terlanjur sampai ke tanganmu, dan yang preventif, "memvaksin" pikiranmu supaya lebih tahan sejak awal.
 
 ### Teknik verifikasi praktis
 
@@ -10,7 +10,7 @@ Di Indonesia ada organisasi masyarakat sipil dan redaksi media arus utama yang k
 
 #### 2. Reverse image search untuk foto
 
-Foto adalah bahan bakar hoaks paling ampuh karena terasa "bukti". Padahal foto gampang dicabut dari konteksnya: gambar bencana lima tahun lalu dipakai untuk kejadian hari ini, atau foto dari negara lain diklaim terjadi di kotamu. Unggah gambar ke mesin pencari gambar terbalik (reverse image search), lalu cermati tanggal kemunculan paling awal. Kalau foto "kejadian hari ini" ternyata sudah beredar bertahun-tahun lalu, atau muncul di konteks berbeda, kamu sudah menemukan jawabannya.
+Foto ampuh untuk hoaks karena terasa "bukti". Padahal foto gampang dicabut dari konteksnya: gambar bencana lima tahun lalu dipakai untuk kejadian hari ini, atau foto dari negara lain diklaim terjadi di kotamu. Unggah gambar ke mesin pencari gambar terbalik (reverse image search), lalu cermati tanggal kemunculan paling awal. Kalau foto "kejadian hari ini" ternyata sudah beredar bertahun-tahun lalu, atau muncul di konteks berbeda, kamu sudah menemukan jawabannya.
 
 #### 3. Verifikasi video dan klaim
 
@@ -31,7 +31,7 @@ Banyak hoaks disebar lewat situs yang menyamar jadi media resmi. Periksa alamat 
 
 ### Dorongan akurasi untuk berhenti sejenak sebelum membagikan
 
-Ada temuan yang mengejutkan sekaligus melegakan. Pennycook dan rekan-rekannya (2021), dalam riset di jurnal *Nature*, menunjukkan bahwa banyak orang menyebarkan misinformasi bukan karena benar-benar percaya, melainkan karena perhatian mereka teralih. Media sosial mendorong kita memikirkan apakah ini lucu, apakah akan disukai, apakah bikin aku terlihat pintar. Soal akurasi malah lupa ditanyakan.
+Ada temuan yang melegakan. Pennycook dan rekan-rekannya (2021), dalam riset di jurnal *Nature*, menunjukkan bahwa banyak orang menyebarkan misinformasi bukan karena benar-benar percaya, melainkan karena perhatian mereka teralih. Media sosial mendorong kita memikirkan apakah ini lucu, apakah akan disukai, apakah bikin aku terlihat pintar. Soal akurasi malah lupa ditanyakan.
 
 Intervensinya sederhana. Cukup mengingatkan orang untuk memikirkan akurasi sebelum membagikan, dan kualitas apa yang mereka bagikan pun membaik. Ini disebut *accuracy nudge* atau dorongan akurasi.
 
@@ -77,4 +77,4 @@ Lapis individu paling bisa kamu kendalikan hari ini. Lapis sosial mengingatkan b
 
 ## Penutup
 
-Percaya hoaks itu manusiawi. Otak kita dirancang untuk mengambil jalan pintas, dan dunia informasi hari ini memanfaatkannya tanpa ampun. Tapi manusiawi bukan berarti tak berdaya. Kamu punya alat reaktif: cek ke pemeriksa fakta, telusuri gambar dan video, waspadai tautan mencurigakan. Kamu punya kebiasaan preventif: berhenti sejenak dan bertanya apakah sesuatu itu akurat sebelum membagikannya. Dan kamu punya inokulasi psikologis: dengan mengenali teknik manipulasi, pikiranmu membangun antibodi yang bekerja lintas topik dan lintas ideologi. Kejernihan berpikir bukan bakat, melainkan keterampilan yang bisa dilatih. Untuk mendalami setiap gagasan dan riset yang disinggung sepanjang buku ini, silakan lanjut ke daftar Referensi di halaman berikutnya.
+Percaya hoaks itu manusiawi. Otak kita dirancang untuk mengambil jalan pintas, dan dunia informasi hari ini memanfaatkannya. Tapi manusiawi bukan berarti tak berdaya. Kamu punya alat reaktif: cek ke pemeriksa fakta, telusuri gambar dan video, waspadai tautan mencurigakan. Kamu punya kebiasaan preventif: berhenti sejenak dan bertanya apakah sesuatu itu akurat sebelum membagikannya. Dan kamu punya inokulasi psikologis: dengan mengenali teknik manipulasi, pikiranmu membangun antibodi yang bekerja lintas topik dan lintas ideologi. Kejernihan berpikir bukan bakat, melainkan keterampilan yang bisa dilatih. Untuk mendalami setiap gagasan dan riset yang disinggung sepanjang buku ini, silakan lanjut ke daftar Referensi di halaman berikutnya.

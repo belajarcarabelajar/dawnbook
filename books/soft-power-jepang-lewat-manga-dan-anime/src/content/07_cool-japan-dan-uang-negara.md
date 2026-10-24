@@ -18,7 +18,7 @@ Cool Japan Fund Inc. diluncurkan dengan upacara pada 25 November 2013. Di atas k
 
 Label "publik-swasta" terdengar seimbang sampai kamu membuka komposisi modalnya. Dalam laporannya tentang dana-dana publik-swasta, [Badan Pemeriksa Keuangan Jepang](https://report.jbaudit.go.jp/org/r06/YOUSEI2/2024-r06-Y2019-0.htm) mencatat modal dana ini 134,3 miliar yen pada akhir tahun fiskal 2023. Sebanyak 123,6 miliar yen datang dari pemerintah, dan hanya 10,7 miliar yen dari swasta. Artinya sekitar 92 persen modalnya adalah uang negara.
 
-### Rapor Merah dari Badan Pemeriksa
+### Temuan Kerugian oleh Badan Pemeriksa
 
 Laporan yang sama memuat angka yang lebih pahit. Pada akhir tahun fiskal 2023, kerugian kumulatif dana itu sekitar 39,7 miliar yen. Rencananya ke depan malah lebih mengkhawatirkan: target laba kumulatif sampai tahun fiskal 2033 hanya 1,0 miliar yen, padahal biaya modal pemerintah sekitar 15,0 miliar yen. Hitungannya sederhana dan tidak enak. Kalaupun target itu tercapai, negara masih tekor. Badan Pemeriksa meminta dana tersebut menutup kerugiannya dan membenahi pengelolaannya.
 
@@ -36,7 +36,7 @@ Target sejelas itu punya nilai. Ia memaksa setiap program menjawab pertanyaan ya
 
 Langkah berikutnya meminjam resep tetangga. *Yomiuri* melaporkan pada 23 Juni 2026 bahwa pemerintah berencana membentuk lembaga pusat komando untuk industri konten dalam tahun fiskal 2027, dengan KOCCA milik Korea Selatan sebagai model. Pada 29 September 2026, Keidanren mencatat permintaan anggaran tahun fiskal 2027 untuk konten sudah melampaui 250 miliar yen, lalu mendesak agar dukungan itu disatukan dalam satu lembaga. Desakan itu bisa dibaca sebagai upaya merapikan bantuan yang selama ini tersebar di banyak program.
 
-### Subsidi Lokalisasi yang Lebih Membumi
+### Subsidi Lokalisasi J-LOD
 
 Ada pula alat yang jauh lebih bersahaja. J-LOD (*Japan content LOcalization and Distribution*) adalah program subsidi METI yang dijalankan oleh [VIPO](https://www.vipo.or.jp/project/j-lodr3/). Program ini menanggung sebagian biaya lokalisasi dan promosi ketika sebuah karya dirilis di luar negeri. Harapannya, karya itu memicu "demam Jepang" yang ikut mengangkat industri terkait dan pariwisata *inbound*.
 

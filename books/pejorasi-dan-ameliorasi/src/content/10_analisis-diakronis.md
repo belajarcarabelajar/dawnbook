@@ -1,6 +1,6 @@
 ## Analisis Diakronis
 
-Analisis diakronis meneliti perkembangan dan perubahan makna kata dari masa ke masa guna mengungkap evolusi bahasa dalam lintasan sejarah. Kata-kata yang digunakan dalam percakapan sehari-hari menyimpan rekam jejak peradaban yang terbentuk selama berabad-abad. Bahasa tidak pernah bersifat statis, melainkan terus bertumbuh, beradaptasi, dan mengalami pergeseran bentuk serta makna.
+Analisis diakronis meneliti perkembangan dan perubahan makna kata dari masa ke masa guna mengungkap evolusi bahasa dalam lintasan sejarah. Kata-kata yang digunakan dalam percakapan sehari-hari menyimpan jejak sejarah yang terbentuk selama berabad-abad. Bahasa tidak pernah bersifat statis, melainkan terus bertumbuh, beradaptasi, dan mengalami pergeseran bentuk serta makna.
 
 Secara etimologis, istilah diakronis berakar dari bahasa Yunani *dia* yang berarti 'melalui' dan *chronos* yang berarti 'waktu'. Berbeda dengan analisis sinkronis yang memotret kondisi bahasa pada satu kurun waktu tertentu secara statis, analisis diakronis menelusuri alur perubahan semantik secara kronologis, mulai dari perluasan makna, penyempitan makna, hingga pergeseran nilai rasa baik pejorasi maupun ameliorasi.
 
@@ -12,7 +12,7 @@ Pelacakan sejarah leksikal bertumpu pada metodologi ilmiah yang sistematis untuk
 | :--- | :--- | :--- |
 | **Heuristik & Filologi** | Penemuan dan autentikasi dokumen teks tertua | Prasasti, manuskrip lontar, naskah kuno |
 | **Kontekstualisasi** | Perbandingan makna kalimat lintas zaman | Arsip surat dinas, traktat hukum, risalah sejarah |
-| **Linguistik Komputasi** | Pengukuran kuantitatif frekuensi kata | Korpus digital, pangkalan data teks masif |
+| **Linguistik Komputasi** | Pengukuran kuantitatif frekuensi kata | Korpus digital, pangkalan data teks berukuran besar |
 
 #### A. Filologi dan Penelusuran Naskah (Heuristik)
 
@@ -46,7 +46,7 @@ Keterangan rumus:
 
 ### 2. Dinamika Evolusi Leksikal
 
-Perjalanan kata dari masa klasik menuju era modern dapat diibaratkan seperti aliran sungai. Saat pertama kali muncul di hulunya (naskah kuno), sebuah kata memiliki makna yang murni dan spesifik. Seiring mengalirnya waktu melewati berbagai lapisan peradaban, leksikon tersebut menyerap sedimen makna baru, bersinggungan dengan dialek lain, atau beralih fokus fungsi.
+Perjalanan kata dari masa klasik menuju era modern dapat diibaratkan seperti aliran sungai. Saat pertama kali muncul di hulunya (naskah kuno), sebuah kata memiliki makna yang murni dan spesifik. Seiring mengalirnya waktu melewati berbagai zaman, leksikon tersebut menyerap sedimen makna baru, bersinggungan dengan dialek lain, atau beralih fokus fungsi.
 
 #### Tiga Tahap Utama Pergeseran Makna
 
@@ -54,7 +54,7 @@ Perjalanan kata dari masa klasik menuju era modern dapat diibaratkan seperti ali
 2. **Pergeseran Primer:** Transformasi semantik akibat kontak budaya, perjumpaan teknologi baru, atau pergantian struktur sosial.
 3. **Rekristalisasi:** Penetapan makna baru yang terstandardisasi serta diakui secara formal dalam kamus rujukan seperti KBBI.
 
-> **Catatan Telaah:** Kajian diakronis memperlihatkan bahwa variasi penggunaan bahasa pada masa lalu dapat mengkristal menjadi kaidah baku di masa depan saat diterima secara konsisten oleh masyarakat tutur.
+> **Catatan Telaah:** Kajian diakronis memperlihatkan bahwa variasi penggunaan bahasa pada masa lalu dapat menjadi kaidah baku di masa depan saat diterima secara konsisten oleh masyarakat tutur.
 
 ### 3. Evolusi Makna Kata "Canggih"
 
@@ -66,7 +66,7 @@ Penerapan metode diakronis pada kata "canggih" memberikan gambaran nyata mengena
 | **Pertengahan Abad ke-20** | Transisi & Penerjemahan Istilah | Netral ke Positif: dipadankan dengan kata bahasa Inggris *sophisticated* karena asosiasi kecerdasan berpikir. |
 | **Era Digital Kontemporer** | Teknologi & Sains | Positif: mutakhir, berkemampuan tinggi, rumit, dan berdaya guna modern. |
 
-Jika seorang penutur pada abad ke-19 mendengar sebutan "canggih", ungkapan tersebut akan dianggap sebagai teguran atas sikap yang menjengkelkan, sangat bertolak belakang dengan pujian mutakhir pada abad ke-21.
+Jika seorang penutur pada abad ke-19 mendengar sebutan "canggih", ungkapan tersebut akan dianggap sebagai teguran atas sikap yang menjengkelkan, bertolak belakang dengan pujian mutakhir pada abad ke-21.
 
 Lini masa di bawah merangkum perjalanan nilai rasa kata "canggih" dari periode ke periode.
 
@@ -86,9 +86,9 @@ Metode analisis diakronis memberikan kontribusi nyata dalam berbagai disiplin pr
 1. **Leksikografi dan Kodifikasi Kamus:** Penyusun kamus menentukan batas waktu kemapanan makna baru sebelum menetapkannya sebagai lema atau definisi utama.
 2. **Kajian Hukum dan Yurisprudensi:** Praktisi hukum menelusuri *original intent* atau maksud asli perumusan pasal undang-undang lama berdasarkan makna leksikal pada era pembentukannya.
 3. **Strategi Merek (*Branding*):** Perancang identitas visual dan penamaan produk memastikan nama merek tidak memuat riwayat konotasi pejoratif di kawasan tertentu.
-4. **Jembatan Komunikasi Lintas Generasi:** Mengurai kesenjangan pemaknaan istilah antara kelompok usia yang memiliki asosiasi emotif berbeda terhadap leksikon yang sama.
+4. **Komunikasi Lintas Generasi:** Mengurai kesenjangan pemaknaan istilah antara kelompok usia yang memiliki asosiasi emotif berbeda terhadap leksikon yang sama.
 
-### 5. Latihan Penelusuran Jejak Semantik
+### 5. Latihan Menelusuri Riwayat Makna Kata
 
 Penerapan penelusuran diakronis dapat dipraktikkan secara mandiri pada kata **"Sarjana"**:
 
@@ -100,6 +100,6 @@ Kajian diakronis senantiasa memerlukan kejelian dalam mengamati tonggak sejarah,
 
 ### Rangkuman dan Refleksi
 
-Analisis diakronis membuka pemahaman mendalam mengenai dinamika bahasa sebagai cerminan peradaban. Menelusuri sejarah perubahan kata memperkaya wawasan tentang perkembangan pola pikir masyarakat dan perjalanan kebudayaan manusia.
+Analisis diakronis membantu memahami bagaimana bahasa berubah bersama masyarakat penuturnya. Menelusuri sejarah perubahan kata memperluas wawasan tentang perkembangan pola pikir dan kebudayaan masyarakat.
 
 *Refleksi: Kata apa yang sedang mengalami pergeseran nilai rasa di media sosial dan ruang publik digital saat ini? Apakah pergeseran tersebut bergerak ke arah ameliorasi atau pejorasi?*

@@ -1,6 +1,6 @@
 ## Memento Mori
 
-Banyak orang menganggap bahwa memikirkan kematian adalah hal yang kelam, morbid, atau bahkan tabu. Namun, bagi para Stoik, **Memento Mori**, frasa Latin yang berarti "Ingatlah bahwa engkau akan mati", adalah salah satu alat mental yang paling kuat untuk menjalani hidup yang lebih bermakna, penuh kasih, dan fokus.
+Banyak orang menganggap bahwa memikirkan kematian adalah hal yang kelam, morbid, atau bahkan tabu. Namun, bagi para Stoik, **Memento Mori**, frasa Latin yang berarti "Ingatlah bahwa engkau akan mati", adalah salah satu alat mental untuk menjalani hidup yang lebih bermakna, penuh kasih, dan fokus.
 
 Bagi seorang Stoik, kesadaran bahwa hidup ini terbatas bukanlah alasan untuk berputus asa, melainkan pengingat untuk tidak menyia-nyiakan waktu pada hal-hal yang tidak penting.
 
@@ -14,7 +14,7 @@ Memento Mori bukanlah tentang ketakutan, melainkan tentang **kejujuran intelektu
 
 Dalam Stoikisme, kematian dikategorikan sebagai *indifferent* (netral) secara moral, namun kesadaran akan kematian adalah katalisator untuk kebajikan. Tanpa batas akhir, pilihan kita tidak memiliki bobot. Jika hidup abadi, tidak ada urgensi untuk menjadi orang baik *hari ini*.
 
-## 2\. Matematika Kehidupan
+## 2\. Menghitung Sisa Waktu
 
 Mari kita lihat dari perspektif matematis sederhana. Jika kita mengasumsikan rata-rata umur manusia adalah 80 tahun, kita dapat memodelkan sisa waktu kita dengan variabel berikut:
 
@@ -34,7 +34,7 @@ $$
 
 Jika kamu berusia 30 tahun: $W\_{\text{sisa}} = (80 - 30) \times \frac{2}{3} = 33.3 \text{ tahun}$
 
-Angka ini terlihat banyak, namun jika kita memasukkan faktor kesehatan dan energi yang menurun seiring usia, waktu untuk benar-benar "hidup" dengan kapasitas penuh sangatlah terbatas.
+Angka ini terlihat banyak, namun jika kita memasukkan faktor kesehatan dan energi yang menurun seiring usia, waktu untuk benar-benar "hidup" dengan kapasitas penuh terbatas.
 
 ## 3\. Tamu di Jamuan Makan
 
@@ -65,7 +65,7 @@ Filter ini juga bisa memakai ukuran sederhana: apakah kejadian ini merusak karak
 
 Untuk mengintegrasikan konsep ini, Stoikisme menyarankan latihan rutin:
 
-1. **Pagi Hari:** Saat bangun, katakan pada diri sendiri: *"Aku mungkin tidak akan melihat malam hari."* Ini bukan untuk menakut-nakuti, tapi untuk membuat hari itu menjadi sangat berharga.
+1. **Pagi Hari:** Saat bangun, katakan pada diri sendiri: *"Aku mungkin tidak akan melihat malam hari."* Ini bukan untuk menakut-nakuti, tapi untuk membuat hari itu menjadi berharga.
 2. **Malam Hari:** Saat akan tidur, katakan: *"Aku telah hidup, dan aku telah menyelesaikan perjalanan yang diberikan takdir kepadaku."* (Sejajar dengan kutipan Seneca). Jika kamu bangun besok pagi, itu adalah bonus.
 3. **Interaksi Sosial:** Saat berpisah dengan orang yang dicintai, sadarilah dalam hati bahwa ini *bisa jadi* pertemuan terakhir. Kesadaran ini akan menghilangkan keinginan untuk bertengkar dan meningkatkan rasa kasih sayang.
 

@@ -1,6 +1,6 @@
 ## Analisis Alur Campuran dalam Novel 9 Summers 10 Autumns
 
-Bagaimana sebuah perjalanan hidup yang begitu panjang dan berliku dapat diringkas dalam untaian bab? Novel *9 Summers 10 Autumns* menjawab tantangan ini dengan apik lewat struktur alur campuran. Dengan membolak-balik waktu, narasi tidak lagi sekadar berjalan lurus, melainkan bergerak dinamis mengikuti riak emosi dan ingatan tokoh utamanya.
+Bagaimana perjalanan hidup yang panjang, dari masa kecil di Batu sampai keberhasilan di New York, dapat diringkas dalam beberapa bab? Novel *9 Summers 10 Autumns* menjawabnya lewat struktur alur campuran. Dengan membolak-balik waktu, narasi tidak berjalan lurus, melainkan bergerak mengikuti emosi dan ingatan tokoh utamanya.
 
 ### Dinamika Alur Campuran antara Batu dan New York
 
@@ -14,7 +14,7 @@ Teknik ini membuat pembaca tetap terikat untuk terus membaca buku ini. Dengan me
 
 ### Memetakan Garis Alur Maju-Mundur
 
-Ketika kita menganalisis alur campuran pada bab pertama novel, kita dapat memetakan garis naratif yang melompat secara dinamis antara New York di masa kini dan Batu di masa lalu. Lompatan alur ini tidak acak, melainkan digerakkan oleh asosiasi emosional tokoh utama. Misalnya, ketika tokoh 'Aku' menatap salju yang turun di New York, memori sensoriknya langsung memicu kilas balik (*flashback*) ke kabut pegunungan Kota Batu di masa kecilnya. Perpindahan alur ini secara estetis berhasil memindahkan pembaca dari atmosfer kesepian profesional di New York menuju kehangatan nostalgia di Batu secara instan.
+Ketika kita menganalisis alur campuran pada bab pertama novel, kita dapat memetakan garis naratif yang melompat secara dinamis antara New York di masa kini dan Batu di masa lalu. Lompatan alur ini tidak acak, melainkan digerakkan oleh asosiasi emosional tokoh utama. Misalnya, ketika tokoh 'Aku' menatap salju yang turun di New York, memori sensoriknya langsung memicu kilas balik (*flashback*) ke kabut pegunungan Kota Batu di masa kecilnya. Perpindahan alur ini memindahkan pembaca dari kesepian profesional di New York ke kehangatan nostalgia di Batu secara langsung.
 
 Gerak maju-mundur itu bisa kamu lihat sebagai satu putaran pada bagan berikut.
 
@@ -26,6 +26,6 @@ flowchart LR
     BATU -->|"alur maju, proses anak sopir angkot"| NY
 ```
 
-### Memahami Sang Pelaku Cerita
+### Pelaku Cerita yang Menggerakkan Alur
 
 Aliran waktu yang dinamis dalam alur campuran ini digerakkan oleh para pelaku cerita.

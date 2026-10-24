@@ -8,7 +8,7 @@ Kementerian yang sehari-hari mengurus kedutaan dan perundingan tidak sampai ke t
 
 Pada 28 April 2006, Menteri Luar Negeri Taro Aso berbicara di Digital Hollywood University. Yang ia sapa bukan sesama diplomat, melainkan orang-orang yang bekerja di dunia kreatif, dan [pidatonya](https://www.mofa.go.jp/announce/fm/aso/speech0604-2.html) lebih terdengar seperti undangan terbuka daripada laporan kebijakan.
 
-Logikanya sederhana. Diplomasi masa kini sangat bergantung pada opini publik di negara lain. Kalau begitu, budaya pop yang disukai banyak orang semestinya menjadi sekutu diplomasi, bukan sekadar hiburan. Aso menyatakan bahwa kementeriannya ingin memasarkan budaya pop, lalu meminta para kreator ikut menggosok citra merek Jepang.
+Logikanya sederhana. Diplomasi masa kini bergantung pada opini publik di negara lain. Kalau begitu, budaya pop yang disukai banyak orang semestinya menjadi sekutu diplomasi, bukan sekadar hiburan. Aso menyatakan bahwa kementeriannya ingin memasarkan budaya pop, lalu meminta para kreator ikut menggosok citra merek Jepang.
 
 Ia juga membawa contoh. *Astro Boy* dan Doraemon, katanya, membuat robot terasa ramah, dan serial sepak bola *Captain Tsubasa* menjadi sumber inspirasi bagi Zidane dan Totti. Klaim itu keluar dari mulut seorang menteri yang sedang berpidato, jadi bacalah sebagai retorika, bukan hasil penelitian.
 
@@ -20,7 +20,7 @@ Usulan pertama terwujud setahun kemudian. Pada Mei 2007, atas prakarsa Aso, keme
 
 Yang membuatnya unik adalah penyelenggaranya. Hadiah ini tidak diurus penerbit, tetapi oleh kementerian yang biasa menangani hubungan antarnegara. Umurnya yang panjang juga menunjukkan bahwa ia bukan proyek sekali jalan yang ikut lenyap ketika menterinya berganti.
 
-### Kucing Robot Naik Pangkat Jadi Duta
+### Doraemon Diangkat Jadi Duta Anime
 
 Usulan kedua berbelok di tengah jalan. Ketika Koumura melantik Doraemon sebagai *Anime Ambassador* pada 2008, sebuah peristiwa yang tercatat dalam siaran pers kementerian dan Buku Biru Diplomatik 2009, yang diangkat bukan seniman muda seperti gagasan Aso, melainkan tokoh kartun.
 
@@ -44,7 +44,7 @@ timeline
 
 ### Kritik Iwabuchi atas Proyeksi Satu Arah
 
-Tidak semua orang terpesona. Koichi Iwabuchi menulis kritik yang tajam dalam [artikelnya di International Journal of Cultural Policy tahun 2015](https://doi.org/10.1080/10286632.2015.1042469), dan runutannya mundur jauh sebelum Aso naik podium. Diplomasi budaya Jepang pascaperang, dalam pembacaannya, mula-mula bertujuan meredakan sentimen anti-Jepang di Asia Tenggara. Kerangka itu kemudian berganti bahasa menjadi *soft power*, lalu *nation branding* atau pencitraan bangsa, dan akhirnya Cool Japan. Labelnya berubah, sedangkan keinginannya serupa: negara ingin dilihat dengan cara tertentu oleh orang lain.
+Tidak semua orang menilainya positif. Koichi Iwabuchi menulis kritik yang tajam dalam [artikelnya di International Journal of Cultural Policy tahun 2015](https://doi.org/10.1080/10286632.2015.1042469), dan runutannya mundur jauh sebelum Aso naik podium. Diplomasi budaya Jepang pascaperang, dalam pembacaannya, mula-mula bertujuan meredakan sentimen anti-Jepang di Asia Tenggara. Kerangka itu kemudian berganti bahasa menjadi *soft power*, lalu *nation branding* atau pencitraan bangsa, dan akhirnya Cool Japan. Labelnya berubah, sedangkan keinginannya serupa: negara ingin dilihat dengan cara tertentu oleh orang lain.
 
 Dari situ Iwabuchi mengajukan dua keberatan. Diplomasi pop semacam ini masih berupa proyeksi satu arah; Jepang mengirim citra, tetapi tidak sungguh-sungguh membuka dialog lintas batas yang memberi pihak lain ruang untuk berbicara dan didengar. Citra yang dipromosikan juga cenderung menyingkirkan keragaman budaya di dalam Jepang sendiri. Yang tampil ke luar adalah versi yang rapi dan mudah dikemas.
 

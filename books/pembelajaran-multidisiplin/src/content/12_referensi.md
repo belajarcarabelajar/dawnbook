@@ -1,6 +1,6 @@
 ## Referensi
 
-Berikut adalah daftar pustaka yang memuat jurnal ilmiah dan buku akademik yang menjadi rujukan dalam memahami konsep, metode, dan implementasi pembelajaran multidisiplin.
+Daftar pustaka berikut memuat jurnal ilmiah dan buku akademik rujukan untuk memahami konsep, metode, dan implementasi pembelajaran multidisiplin.
 
 Choi, B. C. K., & Pak, A. W. P. (2006). Multidisciplinarity, interdisciplinarity, and transdisciplinarity in health research, services, education and policy: 1. Definitions, objectives, and evidence of effectiveness. *Clinical and Investigative Medicine*, *29*(6), 351–364. [https://pubmed.ncbi.nlm.nih.gov/17330451/](https://pubmed.ncbi.nlm.nih.gov/17330451/)
 

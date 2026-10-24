@@ -1,8 +1,8 @@
 ## Networking Stack di dalam Kernel
 
-Pernahkah kamu membayangkan apa yang terjadi dalam sepersekian milidetik ketika menekan "Enter" pada peramban web hingga halaman muncul? Di balik layar, Kernel Linux melakukan orkestrasi yang sangat kompleks untuk memproses data yang datang dari kabel serat optik atau sinyal Wi-Fi hingga sampai ke aplikasi yang kamu gunakan.
+Pernahkah kamu membayangkan apa yang terjadi dalam sepersekian milidetik ketika menekan "Enter" pada peramban web hingga halaman muncul? Di balik layar, Kernel Linux menjalankan serangkaian tahap untuk memproses data yang datang dari kabel serat optik atau sinyal Wi-Fi hingga sampai ke aplikasi yang kamu gunakan.
 
-Networking Stack (tumpukan protokol jaringan) di Linux adalah salah satu mahakarya rekayasa perangkat keras dan lunak yang paling efisien di dunia. Bagian ini akan membawa kamu menelusuri jalur "perjalanan paket" dari saat ia menyentuh perangkat keras hingga diterjemahkan menjadi informasi yang bermakna bagi aplikasi.
+Networking Stack (tumpukan protokol jaringan) di Linux dirancang untuk bekerja efisien. Bagian ini akan membawa kamu menelusuri jalur "perjalanan paket" dari saat ia menyentuh perangkat keras hingga diterjemahkan menjadi informasi yang bermakna bagi aplikasi.
 
 ## 1. Sistem Logistik Internasional
 
@@ -57,7 +57,7 @@ Kernel melihat header protokol (TCP atau UDP) dan memanggil fungsi yang sesuai (
 1. **Penyimpanan di Buffer**: Setelah terbebas dari seluruh header protokol, payload data bersih ditempatkan pada **Receive Buffer** milik socket yang bersangkutan.
 2. **Pemanggilan oleh Aplikasi**: Aplikasi di *user space* yang sedang menunggu dengan sistem panggilan (*system call*) seperti `read()` atau `recv()` akan dibangunkan (*woken up*) guna menyalin data dari *kernel space* ke *user space*.
 
-## 4. Netfilter Si "Polisi" di Tengah Jalan
+## 4. Netfilter Hooks di Jalur Paket
 
 Di sepanjang jalur ini, terdapat **Netfilter Hooks**. Ini adalah titik-titik di mana kernel mengizinkan modul lain (seperti firewall) untuk memeriksa, mengubah, atau membuang paket.
 
@@ -118,6 +118,6 @@ Pada server dengan trafik sangat tinggi (seperti Nginx atau Node.js), pengembang
 | **Link Layer** | NIC Driver / NAPI | Interrupt Handling, DMA, Frame Framing |
 | **Physical** | Network Card | Bit transmission (Electrical/Optical) |
 
-> **Pelajaran Penting:** Networking stack Linux didesain untuk efisiensi maksimum dengan meminimalkan penyalinan data (*zero-copy philosophy*) dan menggunakan mekanisme interupsi yang cerdas (NAPI) untuk menangani beban kerja modern.
+> **Pelajaran Penting:** Networking stack Linux didesain untuk efisiensi dengan meminimalkan penyalinan data (*zero-copy philosophy*) dan menggunakan mekanisme interupsi NAPI untuk menangani beban kerja modern.
 
 Pada era kecepatan internet modern yang mencapai 100Gbps+, tantangan utama bagi kernel adalah efisiensi pemrosesan jutaan paket per detik secara efisien tanpa membebani kinerja CPU secara berlebihan.

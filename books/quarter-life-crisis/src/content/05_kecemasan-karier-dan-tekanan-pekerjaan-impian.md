@@ -2,7 +2,7 @@
 
 Bayangkan kamu berdiri di tengah persimpangan jalan dengan ribuan penunjuk arah yang berbeda. Beberapa jalan terlihat berkilau dan penuh prestise, sementara yang lain tampak gelap dan penuh ketidakpastian. Di belakangmu, ada suara riuh rendah dari orang tua, media sosial, dan teman sebaya yang masing-masing meneriakkan jalur mana yang "seharusnya" kamu ambil.
 
-Inilah gambaran **Kecemasan Karier** dalam fase *Quarter-Life Crisis*. Ini bukan hanya soal mencari pekerjaan untuk membayar tagihan, tetapi tentang pencarian validasi, identitas, dan ketakutan akan kegagalan di panggung dunia yang sangat kompetitif.
+Inilah gambaran **Kecemasan Karier** dalam fase *Quarter-Life Crisis*. Ini bukan hanya soal mencari pekerjaan untuk membayar tagihan, tetapi tentang pencarian validasi, identitas, dan ketakutan akan kegagalan di tengah persaingan yang ketat.
 
 ## 1\. Mitos 'Pekerjaan Impian' (The Dream Job Trap)
 
@@ -54,7 +54,7 @@ Dunia kerja saat ini tidak lagi bersifat linear. Jika generasi orang tua kita mu
 2. **Fokus pada Skill, Bukan Jabatan:** Jabatan bisa hilang karena otomatisasi atau perubahan pasar, tetapi keahlian (seperti *problem solving*, komunikasi, atau koding) akan selalu relevan.
 3. **Menerima 'Good Enough' Job:** Terkadang, pekerjaan yang "cukup baik" adalah jembatan yang diperlukan untuk menjaga kesehatan mental dan stabilitas finansial sebelum melompat ke sesuatu yang lebih besar.
 
-## 5\. Aplikasi Dunia Nyata & Skenario
+## 5\. Dua Contoh di Tempat Kerja
 
 ### A. Insinyur Perangkat Lunak Muda (Technical Context)
 
@@ -84,6 +84,6 @@ Gunakan tabel di bawah ini untuk memetakan apa yang sebenarnya kamu rasakan saat
 
 > Kariermu adalah sebuah maraton di medan yang belum dipetakan, bukan perlombaan lari cepat (sprint). Tidak ada "jalur yang salah", yang ada hanyalah jalur yang memberikan pelajaran berbeda.
 
-**Penting:** Pekerjaanmu adalah apa yang kamu lakukan untuk hidup, bukan siapa kamu sebagai manusia. Memisahkan identitas diri dari pencapaian karier adalah kunci utama untuk bertahan melewati badai *Quarter-Life Crisis*.
+**Penting:** Pekerjaanmu adalah apa yang kamu lakukan untuk hidup, bukan siapa kamu sebagai manusia. Memisahkan identitas diri dari pencapaian karier membantu kamu melewati *Quarter-Life Crisis*.
 
 *Refleksi untuk kamu: Jika besok semua gelar dan jabatanmu dihapus, kualitas apa yang tetap ada dalam dirimu yang membuat kamu berharga?*

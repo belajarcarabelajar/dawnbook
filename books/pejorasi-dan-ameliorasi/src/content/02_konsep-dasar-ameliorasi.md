@@ -22,7 +22,7 @@ V(K_{\text{baru}}) > V(K_{\text{lama}})
 $$
 </div>
 
-> **Intisari Semantik:** Ameliorasi merupakan wujud transformasi evaluatif leksikal yang merefleksikan peningkatan martabat sosial suatu konsep dalam kesadaran penutur.
+> **Intisari Semantik:** Ameliorasi menandai naiknya penghargaan penutur terhadap konsep yang dirujuk sebuah kata.
 
 ### 2. Faktor Pendorong Terjadinya Ameliorasi
 
@@ -51,7 +51,7 @@ Proses ameliorasi berlangsung secara bertahap melalui mekanisme psikososial dan 
 1. **Fase Penggunaan Awal:** Suatu kata digunakan secara luas dalam tataran makna denotatif dasar tanpa muatan penghormatan khusus.
 2. **Fase Tuntutan Etis:** Muncul kesadaran sosial atau pertimbangan kemanusiaan untuk menyematkan rasa hormat yang lebih proporsional.
 3. **Fase Substitusi:** Bentuk leksikal baru atau bentukan morfemis afiksasi diperkenalkan ke dalam wacana publik.
-4. **Fase Pemantapan:** Masyarakat menyepakati penggunaan bentuk baru tersebut sebagai standar baku yang bernilai luhur.
+4. **Fase Pemantapan:** Masyarakat menyepakati penggunaan bentuk baru tersebut sebagai standar baku yang santun.
 
 Keempat fase itu dapat kamu ikuti berurutan pada bagan berikut.
 

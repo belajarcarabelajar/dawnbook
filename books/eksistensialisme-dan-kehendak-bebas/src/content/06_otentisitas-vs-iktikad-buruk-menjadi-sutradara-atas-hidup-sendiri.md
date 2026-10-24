@@ -1,6 +1,6 @@
 ## Otentisitas vs Iktikad Buruk
 
-Dialektika antara otentisitas dan iktikad buruk atau mauvaise foi menggambarkan ketegangan etis manusia dalam memeluk kebebasan atau melarikan diri darinya. Dalam filsafat eksistensialisme Jean-Paul Sartre, persoalan ini menempati posisi sentral dalam menguji integritas kesadaran subjek di hadapan tuntutan sosial dan kecemasan ontologis.
+Dialektika otentisitas dan iktikad buruk atau mauvaise foi menggambarkan ketegangan etis manusia dalam memeluk kebebasan atau melarikan diri darinya. Dalam filsafat eksistensialisme Jean-Paul Sartre, persoalan ini menempati posisi sentral dalam menguji integritas kesadaran subjek di hadapan tuntutan sosial dan kecemasan ontologis.
 
 ### 1. Hakikat Otentisitas
 
@@ -24,7 +24,7 @@ Sartre menyajikan ilustrasi kanonik mengenai seorang pelayan kafe yang memperaga
 
 Melalui ilusi ini, sang pelayan menolak kenyataan ontologis bahwa ia adalah subjek bebas yang berdaya untuk melepaskan peran tersebut kapan saja. Ia memperlakukan profesinya sebagai perisai pelindung untuk melarikan diri dari tanggung jawab merancang eksistensinya secara mandiri.
 
-**Bentuk Artikulasi Iktikad Buruk:**
+**Ucapan Khas Iktikad Buruk:**
 - Menjadikan watak psikologis sebagai alibi pasif ("Karakter saya memang demikian sejak lahir").
 - Melimpahkan otonomi kehendak kepada tuntutan struktural ("Keadaan memaksa tindakan ini").
 - Mengabaikan tanggung jawab personal atas nama konformitas massa ("Semua orang melakukannya").
@@ -54,7 +54,7 @@ $$
 $$
 </div>
 
-### 4. Matriks Komparatif Otentisitas vs Iktikad Buruk
+### 4. Membandingkan Sikap Otentik dan Iktikad Buruk
 
 | Parameter Evaluasi | Sikap Otentisitas | Modus Iktikad Buruk (*Mauvaise Foi*) |
 | :--- | :--- | :--- |
@@ -63,7 +63,7 @@ $$
 | **Perlakuan atas Faktisitas** | Menjadikan batasan objektif sebagai titik tolak | Menjadikan batasan objektif sebagai alibi kepasrahan |
 | **Akuntabilitas Moral** | Mengakui kedaulatan pilihan subjek | Menyalahkan determinisme lingkungan dan takdir |
 
-### 5. Kontekstualisasi dalam Sosiologi Kontemporer
+### 5. Wujud Iktikad Buruk Masa Kini
 
 Dalam dinamika kebudayaan kontemporer, manifestasi *mauvaise foi* teramati dalam berbagai sektor:
 
@@ -71,6 +71,6 @@ Dalam dinamika kebudayaan kontemporer, manifestasi *mauvaise foi* teramati dalam
 - **Kurasi Identitas Digital:** Mengidentifikasikan diri secara total dengan persona media sosial, sehingga subjek terperangkap menjadi objek bagi tatapan orang lain (*the Look / le regard d'autrui*).
 - **Relasi Interpersonal:** Bertahan dalam hubungan destruktif atas nama determinisme takdir atau harapan pasif.
 
-### 6. Otentisitas sebagai Perjuangan Berkesinambungan
+### 6. Otentisitas Harus Terus Diperjuangkan
 
-Menjalani eksistensi secara otentik adalah perjuangan berkesinambungan yang menuntut kejujuran batiniah secara radikal. Iktikad buruk menawarkan ilusi kenyamanan mental dengan menanggalkan kedaulatan diri. Namun, hanya melalui pembongkaran topeng-topeng kepalsuan dan penerimaan tanggung jawab kebebasan, manusia dapat mengukuhkan dirinya sebagai pencipta naskah kehidupannya sendiri.
+Menjalani eksistensi secara otentik adalah perjuangan berkesinambungan yang menuntut kejujuran batiniah secara radikal. Iktikad buruk menawarkan ilusi kenyamanan mental dengan menanggalkan kedaulatan diri. Namun, hanya dengan berhenti menipu diri dan menerima tanggung jawab kebebasan, manusia dapat mengukuhkan dirinya sebagai pencipta naskah kehidupannya sendiri.

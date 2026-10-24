@@ -8,7 +8,7 @@ Ada beberapa kendala yang biasa terjadi waktu seseorang mencoba lebih sadar dan 
 
 ### 1. Kurangnya Motivasi (Lack of Motivation)
 
-Motivasi itu bahan bakar utama sewaktu kita belajar. Pas motivasi lagi turun, wajar kalau kamu jadi malas meluangkan waktu sekadar untuk merenungkan cara belajarmu sendiri.
+Motivasi itu pendorong utama sewaktu kita belajar. Pas motivasi lagi turun, wajar kalau kamu jadi malas meluangkan waktu sekadar untuk merenungkan cara belajarmu sendiri.
 
 - **Bagaimana bentuknya dalam metakognisi?**
     - Merasa metakognisi itu tidak penting atau buang-buang waktu.
@@ -17,7 +17,7 @@ Motivasi itu bahan bakar utama sewaktu kita belajar. Pas motivasi lagi turun, wa
 
 ### 2. Kebiasaan Belajar yang Buruk (Poor Study Habits)
 
-Kebiasaan belajar yang pasif dan kurang efektif sering jadi penghalang terbesar. Metakognisi menuntut kita mengubah cara belajar yang sudah lama terbentuk, dan ini jelas tidak gampang.
+Kebiasaan belajar yang pasif dan kurang efektif sering jadi penghalang. Metakognisi menuntut kita mengubah cara belajar yang sudah lama terbentuk, dan ini jelas tidak gampang.
 
 - **Bagaimana bentuknya dalam metakognisi?**
     - Lebih suka menghafal ketimbang memahami konsep, jadinya susah kalau mau mengevaluasi seberapa dalam pemahamanmu.
@@ -27,7 +27,7 @@ Kebiasaan belajar yang pasif dan kurang efektif sering jadi penghalang terbesar.
 
 ### 3. Bias Kognitif (Cognitive Biases)
 
-Bias kognitif adalah pola pikir yang kadang membuat kita mengambil kesimpulan keliru atau kurang logis. Beberapa bias ini bisa sangat mengganggu cara kerja metakognisi.
+Bias kognitif adalah pola pikir yang kadang membuat kita mengambil kesimpulan keliru atau kurang logis. Beberapa bias ini bisa mengganggu cara kerja metakognisi.
 
 - **Bias yang sering muncul:**
     - **Efek Dunning-Kruger:** Orang yang belum terlalu ahli di suatu bidang sering merasa kemampuannya tinggi, sementara yang aslinya jago malah sering meragukan diri sendiri. Ini membuat penilaian diri jadi tidak akurat.
@@ -78,7 +78,7 @@ Untuk mengatasi tantangan di atas, kamu butuh pendekatan yang tepat. Berikut ini
 3. **Coba Teknik Pomodoro**
    Fokus belajar selama rentang waktu tertentu (misalnya 25 menit) lalu diselingi istirahat pendek (5 menit). Cara ini lumayan efektif untuk menjaga konsentrasi dan mencegah otak cepat lelah. Pas jam istirahat, hindari memikirkan hal-hal yang berat.
 4. **Lakukan Refleksi Setelah Belajar**
-   Selesai mengerjakan tugas, sisihkan 5-10 menit buat berpikir: "Apa yang tadi berjalan lancar? Bagian mana yang masih kurang? Strategi apa yang pas? Apa yang harus diubah untuk sesi berikutnya?" Inilah praktik metakognisi yang sebenarnya.
+   Selesai mengerjakan tugas, sisihkan 5-10 menit buat berpikir: "Apa yang tadi berjalan lancar? Bagian mana yang masih kurang? Strategi apa yang pas? Apa yang harus diubah untuk sesi berikutnya?" Kebiasaan ini adalah praktik metakognisi.
 
 ### Menghindari Bias Kognitif
 
@@ -89,7 +89,7 @@ Untuk mengatasi tantangan di atas, kamu butuh pendekatan yang tepat. Berikut ini
 3. **Tantang Asumsi Sendiri**
    Sering-seringlah mempertanyakan apa yang sudah kamu yakini. Coba cari sudut pandang lain atau bukti yang mungkin berlawanan dengan pemikiranmu. Tanyakan ke dirimu sendiri: "Jangan-jangan aku cuma mencari info yang mendukung pendapatku saja?"
 4. **Latihan Prediksi dan Kalibrasi**
-   Sebelum mengerjakan tugas atau ujian, tebak kira-kira seberapa bagus nilaimu nanti. Setelah hasilnya keluar, bandingkan dengan prediksi awalmu. Cara ini sangat membantu agar tingkat kepercayaan diri kita lebih selaras dengan kemampuan aslinya.
+   Sebelum mengerjakan tugas atau ujian, tebak kira-kira seberapa bagus nilaimu nanti. Setelah hasilnya keluar, bandingkan dengan prediksi awalmu. Cara ini membantu agar tingkat kepercayaan diri kita lebih selaras dengan kemampuan aslinya.
 
 ### Mengatasi Kesulitan Mengatur Diri
 
@@ -119,7 +119,7 @@ Untuk mengatasi tantangan di atas, kamu butuh pendekatan yang tepat. Berikut ini
 
 ## Mengalahkan Prokrastinasi Lewat Metakognisi
 
-Biar lebih tergambar, coba kita lihat skenario ini. Amir sering banget menunda tugas yang dirasa susah atau butuh berpikir keras, contohnya seperti menulis esai.
+Biar lebih tergambar, coba kita lihat skenario ini. Amir sering menunda tugas yang dirasa susah atau butuh berpikir keras, contohnya seperti menulis esai.
 
 **Masalah Utama:** Kurangnya motivasi dan susah mengatur diri (sering menunda).
 

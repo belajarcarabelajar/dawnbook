@@ -1,8 +1,8 @@
 ## Kemandirian Finansial dan Tekanan Ekonomi
 
-Pernahkah kamu merasa bahwa meskipun gajimu sudah naik, saldo di rekening bank seolah-olah menguap begitu saja sebelum pertengahan bulan? Atau mungkin, kamu merasa tercekik saat melihat teman sebaya sudah bisa membeli properti, sementara kamu masih berjuang membayar tagihan langganan bulanan?
+Pernahkah kamu merasa bahwa meskipun gajimu sudah naik, saldo di rekening bank seolah-olah menguap begitu saja sebelum pertengahan bulan? Atau mungkin, kamu merasa tertekan saat melihat teman sebaya sudah bisa membeli properti, sementara kamu masih berjuang membayar tagihan langganan bulanan?
 
-Selamat datang di realitas finansial fase *Quarter-Life Crisis*. Di bagian ini, kita akan mengupas tuntas mengapa tekanan ekonomi di usia 20-an terasa jauh lebih berat dibandingkan generasi sebelumnya, dan bagaimana cara menavigasi badai ketidakpastian ini tanpa mengorbankan kesehatan mentalmu.
+Dua situasi itu adalah realitas finansial fase *Quarter-Life Crisis*. Di bagian ini, kita akan membahas mengapa tekanan ekonomi di usia 20-an terasa jauh lebih berat dibandingkan generasi sebelumnya, dan bagaimana cara menghadapi ketidakpastian ini tanpa mengorbankan kesehatan mentalmu.
 
 ## 1. Realitas Biaya Hidup
 
@@ -28,7 +28,7 @@ $$
 - **Gaya Hidup Digital:** Biaya yang dulu tidak ada (Internet, Spotify, Netflix, Cloud Storage) kini menjadi "kebutuhan pokok".
 - **Pajak Sosial:** Keinginan untuk tetap relevan dalam pergaulan (nongkrong di kafe, *healing*, konser) yang biayanya terus meningkat.
 
-## 2. Labirin Utang
+## 2. Godaan Berutang
 
 Di tengah tekanan ekonomi, akses terhadap kredit menjadi pedang bermata dua. Bagi dewasa muda, godaan untuk menutup celah finansial dengan utang seringkali menjadi awal dari krisis yang lebih dalam.
 
@@ -36,10 +36,10 @@ Di tengah tekanan ekonomi, akses terhadap kredit menjadi pedang bermata dua. Bag
 
 Tidak semua utang itu buruk, namun dalam *Quarter-Life Crisis*, banyak yang terjebak dalam utang konsumtif karena tekanan sosial.
 
-- **Paylater & Pinjol (Pinjaman Online):** Kemudahan akses membuat banyak individu terjebak dalam bunga majemuk yang menghancurkan.
+- **Paylater & Pinjol (Pinjaman Online):** Kemudahan akses membuat banyak individu terjebak dalam bunga majemuk yang memberatkan.
 	- *Rumus Bunga Majemuk:* $A = P(1 + r)^n$
 		- Artinya, jika kamu menunda pembayaran, utangmu tumbuh secara eksponensial, bukan linear.
-- **Studi Kasus Singkat:** Rina (24 tahun) menggunakan fitur *Paylater* untuk membeli ponsel baru seharga Rp10.000.000 dengan bunga 3% per bulan. Jika ia hanya membayar minimum, dalam satu tahun ia bisa membayar hampir 1,5 kali lipat dari harga asli. Tekanan untuk melunasi ini seringkali memicu kecemasan hebat setiap kali notifikasi jatuh tempo muncul.
+- **Studi Kasus Singkat:** Rina (24 tahun) menggunakan fitur *Paylater* untuk membeli ponsel baru seharga Rp10.000.000 dengan bunga 3% per bulan. Jika ia hanya membayar minimum, dalam satu tahun ia bisa membayar hampir 1,5 kali lipat dari harga asli. Tekanan untuk melunasi ini seringkali memicu kecemasan setiap kali notifikasi jatuh tempo muncul.
 
 ## 3. "Money Anxiety" dan Ketidakpastian Global
 
@@ -53,7 +53,7 @@ Tekanan ekonomi berdampak langsung pada beban mental, bukan hanya terlihat dari 
 
 > **Important:** Stres ekonomi global (resesi, perubahan iklim, ketidakstabilan politik) menciptakan perasaan bahwa "berusaha keras pun tidak akan cukup". Ini bisa memicu sikap apatis atau *burnout* finansial.
 
-## 4. Langkah Strategis Menuju Kemandirian Finansial
+## 4. Langkah Membangun Kemandirian Finansial
 
 Menghadapi tekanan ini memerlukan pendekatan yang pragmatis sekaligus welas asih terhadap diri sendiri.
 
@@ -106,6 +106,6 @@ Jumlah itu hanya untuk mempertahankan standar hidup yang **sama**.
 
 ## Mandiri Bukan Berarti Sendirian
 
-Kemandirian finansial di masa *Quarter-Life Crisis* bukan soal menjadi kaya dalam semalam, tetapi tentang keberanian **mengambil kendali atas narasi hidupmu**. Tekanan ekonomi memang nyata dan seringkali tidak adil secara sistemik, namun dengan pemahaman yang baik tentang arus kas dan pengelolaan mental yang sehat, kamu bisa melewati fase ini dengan lebih tangguh.
+Kemandirian finansial di masa *Quarter-Life Crisis* bukan soal menjadi kaya dalam semalam, tetapi tentang keberanian **mengambil kendali atas hidupmu**. Tekanan ekonomi memang nyata dan seringkali tidak adil secara sistemik, namun dengan pemahaman yang baik tentang arus kas dan pengelolaan mental yang sehat, kamu bisa melewati fase ini dengan lebih tangguh.
 
 *Refleksi: Apa satu pengeluaran kecil yang jika kamu hentikan hari ini, akan memberikan rasa lega secara psikologis karena kamu merasa memegang kendali kembali?*

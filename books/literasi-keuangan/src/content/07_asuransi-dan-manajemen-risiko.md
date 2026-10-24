@@ -1,8 +1,8 @@
 ## Asuransi dan Manajemen Risiko
 
-Dalam perjalanan mencapai kebebasan finansial, asuransi dan manajemen risiko adalah bagian yang tidak bisa dipisahkan. Hidup ini penuh ketidakpastian. Mulai dari kecelakaan, sakit, sampai bencana alam bisa terjadi kapan saja. Semua hal ini berpotensi menimbulkan kerugian finansial yang besar.
+Asuransi dan manajemen risiko adalah bagian dari rencana keuangan yang melindungi tabungan dan tujuanmu dari kerugian akibat kejadian tak terduga. Hidup ini penuh ketidakpastian. Mulai dari kecelakaan, sakit, sampai bencana alam bisa terjadi kapan saja. Semua hal ini berpotensi menimbulkan kerugian finansial yang besar.
 
-Bagian ini akan memandu kamu memahami konsep manajemen risiko untuk keuangan pribadi. Kamu juga akan belajar bagaimana asuransi bekerja sebagai alat perlindungan andalan.
+Bagian ini akan memandu kamu memahami konsep manajemen risiko untuk keuangan pribadi. Kamu juga akan belajar bagaimana asuransi bekerja sebagai alat perlindungan.
 
 ## Konsep Manajemen Risiko Keuangan Pribadi
 
@@ -52,7 +52,7 @@ flowchart TD
     C --> G["Alihkan risiko (biasanya lewat asuransi)"]
 ```
 
-> **Catatan:** Asuransi merupakan alat pemindahan risiko yang paling efektif dalam perencanaan keuangan pribadi.
+> **Catatan:** Asuransi merupakan alat untuk memindahkan risiko dalam perencanaan keuangan pribadi.
 
 ## Peran Asuransi Sebagai Alat Perlindungan
 
@@ -168,7 +168,7 @@ Sebelum tanda tangan, baca detail polisnya baik-baik.
 - **Premi:** Cek kapan harus bayar dan apakah nilainya bisa naik.
 - **Uang pertanggungan:** Pastikan jumlah maksimal klaimnya memadai.
 - **Manfaat:** Cocokkan dengan apa yang benar-benar kamu butuhkan.
-- **Pengecualian:** Ini sangat vital. Banyak orang gagal klaim karena tidak baca bagian kondisi yang tidak ditanggung.
+- **Pengecualian:** Ini penting. Banyak orang gagal klaim karena tidak baca bagian kondisi yang tidak ditanggung.
 - **Deductible:** Pahami biaya yang harus kamu keluarkan sendiri di setiap kejadian klaim.
 - **Prosedur klaim:** Cari yang alur klaimnya praktis dan tidak berbelit-belit.
 - **Masa tunggu:** Cek berapa lama kamu harus menunggu sampai polis benar-benar aktif untuk penyakit tertentu.
@@ -191,4 +191,4 @@ Jangan langsung beli penawaran pertama yang lewat.
 - Evaluasi polis tiap beberapa tahun. Kebutuhanmu pasti berubah saat menikah, punya anak, atau naik jabatan.
 - Selalu jujur saat mengisi form pengajuan biar ke depannya tidak ada masalah penolakan klaim.
 
-Perencanaan yang matang dan pemahaman asuransi yang benar akan membantumu membangun pertahanan finansial yang kuat. Kamu dan keluarga akan lebih aman dalam menghadapi naik-turunnya kehidupan.
+Perencanaan yang matang dan pemahaman asuransi yang benar akan membantumu melindungi keuangan. Kamu dan keluarga akan lebih aman saat menghadapi kejadian tak terduga.

@@ -2,7 +2,7 @@
 
 Pernahkah kamu merasa memiliki segalanya (pekerjaan yang mapan, tubuh yang sehat, dan hiburan yang cukup) namun tetap merasa ada kehampaan di dalam diri? Perasaan ini sering kali muncul karena kita telah membangun kehidupan yang **bahagia**, tetapi belum tentu kehidupan yang **bermakna**.
 
-Dalam bab ini, kita akan menjelajahi salah satu pilar terdalam dalam psikologi positif: bagaimana manusia mencari, menemukan, dan memelihara makna dalam hidup, serta mengapa hal ini jauh lebih mendasar bagi kesejahteraan jangka panjang dibandingkan kesenangan sesaat.
+Dalam bab ini, kita akan menjelajahi salah satu pilar psikologi positif: bagaimana manusia mencari, menemukan, dan memelihara makna dalam hidup, serta mengapa hal ini jauh lebih mendasar bagi kesejahteraan jangka panjang dibandingkan kesenangan sesaat.
 
 ### 1. Perbedaan Antara Kehidupan yang Bahagia dan Bermakna
 
@@ -24,7 +24,7 @@ Sementara itu, makna hidup berkaitan erat dengan **eudaimonic well-being** (kese
 - **Orientasi waktu:** Menghubungkan pengalaman masa lalu, masa kini, serta harapan masa depan.
 - **Kondisi hidup:** Kerap melibatkan pengorbanan, tantangan, dan tingkat stres tertentu (misalnya, membesarkan anak atau memperjuangkan nilai keadilan).
 
-> **Analogi Komidi Putar vs. Pendakian Gunung:** Menjalani kehidupan yang sekadar memburu kebahagiaan itu seperti naik komidi putar; menyenangkan dan penuh tawa, tetapi kamu tetap berada di titik yang sama. Sebaliknya, menjalani kehidupan yang bermakna mirip dengan mendaki gunung; melelahkan, penuh keringat, dan kadang menyakitkan, tetapi setiap langkah membawa kamu mendekat ke puncak dengan pemandangan yang luar biasa.
+> **Analogi Komidi Putar vs. Pendakian Gunung:** Menjalani kehidupan yang sekadar memburu kebahagiaan itu seperti naik komidi putar; menyenangkan dan penuh tawa, tetapi kamu tetap berada di titik yang sama. Sebaliknya, menjalani kehidupan yang bermakna mirip dengan mendaki gunung; melelahkan, penuh keringat, dan kadang menyakitkan, tetapi setiap langkah membawa kamu mendekat ke puncak.
 
 ### 2. Tiga Pilar Makna Hidup
 
@@ -52,7 +52,7 @@ Transendensi diri merupakan kondisi saat perhatian kita teralihkan dari ego prib
 
 #### Menemukan Ikigai
 
-Salah satu metode visual yang sangat membantu untuk memetakan tujuan hidup adalah konsep Jepang yang dikenal sebagai **Ikigai** (alasan untuk bangun di pagi hari). Cobalah renungkan dan jawab empat pertanyaan dasar berikut:
+Salah satu metode visual yang membantu untuk memetakan tujuan hidup adalah konsep Jepang yang dikenal sebagai **Ikigai** (alasan untuk bangun di pagi hari). Cobalah renungkan dan jawab empat pertanyaan dasar berikut:
 
 1. Apa hal yang benar-benar kamu **cintai**? (*Passion*)
 2. Bidang apa saja yang paling kamu **kuasai**? (*Vocation*)

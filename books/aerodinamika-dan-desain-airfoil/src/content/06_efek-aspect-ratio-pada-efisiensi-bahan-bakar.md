@@ -1,8 +1,8 @@
 ## Efek Aspect Ratio pada Efisiensi Bahan Bakar
 
-Pernahkah teramati perbedaan mencolok antara sayap pesawat jet tempur yang pendek dan kokoh dengan sayap pesawat layang (*glider*) yang sangat panjang dan ramping? Fenomena serupa juga terlihat pada pesawat komersial modern seperti Boeing 787 Dreamliner yang memiliki bentang sayap tampak lebih lentur dan panjang dibandingkan pesawat generasi sebelumnya.
+Pernahkah kamu melihat perbedaan mencolok antara sayap pesawat jet tempur yang pendek dan kokoh dengan sayap pesawat layang (*glider*)? Sayap glider itu sangat panjang dan ramping. Fenomena serupa juga terlihat pada pesawat komersial modern seperti Boeing 787 Dreamliner yang memiliki bentang sayap tampak lebih lentur dan panjang dibandingkan pesawat generasi sebelumnya.
 
-Perbedaan tersebut bukan sekadar aspek estetika, melainkan manifestasi dari salah satu parameter paling krusial dalam desain aerodinamika pesawat: *Aspect Ratio* ($\text{AR}$). Rasio dimensi sayap ini menjadi faktor penentu dalam meminimalkan gaya hambat (*drag*) dan menghemat konsumsi bahan bakar dalam jumlah masif setiap tahunnya.
+Perbedaan tersebut bukan sekadar aspek estetika, melainkan cerminan salah satu parameter penting dalam desain aerodinamika pesawat: *Aspect Ratio* ($\text{AR}$). Rasio dimensi sayap ini menjadi faktor penentu dalam meminimalkan gaya hambat (*drag*) dan menghemat konsumsi bahan bakar.
 
 ### 1. Definisi dan Formulasi Aspect Ratio
 
@@ -65,7 +65,7 @@ Sayap dengan rentang yang semakin panjang menghasilkan momen lengkung (*bending 
 
 #### Batasan Operasional dan Aeroelastisitas
 
-- **Standar Dimensi Bandara:** Sayap yang terlampau panjang dibatasi oleh klasifikasi *gate* bandara menurut regulasi ICAO dan FAA (misalnya batasan bentang $65\text{ m}$ pada kategori *Code E*). Solusi inovatif seperti mekanisme ujung sayap lipat (*folding wingtips*) pada Boeing 777X diterapkan untuk mengatasi batasan ini.
+- **Standar Dimensi Bandara:** Sayap yang terlampau panjang dibatasi oleh klasifikasi *gate* bandara menurut regulasi ICAO dan FAA (misalnya batasan bentang $65\text{ m}$ pada kategori *Code E*). Solusi seperti mekanisme ujung sayap lipat (*folding wingtips*) pada Boeing 777X diterapkan untuk mengatasi batasan ini.
 - **Karakteristik Aeroelastis:** Sayap berbentang panjang memiliki fleksibilitas tinggi yang rentan terhadap fenomena getaran aeroelastis (*flutter*), sehingga memerlukan analisis kekakuan dinamis yang mendalam.
 
 ### 5. Komparasi Karakteristik Desain pada Berbagai Kategori Pesawat

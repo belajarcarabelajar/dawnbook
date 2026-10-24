@@ -1,6 +1,6 @@
 ## Teknik Bedah Tonsilektomi
 
-Membayangkan operasi amandel mungkin memicu ingatan tentang pisau bedah kecil di tangan dokter. Namun, instrumen bedah THT modern kini telah melampaui alat potong manual klasik, mengadopsi teknologi mulai dari getaran ultrasonik hingga aliran plasma dingin.
+Membayangkan operasi amandel mungkin memicu ingatan tentang pisau bedah kecil di tangan dokter. Namun, instrumen bedah THT modern kini tidak lagi terbatas pada alat potong manual klasik; pilihannya mencakup teknologi mulai dari getaran ultrasonik hingga aliran plasma dingin.
 
 Setiap metode yang digunakan dokter spesialis THT (Telinga, Hidung, Tenggorok) untuk mengangkat amandel dirancang untuk tujuan tertentu, mulai dari meminimalkan kerusakan jaringan hingga mengendalikan perdarahan.
 
@@ -64,7 +64,7 @@ Meskipun demikian, metode ini menuntut biaya investasi alat yang tinggi dan prot
 | **Coblation** | Radiofrekuensi | Rendah ($40^{\circ}\text{C}$ sampai $70^{\circ}\text{C}$) | Rendah | Rendah |
 | **Harmonic** | Ultrasonik | Sedang ($50^{\circ}\text{C}$ sampai $100^{\circ}\text{C}$) | Rendah | Sedang |
 
-## Aplikasi Dunia Nyata & Skenario
+## Memilih Teknik Sesuai Kondisi Pasien
 
 Penerapan teknologi ini disesuaikan dengan profil klinis masing-masing pasien. Sebagai contoh, pada kasus anak-anak dengan keluhan *sleep apnea* akibat pembesaran amandel, dokter umumnya menyukai teknik *microdebrider* atau *coblation*. Tujuannya adalah mengecilkan ukuran amandel secara cepat dengan trauma minimal, sehingga anak segera mau makan dan minum pascatindakan untuk menghindari risiko dehidrasi.
 

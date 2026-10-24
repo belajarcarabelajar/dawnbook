@@ -2,7 +2,7 @@
 
 Pernahkah kamu merasa seolah ponsel kamu sedang "mendengarkan" pembicaraan kamu? Kamu baru saja membahas tentang keinginan membeli sepatu lari baru, dan tiba-tiba, iklan sepatu lari muncul di feed media sosial kamu.
 
-Meskipun terdengar seperti sihir atau penyadapan, kenyataannya jauh lebih teknis: ini adalah hasil kerja **algoritma penargetan** yang sangat canggih. Bagian ini akan membedah "kotak hitam" teknologi yang memproses miliaran titik data untuk memprediksi keinginan kamu bahkan sebelum kamu menyadarinya.
+Meskipun terdengar seperti penyadapan, kenyataannya jauh lebih teknis: ini adalah hasil kerja **algoritma penargetan**. Bagian ini akan membedah "kotak hitam" teknologi yang memproses miliaran titik data untuk memprediksi keinginan kamu.
 
 ### 1. Mengubah Data Menjadi Vektor
 
@@ -20,7 +20,7 @@ $$
 
 Di mana $f$ merepresentasikan fitur seperti (usia, lokasi, minat\_otomotif, riwayat\_belanja).
 
-### 2. Tiga Pilar Logika Algoritma Penargetan
+### 2. Tiga Pendekatan Algoritma Penargetan
 
 Untuk memprediksi apa yang ingin kamu lihat, algoritma menggunakan tiga pendekatan utama:
 
@@ -44,7 +44,7 @@ Ini adalah teknik lanjutan di mana pengiklan memberikan data pelanggan terbaik m
 
 ### 3. Pemrosesan Real-Time dan Latensi Rendah
 
-Salah satu keajaiban teknis algoritma penargetan adalah kecepatannya. Seluruh proses, mulai dari kamu membuka aplikasi hingga iklan muncul, terjadi dalam waktu kurang dari **100 milidetik**.
+Salah satu ciri teknis algoritma penargetan adalah kecepatannya. Seluruh proses, mulai dari kamu membuka aplikasi hingga iklan muncul, terjadi dalam waktu kurang dari **100 milidetik**.
 
 1. **Trigger:** Kamu membuka aplikasi (misal: Instagram).
 2. **Request:** Aplikasi mengirim sinyal ke server iklan: "Pengguna ID\_123 sedang aktif, butuh iklan."
@@ -78,9 +78,9 @@ Dalam hitungan ini, meskipun iklan "Luxury Watch" memiliki bayaran (bid) terting
 
 - **Aksi Algoritma:** Algoritma segera memperbarui vektor pengguna dengan tag "Parenting" dan "High Intent".
 - **Prediksi Real-Time:** Dalam hitungan detik, saat pengguna tersebut membuka portal berita, algoritma penargetan bekerja sama dengan jaringan iklan untuk menampilkan iklan diskon popok atau susu formula dari merek kompetitor.
-- **Hasil:** Konversi terjadi karena iklan muncul di saat relevansi emosional dan kebutuhan fungsional berada di titik puncak.
+- **Hasil:** Konversi terjadi karena iklan muncul saat relevansi emosional dan kebutuhan fungsional sedang tinggi.
 
-### Ringkasan Penting
+### Ringkasan Cara Kerja Algoritma
 
 - **Data adalah Input:** Algoritma membutuhkan aliran data terus-menerus untuk menjaga akurasi.
 - **Vektorisasi:** Manusia diubah menjadi titik-titik data matematis agar bisa diproses secara komputasi.

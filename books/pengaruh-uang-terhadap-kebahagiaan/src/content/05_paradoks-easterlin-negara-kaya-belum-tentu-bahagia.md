@@ -2,9 +2,9 @@
 
 Sebuah negara tumbuh hampir tanpa henti selama beberapa dekade: pabrik bermunculan, jalan raya memanjang, pendapatan rata-rata warganya naik tajam. Kalau kamu diminta menebak nasib rasa bahagia warganya, tebakan paling wajar tentu: ikut naik, kan?
 
-Sekarang bagian yang membingungkan. Pada 1974, ekonom Richard Easterlin dari Universitas Pennsylvania menjodohkan dua jenis data yang jarang dipertemukan: catatan pertumbuhan ekonomi dan hasil survei kebahagiaan. Dari Amerika Serikat, Jepang, hingga beberapa negara Eropa, pola yang ia temukan nyaris menampar: pendapatan rata-rata naik terus, tetapi rata-rata rasa bahagia warga tidak ikut naik sebesar yang diduga. Ekonomi berlari kencang, kebahagiaan berjalan santai.
+Sekarang bagian yang membingungkan. Pada 1974, ekonom Richard Easterlin dari Universitas Pennsylvania menjodohkan dua jenis data yang jarang dipertemukan: catatan pertumbuhan ekonomi dan hasil survei kebahagiaan. Dari Amerika Serikat, Jepang, hingga beberapa negara Eropa, pola yang ia temukan begini: pendapatan rata-rata naik terus, tetapi rata-rata rasa bahagia warga tidak ikut naik sebesar yang diduga. Ekonomi berlari kencang, kebahagiaan berjalan santai.
 
-Di bab sebelumnya kita melihat kontroversi serupa pada level individu. Kini pertanyaannya melonjak satu tingkat: apakah hal yang sama juga berlaku untuk satu negara utuh? Jarak antara "seharusnya" dan "kenyataan" inilah yang melahirkan salah satu perdebatan terpanjang dalam ilmu ekonomi kebahagiaan.
+Di bab sebelumnya kita melihat kontroversi serupa pada level individu. Kini pertanyaannya naik satu tingkat: apakah hal yang sama juga berlaku untuk satu negara utuh? Jarak antara "seharusnya" dan "kenyataan" inilah yang melahirkan salah satu perdebatan terpanjang dalam ilmu ekonomi kebahagiaan.
 
 ### Dua temuan yang bertabrakan
 

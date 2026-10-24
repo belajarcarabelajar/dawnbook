@@ -1,6 +1,6 @@
 ## Mengenali Gejala dan Tanda-Tanda Utama Quarter-Life Crisis
 
-Setelah memahami apa itu *Quarter-Life Crisis* (QLC) secara umum, langkah berikutnya yang sangat penting adalah mengenali bagaimana krisis ini bermanifestasi dalam kehidupan sehari-hari. QLC sering kali datang secara perlahan seperti kabut tipis yang menyelimuti pandangan kita, alih-alih datang secara tiba-tiba bagaikan badai. Kabut ini membuat arah tujuan hidup kita menjadi buram.
+Setelah memahami apa itu *Quarter-Life Crisis* (QLC) secara umum, kini saatnya mengenali bagaimana krisis ini bermanifestasi dalam kehidupan sehari-hari. QLC sering kali datang secara perlahan seperti kabut tipis yang menyelimuti pandangan kita, alih-alih datang secara tiba-tiba bagaikan badai. Kabut ini membuat arah tujuan hidup kita menjadi buram.
 
 Mengenali gejala sedini mungkin adalah kunci agar kamu tidak tenggelam dalam kebingungan. Dengan begitu, kamu bisa mulai mendayung ke arah yang lebih jelas. Mari kita bedah tanda-tanda utamanya.
 
@@ -22,7 +22,7 @@ $$
 \text{Kecemasan} \approx \frac{\text{Ketidakpastian} \times \text{Harapan}}{\text{Kesiapan Mental}}
 $$
 
-Jika ketidakpastian tentang masa depan tinggi dan harapan (dari diri sendiri atau orang lain) sangat besar, sementara kesiapan mental belum stabil, maka skor kecemasan akan meledak.
+Jika ketidakpastian tentang masa depan tinggi dan harapan (dari diri sendiri atau orang lain) sangat besar, sementara kesiapan mental belum stabil, maka skor kecemasan akan tinggi.
 
 **Tanda-tanda yang perlu diwaspadai:**
 
@@ -42,7 +42,7 @@ Pernahkah kamu merasa sangat bersemangat saat kuliah, namun setahun setelah beke
 
 ### 4. Isolasi Sosial dan Penarikan Diri
 
-Salah satu paradoks QLC adalah merasa sangat kesepian di tengah dunia yang sangat terhubung. Isolasi sosial di sini tidak diartikan sebagai ketiadaan teman. Kondisi ini lebih kepada perasaan **terputus secara emosional** dengan orang-orang di sekitar.
+Salah satu paradoks QLC adalah merasa kesepian di tengah dunia yang serba terhubung. Isolasi sosial di sini tidak diartikan sebagai ketiadaan teman. Kondisi ini lebih kepada perasaan **terputus secara emosional** dengan orang-orang di sekitar.
 
 - **Menghindari Pertemuan Sosial:** Kamu mulai menolak ajakan kumpul-kumpul karena malas menjawab pertanyaan seperti, *"Kerja di mana sekarang?"* or *"Kapan nikah?"*.
 - **Merasa Tidak Dimengerti:** Muncul pemikiran bahwa semua orang lain tampak "baik-baik saja" dan "sukses", sementara hanya kamu yang berjuang sendirian.

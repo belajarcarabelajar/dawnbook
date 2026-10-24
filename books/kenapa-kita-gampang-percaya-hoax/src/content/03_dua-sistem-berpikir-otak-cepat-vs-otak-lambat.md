@@ -6,7 +6,7 @@ Coba jawab cepat, tanpa menghitung di kertas:
 
 Kalau otakmu langsung menjawab **Rp1.000**, kamu baru saja mengalami sendiri apa yang akan kita bahas sepanjang bab ini. Jawaban itu muncul begitu saja, terasa benar, dan hampir tanpa usaha. Sayangnya, jawaban itu salah. Kita akan kembali ke soal ini nanti. Untuk sekarang, tahan dulu penasaranmu, karena dorongan menjawab cepat itulah pintu masuk untuk memahami kenapa hoaks begitu mudah menyusup ke kepala kita.
 
-### Dua mesin di dalam satu kepala
+### Teori dua proses
 
 Psikolog dan peraih Nobel Daniel Kahneman, dalam bukunya *Thinking, Fast and Slow* (2011), memopulerkan gagasan bahwa cara kita berpikir bisa dibayangkan sebagai kerja dua sistem. Gagasan serupa juga dirumuskan secara akademis oleh Evans dan Stanovich (2013). Keduanya menyebutnya **dual-process theory**, teori dua proses.
 
@@ -78,7 +78,7 @@ Jawaban intuitif Rp1.000 muncul karena Sistem 1 memotong "Rp11.000 dikurangi Rp1
 
 ### Intuisi bukan musuh
 
-Jangan salah tangkap. Intuisi tidak selalu keliru. Sistem 1 yang terlatih bisa sangat akurat: dokter berpengalaman yang langsung merasa ada yang tidak beres, atau montir yang tahu sumber suara mesin dari sekilas dengar. Masalahnya bukan punya intuisi, melainkan **gagal menyalakan Sistem 2 di saat yang menentukan**, terutama saat sebuah informasi memancing emosi, terlalu pas dengan keyakinanmu, atau menuntutmu ikut menyebarkan. Justru di momen "terasa benar" yang paling meyakinkan itulah kamu paling perlu berhenti dan bertanya.
+Jangan salah tangkap. Intuisi tidak selalu keliru. Sistem 1 yang terlatih bisa akurat: dokter berpengalaman yang langsung merasa ada yang tidak beres, atau montir yang tahu sumber suara mesin dari sekilas dengar. Masalahnya bukan punya intuisi, melainkan **gagal menyalakan Sistem 2 di saat yang menentukan**, terutama saat sebuah informasi memancing emosi, terlalu pas dengan keyakinanmu, atau menuntutmu ikut menyebarkan. Justru di momen "terasa benar" yang paling meyakinkan itulah kamu paling perlu berhenti dan bertanya.
 
 ## Poin Penting
 

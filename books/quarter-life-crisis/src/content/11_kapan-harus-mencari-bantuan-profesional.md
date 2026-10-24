@@ -13,7 +13,7 @@ Bayangkan kesehatan mentalmu seperti dasbor mobil.
 
 ## 2\. Membedakan Kecemasan Normal vs. Klinis
 
-Sangat penting untuk memahami bahwa *Quarter-Life Crisis* (QLC) adalah fase perkembangan, bukan diagnosis medis. Namun, QLC dapat memicu atau menutupi gangguan klinis seperti Depresi Mayor atau Gangguan Kecemasan Umum (*Generalized Anxiety Disorder*).
+Penting untuk memahami bahwa *Quarter-Life Crisis* (QLC) adalah fase perkembangan, bukan diagnosis medis. Namun, QLC dapat memicu atau menutupi gangguan klinis seperti Depresi Mayor atau Gangguan Kecemasan Umum (*Generalized Anxiety Disorder*).
 
 ### Kapan Harus Waspada?
 
@@ -50,7 +50,7 @@ Ini adalah indikator terpenting. Apakah kondisi mentalmu menghambatmu dalam:
 2. **Sosial:** Menarik diri sepenuhnya dari teman dan keluarga (isolasi).
 3. **Perawatan Diri:** Berhenti mandi, tidak menjaga kebersihan kamar, atau pola makan berantakan.
 
-> **Insight Penting:** Jika "Fungsi" kamu sudah sangat terganggu, bantuan profesional benar-benar menjadi kebutuhan mendesak.
+> **Insight Penting:** Jika "Fungsi" kamu sudah sangat terganggu, bantuan profesional menjadi kebutuhan mendesak.
 
 ## 4\. "Red Flags" yang Tidak Boleh Diabaikan
 
@@ -94,4 +94,4 @@ Banyak anak muda menahan diri untuk mencari bantuan karena takut dianggap "lemah
 
 Mencari bantuan profesional di tengah *Quarter-Life Crisis* bukan berarti kamu gagal dewasa. Sebaliknya, itu berarti kamu mengambil langkah proaktif untuk memastikan bahwa masa depanmu tidak terhambat oleh beban emosional yang sebenarnya bisa disembuhkan.
 
-*Ingatlah, kesehatan mental adalah investasi, bukan biaya. Jika kamu merasa kewalahan, kamu tidak harus menanggungnya sendirian.*
+*Ingatlah, merawat kesehatan mental bukan pengeluaran yang sia-sia. Jika kamu merasa kewalahan, kamu tidak harus menanggungnya sendirian.*

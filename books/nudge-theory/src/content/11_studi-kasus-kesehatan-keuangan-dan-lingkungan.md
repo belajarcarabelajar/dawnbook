@@ -4,7 +4,7 @@ Setelah memahami berbagai teori dan prinsip dalam arsitektur pilihan, sekarang s
 
 Bagian ini akan membedah tiga bidang utama tempat penerapan *Nudge Theory* telah membawa perubahan besar.
 
-## 1\. Misteri Donor Organ di Sektor Kesehatan
+## 1\. Donor Organ di Sektor Kesehatan
 
 Salah satu contoh klasik yang memperlihatkan kekuatan arsitektur pilihan adalah pendaftaran donor organ. Masalahnya sederhana: banyak orang menyatakan dukungan terhadap donor organ, tetapi hanya sebagian kecil yang benar-benar mendaftar.
 
@@ -45,7 +45,7 @@ Manusia merasakan kepedihan akibat kehilangan Rp1.000.000 dua kali lebih kuat da
 
 ### Intervensi SMarT sebagai Solusi
 
-Program **Save More Tomorrow** dirancang oleh Richard Thaler dan Shlomo Benartzi dengan mengintegrasikan beberapa prinsip psikologi perilaku secara cerdas:
+Program **Save More Tomorrow** dirancang oleh Richard Thaler dan Shlomo Benartzi dengan mengintegrasikan beberapa prinsip psikologi perilaku:
 
 - **Komitmen untuk Masa Depan:** Karyawan diajak berkomitmen untuk menyisihkan pendapatan di masa mendatang, tepatnya saat mereka mendapatkan kenaikan gaji berikutnya. Langkah ini mengurangi rasa kehilangan karena alokasi tabungan diambil dari uang yang belum menjadi bagian dari anggaran bulanan mereka.
 - **Kenaikan Otomatis Sesuai Gaji:** Persentase tabungan akan disesuaikan dengan kenaikan gaji secara berkala. Misalnya, jika gaji naik $5\text{\%}$, alokasi tabungan otomatis bertambah $2\text{\%}$. Hasilnya, karyawan tidak akan merasakan penurunan jumlah gaji bersih yang biasa mereka bawa pulang.
@@ -63,7 +63,7 @@ Dalam formula di atas, $G\_t$ merepresentasikan gaji pada tahun ke-$t$, sementar
 
 ## 3\. Mengubah Perilaku Konsumsi di Sektor Lingkungan
 
-Isu lingkungan sering kali dirasa terlalu besar untuk ditangani sendiri. Di sinilah arsitektur pilihan hadir untuk menghubungkan niat baik dengan tindakan nyata secara praktis.
+Isu lingkungan sering kali dirasa terlalu besar untuk ditangani sendiri. Arsitektur pilihan membantu menghubungkan niat baik dengan tindakan nyata secara praktis.
 
 ### Norma Sosial di Hotel
 
@@ -88,7 +88,7 @@ Sering kali kita mengambil sedotan plastik hanya karena benda tersebut diletakka
 | Domain | Tantangan Perilaku | Intervensi Nudge | Hasil Utama |
 | --- | --- | --- | --- |
 | **Kesehatan** | Prokrastinasi pendaftaran donor | *Opt-out Default* | Peningkatan partisipasi hingga >90% |
-| **Keuangan** | *Loss Aversion* & *Present Bias* | Program *SMarT* | Peningkatan drastis dana pensiun |
+| **Keuangan** | *Loss Aversion* & *Present Bias* | Program *SMarT* | Peningkatan dana pensiun |
 | **Lingkungan** | Kurangnya motivasi individu | *Social Proof* (Norma Sosial) | Pengurangan konsumsi sumber daya |
 
 ## Merancang Kebijakan Publik

@@ -2,7 +2,7 @@
 
 Pernahkah kamu merasa tetap lelah meskipun sudah menghabiskan waktu berjam-jam bersantai sambil *scrolling* media sosial? Atau mungkin kamu merasa sulit untuk memikirkan ide orisinal karena kepalamu sudah penuh dengan pendapat orang lain dari podcast atau Twitter?
 
-Dalam filosofi **Digital Minimalisme**, masalah utamanya terletak pada hilangnya **Solitude** (kesendirian). Kita hidup di era di mana untuk pertama kalinya dalam sejarah manusia, kita bisa benar-benar terbebas dari kesendirian selama 24 jam penuh. Kebebasan dari kesendirian ini ternyata membawa harga yang sangat mahal bagi kesehatan mental dan kejernihan berpikir kita.
+Dalam filosofi **Digital Minimalisme**, masalah utamanya terletak pada hilangnya **Solitude** (kesendirian). Kita hidup di era di mana untuk pertama kalinya dalam sejarah manusia, kita bisa benar-benar terbebas dari kesendirian selama 24 jam penuh. Kebebasan dari kesendirian ini ternyata membawa harga yang mahal bagi kesehatan mental dan kejernihan berpikir kita.
 
 ## Apa Itu 'Solitude' (Kesendirian)?
 
@@ -34,11 +34,11 @@ Ketika kita terus-menerus terpapar pada "input dari otak lain", kita kehilangan 
 ### Penurunan Kejernihan Berpikir
 Otak membutuhkan waktu untuk mengonsolidasikan informasi. Tanpa waktu refleksi, informasi hanya akan menumpuk menjadi tumpukan fakta yang tidak terorganisir, gagal menjadi kebijaksanaan atau pemahaman mendalam.
 
-### Matinya Kreativitas
-Kreativitas seringkali muncul dari kondisi *Default Mode Network* (DMN) di otak,sebuah jaringan yang aktif justru saat kita sedang melamun. Input digital yang konstan memaksa otak tetap berada dalam mode reaktif, membunuh percikan ide orisinal.
+### Ide Orisinal yang Sulit Muncul
+Kreativitas seringkali muncul dari kondisi *Default Mode Network* (DMN) di otak,sebuah jaringan yang aktif justru saat kita sedang melamun. Input digital yang konstan memaksa otak tetap berada dalam mode reaktif, sehingga ide orisinal sulit muncul.
 
 ### Kerentanan Emosional
-Refleksi adalah cara kita memproses emosi kompleks. Saat menutupi kecemasan dengan distraksi digital, emosi tersebut tidak hilang. Mereka hanya terpendam dan siap meledak dalam bentuk stres kronis atau kelelahan mental (*burnout*).
+Refleksi adalah cara kita memproses emosi kompleks. Saat menutupi kecemasan dengan distraksi digital, emosi tersebut tidak hilang. Mereka hanya terpendam dan bisa muncul kembali dalam bentuk stres kronis atau kelelahan mental (*burnout*).
 
 *Bahan Renungan: Kapan terakhir kali seseorang meluangkan waktu 10 menit duduk tenang tanpa gangguan perangkat digital, lalu mendengarkan arus pikiran sendiri?*
 
@@ -52,7 +52,7 @@ Menjauhkan diri dari kebisingan digital memberikan ruang bagi diri sendiri untuk
 
 ## Melatih Kesendirian
 
-Untuk membangun kembali otot kesendirianmu, cobalah beberapa langkah berikut:
+Untuk melatih kembali kemampuanmu menyendiri, cobalah beberapa langkah berikut:
 
 ### Jalan-Jalan Tanpa Perangkat (The Solitude Walk)
 Cobalah berjalan kaki selama 15-20 menit di lingkungan sekitar. Syaratnya mutlak: tinggalkan ponsel di rumah. Jangan gunakan earphone. Tujuannya adalah mengamati lingkungan dan membiarkan pikiran berkelana secara bebas.
@@ -69,7 +69,7 @@ Tentukan waktu atau tempat tertentu di mana tidak boleh ada input digital sama s
 
 **Skenario B (Dengan Prinsip Solitude):** Sari merasakan stres yang sama. Namun, setiap sore ia meluangkan waktu 15 menit untuk duduk di teras tanpa ponsel. Dalam kesendirian itu, ia menyadari stresnya bersumber dari ketidakmampuan berkata "tidak" pada tugas tambahan. Dengan kejernihan ini, Sari berdiskusi dengan atasannya dan berhasil mengatur beban kerja.
 
-> **Penting:** Kesendirian adalah bahan bakar untuk ketahanan mental. Tanpa itu, kita hanyalah kapal yang terombang-ambing oleh arus informasi dari orang lain.
+> **Penting:** Kesendirian menopang ketahanan mental. Tanpa itu, arah pikiran kita mudah ditentukan oleh arus informasi dari orang lain.
 
 ## Latihan Mandiri
 

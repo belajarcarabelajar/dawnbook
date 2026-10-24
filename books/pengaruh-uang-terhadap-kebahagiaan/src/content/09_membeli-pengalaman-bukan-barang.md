@@ -24,7 +24,7 @@ Kenapa? Ada tiga alasan yang saling menguatkan.
 
 ### Barang menua lebih cepat dari kenangan
 
-Kamu sudah mengenal mekanismenya dari bab adaptasi hedonis: nikmat apa pun mengendur seiring waktu, dan barang adalah medan tempat mekanisme itu bekerja paling rakus. Sepeda baru terasa seru seminggu, lalu menjadi alat transportasi biasa. Sofa baru terlihat mahal sebulan, lalu menyatu dengan dinding.
+Kamu sudah mengenal mekanismenya dari bab adaptasi hedonis: nikmat apa pun mengendur seiring waktu, dan pada barang mekanisme itu bekerja paling cepat. Sepeda baru terasa seru seminggu, lalu menjadi alat transportasi biasa. Sofa baru terlihat mahal sebulan, lalu menyatu dengan dinding.
 
 Kenangan bekerja hampir ke arah sebaliknya. Liburan tidak bisa dipakai setiap hari, tapi bisa diputar ulang berkali-kali. Detail mengganggu seperti pesawat tertunda memudar lebih dulu, sementara momen terbaiknya menetap. Barang kehilangan kilau setiap hari; kenangan justru menyaring bagian menjengkelkannya sendiri.
 
@@ -32,7 +32,7 @@ Kenangan bekerja hampir ke arah sebaliknya. Liburan tidak bisa dipakai setiap ha
 
 Kamu adalah rangkuman dari pengalaman yang pernah kamu jalani. Pernah mendaki sampai puncak, pernah ikut lomba lari pertama, pernah menemani sahabat yang patah hati: semua menempel pada jawaban atas pertanyaan "siapa aku". Barang jarang punya kekuatan itu; orang jarang memperkenalkan diri sebagai pemilik mesin cuci dua tabung.
 
-Karena itu pengalaman mudah masuk obrolan. Ceritanya lengkap: awal mulanya, kekacauannya, insiden di tengah jalan. Di reuni maupun meja warung kopi, yang diputar ulang hampir selalu pengalaman, bukan barang. Setiap kali diceritakan lagi, ia mengukir identitas lebih dalam.
+Karena itu pengalaman mudah masuk obrolan. Ceritanya lengkap: awal mulanya, kekacauannya, insiden di tengah jalan. Di reuni maupun meja warung kopi, yang diputar ulang hampir selalu pengalaman, bukan barang. Setiap kali diceritakan lagi, ia makin melekat pada identitasmu.
 
 ### Pengalaman hidup bersama orang lain
 
@@ -42,7 +42,7 @@ Pengalaman juga jarang diadu samping ke samping. Liburanmu tidak bisa ditaruh di
 
 > Membandingkan barang itu seperti membandingkan dua struk belanja: angkanya jelas, pemenangnya pasti, dan yang kalah merasa tersakiti. Membandingkan pengalaman itu seperti membandingkan dua lagu favorit: tidak ada yang menang, yang ada masing-masing mengingatkan pada momen yang berbeda.
 
-Nilai pengalaman bahkan cenderung naik seiring waktu. Liburan yang dulu biasa saja bisa menjadi legenda keluarga sepuluh tahun kemudian, kebalikan dari barang yang makin lama makin murah di pasaran.
+Nilai pengalaman bahkan cenderung naik seiring waktu. Liburan yang dulu biasa saja bisa menjadi cerita keluarga sepuluh tahun kemudian, kebalikan dari barang yang makin lama makin murah di pasaran.
 
 ### Namun bukan berarti semua pengalaman otomatis baik
 

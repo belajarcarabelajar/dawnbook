@@ -87,7 +87,7 @@ Efektivitas teknik ini bertumpu pada hukum keterbatasan kapasitas kognitif (*cog
 
 Suara batin (*internal voice*) bertindak sebagai komando operasional bagi seluruh respons fisiologis dan motorik. Apabila narasi internal dipenuhi oleh kepanikan emosional, respons motorik akan menjadi kacau dan destruktif. Rekonstruksi narasi internal berfungsi menyalurkan energi kecemasan menjadi instruksi taktis yang konkret.
 
-#### Transformasi Narasi Kognitif
+#### Mengganti Pikiran Katastrofik
 
 | Pikiran Katastrofik (Disruptif) | Rekonstruksi Taktis (Fungsional) |
 | :--- | :--- |
@@ -128,7 +128,7 @@ flowchart TD
 
 ---
 
-### 5. Model Termodinamika Regulasi Saraf
+### 5. Regulasi Saraf Seperti Termostat
 
 Proses regulasi sistem saraf dapat dianalogikan dengan prinsip kerja termostat pada sistem pemanas tertutup. Ketika ancaman eksternal datang, energi eksitasi saraf meningkat pesat mendekati ambang kritis:
 

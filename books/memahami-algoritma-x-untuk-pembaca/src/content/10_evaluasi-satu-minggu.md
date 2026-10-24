@@ -48,7 +48,7 @@ Dua puluh post adalah sampel kecil, jadi hasilnya mudah bergeser. Waktu akses, p
 
 Jadi jangan jadikan feed satu-satunya alat ukur. Tambahkan ukuran yang tidak bergantung padanya: berapa catatan yang benar-benar kamu pahami, berapa sumber yang berhasil kamu verifikasi, dan keputusan apa yang terbantu oleh bacaanmu minggu ini. Pertanyaan apakah kamu berhasil berhenti sesuai batas sesi juga layak masuk catatan.
 
-Kalau porsi post teknologi naik tetapi kamu masih terseret scroll tanpa henti, masalahnya ada pada rutinitas baca. Perbaiki rutinitas itu, bukan malah menambah engagement dengan harapan feed makin pas.
+Kalau porsi post teknologi naik tetapi kamu masih sulit berhenti menggulir, masalahnya ada pada rutinitas baca. Perbaiki rutinitas itu, bukan malah menambah engagement dengan harapan feed makin pas.
 
 ### Kalau Hasilnya Belum Membaik
 

@@ -1,5 +1,5 @@
 ## Metode Penghitungan dan Rumus Elastisitas Permintaan
-Setelah memahami apa itu elastisitas permintaan secara konseptual, tantangan berikutnya adalah bagaimana kita mengubah data pasar mentah menjadi angka yang bermakna. Mengukur elastisitas membantu kita memahami dan memprediksi perilaku pembeli di pasar.
+Setelah memahami elastisitas permintaan secara konseptual, tantangan berikutnya adalah mengubah data pasar mentah menjadi angka yang bermakna. Mengukur elastisitas membantu kita memahami dan memprediksi perilaku pembeli di pasar.
 Dalam bagian ini, kita akan membahas teknik penghitungan elastisitas permintaan menggunakan dua metode utama: **Rumus Elastisitas Titik (Point Elasticity)** dan **Metode Nilai Tengah (Midpoint Method)**.
 ## 1. Koefisien Elastisitas
 Sebelum masuk ke rumus teknis, kita perlu memahami apa yang sedang kita cari. Hasil dari penghitungan elastisitas disebut sebagai **Koefisien Elastisitas ($E_d$)**. Angka ini memberi tahu kita seberapa besar persentase perubahan jumlah permintaan jika harga berubah sebesar 1\%.
@@ -14,7 +14,7 @@ $$
 - $\text{\%} \Delta P$: Persentase perubahan harga barang tersebut.
 > **Catatan Penting:** Karena hukum permintaan menyatakan bahwa harga dan jumlah permintaan bergerak ke arah yang berlawanan (jika harga naik, permintaan turun), hasil penghitungan biasanya negatif. Namun, dalam ekonomi, kita sering menggunakan **nilai mutlak (absolute value)** untuk menyederhanakan interpretasi. Jadi, jika hasilnya $-2$, kita menyebutnya $2$.
 ## 2. Metode Elastisitas Titik (Point Elasticity)
-Metode ini digunakan untuk menghitung elastisitas pada satu titik tertentu pada kurva permintaan. Metode ini sangat berguna jika perubahan harga yang terjadi relatif kecil atau jika kita memiliki data harga awal dan jumlah awal yang spesifik.
+Metode ini digunakan untuk menghitung elastisitas pada satu titik tertentu pada kurva permintaan. Metode ini berguna jika perubahan harga yang terjadi relatif kecil atau jika kita memiliki data harga awal dan jumlah awal yang spesifik.
 ### Rumus Elastisitas Titik
 
 $$
@@ -98,4 +98,4 @@ Bayangkan kamu adalah seorang Manajer Pemasaran di sebuah perusahaan aplikasi st
 - **Gunakan Metode Nilai Tengah** jika kamu ingin hasil yang lebih akurat dan konsisten untuk perubahan harga yang cukup besar.
 - **Arah Pergerakan:** Ingatlah bahwa $E_d > 1$ berarti konsumen sangat sensitif (elastis), sementara $E_d < 1$ berarti konsumen tidak terlalu peduli dengan perubahan harga (inelastis).
 Sebagai gambaran, jika kamu menjual obat-obatan yang menyelamatkan nyawa, apakah kamu akan menggunakan pertimbangan elastisitas yang sama seperti saat menjual tiket konser? Produk mana yang kira-kira memiliki koefisien elastisitas lebih besar?
-> **Pesan Utama:** Angka elastisitas adalah "suara" konsumen yang diterjemahkan ke dalam bahasa matematika. Memahaminya berarti memahami seberapa besar kekuatan tawar-menawar yang kamu miliki di pasar.
+> **Pesan Utama:** Angka elastisitas menyatakan respons konsumen terhadap harga dalam bentuk angka. Memahaminya berarti memahami seberapa besar kekuatan tawar-menawar yang kamu miliki di pasar.

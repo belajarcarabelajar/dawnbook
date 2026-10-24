@@ -2,7 +2,7 @@ import { afterEach, describe, expect, test } from "bun:test";
 import fs from "node:fs";
 import os from "node:os";
 import path from "node:path";
-import { checkBookStructure, extractLinkTargets, extractUrls } from "../../scripts/check-book-structure";
+import { checkBookStructure, extractLinkTargets, extractUrls, runStructureGate } from "../../scripts/check-book-structure";
 
 const dirs: string[] = [];
 
@@ -339,5 +339,100 @@ describe("extractLinkTargets", () => {
   test("ignores link targets inside fenced code blocks", () => {
     const md = "[a](#satu)\n\n```md\n[b](doi.org/10.1/kode)\n<a href=\"//x.example\">c</a>\n```\n\n[d](#dua)";
     expect(extractLinkTargets(md)).toEqual(["#satu", "#dua"]);
+  });
+});
+
+// Build step (GEMINI.md section 24): a library of fixture books, one folder per slug.
+function library(books: Record<string, Record<string, string>>): string {
+  const files: Record<string, string> = {};
+  for (const [slug, book] of Object.entries(books)) {
+    for (const [rel, body] of Object.entries(book)) files[`${slug}/${rel}`] = body;
+  }
+  return makeBook(files);
+}
+
+const SCRIPT = path.resolve(import.meta.dir, "../../scripts/check-book-structure.ts");
+
+function runCli(args: string[]): { exitCode: number; stdout: string } {
+  const r = Bun.spawnSync(["bun", "run", SCRIPT, ...args], { stdout: "pipe", stderr: "pipe" });
+  return { exitCode: r.exitCode, stdout: r.stdout.toString() };
+}
+
+describe("runStructureGate (build step)", () => {
+  test("passes a library where every book is clean", () => {
+    expect(runStructureGate(library({ bersih: validBook() }))).toEqual({ ok: true, problems: [] });
+  });
+
+  test("fails a book whose chapter title is a level-1 heading", () => {
+    const book = { ...validBook(), "src/content/01_bab-pertama.md": chapter("Bab Pertama").replace(/^## /, "# ") };
+    expect(runStructureGate(library({ bersih: validBook(), judul: book }))).toEqual({
+      ok: false,
+      problems: ["judul/01_bab-pertama.md: chapter title must be a level-2 heading (##)"],
+    });
+  });
+
+  test("fails a book whose opener's first sentence is longer than the meta cut", () => {
+    const book = { ...validBook(), "src/content/02_bab-kedua.md": chapter("Bab Kedua", LONG_NO_STOP) };
+    expect(runStructureGate(library({ panjang: book }))).toEqual({
+      ok: false,
+      problems: ["panjang/02_bab-kedua.md: opener's first sentence would be truncated in the meta description"],
+    });
+  });
+
+  test("fails a book with the same section heading in two chapters", () => {
+    const book = validBook();
+    book["src/content/01_bab-pertama.md"] += "\n### Latihan\n\nSoal.\n";
+    book["src/content/02_bab-kedua.md"] += "\n### Latihan\n\nSoal.\n";
+    expect(runStructureGate(library({ ganda: book }))).toEqual({
+      ok: false,
+      problems: ['ganda/heading "latihan" repeated in 01_bab-pertama.md, 02_bab-kedua.md'],
+    });
+  });
+
+  test("skips a _template-style slug even when it is broken", () => {
+    const broken = { ...validBook(), "src/content/01_bab-pertama.md": "# Lain\n\nIsi.\n" };
+    expect(runStructureGate(library({ bersih: validBook(), _template: broken }))).toEqual({ ok: true, problems: [] });
+  });
+
+  test("finds exactly what the per-book check finds", () => {
+    const book = { ...validBook(), "src/content/01_bab-pertama.md": chapter("Bab Pertama").replace(/^## /, "# ") + "Anda.\n" };
+    const lib = library({ judul: book });
+    const expected = checkBookStructure(path.join(lib, "judul")).problems.map((p) => `judul/${p}`);
+    expect(expected.length).toBeGreaterThan(1);
+    expect(runStructureGate(lib).problems).toEqual(expected);
+  });
+
+  test("fails a book with no checkable chapters instead of passing vacuously", () => {
+    const lib = library({ kosong: { "src/SUMMARY.md": "# Summary\n", "src/content/.keep": "" } });
+    expect(runStructureGate(lib)).toEqual({ ok: false, problems: ["kosong: no checkable chapters"] });
+  });
+});
+
+describe("check-book-structure CLI", () => {
+  const broken = { ...validBook(), "src/content/01_bab-pertama.md": chapter("Bab Pertama").replace(/^## /, "# ") };
+
+  test("--all checks every book in the library and exits 1 on a problem", () => {
+    const { exitCode, stdout } = runCli(["--books-dir", library({ bersih: validBook(), judul: broken }), "--all"]);
+    expect(exitCode).toBe(1);
+    expect(stdout).toContain("bersih: 2 chapters, 0 problems");
+    expect(stdout).toContain("judul: 2 chapters, 1 problems");
+  });
+
+  test("--all exits 0 on a clean library", () => {
+    const { exitCode, stdout } = runCli(["--books-dir", library({ bersih: validBook() }), "--all"]);
+    expect(exitCode).toBe(0);
+    expect(stdout).toContain("bersih: 2 chapters, 0 problems");
+  });
+
+  test("a single slug still works", () => {
+    const { exitCode, stdout } = runCli(["--books-dir", library({ bersih: validBook(), judul: broken }), "judul"]);
+    expect(exitCode).toBe(1);
+    expect(stdout).toContain("01_bab-pertama.md: chapter title must be a level-2 heading (##)");
+    expect(stdout).not.toContain("bersih:");
+  });
+
+  test("exits 2 on an unknown slug or no arguments", () => {
+    expect(runCli(["--books-dir", library({ bersih: validBook() }), "tidak-ada"]).exitCode).toBe(2);
+    expect(runCli([]).exitCode).toBe(2);
   });
 });

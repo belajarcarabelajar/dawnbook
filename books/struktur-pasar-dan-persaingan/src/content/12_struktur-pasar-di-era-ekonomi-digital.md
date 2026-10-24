@@ -1,6 +1,6 @@
 ## Struktur Pasar di Era Ekonomi Digital
 
-Selamat datang di garis depan ekonomi modern! Jika sebelumnya kamu telah mempelajari bagaimana pasar tradisional bekerja melalui model persaingan sempurna hingga monopoli, sekarang kita akan melihat bagaimana teknologi telah mengacak-acak aturan main tersebut.
+Pasar digital tidak selalu mengikuti aturan main pasar tradisional. Jika sebelumnya kamu telah mempelajari bagaimana pasar tradisional bekerja melalui model persaingan sempurna hingga monopoli, sekarang kita akan melihat bagaimana teknologi telah mengubah aturan main tersebut.
 
 Di era digital, pasar telah berkembang dari tempat transaksi fisik menjadi ekosistem kompleks yang digerakkan oleh algoritma, data, serta konektivitas global.
 
@@ -18,7 +18,7 @@ Bayangkan sebuah supermarket tradisional yang berjalan secara linear. Pengelola 
 
 ## 2. Network Effects (Efek Jaringan)
 
-Mengapa Facebook, WhatsApp, atau Gojek begitu sulit dikalahkan? Jawabannya adalah **Efek Jaringan**. Ini adalah fenomena di mana nilai suatu layanan bagi seorang pengguna bergantung pada jumlah pengguna lain yang menggunakan layanan tersebut.
+Mengapa Facebook, WhatsApp, atau Gojek sulit dikalahkan? Jawabannya adalah **Efek Jaringan**. Ini adalah fenomena di mana nilai suatu layanan bagi seorang pengguna bergantung pada jumlah pengguna lain yang menggunakan layanan tersebut.
 
 ### A. Efek Jaringan Langsung (Direct Network Effects)
 
@@ -47,7 +47,7 @@ $$
 \text{TC} = \text{FC} + \text{MC} \cdot Q
 $$
 
-Karena $\text{MC} \approx 0$, maka $\frac{\text{TC}}{Q}$ (Biaya Rata-rata) akan terus turun seiring meningkatnya jumlah pengguna $Q$. Inilah yang memicu skala ekonomi yang masif (*economies of scale*).
+Karena $\text{MC} \approx 0$, maka $\frac{\text{TC}}{Q}$ (Biaya Rata-rata) akan terus turun seiring meningkatnya jumlah pengguna $Q$. Inilah yang memicu skala ekonomi yang besar (*economies of scale*).
 
 ## 4. Dinamika "Winner-Takes-Most"
 
@@ -78,7 +78,7 @@ Mari kita bedah bagaimana struktur pasar ini bekerja pada fenomena *Super-App* d
 3. **Data sebagai Bahan Bakar:** Data dari riwayat perjalanan dan pemesanan makanan digunakan untuk menawarkan layanan finansial (GoPay/GoPayLater).
 4. **Hambatan Masuk:** Pesaing baru harus mengeluarkan modal triliunan rupiah hanya untuk menandingi jumlah mitra pengemudi dan pedagang yang sudah mapan di platform tersebut.
 
-Hitungan sederhana berikut memperlihatkan mengapa mengejar jumlah pengguna begitu berharga. Dengan angka ilustrasi, anggap nilai jaringan sama dengan kuadrat jumlah penggunanya, sesuai Hukum Metcalfe ($V = n^2$):
+Hitungan sederhana berikut memperlihatkan mengapa mengejar jumlah pengguna itu berharga. Dengan angka ilustrasi, anggap nilai jaringan sama dengan kuadrat jumlah penggunanya, sesuai Hukum Metcalfe ($V = n^2$):
 
 | Jumlah pengguna ($n$) | Nilai jaringan ($n^2$) |
 | --- | --- |
@@ -95,6 +95,6 @@ Ketika jumlah pengguna hanya naik 2 kali lipat, nilai jaringannya naik 4 kali li
 | **Struktur** | Linear (Rantai Nilai) | Platform (Ekosistem) |
 | **Biaya Marginal** | Besar | Mendekati Nol |
 | **Persaingan** | Berdasarkan Harga & Kualitas | Berdasarkan Efek Jaringan & Lock-in |
-| **Skala** | Terbatas oleh kapasitas fisik | Skala tanpa batas (Global) |
+| **Skala** | Terbatas oleh kapasitas fisik | Tidak terbatas kapasitas fisik (Global) |
 
 > **Pesan Penting:** Di era digital, persaingan sering kali bukan terjadi *di dalam* pasar, melainkan persaingan *untuk menguasai* pasar itu sendiri. Siapa yang berhasil membangun jaringan terbesar dengan data paling akurat, biasanya dialah yang akan mendominasi.

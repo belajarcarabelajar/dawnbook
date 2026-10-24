@@ -1,6 +1,6 @@
 ## Pengantar Manajemen Stres dan Koping
 
-Selamat datang di langkah pertama perjalanan kamu untuk memahami bagaimana pikiran dan tubuh berinteraksi dengan tekanan dunia di sekitar kita. Sebelum kita mempelajari teknik-teknik pernapasan atau strategi kognitif yang lebih kompleks, kita perlu membangun fondasi yang kuat tentang apa itu stres sebenarnya dan mengapa cara kita meresponsnya, yang disebut **koping** (*coping*), sangat menentukan kualitas hidup kita.
+Langkah pertama buku ini adalah memahami bagaimana pikiran dan tubuh berinteraksi dengan tekanan dari dunia di sekitar kita. Sebelum kita mempelajari teknik-teknik pernapasan atau strategi kognitif yang lebih kompleks, kita perlu membangun fondasi yang kuat tentang apa itu stres sebenarnya dan mengapa cara kita meresponsnya, yang disebut **koping** (*coping*), menentukan kualitas hidup kita.
 
 ### Apa Itu Stres?
 
@@ -55,7 +55,7 @@ Pernahkah kamu merasa sangat tertekan lalu memutuskan untuk menulis di jurnal at
 
 #### Mengapa Koping yang Sehat Itu Penting?
 
-Memiliki "kotak peralatan" koping yang sehat sangat penting karena:
+Memiliki "kotak peralatan" koping yang sehat penting karena:
 
 1. **Mencegah Akumulasi:** Stres yang tidak dikelola akan menumpuk seperti bunga utang di bank. Koping yang sehat membantu kita mencicil tekanan tersebut setiap hari.
 2. **Menjaga Kesehatan Fisik:** Stres kronis melepaskan hormon kortisol secara berlebihan. Koping membantu menenangkan sistem hormonal kita.
@@ -74,7 +74,7 @@ Mari kita lihat bagaimana perbedaan koping memengaruhi hasil akhir dalam situasi
 
 ### Langkah Selanjutnya
 
-Memahami bahwa stres adalah reaksi alami dan koping adalah keterampilan yang bisa dipelajari merupakan kunci utama manajemen diri. Stres bukan musuh untuk ditakuti, melainkan sinyal yang perlu dikelola dengan bijak.
+Memahami bahwa stres adalah reaksi alami dan koping adalah keterampilan yang bisa dipelajari merupakan dasar manajemen diri. Stres bukan musuh untuk ditakuti, melainkan sinyal yang perlu dikelola dengan bijak.
 
 Dalam bagian selanjutnya, kita akan menggali lebih dalam ke mesin di balik reaksi ini: **Sistem Saraf Kamu**. Kita akan mempelajari mengapa tubuh kamu terkadang merasa seperti sedang dikejar harimau, padahal kamu hanya sedang menghadapi tumpukan cucian atau email yang belum dibalas.
 

@@ -30,7 +30,7 @@ Satu catatan jujur: tenggat buatan sendiri hanya sekuat penegakannya. Kalau kamu
 
 ### Rencana jika-maka
 
-Pengikat luar punya keterbatasan: ia hanya menolong pada tugas yang sempat kamu pasangi tenggat. Cara kedua bekerja dari dalam dan jauh lebih murah. Gollwitzer (1999) menyebutnya *implementation intention*, atau rencana jika-maka. Bentuknya sederhana: "Whenever situation x arises, I will initiate goal-directed response y." Dalam bahasa kita: **jika** situasi tertentu terjadi, **maka** aku melakukan tindakan tertentu.
+Pengikat luar punya keterbatasan: ia hanya menolong pada tugas yang sempat kamu pasangi tenggat. Cara kedua bekerja dari dalam dan lebih murah. Gollwitzer (1999) menyebutnya *implementation intention*, atau rencana jika-maka. Bentuknya sederhana: "Whenever situation x arises, I will initiate goal-directed response y." Dalam bahasa kita: **jika** situasi tertentu terjadi, **maka** aku melakukan tindakan tertentu.
 
 Bedanya dengan niat biasa terletak pada siapa yang memegang kendali. Niat biasa mengandalkan kamu mengingat dan memutuskan di tengah kesibukan. Rencana jika-maka mendelegasikan kendali itu kepada isyarat situasi yang sudah kamu antisipasi, sehingga respons terpicu secara otomatis ketika isyaratnya muncul.
 

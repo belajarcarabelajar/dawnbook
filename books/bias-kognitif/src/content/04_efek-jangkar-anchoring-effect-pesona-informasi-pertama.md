@@ -2,7 +2,7 @@
 
 Pernahkah kamu bertanya-tanya mengapa toko ritel selalu mencoret harga tinggi dan menampilkan harga "diskon" di sampingnya? Atau mengapa dalam negosiasi gaji, pihak yang menyebutkan angka pertama kali sering kali memiliki kendali lebih besar atas hasil akhirnya?
 
-Selamat datang di dunia **Efek Jangkar (Anchoring Effect)**, salah satu bias kognitif yang paling kuat dan universal dalam memengaruhi keputusan manusia.
+Inilah **Efek Jangkar (Anchoring Effect)**, salah satu bias kognitif yang paling kuat dalam memengaruhi keputusan manusia.
 
 ## Apa Itu Efek Jangkar?
 
@@ -16,15 +16,15 @@ Bayangkan sebuah kapal di tengah laut yang menurunkan jangkar. Kapal tersebut ma
 
 Sama halnya dengan pikiran kita: ketika kita diberi sebuah angka (jangkar), estimasi atau keputusan kita mungkin berubah, tetapi jarang sekali kita bisa "berlayar" jauh meninggalkan pengaruh angka awal tersebut.
 
-## Kekuatan Angka Acak
+## Eksperimen Roda Angka
 
-Dua tokoh pionir psikologi kognitif, **Amos Tversky** dan **Daniel Kahneman**, mendemonstrasikan fenomena ini dalam sebuah eksperimen yang sangat terkenal.
+Dua tokoh pionir psikologi kognitif, **Amos Tversky** dan **Daniel Kahneman**, mendemonstrasikan fenomena ini dalam sebuah eksperimen yang terkenal.
 
 1. Mereka memutar sebuah "Roda Keberuntungan" (seperti roda *roulette*) yang diberi angka 1 hingga 100 di depan partisipan.
 2. Namun, roda tersebut telah dimanipulasi agar berhenti hanya di angka **10** atau **65**.
 3. Setelah roda berhenti, partisipan ditanya: "Berapakah persentase negara-negara Afrika di PBB?"
 
-**Hasilnya mencengangkan:**
+**Hasilnya:**
 
 - Kelompok yang melihat angka **10** memberikan estimasi rata-rata sekitar **25%**.
 - Kelompok yang melihat angka **65** memberikan estimasi rata-rata sekitar **45%**.
@@ -58,7 +58,7 @@ Secara matematis, hasilnya sama: $40.320$. Namun, karena waktu terbatas:
 
 *\*Bagaimana urutan informasi yang kamu terima di pagi hari (misalnya berita buruk vs berita baik) dapat menjangkarkan suasana hati kamu sepanjang sisa hari tersebut?\**
 
-## Aplikasi di Dunia Nyata
+## Jangkar di Menu Restoran, Negosiasi Gaji, dan Toko Grosir
 
 Efek Jangkar tidak hanya ada di teori laboratorium; ia adalah alat praktis yang digunakan setiap hari dalam berbagai industri.
 

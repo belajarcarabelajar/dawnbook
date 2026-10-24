@@ -1,6 +1,6 @@
 ## Fenomena Penangkapan Elektron (Electron Capture)
 
-Selamat datang di bagian yang cukup unik dalam perjalanan kita memahami peluruhan beta. Jika sebelumnya kita membahas bagaimana inti atom membuang sesuatu (seperti elektron atau positron) untuk mencapai kestabilan, kali ini kita akan melihat fenomena di mana inti atom justru mengambil sesuatu dari lingkungannya sendiri. Fenomena ini disebut **Penangkapan Elektron (Electron Capture)**.
+Di antara proses peluruhan beta, ada satu fenomena yang cukup unik, dan keunikannya baru terlihat jelas bila dibandingkan dengan proses sebelumnya. Jika sebelumnya kita membahas bagaimana inti atom membuang sesuatu (seperti elektron atau positron) untuk mencapai kestabilan, kali ini kita akan melihat fenomena di mana inti atom justru mengambil sesuatu dari lingkungannya sendiri. Fenomena ini disebut **Penangkapan Elektron (Electron Capture)**.
 
 ### Apa itu Penangkapan Elektron?
 
@@ -59,9 +59,9 @@ Proses perpindahan elektron ini menghasilkan dua fenomena deteksi yang sangat pe
 
 ### Penggunaan dalam Sains dan Medis
 
-Penangkapan elektron bukan sekadar teori fisika; ia memiliki kegunaan praktis yang luar biasa:
+Penangkapan elektron bukan sekadar teori fisika; ia memiliki kegunaan praktis:
 
-- **Diagnostik Medis (Isotop Iodium-123):** Isotop ${}^{123}\text{I}$ meluruh melalui penangkapan elektron menjadi ${}^{123}\text{Te}$. Proses ini memancarkan Sinar-X yang sangat berguna dalam pemindaian kelenjar tiroid tanpa memberikan dosis radiasi partikel (beta) yang merusak jaringan tubuh pasien.
+- **Diagnostik Medis (Isotop Iodium-123):** Isotop ${}^{123}\text{I}$ meluruh melalui penangkapan elektron menjadi ${}^{123}\text{Te}$. Proses ini memancarkan Sinar-X yang berguna dalam pemindaian kelenjar tiroid tanpa memberikan dosis radiasi partikel (beta) yang merusak jaringan tubuh pasien.
 
   **Persamaan:**
   <div>
@@ -72,7 +72,7 @@ Penangkapan elektron bukan sekadar teori fisika; ia memiliki kegunaan praktis ya
 
 - **Penanggalan Geologis (Kalium-Argon):** Salah satu cara untuk menentukan usia batuan purba adalah dengan melihat peluruhan Kalium-40 (${}^{40}\text{K}$) menjadi Argon-40 (${}^{40}\text{Ar}$) melalui penangkapan elektron. Karena Argon adalah gas, keberadaannya di dalam kristal batuan menunjukkan berapa lama waktu telah berlalu sejak batuan tersebut membeku.
 
-### Ringkasan Perbandingan
+### Beta Plus vs. Penangkapan Elektron
 
 | Fitur | Peluruhan Beta Plus ($\beta^+$) | Penangkapan Elektron (EC) |
 | --- | --- | --- |
@@ -81,4 +81,4 @@ Penangkapan elektron bukan sekadar teori fisika; ia memiliki kegunaan praktis ya
 | **Hasil Akhir** | Proton $\rightarrow$ Neutron | Proton $\rightarrow$ Neutron |
 | **Efek Samping** | Anihilasi Gamma | Sinar-X atau Elektron Auger |
 
-> **Insight Berharga:** Penangkapan elektron membuktikan betapa efisiennya alam semesta. Jika sebuah atom tidak mampu membayar biaya untuk membuang partikel (beta plus), ia akan menggunakan sumber daya yang sudah ada di sekitarnya (elektron orbital) untuk mencapai kedamaian atau stabilitas.
+> **Insight Berharga:** Penangkapan elektron adalah jalan lain menuju stabilitas. Jika sebuah atom tidak mampu membayar biaya untuk membuang partikel (beta plus), ia akan menggunakan sumber daya yang sudah ada di sekitarnya (elektron orbital).

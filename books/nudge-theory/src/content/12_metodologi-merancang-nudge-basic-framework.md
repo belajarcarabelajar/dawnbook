@@ -1,6 +1,6 @@
 ## Metodologi Merancang Nudge (BASIC Framework)
 
-Teori kini bertemu dengan praktik. Setelah memahami Sistem 1 dan Sistem 2, kekuatan *defaults*, hingga etika desain, langkah besar berikutnya adalah: **bagaimana cara merancang sebuah *nudge* secara sistematis?**
+Teori kini bertemu dengan praktik. Setelah memahami Sistem 1 dan Sistem 2, kekuatan *defaults*, hingga etika desain, langkah berikutnya adalah: **bagaimana cara merancang sebuah *nudge* secara sistematis?**
 
 Merancang intervensi perilaku tidak bisa mengandalkan tebakan atau insting semata. Agar menghasilkan perubahan yang efektif sekaligus etis, diperlukan kerangka kerja yang terstruktur. Di tingkat internasional, salah satu metodologi yang paling populer dan dikembangkan oleh OECD adalah **BASIC Framework**.
 

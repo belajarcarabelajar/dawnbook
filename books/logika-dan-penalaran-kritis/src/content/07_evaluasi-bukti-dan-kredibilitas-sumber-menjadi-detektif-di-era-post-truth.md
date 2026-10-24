@@ -1,12 +1,12 @@
 ## Evaluasi Bukti dan Kredibilitas Sumber
 
-Bayangkan kamu adalah seorang detektif yang berdiri di depan tumpukan berkas kasus. Beberapa berkas berisi kesaksian saksi mata yang jujur, namun yang lain berisi rumor tak berdasar atau bahkan kebohongan yang disengaja. Di era informasi digital ini, kita semua adalah detektif tersebut. Setiap hari, kita dibombardir oleh ribuan potongan data, berita, dan klaim.
+Bayangkan kamu adalah seorang detektif yang berdiri di depan tumpukan berkas kasus. Beberapa berkas berisi kesaksian saksi mata yang jujur, namun yang lain berisi rumor tak berdasar atau bahkan kebohongan yang disengaja. Di era informasi digital ini, kita semua adalah detektif tersebut. Setiap hari, kita menerima banyak potongan data, berita, dan klaim.
 
-Kemampuan untuk **mengevaluasi bukti** dan **menilai kredibilitas sumber** bukan lagi sekadar keterampilan akademis, melainkan survival skill untuk menjaga kewarasan dan integritas logika kita.
+Kemampuan untuk **mengevaluasi bukti** dan **menilai kredibilitas sumber** bukan lagi sekadar keterampilan akademis, melainkan kebutuhan sehari-hari untuk menjaga penalaran kita.
 
 ## 1. Memahami Bukti
 
-Bukti adalah segala sesuatu yang digunakan untuk mendukung atau membuktikan suatu klaim. Namun, tidak semua bukti diciptakan sama. Dalam penalaran kritis, kita harus membedakan kualitas bukti tersebut.
+Bukti adalah segala sesuatu yang digunakan untuk mendukung atau membuktikan suatu klaim. Namun, tidak semua bukti setara. Dalam penalaran kritis, kita harus membedakan kualitas bukti tersebut.
 
 ### Kualitas Bukti berdasarkan Hierarki
 
@@ -28,7 +28,7 @@ Dalam statistik, kita sering melihat nilai signifikansi untuk menentukan apakah 
 
 ## 2. Kredibilitas Sumber dan Metode CRAAP
 
-Bagaimana kita tahu sebuah sumber bisa dipercaya? Salah satu kerangka kerja yang paling efektif adalah **CRAAP method** (dikembangkan oleh California State University).
+Bagaimana kita tahu sebuah sumber bisa dipercaya? Salah satu kerangka kerja untuk menilainya adalah **CRAAP method** (dikembangkan oleh California State University).
 
 ### C - Currency
 
@@ -103,4 +103,4 @@ Dalam pengembangan AI, bukti (data) musti dievaluasi untuk menghindari bias. Jik
 
 Evaluasi bukti adalah tentang **skeptisisme yang sehat**, bukan sinisme. Sinisme berarti tidak percaya pada apa pun, sedangkan skeptisisme berarti menunda keyakinan sampai ada bukti yang memadai.
 
-> **Pesan Penutup:** Di dunia yang penuh dengan "deepfake" dan misinformasi, mata yang paling tajam bukanlah yang melihat paling banyak, tetapi yang melihat dengan paling kritis.
+> **Pesan Penutup:** Di dunia yang penuh dengan "deepfake" dan misinformasi, yang menentukan bukan seberapa banyak informasi yang kamu lihat, melainkan seberapa kritis kamu menilainya.

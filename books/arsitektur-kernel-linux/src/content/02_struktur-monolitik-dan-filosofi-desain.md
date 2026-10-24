@@ -1,8 +1,8 @@
 ## Struktur Monolitik dan Filosofi Desain
 
-Selamat datang di jantung dari sistem operasi Linux. Jika kita membayangkan sistem operasi sebagai sebuah negara, maka **Kernel** adalah pemerintah pusatnya. Namun, bagaimana pemerintah ini diorganisir? Apakah semua menteri bekerja dalam satu ruangan yang sama, atau mereka tersebar di kantor-kantor kecil yang terpisah? Inilah yang akan kita bahas dalam bagian **Struktur Monolitik dan Filosofi Desain**.
+Kernel adalah inti dari sistem operasi Linux. Jika kita membayangkan sistem operasi sebagai sebuah negara, maka **Kernel** adalah pemerintah pusatnya. Namun, bagaimana pemerintah ini diorganisir? Apakah semua menteri bekerja dalam satu ruangan yang sama, atau mereka tersebar di kantor-kantor kecil yang terpisah? Inilah yang akan kita bahas dalam bagian **Struktur Monolitik dan Filosofi Desain**.
 
-Linux menggunakan pendekatan arsitektur yang dikenal sebagai **Monolithic Kernel**. Meskipun terdengar "kuno" bagi sebagian akademisi di masa lalu, desain ini terbukti menjadi salah satu karya rekayasa perangkat lunak paling sukses di dunia.
+Linux menggunakan pendekatan arsitektur yang dikenal sebagai **Monolithic Kernel**. Meskipun terdengar "kuno" bagi sebagian akademisi di masa lalu, desain ini terbukti sukses.
 
 ## 1. Apa Itu Kernel Monolitik?
 
@@ -21,9 +21,9 @@ Bayangkan sebuah kantor besar tanpa sekat. Direktur (Manajemen Proses), Akuntan 
 - **High Performance:** Kinerja tinggi karena semua layanan berada di ruang yang sama, sehingga meminimalkan latensi komunikasi antar-komponen (IPC).
 - **Direct Hardware Access:** Kernel memegang kontrol penuh atas perangkat keras tanpa lapisan perantara yang memperlambat.
 
-## 2. Debat Klasik Monolitik vs. Mikrokernel
+## 2. Monolitik vs. Mikrokernel
 
-Dunia sistem operasi memiliki sejarah perdebatan terkenal antara Linus Torvalds (pencipta Linux) dan Andrew S. Tanenbaum (pencipta MINIX). Tanenbaum berpendapat bahwa masa depan sistem operasi adalah **Mikrokernel**, sedangkan Linus tetap mempertahankan pendekatan **Monolitik**.
+Sejarah sistem operasi mencatat perdebatan terkenal antara Linus Torvalds (pencipta Linux) dan Andrew S. Tanenbaum (pencipta MINIX). Tanenbaum berpendapat bahwa masa depan sistem operasi adalah **Mikrokernel**, sedangkan Linus tetap mempertahankan pendekatan **Monolitik**.
 
 | Fitur | Kernel Monolitik (Linux) | Mikrokernel (Mach, MINIX) |
 | --- | --- | --- |

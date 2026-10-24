@@ -47,7 +47,7 @@ Setiap simulasi harus mencatat waktu tempuh evakuasi, kepatuhan warga, dan titik
 
 ### 3. AI, IoT, dan Digital Twin
 
-Tiga gelombang teknologi akan mengubah EWS:
+Tiga perkembangan teknologi akan mengubah EWS:
 
 **Kecerdasan buatan untuk nowcasting.** Model machine learning dapat memprediksi hujan 1 sampai 2 jam ke depan dengan resolusi 1 km, lebih cepat dari model fisik konvensional. AI juga membantu memilah sinyal gempa dari derau industri.
 
@@ -57,6 +57,6 @@ Tiga gelombang teknologi akan mengubah EWS:
 
 Peringatan personal melalui cell broadcast yang menargetkan ponsel di area terdampak spesifik, bukan seluruh provinsi, akan mengurangi kelelahan peringatan dan meningkatkan kepatuhan.
 
-### 4. Jalan Menuju 2030
+### 4. Target 2030 bagi Indonesia
 
 Target Kerangka Sendai G adalah meningkatkan ketersediaan sistem peringatan dini multi ancaman untuk semua orang pada 2030. Untuk Indonesia, ini berarti memperluas cakupan ke wilayah timur, memastikan perawatan sensor berkelanjutan, dan memperkuat literasi warga agar teknologi diterima bukan ditakuti. Masa depan EWS bukan sekadar alat lebih canggih, melainkan ekosistem di mana data, regulasi, komunitas, dan teknologi saling menguatkan.

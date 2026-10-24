@@ -1,10 +1,10 @@
 ## Pengantar Perubahan Makna Kata
 
-Perubahan makna kata mencerminkan evolusi peradaban manusia melalui pergeseran nilai rasa, fungsi sosial, dan konteks penggunaan bahasa dari masa ke masa. Fenomena ini terlihat jelas ketika kata "bapak", yang mulanya bermakna hubungan kekerabatan biologis, meluas menjadi sebutan penghormatan bagi pria yang lebih tua atau berkedudukan tinggi. Demikian pula kata "pelayan" yang dalam konteks niaga modern kerap digantikan oleh istilah "pramuniaga" demi memberikan kesan yang lebih profesional.
+Perubahan makna kata mencerminkan perubahan masyarakat melalui pergeseran nilai rasa, fungsi sosial, dan konteks penggunaan bahasa dari masa ke masa. Fenomena ini terlihat jelas ketika kata "bapak", yang mulanya bermakna hubungan kekerabatan biologis, meluas menjadi sebutan penghormatan bagi pria yang lebih tua atau berkedudukan tinggi. Demikian pula kata "pelayan" yang dalam konteks niaga modern kerap digantikan oleh istilah "pramuniaga" demi memberikan kesan yang lebih profesional.
 
 Semantik sebagai cabang linguistik membedah bagaimana bahasa bekerja bukan sebagai struktur yang kaku, melainkan sebagai sistem dinamis yang terus bertransformasi seiring perkembangan masyarakat penuturnya.
 
-### Semantik sebagai Fondasi Makna
+### Pengertian Semantik
 
 Sebelum mendalami mekanisme pergeseran makna, pemahaman mengenai hakikat makna itu sendiri menjadi landasan utama. Semantik mengkaji relasi antara tanda kebahasaan (lambang) dengan konsep atau objek yang diwakilinya.
 
@@ -38,7 +38,7 @@ Nilai rasa merupakan asosiasi emosional, kultural, dan sosial yang melekat pada 
 | **Denotasi** | Makna literal, objektif, bebas dari muatan emosional langsung. | Kata "babi" merujuk secara biologis pada hewan mamalia berkuku genap dari famili Suidae. |
 | **Konotasi** | Makna tambahan, asosiatif, subjektif, dan bermuatan nilai sosial. | Kata "babi" memuat nilai rasa peyoratif berupa umpatan, asosiasi ketamakan, atau kekotoran. |
 
-> Pergeseran makna kosakata umumnya bermula dari perubahan konotasi yang berlangsung secara luas di tengah masyarakat tutur. Ketika konotasi baru tersebut terinstitusionalisasi secara konsisten, ia akan mengkristal menjadi makna denotatif yang baru dalam leksikon bahasa.
+> Pergeseran makna kosakata umumnya bermula dari perubahan konotasi yang berlangsung secara luas di tengah masyarakat tutur. Ketika konotasi baru tersebut terinstitusionalisasi secara konsisten, ia akan menjadi makna denotatif yang baru dalam leksikon bahasa.
 
 ### Faktor Pendorong Pergeseran Makna
 
@@ -69,6 +69,6 @@ Sebagai contoh, dalam bidang komunikasi organisasi dan manajemen sumber daya man
 
 ### Rangkuman dan Arah Pembahasan
 
-Bahasa bekerja sebagai cermin yang merefleksikan peradaban penuturnya. Setiap pergeseran makna mencatat sejarah pemikiran, perubahan norma, dan dinamika interaksi antarmanusia.
+Bahasa berubah bersama penuturnya. Pergeseran makna menyimpan jejak perubahan pemikiran, norma, dan cara orang berinteraksi.
 
 Dari kata-kata yang kamu pakai setiap hari, mana yang sedang naik nilai rasanya, dan mana yang perlahan turun?

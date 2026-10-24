@@ -1,12 +1,12 @@
 ## Relasi Antarmanusia
 
-Dalam perjalanan memahami eksistensialisme, kita sering terjebak pada pemikiran bahwa filosofi ini hanya tentang "diri sendiri": kebebasan individu, pilihan pribadi, dan kecemasan internal. Namun, manusia tidak hidup di ruang hampa. Kita adalah makhluk sosial yang dilemparkan ke dunia yang sudah penuh dengan orang lain.
+Dalam perjalanan memahami eksistensialisme, kita sering terjebak pada pemikiran bahwa filosofi ini hanya tentang "diri sendiri". Yang terbayang hanyalah kebebasan individu, pilihan pribadi, dan kecemasan internal. Namun, manusia tidak hidup di ruang hampa. Kita adalah makhluk sosial yang dilemparkan ke dunia yang sudah penuh dengan orang lain.
 
 Bagian ini akan mengeksplorasi dinamika yang rumit, terkadang menyakitkan, namun tak terhindarkan dalam hubungan sosial. Kita akan membedah mengapa kehadiran orang lain bisa terasa seperti ancaman bagi kebebasan kita, namun di saat yang sama, menjadi satu-satunya cermin untuk mengenali siapa diri kita sebenarnya.
 
 ## 1. "Tatapan" (The Look)
 
-Jean-Paul Sartre, salah satu tokoh utama eksistensialisme, memperkenalkan konsep yang sangat kuat bernama **"The Look" (Le Regard)**. Untuk memahaminya, mari kita bayangkan sebuah skenario:
+Jean-Paul Sartre, salah satu tokoh utama eksistensialisme, memperkenalkan konsep bernama **"The Look" (Le Regard)**. Untuk memahaminya, mari kita bayangkan sebuah skenario:
 
 > **Lubang Kunci** Bayangkan kamu sedang mengintip melalui lubang kunci sebuah pintu karena rasa penasaran yang besar. Pada momen itu, kamu adalah seorang **Subjek**. Kamu bebas, kamu yang menentukan arah pandangan, dan kamu merasa menjadi pusat dari dunia tersebut.
 > 
@@ -22,11 +22,11 @@ Perubahan perilaku saat seseorang yang dihormati atau dibenci memasuki ruangan m
 
 ## 2. "Neraka adalah Orang Lain"
 
-Kutipan Sartre yang paling terkenal, *"L'enfer, c'est les autres"* (Neraka adalah orang lain), sering kali disalahpahami sebagai ungkapan kebencian terhadap orang lain atau sifat antisosial. Namun, maknanya jauh lebih mendalam.
+Kutipan Sartre yang paling terkenal, *"L'enfer, c'est les autres"* (Neraka adalah orang lain), sering kali disalahpahami sebagai ungkapan kebencian terhadap orang lain atau sifat antisosial. Namun, maksud Sartre berbeda.
 
 Sartre tidak bermaksud mengatakan bahwa hubungan sosial selalu buruk. Ia ingin menunjukkan beberapa realitas hubungan kita dengan sesama. Pertama, ada penghakiman yang tidak bisa kita hindari dari penilaian orang lain. Kedua, kita terjebak dalam ketergantungan identitas; kita membutuhkan mereka untuk memahami diri sendiri, meskipun pandangan mereka sering kali menyempitkan atau keliru. Akhirnya, orang lain berfungsi sebagai cermin yang memaksa kita menghadapi bagian-bagian diri yang selama ini ingin kita sangkal.
 
-> **Sudut Pandang Utama:** Istilah "neraka" di sini tidak merujuk pada kejahatan orang lain. Ini menggambarkan kondisi ketika kita membiarkan diri menjadi **tawanan** dari persepsi mereka. Saat hubungan sosial memburuk, pandangan mereka otomatis menjelma menjadi penjara bagi kesadaran kita.
+> **Sudut Pandang Utama:** Istilah "neraka" di sini tidak merujuk pada kejahatan orang lain. Ini menggambarkan kondisi ketika kita membiarkan diri menjadi **tawanan** dari persepsi mereka. Saat hubungan sosial memburuk, pandangan mereka otomatis membatasi cara kita memandang diri sendiri.
 
 ## 3. Pencarian Pengakuan
 
@@ -50,7 +50,7 @@ Dalam hubungan **I-Thou**, alih-alih mencoba menguasai mereka, kita memilih memb
 
 ## Dinamika Media Sosial
 
-Di era digital, konsep "Tatapan" dan "Neraka adalah orang lain" menjadi sangat relevan.
+Di era digital, konsep "Tatapan" dan "Neraka adalah orang lain" menjadi relevan.
 
 Ambil contoh dinamika Instagram. Saat mengunggah foto, kamu sedang mencoba mengontrol bagaimana orang lain melihat dirimu dengan menciptakan representasi visual untuk dinilai. Konflik pun lahir saat kecemasan muncul ketika kamu terus-menerus menunggu jumlah tombol suka atau komentar sebagai bentuk pengakuan. Sisi buruknya, saat komentar negatif atau kesalahpahaman muncul, kamu merasa kebebasanmu untuk mendefinisikan diri sendiri telah dirampas oleh sudut pandang luar yang sempit.
 
@@ -58,6 +58,6 @@ Untuk menghadapinya secara eksistensial, langkah awal yang bisa diambil adalah m
 
 ## Menemukan Keseimbangan
 
-Relasi antarmanusia dalam pandangan eksistensialisme adalah tarian antara ketegangan dan kebutuhan. Kita akan selalu mengalami konflik karena setiap orang adalah subjek yang merdeka. Namun, melalui pengakuan yang tulus dan kesadaran akan tanggung jawab sosial, kita dapat mengubah "tatapan" yang menghakimi menjadi "kehadiran" yang menguatkan.
+Dalam pandangan eksistensialisme, relasi antarmanusia memuat ketegangan sekaligus kebutuhan. Kita akan selalu mengalami konflik karena setiap orang adalah subjek yang merdeka. Namun, melalui pengakuan yang tulus dan kesadaran akan tanggung jawab sosial, kita dapat mengubah "tatapan" yang menghakimi menjadi "kehadiran" yang menguatkan.
 
 Dalam hubungan terdekat sehari-hari, penting untuk menyadari apakah kita memperlakukan orang lain sebagai "Engkau" (sesama subjek yang bebas) atau sekadar sebagai "Itu" (alat untuk memenuhi ekspektasi kita).

@@ -23,9 +23,9 @@ Dalam pemetaan Gable dan Reis, penanggap aktif-konstruktif menunjukkan keterliba
 
 Dalam bacaan buku ini, cara seseorang menanggapi kabar baikmu bisa menjadi salah satu petunjuk rasa tanggap itu.
 
-### Pasangan yang Ikut Memahat Diri Idealmu
+### Pasangan yang Meneguhkan Diri Idealmu
 
-[Drigotas dan rekan (1999)](https://doi.org/10.1037/0022-3514.77.2.293) memberi nama yang indah pada gagasan berikut: *Michelangelo phenomenon* (fenomena Michelangelo). Menurut mereka, diri seseorang dibentuk oleh cara pasangan dekatnya memandang dan memperlakukannya. Gerak menuju diri ideal disebut sebagai hasil dari peneguhan (*affirmation*) oleh pasangan. Dalam empat studi, mereka menemukan kaitan yang kuat antara peneguhan yang dirasakan dari pasangan dan gerak diri menuju diri ideal. Peneguhan itu juga berkaitan dengan kesejahteraan dan kestabilan pasangan.
+[Drigotas dan rekan (1999)](https://doi.org/10.1037/0022-3514.77.2.293) menamai gagasan berikut *Michelangelo phenomenon* (fenomena Michelangelo). Menurut mereka, diri seseorang dibentuk oleh cara pasangan dekatnya memandang dan memperlakukannya. Gerak menuju diri ideal disebut sebagai hasil dari peneguhan (*affirmation*) oleh pasangan. Dalam empat studi, mereka menemukan kaitan yang kuat antara peneguhan yang dirasakan dari pasangan dan gerak diri menuju diri ideal. Peneguhan itu juga berkaitan dengan kesejahteraan dan kestabilan pasangan.
 
 Dalam penjelasan buku ini, orang yang meneguhkan melihat versi dirimu yang sedang kamu tuju, lalu memperlakukanmu seolah kamu bisa sampai ke sana.
 

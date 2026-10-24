@@ -1,6 +1,6 @@
 ## Metakognisi dalam Pemecahan Masalah
 
-Pemecahan masalah merupakan salah satu kemampuan paling mendasar yang kita pakai setiap hari, baik saat belajar, bekerja, maupun dalam urusan pribadi. Lalu, bagaimana caranya memastikan cara kita menghadapi masalah sudah tepat sasaran? Jawabannya ada pada **metakognisi**. Singkatnya, metakognisi adalah "berpikir tentang cara kita berpikir". Kemampuan ini melibatkan pemahaman sekaligus kontrol terhadap jalan pikiran kita sendiri, yang pada akhirnya menjadi kunci untuk memecahkan masalah dengan sistematis.
+Pemecahan masalah merupakan salah satu kemampuan paling mendasar yang kita pakai setiap hari, baik saat belajar, bekerja, maupun dalam urusan pribadi. Lalu, bagaimana caranya memastikan cara kita menghadapi masalah sudah tepat sasaran? Jawabannya ada pada **metakognisi**. Singkatnya, metakognisi adalah "berpikir tentang cara kita berpikir". Kemampuan ini melibatkan pemahaman sekaligus kontrol terhadap jalan pikiran kita sendiri, yang pada akhirnya membantu kita memecahkan masalah dengan sistematis.
 
 Saat menghadapi suatu masalah, metakognisi membuat kita bisa mencari solusi sekaligus merencanakan, memantau, dan mengevaluasi seluruh proses berpikir. Proses ini membuat kita tidak asal bertindak, tapi benar-benar mengerti apa dan kenapa kita melakukan suatu tindakan.
 
@@ -44,7 +44,7 @@ Begitu masalahnya jelas, sekarang waktunya menyusun rencana.
 
 ## 2\. Pemantauan Proses Berpikir
 
-Rencana yang matang belum tentu menjamin keberhasilan. Kamu juga harus rajin memantau perkembangan dan caramu berpikir di tengah proses penyelesaian masalah. Di sinilah letak kendali metakognitif yang sebenarnya.
+Rencana yang matang belum tentu menjamin keberhasilan. Kamu juga harus rajin memantau perkembangan dan caramu berpikir di tengah proses penyelesaian masalah. Pemantauan inilah bentuk kendali metakognitif.
 
 ### 2.1. Memantau Kemajuan
 
@@ -77,7 +77,7 @@ Ambil contoh rekaan program kasir sebuah toko yang seharusnya memberi diskon 10%
 
 ## 3\. Evaluasi Solusi dan Proses Pemecahan Masalah
 
-Setelah masalah kelar (atau minimal ada solusi yang sudah berjalan), tugas metakognitifmu belum selesai. Tahap evaluasi sangat penting sebagai bahan belajar ke depannya.
+Setelah masalah kelar (atau minimal ada solusi yang sudah berjalan), tugas metakognitifmu belum selesai. Tahap evaluasi penting sebagai bahan belajar ke depannya.
 
 ### 3.1. Menilai Efektivitas Solusi
 
@@ -87,14 +87,14 @@ Setelah masalah kelar (atau minimal ada solusi yang sudah berjalan), tugas metak
 
 ### 3.2. Refleksi dan Pembelajaran
 
-Di sinilah proses berpikir tingkat tinggi benar-benar diuji.
+Tahap ini menguji proses berpikir tingkat tinggi.
 
 - **Proses yang berhasil:** Apa saja yang berjalan lancar selama proses penyelesaian? Taktik mana yang paling pas?
 - **Area untuk perbaikan:** Bagian mana yang perlu diperbaiki untuk kesempatan berikutnya? Cara apa saja yang ternyata meleset?
 - **Pengetahuan yang diperoleh:** Hal baru apa yang didapatkan dari masalah tersebut, atau dari proses memecahkannya?
 - **Transfer pengetahuan:** Bagaimana pengalaman ini bisa dimanfaatkan saat menghadapi masalah lain nanti?
 
-*Coba renungkan:* Kalau kamu tidak pernah meluangkan waktu buat mengevaluasi langkahmu, kemungkinan besar kamu bakal mengulangi kesalahan yang sama. Proses merenung dan mengevaluasi inilah yang mengubah pengalaman menjadi sebuah pemahaman mendalam.
+*Coba renungkan:* Kalau kamu tidak pernah meluangkan waktu buat mengevaluasi langkahmu, kemungkinan besar kamu bakal mengulangi kesalahan yang sama. Proses merenung dan mengevaluasi inilah yang mengubah pengalaman menjadi pemahaman.
 
 **Contoh dalam Bisnis:** Sebuah tim pemasaran baru saja merilis kampanye iklan digital berskala besar.
 
@@ -107,4 +107,4 @@ Di sinilah proses berpikir tingkat tinggi benar-benar diuji.
 
 > **Catatan Penting:** Siklus perencanaan, pemantauan, dan evaluasi ini bentuknya tidak selalu garis lurus. Kadang kamu harus mundur ke tahap rencana walau sedang di tengah pemantauan, atau malah menemukan masalah baru saat mengevaluasi solusi. Fleksibilitas inilah yang menjadi kekuatan utamanya.
 
-Dengan memasukkan elemen metakognisi ke dalam cara kerjamu, kamu otomatis mengasah pola pikir yang lebih kritis, cepat tanggap, dan gesit. Semua ini jelas menjadi kemampuan yang sangat berharga untuk berbagai aspek kehidupan.
+Dengan memasukkan elemen metakognisi ke dalam cara kerjamu, kamu mengasah pola pikir yang lebih kritis dan cepat tanggap. Kemampuan ini berguna di berbagai aspek kehidupan.

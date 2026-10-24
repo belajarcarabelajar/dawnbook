@@ -1,23 +1,23 @@
 ## Pengenalan Sistem Modul Rust
 
-Menulis seluruh kode di dalam satu file `main.rs` mungkin terasa praktis saat kamu membangun aplikasi berskala kecil. Namun, bayangkan jika kamu harus mengembangkan sistem navigasi pesawat atau platform e-commerce raksasa. Menumpuk jutaan baris kode dalam satu file bukan hanya tidak efisien, melainkan juga resep utama menuju kekacauan.
+Menulis seluruh kode di dalam satu file `main.rs` mungkin terasa praktis saat kamu membangun aplikasi berskala kecil. Namun, bayangkan jika kamu harus mengembangkan sistem navigasi pesawat atau platform e-commerce besar. Menumpuk jutaan baris kode dalam satu file bukan hanya tidak efisien, melainkan juga membuat kode berantakan.
 
-Di sinilah Rust module system berperan sebagai arsitek kode. Fitur ini membantu kita memecah codebase yang kompleks menjadi bagian-bagian kecil yang lebih terkelola, logis, dan terstruktur.
+Di sinilah Rust module system berguna. Fitur ini membantu kita memecah codebase yang kompleks menjadi bagian-bagian kecil yang lebih terkelola, logis, dan terstruktur.
 
 ## Mengapa Kita Membutuhkan Module System?
 
-Bayangkan kamu bekerja di perpustakaan raksasa tanpa rak, tanpa kategori, dan tanpa label. Seluruh buku ditumpuk begitu saja di lantai. Meskipun kamu yakin buku yang kamu cari ada di tumpukan tersebut, proses mencarinya pasti akan memakan waktu lama.
+Bayangkan kamu bekerja di perpustakaan besar tanpa rak, tanpa kategori, dan tanpa label. Seluruh buku ditumpuk begitu saja di lantai. Meskipun kamu yakin buku yang kamu cari ada di tumpukan tersebut, proses mencarinya pasti akan memakan waktu lama.
 
 Kondisi serupa terjadi dalam pemrograman. Seiring bertambahnya fitur aplikasi, codebase akan menghadapi beberapa tantangan utama:
 
 - **Namespace Pollution dan Naming Collisions**
   Ketika proyek membesar, bentrokan nama fungsi sangat mungkin terjadi. Misalnya, fungsi `tambah()` pada modul kalkulator akan bertabrakan dengan fungsi `tambah()` untuk operasi database jika keduanya dideklarasikan di ruang lingkup global yang sama.
 - **Readability**
-  Membaca dan melacak alur logika di dalam satu file berisi ribuan baris sangat melelahkan dan membuang waktu.
+  Membaca dan melacak alur logika di dalam satu file berisi ribuan baris melelahkan dan membuang waktu.
 - **Privacy dan Encapsulation**
   Idealnya, tidak semua komponen kode bebas diakses dari mana saja. Logika internal yang sensitif harus disembunyikan agar terhindar dari modifikasi yang tidak disengaja oleh modul lain.
 
-> **Insight:** Module system tidak sekadar merapikan struktur file, tetapi juga memegang kendali penuh atas **scope** dan **privacy** kode kamu.
+> **Insight:** Module system tidak sekadar merapikan struktur file, tetapi juga mengatur **scope** dan **privacy** kode kamu.
 
 ## Package, Crate, dan Module
 
@@ -45,7 +45,7 @@ Selain mempermudah pengelompokan, module bertugas mengatur **visibility** (apaka
 
 ## Struktur Hierarki Module
 
-Rust menyusun kode melalui **module tree**. Struktur hierarki ini sangat mirip dengan sistem direktori folder di komputer kamu.
+Rust menyusun kode melalui **module tree**. Struktur hierarki ini mirip dengan sistem direktori folder di komputer kamu.
 
 Sebagai contoh, jika kita membangun sistem manajemen restoran, visualisasi module tree akan tampak seperti berikut:
 
@@ -112,6 +112,6 @@ Tabel berikut mempermudah pemahaman mengenai hubungan antarkonsep di atas:
 | **Module** | Ruang di dalam gedung | Mengelompokkan kode dan mengatur scope serta privacy |
 | **Path** | Rute navigasi (path) | Cara memanggil suatu item (contoh: `crate::math::add`) |
 
-Pembahasan berikutnya akan mengupas aspek teknis penggunaan kata kunci `mod` untuk mendeklarasikan module, serta mekanisme kontrol akses guna melindungi data internal.
+Pembahasan berikutnya akan membahas aspek teknis penggunaan kata kunci `mod` untuk mendeklarasikan module, serta mekanisme kontrol akses guna melindungi data internal.
 
-Memikirkan rancangan module tree sejak awal merupakan langkah awal yang krusial sebelum kamu menuliskan baris kode pertama pada software project yang akan dibangun.
+Memikirkan rancangan module tree sejak awal merupakan langkah awal yang penting sebelum kamu menuliskan baris kode pertama pada software project yang akan dibangun.

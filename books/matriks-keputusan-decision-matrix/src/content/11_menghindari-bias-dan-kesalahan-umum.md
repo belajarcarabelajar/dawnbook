@@ -1,6 +1,6 @@
 ## Menghindari Bias dan Kesalahan Umum dalam Matriks Keputusan
 
-Matriks keputusan sering kali dianggap sebagai alat bantu objektif karena menggunakan perhitungan matematis. Namun, satu rahasia penting yang perlu kamu pahami: **decision matrix hanya seakurat data dan kejujuran orang yang menyusun kriteria penilaian serta skor berbobot di dalamnya.**
+Matriks keputusan sering kali dianggap sebagai alat bantu objektif karena menggunakan perhitungan matematis. Namun, ada satu hal penting yang perlu kamu pahami: **decision matrix hanya seakurat data dan kejujuran orang yang menyusun kriteria penilaian serta skor berbobot di dalamnya.**
 
 Jika kamu memasukkan data yang bias atau penilaian subjektif secara berlebihan ke dalam matriks, hasil akhirnya tetaplah keputusan buruk yang dibungkus format tabel profesional (prinsip *Garbage In, Garbage Out*).
 
@@ -72,7 +72,7 @@ Jangan biarkan angka menjadi abstrak. Buatlah deskripsi untuk setiap angka dalam
 
 ### Blind Scoring (Penilaian Buta)
 
-Jika memungkinkan, mintalah rekan tim untuk memberikan skor pada alternatif tanpa memberi tahu mereka nama alternatif tersebut (misalnya, ganti nama vendor dengan "Vendor X" dan "Vendor Y"). Ini sangat efektif untuk melawan *Halo Effect*.
+Jika memungkinkan, mintalah rekan tim untuk memberikan skor pada alternatif tanpa memberi tahu mereka nama alternatif tersebut (misalnya, ganti nama vendor dengan "Vendor X" dan "Vendor Y"). Ini efektif untuk melawan *Halo Effect*.
 
 ### Libatkan Panel Penilai (Diversity of Thought)
 
@@ -96,7 +96,7 @@ Sebelum finalisasi, tanyakan pada diri sendiri: *"Jika keputusan ini ternyata sa
 
 Pernahkah kamu membuat matriks keputusan hanya untuk melegitimasi pilihan yang sebenarnya sudah kamu ambil sejak awal? Jika ya, kamu tidak sedang melakukan analisis, tetapi sekadar mencari pembenaran.
 
-## Ringkasan Checklist untuk Menghindari Bias
+## Daftar Periksa Anti-Bias
 
 | Langkah | Tindakan |
 | --- | --- |

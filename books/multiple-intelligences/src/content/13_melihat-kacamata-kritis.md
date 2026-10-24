@@ -1,8 +1,8 @@
-## Melihat Kacamata Kritis dari Para Ilmuwan
+## Pandangan Kritis Para Ilmuwan
 
 Sejauh ini, kamu telah mempelajari berbagai jenis kecerdasan yang diusulkan oleh Howard Gardner. Teori Kecerdasan Majemuk (*Multiple Intelligences*/MI) memang terdengar demokratis dan memberdayakan lewat gagasan bahwa semua orang cerdas dengan caranya sendiri. Namun, dalam dunia sains dan psikologi kognitif, sebuah teori diuji lewat bukti-bukti kuat yang mendukungnya, terlepas dari seberapa populer ide tersebut.
 
-Bagian ini akan mengajak kamu melihat sisi lain dari teori ini melalui kacamata kritis para ilmuwan. Kita akan membedah mengapa teori yang begitu dicintai di dunia pendidikan ini sering mendapat sorotan tajam di laboratorium psikologi.
+Bagian ini akan mengajak kamu melihat sisi lain dari teori ini melalui kacamata kritis para ilmuwan. Kita akan membedah mengapa teori yang populer di dunia pendidikan ini sering dikritik di laboratorium psikologi.
 
 ## 1. Masalah Validitas Empiris
 

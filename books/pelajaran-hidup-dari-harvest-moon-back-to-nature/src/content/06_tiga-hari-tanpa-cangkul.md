@@ -34,7 +34,7 @@ Gotz, si tukang kayu, bisa memperbesar kandang ayam, Barn, dan rumah, masing-mas
 
 Satu ranting hanya memberi satu potong kayu, satu tunggul enam, dan Panduan Prima memperkirakan kamu hanya sanggup mengumpulkan sekitar 45 potong sehari. Ranting dan tunggul di ladangmu sendiri hilang untuk selamanya begitu ditebang, sedangkan tunggul di luar ladang, misalnya di dekat Hot Spring, di Mother's Hill, dan di sekitar rumah Gotz, muncul lagi setiap hari di musim apa pun. Kayu juga bisa dibeli dari Gotz, tetapi jauh lebih mahal, jadi pilihannya tetap sama: bayar dengan uang, atau dengan hari-hari menebang. Kalau ditebang rutin, menurut perkiraan itu kayunya cukup untuk memperbesar dua bangunan atau lebih.
 
-### Harga dari Jalan yang Tidak Diambil
+### Biaya Peluang
 
 Ekonom menyebut harga tersembunyi ini biaya peluang (*opportunity cost*): nilai dari alternatif terbaik berikutnya yang kamu lepaskan ketika memutuskan sesuatu, rumusan yang dikutip [St. Louis Fed](https://www.stlouisfed.org/open-vault/2020/january/real-life-examples-opportunity-cost) dari Andrea Caceres-Santamaria (2019). Halaman itu juga memberi contoh yang kebetulan datang dari ladang. Petani yang memutuskan menanam gandum melepaskan jagung atau kedelai yang bisa ia tanam, juga cara lain memakai lahan dan peralatannya.
 

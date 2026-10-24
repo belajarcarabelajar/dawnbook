@@ -2,7 +2,7 @@
 
 Pernahkah kamu bertanya-tanya mengapa ada dua orang dengan bakat yang sama, namun mencapai hasil yang jauh berbeda? Atau mengapa kegagalan membuat sebagian orang terpuruk, sementara yang lain justru semakin terpacu? Jawabannya sering kali terletak pada *mindset* (pola pikir) mereka, bukan pada tingkat IQ atau faktor keberuntungan semata.
 
-Konsep *Growth Mindset* (Pola Pikir Berkembang), yang dipopulerkan oleh psikolog Stanford, Carol Dweck, telah merevolusi cara kita memahami kesuksesan, motivasi, dan ketahanan manusia, mulai dari dunia pendidikan, bisnis, hingga hubungan personal.
+Konsep *Growth Mindset* (Pola Pikir Berkembang), yang dipopulerkan oleh psikolog Stanford, Carol Dweck, telah memengaruhi cara kita memahami kesuksesan, motivasi, dan ketahanan manusia, mulai dari dunia pendidikan, bisnis, hingga hubungan personal.
 
 ### Dikotomi Fixed vs. Growth Mindset
 
@@ -30,7 +30,7 @@ Sebaliknya, individu dengan *growth mindset* percaya bahwa kemampuan dasar selal
 
 ### Landasan Ilmiah Neuroplastisitas
 
-Mengapa *growth mindset* secara ilmiah masuk akal? Jawabannya ada pada neuroplastisitas. Otak kita tidak seperti perangkat keras yang kaku. Organ ini merupakan jaringan dinamis yang sangat adaptif.
+Mengapa *growth mindset* secara ilmiah masuk akal? Jawabannya ada pada neuroplastisitas. Otak kita tidak seperti perangkat keras yang kaku. Organ ini merupakan jaringan dinamis yang adaptif.
 
 Setiap kali kita mempelajari hal baru atau memaksakan diri keluar dari zona nyaman, neuron-neuron di otak kita membentuk koneksi baru. Secara matematis, kita bisa menggambarkan pertumbuhan kapasitas ini sebagai fungsi dari usaha dan strategi:
 
@@ -40,7 +40,7 @@ $$
 
 Ketika kamu berlatih, "jembatan" antarneuron (sinapsis) menjadi lebih kuat dan lebih cepat.
 
-Bayangkan dampaknya: ketika kamu berkata, "Aku tidak bisa matematika," kamu sedang mematikan mesin pertumbuhan di otakmu. Namun, saat kamu berkata, "Aku belum bisa," kamu memberikan lampu hijau kepada neuron untuk mulai membangun koneksi baru.
+Bayangkan dampaknya: ketika kamu berkata, "Aku tidak bisa matematika," kamu sedang menutup kemungkinan untuk berkembang. Namun, saat kamu berkata, "Aku belum bisa," kamu membiarkan kemungkinan itu terbuka.
 
 ### Dampak Terhadap Ketahanan (Resilience)
 
@@ -54,7 +54,7 @@ Dalam *growth mindset*, kegagalan hanyalah sebuah peristiwa sementara. Pikiran m
 
 ### Aplikasi Nyata dan Skenario
 
-#### Skenario di Tempat Kerja
+#### Dua Sikap di Kantor
 
 **Situasi:** Andi dan Budi diberikan proyek baru yang sangat sulit dan menggunakan teknologi yang belum pernah mereka pelajari.
 

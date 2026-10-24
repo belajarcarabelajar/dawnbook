@@ -2,13 +2,13 @@
 
 Bayangkan kamu sedang merencanakan liburan impian ke pantai. kamu sudah membayangkan sinar matahari yang hangat, suara ombak yang menenangkan, dan es kelapa muda di tangan. Namun, begitu kamu tiba di bandara, penerbangan dibatalkan, koper kamu hilang, dan hujan badai diprediksi akan berlangsung seminggu penuh.
 
-Bagi kebanyakan orang, ini adalah resep untuk kemarahan dan frustrasi yang meledak-ledak. Namun bagi seorang Stoik, skenario ini sudah "dimainkan" di dalam kepala mereka jauh sebelum mereka berangkat. Inilah inti dari **Premeditatio Malorum**.
+Bagi kebanyakan orang, ini adalah resep untuk kemarahan dan frustrasi. Namun bagi seorang Stoik, skenario ini sudah "dimainkan" di dalam kepala mereka jauh sebelum mereka berangkat. Inilah inti dari **Premeditatio Malorum**.
 
 ## Apa itu Premeditatio Malorum?
 
 Secara etimologi, *Premeditatio Malorum* berasal dari bahasa Latin yang berarti **"pra-meditasi atas kemalangan"**. Ini adalah latihan mental di mana kita secara sengaja membayangkan rintangan, kesulitan, atau tragedi yang mungkin terjadi di masa depan.
 
-**Analogi Latihan Pemadam Kebakaran**
+**Latihan Pemadam Kebakaran**
 
 > Mengapa gedung-gedung melakukan latihan evakuasi kebakaran padahal tidak ada api? Karena ketika api benar-benar muncul, kepanikan adalah musuh terbesar. Latihan memungkinkan tubuh dan pikiran bergerak secara otomatis dan tenang. *Premeditatio Malorum* adalah latihan pemadam kebakaran untuk jiwa kamu.
 
@@ -20,7 +20,7 @@ Ada dua alasan psikologis utama mengapa teknik yang berusia ribuan tahun ini mas
 
 ### 1\. Menghilangkan Efek Kejut (The Element of Surprise)
 
-Seneca, salah satu filsuf Stoik terbesar, menulis:
+Seneca, salah satu filsuf Stoik, menulis:
 
 > "Sesuatu yang sudah diantisipasi sebelumnya akan datang dengan hantaman yang lebih ringan."
 
@@ -28,7 +28,7 @@ Penderitaan manusia sering kali bukan berasal dari kejadian itu sendiri, melaink
 
 ### 2\. Melawan Adaptasi Hedonik (Hedonic Adaptation)
 
-Sebagai manusia, kita sangat cepat terbiasa dengan hal-hal baik. Mobil baru, promosi jabatan, atau pasangan yang mencintai kita akan terasa "biasa saja" setelah beberapa bulan. Ini disebut adaptasi hedonik. *Premeditatio Malorum* memaksa kita membayangkan hidup *tanpa* hal-hal tersebut, yang secara instan memicu rasa syukur yang mendalam atas apa yang masih kita miliki saat ini.
+Sebagai manusia, kita sangat cepat terbiasa dengan hal-hal baik. Mobil baru, promosi jabatan, atau pasangan yang mencintai kita akan terasa "biasa saja" setelah beberapa bulan. Ini disebut adaptasi hedonik. *Premeditatio Malorum* memaksa kita membayangkan hidup *tanpa* hal-hal tersebut, yang memicu rasa syukur atas apa yang masih kita miliki saat ini.
 
 ## Panduan Langkah-Demi-Langkah Latihan
 
@@ -113,4 +113,4 @@ Banyak orang salah paham dan menganggap latihan ini sama dengan rasa cemas. Mari
 
 *Pikirkan satu hal yang paling kamu takuti terjadi minggu ini. Cobalah duduk tenang selama 2 menit, bayangkan hal itu benar-benar terjadi, dan lihatlah bagaimana karakter terbaik kamu (sabar, berani, atau bijaksana) bisa merespons situasi tersebut.*
 
-> **Pesan Utama:** Kita tidak bisa mengendalikan apa yang dilemparkan kehidupan kepada kita, tetapi kita bisa mengendalikan bagaimana kita mempersiapkan diri untuk menerimanya. Dengan berlatih menghadapi badai di dalam pikiran, kita menjadi pelaut yang tak tergoyahkan saat badai yang sebenarnya tiba di lautan kenyataan.
+> **Pesan Utama:** Kita tidak bisa mengendalikan apa yang dilemparkan kehidupan kepada kita, tetapi kita bisa mengendalikan bagaimana kita mempersiapkan diri untuk menerimanya. Dengan berlatih menghadapi kesulitan di dalam pikiran, kita lebih siap saat kesulitan itu benar-benar datang.

@@ -1,6 +1,6 @@
-# Pengantar Manajemen Kelas Proaktif
+## Pengantar Manajemen Kelas Proaktif
 
-Selamat datang di modul pertama dari perjalanan kamu menuju pengelolaan kelas yang lebih bermakna. Bayangkan sebuah ruang kelas di mana kamu tidak perlu berteriak untuk mendapatkan perhatian, tidak perlu terus-menerus menginterupsi pelajaran untuk menegur siswa, dan setiap menit yang kamu habiskan benar-benar digunakan untuk mengajar.
+Manajemen kelas proaktif berfokus pada persiapan yang mencegah gangguan sebelum muncul, bukan pada teguran setelah gangguan terjadi. Bayangkan sebuah ruang kelas di mana kamu tidak perlu berteriak untuk mendapatkan perhatian, tidak perlu terus-menerus menginterupsi pelajaran untuk menegur siswa, dan setiap menit yang kamu habiskan benar-benar digunakan untuk mengajar.
 
 Apakah ini hanya mimpi? Tentu tidak. Inilah yang menjadi inti dari **Manajemen Kelas Proaktif**.
 
@@ -56,16 +56,16 @@ Di mana:
 - **$R$**: Relasi (Hubungan guru-siswa yang positif)
 - **$K$**: Kurikulum yang Menarik (Keterlibatan aktif siswa)
 
-Jika salah satu variabel ini bernilai nol, maka potensi gangguan perilaku akan meningkat secara eksponensial.
+Jika salah satu variabel ini bernilai nol, maka potensi gangguan perilaku akan meningkat.
 
-## 4. Manfaat Jangka Panjang bagi Ekosistem Pembelajaran
+## 4. Manfaat Jangka Panjang bagi Guru dan Siswa
 
 Mengapa kamu harus meluangkan waktu ekstra di awal tahun ajaran untuk merancang strategi proaktif? Manfaatnya melampaui sekadar kelas yang tenang:
 
 1. **Meningkatkan Waktu Belajar Efektif (Academic Learning Time):** Setiap menit yang tidak digunakan untuk mendisiplinkan siswa adalah menit tambahan untuk eksplorasi materi.
 2. **Mengurangi Burnout Guru:** Guru yang proaktif merasa lebih memegang kendali dan memiliki tingkat stres yang lebih rendah karena mereka tidak terus-menerus berada dalam mode "siaga darurat".
 3. **Membangun Kemandirian Siswa:** Dalam lingkungan yang proaktif, siswa tahu persis apa yang diharapkan dari mereka. Ini membantu mereka mengembangkan keterampilan regulasi diri.
-4. **Keamanan Psikologis:** Siswa merasa lebih aman di kelas yang prediktif (mudah ditebak). Ketika siswa merasa aman, amigdala mereka tetap tenang, memungkinkan korteks prefrontal bekerja maksimal untuk berpikir kritis.
+4. **Keamanan Psikologis:** Siswa merasa lebih aman di kelas yang prediktif (mudah ditebak). Ketika siswa merasa aman, amigdala mereka tetap tenang, memberi ruang bagi korteks prefrontal untuk berpikir kritis.
 
 ## 5. Transisi Kelas Menuju Area Diskusi
 
@@ -73,7 +73,7 @@ Mari kita lihat perbedaan penerapan kedua pendekatan ini dalam situasi nyata.
 
 **Skenario:** Siswa harus berpindah dari kegiatan belajar di meja masing-masing ke area diskusi kelompok di lantai.
 
-**Pendekatan Reaktif:** Guru langsung berteriak, "Ayo pindah ke karpet!" Siswa mulai berlarian, ada yang mendorong teman, dan suasana menjadi sangat berisik. Guru kemudian harus menghabiskan 5 menit untuk berteriak "Diam!" dan mengancam akan mengurangi waktu istirahat sebelum diskusi bisa dimulai.
+**Pendekatan Reaktif:** Guru langsung berteriak, "Ayo pindah ke karpet!" Siswa mulai berlarian, ada yang mendorong teman, dan suasana menjadi berisik. Guru kemudian harus menghabiskan 5 menit untuk berteriak "Diam!" dan mengancam akan mengurangi waktu istirahat sebelum diskusi bisa dimulai.
 
 **Pendekatan Proaktif:**
 
@@ -92,6 +92,6 @@ Sebelum kita menyelami detail teknis pada bagian-bagian selanjutnya, mulailah de
 
 **Penting:** Manajemen kelas proaktif bukanlah tentang menjadi "guru yang kaku". Sebaliknya, struktur yang jelas memberikan kebebasan bagi siswa untuk berkreasi dalam batas-batas yang aman dan produktif.
 
-> **Insight Utama:** Manajemen kelas yang hebat seringkali tidak terlihat. Ketika seorang guru sangat proaktif, kelas tampak berjalan secara otomatis, seolah-olah "tidak ada manajemen" yang terjadi. Itulah puncak dari penguasaan strategi ini.
+> **Insight Utama:** Manajemen kelas yang baik seringkali tidak terlihat. Ketika seorang guru proaktif, kelas tampak berjalan secara otomatis, seolah-olah "tidak ada manajemen" yang terjadi.
 
 *Pada bagian selanjutnya, kita akan membedah bagaimana pengaturan lingkungan fisik kelas secara geometris dapat mempengaruhi perilaku siswa secara psikologis. Siap untuk menjadi Arsitek Kelas kamu?*

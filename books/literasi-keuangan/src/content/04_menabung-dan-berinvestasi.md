@@ -1,16 +1,16 @@
 ## Menabung dan Berinvestasi
 
-Memahami perbedaan antara menabung dan berinvestasi adalah fondasi awal dalam merencanakan keuangan. Keduanya punya peran spesifik untuk menjaga stabilitas finansial dan membantu kamu mencapai berbagai tujuan di masa depan. Menabung lebih fokus pada keamanan uang untuk keperluan jangka pendek, sementara investasi bertujuan menumbuhkan nilai aset jangka panjang guna melawan inflasi.
+Memahami perbedaan antara menabung dan berinvestasi adalah langkah awal dalam merencanakan keuangan. Keduanya punya peran spesifik untuk menjaga stabilitas finansial dan membantu kamu mencapai berbagai tujuan di masa depan. Menabung lebih fokus pada keamanan uang untuk keperluan jangka pendek, sementara investasi bertujuan menumbuhkan nilai aset jangka panjang guna melawan inflasi.
 
 ## Perbedaan Mendasar
 
 Meski sering dianggap sama, menabung dan berinvestasi memiliki cara kerja, tingkat risiko, dan hasil yang berbeda.
 
 **Menabung (Saving)**
-Ini adalah tindakan menyisihkan uang ke tempat yang aman dan mudah diakses seperti rekening bank. Fokus utamanya mengamankan dana untuk kebutuhan mendesak atau jangka pendek. Risikonya sangat rendah. Kelemahannya, imbal hasilnya juga kecil sehingga uang tabungan sering kali kalah oleh laju inflasi.
+Ini adalah tindakan menyisihkan uang ke tempat yang aman dan mudah diakses seperti rekening bank. Fokus utamanya mengamankan dana untuk kebutuhan mendesak atau jangka pendek. Risikonya rendah. Kelemahannya, imbal hasilnya juga kecil sehingga uang tabungan sering kali kalah oleh laju inflasi.
 
 **Berinvestasi (Investing)**
-Menempatkan uang pada aset tertentu dengan harapan nilainya bertambah di masa depan. Berbeda dari tabungan, investasi selalu membawa risiko fluktuasi nilai aset. Tetapi, potensi keuntungannya jauh lebih besar dan mampu mengungguli inflasi.
+Menempatkan uang pada aset tertentu dengan harapan nilainya bertambah di masa depan. Berbeda dari tabungan, investasi selalu membawa risiko fluktuasi nilai aset. Tetapi, potensi keuntungannya lebih besar dan mampu mengungguli inflasi.
 
 | Fitur | Menabung | Berinvestasi |
 | --- | --- | --- |
@@ -45,7 +45,7 @@ Memulai kebiasaan menabung butuh niat dan sistem yang konsisten agar uang benar-
 - **Sisihkan di Awal:** Biasakan memotong uang untuk ditabung segera setelah bayaran masuk. Jangan pernah menunggu sisa uang di akhir bulan.
 - **Bikin Rekening Terpisah:** Pisahkan dana tabungan dari rekening operasional agar uangnya aman dari godaan jajan.
 - **Pakai Autodebet:** Aktifkan fitur potong saldo otomatis dari rekening utama ke rekening tabungan.
-- **Mulai Berapapun Angkanya:** Nominal kecil jauh lebih baik daripada tidak sama sekali. Bangun dulu kebiasaannya.
+- **Mulai Berapapun Angkanya:** Nominal kecil lebih baik daripada tidak sama sekali. Bangun dulu kebiasaannya.
 
 ## Berbagai Pilihan Rekening Tabungan
 
@@ -70,7 +70,7 @@ Deposito sejatinya adalah simpanan berjangka di bank yang menjanjikan suku bunga
 ### 2. Obligasi
 Surat utang yang dirilis oleh negara atau perusahaan swasta. Posisimu adalah meminjamkan modal, lalu pihak penerbit akan membalasnya dengan kupon bunga rutin.
 - **Aliran Dana Tetap:** Pembayaran kupon rutin dikirimkan ke rekening kamu, entah tiap bulan atau per kuartal.
-- **Risiko Terukur:** Surat berharga dari pemerintah tergolong sangat minim risiko karena dijamin undang-undang. Sementara obligasi korporasi berisiko menyesuaikan kondisi keuangan perusahaannya.
+- **Risiko Terukur:** Surat berharga dari pemerintah tergolong minim risiko karena dijamin undang-undang. Sementara obligasi korporasi berisiko menyesuaikan kondisi keuangan perusahaannya.
 
 ### 3. Reksa Dana
 Wadah investasi di mana dana kamu akan dihimpun dengan uang investor lain, lalu dikelola langsung oleh ahlinya yang disebut Manajer Investasi (MI).
@@ -80,7 +80,7 @@ Wadah investasi di mana dana kamu akan dihimpun dengan uang investor lain, lalu 
 
 ## Tips Praktis Memulai Berinvestasi
 
-Jika dana daruratmu sudah beres, saatnya melangkahkan kaki mencoba instrumen investasi:
+Jika dana daruratmu sudah beres, saatnya mencoba instrumen investasi:
 
 1. **Sesuaikan Jangka Waktu:** Cocokkan produk yang dipilih dengan kapan uangnya mau dipakai. Kalau uang akan dipakai 2 tahun lagi, hindari masuk ke instrumen bergejolak seperti saham.
 2. **Ukur Toleransi Risiko:** Pastikan fluktuasi nilai aset sejalan dengan ketahanan mentalmu.
@@ -93,4 +93,4 @@ Jika dana daruratmu sudah beres, saatnya melangkahkan kaki mencoba instrumen inv
 
 Misalnya Santi (25) yang ingin membeli apartemen perdana 7 tahun ke depan, sembari merencanakan dana pensiun. 
 
-Untuk impian apartemen, ia memilih fokus memutar uangnya di deposito atau obligasi jangka pendek supaya nilai pokoknya lebih terjaga dari risiko pasar. Sedangkan untuk persiapan pensiunnya kelak, Santi mengalokasikan dananya ke reksa dana saham yang dirancang bertumbuh optimal di jangka panjang.
+Untuk impian apartemen, ia memilih fokus memutar uangnya di deposito atau obligasi jangka pendek supaya nilai pokoknya lebih terjaga dari risiko pasar. Sedangkan untuk persiapan pensiunnya kelak, Santi mengalokasikan dananya ke reksa dana saham yang dirancang untuk bertumbuh di jangka panjang.

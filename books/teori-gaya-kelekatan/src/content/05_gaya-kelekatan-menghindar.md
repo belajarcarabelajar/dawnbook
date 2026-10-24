@@ -6,13 +6,13 @@ Dalam spektrum teori kelekatan, tipe **Dismissive-Avoidant** (Menghindar-Menolak
 
 ## Memahami Esensi Dismissive-Avoidant
 
-Gaya kelekatan **Dismissive-Avoidant** ditandai dengan upaya aktif untuk menjaga jarak emosional. Bagi mereka, kemandirian adalah fondasi utama untuk merasa aman, jauh melampaui sekadar pilihan gaya hidup.
+Gaya kelekatan **Dismissive-Avoidant** ditandai dengan upaya aktif untuk menjaga jarak emosional. Bagi mereka, kemandirian adalah dasar rasa aman, bukan sekadar pilihan gaya hidup.
 
 **Wawasan Penting:** Inti dari gaya ini adalah pandangan positif terhadap diri sendiri ("Saya baik-baik saja"), tetapi memiliki pandangan skeptis terhadap ketergantungan pada orang lain ("Orang lain tidak bisa diandalkan atau hanya akan mengekang saya").
 
 ### Benteng dengan Parit yang Dalam
 
-Bayangkan sebuah kastil yang megah namun terisolasi. Di dalamnya, sang penghuni memiliki segalanya untuk bertahan hidup sendirian. Untuk mencegah orang asing masuk, mereka tidak hanya mengunci gerbang, tetapi juga membangun parit yang sangat dalam di sekelilingnya. Jika ada seseorang yang mencoba menyeberang, sang penghuni kastil akan segera menarik jembatan gantung. Mereka merasa lebih aman berada di dalam benteng sendirian daripada membiarkan seseorang masuk dan berisiko mengacaukan tatanan yang sudah mereka buat.
+Bayangkan sebuah kastil yang terisolasi. Di dalamnya, sang penghuni memiliki segalanya untuk bertahan hidup sendirian. Untuk mencegah orang asing masuk, mereka tidak hanya mengunci gerbang, tetapi juga membangun parit yang dalam di sekelilingnya. Jika ada seseorang yang mencoba menyeberang, sang penghuni kastil akan segera menarik jembatan gantung. Mereka merasa lebih aman berada di dalam benteng sendirian daripada membiarkan seseorang masuk dan berisiko mengacaukan tatanan yang sudah mereka buat.
 
 ## Bagaimana Pola Ini Terbentuk?
 
@@ -22,7 +22,7 @@ Gaya kelekatan ini biasanya berakar dari interaksi dengan pengasuh di masa kecil
 * **Penekanan Perasaan**: Anak dibiasakan untuk tidak cengeng. Saat mereka menangis atau menunjukkan kerentanan, respons yang diterima adalah teguran untuk diam atau tuntutan untuk lekas dewasa.
 * **Kemandirian Dini**: Pujian hanya datang ketika anak bisa menyelesaikan semuanya sendiri tanpa merepotkan siapa pun.
 
-Secara tidak sadar, anak tersebut mengambil kesimpulan logis: menunjukkan perasaan tidak akan mendapatkan respons yang dibutuhkan, mengandalkan orang lain hanya akan berujung pada penolakan, dan satu-satunya orang yang benar-benar bisa diandalkan adalah diri mereka sendiri.
+Secara tidak sadar, anak tersebut mengambil kesimpulan logis: menunjukkan perasaan tidak akan mendapatkan respons yang dibutuhkan, mengandalkan orang lain hanya akan berujung pada penolakan, dan satu-satunya orang yang bisa diandalkan adalah diri mereka sendiri.
 
 ## Ciri-Ciri Utama dan Perilaku
 
@@ -79,35 +79,3 @@ Menjadi seorang *Dismissive-Avoidant* bukanlah sebuah cacat karakter. Ini adalah
 | **Reaksi terhadap Stres** | Menarik diri, mengisolasi diri, menekan perasaan. |
 | **Kebutuhan Utama** | Kebebasan, otonomi, ruang pribadi. |
 | **Ketakutan Terbesar** | Kehilangan kemandirian, penolakan jika menunjukkan kerentanan. |
-
-## Hubungan Bernilai Tinggi Melampaui Basa-Basi
-
-Membangun relasi yang bermakna adalah sebuah seni sekaligus keterampilan sosial yang melibatkan kedalaman emosional, kejujuran, dan investasi waktu. Hubungan yang bernilai tinggi akan melampaui percakapan basa-basi (*small talk*) dan menyentuh aspek nilai hidup, impian, serta dukungan timbal balik.
-
-Berikut adalah beberapa pilar utama dalam membangun koneksi yang dalam:
-
-1. **Mendengarkan Aktif (Active Listening)**
-   Mendengarkan aktif berarti menangkap perasaan di balik kata-kata, bukan sekadar mendengar suaranya. Fokuslah sepenuhnya pada lawan bicara tanpa sibuk menyiapkan jawaban kamu berikutnya.
-2. **Kerentanan (Vulnerability)**
-   Menurut peneliti Brené Brown, kerentanan adalah jembatan utama untuk membangun koneksi. Hal ini berarti kamu berani menunjukkan diri apa adanya, termasuk ketakutan dan kegagalan yang kamu miliki, alih-alih terus-menerus menampilkan citra diri yang tampak sempurna.
-3. **Konsistensi dan Kehadiran**
-   Hubungan yang kuat dibangun melalui momen-momen kecil yang terakumulasi. Kehadiran saat dibutuhkan jauh lebih berharga daripada hadiah yang mahal.
-4. **Empati di Atas Simpati**
-   Empati melampaui simpati. Jika simpati hanya berupa rasa kasihan, empati menuntut kita untuk ikut merasakan apa yang dialami orang lain.
-
-> "Koneksi adalah energi yang tercipta di antara orang-orang ketika mereka merasa dilihat, didengar, dan dihargai." - Brené Brown
-
-## Menerapkan Rumus Relasi lewat Tindakan Nyata
-
-Untuk membantu kamu memvisualisasikan bagaimana sebuah hubungan tumbuh, kita bisa membayangkan sebuah persamaan sederhana tentang kedalaman relasi:
-
-$$
-\\text{Kedalaman Relasi} = \\frac{\\text{Waktu Berkualitas} \\times \\text{Keterbukaan}}{\\text{Ego}}
-$$
-
-Artinya, semakin besar keterbukaan dan waktu yang diberikan, semakin dalam pula relasinya. Namun, jika ego terlalu mendominasi, kedalaman tersebut akan berkurang.
-
-**Contoh Tindakan Nyata:**
-
-* **Ajukan pertanyaan terbuka**: Alih-alih bertanya "Apa kabarmu?", cobalah dengan "Apa hal yang paling membuatmu bersemangat minggu ini?"
-* **Apresiasi yang spesifik**: Alih-alih berkata "Terima kasih," cobalah dengan "Aku sangat menghargai caramu mendengarkanku tadi, itu membuatku merasa sangat didukung."

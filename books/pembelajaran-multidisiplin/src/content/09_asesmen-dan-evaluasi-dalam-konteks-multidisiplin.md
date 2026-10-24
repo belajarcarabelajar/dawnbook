@@ -36,7 +36,7 @@ Untuk menyusun rubrik terintegrasi yang baik, ada tiga karakteristik utama yang 
    Rubrik harus memuat kriteria yang menilai bagaimana peserta didik menggabungkan pengetahuan. Sebagai contoh, alih-alih sekadar mengukur "akurasi data ilmiah", kriteria penilaian juga mencakup "kemampuan menganalisis implikasi sosial dari temuan ilmiah tersebut".
 
 2. **Kriteria Menyeluruh (Holistik)**
-   Tolok ukur yang digunakan wajib menggambarkan kualitas penalaran multidisiplin peserta didik. Hal ini mencakup kecakapan memetakan sudut pandang yang berbeda, mengurai benang kusut masalah yang kompleks, serta merumuskan jalan keluar inovatif yang mempertimbangkan berbagai sisi.
+   Tolok ukur yang digunakan wajib menggambarkan kualitas penalaran multidisiplin peserta didik. Hal ini mencakup kecakapan memetakan sudut pandang yang berbeda, mengurai masalah yang kompleks, serta merumuskan jalan keluar inovatif yang mempertimbangkan berbagai sisi.
 
 3. **Deskriptor Kinerja yang Spesifik**
    Setiap tingkat pencapaian (seperti "Sangat Baik", "Cukup", atau "Perlu Perbaikan") didukung deskripsi indikator yang konkret. Penjelasan terperinci ini mempermudah pendidik dalam melihat sejauh mana peserta didik mampu mempraktikkan ilmu lintas bidang tersebut.
@@ -57,7 +57,7 @@ Portofolio merupakan dokumentasi terstruktur dari karya-karya peserta didik yang
 
 * **Melacak Rekam Jejak Perkembangan**: Kita bisa melihat langsung bagaimana cara berpikir peserta didik tumbuh dan bagaimana keahlian mereka dalam menghubungkan berbagai keilmuan semakin matang seiring waktu.
 * **Menghargai Setiap Proses**: Portofolio tidak hanya memajang hasil akhir. Draf kasar, coretan ide awal, catatan perbaikan, serta revisi dipajang untuk menunjukkan dinamika berpikir mereka.
-* **Wadah Karya yang Beragam**: Karya yang dikumpulkan bisa sangat variatif, mulai dari laporan penelitian ilmiah, desain visual, purwarupa digital, hingga refleksi personal.
+* **Wadah Karya yang Beragam**: Karya yang dikumpulkan bisa beragam, mulai dari laporan penelitian ilmiah, desain visual, purwarupa digital, hingga refleksi personal.
 * **Mengasah Kemampuan Refleksi**: Peserta didik diajak untuk merenungkan kembali bagaimana mereka menjembatani perbedaan teori antarbidang, mengatasi kendala teknis, serta mengambil hikmah dari seluruh proses belajar.
 
 Apa saja isi dari portofolio multidisiplin? Pada umumnya, dokumen ini memuat beberapa bagian penting:
@@ -81,7 +81,7 @@ Pertama, tugas yang diberikan bersifat kompleks dan otentik. Proyek dirancang se
 
 Kedua, proyek ini mengutamakan riset mendalam. Peserta didik didorong untuk mengumpulkan data, mencari referensi, dan menganalisis informasi dari berbagai sudut pandang disiplin ilmu secara mandiri.
 
-Selain itu, kolaborasi tim dan produk akhir yang nyata menjadi pilar utama:
+Selain itu, kolaborasi tim dan produk akhir yang nyata menjadi ciri utama:
 * **Kerja Sama Lintas Kepala**: Proyek kelompok memicu dialog antarpeserta didik dengan latar belakang pemikiran berbeda, sekaligus melatih kecerdasan emosional dan komunikasi mereka.
 * **Karya Nyata yang Terukur**: Hasil akhir proyek harus berwujud nyata, baik berupa purwarupa fisik, aplikasi digital, pameran publik, maupun laporan kebijakan.
 * **Penilaian Menyeluruh**: Evaluasi tidak hanya menyasar produk akhir tetapi juga prosesnya, seperti perencanaan, riset, kolaborasi, dan presentasi. Rubrik terintegrasi sering digunakan dalam PBE.
@@ -109,4 +109,4 @@ Sebagai gambaran, contoh rubrik asesmen proyek multidisiplin berikut hanya mempe
 | **Level 2 (Perlu Perbaikan)** | Disiplin terpisah dengan sedikit upaya integrasi | Solusi standar dengan sedikit inovasi | Komunikasi kurang jelas atau sulit dipahami audiens beragam |
 | **Level 1 (Belum Tercapai)** | Tidak ada integrasi disiplin | Solusi tidak inovatif atau tidak realistis | Komunikasi tidak efektif |
 
-> Pada akhirnya, asesmen dalam pembelajaran multidisiplin bertujuan untuk melihat bagaimana peserta didik merajut berbagai utas pengetahuan menjadi satu kesatuan pemahaman yang kokoh, lalu menggunakannya untuk menghadapi kerumitan dunia nyata.
+> Pada akhirnya, asesmen dalam pembelajaran multidisiplin bertujuan untuk melihat bagaimana peserta didik menggabungkan pengetahuan dari berbagai bidang menjadi pemahaman yang utuh, lalu menggunakannya untuk menghadapi masalah nyata yang rumit.

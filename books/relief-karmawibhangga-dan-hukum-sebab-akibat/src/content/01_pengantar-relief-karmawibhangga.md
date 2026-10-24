@@ -1,8 +1,8 @@
 ## Pengantar Relief Karmawibhangga
 
-Pernahkah kamu membayangkan sebuah "buku raksasa" yang terbuat dari batu, yang mencatat setiap detail perilaku manusia, mulai dari gosip di pasar hingga tindakan mulia seorang raja? Di dasar Candi Borobudur, terdapat sebuah mahakarya yang melakukan tepat hal tersebut.
+Pernahkah kamu membayangkan sebuah "buku raksasa" yang terbuat dari batu, yang mencatat setiap detail perilaku manusia? Catatan itu merentang dari gosip di pasar hingga tindakan mulia seorang raja. Di dasar Candi Borobudur, ada rangkaian relief yang melakukan hal itu.
 
-**Relief Karmawibhangga** adalah rangkaian panel cerita yang mengelilingi kaki candi. Namun, ada satu fakta unik: bagian ini tidak terlihat oleh mata wisatawan secara umum karena tertutup oleh struktur tambahan. Inilah pintu gerbang pertama untuk memahami dasar pemikiran Buddhis yang tertanam dalam arsitektur Borobudur.
+**Relief Karmawibhangga** adalah rangkaian panel cerita yang mengelilingi kaki candi. Namun, ada satu fakta unik: bagian ini tidak terlihat oleh mata wisatawan secara umum karena tertutup oleh struktur tambahan. Relief inilah titik awal untuk memahami dasar pemikiran Buddhis yang tertanam dalam arsitektur Borobudur.
 
 ## 1\. Apa Itu Karmawibhangga? (Definisi dan Etimologi)
 
@@ -30,7 +30,7 @@ Candi Borobudur dibangun dengan konsep **Triloka** (Tiga Dunia). Relief Karmawib
 
 ## 3\. Tujuan Utama Relief Karmawibhangga
 
-Mengapa para arsitek masa lalu (Wangsa Shailendra) bersusah payah memahat 160 panel relief yang sangat detail jika pada akhirnya bagian tersebut harus ditutup? Ada beberapa tujuan utama di balik keberadaannya:
+Mengapa para arsitek masa lalu (Wangsa Shailendra) bersusah payah memahat 160 panel relief yang rinci jika pada akhirnya bagian tersebut harus ditutup? Ada beberapa tujuan utama di balik keberadaannya:
 
 ### A. Sebagai Alat Didaktik (Pendidikan Moral)
 
@@ -44,16 +44,16 @@ Tujuan utamanya adalah menunjukkan bahwa tidak ada tindakan yang luput dari kons
 
 Relief ini menggambarkan siklus kelahiran kembali yang tak berujung. Dengan melihat gambaran neraka dan penderitaan, pengunjung diingatkan untuk segera memperbaiki perilaku agar bisa keluar dari siklus *Samsara*.
 
-## 4\. Cermin Retak dan Cermin Jernih
+## 4\. Analogi Cermin
 
 Untuk memahami konsep Karmawibhangga, bayangkan sebuah **cermin**.
 
 - Jika kamu berdiri di depan cermin sambil marah, wajah yang terpantul adalah wajah yang buruk rupa.
 - Jika kamu tersenyum, pantulannya pun akan menyenangkan.
 
-Relief Karmawibhangga adalah cermin raksasa bagi jiwa manusia. Apa pun yang kita "tanam" di depan cermin kehidupan, itulah yang akan dipantulkan kembali kepada kita.
+Relief Karmawibhangga adalah cermin bagi perbuatan manusia. Apa pun yang kita "tanam" di depan cermin itu, itulah yang akan dipantulkan kembali kepada kita.
 
-> "Apa yang kau tanam, itulah yang kau tuai." - Prinsip dasar yang diilustrasikan dalam setiap inci pahatan Karmawibhangga.
+> "Apa yang kau tanam, itulah yang kau tuai." - Prinsip dasar yang diilustrasikan dalam pahatan Karmawibhangga.
 
 ## 5\. Ringkasan Visual Panel
 
@@ -64,8 +64,8 @@ Meskipun terdiri dari 160 panel, secara umum struktur cerita di setiap panel Kar
 
 ## 6\. Relevansi Masa Kini
 
-Meskipun dipahat ribuan tahun lalu, pesan dari Pengantar Karmawibhangga ini sangat relevan dalam kehidupan modern:
+Meskipun dipahat berabad-abad lalu, pesan dari Pengantar Karmawibhangga ini relevan dalam kehidupan modern:
 
 - **Tanggung Jawab Pribadi**: Karma mengajarkan bahwa kita adalah arsitek dari nasib kita sendiri. Kita tidak bisa menyalahkan keberuntungan atau orang lain atas posisi kita saat ini jika itu adalah hasil dari pilihan masa lalu kita.
-- **Kesadaran Berperilaku (Mindfulness)**: Sebelum memposting komentar negatif di media sosial atau mengambil hak orang lain, ingatlah prinsip Karmawibhangga: setiap energi yang kita keluarkan akan kembali kepada kita dalam bentuk yang berbeda.
+- **Kesadaran Berperilaku (Mindfulness)**: Sebelum memposting komentar negatif di media sosial atau mengambil hak orang lain, ingatlah prinsip Karmawibhangga: setiap perbuatan yang kita lakukan akan kembali kepada kita dalam bentuk yang berbeda.
 - **Empati**: Memahami bahwa setiap orang sedang berjuang dengan "buah" dari perbuatan mereka sendiri dapat meningkatkan rasa kasih sayang kita terhadap sesama.

@@ -1,16 +1,16 @@
 ## Fasisme dan Propaganda Piala Dunia Italia 1934
 
-Selamat datang di salah satu bab paling kelam sekaligus penting dalam sejarah olahraga dunia. Jika kamu berpikir bahwa politisasi olahraga adalah fenomena modern, maka kisah Piala Dunia 1934 akan mengubah perspektifmu. Di sini, kita akan membedah bagaimana si kulit bundar diubah menjadi peluru ideologi oleh rezim fasis Benito Mussolini.
+Ada bab-bab kelam dalam sejarah olahraga dunia, dan kisah sepak bola Italia pada pertengahan 1930-an termasuk salah satunya. Jika kamu berpikir bahwa politisasi olahraga adalah fenomena modern, maka kisah Piala Dunia 1934 akan mengubah perspektifmu. Di sini, kita akan membedah bagaimana sepak bola dijadikan alat propaganda oleh rezim fasis Benito Mussolini.
 
-## Panggung bagi Si Diktator
+## Mussolini dan Sepak Bola
 
-Pada awal 1930-an, Italia berada di bawah cengkeraman ketat **Benito Mussolini**, sang *Il Duce*. Bagi Mussolini, sepak bola jauh melampaui permainan sebelas lawan sebelas di lapangan hijau. Olahraga ini adalah instrumen politik untuk membuktikan kejantanan, disiplin, dan keunggulan rasial bangsa Italia.
+Pada awal 1930-an, Italia berada di bawah kediktatoran **Benito Mussolini**, sang *Il Duce*. Bagi Mussolini, sepak bola jauh melampaui permainan sebelas lawan sebelas di lapangan hijau. Olahraga ini adalah instrumen politik untuk membuktikan kejantanan, disiplin, dan keunggulan rasial bangsa Italia.
 
 Piala Dunia 1934 adalah edisi kedua turnamen ini. Mussolini memastikan Italia memegang peran ganda: sebagai tuan rumah sekaligus tim yang mendominasi. Ini adalah prototipe pertama dari apa yang sekarang kita kenal sebagai *sportswashing*, yakni menggunakan acara olahraga besar untuk membersihkan citra rezim yang represif dan memamerkan kekuatan negara kepada dunia.
 
 ## Strategi Propaganda Mussolini
 
-Mussolini memahami bahwa untuk melegitimasi kekuasaannya secara internasional, ia membutuhkan pengakuan dari negara-negara Barat. Piala Dunia memberikan panggung global yang sempurna.
+Mussolini memahami bahwa untuk melegitimasi kekuasaannya secara internasional, ia membutuhkan pengakuan dari negara-negara Barat. Piala Dunia memberikan panggung global itu.
 
 ### 1. Infrastruktur sebagai Simbol Modernitas
 
@@ -69,7 +69,7 @@ Italia akhirnya memenangkan Piala Dunia 1934 setelah mengalahkan Cekoslowakia di
 
 ## Poin Penting
 
-Piala Dunia 1934 mengajarkan kita bahwa sepak bola tidak pernah steril dari politik. Di tangan seorang diktator seperti Mussolini, bola sepak berubah menjadi alat komunikasi massa yang sangat efektif untuk menanamkan ideologi fasisme.
+Piala Dunia 1934 mengajarkan kita bahwa sepak bola tidak pernah steril dari politik. Di tangan seorang diktator seperti Mussolini, bola sepak berubah menjadi alat komunikasi massa yang efektif untuk menanamkan ideologi fasisme.
 
 Meskipun Italia memang memiliki tim yang hebat secara teknis di bawah Vittorio Pozzo, bayang-bayang manipulasi politik dan tekanan rezim tetap menjadi noda yang tak terpisahkan dari trofi pertama *Azzurri* tersebut.
 

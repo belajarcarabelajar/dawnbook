@@ -1,6 +1,6 @@
-# Kesenjangan Modal Manusia dan Ketimpangan Ekonomi
+## Kesenjangan Modal Manusia dan Ketimpangan Ekonomi
 
-Pernahkah kamu membayangkan sebuah perlombaan lari di mana satu peserta memulai dari garis start yang bersih dan memakai sepatu lari mutakhir, sementara peserta lainnya harus memulai 100 meter di belakang dengan kaki telanjang? Dalam ekonomi, "garis start" ini adalah **Modal Manusia (Human Capital)**.
+Bayangkan sebuah perlombaan lari di mana satu peserta memulai dari garis start yang bersih dan memakai sepatu lari mutakhir. Peserta lainnya harus memulai 100 meter di belakang dengan kaki telanjang. Dalam ekonomi, "garis start" ini adalah **Modal Manusia (Human Capital)**.
 
 Kesenjangan modal manusia bukan hanya perbedaan angka di atas kertas. Hal ini menjadi akar penyebab melebarnya jurang antara kelompok mampu dan kurang mampu, serta terkonsentrasinya kesejahteraan di wilayah tertentu saja.
 
@@ -10,7 +10,7 @@ Kesenjangan modal manusia terjadi ketika individu atau kelompok tidak memiliki k
 
 > "Rendahnya investasi pada modal manusia menyebabkan produktivitas rendah, yang berujung pada pendapatan rendah, yang pada akhirnya membatasi kemampuan untuk berinvestasi pada modal manusia di masa depan."
 
-### Perpustakaan vs. Gudang Kosong
+### Dua Anak dengan Potensi yang Sama
 
 Bayangkan dua orang anak dengan potensi kecerdasan yang sama.
 
@@ -23,14 +23,14 @@ Meskipun keduanya memiliki "kapasitas otak" awal yang sama, **investasi** yang m
 | :--- | :--- | :--- | :--- |
 | **Fasilitas Belajar** | Perpustakaan lengkap & internet serat optik | Tanpa buku & internet tidak stabil | Perbedaan kapasitas literasi & teknologi |
 | **Asupan Nutrisi** | Protein tinggi & gizi seimbang | Gizi buruk (berisiko stunting) | Perbedaan daya tahan & perkembangan kognitif |
-| **Hasil Produktivitas** | Penguasaan keterampilan tinggi | Keterampilan dasar & terbatas | Upah kerja (*earnings*) berbeda eksponensial |
+| **Hasil Produktivitas** | Penguasaan keterampilan tinggi | Keterampilan dasar & terbatas | Upah kerja (*earnings*) berbeda jauh |
 
 ## 2. Kualitas Pendidikan di Atas Kuantitas
 
 Masalah utama dalam kesenjangan modal manusia saat ini tidak lagi sebatas "apakah anak sekolah atau tidak", melainkan **"apa yang mereka dapatkan di sekolah"**.
 
 - **Disparitas Kualitas:** Siswa di sekolah elit kota besar memiliki akses ke laboratorium STEM dan guru bersertifikasi internasional, sementara siswa di pelosok belajar di bangunan yang kurang layak dengan jumlah tenaga pengajar yang terbatas.
-- **The Digital Divide (Kesenjangan Digital):** Di era ekonomi pengetahuan, penguasaan teknologi adalah kunci. Ketidakmampuan mengakses perangkat digital menciptakan kelas sosial baru: mereka yang "cakap digital" dan mereka yang "terasing secara teknologi".
+- **The Digital Divide (Kesenjangan Digital):** Di era ekonomi pengetahuan, penguasaan teknologi menjadi syarat penting. Ketidakmampuan mengakses perangkat digital menciptakan kelas sosial baru: mereka yang "cakap digital" dan mereka yang "terasing secara teknologi".
 
 ### Representasi Matematis Ketimpangan Pendapatan
 
@@ -52,7 +52,7 @@ $$
 
 Jika kelompok mampu memiliki $q$ yang jauh lebih besar daripada kelompok kurang mampu, maka meskipun nilai $s$ (tahun sekolah) mereka sama, pendapatan $Y$ mereka akan menunjukkan perbedaan yang eksponensial.
 
-## 3. Kesehatan sebagai Fondasi Tersembunyi Produktivitas
+## 3. Kesehatan Menopang Produktivitas
 
 Kesehatan sering kali diabaikan dalam diskusi modal manusia, padahal ia adalah dasar dari segala bentuk pembelajaran.
 
@@ -69,13 +69,13 @@ Dampaknya bagi wilayah asal:
 2. Menurunnya insentif bagi perusahaan untuk berinvestasi di daerah tersebut karena kurangnya talenta.
 3. Melebarnya kesenjangan PDB antar wilayah.
 
-## 5. Warisan Tak Terlihat dalam Transmisi Intergenerasi
+## 5. Pewarisan Modal Manusia Antargenerasi
 
 Kesenjangan modal manusia cenderung bersifat turun-temurun. Orang tua yang memiliki modal manusia tinggi tidak hanya mewariskan uang, tetapi juga **Cultural Capital** (Modal Budaya).
 
 Mengapa anak dari keluarga profesional cenderung menjadi profesional juga? Hal ini terjadi bukan hanya karena faktor finansial, melainkan juga karena keterpaparan terhadap kosakata kompleks, cara berpikir kritis, dan jaringan sosial (*social networking*) sejak dini.
 
-> **Poin Penting:** Tanpa intervensi kebijakan yang tepat, modal manusia akan mengelompok (*cluster*) pada kelas sosial tertentu dan memperkaku struktur masyarakat, sehingga mobilitas vertikal menjadi sangat terbatas.
+> **Poin Penting:** Tanpa intervensi kebijakan yang tepat, modal manusia akan mengelompok (*cluster*) pada kelas sosial tertentu dan memperkaku struktur masyarakat, sehingga mobilitas vertikal menjadi terbatas.
 
 ## Perbandingan Wilayah Industri Maju dan Wilayah Terisolasi
 
@@ -95,7 +95,7 @@ Di wilayah yang hanya bergantung pada komoditas mentah tanpa investasi pada pend
 
 ## Dampak Pandemi Global terhadap Kesenjangan
 
-Pandemi COVID-19 memberikan gambaran nyata bagaimana kesenjangan modal manusia dapat melebar drastis dalam waktu singkat:
+Pandemi COVID-19 memberikan gambaran nyata bagaimana kesenjangan modal manusia dapat melebar dalam waktu singkat:
 
 1. **Siswa Mampu:** Melakukan pembelajaran daring dengan laptop pribadi, koneksi internet serat optik, serta pendampingan dari orang tua berpendidikan.
 2. **Siswa Kurang Mampu:** Mengalami *learning loss* (kehilangan kemampuan belajar) akibat keterbatasan perangkat, sinyal yang tidak memadai, atau keharusan membantu perekonomian keluarga.
@@ -108,6 +108,6 @@ $$
 $$
 </div>
 
-Di mana $r$ merupakan tingkat diskonto (*discount rate*) masa depan. Persamaan ini menunjukkan bahwa ketimpangan akumulasi modal manusia hari ini merupakan ancaman serius bagi ketimpangan ekonomi jangka panjang.
+Di mana $r$ merupakan tingkat diskonto (*discount rate*) masa depan. Persamaan ini menunjukkan bahwa ketimpangan akumulasi modal manusia hari ini dapat memperbesar ketimpangan ekonomi jangka panjang.
 
-*Refleksi untuk kamu:* Jika modal manusia adalah kunci kesejahteraan, apakah menurut kamu memberikan beasiswa saja sudah cukup untuk menghapus ketimpangan? Ataukah kita perlu memperbaiki infrastruktur kesehatan sejak bayi masih dalam kandungan untuk menciptakan kesetaraan kesempatan yang nyata?
+*Refleksi untuk kamu:* Jika modal manusia menentukan kesejahteraan, apakah menurut kamu memberikan beasiswa saja sudah cukup untuk menghapus ketimpangan? Ataukah kita perlu memperbaiki infrastruktur kesehatan sejak bayi masih dalam kandungan untuk menciptakan kesetaraan kesempatan yang nyata?

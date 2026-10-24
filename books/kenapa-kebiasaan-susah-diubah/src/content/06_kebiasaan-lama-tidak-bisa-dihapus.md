@@ -6,7 +6,7 @@ Sekarang bayangkan pihak kampus menutup jalur itu dengan pagar kecil dan papan l
 
 Jawaban untuk pertanyaan kedua itu kurang menyenangkan tapi wajib diterima: kebiasaan lama tidak bisa dihapus dari otak. Kata "hapus" ada di kamus kita, tapi tidak ada di kamus otak. Yang ada hanyalah jejak yang menetap, pemicu yang bisa dikelola, dan strategi yang jauh lebih cerdas daripada perang terbuka.
 
-### Jejak yang menetap, bukan berkas yang terhapus
+### Asosiasi konteks dan respons tidak terhapus
 
 Kabar yang perlu kamu terima adalah ini: kebiasaan tersimpan di otak sebagai asosiasi antara konteks dan respons, dibentuk oleh pengulangan yang diikuti imbalan. Begitulah Wood dan Rünger (2016) merangkum puluhan tahun riset kebiasaan. Ketika kamu berulang kali melakukan hal yang sama di situasi yang sama dan mendapat hasil yang menyenangkan, otak mengaitkan situasi itu dengan tindakan itu. Satu kaitan, lalu ribuan kaitan serupa, sampai yang terbentuk bukan lagi keputusan, tapi refleks: bertemu konteks, tubuh bergerak.
 
@@ -22,23 +22,23 @@ Dalam tinjauan terhadap 136 studi empiris, Gardner (2015) menjelaskan kebiasaan 
 
 Artinya, menahan kebiasaan setelah terpicu adalah perang yang sistemnya tidak adil. Di satu sisi ada refleks yang berjalan instan dan gratis. Di sisi lain ada usaha sadar yang butuh energi dan perhatian. Kamu bisa menang beberapa ronde, tapi kalau pertarungannya dijadwalkan setiap malam jam sepuluh, kamu tahu ronde mana yang paling sering kalah.
 
-Ilustrasinya begini (ini ilustrasi, bukan data riset): menahan diri untuk tidak menyantap keripik yang tersimpan di lemari dapur itu butuh keputusan kecil yang berulang setiap kamu lewat. Sedangkan memutuskan untuk tidak membeli keripik saat belanja itu hanya butuh satu keputusan, sekali sepekan. Konten kemauannya sama, tapi tagihannya sangat berbeda. Mencegah terpicu itu jauh lebih murah daripada menahan setelah terpicu, dan perbedaan harga inilah yang akan jadi fondasi strategi di sisa buku ini.
+Ilustrasinya begini (ini ilustrasi, bukan data riset): menahan diri untuk tidak menyantap keripik yang tersimpan di lemari dapur itu butuh keputusan kecil yang berulang setiap kamu lewat. Sedangkan memutuskan untuk tidak membeli keripik saat belanja itu hanya butuh satu keputusan, sekali sepekan. Konten kemauannya sama, tapi tagihannya berbeda. Mencegah terpicu itu jauh lebih murah daripada menahan setelah terpicu, dan perbedaan harga inilah yang akan jadi fondasi strategi di sisa buku ini.
 
 ### Kebiasaan tidur, bukan kebiasaan mati
 
 Kalau jejaknya tidak bisa dihapus, lalu apa yang terjadi pada kebiasaan yang sudah lama tidak dijalankan? Jawabannya: ia tidur.
 
-Bukti bahwa jejak hanya terkubur, bukan terhapus, datang dari studi Wood, Tam, dan Guerrero Witt (2005). Mereka mengikuti mahasiswa yang pindah ke universitas baru. Temuannya menarik: di lingkungan yang berubah total, daya dorong kebiasaan lama merosot, dan perilaku mereka diarahkan oleh niat, bukan kebiasaan. Kebiasaan lama itu tidak dilenyapkan dari otak mereka selama pindah kampus. Ia hanya kehilangan panggilannya, karena konteks yang biasa memanggilnya tidak ada lagi.
+Bukti bahwa jejak hanya terkubur, bukan terhapus, datang dari studi Wood, Tam, dan Guerrero Witt (2005). Mereka mengikuti mahasiswa yang pindah ke universitas baru. Temuannya menarik: di lingkungan yang berubah, daya dorong kebiasaan lama merosot, dan perilaku mereka diarahkan oleh niat, bukan kebiasaan. Kebiasaan lama itu tidak dilenyapkan dari otak mereka selama pindah kampus. Ia hanya kehilangan panggilannya, karena konteks yang biasa memanggilnya tidak ada lagi.
 
 Dan panggilan itu bisa datang lagi. Ini ilustrasi yang sering muncul dalam kisah nyata berhenti merokok, sekadar ilustrasi dan bukan data riset: seseorang sudah setahun bersih dari rokok, niatnya kuat, identitas barunya sudah terasa asli. Lalu di suatu sore ia berkumpul dengan teman lama di tempat yang sama seperti zaman dulu, dan tanpa rencana apa pun, satu tarikan terjadi. Tidak karena niatnya lemah. Pemicu lama muncul lagi dalam bentuk utuhnya, dan jejak yang tidur setahun itu bangun secepat jalur tanah yang kembali diinjak.
 
-Sisi gelap kebiasaan yang tidur ini perlu kamu cermati, bukan untuk menakuti, tapi untuk merencanakan. Ia mengajarkan dua hal. Pertama, jangan uji dirimu dengan sengaja berkunjung ke konteks lama sembari mengandalkan kemauan; itu mengundang kebiasaan tidur untuk bangun. Kedua, kambuh bukan bukti kamu orang yang gagal atau munafik. Ia konsekuensi wajar dari jejak yang tidak pernah hilang. Membaca kambuh sebagai kegagalan moral hanya membuat kamu berhenti lebih awal, padahal yang perlu dilakukan tinggal memperbaiki pengelolaan pemicunya.
+Sifat kebiasaan yang tidur ini perlu kamu cermati, bukan untuk menakuti, tapi untuk merencanakan. Ia mengajarkan dua hal. Pertama, jangan uji dirimu dengan sengaja berkunjung ke konteks lama sembari mengandalkan kemauan; itu mengundang kebiasaan tidur untuk bangun. Kedua, kambuh bukan bukti kamu orang yang gagal atau munafik. Ia konsekuensi wajar dari jejak yang tidak pernah hilang. Membaca kambuh sebagai kegagalan moral hanya membuat kamu berhenti lebih awal, padahal yang perlu dilakukan tinggal memperbaiki pengelolaan pemicunya.
 
-### Mengelola arena, bukan memerangi kebiasaan
+### Mengelola konteks, imbalan, dan rencana
 
 Kalau kamu merasa kabar bab ini berat, tahan dulu. Justru karena kebiasaan tidak bisa dihapus, strategi yang pintar bukan memeranginya, melainkan mengelola arena tempat ia muncul. Tiga tuas yang disebut Wood dan Rünger (2016), yaitu konteks, imbalan, dan perencanaan, adalah daftar kerja yang konkret: jauhi konteks yang memanggil, pastikan kebiasaan pengganti memberi imbalan yang layak, dan rencanakan responsmu sebelum pemicu datang.
 
-Ada satu kabar baik lagi. Meski jejak lama tidak bisa dicabut, kebiasaan baru bisa tumbuh di jalur yang berdampingan dengannya, dan ketika keduanya terpicu di momen yang sama, kamu bisa membuat jalur baru yang lebih mudah dilalui. Prinsipnya sederhana dan akan kita bedah tuntas di bab kesepuluh: pertahankan pemicu dan imbalannya, ganti rutinitasnya. Mengganti ternyata jauh lebih realistis daripada menghapus.
+Ada satu kabar baik lagi. Meski jejak lama tidak bisa dicabut, kebiasaan baru bisa tumbuh di jalur yang berdampingan dengannya, dan ketika keduanya terpicu di momen yang sama, kamu bisa membuat jalur baru yang lebih mudah dilalui. Prinsipnya sederhana dan akan kita bahas di bab kesepuluh: pertahankan pemicu dan imbalannya, ganti rutinitasnya. Mengganti ternyata jauh lebih realistis daripada menghapus.
 
 Untuk sekarang, cukup simpan satu kalimat: kebiasaan lama tidak kalah oleh perang, ia kalah oleh tata kelola. Dan tata kelola itu dimulai dari tempat yang paling sering diremehkan, yaitu lingkungan di sekitarmu.
 

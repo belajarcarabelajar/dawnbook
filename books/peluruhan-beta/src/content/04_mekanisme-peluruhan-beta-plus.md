@@ -2,7 +2,7 @@
 
 Pernahkah terbayang bahwa di dalam inti atom, sebuah partikel bisa berubah identitasnya demi mencapai ketenangan atau stabilitas? Jika pada peluruhan Beta Minus ($\beta^-$) kita melihat neutron berubah menjadi proton, maka **Peluruhan Beta Plus ($\beta^+$)** adalah kebalikannya, sebuah proses transmutasi yang melibatkan kemunculan antimateri.
 
-Dalam bagian ini, kita akan membongkar bagaimana sebuah proton yang merasa sesak di dalam inti atom memutuskan untuk melepaskan muatan positifnya dan berubah menjadi neutron, serta apa dampaknya bagi dunia medis modern.
+Dalam bagian ini, kita akan melihat bagaimana sebuah proton di dalam inti yang kaya proton melepaskan muatan positifnya dan berubah menjadi neutron, serta apa dampaknya bagi dunia medis modern.
 
 ### 1. Apa itu Peluruhan Beta Plus?
 
@@ -16,7 +16,7 @@ Peluruhan Beta Plus, yang juga dikenal sebagai **emisi positron**, terjadi pada 
 
 > **Analogi Sederhana:** Bayangkan sebuah bus (inti atom) yang terlalu penuh dengan penumpang berbaju merah (proton) sehingga suasana menjadi panas karena gaya tolak-menolak. Untuk menstabilkan suasana, salah satu penumpang berbaju merah melepas jaket merahnya (muatan positif) dan berubah menjadi penumpang berbaju biru (neutron) yang lebih tenang. Jaket merah tersebut dilempar keluar jendela bus sebagai **positron**.
 
-### 2. Persamaan Reaksi Nuklir
+### 2. Persamaan Peluruhan Beta Plus
 
 Secara matematis dan fisik, proses ini dapat dituliskan dalam persamaan berikut:
 
@@ -54,10 +54,10 @@ Secara alami, sesuatu yang ringan sulit berubah menjadi sesuatu yang lebih berat
 
 Positron adalah **antimateri**. Di dunia yang didominasi oleh materi (elektron), positron tidak akan bertahan lama. Segera setelah terpancar dari inti atom, positron akan bertemu dengan elektron bebas di sekitarnya.
 
-Ketika materi (elektron) bertemu antimateri (positron), terjadi peristiwa dahsyat yang disebut **Anihilasi (Pemusnahan)**:
+Ketika materi (elektron) bertemu antimateri (positron), terjadi peristiwa yang disebut **Anihilasi (Pemusnahan)**:
 
 1. Kedua partikel saling melenyapkan.
-2. Seluruh massa mereka diubah total menjadi energi murni sesuai rumus $E = mc^2$.
+2. Seluruh massa mereka diubah menjadi energi sesuai rumus $E = mc^2$.
 3. Energi ini dipancarkan dalam bentuk dua foton sinar gamma ($\gamma$) yang bergerak ke arah yang berlawanan ($180^\circ$).
 
 <div>
@@ -66,9 +66,9 @@ e^+ + e^- \rightarrow \gamma + \gamma
 $$
 </div>
 
-### 5. Keajaiban PET Scan
+### 5. PET Scan
 
-Pengetahuan tentang peluruhan $\beta^+$ bukan sekadar teori fisika kuantum yang abstrak. Teknologi ini menyelamatkan ribuan nyawa setiap hari melalui **PET Scan (Positron Emission Tomography)**.
+Pengetahuan tentang peluruhan $\beta^+$ bukan sekadar teori fisika kuantum yang abstrak. Pengetahuan ini dipakai dalam **PET Scan (Positron Emission Tomography)**.
 
 **Skenario Penggunaan:**
 
@@ -76,7 +76,7 @@ Pengetahuan tentang peluruhan $\beta^+$ bukan sekadar teori fisika kuantum yang 
 2. Tracer ini menempel pada sel-sel kanker yang sangat aktif mengonsumsi glukosa.
 3. Di dalam tubuh, ${}^{18}\text{F}$ meluruh dan memancarkan **positron**.
 4. Positron bertemu elektron dalam tubuh, terjadi **anihilasi**, dan memancarkan sinar gamma.
-5. Detektor di sekeliling pasien menangkap sinar gamma ini untuk memetakan lokasi kanker secara presisi dalam bentuk gambar 3D.
+5. Detektor di sekeliling pasien menangkap sinar gamma ini untuk memetakan lokasi kanker dalam bentuk gambar 3D.
 
 ### 6. Contoh Perhitungan Sederhana
 
@@ -95,7 +95,7 @@ $$
 - **Hasil:** Unsur dengan $Z=5$ adalah Boron.
 - **Partikel Tambahan:** Positron dilepaskan ke lingkungan, dan neutrino membawa sisa energi kinetik.
 
-### Ringkasan Cepat
+### Rekap Peluruhan Beta Plus
 
 | Komponen | Perubahan / Peran |
 | --- | --- |
@@ -106,4 +106,4 @@ $$
 | **Syarat Terjadi** | Inti kaya proton (rasio $N/Z$ rendah) |
 | **Efek Lanjutan** | Anihilasi positron menghasilkan sinar gamma |
 
-> **Poin Penting:** Peluruhan Beta Plus adalah cara alam semesta menyeimbangkan kelebihan muatan positif pada inti atom dengan menciptakan antimateri sebagai produk sampingannya.
+> **Poin Penting:** Peluruhan Beta Plus adalah cara inti atom menyeimbangkan kelebihan muatan positif pada inti atom dengan menciptakan antimateri sebagai produk sampingannya.

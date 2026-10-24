@@ -1,12 +1,12 @@
 ## Sejarah dan Latar Belakang Intelektual
 
-Selamat datang di perjalanan melintasi waktu. Untuk memahami mengapa sistem **Laissez-faire** begitu dominan dalam pemikiran ekonomi modern, kita harus kembali ke abad ke-18. Ini adalah masa di mana dunia sedang bertransformasi, beralih dari kekuasaan monarki yang absolut menuju fajar pencerahan intelektual.
+Untuk memahami mengapa sistem **Laissez-faire** begitu dominan dalam pemikiran ekonomi modern, kita harus kembali ke abad ke-18. Ini adalah masa di mana dunia sedang berubah, beralih dari kekuasaan monarki yang absolut menuju zaman pencerahan intelektual.
 
-Ide bahwa pemerintah harus "lepas tangan" tidak muncul begitu saja. Ia lahir sebagai bentuk pemberontakan intelektual terhadap sistem **Merkantilisme** yang mencekik, di mana negara mengontrol setiap aspek perdagangan demi menimbun emas dan perak.
+Ide bahwa pemerintah harus "lepas tangan" tidak muncul begitu saja. Ia lahir sebagai penentangan intelektual terhadap sistem **Merkantilisme** yang mengekang, di mana negara mengontrol setiap aspek perdagangan demi menimbun emas dan perak.
 
 ## 1. Kaum Fisiokrat Prancis
 
-Jauh sebelum Adam Smith menulis mahakaryanya, sekelompok pemikir di Prancis yang menyebut diri mereka **Les Physiocrates** (Kaum Fisiokrat) telah meletakkan batu pertama. Dipimpin oleh **François Quesnay**, dokter pribadi Raja Louis XV, mereka percaya pada konsep *Ordre Naturel* atau "Hukum Alam".
+Jauh sebelum Adam Smith menulis bukunya, sekelompok pemikir di Prancis yang menyebut diri mereka **Les Physiocrates** (Kaum Fisiokrat) telah meletakkan dasar gagasan ini. Dipimpin oleh **François Quesnay**, dokter pribadi Raja Louis XV, mereka percaya pada konsep *Ordre Naturel* atau "Hukum Alam".
 
 ### Analogi Tubuh Manusia
 
@@ -16,19 +16,19 @@ Quesnay, sebagai seorang dokter, melihat ekonomi seperti sistem peredaran darah 
 
 - **Tableau Économique**: Diagram pertama yang mencoba menjelaskan aliran kekayaan dalam ekonomi.
 - **Produit Net (Produk Bersih)**: Mereka berpendapat bahwa hanya sektor pertanian yang benar-benar menghasilkan nilai tambah. Sektor industri dan perdagangan dianggap sebagai "kelas steril" yang hanya mengubah bentuk barang.
-- **Lahirnya Istilah**: Ungkapan legendaris *"Laissez-faire, laissez-passer"* (biarkan terjadi, biarkan lewat) dikaitkan dengan **Vincent de Gournay**, seorang rekan para Fisiokrat, sebagai protes terhadap aturan perdagangan yang menghambat inovasi.
+- **Lahirnya Istilah**: Ungkapan *"Laissez-faire, laissez-passer"* (biarkan terjadi, biarkan lewat) dikaitkan dengan **Vincent de Gournay**, seorang rekan para Fisiokrat, sebagai protes terhadap aturan perdagangan yang menghambat inovasi.
 
 > "Dunia berjalan dengan sendirinya." - Pesan inti kaum Fisiokrat yang menentang intervensi pemerintah yang berlebihan.
 
-## 2. Adam Smith dan Revolusi "The Wealth of Nations" (1776)
+## 2. Adam Smith dan "The Wealth of Nations" (1776)
 
-Jika Fisiokrat adalah orang yang menanam benih, maka **Adam Smith** adalah orang yang membangun seluruh ekosistemnya. Melalui bukunya yang monumental, *An Inquiry into the Nature and Causes of the Wealth of Nations*, Smith mengubah wajah ekonomi selamanya.
+Fisiokrat merintis gagasan ini, lalu **Adam Smith** menyusunnya menjadi sistem yang utuh. Melalui bukunya, *An Inquiry into the Nature and Causes of the Wealth of Nations*, Smith mengubah arah pemikiran ekonomi.
 
 Smith setuju dengan Fisiokrat mengenai kebebasan pasar, namun ia memiliki pandangan yang jauh lebih luas dan praktis mengenai sumber kekayaan.
 
 ### Pergeseran Paradigma
 
-Berbeda dengan Fisiokrat yang mengagungkan tanah, Smith berpendapat bahwa **tenaga kerja (labor)** adalah sumber sejati kekayaan bangsa. Ia memperkenalkan dua konsep revolusioner:
+Berbeda dengan Fisiokrat yang mengagungkan tanah, Smith berpendapat bahwa **tenaga kerja (labor)** adalah sumber sejati kekayaan bangsa. Ia memperkenalkan dua konsep:
 
 1. **Pembagian Kerja (Division of Labor)**: Dengan membagi tugas-tugas besar menjadi tugas-tugas kecil yang spesifik, produktivitas meningkat pesat.
    - *Contoh:* Produksi jarum bentul. Satu orang mungkin hanya bisa membuat 20 jarum sehari. Namun, dengan 10 orang yang berbagi tugas (memotong kawat, meruncingkan, memasang kepala), mereka bisa memproduksi ribuan jarum.
@@ -59,7 +59,7 @@ Intelektual Laissez-faire berargumen bahwa praktik ini merugikan semua orang:
 - Konsumen di Belanda tidak mendapat barang.
 - Ekonomi global menjadi tidak efisien.
 
-Ketika ide Adam Smith mulai diadopsi, negara-negara mulai menghapus tarif dan hambatan dagang ini, yang kemudian memicu ledakan perdagangan global dan menjadi bahan bakar bagi **Revolusi Industri**.
+Ketika ide Adam Smith mulai diadopsi, negara-negara mulai menghapus tarif dan hambatan dagang ini, yang kemudian memicu lonjakan perdagangan global dan mendorong **Revolusi Industri**.
 
 ## 5. Hubungan Intelektual dengan Masa Kini
 

@@ -1,8 +1,8 @@
 ## Kolaborasi Lintas Departemen (Cross-Functional)
 
-Pernahkah kamu berada dalam sebuah proyek di mana tim developer merasa desainer meminta hal-hal yang tidak mungkin secara teknis, sementara tim marketing merasa produknya terlalu kaku dan tidak menarik? Selamat, kamu sedang menyaksikan fenomena **organizational silos** (silo organisasi).
+Pernahkah kamu berada dalam sebuah proyek di mana tim developer merasa desainer meminta hal-hal yang tidak mungkin secara teknis? Dalam proyek itu, tim marketing merasa produknya terlalu kaku dan tidak menarik. Selamat, kamu sedang menyaksikan fenomena **organizational silos** (silo organisasi).
 
-Kolaborasi lintas departemen membutuhkan lebih dari sekadar bekerja di gedung yang sama atau bergabung dalam grup komunikasi digital yang sama. Esensinya terletak pada seni menyelaraskan berbagai perspektif dan prioritas kerja untuk mencapai satu target besar. Bagi seorang *T-shaped professional*, kemampuanmu untuk menjadi jembatan (*bridge*) antar-departemen adalah aset yang sangat berharga.
+Kolaborasi lintas departemen membutuhkan lebih dari sekadar bekerja di gedung yang sama atau bergabung dalam grup komunikasi digital yang sama. Intinya adalah menyelaraskan berbagai perspektif dan prioritas kerja untuk mencapai satu target bersama. Bagi seorang *T-shaped professional*, kemampuanmu untuk menjadi jembatan (*bridge*) antar-departemen adalah aset yang berharga.
 
 ## 1. Memahami Fenomena Silo
 
@@ -16,7 +16,7 @@ Silo organisasi terjadi ketika departemen-departemen di dalam perusahaan beroper
 - **Jargon yang Terlalu Spesifik:** Penggunaan istilah teknis dari masing-masing bidang sering kali membuat komunikasi dengan departemen lain menjadi canggung dan sulit dipahami.
 - **Minimnya Transparansi:** Kebiasaan menyimpan informasi untuk kelompok sendiri demi mempertahankan pengaruh atau kendali dalam organisasi.
 
-## 2. Tiga Pilar Utama Kolaborasi Teknis, Kreatif, dan Bisnis
+## 2. Prioritas Tim Teknis, Kreatif, dan Bisnis
 
 Untuk berkolaborasi secara produktif, kamu harus memahami apa yang menggerakkan masing-masing kelompok ini. Setiap departemen memiliki fokus nilai yang berbeda:
 
@@ -51,7 +51,7 @@ Terapkan metodologi seperti **Agile** atau **Scrum** yang mendukung transparansi
 
 Sebagai developer, meluangkan waktu untuk berdiskusi dengan tim sales mengenai keluhan pengguna bisa membuka perspektif baru. Begitu pula bagi personel sales, mengapresiasi stabilitas infrastruktur yang dijaga tim developer adalah langkah awal membangun rasa percaya antardivisi.
 
-## 4. Visualisasi Sinergi Lintas Fungsi
+## 4. Rumus Kesuksesan Kolaborasi
 
 Keberhasilan kolaborasi dapat digambarkan melalui model formula sederhana berikut:
 
@@ -76,7 +76,7 @@ Model ini menunjukkan bahwa meskipun visi dan keselarasan langkah sudah dirancan
 
 - **Tim Bisnis** mendesak agar fitur segera diluncurkan guna memanfaatkan momentum liburan besar.
 - **Tim Teknis** khawatir karena waktu empat minggu terlalu sempit untuk melakukan audit keamanan secara menyeluruh.
-- **Tim Kreatif** memimpikan desain antarmuka yang futuristik, meskipun membutuhkan aset visual yang cukup berat.
+- **Tim Kreatif** menginginkan desain antarmuka yang futuristik, meskipun membutuhkan aset visual yang cukup berat.
 
 **Solusi Kolaboratif:**
 

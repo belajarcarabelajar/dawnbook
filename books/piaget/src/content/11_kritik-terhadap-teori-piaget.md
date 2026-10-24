@@ -1,10 +1,12 @@
-Jean Piaget memang raksasa dalam dunia psikologi perkembangan. Namun, tidak ada teori yang sempurna. Seiring berjalannya waktu, para peneliti menyadari ada celah dari peta pemikiran anak yang digambar Piaget. Beberapa bagian bahkan sedikit meleset.
+## Kritik Terhadap Teori Piaget
+
+Jean Piaget memang tokoh besar dalam psikologi perkembangan. Namun, tidak ada teori yang sempurna. Seiring berjalannya waktu, para peneliti menyadari ada celah dari peta pemikiran anak yang digambar Piaget. Beberapa bagian bahkan sedikit meleset.
 
 Bagian ini membahas sisi kritis teori Piaget. Kita juga akan melihat cara pemikir **Neo-Piagetian** memperbarui "perangkat lunak" teori ini agar sesuai dengan penemuan baru.
 
 ## 1\. Mengapa Teori Piaget Tidak Selalu Akurat?
 
-Mengkritik Piaget bukan berarti membuang teorinya sama sekali. Tujuannya adalah penyempurnaan. Piaget itu ibarat penemu mobil pertama. Mobil ciptaannya memang luar biasa, tapi ilmuwan generasi selanjutnya tahu cara membuat mobil itu melaju lebih cepat. Atau mungkin, butuh jenis bahan bakar yang berbeda.
+Mengkritik Piaget bukan berarti membuang teorinya sama sekali. Tujuannya adalah penyempurnaan. Piaget itu ibarat penemu mobil pertama. Mobil ciptaannya memang berhasil, tapi ilmuwan generasi selanjutnya tahu cara membuat mobil itu melaju lebih cepat. Atau mungkin, butuh jenis bahan bakar yang berbeda.
 
 ### A. Meremehkan Kemampuan Anak (Underestimation)
 
@@ -84,10 +86,10 @@ Ide-ide Neo-Piagetian menyadarkan kita untuk tidak memborbardir anak dengan info
 
 Proses berpikir kritis yang tinggi tidak datang tiba-tiba. Dasarnya harus dikuasai dulu secara otomatis.
 
-- **Praktek:** Meminta anak menghafal tabel perkalian punya alasan yang masuk akal. Ini bertujuan melonggarkan ruang di otak mereka. Ketika bertemu soal cerita yang menjebak, energinya tidak lagi terkuras habis hanya untuk mengingat hasil 7 dikali 8.
+- **Praktek:** Meminta anak menghafal tabel perkalian punya alasan yang masuk akal. Ini bertujuan melonggarkan ruang di otak mereka. Ketika bertemu soal cerita yang menjebak, energinya tidak lagi terkuras hanya untuk mengingat hasil 7 dikali 8.
 
 ## 5\. Refleksi Singkat
 
-Pernahkah kamu melihat seorang anak yang jago menyusun taktik di *game* strategi, tapi pusing setengah mati saat disuruh membagi angka di papan tulis? Coba bandingkan bagaimana teori asli Piaget dan pandangan Neo-Piagetian menjelaskan kasus semacam ini.
+Pernahkah kamu melihat seorang anak yang jago menyusun taktik di *game* strategi, tapi kesulitan saat disuruh membagi angka di papan tulis? Coba bandingkan bagaimana teori asli Piaget dan pandangan Neo-Piagetian menjelaskan kasus semacam ini.
 
 **Selanjutnya:** Kita akan merangkum seluruh materi ini di bagian "Ringkasan dan Sintesis Perkembangan Anak".

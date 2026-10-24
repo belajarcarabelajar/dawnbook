@@ -1,4 +1,4 @@
-## Tahap Sensorimotor (Lahir - 2 Tahun)
+## Tahap Sensorimotor
 
 Bayangkan kamu terbangun di planet asing tanpa peta, bahasa, atau pemahaman cara kerja benda. Itulah kondisi bayi yang baru lahir.
 
@@ -10,7 +10,7 @@ Istilah "Sensorimotor" berasal dari kata **Sensori** (indra) dan **Motorik** (ge
 
 > **Insight:** Bagi bayi, "memahami" bola bukan berarti tahu kata "bola", tapi tahu benda itu bisa digenggam, diputar, dan membal kalau dijatuhkan.
 
-### Penjelajah Tanpa Kompas
+### Memahami Dunia lewat Jari dan Lidah
 
 Bayi seperti penjelajah di hutan tanpa buku panduan. Satu-satunya cara tahu buah itu manis adalah memakannya. Tahu duri tajam dengan menyentuhnya. Pemahaman mereka sepenuhnya bertumpu pada ujung jari dan lidah.
 
@@ -85,10 +85,10 @@ $$
 Paham cara kerja sensorimotor membuat kita bisa memberi stimulasi yang pas:
 
 1. **Cilukba:** Bukan sekadar lucu-lucuan. Ini latihan kognitif untuk menguji objek permanen. Bayi memproses konsep "hilang" dan "muncul kembali".
-2. **Ruang Eksplorasi:** Bayi belajar lewat gerak fisik. Menyiapkan area aman untuk mereka merangkak, menyentuh berbagai tekstur, dan memanipulasi benda adalah "sekolah" paling nyata.
+2. **Ruang Eksplorasi:** Bayi belajar lewat gerak fisik. Menyiapkan area aman untuk mereka merangkak, menyentuh berbagai tekstur, dan memanipulasi benda adalah "sekolah" bagi mereka.
 3. **Sebab-Akibat:** Mainan yang mengeluarkan bunyi kalau ditekan sangat memperkuat pemahaman mereka soal hubungan sebab-akibat.
 
-## 5\. Ringkasan Fase
+## 5\. Tabel Sub-Tahap Sensorimotor
 
 | Sub-Tahap | Usia | Fokus Utama | Contoh Perilaku |
 | --- | --- | --- | --- |

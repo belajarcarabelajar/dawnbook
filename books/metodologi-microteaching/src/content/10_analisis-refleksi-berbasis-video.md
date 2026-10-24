@@ -1,6 +1,6 @@
-# Analisis Refleksi Berbasis Video
+## Analisis Refleksi Berbasis Video
 
-Pernahkah kamu merasa sebuah sesi mengajar berjalan sangat sempurna, namun ketika melihat hasil ujian siswa, ternyata banyak yang tidak paham? Atau sebaliknya, kamu merasa gugup dan kacau, tetapi siswa justru merasa sangat terbantu? Fenomena ini disebut dengan **kesenjangan persepsi**.
+Pernahkah kamu merasa sebuah sesi mengajar berjalan lancar, namun ketika melihat hasil ujian siswa, ternyata banyak yang tidak paham? Atau sebaliknya, kamu merasa gugup dan kacau, tetapi siswa justru merasa terbantu? Fenomena ini disebut dengan **kesenjangan persepsi**.
 
 Dalam metodologi microteaching, video bukan sekadar dokumentasi, melainkan sebuah "cermin jujur" yang memungkinkan kita melihat realita di lapangan tanpa bias memori. Analisis refleksi berbasis video adalah proses sistematis untuk membedah kinerja mengajar kita sendiri guna menemukan celah antara apa yang kita rencanakan (das sollen) dengan apa yang sebenarnya terjadi (das sein).
 
@@ -8,7 +8,7 @@ Dalam metodologi microteaching, video bukan sekadar dokumentasi, melainkan sebua
 
 Bayangkan seorang atlet lari Olimpiade. Setelah perlombaan, ia tidak hanya mengandalkan perasaannya tentang seberapa cepat ia berlari. Ia akan duduk bersama pelatihnya dan menonton rekaman *slow-motion* untuk melihat sudut pendaratan kaki, posisi bahu, dan efisiensi napasnya.
 
-Sebagai pendidik, kamu adalah "atlet instruksional". Mengandalkan ingatan saja tidak cukup karena saat mengajar, otak kita terlalu sibuk mengelola kelas sehingga sering melewatkan detail-detail kecil. Video memungkinkan kita untuk "menghentikan waktu" dan melakukan autopsi terhadap setiap detik interaksi pembelajaran.
+Sebagai pendidik, kamu adalah "atlet instruksional". Mengandalkan ingatan saja tidak cukup karena saat mengajar, otak kita terlalu sibuk mengelola kelas sehingga sering melewatkan detail-detail kecil. Video memungkinkan kita menghentikan rekaman dan memeriksa setiap bagian interaksi pembelajaran dengan teliti.
 
 ## Prosedur Langkah-Demi-Langkah Refleksi Diri
 
@@ -30,11 +30,11 @@ Tonton video dari awal hingga akhir tanpa berhenti. Jangan mencatat dulu. Gunaka
 
 Tonton kembali dengan membawa instrumen observasi atau RPP (Rencana Pelaksanaan Pembelajaran) kamu. Gunakan teknik **Stop-and-Note**:
 
-- Hentikan video setiap kali kamu menemukan momen krusial (misal: saat memberikan pertanyaan).
+- Hentikan video setiap kali kamu menemukan momen penting (misal: saat memberikan pertanyaan).
 - Catat durasi waktu (time-stamp).
 - Gunakan rumus sederhana untuk melihat manajemen waktu: $\Delta T = T_{\text{aktual}} - T_{\text{rencana}}$ Jika $\Delta T$ bernilai positif besar pada bagian pembukaan, kamu mungkin kehilangan waktu terlalu banyak untuk basa-basi.
 
-### 4. Identifikasi "The Gap" (Celah Perencanaan vs Pelaksanaan)
+### 4. Identifikasi Celah antara Rencana dan Pelaksanaan
 
 Ini adalah inti dari refleksi. Bandingkan apa yang tertulis di skenario RPP dengan apa yang terekam di video.
 

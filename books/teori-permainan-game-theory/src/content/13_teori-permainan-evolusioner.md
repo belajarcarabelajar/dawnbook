@@ -1,6 +1,6 @@
 ## Teori Permainan Evolusioner
 
-Selamat datang di persimpangan yang memukau antara biologi molekuler, perilaku hewan, dan matematika strategis. Jika sebelumnya kita membahas bagaimana manusia yang "rasional" mengambil keputusan, kali ini kita akan membuang asumsi "rasionalitas" tersebut.
+Biologi molekuler, perilaku hewan, dan matematika strategis bertemu dalam satu cabang teori permainan. Jika sebelumnya kita membahas bagaimana manusia yang "rasional" mengambil keputusan, kali ini kita akan membuang asumsi "rasionalitas" tersebut.
 
 Dalam **Teori Permainan Evolusioner (Evolutionary Game Theory - EGT)**, kita tidak bertanya "Apa yang akan dipikirkan pemain?", melainkan "Strategi mana yang akan bertahan hidup dan mendominasi populasi?"
 
@@ -18,7 +18,7 @@ Di sini, konsep-konsep kunci berubah:
 
 ### 2. Evolutionary Stable Strategy (ESS) sebagai Konsep Utama
 
-Konsep paling fundamental dalam EGT dikembangkan oleh **John Maynard Smith** dan **George R. Price**, yang dikenal sebagai **Evolutionary Stable Strategy (ESS)**.
+Konsep utama dalam EGT dikembangkan oleh **John Maynard Smith** dan **George R. Price**, yang dikenal sebagai **Evolutionary Stable Strategy (ESS)**.
 
 **Definisi:** Sebuah strategi dikatakan ESS jika, apabila strategi tersebut telah diadopsi oleh sebagian besar anggota populasi, tidak ada strategi "mutan" (alternatif) yang dapat masuk (menginvasi) populasi tersebut melalui seleksi alam.
 
@@ -124,12 +124,12 @@ Pada generasi awal, kebugaran elang (42,50) jauh di atas rata-rata (24,50), sehi
 
 ### 7. Pentingnya Sudut Pandang Evolusioner
 
-Teori Permainan Evolusioner mengajarkan kita bahwa perilaku yang tampak "tidak logis" pada tingkat individu (seperti mengalah atau mengorbankan diri) sering kali merupakan strategi yang sangat stabil dan cerdas pada tingkat populasi.
+Teori Permainan Evolusioner mengajarkan kita bahwa perilaku yang tampak "tidak logis" pada tingkat individu (seperti mengalah atau mengorbankan diri) sering kali merupakan strategi yang stabil dan cerdas pada tingkat populasi.
 
-**Poin Penting untuk Diingat:**
+**Hal yang Perlu Diingat:**
 
 - **ESS** adalah kondisi di mana populasi kebal terhadap "serangan" strategi asing.
 - **Kebugaran (Fitness)** adalah mata uang utama, bukan uang atau kepuasan pribadi.
-- **Konflik dan Kerjasama** adalah hasil dari interaksi berulang selama jutaan tahun yang terukir dalam mekanisme biologis.
+- **Konflik dan Kerjasama** adalah hasil dari interaksi berulang selama jutaan tahun yang tertanam dalam mekanisme biologis.
 
 *Latihan Refleksi: Dapatkah kamu memikirkan norma sosial manusia yang mungkin merupakan sebuah ESS? Misalnya, mengapa kita mengantre? Apakah mengantre adalah strategi yang lebih stabil daripada berebut jika semua orang melakukannya?*

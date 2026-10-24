@@ -1,8 +1,8 @@
-## Tahap Operasional Formal (11 Tahun ke Atas)
+## Tahap Operasional Formal
 
-Di tahap sebelumnya (Operasional Konkret), anak-anak sudah bisa berpikir logis, tapi pemikiran mereka masih terbatas pada objek fisik yang bisa dilihat dan disentuh. Nah, di **Tahap Operasional Formal**, batasan itu mulai hilang.
+Di tahap sebelumnya (Operasional Konkret), anak-anak sudah bisa berpikir logis, tapi masih sebatas objek fisik yang bisa dilihat dan disentuh. Nah, di **Tahap Operasional Formal**, batasan itu mulai hilang.
 
-Ibaratnya seperti beralih dari melihat dengan mata telanjang ke memakai teleskop. Mereka mulai bisa melihat "galaksi" pemikiran yang lebih jauh,konsep-konsep abstrak yang bentuk fisiknya tidak ada, tapi secara logika mungkin terjadi.
+Ibaratnya seperti beralih dari melihat dengan mata telanjang ke memakai teleskop. Mereka mulai bisa menjangkau pemikiran yang lebih jauh, konsep-konsep abstrak yang bentuk fisiknya tidak ada, tapi secara logika mungkin terjadi.
 
 ## 1\. Apa itu Tahap Operasional Formal?
 
@@ -64,7 +64,7 @@ Remaja di tahap ini sanggup mengevaluasi kebenaran logika suatu pernyataan (prop
 Anak tahap konkret akan protes keras: *"Mana ada kucing terbang!"*
 Tapi remaja tahap formal bisa bilang: *"Secara logika kesimpulannya benar karena mengikuti premis awal, biarpun di dunia nyata itu salah."*
 
-## 5\. Aplikasi Dunia Nyata & Skenario
+## 5\. Penerapan Pemikiran Formal
 
 ### Dalam Pembelajaran Sains dan Matematika
 
@@ -74,7 +74,7 @@ Siswa mulai siap belajar aljabar. Huruf seperti $x$, $y$, dan $z$ menggantikan a
 
 Remaja mulai kritis terhadap aturan dan otoritas. Mereka sering membayangkan versi dunia yang ideal lalu membandingkannya dengan realita. Tidak heran kalau masa remaja sering dipenuhi idealisme berapi-api.
 
-### Skenario Pemecahan Masalah Teknis
+### Pemecahan Masalah Teknis
 
 Dalam dunia teknis, operasional formal sangat penting untuk *debugging* atau merancang sistem.
 
@@ -100,7 +100,7 @@ flowchart TD
 
 ## 6\. Egosentrisme Remaja
 
-Uniknya, lonjakan kecerdasan ini juga memunculkan egosentrisme jenis baru. Karena mereka sekarang bisa memikirkan "apa yang orang lain pikirkan", remaja sering salah mengira bahwa semua orang selalu memperhatikan mereka.
+Uniknya, perkembangan cara berpikir ini juga memunculkan egosentrisme jenis baru. Karena mereka sekarang bisa memikirkan "apa yang orang lain pikirkan", remaja sering salah mengira bahwa semua orang selalu memperhatikan mereka.
 
 - **Audiens Imajiner:** Merasa seisi kelas diam-diam memperhatikan jerawat di hidungnya.
 - **Dongeng Pribadi (*Personal Fable*):** Merasa pengalaman dan penderitaannya paling unik, sampai merasa tidak ada orang dewasa yang bisa paham perasaannya.
@@ -111,4 +111,4 @@ Uniknya, lonjakan kecerdasan ini juga memunculkan egosentrisme jenis baru. Karen
 
 **Latihan Cepat:** Coba pikirkan, *"Apa yang terjadi kalau semua mata uang di dunia tiba-tiba hilang besok pagi?"*
 
-Kalau kamu mulai membayangkan kembalinya sistem barter, ambruknya rantai pasok global, dan bergesernya struktur kekuasaan sosial,selamat! Kamu baru saja mempraktikkan **Pemikiran Hipotesis-Deduktif** kamu.
+Kalau kamu mulai membayangkan kembalinya sistem barter, ambruknya rantai pasok global, dan bergesernya struktur kekuasaan sosial, selamat! Kamu baru saja mempraktikkan **Pemikiran Hipotesis-Deduktif** kamu.

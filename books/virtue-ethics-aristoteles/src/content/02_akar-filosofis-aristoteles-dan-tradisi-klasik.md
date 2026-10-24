@@ -1,8 +1,8 @@
 ## Akar Filosofis Aristoteles
 
-Selamat datang di perjalanan kita menuju akar dari Etika Kebajikan. Jika kita berbicara tentang karakter dan moralitas, kita tidak bisa mengabaikan sosok yang meletakkan batu pertama dari fondasi ini: **Aristoteles**.
+Jika kita berbicara tentang karakter dan moralitas, kita tidak bisa mengabaikan sosok yang meletakkan batu pertama dari fondasi ini: **Aristoteles**.
 
-Dalam bagian ini, kita akan menyelami karya monumentalnya, *Nicomachean Ethics*, dan memahami mengapa perspektifnya mengubah cara manusia memandang kebaikan selama lebih dari dua milenium.
+Dalam bagian ini, kita akan membahas karya utamanya, *Nicomachean Ethics*, dan memahami mengapa perspektifnya mengubah cara manusia memandang kebaikan selama lebih dari dua milenium.
 
 ### Mengapa Aristoteles?
 
@@ -34,7 +34,7 @@ Dalam tradisi klasik yang dibangun Aristoteles, terdapat perbedaan mendasar deng
 
 **Penting:** Bagi Aristoteles, sebuah tindakan baik yang dilakukan secara tidak sengaja tidak membuat seseorang menjadi orang baik. Seseorang disebut bermoral jika tindakan baiknya lahir dari **karakter yang tetap dan tidak berubah**.
 
-### Analogi Sang Pemanah
+### Analogi Pemanah
 
 Untuk memahami bagaimana Aristoteles melihat pencapaian kebajikan, bayangkan seorang pemanah yang sedang membidik sasaran.
 
@@ -59,7 +59,7 @@ $$
 
 ### Kepemimpinan Berbasis Karakter
 
-Dalam dunia kerja atau organisasi saat ini, kita sering terjebak pada KPI (Key Performance Indicators) or kepatuhan terhadap SOP. Namun, ajaran Aristoteles mengingatkan kita bahwa **integritas pemimpin lebih penting daripada aturan tertulis.**
+Dalam dunia kerja atau organisasi saat ini, kita sering terjebak pada KPI (Key Performance Indicators) atau kepatuhan terhadap SOP. Namun, ajaran Aristoteles mengingatkan kita bahwa **integritas pemimpin lebih penting daripada aturan tertulis.**
 
 **Skenario:** Seorang manajer menghadapi situasi di mana ia bisa memanipulasi laporan untuk mendapatkan bonus tim (mengikuti aturan "mencapai target"), atau jujur meskipun bonus tersebut hilang (mengikuti kebajikan kejujuran).
 

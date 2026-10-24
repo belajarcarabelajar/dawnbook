@@ -2,15 +2,15 @@
 
 Coba ingat orang-orang yang paling lantang berkata bahwa duit adalah sumber bahagia. Biasanya mereka bukan orang yang sedang kesulitan. Mereka hafal angka gajinya, menghitung target tabungan tiap bulan, dan membicarakan harta dengan semangat seperti membicarakan tim kesayangan. Tapi lihat juga apa yang terjadi setelah setiap target tercapai. Rasa senangnya singkat, lalu muncul target yang lebih besar. Gajinya naik, gaya hidupnya ikut naik, dan perasaan kurangnya tidak berpindah tempat. Uangnya menumpuk, kepuasannya tidak ikut menumpuk.
 
-Kalau kamu pernah merasakan versi kecilnya, kamu tidak sedang gagal mengelola uang. Kamu sedang bertemu jebakan terakhir: materialisme, yaitu ketika uang berpindah kursi. Dari alat yang membantu hidup, ia naik takhta menjadi tujuan terakhir yang menentukan harga diri. Dan di kursi barunya itu, uang justru berhenti bekerja untuk kebahagiaanmu.
+Kalau kamu pernah merasakan versi kecilnya, kamu tidak sedang gagal mengelola uang. Kamu sedang bertemu jebakan terakhir: materialisme, yaitu ketika uang berpindah kursi. Dari alat yang membantu hidup, ia berubah menjadi tujuan terakhir yang menentukan harga diri. Dan di kursi barunya itu, uang justru berhenti bekerja untuk kebahagiaanmu.
 
-### Mimpi yang punya sisi gelap
+### Saat kesuksesan finansial menjadi aspirasi utama
 
 Fenomena ini bukan sekadar kilasan pengalaman pribadi, ia sudah diukur dengan cermat. Psikolog Tim Kasser dan Richard Ryan pada 1993 mempublikasikan studi berjudul "A dark side of the American dream" di jurnal *Journal of Personality and Social Psychology*. Mereka menanyakan pada responden aspirasi mana yang paling menjadi pusat hidupnya, lalu membandingkan kelompok yang menempatkan kesuksesan finansial sebagai tujuan utama dengan kelompok yang menaruh hal lain di posisi itu: kedekatan dan hubungan yang hangat, rasa bermanfaat bagi komunitas, serta pertumbuhan diri.
 
 Hasilnya konsisten: orang yang menjadikan kesuksesan finansial sebagai aspirasi pusat hidupnya melaporkan kesejahteraan yang lebih rendah. Vitalitas mereka lebih kecil, penyesuaian diri lebih buruk, dan tingkat kecemasan serta depresi lebih tinggi. Pola serupa terus muncul dalam studi lanjutan di berbagai negara, jadi ini bukan cerita khas satu budaya.
 
-Penting dicatat: studi itu mengukur aspirasi, bukan saldo rekening. Kasser dan Ryan tidak menemukan bahwa orang kaya pasti sengsara atau orang sederhana pasti damai. Seseorang bisa berpenghasilan besar tanpa menjadi materialistik, dan bisa pula berpenghasilan kecil tapi menjadikan uang ukuran mutlak harga dirinya. Racunnya bukan di dalam dompet, melainkan di dalam pertanyaan yang diam-diam dijawab dengan angka: berapa nilai aku?
+Penting dicatat: studi itu mengukur aspirasi, bukan saldo rekening. Kasser dan Ryan tidak menemukan bahwa orang kaya pasti sengsara atau orang sederhana pasti damai. Seseorang bisa berpenghasilan besar tanpa menjadi materialistik, dan bisa pula berpenghasilan kecil tapi menjadikan uang ukuran mutlak harga dirinya. Masalahnya bukan di dalam dompet, melainkan di dalam pertanyaan yang diam-diam dijawab dengan angka: berapa nilai aku?
 
 > Mengukur harga diri dengan harta itu seperti mengukur tinggi badan dengan penggaris karet. Setiap kali kamu berdiri lebih tegak, penggarisnya ikut melar. Angkanya terus berubah, bukan karena kamu bertumbuh, tapi karena alat ukurnya tidak pernah diam.
 
@@ -22,7 +22,7 @@ Kedua, tujuan intrinsik: relasi yang hangat, pertumbuhan diri, dan rasa bermanfa
 
 Masalahnya makin rumit karena waktu dan energi kita terbatas. Mengejar tujuan ekstrinsik bukan cuma gagal memuaskan, ia juga merampas jam untuk hal yang benar-benar memuaskan. Lembur demi angka yang tak pernah cukup mengambil tempat makan malam bersama keluarga dan hobi yang tertunda. Setiap jam untuk citra adalah jam yang tidak masuk ke relasi dan pertumbuhan.
 
-### Uang di kursi alat, uang di kursi tujuan
+### Uang sebagai alat, bukan tujuan
 
 Di sini perlu kehati-hatian agar tidak salah maksud. Buku ini sejak awal bukan kampanye anti-uang. Bab tiga dan empat sudah menunjukkan bahwa uang dan kesejahteraan memang berjalan beriringan. Bab delapan bahkan memperlihatkan sisi sebaliknya: kekurangan uang menyita pikiran dan membuat keputusan jadi sempit. Uang yang cukup itu jelas menolong.
 
@@ -30,7 +30,7 @@ Garis pembedanya bukan banyak atau sedikit, melainkan posisi. Uang sebagai alat 
 
 > Uang itu seperti listrik. Ia menyalakan lampu belajar anakmu, menghidupkan kulkas penyimpan obat, dan membuat rumah berfungsi. Tapi tidak ada keluarga yang menata rumahnya supaya semua sudut menghadap ke kabel. Kalau hidupmu tersusun hanya menghadap ke sumbernya, yang hilang justru ruang untuk hidupnya sendiri.
 
-### Dua kaki yang menjaga keseimbangan
+### Dua kaki kesehatan finansial
 
 Lalu seperti apa kesehatan finansial menurut riset? Para peneliti kesejahteraan finansial sering merangkumnya dengan dua kaki. Kaki pertama, rasa kendali atas keuangan hari ini: kamu tahu ke mana uangmu pergi dan merasa mampu mengatur jalannya. Kaki kedua, rasa aman untuk masa depan: kamu tidak gelisah membayangkan kebutuhan yang akan datang. Dengan dua kaki itu, kamu bisa menutup bulan tanpa tegang dan menatap tahun tanpa deg-degan.
 
@@ -48,6 +48,6 @@ Tidak ada satu pun langkah di atas yang menuntut kamu menjadi kaya. Semuanya men
 
 Kalau kamu tiba di halaman ini, kamu sudah menempuh perjalanan yang panjang. Kita mulai dari pertanyaan tua di meja makan: apakah uang membeli kebahagiaan, dan kenapa garis finis rasa cukup itu selalu mundur. Kita belajar bagaimana ilmu mengukur perasaan yang dulu dianggap mustahil diukur. Kita melihat bukti besar bahwa uang dan kesejahteraan memang berjalan beriringan, lengkap dengan perdebatan plateau dan paradoksnya. Kita membedah kenapa uang itu relatif, kenapa nikmat selalu mengendur, dan kenapa kekurangan menyita pikiran. Lalu kita berlatih membelanjakan uang untuk pengalaman, kebaikan, dan waktu, sebelum tiba di pelajaran terakhir ini: harga yang harus dibayar ketika harta sendiri yang kita jadikan tujuan.
 
-Dari perjalanan itu, satu hal makin jelas. Pertanyaan paling berguna ternyata bukan "berapa uang yang cukup untuk membuatku bahagia", melainkan "posisi seperti apa yang kamu berikan pada uang dalam hidupmu". Uang berdaya guna ketika ia berada di bawah hidupmu, bukan di atasnya. Ia menjaga kebutuhan, membangun rasa aman, memperluas pilihan, dan sesekali membeli momen yang membekas. Tapi nilai dirimu tidak pernah benar-benar tertera di rekening, dan tidak akan pernah.
+Dari perjalanan itu, satu hal makin jelas. Pertanyaan paling berguna ternyata bukan "berapa uang yang cukup untuk membuatku bahagia", melainkan "posisi seperti apa yang kamu berikan pada uang dalam hidupmu". Uang berdaya guna ketika ia berada di bawah hidupmu, bukan di atasnya. Ia menjaga kebutuhan, membangun rasa aman, memperluas pilihan, dan sesekali membeli momen yang membekas. Tapi nilai dirimu tidak pernah benar-benar tertera di rekening.
 
 Jadi kalau suatu hari nama-nama peneliti dan angka-angka di buku ini memudar, pegang saja satu pesan bawa-pulang ini: jadikan uang alatmu, jangan biarkan dirimu menjadi alatnya. Pastikan kebutuhanmu terjaga, tahan godaan mengukur diri dengan milik orang lain, sadari bahwa rasa cukup adalah keterampilan yang bisa dilatih, dan belanjakan uangmu untuk hal-hal yang masih membekas lama setelah struknya hilang. Hidup yang baik tidak ditentukan oleh berapa banyak yang masuk ke rekeningmu, tapi oleh apa yang hidupmu bisa lakukan berkat uang itu. Terima kasih sudah menempuh perjalanan ini sampai halaman terakhir. Semoga uangmu cukup, hidupmu hangat, dan posisinya selalu benar.

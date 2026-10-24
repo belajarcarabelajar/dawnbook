@@ -65,10 +65,10 @@ Alih-alih makan sambil menonton YouTube, cobalah lakukan ini:
 
 - Lihat warna dan tekstur makananmu.
 - Cium aromanya sebelum masuk ke mulut.
-- Rasakan tekstur dan ledakan rasa di lidah saat kamu mengunyah perlahan.
+- Rasakan tekstur dan rasa di lidah saat kamu mengunyah perlahan.
 - Sadarilah proses menelan dan bagaimana makanan itu turun ke perut.
 
-### Penerapan di Dunia Nyata (Real-World Application)
+### Contoh Penerapan
 
 #### Menghadapi Kritik dari Atasan
 
@@ -83,7 +83,7 @@ Alih-alih makan sambil menonton YouTube, cobalah lakukan ini:
 
 ### Tips untuk Pemula
 
-**Konsistensi lebih berharga daripada durasi.** Lebih baik berlatih mindfulness selama 5 menit setiap hari daripada 1 jam namun hanya sekali sebulan. Mindfulness adalah "otot" mental; ia perlu dilatih agar kuat saat badai stres benar-benar datang.
+**Konsistensi lebih berharga daripada durasi.** Lebih baik berlatih mindfulness selama 5 menit setiap hari daripada 1 jam namun hanya sekali sebulan. Mindfulness adalah "otot" mental; ia perlu dilatih agar kuat saat stres berat benar-benar datang.
 
 **Contoh Rutinitas Sederhana:**
 

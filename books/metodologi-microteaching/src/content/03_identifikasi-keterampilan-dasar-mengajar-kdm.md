@@ -1,8 +1,8 @@
-# Identifikasi Keterampilan Dasar Mengajar (KDM)
+## Identifikasi Keterampilan Dasar Mengajar (KDM)
 
 Mengajar bukan sekadar berdiri di depan kelas dan berbicara. Mengajar adalah sebuah seni sekaligus sains yang memerlukan penguasaan berbagai keterampilan spesifik. Bayangkan seorang koki profesional; ia tidak hanya tahu cara memasak, tetapi ia mahir memotong sayur, mengatur suhu api, meracik bumbu, hingga menyajikan hidangan dengan estetik.
 
-Dalam dunia pendidikan, "pisau" dan "suhu api" tersebut adalah **Keterampilan Dasar Mengajar (KDM)**. Tanpa penguasaan KDM, materi yang luar biasa sekalipun mungkin tidak akan sampai ke benak siswa dengan efektif.
+Dalam dunia pendidikan, "pisau" dan "suhu api" tersebut adalah **Keterampilan Dasar Mengajar (KDM)**. Tanpa penguasaan KDM, materi yang bagus sekalipun mungkin tidak akan sampai ke benak siswa dengan efektif.
 
 ## Apa itu Keterampilan Dasar Mengajar?
 
@@ -46,7 +46,7 @@ Bertanya adalah instrumen utama dalam interaksi belajar-mengajar. Guru yang baik
 
 ## 4. Keterampilan Memberikan Penguatan (Reinforcement)
 
-Penguatan adalah respon guru terhadap perilaku siswa yang memungkinkan berulangnya kembali perilaku tersebut. Ini adalah bentuk penghargaan yang sederhana namun sangat bermakna.
+Penguatan adalah respon guru terhadap perilaku siswa yang memungkinkan berulangnya kembali perilaku tersebut. Ini adalah bentuk penghargaan yang sederhana namun bermakna.
 
 - **Penguatan Verbal:** "Bagus sekali!", "Jawaban yang sangat cerdas!", "Ibu bangga dengan usahamu."
 - **Penguatan Non-Verbal:** Senyuman, anggukan kepala, acungan jempol, atau mendekati siswa (pendekatan fisik).

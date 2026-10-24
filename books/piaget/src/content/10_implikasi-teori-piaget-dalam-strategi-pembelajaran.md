@@ -20,7 +20,7 @@ Untuk anak tahap Praoperasional (seperti TK atau awal SD), instruksi perlu dibua
 
 Ketika mereka masuk ke tahap Operasional Konkret, mereka sudah bisa mengklasifikasi objek. Berikan eksperimen sains sederhana di mana mereka bisa langsung memanipulasi variabel. Kaitkan juga materi dengan kejadian sehari-hari yang dekat dengan dunia mereka.
 
-Barulah pada tahap Operasional Formal (SMA ke atas), siswa siap dihujani pertanyaan hipotesis. *"Apa yang akan terjadi jika...?"* menjadi senjata utama guru. Di fase ini, mereka sudah mampu mendiskusikan konsep abstrak seperti etika, politik, atau teori sains tingkat lanjut menggunakan penalaran deduktif.
+Barulah pada tahap Operasional Formal (SMA ke atas), siswa siap diberi pertanyaan hipotesis. *"Apa yang akan terjadi jika...?"* menjadi alat utama guru. Di fase ini, mereka sudah mampu mendiskusikan konsep abstrak seperti etika, politik, atau teori sains tingkat lanjut menggunakan penalaran deduktif.
 
 ### Memicu Konflik Kognitif
 
@@ -41,13 +41,13 @@ flowchart TD
     E --> F["Skema lama dirombak lewat akomodasi"]
 ```
 
-Misalnya saat belajar fisika. Siswa mungkin punya pemikiran awal bahwa "semua benda besar dan berat pasti tenggelam". Guru lalu menunjukkan fenomena kapal kayu raksasa yang mengapung, sementara kelereng kecil malah tenggelam. Kontradiksi ini akan memaksa otak anak untuk melakukan akomodasi dan membongkar skema pemahaman mereka yang lama.
+Misalnya saat belajar fisika. Siswa mungkin punya pemikiran awal bahwa "semua benda besar dan berat pasti tenggelam". Guru lalu menunjukkan fenomena kapal kayu besar yang mengapung, sementara kelereng kecil malah tenggelam. Kontradiksi ini akan memaksa otak anak untuk melakukan akomodasi dan membongkar skema pemahaman mereka yang lama.
 
 ### Peran Baru Seorang Guru
 
 Kerangka kerja Piagetian menuntut perubahan peran pendidik. Guru kini bertindak sebagai arsitek lingkungan belajar. Mereka menyiapkan ruang kelas yang kaya stimulus untuk memancing rasa ingin tahu.
 
-Selain itu, guru bertugas mengobservasi tingkat pemahaman siswa secara intens. Tujuannya memastikan tantangan yang diberikan pas takarannya. Guru juga wajib mendorong interaksi sosial, seperti debat antar siswa. Meskipun Piaget lebih fokus pada eksplorasi fisik, ia sangat setuju bahwa interaksi sosial ampuh untuk mendobrak cara pandang egosentris anak.
+Selain itu, guru bertugas mengobservasi tingkat pemahaman siswa secara intens. Tujuannya memastikan tantangan yang diberikan pas takarannya. Guru juga wajib mendorong interaksi sosial, seperti debat antar siswa. Meskipun Piaget lebih fokus pada eksplorasi fisik, ia sangat setuju bahwa interaksi sosial efektif untuk mengubah cara pandang egosentris anak.
 
 ### Penerapan pada Konsep Siklus Air
 
@@ -59,6 +59,6 @@ Mari kita lihat perbedaan strategi mengajar untuk satu topik yang sama: siklus a
 
 ### Merancang Momen Aha
 
-Ingatlah bahwa setiap anak punya kecepatan berkembang yang tidak bisa disamaratakan. Paksaan untuk seragam hanya akan mematikan potensi alami mereka. Terkadang, memberi ruang bagi tangan mereka untuk aktif jauh lebih efektif untuk membangunkan logika di dalam kepalanya. 
+Ingatlah bahwa setiap anak punya kecepatan berkembang yang tidak bisa disamaratakan. Paksaan untuk seragam bisa menghambat perkembangan mereka. Terkadang, memberi ruang bagi tangan mereka untuk aktif lebih efektif untuk membangun logika mereka. 
 
-Pernahkah kamu merasa frustrasi saat belajar hal baru, lalu tiba-tiba muncul momen *"Aha! Sekarang aku paham!"*? Itulah ekuilibrasi yang sedang bekerja. Tugas utama guru adalah merancang sebanyak mungkin jebakan momen "Aha!" tersebut di dalam kelas.
+Pernahkah kamu merasa frustrasi saat belajar hal baru, lalu tiba-tiba muncul momen *"Aha! Sekarang aku paham!"*? Itulah ekuilibrasi yang sedang bekerja. Tugas utama guru adalah merancang sebanyak mungkin momen "Aha!" tersebut di dalam kelas.

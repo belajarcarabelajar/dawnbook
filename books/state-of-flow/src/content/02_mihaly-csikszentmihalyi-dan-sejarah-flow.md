@@ -16,7 +16,7 @@ Pencarian ini membawanya ke Amerika Serikat, di mana ia mulai mempelajari proses
 
 ## 2\. Fenomena "Pelukis yang Lupa Makan"
 
-Pada tahun 1960-an, Csikszentmihalyi melakukan studi mendalam terhadap para seniman, khususnya pelukis. Ia mengamati sesuatu yang sangat aneh namun konsisten:
+Pada tahun 1960-an, Csikszentmihalyi melakukan studi mendalam terhadap para seniman, khususnya pelukis. Ia mengamati sesuatu yang aneh namun konsisten:
 
 - **Konsentrasi Total:** Saat seorang pelukis sedang mengerjakan karyanya, mereka tampak berada dalam kondisi trans. Mereka mengabaikan rasa lapar, lelah, dan bahkan rasa sakit fisik.
 - **Kehilangan Motivasi Setelah Selesai:** Hal yang paling mengejutkan bagi Mihaly adalah ketika lukisan itu selesai. Begitu kanvas terisi penuh, pelukis tersebut seringkali kehilangan minat pada hasil karyanya dan segera memikirkan proyek berikutnya.
@@ -62,7 +62,7 @@ $$
 
 Memahami sejarah *Flow* membantu kita menyadari bahwa kondisi ini bukan "bakat" atau "keberuntungan", melainkan desain mental yang bisa diakses oleh siapa saja.
 
-**Di Kantor Modern** Bayangkan kamu adalah seorang programmer. Jika kamu bekerja hanya demi gaji (imbalan eksternal), kamu mungkin cepat merasa lelah. Namun, jika kamu mengadopsi pendekatan **Autotelik** seperti para seniman dalam riset Mihaly - yaitu fokus pada keindahan kode dan pemecahan logika sebagai permainan - kamu sedang membangun jembatan menuju kondisi *Flow*.
+**Di Kantor Modern** Bayangkan kamu adalah seorang programmer. Jika kamu bekerja hanya demi gaji (imbalan eksternal), kamu mungkin cepat merasa lelah. Namun, jika kamu mengadopsi pendekatan **Autotelik** seperti para seniman dalam riset Mihaly - yaitu fokus pada keindahan kode dan pemecahan logika sebagai permainan - kamu sedang mendekatkan diri pada kondisi *Flow*.
 
 **Poin Penting untuk Diingat:**
 

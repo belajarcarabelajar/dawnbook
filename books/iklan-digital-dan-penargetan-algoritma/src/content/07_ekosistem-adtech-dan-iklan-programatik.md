@@ -1,8 +1,8 @@
 ## Ekosistem AdTech dan Iklan Programatik
 
-Selamat datang di jantung mesin periklanan modern. Pernahkah kamu bertanya-tanya mengapa setelah mencari "sepatu lari" di mesin pencari, tiba-tiba iklan sepatu tersebut muncul di blog berita yang kamu baca hanya beberapa detik kemudian?
+Periklanan digital modern dijalankan oleh sebuah sistem teknologi. Pernahkah kamu bertanya-tanya mengapa setelah mencari "sepatu lari" di mesin pencari, tiba-tiba iklan sepatu tersebut muncul di blog berita yang kamu baca hanya beberapa detik kemudian?
 
-Ini bukan kebetulan, dan bukan juga karena ponsel kamu "mendengarkan" pembicaraan kamu secara mistis. Ini adalah hasil kerja dari **Ekosistem AdTech (Advertising Technology)** yang beroperasi dalam hitungan milidetik.
+Ini bukan kebetulan, dan bukan juga karena ponsel kamu "mendengarkan" pembicaraan kamu. Ini adalah hasil kerja dari **Ekosistem AdTech (Advertising Technology)** yang beroperasi dalam hitungan milidetik.
 
 ### Apa itu AdTech dan Iklan Programatik?
 
@@ -125,4 +125,4 @@ Tidak semua iklan dibeli melalui lelang terbuka (RTB). Ada beberapa metode lain:
 - **Brand Safety:** Iklan muncul di situs web yang kontennya tidak pantas atau negatif.
 - **Kompleksitas:** Terlalu banyak perantara (sering disebut *AdTech Tax*) yang mengambil potongan biaya di setiap tahap.
 
-> **Pesan Utama:** Ekosistem AdTech adalah keajaiban teknik yang mengubah perilaku internet menjadi peluang ekonomi. Namun, kecepatan dan otomatisasi ini menuntut pengawasan yang ketat agar tetap transparan dan adil bagi semua pihak.
+> **Pesan Utama:** Ekosistem AdTech adalah sistem teknis yang mengubah perilaku internet menjadi peluang ekonomi. Namun, kecepatan dan otomatisasi ini menuntut pengawasan yang ketat agar tetap transparan dan adil bagi semua pihak.

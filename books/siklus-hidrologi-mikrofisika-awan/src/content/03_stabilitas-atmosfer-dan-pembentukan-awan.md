@@ -1,6 +1,6 @@
 ## Stabilitas Atmosfer dan Pembentukan Awan
 
-Pernahkah terlintas pertanyaan mengapa pada suatu hari langit terlihat biru bersih tanpa awan, sementara di hari lain gumpalan awan putih raksasa muncul secara tiba-tiba dan berubah menjadi badai? Jawabannya terletak pada interaksi antara suhu dan tekanan di atmosfer bumi.
+Pernahkah terlintas pertanyaan mengapa pada suatu hari langit terlihat biru bersih tanpa awan, sementara di hari lain muncul gumpalan awan putih raksasa? Ia muncul secara tiba-tiba, lalu berubah menjadi badai. Jawabannya terletak pada interaksi antara suhu dan tekanan di atmosfer bumi.
 
 Pada bagian ini, kita akan mempelajari bagaimana udara bergerak secara vertikal, mengapa udara yang naik mendingin, dan bagaimana profil suhu atmosfer menentukan apakah awan akan terbentuk atau tertekan sebelum sempat tumbuh.
 
@@ -29,7 +29,7 @@ Proses perubahan suhu ini disebut **Proses Adiabatik**, yakni perubahan suhu yan
 
 Terdapat tiga jenis laju penurunan suhu yang utama untuk dipahami:
 
-1. **Dry Adiabatic Lapse Rate (DALR) / Laju Adiabatik Kering:** Laju pendinginan paket udara yang *belum jenuh* ($\text{RH} < 100\text{\%}$) saat bergerak naik.
+1. **Dry Adiabatic Lapse Rate (DALR) / Laju Adiabatik Kering:** Laju pendinginan paket udara yang *belum jenuh* ($\text{RH} \lt 100\text{\%}$) saat bergerak naik.
 
    <div>
    $$
@@ -45,7 +45,7 @@ Terdapat tiga jenis laju penurunan suhu yang utama untuk dipahami:
    $$
    </div>
 
-3. **Environmental Lapse Rate (ELR) / Laju Lingkungan:** Perubahan suhu udara aktual di atmosfer seiring bertambahnya ketinggian, yang diukur secara langsung menggunakan instrumen radiosonde (balon cuaca). Nilai $\text{ELR}$ bersifat sangat dinamis dan bervariasi tergantung pada kondisi cuaca setempat.
+3. **Environmental Lapse Rate (ELR) / Laju Lingkungan:** Perubahan suhu udara aktual di atmosfer seiring bertambahnya ketinggian, yang diukur secara langsung menggunakan instrumen radiosonde (balon cuaca). Nilai $\text{ELR}$ bersifat dinamis dan bervariasi tergantung pada kondisi cuaca setempat.
 
 ---
 
@@ -55,9 +55,9 @@ Stabilitas atmosfer ditentukan dengan membandingkan suhu paket udara yang naik (
 
 | Kondisi Stabilitas | Hubungan Lapse Rate | Perilaku Paket Udara | Bentuk Awan yang Terbentuk |
 | :--- | :--- | :--- | :--- |
-| **Atmosfer Stabil** | $\text{ELR} < \text{SALR} < \text{DALR}$ | Paket udara lebih dingin dari lingkungan; tenggelam kembali. | Tanpa awan atau awan pipih lapis (*Stratus*). |
+| **Atmosfer Stabil** | $\text{ELR} \lt \text{SALR} \lt \text{DALR}$ | Paket udara lebih dingin dari lingkungan; tenggelam kembali. | Tanpa awan atau awan pipih lapis (*Stratus*). |
 | **Atmosfer Tidak Stabil** | $\text{ELR} > \text{DALR} > \text{SALR}$ | Paket udara lebih hangat dari lingkungan; terus naik secara spontan. | Awan vertikal menjulang (*Cumulus*, *Cumulonimbus*). |
-| **Ketidakstabilan Bersyarat** | $\text{SALR} < \text{ELR} < \text{DALR}$ | Stabil saat kering, namun menjadi tidak stabil setelah mencapai kejenuhan. | Awan konvektif berkembang jika ada dorongan mekanis awal. |
+| **Ketidakstabilan Bersyarat** | $\text{SALR} \lt \text{ELR} \lt \text{DALR}$ | Stabil saat kering, namun menjadi tidak stabil setelah mencapai kejenuhan. | Awan konvektif berkembang jika ada dorongan mekanis awal. |
 
 #### A. Atmosfer Stabil (Stable)
 Udara dikatakan stabil jika paket udara yang didorong naik memiliki suhu **lebih dingin** dibandingkan lingkungan sekitarnya. Karena lebih dingin dan bermassa jenis lebih besar, paket udara tersebut akan cenderung turun kembali ke posisi semula.
@@ -67,7 +67,7 @@ Udara dikatakan stabil jika paket udara yang didorong naik memiliki suhu **lebih
 #### B. Atmosfer Tidak Stabil (Unstable)
 Udara berada dalam kondisi tidak stabil jika paket udara yang naik tetap ber-suhu **lebih hangat** daripada udara lingkungan. Karena lebih hangat dan ber-massa jenis lebih rendah, udara tersebut akan terus naik secara mandiri akibat daya apung positif (*positive buoyancy*).
 
-- **Dampak:** Perkembangan awan vertikal yang menjulang tinggi secara masif (*Cumulus* hingga *Cumulonimbus*).
+- **Dampak:** Perkembangan awan vertikal yang menjulang tinggi (*Cumulus* hingga *Cumulonimbus*).
 
 #### C. Ketidakstabilan Bersyarat (Conditional Instability)
 Kondisi ini merupakan keadaan yang paling umum di atmosfer. Paket udara bersifat stabil sewaktu dalam keadaan kering, tetapi berubah menjadi tidak stabil apabila dipaksa naik hingga mencapai titik jenuh.
@@ -76,7 +76,7 @@ Kondisi ini merupakan keadaan yang paling umum di atmosfer. Paket udara bersifat
 
   <div>
   $$
-  \text{SALR} < \text{ELR} < \text{DALR}
+  \text{SALR} \lt \text{ELR} \lt \text{DALR}
   $$
   </div>
 
@@ -126,10 +126,10 @@ Salah satu contoh penerapan nyata dari stabilitas atmosfer dan perubahan fase ua
 
 ---
 
-### Ringkasan Pembelajaran
+### Cara Mengingat Stabilitas Atmosfer
 
 - **Visual (Grafis):** Bayangkan $\text{ELR}$ sebagai "peta jalan" suhu lingkungan, sedangkan $\text{DALR}/\text{SALR}$ sebagai "laju pendinginan" kendaraan (paket udara). Apabila paket udara tetap lebih hangat ketimbang suhu lingkungan, paket udara tersebut akan terus membumbung tinggi.
 - **Auditori (Narasi):** Mengingat alur utama pembentukan awan: *"Pengangkatan - Ekspansi - Pendinginan - Kejenuhan - Kondensasi Awan."*
 - **Kinestetik (Aksi):** Meniup punggung tangan dengan mulut terbuka lebar akan terasa hangat, sedangkan meniup dengan bibir mencucut kecil akan terasa dingin akibat ekspansi udara yang cepat. Ini memperagakan prinsip dasar pendinginan adiabatik secara langsung.
 
-> **Pernyataan Penutup:** Stabilitas atmosfer merupakan pengatur utama dinamika cuaca. Parameter ini menentukan apakah energi laten di atmosfer akan tetap tersimpan atau dilepaskan secara masif dalam bentuk badai konvektif. Pemahaman menyeluruh mengenai profil suhu vertikal menjadi fondasi utama dalam analisis dan prakiraan cuaca.
+> **Pernyataan Penutup:** Stabilitas atmosfer merupakan pengatur utama dinamika cuaca. Parameter ini menentukan apakah energi laten di atmosfer akan tetap tersimpan atau dilepaskan dalam jumlah besar dalam bentuk badai konvektif. Pemahaman menyeluruh mengenai profil suhu vertikal menjadi fondasi utama dalam analisis dan prakiraan cuaca.

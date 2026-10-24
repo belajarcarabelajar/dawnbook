@@ -1,6 +1,6 @@
 ## Fondasi Kecerdasan Interpersonal
 
-Teknologi boleh berkembang secepat kilat, tetapi ada satu hal yang tetap membedakan antara mereka yang kariernya stagnan dengan yang melesat: kemampuan berinteraksi, memahami, dan berkolaborasi dengan manusia lain. 
+Teknologi boleh berkembang cepat, tetapi ada satu hal yang tetap membedakan mereka yang kariernya stagnan dengan mereka yang kariernya melesat. Hal itu adalah kemampuan berinteraksi, memahami, dan berkolaborasi dengan manusia lain. 
 
 Bagian ini membahas esensi kecerdasan interpersonal dan urgensi perannya sebagai pilar horizontal utama dalam profil **T-shaped professional**.
 
@@ -25,13 +25,13 @@ Jika kecerdasan **intrapersonal** berfokus pada pemahaman diri sendiri, kecerdas
 
 ## Kecerdasan Interpersonal Layaknya *Universal Adapter*
 
-Bayangkan kamu adalah sebuah perangkat elektronik canggih dengan spesifikasi tertinggi. Daya komputasimu luar biasa, tetapi kamu mencoba menyambungkannya ke stopkontak di negara asing yang memiliki tipe colokan berbeda. Tanpa bantuan sebuah *adapter*, secanggih apa pun perangkatmu, arus listrik tidak akan mengalir dan perangkat tersebut tidak akan pernah menyala.
+Bayangkan kamu adalah sebuah perangkat elektronik canggih dengan spesifikasi tinggi. Daya komputasimu besar, tetapi kamu mencoba menyambungkannya ke stopkontak di negara asing yang memiliki tipe colokan berbeda. Tanpa bantuan sebuah *adapter*, secanggih apa pun perangkatmu, arus listrik tidak akan mengalir dan perangkat tersebut tidak akan pernah menyala.
 
 Kecerdasan interpersonal berperan layaknya *universal adapter* tersebut. Kemampuan ini menghubungkan keahlian teknismu yang mendalam dengan sistem luar, baik itu rekan kerja, divisi lain, maupun klien, sehingga hasil kerjamu bisa dipahami, digunakan, dan diapresiasi.
 
 ## Kecerdasan Interpersonal dalam Profil *T-Shaped Professional*
 
-Dunia kerja modern sangat menghargai individu dengan profil *T-shaped*. Apa sebenarnya makna di balik simbol ini?
+Dunia kerja modern menghargai individu dengan profil *T-shaped*. Apa sebenarnya makna di balik simbol ini?
 
 - **Garis Vertikal (I)**  
   Pilar ini menggambarkan kedalaman keahlian teknis atau spesialisasi yang kamu miliki, misalnya di bidang *data science*, akuntansi, atau desain grafis.
@@ -51,7 +51,7 @@ $$
 $$
 </div>
 
-Jika kecerdasan interpersonal mendekati nol, nilai profesional yang dihasilkan juga akan sangat kecil, tidak peduli seberapa hebat keahlian teknis yang dimiliki. Di sinilah kecerdasan interpersonal bertindak sebagai akselerator karier.
+Jika kecerdasan interpersonal mendekati nol, nilai profesional yang dihasilkan juga akan kecil, tidak peduli seberapa hebat keahlian teknis yang dimiliki. Di sinilah kecerdasan interpersonal bertindak sebagai akselerator karier.
 
 ## Mengapa Menjadi Pilar Horizontal Utama?
 

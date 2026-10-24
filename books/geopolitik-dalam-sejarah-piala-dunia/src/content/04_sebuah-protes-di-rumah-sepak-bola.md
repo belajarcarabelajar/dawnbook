@@ -1,4 +1,4 @@
-## Sebuah Protes di "Rumah" Sepak Bola
+## Boikot Afrika atas Piala Dunia Inggris 1966
 
 Tahun 1966 seharusnya menjadi perayaan besar bagi sepak bola. Inggris, negara yang mengklaim sebagai penemu olahraga ini, menjadi tuan rumah Piala Dunia untuk pertama kalinya. Namun, di balik kemegahan stadion Wembley dan eforia lagu *"World Cup Willie"*, sebuah guncangan geopolitik besar terjadi.
 
@@ -70,7 +70,7 @@ Djan mengirimkan telegram protes yang sangat tajam kepada FIFA:
 
 > "Keputusan untuk menggabungkan Afrika dan Asia adalah keputusan yang tidak adil dan bermuatan politik. Afrika menuntut satu jatah otomatis."
 
-Ketika FIFA menolak tuntutan tersebut, Djan menggalang kekuatan melalui **CAF (Confederation of African Football)**. Hasilnya mengejutkan dunia: 31 negara Afrika menyatakan mundur serentak. Piala Dunia 1966 akhirnya berlangsung tanpa satu pun wakil dari benua hitam.
+Ketika FIFA menolak tuntutan tersebut, Djan menggalang kekuatan melalui **CAF (Confederation of African Football)**. Hasilnya, 31 negara Afrika menyatakan mundur serentak. Piala Dunia 1966 akhirnya berlangsung tanpa satu pun wakil dari benua hitam.
 
 ## Dampak dan Transformasi
 
@@ -92,7 +92,7 @@ Pelajaran dari aksi boikot tahun 1966 ini tetap relevan hingga hari ini, melampa
 - **Dampak Nyata Posisi Tawar Kolektif.** Boikot terpadu dari negara-negara Afrika memberikan bukti bahwa persatuan negara berkembang mampu menekan institusi raksasa untuk mengubah kebijakan yang diskriminatif.
 - **Pentingnya Standar Inklusivitas.** Saat ini, keberhasilan pergelaran global diukur dari keberagaman pesertanya. Jika Afrika tidak bersikap tegas pada 1966, pencapaian bersejarah seperti keberhasilan Maroko menembus semifinal Piala Dunia 2022 mungkin tidak akan pernah terjadi.
 
-## Ringkasan Konsep
+## Empat Sisi Boikot 1966
 
 | Aspek | Detail |
 | --- | --- |

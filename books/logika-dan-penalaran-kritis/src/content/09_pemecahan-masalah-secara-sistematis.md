@@ -1,12 +1,12 @@
 ## Pemecahan Masalah secara Sistematis
 
-Menghadapi masalah besar sering kali terasa seperti mencoba mengurai benang kusut yang tidak ada ujungnya. Kebanyakan orang bereaksi secara impulsif atau emosional saat menemui hambatan. Namun, dalam kerangka **Logika dan Penalaran Kritis**, pemecahan masalah bukanlah tentang tebak-tebakan, melainkan tentang sebuah **proses algoritmis yang disiplin**.
+Menghadapi masalah besar sering kali terasa seperti mencoba mengurai benang kusut. Kebanyakan orang bereaksi secara impulsif atau emosional saat menemui hambatan. Namun, dalam kerangka **Logika dan Penalaran Kritis**, pemecahan masalah bukanlah tentang tebak-tebakan, melainkan tentang sebuah **proses algoritmis yang disiplin**.
 
 Pemecahan masalah secara sistematis adalah kemampuan untuk membedah tantangan yang kompleks menjadi bagian-bagian kecil yang dapat dikelola, lalu menerapkan logika untuk menemukan solusi yang paling efektif dan rasional.
 
 ### 1. Mendefinisikan Masalah
 
-Langkah pertama yang paling utama adalah memahami apa sebenarnya masalahnya. Seringkali kita terjebak menangani **gejala** (symptoms), bukan **akar penyebab** (root cause).
+Langkah pertama adalah memahami apa sebenarnya masalahnya. Seringkali kita terjebak menangani **gejala** (symptoms), bukan **akar penyebab** (root cause).
 
 **Analogi:** Jika kamu pergi ke dokter karena sakit kepala (gejala), dokter yang baik tidak hanya memberi kamu obat pereda nyeri. Ia akan mencari tahu apakah sakit kepala itu karena kurang tidur, dehidrasi, atau infeksi (akar penyebab).
 
@@ -23,7 +23,7 @@ Untuk mendefinisikan masalah secara sistematis, gunakan teknik **5W1H**:
 
 ### 2. Analisis Akar Masalah (Root Cause Analysis)
 
-Setelah masalah didefinisikan, kita harus menggali lebih dalam. Salah satu metode yang paling efektif adalah **The 5 Whys** (5 Mengapa).
+Setelah masalah didefinisikan, kita harus menggali lebih dalam. Salah satu metodenya adalah **The 5 Whys** (5 Mengapa).
 
 **Skenario:** Server sebuah aplikasi e-commerce tiba-tiba mati.
 
@@ -45,7 +45,7 @@ Pada tahap ini, tujuannya adalah memproduksi gagasan sebanyak-banyaknya terlebih
 
 ### 4. Memilih Solusi yang Paling Rasional
 
-Setelah memiliki daftar alternatif, saatnya menggunakan berpikir konvergen. Kita memerlukan kriteria yang objektif untuk memilih. Salah satu alat yang paling kuat adalah **Matriks Keputusan (Decision Matrix)**.
+Setelah memiliki daftar alternatif, saatnya menggunakan berpikir konvergen. Kita memerlukan kriteria yang objektif untuk memilih. Salah satu alatnya adalah **Matriks Keputusan (Decision Matrix)**.
 
 Misalkan kamu harus memilih antara 3 solusi perangkat lunak (A, B, dan C) dengan kriteria: Biaya, Kemudahan Penggunaan, dan Fitur.
 
@@ -71,7 +71,7 @@ Dimana:
 | Kemudahan | 0.2 | 7 (1.4) | 6 (1.2) |
 | **Total** | **1.0** | **7.0** | **6.8** |
 
-Secara matematis dan rasional, **Solusi A** adalah pilihan terbaik meskipun Solusi B memiliki fitur yang lebih hebat.
+Secara matematis dan rasional, **Solusi A** adalah pilihan terbaik meskipun Solusi B unggul dalam fitur.
 
 ### 5. Implementasi dan Evaluasi
 

@@ -1,4 +1,4 @@
-# Efek Halo dan Efek Tanduk
+## Efek Halo dan Efek Tanduk
 
 Pernahkah kamu bertemu seseorang yang sangat menawan secara fisik dan secara otomatis berasumsi bahwa mereka juga cerdas, baik hati, dan jujur? Atau sebaliknya, pernahkah kamu melihat seseorang yang berpakaian sangat berantakan dan langsung menyimpulkan bahwa mereka malas atau tidak kompeten di tempat kerja?
 
@@ -12,7 +12,7 @@ Istilah ini pertama kali dicetuskan oleh psikolog **Edward Thorndike** pada tahu
 
 > **Lampu Sorot Panggung** Bayangkan sebuah lampu sorot besar di atas panggung. Jika lampu itu berwarna emas (kesan positif), semua benda di bawahnya (entah itu kursi tua atau meja rusak) akan tampak berkilau dan mewah. Cahaya tersebut "meluap" ke area di sekitarnya.
 
-### Mengapa Ini Terjadi?
+### Profil Utuh dari Satu Informasi
 
 Otak manusia menyukai efisiensi. Menilai setiap sifat seseorang secara mendalam membutuhkan energi mental yang besar. Dengan Efek Halo, otak kita menggunakan "jalan pintas" dengan mengambil satu informasi yang tersedia dan membangun profil lengkap di sekitarnya agar kita bisa membuat keputusan cepat.
 
@@ -20,11 +20,11 @@ Otak manusia menyukai efisiensi. Menilai setiap sifat seseorang secara mendalam 
 
 Jika Efek Halo memberikan "lingkaran cahaya" malaikat pada seseorang, **Efek Tanduk** memberikan "tanduk iblis". Ini terjadi ketika satu kesan negatif atau sifat buruk yang terlihat menyebabkan kita memandang seluruh karakter seseorang secara negatif.
 
-**Contoh Sederhana:** Seorang rekan kerja datang terlambat pada hari pertamanya. Karena kejadian tunggal ini, kamu mungkin berasumsi bahwa dia tidak bertanggung jawab, kurang motivasi, dan mungkin tidak kompeten dalam pekerjaannya, meskipun sebenarnya dia adalah seorang ahli di bidangnya yang kebetulan mengalami kendala transportasi yang luar biasa.
+**Contoh Sederhana:** Seorang rekan kerja datang terlambat pada hari pertamanya. Karena kejadian tunggal ini, kamu mungkin berasumsi bahwa dia tidak bertanggung jawab, kurang motivasi, dan mungkin tidak kompeten dalam pekerjaannya, meskipun sebenarnya dia adalah seorang ahli di bidangnya yang kebetulan mengalami kendala transportasi.
 
 *Apakah kamu pernah merasa tidak menyukai seseorang hanya karena satu opini politik mereka, padahal kamu belum mengenal aspek lain dari hidup mereka?*
 
-## 3. Mekanisme Psikologis di Balik Layar
+## 3. Kebutuhan akan Konsistensi Kognitif
 
 Secara psikologis, kedua bias ini berakar pada kebutuhan kita akan **konsistensi kognitif**. Kita ingin dunia kita masuk akal dan konsisten. Jika kita menyukai seseorang, rasanya aneh (secara mental) jika mereka memiliki sifat buruk. Jadi, otak kita "menghaluskan" ketidakkonsistenan tersebut.
 
@@ -34,7 +34,7 @@ Dan sebaliknya jika $\text{Kesan Umum} < 0$ (Negatif).
 
 ## 4. Manifestasi dalam Berbagai Bidang
 
-Efek Halo dan Tanduk terjadi dalam pertemuan pribadi dan meresap ke dalam struktur masyarakat kita:
+Efek Halo dan Tanduk terjadi dalam pertemuan pribadi dan dalam berbagai bidang kehidupan bermasyarakat:
 
 ### A. Dunia Kerja dan Rekrutmen
 
@@ -78,4 +78,4 @@ Cobalah aktivitas singkat ini:
 1. Ambil selembar kertas dan bagi menjadi dua kolom.
 2. Di kolom kiri, tuliskan satu orang yang sangat kamu kagumi. Di kolom kanan, tuliskan satu orang yang tidak kamu sukai.
 3. Tuliskan 3 sifat buruk dari orang yang kamu kagumi, dan 3 sifat baik dari orang yang tidak kamu sukai.
-4. *Rasakan betapa sulitnya otak kamu mencari informasi yang berlawanan dengan kesan umum kamu. Itulah kekuatan Efek Halo dan Tanduk yang sedang bekerja.*
+4. *Rasakan betapa sulitnya otak kamu mencari informasi yang berlawanan dengan kesan umum kamu. Itulah Efek Halo dan Tanduk yang sedang bekerja.*

@@ -1,8 +1,8 @@
 ## Kebebasan Radikal dan Beban Tanggung Jawab
 
-Selamat datang di jantung filsafat eksistensialisme. Jika sebelumnya kita telah memahami bahwa kita lahir tanpa "buku petunjuk" (eksistensi mendahului esensi), sekarang kita akan menghadapi konsekuensi paling logis sekaligus paling menakutkan dari kenyataan tersebut: **Kebebasan Radikal**.
+Kebebasan radikal berarti kamu memikul sendiri tanggung jawab atas setiap pilihan, karena tidak ada buku petunjuk yang menentukan siapa kamu. Jika sebelumnya kita telah memahami bahwa kita lahir tanpa "buku petunjuk" (eksistensi mendahului esensi), sekarang kita akan menghadapi konsekuensi yang logis sekaligus menakutkan dari kenyataan tersebut: **Kebebasan Radikal**.
 
-Pernahkah kamu merasa lumpuh saat harus mengambil keputusan besar? Atau merasa bersalah saat menyadari bahwa hidupmu saat ini adalah hasil dari pilihan-pilihanmu sendiri? Itulah getaran dari kebebasan radikal.
+Pernahkah kamu merasa lumpuh saat harus mengambil keputusan besar? Atau merasa bersalah saat menyadari bahwa hidupmu saat ini adalah hasil dari pilihan-pilihanmu sendiri? Itulah rasanya berhadapan dengan kebebasan radikal.
 
 ## 1\. "Manusia Dihukum untuk Bebas"
 
@@ -16,7 +16,7 @@ Istilah ini dipopulerkan oleh **Jean-Paul Sartre**. Sekilas, kata "dihukum" dan 
 2. **Ketiadaan Panduan:** Moralitas absolut atau takdir tidak pernah ada untuk mendikte tindakan kita.
 3. **Pilihan yang Mutlak:** Tidak memilih pun sebenarnya adalah sebuah pilihan untuk bersikap pasif.
 
-**Sang Pilot di Tengah Badai** Bayangkan kamu adalah pilot sebuah pesawat yang mesinnya mati di tengah badai. Kamu tidak memilih untuk berada dalam situasi itu. Namun, di tanganmu ada tuas kendali. Kamu bebas membelokkan pesawat ke mana saja, tetapi kebebasan itu terasa seperti beban yang sangat berat karena nyawa seluruh penumpang (hidupmu) bergantung pada satu tarikan tuas tersebut. Kamu "dihukum" untuk memegang kendali.
+**Sang Pilot di Tengah Badai** Bayangkan kamu adalah pilot sebuah pesawat yang mesinnya mati di tengah badai. Kamu tidak memilih untuk berada dalam situasi itu. Namun, di tanganmu ada tuas kendali. Kamu bebas membelokkan pesawat ke mana saja, tetapi kebebasan itu terasa seperti beban berat karena nyawa seluruh penumpang (hidupmu) bergantung pada satu tarikan tuas tersebut. Kamu "dihukum" untuk memegang kendali.
 
 ## 2\. Tidak Ada Alasan untuk Berdalih
 
@@ -32,11 +32,11 @@ Berkata "Aku tidak punya pilihan lain" sering kali hanyalah cara kita menghindar
 
 ## 3\. Memilih untuk Semua Orang
 
-Ini adalah bagian yang paling mendalam. Menurut kaum eksistensialist, ketika seseorang memilih, ia tidak hanya memilih untuk dirinya sendiri, tetapi ia seolah-olah menetapkan standar bagi **seluruh umat manusia**.
+Menurut kaum eksistensialis, ketika seseorang memilih, ia tidak hanya memilih untuk dirinya sendiri, tetapi ia seolah-olah menetapkan standar bagi **seluruh umat manusia**.
 
 Jika kita menggunakan logika formal untuk menggambarkan tanggung jawab ini: Misalkan $P$ adalah pilihan individu dan $V$ adalah nilai kemanusiaan universal, maka: $P \implies V$ *(Setiap pilihan individu menyiratkan sebuah nilai bagi semua orang)*
 
-Ketika kamu memilih untuk menjadi orang yang jujur dalam bisnis, kamu seolah-olah menyatakan bahwa: *"Inilah cara yang seharusnya dilakukan oleh semua manusia."* Itulah sebabnya setiap keputusan kita membawa beban moral yang sangat besar. Kita adalah pemahat wajah kemanusiaan melalui tindakan kita sehari-hari.
+Ketika kamu memilih untuk menjadi orang yang jujur dalam bisnis, kamu seolah-olah menyatakan bahwa: *"Inilah cara yang seharusnya dilakukan oleh semua manusia."* Itulah sebabnya setiap keputusan kita membawa beban moral yang besar. Lewat tindakan sehari-hari, kita ikut membentuk gambaran tentang manusia yang seharusnya.
 
 ## 4\. Dilema Sang Murid (Sartre)
 
@@ -77,4 +77,4 @@ Untuk membantumu mengingat, berikut adalah poin-poin kunci dari kebebasan radika
 - **Konsekuensi Moral:** Setiap pilihan individu memproyeksikan nilai yang dianggap berharga bagi seluruh umat manusia.
 - **Angst (Kecemasan):** Kecemasan eksistensial ini muncul saat menyadari sepenuhnya bahwa masa depan berada di tanganmu sendiri.
 
-> **Pesan Penting:** Jangan melihat beban tanggung jawab ini sebagai alasan untuk takut melangkah. Sebaliknya, lihatlah ini sebagai kehormatan tertinggi manusia: bahwa kamu adalah penulis utama dari naskah hidupmu sendiri.
+> **Pesan Penting:** Jangan melihat beban tanggung jawab ini sebagai alasan untuk takut melangkah. Sebaliknya, lihatlah ini sebagai tanda bahwa kamu sendiri yang menulis naskah hidupmu.

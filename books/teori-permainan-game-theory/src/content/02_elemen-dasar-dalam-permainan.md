@@ -75,7 +75,7 @@ Ketiga elemen tadi bisa dirangkum dalam satu matriks imbalan. Pilihan Toko A ada
 
 Sel kanan atas adalah kebalikan dari kasus ketiga: jika Toko A bertahan di Harga Tinggi sementara Toko B memasang Harga Murah, giliran Toko B yang merebut pelanggan dan mendapat Rp15 juta, sedangkan Toko A hanya mendapat Rp2 juta.
 
-### Ringkasan Strategis
+### Pemain, Strategi, dan Imbalan
 
 | Elemen | Deskripsi | Pertanyaan Kunci |
 | --- | --- | --- |

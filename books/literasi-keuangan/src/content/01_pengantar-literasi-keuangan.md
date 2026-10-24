@@ -1,8 +1,8 @@
 ## Pengantar Literasi Keuangan
 
-Literasi keuangan menjadi fondasi utama dalam mencapai kebebasan dan stabilitas finansial. Memahami cara mengelola uang dengan bijak sangat dibutuhkan di zaman sekarang.
+Literasi keuangan menjadi fondasi utama dalam mencapai kebebasan dan stabilitas finansial. Memahami cara mengelola uang dengan bijak dibutuhkan di zaman sekarang.
 
-Di era modern yang serba cepat ini, kemampuan kamu dalam mengatur keuangan akan menentukan kualitas hidupmu di masa depan.
+Kemampuan kamu dalam mengatur keuangan akan memengaruhi kualitas hidupmu di masa depan.
 
 ## Apa Itu Literasi Keuangan?
 
@@ -61,9 +61,9 @@ Intinya, literasi keuangan membekali kamu untuk menentukan apa yang mau kamu lak
 
 ## Literasi Keuangan di Era Digital
 
-Di era digitalisasi, pemahaman keuangan makin tak terpisahkan dari keseharian. Akses ke *mobile banking*, *e-commerce*, layanan *paylater*, hingga dompet digital sangatlah mudah. Kalau literasi kamu rendah, kamu bisa gampang tertipu atau terjerat gaya hidup konsumtif.
+Di era digitalisasi, pemahaman keuangan makin dekat dengan keseharian. Akses ke *mobile banking*, *e-commerce*, layanan *paylater*, hingga dompet digital mudah didapat. Kalau literasi kamu rendah, kamu bisa gampang tertipu atau terjerat gaya hidup konsumtif.
 
-Banyak transaksi kini beralih ke ranah digital. Karena itu, melek finansial online jadi kunci agar kamu siap menghadapi masa depan.
+Banyak transaksi kini beralih ke ranah digital. Karena itu, melek finansial online jadi makin penting.
 
 Berdasarkan laporan OJK, indeks literasi keuangan nasional terus meningkat. Pada tahun 2025, angka ini mencapai 66,46%. Capaian tersebut tergolong baik dan menunjukkan kemajuan positif.
 

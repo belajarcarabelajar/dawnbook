@@ -1,10 +1,10 @@
 ## Mengubah Krisis Menjadi Transformasi Positif
 
-Selamat! Jika kamu sampai pada bagian ini, artinya kamu siap untuk berhenti sekadar "bertahan hidup" dan mulai "berkembang". *Quarter-Life Crisis* (QLC) sering kali terasa seperti badai yang menghancurkan kompas navigasimu. Tapi, tahukah kamu bahwa dalam bahasa Mandarin, kata "krisis" (*wēijī*) terdiri dari dua karakter: satu melambangkan "bahaya" dan satu lagi melambangkan **"peluang"**?
+Jika kamu sudah sampai pada bagian ini, artinya kamu siap untuk berhenti sekadar "bertahan hidup" dan mulai "berkembang". *Quarter-Life Crisis* (QLC) sering kali membuatmu kehilangan arah. Tapi, tahukah kamu bahwa dalam bahasa Mandarin, kata "krisis" (*wēijī*) terdiri dari dua karakter: satu melambangkan "bahaya" dan satu lagi melambangkan **"peluang"**?
 
 Bagian ini akan memandu kamu mengubah rasa bingung tersebut menjadi energi untuk melakukan transformasi diri yang autentik.
 
-## Renovasi Arsitektural Jiwa
+## Bangunan yang Dirancang Orang Lain
 
 Bayangkan hidupmu adalah sebuah bangunan tua yang kokoh, tetapi desainnya dibuat oleh orang tua, guru, dan tren media sosial. Saat memasuki usia 20-an, kamu mulai menyadari bahwa tata letak ruangannya tidak nyaman, jendelanya terlalu kecil, dan warnanya tidak sesuai dengan kepribadianmu.
 
@@ -83,8 +83,8 @@ Berikan tanda cek pada poin yang sudah atau sedang kamu rasakan:
 - Saya telah mencoba setidaknya satu hal baru dalam tiga bulan terakhir yang benar-benar murni karena keinginan pribadi.
 - Saya mulai bisa membedakan antara "ambisi orang lain" dan "ambisi pribadi".
 
-## Menjadi Nahkoda bagi Diri Sendiri
+## Awal dari Kedewasaan yang Sadar
 
 *Quarter-Life Crisis* bukan akhir dari masa mudamu. Ini adalah awal dari kedewasaan yang sadar. Dengan melewati krisis ini, kamu sedang melatih otot-otot emosional yang akan membuatmu tangguh di usia 30-an, 40-an, dan seterusnya.
 
-Ingatlah, **transformasi adalah maraton, bukan sprint.** Hargai setiap langkah kecil yang kamu ambil hari ini. Kamu sedang membangun masa depan yang sukses secara statistik sekaligus damai secara jiwa.
+Ingatlah, **transformasi adalah maraton, bukan sprint.** Hargai setiap langkah kecil yang kamu ambil hari ini. Kamu sedang membangun masa depan yang berhasil sekaligus tenang.

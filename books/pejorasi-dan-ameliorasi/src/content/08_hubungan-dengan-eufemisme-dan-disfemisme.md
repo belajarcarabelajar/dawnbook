@@ -24,7 +24,7 @@ Disfemisme merupakan kebalikan dari eufemisme, yakni penggunaan kata atau frasa 
 
 ### Perubahan Makna versus Gaya Bahasa
 
-Banyak pemerhati bahasa pemula menyamakan eufemisme dengan ameliorasi, padahal kedua gejala tersebut memiliki mekanisme operasional yang sangat berlainan.
+Banyak pemerhati bahasa pemula menyamakan eufemisme dengan ameliorasi, padahal kedua gejala tersebut memiliki mekanisme operasional yang berlainan.
 
 #### Arsitektur Bangunan dan Tata Cahaya
 
@@ -32,7 +32,7 @@ Banyak pemerhati bahasa pemula menyamakan eufemisme dengan ameliorasi, padahal k
 >
 > **Ameliorasi dan Pejorasi** serupa dengan **renovasi arsitektur struktural**. Ketika gudang kumuh dirombak total menjadi paviliun elegan, terjadi perubahan fisik yang permanen (ameliorasi). Sebaliknya, apabila hunian megah dibiarkan terbengkalai hingga runtuh menjadi puing, terjadi degradasi struktural yang menetap (pejorasi).
 >
-> **Eufemisme dan Disfemisme** bekerja layaknya **tata cahaya (*lighting*)**. Struktur ruangannya tetap sama, tetapi penutur memasang lampu bernuansa hangat (eufemisme) agar ruangan terkesan ramah, atau menyalakan lampu sorot dingin yang tajam (disfemisme) untuk menciptakan kesan mencekam. Tata cahaya tersebut dapat diganti seketika sesuai kebutuhan panggung komunikasi.
+> **Eufemisme dan Disfemisme** bekerja layaknya **tata cahaya (*lighting*)**. Struktur ruangannya tetap sama, tetapi penutur memasang lampu bernuansa hangat (eufemisme) agar ruangan terkesan ramah, atau menyalakan lampu sorot dingin yang tajam (disfemisme) untuk menciptakan kesan mencekam. Tata cahaya tersebut dapat diganti seketika sesuai kebutuhan komunikasi.
 
 #### Tabel Perbandingan Selektif
 
@@ -59,7 +59,7 @@ Pertanyaan menarik muncul ketika mencermati kata *koruptor*: apakah kata tersebu
 
 ### Penerapan Praktis dalam Bahasa Politik dan Media
 
-Dalam interaksi sosial dan wacana media massa, kemampuan membedakan kedua ranah ini sangat berharga agar publik tidak terjebak dalam rekayasa makna manipulatif.
+Dalam interaksi sosial dan wacana media massa, kemampuan membedakan kedua ranah ini membantu publik agar tidak terjebak dalam rekayasa makna manipulatif.
 
 #### Eufemisme dalam Bidang Ekonomi
 
@@ -73,11 +73,11 @@ Dalam perdebatan sengit di media sosial, seorang pengguna dapat menyebut gagasan
 
 - **Analisis Linguistik:** Pilihan kata ini tergolong **disfemisme**. Penutur secara sadar memanfaatkan leksem bernilai rasa rendah guna mendelegitimasi bobot intelektual dan kredibilitas lawan bicara.
 
-#### Pejorasi yang Telah Mengendap Permanen
+#### Disfemisme yang Menjadi Pejorasi
 
 Kata **"Oknum"**. Pada mulanya, leksem *oknum* bermakna netral yang merujuk pada "pribadi", "unsur", atau "perseorangan" (sebagaimana akar kata teologisnya). Namun, tatkala frasa *ada oknum yang terlibat* diucapkan dalam wacana berita hukum, masyarakat secara spontan memahaminya sebagai perujuk pelaku kejahatan atau pelanggar aturan.
 
-- **Analisis Linguistik:** Kasus ini bukan lagi sekadar penerapan disfemisme pragmatis, melainkan telah bermutasi menjadi **pejorasi** penuh. Konotasi negatifnya telah terlembagakan secara mantap dalam leksikon bahasa Indonesia kontemporer.
+- **Analisis Linguistik:** Kasus ini bukan lagi sekadar penerapan disfemisme pragmatis, melainkan telah berkembang menjadi **pejorasi** penuh. Konotasi negatifnya telah terlembagakan secara mantap dalam leksikon bahasa Indonesia kontemporer.
 
 ### Mengukur Nilai Rasa Melalui Formula Konotasi
 

@@ -1,8 +1,8 @@
 ## Tiga Tokoh Besar Stoikisme Romawi
 
-Pernahkah kamu membayangkan sebuah filosofi yang dipegang teguh oleh tiga orang dengan latar belakang yang sangat kontras? Bayangkan seorang penasihat kaisar yang sangat kaya raya, seorang budak yang cacat fisik, dan seorang kaisar yang menguasai hampir seluruh dunia yang dikenal saat itu.
+Pernahkah kamu membayangkan sebuah filosofi yang dipegang teguh oleh tiga orang dengan latar belakang yang kontras? Bayangkan seorang penasihat kaisar yang kaya raya, seorang budak yang cacat fisik, dan seorang kaisar yang menguasai hampir seluruh dunia yang dikenal saat itu.
 
-Meskipun status sosial mereka bagaikan bumi dan langit, ketiganya menarik kesimpulan yang sama tentang kehidupan melalui **Stoikisme**. Di bagian ini, kita akan mempelajari "Tiga Besar" Stoikisme Romawi yang pemikirannya tetap relevan hingga hari ini, ribuan tahun setelah mereka tiada.
+Meskipun status sosial mereka jauh berbeda, ketiganya menarik kesimpulan yang sama tentang kehidupan melalui **Stoikisme**. Di bagian ini, kita akan mempelajari "Tiga Besar" Stoikisme Romawi yang pemikirannya tetap relevan hingga hari ini, ribuan tahun setelah mereka tiada.
 
 ## 1\. Seneca (4 SM - 65 M)
 
@@ -10,7 +10,7 @@ Lucius Annaeus Seneca adalah sosok yang penuh kontras. Ia adalah salah satu oran
 
 ### Kebijaksanaan dalam Kemakmuran dan Kesengsaraan
 
-Seneca sering kali dianggap sebagai "Stoik yang paling manusiawi" karena tulisan-tulisannya yang berbentuk surat (*Epistulae Morales ad Lucilium*) terasa sangat pribadi dan penuh empati.
+Seneca sering kali dianggap sebagai "Stoik yang paling manusiawi" karena tulisan-tulisannya yang berbentuk surat (*Epistulae Morales ad Lucilium*) terasa pribadi dan penuh empati.
 
 - **Tentang Singkatnya Kehidupan**: Seneca berargumen bahwa hidup ini tidak pendek, melainkan kita yang membuang banyak waktu.
 	> "Kita bukan kekurangan waktu, tapi kita yang terlalu banyak menyia-nyiakannya."
@@ -58,7 +58,7 @@ Berbeda dengan Seneca yang menulis untuk orang lain, Marcus menulis untuk mendis
 | **Fokus Utama** | Penggunaan waktu & emosi | Kehendak bebas & kendali | Tugas, tanggung jawab & takdir |
 | **Kekuatan** | Retorika & Inspirasi | Ketajaman Logika | Kedalaman Spiritual |
 
-## Menggunakan "Kacamata" Tiga Tokoh
+## Cara Tiap Tokoh Menyikapi Gagal Promosi
 
 Bagaimana kita menerapkan perspektif mereka dalam menghadapi masalah modern (misalnya: gagal mendapatkan promosi jabatan)?
 
@@ -74,4 +74,4 @@ Bagaimana kita menerapkan perspektif mereka dalam menghadapi masalah modern (mis
 - *Apakah kamu merasa terjebak oleh keadaan yang tidak adil (seperti Epictetus)?*
 - *Atau kamu sedang berjuang mengelola kecemasan di tengah kesibukan dan ambisi (seperti Seneca)?*
 
-> **Pesan Penutup:** Meskipun mereka hidup dalam dunia yang sangat berbeda, Seneca, Epictetus, dan Marcus Aurelius setuju pada satu hal: Kebahagiaan tidak ditemukan dalam status atau harta, melainkan dalam karakter dan cara kita berpikir.
+> **Pesan Penutup:** Meskipun keadaan hidup mereka berbeda, Seneca, Epictetus, dan Marcus Aurelius setuju pada satu hal: Kebahagiaan tidak ditemukan dalam status atau harta, melainkan dalam karakter dan cara kita berpikir.

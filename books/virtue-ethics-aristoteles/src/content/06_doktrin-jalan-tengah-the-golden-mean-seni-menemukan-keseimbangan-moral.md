@@ -1,6 +1,6 @@
 ## Doktrin Jalan Tengah (The Golden Mean)
 
-Bayangkan kamu sedang menyetem sebuah gitar. Jika senarnya terlalu kendur, gitar tersebut tidak akan menghasilkan nada yang jelas. Sebaliknya, jika kamu memutarnya terlalu kencang, senar itu akan putus. Keindahan musik hanya tercipta ketika senar berada pada tegangan yang **tepat**, tidak kurang, tidak lebih.
+Bayangkan kamu sedang menyetem sebuah gitar. Jika senarnya terlalu kendur, gitar tersebut tidak akan menghasilkan nada yang jelas. Sebaliknya, jika kamu memutarnya terlalu kencang, senar itu akan putus. Nada yang jelas hanya muncul ketika senar berada pada tegangan yang **tepat**, tidak kurang, tidak lebih.
 
 Dalam Etika Kebajikan, Aristoteles mengajarkan bahwa karakter manusia bekerja dengan cara yang serupa. Inilah yang disebut dengan **Doktrin Jalan Tengah** (*The Golden Mean*).
 
@@ -12,7 +12,7 @@ Menurut Aristoteles, keburukan atau maksiat (*vice*) muncul ketika kita gagal me
 
 > "Kebajikan adalah keadaan karakter yang berkaitan dengan pilihan, yang terletak pada jalan tengah, yaitu jalan tengah yang relatif terhadap kita, yang ditentukan oleh prinsip rasional." - **Aristoteles**
 
-## 2\. Anatomi Jalan Tengah
+## 2\. Spektrum Sifat Karakter
 
 Untuk memahami konsep ini, kita bisa melihat setiap sifat karakter sebagai sebuah spektrum. Berbagai kebajikan utama bisa kita letakkan dalam spektrum ini untuk melihat posisi idealnya:
 
@@ -70,7 +70,7 @@ Misalnya, seorang rekan kerjamu melakukan kesalahan fatal dalam presentasi proye
 
 ## 6\. Cara Menemukan Jalan Tengah
 
-Mencapai keseimbangan memang sulit. Aristoteles sendiri mengakui bahwa berbuat baik itu sulit karena menemukan titik pusanya sangat menantang. Berikut beberapa cara untuk melatihnya:
+Mencapai keseimbangan memang sulit. Aristoteles sendiri mengakui bahwa berbuat baik itu sulit karena menemukan titik pusatnya menantang. Berikut beberapa cara untuk melatihnya:
 
 Setiap orang memiliki bias pribadinya masing-masing. Jika kamu menyadari kecenderungan pelit dalam dirimu, cobalah sedikit memaksakan diri untuk lebih "boros" dari biasanya, agar perlahan-lahan kamu bisa bergeser menuju titik dermawan.
 
@@ -78,4 +78,4 @@ Seringkali eksesi muncul akibat godaan kesenangan sesaat. Biasakan berhenti seje
 
 Selain itu, amati orang-orang bijak di sekitarmu. Lihat bagaimana orang-orang yang kamu anggap berintegritas bereaksi saat menghadapi situasi sulit. Meniru teladan yang baik adalah langkah yang paling efektif untuk mempelajari titik keseimbangan ini.
 
-Doktrin Jalan Tengah bukan berarti bersikap tanpa pendirian atau suam-suam kuku. Justru, hal ini sangat menekankan pada ketepatan tindakan. Seperti seorang pemanah, hanya ada satu titik sasaran yang tepat di tengah sekian banyak kemungkinan untuk meleset.
+Doktrin Jalan Tengah bukan berarti bersikap tanpa pendirian atau suam-suam kuku. Justru, hal ini menekankan ketepatan tindakan. Seperti seorang pemanah, hanya ada satu titik sasaran yang tepat di tengah sekian banyak kemungkinan untuk meleset.

@@ -1,9 +1,9 @@
 # Summary
 
-- [Hubungan Intim Sepak Bola dan Geopolitik](content/01_pendahuluan-hubungan-intim-sepak-bola-dan-geopolitik.md)
+- [Hubungan Erat Sepak Bola dan Geopolitik](content/01_pendahuluan-hubungan-intim-sepak-bola-dan-geopolitik.md)
 - [Fasisme dan Propaganda Piala Dunia Italia 1934](content/02_fasisme-dan-propaganda-piala-dunia-italia-1934.md)
 - [Rekonstruksi dan Pengucilan Negara Poros Pasca-Perang Dunia II](content/03_pasca-perang-dunia-ii-rekonstruksi-dan-pengucilan-negara-poros.md)
-- [Sebuah Protes di "Rumah" Sepak Bola](content/04_sebuah-protes-di-rumah-sepak-bola.md)
+- [Boikot Afrika atas Piala Dunia Inggris 1966](content/04_sebuah-protes-di-rumah-sepak-bola.md)
 - [Apartheid dan Pengucilan Afrika Selatan dari FIFA](content/05_apartheid-dan-pengucilan-afrika-selatan-dari-fifa.md)
 - [Piala Dunia 1978 di Bawah Bayang-Bayang Junta Militer](content/06_piala-dunia-1978-sepak-bola-di-bawah-bayang-bayang-junta-militer.md)
 - [Ketegangan Perang Dingin di Lapangan Hijau](content/07_ketegangan-perang-dingin-blok-barat-vs-blok-timur-di-lapangan-hijau.md)

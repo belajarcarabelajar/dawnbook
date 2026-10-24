@@ -2,7 +2,7 @@
 
 Kata "hoaks" sering dipakai untuk apa saja yang kita anggap salah. Padahal di baliknya ada beberapa hal berbeda yang punya niat, isi, dan cara kerja yang tidak sama. Kalau kamu bisa membedakannya, kamu jadi lebih tenang saat membaca dan tidak buru-buru menuduh atau ikut menyebar. Bab ini membedah bagian-bagian hoaks: apa definisinya, ada berapa bentuknya, dan bagaimana ia berkembang dari satu unggahan kecil sampai jadi keyakinan banyak orang.
 
-### Tiga Wajah Kekacauan Informasi
+### Misinformasi, Disinformasi, dan Malinformasi
 
 Peneliti Claire Wardle dan Hossein Derakhshan (2017) menawarkan cara berpikir yang rapi lewat kerangka **information disorder** atau kekacauan informasi. Alih-alih menyebut semuanya "hoaks", mereka memisahkannya menjadi tiga berdasarkan dua pertanyaan sederhana: apakah isinya benar, dan apakah ada niat merugikan.
 

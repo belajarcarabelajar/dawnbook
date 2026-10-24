@@ -2,15 +2,15 @@
 
 Bayangkan kamu sedang membangun sebuah rumah. Kamu memiliki bahan bangunan yang bagus (premis), tetapi jika kamu menyusunnya dengan teknik yang salah, rumah tersebut akan roboh saat diterjang angin. **Sesat pikir** atau *logical fallacy* adalah cacat dalam logika argumen yang menyebabkan kesimpulan tidak didukung secara sah oleh premisnya.
 
-Sesat pikir sering kali terdengar sangat meyakinkan. Mereka seperti "ilusi optik" bagi pikiran kita, tampak benar pada pandangan pertama, namun akan terlihat keliru jika kita memperhatikannya lebih dekat.
+Sesat pikir sering kali terdengar meyakinkan. Mereka seperti "ilusi optik" bagi pikiran kita, tampak benar pada pandangan pertama, namun akan terlihat keliru jika kita memperhatikannya lebih dekat.
 
 > **Sesat pikir bukan sekadar kesalahan fakta, melainkan kesalahan dalam "rantai penalaran" yang menghubungkan fakta dengan kesimpulan.**
 
 ## Mengapa Kita Sering Terjebak?
 
-Pikiran manusia secara alami mencari jalan pintas (*heuristics*) untuk memproses informasi dengan cepat. Para manipulator, pengiklan, dan politisi sering memanfaatkan celah ini untuk membujuk kita tanpa menyodorkan bukti yang kokoh. Dengan mengenali polanya, kamu akan memiliki perisai mental untuk melindungi diri dari berbagai manipulasi.
+Pikiran manusia secara alami mencari jalan pintas (*heuristics*) untuk memproses informasi dengan cepat. Para manipulator, pengiklan, dan politisi sering memanfaatkan celah ini untuk membujuk kita tanpa menyodorkan bukti yang kokoh. Dengan mengenali polanya, kamu bisa melindungi diri dari manipulasi semacam itu.
 
-## Galeri Sesat Pikir
+## Sesat Pikir yang Sering Dijumpai
 
 Berikut adalah beberapa jenis sesat pikir yang paling sering kita jumpai dalam kehidupan sehari-hari:
 
@@ -26,7 +26,7 @@ Argumen ini salah karena kelayakan teori ekonomi tidak ada hubungannya dengan ba
 
 ### 2. Strawman (Manusia Jerami)
 
-Dalam sesat pikir ini, seseorang menyimpangkan atau melebih-lebihkan argumen lawan sehingga menjadi sangat ekstrem, lalu menyerang versi ekstrem tersebut agar lebih mudah dikalahkan.
+Dalam sesat pikir ini, seseorang menyimpangkan atau melebih-lebihkan argumen lawan sehingga menjadi ekstrem, lalu menyerang versi ekstrem tersebut agar lebih mudah dikalahkan.
 
 Mari kita lihat skenario percakapan berikut:
 * **A:** *"Menurut saya, anggaran militer sebaiknya dialihkan sebagian untuk sektor pendidikan."*
@@ -48,9 +48,9 @@ Kesalahannya terletak pada ketiadaan bukti langsung yang membuktikan bahwa berma
 
 Menyajikan hanya dua pilihan ekstrem, padahal sebenarnya ada banyak pilihan lain di tengah-tengahnya.
 
-Contoh yang sangat sering kita temui: *"Kamu tidak mendukung kebijakan ini? Berarti kamu musuh negara!"*
+Contoh yang sering kita temui: *"Kamu tidak mendukung kebijakan ini? Berarti kamu musuh negara!"*
 
-Argumen ini keliru karena mengabaikan kenyataan bahwa seseorang bisa saja tidak menyetujui satu kebijakan spesifik, namun tetap mencintai negaranya. Dunia ini luas dan penuh warna, tidak sesederhana pilihan hitam atau putih yang ekstrem.
+Argumen ini keliru karena mengabaikan kenyataan bahwa seseorang bisa saja tidak menyetujui satu kebijakan spesifik, namun tetap mencintai negaranya. Pilihan yang tersedia tidak sesederhana hitam atau putih.
 
 ### 5. Appeal to Authority (Otoritas Semu)
 

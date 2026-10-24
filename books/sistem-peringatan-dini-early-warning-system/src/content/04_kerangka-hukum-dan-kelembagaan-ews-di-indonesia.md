@@ -1,6 +1,6 @@
 ## Kerangka Hukum dan Kelembagaan EWS di Indonesia
 
-Kerangka hukum dan kelembagaan menjadi tulang punggung sistem peringatan dini yang efektif di Indonesia. Tanpa landasan regulasi yang jelas, teknologi secanggih apa pun tidak akan mampu menyelamatkan nyawa karena alur komando menjadi kabur dan pembagian peran tumpang tindih. Kamu perlu memahami bagaimana negara merancang payung hukum dan jejaring lembaga agar peringatan dapat bergerak cepat dari sensor ke masyarakat.
+Kerangka hukum dan kelembagaan menjadi dasar sistem peringatan dini yang efektif di Indonesia. Tanpa landasan regulasi yang jelas, teknologi secanggih apa pun tidak akan mampu menyelamatkan nyawa karena alur komando menjadi kabur dan pembagian peran tumpang tindih. Kamu perlu memahami bagaimana negara merancang payung hukum dan jejaring lembaga agar peringatan dapat bergerak cepat dari sensor ke masyarakat.
 
 Pertanyaan kunci: *siapa yang berwenang mengeluarkan peringatan dini bencana di Indonesia dan apa dasar hukumnya?* Jawaban singkatnya ada pada dua undang-undang utama dan satu sistem nasional terpadu. Mari uraikan satu per satu.
 
@@ -28,7 +28,7 @@ Sistem hukum kebencanaan Indonesia dibangun berlapis untuk memastikan tidak ada 
 
 ### 2. Arsitektur Kelembagaan InaTEWS
 
-Indonesia Tsunami Early Warning System (InaTEWS) adalah contoh paling matang dari orkestrasi kelembagaan. Dibangun sejak 2005 sebagai respons atas tsunami Aceh 2004 dan diluncurkan Presiden pada 11 November 2008, InaTEWS menghubungkan sensor seismik BMKG dengan sistem pendukung keputusan hingga sirene di pantai. Pembagian perannya berpijak pada arahan Presiden dalam jumpa pers 20 Juli 2006: lima menit pertama setelah gempa adalah milik BMKG untuk menerbitkan peringatan, sedangkan penyampaian ke masyarakat menjadi tanggung jawab institusi terkait.
+Indonesia Tsunami Early Warning System (InaTEWS) adalah contoh paling matang dari koordinasi kelembagaan. Dibangun sejak 2005 sebagai respons atas tsunami Aceh 2004 dan diluncurkan Presiden pada 11 November 2008, InaTEWS menghubungkan sensor seismik BMKG dengan sistem pendukung keputusan hingga sirene di pantai. Pembagian perannya berpijak pada arahan Presiden dalam jumpa pers 20 Juli 2006: lima menit pertama setelah gempa adalah milik BMKG untuk menerbitkan peringatan, sedangkan penyampaian ke masyarakat menjadi tanggung jawab institusi terkait.
 
 Alur InaTEWS dapat kamu pahami sebagai rantai komando empat tahap:
 

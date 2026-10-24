@@ -13,7 +13,7 @@ Dalam kajian struktur wacana kelas, pola umum yang sering ditemukan adalah alur 
 Namun, ketika guru menerapkan strategi pengabaian respons, tahap umpan balik ini sengaja dipotong. Pola interaksi bergeser menjadi Pemulaan-Respons-Pemulaan (IRI). Guru langsung melompat ke pertanyaan atau perintah baru segera setelah siswa selesai mengujarkan jawaban.
 
 > **Catatan Reflektif:**
-> Tanpa adanya umpan balik atau penguatan (reinforcement), respons siswa hanyalah batu loncatan mekanis bagi guru untuk berpindah ke topik berikutnya. Interaksi kelas pun berubah menjadi pemeriksaan hafalan singkat dan kehilangan kedalaman dialog pembelajaran.
+> Tanpa adanya umpan balik atau penguatan (reinforcement), respons siswa hanyalah sarana bagi guru untuk berpindah ke topik berikutnya. Interaksi kelas pun berubah menjadi pemeriksaan hafalan singkat dan kehilangan kedalaman dialog pembelajaran.
 
 Beberapa ciri utama dari pola pengabaian respons ini meliputi:
 * **Absensinya konfirmasi:** Guru tidak menyatakan apakah jawaban siswa benar atau salah.
@@ -52,7 +52,7 @@ Demikian pula ketika siswa menjawab "Setengah meter" pada gerakan [161], interak
 Pola komunikasi yang diwarnai pengabaian respons ini membawa pengaruh yang cukup besar terhadap iklim belajar di kelas SD. Anak-anak usia sekolah dasar berada dalam fase perkembangan yang membutuhkan dorongan serta pengakuan atas partisipasi mereka.
 
 > **Refleksi Dominasi Guru:**
-> Ketika jawaban siswa selalu dilewati tanpa tanggapan, pesan tersirat yang diterima siswa adalah bahwa pikiran mereka tidak memiliki nilai substantif bagi guru. Kelas memang tampak aktif berujar, tetapi sesungguhnya sedang mengalami kekeringan interaksi yang bermakna.
+> Ketika jawaban siswa selalu dilewati tanpa tanggapan, pesan tersirat yang diterima siswa adalah bahwa pikiran mereka tidak memiliki nilai substantif bagi guru. Kelas memang tampak aktif berujar, tetapi interaksi yang bermakna sesungguhnya jarang terjadi.
 
 Berikut adalah dua implikasi utama dari praktik pengabaian respons ini:
 
@@ -77,13 +77,13 @@ Sebagai calon pendidik atau praktisi pendidikan, kamu dapat menerapkan beberapa 
 3. **Lakukan *Probing* (Galian Mendalam):** Daripada mengganti topik, galilah pemikiran siswa lebih jauh dengan pertanyaan lanjutan seperti, "Mengapa kamu berpikir demikian?" atau "Bagaimana kalau jaraknya terlalu dekat?"
 4. **Libatkan Siswa Lain:** Lemparkan jawaban seorang siswa kepada teman-temannya. Misalnya, "Teman-teman, Budi bilang jaraknya setengah meter. Ada yang punya pendapat lain?"
 
-Dengan mengarahkan kembali fokus wacana pada apresiasi dan elaborasi respons siswa, kamu dapat membangun suasana kelas sekolah dasar yang lebih hidup, di mana setiap anak merasa didengar dan dihargai gagasannya.
+Dengan mengarahkan kembali fokus wacana pada apresiasi dan elaborasi respons siswa, kamu dapat membangun suasana kelas sekolah dasar yang lebih interaktif, di mana setiap anak merasa didengar dan dihargai gagasannya.
 
 ---
 
-### Rangkuman & Pertanyaan Refleksi 9
+### Jawaban yang Dibiarkan Berlalu
 
-#### Rangkuman
+#### Tiga Pokok Pengabaian Respons
 1. Pengabaian respons siswa merupakan salah satu bentuk pengendalian topik oleh guru dengan cara membiarkan jawaban siswa berlalu tanpa evaluasi, pujian, atau konfirmasi.
 2. Pola interaksi yang terbentuk memotong tahap umpan balik (Feedback) sehingga menggeser pola IRF menjadi alur pembicaraan yang kaku dan didominasi oleh instruksi guru.
 3. Dampak dari pengabaian ini mencakup pasivitas komunikasi siswa, jawaban yang cenderung serba pendek, serta menurunnya kebiasaan dan keberanian anak dalam mengungkapkan pendapat di kelas.

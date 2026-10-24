@@ -2,7 +2,7 @@
 
 Pernahkah kamu berada dalam situasi di mana segalanya tampak berjalan berlawanan dengan rencana kamu? Ban mobil bocor saat ingin rapat penting, hujan turun tepat saat kamu mengadakan acara *outdoor*, atau kegagalan proyek yang sudah dikerjakan berbulan-bulan. Reaksi spontan kita biasanya adalah mengeluh, marah, atau merasa menjadi korban keadaan.
 
-Namun, para Stoik menawarkan perspektif yang radikal dan membebaskan: **Amor Fati**.
+Namun, para Stoik menawarkan perspektif lain: **Amor Fati**.
 
 ## Apa Itu Amor Fati?
 
@@ -12,17 +12,17 @@ Amor Fati bukan hanya "menerima" apa yang terjadi dengan pasrah (resigna), melai
 
 > "Jangan menuntut agar hal-hal terjadi seperti yang kamu inginkan, tetapi inginkanlah agar hal-hal itu terjadi sebagaimana adanya, maka hidupmu akan berjalan dengan tenang." - **Epictetus**
 
-## Dari Penerimaan Menuju Transformasi
+## Tiga Tahap Menyikapi Takdir
 
-Untuk memahami Amor Fati secara mendalam, kita bisa melihatnya sebagai sebuah tangga perkembangan mental:
+Untuk memahami Amor Fati, kita bisa melihatnya sebagai sebuah tangga perkembangan mental:
 
 1. **Penolakan:** "Ini tidak seharusnya terjadi! Mengapa saya sangat tidak beruntung?"
 2. **Penerimaan Pasif:** "Ya sudah, mau bagaimana lagi. Saya terima nasib saya."
 3. **Amor Fati (Penerimaan Aktif):** "Kejadian ini adalah tepat apa yang saya butuhkan saat ini untuk tumbuh. Saya akan menggunakan ini sebagai bahan bakar."
 
-### Analogi Api yang Berkobar
+### Api Besar dan Api Kecil
 
-Marcus Aurelius, sang Kaisar Stoik, memberikan analogi yang luar biasa tentang bagaimana Amor Fati bekerja:
+Marcus Aurelius, sang Kaisar Stoik, memberikan analogi tentang bagaimana Amor Fati bekerja:
 
 Bayangkan sebuah api kecil. Jika kamu melemparkan seember air atau tumpukan sampah besar ke atasnya, api itu akan padam. Namun, bayangkan **api yang berkobar hebat**. Apa pun yang dilemparkan ke dalamnya (kayu basah, kain kotor, atau sampah) justru akan **dilahap, dijadikan bahan bakar, dan membuat api tersebut menyala lebih terang.**
 
@@ -42,7 +42,7 @@ $$
 
 Jika $\text{Perlawanan} = 0$ (melalui Amor Fati), maka berapa pun besarnya $\text{Kejadian}$ yang menimpa, $\text{Penderitaan}$ akan tetap nol. Sebaliknya, semakin besar kita melawan kenyataan, semakin besar rasa sakit yang kita rasakan.
 
-## Mengubah Hambatan Menjadi Bahan Bakar
+## Membalikkan Perspektif
 
 Bagaimana cara menerapkan Amor Fati dalam keseharian? Gunakan teknik **"Reverse the Perspective"** (Membalikkan Perspektif).
 
@@ -70,4 +70,4 @@ Langkah yang sama juga bisa dipakai pada kejadian sehari-hari. Bayangkan kamera 
 
 > **Poin Penting:** Amor Fati bukan berarti kamu berhenti berusaha memperbaiki keadaan. kamu tetap berusaha maksimal (sesuai dikotomi kendali), tetapi begitu hasilnya keluar, apa pun itu, kamu memeluknya seolah-olah itu adalah pilihan kamu sendiri sejak awal.
 
-**Amor Fati adalah keberanian untuk berkata "Ya" kepada hidup, tanpa syarat.** Dengan mencintai apa pun yang terjadi, kamu menjadi manusia yang tidak bisa dikalahkan oleh nasib, karena bagi kamu, setiap kejadian adalah sebuah kemenangan.
+**Amor Fati adalah keberanian untuk berkata "Ya" kepada hidup, tanpa syarat.** Dengan mencintai apa pun yang terjadi, kamu tidak mudah dikalahkan oleh nasib, karena setiap kejadian bisa kamu manfaatkan untuk tumbuh.

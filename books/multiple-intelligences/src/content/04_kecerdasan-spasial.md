@@ -1,8 +1,8 @@
 ## Kecerdasan Spasial
 
-Pernahkah kamu bertanya-tanya bagaimana seorang arsitek bisa membayangkan sebuah gedung pencakar langit yang megah hanya dari selembar kertas kosong? Atau bagaimana seorang pilot dapat menemukan jalan di tengah gumpalan awan tebal tanpa kehilangan arah?
+Pernahkah kamu bertanya-tanya bagaimana seorang arsitek bisa membayangkan sebuah gedung pencakar langit hanya dari selembar kertas kosong? Atau bagaimana seorang pilot dapat menemukan jalan di tengah gumpalan awan tebal tanpa kehilangan arah?
 
-Selamat datang di dunia **Kecerdasan Spasial**. Ini tidak hanya sebatas kemampuan menggambar. Ini berkaitan erat dengan kapasitas otak manusia untuk memahami, memproses, dan merekayasa dimensi ruang di dalam pikiran.
+Itulah **Kecerdasan Spasial**. Ini tidak hanya sebatas kemampuan menggambar. Ini berkaitan erat dengan kapasitas otak manusia untuk memahami, memproses, dan mengolah ruang di dalam pikiran.
 
 ## 1\. Memahami Esensi Kecerdasan Spasial
 
@@ -64,7 +64,7 @@ $$
 
 Sudut $u$ bergerak dari $0$ sampai $2\pi$, sedangkan sudut $v$ bergerak dari $0$ sampai $\pi$. Setiap pasangan sudut menghasilkan satu titik $(x, y, z)$ di permukaan bola. Ketika titik-titik itu disambung dengan garis, tampaklah kerangka bola di dalam ruang. Contoh ini menunjukkan bahwa persamaan matematika dapat diubah menjadi bentuk ruang yang nyata.
 
-## 6\. Sang Penjelajah Hutan
+## 6\. Peneliti yang Tersesat di Hutan
 
 Bayangkan seorang peneliti terjebak di hutan lebat tanpa bantuan sistem navigasi digital. Pada tahap awal, ia memperhatikan pola lumut di pepohonan yang menunjukkan arah utara serta mengevaluasi kemiringan tanah. Selanjutnya, proses transformasi mental terjadi ketika ia membayangkan peta topografi yang sempat dibacanya di kamp, lalu memadukan situasi aktual di depannya dengan peta di dalam ingatannya. Berdasarkan perhitungan visual tersebut, ia merancang jalur alternatif melingkari bukit untuk mencapai sumber air terdekat.
 

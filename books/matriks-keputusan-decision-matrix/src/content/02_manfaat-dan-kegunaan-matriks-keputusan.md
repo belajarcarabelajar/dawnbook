@@ -2,18 +2,18 @@
 
 Pernahkah kamu merasa bingung saat harus memilih di antara beberapa pilihan yang semuanya tampak menarik? Atau mungkin kamu pernah terlibat dalam rapat tim yang buntu karena setiap orang memiliki pendapat berbeda tentang prioritas?
 
-Di sinilah **matriks keputusan** (*decision matrix*) hadir sebagai solusi. Alat ini juga dikenal sebagai *Pugh Matrix* atau *Grid Analysis*. Jika bab sebelumnya telah memberi kamu gambaran umum, bagian ini akan membahas secara mendalam mengapa metode evaluasi dengan **kriteria penilaian** dan **skor berbobot** ini sangat penting, baik untuk keperluan profesional maupun pribadi.
+Untuk situasi seperti itu, ada **matriks keputusan** (*decision matrix*). Alat ini juga dikenal sebagai *Pugh Matrix* atau *Grid Analysis*. Jika bab sebelumnya telah memberi kamu gambaran umum, bagian ini akan membahas mengapa metode evaluasi dengan **kriteria penilaian** dan **skor berbobot** ini penting, baik untuk keperluan profesional maupun pribadi.
 
-### 1. Transformasi dari Intuisi ke Objektivitas
+### 1. Dari Intuisi ke Objektivitas
 
-Banyak orang sangat mengandalkan "firasat" atau *gut feeling*. Meskipun intuisi terkadang berguna, mengambil keputusan besar yang melibatkan banyak sumber daya atau risiko tinggi hanya berdasarkan perasaan sering kali berakhir merugikan.
+Banyak orang mengandalkan "firasat" atau *gut feeling*. Meskipun intuisi terkadang berguna, mengambil keputusan besar yang melibatkan banyak sumber daya atau risiko tinggi hanya berdasarkan perasaan sering kali berakhir merugikan.
 
 **Mengapa Matriks Lebih Unggul dari Intuisi?**
 
 - **Menghilangkan Bias Kognitif:** Otak kita secara alami cenderung mengingat informasi yang paling baru atau yang paling membekas secara emosional (bias ketersediaan). Dengan matriks, kamu dipaksa untuk melihat setiap data secara objektif.
 - **Give Structure to Chaos:** Saat pikiran dipenuhi oleh berbagai variabel seperti biaya, kualitas, waktu, dan risiko, kamu akan lebih mudah terkena *decision fatigue* (kelelahan mengambil keputusan). Struktur baris dan kolom membantu menguraikan variabel tersebut secara teratur.
 
-> **Analogi Kompas vs. Perasaan:** Mengandalkan intuisi dalam bisnis seperti mencoba berlayar di tengah kabut tebal hanya dengan mengandalkan insting arah. Matriks keputusan bertindak sebagai **kompas dan peta** yang menyajikan koordinat pasti berdasarkan data konkret, sehingga kamu tidak lagi meraba-raba arah di tengah ketidakpastian.
+> **Analogi Kompas vs. Perasaan:** Mengandalkan intuisi dalam bisnis seperti mencoba berlayar di tengah kabut tebal hanya dengan mengandalkan insting arah. Matriks keputusan bertindak sebagai **kompas dan peta** yang menunjukkan arah berdasarkan data konkret, sehingga kamu tidak lagi meraba-raba arah di tengah ketidakpastian.
 
 ### 2. Transparansi dan Akuntabilitas
 
@@ -61,7 +61,7 @@ Bayangkan sebuah tim kerja ingin memilih penyedia layanan *cloud hosting*. Ada t
   - Meskipun Vendor A menawarkan harga paling murah, skor keamanannya sangat rendah.
   - Melalui perhitungan bobot, Vendor B yang sedikit lebih mahal tetapi memiliki sistem keamanan yang andal akhirnya terpilih secara objektif.
 
-**Pesan Penting:** Matriks keputusan membantumu agar tidak mudah terpikat oleh satu keunggulan mencolok tetapi mengabaikan kelemahan fatal di aspek penting lainnya.
+**Pesan Penting:** Matriks keputusan membantumu agar tidak mudah terpikat oleh satu keunggulan mencolok tetapi mengabaikan kelemahan serius di aspek penting lainnya.
 
 ### Ringkasan Manfaat
 

@@ -1,12 +1,12 @@
 ## Konsep 'The Invisible Hand'
 
-Pernahkah kamu bertanya-tanya bagaimana ribuan produk (mulai dari kopi pagi kamu hingga ponsel pintar di saku kamu) bisa tersedia tepat waktu, dalam jumlah yang pas, tanpa ada satu pun direktur pusat yang memerintahkan produksinya?
+Pernahkah kamu heran bagaimana ribuan produk, mulai dari kopi pagi hingga ponsel pintar di saku kamu, bisa tersedia tepat waktu dalam jumlah yang pas? Semua itu terjadi tanpa ada satu pun direktur pusat yang memerintahkan produksinya.
 
-Selamat datang di konsep **The Invisible Hand** (Tangan Tak Terlihat). Metafora paling ikonik dalam sejarah ekonomi ini dicetuskan oleh **Adam Smith**. Konsep ini menjelaskan bagaimana interaksi individu yang mengejar kepentingan pribadi secara alami dapat menghasilkan tatanan ekonomi yang stabil dan memberi manfaat bagi masyarakat luas.
+Jawabannya ada pada konsep **The Invisible Hand** (Tangan Tak Terlihat). Metafora ini dicetuskan oleh **Adam Smith**. Konsep ini menjelaskan bagaimana interaksi individu yang mengejar kepentingan pribadi secara alami dapat menghasilkan tatanan ekonomi yang stabil dan memberi manfaat bagi masyarakat luas.
 
 ### 1. Kepentingan Pribadi sebagai Penggerak
 
-Banyak orang mengira bahwa agar masyarakat sejahtera, setiap individu harus bertindak atas dasar kedermawanan atau altruisme. Namun, Adam Smith menawarkan sudut pandang yang berbeda dan revolusioner.
+Banyak orang mengira bahwa agar masyarakat sejahtera, setiap individu harus bertindak atas dasar kedermawanan atau altruisme. Namun, Adam Smith menawarkan sudut pandang yang berbeda.
 
 > "Bukan dari kebaikan hati tukang daging, pembuat bir, atau tukang roti kita mengharapkan makan malam kita, melainkan dari penghargaan mereka terhadap kepentingan diri mereka sendiri."  
 > - **Adam Smith, *The Wealth of Nations***
@@ -25,7 +25,7 @@ Secara tidak sengaja, keinginan si tukang roti untuk mencari keuntungan justru m
 
 Tangan tak terlihat bukanlah kekuatan gaib, melainkan kombinasi dari dua kekuatan pasar utama: **Kepentingan Pribadi** dan **Persaingan**.
 
-#### A. Sinyal Harga sebagai Kompas
+#### A. Harga sebagai Sinyal
 
 Dalam sistem Laissez-faire, harga adalah bahasa yang digunakan pasar untuk berkomunikasi.
 

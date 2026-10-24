@@ -1,10 +1,10 @@
 ## Proses Psikologis di Balik Perubahan Makna
 
-Perubahan makna kata dalam bahasa berakar pada dinamika kognitif otak manusia yang menghubungkan konsep linguistik dengan rekaman emosi dan pengalaman sosial.
+Perubahan makna kata berakar pada dinamika kognitif otak manusia yang menghubungkan konsep linguistik dengan rekaman emosi dan pengalaman sosial.
 
 Kerap muncul pertanyaan mengenai alasan sebuah kata yang dahulu terdengar wajar tiba-tiba terasa menyakitkan atau merendahkan. Sebaliknya, terdapat pula istilah yang dahulu dianggap tabu namun kini menjadi sebutan terhormat.
 
-Pergeseran makna seperti **ameliorasi** (peningkatan nilai rasa) dan **pejorasi** (penurunan nilai rasa) tidak berlangsung di ruang hampa. Fenomena ini merupakan manifestasi dari kerja kognitif di dalam benak manusia. Bahasa melampaui tumpukan definisi leksikal kamus; bahasa merupakan sistem dinamis yang berakar kuat pada psikologi massa serta persepsi individu.
+Pergeseran makna seperti **ameliorasi** (peningkatan nilai rasa) dan **pejorasi** (penurunan nilai rasa) berawal dari kerja kognitif di dalam benak manusia. Bahasa bukan sekadar kumpulan definisi kamus, melainkan sistem dinamis yang bergantung pada psikologi massa serta persepsi individu.
 
 ### 1. Mekanisme Asosiasi antara Label dan Isi di Dalam Otak
 
@@ -52,7 +52,7 @@ Otak manusia menghemat energi kognitif melalui pembentukan **skema**, yaitu jala
 
 Bandingkan sebutan *koruptor* dan *maling*. Sebutan *koruptor* kerap dipersepsikan lebih berjarak dan abstrak secara psikologis dibandingkan kata *maling*, kendati substansi tindakannya sama-sama merupakan pencurian hak orang lain.
 
-Hal tersebut terjadi karena skema mental mengaitkan *koruptor* dengan figur berdasi, birokrasi, dan ruang kantor, sementara *maling* langsung mengaktifkan skema kejahatan jalanan. Pergeseran makna di sini sangat dipengaruhi oleh **persepsi visual** dan **hierarki status sosial** yang tersimpan di dalam memori jangka panjang.
+Hal tersebut terjadi karena skema mental mengaitkan *koruptor* dengan figur berdasi, birokrasi, dan ruang kantor, sementara *maling* langsung mengaktifkan skema kejahatan jalanan. Pergeseran makna di sini dipengaruhi oleh **persepsi visual** dan **hierarki status sosial** yang tersimpan di dalam memori jangka panjang.
 
 ### 4. Konformitas Sosial dan Psikologi Massa
 
@@ -62,7 +62,7 @@ Ketika mayoritas masyarakat memandang penggunaan kata tertentu sebagai bentuk pe
 
 ### 5. Strategi Pemasaran dan Penjenamaan
 
-Dalam dunia profesional dan komunikasi strategis, pemahaman atas psikologi perubahan semantik menjadi fondasi keberhasilan penjenamaan (*branding*). Praktisi komunikasi merancang pilihan kata secara cermat demi menghindari asosiasi pejoratif yang tidak disengaja.
+Dalam komunikasi profesional dan strategis, pemahaman atas psikologi perubahan semantik menjadi dasar penjenamaan (*branding*). Praktisi komunikasi merancang pilihan kata secara cermat demi menghindari asosiasi pejoratif yang tidak disengaja.
 
 **Skenario Penjenamaan Produk:**
 Sebuah produsen pangan tidak akan mencantumkan label "Sisa Olahan Daging", karena kata *sisa* memicu skema mental terkait limbah dan kualitas rendah (pejorasi). Sebaliknya, label yang dipilih adalah "Daging Olahan Pilihan" atau "Daging Olahan Premium" (ameliorasi) guna mengaktifkan asosiasi mutu tinggi dan eksklusivitas.
@@ -81,6 +81,6 @@ Manusia memiliki kecenderungan psikologis yang dikenal sebagai *negativity bias*
 
 Bias kognitif ini menjelaskan mengapa proses **pejorasi** kerap berlangsung lebih cepat dan masif dibandingkan **ameliorasi**. Sebuah kosakata positif dapat tercemar dengan cepat hanya karena satu peristiwa kontroversial, sedangkan pemulihan kata yang berkonotasi buruk memerlukan waktu bertahun-tahun melalui rekayasa wacana yang berkesinambungan.
 
-> **Poin Kunci:** Perubahan makna kata merupakan cerminan nyata dari evolusi empati, persepsi sosial, dan nilai peradaban manusia. Memahami dinamika psikologis di balik bahasa melatih kepekaan dalam memilih tuturan yang membangun martabat bersama.
+> **Poin Kunci:** Perubahan makna kata mencerminkan perubahan empati, persepsi sosial, dan nilai yang dianut masyarakat. Memahami dinamika psikologis di balik bahasa melatih kepekaan dalam memilih tuturan yang membangun martabat bersama.
 
 *Refleksi: Coba ingat sebuah kata yang pada masa lalu dianggap bergengsi, tetapi kini bergeser menjadi berkonotasi canggung atau klise. Pergeseran tersebut mencerminkan adaptasi skema psikologis dan dinamika norma sosial yang terus bergerak.*

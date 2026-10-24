@@ -1,6 +1,6 @@
 ## Peran Pemerintah dan Kebijakan Anti-Monopoli
 
-Bayangkan sebuah pertandingan sepak bola di mana salah satu tim memiliki wewenang untuk menentukan harga tiket, memilih wasitnya sendiri, dan bahkan melarang tim lain untuk masuk ke lapangan. Pertandingan tersebut pasti akan menjadi tidak adil, membosankan, dan merugikan penonton.
+Bayangkan pertandingan sepak bola di mana satu tim berwenang menentukan harga tiket, memilih wasitnya sendiri, bahkan melarang tim lain masuk ke lapangan. Pertandingan tersebut pasti akan menjadi tidak adil, membosankan, dan merugikan penonton.
 
 Dalam dunia ekonomi, pemerintah berperan sebagai "wasit" yang memastikan bahwa "pertandingan" antar perusahaan berjalan jujur. Tanpa aturan, perusahaan besar cenderung menggunakan kekuatan mereka untuk mematikan pesaing, yang pada akhirnya akan merugikan kita semua sebagai konsumen.
 
@@ -24,7 +24,7 @@ Pemerintah tidak bekerja sendirian; mereka membentuk lembaga independen yang dis
 
 1. **Penegakan Hukum:** Menyelidiki dan memutus perkara persaingan usaha.
 2. **Saran dan Pertimbangan:** Memberikan masukan kepada pemerintah terkait kebijakan yang berpotensi menghambat persaingan.
-3. **Pengawasan Merger:** Memastikan penggabungan dua perusahaan besar tidak menciptakan kekuatan absolut yang merusak pasar.
+3. **Pengawasan Merger:** Memastikan penggabungan dua perusahaan besar tidak menciptakan kekuatan pasar yang terlalu besar.
 
 ### 3. Praktik-Praktik yang Dilarang
 
@@ -71,10 +71,10 @@ $$
 ### 5. Kasus-Kasus Besar
 
 **Skenario 1 Industri Maskapai Penerbangan**  
-Beberapa tahun lalu di Indonesia, KPPU pernah menyelidiki dugaan kartel harga tiket pesawat. Ketika harga tiket dari berbagai maskapai naik secara bersamaan dan tetap tinggi meskipun biaya operasional turun, pemerintah melalui KPPU melakukan investigasi untuk memastikan tidak ada kesepakatan rahasia di balik meja.
+Beberapa tahun lalu di Indonesia, KPPU pernah menyelidiki dugaan kartel harga tiket pesawat. Ketika harga tiket dari berbagai maskapai naik secara bersamaan dan tetap tinggi meskipun biaya operasional turun, pemerintah melalui KPPU melakukan investigasi untuk memastikan tidak ada kesepakatan diam-diam antarmaskapai.
 
 **Skenario 2 Teknologi Global**  
-Uni Eropa sering kali mendenda perusahaan teknologi raksasa (seperti Google atau Microsoft) karena dianggap menyalahgunakan posisi dominan mereka. Misalnya, memaksa sistem operasi tertentu untuk selalu menggunakan *browser* bawaan mereka tanpa memberikan pilihan mudah bagi pengguna untuk beralih ke pesaing.
+Uni Eropa sering kali mendenda perusahaan teknologi besar (seperti Google atau Microsoft) karena dianggap menyalahgunakan posisi dominan mereka. Misalnya, memaksa sistem operasi tertentu untuk selalu menggunakan *browser* bawaan mereka tanpa memberikan pilihan mudah bagi pengguna untuk beralih ke pesaing.
 
 ### 6. Dilema Regulasi pada Monopoli Alami
 
@@ -94,4 +94,4 @@ Cobalah amati lingkungan di sekitar kamu:
 1. Sebutkan satu produk yang hanya disediakan oleh satu perusahaan di daerah kamu. Apakah itu termasuk monopoli alami atau monopoli karena hambatan buatan?
 2. Cari berita terbaru tentang "Putusan KPPU". Pelanggaran apa yang paling sering dilakukan oleh perusahaan di Indonesia belakangan ini?
 
-**Kesimpulan:** Peran pemerintah berfokus menjaga pintu peluang tetap terbuka bagi seluruh pelaku usaha, tanpa mematikan inovasi bisnis. Dengan kebijakan anti-monopoli yang kuat, konsumen mendapatkan harga yang adil, kualitas produk yang lebih baik, dan ekonomi nasional tumbuh lebih sehat.
+**Kesimpulan:** Peran pemerintah berfokus menjaga agar peluang bersaing tetap terbuka bagi seluruh pelaku usaha, tanpa mematikan inovasi bisnis. Dengan kebijakan anti-monopoli yang kuat, konsumen mendapatkan harga yang adil, kualitas produk yang lebih baik, dan ekonomi nasional tumbuh lebih sehat.

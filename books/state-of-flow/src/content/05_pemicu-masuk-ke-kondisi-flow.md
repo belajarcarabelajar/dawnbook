@@ -1,4 +1,4 @@
-## Pemicu (Triggers) Masuk ke Kondisi Flow
+## Pemicu Masuk ke Kondisi Flow
 
 Bayangkan kamu adalah seorang pendaki tebing. Tangan kamu mencari celah kecil di batu, kaki kamu bertumpu pada pijakan yang sangat sempit, dan di bawah kamu ada jurang yang dalam. Pada saat itu, tidak ada ruang untuk memikirkan tagihan listrik, masalah di kantor, atau apa yang akan kamu makan malam nanti. Seluruh dunia kamu menyusut hanya menjadi gerakan berikutnya. Inilah **Flow**.
 
@@ -22,7 +22,7 @@ Ini adalah pemicu yang paling fundamental. Flow menuntut perhatian tunggal yang 
 
 - **Aplikasi:** Matikan notifikasi ponsel, tutup tab browser yang tidak relevan, dan fokuslah pada satu tugas selama minimal 90 menit.
 
-### B. Tujuan yang Jelas (Clear Goals)
+### B. Tahu Persis Langkah Berikutnya (Clear Goals)
 
 Ketika kamu tahu persis apa yang harus dilakukan selanjutnya, otak tidak perlu membuang energi untuk merencanakan atau menebak-nebak. Fokus kamu tetap tertuju pada *eksekusi*.
 
@@ -36,7 +36,7 @@ Flow membutuhkan koreksi real-time. Jika kamu tahu saat itu juga apakah tindakan
 
 ### D. Keseimbangan Tantangan vs Keterampilan
 
-Ini adalah "Gerbang Emas" flow. Tugas tersebut tidak boleh terlalu mudah (membosankan) dan tidak boleh terlalu sulit (membuat cemas). Rasio idealnya sering disebut sebagai **The 4% Rule**: tugas tersebut harus sekitar 4% di atas tingkat kemampuan kamu saat ini.
+Ini adalah syarat pokok flow. Tugas tersebut tidak boleh terlalu mudah (membosankan) dan tidak boleh terlalu sulit (membuat cemas). Rasio idealnya sering disebut sebagai **The 4% Rule**: tugas tersebut harus sekitar 4% di atas tingkat kemampuan kamu saat ini.
 
 $$
 \text{Tingkat Kesulitan} \approx \text{Kemampuan} + 4 \text{\%}
@@ -69,7 +69,7 @@ Flow tidak hanya terjadi secara individu. Pernahkah kamu berada dalam tim di man
 3. **Partisipasi yang Setara:** Setiap anggota tim memiliki keterampilan yang relevan dan berkontribusi secara nyata.
 4. **Rasa Kontrol:** Anggota tim merasa memiliki otonomi atas tugas mereka di dalam kelompok.
 
-## Skenario Pemrograman
+## Memperbaiki Bug Sistem Pembayaran
 
 Mari kita lihat bagaimana seorang Software Engineer menggunakan pemicu ini untuk masuk ke dalam kondisi flow saat memperbaiki bug kritis.
 
@@ -88,4 +88,4 @@ Untuk memudahkan kamu masuk ke dalam flow, kamu bisa merancang ritual sebelum be
 3. **Tingkatkan Pertaruhan (Risiko):** Gunakan teknik seperti *Pomodoro* dengan waktu yang ketat, atau berjanjilah pada rekan kerja untuk menunjukkan hasil dalam satu jam.
 4. **Hilangkan Distorsi:** Letakkan ponsel di ruangan lain.
 
-> **Ingat:** Flow bukanlah sesuatu yang bisa kamu "paksa", tetapi sesuatu yang bisa kamu "undang". Dengan menyiapkan pemicu-pemicu di atas, kamu membangun jalan setapak yang memudahkan pikiran kamu untuk tergelincir masuk ke dalam kondisi performa puncak tersebut.
+> **Ingat:** Flow bukanlah sesuatu yang bisa kamu "paksa", tetapi sesuatu yang bisa kamu "undang". Dengan menyiapkan pemicu-pemicu di atas, kamu memudahkan pikiran kamu untuk masuk ke dalam kondisi performa puncak tersebut.

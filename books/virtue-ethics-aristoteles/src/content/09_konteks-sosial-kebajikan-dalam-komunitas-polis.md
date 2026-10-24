@@ -35,7 +35,7 @@ Aristoteles membagi keadilan sosial menjadi dua bentuk utama:
 1. **Keadilan Distributif:** Berkaitan dengan cara membagi sumber daya, kehormatan, dan tanggung jawab di antara anggota masyarakat secara proporsional sesuai kontribusi.
 2. **Keadilan Korektif:** Berfokus pada perbaikan ketidakseimbangan akibat transaksi yang berat sebelah atau tindakan kriminal.
 
-Kondisi sosial sangat memengaruhi dorongan moral. Seseorang umumnya lebih termotivasi mempraktikkan kebajikan dalam kelompok kerja yang memiliki sistem pembagian tugas yang adil dibandingkan dengan sistem yang berantakan.
+Kondisi sosial memengaruhi dorongan moral. Seseorang umumnya lebih termotivasi mempraktikkan kebajikan dalam kelompok kerja yang memiliki sistem pembagian tugas yang adil dibandingkan dengan sistem yang berantakan.
 
 ### 4. Kebajikan dalam Masyarakat Modern
 
@@ -53,6 +53,6 @@ $$
 
 Semakin besar kontribusi seseorang dibandingkan total kontribusi, semakin besar pula porsi sumber daya yang ia terima. Komunitas yang menghargai kontribusi dengan cara ini dapat membentuk karakter yang rajin.
 
-### 5. Menuju Kesejahteraan Bersama
+### 5. Kesejahteraan Bersama
 
-Etika Kebajikan mengingatkan bahwa peran kita di masyarakat adalah sebagai arsitek moral. Kualitas hidup kita terikat langsung pada kualitas karakter orang-orang di sekitar kita. Karena karakter terbentuk melalui interaksi, membangun lingkungan yang memudahkan orang lain untuk berbuat baik sama pentingnya dengan menjaga karakter diri sendiri. Komunitas hadir untuk membantu warganya hidup dengan baik (*living well*), memastikan setiap individu bisa mencapai potensi tertingginya secara bersama-sama.
+Etika Kebajikan mengingatkan bahwa kita ikut membentuk lingkungan moral masyarakat. Kualitas hidup kita terikat langsung pada kualitas karakter orang-orang di sekitar kita. Karena karakter terbentuk melalui interaksi, membangun lingkungan yang memudahkan orang lain untuk berbuat baik sama pentingnya dengan menjaga karakter diri sendiri. Komunitas hadir untuk membantu warganya hidup dengan baik (*living well*), memastikan setiap individu bisa mencapai potensinya secara bersama-sama.

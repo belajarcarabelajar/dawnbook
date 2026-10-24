@@ -1,6 +1,6 @@
 ## Habituasi
 
-Bayangkan kamu ingin menjadi seorang pianis ulung. Apakah kamu bisa mencapainya hanya dengan membaca buku teori musik selama sepuluh tahun tanpa pernah menyentuh tuts piano? Tentu tidak. Kamu harus duduk, berlatih tangga nada berulang kali, membuat kesalahan, memperbaikinya, dan melakukannya lagi setiap hari sampai jari-jarimu bergerak secara otomatis dengan presisi dan keindahan.
+Bayangkan kamu ingin menjadi seorang pianis ulung. Apakah kamu bisa mencapainya hanya dengan membaca buku teori musik selama sepuluh tahun tanpa pernah menyentuh tuts piano? Tentu tidak. Kamu harus duduk, berlatih tangga nada berulang kali, membuat kesalahan, memperbaikinya, dan melakukannya lagi setiap hari sampai jari-jarimu bergerak secara otomatis dengan tepat.
 
 Begitu pula dengan moralitas dalam Etika Kebajikan. Menjadi orang baik itu layaknya sebuah keterampilan yang diperoleh lewat **habituasi**. Hal ini berbeda jauh dengan menghafal peraturan atau sekadar menang berdebat soal etika.
 
@@ -59,7 +59,7 @@ $$
 $$
 </div>
 
-Di sini, $n$ mewakili jumlah pengulangan yang berlangsung lama. Tanpa adanya konsistensi, karakter yang kuat mustahil terbentuk. Pola habituasi ini sangat bergantung pada frekuensi tindakan dan seberapa besar intensitas usaha mental yang dikerahkan. Selain itu, konteks juga berperan penting; kita harus mampu mempertahankan tindakan baik tersebut dalam situasi yang mudah maupun di tengah tekanan.
+Di sini, $n$ mewakili jumlah pengulangan yang berlangsung lama. Tanpa adanya konsistensi, karakter yang kuat mustahil terbentuk. Pola habituasi ini bergantung pada frekuensi tindakan dan seberapa besar intensitas usaha mental yang dikerahkan. Selain itu, konteks juga berperan penting; kita harus mampu mempertahankan tindakan baik tersebut dalam situasi yang mudah maupun di tengah tekanan.
 
 ## 5\. Membangun Budaya Integritas
 
@@ -73,10 +73,10 @@ Hal yang sama berlaku pada aspek lain, seperti kesehatan dan empati. Membiasakan
 
 ## 6\. Tantangan dalam Habituasi
 
-Membentuk karakter tentu ada rintangannya. Ada resistensi awal di mana melakukan hal baik terasa sangat menguras tenaga dan pikiran, yang sering disebut sebagai *ego depletion*. Kondisi lingkungan juga sangat menentukan arah habituasi. Jika kita berada di tempat yang menoleransi pelanggaran kecil secara terus-menerus, karakter yang terbangun otomatis akan menjadi buruk. Sama seperti latihan musik dengan postur yang salah akan merusak teknik selamanya, kesalahan moral yang dibiarkan berulang tanpa dikoreksi akan melahirkan kebiasaan buruk (*vice*).
+Membentuk karakter tentu ada rintangannya. Ada resistensi awal di mana melakukan hal baik terasa menguras tenaga dan pikiran, yang sering disebut sebagai *ego depletion*. Kondisi lingkungan juga menentukan arah habituasi. Jika kita berada di tempat yang menoleransi pelanggaran kecil secara terus-menerus, karakter yang terbangun otomatis akan menjadi buruk. Sama seperti latihan musik dengan postur yang salah akan merusak teknik selamanya, kesalahan moral yang dibiarkan berulang tanpa dikoreksi akan melahirkan kebiasaan buruk (*vice*).
 
 > **Penting:** Karakter bisa bergerak ke dua arah. Membiasakan diri pada tindakan baik akan menghasilkan kebajikan (*virtue*), sedangkan membiasakan diri pada hal buruk akan melahirkan cacat moral (*vice*).
 
-## Kesimpulan
+## Karakter Terbentuk dari Pilihan Kecil
 
-Habituasi berfungsi sebagai jembatan yang menghubungkan antara sekadar **mengetahui** apa yang baik dan **menjadi** orang baik seutuhnya. Karakter bukanlah takdir yang turun dari langit sejak kita lahir. Karakter adalah karya pahatan yang kita ukir setiap hari melalui rentetan pilihan-pilihan kecil yang konsisten.
+Habituasi berfungsi sebagai jembatan yang menghubungkan antara sekadar **mengetahui** apa yang baik dan **menjadi** orang baik seutuhnya. Karakter bukanlah bawaan yang sudah jadi sejak kita lahir. Karakter adalah karya pahatan yang kita ukir setiap hari melalui rentetan pilihan-pilihan kecil yang konsisten.

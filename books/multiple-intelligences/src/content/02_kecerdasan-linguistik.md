@@ -14,7 +14,7 @@ Pikiran manusia bisa dibayangkan seperti bengkel tenun. Ketika orang awam hanya 
 
 Cara kerja kecerdasan linguistik bertumpu pada empat komponen. Pertama, ada semantik atau kepekaan terhadap variasi makna kata. Seseorang dengan kecerdasan ini sadar betul bahwa "rumah" dan "kediaman" memiliki denotasi serupa namun membawa nuansa emosi yang berbeda.
 
-Komponen kedua adalah fonologi. Di sini kepekaan terhadap bunyi dan ritme bahasa sangat berperan. Ini pula yang menjelaskan mengapa seorang penyair tahu pasti di mana harus meletakkan jeda napas agar puisinya bernyawa.
+Komponen kedua adalah fonologi. Di sini kepekaan terhadap bunyi dan ritme bahasa sangat berperan. Ini pula yang menjelaskan mengapa seorang penyair tahu pasti di mana harus meletakkan jeda napas agar ritme puisinya terjaga.
 
 Selanjutnya adalah sintaksis, yaitu kemampuan meracik urutan kata agar membangun logika pikiran yang runut. Kalau dalam matematika orang menyusun rumus persamaan, dalam bahasa orang menyusun tata bahasa. Pilar terakhir, pragmatik, membuat seseorang piawai menempatkan bahasa sesuai konteks. Mereka tahu pasti kapan waktunya bicara formal, kapan suasana santai, dan kapan sebaiknya diam mendengarkan.
 
@@ -22,7 +22,7 @@ Selanjutnya adalah sintaksis, yaitu kemampuan meracik urutan kata agar membangun
 
 Ada beberapa kekhasan dari individu yang kuat di bidang ini. Biasanya, mereka sangat suka mengotak-atik kata, entah lewat mengisi teka-teki silang, bermain *Scrabble*, atau melontarkan pelesetan (*puns*). Mereka juga dikenal sebagai pencerita yang ahli karena sanggup merajut ulang rangkaian peristiwa dengan detail yang memancing imajinasi pendengar.
 
-Daya kritis mereka juga tajam, terutama saat mendengar orang lain berbicara. Kesalahan tata bahasa atau lompatan logika dalam diskusi akan dengan cepat mereka sadari. Daya ingat mereka pun lebih bertumpu pada asosiasi verbal ketimbang gambar, sehingga mengingat nama atau fakta terasa lebih alamiah. Di panggung debat, keluwesan retorika mereka sering kali tak terbantahkan. Kemampuan menjelaskan konsep teknis rumit menjadi paparan yang amat gamblang menggunakan analogi sehari-hari adalah perwujudan konkret dari kecerdasan ini.
+Daya kritis mereka juga tajam, terutama saat mendengar orang lain berbicara. Kesalahan tata bahasa atau lompatan logika dalam diskusi akan dengan cepat mereka sadari. Daya ingat mereka pun lebih bertumpu pada asosiasi verbal ketimbang gambar, sehingga mengingat nama atau fakta terasa lebih alamiah. Di panggung debat, retorika mereka yang luwes sering kali sulit dibantah. Kemampuan menjelaskan konsep teknis rumit menjadi paparan yang amat gamblang menggunakan analogi sehari-hari adalah perwujudan konkret dari kecerdasan ini.
 
 ## Bahasa di Dalam Otak
 
@@ -42,7 +42,7 @@ Semakin kaya kosakata dan penguasaan konteks, semakin efisien pula komunikasinya
 
 Kemahiran berbahasa tak semata-mata dimonopoli penulis fiksi. Dalam lanskap profesional modern, kecerdasan ini mewujud dalam banyak bentuk. Di meja hukum, seorang pengacara membedah ratusan halaman dokumen untuk menemukan satu celah argumentasi, lalu menyusun nota pembelaan yang menyasar nalar dan empati juri.
 
-Dalam lingkup pemasaran atau *copywriting*, pilihan kata adalah senjata utama. Mengganti satu frasa di kalimat pembuka iklan bisa mendongkrak penjualan berlipat ganda. Ini menjadi bukti bahwa pragmatik bahasa sangat efektif mengarahkan tindakan audiens.
+Dalam lingkup pemasaran atau *copywriting*, pilihan kata adalah alat utama. Mengganti satu frasa di kalimat pembuka iklan bisa mendongkrak penjualan berlipat ganda. Ini menjadi bukti bahwa pragmatik bahasa sangat efektif mengarahkan tindakan audiens.
 
 Bahkan di era kecerdasan buatan, peranan sentuhan manusia tetap dominan. Pekerjaan *prompt engineering* sangat menuntut spesifisitas, struktur, dan kedalaman semantik. Bayangkan seorang perancang *prompt* yang meminta AI membuat puisi tentang hujan tanpa boleh menggunakan kata "air" atau "langit". Ia harus menggali perbendaharaan katanya untuk melukiskan suasana tersebut melalui metafora, misalnya mendeskripsikan tetesan bening yang jatuh membasahi tanah kering dan membawa aroma petrikor segar di udara pagi.
 
@@ -52,4 +52,4 @@ Metode melatih kecerdasan ini bisa disesuaikan dengan dominasi gaya belajar masi
 
 Bagi mereka yang auditori, rutinitas seperti berdebat, bergabung dalam diskusi panel, atau merangkum lisan isi *podcast* bisa sangat menajamkan insting bahasa. Sementara itu, pendekatan kinestetik dapat ditempuh melalui bermain peran (*role-playing*) dalam simulasi komunikasi yang sarat tekanan, seperti berlatih negosiasi gaji atau presentasi bisnis.
 
-Pada akhirnya, bahasa adalah jembatan paling kokoh untuk menghubungkan realitas batin dan dunia luar. Mengolah kata berarti kita turut serta mengonstruksi pemahaman baru. Kecerdasan ini akan terus mekar sepanjang usia. Tiap kali kamu membaca satu istilah baru atau menuangkan isi kepala ke dalam jurnal, jejaring saraf bahasamu di otak sedang diperkokoh.
+Pada akhirnya, bahasa adalah alat untuk menghubungkan isi batin dengan dunia luar. Mengolah kata berarti kita turut serta mengonstruksi pemahaman baru. Kecerdasan ini akan terus berkembang sepanjang usia. Tiap kali kamu membaca satu istilah baru atau menuangkan isi kepala ke dalam jurnal, jejaring saraf bahasamu di otak sedang diperkokoh.

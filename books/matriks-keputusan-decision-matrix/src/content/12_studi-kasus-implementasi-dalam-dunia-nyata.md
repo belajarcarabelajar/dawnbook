@@ -1,12 +1,12 @@
 ## Tiga Kasus Nyata Matriks Keputusan
 
-Selamat datang di bagian akhir dari perjalanan kita mempelajari **matriks keputusan** (*decision matrix*). Setelah memahami teori dasar, kriteria penilaian, hingga cara menentukan skor berbobot, kini saatnya melihat bagaimana alat bantu ini bekerja secara riil di lapangan.
+Vendor logistik, rekrutmen *senior software engineer*, dan apartemen investasi menjadi tiga kasus penerapan **matriks keputusan** di bab ini. Setelah memahami teori dasar, kriteria penilaian, hingga cara menentukan skor berbobot, kini saatnya melihat bagaimana alat bantu ini bekerja secara riil di lapangan.
 
 Teori tanpa praktik sering kali terasa abstrak. Ibarat mempelajari mesin mobil, kamu baru akan benar-benar memahaminya saat mencoba mengemudikannya langsung di jalan raya. Bagian ini mengeksplorasi tiga skenario dunia nyata: dunia bisnis, manajemen sumber daya manusia, dan keuangan pribadi.
 
 ### 1. Memilih Vendor Logistik Utama
 
-Bayangkan kamu menduduki posisi sebagai Manajer Operasional di perusahaan *e-commerce* yang sedang berkembang pesat. Kamu harus memilih satu dari tiga perusahaan logistik (Vendor A, B, dan C) untuk menjadi mitra utama. Keputusan ini sangat menentukan karena langsung memengaruhi kepuasan pelanggan dan margin keuntungan perusahaan.
+Bayangkan kamu menduduki posisi sebagai Manajer Operasional di perusahaan *e-commerce* yang sedang berkembang pesat. Kamu harus memilih satu dari tiga perusahaan logistik (Vendor A, B, dan C) untuk menjadi mitra utama. Keputusan ini menentukan karena langsung memengaruhi kepuasan pelanggan dan margin keuntungan perusahaan.
 
 **Kriteria dan Bobot:**
 
@@ -127,6 +127,6 @@ Dalam dunia profesional, matriks keputusan sering digunakan dalam rapat direksi 
 - **Menyediakan Rekam Jejak (Audit Trail)**: Ketika di masa depan keputusan tersebut dipertanyakan oleh pemangku kepentingan, kamu memiliki catatan logis yang melandasinya.
 - **Membentuk Konsensus Kelompok**: Kamu bisa meminta seluruh anggota tim memberikan skor secara mandiri, lalu menghitung rata-ratanya demi memperoleh keputusan kolektif.
 
-Sebagai catatan tambahan, sekalipun analisis ini menghasilkan angka yang tampak pasti, sebaiknya lakukan juga **analisis sensitivitas**. Tanyakan pada diri sendiri: *'Apabila bobot biaya dinaikkan sedikit, apakah alternatif terbaiknya akan bergeser?'* Jika hasilnya konsisten, keputusan yang diambil terbukti sangat kokoh.
+Sebagai catatan tambahan, sekalipun analisis ini menghasilkan angka yang tampak pasti, sebaiknya lakukan juga **analisis sensitivitas**. Tanyakan pada diri sendiri: *'Apabila bobot biaya dinaikkan sedikit, apakah alternatif terbaiknya akan bergeser?'* Jika hasilnya konsisten, keputusan yang diambil terbukti kokoh.
 
-Perlu diingat bahwa matriks keputusan tidak mematikan intuisi atau pengalaman profesional. Alat ini justru berfungsi mendisiplinkan intuisi tersebut. Gunakan data numerik untuk menguji apa yang dirasakan oleh naluri bisnismu, sehingga setiap langkah akhir berpijak pada fondasi yang logis.
+Perlu diingat bahwa matriks keputusan tidak mematikan intuisi atau pengalaman profesional. Alat ini justru berfungsi mendisiplinkan intuisi tersebut. Gunakan data numerik untuk menguji apa yang dirasakan oleh naluri bisnismu, sehingga setiap langkah akhir punya dasar yang logis.

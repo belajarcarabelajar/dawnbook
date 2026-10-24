@@ -57,4 +57,4 @@ Utas yang enak dibaca boleh menjadi pintu masuk. Namun untuk keputusan yang meny
 - Topics yang kamu ikuti terlihat oleh orang lain, dan koreksi Interests hanya menyampaikan preferensi, bukan menghapus riwayat.
 - Mematikan autoplay dan memangkas notifikasi mengurangi gangguan, tetapi tidak menghentikan personalisasi.
 
-Pengaturan semalam itu hanyalah fondasi, sebab sesudahnya yang tersisa adalah pilihan kecil yang kamu ambil dari detik ke detik setiap kali sebuah post muncul di layar.
+Pengaturan semalam itu hanyalah fondasi, sebab sesudahnya yang tersisa adalah pilihan kecil yang kamu ambil setiap kali sebuah post muncul di layar.

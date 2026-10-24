@@ -2,11 +2,11 @@
 
 Pernahkah kamu terjebak dalam dilema moral dan bertanya pada diri sendiri: *"Apa yang seharusnya saya lakukan?"*
 
-Dalam dunia filsafat moral, jawaban atas pertanyaan itu sangat bergantung pada "kacamata" etika mana yang kamu pakai. Teori etika modern pada umumnya, seperti Deontologi dan Utilitarianisme, berfokus pada tindakan itu sendiri atau hasil akhirnya. Namun, Etika Kebajikan mengambil arah yang berbeda. Pendekatan ini menggeser fokus dari 'Apa yang harus saya lakukan?' menjadi **'Saya ingin menjadi orang yang seperti apa?'**
+Dalam dunia filsafat moral, jawaban atas pertanyaan itu bergantung pada "kacamata" etika mana yang kamu pakai. Teori etika modern pada umumnya, seperti Deontologi dan Utilitarianisme, berfokus pada tindakan itu sendiri atau hasil akhirnya. Namun, Etika Kebajikan mengambil arah yang berbeda. Pendekatan ini menggeser fokus dari 'Apa yang harus saya lakukan?' menjadi **'Saya ingin menjadi orang yang seperti apa?'**
 
-Mari kita bedah perbandingannya untuk memahami mengapa pendekatan berbasis karakter ini tetap relevan dan unik di tengah kepungan aturan dan logika kalkulasi modern.
+Mari kita bedah perbandingannya untuk memahami mengapa pendekatan berbasis karakter ini tetap relevan dan unik di tengah aturan dan logika kalkulasi modern.
 
-### 1. Tiga Pilar Besar Etika
+### 1. Tiga Pilar Etika
 
 Ada tiga pilar utama dalam peta filsafat moral. Etika Kebajikan (Virtue Ethics) menitikberatkan pada karakter dan integritas pelaku. Deontologi (Kantianism) berfokus pada kewajiban serta kepatuhan terhadap aturan moral universal. Terakhir, Utilitarianisme (Konsekuensialisme) melihat hasil akhir atau konsekuensi dari suatu tindakan.
 
@@ -68,6 +68,6 @@ Para pendukung teori modern sering mengkritik Etika Kebajikan karena dianggap ku
 
 Meskipun teori modern membantu kita mengambil keputusan secara lebih pasti, Etika Kebajikan menyentuh aspek motivasi terdalam mengenai alasan kita ingin menjadi orang baik sejak awal.
 
-### Kesimpulan
+### Bukan Soal Siapa yang Paling Benar
 
 Membandingkan Etika Kebajikan dengan teori modern bukan tentang mencari siapa yang paling benar. Deontologi menjaga kita tetap pada jalur melalui aturan yang adil, sementara Utilitarianisme mengingatkan kita untuk mempertimbangkan dampak suatu tindakan terhadap orang lain. Di sisi lain, Etika Kebajikan memastikan bahwa kita memiliki fondasi karakter yang matang untuk menjalankan aturan-aturan tersebut secara bijaksana dan didorong oleh motivasi yang tepat. Tanpa karakter, aturan akan menjadi beban belaka dan hasil akhir hanya sekumpulan angka tanpa makna.

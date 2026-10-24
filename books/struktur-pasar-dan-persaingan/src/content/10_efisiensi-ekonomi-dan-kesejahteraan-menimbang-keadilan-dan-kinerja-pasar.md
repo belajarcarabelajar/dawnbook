@@ -1,6 +1,6 @@
 ## Efisiensi Ekonomi dan Kesejahteraan
 
-Dalam perjalanan kamu memahami struktur pasar, kamu telah melihat bagaimana perusahaan berperilaku, dari yang tunduk pada harga pasar hingga yang berkuasa menentukan harga sendiri. Namun, pertanyaan besarnya: **Manakah dari struktur pasar ini yang paling menguntungkan bagi masyarakat?**
+Di bab-bab sebelumnya, kamu telah melihat perusahaan yang tunduk pada harga pasar hingga yang berkuasa menentukan harga sendiri. Namun, pertanyaan besarnya: **Manakah dari struktur pasar ini yang paling menguntungkan bagi masyarakat?**
 
 Bagian ini membedah konsep "efisiensi" sebagai ukuran seberapa baik sebuah pasar melayani kepentingan bersama melalui alokasi sumber daya dan distribusi kesejahteraan.
 
@@ -34,7 +34,7 @@ Untuk memahami dampak struktur pasar terhadap masyarakat, kamu dapat menggunakan
 
 Mari bandingkan bagaimana struktur pasar yang berbeda membagi kue kesejahteraan ekonomi.
 
-### A. Pasar Persaingan Sempurna (Standar Emas)
+### A. Efisiensi Persaingan Sempurna
 
 Dalam jangka panjang, pasar persaingan sempurna mencapai efisiensi tertinggi.
 
@@ -42,7 +42,7 @@ Dalam jangka panjang, pasar persaingan sempurna mencapai efisiensi tertinggi.
 - **Efisiensi Produktif:** Tercapai karena persaingan memaksa perusahaan beroperasi pada titik terendah $\text{ATC}$.
 - **Kesejahteraan:** Surplus total maksimal tanpa adanya *Deadweight Loss* (beban mati).
 
-### B. Pasar Monopoli (Si Pengambil Keuntungan)
+### B. Efisiensi Monopoli
 
 Monopoli cenderung tidak efisien bagi kesejahteraan masyarakat.
 
@@ -50,7 +50,7 @@ Monopoli cenderung tidak efisien bagi kesejahteraan masyarakat.
 - **Efisiensi Produktif:** Tidak selalu tercapai. Tanpa persaingan, produsen monopoli berisiko mengalami *X-Inefficiency* (beroperasi di atas biaya rata-rata terendah).
 - **Kesejahteraan:** Terjadi transfer surplus dari konsumen ke produsen, serta munculnya **Deadweight Loss** $\text{DWL}$, yaitu hilangnya kesejahteraan masyarakat akibat volume produksi yang terlalu sedikit.
 
-### C. Persaingan Monopolistik & Oligopoli (Jalan Tengah)
+### C. Efisiensi Persaingan Monopolistik & Oligopoli
 
 - **Persaingan Monopolistik:** Mengalami sedikit inefisiensi karena diferensiasi produk $P > \text{MC}$. Meskipun demikian, konsumen memperoleh kompensasi berupa keragaman produk.
 - **Oligopoli:** Jika produsen berkolusi, tingkat efisiensinya menyerupai monopoli. Sebaliknya, jika terjadi persaingan harga ketat, efisiensinya mendekati pasar persaingan sempurna.
@@ -69,7 +69,7 @@ $$
 
 ## 5. Dampak Privatisasi pada Perusahaan Air Minum
 
-**Skenario Transformasi Perusahaan Air Minum**
+**Air Minum dari Pemerintah ke Swasta**
 
 Di sebuah kota, layanan air minum awalnya dikelola oleh pemerintah dengan harga terjangkau mendekati $P = \text{MC}$ untuk memaksimalkan efisiensi alokatif. Namun, akibat ketiadaan kompetisi, biaya operasional membengkak sehingga timbul inefisiensi produktif.
 
@@ -79,7 +79,7 @@ Pemerintah kemudian melakukan privatisasi dan memberikan hak monopoli kepada per
 2. **Efisiensi Alokatif Menurun:** Perusahaan menaikkan harga di atas biaya marjinal demi memaksimalkan laba.
 3. **Dampak Kesejahteraan:** Masyarakat berpenghasilan rendah mengalami keterbatasan akses air bersih karena Surplus Konsumen menurun, meskipun efisiensi internal perusahaan meningkat.
 
-## 6. Ringkasan Perbandingan Kesejahteraan
+## 6. Kesejahteraan pada Tiga Struktur Pasar
 
 | Karakteristik | Persaingan Sempurna | Monopoli | Monopolistik |
 | --- | --- | --- | --- |

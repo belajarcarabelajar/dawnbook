@@ -1,6 +1,6 @@
 ## Nietzsche dan Transformasi Nilai
 
-Friedrich Nietzsche adalah seorang filsuf sekaligus pembedah kebudayaan yang menggunakan "palu" sebagai alat berfilsafatnya. Jika bagian sebelumnya membahas bagaimana eksistensialisme berakar dari krisis nilai, di sini kita akan masuk ke jantung badai tersebut. Nietzsche tidak hanya mengamati runtuhnya nilai-nilai lama, ia merayakannya sebagai peluang bagi manusia untuk mencapai potensi tertingginya.
+Friedrich Nietzsche adalah seorang filsuf sekaligus kritikus kebudayaan yang menggunakan "palu" sebagai alat berfilsafatnya. Jika bagian sebelumnya membahas bagaimana eksistensialisme berakar dari krisis nilai, di sini kita akan membahas krisis itu lebih dekat. Nietzsche tidak hanya mengamati runtuhnya nilai-nilai lama, ia merayakannya sebagai peluang bagi manusia untuk mencapai potensi tertingginya.
 
 ## 1. "Tuhan Telah Mati"
 
@@ -13,20 +13,20 @@ Nietzsche melihat bahwa di akhir abad ke-19, ilmu pengetahuan dan rasionalitas t
 > "Tuhan telah mati. Tuhan tetap mati. Dan kita telah membunuhnya."
 
 **Analogi Runtuhnya Mercusuar**
-Bayangkan sebuah kapal yang berlayar di malam hari dengan panduan sebuah mercusuar (Tuhan/Agama). Tiba-tiba, lampu mercusuar itu padam. Kapal tersebut masih mengapung, tetapi ia kehilangan arah kompas absolutnya. Inilah kondisi manusia modern: kita bebas, tetapi kita tersesat di tengah samudera tanpa batas.
+Bayangkan sebuah kapal yang berlayar di malam hari dengan panduan sebuah mercusuar (Tuhan/Agama). Tiba-tiba, lampu mercusuar itu padam. Kapal tersebut masih mengapung, tetapi ia kehilangan arah kompas absolutnya. Inilah kondisi manusia modern: kita bebas, tetapi kita tersesat di tengah laut.
 
-## 2. Jurang Nihilisme
+## 2. Nihilisme Pasif dan Nihilisme Aktif
 
 Runtuhnya nilai-nilai absolut membawa manusia ke hadapan **Nihilisme**: keyakinan bahwa hidup tidak memiliki makna, tujuan, atau nilai intrinsik. Nietzsche membagi nihilisme menjadi dua bentuk:
 
 1. **Nihilisme Pasif:** Pandangan bahwa karena tidak ada makna objektif, maka hidup ini sia-sia. Ini berujung pada keputusasaan, pesimisme, dan mentalitas menyerah pada keadaan.
-2. **Nihilisme Aktif:** Kekuatan penghancur yang sengaja meruntuhkan nilai-nilai lama yang sudah membusuk guna memberi ruang bagi penciptaan sesuatu yang baru. Bagi Nietzsche, ini adalah tanda kekuatan.
+2. **Nihilisme Aktif:** Kekuatan penghancur yang sengaja meruntuhkan nilai-nilai lama yang sudah usang guna memberi ruang bagi penciptaan sesuatu yang baru. Bagi Nietzsche, ini adalah tanda kekuatan.
 
 *Jika besok pagi kamu bangun dan menyadari bahwa tidak ada aturan universal tentang apa yang "benar" dan "salah", apakah kamu akan merasa takut atau justru merasa merdeka?*
 
 ## 3. *Umwertung aller Werte* (Penilaian Kembali Segala Nilai)
 
-Untuk keluar dari lubang nihilisme, Nietzsche menawarkan konsep revaluasi nilai. Ia mengkritik apa yang disebutnya sebagai *Moralitas Budak* (*Slave Morality*).
+Untuk keluar dari nihilisme, Nietzsche menawarkan konsep revaluasi nilai. Ia mengkritik apa yang disebutnya sebagai *Moralitas Budak* (*Slave Morality*).
 
 - **Moralitas Budak:** Nilai-nilai yang memuja kerendahhatian, kepatuhan, dan pengorbanan diri (sering diasosiasikan Nietzsche dengan institusi agama tradisional). Ini dianggap sebagai bentuk kebencian terhadap kekuatan hidup.
 - **Moralitas Tuan (*Master Morality*):** Nilai-nilai yang memuja kekuatan, kebangsawanan jiwa, kreativitas, dan penegasan diri.
@@ -69,6 +69,6 @@ Bayangkan seseorang bernama Budi. Selama 10 tahun, Budi bekerja sebagai akuntan 
 - ***Übermensch*** adalah cita-cita manusia yang mampu menciptakan maknanya sendiri (menjadi "Anak Kecil" yang bermain dengan nilai-nilai).
 - ***Amor Fati*** (Cintai Takdirmu): Sebuah konsep pendukung di mana kita mencintai setiap detik kehidupan kita, termasuk penderitaannya, karena itulah yang membentuk kita.
 
-> **Pesan Utama:** Jangan menjadi cermin yang hanya memantulkan nilai-nilai orang lain. Jadilah cahaya yang menciptakan warnanya sendiri.
+> **Pesan Utama:** Jangan sekadar mengikuti nilai-nilai orang lain. Ciptakan nilaimu sendiri.
 
 Coba renungkan: nilai mana dalam hidupmu yang sebenarnya merupakan warisan orang lain, dan mana yang benar-benar lahir dari keinginanmu sendiri?

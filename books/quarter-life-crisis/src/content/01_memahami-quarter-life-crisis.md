@@ -2,7 +2,7 @@
 
 Pernahkah kamu terbangun di tengah malam, menatap langit-langit kamar, dan tiba-tiba merasa sangat asing dengan hidupmu sendiri? Kamu mungkin sudah lulus kuliah, memiliki pekerjaan, atau sedang merintis sesuatu, namun ada suara kecil di kepala yang bertanya: *"Benarkah ini yang ingin aku lakukan selamanya?"* atau *"Mengapa semua orang terlihat lebih sukses dariku?"*
 
-Jika ya, selamat datang di klub. Kamu tidak sendirian, dan kamu kemungkinan besar sedang berada di ambang **Quarter-Life Crisis (QLC)**.
+Jika ya, ada dua hal yang perlu kamu tahu. Kamu tidak sendirian, dan kamu kemungkinan besar sedang berada di ambang **Quarter-Life Crisis (QLC)**.
 
 ## Apa Itu Quarter-Life Crisis?
 
@@ -26,11 +26,11 @@ Meskipun fenomenanya mungkin sudah ada sejak lama, istilah ini tidak muncul begi
 
 ## Mengapa Fenomena Ini Sangat Relevan Sekarang?
 
-Mungkin kamu bertanya, *"Mengapa generasi orang tua kita dulu sepertinya tidak seheboh ini?"* Ini terjadi karena **konteks zamannya berbeda**, bukan karena mereka lebih tangguh. Berikut adalah alasan mengapa QLC menjadi sangat relevan bagi generasi muda saat ini:
+Mungkin kamu bertanya, *"Mengapa generasi orang tua kita dulu sepertinya tidak seheboh ini?"* Ini terjadi karena **konteks zamannya berbeda**, bukan karena mereka lebih tangguh. Berikut adalah alasan mengapa QLC menjadi relevan bagi generasi muda saat ini:
 
 ### 1\. Paradoks Pilihan (Paradox of Choice)
 
-Dulu, jalur hidup cenderung linier: sekolah, kerja (di satu perusahaan sampai pensiun), menikah, punya anak. Sekarang, pilihannya tak terbatas. Kamu bisa menjadi PNS, *freelancer*, *content creator*, hingga *digital nomad*. Terlalu banyak pilihan justru seringkali menyebabkan kecemasan karena takut melewatkan pilihan yang "terbaik".
+Dulu, jalur hidup cenderung linier: sekolah, kerja (di satu perusahaan sampai pensiun), menikah, punya anak. Sekarang, pilihannya jauh lebih banyak. Kamu bisa menjadi PNS, *freelancer*, *content creator*, hingga *digital nomad*. Terlalu banyak pilihan justru seringkali menyebabkan kecemasan karena takut melewatkan pilihan yang "terbaik".
 
 ### 2\. Kesenjangan Ekspektasi vs. Realitas
 
@@ -40,7 +40,7 @@ Banyak dari kita dibesarkan dengan narasi "Kamu bisa jadi apa saja yang kamu mau
 
 Dibandingkan 40 tahun lalu, orang dewasa muda saat ini membutuhkan waktu lebih lama untuk mencapai kemandirian finansial, memiliki rumah, atau menikah. Hal ini menciptakan perasaan "terlambat" atau "tertinggal" dibandingkan standar kesuksesan tradisional.
 
-## Kisah Maya di Persimpangan
+## Kisah Maya
 
 > Maya adalah seorang lulusan Desain Grafis berusia 24 tahun yang bekerja di sebuah agensi periklanan ternama. Secara objektif, Maya "berhasil". Namun, setiap hari Minggu sore, ia merasakan sesak di dada (biasa disebut *Sunday Scaries*).
 > 

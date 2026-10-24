@@ -1,6 +1,6 @@
 ## Proses Bergeron-Findeisen
 
-Bagaimana hujan dapat terbentuk di wilayah beriklim dingin saat musim dingin, atau di puncak awan kumulonimbus yang menjulang tinggi di kawasan khatulistiwa? Di mana suhu berada jauh di bawah titik beku, pembentukan presipitasi tidak hanya bergantung pada mekanisme tumbukan dan penggabungan (*collision-coalescence*) tetes air cair. Pada temperatur subnol, mekanisme dominan yang mendorong pertumbuhan partikel presipitasi adalah pembekuan dan transfer massa uap air yang dikenal sebagai **Proses Bergeron-Findeisen** (atau proses Tor Bergeron dan Walter Findeisen).
+Bagaimana hujan dapat terbentuk di wilayah beriklim dingin saat musim dingin, atau di puncak awan kumulonimbus yang menjulang di khatulistiwa? Di mana suhu berada jauh di bawah titik beku, pembentukan presipitasi tidak hanya bergantung pada mekanisme tumbukan dan penggabungan (*collision-coalescence*) tetes air cair. Pada temperatur subnol, mekanisme dominan yang mendorong pertumbuhan partikel presipitasi adalah pembekuan dan transfer massa uap air yang dikenal sebagai **Proses Bergeron-Findeisen** (atau proses Tor Bergeron dan Walter Findeisen).
 
 ### Memahami Kondisi Fase Campuran (*Mixed-Phase*)
 
@@ -106,16 +106,16 @@ Pada kondisi kekeringan atau kebutuhan presipitasi tambahan, lapisan awan dingin
 #### Prosedur dan Mekanisme Penyemaian
 
 1. **Penaburan Agen Penyemai:** Pesawat udara atau roket melepaskan material penyemai seperti **Perak Iodida** ($\text{AgI}$) atau es kering ($\text{CO}\_2$ padat) ke dalam lapisan awan superdingin.
-2. **Fungsi AgI sebagai Inti Es Buatan:** Kisi kristal $\text{AgI}$ memiliki struktur geometri heksagonal yang sangat presisi dan serupa dengan struktur kisi kristal es alami, sehingga $\text{AgI}$ efektif bertindak sebagai Inti Es ($\text{IN}$) pada temperatur yang lebih hangat ($T \approx -4^\circ\text{C}$).
+2. **Fungsi AgI sebagai Inti Es Buatan:** Kisi kristal $\text{AgI}$ memiliki struktur geometri heksagonal yang serupa dengan struktur kisi kristal es alami, sehingga $\text{AgI}$ efektif bertindak sebagai Inti Es ($\text{IN}$) pada temperatur yang lebih hangat ($T \approx -4^\circ\text{C}$).
 3. **Inisiasi Proses Bergeron-Findeisen:** Kehadiran inti es buatan menginisiasi pembentukan kristal es seketika. Gradien tekanan uap langsung terbentuk antara tetesan air superdingin dan es baru tersebut.
 4. **Pertumbuhan Pesat dan Presipitasi:** Kristal es tumbuh pesat melalui deposisi uap, mencapai ukuran kritis presipitasi, lalu jatuh sebagai salju atau mencair menjadi hujan di permukaan tanah.
 
-### Ringkasan Tahapan Fisika Bergeron-Findeisen
+### Tahapan Fisika Bergeron-Findeisen
 
 | Tahapan | Tetesan Air Superdingin | Kristal Es Padat | Kondisi Kejenuhan Atmosfer | Hasil Akhir Mikro Fisika |
 | :--- | :--- | :--- | :--- | :--- |
 | **Inisiasi (Awal)** | Konsentrasi tinggi, fase cair superdingin | Konsentrasi sangat rendah | Jenuh terhadap air cair ($RH\_{\text{air}} = 100\text{\%}$) | Kesetimbangan uap belum terganggu |
 | **Transformasi (Proses)** | Mengalami evaporasi mendadak | Mengalami deposisi uap pesat | Lewat-jenuh terhadap es ($RH\_{\text{es}} > 100\text{\%}$) | Transfer massa uap dari cair ke padat |
-| **Klimaks (Terminasi)** | Menyusut hingga habis menguap | Tumbuh mekar dan semakin berat | Kesetimbangan uap bergeser | Partikel es mulai jatuh (presipitasi) |
+| **Akhir (Terminasi)** | Menyusut hingga habis menguap | Tumbuh membesar dan semakin berat | Kesetimbangan uap bergeser | Partikel es mulai jatuh (presipitasi) |
 
 Tanpa keberadaan Proses Bergeron-Findeisen pada atmosfer lintang menengah dan tinggi, laju pembentukan presipitasi pada awan-awan dingin akan berlangsung jauh lebih lambat, yang berpengaruh langsung terhadap distribusi curah hujan global.

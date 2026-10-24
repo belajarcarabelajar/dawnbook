@@ -1,12 +1,12 @@
 ## Memisahkan Modul ke dalam File Terpisah
 
-Bayangkan kamu sedang membangun sebuah rumah. Awalnya, kamu menyimpan semua peralatan dalam satu kotak besar. Namun, seiring berjalannya proyek, kotak tersebut menjadi sangat penuh sehingga kamu kesulitan menemukan palu atau obeng. Strategi terbaik adalah memindahkan peralatan tersebut ke dalam laci-laci yang terorganisir.
+Bayangkan kamu sedang membangun sebuah rumah. Awalnya, kamu menyimpan semua peralatan dalam satu kotak besar. Namun, seiring berjalannya proyek, kotak tersebut menjadi penuh sehingga kamu kesulitan menemukan palu atau obeng. Solusinya adalah memindahkan peralatan tersebut ke dalam laci-laci yang terorganisir.
 
 Dalam Rust, memindahkan isi modul dari satu file besar (`main.rs` atau `lib.rs`) ke file terpisah adalah cara kita "merapikan laci" kode agar lebih mudah dikelola, dibaca, dan dikembangkan secara tim.
 
-## Dari Satu Gulungan Kertas ke Sebuah Buku
+## Setiap File Menjadi Satu Bab
 
-Jika `main.rs` yang sangat panjang adalah sebuah **gulungan perkamen raksasa**, maka memisahkan modul adalah proses mengubahnya menjadi sebuah **buku**. Setiap file `.rs` adalah satu bab. Daftar isi buku tersebut tetap berada di bagian depan (file utama), tetapi detail ceritanya ada di halaman masing-masing.
+Jika `main.rs` yang panjang adalah sebuah **gulungan perkamen**, maka memisahkan modul adalah proses mengubahnya menjadi sebuah **buku**. Setiap file `.rs` adalah satu bab. Daftar isi buku tersebut tetap berada di bagian depan (file utama), tetapi detail ceritanya ada di halaman masing-masing.
 
 ## Mengapa Kita Harus Memisahkannya?
 
@@ -68,7 +68,7 @@ my_project/
 
 Pindahkan fungsi dari dalam kurung kurawal di `main.rs` ke dalam file `pembersihan_data.rs`.
 
-**Catatan Krusial:** Di dalam file baru, kamu **TIDAK PERLU** lagi menulis `mod pembersihan_data { ... }`. Isi file tersebut secara otomatis dianggap sebagai isi dari modul tersebut.
+**Catatan:** Di dalam file baru, kamu **TIDAK PERLU** lagi menulis `mod pembersihan_data { ... }`. Isi file tersebut secara otomatis dianggap sebagai isi dari modul tersebut.
 
 ```rust
 // src/pembersihan_data.rs
@@ -124,13 +124,13 @@ fn main() {
 }
 ```
 
-## Praktik Terbaik
+## Tiga Kebiasaan Menata File Modul
 
 1. **Satu File, Satu Tanggung Jawab**: Hindari mencampuradukkan logika database dan logika UI dalam file modul yang sama.
 2. **Gunakan snake_case untuk nama file**: Selalu gunakan gaya penulisan ini, contohnya `proses_pembayaran.rs` (bukan `ProsesPembayaran.rs`).
 3. **Ganti ke folder jika modul semakin kompleks**: Jika `pembersihan_data.rs` tumbuh terlalu besar dan memiliki sub-logika seperti pembersihan angka atau simbol, sebaiknya gunakan hierarki folder (yang akan kita pelajari nanti).
 
-## Ringkasan Visual
+## Peta Perpindahan Modul ke File
 
 | Lokasi Lama (`main.rs`) | Lokasi Baru (`file.rs`) | Keterangan |
 | --- | --- | --- |
@@ -138,6 +138,6 @@ fn main() {
 | Isi di dalam `{ ... }` | Langsung ditulis di file | Tidak perlu membungkus dengan `mod` lagi |
 | Fungsi privat | Tetap privat | Butuh `pub` untuk diakses file induk |
 
-> **Insight Memorable:** "File adalah modul, dan modul adalah unit organisasi. Rust menggunakan sistem file kamu sebagai peta untuk memahami bagaimana kode saling terhubung."
+> **Insight:** "File adalah modul, dan modul adalah unit organisasi. Rust menggunakan sistem file kamu sebagai peta untuk memahami bagaimana kode saling terhubung."
 
 Setelah memahami cara memindahkan modul ke file tunggal, bagaimana jika modul tersebut memiliki sub-modul di dalamnya?

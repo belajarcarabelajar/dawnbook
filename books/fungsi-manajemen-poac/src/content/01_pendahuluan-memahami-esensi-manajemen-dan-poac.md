@@ -1,6 +1,6 @@
 ## Memahami Esensi Manajemen dan POAC
 
-Selamat datang di langkah pertama perjalananmu memahami dunia manajemen! Pernahkah kamu membayangkan bagaimana sebuah konser musik besar dengan ribuan penonton bisa berjalan dengan sangat rapi? Atau bagaimana perusahaan teknologi raksasa bisa meluncurkan produk baru di seluruh dunia secara bersamaan?
+Perjalananmu memahami dunia manajemen berawal dari dua pertanyaan tentang kegiatan besar yang bisa berjalan rapi dan serempak. Pernahkah kamu membayangkan bagaimana sebuah konser musik besar dengan ribuan penonton bisa berjalan dengan sangat rapi? Atau bagaimana perusahaan teknologi raksasa bisa meluncurkan produk baru di seluruh dunia secara bersamaan?
 
 Semua itu bukan terjadi karena kebetulan. Itu adalah hasil dari sebuah seni dan sains yang disebut **Manajemen**.
 
@@ -10,7 +10,7 @@ Secara sederhana, manajemen adalah seni menyelesaikan pekerjaan melalui orang la
 
 > **Manajemen** adalah sebuah proses yang khas, yang terdiri dari tindakan-tindakan perencanaan, pengorganisasian, penggerakan, dan pengendalian yang dilakukan untuk menentukan serta mencapai sasaran-sasaran yang telah ditetapkan melalui pemanfaatan sumber daya manusia dan sumber daya lainnya.
 
-### Sang Konduktor Orkes
+### Konduktor Orkes Simfoni
 
 Bayangkan sebuah orkes simfoni. Ada pemain biola, pemain trompet, dan pemain drum. Masing-masing sangat ahli di bidangnya. Namun, tanpa seorang **Konduktor (Manajer)**, mereka mungkin akan bermain dengan tempo yang berbeda-beda. Manajer tidak memainkan alat musiknya sendiri; tugasnya adalah memastikan semua pemain "berbunyi" secara harmonis untuk menghasilkan musik yang indah.
 
@@ -77,8 +77,8 @@ Mari kita lihat bagaimana konsep manajemen ini diterapkan pada skenario nyata:
 
 ## Inti Pembahasan
 
-Manajemen tidak hanya sebatas teori di buku teks. Ini adalah instrumen praktis yang membantu manusia mencapai hal-hal besar secara terorganisasi. Dengan memahami **POAC**, kamu memiliki kompas untuk mengelola apa pun, mulai dari tugas kuliah, organisasi mahasiswa, hingga perusahaan rintisan (*startup*) milikmu sendiri.
+Manajemen tidak hanya sebatas teori di buku teks. Ini adalah instrumen praktis yang membantu manusia mencapai tujuan secara terorganisasi. Dengan memahami **POAC**, kamu memiliki kompas untuk mengelola apa pun, mulai dari tugas kuliah, organisasi mahasiswa, hingga perusahaan rintisan (*startup*) milikmu sendiri.
 
 > **Pesan Penting:** Manajemen yang baik adalah tentang menjaga keseimbangan. Terlalu banyak kontrol bisa mematikan kreativitas, sementara terlalu sedikit perencanaan bisa menyebabkan kekacauan.
 
-*Setelah memahami gambaran besar ini, bagian selanjutnya akan membawa kamu menyelam lebih dalam ke fungsi pertama: **Planning**, di mana semua mimpi besar mulai dipetakan secara strategis.*
+*Setelah memahami gambaran besar ini, bagian selanjutnya membahas lebih dalam fungsi pertama: **Planning**, tempat tujuan mulai dipetakan secara strategis.*

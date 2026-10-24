@@ -20,7 +20,7 @@ Kenapa pemberi bisa salah menebak? [Boothby dan Bohns](https://doi.org/10.1177/0
 
 Judul makalah [Zhao dan Epley](https://doi.org/10.1037/pspa0000277) menyebut akibatnya: meremehkan dampak positif pujian menjadi penghalang untuk mengungkapkannya. Kemungkinan, orang menahan pujian karena membayangkan suasana jadi kikuk, padahal penerimanya cenderung lebih senang daripada yang dibayangkan.
 
-Boothby dan Bohns juga melaporkan hal yang menghangatkan: pemberi pujian merasa lebih baik setelah benar-benar menyampaikannya.
+Boothby dan Bohns juga melaporkan bahwa pemberi pujian merasa lebih baik setelah benar-benar menyampaikannya.
 
 Kalau kamu berada di posisi penerima, temuan ini memberi sudut pandang lain. Orang yang memujimu mungkin juga sedang gugup. Rasa kikuk di antara kalian tidak selalu milikmu seorang.
 

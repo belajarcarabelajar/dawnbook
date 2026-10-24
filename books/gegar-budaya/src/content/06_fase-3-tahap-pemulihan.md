@@ -1,10 +1,10 @@
 ## Tahap Pemulihan (The Recovery Phase)
 
-Setelah melewati badai emosi pada **Fase Krisis**, kamu kini mulai memasuki wilayah yang lebih tenang. Jika Fase Krisis diibaratkan sebagai tersesat di tengah kabut tebal, maka **Tahap Pemulihan** adalah saat kabut tersebut mulai terangkat, dan kamu mulai melihat jalan setapak yang jelas di depan mata.
+Setelah melewati frustrasi dan kesedihan pada **Fase Krisis**, kamu kini mulai memasuki wilayah yang lebih tenang. Jika Fase Krisis diibaratkan sebagai tersesat di tengah kabut tebal, maka **Tahap Pemulihan** adalah saat kabut tersebut mulai terangkat, dan kamu mulai melihat jalan setapak yang jelas di depan mata.
 
 Tahap ini tidak menuntutmu menjadi "penduduk lokal" dalam semalam. Ini adalah proses transisi dari rasa frustrasi menuju pemahaman. Kamu mulai memiliki kendali kembali atas hidupmu di lingkungan yang baru.
 
-## 1. Memahami Esensi Pemulihan
+## 1. Memahami Tahap Pemulihan
 
 Pada tahap ini, individu mulai mengembangkan rutinitas dan merasa lebih mampu menangani situasi sehari-hari. Secara psikologis, ini adalah fase **reintegrasi**. Kamu tidak lagi memandang perbedaan budaya sebagai ancaman, tetapi sebagai teka-teki yang mulai bisa kamu susun potongannya.
 
@@ -34,11 +34,11 @@ $$
 
 Di mana perubahan kenyamanan terhadap waktu menjadi positif, menandakan pertumbuhan kemampuan adaptasi.
 
-## 3. Pilar-Pilar Utama dalam Tahap Pemulihan
+## 3. Tiga Area Pemulihan
 
 Untuk memahami bagaimana transisi ini terjadi, mari kita bedah ke dalam tiga area utama:
 
-### A. Dekonstruksi Kode Budaya
+### A. Memahami Kode Budaya
 
 Pada fase ini, kamu mulai memahami "apa yang tidak terucap". Kamu mulai menyadari bahwa perilaku penduduk lokal yang sebelumnya dianggap kasar atau aneh ternyata memiliki logika internal sendiri.
 
@@ -49,9 +49,9 @@ Bahasa tidak hanya mencakup kosakata, tetapi juga konteks. Di tahap pemulihan, o
 - **Dulu:** Kamu menerjemahkan setiap kata di kepala (melelahkan).
 - **Sekarang:** Kamu mulai "merasakan" makna kalimat tanpa perlu menerjemahkannya secara harfiah.
 
-### C. Restorasi Kepercayaan Diri
+### C. Pulihnya Kepercayaan Diri
 
-Rasa percaya diri yang sempat hancur di Fase Krisis mulai pulih. Kamu merasa bangga ketika berhasil menyelesaikan urusan birokrasi yang rumit atau ketika seorang warga lokal bertanya arah jalan kepadamu (dan kamu bisa menjawabnya!).
+Rasa percaya diri yang sempat turun di Fase Krisis mulai pulih. Kamu merasa bangga ketika berhasil menyelesaikan urusan birokrasi yang rumit atau ketika seorang warga lokal bertanya arah jalan kepadamu (dan kamu bisa menjawabnya!).
 
 ## 4. "Kemenangan Kecil" Andi
 
@@ -62,7 +62,7 @@ Rasa percaya diri yang sempat hancur di Fase Krisis mulai pulih. Kamu merasa ban
   - **Kejadian:** Suatu sore, tetangga Andi memberikan beberapa buah persik. Kali ini, Andi tidak hanya membungkuk kaku, tetapi dia mampu membalas dengan percakapan singkat tentang cuaca menggunakan tata bahasa yang tepat.
   - **Perasaan:** Andi pulang ke kamarnya dengan senyuman. Dia merasa "diterima". Dia mulai melihat sistem sampah yang rumit sebagai bentuk tanggung jawab bersama, bukan beban pribadi.
 
-**Penting:** Kemenangan-kemenangan kecil inilah yang menjadi bahan bakar bagi seseorang untuk terus bertahan hingga mencapai tahap adaptasi penuh.
+**Penting:** Kemenangan-kemenangan kecil inilah yang membuat seseorang terus bertahan hingga mencapai tahap adaptasi penuh.
 
 ## 5. Mengapa Fase Ini Penting?
 
@@ -70,13 +70,13 @@ Tanpa melewati tahap pemulihan secara sehat, seseorang berisiko terjebak dalam "
 
 **Manfaat dari Pemulihan yang Sukses:**
 
-1. **Reduksi Kortisol:** Tingkat stres menurun drastis, meningkatkan kesehatan fisik.
+1. **Reduksi Kortisol:** Tingkat stres menurun, meningkatkan kesehatan fisik.
 2. **Kecerdasan Budaya (CQ):** Otakmu sedang menciptakan jalur saraf baru untuk memproses realitas yang berbeda.
 3. **Persiapan Adaptasi:** Tahap ini adalah fondasi sebelum kamu mencapai *Fase Penyesuaian* yang stabil.
 
 ## 6. Latihan Refleksi
 
-Jika kamu saat ini sedang berada di lingkungan baru, coba identifikasi satu hal yang tiga bulan lalu terasa sangat sulit atau menjengkelkan, namun sekarang terasa biasa saja atau bahkan masuk akal.
+Jika kamu saat ini sedang berada di lingkungan baru, coba identifikasi satu hal yang tiga bulan lalu terasa sulit atau menjengkelkan, namun sekarang terasa biasa saja atau bahkan masuk akal.
 
 **Itulah tanda kamu sedang berada di Fase Pemulihan.**
 

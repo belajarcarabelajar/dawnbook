@@ -1,6 +1,6 @@
 ## Stigmatisasi dan Marginalisasi melalui Bahasa
 
-Pernahkah terpikir bahwa sebuah kata bisa menjadi "penjara" yang lebih kejam daripada jeruji besi? Dalam kriminologi, bahasa bukan sekadar alat komunikasi, melainkan instrumen kekuasaan yang mampu menentukan siapa yang layak diterima oleh masyarakat dan siapa yang harus disingkirkan ke tepian (marginal).
+Pernahkah terpikir bahwa sebuah kata bisa mengucilkan seseorang dari masyarakat? Dalam kriminologi, bahasa bukan sekadar alat komunikasi, melainkan instrumen kekuasaan yang mampu menentukan siapa yang layak diterima oleh masyarakat dan siapa yang harus disingkirkan ke tepian (marginal).
 
 Bab ini akan membedah bagaimana istilah-istilah yang digunakan sehari-hari (baik dalam teks hukum maupun berita kriminal) bekerja secara halus untuk menciptakan stigma dan memperkuat eksklusi sosial terhadap kelompok-kelompok tertentu.
 
@@ -50,7 +50,7 @@ Media sering kali menyematkan identitas kelompok pada tindakan kriminal, padahal
 
 ### 3. Proses Marginalisasi Melalui Metafora
 
-Metafora dalam wacana kriminologi sangat berbahaya karena ia bekerja di level bawah sadar. Metafora sering kali menggambarkan kelompok marginal sebagai sesuatu yang bukan manusia:
+Metafora dalam wacana kriminologi berbahaya karena ia bekerja di level bawah sadar. Metafora sering kali menggambarkan kelompok marginal sebagai sesuatu yang bukan manusia:
 
 1. **Metafora Penyakit:** "Wabah kejahatan di pemukiman kumuh."
    - *Dampak:* Menyiratkan bahwa penghuni pemukiman tersebut adalah pembawa virus yang harus dikarantina atau dibasmi.
@@ -93,14 +93,14 @@ Seorang petugas probasi yang menggunakan bahasa inklusif ("Mari kita susun renca
 
 ### 6. Latihan Refleksi dan Analisis
 
-Untuk memahami dampak stigmatisasi ini secara mendalam, langkah-langkah berikut dapat diterapkan:
+Untuk memahami dampak stigmatisasi ini, langkah-langkah berikut dapat diterapkan:
 
 1. **Cari Berita:** Ambil satu berita kriminal dari media massa atau media online hari ini.
 2. **Identifikasi Kata Sifat:** Tandai semua kata sifat yang digunakan untuk mendeskripsikan pelaku (misalnya: "sadis", "bejat", "pengangguran").
 3. **Uji Empati:** Jika kata-kata tersebut diganti dengan terminologi medis atau sosiologis yang netral, amati bagaimana respons persepsi terhadap pelaku tersebut berubah.
 4. **Analisis Kritis:** Evaluasi penggunaan kata "oknum" untuk aparat dibandingkan "penjahat" untuk warga sipil guna melihat apakah terdapat standar ganda dalam penegakan hukum dan representasi media.
 
-> **Penting:** Marginalisasi bukan hanya tentang menjauhkan orang secara fisik (penjara), tetapi tentang memutus kabel-kabel koneksi kemanusiaan mereka melalui kata-kata yang dipilih untuk menyebut mereka.
+> **Penting:** Marginalisasi bukan hanya tentang menjauhkan orang secara fisik (penjara), tetapi tentang memutus hubungan mereka dengan sesama melalui kata-kata yang dipilih untuk menyebut mereka.
 
 ---
 

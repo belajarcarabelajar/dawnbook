@@ -1,6 +1,6 @@
 ## Pendekatan Psikodinamika Freud dan Pengikutnya
 
-Pendekatan psikodinamika merupakan salah satu teori kepribadian yang cukup kuat dalam sejarah psikologi, menekankan pada motif dan konflik alam bawah sadar. Berawal dari buah pemikiran Sigmund Freud, pendekatan ini berasumsi bahwa kepribadian adalah wujud dari berbagai dinamika internal yang sebagian besar berada di luar kesadaran kita.
+Pendekatan psikodinamika, salah satu teori kepribadian yang cukup kuat dalam sejarah psikologi, menekankan motif dan konflik alam bawah sadar. Berawal dari buah pemikiran Sigmund Freud, pendekatan ini berasumsi bahwa kepribadian adalah wujud dari berbagai dinamika internal yang sebagian besar berada di luar kesadaran kita.
 
 ### Psikoanalisis Sigmund Freud
 
@@ -52,7 +52,7 @@ Sebagai salah satu kerabat kerja terdekat Freud, Carl Jung (1875-1961) pada akhi
 
 Konsep-konsep sentral Jung meliputi:
 
-**Collective Unconscious:** Ini merupakan inovasi paling berani dari Jung. Ia mengklaim ada sebuah lapisan terdalam alam bawah sadar yang diwariskan antar generasi, berisikan rekam jejak memori serta warisan pengalaman leluhur seluruh manusia.
+**Collective Unconscious:** Ini merupakan gagasan khas Jung. Ia mengklaim ada sebuah lapisan terdalam alam bawah sadar yang diwariskan antar generasi, berisikan rekam jejak memori serta warisan pengalaman leluhur seluruh manusia.
 
 **Archetypes:** Berupa pola universal di dalam *collective unconscious* yang tanpa sadar memengaruhi cara kita bertindak. Ada *Persona*, yaitu sisi diri yang kita tampilkan selayaknya topeng di depan umum. Lalu ada *Shadow* yang berisi insting dan nafsu gelap. Jung juga menyebut *Anima* (sisi feminin dalam batin pria) dan *Animus* (sisi maskulin dalam batin wanita). Pada akhirnya, ada *Self* yang menyatukan seluruh komponen tersebut.
 
@@ -72,7 +72,7 @@ Berangkat dari kelompok awal Freud, Alfred Adler (1870-1937) juga mengambil arah
 
 **Style of Life & Social Interest:** Rutinitas dan cara kita mengamankan tujuan tersebut akan membentuk gaya hidup. Namun, ambisi ini juga diseimbangkan dengan *Social interest* (*Gemeinschaftsgefühl*). Semakin kuat minat seseorang untuk hidup terhubung dan memikirkan kemaslahatan bersama, semakin sehat mental orang tersebut.
 
-**Birth Order:** Posisi kelahiran anak sering disoroti oleh Adler. Anak sulung cenderung mengambil beban tanggung jawab tinggi tapi gampang merasa tersingkir, anak tengah sering terjebak dalam rasa kompetisi karena terhimpit di tengah, anak bungsu terbiasa menjadi pusat perhatian dan bebas berkreasi, sementara anak tunggal sangat lekat dengan perfeksionisme.
+**Birth Order:** Posisi kelahiran anak sering disoroti oleh Adler. Anak sulung cenderung mengambil beban tanggung jawab tinggi tapi gampang merasa tersingkir, anak tengah sering terjebak dalam rasa kompetisi karena terhimpit di tengah, anak bungsu terbiasa menjadi pusat perhatian dan bebas berkreasi, sementara anak tunggal lekat dengan perfeksionisme.
 
 ### Teori Psikososial Erik Erikson
 
@@ -80,12 +80,12 @@ Erik Erikson (1902-1994) mengembangkan pandangan Freud lebih jauh dengan memasuk
 
 Tiap transisi ditandai dengan krisis dari dua kutub yang berlawanan. Melaluinya dengan baik akan memunculkan nilai kualitas baru.
 
-- Usia 0-1 tahun membawa konflik **Trust vs. Mistrust**. Bayi akan membentuk ikatan kepercayaan mutlak dengan pengasuh yang responsif. Kemenangan atas konflik ini menghasilkan harapan (*hope*).
+- Usia 0-1 tahun membawa konflik **Trust vs. Mistrust**. Bayi akan membentuk ikatan kepercayaan dengan pengasuh yang responsif. Kemenangan atas konflik ini menghasilkan harapan (*hope*).
 - Di masa 1-3 tahun (**Autonomy vs. Shame and Doubt**), otot mulai berkembang dan anak berusaha memegang kendali atas pilihan-pilihan kecilnya. Ini adalah cikal bakal lahirnya kemauan keras (*will*).
 - Usia bermain 3-6 tahun menghadapkan anak pada **Initiative vs. Guilt**. Rasa inisiatif yang disambut baik akan memperkuat tujuan hidup (*purpose*), mencegah mereka dihantui rasa bersalah tiap kali mencoba hal baru.
 - Masuk ke lingkungan sekolah 6-12 tahun (**Industry vs. Inferiority**), anak harus menghadapi tantangan merangkai kompetensi baru. Jika berhasil, timbullah rasa percaya pada kemampuan diri sendiri.
 - Titik rentan remaja 12-18 tahun berkutat pada pencarian **Identity vs. Role Confusion**. Mereka dituntut mengeksplorasi berbagai peran demi menghasilkan kesetiaan pada nilai yang mereka percaya (*fidelity*).
-- Dewasa muda usia 18-40 tahun menuntut manusia pada ikatan sejati, **Intimacy vs. Isolation**. Fokus utama ada pada keberanian membuka batasan diri, yang pada akhirnya membuahkan cinta kasih (*love*).
+- Dewasa muda usia 18-40 tahun menuntut manusia membangun ikatan yang intim, **Intimacy vs. Isolation**. Fokus utama ada pada keberanian membuka batasan diri, yang pada akhirnya membuahkan cinta kasih (*love*).
 - Paruh baya usia 40-65 tahun (**Generativity vs. Stagnation**) sering menjadi masa evaluasi di mana orang mempertanyakan kontribusi mereka untuk generasi ke depan, membangun jaring pengasuhan dan perhatian (*care*).
 - Pada usia 65 tahun ke atas (**Ego Integrity vs. Despair**), lansia akan memutar kembali memori hidup mereka. Mereka bisa merasa lega dan merengkuh kebijaksanaan (*wisdom*), atau tenggelam dalam amarah dan keputusasaan atas hal-hal yang tidak bisa diubah.
 
@@ -104,4 +104,4 @@ flowchart TD
     G --> H["65 tahun ke atas: Ego Integrity vs. Despair (wisdom)"]
 ```
 
-Berbeda dari Freud yang mengikat kepribadian pada pengalaman prasekolah, siklus perkembangan ini membuktikan bahwa pembentukan kepribadian adalah proses adaptasi tiada henti dari lahir sampai akhir hayat.
+Berbeda dari Freud yang mengikat kepribadian pada pengalaman prasekolah, siklus perkembangan ini menunjukkan bahwa pembentukan kepribadian adalah proses adaptasi yang berlangsung dari lahir sampai akhir hayat.

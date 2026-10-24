@@ -1,16 +1,16 @@
 ## Dasar-Dasar Berpikir Kritis
 
-Selamat datang di langkah pertama perjalanan kamu mengasah ketajaman pikiran. Di era ketika informasi mengalir lebih cepat daripada kemampuan kita untuk memprosesnya, berpikir kritis bukan lagi sekadar keterampilan akademik, melainkan sebuah **mekanisme pertahanan diri**.
+Langkah pertama untuk mengasah ketajaman pikiran kamu adalah memahami apa sebenarnya berpikir kritis itu dan mengapa ia penting. Di era ketika informasi mengalir lebih cepat daripada kemampuan kita untuk memprosesnya, berpikir kritis bukan lagi sekadar keterampilan akademik, melainkan sebuah **mekanisme pertahanan diri**.
 
 ## Apa Itu Berpikir Kritis?
 
-Sering kali, orang salah mengira bahwa "berpikir kritis" berarti "suka mengkritik" atau mencari kesalahan orang lain. Padahal, esensinya jauh lebih dalam dari itu.
+Sering kali, orang salah mengira bahwa "berpikir kritis" berarti "suka mengkritik" atau mencari kesalahan orang lain. Padahal, maknanya berbeda.
 
 Berpikir kritis adalah proses intelektual yang aktif dan disiplin untuk mengonsep, menerapkan, menganalisis, mensintesis, serta mengevaluasi informasi. Informasi ini bisa diperoleh dari pengamatan, pengalaman, refleksi, penalaran, atau komunikasi, yang kemudian menjadi panduan untuk menentukan keyakinan dan tindakan.
 
-> **Esensi:** Berpikir kritis adalah seni "berpikir tentang cara kita berpikir" (*metakognisi*). Tujuannya adalah memperbaiki kualitas pemikiran agar lebih jernih, akurat, dan berlandaskan bukti.
+> **Esensi:** Berpikir kritis adalah kegiatan "berpikir tentang cara kita berpikir" (*metakognisi*). Tujuannya adalah memperbaiki kualitas pemikiran agar lebih jernih, akurat, dan berlandaskan bukti.
 
-### Sang Penambang Emas
+### Ayakan Penambang Emas
 
 Bayangkan pikiran kamu adalah seorang penambang emas. Setiap hari, arus informasi dari internet, berita, hingga percakapan sehari-hari membawa tumpukan pasir dan lumpur ke hadapan kamu.
 
@@ -19,7 +19,7 @@ Bayangkan pikiran kamu adalah seorang penambang emas. Setiap hari, arus informas
 
 ## Mengapa Berpikir Kritis Penting di Era Modern?
 
-Dahulu, tantangan utama kita adalah mencari **akses** informasi. Sekarang, tantangannya justru **kelebihan** informasi (*information overload*). Berikut beberapa alasan mengapa kemampuan ini sangat penting bagi kita sekarang:
+Dahulu, tantangan utama kita adalah mencari **akses** informasi. Sekarang, tantangannya justru **kelebihan** informasi (*information overload*). Berikut beberapa alasan mengapa kemampuan ini penting bagi kita sekarang:
 
 1. **Menyaring Berita Palsu:** Di era pasca-kebenaran (*post-truth*), emosi sering kali mengalahkan fakta. Berpikir kritis membantu kita mengenali manipulasi emosional dalam hoaks.
 2. **Kemandirian Berpikir:** Tanpa berpikir kritis, kita hanya menjadi pemantul opini orang lain. Kemampuan ini melatih kita untuk membentuk sudut pandang yang mandiri.
@@ -66,7 +66,7 @@ Mari kita lihat bagaimana proses berpikir kritis bekerja dalam situasi sehari-ha
 **Tanggapan Pemikir Kritis:**
 
 1. **Memeriksa Sumber:** Siapa yang mendanai dan memublikasikan riset ini? Apakah lembaga ilmiah independen atau industri produsen kopi?
-2. **Menguji Klaim:** Peningkatan kecerdasan hingga 50% adalah angka yang sangat ekstrem. Parameter apa yang mereka gunakan untuk mengukur kecerdasan?
+2. **Menguji Klaim:** Peningkatan kecerdasan hingga 50% adalah angka yang ekstrem. Parameter apa yang mereka gunakan untuk mengukur kecerdasan?
 3. **Mencari Hubungan Sebab-Akibat:** Apakah ada variabel lain? Mungkinkah responden yang meminum kopi lima kali sehari memang memiliki kebiasaan belajar yang lebih intens?
 4. **Mengambil Sikap:** Menunda penilaian dan mencari konfirmasi dari jurnal medis kredibel sebelum mengubah pola konsumsi kopi harian.
 

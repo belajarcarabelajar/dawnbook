@@ -1,6 +1,6 @@
 ## Delegasi Wewenang dan Alokasi Sumber Daya
 
-Setelah sebuah organisasi memiliki visi yang jelas (Planning) dan struktur yang kokoh (Organizing), langkah penting berikutnya adalah menentukan siapa yang akan melakukan apa, dengan alat apa, dan seberapa besar tanggung jawab yang mereka emban. Di sinilah prinsip **Delegasi Wewenang** dan **Alokasi Sumber Daya** menjadi jembatan antara rencana di atas kertas dengan aksi nyata di lapangan.
+Organisasi yang sudah punya visi jelas (Planning) dan struktur kokoh (Organizing) masuk ke langkah penting berikutnya: menentukan siapa melakukan apa. Langkah ini sekaligus menetapkan dengan alat apa mereka bekerja dan seberapa besar tanggung jawab yang mereka emban. Di sinilah prinsip **Delegasi Wewenang** dan **Alokasi Sumber Daya** menghubungkan rencana di atas kertas dengan aksi nyata di lapangan.
 
 ## 1. Prinsip "The Right Man on the Right Place"
 
@@ -19,7 +19,7 @@ Prinsip ini tidak hanya berfokus pada mempekerjakan individu yang cerdas, tetapi
 
 Banyak manajer terjebak dalam kecenderungan untuk menyelesaikan semua hal sendiri. **Delegasi** merupakan proses penyerahan wewenang dari atasan kepada bawahan untuk melaksanakan tugas tertentu secara bertanggung jawab.
 
-### Tiga Pilar Delegasi
+### Tiga Elemen Delegasi
 
 Delegasi yang efektif harus mencakup tiga elemen penting yang saling berkaitan:
 

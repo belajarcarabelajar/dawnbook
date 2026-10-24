@@ -1,20 +1,20 @@
 ## Rasa Sakit Membayar
 
-Membayar dengan uang tunai itu terasa seperti dicabut giginya, sedangkan kartu hanya lewat sekali gigitan kecil yang hampir tidak terasa.
+Membayar dengan uang tunai terasa lebih berat daripada menempelkan kartu, padahal harga yang dibayar sama persis untuk barang yang sama.
 
-Pernah kamu sadari betapa berbedanya dua momen ini? Di kedai kopi, kamu menyerahkan dua lembar lima puluh ribu, melihat uang itu berpindah tangan, dan sisa saldo di dompetmu jelas berkurang. Ada tarikan kecil di dada, sekilas, lalu kopi itu terasa "berharga". Di tempat yang sama keesokan harinya, kamu tinggal menempelkan kartu, satu bunyi pendek, dan kamu sudah berjalan meninggalkan kasir tanpa ada yang benar-benar "pergi" dari tanganmu. Kopinya sama, harganya sama, tapi rasanya beda. Kalau perbedaan kecil itu pernah membuatmu bertanya-tanya, pertanyaanmu sudah mendarat di wilayah yang risetnya dalam sekali: psikolog ekonomi menyebutnya pain of paying, rasa sakit membayar.
+Pernah kamu sadari betapa berbedanya dua momen ini? Di kedai kopi, kamu menyerahkan dua lembar lima puluh ribu, melihat uang itu berpindah tangan, dan sisa saldo di dompetmu jelas berkurang. Ada tarikan kecil di dada, sekilas, lalu kopi itu terasa "berharga". Di tempat yang sama keesokan harinya, kamu tinggal menempelkan kartu, satu bunyi pendek, dan kamu sudah berjalan meninggalkan kasir tanpa ada yang benar-benar "pergi" dari tanganmu. Kopinya sama, harganya sama, tapi rasanya beda. Kalau perbedaan kecil itu pernah membuatmu bertanya-tanya, pertanyaanmu sudah masuk ke wilayah yang banyak diteliti: psikolog ekonomi menyebutnya pain of paying, rasa sakit membayar.
 
 ### Dua pembukuan yang saling berhadapan
 
-Ide dasarnya sederhana tapi dalam. Setiap kali kamu mengonsumsi sesuatu, ada dua catatan yang sekaligus terbuka di kepalamu: kenikmatan dari konsumsi itu sendiri, dan rasa sakit dari uang yang harus keluar. Drazen Prelec dan George Loewenstein (1998) menyebut sistem ini akuntansi mental "double-entry", dua pembukuan yang berjalan berhadapan. Kedua catatan itu saling memengaruhi dua arah. Rasa sakit membayar bisa menurunkan kenikmatan konsumsi, dan kenikmatan konsumsi bisa melembutkan rasa sakit membayar.
+Ide dasarnya sederhana. Setiap kali kamu mengonsumsi sesuatu, ada dua catatan yang sekaligus terbuka di kepalamu: kenikmatan dari konsumsi itu sendiri, dan rasa sakit dari uang yang harus keluar. Drazen Prelec dan George Loewenstein (1998) menyebut sistem ini akuntansi mental "double-entry", dua pembukuan yang berjalan berhadapan. Kedua catatan itu saling memengaruhi dua arah. Rasa sakit membayar bisa menurunkan kenikmatan konsumsi, dan kenikmatan konsumsi bisa melembutkan rasa sakit membayar.
 
-Contoh paling jujur dari mereka cuma satu kalimat: dering argometer taksi mengurangi kenikmatan perjalananmu. Setiap kilometer yang bertambah di meteran, sedikit demi sedikit, menggerogoti rasa nyaman duduk di dalam mobil itu. Perjalanan yang sama dengan taksi yang meternya tidak terlihat akan terasa jauh lebih santai. Konsumsinya identik, hanya "dengungan" pembukuan rasa sakitnya yang berbeda.
+Contoh dari mereka cuma satu kalimat: dering argometer taksi mengurangi kenikmatan perjalananmu. Setiap kilometer yang bertambah di meteran, sedikit demi sedikit, menggerogoti rasa nyaman duduk di dalam mobil itu. Perjalanan yang sama dengan taksi yang meternya tidak terlihat akan terasa lebih santai. Konsumsinya identik, hanya "dengungan" pembukuan rasa sakitnya yang berbeda.
 
 > Ibaratnya menonton film bagus sambil terus teringat berapa kalori yang sedang kamu habiskan. Setiap adegan menarik dipotong oleh pemantau kecil yang membisikkan angka. Filmnya tidak berubah, yang berubah adalah rasa nikmatnya.
 
 Sistem dua pembukuan ini juga menjelaskan kenapa membayar di muka sering terasa menenangkan. Prelec dan Loewenstein menemukan bahwa konsumsi yang sudah dibayar dapat dinikmati seolah-olah gratis: catatan rasa sakitnya sudah "ditutup" lebih dulu, sehingga saat momen kenikmatan tiba, tidak ada tagihan yang sedang berbunyi. Mereka bahkan menguji modelnya terhadap data riil dan menemukan bahwa model dua pembukuan ini lebih cocok dengan data 60% partisipan, sementara formulasi diskon klasik hanya lebih cocok untuk 29%. Dengan kata lain, cara kita merasakan waktu "membayar" dan waktu "menikmati" ternyata bukan soal matematika semata, melainkan soal urutan dan perasaan.
 
-### Kartu sebagai bius
+### Kartu kredit memisahkan belanja dari membayar
 
 Kalau rasa sakit membayar itu nyata, maka pertanyaan berikutnya logis: apa yang bisa melemahkannya? Jawaban Prelec dan Loewenstein rapi: metode pembayaran yang menggabungkan momen belanja dengan momen membayar akan terasa "sakit" lebih jelas, sedangkan metode yang memisahkan keduanya melemahkan hubungan itu. Mereka menuliskannya langsung: metode pendanaan seperti kartu kredit cenderung melemahkan coupling, ikatan antara konsumsi dan pembayaran, sementara uang tunai menghasilkan ikatan yang ketat.
 

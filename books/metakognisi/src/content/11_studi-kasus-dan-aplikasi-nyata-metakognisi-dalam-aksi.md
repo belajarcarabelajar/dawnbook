@@ -1,6 +1,6 @@
 ## Studi Kasus dan Aplikasi Nyata Metakognisi
 
-Metakognisi, atau "berpikir tentang berpikir", pada dasar-dasarnya adalah kemampuan untuk menyadari sekaligus mengarahkan cara otak kita memproses informasi. Proses ini mencakup perencanaan, pemantauan, hingga evaluasi. Kemampuan ini berguna baik di sekolah, kampus, maupun dunia kerja. Saat terbiasa memantau cara berpikir sendiri, kamu bisa meningkatkan performa belajar, menimbang keputusan dengan lebih tajam, serta menyelesaikan masalah tanpa harus merasa tertekan.
+Metakognisi, atau "berpikir tentang berpikir", pada dasarnya adalah kemampuan menyadari sekaligus mengarahkan cara otak kita memproses informasi. Proses ini mencakup perencanaan, pemantauan, hingga evaluasi. Kemampuan ini berguna baik di sekolah, kampus, maupun dunia kerja. Saat terbiasa memantau cara berpikir sendiri, kamu bisa meningkatkan performa belajar, menimbang keputusan dengan lebih tajam, serta menyelesaikan masalah tanpa harus merasa tertekan.
 
 Mari kita lihat beberapa contoh praktis saat pola pikir ini diterapkan dalam berbagai situasi.
 
@@ -19,13 +19,13 @@ Mari kita lihat beberapa contoh praktis saat pola pikir ini diterapkan dalam ber
 		- Ardi juga mulai mengamati di jam berapa ia paling gampang fokus, lalu menyesuaikan jadwal belajarnya pada jam-jam tersebut.
 3. **Evaluasi (Evaluating):**
 	- Selesai mengerjakan soal latihan, Ardi akan membedah di mana letak kesalahannya. Ia tidak sekadar mencocokkan jawaban benar atau salah, tapi benar-benar mencari tahu *kenapa* logikanya bisa keliru.
-		- Kebiasaan ini sangat membantunya menyesuaikan strategi untuk materi statistika yang lebih rumit di minggu berikutnya.
+		- Kebiasaan ini membantunya menyesuaikan strategi untuk materi statistika yang lebih rumit di minggu berikutnya.
 
-**Hasil dan Pembelajaran:** Cara belajar Ardi tidak lagi membabi buta. Nilai ujiannya mulai merangkak naik dan stabil. Ia tidak cuma hafal rumus statistika, tapi juga menemukan ritme belajar yang cocok untuk dirinya. Rasa cemas saat ujian pun turun drastis karena ia tahu betul sejauh mana persiapan yang sudah dilakukan.
+**Hasil dan Pembelajaran:** Cara belajar Ardi tidak lagi membabi buta. Nilai ujiannya mulai merangkak naik dan stabil. Ia tidak cuma hafal rumus statistika, tapi juga menemukan ritme belajar yang cocok untuk dirinya. Rasa cemas saat ujian pun turun karena ia tahu betul sejauh mana persiapan yang sudah dilakukan.
 
 ## 2. Merumuskan Keputusan di Lingkungan Kerja
 
-**Tantangan:** Rina, seorang manajer proyek di sebuah perusahaan teknologi, ditugaskan untuk memilih arah pengembangan produk. Timnya bimbang antara melanjutkan produk A yang punya potensi besar tapi sangat berisiko, atau pindah ke produk B yang lebih aman meski pasar peminatnya lebih kecil.
+**Tantangan:** Rina, seorang manajer proyek di sebuah perusahaan teknologi, ditugaskan untuk memilih arah pengembangan produk. Timnya bimbang antara melanjutkan produk A yang punya potensi besar tapi berisiko, atau pindah ke produk B yang lebih aman meski pasar peminatnya lebih kecil.
 
 **Pendekatan Metakognitif:** Rina memakai kesadaran metakognitif untuk membedah masalah ini sebelum mengambil keputusan akhir:
 
@@ -59,7 +59,7 @@ Mari kita lihat beberapa contoh praktis saat pola pikir ini diterapkan dalam ber
 	- Setiap hari Minggu, Budi mengevaluasi rutinitasnya. Apakah jatah waktu bacanya terlalu banyak dibanding waktu praktik langsung?
 		- Ia kemudian mencoba mengubah komposisinya, mengurangi jam menonton tutorial dan lebih banyak melakukan *hands-on coding*.
 
-**Pencapaian:** Budi berhasil menembus tenggat waktu 3 bulan dengan merilis aplikasi sederhana. Ia menyadari bahwa cara terbaik untuk beradaptasi dengan teknologi baru bukanlah dengan menghafal sintaks, tapi memahami pola pikir bahasa tersebut. Ia jadi punya pola yang jelas saat nanti harus mempelajari hal lain.
+**Pencapaian:** Budi berhasil memenuhi tenggat waktu 3 bulan dengan merilis aplikasi sederhana. Ia menyadari bahwa cara terbaik untuk beradaptasi dengan teknologi baru bukanlah dengan menghafal sintaks, tapi memahami pola pikir bahasa tersebut. Ia jadi punya pola yang jelas saat nanti harus mempelajari hal lain.
 
 ## 4. Menengahi Ego dalam Kerja Tim
 
@@ -77,10 +77,10 @@ Mari kita lihat beberapa contoh praktis saat pola pikir ini diterapkan dalam ber
 	- Setelah kampanye berhasil dirilis, sesi evaluasi tidak hanya membahas angka penjualan produk, tetapi juga membahas cara mereka bekerja sama.
 		- Bu Citra menanyakan cara komunikasi seperti apa yang sebaiknya dipertahankan dan kebiasaan apa yang membuat energi tim terkuras sia-sia.
 
-**Perbaikan dan Kesuksesan:** Aturan *pause* dan merangkum ucapan lawan bicara ini membuat suhu perdebatan turun drastis. Masing-masing anggota belajar menahan diri untuk tidak langsung bereaksi. Proyek kampanye selesai tepat waktu, dan setiap orang pulang dengan perasaan lebih dihargai.
+**Perbaikan dan Kesuksesan:** Aturan *pause* dan merangkum ucapan lawan bicara ini membuat perdebatan lebih tenang. Masing-masing anggota belajar menahan diri untuk tidak langsung bereaksi. Proyek kampanye selesai tepat waktu, dan setiap orang pulang dengan perasaan lebih dihargai.
 
-## Pola Pikir yang Mampu Mengurai Kebuntuan
+## Kesadaran Diri di Kelas, Kantor, dan Rumah
 
-Semua cerita di atas membuktikan bahwa metakognisi sangat bisa dipraktikkan secara langsung. Baik di ruang kelas, meja rapat kantor, atau sekadar saat mencoba hobi baru di rumah, kesadaran memantau diri sendiri membuat kita tidak gampang panik saat situasi tidak berjalan sesuai rencana. Kamu punya kendali penuh atas cara berpikirmu, sehingga masalah pelik yang tadinya terasa mustahil diselesaikan pelan-pelan bisa diurai satu per satu.
+Semua cerita di atas membuktikan bahwa metakognisi bisa dipraktikkan secara langsung. Baik di ruang kelas, meja rapat kantor, atau sekadar saat mencoba hobi baru di rumah, kesadaran memantau diri sendiri membuat kita tidak gampang panik saat situasi tidak berjalan sesuai rencana. Kamu punya kendali atas cara berpikirmu, sehingga masalah pelik pelan-pelan bisa diurai satu per satu.
 
-> Proses berpikir bukanlah bawaan lahir yang tidak bisa diubah. Kamu berhak menjadi arsitek bagi pikiranmu sendiri dengan terus merawat dan melatih kesadaran diri.
+> Proses berpikir bukanlah bawaan lahir yang tidak bisa diubah. Kamu bisa membentuk cara berpikirmu sendiri dengan terus merawat dan melatih kesadaran diri.

@@ -1,14 +1,14 @@
 ## Adaptasi Neurobiologis
 
-Pernahkah kamu bertanya-tanya mengapa potongan pizza pertama terasa seperti surga, namun potongan kelima terasa biasa saja? Atau mengapa sebuah video game yang dulu membuat kamu terjaga semalaman, kini hanya membuat kamu merasa lelah dan bosan?
+Pernahkah kamu bertanya-tanya mengapa potongan pizza pertama terasa nikmat, namun potongan kelima terasa biasa saja? Atau mengapa sebuah video game yang dulu membuat kamu terjaga semalaman, kini hanya membuat kamu merasa lelah dan bosan?
 
-Selamat datang di mekanisme pertahanan tercanggih otakmu: **Adaptasi Neurobiologis**. Di bagian ini, kita akan membedah bagaimana otak melakukan penyesuaian diri terhadap banjir dopamin dan mengapa hal ini menjadi alasan utama di balik hilangnya minat kita pada hal-hal yang dulunya sangat kita sukai.
+Penjelasannya ada pada salah satu mekanisme pertahanan otakmu: **Adaptasi Neurobiologis**. Di bagian ini, kita akan membedah bagaimana otak melakukan penyesuaian diri terhadap lonjakan dopamin dan mengapa hal ini menjadi alasan utama di balik hilangnya minat kita pada hal-hal yang dulunya sangat kita sukai.
 
 ---
 
 ### 1. Homeostasis
 
-Otak manusia adalah penganut setia prinsip **Homeostasis**, yaitu kecenderungan biologis untuk mempertahankan kondisi internal yang stabil meskipun lingkungan eksternal berubah.
+Otak manusia bekerja menurut prinsip **Homeostasis**, yaitu kecenderungan biologis untuk mempertahankan kondisi internal yang stabil meskipun lingkungan eksternal berubah.
 
 Bayangkan otakmu memiliki termostat internal. Jika ruangan terlalu panas, AC akan menyala. Jika terlalu dingin, pemanas akan aktif. Dalam sistem reward, otak juga melakukan hal yang sama. Ketika kamu membanjiri sirkuit reward dengan dopamin (akibat aktivitas intens seperti judi, konsumsi gula berlebih, atau media sosial), otak menganggap ini sebagai gangguan terhadap keseimbangan.
 
@@ -64,7 +64,7 @@ Ketika reseptor dopaminmu berkurang drastis, aktivitas sehari-hari yang biasanya
 
 Kondisi ini dikenal sebagai **Anhedonia ringan**, suatu keadaan di mana spektrum emosimu terasa datar atau abu-abu.
 
-> **Catatan Penting:** Pada tahap ini, seseorang sering kali melakukan aktivitas berdopamin tinggi bukan lagi untuk merasa senang (*high*), melainkan hanya untuk merasa "normal" atau sekadar menghindari perasaan hampa yang menyiksa.
+> **Catatan Penting:** Pada tahap ini, seseorang sering kali melakukan aktivitas berdopamin tinggi bukan lagi untuk merasa senang (*high*), melainkan hanya untuk merasa "normal" atau sekadar menghindari perasaan hampa.
 
 ---
 

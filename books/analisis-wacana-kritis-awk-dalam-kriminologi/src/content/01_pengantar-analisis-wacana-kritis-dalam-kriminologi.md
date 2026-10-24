@@ -1,6 +1,6 @@
 ## Pengantar Analisis Wacana Kritis (AWK) dalam Kriminologi
 
-Selamat datang di titik temu antara bahasa, kekuasaan, dan keadilan. Dalam studi kriminologi konvensional, analisis sering kali berfokus pada pertanyaan "siapa yang melakukan kejahatan?" atau "mengapa kejahatan tersebut dilakukan?". Namun, **Analisis Wacana Kritis (AWK)** (atau *Critical Discourse Analysis*, disingkat $\text{CDA}$) mengajak pemelajar untuk mundur satu langkah dan mempertanyakan: **"Bagaimana suatu perbuatan didefinisikan sebagai kejahatan melalui struktur bahasa?"**
+Bahasa, kekuasaan, dan keadilan bertemu di satu titik setiap kali sebuah perbuatan didefinisikan sebagai kejahatan lewat susunan kata. Dalam studi kriminologi konvensional, analisis sering kali berfokus pada pertanyaan "siapa yang melakukan kejahatan?" atau "mengapa kejahatan tersebut dilakukan?". Namun, **Analisis Wacana Kritis (AWK)** (atau *Critical Discourse Analysis*, disingkat $\text{CDA}$) mengajak pemelajar untuk mundur satu langkah dan mempertanyakan: **"Bagaimana suatu perbuatan didefinisikan sebagai kejahatan melalui struktur bahasa?"**
 
 Bab ini mengajak pemelajar memahami bahwa kata-kata dalam formulasi hukum, pemberitaan kriminal di media massa, dan argumentasi di ruang sidang bukanlah alat komunikasi netral, melainkan instrumen kekuasaan yang membentuk realitas sosial dan persepsi keadilan.
 
@@ -36,7 +36,7 @@ Mungkin timbul pertanyaan dasar: *"Mengapa studi kriminologi perlu menganalisis 
 
 Jawabannya berakar pada fakta bahwa **kejahatan adalah konstruksi sosial** (*social construction*). Suatu tindakan ditetapkan sebagai tindak pidana karena institusi sosial, melalui teks hukum dan konsensus wacana publik, memberikan pelabelan yuridis atas tindakan tersebut. 
 
-Berikut adalah tiga pilar utama mengapa analisis bahasa bersifat sangat krusial dalam kriminologi:
+Berikut adalah tiga pilar utama mengapa analisis bahasa penting dalam kriminologi:
 
 ### 1. Labeling dan Stigmatisasi
 
@@ -60,7 +60,7 @@ Dalam sistem peradilan pidana, penggunaan bahasa hukum yang sarat jargon teknis 
 > **Prinsip Utama AWK:**
 > Bahasa tidak sekadar mencerminkan realitas yang sudah ada; bahasa **membentuk dan membangun** realitas sosial itu sendiri.
 
-## Perang Diksi dalam Media Massa
+## Pilihan Diksi dalam Media Massa
 
 Konstruksi realitas kriminalitas kerap terlihat dalam pembingkaian (*framing*) media massa. Peristiwa yang sama dapat menghasilkan representasi sosial yang bertolak belakang tergantung pada diksi yang dipilih.
 
@@ -81,7 +81,7 @@ $$
 $$
 </div>
 
-Persamaan di atas menunjukkan bahwa teks tidak pernah berdiri secara netral, melainkan selalu terinfeksi oleh orientasi nilai dan kepentingan ideologis pembuatnya.
+Persamaan di atas menunjukkan bahwa teks tidak pernah berdiri secara netral, melainkan selalu dipengaruhi oleh orientasi nilai dan kepentingan ideologis pembuatnya.
 
 ## Kapital Linguistik dan Akses Keadilan
 
@@ -130,7 +130,7 @@ Atribusi kepenulisan adalah metodologi ilmiah untuk mengidentifikasi figur penul
 
 ### 3. Analisis Konten dan Evaluasi Ancaman
 
-Dalam studi kriminologi, pemisahan antara **ancaman nyata** (*credible threat*) dan sekadar **luapan emosi** (*emotional outburst*) bersifat krusial. Linguistik forensik mengevaluasi:
+Dalam studi kriminologi, pemisahan antara **ancaman nyata** (*credible threat*) dan sekadar **luapan emosi** (*emotional outburst*) bersifat penting. Linguistik forensik mengevaluasi:
 
 - **Eksplisitasi Niat (*Intent*):** Keberadaan klausa syarat atau komitmen tindakan kejahatan dalam teks.
 - **Kategorisasi Risiko:** Penilaian tingkat bahaya berdasarkan pola komunikasi dan eskalasi diksi.
@@ -145,4 +145,4 @@ Untuk mendalami aplikasi linguistik forensik dalam pembuktian hukum, berikut ada
    - *Pernyataan A:* "Layanan di toko ini sangat lambat dan tidak profesional." (Evaluasi pengalaman deskriptif).
    - *Pernyataan B:* "Pemilik toko ini adalah seorang penipu yang sengaja mencuri uang pelanggan." (Tuduhan tindak pidana tanpa pembuktian hukum).
    Linguistik forensik membantu membedakan klausa opini subjektif dengan tuduhan kategoris yang berunsur fitnah (*defamation*).
-4. **Profiling Kriminologis Lewat Diksi:** Apabila risalah tebusan menggunakan istilah medis yang sangat spesifik namun dipadukan dengan tata bahasa yang tidak terstruktur, profil kriminologis dapat mengarah pada tersangka dengan latar belakang pendidikan atau profesi tertentu yang sedang mengalami tekanan psikologis.
+4. **Profiling Kriminologis Lewat Diksi:** Apabila risalah tebusan menggunakan istilah medis yang spesifik namun dipadukan dengan tata bahasa yang tidak terstruktur, profil kriminologis dapat mengarah pada tersangka dengan latar belakang pendidikan atau profesi tertentu yang sedang mengalami tekanan psikologis.

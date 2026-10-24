@@ -1,8 +1,8 @@
 ## Simulasi dan Pelatihan Kesiapsiagaan Mental
 
-Pertanyaan mendasar yang sering muncul dalam krisis adalah mengapa seorang penerbang profesional dapat tetap tenang saat instrumen mesin pesawat mengalami kegagalan total, atau mengapa personel pemadam kebakaran sanggup menembus bangunan yang terbakar tanpa keraguan yang melumpuhkan. Respons terukur tersebut bukan lahir dari ketiadaan rasa takut, melainkan karena sirkuit neural di otak telah terkondisikan secara mendalam melalui simulasi berulang.
+Pertanyaan yang sering muncul dalam krisis adalah mengapa seorang penerbang profesional dapat tetap tenang saat instrumen mesin pesawat gagal total. Hal serupa dapat ditanyakan tentang personel pemadam kebakaran yang sanggup menembus bangunan yang terbakar tanpa keraguan yang melumpuhkan. Respons terukur tersebut bukan lahir dari ketiadaan rasa takut, melainkan karena sirkuit neural di otak telah terkondisikan secara mendalam melalui simulasi berulang.
 
-Dalam psikologi bencana, terdapat jurang pemisah yang lebar antara *mengetahui protokol keselamatan secara teoretis* dan *mengeksekusi tindakan protektif secara nyata* ketika gelombang hormon katekolamin serta kortisol membanjiri sistem saraf simpatis. Latihan berbasis skenario yang terstruktur bertujuan mentransformasikan reaksi instingtif manusia dari kepanikan (*panic freeze*) menjadi otomatisasi adaptif yang menyelamatkan nyawa.
+Dalam psikologi bencana, terdapat jarak yang lebar antara *mengetahui protokol keselamatan secara teoretis* dan *mengeksekusi tindakan protektif secara nyata* ketika kadar hormon katekolamin serta kortisol melonjak di sistem saraf simpatis. Latihan berbasis skenario yang terstruktur bertujuan mentransformasikan reaksi instingtif manusia dari kepanikan (*panic freeze*) menjadi otomatisasi adaptif yang menyelamatkan nyawa.
 
 ---
 
@@ -120,7 +120,7 @@ Sasaran pengondisiannya adalah mengulang skenario interaktif ini sampai tindakan
 #### Ketahanan Prosedural pada Pendaratan Darurat Sungai Hudson (2009)
 Pada 15 Januari 2009, US Airways Penerbangan 1549 kehilangan daya dorong kedua mesin akibat tabrakan kawanan burung (*bird strike*) sesaat setelah lepas landas dari New York. Kapten Chesley "Sully" Sullenberger bersama First Officer Jeffrey Skiles berhasil mendaratkan pesawat di atas permukaan Sungai Hudson tanpa menimbulkan korban jiwa.
 
-Keberhasilan luar biasa ini bukan semata-mata produk intuisi spontan, melainkan kristalisasi dari ribuan jam pelatihan berbasis simulator, pemahaman mendalam atas prinsip *Crew Resource Management* (CRM), dan kepatuhan pada daftar periksa (*emergency checklist*) yang telah terotomatisasi. Alih-alih membuang kapasitas kognitif untuk panik, seluruh energi mental dialokasikan secara presisi pada pengendalian aerodinamika pesawat dan kalkulasi opsi pendaratan yang realistis.
+Keberhasilan ini bukan semata-mata produk intuisi spontan, melainkan hasil dari ribuan jam pelatihan berbasis simulator, pemahaman mendalam atas prinsip *Crew Resource Management* (CRM), dan kepatuhan pada daftar periksa (*emergency checklist*) yang telah terotomatisasi. Alih-alih membuang kapasitas kognitif untuk panik, seluruh energi mental dialokasikan secara presisi pada pengendalian aerodinamika pesawat dan kalkulasi opsi pendaratan yang realistis.
 
 #### Penerapan di Tingkat Organisasi dan Komunitas
 1. **Latihan Evakuasi Terjadwal di Gedung Bertingkat:** Pelatihan tidak sekadar berjalan menuju tangga darurat utama, melainkan menyimulasikan pemblokiran akses utama sehingga penghuni terbiasa menggunakan jalur alternatif tanpa keraguan.
@@ -135,6 +135,6 @@ Penguatan kesiapsiagaan mental tidak selalu mensyaratkan fasilitas simulator yan
 1. **Pemetaan Skenario Spesifik:** Tetapkan skenario bahaya yang relevan secara geografis (misalnya gempa bumi saat berada di tempat tidur pada malam hari).
 2. **Keterlibatan Multi-Sensorik:** Visualisasikan secara detail bunyi getaran dinding, padamnya instalasi penerangan, penurunan suhu ruangan, serta bau debu reruntuhan.
 3. **Latihan Fisik Kering (*Dry Run*):** Gerakkan tubuh secara nyata mengikuti urutan perlindungan (merunduk, melindungi kepala di bawah kolong meja, dan berpegangan erat pada kaki meja).
-4. **Pengulangan Hingga Titik Habituasi:** Lakukan pengondisian ini secara berkala hingga rasa cemas mereda dan respons motorik berubah menjadi tindakan wajar yang otomatis. Habituasi mental menandakan bahwa sistem saraf telah mereklasifikasi skenario darurat dari ancaman misterius menjadi rangkaian tugas yang dapat dikelola.
+4. **Pengulangan Hingga Titik Habituasi:** Lakukan pengondisian ini secara berkala hingga rasa cemas mereda dan respons motorik berubah menjadi tindakan wajar yang otomatis. Habituasi mental menandakan bahwa sistem saraf telah mereklasifikasi skenario darurat dari ancaman yang asing menjadi rangkaian tugas yang dapat dikelola.
 
 > **Prinsip Utama Kesiapsiagaan:** Dalam situasi krisis yang mengancam keselamatan jiwa, kapasitas manusia tidak akan naik ke tingkat harapan yang optimis; tindakan nyata selalu turun ke tingkat pelatihan yang telah dipersiapkan sebelumnya.

@@ -1,10 +1,10 @@
 ## Ekosistem Digital
 
-Sejauh ini kita membahas apa yang terjadi di dalam kepala: bias konfirmasi, efek kebenaran ilusi, emosi yang membajak nalar. Tapi kepala kamu tidak bekerja di ruang hampa. Setiap hari ia terhubung ke mesin raksasa yang memilih apa yang kamu lihat, kapan kamu melihatnya, dan seberapa sering. Mesin itu punya tujuannya sendiri, dan tujuan itu bukan kebenaran.
+Sejauh ini kita membahas apa yang terjadi di dalam kepala: bias konfirmasi, efek kebenaran ilusi, emosi yang membajak nalar. Tapi kepala kamu tidak bekerja di ruang hampa. Setiap hari ia terhubung ke sistem yang memilih apa yang kamu lihat, kapan kamu melihatnya, dan seberapa sering. Sistem itu punya tujuannya sendiri, dan tujuan itu bukan kebenaran.
 
-Bab ini bukan tentang menyalahkan teknologi seolah dia iblis. Justru sebaliknya. Yang berbahaya adalah cara pikiran manusia dan desain platform saling mengunci, saling menguatkan, sampai keduanya sulit dipisahkan.
+Bab ini bukan tentang menyalahkan teknologi seolah dia jahat. Justru sebaliknya. Yang berbahaya adalah cara pikiran manusia dan desain platform saling mengunci, saling menguatkan, sampai keduanya sulit dipisahkan.
 
-### Algoritma tidak dibayar untuk jujur
+### Algoritma yang membuatmu bertahan lebih lama
 
 Beranda media sosial kamu bukan urutan waktu apa adanya. Ia disusun oleh algoritma rekomendasi yang punya satu misi utama: membuat kamu bertahan lebih lama. Metriknya konkret dan bisa diukur:
 
@@ -61,7 +61,7 @@ Kombinasi kecepatan dan ruang tertutup ini berarti hoaks sering menang dalam soa
 
 ### Hoaks yang murah dan menguntungkan dalam ekonomi perhatian
 
-Ada alasan ekonomi yang dingin di balik semua ini. Dalam ekonomi perhatian, perhatian manusia adalah komoditas yang diperjualbelikan. Siapa yang bisa menahan mata, dia yang untung.
+Ada alasan ekonomi di balik semua ini. Dalam ekonomi perhatian, perhatian manusia adalah komoditas yang diperjualbelikan. Siapa yang bisa menahan mata, dia yang untung.
 
 Hoaks unggul secara ekonomi karena:
 

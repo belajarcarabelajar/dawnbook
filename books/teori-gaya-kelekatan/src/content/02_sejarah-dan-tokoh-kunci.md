@@ -6,7 +6,7 @@ Mari kita menengok kembali akar pemahaman tentang hubungan manusia. Sebelum masu
 
 Ibarat sebuah bangunan, teori kelekatan diletakkan fondasinya oleh **John Bowlby** (1907-1990). Psikolog dan psikiater asal Inggris ini berani menantang gagasan utama yang dipercaya para ahli pada masanya.
 
-Pada dekade 1940-an, kaum behavioris meyakini bahwa bayi menempel pada ibunya semata-mata karena urusan makanan. Namun, Bowlby mengamati hal yang sangat berbeda ketika menangani anak-anak yang terpisah dari orang tua mereka selama berkecamuknya Perang Dunia II.
+Pada dekade 1940-an, kaum behavioris meyakini bahwa bayi menempel pada ibunya semata-mata karena urusan makanan. Namun, Bowlby mengamati hal yang berbeda ketika menangani anak-anak yang terpisah dari orang tua mereka selama Perang Dunia II.
 
 ### Konsep "The Secure Base" (Basis Aman) dari Bowlby
 
@@ -20,7 +20,7 @@ Bowlby mengajukan gagasan bahwa kelekatan adalah **sistem motivasi biologis** ba
 
 Jika Bowlby adalah perancang teorinya, **Mary Ainsworth** (1913-1999) adalah sosok yang mengujinya secara empiris di laboratorium. Ia membawa gagasan Bowlby dari sekadar pengamatan klinis menjadi penelitian terukur yang sistematis.
 
-Karya monumentalnya yang mengubah lanskap psikologi perkembangan adalah prosedur eksperimental bernama **The Strange Situation (Situasi Asing)**.
+Karya utamanya adalah prosedur eksperimental bernama **The Strange Situation (Situasi Asing)**.
 
 ### Eksperimen 'Strange Situation'
 
@@ -60,7 +60,7 @@ sequenceDiagram
     I->>B: 8. Ibu kembali untuk kedua kalinya
 ```
 
-Indikator terpenting bukanlah seberapa keras anak menangis saat ditinggal pergi, melainkan bagaimana perilakunya saat **reuni (bertemu kembali dengan ibu)**. Momen inilah yang menjadi kunci utama Ainsworth dalam menentukan kategori kelekatan.
+Indikator terpenting bukanlah seberapa keras anak menangis saat ditinggal pergi, melainkan bagaimana perilakunya saat **reuni (bertemu kembali dengan ibu)**. Momen inilah yang menjadi dasar Ainsworth dalam menentukan kategori kelekatan.
 
 ## Tiga Klasifikasi Awal Ainsworth
 
@@ -84,11 +84,11 @@ Memahami sejarah riset Bowlby dan Ainsworth membantu kita menyadari bahwa pola r
 * Berbeda halnya jika kamu bertipe **Kelekatan Cemas**. Kamu cenderung terus menempel pada pasangan sepanjang pesta karena dihantui rasa takut ditinggalkan sendirian di tengah keramaian.
 * Sementara itu, pemilik **Kelekatan Menghindar** justru akan sengaja menjauh dari pasangannya. Mereka berpura-pura sangat mandiri dan sibuk sendiri agar tidak terlihat membutuhkan bantuan atau perhatian.
 
-### Mengapa Penemuan Ini Revolusioner?
+### Keyakinan Pengasuhan yang Dibantah
 
 Sebelum penelitian ini dipublikasikan, dunia pengasuhan meyakini bahwa terlalu sering memeluk atau memanjakan anak akan membuat mereka tumbuh menjadi pribadi yang lemah. Bowlby dan Ainsworth membantah keyakinan tersebut dan membuktikan hal sebaliknya: **kelekatan yang erat dan aman di awal kehidupan justru menjadi fondasi kekuatan serta kemandirian individu di masa depan.**
 
-## Menyelami Makna Kelekatan
+## Pola Basis Aman dalam Keseharian
 
 > *"What cannot be spoken to the mother cannot be said to the self."*
 >
@@ -97,37 +97,3 @@ Sebelum penelitian ini dipublikasikan, dunia pengasuhan meyakini bahwa terlalu s
 Jika kita mengamati interaksi anak dan orang tua di sekitar kita, pola *base camp* ini sering kali terlihat jelas dalam keseharian. Kita bisa melihat bagaimana seorang balita berlari menjauh untuk mengambil mainan, lalu sesekali menoleh ke belakang untuk memastikan orang tuanya masih ada di sana.
 
 Riset dari Bowlby dan Ainsworth menunjukkan bahwa kebutuhan untuk merasa aman adalah kebutuhan dasar manusia. Rasa aman inilah yang menjadi dasar bagi kita untuk membangun hubungan yang lebih sehat dan mendalam saat dewasa.
-
-## Dari Obrolan Ringan ke Hubungan yang Mendalam
-
-Membangun hubungan yang bermakna adalah sebuah seni sekaligus keterampilan sosial yang melibatkan kedalaman emosional, kejujuran, dan investasi waktu. Hubungan yang mendalam melampaui obrolan ringan (*small talk*) dan menyentuh aspek nilai hidup, impian, serta dukungan timbal balik.
-
-## Pilar Utama Hubungan yang Mendalam
-
-1. **Asah Kemampuan Mendengarkan Aktif (*Active Listening*)**
-   Mendengarkan aktif berarti menyerap emosi di balik ucapan, bukan cuma mendengar rentetan kata. Cobalah fokus penuh pada lawan bicaramu tanpa menyela atau sibuk menyusun jawaban di kepala.
-2. **Jangan Takut Menunjukkan Kerentanan (*Vulnerability*)**
-   Menurut Brené Brown, kerentanan adalah jembatan utama menuju koneksi. Ini berarti kamu berani menunjukkan diri apa adanya, termasuk ketakutan dan kegagalan, alih-alih terus menampilkan topeng "sempurna".
-3. **Konsistensi dalam Kehadiran**
-   Ikatan yang kuat tidak tumbuh dari kejutan besar yang sesekali, melainkan dari momen-momen kecil yang terakumulasi. Hadir secara emosional saat dibutuhkan jauh lebih berharga daripada hadiah materi yang mahal.
-4. **Utamakan Empati, Bukan Simpati**
-   Simpati hanya membuat kita merasa kasihan dari kejauhan. Empati menuntut kita untuk benar-benar mencoba merasakan apa yang dialami oleh orang lain.
-
-> *"Koneksi adalah energi yang tercipta di antara orang-orang ketika mereka merasa dilihat, didengar, dan dihargai."*
->
-> \- Brené Brown
-
-## Langkah Praktis Memulai Hubungan
-
-Untuk mempermudah gambaran tentang bagaimana sebuah hubungan tumbuh, mari kita bayangkan sebuah persamaan sederhana berikut:
-
-$$
-\\text{Kedalaman Relasi} = \\frac{\\text{Waktu Berkualitas} \\times \\text{Keterbukaan}}{\\text{Ego}}
-$$
-
-Artinya, semakin banyak waktu berkualitas dan keterbukaan yang saling dibagikan, akan semakin mendalam hubungan tersebut. Sebaliknya, jika ego terlalu mendominasi, kedekatan emosional itu perlahan akan memudar.
-
-**Contoh Tindakan Nyata:**
-
-* **Ajukan pertanyaan terbuka:** Alih-alih bertanya "Apa kabarmu?", cobalah "Apa hal yang paling membuatmu bersemangat minggu ini?"
-* **Apresiasi yang spesifik:** Alih-alih berkata "Terima kasih," cobalah "Aku sangat menghargai caramu mendengarkanku tadi, itu membuatku merasa sangat didukung."

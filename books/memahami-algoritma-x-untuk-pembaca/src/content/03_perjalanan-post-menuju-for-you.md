@@ -2,7 +2,7 @@
 
 Bayangkan sebuah post yang baru diunggah sebagai pesanan di dapur restoran yang sibuk, yang harus melewati beberapa meja sebelum tersaji di depanmu. Ada meja yang mengambil bahan, meja yang menakar bumbu, juru masak yang menebak selera tamu, petugas yang memeriksa piring, lalu pelayan yang menata semuanya. Post yang sampai di tab For You menempuh perjalanan serupa, hanya saja dapurnya berupa server dan juru masaknya berupa model. Bab ini mengikuti perjalanan itu supaya kamu tahu meja mana yang bisa kamu pengaruhi dan mana yang tidak.
 
-### Lima Meja di Dapur Rekomendasi
+### Lima Tahap Penyusunan Feed
 
 Peta paling sederhana dari perjalanan itu terdiri dari lima tahap:
 
@@ -42,7 +42,7 @@ Kalau dapur hanya menyajikan hidangan bernilai tertinggi, kamu bisa saja menerim
 
 Akibatnya, dua post dengan prediksi berbeda belum tentu muncul dalam urutan yang bisa kamu tebak dari satu tindakan saja. Screenshot sebuah feed juga tidak bisa membuka bobot algoritma, karena yang terlihat hanya piring yang sudah tersaji, bukan resep dan takarannya.
 
-### Dapur Baru di xai-org/x-algorithm
+### Alur Baru di xai-org/x-algorithm
 
 Repositori kedua, [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm), dibuat pada Januari 2026 dan [diumumkan @Engineering](https://x.com/Engineering/status/2013471689087086804) pada 20 Januari 2026 sebagai sistem yang memakai arsitektur transformer yang sama dengan model Grok milik xAI. Pembaruan besar datang pada 15 Mei 2026, dan sejak Agustus 2026 repositori ini diperbarui nyaris setiap hari. Dalam bahasa sederhana, alurnya begini:
 

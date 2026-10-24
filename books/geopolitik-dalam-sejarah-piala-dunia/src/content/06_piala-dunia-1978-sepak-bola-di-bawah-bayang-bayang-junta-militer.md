@@ -4,7 +4,7 @@ Bayangkan sebuah stadion megah yang bergemuruh oleh sorak-sorai 70.000 penonton.
 
 Namun, hanya beberapa blok dari gegap gempita Stadion Monumental itu, di dalam gedung **ESMA (Escuela de Mecánica de la Armada)**, jeritan para tahanan politik diredam oleh suara radio yang menyiarkan pertandingan yang sama.
 
-Selamat datang di Piala Dunia 1978, sebuah turnamen yang sering disebut sebagai "Piala Dunia Paling Berdarah" dalam sejarah sepak bola.
+Itulah wajah Piala Dunia 1978, sebuah turnamen yang sering disebut sebagai "Piala Dunia Paling Berdarah" dalam sejarah sepak bola.
 
 ## 1. Rezim "Proses Reorganisasi Nasional"
 
@@ -12,7 +12,7 @@ Dua tahun sebelum turnamen dimulai, tepatnya pada 24 Maret 1976, kudeta militer 
 
 Di balik nama yang terdengar administratif ini, tersembunyi kampanye penindasan sistematis yang dikenal sebagai **Perang Kotor (Dirty War)**.
 
-### Statistik Kelam di Balik Layar
+### Data Korban dan Biaya Turnamen
 
 - **Desaparecidos:** Diperkirakan sekitar **30.000 orang** "dihilangkan" (diculik, disiksa, dan dibunuh) oleh rezim.
 - **Pusat Penahanan:** Lebih dari **340 pusat penyiksaan rahasia** beroperasi di seluruh negeri.
@@ -20,11 +20,11 @@ Di balik nama yang terdengar administratif ini, tersembunyi kampanye penindasan 
 
 ## 2. Sepak Bola sebagai Alat "Sportswashing"
 
-Meskipun istilah *sportswashing* (pencucian citra melalui olahraga) baru populer belakangan ini, Jenderal Videla adalah salah satu praktisi paling ulung di abad ke-20.
+Meskipun istilah *sportswashing* (pencucian citra melalui olahraga) baru populer belakangan ini, Jenderal Videla sudah mempraktikkannya.
 
 **Analogi "Mengecat Rumah yang Terbakar"**
 
-> Bayangkan sebuah rumah yang struktur fondasinya sedang terbakar hebat dan penghuninya sedang disiksa di ruang bawah tanah. Alih-alih memadamkan api, sang pemilik rumah justru mengecat dinding luar dengan warna emas yang berkilau dan mengundang seluruh tetangga untuk berpesta di halaman depan agar tidak ada yang melihat asap keluar dari jendela. Itulah Piala Dunia 1978 bagi Junta Militer Argentina.
+> Bayangkan sebuah rumah yang fondasinya sedang terbakar dan penghuninya sedang disiksa di ruang bawah tanah. Alih-alih memadamkan api, sang pemilik rumah justru mengecat dinding luar dan mengundang seluruh tetangga untuk berpesta di halaman depan agar tidak ada yang melihat asap keluar dari jendela. Itulah Piala Dunia 1978 bagi Junta Militer Argentina.
 
 ### Strategi Propaganda Rezim
 
@@ -34,7 +34,7 @@ Meskipun istilah *sportswashing* (pencucian citra melalui olahraga) baru populer
 
 ## 3. Kemenangan Argentina yang "Diatur"?
 
-Puncak kontroversi terjadi pada babak grup kedua. Argentina harus mengalahkan Peru dengan selisih minimal **4 gol** untuk melaju ke final, menggeser rival abadi mereka, Brasil.
+Puncak kontroversi terjadi pada babak grup kedua. Argentina harus mengalahkan Peru dengan selisih minimal **4 gol** untuk melaju ke final, menggeser rival mereka, Brasil.
 
 **Hasil Akhir:** Argentina menang telak **6-0**.
 
@@ -46,13 +46,13 @@ Banyak teori konspirasi yang memiliki dasar kuat mengenai pertandingan ini:
 
 Apakah sebuah kemenangan tetap memiliki nilai sportivitas jika faktor di luar lapangan lebih menentukan daripada taktik di dalam lapangan?
 
-## 4. Pesta di Atas Penderitaan
+## 4. Gelar Juara di Masa Teror Politik
 
-Pada 25 Juni 1978, Argentina mengalahkan Belanda 3-1 di babak perpanjangan waktu. Mario Kempes menjadi pahlawan dengan dua golnya. Bagi rakyat Argentina, itu adalah momen kebahagiaan murni di tengah masa kegelapan. Namun bagi militer, itu adalah legitimasi politik.
+Pada 25 Juni 1978, Argentina mengalahkan Belanda 3-1 di babak perpanjangan waktu. Mario Kempes menjadi pahlawan dengan dua golnya. Bagi rakyat Argentina, itu adalah momen kebahagiaan murni di tengah masa teror politik. Namun bagi militer, itu adalah legitimasi politik.
 
 > "Dengan kemenangan ini, kita telah menunjukkan kepada dunia bahwa Argentina adalah negara yang damai, bersatu, dan terorganisir." - **Jenderal Jorge Rafael Videla**
 
-### Ironi yang Tak Terlupakan
+### Perayaan Gol di Penjara ESMA
 
 Para tahanan di ESMA menceritakan bahwa saat Argentina mencetak gol, para penyiksa mereka akan berteriak kegirangan dan memeluk para tahanan yang baru saja mereka siksa. Beberapa tahanan bahkan dibawa keluar dengan mobil oleh penculiknya untuk melihat kerumunan orang yang merayakan kemenangan, hanya untuk dikembalikan ke sel penyiksaan beberapa jam kemudian.
 
@@ -83,6 +83,6 @@ Di mana:
 - $P$ = *Propaganda* (Kontrol media dan narasi nasionalisme)
 - $C$ = *Criticism* (Kecaman internasional dan perlawanan domestik)
 
-Dengan memperbesar $V$ dan $P$ melalui anggaran raksasa, rezim berusaha menekan dampak dari $C$ yang semakin meningkat akibat pelanggaran HAM.
+Dengan memperbesar $V$ dan $P$ melalui anggaran besar, rezim berusaha menekan dampak dari $C$ yang semakin meningkat akibat pelanggaran HAM.
 
 Jika kamu adalah seorang pemain sepak bola di tahun 1978 dan mengetahui situasi di luar stadion, apakah kamu akan tetap bermain demi kebanggaan rakyat atau menolak bermain sebagai protes terhadap rezim?

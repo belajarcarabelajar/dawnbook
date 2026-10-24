@@ -1,6 +1,6 @@
 ## Keberlanjutan Gaya Hidup Minimalis lewat Sistem Audit dan Guard Rail
 
-Setelah melewati proses *digital declutter* dan menata ulang perangkat kamu, tantangan sebenarnya dimulai: **bagaimana menjaganya agar tetap bertahan selamanya?**
+Setelah melewati proses *digital declutter* dan menata ulang perangkat kamu, tantangan sebenarnya dimulai: **bagaimana menjaganya agar bertahan lama?**
 
 Banyak orang terjebak dalam siklus "diet digital". Mereka membuang banyak aplikasi dan merasa bebas selama dua minggu. Sayangnya, perlahan-lahan desain algoritma dan tekanan lingkungan sekitar menarik mereka kembali ke kebiasaan lama. Keberlanjutan gaya hidup ini butuh sebuah **sistem** yang bekerja secara otomatis untuk melindungi fokusmu, tidak bisa hanya bergantung pada kemauan (*willpower*).
 
@@ -8,13 +8,13 @@ Banyak orang terjebak dalam siklus "diet digital". Mereka membuang banyak aplika
 
 Bayangkan minimalisme digital seperti mengurus kebun. Mencabut rumput liar sekali saja tanpa membuat batasan fisik yang jelas atau merawatnya rutin hanya akan membiarkan rumput itu tumbuh kembali lebat.
 
-> **Pesan Penting:** Keinginan untuk terus terkoneksi adalah insting biologis yang amat kuat. Sangat mustahil melawan algoritma rancangan perusahaan raksasa bermodal triliunan rupiah hanya bermodalkan "niat".
+> **Pesan Penting:** Keinginan untuk terus terkoneksi adalah insting biologis yang kuat. Mustahil melawan algoritma rancangan perusahaan besar hanya bermodalkan "niat".
 
 Kita wajib beralih dari pendekatan yang mengandalkan motivasi menjadi pendekatan sistematis agar bisa bertahan lama.
 
 ## 2\. Sistem Audit Berkala
 
-Prinsip minimalisme butuh ritme evaluasi supaya tidak pudar. "Kerak digital" gampang sekali menumpuk tanpa jadwal pemeriksaan rutin.
+Prinsip minimalisme butuh ritme evaluasi supaya tidak pudar. "Kerak digital" mudah menumpuk tanpa jadwal pemeriksaan rutin.
 
 ### A. Tinjauan Mingguan (Micro-Maintenance)
 
@@ -63,7 +63,7 @@ Misalnya kamu ingin akhir pekan menjadi waktu khusus untuk diri sendiri dan kelu
 
 Pada hari-hari lainnya, aplikasi bisa diakses sesuai jadwal.
 
-## 6\. Budi sebagai "The Sustainable Minimalist"
+## 6\. Budi Membalas Pesan Tiga Kali Sehari
 
 **Budi, seorang Manajer Proyek.** Sesudah melakukan *digital declutter*, masalah utama Budi ternyata komunikasi kerja di WhatsApp yang terus-menerus tanpa jeda.
 

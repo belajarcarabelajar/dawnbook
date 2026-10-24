@@ -1,6 +1,6 @@
 ## Filosofi 'Raja Bajak Laut' dalam One Piece
 
-Eksplorasi filosofis atas konsep Raja Bajak Laut (*Pirate King*) dalam karya naratif *One Piece* karya Eiichiro Oda menghadirkan eksperimen pemikiran mengenai pencarian kedaulatan individu dan kebebasan non-dominatif. Melalui figurasi Monkey D. Luffy dan warisan Gol D. Roger, konsepsi abstrak kebebasan eksistensial diuji dalam lanskap sosial yang sarat dengan hegemoni absolut Pemerintah Dunia (*World Government*), hegemoni kaum bangsawan dunia (*Tenryuubito*), dan determinisme takdir mitologis.
+Eksplorasi filosofis atas konsep Raja Bajak Laut (*Pirate King*) dalam *One Piece* karya Eiichiro Oda menghadirkan eksperimen pemikiran. Eksperimen itu berkisar pada pencarian kedaulatan individu dan kebebasan non-dominatif. Melalui figurasi Monkey D. Luffy dan warisan Gol D. Roger, konsepsi abstrak kebebasan eksistensial diuji dalam lanskap sosial yang sarat dengan hegemoni absolut Pemerintah Dunia (*World Government*), hegemoni kaum bangsawan dunia (*Tenryuubito*), dan determinisme takdir mitologis.
 
 ### 1. Kebebasan (*Freedom*) vs Dominasi (*Power-Over*)
 
@@ -27,7 +27,7 @@ K_{\text{total}} = K_{\text{diri}} + \sum K_{\text{sesama}}
 $$
 </div>
 
-Di mana $K\_{\text{diri}}$ merepresentasikan kedaulatan kehendak personal, sementara $\sum K\_{\text{sesama}}$ menandakan keterbukaan ruang kebebasan bagi entitas sosial lain. Membela kebebasan sesama dari tirani bukanlah tindakan moralitas paternalistik, melainkan praksis pembukaan ruang kemungkinan eksistensial yang seluas-luasnya bagi semua subjek.
+Di mana $K\_{\text{diri}}$ merepresentasikan kedaulatan kehendak personal, sementara $\sum K\_{\text{sesama}}$ menandakan keterbukaan ruang kebebasan bagi entitas sosial lain. Membela kebebasan sesama dari tirani bukanlah tindakan moralitas paternalistik, melainkan praksis pembukaan ruang kemungkinan eksistensial bagi semua subjek.
 
 ### 3. Dekonstruksi Fatalisme di Hadapan Nubuat (*Will of D*)
 
@@ -51,4 +51,4 @@ Ketika para komandan aliansi hendak bersumpah setia sebagai bawahan pasca-perist
 
 ### 5. Kebebasan Non-Dominatif Raja Bajak Laut
 
-Filosofi Raja Bajak Laut dalam semesta *One Piece* menegaskan bahwa esensi kemerdekaan sejati bukan terletak pada hasrat untuk menguasai atau menundukkan orang lain, melainkan pada keberanian menjadi tuan atas kehendak diri sendiri sembari membuka jalan bagi kebebasan sesama. Melalui praksis kebebasan non-dominatif ini, sosok Raja Bajak Laut menjadi simbol kemerdekaan jiwa manusia di hadapan samudra eksistensi yang terbentang luas.
+Filosofi Raja Bajak Laut dalam semesta *One Piece* menegaskan bahwa esensi kemerdekaan bukan terletak pada hasrat untuk menguasai atau menundukkan orang lain, melainkan pada keberanian menjadi tuan atas kehendak diri sendiri sembari membuka jalan bagi kebebasan sesama. Melalui praksis kebebasan non-dominatif ini, sosok Raja Bajak Laut menjadi simbol kebebasan manusia.

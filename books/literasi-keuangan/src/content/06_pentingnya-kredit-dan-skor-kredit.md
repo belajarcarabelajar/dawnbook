@@ -1,6 +1,6 @@
 ## Pentingnya Kredit dan Skor Kredit
 
-Memahami dunia kredit dan skor kredit adalah langkah dasar dalam literasi keuangan. Fasilitas ini adalah cermin tingkat kepercayaan bank atau pihak pemberi pinjaman kepada kamu. Di Indonesia, pemahaman tentang aturan main utang sangat penting karena akan berdampak panjang pada kemudahan akses berbagai layanan perbankan.
+Memahami kredit dan skor kredit adalah langkah dasar dalam literasi keuangan. Fasilitas ini adalah cermin tingkat kepercayaan bank atau pihak pemberi pinjaman kepada kamu. Di Indonesia, pemahaman tentang aturan main utang penting karena akan berdampak panjang pada kemudahan akses berbagai layanan perbankan.
 
 ## Memahami Konsep Dasar
 
@@ -38,7 +38,7 @@ Skor kredit adalah angka rapor dari perilaku pembayaran utang kamu selama ini. B
 
 > **Catatan:** Data rekam jejak cicilan perorangan maupun perusahaan tersimpan dalam Sistem Layanan Informasi Keuangan (SLIK) yang diawasi OJK. Istilah lamanya sering disebut BI Checking.
 
-Rapor SLIK ini menceritakan dengan jujur seberapa disiplin kamu menyelesaikan utang di masa lalu. Data inilah yang menjadi rujukan utama bagi analis bank.
+Rapor SLIK ini mencatat seberapa disiplin kamu menyelesaikan utang di masa lalu. Data inilah yang menjadi rujukan utama bagi analis bank.
 
 ### Tingkatan Kolektibilitas
 
@@ -61,14 +61,14 @@ flowchart TD
     K4 --> K5["Kolektibilitas 5 (Macet), lebih dari 180 hari"]
 ```
 
-Kondisi status ini membawa efek yang sangat berbeda. Jika rapor kamu masuk kategori lancar:
+Kondisi status ini membawa efek yang berbeda. Jika rapor kamu masuk kategori lancar:
 - Lebih gampang mendapat persetujuan saat mengajukan fasilitas baru.
 - Berpeluang meraih penawaran suku bunga cicilan yang lebih murah.
 - Batas maksimal pinjaman cenderung lebih besar.
 - Proses pencairan memakan waktu lebih cepat.
 
 Sebaliknya, kalau riwayat kamu ada di kategori buruk:
-- Berkas pengajuan akan sangat mudah ditolak oleh sistem.
+- Berkas pengajuan akan mudah ditolak oleh sistem.
 - Sekalipun lolos, bank biasanya memberikan beban bunga yang jauh lebih mahal sebagai antisipasi risiko.
 - Plafon dana yang dicairkan dipotong dari pengajuan awal.
 - Dalam beberapa kasus, riwayat kredit buruk bisa menghambat proses rekrutmen kerja di institusi keuangan.
@@ -79,7 +79,7 @@ Ada beberapa elemen dasar yang membentuk algoritma nilai skor kredit kamu:
 - **Catatan Pembayaran:** Ini penyumbang nilai paling besar. Selalu bayar tepat waktu menunjukkan karakter yang bertanggung jawab. Telat bayar akan langsung memangkas poin.
 - **Rasio Pemakaian:** Seberapa banyak saldo yang dipakai dibanding total plafon yang ada. Sering memakai limit sampai mentok bisa dinilai sebagai kebiasaan terlalu mengandalkan utang.
 - **Umur Riwayat:** Makin lama kamu punya akun kredit yang aktif dan sehat, makin gampang bank membaca konsistensi pembayaranmu.
-- **Variasi Fasilitas:** Memiliki campuran antara cicilan tetap (seperti KPR) dan fasilitas *revolving* (kartu kredit) menunjukkan kelihaian mengatur beban yang beragam.
+- **Variasi Fasilitas:** Memiliki campuran antara cicilan tetap (seperti KPR) dan fasilitas *revolving* (kartu kredit) menunjukkan kemampuan mengatur beban yang beragam.
 - **Aktivitas Pengajuan Baru:** Sering membuka aplikasi pinjaman baru dalam jarak waktu berdekatan akan membuat sistem waspada, sehingga skor bisa turun sesaat.
 
 ## Cara Membangun Riwayat dari Nol
@@ -91,8 +91,8 @@ Punya catatan finansial yang bersih dan positif adalah aset jangka panjang.
 - Pakai limit tersebut untuk transaksi kebutuhan dasar yang pasti bisa kamu lunasi bulan depannya.
 - Ambil produk yang bebas biaya admin bulanan agar tidak membebani arus kas.
 
-### Merawat Skor Tetap Hijau
-- Biasakan melunasi tagihan beberapa hari sebelum tenggat waktu. Menyalakan fitur debet otomatis dari rekening gaji akan sangat menolong.
+### Menjaga Skor Tetap Baik
+- Biasakan melunasi tagihan beberapa hari sebelum tenggat waktu. Menyalakan fitur debet otomatis dari rekening gaji akan membantu.
 - Jaga tingkat pemakaian limit kartu di bawah 30 persen. Umpamanya plafon kartu kamu 10 juta, usahakan total gesekan bulan itu tidak melampaui 3 juta.
 - Jangan iseng menekan tombol *apply* di berbagai aplikasi pinjol sekaligus.
 - Kalau punya kartu kredit lama yang jarang dipakai tapi bebas iuran tahunan, biarkan saja tetap aktif. Usia kartu tersebut membantu menyokong skor kamu.
@@ -100,6 +100,6 @@ Punya catatan finansial yang bersih dan positif adalah aset jangka panjang.
 
 ## Manfaat Jangka Panjang
 
-Disiplin merawat skor kredit akan membuka pintu kemudahan finansial. Saat kamu ingin merencanakan hidup seperti mencicil rumah idaman atau menambah modal dagang, bank akan menyambut dengan proses yang lancar. Kamu juga akan menikmati beban bunga yang lebih bersahabat, sekaligus kelonggaran plafon batas dana yang membuat pengelolaan uang makin fleksibel.
+Disiplin merawat skor kredit akan memudahkan urusan finansialmu. Saat kamu ingin merencanakan hidup seperti mencicil rumah idaman atau menambah modal dagang, proses pengajuannya di bank akan lebih lancar. Kamu juga akan menikmati beban bunga yang lebih bersahabat, sekaligus kelonggaran plafon batas dana yang membuat pengelolaan uang makin fleksibel.
 
-Catatan buruk di sistem SLIK benar-benar bisa merepotkan saat kamu berada di situasi mendesak. Mengelola pinjaman secara bijak pada akhirnya adalah salah satu kemampuan bertumbuh yang paling berharga.
+Catatan buruk di sistem SLIK bisa merepotkan saat kamu berada di situasi mendesak. Mengelola pinjaman secara bijak adalah kemampuan yang berguna dalam jangka panjang.

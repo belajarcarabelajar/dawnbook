@@ -20,7 +20,7 @@ Dalam konteks oligopoli, ada tiga elemen kunci dalam sebuah "permainan":
 
 Model paling terkenal dalam teori permainan untuk menjelaskan perilaku oligopoli adalah **Dilema Narapidana**. Model ini menunjukkan alasan mengapa dua pihak sering kali gagal bekerja sama, meskipun kerja sama tersebut sebenarnya memberikan hasil terbaik bagi keduanya.
 
-#### Skenario Klasik
+#### Dua Tersangka di Ruang Terpisah
 
 Dua tersangka, Andi dan Budi, ditangkap atas dugaan kejahatan. Polisi tidak memiliki cukup bukti kuat, sehingga menginterogasi keduanya di ruangan terpisah. Mereka berdua diberi penawaran yang sama:
 
@@ -54,7 +54,7 @@ Asumsikan estimasi keuntungan dihitung dalam miliaran rupiah:
 2. **Insentif untuk Berkhianat:** Jika Perusahaan A secara diam-diam memotong harga sementara Perusahaan B tetap bertahan pada harga tinggi, Perusahaan A akan merebut mayoritas pelanggan dan keuntungannya melonjak ke $\text{Keuntungan}\_{\text{A}} = 150$.
 3. **Keseimbangan Nash (Nash Equilibrium):** Karena dorongan menghindari risiko dikhianati atau keinginan mengejar untung sepihak, kedua perusahaan akhirnya sama-sama menurunkan harga. Mereka sampai pada titik $(50, 50)$.
 
-> **Pesan Penting:** Dalam oligopoli, perusahaan sering kali terjebak dalam hasil yang suboptimal (keuntungan lebih rendah) karena krisis kepercayaan, padahal kolusi dapat memberikan hasil yang jauh lebih menguntungkan.
+> **Pesan Penting:** Dalam oligopoli, perusahaan sering kali terjebak dalam hasil yang suboptimal (keuntungan lebih rendah) karena tidak saling percaya, padahal kolusi dapat memberikan hasil yang jauh lebih menguntungkan.
 
 Sebagai contoh di sekitar kita, dua minimarket yang lokasinya berdekatan sering kali memberikan promo diskon serupa secara terus-menerus. Kondisi persaingan diskon tersebut mencerminkan bagaimana mereka terjebak dalam dilema narapidana di dunia nyata.
 
@@ -102,7 +102,7 @@ Strategi ini terbukti efektif dalam memelihara stabilitas pasar serta mencegah *
 Dinamika persaingan di industri telekomunikasi (seperti Telkomsel, XL, dan Indosat) memberikan gambaran nyata mengenai teori permainan.
 
 - **Kondisi Awal:** Tarif panggilan suara dan SMS dahulu sangat tinggi. Salah satu operator kemudian meluncurkan skema tarif murah "Rp1 per detik".
-- **Langkah Strategis:** Operator pesaing tidak tinggal diam. Apabila menahan tarif tinggi, mereka berisiko kehilangan pelanggan secara masif.
+- **Langkah Strategis:** Operator pesaing tidak tinggal diam. Apabila menahan tarif tinggi, mereka berisiko kehilangan banyak pelanggan.
 - **Reaksi Pasar:** Pesaing membalas dengan menghadirkan paket promo yang setara atau lebih agresif.
 - **Dampak Akhir:** Konsumen diuntungkan oleh harga yang terjangkau, tetapi profitabilitas industri secara keseluruhan mengalami penurunan.
 

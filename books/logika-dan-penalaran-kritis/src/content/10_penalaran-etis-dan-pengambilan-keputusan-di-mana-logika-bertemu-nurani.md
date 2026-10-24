@@ -64,7 +64,7 @@ Dilema etika muncul ketika dua nilai moral yang benar saling bertabrakan. Misaln
 
 ### 5\. Etika dalam Kecerdasan Buatan (AI)
 
-Dunia teknologi adalah medan tempur penalaran etis yang sangat relevan saat ini.
+Di bidang teknologi saat ini, penalaran etis menjadi persoalan yang nyata.
 
 **Skenario:** Mobil Otonom (Self-Driving Car). Bayangkan sebuah mobil otonom mengalami rem blong. Di depannya ada sekelompok pejalan kaki. Jika mobil banting setir, ia akan menabrak pembatas jalan dan membahayakan nyawa penumpangnya sendiri.
 
@@ -92,4 +92,4 @@ Seringkali, saat menghadapi masalah moral, kita terjebak dalam kesalahan logika:
 
 ### Yang Perlu Kamu Ingat
 
-Penalaran etis bukan tentang menjadi "paling suci," melainkan tentang menjadi **paling sadar**. Dengan mengintegrasikan logika yang tajam dan pertimbangan nilai yang mendalam, kita bisa mengambil keputusan yang tidak hanya cerdas secara strategis, tetapi juga bertanggung jawab secara moral.
+Penalaran etis bukan tentang menjadi "paling suci," melainkan tentang menjadi **paling sadar**. Dengan menggabungkan logika dan pertimbangan nilai, kita bisa mengambil keputusan yang tidak hanya cerdas secara strategis, tetapi juga bertanggung jawab secara moral.

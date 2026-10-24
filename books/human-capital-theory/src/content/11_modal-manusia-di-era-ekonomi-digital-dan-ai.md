@@ -1,8 +1,8 @@
-# Modal Manusia di Era Ekonomi Digital dan Artificial Intelligence (AI)
+## Modal Manusia di Era Ekonomi Digital dan Kecerdasan Buatan
 
-Selamat datang di garis depan evolusi ekonomi. Jika pada bab-bab sebelumnya kita telah membahas bagaimana pendidikan formal dan pelatihan teknis membangun nilai ekonomi seseorang, maka di bagian ini kita akan menjelajahi bagaimana aturan main tersebut berubah total akibat revolusi digital dan Artificial Intelligence (AI).
+Pendidikan formal dan pelatihan teknis membangun nilai ekonomi seseorang, tetapi teknologi digital dan kecerdasan buatan (AI) mengubah aturan mainnya. Bab-bab sebelumnya membahas sisi pertama; di bagian ini kita menjelajahi perubahan tersebut.
 
-Bayangkan modal manusia (*Human Capital*) sebagai sebuah perangkat lunak (*software*). Di era industri, pekerja mungkin hanya memerlukan satu kali instalasi besar (seperti pendidikan tinggi) untuk bekerja selama 30 tahun. Namun, di era digital, sistem operasi dunia kerja diperbarui secara kontinu. Tanpa pembaruan berkala, modal manusia akan mengalami depresiasi teknis yang sangat cepat.
+Bayangkan modal manusia (*Human Capital*) sebagai sebuah perangkat lunak (*software*). Di era industri, pekerja mungkin hanya memerlukan satu kali instalasi besar (seperti pendidikan tinggi) untuk bekerja selama 30 tahun. Namun, di era digital, sistem operasi dunia kerja diperbarui secara kontinu. Tanpa pembaruan berkala, modal manusia akan mengalami depresiasi teknis yang cepat.
 
 ### 1. Pergeseran dari Tugas Rutin ke Kreativitas Digital
 
@@ -19,7 +19,7 @@ Transformasi teknologi tidak berarti tenaga kerja manusia digantikan secara penu
 | **Fokus Utama Produktivitas** | Efisiensi eksekusi manual | Pengambilan keputusan kompleks & *systems thinking* |
 
 > **Analogi Pilot dan Autopilot**
-> Pesawat modern memiliki sistem autopilot yang sangat canggih. Apakah pilot manusia masih dibutuhkan? Tentu saja. Namun, fokus pilot tersebut tidak lagi pada memutar tuas secara manual setiap detik. Modal manusia sang pilot kini bergeser ke arah pengawasan sistem, pengambilan keputusan darurat yang kompleks, serta manajemen krisis, yaitu fungsi yang belum dapat digantikan sepenuhnya oleh algoritma.
+> Pesawat modern memiliki sistem autopilot yang canggih. Apakah pilot manusia masih dibutuhkan? Tentu saja. Namun, fokus pilot tersebut tidak lagi pada memutar tuas secara manual setiap detik. Modal manusia sang pilot kini bergeser ke arah pengawasan sistem, pengambilan keputusan darurat yang kompleks, serta manajemen krisis, yaitu fungsi yang belum dapat digantikan sepenuhnya oleh algoritma.
 
 ### 2. Kebutuhan Keterampilan Baru di Era AI
 
@@ -68,10 +68,10 @@ Seorang pengembang perangkat lunak yang memanfaatkan kecerdasan buatan pembantu 
 | **Tradisional** | Menulis kode perhitungan secara manual | - |
 | **Era AI** | Berperan sebagai *System Architect*: mengarahkan logika bisnis dan pengujian keamanan, menetapkan parameter etis, serta menafsirkan hasil | Menghasilkan kode dasar (*boilerplate*) dan membantu menangani algoritma serta optimasi |
 
-### 5. Aplikasi Dunia Nyata & Kasus Penggunaan
+### 5. Perubahan di Perbankan dan Industri Kreatif
 
 - **Sektor Perbankan dan Keuangan**: Dahulu, modal manusia utama perbankan berpusat pada petugas *teller* untuk transaksi kasian dan administrasi fisik. Saat ini, perbankan bertransformasi menjadi lembaga keuangan berbasis teknologi. Bank dialokasikan untuk merekrut *Data Scientist* dan memfasilitasi *reskilling* pegawai lama menjadi konsultan keuangan pribadi, beralih dari fungsi transaksional ke layanan relasional bernilai tambah tinggi.
-- **Industri Kreatif dan Desain**: Desainer grafis mengintegrasikan kecerdasan buatan generatif (*Generative AI*) untuk pembuatan draf visual awal. Alur kerja yang sebelumnya membutuhkan 10 jam untuk satu ilustrasi manual kini bergeser menjadi 1 jam penyusunan *prompt* dan 2 jam kurasi artistik. Modal manusia desainer berpindah dari kecepatan teknis mengeksekusi gambar menuju kekuatan visi estetika dan pengarahan kreatif.
+- **Industri Kreatif dan Desain**: Desainer grafis mengintegrasikan kecerdasan buatan generatif (*Generative AI*) untuk pembuatan draf visual awal. Alur kerja yang sebelumnya membutuhkan 10 jam untuk satu ilustrasi manual kini bergeser menjadi 1 jam penyusunan *prompt* dan 2 jam kurasi artistik. Modal manusia desainer berpindah dari kecepatan teknis mengeksekusi gambar menuju visi estetika dan pengarahan kreatif.
 
 ### 6. Tantangan Kesenjangan Digital (The Digital Divide)
 
@@ -80,9 +80,9 @@ Penerapan teori modal manusia pada era digital juga dihadapkan pada tantangan ke
 - Individu maupun wilayah yang terbatas dalam investasi infrastruktur digital berpotensi tertinggal dalam skala produktivitas global.
 - Kebijakan publik perlu mengarah pada penyediaan akses program *lifelong learning* yang inklusif untuk seluruh tingkatan tenaga kerja.
 
-> Teknologi merupakan instrumen produktivitas, sedangkan modal manusia adalah penggerak utamanya. Pada era kecerdasan buatan, pengembangan modal manusia menuntut proses belajar yang tidak pernah berhenti.
+> Teknologi merupakan instrumen produktivitas, sedangkan modal manusia adalah penggerak utamanya. Pada era kecerdasan buatan, pengembangan modal manusia menuntut proses belajar sepanjang hidup.
 
-### Ringkasan Materi
+### Poin Kunci
 
 1. **Prinsip Augmentasi**: Kecerdasan buatan berfungsi sebagai mitra peningkatan produktivitas yang membutuhkan pembentukan alur kerja baru.
 2. **Keterampilan Non-Rutin**: Kemampuan kognitif tingkat tinggi, kreativitas, dan kecerdasan sosial memiliki tingkat ketahanan tertinggi terhadap otomasi.

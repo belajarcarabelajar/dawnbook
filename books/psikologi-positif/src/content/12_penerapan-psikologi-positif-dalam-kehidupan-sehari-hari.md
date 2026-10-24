@@ -1,6 +1,6 @@
 ## Penerapan Psikologi Positif dalam Kehidupan Sehari-hari
 
-Selamat! Kamu telah mempelajari berbagai pilar teori dalam Psikologi Positif, mulai dari model PERMA hingga kekuatan rasa syukur. Namun, pengetahuan hanyalah benih; penerapan nyata adalah tanah tempat benih tersebut tumbuh menjadi pohon kesejahteraan yang kokoh.
+Dari model PERMA hingga kekuatan rasa syukur, kamu telah mempelajari berbagai pilar teori dalam Psikologi Positif. Namun, kesejahteraan tumbuh dari penerapan nyata, bukan dari pengetahuan saja.
 
 Bagian ini dirancang untuk mengonversi teori menjadi tindakan nyata. Kita akan menelusuri bagaimana prinsip-prinsip ini bekerja di tiga ranah utama kehidupan: tempat kerja, dunia pendidikan, dan kesehatan fisik.
 
@@ -91,7 +91,7 @@ Di masa krisis kesehatan global, sebuah rumah sakit merintis program **"Positivi
 
 ## Kebahagiaan sebagai Keterampilan
 
-Psikologi positif tidak mengajak kita menutup mata dari kesulitan hidup, tetapi melatih kapasitas diri agar tetap bertumbuh di tengah badai. Layaknya melatih kekuatan otot, kesejahteraan mental adalah sebuah keterampilan yang memerlukan latihan konsisten setiap hari.
+Psikologi positif tidak mengajak kita menutup mata dari kesulitan hidup, tetapi melatih kapasitas diri agar tetap bertumbuh di tengah masa sulit. Layaknya melatih kekuatan otot, kesejahteraan mental adalah sebuah keterampilan yang memerlukan latihan konsisten setiap hari.
 
 **Catatan Penting:**
 

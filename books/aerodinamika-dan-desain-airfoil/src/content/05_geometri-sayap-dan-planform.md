@@ -93,7 +93,7 @@ Keterangan parameter:
 
 Ketika gaya angkat terdistribusi secara eliptik, kecepatan aliran turun (*downwash velocity*, $w$) di belakang sayap bernilai konstan di sepanjang rentang. Konsekuensinya, sudut serang terinduksi ($\alpha\_i$) seragam dan *induced drag* mencapai nilai minimum mutlak.
 
-#### Analogi Dinamika Beban Fluida
+#### Analogi Dayung Perahu
 
 Bayangkan sebuah dayung perahu yang bergerak melalui air. Jika beban dorongan terdistribusi merata dan proporsional di seluruh bilah dayung, fluida terdorong secara stabil tanpa pergolakan pusaran berlebih di tepinya. Namun, jika gaya dorong terkonsentrasi berlebihan hanya pada ujung dayung, terbentuk pusaran turbulen yang kuat di tepian air dan batang dayung menerima tegangan lentur yang jauh lebih berat. Prinsip serupa berlaku pada sayap: distribusi beban yang tidak seimbang memperbesar pusaran ujung sayap dan memboroskan energi propulsi.
 
@@ -140,14 +140,14 @@ Dengan angka ilustrasi, ambil sebuah pesawat nirawak (UAV) dengan rentang sayap 
 | *Aspect ratio* ($\text{AR}$) | 12² / 17,28 | ≈ 8,33 |
 | *Mean aerodynamic chord* ($\text{MAC}$) | (2/3) × 1,8 × (1 + 0,6 + 0,36) / (1 + 0,6) | 1,47 m |
 
-### 6. Studi Kasus dan Aplikasi Dunia Nyata
+### 6. Contoh Planform pada Pesawat Nyata
 
 1. **Cessna 172 Skyhawk (Modified Rectangular / Tapered):** Mengutamakan kestabilan terbang dan keselamatan operasional. Pola pelepasan aliran bermula dari akar sayap, memberikan getaran peringatan (*buffet*) sebelum *stall* penuh terjadi, sekaligus mempertahankan efektivitas kendali kemudi guling.
 2. **Supermarine Spitfire (Elliptical):** Mengoptimalkan efisiensi gaya angkat subsonik dan meminimalkan *induced drag* selama pertempuran udara, meskipun memerlukan biaya manufaktur dan waktu perakitan yang sangat intensif.
 3. **Boeing 787 Dreamliner (Swept & Highly Tapered dengan Raked Wingtips):** Memadukan ketirusan tinggi, sudut sapu moderat, dan kelengkungan fleksibel (*aeroelastic wing*) untuk mencapai efisiensi bahan bakar maksimal pada angka Mach transonik ($M \approx 0.85$).
 4. **Glider / Sailplane Berperforma Tinggi (High Aspect Ratio Tapered):** Menggunakan sayap yang sangat panjang dan ramping ($\text{AR} > 25$) dengan *taper ratio* teroptimasi untuk menekan *induced drag* ke tingkat serendah mungkin, memungkinkan rasio luncur (*glide ratio*) melampaui $50:1$.
 
-### Ringkasan Pelajaran
+### Yang Perlu Kamu Ingat
 
 - **Planform** adalah geometri proyeksi sayap dari atas yang mengendalikan distribusi sirkulasi udara dan sifat induksi fluida.
 - **Distribusi Gaya Angkat Elips** merupakan acuan efisiensi aerodinamika tertinggi karena menghasilkan *downwash* seragam dan meminimalkan *induced drag*.

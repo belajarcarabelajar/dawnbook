@@ -1,12 +1,12 @@
 ## Strategi Dopamine Fasting dan Pengaturan Ulang
 
-Pernahkah kamu merasa bahwa aktivitas yang dulu sangat menyenangkan (seperti bermain video game, menonton serial favorit, atau menelusuri media sosial), kini terasa hambar dan membosankan? Namun, di saat yang sama, kamu merasa tidak bisa berhenti melakukannya. Kamu terjebak dalam kondisi di mana kamu "menginginkan" sesuatu tetapi tidak benar-benar "menikmatinya".
+Pernahkah kamu merasa bahwa bermain video game, menonton serial favorit, atau menelusuri media sosial kini terasa hambar dan membosankan? Aktivitas itu dulu sangat menyenangkan. Namun, di saat yang sama, kamu merasa tidak bisa berhenti melakukannya. Kamu terjebak dalam kondisi di mana kamu "menginginkan" sesuatu tetapi tidak benar-benar "menikmatinya".
 
 Ini adalah tanda bahwa sistem *reward* (imbalan) kamu mengalami **downregulation** atau penurunan sensitivitas reseptor. Bab ini akan membahas solusi praktis untuk masalah tersebut: **Dopamine Fasting** (Puasa Dopamin).
 
 ---
 
-### 1. Apa Itu Dopamine Fasting? (Menepis Mitos)
+### 1. Apa Itu Dopamine Fasting Sebenarnya?
 
 Sebelum masuk ke metode praktis, mari kita luruskan satu hal penting secara ilmiah: **kamu tidak bisa benar-benar "berpuasa" dari molekul dopamin.**
 
@@ -16,15 +16,15 @@ Dopamin adalah neurotransmiter yang selalu ada di otak dan sangat penting untuk 
 
 #### Sensor Cahaya di Kamar Gelap
 
-Bayangkan kamu berada di sebuah konser musik dengan lampu *strobe* yang sangat terang. Mata kamu akan menyesuaikan diri dengan cahaya yang menyilaukan itu. Namun, ketika kamu keluar ke ruangan dengan cahaya lampu biasa, ruangan itu akan terasa sangat gelap gulita. Kamu tidak bisa melihat detail apa pun sampai mata kamu beradaptasi kembali.
+Bayangkan kamu berada di sebuah konser musik dengan lampu *strobe* yang sangat terang. Mata kamu akan menyesuaikan diri dengan cahaya yang menyilaukan itu. Namun, ketika kamu keluar ke ruangan dengan cahaya lampu biasa, ruangan itu akan terasa gelap. Kamu tidak bisa melihat detail apa pun sampai mata kamu beradaptasi kembali.
 
-**Dopamine Fasting adalah proses "keluar dari konser" tersebut agar mata (otak) kamu bisa kembali melihat cahaya lilin yang redup namun indah.**
+**Dopamine Fasting adalah proses "keluar dari konser" tersebut agar mata (otak) kamu bisa kembali melihat cahaya yang redup.**
 
 ---
 
 ### 2. Mengapa Kita Perlu Pengaturan Ulang (Reset)?
 
-Secara neurobiologis, ketika otak dibombardir oleh lonjakan dopamin fasik (seperti dari notifikasi media sosial atau makanan tinggi gula), otak melakukan mekanisme pertahanan dengan mengurangi jumlah reseptor yang tersedia.
+Secara neurobiologis, ketika otak terus menerima lonjakan dopamin fasik (seperti dari notifikasi media sosial atau makanan tinggi gula), otak melakukan mekanisme pertahanan dengan mengurangi jumlah reseptor yang tersedia.
 
 Secara matematis, jika kita merepresentasikan tingkat stimulasi sebagai $S$ dan sensitivitas reseptor sebagai $R$, maka kepuasan yang dirasakan ($K$) dapat dirumuskan secara sederhana sebagai:
 
@@ -97,7 +97,7 @@ Jika kamu memutuskan untuk melakukan *24-hour reset*, ikuti langkah-langkah prak
 - **Strategi Pengaturan Ulang:**
   - **Minggu 1:** Implementasi *No-Phone Zone* di meja belajar. Ponsel diletakkan di ruangan berbeda.
   - **Minggu 2:** Melakukan *Dopamine Fasting* pada hari Minggu penuh. Tidak ada internet dan tidak ada game.
-- **Hasil:** Pada hari Senin, Budi merasa "lapar" akan informasi. Karena otak tidak lagi dibombardir video pendek, membaca buku teks yang biasanya membosankan kini terasa jauh lebih bisa ditoleransi. Fokusnya meningkat karena ambang batas (*threshold*) dopaminnya telah kembali normal.
+- **Hasil:** Pada hari Senin, Budi merasa "lapar" akan informasi. Karena otak tidak lagi terus menerima video pendek, membaca buku teks yang biasanya membosankan kini terasa jauh lebih bisa ditoleransi. Fokusnya meningkat karena ambang batas (*threshold*) dopaminnya telah kembali normal.
 
 ---
 
@@ -108,6 +108,6 @@ Puasa dopamin tidak akan berguna jika setelah selesai, kamu langsung kembali ke 
 - **Aturan 80/20:** Berikan 80% waktumu untuk aktivitas yang menghasilkan dopamin melalui usaha (olahraga, belajar, berkarya) dan 20% untuk kesenangan instan yang terkontrol.
 - **Gunakan "Rasa Bosan" sebagai Alat:** Jika kamu merasa sangat sulit untuk mulai bekerja, cobalah duduk diam selama 10 menit tanpa melakukan apa pun. Otakmu akan menjadi begitu bosan sehingga aktivitas bekerja akan terlihat lebih menarik daripada tidak melakukan apa-apa.
 
-> **Pesan Penting:** Kemampuan untuk menoleransi kebosanan adalah *superpower* di era digital. Dengan mengatur ulang sistem *reward*-mu, kamu tidak lagi dikendalikan oleh impuls, melainkan oleh tujuan yang bermakna.
+> **Pesan Penting:** Kemampuan untuk menoleransi kebosanan adalah keterampilan penting di era digital. Dengan mengatur ulang sistem *reward*-mu, kamu tidak lagi dikendalikan oleh impuls, melainkan oleh tujuan yang bermakna.
 
 > **Pertanyaan Penutup:** Dari semua stimulan eksternal (media sosial, makanan, game), mana yang paling mengendalikan hidupmu saat ini? Apa satu langkah kecil yang bisa kamu lakukan besok untuk mengurangi stimulasinya?

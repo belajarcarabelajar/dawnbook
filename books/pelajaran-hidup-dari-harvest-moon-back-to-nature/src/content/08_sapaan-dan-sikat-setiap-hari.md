@@ -8,7 +8,7 @@ Itulah jebakannya. Di *Harvest Moon: Back to Nature*, tidak ada satu tindakan be
 
 Tiap hewan punya ritualnya sendiri. Anjing cukup diangkat dan dipeluk, dan karena tidak perlu diberi makan, ia hanya meminta sedikit waktumu. Kuda juga bebas dari urusan pakan, tetapi ingin diajak bicara dan disikat. Sapi meminta paket lengkap: diajak bicara, disikat, lalu diperah. Domba cukup disapa dan disikat, begitu juga anak sapi, yang sebaiknya didatangi setiap hari supaya mulai menyukaimu. Ayam cukup diberi makan, dan sayangnya tumbuh lebih cepat kalau kamu menggendongnya.
 
-Semua itu harian, dan tidak ada yang terasa mendesak. Ditulis sebagai daftar, tugasnya terlihat sepele, dan justru karena sepele, ritual ini paling mudah dilewatkan pada hari ketika ladang sedang menuntut segalanya.
+Semua itu harian, dan tidak ada yang terasa mendesak. Ditulis sebagai daftar, tugasnya terlihat sepele, dan justru karena sepele, ritual ini paling mudah dilewatkan pada hari ketika pekerjaan ladang sedang menumpuk.
 
 ### Susu yang Bergantung pada Rasa Sayang
 
@@ -24,9 +24,9 @@ Obatnya tersedia di Poultry Farm atau Yodel Farm seharga 1.000 G. Namun buku str
 
 ### Masukkan Semua Hewan Sebelum Badai
 
-Cuaca adalah ujian terberat rutinitas ini. Sapi yang kehujanan kehilangan sebagian rasa sayangnya dan tidak memberi susu keesokan harinya. Ayam yang dibiarkan di luar saat hujan juga tidak bertelur esok hari, dan anjing yang ditinggal di luar dalam hujan atau salju ikut berkurang sayangnya. Pada hari hujan, sapi dan domba lebih baik tetap di kandang daripada dilepas ke padang rumput. Di musim dingin, hewan malah sama sekali tidak bisa dikeluarkan ke salju.
+Cuaca menguji rutinitas ini. Sapi yang kehujanan kehilangan sebagian rasa sayangnya dan tidak memberi susu keesokan harinya. Ayam yang dibiarkan di luar saat hujan juga tidak bertelur esok hari, dan anjing yang ditinggal di luar dalam hujan atau salju ikut berkurang sayangnya. Pada hari hujan, sapi dan domba lebih baik tetap di kandang daripada dilepas ke padang rumput. Di musim dingin, hewan malah sama sekali tidak bisa dikeluarkan ke salju.
 
-Badai di musim panas dan badai salju di musim dingin lebih kejam lagi. Si petani tidak bisa keluar rumah, badai sering berlangsung beberapa hari, dan ternak yang tertinggal di luar bisa terluka. Ayam bisa diterbangkan angin. Kasih sayang hewan tetap turun apa pun yang kamu lakukan, tetapi hewan yang tertinggal di luar mungkin tidak selamat. Karena itu, masukkan semuanya ke dalam. Selama badai, Harvest Sprites bisa menembus cuaca buruk untuk merawat hewanmu; tanpa mereka, hewan tidak makan dan bisa jatuh sakit.
+Badai di musim panas dan badai salju di musim dingin lebih berbahaya lagi. Si petani tidak bisa keluar rumah, badai sering berlangsung beberapa hari, dan ternak yang tertinggal di luar bisa terluka. Ayam bisa diterbangkan angin. Kasih sayang hewan tetap turun apa pun yang kamu lakukan, tetapi hewan yang tertinggal di luar mungkin tidak selamat. Karena itu, masukkan semuanya ke dalam. Selama badai, Harvest Sprites bisa menembus cuaca buruk untuk merawat hewanmu; tanpa mereka, hewan tidak makan dan bisa jatuh sakit.
 
 Setelah badai reda, cara memulihkannya sederhana: rawat hewan dengan sangat baik sampai rasa sayangnya kembali naik. Satu kejadian buruk tidak menghapus semua tabungan. Rutinitas yang dijalankan lagi keesokan paginya adalah perbaikannya.
 

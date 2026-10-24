@@ -1,5 +1,5 @@
 ## Determinan yang Mempengaruhi Elastisitas Permintaan
-Mengapa kenaikan harga tiket pesawat sebesar 10% bisa membuat orang beralih menggunakan kereta api, sementara kenaikan harga garam sebesar 50% tidak membuat ibu rumah tangga berhenti membelinya? Jawabannya terletak pada **Determinan Elastisitas Permintaan**.
+Mengapa kenaikan harga tiket pesawat sebesar 10% bisa membuat orang beralih menggunakan kereta api, sementara kenaikan harga garam 50% tidak? Ibu rumah tangga tidak berhenti membeli garam. Jawabannya terletak pada **Determinan Elastisitas Permintaan**.
 Setelah memahami apa itu elastisitas dan bagaimana cara menghitungnya pada bab sebelumnya, sekarang kita akan membedah mengapa sebuah produk bisa sangat sensitif terhadap harga (elastis) atau justru sangat cuek terhadap perubahan harga (inelastis).
 ## 1. Ketersediaan Barang Substitusi (Barang Pengganti)
 Ini adalah faktor yang paling utama. Bayangkan kamu sedang berada di sebuah *food court*. Jika stan "Ayam Goreng A" menaikkan harganya secara drastis, kamu dengan mudah bisa bergeser ke stan "Ayam Goreng B" atau "Mie Goreng C".
@@ -7,14 +7,14 @@ Ini adalah faktor yang paling utama. Bayangkan kamu sedang berada di sebuah *foo
 - **Sedikit/Tidak Ada Substitusi = Inelastis:** Jika suatu barang unik atau tidak ada penggantinya (seperti bensin atau obat-obatan tertentu), konsumen terpaksa membeli meskipun harga melonjak.
 > **Analogi:** Bayangkan pintu keluar di sebuah gedung. Jika gedung memiliki 10 pintu keluar (substitusi), saat satu pintu ditutup/dihambat, orang akan dengan mudah lewat pintu lain. Namun jika hanya ada satu pintu (monopoli/tanpa substitusi), orang akan tetap mengantre di sana sesulit apa pun aksesnya.
 ## 2. Barang Kebutuhan vs. Barang Mewah
-Sejauh mana kamu "harus" memiliki barang tersebut sangat menentukan reaksi kamu terhadap harganya.
+Sejauh mana kamu "harus" memiliki barang tersebut menentukan reaksi kamu terhadap harganya.
 - **Kebutuhan Pokok (Necessities):** Barang-barang seperti beras, listrik, dan air cenderung **inelastis**. Meskipun harganya naik, orang terus membelinya karena sulit untuk bertahan hidup tanpanya.
 - **Barang Mewah (Luxuries):** Barang seperti jam tangan mahal, liburan ke luar negeri, atau perhiasan cenderung **elastis**. Jika harganya naik, orang bisa dengan mudah menunda pembelian atau membatalkannya karena barang tersebut bukan prioritas utama untuk bertahan hidup.
 Sebagai contoh, apakah smartphone saat ini masih tergolong barang mewah, atau sudah bergeser menjadi kebutuhan pokok bagi kamu? Pergeseran persepsi ini akan mengubah elastisitas permintaannya.
 ## 3. Proporsi Pendapatan yang Dihabiskan
-Besarnya anggaran yang kamu keluarkan untuk sebuah barang dibandingkan dengan total pendapatan kamu sangat berpengaruh.
+Besarnya anggaran yang kamu keluarkan untuk sebuah barang dibandingkan dengan total pendapatan kamu berpengaruh.
 - **Porsi Kecil (Inelastis):** Ambil contoh harga garam atau korek api kayu. Jika harga garam naik dari Rp2.000 menjadi Rp3.000 (naik 50%), kamu mungkin tidak akan terlalu peduli karena pengeluaran tersebut sangat kecil dibanding gaji bulanan kamu.
-- **Porsi Besar (Elastis):** Sebaliknya, pertimbangkan harga mobil atau cicilan rumah. Kenaikan 5% saja pada harga rumah akan memakan porsi pendapatan yang sangat besar, sehingga calon pembeli akan berpikir dua kali atau mencari alternatif lain.
+- **Porsi Besar (Elastis):** Sebaliknya, pertimbangkan harga mobil atau cicilan rumah. Kenaikan 5% saja pada harga rumah akan memakan porsi pendapatan yang besar, sehingga calon pembeli akan berpikir dua kali atau mencari alternatif lain.
 **Hubungan Matematis Sederhana:** Jika pengeluaran untuk barang $X$ adalah $P \times Q$, maka:
 
 $$
@@ -23,7 +23,7 @@ $$
 
 Semakin besar rasio ini, semakin tinggi kecenderungan elastisitasnya.
 ## 4. Jangka Waktu Analisis
-Waktu adalah faktor yang sering terlupakan namun sangat menentukan bagaimana konsumen beradaptasi.
+Waktu adalah faktor yang sering terlupakan namun menentukan bagaimana konsumen beradaptasi.
 - **Jangka Pendek (Inelastis):** Saat harga bensin naik tiba-tiba hari ini, kamu mungkin tetap membelinya karena harus pergi bekerja dan belum punya alternatif lain. Permintaan cenderung kaku dalam jangka pendek.
 - **Jangka Panjang (Elastis):** Dalam jangka panjang, konsumen bisa menyesuaikan perilaku. Mereka mungkin mulai membeli motor listrik, menggunakan transportasi umum, atau pindah tempat tinggal yang lebih dekat dengan kantor.
 ## 5. Definisi Pasar (Cakupan Barang)

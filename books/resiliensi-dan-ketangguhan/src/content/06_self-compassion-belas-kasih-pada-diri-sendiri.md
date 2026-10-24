@@ -1,6 +1,6 @@
 ## Self-Compassion
 
-Bayangkan seorang sahabat baikmu datang dengan wajah lesu dan bercerita bahwa ia baru saja melakukan kesalahan fatal di kantor yang membuatnya merasa gagal total. Apa yang akan kamu katakan padanya? Apakah kamu akan membentaknya, menyebutnya "bodoh", atau menyuruhnya untuk "menyerah saja karena memang tidak berbakat"?
+Bayangkan seorang sahabat baikmu datang dengan wajah lesu dan bercerita bahwa ia baru saja melakukan kesalahan fatal di kantor. Hal itu membuatnya merasa gagal total. Apa yang akan kamu katakan padanya? Apakah kamu akan membentaknya, menyebutnya "bodoh", atau menyuruhnya untuk "menyerah saja karena memang tidak berbakat"?
 
 Tentu tidak. Kemungkinan besar, kamu akan menawarkan pelukan, secangkir kopi, dan kata-kata yang menenangkan seperti, *"Semua orang melakukan kesalahan, kita cari solusinya bersama ya."*
 
@@ -28,7 +28,7 @@ Kita perlu mengenali bahwa kita sedang menderita tanpa melebih-lebihkannya. Kita
 
 ## Dampak Self-Compassion terhadap Pemulihan Mental
 
-Mengapa self-compassion sangat penting bagi resiliensi? Secara biologis, ketika kita mengkritik diri sendiri dengan kejam, otak kita mengaktifkan sistem **"Threat Defense"** (Amigdala). Ini melepaskan hormon stres seperti kortisol.
+Mengapa self-compassion penting bagi resiliensi? Secara biologis, ketika kita mengkritik diri sendiri dengan kejam, otak kita mengaktifkan sistem **"Threat Defense"** (Amigdala). Ini melepaskan hormon stres seperti kortisol.
 
 Sebaliknya, self-compassion mengaktifkan sistem **"Caregiving"** yang melepaskan **Oksitosin** dan **Endorfin**. Secara matematis, kita bisa melihat hubungan antara resiliensi ($\text{R}$) dan belas kasih ($\text{SC}$) sebagai berikut:
 
@@ -75,10 +75,10 @@ Ini adalah teknik kinestetik dan reflektif untuk melatih otot self-compassion-mu
 2. **Common Humanity:** "Setiap senior *developer* pasti pernah melakukan kesalahan teknis besar setidaknya sekali dalam karier mereka. Saya tidak sendirian."
 3. **Self-Kindness:** "Saya akan fokus memperbaiki sistem sekarang. Setelah ini, saya akan beristirahat karena otak saya butuh kejernihan untuk membuat laporan evaluasi yang jujur tanpa menghancurkan diri sendiri."
 
-## Kekuatan dalam Kelembutan
+## Belajar dari Kesalahan tanpa Menghukum Diri
 
 Self-compassion tidak berarti memaafkan perilaku buruk atau mengabaikan tanggung jawab. Sebaliknya, ini adalah tentang memberikan dirimu **ruang aman** untuk belajar dari kesalahan tanpa harus hancur oleh kritik internal yang destruktif.
 
-> **Key Takeaway:** Belas kasih pada diri sendiri adalah bahan bakar rahasia di balik resiliensi. Saat badai kehidupan datang, mereka yang bersikap lembut pada diri sendiri akan melengkung mengikuti angin tanpa patah, lalu kembali tegak dengan lebih kuat.
+> **Key Takeaway:** Belas kasih pada diri sendiri menopang resiliensi. Saat masa sulit datang, mereka yang bersikap lembut pada diri sendiri akan melengkung mengikuti angin tanpa patah, lalu kembali tegak dengan lebih kuat.
 
 *Refleksi:* Apa satu kalimat penyemangat yang paling kamu butuhkan untuk didengar saat ini? Cobalah ucapkan itu pada dirimu sendiri di depan cermin sebelum tidur malam ini.

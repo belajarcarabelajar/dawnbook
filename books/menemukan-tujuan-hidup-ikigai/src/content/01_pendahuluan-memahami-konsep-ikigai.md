@@ -1,6 +1,6 @@
 ## Memahami Konsep Ikigai
 
-Mari mulai perjalanan mengenali filosofi Jepang tentang menemukan makna: Ikigai. Di bagian ini, kita membedah inti Ikigai, alasan filosofi ini sangat relevan di tengah tuntutan hidup modern, dan pengaruhnya terhadap kesejahteraan diri.
+Mari mulai perjalanan mengenali filosofi Jepang tentang menemukan makna: Ikigai. Di bagian ini, kita membedah inti Ikigai, alasan filosofi ini relevan di tengah tuntutan hidup modern, dan pengaruhnya terhadap kesejahteraan diri.
 
 ### Apa Itu Ikigai?
 
@@ -14,7 +14,7 @@ Esensi dari Ikigai sering kali muncul pada momen-momen ketika kamu merasa benar-
 
 Istilah "Ikigai" diperkirakan berasal dari zaman Heian (794–1185 Masehi). Kata ini terbentuk dari gabungan "Iki" (生き) yang berarti "kehidupan", dan "gai" (甲斐) yang bermakna "nilai" atau "hasil". Bila digabungkan, maknanya merujuk pada "nilai sebuah kehidupan".
 
-Pola pikir ini sudah mendarah daging di Jepang. Bukti paling terkenal ada di Okinawa, kawasan dengan persentase penduduk berumur panjang yang sangat tinggi. Banyak penelitian menyoroti kebiasaan warga Okinawa mempraktikkan Ikigai. Mereka punya alasan kuat untuk terus bergerak, yang pada akhirnya ikut menopang kesehatan fisik serta kebahagiaan mereka di usia senja.
+Pola pikir ini sudah melekat dalam budaya Jepang. Bukti paling terkenal ada di Okinawa, kawasan dengan persentase penduduk berumur panjang yang tinggi. Banyak penelitian menyoroti kebiasaan warga Okinawa mempraktikkan Ikigai. Mereka punya alasan kuat untuk terus bergerak, yang pada akhirnya ikut menopang kesehatan fisik serta kebahagiaan mereka di usia senja.
 
 ### Relevansi Ikigai di Dunia Modern
 
@@ -24,10 +24,10 @@ Selain itu, orang yang memiliki pegangan tujuan biasanya lebih stabil secara men
 
 ### Pengaruhnya Terhadap Kesejahteraan Pribadi
 
-Mengenali Ikigai sama dengan berinvestasi panjang untuk diri sendiri. Penerapan konsep ini sanggup mengubah cara kamu menghadapi rutinitas yang membosankan.
+Mengenali Ikigai bermanfaat bagi dirimu dalam jangka panjang. Penerapan konsep ini sanggup mengubah cara kamu menghadapi rutinitas yang membosankan.
 
-Saat kamu paham alasan dasar di balik sebuah tindakan, energi rasanya sulit habis. Kegagalan pun berubah wujud menjadi rute memutar sementara. Ikigai membantumu menyortir prioritas, membuat keputusan karier dan alokasi waktu bebas menjadi jauh lebih jelas dan terarah.
+Saat kamu paham alasan dasar di balik sebuah tindakan, semangatmu lebih mudah terjaga. Kegagalan terasa sebagai jalan memutar sementara. Ikigai membantumu menyortir prioritas, membuat keputusan karier dan alokasi waktu bebas menjadi lebih jelas dan terarah.
 
-Ikatan sosial juga mendapat imbas positif. Saat kita menghidupi peran yang sejalan dengan panggilan jiwa, hubungan dengan komunitas di sekitar secara otomatis membaik. Apalagi saat badai masalah datang, nilai hidup inilah yang akan menjadi jangkar untuk menahanmu tetap tegak berdiri.
+Ikatan sosial juga mendapat imbas positif. Saat kita menghidupi peran yang sejalan dengan nilai yang kita pegang, hubungan dengan komunitas di sekitar ikut membaik. Saat masalah berat datang, nilai hidup inilah yang menjadi pegangan agar kamu tidak goyah.
 
 **Penting:** Perlu diingat bahwa Ikigai tidak pernah statis. Ini merupakan proses adaptasi seumur hidup seiring pergeseran minat, tingkat kedewasaan, dan perubahan kondisi lingkungan sekitarmu.

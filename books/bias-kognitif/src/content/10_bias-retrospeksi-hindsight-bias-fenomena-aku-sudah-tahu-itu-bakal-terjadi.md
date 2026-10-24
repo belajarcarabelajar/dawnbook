@@ -1,6 +1,6 @@
 ## Bias Retrospeksi (Hindsight Bias)
 
-Pernahkah kamu menonton pertandingan sepak bola di mana tim favorit kamu kalah, lalu teman kamu berkata, *"Sudah kuduga mereka bakal kalah, taktiknya saja sudah salah sejak awal"*? Padahal, sebelum pertandingan dimulai, teman kamu tersebut sangat yakin timnya akan menang.
+Pernahkah kamu menonton pertandingan sepak bola di mana tim favorit kamu kalah, lalu teman kamu berkata seolah sudah tahu hasilnya? *"Sudah kuduga mereka bakal kalah, taktiknya saja sudah salah sejak awal."* Padahal, sebelum pertandingan dimulai, teman kamu tersebut sangat yakin timnya akan menang.
 
 Inilah yang disebut dengan **Bias Retrospeksi** atau *Hindsight Bias*. Fenomena ini sering dijuluki sebagai efek **"I-knew-it-all-along"** (Saya-sudah-tahu-sejak-awal).
 
@@ -10,7 +10,7 @@ Inilah yang disebut dengan **Bias Retrospeksi** atau *Hindsight Bias*. Fenomena 
 
 Begitu kita mengetahui hasil dari sebuah peristiwa, otak kita cenderung "menulis ulang" ingatan kita seolah-olah kita telah memperkirakan hasil tersebut dengan akurat. Hal ini menciptakan ilusi bahwa dunia ini lebih teratur dan dapat diprediksi daripada kenyataan yang sebenarnya yang penuh dengan ketidakpastian.
 
-### Mengapa Ini Terjadi?
+### Otak Pencari Pola
 
 Otak manusia adalah mesin pencari pola. Ketika sesuatu terjadi, otak kita segera mencari penjelasan logis mengapa hal itu terjadi. Begitu penjelasan ditemukan, ingatan kita tentang ketidakpastian yang kita rasakan di masa lalu akan terhapus dan digantikan oleh narasi baru yang "masuk akal".
 
@@ -34,7 +34,7 @@ Kamu lupa bahwa saat kamu berada di titik tersebut, pandangan kamu terhalang kab
 
 ## Dampak dalam Pengambilan Keputusan
 
-Bias ini bisa sangat berbahaya dalam berbagai aspek kehidupan karena:
+Bias ini bisa berbahaya dalam berbagai aspek kehidupan karena:
 
 - **Menghambat Pembelajaran:** Jika kita merasa sudah tahu segalanya, kita tidak akan mengevaluasi mengapa keputusan awal kita mungkin salah.
 - **Menyalahkan Orang Lain (Blaming):** Kita sering menghakimi pembuat keputusan (pemimpin politik, dokter, atau manajer) karena hasil yang buruk, dengan asumsi bahwa mereka "seharusnya tahu" apa yang akan terjadi.

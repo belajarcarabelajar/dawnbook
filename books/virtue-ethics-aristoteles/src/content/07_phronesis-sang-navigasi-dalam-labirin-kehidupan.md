@@ -17,9 +17,9 @@ Sebagai perbandingan, ada koki yang sangat bergantung pada buku resep dan takara
 Aristoteles membagi kebijaksanaan intelektual menjadi dua bentuk utama:
 
 1. **Sophia (Kebijaksanaan Teoritis):** Fokus pada pemahaman kebenaran universal dan abadi. Contohnya adalah matematika atau hukum alam empiris, seperti persamaan fisika $F = m \cdot a$.
-2. **Phronesis (Kebijaksanaan Praktis):** Mengurus hal-hal yang sifatnya dinamis, tidak pasti, serta sangat bergantung pada konteks sosial dan tindakan manusia.
+2. **Phronesis (Kebijaksanaan Praktis):** Mengurus hal-hal yang sifatnya dinamis, tidak pasti, serta bergantung pada konteks sosial dan tindakan manusia.
 
-Seorang anak berumur 10 tahun bisa saja menjadi jenius matematika karena penguasaan *Sophia*. Tapi sangat tidak masuk akal jika anak tersebut memimpin sebuah negara atau mengambil keputusan etis yang rumit. Mengapa? Karena *Phronesis* menuntut asam garam kehidupan dan observasi jangka panjang.
+Seorang anak berumur 10 tahun bisa saja menjadi jenius matematika karena penguasaan *Sophia*. Tapi tidak masuk akal jika anak tersebut memimpin sebuah negara atau mengambil keputusan etis yang rumit. Mengapa? Karena *Phronesis* menuntut asam garam kehidupan dan observasi jangka panjang.
 
 ## 2\. Komponen Utama Phronesis
 
@@ -29,7 +29,7 @@ Pengalaman ini kemudian memicu **Pemahaman Konteks**. Orang yang bijak secara pr
 
 Selanjutnya adalah proses **Bouleusis** (deliberasi). Ini adalah fase di mana seseorang menimbang-nimbang berbagai opsi tindakan yang mungkin dilakukan sebelum akhirnya mengambil keputusan. Seluruh proses ini didukung oleh **Sunesis** (ketajaman akal), yaitu ketangkasan membaca situasi orang lain secara empatik dan akurat.
 
-## 3\. Phronesis sebagai Kompas "Jalan Tengah"
+## 3\. Phronesis Menentukan Jalan Tengah
 
 Meskipun Doktrin Jalan Tengah memberikan panduan teoretis, menemukan letak pasti titik tengah itu di lapangan adalah urusan lain. Titik tengah etis sama sekali bukan rata-rata matematika yang kaku.
 
@@ -39,7 +39,7 @@ $$
 $$
 </div>
 
-Keseimbangan moral sangat dinamis dan berubah-ubah sesuai konteks. Di sinilah *Phronesis* berfungsi sebagai alat navigasi. 
+Keseimbangan moral bersifat dinamis dan berubah-ubah sesuai konteks. Di sinilah *Phronesis* berfungsi sebagai alat navigasi. 
 
 Ambil contoh keberanian. Di medan perang, keberanian berarti maju menghadapi musuh secara fisik. Tapi di lingkungan kantor, keberanian bisa berwujud keputusan seorang saksi mata yang melaporkan kasus korupsi. *Phronesis* memandu kamu membaca situasi, kapan harus mengambil langkah berani yang frontal dan kapan strategi lain lebih aman sekaligus efektif.
 
@@ -72,13 +72,13 @@ Mari lihat bagaimana konsep ini diterapkan di dunia nyata. Bayangkan seorang man
 
 Jika bertindak tanpa *Phronesis*, manajer itu akan langsung menerbitkan SP layaknya mesin birokrasi kaku. Namun dengan *Phronesis*, ia mengukur tujuan jangka panjang: mempertahankan talenta yang sudah terbukti kualitasnya dan membangun loyalitas tim. Sang manajer mungkin akan memilih memberikan cuti pendek atau akses konseling, sembari tetap menyepakati target pemulihan di bulan berikutnya. Langkah ini menyeimbangkan keadilan bagi jalannya perusahaan dengan belas kasih terhadap individu.
 
-Contoh lain bisa kita temukan di ranah pengembangan produk. Seorang *engineer* menemukan celah keamanan minor pada perangkat lunak bernilai jutaan dolar yang dijadwalkan rilis keesokan harinya. Tanpa *Phronesis*, ia mungkin akan tutup mata karena menganggapnya sepele, atau sebaliknya, panik luar biasa dan meminta pembatalan sepihak tanpa rencana mitigasi.
+Contoh lain bisa kita temukan di ranah pengembangan produk. Seorang *engineer* menemukan celah keamanan minor pada perangkat lunak bernilai jutaan dolar yang dijadwalkan rilis keesokan harinya. Tanpa *Phronesis*, ia mungkin akan tutup mata karena menganggapnya sepele, atau sebaliknya, panik dan meminta pembatalan sepihak tanpa rencana mitigasi.
 
-Sebaliknya, *engineer* yang mempraktikkan *Phronesis* akan menelaah risiko secara teknis maupun etis. Ia menimbang-nimbang: apakah celah ini mempertaruhkan data fatal pengguna? Jika jawabannya ya, ia akan tegar meminta penundaan rilis. Namun jika risikonya sangat minimal dan terisolasi, ia mungkin menyetujui peluncuran sambil menyiapkan *patch* keamanan susulan, didampingi komunikasi yang transparan ke para pemangku kepentingan.
+Sebaliknya, *engineer* yang mempraktikkan *Phronesis* akan menelaah risiko secara teknis maupun etis. Ia menimbang-nimbang: apakah celah ini mempertaruhkan data fatal pengguna? Jika jawabannya ya, ia akan tegar meminta penundaan rilis. Namun jika risikonya minimal dan terisolasi, ia mungkin menyetujui peluncuran sambil menyiapkan *patch* keamanan susulan, didampingi komunikasi yang transparan ke para pemangku kepentingan.
 
 ## 6\. Mengapa Phronesis Penting di Era Modern?
 
-Kita hidup di dunia yang semakin diatur oleh algoritma otomatis dan lapis-lapis birokrasi. Dalam kondisi ini, manusia rentan kehilangan intuisinya untuk berpikir kritis secara moral. Konsep *Phronesis* hadir sebagai pengingat keras bahwa pertimbangan etis tidak akan pernah bisa diotomatisasi.
+Kita hidup di dunia yang semakin diatur oleh algoritma otomatis dan lapis-lapis birokrasi. Dalam kondisi ini, manusia rentan kehilangan intuisinya untuk berpikir kritis secara moral. Konsep *Phronesis* hadir sebagai pengingat bahwa pertimbangan etis tidak akan pernah bisa diotomatisasi.
 
 Aturan tertulis memang mampu menciptakan koridor batasan, namun *Phronesis* lah yang memberikan kejelasan arah. Sering kali kita menjumpai orang yang berniat baik namun berakhir memperburuk keadaan karena mereka patuh secara buta pada prosedur baku tanpa membaca kondisi riil di lapangan.
 

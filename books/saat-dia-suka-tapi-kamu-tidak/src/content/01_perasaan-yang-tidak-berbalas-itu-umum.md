@@ -26,7 +26,7 @@ Sebelum menarik kesimpulan, ada tiga batasan yang perlu kamu ingat dari [penelit
 - Yang diukur adalah sisi orang yang menyimpan rasa, bukan sisi orang yang disukai.
 - Hitungannya ikut memasukkan rasa naksir pada selebritas, yang tentu berbeda dengan disukai oleh teman sendiri.
 
-Karena itu, angka 88% sebaiknya dibaca sebagai petunjuk bahwa pengalaman ini lazim, bukan sebagai ukuran pasti untuk semua orang. Meski begitu, pesannya tetap berguna. Kalau kamu pernah atau sedang mengalaminya, kamu sama sekali tidak sendirian.
+Karena itu, angka 88% sebaiknya dibaca sebagai petunjuk bahwa pengalaman ini lazim, bukan sebagai ukuran pasti untuk semua orang. Meski begitu, pesannya tetap berguna. Kalau kamu pernah atau sedang mengalaminya, kamu tidak sendirian.
 
 ### Cinta Tak Berbalas Menekan Dua Pihak
 
@@ -36,7 +36,7 @@ Kalimat itu penting untuk buku ini. Orang yang disukai bukan tokoh jahat yang di
 
 Apa yang dirasakan pihak yang menolak akan dibahas di bab 6 nanti. Cara menyampaikan penolakan dengan jelas ada di bab 7, sedangkan sisi orang yang tidak dipilih menjadi pokok bab 9.
 
-### Peta Perjalanan Buku Ini
+### Gambaran Isi Buku Ini
 
 Buku ini ditulis terutama untuk kamu yang sedang disukai seseorang, tetapi tidak merasakan hal yang sama. Berikut gambaran singkat isinya:
 

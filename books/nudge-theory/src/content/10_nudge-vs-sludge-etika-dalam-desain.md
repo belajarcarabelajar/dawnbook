@@ -1,6 +1,6 @@
 ## Nudge vs Sludge dan Etika dalam Desain
 
-Dalam dunia *choice architecture*, kita belajar bahwa tidak ada desain yang netral. Setiap elemen dalam sebuah sistem (mulai dari urutan menu di kantin hingga tombol di aplikasi ponsel) akan memengaruhi keputusan seseorang. Namun, kekuatan untuk memengaruhi ini membawa tanggung jawab besar.
+Dalam *choice architecture*, kita belajar bahwa tidak ada desain yang netral. Setiap elemen dalam sebuah sistem (mulai dari urutan menu di kantin hingga tombol di aplikasi ponsel) akan memengaruhi keputusan seseorang. Namun, kemampuan untuk memengaruhi ini membawa tanggung jawab.
 
 Apakah kita sedang membantu orang mencapai tujuan mereka (*nudge*), atau kita justru mempersulit hidup mereka demi keuntungan kita sendiri (*sludge*)?
 
@@ -74,7 +74,7 @@ Etika tidak hanya tentang menghindari hal buruk, tetapi juga aktif memperbaiki s
 
 Langkah pertama adalah melakukan *sludge audit* untuk mengidentifikasi di mana pelanggan atau karyawanmu mengalami hambatan yang tidak perlu, seperti formulir panjang atau birokrasi berbelit-belit. Selain itu, buatlah *default option* yang membantu dengan memastikan pilihan standar selalu menjadi opsi paling aman dan menguntungkan bagi pengguna awam.
 
-## 5\. Perang Melawan Sludge
+## 5\. Contoh Kasus Sludge
 
 ### Sludge pada Pendaftaran Universitas
 
@@ -84,7 +84,7 @@ Di beberapa negara, formulir *financial aid* mahasiswa sangat rumit sehingga ban
 
 Penerapan *sludge* biasanya terlihat saat tombol "Terima Semua Cookies" dibuat sangat mencolok, sementara opsi menolak disembunyikan di balik berlapis-lapis menu. Sebaliknya, *nudge* yang etis akan menyajikan dua pilihan dengan bobot visual yang seimbang sejak awal: "Terima Semua" dan "Atur Preferensi Saya".
 
-## Ringkasan Materi
+## Inti Perbedaan Nudge dan Sludge
 
 > **Penting:**
 > 

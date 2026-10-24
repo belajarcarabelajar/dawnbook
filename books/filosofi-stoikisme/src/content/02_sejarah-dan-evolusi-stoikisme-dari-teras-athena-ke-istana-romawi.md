@@ -1,6 +1,6 @@
 ## Sejarah dan Evolusi Stoikisme
 
-Selamat datang di perjalanan melintasi waktu. Untuk memahami Stoikisme, kita tidak bisa hanya membaca kutipan-kutipan bijak di Instagram. Kita harus kembali ke titik nol: sebuah kapal yang karam, seorang pedagang yang kehilangan segalanya, dan sebuah teras umum di jantung kota Athena.
+Kutipan-kutipan bijak Stoik mudah ditemukan di Instagram, tetapi kutipan saja tidak cukup untuk memahami dari mana filsafat ini berasal. Kita harus kembali ke titik nol: sebuah kapal yang karam, seorang pedagang yang kehilangan segalanya, dan sebuah teras umum di jantung kota Athena.
 
 Stoikisme bukanlah filsafat yang lahir di menara gading yang terisolasi. Ia lahir di jalanan, diuji oleh kesulitan hidup yang nyata, dan berevolusi selama lebih dari lima abad hingga menjadi kompas moral bagi budak maupun kaisar.
 
@@ -16,7 +16,7 @@ Zeno kemudian belajar di bawah asuhan berbagai guru filsafat (seperti kaum Sinis
 
 ## 2\. Tiga Periode Utama Stoikisme
 
-Evolusi Stoikisme selama kurang lebih 500 tahun dapat dibagi menjadi tiga fase besar. Setiap fase memberikan kontribusi unik pada bangunan besar filsafat ini.
+Evolusi Stoikisme selama kurang lebih 500 tahun dapat dibagi menjadi tiga fase besar. Setiap fase memberikan kontribusi unik pada filsafat ini.
 
 ### A. Stoa Awal (Abad ke-3 - ke-2 SM)
 
@@ -24,7 +24,7 @@ Pada fase ini, Stoikisme fokus pada pengembangan sistem logika, fisika (pemahama
 
 - **Zeno dari Citium:** Sang pendiri.
 - **Cleanthes:** Penerus Zeno yang menekankan dimensi spiritual/religius dalam alam semesta.
-- **Chrysippus:** Dikenal sebagai "Pendiri Kedua". Ia adalah seorang jenius logika yang menulis ratusan buku. Tanpanya, Stoikisme mungkin akan terlupakan.
+- **Chrysippus:** Dikenal sebagai "Pendiri Kedua". Ia adalah seorang ahli logika yang menulis ratusan buku. Tanpanya, Stoikisme mungkin akan terlupakan.
 	- *Logika Stoik:* Jika $P$ maka $Q$; dan $P$ terjadi; maka $Q$ terjadi.
 
 ### B. Stoa Madya (Abad ke-2 - ke-1 SM)
@@ -38,7 +38,7 @@ Pada masa ini, Stoikisme mulai menyebar ke Roma. Para filsuf mulai melunakkan be
 
 Inilah era yang paling kita kenal sekarang. Pada periode ini, diskusi teoritis tentang logika dan fisika mulai berkurang, digantikan oleh fokus penuh pada **Etika** dan **pengembangan karakter**.
 
-- Di sini kita menemukan tiga tokoh raksasa: **Seneca** (negarawan), **Epictetus** (mantan budak), dan **Marcus Aurelius** (kaisar).
+- Di sini kita menemukan tiga tokoh utama: **Seneca** (negarawan), **Epictetus** (mantan budak), dan **Marcus Aurelius** (kaisar).
 
 Ketiga periode itu, beserta tokoh-tokohnya, terangkum dalam garis waktu ini.
 
@@ -54,7 +54,7 @@ timeline
 
 ## 3\. Transformasi di Kekaisaran Romawi
 
-Mengapa orang Romawi begitu mencintai Stoikisme? Jawabannya ada pada karakter bangsa Romawi itu sendiri: mereka adalah orang-orang yang menghargai tugas (*duty*), disiplin, dan keteguhan hati.
+Mengapa orang Romawi mencintai Stoikisme? Jawabannya ada pada karakter bangsa Romawi itu sendiri: mereka adalah orang-orang yang menghargai tugas (*duty*), disiplin, dan keteguhan hati.
 
 Stoikisme di Romawi bertransformasi dari sekadar "teori tentang alam semesta" menjadi **"seni untuk hidup"** (*Ars Vivendi*).
 
@@ -68,7 +68,7 @@ Di zaman Romawi, orang-orang tidak lagi terlalu peduli dengan akarnya; mereka la
 
 ## 4\. Keberagaman Pengikut
 
-Salah satu bukti luar biasa dari evolusi Stoikisme adalah bagaimana ia bisa merangkul spektrum sosial yang begitu luas. Ini membuktikan bahwa prinsip-prinsip Stoik bersifat universal.
+Salah satu bukti dari evolusi Stoikisme adalah bagaimana ia bisa merangkul spektrum sosial yang luas. Ini membuktikan bahwa prinsip-prinsip Stoik bersifat universal.
 
 | Tokoh | Latar Belakang | Fokus Pemikiran |
 | --- | --- | --- |
@@ -76,7 +76,7 @@ Salah satu bukti luar biasa dari evolusi Stoikisme adalah bagaimana ia bisa mera
 | **Seneca** | Penasihat kaisar dan orang terkaya di Roma. | Bagaimana menggunakan kekayaan tanpa menjadi budaknya. |
 | **Marcus Aurelius** | Orang paling berkuasa di dunia (Kaisar). | Menjaga kerendahan hati dan integritas di tengah kekuasaan absolut. |
 
-*Pertanyaan Filosofis: Jika sebuah filsafat mampu memberikan kedamaian batin yang sama bagi seorang budak maupun seorang kaisar yang memimpin dunia, bukankah itu menunjukkan adanya kebenaran fundamental di dalamnya?*
+*Pertanyaan Filosofis: Jika sebuah filsafat mampu memberikan kedamaian batin yang sama bagi seorang budak maupun seorang kaisar, bukankah itu menunjukkan adanya kebenaran fundamental di dalamnya?*
 
 ## 5\. Stoikisme dalam Sejarah
 
@@ -87,10 +87,10 @@ Bagaimana sejarah Stoikisme ini membantu kita di dunia modern?
 1. **Perspektif Zeno:** Alih-alih melihatnya sebagai bencana, Zeno melihatnya sebagai peluang untuk beralih profesi ke bidang yang lebih ia cintai (filsafat). Ia berkata, *"Perjalanan saya yang paling sukses dimulai saat saya mengalami kecelakaan kapal."*
 2. **Penerapan Modern:** Sejarah evolusi Stoikisme mengajarkan kita bahwa tantangan eksternal hanyalah "bahan mentah" bagi karakter kita. Seperti Stoikisme yang berevolusi dari Yunani ke Romawi untuk menyesuaikan diri dengan zaman, kita juga harus mampu beradaptasi tanpa kehilangan prinsip inti kita.
 
-## Warisan yang Tak Padam
+## Pengaruh Stoikisme Setelah Romawi
 
-Stoikisme tidak mati bersama runtuhnya Kekaisaran Romawi. Ia "berhibernasi" dalam tulisan-tulisan para Bapa Gereja, muncul kembali di era Renaissance, memengaruhi para pemikir Pencerahan, dan kini meledak kembali di era digital melalui terapi kognitif perilaku (CBT) dan gerakan pengembangan diri.
+Stoikisme tidak mati bersama runtuhnya Kekaisaran Romawi. Ia "berhibernasi" dalam tulisan-tulisan para Bapa Gereja, muncul kembali di era Renaissance, memengaruhi para pemikir Pencerahan, dan kini populer kembali di era digital melalui terapi kognitif perilaku (CBT) dan gerakan pengembangan diri.
 
 Evolusi Stoikisme menunjukkan satu hal: **Selama manusia masih menghadapi penderitaan, ketidakpastian, dan kematian, prinsip-prinsip yang diajarkan di Teras Berwarna Athena akan selalu relevan.**
 
-> **Insight:** Stoikisme bukanlah tentang menjadi orang yang tidak punya perasaan, melainkan tentang membangun ketangguhan sejarah dalam diri kita agar tidak hancur oleh badai kehidupan yang tidak terelakkan.
+> **Insight:** Stoikisme bukanlah tentang menjadi orang yang tidak punya perasaan, melainkan tentang membangun ketangguhan sejarah dalam diri kita agar tidak hancur oleh kesulitan hidup yang tidak terelakkan.

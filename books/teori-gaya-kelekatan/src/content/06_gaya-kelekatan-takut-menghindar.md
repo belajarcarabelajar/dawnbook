@@ -1,6 +1,6 @@
 ## Gaya Kelekatan Takut-Menghindar (Fearful-Avoidant)
 
-Selamat datang di pembahasan tentang salah satu gaya kelekatan yang paling kompleks dan menantang secara emosional. Jika gaya kelekatan cemas membuat seseorang "mengejar" dan gaya menghindar membuat seseorang "menjauh", gaya **Takut-Menghindar (Fearful-Avoidant)** (atau yang sering disebut dalam literatur klinis sebagai **Disorganized Attachment**) adalah kombinasi membingungkan dari keduanya.
+Salah satu gaya kelekatan yang paling kompleks dan menantang secara emosional kini menjadi pokok pembahasan kita. Jika gaya kelekatan cemas membuat seseorang "mengejar" dan gaya menghindar membuat seseorang "menjauh", gaya **Takut-Menghindar (Fearful-Avoidant)** (atau yang sering disebut dalam literatur klinis sebagai **Disorganized Attachment**) adalah kombinasi membingungkan dari keduanya.
 
 Bayangkan kamu sedang berdiri di depan pintu rumah yang hangat saat badai salju, namun setiap kali kamu menyentuh gagang pintunya, kamu merasa tanganmu terbakar. Itulah inti dari dunia emosional individu dengan gaya *Fearful-Avoidant*.
 
@@ -19,7 +19,7 @@ Individu dengan gaya kelekatan ini hidup dalam konflik internal yang konstan. Me
 
 ## 2. Paradoks Biologis di Masa Kecil
 
-Mengapa seseorang bisa mengembangkan gaya yang begitu kontradiktif? Jawabannya biasanya terletak pada lingkungan masa kecil yang tidak terprediksi atau traumatis.
+Mengapa seseorang bisa mengembangkan gaya yang kontradiktif? Jawabannya biasanya terletak pada lingkungan masa kecil yang tidak terprediksi atau traumatis.
 
 Dalam perkembangan normal, ketika seorang anak merasa takut, insting biologisnya adalah lari menuju pengasuhnya untuk mendapatkan perlindungan. Namun, bagi anak yang mengembangkan *Fearful-Avoidant attachment*, pengasuh mereka justru merupakan **sumber ketakutan** tersebut (misalnya karena kekerasan, kemarahan yang meledak-ledak, atau pengabaian yang parah).
 
@@ -42,17 +42,17 @@ Ketika hubungan mulai terasa intim, alarm internal mereka berbunyi. Keintiman di
 
 ### B. Kesulitan Mengatur Emosi
 
-Karena latar belakang mereka, mereka sering kesulitan menenangkan diri sendiri (*self-soothing*). Emosi bisa terasa sangat intens dan meluap-luap, sering kali berujung pada rasa cemas yang hebat atau depresi.
+Karena latar belakang mereka, mereka sering kesulitan menenangkan diri sendiri (*self-soothing*). Emosi bisa terasa intens dan meluap-luap, sering kali berujung pada rasa cemas yang hebat atau depresi.
 
 ### C. Kewaspadaan Berlebih (Hyper-attunement)
 
-Bagian dari diri mereka sangat ahli dalam membaca mikro-ekspresi atau perubahan nada suara pasangan.
+Bagian dari diri mereka mahir membaca mikro-ekspresi atau perubahan nada suara pasangan.
 
 * *Contoh:* Pasangan hanya menghela napas karena lelah bekerja, namun individu *Fearful-Avoidant* mungkin mengartikannya sebagai "Dia sedang marah padaku dan pasti akan memutusiku."
 
-## 4. Kaktus di Tengah Padang Pasir
+## 4. Kaktus yang Merindukan Air
 
-Bayangkan individu *Fearful-Avoidant* seperti sebuah kaktus yang merindukan air (cinta). Mereka sangat membutuhkannya untuk bertahan hidup. Namun, mereka telah belajar bahwa siapa pun yang datang membawa air biasanya juga membawa parang untuk melukai mereka. Maka, mereka menumbuhkan duri yang sangat tajam. Saat seseorang mendekat untuk memberi air, mereka secara tidak sengaja menusuk orang tersebut, dan saat orang itu mundur karena terluka, si kaktus merasa terkonfirmasi bahwa "tidak ada yang benar-benar peduli padaku."
+Bayangkan individu *Fearful-Avoidant* seperti sebuah kaktus yang merindukan air (cinta). Mereka sangat membutuhkannya untuk bertahan hidup. Namun, mereka telah belajar bahwa siapa pun yang datang membawa air biasanya juga membawa parang untuk melukai mereka. Maka, mereka menumbuhkan duri yang tajam. Saat seseorang mendekat untuk memberi air, mereka secara tidak sengaja menusuk orang tersebut, dan saat orang itu mundur karena terluka, si kaktus merasa terkonfirmasi bahwa "tidak ada yang benar-benar peduli padaku."
 
 ## 5. Skenario Kasus dalam Keseharian
 
@@ -80,34 +80,6 @@ Jika kamu merasa memiliki gaya ini, atau sedang menjalin hubungan dengan seseora
 
 Banyak orang dengan gaya ini tanpa sadar merusak hubungan yang berjalan baik karena merasa cemas dan menduga hubungan itu akan berakhir buruk pada akhirnya. Jika kamu pernah mengalami hal serupa, sadarilah bahwa tindakan tersebut adalah proyeksi dari ketakutan masa lalu, bukan kenyataan saat ini.
 
-Kunci utama menghadapi gaya *Fearful-Avoidant* adalah membangun rasa aman di dalam diri sendiri terlebih dahulu, sehingga kehadiran atau ketidakhadiran orang lain tidak lagi terasa sebagai ancaman terhadap eksistensi diri.
+Hal terpenting dalam menghadapi gaya *Fearful-Avoidant* adalah membangun rasa aman di dalam diri sendiri terlebih dahulu, sehingga kehadiran atau ketidakhadiran orang lain tidak lagi terasa sebagai ancaman bagi diri sendiri.
 
 *Catatan: Pembahasan mendalam mengenai bagaimana menyembuhkan pola ini akan dibahas secara detail pada bagian "Proses Penyembuhan dan Transformasi".*
-
-## 8. Nilai, Impian, dan Dukungan Timbal Balik
-
-Membangun relasi yang bermakna adalah sebuah seni sekaligus keterampilan sosial yang melibatkan kedalaman emosional, kejujuran, dan investasi waktu. Relasi yang bermakna melampaui percakapan basa-basi (*small talk*) dan menyentuh aspek nilai, impian, serta dukungan timbal balik.
-
-### Fondasi Relasi yang Kokoh
-
-1. **Mendengarkan secara aktif (*active listening*):** Cobalah memahami emosi di balik ucapan pasangan bicara, bukan hanya menangkap kata-katanya saja. Fokuslah sepenuhnya tanpa menyela atau sibuk menyiapkan jawaban kamu berikutnya.
-2. **Menunjukkan kerentanan (*vulnerability*):** Peneliti Brené Brown menyebut kerentanan sebagai jembatan menuju koneksi. Ini berarti berani menunjukkan sisi asli kamu, termasuk ketakutan dan kegagalan, bukan hanya topeng "sempurna" yang ingin kamu perlihatkan.
-3. **Pentingnya konsistensi dan kehadiran:** Hubungan kokoh tumbuh dari momen-momen kecil yang terus menumpuk. Kehadiran sederhana saat dibutuhkan sering kali jauh lebih bernilai dibanding barang-barang mewah.
-4. **Empati:** Simpati berarti merasa kasihan pada seseorang, sedangkan empati berarti berusaha merasakan langsung apa yang sedang mereka alami.
-
-"Koneksi adalah energi yang tercipta di antara orang-orang ketika mereka merasa dilihat, didengar, dan dihargai." (Brené Brown)
-
-### Dari Persamaan Relasi ke Tindakan Nyata
-
-Untuk membantu kamu membayangkan bagaimana sebuah hubungan tumbuh, mari kita lihat "persamaan" sederhana tentang kedalaman relasi berikut:
-
-$$
-\\text{Kedalaman Relasi} = \\frac{\\text{Waktu Berkualitas} \\times \\text{Keterbukaan}}{\\text{Ego}}
-$$
-
-Artinya, semakin besar keterbukaan dan waktu yang diberikan, semakin dalam relasinya. Namun, jika ego terlalu mendominasi, kedalaman tersebut akan berkurang.
-
-**Contoh Tindakan Nyata:**
-
-* **Ajukan pertanyaan terbuka:** Alih-alih bertanya "Apa kabarmu?", cobalah "Apa hal yang paling membuatmu bersemangat minggu ini?"
-* **Apresiasi yang spesifik:** Alih-alih berkata "Terima kasih," cobalah "Aku sangat menghargai caramu mendengarkanku tadi, itu membuatku merasa sangat didukung."

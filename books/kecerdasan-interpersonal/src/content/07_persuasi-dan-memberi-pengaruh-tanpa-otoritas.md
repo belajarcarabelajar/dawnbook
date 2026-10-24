@@ -1,16 +1,16 @@
 ## Persuasi dan Memberi Pengaruh Tanpa Otoritas
 
-Pernahkah kamu memiliki ide brilian untuk meningkatkan efisiensi kerja, tetapi ide tersebut terhenti karena kamu bukan seorang manajer? Atau mungkin kamu perlu bantuan dari departemen lain yang secara struktural tidak memiliki kewajiban untuk membantumu?
+Pernahkah kamu memiliki ide bagus untuk meningkatkan efisiensi kerja, tetapi ide tersebut terhenti karena kamu bukan seorang manajer? Atau mungkin kamu perlu bantuan dari departemen lain yang secara struktural tidak memiliki kewajiban untuk membantumu?
 
-Selamat datang di dunia ***Influence without Authority*** (memengaruhi tanpa wewenang formal). Di era organisasi yang semakin datar (*flat*) dan kolaboratif, kemampuan untuk meyakinkan orang lain tanpa harus menggunakan jabatan adalah salah satu keterampilan paling penting bagi seorang profesional *T-shaped*.
+Situasi ini disebut ***Influence without Authority*** (memengaruhi tanpa wewenang formal). Di era organisasi yang semakin datar (*flat*) dan kolaboratif, kemampuan untuk meyakinkan orang lain tanpa harus menggunakan jabatan adalah salah satu keterampilan paling penting bagi seorang profesional *T-shaped*.
 
 ### 1. Mengapa Orang Mengikuti Kamu?
 
 Dalam struktur hierarki tradisional, orang mengikuti perintah karena terpaksa atau menghindari konsekuensi negatif. Namun, dalam persuasi tanpa otoritas, orang mengikutimu karena keinginan mereka sendiri.
 
-Aristoteles, ribuan tahun lalu, merumuskan tiga pilar persuasi yang masih sangat relevan hingga saat ini:
+Aristoteles, ribuan tahun lalu, merumuskan tiga pilar persuasi yang masih relevan hingga saat ini:
 
-- **Ethos (Kredibilitas):** Alasan utama mengapa mereka harus mendengarkan kamu. Rekam jejak dan integritas sangat menentukan pilar ini.
+- **Ethos (Kredibilitas):** Alasan utama mengapa mereka harus mendengarkan kamu. Rekam jejak dan integritas menentukan pilar ini.
 - **Logos (Logika):** Kelayakan argumen yang diajukan. Apakah penjelasan tersebut masuk akal dan ditopang oleh data valid?
 - **Pathos (Emosi):** Kemampuan menyentuh nilai-nilai personal atau perasaan lawan bicara.
 
@@ -55,7 +55,7 @@ Cara kamu menyampaikan ide sering kali lebih penting daripada ide itu sendiri. G
    - **Kepada Tim Kreatif:** Tekankan ruang inovasi, nilai estetika, dan kekuatan ekspresi merek.
    - **Kepada Tim Operasional:** Tunjukkan kemudahan alur kerja baru dan potensi pengurangan kesalahan (*error*).
 
-### 5. Skenario Kasus di Dunia Nyata
+### 5. Data Analyst dan Tim Sales
 
 **Situasi:** Kamu adalah seorang *Data Analyst* (tanpa bawahan). Kamu menemukan bahwa proses input data oleh tim *Sales* sangat berantakan, yang membuat laporanmu sering salah. Kamu ingin mereka menggunakan sistem baru yang lebih ketat, tetapi tim *Sales* merasa itu hanya menambah beban kerja mereka.
 
@@ -66,7 +66,7 @@ Cara kamu menyampaikan ide sering kali lebih penting daripada ide itu sendiri. G
 - **Langkah 3 (*Framing*):** Hindari kalimat, "Gunakan sistem ini agar kerjaan saya lebih mudah." Katakanlah, "Sistem ini dirancang untuk memastikan tidak ada komisi kalian yang terlewat akibat kesalahan pencatatan."
 - **Langkah 4 (*Social Proof*):** Sebutkan bahwa salah satu *Top Sales* sudah mencoba sistem ini dan merasa terbantu.
 
-### 6. Menangani Penolakan dengan Elegan
+### 6. Menanggapi Penolakan
 
 Ketika seseorang menolak idemu, jangan anggap itu sebagai titik akhir. Itu adalah awal dari ruang diskusi baru.
 

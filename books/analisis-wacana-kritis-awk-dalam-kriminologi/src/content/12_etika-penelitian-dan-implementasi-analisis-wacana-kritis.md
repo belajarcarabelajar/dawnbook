@@ -1,6 +1,6 @@
 ## Etika Penelitian dan Implementasi Analisis Wacana Kritis
 
-Selamat datang di bagian krusial dari perjalanan mempelajari Analisis Wacana Kritis (AWK) dalam kriminologi. Jika bab-bab sebelumnya telah membekali pemelajar dengan pisau bedah metodologis untuk membongkar ketidakadilan dalam bahasa, bab ini akan menjawab pertanyaan utama: *setelah ketimpangan tersebut ditemukan, apa tanggung jawab etis peneliti? Dan bagaimana hasil analisis tersebut dapat diimplementasikan untuk mengubah dunia nyata?*
+Peneliti Analisis Wacana Kritis (AWK) dalam kriminologi memikul dua tugas: menjaga etika penelitian dan membawa temuannya ke reformasi hukum. Jika bab-bab sebelumnya telah membekali pemelajar dengan alat metodologis untuk membongkar ketidakadilan dalam bahasa, bab ini akan menjawab pertanyaan utama: *setelah ketimpangan tersebut ditemukan, apa tanggung jawab etis peneliti? Dan bagaimana hasil analisis tersebut dapat diimplementasikan untuk mengubah dunia nyata?*
 
 Dalam kriminologi kritis, peneliti bukan sekadar penonton yang duduk di menara gading. Peneliti adalah partisipan aktif yang memiliki tanggung jawab etis untuk menyuarakan kelompok yang terbungkam oleh diskursus dominan.
 
@@ -89,7 +89,7 @@ Di mana:
 **Hasil Praktis:** Adopsi istilah yang lebih berperspektif korban dalam undang-undang baru (seperti UU TPKS di Indonesia), yang secara hukum mengubah cara aparat penegak hukum memandang dan menangani kasus tersebut.
 
 > **Refleksi Analitis:**
-> Penggunaan istilah seperti "kenakalan remaja" untuk tindakan yang sebenarnya dipicu oleh kemiskinan struktural berisiko membatasi bentangan solusi negara, karena mereduksi persoalan sistemik menjadi sekadar kegagalan moral individu.
+> Penggunaan istilah seperti "kenakalan remaja" untuk tindakan yang sebenarnya dipicu oleh kemiskinan struktural berisiko membatasi pilihan solusi negara, karena mereduksi persoalan sistemik menjadi sekadar kegagalan moral individu.
 
 ---
 
@@ -147,7 +147,7 @@ Dalam kriminologi, pembedaan antara ancaman nyata dan luapan emosi dilakukan den
 
 ---
 
-### 7. Studi Kasus dan Aksentuasi Analisis Linguistik Forensik
+### 7. Dinamika Pembuktian Linguistik Forensik
 
 Dalam praktik kriminologi dan analisis hukum, penerapan linguistik forensik diuji melalui berbagai dinamika pembuktian:
 
@@ -155,9 +155,9 @@ Dalam praktik kriminologi dan analisis hukum, penerapan linguistik forensik diuj
 Saat pelaku kejahatan siber mencoba meniru gaya penulisan individu lain, elemen bahasa yang paling sulit dipalsukan secara konsisten adalah kebiasaan bawah sadar (*unconscious linguistic habits*), seperti frekuensi penempatan koma, penggunaan kata hubung, dan pola mikrosintaksis.
 
 #### B. Dinamika Teks Digital
-Di era media sosial dan pesan instan, pesan sering kali sangat singkat dan memuat simbol visual non-verbal. Peneliti linguistik forensik memanfaatkan pola konsistensi pemakaian simbol visual dan variasi ejaan non-standar sebagai indikator identifikasi tambahan.
+Di era media sosial dan pesan instan, pesan sering kali singkat dan memuat simbol visual non-verbal. Peneliti linguistik forensik memanfaatkan pola konsistensi pemakaian simbol visual dan variasi ejaan non-standar sebagai indikator identifikasi tambahan.
 
-#### C. Batas Antara Opini dan Pencemaran Nama Baik
+#### C. Struktur Pernyataan Opini dan Pencemaran Nama Baik
 Dalam analisis hukum wacana, struktur pernyataan menentukan kualifikasi delik:
 
 * **Pernyataan A:** *"Layanan di toko ini sangat lambat dan tidak profesional."* (Evaluasi subjektif terhadap pengalaman layanan / opini).
@@ -170,6 +170,6 @@ Kombinasi penggunaan istilah teknis medis yang presisi dengan tata bahasa yang t
 
 ### Yang Perlu Kamu Ingat tentang Etika AWK
 
-Etika dalam Analisis Wacana Kritis bukan sekadar tentang mengisi formulir persetujuan penelitian (*informed consent*). Etika adalah tentang **keberanian moral** untuk menyingkap selubung bahasa yang melindungi ketidakadilan. Sebagai peneliti kriminologi, kata-kata adalah alat advokasi untuk meruntuhkan tembok stigma dan membangun jembatan menuju sistem hukum yang lebih manusiawi dan berkeadilan.
+Etika dalam Analisis Wacana Kritis bukan sekadar tentang mengisi formulir persetujuan penelitian (*informed consent*). Etika adalah tentang **keberanian moral** untuk menunjukkan bahasa yang melindungi ketidakadilan. Sebagai peneliti kriminologi, kata-kata adalah alat advokasi untuk mengurangi stigma dan mendorong sistem hukum yang lebih manusiawi dan berkeadilan.
 
 Peneliti perlu terus memeriksa dan berefleksi mengenai siapa yang diuntungkan dari penyusunan narasi serta penulisan hasil penelitian yang dihasilkan.

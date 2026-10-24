@@ -1,6 +1,6 @@
 ## Komponen-Komponen Metakognisi
 
-Metakognisi sering disebut sebagai "berpikir tentang berpikir". Sebenarnya, ini adalah kemampuan dasar yang membuat kita sadar, mampu mengontrol, sekaligus mengevaluasi cara kita sendiri dalam memproses informasi. Istilah ini pertama kali dikenalkan oleh John Flavell pada tahun 1976. Kalau kita mau membedah metakognisi lebih dalam, ada tiga komponen utama yang membentuk kesadaran metakognitif: pengetahuan deklaratif, prosedural, dan kondisional. Ketiga hal inilah yang nantinya sangat menentukan seberapa efektif cara belajar seseorang.
+Metakognisi sering disebut sebagai "berpikir tentang berpikir". Sebenarnya, ini adalah kemampuan dasar yang membuat kita sadar, mampu mengontrol, sekaligus mengevaluasi cara kita sendiri dalam memproses informasi. Istilah ini pertama kali dikenalkan oleh John Flavell pada tahun 1976. Kalau kita mau membedah metakognisi lebih dalam, ada tiga komponen utama yang membentuk kesadaran metakognitif: pengetahuan deklaratif, prosedural, dan kondisional. Ketiga hal inilah yang nantinya menentukan seberapa efektif cara belajar seseorang.
 
 ## 1. Pengetahuan Deklaratif
 
@@ -77,7 +77,7 @@ Biar lebih jelas, mari kita lihat skenario seorang mahasiswa yang sedang bersiap
 
 3. **Pengetahuan Kondisional ("Kapan & Mengapa"):**
 	- Ia memutuskan *kapan* harus memakai kartu *flash*: khusus untuk menghafal tanggal dan nama. Ia paham *mengapa* ini penting, karena gaya belajarnya butuh pengulangan yang rapi.
-	- Ia tahu *kapan* harus melihat *timeline*: saat butuh memahami hubungan sebab-akibat antar peristiwa sejarah, *karena* ini sangat membantu melihat benang merahnya.
+	- Ia tahu *kapan* harus melihat *timeline*: saat butuh memahami hubungan sebab-akibat antar peristiwa sejarah, *karena* ini membantu melihat benang merahnya.
 	- Terakhir, ia paham *kapan* dan *mengapa* harus membaca ulang materi: khusus untuk topik yang masih belum ia kuasai penuh, agar pemahamannya utuh dan tidak sekadar hafal mati.
 
 Lewat interaksi ketiga komponen inilah proses belajarnya jadi jauh lebih terarah dan nggak membuang waktu.

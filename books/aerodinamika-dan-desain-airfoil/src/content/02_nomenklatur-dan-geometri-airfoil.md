@@ -1,12 +1,12 @@
 ## Nomenklatur dan Geometri Airfoil
 
-Bentuk potongan melintang sayap pesawat memiliki geometri melengkung yang sangat spesifik dan bukan sekadar pelat datar. Bentuk potongan melintang sayap ini dikenal sebagai **airfoil** (atau *aerofoil*). Desain geometri airfoil bukan sekadar masalah estetika; setiap milimeter kontur lengkungannya dirancang secara presisi untuk memanipulasi aliran udara demi membangkitkan gaya angkat (*lift*) secara optimal dan meminimalkan hambatan (*drag*).
+Bentuk potongan melintang sayap pesawat memiliki geometri melengkung yang sangat spesifik dan bukan sekadar pelat datar. Bentuk potongan melintang sayap ini dikenal sebagai **airfoil** (atau *aerofoil*). Desain geometri airfoil bukan sekadar masalah estetika; kontur lengkungannya dirancang secara presisi untuk memanipulasi aliran udara demi membangkitkan gaya angkat (*lift*) secara optimal dan meminimalkan hambatan (*drag*).
 
 Dalam bab ini, pembahasan berfokus pada pembedahan anatomi airfoil, parameter geometris penentu performa, standarisasi penamaan NACA, serta korelasi langsung antara bentuk fisik sayap dan karakteristik aerodinamikanya.
 
 ### 1. Anatomi Dasar Airfoil
 
-Untuk memahami mekanisme kerja aerodinamika sayap, pengenalan terhadap bagian-bagian utama geometri airfoil menjadi fondasi yang sangat krusial. Struktur penampang airfoil didefinisikan oleh komponen-komponen berikut:
+Untuk memahami mekanisme kerja aerodinamika sayap, pengenalan terhadap bagian-bagian utama geometri airfoil menjadi fondasinya. Struktur penampang airfoil didefinisikan oleh komponen-komponen berikut:
 
 - **Leading Edge (Tepi Depan / Serang):** Titik paling depan pada penampang airfoil yang pertama kali membelah aliran fluida datang. Bagian ini umumnya dibuat membulat (*rounded*) dengan radius tertentu (*leading edge radius*) untuk mengakomodasi variasi sudut serang (*angle of attack*) tanpa memicu pelepasan aliran (*flow separation*) secara dini.
 - **Trailing Edge (Tepi Belakang):** Titik paling belakang pada airfoil tempat bertemunya kembali aliran udara dari permukaan atas (*upper surface*) dan permukaan bawah (*lower surface*). Berbeda dengan *leading edge*, tepi belakang dirancang tipis dan tajam guna memenuhi kondisi Kutta (*Kutta condition*) sehingga sirkulasi dan gaya angkat dapat terbangkitkan secara mulus.
@@ -39,7 +39,7 @@ $$
 Kategori ketebalan relatif dan karakteristik penggunaannya:
 
 - **Airfoil Tipis ($6\text{\%} - 9\text{\%}$):** Diterapkan pada pesawat tempur supersonik atau wahana berkecepatan tinggi untuk menekan hambatan gelombang (*wave drag*) saat mendekati dan melintasi kecepatan suara.
-- **Airfoil Sedang ($10\text{\%} - 14\text{\%}$):** Menjadi standar emas untuk pesawat komersial subsonik, pesawat angkut, dan pesawat penerbangan umum (*general aviation*) karena menawarkan rasio gaya angkat terhadap hambatan ($L/D$) yang sangat efisien.
+- **Airfoil Sedang ($10\text{\%} - 14\text{\%}$):** Menjadi standar untuk pesawat komersial subsonik, pesawat angkut, dan pesawat penerbangan umum (*general aviation*) karena menawarkan rasio gaya angkat terhadap hambatan ($L/D$) yang efisien.
 - **Airfoil Tebal ($15\text{\%} - 18\text{\%}$):** Dipilih untuk pesawat kargo berat, pesawat latih mula, atau pangkal sayap (*wing root*) karena memberikan volume internal yang besar untuk tangki bahan bakar dan mekanisme aktuator, serta memiliki karakteristik *stall* yang lembut (*gentle stall behavior*).
 
 > **Pertanyaan Reflektif:** Mengapa pesawat kargo berbadan lebar seperti Boeing 747 memiliki profil pangkal sayap yang jauh lebih tebal dibandingkan profil sayap tipis pada jet tempur supersonik seperti F-16? Jawabannya terletak pada kompromi antara kebutuhan kekuatan lentur struktural, kapasitas tangki avtur, dan mitigasi hambatan kompresibilitas.
@@ -75,4 +75,4 @@ Penerapan geometri airfoil di industri kedirgantaraan disesuaikan dengan spektru
 2. **Pesawat Komersial Transonik (Boeing / Airbus):** Memanfaatkan **Supercritical Airfoil**. Profil ini memiliki permukaan atas yang relatif rata untuk melemahkan intensitas gelombang kejut (*shock wave*) lokal dan menunda lonjakan hambatan gelombang (*drag divergence Mach number*), dikombinasikan dengan kelengkungan cekung di bagian bawah belakang untuk memulihkan gaya angkat.
 3. **Pesawat Aerobatik:** Menggunakan **Airfoil Simetris** (misalnya NACA 0012 atau NACA 0015). Konfigurasi tanpa *camber* ini memastikan karakteristik gaya angkat dan kendali tetap identik saat pesawat bermanuver dalam orientasi normal maupun terbalik (*inverted flight*).
 
-> **Prinsip Utama Desain:** Geometri airfoil adalah hasil kompromi terukur antara integritas struktural, kapasitas muatan internal, dan efisiensi aerodinamika. Tidak ada satu profil universal yang optimal untuk semua misi; setiap lekukan selalu mengabdi pada amplop terbang (*flight envelope*) yang ditargetkan.
+> **Prinsip Utama Desain:** Geometri airfoil adalah hasil kompromi terukur antara integritas struktural, kapasitas muatan internal, dan efisiensi aerodinamika. Tidak ada satu profil universal yang optimal untuk semua misi; setiap lekukan disesuaikan dengan amplop terbang (*flight envelope*) yang ditargetkan.

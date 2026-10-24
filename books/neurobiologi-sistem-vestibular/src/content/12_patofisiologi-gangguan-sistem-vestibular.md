@@ -1,6 +1,6 @@
 ## Patofisiologi Gangguan Sistem Vestibular
 
-Pernahkah seseorang turun dari komidi putar dan merasa dunia masih berputar meskipun kedua kaki telah menapak di tanah yang stabil? Bagi kebanyakan orang, sensasi ini hanya berlangsung beberapa detik. Namun, bagi jutaan individu dengan gangguan vestibular, "dunia yang berputar" adalah realitas medis yang melumpuhkan.
+Pernahkah seseorang turun dari komidi putar dan merasa dunia masih berputar meskipun kedua kaki telah menapak di tanah yang stabil? Bagi kebanyakan orang, sensasi ini hanya berlangsung beberapa detik. Namun, bagi jutaan individu dengan gangguan vestibular, "dunia yang berputar" adalah kondisi medis yang melumpuhkan.
 
 Setelah mempelajari bagaimana sistem vestibular bekerja secara normal, mulai dari deteksi rotasi di kanalis semisirkularis hingga integrasi di batang otak, sekarang kita akan mengeksplorasi apa yang terjadi ketika sistem yang presisi ini mengalami kegagalan fungsi.
 
@@ -24,7 +24,7 @@ Pada kondisi patologis, terjadi **asimetri tonik**:
 
 **BPPV** merupakan penyebab paling umum dari vertigo perifer. Kondisi ini memberikan gambaran jelas mengenai bagaimana gangguan mekanis sederhana dapat mengacaukan neurobiologi yang kompleks.
 
-#### Patogenesis Otoconia yang Tersesat
+#### Patogenesis Otoconia yang Terlepas
 
 Sebagaimana telah dibahas pada pembahasan Organ Otolit, makula utrikulus mengandung kristal kalsium karbonat ($\text{CaCO}_3$) yang disebut **otoconia**.
 
@@ -65,7 +65,7 @@ Pemahaman mendalam mengenai patofisiologi BPPV memungkinkan klinisi melakukan ko
 
 **Skenario Klinis:** Seorang pasien datang dengan keluhan pusing berputar hebat setiap kali menoleh ke kanan saat berbaring. Klinisi melakukan tes **Dix-Hallpike** dan mengidentifikasi adanya **nistagmus** (osilasi ritmik bola mata) yang terpicu oleh posisi tersebut. Mengetahui etiologi mekanis pelepasan otoconia, klinisi segera melaksanakan manuver Epley. Dalam waktu sekitar 10 menit, gejala pasien teratasi secara penuh tanpa memerlukan intervensi farmakologis. Kasus ini membuktikan bagaimana pemahaman neurobiologi sistem vestibular secara langsung meningkatkan kualitas hidup pasien.
 
-### Ringkasan Konsep
+### Dari Mekanisme ke Diagnosis
 
 - **Vertigo** timbul akibat asimetri transmisi sinyal saraf antara organ vestibular kanan dan kiri, atau antara perifer dan pusat.
 - **BPPV** dipicu oleh perpindahan mekanis partikel otoconia ($\text{CaCO}_3$) ke dalam kanalis semisirkularis yang peka terhadap akselerasi sudut.

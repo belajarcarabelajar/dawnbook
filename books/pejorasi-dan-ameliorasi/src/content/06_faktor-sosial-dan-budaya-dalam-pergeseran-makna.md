@@ -1,6 +1,6 @@
 ## Faktor Sosial dan Budaya dalam Pergeseran Makna
 
-Pergeseran nilai rasa kata dalam semantik selalu dipengaruhi oleh transformasi norma sosial, perkembangan budaya, dan dinamika struktur kekuasaan masyarakat. Perubahan nilai rasa, baik ameliorasi maupun pejorasi, tidak berlangsung dalam ruang hampa, melainkan bertumpu pada cara pandang kolektif yang terus berevolusi seiring berjalannya waktu.
+Pergeseran nilai rasa kata dalam semantik selalu dipengaruhi transformasi norma sosial, perkembangan budaya, dan dinamika struktur kekuasaan masyarakat. Perubahan nilai rasa, baik ameliorasi maupun pejorasi, tidak berlangsung terpisah dari masyarakat, melainkan bertumpu pada cara pandang kolektif yang terus berevolusi seiring berjalannya waktu.
 
 Sering kali muncul fenomena saat sebuah kata yang pada masa lampau terdengar wajar, kini dihindari karena dinilai kurang sopan. Sebaliknya, kata yang dahulu berkedudukan rendah kini dapat bergeser menjadi sebutan terhormat karena adanya perubahan apresiasi kultural.
 
@@ -24,24 +24,24 @@ Kata *buta* atau *tuli* secara teknis adalah rujukan biologis yang akurat. Namun
 
 ### Perkembangan Budaya, Modernisasi, dan Teknologi
 
-Kebudayaan mencakup tata cara hidup, sistem kerja, serta medium interaksi manusia. Peralihan tatanan peradaban dari corak agraris ke era industri, lalu menuju lanskap digital, membawa dampak langsung pada nilai rasa kosakata.
+Kebudayaan mencakup tata cara hidup, sistem kerja, serta medium interaksi manusia. Peralihan dari masyarakat agraris ke era industri, lalu ke era digital, membawa dampak langsung pada nilai rasa kosakata.
 
 #### Pergeseran Gaya Hidup dan Prestise Kultural
 
 Kosakata kerap mengalami ameliorasi ketika objek, kebiasaan, atau aktivitas yang dirujuk memperoleh peningkatan status dalam sistem nilai budaya masyarakat.
 
 > **Perubahan Konotasi Kata *Canggih*:**  
-> Pada naskah dan penggunaan masa lampau, kata *canggih* berkonotasi negatif dengan arti banyak cakap, cerewet, suka membantah, atau gemar mengganggu. Seiring maraknya kemajuan perangkat modern, kata ini bertransformasi menjadi representasi keunggulan teknologi, kepiawaian rancangan, dan kemutakhiran fungsi.
+> Pada naskah dan penggunaan masa lampau, kata *canggih* berkonotasi negatif dengan arti banyak cakap, cerewet, suka membantah, atau gemar mengganggu. Seiring maraknya kemajuan perangkat modern, kata ini berubah menjadi sebutan untuk teknologi yang unggul, rancangan yang cermat, dan fungsi yang mutakhir.
 
 Budaya menyematkan dimensi apresiasi baru pada kosakata lama. Apabila sebuah istilah terhubung erat dengan kemajuan dan pencapaian modern, kecenderungan ameliorasi akan berlangsung lebih cepat.
 
 ### Struktur Masyarakat, Hierarki, dan Kekuasaan
 
-Relasi kelas sosial dan stratifikasi kekuasaan sangat menentukan bagaimana suatu istilah diterima. Perubahan sistem feodal menuju tatanan masyarakat yang lebih terbuka dan demokratis turut mengubah apresiasi terhadap gelar maupun sebutan profesi.
+Relasi kelas sosial dan stratifikasi kekuasaan menentukan bagaimana suatu istilah diterima. Perubahan sistem feodal menuju tatanan masyarakat yang lebih terbuka dan demokratis turut mengubah apresiasi terhadap gelar maupun sebutan profesi.
 
 #### Transisi dari Feodalisme Menuju Egalitarianisme
 
-Pada masyarakat dengan sistem hierarki tertutup, pembedaan kelas tampak sangat tegas. Pergeseran pusat kendali sosial membuat istilah-istilah yang mulanya mencerminkan subordinasi mengalami pejorasi atau direstrukturisasi demi kesetaraan.
+Pada masyarakat dengan sistem hierarki tertutup, pembedaan kelas tampak tegas. Pergeseran pusat kendali sosial membuat istilah-istilah yang mulanya mencerminkan subordinasi mengalami pejorasi atau direstrukturisasi demi kesetaraan.
 
 * **Buruh:** Secara historis merujuk pada penyedia tenaga kerja. Sebagian kalangan memandangnya mengalami pejorasi karena diasosiasikan dengan pekerjaan fisik tingkat bawah.
 * **Karyawan atau Pegawai:** Mengalami ameliorasi karena diasosiasikan dengan ranah kerja perkantoran, tata kelola formal, dan keamanan status profesi.
@@ -89,9 +89,9 @@ Keterangan parameter:
 * $F_{\text{sosial}}$: Variabel pengaruh kesepakatan norma, etika, dan kesetaraan hak.
 * $F_{\text{budaya}}$: Variabel pengaruh tren teknologi, modernisasi, dan gaya hidup.
 
-### Rangkuman
+### Poin Penting
 
-Pergeseran makna melalui ameliorasi dan pejorasi membuktikan bahwa bahasa berfungsi sebagai cerminan peradaban manusia. Pemahaman semantik yang utuh tidak hanya bertumpu pada dokumentasi kamus statis, melainkan menuntut kepekaan terhadap denyut perubahan sosial, konvensi etika, dan relasi antarwarga.
+Pergeseran makna melalui ameliorasi dan pejorasi membuktikan bahwa bahasa mencerminkan perubahan masyarakat penuturnya. Pemahaman semantik yang utuh tidak hanya bertumpu pada dokumentasi kamus statis, melainkan menuntut kepekaan terhadap perubahan sosial, konvensi etika, dan relasi antarwarga.
 
 > Pemahaman terhadap faktor sosial dan budaya dalam bahasa memperkuat empati komunikatif. Mengetahui nilai rasa kata memungkinkan penutur menghargai martabat mitra tutur sekaligus merawat kesantunan dalam ruang publik.
 

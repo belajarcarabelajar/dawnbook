@@ -32,7 +32,7 @@ Ada tugas yang **membosankan**: tidak ada yang menyenangkan di dalamnya, sehingg
 
 Satu tugas bisa membawa beberapa fitur sekaligus. Laporan keuangan tadi membosankan, besar, dan tenggatnya masih jauh. Tiga suku bergerak ke arah yang salah bersamaan, dan itu sebabnya ia lebih sering tertinggal daripada mencuci piring.
 
-Perasaan tidak enak itu sendiri juga punya peran, seperti yang sudah kita bahas di bab 5: menjauh dari tugas yang aversif memberi kelegaan sekarang. Karena itu dua tugas dengan "nilai" yang sama di atas kertas bisa terasa sangat berbeda ketika kamu benar-benar duduk di depannya.
+Perasaan tidak enak itu sendiri juga punya peran, seperti yang sudah kita bahas di bab 5: menjauh dari tugas yang aversif memberi kelegaan sekarang. Karena itu dua tugas dengan "nilai" yang sama di atas kertas bisa terasa berbeda ketika kamu benar-benar duduk di depannya.
 
 ### Diagnosis rasa ogah yang sedang kamu hadapi
 

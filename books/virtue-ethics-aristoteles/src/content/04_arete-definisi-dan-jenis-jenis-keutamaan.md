@@ -1,6 +1,6 @@
 ## Arete
 
-Selamat datang kembali dalam perjalanan kita mendalami **Etika Kebajikan**. Setelah sebelumnya kita memahami bahwa tujuan akhir manusia adalah *Eudaimonia* (kebahagiaan yang bermakna), muncul pertanyaan besar: *Bagaimana cara kita mencapainya?*
+Tujuan akhir manusia sudah kita pahami sebagai *Eudaimonia* (kebahagiaan yang bermakna), dan kini muncul pertanyaan besar: *Bagaimana cara kita mencapainya?*
 
 Jawaban dari tradisi klasik, khususnya Aristoteles, terletak pada satu kata kunci: **Arete**.
 
@@ -12,7 +12,7 @@ Arete berarti menjadi versi terbaik dari sesuatu sesuai dengan fungsinya (*ergon
 
 > **Analogi Pisau yang Unggul** Bayangkan kamu memiliki sebuah pisau. Apa fungsi utama sebuah pisau? Tentu saja untuk memotong. Sebuah pisau dikatakan memiliki *Arete* jika ia sangat tajam, nyaman digenggam, dan mampu memotong dengan presisi. Sebaliknya, pisau yang tumpul kehilangan "keutamaannya" karena ia gagal memenuhi fungsi hakikinya.
 
-Bagi manusia, Arete berarti **keunggulan dalam menggunakan akal budi (rasio)** untuk menjalani hidup. Jika fungsi unik manusia adalah berpikir dan bertindak secara rasional, maka Arete adalah kualitas yang memungkinkan manusia melakukan hal tersebut dengan luar biasa.
+Bagi manusia, Arete berarti **keunggulan dalam menggunakan akal budi (rasio)** untuk menjalani hidup. Jika fungsi unik manusia adalah berpikir dan bertindak secara rasional, maka Arete adalah kualitas yang memungkinkan manusia melakukan hal tersebut dengan baik.
 
 ## 2\. Keutamaan Intelektual vs. Moral
 
@@ -41,7 +41,7 @@ Contoh utama kebajikan moral (Keutamaan Kardinal):
 3. **Keadilan (Justice):** Kemampuan memberikan hak kepada orang lain secara proporsional.
 4. **Kemurahan Hati (Generosity):** Sikap yang tepat dalam memberi dan menerima materi.
 
-## 3\. Hubungan Simbiotis
+## 3\. Kedua Jenis Arete Tidak Terpisahkan
 
 Dalam Etika Kebajikan, kedua jenis Arete ini tidak bisa dipisahkan. Mereka bekerja seperti perangkat keras (*hardware*) dan perangkat lunak (*software*) pada komputer.
 

@@ -34,7 +34,7 @@ Fase observasi melibatkan pengumpulan data mentah, seperti menangkap frekuensi n
 
 ## Implementasi dalam Kehidupan Sehari-hari
 
-Kapasitas ini menjadi keunggulan yang sangat bernilai di hampir setiap bidang. Mari kita lihat bagaimana wujudnya di lapangan.
+Kapasitas ini menjadi keunggulan yang bernilai di hampir setiap bidang. Mari kita lihat bagaimana wujudnya di lapangan.
 
 Dalam dunia manajemen, seorang pemimpin dengan kecerdasan interpersonal tidak akan mengandalkan tangan besi. Ia lebih memilih persuasi, memahami bahwa setiap anggota tim punya dorongan yang berbeda. Ia tahu ada anggota yang menyukai pujian terbuka, sementara yang lain lebih menghargai ruang untuk menyelesaikan tantangan teknis dalam ketenangan.
 
@@ -63,7 +63,7 @@ flowchart TD
 
 Dalam realitasnya, percabangan semacam ini dijalankan oleh otak kita dalam hitungan milidetik. Semakin sering dilatih, proses pengolahan datanya akan menjadi semakin mulus.
 
-## Melatih Otot Interpersonal
+## Melatih Kecerdasan Interpersonal
 
 Kecerdasan ini bukanlah atribut bawaan yang statis. Kamu bisa melatihnya agar menjadi lebih responsif seiring waktu.
 
@@ -71,4 +71,4 @@ Langkah pertama adalah membiasakan diri mendengar secara aktif. Ketika seseorang
 
 Melibatkan diri dalam kegiatan kerja sukarela juga merupakan cara jitu untuk melatih radar sosial. Berada di lingkungan baru akan memaksamu berinteraksi dengan individu dari berbagai latar belakang, mengasah kemampuan adaptasi komunikasi. Setelah melewati sebuah pertemuan yang sarat dinamika, luangkan waktu sejenak untuk meninjau kembali apa yang terjadi. Pertimbangkan apakah respons yang kamu berikan sudah cukup membantu meredakan suasana atau justru memancing masalah baru.
 
-Membangun kecerdasan interpersonal pada intinya adalah usaha meruntuhkan dinding pembatas antara "Aku" dan "Kamu" untuk membentuk "Kita". Dalam interaksi digital yang makin mengambil alih keseharian, kemampuan menghadirkan koneksi antarmanusia yang tulus ini akan selalu mendapat tempat yang istimewa.
+Membangun kecerdasan interpersonal pada intinya adalah belajar memahami orang lain sehingga "Aku" dan "Kamu" bisa menjadi "Kita". Dalam interaksi digital yang makin mengambil alih keseharian, kemampuan menghadirkan koneksi antarmanusia yang tulus ini akan selalu dihargai.

@@ -1,6 +1,6 @@
 ## Referensi
 
-Daftar referensi berikut memuat literatur akademik, buku teks utama, jurnal ilmiah ter-peer-review, serta publikasi riset mendasar yang menjadi fondasi konseptual dan empiris dalam penyusunan buku *Mekanisme Koping dan Manajemen Stres*. Seluruh sitasi disusun berdasarkan standar penulisan *American Psychological Association* (APA) Edisi ke-7.
+Daftar referensi berikut memuat literatur akademik, buku teks utama, jurnal ilmiah ter-peer-review, serta publikasi riset mendasar. Sumber-sumber itu menjadi fondasi konseptual dan empiris dalam penyusunan buku *Mekanisme Koping dan Manajemen Stres*. Seluruh sitasi disusun berdasarkan standar penulisan *American Psychological Association* (APA) Edisi ke-7.
 
 Guna memudahkan kamu dalam menelusuri penemuan ilmiah dan memperdalam studi literatur, referensi ini dikelompokkan ke dalam beberapa kategori utama sesuai dengan ranah pembahasan.
 

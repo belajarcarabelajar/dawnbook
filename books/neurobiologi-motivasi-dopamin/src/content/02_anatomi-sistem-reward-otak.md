@@ -1,12 +1,12 @@
 ## Anatomi Sistem Reward Otak
 
-Pernahkah kamu bertanya-tanya mengapa aroma kopi di pagi hari bisa membuat kamu beranjak dari tempat tidur, atau mengapa notifikasi di ponsel terasa begitu sulit untuk diabaikan? Ini bukan sekadar kebetulan. Di dalam tempurung kepala kamu, terdapat sebuah sirkuit biologis yang sangat canggih yang dikenal sebagai **Sistem Reward (Imbalan) Otak**.
+Pernahkah kamu bertanya-tanya mengapa aroma kopi pagi bisa membuatmu beranjak dari tempat tidur, atau mengapa notifikasi ponsel begitu sulit diabaikan? Ini bukan sekadar kebetulan. Di dalam tempurung kepala kamu, terdapat sebuah sirkuit biologis yang dikenal sebagai **Sistem Reward (Imbalan) Otak**.
 
-Sistem ini bukanlah satu organ tunggal, melainkan jaringan kompleks dari berbagai struktur saraf yang bekerja secara sinergis untuk memastikan kita mengejar hal-hal yang mendukung kelangsungan hidup (seperti makanan dan interaksi sosial) serta hal-hal yang kita persepsikan berharga.
+Sistem ini bukanlah satu organ tunggal, melainkan jaringan dari berbagai struktur saraf yang bekerja bersama untuk memastikan kita mengejar hal-hal yang mendukung kelangsungan hidup (seperti makanan dan interaksi sosial) serta hal-hal yang kita persepsikan berharga.
 
 ---
 
-### Jalur Mesolimbik sebagai "Jalan Tol" Motivasi
+### Jalur Mesolimbik
 
 Sebelum membedah organ-organnya satu per satu, kita perlu mengenal **Jalur Mesolimbik**. Bayangkan ini sebagai jalan tol utama tempat pesan-pesan kimiawi, terutama **dopamin**, mengalir cepat untuk menggerakkan perilaku kita.
 
@@ -16,12 +16,12 @@ Sebelum membedah organ-organnya satu per satu, kita perlu mengenal **Jalur Mesol
 
 ### 1. Ventral Tegmental Area (VTA)
 
-Terletak jauh di bagian tengah otak (*midbrain*), **Ventral Tegmental Area (VTA)** adalah titik awal dari segala keinginan dan motivasi. Jika sistem reward diibaratkan sebuah kendaraan, maka VTA adalah mesin utamanya.
+Terletak jauh di bagian tengah otak (*midbrain*), **Ventral Tegmental Area (VTA)** adalah titik awal keinginan dan motivasi. Jika sistem reward diibaratkan sebuah kendaraan, maka VTA adalah mesin utamanya.
 
 - **Peran Utama:** VTA merupakan rumah bagi badan sel saraf (neuron dopaminergik) yang memproduksi **dopamin**. Ketika otak mendeteksi rangsangan yang berpotensi memberikan imbalan (seperti aroma makanan lezat atau peluang baru yang menjanjikan), neuron di VTA akan menembakkan dopamin ke struktur otak lainnya.
 - **Analogi:** Bayangkan VTA sebagai **Pabrik Pengolahan Bahan Bakar**. VTA tidak menentukan ke mana kendaraan akan melaju, melainkan menyediakan energi dan bahan bakar motivasi agar kendaraan tersebut bisa bergerak.
 
-> *Saat kamu merasa sangat bersemangat memulai hobi baru atau mengejar target kerja, VTA kamu sedang bekerja aktif membanjiri sirkuit otak dengan dopamin.*
+> *Saat kamu merasa sangat bersemangat memulai hobi baru atau mengejar target kerja, VTA kamu sedang aktif mengirim dopamin ke sirkuit otak.*
 
 ---
 
@@ -43,7 +43,7 @@ Di bagian paling depan tempurung kepala manusia terdapat **Prefrontal Cortex (PF
 
 - **Peran Utama:** PFC bertanggung jawab atas fungsi eksekutif, meliputi perencanaan strategis, penilaian moral, prediksi konsekuensi masa depan, dan pengendalian impuls. PFC bertindak sebagai "rem" atau "kemudi utama".
 - **Interaksi dengan Sistem Imbalan:** Saat VTA dan NAc berteriak *"Beli barang ini sekarang!"*, PFC mengambil alih dan memperingatkan *"Tunggu, alokasikan anggaran untuk kebutuhan prioritas minggu depan."*
-- **Analogi:** PFC adalah **CEO atau Navigasi Mobil**. PFC memantau gambaran besar dan menentukan apakah dorongan dari NAc layak ditindaklanjuti atau harus ditunda demi tujuan yang lebih krusial.
+- **Analogi:** PFC adalah **CEO atau Navigasi Mobil**. PFC memantau gambaran besar dan menentukan apakah dorongan dari NAc layak ditindaklanjuti atau harus ditunda demi tujuan yang lebih penting.
 
 ---
 
@@ -57,7 +57,7 @@ $$
 $$
 </div>
 
-Jika kontrol PFC melemah (misalnya akibat kelelahan fisik, stres kronis, atau kurang tidur), maka penyebut dalam persamaan ini mengecil sehingga nilai motivasi untuk tindakan impulsif akan meningkat drastis.
+Jika kontrol PFC melemah (misalnya akibat kelelahan fisik, stres kronis, atau kurang tidur), maka penyebut dalam persamaan ini mengecil sehingga nilai motivasi untuk tindakan impulsif akan meningkat.
 
 ---
 
@@ -73,7 +73,7 @@ Selain tiga struktur utama di atas, terdapat beberapa komponen pendukung yang me
 
 ---
 
-### Penajaman dan "Hijacking" Otak
+### Mengapa Sulit Berhenti Menggulir Media Sosial
 
 Mengapa kita sering kali sulit berhenti menggulir media sosial meskipun menyadari ada tugas penting yang harus diselesaikan?
 
@@ -85,7 +85,7 @@ Mengapa kita sering kali sulit berhenti menggulir media sosial meskipun menyadar
 
 ---
 
-### Ringkasan Komponen Sistem Reward Otak
+### Tiga Komponen Utama Sistem Reward
 
 | Komponen Otak | Analogi Kendaraan | Fungsi Utama |
 | :--- | :--- | :--- |
@@ -95,4 +95,4 @@ Mengapa kita sering kali sulit berhenti menggulir media sosial meskipun menyadar
 
 ---
 
-> **Bahan Refleksi:** Dalam 24 jam meingat kembali, aktivitas mana yang paling intens menekan "Pedal Gas" (Nucleus Accumbens) kamu, dan dalam momen apa "CEO" (Prefrontal Cortex) kamu berhasil memegang kendali penuh?
+> **Bahan Refleksi:** Dalam 24 jam mengingat kembali, aktivitas mana yang paling intens menekan "Pedal Gas" (Nucleus Accumbens) kamu, dan dalam momen apa "CEO" (Prefrontal Cortex) kamu berhasil memegang kendali penuh?

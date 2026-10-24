@@ -1,6 +1,6 @@
 ## Pengantar Teori Permainan
 
-Selamat datang di dunia Teori Permainan! Pernahkah kamu merasa bahwa hidup ini seperti papan catur raksasa? Di mana setiap keputusan yang kamu ambil, mulai dari menawarkan harga saat menawar di pasar hingga memilih strategi kampanye pemasaran, sangat bergantung pada apa yang akan dilakukan orang lain?
+Pernahkah kamu merasa bahwa hidup ini seperti papan catur? Setiap keputusan yang kamu ambil, mulai dari menawarkan harga saat menawar di pasar hingga memilih strategi kampanye pemasaran, bergantung pada apa yang akan dilakukan orang lain.
 
 Jika ya, kamu sudah mulai berpikir secara strategis. **Teori Permainan (Game Theory)** adalah kerangka kerja matematis dan logis yang digunakan untuk menganalisis situasi di mana hasil dari tindakan kamu tidak hanya ditentukan oleh pilihan kamu sendiri, melainkan juga oleh pilihan orang lain.
 
@@ -22,9 +22,9 @@ Pilihan kamu (mengebut atau santai) sangat bergantung pada perkiraan kamu tentan
 
 Teori permainan tidak muncul begitu saja. Ia berevolusi dari sekadar rasa ingin tahu tentang perjudian menjadi alat analisis kebijakan tingkat tinggi.
 
-1. **Awal Mula (1920-an):** Ilmuwan seperti **James Waldegrave** dan **Emile Borel** mulai mempelajari permainan kartu. Namun, fondasi kokoh baru diletakkan oleh **John von Neumann** pada tahun 1928 melalui pembuktian teorema *minimax*.
-2. **Lahirnya Disiplin Ilmu (1944):** Terbitnya buku monumental *Theory of Games and Economic Behavior* oleh **John von Neumann** dan **Oskar Morgenstern**. Buku ini secara resmi memperkenalkan teori permainan sebagai alat analisis ekonomi.
-3. **Revolusi Nash (1950-an):** **John Nash** (yang kisahnya difilmkan dalam *A Beautiful Mind*) memperluas teori ini melampaui permainan "menang-kalah" murni. Ia memperkenalkan konsep **Ekuilibrium Nash**, yang menjelaskan titik keseimbangan di mana tidak ada pemain yang mau mengubah strateginya secara sepihak.
+1. **Awal Mula (1920-an):** Ilmuwan seperti **James Waldegrave** dan **Emile Borel** mulai mempelajari permainan kartu. Namun, fondasinya baru diletakkan oleh **John von Neumann** pada tahun 1928 melalui pembuktian teorema *minimax*.
+2. **Lahirnya Disiplin Ilmu (1944):** Terbitnya buku *Theory of Games and Economic Behavior* oleh **John von Neumann** dan **Oskar Morgenstern**. Buku ini secara resmi memperkenalkan teori permainan sebagai alat analisis ekonomi.
+3. **Era Nash (1950-an):** **John Nash** (yang kisahnya difilmkan dalam *A Beautiful Mind*) memperluas teori ini melampaui permainan "menang-kalah" murni. Ia memperkenalkan konsep **Ekuilibrium Nash**, yang menjelaskan titik keseimbangan di mana tidak ada pemain yang mau mengubah strateginya secara sepihak.
 4. **Era Modern:** Sejak 1970-an, teori permainan merambah ke biologi evolusioner, ilmu politik, hingga desain algoritma internet dan lelang spektrum frekuensi seluler.
 
 ## Mengapa Teori Permainan Penting?
@@ -74,4 +74,4 @@ Setelah memahami bahwa teori permainan adalah tentang interaksi strategis, kita 
 2. **Strategi (Strategies):** Apa saja pilihan yang mereka miliki?
 3. **Hasil/Imbalan (Payoffs):** Apa yang mereka dapatkan dari kombinasi pilihan tersebut?
 
-*Persiapkan diri kamu, karena memahami elemen-elemen ini adalah kunci untuk memecahkan teka-teki interaksi manusia yang paling kompleks sekalipun.*
+*Persiapkan diri kamu, karena ketiga elemen ini menjadi dasar setiap analisis teori permainan.*

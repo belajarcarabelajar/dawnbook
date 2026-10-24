@@ -1,6 +1,6 @@
 ## Teknologi Pelacakan dan Jejak Digital
 
-Pernahkah kamu merasa seolah-olah internet "mengikuti" kamu? Kamu baru saja melihat sepasang sepatu di sebuah toko online, dan tiba-tiba, iklan sepatu yang sama muncul di Instagram, portal berita, hingga aplikasi cuacamu. Ini bukan sihir, dan bukan juga kebetulan. Ini adalah hasil kerja dari ekosistem teknologi pelacakan yang sangat canggih.
+Pernahkah kamu merasa seolah-olah internet "mengikuti" kamu? Kamu baru saja melihat sepasang sepatu di sebuah toko online, dan tiba-tiba, iklan sepatu yang sama muncul di Instagram, portal berita, hingga aplikasi cuacamu. Ini bukan kebetulan. Ini adalah hasil kerja dari ekosistem teknologi pelacakan.
 
 Dalam bagian ini, kita akan membongkar mekanisme di balik "mata-mata digital" ini dan memahami bagaimana setiap langkah yang kamu ambil di internet meninggalkan jejak yang dapat dibaca oleh algoritma.
 
@@ -21,7 +21,7 @@ Dalam dunia periklanan digital, kita membedakan cookie menjadi dua kategori utam
 
 Jika cookie adalah file teks, **Pixel Tracking** (sering disebut *web beacon* atau *tracking pixel*) adalah elemen visual yang nyaris tidak terlihat.
 
-**Pixel Tracking** adalah gambar transparan berukuran $1 \times 1$ piksel yang disematkan dalam situs web atau email. Karena ukurannya yang mikroskopis dan transparan, mata manusia tidak dapat melihatnya, tetapi server pengiklan dapat mendeteksinya.
+**Pixel Tracking** adalah gambar transparan berukuran $1 \times 1$ piksel yang disematkan dalam situs web atau email. Karena ukurannya hanya satu piksel dan transparan, mata manusia tidak dapat melihatnya, tetapi server pengiklan dapat mendeteksinya.
 
 #### Bagaimana Cara Kerjanya?
 
@@ -80,7 +80,7 @@ Alih-alih menyimpan file di perangkatmu, teknik ini mengumpulkan puluhan informa
 - Zona waktu.
 - Pengaturan bahasa.
 
-Meskipun satu informasi (seperti "resolusi layar") dimiliki jutaan orang, kombinasi dari 20-30 informasi teknis ini hampir pasti bersifat unik bagimu. Probabilitas dua orang memiliki sidik jari browser yang identik sangatlah kecil, dinyatakan dalam rasio yang sangat ekstrem: $P(\text{match}) \approx \frac{1}{2^{33}}$
+Meskipun satu informasi (seperti "resolusi layar") dimiliki jutaan orang, kombinasi dari 20-30 informasi teknis ini hampir pasti bersifat unik bagimu. Probabilitas dua orang memiliki sidik jari browser yang identik sangatlah kecil: $P(\text{match}) \approx \frac{1}{2^{33}}$
 
 ### Perjalanan Data Andi Mencari Tenda
 
@@ -91,7 +91,7 @@ Mari kita lihat bagaimana teknologi ini bekerja bersama dalam sebuah skenario ny
 3. **Langkah 3:** Andi menutup situs tersebut dan membuka aplikasi Instagram di ponselnya. Instagram mengenali **Device ID** Andi yang sudah terhubung dengan profil minat "Outdoor".
 4. **Langkah 4:** Melalui sistem lelang cepat (RTB), iklan tenda model A yang dilihat Andi tadi langsung muncul di *feed* Andi.
 
-### Ringkasan Jejak Digital
+### Perbandingan Empat Teknologi Pelacakan
 
 | Teknologi | Bentuk | Lokasi Penyimpanan | Kegunaan Utama |
 | --- | --- | --- | --- |

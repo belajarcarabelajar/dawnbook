@@ -12,7 +12,7 @@ Steel (2007) menganalisis 691 korelasi dalam meta-analisisnya tentang penundaan,
 
 Terjemahan yang setia kira-kira begini: menunda berarti menangguhkan, secara sukarela, tindakan yang sebenarnya sudah kamu niatkan, padahal kamu memperkirakan dirimu akan lebih buruk keadaannya akibat penangguhan itu. Ada tiga unsur di dalamnya. Penundaannya **sukarela**, artinya tidak dipaksa keadaan. Tindakannya **diniatkan**, artinya kamu memang mau melakukannya. Dan kamu **mengharapkan rugi**, artinya sebagian dirimu sudah menghitung bahwa menunda itu tidak menguntungkan.
 
-Ketiga unsur itu menjelaskan kenapa pengalaman menunda terasa begitu aneh dari dalam. Kamu tidak bingung soal apa yang benar. Kamu hanya tidak melakukannya.
+Ketiga unsur itu menjelaskan kenapa pengalaman menunda terasa aneh dari dalam. Kamu tidak bingung soal apa yang benar. Kamu hanya tidak melakukannya.
 
 ### Beda dengan malas, prioritas, dan penundaan strategis
 
@@ -41,7 +41,7 @@ Alasannya masuk akal kalau kita lihat apa yang ditemukan Steel. Prediktor yang k
 
 Perlu dicatat juga bahwa hasil Steel konsisten dengan **temporal motivation theory**, perpaduan teori ekspektansi dan diskonto hiperbolik, yang akan menjadi tulang punggung pembahasan sesudah ini.
 
-### Peta perjalanan kita
+### Urutan pembahasan buku ini
 
 Buku ini bergerak dari penjelasan ke tindakan. Setelah bab ini, kamu akan berkenalan dengan persamaan motivasi dalam temporal motivation theory, lalu dengan cara kerja preferensi waktu: kenapa hadiah yang jauh terasa kecil dan kenapa diri masa depan terasa seperti orang lain. Sesudah itu giliran emosi dan stres, ketakutan gagal dan perfeksionisme, serta jejak genetika yang perlu dibaca dengan hati-hati. Kita juga akan melihat biayanya bagi kesehatan dan tidur, lalu menutup dengan strategi yang diteliti, dari rencana jika-maka sampai welas diri.
 

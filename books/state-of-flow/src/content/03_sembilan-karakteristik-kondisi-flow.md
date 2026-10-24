@@ -69,14 +69,14 @@ Waktu seolah-olah memiliki aturannya sendiri. Fenomena ini sering disebut sebaga
 
 Kata "autotelik" berasal dari bahasa Yunani *autos* (diri sendiri) dan *telos* (tujuan). Aktivitas tersebut menjadi hadiah bagi dirinya sendiri. Kamu melakukannya bukan demi uang, ketenaran, atau pujian, melainkan karena aktivitas itu sendiri terasa sangat memuaskan.
 
-## Sang Programmer dan Sembilan Elemen Flow
+## Budi Memperbaiki Bug Sistem Keamanan Bank
 
 Mari kita lihat bagaimana sembilan elemen ini bekerja dalam satu skenario nyata:
 
 **Skenario:** Budi sedang memperbaiki *bug* rumit di sistem keamanan bank.
 
 1. **Tantangan vs Keterampilan:** *Bug* ini sulit, tetapi Budi memiliki pengalaman 5 tahun di bidang ini. Dia merasa tertantang tapi mampu.
-2. **Penyatuan Aksi & Kesadaran:** Jari-jari Budi menari di atas keyboard; dia tidak lagi berpikir tentang letak tombol, pikirannya langsung tertuang menjadi baris kode.
+2. **Penyatuan Aksi & Kesadaran:** Budi tidak lagi berpikir tentang letak tombol keyboard; pikirannya langsung tertuang menjadi baris kode.
 3. **Tujuan Jelas:** Dia harus mengisolasi fungsi yang menyebabkan kebocoran memori.
 4. **Umpan Balik:** Setiap kali dia menjalankan *script* pengujian, terminal memberikan hasil "Pass" atau "Fail" secara instan.
 5. **Konsentrasi:** Rekan kantornya sedang berdiskusi keras di dekatnya, tapi Budi sama sekali tidak mendengar mereka.

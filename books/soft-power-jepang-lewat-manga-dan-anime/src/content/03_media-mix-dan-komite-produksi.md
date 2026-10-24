@@ -10,11 +10,11 @@ Stiker tadi bukan khayalan. Di bab 2 kamu sudah bertemu stiker Atom yang dibagik
 
 Steinberg juga menyamakan *media mix* dengan apa yang di Barat dinamai konvergensi media (*convergence*). Dalam bacaannya, keduanya sama-sama berawal dari Astro Boy pada awal 1963, dan garis itu terus berlanjut ke waralaba yang datang belakangan.
 
-### Satu Tokoh, Banyak Pintu
+### Satu Tokoh di Banyak Medium
 
 Intinya, sebuah cerita tidak dimiliki satu medium. Manga bisa menjadi sumbernya. Anime bertugas sebagai pengeras suara. Mainan dan gim memberi penggemar cara untuk "memegang" tokoh yang mereka sukai, sedangkan lagu temanya menempel di kepala. Masing-masing pintu menunjuk ke pintu yang lain.
 
-### Meja Patungan Para Pemodal
+### Usaha Patungan Para Pemodal
 
 Lalu, siapa yang membayar semua itu? Sebuah tulisan di [Sakuga Blog](https://blog.sakugabooru.com/2017/05/02/what-is-an-animes-production-committee/) pada Mei 2017 menjelaskan komite produksi sebagai usaha patungan beberapa perusahaan untuk mendanai satu karya. Di meja yang sama bisa duduk penerbit, stasiun televisi, produsen mainan, biro iklan, dan distributor film.
 
@@ -22,9 +22,9 @@ Patungan semacam ini membagi risiko. Kalau sebuah judul gagal, kerugian tiap ang
 
 Contoh yang diangkat Sakuga Blog adalah *Akira*, salah satu film awal yang dibiayai dengan cara ini, dengan anggota antara lain Kodansha, MBS, Bandai, Hakuhodo, Toho, dan Tokyo Movie. Tulisan itu juga mencatat bahwa model komite makin meluas setelah *Evangelion* (1995).
 
-### Animator di Pinggir Meja
+### Porsi Kecil Studio Animasi di Komite
 
-Satu pihak sering hanya kebagian ujung meja itu. Studio animasi, tempat para animator benar-benar menggambar, sering hanya menjadi anggota kecil komite, dan kerap tidak menjadi anggota sama sekali, masih menurut tulisan yang sama. Akibatnya, ketika sebuah judul meledak, sebagian besar hasilnya bisa mengalir ke pihak lain, bukan ke tangan yang membuat gambarnya bergerak. Ketimpangan ini dibahas lebih dalam di bab 12.
+Satu pihak sering hanya kebagian ujung meja itu. Studio animasi, tempat para animator benar-benar menggambar, sering hanya menjadi anggota kecil komite, dan kerap tidak menjadi anggota sama sekali, masih menurut tulisan yang sama. Akibatnya, ketika sebuah judul laris, sebagian besar hasilnya bisa mengalir ke pihak lain, bukan ke tangan yang membuat gambarnya bergerak. Ketimpangan ini dibahas lebih dalam di bab 12.
 
 ### Rantai Pokémon dari Konsol ke Bioskop
 

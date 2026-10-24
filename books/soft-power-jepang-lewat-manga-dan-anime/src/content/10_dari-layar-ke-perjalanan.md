@@ -4,7 +4,7 @@ Di dekat sebuah stasiun kecil di Kamakura ada perlintasan kereta yang kerap dike
 
 Sekarang tempatkan dirimu di antara mereka. Kamu menempuh perjalanan jauh bukan demi kuil atau pantai, tetapi demi satu titik yang pernah kamu lihat di layar. Bab ini mengikuti gerak dari layar ke perjalanan itu, dari peluang yang dibawanya bagi kota sampai perlintasan yang kewalahan.
 
-### Alamat bagi Sebuah Cerita
+### Lokasi Anime yang Didatangi Penggemar
 
 Tempat yang didatangi penggemar sering kali biasa saja: stasiun, sekolah, tangga, atau persimpangan yang muncul dalam sebuah anime. Mengunjunginya adalah cara memperpanjang pengalaman menonton. Cerita yang tadinya hanya hidup di layar kini punya alamat.
 
@@ -16,9 +16,9 @@ Bagi pemerintah daerah, tamu semacam ini membuka peluang. Mereka datang dengan a
 
 Kebiasaan yang spontan itu lama-lama diberi bentuk resmi. Anime Tourism Association (Asosiasi Pariwisata Anime) didirikan pada September 2016, dan [Travel Voice](https://www.travelvoice.jp/20170826-95799) melaporkan bahwa asosiasi ini mengumumkan daftar pertamanya, "88 Japanese Anime Spots" edisi 2018, pada 26 Agustus 2017. Kuki, kota yang dikenal penggemar *Lucky Star*, masuk daftar itu, begitu pula Hida, yang terkait dengan *Kimi no Na wa*.
 
-Daftar seperti ini bekerja seperti peta harta karun yang bisa kamu tuntaskan satu per satu. Situs resmi asosiasi itu menunjukkan daftarnya masih diperbarui, dan pemungutan suara untuk edisi 2027 ditutup pada 20 September 2026.
+Daftar seperti ini bisa kamu tuntaskan satu per satu sebagai rencana kunjungan. Situs resmi asosiasi itu menunjukkan daftarnya masih diperbarui, dan pemungutan suara untuk edisi 2027 ditutup pada 20 September 2026.
 
-### Arus Tamu yang Belum Bisa Dipilah
+### Berapa Wisatawan Datang karena Anime
 
 Semua ini berlangsung di tengah lonjakan kunjungan asing ke Jepang. Data final JNTO (Organisasi Pariwisata Nasional Jepang) mencatat 36.870.148 wisatawan mancanegara pada 2024, dan perkiraan untuk 2025 sekitar 42.683.600 orang. Untuk tahun yang sama, menurut [nippon.com](https://www.nippon.com/en/japan-data/h02673/), belanja wisatawan mencapai 9,5 triliun yen, dan pemerintah memasang target 60 juta pengunjung dengan belanja 15 triliun yen pada 2030.
 

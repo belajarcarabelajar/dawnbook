@@ -1,8 +1,8 @@
-## Dampak Media Sosial dan Social Comparison
+## Dampak Media Sosial dan Perbandingan Sosial
 
-Pernahkah kamu mendapati dirimu terbangun di tengah malam, menggulir layar ponsel, dan tiba-tiba merasa hidupmu sangat tertinggal dibandingkan teman-teman SMA-mu? Di layar, mereka tampak sedang merayakan promosi jabatan, bertunangan di Paris, atau sekadar menikmati kopi estetis di kafe mahal. Sementara itu, kamu mungkin masih berkutat dengan tumpukan cucian atau kebingungan mencari arah karier.
+Pernahkah kamu terbangun di tengah malam, menggulir layar ponsel, dan tiba-tiba merasa hidupmu sangat tertinggal dibandingkan teman-teman SMA-mu? Di layar, mereka tampak sedang merayakan promosi jabatan, bertunangan di Paris, atau sekadar menikmati kopi estetis di kafe mahal. Sementara itu, kamu mungkin masih berkutat dengan tumpukan cucian atau kebingungan mencari arah karier.
 
-Inilah jantung dari *Quarter-Life Crisis* di era digital. Media sosial telah mengubah cara kita menilai kesuksesan diri sendiri, mengubah pencapaian orang lain menjadi tolok ukur yang sering kali tidak realistis.
+Beginilah *Quarter-Life Crisis* tampil di era digital. Media sosial telah mengubah cara kita menilai kesuksesan diri sendiri, mengubah pencapaian orang lain menjadi tolok ukur yang sering kali tidak realistis.
 
 ### 1\. Mekanisme Social Comparison
 
@@ -42,7 +42,7 @@ Semakin tinggi ekspektasi yang kita bangun dari melihat kurasi kehidupan orang l
 Media sosial adalah platform **curation**, bukan dokumentasi. Pengguna secara selektif memilih momen terbaik untuk ditampilkan. Hal ini menciptakan distorsi yang disebut sebagai *Availability Bias*, kecenderungan otak kita untuk menganggap informasi yang paling mudah diingat (foto liburan mewah, berita sukses) sebagai gambaran umum dari realitas.
 
 - **Validation Algorithm:** Kita mengejar *likes* dan *comments* sebagai indikator kesuksesan sosial. Saat angka tersebut rendah, kita merasa nilai diri kita juga rendah.
-- **Filter dan Edit:** Penggunaan filter tidak hanya pada wajah, tapi pada narasi hidup. Kegagalan jarang sekali "diposting", sehingga dunia digital tampak seperti kompetisi tanpa henti untuk menjadi sempurna.
+- **Filter dan Edit:** Penggunaan filter tidak hanya pada wajah, tapi pada narasi hidup. Kegagalan jarang sekali "diposting", sehingga dunia digital tampak seperti kompetisi untuk menjadi sempurna.
 
 *Coba ingat-ingat kembali unggahan terakhir kamu. Apakah kamu menampilkan kesulitan yang kamu alami saat mengambil foto tersebut, atau hanya hasil akhirnya yang tampak sempurna? Jika kamu melakukannya, kemungkinan besar orang lain juga melakukan hal yang sama.*
 
@@ -78,7 +78,7 @@ Belajarlah untuk menikmati momen di mana kamu *tidak* terlibat dalam segala hal.
 
 ### Kesimpulan untuk Bagian Ini
 
-Media sosial adalah alat, namun di usia 20-an, alat ini sering kali menjadi cermin yang retak. Ia menunjukkan versi diri kita yang tidak utuh dan versi orang lain yang terlalu indah. Mengenali bahwa apa yang kamu lihat di layar hanyalah sebagian kecil dari kebenaran adalah langkah pertama untuk meredakan badai *Quarter-Life Crisis*.
+Media sosial adalah alat, namun di usia 20-an, alat ini sering kali menjadi cermin yang retak. Ia menunjukkan versi diri kita yang tidak utuh dan versi orang lain yang terlalu indah. Mengenali bahwa apa yang kamu lihat di layar hanyalah sebagian kecil dari kebenaran adalah langkah pertama untuk meredakan *Quarter-Life Crisis*.
 
 **Penting:**
 

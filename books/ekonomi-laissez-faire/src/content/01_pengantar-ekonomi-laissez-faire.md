@@ -1,6 +1,6 @@
 ## Pengantar Ekonomi Laissez-faire
 
-Selamat datang di titik awal penjelajahan kamu mengenai salah satu konsep paling berpengaruh dalam sejarah ekonomi modern. Bayangkan sebuah pasar yang hiruk-pikuk di mana setiap pedagang dan pembeli berinteraksi tanpa ada polisi harga, tanpa subsidi dari raja, dan tanpa aturan rumit dari pemerintah. Inilah inti dari **Laissez-faire**.
+Laissez-faire adalah gagasan bahwa ekonomi berjalan paling baik ketika pemerintah tidak ikut mengatur harga dan perdagangan. Bayangkan sebuah pasar yang hiruk-pikuk di mana setiap pedagang dan pembeli berinteraksi tanpa ada polisi harga, tanpa subsidi dari raja, dan tanpa aturan rumit dari pemerintah. Inilah inti dari **Laissez-faire**.
 
 Dalam bagian ini, kita akan membedah akar kata, definisi, dan pondasi filosofis yang membuat sistem ini menjadi tulang punggung pemikiran ekonomi klasik.
 
@@ -12,7 +12,7 @@ Istilah **Laissez-faire** (diucapkan: *le-se-fer*) berasal dari bahasa Prancis. 
 
 Asal-usul istilah ini sering dikaitkan dengan sebuah pertemuan pada tahun 1681 antara menteri keuangan Prancis yang sangat berkuasa, **Jean-Baptiste Colbert**, dengan sekelompok pengusaha Prancis yang dipimpin oleh **M. Le Gendre**.
 
-Colbert, yang percaya bahwa ekonomi harus diatur ketat oleh negara (merkantilisme), bertanya kepada para pengusaha tersebut tentang apa yang bisa dilakukan pemerintah untuk membantu memajukan perdagangan mereka. Jawaban Le Gendre sangat sederhana namun revolusioner:
+Colbert, yang percaya bahwa ekonomi harus diatur ketat oleh negara (merkantilisme), bertanya kepada para pengusaha tersebut tentang apa yang bisa dilakukan pemerintah untuk membantu memajukan perdagangan mereka. Jawaban Le Gendre sederhana:
 
 > *"Laissez-nous faire."* (Biarkan kami melakukannya sendiri.)
 
@@ -63,7 +63,7 @@ Untuk memahami peran pemerintah dalam sistem Laissez-faire, mari gunakan analogi
 
 > *Dalam Laissez-faire, pemerintah adalah sang wasit, bukan sang pelatih.*
 
-## 5. Aplikasi Dunia Nyata & Skenario
+## 5. Contoh Penerapan di Kebijakan Tertentu
 
 Meskipun saat ini hampir tidak ada negara yang menerapkan Laissez-faire 100%, prinsip-prinsipnya sering muncul dalam kebijakan tertentu.
 
@@ -80,8 +80,8 @@ Pada akhir 1990-an, pertumbuhan internet sangat pesat sebagian besar karena peme
 
 ## 6. Mengapa Laissez-faire Penting untuk Dipelajari?
 
-Memahami Laissez-faire adalah kunci untuk memahami perdebatan politik dan ekonomi hari ini. Ketika kamu mendengar berita tentang "pemotongan pajak", "deregulasi", atau "swastanisasi", kamu sebenarnya sedang menyaksikan prinsip-prinsip Laissez-faire yang diperdebatkan di panggung modern.
+Memahami Laissez-faire adalah kunci untuk memahami perdebatan politik dan ekonomi hari ini. Ketika kamu mendengar berita tentang "pemotongan pajak", "deregulasi", atau "swastanisasi", kamu sebenarnya sedang menyaksikan prinsip-prinsip Laissez-faire yang sedang diperdebatkan saat ini.
 
 > **Wawasan Memorable:** Laissez-faire bukan berarti ketiadaan aturan sama sekali; ia adalah keyakinan bahwa aturan yang paling efektif adalah aturan yang dibuat oleh interaksi sukarela antara manusia, bukan oleh paksaan negara.
 
-*Apakah menurut kamu pasar benar-benar bisa mengatur dirinya sendiri tanpa bantuan polisi atau hukum yang ketat? Di bagian selanjutnya, kita akan menelusuri bagaimana pemikiran ini berkembang dari para Fisiokrat Prancis hingga mencapai puncaknya pada karya legendaris Adam Smith.*
+*Apakah menurut kamu pasar benar-benar bisa mengatur dirinya sendiri tanpa bantuan polisi atau hukum yang ketat? Di bagian selanjutnya, kita akan menelusuri bagaimana pemikiran ini berkembang dari para Fisiokrat Prancis hingga mencapai puncaknya pada karya Adam Smith.*

@@ -4,7 +4,7 @@ Bayangkan seorang mahasiswa bernama Raka (tokoh rekaan, hanya untuk ilustrasi). 
 
 Lalu kalender bergeser. Minggu kesepuluh, tiga tugas jatuh tempo dalam empat hari. Raka begadang dengan kopi ketiga, tenggorokannya mulai sakit, dan ia mengirim file setengah jam sebelum batas waktu. Di minggu keempat belas, ia pilek berkepanjangan dan nilainya tidak seperti yang ia harapkan. Ketenangan di awal semester ternyata bukan gratis. Tagihannya hanya datang belakangan, dan jumlahnya lebih besar dari yang ia kira.
 
-### Tagihan yang datang belakangan
+### Stres yang naik menjelang akhir semester
 
 Kisah Raka rekaan, tetapi pola yang mirip pernah diukur secara sistematis. Tice dan Baumeister (1997) mengikuti mahasiswa dalam dua studi longitudinal (N = 44 dan N = 57), dengan skala penundaan umum dan tugas-tugas kelas sebagai ukurannya. Hasilnya menarik karena arahnya berubah seiring waktu. Para penunda melaporkan stres dan keluhan sakit yang **lebih rendah** di awal semester. Menjelang akhir semester, keadaannya terbalik: stres dan keluhan sakit mereka **lebih tinggi**, dan secara keseluruhan mereka lebih sering sakit. Nilai mereka juga lebih rendah pada semua tugas.
 

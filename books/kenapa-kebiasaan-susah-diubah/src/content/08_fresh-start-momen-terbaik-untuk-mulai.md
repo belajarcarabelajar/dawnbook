@@ -14,19 +14,19 @@ Mekanismenya menarik. Landmark waktu bekerja seperti garis pemisah yang digores 
 
 ### Dua mekanisme yang saling menguatkan
 
-Bab sebelumnya sudah memperkenalkan kekuatan konteks. Verplanken dan Roy (2016) menunjukkan lewat eksperimen lapangan bahwa intervensi perubahan perilaku jauh lebih efektif saat seseorang berada di momen perubahan hidup, dan mereka menyebutnya **habit discontinuity hypothesis**: perpindahan konteks memutus rantai pemicu lama sehingga niat mendapat ruang bernapas. Jadi apa bedanya dengan fresh start effect?
+Bab sebelumnya sudah memperkenalkan kekuatan konteks. Verplanken dan Roy (2016) menunjukkan lewat eksperimen lapangan bahwa intervensi perubahan perilaku jauh lebih efektif saat seseorang berada di momen perubahan hidup, dan mereka menyebutnya **habit discontinuity hypothesis**: perpindahan konteks memutus rantai pemicu lama sehingga niat mendapat ruang. Jadi apa bedanya dengan fresh start effect?
 
-Bedanya pada sasaran kerjanya, dan justru di situlah kekuatan gabungannya. Habit discontinuity bekerja dari luar: ia memutus pemicu lingkungan sehingga kebiasaan lama kehilangan bahan bakarnya. Fresh start effect bekerja dari dalam: ia mengubah cara kamu merasakan waktu dan identitas, membuat masa lalu terasa tutup dan diri baru terasa mungkin. Satu menggeser panggung, satu mengganti naskahnya. Ketika keduanya jatuh bersamaan, misalnya kamu memulai perbaikan kebiasaan tepat saat pindah rumah di awal tahun, dorongan dari dalam dan ruang dari luar saling menguatkan, dan jendela perubahan itu terbuka selebar-lebarnya.
+Bedanya pada sasaran kerjanya, dan karena sasarannya berbeda, keduanya bisa digabung. Habit discontinuity bekerja dari luar: ia memutus pemicu lingkungan sehingga kebiasaan lama kehilangan bahan bakarnya. Fresh start effect bekerja dari dalam: ia mengubah cara kamu merasakan waktu dan identitas, membuat masa lalu terasa tutup dan diri baru terasa mungkin. Satu menggeser panggung, satu mengganti naskahnya. Ketika keduanya jatuh bersamaan, misalnya kamu memulai perbaikan kebiasaan tepat saat pindah rumah di awal tahun, dorongan dari dalam dan ruang dari luar saling menguatkan, dan jendela perubahan itu terbuka lebih lebar.
 
 Tapi ingat catatan bab lalu: jendela itu sempit dan efeknya memudar. Prinsip yang sama berlaku di sini. Perasaan mulai baru itu juga punya umur, dan memahami cara memakainya sebelum menguap adalah keterampilan yang membedakan orang yang berhasil dari yang hanya ikut-ikutan Januari.
 
-### Memakainya dengan cerdas
+### Aturan memakai momen fresh start
 
-Aturan pertama: pilih landmark yang terdekat, bukan yang paling megah. Banyak orang menunda perubahan sampai 1 Januari karena merasa momen itu paling "sah", padahal Senin depan atau tanggal 1 bulan depan bekerja dengan mekanisme yang sama. Menunggu landmark besar sering kali hanya penundaan yang menyamar jadi persiapan. Karena garis pemisahnya datang tiap minggu, kamu tidak kekurangan kesempatan; yang kamu butuhkan hanya mau memakai yang terdekat.
+Aturan pertama: pilih landmark yang terdekat, bukan yang paling besar. Banyak orang menunda perubahan sampai 1 Januari karena merasa momen itu paling "sah", padahal Senin depan atau tanggal 1 bulan depan bekerja dengan mekanisme yang sama. Menunggu landmark besar sering kali hanya penundaan yang menyamar jadi persiapan. Karena garis pemisahnya datang tiap minggu, kamu tidak kekurangan kesempatan; yang kamu butuhkan hanya mau memakai yang terdekat.
 
 Aturan kedua: siapkan desain konteks sebelum landmark tiba. Ini pelajaran langsung dari bab sebelumnya. Jendela perubahan itu sempit, jadi membuang hari-hari pertamanya untuk merapikan lingkungan sama saja dengan membiarkan pintu terbuka tanpa masuk. Susun ulang meja, ganti rute, jauhkan pemicu lama sebelum garis pemisah digores. Begitu momen tiba, kamu tinggal berlari di lintasan yang sudah rapi, bukan menyapunya sambil berlari.
 
-Aturan ketiga: manfaatkan fase awal saat kemajuan paling terasa. Ingat kurva asimtotik dari studi Lally (2010): otomatisitas tumbuh paling cepat di hari-hari dan minggu-minggu pertama, lalu melandai menjelang plafonnya. Ini pasangan yang nyaris sempurna. Fresh start memberi semangat di awal, dan kurva Lally memberi hasil yang terlihat di awal juga. Semangat menghasilkan aksi, aksi menghasilkan kemajuan yang kelihatan, dan kemajuan yang kelihatan kembali memberi semangat. Mulai saat momentum masih tinggi berarti menunggangi dua gaya sekaligus di bagian lintasan yang paling curam.
+Aturan ketiga: manfaatkan fase awal saat kemajuan paling terasa. Ingat kurva asimtotik dari studi Lally (2010): otomatisitas tumbuh paling cepat di hari-hari dan minggu-minggu pertama, lalu melandai menjelang plafonnya. Keduanya cocok dipasangkan. Fresh start memberi semangat di awal, dan kurva Lally memberi hasil yang terlihat di awal juga. Semangat menghasilkan aksi, aksi menghasilkan kemajuan yang kelihatan, dan kemajuan yang kelihatan kembali memberi semangat. Mulai saat momentum masih tinggi berarti memakai keduanya di fase ketika kemajuan paling cepat.
 
 ### Efek yang musiman, sistem yang permanen
 
@@ -38,6 +38,6 @@ Jadi posisikan momen mulai pada tempatnya yang benar. Ia adalah saat terbaik unt
 
 - **Fresh start effect** (Dai, Milkman dan Riis, 2014): landmark waktu seperti tahun baru, Senin, tanggal 1, dan ulang tahun meningkatkan motivasi untuk perilaku aspiratif, karena masa lalu dengan segala kegagalannya terasa terpisah dari diri sekarang.
 - Efek ini bekerja dari dalam, pada rasa identitas dan waktu, sedangkan habit discontinuity di bab 7 memutus pemicu konteks dari luar; keduanya saling menguatkan saat terjadi bersamaan.
-- Pilih landmark terdekat alih-alih menunggu yang megah, selesaikan desain konteks sebelum landmark tiba, dan ingat bahwa efek ini musiman: ia membuka pintu perubahan, bukan menopangnya.
+- Pilih landmark terdekat alih-alih menunggu yang besar, selesaikan desain konteks sebelum landmark tiba, dan ingat bahwa efek ini musiman: ia membuka pintu perubahan, bukan menopangnya.
 
 Momen mulai sudah kamu pegang sekarang. Namun peluncuran saja tidak cukup, karena pertarungan sesungguhnya terjadi pada setiap pengulangan.

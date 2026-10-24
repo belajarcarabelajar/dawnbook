@@ -1,14 +1,14 @@
 ## Siklus Manajemen dan Keterkaitan Antar Fungsi POAC
 
-Setelah kita membedah satu per satu fungsi manajemen dari *Planning* hingga *Controlling*, mungkin muncul pertanyaan: *Apakah fungsi-fungsi ini berjalan secara terpisah?* Jawabannya adalah **tidak**.
+Setelah kita membedah satu per satu fungsi manajemen dari *Planning* hingga *Controlling*, mungkin muncul sebuah pertanyaan di benakmu. *Apakah fungsi-fungsi ini berjalan secara terpisah?* Jawabannya adalah **tidak**.
 
-Bayangkan sebuah orkestra simfoni. Pemain biola, peniup trompet, dan dirigen tidak bekerja sendiri-sendiri tanpa koordinasi. Keindahan musik tercipta karena adanya sinkronisasi yang presisi. Begitu pula dalam organisasi, POAC bekerja sebagai sebuah ekosistem yang saling bergantung, bukan daftar tugas terpisah yang selesai lalu dilupakan.
+Bayangkan sebuah orkestra simfoni. Pemain biola, peniup trompet, dan dirigen tidak bekerja sendiri-sendiri tanpa koordinasi. Musik terdengar padu karena para pemain bermain serempak. Begitu pula dalam organisasi, POAC bekerja sebagai fungsi-fungsi yang saling bergantung, bukan daftar tugas terpisah yang selesai lalu dilupakan.
 
 ## 1. POAC sebagai Satu Kesatuan Sistemik
 
 Manajemen adalah sebuah proses yang bersifat **iteratif** (berulang) dan **interaktif**. Setiap fungsi memberikan input bagi fungsi berikutnya, dan hasil dari fungsi terakhir akan menjadi bahan evaluasi untuk memulai kembali siklus dari awal.
 
-### Perjalanan Menuju Puncak Gunung
+### Pendakian Gunung
 
 - **Planning (P):** Menetapkan puncak tujuan pendakian, rute perjalanan, serta kebutuhan logistik selama perjalanan.
 - **Organizing (O):** Pembagian beban bawaan, penunjukan pemegang kompas atau peta, serta pembagian peran seperti juru masak dan pemimpin barisan.
@@ -17,11 +17,11 @@ Manajemen adalah sebuah proses yang bersifat **iteratif** (berulang) dan **inter
 
 > **Insight:** Tanpa *Controlling*, pendaki mungkin berjalan cepat (Actuating) tapi ke arah yang salah. Tanpa *Planning*, tim mungkin punya sumber daya hebat (Organizing) tapi tidak tahu mau ke mana.
 
-## 2. Jembatan Penghubung Antar Fungsi
+## 2. Keterkaitan Antar Fungsi
 
 Mari kita lihat bagaimana fungsi-fungsi ini saling "mengunci" satu sama lain:
 
-### A. Hubungan Planning dan Controlling (Si Kembar Identik)
+### A. Hubungan Planning dan Controlling
 
 Dua fungsi ini sering disebut sebagai "si kembar" dalam manajemen. Hubungan erat keduanya terlihat dari bagaimana target dari *Planning* menjadi acuan utama bagi *Controlling*. Tanpa adanya perencanaan, kamu tidak memiliki standar untuk mengukur keberhasilan. Sebaliknya, tanpa pengawasan, perencanaan matang pun akan sia-sia karena tidak ada cara untuk mengetahui ketercapaian target tersebut.
 
@@ -87,7 +87,7 @@ Jika salah satu fungsi hilang atau lemah, organisasi akan mengalami "penyakit" m
 
 ## Yang Perlu Kamu Ingat
 
-Siklus POAC adalah sebuah **lingkaran yang dinamis**. Keberhasilan seorang manajer dinilai dari kemampuannya menjahit keempat fungsi tersebut menjadi satu kesatuan gerak yang harmonis, bukan dari pelaksanaan fungsi secara terisolasi. Dengan memahami keterkaitan ini, organisasi tidak hanya mencapai tujuan jangka pendek, tetapi juga memiliki daya tahan (resiliensi) untuk terus tumbuh di tengah perubahan zaman.
+Siklus POAC adalah sebuah **lingkaran yang dinamis**. Keberhasilan seorang manajer dinilai dari kemampuannya menyatukan keempat fungsi tersebut agar berjalan selaras, bukan dari pelaksanaan fungsi secara terisolasi. Dengan memahami keterkaitan ini, organisasi tidak hanya mencapai tujuan jangka pendek, tetapi juga memiliki daya tahan (resiliensi) untuk terus tumbuh di tengah perubahan.
 
 **Poin Utama untuk Diingat:**
 

@@ -1,6 +1,6 @@
 ## Kegagalan Pasar dan Perlunya Intervensi
 
-Dalam dunia ideal **Laissez-faire**, mekanisme pasar dianggap sebagai konduktor orkestra yang sempurna. Setiap individu yang mengejar kepentingan pribadinya secara otomatis menciptakan harmoni ekonomi bagi masyarakat. Namun, kenyataan tidak selalu seindah teori tersebut. Ada kalanya "tangan tak terlihat" (*Invisible Hand*) kehilangan cengkeramannya, mengakibatkan sumber daya terbuang sia-sia atau terdistribusi secara tidak adil.
+Dalam dunia ideal **Laissez-faire**, mekanisme pasar dianggap sebagai pengatur yang sempurna. Setiap individu yang mengejar kepentingan pribadinya secara otomatis menciptakan keteraturan ekonomi bagi masyarakat. Namun, kenyataan tidak selalu sesuai dengan teori tersebut. Ada kalanya "tangan tak terlihat" (*Invisible Hand*) gagal bekerja, mengakibatkan sumber daya terbuang sia-sia atau terdistribusi secara tidak adil.
 
 Inilah yang disebut sebagai **Kegagalan Pasar (Market Failure)**.
 
@@ -35,7 +35,7 @@ Jika $\text{SMC} \neq \text{SMB}$, maka terjadilah kegagalan pasar. Mari kita be
 
 ### 3. Barang Publik dan Masalah "Penumpang Gelap"
 
-Pasar bebas sangat andal menyediakan barang pribadi (seperti sepatu atau ponsel), tetapi sering kali gagal menyediakan **Barang Publik**. Barang publik memiliki dua karakteristik utama:
+Pasar bebas andal menyediakan barang pribadi (seperti sepatu atau ponsel), tetapi sering kali gagal menyediakan **Barang Publik**. Barang publik memiliki dua karakteristik utama:
 
 1. **Non-eksklusif (*Non-excludable*):** Mustahil mencegah orang lain memanfaatkan barang tersebut meskipun mereka tidak membayar.
 2. **Non-rivalitas (*Non-rivalrous*):** Penggunaan oleh satu orang tidak mengurangi ketersediaan bagi orang lain.

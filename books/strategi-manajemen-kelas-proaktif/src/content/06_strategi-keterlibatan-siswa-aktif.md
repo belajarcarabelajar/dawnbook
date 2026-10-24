@@ -1,6 +1,6 @@
-# Strategi Keterlibatan Siswa Aktif
+## Strategi Keterlibatan Siswa Aktif
 
-Pernahkah kamu memperhatikan bahwa gangguan perilaku di kelas paling sering terjadi saat transisi yang lama, ceramah yang monoton, atau ketika siswa merasa tidak memiliki peran dalam pembelajaran?
+Pernahkah kamu memperhatikan bahwa gangguan perilaku di kelas paling sering terjadi saat transisi yang lama atau ceramah yang monoton? Pernahkah kamu mendapati hal serupa ketika siswa merasa tidak memiliki peran dalam pembelajaran?
 
 Bayangkan sebuah kelas seperti sebuah konser musik. Jika penonton hanya duduk diam mendengarkan simfoni yang panjang tanpa jeda, pikiran mereka akan mulai melayang, mereka mungkin mulai berbisik dengan tetangganya, atau mengecek ponsel mereka. Namun, jika konduktor mengajak penonton untuk bertepuk tangan mengikuti irama atau menyanyikan bagian refrain, perhatian mereka akan kembali sepenuhnya ke panggung.
 
@@ -30,7 +30,7 @@ Seringkali guru terjebak dalam pola interaksi "satu-ke-satu" (Guru bertanya, sat
 
 ### A. Think-Pair-Share (Berpikir-Berpasangan-Berbagi)
 
-Ini adalah teknik klasik namun sangat efektif untuk memastikan tidak ada siswa yang "bersembunyi" di balik dominasi teman sekelasnya.
+Ini adalah teknik klasik yang efektif untuk memastikan tidak ada siswa yang "bersembunyi" di balik dominasi teman sekelasnya.
 
 1. **Think**: Berikan pertanyaan terbuka dan beri waktu 30-60 detik bagi setiap siswa untuk berpikir/menulis jawaban sendiri.
 2. **Pair**: Siswa berdiskusi dengan teman sebangkunya.
@@ -75,7 +75,7 @@ Gunakan struktur ini untuk menjaga ritme kelas:
 
 ## 5. Implementasi Teknologi dan Gamifikasi
 
-Dalam era digital, kita bisa menggunakan alat bantu untuk meningkatkan keterlibatan secara instan. Penggunaan *platform* seperti Quizizz, Kahoot, atau Padlet dapat mengubah suasana kelas menjadi lebih dinamis.
+Dalam era digital, kita bisa menggunakan alat bantu untuk meningkatkan keterlibatan. Penggunaan *platform* seperti Quizizz, Kahoot, atau Padlet dapat mengubah suasana kelas menjadi lebih dinamis.
 
 Logika di balik kuis interaktif semacam ini bisa dibuat sederhana. Sebagai contoh dengan angka ilustrasi, jawaban benar mendapat 100 poin dasar ditambah bonus kecepatan, yaitu 50 dikurangi waktu menjawab, dan bonus itu tidak pernah kurang dari nol:
 
@@ -114,8 +114,8 @@ Agar keterlibatan bersifat inklusif, gunakan pendekatan yang mengakomodasi berba
 
 ## Keterlibatan adalah Pencegahan
 
-Keterlibatan siswa aktif bukan hanya tentang metode mengajar, tetapi tentang menghargai martabat intelektual siswa. Ketika kita memberikan tanggung jawab kepada siswa untuk menjadi partisipan aktif dalam pembelajaran mereka sendiri, kita secara otomatis membangun lingkungan kelas yang penuh rasa hormat dan minim konflik.
+Keterlibatan siswa aktif bukan hanya tentang metode mengajar, tetapi tentang menghargai martabat intelektual siswa. Ketika kita memberikan tanggung jawab kepada siswa untuk menjadi partisipan aktif dalam pembelajaran mereka sendiri, kita membangun lingkungan kelas yang penuh rasa hormat dan minim konflik.
 
-> **Pesan Utama:** Manajemen kelas terbaik bukanlah tentang mengendalikan perilaku siswa, melainkan tentang menciptakan lingkungan yang begitu menarik sehingga perilaku buruk menjadi pilihan yang tidak menarik bagi mereka.
+> **Pesan Utama:** Manajemen kelas yang baik bukanlah tentang mengendalikan perilaku siswa, melainkan tentang menciptakan lingkungan belajar yang menarik sehingga perilaku buruk menjadi pilihan yang kurang menarik bagi mereka.
 
 *Coba pikirkan: Dari materi yang kamu ajarkan minggu depan, bagian mana yang biasanya paling membosankan bagi siswa? Teknik partisipasi mana yang bisa kamu sisipkan di bagian tersebut untuk menjaga fokus mereka?*

@@ -1,6 +1,6 @@
 ## Pengenalan Amandel (Tonsil)
 
-Seringkali kita hanya membicarakan amandel saat mereka sedang meradang atau terasa sakit. Namun, tahukah kamu bahwa organ kecil di tenggorokan ini sebenarnya adalah "pahlawan tanpa tanda jasa" yang bekerja 24 jam sehari untuk melindungi kesehatanmu?
+Seringkali kita hanya membicarakan amandel saat mereka sedang meradang atau terasa sakit. Namun, tahukah kamu bahwa organ kecil di tenggorokan ini sebenarnya terus bekerja melindungi kesehatanmu?
 
 Dalam bagian ini, kita akan menjelajahi apa itu amandel, di mana letak persisnya, dan mengapa mereka dianggap sebagai garis pertahanan pertama bagi sistem kekebalan tubuh kita.
 
@@ -39,7 +39,7 @@ Dengan adanya kripta, luas permukaan $A$ menjadi berkali-kali lipat lebih besar.
 
 ## Fungsi Amandel bagi Sistem Kekebalan Tubuh
 
-Amandel bertindak sebagai garda terdepan dalam sistem pertahanan tubuh, terutama pada masa kanak-kanak. Berikut adalah fungsi utamanya:
+Amandel bertindak sebagai pertahanan pertama sistem kekebalan tubuh, terutama pada masa kanak-kanak. Berikut adalah fungsi utamanya:
 
 ### 1. Deteksi Dini Kuman (Surveilans Imun)
 
@@ -57,7 +57,7 @@ Mengingat peran penting amandel bagi kekebalan tubuh, wajar jika muncul pertanya
 
 ## Pos Pemeriksaan Perbatasan
 
-Bayangkan tubuhmu sebagai sebuah negara yang makmur, dengan mulut dan hidung sebagai gerbang perbatasan utamanya. Di gerbang ini, amandel bertindak sebagai petugas bea cukai atau penjaga perbatasan yang bersiaga siang dan malam.
+Bayangkan tubuhmu sebagai sebuah negara, dengan mulut dan hidung sebagai gerbang perbatasan utamanya. Di gerbang ini, amandel bertindak sebagai petugas bea cukai atau penjaga perbatasan yang bersiaga siang dan malam.
 
 Setiap 'pendatang' (mulai dari makanan, udara bersih, hingga bakteri dan virus) harus melewati pos pemeriksaan ini. Penjaga perbatasan akan memeriksa 'paspor' (antigen) dari setiap pendatang. Jika mendeteksi adanya 'penjahat' seperti virus atau bakteri, penjaga akan segera menyalakan alarm dan melumpuhkan mereka sebelum sempat masuk dan menimbulkan kekacauan di organ vital tubuh.
 

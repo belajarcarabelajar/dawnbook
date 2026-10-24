@@ -1,8 +1,8 @@
 ## Pasar Oligopoli dan Interdependensi
 
-Selamat datang di jantung dari banyak industri modern yang kamu temui sehari-hari. Pernahkah kamu memperhatikan bahwa ketika sebuah operator seluler memberikan promo kuota besar-besaran, operator lain biasanya akan segera menyusul dengan penawaran serupa dalam waktu singkat? Atau mengapa harga tiket pesawat untuk rute yang sama di maskapai yang berbeda sering kali hampir identik?
+Banyak industri modern yang kamu temui sehari-hari dikuasai oleh beberapa perusahaan besar. Pernahkah kamu memperhatikan bahwa ketika sebuah operator seluler memberikan promo kuota besar-besaran, operator lain biasanya akan segera menyusul dengan penawaran serupa dalam waktu singkat? Atau mengapa harga tiket pesawat untuk rute yang sama di maskapai yang berbeda sering kali hampir identik?
 
-Fenomena ini bukanlah kebetulan. Ini adalah dinamika unik dari **Pasar Oligopoli**, sebuah struktur pasar di mana segelintir perusahaan besar memegang kendali, dan setiap langkah yang diambil oleh satu perusahaan akan menciptakan "efek riak" bagi pesaingnya.
+Fenomena ini bukanlah kebetulan. Ini adalah dinamika unik dari **Pasar Oligopoli**, sebuah struktur pasar di mana segelintir perusahaan besar memegang kendali, dan setiap langkah yang diambil oleh satu perusahaan akan berdampak pada pesaingnya.
 
 ## Apa Itu Pasar Oligopoli?
 
@@ -45,7 +45,7 @@ Jika $P$ adalah harga dan $Q$ adalah kuantitas, maka profil elastisitasnya berub
 
 ## Strategi Persaingan Non-Harga
 
-Karena perang harga sangat berisiko dan bisa menghancurkan margin keuntungan semua pemain, perusahaan oligopoli biasanya beralih ke **Persaingan Non-Harga**. Mereka bertarung di medan laga yang berbeda untuk memenangkan hati konsumen tanpa menyentuh label harga.
+Karena perang harga berisiko dan bisa menggerus margin keuntungan semua pemain, perusahaan oligopoli biasanya beralih ke **Persaingan Non-Harga**. Mereka bersaing dengan cara lain untuk menarik konsumen tanpa mengubah harga.
 
 ### Bentuk-bentuk Persaingan Non-Harga
 
@@ -62,7 +62,7 @@ Mari kita lihat bagaimana interdependensi bekerja di dunia nyata, khususnya pada
 
 1. **Aksi:** Maskapai A mencoba meningkatkan keuntungan dengan menaikkan harga menjadi Rp1.200.000.
 2. **Reaksi:** Maskapai B dan C melihat ini sebagai peluang. Mereka tetap di harga Rp1.000.000.
-3. **Dampak:** Penumpang Maskapai A bermigrasi besar-besaran ke B dan C. Maskapai A merugi dan terpaksa menurunkan harga kembali.
+3. **Dampak:** Banyak penumpang Maskapai A pindah ke B dan C. Maskapai A merugi dan terpaksa menurunkan harga kembali.
 4. **Aksi Alternatif:** Maskapai A menurunkan harga menjadi Rp700.000 untuk memotong harga lawan.
 5. **Reaksi:** Maskapai B dan C langsung menurunkan harga menjadi Rp700.000 juga dalam hitungan jam agar tidak kehilangan penumpang.
 6. **Hasil Akhir:** Jumlah penumpang tetap sama bagi ketiga maskapai, namun pendapatan mereka semua berkurang drastis. Ini adalah **Perang Harga**.
@@ -75,7 +75,7 @@ Inilah alasan mengapa maskapai lebih suka bersaing lewat layanan, ketepatan wakt
 | --- | --- |
 | **Interdependensi** | Setiap keputusan harus mempertimbangkan reaksi lawan. |
 | **Kekakuan Harga** | Harga cenderung stabil karena ketakutan akan reaksi pesaing. |
-| **Iklan Masif** | Menjadi senjata utama untuk mempertahankan pangsa pasar. |
+| **Iklan Masif** | Menjadi alat utama untuk mempertahankan pangsa pasar. |
 | **Hambatan Masuk** | Melindungi keuntungan jangka panjang dari pemain baru. |
 
-> **Pesan Utama:** Dalam oligopoli, keberhasilan kamu ditentukan bukan hanya oleh seberapa baik kamu mengelola perusahaan sendiri, melainkan juga seberapa cerdas kamu memprediksi dan merespons langkah pesaing. Ini adalah permainan strategi tingkat tinggi yang terjadi di rak supermarket, layar ponsel, dan SPBU setiap harinya.
+> **Pesan Utama:** Dalam oligopoli, keberhasilan kamu ditentukan bukan hanya oleh seberapa baik kamu mengelola perusahaan sendiri, melainkan juga seberapa cerdas kamu memprediksi dan merespons langkah pesaing. Permainan strategi ini terjadi setiap hari di rak supermarket, layar ponsel, dan SPBU.

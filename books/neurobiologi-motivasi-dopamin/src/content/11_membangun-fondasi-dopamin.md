@@ -1,8 +1,8 @@
 ## Membangun Fondasi Dopamin
 
-Pernahkah kamu terbangun di pagi hari merasa sangat malas, tidak bersemangat, dan seolah-olah "mesin" motivasi kamu mogok, padahal kamu memiliki rencana besar hari itu? Sering kali, kita menyalahkan kurangnya *willpower* atau disiplin mental. Namun, secara neurobiologis, motivasi kamu sangat bergantung pada ketersediaan bahan baku kimia dan kondisi lingkungan fisik kamu.
+Pernahkah kamu terbangun di pagi hari merasa sangat malas, tidak bersemangat, dan seolah-olah "mesin" motivasi kamu mogok? Kamu sebenarnya memiliki rencana besar hari itu. Sering kali, kita menyalahkan kurangnya *willpower* atau disiplin mental. Namun, secara neurobiologis, motivasi kamu sangat bergantung pada ketersediaan bahan baku kimia dan kondisi lingkungan fisik kamu.
 
-Bayangkan otak kamu sebagai sebuah mobil balap berperforma tinggi. Kamu bisa memiliki sopir terbaik (niat kamu), tetapi jika tangki bahan bakarnya kosong (nutrisi buruk), mesinnya panas berlebih (kurang tidur), atau sistem kelistrikannya mati (kurang paparan cahaya), mobil tersebut tidak akan bergerak jauh.
+Bayangkan otak kamu sebagai sebuah mobil. Kamu bisa memiliki sopir yang baik (niat kamu), tetapi jika tangki bahan bakarnya kosong (nutrisi buruk), mesinnya panas berlebih (kurang tidur), atau sistem kelistrikannya mati (kurang paparan cahaya), mobil tersebut tidak akan bergerak jauh.
 
 Dalam bagian ini, kita akan membedah bagaimana tiga pilar biologis utama (**Nutrisi, Tidur, dan Cahaya**) menentukan seberapa banyak dopamin yang bisa kamu produksi dan seberapa sensitif otak kamu terhadap molekul motivasi ini.
 
@@ -34,7 +34,7 @@ Untuk menjaga "pabrik" dopamin tetap beroperasi, pastikan diet kamu mengandung n
 
 ## 2. Tidur
 
-Jika nutrisi adalah tentang "bahan bakar", maka tidur adalah tentang "pemeliharaan mesin". Hubungan antara tidur dan dopamin bersifat dua arah dan sangat krusial.
+Jika nutrisi adalah tentang "bahan bakar", maka tidur adalah tentang "pemeliharaan mesin". Hubungan antara tidur dan dopamin bersifat dua arah.
 
 ### Masalah Reseptor $D_2$
 
@@ -42,7 +42,7 @@ Saat kamu kurang tidur, masalah utamanya bukan hanya jumlah dopamin yang kamu mi
 
 > **Analogi:** Bayangkan dopamin adalah sinyal Wi-Fi dan reseptor adalah antena di ponsel kamu. Kurang tidur tidak selalu mematikan router Wi-Fi, tetapi mematahkan antena ponsel kamu. Sinyalnya ada, tetapi otak kamu tidak bisa menangkapnya.
 
-### Efek Domino Kurang Tidur
+### Tiga Dampak Kurang Tidur
 
 1. **Penurunan Motivasi:** Kamu tidak lagi merasa "terdorong" untuk mengejar tujuan sulit.
 2. **Pencarian Dopamin Murah:** Karena reseptor kamu kurang sensitif, otak kamu akan menuntut rangsangan yang lebih kuat (seperti gula, media sosial, atau kafein berlebih) hanya untuk merasa "normal".
@@ -52,7 +52,7 @@ Saat kamu kurang tidur, masalah utamanya bukan hanya jumlah dopamin yang kamu mi
 
 ## 3. Paparan Cahaya
 
-Salah satu penemuan paling menarik dalam neurosains modern adalah betapa kuatnya pengaruh cahaya matahari terhadap kimia otak kita. Cahaya bukan hanya untuk melihat, melainkan sinyal biologis yang mengatur ritme sirkadian.
+Neurosains modern menunjukkan bahwa cahaya matahari berpengaruh kuat terhadap kimia otak kita. Cahaya bukan hanya untuk melihat, melainkan sinyal biologis yang mengatur ritme sirkadian.
 
 ### Cahaya Matahari Pagi (View Sunlight Early)
 
@@ -76,7 +76,7 @@ Sebaliknya, paparan cahaya terang (terutama cahaya biru dari layar HP atau lampu
 
 Bagaimana kita menerapkan sains ini dalam kehidupan sehari-hari? Berikut adalah rutinitas yang dirancang untuk memaksimalkan sistem dopamin kamu secara alami:
 
-1. **The 10-Minute Morning Sun:** Dalam 30 menit setelah bangun tidur, keluar dari rumah tanpa kacamata hitam (kontak lensa atau kacamata biasa diperbolehkan). Biarkan cahaya matahari mengenai mata kamu selama 10–20 menit. Ini adalah pemicu dopamin alami paling kuat yang tersedia secara gratis.
+1. **The 10-Minute Morning Sun:** Dalam 30 menit setelah bangun tidur, keluar dari rumah tanpa kacamata hitam (kontak lensa atau kacamata biasa diperbolehkan). Biarkan cahaya matahari mengenai mata kamu selama 10–20 menit. Ini adalah pemicu dopamin alami yang tersedia secara gratis.
 2. **High-Tyrosine Breakfast:** Mulailah hari dengan sarapan tinggi protein (seperti telur atau *protein shake*) daripada sarapan tinggi gula (sereal atau roti manis) untuk memastikan bahan baku dopamin tersedia sejak pagi.
 3. **The "No-Screen" Buffer:** Matikan atau redupkan lampu di rumah kamu 1 jam sebelum tidur. Hindari layar HP atau gunakan filter cahaya biru jika terpaksa. Ini melindungi sensitivitas reseptor dopamin kamu untuk keesokan harinya.
 4. **Hidrasi & Garam:** Dopamin membutuhkan lingkungan elektrolit yang stabil. Dehidrasi ringan sering kali disalahartikan sebagai kekurangan motivasi atau kelelahan mental.
@@ -87,7 +87,7 @@ Bagaimana kita menerapkan sains ini dalam kehidupan sehari-hari? Berikut adalah 
 | :--- | :--- | :--- |
 | **Pola Bangun & Layar** | Budi bangun jam 07.00 di kamar gelap, main Instagram 30 menit di bawah selimut. | Andi bangun jam 07.00, langsung jalan ke teras melihat langit 10 menit. |
 | **Menu Sarapan** | Donat dan kopi manis (gula tinggi). | Omelet telur (protein & tirosin tinggi). |
-| **Kondisi Biologis** | Cahaya biru malam menekan reseptor, lonjakan gula memicu *crash*. | Jam sirkadian terpicu sempurna, asam amino tersedia untuk sintesis. |
+| **Kondisi Biologis** | Cahaya biru malam menekan reseptor, lonjakan gula memicu *crash*. | Jam sirkadian terpicu, asam amino tersedia untuk sintesis. |
 | **Hasil Sepanjang Hari** | Lonjakan dopamin singkat diikuti *crash* jam 10.00 pagi, lemas & terdistraksi. | Energi & fokus stabil hingga sore hari tanpa bergantung stimulan instan. |
 
 > **Insight Utama:** Motivasi bukanlah sesuatu yang kamu "temukan" di dalam pikiran, melainkan sesuatu yang kamu "bangun" melalui interaksi tubuh kamu dengan lingkungan fisik. Perbaiki biologinya, maka psikologinya akan mengikuti.

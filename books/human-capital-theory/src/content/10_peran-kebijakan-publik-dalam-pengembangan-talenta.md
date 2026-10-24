@@ -1,8 +1,8 @@
-# Peran Kebijakan Publik dalam Pengembangan Talenta
+## Peran Kebijakan Publik dalam Pengembangan Talenta
 
 Mengapa pemerintah perlu terlibat dalam urusan pendidikan dan pelatihan? Jika individu menikmati manfaat berupa kenaikan gaji dan peningkatan karir, bukankah wajar jika mereka sendiri yang menanggung biaya pengembangannya?
 
-Dalam pasar hipotetis yang sempurna, argumen tersebut mungkin berlaku. Namun, pada realitas perekonomian, pasar bebas kerap gagal mengalokasikan sumber daya secara efisien untuk pembentukan **Human Capital**. Di sinilah **Public Policy** bertindak sebagai pengarah strategis yang menjembatani kebutuhan industri, potensi individu, dan peningkatan kesejahteraan masyarakat secara luas.
+Dalam pasar hipotetis yang sempurna, argumen tersebut mungkin berlaku. Namun, pada realitas perekonomian, pasar bebas kerap gagal mengalokasikan sumber daya secara efisien untuk pembentukan **Human Capital**. Di sinilah **Public Policy** berperan menghubungkan kebutuhan industri, potensi individu, dan peningkatan kesejahteraan masyarakat secara luas.
 
 ---
 
@@ -61,7 +61,7 @@ Berikut adalah perbandingan karakteristik, efisiensi, dan risiko dari masing-mas
 
 | Instrumen Kebijakan | Landasan Ekonomi (*Economic Rationale*) | Target Sasaran | Keunggulan Utama | Risiko & Potensi Hambatan |
 | :--- | :--- | :--- | :--- | :--- |
-| **Direct Provision** | Menjamin aksesibilitas dasar dan standar kualitas minimum | Seluruh lapisan masyarakat | Pemerataan akses pendidikan secara masif | Biaya operasional tinggi dan potensi inefisiensi birokrasi |
+| **Direct Provision** | Menjamin aksesibilitas dasar dan standar kualitas minimum | Seluruh lapisan masyarakat | Pemerataan akses pendidikan secara luas | Biaya operasional tinggi dan potensi inefisiensi birokrasi |
 | **Beasiswa & Hibah** | Mengatasi *Credit Market Constraint* | Siswa berprestasi & keluarga prasejahtera | Mendorong mobilitas sosial vertikal | Potensi *Deadweight Loss* jika sasaran kurang tepat |
 | **Super Tax Deduction** | Internalisasi *Positive Externalities* perusahaan | Sektor industri & manufaktur | Mendorong keterlibatan aktif dunia usaha | Manfaat cenderung lebih banyak dinikmati perusahaan besar |
 | **Voucher Pelatihan** | Mengurangi *Information Asymmetry* & persaingan pasar | Pencari kerja & pekerja *entry-level* | Pilihan fleksibel bagi penerima manfaat | Risiko kualitas penyedia pelatihan yang bervariasi |
@@ -117,7 +117,7 @@ Karena SROI sebesar 1,50 lebih besar dari 1, kebijakan dalam ilustrasi ini tergo
 
 ### 6. Reskilling, Upskilling, dan Lifelong Learning sebagai Tantangan Masa Depan
 
-Perkembangan otomatisasi, kecerdasan buatan, dan disrupsi teknologi mengubah struktur kebutuhan keahlian pasar kerja secara dramatis. Kebijakan publik tidak lagi dapat terbatas pada pengelolaan jalur pendidikan formal usia muda.
+Perkembangan otomatisasi, kecerdasan buatan, dan disrupsi teknologi mengubah struktur kebutuhan keahlian pasar kerja. Kebijakan publik tidak lagi dapat terbatas pada pengelolaan jalur pendidikan formal usia muda.
 
 > **Perspektif Utama Kebijakan Masa Depan:**
 > Keberhasilan kebijakan modal manusia terletak pada kemampuannya membangun ekosistem **Lifelong Learning**. Negara harus memfasilitasi pekerja dewasa untuk melakukan **Reskilling** (mempelajari keahlian baru) dan **Upskilling** (meningkatkan keahlian yang ada) secara cepat, terjangkau, dan selaras dengan pergeseran industri.

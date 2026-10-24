@@ -1,4 +1,4 @@
-## Coping Strategy dan Manajemen Stres
+## Strategi Koping dan Manajemen Stres
 
 Bayangkan kamu sedang berada di tengah laut yang sedang dilanda badai. Gelombang tinggi adalah ekspektasi karier, angin kencang adalah tekanan sosial, dan kompasmu tampak berputar tanpa arah. Dalam psikologi, kemampuan untuk tetap mengapung dan akhirnya mengarahkan kapalmu menuju ketenangan disebut dengan **Coping Strategy**.
 
@@ -51,9 +51,9 @@ Sering kali, stres di usia 20-an muncul karena kita tidak tahu batasan antara di
 2. **Batasan Emosional:** Tidak memikul tanggung jawab atas kebahagiaan orang tua yang menuntut kamu segera menikah.
 3. **Batasan Digital:** Membatasi waktu layar (*screen time*) pada aplikasi yang memicu perbandingan sosial (seperti Instagram atau LinkedIn).
 
-### Seni Mengatakan "Tidak"
+### Cara Mengatakan "Tidak"
 
-Mengatakan tidak adalah keterampilan bertahan hidup. Gunakan rumus: **"Terima kasih atas [kesempatan/tawarannya], tapi saat ini kapasitas saya sudah penuh untuk [prioritas saat ini]."**
+Mengatakan tidak adalah sebuah keterampilan. Gunakan rumus: **"Terima kasih atas [kesempatan/tawarannya], tapi saat ini kapasitas saya sudah penuh untuk [prioritas saat ini]."**
 
 *Kapan terakhir kali kamu mengatakan "ya" pada orang lain, padahal sebenarnya kamu sedang mengatakan "tidak" pada kesehatan mentalmu sendiri?*
 
@@ -80,7 +80,7 @@ Banyak anak muda terjebak dalam *productivity porn* ,berusaha mengatur waktu sed
 
 ## 6. Jurnal Refleksi
 
-Menulis adalah cara terbaik untuk melihat pola pikir kita dari perspektif luar. Cobalah menjawab pertanyaan ini malam ini:
+Menulis membantu kita melihat pola pikir kita dari perspektif luar. Cobalah menjawab pertanyaan ini malam ini:
 
 1. Hal apa yang paling banyak menyedot energiku hari ini?
 2. Apakah hal itu berada di bawah kendaliku atau di luar kendaliku?

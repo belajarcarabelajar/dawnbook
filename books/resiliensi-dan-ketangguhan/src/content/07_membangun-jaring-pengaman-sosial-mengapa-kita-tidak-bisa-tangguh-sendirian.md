@@ -1,10 +1,10 @@
 ## Membangun Jaring Pengaman Sosial
 
-Bayangkan seorang pemain akrobat yang berjalan di atas tali tipis pada ketinggian 10 meter. Dia sangat terampil, memiliki keseimbangan luar biasa, dan fokus yang tajam, itu adalah **resiliensi internal**. Namun, di bawah tali tersebut, terbentang sebuah jaring nilon yang kuat. Jika dia terpeleset, jaring itu akan menahannya, mencegah benturan fatal, dan memberinya kesempatan untuk memanjat kembali.
+Bayangkan seorang pemain akrobat yang berjalan di atas tali tipis pada ketinggian 10 meter. Dia terampil, memiliki keseimbangan yang baik, dan fokus yang tajam, itu adalah **resiliensi internal**. Namun, di bawah tali tersebut, terbentang sebuah jaring nilon yang kuat. Jika dia terpeleset, jaring itu akan menahannya, mencegah benturan fatal, dan memberinya kesempatan untuk memanjat kembali.
 
 Jaring itulah yang kita sebut sebagai **Jaring Pengaman Sosial**.
 
-Dalam perjalanan membangun resiliensi, faktor internal seperti pola pikir dan kecerdasan emosional memang sangat penting. Namun, manusia adalah makhluk sosial secara biologis. Membangun ketangguhan tanpa melibatkan orang lain ibarat mencoba membangun benteng di atas pasir hisap. Materi ini akan mengeksplorasi bagaimana komunitas, teman sebaya, dan hubungan yang sehat menjadi pilar eksternal utama yang menopang kita saat badai hidup menerjang.
+Dalam perjalanan membangun resiliensi, faktor internal seperti pola pikir dan kecerdasan emosional memang penting. Namun, manusia adalah makhluk sosial secara biologis. Membangun ketangguhan tanpa melibatkan orang lain ibarat mencoba membangun benteng di atas pasir hisap. Materi ini akan mengeksplorasi bagaimana komunitas, teman sebaya, dan hubungan yang sehat menjadi pilar eksternal utama yang menopang kita saat masa sulit datang.
 
 ### 1. Peran Komunitas
 
@@ -72,7 +72,7 @@ Jaring pengaman tidak bisa dibuat saat kamu sedang terjatuh; ia harus dirajut sa
 3. **Bergabung dengan Kelompok Minat:** Jangan hanya fokus pada pekerjaan. Bergabunglah dengan klub buku, komunitas lari, atau kelompok relawan. Ini memperluas jaringmu di luar lingkaran profesional.
 4. **Berani Meminta Bantuan:** Resiliensi bukan berarti tidak pernah butuh bantuan. Meminta bantuan adalah tanda keberanian dan cara untuk memperkuat ikatan sosial.
 
-### 5. Ringkasan Visual untuk Pembelajar Kinestetik
+### 5. Latihan Peta Jaring Pengaman
 
 Untuk kamu yang lebih suka belajar melalui tindakan, cobalah latihan **"Peta Jaring Pengaman"** berikut:
 

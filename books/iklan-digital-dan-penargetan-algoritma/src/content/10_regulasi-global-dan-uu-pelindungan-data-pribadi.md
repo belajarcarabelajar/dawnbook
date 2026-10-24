@@ -1,12 +1,12 @@
 ## Regulasi Global dan UU Pelindungan Data Pribadi
 
-Selamat datang di modul ini! Setelah sebelumnya kita membahas bagaimana data dikumpulkan dan bagaimana algoritma bekerja, sekarang kita akan masuk ke sisi "pengawas"-nya. Bayangkan dunia digital seperti jalan raya yang sangat padat. Tanpa aturan lalu lintas, kecelakaan (kebocoran data) akan terjadi setiap saat dan pengemudi (perusahaan iklan) bisa berkendara sesuka hati.
+Setelah sebelumnya kita membahas bagaimana data dikumpulkan dan bagaimana algoritma bekerja, sekarang kita akan masuk ke sisi "pengawas"-nya. Bayangkan dunia digital seperti jalan raya yang sangat padat. Tanpa aturan lalu lintas, kecelakaan (kebocoran data) akan terjadi setiap saat dan pengemudi (perusahaan iklan) bisa berkendara sesuka hati.
 
 Di bagian ini, kita akan membedah "sabuk pengaman" dan "rambu-rambu" hukum yang membatasi sejauh mana data kamu boleh diambil dan digunakan untuk iklan.
 
-## 1. Dari "Wild West" Menuju Regulasi Ketat
+## 1. Dari Periklanan Tanpa Aturan ke Regulasi Ketat
 
-Dahulu, dunia periklanan digital sering dianggap sebagai *Wild West*, wilayah tanpa hukum di mana data pribadi dipanen secara masif tanpa izin. Namun, kesadaran akan privasi mengubah segalanya.
+Dahulu, dunia periklanan digital sering dianggap sebagai *Wild West*, wilayah tanpa hukum di mana data pribadi dipanen secara masif tanpa izin. Namun, kesadaran akan privasi mengubah keadaan itu.
 
 > **Insight Utama:** Privasi bukan lagi sekadar fitur tambahan, melainkan hak asasi manusia yang kini dilindungi oleh undang-undang yang memiliki sanksi finansial sangat berat.
 
@@ -39,7 +39,7 @@ Angka ini cukup untuk membuat raksasa teknologi berpikir dua kali sebelum menyal
 
 ## 3. UU PDP Indonesia
 
-Indonesia telah resmi memiliki **Undang-Undang Nomor 27 Tahun 2022 tentang Pelindungan Data Pribadi (UU PDP)**. Ini adalah tonggak sejarah bagi ekosistem digital di tanah air.
+Indonesia telah resmi memiliki **Undang-Undang Nomor 27 Tahun 2022 tentang Pelindungan Data Pribadi (UU PDP)**. Ini adalah langkah penting bagi ekosistem digital di tanah air.
 
 ### Klasifikasi Data menurut UU PDP
 

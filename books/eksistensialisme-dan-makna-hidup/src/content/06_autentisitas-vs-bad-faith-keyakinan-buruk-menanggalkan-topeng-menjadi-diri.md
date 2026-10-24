@@ -48,13 +48,13 @@ Sebaliknya, jika ia memilih bersikap autentik, Budi akan jujur pada dirinya send
 
 #### Media Sosial dan Citra Diri
 
-Di era digital, jebakan peran di media sosial sangat kuat. Seseorang terjebak dalam *bad faith* ketika ia memaksakan diri menampilkan kehidupan yang serbaperfect hanya demi memenuhi ekspektasi pengikut atau standar sosial. Di sisi lain, autentisitas di dunia digital mewujud saat seseorang menggunakan platform sosial sebagai ruang ekspresi yang jujur, tanpa mendikte nilainya dari jumlah tanda suka atau penilaian orang lain.
+Di era digital, jebakan peran di media sosial kuat. Seseorang terjebak dalam *bad faith* ketika ia memaksakan diri menampilkan kehidupan yang serbaperfect hanya demi memenuhi ekspektasi pengikut atau standar sosial. Di sisi lain, autentisitas di dunia digital mewujud saat seseorang menggunakan platform sosial sebagai ruang ekspresi yang jujur, tanpa mendikte nilainya dari jumlah tanda suka atau penilaian orang lain.
 
 ### 5. Langkah Praktis Menuju Hidup yang Autentik
 
 1. **Petakan Keharusanmu:** Coba catat hal-hal dalam hidup yang selama ini terasa sebagai beban kewajiban. Tanyakan kembali secara kritis: apakah hal itu benar-benar mutlak harus dilakukan, atau sebenarnya itu adalah pilihan yang kamu ambil demi menghindari konflik?
 2. **Ubah Bahasamu:** Latihlah diri untuk mengganti keluhan *"Saya terpaksa..."* menjadi *"Saya memilih untuk... karena..."*. Pergeseran kecil ini mengembalikan kendali (*agency*) ke dalam dirimu.
-3. **Peluk Rasa Cemas:** Sadarilah bahwa kebingungan atau kecemasan yang muncul saat menyadari kebebasan adalah hal yang wajar. Eksistensialisme melihat kecemasan ini sebagai alarm bahwa kamu mulai terbangun dari lelapnya konformitas.
+3. **Peluk Rasa Cemas:** Sadarilah bahwa kebingungan atau kecemasan yang muncul saat menyadari kebebasan adalah hal yang wajar. Eksistensialisme melihat kecemasan ini sebagai alarm bahwa kamu mulai berhenti sekadar mengikuti kebiasaan orang banyak.
 4. **Uji Nilai Personal:** Renungkan apakah kamu melakukan sesuatu karena benar-benar meyakini kebenarannya, atau sekadar ingin terlihat baik di mata orang lain.
 
 ### Menulis Narasi Sendiri

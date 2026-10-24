@@ -1,6 +1,6 @@
 ## Pengantar Konsep Elastisitas dalam Ekonomi
-Selamat datang di titik awal pemahaman mendalam mengenai perilaku pasar. Jika kamu pernah bertanya-tanya mengapa kenaikan harga bensin tidak membuat orang berhenti membeli bensin, namun kenaikan harga satu merk kopi bisa membuat pelanggannya lari ke merk lain, maka kamu sedang memikirkan konsep **Elastisitas**.
-Dalam ekonomi, angka saja tidak cukup. Kita tidak hanya ingin tahu bahwa "jika harga naik, permintaan turun." Kita ingin tahu **seberapa besar** penurunan tersebut. Di sinilah elastisitas berperan sebagai alat ukur presisi bagi para ekonom.
+Elastisitas mengukur seberapa besar konsumen dan produsen bereaksi ketika harga sebuah barang berubah, bukan hanya ke arah mana mereka bergerak. Jika kamu pernah bertanya-tanya mengapa kenaikan harga bensin tidak membuat orang berhenti membeli bensin, namun kenaikan harga satu merk kopi bisa membuat pelanggannya lari ke merk lain, maka kamu sedang memikirkan konsep **Elastisitas**.
+Dalam ekonomi, angka saja tidak cukup. Kita tidak hanya ingin tahu bahwa "jika harga naik, permintaan turun." Kita ingin tahu **seberapa besar** penurunan tersebut. Di sinilah elastisitas berperan sebagai alat ukur bagi para ekonom.
 ## Apa Itu Elastisitas?
 Secara bahasa, elastisitas berarti kelenturan. Bayangkan sebuah karet gelang. Jika kamu menarik karet itu, ia akan meregang lebar. Namun, bayangkan seutas kawat besi; sekeras apa pun kamu menarik kawat itu, bentuknya hampir tidak berubah.
 Dalam ekonomi, **Elastisitas** adalah ukuran derajat kepekaan (respons) suatu variabel ekonomi terhadap perubahan variabel lainnya.
@@ -28,16 +28,16 @@ Pemerintah menggunakan konsep elastisitas untuk menentukan barang mana yang akan
 - **Kasus Rokok:** Pemerintah mengenakan pajak tinggi pada rokok karena rokok bersifat adiktif (inelastis). Meskipun harga naik karena pajak, orang akan membelinya, sehingga pendapatan negara dari pajak meningkat tanpa mematikan industri tersebut secara mendadak.
 ### 3. Prediksi Keseimbangan Pasar
 Dalam mikroekonomi, kita mempelajari bagaimana pasar mencapai keseimbangan. Elastisitas membantu kita memprediksi seberapa cepat pasar akan kembali ke titik normal setelah terjadi guncangan (seperti bencana alam atau perubahan teknologi).
-## Perang Harga Supermarket
+## Garam dan Sereal di Rak Supermarket
 Bayangkan dua produk di rak supermarket: **Garam** dan **Sereal Cokelat**.
 - **Skenario A (Garam):** Garam tidak punya banyak substitusi dan hanya menyerap sebagian kecil anggaran bulanan kamu. Jika harga garam naik dari Rp2.000 menjadi Rp3.000 (naik 50%), kamu mungkin akan tetap membelinya dalam jumlah yang sama. **Garam memiliki elastisitas rendah (inelastis).**
 - **Skenario B (Sereal Cokelat):** Ada sepuluh merk sereal cokelat yang berbeda. Jika Merk X menaikkan harga sebesar 20%, konsumen akan langsung menoleh ke Merk Y atau Z yang lebih murah. **Sereal Merk X memiliki elastisitas tinggi (elastis).**
-**Pelajaran bagi pemilik toko:** Mereka bisa menaikkan harga barang inelastis untuk menutupi biaya operasional, tetapi mereka harus sangat berhati-hati (sering mengadakan promo) untuk barang yang elastis agar tidak kehilangan pelanggan.
+**Pelajaran bagi pemilik toko:** Mereka bisa menaikkan harga barang inelastis untuk menutupi biaya operasional, tetapi mereka harus berhati-hati (sering mengadakan promo) untuk barang yang elastis agar tidak kehilangan pelanggan.
 ## Refleksi Pembelajaran
 Coba cermati pengeluaran kamu dalam sebulan terakhir. Kamu bisa mengidentifikasi satu barang yang tetap kamu beli meskipun harganya naik (inelastis) dan satu barang yang langsung kamu coret dari daftar belanja ketika harganya naik sedikit saja (elastis). Perbedaan tingkat kebutuhan dan ketersediaan substitusi membuat kedua barang tersebut memiliki tingkat sensitivitas yang berbeda di mata konsumen.
 **Poin Penting untuk Diingat:**
 - **Elastisitas = Responsivitas.**
 - Kita mengukur dalam **persentase** untuk standarisasi.
 - Konsep ini membantu menentukan strategi harga bagi produsen dan kebijakan pajak bagi pemerintah.
-- Dunia ekonomi tidak hanya tentang arah perubahan (naik/turun), tetapi juga tentang **besaran** perubahan tersebut.
+- Ekonomi tidak hanya membahas arah perubahan (naik/turun), tetapi juga tentang **besaran** perubahan tersebut.
 *Materi selanjutnya akan membahas secara spesifik bagaimana konsumen bereaksi terhadap harga melalui Mekanisme Elastisitas Harga Permintaan.*

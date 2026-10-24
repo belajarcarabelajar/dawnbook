@@ -8,7 +8,7 @@ Penundaan sering dianggap urusan jadwal: kurang disiplin, kurang rapi mengatur w
 
 Kerangka yang sama menjadi benang merah buku suntingan Sirois dan Pychyl (2016), *Procrastination, Health, and Well-Being*. Buku itu memandang penundaan sebagai kegagalan mengatur keadaan emosi, bukan terutama soal manajemen waktu, dan membahas kaitannya dengan kesehatan mental dan fisik. Artinya, kalender yang rapi dan aplikasi pengingat sering tidak menolong. Yang mengganggu bukan jadwalnya, melainkan perasaan saat kamu membuka tugasnya.
 
-### Lingkaran yang memberi makan dirinya sendiri
+### Siklus menghindar yang terus berulang
 
 Dari sudut pandang perbaikan *mood*, kita bisa menyusun sebuah lingkaran. Ini **ringkasan penalaran** dari pandangan tersebut, bukan hasil eksperimen yang bisa dilekatkan pada satu studi.
 

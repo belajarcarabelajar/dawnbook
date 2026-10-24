@@ -2,13 +2,13 @@
 
 Enam ratus enam puluh tiga orang, berasal dari tiga ratus empat puluh tujuh pasang kembar sesama jenis, identik maupun tidak identik. Itulah sampel yang dipakai Gustavson dan rekan (2014) untuk bertanya sesuatu yang terdengar nyaris iseng: apakah kebiasaan menunda dan kebiasaan bertindak tanpa pikir panjang itu, pada tingkat tertentu, berasal dari sumber yang sama?
 
-Di bab-bab sebelumnya kita sudah membongkar penundaan dari sisi tugas, harapan, dan perasaan. Sekarang giliran sisi orangnya. Kenapa dua orang yang menghadapi tugas sama bisa bereaksi begitu berbeda? Dan seberapa jauh jawabannya terletak pada bawaan?
+Di bab-bab sebelumnya kita sudah membongkar penundaan dari sisi tugas, harapan, dan perasaan. Sekarang giliran sisi orangnya. Kenapa dua orang yang menghadapi tugas sama bisa bereaksi berbeda? Dan seberapa jauh jawabannya terletak pada bawaan?
 
 ### Dua sifat yang paling konsisten muncul
 
-Steel (2007) mengumpulkan 691 korelasi dalam sebuah meta-analisis tentang penundaan. Dari tumpukan data itu, beberapa prediktor tampil kuat dan konsisten: sifat tugas yang tidak menyenangkan, jarak waktu tugas, keyakinan akan kemampuan diri, serta dua sifat kepribadian yang jadi bintang bab ini, yaitu **impulsiveness** dan **conscientiousness** (kehati-hatian atau keteraturan, kamu bisa menyebutnya sifat teliti). Conscientiousness dibaca lewat fasetnya: kendali diri (*self-control*), mudah teralihkan (*distractibility*), keteraturan (*organization*), dan dorongan berprestasi. Sifat seperti neuroticism, pemberontakan, dan pencarian sensasi hanya berkaitan lemah.
+Steel (2007) mengumpulkan 691 korelasi dalam sebuah meta-analisis tentang penundaan. Dari tumpukan data itu, beberapa prediktor tampil kuat dan konsisten: sifat tugas yang tidak menyenangkan, jarak waktu tugas, keyakinan akan kemampuan diri, serta dua sifat kepribadian yang menjadi fokus bab ini, yaitu **impulsiveness** dan **conscientiousness** (kehati-hatian atau keteraturan, kamu bisa menyebutnya sifat teliti). Conscientiousness dibaca lewat fasetnya: kendali diri (*self-control*), mudah teralihkan (*distractibility*), keteraturan (*organization*), dan dorongan berprestasi. Sifat seperti neuroticism, pemberontakan, dan pencarian sensasi hanya berkaitan lemah.
 
-Temuan ini sejalan dengan temporal motivation theory (TMT) di bab 2. Ingat penyebut dalam persamaan Steel dan König (2006)? Di sana ada Gamma, sensitivitas terhadap penundaan, yang oleh para penulisnya disamakan dengan impulsivitas. Orang dengan Gamma besar merasakan nilai hadiah yang jauh itu cepat sekali mengecil. Maka dari sisi teori maupun data, impulsivitas bukan tambahan di pinggir, melainkan bagian dari mesin penjelasnya.
+Temuan ini sejalan dengan temporal motivation theory (TMT) di bab 2. Ingat penyebut dalam persamaan Steel dan König (2006)? Di sana ada Gamma, sensitivitas terhadap penundaan, yang oleh para penulisnya disamakan dengan impulsivitas. Orang dengan Gamma besar merasakan nilai hadiah yang jauh itu cepat mengecil. Maka dari sisi teori maupun data, impulsivitas bukan tambahan di pinggir, melainkan bagian dari mesin penjelasnya.
 
 Satu catatan agar tidak salah paham: ini gambaran rata-rata antarorang. Hubungan sifat dengan penundaan adalah kecenderungan, bukan vonis atas dirimu.
 

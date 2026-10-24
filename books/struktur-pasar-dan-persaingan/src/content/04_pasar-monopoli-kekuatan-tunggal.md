@@ -2,9 +2,9 @@
 
 Bayangkan kamu berada di sebuah kota kecil di tengah gurun. Di kota itu, terdapat satu-satunya sumur air. Pemilik sumur tersebut tidak memiliki pesaing; tidak ada orang lain yang bisa menggali sumur karena kondisi tanah yang ekstrem. Jika kamu haus, kamu harus membeli air darinya dengan harga berapa pun yang ia tetapkan.
 
-Inilah esensi dari **Pasar Monopoli**. Dalam struktur pasar ini, satu perusahaan berdiri sebagai penguasa tunggal, menjadi produsen utama di wilayahnya tanpa ada penantang yang berarti.
+Inilah esensi dari **Pasar Monopoli**. Dalam struktur pasar ini, hanya ada satu perusahaan yang menjadi produsen di wilayahnya, tanpa pesaing yang berarti.
 
-## 1. Karakteristik Utama Sang Penguasa Pasar
+## 1. Karakteristik Utama Pasar Monopoli
 
 Kata "Monopoli" berasal dari bahasa Yunani, *monos* (satu) dan *polein* (menjual). Dalam ilmu ekonomi, pasar monopoli memiliki ciri khas yang kontras dengan Pasar Persaingan Sempurna:
 
@@ -12,7 +12,7 @@ Kata "Monopoli" berasal dari bahasa Yunani, *monos* (satu) dan *polein* (menjual
 | :--- | :--- | :--- |
 | **Satu Penjual, Banyak Pembeli** | Seluruh permintaan pasar dipenuhi oleh satu entitas bisnis tunggal. | Konsumen tidak memiliki alternatif penjual lain. |
 | **Tanpa Barang Substitusi Dekat** | Produk bersifat unik tanpa pengganti langsung yang setara. | Listrik PLN tidak dapat digantikan secara praktis oleh lilin untuk menyalakan alat elektronik. |
-| **Hambatan Masuk Sangat Tinggi** | Terdapat benteng hukum, keunggulan teknologi, atau kebutuhan modal yang tinggi. | Perusahaan baru tidak dapat dengan mudah masuk ke dalam industri. |
+| **Hambatan Masuk Sangat Tinggi** | Terdapat hambatan hukum, keunggulan teknologi, atau kebutuhan modal yang tinggi. | Perusahaan baru tidak dapat dengan mudah masuk ke dalam industri. |
 | **Penentu Harga (*Price Maker*)** | Kendali penuh atas harga pasar berada di tangan produsen monopoli. | Perusahaan menentukan harga jual di pasar secara mandiri. |
 
 ## 2. Mengapa Monopoli Bisa Terbentuk?
@@ -57,7 +57,7 @@ $$
 
 Setelah menemukan jumlah produksi optimal $Q$, produsen akan melihat kurva permintaan pasar untuk menentukan harga maksimum yang bersedia dibayar oleh konsumen.
 
-Apakah seorang monopolis akan selalu menaikkan harga setinggi-tingginya? Jawabannya tidak selalu. Jika harga dipatok terlampau tinggi, jumlah barang yang dibeli konsumen akan anjlok drastis sehingga total laba justru merosot. Monopolis harus menemukan titik keseimbangan optimum antara harga jual dan volume penjualan.
+Apakah seorang monopolis akan selalu menaikkan harga setinggi-tingginya? Jawabannya tidak selalu. Jika harga dipatok terlampau tinggi, jumlah barang yang dibeli konsumen akan turun tajam sehingga total laba justru merosot. Monopolis harus menemukan titik keseimbangan optimum antara harga jual dan volume penjualan.
 
 ## 4. Memilih Harga Jual
 
@@ -106,4 +106,4 @@ Meskipun monopoli mendatangkan keuntungan besar bagi pemilik usaha, dari sudut p
 > **Pesan Utama:** Karena monopolis sengaja membatasi volume produksi untuk menahan harga tinggi, terjadi **Inefisiensi Alokatif**. Sebagian konsumen yang sejatinya rela membayar di atas biaya produksi tetap tidak bisa mengakses produk tersebut.
 
 > **Diskusi Interaktif:**
-> Di era digital saat ini, apakah perusahaan platform raksasa seperti Google atau Meta dapat dikategorikan sebagai monopoli? Hambatan apa saja yang menyulitkan pesaing baru untuk masuk dan bertanding di pasar tersebut?
+> Di era digital saat ini, apakah perusahaan platform besar seperti Google atau Meta dapat dikategorikan sebagai monopoli? Hambatan apa saja yang menyulitkan pesaing baru untuk masuk dan bertanding di pasar tersebut?

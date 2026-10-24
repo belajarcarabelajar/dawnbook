@@ -2,7 +2,7 @@
 
 - [Pengantar Era Periklanan Digital](content/01_pengantar-era-periklanan-digital.md)
 - [Evolusi dari Penyiaran Massal ke Personalisasi](content/02_evolusi-dari-penyiaran-massal-ke-personalisasi.md)
-- [Big Data sebagai Bahan Bakar Algoritma](content/03_big-data-bahan-bakar-utama-algoritma.md)
+- [Big Data dalam Algoritma Iklan](content/03_big-data-bahan-bakar-utama-algoritma.md)
 - [Mekanisme Algoritma Penargetan](content/04_mekanisme-algoritma-penargetan.md)
 - [Teknologi Pelacakan dan Jejak Digital](content/05_teknologi-pelacakan-dan-jejak-digital.md)
 - [Psikologi Konsumen dalam Penargetan Perilaku](content/06_psikologi-konsumen-dalam-penargetan-perilaku.md)

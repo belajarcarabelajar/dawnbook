@@ -1,6 +1,6 @@
 ## Konsep Dasar Pejorasi
 
-Perubahan makna kata dalam kajian semantik kerap menurunkan nilai rasa dari yang semula terkesan netral atau terhormat menjadi bernada kasar dan merendahkan. Dalam dunia linguistik, fenomena penurunan derajat makna ini bukanlah suatu kebetulan acak, melainkan proses sistematis yang dikenal sebagai pejorasi.
+Perubahan makna kata dalam semantik kerap menurunkan nilai rasa dari yang semula terkesan netral atau terhormat menjadi bernada kasar dan merendahkan. Dalam linguistik, fenomena penurunan derajat makna ini bukanlah suatu kebetulan acak, melainkan proses sistematis yang dikenal sebagai pejorasi.
 
 Jika ameliorasi merupakan proses peningkatan nilai rasa bagi sebuah kata, pejorasi adalah kebalikannya, yaitu pergeseran menuju penurunan nilai rasa. Kajian semantik historis menelusuri bagaimana sebuah kata mengalami degradasi makna akibat perubahan persepsi sosial penuturnya.
 
@@ -26,7 +26,7 @@ Keterangan:
 - $V_{\text{awal}}$ menunjukkan bobot nilai rasa awal yang berada pada tingkat netral atau positif.
 - $V_{\text{akhir}}$ menunjukkan bobot nilai rasa akhir setelah mengalami degradasi semantik di masyarakat.
 
-### 2. Besi yang Mengalami Korosi
+### 2. Kendaraan yang Berkarat
 
 Untuk memahami mekanisme pejorasi, proses ini dapat dianalogikan seperti kendaraan baru yang baru keluar dari pabrik. Pada fase awal, kendaraan tersebut berkilau, bernilai ekonomis tinggi, dan dipandang sebagai simbol prestise (makna asal yang netral atau positif). Namun seiring berjalannya waktu, kendaraan tersebut tidak terawat, digunakan mengangkut limbah secara terus-menerus, hingga akhirnya berkarat dan berakhir di tempat pembuangan rongsokan.
 
@@ -34,7 +34,7 @@ Setelah mengalami korosi, pandangan publik terhadap objek tersebut berubah total
 
 ### 3. Faktor Penyebab Terjadinya Pejorasi
 
-Pejorasi tidak terjadi secara instan, melainkan hasil dari sedimentasi sosiolinguistik yang berlangsung dalam kurun waktu tertentu. Beberapa faktor utama meliputi:
+Pejorasi tidak terjadi secara instan, melainkan berlangsung bertahap dalam kurun waktu tertentu. Beberapa faktor utama meliputi:
 
 1. **Asosiasi Kontekstual Negatif**: Leksem yang terus-menerus dilekatkan pada kondisi buruk, pelaku kriminal, atau kelompok yang dimarjinalkan akan menyerap stigma lingkungan tersebut.
 2. **Pergeseran Standar Etika dan Nilai Sosial**: Nilai kesopanan masyarakat yang berkembang membuat istilah-istilah yang dahulu lumrah dinilai terlalu vulgar atau melanggar kesantunan.

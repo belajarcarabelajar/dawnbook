@@ -40,7 +40,7 @@ Membaca lateral butuh langkah yang jelas biar tidak tersesat. Mike Caulfield mer
 | **F** | *Find better coverage* | Cari liputan yang lebih baik. Kalau klaimnya penting, media tepercaya lain pasti ikut memberitakan. Cek apa kata mereka. |
 | **T** | *Trace to the original* | Lacak ke sumber asli. Kutipan, foto, video, angka: telusuri sampai ke konteks aslinya, bukan potongan yang beredar. |
 
-Contoh nyata. Kamu dapat kiriman: foto banjir dahsyat dengan keterangan "banjir tadi malam di kotamu, pemerintah diam saja".
+Contoh nyata. Kamu dapat kiriman: foto banjir besar dengan keterangan "banjir tadi malam di kotamu, pemerintah diam saja".
 
 - **Stop.** Kamu belum tahu foto ini kapan dan di mana. Tahan dulu.
 - **Investigate.** Siapa yang pertama menyebarkan? Akun yang memang biasa memberitakan cuaca, atau akun yang isinya cuma bikin panik?
@@ -71,4 +71,4 @@ Literasi digital bukan berarti kamu curiga pada segala hal sampai lelah sendiri.
 
 Berpikir kritis bukan bakat langka, melainkan kebiasaan memanggil System 2 dengan sengaja: bertanya siapa sumbernya, apa buktinya, apa motifnya, dan kenapa kamu percaya. Alih-alih menilai situs dari tampilannya (membaca vertikal), pemeriksa fakta profesional **membaca lateral**, keluar dari halaman untuk melihat apa kata sumber lain. Metode **SIFT** memberi empat gerakan yang bisa diulang: berhenti, selidiki sumber, cari liputan lebih baik, dan lacak klaim ke konteks aslinya. Tambahkan **click restraint**, kebiasaan menahan diri dari hasil pertama, dan sejumlah kebiasaan harian seperti mengecek sebelum meneruskan ke grup keluarga. Penelitian menunjukkan kebiasaan analitis dan pengetahuan yang relevan memang meningkatkan kemampuan membedakan yang benar dari yang palsu.
 
-Tapi kebiasaan memeriksa perlu alat yang lebih konkret, dan pertahanan yang paling kuat dibangun *sebelum* hoax datang. Di modul terakhir, **Verifikasi Fakta dan Inokulasi**, kita akan masuk ke teknik memverifikasi klaim dan gambar langkah demi langkah, lalu ke gagasan bahwa kamu bisa "divaksin" melawan manipulasi dengan mengenali polanya lebih dulu.
+Tapi kebiasaan memeriksa perlu alat yang lebih konkret, dan sebagian pertahanan bisa dibangun *sebelum* hoax datang. Di modul terakhir, **Verifikasi Fakta dan Inokulasi**, kita akan masuk ke teknik memverifikasi klaim dan gambar langkah demi langkah, lalu ke gagasan bahwa kamu bisa "divaksin" melawan manipulasi dengan mengenali polanya lebih dulu.

@@ -1,6 +1,6 @@
 ## Mengembangkan Kesadaran Metakognitif
 
-Metakognisi, atau "berpikir tentang berpikir," adalah keterampilan dasar yang bikin kita bisa mengerti, memantau, dan mengatur cara belajar kita sendiri. Kalau kita punya kesadaran metakognitif yang baik, kita jadi lebih peka sama cara pikiran bekerja. Kita tahu mana strategi yang pas dan kapan harus ganti pendekatan. Tentu saja kemampuan ini tidak muncul tiba-tiba. Butuh latihan dan pembiasaan. Kalau kita sering refleksi, lama-lama kemampuan belajar dan memecahkan masalah bakal ikut naik.
+Metakognisi, atau "berpikir tentang berpikir," adalah keterampilan dasar untuk mengerti, memantau, dan mengatur cara belajar kita sendiri. Kalau kita punya kesadaran metakognitif yang baik, kita jadi lebih peka sama cara pikiran bekerja. Kita tahu mana strategi yang pas dan kapan harus ganti pendekatan. Tentu saja kemampuan ini tidak muncul tiba-tiba. Butuh latihan dan pembiasaan. Kalau kita sering refleksi, lama-lama kemampuan belajar dan memecahkan masalah bakal ikut naik.
 
 **Penting:** Metakognisi bikin kita bisa merencanakan, memantau, sekaligus mengevaluasi strategi saat menghadapi masalah atau mempelajari hal baru.
 
@@ -8,7 +8,7 @@ Di bawah ini ada beberapa langkah praktis buat melatih keterampilan metakognitif
 
 ## 1\. Jurnal Belajar
 
-Jurnal belajar adalah alat sederhana tapi berdampak besar untuk melacak progres belajar dan emosi kamu selama prosesnya. Kalau kamu rutin menulis pikiranmu, perlahan kamu bakal mengenali pola, kelebihan, dan bagian mana dari gaya belajarmu yang masih perlu diperbaiki.
+Jurnal belajar adalah alat sederhana untuk melacak progres belajar dan emosi kamu selama prosesnya. Kalau kamu rutin menulis pikiranmu, perlahan kamu bakal mengenali pola, kelebihan, dan bagian mana dari gaya belajarmu yang masih perlu diperbaiki.
 
 ### Cara Memulainya
 
@@ -45,7 +45,7 @@ Jurnal belajar adalah alat sederhana tapi berdampak besar untuk melacak progres 
 
 ## 2\. Refleksi Pasca-Tugas
 
-Refleksi pasca-tugas itu intinya mengevaluasi lagi apa yang baru saja kamu pelajari, gimana prosesnya tadi, dan apa yang bisa diperbaiki ke depannya. Kegiatan ini sangat berguna untuk memetik wawasan berharga dari setiap tugas atau proyek yang sudah kamu kerjakan.
+Refleksi pasca-tugas itu intinya mengevaluasi lagi apa yang baru saja kamu pelajari, gimana prosesnya tadi, dan apa yang bisa diperbaiki ke depannya. Kegiatan ini berguna untuk menarik pelajaran dari setiap tugas atau proyek yang sudah kamu kerjakan.
 
 ### Langkah-langkah Melakukan Refleksi Pasca-Tugas
 
@@ -66,7 +66,7 @@ Refleksi pasca-tugas itu intinya mengevaluasi lagi apa yang baru saja kamu pelaj
 		- Strategi apa yang bakal kamu pertahankan?
 		- Tindakan nyata apa yang bakal kamu ambil setelah melakukan refleksi ini?
 
-> **Penting:** Refleksi setelah belajar itu bakal banget ningkatin metakognisi kamu. Kamu jadi tahu apakah strategi yang dipakai efektif atau butuh penyesuaian buat sesi berikutnya.
+> **Penting:** Refleksi setelah belajar itu bakal ningkatin metakognisi kamu. Kamu jadi tahu apakah strategi yang dipakai efektif atau butuh penyesuaian buat sesi berikutnya.
 
 ### Contoh Penerapan
 
@@ -78,7 +78,7 @@ Setelah mengerjakan soal ujian matematika:
 
 ## 3\. Penggunaan Mind Map untuk Perencanaan Metakognitif
 
-Mind map itu sifatnya visual dan sangat ngebantu kalau kamu mau menata informasi yang berantakan di kepala. Buat urusan metakognitif, alat ini pas banget buat bikin rencana belajar atau *problem-solving*. Kamu bisa memetakan strategi, target, sampai nebak masalah apa yang kira-kira bakal muncul nanti. Mind map bikin pikiran kita lebih gampang nangkep pola secara keseluruhan.
+Mind map itu sifatnya visual dan ngebantu kalau kamu mau menata informasi yang berantakan di kepala. Buat urusan metakognitif, alat ini pas buat bikin rencana belajar atau *problem-solving*. Kamu bisa memetakan strategi, target, sampai nebak masalah apa yang kira-kira bakal muncul nanti. Mind map bikin pikiran kita lebih gampang nangkep pola secara keseluruhan.
 
 ### Cara Menggunakan Mind Map untuk Perencanaan
 

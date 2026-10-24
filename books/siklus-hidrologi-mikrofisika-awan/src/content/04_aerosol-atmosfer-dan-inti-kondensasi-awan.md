@@ -1,8 +1,8 @@
-## Aerosol Atmosfer dan Inti Kondensasi Awan (CCN)
+## Aerosol Atmosfer dan Inti Kondensasi Awan
 
-Pernahkah pembaca membayangkan bahwa tetesan hujan yang membasahi bumi sebenarnya bermula dari sebutir debu mikroskopis atau kristal garam yang melayang di langit? Tanpa partikel-partikel kecil ini, langit mungkin akan tetap cerah meskipun kelembapan udara mencapai 100%.
+Pernahkah kamu membayangkan bahwa tetesan hujan yang membasahi bumi bermula dari sebutir debu mikroskopis atau kristal garam yang melayang di langit? Tanpa partikel-partikel kecil ini, langit mungkin akan tetap cerah meskipun kelembapan udara mencapai 100%.
 
-Dalam bab ini, kita akan menjelajahi dunia mikroskopis **Aerosol Atmosfer** dan peran utama partikel ini sebagai **Inti Kondensasi Awan** (*Cloud Condensation Nuclei* atau $\text{CCN}$).
+Dalam bab ini, kita akan mempelajari partikel mikroskopis yang disebut **Aerosol Atmosfer** dan peran utama partikel ini sebagai **Inti Kondensasi Awan** (*Cloud Condensation Nuclei* atau $\text{CCN}$).
 
 ### 1. Apa itu Aerosol Atmosfer?
 
@@ -83,18 +83,18 @@ Dengan $\beta = 3$, setiap kali radius naik sepuluh kali lipat, konsentrasinya t
 
 *Interpretasi:* Pola ini menunjukkan bahwa atmosfer dipenuhi oleh jutaan partikel sangat kecil (*Aitken nuclei*), namun hanya sedikit partikel berukuran besar yang tersedia. Partikel berukuran sedang hingga besar inilah yang paling sering menjadi inti kondensasi bagi pembentukan awan.
 
-### 5. Aplikasi Dunia Nyata dan Skenario
+### 5. Peran CCN di Lapangan
 
 #### Udara Laut vs. Udara Darat
 
 - **Di Samudra:** Konsentrasi $\text{CCN}$ relatif rendah tetapi ukurannya besar (garam laut). Hasilnya, tetesan awan yang terbentuk berjumlah lebih sedikit dengan ukuran relatif besar, sehingga awan di atas samudra lebih cepat menghasilkan curah hujan.
 - **Di Daratan (Wilayah Terpolusi):** Konsentrasi $\text{CCN}$ sangat tinggi akibat aktivitas industri dan kendaraan. Akibatnya, uap air terbagi ke jutaan $\text{CCN}$ kecil. Terbentuklah banyak tetesan awan yang sangat kecil. Awan ini tampak lebih putih (memantulkan radiasi surya), tetapi lebih sulit menghasilkan hujan karena tetesannya terlalu ringan untuk jatuh.
 
-#### Penyemaian Awan (Cloud Seeding)
+#### Penambahan CCN Buatan
 
 Upaya modifikasi cuaca dilakukan dengan menembakkan **Perak Iodida ($\text{AgI}$)** atau garam higroskopis ke dalam awan. Tujuannya adalah menambah jumlah $\text{CCN}$ (atau inti es, $\text{INP}$) secara buatan agar uap air memiliki permukaan untuk berkondensasi dan jatuh sebagai hujan di daerah terpencil atau wilayah terdampak kekeringan.
 
-### Ringkasan Konsep
+### Aerosol Pemicu Tetesan Awan
 
 - **Aerosol** adalah partikel padat atau cair yang melayang di atmosfer.
 - **$\text{CCN}$** (*Cloud Condensation Nuclei*) merupakan kelompok aerosol hidroskopis yang mampu memicu pembentukan tetesan awan.

@@ -2,7 +2,7 @@
 
 Pernahkah kamu bertanya-tanya mengapa ada puluhan merek sabun mandi di supermarket? Semuanya berfungsi sama (untuk membersihkan tubuh), namun masing-masing memiliki aroma, kemasan, dan janji manfaat yang berbeda. Ada yang menawarkan kelembutan kulit, ada yang fokus pada perlindungan kuman, dan ada pula yang menonjolkan aroma mewah.
 
-Selamat datang di dunia **Pasar Persaingan Monopolistik**. Ini adalah struktur pasar yang paling sering kita jumpai dalam kehidupan sehari-hari, sebuah wilayah "abu-abu" yang menggabungkan elemen kompetisi yang sengit dengan kekuatan monopoli merek.
+Situasi seperti ini disebut **Pasar Persaingan Monopolistik**. Ini adalah struktur pasar yang paling sering kita jumpai dalam kehidupan sehari-hari, sebuah wilayah "abu-abu" yang menggabungkan elemen kompetisi yang sengit dengan kekuatan monopoli merek.
 
 ### Apa Itu Pasar Persaingan Monopolistik?
 
@@ -32,7 +32,7 @@ Diferensiasi dapat terjadi melalui beberapa cara:
 
 ### Peran Utama Branding dan Iklan
 
-Dalam pasar persaingan monopolistik, fungsi iklan melampaui sekadar hiasan: iklan adalah **senjata utama**.
+Dalam pasar persaingan monopolistik, fungsi iklan melampaui sekadar hiasan: iklan adalah **alat bersaing yang utama**.
 
 #### Mengapa Iklan Sangat Penting?
 
@@ -56,7 +56,7 @@ Namun, karena hambatan masuk yang rendah, keuntungan ini akan mengundang pemain 
 
 ### Industri Perawatan Kulit
 
-Industri perawatan kulit (*skin care*) adalah contoh sempurna dari persaingan monopolistik.
+Industri perawatan kulit (*skin care*) adalah contoh yang jelas dari persaingan monopolistik.
 
 - **Skenario:** Ada ratusan merek *moisturizer* (pelembab). Secara kimiawi, fungsi dasarnya hampir sama.
 - **Aksi Produsen:** Merek A menggunakan iklan dengan *influencer* ternama untuk membangun citra "mewah". Merek B menonjolkan label "organik" dan "bebas kimia berbahaya". Merek C fokus pada harga yang sangat terjangkau dengan kemasan ekonomis.
@@ -75,6 +75,6 @@ Industri perawatan kulit (*skin care*) adalah contoh sempurna dari persaingan mo
 
 Bagi seorang pengusaha di pasar persaingan monopolistik, kunci keberhasilan terletak pada **kemampuan untuk tampil beda**, bukan sekadar mengandalkan efisiensi biaya.
 
-> **Insight Penting:** Di pasar ini, persepsi konsumen sering kali lebih nyata daripada realitas produk itu sendiri. Jika kamu bisa meyakinkan konsumen bahwa produk kamu memberikan nilai tambah yang tidak dimiliki orang lain, kamu memegang kendali harga di tangan kamu.
+> **Insight Penting:** Di pasar ini, persepsi konsumen sering kali lebih menentukan daripada kualitas produk itu sendiri. Jika kamu bisa meyakinkan konsumen bahwa produk kamu memberikan nilai tambah yang tidak dimiliki orang lain, kamu bisa mengendalikan harganya.
 
 *Tugas refleksi: Sebutkan satu produk yang kamu beli secara rutin. Apakah kamu tetap membelinya meskipun harganya naik sedikit? Jika ya, fitur diferensiasi apa yang membuat kamu tetap setia pada produk tersebut?*

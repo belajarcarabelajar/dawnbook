@@ -1,8 +1,8 @@
 ## Pengantar Arsitektur Kernel Linux
 
-Kernel Linux adalah jantung dari sistem operasi Linux. Jika kita membayangkan komputer sebagai sebuah negara yang sibuk, maka kernel adalah pemerintahannya. Ia bekerja di balik layar untuk mengelola sumber daya, menegakkan sistem keamanan, dan memastikan seluruh aplikasi mendapatkan apa yang mereka butuhkan tanpa saling mengganggu.
+Kernel Linux adalah inti dari sistem operasi Linux. Jika kita membayangkan komputer sebagai sebuah negara yang sibuk, maka kernel adalah pemerintahannya. Ia bekerja di balik layar untuk mengelola sumber daya, menegakkan sistem keamanan, dan memastikan seluruh aplikasi mendapatkan apa yang mereka butuhkan tanpa saling mengganggu.
 
-Bagian ini membahas definisi dasar kernel, sejarah singkat kelahirannya, serta perannya sebagai jembatan utama dalam komputasi.
+Bagian ini membahas definisi dasar kernel, sejarah singkat kelahirannya, serta perannya sebagai penghubung antara perangkat lunak dan perangkat keras.
 
 ## Apa Itu Kernel?
 
@@ -17,7 +17,7 @@ Kernel memastikan seluruh komponen berjalan selaras dengan cara:
 2. **Memory Management**: Mengalokasikan ruang RAM dengan presisi agar data satu aplikasi tidak menimpa data aplikasi lainnya.
 3. **Perangkat Keras**: Mengelola antrean komunikasi dan memastikan respons diberikan secara tertib.
 
-## Dari Hobi Menjadi Kekuatan Dunia
+## Sejarah Singkat Linux
 
 Kisah Linux dimulai pada tahun 1991. Seorang mahasiswa dari Universitas Helsinki, Finlandia, bernama Linus Torvalds, merasa tidak puas dengan Minix (sistem UNIX sederhana untuk pendidikan). Ia ingin membangun sesuatu yang lebih baik, meski awalnya hanya dianggap sebagai proyek sampingan untuk mengisi waktu luang.
 
@@ -31,7 +31,7 @@ Kisah Linux dimulai pada tahun 1991. Seorang mahasiswa dari Universitas Helsinki
 
 Bagaimana sebuah proyek hobi mahasiswa dapat melampaui dominasi perusahaan teknologi raksasa di pasar server dan infrastruktur cloud? Jawabannya terletak pada kekuatan kolaborasi terbuka serta komunitas global yang solid.
 
-## Jembatan Antara Software dan Hardware
+## Kernel di Antara Software dan Hardware
 
 Kernel bertindak sebagai lapisan abstraksi. Pengembang aplikasi tidak perlu memusingkan cara menggerakkan jarum pada piringan hard disk atau mengirim sinyal listrik ke kartu jaringan. Cukup ajukan permintaan melalui kernel, dan kernel yang akan mengurus detail teknisnya.
 
@@ -87,8 +87,8 @@ Tanpa peran kernel, pembuat aplikasi `cat` harus menulis kode khusus untuk setia
 Untuk memastikan pemahamanmu, mari kita tinjau kembali beberapa poin penting yang telah dibahas:
 
 * **Fungsi Inti**: Kernel bertindak sebagai pengelola utama seluruh sumber daya komputer, mulai dari memori hingga hak akses perangkat keras.
-* **Asal-usul**: Lahir dari tangan Linus Torvalds pada tahun 1991 sebagai proyek hobi, yang kini bertransformasi menjadi proyek kolaboratif open-source terbesar di dunia.
+* **Asal-usul**: Dimulai oleh Linus Torvalds pada tahun 1991 sebagai proyek hobi, yang kini menjadi proyek kolaboratif open-source terbesar di dunia.
 * **Peran Abstraksi**: Menyembunyikan kompleksitas perangkat keras fisik agar para pengembang aplikasi tidak perlu pusing memikirkan cara kerja perangkat keras secara mendetail.
-* **Isolasi Keamanan**: Pemisahan wilayah kerja user space dan kernel space mutlak diperlukan untuk mencegah kegagalan fatal pada sistem utama.
+* **Isolasi Keamanan**: Pemisahan wilayah kerja user space dan kernel space diperlukan untuk mencegah kegagalan fatal pada sistem utama.
 
 Lalu, apa yang membuat Kernel Linux tetap efisien sekaligus fleksibel seiring perkembangannya?

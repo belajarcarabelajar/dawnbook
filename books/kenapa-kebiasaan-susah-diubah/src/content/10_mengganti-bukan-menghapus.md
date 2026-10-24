@@ -2,17 +2,17 @@
 
 Bayangkan seseorang yang sudah bertahun-tahun menggigit kukunya. Bukan sesekali, tapi sampai kukunya rusak dan tangannya sering ia sembunyikan. Orang semacam ini biasanya sudah mencoba segala cara: teguran sendiri, cat pahit di kuku, janji tiap awal bulan. Semua gagal, dan gagalnya bukan sekali tapi bertahun-tahun.
 
-Kisah seperti ini bukan fiksi. Ia terdokumentasi dalam jurnal riset. Pada 1973, Nathan Azrin dan Richard Nunn menerbitkan studi di Behaviour Research and Therapy tentang metode yang mereka sebut habit reversal. Klien-klien mereka, dua belas orang dengan kebiasaan saraf yang beragam, mulai dari menggigit kuku sampai gerakan kelopak mata dan otot yang menyentak, menjalani satu sesi latihan saja. Hasilnya sulit dipercaya: kebiasaan itu hilang hampir total pada hari pertama, dan pada pemantauan lanjutan, kebiasaan masih hilang pada sebelas dari dua belas klien yang mengikuti instruksi.
+Kisah seperti ini bukan fiksi. Ia terdokumentasi dalam jurnal riset. Pada 1973, Nathan Azrin dan Richard Nunn menerbitkan studi di Behaviour Research and Therapy tentang metode yang mereka sebut habit reversal. Klien-klien mereka, dua belas orang dengan kebiasaan saraf yang beragam, mulai dari menggigit kuku sampai gerakan kelopak mata dan otot yang menyentak, menjalani satu sesi latihan saja. Hasilnya: kebiasaan itu hilang hampir total pada hari pertama, dan pada pemantauan lanjutan, kebiasaan masih hilang pada sebelas dari dua belas klien yang mengikuti instruksi.
 
-Satu sesi. Tanpa obat. Tanpa pemahaman mendalam tentang asal-usul kebiasaan masa kecil. Apa yang mereka lakukan? Jawabannya bukan melawan kebiasaan dengan kekuatan kehendak, melainkan sesuatu yang jauh lebih cerdik: memasang aksi pengganti di dalam loop yang sama. Metode itu bisa dibongkar sampai ke resepnya, dan resep itu bisa kamu pakai untuk kebiasaanmu sendiri.
+Satu sesi. Tanpa obat. Tanpa pemahaman mendalam tentang asal-usul kebiasaan masa kecil. Apa yang mereka lakukan? Jawabannya bukan melawan kebiasaan dengan kekuatan kehendak, melainkan sesuatu yang lebih cerdik: memasang aksi pengganti di dalam loop yang sama. Metode itu bisa dibongkar sampai ke resepnya, dan resep itu bisa kamu pakai untuk kebiasaanmu sendiri.
 
 ### Golden rule yang mempertahankan cue dan reward
 
-Kalau kamu mengikuti buku ini dari awal, sebenarnya kamu sudah bertemu jembatannya. Di bab anatomi loop, kita membedah bahwa setiap kebiasaan tersusun dari cue, routine, dan reward. Di bab 6, kita menutup pintu harapan palsu: kebiasaan lama tidak bisa dihapus dari otak, jalur sarafnya hanya bisa dielakkan atau diganti. Dua keping puzzle itu menyisakan satu pertanyaan, dan Charles Duhigg dalam The Power of Habit (2012) memberi namanya: golden rule of habit change.
+Kalau kamu mengikuti buku ini dari awal, sebenarnya kamu sudah bertemu jembatannya. Di bab anatomi loop, kita membedah bahwa setiap kebiasaan tersusun dari cue, routine, dan reward. Di bab 6, kita melihat bahwa kebiasaan lama tidak bisa dihapus dari otak, jalur sarafnya hanya bisa dielakkan atau diganti. Dua keping puzzle itu menyisakan satu pertanyaan, dan Charles Duhigg dalam The Power of Habit (2012) memberi namanya: golden rule of habit change.
 
 Bunyinya singkat. Pertahankan cue dan reward, lalu ganti routine-nya.
 
-Logikanya tegas kalau kamu ingat cara kerja loop. Cue adalah pemicu yang sudah tertanam dalam konteks hidupmu, dan reward adalah imbalan yang membuat otak menganggap siklus ini layak diulang. Keduanya adalah bagian yang membuat kebiasaan menempel. Routine adalah aksinya, bagian yang paling terlihat tapi sebenarnya paling mudah ditukar. Kebanyakan orang mencoba berubah dengan menyerang routine secara langsung sambil membiarkan cue terus menghantui dan reward tak tergantikan, lalu heran kenapa tangan bergerak kembali ke pola lama. Golden rule membalik arah serangan itu: jangan bunuh loop, pasang kembali isinya.
+Logikanya tegas kalau kamu ingat cara kerja loop. Cue adalah pemicu yang sudah tertanam dalam konteks hidupmu, dan reward adalah imbalan yang membuat otak menganggap siklus ini layak diulang. Keduanya adalah bagian yang membuat kebiasaan menempel. Routine adalah aksinya, bagian yang paling terlihat tapi sebenarnya paling mudah ditukar. Kebanyakan orang mencoba berubah dengan menyerang routine secara langsung sambil membiarkan cue terus muncul dan reward tak tergantikan, lalu heran kenapa tangan bergerak kembali ke pola lama. Golden rule membalik arah serangan itu: jangan bunuh loop, pasang kembali isinya.
 
 Dalam bentuk gambar, yang berpindah hanya jalur tengahnya, sementara kedua ujungnya tidak bergeser.
 
@@ -28,21 +28,21 @@ flowchart LR
 
 ### Dua bahan dari laboratorium Azrin dan Nunn
 
-Metode habit reversal memberi bukti paling murni untuk golden rule, dan resepnya hanya punya dua bahan.
+Metode habit reversal memberi bukti paling jelas untuk golden rule, dan resepnya hanya punya dua bahan.
 
 Bahan pertama: kesadaran akan momen kebiasaan. Klien dilatih menyadari persis kapan kebiasaan mulai bergerak, momen di mana tangan sudah menuju kuku sebelum sadar. Ini penting karena, seperti sudah kita bahas sejak bab awal, kebiasaan berjalan tanpa banyak melibatkan pikiran sadar. Kamu tidak bisa mengganti sesuatu yang tidak sempat kamu lihat.
 
 Bahan kedua: respons kompetitif, gerakan yang bertabrakan fisik dengan kebiasaan. Klien yang menggigit kuku dilatih, begitu dorongan muncul, mengepalkan tangan atau menempatkan tangannya di posisi lain yang mustahil menyentuh mulut. Gerakan pengganti ini sengaja dipilih supaya tidak kompatibel dengan routine lama, dan supaya masih memberi sesuatu yang serupa dengan yang dulu didapat: tangan punya pekerjaan, ketegangan di banyak kasus saraf, dan kelegaan yang menyusul.
 
-Kedua bahan itu dilatih dalam satu sesi. Tidak ada pelan-pelan bertahun-tahun, tidak ada terapi berlarut. Dan hasilnya seperti yang sudah kamu baca di pembuka: hilang hampir total di hari pertama, bertahan pada sebelas klien yang konsisten mengikuti instruksi. Angka ini dramatis, dan justru karena itu kita perlu bicara jujur soal batasnya, sebentar lagi.
+Kedua bahan itu dilatih dalam satu sesi. Tidak ada pelan-pelan bertahun-tahun, tidak ada terapi berlarut. Dan hasilnya seperti yang sudah kamu baca di pembuka: hilang hampir total di hari pertama, bertahan pada sebelas klien yang konsisten mengikuti instruksi. Angka ini tinggi, dan karena itu kita perlu bicara jujur soal batasnya, sebentar lagi.
 
 ### Resep empat langkah untuk kebiasaanmu
 
-Meski hasil Azrin dan Nunn datang cepat, untuk kebiasaan sehari-hari kamu tidak perlu menunggu keajaiban satu hari. Yang kamu butuhkan adalah versi sederhana dari metode yang sama, empat langkah yang bisa kamu jalankan mulai sore ini.
+Meski hasil Azrin dan Nunn datang cepat, untuk kebiasaan sehari-hari kamu tidak perlu mengharapkan hasil dalam satu hari. Yang kamu butuhkan adalah versi sederhana dari metode yang sama, empat langkah yang bisa kamu jalankan mulai sore ini.
 
 Langkah pertama: petakan cue dan reward kebiasaanmu. Sebelum mengganti apa pun, kamu harus tahu loop yang sedang berjalan. Kebiasaan itu muncul di jam berapa, di tempat apa, setelah peristiwa apa, dalam suasana hati yang bagaimana? Dan apa yang sebenarnya kamu dapat darinya, hiburan, kelegaan, rasa tidak ketinggalan, atau jeda dari kebosanan? Catat beberapa hari, karena tebakan biasanya salah.
 
-Langkah kedua: pilih routine pengganti yang memberi reward serupa dan murah. Ini kunci yang paling sering dilewatkan. Routine baru harus menyodorkan sesuatu yang setara dengan reward lama, atau setidaknya cukup memuaskan, dan harus mudah dijalankan. Routine pengganti yang lebih merepotkan dari routine lama akan kalah setiap kali dorongan muncul.
+Langkah kedua: pilih routine pengganti yang memberi reward serupa dan murah. Ini langkah yang paling sering dilewatkan. Routine baru harus menyodorkan sesuatu yang setara dengan reward lama, atau setidaknya cukup memuaskan, dan harus mudah dijalankan. Routine pengganti yang lebih merepotkan dari routine lama akan kalah setiap kali dorongan muncul.
 
 Langkah ketiga: tuliskan implementation intention, kalimat rencana berformat "Jika cue Y, maka saya lakukan Z". Peter Gollwitzer dan Paschal Sheeran (2006) menghimpun 94 tes independen dan menemukan bahwa rencana sederhana ini berdampak medium-besar pada pencapaian tujuan, d = 0,65. Mekanismenya cocok persis dengan yang kita butuhkan: kalimat itu membuat pemicu lebih mudah terdeteksi dan mengotomatisasi respons yang dituju. Kamu tidak lagi mengandalkan keputusan di detik kritis, karena keputusannya sudah dibuat sebelumnya.
 

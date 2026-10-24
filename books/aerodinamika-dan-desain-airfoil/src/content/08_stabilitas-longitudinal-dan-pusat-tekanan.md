@@ -2,7 +2,7 @@
 
 Pernahkah timbul pertanyaan mengapa pesawat terbang tidak tiba-tiba menukik tajam atau mendongak ke atas saat melewati turbulensi ringan? Atau bagaimana seorang pilot menjaga pesawat tetap lurus dan seimbang mendatar (*level flight*) meskipun beban di dalam kabin berubah? Jawabannya terletak pada kesetimbangan dan interaksi antara dua titik acuan utama pada profil aerodinamika: **Pusat Tekanan (*Center of Pressure*)** dan **Pusat Aerodinamika (*Aerodynamic Center*)**.
 
-Bab ini membedah bagaimana distribusi tekanan pada sayap menciptakan momen yang menentukan stabilitas pesawat. Pemahaman posisi titik-titik ini sangat krusial agar pesawat tidak hanya mampu menghasilkan gaya angkat, tetapi juga dapat dikendalikan dengan aman dan terprediksi.
+Bab ini membedah bagaimana distribusi tekanan pada sayap menciptakan momen yang menentukan stabilitas pesawat. Pemahaman posisi titik-titik ini penting agar pesawat tidak hanya mampu menghasilkan gaya angkat, tetapi juga dapat dikendalikan dengan aman dan terprediksi.
 
 ### 1. Pusat Tekanan (*Center of Pressure* - $\text{CP}$)
 
@@ -44,7 +44,7 @@ Dengan menetapkan $\text{AC}$ sebagai titik acuan, analisis aerodinamika sayap d
 1. **Gaya Angkat ($L$):** Bekerja pada titik $\text{AC}$ dengan besar yang bertambah secara linear terhadap sudut serang $\alpha$.
 2. **Momen Angguk Konstan ($M_{\text{ac}}$):** Momen murni pada $\text{AC}$ yang nilainya bernilai tetap untuk rentang kerja sudut serang linear.
 
-Jika $\text{AC}$ adalah titik tempat gaya tidak menimbulkan perubahan momen putar tambahan saat sudut serang bervariasi, titik ini menjadi fondasi yang sangat andal untuk perancangan sistem kendali pesawat terbang.
+Jika $\text{AC}$ adalah titik tempat gaya tidak menimbulkan perubahan momen putar tambahan saat sudut serang bervariasi, titik ini menjadi acuan yang andal untuk perancangan sistem kendali pesawat terbang.
 
 ### 3. Stabilitas Statis Longitudinal
 
@@ -97,7 +97,7 @@ Pada armada kargo berbadan lebar seperti Boeing 747-8F, pengaturan penempatan pa
 
 Pesawat tempur modern generasi ke-4 dan ke-5 (seperti F-16 Falcon atau F-22 Raptor) sengaja dirancang dengan konfigurasi stabilitas statis santai (*Relaxed Static Stability* - RSS), yaitu menempatkan posisi $\text{CG}$ di belakang $\text{AC}$. Konfigurasi ini secara alamiah tidak stabil, tetapi dikendalikan secara terus-menerus oleh komputer kendali terbang digital (*Fly-by-Wire*). Rancangan ini dipilih karena ketidakstabilan statis memberikan laju respons rotasi (*pitch rate*) yang sangat cepat untuk manuver tempur ekstrem.
 
-### Perbandingan Komprehensif Titik Referensi
+### Perbandingan Tiga Titik Referensi
 
 | Konsep | Lokasi Utama | Sifat Perilaku | Peran Utama dalam Desain |
 | --- | --- | --- | --- |

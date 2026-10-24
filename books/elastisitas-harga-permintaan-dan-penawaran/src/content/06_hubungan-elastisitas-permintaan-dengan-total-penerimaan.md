@@ -1,9 +1,9 @@
 ## Hubungan Elastisitas Permintaan dengan Total Penerimaan
-Pernahkah kamu bertanya-tanya mengapa perusahaan seperti Apple jarang sekali memberikan diskon besar-besaran, sementara minimarket di dekat rumah kamu hampir setiap minggu memberikan promo "Beli 2 Gratis 1"? Jawabannya terletak pada strategi **Total Revenue** (total penerimaan) yang didasarkan pada **Elastisitas Permintaan**.
-Sebagai produsen atau pemilik bisnis, keputusan untuk menaikkan atau menurunkan harga adalah pedang bermata dua. Jika kamu menaikkan harga, kamu mendapat lebih banyak uang per unit, tetapi jumlah pelanggan mungkin berkurang. Di sinilah pemahaman tentang hubungan antara elastisitas dan total penerimaan menjadi sangat penting.
+Pernahkah kamu bertanya-tanya mengapa perusahaan seperti Apple jarang sekali memberikan potongan harga besar-besaran? Sebaliknya, minimarket di dekat rumah kamu hampir setiap minggu memberikan promo "Beli 2 Gratis 1". Jawabannya terletak pada strategi **Total Revenue** (total penerimaan) yang didasarkan pada **Elastisitas Permintaan**.
+Sebagai produsen atau pemilik bisnis, keputusan untuk menaikkan atau menurunkan harga membawa untung dan rugi sekaligus. Jika kamu menaikkan harga, kamu mendapat lebih banyak uang per unit, tetapi jumlah pelanggan mungkin berkurang. Karena itu, hubungan antara elastisitas dan total penerimaan perlu dipahami.
 ### 1. Memahami Total Penerimaan (Total Revenue)
 Sebelum masuk ke hubungan dengan elastisitas, kita harus menyamakan persepsi tentang apa itu **Total Penerimaan (Total Revenue/$\text{TR}$)**.
-Secara sederhana, Total Penerimaan adalah seluruh uang yang diterima oleh perusahaan dari hasil penjualan barang atau jasa. Rumusnya sangat mendasar:
+Secara sederhana, Total Penerimaan adalah seluruh uang yang diterima oleh perusahaan dari hasil penjualan barang atau jasa. Rumusnya sederhana:
 
 $$
 \text{TR} = P \times Q
@@ -13,7 +13,7 @@ Di mana:
 - $\text{TR}$ = Total Revenue (Total Penerimaan)
 - $P$ = Price (Harga per unit)
 - $Q$ = Quantity (Jumlah unit yang terjual)
-> **Insight Penting:** Perubahan dalam $\text{TR}$ sangat bergantung pada mana yang lebih dominan: **kenaikan harga ($P$)** atau **penurunan jumlah permintaan ($Q$)**. Hukum permintaan menyatakan bahwa jika $P$ naik, $Q$ pasti turun. Elastisitas memberi tahu kita *seberapa besar* penurunan $Q$ tersebut.
+> **Insight Penting:** Perubahan dalam $\text{TR}$ bergantung pada mana yang lebih dominan: **kenaikan harga ($P$)** atau **penurunan jumlah permintaan ($Q$)**. Hukum permintaan menyatakan bahwa jika $P$ naik, $Q$ pasti turun. Elastisitas memberi tahu kita *seberapa besar* penurunan $Q$ tersebut.
 ### 2. Elastisitas vs. Total Revenue
 Efek perubahan harga terhadap total penerimaan akan berbeda-beda tergantung pada derajat elastisitas barang tersebut.
 #### A. Permintaan Elastis
@@ -37,7 +37,7 @@ Tabel strategi di bawah ini memudahkan pengambilan keputusan:
 | **Harga Turun ($\downarrow$)** | $\text{TR}$ Naik ($\uparrow$) | $\text{TR}$ Turun ($\downarrow$) | $\text{TR}$ Tetap |
 Sebagai contoh, jika seseorang menjadi manajer pemasaran produk garam dapur, menyarankan diskon besar-besaran untuk meningkatkan total pendapatan bukanlah langkah yang tepat, karena konsumen tidak akan memasak lebih asin hanya karena harga garam turun.
 ### 4. Kurva Total Revenue
-Jika kita memplot hubungan ini dalam sebuah grafik, kita akan melihat fenomena yang menarik. Kurva Total Revenue biasanya berbentuk seperti huruf "U" terbalik (parabola).
+Jika kita memplot hubungan ini dalam sebuah grafik, kurva Total Revenue biasanya berbentuk seperti huruf "U" terbalik (parabola).
 1. **Bagian Atas (Elastis):** Saat harga masih tinggi, permintaan berada di wilayah elastis. Menurunkan harga akan meningkatkan $\text{TR}$.
 2. **Titik Puncak (Unitary):** Total Revenue mencapai titik **maksimum** tepat ketika elastisitas permintaan sama dengan satu ($E_d = 1$).
 3. **Bagian Bawah (Inelastis):** Setelah melewati titik puncak, jika harga terus diturunkan, permintaan masuk ke wilayah inelastis. Menurunkan harga lebih lanjut justru akan mengurangi $\text{TR}$.
@@ -56,7 +56,7 @@ flowchart LR
     B -->|"harga terus turun, TR turun"| C["Wilayah inelastis"]
 ```
 
-### 5. Aplikasi Dunia Nyata & Kasus Bisnis
+### 5. Contoh dari Maskapai, Tol, dan Smartphone
 #### Industri Maskapai Penerbangan
 Maskapai menggunakan sistem *dynamic pricing*. Untuk tiket kelas bisnis yang biasanya dibeli oleh pelancong bisnis (permintaan inelastis karena mendesak dan dibayar kantor), harga dipasang tinggi. Menaikkan harga pada segmen ini akan meningkatkan $\text{TR}$ maskapai. Sebaliknya, untuk tiket promo liburan (permintaan elastis), mereka sering memberikan diskon untuk mengisi kursi yang kosong agar $\text{TR}$ naik.
 #### Tarif Tol
@@ -68,4 +68,4 @@ Memahami hubungan ini membantu produsen menghindari kesalahan dalam penetapan ha
 1. **Jangan memotong harga** jika produk kamu bersifat **inelastis**, karena kamu hanya akan kehilangan uang tanpa mendapatkan cukup banyak pelanggan baru untuk menutupi kerugian tersebut.
 2. **Jangan menaikkan harga** jika produk kamu bersifat **sangat elastis**, karena pelanggan akan berpindah dalam jumlah besar, dan total uang di kasir kamu akan berkurang drastis.
 3. **Tujuan akhir** perusahaan yang ingin memaksimalkan pendapatan adalah mencoba menetapkan harga sedemikian rupa sehingga mereka beroperasi sedekat mungkin dengan titik **elastisitas uniter**.
-> **Pesan Utama:** Mengetahui elastisitas produk kamu adalah kunci untuk memahami apakah cara terbaik untuk mendapatkan lebih banyak uang adalah dengan membuat barang kamu lebih mahal atau sebaliknya membuatnya lebih murah.
+> **Pesan Utama:** Mengetahui elastisitas produk kamu membantu memahami apakah cara terbaik untuk mendapatkan lebih banyak uang adalah dengan membuat barang kamu lebih mahal atau sebaliknya membuatnya lebih murah.

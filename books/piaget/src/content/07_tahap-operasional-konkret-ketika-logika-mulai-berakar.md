@@ -1,8 +1,8 @@
-## Tahap Operasional Konkret (Usia 7 - 11 Tahun)
+## Tahap Operasional Konkret
 
 Di tahap ini, dunia anak yang tadinya penuh "sihir" dan tebak-tebakan intuisi pelan-pelan berubah jadi lebih logis dan teratur. Kalau di fase praoperasional mereka yakin banget bulan ngikutin ke mana pun mereka pergi, sekarang di **Tahap Operasional Konkret**, mereka mulai sadar kalau ada hukum alam yang mengatur benda-benda fisik.
 
-Anak usia 7-11 tahun mengalami semacam revolusi di otak mereka. Mereka nggak lagi gampang ketipu sama wujud luar benda. Mereka mulai pakai **operasi mental**,tindakan di dalam pikiran buat menyusun ulang informasi biar lebih masuk akal.
+Anak usia 7-11 tahun mengalami perubahan penting dalam cara berpikir mereka. Mereka nggak lagi gampang ketipu sama wujud luar benda. Mereka mulai pakai **operasi mental**, tindakan di dalam pikiran buat menyusun ulang informasi biar lebih masuk akal.
 
 ## 1. Dari Intuisi ke Logika Konkret
 
@@ -87,7 +87,7 @@ Mereka langsung paham sebab-akibatnya gara-gara hasilnya langsung nongol di laya
 
 > Coba deh ingat-ingat waktu kecil dulu. Pernah nggak ngerasa "diculasi" pas dikasih cokelat yang udah dipotek-potek kecil biar kelihatannya banyak? Pas kamu mulai sadar kalau jumlah aslinya ya segitu-segitu aja biarpun bentuknya berubah, nah, di titik itulah cara mikirmu udah naik level ke tahap Operasional Konkret.
 
-### Ringkasan Konsep
+### Lima Kemampuan Utama
 
 | Kemampuan | Deskripsi |
 | --- | --- |

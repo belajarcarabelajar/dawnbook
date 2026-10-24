@@ -2,11 +2,11 @@
 
 Bayangkan kamu sedang berjalan di koridor kantor yang gelap. Kamu tidak bisa melihat ekspresi wajah rekan kerja, tidak bisa mendengar nada suara mereka, dan hanya bisa mengandalkan secarik memo yang mereka selipkan di bawah pintu. Inilah analogi tantangan utama dalam **komunikasi digital**.
 
-Ketika interaksi fisik ditiadakan, sekitar 70% hingga 90% petunjuk komunikasi non-verbal (seperti kerutan dahi, senyuman tipis, bahasa tubuh, hingga intonasi suara) ikut menguap. Di sinilah pentingnya memiliki **Kecerdasan Interpersonal Digital**. Ini adalah kemampuan untuk membangun koneksi, rasa percaya, dan pemahaman yang jernih meskipun dibatasi oleh layar perangkat digital.
+Ketika interaksi fisik ditiadakan, sekitar 70% hingga 90% petunjuk komunikasi non-verbal (seperti kerutan dahi, senyuman tipis, bahasa tubuh, hingga intonasi suara) ikut hilang. Di sinilah pentingnya memiliki **Kecerdasan Interpersonal Digital**. Ini adalah kemampuan untuk membangun koneksi, rasa percaya, dan pemahaman yang jernih meskipun dibatasi oleh layar perangkat digital.
 
 ## 1. Memahami Digital Body Language
 
-Dalam dunia virtual, tanda baca yang kamu gunakan mewakili intonasi suara, sedangkan kecepatan respons bertindak layaknya jabat tangan hangat.
+Dalam dunia virtual, tanda baca yang kamu gunakan mewakili intonasi suara, sedangkan kecepatan respons berperan seperti jabat tangan.
 
 > **Insight:** *Digital Body Language* adalah cara kita membangun kepercayaan dan kejelasan melalui pilihan medium, tanda baca, kecepatan respons, serta penggunaan emoji yang tepat.
 
@@ -14,7 +14,7 @@ Tanpa petunjuk visual langsung, otak manusia memiliki kecenderungan bawaan untuk
 
 Untuk menghindari misinterpretasi seperti itu, berikut beberapa prinsip utama yang perlu kamu pegang:
 
-*   **Kejelasan di atas keringkasan kalimat.** Memberikan konteks tambahan di awal jauh lebih baik daripada menulis pesan super singkat yang berujung membingungkan lawan bicara.
+*   **Kejelasan di atas keringkasan kalimat.** Memberikan konteks tambahan di awal jauh lebih baik daripada menulis pesan terlalu singkat yang berujung membingungkan lawan bicara.
 *   **Menghormati batas waktu.** Setiap anggota tim memiliki zona waktu dan jam kerja yang berbeda, terutama saat berkolaborasi di lingkungan *remote work*. Mengirim pesan di luar jam kerja tanpa keterangan "non-urgent" bisa mengganggu keseimbangan hidup mereka.
 
 ## 2. Etika Berdasarkan Saluran Komunikasi
@@ -39,14 +39,14 @@ Aplikasi seperti Slack, Microsoft Teams, atau WhatsApp dirancang untuk obrolan d
 Pertemuan video adalah pengganti terbaik untuk interaksi tatap muka langsung ketika tim bekerja secara terpisah.
 *   **Nyalakan kamera selagi memungkinkan.** Ini membantu membangun kedekatan visual. Apabila kamu harus mematikan kamera karena kendala teknis atau alasan mendesak, sampaikan permohonan maaf singkat melalui kolom chat.
 *   **Latih kontak mata virtual.** Arahkan pandangan kamu ke **lensa kamera** sesekali saat berbicara, bukan melulu menatap wajah sendiri atau wajah rekan kerja di layar. Hal ini memberi kesan bahwa kamu benar-benar sedang berbicara dengan mereka.
-*   **Disiplin menggunakan tombol mute.** Jaga mikrofon tetap mati kecuali saat kamu mendapat giliran berbicara. Ini sangat membantu meminimalkan kebisingan latar belakang yang mengganggu jalannya rapat.
+*   **Disiplin menggunakan tombol mute.** Jaga mikrofon tetap mati kecuali saat kamu mendapat giliran berbicara. Ini membantu meminimalkan kebisingan latar belakang yang mengganggu jalannya rapat.
 
 ## 3. Menyeimbangkan Komunikasi Sinkron dan Asinkron
 
-Tantangan terbesar yang sering memicu kelelahan mental dalam ekosistem *remote work* adalah rapat beruntun, atau yang biasa disebut *Zoom Fatigue*. Kunci untuk mengatasinya adalah memahami kapan harus berinteraksi secara langsung dan kapan harus memberikan ruang jeda.
+Tantangan terbesar yang sering memicu kelelahan mental dalam *remote work* adalah rapat beruntun, atau yang biasa disebut *Zoom Fatigue*. Kunci untuk mengatasinya adalah memahami kapan harus berinteraksi secara langsung dan kapan harus memberikan ruang jeda.
 
-*   **Komunikasi Sinkron (Real-time):** Interaksi langsung melalui panggilan video, telepon, atau obrolan chat intensif. Pendekatan ini sangat ideal untuk sesi *brainstorming*, resolusi konflik yang membutuhkan empati tinggi, atau sesi perkenalan anggota tim baru.
-*   **Komunikasi Asinkron (Delayed):** Komunikasi tidak langsung yang memberi jeda waktu untuk merespons, seperti email, rekaman video penjelasan (misalnya menggunakan Loom), atau dokumen kolaboratif. Ini sangat cocok untuk pembaruan status proyek, pengerjaan teknis mandiri, dan penyampaian informasi yang tidak mendesak.
+*   **Komunikasi Sinkron (Real-time):** Interaksi langsung melalui panggilan video, telepon, atau obrolan chat intensif. Pendekatan ini ideal untuk sesi *brainstorming*, resolusi konflik yang membutuhkan empati tinggi, atau sesi perkenalan anggota tim baru.
+*   **Komunikasi Asinkron (Delayed):** Komunikasi tidak langsung yang memberi jeda waktu untuk merespons, seperti email, rekaman video penjelasan (misalnya menggunakan Loom), atau dokumen kolaboratif. Ini cocok untuk pembaruan status proyek, pengerjaan teknis mandiri, dan penyampaian informasi yang tidak mendesak.
 
 Dalam menjaga ritme kerja yang efisien, kita dapat mengacu pada rumus keefektifan komunikasi berikut:
 
@@ -83,7 +83,7 @@ Sebagai seorang *T-Shaped Professional*, yang memadukan keahlian spesifik yang m
 
 ### Panduan Kolaborasi Teknis
 *   **Melakukan Code Review dengan Empati.** Sampaikan umpan balik dalam bentuk pertanyaan reflektif daripada perintah langsung. Bandingkan kalimat ini: *"Apakah ada kendala jika kita menggunakan fungsi X di bagian ini agar kinerjanya lebih optimal?"* terasa jauh lebih suportif dibanding *"Ganti baris ini dengan fungsi X."*
-*   **Menjadikan dokumentasi sebagai pilar komunikasi utama.** Saat bekerja dalam skema *remote work*, dokumentasi berfungsi sebagai *Single Source of Truth*. Pastikan setiap panduan yang kamu tulis dapat dipahami dengan mudah, bahkan oleh rekan kerja non-teknis sekalipun.
+*   **Menjadikan dokumentasi sebagai sarana komunikasi utama.** Saat bekerja dalam skema *remote work*, dokumentasi berfungsi sebagai *Single Source of Truth*. Pastikan setiap panduan yang kamu tulis dapat dipahami dengan mudah, bahkan oleh rekan kerja non-teknis sekalipun.
 
 ### Ceklis Refleksi Komunikasi Digital Harian
 Sebelum menekan tombol kirim atau menutup hari, luangkan waktu sejenak untuk memikirkan pertanyaan berikut:
@@ -92,8 +92,8 @@ Sebelum menekan tombol kirim atau menutup hari, luangkan waktu sejenak untuk mem
 *   Apakah saya sudah menyertakan latar belakang atau konteks yang memadai sebelum mengajukan pertanyaan penting?
 *   Bagaimana dengan penggunaan emoji? Apakah sudah ditempatkan sewajarnya untuk membantu menyampaikan intonasi ramah tanpa terkesan berlebihan?
 
-## Kesimpulan
+## Manusia Nyata di Balik Layar
 
-Etika komunikasi digital lebih dari sekadar kepatuhan pada aturan formal. Pada intinya, ini adalah bentuk nyata dari penghormatan terhadap waktu, fokus, dan energi orang lain. Di era digital ini, kecakapan kamu untuk menyampaikan gagasan secara terstruktur dan penuh empati lewat media elektronik akan menjadi salah satu modal terbesar dalam perjalanan karier kamu.
+Etika komunikasi digital lebih dari sekadar kepatuhan pada aturan formal. Pada intinya, ini adalah bentuk nyata dari penghormatan terhadap waktu, fokus, dan energi orang lain. Kecakapan kamu untuk menyampaikan gagasan secara terstruktur dan penuh empati lewat media elektronik akan menjadi modal penting dalam perjalanan karier kamu.
 
 Selalu ingat bahwa di balik setiap baris kode pemrograman, kiriman email, atau baris percakapan singkat di layar, ada manusia nyata yang memiliki perasaan dan ingin dihargai.

@@ -1,6 +1,6 @@
 ## Hubungan Sosial yang Positif
 
-Pernahkah kamu memperhatikan bahwa kabar buruk terasa lebih ringan saat dibagi, dan kabar baik terasa berlipat ganda bahagianya saat dirayakan bersama orang lain? Dalam **Psikologi Positif**, fenomena ini bukan kebetulan belaka.
+Pernahkah kamu memperhatikan bahwa kabar buruk terasa lebih ringan saat dibagi, dan kabar baik terasa berlipat ganda saat dirayakan bersama orang lain? Dalam **Psikologi Positif**, fenomena ini bukan kebetulan belaka.
 
 Hubungan sosial adalah elemen "**R**" (*Relationships*) dalam model kesejahteraan **PERMA** milik Martin Seligman. Manusia adalah makhluk ultra-sosial; kita tidak hanya ingin terhubung, tetapi kita butuh terhubung untuk bertahan hidup secara psikologis dan fisik.
 
@@ -20,7 +20,7 @@ Penelitian menunjukkan bahwa kualitas hubungan sosial kita memiliki pengaruh yan
 
 ### 2. Active Constructive Responding (ACR)
 
-Salah satu kontribusi terbesar psikologi positif dalam hubungan adalah teori dari **Shelly Gable** tentang cara kita merespons kabar baik orang lain. Ternyata, bagaimana reaksi kita saat orang lain mendapatkan kabar baik atau meraih sukses lebih menentukan kualitas hubungan dibandingkan respons kita saat mereka menghadapi kesulitan.
+Salah satu kontribusi psikologi positif dalam hubungan adalah teori dari **Shelly Gable** tentang cara kita merespons kabar baik orang lain. Ternyata, bagaimana reaksi kita saat orang lain mendapatkan kabar baik atau meraih sukses lebih menentukan kualitas hubungan dibandingkan respons kita saat mereka menghadapi kesulitan.
 
 Ada empat cara kita merespons kabar baik, namun hanya satu yang memperkuat hubungan:
 
@@ -53,7 +53,7 @@ Hubungan positif bukan berarti selalu menyetujui segalanya. Hubungan yang suport
 - **Komunikasi Asertif:** Sampaikan apa yang kamu butuhkan dengan jujur tanpa harus memojokkan lawan bicara. Kamu bisa menggunakan rumus sederhana ini:
 	- *Formula:* `"Aku merasa [perasaan] ketika [kejadian], dan aku butuh [kebutuhan/solusi]."`
 
-### 5. Aplikasi Dunia Nyata dan Skenario
+### 5. Dua Situasi Sehari-hari
 
 #### Presentasi Sulit Rekan Kerja
 
@@ -69,7 +69,7 @@ Terjadi konflik karena perbedaan pendapat mengenai rencana liburan.
 - **Tindakan Positif:** Gunakan *Mindful Listening*. Biarkan mereka berbicara tanpa interupsi. Validasi perasaan mereka sebelum menyampaikan sudut pandangmu.
 - **Hasil:** Konflik tidak berujung pada pertengkaran, melainkan pada pemecahan masalah bersama.
 
-### Ringkasan untuk Pembelajar
+### Tiga Hal yang Perlu Dilatih
 
 Hubungan sosial yang positif adalah keterampilan yang bisa dipelajari, tidak terbatas pada tipe kepribadian ekstrover atau introver. Fokuslah pada:
 

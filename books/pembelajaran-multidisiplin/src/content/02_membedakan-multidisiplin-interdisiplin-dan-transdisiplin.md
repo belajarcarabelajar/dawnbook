@@ -1,8 +1,8 @@
 ## Membedakan Multidisiplin, Interdisiplin, dan Transdisiplin
 
-Belajar di era modern menuntut kita untuk membuka sudut pandang yang lebih luas dan terintegrasi demi memecahkan berbagai *complex problems*. Di sinilah istilah **multidisiplin** (*multidisciplinary*), **interdisiplin** (*interdisciplinary*), dan **transdisiplin** (*transdisciplinary*) kerap muncul untuk menggambarkan tingkat kolaborasi antardisiplin. Walau terdengar mirip, ketiganya menyimpan perbedaan mendasar pada pendekatan, tingkat integrasi, serta tujuan akhirnya. Memahami perbedaan ini sangat penting agar kamu bisa memilih strategi paling tepat, baik dalam dunia pendidikan, riset, maupun penyelesaian masalah sehari-hari.
+Belajar di era modern menuntut kita untuk membuka sudut pandang yang lebih luas dan terintegrasi demi memecahkan berbagai *complex problems*. Di sinilah istilah **multidisiplin** (*multidisciplinary*), **interdisiplin** (*interdisciplinary*), dan **transdisiplin** (*transdisciplinary*) kerap muncul untuk menggambarkan tingkat kolaborasi antardisiplin. Walau terdengar mirip, ketiganya menyimpan perbedaan mendasar pada pendekatan, tingkat integrasi, serta tujuan akhirnya. Memahami perbedaan ini penting agar kamu bisa memilih strategi paling tepat, baik dalam dunia pendidikan, riset, maupun penyelesaian masalah sehari-hari.
 
-> *Ketiga pendekatan ini tidak saling bertentangan. Sebaliknya, ketiganya saling melengkapi dan menandai evolusi dalam proses *knowledge production* untuk menjawab tantangan dunia yang kian rumit.*
+> *Ketiga pendekatan ini tidak saling bertentangan. Sebaliknya, ketiganya saling melengkapi dan menandai evolusi dalam proses *knowledge production* untuk menjawab tantangan yang kian rumit.*
 
 ### 1. Multidisciplinary (Multidisiplin)
 
@@ -29,10 +29,10 @@ Tingkat integrasinya berada di level sedang. Setiap bidang saling meminjam dan m
 Mari kita lihat contoh implementasinya:
 
 *   **Bioinformatics**
-    Bidang ini memadukan Biology dan Computer Science untuk memproses data genomik. Ahli biologi memakai algoritma komputer untuk menganalisis DNA, sementara ahli komputer merancang program baru yang disesuaikan dengan kebutuhan biologis. Hasilnya adalah sebuah area studi baru yang sangat terpadu.
+    Bidang ini memadukan Biology dan Computer Science untuk memproses data genomik. Ahli biologi memakai algoritma komputer untuk menganalisis DNA, sementara ahli komputer merancang program baru yang disesuaikan dengan kebutuhan biologis. Hasilnya adalah sebuah area studi baru yang terpadu.
     
 *   **Cognitive Neuroscience**
-    Disiplin ini menyatukan Neuroscience, Psychology, dan Computer Science untuk membedah misteri otak dan perilaku. Para peneliti di bidang ini tidak sekadar menaruh data psikologi dan neurologi bersebelahan. They merancang eksperimen dan model kognitif baru yang menggabungkan kedua perspektif tersebut untuk melihat bagaimana kesadaran atau ingatan terbentuk dari jaringan saraf.
+    Disiplin ini menyatukan Neuroscience, Psychology, dan Computer Science untuk mempelajari cara kerja otak dan perilaku. Para peneliti di bidang ini tidak sekadar menaruh data psikologi dan neurologi bersebelahan. Mereka merancang eksperimen dan model kognitif baru yang menggabungkan kedua perspektif tersebut untuk melihat bagaimana kesadaran atau ingatan terbentuk dari jaringan saraf.
     
 *   **Environmental Studies**
     Studi ini mensintesis Environmental Science, Social Sciences, dan Natural Sciences untuk mencari solusi atas krisis ekologi. Ahli biologi yang meneliti pencemaran air bekerja langsung dengan sosiolog untuk menyusun program edukasi dan kebijakan masyarakat. Mereka merancang intervensi sosial-ilmiah yang menjaga keseimbangan alam sekaligus kebutuhan manusia secara bersamaan.
@@ -46,7 +46,7 @@ Dalam proses ini, pengetahuan praktis di lapangan dipandang setara dengan teori 
 Bagaimana wujud nyatanya?
 
 *   **Sustainable Development Goals (SDGs) PBB**
-    Inisiatif global ini menjadi contoh nyata dari gerakan *transdisciplinary* skala masif. Aspek ekonomi, sosial, dan ekologi dirajut menjadi satu dengan melibatkan pemerintah, NGO, *private sector*, dan *civil society* untuk mendorong pembangunan yang adil dan berkelanjutan.
+    Inisiatif global ini menjadi contoh nyata dari gerakan *transdisciplinary* berskala global. Aspek ekonomi, sosial, dan ekologi dirajut menjadi satu dengan melibatkan pemerintah, NGO, *private sector*, dan *civil society* untuk mendorong pembangunan yang adil dan berkelanjutan.
     
 *   **Clean Water Crisis Management di Pedesaan**
     Untuk mengatasi kelangkaan air, sebuah tim tidak hanya mengandalkan kolaborasi akademis antara *hydrologists* (Natural Sciences), *sociologists* (Social Sciences), dan *engineers* (Applied Sciences). Mereka juga bekerja sama dengan pembuat kebijakan setempat, tokoh adat, dan warga desa. Mulai dari pemetaan masalah hingga perancangan infrastruktur, semua keputusan diambil bersama. Kolaborasi ini melahirkan sistem pengelolaan air yang ramah budaya, berkelanjutan secara ekonomi, dan melampaui batas ilmu murni.
@@ -59,13 +59,13 @@ Guna memudahkan kamu memetakan perbedaan ketiganya, cermati tabel perbandingan r
 | --- | --- | --- | --- |
 | **Pendekatan** | *Additive*; bekerja secara paralel. | *Interactive*; terjadi transfer dan percampuran. | *Holistic*; integrasi penuh dan transformatif. |
 | **Interaction Level** | Rendah; tidak ada interaksi mendalam antardisiplin. | Sedang; ada interaksi dan adaptasi konsep/metode. | Tinggi; peleburan disiplin untuk paradigma baru. |
-| **Disciplinary Boundaries** | Tetap dipertahaman dengan ketat. | Sedikit melampaui, namun masih bisa dikenali. | Melebur sepenuhnya dan melibatkan *non-academic actors*. |
+| **Disciplinary Boundaries** | Tetap dipertahankan dengan ketat. | Sedikit melampaui, namun masih bisa dikenali. | Melebur sepenuhnya dan melibatkan *non-academic actors*. |
 | **Primary Focus** | Memperkaya sudut pandang dengan berbagai perspektif. | Memadukan pengetahuan demi pemahaman yang lebih menyeluruh. | Memecahkan masalah nyata dan menghasilkan solusi praktis. |
 | **Outcomes** | Kumpulan perspektif yang bervariasi. | Sintesis baru, melahirkan metode atau teori baru. | Pengetahuan transformatif dan solusi terapan berkelanjutan. |
 | **Metaphor** | *Orchestra* (tiap instrumen memainkan bagiannya sendiri). | *Jazz Ensemble* (instrumen saling menyahut dan berimprovisasi). | *Fusion Cuisine* (bahan dan teknik rasa menyatu melahirkan hidangan baru). |
 
-### Kesimpulan
+### Memilih Pendekatan Sesuai Masalah
 
-Memahami perbedaan antara *multidisciplinary*, *interdisciplinary*, dan *transdisciplinary* sangat membantu kita melihat bagaimana kolaborasi dalam *education and research* terus berkembang. Di saat *multidisciplinary* memberi kita kekayaan sudut pandang tanpa integrasi yang erat, *interdisciplinary* mulai merajut konsep dan metode untuk menciptakan pemahaman yang lebih mendalam. Pada puncaknya, *transdisciplinary* mendobrak batas-batas akademik klasik dan merangkul berbagai pihak di luar kampus demi menghadirkan solusi nyata bagi permasalahan dunia yang kian rumit. 
+Memahami perbedaan antara *multidisciplinary*, *interdisciplinary*, dan *transdisciplinary* membantu kita melihat bagaimana kolaborasi dalam *education and research* terus berkembang. Di saat *multidisciplinary* memberi kita beragam sudut pandang tanpa integrasi yang erat, *interdisciplinary* mulai memadukan konsep dan metode untuk menciptakan pemahaman yang lebih mendalam. Pada tingkat tertinggi, *transdisciplinary* melampaui batas-batas akademik klasik dan merangkul berbagai pihak di luar kampus demi menghadirkan solusi nyata bagi permasalahan yang kian rumit. 
 
 Pada akhirnya, pilihan pendekatan yang paling cocok kembali pada jenis masalah yang ingin kamu selesaikan, serta seberapa dalam integrasi dan inovasi yang ingin kamu wujudkan.

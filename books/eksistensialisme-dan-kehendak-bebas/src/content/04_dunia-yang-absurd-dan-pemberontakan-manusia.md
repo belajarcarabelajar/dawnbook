@@ -2,7 +2,7 @@
 
 Konsep absurdisme Albert Camus menelaah ketegangan eksistensial saat hasrat manusia akan makna berbenturan dengan kesunyian alam semesta yang irasional. Jika Jean-Paul Sartre menekankan bahwa kebebasan merupakan kondisi ontologis niscaya, Camus mengajak penelaahan terhadap realitas yang lebih mendasar: disonansi antara kerinduan rasional manusia akan kejelasan dan realitas kosmik yang sepenuhnya membisu.
 
-### 1. Epistemologi Absurdisme
+### 1. Apa yang Dimaksud Absurd
 
 Dalam pemikiran Camus, istilah "absurd" bukanlah sekadar keanehan situasi sehari-hari, melainkan sebuah kategori epistemologis yang spesifik. Absurditas lahir secara eksklusif dari relasi benturan antara dua elemen:
 
@@ -29,7 +29,7 @@ Camus mengangkat figur mitologi Yunani, **Sisifus**, sebagai metafora kondisi ek
 
 Camus menegaskan bahwa momen paling krusial terletak pada saat Sisifus melangkah turun kembali ke dasar gunung. Pada jeda kesadaran tersebut, Sisifus menyadari sepenuhnya ketidakbermaknaan objektif tugasnya, dan kesadaran inilah yang mentransformasikan penderitaan menjadi kemenangan intelek yang otonom.
 
-### 3. Tipologi Respons terhadap Absurditas
+### 3. Kemungkinan Sikap terhadap Absurditas
 
 Dalam menghadapi realitas absurd, Camus memetakan tiga kemungkinan sikap yang dapat diambil oleh manusia:
 
@@ -71,4 +71,4 @@ Aktualisasi pemberontakan dalam praksis kehidupan ditopang oleh tiga pilar utama
 
 Pernyataan kanonik Albert Camus berbunyi: *"Seseorang harus membayangkan Sisifus bahagia."*
 
-Kebahagiaan Sisifus berakar pada kedaulatan batiniahnya. Batu dan gunung tersebut adalah dunianya, dan perjuangan mendorongnya ke atas adalah ekspresi otonom dari keberadaannya. Ketika manusia melepaskan tuntutan akan makna objektif dari luar, ia menemukan kebebasan sejati untuk mengukir makna mandiri dan merayakan eksistensi di tengah realitas yang absurd.
+Kebahagiaan Sisifus berakar pada kedaulatan batiniahnya. Batu dan gunung tersebut adalah dunianya, dan perjuangan mendorongnya ke atas adalah ekspresi otonom dari keberadaannya. Ketika manusia melepaskan tuntutan akan makna objektif dari luar, ia menemukan kebebasan untuk menciptakan maknanya sendiri di tengah realitas yang absurd.

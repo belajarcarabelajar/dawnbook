@@ -1,14 +1,14 @@
 ## Visi Masa Depan yang Tangguh
 
-Selamat datang di puncak perjalananmu dalam membangun resiliensi. Jika bagian-bagian sebelumnya telah membekalimu dengan "alat" dan "teknik" untuk menghadapi badai, bagian ini akan membantumu membangun **peta navigasi jangka panjang**.
+Ini adalah bab terakhir dalam perjalananmu membangun resiliensi. Jika bagian-bagian sebelumnya telah membekalimu dengan "alat" dan "teknik" untuk menghadapi badai, bagian ini akan membantumu membangun **peta navigasi jangka panjang**.
 
-Membangun visi masa depan yang tangguh bukan berarti menciptakan rencana yang kaku di mana segala sesuatunya harus berjalan sempurna. Sebaliknya, ini adalah tentang merancang hidup yang memiliki struktur kuat namun cukup fleksibel untuk menari bersama ketidakpastian.
+Membangun visi masa depan yang tangguh bukan berarti menciptakan rencana yang kaku di mana segala sesuatunya harus berjalan sempurna. Sebaliknya, ini adalah tentang merancang hidup yang memiliki struktur kuat namun cukup fleksibel untuk menyesuaikan diri dengan ketidakpastian.
 
 ## 1\. Dari Reaktif Menuju Proaktif
 
 Banyak orang menganggap resiliensi seperti "ban serep",hanya digunakan saat keadaan darurat. Namun, untuk benar-benar tangguh, kita harus mengubah paradigma tersebut.
 
-> **Insight:** Resiliensi sejati tidak hanya berarti kemampuan untuk "pulih" (bounce back), tetapi juga kemampuan untuk "melompat maju" (bounce forward) dan beradaptasi secara berkelanjutan.
+> **Insight:** Resiliensi tidak hanya berarti kemampuan untuk "pulih" (bounce back), tetapi juga kemampuan untuk "melompat maju" (bounce forward) dan beradaptasi secara berkelanjutan.
 
 Dalam matematika pertumbuhan, kita bisa menggambarkan hubungan antara tantangan ($\text{T}$) dan kapasitas resiliensi ($\text{C}$) terhadap hasil pertumbuhan ($\text{G}$) sebagai berikut:
 
@@ -22,7 +22,7 @@ Jika kapasitas ($\text{C}$) kamu selalu lebih besar dari tantangan ($\text{T}$) 
 
 ### Pohon Bambu vs. Pohon Ek
 
-Pohon ek sangat kuat dan keras, namun ia bisa tumbang dalam badai besar karena ia kaku. Bambu, di sisi lain, sangat fleksibel. Ia merunduk saat angin kencang menerjang, tetapi akarnya sangat dalam dan saling terhubung di bawah tanah. Membangun visi masa depan yang tangguh adalah proses menjadi "Bambu" yang memiliki sistem akar (fondasi) yang tak tergoyahkan.
+Pohon ek kuat dan keras, namun ia bisa tumbang dalam badai besar karena ia kaku. Bambu, di sisi lain, fleksibel. Ia merunduk saat angin kencang menerjang, tetapi akarnya dalam dan saling terhubung di bawah tanah. Membangun visi masa depan yang tangguh adalah proses menjadi "Bambu" yang memiliki sistem akar (fondasi) yang kokoh.
 
 ## 2\. Strategi Perencanaan Jangka Panjang di Tengah Ketidakpastian
 
@@ -65,9 +65,9 @@ Resiliensi membutuhkan bahan bakar. Visi masa depanmu harus mencakup "Maintenanc
 
 Terkadang, terus-menerus menjadi kuat itu melelahkan. Gaya hidup tangguh mengakui adanya fase istirahat.
 
-- **Penting:** Resiliensi bukan berarti produktivitas tanpa henti. Mengetahui kapan harus berhenti sejenak adalah bentuk ketangguhan tingkat tinggi.
+- **Penting:** Resiliensi bukan berarti produktivitas tanpa henti. Mengetahui kapan harus berhenti sejenak adalah bentuk ketangguhan.
 
-## 4\. Aplikasi Nyata dan Skenario
+## 4\. Penerapan Visi Resiliensi
 
 ### Transisi Karier yang Tidak Terduga
 
@@ -90,7 +90,7 @@ Bayangkan Budi, seorang manajer yang divisinya tiba-tiba ditutup karena otomatis
 
 ## 5\. Menanamkan Resiliensi dalam Lingkungan (Social Integration)
 
-Ketangguhan masa depanmu tidak hanya bergantung pada dirimu sendiri, tetapi juga pada ekosistem yang kamu bangun.
+Ketangguhan masa depanmu tidak hanya bergantung pada dirimu sendiri, tetapi juga pada lingkungan yang kamu bangun.
 
 1. **Menjadi Mentor:** Mengajarkan resiliensi kepada orang lain akan memperkuat pemahamanmu sendiri.
 2. **Membangun Budaya Tangguh:** Di tempat kerja atau keluarga, dorong keterbukaan tentang kegagalan dan fokus pada solusi daripada menyalahkan.
@@ -103,4 +103,4 @@ Sebagai penutup dari seluruh topik ini, tujuannya adalah menjadi **Antifragile**
 
 *Refleksi Akhir:* *Tutup mata sejenak dan bayangkan dirimu 5 tahun dari sekarang. Kamu telah melewati berbagai tantangan yang belum kamu ketahui saat ini. Lihatlah betapa tenangnya dirimu di masa depan itu, karena kamu tahu bahwa apa pun yang terjadi, kamu memiliki sistem, nilai, dan kekuatan batin untuk menghadapinya. Itulah visi masa depanmu yang tangguh.*
 
-**Selamat membangun masa depan yang tidak hanya bertahan, tetapi berkilau di tengah ketidakpastian.**
+**Selamat membangun masa depan yang tidak hanya bertahan, tetapi menjadi lebih kuat di tengah ketidakpastian.**

@@ -18,7 +18,7 @@ Lapis ketiga adalah eksperimen lima dolar di awal bab. Kelebihannya paling menen
 
 ### Bukan gaya hidup khas orang kaya
 
-Kritik paling wajar terhadap temuan semacam ini terdengar seperti ini: mungkin itu cerita orang yang uangnya kelebihan. Memberi itu mudah kalau kantongmu penuh, begitu dugaannya. Riset lanjutan oleh tim yang sama dan para kolaboratornya menguji dugaan ini, dan hasilnya menampiknya. Pola yang sama muncul di berbagai budaya, dan tetap terlihat di negara-negara berpendapatan rendah, di tempat orang masih berjuang memenuhi kebutuhan sendiri. Kecenderungan merasakan kehangatan setelah memberi ternyata bukan barang mewah. Ia datang bersama manusia, bukan bersama rekening koran.
+Kritik paling wajar terhadap temuan semacam ini terdengar seperti ini: mungkin itu cerita orang yang uangnya kelebihan. Memberi itu mudah kalau kantongmu penuh, begitu dugaannya. Riset lanjutan oleh tim yang sama dan para kolaboratornya menguji dugaan ini, dan hasilnya menampiknya. Pola yang sama muncul di berbagai budaya, dan tetap terlihat di negara-negara berpendapatan rendah, di tempat orang masih berjuang memenuhi kebutuhan sendiri. Kecenderungan merasakan kehangatan setelah memberi ternyata bukan barang mewah.
 
 Ini penting untuk kamu yang sedang menunggu "kaya dulu, baru berbagi". Temuannya bilang sebaliknya: efeknya bisa dirasakan lewat nominal kecil yang nyata hari ini, bukan menunggu nominal besar yang suatu saat terasa "akan cukup".
 
@@ -28,7 +28,7 @@ Cara pertama, uang untuk kebaikan orang lain, sudah kita bahas di atas. Cara ked
 
 Ashley Whillans bersama koleganya menguji ini dalam riset yang dimuat di *PNAS* pada 2017, "Buying time promotes happiness". Mereka mengumpulkan data dari Amerika Serikat, Kanada, Denmark, dan Belanda, mencakup ribuan responden dengan tingkat penghasilan yang bervariasi. Pertanyaannya sederhana: apa yang terjadi pada kepuasan hidup orang yang memakai uang untuk menyingkirkan tugas-tugas yang mereka benci, misalnya menyewa jasa untuk pekerjaan rumah tangga yang menyita akhir pekan?
 
-Jawabannya: orang yang membeli waktu melaporkan kepuasan hidup yang lebih tinggi, dan polanya konsisten di empat negara dengan gaya hidup yang sangat berbeda.
+Jawabannya: orang yang membeli waktu melaporkan kepuasan hidup yang lebih tinggi, dan polanya konsisten di empat negara dengan gaya hidup yang berbeda.
 
 Ironisnya, kelompok yang paling mampu, orang-orang berpenghasilan tinggi, justru paling berat hati. Mereka merasa lebih bersalah membayar orang lain untuk pekerjaan yang "seharusnya" dikerjakan sendiri. Padahal dari semua cara menukar uang menjadi kesejahteraan, membeli kembali waktu termasuk salah satu yang paling efektif. Rasa bersalah itu mahal harganya, karena menghalangi penukaran yang menguntungkan diri sendiri.
 

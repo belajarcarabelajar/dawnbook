@@ -2,7 +2,7 @@
 
 Mengetahui apa itu *Flow* secara teori adalah satu hal, namun mampu memasukinya secara sengaja adalah keahlian yang berbeda. Jika teori adalah peta, maka latihan praktis adalah otot yang kamu gunakan untuk mendaki gunung tersebut.
 
-Bagian ini dirancang untuk membekali kamu dengan "peralatan" mental dan fisik agar *State of Flow* bukan lagi sebuah kebetulan yang jarang terjadi, melainkan sebuah kondisi yang bisa kamu panggil kapan saja.
+Bagian ini dirancang untuk membekali kamu dengan "peralatan" mental dan fisik agar *State of Flow* bukan lagi sebuah kebetulan yang jarang terjadi, melainkan sebuah kondisi yang bisa kamu masuki dengan sengaja.
 
 ## 1\. Manajemen Lingkungan
 
@@ -18,7 +18,7 @@ Bayangkan meja kerja kamu sebagai sebuah kokpit pesawat tempur. Setiap elemen ha
 
 ### B. Lingkungan Digital
 
-Ini adalah medan tempur yang sesungguhnya di era modern.
+Di era modern, perebutan perhatian terutama terjadi di sini.
 
 - **Mode Pesawat Digital:** Gunakan aplikasi *blocker* (seperti Freedom atau Cold Turkey) untuk mematikan akses ke media sosial.
 - **Satu Tab, Satu Tugas:** Jangan biarkan 20 tab terbuka di browser. Jika kamu sedang menulis, tutup tab email dan berita.

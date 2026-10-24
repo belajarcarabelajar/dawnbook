@@ -6,11 +6,11 @@ Dalam kehidupan, "badai" ini adalah krisis, baik itu kegagalan proyek besar, keh
 
 ### 1. Memahami Amygdala Hijack
 
-Sebelum belajar mengelola emosi, kita harus memahami mengapa emosi bisa begitu kuat mengaburkan logika. Di dalam otak kita, terdapat bagian kecil bernama **Amigdala** yang berfungsi sebagai sistem alarm.
+Sebelum belajar mengelola emosi, kita harus memahami mengapa emosi bisa mengaburkan logika. Di dalam otak kita, terdapat bagian kecil bernama **Amigdala** yang berfungsi sebagai sistem alarm.
 
 Dalam situasi krisis, Amigdala sering kali mengambil alih kendali sebelum bagian otak rasional kita (**Prefrontal Cortex**) sempat berpikir. Inilah yang disebut dengan *Amygdala Hijack*.
 
-> **Analogi Dashboard Mobil:** Bayangkan emosi negatif seperti lampu indikator menyala merah di dashboard mobilmu. Jika kamu panik dan langsung membanting setir, kamu mungkin akan kecelakaan. Namun, jika kamu mengabaikannya, mesin bisa meledak. EQ mengajarkanmu untuk melihat lampu itu, memahami apa artinya (misalnya: mesin panas), dan mengambil tindakan perbaikan yang tepat tanpa kehilangan kendali atas kemudi.
+> **Analogi Dashboard Mobil:** Bayangkan emosi negatif seperti lampu indikator menyala merah di dashboard mobilmu. Jika kamu panik dan langsung membanting setir, kamu mungkin akan kecelakaan. Namun, jika kamu mengabaikannya, mesin bisa rusak. EQ mengajarkanmu untuk melihat lampu itu, memahami apa artinya (misalnya: mesin panas), dan mengambil tindakan perbaikan yang tepat tanpa kehilangan kendali atas kemudi.
 
 Secara matematis, kita bisa melihat hubungan antara intensitas emosi dan kapasitas berpikir rasional sebagai berikut:
 
@@ -37,7 +37,7 @@ Viktor Frankl, seorang psikolog dan penyintas Holocaust, pernah menulis:
 
 > "Antara stimulus dan respons, ada sebuah ruang. Di dalam ruang itulah terletak kebebasan dan kekuatan kita untuk memilih respons kita."
 
-Dalam krisis, ruang ini sering kali terasa sangat sempit. Teknik untuk memperlebar ruang ini adalah dengan **Metode S.T.O.P**:
+Dalam krisis, ruang ini sering kali terasa sempit. Teknik untuk memperlebar ruang ini adalah dengan **Metode S.T.O.P**:
 
 1. **S (Stop):** Berhenti sejenak dari apa pun yang sedang kamu lakukan atau katakan.
 2. **T (Take a breath):** Ambil napas dalam. Oksigen tambahan membantu menenangkan sistem saraf yang terpicu.
@@ -68,7 +68,7 @@ Kamu baru saja mempresentasikan ide besar di depan direksi, namun seorang atasan
 3. **Manage:** Sadari bahwa membalas dengan emosi akan merusak profesionalismemu. Katakan, "Terima kasih atas masukannya, Pak. Saya butuh waktu untuk menelaah poin-poin tersebut agar bisa memberikan revisi yang lebih baik."
 4. **Rational Decision:** Setelah pertemuan selesai dan emosi mereda, kamu menganalisis kritik tersebut. Kamu menemukan bahwa 20% kritiknya valid dan bisa memperbaiki proyekmu, sementara 80% sisanya mungkin hanya gaya komunikasinya yang kurang baik.
 
-### Membangun "Otot" Kecerdasan Emosional
+### Latihan Kecerdasan Emosional
 
 Ingatlah satu kejadian dalam seminggu terakhir di mana kamu merasa sangat tertekan atau kesal.
 
@@ -76,6 +76,6 @@ Ingatlah satu kejadian dalam seminggu terakhir di mana kamu merasa sangat tertek
 2. Bagaimana emosi tersebut memengaruhi caramu berbicara atau bertindak saat itu?
 3. Jika kamu bisa mengulang kejadian itu dengan teknik **S.T.O.P**, apa yang akan berubah?
 
-> **Insight Berharga:** Memiliki kecerdasan emosional tidak berarti kamu tidak pernah merasa marah, sedih, atau takut. EQ berarti kamu memiliki hubungan yang sehat dengan emosi tersebut, kamu merasakannya, tetapi tidak membiarkan emosi itu memegang kendali atas nilai-nilai dan tindakan jangka panjangmu.
+> **Insight:** Memiliki kecerdasan emosional tidak berarti kamu tidak pernah merasa marah, sedih, atau takut. EQ berarti kamu memiliki hubungan yang sehat dengan emosi tersebut, kamu merasakannya, tetapi tidak membiarkan emosi itu memegang kendali atas nilai-nilai dan tindakan jangka panjangmu.
 
-Dengan melatih kecerdasan emosional, kamu sedang membangun fondasi resiliensi yang kokoh. Kamu belajar bahwa meskipun tidak bisa mengendalikan arah angin (krisis), kamu selalu memiliki kendali penuh atas bagaimana kamu mengatur layar (emosi dan responsmu).
+Dengan melatih kecerdasan emosional, kamu sedang membangun fondasi resiliensi yang kokoh. Kamu belajar bahwa meskipun tidak bisa mengendalikan arah angin (krisis), kamu selalu memiliki kendali atas bagaimana kamu mengatur layar (emosi dan responsmu).

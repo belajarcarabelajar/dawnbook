@@ -1,6 +1,6 @@
 ## Pertumbuhan Tetesan melalui Difusi Uap
 
-Setelah tetesan air berhasil melewati fase kritis pembentukannya (nukleasi) pada Inti Kondensasi Awan (*Cloud Condensation Nuclei* atau CCN), tetesan tersebut tidak langsung berubah menjadi tetes hujan berukuran besar. Tetesan memasuki fase pertumbuhan awal yang dikenal sebagai **Pertumbuhan melalui Difusi Uap**.
+Tetesan air terbentuk melalui fase kritis yang disebut nukleasi pada Inti Kondensasi Awan (*Cloud Condensation Nuclei* atau CCN). Setelah fase itu terlewati, tetesan tersebut tidak langsung berubah menjadi tetes hujan berukuran besar. Tetesan memasuki fase pertumbuhan awal yang dikenal sebagai **Pertumbuhan melalui Difusi Uap**.
 
 Fase ini menyerupai "masa pertumbuhan" bagi tetesan awan. Apabila proses nukleasi diibaratkan sebagai kelahiran, difusi uap merupakan tahapan ketika tetesan "menyerap" uap air dari udara sekitarnya untuk membesar secara bertahap.
 
@@ -97,7 +97,7 @@ Hujan pada kenyataannya dapat terbentuk dalam waktu 20 hingga 30 menit setelah a
 #### Analisis Prediksi Cuaca
 Prakirawan cuaca menggunakan pemodelan mikrofisika untuk mengestimasi potensi curah hujan. Apabila simulasi menunjukkan populasi tetesan yang sangat seragam akibat dominasi difusi uap tanpa gangguan turbulensi, awan tersebut cenderung bertahan sebagai awan mendung non-presipitasi (seperti *stratus*).
 
-#### Modifikasi Cuaca (*Cloud Seeding*)
+#### Penyemaian Partikel Higroskopis
 Dalam operasi penyemaian awan, partikel higroskopis (seperti NaCl) disebarkan untuk menciptakan tetesan berukuran lebih besar secara cepat melalui efek larutan. Langkah ini mempercepat difusi uap awal dan mempersingkat waktu pencapaian fase tabrakan-penyatuan.
 
 #### Jari-jari yang Tumbuh Makin Lambat
@@ -119,4 +119,4 @@ Yang bertambah sebanding dengan waktu adalah $r^2$, bukan $r$. Setelah tetesan j
 - **Pendekatan Kinestetik:** Bayangkan ketika memegang spons kering di ruangan lembap. Spons menyerap uap air secara cepat pada awalnya, namun secara bertahap jenuh dan memerlukan benturan dengan spons lain untuk mengumpulkan lebih banyak air.
 - **Pendekatan Auditori:** Fahami konsep kesetimbangan tekanan uap sebagai perjalanan molekul air menuju kondisi stabil melalui peristiwa kondensasi pada permukaan tetesan.
 
-> **Pesan Utama:** Pertumbuhan melalui difusi uap merupakan proses yang menciptakan keharmonisan ukuran; proses ini membantu tetesan terkecil untuk tumbuh paling pesat sehingga membentuk populasi tetesan awan yang seragam. Namun, difusi uap saja tidak cukup cepat untuk menghasilkan tetes hujan tanpa bantuan mekanisme tabrakan dan penyatuan.
+> **Pesan Utama:** Pertumbuhan melalui difusi uap merupakan proses yang menyeragamkan ukuran tetesan; proses ini membantu tetesan terkecil untuk tumbuh paling pesat sehingga membentuk populasi tetesan awan yang seragam. Namun, difusi uap saja tidak cukup cepat untuk menghasilkan tetes hujan tanpa bantuan mekanisme tabrakan dan penyatuan.

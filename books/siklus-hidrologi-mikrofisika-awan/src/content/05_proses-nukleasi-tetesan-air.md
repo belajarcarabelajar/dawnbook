@@ -2,7 +2,7 @@
 
 Bayangkan ketika berada di dalam kamar mandi yang penuh uap setelah mandi air hangat. Cermin mulai berkabut, dan perlahan tetesan air mulai mengalir turun. Apa yang sebenarnya terjadi pada skala mikroskopis? Mengapa uap air yang tadinya tidak terlihat tiba-tiba bisa berkumpul menjadi tetesan cair?
 
-Fenomena ini dipicu oleh **nukleasi**, tahap awal yang sangat utama dalam pembentukan awan dan hujan di atmosfer. Tanpa proses ini, langit akan selalu bersih tanpa awan meskipun kelembapan relatif mencapai 100%, dan siklus hidrologi tidak dapat berlangsung secara optimal.
+Fenomena ini dipicu oleh **nukleasi**, tahap awal yang utama dalam pembentukan awan dan hujan di atmosfer. Tanpa proses ini, langit akan selalu bersih tanpa awan meskipun kelembapan relatif mencapai 100%, dan siklus hidrologi tidak dapat berlangsung secara optimal.
 
 ### 1. Apa Itu Nukleasi?
 
@@ -102,7 +102,7 @@ Dalam analisis nukleasi, terdapat parameter penentu yang disebut **Radius Kritis
 
 Pada nukleasi heterogen, keberadaan partikel $\text{CCN}$ memungkinkan embrio air langsung memulai pertumbuhan pada ukuran di atas $r_c$, atau secara efektif menurunkan nilai $r_c$ sehingga mudah dicapai pada tingkat kejenuhan rendah.
 
-### 6. Modifikasi Cuaca (*Cloud Seeding*)
+### 6. Hujan Buatan (*Cloud Seeding*)
 
 Prinsip nukleasi heterogen dimanfaatkan secara langsung dalam teknologi pembenihan awan atau **Hujan Buatan**.
 
@@ -120,6 +120,6 @@ Prinsip nukleasi heterogen dimanfaatkan secara langsung dalam teknologi pembenih
 | **Lokasi Kejadian** | Kondisi laboratorium / atmosfer atas | Awan di seluruh wilayah Bumi |
 | **Peran Tegangan Permukaan** | Penghambat utama yang dominan | Diminimalisir oleh ukuran partikel inti |
 
-### Kesimpulan
+### Tahap Awal Terbentuknya Tetesan Awan
 
-Nukleasi merupakan gerbang awal perubahan fase air dari gas menjadi cair di atmosfer. Tegangan permukaan bertindak sebagai penghambat alami pada tetesan mikro, namun keberadaan partikel aerosol ($\text{CCN}$) melalui nukleasi heterogen menurunkan hambatan energi tersebut. Hal ini memungkinkan uap air mengembun secara efektif dan membentuk tetesan awan yang menjadi bagian utama dari siklus hidrologi bumi.
+Nukleasi merupakan tahap awal perubahan fase air dari gas menjadi cair di atmosfer. Tegangan permukaan bertindak sebagai penghambat alami pada tetesan mikro, namun keberadaan partikel aerosol ($\text{CCN}$) melalui nukleasi heterogen menurunkan hambatan energi tersebut. Hal ini memungkinkan uap air mengembun secara efektif dan membentuk tetesan awan yang menjadi bagian utama dari siklus hidrologi bumi.

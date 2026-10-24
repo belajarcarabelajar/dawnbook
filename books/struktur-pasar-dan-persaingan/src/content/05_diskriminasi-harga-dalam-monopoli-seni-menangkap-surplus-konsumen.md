@@ -8,7 +8,7 @@ Dalam bagian ini, kita akan membahas bagaimana perusahaan dengan kekuatan pasar 
 
 **Diskriminasi harga** adalah praktik menjual barang atau jasa yang sama kepada konsumen yang berbeda dengan harga yang berbeda, di mana perbedaan harga tersebut bukan disebabkan oleh perbedaan biaya produksi.
 
-> **Analogi Sederhana Penjahit Ajaib**  
+> **Analogi Penjahit**  
 > Bayangkan seorang penjahit yang mampu mengetahui tingkat kemauan membayar setiap pelanggannya. Ketika seorang miliarder masuk, penjahit tahu orang tersebut bersedia membayar Rp10.000.000 untuk sebuah jas. Saat seorang mahasiswa masuk, penjahit tahu ia hanya mampu membayar Rp1.000.000. Si penjahit membuat dua jas yang identik namun menagih masing-masing pembeli sesuai batas kemampuan maksimal mereka. Itulah inti dari diskriminasi harga.
 
 ### Mengapa Monopolis Melakukannya?

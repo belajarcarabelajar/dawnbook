@@ -1,6 +1,6 @@
 ## Dekonstruksi Dokumen Kebijakan Kriminal dan Produk Hukum
 
-Pernahkah pemelajar membaca sebuah undang-undang dan merasa bahwa bahasanya sangat kaku, teknis, dan seolah-olah "turun dari langit" sebagai kebenaran mutlak? Dalam studi kriminologi konvensional, hukum sering dianggap sebagai instrumen netral untuk mencapai ketertiban. Namun, melalui lensa **Analisis Wacana Kritis (AWK)**, kita akan membedah bahwa dokumen kebijakan dan produk hukum bukanlah teks hampa prasangka.
+Pernahkah kamu membaca undang-undang dan merasa bahasanya kaku, teknis, dan seolah-olah "turun dari langit" sebagai kebenaran mutlak? Dalam studi kriminologi konvensional, hukum sering dianggap sebagai instrumen netral untuk mencapai ketertiban. Namun, melalui lensa **Analisis Wacana Kritis (AWK)**, kita akan membedah bahwa dokumen kebijakan dan produk hukum bukanlah teks hampa prasangka.
 
 Dekonstruksi dalam konteks ini adalah proses membongkar lapisan-lapisan bahasa untuk melihat bagaimana kekuasaan bekerja, siapa yang diuntungkan, dan siapa yang dipinggirkan oleh sebuah regulasi.
 
@@ -56,7 +56,7 @@ Setiap kebijakan kriminal membawa **ideologi** tertentu. AWK membedah agenda ter
 
 1. **Pendefinisian "Subjek Hukum":** Siapa yang dianggap sebagai "warga negara yang taat" dan siapa yang dikonstruksikan sebagai "ancaman"?
 2. **Dikotomi "Kita" vs "Mereka":** Dokumen kebijakan sering menciptakan batas imajiner. Misalnya, dalam kebijakan imigrasi, penggunaan kata "ilegal" (*human being as illegal*) mendegradasi martabat manusia menjadi sekadar status administratif yang patut dihukum.
-3. **Prioritas Kriminalisasi:** Mengapa undang-undang sangat detail mengatur pencurian kecil (*street crime*) namun sangat longgar atau menggunakan bahasa yang ambigu dalam mengatur kejahatan korporasi atau perusakan lingkungan?
+3. **Prioritas Kriminalisasi:** Mengapa undang-undang detail mengatur pencurian kecil (*street crime*) namun longgar atau menggunakan bahasa yang ambigu dalam mengatur kejahatan korporasi atau perusakan lingkungan?
 
 ---
 
@@ -100,8 +100,8 @@ Dalam banyak draf regulasi siber di berbagai negara, sering ditemukan frasa:
 
 ---
 
-### Ringkasan Penting
+### Poin Kunci Dekonstruksi Dokumen Hukum
 
-> **Keberhasilan dekonstruksi dokumen hukum terletak pada kemampuan kita untuk membuktikan bahwa teks hukum bukanlah refleksi objektif dari keadilan, melainkan medan tempur ideologi di mana bahasa digunakan sebagai senjata untuk mempertahankan status quo atau melegitimasi kontrol sosial.**
+> **Keberhasilan dekonstruksi dokumen hukum terletak pada kemampuan kita untuk membuktikan bahwa teks hukum bukanlah refleksi objektif dari keadilan, melainkan tempat ideologi saling bersaing, dan bahasa digunakan untuk mempertahankan status quo atau melegitimasi kontrol sosial.**
 
 *Refleksi: Saat membaca berita tentang pengesahan undang-undang baru besok, tanyakan pada diri sendiri: "Siapa yang menulis naskah ini, dan untuk kepentingan siapa bahasa ini disusun?"*

@@ -1,6 +1,6 @@
 ## Kecerdasan Kinestetik-Jasmani
 
-Pernahkah kamu memperhatikan seorang penari yang bergerak lincah seolah tak bertulang, atau ahli bedah dengan tangan yang bekerja sangat presisi tanpa gemetar sedikit pun? Itulah wujud nyata dari **Kecerdasan Kinestetik-Jasmani**.
+Pernahkah kamu memperhatikan penari yang bergerak lentur dan lincah, atau ahli bedah yang tangannya bekerja presisi tanpa gemetar? Itulah wujud nyata dari **Kecerdasan Kinestetik-Jasmani**.
 
 Bagi Howard Gardner, kecerdasan mencakup hal-hal di luar proses berpikir dalam otak saat menyelesaikan soal logika. Kecerdasan ini juga berhubungan langsung dengan cara otak berkoordinasi bersama seluruh anggota tubuh untuk memecahkan masalah atau merancang sebuah karya.
 
@@ -10,9 +10,9 @@ Kecerdasan Kinestetik-Jasmani adalah kemampuan menggunakan tubuh secara keseluru
 
 > **Inti dari kecerdasan ini terletak pada sinkronisasi pikiran dan tubuh.** Orang yang memilikinya sebetulnya sedang 'berpikir melalui tubuh', alih-alih cuma menggerakkan anggota badannya.
 
-Keterampilan fisik ini terbagi menjadi dua spektrum utama. Pertama, keterampilan motorik kasar (*gross motor skills*) yang mengandalkan otot-otot besar untuk aktivitas beban seperti berlari dan melompat. Di sisi lain, ada keterampilan motorik halus (*fine motor skills*) yang sangat presisi, berpusat pada otot-otot kecil di tangan dan jari. Keterampilan halus inilah yang diandalkan saat menjahit, mengukir kayu, atau melakukan prosedur medis.
+Keterampilan fisik ini terbagi menjadi dua spektrum utama. Pertama, keterampilan motorik kasar (*gross motor skills*) yang mengandalkan otot-otot besar untuk aktivitas beban seperti berlari dan melompat. Di sisi lain, ada keterampilan motorik halus (*fine motor skills*) yang presisi, berpusat pada otot-otot kecil di tangan dan jari. Keterampilan halus inilah yang diandalkan saat menjahit, mengukir kayu, atau melakukan prosedur medis.
 
-## Tubuh sebagai Instrumen yang Disetel Sempurna
+## Koordinasi Otak dan Otot
 
 Coba bayangkan tubuh manusia sebagai sebuah orkestra. Otak berperan sebagai dirigen, sementara otot-otot adalah instrumennya.
 
@@ -44,7 +44,7 @@ Atlet tersebut tentu tidak perlu mencoret-coret rumus di atas kertas saat bertan
 
 Penguasaan kecerdasan kinestetik sering kali menjadi penentu utama di berbagai profesi teknis, dan tidak melulu identik dengan olahraga. 
 
-Bagi dokter bedah saraf, kontrol *fine motor skills* sangat mutlak. Geseran instrumen bedah yang meleset satu milimeter saja bisa berakibat fatal, sehingga mereka sangat bergantung pada kepekaan taktil untuk menakar resistensi jaringan organ. Begitu juga dengan pengrajin arloji mekanik yang mengamankan komponen seukuran butiran pasir ke dalam mesin jam; koordinasi presisi tangan mereka adalah pusat dari keahlian teknis tersebut.
+Bagi dokter bedah saraf, kontrol *fine motor skills* mutlak diperlukan. Geseran instrumen bedah yang meleset satu milimeter saja bisa berakibat fatal, sehingga mereka sangat bergantung pada kepekaan taktil untuk menakar resistensi jaringan organ. Begitu juga dengan pengrajin arloji mekanik yang mengamankan komponen seukuran butiran pasir ke dalam mesin jam; koordinasi presisi tangan mereka adalah pusat dari keahlian teknis tersebut.
 
 Di ranah seni pertunjukan, aktor fisik dan pemain pantomim mengeksploitasi kontrol otot untuk mendefinisikan objek yang wujudnya sama sekali tidak ada di panggung. Sementara di sektor industri, teknisi mesin senior kerap mampu melacak sumber kerusakan komponen hanya dari merasakan pola getaran atau menyentuh poros mesin yang berputar tidak seimbang.
 
@@ -87,6 +87,6 @@ Dengan angka ilustrasi yang sama, anggap lengan mulai dari posisi 0 dan sasarann
 
 Dalam contoh ini, gerakan berhenti ketika sisa jarak tidak lebih dari 0,01. Dengan aturan ini, batas itu baru terlewati pada langkah ke-66, saat sisa jaraknya tinggal sekitar 0,0096 dan lengan berada di posisi sekitar 9,99. Langkah awal besar, langkah akhir sangat kecil.
 
-Perlambatan bertahap ini bekerja persis seperti sistem saraf saat kamu mengulurkan tangan mengambil sebuah gelas. Menjelang jari bersentuhan dengan permukaan kaca, kecepatan tangan otomatis turun drastis demi menghindari benturan kasar. Efek perlambatan atau *damping* ini memastikan objek dikendalikan dengan akurasi maksimal.
+Perlambatan bertahap ini bekerja persis seperti sistem saraf saat kamu mengulurkan tangan mengambil sebuah gelas. Menjelang jari bersentuhan dengan permukaan kaca, kecepatan tangan otomatis turun drastis demi menghindari benturan kasar. Efek perlambatan atau *damping* ini memastikan objek dikendalikan dengan akurat.
 
-Kecerdasan fisik pada akhirnya membuktikan bahwa fungsi tubuh merupakan medium eksekusi yang integral dengan proses analisis ruang. Keterampilan motorik inilah yang menjembatani parameter teoretis agar bisa dirakit menjadi instrumen nyata.
+Kecerdasan fisik pada akhirnya membuktikan bahwa tubuh bekerja menyatu dengan proses analisis ruang. Keterampilan motorik inilah yang mengubah rancangan teoretis menjadi benda nyata.

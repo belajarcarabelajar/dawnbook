@@ -1,6 +1,6 @@
 ## Proyeksi Kortikal dan Persepsi Kesadaran Ruang
 
-Pernahkah seseorang terbangun di tengah malam dalam ruangan yang gelap gulita, namun masih mengetahui persis di mana arah "atas" dan bagaimana posisi tubuh terhadap tempat tidur? Atau bayangkan ketika seseorang berada di dalam lift yang bergerak sangat halus; meskipun mata tidak melihat perubahan pemandangan di luar, tubuh tetap dapat "merasakan" pergerakan naik atau turun.
+Pernahkah seseorang terbangun tengah malam di ruangan gelap gulita, namun masih tahu persis arah "atas" dan posisi tubuh terhadap tempat tidur? Atau bayangkan ketika seseorang berada di dalam lift yang bergerak sangat halus; meskipun mata tidak melihat perubahan pemandangan di luar, tubuh tetap dapat "merasakan" pergerakan naik atau turun.
 
 Kesadaran spasial ini bukanlah kebetulan, melainkan hasil kerja integratif **proyeksi kortikal** sistem vestibular. Jika bagian sistem vestibular sebelumnya (seperti refleks vestibulo-okular dan kontrol postur) bekerja secara otomatis di bawah sadar, proyeksi kortikal merupakan gerbang utama yang memungkinkan manusia secara sadar memahami pergerakan diri (*self-motion*) dan orientasi dalam ruang tiga dimensi.
 
@@ -79,11 +79,11 @@ Dalam kondisi visibilitas nol (seperti penerbangan instrumen di dalam kabut atau
 
 Sensasi mual dan disorientasi saat menggunakan perangkat *virtual reality* (VR) berakar dari konflik sensorik kortikal. Input visual melalui proyeksi area MST mengindikasikan tubuh sedang berlari kencang melintasi arena simulasi, sementara organ vestibular mengonfirmasi bahwa posisi kepala dan tubuh relatif statis di atas kursi. Ketidaksesuaian sinyal yang diproses pada area PIVC dan korteks vestibular memicu respons protektif otonom berupa keringat dingin, pusing, dan mual.
 
-### 6. Latihan Refleksi
+### 6. Membayangkan Ruang dengan Mata Tertutup
 
 Ketika seseorang menutup mata lalu memutar kepala secara perlahan ke kiri dan ke kanan, posisi dan tata ruang sekitar tetap dapat dibayangkan secara presisi di dalam benak. Fenomena ini mendemonstrasikan fungsi nyata PIVC, sel-sel arah kepala (*head direction cells*), dan hipokampus yang secara aktif memperbarui koordinat spasial tubuh secara waktu nyata (*real-time*).
 
-### 7. Ringkasan Struktur Jalur
+### 7. Tingkatan Jalur dari Reseptor ke Korteks
 
 1. **Input Reseptor:** Kanalis semisirkularis dan organ otolit di telinga dalam.
 2. **Relai Batang Otak:** Kompleks nukleus vestibularis.
@@ -109,4 +109,4 @@ flowchart TD
     K -.->|"proyeksi meluas"| G["Hipokampus dan korteks entorhinal"]
 ```
 
-> **Pesan Utama:** Persepsi kesadaran ruang merupakan hasil orkestrasi antara transduksi fisik di telinga dalam dan interpretasi tingkat tinggi di korteks serebri. Manusia tidak hanya bereaksi terhadap tarikan gravitasi dan gerakan secara mekanis, melainkan memahami keberadaan dan orientasi diri dalam ruang semesta melalui proyeksi kortikal ini.
+> **Pesan Utama:** Persepsi kesadaran ruang merupakan hasil kerja sama antara transduksi fisik di telinga dalam dan interpretasi tingkat tinggi di korteks serebri. Manusia tidak hanya bereaksi terhadap tarikan gravitasi dan gerakan secara mekanis, melainkan memahami keberadaan dan orientasi diri dalam ruang melalui proyeksi kortikal ini.

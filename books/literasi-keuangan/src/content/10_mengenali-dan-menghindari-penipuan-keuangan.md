@@ -1,12 +1,12 @@
 ## Mengenali dan Menghindari Penipuan Keuangan
 
-Ancaman penipuan keuangan di era digital makin nyata dan bisa menyerang siapa saja. Modus penipuan terus berkembang menjadi lebih canggih. Bagian ini akan membekali kamu dengan cara mengidentifikasi tanda-tanda penipuan, melindungi informasi pribadi, dan langkah tepat jika telanjur menjadi korban.
+Penipuan keuangan di era digital bisa menimpa siapa saja. Modus penipuan terus berkembang menjadi lebih canggih. Bagian ini akan membekali kamu dengan cara mengidentifikasi tanda-tanda penipuan, melindungi informasi pribadi, dan langkah tepat jika telanjur menjadi korban.
 
 ## Mengapa Perlu Waspada terhadap Penipuan Keuangan?
 
 Literasi keuangan yang baik bukan cuma soal mengatur uang. Kamu juga harus bisa melindungi aset dan data pribadi.
 
-Penipuan bisa menguras isi rekening, memicu stres, dan merusak nama baik. Kalau kamu sudah paham cara kerja penipu, kamu bisa membangun benteng pertahanan yang kuat.
+Penipuan bisa menguras isi rekening, memicu stres, dan merusak nama baik. Kalau kamu sudah paham cara kerja penipu, kamu bisa lebih mudah melindungi diri.
 
 ## Modus Penipuan Keuangan Paling Sering Terjadi
 
@@ -57,12 +57,12 @@ Selalu pasang mode waspada. Berikut beberapa pertanda umum penipuan:
 
 ## Langkah Aman Melindungi Data Keuangan
 
-Kamu memegang kendali penuh atas data pribadimu. Lakukan kebiasaan ini untuk menutup celah keamanan:
+Kamu memegang kendali atas data pribadimu. Lakukan kebiasaan ini untuk menutup celah keamanan:
 
 1. **Aktifkan 2FA (Otentikasi Dua Faktor):** Ini fitur wajib buat semua aplikasi keuangan dan email. Kalaupun kata sandi kamu bocor, penipu tetap butuh kode lapis kedua buat masuk.
 2. **Buat Password yang Unik:** Jangan pakai kata sandi yang sama untuk semua akun. Gunakan kombinasi huruf besar, kecil, angka, dan simbol.
 3. **Rutin Cek Mutasi Rekening:** Pantau terus transaksi di bank dan dompet digital kamu. Langsung lapor kalau ada pemotongan saldo yang mencurigakan.
-4. **Hindari Wi-Fi Publik Saat Transaksi:** Jangan buka aplikasi bank atau bertransaksi finansial saat terhubung ke Wi-Fi kafe atau bandara. Pakai jaringan seluler sendiri jauh lebih aman.
+4. **Hindari Wi-Fi Publik Saat Transaksi:** Jangan buka aplikasi bank atau bertransaksi finansial saat terhubung ke Wi-Fi kafe atau bandara. Pakai jaringan seluler sendiri lebih aman.
 5. **Jangan Pamer Data di Medsos:** Hindari mengunggah foto KTP, tiket pesawat, *boarding pass*, atau mencantumkan nomor kontak pribadi di profil publik.
 
 ## Lakukan Ini Jika Kamu Telanjur Jadi Korban
@@ -70,7 +70,7 @@ Kamu memegang kendali penuh atas data pribadimu. Lakukan kebiasaan ini untuk men
 Kalau kamu sadar sudah tertipu, jangan panik. Semakin cepat kamu bertindak, semakin besar peluang memblokir penyalahgunaan.
 
 - **Hubungi Bank Secepatnya:** Minta bank untuk memblokir kartu debit, kartu kredit, atau rekening kamu. Jangan tunda langkah ini.
-- **Kumpulkan Bukti Valid:** *Screenshot* semua percakapan, riwayat telepon, bukti transfer, dan simpan profil pelaku. Bukti ini sangat berguna saat membuat laporan.
+- **Kumpulkan Bukti Valid:** *Screenshot* semua percakapan, riwayat telepon, bukti transfer, dan simpan profil pelaku. Bukti ini berguna saat membuat laporan.
 - **Ubah Semua Password:** Ganti kata sandi email dan aplikasi keuangan kamu. Aktifkan otentikasi dua faktor sekarang juga.
 
 **Ke Mana Harus Melapor?**
@@ -78,10 +78,10 @@ Kalau kamu sadar sudah tertipu, jangan panik. Semakin cepat kamu bertindak, sema
 - **CekRekening.id:** Situs dari Kominfo untuk mengecek sekaligus melaporkan nomor rekening pelaku agar diblokir.
 - **Patroli Siber:** Buat laporan kejadian lewat situs patrolisiber.id atau datang langsung ke polsek terdekat.
 
-## Ribuan Kasus Setiap Tahun
+## Laporan Penipuan di Indonesia
 
 Kasus penipuan adalah ancaman nyata di sekitar kita. Antara akhir tahun lalu hingga menjelang 2026, Indonesia Anti-Scam Center menerima lebih dari 180 ribu laporan dengan total kerugian mencapai triliunan rupiah. Modus belanja fiktif dan telepon palsu masih mendominasi.
 
-Bahkan orang yang bekerja di sektor keuangan sekalipun pernah tertipu ratusan juta karena pelaku memakai skema yang sangat meyakinkan. Ini membuktikan bahwa tidak ada yang kebal dari ancaman penipuan.
+Bahkan orang yang bekerja di sektor keuangan sekalipun pernah tertipu ratusan juta karena pelaku memakai skema yang meyakinkan. Ini membuktikan bahwa tidak ada yang kebal dari ancaman penipuan.
 
 Dengan mengenali pola kerja penipu, membiasakan diri melindungi data, dan tahu persis ke mana harus melapor, kamu bisa memperkecil peluang menjadi target korban berikutnya.

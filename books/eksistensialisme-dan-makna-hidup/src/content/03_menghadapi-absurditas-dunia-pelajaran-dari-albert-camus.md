@@ -2,13 +2,13 @@
 
 Pernahkah kamu berdiri di bawah langit malam yang luas, menatap ribuan bintang, dan tiba-tiba merasa sangat kecil? Pernahkah kamu bertanya, "Apa gunanya semua rutinitas ini?" saat sedang terjebak dalam kemacetan atau antrean panjang, hanya untuk menyadari bahwa alam semesta tidak memberikan jawaban apa pun?
 
-Selamat datang di dunia **Albert Camus**.
+Pertanyaan semacam ini digeluti oleh **Albert Camus**.
 
 Dalam bagian ini, kita akan menjelajahi salah satu konsep paling provokatif dalam filsafat eksistensial: **Absurditas**. Kita akan belajar mengapa dunia yang tidak peduli justru bisa menjadi kunci menuju kebebasan sejati.
 
 ## 1\. Apa Itu Absurditas?
 
-Banyak orang mengira "absurd" berarti "aneh" atau "lucu". Namun, bagi Camus, absurditas memiliki definisi yang sangat spesifik dan teknis.
+Banyak orang mengira "absurd" berarti "aneh" atau "lucu". Namun, bagi Camus, absurditas memiliki definisi yang spesifik dan teknis.
 
 **Absurditas adalah hasil dari sebuah tabrakan (collision).**
 
@@ -28,7 +28,7 @@ $$
 
 > **Definisi Utama:** Absurditas bukanlah sifat dari dunia itu sendiri, dan bukan pula sifat dari manusia. Absurditas adalah **hubungan** atau "perceraian" antara pikiran manusia yang merindukan kejelasan dengan dunia yang membisu dan tidak logis.
 
-### Si Pencari Gema
+### Teriakan di Lembah
 
 Bayangkan kamu berada di sebuah lembah raksasa. Kamu berteriak sekuat tenaga, "Apa arti hidupku?!" Kamu mengharapkan gema yang bijaksana atau jawaban dari Tuhan. Namun, yang kamu terima hanyalah keheningan total. Lembah itu tidak membenci kamu; ia hanya tidak peduli. Perasaan hampa yang muncul saat teriakanmu tidak terjawab itulah yang disebut Camus sebagai **Momen Absurd**.
 
@@ -89,13 +89,13 @@ Bayangkan kamu sedang berada di sebuah kafe. Kamu menyadari bahwa dalam 100 tahu
 
 ## 5\. Bayangkan Sisyphus Bahagia
 
-Camus menutup esainya dengan kalimat yang sangat terkenal:
+Camus menutup esainya dengan kalimat yang terkenal:
 
 > "Perjuangan itu sendiri menuju puncak sudah cukup untuk mengisi hati manusia. Kita harus membayangkan Sisyphus bahagia."
 
 Sisyphus bahagia bukan karena ia suka mendorong batu, tetapi karena ia sadar bahwa batu itu adalah miliknya, nasibnya adalah keputusannya, dan ia lebih kuat daripada batu tersebut selama ia tidak menyerah pada keputusasaan.
 
-### Ringkasan Visual
+### Empat Konsep Absurditas Camus
 
 | Konsep | Penjelasan Sederhana |
 | --- | --- |

@@ -1,6 +1,6 @@
 ## Konsep Dasar dan Wacana Pedagogi di Sekolah Dasar
 
-Ruang kelas sekolah dasar merupakan arena interaksi bahasa yang sangat dinamis. Setiap tutur kata yang diucapkan oleh guru maupun siswa tidak hanya menyampaikan informasi akademis, tetapi juga membentuk struktur komunikasi tertentu. Dalam konteks ini, wacana pedagogi hadir sebagai bentuk wacana khusus yang dirancang untuk mengarahkan, mengelola, dan memfasilitasi proses belajar-mengajar.
+Ruang kelas sekolah dasar merupakan tempat guru dan siswa berinteraksi lewat bahasa. Setiap tutur kata yang diucapkan oleh guru maupun siswa tidak hanya menyampaikan informasi akademis, tetapi juga membentuk struktur komunikasi tertentu. Dalam konteks ini, wacana pedagogi hadir sebagai bentuk wacana khusus yang dirancang untuk mengarahkan, mengelola, dan memfasilitasi proses belajar-mengajar.
 
 Memahami bagaimana wacana pedagogi bekerja di tingkat sekolah dasar membantu kamu melihat dinamika pembelajaran secara lebih mendalam. Komunikasi di kelas bukan sekadar proses tukar-menukar kata, melainkan sebuah sistem terstruktur yang menentukan siapa yang memegang kendali atas alur pembicaraan.
 
@@ -79,9 +79,9 @@ Untuk membangun suasana kelas yang lebih interaktif dan inklusif, kamu dapat mem
 
 ---
 
-### Rangkuman & Pertanyaan Refleksi
+### Menimbang Kendali Guru atas Topik
 
-#### Rangkuman Konsep
+#### Konsep Pokok Wacana Pedagogi
 1. Wacana pedagogi adalah sistem komunikasi terstruktur di kelas yang dirancang untuk mencapai tujuan pembelajaran di sekolah dasar.
 2. Sistem pengendalian topik mengatur siapa yang memulai, mengarahkan, mengalihkan, dan mengesahkan gagasan dalam interaksi kelas.
 3. Struktur wacana kelas terbagi secara hirarkis dari unit terbesar hingga terkecil: *Pelajaran* -> *Transaksi* -> *Pertukaran* -> *Gerakan* -> *Tindak*.

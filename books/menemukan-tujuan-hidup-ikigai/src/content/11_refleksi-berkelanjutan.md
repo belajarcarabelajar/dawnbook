@@ -4,7 +4,7 @@ Ikigai sering kali disalahpahami sebagai garis akhir yang statis, seolah setelah
 
 ### Mengapa Ikigai Adalah Perjalanan?
 
-Kehidupan terus bergerak, begitu pula diri kita. Minat, keahlian, tuntutan zaman, serta peluang ekonomi bisa bergeser seiring waktu. Oleh karena itu, Ikigai yang kita miliki juga harus beradaptasi. Memandang pencarian tujuan hidup sebagai sebuah proses seumur hidup akan membuat perjalanan ini terasa jauh lebih menantang dan memperkaya batin.
+Kehidupan terus bergerak, begitu pula diri kita. Minat, keahlian, tuntutan zaman, serta peluang ekonomi bisa bergeser seiring waktu. Oleh karena itu, Ikigai yang kita miliki juga harus beradaptasi. Memandang pencarian tujuan hidup sebagai sebuah proses seumur hidup akan membuat perjalanan ini terasa lebih menantang dan memperkaya batin.
 
 > "Ikigai adalah kompas yang memandu kamu melalui lanskap kehidupan yang terus berubah, bukan sesuatu yang hanya ditemukan sekali."
 
@@ -22,13 +22,13 @@ Evaluasi secara teratur apakah kamu masih melakukan aktivitas yang dicintai. Per
 Berbicaralah dengan orang-orang terdekat atau mentor yang bisa dipercaya. Mintalah masukan mengenai bagaimana mereka melihat pertumbuhan atau perubahan dalam diri kamu. Perspektif dari luar sering kali memperkaya pemahaman yang sulit dilihat dari sudut pandang sendiri.
 
 **Praktik Mindfulness**
-Terapkan mindfulness untuk menjaga pikiran dan perasaan agar tetap terhubung dengan momen saat ini. Meditasi dapat memberikan ruang kejernihan untuk melihat arah kehidupan dengan lebih jelas.
+Terapkan mindfulness untuk menjaga pikiran dan perasaan agar tetap terhubung dengan momen saat ini. Meditasi dapat membantumu melihat arah kehidupan dengan lebih jelas.
 
 ### Adaptasi terhadap Perubahan
 
 Kehidupan selalu membawa kejutan, baik berupa perubahan karier, dinamika keluarga, krisis global, maupun penemuan potensi diri yang baru. Ikigai yang kuat bersumber dari keluwesan untuk beradaptasi, bukan pada kekakuan.
 
-Jangan ragu untuk bersikap terbuka terhadap pengalaman baru, karena hal tersebut bisa menjadi pintu masuk menuju minat yang belum pernah dieksplorasi atau mengungkap bakat yang tersembunyi. Ketika menghadapi hambatan atau kegagalan, posisikan hal tersebut sebagai proses pembelajaran untuk menyesuaikan arah kemudi. Pada titik-titik perubahan besar, mengevaluasi kembali prioritas akan sangat membantu menyesuaikan Ikigai dengan arah kehidupan yang baru. Biarkan definisinya tetap fleksibel; terkadang perpaduan keempat pilar Ikigai tidak harus terwujud dalam satu pekerjaan utama saja, melainkan gabungan dari berbagai aktivitas.
+Jangan ragu untuk bersikap terbuka terhadap pengalaman baru, karena hal tersebut bisa menjadi pintu masuk menuju minat yang belum pernah dieksplorasi atau mengungkap bakat yang tersembunyi. Ketika menghadapi hambatan atau kegagalan, posisikan hal tersebut sebagai proses pembelajaran untuk menyesuaikan arah kemudi. Pada titik-titik perubahan besar, mengevaluasi kembali prioritas akan membantu menyesuaikan Ikigai dengan arah kehidupan yang baru. Biarkan definisinya tetap fleksibel; terkadang perpaduan keempat pilar Ikigai tidak harus terwujud dalam satu pekerjaan utama saja, melainkan gabungan dari berbagai aktivitas.
 
 ### Pertumbuhan Pribadi untuk Memperbarui Ikigai
 
@@ -40,7 +40,7 @@ Pembelajaran seumur hidup, baik melalui buku, kursus, maupun diskusi dengan berb
 
 Semakin dalam kamu memahami kekuatan, kelemahan, nilai-nilai, serta keinginan terdalam, semakin utuh pula gambaran Ikigai yang kamu miliki. Perubahan yang terjadi dalam diri merupakan tanda bahwa Ikigai mungkin memerlukan penyelarasan ulang.
 
-### Evolusi Ikigai Seorang Desainer Grafis
+### Perubahan Ikigai Seorang Desainer Grafis
 
 Mari kita lihat contoh perjalanan Ayu, seorang desainer grafis.
 
@@ -48,8 +48,8 @@ Pada awal kariernya, Ikigai Ayu berpusat pada penciptaan visual yang estetis unt
 
 Setelah beberapa tahun, Ayu mulai merasa hampa. Kesuksesan finansial dan karier tidak lagi membuatnya merasa terhubung dengan dampak nyata dari pekerjaannya. Ia kemudian menyadari adanya kerinduan untuk mengerjakan sesuatu yang lebih bermakna.
 
-Ayu mengambil inisiatif untuk mengikuti lokakarya desain UX/UI dan menjadi sukarelawan di organisasi nirlaba yang berfokus pada pendidikan anak. Di sana, ia menemukan kepuasan luar biasa saat merancang solusi yang benar-benar memecahkan masalah nyata dan memberikan dampak sosial.
+Ayu mengambil inisiatif untuk mengikuti lokakarya desain UX/UI dan menjadi sukarelawan di organisasi nirlaba yang berfokus pada pendidikan anak. Di sana, ia menemukan kepuasan saat merancang solusi yang benar-benar memecahkan masalah nyata dan memberikan dampak sosial.
 
 Ikigainya juga berevolusi. Kini, fokus utamanya adalah merancang pengalaman pengguna yang intuitif dan bermakna untuk platform pendidikan digital bagi anak-anak kurang beruntung. Sebagai desainer produk di sebuah startup edutech, Ayu berhasil menyelaraskan kecintaannya pada desain, keahlian UX/UI yang dimiliki, kepedulian terhadap pendidikan anak, dengan penghasilan yang memadai.
 
-Kisah Ayu menegaskan bahwa Ikigai selalu berkembang melalui siklus refleksi, adaptasi, dan komitmen terhadap pertumbuhan diri. Proses penyempurnaan ini menuntut kita untuk selalu bereksperimen, mendengarkan intuisi, serta menjaga fleksibilitas agar tujuan hidup selalu selaras dengan jati diri yang paling autentik.
+Kisah Ayu menegaskan bahwa Ikigai selalu berkembang melalui siklus refleksi, adaptasi, dan komitmen terhadap pertumbuhan diri. Proses penyempurnaan ini menuntut kita untuk selalu bereksperimen, mendengarkan intuisi, serta menjaga fleksibilitas agar tujuan hidup selalu selaras dengan jati diri.

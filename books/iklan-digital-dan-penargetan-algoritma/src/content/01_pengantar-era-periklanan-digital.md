@@ -1,6 +1,6 @@
 ## Pengantar Era Periklanan Digital
 
-Selamat datang di titik awal perjalanan kita memahami salah satu kekuatan paling berpengaruh di dunia modern: **Iklan Digital**. Pernahkah kamu merasa bahwa sebuah produk yang baru saja kamu bicarakan tiba-tiba muncul di layar ponsel kamu? Itu bukan sihir, melainkan hasil dari evolusi panjang industri periklanan yang kini telah bertransformasi total dari papan reklame fisik menjadi barisan kode yang sangat cerdas.
+Perjalanan memahami **Iklan Digital** bisa dimulai dari satu pengalaman kecil yang mungkin pernah kamu alami sendiri di layar ponsel. Pernahkah kamu merasa bahwa sebuah produk yang baru saja kamu bicarakan tiba-tiba muncul di layar ponsel kamu? Itu hasil dari evolusi panjang industri periklanan, yang telah berpindah dari papan reklame fisik ke barisan kode.
 
 ## Apa Itu Iklan Digital?
 
@@ -10,11 +10,11 @@ Berbeda dengan iklan tradisional, iklan digital tidak hanya sekadar "memberi tah
 
 > "Iklan digital bukan lagi tentang mencari audiens, melainkan tentang ditemukan oleh audiens yang tepat di saat yang paling tepat."
 
-### Siaran Radio vs. Asisten Pribadi
+### Megafon vs. Asisten Pribadi
 
 Bayangkan iklan tradisional seperti seseorang yang berteriak menggunakan **megafon** di tengah pasar yang ramai. Dia berteriak kepada semua orang, berharap ada satu atau dua orang yang tertarik dengan dagangannya. Sebaliknya, iklan digital ibarat seorang **asisten pribadi** yang berbisik di telinga kamu, "Saya tahu kamu sedang mencari sepatu lari yang nyaman untuk maraton bulan depan, ini ada diskon 20% untuk merek favorit kamu."
 
-## Sejarah Singkat dari Cetak ke Piksel
+## Sejarah Singkat Iklan dari Cetak ke Digital
 
 Transisi dari media tradisional ke digital tidak terjadi dalam semalam. Mari kita lihat lini masa transformasinya:
 
@@ -30,11 +30,11 @@ Pada 27 Oktober 1994, sejarah berubah. Situs web *HotWired* menampilkan **banner
 
 - **Hasilnya:** Angka klik (Click-Through Rate/CTR) mencapai 44%, angka yang hampir mustahil dicapai di era sekarang.
 
-### 3\. Revolusi Mesin Pencari (Awal 2000-an)
+### 3\. Iklan di Mesin Pencari (Awal 2000-an)
 
 Google meluncurkan **AdWords** (sekarang Google Ads) pada tahun 2000. Ini memperkenalkan konsep **Contextual Advertising** (Iklan Kontekstual), di mana iklan muncul berdasarkan apa yang sedang dicari oleh pengguna. Jika kamu mencari "hotel di Bali", kamu akan melihat iklan hotel di Bali.
 
-### 4\. Era Media Sosial dan Ekosistem Dinamis (Sekarang)
+### 4\. Era Media Sosial (Sekarang)
 
 Dengan munculnya Facebook, Instagram, dan TikTok, iklan tidak lagi hanya berdasarkan *apa yang kamu cari*, tetapi juga *siapa kamu*, *apa minat kamu*, dan *bagaimana perilaku kamu*. Kita telah masuk ke ekosistem yang sangat dinamis di mana konten iklan dibuat secara otomatis untuk menyesuaikan dengan selera individu.
 
@@ -92,9 +92,9 @@ Mari kita lihat bagaimana transisi ini membantu sebuah bisnis kecil bernama *Ked
 
 Memahami era periklanan digital bukan hanya penting bagi praktisi pemasaran, tetapi juga bagi kita sebagai pengguna internet.
 
-- **Bagi Bisnis:** Ini adalah alat untuk efisiensi dan pertumbuhan eksponensial.
+- **Bagi Bisnis:** Ini adalah alat untuk efisiensi dan pertumbuhan.
 - **Bagi Konsumen:** Ini adalah alasan mengapa layanan seperti Google, YouTube, dan Facebook bisa kita gunakan secara gratis (kita "membayar" dengan perhatian kita terhadap iklan).
 
-> **Poin Utama:** Periklanan digital telah mengubah pemasaran dari seni menebak menjadi sains yang berbasis data. Transisi dari media tradisional ke digital membawa efisiensi, personalisasi, dan transparansi yang belum pernah ada sebelumnya dalam sejarah manusia.
+> **Poin Utama:** Periklanan digital telah mengubah pemasaran dari seni menebak menjadi sains yang berbasis data. Transisi dari media tradisional ke digital membawa efisiensi, personalisasi, dan transparansi.
 
-Dalam bagian selanjutnya, kita akan membahas bagaimana pergeseran dari "siaran massal" ini berevolusi menjadi "personalisasi ekstrem" yang kita alami hari ini.
+Dalam bagian selanjutnya, kita akan membahas bagaimana pergeseran dari "siaran massal" ini berevolusi menjadi "personalisasi" yang kita alami hari ini.

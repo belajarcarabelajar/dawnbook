@@ -1,6 +1,6 @@
 ## Kecerdasan Musikal
 
-Pernahkah kamu berjalan di tengah kota yang bising, namun alih-alih merasa terganggu, kamu justru mendengar sebuah simfoni? Suara klakson mobil yang bersahutan membentuk ritme tertentu, desis angin di antara gedung menciptakan harmoni, dan langkah kaki pejalan kaki menjadi ketukan drum yang konstan. Jika kamu sering mengalami hal ini, kamu mungkin memiliki kecerdasan musikal yang tinggi.
+Pernahkah kamu berjalan di tengah kota yang bising, namun alih-alih merasa terganggu, kamu justru mendengar musik? Suara klakson mobil yang bersahutan membentuk ritme tertentu, desis angin di antara gedung menciptakan harmoni, dan langkah kaki pejalan kaki menjadi ketukan drum yang konstan. Jika kamu sering mengalami hal ini, kamu mungkin memiliki kecerdasan musikal yang tinggi.
 
 Dalam teori Kecerdasan Majemuk Howard Gardner, kecerdasan musikal tidak terbatas pada penguasaan alat musik atau olah vokal. Kapasitas ini mencakup kemampuan berpikir dalam bentuk suara, ritme, dan melodi, serta kemampuan mengekspresikan emosi maupun ide melalui bentuk-bentuk musikal.
 
@@ -80,4 +80,4 @@ Di sini $A$ adalah amplitudo gelombang, $f$ adalah frekuensi nada, dan $t$ adala
 
 Bayangkan apabila alur eksekusi atau rentetan log eror sebuah aplikasi bisa divisualisasikan menjadi bentuk notasi suara. Pola bunyi yang janggal secara otomatis menjadi semacam alarm intuitif, membantu programmer mendeteksi letak bug lebih tanggap.
 
-Kecerdasan musikal mempertemukan unsur matematis frekuensi dengan persepsi indrawi. Mengembangkan aspek ini memandu telinga kamu untuk terbiasa menyimak ritme di balik berbagai sistem, mengubah kebisingan informasi menjadi orkestrasi yang memiliki pola.
+Kecerdasan musikal mempertemukan unsur matematis frekuensi dengan persepsi indrawi. Mengembangkan aspek ini memandu telinga kamu untuk terbiasa menyimak ritme di balik berbagai sistem, sehingga kebisingan informasi bisa dibaca sebagai pola.

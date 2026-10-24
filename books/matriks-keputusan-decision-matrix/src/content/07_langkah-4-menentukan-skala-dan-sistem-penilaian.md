@@ -1,6 +1,6 @@
 ## Penentuan Skala dan Sistem Penilaian
 
-Setelah menentukan kriteria penilaian dan bobotnya, tantangan berikutnya dalam menyusun **matriks keputusan (decision matrix)** adalah menentukan skala dan **sistem penilaian (scoring system)** secara adil. Tanpa standarisasi yang tepat, perbandingan antar-alternatif akan menjadi bias dan tidak konsisten.
+Kriteria penilaian dan bobotnya sudah kamu tentukan, jadi tantangan berikutnya adalah menentukan skala dan **sistem penilaian (scoring system)** secara adil. Langkah ini termasuk dalam penyusunan **matriks keputusan (decision matrix)**. Tanpa standarisasi yang tepat, perbandingan antar-alternatif akan menjadi bias dan tidak konsisten.
 
 Bayangkan kamu sedang menjadi juri dalam sebuah kompetisi memasak. Jika kamu menilai hidangan kontestan A pada aspek rasa menggunakan skala 1–10, sedangkan hidangan kontestan B pada aspek presentasi dinilai menggunakan skala 1–100, hasil akhirnya akan kacau. Kamu tidak akan bisa membandingkan kedua hidangan tersebut secara objektif.
 
@@ -30,7 +30,7 @@ Skala ini sangat efisien untuk keputusan sehari-hari atau analisis yang tidak te
 
 #### B. Skala 1–10 (High Granularity)
 
-Pilihlah skala ini jika kamu menghadapi banyak alternatif dengan performa yang mirip. Rentang yang lebih lebar memberikan ruang gerak ekstra untuk membedakan skor antar-pilihan secara lebih presisi.
+Pilihlah skala ini jika kamu menghadapi banyak alternatif dengan performa yang mirip. Rentang yang lebih lebar memberikan ruang untuk membedakan skor antar-pilihan secara lebih rinci.
 
 - *Contoh:* Menilai efisiensi bahan bakar dari beberapa mesin industri yang perbedaannya hanya terpaut sekian persen.
 
@@ -109,4 +109,4 @@ Agar hasil matriks keputusan tetap objektif, hindari beberapa kesalahan umum ber
 - **Batasan Angka Nol:** Tentukan sejak awal apakah angka 0 boleh digunakan. Biasanya, skala penilaian dimulai dari angka 1 agar alternatif tersebut tetap memberikan nilai kontribusi sekecil apa pun dalam perhitungan akhir.
 
 > [!TIP]
-> Skala penilaian yang dirancang dengan baik berfungsi sebagai jembatan yang mengubah intuisi abstrak menjadi data kuantitatif yang terukur. Tanpa jembatan ini, keputusan yang diambil hanyalah spekulasi yang disamarkan dalam bentuk tabel angka.
+> Skala penilaian yang dirancang dengan baik mengubah intuisi abstrak menjadi data kuantitatif yang terukur. Tanpa skala seperti itu, keputusan yang diambil hanyalah spekulasi dalam bentuk tabel angka.

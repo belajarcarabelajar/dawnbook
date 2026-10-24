@@ -2,11 +2,11 @@
 
 Pernahkah kamu merasa seolah-olah ponsel kamu sedang "mendengarkan" pembicaraan kamu? Kamu baru saja membahas keinginan untuk mendaki gunung dengan teman, dan tiba-tiba, beranda media sosial kamu dipenuhi iklan sepatu *hiking* dan tenda.
 
-Ini bukanlah sihir, melainkan hasil dari **Penargetan Perilaku (Behavioral Targeting)** yang bekerja selaras dengan **Psikologi Konsumen**. Algoritma tidak hanya memproses data; mereka memetakan bagaimana otak manusia bekerja untuk menciptakan dorongan belanja yang hampir tidak bisa ditolak.
+Ini adalah hasil dari **Penargetan Perilaku (Behavioral Targeting)** yang bekerja selaras dengan **Psikologi Konsumen**. Algoritma tidak hanya memproses data; mereka memetakan bagaimana otak manusia bekerja untuk menciptakan dorongan belanja.
 
-## 1. Jembatan Antara Data dan Keinginan
+## 1. Dari Data ke Keinginan Konsumen
 
-Algoritma digital berfungsi seperti seorang pelayan restoran yang sangat intuitif. Sebelum kamu memesan, ia sudah tahu bahwa kamu menyukai makanan pedas karena ia telah memperhatikan pilihan kamu selama berbulan-bulan.
+Algoritma digital berfungsi seperti seorang pelayan restoran yang intuitif. Sebelum kamu memesan, ia sudah tahu bahwa kamu menyukai makanan pedas karena ia telah memperhatikan pilihan kamu selama berbulan-bulan.
 
 Dalam dunia digital, setiap klik, durasi tontonan, dan pencarian adalah sinyal psikologis. Penargetan perilaku memanfaatkan sinyal ini untuk menyajikan iklan pada saat **Reseptivitas Maksimal**, yaitu titik di mana pertahanan kognitif kamu paling rendah dan keinginan kamu paling tinggi.
 
@@ -35,7 +35,7 @@ Pernah melihat tulisan *"Hanya tersisa 2 stok!"* atau *"Diskon berakhir dalam 10
 Kita cenderung mencari informasi yang mendukung keyakinan kita sendiri.
 
 - **Cara Kerja**: Algoritma menyajikan iklan yang selaras dengan nilai atau identitas diri kamu (misalnya, iklan produk ramah lingkungan untuk orang yang sering mencari isu perubahan iklim).
-- **Dampak Psikologis**: Iklan tersebut terasa seperti validasi pribadi, sehingga meningkatkan tingkat konversi secara drastis.
+- **Dampak Psikologis**: Iklan tersebut terasa seperti validasi pribadi, sehingga meningkatkan tingkat konversi.
 
 ## 3. Pemicu Emosional
 
@@ -70,7 +70,7 @@ Di mana:
 
 Semakin banyak data psikologis (minat, emosi, waktu aktif) yang dimasukkan ke dalam variabel $B$, semakin akurat prediksi iklan tersebut.
 
-## 5. Retargeting yang Cerdas
+## 5. Retargeting di Setiap Tahap Pembelian
 
 **Skenario Perjalanan Membeli Sepatu Lari**
 
@@ -87,7 +87,7 @@ Ada garis tipis antara membantu konsumen menemukan apa yang mereka butuhkan dan 
 - **Dark Patterns:** Taktik antarmuka pengguna yang memaksa tindakan secara tidak sadar (misalnya, tombol "Batal" yang dibuat hampir tidak terlihat).
 - **Filter Bubbles:** Algoritma yang hanya menunjukkan apa yang kita sukai dapat memperkuat bias dan menutup perspektif baru.
 
-## Ringkasan untuk Pembelajar Kinestetik
+## Eksperimen Kecil yang Bisa Kamu Coba
 
 Untuk benar-benar memahami ini, cobalah eksperimen kecil:
 

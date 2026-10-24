@@ -10,7 +10,7 @@ Fungsi pengawasan tidak bertujuan mencari-cari kesalahan karyawan. Peran utamany
 
 Secara formal, **Controlling** adalah proses pemantauan aktivitas untuk memastikan bahwa aktivitas tersebut diselesaikan sesuai rencana dan memperbaiki penyimpangan yang berarti. Jika fungsi *Planning* menetapkan tujuan, maka *Controlling* adalah fungsi yang menjaga agar tujuan tersebut tetap dalam jangkauan.
 
-> **Insight Utama:** Tanpa pengawasan, perencanaan yang paling hebat sekalipun bisa berakhir sia-sia karena tidak ada mekanisme untuk mendeteksi kegagalan sebelum terlambat.
+> **Insight Utama:** Tanpa pengawasan, perencanaan yang matang bisa berakhir sia-sia karena tidak ada mekanisme untuk mendeteksi kegagalan sebelum terlambat.
 
 ## 2\. Tiga Langkah Utama Pengawasan
 

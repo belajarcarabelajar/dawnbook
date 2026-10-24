@@ -4,11 +4,11 @@ Metakognisi adalah tentang "belajar bagaimana belajar" – sebuah kesadaran seka
 
 ## 1\. Perencanaan (Planning)
 
-Fase perencanaan adalah langkah awal dalam siklus metakognitif, di mana pembelajar secara sadar mempersiapkan diri untuk tugas belajar. Ini melibatkan pengaturan panggung untuk pembelajaran yang efektif dengan menentukan tujuan dan memilih strategi yang sesuai.
+Fase perencanaan adalah langkah awal dalam siklus metakognitif, di mana pembelajar secara sadar mempersiapkan diri untuk tugas belajar. Ini melibatkan persiapan kondisi untuk pembelajaran yang efektif dengan menentukan tujuan dan memilih strategi yang sesuai.
 
 ### Apa itu Perencanaan Metakognitif?
 
-Perencanaan metakognitif merupakan langkah awal untuk menetapkan tujuan, mencari strategi yang pas, serta mengaktifkan ingatan lama sebelum sesi belajar dimulai. Proses proaktif ini sangat membantu kamu saat mengarahkan fokus belajar.
+Perencanaan metakognitif merupakan langkah awal untuk menetapkan tujuan, mencari strategi yang pas, serta mengaktifkan ingatan lama sebelum sesi belajar dimulai. Proses proaktif ini membantu kamu saat mengarahkan fokus belajar.
 
 ### Elemen Kunci Perencanaan
 
@@ -16,7 +16,7 @@ Perencanaan metakognitif merupakan langkah awal untuk menetapkan tujuan, mencari
 	- *Contoh:* Alih-alih "Saya mau belajar Biologi," tujuannya bisa diubah menjadi "Saya akan mampu menjelaskan proses fotosintesis dan respirasi seluler secara tepat dalam 30 menit ke depan."
 - **Memilih Strategi Pembelajaran:** Memilih pendekatan atau metode belajar yang paling tepat untuk mencapai tujuan yang telah ditetapkan, berdasarkan sifat materi dan gaya belajar pribadi.
 	- *Contoh:* Untuk menghafal istilah, kamu mungkin akan memakai *flashcards*. Sedangkan untuk membongkar konsep kompleks, kamu bisa merencanakan sesi membaca ulang sambil menyusun peta konsep.
-- **Mengaktifkan Pengetahuan Awal:** Menghubungkan informasi baru dengan apa yang sudah kamu ketahui sebelumnya. Tujuannya membangun jembatan kognitif sehingga pemahaman menjadi lebih solid.
+- **Mengaktifkan Pengetahuan Awal:** Menghubungkan informasi baru dengan apa yang sudah kamu ketahui sebelumnya. Tujuannya mengaitkan yang baru dengan yang lama sehingga pemahaman menjadi lebih solid.
 	- *Contoh:* Sebelum menggali materi tentang revolusi industri, kamu mungkin perlu mengingat-ingat lagi kondisi sosial di era sebelumnya.
 - **Mengalokasikan Sumber Daya:** Memperkirakan waktu, tenaga, dan alat yang dibutuhkan. Faktor ini mencakup manajemen waktu serta pemilihan lingkungan belajar yang nyaman.
 	- *Contoh:* Menentukan bahwa kamu butuh 2 jam belajar penuh tanpa gangguan menggunakan buku teks dan beberapa sumber *online*.
@@ -61,11 +61,11 @@ Evaluasi metakognitif adalah proses reflektif di mana pembelajar menilai efektiv
 - **Merumuskan Pembelajaran untuk Masa Depan:** Memanfaatkan hasil evaluasi guna mendongkrak kualitas belajar ke depannya. Perubahan apa yang akan kamu terapkan pada sesi berikutnya?
 	- *Contoh:* "Lain kali, saya akan meluangkan lebih banyak waktu untuk latihan soal setelah memahami teori."
 
-> Evaluasi yang jujur menjadi fondasi kuat untuk terus meningkatkan kapasitas belajar. Tanpa hal itu, kamu rentan jatuh ke lubang kesalahan yang sama.
+> Evaluasi yang jujur menjadi dasar untuk terus meningkatkan kapasitas belajar. Tanpa hal itu, kamu rentan mengulang kesalahan yang sama.
 
 ## Siklus Metakognitif yang Berulang
 
-Ketiga proses ini sebenarnya tidak berjalan searah (linear), melainkan membentuk satu siklus yang dinamis, interaktif, dan adaptif.
+Ketiga proses ini sebenarnya tidak berjalan searah (linear), melainkan membentuk satu siklus.
 
 1. **Perencanaan** mendahului tugas belajar, menetapkan tujuan dan strategi awal.
 2. Saat tugas belajar berlangsung, **Pemantauan** terus-menerus terjadi, memeriksa pemahaman dan kemajuan.
@@ -104,7 +104,7 @@ Sekarang kita bisa melihat cara kerja siklus metakognitif lewat skenario praktis
 		- **Penyesuaian:** Akhirnya kamu memutuskan untuk menambah satu hari ekstra khusus demi mendalami *loop* serta fungsi. Kamu memutar ulang berbagai video tutorial dan menyusun catatan ringkas versi sendiri. Menulis baris komentar di setiap blok kode juga mulai menjadi kebiasaan baru.
 3. **Evaluasi:**
 	- Pada minggu kedua, kamu mencoba membuat skrip pengubah nama *file* massal. Programnya berjalan sukses, meski menghabiskan waktu lebih panjang dari ekspektasi dan harus bolak-balik mencari referensi *online* untuk mengelola eror.
-		- **Efektivitas Strategi:** "Kursus *Coursera* memberikan dasar yang baik, tetapi soal latihannya tidak cukup menantang. Buku itu terlalu padat. Mencari tutorial video terbukti sangat membantu."
+		- **Efektivitas Strategi:** "Kursus *Coursera* memberikan dasar yang baik, tetapi soal latihannya tidak cukup menantang. Buku itu terlalu padat. Mencari tutorial video terbukti membantu."
 		- **Hasil Belajar:** "Saya bisa menulis skrip dasar, jadi tujuan tercapai sebagian. Namun, saya masih perlu meningkatkan pemahaman tentang penanganan kesalahan dan struktur data yang lebih kompleks."
 		- **Analisis Kesalahan:** "Kesulitan saya datang dari kurangnya latihan langsung dengan masalah yang lebih kompleks dan kurangnya waktu untuk benar-benar menginternalisasi konsep dasar sebelum beralih ke topik berikutnya."
 		- **Pembelajaran untuk Masa Depan:** "Lain kali, saya akan memprioritaskan latihan soal yang lebih bervariasi dan meluangkan lebih banyak waktu untuk membangun proyek-proyek kecil untuk setiap konsep baru yang saya pelajari. Saya juga akan mencari mentor atau bergabung dengan forum belajar."

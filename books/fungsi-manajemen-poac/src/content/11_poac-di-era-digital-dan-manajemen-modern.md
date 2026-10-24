@@ -1,6 +1,6 @@
 ## POAC di Era Digital dan Manajemen Modern
 
-Selamat datang di garis depan manajemen modern! Jika pada bagian-bagian sebelumnya kamu telah membedah Planning, Organizing, Actuating, dan Controlling secara fundamental, sekarang saatnya melihat bagaimana kerangka kerja klasik ini bertransformasi di tengah perkembangan teknologi dan dinamika pasar yang sangat cepat.
+Apa yang terjadi pada kerangka kerja manajemen klasik ketika organisasi harus mengikuti teknologi dan pasar yang terus bergerak cepat? Jika pada bagian-bagian sebelumnya kamu telah membedah Planning, Organizing, Actuating, dan Controlling secara fundamental, sekarang saatnya melihat bagaimana kerangka kerja klasik ini berubah di tengah perkembangan teknologi dan dinamika pasar yang cepat.
 
 Dahulu, rencana bisnis dibuat untuk jangka panjang (sekitar 5 hingga 10 tahun) dan jarang berubah. Di era digital, rencana tersebut bisa menjadi tidak relevan hanya dalam hitungan bulan. Mari pelajari bagaimana POAC berevolusi menjadi lebih lincah, cerdas, dan berbasis data.
 
@@ -79,7 +79,7 @@ Jika penjualan sudah sama dengan atau melampaui target, *dashboard* menampilkan 
 
 Contoh ini menunjukkan bagaimana pengawasan digital bekerja tanpa harus menunggu rapat mingguan. Sistem langsung memberikan umpan balik (*feedback*) saat itu juga.
 
-## Menjadi Manajer Masa Depan
+## Peran Manajer di Era Digital
 
 Mengadaptasi POAC ke era digital bukan berarti membuang teori manajemen klasik. Sebaliknya, ini adalah tentang memperkuat fondasi tersebut dengan alat yang lebih canggih.
 
@@ -89,4 +89,4 @@ Mengadaptasi POAC ke era digital bukan berarti membuang teori manajemen klasik. 
 2. **Literasi Data:** Mengambil keputusan berdasarkan angka dan fakta, bukan hanya mengandalkan perasaan.
 3. **Konektivitas:** Memastikan seluruh anggota organisasi terhubung secara digital untuk meminimalkan hambatan birokrasi.
 
-> **Catatan Penting:** Teknologi hanyalah alat bantu. Jiwa dari manajemen tetap terletak pada manusianya. Di era digital, peran manajer bergeser dari pengawas kaku yang suka memerintah menjadi penyelaras yang menyatukan teknologi dan potensi manusia demi mencapai tujuan bersama.
+> **Catatan Penting:** Teknologi hanyalah alat bantu. Inti dari manajemen tetap terletak pada manusianya. Di era digital, peran manajer bergeser dari pengawas kaku yang suka memerintah menjadi penyelaras yang menyatukan teknologi dan potensi manusia demi mencapai tujuan bersama.

@@ -1,4 +1,4 @@
-# Siklus Re-teaching
+## Siklus Re-teaching
 
 Dalam dunia pengembangan perangkat lunak, terdapat istilah "Beta Testing" dan "Patching" untuk memperbaiki *bug* sebelum produk benar-benar siap. Dalam dunia pendidikan, khususnya *microteaching*, proses ini disebut dengan **Re-teaching** (Mengajar Kembali).
 
@@ -28,7 +28,7 @@ Sebelum menyentuh RPP kamu, tinjau kembali data dari instrumen observasi dan rek
   $$
   </div>
 
-### 2. Revisi RPP (Refining the Blueprint)
+### 2. Revisi RPP
 
 Setelah mengetahui kelemahannya, saatnya melakukan "bedah" pada RPP Mikro kamu. Jangan merombak seluruh isi jika hanya satu bagian yang bermasalah.
 
@@ -36,7 +36,7 @@ Setelah mengetahui kelemahannya, saatnya melakukan "bedah" pada RPP Mikro kamu. 
 - **Penyesuaian Alokasi Waktu:** Jika sebelumnya kamu kekurangan waktu di bagian penutup, kurangi durasi di bagian apersepsi.
 - **Visualisasi Baru:** Jika media sebelumnya sulit dilihat, tentukan posisi peletakan media yang lebih strategis dalam RPP.
 
-### 3. Simulasi Mandiri (The Mental Rehearsal)
+### 3. Simulasi Mandiri
 
 Sebelum tampil di depan audiens sebenarnya, lakukan *run-through* secara mandiri.
 
@@ -63,7 +63,7 @@ Berikut adalah ilustrasi bagaimana sebuah revisi dilakukan dalam struktur RPP Mi
 
 ## Mengasah Pisau
 
-Bayangkan kamu sedang mengasah pisau. Sesi pertama adalah saat kamu menyadari bahwa pisau tersebut tumpul (refleksi). Kamu melihat ada bagian yang berkarat (umpan balik). **Re-teaching** adalah tindakan menggesekkan kembali pisau tersebut ke batu asah dengan sudut yang lebih tepat. Tanpa gesekan kedua yang diperbaiki, pisau tersebut akan tetap tumpul selamanya.
+Bayangkan kamu sedang mengasah pisau. Sesi pertama adalah saat kamu menyadari bahwa pisau tersebut tumpul (refleksi). Kamu melihat ada bagian yang berkarat (umpan balik). **Re-teaching** adalah tindakan menggesekkan kembali pisau tersebut ke batu asah dengan sudut yang lebih tepat. Tanpa gesekan kedua yang diperbaiki, pisau tersebut tetap tumpul.
 
 ## Re-teaching Materi Sumpah Pemuda
 
@@ -75,7 +75,7 @@ Bayangkan kamu sedang mengasah pisau. Sesi pertama adalah saat kamu menyadari ba
 2. **Perubahan Teknik:** Guru mengganti metode ceramah menjadi teknik bertanya: *"Jika kalian berada di kongres itu, kata apa yang akan kalian tambahkan?"*
 3. **Hasil:** Pada sesi kedua, suasana kelas lebih hidup karena ada interaksi fisik dengan media dan pertanyaan pemantik yang menantang imajinasi.
 
-## Mengapa Re-teaching Sangat Penting?
+## Mengapa Re-teaching Penting?
 
 - **Membangun Kepercayaan Diri:** Keberhasilan memperbaiki kesalahan memberikan dorongan psikologis yang besar bagi pendidik.
 - **Internalisasi Keterampilan:** Pengulangan yang terukur membantu otot memori (*muscle memory*) dalam mengajar terbentuk dengan benar.
@@ -83,6 +83,6 @@ Bayangkan kamu sedang mengasah pisau. Sesi pertama adalah saat kamu menyadari ba
 
 **Penting:**
 
-> Jangan menganggap re-teaching sebagai hukuman karena gagal di sesi pertama. Sebaliknya, anggaplah ini sebagai kemewahan laboratorium di mana kamu diizinkan untuk "salah" agar bisa menjadi "benar" di kelas yang sesungguhnya nanti.
+> Jangan menganggap re-teaching sebagai hukuman karena gagal di sesi pertama. Sebaliknya, anggaplah ini sebagai kesempatan berlatih di laboratorium, tempat kamu diizinkan untuk "salah" agar bisa menjadi "benar" di kelas yang sesungguhnya nanti.
 
 *Refleksi untuk kamu:* *Setelah menerima umpan balik yang tajam, apakah kamu merasa defensif atau justru merasa terbantu? Bagaimana perasaan tersebut memengaruhi kualitas revisi RPP yang kamu buat?*

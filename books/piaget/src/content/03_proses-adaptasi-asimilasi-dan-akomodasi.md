@@ -1,6 +1,6 @@
 ## Proses Adaptasi
 
-Pernahkah kamu bertanya-tanya bagaimana seorang anak kecil yang awalnya hanya mengenal "anjing" tiba-tiba bisa membedakan antara anjing, kucing, dan sapi? Atau bagaimana kita sebagai orang dewasa belajar menggunakan perangkat lunak baru yang sangat berbeda dari yang pernah kita gunakan sebelumnya?
+Pernahkah kamu bertanya-tanya bagaimana anak kecil yang awalnya hanya mengenal "anjing" tiba-tiba bisa membedakan anjing, kucing, dan sapi? Atau bagaimana kita sebagai orang dewasa belajar menggunakan perangkat lunak baru yang sangat berbeda dari yang pernah kita gunakan sebelumnya?
 
 Menurut Jean Piaget, kecerdasan bukan sekadar tumpukan fakta, melainkan sebuah **proses adaptasi** yang dinamis. Jika pada bagian sebelumnya kita telah mempelajari tentang **Skema** (wadah informasi dalam pikiran), maka sekarang kita akan membedah bagaimana "wadah" tersebut berinteraksi dengan dunia luar melalui dua mekanisme utama: **Asimilasi** dan **Akomodasi**.
 
@@ -60,7 +60,7 @@ Mekanisme asimilasi dan akomodasi tidak berhenti saat kita dewasa. Keduanya teru
 **Skenario Perpindahan dari Windows ke MacOS**
 
 - **Asimilasi:** Saat kamu pertama kali membuka MacBook, kamu mencari tombol "X" untuk menutup jendela. Kamu mengasimilasi konsep "menutup jendela" dari pengalaman Windows kamu.
-- **Akomodasi:** Kamu menyadari bahwa tombol tutup di Mac ada di sebelah kiri (merah), bukan di kanan atas. Kamu harus melakukan akomodasi,mengubah skema operasional komputer kamu untuk memahami bahwa tata letak antarmuka bisa berbeda.
+- **Akomodasi:** Kamu menyadari bahwa tombol tutup di Mac ada di sebelah kiri (merah), bukan di kanan atas. Kamu harus melakukan akomodasi, mengubah skema operasional komputer kamu untuk memahami bahwa tata letak antarmuka bisa berbeda.
 
 **Dalam Pendidikan:** Guru yang efektif akan memberikan tantangan yang memicu akomodasi. Jika materi terlalu mudah, siswa hanya akan melakukan asimilasi tanpa perkembangan struktur otak yang signifikan. Jika terlalu sulit, akomodasi tidak bisa terjadi karena tidak ada "kait" skema awal yang bisa diubah.
 
@@ -73,6 +73,6 @@ Asimilasi dan akomodasi bukanlah dua proses yang terpisah secara kaku, melainkan
 
 Keseimbangan antara keduanya disebut dengan **Ekuilibrasi**, sebuah proses yang memastikan pikiran kita efisien namun tetap akurat dalam memetakan realitas.
 
-> **Pesan Utama:** Perkembangan kognitif adalah tarian antara menggunakan apa yang sudah kita tahu (asimilasi) dan mengubah diri kita untuk belajar hal baru (akomodasi).
+> **Pesan Utama:** Perkembangan kognitif adalah perpaduan antara menggunakan apa yang sudah kita tahu (asimilasi) dan mengubah diri kita untuk belajar hal baru (akomodasi).
 
 *Mari Refleksikan:* *Ingatlah saat terakhir kali kamu mempelajari hobi atau keterampilan baru yang sangat menantang. Bagian mana dari pembelajaran itu yang terasa seperti "sekadar menambah pengetahuan" (asimilasi) dan bagian mana yang benar-benar "mengubah cara pandang kamu" (akomodasi)?*

@@ -2,7 +2,7 @@
 
 Pernahkah kamu merasa takut berenang di laut lepas setelah menonton film tentang serangan hiu? Padahal, secara statistik, kemungkinan kamu tersambar petir jauh lebih besar daripada digigit hiu. Atau, mengapa setelah melihat berita kecelakaan pesawat yang tragis, banyak orang tiba-tiba merasa bahwa terbang adalah moda transportasi yang sangat berbahaya, meskipun data menunjukkan mobil jauh lebih mematikan?
 
-Selamat datang di dunia **Bias Ketersediaan (*Availability Heuristic*)**. Ini adalah pintasan mental yang membuat otak kita menilai pentingnya atau frekuensi suatu peristiwa berdasarkan seberapa mudah contoh peristiwa tersebut muncul dalam ingatan kita.
+Inilah yang disebut **Bias Ketersediaan (*Availability Heuristic*)**. Ini adalah pintasan mental yang membuat otak kita menilai pentingnya atau frekuensi suatu peristiwa berdasarkan seberapa mudah contoh peristiwa tersebut muncul dalam ingatan kita.
 
 ## 1\. Apa itu Bias Ketersediaan?
 
@@ -26,7 +26,7 @@ Padahal, kenyataannya: $P(\text{peristiwa}) = \frac{\text{Jumlah Kejadian}}{\tex
 
 ## 2\. Mengapa Ini Terjadi? (Analogi Perpustakaan Pikiran)
 
-Bayangkan pikiran kamu adalah sebuah **perpustakaan raksasa**.
+Bayangkan pikiran kamu adalah sebuah **perpustakaan besar**.
 
 - Buku-buku (informasi) yang baru saja dikembalikan atau yang memiliki sampul sangat mencolok (emosional/vivid) diletakkan di meja paling depan.
 - Buku-buku yang membosankan atau sudah lama tidak dibaca disimpan di gudang bawah tanah yang gelap.
@@ -36,7 +36,7 @@ Saat seseorang bertanya, "Buku apa yang paling populer?", kamu cenderung mengamb
 ### Faktor-faktor yang Memicu "Kemudahan Mengingat"
 
 1. **Kebaruan (*Recency*)**: Peristiwa yang baru saja terjadi (misal: berita tadi pagi) lebih mudah diingat daripada peristiwa tahun lalu.
-2. **Dramatisasi & Visualisasi (*Vividness*)**: Kejadian yang traumatis, spektakuler, atau sangat visual (misal: ledakan) lebih membekas daripada statistik angka yang kering.
+2. **Dramatisasi & Visualisasi (*Vividness*)**: Kejadian yang traumatis, dramatis, atau sangat visual (misal: ledakan) lebih membekas daripada statistik angka yang kering.
 3. **Paparan Media**: Topik yang terus-menerus diberitakan membuat kita merasa hal tersebut terjadi di mana-mana.
 
 ## 3\. Contoh Skenario & Realita Statistik
@@ -90,4 +90,4 @@ Untuk mengetahui apakah kamu sedang terjebak dalam bias ini, ajukan pertanyaan r
 
 **Important:** Bias Ketersediaan adalah mekanisme pertahanan otak untuk menghemat energi. Menyadari keberadaannya bukan berarti kita bisa menghilangkannya sepenuhnya, tetapi kita bisa belajar untuk berhenti sejenak dan mencari data objektif sebelum mengambil keputusan besar.
 
-> **Insight Utama:** Kemudahan kamu mengingat sesuatu bukanlah indikator akurat tentang seberapa sering atau seberapa mungkin hal itu terjadi di dunia nyata. Jangan biarkan memori yang paling terang menutupi kebenaran yang paling gelap (tersembunyi).
+> **Insight Utama:** Kemudahan kamu mengingat sesuatu bukanlah indikator akurat tentang seberapa sering atau seberapa mungkin hal itu terjadi di dunia nyata. Jangan biarkan ingatan yang paling mencolok menutupi kenyataan yang tidak terlihat.

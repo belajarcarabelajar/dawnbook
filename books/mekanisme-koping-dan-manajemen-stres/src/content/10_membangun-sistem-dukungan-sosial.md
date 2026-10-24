@@ -8,7 +8,7 @@ Inilah inti dari *social support system* (sistem dukungan sosial). Dalam manajem
 
 Secara evolusi, manusia didesain untuk hidup berkelompok. Pada zaman purba, isolasi berarti ancaman kematian. Meskipun zaman telah berubah, otak kita masih merespons isolasi sosial sebagai ancaman serius terhadap kelangsungan hidup.
 
-#### Kimiawi Koneksi
+#### Hormon dalam Interaksi Sosial
 
 Saat kita berinteraksi secara positif dengan orang lain, otak kita melepaskan hormon dan neurotransmiter yang secara langsung melawan efek hormon stres (kortisol).
 
@@ -49,13 +49,13 @@ Gunakan teknik **"Lingkaran Dukungan"** (*Support Circles*) untuk memetakan siap
 #### B. Langkah-Langkah Memperkuat Koneksi
 
 1. **Jadilah Pendengar Aktif (*Active Listening*):** Sebelum ingin didengar, belajarlah mendengarkan dengan penuh perhatian. Hubungan yang sehat selalu bersifat resiprokal.
-2. **Tunjukkan Kerentanan (*Vulnerability*):** Jangan takut terlihat tidak sempurna. Mengakui bahwa kamu sedang menghadapi kesulitan justru sering kali menjadi jembatan untuk membangun kedekatan yang lebih dalam.
+2. **Tunjukkan Kerentanan (*Vulnerability*):** Jangan takut terlihat tidak sempurna. Mengakui bahwa kamu sedang menghadapi kesulitan justru sering kali membuat hubungan menjadi lebih dekat.
 3. **Investasi Waktu:** Hubungan memerlukan pemeliharaan rutin. Kirimkan pesan singkat, ajak minum kopi, atau sekadar menanyakan kabar tanpa ada agenda khusus.
 4. **Diversifikasi Jaringan:** Jangan bergantung hanya pada satu orang (misalnya pasangan saja). Miliki orang yang tepat untuk situasi yang tepat: teman A untuk urusan hobi, teman B untuk tempat curhat emosional, dan keluarga untuk bantuan praktis.
 
 ### 4. Memilih Komunitas yang Tepat
 
-Kadang-kadang, lingkaran sosial yang kita miliki saat ini belum cukup memberikan dukungan yang dibutuhkan. Dalam kondisi ini, mencari komunitas baru merupakan langkah proaktif yang sangat baik.
+Kadang-kadang, lingkaran sosial yang kita miliki saat ini belum cukup memberikan dukungan yang dibutuhkan. Dalam kondisi ini, mencari komunitas baru merupakan langkah proaktif.
 
 * **Komunitas Berbasis Hobi:** Bergabung dengan klub lari, kelas melukis, atau grup musik. Kesamaan minat memudahkan terbentuknya ikatan organik.
 * **Grup Pendukung (*Support Groups*):** Jika kamu mengalami stres spesifik (misalnya kehilangan orang tercinta atau mengelola kondisi medis kronis), bergabung dengan orang-orang yang mengalami hal serupa dapat memberikan efek penyembuhan emosional.
@@ -65,7 +65,7 @@ Kadang-kadang, lingkaran sosial yang kita miliki saat ini belum cukup memberikan
 
 Mari kita lihat perbedaan dampak penggunaan dukungan sosial dalam skenario nyata:
 
-**Skenario *Burnout* di Tempat Kerja**
+**Situasi Andi**
 *Andi merasa sangat tertekan karena beban kerja yang berlebihan dan tenggat waktu yang ketat.*
 
 | Pendekatan | Tindakan Andi | Hasil yang Dirasakan |
@@ -73,7 +73,7 @@ Mari kita lihat perbedaan dampak penggunaan dukungan sosial dalam skenario nyata
 | **Tanpa *Social Support*** | Andi mengisolasi diri, pulang ke rumah dalam keadaan marah, dan tidak menceritakan masalahnya pada siapa pun. | Stres memuncak menjadi insomnia, kecemasan, dan sakit kepala kronis. |
 | **Dengan *Social Support*** | 1. **Informatif:** Andi bertanya kepada senior tentang tips mengelola tugas secara efektif.<br>2. **Emosional:** Andi bercerita kepada pasangannya tentang rasa lelahnya.<br>3. **Instrumental:** Rekan kerja menawarkan bantuan mengambil alih satu tugas kecil. | Beban kerja terasa jauh lebih ringan dan Andi merasa didukung serta mampu menyelesaikan tanggung jawabnya. |
 
-Hasilnya, beban objektif Andi mungkin masih ada, tetapi kapasitas internal Andi untuk menanggung beban tersebut meningkat berlipat ganda karena ia tidak merasa berjuang sendirian.
+Hasilnya, beban objektif Andi mungkin masih ada, tetapi kapasitas internal Andi untuk menanggung beban tersebut meningkat karena ia tidak merasa berjuang sendirian.
 
 ### 6. Waspada terhadap "Dukungan" yang Beracun
 
@@ -88,8 +88,8 @@ Tidak semua interaksi sosial memberikan dampak positif. Kamu perlu membedakan an
 
 > **Pemberitahuan Penting:** Jika seseorang dalam sistem dukunganmu justru menjadi sumber stres utama, kamu berhak untuk menjaga jarak (*set boundaries*) dan memprioritaskan kesehatan mentalmu sendiri.
 
-### Kesimpulan
+### Tidak Menanggung Beban Sendirian
 
-Membangun sistem dukungan sosial adalah bentuk investasi jangka panjang untuk ketahanan (*resilience*) emosionalmu. Kita tidak diciptakan untuk menjadi pahlawan yang menanggung seluruh beban sendirian. Dengan membangun koneksi yang sehat, kita tidak hanya belajar cara bertahan dari stres, tetapi juga cara untuk tumbuh dan berkembang bersama orang lain.
+Membangun sistem dukungan sosial memperkuat ketahanan (*resilience*) emosionalmu dalam jangka panjang. Kita tidak harus menanggung seluruh beban sendirian. Dengan membangun koneksi yang sehat, kita tidak hanya belajar cara bertahan dari stres, tetapi juga cara untuk tumbuh dan berkembang bersama orang lain.
 
 *Mari mulai hari ini: Hubungi satu orang yang sudah lama tidak kamu ajak bicara, atau carilah satu komunitas yang sesuai dengan minatmu. Langkah kecil ini bisa menjadi awal dari sistem dukungan yang akan membantumu di masa depan.*

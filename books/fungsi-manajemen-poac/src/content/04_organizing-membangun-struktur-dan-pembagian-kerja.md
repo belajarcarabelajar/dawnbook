@@ -1,6 +1,6 @@
 ## Organizing untuk Membangun Struktur dan Pembagian Kerja
 
-Setelah sebuah organisasi menentukan arah dan tujuannya dalam tahap **Planning**, langkah selanjutnya adalah menentukan bagaimana cara mencapai tujuan tersebut secara efisien. Di sinilah fungsi **Organizing** (Pengorganisasian) masuk ke dalam permainan.
+Setelah sebuah organisasi menentukan arah dan tujuannya dalam tahap **Planning**, langkah selanjutnya adalah menentukan cara mencapainya secara efisien. Di sinilah fungsi **Organizing** (Pengorganisasian) masuk ke dalam permainan.
 
 Jika *Planning* adalah sebuah cetak biru (blueprint) sebuah gedung, maka *Organizing* adalah proses mendirikan kerangka bangunan, memasang pipa, kabel listrik, dan menentukan ruang mana yang akan digunakan untuk apa. Tanpa pengorganisasian yang baik, rencana hebat sekalipun akan berantakan karena tidak adanya kejelasan mengenai siapa melakukan apa dan siapa bertanggung jawab kepada siapa.
 
@@ -10,13 +10,13 @@ Pengorganisasian adalah proses mengatur dan mengalokasikan sumber daya manusia s
 
 > **Insight Utama:** Struktur organisasi tidak hanya berfungsi sebagai bagan yang dipajang di dinding kantor, tetapi berperan sebagai sistem saraf yang menentukan aliran informasi dan proses pengambilan keputusan.
 
-### Dapur Restoran Bintang Lima
+### Dapur Restoran Besar
 
 Bayangkan sebuah dapur restoran besar. Tanpa pengorganisasian, semua orang mungkin mencoba memasak steak di saat yang sama, sementara tidak ada yang mencuci piring atau menyiapkan bumbu.
 
 - **Organizing** di sini berarti menentukan siapa yang menjadi *Head Chef* (pemimpin), siapa yang menangani *Pastry* (departementalisasi), dan siapa yang memotong sayuran (pembagian kerja). Semuanya harus selaras agar pesanan pelanggan (tujuan) tersaji tepat waktu.
 
-## 2. Pilar Utama dalam Organizing
+## 2. Empat Elemen Organizing
 
 Untuk membangun struktur yang kokoh, seorang manajer harus memperhatikan empat elemen kunci berikut:
 
@@ -88,4 +88,4 @@ Agar aktivitas selaras dengan rencana, manajer harus mengikuti alur sistematis:
 
 Organizing adalah tentang menciptakan **keteraturan di tengah kompleksitas**. Dengan struktur yang tepat, setiap individu tahu di mana posisi mereka, apa yang diharapkan dari mereka, dan kepada siapa mereka harus meminta bantuan. Struktur yang baik tidak bersifat kaku, melainkan harus mampu beradaptasi dengan perubahan rencana dan tantangan pasar.
 
-> **Pelajaran Berharga:** Struktur yang buruk akan melumpuhkan orang-orang baik, tetapi struktur yang tepat akan memberikan ruang bagi orang-orang biasa untuk menghasilkan kinerja yang luar biasa.
+> **Pelajaran Berharga:** Struktur yang buruk akan menghambat orang-orang baik, tetapi struktur yang tepat akan memberikan ruang bagi orang-orang biasa untuk menghasilkan kinerja yang tinggi.

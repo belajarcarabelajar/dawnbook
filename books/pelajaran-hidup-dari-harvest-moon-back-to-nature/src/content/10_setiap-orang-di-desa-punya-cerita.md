@@ -1,6 +1,6 @@
 ## Setiap Orang di Desa Punya Cerita
 
-Di penginapan milik Doug, seorang pemuda bernama Cliff menginap seorang diri, tanpa keluarga, dan sedang membutuhkan pekerjaan. Ia ada di sana hari demi hari. Ketika kamu sibuk menyiram ladang dan mengejar target panen, sangat mudah melewatinya tanpa menoleh.
+Di penginapan milik Doug, seorang pemuda bernama Cliff menginap seorang diri, tanpa keluarga, dan sedang membutuhkan pekerjaan. Ia ada di sana hari demi hari. Ketika kamu sibuk menyiram ladang dan mengejar target panen, mudah melewatinya tanpa menoleh.
 
 Hanya itu yang diketahui tentang keadaannya. Namun nasibnya sampai akhir tahun bisa bergantung pada satu kalimat darimu.
 

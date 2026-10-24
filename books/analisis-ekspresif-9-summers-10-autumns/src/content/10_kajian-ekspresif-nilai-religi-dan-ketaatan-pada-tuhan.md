@@ -2,7 +2,7 @@
 
 ### Ketaatan Spiritual di Tengah Perubahan Budaya
 
-Nilai religi dalam kisah ini terekspresikan secara mendalam melalui perilaku keagamaan tokoh utama saat menghadapi tekanan batin di perantauan. Hubungan spiritual dengan Tuhan menjadi penopang utama bagi Iwan Setyawan kala diterpa badai kerinduan dan kesunyian hidup di New York:
+Nilai religi dalam kisah ini terekspresikan melalui perilaku keagamaan tokoh utama saat menghadapi tekanan batin di perantauan. Hubungan spiritual dengan Tuhan menjadi penopang utama bagi Iwan Setyawan saat dilanda kerinduan dan kesepian di New York:
 
 > “Di tengah kerinduan yang dalam, aku menemukan kedamaian yang luas dalam salat lima waktu, ada yang tersembuhkan dalam salat Tahajut.” (Hlm. 109-110)
 
@@ -10,9 +10,9 @@ Ekspresi spiritual ini menegaskan bahwa ketaatan kepada Tuhan merupakan bagian m
 
 ### Mekanisme Pertahanan Mental Tokoh Utama
 
-Analisis terhadap dimensi religi menunjukkan bahwa aktivitas spiritual seperti salat tahajud dan tadarus Al-Qur'an melampaui kewajiban ritual formal. Praktik keagamaan ini berfungsi sebagai mekanisme pertahanan batin (*coping mechanism*) tokoh utama. Ketika tertekan oleh kesepian New York, Iwan mengingat kembali doa-doa yang diajarkan ibunya di masa kecil: *'aku menemukan kedamaian yang luas dalam salat... ada yang tersembuhkan dalam salat Tahajut'* (Hlm. 109). Nilai religi ini menjadi jangkar psikologis yang menjaga ketenangan dan keteguhan jiwanya di tengah lingkungan sekuler perantauan.
+Analisis terhadap dimensi religi menunjukkan bahwa aktivitas spiritual seperti salat tahajud dan tadarus Al-Qur'an melampaui kewajiban ritual formal. Praktik keagamaan ini berfungsi sebagai mekanisme pertahanan batin (*coping mechanism*) tokoh utama. Ketika tertekan oleh kesepian New York, Iwan mengingat kembali doa-doa yang diajarkan ibunya di masa kecil: *'aku menemukan kedamaian yang luas dalam salat... ada yang tersembuhkan dalam salat Tahajut'* (Hlm. 109). Nilai religi ini menjadi pegangan psikologis yang menjaga ketenangan dan keteguhan jiwanya di tengah lingkungan sekuler perantauan.
 
-### Iman di Tengah Badai Megapolitan
+### Iman di Lingkungan Megapolitan yang Sekuler
 
 *Bagaimana nilai religiusitas yang bersahaja di tingkat keluarga dapat bertransformasi menjadi kekuatan mental yang kokoh di tengah lingkungan megapolitan yang sekuler?*
 

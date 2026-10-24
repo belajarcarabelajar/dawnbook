@@ -2,7 +2,7 @@
 
 Pernahkah kamu merasa bahwa setelah berolahraga pagi atau tidur yang cukup, otak kamu terasa lebih "tajam" dan informasi lebih mudah diserap? Itu bukan sekadar perasaan kamu saja. Secara biologis, gaya hidup kamu menentukan seberapa subur "tanah" di otak kamu untuk menumbuhkan koneksi saraf baru.
 
-Dalam bab ini, kita akan mengeksplorasi bagaimana rutinitas harian, apa yang kamu makan, seberapa banyak kamu bergerak, dan bagaimana kamu beristirahat, berinteraksi langsung dengan protein ajaib bernama **BDNF** untuk menentukan efisiensi sinaptik kamu.
+Dalam bab ini, kita akan mengeksplorasi bagaimana rutinitas harian, apa yang kamu makan, seberapa banyak kamu bergerak, dan bagaimana kamu beristirahat, berinteraksi langsung dengan protein bernama **BDNF** untuk menentukan efisiensi sinaptik kamu.
 
 ## 1\. Mengenal BDNF
 
@@ -19,9 +19,9 @@ Bayangkan otak kamu adalah sebuah taman. Agar tanaman (neuron) dapat tumbuh kuat
 
 > **Insight Penting:** Tanpa kadar BDNF yang cukup, otak kita menjadi kaku. Kita mungkin belajar keras, tetapi sinapsis kita sulit untuk "mengunci" informasi tersebut karena kurangnya dukungan protein ini.
 
-## 2\. Booster Alami BDNF dari Aktivitas Fisik
+## 2\. Aktivitas Fisik Meningkatkan BDNF
 
-Aktivitas fisik bukan hanya tentang kesehatan jantung atau otot; ini adalah intervensi neurobiologis yang paling kuat untuk meningkatkan efisiensi belajar.
+Aktivitas fisik bukan hanya tentang kesehatan jantung atau otot; ini adalah intervensi neurobiologis yang kuat untuk meningkatkan efisiensi belajar.
 
 ### Mekanisme Biologis
 
@@ -35,13 +35,13 @@ $$
 
 ### Strategi "Priming"
 
-- **Skenario:** Seorang mahasiswa harus menghafal materi ujian yang sangat sulit.
+- **Skenario:** Seorang mahasiswa harus menghafal materi ujian yang sulit.
 - **Strategi:** Alih-alih belajar 4 jam nonstop, ia melakukan olahraga intensitas sedang selama 20 menit *sebelum* membuka buku.
 - **Hasilnya:** Olahraga tersebut memicu lonjakan BDNF, menempatkan otak dalam kondisi "siap serap". Sinapsis menjadi lebih fleksibel dan siap untuk membentuk koneksi baru (Long-Term Potentiation).
 
 ## 3\. Sistem Pembersihan dan Konsolidasi saat Tidur
 
-Jika olahraga adalah proses "menanam", maka tidur adalah proses "merawat dan merapikan". Tidur yang berkualitas sangat sangat penting bagi efisiensi sinaptik melalui dua mekanisme utama:
+Jika olahraga adalah proses "menanam", maka tidur adalah proses "merawat dan merapikan". Tidur yang berkualitas penting bagi efisiensi sinaptik melalui dua mekanisme utama:
 
 ### A. Sistem Glimfatik (Pembersihan Otak)
 
@@ -77,11 +77,11 @@ Ketiga faktor ini tidak bekerja secara terpisah, melainkan saling memperkuat dal
 
 | Faktor | Dampak Langsung pada Sinapsis | Peran BDNF |
 | --- | --- | --- |
-| **Olahraga** | Meningkatkan suplai darah & oksigen | Memicu produksi massal BDNF baru |
+| **Olahraga** | Meningkatkan suplai darah & oksigen | Memicu produksi BDNF baru |
 | **Tidur** | Membersihkan toksin & mengunci memori | Memfasilitasi kerja BDNF dalam memperkuat sinapsis |
 | **Nutrisi** | Menyediakan blok bangunan fisik (lipid) | Mendukung kelangsungan hidup neuron yang dipicu BDNF |
 
-## Protokol Optimalisasi Sinapsis
+## Langkah yang Bisa Kamu Terapkan
 
 Untuk memaksimalkan kapasitas belajar kamu berdasarkan sains neuroplastisitas, terapkan langkah-langkah berikut:
 

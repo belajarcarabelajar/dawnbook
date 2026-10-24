@@ -11,7 +11,7 @@ Mana yang kamu pilih? Hampir pasti kamu memilih cara kedua. Mengapa? Karena otak
 
 **Heuristik** adalah strategi mental atau "jalan pintas" (shortcut) yang digunakan otak untuk memproses informasi dan mengambil keputusan dengan cepat tanpa harus melakukan analisis mendalam yang melelahkan.
 
-Istilah ini berasal dari bahasa Yunani *heuriskein* yang berarti "menemukan". Dalam psikologi kognitif, heuristik dipandang sebagai mekanisme bertahan hidup yang sangat penting. Jika setiap keputusan kecil (seperti memilih warna kaus kaki atau cara menghindari lubang di jalan) harus dipikirkan secara mendalam, otak kita akan mengalami *burnout* dalam hitungan jam.
+Istilah ini berasal dari bahasa Yunani *heuriskein* yang berarti "menemukan". Dalam psikologi kognitif, heuristik dipandang sebagai mekanisme bertahan hidup yang penting. Jika setiap keputusan kecil (seperti memilih warna kaus kaki atau cara menghindari lubang di jalan) harus dipikirkan secara mendalam, otak kita akan mengalami *burnout* dalam hitungan jam.
 
 > **Pesan Kunci:** Heuristik bukanlah sebuah kesalahan. Heuristik adalah alat efisiensi. Namun, efisiensi sering kali mengorbankan akurasi.
 
@@ -46,7 +46,7 @@ Di mana $g(x)$ memberikan jawaban yang "cukup baik" untuk situasi sehari-hari, t
 
 Heuristik menjadi **Bias Kognitif** ketika jalan pintas tersebut menyebabkan kesalahan sistematis yang dapat diprediksi dalam situasi tertentu.
 
-Jika heuristik adalah "alat", maka bias adalah "cacat produksi" yang muncul akibat penggunaan alat tersebut di situasi yang salah. Ada tiga pilar utama mengapa heuristik bisa menyesatkan:
+Jika heuristik adalah "alat", maka bias adalah "cacat produksi" yang muncul akibat penggunaan alat tersebut di situasi yang salah. Ada tiga alasan utama mengapa heuristik bisa menyesatkan:
 
 1. **Akurasi vs. Kecepatan:** Kita seringkali lebih memprioritaskan "selesai" daripada "tepat".
 2. **Keterbatasan Data:** Heuristik hanya bekerja berdasarkan informasi yang ada di ingatan jangka pendek atau yang paling mencolok secara emosional.
@@ -72,9 +72,9 @@ Meskipun kita tidak bisa menghapus heuristik dari otak kita, kita bisa belajar u
 - **Gunakan "Checklist":** Checklist adalah cara paksa untuk menarik otak dari mode heuristik (Sistem 1) ke mode prosedural (Sistem 2).
 - **Pre-Mortem:** Sebelum mengambil keputusan, bayangkan di masa depan keputusan itu gagal total. Tanyakan, "Apa yang menyebabkannya?". Ini memaksa otak mencari data yang biasanya diabaikan oleh heuristik.
 
-## Kesimpulan
+## Kapan Perlu Berpikir Lebih Dalam
 
-Heuristik adalah mesin efisiensi yang luar biasa yang memungkinkan manusia berfungsi di dunia yang penuh informasi. Tanpa mereka, kita akan lumpuh oleh analisis. Namun, dengan memahami bahwa "jalan pintas" ini ada, kita bisa lebih waspada kapan harus menginjak rem dan mulai berpikir lebih dalam sebelum mengambil kesimpulan.
+Heuristik adalah alat efisiensi yang memungkinkan manusia berfungsi di dunia yang penuh informasi. Tanpa mereka, kita akan lumpuh oleh analisis. Namun, dengan memahami bahwa "jalan pintas" ini ada, kita bisa lebih waspada kapan harus menginjak rem dan mulai berpikir lebih dalam sebelum mengambil kesimpulan.
 
 *Coba ingat satu keputusan besar yang kamu ambil dalam seminggu terakhir. Apakah kamu benar-benar menganalisis semua data, ataukah kamu hanya mengikuti "perasaan" (yang sebenarnya adalah substitusi atribut)?*
 

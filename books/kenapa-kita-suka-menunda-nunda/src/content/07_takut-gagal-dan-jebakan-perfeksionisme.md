@@ -4,7 +4,7 @@
 
 Masalahnya, riset tidak memberi jawaban "ya" atau "tidak" yang rapi. Jawabannya: tergantung perfeksionisme yang mana. Ada jenis yang berjalan bersama penundaan, ada jenis yang justru berjalan berlawanan. Bab ini membongkar keyakinan tadi, lalu melihat satu eksperimen klasik tentang cara penundaan melindungi harga diri.
 
-### Satu kata, dua arah
+### Dua dimensi perfeksionisme
 
 Dalam meta-analisisnya atas 691 korelasi, Steel (2007) memperlakukan perfeksionisme sebagai satu dimensi tunggal dan tidak menemukan hubungannya dengan penundaan. Dari situ lahir kesan bahwa mitos "penunda itu perfeksionis" tidak ada dasarnya. Kesan itu terlalu cepat, sebab kata "perfeksionisme" ternyata menutupi dua hal yang berbeda.
 

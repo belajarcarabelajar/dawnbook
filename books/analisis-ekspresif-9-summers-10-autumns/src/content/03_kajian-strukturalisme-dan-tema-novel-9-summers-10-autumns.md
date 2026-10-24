@@ -1,6 +1,6 @@
 ## Kajian Strukturalisme dan Tema Novel 9 Summers 10 Autumns
 
-Memahami sebuah karya sastra secara mendalam menuntut kesediaan untuk melihatnya sebagai satu kesatuan yang utuh, di mana setiap elemen saling bertumpu dan menghidupkan makna. Melalui novel *9 Summers 10 Autumns*, eksplorasi ini dimulai dengan membedah jalinan struktural yang menyusun kisah hidup sang tokoh utama. Kajian strukturalisme hadir sebagai pisau analisis pertama, membongkar keterkaitan antarunsur pembangun karya demi menyingkap tema besar yang menggerakkan seluruh cerita.
+Memahami sebuah karya sastra secara mendalam menuntut kesediaan untuk melihatnya sebagai satu kesatuan yang utuh. Di dalamnya, setiap elemen saling berkaitan dalam membentuk makna. Analisis novel *9 Summers 10 Autumns* ini dimulai dari struktur yang menyusun kisah hidup tokoh utamanya. Kajian strukturalisme menjadi alat analisis pertama: ia menelusuri keterkaitan antarunsur pembangun karya untuk menemukan tema utama cerita.
 
 ### Konsep Kajian Strukturalisme dalam Sastra
 
@@ -14,7 +14,7 @@ Unsur intrinsik adalah unsur pembangun yang menyebabkan karya sastra itu hadir d
 
 | Unsur Intrinsik | Peran dalam Struktur Naratif | Manifestasi dalam Novel |
 | :--- | :--- | :--- |
-| **Tema** | Ide sentral yang menjadi jangkar seluruh peristiwa. | Pendidikan sebagai tangga sosial dan kekuatan cinta keluarga. |
+| **Tema** | Ide sentral yang mendasari seluruh peristiwa. | Pendidikan sebagai tangga sosial dan kekuatan cinta keluarga. |
 | **Tokoh & Penokohan** | Pelaku cerita beserta perwatakan fiktifnya. | Tokoh Iwan yang gigih, Bapak yang tangguh, Ibu yang bijaksana. |
 | **Alur (Plot)** | Rantai peristiwa yang dihubungkan sebab-akibat. | Alur campuran (maju-mundur) dari New York ke Kota Batu. |
 | **Latar (Setting)** | Dimensi spasial, temporal, dan sosiopsikologis. | Kontras spasial antara Batu (Malang) dan Manhattan (New York). |
@@ -24,13 +24,13 @@ Dalam bab ini, fokus utama kita adalah memahami bagaimana tema besar novel dirum
 
 ### Tema Utama Pendidikan dan Cinta Keluarga
 
-Tema utama novel *9 Summers 10 Autumns* berdiri kokoh di atas dua pilar utama: **pendidikan sebagai tangga perubahan sosial** dan **kekuatan cinta keluarga**. 
+Tema utama novel *9 Summers 10 Autumns* bertumpu pada dua hal: **pendidikan sebagai tangga perubahan sosial** dan **kekuatan cinta keluarga**. 
 
 > "Nilai-nilai inilah yang membuat aku yakin bahwa impian haruslah menyala dengan apa pun yang kita miliki, meskipun yang kita miliki tidak sempurna, meskipun itu retak-retak." (Hlm. 21)
 
 Tema ini tidak dihadirkan secara abstrak, melainkan dioperasionalkan melalui perilaku nyata para tokohnya:
 1.  **Pendidikan sebagai Tangga Sosial**: Tokoh "Aku" secara konsisten menunjukkan bahwa prestasi akademis (ranking sekolah, kuliah di IPB, hingga karir global) adalah satu-satunya jalan keluar logis untuk memutus rantai kemiskinan turun-temurun keluarganya.
-2.  **Kekuatan Cinta Keluarga**: Pengorbanan tanpa pamrih (Bapak menyetir angkot tanpa mengeluh, Ibu membagi porsi nasi yang terbatas, Mbak Isa melepas kesempatan kuliah demi adiknya) menjadi bahan bakar emosional yang melahirkan determinasi tokoh utama.
+2.  **Kekuatan Cinta Keluarga**: Pengorbanan tanpa pamrih (Bapak menyetir angkot tanpa mengeluh, Ibu membagi porsi nasi yang terbatas, Mbak Isa melepas kesempatan kuliah demi adiknya) menjadi dorongan emosional yang melahirkan tekad tokoh utama.
 
 ---
 
