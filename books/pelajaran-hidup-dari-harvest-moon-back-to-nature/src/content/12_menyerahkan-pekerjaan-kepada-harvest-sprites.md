@@ -1,59 +1,45 @@
 ## Menyerahkan Pekerjaan kepada Harvest Sprites
 
-Bayangkan kamu membayar penolong, lalu melihatnya mengerjakan satu dua tugas ringan dan menghabiskan sisa hari dengan berjemur.
+Upahnya sudah kamu siapkan, tetapi Harvest Sprite yang baru kamu sewa hanya mengerjakan beberapa tugas ringan, lalu menghabiskan sisa hari dengan berjemur.
 
-Itulah kesan pertama yang digambarkan panduan tentang Harvest Sprites. Mereka disebut panduan resmi Prima sebagai sahabat terbaik petani, karena mereka bisa mengambil alih pekerjaan harian. Namun pada awalnya, bantuan mereka belum terasa banyak menolong. Di situlah letak pelajaran bab ini: menyerahkan pekerjaan itu mahal di awal, menguntungkan belakangan, dan tidak pernah lepas dari kewajiban merawat orang yang membantu.
+Pemandangan itu menjengkelkan, apalagi kalau kamu sendiri sudah lelah. Tanaman yang belum mereka sentuh tetap harus kamu siram dengan tanganmu sendiri, dan godaan untuk berhenti menyewa mereka datang dengan cepat. Padahal panduan resmi Prima menyebut para Sprites sebagai sahabat terbaik petani. Bab ini tentang jarak antara kesan pertama itu dan bantuan yang baru terasa belakangan.
 
 ### Tujuh Penolong di Balik Gereja
 
-Ada tujuh Harvest Sprites, dan rumah mereka berada di belakang gereja desa. Untuk mempekerjakan mereka, tokoh kita cukup datang dan mengajak bicara. Mereka akan menanyakan jenis pekerjaan yang kamu butuhkan: mengurus hewan, menyiram tanaman, atau memanen. Setelah itu kamu memilih lamanya kerja, yaitu satu hari, tiga hari, atau seminggu penuh.
+Ada tujuh Harvest Sprites, dan rumah mereka berada di belakang gereja desa. Kamu cukup datang dan mengajak salah satunya bicara. Ia akan bertanya pekerjaan apa yang kamu butuhkan: mengurus hewan, menyiram tanaman, atau memanen. Lalu kamu memilih lamanya, satu hari, tiga hari, atau seminggu penuh.
 
-Panduan resmi memberi catatan yang menarik di sini. Kontrak seminggu memang praktis, tetapi memesan mereka satu hari demi satu hari memberi kamu kendali lebih besar atas apa yang dikerjakan setiap hari. Pilihan ini sudah mengandung dilema pendelegasian yang akrab: makin lama kamu melepas pekerjaan, makin sedikit kamu bisa mengaturnya.
+Pilihan terakhir itu terlihat sepele, padahal di situ sudah ada dilema yang dikenal setiap orang yang pernah mendelegasikan. Kontrak seminggu memang praktis. Memesan mereka hari demi hari memberi kendali lebih besar, karena kamu bisa menentukan sendiri apa yang dikerjakan setiap hari. Makin lama pekerjaan dilepas, makin sedikit yang bisa kamu atur.
 
-Panduan juga menyarankan agar kerja sama dimulai sejak awal, ketika ladang masih kecil. Alasannya sederhana: mereka butuh waktu untuk menjadi cakap, dan lebih baik waktu itu dipakai sebelum ladang tumbuh besar dan pekerjaan menumpuk.
+Waktu terbaik untuk mulai justru ketika ladang masih kecil. Para Sprites butuh waktu untuk menjadi cakap, dan waktu itu lebih baik dilalui sebelum ladang tumbuh besar dan pekerjaan menumpuk.
 
-### Hari-Hari Berjemur di Ladang
+### Sekantong Tepung Setiap Hari
 
-Hari pertama bersama Harvest Sprites jarang mengesankan. Menurut panduan, mereka belum terbiasa dengan pekerjaan ladang dan hanya bekerja sebentar sebelum berhenti. Mereka menyelesaikan beberapa tugas sederhana, "then spend the rest of the day sunning themselves," tulis panduan resmi Prima.
+Para Sprites tidak bekerja gratis. Setiap hari kerja dibayar dengan sesuatu yang mereka sukai, dan pilihan terbaiknya adalah sekantong *Flour* (tepung) seharga 50 G dari Supermarket. Upah itu bukan basa-basi. Rasa sayang mereka sedikit terkikis setiap hari mereka bekerja, dan tanpa bayaran, rasa sayang serta semangat kerja mereka ikut turun.
 
-Bagi petani muda yang sudah lelah, pemandangan itu bisa menjengkelkan. Kamu sudah membayar, tetapi tanaman yang belum mereka sentuh tetap harus kamu siram sendiri. Godaan untuk berhenti mempekerjakan mereka wajar muncul. Rasanya lebih cepat mengerjakan semuanya sendiri.
+Kalau mereka terus bekerja dan rutin dibayar, arahnya berbalik. Rasa sayang mereka tumbuh dan pekerjaan mereka membaik. Panduan tidak menyebut latihan khusus; para Sprites makin terampil seiring bekerja. Setelah hati mereka penuh, tepung bisa diganti dengan telur.
 
-Kalau dipikir-pikir, perasaan ini mirip dengan saat pertama kali menyerahkan tugas kepada rekan baru di kantor atau adik di rumah. Hasilnya belum rapi, waktunya lebih lama, dan kamu masih harus memeriksa ulang. Di titik ini, mudah sekali menyimpulkan bahwa mendelegasikan itu tidak ada gunanya.
-
-### Upah Kecil yang Tidak Boleh Lupa
-
-Harvest Sprites tidak bekerja gratis. Panduan meminta kamu membayar mereka untuk setiap hari kerja, dengan sesuatu yang mereka sukai. Pilihan terbaiknya sekantong *Flour* (tepung), seharga 50 G di Supermarket. Panduan juga mencatat bahwa rasa sayang mereka sedikit berkurang setiap hari mereka bekerja, dan tanpa bayaran, rasa sayang serta semangat kerja mereka akan menurun.
-
-Sebaliknya, kalau mereka terus bekerja dan rutin dibayar, rasa sayang mereka tumbuh dan pekerjaan mereka makin baik. Panduan tidak menyebut tindakan latihan khusus. Para Sprites makin terampil seiring bekerja. Setelah hati mereka penuh, upahnya bisa diganti dengan telur, bukan tepung lagi.
-
-Hasilnya baru terasa belakangan. Satu atau dua Sprites yang ditugasi menyiram, menurut panduan, lama-lama sanggup menyiram seluruh tanaman sendiri. Panduan bahkan menyebut bahwa setelah cukup lama bekerja, mereka bisa menangani sebagian besar pekerjaan harian tanpa bantuanmu, sehingga ada waktu untuk kegiatan lain. Mereka juga bisa memanen petak tengah yang terkurung tanaman lain, yang tidak bisa kamu jangkau sendiri. Seperti dibahas di bab 8, mereka pula yang menembus badai untuk memberi makan hewanmu.
-
-### Waktu yang Dibeli dengan Uang
-
-Di dunia nyata, gagasan "membayar orang lain agar punya waktu" pernah diteliti. Whillans dan rekan-rekannya ([Whillans dkk., 2017](https://doi.org/10.1073/pnas.1706541114)) menyurvei lebih dari 6.000 orang di Amerika Serikat, Kanada, Denmark, dan Belanda. Dalam survei itu, orang yang mengeluarkan uang untuk membeli waktu, misalnya membayar orang lain mengerjakan tugas rumah tangga, dikaitkan dengan kepuasan hidup yang lebih tinggi. Karena berupa survei, temuan ini menunjukkan hubungan, bukan sebab-akibat.
-
-Mereka juga menjalankan eksperimen kecil dengan 60 orang dewasa yang bekerja di Vancouver. Pada satu akhir pekan, peserta membelanjakan uang untuk sesuatu yang menghemat waktu, dan pada akhir pekan lain untuk barang. Dalam studi ini, peserta melaporkan suasana hati yang lebih positif dan tekanan waktu yang lebih rendah setelah pembelian yang menghemat waktu.
-
-Para peneliti juga menduga bahwa terlalu banyak membeli layanan penghemat waktu mungkin menggerus rasa kendali seseorang, karena ia mulai merasa tidak sanggup mengurus urusan sehari-hari sendiri, dan itu berpotensi menurunkan kesejahteraan. Dugaan ini mirip dengan pilihan kontrak di gim tadi: makin banyak yang diserahkan, makin sedikit yang kamu pegang.
+Hasilnya datang pelan-pelan. Satu atau dua Sprites yang ditugasi menyiram lama-lama sanggup membasahi seluruh tanaman sendirian. Setelah cukup lama bekerja, mereka menangani sebagian besar pekerjaan harian tanpa bantuanmu, sehingga harimu terbuka untuk kegiatan lain. Mereka bahkan bisa memanen petak tengah yang terkurung tanaman lain, petak yang tidak bisa kamu jangkau sendiri. Dan seperti di bab 8, merekalah yang menembus badai untuk memberi makan hewanmu.
 
 ### Lambat Dulu, Cepat Kemudian
 
-Artikel Harvard Business School Online tentang cara mendelegasikan ([Landry, 2020](https://online.hbs.edu/blog/post/how-to-delegate-effectively)) membahas sisi yang sering dilupakan. Menurut artikel itu, kalau orang yang menerima tugas membutuhkan pelatihan, sumber daya, atau kewenangan, manajerlah yang wajib menyediakannya. Artikel itu juga mengingatkan bahwa tugas yang bisa kamu selesaikan dalam 30 menit mungkin memakan waktu satu jam bagi orang yang baru pertama kali mengerjakannya. Seiring waktu, ketika ia makin mengenal tugasnya, pekerjaan akan selesai lebih cepat.
+Rasa rugi di hari-hari pertama itu bukan hanya milik petani di Mineral Village. Pernah menyerahkan tugas kepada rekan baru di kantor atau adik di rumah? Hasilnya belum rapi, waktunya lebih lama, dan kamu masih harus memeriksa ulang. Sebuah artikel Harvard Business School Online ([Landry, 2020](https://online.hbs.edu/blog/post/how-to-delegate-effectively)) memberi hitungan yang jujur: tugas yang kamu selesaikan dalam 30 menit bisa memakan satu jam bagi orang yang baru pertama kali mengerjakannya, lalu makin cepat seiring ia mengenal tugasnya.
 
-Polanya mirip dengan perjalanan bersama Harvest Sprites. Awalnya kamu rugi waktu dan tepung. Belakangan, waktu itu kembali kepadamu karena sebagian besar pekerjaan harian sudah mereka tangani. Bedanya, di dunia nyata kamu memang bisa melatih orang, sedangkan di gim kamu cukup sabar dan terus memberi mereka pekerjaan.
+Artikel itu juga menaruh beban di pundak pemberi tugas. Kalau penerima butuh pelatihan, sumber daya, atau kewenangan, manajerlah yang wajib menyediakannya. Gim dan kantor berbeda di titik ini. Di kantor kamu bisa melatih orang. Di Mineral Village kamu cukup sabar, terus memberi mereka pekerjaan, dan tidak lupa membayar.
 
-### Hari Libur dan Pesta Teh
+### Membeli Waktu, Menjaga Kendali
 
-Ada satu detail kecil yang mudah terlewat. Di musim semi, para Sprites mengadakan pesta teh, dan pesta itu hanya bisa terjadi kalau ketujuhnya ada di rumah. Artinya, kamu harus memberi mereka setidaknya satu hari libur. Tokoh kita bisa ikut datang membawa hadiah untuk masing-masing dari mereka, yang membutuhkan Large Rucksack, lalu pulang membawa Relax Tea Leaves.
+Membayar orang lain demi waktu luang ternyata pernah diteliti. [Whillans dan rekan-rekannya (2017)](https://doi.org/10.1073/pnas.1706541114) menyurvei lebih dari 6.000 orang di empat negara, dan mereka yang membeli waktu, misalnya membayar orang lain mengurus pekerjaan rumah tangga, melaporkan kepuasan hidup lebih tinggi. Karena berupa survei, itu baru keterkaitan, bukan sebab-akibat. Dalam eksperimen kecil dengan 60 orang dewasa yang bekerja di Vancouver, akhir pekan yang uangnya dipakai menghemat waktu meninggalkan suasana hati yang lebih positif dan tekanan waktu yang lebih rendah dibanding akhir pekan yang uangnya dibelikan barang.
 
-Kalau dipikir-pikir, orang yang membantu kita pun layak mendapat hari tanpa pekerjaan. Bahkan di musim dingin, ketika tidak ada tanaman, panduan tetap menyarankan untuk mempekerjakan mereka mengurus hewan sambil terus memperbaiki hubungan. Hubungan itu tidak berhenti dirawat hanya karena pekerjaannya sedang sepi.
+Para penelitinya sendiri memasang rem. Mereka menduga bahwa membeli terlalu banyak layanan penghemat waktu mungkin menggerus rasa kendali, karena orang mulai merasa tidak sanggup mengurus urusan sehari-harinya sendiri. Dugaan itu terdengar seperti pilihan kontrak di rumah para Sprites tadi: makin banyak yang kamu serahkan, makin sedikit yang kamu pegang.
+
+### Satu Hari Libur untuk Pesta Teh
+
+Di musim semi, para Sprites mengadakan pesta teh, dan pesta itu hanya terjadi kalau ketujuhnya ada di rumah. Artinya, sesibuk apa pun ladangmu, mereka perlu setidaknya satu hari libur. Kamu boleh ikut datang membawa hadiah untuk masing-masing, asal punya Large Rucksack, dan pulang membawa Relax Tea Leaves.
+
+Hubungan dengan mereka juga tidak berhenti ketika ladang sepi. Di musim dingin, saat tidak ada tanaman, mereka masih bisa disewa untuk mengurus hewan sambil hubunganmu dengan mereka terus dirawat. Orang yang membantumu layak dibayar, layak beristirahat, dan layak diingat bahkan ketika pekerjaannya sedang sedikit.
 
 ### Catatan Akhir Bab
 
-- Harvest Sprites belum banyak membantu di awal, tetapi menurut panduan mereka makin terampil seiring bekerja dan rutin dibayar.
-- Kontrak harian memberi kendali lebih besar, kontrak panjang lebih praktis.
-- Whillans dkk. (2017) mengaitkan membeli waktu dengan kepuasan hidup yang lebih tinggi, dan menduga membeli terlalu banyak waktu mungkin menggerus rasa kendali.
-- Menurut artikel HBS Online, pekerjaan yang didelegasikan bisa lebih lambat di awal dan makin cepat seiring waktu, dan manajer perlu membekali penerimanya.
-- Para Sprites tetap perlu upah, dan mereka butuh satu hari libur agar pesta teh bisa terjadi.
+Harvest Sprites lambat di awal dan makin terampil seiring bekerja, asal rutin dibayar dan sesekali diberi libur. Kontrak harian memberi kendali, kontrak panjang memberi kepraktisan. Penelitian Whillans dkk. (2017) menambahkan dua sisi: membeli waktu berkaitan dengan hidup yang lebih memuaskan, tetapi terlalu banyak menyerahkan urusan mungkin menggerus rasa kendali.
 
-Pembagian kerja dengan para Sprites masih bisa diatur ulang, tetapi bab berikutnya membawa kita ke tambang, tempat setiap langkah turun tidak bisa didaki kembali.
+Pembagian kerja dengan para Sprites masih bisa diatur ulang. Lain halnya dengan tambang, tempat setiap langkah turun tidak bisa didaki kembali.

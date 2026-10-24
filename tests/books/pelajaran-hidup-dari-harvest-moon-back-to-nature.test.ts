@@ -28,6 +28,26 @@ function chapterMeta(md: string): string {
   return escapeHtml(meta).length > 160 ? formatSerpDescription(lead, 145) : meta;
 }
 
+// GEMINI.md section 29: sources are cooked into the author's voice, not served raw. These caps count the
+// scaffolds that made the first version read like a report (measured 2026-10-24).
+const VOICE_CAPS: { label: string; pattern: RegExp; max: (file: string) => number }[] = [
+  { label: "Kalau dipikir-pikir", pattern: /kalau dipikir-pikir/gi, max: () => 0 },
+  { label: "Menurut panduan", pattern: /menurut panduan/gi, max: () => 0 },
+  { label: "tulis panduan", pattern: /tulis panduan/gi, max: () => 0 },
+  { label: "mirip dengan", pattern: /mirip dengan/gi, max: () => 1 },
+  { label: "stock connector", pattern: /perhatikan|di situlah letak|menariknya|ada satu (detail|catatan)/gi, max: () => 0 },
+  { label: "bab berikutnya", pattern: /bab berikutnya/gi, max: () => 0 },
+  { label: "tokoh kita", pattern: /tokoh kita/gi, max: () => 2 },
+  { label: "panduan", pattern: /(?<![\p{L}])panduan(?![\p{L}])/giu, max: (f) => (f.startsWith("01_") ? 4 : 2) },
+];
+
+function voiceViolations(file: string, md: string): string[] {
+  return VOICE_CAPS.flatMap(({ label, pattern, max }) => {
+    const count = (md.match(pattern) ?? []).length;
+    return count > max(file) ? [`${label} x${count} (max ${max(file)})`] : [];
+  });
+}
+
 function metaOutOfRange(meta: string): boolean {
   return meta.length < META_MIN || meta.length > META_MAX;
 }
@@ -104,6 +124,36 @@ describe("book pelajaran-hidup-dari-harvest-moon-back-to-nature", () => {
       .map((f) => ({ f, meta: chapterMeta(fs.readFileSync(path.join(META_BOOK, "src/content", f), "utf-8")) }))
       .filter((m) => metaOutOfRange(m.meta))
       .map((m) => ({ f: m.f, length: m.meta.length }));
+    expect(bad).toEqual([]);
+  });
+
+  test("voice guard flags report-style scaffolds and passes cooked prose", () => {
+    const raw = "Kalau dipikir-pikir, panduan menyebut hal itu. Menurut panduan, tokoh kita lelah. Panduan juga mencatat tokoh kita tidur, dan tokoh kita bangun.";
+    expect(voiceViolations("05_x.md", raw)).toEqual([
+      "Kalau dipikir-pikir x1 (max 0)",
+      "Menurut panduan x1 (max 0)",
+      "tokoh kita x3 (max 2)",
+      "panduan x3 (max 2)",
+    ]);
+    const scaffolds = "Seperti tulis panduan itu, hasilnya mirip dengan ladang dan mirip dengan kandang. Perhatikan juga, menariknya, bab berikutnya.";
+    expect(voiceViolations("05_x.md", scaffolds)).toEqual([
+      "tulis panduan x1 (max 0)",
+      "mirip dengan x2 (max 1)",
+      "stock connector x2 (max 0)",
+      "bab berikutnya x1 (max 0)",
+    ]);
+    const cooked = "Si petani berhenti sebentar dan mengusap kening. Kamu tahu artinya: sudah waktunya istirahat, bukan menebas satu tunggul lagi.";
+    expect(voiceViolations("05_x.md", cooked)).toEqual([]);
+    expect(voiceViolations("01_x.md", "panduan panduan panduan panduan")).toEqual([]);
+    expect(voiceViolations("01_x.md", "panduan panduan panduan panduan panduan")).toEqual(["panduan x5 (max 4)"]);
+  });
+
+  test("no content chapter exceeds the GEMINI.md section 29 scaffold caps", () => {
+    const files = contentFiles(META_BOOK).filter((f) => f !== "14_referensi.md");
+    expect(files.length).toBe(13);
+    const bad = files
+      .map((f) => ({ f, issues: voiceViolations(f, fs.readFileSync(path.join(META_BOOK, "src/content", f), "utf-8")) }))
+      .filter((v) => v.issues.length > 0);
     expect(bad).toEqual([]);
   });
 
