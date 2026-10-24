@@ -28,11 +28,11 @@ Sepanjang sejarah peradaban dan struktur sosial, laki-laki hampir selalu ditempa
 
 > Ketika seseorang diposisikan sebagai objek atau "Sang Liyan", agensi mereka perlahan luntur. Kebebasan untuk merumuskan tujuan hidup sendiri kerap kali terampas oleh ekspektasi publik yang telah membeku menjadi norma.
 
-### 3. Imans vs. Transendensi
+### 3. Imanensi vs. Transendensi
 
 Beauvoir menggunakan dua istilah kunci untuk menjelaskan kondisi manusia:
 
-1. **Imans (Immanence)** merupakan kondisi saat seseorang terjebak dalam siklus repetisi tanpa akhir, seperti rutinitas domestik yang hanya bertujuan memelihara kelangsungan fisik tanpa ada penciptaan makna baru. Dari sudut pandang eksistensial, kondisi ini membatasi potensi diri.
+1. **Imanensi (Immanence)** merupakan kondisi saat seseorang terjebak dalam siklus repetisi tanpa akhir, seperti rutinitas domestik yang hanya bertujuan memelihara kelangsungan fisik tanpa ada penciptaan makna baru. Dari sudut pandang eksistensial, kondisi ini membatasi potensi diri.
 2. **Transendensi (Transcendence)** adalah kebalikannya, yaitu kemampuan kita untuk melampaui batas-batas diri, meluncurkan proyek kreatif yang berdampak, dan aktif menulis masa depan kita sendiri.
 
 Dalam masyarakat patriarki tradisional, laki-laki diberikan akses luas untuk menggapai transendensi, sedangkan perempuan kerap dibatasi dalam ruang imans. Hal ini menantang kita untuk merenungkan kembali apakah pilihan karier atau jalan hidup yang kamu ambil saat ini benar-benar lahir dari keinginan murnimu, atau justru sekadar upaya kompromi agar tidak dipandang asing oleh lingkungan sekitar.
@@ -49,7 +49,7 @@ Bagaimana seorang perempuan (atau individu mana pun yang terbelenggu konstruksi 
 
 Mari kita lihat bagaimana teori ini bekerja dalam praktik sehari-hari:
 
-**Pilihan Karier vs. Ekspektasi Keluarga** Sinta adalah seorang insinyur mesin yang berbakat (Transendensi). Namun, keluarganya terus menekankan bahwa ia harus segera menikah dan berhenti bekerja lembur karena "perempuan seharusnya di rumah menjaga keharmonisan" (Imans).
+**Pilihan Karier vs. Ekspektasi Keluarga** Sinta adalah seorang insinyur mesin yang berbakat (Transendensi). Namun, keluarganya terus menekankan bahwa ia harus segera menikah dan berhenti bekerja lembur karena "perempuan seharusnya di rumah menjaga keharmonisan" (Imanensi).
 
 Dalam sudut pandang Beauvoir, andai Sinta menyerah pada tekanan keluarga hanya demi mematuhi apa yang ia yakini sebagai "kodrat perempuan," ia sesungguhnya sedang terjebak dalam *Bad Faith* atau keyakinan buruk.
 
