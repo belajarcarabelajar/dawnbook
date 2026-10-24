@@ -33,7 +33,7 @@ Williams dan Nida juga membagi pengalaman dikucilkan ke dalam tiga tahap:
 2. **Tahap menimbang (reflektif).** Tahap tempat orang mengatasi pengalaman itu, atau *coping*.
 3. **Tahap jangka panjang (pasrah).** Pengucilan yang berlangsung lama dapat bergeser ke sini.
 
-Ada satu temuan yang penting. Siapa yang mengucilkan dan apa alasannya hanya sedikit berpengaruh pada rasa sakit di tahap segera. Siapa dan mengapa baru lebih berperan di tahap menimbang. Jadi wajar kalau kamu tetap merasa perih walaupun kamu tahu dia punya alasan yang masuk akal.
+Siapa yang mengucilkan dan apa alasannya hanya sedikit berpengaruh pada rasa sakit di tahap segera. Siapa dan mengapa baru lebih berperan di tahap menimbang. Jadi wajar kalau kamu tetap merasa perih walaupun kamu tahu dia punya alasan yang masuk akal.
 
 Bagaimana dengan tahap ketiga? Dalam tulisan sebelumnya, [Williams (2009)](https://doi.org/10.1016/S0065-2601(08)00406-1) menulis bahwa paparan pengucilan yang berkepanjangan pada akhirnya mengarah pada rasa pasrah, keterasingan, ketidakberdayaan, dan depresi. Ini bukan ramalan untuk setiap orang yang pernah ditolak, melainkan catatan bahwa diabaikan terus-menerus dalam waktu lama bukan perkara kecil.
 
@@ -73,10 +73,8 @@ Langkah-langkah ini bukan resep yang menjamin rasa sakit hilang dalam waktu tert
 
 ### Recap
 
-- Dalam permainan lempar bola virtual, *anterior cingulate cortex* lebih aktif saat peserta dikucilkan, dan aktivitasnya sejalan dengan rasa tertekan yang dilaporkan.
 - Menurut Williams dan Nida, pada tahap awal pengucilan mengancam empat kebutuhan, yaitu rasa memiliki, harga diri, kendali, dan keberadaan yang bermakna.
 - Tahapnya ada tiga, yaitu segera, menimbang, dan jangka panjang. Konteks lebih berperan di tahap menimbang, dan paparan yang berkepanjangan dapat mengarah pada rasa pasrah, walau itu bukan ramalan untuk setiap orang.
-- Banyak pihak yang berharap mengingat emosi yang campur aduk, yakin ketertarikan itu timbal balik, dan melihat penolak sebagai sosok yang tidak konsisten dan misterius.
 - Menghormati pilihannya, mundur ketika balasan berhenti, serta membangun lagi rasa memiliki dan harga diri di tempat lain adalah langkah yang bisa kamu ambil.
 
-Perasaan seperti ini tidak hanya muncul di usia dewasa. Di bab berikutnya, kita memutar waktu ke masa seragam sekolah, ketika naksir seseorang bisa terasa seperti seluruh dunia, lalu melihat apa kata penelitian tentang hubungan romantis remaja dan kedewasaan emosi.
+Perasaan seperti ini tidak hanya muncul di usia dewasa. Kadang ia sudah hadir di masa seragam sekolah, ketika naksir seseorang bisa terasa seperti seluruh dunia.

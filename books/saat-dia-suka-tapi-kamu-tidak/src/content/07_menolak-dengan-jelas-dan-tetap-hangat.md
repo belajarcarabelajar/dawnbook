@@ -28,7 +28,7 @@ Penelitian itu tidak mengukur apakah jawaban samar membuat orang terus mendekat.
 
 ### Prinsip Penolakan yang Baik Hati
 
-Menurut panduan di [Verywell Mind](https://www.verywellmind.com/how-to-reject-someone-nicely-8648281) yang ditinjau seorang konselor, menolak dengan baik punya beberapa pegangan:
+Panduan di [Verywell Mind](https://www.verywellmind.com/how-to-reject-someone-nicely-8648281), yang ditinjau seorang konselor, memberi beberapa pegangan untuk menolak dengan baik:
 
 - Bersikap baik sekaligus langsung ke inti.
 - Hindari harapan palsu, klise, dan "mungkin nanti", termasuk kalimat "bukan kamu, tapi aku".
@@ -50,7 +50,7 @@ Berikut beberapa contoh rekaan yang bisa kamu ubah sesuai gaya bicaramu. Semuany
 
 > Aku masih mau berteman kayak biasa, tapi untuk hubungan romantis, jawabanku tidak.
 
-Perhatikan bahwa tidak ada kalimat yang menjanjikan waktu lain. Bandingkan dengan contoh samar di atas, yang menunda jawaban dan bukan memberikannya.
+Tidak ada kalimat dalam contoh itu yang menjanjikan waktu lain. Bandingkan dengan contoh samar di atas, yang menunda jawaban dan bukan memberikannya.
 
 ### Desakan Setelah Kata Tidak
 
@@ -63,13 +63,12 @@ Ada kalanya penolakan yang sudah jelas tetap tidak dihormati. [Cupach dan Spitzb
 
 Dalam penelitian itu, perempuan menilai perilaku semacam ini lebih mengganggu dan mengancam dibanding laki-laki.
 
-Kalau orang itu terus mendesak setelah kamu bilang tidak, panduan Verywell Mind menyebut wajar untuk bersikap lebih tegas. Kamu juga boleh memblokirnya di berbagai platform bila perlu.
+Kalau orang itu terus mendesak setelah kamu bilang tidak, bersikap lebih tegas itu wajar, sesuai saran panduan Verywell Mind yang tadi disebut. Kamu juga boleh memblokirnya di berbagai platform bila perlu.
 
 ### Kesimpulan Bab
 
 - Teori dari Freedman dan rekan memprediksi bahwa penolakan yang jelas lebih menjaga kedua pihak dibanding pengucilan atau jawaban samar.
-- Jawaban samar berisiko dibaca sebagai "belum", bukan "tidak".
 - Penolakan yang baik itu singkat, jujur, berterima kasih, tanpa janji palsu, dan (saran buku ini) tawaran berteman hanya kalau kamu sungguh-sungguh.
 - Kalau desakan terus berlanjut setelah "tidak", kamu boleh lebih tegas dan memblokir.
 
-Lalu bagaimana dengan pilihan yang tidak memakai kata sama sekali? Sebagian orang memilih tidak membalas pesan dan membiarkan diam yang berbicara. Pilihan itu punya ceritanya sendiri, dan di bab 8 kita akan melihat apa yang terjadi ketika diam dijadikan jawaban.
+Lalu bagaimana dengan pilihan yang tidak memakai kata sama sekali? Sebagian orang memilih tidak membalas pesan dan membiarkan diam yang berbicara.

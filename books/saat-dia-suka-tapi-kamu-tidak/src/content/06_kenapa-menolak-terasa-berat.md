@@ -8,11 +8,11 @@ Kenyataannya jarang semulus itu. Bayangkan seorang teman sekelas yang mulai seri
 
 Di bab 1 kamu sudah berkenalan dengan penelitian [Baumeister dan rekan (1993)](https://doi.org/10.1037/0022-3514.64.3.377) yang mengumpulkan cerita dari dua sisi cinta yang tidak berbalas. Di bab ini kita memusatkan perhatian pada satu sisi saja, yaitu orang yang ditaksir tetapi tidak membalas.
 
-Menurut ringkasan penelitian itu, para penolak menggambarkan diri mereka tidak bersalah secara moral. Mereka tidak merasa telah berbuat jahat. Meski begitu, mereka tetap merasa bersalah karena telah menyakiti seseorang. Dua perasaan ini hidup berdampingan.
+Dalam ringkasan penelitian itu, para penolak menggambarkan diri mereka tidak bersalah secara moral. Mereka tidak merasa telah berbuat jahat. Meski begitu, mereka tetap merasa bersalah karena telah menyakiti seseorang. Dua perasaan ini hidup berdampingan.
 
 Ada temuan lain dari penelitian yang sama. Banyak penolak memandang usaha gigih dari pihak yang menyukai mereka sebagai sesuatu yang mengganggu dan menjengkelkan. Jadi, penolak bisa merasa bersalah dan terganggu pada waktu yang sama.
 
-Para penolak juga menyusun cerita versi mereka sendiri, semacam penjelasan tentang apa yang terjadi, yang disusun untuk mengurangi rasa bersalah. Judul makalah itu bahkan mencantumkan kata *scriptlessness*. Ringkasannya tidak menjelaskan maksud istilah itu, jadi kita cukup mencatat bahwa judulnya menyebutnya, tanpa menebak artinya.
+Para penolak juga menyusun cerita versi mereka sendiri, semacam penjelasan tentang apa yang terjadi, yang disusun untuk mengurangi rasa bersalah. Judul makalah itu mencantumkan kata *scriptlessness*. Ringkasannya tidak menjelaskan maksud istilah itu, jadi kita cukup mencatat bahwa judulnya menyebutnya, tanpa menebak artinya.
 
 Sisi yang lain, yaitu orang yang ditolak, punya ceritanya sendiri. Kita akan mendengarnya di bab 9.
 
@@ -24,9 +24,9 @@ Dalam dua studi, orang lajang menghadapi ajakan dari calon kencan yang tidak men
 
 Apa yang menjelaskan selisih itu? Sebagian dijelaskan oleh *other-focused motives* (motif yang berpusat pada orang lain). Peserta yang hanya membayangkan situasi itu memperkirakan dorongan untuk tidak menyakiti perasaan orang lain lebih kecil daripada dorongan yang benar-benar dirasakan peserta dalam situasi nyata. Kata "sebagian" di sini penting, karena itu bukan satu-satunya penjelasan.
 
-[Siaran pers ScienceDaily](https://www.sciencedaily.com/releases/2014/11/141121141234.htm) tentang penelitian ini, yang terbit 25 November 2014, merangkumnya dengan kutipan yang terasa akrab. Menurut siaran pers itu (terjemahan bebas), "ketika benar-benar berhadapan dengan calon kencan, kita tidak suka menolak seseorang dan membuatnya merasa tidak enak, dan hal itu belum tentu kita perkirakan ketika membayangkan membuat pilihan semacam ini."
+[Siaran pers ScienceDaily](https://www.sciencedaily.com/releases/2014/11/141121141234.htm) tentang penelitian ini, yang terbit 25 November 2014, merangkumnya dengan kutipan yang terasa akrab (terjemahan bebas): "ketika benar-benar berhadapan dengan calon kencan, kita tidak suka menolak seseorang dan membuatnya merasa tidak enak, dan hal itu belum tentu kita perkirakan ketika membayangkan membuat pilihan semacam ini."
 
-Menurut pandangan buku ini, rasa berat yang kamu rasakan bukan tanda kamu lemah. Rasa itu muncul antara lain karena kamu peduli pada perasaan orang lain.
+Buku ini tidak melihat rasa berat yang kamu rasakan sebagai tanda kamu lemah. Rasa itu muncul antara lain karena kamu peduli pada perasaan orang lain.
 
 ### Alasan Penolakan yang Disimpan
 
@@ -52,9 +52,8 @@ Peduli pada perasaan orang lain adalah hal baik. Yang perlu dijaga adalah agar k
 
 ### Yang Perlu Kamu Ingat
 
-- Menurut Baumeister dan rekan, penolak menggambarkan diri tidak bersalah secara moral, tetapi tetap merasa bersalah karena menyakiti, dan banyak yang memandang usaha gigih pihak lain sebagai gangguan.
+- Dalam penelitian Baumeister dan rekan, penolak menggambarkan diri tidak bersalah secara moral, tetapi tetap merasa bersalah karena menyakiti, dan banyak yang memandang usaha gigih pihak lain sebagai gangguan.
 - Joel dan rekan menemukan bahwa orang kurang bersedia menolak calon kencan yang tidak cocok ketika situasinya nyata, sebagian karena kepedulian pada perasaan orang lain.
 - Folkes menemukan bahwa penolak sering menyimpan alasannya dan memilih alasan yang impersonal, sementara alasan soal penampilan atau kepribadian lebih jarang diungkapkan.
-- Rasa bersalah saat menolak dilaporkan para penolak dalam penelitian itu, dan menurut buku ini tidak berarti kamu berbuat salah.
 
-Memahami kenapa menolak terasa berat baru separuh jalan. Separuh lainnya adalah cara menyampaikannya dengan baik, sehingga jawabanmu jelas tanpa kehilangan kehangatan. Itulah yang akan kita pelajari di bab 7.
+Memahami kenapa menolak terasa berat baru separuh jalan. Separuh lainnya adalah menyampaikannya dengan jelas tanpa kehilangan kehangatan.

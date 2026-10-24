@@ -8,21 +8,13 @@ Bab ini tidak langsung memberi jawaban. Tujuannya lebih sederhana: menunjukkan b
 
 ### Lima Bentuk Cinta Bertepuk Sebelah Tangan
 
-Istilah yang dipakai para peneliti adalah *unrequited love*, yaitu cinta yang tidak berbalas. Dalam penelitian [Bringle dan rekan (2013)](https://doi.org/10.1177/2158244013492160), istilah ini mencakup beberapa jenis pengalaman. Berikut jenisnya, beserta persentase peserta yang pernah mengalaminya setidaknya sekali:
+Istilah yang dipakai para peneliti adalah *unrequited love*, yaitu cinta yang tidak berbalas. Dalam penelitian [Bringle dan rekan (2013)](https://doi.org/10.1177/2158244013492160), istilah ini mencakup beberapa jenis pengalaman: naksir orang terkenal, misalnya seorang bintang, naksir seseorang yang ada di sekitar kita, mengejar seseorang, merindukan orang yang dulu pernah menjadi kekasih, dan cinta yang tidak setara (*unequal love*). Naksir seseorang di sekitar kita pernah dialami 63% peserta, sedangkan naksir orang terkenal 48%.
 
-- naksir orang terkenal, misalnya seorang bintang, 48%;
-- naksir seseorang yang ada di sekitar kita, 63%;
-- mengejar seseorang, 36%;
-- merindukan orang yang dulu pernah menjadi kekasih, 40%;
-- cinta yang tidak setara (*unequal love*), 57%.
-
-Daftar ini menarik karena memperlihatkan bahwa cinta tak berbalas tidak selalu berupa drama besar. Rasa naksir pada seorang bintang masuk ke dalamnya. Begitu juga rasa pada teman satu kelompok yang tidak pernah kamu ungkapkan. Semuanya punya satu kesamaan: perasaan itu tidak bertemu dengan perasaan yang sama dari pihak lain.
+Jenis-jenis ini menarik karena memperlihatkan bahwa cinta tak berbalas tidak selalu berupa drama besar. Rasa naksir pada seorang bintang masuk ke dalamnya. Begitu juga rasa pada teman satu kelompok yang tidak pernah kamu ungkapkan. Semuanya punya satu kesamaan: perasaan itu tidak bertemu dengan perasaan yang sama dari pihak lain.
 
 ### Seberapa Sering Cinta Tak Berbalas Terjadi
 
-Mari lihat angkanya lebih dekat. Penelitian pertama dalam laporan itu melibatkan 318 siswa sekolah menengah dan mahasiswa, berusia 14 sampai 63 tahun dengan rata-rata usia 21,1 tahun. Mereka ditanya tentang pengalaman dua tahun terakhir.
-
-Hasilnya, 88% pernah mengalami setidaknya satu jenis cinta yang tidak berbalas. Sebagai pembanding, 70% pernah mengalami cinta yang setara, yaitu saling suka. Para peneliti juga mencatat bahwa jumlah kejadian semua jenis cinta tak berbalas lebih dari empat kali lipat dibanding jumlah kejadian cinta yang setara. Laporan itu juga mencatat sekitar 1,91 kejadian dari semua jenis per tahun.
+Penelitian pertama dalam laporan itu melibatkan 318 siswa sekolah menengah dan mahasiswa, yang ditanya tentang pengalaman dua tahun terakhir. Hasilnya, 88% pernah mengalami setidaknya satu jenis cinta yang tidak berbalas, sementara cinta yang setara, yaitu saling suka, pernah dialami 70%.
 
 Penelitian kedua dalam laporan yang sama membandingkan rasanya. Dibanding cinta yang setara, cinta tak berbalas terasa kurang kuat pada aspek gairah, komitmen, dan aspek sejenisnya. Namun ada satu aspek yang justru lebih kuat, yaitu gejolak batin (*turmoil*). Jadi, dalam penelitian itu cinta tak berbalas tidak lebih kuat dalam segala hal, tetapi lebih bergejolak.
 
@@ -46,7 +38,7 @@ Apa yang dirasakan pihak yang menolak akan dibahas di bab 6 nanti. Cara menyampa
 
 ### Peta Perjalanan Buku Ini
 
-Buku ini ditulis terutama untuk kamu yang sedang disukai seseorang, tetapi tidak merasakan hal yang sama. Berikut gambaran singkat bab-bab berikutnya:
+Buku ini ditulis terutama untuk kamu yang sedang disukai seseorang, tetapi tidak merasakan hal yang sama. Berikut gambaran singkat isinya:
 
 - **Bab 2** membahas pertanyaan yang sebenarnya bukan pertanyaan, yaitu ketertarikan yang disampaikan secara tidak langsung.
 - **Bab 3** membedakan sikap ramah dari rasa tertarik.
@@ -64,10 +56,8 @@ Kamu boleh membaca berurutan atau langsung melompat ke bab yang paling dekat den
 
 ### Intisari
 
-- Cinta yang tidak berbalas mencakup banyak bentuk, dari naksir orang terkenal sampai merindukan mantan kekasih.
-- Dalam satu sampel pelajar, 88% pernah mengalaminya dalam dua tahun terakhir, sedangkan cinta yang setara dialami 70%.
+- Dalam satu sampel kemudahan berisi pelajar, 88% pernah mengalami cinta tak berbalas dalam dua tahun terakhir; bacalah angka itu sebagai petunjuk, bukan ukuran pasti.
 - Cinta tak berbalas terasa kurang kuat pada gairah dan komitmen, tetapi lebih kuat pada gejolak batin.
-- Angka itu datang dari sampel kemudahan dan dari sisi orang yang menyimpan rasa, jadi bacalah sebagai petunjuk, bukan ukuran pasti.
-- Menurut Baumeister dan rekan, situasi ini menekan kedua belah pihak, bukan hanya orang yang ditolak.
+- Baumeister dan rekan menggambarkan situasi ini sebagai pengalaman yang menekan kedua belah pihak, bukan hanya orang yang ditolak.
 
-Sebelum memikirkan cara menolak, ada langkah yang lebih awal: menyadari bahwa seseorang sedang tertarik padamu. Masalahnya, ketertarikan jarang datang dalam kalimat yang lugas. Bagaimana kamu bisa mengenalinya ketika ia datang dalam bentuk pertanyaan yang berputar-putar?
+Sebelum memikirkan cara menolak, kamu perlu lebih dulu menyadari bahwa seseorang sedang tertarik padamu. Bagaimana mengenalinya kalau ketertarikan itu datang sebagai pertanyaan yang berputar-putar?

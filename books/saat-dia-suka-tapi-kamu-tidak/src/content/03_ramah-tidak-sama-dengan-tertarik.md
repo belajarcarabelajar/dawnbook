@@ -18,13 +18,13 @@ Dari alat ukur itu dikenal lima gaya:
 
 ### Gerak-gerik Tiga Gaya di Obrolan Pertama
 
-Sebagian gaya itu juga tampak dalam perilaku. [Hall dan Xing (2015)](https://doi.org/10.1007/s10919-014-0199-8) mengamati 51 pasang orang asing, atau 102 orang, yang mengobrol selama 10 sampai 12 menit. Menurut ringkasan penelitian mereka:
+Sebagian gaya itu juga tampak dalam perilaku. [Hall dan Xing (2015)](https://doi.org/10.1007/s10919-014-0199-8) mengamati 51 pasang orang asing, atau 102 orang, yang mengobrol selama 10 sampai 12 menit. Dalam ringkasan penelitian mereka, polanya begini:
 
 - orang bergaya sopan menunjukkan perilaku yang lebih menahan diri dan menjaga jarak;
 - orang bergaya jenaka menunjukkan perilaku yang lebih jelas melibatkan lawan bicara dan lebih kentara menggoda;
 - orang bergaya tulus lebih banyak tersenyum dan lebih sedikit gelisah (*fidgeting*).
 
-Gambaran yang lebih hidup datang dari sebuah [rilis berita universitas](https://news.ku.edu/news/article/2013/09/11/new-book-outlines-five-types-flirting-styles) tahun 2013 tentang buku Hall. Menurut rilis itu, orang bergaya jenaka menikmati tebar pesona demi kesenangannya sendiri, bahkan ketika hubungan atau kencan singkat adalah hal terakhir di pikirannya. Orang bergaya sopan bisa butuh waktu sangat lama sampai pesannya tersampaikan. Orang bergaya fisik lebih mungkin mengira lawan bicaranya tertarik, padahal tidak. Sementara itu, orang bergaya tulus mencari kedekatan emosional.
+Gambaran yang lebih hidup datang dari sebuah [rilis berita universitas](https://news.ku.edu/news/article/2013/09/11/new-book-outlines-five-types-flirting-styles) tahun 2013 tentang buku Hall. Orang bergaya jenaka, misalnya, menikmati tebar pesona demi kesenangannya sendiri, bahkan ketika hubungan atau kencan singkat adalah hal terakhir di pikirannya. Orang bergaya sopan bisa butuh waktu sangat lama sampai pesannya tersampaikan. Orang bergaya fisik lebih mungkin mengira lawan bicaranya tertarik, padahal tidak. Sementara itu, orang bergaya tulus mencari kedekatan emosional.
 
 Coba bayangkan akibatnya. Candaan dari orang bergaya jenaka bisa terasa seperti rayuan, padahal mungkin dia hanya menikmati obrolan. Sebaliknya, orang bergaya sopan bisa saja sedang tertarik tanpa kamu sadari. Perilaku yang sama bisa membawa niat yang berbeda, tergantung siapa pelakunya.
 
@@ -65,8 +65,7 @@ Misalnya, seorang rekan kerja paruh waktu sering mengirim stiker lucu dan memuji
 ### Benang Merah
 
 - Ada lima gaya tebar pesona: fisik, tradisional, tulus, sopan, dan jenaka, dan beberapa di antaranya tampak dalam perilaku yang berbeda.
-- Menurut Henningsen, orang melakukan *flirting* karena enam motivasi, dan laki-laki serta perempuan cenderung membacanya dengan cara yang tidak sama.
 - Dalam satu penelitian laboratorium lama, penilai laki-laki menganggap lawan bicara perempuan lebih menggoda daripada penilaian perempuan, sehingga kemungkinan keramahan terbaca lebih jauh patut dipertimbangkan.
 - Ramah bukan janji, dan salah baca bisa terjadi dari dua arah.
 
-Sinyal tanpa kata memang mudah disalahpahami. Lalu bagaimana kalau ketertarikan itu sudah berubah menjadi kata-kata, misalnya pujian yang datang bertubi-tubi? Bab berikutnya membahas pujian, termasuk pujian yang justru membuat kamu canggung.
+Sinyal tanpa kata memang mudah disalahpahami. Lalu bagaimana kalau ketertarikan itu sudah berubah menjadi kata-kata, misalnya pujian yang datang bertubi-tubi?
