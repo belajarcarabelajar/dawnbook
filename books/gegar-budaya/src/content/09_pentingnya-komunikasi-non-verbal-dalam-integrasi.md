@@ -1,6 +1,6 @@
 ## Pentingnya Komunikasi Non-Verbal dalam Integrasi
 
-Pernahkah kamu merasa sangat bingung ketika seseorang mengangguk tetapi sebenarnya bermaksud mengatakan "tidak"? Atau mungkin kamu merasa tidak nyaman karena seseorang berdiri terlalu dekat dengan kamu saat berbicara? Selamat datang di dunia **komunikasi non-verbal**.
+Pernahkah kamu merasa bingung ketika seseorang mengangguk tetapi sebenarnya ia bermaksud mengatakan "tidak" kepadamu? Atau mungkin kamu merasa tidak nyaman karena seseorang berdiri terlalu dekat dengan kamu saat berbicara? Keduanya adalah contoh **komunikasi non-verbal**.
 
 Dalam proses integrasi budaya, kata-kata hanyalah puncak dari gunung es. Di bawah permukaan air, terdapat massa besar berupa bahasa tubuh, kontak mata, dan penggunaan ruang yang menentukan apakah kamu akan "tenggelam" atau "berenang" di lingkungan baru.
 
@@ -12,7 +12,7 @@ $$
 \text{Total Pesan} = 7 \text{\%} \text{ (Verbal)} + 38 \text{\%} \text{ (Vokal/Nada)} + 55 \text{\%} \text{ (Visual/Bahasa Tubuh)}
 $$
 
-> **Insight Penting:** Saat kamu berada di fase awal adaptasi budaya, kemampuan bahasa verbal kamu mungkin masih terbatas. Di sinilah komunikasi non-verbal menjadi "jembatan darurat" yang memungkinkan kamu membangun koneksi sebelum kamu mahir berbicara bahasa lokal.
+> **Insight Penting:** Saat kamu berada di fase awal adaptasi budaya, kemampuan bahasa verbal kamu mungkin masih terbatas. Pada saat itu, komunikasi non-verbal menjadi cara sementara untuk membangun koneksi sebelum kamu mahir berbicara bahasa lokal.
 
 ### 2\. Proksemik dan "Gelembung" Ruang Personal
 
@@ -43,7 +43,7 @@ Kontak mata (Okulesik) adalah salah satu aspek komunikasi non-verbal yang paling
 
 ### 5\. Kronemik dan Bahasa Waktu
 
-Waktu adalah pesan non-verbal yang sangat kuat. Bagaimana kamu memperlakukan waktu menentukan seberapa cepat kamu akan diterima di lingkungan profesional.
+Waktu adalah pesan non-verbal yang kuat. Bagaimana kamu memperlakukan waktu menentukan seberapa cepat kamu akan diterima di lingkungan profesional.
 
 - **Waktu Monokronik (Linear):** Di Jerman atau Swiss, "Waktu adalah uang". Datang terlambat 5 menit adalah penghinaan besar.
 - **Waktu Polikronik (Sirkular):** Di banyak budaya Afrika atau Amerika Latin, hubungan manusia lebih penting daripada jadwal. Rapat mungkin dimulai terlambat, tetapi tidak ada yang merasa stres karenanya.
@@ -53,7 +53,7 @@ Waktu adalah pesan non-verbal yang sangat kuat. Bagaimana kamu memperlakukan wak
 Bagaimana cara menerapkan pengetahuan ini secara praktis? Gunakan metode **"The Mirror and Observe" (Cermin dan Observasi)**:
 
 1. **Metode Observasi Diam:** Luangkan waktu 15 menit di kafe atau taman di negara baru. Jangan bermain ponsel. Amati bagaimana orang menyapa, berapa jarak antara mereka, dan seberapa banyak mereka menggerakkan tangan.
-2. **Mirroring (Penyelarasan):** Secara halus, tirulah bahasa tubuh lawan bicara kamu. Jika mereka berbicara dengan tenang dan tangan berada di bawah, jangan meledak-ledak dengan gerakan tangan yang lebar. Ini menciptakan rasa aman secara psikologis bagi penduduk lokal.
+2. **Mirroring (Penyelarasan):** Secara halus, tirulah bahasa tubuh lawan bicara kamu. Jika mereka berbicara dengan tenang dan tangan berada di bawah, jangan berbicara dengan gerakan tangan yang lebar. Ini menciptakan rasa aman secara psikologis bagi penduduk lokal.
 3. **Verifikasi Verbal:** Jika kamu ragu, gunakan kalimat terbuka: *"Saya menyadari di sini orang-orang cenderung \[X\], apakah saya melakukannya dengan benar?"*
 
 > **Pesan Utama:** Integrasi tidak membuatmu kehilangan jati diri, melainkan memperkaya "perbendaharaan kata" tubuh kamu. Memahami komunikasi non-verbal akan mengubah kamu dari seorang "orang asing yang aneh" menjadi "orang asing yang peka dan menghormati".

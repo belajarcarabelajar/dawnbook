@@ -1,6 +1,6 @@
 ## Tahap Krisis atau Penolakan (The Crisis Phase)
 
-Setelah euforia di Fase Bulan Madu perlahan memudar, kamu akan memasuki wilayah yang lebih menantang: **Tahap Krisis**. Jika Fase Bulan Madu adalah tentang "melihat pemandangan", maka Fase Krisis adalah tentang "mencoba hidup di dalamnya." Di sinilah realitas mulai terasa menggigit, dan perbedaan budaya yang dulunya tampak eksotis kini mulai terasa membebani.
+Setelah euforia di Fase Bulan Madu perlahan memudar, kamu akan memasuki wilayah yang lebih menantang: **Tahap Krisis**. Jika Fase Bulan Madu adalah tentang "melihat pemandangan", maka Fase Krisis adalah tentang "mencoba hidup di dalamnya." Di fase ini, urusan sehari-hari mulai terasa sulit, dan perbedaan budaya yang dulunya tampak eksotis kini mulai terasa membebani.
 
 ## 1. Mengapa Krisis Terjadi?
 
@@ -12,11 +12,11 @@ Dalam psikologi, hal ini sering dikaitkan dengan hilangnya **isyarat-isyarat akr
 
 ### Sepatu Baru yang Sempit
 
-Mencoba budaya baru di fase ini seperti memakai sepatu baru yang sangat cantik (Fase Bulan Madu). Awalnya kamu bangga memakainya. Namun, setelah berjalan beberapa kilometer, sepatu itu mulai membuat kaki lecet. Kamu mulai merasa perih, tidak nyaman, dan ingin sekali melepasnya untuk kembali memakai sandal jepit lama yang sudah usang namun nyaman di rumah.
+Mencoba budaya baru di fase ini seperti memakai sepatu baru yang cantik (Fase Bulan Madu). Awalnya kamu bangga memakainya. Namun, setelah berjalan beberapa kilometer, sepatu itu mulai membuat kaki lecet. Kamu mulai merasa perih, tidak nyaman, dan ingin sekali melepasnya untuk kembali memakai sandal jepit lama yang sudah usang namun nyaman di rumah.
 
 ## 2. Frustrasi, Kebingungan, dan Homesickness
 
-Fase ini ditandai dengan tiga pilar emosional yang sering kali muncul secara bersamaan:
+Fase ini ditandai dengan tiga reaksi emosional yang sering kali muncul secara bersamaan:
 
 ### A. Frustrasi (The "Why Can't They Just...?" Moment)
 
@@ -35,7 +35,7 @@ Kamu mulai merasa lelah secara mental karena harus memikirkan hal-hal kecil yang
 
 ### C. Homesickness (Kerinduan Mendalam)
 
-Muncul keinginan kuat untuk pulang atau kembali ke zona nyaman. Di fase ini, kamu cenderung memuja-muja negara asal secara berlebihan (**idealization**) dan melupakan kekurangan-kekurangannya. Rumah tiba-tiba tampak seperti surga yang tanpa cela.
+Muncul keinginan kuat untuk pulang atau kembali ke zona nyaman. Di fase ini, kamu cenderung memuja-muja negara asal secara berlebihan (**idealization**) dan melupakan kekurangan-kekurangannya. Rumah tiba-tiba tampak tanpa cela.
 
 ## 3. Formula Tekanan Adaptasi
 
@@ -52,7 +52,7 @@ Di mana:
 - $C$ (Complexity/Kompleksitas): Kerumitan tugas sehari-hari di tempat baru.
 - $S$ (Support/Dukungan): Jaringan dukungan sosial dan mekanisme koping yang dimiliki.
 
-Jika perbedaan budaya ($D$) sangat besar, namun dukungan sosialmu ($S$) mendekati nol, maka ketegangan ($T$) akan meningkat secara eksponensial.
+Jika perbedaan budaya ($D$) sangat besar, namun dukungan sosialmu ($S$) mendekati nol, maka ketegangan ($T$) akan meningkat tajam.
 
 ## 4. "Hari Buruk di Berlin"
 
@@ -86,4 +86,4 @@ Jika kamu atau rekanmu sedang mengalami hal ini, langkah pertama adalah **kesada
 
 *Tanyakan pada diri sendiri: Apakah saya benar-benar membenci tempat ini, atau saya hanya merindukan kemudahan yang saya miliki di rumah?*
 
-> **Ringkasan Fase Krisis:** Tahap ini adalah "lembah" dalam kurva adaptasi. Meskipun menyakitkan, krisis adalah katalisator penting. Tanpa gesekan yang terjadi di fase krisis, kamu tidak akan pernah terdorong untuk mempelajari norma baru secara mendalam. Di sinilah ketangguhan lintas budayamu ditempa.
+> **Ringkasan Fase Krisis:** Tahap ini adalah "lembah" dalam kurva adaptasi. Meskipun menyakitkan, krisis adalah katalisator penting. Tanpa gesekan yang terjadi di fase krisis, kamu tidak akan pernah terdorong untuk mempelajari norma baru secara mendalam. Dari fase inilah ketangguhan lintas budayamu terbentuk.

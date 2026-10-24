@@ -2,11 +2,11 @@
 
 Pernahkah kamu membayangkan bahwa berpindah ke luar negeri atau daerah baru seperti mencoba menari di atas lantai yang licin? Tanpa latihan dan sepatu yang tepat, kamu akan sering terpeleset. Namun, dengan persiapan yang matang, kamu tidak hanya akan bertahan, tetapi juga bisa menikmati tarian tersebut.
 
-Mempersiapkan diri menghadapi gegar budaya (culture shock) bertujuan untuk memperkecil "guncangan" saat kamu mendarat, sebab tantangan itu pasti akan selalu ada. Bagian ini akan membekali kamu dengan peta navigasi mental dan teknis sebelum kakimu melangkah di bandara tujuan.
+Mempersiapkan diri menghadapi gegar budaya (culture shock) bertujuan untuk memperkecil "guncangan" saat kamu mendarat, sebab tantangan itu pasti akan selalu ada. Bagian ini akan membekali kamu dengan persiapan mental dan teknis sebelum kakimu melangkah di bandara tujuan.
 
 ## 1. Persiapan Mental
 
-Persiapan mental adalah hal paling berharga yang bisa kamu lakukan. Gegar budaya sering kali dipicu oleh perbedaan antara **ekspektasi** dan **realitas**.
+Persiapan mental adalah hal penting yang bisa kamu lakukan. Gegar budaya sering kali dipicu oleh perbedaan antara **ekspektasi** dan **realitas**.
 
 ### Kelola Ekspektasi dengan Rumus Adaptasi
 
@@ -58,7 +58,7 @@ Bawalah barang-barang kecil yang memiliki keterikatan emosional kuat. Ini bisa b
 - Bumbu masak instan favorit.
 - Parfum atau sabun dengan aroma yang biasa kamu gunakan di rumah.
 
-*Penting:* Aroma adalah pemicu memori yang paling kuat. Saat kamu merasa sangat rindu rumah, mencium aroma yang familiar dapat menurunkan kadar kortisol (hormon stres) secara instan.
+*Penting:* Aroma adalah pemicu memori yang paling kuat. Saat kamu merasa rindu rumah, mencium aroma yang familiar dapat menurunkan kadar kortisol (hormon stres).
 
 ### Catatan Navigasi di Ponsel
 
@@ -76,7 +76,7 @@ Transisi yang mulus dimulai saat kamu mendarat. Kelelahan fisik karena perjalana
 
 **Tips Selama Perjalanan & Kedatangan:**
 
-- **Hidrasi Maksimal:** Dehidrasi di pesawat membuatmu lebih emosional dan mudah tersinggung.
+- **Cukup Minum:** Dehidrasi di pesawat membuatmu lebih emosional dan mudah tersinggung.
 - **Aturan Tidur Lokal:** Segera ikuti zona waktu tujuan. Jika mendarat jam 10 pagi, jangan tidur sampai malam hari. Ini adalah disiplin pertama dalam adaptasi.
 - **Eksplorasi Lingkungan Terdekat:** Dalam 24 jam pertama, berjalanlah keluar rumah/asrama dalam radius 500 meter. Cari toko kelontong terdekat. Merasa tahu di mana harus membeli air minum atau roti akan memberikan rasa kendali (sense of control).
 
@@ -84,7 +84,7 @@ Transisi yang mulus dimulai saat kamu mendarat. Kelelahan fisik karena perjalana
 
 **Kasus Andi, Mahasiswa yang Pindah ke Jerman**
 
-- **Sebelum Berangkat:** Andi tidak hanya belajar bahasa Jerman, tapi dia juga meriset cara memilah sampah di Jerman yang sangat ketat. Dia menonton video YouTube tentang "10 hal yang mengejutkan orang Indonesia di Jerman".
+- **Sebelum Berangkat:** Andi tidak hanya belajar bahasa Jerman, tapi dia juga meriset cara memilah sampah di Jerman yang ketat. Dia menonton video YouTube tentang "10 hal yang mengejutkan orang Indonesia di Jerman".
 - **Strategi Barang:** Andi membawa satu botol kecil kecap manis kegemarannya dan foto wisuda keluarga.
 - **Saat Tiba:** Alih-alih langsung tidur karena lelah, Andi pergi ke supermarket terdekat untuk melihat-lihat jenis roti yang tersedia. Hal kecil ini membuatnya merasa "menang" di hari pertama karena berhasil melakukan transaksi mandiri.
 
@@ -92,6 +92,6 @@ Transisi yang mulus dimulai saat kamu mendarat. Kelelahan fisik karena perjalana
 
 *Jika kamu harus pindah besok pagi ke negara yang bahasanya tidak kamu mengerti, apa satu benda yang akan membuatmu merasa paling tenang saat memegangnya?*
 
-Persiapan sebelum berangkat adalah tentang membangun jembatan. Semakin kokoh jembatan yang kamu bangun melalui riset dan kesiapan mental, semakin kecil kemungkinan kamu jatuh ke dalam jurang kebingungan saat menghadapi perbedaan budaya yang nyata.
+Semakin matang riset dan kesiapan mentalmu sebelum berangkat, semakin kecil kemungkinan kamu kebingungan saat menghadapi perbedaan budaya yang nyata.
 
 > **Ingat:** Tujuan persiapan ini bukan agar kamu tidak kaget, tetapi agar kamu memiliki alat untuk bangkit kembali saat rasa kaget itu muncul.

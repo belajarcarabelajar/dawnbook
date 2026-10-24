@@ -1,8 +1,8 @@
 ## Pengantar Gegar Budaya (Culture Shock)
 
-Selamat datang di langkah pertama perjalanan kamu memahami dinamika lintas budaya. Bayangkan kamu adalah seekor ikan yang sepanjang hidupnya berenang di air tawar yang tenang. Suatu hari, karena sebuah arus besar, kamu tiba-tiba berpindah ke air laut yang asin dan bergelombang. Kamu masih bisa berenang, tetapi "rasa" airnya berbeda, cara kamu mengapung berubah, dan makhluk di sekitar kamu tampak asing.
+Bayangkan kamu adalah seekor ikan yang sepanjang hidupnya berenang di air tawar yang tenang. Suatu hari, karena sebuah arus besar, kamu tiba-tiba berpindah ke air laut yang asin dan bergelombang. Kamu masih bisa berenang, tetapi "rasa" airnya berbeda, cara kamu mengapung berubah, dan makhluk di sekitar kamu tampak asing.
 
-Itulah esensi dari **Gegar Budaya** atau *Culture Shock*. Ini bukan cuma rasa rindu rumah (*homesickness*), melainkan sebuah proses psikologis mendalam saat navigasi mental kita tidak lagi berfungsi di lingkungan yang baru.
+Itulah esensi dari **Gegar Budaya** atau *Culture Shock*. Ini bukan cuma rasa rindu rumah (*homesickness*), melainkan sebuah proses psikologis saat navigasi mental kita tidak lagi berfungsi di lingkungan yang baru.
 
 ## Apa Itu Gegar Budaya? (Definisi Dasar)
 
@@ -20,11 +20,11 @@ Istilah *Culture Shock* pertama kali diperkenalkan oleh antropolog **Kalervo Obe
 
 - **Tahun 1950-an:** Oberg mengamati para diplomat dan pekerja bantuan internasional. Ia melihat bahwa mereka menunjukkan gejala fisik dan emosional yang nyata saat bertugas di luar negeri.
 - **Pergeseran Pandangan:** Awalnya dianggap sebagai gangguan mental negatif, namun seiring berjalannya waktu, para ahli psikologi mulai melihat gegar budaya sebagai **proses transisi yang sehat dan normal**.
-- **Pentingnya Hal Ini:** Pemahaman Oberg membuka mata dunia bahwa ketidaknyamanan di tempat baru bukanlah tanda kelemahan karakter, melainkan respons alami otak manusia terhadap ketidakpastian.
+- **Pentingnya Hal Ini:** Pemahaman Oberg menunjukkan bahwa ketidaknyamanan di tempat baru bukanlah tanda kelemahan karakter, melainkan respons alami otak manusia terhadap ketidakpastian.
 
 ## Mengapa Fenomena Ini Penting Bagi Kamu?
 
-Di era globalisasi saat ini, batas-batas negara menjadi semakin tipis. Memahami gegar budaya bukan lagi sekadar pengetahuan tambahan bagi turis, melainkan keterampilan penting bagi siapa pun yang ingin sukses di kancah internasional.
+Di era globalisasi saat ini, batas-batas negara menjadi semakin tipis. Memahami gegar budaya bukan lagi sekadar pengetahuan tambahan bagi turis, melainkan keterampilan penting bagi siapa pun yang ingin sukses di tingkat internasional.
 
 ### 1. Globalisasi dan Mobilitas Tinggi
 
@@ -66,7 +66,7 @@ Pernahkah kamu merasa tidak nyaman karena seseorang berdiri terlalu dekat atau b
 
 ## Rangkuman Awal
 
-Gegar budaya bukan cuma "kejutan" sesaat, melainkan sebuah perjalanan emosional. Ia dimulai dari hilangnya kenyamanan terhadap hal-hal familiar dan berakhir (idealnya) pada penemuan identitas baru yang lebih luas.
+Gegar budaya bukan cuma "kejutan" sesaat, melainkan sebuah proses emosional. Ia dimulai dari hilangnya kenyamanan terhadap hal-hal familiar dan berakhir (idealnya) pada penemuan identitas baru yang lebih luas.
 
 **Poin Penting untuk Diingat:**
 

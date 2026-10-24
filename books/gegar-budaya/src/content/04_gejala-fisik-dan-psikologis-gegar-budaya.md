@@ -1,8 +1,8 @@
 ## Gejala Fisik dan Psikologis Gegar Budaya
 
-Pernahkah kamu merasa sangat lelah setelah seharian berada di tempat baru, padahal kamu tidak melakukan aktivitas fisik yang berat? Atau mungkin kamu merasa tiba-tiba ingin marah hanya karena hal sepele seperti salah menekan tombol di mesin kopi?
+Pernahkah kamu merasa lelah setelah seharian berada di tempat baru, padahal kamu tidak melakukan aktivitas fisik yang berat? Atau mungkin kamu merasa tiba-tiba ingin marah hanya karena hal sepele seperti salah menekan tombol di mesin kopi?
 
-Gegar budaya lebih dari sekadar "perasaan asing". Ini adalah reaksi sistemik yang melibatkan pikiran dan tubuh kita saat mencoba memproses banjir informasi baru yang tidak dikenal. Bayangkan otak kamu seperti sebuah komputer yang mencoba menjalankan perangkat lunak (software) baru yang sangat berat; kipas pendingin akan berputar kencang, baterai cepat habis, dan terkadang sistem menjadi *lag* atau macet. Begitulah cara kerja gejala fisik dan psikologis saat kita mengalami gegar budaya.
+Gegar budaya lebih dari sekadar "perasaan asing". Ini adalah reaksi sistemik yang melibatkan pikiran dan tubuh kita saat mencoba memproses banyak informasi baru yang tidak dikenal. Bayangkan otak kamu seperti sebuah komputer yang mencoba menjalankan perangkat lunak (software) baru yang berat; kipas pendingin akan berputar kencang, baterai cepat habis, dan terkadang sistem menjadi *lag* atau macet. Begitulah cara kerja gejala fisik dan psikologis saat kita mengalami gegar budaya.
 
 ## 1. Gejala Psikologis
 
@@ -20,7 +20,7 @@ Hal-hal kecil yang biasanya tidak mengganggu kamu (seperti suara bising tetangga
 
 Muncul pikiran seperti, *"Tidak ada yang mengerti saya di sini,"* atau *"Saya tidak akan pernah bisa menyesuaikan diri."* Ini sering disertai dengan keinginan kuat untuk menarik diri dari lingkungan sosial dan menghabiskan waktu sendirian di kamar.
 
-> **Pesan Penting:** Reaksi emosional yang meluap-luap bukan tanda kelemahan karakter, melainkan tanda bahwa kapasitas kognitif kamu sedang bekerja di ambang batas maksimal.
+> **Pesan Penting:** Reaksi emosional yang kuat bukan tanda kelemahan karakter, melainkan tanda bahwa kapasitas kognitif kamu sedang bekerja mendekati batasnya.
 
 ## 2. Gejala Fisik
 
@@ -35,11 +35,11 @@ Gegar budaya mengganggu ritme sirkadian kita, bukan hanya karena perbedaan zona 
 
 ### Kelelahan Berlebih (Fatigue)
 
-Mendengarkan bahasa asing dan membaca isyarat sosial yang berbeda membutuhkan energi mental yang luar biasa. Akibatnya, kamu mungkin merasa lelah secara fisik seolah-olah baru saja berlari maraton, padahal kamu hanya pergi ke supermarket.
+Mendengarkan bahasa asing dan membaca isyarat sosial yang berbeda membutuhkan energi mental yang besar. Akibatnya, kamu mungkin merasa lelah secara fisik, padahal kamu hanya pergi ke supermarket.
 
 ### Perubahan Pola Makan
 
-Ini bisa bermanifestasi dalam dua cara ekstrem:
+Ini bisa bermanifestasi dalam dua cara:
 
 1. **Kehilangan Nafsu Makan:** Karena perut merasa tegang atau tidak cocok dengan aroma dan rasa makanan lokal.
 2. **Makan Berlebihan (Comfort Eating):** Mencari makanan dari negara asal secara kompulsif sebagai cara untuk mencari kenyamanan emosional.
@@ -84,7 +84,7 @@ Dalam kondisi itu, $E\_{\text{sisa}}$ menjadi negatif. Inilah titik di mana geja
 
 ## Kisah Budi di Jerman
 
-**Kisah Budi di Jerman** Budi baru pindah ke Berlin untuk bekerja. Pada bulan kedua, ia mulai sering mengalami sakit kepala hebat setiap sore. Ia juga merasa sangat marah ketika kasir supermarket menegurnya karena tidak menyusun belanjaan dengan cepat. Budi mengira ia sakit fisik, namun setelah berkonsultasi, ia menyadari bahwa ia mengalami gejala gegar budaya. Tubuhnya bereaksi terhadap stres karena terus-menerus harus menerjemahkan bahasa Jerman dan memahami etika antrean yang ketat.
+**Kisah Budi di Jerman** Budi baru pindah ke Berlin untuk bekerja. Pada bulan kedua, ia mulai sering mengalami sakit kepala hebat setiap sore. Ia juga merasa marah ketika kasir supermarket menegurnya karena tidak menyusun belanjaan dengan cepat. Budi mengira ia sakit fisik, namun setelah berkonsultasi, ia menyadari bahwa ia mengalami gejala gegar budaya. Tubuhnya bereaksi terhadap stres karena terus-menerus harus menerjemahkan bahasa Jerman dan memahami etika antrean yang ketat.
 
 **Apa yang dialami Budi?**
 
@@ -110,4 +110,4 @@ Jika kamu menjawab "Ya" pada sebagian besar pertanyaan di atas, kemungkinan besa
 | **Fisik** | Sakit kepala, gangguan pencernaan, insomnia, kelelahan kronis, alergi yang tiba-tiba muncul. |
 | **Perilaku** | Menarik diri dari pergaulan, makan berlebihan atau tidak mau makan, ketergantungan pada komunitas sesama perantau. |
 
-> **Insight:** Mengenali gejala-gejala ini adalah separuh dari perjuangan. Dengan mengetahui bahwa rasa lelah atau amarah kamu adalah bagian dari proses adaptasi yang normal, kamu dapat berhenti menyalahkan diri sendiri dan mulai memberikan ruang bagi tubuh kamu untuk beristirahat.
+> **Insight:** Mengenali gejala-gejala ini adalah langkah pertama. Dengan mengetahui bahwa rasa lelah atau amarah kamu adalah bagian dari proses adaptasi yang normal, kamu dapat berhenti menyalahkan diri sendiri dan mulai memberikan ruang bagi tubuh kamu untuk beristirahat.

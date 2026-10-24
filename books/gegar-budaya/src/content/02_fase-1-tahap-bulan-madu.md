@@ -1,12 +1,12 @@
 ## Tahap Bulan Madu (The Honeymoon Phase)
 
-Pernahkah kamu merasa begitu bersemangat saat pertama kali menginjakkan kaki di tempat baru sehingga segala sesuatunya tampak sempurna? Aroma udaranya terasa berbeda, arsitektur bangunannya terlihat menakjubkan, bahkan kemacetan jalannya terasa seperti "pengalaman autentik" yang menarik.
+Pernahkah kamu merasa begitu bersemangat saat pertama kali menginjakkan kaki di tempat baru sehingga segala sesuatunya tampak sempurna? Aroma udaranya terasa berbeda, arsitektur bangunannya terlihat indah, bahkan kemacetan jalannya terasa seperti "pengalaman autentik" yang menarik.
 
-Selamat datang di **Fase Bulan Madu**. Ini adalah babak pertama dari perjalanan panjang gegar budaya, di mana dunia baru terlihat melalui kacamata berwarna merah jambu (*rose-colored glasses*).
+Itulah **Fase Bulan Madu**, tahap pertama gegar budaya, saat lingkungan baru terlihat melalui kacamata berwarna merah jambu (*rose-colored glasses*).
 
 ## 1. Apa Itu Tahap Bulan Madu?
 
-Sesuai namanya, Tahap Bulan Madu adalah periode awal setelah seseorang tiba di lingkungan budaya yang baru. Pada fase ini, individu cenderung merasa sangat positif, antusias, dan penuh rasa ingin tahu. Segala perbedaan budaya yang ditemui dianggap sebagai sesuatu yang eksotis dan mempesona, bukan sebagai hambatan.
+Sesuai namanya, Tahap Bulan Madu adalah periode awal setelah seseorang tiba di lingkungan budaya yang baru. Pada fase ini, individu cenderung merasa positif, antusias, dan penuh rasa ingin tahu. Segala perbedaan budaya yang ditemui dianggap sebagai sesuatu yang eksotis dan mempesona, bukan sebagai hambatan.
 
 **Analogi:**
 
@@ -18,7 +18,7 @@ $$
 \text{Tingkat Kepuasan} = \frac{\text{Ekspektasi Tinggi} + \text{Stimulasi Baru}}{\text{Kesadaran Realitas}}
 $$
 
-Selama pembaginya (kesadaran akan realitas sehari-hari) masih rendah, maka tingkat kepuasan akan tetap melonjak tinggi.
+Selama pembaginya (kesadaran akan realitas sehari-hari) masih rendah, maka tingkat kepuasan akan tetap tinggi.
 
 ## 2. Karakteristik Utama Fase Bulan Madu
 
@@ -26,7 +26,7 @@ Untuk mengenali apakah kamu atau seseorang yang kamu kenal sedang berada dalam f
 
 - **Euforia yang Tinggi:** Perasaan senang yang meluap-luap karena berhasil mencapai tujuan (misalnya, akhirnya bisa kuliah di luar negeri atau memulai karier internasional).
 - **Fokus pada Kesamaan:** Kamu cenderung mencari kesamaan antara budaya asal dan budaya baru untuk merasa terhubung, sambil merayakan perbedaan sebagai "hiburan".
-- **Rasa Kagum yang Mendalam:** Hal-hal sederhana seperti label harga di supermarket, bentuk kursi di taman, atau cara orang lokal menyapa terasa sangat menarik untuk difoto dan diceritakan.
+- **Rasa Kagum:** Hal-hal sederhana seperti label harga di supermarket, bentuk kursi di taman, atau cara orang lokal menyapa terasa menarik untuk difoto dan diceritakan.
 - **Perasaan Seperti Turis:** Kamu merasa seperti sedang berlibur panjang. Karena kamu belum memiliki tanggung jawab sosial yang berat di tempat baru, tekanan hidup sehari-hari belum terasa membebani.
 
 *Pernahkah kamu merasa bahwa "semua orang di sini sangat ramah" saat baru tiba di suatu tempat, hanya untuk menyadari beberapa minggu kemudian bahwa keramahan tersebut memiliki konteks sosial yang berbeda?*
@@ -53,7 +53,7 @@ Dalam fase ini, Aris berada di puncak **Hipotesis Kurva U** (*U-Curve Hypothesis
 
 ## 5. Manfaat dan Risiko Fase Bulan Madu
 
-Meskipun terlihat sangat positif, fase ini memiliki dua sisi mata uang:
+Meskipun terlihat positif, fase ini memiliki dua sisi mata uang:
 
 | Manfaat | Risiko |
 | --- | --- |
@@ -67,7 +67,7 @@ Meskipun terlihat sangat positif, fase ini memiliki dua sisi mata uang:
 
 Agar fase ini menjadi fondasi yang kuat untuk tahap adaptasi selanjutnya, lakukan hal berikut:
 
-1. **Dokumentasikan Pengalaman:** Ambil foto dan tulis jurnal. Catatan positif ini akan menjadi pengingat yang sangat berharga saat kamu merasa rindu rumah (*homesickness*) di fase berikutnya.
+1. **Dokumentasikan Pengalaman:** Ambil foto dan tulis jurnal. Catatan positif ini akan menjadi pengingat yang berharga saat kamu merasa rindu rumah (*homesickness*) di fase berikutnya.
 2. **Mulai Belajar Dasar Bahasa:** Manfaatkan energi euforia ini untuk mempelajari frasa dasar. Energi ini akan memudahkanmu menyerap informasi baru.
 3. **Bangun Jaringan Sosial:** Mulailah mencari teman, baik sesama perantau maupun warga lokal, selagi rasa percaya dirimu sedang tinggi.
 

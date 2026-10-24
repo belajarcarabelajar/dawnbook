@@ -2,7 +2,7 @@
 
 Pernahkah kamu membayangkan bahwa pulang ke rumah sendiri bisa terasa lebih asing daripada saat kamu pertama kali menginjakkan kaki di negeri orang? Jika kamu merasa seperti orang asing di tanah kelahiran sendiri, tenanglah, kamu tidak sedang kehilangan akal. Kamu sedang mengalami **Gegar Budaya Balik** (*Reverse Culture Shock*).
 
-Sering kali, kita mempersiapkan mental secara habis-habisan saat akan pergi ke luar negeri, namun kita lupa menyiapkan mental untuk saat kembali. Fenomena ini sering kali lebih menyakitkan karena ia datang tanpa peringatan dan terjadi di tempat yang seharusnya kita rasa "paling aman".
+Sering kali, kita mempersiapkan mental dengan sungguh-sungguh saat akan pergi ke luar negeri, namun kita lupa menyiapkan mental untuk saat kembali. Fenomena ini sering kali lebih menyakitkan karena ia datang tanpa peringatan dan terjadi di tempat yang seharusnya kita rasa "paling aman".
 
 ## Apa Itu Gegar Budaya Balik?
 
@@ -34,7 +34,7 @@ Di mana:
 
 Jika gegar budaya saat berangkat mengikuti Kurva-U, maka pengalaman total seorang perantau biasanya membentuk **Kurva-W**. Gegar budaya balik adalah bagian kedua dari "lembah" dalam kurva tersebut.
 
-1. **Tahap Euforia (The Honeymoon):** Rasa senang luar biasa karena bisa makan makanan favorit lagi, bertemu keluarga, dan tidak perlu lagi berjuang dengan bahasa asing.
+1. **Tahap Euforia (The Honeymoon):** Rasa senang karena bisa makan makanan favorit lagi, bertemu keluarga, dan tidak perlu lagi berjuang dengan bahasa asing.
 2. **Tahap Frustrasi (The Distress):** Kamu mulai menyadari bahwa orang-orang tidak terlalu tertarik mendengar cerita perjalananmu. Kamu merasa standar hidup atau efisiensi di rumah lebih rendah dibanding tempat kamu merantau.
 3. **Tahap Penyesuaian Kembali (Readjustment):** Kamu mulai mengintegrasikan identitas "lama" dan "baru" kamu menjadi versi diri yang lebih global.
 
@@ -55,10 +55,10 @@ flowchart TD
 
 Gegar budaya balik tidak selalu berupa kesedihan; ia bisa muncul dalam berbagai bentuk:
 
-- **Kebosanan yang Luar Biasa:** Hidup di rumah terasa sangat rutin dan tidak menantang dibandingkan petualangan di luar negeri.
+- **Kebosanan:** Hidup di rumah terasa rutin dan tidak menantang dibandingkan pengalaman di luar negeri.
 - **Perasaan Terasing:** Merasa bahwa teman dan keluarga tidak lagi "nyambung" dengan pemikiranmu.
 - **"Reverse Homesickness":** Merasa rindu (kangen) pada negara tempat kamu merantau sebelumnya.
-- **Kritik Berlebih:** Menjadi sangat vokal terhadap kekurangan negara asal (misalnya: "Kalau di London, busnya tidak pernah terlambat seperti ini!").
+- **Kritik Berlebih:** Menjadi vokal terhadap kekurangan negara asal (misalnya: "Kalau di London, busnya tidak pernah terlambat seperti ini!").
 
 ## Sepatu Lama yang Kekecilan
 
@@ -76,7 +76,7 @@ Budi baru saja menyelesaikan S2 di Belanda selama 2 tahun. Di sana, ia terbiasa 
 
 ### Profesional Ekspatriat
 
-Sari bekerja di Jepang selama 5 tahun di mana ketepatan waktu adalah segalanya. Saat kembali ke Jakarta dan menghadapi kemacetan serta budaya "jam karet", ia mengalami stres fisik berupa sakit kepala setiap kali harus menghadiri rapat yang terlambat.
+Sari bekerja di Jepang selama 5 tahun di mana ketepatan waktu diutamakan. Saat kembali ke Jakarta dan menghadapi kemacetan serta budaya "jam karet", ia mengalami stres fisik berupa sakit kepala setiap kali harus menghadiri rapat yang terlambat.
 
 ## Strategi Menghadapi Gegar Budaya Balik
 

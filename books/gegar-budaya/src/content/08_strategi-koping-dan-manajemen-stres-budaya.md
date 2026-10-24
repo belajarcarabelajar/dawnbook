@@ -20,7 +20,7 @@ Di mana:
 - $R$: Resiliensi Pribadi (Resilience)
 - $S_p$: Dukungan Sosial (Social Support)
 
-**Penting:** Untuk menurunkan nilai $S$ (Stres), kamu tidak selalu bisa mengubah $P$ atau $D$, tetapi kamu memiliki kendali penuh untuk meningkatkan $R$ (Resiliensi) dan $S_p$ (Dukungan Sosial).
+**Penting:** Untuk menurunkan nilai $S$ (Stres), kamu tidak selalu bisa mengubah $P$ atau $D$, tetapi kamu bisa meningkatkan $R$ (Resiliensi) dan $S_p$ (Dukungan Sosial).
 
 ### 2. Strategi Koping Kognitif
 
@@ -35,7 +35,7 @@ Koping kognitif melibatkan perubahan cara kamu memproses informasi tentang buday
 
 ### 3. Strategi Emosional dan Resiliensi
 
-Menghadapi gegar budaya membutuhkan "otot emosional" yang kuat. Berikut adalah teknik praktis untuk menjaga kesehatan mental:
+Menghadapi gegar budaya membutuhkan ketahanan emosional. Berikut adalah teknik praktis untuk menjaga kesehatan mental:
 
 - **Penerimaan (Radical Acceptance):** Terimalah bahwa merasa bingung, sedih, atau marah adalah bagian normal dari proses. Jangan menekan emosi tersebut.
 - **Self-Compassion (Welas Asih Diri):** Berbicaralah pada diri sendiri seperti kamu berbicara pada sahabat yang sedang kesulitan.
@@ -54,7 +54,7 @@ Manusia adalah makhluk sosial. Di lingkungan baru, jaringan sosial adalah "banta
 
 #### Strategi Jaringan Tiga Lapis
 
-1. **Lapis Lokal (The Local Guides):** Berteman dengan penduduk asli. Mereka adalah pintu gerbang menuju pemahaman norma yang tak tertulis.
+1. **Lapis Lokal (The Local Guides):** Berteman dengan penduduk asli. Mereka bisa membantu kamu memahami norma yang tak tertulis.
 2. **Lapis Senasib (The Expat Community):** Orang-orang yang juga sedang beradaptasi. Mereka memberikan validasi bahwa perasaan kamu normal.
 3. **Lapis Akar (Home Connection):** Keluarga dan teman di negara asal. Mereka adalah pengingat identitas asli kamu, namun jangan sampai terlalu bergantung hingga menghambat sosialisasi lokal.
 
@@ -76,7 +76,7 @@ Stres budaya seringkali termanifestasi dalam gejala fisik. Untuk melawannya, bua
 
 **Kisah Sari di Tokyo**
 
-Sari adalah seorang profesional dari Indonesia yang pindah ke Tokyo. Pada bulan kedua, dia merasa sangat stres karena budaya kerja yang kaku dan merasa terisolasi secara sosial.
+Sari adalah seorang profesional dari Indonesia yang pindah ke Tokyo. Pada bulan kedua, dia merasa stres karena budaya kerja yang kaku dan merasa terisolasi secara sosial.
 
 **Langkah Koping yang Diambil Sari:**
 
@@ -85,7 +85,7 @@ Sari adalah seorang profesional dari Indonesia yang pindah ke Tokyo. Pada bulan 
 3. **Sosial:** Sari bergabung dengan kelas *Ikebana* (seni merangkai bunga). Di sana, dia bertemu penduduk lokal dalam suasana yang tidak formal, yang membantunya merasa lebih terintegrasi.
 4. **Fisik:** Dia menjaga "Jangkar" dengan selalu memasak satu menu masakan Indonesia setiap hari Minggu untuk menjaga koneksi emosional dengan rumah.
 
-**Hasilnya:** Dalam 4 bulan, tingkat stres akulturatif Sari menurun drastis, dan dia mulai menikmati dinamika hidup di Tokyo.
+**Hasilnya:** Dalam 4 bulan, tingkat stres akulturatif Sari menurun, dan dia mulai menikmati dinamika hidup di Tokyo.
 
 ### Ringkasan Strategi (Checklist)
 
