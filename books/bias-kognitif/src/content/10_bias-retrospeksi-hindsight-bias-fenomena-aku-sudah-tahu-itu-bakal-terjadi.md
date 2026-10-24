@@ -34,7 +34,7 @@ Kamu lupa bahwa saat kamu berada di titik tersebut, pandangan kamu terhalang kab
 
 ## Dampak dalam Pengambilan Keputusan
 
-Bias ini bisa sangat berbahaya dalam berbagai aspek kehidupan karena:
+Bias ini bisa berbahaya dalam berbagai aspek kehidupan karena:
 
 - **Menghambat Pembelajaran:** Jika kita merasa sudah tahu segalanya, kita tidak akan mengevaluasi mengapa keputusan awal kita mungkin salah.
 - **Menyalahkan Orang Lain (Blaming):** Kita sering menghakimi pembuat keputusan (pemimpin politik, dokter, atau manajer) karena hasil yang buruk, dengan asumsi bahwa mereka "seharusnya tahu" apa yang akan terjadi.

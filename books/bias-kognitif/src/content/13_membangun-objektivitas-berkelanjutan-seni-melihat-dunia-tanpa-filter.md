@@ -1,6 +1,6 @@
 ## Membangun Objektivitas Berkelanjutan
 
-Selamat! Kamu telah menelusuri lorong-lorong gelap pikiran manusia, mulai dari memahami akar heuristics hingga membongkar berbagai jebakan cognitive bias yang sering kali mengaburkan penilaian kita. Namun, mengetahui adanya bias hanyalah langkah pertama. Pengetahuan tanpa penerapan ibarat memiliki peta di tengah hutan tetapi tidak pernah melangkah untuk keluar.
+Kamu telah mempelajari akar heuristics dan berbagai jebakan cognitive bias yang sering kali mengaburkan penilaian kita. Namun, mengetahui adanya bias hanyalah langkah pertama. Pengetahuan tanpa penerapan ibarat memiliki peta di tengah hutan tetapi tidak pernah melangkah untuk keluar.
 
 Membangun objektivitas bukanlah sebuah tujuan akhir di mana kamu bisa berkata, "Sekarang saya 100% objektif." Objektivitas adalah sebuah **disiplin berkelanjutan**, sebuah proses kalibrasi ulang terus-menerus terhadap lensa yang kamu gunakan untuk melihat dunia.
 
@@ -14,7 +14,7 @@ Bayangkan pikiran kamu seperti sebuah lensa kamera. Seiring berjalannya waktu, d
 
 ### 2. Pilar Utama Objektivitas
 
-Untuk tetap objektif dalam jangka panjang, kamu memerlukan tiga pilar fundamental:
+Untuk tetap objektif dalam jangka panjang, kamu memerlukan tiga pegangan:
 
 #### A. Intellectual Humility
 
@@ -36,7 +36,7 @@ Artinya, keyakinan kamu saat ini ($P(\text{Keyakinan})$) harus selalu siap berge
 
 #### C. Radical Self-Transparency
 
-Kamu harus menjadi kritikus paling tajam bagi diri sendiri. Tanyakan: *"Apakah saya menginginkan hal ini menjadi benar, atau apakah ini memang benar?"*
+Kamu harus berani mengkritik diri sendiri. Tanyakan: *"Apakah saya menginginkan hal ini menjadi benar, atau apakah ini memang benar?"*
 
 ### 3. "Mental Gym" Harian
 
@@ -80,9 +80,9 @@ Pada contoh ini, satu bukti yang kuat menurunkan keyakinan dari 0,9 menjadi 0,26
 
 ### 5. Menjadi Pengamat yang Jernih
 
-Dunia tidak akan pernah berhenti mencoba membingungkan kamu dengan informasi yang bias, narasi yang memihak, dan manipulasi emosional. Namun, dengan memahami mekanisme kerja otak sendiri, kamu memiliki "baju zirah" mental.
+Informasi yang bias, narasi yang memihak, dan manipulasi emosional akan terus kamu temui. Namun, dengan memahami mekanisme kerja otak sendiri, kamu lebih siap menghadapinya.
 
-Membangun objektivitas bukanlah tentang menjadi robot tanpa perasaan. Ini tentang menjadi manusia yang lebih bijaksana, yang mampu melihat indahnya spektrum warna dunia tanpa harus terbutakan oleh satu warna saja.
+Membangun objektivitas bukanlah tentang menjadi robot tanpa perasaan. Ini tentang menjadi manusia yang lebih bijaksana, yang mampu melihat berbagai sudut pandang tanpa terpaku pada satu sudut pandang saja.
 
 **Langkah Terakhir Kamu:** Mulai hari ini, sadari setiap kali kamu merasa "paling benar". Jadikan perasaan itu sebagai alarm untuk berhenti sejenak, menarik napas, dan bertanya: *"Apa yang mungkin saya lewatkan?"*
 

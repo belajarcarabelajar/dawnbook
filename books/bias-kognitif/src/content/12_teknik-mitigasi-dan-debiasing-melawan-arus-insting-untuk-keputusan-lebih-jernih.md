@@ -20,7 +20,7 @@ Berikut adalah teknik yang bisa kamu terapkan secara mandiri saat dihadapkan pad
 
 ### A. Consider the Opposite (Pertimbangkan Kebalikannya)
 
-Ini adalah teknik paling sederhana namun sangat kuat untuk melawan **Confirmation Bias**.
+Ini adalah teknik paling sederhana namun kuat untuk melawan **Confirmation Bias**.
 
 - **Cara Kerja:** Setiap kali kamu yakin akan suatu hal, tanyakan pada diri sendiri: *"Sebutkan tiga alasan mengapa keyakinan saya ini mungkin salah?"* atau *"Jika data yang ada menunjukkan hasil sebaliknya, apa penjelasannya?"*
 - **Tujuan:** Memaksa otak mencari informasi yang bertentangan dengan hipotesis awal.
@@ -52,7 +52,7 @@ Dalam dunia medis dan penerbangan, checklist bukan hanya alat pengingat, tapi al
 Dalam organisasi, tunjuk satu orang atau kelompok kecil yang tugas utamanya adalah **menjadi penentang**.
 
 - Mereka bertugas mencari celah, mengkritik logika, dan menantang status quo.
-- Ini efektif untuk menghancurkan *Groupthink* (Pikiran Kelompok).
+- Ini efektif untuk melawan *Groupthink* (Pikiran Kelompok).
 
 ### C. Blind Spot Analysis (Analisis Titik Buta)
 

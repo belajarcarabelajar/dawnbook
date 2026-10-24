@@ -4,7 +4,7 @@ Pernahkah kamu merasa bahwa sebuah artikel berita seolah-olah "berbicara langsun
 
 Selamat, kamu baru saja mengalami **Bias Konfirmasi**.
 
-Bias konfirmasi adalah salah satu bias kognitif yang paling kuat dan meresap dalam kehidupan manusia. Ini adalah kecenderungan kita untuk mencari, menafsirkan, dan mengingat informasi dengan cara yang memperkuat keyakinan atau hipotesis awal kita, sambil mengabaikan informasi yang bertentangan dengannya.
+Bias konfirmasi adalah salah satu bias kognitif yang paling kuat. Ini adalah kecenderungan kita untuk mencari, menafsirkan, dan mengingat informasi dengan cara yang memperkuat keyakinan atau hipotesis awal kita, sambil mengabaikan informasi yang bertentangan dengannya.
 
 ## Tiga Pilar Bias Konfirmasi
 
@@ -34,7 +34,7 @@ Mengapa evolusi membiarkan kita memiliki "cacat" berpikir seperti ini?
 
 ## Bias Konfirmasi dalam Dunia Teknik & Data
 
-Dalam dunia rekayasa perangkat lunak atau sains data, bias konfirmasi bisa menjadi sangat berbahaya. Seorang pengembang mungkin menulis kode dan hanya menguji skenario yang mereka tahu akan berhasil (*Happy Path*), alih-alih mencoba mencari cara untuk merusaknya.
+Dalam dunia rekayasa perangkat lunak atau sains data, bias konfirmasi bisa berbahaya. Seorang pengembang mungkin menulis kode dan hanya menguji skenario yang mereka tahu akan berhasil (*Happy Path*), alih-alih mencoba mencari cara untuk merusaknya.
 
 ### Debugging yang Terbias
 
@@ -87,4 +87,4 @@ Meskipun kita tidak bisa menghapus bias ini sepenuhnya (karena ini adalah bagian
 - **Cari Diskonfirmasi:** Alih-alih mencari bukti yang mendukung, cobalah untuk membuktikan bahwa dirimu **salah**. Inilah dasar dari metode ilmiah.
 - **Perluas Sumber Informasi:** Ikuti orang-orang atau baca media yang memiliki sudut pandang berbeda denganmu secara sadar.
 
-> **Ingat:** Kekuatan pikiran yang sebenarnya tidak diukur dari seberapa banyak bukti yang kita kumpulkan untuk merasa benar, tetapi dari keberanian untuk mengakui bahwa kita bisa saja keliru.
+> **Ingat:** Pikiran yang matang tidak diukur dari seberapa banyak bukti yang kita kumpulkan untuk merasa benar, tetapi dari keberanian untuk mengakui bahwa kita bisa saja keliru.

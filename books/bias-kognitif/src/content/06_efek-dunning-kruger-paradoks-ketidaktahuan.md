@@ -2,7 +2,7 @@
 
 Pernahkah kamu bertemu orang yang baru mempelajari dasar-dasar investasi kripto atau strategi sepak bola, namun berbicara seolah ia ahli tingkat dunia? Atau sebaliknya, pernahkah kamu melihat seorang ahli yang sangat kompeten justru merasa bahwa kemampuan mereka "biasa-biasa saja"?
 
-Selamat datang di dunia **Dunning-Kruger Effect**, sebuah fenomena di mana semakin sedikit seseorang tahu tentang sesuatu, semakin besar kemungkinan mereka merasa sangat ahli di bidang tersebut.
+Inilah **Dunning-Kruger Effect**, sebuah fenomena di mana semakin sedikit seseorang tahu tentang sesuatu, semakin besar kemungkinan mereka merasa sangat ahli di bidang tersebut.
 
 ## 1\. Apa Itu Dunning-Kruger Effect?
 

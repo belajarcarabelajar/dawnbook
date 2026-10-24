@@ -98,7 +98,7 @@ Keuntungan bersihnya negatif, jadi proyek sebaiknya dihentikan. Rp100 juta yang 
 
 ### Dalam Bisnis
 
-Banyak perusahaan mempertahankan lini produk yang merugi karena mereka telah menghabiskan banyak uang untuk riset dan pengembangan (R&D). Perusahaan yang hebat adalah yang berani melakukan "Pivot" (berubah arah) meskipun harus membuang investasi awal.
+Banyak perusahaan mempertahankan lini produk yang merugi karena mereka telah menghabiskan banyak uang untuk riset dan pengembangan (R&D). Sebaliknya, ada perusahaan yang berani melakukan "Pivot" (berubah arah) meskipun harus membuang investasi awal.
 
 ### Dalam Hubungan Personal
 
