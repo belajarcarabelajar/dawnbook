@@ -1,6 +1,6 @@
 ## Tahap Adaptasi dan Penyesuaian (The Adjustment Phase)
 
-Setelah melewati badai emosional di tahap krisis dan mulai mendaki perlahan di tahap pemulihan, kamu akhirnya sampai pada sebuah dataran tinggi yang stabil: **Tahap Adaptasi dan Penyesuaian**. Jika tahap-tahap sebelumnya terasa seperti perjuangan untuk bertahan hidup, fase ini adalah momen ketika kamu mulai benar-benar "hidup" dan menikmati keberadaan kamu di lingkungan yang baru.
+Setelah melewati badai emosional di tahap krisis dan mulai mendaki perlahan di tahap pemulihan, kamu akhirnya sampai pada dataran tinggi yang stabil. Dataran itu bernama **Tahap Adaptasi dan Penyesuaian**. Jika tahap-tahap sebelumnya terasa seperti perjuangan untuk bertahan hidup, fase ini adalah momen ketika kamu mulai benar-benar "hidup" dan menikmati keberadaan kamu di lingkungan yang baru.
 
 Dalam fase ini, keanehan budaya lokal tidak lagi terasa mengancam atau menjengkelkan, melainkan menjadi bagian dari rutinitas yang dapat diprediksi.
 

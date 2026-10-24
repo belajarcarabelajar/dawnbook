@@ -1,6 +1,6 @@
 ## Mengapa Pengalaman Setiap Orang Berbeda?
 
-Pernahkah kamu bertanya-tanya mengapa ada orang yang tampak sangat mudah berbaur di negara baru, sementara yang lain merasa sangat tertekan hingga ingin segera pulang?
+Pernahkah kamu bertanya-tanya mengapa sebagian orang tampak sangat mudah berbaur di negara baru, sementara yang lain tertekan hingga ingin segera pulang?
 
 Gegar budaya bukan merupakan fenomena "satu ukuran untuk semua". Intensitas atau berat-ringannya guncangan yang dirasakan seseorang sangat bergantung pada interaksi berbagai variabel. Jika kita membayangkan proses adaptasi sebagai sebuah perjalanan melintasi laut, maka faktor-faktor ini adalah kombinasi antara kekuatan ombak (lingkungan), ketangguhan kapal (kepribadian), dan peta yang dibawa (persiapan).
 

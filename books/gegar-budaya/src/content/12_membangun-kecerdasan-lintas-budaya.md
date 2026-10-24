@@ -1,6 +1,6 @@
 ## Membangun Kecerdasan Lintas Budaya (Cultural Intelligence)
 
-Setelah melewati badai emosi dari fase krisis hingga mencapai tahap adaptasi, kamu mungkin bertanya-tanya: *"Apakah ini hanya tentang bertahan hidup di lingkungan baru?"* Jawabannya adalah tidak. Pengalaman gegar budaya sebenarnya merupakan "kawah candradimuka" yang membentuk kamu menjadi individu yang jauh lebih tangguh.
+Setelah badai emosi dari fase krisis hingga tahap adaptasi, kamu mungkin bertanya-tanya apakah ini hanya tentang bertahan hidup di lingkungan baru. Jawabannya adalah tidak. Pengalaman gegar budaya sebenarnya merupakan "kawah candradimuka" yang membentuk kamu menjadi individu yang jauh lebih tangguh.
 
 Di sinilah kita masuk ke konsep **Cultural Intelligence (CQ)** atau Kecerdasan Lintas Budaya. Jika IQ mengukur logika dan EQ mengukur emosi, maka CQ adalah kemampuan kamu untuk berfungsi, berinteraksi, dan bekerja secara efektif dalam lingkungan yang memiliki latar belakang budaya berbeda-beda.
 

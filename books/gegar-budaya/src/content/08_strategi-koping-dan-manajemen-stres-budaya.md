@@ -1,6 +1,6 @@
 ## Strategi Koping dan Manajemen Stres Budaya
 
-Berada di lingkungan baru seringkali terasa seperti mencoba menjalankan perangkat lunak terbaru pada perangkat keras lama; ada jeda, kesalahan sistem, dan terkadang sistem mati total (crash). Dalam konteks budaya, "crash" ini dikenal sebagai stres akulturatif.
+Berada di lingkungan baru seringkali terasa seperti mencoba menjalankan perangkat lunak terbaru pada perangkat keras lama. Ada jeda, kesalahan sistem, dan terkadang sistem mati total (crash). Dalam konteks budaya, "crash" ini dikenal sebagai stres akulturatif.
 
 Strategi koping adalah kumpulan teknik dan mekanisme yang kita gunakan untuk mengelola tuntutan internal maupun eksternal yang dianggap membebani sumber daya pribadi kita. Di bagian ini, kita akan mempelajari bagaimana mengubah tekanan budaya menjadi proses pertumbuhan yang terstruktur.
 

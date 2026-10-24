@@ -1,6 +1,6 @@
 ## Referensi
 
-Berikut adalah rujukan literatur ilmiah, buku, dan jurnal bereputasi yang menjadi fondasi teori dan pembahasan gegar budaya (*culture shock*), akulturasi, serta kecerdasan budaya dalam buku ini. Kamu dapat mengeksplorasi sumber-sumber ini untuk memperdalam wawasan teoretis dan aplikatif.
+Berikut adalah rujukan literatur ilmiah, buku, dan jurnal bereputasi yang menjadi fondasi teori dan pembahasan dalam buku ini. Cakupannya meliputi gegar budaya (*culture shock*), akulturasi, serta kecerdasan budaya. Kamu dapat mengeksplorasi sumber-sumber ini untuk memperdalam wawasan teoretis dan aplikatif.
 
 Ang, S., Van Dyne, L., Koh, C., Ng, K. Y., Templer, K. J., Tay, C., & Chandrasekar, N. A. (2007). Cultural intelligence: Its measurement and effects on cultural judgment and decision making, cultural adaptation and task performance. *Management and Organization Review*, *3*(3), 335-371. [https://doi.org/10.1111/j.1740-8784.2007.00082.x](https://doi.org/10.1111/j.1740-8784.2007.00082.x)
 
