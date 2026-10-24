@@ -12,7 +12,7 @@ Angkat topik ini di meja makan atau warung kopi, dan jawaban yang muncul biasany
 
 Masalahnya, dua kutub ini sama-sama terlalu rapi untuk pertanyaan yang sebenarnya berantakan.
 
-Kalimat "uang tidak bisa membeli kebahagiaan" paling sering diucapkan orang yang tidak pernah benar-benar kekurangan. Ia jarang keluar dari mulut ibu yang menghitung sisa uang di tanggal dua puluh, atau bapak yang menunda berobat karena ongkosnya. Bagi mereka, uang jelas berhubungan dengan kesejahteraan, bahkan dengan tidur yang nyenyak di malam hari. Sebaliknya, sindiran "yang bilang begitu cuma orang kaya" juga tidak bertahan lama di hadapan data. Peneliti Philip Brickman bersama koleganya pada 1978 mempelajari para pemenang lotere bernilai besar dan menemukan fakta yang mengejutkan: beberapa lama setelah kemenangan, tingkat kebahagiaan mereka kembali mendekati titik semula. Angka di rekening melonjak, tapi lantai kebahagiaannya tidak serta-merta naik mengikuti.
+Kalimat "uang tidak bisa membeli kebahagiaan" paling sering diucapkan orang yang tidak pernah benar-benar kekurangan. Ia jarang keluar dari mulut ibu yang menghitung sisa uang di tanggal dua puluh, atau bapak yang menunda berobat karena ongkosnya. Bagi mereka, uang jelas berhubungan dengan kesejahteraan, bahkan dengan tidur yang nyenyak di malam hari. Sebaliknya, sindiran "yang bilang begitu cuma orang kaya" juga tidak bertahan lama di hadapan data. Peneliti Philip Brickman bersama koleganya pada 1978 mempelajari para pemenang lotere bernilai besar dan menemukan bahwa beberapa lama setelah kemenangan, tingkat kebahagiaan mereka kembali mendekati titik semula. Angka di rekening melonjak, tapi lantai kebahagiaannya tidak serta-merta naik mengikuti.
 
 Jadi kalau kedua jawaban populer itu sama-sama goyah, jawaban yang sebenarnya apa?
 
@@ -29,7 +29,7 @@ Selain soal berapa angkanya, ada beberapa lapisan yang membuat hubungan uang dan
 - **Ada adaptasi.** Mobil baru terasa menyenangkan di bulan pertama, lalu diam-diam berubah menjadi alat transportasi biasa. Para psikolog menyebut pola ini **adaptasi hedonis**.
 - **Ada cara membelanjakan.** Elizabeth Dunn, Lara Aknin, dan Michael Norton (2008) menunjukkan bahwa orang yang membelanjakan uang untuk orang lain melaporkan kebahagiaan yang lebih tinggi dibanding yang membelanjakannya semata untuk diri sendiri. Jadi bukan hanya berapa yang masuk, tapi juga ke mana uang itu pergi.
 
-Empat lapisan inilah yang akan menjadi tulang punggung buku ini. Masing-masing punya bab sendiri, lengkap dengan bukti pendukung dan bukti yang justru menentangnya.
+Empat lapisan inilah yang akan menjadi kerangka buku ini. Masing-masing punya bab sendiri, lengkap dengan bukti pendukung dan bukti yang justru menentangnya.
 
 ### Dua pertanyaan, dua alat ukur
 

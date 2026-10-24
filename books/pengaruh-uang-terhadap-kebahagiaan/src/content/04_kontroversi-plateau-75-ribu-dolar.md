@@ -62,13 +62,13 @@ Pelajaran terpentingnya ada di luar angka-angka: uang tidak bisa memperbaiki kes
 
 Bagaimana dua penelitian serius bisa sampai pada kesimpulan yang bertabrakan? Penjelasannya tidak mistis: mereka mengukur kesejahteraan dengan cara yang berbeda. Satu mengandalkan ingatan harian tentang kemarin, satu menangkap perasaan saat itu juga lewat laporan real-time.
 
-Dua cara ukur yang berbeda memang bisa memberi hasil berbeda. Tapi kejutan besarnya di sana: ketika data kedua studi digabung dan dianalisis dengan kedua metode, perbedaan itu ternyata menyembunyikan perbedaan antar kelompok orang. Rata-rata keseluruhan selama ini memayungi dua kurva, mayoritas yang terus naik dan minoritas tidak bahagia yang melandai. Satu angka tunggal terlalu kasar untuk menampung keduanya, dan itulah sebabnya perdebatan bertahun-tahun terasa seperti dua orang membicarakan dua hal berbeda sambil merasa membicarakan hal yang sama.
+Dua cara ukur yang berbeda memang bisa memberi hasil berbeda. Tapi ada temuan lain di sana: ketika data kedua studi digabung dan dianalisis dengan kedua metode, perbedaan itu ternyata menyembunyikan perbedaan antar kelompok orang. Rata-rata keseluruhan selama ini memayungi dua kurva, mayoritas yang terus naik dan minoritas tidak bahagia yang melandai. Satu angka tunggal terlalu kasar untuk menampung keduanya, dan itulah sebabnya perdebatan bertahun-tahun terasa seperti dua orang membicarakan dua hal berbeda sambil merasa membicarakan hal yang sama.
 
 Dari sini kamu bisa membawa pulang pelajaran berpikir kritis: sains maju lewat konflik data yang diselesaikan dengan data yang sama, bukan lewat debat opini. Kahneman awalnya skeptis pada temuan Killingsworth, lalu keduanya menguji dugaan itu langsung pada data gabungan, dan ketika hasilnya menunjukkan Kahneman sebagian keliru, beliau justru berterima kasih pada data.
 
 ### Apa artinya untuk keputusanmu
 
-Ada dua pesan praktis dari seluruh drama ini. Pertama, kalau kamu pernah membaca bahwa gaji di atas angka tertentu tidak menambah kebahagiaan, sekarang kamu tahu kalimat itu terlalu dipermudah. Untuk kebanyakan orang, penghasilan tambahan tetap memperbaiki kesejahteraan yang dirasakan, walau manfaatnya makin kecil di tiap kenaikan.
+Ada dua pesan praktis dari seluruh perdebatan ini. Pertama, kalau kamu pernah membaca bahwa gaji di atas angka tertentu tidak menambah kebahagiaan, sekarang kamu tahu kalimat itu terlalu dipermudah. Untuk kebanyakan orang, penghasilan tambahan tetap memperbaiki kesejahteraan yang dirasakan, walau manfaatnya makin kecil di tiap kenaikan.
 
 Kedua, kalau hidupmu terasa berat meski penghasilanmu sudah tidak kecil, temuan ini mengajakmu jujur pada diri sendiri. Mungkin sebagian masalah memang bisa diringankan oleh kondisi finansial yang lebih baik, dan itu wajar untuk diperjuangkan. Tapi mungkin pula akarnya ada di tempat lain: relasi, kesehatan, atau makna, tempat uang hanya bisa membantu, bukan menyembuhkan.
 

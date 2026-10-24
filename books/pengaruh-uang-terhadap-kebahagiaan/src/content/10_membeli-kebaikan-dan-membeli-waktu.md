@@ -28,7 +28,7 @@ Cara pertama, uang untuk kebaikan orang lain, sudah kita bahas di atas. Cara ked
 
 Ashley Whillans bersama koleganya menguji ini dalam riset yang dimuat di *PNAS* pada 2017, "Buying time promotes happiness". Mereka mengumpulkan data dari Amerika Serikat, Kanada, Denmark, dan Belanda, mencakup ribuan responden dengan tingkat penghasilan yang bervariasi. Pertanyaannya sederhana: apa yang terjadi pada kepuasan hidup orang yang memakai uang untuk menyingkirkan tugas-tugas yang mereka benci, misalnya menyewa jasa untuk pekerjaan rumah tangga yang menyita akhir pekan?
 
-Jawabannya: orang yang membeli waktu melaporkan kepuasan hidup yang lebih tinggi, dan polanya konsisten di empat negara dengan gaya hidup yang sangat berbeda.
+Jawabannya: orang yang membeli waktu melaporkan kepuasan hidup yang lebih tinggi, dan polanya konsisten di empat negara dengan gaya hidup yang berbeda.
 
 Ironisnya, kelompok yang paling mampu, orang-orang berpenghasilan tinggi, justru paling berat hati. Mereka merasa lebih bersalah membayar orang lain untuk pekerjaan yang "seharusnya" dikerjakan sendiri. Padahal dari semua cara menukar uang menjadi kesejahteraan, membeli kembali waktu termasuk salah satu yang paling efektif. Rasa bersalah itu mahal harganya, karena menghalangi penukaran yang menguntungkan diri sendiri.
 

@@ -30,7 +30,7 @@ Justru dari kerangka sederhana ini temuan Killingsworth terasa mengejutkan. Kurv
 
 ### Apa Artinya bagi Hidupmu
 
-Ada dua situasi yang perlu kamu pahami secara berbeda. Di pendapatan rendah, uang bekerja sebagai pembebas. Rupiah tambahan langsung berubah menjadi rasa lega: sewa terbayar, anak sekolah dengan tenang, sakit tidak otomatis berarti utang baru. Uang menghapus masalah yang nyata dan menyita pikiran, dan itulah kenapa efeknya terasa begitu besar.
+Ada dua situasi yang perlu kamu pahami secara berbeda. Di pendapatan rendah, uang bekerja sebagai pembebas. Rupiah tambahan langsung berubah menjadi rasa lega: sewa terbayar, anak sekolah dengan tenang, sakit tidak otomatis berarti utang baru. Uang menghapus masalah yang nyata dan menyita pikiran, dan itulah kenapa efeknya terasa besar.
 
 Di pendapatan tinggi, efek per rupiah makin kecil, tapi tidak nol. Uang tetap membeli sesuatu: lebih banyak pilihan, kendali atas waktu, bantalan saat keadaan buruk datang. Ia tidak lagi menghapus masalah hidup, hanya menghaluskan gesekannya. Karena itu temuan ini sama sekali bukan "uang tidak penting". Data berkata uang penting di semua level, hanya intensitasnya berubah. Yang keliru adalah dua kutub ekstrem: klaim bahwa uang tak ada hubungannya dengan bahagia, dan klaim bahwa bahagia bisa dibeli penuh dengan uang.
 

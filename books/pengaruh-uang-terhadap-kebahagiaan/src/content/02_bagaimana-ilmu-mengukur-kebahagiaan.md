@@ -2,7 +2,7 @@
 
 Kalau kamu diminta menilai hidupmu dari 0 sampai 10, angka berapa yang keluar otomatis? Jangan berpikir lama, jawab dari perasaan. Angka itu muncul dalam hitungan detik, padahal pertanyaannya menyangkut hampir semua hal: pekerjaan, keluarga, kesehatan, mimpi yang belum tercapai, sampai kemacetan yang kamu lewati tiap pagi. Bagaimana satu angka bisa mewakili seluruh hidup seseorang?
 
-Pertanyaan itulah yang menggantung di akhir bab sebelumnya, dan bab ini hadir untuk menjawabnya. Para peneliti memang serius mengukur kebahagiaan, tapi mereka tidak memperlakukannya sebagai satu benda padat. Mereka membedahnya menjadi beberapa lapis, lalu mengukur tiap lapis dengan alat yang berbeda. Memahami alat ukurnya itu penting, karena begitu masuk ke topik utama buku ini, uang, hampir semua perdebatan sengit lahir dari alat ukur yang tak sengaja dicampuradukkan.
+Pertanyaan itulah yang menggantung di akhir bab sebelumnya, dan bab ini hadir untuk menjawabnya. Para peneliti memang serius mengukur kebahagiaan, tapi mereka tidak memperlakukannya sebagai satu benda padat. Mereka membedahnya menjadi beberapa lapis, lalu mengukur tiap lapis dengan alat yang berbeda. Memahami alat ukurnya itu penting, karena begitu masuk ke topik utama buku ini, uang, hampir semua perdebatan lahir dari alat ukur yang tak sengaja dicampuradukkan.
 
 ### Subjective well-being
 
@@ -38,7 +38,7 @@ Pembedaan ini penting karena banyak klaim populer soal "uang membuat bahagia" at
 
 Membeli rumah mungkin menaikkan penilaianmu atas hidup bertahun-tahun kemudian, sementara perasaan harianmu di rumah itu diisi mencuci piring dan macet pulang kerja. Kalau riset mengukur yang pertama, lalu klaim lahir untuk yang kedua, hasilnya terdengar kontradiktif padahal tidak. Kekeliruan semacam inilah yang akan sering kita temui saat membedah bukti korelasi uang dan kesejahteraan di bab 3.
 
-Ada juga jebakan psikologis yang menipu imajinasi kita. Pada 2006, Daniel Kahneman bersama timnya memperkenalkan istilah **focusing illusion**. Ketika membayangkan hidup yang lebih kaya, perhatianmu terkunci pada hal-hal yang akan berubah: rumah lebih nyaman, liburan lebih jauh, tagihan tak lagi bikin deg-degan. Padahal hidup juga tersusun dari rutinitas yang tak berubah walau rekeningmu membesar: perjalanan ke kantor, jam kerja, antrean, dan malam-malam biasa yang menempati porsi jam terbanyak. Karena hal yang berubah itulah yang di tengah sorotan, manfaat uang terasa lebih besar daripada yang nanti benar-benar dirasakan.
+Ada juga jebakan psikologis dalam cara kita membayangkan. Pada 2006, Daniel Kahneman bersama timnya memperkenalkan istilah **focusing illusion**. Ketika membayangkan hidup yang lebih kaya, perhatianmu terkunci pada hal-hal yang akan berubah: rumah lebih nyaman, liburan lebih jauh, tagihan tak lagi bikin deg-degan. Padahal hidup juga tersusun dari rutinitas yang tak berubah walau rekeningmu membesar: perjalanan ke kantor, jam kerja, antrean, dan malam-malam biasa yang menempati porsi jam terbanyak. Karena hal yang berubah itulah yang di tengah sorotan, manfaat uang terasa lebih besar daripada yang nanti benar-benar dirasakan.
 
 > Ibaratnya melihat foto liburan teman di pantai. Kamu hanya melihat laut biru dan senja yang sempurna, tidak melihat empat jam menunggu di bandara dan antrean kamar mandi yang panjang. Perhatianmu menangkap yang menonjol, lalu kesimpulan terbentuk dari apa yang tersorot, bukan dari keseluruhan kenyataan.
 

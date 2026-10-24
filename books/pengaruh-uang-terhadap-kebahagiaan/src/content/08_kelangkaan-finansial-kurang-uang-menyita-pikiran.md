@@ -49,7 +49,7 @@ Menghapus kelangkaan memberi lompatan kesejahteraan terbesar karena yang dipulih
 
 Sebaliknya, tekanan finansial kronis adalah salah satu jalur menuju kelompok minoritas tidak bahagia itu: kenaikan kecil yang tidak mengubah rasa ketat hidup memang bisa jadi tidak terasa. Yang menggerogoti bukan jumlah uangnya, tapi kelangkaannya.
 
-Kalau ada satu sikap yang pantas dipinjam dari studi ini, itu empati. Sangat mudah menghakimi keputusan orang yang sedang sesak, karena dari luar kita tidak melihat kalkulator yang jalan tanpa henti di kepalanya.
+Kalau ada satu sikap yang pantas dipinjam dari studi ini, itu empati. Mudah untuk menghakimi keputusan orang yang sedang sesak, karena dari luar kita tidak melihat kalkulator yang jalan tanpa henti di kepalanya.
 
 ### Meringankan beban, bukan menambah nasihat
 
