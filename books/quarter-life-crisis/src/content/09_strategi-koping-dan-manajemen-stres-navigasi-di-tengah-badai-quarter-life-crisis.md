@@ -51,7 +51,7 @@ Sering kali, stres di usia 20-an muncul karena kita tidak tahu batasan antara di
 2. **Batasan Emosional:** Tidak memikul tanggung jawab atas kebahagiaan orang tua yang menuntut kamu segera menikah.
 3. **Batasan Digital:** Membatasi waktu layar (*screen time*) pada aplikasi yang memicu perbandingan sosial (seperti Instagram atau LinkedIn).
 
-### Seni Mengatakan "Tidak"
+### Cara Mengatakan "Tidak"
 
 Mengatakan tidak adalah sebuah keterampilan. Gunakan rumus: **"Terima kasih atas [kesempatan/tawarannya], tapi saat ini kapasitas saya sudah penuh untuk [prioritas saat ini]."**
 

@@ -28,7 +28,7 @@ $$
 - **Gaya Hidup Digital:** Biaya yang dulu tidak ada (Internet, Spotify, Netflix, Cloud Storage) kini menjadi "kebutuhan pokok".
 - **Pajak Sosial:** Keinginan untuk tetap relevan dalam pergaulan (nongkrong di kafe, *healing*, konser) yang biayanya terus meningkat.
 
-## 2. Labirin Utang
+## 2. Godaan Berutang
 
 Di tengah tekanan ekonomi, akses terhadap kredit menjadi pedang bermata dua. Bagi dewasa muda, godaan untuk menutup celah finansial dengan utang seringkali menjadi awal dari krisis yang lebih dalam.
 
@@ -53,7 +53,7 @@ Tekanan ekonomi berdampak langsung pada beban mental, bukan hanya terlihat dari 
 
 > **Important:** Stres ekonomi global (resesi, perubahan iklim, ketidakstabilan politik) menciptakan perasaan bahwa "berusaha keras pun tidak akan cukup". Ini bisa memicu sikap apatis atau *burnout* finansial.
 
-## 4. Langkah Strategis Menuju Kemandirian Finansial
+## 4. Langkah Membangun Kemandirian Finansial
 
 Menghadapi tekanan ini memerlukan pendekatan yang pragmatis sekaligus welas asih terhadap diri sendiri.
 

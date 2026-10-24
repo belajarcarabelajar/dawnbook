@@ -4,7 +4,7 @@ Selamat datang di inti pembahasan mengenai *Quarter-Life Crisis* (QLC). Jika pad
 
 Kita akan menganalisis tiga pilar utama yang menjadi pemicu krisis ini: **tekanan ekspektasi sosial**, **gegar budaya transisi dunia kerja**, dan **pergeseran peran interpersonal**.
 
-## 1\. Beban Berat Ekspektasi Sosial
+## 1\. Beban Ekspektasi Sosial
 
 Banyak dari kita tumbuh dengan sebuah "skrip kehidupan" yang tidak tertulis namun sangat terasa tekanannya. Skrip ini mendikte bahwa pada usia tertentu, kita harus mencapai titik-titik pencapaian (*milestones*) tertentu.
 
@@ -26,7 +26,7 @@ Semakin besar nilai $\text{Ekspektasi}$ yang dibebankan oleh masyarakat (orang t
 
 > **Insight:** Kita sering merasa tertinggal bukan karena kita berhenti berjalan, tetapi karena kita membandingkan kecepatan kita dengan garis akhir orang lain yang jalurnya berbeda.
 
-## 2\. Transisi Brutal dari Bangku Kuliah ke Realita Kerja
+## 2\. Transisi dari Bangku Kuliah ke Dunia Kerja
 
 Transisi dari dunia pendidikan ke dunia profesional adalah lompatan besar dalam hidup. Bayangkan kamu berpindah dari kolam renang yang tenang ke laut lepas tanpa pelampung.
 

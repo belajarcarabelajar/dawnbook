@@ -40,7 +40,7 @@ Banyak dari kita dibesarkan dengan narasi "Kamu bisa jadi apa saja yang kamu mau
 
 Dibandingkan 40 tahun lalu, orang dewasa muda saat ini membutuhkan waktu lebih lama untuk mencapai kemandirian finansial, memiliki rumah, atau menikah. Hal ini menciptakan perasaan "terlambat" atau "tertinggal" dibandingkan standar kesuksesan tradisional.
 
-## Kisah Maya di Persimpangan
+## Kisah Maya
 
 > Maya adalah seorang lulusan Desain Grafis berusia 24 tahun yang bekerja di sebuah agensi periklanan ternama. Secara objektif, Maya "berhasil". Namun, setiap hari Minggu sore, ia merasakan sesak di dada (biasa disebut *Sunday Scaries*).
 > 

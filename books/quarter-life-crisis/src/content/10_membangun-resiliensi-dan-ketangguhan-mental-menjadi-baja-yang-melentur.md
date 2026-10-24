@@ -6,7 +6,7 @@ Dalam menghadapi **Quarter-Life Crisis**, kita sering kali merasa seperti telur,
 
 Resiliensi bukan hanya soal kemampuan "tahan banting" atau menahan beban tanpa mengeluh. Ini adalah kemampuan untuk beradaptasi, pulih, dan tumbuh lebih kuat setelah mengalami kegagalan, kesulitan, atau stres yang berat.
 
-### 1. Memahami Anatomi Resiliensi
+### 1. Apa yang Membentuk Resiliensi
 
 Resiliensi tidak muncul dengan sendirinya. Resiliensi merupakan "otot mental" yang dibangun lewat perpaduan pola pikir, regulasi emosi, dan tindakan konsisten. Secara ilmiah, resiliensi dapat digambarkan melalui persamaan sederhana:
 
@@ -16,7 +16,7 @@ $$
 
 Meskipun kita tidak selalu bisa mengendalikan "Tingkat Tekanan", kita punya kendali penuh untuk memperkuat pembilang (Pola Pikir dan Dukungan) agar resiliensi terjaga.
 
-#### Tiga Pilar Ketangguhan Mental
+#### Tiga Jenis Resiliensi
 
 1. **Resiliensi Kognitif:** Bagaimana kita memproses informasi dan menafsirkan kegagalan. Apakah kita melihat hambatan sebagai jalan buntu atau sebagai teka-teki yang harus dipecahkan?
 2. **Resiliensi Emosional:** Kemampuan untuk tetap tenang saat perasaan sedang bergejolak. Caranya dengan mengenali emosi tanpa membiarkannya mengambil alih kendali hidup kita.

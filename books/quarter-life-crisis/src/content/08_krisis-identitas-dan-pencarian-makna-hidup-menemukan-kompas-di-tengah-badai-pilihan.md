@@ -60,7 +60,7 @@ Salah satu cara untuk menjawab pertanyaan eksistensial adalah dengan memetakan i
 - Kuasai + Dibayar = **Profesi**
 - **Ikigai** berada tepat di tengah-tengah keempatnya.
 
-### 5. Perubahan Haluan Maya
+### 5. Maya Menata Ulang Identitasnya
 
 **Maya (26 tahun)** Maya adalah seorang akuntan di firma ternama. Secara finansial, dia stabil. Namun, setiap pagi dia merasa sesak napas saat hendak berangkat kerja. Dia merasa "bukan dirinya sendiri."
 

@@ -4,7 +4,7 @@ Selamat! Jika kamu sampai pada bagian ini, artinya kamu siap untuk berhenti seka
 
 Bagian ini akan memandu kamu mengubah rasa bingung tersebut menjadi energi untuk melakukan transformasi diri yang autentik.
 
-## Renovasi Arsitektural Jiwa
+## Bangunan yang Dirancang Orang Lain
 
 Bayangkan hidupmu adalah sebuah bangunan tua yang kokoh, tetapi desainnya dibuat oleh orang tua, guru, dan tren media sosial. Saat memasuki usia 20-an, kamu mulai menyadari bahwa tata letak ruangannya tidak nyaman, jendelanya terlalu kecil, dan warnanya tidak sesuai dengan kepribadianmu.
 
@@ -83,7 +83,7 @@ Berikan tanda cek pada poin yang sudah atau sedang kamu rasakan:
 - Saya telah mencoba setidaknya satu hal baru dalam tiga bulan terakhir yang benar-benar murni karena keinginan pribadi.
 - Saya mulai bisa membedakan antara "ambisi orang lain" dan "ambisi pribadi".
 
-## Menjadi Nahkoda bagi Diri Sendiri
+## Awal dari Kedewasaan yang Sadar
 
 *Quarter-Life Crisis* bukan akhir dari masa mudamu. Ini adalah awal dari kedewasaan yang sadar. Dengan melewati krisis ini, kamu sedang melatih otot-otot emosional yang akan membuatmu tangguh di usia 30-an, 40-an, dan seterusnya.
 

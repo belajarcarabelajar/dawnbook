@@ -54,7 +54,7 @@ Dunia kerja saat ini tidak lagi bersifat linear. Jika generasi orang tua kita mu
 2. **Fokus pada Skill, Bukan Jabatan:** Jabatan bisa hilang karena otomatisasi atau perubahan pasar, tetapi keahlian (seperti *problem solving*, komunikasi, atau koding) akan selalu relevan.
 3. **Menerima 'Good Enough' Job:** Terkadang, pekerjaan yang "cukup baik" adalah jembatan yang diperlukan untuk menjaga kesehatan mental dan stabilitas finansial sebelum melompat ke sesuatu yang lebih besar.
 
-## 5\. Aplikasi Dunia Nyata & Skenario
+## 5\. Dua Contoh di Tempat Kerja
 
 ### A. Insinyur Perangkat Lunak Muda (Technical Context)
 
