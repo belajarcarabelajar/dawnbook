@@ -4,7 +4,7 @@ Sebelum mempelajari tahapan-tahapan rumit dalam perkembangan anak, kenali dulu s
 
 ## 1\. Siapakah Jean Piaget? (Sang Ilmuwan Cilik yang Tekun)
 
-Jean Piaget (1896–1980) adalah seorang pemikir asal Swiss yang menunjukkan kecerdasan luar biasa sejak dini. Menariknya, latar belakang pendidikannya bukanlah psikologi, melainkan **Biologi**.
+Jean Piaget (1896–1980) adalah seorang pemikir asal Swiss yang menunjukkan kecerdasan luar biasa sejak dini. Latar belakang pendidikannya bukanlah psikologi, melainkan **Biologi**.
 
 - **Awal yang Cemerlang:** Pada usia 10 tahun, Piaget menerbitkan artikel ilmiah pertamanya tentang burung pipit albino.
 - **Latar Belakang Biologi:** Ia meraih gelar doktor dalam bidang malakologi (studi tentang moluska/siput). Pengalaman ini sangat penting karena ia melihat bagaimana siput beradaptasi secara fisik dengan lingkungannya. Ia kemudian berpikir: *Bukankah pikiran manusia juga melakukan hal yang sama?*
