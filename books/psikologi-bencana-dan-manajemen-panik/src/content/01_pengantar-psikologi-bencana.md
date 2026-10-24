@@ -2,7 +2,7 @@
 
 Bayangkan sebuah pusat perbelanjaan yang padat. Tiba-tiba, bumi berguncang hebat. Lampu padam seketika, denting kaca pecah terdengar di segala penjuru, dan sirene darurat meraung. Dalam hitungan detik, lingkungan yang awalnya aman berubah menjadi zona bahaya ekstrem. Dalam situasi seperti ini, faktor apa yang menentukan siapa yang berhasil menyelamatkan diri dan siapa yang terjebak? Apakah semata-mata kekuatan fisik atau kecepatan berlari?
 
-Sejarah penanganan bencana dan riset empiris membuktikan bahwa dalam banyak kasus, **psikologi manusia** (cara otak memproses rasa takut dan mengambil keputusan krusial di bawah tekanan luar biasa) merupakan faktor penentu utama antara hidup dan mati. Selamat datang di modul pertama: **Pengantar Psikologi Bencana**.
+Sejarah penanganan bencana dan riset empiris membuktikan bahwa dalam banyak kasus, **psikologi manusia** (cara otak memproses rasa takut dan mengambil keputusan krusial di bawah tekanan luar biasa) merupakan faktor penentu utama antara hidup dan mati.
 
 ---
 
