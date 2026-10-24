@@ -6,7 +6,7 @@ Teori tanpa praktik hanyalah informasi, namun praktik tanpa teori adalah spekula
 
 Salah satu analogi untuk POAC adalah sebuah **orkestra**. *Planning* adalah partitur musiknya, *Organizing* adalah pembagian instrumen dan pemainnya, *Actuating* adalah aba-aba sang konduktor saat musik mulai dimainkan, dan *Controlling* adalah pendengaran tajam konduktor untuk memastikan tidak ada nada yang sumbang.
 
-Dalam bagian ini, kita akan membedah dua perusahaan besar (satu perusahaan global dan satu perusahaan Indonesia) untuk melihat bagaimana mereka menerapkan POAC.
+Dalam bagian ini, kita akan membedah dua perusahaan besar (satu global dan satu Indonesia) untuk melihat bagaimana mereka menerapkan POAC.
 
 ## 1. Transformasi Apple Inc. (Era Steve Jobs & Tim Cook)
 
