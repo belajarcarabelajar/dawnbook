@@ -116,6 +116,6 @@ Before submitting a Pull Request, please ensure you satisfy this checklist:
 ## License and Credits
 
 - **Code**: MIT License, see [LICENSE](LICENSE).
-- **Book text**: CC BY-SA 4.0, see [LICENSE-CONTENT](LICENSE-CONTENT). This covers the text written for Dawnbook. Quotations from other works and third-party names and trademarks stay with their owners and are not licensed by it.
+- **Book text**: CC BY-SA 4.0, see [LICENSE-CONTENT](LICENSE-CONTENT). This covers the text, cover illustrations and diagrams written for Dawnbook. Quotations from other works and third-party names and trademarks stay with their owners and are not licensed by it.
 - **Third-party components**: the Twemoji sunrise icon (CC-BY 4.0), mdBook, MathJax, and the Syne and Epilogue fonts are credited in [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md).
 - **Author history**: the name "Tedi Rahmat" in the `authors` field of the first books was a placeholder, later replaced by the real author.
