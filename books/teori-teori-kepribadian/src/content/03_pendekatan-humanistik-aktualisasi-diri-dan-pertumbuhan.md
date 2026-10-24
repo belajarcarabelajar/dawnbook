@@ -20,7 +20,7 @@ Bagi Rogers, *self-concept* adalah komponen sentral kepribadian. Hal ini mencaku
 
 #### Congruence dan Incongruence
 
-Rogers menyoroti betapa pentingnya *congruence*, yaitu keselarasan antara *self-image* dan *ideal self*. Selain itu, *congruence* juga menyangkut kecocokan antara realitas pengalaman hidup dan konsep diri.
+Rogers menyoroti pentingnya *congruence*, yaitu keselarasan antara *self-image* dan *ideal self*. Selain itu, *congruence* juga menyangkut kecocokan antara realitas pengalaman hidup dan konsep diri.
 
 Saat *ideal self* seseorang sejalan dengan *self-image*-nya, ia berada dalam kondisi *congruence*. Orang dengan keadaan jiwa seperti ini biasanya memiliki *self-esteem* yang kokoh, merasa lebih otentik, dan berfungsi optimal karena pengalamannya tidak bertabrakan dengan keyakinan tentang dirinya.
 
@@ -32,8 +32,8 @@ Dalam interaksi sosialnya, setiap individu membutuhkan apresiasi, cinta, dan pen
 
 Terdapat dua dimensi dalam hal ini:
 
-1.  **Unconditional Positive Regard:** Bentuk penerimaan utuh tanpa syarat. Seseorang yang menerima dukungan macam ini merasa aman dan dicintai apa adanya, terlepas dari segala kelemahan atau kesalahan masa lalu. Lingkungan seperti ini sangat ideal untuk memupuk *self-concept* yang jujur.
-2.  **Conditional Positive Regard:** Penerimaan yang hanya hadir ketika individu memenuhi ekspektasi atau tuntutan pihak lain. Pola asuh atau relasi bersyarat ini mengajarkan seseorang bahwa mereka baru memiliki nilai jika bersikap dengan cara tertentu. Hal ini melahirkan *conditions of worth* – sebuah jebakan batin di mana nilai diri sepenuhnya dikaitkan dengan standar eksternal. *Conditions of worth* umumnya bersumber dari internalisasi ekspektasi orang tua atau dogma sosial, yang pelan-pelan mencekik kebebasan pertumbuhan batin.
+1.  **Unconditional Positive Regard:** Bentuk penerimaan utuh tanpa syarat. Seseorang yang menerima dukungan macam ini merasa aman dan dicintai apa adanya, terlepas dari segala kelemahan atau kesalahan masa lalu. Lingkungan seperti ini ideal untuk memupuk *self-concept* yang jujur.
+2.  **Conditional Positive Regard:** Penerimaan yang hanya hadir ketika individu memenuhi ekspektasi atau tuntutan pihak lain. Pola asuh atau relasi bersyarat ini mengajarkan seseorang bahwa mereka baru memiliki nilai jika bersikap dengan cara tertentu. Hal ini melahirkan *conditions of worth* – keadaan di mana nilai diri sepenuhnya dikaitkan dengan standar eksternal. *Conditions of worth* umumnya bersumber dari internalisasi ekspektasi orang tua atau dogma sosial, yang pelan-pelan membatasi pertumbuhan pribadi.
 
 Hadirnya *unconditional positive regard* memberikan ruang yang aman bagi individu untuk mengenali diri mereka lebih jauh, berani berbuat salah, dan mengambil pelajaran tanpa dikejar rasa takut kehilangan kasih sayang.
 
@@ -41,17 +41,17 @@ Hadirnya *unconditional positive regard* memberikan ruang yang aman bagi individ
 
 Target akhir dari pematangan psikologis ala Rogers adalah menjadi *fully functioning person*. Pada tingkat ini, seseorang punya *congruence* tinggi serta dapat merasakan ritme kehidupan dengan penuh keterbukaan, tanpa harus mendirikan benteng pertahanan diri yang kaku.
 
-Pribadi semacam ini mampu memeluk pengalaman hidup secara apa adanya, baik saat suka maupun duka. Mereka menghidupi realitas hari ini secara eksistensial, tidak terbelenggu bayang-bayang masa lalu maupun kecemasan akan hari esok. Daripada memburu validasi publik, mereka bersandar pada intuisi serta penilaian pribadi. Kebebasan dalam mengambil pilihan berjalan beriringan dengan kesiapan memikul risikonya, sehingga mereka lebih lentur dan kreatif saat merespons dinamika hidup.
+Pribadi semacam ini mampu menerima pengalaman hidup apa adanya, baik saat suka maupun duka. Mereka menjalani hari ini sepenuhnya, tidak terbelenggu bayang-bayang masa lalu maupun kecemasan akan hari esok. Daripada memburu validasi publik, mereka bersandar pada intuisi serta penilaian pribadi. Kebebasan dalam mengambil pilihan berjalan beriringan dengan kesiapan memikul risikonya, sehingga mereka lebih lentur dan kreatif saat merespons dinamika hidup.
 
 #### Aplikasi Dunia Nyata
 
-Dalam ruang konseling, terapis yang memakai pendekatan *person-centered therapy* wajib mempraktikkan empati, *congruence*, serta *unconditional positive regard*. Konselor bukanlah sosok pemberi solusi instan, melainkan penyedia ruang batin yang aman bagi klien agar perlahan sanggup mengurai *incongruence* di dalam dirinya.
+Dalam ruang konseling, terapis yang memakai pendekatan *person-centered therapy* wajib mempraktikkan empati, *congruence*, serta *unconditional positive regard*. Konselor bukanlah sosok pemberi solusi instan, melainkan penyedia ruang yang aman bagi klien agar perlahan sanggup mengurai *incongruence* di dalam dirinya.
 
 Di bidang pendidikan, konsep ini menuntun pengajar untuk memperlakukan siswa tanpa syarat-syarat yang mengekang. Saat guru menghargai anak didik sebagai individu merdeka, motivasi belajar organik akan tumbuh. Pola semacam ini juga menggeser iklim belajar menjadi lebih berpusat pada siswa.
 
 ### Hierarchy of Needs Abraham Maslow
 
-Nama Abraham Maslow identik dengan cetak biru motivasi yang terangkum dalam *hierarchy of needs*. Ia merumuskan bahwa perilaku kita dipacu oleh berlapis-lapis kebutuhan yang memiliki urutan khusus, mulai dari yang sifatnya insting bertahan hidup dasar sampai pada kebutuhan filosofis tertinggi.
+Nama Abraham Maslow identik dengan teori motivasi yang dikenal sebagai *hierarchy of needs*. Ia merumuskan bahwa perilaku kita dipacu oleh berlapis-lapis kebutuhan yang memiliki urutan khusus, mulai dari yang sifatnya insting bertahan hidup dasar sampai pada kebutuhan filosofis tertinggi.
 
 #### Membedah Hierarchy of Needs
 
@@ -63,7 +63,7 @@ Ada lima anak tangga dalam piramida tersebut:
 - **Safety Needs:** Sesudah ancaman fisik teratasi, fokus bergeser pada stabilitas dan rasa aman. Ini mencakup perlindungan dari marabahaya, stabilitas pekerjaan, jaminan masa tua, hingga kebutuhan akan tata tertib. 
 - **Love and Belonging Needs:** Selesai urusan perut dan keamanan, insting sosial manusia mulai bekerja. Ada hasrat kuat untuk berafiliasi, menjalin hubungan asmara, hingga menemukan kelompok sosial. Lubang pada level ini kerap memancing rasa terasing dan depresi.
 - **Esteem Needs:** Kebutuhan untuk merengkuh apresiasi dari dalam maupun luar diri. Secara internal, orang mengejar *self-esteem*, kemandirian, dan perasaan kompeten. Dari luar, mereka membutuhkan pengakuan status, reputasi, atau apresiasi rekan sejawat. Terpenuhinya hal ini melahirkan rasa percaya diri.
-- **Self-Actualization Needs:** Puncak dari piramida kepribadian Maslow adalah dorongan menyadari dan mengejawantahkan kapasitas maksimal diri. Ruang lingkupnya mencakup upaya pencarian makna hidup yang mendalam, kreativitas murni, dan aktualisasi bakat sejati. Maslow mengamati bahwa tidak banyak orang yang bisa bersandar secara menetap di lapisan tertinggi ini.
+- **Self-Actualization Needs:** Puncak dari piramida kepribadian Maslow adalah dorongan menyadari dan mengejawantahkan kapasitas maksimal diri. Ruang lingkupnya mencakup upaya pencarian makna hidup, kreativitas, dan aktualisasi bakat. Maslow mengamati bahwa tidak banyak orang yang bisa bersandar secara menetap di lapisan tertinggi ini.
 
 Bagan di bawah menyusun kelima lapisan itu dari dasar hingga puncak, mengikuti urutan yang dijelaskan Maslow.
 
@@ -79,16 +79,16 @@ flowchart BT
 
 #### Perjalanan Menuju Self-Actualization
 
-*Self-actualization* adalah proses memahat diri untuk menjadi versi yang paling paripurna sesuai dengan talenta alamiahnya. Melalui riset kualitatif terhadap sosok-sosok yang dianggap telah mengaktualisasikan dirinya (seperti Abraham Lincoln dan Eleanor Roosevelt), Maslow membedah bagaimana profil psikologis manusia di tahap tertinggi ini.
+*Self-actualization* adalah proses mengembangkan diri sepenuhnya sesuai dengan talenta alamiahnya. Melalui riset kualitatif terhadap sosok-sosok yang dianggap telah mengaktualisasikan dirinya (seperti Abraham Lincoln dan Eleanor Roosevelt), Maslow membedah bagaimana profil psikologis manusia di tahap tertinggi ini.
 
-Mereka umumnya sangat toleran dalam menerima kekurangan diri maupun kecacatan orang lain. Dalam kesehariannya, mereka bersikap spontan, natural, dan tidak terikat oleh basa-basi sosial yang semu. Fokus pikirannya jarang berkutat pada masalah pribadi (ego), melainkan tertuju pada persoalan di luar sana yang lebih besar, seolah-olah dipandu oleh sebuah misi.
+Mereka umumnya toleran dalam menerima kekurangan diri maupun kecacatan orang lain. Dalam kesehariannya, mereka bersikap spontan, natural, dan tidak terikat oleh basa-basi sosial yang semu. Fokus pikirannya jarang berkutat pada masalah pribadi (ego), melainkan tertuju pada persoalan di luar sana yang lebih besar, seolah-olah dipandu oleh sebuah misi.
 
-Orang-orang ini menikmati otonomi penuh dan sangat menghargai privasi. Alih-alih haus pujian luar, kemandirian batin mereka sudah tuntas. Mereka juga acap kali menjumpai *peak experiences*, momen kebahagiaan luar biasa di mana mereka merasa sangat menyatu dengan semesta atau karya yang sedang dikerjakan. Hubungan sosial yang mereka bangun mungkin tidak terlalu masif atau mencolok, tetapi ikatan emosionalnya sangat dalam dan bermakna.
+Orang-orang ini menikmati otonomi penuh dan menghargai privasi. Alih-alih haus pujian luar, mereka mandiri secara batin. Mereka juga acap kali menjumpai *peak experiences*, momen kebahagiaan yang intens ketika mereka merasa menyatu dengan semesta atau karya yang sedang dikerjakan. Hubungan sosial yang mereka bangun mungkin tidak terlalu luas atau mencolok, tetapi ikatan emosionalnya dalam dan bermakna.
 
 #### Relevansi Maslow di Berbagai Sektor
 
 Dalam budaya manajemen modern, *hierarchy of needs* telah lama diadopsi untuk membangun sistem kepegawaian. Pemimpin yang peka paham bahwa inovasi dan dedikasi maksimal (*self-actualization*) mustahil lahir bila karyawan masih diliputi kecemasan pemutusan kerja secara sepihak (keamanan) atau standar gaji di bawah kelayakan (fisiologis).
 
-Di area pendidikan, pemetaan Maslow membuktikan bahwa perut kenyang dan kelas yang jauh dari praktik perundungan adalah syarat mutlak bagi penyerapan kognitif. Siswa yang dihantui rasa takut atau tertolak oleh kelompoknya nyaris tidak punya cadangan mental untuk mengejar prestasi.
+Di area pendidikan, pemetaan Maslow menunjukkan bahwa perut kenyang dan kelas yang jauh dari praktik perundungan adalah syarat bagi siswa untuk menyerap pelajaran. Siswa yang dihantui rasa takut atau tertolak oleh kelompoknya nyaris tidak punya cadangan mental untuk mengejar prestasi.
 
-Sebagai kerangka refleksi personal, piramida Maslow berfungsi sebagai alat deteksi dini. Kita bisa memetakan di level mana kebutuhan batin kita sedang paceklik, lalu mengintervensinya secara sadar untuk kembali membuka jalan menuju pertumbuhan kepribadian yang lebih lapang.
+Sebagai kerangka refleksi personal, piramida Maslow berfungsi sebagai alat deteksi dini. Kita bisa memetakan di level mana kebutuhan kita sedang kurang terpenuhi, lalu mengintervensinya secara sadar untuk kembali membuka jalan menuju pertumbuhan kepribadian.

@@ -21,7 +21,7 @@ Mempelajari kepribadian membantu kita memahami diri sendiri dengan lebih baik, m
 Selain itu, pemahaman kepribadian memungkinkan kita memprediksi perilaku seseorang dalam situasi tertentu, baik di lingkungan pribadi maupun profesional. Hal ini turut berperan dalam pengambilan keputusan yang lebih sesuai dengan nilai pribadi, seperti saat memilih karier, serta membantu mengelola dan menyelesaikan konflik secara lebih konstruktif.
 
 > [!IMPORTANT]
-> Studi kepribadian menjadi fondasi untuk memahami mengapa tiap individu berperilaku, berpikir, dan merasa secara berbeda. Pemahaman ini sangat dibutuhkan untuk pengembangan diri dan interaksi sosial.
+> Studi kepribadian menjadi fondasi untuk memahami mengapa tiap individu berperilaku, berpikir, dan merasa secara berbeda. Pemahaman ini dibutuhkan untuk pengembangan diri dan interaksi sosial.
 
 ### 3. Konsep-Konsep Dasar dalam Studi Kepribadian
 
@@ -42,7 +42,7 @@ Kepribadian adalah konstruksi multifaktorial yang dibentuk oleh berbagai dimensi
 Perdebatan ini menyoroti porsi pengaruh antara faktor keturunan (*nature*) dan lingkungan (*nurture*). *Nature* mencakup pengaruh genetik biologis seperti tinggi fisik, bentuk wajah, dan temperamen bawaan. Sementara itu, *nurture* mencakup norma keluarga, teman, kelompok sosial, pola asuh, dan pengalaman hidup yang turut membentuk kepribadian seiring waktu.
 
 ***Consistency vs. Change***
-Kepribadian umumnya menampilkan pola perilaku, pikiran, dan emosi yang konsisten. Namun, kepribadian tidak sepenuhnya statis. Seseorang bisa berkembang dan berubah, baik secara bertahap maupun akibat peristiwa hidup yang luar biasa dan interaksi dengan lingkungan.
+Kepribadian umumnya menampilkan pola perilaku, pikiran, dan emosi yang konsisten. Namun, kepribadian tidak sepenuhnya statis. Seseorang bisa berkembang dan berubah, baik secara bertahap maupun akibat peristiwa hidup yang besar dan interaksi dengan lingkungan.
 
 ***Conscious vs. Unconscious Processes***
 Beberapa aliran, seperti psikoanalisis Freud, menekankan bahwa kepribadian banyak digerakkan oleh dorongan alam bawah sadar (*unconscious needs*). Di sisi lain, terdapat proses sadar yang dikendalikan secara aktif oleh individu dalam bertindak dan mengambil keputusan.

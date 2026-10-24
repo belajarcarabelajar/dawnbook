@@ -97,4 +97,4 @@ Prinsip dasar yang mengikat meliputi:
 - **Proporsi Keputusan:** Hasil alat ukur kepribadian difungsikan sebagai data penunjang. Menggantungkan seleksi rekrutmen atau vonis klinis murni di atas pondasi lembaran kuesioner dilarang secara profesional.
 - **Sensitivitas Kultural:** Mayoritas standar baku yang beredar merujuk pada norma budaya Barat. Praktisi mesti menelaah adakah bias bahasa atau referensi kebiasaan lokal yang memicu peserta tes salah menanggapi aitem.
 
-> *Instrumen penilaian bekerja ibarat pedang bermata dua; fungsinya membongkar lapisan kedalaman profil sejalan dengan bahaya yang ditimbulkannya ketika beroperasi tanpa kompas etika.*
+> *Instrumen penilaian ibarat pedang bermata dua: ia bisa mengungkap profil seseorang secara mendalam, tetapi juga bisa merugikan bila dipakai tanpa pertimbangan etika.*
