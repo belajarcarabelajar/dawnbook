@@ -1,6 +1,6 @@
 ## Struktur Insentif dan Salience agar yang Penting Menjadi Terlihat
 
-Pernahkah kamu heran mengapa kita sering kali mengabaikan diskon besar di akhir bulan, tetapi langsung bereaksi pada satu label di situs belanja online? Label itu bertuliskan "Sisa 1 Barang!" dengan warna merah menyala. Atau mengapa kita tetap menggunakan listrik secara boros padahal kita tahu tagihannya akan mahal di akhir bulan?
+Pernahkah kamu heran mengapa kita sering kali mengabaikan diskon besar di akhir bulan, tetapi langsung bereaksi pada label merah "Sisa 1 Barang!"? Atau mengapa kita tetap menggunakan listrik secara boros padahal kita tahu tagihannya akan mahal di akhir bulan?
 
 Jawabannya terletak pada **Salience** (keterlihatan/keunggulan) dan bagaimana **Struktur Insentif** dirancang. Dalam Arsitektur Pilihan, memberikan insentif saja tidak cukup. Insentif tersebut harus "berteriak" cukup keras agar didengar oleh **Sistem 1** kita yang intuitif dan cepat.
 
