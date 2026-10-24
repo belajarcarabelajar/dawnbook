@@ -11,16 +11,16 @@ Eksistensialisme hadir sebagai filsafat pembebasan yang mengonversi disorientasi
 - **Penaklukkan Diri dan Transvaluasi Nilai (*Friedrich Nietzsche*):** Keberanian untuk membongkar moralitas konvensional yang melemahkan daya hidup menuju penciptaan nilai-nilai baru yang mengafirmasi eksistensi (*Amor Fati*).
 - **Kecemasan sebagai Kompas Kebebasan (*Søren Kierkegaard*):** Pengakuan bahwa kecemasan eksistensial (*Angst*) adalah bukti ontologis atas luasnya ruang kemungkinan yang terbuka bagi kehendak bebas.
 
-### 2. Matriks Integrasi Kerangka Pikir Eksistensial
+### 2. Empat Gagasan dan Tokohnya
 
-| Pilar Konseptual | Rujukan Filosofis | Implikasi Ontologis | Praksis Keseharian |
+| Gagasan Pokok | Rujukan Filosofis | Implikasi Ontologis | Praksis Keseharian |
 | :--- | :--- | :--- | :--- |
 | **Primasi Eksistensi** | Jean-Paul Sartre | Ketiadaan esensi bawaan | Mendefinisikan jati diri melalui aksi konkret |
 | **Pemberontakan Absurd** | Albert Camus | Ketegangan hasrat dan realitas | Merayakan eksistensi di tengah ketidakpastian |
 | **Kehendak Berkuasa** | Friedrich Nietzsche | Penaklukkan kelemahan internal | Menciptakan nilai moral secara otonom |
 | **Kecemasan (*Angst*)** | Søren Kierkegaard | Kesadaran akan kemungkinan | Menjadikan kecemasan sebagai katalis keputusan |
 
-### 3. Transformasi Kecemasan Menjadi Praksis Otonom
+### 3. Merangkul Kebebasan Meski Cemas
 
 Kebebasan radikal tidak dapat dipisahkan dari tanggung jawab mutlak. Ketika subjek dihadapkan pada persimpangan keputusan eksistensial, kecemasan yang muncul bukanlah indikator kelemahan, melainkan pertanda bahwa kendali kehidupan berada sepenuhnya di tangan pribadi. Menolak kebebasan demi ilusi rasa aman merupakan bentuk penipuan diri (*mauvaise foi*). Sebaliknya, merangkul kebebasan berarti mengambil alih kemudi hidup dan melangkah dengan keteguhan batin.
 

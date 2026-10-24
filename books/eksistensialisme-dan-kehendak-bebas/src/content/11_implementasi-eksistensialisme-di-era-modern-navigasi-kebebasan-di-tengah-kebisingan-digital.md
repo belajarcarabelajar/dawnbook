@@ -17,7 +17,7 @@ Dalam kerangka eksistensialis, reklamasi otonomi digital diwujudkan melalui:
 
 Masyarakat industri dan pasca-industri kerap menjebak individu ke dalam reduksionisme fungsional, yakni menyamakan esensi kemanusiaan semata-mata dengan peran ekonomi atau gelar profesi.
 
-#### Primasi Eksistensi atas Fungsi Ekonomi
+#### Manusia Lebih dari Pekerjaannya
 
 Prinsip ontologis bahwa $\text{Eksistensi} > \text{Esensi}$ menegaskan bahwa manusia mendahului segala kategori profesi. Pekerjaan adalah salah satu sarana ekspresi praksis kebebasan, bukan sangkar ontologis yang mendefinisikan totalitas martabat individu.
 
@@ -35,7 +35,7 @@ $$
 
 Eksistensialisme memandang adopsi tanpa telaah kritis atas siklus ini sebagai bentuk ketidakotentikan. Asumsi bahwa akumulasi ekspektasi eksternal secara mekanis menghasilkan kebermaknaan hidup ($\sum \text{Ekspektasi} = \text{Makna}$) merupakan ilusi struktural. Makna hidup yang otentik lahir dari keselarasan antara praksis tindakan konkret dan nilai-nilai yang dipilih secara otonom.
 
-### 4. Matriks Evaluasi Praksis Eksistensial Modern
+### 4. Tiga Arena Hidup Modern
 
 | Arena Kehidupan | Modus Iktikad Buruk (*Mauvaise Foi*) | Sikap Otentik Eksistensial |
 | :--- | :--- | :--- |
@@ -43,6 +43,6 @@ Eksistensialisme memandang adopsi tanpa telaah kritis atas siklus ini sebagai be
 | **Konsumsi Digital** | "Algoritma memaksa atensi tercurah pada konten digital tanpa henti." | "Menegakkan batas otonom dan memikul tanggung jawab atas waktu yang dialokasikan." |
 | **Ekspektasi Sosial** | "Menjalani standar konvensional semata demi menghindari penghakiman sosial." | "Merumuskan haluan hidup secara mandiri dan siap menanggung risiko diferensiasi." |
 
-### 5. Kebebasan Sejati di Era Digital
+### 5. Tetap Menjadi Subjek di Era Digital
 
 Penerapan eksistensialisme dalam realitas kontemporer bukanlah seruan untuk mengasingkan diri dari teknologi, melainkan ajakan untuk mengubah disposisi kesadaran. Kebebasan sejati di era digital terartikulasi tatkala manusia berani mempertahankan kedudukannya sebagai subjek pencipta makna di hadapan arus kebisingan informasi yang terus berusaha mereduksi dirinya menjadi sekadar objek kalkulasi data.

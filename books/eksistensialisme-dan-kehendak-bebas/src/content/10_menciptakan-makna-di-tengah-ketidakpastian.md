@@ -8,7 +8,7 @@ Dalam ontologi eksistensialisme, ketiadaan rancangan awal bagi manusia bukanlah 
 
 > "Kehidupan tidak memiliki makna apriori yang mendahuluinya. Makna hidup adalah apa yang diukir dan dipilih oleh manusia melalui tindakannya." - Jean-Paul Sartre
 
-#### Alegori Konstruksi di Tepi Samudra
+#### Membangun di Tepi Pantai
 
 Keberadaan manusia dapat dianalogikan seperti mendirikan struktur di tepi pantai yang senantiasa diterpa gelombang pasang surut. Karakter kefanaan struktur tersebut tidak mereduksi nilai dari tindakan pembangunannya. Justru dalam ketiadaan perintah kosmis dan kesadaran akan kefanaan itulah, kehendak untuk terus berkarya memperoleh signifikansi estetis dan martabat moral.
 
@@ -35,7 +35,7 @@ $$
 #### c. Komitmen pada Proyek Utama (*The Fundamental Project*)
 Menetapkan arah dedikasi hidup jangka panjang, baik dalam domain penciptaan karya intelektual, advokasi keadilan sosial, maupun pembangunan relasi kemanusiaan yang berempati.
 
-### 3. Matriks Penanganan Disorientasi Eksistensial
+### 3. Tiga Hambatan Mencari Makna
 
 Ketika subjek menghadapi krisis kehampaan di hadapan kesunyian alam semesta, pendekatan eksistensialis menawarkan strategi respons yang terstruktur:
 
@@ -51,6 +51,6 @@ Ketika seorang individu mengalami disrupsi struktural dalam kehidupannya (sepert
 - **Respon Pasif:** Mengidentifikasikan esensi diri secara kaku dengan status fungsional masa lalu, sehingga kehilangan peran sosial dianggap sebagai kehancuran eksistensi.
 - **Respon Eksistensial Otentik:** Menyadari bahwa peran masa lalu hanyalah faktisitas historis. Subjek menggunakan ruang kebebasan baru untuk merumuskan ulang proyek eksistensialnya melalui praksis yang selaras dengan nilai-nilai otentik.
 
-### 5. Makna sebagai Konstruksi Sadar
+### 5. Makna Dibentuk, Bukan Ditemukan
 
 Makna bukanlah artefak metafisik yang tertanam di kosmos untuk ditemukan secara pasif. Makna adalah konstruksi sadar yang dibentuk oleh kehendak bebas manusia di tengah ketidakpastian. Dengan menegakkan komitmen praksis dan merangkul kontingensi duniawi, manusia membuktikan kedaulatannya sebagai arsitek atas keberadaannya.

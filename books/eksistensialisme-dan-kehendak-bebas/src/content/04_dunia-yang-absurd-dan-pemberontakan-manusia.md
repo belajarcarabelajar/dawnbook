@@ -2,7 +2,7 @@
 
 Konsep absurdisme Albert Camus menelaah ketegangan eksistensial saat hasrat manusia akan makna berbenturan dengan kesunyian alam semesta yang irasional. Jika Jean-Paul Sartre menekankan bahwa kebebasan merupakan kondisi ontologis niscaya, Camus mengajak penelaahan terhadap realitas yang lebih mendasar: disonansi antara kerinduan rasional manusia akan kejelasan dan realitas kosmik yang sepenuhnya membisu.
 
-### 1. Epistemologi Absurdisme
+### 1. Apa yang Dimaksud Absurd
 
 Dalam pemikiran Camus, istilah "absurd" bukanlah sekadar keanehan situasi sehari-hari, melainkan sebuah kategori epistemologis yang spesifik. Absurditas lahir secara eksklusif dari relasi benturan antara dua elemen:
 

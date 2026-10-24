@@ -6,7 +6,7 @@ Eksistensialisme adalah aliran filsafat yang menjadikan pengalaman subjektif, ke
 
 Secara ontologis, eksistensialisme berfokus pada dinamika pengalaman partikular individu, kedaulatan kehendak, dan keniscayaan tanggung jawab moral. Para pemikir eksistensialis menegaskan bahwa manusia tidak hadir dengan tujuan esensial atau takdir bawaan yang telah terdeterminasi sebelumnya. Manusia terlebih dahulu terlempar (*geworfen*) ke dalam realitas duniawi, kemudian secara sadar mengonstruksi esensi serta identitas dirinya melalui rangkaian pilihan konkret.
 
-**Analogi Epistemologis Aktor dan Panggung Eksistensi**
+**Aktor Tanpa Naskah**
 
 > Dalam perspektif eksistensial, keberadaan manusia dianalogikan seperti seorang aktor yang melangkah ke atas panggung pementasan tanpa naskah tertulis dan tanpa arahan sutradara. Seluruh gestur, artikulasi, dan tindakan panggung merupakan konsekuensi langsung dari keputusan otonom sang aktor. Hal ini menegaskan postulat fundamental bahwa setiap individu merupakan penulis, pengarah, sekaligus eksekutor atas jalan hidupnya sendiri.
 
@@ -49,7 +49,7 @@ Dalam kerangka ontologi eksistensial, disparitas kategoris antara benda mati (ob
 
 Pada entitas objek seperti perkakas, konsepsi peruntukan dan tujuan telah dirancang mendahului proses penciptaannya. Sebaliknya, pada entitas manusia, kehadiran fisik mendahului definisi identitas apa pun, sehingga perumusan makna hidup sepenuhnya terbentuk melalui manifestasi tindakan konkret.
 
-### 6. Relevansi Diskursus dalam Konteks Kontemporer
+### 6. Relevansi bagi Masyarakat Modern
 
 Prinsip-prinsip eksistensialisme menawarkan kerangka analisis yang tajam dalam mengkaji dinamika masyarakat modern:
 
@@ -57,6 +57,6 @@ Prinsip-prinsip eksistensialisme menawarkan kerangka analisis yang tajam dalam m
 - **Kecemasan Eksistensial (*Angst*):** Menempatkan kecemasan bukan sebagai patologi psikologis semata, melainkan sebagai tanda kesadaran ontologis akan keluasan pilihan yang terbuka.
 - **Otonomi di Tengah Digitalisasi:** Mempertahankan integritas individual di hadapan arus algoritma dan tekanan konformitas media digital.
 
-### 7. Ketiadaan Cetak Biru sebagai Ruang Kedaulatan Diri
+### 7. Hidup Tanpa Cetak Biru
 
 Eksistensialisme menolak pasivitas deterministik dan menempatkan tanggung jawab penciptaan makna secara utuh pada pundak manusia. Ketiadaan cetak biru bawaan bukan merupakan kehampaan pasif, melainkan ruang pembuktian kedaulatan diri.

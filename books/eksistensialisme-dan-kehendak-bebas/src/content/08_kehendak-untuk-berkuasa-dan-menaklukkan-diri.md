@@ -66,7 +66,7 @@ Di mana variabel formulasi mencakup:
 
 Formulasi ini menegaskan bahwa peningkatan derajat penaklukkan diri ($s$) secara konsisten melipatgandakan kapasitas aktualisasi eksistensial manusia.
 
-### 5. Kontekstualisasi Etika Penaklukkan Diri
+### 5. Penerapan Kehendak Berkuasa Hari Ini
 
 Dalam realitas kontemporer, penerapan *Wille zur Macht* beroperasi dalam arena penataan disposisi internal:
 

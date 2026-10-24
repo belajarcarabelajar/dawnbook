@@ -32,7 +32,7 @@ Eksistensi manusia tidak berlangsung dalam ruang soliter yang terisolasi, melain
 1. **Rekognisi Kesadaran Bersama:** Kesadaran diri (*pour-soi*) hanya dapat mengonfirmasi keberadaannya melalui tatapan kesadaran lain (*the Look / le regard*). Dengan demikian, mendehumanisasi orang lain pada dasarnya merusak landasan kemanusiaan subjek itu sendiri.
 2. **Komitmen Keterlibatan (*Engagement*):** Mengambil posisi netral di hadapan penindasan bukanlah manifestasi ketiadaan pilihan, melainkan keputusan aktif untuk mengafirmasi status quo ketidakadilan.
 
-### 4. Matriks Perbandingan Tanggung Jawab Moral vs Iktikad Buruk
+### 4. Tiga Dalih untuk Menghindari Tanggung Jawab
 
 | Situasi Moral | Rasionalisasi Iktikad Buruk (*Mauvaise Foi*) | Penegasan Tanggung Jawab Radikal |
 | :--- | :--- | :--- |
@@ -40,7 +40,7 @@ Eksistensi manusia tidak berlangsung dalam ruang soliter yang terisolasi, melain
 | **Kelemahan Karakter** | "Watak pemarah merupakan bawaan psikologis yang tidak dapat diubah." | Pengakuan bahwa kegagalan mengendalikan diri adalah hasil kompromi kehendak. |
 | **Konformitas Sosial** | "Tindakan manipulatif lazim dilakukan oleh mayoritas orang." | Penegasan bahwa mengikuti arus massa merupakan penyerahan kedaulatan moral. |
 
-### 5. Kontekstualisasi dalam Isu Etika Global
+### 5. Etika Eksistensial dan Krisis Global
 
 Relevansi etika eksistensial terbukti nyata dalam merespons krisis kontemporer, seperti degradasi ekologis dan perubahan iklim global:
 - **Tanggung Jawab Kolektif:** Sekalipun tindakan destruktif terhadap lingkungan dilakukan dalam skala mikro individual, tindakan tersebut menyiratkan validasi atas pola konsumsi yang merusak bumi secara universal.

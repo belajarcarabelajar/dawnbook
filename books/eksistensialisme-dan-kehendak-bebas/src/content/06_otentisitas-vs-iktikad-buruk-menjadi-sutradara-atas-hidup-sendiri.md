@@ -54,7 +54,7 @@ $$
 $$
 </div>
 
-### 4. Matriks Komparatif Otentisitas vs Iktikad Buruk
+### 4. Membandingkan Sikap Otentik dan Iktikad Buruk
 
 | Parameter Evaluasi | Sikap Otentisitas | Modus Iktikad Buruk (*Mauvaise Foi*) |
 | :--- | :--- | :--- |
@@ -63,7 +63,7 @@ $$
 | **Perlakuan atas Faktisitas** | Menjadikan batasan objektif sebagai titik tolak | Menjadikan batasan objektif sebagai alibi kepasrahan |
 | **Akuntabilitas Moral** | Mengakui kedaulatan pilihan subjek | Menyalahkan determinisme lingkungan dan takdir |
 
-### 5. Kontekstualisasi dalam Sosiologi Kontemporer
+### 5. Wujud Iktikad Buruk Masa Kini
 
 Dalam dinamika kebudayaan kontemporer, manifestasi *mauvaise foi* teramati dalam berbagai sektor:
 

@@ -21,7 +21,7 @@ Struktur eksistensi manusia dalam mengekspresikan kehendak bebas bergerak dalam 
 1. **Faktisitas (*Facticity*):** Kumpulan realitas objektif yang menjadi titik tolak keberadaan manusia, seperti tubuh biologis, latar belakang sejarah, dan hukum fisika yang tidak dapat dipilih sebelumnya.
 2. **Transendensi (*Transcendence*):** Kemampuan kesadaran manusia untuk melampaui kondisi faktisitas melalui proyeksi tujuan, interpretasi makna, dan kehendak tindakan aktif.
 
-**Analogi Dialektis Bidak Catur**
+**Analogi Papan Catur**
 
 > Realitas faktisitas dianalogikan seperti papan catur beserta aturan mekanis pergerakan bidaknya. Seorang pecatur tidak dapat mengubah aturan dasar langkah kuda atau benteng. Namun, kedaulatan kehendak bebas terartikulasi pada pilihan kalkulasi strategis dalam menggerakkan bidak untuk merespons langkah lawan. Papan catur menyajikan batasan faktual, namun strategi lahir sepenuhnya dari transendensi sang pemain.
 
@@ -51,7 +51,7 @@ Pengejawantahan kehendak bebas dalam realitas konkret memerlukan disiplin kognit
 2. **Transformasi Faktisitas:** Menjadikan batasan objektif bukan sebagai alasan kepasrahan, melainkan sebagai batu pijakan untuk melancarkan proyek transendensi.
 3. **Akseptasi Konsekuensi Etis:** Menyadari bahwa kedaulatan memilih selalu berjalan beriringan dengan kesiapan memikul implikasi moral dan praktis dari pilihan tersebut.
 
-### 6. Matriks Sintesis Konsep
+### 6. Empat Sisi Kehendak Bebas
 
 | Parameter | Dimensi Analisis |
 | :--- | :--- |
@@ -60,6 +60,6 @@ Pengejawantahan kehendak bebas dalam realitas konkret memerlukan disiplin kognit
 | **Konsekuensi Etis** | Ketiadaan alibi moral untuk melepaskan tanggung jawab atas tindakan pribadi. |
 | **Tujuan Eksistensial** | Pencapaian otentisitas diri dan penegakan kedaulatan subjek. |
 
-### 7. Kehendak Bebas sebagai Fondasi Kedaulatan
+### 7. Kehendak Bebas Menjadikan Manusia Subjek
 
 Kehendak bebas adalah fondasi kedaulatan eksistensial manusia. Tanpa kehendak bebas, manusia tereduksi menjadi objek mekanis yang sekadar bereaksi terhadap impuls lingkungan. Melalui kehendak bebas, manusia mentransformasikan dirinya menjadi subjek berdaulat yang menciptakan makna bagi keberadaannya.
