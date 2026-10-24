@@ -67,7 +67,7 @@ Pada pelatihan umum, pekerja menanggung biaya pelatihan melalui pemotongan upah 
 
 <div>
 $$
-\text{Fase Pelatihan (Periode 1)} : \text{W}_1 < \text{VMP}_1
+\text{Fase Pelatihan (Periode 1)} : \text{W}_1 \lt \text{VMP}_1
 $$
 </div>
 
@@ -106,7 +106,7 @@ $$
 
 <div>
 $$
-\text{Pasca-Pelatihan (Periode 2)} : \text{W}_{\text{pasar}} < \text{W}_2 < \text{VMP}_2
+\text{Pasca-Pelatihan (Periode 2)} : \text{W}_{\text{pasar}} \lt \text{W}_2 \lt \text{VMP}_2
 $$
 </div>
 
