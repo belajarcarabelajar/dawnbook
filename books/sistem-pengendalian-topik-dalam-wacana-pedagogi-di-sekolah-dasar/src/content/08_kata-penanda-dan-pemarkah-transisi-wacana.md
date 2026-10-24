@@ -37,12 +37,16 @@ Untuk memahami bagaimana pemarkah wacana bekerja dalam praktik nyata, mari amati
 #### 1. Penggunaan Kata *Baik* dan *Sekarang* untuk Transisi Tugas
 Dalam sesi latihan bahasa, guru menggunakan pemarkah *baik* dan *sekarang* untuk memindahkan fokus siswa dari diskusi bebas ke penyusunan struktur kalimat.
 
-| Gerakan | Pemeran | Penutur | Ujaran Verbal | Fungsi Wacana |
-| :--- | :--- | :--- | :--- | :--- |
-| Pemulai | Perintah | Guru (G) | "Baik, baik sekarang Bapak akan buat satu kalimat. Ini-buku-bahasa-Indonesia." | Pemarkah awal transisi ke tugas pembuatan kalimat tanya. |
-| Respons | Pertanyaan | Guru (G) | "Apa buku itu?" | Memberikan contoh pertanyaan untuk memicu latihan. |
-| Komen | Respons | Siswa (S) | "Apa-buku-i__ Tuu." | Siswa merespons contoh kalimat yang diberikan. |
-| Komen | Respons | Guru (G) | "Itu." | Penegasan pelafalan oleh guru. |
+| Gerakan | Pemeran | Penutur | Ujaran Verbal |
+| :--- | :--- | :--- | :--- |
+| 032 | Pemulai | Guru (G) | "Baik, baik sekarang Bapak akan buat satu kalimat." |
+| 033 | Pertanyaan | Guru (G) | "Ini-buku-bahasa-Indonesia." |
+| 034 | Respons | Siswa (S) | "Apa buku itu?" |
+| 035 | Komen | Guru (G) | "Apa-buku-i__" |
+| 036 | Respons | Siswa (S) | "Tuu." |
+| 037 | Komen | Guru (G) | "Itu." |
+
+Guru memberikan satu kalimat jawaban, lalu siswa mengubahnya menjadi kalimat tanya.
 
 *(Dikutip dan diolah dari Kutipan Teks 12, Menyusun Kalimat Tanya, dalam Marliana, 2017)*
 

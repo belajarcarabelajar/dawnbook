@@ -78,4 +78,34 @@ describe(`book ${SLUG}`, () => {
     }
     expect(missing).toEqual([]);
   });
+
+  const lineWith = (prefix: string, needle: string) => {
+    const file = chapters.find((f) => f.startsWith(prefix)) as string;
+    return read(file).split("\n").find((l) => l.includes(needle)) ?? "";
+  };
+
+  // PDF Contoh 4.14: the teacher gives the sentence, a pupil asks the question.
+  test("chapter 08 keeps the speakers of Contoh 4.14", () => {
+    expect(lineWith("08_", '"Ini-buku-bahasa-Indonesia."')).toContain("Guru");
+    expect(lineWith("08_", '"Apa buku itu?"')).toContain("Siswa");
+    expect(lineWith("08_", '"Apa-buku-i__"')).toContain("Guru");
+  });
+
+  test("the 70-80% teacher-talk figure carries a citation on its line", () => {
+    const line = lineWith("02_", "70-80%");
+    if (line) expect(line).toMatch(/[A-Z][a-z]+, (19|20)\d{2}/);
+  });
+
+  // The PDF only says which texts and greetings appear (Teks 5 and 7 Bu,
+  // Teks 9 Pak); purpose and teacher-response cells had no source.
+  test("chapter 06 drops the unsourced greeting-table columns", () => {
+    const text = read(chapters.find((f) => f.startsWith("06_")) as string);
+    expect(text).not.toContain("Tujuan Pengendalian Topik");
+    expect(text).not.toContain("Respons Utama Guru");
+  });
+
+  test("chapter 06 gives eh and kalau begitu the functions the PDF names", () => {
+    expect(lineWith("06_", "| **Eh** |")).toContain("berpikir");
+    expect(lineWith("06_", "| **Kalau begitu** |")).toContain("kegiatan baru");
+  });
 });

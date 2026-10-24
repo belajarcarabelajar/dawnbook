@@ -46,6 +46,7 @@ Berikut adalah daftar sumber pustaka dan referensi akademik yang dirujuk dalam k
 - Fairclough, N. (2001). *Language and power* (Edisi ke-2). Pearson Education.
 - Fairclough, N. (2003). *Analysing discourse: Textual analysis for social research*. Routledge.
 - Fairclough, N. (2006). *Discourse and social change*. Polity Press.
+- Gewertz, C. (2019, 10 Desember). How much should teachers talk in the classroom? Much less, some say. *Education Week*. [https://www.edweek.org/teaching-learning/how-much-should-teachers-talk-in-the-classroom-much-less-some-say/2019/12](https://www.edweek.org/teaching-learning/how-much-should-teachers-talk-in-the-classroom-much-less-some-say/2019/12)
 - Marliana, N. L. (2017). Sistem pengendalian topik dalam wacana pedagogi di sekolah dasar. *AKSIS: Jurnal Pendidikan Bahasa dan Sastra Indonesia*, 1(1), 80-103. [https://journal.unj.ac.id/unj/index.php/aksis/article/view/3281](https://journal.unj.ac.id/unj/index.php/aksis/article/view/3281)
 - McCarthy, M. (1991). *Discourse analysis for language teachers*. Cambridge University Press.
 - Mehan, H. (1979). *Learning lessons: Social organization in the classroom*. Harvard University Press. [https://doi.org/10.4159/harvard.9780674420106](https://doi.org/10.4159/harvard.9780674420106)

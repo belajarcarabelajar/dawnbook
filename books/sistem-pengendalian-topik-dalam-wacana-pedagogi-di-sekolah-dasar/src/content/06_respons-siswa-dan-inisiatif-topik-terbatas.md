@@ -8,11 +8,11 @@ Menurut temuan empiris Marliana (2017) dalam wacana kelas sekolah dasar, partisi
 
 Tabel berikut menggambarkan distribusi dan pola inisiatif pembukaan topik oleh siswa dalam wacana interaksi kelas:
 
-| Jenis Teks Wacana | Kata Sapaan yang Digunakan | Tujuan Pengendalian Topik | Respons Utama Guru |
-| :--- | :--- | :--- | :--- |
-| **Teks 5** | *Bu* | Menanyakan petunjuk teknis tugas | Guru memberikan jawaban singkat |
-| **Teks 7 (Menanam Ubi Kayu)** | *Bu* | Meminta klarifikasi aturan penulisan & hafalan | Guru menjawab sebagian, lalu mengabaikan |
-| **Teks 9 (Naskah Drama)** | *Pak* | Meminta izin melihat teks & konfirmasi anggota | Guru memberikan petunjuk dan arahan pementasan |
+| Jenis Teks Wacana | Kata Sapaan yang Digunakan |
+| :--- | :--- |
+| **Teks 5 (Alat Pengangkut Padi)** | *Bu* |
+| **Teks 7 (Menanam Ubi Kayu)** | *Bu* |
+| **Teks 9 (Memerankan Naskah Drama)** | *Pak* |
 
 > **Catatan Pedagogis**: Penggunaan kata sapaan oleh siswa merupakan satu-satunya sarana formal yang dianggap sopan oleh siswa untuk memutus alur wacana guru. Namun, frekuensi penggunaan yang kecil menegaskan bahwa otoritas pembukaan topik masih sepenuhnya dipegang oleh guru.
 
@@ -69,7 +69,8 @@ Berikut adalah pemarkah transisi topik yang digunakan oleh guru dalam mengendali
 | **Sekarang** | Menandai perubahan fokus aktivitas belajar |
 | **Nah / Jadi** | Menyimpulkan topik sebelum beralih |
 | **Baik / Coba** | Mengarahkan instruksi tindakan baru |
-| **Eh / Kalau begitu** | Mengoreksi atau mengalihkan arah pembicaraan |
+| **Eh** | Jeda ketika guru berpikir dahulu sebelum memberi arahan |
+| **Kalau begitu** | Membuka kegiatan baru, misalnya mengajak bernyanyi bersama |
 
 Dalam data Marliana (2017), kata penanda *ya* mencatatkan frekuensi tertinggi sebesar 13% dalam pengalihan topik oleh guru. Fleksibilitas guru dalam memilih kata penanda ini membuktikan bahwa posisi tawar komunikasi di dalam kelas masih terpusat pada pendidik. Kamu dapat mengamati bahwa struktur wacana sekolah dasar masih menempatkan guru sebagai pengatur utama lalu lintas pembicaraan.
 
