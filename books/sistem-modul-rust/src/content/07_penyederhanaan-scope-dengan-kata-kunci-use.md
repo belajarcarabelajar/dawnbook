@@ -1,6 +1,6 @@
 ## Penyederhanaan Scope dengan Kata Kunci use
 
-Bayangkan kamu tinggal di sebuah kompleks perumahan yang sangat besar. Setiap kali kamu ingin mengundang teman ke rumah, kamu harus memberikan alamat lengkap: **"Negara Indonesia, Provinsi DKI Jakarta, Kota Jakarta Selatan, Kecamatan Tebet, Jalan Gajah Mada Nomor 123"**.
+Bayangkan kamu tinggal di sebuah kompleks perumahan yang besar. Setiap kali kamu ingin mengundang teman ke rumah, kamu harus memberikan alamat lengkap: **"Negara Indonesia, Provinsi DKI Jakarta, Kota Jakarta Selatan, Kecamatan Tebet, Jalan Gajah Mada Nomor 123"**.
 
 Lama-lama, menuliskan alamat sepanjang itu di setiap surat undangan tentu melelahkan. Bukankah lebih mudah jika kamu cukup berkata, **"Datanglah ke Rumah Saya"**, dan semua orang di lingkungan tersebut sudah tahu maksudnya?
 
@@ -130,11 +130,11 @@ Jika kamu ingin membawa **semua** item publik dari sebuah modul ke dalam scope, 
 use std::collections::*;
 ```
 
-Peringatan: Gunakan operator glob dengan sangat hati-hati. Operator glob dapat mempersulit pembaca kode untuk mengetahui asal-usul suatu item, serta berisiko menimbulkan konflik nama jika modul tersebut menambahkan fungsi baru di masa mendatang. Biasanya, operator glob digunakan dalam file pengujian (testing) atau saat menyiapkan prelude.
+Peringatan: Gunakan operator glob dengan hati-hati. Operator glob dapat mempersulit pembaca kode untuk mengetahui asal-usul suatu item, serta berisiko menimbulkan konflik nama jika modul tersebut menambahkan fungsi baru di masa mendatang. Biasanya, operator glob digunakan dalam file pengujian (testing) atau saat menyiapkan prelude.
 
 ## Penanganan Data JSON
 
-Dalam pengembangan aplikasi web menggunakan Rust, kita sering menggunakan library `serde`. Penggunaan `use` sangat krusial di sini agar logika bisnis tidak terganggu oleh path modul yang panjang.
+Dalam pengembangan aplikasi web menggunakan Rust, kita sering menggunakan library `serde`. Penggunaan `use` penting di sini agar logika bisnis tidak terganggu oleh path modul yang panjang.
 
 ```rust
 use serde::{Serialize, Deserialize};

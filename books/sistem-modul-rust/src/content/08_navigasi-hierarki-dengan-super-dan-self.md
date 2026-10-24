@@ -6,7 +6,7 @@ Rust menyediakan dua keyword, yaitu **`self`** dan **`super`**, yang berfungsi s
 
 ### 1. Memahami Keyword self
 
-Keyword **`self`** merujuk pada modul tempat kode tersebut ditulis. Secara teknis, menggunakan `self` di awal path sering kali bersifat opsional karena Rust akan mencari di scope saat ini secara default. Namun, `self` menjadi sangat berguna untuk memperjelas bahwa kita merujuk pada item di dalam modul yang sama, atau saat kita ingin melakukan *re-exporting*.
+Keyword **`self`** merujuk pada modul tempat kode tersebut ditulis. Secara teknis, menggunakan `self` di awal path sering kali bersifat opsional karena Rust akan mencari di scope saat ini secara default. Namun, `self` menjadi berguna untuk memperjelas bahwa kita merujuk pada item di dalam modul yang sama, atau saat kita ingin melakukan *re-exporting*.
 
 #### "Ruangan yang Sama"
 
@@ -42,7 +42,7 @@ fn main() {
 
 ### 2. Memahami Keyword super
 
-Keyword **`super`** memungkinkan kita untuk mengakses item yang berada di parent module. Ini sangat berguna ketika kamu mengorganisasi kode dalam submodule yang dalam, namun tetap perlu berinteraksi dengan fungsi atau data structure yang didefinisikan satu tingkat di atasnya.
+Keyword **`super`** memungkinkan kita untuk mengakses item yang berada di parent module. Ini berguna ketika kamu mengorganisasi kode dalam submodule yang dalam, namun tetap perlu berinteraksi dengan fungsi atau data structure yang didefinisikan satu tingkat di atasnya.
 
 #### "Lantai Atas"
 
@@ -91,7 +91,7 @@ Berikut perbedaan penggunaannya dalam struktur modul:
 | **Relatif (`self`)** | `self::masak` | Untuk menegaskan pemanggilan item di dalam scope modul yang sama. |
 | **Relatif (`super`)** | `super::masak` | Saat mengakses item yang berada tepat satu tingkat di atas (parent module). |
 
-Jika kamu menulis kode di dalam modul yang sangat dalam, mana yang lebih mudah dikelola jika suatu saat nama crate-mu berubah: absolute path atau relative path?
+Jika kamu menulis kode di dalam modul yang dalam, mana yang lebih mudah dikelola jika suatu saat nama crate-mu berubah: absolute path atau relative path?
 
 ### 4. Unit Testing
 
@@ -165,4 +165,4 @@ flowchart BT
     B ~~~ A
 ```
 
-Dengan keyword `self` dan `super`, struktur path modul menjadi fleksibel. Kode lebih mudah di-refactor karena relasi modul bersifat relatif, mempermudah pengelolaan kode saat proyek Rust-mu mulai berkembang pesat.
+Dengan keyword `self` dan `super`, struktur path modul menjadi fleksibel. Kode lebih mudah di-refactor karena relasi modul bersifat relatif, mempermudah pengelolaan kode saat proyek Rust-mu mulai membesar.

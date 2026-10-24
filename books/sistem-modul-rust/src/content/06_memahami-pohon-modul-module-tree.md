@@ -65,7 +65,7 @@ mod ruang_makan {
 
 ### Menggunakan super
 
-Kata kunci `super` sangat berguna untuk mengakses item yang berada tepat satu tingkat di atas module saat ini. Ini membantu mengurangi pengulangan jika kamu memindahkan seluruh submodule ke parent module yang berbeda.
+Kata kunci `super` berguna untuk mengakses item yang berada tepat satu tingkat di atas module saat ini. Ini membantu mengurangi pengulangan jika kamu memindahkan seluruh submodule ke parent module yang berbeda.
 
 ```rust
 fn umumkan_pesanan() {}
@@ -111,7 +111,7 @@ Rust secara default menyembunyikan isi module (private). Agar sebuah path bisa d
 - Module harus ditandai `pub`.
 - Item (function, struct) harus ditandai `pub`.
 
-Ketika Absolute Path yang digunakan sangat panjang, seperti `crate::area::bangunan::lantai::ruangan::meja::laci::kunci()`, mengetiknya berulang kali tentu akan sangat melelahkan. Rust menyediakan cara praktis untuk menyederhanakan penulisan ini, yang akan kita bahas di bagian `use` nanti.
+Ketika Absolute Path yang digunakan panjang, seperti `crate::area::bangunan::lantai::ruangan::meja::laci::kunci()`, mengetiknya berulang kali tentu melelahkan. Rust menyediakan cara praktis untuk menyederhanakan penulisan ini, yang akan kita bahas di bagian `use` nanti.
 
 ## Struktur Proyek Web
 

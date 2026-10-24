@@ -1,8 +1,8 @@
 ## Mengelola Kompleksitas Hierarki Modul dengan Folder
 
-Bayangkan kamu sedang membangun perpustakaan digital yang sangat besar. Awalnya, kamu mungkin hanya membutuhkan satu rak buku. Namun, seiring bertambahnya koleksi, satu rak tentu tidak lagi cukup. Kamu pun mulai membagi buku berdasarkan kategori (Fiksi, Sains, Sejarah). Di dalam kategori Sains, buku-buku tersebut dibagi lagi menjadi Fisika, Biologi, dan Kimia.
+Bayangkan kamu sedang membangun perpustakaan digital yang besar. Awalnya, kamu mungkin hanya membutuhkan satu rak buku. Namun, seiring bertambahnya koleksi, satu rak tentu tidak lagi cukup. Kamu pun mulai membagi buku berdasarkan kategori (Fiksi, Sains, Sejarah). Di dalam kategori Sains, buku-buku tersebut dibagi lagi menjadi Fisika, Biologi, dan Kimia.
 
-Dalam dunia Rust, ketika kode programmu tumbuh dari puluhan menjadi ribuan baris, menumpuk semua file di dalam satu folder `src/` akan membuat proyek berantakan. Di sinilah **Hierarki Modul dengan Folder** mulai memainkan peran penting.
+Dalam Rust, ketika kode programmu tumbuh dari puluhan menjadi ribuan baris, menumpuk semua file di dalam satu folder `src/` akan membuat proyek berantakan. Di sinilah **Hierarki Modul dengan Folder** mulai memainkan peran penting.
 
 ### Struktur Organisasi Perusahaan
 
@@ -12,7 +12,7 @@ Untuk memahami konsep hierarki ini, kita bisa membayangkan struktur sebuah perus
 2. **Folder (Departemen)**: Mewakili departemen tertentu, misalnya departemen `Akuntansi`.
 3. **File di dalam Folder (Tim Spesifik)**: Mewakili tim kecil di dalam departemen. Di dalam `Akuntansi`, misalnya, terdapat tim `Gaji` dan tim `Pajak`.
 
-Tanpa adanya pembagian folder, semua anggota tim dari setiap departemen akan berkumpul di satu ruangan besar. Hal ini tentu memicu kekacauan ketika ada yang ingin mencari informasi spesifik.
+Tanpa adanya pembagian folder, semua anggota tim dari setiap departemen akan berkumpul di satu ruangan besar. Hal ini tentu menyulitkan siapa pun yang ingin mencari informasi spesifik.
 
 ### Pola File dan Folder Berdampingan
 
@@ -109,7 +109,7 @@ Struktur folder di komputermu sebenarnya membentuk pola sebuah "pohon" (tree). S
 
 ### Pengembangan Game Engine
 
-Dalam pengembangan game, kerapian organisasi kode menjadi sangat krusial. Lihat bagaimana hierarki folder berikut mempermudah proses navigasi:
+Dalam pengembangan game, kerapian organisasi kode menjadi penting. Lihat bagaimana hierarki folder berikut mempermudah proses navigasi:
 
 ```text
 src/

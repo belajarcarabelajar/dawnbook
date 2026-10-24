@@ -1,4 +1,4 @@
-Ketika proyek Rust berkembang dari sekadar "Hello World" menjadi aplikasi berskala produksi, memahami sintaksis bukan lagi tantangan terbesarnya. Kini yang paling berat adalah merancang **organisasi** kode. Tanpa struktur yang terencana, direktori `src` akan cepat berubah menjadi belantara kode yang membingungkan.
+Ketika proyek Rust berkembang dari sekadar "Hello World" menjadi aplikasi berskala produksi, memahami sintaksis bukan lagi tantangan terbesarnya. Kini yang paling berat adalah merancang **organisasi** kode. Tanpa struktur yang terencana, direktori `src` akan cepat menjadi berantakan dan membingungkan.
 
 Para praktisi Rust (Rustaceans) menggunakan pola standar dan praktik terbaik tertentu untuk menjaga basis kode bersih, modular, dan mudah dipelihara.
 
@@ -70,7 +70,7 @@ struct Private;             // Hanya terlihat di dalam modul ini saja
 
 ## 4. Teknik Re-exporting untuk API yang Clean
 
-Sebagai arsitek kode, kamu mungkin membuat struktur folder yang cukup dalam, misalnya `src/shipping/international/dhl/provider.rs`. Namun, kamu tentu tidak ingin pengguna library menulis jalur impor yang sangat panjang:
+Kamu mungkin membuat struktur folder yang cukup dalam, misalnya `src/shipping/international/dhl/provider.rs`. Namun, kamu tentu tidak ingin pengguna library menulis jalur impor yang panjang:
 
 `use crate::shipping::international::dhl::provider::DHLProvider;`
 

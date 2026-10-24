@@ -2,7 +2,7 @@
 
 Memahami kata kunci `mod`, `pub`, dan `use` barulah langkah awal. Tantangan sesungguhnya adalah menyusun arsitektur kode agar tetap ramping, mudah dinavigasi, dan siap dikembangkan dalam skala besar.
 
-Bayangkan kamu sedang membangun sebuah perpustakaan raksasa. Jika kamu hanya menumpuk buku di lantai (satu file `main.rs` yang besar), pengunjung akan kesulitan mencari informasi. Sebaliknya, jika kamu membagi rak terlalu banyak hingga setiap rak hanya berisi satu lembar kertas (over-modularization), pengunjung akan lelah berpindah-pindah rak.
+Bayangkan kamu sedang membangun sebuah perpustakaan besar. Jika kamu hanya menumpuk buku di lantai (satu file `main.rs` yang besar), pengunjung akan kesulitan mencari informasi. Sebaliknya, jika kamu membagi rak terlalu banyak hingga setiap rak hanya berisi satu lembar kertas (over-modularization), pengunjung akan lelah berpindah-pindah rak.
 
 > **Insight:** Struktur modul yang baik adalah tentang menemukan keseimbangan antara keterkaitan erat (*cohesion*) dan ketergantungan minimal (*coupling*). Kelompokkan komponen yang sering berubah bersamaan, dan pisahkan bagian yang dapat berdiri sendiri.
 
@@ -11,7 +11,7 @@ Bayangkan kamu sedang membangun sebuah perpustakaan raksasa. Jika kamu hanya men
 Salah satu praktik terbaik yang sering digunakan dalam library Rust populer seperti `serde` atau `tokio` adalah menyembunyikan kompleksitas internal dan menyajikan antarmuka (API) yang bersih kepada pengguna.
 
 ### Masalah
-Struktur folder internal kamu mungkin sangat dalam karena mengikuti logika pengembangan: `src/auth/providers/oauth2/google.rs`
+Struktur folder internal kamu mungkin dalam karena mengikuti logika pengembangan: `src/auth/providers/oauth2/google.rs`
 
 ### Solusi
 Gunakan re-exporting untuk memotong jalur bagi pengguna luar.
@@ -71,7 +71,7 @@ pub(crate) fn internal_setup() {
 
 ## 4. Organisasi Kode untuk Pengujian (Testing)
 
-Rust memiliki pendekatan pengujian unik yang sangat dipengaruhi oleh sistem modulnya.
+Rust memiliki pendekatan pengujian unik yang dipengaruhi oleh sistem modulnya.
 
 ### Unit Tests di Dalam File
 Tempatkan pengujian logika internal di file yang sama dengan kodenya agar kamu bisa menguji fungsi privat sekalipun.

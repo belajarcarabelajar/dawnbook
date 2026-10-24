@@ -1,14 +1,14 @@
 ## Re-exporting dengan pub use
 
-Bayangkan kamu sedang mengunjungi sebuah restoran mewah. Sebagai pelanggan, kamu tidak perlu tahu di mana letak gudang penyimpanan bumbu, bagaimana piring dicuci, atau di rak mana koki menyimpan pisau pemotong daging. Kamu hanya ingin melihat **menu** yang bersih dan memesan makanan.
+Bayangkan kamu sedang mengunjungi sebuah restoran. Sebagai pelanggan, kamu tidak perlu tahu di mana letak gudang penyimpanan bumbu, bagaimana piring dicuci, atau di rak mana koki menyimpan pisau pemotong daging. Kamu hanya ingin melihat **menu** yang bersih dan memesan makanan.
 
 Di Rust, **Re-exporting** adalah cara kita membuat "menu" tersebut untuk pengguna kode kita.
 
 ### Mengapa Kita Membutuhkan Re-exporting?
 
-Saat kita membangun proyek yang besar, kita cenderung membagi kode ke dalam hierarki modul yang dalam demi kerapian organisasi internal. Namun, struktur yang rapi bagi pengembang (internal) seringkali menjadi mimpi buruk bagi pengguna (eksternal).
+Saat kita membangun proyek yang besar, kita cenderung membagi kode ke dalam hierarki modul yang dalam demi kerapian organisasi internal. Namun, struktur yang rapi bagi pengembang (internal) seringkali menyulitkan pengguna (eksternal).
 
-Tanpa re-exporting, pengguna mungkin harus menulis jalur yang sangat panjang seperti ini:
+Tanpa re-exporting, pengguna mungkin harus menulis jalur yang panjang seperti ini:
 
 ```rust
 use my_library::core::internals::utils::converters::format_string;
@@ -22,8 +22,8 @@ Ini tidak efisien dan membocorkan detail implementasi internal kamu. Jika suatu 
 
 Pikirkan sebuah toko furnitur.
 
-* **Bagian Internal (Gudang):** Di sini barang-barang disimpan berdasarkan susunan logistik (misalnya ukuran, berat, atau tanggal masuk). Jalurnya bisa sangat panjang seperti `Gudang -> Rak_B -> Baris_4 -> Kursi_Kayu`.
-* **Bagian Publik (Showroom):** Pajangan di bagian depan toko yang langsung terlihat oleh pembeli. Contoh jalurnya sangat ringkas: `Showroom -> Kursi_Kayu`.
+* **Bagian Internal (Gudang):** Di sini barang-barang disimpan berdasarkan susunan logistik (misalnya ukuran, berat, atau tanggal masuk). Jalurnya bisa panjang seperti `Gudang -> Rak_B -> Baris_4 -> Kursi_Kayu`.
+* **Bagian Publik (Showroom):** Pajangan di bagian depan toko yang langsung terlihat oleh pembeli. Contoh jalurnya ringkas: `Showroom -> Kursi_Kayu`.
 
 **Re-exporting** adalah tindakan mengambil barang dari rak terdalam di gudang dan meletakkannya tepat di depan pintu masuk toko (Showroom) sehingga pelanggan bisa langsung mengambilnya tanpa harus masuk ke lorong-lorong sempit di belakang.
 
@@ -128,7 +128,7 @@ fn main() {
 
 Tanyakan pada diri sendiri: apakah pengguna library kamu perlu tahu bahwa suatu fungsi sebenarnya berada di dalam folder `utils/internal/helpers/`?
 
-Jika jawabannya tidak, maka fungsi tersebut sangat layak untuk di-re-export ke tingkat yang lebih tinggi.
+Jika jawabannya tidak, maka fungsi tersebut layak untuk di-re-export ke tingkat yang lebih tinggi.
 
 #### Tempat yang Tepat untuk Re-export
 

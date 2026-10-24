@@ -1,6 +1,6 @@
 ## Kontrol Akses dan Visibilitas dengan pub
 
-Dalam dunia pemrograman, tidak semua hal harus diketahui oleh semua orang. Bayangkan sebuah restoran: kamu sebagai pelanggan diizinkan untuk melihat menu dan memesan makanan di kasir, tetapi kamu tidak diizinkan masuk ke dapur untuk melihat bumbu rahasia atau bagaimana koki mengelola inventaris bahan makanan.
+Dalam pemrograman, tidak semua hal harus diketahui oleh semua orang. Bayangkan sebuah restoran: kamu sebagai pelanggan diizinkan untuk melihat menu dan memesan makanan di kasir, tetapi kamu tidak diizinkan masuk ke dapur untuk melihat bumbu rahasia atau bagaimana koki mengelola inventaris bahan makanan.
 
 Di Rust, prinsip ini diterapkan secara ketat melalui sistem **Privacy by Default** (Privasi secara Default). Secara standar, semua elemen di Rust (baik itu fungsi, struct, enum, maupun modul) berstatus **privat**.
 
@@ -38,7 +38,7 @@ fn main() {
 }
 ```
 
-*Saat merancang sebuah pustaka (library), kamu perlu menimbang matang-matang mana bagian yang layak dibuka ke publik dan mana yang harus dikunci rapat. Ingat, sekali suatu fungsi dipasangi `pub`, kode orang lain akan langsung bergantung padanya. Mengubahnya di kemudian hari bisa memicu error di mana-mana.*
+*Saat merancang sebuah pustaka (library), kamu perlu menimbang matang-matang mana bagian yang layak dibuka ke publik dan mana yang harus dikunci rapat. Ingat, sekali suatu fungsi dipasangi `pub`, kode orang lain akan langsung bergantung padanya. Mengubahnya di kemudian hari bisa memicu error di banyak tempat.*
 
 ### Visibilitas pada Struct
 
