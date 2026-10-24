@@ -16,7 +16,7 @@ Saran untuk investor pemula di dunia nyata juga berbentuk tangga. Sebuah artikel
 
 Hewan ternak tetap lapar walau dompet sedang kosong. Sekantong pakan ayam hanya 10 G, angka yang gampang diremehkan sampai kandang terisi penuh dan setiap ekor harus makan setiap hari. Sapi dan domba juga butuh alat sendiri, alat perah dan gunting bulu, yang dibeli terpisah dari hewannya.
 
-Satu pesan dari buku strategi itu pantas dijadikan pegangan, dan bentuknya berupa peringatan. Tambahlah ternak hanya kalau kamu sanggup mengerjakan tugas hariannya dan menanggung biaya pakannya. Untuk sapi dan domba nadanya sama: jangan membeli sebelum yakin bisa mengurusnya, karena memberi makan dan merawat ternak bisa mahal.
+Satu pesan dari buku strategi itu pantas dijadikan pegangan, dan isinya berupa peringatan. Tambahlah ternak hanya kalau kamu sanggup mengerjakan tugas hariannya dan menanggung biaya pakannya. Untuk sapi dan domba nadanya sama: jangan membeli sebelum yakin bisa mengurusnya, karena memberi makan dan merawat ternak bisa mahal.
 
 Biaya rutin itu bisa ditekan. Rumput yang kamu tanam di ladang tumbuh tanpa disiram dari musim semi sampai gugur dan tidak perlu ditanam ulang, sehingga pakan bisa dipanen sendiri. Satu angka lagi patut diingat sebelum membeli dengan tergesa: ayam seharga 1.500 G hanya laku 500 G kalau kamu menjualnya kembali ke Poultry Farm. Masuk itu mudah; keluar sering kali berarti rugi.
 

@@ -20,7 +20,7 @@ Setelah beberapa minggu, urutan yang awalnya harus dipikirkan biasanya mulai ter
 
 ### Waktu Berhenti di Balik Pintu
 
-Begitu si petani melangkah masuk ke sebuah bangunan, jam berhenti. Aturan kecil ini mengubah cara bermain. Sapi dan domba bisa disikat, diperah, dan dicukur di dalam Barn tanpa kehilangan semenit pun. Kuda diurus di dalam istal, dan anjing juga lebih baik diajak bermain di dalam rumah. Pekerjaan yang sama, kalau dikerjakan di halaman, terus menggerus jam yang tidak bisa kembali.
+Begitu si petani melangkah masuk ke sebuah bangunan, jam berhenti. Aturan kecil ini mengubah cara bermain. Sapi dan domba bisa disikat, diperah, dan dicukur di dalam Barn tanpa kehilangan semenit pun. Kuda diurus di dalam istal, sedangkan anjing lebih baik diajak bermain di dalam rumah. Pekerjaan yang sama, kalau dikerjakan di halaman, terus menggerus jam yang tidak bisa kembali.
 
 Menyetor panen ikut aturan yang sama. Menuang bawaan yang penuh ke Harvest Bin di luar bisa memakan sampai 20 menit. Barn dan kandang ayam masing-masing punya Harvest Bin sendiri, jadi setorlah di sana, di tempat jam tidak bergerak.
 

@@ -6,7 +6,7 @@ Saibara bisa meningkatkan kelima alat utama si petani: cangkul, sabit, kapak, pa
 
 ### Harga yang Tidak Tertulis di Bengkel
 
-Tingkat pertama, Copper, meminta 1.000 G ditambah bijih Copper (*ore*). Setiap tingkat sesudahnya lebih mahal, sampai Mystrile di puncak yang meminta 5.000 G dan bijih Mystrile, padahal bijih semacam itu tergolong langka. Jangan berharap bisa meningkatkan semua alat sekaligus. Bengkelnya juga tutup setiap Kamis. Setiap kunjungan ke bengkel adalah pilihan.
+Tingkat pertama, Copper, meminta 1.000 G ditambah bijih Copper (*ore*). Setiap tingkat sesudahnya lebih mahal, sampai Mystrile di puncak yang meminta 5.000 G dan bijih Mystrile, padahal bijih semacam itu tergolong langka. Jangan berharap bisa meningkatkan semua alat sekaligus. Bengkelnya tutup setiap Kamis. Setiap kunjungan ke bengkel adalah pilihan.
 
 Uang hanyalah bagian yang terlihat. Bagian lainnya adalah tiga hari tanpa alat itu. Uang yang sudah dibayarkan ke Saibara tidak bisa lagi dipakai untuk keperluan lain, dan pekerjaan yang biasa diselesaikan cangkul harus menunggu.
 
@@ -14,7 +14,7 @@ Uang hanyalah bagian yang terlihat. Bagian lainnya adalah tiga hari tanpa alat i
 
 Imbalannya berupa waktu dan tenaga. Penyiram dasar hanya membasahi satu petak sekali siram, sedangkan penyiram Mystrile membasahi area 3 kali 5 petak. Kapak dasar tidak sanggup membelah tunggul (*stump*) sama sekali, kapak Copper butuh enam tebasan, dan kapak Mystrile cukup sekali. Palu Copper sanggup menghancurkan batu besar, sedangkan batu raksasa baru pecah oleh palu Silver atau yang lebih baik. Pekerjaan harian yang dulu memaksa si petani sering beristirahat di Hot Spring kini selesai lebih cepat dan dengan napas yang lebih panjang.
 
-Manfaatnya juga bergantung pada tempat. Di dalam tambang, cangkul setinggi apa pun tingkatnya tetap hanya menggali satu petak sekali ayun, jadi di sana peningkatan itu tidak menambah jangkauan.
+Manfaatnya bergantung pada tempat. Di dalam tambang, cangkul setinggi apa pun tingkatnya tetap hanya menggali satu petak sekali ayun, jadi di sana peningkatan itu tidak menambah jangkauan.
 
 ### Jam Terbang Sebelum Tingkat Baru
 

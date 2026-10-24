@@ -32,7 +32,7 @@ Panduan resmi Prima menyarankan hal yang sederhana tetapi melelahkan: pelajari a
 
 Seleranya tidak seragam, sama seperti wataknya. Ann periang dan tomboi, Mary gemar membaca dan menulis, sedangkan Karen pandai mendengarkan tetapi agak sulit didekati karena ia sangat aktif dan tidak selalu ada di toko. Elli senang menerima bunga, sedangkan Mary senang diberi jamur. Hadiah yang sama tidak menyentuh semua orang, jadi kamu harus benar-benar mengenal orang yang kamu dekati.
 
-Ada juga momen yang ikut menaikkan rasa sayang: memberinya kue kering saat Spring Thanksgiving, mengajaknya ke Goddess Festival, menonton kembang api bersama, atau membawakan hadiah di hari ulang tahunnya. Karen juga bisa membalas perhatianmu: kalau ia menyukaimu, ia memberimu benih Moondrop di musim semi. Kamu menanamnya, menunggunya mekar, lalu membawakan bunganya kembali kepadanya.
+Ada juga momen yang ikut menaikkan rasa sayang: memberinya kue kering saat Spring Thanksgiving, mengajaknya ke Goddess Festival, menonton kembang api bersama, atau membawakan hadiah di hari ulang tahunnya. Karen bisa membalas perhatianmu: kalau ia menyukaimu, ia memberimu benih Moondrop di musim semi. Kamu menanamnya, menunggunya mekar, lalu membawakan bunganya kembali kepadanya.
 
 Hadiah yang lebih mahal tetap hanya satu hadiah. Saibara bisa membuatkan perhiasan dari Orichalc dan 1.000 G yang disukai sebagian besar perempuan, tetapi perhiasan itu hanya mengisi satu hari di antara banyak hari lain. Rasa sayang di desa ini diraih perlahan, bukan dibeli sekali bayar.
 

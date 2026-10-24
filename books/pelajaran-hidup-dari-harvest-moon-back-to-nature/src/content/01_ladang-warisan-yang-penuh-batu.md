@@ -16,7 +16,7 @@ Untungnya, hasil kerja kasar ini tidak hilang lagi. Tunggul dan dahan yang sudah
 
 Naluri pertama biasanya ingin membabat semuanya sekaligus. Panduan resminya justru menyarankan kebalikannya. Beberapa hari awal musim semi cukup dipakai untuk membersihkan satu petak kecil, sekitar 13 x 13, yang muat untuk dicangkul dan ditanami. Uang masih tipis dan alat belum bagus, sehingga tanaman yang terlalu banyak hanya akan menelan seluruh harimu untuk merawatnya. Ladang baru pantas diperluas ketika alat sudah lebih baik dan ada yang ikut membantu.
 
-Letaknya juga dipilih dengan sengaja, yaitu di dekat Harvest Bin, tidak jauh dari rumah. Jarak dari tanaman ke tempat hasil panen dikumpulkan jadi pendek, dan setiap langkah kerja langsung bertemu hasilnya.
+Letaknya dipilih dengan sengaja, yaitu di dekat Harvest Bin, tidak jauh dari rumah. Jarak dari tanaman ke tempat hasil panen dikumpulkan jadi pendek, dan setiap langkah kerja langsung bertemu hasilnya.
 
 ### Lobak Pertama
 
