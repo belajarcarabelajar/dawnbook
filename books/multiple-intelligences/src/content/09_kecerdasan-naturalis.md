@@ -62,4 +62,4 @@ Menulis jurnal alam juga bisa menjadi kebiasaan baru. Dokumentasikan spesies bur
 
 Inti dari Kecerdasan Naturalis terletak pada kejelianmu menyelami sistem kehidupan beserta interaksinya, tanpa harus bergantung pada seberapa banyak nama Latin tanaman yang sanggup kamu hafal.
 
-> "Alam tidak pernah terburu-buru, namun semuanya terselesaikan." - Ralph Waldo Emerson. Individu dengan kecerdasan naturalis memahami irama ini dengan baik.
+Alam tidak pernah terburu-buru, namun semuanya terselesaikan. Individu dengan kecerdasan naturalis memahami irama ini dengan baik.
