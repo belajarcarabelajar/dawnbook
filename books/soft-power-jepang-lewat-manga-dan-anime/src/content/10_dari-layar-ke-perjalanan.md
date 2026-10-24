@@ -16,7 +16,7 @@ Bagi pemerintah daerah, tamu semacam ini membuka peluang. Mereka datang dengan a
 
 Kebiasaan yang spontan itu lama-lama diberi bentuk resmi. Anime Tourism Association (Asosiasi Pariwisata Anime) didirikan pada September 2016, dan [Travel Voice](https://www.travelvoice.jp/20170826-95799) melaporkan bahwa asosiasi ini mengumumkan daftar pertamanya, "88 Japanese Anime Spots" edisi 2018, pada 26 Agustus 2017. Kuki, kota yang dikenal penggemar *Lucky Star*, masuk daftar itu, begitu pula Hida, yang terkait dengan *Kimi no Na wa*.
 
-Daftar seperti ini bisa kamu pakai sebagai rencana kunjungan yang dituntaskan satu per satu. Situs resmi asosiasi itu menunjukkan daftarnya masih diperbarui, dan pemungutan suara untuk edisi 2027 ditutup pada 20 September 2026.
+Daftar seperti ini bisa kamu tuntaskan satu per satu sebagai rencana kunjungan. Situs resmi asosiasi itu menunjukkan daftarnya masih diperbarui, dan pemungutan suara untuk edisi 2027 ditutup pada 20 September 2026.
 
 ### Arus Tamu yang Belum Bisa Dipilah
 
