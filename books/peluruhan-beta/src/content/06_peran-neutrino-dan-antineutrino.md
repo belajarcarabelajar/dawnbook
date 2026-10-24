@@ -1,6 +1,6 @@
 ## Peran Neutrino dan Antineutrino
 
-Pernahkah terbayang sebuah partikel yang bisa menembus dinding beton setebal satu tahun cahaya tanpa menyentuh satu atom pun? Selamat datang di dunia **Neutrino** dan **Antineutrino**. Dalam bab ini, kita akan menelusuri jejak partikel hantu yang kehadirannya sempat dianggap sebagai solusi putus asa namun akhirnya berhasil dideteksi.
+Pernahkah terbayang sebuah partikel yang bisa menembus dinding beton setebal satu tahun cahaya tanpa menyentuh satu atom pun? Itulah gambaran **Neutrino** dan **Antineutrino**. Dalam bab ini, kita akan menelusuri jejak partikel hantu yang kehadirannya sempat dianggap sebagai solusi putus asa namun akhirnya berhasil dideteksi.
 
 ### 1. Krisis Hukum Kekekalan
 
