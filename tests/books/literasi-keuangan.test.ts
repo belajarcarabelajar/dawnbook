@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test";
-import { readFileSync } from "node:fs";
+import { readdirSync, readFileSync } from "node:fs";
 import path from "node:path";
 import { checkBookStructure } from "../../scripts/check-book-structure";
 
@@ -48,5 +48,22 @@ describe("book literasi-keuangan attribution and fact fixes", () => {
   test("01: the 66,46% literacy index names SNLIK 2025", () => {
     const text = chapter("01_pengantar-literasi-keuangan.md");
     expect(text).toMatch(/SNLIK[^\n]*2025[^\n]*66,46%|66,46%[^\n]*SNLIK/);
+  });
+});
+
+// Review round (2026-10-24): the loss total must carry its own period and source, and the unsourced
+// claim about dominant scam modes is gone (OJK SP 09/GKPB/OJK/I/2026: Rp9 triliun to 28 Dec 2025).
+describe("literasi-keuangan scam figures", () => {
+  const ch10 = () => {
+    const dir = path.join(BOOK, "src/content");
+    const file = readdirSync(dir).find((f) => f.startsWith("10_"))!;
+    return readFileSync(path.join(dir, file), "utf-8");
+  };
+  test("the IASC loss total names its amount and period", () => {
+    expect(ch10()).toContain("Rp9 triliun");
+    expect(ch10()).toContain("28 Desember 2025");
+  });
+  test("no unsourced claim about which scam modes dominate", () => {
+    expect(ch10()).not.toContain("masih mendominasi");
   });
 });

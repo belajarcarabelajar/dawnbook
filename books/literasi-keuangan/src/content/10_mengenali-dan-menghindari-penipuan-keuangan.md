@@ -80,7 +80,7 @@ Kalau kamu sadar sudah tertipu, jangan panik. Semakin cepat kamu bertindak, sema
 
 ## Laporan Penipuan di Indonesia
 
-Kasus penipuan adalah ancaman nyata di sekitar kita. Sejak mulai beroperasi pada 22 November 2024 hingga 30 September 2026, Indonesia Anti-Scam Centre (IASC) menerima 702.342 laporan dengan total kerugian mencapai triliunan rupiah. Modus belanja fiktif dan telepon palsu masih mendominasi.
+Kasus penipuan adalah ancaman nyata di sekitar kita. Sejak mulai beroperasi pada 22 November 2024 hingga 30 September 2026, Indonesia Anti-Scam Centre (IASC) menerima 702.342 laporan. Sampai 28 Desember 2025 saja, total kerugian yang dilaporkan ke IASC sudah mencapai Rp9 triliun.
 
 Bahkan orang yang bekerja di sektor keuangan sekalipun pernah tertipu ratusan juta karena pelaku memakai skema yang meyakinkan. Ini membuktikan bahwa tidak ada yang kebal dari ancaman penipuan.
 
