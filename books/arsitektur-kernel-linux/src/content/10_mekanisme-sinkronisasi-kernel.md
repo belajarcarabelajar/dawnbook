@@ -32,7 +32,7 @@ Mekanisme sinkronisasi adalah sekumpulan aturan dan alat yang digunakan kernel u
 
 Untuk mencegah hal ini, kita membutuhkan **mutual exclusion**: memastikan hanya satu "koki" yang bisa mengakses "talenan" pada satu waktu.
 
-## 2. Spinlock sebagai Penjaga yang Gigih
+## 2. Spinlock yang Terus Berputar
 
 **Spinlock** adalah mekanisme penguncian paling dasar dalam kernel Linux. Ketika sebuah thread mencoba mendapatkan spinlock yang sudah dipegang oleh thread lain, thread tersebut akan terus berputar (**spin**) dalam sebuah loop kecil, berulang kali memeriksa apakah kunci sudah tersedia.
 
@@ -62,7 +62,7 @@ spin_lock(&my_lock);
 spin_unlock(&my_lock);
 ```
 
-## 3. Mutex Si Penjaga yang Sabar
+## 3. Mutex yang Menidurkan Thread
 
 **Mutex (Mutual Exclusion)** adalah mekanisme penguncian yang membuat thread tidur jika kunci tidak tersedia.
 

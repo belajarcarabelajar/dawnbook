@@ -17,7 +17,7 @@ Kernel memastikan seluruh komponen berjalan selaras dengan cara:
 2. **Memory Management**: Mengalokasikan ruang RAM dengan presisi agar data satu aplikasi tidak menimpa data aplikasi lainnya.
 3. **Perangkat Keras**: Mengelola antrean komunikasi dan memastikan respons diberikan secara tertib.
 
-## Dari Hobi Menjadi Kekuatan Dunia
+## Sejarah Singkat Linux
 
 Kisah Linux dimulai pada tahun 1991. Seorang mahasiswa dari Universitas Helsinki, Finlandia, bernama Linus Torvalds, merasa tidak puas dengan Minix (sistem UNIX sederhana untuk pendidikan). Ia ingin membangun sesuatu yang lebih baik, meski awalnya hanya dianggap sebagai proyek sampingan untuk mengisi waktu luang.
 
@@ -31,7 +31,7 @@ Kisah Linux dimulai pada tahun 1991. Seorang mahasiswa dari Universitas Helsinki
 
 Bagaimana sebuah proyek hobi mahasiswa dapat melampaui dominasi perusahaan teknologi raksasa di pasar server dan infrastruktur cloud? Jawabannya terletak pada kekuatan kolaborasi terbuka serta komunitas global yang solid.
 
-## Jembatan Antara Software dan Hardware
+## Kernel di Antara Software dan Hardware
 
 Kernel bertindak sebagai lapisan abstraksi. Pengembang aplikasi tidak perlu memusingkan cara menggerakkan jarum pada piringan hard disk atau mengirim sinyal listrik ke kartu jaringan. Cukup ajukan permintaan melalui kernel, dan kernel yang akan mengurus detail teknisnya.
 

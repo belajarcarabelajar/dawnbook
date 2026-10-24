@@ -4,7 +4,7 @@ Inti teknologi containerization modern ada di dalam Kernel Linux. Jika kamu pern
 
 Dalam arsitektur kernel, keamanan bukan hanya soal enkripsi atau password, tetapi juga tentang **isolasi** dan **pembatasan**. Mari kita bedah bagaimana kernel membangun dinding virtual serta mengatur alokasi resource untuk menciptakan lingkungan yang aman dan efisien.
 
-## 1. Si Dinding dan Si Akuntan
+## 1. Peran Namespaces dan Cgroups
 
 Untuk memahami perbedaan peran keduanya, bayangkan sebuah gedung apartemen:
 

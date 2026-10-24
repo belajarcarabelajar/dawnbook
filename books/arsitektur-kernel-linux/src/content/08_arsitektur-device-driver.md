@@ -15,7 +15,7 @@ Di Linux, perangkat keras tidak diakses melalui instruksi khusus yang rumit. Seb
 
 > "Abstraksi ini memungkinkan programmer aplikasi untuk menggunakan fungsi standar seperti `open()`, `read()`, `write()`, dan `close()` untuk berkomunikasi dengan perangkat apa pun, tanpa perlu tahu protokol fisik di bawahnya."
 
-## 2. Tiga Pilar Utama Device Driver
+## 2. Tiga Kategori Device Driver
 
 Linux membagi perangkat keras menjadi tiga kategori besar berdasarkan cara data dikirim dan diterima.
 

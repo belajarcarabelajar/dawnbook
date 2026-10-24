@@ -57,7 +57,7 @@ Kernel melihat header protokol (TCP atau UDP) dan memanggil fungsi yang sesuai (
 1. **Penyimpanan di Buffer**: Setelah terbebas dari seluruh header protokol, payload data bersih ditempatkan pada **Receive Buffer** milik socket yang bersangkutan.
 2. **Pemanggilan oleh Aplikasi**: Aplikasi di *user space* yang sedang menunggu dengan sistem panggilan (*system call*) seperti `read()` atau `recv()` akan dibangunkan (*woken up*) guna menyalin data dari *kernel space* ke *user space*.
 
-## 4. Netfilter Si "Polisi" di Tengah Jalan
+## 4. Netfilter Hooks di Jalur Paket
 
 Di sepanjang jalur ini, terdapat **Netfilter Hooks**. Ini adalah titik-titik di mana kernel mengizinkan modul lain (seperti firewall) untuk memeriksa, mengubah, atau membuang paket.
 

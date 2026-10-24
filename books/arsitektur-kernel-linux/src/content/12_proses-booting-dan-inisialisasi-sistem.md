@@ -44,7 +44,7 @@ Untuk mengatasi kendala tersebut, Linux memanfaatkan **initramfs**:
 - Kernel menggunakan lingkungan sementara ini untuk memuat driver esensial, seperti driver NVMe atau RAID.
 - Setelah driver penyimpanan aktif, kernel menjalankan **switch root** untuk memindahkan direktori root (`/`) ke partisi *file system* utama di harddisk (misalnya ext4 atau xfs).
 
-## 5. Kelahiran PID 1
+## 5. Pembuatan PID 1
 
 Begitu inisialisasi selesai, kernel memanggil fungsi `rest_init()`. Fungsi ini membuat sebuah *kernel thread* baru yang ditugaskan menjadi **Proses Nomor 1 (PID 1)**.
 

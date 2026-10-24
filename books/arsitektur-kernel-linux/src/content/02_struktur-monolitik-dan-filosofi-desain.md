@@ -21,7 +21,7 @@ Bayangkan sebuah kantor besar tanpa sekat. Direktur (Manajemen Proses), Akuntan 
 - **High Performance:** Kinerja tinggi karena semua layanan berada di ruang yang sama, sehingga meminimalkan latensi komunikasi antar-komponen (IPC).
 - **Direct Hardware Access:** Kernel memegang kontrol penuh atas perangkat keras tanpa lapisan perantara yang memperlambat.
 
-## 2. Debat Klasik Monolitik vs. Mikrokernel
+## 2. Monolitik vs. Mikrokernel
 
 Sejarah sistem operasi mencatat perdebatan terkenal antara Linus Torvalds (pencipta Linux) dan Andrew S. Tanenbaum (pencipta MINIX). Tanenbaum berpendapat bahwa masa depan sistem operasi adalah **Mikrokernel**, sedangkan Linus tetap mempertahankan pendekatan **Monolitik**.
 
