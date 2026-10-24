@@ -100,7 +100,7 @@ describe("crutch words and near-miss scaffolds", () => {
   });
 
   test("indefinite compounds with pun and technical fixed terms with tetap are not crutch words", () => {
-    const md = "Apa pun, siapa pun, di mana pun, berapa pun, kapan pun. Biaya tetap dan aset tetap. Ia tetap datang.";
+    const md = "Apa pun, siapa pun, di mana pun, berapa pun, kapan pun. Biaya tetap, aset tetap, pola pikir tetap. Ia tetap datang.";
     expect(voiceViolations("05_x.md", md)).toEqual([]);
   });
 

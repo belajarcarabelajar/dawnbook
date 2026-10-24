@@ -45,7 +45,7 @@ export const VOICE_CAPS: VoiceCap[] = [
     // "apa pun" and kin are indefinite pronouns, and "biaya tetap" and kin are fixed-quantity terms.
     except: [
       /(?<![\p{L}\p{N}])(apa|siapa|mana|berapa|seberapa|kapan|bagaimana) pun(?![\p{L}\p{N}])/giu,
-      /(?<![\p{L}\p{N}])(biaya|aset|pegawai|karyawan|harga|bunga|titik|pengeluaran|pendapatan|penghasilan|gaji|tarif|kurs|sudut|kecepatan|laju|modal|kontrak) tetap(?![\p{L}\p{N}])/giu,
+      /(?<![\p{L}\p{N}])(biaya|aset|pegawai|karyawan|harga|bunga|titik|pengeluaran|pendapatan|penghasilan|gaji|tarif|kurs|sudut|kecepatan|laju|modal|kontrak|pikir) tetap(?![\p{L}\p{N}])/giu,
     ],
     proseOnly: true,
   },
