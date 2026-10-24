@@ -1,6 +1,6 @@
 ## Neurobiologi di Balik Kondisi Alir
 
-Pernahkah kamu merasa seolah-olah dunia di sekitar kamu memudar, waktu melambat atau justru melesat cepat, dan kamu menjadi satu dengan apa yang sedang kamu kerjakan? Dalam psikologi, ini disebut **Flow**. Namun, di balik pengalaman subjektif ini, terdapat tarian biologis yang sangat presisi di dalam otak kita.
+Pernahkah kamu merasa seolah dunia di sekitarmu memudar, waktu melambat atau justru melesat cepat, dan kamu menyatu dengan apa yang sedang kamu kerjakan? Dalam psikologi, ini disebut **Flow**. Namun, di balik pengalaman subjektif ini, terdapat tarian biologis yang sangat presisi di dalam otak kita.
 
 Memahami neurobiologi flow bukan hanya soal memuaskan rasa ingin tahu ilmiah. Dengan memahami "mesin" di balik kondisi ini, kita bisa belajar cara mengaktifkannya dengan lebih konsisten.
 

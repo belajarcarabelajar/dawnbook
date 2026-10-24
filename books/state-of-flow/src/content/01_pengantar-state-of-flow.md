@@ -1,6 +1,6 @@
 ## Pengantar State of Flow
 
-Pernahkah kamu melakukan sesuatu - mungkin melukis, menulis kode program, bermain gim, atau berolahraga - dan tiba-tiba menyadari bahwa waktu telah berlalu berjam-jam dalam sekejap? Di saat itu, gangguan di sekitar seolah sirna, rasa lelah tidak terasa, dan setiap tindakan kamu mengalir dengan sempurna ke tindakan berikutnya tanpa perlu berpikir keras.
+Pernahkah kamu melakukan sesuatu, misalnya melukis, menulis kode, bermain gim, atau berolahraga, lalu sadar waktu telah berlalu berjam-jam dalam sekejap? Di saat itu, gangguan di sekitar seolah sirna, rasa lelah tidak terasa, dan setiap tindakan kamu mengalir dengan sempurna ke tindakan berikutnya tanpa perlu berpikir keras.
 
 Selamat, kamu telah mengalami apa yang oleh para psikolog disebut sebagai **State of Flow** (Kondisi Alir).
 

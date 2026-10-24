@@ -1,6 +1,6 @@
 ## Flow dan Peningkatan Produktivitas
 
-Pernahkah kamu merasa begitu tenggelam dalam sebuah pekerjaan sehingga dunia di sekitar kamu seolah menghilang, dan tiba-tiba kamu menyadari bahwa tugas yang biasanya memakan waktu seharian telah selesai hanya dalam dua jam? Itulah kekuatan dari **State of Flow**.
+Pernahkah kamu begitu tenggelam dalam pekerjaan hingga dunia seolah lenyap, lalu sadar tugas yang biasanya memakan waktu seharian selesai dalam dua jam? Itulah kekuatan dari **State of Flow**.
 
 Dalam bagian ini, kita akan membedah bagaimana kondisi mental ini bukan sekadar perasaan "senang bekerja", melainkan sebuah mesin pendorong efisiensi dan kreativitas yang mampu mengubah output kerja kamu secara radikal.
 
