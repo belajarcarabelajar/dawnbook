@@ -10,8 +10,8 @@ Setiap kata tidak hanya memuat arti harfiah (denotasi), tetapi juga membawa muat
 
 | Dimensi Pergeseran | Dampak Komunikasi | Konsekuensi Etis |
 | :--- | :--- | :--- |
-| **Pejorasi** | Menjadi jebakan komunikasi yang merendahkan lawan bicara. | Menggunakan kata yang menurun nilai rasanya dalam forum resmi dapat dianggap sebagai pelecehan martabat. |
-| **Ameliorasi** | Menjadi jembatan penghormatan yang memuliakan martabat. | Memilih kosakata yang terangkat nilai rasanya memperkuat respek, kesopanan, dan profesionalisme. |
+| **Pejorasi** | Dapat merendahkan lawan bicara. | Menggunakan kata yang menurun nilai rasanya dalam forum resmi dapat dianggap sebagai pelecehan martabat. |
+| **Ameliorasi** | Menunjukkan penghormatan terhadap martabat. | Memilih kosakata yang terangkat nilai rasanya memperkuat respek, kesopanan, dan profesionalisme. |
 
 > **Catatan Konseptual:** Etika berbahasa tidak hanya bertumpu pada ketepatan informasi faktual, melainkan pada penerimaan rasa kolektif masyarakat terhadap kata yang dituturkan.
 
@@ -43,7 +43,7 @@ $$
 
 Ketika seorang penutur menggunakan kosakata yang telah mengalami pejorasi atas dalih makna historis, nilai rasa saat ini bernilai negatif sehingga merusak hasil akhir etika komunikasi.
 
-### 4. Prinsip Navigasi Kesantunan Berbahasa
+### 4. Prinsip Kesantunan Berbahasa
 
 Untuk merawat kesantunan dan mencegah friksi interaksi, beberapa prinsip praktis dapat diterapkan:
 

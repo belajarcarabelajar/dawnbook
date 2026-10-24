@@ -52,7 +52,7 @@ Penggunaan kata *gerombolan* pada masa kini bermuatan peyoratif kuat dan dipanda
 
 Sebagai ilustrasi, penyebutan reuni sekolah dengan frasa *Gerombolan Alumni* akan memicu ketersinggungan karena leksikon tersebut membawa muatan makna kumpulan orang yang bermasalah.
 
-### 3. Studi Kasus Leksikon Lain
+### 3. Leksikon Lain yang Mengalami Pejorasi
 
 Di samping kata *oknum* dan *gerombolan*, beberapa leksikon lain dalam bahasa Indonesia juga mengalami degradasi nilai rasa serupa:
 

@@ -4,7 +4,7 @@ Rekayasa bahasa dalam dinamika politik memperlihatkan bagaimana pergeseran makna
 
 Dalam politik, bahasa dipakai untuk mengendalikan masyarakat dan membentuk cara orang memandang kenyataan. Melalui ameliorasi (penghalusan makna) dan pejorasi (perendahan makna), pemegang otoritas membingkai suatu peristiwa, memengaruhi sentimen publik, serta melegitimasi kebijakan politik tertentu.
 
-### 1. Politik sebagai Arsitek Makna
+### 1. Pengertian Rekayasa Bahasa
 
 Bahasa memiliki fleksibilitas tinggi yang memungkinkan struktur dan maknanya diarahkan sesuai kepentingan kelompok dominan. Dalam kajian linguistik kritis, praktik ini dikenal sebagai rekayasa bahasa (*linguistic engineering*).
 

@@ -4,7 +4,7 @@ Pejorasi dan ameliorasi membuktikan bahwa makna kata terus bergeser mengikuti pe
 
 Bagian penutup ini merangkum esensi dari dinamika semantik sekaligus menyajikan gambaran mengenai peran teknologi serta budaya digital dalam membentuk masa depan interaksi kebahasaan.
 
-### 1. Bahasa sebagai Organisme yang Dinamis
+### 1. Bahasa yang Terus Berubah
 
 Pelajaran mendasar dari studi semantik historis adalah sifat kebahasaan yang lentur dan senantiasa beradaptasi. Bahasa tidak diam di dalam kamus, melainkan terus dipakai dan berubah di ruang percakapan sehari-hari, kolom interaksi media sosial, dan struktur kognitif kolektif masyarakat.
 

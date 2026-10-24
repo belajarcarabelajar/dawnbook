@@ -26,7 +26,7 @@ Keterangan:
 - $V_{\text{awal}}$ menunjukkan bobot nilai rasa awal yang berada pada tingkat netral atau positif.
 - $V_{\text{akhir}}$ menunjukkan bobot nilai rasa akhir setelah mengalami degradasi semantik di masyarakat.
 
-### 2. Besi yang Mengalami Korosi
+### 2. Kendaraan yang Berkarat
 
 Untuk memahami mekanisme pejorasi, proses ini dapat dianalogikan seperti kendaraan baru yang baru keluar dari pabrik. Pada fase awal, kendaraan tersebut berkilau, bernilai ekonomis tinggi, dan dipandang sebagai simbol prestise (makna asal yang netral atau positif). Namun seiring berjalannya waktu, kendaraan tersebut tidak terawat, digunakan mengangkut limbah secara terus-menerus, hingga akhirnya berkarat dan berakhir di tempat pembuangan rongsokan.
 

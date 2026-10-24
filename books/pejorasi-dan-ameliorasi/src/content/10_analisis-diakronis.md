@@ -12,7 +12,7 @@ Pelacakan sejarah leksikal bertumpu pada metodologi ilmiah yang sistematis untuk
 | :--- | :--- | :--- |
 | **Heuristik & Filologi** | Penemuan dan autentikasi dokumen teks tertua | Prasasti, manuskrip lontar, naskah kuno |
 | **Kontekstualisasi** | Perbandingan makna kalimat lintas zaman | Arsip surat dinas, traktat hukum, risalah sejarah |
-| **Linguistik Komputasi** | Pengukuran kuantitatif frekuensi kata | Korpus digital, pangkalan data teks masif |
+| **Linguistik Komputasi** | Pengukuran kuantitatif frekuensi kata | Korpus digital, pangkalan data teks berukuran besar |
 
 #### A. Filologi dan Penelusuran Naskah (Heuristik)
 
@@ -88,7 +88,7 @@ Metode analisis diakronis memberikan kontribusi nyata dalam berbagai disiplin pr
 3. **Strategi Merek (*Branding*):** Perancang identitas visual dan penamaan produk memastikan nama merek tidak memuat riwayat konotasi pejoratif di kawasan tertentu.
 4. **Komunikasi Lintas Generasi:** Mengurai kesenjangan pemaknaan istilah antara kelompok usia yang memiliki asosiasi emotif berbeda terhadap leksikon yang sama.
 
-### 5. Latihan Penelusuran Jejak Semantik
+### 5. Latihan Menelusuri Riwayat Makna Kata
 
 Penerapan penelusuran diakronis dapat dipraktikkan secara mandiri pada kata **"Sarjana"**:
 

@@ -25,7 +25,7 @@ Perubahan orientasi pelayanan ritel modern mendorong adopsi istilah baru untuk m
 
 Guna mengangkat harkat profesi tersebut, disusunlah istilah serapan **pramuniaga** (dari unsur *pramu-* yang berarti pelayan profesional dan *niaga* yang berarti perdagangan). Penggunaan sebutan *pramusaji* untuk menggantikan *pelayan restoran* atau *pramugara/pramugari* untuk awak kabin pesawat terbang memperlihatkan pola ameliorasi yang konsisten dalam mengangkat martabat profesi layanan.
 
-### 3. Deret Istilah Berprefiks 'Tuna-' yang Berlandaskan Kepekaan Budaya dan Empati Sosial
+### 3. Istilah Berprefiks 'Tuna-'
 
 Dalam sistem tata bahasa Indonesia, pemanfaatan prefiks **tuna-** (serapan bahasa Jawa Kuno/Sansekerta yang bermakna rugi, kekurangan, atau tidak memiliki) merupakan contoh ameliorasi berskala luas yang berlandaskan empati sosial dan penghormatan kemanusiaan.
 

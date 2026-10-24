@@ -89,7 +89,7 @@ Keterangan parameter:
 * $F_{\text{sosial}}$: Variabel pengaruh kesepakatan norma, etika, dan kesetaraan hak.
 * $F_{\text{budaya}}$: Variabel pengaruh tren teknologi, modernisasi, dan gaya hidup.
 
-### Rangkuman
+### Poin Penting
 
 Pergeseran makna melalui ameliorasi dan pejorasi membuktikan bahwa bahasa mencerminkan perubahan masyarakat penuturnya. Pemahaman semantik yang utuh tidak hanya bertumpu pada dokumentasi kamus statis, melainkan menuntut kepekaan terhadap perubahan sosial, konvensi etika, dan relasi antarwarga.
 

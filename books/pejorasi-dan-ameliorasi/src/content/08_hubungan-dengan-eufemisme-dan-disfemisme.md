@@ -73,7 +73,7 @@ Dalam perdebatan sengit di media sosial, seorang pengguna dapat menyebut gagasan
 
 - **Analisis Linguistik:** Pilihan kata ini tergolong **disfemisme**. Penutur secara sadar memanfaatkan leksem bernilai rasa rendah guna mendelegitimasi bobot intelektual dan kredibilitas lawan bicara.
 
-#### Pejorasi yang Telah Mengendap Permanen
+#### Disfemisme yang Menjadi Pejorasi
 
 Kata **"Oknum"**. Pada mulanya, leksem *oknum* bermakna netral yang merujuk pada "pribadi", "unsur", atau "perseorangan" (sebagaimana akar kata teologisnya). Namun, tatkala frasa *ada oknum yang terlibat* diucapkan dalam wacana berita hukum, masyarakat secara spontan memahaminya sebagai perujuk pelaku kejahatan atau pelanggar aturan.
 

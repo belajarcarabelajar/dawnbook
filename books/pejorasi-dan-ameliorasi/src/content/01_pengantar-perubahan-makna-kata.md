@@ -4,7 +4,7 @@ Perubahan makna kata mencerminkan perubahan masyarakat melalui pergeseran nilai 
 
 Semantik sebagai cabang linguistik membedah bagaimana bahasa bekerja bukan sebagai struktur yang kaku, melainkan sebagai sistem dinamis yang terus bertransformasi seiring perkembangan masyarakat penuturnya.
 
-### Semantik sebagai Fondasi Makna
+### Pengertian Semantik
 
 Sebelum mendalami mekanisme pergeseran makna, pemahaman mengenai hakikat makna itu sendiri menjadi landasan utama. Semantik mengkaji relasi antara tanda kebahasaan (lambang) dengan konsep atau objek yang diwakilinya.
 
