@@ -62,7 +62,7 @@ Masa depan Laissez-faire akan bergantung pada kemampuannya menjawab tantangan ek
 Kita akan melihat transisi menuju *Market-Based Solutions* untuk masalah lingkungan, seperti:
 
 - **Pajak Karbon dan Perdagangan Emisi:** Menggunakan mekanisme harga untuk mengurangi polusi, bukannya sekadar larangan pemerintah.
-- **Inovasi Teknologi sebagai Penyelamat:** Keyakinan bahwa pasar akan menciptakan teknologi hijau yang lebih murah daripada energi fosil karena tuntutan efisiensi.
+- **Harapan pada Inovasi Teknologi:** Keyakinan bahwa pasar akan menciptakan teknologi hijau yang lebih murah daripada energi fosil karena tuntutan efisiensi.
 
 ## 5. Sintesis yang Dinamis
 
@@ -74,6 +74,6 @@ Ekonomi Laissez-faire tidak hilang; ia berubah bentuk. Prinsip yang dirumuskan p
 2. **Kegagalan pasar di masa lalu** telah mengajarkan bahwa intervensi minimal terkadang diperlukan untuk mencegah monopoli dan kerusakan lingkungan.
 3. **Masa depan bersifat hibrida:** Kita akan melihat perpaduan antara kebebasan pasar yang radikal dalam teknologi (seperti AI dan DeFi) dengan regulasi sosial yang lebih sadar akan ketimpangan.
 
-> **Pesan Penutup:** "Tangan Tak Terlihat" mungkin tidak lagi bekerja sendirian di abad ke-21, namun ia tetap menjadi motor utama yang menggerakkan roda kemajuan manusia. Memahami Laissez-faire berarti memahami mesin utama di balik dinamika dunia modern.
+> **Pesan Penutup:** "Tangan Tak Terlihat" mungkin tidak lagi bekerja sendirian di abad ke-21, namun ia tetap menjadi penggerak utama kemajuan manusia. Memahami Laissez-faire membantu kamu memahami banyak perdebatan ekonomi masa kini.
 
 *Refleksi: Setelah mempelajari seluruh rangkaian materi ini, bagaimana menurut kamu keseimbangan yang ideal antara kebebasan pasar dan perlindungan pemerintah dalam menghadapi ketidakpastian ekonomi di masa depan?*

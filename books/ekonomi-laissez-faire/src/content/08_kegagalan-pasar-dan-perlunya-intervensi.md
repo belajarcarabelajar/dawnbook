@@ -35,7 +35,7 @@ Jika $\text{SMC} \neq \text{SMB}$, maka terjadilah kegagalan pasar. Mari kita be
 
 ### 3. Barang Publik dan Masalah "Penumpang Gelap"
 
-Pasar bebas sangat andal menyediakan barang pribadi (seperti sepatu atau ponsel), tetapi sering kali gagal menyediakan **Barang Publik**. Barang publik memiliki dua karakteristik utama:
+Pasar bebas andal menyediakan barang pribadi (seperti sepatu atau ponsel), tetapi sering kali gagal menyediakan **Barang Publik**. Barang publik memiliki dua karakteristik utama:
 
 1. **Non-eksklusif (*Non-excludable*):** Mustahil mencegah orang lain memanfaatkan barang tersebut meskipun mereka tidak membayar.
 2. **Non-rivalitas (*Non-rivalrous*):** Penggunaan oleh satu orang tidak mengurangi ketersediaan bagi orang lain.

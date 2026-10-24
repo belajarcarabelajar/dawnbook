@@ -2,7 +2,7 @@
 
 Bayangkan kamu sedang berdiri di tengah pasar yang sangat ramai. Orang-orang bertukar barang, bernegosiasi harga, dan menciptakan inovasi baru setiap saat. Namun, bayangkan jika di pasar tersebut, barang yang kamu bawa bisa diambil siapa saja tanpa izin, atau janji yang dibuat seseorang untuk membayar kamu besok bisa diingkari tanpa konsekuensi.
 
-Apakah pasar itu akan tetap berjalan? Tentu tidak. Dalam sistem ekonomi **Laissez-faire**, kebebasan individu dan hak properti adalah **fondasi mutlak** yang menopang seluruh struktur ekonomi, bukan sekadar pelengkap.
+Apakah pasar itu akan tetap berjalan? Tentu tidak. Dalam sistem ekonomi **Laissez-faire**, kebebasan individu dan hak properti adalah **fondasi** yang menopang seluruh struktur ekonomi, bukan sekadar pelengkap.
 
 ### 1. Hak Properti Pribadi
 

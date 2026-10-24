@@ -59,7 +59,7 @@ Intelektual Laissez-faire berargumen bahwa praktik ini merugikan semua orang:
 - Konsumen di Belanda tidak mendapat barang.
 - Ekonomi global menjadi tidak efisien.
 
-Ketika ide Adam Smith mulai diadopsi, negara-negara mulai menghapus tarif dan hambatan dagang ini, yang kemudian memicu ledakan perdagangan global dan menjadi bahan bakar bagi **Revolusi Industri**.
+Ketika ide Adam Smith mulai diadopsi, negara-negara mulai menghapus tarif dan hambatan dagang ini, yang kemudian memicu lonjakan perdagangan global dan mendorong **Revolusi Industri**.
 
 ## 5. Hubungan Intelektual dengan Masa Kini
 

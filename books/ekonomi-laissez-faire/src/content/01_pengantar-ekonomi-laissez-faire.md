@@ -1,6 +1,6 @@
 ## Pengantar Ekonomi Laissez-faire
 
-Bab ini membuka pembahasan tentang salah satu konsep paling berpengaruh dalam sejarah ekonomi modern. Bayangkan sebuah pasar yang hiruk-pikuk di mana setiap pedagang dan pembeli berinteraksi tanpa ada polisi harga, tanpa subsidi dari raja, dan tanpa aturan rumit dari pemerintah. Inilah inti dari **Laissez-faire**.
+Laissez-faire adalah gagasan bahwa ekonomi berjalan paling baik ketika pemerintah tidak ikut mengatur harga, upah, dan perdagangan. Bayangkan sebuah pasar yang hiruk-pikuk di mana setiap pedagang dan pembeli berinteraksi tanpa ada polisi harga, tanpa subsidi dari raja, dan tanpa aturan rumit dari pemerintah. Inilah inti dari **Laissez-faire**.
 
 Dalam bagian ini, kita akan membedah akar kata, definisi, dan pondasi filosofis yang membuat sistem ini menjadi tulang punggung pemikiran ekonomi klasik.
 
@@ -80,7 +80,7 @@ Pada akhir 1990-an, pertumbuhan internet sangat pesat sebagian besar karena peme
 
 ## 6. Mengapa Laissez-faire Penting untuk Dipelajari?
 
-Memahami Laissez-faire adalah kunci untuk memahami perdebatan politik dan ekonomi hari ini. Ketika kamu mendengar berita tentang "pemotongan pajak", "deregulasi", atau "swastanisasi", kamu sebenarnya sedang menyaksikan prinsip-prinsip Laissez-faire yang diperdebatkan di panggung modern.
+Memahami Laissez-faire adalah kunci untuk memahami perdebatan politik dan ekonomi hari ini. Ketika kamu mendengar berita tentang "pemotongan pajak", "deregulasi", atau "swastanisasi", kamu sebenarnya sedang menyaksikan prinsip-prinsip Laissez-faire yang sedang diperdebatkan saat ini.
 
 > **Wawasan Memorable:** Laissez-faire bukan berarti ketiadaan aturan sama sekali; ia adalah keyakinan bahwa aturan yang paling efektif adalah aturan yang dibuat oleh interaksi sukarela antara manusia, bukan oleh paksaan negara.
 

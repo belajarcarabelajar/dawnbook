@@ -1,6 +1,6 @@
 ## Perbandingan Laissez-faire vs Intervensionisme
 
-Bab ini mempertemukan dua pandangan ekonomi yang saling bertentangan. Di satu sisi, kita memiliki **Laissez-faire**, yang percaya bahwa ekonomi bekerja paling baik jika dibiarkan sendiri. Di sisi lain, kita memiliki **Intervensionisme** (termasuk Keynesianisme), yang berpendapat bahwa tangan pemerintah diperlukan untuk menjaga agar mesin ekonomi tidak meledak atau mogok.
+Saat ekonomi melemah, sebagian ekonom memilih membiarkan pasar pulih sendiri, sementara yang lain meminta pemerintah turun tangan. Di satu sisi, kita memiliki **Laissez-faire**, yang percaya bahwa ekonomi bekerja paling baik jika dibiarkan sendiri. Di sisi lain, kita memiliki **Intervensionisme** (termasuk Keynesianisme), yang berpendapat bahwa tangan pemerintah diperlukan untuk menjaga agar mesin ekonomi tidak meledak atau mogok.
 
 Mari kita bedah perbedaan antara membiarkan pasar bebas bekerja secara alami dengan upaya sadar untuk mengarahkannya.
 
