@@ -1,6 +1,6 @@
 ## Ekosistem AdTech dan Iklan Programatik
 
-Bab ini membahas sistem teknologi yang menjalankan periklanan digital modern. Pernahkah kamu bertanya-tanya mengapa setelah mencari "sepatu lari" di mesin pencari, tiba-tiba iklan sepatu tersebut muncul di blog berita yang kamu baca hanya beberapa detik kemudian?
+Periklanan digital modern dijalankan oleh sebuah sistem teknologi. Pernahkah kamu bertanya-tanya mengapa setelah mencari "sepatu lari" di mesin pencari, tiba-tiba iklan sepatu tersebut muncul di blog berita yang kamu baca hanya beberapa detik kemudian?
 
 Ini bukan kebetulan, dan bukan juga karena ponsel kamu "mendengarkan" pembicaraan kamu. Ini adalah hasil kerja dari **Ekosistem AdTech (Advertising Technology)** yang beroperasi dalam hitungan milidetik.
 
