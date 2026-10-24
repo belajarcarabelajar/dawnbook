@@ -12,6 +12,8 @@ Frankl, V. E. (2006). *Man's search for meaning*. Beacon Press. (Original work p
 
 Gemes, K. (2001). Postmodernism's use and abuse of Nietzsche. *Philosophy and Phenomenological Research*, 62(2), 337-360. <https://doi.org/10.1111/j.1933-1592.2001.tb00058.x>
 
+Kierkegaard, S. (1981). *The concept of anxiety* (R. Thomte, Ed.). Princeton University Press. (Original work published 1844) <https://doi.org/10.1515/9781400846979>
+
 Kierkegaard, S. (1983). *Fear and trembling; Repetition* (H. V. Hong & E. H. Hong, Eds. & Trans.). Princeton University Press. (Original work published 1843)
 
 Kruks, S. (1992). Gender and subjectivity: Simone de Beauvoir and contemporary feminism. *Signs: Journal of Women in Culture and Society*, 18(1), 89-110. <https://doi.org/10.1086/494780>
@@ -25,6 +27,8 @@ Podmore, S. J. (2009). Kierkegaard and the abyss of anxiety. *Theology*, 112(865
 Sagi, A. (1994). Albert Camus and the existential problem of the absurd. *Inquiry*, 37(3), 271-284. <https://doi.org/10.1080/00201749408602356>
 
 Sartre, J.-P. (1992). *Being and nothingness* (H. E. Barnes, Trans.). Washington Square Press. (Original work published 1943)
+
+Sartre, J.-P. (1989). Existentialism is a humanism (P. Mairet, Trans.). In W. Kaufmann (Ed.), *Existentialism from Dostoyevsky to Sartre*. Meridian. (Original work published 1946) <https://www.marxists.org/reference/archive/sartre/works/exist/sartre.htm>
 
 Webber, J. (2006). Sartre on character. *Philosophical Papers*, 35(1), 101-116. <https://doi.org/10.1080/05568640609485174>
 
