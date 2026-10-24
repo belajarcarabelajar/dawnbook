@@ -4,7 +4,7 @@ Pernah sampai di rumah, lalu sadar bahwa kamu hampir tidak ingat apa pun dari pe
 
 Loop kebiasaan bukan sekadar diagram di atas kertas, ia punya alamat kerja di dalam otak, dan di alamat itu ada dua tokoh utama yang karakternya berbeda. Yang pertama seorang pengotomat tenang yang menyimpan kebiasaan dan menjalankannya tanpa banyak suara. Yang kedua seorang sinyal kecil yang sibuk menentukan kebiasaan mana yang layak disimpan dan kapan ia dipanggil. Kenapa niatmu selalu datang terlambat, jawabannya ada di pembagian kerja keduanya.
 
-### Basal ganglia, gudang tempat kebiasaan tinggal
+### Basal ganglia menyimpan kebiasaan sebagai chunk
 
 Mulai dari si pengotomat. Di dalam otak, jauh di bawah korteks yang gemar merenung, terdapat kumpulan inti saraf bernama **basal ganglia**. Bagian otak ini bukan yang paling berperan saat kamu memecahkan soal matematika atau menyusun pidato, tapi ia yang paling berperan saat kebiasaan dibentuk dan dijalankan. Ann Graybiel (2008), dalam tinjauannya tentang otak dan kebiasaan, merangkum bukti bahwa kebiasaan memang terkait erat dengan basal ganglia, dan kebiasaan tidak tersimpan sebagai satu per satu gerakan, melainkan sebagai **chunk**, rangkaian aksi yang terkompilasi menjadi satu kesatuan utuh.
 
@@ -14,7 +14,7 @@ Kata "terkompilasi" mungkin terdengar asing, tapi idenya sederhana. Bayangkan ka
 
 Begitu pula dengan kebiasaanmu: menyeduh kopi pagi, menyambung sabuk pengaman, membuka aplikasi pesan begitu ponsel menyala. Semua itu adalah chunk, paket aksi yang sudah jadi dan tersimpan di gudang basal ganglia, menunggu momen yang tepat untuk dipanggil.
 
-### Saat pengotomat jaga, sang pengendali boleh libur
+### Kebiasaan berjalan tanpa menunggu sistem sadar
 
 Sekarang bagian yang paling menjelaskan kesulitanmu selama ini. Otak punya sisi yang menangani hal-hal sadar: merencanakan, menimbang, menahan diri. Sisi ini mahal operasionalnya. Ia butuh perhatian penuh, cepat lelah, dan tidak bisa mengerjakan banyak hal sekaligus. Sisi inilah yang kerap diasosiasikan dengan kerja korteks prefrontal, sang pengendali sadar di bagian depan otak.
 
@@ -22,7 +22,7 @@ Kebiasaan yang sudah matang bekerja di jalur yang lain. Wood dan Rünger (2016) 
 
 Tapi sifat hemat ini punya sisi lain yang langsung menjelaskan masalah kita. Niat untuk berubah itu lahir di sistem sadar, di meja sang pengendali. Sementara kebiasaan yang hendak kamu lawan tinggal di gudang otomatis, siap dieksekusi lebih cepat daripada kecepatan kamu menyusun kalimat "jangan". Niat yang duduk di sistem yang lambat dan mudah lelah harus menyaingi paket aksi yang berjalan instan dan tanpa biaya. Tiap kali kamu lelah, stres, atau lengah, meja kendali sadar justru yang paling dulu kosong, sementara gudang pengotomat tidak pernah tutup. Kekalahan niat bukan karena niatmu lemah, tapi karena dua sistem ini tidak pernah bertanding di ring yang sama.
 
-### Dopamin, sinyal yang lebih cerdas dari sekadar hadiah
+### Dopamin mengkode selisih prediksi hadiah
 
 Beralih ke tokoh kedua. Selama ini dopamin dikenal sebagai "molekul kenikmatan", seolah tugasnya hanya membuat senang. Penelitian Schultz, Dayan, dan Montague (1997) menunjukkan bahwa ceritanya berbeda. Neuron dopamin di midbrain tidak mengkode hadiah itu sendiri, melainkan **reward prediction error**, selisih antara hadiah yang datang dan hadiah yang kamu prediksi. Polanya tiga arah. Ketika hasil lebih baik dari prediksi, aktivitas neuron dopamin naik. Ketika hasil persis sesuai prediksi, mereka diam. Ketika hasil lebih buruk dari prediksi, aktivitasnya turun di bawah garis dasar.
 

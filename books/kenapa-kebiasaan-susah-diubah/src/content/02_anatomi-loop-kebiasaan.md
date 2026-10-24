@@ -8,7 +8,7 @@ Di sinilah paradoks yang bikin jengkel: mengetahui ternyata tidak mengubah apa p
 
 Jadi masalahnya bukan kamu kurang tahu. Masalahnya ada mesin lain yang bekerja di bawah sadar, dan mesin itu punya struktur yang bisa dipetakan. Struktur inilah yang disebut loop kebiasaan.
 
-### Pria yang lupa segalanya, kecuali jalan ke dapur
+### Kasus Eugene Pauly yang amnesia
 
 Untuk melihat mesin itu bekerja, kita perlu kasus yang menyingkirkan satu variabel besar: ingatan sadar. Charles Duhigg, dalam bab pembuka The Power of Habit (2012), menuturkan kisah Eugene Pauly, pria dengan amnesia berat yang kehilangan kemampuan mengingat kejadian baru. Nama orang baru, atau peristiwa lima menit lalu, tidak sanggup ia simpan dalam ingatan.
 

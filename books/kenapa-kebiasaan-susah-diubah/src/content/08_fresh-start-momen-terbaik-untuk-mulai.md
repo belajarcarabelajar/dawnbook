@@ -20,7 +20,7 @@ Bedanya pada sasaran kerjanya, dan karena sasarannya berbeda, keduanya bisa diga
 
 Tapi ingat catatan bab lalu: jendela itu sempit dan efeknya memudar. Prinsip yang sama berlaku di sini. Perasaan mulai baru itu juga punya umur, dan memahami cara memakainya sebelum menguap adalah keterampilan yang membedakan orang yang berhasil dari yang hanya ikut-ikutan Januari.
 
-### Memakainya dengan cerdas
+### Aturan memakai momen fresh start
 
 Aturan pertama: pilih landmark yang terdekat, bukan yang paling besar. Banyak orang menunda perubahan sampai 1 Januari karena merasa momen itu paling "sah", padahal Senin depan atau tanggal 1 bulan depan bekerja dengan mekanisme yang sama. Menunggu landmark besar sering kali hanya penundaan yang menyamar jadi persiapan. Karena garis pemisahnya datang tiap minggu, kamu tidak kekurangan kesempatan; yang kamu butuhkan hanya mau memakai yang terdekat.
 

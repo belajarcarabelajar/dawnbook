@@ -6,7 +6,7 @@ Sekarang bayangkan pihak kampus menutup jalur itu dengan pagar kecil dan papan l
 
 Jawaban untuk pertanyaan kedua itu kurang menyenangkan tapi wajib diterima: kebiasaan lama tidak bisa dihapus dari otak. Kata "hapus" ada di kamus kita, tapi tidak ada di kamus otak. Yang ada hanyalah jejak yang menetap, pemicu yang bisa dikelola, dan strategi yang jauh lebih cerdas daripada perang terbuka.
 
-### Jejak yang menetap, bukan berkas yang terhapus
+### Asosiasi konteks dan respons tidak terhapus
 
 Kabar yang perlu kamu terima adalah ini: kebiasaan tersimpan di otak sebagai asosiasi antara konteks dan respons, dibentuk oleh pengulangan yang diikuti imbalan. Begitulah Wood dan Rünger (2016) merangkum puluhan tahun riset kebiasaan. Ketika kamu berulang kali melakukan hal yang sama di situasi yang sama dan mendapat hasil yang menyenangkan, otak mengaitkan situasi itu dengan tindakan itu. Satu kaitan, lalu ribuan kaitan serupa, sampai yang terbentuk bukan lagi keputusan, tapi refleks: bertemu konteks, tubuh bergerak.
 
@@ -34,7 +34,7 @@ Dan panggilan itu bisa datang lagi. Ini ilustrasi yang sering muncul dalam kisah
 
 Sifat kebiasaan yang tidur ini perlu kamu cermati, bukan untuk menakuti, tapi untuk merencanakan. Ia mengajarkan dua hal. Pertama, jangan uji dirimu dengan sengaja berkunjung ke konteks lama sembari mengandalkan kemauan; itu mengundang kebiasaan tidur untuk bangun. Kedua, kambuh bukan bukti kamu orang yang gagal atau munafik. Ia konsekuensi wajar dari jejak yang tidak pernah hilang. Membaca kambuh sebagai kegagalan moral hanya membuat kamu berhenti lebih awal, padahal yang perlu dilakukan tinggal memperbaiki pengelolaan pemicunya.
 
-### Mengelola arena, bukan memerangi kebiasaan
+### Mengelola konteks, imbalan, dan rencana
 
 Kalau kamu merasa kabar bab ini berat, tahan dulu. Justru karena kebiasaan tidak bisa dihapus, strategi yang pintar bukan memeranginya, melainkan mengelola arena tempat ia muncul. Tiga tuas yang disebut Wood dan Rünger (2016), yaitu konteks, imbalan, dan perencanaan, adalah daftar kerja yang konkret: jauhi konteks yang memanggil, pastikan kebiasaan pengganti memberi imbalan yang layak, dan rencanakan responsmu sebelum pemicu datang.
 

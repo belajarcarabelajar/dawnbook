@@ -20,7 +20,7 @@ Temuan ini bukan anomali. Ia konsisten dengan tinjauan besar dari Judith Ouellet
 
 > Ada ironi yang perlu kamu cerna: hal yang biasanya terasa seperti keterpaksaan, seperti pindah kota demi kerja atau kampus demi kuliah, ternyata jadi salah satu momen paling baik untuk mengubah kebiasaan. Kesempatan itu datang sendiri tanpa diminta, dan kebanyakan orang membiarkannya lewat begitu saja.
 
-### Jendela emas yang sempit
+### Peluang singkat ketika hidup berubah
 
 Kalau pergantian konteks melemahkan kebiasaan lama, apakah momen itu bisa dimanfaatkan secara sengaja? Bas Verplanken dan Deborah Roy menguji pertanyaan ini lewat eksperimen lapangan dengan 800 peserta. Mereka memberikan intervensi perubahan perilaku kepada dua kelompok: yang sedang berada dalam momen perubahan hidup, seperti baru pindah rumah, dan yang hidupnya sedang stabil. Hasilnya mendukung apa yang mereka sebut **habit discontinuity hypothesis**: intervensi jauh lebih efektif diberikan saat seseorang sedang mengalami perubahan hidup, karena pola lama sedang terbuka dan belum tergantikan.
 

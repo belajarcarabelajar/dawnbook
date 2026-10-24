@@ -6,7 +6,7 @@ Janji itu bahkan sempat kamu umumkan dengan penuh semangat. "Malam ini saya tidu
 
 Kalau kamu sering berada di lingkaran seperti itu, buku ini ditulis untuk menjawab pertanyaan tersebut. Dan jawabannya, sebagaimana akan kamu lihat, jarang berbicara soal kemauan keras. Ia berbicara soal mesin.
 
-### Niat berbicara, kebiasaan tidak mendengarkan
+### Niat dan kebiasaan berjalan di jalur berbeda
 
 Kegagalan berulang seperti di atas sering dicatat sebagai soal karakter: kurang disiplin, kurang kuat, terlalu banyak alasan. Padahal kalau bukti riset diletakkan di atas meja, ceritanya jauh lebih teknis sekaligus jauh lebih memaafkan. Niat dan kebiasaan adalah dua sistem yang berjalan di jalur berbeda. Niat butuh perhatian, pertimbangan, dan tenaga. Kebiasaan tidak menyentuh ketiganya.
 
@@ -24,7 +24,7 @@ Dalam studi diary yang dirancang Wood, Quinn, dan Kashy (2002), partisipan menca
 
 Kalau porsi sebesar itu berjalan autopilot, konsekuensinya jelas. Kualitas hidup tidak hanya ditentukan keputusan besar yang jarang terjadi, seperti pindah kerja atau membeli rumah, melainkan juga hal-hal kecil yang terjadi hampir tanpa pikiran setiap hari: apa yang kamu gigit saat cemas, apa yang kamu buka begitu bangun tidur, apa yang kamu lakukan begitu duduk di meja. Dari sudut pandang ini, mengubah hidup berarti mengatur ulang mesin yang menjalankan hal-hal kecil itu. Inilah alasan kenapa kebiasaan layak dibahas serius, bukan sekadar jadi bahan resolusi awal tahun yang dilupakan sepekan kemudian.
 
-### Melawan mesin atau mengelolanya
+### Melawan kebiasaan atau mengelolanya
 
 Refleks pertama kebanyakan orang adalah menganggap kebiasaan buruk sebagai musuh yang harus dimusnahkan. Berhenti total, tanpa ampun, mulai hari ini. Sikap itu terasa heroik, tapi ia bertumpu pada asumsi yang keliru: bahwa mesin otomatis di dalam diri bisa dihapus dengan satu keputusan.
 
