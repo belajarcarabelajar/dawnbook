@@ -20,7 +20,7 @@ Memahami perbedaan ini sangat penting agar kita bisa melakukan audit diri secara
 | --- | --- | --- |
 | **Keyakinan** | Kecerdasan/bakat bersifat statis. | Kecerdasan/bakat dapat dikembangkan. |
 | **Menghadapi Tantangan** | Menghindar karena takut gagal. | Memeluk tantangan sebagai peluang. |
-| **Rintangan** | Mudah menyerah saat menemui kesulitan. | Tetap bertahan meski ada hambatan. |
+| **Rintangan** | Mudah menyerah saat menemui kesulitan. | Terus bertahan meski ada hambatan. |
 | **Usaha** | Dianggap sia-sia jika tidak punya bakat. | Dilihat sebagai jalan menuju kemahiran. |
 | **Kritik** | Menganggapnya sebagai serangan personal. | Belajar dari kritik yang membangun. |
 | **Kesuksesan Orang Lain** | Merasa terancam atau iri. | Menjadikannya sumber inspirasi dan pelajaran. |
@@ -61,7 +61,7 @@ Mengubah pola pikir tidak terjadi semalam. Ini adalah proses "re-wiring" otakmu.
 1. **Kenali Suara "Fixed Mindset":** Saat kamu gagal dan mendengar suara internal berkata, *"Sudah kubilang kan kamu tidak berbakat,"* segera sadari bahwa itu adalah jebakan pola pikir tetap.
 2. **Balas dengan Suara "Growth Mindset":** Jawab suara tersebut dengan, *"Mungkin saya memang belum mahir sekarang, tapi saya bisa belajar dari kesalahan ini."*
 3. **Hargai Proses, Bukan Hanya Hasil:** Alih-alih memuji diri sendiri karena "pintar", pujilah diri sendiri karena "strategi yang tepat" atau "usaha yang gigih".
-4. **Cari Tantangan yang Tepat:** Keluar dari zona nyaman secara bertahap. Jika terlalu mudah, kamu tidak belajar; jika terlalu sulit, kamu bisa frustrasi. Cari "Sweet Spot" di mana kamu merasa sedikit kesulitan namun tetap tertantang.
+4. **Cari Tantangan yang Tepat:** Keluar dari zona nyaman secara bertahap. Jika terlalu mudah, kamu tidak belajar; jika terlalu sulit, kamu bisa frustrasi. Cari "Sweet Spot" di mana kamu merasa sedikit kesulitan namun masih tertantang.
 
 ### 6. Penerapan Nyata & Skenario
 

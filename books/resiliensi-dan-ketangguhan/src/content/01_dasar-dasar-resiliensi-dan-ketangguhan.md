@@ -21,7 +21,7 @@ Sering kali kita menggunakan istilah "tahan banting" dan "tangguh" secara bergan
 Fokus utama resiliensi adalah pada **pemulihan (recovery)** dan **adaptasi**.
 
 - **Karakteristik:** Fleksibel, mampu mengolah emosi, dan memiliki daya pulih yang cepat.
-- **Fungsi:** Sebagai "suspensi mobil" yang meredam guncangan di jalan berbatu agar penumpang tetap aman.
+- **Fungsi:** Sebagai "suspensi mobil" yang meredam guncangan di jalan berbatu agar penumpang aman.
 
 ### Ketangguhan (Toughness/Hardiness)
 
@@ -54,7 +54,7 @@ Untuk membangun fondasi yang kuat, kita perlu memahami elemen-elemen yang memben
 
 - **Kesadaran Diri (Self-Awareness):** Memahami apa yang kita rasakan dan mengapa kita merasakannya.
 - **Regulasi Emosi:** Kemampuan untuk tetap tenang di bawah tekanan (akan dibahas lebih dalam di bagian *Kecerdasan Emosional*).
-- **Optimisme Realistis:** Percaya bahwa hal baik akan terjadi, namun tetap sadar akan tantangan yang ada.
+- **Optimisme Realistis:** Percaya bahwa hal baik akan terjadi, sambil sadar akan tantangan yang ada.
 - **Efikasi Diri:** Keyakinan pada kemampuan diri sendiri untuk memecahkan masalah.
    $$\text{Resiliensi} \approx (\text{Kekuatan Internal} + \text{Dukungan Eksternal}) \times \text{Adaptabilitas}$$
 
@@ -68,7 +68,7 @@ Mari kita lihat bagaimana resiliensi dan ketangguhan bekerja dalam praktik nyata
 
 **Respons Dengan Resiliensi & Ketangguhan:**
 
-1. **Ketangguhan (Saat Krisis):** Andi tetap berada di kantor selama 12 jam untuk memimpin tim teknis memperbaiki sistem tanpa terbawa emosi (tetap berfungsi di bawah tekanan).
+1. **Ketangguhan (Saat Krisis):** Andi bertahan di kantor selama 12 jam untuk memimpin tim teknis memperbaiki sistem tanpa terbawa emosi (tetap berfungsi di bawah tekanan).
 2. **Resiliensi (Pasca Krisis):** Setelah masalah teknis selesai, Andi mengambil waktu sejenak untuk memproses kekecewaannya. Ia melakukan evaluasi objektif: *"Apa yang bisa kita perbaiki agar ini tidak terulang?"* Ia tidak membiarkan kegagalan ini mendefinisikan harga dirinya.
 
 ## Kesimpulan
