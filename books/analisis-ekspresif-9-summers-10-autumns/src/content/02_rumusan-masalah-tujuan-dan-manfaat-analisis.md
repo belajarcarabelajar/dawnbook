@@ -41,4 +41,4 @@ Dalam memecahkan rumusan masalah penelitian ini, peneliti menyusun matriks opera
 
 ### Memasuki Ranah Struktural
 
-Dengan rumusan masalah dan tujuan yang telah terdefinisi secara jelas, langkah selanjutnya adalah membedah fondasi struktural novel ini. Fondasi itu bertumpu pada teori strukturalisme dan pada cara tema utama novel ini terbentuk.
+Dengan rumusan masalah dan tujuan yang telah terdefinisi secara jelas, langkah selanjutnya adalah membedah fondasi struktural novel ini.

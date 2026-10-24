@@ -56,4 +56,4 @@ Kontras ini menjadi motor penggerak utama konflik batin tokoh Iwan. Keberadaanny
 
 ### Menuju Pilihan Kata dan Sudut Pandang
 
-Latar tempat dan suasana yang kontras tersebut diekspresikan secara estetis lewat pilihan kata yang khas. Pilihan kata itu sekaligus membuka jalan untuk membedah sudut pandang dan gaya bahasa puitis yang digunakan penulis.
+Latar tempat dan suasana yang kontras tersebut diekspresikan secara estetis lewat pilihan kata yang khas.

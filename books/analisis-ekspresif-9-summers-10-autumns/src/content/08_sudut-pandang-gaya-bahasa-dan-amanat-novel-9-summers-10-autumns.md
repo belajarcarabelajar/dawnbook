@@ -24,4 +24,4 @@ Analisis stilistika dalam novel ini menunjukkan penggunaan majas personifikasi d
 
 ### Menghubungkan Karya dan Jiwa
 
-Analisis struktural kita kini telah lengkap. Saatnya melangkah ke inti kritik sastra ekspresif dengan menghubungkan langsung elemen-elemen cerita ini dengan luapan emosi personal pengarang. Titik awalnya adalah ekspresi batin Iwan Setyawan sendiri.
+Analisis struktural kita kini telah lengkap. Saatnya melangkah ke inti kritik sastra ekspresif dengan menghubungkan langsung elemen-elemen cerita ini dengan luapan emosi personal pengarang.
