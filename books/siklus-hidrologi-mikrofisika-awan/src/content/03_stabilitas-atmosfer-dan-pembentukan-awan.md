@@ -126,7 +126,7 @@ Salah satu contoh penerapan nyata dari stabilitas atmosfer dan perubahan fase ua
 
 ---
 
-### Ringkasan Pembelajaran
+### Cara Mengingat Stabilitas Atmosfer
 
 - **Visual (Grafis):** Bayangkan $\text{ELR}$ sebagai "peta jalan" suhu lingkungan, sedangkan $\text{DALR}/\text{SALR}$ sebagai "laju pendinginan" kendaraan (paket udara). Apabila paket udara tetap lebih hangat ketimbang suhu lingkungan, paket udara tersebut akan terus membumbung tinggi.
 - **Auditori (Narasi):** Mengingat alur utama pembentukan awan: *"Pengangkatan - Ekspansi - Pendinginan - Kejenuhan - Kondensasi Awan."*

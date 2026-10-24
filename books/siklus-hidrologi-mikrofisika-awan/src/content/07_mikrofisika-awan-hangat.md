@@ -84,13 +84,13 @@ Hasilnya:
 
 Selisih kecepatannya sekitar 0,0968 m/s. Radius yang tiga kali lebih besar membuat tetes pengumpul jatuh sembilan kali lebih cepat, sesuai hubungan $V_{\text{t}} \propto r^2$.
 
-### 6. Aplikasi Dunia Nyata dan Skenario
+### 6. Contoh Hujan Awan Hangat
 
 #### Awan Tropis vs. Awan Garis Lintang Tinggi
 
 Di wilayah tropis seperti Indonesia, puncak awan sering kali tidak mencapai suhu $0^\circ\text{C}$ (awan hangat). Hujan di kawasan ini murni merupakan hasil dari proses *collision-coalescence*. Hal inilah yang menyebabkan hujan tropis dapat terjadi secara mendadak dengan suhu tetesan yang hangat.
 
-#### "The Great Collector"
+#### Tetesan Pengumpul
 
 Dalam perkembangan awan *Cumulus*, beberapa tetesan dapat tumbuh lebih cepat karena terbentuk di atas **Inti Kondensasi Awan (CCN)** berukuran raksasa, seperti partikel garam laut.
 

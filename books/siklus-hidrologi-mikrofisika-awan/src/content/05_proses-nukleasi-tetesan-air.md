@@ -102,7 +102,7 @@ Dalam analisis nukleasi, terdapat parameter penentu yang disebut **Radius Kritis
 
 Pada nukleasi heterogen, keberadaan partikel $\text{CCN}$ memungkinkan embrio air langsung memulai pertumbuhan pada ukuran di atas $r_c$, atau secara efektif menurunkan nilai $r_c$ sehingga mudah dicapai pada tingkat kejenuhan rendah.
 
-### 6. Modifikasi Cuaca (*Cloud Seeding*)
+### 6. Hujan Buatan (*Cloud Seeding*)
 
 Prinsip nukleasi heterogen dimanfaatkan secara langsung dalam teknologi pembenihan awan atau **Hujan Buatan**.
 
@@ -120,6 +120,6 @@ Prinsip nukleasi heterogen dimanfaatkan secara langsung dalam teknologi pembenih
 | **Lokasi Kejadian** | Kondisi laboratorium / atmosfer atas | Awan di seluruh wilayah Bumi |
 | **Peran Tegangan Permukaan** | Penghambat utama yang dominan | Diminimalisir oleh ukuran partikel inti |
 
-### Gerbang Awal Lahirnya Tetesan Awan
+### Tahap Awal Terbentuknya Tetesan Awan
 
 Nukleasi merupakan tahap awal perubahan fase air dari gas menjadi cair di atmosfer. Tegangan permukaan bertindak sebagai penghambat alami pada tetesan mikro, namun keberadaan partikel aerosol ($\text{CCN}$) melalui nukleasi heterogen menurunkan hambatan energi tersebut. Hal ini memungkinkan uap air mengembun secara efektif dan membentuk tetesan awan yang menjadi bagian utama dari siklus hidrologi bumi.

@@ -83,18 +83,18 @@ Dengan $\beta = 3$, setiap kali radius naik sepuluh kali lipat, konsentrasinya t
 
 *Interpretasi:* Pola ini menunjukkan bahwa atmosfer dipenuhi oleh jutaan partikel sangat kecil (*Aitken nuclei*), namun hanya sedikit partikel berukuran besar yang tersedia. Partikel berukuran sedang hingga besar inilah yang paling sering menjadi inti kondensasi bagi pembentukan awan.
 
-### 5. Aplikasi Dunia Nyata dan Skenario
+### 5. Peran CCN di Lapangan
 
 #### Udara Laut vs. Udara Darat
 
 - **Di Samudra:** Konsentrasi $\text{CCN}$ relatif rendah tetapi ukurannya besar (garam laut). Hasilnya, tetesan awan yang terbentuk berjumlah lebih sedikit dengan ukuran relatif besar, sehingga awan di atas samudra lebih cepat menghasilkan curah hujan.
 - **Di Daratan (Wilayah Terpolusi):** Konsentrasi $\text{CCN}$ sangat tinggi akibat aktivitas industri dan kendaraan. Akibatnya, uap air terbagi ke jutaan $\text{CCN}$ kecil. Terbentuklah banyak tetesan awan yang sangat kecil. Awan ini tampak lebih putih (memantulkan radiasi surya), tetapi lebih sulit menghasilkan hujan karena tetesannya terlalu ringan untuk jatuh.
 
-#### Penyemaian Awan (Cloud Seeding)
+#### Penambahan CCN Buatan
 
 Upaya modifikasi cuaca dilakukan dengan menembakkan **Perak Iodida ($\text{AgI}$)** atau garam higroskopis ke dalam awan. Tujuannya adalah menambah jumlah $\text{CCN}$ (atau inti es, $\text{INP}$) secara buatan agar uap air memiliki permukaan untuk berkondensasi dan jatuh sebagai hujan di daerah terpencil atau wilayah terdampak kekeringan.
 
-### Butiran Mikroskopis Pemicu Tetesan Awan
+### Aerosol Pemicu Tetesan Awan
 
 - **Aerosol** adalah partikel padat atau cair yang melayang di atmosfer.
 - **$\text{CCN}$** (*Cloud Condensation Nuclei*) merupakan kelompok aerosol hidroskopis yang mampu memicu pembentukan tetesan awan.

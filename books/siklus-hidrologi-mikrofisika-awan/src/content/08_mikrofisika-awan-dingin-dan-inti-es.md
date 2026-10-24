@@ -2,7 +2,7 @@
 
 Mikrofisika awan dingin (*cold clouds*) membahas kondisi atmosfer ketika air dapat bertahan cair meskipun suhu lingkungan jauh di bawah titik beku. Jika pembahasan sebelumnya berfokus pada dinamika tetesan air cair, bagian ini mengulas bagaimana kristal es pertama terbentuk di atmosfer.
 
-### 1. Rahasia Air Superdingin (Supercooled Water)
+### 1. Air Cair di Bawah Titik Beku
 
 Fakta mendasar dalam meteorologi fisik menunjukkan bahwa uap air murni tidak serta-merta membeku tepat pada suhu $0^\circ\text{C}$. Di atmosfer bebas, tetesan air murni dapat tetap berfase cair hingga suhu mendekati $-40^\circ\text{C}$. Kondisi cair metastabil ini dikenal sebagai **air superdingin** (*supercooled water*).
 
@@ -70,7 +70,7 @@ Molekul air ($\text{H}_2\text{O}$) membentuk ikatan hidrogen yang mencapai tingk
 
 > **Catatan Kristalografi:** Jika ditemukan penggambaran kepingan salju yang memiliki 5 atau 8 cabang pada ilustrasi dekoratif, hal tersebut merupakan ketidaksesuaian dengan prinsip fisika atmosfer. Fisika ikatan molekul air memastikan bahwa pertumbuhan kristal es di alam selalu mempertahankan simetri heksagonal.
 
-### Teknologi Penyemaian Awan (Cloud Seeding)
+### Penyemaian Inti Es Buatan
 
 Pemahaman mengenai dinamika $\text{IN}$ melandasi penerapan teknologi modifikasi cuaca berbasis penyemaian awan (*cloud seeding*). Ketika awan campuran mengandung air superdingin melimpah namun kekurangan $\text{IN}$ alami, agen penyemai buatan diintroduksikan ke dalam massa awan.
 
@@ -78,7 +78,7 @@ Pemahaman mengenai dinamika $\text{IN}$ melandasi penerapan teknologi modifikasi
 - **Prinsip Kerja $\text{AgI}$:** Struktur kristalografi $\text{AgI}$ memiliki konstanta kisi yang hampir identik dengan kristal es murni.
 - **Dampak Pembekuan:** Partikel $\text{AgI}$ memaksa tetesan air superdingin untuk segera memicu nukleasi heterogen, memicu pertumbuhan cepat kristal es hingga mencapai ukuran presipitasi dan jatuh sebagai hujan atau salju.
 
-### Ringkasan Perbandingan Nukleasi Es
+### Nukleasi Es Homogen dan Heterogen
 
 | Karakteristik | Nukleasi Homogen | Nukleasi Heterogen |
 | --- | --- | --- |

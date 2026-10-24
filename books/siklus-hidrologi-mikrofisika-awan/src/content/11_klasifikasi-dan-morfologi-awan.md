@@ -4,7 +4,7 @@ Menatap langit sering kali memunculkan pertanyaan tentang alasan beberapa awan t
 
 Secara visual, awan menjadi indikator utama mengenai dinamika yang terjadi di atmosfer pada skala mikroskopis. Bentuk, ukuran, dan tekstur awan (yang dikenal sebagai **morfologi**) merupakan hasil langsung dari interaksi antara stabilitas termodinamika, kandungan aerosol, serta proses mikrofisika seperti nukleasi es atau tabrakan tetesan air.
 
-### 1. Jembatan Antara Mikrofisika dan Morfologi
+### 1. Hubungan Mikrofisika dan Morfologi
 
 Sebelum mengelompokkan awan, pemelajar perlu memahami hukum dasar yang membentuk struktur tampilan langit:
 
@@ -73,7 +73,7 @@ Proses pembentukan awan dapat dianalogikan dengan pembuatan adonan kue di dapur:
 
 Pemanggangan adonan menggunakan suhu rendah yang merata (kondisi atmosfer stabil) memicu pembentukan kue lapis yang lebar dan tipis (*Stratus*). Sebaliknya, pemberian pasokan panas yang kuat dari dasar (konveksi mendalam) membuat adonan mengembang pesat ke atas menyerupai *popcorn* atau *soufflé* (*Cumulus* atau *Cumulonimbus*).
 
-### 5. Membaca Dinamika Langit
+### 5. Manfaat Praktis Pengamatan Awan
 
 Pemahaman mengenai morfologi awan memberikan pemetaan kondisi cuaca yang penting bagi berbagai bidang industri:
 
@@ -88,7 +88,7 @@ Pemahaman mengenai morfologi awan memberikan pemetaan kondisi cuaca yang penting
 >
 > *(Petunjuk: Cermati perbedaan bentuk optik antara tetesan air cair yang melingkar tegas dan kristal es yang menyerupai serat atau jarum).*
 
-### Ringkasan Morfologi dan Mikrofisika Awan
+### Tipe Awan dan Ciri Mikrofisikanya
 
 | Tipe Awan | Klasifikasi Elevasi | Komposisi Fasa | Karakteristik Mikrofisika Utama |
 | --- | --- | --- | --- |

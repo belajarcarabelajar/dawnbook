@@ -2,7 +2,7 @@
 
 Jika atmosfer Bumi dianggap sebagai sebuah mesin cuaca, uap air adalah bahan bakarnya, karena air menyerap dan melepas energi ketika berubah wujud. Dalam bagian ini, pembahasan berfokus pada bagaimana air berubah wujud serta bagaimana proses tersebut melepaskan atau menyerap energi dalam jumlah besar yang memicu badai, membentuk awan, dan mengatur suhu planet ini.
 
-### 1. Air Sang Bunglon Molekuler
+### 1. Tiga Fase Air di Atmosfer
 
 Di atmosfer, air merupakan satu-satunya zat yang dapat ditemukan dalam tiga fase sekaligus: **padat (es)**, **cair (air)**, dan **gas (uap air)**. Perubahan dari satu fase ke fase lainnya disebut sebagai **perubahan fase**.
 
@@ -22,7 +22,7 @@ Salah satu konsep utama dalam mikrofisika awan adalah **Panas Laten (Latent Heat
 
 Saat mendidihkan air, suhu air bertahan pada $100^\circ\text{C}$ meskipun sumber panas terus menyala. Energi dari kompor tidak lagi menaikkan suhu, melainkan digunakan untuk memutus ikatan antarmolekul cairan agar berubah wujud menjadi gas.
 
-#### Ringkasan Jenis-jenis Panas Laten
+#### Jenis-jenis Panas Laten
 
 | Jenis Panas Laten | Simbol | Nilai Khas | Proses Perubahan Fase | Sifat Energi |
 | :--- | :--- | :--- | :--- | :--- |
@@ -102,7 +102,7 @@ Berikut hasilnya untuk lima suhu, dari suhu di permukaan ($30^\circ\text{C}$) sa
 
 **Analisis Hasil:** Nilai $e\_s$ berkurang drastis dari suhu $30^\circ\text{C}$ (sekitar $42\text{ hPa}$) hingga suhu $0^\circ\text{C}$ (sekitar $6\text{ hPa}$). Penurunan kapasitas ini memaksa kelebihan uap air berkondensasi menjadi titik air atau membeku menjadi kristal es.
 
-### Energi Tersembunyi di Balik Cuaca
+### Panas Laten Penggerak Cuaca
 
 - **Perubahan fase** merupakan mekanisme utama perpindahan energi di atmosfer.
 - **Panas Laten** bertindak sebagai penggerak dinamika cuaca; energi dilepaskan saat kondensasi dan pembekuan, serta diserap saat penguapan dan pencairan.

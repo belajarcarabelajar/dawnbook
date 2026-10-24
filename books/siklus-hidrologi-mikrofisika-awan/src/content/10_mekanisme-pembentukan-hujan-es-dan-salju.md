@@ -71,7 +71,7 @@ Tidak semua kristal es yang bertabrakan akan menyatu. Keberhasilan agregasi sang
 
 **Karakteristik Hasil Agregasi:** Kristal yang dihasilkan melalui agregasi biasanya berbentuk kompleks dan dendritik, yang dikenal sebagai kepingan salju klasik. Ukurannya bisa mencapai beberapa sentimeter jika kondisi atmosfer mendukung.
 
-## Ringkasan Perbedaan Graupel, Hail, dan Salju
+## Perbedaan Graupel, Hail, dan Salju
 
 | Fitur | Graupel | Hail (Hujan Es) | Salju (*Snowflake*) |
 | --- | --- | --- | --- |
@@ -80,7 +80,7 @@ Tidak semua kristal es yang bertabrakan akan menyatu. Keberhasilan agregasi sang
 | **Ukuran** | $< 5\text{ mm}$ | $5\text{ mm}$ hingga $> 10\text{ cm}$ | Bervariasi (kumpulan kristal) |
 | **Awan Asal** | Berbagai awan dingin | Cumulonimbus (Badai) | Nimbostratus / Cumulus |
 
-## Aplikasi Dunia Nyata & Skenario
+## Dampak Akresi dan Hujan Es
 
 ### Keselamatan Penerbangan (Aircraft Icing)
 

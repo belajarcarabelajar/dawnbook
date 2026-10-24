@@ -97,7 +97,7 @@ Hujan pada kenyataannya dapat terbentuk dalam waktu 20 hingga 30 menit setelah a
 #### Analisis Prediksi Cuaca
 Prakirawan cuaca menggunakan pemodelan mikrofisika untuk mengestimasi potensi curah hujan. Apabila simulasi menunjukkan populasi tetesan yang sangat seragam akibat dominasi difusi uap tanpa gangguan turbulensi, awan tersebut cenderung bertahan sebagai awan mendung non-presipitasi (seperti *stratus*).
 
-#### Modifikasi Cuaca (*Cloud Seeding*)
+#### Penyemaian Partikel Higroskopis
 Dalam operasi penyemaian awan, partikel higroskopis (seperti NaCl) disebarkan untuk menciptakan tetesan berukuran lebih besar secara cepat melalui efek larutan. Langkah ini mempercepat difusi uap awal dan mempersingkat waktu pencapaian fase tabrakan-penyatuan.
 
 #### Jari-jari yang Tumbuh Makin Lambat

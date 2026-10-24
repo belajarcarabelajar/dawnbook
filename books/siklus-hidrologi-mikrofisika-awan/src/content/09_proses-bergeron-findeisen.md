@@ -110,12 +110,12 @@ Pada kondisi kekeringan atau kebutuhan presipitasi tambahan, lapisan awan dingin
 3. **Inisiasi Proses Bergeron-Findeisen:** Kehadiran inti es buatan menginisiasi pembentukan kristal es seketika. Gradien tekanan uap langsung terbentuk antara tetesan air superdingin dan es baru tersebut.
 4. **Pertumbuhan Pesat dan Presipitasi:** Kristal es tumbuh pesat melalui deposisi uap, mencapai ukuran kritis presipitasi, lalu jatuh sebagai salju atau mencair menjadi hujan di permukaan tanah.
 
-### Ringkasan Tahapan Fisika Bergeron-Findeisen
+### Tahapan Fisika Bergeron-Findeisen
 
 | Tahapan | Tetesan Air Superdingin | Kristal Es Padat | Kondisi Kejenuhan Atmosfer | Hasil Akhir Mikro Fisika |
 | :--- | :--- | :--- | :--- | :--- |
 | **Inisiasi (Awal)** | Konsentrasi tinggi, fase cair superdingin | Konsentrasi sangat rendah | Jenuh terhadap air cair ($RH\_{\text{air}} = 100\text{\%}$) | Kesetimbangan uap belum terganggu |
 | **Transformasi (Proses)** | Mengalami evaporasi mendadak | Mengalami deposisi uap pesat | Lewat-jenuh terhadap es ($RH\_{\text{es}} > 100\text{\%}$) | Transfer massa uap dari cair ke padat |
-| **Klimaks (Terminasi)** | Menyusut hingga habis menguap | Tumbuh mekar dan semakin berat | Kesetimbangan uap bergeser | Partikel es mulai jatuh (presipitasi) |
+| **Akhir (Terminasi)** | Menyusut hingga habis menguap | Tumbuh membesar dan semakin berat | Kesetimbangan uap bergeser | Partikel es mulai jatuh (presipitasi) |
 
 Tanpa keberadaan Proses Bergeron-Findeisen pada atmosfer lintang menengah dan tinggi, laju pembentukan presipitasi pada awan-awan dingin akan berlangsung jauh lebih lambat, yang berpengaruh langsung terhadap distribusi curah hujan global.
