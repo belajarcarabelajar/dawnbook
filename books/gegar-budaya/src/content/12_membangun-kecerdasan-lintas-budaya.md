@@ -4,7 +4,7 @@ Setelah melewati fase krisis hingga tahap adaptasi, kamu mungkin bertanya-tanya 
 
 Di sinilah kita masuk ke konsep **Cultural Intelligence (CQ)** atau Kecerdasan Lintas Budaya. Jika IQ mengukur logika dan EQ mengukur emosi, maka CQ adalah kemampuan kamu untuk berfungsi, berinteraksi, dan bekerja secara efektif dalam lingkungan yang memiliki latar belakang budaya berbeda-beda.
 
-## 1. Apa Itu CQ? Analogi Adaptor Universal
+## 1. CQ Ibarat Adaptor Universal
 
 Bayangkan kamu memiliki sebuah peralatan elektronik yang canggih (diri kamu), namun kamu harus bepergian ke berbagai negara dengan jenis stopkontak yang berbeda-beda.
 
@@ -58,7 +58,7 @@ $$
 
 Tanpa **Tantangan**, kamu tidak akan berkembang. Tanpa **Refleksi**, tantangan hanya akan menjadi stres yang sia-sia.
 
-### Proses Transformasi
+### Tiga Tahap Pertumbuhan
 
 1. **Disorientasi:** Kamu merasa bingung karena cara lama kamu tidak berhasil.
 2. **Eksplorasi:** Kamu mulai mencari tahu "mengapa" orang lokal bertindak demikian.

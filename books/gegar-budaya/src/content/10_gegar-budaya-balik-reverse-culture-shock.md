@@ -68,7 +68,7 @@ Saat kamu pulang dan mencoba memakai sepatu itu kembali, sepatu tersebut tetapla
 
 **Rumahmu adalah sepatu itu, dan pengalaman internasionalmu adalah pertumbuhan kakimu.** Masalahnya bukan pada sepatunya, juga bukan pada kakimu. Masalahnya adalah kamu sudah melampaui ukuran lamamu.
 
-## Skenario Nyata & Kasus Penggunaan
+## Contoh Budi dan Sari
 
 ### Mahasiswa "Fresh Graduate" yang Pulang
 

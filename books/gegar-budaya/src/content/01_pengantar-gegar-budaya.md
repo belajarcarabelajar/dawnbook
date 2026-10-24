@@ -4,7 +4,7 @@ Bayangkan kamu adalah seekor ikan yang sepanjang hidupnya berenang di air tawar 
 
 Itulah esensi dari **Gegar Budaya** atau *Culture Shock*. Ini bukan cuma rasa rindu rumah (*homesickness*), melainkan sebuah proses psikologis saat navigasi mental kita tidak lagi berfungsi di lingkungan yang baru.
 
-## Apa Itu Gegar Budaya? (Definisi Dasar)
+## Apa Itu Gegar Budaya?
 
 Secara teknis, **Gegar Budaya** adalah perasaan disorientasi, kecemasan, dan kebingungan yang dialami seseorang ketika mereka terpapar pada lingkungan budaya yang sangat berbeda dari lingkungan asalnya.
 

@@ -88,7 +88,7 @@ Transisi yang mulus dimulai saat kamu mendarat. Kelelahan fisik karena perjalana
 - **Strategi Barang:** Andi membawa satu botol kecil kecap manis kegemarannya dan foto wisuda keluarga.
 - **Saat Tiba:** Alih-alih langsung tidur karena lelah, Andi pergi ke supermarket terdekat untuk melihat-lihat jenis roti yang tersedia. Hal kecil ini membuatnya merasa "menang" di hari pertama karena berhasil melakukan transaksi mandiri.
 
-## Kesimpulan Kecil untuk Direnungkan
+## Satu Pertanyaan Sebelum Berangkat
 
 *Jika kamu harus pindah besok pagi ke negara yang bahasanya tidak kamu mengerti, apa satu benda yang akan membuatmu merasa paling tenang saat memegangnya?*
 

@@ -23,7 +23,7 @@ $$
 
 Jika kamu pindah dari Indonesia (yang cenderung komunal) ke Finlandia, apakah kamu siap jika orang-orang di halte bus berdiri dengan jarak 2 meter satu sama lain?
 
-### 3\. Kinesik dan Tubuh yang Berbicara Lebih Keras
+### 3\. Kinesik dan Gerak Tubuh
 
 Kinesik mencakup gerak tubuh, ekspresi wajah, dan postur. Masalah terbesar dalam integrasi adalah **gestur universal yang ternyata tidak universal.**
 
