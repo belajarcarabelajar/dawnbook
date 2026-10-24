@@ -1,7 +1,7 @@
 ---
 schema: ultra-plan/v1
 plan_id: 2026-10-24-dawnbook-voice-crutch-cap
-status: Approved
+status: Complete
 version: 1
 runner_contract: true
 skill: "super-ultra-code-plan (loaded through the Skill tool from ~/.claude/skills/super-ultra-code-plan/SKILL.md)"
@@ -144,3 +144,8 @@ One PR through pr-registry; merge, deploy, D1 seed and GSC asked separately.
 - The cap counts words, not meaning: a writer may cut a "pun" that carries emphasis. Reviewers check that no hedge or nuance is lost.
 - Exclusions are a fixed list; a technical term missing from it shows up as a cap hit and is added to the list with a test, never rewritten.
 - Rollback: revert the PR; the cap and the text changes are separate commits.
+
+## Closeout status
+
+- 2026-10-24: `bun scripts/plan-closeout.mjs --readiness docs/code-plan/plans/2026-10-24-dawnbook-voice-crutch-cap.md` (run from ~/vivera) printed `readiness: NEEDS-HUMAN`, exit 3: no task has a `skip_if` proof, 0 open step boxes, 0 other open boxes, 0 open NOW follow-ups.
+- Owner decision 2026-10-24 (Close plan gate, asked with that verdict shown): Mark Complete, on the human evidence recorded under D1 (PR #201 merged, deploy 9217304 exit 0, D1 seed exit 0, GSC sitemap PUT 204, live page check). Status set to Complete in PR #202.

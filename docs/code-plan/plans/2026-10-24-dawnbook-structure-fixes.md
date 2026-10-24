@@ -154,7 +154,8 @@ Trigger: `bun run scripts/check-book-structure.ts <slug>` fails on `main` (7d1f7
 - [x] O1-O4: 167 openers whose first sentence survives the meta cut, one subagent per book.
 - [x] G1: test-first, `check-book-structure` over all books in `bun run build` and as `bun run check:structure`.
 - [x] P1: plain wording instead of inflated metaphors in all 60 books (owner request mid-session), one subagent per book, three reviewers; then the heading pass on all 60 books and the teori-gaya-kelekatan template fix.
-- Evidence (2026-10-24, worktree HEAD 456c303, 285 commits, 723 files over origin/main): `bun run scripts/check-book-structure.ts --all` exit 0; `bun run check:voice` exit 0; `bun run scripts/check-heading-colons.ts` exit 0; `bun run scripts/check-repeated-headings.ts` exit 0; `bun run check:diagrams` exit 0; `bun test tests/scripts/ tests/books/` exit 0, 606 pass, 0 fail; `bun run build` exit 0. The build log has 6 mdBook "html parse error" warnings in 3 chapters (algoritma-x 07, human-capital 04, siklus-hidrologi 03); the same stray `<` lines exist on origin/main, so they predate this PR and go to the backlog.
+- Evidence (2026-10-24, worktree HEAD 456c303, 285 commits, 723 files over origin/main): `bun run scripts/check-book-structure.ts --all` exit 0; `bun run check:voice` exit 0; `bun run scripts/check-heading-colons.ts` exit 0; `bun run scripts/check-repeated-headings.ts` exit 0; `bun run check:diagrams` exit 0; `bun test tests/scripts/ tests/books/` exit 0, 606 pass, 0 fail; `bun run build` exit 0. That build log had 6 mdBook "html parse error" warnings in 3 chapters (algoritma-x 07, human-capital 04, siklus-hidrologi 03), from stray `<` lines that also exist on origin/main.
+- Evidence after the debt-sweep follow-ups (2026-10-24, worktree HEAD 9d423186, clean tree): the same seven commands all exit 0 (tests 606 pass, 0 fail), and the build log has 0 "parse error" lines.
 - [ ] D1: one PR; merge asked alone; deploy, D1 seed and GSC reindex asked separately.
 
 ## Measurement
@@ -244,6 +245,15 @@ Template fix (owner answer 2026-10-24, Repeat = "Rewrite in this PR"): teori-gay
 
 Small fixes found on the way, one commit each: an English "or" in bias-kognitif 01, "Imans" spelled "Imanensi" in eksistensialisme-dan-makna-hidup 10, "dipertahaman" in pembelajaran-multidisiplin 02, and "Air Superdingin (Supercooled Water)" restored in siklus-hidrologi 08.
 
+Follow-ups chosen by the owner at the debt sweep (2026-10-24, before merge), one commit per book:
+- the 11 "Rangkuman & Pertanyaan Refleksi N" closers in sistem-pengendalian-topik now have distinct titles;
+- body text that still echoed renamed titles was rewritten (neuroplastisitas 09 "Jembatan Sains"; iklan-digital 02-03 fuel image);
+- elastisitas keeps the rubber-band analogy in chapter 01 only, and chapters 02, 04 and 07 refer back to it under their own headings;
+- 20 jargon-heavy headings in eksistensialisme-dan-kehendak-bebas were reworded;
+- `<` became `\lt` in the math of 3 chapters, which removed the 6 mdBook "html parse error" warnings;
+- two italic taglines under drama headings in sejarah-evolusi-drama-korea 07 were dropped;
+- "Selamat datang" frames were removed in 24 books (only a Rust string literal remains), and the 6 stock "Selamat! Kamu telah ..." lines were rewritten (only a quoted dialogue line remains).
+
 ### Task D1
 One PR through pr-registry. Merge asked alone. Deploy, the Phase F D1 seed (`content_md` changed) and the GSC reindex (meta descriptions changed on 167 pages) are each asked separately.
 
@@ -256,3 +266,8 @@ One PR through pr-registry. Merge asked alone. Deploy, the Phase F D1 seed (`con
 - Books by Kania Salsabila need her commit identity and the Iwan trailer; the parent checks `git log --format=%an -- books/<slug>` per book before committing.
 - Concurrency: L1, H1 and the waves touch the same files in some books (for example bias-kognitif in all three), so they run in sequence; within a wave, books are disjoint.
 - Rollback: revert the PR; L1, H1, each wave and G1 are separate commits.
+
+## Closeout status
+
+- 2026-10-24: readiness `NEEDS-HUMAN` (exit 3); every task lacks a `skip_if` proof and the only open box is D1 (merge, deploy, D1 seed, GSC reindex).
+- Owner decision 2026-10-24 (Close plan gate): keep it open. Reopen the question after PR #202 is merged, deployed with the D1 seed, and the GSC sitemap reindex has returned 204.
