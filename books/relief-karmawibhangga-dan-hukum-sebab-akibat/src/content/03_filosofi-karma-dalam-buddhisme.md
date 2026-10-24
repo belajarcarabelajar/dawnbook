@@ -74,7 +74,9 @@ Hal ini menjelaskan mengapa pada relief Karmawibhangga, satu panel seringkali di
 
 Hukum Karma adalah bahan bakar dari roda **Samsara** (siklus kelahiran dan kematian yang berulang). Selama seseorang masih memiliki niat yang didasari oleh ego atau keinginan, benih karma akan terus tercipta, yang menyebabkan ia terus terlahir kembali di berbagai alam kehidupan.
 
-> "Sesuai dengan benih yang ditanam, demikian pula buah yang dituai. Pembuat kebajikan akan menuai kebahagiaan, pembuat kejahatan akan menuai penderitaan."
+Sang Buddha merangkum hukum ini dengan perumpamaan benih dalam *Samyutta Nikaya* (jilid I, hlm. 227), yang dikutip Sayadaw U Thittila dalam *What Kamma Is* (1996):
+
+> "Sesuai dengan benih yang ditabur, demikianlah buah yang kamu tuai darinya. Pelaku kebaikan menuai kebaikan, pelaku kejahatan menuai kejahatan. Benih telah ditabur, dan kamu akan merasakan buahnya."
 
 ## Menerapkan Filosofi Karma
 
