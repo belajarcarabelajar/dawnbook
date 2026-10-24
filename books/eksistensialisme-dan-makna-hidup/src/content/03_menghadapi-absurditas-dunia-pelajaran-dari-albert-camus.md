@@ -54,7 +54,7 @@ Ini adalah kondisi di mana seseorang mencoba "melarikan diri" dari absurditas de
 
 Inilah jalan sang pahlawan. Kita mengakui bahwa hidup ini tidak memiliki makna yang melekat (inheren), namun kita tetap memilih untuk hidup dengan penuh semangat.
 
-> **Insight:** Bagi Camus, pemberontakan bukan teriakan sesaat, melainkan cara hidup: terus sadar akan absurditas tanpa menyerah kepadanya, lalu menjalani hidup sepenuhnya.
+> **Insight:** Bagi Camus, pemberontakan adalah cara hidup: terus sadar akan absurditas tanpa menyerah kepadanya, lalu menjalani hidup sepenuhnya.
 
 Ketiga jalan itu, beserta sikap Camus terhadap masing-masing, bisa kamu lihat sekaligus di sini.
 
