@@ -91,7 +91,7 @@ Punya catatan finansial yang bersih dan positif adalah aset jangka panjang.
 - Pakai limit tersebut untuk transaksi kebutuhan dasar yang pasti bisa kamu lunasi bulan depannya.
 - Ambil produk yang bebas biaya admin bulanan agar tidak membebani arus kas.
 
-### Merawat Skor Tetap Hijau
+### Menjaga Skor Tetap Baik
 - Biasakan melunasi tagihan beberapa hari sebelum tenggat waktu. Menyalakan fitur debet otomatis dari rekening gaji akan membantu.
 - Jaga tingkat pemakaian limit kartu di bawah 30 persen. Umpamanya plafon kartu kamu 10 juta, usahakan total gesekan bulan itu tidak melampaui 3 juta.
 - Jangan iseng menekan tombol *apply* di berbagai aplikasi pinjol sekaligus.

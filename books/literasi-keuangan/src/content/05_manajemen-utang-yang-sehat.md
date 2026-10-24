@@ -41,7 +41,7 @@ Memegang utang tentu ada risikonya. Kamu perlu sadar dan siap mengelolanya supay
 
 > "Utang adalah pisau bermata dua; bisa jadi alat pembuat kekayaan, atau penghancur keuangan."
 
-### 2.1 Beban Bunga yang Mencekik
+### 2.1 Beban Bunga yang Tinggi
 
 Mayoritas utang menyertakan biaya bunga. Bunga ini yang harus kamu bayar ke pihak kreditur. Kalau bunganya tinggi, apalagi dari pinjaman online atau kartu kredit, tagihan bulanan bakal membengkak dan utang pokok jadi sulit lunas.
 
@@ -60,7 +60,7 @@ Saat kamu tidak sanggup membayar cicilan tepat waktu, bersiaplah menghadapi rent
 
 Ditagih debt collector atau sekadar mikirin saldo minus bisa bikin stres. Beban mental akibat utang sering memicu kecemasan, kurang tidur, sampai depresi yang mengganggu aktivitas sehari-hari.
 
-### 2.4 Lingkaran Setan "Gali Lubang Tutup Lubang"
+### 2.4 Pola "Gali Lubang Tutup Lubang"
 
 Bahaya terbesar muncul saat kamu harus cari pinjaman baru buat menambal cicilan bulan ini. Terlebih jika terjebak jerat pinjol ilegal yang menjanjikan kemudahan namun bunganya tinggi.
 

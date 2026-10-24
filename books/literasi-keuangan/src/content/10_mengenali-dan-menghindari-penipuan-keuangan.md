@@ -78,7 +78,7 @@ Kalau kamu sadar sudah tertipu, jangan panik. Semakin cepat kamu bertindak, sema
 - **CekRekening.id:** Situs dari Kominfo untuk mengecek sekaligus melaporkan nomor rekening pelaku agar diblokir.
 - **Patroli Siber:** Buat laporan kejadian lewat situs patrolisiber.id atau datang langsung ke polsek terdekat.
 
-## Ribuan Kasus Setiap Tahun
+## Laporan Penipuan di Indonesia
 
 Kasus penipuan adalah ancaman nyata di sekitar kita. Antara akhir tahun lalu hingga menjelang 2026, Indonesia Anti-Scam Center menerima lebih dari 180 ribu laporan dengan total kerugian mencapai triliunan rupiah. Modus belanja fiktif dan telepon palsu masih mendominasi.
 

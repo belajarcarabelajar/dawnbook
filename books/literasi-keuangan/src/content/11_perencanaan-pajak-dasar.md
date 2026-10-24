@@ -95,7 +95,7 @@ Proses pelaporannya praktis:
 
 > **Tips:** Jangan nunggu sampai akhir Maret buat lapor. Website DJP kadang *down* kalau terlalu banyak yang akses bersamaan. Kalau bingung, langsung saja telepon Kring Pajak di 1500200.
 
-## Strategi Cerdas Mengelola Pajak
+## Langkah Praktis Mengelola Pajak
 
 Merencanakan pajak berarti memanfaatkan aturan pajak yang ada supaya pengeluaranmu lebih efisien. Berikut langkah-langkah praktisnya:
 
