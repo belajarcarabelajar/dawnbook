@@ -1,6 +1,6 @@
 ## Pengantar Aerodinamika Pesawat Terbang
 
-Pernahkah kamu membayangkan berdiri di samping Boeing 747 atau Airbus A380, lalu takjub melihat benda seberat ratusan ton itu terangkat ke angkasa? Ia naik seolah-olah seringan kapas. Jawabannya tidak terletak pada sihir, melainkan pada interaksi harmonis antara molekul udara dan permukaan benda yang melewatinya. Itulah inti dari **Aerodinamika**.
+Pernahkah kamu membayangkan berdiri di samping Boeing 747 atau Airbus A380, lalu takjub melihat benda seberat ratusan ton itu terangkat ke angkasa? Ia naik seolah-olah seringan kapas. Jawabannya terletak pada interaksi antara molekul udara dan permukaan benda yang melewatinya. Itulah inti dari **Aerodinamika**.
 
 Secara etimologi, Aerodinamika berasal dari kata Yunani *Aero* (udara) dan *Dynamics* (kekuatan atau perubahan). Bidang ini merupakan studi tentang bagaimana gas (khususnya udara) berinteraksi dengan benda padat yang bergerak melaluinya.
 
@@ -140,4 +140,4 @@ Misalkan udara di bawah sayap bergerak 50 m/s, sedangkan udara di atas sayap dip
 
 Jadi, percepatan aliran dari 50 m/s menjadi 60 m/s menurunkan tekanan di sisi atas sayap sebesar 673,75 Pa, dan selisih tekanan itulah yang mendorong sayap ke atas.
 
-> **Wawasan Konseptual:** Aerodinamika pada hakikatnya adalah seni memanipulasi distribusi tekanan fluida. Dengan mengontrol dinamika aliran udara di sekitar permukaan benda, wahana penerbangan dapat mengatasi tarikan gravitasi dan menjelajah ruang udara secara terkendali.
+> **Wawasan Konseptual:** Aerodinamika pada dasarnya adalah upaya mengatur distribusi tekanan fluida. Dengan mengontrol aliran udara di sekitar permukaan benda, wahana penerbangan dapat mengatasi tarikan gravitasi dan terbang secara terkendali.

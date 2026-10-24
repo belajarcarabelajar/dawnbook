@@ -93,4 +93,4 @@ Pada fase akhir pendaratan, kecepatan rendah dan profil penurunan stabil menjadi
 | **Slotted / Fowler Flap** | *Trailing Edge* | Peningkatan *camber*, luas area ($S$), dan kontrol celah | Peningkatan $C_{L,\max}$ dan pergeseran ke atas | Sedang (T/O) hingga Tinggi (Landing) |
 | **Spoilers** | Permukaan Atas (*Upper Surface*) | Separasi aliran paksa dan degradasi sirkulasi | Menurunkan nilai $C_L$ secara instan | Sangat Tinggi |
 
-Penerapan sistem *high-lift* membuktikan bahwa aerodinamika modern selalu mengedepankan optimasi multidimensi: mengombinasikan fleksibilitas mekanis sayap dengan manipulasi fisika aliran fluida untuk menjamin efisiensi jelajah tinggi tanpa mengorbankan keselamatan pendaratan pada kecepatan rendah.
+Penerapan sistem *high-lift* menunjukkan cara aerodinamika modern menggabungkan sayap yang bentuknya bisa diubah secara mekanis dengan pengaturan aliran fluida, sehingga pesawat bisa efisien saat jelajah tanpa mengorbankan keselamatan pendaratan pada kecepatan rendah.

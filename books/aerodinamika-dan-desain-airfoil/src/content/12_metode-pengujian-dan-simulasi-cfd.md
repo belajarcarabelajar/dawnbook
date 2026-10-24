@@ -1,8 +1,8 @@
 ## Metode Pengujian dan Simulasi CFD
 
-Bayangkan sebuah profil airfoil revolusioner baru saja selesai dirancang di atas kertas atau pemodelan CAD. Desain tersebut secara teoritis tampak sangat efisien dan menjanjikan rasio gaya angkat terhadap hambat ($L/D$) yang luar biasa. Namun, memasang profil tersebut secara langsung pada purwarupa pesawat terbang berawak berisiko tinggi tanpa serangkaian tahapan validasi eksperimental dan komputasional yang mendalam.
+Bayangkan sebuah profil airfoil baru saja selesai dirancang di atas kertas atau pemodelan CAD. Desain tersebut secara teoritis tampak efisien dan menjanjikan rasio gaya angkat terhadap hambat ($L/D$) yang tinggi. Namun, memasang profil tersebut secara langsung pada purwarupa pesawat terbang berawak berisiko tinggi tanpa serangkaian tahapan validasi eksperimental dan komputasional yang mendalam.
 
-Dalam mekanika fluida dan aerodinamika terapan, terdapat perbedaan nyata antara formulasi analitis teoretis dengan fenomena aliran fluida nyata yang melibatkan viskositas, turbulensi, separasi, dan efek kompresibilitas. Untuk menjembatani perbedaan tersebut, dunia aerodinamika modern bertumpu pada dua pilar utama validasi: **Computational Fluid Dynamics (CFD)** dan **Pengujian Terowongan Angin (Wind Tunnel Testing)**.
+Dalam mekanika fluida dan aerodinamika terapan, terdapat perbedaan nyata antara formulasi analitis teoretis dengan fenomena aliran fluida nyata yang melibatkan viskositas, turbulensi, separasi, dan efek kompresibilitas. Untuk menjembatani perbedaan tersebut, aerodinamika modern bertumpu pada dua metode validasi utama: **Computational Fluid Dynamics (CFD)** dan **Pengujian Terowongan Angin (Wind Tunnel Testing)**.
 
 Urutan validasi yang perlu kamu tempuh, dari konsep geometri sampai uji terbang nyata, terlihat pada diagram berikut.
 
@@ -105,7 +105,7 @@ Proses analisis aerodinamika numerik terstruktur dalam tiga tahapan utama:
 
 ### 3. Pengujian Terowongan Angin
 
-Meskipun perangkat lunak simulasi semakin canggih, terowongan angin (*wind tunnel*) tetap menjadi standar kebenaran eksperimental (*ground truth*) dalam dunia aerodinamika dan sertifikasi kelaikudaraan.
+Meskipun perangkat lunak simulasi semakin canggih, terowongan angin (*wind tunnel*) tetap menjadi standar kebenaran eksperimental (*ground truth*) dalam aerodinamika dan sertifikasi kelaikudaraan.
 
 Prinsip dasar pengujian terowongan angin bertumpu pada **relativitas aerodinamika Galileo**: gaya dan momen yang dialami sebuah benda padat yang bergerak menembus massa udara diam identik dengan gaya yang dialami benda diam yang dialiri fluida dengan kecepatan seragam yang sama.
 

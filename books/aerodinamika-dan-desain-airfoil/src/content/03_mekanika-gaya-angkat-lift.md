@@ -1,6 +1,6 @@
 ## Mekanika Gaya Angkat (Lift)
 
-Sering kali muncul pertanyaan mengenai bagaimana sebuah pesawat besi berbobot ratusan ton dapat melayang di udara yang tampak kosong. Fenomena ini bukan keajaiban, melainkan interaksi fisika yang presisi antara fluida udara, geometri penampang sayap, dan kecepatan gerak. Bab ini membedah mekanisme fundamental di balik **Gaya Angkat (*Lift*)**, yaitu gaya aerodinamika yang melawan gaya gravitasi dan memungkinkan penerbangan berlangsung secara stabil.
+Sering kali muncul pertanyaan mengenai bagaimana sebuah pesawat besi berbobot ratusan ton dapat melayang di udara yang tampak kosong. Penjelasannya ada pada interaksi fisika antara fluida udara, geometri penampang sayap, dan kecepatan gerak. Bab ini membahas mekanisme dasar **Gaya Angkat (*Lift*)**, yaitu gaya aerodinamika yang melawan gaya gravitasi dan memungkinkan penerbangan berlangsung secara stabil.
 
 ### 1. Gaya Angkat dari Perbedaan Tekanan
 

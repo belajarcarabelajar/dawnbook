@@ -1,6 +1,6 @@
 ## Aerodinamika Kecepatan Tinggi dan Transonik
 
-Topik aerodinamika kecepatan tinggi dan transonik merupakan salah satu domain paling krusial sekaligus menantang dalam rekayasa kedirgantaraan modern. Pada kecepatan rendah (subsonik tak mampumampat), udara mengalir di sekitar permukaan sayap dengan variasi kerapatan massa yang dapat diabaikan. Namun, ketika kecepatan terbang meningkat mendekati kecepatan suara, kompresibilitas udara menjadi dominan dan dinamika fluida berubah secara drastis.
+Aerodinamika kecepatan tinggi dan transonik termasuk topik yang penting sekaligus menantang dalam rekayasa kedirgantaraan modern. Pada kecepatan rendah (subsonik tak mampumampat), udara mengalir di sekitar permukaan sayap dengan variasi kerapatan massa yang dapat diabaikan. Namun, ketika kecepatan terbang meningkat mendekati kecepatan suara, kompresibilitas udara menjadi dominan dan dinamika fluida berubah secara drastis.
 
 Perilaku fluida pada kecepatan tinggi dapat dianalogikan dengan interaksi mekanik pada media air. Ketika seseorang menggerakkan tangan perlahan di dalam kolam renang, partikel air dengan mudah berpindah dan mengalir mengitari tangan. Sebaliknya, jika tangan digerakkan secara mendadak dengan kecepatan sangat tinggi untuk memukul permukaan air, fluida memberikan resistansi balik yang sangat keras. Fenomena serupa dialami oleh wahana terbang saat mendekati ambang batas kecepatan suara, di mana gangguan tekanan merambat dengan kecepatan yang sebanding dengan kecepatan gerak pesawat itu sendiri.
 
@@ -78,7 +78,7 @@ Dibandingkan dengan profil airfoil konvensional (seperti seri NACA 6-digit), air
 
 ### 5. Konsep Sapuan Sayap (*Wing Sweep*)
 
-Selain rekayasa profil airfoil superkritis, strategi aerodinamika terpenting untuk menaklukkan rezim transonik adalah penerapan **sayap sapu** (*swept wing*), yaitu memiringkan bidang sayap ke arah belakang dengan sudut sapu $\Lambda$ (*sweep angle*).
+Selain rekayasa profil airfoil superkritis, strategi aerodinamika terpenting untuk menghadapi rezim transonik adalah penerapan **sayap sapu** (*swept wing*), yaitu memiringkan bidang sayap ke arah belakang dengan sudut sapu $\Lambda$ (*sweep angle*).
 
 Prinsip fisika di balik sayap sapu didasarkan pada konsep bahwa respons aerodinamika airfoil 2D hanya ditentukan oleh komponen kecepatan aliran udara yang tegak lurus terhadap garis seperempat tali sayap (*quarter-chord line*). Komponen kecepatan yang sejajar dengan rentang sayap (*spanwise component*) diasumsikan tidak memengaruhi distribusi tekanan profil secara signifikan.
 
