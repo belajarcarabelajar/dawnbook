@@ -6,7 +6,7 @@ Sejak peluit pertama dibunyikan di Uruguay pada tahun 1930, Piala Dunia FIFA ber
 
 ## Kekuatan Lunak Piala Dunia
 
-George Orwell pernah menyebut olahraga internasional sebagai "perang tanpa tembakan". Sudut pandang ini sangat relevan dalam geopolitik, di mana Piala Dunia menjadi instrumen kekuatan lunak (*soft power*) yang efektif. Berbeda dari kekuatan militer atau ekonomi (*hard power*) yang sifatnya memaksa, *soft power* bekerja dengan cara memikat dan memengaruhi masyarakat global lewat budaya, nilai, serta olahraga.
+Dalam esai "The Sporting Spirit" (1945), George Orwell menyebut olahraga yang dipertandingkan dengan serius sebagai "perang tanpa tembakan". Sudut pandang ini sangat relevan dalam geopolitik, di mana Piala Dunia menjadi instrumen kekuatan lunak (*soft power*) yang efektif. Berbeda dari kekuatan militer atau ekonomi (*hard power*) yang sifatnya memaksa, *soft power* bekerja dengan cara memikat dan memengaruhi masyarakat global lewat budaya, nilai, serta olahraga.
 
 ### Mengapa Geopolitik Melekat pada Piala Dunia?
 

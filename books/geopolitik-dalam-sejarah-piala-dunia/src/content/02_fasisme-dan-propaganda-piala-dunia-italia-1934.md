@@ -20,7 +20,7 @@ Rezim fasis membangun dan merenovasi stadion-stadion megah seperti **Stadio Nazi
 
 Tim nasional Italia diposisikan sebagai representasi dari "Manusia Fasis Baru" yang kuat, disiplin, dan patuh. Para pemain diwajibkan melakukan hormat fasis (*saluto fascista*) sebelum pertandingan dimulai.
 
-> "Tujuan utama kita adalah menunjukkan kepada dunia apa itu fasisme melalui semangat dan kemenangan atlet kita." (Pesan implisit rezim kepada tim nasional).
+Pesan yang tersirat dari semua itu cukup jelas: lewat semangat dan kemenangan para atletnya, rezim ingin memperlihatkan kepada dunia apa itu fasisme.
 
 ### 3. Media dan Manipulasi Informasi
 
