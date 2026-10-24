@@ -12,7 +12,7 @@ Hasilnya mengejutkan. Dibandingkan kelompok kontrol berisi orang biasa, para pem
 
 Sisi lain studi ini juga penting. Para peneliti membandingkan para pemenang dengan korban kecelakaan yang lumpuh. Kelompok ini memang lebih tidak bahagia, tapi kejutannya: mereka menilai masa depannya di atas titik netral. Artinya, mekanisme adaptasi bekerja dua arah. Manusia tidak hanya segera membiasakan diri pada keberuntungan, tapi juga perlahan menemukan pijakan baru setelah musibah.
 
-### Tangga yang terus bergerak turun
+### Hedonic treadmill
 
 Nama ilmiahnya adaptasi hedonis; banyak psikolog menyebut gejalanya *hedonic treadmill*. Ide dasarnya sederhana: respons emosional kita terhadap keberuntungan maupun musibah tidak pernah tinggal diam, tapi bergeser pelan-pelan. Yang kemarin terasa istimewa, hari ini terasa biasa, dan minggu depan terasa wajar. Titik emosimu pindah ke garis baru, dan garis baru itulah yang menjadi normal berikutnya.
 
@@ -36,7 +36,7 @@ Tim peneliti menemukan pola berikut. Orang berpenghasilan di atas rata-rata mema
 
 Focusing illusion inilah penjelasan kenapa prediksi nanti kalau penghasilanku naik pasti bahagia sering meleset. Pikiran mengunci perhatian pada hal yang berubah dan mengabaikan jam-jam rutin yang tetap sama. Menilai hidup lewat satu sorotan itu mudah, tapi hidup dijalani di seluruh jamnya.
 
-### Berdamai dengan mesin yang mengendur
+### Tiga cara menyikapi adaptasi hedonis
 
 Kalau adaptasi hedonis tidak bisa dimatikan, apa yang bisa kamu lakukan? Bukan melawan mesinnya, tapi membaca manualnya.
 

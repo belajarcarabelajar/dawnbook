@@ -4,7 +4,7 @@ Coba ingat orang-orang yang paling lantang berkata bahwa duit adalah sumber baha
 
 Kalau kamu pernah merasakan versi kecilnya, kamu tidak sedang gagal mengelola uang. Kamu sedang bertemu jebakan terakhir: materialisme, yaitu ketika uang berpindah kursi. Dari alat yang membantu hidup, ia berubah menjadi tujuan terakhir yang menentukan harga diri. Dan di kursi barunya itu, uang justru berhenti bekerja untuk kebahagiaanmu.
 
-### Mimpi yang punya sisi gelap
+### Saat kesuksesan finansial menjadi aspirasi utama
 
 Fenomena ini bukan sekadar kilasan pengalaman pribadi, ia sudah diukur dengan cermat. Psikolog Tim Kasser dan Richard Ryan pada 1993 mempublikasikan studi berjudul "A dark side of the American dream" di jurnal *Journal of Personality and Social Psychology*. Mereka menanyakan pada responden aspirasi mana yang paling menjadi pusat hidupnya, lalu membandingkan kelompok yang menempatkan kesuksesan finansial sebagai tujuan utama dengan kelompok yang menaruh hal lain di posisi itu: kedekatan dan hubungan yang hangat, rasa bermanfaat bagi komunitas, serta pertumbuhan diri.
 
@@ -22,7 +22,7 @@ Kedua, tujuan intrinsik: relasi yang hangat, pertumbuhan diri, dan rasa bermanfa
 
 Masalahnya makin rumit karena waktu dan energi kita terbatas. Mengejar tujuan ekstrinsik bukan cuma gagal memuaskan, ia juga merampas jam untuk hal yang benar-benar memuaskan. Lembur demi angka yang tak pernah cukup mengambil tempat makan malam bersama keluarga dan hobi yang tertunda. Setiap jam untuk citra adalah jam yang tidak masuk ke relasi dan pertumbuhan.
 
-### Uang di kursi alat, uang di kursi tujuan
+### Uang sebagai alat, bukan tujuan
 
 Di sini perlu kehati-hatian agar tidak salah maksud. Buku ini sejak awal bukan kampanye anti-uang. Bab tiga dan empat sudah menunjukkan bahwa uang dan kesejahteraan memang berjalan beriringan. Bab delapan bahkan memperlihatkan sisi sebaliknya: kekurangan uang menyita pikiran dan membuat keputusan jadi sempit. Uang yang cukup itu jelas menolong.
 
@@ -30,7 +30,7 @@ Garis pembedanya bukan banyak atau sedikit, melainkan posisi. Uang sebagai alat 
 
 > Uang itu seperti listrik. Ia menyalakan lampu belajar anakmu, menghidupkan kulkas penyimpan obat, dan membuat rumah berfungsi. Tapi tidak ada keluarga yang menata rumahnya supaya semua sudut menghadap ke kabel. Kalau hidupmu tersusun hanya menghadap ke sumbernya, yang hilang justru ruang untuk hidupnya sendiri.
 
-### Dua kaki yang menjaga keseimbangan
+### Dua kaki kesehatan finansial
 
 Lalu seperti apa kesehatan finansial menurut riset? Para peneliti kesejahteraan finansial sering merangkumnya dengan dua kaki. Kaki pertama, rasa kendali atas keuangan hari ini: kamu tahu ke mana uangmu pergi dan merasa mampu mengatur jalannya. Kaki kedua, rasa aman untuk masa depan: kamu tidak gelisah membayangkan kebutuhan yang akan datang. Dengan dua kaki itu, kamu bisa menutup bulan tanpa tegang dan menatap tahun tanpa deg-degan.
 

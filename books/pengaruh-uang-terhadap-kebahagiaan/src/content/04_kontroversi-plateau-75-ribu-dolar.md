@@ -4,7 +4,7 @@ Bayangkan kamu membaca dua berita tentang uang dan kebahagiaan yang judulnya sal
 
 Penelitian di balik keduanya dimuat di jurnal ilmiah yang sama, PNAS (Proceedings of the National Academy of Sciences), tentang pertanyaan yang persis sama. Dua tim peneliti serius, dua dataset besar, dua kesimpulan yang saling bertolak belakang.
 
-### Satu survei 2010, dua wajah kesejahteraan
+### Dua jenis kesejahteraan dalam survei 2010
 
 Studi pertama datang dari Daniel Kahneman, psikolog peraih Nobel, dan Angus Deaton, ekonom peraih Nobel. Mereka menganalisis sekitar 450.000 respons survei harian Gallup dari penduduk Amerika Serikat, yang tiap hari menjawab pertanyaan tentang hidup dan perasaan mereka kemarin.
 
@@ -19,7 +19,7 @@ Jadi temuan aslinya sebenarnya jauh lebih halus daripada slogan "uang tidak memb
 
 Angka 75.000 dolar itu lalu berkeliling dunia, muncul di buku populer, slide seminar, dan ribuan artikel dengan kalimat serempak: "Sudah, di titik ini uang berhenti menambah kebahagiaan." Yang jarang disebutkan, peneliti aslinya tidak pernah bicara sekuat itu.
 
-### Kebalikan yang mengguncang tahun 2021
+### Hasil berlawanan dari studi 2021
 
 Sebelas tahun kemudian, Matthew Killingsworth dari Wharton, Universitas Pennsylvania, mengambil pendekatan yang berbeda. Alih-alih meminta orang mengingat perasaan mereka kemarin, ia memakai aplikasi yang mengirim pertanyaan secara acak di tengah hari dan menanyakan perasaanmu saat ini juga.
 

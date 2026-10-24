@@ -32,7 +32,7 @@ Supaya tidak abstrak, mari lihat datanya. **World Happiness Report 2025** menyus
 
 Sebelum kamu bergumam, tahan dulu dua hal. Pertama, angka ini adalah rata-rata dari jutaan orang dengan kondisi yang sangat beragam, jadi ia lebih tepat dibaca sebagai gambaran besar, bukan ukuran yang presisi. Kedua, skor itu murni hasil pertanyaan tangga, artinya penilaian kognitif atas hidup. Ia belum memberi tahu seberapa sering warga sebuah negara tertawa atau khawatir. Dua jenis data itu bisa menghasilkan cerita yang berbeda, dan perbedaan inilah yang sebentar lagi jadi penting.
 
-### Saat dua penggaris yang beda dipakai silang
+### Dua ukuran yang sering tertukar
 
 Pembedaan ini penting karena banyak klaim populer soal "uang membuat bahagia" atau "uang tidak ada hubungannya dengan kebahagiaan" sebenarnya keliru bukan karena datanya salah, tapi karena membandingkan dua jenis ukuran yang berbeda: penilaian hidup secara keseluruhan di satu sisi, dan perasaan harian di sisi lain. Keduanya sah, keduanya ilmiah, tapi keduanya menjawab pertanyaan yang tidak sama.
 

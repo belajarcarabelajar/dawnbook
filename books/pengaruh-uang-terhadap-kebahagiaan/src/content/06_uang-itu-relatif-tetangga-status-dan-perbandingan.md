@@ -6,7 +6,7 @@ Lalu sebuah kabar kecil datang dari obrolan santai di teras: tetangga sebelah te
 
 Tidak ada yang mencuri uangmu. Yang berubah hanyalah posisimu di papan skor yang tidak pernah kamu minta untuk diikuti. Bab sebelumnya ditutup dengan catatan bahwa separuh jawaban ada di relasi antar manusia. Bab ini mulai dari yang paling dekat sekaligus paling licin efeknya: tetangga sebelah.
 
-### Tetangga adalah bagian dari matematika
+### Tetangga yang lebih kaya
 
 Ekonom Erzo Luttmer membedah pertanyaan ini dalam studi di *Quarterly Journal of Economics* tahun 2005, berjudul "Neighbors as Negatives: Relative Earnings and Well-Being", kira-kira "tetangga sebagai angka negatif".
 
