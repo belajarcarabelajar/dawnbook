@@ -1,7 +1,7 @@
 ---
 schema: ultra-plan/v1
 plan_id: 2026-10-24-dawnbook-voice-pass-six-books
-status: Approved
+status: Complete
 version: 1
 runner_contract: true
 skill: "super-ultra-code-plan (loaded through the Skill tool from ~/.claude/skills/super-ultra-code-plan/SKILL.md)"
@@ -101,7 +101,7 @@ tasks:
 
 # Plan: section 29 voice pass for six pipeline-written books
 
-Status: Approved
+Status: Complete
 Author: Iwan Kurniawan <iwan@belajarcarabelajar.com>, no trailer
 Classification: Architectural by size (about 70 chapters in six books plus a shared checker), Bounded in kind (the same flow as plan 2026-10-24-dawnbook-harvest-moon-voice).
 Trigger: the same-class sweep after the Harvest Moon voice fix (owner selected follow-up V-N1, 2026-10-24).
@@ -111,9 +111,9 @@ Trigger: the same-class sweep after the Harvest Moon voice fix (owner selected f
 - [x] Measure: per-chapter scaffold score for all 60 books (patterns: "Kalau dipikir-pikir", "menurut studi/penelitian/riset/data/laporan/survei", a study or report as the subject of "menunjukkan/menemukan/mencatat/menyebut", "bab berikutnya", "Menariknya", "Perhatikan"). Evidence: one-off scan 2026-10-24, median 0.25 per chapter; the six books below score 1.3 to 2.8.
 - [x] Plan gate: owner approves this plan (one PR per book, or one PR for all six). Evidence: AskUserQuestion 2026-10-24: Plan = Approve and start now; one PR per book, G1 ships in the first book's PR.
 - [x] G1: shared checker `scripts/check-voice.ts` with tests (RED first), caps from GEMINI.md section 29. Evidence 2026-10-24: `bun test tests/scripts/check-voice.test.ts` RED with 4 fail on the review defects (unanchored Referensi skip, vacuous empty book, -lah/-nya connectors, `sebab berikutnya`), then exit 0 with 22 pass; soft-power and Harvest Moon book tests call it.
-- [ ] B1-B6: one book per task; each fans out to chapter rewriters under the section 29 dispatch paragraph and the rewriting-never-adds rule, then a parent audit and two reviewers (facts old versus new, and voice).
-- [ ] V1: gates and build.
-- [ ] D1: PRs; merge, deploy and D1 seed asked separately per PR.
+- [x] B1-B6: one book per task; each fans out to chapter rewriters under the section 29 dispatch paragraph and the rewriting-never-adds rule, then a parent audit and two reviewers (facts old versus new, and voice). Evidence 2026-10-24: B1 soft-power full rewrite PR #189, B2 keputusan-finansial light pass PR #190, B3 kebiasaan #191, B4 uang-bahagia #192, B5 menunda #193, B6 dia-suka #194 (Kania Salsabila author, Iwan co-author trailer); each book got a reviewer round (old vs new) and, for B3-B6, a second "fixes landed" verifier.
+- [x] V1: gates and build. Evidence: per book `bun test tests/books/<slug>.test.ts`, `check-voice`, `check-book-structure`, `check-heading-colons`, `check-repeated-headings`, copy-rules all exit 0 and `bun run build` exit 0 (SEO R1-R7); on main after #194, 7 test files exit 0 (45 pass) and check-voice 0 problems in all six books.
+- [x] D1: PRs; merge, deploy and D1 seed asked separately per PR. Evidence: each merge asked alone and merged with --match-head-commit; deploy 1 (main c05fdc2 + #190) exit 0, deploy 2 (main e3c7514) exit 0; migrate-to-d1.ts exit 0 both times; GSC sitemap PUT 204, 0 errors; live chapter 01 of all six books shows the new text (HTTP 200).
 
 ## 1. Books in scope
 
@@ -185,3 +185,12 @@ PRs through pr-registry; merge, deploy, D1 seed and GSC asked separately.
 - Fan-out stays at about 7 subagents at a time; a subagent session limit was hit once on 2026-10-23.
 - Rewrites may drop facts but never add them (GEMINI.md section 29 rule 6); the parent audit and reviewers compare old and new text.
 - Rollback per book: revert that book's PR.
+
+## Closeout status
+
+- Readiness (`bun scripts/plan-closeout.mjs --readiness`, 2026-10-24): NEEDS-HUMAN, 0 open step boxes, 0 open NOW follow-ups; B1-B6, V1 and D1 carry `skip_if: false` (editorial work), so their proof is the evidence on the checklist lines above.
+- Owner decision 2026-10-24 (AskUserQuestion "Close plan"): Mark Complete.
+- Follow-ups offered and declined ("Nothing more"), kept as backlog:
+  1. `check:voice` script in package.json (report only). Measured: `bun run scripts/check-voice.ts --all` exits 1, 48 of 60 books have at least one problem, mostly "bab berikutnya" bridges, so it cannot gate the build yet.
+  2. A per-chapter cap of 4 for the crutch words tetap/pun/bahkan/justru in `scripts/check-voice.ts` (reviewers counted them by hand).
+  3. A plan for a scaffold-only pass over the 48 books that still fail check-voice.
