@@ -1,6 +1,6 @@
 ## Anatomi Neuron dan Sinapsis dalam Pembelajaran
 
-Bayangkan otak kamu adalah sebuah kota metropolitan yang sangat sibuk, yang tidak terhubung lewat kabel tembaga atau fiber optik. Kota ini dihubungkan oleh miliaran sel hidup yang terus-menerus "berbicara" satu sama lain. Setiap kali kamu mempelajari kata baru dalam bahasa asing atau mencoba teknik baru dalam olahraga, kamu sebenarnya sedang melakukan rekayasa infrastruktur biologis di dalam kepala kamu.
+Bayangkan otak kamu adalah sebuah kota metropolitan yang sangat sibuk, tetapi tidak dihubungkan oleh kabel tembaga atau fiber optik. Penghubungnya adalah miliaran sel hidup yang terus-menerus "berbicara" satu sama lain. Setiap kali kamu mempelajari kata baru dalam bahasa asing atau mencoba teknik baru dalam olahraga, kamu sebenarnya sedang melakukan rekayasa infrastruktur biologis di dalam kepala kamu.
 
 Materi ini akan membawa kamu menyelami fondasi fisik dari belajar: **Neuron** dan **Sinapsis**.
 
