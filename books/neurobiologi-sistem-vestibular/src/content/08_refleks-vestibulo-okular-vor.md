@@ -1,6 +1,6 @@
 ## Refleks Vestibulo-Okular (VOR)
 
-Pernahkah kita mencoba membaca pesan teks di ponsel saat sedang berjalan cepat atau berlari? Meskipun kepala bergerak naik-turun dan bergoyang ke samping, mata kita masih mampu "mengunci" teks tersebut sehingga teks itu terbaca dengan jelas. Keajaiban biologis ini bukan terjadi secara kebetulan; ini adalah kerja keras dari **Refleks Vestibulo-Okular (VOR)**.
+Pernahkah kita mencoba membaca pesan teks di ponsel saat sedang berjalan cepat atau berlari? Meskipun kepala bergerak naik-turun dan bergoyang ke samping, mata kita masih mampu "mengunci" teks tersebut sehingga terbaca dengan jelas. Keajaiban biologis ini bukan terjadi secara kebetulan; ini adalah kerja keras dari **Refleks Vestibulo-Okular (VOR)**.
 
 VOR adalah salah satu refleks tercepat dalam tubuh manusia. Fungsinya sangat spesifik: menghasilkan gerakan mata yang berlawanan arah dengan gerakan kepala untuk menjaga bayangan objek tetap stabil di pusat retina (**fovea**).
 
