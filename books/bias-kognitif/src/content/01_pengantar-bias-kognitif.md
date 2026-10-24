@@ -55,7 +55,7 @@ Untuk memahami dari mana bias berasal, kita perlu mengenal konsep dua sistem dal
 1. **System 1 (Cepat & Intuitif):** Bekerja secara otomatis, tanpa usaha, dan di luar kendali sadar kita. Inilah sumber utama cognitive bias.
 2. **System 2 (Lambat & Analitis):** Membutuhkan perhatian penuh, usaha mental, dan digunakan untuk memecahkan masalah kompleks atau perhitungan matematika seperti: $\sqrt{144} \times 15 = ?$
 
-Cognitive bias terjadi ketika **System 1** mengambil alih tugas yang seharusnya dikerjakan oleh **System 2**, or ketika System 1 menyodorkan jawaban cepat yang kemudian disetujui begitu saja oleh System 2 yang malas.
+Cognitive bias terjadi ketika **System 1** mengambil alih tugas yang seharusnya dikerjakan oleh **System 2**, atau ketika System 1 menyodorkan jawaban cepat yang kemudian disetujui begitu saja oleh System 2 yang malas.
 
 ## Bias dalam Wawancara Kerja
 
