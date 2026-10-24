@@ -1,4 +1,4 @@
-## Aerosol Atmosfer dan Inti Kondensasi Awan (CCN)
+## Aerosol Atmosfer dan Inti Kondensasi Awan
 
 Pernahkah pembaca membayangkan bahwa tetesan hujan yang membasahi bumi sebenarnya bermula dari sebutir debu mikroskopis atau kristal garam yang melayang di langit? Tanpa partikel-partikel kecil ini, langit mungkin akan tetap cerah meskipun kelembapan udara mencapai 100%.
 
@@ -94,7 +94,7 @@ Dengan $\beta = 3$, setiap kali radius naik sepuluh kali lipat, konsentrasinya t
 
 Upaya modifikasi cuaca dilakukan dengan menembakkan **Perak Iodida ($\text{AgI}$)** atau garam higroskopis ke dalam awan. Tujuannya adalah menambah jumlah $\text{CCN}$ (atau inti es, $\text{INP}$) secara buatan agar uap air memiliki permukaan untuk berkondensasi dan jatuh sebagai hujan di daerah terpencil atau wilayah terdampak kekeringan.
 
-### Ringkasan Konsep
+### Butiran Mikroskopis Pemicu Tetesan Awan
 
 - **Aerosol** adalah partikel padat atau cair yang melayang di atmosfer.
 - **$\text{CCN}$** (*Cloud Condensation Nuclei*) merupakan kelompok aerosol hidroskopis yang mampu memicu pembentukan tetesan awan.

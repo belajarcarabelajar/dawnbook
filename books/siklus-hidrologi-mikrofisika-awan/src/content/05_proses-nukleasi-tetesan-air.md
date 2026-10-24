@@ -120,6 +120,6 @@ Prinsip nukleasi heterogen dimanfaatkan secara langsung dalam teknologi pembenih
 | **Lokasi Kejadian** | Kondisi laboratorium / atmosfer atas | Awan di seluruh wilayah Bumi |
 | **Peran Tegangan Permukaan** | Penghambat utama yang dominan | Diminimalisir oleh ukuran partikel inti |
 
-### Kesimpulan
+### Gerbang Awal Lahirnya Tetesan Awan
 
 Nukleasi merupakan gerbang awal perubahan fase air dari gas menjadi cair di atmosfer. Tegangan permukaan bertindak sebagai penghambat alami pada tetesan mikro, namun keberadaan partikel aerosol ($\text{CCN}$) melalui nukleasi heterogen menurunkan hambatan energi tersebut. Hal ini memungkinkan uap air mengembun secara efektif dan membentuk tetesan awan yang menjadi bagian utama dari siklus hidrologi bumi.

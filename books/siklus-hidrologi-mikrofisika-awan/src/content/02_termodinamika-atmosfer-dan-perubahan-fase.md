@@ -102,7 +102,7 @@ Berikut hasilnya untuk lima suhu, dari suhu di permukaan ($30^\circ\text{C}$) sa
 
 **Analisis Hasil:** Nilai $e\_s$ berkurang drastis dari suhu $30^\circ\text{C}$ (sekitar $42\text{ hPa}$) hingga suhu $0^\circ\text{C}$ (sekitar $6\text{ hPa}$). Penurunan kapasitas ini memaksa kelebihan uap air berkondensasi menjadi titik air atau membeku menjadi kristal es.
 
-### Ringkasan Konsep
+### Energi Tersembunyi di Balik Cuaca
 
 - **Perubahan fase** merupakan mekanisme utama perpindahan energi di atmosfer.
 - **Panas Laten** bertindak sebagai penggerak dinamika cuaca; energi dilepaskan saat kondensasi dan pembekuan, serta diserap saat penguapan dan pencairan.

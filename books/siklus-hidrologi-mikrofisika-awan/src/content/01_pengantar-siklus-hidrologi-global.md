@@ -105,7 +105,7 @@ Studi mengenai siklus hidrologi global memberikan fondasi penting bagi berbagai 
 
 Di kawasan tropis seperti Kalimantan, alih fungsi lahan hutan (deforestasi) mengurangi tingkat **transpirasi** vegetasi secara langsung. Penurunan ini menyebabkan kelembapan udara di atas kawasan tersebut berkurang, sehingga mengurangi pembentukan awan hujan dan menaikkan suhu permukaan lokal. Fenomena ini menunjukkan bagaimana gangguan pada satu komponen siklus dapat memengaruhi kestabilan sirkulasi air regional.
 
-### Kesimpulan
+### Perjalanan Air yang Tak Pernah Usai
 
 Siklus hidrologi global merupakan interaksi abadi antara massa air dan radiasi matahari. Air menguap menuju atmosfer sebagai uap tak kasatmata, mengumpul menjadi awan, dan kembali menyirami daratan untuk menopang kehidupan.
 
