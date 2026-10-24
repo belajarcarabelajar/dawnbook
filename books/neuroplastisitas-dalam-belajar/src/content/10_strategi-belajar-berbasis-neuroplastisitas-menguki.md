@@ -1,6 +1,6 @@
 ## Strategi Belajar Berbasis Neuroplastisitas
 
-Jika bab-bab sebelumnya telah menjelaskan *mengapa* otak bisa berubah, bagian ini akan fokus pada *bagaimana* kamu secara sengaja melakukan perubahan tersebut.
+Bab-bab sebelumnya menjelaskan *mengapa* otak bisa berubah; sekarang giliran *bagaimana* kamu mengubahnya dengan sengaja.
 
 Bayangkan otak kamu adalah sebuah hutan belantara yang rimbun. Belajar hal baru sama seperti mencoba menebas semak belukar untuk menciptakan jalan setapak. Jika kamu hanya melewatinya sekali, semak akan tumbuh kembali dengan cepat. Namun, jika kamu melewatinya berulang kali dengan teknik yang tepat, jalan setapak itu akan menjadi jalan raya beton yang permanen.
 
