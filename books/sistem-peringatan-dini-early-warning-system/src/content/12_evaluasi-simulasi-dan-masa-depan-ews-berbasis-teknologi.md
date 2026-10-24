@@ -47,7 +47,7 @@ Setiap simulasi harus mencatat waktu tempuh evakuasi, kepatuhan warga, dan titik
 
 ### 3. AI, IoT, dan Digital Twin
 
-Tiga gelombang teknologi akan mengubah EWS:
+Tiga perkembangan teknologi akan mengubah EWS:
 
 **Kecerdasan buatan untuk nowcasting.** Model machine learning dapat memprediksi hujan 1 sampai 2 jam ke depan dengan resolusi 1 km, lebih cepat dari model fisik konvensional. AI juga membantu memilah sinyal gempa dari derau industri.
 

@@ -30,7 +30,7 @@ Ketiga model saling melengkapi: Destana pada tata kelola, Sibat pada relawan, da
 
 Teknologi modern optimal bila selaras dengan pengetahuan lokal. Contoh paling terdokumentasi adalah ***smong*** dari Pulau Simeulue, Aceh. Kosakata smong merangkum gempa kuat, surut mendadak, dan dentuman yang diikuti perintah lari ke bukit. Pengetahuan yang ditransmisikan melalui *nandong* menyelamatkan ribuan jiwa pada tsunami 1907 dan 2004, sementara wilayah tanpa narasi serupa mengalami korban lebih besar.
 
-Di Jawa, **kentongan** menunjukkan adaptasi alat sederhana menjadi kode peringatan presisi. Pola pukulan membedakan jenis ancaman dan tingkat urgensi, misalnya pukulan *tintir* berulang untuk banjir atau pukulan cepat bertalu untuk kebakaran. Kentongan berada di pos ronda dan masjid sehingga jangkauannya merata dan tidak bergantung pada listrik atau sinyal seluler. Ketika kentongan dipadukan dengan pengeras suara dan grup WhatsApp warga, redundansi saluran justru meningkatkan kepercayaan.
+Di Jawa, **kentongan** menunjukkan adaptasi alat sederhana menjadi kode peringatan. Pola pukulan membedakan jenis ancaman dan tingkat urgensi, misalnya pukulan *tintir* berulang untuk banjir atau pukulan cepat bertalu untuk kebakaran. Kentongan berada di pos ronda dan masjid sehingga jangkauannya merata dan tidak bergantung pada listrik atau sinyal seluler. Ketika kentongan dipadukan dengan pengeras suara dan grup WhatsApp warga, redundansi saluran justru meningkatkan kepercayaan.
 
 Pelajaran dari smong dan kentongan adalah kearifan lokal merupakan protokol evakuasi teruji lapangan. Tugas fasilitator adalah mendokumentasikan dan mengintegrasikannya ke prosedur operasi standar desa tanpa menghilangkan makna budaya.
 
@@ -73,4 +73,4 @@ Untuk menilai apakah kesiapsiagaan telah melembaga, diperlukan indikator yang da
 
 Desa yang memenuhi sebagian besar indikator mampu mempertahankan kesiapsiagaan meski terjadi pergantian kepala desa. Keberlanjutan dijaga melalui peraturan desa tentang penanggulangan bencana, alokasi dana desa untuk pemeliharaan alat dan pelatihan, serta regenerasi relawan melalui karang taruna.
 
-Ketika komunitas mampu membunyikan kentongan, memandu warga difabel, dan menindaklanjuti evaluasi drill, sistem peringatan dini bertransformasi dari proyek menjadi budaya.
+Ketika komunitas mampu membunyikan kentongan, memandu warga difabel, dan menindaklanjuti evaluasi drill, sistem peringatan dini berubah dari proyek menjadi budaya.

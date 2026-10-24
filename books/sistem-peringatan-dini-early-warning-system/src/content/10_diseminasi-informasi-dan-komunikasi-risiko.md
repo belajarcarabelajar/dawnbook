@@ -6,7 +6,7 @@ Pesan peringatan memiliki ekonomi waktu. Nilai peringatan turun cepat bila terla
 
 ### Last Mile dan Tantangan Hilir
 
-Last mile adalah segmen paling kritis antara titik terakhir infrastruktur resmi dan individu yang harus mengambil keputusan. Di Indonesia last mile mencakup kelurahan, kepala desa, pengelola pesisir, pengurus masjid, relawan Destana, serta kelompok nelayan dan petani. Karakter last mile sangat heterogen, meliputi wilayah seluler baik, blank spot, kawasan wisata musiman, serta permukiman padat bantaran sungai. Tantangan hilir meliputi keterlambatan penerusan, perubahan redaksi tiap simpul, kelelahan akibat false alarm, serta hambatan bahasa dan literasi.
+Last mile adalah segmen paling kritis antara titik terakhir infrastruktur resmi dan individu yang harus mengambil keputusan. Di Indonesia last mile mencakup kelurahan, kepala desa, pengelola pesisir, pengurus masjid, relawan Destana, serta kelompok nelayan dan petani. Karakter last mile heterogen, meliputi wilayah seluler baik, blank spot, kawasan wisata musiman, serta permukiman padat bantaran sungai. Tantangan hilir meliputi keterlambatan penerusan, perubahan redaksi tiap simpul, kelelahan akibat false alarm, serta hambatan bahasa dan literasi.
 
 Pendekatan last mile yang efektif bertumpu pada pemetaan aktor sebelum bencana, daftar kontak yang diperbarui, dan latihan rutin. Pemberdayaan relawan lokal meningkatkan kepercayaan karena pesan datang dari figur yang dikenal. Latihan skenario memastikan warga memahami beda informasi, peringatan, dan perintah evakuasi, sementara umpan balik dua arah membantu pusat mengetahui titik buta.
 
