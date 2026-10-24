@@ -78,4 +78,4 @@ Cobalah tantangan kecil berikut sore ini:
 1. Tinggalkan ponselmu di laci.
 2. Pergilah ke luar rumah atau duduk di sudut ruangan yang tenang.
 3. Diamlah selama 10 menit. Jangan mencoba menjadi produktif atau bermeditasi secara formal. Biarkan pikiranmu berbicara.
-4. Perhatikan perasaanmu. Jika ada kegelisahan untuk meraih ponsel, itu menunjukkan seberapa besar ketergantunganmu pada input eksternal.
+4. Amati perasaanmu. Jika ada kegelisahan untuk meraih ponsel, itu menunjukkan seberapa besar ketergantunganmu pada input eksternal.
