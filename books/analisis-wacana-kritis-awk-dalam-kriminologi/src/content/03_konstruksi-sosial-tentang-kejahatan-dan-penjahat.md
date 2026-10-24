@@ -1,6 +1,6 @@
 ## Konstruksi Sosial tentang Kejahatan dan Penjahat
 
-Selamat datang di inti pembahasan Analisis Wacana Kritis (AWK) dalam kriminologi. Pada bagian ini, pemelajar akan membongkar asumsi bahwa "kejahatan" adalah sesuatu yang secara alamiah ada dan "penjahat" adalah jenis manusia yang berbeda dari masyarakat lainnya.
+Pada intinya, AWK dalam kriminologi membongkar asumsi bahwa "kejahatan" ada secara alamiah dan "penjahat" berbeda jenis dari masyarakat.
 
 Bagian ini memperlihatkan bagaimana bahasa bukan sekadar alat untuk melaporkan peristiwa, melainkan alat yang membentuk persepsi masyarakat tentang benar dan salah, normal dan menyimpang.
 

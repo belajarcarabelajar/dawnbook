@@ -1,6 +1,6 @@
 ## Analisis Kesaksian Saksi dan Dinamika Ruang Sidang
 
-Selamat datang di modul ini. Setelah sebelumnya mempelajari fondasi teoretis dan metodologi Analisis Wacana Kritis (AWK), kini analisis masuk ke praktik sistem peradilan pidana: **Ruang Sidang dan Ruang Interogasi.**
+Setelah fondasi teoretis dan metodologi AWK dipelajari, analisis kini masuk ke praktik sistem peradilan pidana: **Ruang Sidang dan Ruang Interogasi.**
 
 Di sini, bahasa bukan sekadar alat komunikasi. Bahasa adalah instrumen kekuasaan yang digunakan untuk mengonstruksi kebenaran, menghancurkan kredibilitas, atau membebaskan seseorang dari jerat hukum. Mari membedah bagaimana kata-kata bekerja di bawah tekanan hukum.
 

@@ -1,6 +1,6 @@
 ## Pengantar Analisis Wacana Kritis (AWK) dalam Kriminologi
 
-Selamat datang di titik temu antara bahasa, kekuasaan, dan keadilan. Dalam studi kriminologi konvensional, analisis sering kali berfokus pada pertanyaan "siapa yang melakukan kejahatan?" atau "mengapa kejahatan tersebut dilakukan?". Namun, **Analisis Wacana Kritis (AWK)** (atau *Critical Discourse Analysis*, disingkat $\text{CDA}$) mengajak pemelajar untuk mundur satu langkah dan mempertanyakan: **"Bagaimana suatu perbuatan didefinisikan sebagai kejahatan melalui struktur bahasa?"**
+Bahasa, kekuasaan, dan keadilan bertemu di satu titik setiap kali sebuah perbuatan didefinisikan sebagai kejahatan lewat susunan kata. Dalam studi kriminologi konvensional, analisis sering kali berfokus pada pertanyaan "siapa yang melakukan kejahatan?" atau "mengapa kejahatan tersebut dilakukan?". Namun, **Analisis Wacana Kritis (AWK)** (atau *Critical Discourse Analysis*, disingkat $\text{CDA}$) mengajak pemelajar untuk mundur satu langkah dan mempertanyakan: **"Bagaimana suatu perbuatan didefinisikan sebagai kejahatan melalui struktur bahasa?"**
 
 Bab ini mengajak pemelajar memahami bahwa kata-kata dalam formulasi hukum, pemberitaan kriminal di media massa, dan argumentasi di ruang sidang bukanlah alat komunikasi netral, melainkan instrumen kekuasaan yang membentuk realitas sosial dan persepsi keadilan.
 
