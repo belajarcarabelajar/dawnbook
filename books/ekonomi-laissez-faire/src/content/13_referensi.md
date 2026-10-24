@@ -4,6 +4,8 @@ Arrow, K. J., & Debreu, G. (1954). Existence of an equilibrium for a competitive
 
 Bator, F. M. (1958). The anatomy of market failure. *The Quarterly Journal of Economics*, 72(3), 351–379. [https://doi.org/10.2307/1882231](https://doi.org/10.2307/1882231)
 
+Berkes, A. (2008). That government is best which governs least (spurious quotation). *Thomas Jefferson Encyclopedia*. Thomas Jefferson Foundation. [https://www.monticello.org/encyclopedia/government-best-which-governs-least-spurious-quotation](https://www.monticello.org/encyclopedia/government-best-which-governs-least-spurious-quotation)
+
 Chang, H.-J. (2002). *Kicking away the ladder: Development strategy in historical perspective*. Anthem Press.
 
 Coase, R. H. (1960). The problem of social cost. *The Journal of Law & Economics*, 3, 1–44. [https://doi.org/10.1086/466560](https://doi.org/10.1086/466560)
@@ -43,6 +45,8 @@ Smith, A. (1759). *The theory of moral sentiments*. A. Millar.
 Smith, A. (1776). *An inquiry into the nature and causes of the wealth of nations*. W. Strahan and T. Cadell.
 
 Stiglitz, J. E. (2002). *Globalization and its discontents*. W. W. Norton & Company.
+
+Thoreau, H. D. (1849). *On the duty of civil disobedience*. Project Gutenberg. [https://www.gutenberg.org/files/71/71-h/71-h.htm](https://www.gutenberg.org/files/71/71-h/71-h.htm)
 
 Turgot, A. R. J. (1766). *Réflexions sur la formation et la distribution des richesses*. Éphémérides du citoyen.
 
