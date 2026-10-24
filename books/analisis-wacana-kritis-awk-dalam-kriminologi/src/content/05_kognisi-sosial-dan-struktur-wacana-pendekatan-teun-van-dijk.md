@@ -1,6 +1,6 @@
 ## Kognisi Sosial dan Struktur Wacana menurut Teun van Dijk
 
-Pernahkah terlintas pertanyaan mengapa sebuah kebijakan keamanan yang sangat ketat seringkali diterima dengan tangan terbuka oleh masyarakat, meskipun kebijakan tersebut mungkin membatasi kebebasan sipil? Jawabannya seringkali tidak terletak pada fakta-fakta statistik kejahatan, melainkan pada bagaimana pesan tersebut dikonstruksi dalam pikiran publik.
+Pernahkah terlintas pertanyaan mengapa sebuah kebijakan keamanan yang sangat ketat seringkali diterima dengan tangan terbuka oleh masyarakat? Padahal, kebijakan tersebut mungkin membatasi kebebasan sipil. Jawabannya seringkali tidak terletak pada fakta-fakta statistik kejahatan, melainkan pada bagaimana pesan tersebut dikonstruksi dalam pikiran publik.
 
 Dalam kerangka Analisis Wacana Kritis (AWK), **Teun van Dijk** menawarkan perspektif yang unik dengan memasukkan elemen "jembatan" yang hilang dalam analisis bahasa tradisional: **Kognisi Sosial**.
 

@@ -1,6 +1,6 @@
 ## Dekonstruksi Dokumen Kebijakan Kriminal dan Produk Hukum
 
-Pernahkah pemelajar membaca sebuah undang-undang dan merasa bahwa bahasanya sangat kaku, teknis, dan seolah-olah "turun dari langit" sebagai kebenaran mutlak? Dalam studi kriminologi konvensional, hukum sering dianggap sebagai instrumen netral untuk mencapai ketertiban. Namun, melalui lensa **Analisis Wacana Kritis (AWK)**, kita akan membedah bahwa dokumen kebijakan dan produk hukum bukanlah teks hampa prasangka.
+Pernahkah kamu membaca undang-undang dan merasa bahasanya sangat kaku, teknis, dan seolah-olah "turun dari langit" sebagai kebenaran mutlak? Dalam studi kriminologi konvensional, hukum sering dianggap sebagai instrumen netral untuk mencapai ketertiban. Namun, melalui lensa **Analisis Wacana Kritis (AWK)**, kita akan membedah bahwa dokumen kebijakan dan produk hukum bukanlah teks hampa prasangka.
 
 Dekonstruksi dalam konteks ini adalah proses membongkar lapisan-lapisan bahasa untuk melihat bagaimana kekuasaan bekerja, siapa yang diuntungkan, dan siapa yang dipinggirkan oleh sebuah regulasi.
 

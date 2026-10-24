@@ -1,6 +1,6 @@
 ## Media Massa dan Konstruksi Ketakutan akan Kejahatan
 
-Pernahkah seseorang merasa takut berjalan sendirian di malam hari setelah menonton berita tentang pembegalan, padahal secara statistik lingkungan sekitar termasuk aman? Itulah kekuatan media massa. Media tidak sekadar memberikan jendela untuk melihat dunia; ia sering kali menjadi arsitek yang membangun persepsi publik tentang apa yang "aman" dan siapa yang "berbahaya".
+Pernahkah kamu takut berjalan sendirian di malam hari setelah menonton berita pembegalan, padahal secara statistik lingkungan sekitar termasuk aman? Itulah kekuatan media massa. Media tidak sekadar memberikan jendela untuk melihat dunia; ia sering kali menjadi arsitek yang membangun persepsi publik tentang apa yang "aman" dan siapa yang "berbahaya".
 
 Dalam bab ini, kita akan membedah bagaimana wacana media massa mengonstruksi ketakutan akan kejahatan (*fear of crime*) melalui lensa **Analisis Wacana Kritis (AWK)**. Kita akan melihat bagaimana pilihan kata, sudut pandang berita, dan pengulangan narasi dapat menciptakan kepanikan moral yang melampaui realitas objektif.
 

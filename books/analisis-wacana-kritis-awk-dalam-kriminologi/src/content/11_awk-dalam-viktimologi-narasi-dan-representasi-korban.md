@@ -1,6 +1,6 @@
 ## AWK dalam Viktimologi
 
-Dalam studi kriminologi dan viktimologi, analisis terhadap posisi korban tidak hanya berfokus pada dampak fisik atau finansial dari kejahatan, melainkan juga pada bagaimana bahasa konstruktif membentuk status sosial dan hukum korban. Bahasa bukan sekadar medium netral untuk menyampaikan fakta, melainkan instrumen kekuasaan tempat status seseorang sebagai korban yang sah diakui, diragukan, atau bahkan dipreteli.
+Dalam studi kriminologi dan viktimologi, analisis terhadap posisi korban tidak hanya berfokus pada dampak fisik atau finansial dari kejahatan. Fokusnya meluas ke cara bahasa konstruktif membentuk status sosial dan hukum korban. Bahasa bukan sekadar medium netral untuk menyampaikan fakta, melainkan instrumen kekuasaan tempat status seseorang sebagai korban yang sah diakui, diragukan, atau bahkan dipreteli.
 
 Analisis Wacana Kritis (AWK) memberikan kerangka kerja untuk membongkar bagaimana teks hukum, pemberitaan media massa, dan wacana publik mengonstruksi narasi tentang korban, yang sering kali mencerminkan struktur ketimpangan kekuasaan di masyarakat.
 
