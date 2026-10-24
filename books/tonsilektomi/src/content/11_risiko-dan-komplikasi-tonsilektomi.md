@@ -1,6 +1,6 @@
 ## Risiko dan Komplikasi Tonsilektomi
 
-Setiap prosedur bedah, sekecil apa pun, adalah sebuah perjalanan bagi tubuh. Meskipun tonsilektomi (pengangkatan amandel) telah menjadi prosedur rutin yang sangat aman dengan tingkat keberhasilan tinggi, tubuh manusia bukanlah mesin yang selalu bisa diprediksi secara mekanis.
+Setiap prosedur bedah, sekecil apa pun, adalah proses yang harus dilalui tubuh. Meskipun tonsilektomi (pengangkatan amandel) telah menjadi prosedur rutin yang sangat aman dengan tingkat keberhasilan tinggi, tubuh manusia bukanlah mesin yang selalu bisa diprediksi secara mekanis.
 
 Memahami risiko tidak bertujuan untuk menakut-nakuti. Pengetahuan ini justru membekali diri kamu dengan kesiapan untuk mendeteksi masalah lebih dini, sehingga proses pemulihan bisa berjalan mulus. Berikut adalah beberapa potensi risiko yang perlu diperhatikan.
 
@@ -86,4 +86,4 @@ Meskipun risiko di atas nyata, sebagian besar kondisi tersebut dapat dicegah den
 3. **Istirahat Total:** Hindari aktivitas fisik berat, seperti berolahraga atau mengangkat beban, selama 14 hari penuh. Peningkatan tekanan darah akibat aktivitas berat rentan memicu pecahnya pembuluh darah di tenggorokan.
 4. **Jaga Kelembapan Udara:** Letakkan alat pelembap udara (*humidifier*) di kamar tidur agar tenggorokan tidak kering saat kamu bernapas lewat mulut selama tidur.
 
-**Penting:** Komplikasi pasca-tonsilektomi sebenarnya merupakan kasus pengecualian. Mayoritas pasien melewati prosedur ini dengan aman dan merasakan peningkatan kualitas hidup yang jauh lebih baik setelah pulih. Pemahamanmu tentang risiko ini berfungsi sebagai panduan terbaik untuk mendukung proses pemulihan yang sukses.
+**Penting:** Komplikasi pasca-tonsilektomi sebenarnya merupakan kasus pengecualian. Mayoritas pasien melewati prosedur ini dengan aman dan merasakan peningkatan kualitas hidup yang jauh lebih baik setelah pulih. Pemahamanmu tentang risiko ini membantu kamu mendukung proses pemulihan.

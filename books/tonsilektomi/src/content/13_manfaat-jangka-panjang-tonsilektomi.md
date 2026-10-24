@@ -16,7 +16,7 @@ Selain itu, kondisi ini membawa efek domino positif bagi tubuh:
 
 ## 2\. Perbaikan Kualitas Tidur dan Pernapasan
 
-Bagi pasien yang menjalani operasi karena **Hipertrofi Tonsil** (amandel yang terlalu besar) atau **Obstructive Sleep Apnea (OSA)**, manfaatnya bisa terasa seperti keajaiban kecil setiap pagi.
+Bagi pasien yang menjalani operasi karena **Hipertrofi Tonsil** (amandel yang terlalu besar) atau **Obstructive Sleep Apnea (OSA)**, manfaatnya bisa terasa setiap pagi.
 
 ### Menghilangkan Hambatan Mekanis
 
@@ -64,4 +64,4 @@ Santi (7 tahun) sering terbangun di malam hari karena sesak napas dan selalu ter
 
 Tonsilektomi membantu menyingkirkan hambatan fisik yang selama ini mengganggu kesehatan harianmu. Dengan menjalani prosedur ini, kamu berkesempatan mendapatkan pernapasan yang lebih lega, tidur restoratif yang berkualitas, serta terbebas dari siklus infeksi tenggorokan yang melelahkan.
 
-Menjalani dua minggu masa pemulihan yang kurang nyaman merupakan langkah kecil demi mendapatkan bertahun-tahun masa depan yang sehat dan bebas dari radang tenggorokan yang mengganggu.
+Menjalani dua minggu masa pemulihan yang kurang nyaman merupakan langkah kecil dibandingkan manfaat jangka panjangnya bagi kesehatanmu.

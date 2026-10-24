@@ -1,6 +1,6 @@
 ## Aktivitas dan Masa Penyembuhan di Rumah
 
-Selamat! Kamu atau buah hatimu telah melewati tahap operasi. Namun, perlu diingat bahwa meja operasi hanyalah awal dari perjalanan menuju pemulihan yang lebih baik. Masa pemulihan di rumah sangat menentukan agar luka di tenggorokan sembuh dengan sempurna tanpa komplikasi.
+Selamat! Kamu atau buah hatimu telah melewati tahap operasi. Namun, perlu diingat bahwa operasi baru langkah awal. Masa pemulihan di rumah sangat menentukan agar luka di tenggorokan sembuh dengan baik tanpa komplikasi.
 
 Anggaplah luka bekas operasi amandel ini seperti **semen basah pada trotoar yang baru diperbaiki**. Jika kamu menginjaknya terlalu cepat atau memberikan tekanan sebelum kering, hasilnya akan rusak. Begitu pula dengan tenggorokanmu, bagian ini membutuhkan waktu tanpa gangguan untuk benar-benar pulih.
 

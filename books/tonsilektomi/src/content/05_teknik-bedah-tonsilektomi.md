@@ -1,6 +1,6 @@
 ## Teknik Bedah Tonsilektomi
 
-Membayangkan operasi amandel mungkin memicu ingatan tentang pisau bedah kecil di tangan dokter. Namun, instrumen bedah THT modern kini telah melampaui alat potong manual klasik, mengadopsi teknologi mulai dari getaran ultrasonik hingga aliran plasma dingin.
+Membayangkan operasi amandel mungkin memicu ingatan tentang pisau bedah kecil di tangan dokter. Namun, instrumen bedah THT modern kini tidak lagi terbatas pada alat potong manual klasik; pilihannya mencakup teknologi mulai dari getaran ultrasonik hingga aliran plasma dingin.
 
 Setiap metode yang digunakan dokter spesialis THT (Telinga, Hidung, Tenggorok) untuk mengangkat amandel dirancang untuk tujuan tertentu, mulai dari meminimalkan kerusakan jaringan hingga mengendalikan perdarahan.
 

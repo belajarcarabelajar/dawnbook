@@ -1,6 +1,6 @@
 ## Prosedur di Ruang Operasi
 
-Selamat datang di "jantung" dari seluruh proses tonsilektomi. Bagi banyak orang, ruang operasi mungkin terasa misterius atau bahkan menakutkan. Namun, sebenarnya ruang operasi adalah lingkungan yang sangat terkendali, terorganisir, dan didesain khusus untuk keamanan pasien.
+Amandel diangkat di ruang operasi, tahap inti dari seluruh proses tonsilektomi. Bagi banyak orang, ruang operasi mungkin terasa misterius atau bahkan menakutkan. Namun, sebenarnya ruang operasi adalah lingkungan yang sangat terkendali, terorganisir, dan didesain khusus untuk keamanan pasien.
 
 Bayangkan ruang operasi seperti sebuah **kokpit pesawat jet modern**. Setiap kru memiliki peran spesifik, setiap instrumen memiliki tempatnya, dan ada daftar periksa (checklist) ketat yang diikuti sebelum "lepas landas" (memulai prosedur).
 
@@ -71,6 +71,6 @@ Mari kita lihat contoh nyata bagaimana tim bekerja secara sinkron:
 | **Operasi** | Pengangkatan tonsil dan kontrol pendarahan. | 20-40 menit |
 | **Emergence** | Pasien dibangunkan dan selang napas dilepas. | 10 menit |
 
-**Penting:** Durasi di tabel hanyalah perkiraan kasar, sehingga lama seluruh prosedur dari saat kamu masuk hingga keluar ruang operasi bisa berbeda pada tiap pasien, seperti terlihat pada contoh anak 7 tahun di atas. Kecepatan bukanlah tujuan utama; ketelitian dan penghentian pendarahan yang sempurna adalah prioritas tertinggi tim medis.
+**Penting:** Durasi di tabel hanyalah perkiraan kasar, sehingga lama seluruh prosedur dari saat kamu masuk hingga keluar ruang operasi bisa berbeda pada tiap pasien, seperti terlihat pada contoh anak 7 tahun di atas. Kecepatan bukanlah tujuan utama; ketelitian dan penghentian pendarahan yang tuntas adalah prioritas tertinggi tim medis.
 
 *Setelah tahap ini selesai, perjalananmu berlanjut ke ruang pemulihan (PACU), yang akan dibahas secara detail pada bagian selanjutnya dari materi ini.*

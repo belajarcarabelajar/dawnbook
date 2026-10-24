@@ -1,6 +1,6 @@
 ## Pemulihan Awal di Rumah Sakit
 
-Setelah bedah tonsilektomi selesai, perjalanan kesembuhanmu atau anakmu baru saja dimulai. Tahap awal setelah keluar dari meja operasi berlangsung di **PACU (Post-Anesthesia Care Unit)** atau Ruang Pemulihan. Di unit ini, tim medis mendampingi transisi dari kondisi tidak sadar akibat bius menuju kondisi stabil secara aman.
+Setelah bedah tonsilektomi selesai, proses pemulihanmu atau anakmu baru saja dimulai. Tahap awal setelah keluar dari meja operasi berlangsung di **PACU (Post-Anesthesia Care Unit)** atau Ruang Pemulihan. Di unit ini, tim medis mendampingi transisi dari kondisi tidak sadar akibat bius menuju kondisi stabil secara aman.
 
 ## Apa itu PACU? (Analogi "Terminal Transit")
 
@@ -19,7 +19,7 @@ Selama berada di PACU (biasanya sekitar 1 hingga 2 jam), perawat akan memantau k
 
 ## Proses Bangun dari Anestesi
 
-Proses bangun dari bius total tidak terjadi secara instan layaknya menyalakan lampu dengan sekali klik. Proses ini berlangsung perlahan, serupa fajar yang menyingsing.
+Proses bangun dari bius total tidak terjadi secara instan layaknya menyalakan lampu dengan sekali klik. Proses ini berlangsung perlahan.
 
 Secara bertahap, kesadaran akan pulih melalui beberapa fase:
 1. **Respon Refleks**: Ditandai dengan gerakan tangan tanpa sadar atau batuk spontan.

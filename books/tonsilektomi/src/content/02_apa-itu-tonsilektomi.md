@@ -14,7 +14,7 @@ Bayangkan amandelmu sebagai **pos penjagaan keamanan** di gerbang tenggorokan. T
 
 ## Evolusi Medis dari Jari Tangan ke Teknologi Plasma
 
-Sejarah tonsilektomi adalah perjalanan panjang yang luar biasa. Teknik yang kita gunakan hari ini sangat jauh berbeda dengan apa yang dilakukan ribuan tahun lalu.
+Tonsilektomi punya sejarah yang panjang. Teknik yang kita gunakan hari ini jauh berbeda dengan apa yang dilakukan ribuan tahun lalu.
 
 ### 1. Era Kuno
 
@@ -58,6 +58,6 @@ Meskipun detail teknis akan dibahas pada bagian selanjutnya, secara umum tonsile
 
 - **Akses:** Dokter akan membuka mulut pasien lebar-lebar dengan bantuan alat penahan khusus (retraktor), tanpa menyisakan luka sayatan di bagian luar leher atau wajah.
 - **Diseksi:** Langkah pemisahan amandel dari selaput pembungkus (kapsul) yang menempel erat pada otot tenggorokan.
-- **Hemostasis:** Proses menghentikan pendarahan di area bekas amandel. Bagian ini sangat vital karena daerah tenggorokan memiliki banyak sekali pembuluh darah.
+- **Hemostasis:** Proses menghentikan pendarahan di area bekas amandel. Bagian ini penting karena daerah tenggorokan memiliki banyak sekali pembuluh darah.
 
 > **Pesan Penting:** Meskipun tonsilektomi adalah prosedur rutin, ia tetaplah sebuah tindakan bedah mayor yang memerlukan keahlian dokter spesialis Telinga, Hidung, dan Tenggorok (THT). Kemajuan teknik medis saat ini bertujuan utama untuk meminimalkan rasa nyeri dan mempercepat proses pemulihan hingga kamu bisa kembali menikmati makanan favorit setelah operasi.
