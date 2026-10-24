@@ -58,7 +58,7 @@ Kemunculan Teori Modal Manusia memicu perubahan mendasar dalam tata kelola manaj
 
 ## Aplikasi Dunia Nyata dan Evaluasi Investasi
 
-Untuk melihat bagaimana kerangka ini bekerja, perhatikan analisis keputusan investasi pada level individu berikut.
+Untuk melihat bagaimana kerangka ini bekerja, cermati analisis keputusan investasi pada level individu berikut.
 
 ### Skenario Keputusan Karir
 
@@ -92,4 +92,4 @@ Setiap individu pada hakikatnya bertindak sebagai pengelola atas modal manusiany
 
 Jika kamu menganalogikan dirimu sebagai sebuah entitas usaha, berapa besar porsi investasi yang telah kamu alokasikan untuk meningkatkan kualitas aset utamamu (dirimu sendiri) sepanjang tahun ini?
 
-Pada bab berikutnya, kita akan membahas secara spesifik model teknis perhitungan imbal hasil pendidikan (*return to education*) dan penerapan **Mincer Earnings Function** dalam mengukur hubungan antara pendidikan, pengalaman kerja, dan tingkat pendapatan.
+Lalu, seberapa besar imbal hasil pendidikan (*return to education*) yang bisa kamu harapkan dari investasi itu? **Mincer Earnings Function** mengukurnya lewat hubungan antara pendidikan, pengalaman kerja, dan tingkat pendapatan.
