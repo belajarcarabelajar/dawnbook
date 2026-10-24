@@ -1,6 +1,6 @@
 ## Pengantar Etika Kebajikan
 
-Etika kebajikan menilai moralitas dari karakter orang yang bertindak, sebuah cara pandang yang batu pertamanya diletakkan oleh Aristoteles. Jika biasanya kita belajar tentang etika sebagai daftar "boleh" dan "tidak boleh", atau "dosa" dan "pahala", maka **Etika Kebajikan (Virtue Ethics)** mengajak kamu melihat ke arah yang berbeda: ke dalam diri kamu sendiri.
+Etika kebajikan menilai moralitas dari karakter orang yang bertindak, sebuah cara pandang yang dasarnya diletakkan oleh Aristoteles. Jika biasanya kita belajar tentang etika sebagai daftar "boleh" dan "tidak boleh", atau "dosa" dan "pahala", maka **Etika Kebajikan (Virtue Ethics)** mengajak kamu melihat ke arah yang berbeda: ke dalam diri kamu sendiri.
 
 Alih-alih berfokus pada tindakan spesifik atau aturan yang kaku, etika kebajikan menyoroti pentingnya **karakter**. Pertanyaan mendasarnya sudah bergeser dari *"Apa yang harus saya lakukan?"* menjadi *"Orang seperti apakah saya seharusnya?"*
 
