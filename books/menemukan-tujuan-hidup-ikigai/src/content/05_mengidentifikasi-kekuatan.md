@@ -28,14 +28,14 @@ Coba ingat-ingat kembali momen di mana kamu merasa paling bangga atau bekerja pa
 
 1. **Catat Keberhasilan:** Tulis setidaknya 5-10 pencapaian yang pernah kamu raih, besar atau kecil. Ini bisa berupa pengalaman mengorganisir acara, membantu memecahkan masalah teknis orang lain, atau sekadar membereskan tugas kuliah yang sangat rumit tepat waktu.
 2. **Bedah Prosesnya:** Dari setiap keberhasilan tadi, bongkar kembali ingatanmu. Keterampilan apa yang kamu pakai? Bagian mana yang terasa paling mudah dikerjakan? Hal apa yang membedakan caramu menyelesaikan masalah tersebut dengan cara orang lain?
-3. **Hobi dan Minat:** Hobi sering kali menjadi cerminan dari bakat yang kamu lakukan tanpa merasa terbebani. Perhatikan aktivitas apa yang sanggup kamu lakukan berjam-jam tanpa sedikit pun merasa bosan.
+3. **Hobi dan Minat:** Hobi sering kali menjadi cerminan dari bakat yang kamu lakukan tanpa merasa terbebani. Amati aktivitas apa yang sanggup kamu lakukan berjam-jam tanpa sedikit pun merasa bosan.
 
 ### 3.2. Mencari Umpan Balik (Feedback)
 
 Orang terdekat terkadang melihat hal-hal yang luput dari perhatian kita sendiri. Mendapatkan _feedback_ yang jujur sangat berguna untuk memetakan kekuatan.
 
 1. **Tanya Lingkungan Dekat:** Mintalah pandangan dari teman, keluarga, rekan kerja, atau mentor mengenai kelebihan yang mereka lihat dari dirimu. Kamu bisa bertanya, "Dalam hal apa aku biasanya paling bisa diandalkan?" atau "Apa yang terlihat mudah kulakukan tapi sulit bagi orang lain?"
-2. **Tandai Pujian yang Sering Diterima:** Perhatikan komentar positif yang berulang kali datang dari orang berbeda. Pola pujian ini biasanya merupakan petunjuk kuat tentang di mana letak keahlian aslimu.
+2. **Tandai Pujian yang Sering Diterima:** Cermati komentar positif yang berulang kali datang dari orang berbeda. Pola pujian ini biasanya merupakan petunjuk kuat tentang di mana letak keahlian aslimu.
 
 ### 3.3. Self-Assessment (Penilaian Diri)
 
