@@ -1,6 +1,6 @@
 ## Keamanan Kernel melalui Namespaces dan Cgroups
 
-Bagian ini membahas inti teknologi containerization modern. Jika kamu pernah bertanya-tanya bagaimana Docker atau Kubernetes dapat menjalankan ratusan aplikasi pada satu mesin tanpa saling mengganggu, jawabannya ada pada dua fitur fundamental dalam Kernel Linux: **Namespaces** dan **Control Groups (Cgroups)**.
+Inti teknologi containerization modern ada di dalam Kernel Linux. Jika kamu pernah bertanya-tanya bagaimana Docker atau Kubernetes dapat menjalankan ratusan aplikasi pada satu mesin tanpa saling mengganggu, jawabannya ada pada dua fitur fundamental dalam Kernel Linux: **Namespaces** dan **Control Groups (Cgroups)**.
 
 Dalam arsitektur kernel, keamanan bukan hanya soal enkripsi atau password, tetapi juga tentang **isolasi** dan **pembatasan**. Mari kita bedah bagaimana kernel membangun dinding virtual serta mengatur alokasi resource untuk menciptakan lingkungan yang aman dan efisien.
 
