@@ -6,7 +6,7 @@ Dalam dunia filsafat moral, jawaban atas pertanyaan itu bergantung pada "kacamat
 
 Mari kita bedah perbandingannya untuk memahami mengapa pendekatan berbasis karakter ini tetap relevan dan unik di tengah aturan dan logika kalkulasi modern.
 
-### 1. Tiga Pilar Besar Etika
+### 1. Tiga Pilar Etika
 
 Ada tiga pilar utama dalam peta filsafat moral. Etika Kebajikan (Virtue Ethics) menitikberatkan pada karakter dan integritas pelaku. Deontologi (Kantianism) berfokus pada kewajiban serta kepatuhan terhadap aturan moral universal. Terakhir, Utilitarianisme (Konsekuensialisme) melihat hasil akhir atau konsekuensi dari suatu tindakan.
 

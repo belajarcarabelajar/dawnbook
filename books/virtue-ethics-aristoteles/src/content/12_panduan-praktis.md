@@ -36,7 +36,7 @@ Di mana $n$ adalah jumlah pengulangan dalam waktu $t$. Semakin besar $n$, semaki
 2. **Cari Pemicu (Cue):** Saat kamu merasa kesal karena antrean panjang atau internet lambat, lihat itu sebagai "Gym Mental".
 3. **Lakukan Tindakan Kecil:** Alih-alih mengeluh, ambil napas dalam dan berikan senyum kepada petugas. Ini adalah satu unit $\text{Tindakan}$ yang menambah skor $\text{Karakter}$ kamu.
 
-### 3. Menggunakan Kompas Phronesis dalam Pengambilan Keputusan
+### 3. Phronesis di Situasi yang Rumit
 
 Dalam situasi yang rumit, aturan seringkali gagal. Di sinilah **Kebijaksanaan Praktis (Phronesis)** berperan sebagai sistem navigasi kamu.
 
@@ -68,7 +68,7 @@ Bagaimana etika kebajikan menjawab tantangan modern seperti media sosial?
 | **Berbagi Pencapaian** | Rendah diri yang palsu | **Kejujuran/Autentisitas** | Pamer/Sombong |
 | **Konsumsi Berita** | Naif (percaya semua hal) | **Kekritisan Intelektual** | Sinisme (tidak percaya apa pun) |
 
-### 5. Membangun Komunitas Kebajikan (Ecosystem of Excellence)
+### 5. Membangun Komunitas Kebajikan
 
 Kamu tidak bisa menjadi bajik sendirian di ruang hampa. Karakter kita dipengaruhi oleh siapa yang kita ajak berinteraksi.
 

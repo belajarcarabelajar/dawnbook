@@ -53,6 +53,6 @@ $$
 
 Semakin besar kontribusi seseorang dibandingkan total kontribusi, semakin besar pula porsi sumber daya yang ia terima. Komunitas yang menghargai kontribusi dengan cara ini dapat membentuk karakter yang rajin.
 
-### 5. Menuju Kesejahteraan Bersama
+### 5. Kesejahteraan Bersama
 
 Etika Kebajikan mengingatkan bahwa kita ikut membentuk lingkungan moral masyarakat. Kualitas hidup kita terikat langsung pada kualitas karakter orang-orang di sekitar kita. Karena karakter terbentuk melalui interaksi, membangun lingkungan yang memudahkan orang lain untuk berbuat baik sama pentingnya dengan menjaga karakter diri sendiri. Komunitas hadir untuk membantu warganya hidup dengan baik (*living well*), memastikan setiap individu bisa mencapai potensinya secara bersama-sama.

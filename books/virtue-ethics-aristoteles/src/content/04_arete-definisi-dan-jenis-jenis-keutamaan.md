@@ -41,7 +41,7 @@ Contoh utama kebajikan moral (Keutamaan Kardinal):
 3. **Keadilan (Justice):** Kemampuan memberikan hak kepada orang lain secara proporsional.
 4. **Kemurahan Hati (Generosity):** Sikap yang tepat dalam memberi dan menerima materi.
 
-## 3\. Hubungan Simbiotis
+## 3\. Kedua Jenis Arete Tidak Terpisahkan
 
 Dalam Etika Kebajikan, kedua jenis Arete ini tidak bisa dipisahkan. Mereka bekerja seperti perangkat keras (*hardware*) dan perangkat lunak (*software*) pada komputer.
 

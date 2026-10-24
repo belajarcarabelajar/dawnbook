@@ -34,7 +34,7 @@ Dalam tradisi klasik yang dibangun Aristoteles, terdapat perbedaan mendasar deng
 
 **Penting:** Bagi Aristoteles, sebuah tindakan baik yang dilakukan secara tidak sengaja tidak membuat seseorang menjadi orang baik. Seseorang disebut bermoral jika tindakan baiknya lahir dari **karakter yang tetap dan tidak berubah**.
 
-### Analogi Sang Pemanah
+### Analogi Pemanah
 
 Untuk memahami bagaimana Aristoteles melihat pencapaian kebajikan, bayangkan seorang pemanah yang sedang membidik sasaran.
 

@@ -12,7 +12,7 @@ Menurut Aristoteles, keburukan atau maksiat (*vice*) muncul ketika kita gagal me
 
 > "Kebajikan adalah keadaan karakter yang berkaitan dengan pilihan, yang terletak pada jalan tengah, yaitu jalan tengah yang relatif terhadap kita, yang ditentukan oleh prinsip rasional." - **Aristoteles**
 
-## 2\. Anatomi Jalan Tengah
+## 2\. Spektrum Sifat Karakter
 
 Untuk memahami konsep ini, kita bisa melihat setiap sifat karakter sebagai sebuah spektrum. Berbagai kebajikan utama bisa kita letakkan dalam spektrum ini untuk melihat posisi idealnya:
 

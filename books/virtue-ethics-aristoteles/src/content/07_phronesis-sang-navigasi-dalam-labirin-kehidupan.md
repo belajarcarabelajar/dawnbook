@@ -29,7 +29,7 @@ Pengalaman ini kemudian memicu **Pemahaman Konteks**. Orang yang bijak secara pr
 
 Selanjutnya adalah proses **Bouleusis** (deliberasi). Ini adalah fase di mana seseorang menimbang-nimbang berbagai opsi tindakan yang mungkin dilakukan sebelum akhirnya mengambil keputusan. Seluruh proses ini didukung oleh **Sunesis** (ketajaman akal), yaitu ketangkasan membaca situasi orang lain secara empatik dan akurat.
 
-## 3\. Phronesis sebagai Kompas "Jalan Tengah"
+## 3\. Phronesis Menentukan Jalan Tengah
 
 Meskipun Doktrin Jalan Tengah memberikan panduan teoretis, menemukan letak pasti titik tengah itu di lapangan adalah urusan lain. Titik tengah etis sama sekali bukan rata-rata matematika yang kaku.
 

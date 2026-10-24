@@ -4,13 +4,13 @@ Pernahkah kamu merasa sangat puas setelah membeli barang mewah terbaru, namun se
 
 Kontras antara dua pengalaman inilah yang menjadi pintu masuk untuk menggali Eudaimonia. Sebuah konsep kuno yang sering diterjemahkan secara sempit sebagai "kebahagiaan", padahal maknanya jauh lebih luas daripada emosi sesaat. Konsep ini menantang kita untuk melihat tujuan hidup dari sudut pandang yang lebih utuh.
 
-## 1. Menilik Etimologi Eudaimonia
+## 1. Etimologi Eudaimonia
 
 Secara kebahasaan, **Eudaimonia** tersusun dari dua kata Yunani Kuno: **Eu** yang diartikan "baik", dan **Daimon** yang merujuk pada "spirit" atau "diri batiniah". Secara harfiah, Eudaimonia menggambarkan kondisi hidup yang selaras bersama "spirit baik" di dalam diri. Dalam kerangka Etika Kebajikan, pembahasan tidak berhenti pada sensasi emosi sesaat; ia berfokus pada kualitas dan arah tujuan hidup kita.
 
 > **Wawasan Penting:** Istilah ini lebih akurat direpresentasikan sebagai **"Human Flourishing"** (Keberkembangan Manusia) atau **"Kesejahteraan yang Bermakna"**. Ini merujuk pada momen saat seseorang mengerahkan dan mencapai kapasitas terbaiknya sebagai manusia.
 
-## 2. Jarak Tegas Antara Eudaimonia dan Hedonia
+## 2. Perbedaan Eudaimonia dan Hedonia
 
 Untuk memahami kedalaman Eudaimonia, kita perlu memetakan perbedaannya dengan **Hedonia** (Kesenangan).
 
@@ -47,7 +47,7 @@ $$
 
 Melalui perspektif tersebut, fondasi kesejahteraan dibangun di atas gaya hidup yang senantiasa mendayagunakan rasio saat menyeleksi keputusan paling etis dan bermanfaat.
 
-## 5. Merangkai Komponen Kehidupan Eudaimon
+## 5. Komponen Kehidupan Eudaimon
 
 Walau tumpuan utamanya berada pada penempaan karakter, Aristoteles merumuskan prasyarat pendukung yang realistis. **Kebajikan (Arete)** adalah fondasi utama; jiwa yang jernih mustahil tumbuh dari mentalitas manipulatif.
 
@@ -55,13 +55,13 @@ Faktor pendukung selanjutnya meliputi **Kesehatan Fisik** dan **Kecukupan Materi
 
 Bagi para penelaah Etika Kebajikan, akumulasi aset atau kebugaran otot tidak pernah berdiri sebagai garis akhir. Semua sarana itu melayani pembentukan karakter yang unggul.
 
-## 6. Aplikasi Eudaimonia di Pusaran Era Modern
+## 6. Eudaimonia di Pekerjaan dan Pertemanan
 
 Sebagai bahan renungan di ranah profesional, bayangkan sosok arsitek perangkat lunak yang mengeruk untung besar dengan membangun sistem algoritma untuk aplikasi penipuan digital. Kekayaan mengelilinginya, namun rutinitasnya membuat nuraninya makin hampa. Jika ia memutuskan beralih merancang sistem peringatan dini bencana alam (kendati dengan skema kompensasi yang lebih ketat), ia mulai mendekati Eudaimonia. Kapasitas intelektualnya (Akal Budi) digunakan untuk memastikan hadirnya manfaat konkret bagi masyarakat (Kebajikan).
 
 Dalam kerangka hubungan interpersonal, dorongan mencari pertemanan tak jarang kandas di tahap pelarian akhir pekan semata. Filosofi eudaimonik mendorong standar yang lebih matang: kita merawat lingkaran kolega berlandaskan penghargaan mendalam atas integritas intelektual, di mana setiap individu bersedia mengambil peran aktif menolong satu sama lain bangkit dari keterpurukan.
 
-## 7. Prinsip Final Kesejahteraan
+## 7. Kesejahteraan yang Terus Tumbuh
 
 Filosofi Eudaimonia menilai pencapaian manusia secara terus-menerus. Kesejahteraan ditempatkan sebagai proses dinamis yang mewajibkan pertumbuhan berkelanjutan. Kesadaran terhadap orientasi akhir kehidupan (*Telos*) menuntut kita menata ulang target: setiap jam bekerja maupun ilmu yang diserap idealnya difokuskan untuk membentuk diri yang utuh.
 
