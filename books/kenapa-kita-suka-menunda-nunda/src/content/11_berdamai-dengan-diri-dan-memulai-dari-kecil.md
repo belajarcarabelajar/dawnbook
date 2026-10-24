@@ -4,7 +4,7 @@ Tas olahraga itu masih tergeletak di sudut kamar, belum tersentuh sejak Senin pa
 
 Bab-bab sebelumnya memberi alasan untuk meragukan hitungan itu. Menunda digerakkan oleh tugas yang terasa tidak enak dan oleh upaya meredakan mood saat ini. Kalau begitu, setiap lapis rasa bersalah yang kamu tumpuk justru menambah hal tidak enak yang ingin dihindari. Bab terakhir ini melihat apa kata riset tentang sikap terhadap diri sendiri, intervensi apa yang pernah diuji, dan satu protokol kecil untuk dicoba besok pagi.
 
-### Menyalahkan diri bukan bahan bakar yang baik
+### Kaitan welas diri dengan stres
 
 Sirois (2014) meneliti empat sampel, tiga dari mahasiswa dan satu dari orang dewasa di komunitas. Di semuanya, penundaan sebagai sifat berkaitan dengan **welas diri** (*self-compassion*) yang lebih rendah dan stres yang lebih tinggi. Welas diri juga menjadi mediator hubungan penundaan dan stres di keempat sampel. Penulisnya melihat welas diri sebagai target intervensi yang menjanjikan. Ini temuan korelasional, jadi bukan berarti memarahi diri sendiri sudah dipastikan menyebabkan stres.
 
