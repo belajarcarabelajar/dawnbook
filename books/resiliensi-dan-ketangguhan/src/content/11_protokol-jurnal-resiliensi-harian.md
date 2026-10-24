@@ -1,6 +1,6 @@
 ## Protokol Jurnal Resiliensi Harian
 
-Selamat datang di mental gym kamu. Jika bagian-bagian sebelumnya telah membekali kamu dengan teori dan pemahaman tentang resiliensi, bagian ini adalah tempat di mana kamu benar-benar "mengangkat beban" untuk memperkuat resilience muscle tersebut.
+Anggap halaman ini sebagai mental gym kamu, ruang yang diisi jurnal dan latihan praktis, bukan tumpukan teori baru tentang resiliensi. Jika bagian-bagian sebelumnya telah membekali kamu dengan teori dan pemahaman tentang resiliensi, bagian ini adalah tempat di mana kamu benar-benar "mengangkat beban" untuk memperkuat resilience muscle tersebut.
 
 Resiliensi bukanlah sebuah bakat yang kita bawa sejak lahir, melainkan sebuah keterampilan yang diasah melalui pengulangan. Analogi yang tepat adalah **sistem kekebalan tubuh**. Tubuh kita menjadi kuat bukan karena tidak pernah terpapar kuman, melainkan karena ia belajar mengenali, melawan, dan beradaptasi setelah terpapar. Latihan praktis dan jurnal ini adalah "vaksin" dan "nutrisi" bagi mentalmu.
 
