@@ -94,7 +94,7 @@ Pemimpin langsung memaksakan tenggat waktu (*deadline*). Hasilnya? *AI Engineer*
 **Hasil Akhir:**
 Fitur inti berhasil dirilis tepat waktu dengan sistem yang stabil. Hubungan kerja antaranggota tim tetap harmonis tanpa meninggalkan rasa kesal satu sama lain.
 
-## 5. Menjadi Pemimpin yang Utuh
+## 5. Dari Fondasi hingga Kepemimpinan
 
 Sepanjang modul ini, kita telah belajar bahwa kecerdasan interpersonal lebih dari sebatas pelengkap *soft skill*; ini adalah bagian inti dari perkembangan karier kamu.
 

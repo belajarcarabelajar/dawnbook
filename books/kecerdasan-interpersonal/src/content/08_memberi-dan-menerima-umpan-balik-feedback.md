@@ -36,7 +36,7 @@ Konsep yang dipopulerkan oleh Kim Scott ini menjelaskan bahwa *feedback* terbaik
 * Jika kamu menantang seseorang tanpa menunjukkan kepedulian nyata, tindakanmu jatuh pada kategori **Obnoxious Aggression** (agresi yang mengganggu). Masukanmu terdengar seperti serangan pribadi.
 * Sebaliknya, jika kamu sangat peduli namun tidak berani menantang kesalahannya, kamu terjebak dalam **Ruinous Empathy** (empati yang merusak). Kamu membiarkan rekan kerjamu terus melakukan kesalahan hanya karena merasa sungkan atau tidak enak hati.
 
-## 3. Seni Menerima Feedback secara Terbuka
+## 3. Menerima Feedback secara Terbuka
 
 Menerima masukan menuntut kematangan emosional yang lebih besar dibanding saat memberikannya. Kita semua memiliki *blind spots* (area perilaku atau kebiasaan diri yang tidak kita sadari, tetapi terlihat sangat jelas oleh orang lain).
 

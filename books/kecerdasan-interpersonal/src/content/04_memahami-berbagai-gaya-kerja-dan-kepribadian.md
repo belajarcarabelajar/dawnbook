@@ -52,7 +52,7 @@ Salah satu model yang praktis untuk memetakan dinamika tim adalah **DISC**. Kera
   - Jaga agar nada komunikasi tetap profesional dan terstruktur.
   - Fokus pada aspek "Mengapa" (mengapa tren data tersebut bisa terjadi atau mengapa metode tersebut yang akhirnya dipilih).
 
-## Formula Sinergi Interpersonal
+## Gaya Komunikasi dan Kualitas Konten
 
 Dalam dunia kerja profesional, kita dapat mengilustrasikan efektivitas kolaborasi $E$ sebagai fungsi dari keselarasan gaya komunikasi $A$ terhadap kualitas konten teknis $C$:
 
@@ -110,7 +110,7 @@ Mari kita lihat skenario berikut saat sebuah tim lintas fungsi (teknologi, desai
 **Cara Menjembatani:** Sebagai fasilitator diskusi yang tanggap, kamu dapat menyatukan berbagai sudut pandang tersebut dengan berkata:
 "Saya sangat memahami urgensi peluncuran dari tim Sales. Agar konsep kreatif dari tim Design bisa berjalan dengan lancar tanpa terhambat kendala performa sistem yang dikhawatirkan tim Engineer, kita dapat merilis versi MVP (*Minimum Viable Product*) terlebih dahulu minggu depan. Kita luncurkan fitur utama dulu, sementara tim Engineer memantau stabilitas sistem secara bertahap."
 
-## Menjadi Jembatan di Tengah Perbedaan
+## Menyesuaikan Diri dengan Gaya Rekan Kerja
 
 Memahami gaya kerja dan kepribadian rekan kerja merupakan bentuk nyata dari **empati intelektual**. Kamu menyadari bahwa setiap orang memiliki cara berpikir dan "sistem operasi" yang berbeda di kepala mereka. Dengan mengenali dan menyesuaikan diri dengan karakter komunikasi mereka, kamu tidak hanya tumbuh menjadi profesional yang andal secara teknis, tetapi juga memperkuat kekompakan tim.
 

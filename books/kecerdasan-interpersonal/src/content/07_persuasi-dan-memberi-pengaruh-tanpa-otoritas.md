@@ -55,7 +55,7 @@ Cara kamu menyampaikan ide sering kali lebih penting daripada ide itu sendiri. G
    - **Kepada Tim Kreatif:** Tekankan ruang inovasi, nilai estetika, dan kekuatan ekspresi merek.
    - **Kepada Tim Operasional:** Tunjukkan kemudahan alur kerja baru dan potensi pengurangan kesalahan (*error*).
 
-### 5. Skenario Kasus di Dunia Nyata
+### 5. Data Analyst dan Tim Sales
 
 **Situasi:** Kamu adalah seorang *Data Analyst* (tanpa bawahan). Kamu menemukan bahwa proses input data oleh tim *Sales* sangat berantakan, yang membuat laporanmu sering salah. Kamu ingin mereka menggunakan sistem baru yang lebih ketat, tetapi tim *Sales* merasa itu hanya menambah beban kerja mereka.
 
@@ -66,7 +66,7 @@ Cara kamu menyampaikan ide sering kali lebih penting daripada ide itu sendiri. G
 - **Langkah 3 (*Framing*):** Hindari kalimat, "Gunakan sistem ini agar kerjaan saya lebih mudah." Katakanlah, "Sistem ini dirancang untuk memastikan tidak ada komisi kalian yang terlewat akibat kesalahan pencatatan."
 - **Langkah 4 (*Social Proof*):** Sebutkan bahwa salah satu *Top Sales* sudah mencoba sistem ini dan merasa terbantu.
 
-### 6. Menangani Penolakan dengan Elegan
+### 6. Menanggapi Penolakan
 
 Ketika seseorang menolak idemu, jangan anggap itu sebagai titik akhir. Itu adalah awal dari ruang diskusi baru.
 

@@ -16,7 +16,7 @@ Silo organisasi terjadi ketika departemen-departemen di dalam perusahaan beroper
 - **Jargon yang Terlalu Spesifik:** Penggunaan istilah teknis dari masing-masing bidang sering kali membuat komunikasi dengan departemen lain menjadi canggung dan sulit dipahami.
 - **Minimnya Transparansi:** Kebiasaan menyimpan informasi untuk kelompok sendiri demi mempertahankan pengaruh atau kendali dalam organisasi.
 
-## 2. Tiga Pilar Utama Kolaborasi Teknis, Kreatif, dan Bisnis
+## 2. Prioritas Tim Teknis, Kreatif, dan Bisnis
 
 Untuk berkolaborasi secara produktif, kamu harus memahami apa yang menggerakkan masing-masing kelompok ini. Setiap departemen memiliki fokus nilai yang berbeda:
 
@@ -51,7 +51,7 @@ Terapkan metodologi seperti **Agile** atau **Scrum** yang mendukung transparansi
 
 Sebagai developer, meluangkan waktu untuk berdiskusi dengan tim sales mengenai keluhan pengguna bisa membuka perspektif baru. Begitu pula bagi personel sales, mengapresiasi stabilitas infrastruktur yang dijaga tim developer adalah langkah awal membangun rasa percaya antardivisi.
 
-## 4. Visualisasi Sinergi Lintas Fungsi
+## 4. Rumus Kesuksesan Kolaborasi
 
 Keberhasilan kolaborasi dapat digambarkan melalui model formula sederhana berikut:
 

@@ -1,4 +1,4 @@
-## Seni Mendengar Aktif dan Empati
+## Mendengar Aktif dan Empati
 
 Kebanyakan orang tidak mendengarkan dengan niat untuk memahami; mereka mendengarkan dengan niat untuk menjawab. Dalam dunia profesional yang bergerak cepat, komunikasi sering kali dianggap sebagai transmisi informasi satu arah. Namun, kecerdasan interpersonal yang sejati dimulai saat kamu berhenti menyusun argumen di kepalamu dan mulai benar-benar "hadir" untuk lawan bicara.
 
