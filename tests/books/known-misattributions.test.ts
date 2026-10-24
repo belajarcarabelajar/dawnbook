@@ -20,6 +20,8 @@ const RULES: Rule[] = [
   { id: "ews-checklist-as-unesco", all: [/unesco/i, /checklist/i] },
   { id: "invented-uu-24-2007-text", all: [/wajib mengintegrasikan sistem peringatan dini/i] },
   { id: "weiji-myth", all: [/krisis/i, /bahaya/i, /peluang/i, /mandarin|tionghoa|\bcina\b|\bchina\b/i] },
+  { id: "ews-pillars-as-unesco", all: [/unesco/i, /pilar/i], none: [/isdr|ewc/i] },
+  { id: "antifragile-without-taleb", all: [/antifragil/i], none: [/taleb/i] },
   { id: "uncredited-ultident-passage", all: [/kolaborasi interdisipliner telah membuka jalan/i], none: [/ultident/i] },
 ];
 
