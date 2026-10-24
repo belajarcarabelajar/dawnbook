@@ -239,3 +239,14 @@ describe("pelajaran-hidup-dari-harvest-moon-back-to-nature attribution", () => {
     expect(intro).toContain("merek dagang");
   });
 });
+
+// The public research notes record that a scan was read, but never link it (debt sweep U3a, 2026-10-24).
+describe("pelajaran-hidup-dari-harvest-moon-back-to-nature public notes", () => {
+  test("the research notes and plan do not link the archive.org scan of the guide", () => {
+    const hits = [NOTES, PLAN]
+      .filter((p) => fs.existsSync(p))
+      .filter((p) => /archive\.org\/(details|metadata|download)\/docslide/i.test(fs.readFileSync(p, "utf-8")))
+      .map((p) => path.relative(ROOT, p));
+    expect(hits).toEqual([]);
+  });
+});
