@@ -1,8 +1,8 @@
 ## Emosi Positif dan Teori Broaden-and-Build
 
-Selama berabad-abad, kajian psikologi tradisional cenderung terfokus pada emosi negatif seperti ketakutan, kemarahan, dan kesedihan. Secara evolusioner, hal ini sangat masuk akal: jika ada ancaman seperti harimau di depanmu, rasa takut akan langsung memfokuskan seluruh perhatianmu pada satu tujuan mutlak, yaitu **bertahan hidup**. Namun, pernahkah kamu bertanya-tanya mengapa kita memiliki emosi positif seperti rasa ingin tahu, sukacita, atau ketenangan? Apakah emosi tersebut sekadar dampak menyenangkan setelah kita berhasil meraih sesuatu?
+Selama berabad-abad, kajian psikologi tradisional cenderung terfokus pada emosi negatif seperti ketakutan, kemarahan, dan kesedihan. Secara evolusioner, hal ini masuk akal: jika ada ancaman seperti harimau di depanmu, rasa takut akan langsung memfokuskan seluruh perhatianmu pada satu tujuan, yaitu **bertahan hidup**. Namun, pernahkah kamu bertanya-tanya mengapa kita memiliki emosi positif seperti rasa ingin tahu, sukacita, atau ketenangan? Apakah emosi tersebut sekadar dampak menyenangkan setelah kita berhasil meraih sesuatu?
 
-Barbara Fredrickson, seorang peneliti terkemuka dalam psikologi positif, memberikan jawaban revolusioner melalui **Teori Broaden-and-Build**.
+Barbara Fredrickson, seorang peneliti psikologi positif, menjawabnya melalui **Teori Broaden-and-Build**.
 
 ## 1. Memahami Teori Broaden-and-Build
 
@@ -33,7 +33,7 @@ Di bawah pengaruh emosi positif, cara kerja otak kita mengalami perubahan pentin
 
 ## 3. Membangun (Build)
 
-Efek pelebaran (*broaden*) dari emosi positif memang bersifat sementara, namun dampak jangka panjangnya permanen. Di sinilah fase membangun (*build*) terjadi. Eksplorasi dan kreativitas yang muncul saat pikiran meluas membantu kita mengumpulkan **sumber daya pribadi yang tahan lama**.
+Efek pelebaran (*broaden*) dari emosi positif memang bersifat sementara, namun dampak jangka panjangnya bertahan lama. Di sinilah fase membangun (*build*) terjadi. Eksplorasi dan kreativitas yang muncul saat pikiran meluas membantu kita mengumpulkan **sumber daya pribadi yang tahan lama**.
 
 Fredrickson membagi sumber daya ini ke dalam empat kategori utama:
 
@@ -54,7 +54,7 @@ Di mana $R$ melambangkan total Sumber Daya pribadi yang terbangun, sedangkan $E\
 
 ## 4. Efek Spiral ke Atas (The Upward Spiral)
 
-Konsep yang tidak kalah menarik dari teori ini adalah **Spiral ke Atas (The Upward Spiral)**. Berbeda dengan depresi yang kerap membentuk spiral ke bawah (di mana satu pikiran buruk memicu emosi negatif yang lebih dalam), emosi positif justru menciptakan momentum pertumbuhan yang berkelanjutan.
+Konsep lain dari teori ini adalah **Spiral ke Atas (The Upward Spiral)**. Berbeda dengan depresi yang kerap membentuk spiral ke bawah (di mana satu pikiran buruk memicu emosi negatif yang lebih dalam), emosi positif justru menciptakan momentum pertumbuhan yang berkelanjutan.
 
 - **Langkah awal**: Kamu merasakan emosi positif seperti rasa syukur.
 - **Perluasan kesadaran**: Pikiranmu mulai meluas (*broaden*), membuatmu lebih peka terhadap peluang untuk berbuat baik atau membantu sesama.

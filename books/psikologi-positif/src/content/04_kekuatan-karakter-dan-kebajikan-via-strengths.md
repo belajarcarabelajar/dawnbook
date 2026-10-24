@@ -1,6 +1,6 @@
 ## Kekuatan Karakter dan Kebajikan (VIA Strengths)
 
-Pernahkah kamu merasa sangat bersemangat saat mengerjakan sesuatu, hingga waktu terasa berlalu begitu saja? Atau mungkin kamu merasa sangat "menjadi diri sendiri" ketika membantu orang lain atau memecahkan masalah yang rumit? Dalam psikologi positif, perasaan ini bukanlah kebetulan. Itu adalah tanda bahwa kamu sedang menggunakan **Kekuatan Karakter (Character Strengths)**-mu.
+Pernahkah kamu merasa sangat bersemangat saat mengerjakan sesuatu, hingga waktu terasa berlalu begitu saja? Atau mungkin kamu merasa "menjadi diri sendiri" ketika membantu orang lain atau memecahkan masalah yang rumit? Dalam psikologi positif, perasaan ini bukanlah kebetulan. Itu adalah tanda bahwa kamu sedang menggunakan **Kekuatan Karakter (Character Strengths)**-mu.
 
 Jika psikologi tradisional memiliki *Diagnostic and Statistical Manual of Mental Disorders* (DSM) untuk mengklasifikasikan gangguan mental, Dr. Christopher Peterson dan Dr. Martin Seligman menciptakan antitesisnya: klasifikasi **Values in Action (VIA)**. Klasifikasi ini berfungsi as peta jalan ilmiah untuk mengidentifikasi potensi terbaik yang ada di dalam diri manusia.
 
@@ -80,7 +80,7 @@ Dari 24 kekuatan di atas, setiap orang biasanya memiliki 3 hingga 7 **Signature 
 **Kriteria Kekuatan Utama:**
 
 - **Esensial (*Essential*):** Muncul kesadaran mendalam bahwa, "Inilah diriku yang sebenarnya."
-- **Tanpa Beban (*Effortless*):** Ketika mengekspresikannya, segala hal terasa mengalir begitu alami tanpa paksaan.
+- **Tanpa Beban (*Effortless*):** Ketika mengekspresikannya, segala hal terasa mengalir alami tanpa paksaan.
 - **Menumbuhkan Energi (*Energizing*):** Alih-alih membuat letih, menggunakannya justru mengisi kembali daya hidup dan semangatmu.
 
 Jika kamu harus memilih tiga kata saja dari daftar di atas untuk menggambarkan dirimu kepada orang asing agar mereka benar-benar mengenal siapa dirimu, kata mana yang akan kamu pilih?
@@ -93,7 +93,7 @@ $$
 \text{Kepuasan} \approx \sum (\text{Kekuatan} \times \text{Penggunaan dalam Pelayanan})
 $$
 
-Artinya, kebahagiaan sejati muncul ketika kita menggunakan kekuatan kita untuk melayani sesuatu yang lebih besar dari diri kita sendiri.
+Artinya, kebahagiaan muncul ketika kita menggunakan kekuatan kita untuk melayani sesuatu yang lebih besar dari diri kita sendiri.
 
 ### Strategi "Cara Baru"
 
@@ -115,7 +115,7 @@ Salah satu intervensi psikologi positif yang paling efektif adalah memilih satu 
 - Untuk menyalurkan **Kreativitas**, ia merancang papan visualisasi proyek unik yang menggantikan *spreadsheet* kaku bawaan kantor.
 - Untuk menyalurkan **Humor**, ia mencairkan rapat mingguan yang kaku dengan membagikan lelucon singkat atau meme yang relevan dengan tantangan tim saat itu.
 
-**Hasil:** Skor keterlibatan (*engagement*) Budi meningkat pesat karena ia merasa kembali menjadi manusia seutuhnya, bebas mengekspresikan sisi unik dirinya dalam menjalankan tugas harian alih-alih merasa tertekan bagai mesin.
+**Hasil:** Skor keterlibatan (*engagement*) Budi meningkat pesat karena ia bebas mengekspresikan sisi unik dirinya dalam menjalankan tugas harian alih-alih merasa tertekan.
 
 ### Apresiasi Keindahan dalam Hubungan Romantis
 
@@ -133,4 +133,4 @@ Mari mulai memetakan kekuatanmu secara mandiri. Cobalah membuat tabel sederhana 
 
 **Penting:** Fokuslah pada upaya memperkuat apa yang sudah kuat dalam dirimu, alih-alih terobsesi memperbaiki kelemahan. Memperbaiki kelemahan memang mencegah kegagalan, tetapi membangun kekuatanlah yang melahirkan keunggulan.
 
-> **Insight Penutup:** Menggunakan kekuatan karakter tidak berarti kamu dituntut menjadi sempurna. Ini adalah tentang keaslian diri (*authenticity*). Saat kamu hidup selaras dengan kekuatan karaktermu, kamu tidak hanya akan merasa lebih bahagia, tetapi juga tumbuh menjadi pribadi yang lebih tangguh ketika badai kehidupan datang menerpa.
+> **Insight Penutup:** Menggunakan kekuatan karakter tidak berarti kamu dituntut menjadi sempurna. Ini adalah tentang keaslian diri (*authenticity*). Saat kamu hidup selaras dengan kekuatan karaktermu, kamu tidak hanya akan merasa lebih bahagia, tetapi juga tumbuh menjadi pribadi yang lebih tangguh ketika masa sulit datang.

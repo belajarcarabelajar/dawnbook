@@ -1,6 +1,6 @@
 ## Pengantar Psikologi Positif
 
-Selamat datang dalam perjalanan untuk memahami apa yang membuat hidup kita benar-benar berjalan optimal, bukan hanya berfokus untuk memperbaiki kerusakan. Selama puluhan tahun, psikologi sering kali diidentikkan dengan sofa terapis, diagnosis gangguan mental, dan upaya memulihkan trauma. Namun, **Psikologi Positif** hadir untuk melengkapi spektrum tersebut.
+Selamat datang dalam perjalanan untuk memahami apa yang membuat hidup kita berjalan optimal, bukan hanya berfokus untuk memperbaiki kerusakan. Selama puluhan tahun, psikologi sering kali diidentikkan dengan sofa terapis, diagnosis gangguan mental, dan upaya memulihkan trauma. Namun, **Psikologi Positif** hadir untuk melengkapi spektrum tersebut.
 
 > "Psikologi bukan hanya tentang mempelajari penyakit, kelemahan, dan kerusakan; ia juga mempelajari kekuatan dan kebajikan. Pemulihan tidak melulu soal memperbaiki apa yang rusak, tetapi juga memelihara potensi terbaik yang ada di dalam diri kita." - **Martin Seligman**
 
@@ -26,7 +26,7 @@ Sebelum Perang Dunia II pecah, psikologi sebenarnya memiliki tiga fokus utama. P
 
 ### Era Pasca Perang Dunia II (Model Penyakit)
 
-Setelah Perang Dunia II, fokus psikologi bergeser secara drastis. Karena banyaknya veteran yang pulang dengan trauma (*post-traumatic stress disorder*) dan masalah kesehatan mental, dana penelitian besar-besaran dialokasikan untuk penyembuhan. Psikologi menjadi ilmu yang sangat mahir dalam **psikopatologi**.
+Setelah Perang Dunia II, fokus psikologi bergeser secara drastis. Karena banyaknya veteran yang pulang dengan trauma (*post-traumatic stress disorder*) dan masalah kesehatan mental, dana penelitian besar-besaran dialokasikan untuk penyembuhan. Psikologi menjadi ilmu yang mahir dalam **psikopatologi**.
 
 Kita menjadi sangat ahli dalam membawa orang dari angka $-5$ (sangat menderita) menuju angka $0$ (netral/tidak sakit). Namun, kita sering kali lupa bagaimana membawa seseorang dari $0$ menuju $+5$ (sejahtera dan bahagia).
 
@@ -84,7 +84,7 @@ $$
 
 Meskipun kita tidak bisa mengubah faktor genetika dan terkadang sulit memengaruhi lingkungan sekitar, kita memiliki kendali penuh atas **aktivitas yang disengaja** (cara berpikir dan bertindak) yang akan kita pelajari di bagian-bagian selanjutnya.
 
-> **Langkah Selanjutnya:** Setelah memahami alasan dan definisi dasar dari psikologi positif, kita akan melangkah ke **Model PERMA**, sebuah kerangka kerja praktis untuk membangun kehidupan yang bermakna dan sejahtera. Persiapkan dirimu untuk mengeksplorasi lima elemen kunci kebahagiaan!
+> **Langkah Selanjutnya:** Setelah memahami alasan dan definisi dasar dari psikologi positif, kita akan melangkah ke **Model PERMA**, sebuah kerangka kerja praktis untuk membangun kehidupan yang bermakna dan sejahtera. Kerangka itu terdiri dari lima elemen.
 
 ---
 

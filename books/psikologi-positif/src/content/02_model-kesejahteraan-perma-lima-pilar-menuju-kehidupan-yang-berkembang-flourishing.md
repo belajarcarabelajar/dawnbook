@@ -98,6 +98,6 @@ Cobalah mengukur kondisimu dengan memberikan skor 1-10 untuk setiap elemen PERMA
 
 Model PERMA mengingatkan kita bahwa kesejahteraan bukanlah titik akhir yang statis. Elemen-elemen ini bekerja layaknya sebuah ekosistem yang dinamis. Kamu tidak harus mencetak skor sempurna pada kelima pilar secara bersamaan. Dengan memahami pilar-pilar ini, kamu memiliki kompas untuk mengevaluasi bagian mana dari hidupmu yang sedang membutuhkan perhatian lebih agar kamu bisa terus bertumbuh secara optimal (*flourish*).
 
-> **Pesan Utama:** Kesejahteraan sejati dibangun melalui langkah kecil yang konsisten pada setiap pilar PERMA.
+> **Pesan Utama:** Kesejahteraan dibangun melalui langkah kecil yang konsisten pada setiap pilar PERMA.
 
-Dalam pembahasan berikutnya, kita akan mendalami pilar pertama: **Positive Emotion dan Teori Broaden-and-Build**, untuk menyingkap alasan ilmiah mengapa emosi positif mampu memperluas kapasitas berpikir dan ketangguhan kita.
+Dalam pembahasan berikutnya, kita akan mendalami pilar pertama: **Positive Emotion dan Teori Broaden-and-Build**, untuk melihat alasan ilmiah mengapa emosi positif mampu memperluas kapasitas berpikir dan ketangguhan kita.
