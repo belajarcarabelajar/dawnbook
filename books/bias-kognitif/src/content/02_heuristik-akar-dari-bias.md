@@ -72,7 +72,7 @@ Meskipun kita tidak bisa menghapus heuristik dari otak kita, kita bisa belajar u
 - **Gunakan "Checklist":** Checklist adalah cara paksa untuk menarik otak dari mode heuristik (Sistem 1) ke mode prosedural (Sistem 2).
 - **Pre-Mortem:** Sebelum mengambil keputusan, bayangkan di masa depan keputusan itu gagal total. Tanyakan, "Apa yang menyebabkannya?". Ini memaksa otak mencari data yang biasanya diabaikan oleh heuristik.
 
-## Kesimpulan
+## Kapan Menginjak Rem
 
 Heuristik adalah mesin efisiensi yang luar biasa yang memungkinkan manusia berfungsi di dunia yang penuh informasi. Tanpa mereka, kita akan lumpuh oleh analisis. Namun, dengan memahami bahwa "jalan pintas" ini ada, kita bisa lebih waspada kapan harus menginjak rem dan mulai berpikir lebih dalam sebelum mengambil kesimpulan.
 

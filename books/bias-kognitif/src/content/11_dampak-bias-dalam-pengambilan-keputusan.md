@@ -86,7 +86,7 @@ Mari kita lihat bagaimana berbagai bias berkumpul dalam satu ruangan rapat:
 - **Insinyur muda** merasa ada masalah teknis, tetapi memilih diam karena tidak ingin bertentangan dengan kelompok. (**Groupthink** atau **In-group Bias**)
 - Setelah proyek A gagal total dua tahun kemudian, **Komisaris** berkata, "Saya sudah tahu proyek ini pasti akan gagal!" (**Hindsight Bias**)
 
-## Kesimpulan
+## Distorsi Realitas
 
 Dampak bias dalam pengambilan keputusan lebih dari sekadar "salah pilih". Dampak sebenarnya adalah **distorsi realitas**. Ketika kita membiarkan bias memegang kendali:
 

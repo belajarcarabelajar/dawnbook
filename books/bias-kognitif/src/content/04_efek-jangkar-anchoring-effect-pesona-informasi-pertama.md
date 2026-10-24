@@ -58,7 +58,7 @@ Secara matematis, hasilnya sama: $40.320$. Namun, karena waktu terbatas:
 
 *\*Bagaimana urutan informasi yang kamu terima di pagi hari (misalnya berita buruk vs berita baik) dapat menjangkarkan suasana hati kamu sepanjang sisa hari tersebut?\**
 
-## Aplikasi di Dunia Nyata
+## Jangkar di Menu Restoran, Negosiasi Gaji, dan Toko Grosir
 
 Efek Jangkar tidak hanya ada di teori laboratorium; ia adalah alat praktis yang digunakan setiap hari dalam berbagai industri.
 

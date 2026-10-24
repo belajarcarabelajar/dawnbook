@@ -10,7 +10,7 @@ Inilah yang disebut dengan **Bias Retrospeksi** atau *Hindsight Bias*. Fenomena 
 
 Begitu kita mengetahui hasil dari sebuah peristiwa, otak kita cenderung "menulis ulang" ingatan kita seolah-olah kita telah memperkirakan hasil tersebut dengan akurat. Hal ini menciptakan ilusi bahwa dunia ini lebih teratur dan dapat diprediksi daripada kenyataan yang sebenarnya yang penuh dengan ketidakpastian.
 
-### Mengapa Ini Terjadi?
+### Otak Pencari Pola
 
 Otak manusia adalah mesin pencari pola. Ketika sesuatu terjadi, otak kita segera mencari penjelasan logis mengapa hal itu terjadi. Begitu penjelasan ditemukan, ingatan kita tentang ketidakpastian yang kita rasakan di masa lalu akan terhapus dan digantikan oleh narasi baru yang "masuk akal".
 

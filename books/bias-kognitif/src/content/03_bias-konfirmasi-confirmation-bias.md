@@ -56,7 +56,7 @@ Misalnya, seorang pengguna yakin bahwa Teknologi A lebih baik dari Teknologi B. 
 
 Hanya satu dari tiga berita yang sampai ke pengguna, dan berita itu justru memperkuat keyakinannya tanpa memberi sudut pandang lain.
 
-## Aplikasi di Dunia Nyata
+## Dari Portofolio Saham sampai Ruang Praktik Dokter
 
 ### 1\. Investasi dan Keuangan
 

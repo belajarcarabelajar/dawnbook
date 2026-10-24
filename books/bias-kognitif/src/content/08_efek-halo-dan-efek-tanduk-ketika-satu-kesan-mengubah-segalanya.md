@@ -12,7 +12,7 @@ Istilah ini pertama kali dicetuskan oleh psikolog **Edward Thorndike** pada tahu
 
 > **Lampu Sorot Panggung** Bayangkan sebuah lampu sorot besar di atas panggung. Jika lampu itu berwarna emas (kesan positif), semua benda di bawahnya (entah itu kursi tua atau meja rusak) akan tampak berkilau dan mewah. Cahaya tersebut "meluap" ke area di sekitarnya.
 
-### Mengapa Ini Terjadi?
+### Profil Utuh dari Satu Informasi
 
 Otak manusia menyukai efisiensi. Menilai setiap sifat seseorang secara mendalam membutuhkan energi mental yang besar. Dengan Efek Halo, otak kita menggunakan "jalan pintas" dengan mengambil satu informasi yang tersedia dan membangun profil lengkap di sekitarnya agar kita bisa membuat keputusan cepat.
 
