@@ -8,7 +8,7 @@ Kerjanya sudah benar, dari mencangkul, menanam, sampai menyiram. Yang keliru han
 
 ### Kalender yang Tidak Bisa Ditawar
 
-Musim semi, musim panas, dan musim gugur masing-masing punya benih sendiri. Musim dingin tidak punya. Tidak ada yang tumbuh di luar, ladang kosong, dan uang biasanya agak seret. Supermarket pun hanya menjual benih untuk musim yang sedang berjalan, jadi benih musim panas tidak bisa disiapkan sejak musim semi.
+Musim semi, musim panas, dan musim gugur masing-masing punya benih sendiri. Musim dingin tidak punya. Tidak ada yang tumbuh di luar, ladang kosong, dan uang biasanya agak seret. Supermarket juga hanya menjual benih untuk musim yang sedang berjalan, jadi benih musim panas tidak bisa disiapkan sejak musim semi.
 
 Karena itu, petani yang cermat bekerja di tepi musim. Menjelang akhir musim semi, begitu tanaman tidak akan berbuah lagi, ladang dibersihkan dengan sabit. Di musim panas dan musim gugur, tunggu sampai hari terakhir sebelum memotong, sebab mungkin masih ada satu panen lagi. Begitu hari pertama musim baru tiba, benih baru langsung masuk ke tanah.
 

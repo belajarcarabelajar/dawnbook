@@ -30,11 +30,11 @@ Aturan itu sebaiknya ditetapkan di luar, karena perkiraan tentang kemampuan send
 
 ### Sayang Rasanya Berhenti Sekarang
 
-Menambang di HM BTN adalah kerja yang sabar. Satu-satunya alatnya cangkul, yang menggali satu petak setiap kali, bahkan setelah ditingkatkan. Kebanyakan yang muncul pun hanya bijih murah yang boleh langsung dibuang. Kamu mengayun, membuang, mengayun lagi, sambil berharap petak berikutnya menyimpan sesuatu yang berkilau.
+Menambang di HM BTN adalah kerja yang sabar. Satu-satunya alatnya cangkul, yang menggali satu petak setiap kali, bahkan setelah ditingkatkan. Kebanyakan yang muncul juga hanya bijih murah yang boleh langsung dibuang. Kamu mengayun, membuang, mengayun lagi, sambil berharap petak berikutnya menyimpan sesuatu yang berkilau.
 
 Dari situ godaan berikutnya tumbuh. Tenaga sudah banyak terpakai, beberapa lantai sudah dilewati, dan berhenti terasa seperti membuang semuanya. Arkes dan Blumer menyebut dorongan ini efek *sunk cost*, yaitu kecenderungan meneruskan usaha karena uang, tenaga, atau waktu sudah telanjur ditanamkan ([Arkes dan Blumer, 1985](https://doi.org/10.1016/0749-5978(85)90049-4)). Dalam studi lapangan mereka, pemegang tiket langganan teater yang membayar lebih mahal ternyata lebih sering datang menonton, dan para penulis mengaitkannya dengan keinginan agar tidak terlihat boros.
 
-Kedua studi itu tidak meneliti tambang ataupun pilihan yang tidak bisa diulang; menyandingkannya dengan lubang satu arah adalah analogi buku ini. Meski begitu, pelajarannya tetap terpakai. Lantai yang sudah kamu lewati tetap di atas sana, apa pun keputusanmu sekarang. Yang layak ditimbang hanyalah lantai berikutnya: masih adakah tenaga, masih adakah ruang di keranjang.
+Kedua studi itu tidak meneliti tambang ataupun pilihan yang tidak bisa diulang; menyandingkannya dengan lubang satu arah adalah analogi buku ini. Meski begitu, pelajarannya masih terpakai. Lantai yang sudah kamu lewati tetap di atas sana, apa pun keputusanmu sekarang. Yang layak ditimbang hanyalah lantai berikutnya: masih adakah tenaga, masih adakah ruang di keranjang.
 
 ### Penutup
 

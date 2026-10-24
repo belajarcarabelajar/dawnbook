@@ -2,7 +2,7 @@
 
 Pada musim semi pertama, seekor sapi dari Yodel Farm berharga 6.000 G, empat kali lipat harga seekor ayam yang dijual di Poultry Farm. Dompetmu masih tipis, ladang belum bersih, dan setiap koin sudah punya tujuan. Melihat dua angka itu berdampingan, wajar kalau kamu tergoda untuk menahan semua belanja dan menabung demi sapi.
 
-Panduan resmi Prima untuk *Harvest Moon: Back to Nature* menawarkan jalan yang lebih sabar. Ayam dulu, sapi menyusul begitu tabungan cukup, domba sesudahnya. Di musim semi tahun pertama, sapi dan domba memang belum terjangkau, dan sapi pertama baru terbeli sekitar musim panas atau gugur. Sebelum membeli hewan apa pun, buku itu bahkan mendahulukan tas yang lebih besar, seperti di bab 3. Bab ini meminjam urutan itu sebagai perumpamaan tentang mulai berinvestasi. Ini analogi dari sebuah gim, bukan nasihat investasi.
+Panduan resmi Prima untuk *Harvest Moon: Back to Nature* menawarkan jalan yang lebih sabar. Ayam dulu, sapi menyusul begitu tabungan cukup, domba sesudahnya. Di musim semi tahun pertama, sapi dan domba memang belum terjangkau, dan sapi pertama baru terbeli sekitar musim panas atau gugur. Sebelum membeli hewan apa pun, buku itu mendahulukan tas yang lebih besar, seperti di bab 3. Bab ini meminjam urutan itu sebagai perumpamaan tentang mulai berinvestasi. Ini analogi dari sebuah gim, bukan nasihat investasi.
 
 ### Ayam di Musim Semi Pertama
 
@@ -10,13 +10,13 @@ Ayam tidak menjanjikan banyak. Selama ia senang dan cukup makan, ia bertelur set
 
 Kandang pertama hanya muat lima ekor. Setelah Gotz si tukang kayu memperbesarnya, isinya bisa sepuluh, asal kamu rajin menetaskan telur. Hasil per butirnya kecil, tetapi datang setiap pagi, dan modal awalnya tidak menguras dompet yang masih tipis.
 
-Saran untuk investor pemula di dunia nyata juga berbentuk tangga. Sebuah artikel KPKNL Lahat di situs [DJKN Kementerian Keuangan](https://www.djkn.kemenkeu.go.id/kpknl-lahat/baca-artikel/18366/Investasi-Bagi-Orang-Berpenghasilan-Tetap.html) (2026), yang ditujukan bagi orang berpenghasilan tetap, menganjurkan mulai dari instrumen sederhana seperti reksa dana pasar uang atau emas digital. Yang lebih berisiko, seperti saham, dicoba belakangan, seiring waktu dan pengalaman. Tulisan itu artikel kantor daerah tanpa nama penulis, jadi anggap saja sebagai pengantar.
+Saran untuk investor pemula di dunia nyata juga berbentuk tangga. Sebuah artikel KPKNL Lahat di situs [DJKN Kementerian Keuangan](https://www.djkn.kemenkeu.go.id/kpknl-lahat/baca-artikel/18366/Investasi-Bagi-Orang-Berpenghasilan-Tetap.html) (2026), yang ditujukan bagi orang dengan penghasilan tetap, menganjurkan mulai dari instrumen sederhana seperti reksa dana pasar uang atau emas digital. Yang lebih berisiko, seperti saham, dicoba belakangan, seiring waktu dan pengalaman. Tulisan itu artikel kantor daerah tanpa nama penulis, jadi anggap saja sebagai pengantar.
 
 ### Pakan yang Tidak Pernah Libur
 
-Hewan ternak tetap lapar walau dompet sedang kosong. Sekantong pakan ayam hanya 10 G, angka yang gampang diremehkan sampai kandang terisi penuh dan setiap ekor harus makan setiap hari. Sapi dan domba bahkan butuh alat sendiri, alat perah dan gunting bulu, yang dibeli terpisah dari hewannya.
+Hewan ternak tetap lapar walau dompet sedang kosong. Sekantong pakan ayam hanya 10 G, angka yang gampang diremehkan sampai kandang terisi penuh dan setiap ekor harus makan setiap hari. Sapi dan domba juga butuh alat sendiri, alat perah dan gunting bulu, yang dibeli terpisah dari hewannya.
 
-Satu pesan dari buku strategi itu pantas dijadikan pegangan, dan bentuknya justru peringatan. Tambahlah ternak hanya kalau kamu sanggup mengerjakan tugas hariannya dan menanggung biaya pakannya. Untuk sapi dan domba nadanya sama: jangan membeli sebelum yakin bisa mengurusnya, karena memberi makan dan merawat ternak bisa mahal.
+Satu pesan dari buku strategi itu pantas dijadikan pegangan, dan bentuknya berupa peringatan. Tambahlah ternak hanya kalau kamu sanggup mengerjakan tugas hariannya dan menanggung biaya pakannya. Untuk sapi dan domba nadanya sama: jangan membeli sebelum yakin bisa mengurusnya, karena memberi makan dan merawat ternak bisa mahal.
 
 Biaya rutin itu bisa ditekan. Rumput yang kamu tanam di ladang tumbuh tanpa disiram dari musim semi sampai gugur dan tidak perlu ditanam ulang, sehingga pakan bisa dipanen sendiri. Satu angka lagi patut diingat sebelum membeli dengan tergesa: ayam seharga 1.500 G hanya laku 500 G kalau kamu menjualnya kembali ke Poultry Farm. Masuk itu mudah; keluar sering kali berarti rugi.
 
