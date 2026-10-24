@@ -109,4 +109,4 @@ Membangun kesiapan kognitif memerlukan latihan berkelanjutan sebelum krisis sesu
 
 Dalam situasi kedaruratan, kesiapan kognitif untuk memproses informasi dan bertindak cepat merupakan pembeda utama antara kelumpuhan mental dan keselamatan.
 
-> "Dalam momen keputusan, hal terbaik yang bisa dilakukan adalah hal yang benar, hal terbaik berikutnya adalah hal yang salah, dan hal terburuk yang bisa dilakukan adalah tidak melakukan apa-apa." - Theodore Roosevelt
+Saat keputusan harus diambil, langkah yang tepat tentu paling baik, tetapi langkah yang keliru sering kali masih lebih baik daripada membeku dan tidak melakukan apa-apa.

@@ -16,7 +16,7 @@ Dampak psikologis tidak selalu tampak dalam bentuk histeria atau ekspresi emosio
 - **Gejala Somatisasi (Fisik):** Keluhan fisiologis tanpa etiologi medis organik yang jelas, seperti sefalalgia (sakit kepala kronis), gangguan motilitas pencernaan, takikardia idiopatik, atau ketegangan muskuloskeletal yang persisten.
 - **Perubahan Pola Relasi dan Kepribadian:** Transformasi kepribadian mendadak, penarikan diri secara sosial (*social withdrawal*), sinisme ekstrem, anhedonia, atau reaktivitas emosional yang mudah tersulut.
 
-> "Trauma bukan sekadar peristiwa eksternal yang menimpa seseorang, melainkan apa yang terjadi dan membekas di dalam sistem saraf manusia sebagai akibat dari peristiwa tersebut." (Gabor Maté)
+> "Trauma bukanlah apa yang terjadi padamu. Trauma adalah apa yang terjadi di dalam dirimu sebagai akibat dari apa yang terjadi padamu." (Gabor Maté, wawancara CBC Radio, 2022)
 
 ## 2. Post-Traumatic Stress Disorder (PTSD)
 
