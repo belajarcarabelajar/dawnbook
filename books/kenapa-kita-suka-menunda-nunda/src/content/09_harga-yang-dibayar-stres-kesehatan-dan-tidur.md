@@ -26,26 +26,16 @@ Dengan definisi itu, kebiasaan yang di media sosial sering disebut *revenge bedt
 
 > Ilustrasi penulis: layar yang menyala jam satu pagi jarang terasa seperti keputusan. Ia terasa seperti "lima menit lagi" yang diulang dua belas kali.
 
-### Empat studi dalam satu tabel
-
-| Studi | Sampel | Temuan | Catatan batas |
-|---|---|---|---|
-| Tice dan Baumeister (1997) | Dua studi mahasiswa, N = 44 dan N = 57 | Stres dan sakit lebih rendah di awal semester, lebih tinggi di akhir; lebih sering sakit secara keseluruhan; nilai lebih rendah | Sampel mahasiswa; penundaan diukur dengan skala laporan diri |
-| Sirois dkk. (2003) | Mahasiswa, n = 122, periode penuh stres | Berkaitan dengan kesehatan lebih buruk, penundaan berobat, stres lebih tinggi, perilaku sehat lebih sedikit | Mahasiswa; analisis mediasi tidak menetapkan sebab-akibat |
-| Kroese dkk. (2014) | Survei daring komunitas, N = 177 | Bedtime procrastination berkaitan dengan kurang tidur | Laporan diri; sampel relatif kecil |
-| Kroese dkk. (2016) | Orang dewasa Belanda representatif, N = 2.431 | Regulasi diri berkaitan dengan kurang tidur, dimediasi penundaan jam tidur | Konteks Belanda; laporan diri |
-
 ### Sebelum menyimpulkan terlalu jauh
 
-Sebelum kamu menyimpulkan bahwa menunda membuat orang sakit, perlu ada rem. Sebagian besar temuan di atas bersifat korelasional dan bersandar pada laporan diri, dan beberapa memakai sampel mahasiswa. Tabel di atas memperlihatkan batasnya satu per satu. Kita boleh bilang penundaan *berkaitan dengan* stres, kesehatan yang lebih buruk, dan kurang tidur. Kita tidak boleh bilang ia menyebabkannya.
+Sebelum kamu menyimpulkan bahwa menunda membuat orang sakit, perlu ada rem. Sebagian besar temuan di atas bersifat korelasional dan bersandar pada laporan diri, dan beberapa memakai sampel mahasiswa. Kita boleh bilang penundaan *berkaitan dengan* stres, kesehatan yang lebih buruk, dan kurang tidur. Kita tidak boleh bilang ia menyebabkannya.
 
 Sirois (2023) mengingatkan arah panah yang sebaliknya. Dalam tinjauan konseptualnya, yang sudah kita temui di bab 5, konteks penuh stres ikut menaikkan risiko menunda. Jadi hubungannya kemungkinan dua arah: stres mendorong orang menunda, dan penundaan menambah stres. Karena itu Sirois mendorong pandangan yang lebih penuh welas asih, dan di sini kita memakainya juga: tagihan ini layak dibaca sebagai informasi, bukan alasan untuk menghukum diri.
 
 ## Kesimpulan Bab
 
-Menunda sering memberi kelegaan di depan dan biaya di belakang: stres, kesehatan, dan tidur ikut terseret. Bukti yang kita punya konsisten tetapi korelasional, jadi bahasa yang tepat adalah "berkaitan dengan", dengan hubungan yang kemungkinan berjalan dua arah.
-
-- Pola Tice dan Baumeister (1997): lebih tenang dan lebih sehat di awal semester, lebih tertekan dan lebih sering sakit di akhir, dengan nilai yang lebih rendah.
+- Menunda sering memberi kelegaan di depan dan biaya di belakang, seperti pola Tice dan Baumeister (1997): lebih tenang dan lebih sehat di awal semester, lebih tertekan dan lebih sering sakit di akhir, dengan nilai yang lebih rendah.
 - Bedtime procrastination, yaitu tidur lebih larut dari rencana tanpa alasan eksternal, berkaitan dengan kurang tidur pada sampel komunitas maupun sampel representatif orang dewasa.
+- Bukti yang kita punya konsisten tetapi korelasional, jadi bahasa yang tepat adalah "berkaitan dengan", dengan hubungan yang kemungkinan berjalan dua arah.
 
-Kalau tagihan itu datang karena keputusan kecil yang kita buat saat energi sedang rendah, maka salah satu jalan keluarnya adalah memutuskan lebih awal, sebelum godaan tiba. Bab berikutnya membahas cara mengikat diri pada sebuah rencana, dari rencana jika-maka sampai komitmen yang menutup pintu keluar.
+Kalau tagihan itu datang karena keputusan kecil yang kita buat saat energi sedang rendah, maka salah satu jalan keluarnya adalah memutuskan lebih awal, sebelum godaan tiba.

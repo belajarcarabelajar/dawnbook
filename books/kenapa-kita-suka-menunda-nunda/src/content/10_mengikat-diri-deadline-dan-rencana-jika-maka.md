@@ -6,7 +6,7 @@ Jawaban ilmiahnya ada di persamaan teori motivasi temporal yang sudah kita temui
 
 > Utility = (Expectancy x Value) / (Z + Gamma(T - t))
 
-Expectancy adalah keyakinan bahwa kamu bisa berhasil, Value adalah nilai hadiahnya, Gamma adalah sensitivitas terhadap penundaan, dan T - t adalah jeda waktu sampai hadiah atau hasilnya tiba. Z hanyalah konstanta agar angkanya tidak meledak ketika jeda mendekati nol. Perhatikan penyebutnya. Semakin kecil jeda T - t, semakin kecil penyebutnya, sehingga dorongan untuk bertindak naik.
+Expectancy adalah keyakinan bahwa kamu bisa berhasil, Value adalah nilai hadiahnya, Gamma adalah sensitivitas terhadap penundaan, dan T - t adalah jeda waktu sampai hadiah atau hasilnya tiba. Z hanyalah konstanta agar angkanya tidak meledak ketika jeda mendekati nol. Kuncinya ada pada penyebut. Semakin kecil jeda T - t, semakin kecil penyebutnya, sehingga dorongan untuk bertindak naik.
 
 Itu sebabnya tenggat yang mepet tiba-tiba "bekerja". Ini kesimpulan yang diturunkan dari persamaan, bukan temuan eksperimen. Dan ia membawa pesan yang kurang enak: dorongan terbesar datang justru ketika waktu sudah hampir habis. Bab ini membahas dua cara menarik dorongan itu ke depan, satu lewat pengikatan diri, satu lagi lewat rencana kecil yang sudah punya bukti riset.
 
@@ -23,7 +23,7 @@ Maka langkah pertama mengikat diri adalah mengakui bahwa kamu termasuk orang yan
 Bagian ini adalah saran dari penulis buku ini, bukan temuan penelitian. Tidak ada sumber dalam bab ini yang menguji satu per satu cara di bawah.
 
 - **Tenggat buatan sendiri, dibagi per tahap.** Daripada satu garis akhir yang jauh, pasang beberapa garis kecil: kerangka selesai Rabu, draf Jumat. Tiap garis memendekkan jeda T - t untuk tahap itu.
-- **Janji pada orang lain.** Kabari seorang teman bahwa draf akan sampai di kotak masukmu hari Jumat. Kini melanggarnya punya harga sosial.
+- **Janji pada orang lain.** Kabari seorang teman bahwa draf akan sampai di kotak masuknya hari Jumat. Kini melanggarnya punya harga sosial.
 - **Siapkan lingkungan lebih dulu.** Buka dokumennya, taruh sepatu lari di dekat pintu, tutup aplikasi pengganggu malam sebelumnya.
 
 Satu catatan jujur: tenggat buatan sendiri hanya sekuat penegakannya. Kalau kamu bisa menggesernya tanpa konsekuensi apa pun, ia cepat berubah menjadi hiasan. Janji pada orang lain pun melemah bila orang itu tidak pernah menanyakannya. Pengikat yang baik adalah yang membuat menunda terasa lebih mahal daripada mengerjakan.
@@ -58,14 +58,14 @@ Contoh ketiga memperlihatkan fungsi pelindung dari gangguan, sedangkan dua yang 
 | Nanti aku cicil laporannya | Jika Selasa sore kelas selesai, maka aku mengerjakan bagian pendahuluan |
 | Aku tidak boleh buka media sosial | Jika aku ingin membuka media sosial, maka aku berdiri dan minum air dulu |
 
-Rencana di kolom kiri menyerahkan semuanya pada kemauan saat itu juga. Isyaratnya tidak jelas, kapan "nanti" itu tidak ada. Rencana di kolom kanan menetapkan isyarat dan responsnya sebelumnya, jadi pada saat keputusan seharusnya dibuat, keputusannya sudah ada.
+Rencana di kolom kiri menyerahkan semuanya pada kemauan saat itu juga. Isyaratnya tidak jelas: kapan "nanti" itu tiba tidak pernah ditentukan. Rencana di kolom kanan menetapkan isyarat dan responsnya sebelumnya, jadi pada saat keputusan seharusnya dibuat, keputusannya sudah ada.
 
 Dua alat ini bisa saling menguatkan. Tenggat memberi arah dan tekanan, rencana jika-maka mengurus detik pertama yang paling sering macet. Tetapi keduanya tetap perlu kamu pasang sebelum waktunya mepet.
 
 ## Key Takeaways
 
 - Tenggat yang mepet terasa "bekerja" karena menurut persamaan Steel dan König (2006), jeda yang mengecil menaikkan dorongan. Ini penalaran dari teorinya, bukan hasil eksperimen.
-- Laibson (1997) dan O'Donoghue dan Rabin (1999) menjelaskan kenapa orang punya motif mengikat diri, dan kenapa mengenali bias sendiri adalah syaratnya. Tenggat dan janji buatan sendiri adalah saran penulis, dan kekuatannya ditentukan penegakannya.
+- Laibson (1997) dan O'Donoghue dan Rabin (1999) menjelaskan kenapa orang punya motif mengikat diri, dan kenapa mengenali bias sendiri adalah syaratnya.
 - Rencana jika-maka (Gollwitzer, 1999) punya efek sedang-ke-besar pada pencapaian tujuan dalam meta-analisis 94 pengujian (d = 0,65; Gollwitzer dan Sheeran, 2006).
 
-Namun semua alat ini bisa terasa seperti cambuk bila kamu memakainya sambil menghukum diri saat gagal. Bab terakhir membahas sisi yang sering terlewat: bagaimana bersikap baik pada diri sendiri dan memulai dari langkah yang cukup kecil untuk dilakukan hari ini.
+Namun semua alat ini bisa terasa seperti cambuk bila kamu memakainya sambil menghukum diri saat gagal.

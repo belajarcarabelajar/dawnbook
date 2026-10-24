@@ -2,7 +2,7 @@
 
 Mari mulai dengan eksperimen pikiran. Ini murni latihan membayangkan, bukan studi, dan tidak ada jawaban yang benar. Jawab saja dengan jujur di kepalamu.
 
-Tawaran pertama: kamu boleh menerima seratus ribu rupiah hari ini, atau seratus sepuluh ribu rupiah seminggu lagi. Pilih satu. Tawaran kedua: seratus ribu rupiah setahun lagi, atau seratus sepuluh ribu rupiah setahun lebih seminggu. Pilih lagi. Perhatikan bahwa selisihnya sama persis di kedua tawaran: sepuluh ribu rupiah untuk menunggu tujuh hari tambahan.
+Tawaran pertama: kamu boleh menerima seratus ribu rupiah hari ini, atau seratus sepuluh ribu rupiah seminggu lagi. Pilih satu. Tawaran kedua: seratus ribu rupiah setahun lagi, atau seratus sepuluh ribu rupiah setahun lebih seminggu. Pilih lagi. Selisihnya sama persis di kedua tawaran: sepuluh ribu rupiah untuk menunggu tujuh hari tambahan.
 
 Kalau kamu memilih "hari ini" di tawaran pertama tetapi memilih "yang lebih besar" di tawaran kedua, kamu tidak sendirian, dan tidak ada yang salah dengan kepalamu. Kamu baru saja merasakan sesuatu yang oleh para ekonom perilaku disebut **bias masa kini** (*present bias*). Bab ini membahas apa itu, kenapa ia cocok sekali dengan kebiasaan menunda, dan apa yang bisa dilakukan tentangnya.
 
@@ -51,7 +51,7 @@ Kata *preproperate* adalah kebalikan dari menunda: bertindak lebih awal dari yan
 
 Kabar baiknya ada di sini. Laibson (1997) menunjukkan bahwa preferensi yang tidak konsisten ini memberi motif untuk **membatasi pilihan diri di masa depan**. Modelnya mempertimbangkan konsumen hiperbolik yang punya akses ke teknologi komitmen yang tidak sempurna, misalnya aset yang sulit dicairkan. Dengan kata lain, masuk akal bagi kamu yang merencanakan untuk "mengikat tangan" kamu yang mengeksekusi.
 
-Contoh dalam kehidupan sehari-hari (lagi-lagi ilustrasi, bukan hasil studi): menaruh alarm di seberang kamar, membayar kelas olahraga di muka, atau menitipkan tabungan ke rekening yang susah ditarik. Bab-bab selanjutnya akan kembali ke strategi-strategi seperti ini. Untuk sekarang, cukup pegang prinsipnya: kalau kamu tahu dirimu akan tergoda, jangan mengandalkan tekad saat godaan itu tiba.
+Contoh dalam kehidupan sehari-hari (lagi-lagi ilustrasi, bukan hasil studi): menaruh alarm di seberang kamar, membayar kelas olahraga di muka, atau menitipkan tabungan ke rekening yang susah ditarik. Strategi seperti ini kembali dibahas di bab 10. Untuk sekarang, cukup pegang prinsipnya: kalau kamu tahu dirimu akan tergoda, jangan mengandalkan tekad saat godaan itu tiba.
 
 ### Jangan pegang satu angka
 
@@ -59,11 +59,8 @@ Satu peringatan agar kita tidak terlalu percaya diri. Frederick, Loewenstein, da
 
 ## Poin Penting
 
-- Orang cenderung menilai hadiah yang tertunda lebih rendah, dan potongan itu paling curam untuk masa depan yang dekat (Laibson, 1997).
-- Akibatnya pilihan bisa berbalik: rencana semalam dan keputusan pagi hari tidak selalu sama.
-- Orang naif tidak menyadari pembalikan itu, dan O'Donoghue dan Rabin (1999) mencatat bahwa bias kecil pun bisa sangat merugikan mereka pada aktivitas berbiaya segera.
-- Bias yang sama membuat kita menunda hal yang berat dan tergesa pada hal yang enak.
-- Mengikat pilihan masa depan masuk akal secara logika (Laibson, 1997).
-- Tingkat diskonto sangat bervariasi antarstudi, jadi hindari menempel satu angka pada dirimu (Frederick, Loewenstein, dan O'Donoghue, 2002).
+- Orang cenderung menilai hadiah yang tertunda lebih rendah, dan potongan itu paling curam untuk masa depan yang dekat (Laibson, 1997). Akibatnya rencana semalam dan keputusan pagi hari tidak selalu sama.
+- Bias yang sama membuat kita menunda hal yang berat dan tergesa pada hal yang enak, dan bagi orang naif bias kecil pun bisa sangat merugikan pada aktivitas berbiaya segera (O'Donoghue dan Rabin, 1999).
+- Mengikat pilihan masa depan masuk akal secara logika (Laibson, 1997), tetapi tingkat diskonto sangat bervariasi antarstudi, jadi hindari menempel satu angka pada dirimu (Frederick, Loewenstein, dan O'Donoghue, 2002).
 
-Kamu yang mengeksekusi biasanya menang karena ia berada paling dekat dengan hadiah. Tetapi tagihannya tidak jatuh ke tangannya. Tagihan itu dikirim ke seseorang yang belum hadir: dirimu esok hari, minggu depan, atau tahun depan. Bab berikutnya berkenalan dengan penerima tagihan itu, si diri masa depan, dan melihat kenapa kita begitu mudah memperlakukannya seperti orang lain.
+Kamu yang mengeksekusi biasanya menang karena ia berada paling dekat dengan hadiah. Tagihannya dikirim ke seseorang yang belum hadir: dirimu esok hari, minggu depan, atau tahun depan.
