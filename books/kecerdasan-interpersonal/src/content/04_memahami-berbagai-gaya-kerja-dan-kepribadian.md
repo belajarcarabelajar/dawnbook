@@ -1,6 +1,6 @@
 ## Memahami Berbagai Gaya Kerja dan Kepribadian
 
-Pernahkah kamu merasa begitu mudah berbicara dengan rekan setim dari divisi desain, tetapi mendadak merasa seperti menggunakan bahasa asing ketika berdiskusi dengan tim finance? Atau mungkin kamu merasa frustrasi saat atasan hanya ingin melihat angka-angka mentah, sementara kamu ingin menjabarkan visi kreatif di balik proyek tersebut?
+Pernahkah kamu merasa mudah berbicara dengan rekan setim divisi desain, tetapi mendadak seperti memakai bahasa asing saat berdiskusi dengan tim finance? Atau mungkin kamu merasa frustrasi saat atasan hanya ingin melihat angka-angka mentah, sementara kamu ingin menjabarkan visi kreatif di balik proyek tersebut?
 
 Perbedaan ini tidak menunjukkan bahwa salah satu pihak kurang kompeten. Hal tersebut murni karena perbedaan **gaya kerja dan kepribadian**. Di dalam profil *T-Shaped Professional*, kemampuan teknis spesifik kamu merupakan garis vertikal, sementara keluwesan beradaptasi dengan beragam kepribadian adalah jembatan horizontal yang menghubungkan kolaborasi.
 

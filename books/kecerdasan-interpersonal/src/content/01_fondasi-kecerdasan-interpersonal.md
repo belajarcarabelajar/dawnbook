@@ -1,6 +1,6 @@
 ## Fondasi Kecerdasan Interpersonal
 
-Teknologi boleh berkembang secepat kilat, tetapi ada satu hal yang tetap membedakan antara mereka yang kariernya stagnan dengan yang melesat: kemampuan berinteraksi, memahami, dan berkolaborasi dengan manusia lain. 
+Teknologi boleh berkembang secepat kilat, tetapi ada satu hal yang tetap membedakan mereka yang kariernya stagnan dengan mereka yang kariernya melesat. Hal itu adalah kemampuan berinteraksi, memahami, dan berkolaborasi dengan manusia lain. 
 
 Bagian ini membahas esensi kecerdasan interpersonal dan urgensi perannya sebagai pilar horizontal utama dalam profil **T-shaped professional**.
 
