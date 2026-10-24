@@ -1,6 +1,6 @@
 ## Referensi dan Daftar Pustaka
 
-Berikut adalah daftar literatur ilmiah, buku teks utama, dan artikel jurnal bereputasi yang menjadi fondasi buku *Strategi Manajemen Kelas Proaktif*. Sumber-sumber ini menopang sisi teori serta praktis dalam pengembangannya.
+Berikut adalah daftar literatur ilmiah, buku teks utama, dan artikel jurnal bereputasi yang menjadi fondasi buku *Strategi Manajemen Kelas Proaktif*. Isinya meliputi landasan teori serta praktik dalam pengembangan buku itu.
 
 ### Buku dan Monograf
 

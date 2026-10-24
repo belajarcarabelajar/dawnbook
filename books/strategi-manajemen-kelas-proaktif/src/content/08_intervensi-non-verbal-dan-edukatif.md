@@ -1,6 +1,6 @@
 ## Intervensi Non-Verbal dan Edukatif
 
-Pernahkah kamu sedang berada di puncak penjelasan materi yang penting, saat semua kepingan teka-teki mulai menyatu bagi siswa? Lalu tiba-tiba kamu harus berhenti total hanya untuk menegur satu orang siswa yang asyik mengobrol?
+Pernahkah kamu sedang berada di puncak penjelasan materi yang penting, saat semua kepingan teka-teki mulai menyatu bagi siswa? Pernahkah kamu kemudian tiba-tiba harus berhenti total hanya untuk menegur satu orang siswa yang asyik mengobrol?
 
 Seketika, momentum itu hilang. Alur berpikir kelas terputus, dan kamu butuh waktu ekstra untuk mengembalikan fokus mereka. Inilah yang kita sebut sebagai "biaya gangguan" (*interruptive cost*).
 
