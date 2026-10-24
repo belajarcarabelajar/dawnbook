@@ -1,6 +1,6 @@
 ## Referensi
 
-Sumber-sumber ilmiah berikut menjadi landasan konseptual buku ini, mencakup arsitektur kernel Linux, manajemen proses dan memori, serta sistem file. Cakupannya meluas ke networking stack, sinkronisasi kernel, keamanan, dan proses booting.
+Sumber-sumber ilmiah berikut menjadi landasan konseptual buku ini, mencakup arsitektur kernel Linux, manajemen proses dan memori, serta sistem file. Topik lainnya adalah networking stack, sinkronisasi kernel, keamanan, dan proses booting.
 
 ---
 
