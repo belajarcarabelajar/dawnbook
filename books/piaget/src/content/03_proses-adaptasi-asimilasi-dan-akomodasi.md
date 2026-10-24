@@ -71,7 +71,7 @@ Asimilasi dan akomodasi bukanlah dua proses yang terpisah secara kaku, melainkan
 - Jika kita terlalu banyak melakukan **asimilasi**, kita akan cenderung mengabaikan perbedaan dan memiliki pemahaman yang dangkal (seperti menyebut semua hewan berkaki empat sebagai "guk-guk").
 - Jika kita terlalu banyak melakukan **akomodasi**, kita akan kesulitan menemukan pola umum karena setiap hal dianggap sebagai kategori baru yang unik.
 
-Keseimbangan antara keduanya disebut dengan **Ekuilibrasi**, sebuah proses yang memastikan pikiran kita tetap efisien namun tetap akurat dalam memetakan realitas.
+Keseimbangan antara keduanya disebut dengan **Ekuilibrasi**, sebuah proses yang memastikan pikiran kita efisien namun tetap akurat dalam memetakan realitas.
 
 > **Pesan Utama:** Perkembangan kognitif adalah tarian antara menggunakan apa yang sudah kita tahu (asimilasi) dan mengubah diri kita untuk belajar hal baru (akomodasi).
 
