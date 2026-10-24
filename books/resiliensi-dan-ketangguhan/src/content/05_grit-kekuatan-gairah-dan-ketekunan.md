@@ -2,7 +2,7 @@
 
 Pernahkah kamu melihat seseorang yang secara akademis biasa-biasa saja, tetapi sepuluh tahun kemudian memimpin perusahaan besar atau menjadi ahli di bidangnya? Sementara itu, rekan mereka yang dianggap "jenius" justru tampak jalan di tempat. Perbedaan mencolok ini sering kali bukan disebabkan oleh tingkat IQ atau keberuntungan semata, melainkan sebuah kualitas mental yang disebut **Grit**.
 
-Dalam perjalanan membangun resiliensi, Grit adalah mesin yang menjaga kamu tetap bergerak saat motivasi awal sudah memudar. Jika resiliensi adalah kemampuan untuk bangkit kembali setelah jatuh, maka Grit adalah kemampuan untuk terus berjalan ribuan kilometer menuju garis finish, bahkan jika kamu harus jatuh bangun berkali-kali.
+Dalam perjalanan membangun resiliensi, Grit adalah mesin yang menjaga kamu tetap bergerak saat motivasi awal sudah memudar. Jika resiliensi adalah kemampuan untuk bangkit kembali setelah jatuh, maka Grit adalah kemampuan untuk terus berjalan ribuan kilometer menuju garis finish, meski kamu harus jatuh bangun berkali-kali.
 
 ## Memahami Persamaan Grit
 
@@ -77,14 +77,14 @@ Di dunia nyata, kehidupan lebih mirip maraton daripada sprint. Orang yang menang
 Seorang programmer junior menghadapi *bug* kompleks yang membuat sistem perusahaan lumpuh.
 
 - **Tanpa Grit:** Dia akan merasa frustrasi setelah dua jam, menyalahkan alat yang digunakan, dan meminta orang lain menyelesaikannya.
-- **Dengan Grit:** Dia memahami bahwa kegagalan adalah bagian dari proses. Dia melakukan riset, mencoba berbagai pendekatan satu demi satu, dan tetap di depan layar hingga masalah teratasi, meskipun itu memakan waktu 12 jam. Baginya, setiap *error* adalah guru, bukan penghalang.
+- **Dengan Grit:** Dia memahami bahwa kegagalan adalah bagian dari proses. Dia melakukan riset, mencoba berbagai pendekatan satu demi satu, dan bertahan di depan layar hingga masalah teratasi, meskipun itu memakan waktu 12 jam. Baginya, setiap *error* adalah guru, bukan penghalang.
 
 ### Startup yang Ditolak 20 Investor Pertama
 
 Seorang pendiri *startup* ditolak oleh 20 investor pertama.
 
 - **Tanpa Grit:** Dia akan merasa bahwa idenya buruk dan segera menutup bisnisnya.
-- **Dengan Grit:** Dia menggunakan umpan balik dari setiap penolakan untuk memperbaiki model bisnisnya. Gairahnya pada visi jangka panjang (misalnya: mengurangi limbah plastik) membuatnya tetap bertahan hingga investor ke-21 memberikan pendanaan.
+- **Dengan Grit:** Dia menggunakan umpan balik dari setiap penolakan untuk memperbaiki model bisnisnya. Gairahnya pada visi jangka panjang (misalnya: mengurangi limbah plastik) membuatnya terus maju hingga investor ke-21 memberikan pendanaan.
 
 ## Mengevaluasi Gritmu
 

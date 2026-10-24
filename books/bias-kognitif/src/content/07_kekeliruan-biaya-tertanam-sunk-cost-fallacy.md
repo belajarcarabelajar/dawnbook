@@ -36,7 +36,7 @@ Sunk Cost Fallacy sering disebut juga sebagai **Concorde Effect**. Pada tahun 19
 
 Di tengah jalan, mereka menyadari bahwa pesawat ini tidak akan pernah menguntungkan secara ekonomi karena biaya operasional yang sangat tinggi dan kapasitas penumpang yang terbatas. Namun, alih-alih menghentikan proyek tersebut, kedua negara terus mengucurkan dana miliaran dolar hanya karena mereka sudah terlanjur berinvestasi terlalu banyak. Mereka tidak ingin kehilangan muka di panggung internasional.
 
-*Hasilnya?* Mereka justru kehilangan jauh lebih banyak uang daripada jika mereka berhenti lebih awal.
+*Hasilnya?* Mereka kehilangan jauh lebih banyak uang daripada jika mereka berhenti lebih awal.
 
 ## 4. Implementasi dalam Pengambilan Keputusan Teknis
 
@@ -98,7 +98,7 @@ Keuntungan bersihnya negatif, jadi proyek sebaiknya dihentikan. Rp100 juta yang 
 
 ### Dalam Bisnis
 
-Banyak perusahaan tetap mempertahankan lini produk yang merugi karena mereka telah menghabiskan banyak uang untuk riset dan pengembangan (R&D). Perusahaan yang hebat adalah yang berani melakukan "Pivot" (berubah arah) meskipun harus membuang investasi awal.
+Banyak perusahaan mempertahankan lini produk yang merugi karena mereka telah menghabiskan banyak uang untuk riset dan pengembangan (R&D). Perusahaan yang hebat adalah yang berani melakukan "Pivot" (berubah arah) meskipun harus membuang investasi awal.
 
 ### Dalam Hubungan Personal
 

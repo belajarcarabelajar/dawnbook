@@ -19,11 +19,11 @@ Satu tindakan bisa memegang tiga peran berbeda. Ia bisa sekadar **dicatat** seba
 | Like | Dipakai keenam komponen dan diprediksi model | Berikan pada tulisan yang memang layak kamu temui lagi |
 | Unlike | Tercantum di kolom USS dan SimClusters | Koreksi like yang keliru, bukan penghapus minat |
 | Reply | Dipakai semua komponen kecuali SimClusters; model memprediksi reply dan reply yang ditanggapi penulis | Balas saat ada pertanyaan atau diskusi nyata, bukan untuk "melatih" feed |
-| Repost / quote | Keduanya dipakai semua komponen kecuali SimClusters; model memprediksi repost | Bagikan setelah klaimnya kamu periksa; quote untuk mengejek tetap interaksi |
+| Repost / quote | Keduanya dipakai semua komponen kecuali SimClusters; model memprediksi repost | Bagikan setelah klaimnya kamu periksa; quote untuk mengejek juga interaksi |
 | Share | Tercantum di kolom USS dan FRS; model memprediksi share | Kirim ke orang yang memang membutuhkan bacaannya |
 | Bookmark | Hanya di kolom USS, dicatat UUA, dan diprediksi model | Simpan untuk dipakai, dan jangan anggap bebas sinyal |
 | Klik post | Sinyal implisit USS; di tabel muncul di kolom USS, FRS, dan sebagai label Light Ranking; ada dua prediksi "good click" | Buka untuk memahami isi atau mengecek sumber, bukan setiap utas yang memancing penasaran |
-| Kunjungan profil | Tidak ada di tabel sinyal; disebut di dokumentasi USS dan menjadi masukan Real Graph; ada prediksi "good profile click" | Nilai sumber sebelum follow; kunjungan berulang karena kesal tetap tercatat |
+| Kunjungan profil | Tidak ada di tabel sinyal; disebut di dokumentasi USS dan menjadi masukan Real Graph; ada prediksi "good profile click" | Nilai sumber sebelum follow; kunjungan berulang karena kesal ikut tercatat |
 | Dwell (lama berhenti di sebuah post) | Model memprediksi dwell | Baca sewajarnya, tidak perlu menahan layar sekian detik |
 | Menonton video | Di kolom USS, SimClusters, dan label Light Ranking; ada beberapa prediksi terkait video | Matikan autoplay bila ingin sesi yang fokus pada teks |
 | Not interested | Hanya di kolom USS; model memprediksi umpan balik negatif | Pakai saat rekomendasi melenceng dari tujuanmu |
@@ -35,7 +35,7 @@ Report juga hanya tercantum di kolom USS, dan tidak masuk daftar utama keluaran 
 
 Bayangkan sebuah utas yang membuatmu jengkel. Kamu tidak memberi like, tetapi kamu membukanya lagi dan lagi, membaca setiap balasan, lalu mengetik bantahan. Klik, waktu baca, dan reply itu tetap bisa masuk ke riwayat aktivitasmu. Komentar marah tidak selalu berujung pada lebih banyak post bertopik sama, tetapi sistem mencatat interaksinya tanpa memahami alasannya. Bagi mesin, membuka berulang kali untuk menolak dan membuka berulang kali karena suka bisa tampak serupa.
 
-Kalau ingin topik itu berkurang, pilih umpan balik yang sesuai dan pangkas keterlibatan yang tidak perlu. Kamu tetap boleh meluruskan informasi yang salah atau membela seseorang. Sebelumnya, timbang tujuannya, berapa lama waktu yang akan habis, dan kenyataan bahwa interaksi itu ikut menjadi bagian dari riwayatmu.
+Kalau ingin topik itu berkurang, pilih umpan balik yang sesuai dan pangkas keterlibatan yang tidak perlu. Kamu masih boleh meluruskan informasi yang salah atau membela seseorang. Sebelumnya, timbang tujuannya, berapa lama waktu yang akan habis, dan kenyataan bahwa interaksi itu ikut menjadi bagian dari riwayatmu.
 
 ### Bookmark untuk Bahan Riset
 
@@ -51,7 +51,7 @@ Repositori baru, xai-org/x-algorithm, memuat [komentar kode](https://github.com/
 
 - Kamu mengirim sinyal lewat tindakan eksplisit seperti like dan follow, juga lewat tindakan implisit seperti klik, tontonan video, dan kunjungan profil.
 - Dicatat, dipakai sebagai masukan, dan diprediksi model adalah tiga peran berbeda, dan tercatat belum tentu menjadi faktor utama.
-- Membuka utas yang menjengkelkan berulang kali tetap meninggalkan jejak, karena sistem membaca interaksinya, bukan niatmu.
+- Membuka utas yang menjengkelkan berulang kali meninggalkan jejak, karena sistem membaca interaksinya, bukan niatmu.
 - Bookmark tidak bebas sinyal, dan menyimpan tautan di luar X tidak membatalkan klik yang sudah terjadi.
 
 Semua jejak itu tidak berhenti sebagai catatan, sebab sistem meraciknya menjadi perkiraan tentang minatmu, dan cara racikan itu bekerja layak kita bongkar sesudah ini.

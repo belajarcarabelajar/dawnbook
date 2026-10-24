@@ -20,7 +20,7 @@ Setelah beberapa minggu, urutan yang awalnya harus dipikirkan biasanya mulai ter
 
 ### Waktu Berhenti di Balik Pintu
 
-Begitu si petani melangkah masuk ke sebuah bangunan, jam berhenti. Aturan kecil ini mengubah cara bermain. Sapi dan domba bisa disikat, diperah, dan dicukur di dalam Barn tanpa kehilangan semenit pun. Kuda diurus di dalam istal, dan anjing pun lebih baik diajak bermain di dalam rumah. Pekerjaan yang sama, kalau dikerjakan di halaman, terus menggerus jam yang tidak bisa kembali.
+Begitu si petani melangkah masuk ke sebuah bangunan, jam berhenti. Aturan kecil ini mengubah cara bermain. Sapi dan domba bisa disikat, diperah, dan dicukur di dalam Barn tanpa kehilangan semenit pun. Kuda diurus di dalam istal, sedangkan anjing lebih baik diajak bermain di dalam rumah. Pekerjaan yang sama, kalau dikerjakan di halaman, terus menggerus jam yang tidak bisa kembali.
 
 Menyetor panen ikut aturan yang sama. Menuang bawaan yang penuh ke Harvest Bin di luar bisa memakan sampai 20 menit. Barn dan kandang ayam masing-masing punya Harvest Bin sendiri, jadi setorlah di sana, di tempat jam tidak bergerak.
 
@@ -34,7 +34,7 @@ Logikanya sederhana. Makin banyak yang terbawa sekali jalan, makin jarang kamu b
 
 Di luar gim, langkah bolak-balik itu punya padanan yang lebih halus, yaitu berpindah-pindah tugas. Dalam [empat eksperimen yang terbit tahun 2001](https://doi.org/10.1037/0096-1523.27.4.763), Rubinstein, Meyer, dan Evans meminta orang dewasa muda berganti-ganti tugas, misalnya dari soal matematika ke pengelompokan bentuk geometris. Setiap pergantian menambah waktu. Ongkosnya membesar saat aturan tugasnya rumit dan mengecil saat ada petunjuk tugas mana yang harus dikerjakan.
 
-Angkanya kecil, sekadar beberapa per sepuluh detik untuk mengaktifkan aturan tugas yang baru, dan diukur dalam percobaan singkat di laboratorium, bukan pada hari kerja sungguhan. Namun [halaman APA tentang multitasking](https://www.apa.org/topics/research/multitasking) mengingatkan bahwa ongkos sekecil itu bisa menumpuk ketika orang terus berpindah sepanjang hari, sampai multitasking yang tampak efisien justru memakan lebih banyak waktu dan menambah kesalahan. David Meyer bahkan pernah memperkirakan jeda mental semacam itu bisa menghabiskan hingga 40 persen waktu produktif seseorang. Itu perkiraannya, bukan hasil pengukuran eksperimen tadi.
+Angkanya kecil, sekadar beberapa per sepuluh detik untuk mengaktifkan aturan tugas yang baru, dan diukur dalam percobaan singkat di laboratorium, bukan pada hari kerja sungguhan. Namun [halaman APA tentang multitasking](https://www.apa.org/topics/research/multitasking) mengingatkan bahwa ongkos sekecil itu bisa menumpuk ketika orang terus berpindah sepanjang hari, sampai multitasking yang tampak efisien justru memakan lebih banyak waktu dan menambah kesalahan. David Meyer pernah memperkirakan jeda mental semacam itu bisa menghabiskan hingga 40 persen waktu produktif seseorang. Itu perkiraannya, bukan hasil pengukuran eksperimen tadi.
 
 ### Menyusun Rute Harianmu
 

@@ -31,6 +31,6 @@ Dalam studi stilistika kuantitatif, novel ini secara konsisten menampilkan keuni
 
 *Mengapa latar belakang pendidikan sains atau kuantitatif seperti Statistika tetap dapat melahirkan karya sastra yang sangat emosional dan menyentuh hati? Bagaimana logika data dapat memperkuat kebenaran artistik dalam sebuah tulisan?*
 
-### Menuju Kesimpulan dan Rangkuman
+### Akhir Penelusuran Struktural dan Ekspresif
 
 Setelah menelusuri seluruh dimensi struktural dan ekspresif dari perjalanan hidup pengarang, kita telah sampai pada akhir analisis ini. Di bab penutup berikutnya, kita akan merangkum kesimpulan akhir, memberikan saran akademis, serta menyajikan daftar referensi ilmiah yang mendukung kajian ini.

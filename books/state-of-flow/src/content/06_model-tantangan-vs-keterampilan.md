@@ -19,7 +19,7 @@ Secara matematis, kondisi *Flow* dapat digambarkan sebagai fungsi di mana tantan
 
 $$\text{Flow} \approx \text{Tantangan} = \text{Keterampilan}$$
 
-> **Insight Utama:** *Flow* bukanlah kondisi statis. Jika keterampilan kamu meningkat, tantangan yang sama akan menjadi membosankan. Untuk tetap berada dalam *Flow*, kamu harus mencari tantangan yang lebih tinggi. Ini adalah mekanisme alami pertumbuhan manusia.
+> **Insight Utama:** *Flow* bukanlah kondisi statis. Jika keterampilan kamu meningkat, tantangan yang sama akan menjadi membosankan. Agar bertahan dalam *Flow*, kamu harus mencari tantangan yang lebih tinggi. Ini adalah mekanisme alami pertumbuhan manusia.
 
 ## 2\. Tiga Wilayah Utama Pengalaman Mental
 
@@ -85,7 +85,7 @@ Seorang programmer junior diminta membangun arsitektur *microservices* yang komp
 
 ### Bermain Video Game
 
-Desainer game menggunakan model ini untuk menjaga pemain tetap setia. Jika level 1 terlalu sulit, pemain berhenti (*Anxiety*). Jika level 50 tetap mudah, pemain bosan (*Boredom*).
+Desainer game menggunakan model ini untuk menjaga pemain tetap setia. Jika level 1 terlalu sulit, pemain berhenti (*Anxiety*). Jika level 50 masih mudah, pemain bosan (*Boredom*).
 
 - **Solusi:** Tingkatkan kesulitan musuh seiring dengan bertambahnya senjata/kemampuan karakter pemain.
 

@@ -24,7 +24,7 @@ Yang membuat efek ini berbahaya bukan cuma keberadaannya, tapi betapa sulitnya d
 
 **Ia muncul pada judul berita palsu.** Pennycook, Cannon, dan Rand pada tahun 2018 menunjukkan sekadar satu kali paparan terhadap judul berita palsu sudah cukup menaikkan penilaian akurasinya saat judul itu muncul lagi. Satu kali, bukan puluhan.
 
-**Ia relatif tidak bergantung pada kecerdasan.** Orang analitis dan cerdas pun tetap terpengaruh. Ini bukan soal pintar atau bodoh, tapi cara kerja dasar otak manusia: efek ini tidak lewat pintu depan penalaran sadar, tapi lewat pintu belakang rasa familiar.
+**Ia relatif tidak bergantung pada kecerdasan.** Orang analitis dan cerdas sekalipun terpengaruh. Ini bukan soal pintar atau bodoh, tapi cara kerja dasar otak manusia: efek ini tidak lewat pintu depan penalaran sadar, tapi lewat pintu belakang rasa familiar.
 
 ### Dari percaya ke membagikan
 
@@ -75,6 +75,6 @@ Kabar baiknya, efek ini bukan takdir. Ada dua hal yang terbukti menekannya, dan 
 
 ## Recap
 
-Efek kebenaran ilusi adalah kecenderungan menilai pernyataan yang diulang sebagai lebih benar, semata karena diulang. Mesinnya adalah kefasihan pemrosesan: otak salah membaca yang familiar dan mudah dicerna sebagai yang benar. Efek ini bandel, ia mengenai klaim benar maupun salah, bertahan meski kamu tahu jawaban sebenarnya, muncul cuma dari satu kali paparan judul palsu, dan tidak pandang bulu soal kecerdasan. Karena rasa benar mendorong niat membagikan, terbentuk lingkaran paparan, percaya, dan sebar yang jadi bahan bakar utama propaganda, iklan, dan politik. Ukuran efeknya kecil namun sangat konsisten lintas puluhan studi, dan justru konsistensi itulah yang membuatnya berbahaya di skala jutaan paparan. Untungnya, menilai akurasi sejak awal dan koreksi yang tegas terbukti bisa menekannya.
+Efek kebenaran ilusi adalah kecenderungan menilai pernyataan yang diulang sebagai lebih benar, semata karena diulang. Mesinnya adalah kefasihan pemrosesan: otak salah membaca yang familiar dan mudah dicerna sebagai yang benar. Efek ini bandel, ia mengenai klaim benar maupun salah, bertahan meski kamu tahu jawaban sebenarnya, muncul cuma dari satu kali paparan judul palsu, dan tidak pandang bulu soal kecerdasan. Karena rasa benar mendorong niat membagikan, terbentuk lingkaran paparan, percaya, dan sebar yang jadi bahan bakar utama propaganda, iklan, dan politik. Ukuran efeknya kecil namun sangat konsisten lintas puluhan studi, dan konsistensi itulah yang membuatnya berbahaya di skala jutaan paparan. Untungnya, menilai akurasi sejak awal dan koreksi yang tegas terbukti bisa menekannya.
 
 Sampai sini kita sudah melihat bagaimana pengulangan yang dingin dan mekanis bisa membajak rasa benar. Tapi ada bahan bakar lain yang jauh lebih panas dan bergerak jauh lebih cepat: perasaanmu sendiri. Di modul berikutnya kita masuk ke **Emosi, Kemarahan Moral, dan Mesin Viralitas**, tempat kita akan melihat kenapa konten yang membuatmu marah justru yang paling gampang menyebar.

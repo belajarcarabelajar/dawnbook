@@ -13,7 +13,7 @@ Untuk mencapai keseimbangan, inti tersebut mengubah salah satu neutronnya menjad
 1. **Elektron ($\beta^-$)**: Bergerak dengan kecepatan sangat tinggi.
 2. **Antineutrino elektron ($\bar{\nu}_e$)**: Partikel hantu yang hampir tidak bermassa dan tidak bermuatan.
 
-> **Analogi Sederhana:** Bayangkan seorang pemain sepak bola yang kelebihan berat badan (neutron) sehingga gerakannya lambat dan tidak stabil. Untuk menjadi pemain yang lincah dan stabil (proton), ia harus melepaskan beban ekstra (elektron) dan keringat yang tak terlihat (antineutrino). Pemain tersebut tetap orang yang sama di tim, tetapi sifatnya berubah.
+> **Analogi Sederhana:** Bayangkan seorang pemain sepak bola yang kelebihan berat badan (neutron) sehingga gerakannya lambat dan tidak stabil. Untuk menjadi pemain yang lincah dan stabil (proton), ia harus melepaskan beban ekstra (elektron) dan keringat yang tak terlihat (antineutrino). Pemain tersebut masih orang yang sama di tim, tetapi sifatnya berubah.
 
 ## Dari Neutron ke Proton
 

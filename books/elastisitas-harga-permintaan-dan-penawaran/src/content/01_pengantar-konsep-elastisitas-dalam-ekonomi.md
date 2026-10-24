@@ -25,7 +25,7 @@ Seorang manajer harus tahu: *"Jika saya menaikkan harga produk saya sebesar 5%, 
 - Jika barang **inelastis**, perusahaan memiliki kekuatan pasar untuk menyesuaikan harga.
 ### 2. Kebijakan Publik dan Pajak
 Pemerintah menggunakan konsep elastisitas untuk menentukan barang mana yang akan dikenakan pajak tambahan (cukai).
-- **Kasus Rokok:** Pemerintah mengenakan pajak tinggi pada rokok karena rokok bersifat adiktif (inelastis). Meskipun harga naik karena pajak, orang tetap akan membelinya, sehingga pendapatan negara dari pajak meningkat tanpa mematikan industri tersebut secara mendadak.
+- **Kasus Rokok:** Pemerintah mengenakan pajak tinggi pada rokok karena rokok bersifat adiktif (inelastis). Meskipun harga naik karena pajak, orang akan membelinya, sehingga pendapatan negara dari pajak meningkat tanpa mematikan industri tersebut secara mendadak.
 ### 3. Prediksi Keseimbangan Pasar
 Dalam mikroekonomi, kita mempelajari bagaimana pasar mencapai keseimbangan. Elastisitas membantu kita memprediksi seberapa cepat pasar akan kembali ke titik normal setelah terjadi guncangan (seperti bencana alam atau perubahan teknologi).
 ## Perang Harga Supermarket

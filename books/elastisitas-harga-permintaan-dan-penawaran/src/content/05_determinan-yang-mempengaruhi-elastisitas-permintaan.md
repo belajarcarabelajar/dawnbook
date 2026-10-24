@@ -4,11 +4,11 @@ Setelah memahami apa itu elastisitas dan bagaimana cara menghitungnya pada bab s
 ## 1. Ketersediaan Barang Substitusi (Barang Pengganti)
 Ini adalah faktor yang paling utama. Bayangkan kamu sedang berada di sebuah *food court*. Jika stan "Ayam Goreng A" menaikkan harganya secara drastis, kamu dengan mudah bisa bergeser ke stan "Ayam Goreng B" atau "Mie Goreng C".
 - **Banyak Substitusi = Lebih Elastis:** Semakin banyak barang pengganti yang tersedia dan mirip fungsinya, permintaan akan semakin elastis. Konsumen memiliki banyak pilihan untuk "kabur" saat harga naik.
-- **Sedikit/Tidak Ada Substitusi = Inelastis:** Jika suatu barang unik atau tidak ada penggantinya (seperti bensin atau obat-obatan tertentu), konsumen terpaksa tetap membeli meskipun harga melonjak.
+- **Sedikit/Tidak Ada Substitusi = Inelastis:** Jika suatu barang unik atau tidak ada penggantinya (seperti bensin atau obat-obatan tertentu), konsumen terpaksa membeli meskipun harga melonjak.
 > **Analogi:** Bayangkan pintu keluar di sebuah gedung. Jika gedung memiliki 10 pintu keluar (substitusi), saat satu pintu ditutup/dihambat, orang akan dengan mudah lewat pintu lain. Namun jika hanya ada satu pintu (monopoli/tanpa substitusi), orang akan tetap mengantre di sana sesulit apa pun aksesnya.
 ## 2. Barang Kebutuhan vs. Barang Mewah
 Sejauh mana kamu "harus" memiliki barang tersebut sangat menentukan reaksi kamu terhadap harganya.
-- **Kebutuhan Pokok (Necessities):** Barang-barang seperti beras, listrik, dan air cenderung **inelastis**. Meskipun harganya naik, orang tetap akan membelinya karena sulit untuk bertahan hidup tanpanya.
+- **Kebutuhan Pokok (Necessities):** Barang-barang seperti beras, listrik, dan air cenderung **inelastis**. Meskipun harganya naik, orang terus membelinya karena sulit untuk bertahan hidup tanpanya.
 - **Barang Mewah (Luxuries):** Barang seperti jam tangan mahal, liburan ke luar negeri, atau perhiasan cenderung **elastis**. Jika harganya naik, orang bisa dengan mudah menunda pembelian atau membatalkannya karena barang tersebut bukan prioritas utama untuk bertahan hidup.
 Sebagai contoh, apakah smartphone saat ini masih tergolong barang mewah, atau sudah bergeser menjadi kebutuhan pokok bagi kamu? Pergeseran persepsi ini akan mengubah elastisitas permintaannya.
 ## 3. Proporsi Pendapatan yang Dihabiskan

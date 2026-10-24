@@ -78,4 +78,4 @@ Lingkungan fisik bukan hanya tentang apa yang bisa disentuh, tapi juga apa yang 
 
 > **Pesan Memorable:** "Tata letak kelas kamu adalah cetak biru dari perilaku yang kamu harapkan. Rancanglah untuk kesuksesan, bukan untuk kenyamanan penyimpanan semata."
 
-*Selanjutnya, kita akan membahas bagaimana mengisi ruang yang sudah dirancang ini dengan **Norma dan Kontrak Sosial** agar interaksi di dalamnya tetap harmonis.*
+*Selanjutnya, kita akan membahas bagaimana mengisi ruang yang sudah dirancang ini dengan **Norma dan Kontrak Sosial** agar interaksi di dalamnya harmonis.*

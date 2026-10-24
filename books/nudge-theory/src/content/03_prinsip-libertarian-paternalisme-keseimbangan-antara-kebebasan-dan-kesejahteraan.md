@@ -19,7 +19,7 @@ Bayangkan kamu menggunakan aplikasi GPS di ponsel.
 
 Dalam perjalanannya, GPS menyeimbangkan dua elemen:
 - **Sisi Paternalistik**: Aplikasi menyarankan rute tercepat agar kamu bisa sampai ke tujuan dengan efisien.
-- **Sisi Libertarian**: Kendali kemudi sepenuhnya tetap berada di tanganmu. Kamu bebas membelok ke jalan lain yang lebih indah, berhenti untuk membeli kopi, atau bahkan mengabaikan saran rute tersebut tanpa mendapat hukuman.
+- **Sisi Libertarian**: Kendali kemudi sepenuhnya tetap berada di tanganmu. Kamu bebas membelok ke jalan lain yang lebih indah, berhenti untuk membeli kopi, atau mengabaikan saran rute tersebut tanpa mendapat hukuman.
 
 ### Mengapa Kita Membutuhkan Filosofi Ini?
 

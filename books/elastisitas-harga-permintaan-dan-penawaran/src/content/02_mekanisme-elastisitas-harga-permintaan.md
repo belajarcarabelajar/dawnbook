@@ -8,7 +8,7 @@ Jika Hukum Permintaan memberi tahu kita **arah** (jika harga naik, permintaan tu
 ## Karet Gelang vs. Rantai Besi
 Untuk memahami mekanisme ini, bayangkan permintaan sebagai sebuah benda yang ditarik oleh kekuatan harga:
 1. **Permintaan Elastis (Karet Gelang):** Beberapa barang memiliki permintaan yang sangat fleksibel seperti karet gelang. Sedikit saja kamu "menarik" harganya ke atas, jumlah permintaan akan "meregang" atau menyusut dengan sangat drastis. Contohnya: Tiket pesawat liburan atau merek cokelat tertentu.
-2. **Permintaan Inelastis (Rantai Besi):** Barang lain bersifat kaku seperti rantai besi. Meskipun kamu menarik harganya dengan kuat, bentuknya hampir tidak berubah. Konsumen tetap membeli dalam jumlah yang hampir sama karena mereka merasa sangat membutuhkannya. Contohnya: Obat-obatan esensial atau garam dapur.
+2. **Permintaan Inelastis (Rantai Besi):** Barang lain bersifat kaku seperti rantai besi. Meskipun kamu menarik harganya dengan kuat, bentuknya hampir tidak berubah. Konsumen membeli dalam jumlah yang hampir sama karena mereka merasa sangat membutuhkannya. Contohnya: Obat-obatan esensial atau garam dapur.
 ## Bagaimana Mekanisme Ini Bekerja di Pikiran Konsumen?
 Saat harga sebuah barang berubah, terjadi dua mekanisme psikologis dan ekonomi dalam diri konsumen yang mendorong elastisitas:
 ### 1. Efek Substitusi (Substitution Effect)
@@ -37,6 +37,6 @@ Mari kita lihat bagaimana mekanisme ini bekerja dalam praktik nyata melalui sken
 ## Mengapa Memahami Mekanisme Ini Penting? (Aplikasi Praktis)
 Memahami elastisitas bukan hanya tugas akademisi, tapi merupakan nyawa bagi sebuah bisnis dan kebijakan publik:
 - **Bagi Perusahaan (Strategi Harga):** Jika produkmu elastis, **jangan** menaikkan harga sembarangan karena total pendapatanmu justru bisa turun drastis. Sebaliknya, diskon kecil bisa memicu lonjakan penjualan yang luar biasa.
-- **Bagi Pemerintah (Kebijakan Pajak):** Pemerintah biasanya mengenakan pajak tinggi pada barang yang inelastis (seperti rokok atau alkohol). Mengapa? Karena meskipun harganya naik akibat pajak, orang akan tetap membelinya, sehingga penerimaan pajak negara tetap stabil.
+- **Bagi Pemerintah (Kebijakan Pajak):** Pemerintah biasanya mengenakan pajak tinggi pada barang yang inelastis (seperti rokok atau alkohol). Mengapa? Karena meskipun harganya naik akibat pajak, orang akan tetap membelinya, sehingga penerimaan pajak negara stabil.
 - **Bagi Pemasaran (Branding):** Tujuan utama dari *branding* dan iklan sebenarnya adalah untuk membuat permintaan produk menjadi **inelastis**. Loyalitas merek membuat konsumen tidak peduli pada kenaikan harga karena mereka sudah "jatuh cinta" pada produk tersebut.
 > **Insight Penutup:** Mekanisme elastisitas adalah jembatan antara angka-angka ekonomi dengan perilaku manusia. Memahaminya berarti memahami batasan seberapa jauh kita bisa mengubah harga sebelum pasar memberikan "hukuman" atau "hadiah" kepada kita.

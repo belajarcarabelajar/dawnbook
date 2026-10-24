@@ -18,9 +18,9 @@ Lapis ketiga adalah eksperimen lima dolar di awal bab. Kelebihannya paling menen
 
 ### Bukan gaya hidup khas orang kaya
 
-Kritik paling wajar terhadap temuan semacam ini terdengar seperti ini: mungkin itu cerita orang yang uangnya kelebihan. Memberi itu mudah kalau kantongmu penuh, begitu dugaannya. Riset lanjutan oleh tim yang sama dan para kolaboratornya menguji dugaan ini, dan hasilnya justru menampiknya. Pola yang sama muncul di berbagai budaya, dan tetap terlihat di negara-negara berpendapatan rendah, di tempat orang masih berjuang memenuhi kebutuhan sendiri. Kecenderungan merasakan kehangatan setelah memberi ternyata bukan barang mewah. Ia datang bersama manusia, bukan bersama rekening koran.
+Kritik paling wajar terhadap temuan semacam ini terdengar seperti ini: mungkin itu cerita orang yang uangnya kelebihan. Memberi itu mudah kalau kantongmu penuh, begitu dugaannya. Riset lanjutan oleh tim yang sama dan para kolaboratornya menguji dugaan ini, dan hasilnya menampiknya. Pola yang sama muncul di berbagai budaya, dan tetap terlihat di negara-negara berpendapatan rendah, di tempat orang masih berjuang memenuhi kebutuhan sendiri. Kecenderungan merasakan kehangatan setelah memberi ternyata bukan barang mewah. Ia datang bersama manusia, bukan bersama rekening koran.
 
-Ini penting untuk kamu yang sedang menunggu "kaya dulu, baru berbagi". Temuannya bilang sebaliknya: efeknya justru bisa dirasakan lewat nominal kecil yang nyata hari ini, bukan menunggu nominal besar yang suatu saat terasa "akan cukup".
+Ini penting untuk kamu yang sedang menunggu "kaya dulu, baru berbagi". Temuannya bilang sebaliknya: efeknya bisa dirasakan lewat nominal kecil yang nyata hari ini, bukan menunggu nominal besar yang suatu saat terasa "akan cukup".
 
 ### Membeli waktu
 
@@ -30,7 +30,7 @@ Ashley Whillans bersama koleganya menguji ini dalam riset yang dimuat di *PNAS* 
 
 Jawabannya: orang yang membeli waktu melaporkan kepuasan hidup yang lebih tinggi, dan polanya konsisten di empat negara dengan gaya hidup yang sangat berbeda.
 
-Ironisnya, kelompok yang paling mampu, orang-orang berpenghasilan tinggi, justru paling berat hati. Mereka merasa lebih bersalah membayar orang lain untuk pekerjaan yang "seharusnya" dikerjakan sendiri. Padahal dari semua cara menukar uang menjadi kesejahteraan, membeli kembali waktu termasuk salah satu yang paling efektif. Rasa bersalah itu mahal harganya, karena menghalangi penukaran yang justru menguntungkan diri sendiri.
+Ironisnya, kelompok yang paling mampu, orang-orang berpenghasilan tinggi, justru paling berat hati. Mereka merasa lebih bersalah membayar orang lain untuk pekerjaan yang "seharusnya" dikerjakan sendiri. Padahal dari semua cara menukar uang menjadi kesejahteraan, membeli kembali waktu termasuk salah satu yang paling efektif. Rasa bersalah itu mahal harganya, karena menghalangi penukaran yang menguntungkan diri sendiri.
 
 > Membeli waktu itu mirip memindahkan batu besar dari tengah jalan depan rumahmu. Batunya tidak hilang dari dunia, dan tangan yang menggerakkannya juga bukan tanganmu, tapi jalanmu akhirnya bisa dilalui. Pertanyaan lanjutannya cuma satu: kamu mau mengisi jalan yang kini lapang itu dengan apa?
 

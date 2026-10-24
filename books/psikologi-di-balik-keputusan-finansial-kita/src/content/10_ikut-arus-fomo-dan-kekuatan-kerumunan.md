@@ -6,7 +6,7 @@ Bayangkan pemandangan yang mungkin pernah kamu alami. Grafik di layar merayap na
 
 ### Kerumunan yang lahir dari sinyal sekecil
 
-Coba kita bongkar dengan skenario sederhana. Sebuah gerai minuman baru buka di lobi kantor kamu, berdampingan dengan gerai lama yang biasa kamu beli. Hari itu kamu melihat satu orang mengantre di gerai baru, sedangkan gerai lama kosong. Apa kesimpulanmu? Mungkin orang itu sudah mencoba dan tahu enak. Kamu ikut mengantre. Orang ketiga datang, melihat dua orang mengantre, dan mengambil kesimpulan yang sama. Orang kelima bahkan tidak berpikir lagi; empat orang di depannya sudah cukup sebagai bukti. Hasilnya, mulai dari titik tertentu, tidak ada orang dalam antrean yang benar-benar tahu rasanya minuman itu. Mereka semua bertindak atas dasar tindakan orang di depannya.
+Coba kita bongkar dengan skenario sederhana. Sebuah gerai minuman baru buka di lobi kantor kamu, berdampingan dengan gerai lama yang biasa kamu beli. Hari itu kamu melihat satu orang mengantre di gerai baru, sedangkan gerai lama kosong. Apa kesimpulanmu? Mungkin orang itu sudah mencoba dan tahu enak. Kamu ikut mengantre. Orang ketiga datang, melihat dua orang mengantre, dan mengambil kesimpulan yang sama. Orang kelima sudah tidak berpikir lagi; empat orang di depannya sudah cukup sebagai bukti. Hasilnya, mulai dari titik tertentu, tidak ada orang dalam antrean yang benar-benar tahu rasanya minuman itu. Mereka semua bertindak atas dasar tindakan orang di depannya.
 
 Ekonom Bikhchandani, Hirshleifer, dan Welch (1992) memberi nama pada fenomena ini dalam artikel mereka di Journal of Political Economy tentang fads, fashion, custom, dan perubahan budaya: **informational cascade**, air terjun informasi. Definisi mereka berbunyi, cascade terjadi ketika, setelah mengamati tindakan orang-orang di depannya, menjadi hal yang optimal bagi seseorang untuk mengikuti perilaku individu sebelumnya tanpa menghiraukan informasi miliknya sendiri.
 
@@ -16,7 +16,7 @@ Kata yang paling sering dilewatkan orang adalah **optimal**. Pengantri nomor lim
 
 Untuk memahami kenapa teori ini berbahaya, masuklah ke kepala pengantri. Setiap orang membawa dua jenis bahan keputusan. Pertama, informasi pribadi: pengamatan, riset kecil, atau firasatmu sendiri, yang pasti tidak sempurna. Kedua, tindakan orang lain, yang terlihat jelas di depan mata. Kalau satu-dua orang bertindak sama, itu masih bisa ditimbang melawan informasi pribadimu. Tapi ketika sembilan orang sudah membeli dan harga terus naik, timbunan tindakan publik itu terasa jauh lebih kuat daripada satu keraguan pribadi. Bikhchandani dan rekannya merangkum mekanismenya dengan tegas: pada titik tertentu, pengambil keputusan akan mengabaikan informasi pribadinya dan bertindak hanya berdasarkan informasi yang diperoleh dari keputusan-keputusan sebelumnya.
 
-> Ibaratnya kamu turun di stasiun kota yang baru pertama kali kamu datangi. Semua orang bergerak ke pintu keluar yang sama, jadi kamu mengikutinya tanpa membaca papan petunjuk. Kamu tidak bodoh, kamu justru memakai strategi yang hemat tenaga. Tapi bayangkan kalau orang pertama yang kamu ikuti sebenarnya hanya hendak ke kamar mandi.
+> Ibaratnya kamu turun di stasiun kota yang baru pertama kali kamu datangi. Semua orang bergerak ke pintu keluar yang sama, jadi kamu mengikutinya tanpa membaca papan petunjuk. Kamu tidak bodoh, melainkan memakai strategi yang hemat tenaga. Tapi bayangkan kalau orang pertama yang kamu ikuti sebenarnya hanya hendak ke kamar mandi.
 
 Kalimat terakhir tadi adalah inti masalahnya. Dalam cascade, tidak ada yang tahu persis apa yang dulu memicu kerumunan. Pembeli pertama mungkin punya alasan yang sangat pribadi dan sepele, bukan analisis yang mendalam. Tapi bagi pengikut kedua, tindakan itu terbaca sebagai informasi. Bagi pengikut kesepuluh, ia sudah menjadi bukti. Di pasar, pola ini melengkung menjadi lingkaran yang kamu kenal: harga naik karena semua orang membeli, dan semua orang membeli karena harga naik. Tidak perlu konspirasi, tidak perlu dalang. Cukup satu keputusan kecil yang terlihat, lalu strategi hemat tenaga yang sama dijalankan ribuan kepala sekaligus.
 
@@ -36,7 +36,7 @@ Konsekuensinya praktis. Karena fondasinya tipis, tindakan yang terlihat dari beb
 
 Kabar baiknya, teori ini menunjukkan persis letak kelemahannya: informasi pribadi yang dibuang.
 
-Pertama, pisahkan dua bahan keputusan itu sebelum membuka aplikasi. Tanyakan pada dirimu: kalau tidak ada satu pun orang yang terlihat membeli, apakah saya tetap akan membeli ini? Kalau jawabannya tidak, kamu baru saja menemukan bahwa yang kamu ikuti adalah kerumunan, bukan analisis.
+Pertama, pisahkan dua bahan keputusan itu sebelum membuka aplikasi. Tanyakan pada dirimu: kalau tidak ada orang yang terlihat membeli, apakah saya tetap akan membeli ini? Kalau jawabannya tidak, kamu baru saja menemukan bahwa yang kamu ikuti adalah kerumunan, bukan analisis.
 
 Kedua, ingat bahwa tindakan yang terlihat tidak sama dengan pengetahuan yang mendalam. Pengantri pertama bisa saja sekadar haus. Menanyakan alasan orang pertama, bukan menghitung jumlah pengikutnya, adalah kebiasaan jarang yang murah.
 

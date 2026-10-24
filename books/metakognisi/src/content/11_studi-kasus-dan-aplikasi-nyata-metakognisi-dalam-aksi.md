@@ -32,7 +32,7 @@ Mari kita lihat beberapa contoh praktis saat pola pikir ini diterapkan dalam ber
 1. **Perencanaan (Framing the Problem):**
 	- Rina menetapkan batasan masalahnya: tujuan utama keputusan ini adalah menjaga pertumbuhan perusahaan tanpa mengambil risiko finansial yang berlebihan.
 		- Ia menjadwalkan pengumpulan data dari berbagai divisi, mulai dari tim riset pasar, tim teknis, hingga keuangan.
-		- Ia juga mewaspadai kecenderungannya sendiri terhadap *bias konfirmasi* (rasa ingin mencari data yang hanya membenarkan firasat awalnya). Ia pun secara sengaja mencari data pembanding yang berpotensi mematahkan asumsinya.
+		- Ia juga mewaspadai kecenderungannya sendiri terhadap *bias konfirmasi* (rasa ingin mencari data yang hanya membenarkan firasat awalnya). Ia secara sengaja mencari data pembanding yang berpotensi mematahkan asumsinya.
 2. **Pemantauan (Monitoring the Decision Process):**
 	- Sambil mengumpulkan data, Rina memantau jalannya diskusi. Ia bertanya pada dirinya sendiri, "Adakah variabel yang belum masuk pertimbangan?" dan "Apakah aku lebih condong ke produk B cuma karena aku malas mengelola risiko produk A?"
 		- Ia sengaja memancing perdebatan sehat di antara anggota timnya, meminta mereka mencari kelemahan dari masing-masing pilihan produk.

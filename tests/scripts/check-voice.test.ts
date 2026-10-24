@@ -40,6 +40,10 @@ describe("voiceViolations generic caps", () => {
       ["stock connector", 0],
       ["bab berikutnya", 0],
       ["tokoh kita", 2],
+      ["crutch words", 4],
+      ["diperhatikan opener", 0],
+      ["bridge heading", 0],
+      ["chapter announcement", 2],
     ]);
   });
 
@@ -84,6 +88,54 @@ describe("voiceViolations generic caps", () => {
   test("tokoh kita allows two and flags three", () => {
     expect(voiceViolations("05_x.md", "tokoh kita lelah, tokoh kita tidur")).toEqual([]);
     expect(voiceViolations("05_x.md", "tokoh kita lelah, tokoh kita tidur, tokoh kita bangun")).toEqual(["tokoh kita x3 (max 2)"]);
+  });
+});
+
+describe("crutch words and near-miss scaffolds", () => {
+  test("tetap, pun, bahkan and justru are capped at 4 per chapter together", () => {
+    expect(voiceViolations("05_x.md", "Ia tetap datang. Kamu pun ikut. Bahkan hujan. Justru itu. Ia tetap pergi.")).toEqual([
+      "crutch words x5 (max 4)",
+    ]);
+    expect(voiceViolations("05_x.md", "Ia tetap datang. Kamu pun ikut. Bahkan hujan. Justru itu.")).toEqual([]);
+  });
+
+  test("indefinite compounds with pun and technical fixed terms with tetap are not crutch words", () => {
+    const md = "Apa pun, siapa pun, di mana pun, berapa pun, kapan pun. Biaya tetap, aset tetap, pola pikir tetap. Ia tetap datang.";
+    expect(voiceViolations("05_x.md", md)).toEqual([]);
+  });
+
+  test("\"pola pikir tetap\" (fixed mindset) is a term, not a crutch word", () => {
+    const four = "Ia tetap datang. Kamu pun ikut. Bahkan hujan. Justru itu.";
+    expect(voiceViolations("05_x.md", four + " Pola pikir tetap berbeda.")).toEqual([]);
+    expect(voiceViolations("05_x.md", four + " Ia tetap pergi.")).toEqual(["crutch words x5 (max 4)"]);
+  });
+
+  test("words inside a link target are not counted", () => {
+    const four = "Ia tetap datang. Kamu pun ikut. Bahkan hujan. Justru itu.";
+    expect(voiceViolations("05_x.md", four + " Lihat [aturan](https://x.example/Berpenghasilan-Tetap.html).")).toEqual([]);
+    expect(voiceViolations("05_x.md", four + " Ia tetap pergi.")).toEqual(["crutch words x5 (max 4)"]);
+  });
+
+  test("crutch words inside a fenced code block are not counted", () => {
+    const md = "Teks.\n\n```text\ntetap pun bahkan justru tetap\n```\n";
+    expect(voiceViolations("05_x.md", md)).toEqual([]);
+  });
+
+  test("Kalau or Jika diperhatikan is a stock connector", () => {
+    expect(voiceViolations("05_x.md", "Kalau diperhatikan, polanya sama.")).toEqual(["diperhatikan opener x1 (max 0)"]);
+    expect(voiceViolations("05_x.md", "Jika diperhatikan, polanya sama.")).toEqual(["diperhatikan opener x1 (max 0)"]);
+    expect(voiceViolations("05_x.md", "Hal ini perlu diperhatikan.")).toEqual([]);
+  });
+
+  test("a heading that starts with Menuju is a bridge heading", () => {
+    expect(voiceViolations("05_x.md", "### Menuju Ruang Cerita\n\nTeks.")).toEqual(["bridge heading x1 (max 0)"]);
+    expect(voiceViolations("05_x.md", "Kita bergerak menuju ruang cerita.")).toEqual([]);
+  });
+
+  test("chapter announcements are capped at 2", () => {
+    const two = "Pada bab ini kita mulai. Dalam bab ini ada contoh.";
+    expect(voiceViolations("05_x.md", two)).toEqual([]);
+    expect(voiceViolations("05_x.md", two + " Bab ini akan selesai.")).toEqual(["chapter announcement x3 (max 2)"]);
   });
 });
 

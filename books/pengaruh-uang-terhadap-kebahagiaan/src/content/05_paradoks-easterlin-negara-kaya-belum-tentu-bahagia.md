@@ -57,7 +57,7 @@ Jadi mana yang benar setelah dua kubu saling menunjuk data? Mari kita rangkai ja
 
 Klaim paling radikal, yaitu "pertumbuhan tidak membeli apa-apa bagi kebahagiaan rata-rata", tidak didukung data. Versi paradoks yang terlalu kuat itulah yang paling mudah dipatahkan.
 
-Klaim yang lebih hati-hati justru tetap bertahan: **pertumbuhan membeli lebih sedikit dari dugaan, dan sebagian manfaatnya dimakan oleh perbandingan sosial**. Uang tetap berhubungan dengan kesejahteraan, tapi hubungan itu tidak sekencang imajinasi kita, dan sebagian dari apa yang dibelinya menguap begitu semua orang memilikinya. Bagian kedua klaim ini bukan tebakan kosong: di bab 6, ekonom Erzo Luttmer menunjukkan bagaimana gaji tetangga bisa membuat gaji kita sendiri terasa kurang.
+Klaim yang lebih hati-hati tetap bertahan: **pertumbuhan membeli lebih sedikit dari dugaan, dan sebagian manfaatnya dimakan oleh perbandingan sosial**. Uang tetap berhubungan dengan kesejahteraan, tapi hubungan itu tidak sekencang imajinasi kita, dan sebagian dari apa yang dibelinya menguap begitu semua orang memilikinya. Bagian kedua klaim ini bukan tebakan kosong: di bab 6, ekonom Erzo Luttmer menunjukkan bagaimana gaji tetangga bisa membuat gaji kita sendiri terasa kurang.
 
 ### Kenapa ini relevan untuk kita di Indonesia
 

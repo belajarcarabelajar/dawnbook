@@ -16,11 +16,11 @@ Untungnya, hasil kerja kasar ini tidak hilang lagi. Tunggul dan dahan yang sudah
 
 Naluri pertama biasanya ingin membabat semuanya sekaligus. Panduan resminya justru menyarankan kebalikannya. Beberapa hari awal musim semi cukup dipakai untuk membersihkan satu petak kecil, sekitar 13 x 13, yang muat untuk dicangkul dan ditanami. Uang masih tipis dan alat belum bagus, sehingga tanaman yang terlalu banyak hanya akan menelan seluruh harimu untuk merawatnya. Ladang baru pantas diperluas ketika alat sudah lebih baik dan ada yang ikut membantu.
 
-Letaknya pun dipilih dengan sengaja, yaitu di dekat Harvest Bin, tidak jauh dari rumah. Jarak dari tanaman ke tempat hasil panen dikumpulkan jadi pendek, dan setiap langkah kerja langsung bertemu hasilnya.
+Letaknya dipilih dengan sengaja, yaitu di dekat Harvest Bin, tidak jauh dari rumah. Jarak dari tanaman ke tempat hasil panen dikumpulkan jadi pendek, dan setiap langkah kerja langsung bertemu hasilnya.
 
 ### Lobak Pertama
 
-Benih pertama ditentukan oleh isi dompet: beberapa bungkus lobak (*Turnip*), murah dan cepat tumbuh. Caranya pun hemat tenaga: cangkul area 3 x 3 dan biarkan petak tengahnya kosong. Alat awal tidak menjangkau petak tengah itu saat menyiram, dan celah kosong itu memberimu jalan untuk melompati tanaman. Setelah itu tinggal satu kebiasaan yang harus kamu pegang, yaitu menyiram setiap hari. Tanaman tidak tumbuh pada hari kamu lupa menyiramnya, kecuali hujan turun dan menyirami semuanya sekaligus. Kalau kamu rajin, lima hari kemudian petak kecil itu penuh lobak siap panen.
+Benih pertama ditentukan oleh isi dompet: beberapa bungkus lobak (*Turnip*), murah dan cepat tumbuh. Caranya juga hemat tenaga: cangkul area 3 x 3 dan biarkan petak tengahnya kosong. Alat awal tidak menjangkau petak tengah itu saat menyiram, dan celah kosong itu memberimu jalan untuk melompati tanaman. Setelah itu tinggal satu kebiasaan yang harus kamu pegang, yaitu menyiram setiap hari. Tanaman tidak tumbuh pada hari kamu lupa menyiramnya, kecuali hujan turun dan menyirami semuanya sekaligus. Kalau kamu rajin, lima hari kemudian petak kecil itu penuh lobak siap panen.
 
 Kamu memasukkannya ke Harvest Bin, dan pukul 17.00 Zack datang mengambilnya. Modalmu kembali, bahkan lebih. Lalu kamu ke Supermarket, membeli benih lagi, dan putaran kedua dimulai. Belum ada yang megah di sini. Hanya satu petak bersih, satu kali panen, dan uang untuk menanam lagi.
 
@@ -30,11 +30,11 @@ Skripsi yang belum disentuh, utang yang menumpuk, rumah yang berantakan, karier 
 
 Weick pernah menulis tentang kebuntuan semacam ini, meski untuk skala yang jauh lebih besar, seperti kelaparan, kejahatan, dan kemacetan ([Weick, 1984](https://doi.org/10.1037/0003-066X.39.1.40)). Masalah yang dibayangkan sebesar raksasa, katanya, sering justru menghalangi tindakan yang inovatif, karena melampaui batas daya pikir dan menaikkan ketegangan sampai mengganggu. Obatnya kemenangan kecil: hasil yang konkret, tuntas, dan sungguh terlaksana, dengan taruhan yang sedang-sedang saja. Satu kemenangan tampak remeh, tetapi rangkaiannya menarik sekutu dan meredam penentang.
 
-Ini argumen konseptual tentang masalah sosial, jadi membawanya ke target pribadi adalah perluasan kita sendiri, bukan klaim Weick. Gambarannya tetap pas: petak 13 x 13 yang sudah bersih adalah hasil konkret, bukan rencana.
+Ini argumen konseptual tentang masalah sosial, jadi membawanya ke target pribadi adalah perluasan kita sendiri, bukan klaim Weick. Gambarannya masih pas: petak 13 x 13 yang sudah bersih adalah hasil konkret, bukan rencana.
 
 ### Kemajuan yang Terasa di Hati
 
-Teresa Amabile dan Steven Kramer mendekati soal ini dari arah lain. Mereka membaca catatan harian para pekerja di tim-tim kreatif ([Amabile dan Kramer, 2011](https://hbr.org/2011/05/the-power-of-small-wins)) dan menemukan bahwa tidak ada yang lebih berkaitan dengan suasana batin yang baik daripada membuat kemajuan dalam pekerjaan yang bermakna. Langkah maju yang kecil pun ikut terhitung, sedangkan kemunduran kecil berkaitan dengan hari yang terasa sangat buruk. Datanya berupa laporan diri dan analisisnya korelasional, jadi temuan ini baru sebatas keterkaitan, belum sebab-akibat.
+Teresa Amabile dan Steven Kramer mendekati soal ini dari arah lain. Mereka membaca catatan harian para pekerja di tim-tim kreatif ([Amabile dan Kramer, 2011](https://hbr.org/2011/05/the-power-of-small-wins)) dan menemukan bahwa tidak ada yang lebih berkaitan dengan suasana batin yang baik daripada membuat kemajuan dalam pekerjaan yang bermakna. Langkah maju yang kecil ikut terhitung, sedangkan kemunduran kecil berkaitan dengan hari yang terasa sangat buruk. Datanya berupa laporan diri dan analisisnya korelasional, jadi temuan ini baru sebatas keterkaitan, belum sebab-akibat.
 
 Lobak yang siap dipanen pada hari kelima bekerja dengan cara serupa. Ia hasil kecil yang terlihat, dan hasil seperti itu memberi pegangan untuk esok. Mulailah dari petak yang bisa kamu bereskan minggu ini, letakkan dekat dengan tempat hasilnya terasa, lalu ulangi.
 

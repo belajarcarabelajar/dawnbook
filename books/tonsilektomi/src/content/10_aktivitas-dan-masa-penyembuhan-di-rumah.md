@@ -20,7 +20,7 @@ Selama periode ini, kamu sebaiknya tetap berada di dalam rumah dan menghindari g
 
 ### 3. Transisi (Hari ke-8 - ke-14)
 
-Rasa nyeri biasanya mulai mereda, meskipun terkadang muncul sensasi nyeri yang menjalar ke telinga. Kamu boleh mulai bergerak lebih aktif di dalam rumah, tetapi tetap hindari olahraga berat. Makanan yang sedikit lebih padat juga sudah bisa dicoba secara bertahap.
+Rasa nyeri biasanya mulai mereda, meskipun terkadang muncul sensasi nyeri yang menjalar ke telinga. Kamu boleh mulai bergerak lebih aktif di dalam rumah, tetapi hindari olahraga berat. Makanan yang sedikit lebih padat juga sudah bisa dicoba secara bertahap.
 
 Ketiga fase itu dirangkum menurut urutan harinya di bawah ini.
 
@@ -71,9 +71,9 @@ Mari kita lihat bagaimana proses pemulihan berjalan pada Andi, seorang anak beru
 
 Pada tiga hari pertama, Andi hanya menghabiskan waktunya dengan beristirahat di tempat tidur sambil menonton film favoritnya. Sang ibu terus mengingatkan Andi untuk meminum seteguk air setiap 15 menit agar tenggorokan tidak mengering. 
 
-Memasuki hari ke-6, Andi mulai merasa sangat lapar dan ingin bermain sepeda di luar rumah. Namun, ibunya segera melarang karena masa ini merupakan waktu di mana keropeng amandel mulai terkelupas dan rawan berdarah. Sebagai gantinya, Andi diberikan es krim kesukaannya agar tetap tenang di rumah.
+Memasuki hari ke-6, Andi mulai merasa sangat lapar dan ingin bermain sepeda di luar rumah. Namun, ibunya segera melarang karena masa ini merupakan waktu di mana keropeng amandel mulai terkelupas dan rawan berdarah. Sebagai gantinya, Andi diberikan es krim kesukaannya agar tenang di rumah.
 
-Pada hari ke-11, rasa nyeri Andi sudah sangat mereda sehingga ia mulai bisa menelan roti lunak dengan nyaman. Akhirnya, pada hari ke-14, dokter memberikan izin bagi Andi untuk kembali bersekolah, meski ia tetap belum boleh mengikuti pelajaran olahraga selama satu minggu ke depan.
+Pada hari ke-11, rasa nyeri Andi sudah sangat mereda sehingga ia mulai bisa menelan roti lunak dengan nyaman. Akhirnya, pada hari ke-14, dokter memberikan izin bagi Andi untuk kembali bersekolah, meski ia belum boleh mengikuti pelajaran olahraga selama satu minggu ke depan.
 
 ## Rangkuman Checklist Pemulihan di Rumah
 

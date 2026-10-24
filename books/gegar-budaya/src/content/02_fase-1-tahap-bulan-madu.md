@@ -1,6 +1,6 @@
 ## Tahap Bulan Madu (The Honeymoon Phase)
 
-Pernahkah kamu merasa begitu bersemangat saat pertama kali menginjakkan kaki di tempat baru sehingga segala sesuatunya tampak sempurna? Aroma udaranya terasa berbeda, arsitektur bangunannya terlihat menakjubkan, bahkan kemacetan jalannya pun terasa seperti "pengalaman autentik" yang menarik.
+Pernahkah kamu merasa begitu bersemangat saat pertama kali menginjakkan kaki di tempat baru sehingga segala sesuatunya tampak sempurna? Aroma udaranya terasa berbeda, arsitektur bangunannya terlihat menakjubkan, bahkan kemacetan jalannya terasa seperti "pengalaman autentik" yang menarik.
 
 Selamat datang di **Fase Bulan Madu**. Ini adalah babak pertama dari perjalanan panjang gegar budaya, di mana dunia baru terlihat melalui kacamata berwarna merah jambu (*rose-colored glasses*).
 
@@ -47,7 +47,7 @@ Mari kita lihat contoh nyata bagaimana fase ini bermanifestasi:
 
 - **Interaksi:** Saat ia kesulitan menggunakan mesin penjual otomatis, seorang warga lokal membantunya dengan sopan. Aris berpikir, *"Orang Jepang benar-benar malaikat, mereka sangat membantu!"*
 - **Lingkungan:** Ia tidak keberatan harus berjalan kaki 15 menit ke stasiun setiap hari. Baginya, itu adalah *"Olahraga pagi yang menyegarkan di lingkungan yang bersih."*
-- **Perspektif:** Bahkan saat ia tidak mengerti menu restoran, ia justru merasa tertantang dan menganggapnya sebagai petualangan kuliner.
+- **Perspektif:** Saat ia tidak mengerti menu restoran, ia justru merasa tertantang dan menganggapnya sebagai petualangan kuliner.
 
 Dalam fase ini, Aris berada di puncak **Hipotesis Kurva U** (*U-Curve Hypothesis*, teori kurva U dalam adaptasi budaya). Ia belum merasakan kesulitan mencari tempat tinggal permanen, membayar pajak, atau menghadapi tekanan hierarki di kampus yang sebenarnya.
 

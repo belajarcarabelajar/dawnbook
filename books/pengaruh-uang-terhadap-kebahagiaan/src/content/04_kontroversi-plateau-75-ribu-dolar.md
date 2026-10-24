@@ -25,17 +25,17 @@ Sebelas tahun kemudian, Matthew Killingsworth dari Wharton, Universitas Pennsylv
 
 Skala penelitiannya tidak main-main: lebih dari 33.000 orang dewasa di Amerika Serikat, dengan sekitar 1,7 juta laporan pengalaman secara real-time. Kalau Kahneman dan Deaton membaca potret memori, Killingsworth merekam film yang sedang berjalan.
 
-Hasilnya justru kebalikan headline 2010. Kesejahteraan yang dialami orang terus naik seiring pendapatan, melewati 75.000 dolar, terus dan terus, tanpa tanda-tanda plateau. Ya, kecepatan kenaikannya melambat di pendapatan tinggi, tapi kurvanya tidak pernah berubah jadi garis datar.
+Hasilnya adalah kebalikan headline 2010. Kesejahteraan yang dialami orang terus naik seiring pendapatan, melewati 75.000 dolar, terus dan terus, tanpa tanda-tanda plateau. Ya, kecepatan kenaikannya melambat di pendapatan tinggi, tapi kurvanya tidak pernah berubah jadi garis datar.
 
 ### Ketika dua kubu duduk bersama
 
-Di sinilah cerita ini berubah dari perdebatan biasa menjadi contoh langka cara kerja sains. Dua peneliti itu tidak berbalas status di media sosial atau saling membongkar kelemahan di wawancara. Mereka justru membentuk kolaborasi adversarial, bersama Barbara Mellers sebagai penengah yang netral, dan tahun 2023 hasilnya dimuat di PNAS.
+Di sinilah cerita ini berubah dari perdebatan biasa menjadi contoh langka cara kerja sains. Dua peneliti itu tidak berbalas status di media sosial atau saling membongkar kelemahan di wawancara. Sebaliknya, mereka membentuk kolaborasi adversarial, bersama Barbara Mellers sebagai penengah yang netral, dan tahun 2023 hasilnya dimuat di PNAS.
 
 Dalam kolaborasi adversarial, dua kubu yang berseberangan membuka seluruh datanya, merancang analisis bersama, lalu menjalankan kedua metode pada data gabungan di bawah pengawasan mediator netral. Tujuannya bukan mencari pemenang, tapi menjelaskan klaim keduanya sekaligus.
 
 Kesimpulannya menyelesaikan misteri itu dengan jawaban yang tidak diduga banyak orang:
 
-- Untuk **mayoritas orang**, perasaan bahagia terus naik bersama pendapatan di atas 75.000 dolar, bahkan di atas 100.000 dolar. Bagi kelompok ini, memang tidak ada plafon yang terlihat.
+- Untuk **mayoritas orang**, perasaan bahagia terus naik bersama pendapatan di atas 75.000 dolar, termasuk di atas 100.000 dolar. Bagi kelompok ini, memang tidak ada plafon yang terlihat.
 - Tapi untuk **minoritas yang paling tidak bahagia**, sekitar 15 sampai 20 persen partisipan, kurvanya melandai di sekitar 100.000 dolar. Setelah titik itu, uang tambahan praktis tidak lagi mengubah perasaan mereka.
 
 Artinya, plateau itu nyata, tapi ia bukan hukum umum. Ia hanya berlaku untuk satu kelompok: mereka yang paling menderita. Dan bagi kelompok itu pun, garis datarnya berada di angka yang lebih tinggi daripada 75.000 dolar yang legendaris.
@@ -56,7 +56,7 @@ timeline
          : Minoritas paling tidak bahagia, sekitar 15 sampai 20 persen, melandai di sekitar 100 ribu dolar
 ```
 
-Pelajaran terpentingnya justru di luar angka-angka: uang tidak bisa memperbaiki kesedihan yang akarnya bukan uang. Kehilangan orang tersayang, depresi klinis, kesepian yang dalam. Untuk luka-luka seperti ini tambahan gaji tidak punya khasiat, dan itu bukan berarti uang gagal, melainkan karena masalahnya memang bukan jenis yang solusinya bisa dibeli.
+Pelajaran terpentingnya ada di luar angka-angka: uang tidak bisa memperbaiki kesedihan yang akarnya bukan uang. Kehilangan orang tersayang, depresi klinis, kesepian yang dalam. Untuk luka-luka seperti ini tambahan gaji tidak punya khasiat, dan itu bukan berarti uang gagal, melainkan karena masalahnya memang bukan jenis yang solusinya bisa dibeli.
 
 ### Kenapa dua studi bisa berpisah sejauh itu
 
