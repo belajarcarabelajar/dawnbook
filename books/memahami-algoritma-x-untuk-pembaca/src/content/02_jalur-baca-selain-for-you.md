@@ -28,7 +28,7 @@ List adalah cara paling langsung untuk memegang kendali atas siapa yang kamu bac
 
 Search melayani kebutuhan yang lain lagi: kamu datang membawa pertanyaan, bukan menunggu disodori. Pencarian lanjutan bisa menyaring berdasarkan kata (semua kata, frasa persis, salah satu kata, kata yang dikecualikan, tagar, dan bahasa), akun, tempat, serta tanggal. Fitur ini memerlukan sesi login di x.com. Hasil pencarian juga terbagi ke beberapa tab, termasuk Top dan Latest, jadi biasakan membuka keduanya sebelum menarik kesimpulan.
 
-### Explore dan Trends dengan Kacamata Kritis
+### Cara Kerja Explore dan Trends
 
 Explore sering disangka sama dengan For You di beranda, padahal berbeda. Menurut penjelasan resmi X tentang rekomendasi Explore, tab For You di Explore merekomendasikan Trends, Events, Topics, dan Videos secara personal. Tab Trending terikat pada lokasi tertentu dan dijelaskan sebagai tidak dipersonalisasi untuk setiap akun.
 

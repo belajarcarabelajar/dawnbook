@@ -31,7 +31,7 @@ Satu tindakan bisa memegang tiga peran berbeda. Ia bisa sekadar **dicatat** seba
 
 Report juga hanya tercantum di kolom USS, dan tidak masuk daftar utama keluaran prediksi model.
 
-### Kesal pun Tetap Bersuara
+### Interaksi karena Kesal Tetap Tercatat
 
 Bayangkan sebuah utas yang membuatmu jengkel. Kamu tidak memberi like, tetapi kamu membukanya lagi dan lagi, membaca setiap balasan, lalu mengetik bantahan. Klik, waktu baca, dan reply itu tetap bisa masuk ke riwayat aktivitasmu. Komentar marah tidak selalu berujung pada lebih banyak post bertopik sama, tetapi sistem mencatat interaksinya tanpa memahami alasannya. Bagi mesin, membuka berulang kali untuk menolak dan membuka berulang kali karena suka bisa tampak serupa.
 
