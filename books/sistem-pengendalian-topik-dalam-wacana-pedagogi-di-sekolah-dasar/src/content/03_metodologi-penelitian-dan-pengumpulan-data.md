@@ -1,6 +1,6 @@
 ## Metodologi Penelitian dan Konteks Tiga SD di Bogor
 
-Memahami dinamika wacana pedagogi di kelas sekolah dasar menuntut pendekatan penelitian yang mampu menangkap keragaman interaksi verbal secara alami. Pembelajaran Bahasa Indonesia di kelas tidak hanya berputar pada penyerapan materi, tetapi juga melibatkan pembagian giliran bicara antara guru dan siswa. Untuk membongkar mekanisme pengendalian topik tersebut, penelitian ini menerapkan pendekatan kualitatif deskriptif berbasis studi kasus.
+Memahami dinamika wacana pedagogi di kelas sekolah dasar menuntut pendekatan penelitian yang mampu menangkap keragaman interaksi verbal secara alami. Pembelajaran Bahasa Indonesia di kelas tidak hanya berputar pada penyerapan materi, tetapi juga melibatkan pembagian giliran bicara antara guru dan siswa. Untuk mengkaji mekanisme pengendalian topik tersebut, penelitian ini menerapkan pendekatan kualitatif deskriptif berbasis studi kasus.
 
 Melalui pendekatan kualitatif, interaksi lisan yang berlangsung selama proses belajar-mengajar dapat diamati, direkam, serta dianalisis tanpa memanipulasi situasi kelas.
 
@@ -47,7 +47,7 @@ Untuk menganalisis data transkripsi, penelitian ini mengacu pada kerangka teoret
 * **Interpretasi Praktik Wacana (Discourse Practice Interpretation)**: Mengkaji bagaimana wacana tersebut diproduksi oleh guru dan dikonsumsi serta direspons oleh siswa dalam ruang kelas.
 * **Penjelasan Praktis Sosiobudaya (Socio-cultural Practice)**: Menghubungkan pola interaksi kelas dengan struktur sosial dan nilai budaya yang berlaku di lingkungan sekolah.
 
-Dalam penelitian ini, fokus analisis dibatasi pada dua dimensi pertama, yaitu deskripsi ciri teks dan interpretasi praktik wacana. Pembatasan ini bertujuan memberikan penekanan mendalam pada sistem pengendalian topik guru sebagai basis utama untuk memahami dinamika wacana pedagogi di sekolah dasar.
+Dalam penelitian ini, fokus analisis dibatasi pada dua dimensi pertama, yaitu deskripsi ciri teks dan interpretasi praktik wacana. Pembatasan ini bertujuan memberikan penekanan pada sistem pengendalian topik guru sebagai basis utama untuk memahami dinamika wacana pedagogi di sekolah dasar.
 
 ---
 

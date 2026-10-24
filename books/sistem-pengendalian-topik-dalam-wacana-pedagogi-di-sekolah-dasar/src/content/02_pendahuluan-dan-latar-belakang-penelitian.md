@@ -2,7 +2,7 @@
 
 Dalam studi pendidikan, perhatian peneliti sering kali tertuju pada komponen fisik dan administratif pembelajaran. Evaluasi terhadap kurikulum, penyusunan bahan ajar, pemilihan metode pengajaran, hingga pengembangan media pembelajaran digital mendominasi ruang kajian akademis. Namun, ada satu dimensi mendasar yang kerap terabaikan: bagaimana proses belajar-mengajar tersebut sesungguhnya mewujud dalam tindak tutur sehari-hari di dalam kelas.
 
-Kajian wacana pedagogi (*pedagogic discourse*) atau wacana kelas (*classroom discourse*) hadir untuk mengisi ruang kosong ini. Melalui kacamata linguistik terapan, kelas tidak lagi dilihat hanya sebagai ruang fisik tempat materi disampaikan, melainkan sebagai sebuah ekosistem komunikasi yang memiliki struktur bahasa dan norma sosial tersendiri.
+Kajian wacana pedagogi (*pedagogic discourse*) atau wacana kelas (*classroom discourse*) hadir untuk mengisi ruang kosong ini. Melalui kacamata linguistik terapan, kelas tidak lagi dilihat hanya sebagai ruang fisik tempat materi disampaikan, melainkan sebagai sebuah lingkungan komunikasi yang memiliki struktur bahasa dan norma sosial tersendiri.
 
 > "Kajian wacana pedagogi memberikan bekal pengetahuan mendasar untuk memahami hubungan riil antara teori pedagogi dan praktisnya di lapangan."
 > (Coulthard & Brazil, 1989)
@@ -15,7 +15,7 @@ McCarthy (1991) menekankan bahwa analisis wacana memberi pendidik landasan kuat 
 
 ### Kerangka Struktur Wacana Sinclair dan Coulthard
 
-Salah satu kontribusi terbesar dalam kajian wacana kelas dirumuskan oleh Sinclair dan Coulthard (1975). Mereka menyusun hirarki wacana pedagogi yang menjelaskan bagaimana tuturan di dalam kelas terorganisasi secara berjenjang.
+Salah satu kerangka kajian wacana kelas dirumuskan oleh Sinclair dan Coulthard (1975). Mereka menyusun hirarki wacana pedagogi yang menjelaskan bagaimana tuturan di dalam kelas terorganisasi secara berjenjang.
 
 | Tingkatan Wacana | Deskripsi Fungsi dalam Kelas | Contoh dalam Kelas Sekolah Dasar |
 | :--- | :--- | :--- |
@@ -51,16 +51,16 @@ Berikut adalah perbandingan pola komunikasi yang mendominasi kelas konvensional 
 Menganalisis wacana kelas memberikan manfaat praktis yang langsung menyentuh kualitas pembelajaran di Sekolah Dasar:
 
 1. **Mengungkap Pola Tersembunyi:** Membantu pendidik menyadari pola tuturan mereka sendiri yang mungkin tanpa disadari menghambat partisipasi siswa.
-2. **Pengembangan Strategi Pembelajaran:** Memberi petunjuk konkret tentang bagaimana menyusun pertanyaan yang membuka ruang diskusi daripada pertanyaan tutup yang mematikan inisiatif siswa.
+2. **Pengembangan Strategi Pembelajaran:** Memberi petunjuk konkret tentang bagaimana menyusun pertanyaan yang membuka ruang diskusi daripada pertanyaan tutup yang tidak memberi ruang bagi inisiatif siswa.
 3. **Penilaian Kualitas Buku dan Bahan Ajar:** Memastikan bahwa contoh dialog dan instruksi dalam buku teks mencerminkan komunikasi autentik yang membimbing siswa berbahasa aktif.
 
-Dengan memahami wacana kelas sebagai objek kajian yang kaya, kamu dapat melihat bahwa keberhasilan pendidikan tidak hanya ditentukan oleh apa yang diajarkan, tetapi juga oleh bagaimana bahasa digunakan untuk membangun hubungan belajar yang memberdayakan.
+Dengan memahami wacana kelas sebagai objek kajian, kamu dapat melihat bahwa keberhasilan pendidikan tidak hanya ditentukan oleh apa yang diajarkan, tetapi juga oleh bagaimana bahasa digunakan untuk membangun hubungan belajar.
 
 ---
 
 ### Rangkuman & Pertanyaan Refleksi 2
 
-Analisis wacana pedagogi membuka wawasan bahwa kelas merupakan arena komunikasi yang kaya struktur dan dinamika kekuasaan. Melalui kerangka Sinclair & Coulthard serta pandangan Fairclough, kita dapat memahami bahwa pola interaksi harian bentuknya sangat dipengaruhi oleh alokasi hak bertutur dan strategi kebahasaan yang digunakan oleh guru.
+Analisis wacana pedagogi menunjukkan bahwa kelas merupakan tempat komunikasi yang memiliki struktur dan dinamika kekuasaan. Melalui kerangka Sinclair & Coulthard serta pandangan Fairclough, kita dapat memahami bahwa pola interaksi harian bentuknya sangat dipengaruhi oleh alokasi hak bertutur dan strategi kebahasaan yang digunakan oleh guru.
 
 1. **Refleksi Utama:** Setelah mempelajari struktur interaksi kelas, apakah pola tutur di kelas tempat kamu mengajar atau mengamati lebih didominasi oleh pola IRF kaku atau sudah memberi ruang bagi inisiatif siswa?
 2. **Penerapan Praktis:** Langkah konkret apa yang dapat kamu ambil untuk mengubah pola umpan balik (*feedback*) evaluatif menjadi umpan balik eksploratif yang merangsang keberanian siswa Sekolah Dasar untuk bertanya?

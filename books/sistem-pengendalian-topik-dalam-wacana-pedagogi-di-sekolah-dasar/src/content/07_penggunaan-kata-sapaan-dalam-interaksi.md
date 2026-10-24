@@ -1,8 +1,8 @@
 ## Penggunaan Kata Sapaan dalam Navigasi Interaksi Kelas
 
-Dalam wacana kelas sekolah dasar, bahasa tidak hanya menyampaikan materi, tetapi juga mengatur tata tertib komunikasi dan hubungan antarpenutur. Salah satu piranti kebahasaan yang memegang peran mendasar dalam dinamika ini adalah kata sapaan. Bentuk-bentuk sapaan seperti *Pak*, *Bu*, *Anak-anak*, serta pemanggilan nama diri siswa berfungsi sebagai kemudi navigasi yang mengarahkan perhatian, mengalokasikan giliran bicara, dan menjaga alur topik wacana.
+Dalam wacana kelas sekolah dasar, bahasa tidak hanya menyampaikan materi, tetapi juga mengatur tata tertib komunikasi dan hubungan antarpenutur. Salah satu piranti kebahasaan yang memegang peran mendasar dalam dinamika ini adalah kata sapaan. Bentuk-bentuk sapaan seperti *Pak*, *Bu*, *Anak-anak*, serta pemanggilan nama diri siswa berfungsi mengarahkan perhatian, mengalokasikan giliran bicara, dan menjaga alur topik wacana.
 
-Ketika guru berdiri di depan kelas dan mengucapkan kata sapaan tertentu, interaksi sosial langsung terbentuk. Sapaan menetapkan siapa yang berhak berbicara, siapa yang harus mendengarkan, serta bagaimana topik percakapan dimulai atau dialihkan. Oleh karena itu, analisis kata sapaan memberikan gambaran jernih mengenai cara otoritas dan keakraban dikelola dalam wacana pedagogi.
+Ketika guru berdiri di depan kelas dan mengucapkan kata sapaan tertentu, interaksi sosial langsung terbentuk. Sapaan menetapkan siapa yang berhak berbicara, siapa yang harus mendengarkan, serta bagaimana topik percakapan dimulai atau dialihkan. Oleh karena itu, analisis kata sapaan memberikan gambaran mengenai cara otoritas dan keakraban dikelola dalam wacana pedagogi.
 
 ---
 
@@ -27,7 +27,7 @@ Kata sapaan dalam interaksi kelas sekolah dasar terbagi ke dalam beberapa katego
 
 ### Kata Sapaan sebagai Alat Alokasi Giliran dan Pengendalian Topik
 
-Dalam struktur interaksi *Initiation-Response-Feedback* (IRF), penyampaian pertanyaan atau perintah oleh guru sering kali disertai kata sapaan nama siswa. Teknik ini bertujuan memastikan bahwa hanya siswa yang ditunjuk yang mengambil giliran bicara, sehingga percakapan kelas tetap teratur dan tidak terjadi dorongan ujaran massal yang saling bertabrakan.
+Dalam struktur interaksi *Initiation-Response-Feedback* (IRF), penyampaian pertanyaan atau perintah oleh guru sering kali disertai kata sapaan nama siswa. Teknik ini bertujuan memastikan bahwa hanya siswa yang ditunjuk yang mengambil giliran bicara, sehingga percakapan kelas tetap teratur dan siswa tidak berbicara bersamaan.
 
 Mari cermati contoh pertukaran dialogik di bawah ini yang memperlihatkan bagaimana sapaan nama digunakan untuk menunjuk penutur dan memfokuskan topik pelajaran.
 
@@ -39,7 +39,7 @@ Mari cermati contoh pertukaran dialogik di bawah ini yang memperlihatkan bagaima
 | **04** | Respons | Siti | Mengajak warga desa untuk membersihkan sampah di aliran sungai, Bu. |
 | **05** | Evaluasi | Guru | Bagus sekali, **Siti**. Jawabanmu tepat. |
 
-Pada pertukaran di atas, guru menggunakan sapaan kolektif *"anak-anak"* pada gerakan pembuka untuk mengikat perhatian seluruh kelas. Namun, saat merespons riuh siswa yang berebut menjawab, guru menyaring arus komunikasi dengan memanggil sapaan spesifik *"Siti"*. Pemanggilan nama ini membatasi hak jawab secara individual dan mengarahkan topik ke pendalaman isi drama.
+Pada pertukaran di atas, guru menggunakan sapaan kolektif *"anak-anak"* pada gerakan pembuka untuk menarik perhatian seluruh kelas. Namun, saat merespons siswa yang berebut menjawab, guru memilih satu penjawab dengan memanggil sapaan spesifik *"Siti"*. Pemanggilan nama ini membatasi hak jawab secara individual dan mengarahkan topik ke pendalaman isi drama.
 
 ---
 
@@ -72,7 +72,7 @@ Berikut contoh pertukaran dialogik yang menggambarkan transisi dari sapaan kolek
 | **04** | Respons | Doni | Siswa harus membawa tempat makan sendiri dari rumah, Pak. |
 | **05** | Evaluasi | Guru | Bagus sekali sarannya. Nah, anak-anak sekalian, mari kita catat ide Doni ini di papan tulis. |
 
-Dalam tabel di atas, guru memanfaatkan kata sapaan *"Doni"* pada gerakan 03 untuk memberikan panggung penalaran kepada Doni, sebelum mengembalikan topik ke forum umum pada gerakan 05 dengan kata sapaan kolektif *"anak-anak sekalian"*. Penggabungan strategi ini menjaga keseimbangan antara partisipasi personal dan kebersamaan kelompok.
+Dalam tabel di atas, guru memanfaatkan kata sapaan *"Doni"* pada gerakan 03 untuk memberi Doni giliran menyampaikan penalarannya, sebelum mengembalikan topik ke forum umum pada gerakan 05 dengan kata sapaan kolektif *"anak-anak sekalian"*. Penggabungan strategi ini menjaga keseimbangan antara partisipasi personal dan kebersamaan kelompok.
 
 ---
 

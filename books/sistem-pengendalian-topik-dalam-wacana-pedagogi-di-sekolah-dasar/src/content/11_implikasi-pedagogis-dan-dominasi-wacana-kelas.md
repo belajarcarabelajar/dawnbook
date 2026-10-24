@@ -1,8 +1,8 @@
 ## Implikasi Pedagogis dan Transformasi Wacana Kelas
 
-Temuan empiris dalam wacana pedagogi sekolah dasar memperlihatkan ketimpangan yang amat nyata. Guru memegang kendali topik hingga 99%, sementara siswa hanya memiliki porsi 1% dalam mengarahkan pembicaraan. Pola dominatif ini tercermin dari kebiasaan guru yang mengulang jawaban siswa secara mekanis, memberikan umpan balik yang mengambang, serta minimnya penguatan positif berupa pujian.
+Temuan empiris dalam wacana pedagogi sekolah dasar memperlihatkan ketimpangan yang nyata. Guru memegang kendali topik hingga 99%, sementara siswa hanya memiliki porsi 1% dalam mengarahkan pembicaraan. Pola dominatif ini tercermin dari kebiasaan guru yang mengulang jawaban siswa secara mekanis, memberikan umpan balik yang mengambang, serta minimnya penguatan positif berupa pujian.
 
-Jika pola ini terus dibiarkan, kelas hanya menjadi panggung tunggal bagi guru. Siswa terbiasa menjadi pendengar pasif yang enggan mengajukan gagasan baru. Oleh karena itu, diperlukan langkah nyata untuk mengubah pola interaksi kaku ini menuju wacana kelas yang dialogis dan memberdayakan.
+Jika pola ini terus dibiarkan, kelas hanya menjadi tempat guru berbicara. Siswa terbiasa menjadi pendengar pasif yang enggan mengajukan gagasan baru. Oleh karena itu, diperlukan langkah nyata untuk mengubah pola interaksi kaku ini menuju wacana kelas yang dialogis.
 
 ### Realitas Masalah Komunikasi di Kelas
 
@@ -10,9 +10,9 @@ Berdasarkan analisis interaksi pembelajaran, ada tiga kendala utama dalam wacana
 
 1. **Pengulangan Mekanis tanpa Clarification**: Guru kerap mengulang ucapan siswa sekadar untuk mengisi transisi antar-topik, bukan untuk memperdalam pemahaman.
 2. **Umpan Balik Ambigu**: Ketika siswa memberikan jawaban yang bervariasi, guru kerap membiarkan tanpa konfirmasi atau justru membenarkan semua opsi yang saling bertolak belakang. Hal ini memicu kebingungan konsep pada anak.
-3. **Minimnya Penguatan Positif**: Porsi pengungkapan apresiasi atau pujian amat rendah (sekitar 2%). Padahal, anak usia sekolah dasar membutuhkan validasi emosional dan kognitif agar percaya diri dalam berpendapat.
+3. **Minimnya Penguatan Positif**: Porsi pengungkapan apresiasi atau pujian rendah (sekitar 2%). Padahal, anak usia sekolah dasar membutuhkan validasi emosional dan kognitif agar percaya diri dalam berpendapat.
 
-> **Catatan Pedagogis**: Pengendalian topik di dalam kelas hendaknya tidak dijadikan alat penundukan ruang bicara anak, melainkan jembatan untuk menuntun siswa bernalar secara mandiri.
+> **Catatan Pedagogis**: Pengendalian topik di dalam kelas hendaknya tidak dijadikan alat untuk membatasi ruang bicara anak, melainkan cara untuk menuntun siswa bernalar secara mandiri.
 
 ### Mengubah Pola Interaksi Kelas
 
@@ -42,7 +42,7 @@ Berikan penguatan positif yang jelas. Pujian tidak perlu berlebihan, namun harus
 #### 4. Buka Ruang bagi Siswa untuk Mengarahkan Topik
 Beri kesempatan kepada siswa untuk mengajukan pertanyaan di tengah pembelajaran. Biarkan rasa ingin tahu mereka membuka sub-topik baru yang relevan dengan materi, sehingga rasio pengendalian topik tidak lagi sepenuhnya milik guru.
 
-> **Prinsip Utama**: Pembelajaran yang hidup dibangun atas keberanian siswa untuk bertanya dan berpendapat, bukan ketundukan mereka pada alur bicara guru.
+> **Prinsip Utama**: Pembelajaran yang interaktif dibangun atas keberanian siswa untuk bertanya dan berpendapat, bukan ketundukan mereka pada alur bicara guru.
 
 ---
 
