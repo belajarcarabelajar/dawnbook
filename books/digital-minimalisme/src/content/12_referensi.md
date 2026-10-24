@@ -22,3 +22,4 @@ Daftar ini mengumpulkan sumber untuk gagasan, tokoh, dan penelitian yang dibahas
 ### Sumber Daring
 
 - Apple. (2007, 9 Januari). *Apple Reinvents the Phone with iPhone*. Apple Newsroom. [Siaran pers peluncuran iPhone](https://www.apple.com/newsroom/2007/01/09Apple-Reinvents-the-Phone-with-iPhone/)
+- Lewis, A. [blue_beetle]. (2010, 26 Agustus). Komentar pada utas *User-driven discontent*. MetaFilter. [Komentar blue_beetle di MetaFilter](https://www.metafilter.com/95152/Userdriven-discontent#3256046)
