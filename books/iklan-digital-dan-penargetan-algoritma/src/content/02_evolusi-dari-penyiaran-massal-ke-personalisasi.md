@@ -2,7 +2,7 @@
 
 Dahulu, merek yang ingin mempromosikan produk baru harus berteriak sekeras mungkin di tengah kerumunan, berharap ada seseorang yang mendengarkan. Hari ini, merek tersebut tidak lagi berteriak; mereka membisikkan penawaran yang tepat, di waktu yang tepat, langsung ke telinga orang yang memang membutuhkannya.
 
-Selamat datang di era **Personalisasi**, sebuah pergeseran paradigma dalam industri periklanan.
+Pergeseran dari berteriak ke berbisik inilah yang disebut era **Personalisasi** dalam industri periklanan.
 
 ### 1. Era Penyiaran Massal (Mass Broadcasting)
 
@@ -71,4 +71,4 @@ Evolusi dari penyiaran massal ke personalisasi adalah perjalanan dari kuantitas 
 
 > Jika iklan yang kamu lihat hari ini sangat akurat dengan apa yang kamu pikirkan, apakah kamu merasa terbantu karena kemudahannya, atau merasa tidak nyaman karena merasa "diawasi"? Perbatasan antara relevansi dan privasi adalah tantangan terbesar dalam evolusi ini.
 
-*Di bagian selanjutnya, kita akan membedah "Bahan Bakar" utama yang memungkinkan personalisasi ini terjadi: **Big Data**.*
+*Di bagian selanjutnya, kita akan membedah data yang memungkinkan personalisasi ini terjadi: **Big Data**.*

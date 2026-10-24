@@ -1,6 +1,6 @@
 ## Pengantar Era Periklanan Digital
 
-Selamat datang di titik awal perjalanan kita memahami **Iklan Digital**. Pernahkah kamu merasa bahwa sebuah produk yang baru saja kamu bicarakan tiba-tiba muncul di layar ponsel kamu? Itu hasil dari evolusi panjang industri periklanan, yang telah berpindah dari papan reklame fisik ke barisan kode.
+Perjalanan memahami **Iklan Digital** bisa dimulai dari satu pengalaman kecil yang mungkin pernah kamu alami sendiri di layar ponsel. Pernahkah kamu merasa bahwa sebuah produk yang baru saja kamu bicarakan tiba-tiba muncul di layar ponsel kamu? Itu hasil dari evolusi panjang industri periklanan, yang telah berpindah dari papan reklame fisik ke barisan kode.
 
 ## Apa Itu Iklan Digital?
 

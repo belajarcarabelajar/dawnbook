@@ -1,6 +1,6 @@
 ## Regulasi Global dan UU Pelindungan Data Pribadi
 
-Selamat datang di modul ini! Setelah sebelumnya kita membahas bagaimana data dikumpulkan dan bagaimana algoritma bekerja, sekarang kita akan masuk ke sisi "pengawas"-nya. Bayangkan dunia digital seperti jalan raya yang sangat padat. Tanpa aturan lalu lintas, kecelakaan (kebocoran data) akan terjadi setiap saat dan pengemudi (perusahaan iklan) bisa berkendara sesuka hati.
+Setelah sebelumnya kita membahas bagaimana data dikumpulkan dan bagaimana algoritma bekerja, sekarang kita akan masuk ke sisi "pengawas"-nya. Bayangkan dunia digital seperti jalan raya yang sangat padat. Tanpa aturan lalu lintas, kecelakaan (kebocoran data) akan terjadi setiap saat dan pengemudi (perusahaan iklan) bisa berkendara sesuka hati.
 
 Di bagian ini, kita akan membedah "sabuk pengaman" dan "rambu-rambu" hukum yang membatasi sejauh mana data kamu boleh diambil dan digunakan untuk iklan.
 

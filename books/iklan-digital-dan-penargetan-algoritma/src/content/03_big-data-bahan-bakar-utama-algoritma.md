@@ -1,8 +1,8 @@
 ## Big Data dalam Algoritma Iklan
 
-Bayangkan sebuah mesin jet yang canggih. Tanpa bahan bakar berkualitas tinggi, mesin tersebut hanya diam. Dalam ekosistem periklanan digital, **Algoritma** adalah mesin jetnya, dan **Big Data** adalah bahan bakarnya.
+Dalam periklanan digital, **Algoritma** hanya bisa memprediksi kebutuhan kamu dari data, dan **Big Data** adalah kumpulan data yang menjadi bahan olahannya.
 
-Tanpa aliran data yang masif dan terus-menerus, algoritma tidak akan bisa memprediksi apakah kamu sedang mencari sepatu lari baru atau sedang merencanakan liburan ke Bali. Di bagian ini, kita akan membedah jenis-jenis "bahan bakar" yang dikumpulkan oleh platform digital untuk menggerakkan mesin penargetan mereka.
+Tanpa aliran data yang masif dan terus-menerus, algoritma tidak akan bisa memprediksi apakah kamu sedang mencari sepatu lari baru atau sedang merencanakan liburan ke Bali. Di bagian ini, kita akan membedah jenis-jenis data yang dikumpulkan oleh platform digital untuk sistem penargetan mereka.
 
 ### 1. Mengenal Karakteristik Big Data dalam Periklanan
 
