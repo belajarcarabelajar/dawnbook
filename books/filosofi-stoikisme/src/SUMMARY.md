@@ -11,3 +11,4 @@
 - [Amor Fati](content/09_amor-fati-mencintai-takdir.md)
 - [Memento Mori](content/10_memento-mori-kesadaran-akan-kefanaan.md)
 - [Tiga Tokoh Besar Stoikisme Romawi](content/11_tiga-tokoh-besar-stoikisme-romawi-dari-budak-hingga-kaisar.md)
+- [Referensi](content/12_referensi.md)
