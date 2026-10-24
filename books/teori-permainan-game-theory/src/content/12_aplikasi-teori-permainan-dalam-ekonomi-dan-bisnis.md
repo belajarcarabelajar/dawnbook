@@ -48,7 +48,7 @@ Bayangkan dua maskapai penerbangan, *Lestari Air* dan *Mega Flight*, yang melaya
 
 *Hasilnya?* Keduanya cenderung memilih harga rendah (**Ekuilibrium Nash**) untuk melindungi diri agar tidak "dihancurkan" oleh lawan, meskipun jika mereka bekerja sama, mereka bisa mendapatkan hasil yang lebih baik.
 
-*Coba perhatikan: Pernahkah kamu melihat iklan "Kami memberikan jaminan harga termurah, jika ada yang lebih murah kami ganti selisihnya"? Secara strategis, ini bukan sekadar janji ke konsumen, melainkan sinyal kepada pesaing: "Jangan coba-coba turunkan harga, karena saya pasti akan mengikutinya dan kita berdua akan rugi."*
+*Pernahkah kamu melihat iklan "Kami memberikan jaminan harga termurah, jika ada yang lebih murah kami ganti selisihnya"? Secara strategis, ini bukan sekadar janji ke konsumen, melainkan sinyal kepada pesaing: "Jangan coba-coba turunkan harga, karena saya pasti akan mengikutinya dan kita berdua akan rugi."*
 
 ## 3. Seni Menentukan Harga lewat Mekanisme Lelang
 
