@@ -1,6 +1,6 @@
 ## Menciptakan Makna di Dunia Modern
 
-Selamat datang di bagian penutup perjalanan kita. Setelah menelusuri nihilisme Nietzsche, bergulat dengan batu Sisyphus bersama Camus, dan memahami kebebasan radikal Sartre, kita sampai pada pertanyaan terpenting: **Bagaimana semua teori ini membantu kita membayar tagihan, menjaga kesehatan mental, dan merasa "hidup" hari ini?**
+Gagasan para eksistensialis kini harus diuji di tempat paling nyata yang kita jalani, yaitu kehidupan sehari-hari di tengah deru dunia modern. Setelah menelusuri nihilisme Nietzsche, bergulat dengan batu Sisyphus bersama Camus, dan memahami kebebasan radikal Sartre, kita sampai pada pertanyaan terpenting: **Bagaimana semua teori ini membantu kita membayar tagihan, menjaga kesehatan mental, dan merasa "hidup" hari ini?**
 
 Dunia modern menawarkan kenyamanan yang belum dikenal para filsuf abad ke-19, namun ia juga membawa krisis eksistensial baru: *distraksi massal, komodifikasi identitas, dan kelumpuhan pilihan.*
 

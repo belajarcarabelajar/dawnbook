@@ -1,6 +1,6 @@
 ## Akar Historis Kierkegaard dan Nietzsche
 
-Selamat datang di titik awal perjalanan eksistensialisme. Sebelum Jean-Paul Sartre mempopulerkan istilah ini di kafe-kafe Paris pada abad ke-20, dua pemikir besar abad ke-19 telah meletakkan fondasinya. Meskipun mereka tidak pernah bertemu dan memiliki latar belakang yang sangat berbeda (yang satu seorang Kristen taat dan yang lainnya pengkritik keras agama), keduanya sepakat pada satu hal: **Individu adalah pusat dari kebenaran.**
+Sebelum Jean-Paul Sartre mempopulerkan istilah eksistensialisme di kafe-kafe Paris pada abad ke-20, dua pemikir abad ke-19 telah meletakkan fondasinya. Meskipun mereka tidak pernah bertemu dan memiliki latar belakang yang sangat berbeda (yang satu seorang Kristen taat dan yang lainnya pengkritik keras agama), keduanya sepakat pada satu hal: **Individu adalah pusat dari kebenaran.**
 
 Mari kita telusuri bagaimana kegelisahan Søren Kierkegaard dan pemberontakan Friedrich Nietzsche membentuk cara kita memahami makna hidup hari ini.
 
