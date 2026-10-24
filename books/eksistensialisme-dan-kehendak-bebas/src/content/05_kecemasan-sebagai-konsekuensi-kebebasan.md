@@ -59,7 +59,7 @@ Eksistensialisme tidak memandang kecemasan sebagai kondisi disfungsional yang ha
 
 ### 6. Memilih atau Melarikan Diri
 
-Dalam pengambilan keputusan, komitmen eksistensial membedakan antara tindakan otentik dan pelarian iktikad buruk. Subjek lebih dulu menimbang setiap opsi yang terbuka di hadapannya, lalu tiba di titik ketika kehendaknya harus mengkristal menjadi satu pilihan. Di titik inilah *Angst* muncul. Jika subjek memilih, ia menegakkan tanggung jawab penuh atas konsekuensi pilihannya, dan itulah tindakan otentik. Jika ia menolak memilih, ia jatuh ke dalam modus pelarian dari tanggung jawab yang disebut iktikad buruk (*mauvaise foi* atau *bad faith*), konsep yang dibahas lebih dalam pada bab berikutnya.
+Dalam pengambilan keputusan, komitmen eksistensial membedakan antara tindakan otentik dan pelarian iktikad buruk. Subjek lebih dulu menimbang setiap opsi yang terbuka di hadapannya, lalu tiba di titik ketika kehendaknya harus mengkristal menjadi satu pilihan. Di titik inilah *Angst* muncul. Jika subjek memilih, ia menegakkan tanggung jawab penuh atas konsekuensi pilihannya, dan itulah tindakan otentik. Jika ia menolak memilih, ia jatuh ke dalam modus pelarian dari tanggung jawab yang disebut iktikad buruk (*mauvaise foi* atau *bad faith*), konsep yang dibahas lebih dalam pada bab 6.
 
 Dua ujung dari momen memilih itu tergambar dalam percabangan berikut.
 
