@@ -2,7 +2,7 @@
 
 Menulis seluruh kode di dalam satu file `main.rs` mungkin terasa praktis saat kamu membangun aplikasi berskala kecil. Namun, bayangkan jika kamu harus mengembangkan sistem navigasi pesawat atau platform e-commerce besar. Menumpuk jutaan baris kode dalam satu file bukan hanya tidak efisien, melainkan juga membuat kode berantakan.
 
-Di sinilah Rust module system berperan. Fitur ini membantu kita memecah codebase yang kompleks menjadi bagian-bagian kecil yang lebih terkelola, logis, dan terstruktur.
+Di sinilah Rust module system berguna. Fitur ini membantu kita memecah codebase yang kompleks menjadi bagian-bagian kecil yang lebih terkelola, logis, dan terstruktur.
 
 ## Mengapa Kita Membutuhkan Module System?
 
