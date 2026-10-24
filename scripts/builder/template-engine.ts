@@ -233,6 +233,7 @@ ${gaTag}    <meta charset="UTF-8">
 
         <h2 style="color: var(--color-primary); margin-bottom: var(--spacing-md); margin-top: var(--spacing-lg)" data-i18n="about.motif.title">The Dawn Motif</h2>
         <p data-i18n="about.motif.body">The dawn signifies the end of the night and the arrival of a new era of freedom. It represents our profound belief that the light of education should reach every corner of the world, illuminating minds and liberating individuals.</p>
+        <p style="font-size: 0.85rem; color: var(--color-secondary);"><span data-i18n="about.motif.credit">Sunrise icon from Twemoji, licensed under CC-BY 4.0.</span> (<a href="https://github.com/jdecked/twemoji" target="_blank" rel="noopener noreferrer">github.com/jdecked/twemoji</a>, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener noreferrer">creativecommons.org/licenses/by/4.0</a>)</p>
     </div>
   `;
 
