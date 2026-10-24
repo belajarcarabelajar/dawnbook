@@ -110,6 +110,12 @@ describe("crutch words and near-miss scaffolds", () => {
     expect(voiceViolations("05_x.md", four + " Ia tetap pergi.")).toEqual(["crutch words x5 (max 4)"]);
   });
 
+  test("words inside a link target are not counted", () => {
+    const four = "Ia tetap datang. Kamu pun ikut. Bahkan hujan. Justru itu.";
+    expect(voiceViolations("05_x.md", four + " Lihat [aturan](https://x.example/Berpenghasilan-Tetap.html).")).toEqual([]);
+    expect(voiceViolations("05_x.md", four + " Ia tetap pergi.")).toEqual(["crutch words x5 (max 4)"]);
+  });
+
   test("crutch words inside a fenced code block are not counted", () => {
     const md = "Teks.\n\n```text\ntetap pun bahkan justru tetap\n```\n";
     expect(voiceViolations("05_x.md", md)).toEqual([]);

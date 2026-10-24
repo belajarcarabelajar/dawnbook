@@ -42,8 +42,9 @@ export const VOICE_CAPS: VoiceCap[] = [
     label: "crutch words",
     pattern: /(?<![\p{L}\p{N}])(tetap|pun|bahkan|justru)(?![\p{L}\p{N}])/giu,
     max: 4,
-    // "apa pun" and kin are indefinite pronouns, and "biaya tetap" and kin are fixed-quantity terms.
+    // Link targets, "apa pun" and kin (indefinite pronouns), and "biaya tetap" and kin (fixed-quantity terms) are not crutch words.
     except: [
+      /https?:\/\/[^\s)>\]]+/gu,
       /(?<![\p{L}\p{N}])(apa|siapa|mana|berapa|seberapa|kapan|bagaimana) pun(?![\p{L}\p{N}])/giu,
       /(?<![\p{L}\p{N}])(biaya|aset|pegawai|karyawan|harga|bunga|titik|pengeluaran|pendapatan|penghasilan|gaji|tarif|kurs|sudut|kecepatan|laju|modal|kontrak|pikir) tetap(?![\p{L}\p{N}])/giu,
     ],
