@@ -37,7 +37,7 @@ Jika $t$ adalah usia entri dalam hari, rumus di kode itu berupa garis lurus yang
 
 <div>
 $$
-m(t)=0{,}2+0{,}8\times\frac{t}{140}\quad\text{untuk } 0\leq t<140
+m(t)=0{,}2+0{,}8\times\frac{t}{140}\quad\text{untuk } 0\leq t\lt 140
 $$
 </div>
 
