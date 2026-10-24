@@ -140,4 +140,4 @@ fn main() {
 
 > **Insight Memorable:** "File adalah modul, dan modul adalah unit organisasi. Rust menggunakan sistem file kamu sebagai peta untuk memahami bagaimana kode saling terhubung."
 
-Setelah memahami cara memindahkan modul ke file tunggal, bagaimana jika modul tersebut memiliki sub-modul di dalamnya? Bab berikutnya akan membahas penggunaan folder untuk organisasi kode yang lebih kompleks.
+Setelah memahami cara memindahkan modul ke file tunggal, bagaimana jika modul tersebut memiliki sub-modul di dalamnya?
