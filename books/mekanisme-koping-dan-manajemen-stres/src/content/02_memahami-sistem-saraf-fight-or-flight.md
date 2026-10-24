@@ -71,7 +71,7 @@ Reaksi ini terjadi ketika sistem saraf menilai bahwa melawan atau lari tidak mun
 
 ### 6. Presentasi Kerja Penting
 
-Mari kita perhatikan bagaimana sistem ini bekerja dalam situasi sehari-hari:
+Mari kita lihat bagaimana sistem ini bekerja dalam situasi sehari-hari:
 
 **Skenario:** Kamu berdiri di depan ruang rapat untuk membawakan presentasi penting.
 

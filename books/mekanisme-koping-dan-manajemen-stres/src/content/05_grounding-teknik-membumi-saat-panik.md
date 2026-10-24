@@ -35,7 +35,7 @@ Ini adalah teknik *grounding* yang sangat populer dan efektif karena melibatkan 
 Mari kita praktikkan langkah demi langkah:
 
 1. **5 Hal yang Dapat Kamu LIHAT**  
-   Cari benda-benda di sekitarmu yang biasanya luput dari perhatian. Perhatikan detailnya: "Saya melihat pola serat kayu pada meja ini," atau "Saya melihat pantulan cahaya di sudut jendela."
+   Cari benda-benda di sekitarmu yang biasanya luput dari perhatian. Amati detailnya: "Saya melihat pola serat kayu pada meja ini," atau "Saya melihat pantulan cahaya di sudut jendela."
 2. **4 Hal yang Dapat Kamu SENTUH**  
    Rasakan tekstur benda di sekitarmu. Amati rasa kain baju yang kamu kenakan, dinginnya permukaan meja, atau kokohnya lantai di bawah telapak kaki. Fokus pada sensasi fisik: Apakah rasanya kasar, halus, hangat, atau dingin?
 3. **3 Suara yang Dapat Kamu DENGAR**  
