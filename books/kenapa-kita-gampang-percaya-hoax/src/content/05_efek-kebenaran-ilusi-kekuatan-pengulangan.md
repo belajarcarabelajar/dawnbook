@@ -16,7 +16,7 @@ Lompatan ini masuk akal sehari-hari, karena hal yang benar memang cenderung lebi
 
 ### Efek ini bandel, dan itu yang bikin ngeri
 
-Yang membuat efek ini berbahaya bukan cuma keberadaannya, tapi betapa sulitnya dilawan.
+Yang membuat efek ini berbahaya bukan cuma keberadaannya, tapi sulitnya ia dilawan.
 
 **Ia bekerja untuk pernyataan benar maupun salah.** Pengulangan tidak pilih-pilih; ia menaikkan rasa benar untuk fakta asli sekaligus kebohongan, bahkan pada klaim yang cukup janggal.
 
@@ -28,7 +28,7 @@ Yang membuat efek ini berbahaya bukan cuma keberadaannya, tapi betapa sulitnya d
 
 ### Dari percaya ke membagikan
 
-Hoaks tidak hanya soal dipercaya, ia soal disebarkan. Paparan berulang menaikkan persepsi akurasi, dan persepsi akurasi yang naik meningkatkan niat untuk **membagikan** informasi itu. Penelitian Vellani dan rekan pada tahun 2023 menunjukkan kaitan ini secara langsung: makin sebuah klaim terasa akurat karena pernah dilihat, makin besar dorongan meneruskannya. Terbentuklah lingkaran setan:
+Hoaks tidak hanya soal dipercaya, ia soal disebarkan. Paparan berulang menaikkan persepsi akurasi, dan persepsi akurasi yang naik meningkatkan niat untuk **membagikan** informasi itu. Penelitian Vellani dan rekan pada tahun 2023 menunjukkan kaitan ini secara langsung: makin sebuah klaim terasa akurat karena pernah dilihat, makin besar dorongan meneruskannya. Terbentuklah sebuah lingkaran:
 
 1. Kamu terpapar sebuah klaim.
 2. Klaim itu terasa sedikit lebih benar karena familiar.
@@ -59,11 +59,11 @@ Para pembujuk profesional sudah lama memakai prinsip ini, jauh sebelum ada naman
 | Politik | Frasa atau tuduhan yang disebut terus di setiap kesempatan |
 | Propaganda | Narasi tunggal dibanjirkan lewat banyak kanal sekaligus |
 
-Taktiknya sederhana dan brutal: sebut sesuatu berulang-ulang sampai ia terasa seperti kebenaran yang disepakati bersama. Tidak perlu membuktikan, cukup membuat familiar. Begitu sebuah klaim terasa seperti "yang sudah semua orang tahu", beban pembuktian seolah menguap.
+Taktiknya sederhana: sebut sesuatu berulang-ulang sampai ia terasa seperti kebenaran yang disepakati bersama. Tidak perlu membuktikan, cukup membuat familiar. Begitu sebuah klaim terasa seperti "yang sudah semua orang tahu", beban pembuktian seolah menguap.
 
 ### Seberapa besar efeknya
 
-Efek ini **bukan** sihir yang dalam sekejap mengubah orang dari yakin salah menjadi yakin benar. Dirangkum dari puluhan studi, efeknya tergolong kecil sampai sedang untuk sekali putaran. Tapi jangan tertipu kata "kecil". Yang membuatnya berbahaya adalah **konsistensinya**: efek ini muncul berulang lintas puluhan penelitian, lintas topik, lintas jenis orang. Efek kecil yang bekerja terus-menerus, dikalikan jutaan paparan di lini masa media sosial, menjadi kekuatan besar. Kalau besar dorongan itu $d$ per paparan dan paparan terjadi $n$ kali, total dorongannya bergerak seiring $n$. Angka pastinya bukan intinya; yang kecil, kalau diulang cukup sering, berubah jadi arus.
+Efek ini **bukan** sesuatu yang dalam sekejap mengubah orang dari yakin salah menjadi yakin benar. Dirangkum dari puluhan studi, efeknya tergolong kecil sampai sedang untuk sekali putaran. Tapi jangan tertipu kata "kecil". Yang membuatnya berbahaya adalah **konsistensinya**: efek ini muncul berulang lintas puluhan penelitian, lintas topik, lintas jenis orang. Efek kecil yang bekerja terus-menerus, dikalikan jutaan paparan di lini masa media sosial, menjadi pengaruh yang besar. Kalau besar dorongan itu $d$ per paparan dan paparan terjadi $n$ kali, total dorongannya bergerak seiring $n$. Angka pastinya bukan intinya; yang kecil, kalau diulang cukup sering, menjadi besar.
 
 ### Ada celah harapan
 
@@ -75,6 +75,6 @@ Kabar baiknya, efek ini bukan takdir. Ada dua hal yang terbukti menekannya, dan 
 
 ## Recap
 
-Efek kebenaran ilusi adalah kecenderungan menilai pernyataan yang diulang sebagai lebih benar, semata karena diulang. Mesinnya adalah kefasihan pemrosesan: otak salah membaca yang familiar dan mudah dicerna sebagai yang benar. Efek ini bandel, ia mengenai klaim benar maupun salah, bertahan meski kamu tahu jawaban sebenarnya, muncul cuma dari satu kali paparan judul palsu, dan tidak pandang bulu soal kecerdasan. Karena rasa benar mendorong niat membagikan, terbentuk lingkaran paparan, percaya, dan sebar yang jadi bahan bakar utama propaganda, iklan, dan politik. Ukuran efeknya kecil namun sangat konsisten lintas puluhan studi, dan konsistensi itulah yang membuatnya berbahaya di skala jutaan paparan. Untungnya, menilai akurasi sejak awal dan koreksi yang tegas terbukti bisa menekannya.
+Efek kebenaran ilusi adalah kecenderungan menilai pernyataan yang diulang sebagai lebih benar, semata karena diulang. Mesinnya adalah kefasihan pemrosesan: otak salah membaca yang familiar dan mudah dicerna sebagai yang benar. Efek ini bandel, ia mengenai klaim benar maupun salah, bertahan meski kamu tahu jawaban sebenarnya, muncul cuma dari satu kali paparan judul palsu, dan tidak pandang bulu soal kecerdasan. Karena rasa benar mendorong niat membagikan, terbentuk lingkaran paparan, percaya, dan sebar yang dimanfaatkan propaganda, iklan, dan politik. Ukuran efeknya kecil namun konsisten lintas puluhan studi, dan konsistensi itulah yang membuatnya berbahaya di skala jutaan paparan. Untungnya, menilai akurasi sejak awal dan koreksi yang tegas terbukti bisa menekannya.
 
-Sampai sini kita sudah melihat bagaimana pengulangan yang dingin dan mekanis bisa membajak rasa benar. Tapi ada bahan bakar lain yang jauh lebih panas dan bergerak jauh lebih cepat: perasaanmu sendiri. Di modul berikutnya kita masuk ke **Emosi, Kemarahan Moral, dan Mesin Viralitas**, tempat kita akan melihat kenapa konten yang membuatmu marah justru yang paling gampang menyebar.
+Sampai sini kita sudah melihat bagaimana pengulangan bisa membajak rasa benar. Tapi ada pendorong lain yang bekerja lebih cepat: perasaanmu sendiri. Di modul berikutnya kita masuk ke **Emosi, Kemarahan Moral, dan Mesin Viralitas**, tempat kita akan melihat kenapa konten yang membuatmu marah justru yang paling gampang menyebar.

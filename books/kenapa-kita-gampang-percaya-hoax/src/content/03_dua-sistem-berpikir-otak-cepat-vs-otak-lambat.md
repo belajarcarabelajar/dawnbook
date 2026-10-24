@@ -78,7 +78,7 @@ Jawaban intuitif Rp1.000 muncul karena Sistem 1 memotong "Rp11.000 dikurangi Rp1
 
 ### Intuisi bukan musuh
 
-Jangan salah tangkap. Intuisi tidak selalu keliru. Sistem 1 yang terlatih bisa sangat akurat: dokter berpengalaman yang langsung merasa ada yang tidak beres, atau montir yang tahu sumber suara mesin dari sekilas dengar. Masalahnya bukan punya intuisi, melainkan **gagal menyalakan Sistem 2 di saat yang menentukan**, terutama saat sebuah informasi memancing emosi, terlalu pas dengan keyakinanmu, atau menuntutmu ikut menyebarkan. Justru di momen "terasa benar" yang paling meyakinkan itulah kamu paling perlu berhenti dan bertanya.
+Jangan salah tangkap. Intuisi tidak selalu keliru. Sistem 1 yang terlatih bisa akurat: dokter berpengalaman yang langsung merasa ada yang tidak beres, atau montir yang tahu sumber suara mesin dari sekilas dengar. Masalahnya bukan punya intuisi, melainkan **gagal menyalakan Sistem 2 di saat yang menentukan**, terutama saat sebuah informasi memancing emosi, terlalu pas dengan keyakinanmu, atau menuntutmu ikut menyebarkan. Justru di momen "terasa benar" yang paling meyakinkan itulah kamu paling perlu berhenti dan bertanya.
 
 ## Poin Penting
 

@@ -1,6 +1,6 @@
 ## Emosi, Kemarahan Moral, dan Mesin Viralitas
 
-Coba ingat kapan terakhir kamu membagikan sesuatu di media sosial hampir tanpa berpikir. Kemungkinan besar itu bukan artikel netral yang datar, tapi sesuatu yang membuat dadamu bergemuruh: ketidakadilan, perilaku menjijikkan, ancaman, atau kabar yang bikin berdecak kagum. Emosi adalah bahan bakar penyebaran, dan hoaks tahu betul cara memanfaatkannya. Kalau modul sebelumnya soal jalan pintas berpikir, modul ini masuk ke sisi yang lebih panas: bagaimana perasaan, bukan fakta, sering menentukan apa yang kita sebarkan.
+Coba ingat kapan terakhir kamu membagikan sesuatu di media sosial hampir tanpa berpikir. Kemungkinan besar itu bukan artikel netral yang datar, tapi sesuatu yang memancing perasaanmu: ketidakadilan, perilaku menjijikkan, ancaman, atau kabar yang bikin berdecak kagum. Emosi mendorong penyebaran, dan pembuat hoaks tahu cara memanfaatkannya. Kalau modul sebelumnya soal jalan pintas berpikir, modul ini masuk ke sisi yang lebih panas: bagaimana perasaan, bukan fakta, sering menentukan apa yang kita sebarkan.
 
 ### Konten beremosi tinggi lebih gampang menyebar
 
@@ -10,7 +10,7 @@ Ini penting karena hoaks jarang ditulis dengan nada tenang. Judulnya dirancang m
 
 ### Kemarahan moral
 
-Emosi yang paling kuat mendorong penyebaran adalah **kemarahan moral** (*moral outrage*): campuran marah dan jijik yang muncul ketika kita merasa ada aturan moral yang dilanggar, apalagi kalau pelanggarnya kelompok lain. Ini membuatnya sangat "engaging": ia terasa **benar secara moral** (kamu merasa menegakkan keadilan, bukan bergosip), ia **mengundang keterlibatan** (orang lain ikut marah, mengecam, membagikan), dan ia **memperkuat identitas** (dengan ikut marah, kamu menunjukkan kamu di pihak yang "benar").
+Emosi yang paling kuat mendorong penyebaran adalah **kemarahan moral** (*moral outrage*): campuran marah dan jijik yang muncul ketika kita merasa ada aturan moral yang dilanggar, apalagi kalau pelanggarnya kelompok lain. Ini membuatnya "engaging": ia terasa **benar secara moral** (kamu merasa menegakkan keadilan, bukan bergosip), ia **mengundang keterlibatan** (orang lain ikut marah, mengecam, membagikan), dan ia **memperkuat identitas** (dengan ikut marah, kamu menunjukkan kamu di pihak yang "benar").
 
 Karena mengundang banyak reaksi, konten ini diperkuat algoritma yang menampilkan hal paling banyak disukai, dibagikan, dan dikomentari. Terbentuklah putaran: makin banyak interaksi, makin luas algoritma menyebarkannya, makin banyak orang ikut marah dan membagikan. Peneliti menyebut penyebaran muatan moral-emosional ini *moral contagion*, penularan moral (Brady dkk., 2017; Crockett, 2017 tentang kemarahan moral di era digital).
 
@@ -18,7 +18,7 @@ Karena mengundang banyak reaksi, konten ini diperkuat algoritma yang menampilkan
 
 Di sinilah masalahnya bertemu hoaks. Penelitian terbaru menemukan **misinformasi cenderung memancing lebih banyak kemarahan moral dibanding sumber tepercaya** (McLoughlin, Brady, dkk., 2024, terbit di *Science*). Masuk akal: kabar palsu tidak terikat kenyataan, jadi bebas dibuat seprovokatif mungkin. Temuan itu punya dua lapisan: konten pemancing amarah **lebih mudah menyebar** (dorongannya untuk misinformasi setidaknya setara dengan berita tepercaya), dan banyak orang **membagikan konten pemicu amarah tanpa membacanya dulu**, bereaksi pada judul, bukan isi.
 
-Inilah kenapa hoaks berbingkai kemarahan moral begitu efektif: ia tidak butuh dibaca, hanya butuh membuatmu cukup marah.
+Inilah kenapa hoaks berbingkai kemarahan moral efektif: ia tidak butuh dibaca, hanya butuh membuatmu cukup marah.
 
 ### Kadang kita membagikan bukan karena percaya
 
@@ -44,9 +44,9 @@ Kabar baiknya, memahami mekanisme ini memberimu keunggulan. Lain kali sebuah kon
 ## Yang Perlu Kamu Ingat
 
 - Konten yang membangkitkan emosi kuat (marah, jijik, takut, kagum) lebih mudah dibagikan; yang paling menggerakkan bukan positif-negatifnya, tapi seberapa besar emosi itu mendorong kita bertindak.
-- **Kemarahan moral** adalah campuran marah dan jijik atas pelanggaran moral. Ia sangat mengundang keterlibatan, sehingga algoritma ikut memperkuatnya lewat penularan moral (Brady 2017; Crockett 2017).
+- **Kemarahan moral** adalah campuran marah dan jijik atas pelanggaran moral. Ia mengundang banyak keterlibatan, sehingga algoritma ikut memperkuatnya lewat penularan moral (Brady 2017; Crockett 2017).
 - Misinformasi cenderung memancing lebih banyak amarah dibanding sumber tepercaya, dan orang bahkan membagikan konten pemicu amarah tanpa membacanya dulu.
 - Kadang kita membagikan bukan karena yakin itu benar, tapi untuk mengekspresikan sikap dan identitas. Itu sebabnya ajakan "cek dulu akurasinya" sering kurang mempan untuk konten pemancing amarah.
 - Reaksi emosional bisa menyala lebih dulu daripada nalar, dan hoaks sengaja dirancang untuk memanfaatkan celah itu.
 
-Sampai di sini kita sudah melihat bahwa emosi mendorong kita membagikan, dan bahwa kita kadang membagikan untuk menunjukkan siapa kita. Pertanyaan berikutnya: kenapa kita begitu ngotot mempertahankan keyakinan yang mendukung kelompok kita, bahkan ketika buktinya lemah? Di modul berikutnya kita masuk ke **Penalaran Termotivasi dan Identitas Kelompok**, tempat berpikir bukan lagi soal mencari kebenaran, tapi soal membela pihak sendiri.
+Sampai di sini kita sudah melihat bahwa emosi mendorong kita membagikan, dan bahwa kita kadang membagikan untuk menunjukkan siapa kita. Pertanyaan berikutnya: kenapa kita ngotot mempertahankan keyakinan yang mendukung kelompok kita, bahkan ketika buktinya lemah? Di modul berikutnya kita masuk ke **Penalaran Termotivasi dan Identitas Kelompok**, tempat berpikir bukan lagi soal mencari kebenaran, tapi soal membela pihak sendiri.

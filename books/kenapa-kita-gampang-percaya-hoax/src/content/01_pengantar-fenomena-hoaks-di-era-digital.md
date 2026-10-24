@@ -12,7 +12,7 @@ Tapi kenyataannya, justru di zaman inilah kabar bohong menyebar dengan mudah. Se
 
 ### Kabar bohong ternyata lebih "menular"
 
-Ada temuan yang menohok soal ini. Sekelompok peneliti dari MIT (Vosoughi, Roy, dan Aral) mempelajari jutaan cuitan di sebuah platform media sosial dan membandingkan bagaimana berita benar dan berita bohong menyebar. Hasilnya dimuat di jurnal *Science* pada 2018.
+Ada penelitian yang menguji hal ini. Sekelompok peneliti dari MIT (Vosoughi, Roy, dan Aral) mempelajari jutaan cuitan di sebuah platform media sosial dan membandingkan bagaimana berita benar dan berita bohong menyebar. Hasilnya dimuat di jurnal *Science* pada 2018.
 
 Temuan utamanya: kabar bohong menyebar lebih cepat, lebih jauh, dan lebih dalam dibanding kabar yang benar. Berita palsu menjangkau lebih banyak orang dan berpindah tangan lebih sering. Hal ini bukan karena robot atau akun otomatis. Manusialah yang lebih rajin menyebarkan yang bohong. Salah satu dugaan penelitinya: kabar bohong sering terasa lebih baru, lebih mengejutkan, dan lebih memancing emosi, sehingga kita terdorong untuk ikut membagikannya.
 
@@ -27,7 +27,7 @@ Di sinilah banyak orang salah paham. Kita cenderung berpikir yang percaya hoaks 
 Percaya pada kabar bohong itu terjadi karena dua hal bertemu:
 
 1. **Cara kerja otak kita.** Otak manusia dirancang untuk cepat mengambil keputusan, hemat energi, dan mencari pola. Fitur-fitur yang dulu membantu nenek moyang kita bertahan hidup, di dunia digital malah bisa menjebak.
-2. **Bentuk lingkungan digital.** Media sosial dan aplikasi pesan dirancang untuk membuat kita betah, terus menggulir, dan terus membagikan. Rancangan ini kebetulan sangat cocok untuk menyuburkan kabar bohong.
+2. **Bentuk lingkungan digital.** Media sosial dan aplikasi pesan dirancang untuk membuat kita betah, terus menggulir, dan terus membagikan. Rancangan ini kebetulan cocok untuk menyuburkan kabar bohong.
 
 Jadi ketika kamu terkecoh, itu bukan tanda kamu bodoh. Itu tanda kamu manusia normal yang otaknya sedang bertemu dengan lingkungan yang memang licin.
 
