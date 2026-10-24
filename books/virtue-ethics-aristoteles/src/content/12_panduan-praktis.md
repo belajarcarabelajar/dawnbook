@@ -10,7 +10,7 @@ Berikut adalah panduan praktis untuk mengubah konsep-konsep filosofis tersebut m
 
 Sebelum mendaki gunung, kamu harus tahu di mana posisi kamu sekarang. Dalam etika kebajikan, ini disebut dengan evaluasi diri terhadap **Doktrin Jalan Tengah**.
 
-**Analogi:** Bayangkan karakter kamu seperti sebuah instrumen musik yang senarnya mungkin terlalu kendor (kekurangan/defisiensi) or terlalu kencang (kelebihan/ekses). Kamu perlu menyetemnya agar menghasilkan nada yang harmonis.
+**Analogi:** Bayangkan karakter kamu seperti sebuah instrumen musik yang senarnya mungkin terlalu kendor (kekurangan/defisiensi) atau terlalu kencang (kelebihan/ekses). Kamu perlu menyetemnya agar menghasilkan nada yang harmonis.
 
 - **Latihan:** Pilih satu kebajikan (misalnya: Keberanian).
 - **Identifikasi Ekstrem:**
@@ -70,7 +70,7 @@ Bagaimana etika kebajikan menjawab tantangan modern seperti media sosial?
 
 ### 5. Membangun Komunitas Kebajikan (Ecosystem of Excellence)
 
-Kamu tidak bisa menjadi bajik sendirian di ruang hampa. Karakter kita sangat dipengaruhi oleh siapa yang kita ajak berinteraksi.
+Kamu tidak bisa menjadi bajik sendirian di ruang hampa. Karakter kita dipengaruhi oleh siapa yang kita ajak berinteraksi.
 
 - **Cari Role Model:** Siapa orang dalam hidup kamu yang memanifestasikan kebajikan yang ingin kamu miliki? Pelajari cara mereka bereaksi terhadap tekanan.
 - **Kontribusi Sosial:** Gunakan kebajikan kamu untuk melayani orang lain. *Eudaimonia* (kebahagiaan sejati) seringkali ditemukan saat kita melampaui kepentingan diri sendiri dan berkontribusi pada kesejahteraan *Polis* (komunitas) kita.

@@ -1,6 +1,6 @@
 ## Kesatuan Karakter dan Integritas
 
-Bayangkan sebuah orkestra simfoni. Kamu mungkin memiliki seorang pemain biola yang luar biasa, seorang peniup oboe yang jenius, dan seorang perkusionis yang andal. Namun, jika masing-masing dari mereka bermain sesuai kehendak hati tanpa mempedulikan satu sama lain, yang dihasilkan adalah kebisingan.
+Bayangkan sebuah orkestra simfoni. Kamu mungkin memiliki seorang pemain biola yang mahir, seorang peniup oboe yang jenius, dan seorang perkusionis yang andal. Namun, jika masing-masing dari mereka bermain sesuai kehendak hati tanpa mempedulikan satu sama lain, yang dihasilkan adalah kebisingan.
 
 Begitu pula dengan karakter manusia dalam **Etika Kebajikan**. Kebajikan-kebajikan seperti keberanian, kejujuran, dan keadilan tidak bisa berdiri sendiri sebagai unit-unit yang terpisah. Mereka harus bekerja sama dalam sebuah harmoni yang utuh. Inilah yang kita sebut sebagai **Kesatuan Karakter** dan **Integritas**.
 

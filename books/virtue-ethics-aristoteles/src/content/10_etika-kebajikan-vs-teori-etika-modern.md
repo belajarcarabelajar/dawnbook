@@ -2,9 +2,9 @@
 
 Pernahkah kamu terjebak dalam dilema moral dan bertanya pada diri sendiri: *"Apa yang seharusnya saya lakukan?"*
 
-Dalam dunia filsafat moral, jawaban atas pertanyaan itu sangat bergantung pada "kacamata" etika mana yang kamu pakai. Teori etika modern pada umumnya, seperti Deontologi dan Utilitarianisme, berfokus pada tindakan itu sendiri atau hasil akhirnya. Namun, Etika Kebajikan mengambil arah yang berbeda. Pendekatan ini menggeser fokus dari 'Apa yang harus saya lakukan?' menjadi **'Saya ingin menjadi orang yang seperti apa?'**
+Dalam dunia filsafat moral, jawaban atas pertanyaan itu bergantung pada "kacamata" etika mana yang kamu pakai. Teori etika modern pada umumnya, seperti Deontologi dan Utilitarianisme, berfokus pada tindakan itu sendiri atau hasil akhirnya. Namun, Etika Kebajikan mengambil arah yang berbeda. Pendekatan ini menggeser fokus dari 'Apa yang harus saya lakukan?' menjadi **'Saya ingin menjadi orang yang seperti apa?'**
 
-Mari kita bedah perbandingannya untuk memahami mengapa pendekatan berbasis karakter ini tetap relevan dan unik di tengah kepungan aturan dan logika kalkulasi modern.
+Mari kita bedah perbandingannya untuk memahami mengapa pendekatan berbasis karakter ini tetap relevan dan unik di tengah aturan dan logika kalkulasi modern.
 
 ### 1. Tiga Pilar Besar Etika
 

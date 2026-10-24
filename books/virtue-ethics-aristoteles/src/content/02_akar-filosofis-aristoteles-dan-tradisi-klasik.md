@@ -59,7 +59,7 @@ $$
 
 ### Kepemimpinan Berbasis Karakter
 
-Dalam dunia kerja atau organisasi saat ini, kita sering terjebak pada KPI (Key Performance Indicators) or kepatuhan terhadap SOP. Namun, ajaran Aristoteles mengingatkan kita bahwa **integritas pemimpin lebih penting daripada aturan tertulis.**
+Dalam dunia kerja atau organisasi saat ini, kita sering terjebak pada KPI (Key Performance Indicators) atau kepatuhan terhadap SOP. Namun, ajaran Aristoteles mengingatkan kita bahwa **integritas pemimpin lebih penting daripada aturan tertulis.**
 
 **Skenario:** Seorang manajer menghadapi situasi di mana ia bisa memanipulasi laporan untuk mendapatkan bonus tim (mengikuti aturan "mencapai target"), atau jujur meskipun bonus tersebut hilang (mengikuti kebajikan kejujuran).
 
