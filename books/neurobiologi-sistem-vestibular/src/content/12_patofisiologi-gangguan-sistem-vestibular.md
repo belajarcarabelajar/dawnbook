@@ -65,7 +65,7 @@ Pemahaman mendalam mengenai patofisiologi BPPV memungkinkan klinisi melakukan ko
 
 **Skenario Klinis:** Seorang pasien datang dengan keluhan pusing berputar hebat setiap kali menoleh ke kanan saat berbaring. Klinisi melakukan tes **Dix-Hallpike** dan mengidentifikasi adanya **nistagmus** (osilasi ritmik bola mata) yang terpicu oleh posisi tersebut. Mengetahui etiologi mekanis pelepasan otoconia, klinisi segera melaksanakan manuver Epley. Dalam waktu sekitar 10 menit, gejala pasien teratasi secara penuh tanpa memerlukan intervensi farmakologis. Kasus ini membuktikan bagaimana pemahaman neurobiologi sistem vestibular secara langsung meningkatkan kualitas hidup pasien.
 
-### Ringkasan Konsep
+### Dari Mekanisme ke Diagnosis
 
 - **Vertigo** timbul akibat asimetri transmisi sinyal saraf antara organ vestibular kanan dan kiri, atau antara perifer dan pusat.
 - **BPPV** dipicu oleh perpindahan mekanis partikel otoconia ($\text{CaCO}_3$) ke dalam kanalis semisirkularis yang peka terhadap akselerasi sudut.

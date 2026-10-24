@@ -62,7 +62,7 @@ Tanpa sistem ini, aktivitas sederhana seperti berdiri tegak akan membutuhkan kon
 
 Fenomena merasa masih "terombang-ambing" di daratan setelah menghabiskan waktu seharian di atas kapal merupakan salah satu wujud adaptasi sistem saraf pusat terhadap input vestibular yang terus-menerus berubah.
 
-### Ringkasan Konsep
+### Empat Peran Vestibular Sekilas
 
 | Fungsi | Deskripsi Singkat |
 | --- | --- |
