@@ -67,7 +67,7 @@ Karena gaya kelekatan berakar pada aspek neurobiologis, pemulihannya pun perlu m
 
 Salah satu cara meredakannya adalah dengan metode *grounding* 5-4-3-2-1 untuk mengembalikan kesadaranmu pada momen saat ini:
 
-- Cari dan perhatikan **5** benda konkret di sekitarmu.
+- Cari dan amati **5** benda konkret di sekitarmu.
 - Sentuh **4** permukaan dengan tekstur berbeda untuk merasakan sensasi fisiknya.
 - Dengarkan **3** jenis suara yang terdengar di sekelilingmu.
 - Hirup dan kenali **2** aroma berbeda di udara sekitar.

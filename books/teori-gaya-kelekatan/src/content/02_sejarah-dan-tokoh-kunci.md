@@ -60,7 +60,7 @@ sequenceDiagram
     I->>B: 8. Ibu kembali untuk kedua kalinya
 ```
 
-Menariknya, indikator terpenting bukanlah seberapa keras anak menangis saat ditinggal pergi, melainkan bagaimana perilakunya saat **reuni (bertemu kembali dengan ibu)**. Momen inilah yang menjadi kunci utama Ainsworth dalam menentukan kategori kelekatan.
+Indikator terpenting bukanlah seberapa keras anak menangis saat ditinggal pergi, melainkan bagaimana perilakunya saat **reuni (bertemu kembali dengan ibu)**. Momen inilah yang menjadi kunci utama Ainsworth dalam menentukan kategori kelekatan.
 
 ## Tiga Klasifikasi Awal Ainsworth
 

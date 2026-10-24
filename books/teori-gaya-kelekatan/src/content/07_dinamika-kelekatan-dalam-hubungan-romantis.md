@@ -28,7 +28,7 @@ Dinamika yang paling umum dan merusak dalam hubungan romantis adalah siklus **Pe
 3. **Reaksi Si Menghindar (Deaktivasi):** Menghadapi desakan tersebut, Si Menghindar merasa sangat tertekan. Demi melindungi diri, ia mengaktifkan mode *flight* atau *freeze* dengan cara diam, meninggalkan ruangan, atau mematikan ponsel.
 4. **Eskalasi konflik:** Ketika Si Menghindar menarik diri, kepanikan Si Cemas justru berlipat ganda. Akibatnya, ia mengejar lebih keras, yang kemudian membuat Si Menghindar merasa harus bersembunyi lebih jauh lagi.
 
-Perhatikan pada bagan di bawah bagaimana langkah keempat kembali mendorong Si Menghindar menjauh, sehingga pola ini terus berputar.
+Bagan di bawah menunjukkan bagaimana langkah keempat kembali mendorong Si Menghindar menjauh, sehingga pola ini terus berputar.
 
 ```mermaid
 flowchart TD
