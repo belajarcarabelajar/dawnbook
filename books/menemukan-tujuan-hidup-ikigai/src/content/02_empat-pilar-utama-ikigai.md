@@ -1,6 +1,6 @@
 ## Empat Pilar Utama Ikigai
 
-Selamat datang di bagian yang akan membawa kita lebih dalam ke inti filosofi Ikigai. Setelah memahami konsep dasar Ikigai sebagai tujuan hidup dan alasan kita bangun di pagi hari, kini saatnya kita membongkar fondasinya: keempat pilar utama yang membentuk dan menuntun kita dalam perjalanan menemukan Ikigai. Keempat pilar ini adalah 'Apa yang Kamu Cintai', 'Apa yang Kamu Kuasai', 'Apa yang Dibutuhkan Dunia', dan 'Apa yang Dapat Menghasilkan Uang'. Memahami setiap pilar secara mendalam adalah langkah penting sebelum kita menggabungkannya.
+Apa sebenarnya yang menopang Ikigai, dan bagaimana kita bisa masuk lebih dalam ke inti filosofi yang selama ini baru kita kenal garis besarnya? Setelah memahami konsep dasar Ikigai sebagai tujuan hidup dan alasan kita bangun di pagi hari, kini saatnya kita membongkar fondasinya: keempat pilar utama yang membentuk dan menuntun kita dalam perjalanan menemukan Ikigai. Keempat pilar ini adalah 'Apa yang Kamu Cintai', 'Apa yang Kamu Kuasai', 'Apa yang Dibutuhkan Dunia', dan 'Apa yang Dapat Menghasilkan Uang'. Memahami setiap pilar secara mendalam adalah langkah penting sebelum kita menggabungkannya.
 
 ## 1\. Apa yang Kamu Cintai
 

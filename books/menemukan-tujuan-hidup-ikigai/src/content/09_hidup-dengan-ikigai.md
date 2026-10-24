@@ -1,6 +1,6 @@
 ## Hidup dengan Ikigai
 
-Selamat datang di bagian paling praktis dari perjalanan Ikigai kita! Setelah kamu memahami pilar-pilar, persimpangan, dan sudah mulai menyusun peta Ikigai secara mandiri, langkah selanjutnya adalah membawa wawasan tersebut ke dalam realitas sehari-hari. Bagian ini akan membimbing kamu menerapkan strategi nyata untuk menyatukan Ikigai di lingkungan kerja maupun kehidupan pribadi, sekaligus bersiap menghadapi rintangan yang mungkin muncul.
+Dari semua tahap perjalanan Ikigai kita, tahap inilah yang paling praktis, saat pemahamanmu mulai dipakai di tempat kerja dan kehidupan pribadi. Setelah kamu memahami pilar-pilar, persimpangan, dan sudah mulai menyusun peta Ikigai secara mandiri, langkah selanjutnya adalah membawa wawasan tersebut ke dalam realitas sehari-hari. Bagian ini akan membimbing kamu menerapkan strategi nyata untuk menyatukan Ikigai di lingkungan kerja maupun kehidupan pribadi, sekaligus bersiap menghadapi rintangan yang mungkin muncul.
 
 ## Mengintegrasikan Ikigai ke dalam Kehidupan Sehari-hari
 
