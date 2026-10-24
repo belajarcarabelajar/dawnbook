@@ -1,6 +1,6 @@
 ## Psikologi Perkembangan Dewasa Muda
 
-Pernahkah kamu merasa seperti sedang mengendarai mobil di tengah kabut tebal tanpa peta, sementara semua orang di media sosial tampaknya sudah sampai di tujuan mereka? Jika iya, kamu tidak sendirian. Apa yang kamu rasakan bukan cuma "galau" biasa; ada penjelasan ilmiah dan psikologis yang mendalam di baliknya.
+Pernahkah kamu merasa seperti mengendarai mobil di tengah kabut tebal tanpa peta, sementara semua orang di media sosial tampak sudah sampai di tujuan? Jika iya, kamu tidak sendirian. Apa yang kamu rasakan bukan cuma "galau" biasa; ada penjelasan ilmiah dan psikologis yang mendalam di baliknya.
 
 Dalam bagian ini, kita akan membedah apa yang sebenarnya terjadi di dalam kepala dan hatimu selama rentang usia 20 hingga 30 tahun. Kita akan mengeksplorasi mengapa fase ini begitu membingungkan, namun juga sangat menentukan bagi pembentukan dirimu di masa depan.
 

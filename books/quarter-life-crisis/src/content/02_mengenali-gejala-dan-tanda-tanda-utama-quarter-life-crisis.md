@@ -1,6 +1,6 @@
 ## Mengenali Gejala dan Tanda-Tanda Utama Quarter-Life Crisis
 
-Setelah memahami apa itu *Quarter-Life Crisis* (QLC) secara umum, langkah berikutnya yang sangat penting adalah mengenali bagaimana krisis ini bermanifestasi dalam kehidupan sehari-hari. QLC sering kali datang secara perlahan seperti kabut tipis yang menyelimuti pandangan kita, alih-alih datang secara tiba-tiba bagaikan badai. Kabut ini membuat arah tujuan hidup kita menjadi buram.
+Setelah memahami apa itu *Quarter-Life Crisis* (QLC) secara umum, kini saatnya mengenali bagaimana krisis ini bermanifestasi dalam kehidupan sehari-hari. QLC sering kali datang secara perlahan seperti kabut tipis yang menyelimuti pandangan kita, alih-alih datang secara tiba-tiba bagaikan badai. Kabut ini membuat arah tujuan hidup kita menjadi buram.
 
 Mengenali gejala sedini mungkin adalah kunci agar kamu tidak tenggelam dalam kebingungan. Dengan begitu, kamu bisa mulai mendayung ke arah yang lebih jelas. Mari kita bedah tanda-tanda utamanya.
 

@@ -1,6 +1,6 @@
 ## Dampak Media Sosial dan Perbandingan Sosial
 
-Pernahkah kamu mendapati dirimu terbangun di tengah malam, menggulir layar ponsel, dan tiba-tiba merasa hidupmu sangat tertinggal dibandingkan teman-teman SMA-mu? Di layar, mereka tampak sedang merayakan promosi jabatan, bertunangan di Paris, atau sekadar menikmati kopi estetis di kafe mahal. Sementara itu, kamu mungkin masih berkutat dengan tumpukan cucian atau kebingungan mencari arah karier.
+Pernahkah kamu terbangun di tengah malam, menggulir layar ponsel, dan tiba-tiba merasa hidupmu sangat tertinggal dibandingkan teman-teman SMA-mu? Di layar, mereka tampak sedang merayakan promosi jabatan, bertunangan di Paris, atau sekadar menikmati kopi estetis di kafe mahal. Sementara itu, kamu mungkin masih berkutat dengan tumpukan cucian atau kebingungan mencari arah karier.
 
 Inilah jantung dari *Quarter-Life Crisis* di era digital. Media sosial telah mengubah cara kita menilai kesuksesan diri sendiri, mengubah pencapaian orang lain menjadi tolok ukur yang sering kali tidak realistis.
 
