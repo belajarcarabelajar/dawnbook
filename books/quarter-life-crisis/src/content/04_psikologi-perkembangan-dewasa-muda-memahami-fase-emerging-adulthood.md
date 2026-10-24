@@ -1,8 +1,8 @@
 ## Psikologi Perkembangan Dewasa Muda
 
-Pernahkah kamu merasa seperti mengendarai mobil di tengah kabut tebal tanpa peta, sementara semua orang di media sosial tampak sudah sampai di tujuan? Jika iya, kamu tidak sendirian. Apa yang kamu rasakan bukan cuma "galau" biasa; ada penjelasan ilmiah dan psikologis yang mendalam di baliknya.
+Pernahkah kamu merasa seperti mengendarai mobil di tengah kabut tebal tanpa peta, sementara semua orang di media sosial tampak sudah sampai di tujuan? Jika iya, kamu tidak sendirian. Apa yang kamu rasakan bukan cuma "galau" biasa; ada penjelasan ilmiah dan psikologis di baliknya.
 
-Dalam bagian ini, kita akan membedah apa yang sebenarnya terjadi di dalam kepala dan hatimu selama rentang usia 20 hingga 30 tahun. Kita akan mengeksplorasi mengapa fase ini begitu membingungkan, namun juga sangat menentukan bagi pembentukan dirimu di masa depan.
+Dalam bagian ini, kita akan membedah apa yang sebenarnya terjadi di dalam kepala dan hatimu selama rentang usia 20 hingga 30 tahun. Kita akan mengeksplorasi mengapa fase ini membingungkan, namun juga menentukan bagi pembentukan dirimu di masa depan.
 
 ## 1\. Mengenal 'Emerging Adulthood'
 
@@ -22,7 +22,7 @@ Apakah kamu merasa lebih sering menjawab "Iya dan Tidak" secara bersamaan ketika
 
 ## 2\. Otak yang Masih 'Dalam Perbaikan'
 
-Seringkali kita menyalahkan kurangnya motivasi atau karakter yang lemah saat menghadapi *Quarter-Life Crisis*. Padahal, ada faktor biologis yang sangat berpengaruh: **Otak manusia belum sepenuhnya matang hingga usia pertengahan 20-an.**
+Seringkali kita menyalahkan kurangnya motivasi atau karakter yang lemah saat menghadapi *Quarter-Life Crisis*. Padahal, ada faktor biologis yang berpengaruh: **Otak manusia belum sepenuhnya matang hingga usia pertengahan 20-an.**
 
 ### Prefrontal Cortex Sang CEO yang Belum Dilantik
 
@@ -36,7 +36,7 @@ Bayangkan PFC sebagai CEO dari sebuah perusahaan. Pada usia 20-an, CEO ini masih
 
 ### Kimiawi Ketidakpastian
 
-Ketidakpastian di usia 20-an memicu pelepasan hormon stres seperti **Kortisol**. Jika otak tidak memiliki "rem" yang kuat (karena PFC belum matang), kecemasan ini bisa terasa sangat luar biasa. Secara matematis, kita bisa melihat keseimbangan respon emosional sebagai:
+Ketidakpastian di usia 20-an memicu pelepasan hormon stres seperti **Kortisol**. Jika otak tidak memiliki "rem" yang kuat (karena PFC belum matang), kecemasan ini bisa terasa sangat berat. Secara matematis, kita bisa melihat keseimbangan respon emosional sebagai:
 
 <div>
 $$
@@ -105,7 +105,7 @@ Memahami psikologi perkembangan di balik Quarter-Life Crisis membantu kamu untuk
 **Poin-poin Penting untuk Diingat:**
 
 - **Ketidakpastian adalah normal**: Otakmu sedang dalam tahap *finetuning*.
-- **Emerging Adulthood adalah anugerah**: Ini adalah waktu paling fleksibel dalam hidupmu untuk mencoba dan gagal.
+- **Emerging Adulthood adalah kesempatan**: Ini adalah waktu paling fleksibel dalam hidupmu untuk mencoba dan gagal.
 - **Biologi bukan takdir**: Meskipun otak belum matang sempurna, kamu bisa melatihnya melalui meditasi, refleksi, dan aksi nyata.
 
 **Penting:** Quarter-Life Crisis adalah sinyal bahwa identitas lama kamu sudah tidak cukup besar untuk menampung potensi baru kamu. Jangan hindari krisisnya, pelajari pesannya.

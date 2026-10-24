@@ -2,11 +2,11 @@
 
 Pernahkah kamu terbangun di tengah malam, menatap langit-langit kamar, dan tiba-tiba dihantam pertanyaan: *"Siapa saya sebenarnya? Apakah hidup yang saya jalani ini benar-benar keinginan saya, atau sekadar mengikuti naskah yang ditulis orang lain?"*
 
-Selamat datang di inti dari *Quarter-Life Crisis*. Di fase ini, krisis identitas lebih dari sekadar kebingungan remaja tentang gaya rambut atau selera musik; ini tentang **rekonstruksi eksistensial**. Kamu berada di persimpangan jalan di mana peta yang diberikan oleh orang tua, sekolah, dan masyarakat tidak lagi akurat untuk menavigasi wilayah dewasa yang sebenarnya.
+Selamat datang di inti dari *Quarter-Life Crisis*. Di fase ini, krisis identitas lebih dari sekadar kebingungan remaja tentang gaya rambut atau selera musik; ini tentang **menyusun ulang siapa dirimu**. Kamu berada di persimpangan jalan di mana peta yang diberikan oleh orang tua, sekolah, dan masyarakat tidak lagi akurat untuk menjalani kehidupan dewasa.
 
 ### 1. Memahami Paradoks Pilihan
 
-Di usia 20-an, kita sering diberitahu bahwa "dunia adalah tirammu" (*the world is your oyster*), bahwa kita bisa menjadi apa saja. Namun, bagi banyak orang, kebebasan tanpa batas ini justru memicu kelumpuhan analisis.
+Di usia 20-an, kita sering diberitahu bahwa "dunia adalah tirammu" (*the world is your oyster*), bahwa kita bisa menjadi apa saja. Namun, bagi banyak orang, kebebasan sebesar ini justru memicu kelumpuhan analisis.
 
 **Analogi Prasmanan Raksasa:** Bayangkan kamu pergi ke sebuah pesta dengan meja prasmanan sepanjang satu kilometer yang menyajikan ribuan jenis makanan dari seluruh dunia. Alih-alih merasa senang, kamu justru merasa cemas. Kamu takut jika mengambil rendang, kamu akan melewatkan sushi terbaik. Jika kamu mencoba pasta, kamu mungkin menyesal tidak mencoba steak. Akhirnya, kamu berdiri di depan meja dengan piring kosong, merasa lapar dan stres.
 
@@ -87,4 +87,4 @@ Jika kamu merasa tersesat, cobalah langkah-langkah berikut:
 
   Jangan takut salah pilih. Pilihan yang "salah" seringkali memberikan data yang paling akurat tentang siapa kamu sebenarnya.
 
-> **Pesan Penting:** Krisis identitas bukan tanda kegagalan atau gangguan mental; ini adalah sinyal evolusi dari jiwamu yang menolak untuk hidup dalam kepura-puraan. Anggaplah krisis ini sebagai undangan untuk mengenal dirimu kembali, tetapi kali ini dengan syarat dan ketentuan dari kamu sendiri.
+> **Pesan Penting:** Krisis identitas bukan tanda kegagalan atau gangguan mental; ini adalah sinyal bahwa kamu menolak untuk hidup dalam kepura-puraan. Anggaplah krisis ini sebagai undangan untuk mengenal dirimu kembali, tetapi kali ini dengan syarat dan ketentuan dari kamu sendiri.

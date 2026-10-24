@@ -8,7 +8,7 @@ Resiliensi bukan hanya soal kemampuan "tahan banting" atau menahan beban tanpa m
 
 ### 1. Memahami Anatomi Resiliensi
 
-Resiliensi tidak muncul secara ajaib. Resiliensi merupakan "otot mental" yang dibangun lewat perpaduan pola pikir, regulasi emosi, dan tindakan konsisten. Secara ilmiah, resiliensi dapat digambarkan melalui persamaan sederhana:
+Resiliensi tidak muncul dengan sendirinya. Resiliensi merupakan "otot mental" yang dibangun lewat perpaduan pola pikir, regulasi emosi, dan tindakan konsisten. Secara ilmiah, resiliensi dapat digambarkan melalui persamaan sederhana:
 
 $$
 \text{Resiliensi} = \frac{\text{Pola Pikir Adaptif} + \text{Dukungan Sosial}}{\text{Tingkat Tekanan}}
@@ -19,7 +19,7 @@ Meskipun kita tidak selalu bisa mengendalikan "Tingkat Tekanan", kita punya kend
 #### Tiga Pilar Ketangguhan Mental
 
 1. **Resiliensi Kognitif:** Bagaimana kita memproses informasi dan menafsirkan kegagalan. Apakah kita melihat hambatan sebagai jalan buntu atau sebagai teka-teki yang harus dipecahkan?
-2. **Resiliensi Emosional:** Kemampuan untuk tetap tenang di tengah badai perasaan. Caranya dengan mengenali emosi tanpa membiarkannya mengambil alih kendali hidup kita.
+2. **Resiliensi Emosional:** Kemampuan untuk tetap tenang saat perasaan sedang bergejolak. Caranya dengan mengenali emosi tanpa membiarkannya mengambil alih kendali hidup kita.
 3. **Resiliensi Perilaku:** Langkah nyata yang kita ambil untuk bangkit, meskipun kita merasa takut atau lelah.
 
 ### 2. Dari "Fragile" Menjadi "Antifragile"
@@ -81,4 +81,4 @@ Sebagai langkah praktis, buatlah daftar (digital atau fisik) yang berisi hal-hal
 
 > **Pesan Utama:** Ketangguhan mental tidak berarti kamu tidak pernah jatuh. Ini adalah kemampuan untuk bangkit kembali setiap kali kamu terjatuh.
 
-*Ingatlah bahwa intan hanya terbentuk di bawah tekanan tinggi selama ribuan tahun. Krisis yang kamu alami sekarang adalah proses yang sedang membentuk nilai dirimu di masa depan.*
+*Krisis yang kamu alami sekarang adalah bagian dari proses yang membentuk dirimu di masa depan.*

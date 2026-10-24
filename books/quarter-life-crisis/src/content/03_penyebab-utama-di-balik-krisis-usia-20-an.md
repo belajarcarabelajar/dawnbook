@@ -2,7 +2,7 @@
 
 Selamat datang di inti pembahasan mengenai *Quarter-Life Crisis* (QLC). Jika pada bagian sebelumnya kita telah mendefinisikan apa itu QLC dan mengenali gejalanya, sekarang saatnya kita membedah "mesin" di baliknya. Mengapa krisis ini terjadi? Mengapa generasi sekarang tampaknya lebih rentan merasakannya dibandingkan generasi sebelumnya?
 
-Kita akan menganalisis tiga pilar utama yang menjadi pemicu badai emosional ini: **tekanan ekspektasi sosial**, **gegar budaya transisi dunia kerja**, dan **pergeseran peran interpersonal**.
+Kita akan menganalisis tiga pilar utama yang menjadi pemicu krisis ini: **tekanan ekspektasi sosial**, **gegar budaya transisi dunia kerja**, dan **pergeseran peran interpersonal**.
 
 ## 1\. Beban Berat Ekspektasi Sosial
 
@@ -28,23 +28,23 @@ Semakin besar nilai $\text{Ekspektasi}$ yang dibebankan oleh masyarakat (orang t
 
 ## 2\. Transisi Brutal dari Bangku Kuliah ke Realita Kerja
 
-Transisi dari dunia pendidikan ke dunia profesional adalah salah satu lompatan paling drastis dalam hidup manusia. Bayangkan kamu berpindah dari kolam renang yang tenang ke laut lepas tanpa pelampung.
+Transisi dari dunia pendidikan ke dunia profesional adalah lompatan besar dalam hidup. Bayangkan kamu berpindah dari kolam renang yang tenang ke laut lepas tanpa pelampung.
 
 ### Mengapa Transisi Ini Menyakitkan?
 
-1. **Hilangnya Struktur (Loss of Structure):** Di dunia pendidikan, jalurnya jelas: belajar $\rightarrow$ ujian $\rightarrow$ naik kelas. Di dunia nyata, tidak ada kurikulum. Kamu bisa bekerja keras namun tidak mendapatkan "nilai A". Ketidakpastian ini memicu kecemasan hebat.
+1. **Hilangnya Struktur (Loss of Structure):** Di dunia pendidikan, jalurnya jelas: belajar $\rightarrow$ ujian $\rightarrow$ naik kelas. Di dunia nyata, tidak ada kurikulum. Kamu bisa bekerja keras namun tidak mendapatkan "nilai A". Ketidakpastian ini memicu kecemasan.
 2. **Paradoks Pilihan (The Paradox of Choice):** Saat kuliah, pilihanmu terbatas pada mata kuliah. Saat lulus, dunia menawarkan ribuan jalan. Bukannya merasa bebas, banyaknya pilihan sering membuat kita lumpuh karena takut mengambil keputusan yang salah (*Analysis Paralysis*).
-3. **Kesenjangan Keterampilan:** Apa yang dipelajari di bangku formal sering tidak relevan dengan kebutuhan industri, menciptakan perasaan tidak kompeten yang mendalam.
+3. **Kesenjangan Keterampilan:** Apa yang dipelajari di bangku formal sering tidak relevan dengan kebutuhan industri, sehingga muncul perasaan tidak kompeten.
 
-**Peta vs. Kompas** *Pendidikan memberikanmu **Peta** yang statis. Namun, dunia kerja adalah hutan belantara yang terus berubah. Masalahnya, banyak dari kita tidak diajarkan cara menggunakan **Kompas** (intuisi dan adaptabilitas), sehingga saat peta tidak lagi akurat, kita merasa tersesat total.*
+**Peta vs. Kompas** *Pendidikan memberikanmu **Peta** yang statis. Namun, dunia kerja adalah hutan belantara yang terus berubah. Masalahnya, banyak dari kita tidak diajarkan cara menggunakan **Kompas** (intuisi dan adaptabilitas), sehingga saat peta tidak lagi akurat, kita merasa tersesat.*
 
 ## 3\. Pergeseran Peran dalam Hubungan Interpersonal
 
-Memasuki usia 20-an, dinamika hubungan dengan orang-orang di sekitar kita mengalami evolusi yang sering canggung dan menyakitkan.
+Memasuki usia 20-an, dinamika hubungan dengan orang-orang di sekitar kita mengalami perubahan yang sering canggung dan menyakitkan.
 
 ### A. Hubungan dengan Orang Tua
 
-Terjadi pergeseran peran dari "anak yang dilindungi" menjadi "dewasa yang setara". Muncul konflik batin antara keinginan untuk mandiri sepenuhnya dengan kebutuhan (atau kewajiban) untuk tetap berbakti. Di banyak budaya, fenomena *Sandwich Generation* mulai mengintai, di mana anak muda merasa harus menanggung beban finansial orang tua saat mereka sendiri belum stabil.
+Terjadi pergeseran peran dari "anak yang dilindungi" menjadi "dewasa yang setara". Muncul konflik batin antara keinginan untuk mandiri sepenuhnya dengan kebutuhan (atau kewajiban) untuk tetap berbakti. Di banyak budaya, fenomena *Sandwich Generation* mulai muncul, di mana anak muda merasa harus menanggung beban finansial orang tua saat mereka sendiri belum stabil.
 
 ### B. Persahabatan dari Kuantitas ke Kualitas
 
@@ -66,7 +66,7 @@ Pertanyaan "Kapan nikah?" kini telah bergeser dari basa-basi biasa menjadi beban
 
 ## Refleksi Diri
 
-Memahami penyebab QLC adalah langkah pertama untuk menaklukkannya. Dengan mengetahui bahwa perasaan "tersesat" ini adalah hasil dari tekanan eksternal dan perubahan peran yang masif, kita bisa mulai memisahkan mana beban yang memang milik kita, dan mana beban yang dipaksakan oleh orang lain.
+Memahami penyebab QLC adalah langkah pertama untuk melewatinya. Dengan mengetahui bahwa perasaan "tersesat" ini adalah hasil dari tekanan eksternal dan perubahan peran yang besar, kita bisa mulai memisahkan mana beban yang memang milik kita, dan mana beban yang dipaksakan oleh orang lain.
 
 *Dari tiga penyebab utama di atas (ekspektasi sosial, transisi kerja, hubungan interpersonal), mana yang saat ini paling berat kamu rasakan? Mengapa faktor tersebut terasa begitu dominan dalam hidupmu sekarang?*
 

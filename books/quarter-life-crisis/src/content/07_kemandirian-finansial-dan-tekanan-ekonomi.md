@@ -1,8 +1,8 @@
 ## Kemandirian Finansial dan Tekanan Ekonomi
 
-Pernahkah kamu merasa bahwa meskipun gajimu sudah naik, saldo di rekening bank seolah-olah menguap begitu saja sebelum pertengahan bulan? Atau mungkin, kamu merasa tercekik saat melihat teman sebaya sudah bisa membeli properti, sementara kamu masih berjuang membayar tagihan langganan bulanan?
+Pernahkah kamu merasa bahwa meskipun gajimu sudah naik, saldo di rekening bank seolah-olah menguap begitu saja sebelum pertengahan bulan? Atau mungkin, kamu merasa tertekan saat melihat teman sebaya sudah bisa membeli properti, sementara kamu masih berjuang membayar tagihan langganan bulanan?
 
-Selamat datang di realitas finansial fase *Quarter-Life Crisis*. Di bagian ini, kita akan mengupas tuntas mengapa tekanan ekonomi di usia 20-an terasa jauh lebih berat dibandingkan generasi sebelumnya, dan bagaimana cara menavigasi badai ketidakpastian ini tanpa mengorbankan kesehatan mentalmu.
+Selamat datang di realitas finansial fase *Quarter-Life Crisis*. Di bagian ini, kita akan membahas mengapa tekanan ekonomi di usia 20-an terasa jauh lebih berat dibandingkan generasi sebelumnya, dan bagaimana cara menghadapi ketidakpastian ini tanpa mengorbankan kesehatan mentalmu.
 
 ## 1. Realitas Biaya Hidup
 
@@ -36,10 +36,10 @@ Di tengah tekanan ekonomi, akses terhadap kredit menjadi pedang bermata dua. Bag
 
 Tidak semua utang itu buruk, namun dalam *Quarter-Life Crisis*, banyak yang terjebak dalam utang konsumtif karena tekanan sosial.
 
-- **Paylater & Pinjol (Pinjaman Online):** Kemudahan akses membuat banyak individu terjebak dalam bunga majemuk yang menghancurkan.
+- **Paylater & Pinjol (Pinjaman Online):** Kemudahan akses membuat banyak individu terjebak dalam bunga majemuk yang memberatkan.
 	- *Rumus Bunga Majemuk:* $A = P(1 + r)^n$
 		- Artinya, jika kamu menunda pembayaran, utangmu tumbuh secara eksponensial, bukan linear.
-- **Studi Kasus Singkat:** Rina (24 tahun) menggunakan fitur *Paylater* untuk membeli ponsel baru seharga Rp10.000.000 dengan bunga 3% per bulan. Jika ia hanya membayar minimum, dalam satu tahun ia bisa membayar hampir 1,5 kali lipat dari harga asli. Tekanan untuk melunasi ini seringkali memicu kecemasan hebat setiap kali notifikasi jatuh tempo muncul.
+- **Studi Kasus Singkat:** Rina (24 tahun) menggunakan fitur *Paylater* untuk membeli ponsel baru seharga Rp10.000.000 dengan bunga 3% per bulan. Jika ia hanya membayar minimum, dalam satu tahun ia bisa membayar hampir 1,5 kali lipat dari harga asli. Tekanan untuk melunasi ini seringkali memicu kecemasan setiap kali notifikasi jatuh tempo muncul.
 
 ## 3. "Money Anxiety" dan Ketidakpastian Global
 

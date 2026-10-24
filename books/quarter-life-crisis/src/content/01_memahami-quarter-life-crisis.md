@@ -26,11 +26,11 @@ Meskipun fenomenanya mungkin sudah ada sejak lama, istilah ini tidak muncul begi
 
 ## Mengapa Fenomena Ini Sangat Relevan Sekarang?
 
-Mungkin kamu bertanya, *"Mengapa generasi orang tua kita dulu sepertinya tidak seheboh ini?"* Ini terjadi karena **konteks zamannya berbeda**, bukan karena mereka lebih tangguh. Berikut adalah alasan mengapa QLC menjadi sangat relevan bagi generasi muda saat ini:
+Mungkin kamu bertanya, *"Mengapa generasi orang tua kita dulu sepertinya tidak seheboh ini?"* Ini terjadi karena **konteks zamannya berbeda**, bukan karena mereka lebih tangguh. Berikut adalah alasan mengapa QLC menjadi relevan bagi generasi muda saat ini:
 
 ### 1\. Paradoks Pilihan (Paradox of Choice)
 
-Dulu, jalur hidup cenderung linier: sekolah, kerja (di satu perusahaan sampai pensiun), menikah, punya anak. Sekarang, pilihannya tak terbatas. Kamu bisa menjadi PNS, *freelancer*, *content creator*, hingga *digital nomad*. Terlalu banyak pilihan justru seringkali menyebabkan kecemasan karena takut melewatkan pilihan yang "terbaik".
+Dulu, jalur hidup cenderung linier: sekolah, kerja (di satu perusahaan sampai pensiun), menikah, punya anak. Sekarang, pilihannya jauh lebih banyak. Kamu bisa menjadi PNS, *freelancer*, *content creator*, hingga *digital nomad*. Terlalu banyak pilihan justru seringkali menyebabkan kecemasan karena takut melewatkan pilihan yang "terbaik".
 
 ### 2\. Kesenjangan Ekspektasi vs. Realitas
 

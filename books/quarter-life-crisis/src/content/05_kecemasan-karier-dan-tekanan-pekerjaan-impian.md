@@ -2,7 +2,7 @@
 
 Bayangkan kamu berdiri di tengah persimpangan jalan dengan ribuan penunjuk arah yang berbeda. Beberapa jalan terlihat berkilau dan penuh prestise, sementara yang lain tampak gelap dan penuh ketidakpastian. Di belakangmu, ada suara riuh rendah dari orang tua, media sosial, dan teman sebaya yang masing-masing meneriakkan jalur mana yang "seharusnya" kamu ambil.
 
-Inilah gambaran **Kecemasan Karier** dalam fase *Quarter-Life Crisis*. Ini bukan hanya soal mencari pekerjaan untuk membayar tagihan, tetapi tentang pencarian validasi, identitas, dan ketakutan akan kegagalan di panggung dunia yang sangat kompetitif.
+Inilah gambaran **Kecemasan Karier** dalam fase *Quarter-Life Crisis*. Ini bukan hanya soal mencari pekerjaan untuk membayar tagihan, tetapi tentang pencarian validasi, identitas, dan ketakutan akan kegagalan di tengah persaingan yang ketat.
 
 ## 1\. Mitos 'Pekerjaan Impian' (The Dream Job Trap)
 
@@ -84,6 +84,6 @@ Gunakan tabel di bawah ini untuk memetakan apa yang sebenarnya kamu rasakan saat
 
 > Kariermu adalah sebuah maraton di medan yang belum dipetakan, bukan perlombaan lari cepat (sprint). Tidak ada "jalur yang salah", yang ada hanyalah jalur yang memberikan pelajaran berbeda.
 
-**Penting:** Pekerjaanmu adalah apa yang kamu lakukan untuk hidup, bukan siapa kamu sebagai manusia. Memisahkan identitas diri dari pencapaian karier adalah kunci utama untuk bertahan melewati badai *Quarter-Life Crisis*.
+**Penting:** Pekerjaanmu adalah apa yang kamu lakukan untuk hidup, bukan siapa kamu sebagai manusia. Memisahkan identitas diri dari pencapaian karier membantu kamu melewati *Quarter-Life Crisis*.
 
 *Refleksi untuk kamu: Jika besok semua gelar dan jabatanmu dihapus, kualitas apa yang tetap ada dalam dirimu yang membuat kamu berharga?*
