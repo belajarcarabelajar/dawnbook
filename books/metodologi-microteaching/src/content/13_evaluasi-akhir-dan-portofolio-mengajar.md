@@ -1,6 +1,6 @@
 ## Evaluasi Akhir dan Portofolio Mengajar
 
-Selamat! Kamu telah melewati berbagai siklus latihan, mulai dari kegugupan di simulasi pertama hingga keberhasilan di tahap *re-teaching*. Namun, perjalanan microteaching tidak berhenti saat kamu meletakkan kapur atau mematikan proyektor. Tahap ini adalah tahap penting untuk merangkum seluruh pengalaman latihan menjadi gambaran perkembangan profesional kamu.
+Kamu telah melewati berbagai siklus latihan, mulai dari kegugupan di simulasi pertama hingga keberhasilan di tahap *re-teaching*. Namun, perjalanan microteaching tidak berhenti saat kamu meletakkan kapur atau mematikan proyektor. Tahap ini adalah tahap penting untuk merangkum seluruh pengalaman latihan menjadi gambaran perkembangan profesional kamu.
 
 **Evaluasi Akhir** bukan sekadar nilai angka, melainkan proses merangkum pengalaman. Sementara itu, **Portofolio Mengajar** adalah bukti bahwa kamu telah berkembang dari seseorang yang memahami teori menjadi pendidik yang mampu mengeksekusi keterampilan di lapangan.
 
