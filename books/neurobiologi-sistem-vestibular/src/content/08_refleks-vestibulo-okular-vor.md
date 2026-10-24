@@ -1,6 +1,6 @@
 ## Refleks Vestibulo-Okular (VOR)
 
-Pernahkah kita mencoba membaca pesan teks di ponsel saat sedang berjalan cepat atau berlari? Meskipun kepala bergerak naik-turun dan bergoyang ke samping, mata kita tetap mampu "mengunci" teks tersebut sehingga tetap terbaca dengan jelas. Keajaiban biologis ini bukan terjadi secara kebetulan; ini adalah kerja keras dari **Refleks Vestibulo-Okular (VOR)**.
+Pernahkah kita mencoba membaca pesan teks di ponsel saat sedang berjalan cepat atau berlari? Meskipun kepala bergerak naik-turun dan bergoyang ke samping, mata kita masih mampu "mengunci" teks tersebut sehingga teks itu terbaca dengan jelas. Keajaiban biologis ini bukan terjadi secara kebetulan; ini adalah kerja keras dari **Refleks Vestibulo-Okular (VOR)**.
 
 VOR adalah salah satu refleks tercepat dalam tubuh manusia. Fungsinya sangat spesifik: menghasilkan gerakan mata yang berlawanan arah dengan gerakan kepala untuk menjaga bayangan objek tetap stabil di pusat retina (**fovea**).
 
@@ -86,7 +86,7 @@ Bayangkan saat menumpangi bus yang melintasi jalanan berlubang. Kepala terhentak
 1. **Sensor:** Kanalis semisirkularis posterior dan anterior mendeteksi rotasi vertikal.
 2. **Proses:** Sirkuit VOR menghitung akselerasi tersebut dalam hitungan milidetik.
 3. **Aksi:** Otot-otot rektus superior dan inferior mata bergerak secara otomatis untuk melawan arah hentakan bus.
-4. **Hasil:** Huruf-huruf di buku yang sedang dibaca tetap tajam, meskipun tubuh berguncang hebat.
+4. **Hasil:** Huruf-huruf di buku yang sedang dibaca masih tajam, meskipun tubuh berguncang hebat.
 
 ## Bagaimana Dokter Menguji VOR?
 
@@ -96,7 +96,7 @@ Dalam dunia medis, integritas jalur VOR sangat penting untuk mendiagnosis ganggu
 
 Dokter akan meminta pasien fokus pada hidung dokter, lalu dokter memutar kepala pasien secara cepat dan tidak terduga ke satu sisi.
 
-- **Normal:** Mata pasien tetap terkunci pada hidung dokter.
+- **Normal:** Mata pasien terus terkunci pada hidung dokter.
 - **Abnormal:** Mata pasien ikut bergerak searah kepala, lalu melakukan gerakan koreksi cepat (*catch-up saccade*) kembali ke hidung. Ini menandakan adanya kerusakan pada organ vestibular di sisi tersebut.
 
 ### 2. Tes Kalori (COWS)

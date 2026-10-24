@@ -2,7 +2,7 @@
 
 Selamat datang di penjelajahan mendalam mengenai salah satu sistem sensorik paling vital namun sering kali terlupakan: **Sistem Vestibular**. Jika penglihatan memberi tahu kita di mana benda berada, dan pendengaran memberi tahu kita apa yang terjadi di sekitar, maka sistem vestibular memberi tahu kita **siapa dan di mana kita berada dalam ruang**.
 
-Sistem ini bekerja 24 jam sehari, bahkan saat kita tidur, untuk memastikan bahwa kita tidak merasa pusing saat menoleh dan tetap tegak meskipun dunia di sekitar kita bergerak.
+Sistem ini bekerja 24 jam sehari, termasuk saat kita tidur, untuk memastikan bahwa kita tidak merasa pusing saat menoleh dan tetap tegak meskipun dunia di sekitar kita bergerak.
 
 ### 1. Apa Itu Sistem Vestibular?
 
@@ -24,7 +24,7 @@ Fungsi yang paling jelas adalah mencegah tubuh terjatuh. Otak menerima sinyal ko
 
 #### B. Orientasi Spasial terhadap Gravitasi
 
-Sistem vestibular adalah satu-satunya indra yang secara khusus dirancang untuk mendeteksi gaya gravitasi bumi ($g \approx 9.8 \text{ m/s}^2$). Hal ini memungkinkan kita untuk memiliki persepsi "atas" dan "bawah" yang absolut, bahkan tanpa bantuan visual.
+Sistem vestibular adalah satu-satunya indra yang secara khusus dirancang untuk mendeteksi gaya gravitasi bumi ($g \approx 9.8 \text{ m/s}^2$). Hal ini memungkinkan kita untuk memiliki persepsi "atas" dan "bawah" yang absolut, juga tanpa bantuan visual.
 
 > **Insight Penting:** Tanpa sistem vestibular, manusia akan merasa melayang tanpa arah saat menutup mata, kehilangan kemampuan untuk menentukan orientasi tubuh terhadap permukaan bumi.
 
