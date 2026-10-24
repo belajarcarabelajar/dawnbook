@@ -119,7 +119,7 @@ $$
 \lim_{n \to \infty} \frac{f}{n} \approx 0
 $$
 
-*Artinya: Satu kesalahan dari ribuan baris kode yang benar tidak mendefinisikan totalitas profesionalisme kamu.*
+*Artinya: Satu kesalahan dari ribuan baris kode yang benar tidak menentukan profesionalisme kamu secara keseluruhan.*
 
 2. **Mencari Solusi:** Alih-alih tenggelam dalam rasa bersalah, pikiran diubah menjadi: "Kesalahan terjadi pada sistem yang kompleks. Langkah terbaik adalah melakukan *rollback*, memperbaiki *bug*, dan membuat *automated test* agar ini tidak terulang."
 

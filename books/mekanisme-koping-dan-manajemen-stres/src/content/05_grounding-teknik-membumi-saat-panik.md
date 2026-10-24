@@ -1,6 +1,6 @@
 ## Teknik Membumi (Grounding) saat Terjadi Panik
 
-Pernahkah kamu merasa seolah-olah pikiranmu "melayang", atau terjebak dalam pusaran kecemasan yang membuat dunia sekitarmu terasa tidak nyata? Dalam psikologi, fenomena ini sering disebut sebagai disosiasi (*dissociation*) atau *detachment*. Saat panik menyerang, otak cenderung beralih ke mode bertahan hidup yang ekstrem, mengabaikan realitas fisik demi ancaman yang ada dalam pikiran.
+Pernahkah kamu merasa seolah-olah pikiranmu "melayang", atau terjebak dalam kecemasan yang membuat dunia sekitarmu terasa tidak nyata? Dalam psikologi, fenomena ini sering disebut sebagai disosiasi (*dissociation*) atau *detachment*. Saat panik menyerang, otak cenderung beralih ke mode bertahan hidup, mengabaikan realitas fisik demi ancaman yang ada dalam pikiran.
 
 **Grounding** (atau teknik membumi) adalah jangkarmu. Sama seperti sebuah kapal yang membutuhkan jangkar agar tidak hanyut terbawa badai, *grounding* membantu kamu tetap terhubung dengan realitas di sini dan saat ini (*here and now*).
 
@@ -22,7 +22,7 @@ $$
 
 ### Metode Sensory Grounding 5-4-3-2-1
 
-Ini adalah teknik *grounding* yang sangat populer dan efektif karena melibatkan kelima indra. Metode *5-4-3-2-1 technique* membantu otak berhenti memproses skenario buruk di masa depan dan kembali fokus pada lingkungan fisik saat ini.
+Ini adalah teknik *grounding* yang populer dan efektif karena melibatkan kelima indra. Metode *5-4-3-2-1 technique* membantu otak berhenti memproses skenario buruk di masa depan dan kembali fokus pada lingkungan fisik saat ini.
 
 | Indra | Target Fokus | Contoh Aplikasi Praktis |
 | :--- | :--- | :--- |

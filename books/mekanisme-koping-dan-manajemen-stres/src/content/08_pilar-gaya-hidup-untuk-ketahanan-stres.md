@@ -2,11 +2,11 @@
 
 Bayangkan tubuhmu adalah sebuah benteng. Teknik koping seperti pernapasan atau *grounding* adalah prajurit yang memadamkan api saat ada serangan. Namun, **pilar gaya hidup** (apa yang kamu makan, bagaimana kamu bergerak, dan seberapa nyenyak kamu tidur) adalah fondasi dan ketebalan dinding benteng itu sendiri. Tanpa fondasi yang kuat, prajurit terbaik pun akan kewalahan menghadapi serangan stres yang bertubi-tubi.
 
-Dalam bagian ini, kita akan membedah bagaimana aspek biologis tubuh, terutama hormon **kortisol**, sangat dipengaruhi oleh rutinitas harian.
+Dalam bagian ini, kita akan membedah bagaimana aspek biologis tubuh, terutama hormon **kortisol**, dipengaruhi oleh rutinitas harian.
 
 ### 1. Kortisol dan Keseimbangan Biologis
 
-Sebelum kita membahas aktivitas fisik atau nutrisi, kita harus mengenal "aktor utama" dalam drama stres kita: **Kortisol**.
+Sebelum kita membahas aktivitas fisik atau nutrisi, kita perlu mengenal hormon utama dalam respons stres: **Kortisol**.
 
 Kortisol adalah hormon steroid yang diproduksi oleh kelenjar adrenal. Rumus kimianya adalah $C_{21}H_{30}O_5$. Dalam dosis yang tepat, kortisol membantu kita bangun pagi dan memberi energi. Namun, stres kronis membuat kadar kortisol tetap tinggi, yang berdampak buruk pada tubuh.
 
@@ -24,7 +24,7 @@ Aktivitas fisik adalah salah satu cara tercepat untuk memetabolisme kelebihan ho
 
 **Rekomendasi Strategis:**
 
-- **Latihan Aerobik (Lari, Berenang):** Sangat efektif untuk menjernihkan pikiran dari kecemasan akut.
+- **Latihan Aerobik (Lari, Berenang):** Efektif untuk menjernihkan pikiran dari kecemasan akut.
 - **Latihan Beban:** Membantu meningkatkan kepercayaan diri dan regulasi hormon jangka panjang.
 - **Aktivitas Low-Intensity (Yoga, Jalan Santai):** Menurunkan sistem saraf simpatik (mode bertarung) dan mengaktifkan sistem parasimpatik (mode istirahat).
 
@@ -87,4 +87,4 @@ Kurang tidur adalah pemicu stres fisiologis yang besar. Tanpa tidur yang cukup, 
 | **Nutrisi** | Menstabilkan energi & hormon | Kurangi gula tambahan, tambah serat |
 | **Tidur** | Menghapus limbah otak | Tidur 15 menit lebih awal dari biasanya |
 
-> **Catatan Utama:** Manajemen stres tak hanya berguna saat krisis melanda, tetapi juga tentang bagaimana kamu mempersiapkan tubuh agar tangguh menghadapi tekanan. Gaya hidup sehat adalah investasi terbaik untuk kesehatan mentalmu.
+> **Catatan Utama:** Manajemen stres tak hanya berguna saat krisis melanda, tetapi juga tentang bagaimana kamu mempersiapkan tubuh agar tangguh menghadapi tekanan. Gaya hidup sehat ikut menjaga kesehatan mentalmu.

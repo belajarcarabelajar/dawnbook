@@ -2,11 +2,11 @@
 
 Pernahkah kamu merasa jantung berdebar kencang sebelum presentasi penting, atau merasa pikiran sulit berhenti berputar saat mencoba tidur di malam hari? Dalam momen-momen penuh tekanan seperti itu, tubuh sering kali terjebak dalam mode *fight-or-flight* (lawan atau lari).
 
-Teknik Pernapasan 4-7-8 adalah salah satu cara tercepat dan paling efektif untuk secara sadar mengambil alih kendali sistem sarafmu. Dipopulerkan oleh Dr. Andrew Weil, metode ini adalah bentuk pengondisian sistem saraf yang dirancang untuk membawa tubuh kembali ke keadaan tenang dengan cepat.
+Teknik Pernapasan 4-7-8 adalah salah satu cara cepat untuk mengambil alih kendali sistem sarafmu secara sadar. Dipopulerkan oleh Dr. Andrew Weil, metode ini adalah bentuk pengondisian sistem saraf yang dirancang untuk membawa tubuh kembali ke keadaan tenang dengan cepat.
 
 ## Sains di Balik Ritme 4-7-8
 
-Mengapa angka-angka ini begitu spesifik? Mengapa tidak 5-5-5 atau 3-3-3? Rahasianya terletak pada bagaimana ritme ini berinteraksi dengan sistem saraf otonom.
+Mengapa angkanya 4, 7, dan 8? Mengapa tidak 5-5-5 atau 3-3-3? Jawabannya ada pada cara ritme ini berinteraksi dengan sistem saraf otonom.
 
 ### 1. Mengaktifkan Rem Tubuh (Sistem Parasimpatis)
 
@@ -64,11 +64,11 @@ Bayangkan pikiranmu adalah sebuah komputer yang memiliki terlalu banyak aplikasi
 - **Menahan napas (7):** Momen ketika kamu menekan tombol *Shut Down*.
 - **Menghembuskan napas (8):** Proses membersihkan memori dan mendinginkan mesin.
 
-Setelah melakukan teknik ini, sistem tubuh dan pikiranmu terbuka kembali dengan lebih segar, bersih, serta siap bekerja optimal tanpa beban prosesor yang berlebihan.
+Setelah melakukan teknik ini, tubuh dan pikiranmu kembali bekerja dengan lebih segar, seperti komputer yang beban prosesornya sudah berkurang.
 
 ## Skenario Penggunaan dalam Kehidupan Sehari-hari
 
-Teknik 4-7-8 sangat praktis karena tidak memerlukan alat apa pun dan bisa dilakukan secara terselubung tanpa menarik perhatian. Berikut adalah beberapa skenario ketika teknik ini bekerja sangat efektif:
+Teknik 4-7-8 praktis karena tidak memerlukan alat apa pun dan bisa dilakukan tanpa menarik perhatian. Berikut adalah beberapa skenario ketika teknik ini berguna:
 
 - **Sebelum Tidur (Insomnia):** Ini adalah penggunaan paling populer. Ritme ini membantu menurunkan detak jantung dan mempersiapkan otak untuk masuk ke gelombang tidur.
 - **Menghadapi Konfrontasi:** Jika kamu merasa marah atau tersinggung oleh perkataan seseorang, lakukan satu siklus 4-7-8 sebelum merespons. Ini memberi jeda antara impuls emosional dan tindakan.

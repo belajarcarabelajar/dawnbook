@@ -26,7 +26,7 @@ Untuk menentukan mana yang merupakan "batu besar" kamu, gunakan kerangka kerja b
 
 ### 2. Teknik Delegasi
 
-Banyak orang sulit mendelegasikan tugas karena merasa "kalau bukan saya yang kerjakan, hasilnya tidak akan bagus." Pemikiran ini adalah resep instan menuju *burnout*.
+Banyak orang sulit mendelegasikan tugas karena merasa "kalau bukan saya yang kerjakan, hasilnya tidak akan bagus." Pemikiran ini mudah berujung pada *burnout*.
 
 **Langkah-langkah Delegasi yang Efektif:**
 

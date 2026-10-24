@@ -1,6 +1,6 @@
 ## Menyusun Rencana Manajemen Stres Berkelanjutan
 
-Selamat datang di bagian akhir dari perjalanan manajemen stres kamu. Jika bagian-bagian sebelumnya telah membekali kamu dengan pertolongan pertama dan teknik spesifik, bagian ini berfokus pada **keberlanjutan (sustainability)**.
+Di bagian akhir ini, teknik-teknik yang sudah kamu pelajari dirangkai menjadi rencana manajemen stres pribadi yang bisa dijalankan jangka panjang. Jika bagian-bagian sebelumnya telah membekali kamu dengan pertolongan pertama dan teknik spesifik, bagian ini berfokus pada **keberlanjutan (sustainability)**.
 
 Mengelola stres bukan proyek sekali jalan, tetapi sebuah gaya hidup. Ibarat merawat sebuah bangunan, kamu tidak hanya memperbaiki atap yang bocor saat hujan (krisis), tetapi juga memastikan fondasinya tetap kokoh sepanjang tahun.
 
@@ -20,7 +20,7 @@ Jika beban stressor meningkat, sumber daya dan dukungan kamu harus ditingkatkan 
 2. **Integrasi Ritual Mikro**: Jangan menunggu liburan panjang untuk pulih. Masukkan teknik pernapasan atau *grounding* dalam jadwal harian (misalnya 5 menit setelah makan siang).
 3. **Evaluasi Diri Berkala**: Gunakan skala 1-10 untuk menilai tingkat stres kamu setiap pagi. Jika angka menunjukkan $>7$ selama tiga hari berturut-turut, itu adalah sinyal untuk mengaktifkan mode pemulihan ekstra.
 
-> **Penting:** Konsistensi jauh lebih berharga daripada intensitas. Melakukan meditasi 5 menit setiap hari lebih efektif bagi otak daripada meditasi 2 jam namun hanya dilakukan sebulan sekali.
+> **Penting:** Konsistensi lebih berharga daripada intensitas. Melakukan meditasi 5 menit setiap hari lebih efektif bagi otak daripada meditasi 2 jam namun hanya dilakukan sebulan sekali.
 
 ---
 
@@ -58,7 +58,7 @@ Secara umum, kamu bisa memulai dengan mengunjungi **Psikolog**. Jika dalam prose
 
 ### 4. Pemulihan Jangka Panjang Andi
 
-**Skenario:** Andi adalah seorang manajer proyek yang baru saja menyelesaikan proyek besar selama 6 bulan yang sangat penuh tekanan. Meskipun proyek selesai, Andi merasa "kosong", sulit tidur, dan mudah marah pada keluarganya.
+**Skenario:** Andi adalah seorang manajer proyek yang baru saja menyelesaikan proyek besar selama 6 bulan yang penuh tekanan. Meskipun proyek selesai, Andi merasa "kosong", sulit tidur, dan mudah marah pada keluarganya.
 
 **Rencana Aksi Andi:**
 
