@@ -2,7 +2,7 @@
 
 Pernahkah teramati bentuk ujung sayap pesawat komersial modern saat duduk di dekat jendela kabin? Terlihat jelas ujung sayap yang melengkung ke atas atau memiliki sirip tambahan aerodinamis yang khas. Struktur tersebut bukan sekadar variasi estetika, melainkan perangkat untuk meningkatkan efisiensi bahan bakar dan performa aerodinamika.
 
-Bagian ini menguraikan fisika dan matematika **Desain Wingtip dan Reduksi Vorteks**, termasuk bagaimana fenomena kebocoran aliran udara di ujung sayap dapat dikendalikan dan diubah menjadi keuntungan aerodinamis.
+Fisika dan matematika **Desain Wingtip dan Reduksi Vorteks** menjelaskan bagaimana kebocoran aliran udara di ujung sayap dapat dikendalikan dan diubah menjadi keuntungan aerodinamis.
 
 ### 1. Kebocoran Tekanan dan Pembentukan Vorteks
 
