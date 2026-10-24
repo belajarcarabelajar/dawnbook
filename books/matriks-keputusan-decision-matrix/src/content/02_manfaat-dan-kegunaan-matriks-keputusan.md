@@ -77,4 +77,4 @@ Untuk memudahkanmu mengingat, berikut adalah ringkasan manfaat matriks keputusan
 
 **Catatan Penting:** Matriks keputusan bukanlah pengganti pemikiran kritis, melainkan alat bantu untuk mempertajam analisis. Hasil akhir matriks tetap bergantung pada kejujuranmu dalam memberikan penilaian serta keakuratan kriteria yang ditentukan.
 
-Setelah memahami manfaatnya, mari kita bahas komponen utama yang menyusun matriks keputusan pada bab berikutnya agar kamu bisa langsung mulai menerapkannya.
+Setelah memahami manfaatnya, komponen apa saja yang menyusun sebuah matriks keputusan agar kamu bisa langsung mulai menerapkannya?

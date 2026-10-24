@@ -56,7 +56,7 @@ Terkadang kita dihadapkan pada pilihan yang sangat bertolak belakang. Matriks ke
 
 ## Memilih Lokasi Kantor Baru
 
-Mari kita perhatikan bagaimana matriks keputusan bekerja dalam skenario bisnis nyata. Sebuah perusahaan rintisan (startup) sedang mengevaluasi tiga lokasi calon kantor baru:
+Begini cara matriks keputusan bekerja dalam skenario bisnis nyata. Sebuah perusahaan rintisan (startup) sedang mengevaluasi tiga lokasi calon kantor baru:
 
 - **Alternatif Pilihan:** Kawasan Sudirman (pusat kota yang strategis), BSD (wilayah satelit berkembang), atau menyewa ruang kerja bersama (*co-working space*).
 - **Kriteria Penilaian:** Biaya sewa bulanan, kemudahan akses transportasi publik bagi karyawan, dan kelengkapan fasilitas penunjang operasional.
@@ -72,7 +72,7 @@ Berikut adalah tampilan sederhana dari apa yang akan kamu pelajari di bagian-bag
 | Opsi A | 4 | 2 | $(4 \times 5) + (2 \times 3) = 26$ |
 | Opsi B | 3 | 5 | $(3 \times 5) + (5 \times 3) = 30$ |
 
-*Perhatikan bagaimana Opsi B menjadi pemenang meskipun skornya lebih rendah pada Kriteria 1. Hal ini terjadi karena Opsi B unggul jauh di Kriteria 2, menunjukkan pentingnya melihat nilai keseluruhan secara seimbang.*
+*Opsi B menjadi pemenang meskipun skornya lebih rendah pada Kriteria 1. Hal ini terjadi karena Opsi B unggul jauh di Kriteria 2, menunjukkan pentingnya melihat nilai keseluruhan secara seimbang.*
 
 ## Kesimpulan Awal
 
