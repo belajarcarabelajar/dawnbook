@@ -1,10 +1,10 @@
-## Implikasi Pedagogis dan Transformasi Wacana Kelas
+## Implikasi Pedagogis dan Perubahan Wacana Kelas
 
 Temuan empiris dalam wacana pedagogi sekolah dasar memperlihatkan ketimpangan yang nyata. Guru memegang kendali topik hingga 99%, sementara siswa hanya memiliki porsi 1% dalam mengarahkan pembicaraan. Pola dominatif ini tercermin dari kebiasaan guru yang mengulang jawaban siswa secara mekanis, memberikan umpan balik yang mengambang, serta minimnya penguatan positif berupa pujian.
 
 Jika pola ini terus dibiarkan, kelas hanya menjadi tempat guru berbicara. Siswa terbiasa menjadi pendengar pasif yang enggan mengajukan gagasan baru. Oleh karena itu, diperlukan langkah nyata untuk mengubah pola interaksi kaku ini menuju wacana kelas yang dialogis.
 
-### Realitas Masalah Komunikasi di Kelas
+### Masalah Komunikasi di Kelas
 
 Berdasarkan analisis interaksi pembelajaran, ada tiga kendala utama dalam wacana kelas konvensional:
 
@@ -18,7 +18,7 @@ Berdasarkan analisis interaksi pembelajaran, ada tiga kendala utama dalam wacana
 
 Untuk menghadirkan perubahan yang nyata, kamu dapat membandingkan dua pendekatan interaksi berikut dan mempraktikkannya di kelas:
 
-| Aspek Interaksi | Pola Konvensional (Teacher-Centered) | Pola Transformatif (Student-Centered) |
+| Aspek Interaksi | Pola Konvensional (Teacher-Centered) | Pola Dialogis (Student-Centered) |
 | :--- | :--- | :--- |
 | **Inisiasi Topik** | Didominasi penuh oleh guru lewat pertanyaan tertutup. | Dibuka bersama lewat pertanyaan pemantik dan respons atas gagasan siswa. |
 | **Pola Pertukaran** | Struktur kaku IRF (Initiation - Response - Feedback). | Diskusi terbuka multi-arah antar-siswa. |

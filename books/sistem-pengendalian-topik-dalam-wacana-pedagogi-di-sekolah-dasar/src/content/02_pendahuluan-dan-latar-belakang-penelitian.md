@@ -44,7 +44,7 @@ Berikut adalah perbandingan pola komunikasi yang mendominasi kelas konvensional 
 | **Penguasaan Topik** | Sepenuhnya ditentukan oleh guru sesuai rencana pelajaran. | Guru memberi ruang bagi siswa untuk mengajukan topik relevan. |
 | **Pola Pertukaran** | IRF kaku (Guru bertanya, Siswa menjawab singkat, Guru menilai). | Dialog multiarah antar-siswa yang difasilitasi oleh guru. |
 | **Alokasi Waktu Bertutur** | Guru mendominasi hingga 70-80% dari total tuturan kelas. | Alokasi tuturan terdistribusi seimbang antara guru dan siswa. |
-| **Jenis Umpan Balik** | Evaluatif kaku (*"Benar"*, *"Salah"*). | Eksploratif dan memancing pemikiran kritis mendalam. |
+| **Jenis Umpan Balik** | Evaluatif kaku (*"Benar"*, *"Salah"*). | Eksploratif dan memancing pemikiran kritis. |
 
 ### Urgensi Analisis Interaksi Kelas bagi Pembelajaran
 

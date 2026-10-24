@@ -1,4 +1,4 @@
-## Penggunaan Kata Sapaan dalam Navigasi Interaksi Kelas
+## Penggunaan Kata Sapaan dalam Mengatur Interaksi Kelas
 
 Dalam wacana kelas sekolah dasar, bahasa tidak hanya menyampaikan materi, tetapi juga mengatur tata tertib komunikasi dan hubungan antarpenutur. Salah satu piranti kebahasaan yang memegang peran mendasar dalam dinamika ini adalah kata sapaan. Bentuk-bentuk sapaan seperti *Pak*, *Bu*, *Anak-anak*, serta pemanggilan nama diri siswa berfungsi mengarahkan perhatian, mengalokasikan giliran bicara, dan menjaga alur topik wacana.
 
