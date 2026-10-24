@@ -100,7 +100,7 @@ Agar semua komponen tadi terlihat bekerja bersama, berikut satu matriks yang sud
 | **Vendor B** | 6 | 9 | 7 | (6 × 0,4) + (9 × 0,4) + (7 × 0,2) = **7,4** |
 | **Vendor C** | 9 | 6 | 6 | (9 × 0,4) + (6 × 0,4) + (6 × 0,2) = **7,2** |
 
-Vendor A keluar sebagai pilihan teratas. Perhatikan Vendor C: skornya pada kriteria Harga paling tinggi (9), tetapi total skor berbobotnya justru paling rendah (7,2).
+Vendor A keluar sebagai pilihan teratas. Lihat Vendor C: skornya pada kriteria Harga paling tinggi (9), tetapi total skor berbobotnya justru paling rendah (7,2).
 
 ### Ringkasan Komponen
 

@@ -8,7 +8,7 @@ Dalam Rust, kata kunci `use` berfungsi seperti membuat "pintasan" atau "nama pan
 
 ## Path yang Terlalu Panjang
 
-Sebelum kita masuk ke solusi, mari kita lihat masalahnya. Perhatikan contoh struktur modul untuk sebuah restoran di bawah ini:
+Sebelum kita masuk ke solusi, mari kita lihat masalahnya. Ambil contoh struktur modul untuk sebuah restoran di bawah ini:
 
 ```rust
 mod front_of_house {

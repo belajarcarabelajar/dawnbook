@@ -98,6 +98,6 @@ Kesadaran adalah langkah pertama. Begitu kamu menyadari bahwa aplikasi-aplikasi 
 
 > "Teknologi adalah pelayan yang sangat baik, tetapi tuan yang sangat buruk."
 
-*Tugas refleksi:* Perhatikan perasaanmu saat membuka media sosial nanti. Apakah ada tujuan spesifik, atau jempolmu bergerak sendiri berburu dopamin?
+*Tugas refleksi:* Amati perasaanmu saat membuka media sosial nanti. Apakah ada tujuan spesifik, atau jempolmu bergerak sendiri berburu dopamin?
 
 *Materi selanjutnya akan membahas cara membangun benteng pertahanan dari manipulasi perhatian menggunakan nilai-nilai hidup.*

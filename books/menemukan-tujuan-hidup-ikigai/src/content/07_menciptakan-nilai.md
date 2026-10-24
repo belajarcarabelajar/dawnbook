@@ -6,9 +6,9 @@ Memahami pilar ini berarti mengeksplorasi potensi ekonomi dari "apa yang kamu ci
 
 ## 1. Mengidentifikasi Nilai Ekonomi dari Minat dan Keahlian
 
-Langkah pertama dalam mengubah minat dan keahlian menjadi sumber pendapatan adalah mengenali nilai intrinsik yang bisa ditawarkan kepada pasar. Setiap minat atau keahlian yang kamu miliki berpotensi memecahkan masalah, memenuhi kebutuhan, atau memberikan kegembiraan bagi orang lain. Di situlah letak nilai ekonominya.
+Langkah pertama dalam mengubah minat dan keahlian menjadi sumber pendapatan adalah mengenali nilai intrinsik yang bisa ditawarkan kepada pasar. Setiap minat atau keahlian yang kamu miliki berpotensi memecahkan masalah, memenuhi kebutuhan, atau memberikan kegembiraan bagi orang lain. Itulah yang memberinya nilai ekonomi.
 
-Mulailah dengan mengaudit apa yang kamu miliki. Coba perhatikan hal-hal yang kamu kuasai secara alami atau yang sudah diasah bertahun-tahun, apalagi jika orang lain merasa kesulitan melakukannya. Kemampuan untuk mengatasi tantangan tertentu sering kali memiliki permintaan pasar. Keahlian khusus yang kamu miliki bisa menjadi ceruk pasar tersendiri. Indikator kuat lainnya adalah ketika orang-orang sering datang kepadamu untuk meminta saran atau bantuan terkait suatu hal.
+Mulailah dengan mengaudit apa yang kamu miliki. Coba cermati hal-hal yang kamu kuasai secara alami atau yang sudah diasah bertahun-tahun, apalagi jika orang lain merasa kesulitan melakukannya. Kemampuan untuk mengatasi tantangan tertentu sering kali memiliki permintaan pasar. Keahlian khusus yang kamu miliki bisa menjadi ceruk pasar tersendiri. Indikator kuat lainnya adalah ketika orang-orang sering datang kepadamu untuk meminta saran atau bantuan terkait suatu hal.
 
 Setelah itu, lakukan riset pasar awal. Lihat apakah ada permintaan di pasar untuk apa yang kamu tawarkan. Cari tahu siapa yang paling diuntungkan dari keahlianmu, dan amati apakah ada pihak lain yang sudah menawarkan layanan serupa serta bagaimana cara mereka melakukannya.
 
@@ -28,7 +28,7 @@ Pasar kerja akan terus berubah. Kamu perlu terus mengembangkan keterampilan yang
 
 Jalur kewirausahaan memberimu kebebasan untuk secara langsung mengubah ide menjadi nilai ekonomi. Ini sering kali merupakan bentuk paling murni dari Ikigai yang dimonetisasi, sebab kamu memegang kendali penuh atas cara menciptakan nilai dan menghasilkan pendapatan.
 
-Langkah awalnya adalah mengidentifikasi celah pasar. Perhatikan rasa frustrasi atau masalah yang sering dialami orang di sekitarmu. Cari kekosongan yang belum terisi oleh solusi yang memadai, misalnya kebutuhan akan produk ramah lingkungan khusus atau layanan yang sangat personal. Gunakan minat dan keahlianmu untuk merumuskan solusi unik.
+Langkah awalnya adalah mengidentifikasi celah pasar. Amati rasa frustrasi atau masalah yang sering dialami orang di sekitarmu. Cari kekosongan yang belum terisi oleh solusi yang memadai, misalnya kebutuhan akan produk ramah lingkungan khusus atau layanan yang sangat personal. Gunakan minat dan keahlianmu untuk merumuskan solusi unik.
 
 Daripada menunggu produkmu sempurna, lebih baik luncurkan Konsep Produk Minimum yang Layak (*Minimum Viable Product* - MVP). Versi paling dasar ini sudah harus memberikan nilai inti. Pendekatan ini memungkinkan kamu menguji ide di pasar dengan investasi minimal demi mendapatkan umpan balik langsung dari pelanggan, untuk kemudian terus dikembangkan.
 

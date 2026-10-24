@@ -7,6 +7,7 @@ import { writeBuiltStats } from "./builder/stats-aggregator";
 import { generateSitePages, copyAssets, buildHeaders } from "./builder/template-engine";
 import { runHeadingGate } from "./heading-gate";
 import { checkCovers, COVER_FILE } from "./check-covers";
+import { runVoiceGate } from "./check-voice";
 import { renderOgCards } from "./render-og-cards";
 
 async function build() {
@@ -22,6 +23,14 @@ async function build() {
   const coverViolations = checkCovers(rootDir);
   if (coverViolations.length > 0) {
     for (const v of coverViolations) console.error(`books/${v.book}/${COVER_FILE} [${v.rule}] ${v.message}`);
+    process.exit(1);
+  }
+
+  // Section 29 scaffolds ("Perhatikan", "Menariknya", "bab berikutnya", ...) fail the build (GEMINI.md section 29).
+  console.log("Checking chapter voice...");
+  const voiceGate = runVoiceGate(booksDir);
+  if (!voiceGate.ok) {
+    for (const p of voiceGate.problems) console.error(`books/${p}`);
     process.exit(1);
   }
 

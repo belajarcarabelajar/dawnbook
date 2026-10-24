@@ -30,7 +30,7 @@ Di sini, konsumen tidak terlalu sensitif terhadap perubahan harga. Biasanya ini 
 Kondisi ini jarang terjadi di dunia nyata secara sempurna, namun penting secara teoretis.
 - **Jika Harga Naik atau Turun:** Persentase perubahan harga ($P$) sama persis dengan persentase perubahan jumlah yang diminta ($Q$). Hasilnya, **Total Revenue tetap sama (konstan)**.
 ### 3. Ringkasan Strategi untuk Produsen
-Untuk memudahkan pengambilan keputusan, perhatikan tabel strategi di bawah ini:
+Tabel strategi di bawah ini memudahkan pengambilan keputusan:
 | Perubahan Harga | Permintaan Elastis ($E_d > 1$) | Permintaan Inelastis ($E_d < 1$) | Permintaan Uniter ($E_d = 1$) |
 | --- | --- | --- | --- |
 | **Harga Naik ($\uparrow$)** | $\text{TR}$ Turun ($\downarrow$) | $\text{TR}$ Naik ($\uparrow$) | $\text{TR}$ Tetap |

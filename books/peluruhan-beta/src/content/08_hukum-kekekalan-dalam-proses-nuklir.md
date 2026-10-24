@@ -39,7 +39,7 @@ $$
 $$
 </div>
 
-Perhatikan angka atas (14). Sebelum dan sesudah reaksi, jumlahnya tetap 14. *Analogi: Bayangkan terdapat 14 buah bola. Beberapa berwarna merah (proton) dan beberapa biru (neutron). Jika satu bola biru dicat menjadi merah, tetap ada total 14 bola.*
+Lihat angka atas (14). Sebelum dan sesudah reaksi, jumlahnya tetap 14. *Analogi: Bayangkan terdapat 14 buah bola. Beberapa berwarna merah (proton) dan beberapa biru (neutron). Jika satu bola biru dicat menjadi merah, tetap ada total 14 bola.*
 
 ## 3. Kekekalan Momentum dan Energi
 
@@ -104,7 +104,7 @@ Reaktor nuklir menghasilkan aliran antineutrino yang sangat besar sebagai hasil 
 
 ## Contoh Soal Singkat
 
-Perhatikan reaksi berikut:
+Cermati reaksi berikut:
 
 <div>
 $$

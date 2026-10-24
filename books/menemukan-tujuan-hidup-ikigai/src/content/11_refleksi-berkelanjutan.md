@@ -16,7 +16,7 @@ Refleksi diri memastikan Ikigai tetap relevan dan bermakna. Tanpa mengambil wakt
 Sisihkan waktu mingguan atau bulanan untuk mendokumentasikan pengalaman kamu. Kamu bisa menanyakan kepada diri sendiri hal-hal apa saja yang memberikan energi minggu ini, dan sebaliknya, apa yang menguras energi. Catat momen saat kamu merasa paling hidup, hal-hal baru yang menarik perhatian, serta pergeseran pada nilai-nilai inti pribadi.
 
 **Prompt Questions (Pertanyaan Pemandu)**
-Evaluasi secara teratur apakah kamu masih melakukan aktivitas yang dicintai. Perhatikan juga apakah keahlian yang kamu miliki sudah berkembang. Tinjau kembali lingkungan sekitar untuk melihat apakah ada kebutuhan baru dari masyarakat, dan pastikan aktivitas yang menghasilkan uang masih relevan dengan pilar Ikigai lainnya.
+Evaluasi secara teratur apakah kamu masih melakukan aktivitas yang dicintai. Periksa juga apakah keahlian yang kamu miliki sudah berkembang. Tinjau kembali lingkungan sekitar untuk melihat apakah ada kebutuhan baru dari masyarakat, dan pastikan aktivitas yang menghasilkan uang masih relevan dengan pilar Ikigai lainnya.
 
 **Lingkaran Umpan Balik**
 Berbicaralah dengan orang-orang terdekat atau mentor yang bisa dipercaya. Mintalah masukan mengenai bagaimana mereka melihat pertumbuhan atau perubahan dalam diri kamu. Perspektif dari luar sering kali memperkaya pemahaman yang sulit dilihat dari sudut pandang sendiri.

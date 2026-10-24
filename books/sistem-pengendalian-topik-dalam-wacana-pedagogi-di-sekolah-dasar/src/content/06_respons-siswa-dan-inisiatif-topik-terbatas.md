@@ -20,7 +20,7 @@ Tabel berikut menggambarkan distribusi dan pola inisiatif pembukaan topik oleh s
 
 Ketika siswa berinisiatif membuka topik baru, mereka sering kali harus mengulang kata sapaan berkali-kali agar didengar atau direspons oleh guru. Hal ini terjadi karena perhatian guru terbagi atau guru sengaja mempertahankan jalannya alur utama pembelajaran.
 
-Perhatikan petikan interaksi pada pementasan naskah drama (Teks 9) berikut:
+Lihat petikan interaksi pada pementasan naskah drama (Teks 9) berikut:
 
 * **S1**: "Pak, boleh liat?"
 * **Guru**: "Ga boleh liat."
@@ -34,7 +34,7 @@ Pada contoh di atas, siswa S2 perlu memanggil *"Pak, pak, bapak"* hingga tiga ka
 
 Tidak semua inisiatif topik yang dibuka oleh siswa mendapatkan tanggapan dari guru. Ada kalanya pertanyaan siswa disambut dengan sikap diam atau pengabaian, yang semakin mempertegas posisi guru sebagai pemegang kendali mutlak wacana.
 
-Sebagai gambaran, perhatikan potongan wacana pada kegiatan menulis (Teks 7) di bawah ini:
+Sebagai gambaran, amati potongan wacana pada kegiatan menulis (Teks 7) di bawah ini:
 
 * **S13**: "Ibu, ibu, judulnya boleh sama bu?"
 * **Guru**: "Iya, boleh sama. Paling sedikit satu paragraf itu empat sampai lima."

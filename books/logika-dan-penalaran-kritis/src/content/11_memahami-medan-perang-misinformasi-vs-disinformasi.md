@@ -66,7 +66,7 @@ Jika rekam jejaknya sering menyebarkan berita palsu, maka meskipun tampilannya t
 
 **Langkah Kritis:**
 
-1. **Cek Artefak Visual:** Perhatikan area mulut dan mata. Apakah gerakannya sinkron dengan suara? Apakah ada kedipan yang tidak alami?
+1. **Cek Artefak Visual:** Amati area mulut dan mata. Apakah gerakannya sinkron dengan suara? Apakah ada kedipan yang tidak alami?
 2. **Analisis Metadata:** Gunakan alat seperti *Google Reverse Image Search* pada tangkapan layar video tersebut untuk melihat kapan video itu pertama kali muncul di internet.
 3. **Gunakan Logika "Terlalu Indah untuk Menjadi Nyata":** Jika informasi tersebut sangat memuaskan biasmu (misalnya: lawan politikmu melakukan kesalahan fatal), justru di situlah kamu harus paling curiga.
 

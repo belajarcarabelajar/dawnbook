@@ -63,7 +63,7 @@ Tanggung jawab kita adalah berjalan di atas tali tersebut dengan kepala tegak.
 
 ### Kesimpulan Akhir
 
-Hidup ini absurd, tidak memiliki manual instruksi, dan pasti akan berakhir. Namun, di situlah letak kemenangannya. Dengan menerima bahwa kita tidak memiliki esensi yang ditentukan sebelumnya, kita bebas untuk menjadi apa saja.
+Hidup ini absurd, tidak memiliki manual instruksi, dan pasti akan berakhir. Namun, kemenangan kita ada dalam keabsurdan itu. Dengan menerima bahwa kita tidak memiliki esensi yang ditentukan sebelumnya, kita bebas untuk menjadi apa saja.
 
 - **Hadapi kesunyian semesta:** Alih-alih takut pada keheningan dunia, isilah ruang kosong tersebut dengan tindakan dan suaramu sendiri.
 - **Jadikan kematian sebagai pengingat:** Kesadaran akan akhir kehidupan justru memicu kita untuk menjalani hari ini dengan lebih bermakna dan intens.

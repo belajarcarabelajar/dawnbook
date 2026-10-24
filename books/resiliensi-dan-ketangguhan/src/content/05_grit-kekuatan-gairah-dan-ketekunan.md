@@ -24,7 +24,7 @@ $$
 
 > **Insight:** Bakat adalah seberapa cepat keterampilanmu meningkat saat kamu berusaha. Namun, Pencapaian adalah apa yang terjadi ketika kamu mengambil keterampilan tersebut dan menggunakannya secara terus-menerus.
 
-Perhatikan bahwa dalam dua persamaan di atas, variabel **Usaha** muncul dua kali. Ini berarti seseorang yang kurang berbakat tetapi memiliki usaha yang konsisten (Grit tinggi) akan melampaui seseorang yang berbakat tetapi malas dalam jangka panjang.
+Dalam dua persamaan di atas, variabel **Usaha** muncul dua kali. Ini berarti seseorang yang kurang berbakat tetapi memiliki usaha yang konsisten (Grit tinggi) akan melampaui seseorang yang berbakat tetapi malas dalam jangka panjang.
 
 ## Gairah dan Ketekunan
 

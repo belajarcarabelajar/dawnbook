@@ -78,7 +78,7 @@ Di sinilah proses evaluasi diri dimulai. Tantang pikiran kamu dengan pertanyaan 
 Ganti pikiran lama dengan perspektif yang lebih seimbang.  
 *Contoh:* "Revisi adalah bagian normal dari pekerjaan. Atasan meminta revisi agar hasilnya maksimal, bukan karena saya tidak kompeten."
 
-Perhatikan bahwa langkah D dan E kembali menyasar keyakinan di langkah B:
+Langkah D dan E kembali menyasar keyakinan di langkah B:
 
 ```mermaid
 flowchart TD

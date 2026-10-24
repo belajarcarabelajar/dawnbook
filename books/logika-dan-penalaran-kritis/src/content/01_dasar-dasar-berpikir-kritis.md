@@ -76,4 +76,4 @@ Sebagian besar keyakinan yang kita pegang erat sering kali bukan hasil evaluasi 
 
 > "Tujuan dari berpikir kritis adalah untuk mencapai kebenaran, bukan untuk memenangkan perdebatan."
 
-Pemahaman dasar ini menjadi pintu masuk bagi kamu untuk mempelajari alat logika yang lebih terperinci pada bab berikutnya, seperti penalaran deduktif, induktif, serta cara mendeteksi kesesatan berpikir.
+Keyakinan mana yang selama ini kamu pegang tanpa pernah kamu uji dengan bukti?

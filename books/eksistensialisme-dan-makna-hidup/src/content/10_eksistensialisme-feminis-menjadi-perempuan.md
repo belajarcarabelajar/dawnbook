@@ -57,7 +57,7 @@ Sebagai gantinya, tindakan eksistensial yang autentik menuntut Sinta untuk menya
 
 ### Ringkasan Strategi Menuju Autentisitas
 
-Untuk hidup secara autentik dalam kerangka feminisme eksistensialis, perhatikan langkah-langkah berikut:
+Untuk hidup secara autentik dalam kerangka feminisme eksistensialis, kamu bisa menempuh langkah-langkah berikut:
 
 1. **Pilah Konstruksi Sosial:** Mulailah mengidentifikasi nilai mana yang lahir dari keinginan murnimu dan mana yang sekadar naskah hafalan titipan masyarakat.
 2. **Tegaskan Agensimu:** Kamu adalah **Subjek** utama dalam hidupmu sendiri. Tolak menjadi objek pasif yang dinilai hanya berdasarkan standar atau tatapan orang lain.

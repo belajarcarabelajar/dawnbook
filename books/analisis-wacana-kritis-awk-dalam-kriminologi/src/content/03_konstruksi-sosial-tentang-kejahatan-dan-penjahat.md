@@ -14,7 +14,7 @@ Begitu pula dengan kejahatan.
 
 Dalam pandangan AWK, sebuah tindakan (seperti mengonsumsi zat tertentu atau mengambil milik orang lain) hanya menjadi "kejahatan" ketika narasi dominan dalam masyarakat, melalui hukum dan diskursus publik, melabelinya demikian.
 
-- **Dinamika Statis vs. Dinamis:** Definisi kejahatan selalu berubah. Sebagai contoh, perhatikan pergeseran status hukum merokok di ruang publik atau penggunaan ganja untuk medis di berbagai belahan dunia. Apa yang kemarin dianggap "kriminal" bisa menjadi "legal" hari ini, tergantung pada siapa yang memegang kendali atas narasi tersebut.
+- **Dinamika Statis vs. Dinamis:** Definisi kejahatan selalu berubah. Sebagai contoh, lihat pergeseran status hukum merokok di ruang publik atau penggunaan ganja untuk medis di berbagai belahan dunia. Apa yang kemarin dianggap "kriminal" bisa menjadi "legal" hari ini, tergantung pada siapa yang memegang kendali atas narasi tersebut.
 
 ### 2. Membedah Konstruksi Identitas "Sang Penjahat"
 
@@ -60,7 +60,7 @@ Teks dan ideologi yang diproduksi secara masif oleh kelompok dominan akan memben
 
 ### 4. Narasi Perang Terhadap Narkoba
 
-Mari perhatikan bagaimana narasi mengonstruksi realitas melalui contoh *"War on Drugs"*.
+Mari lihat bagaimana narasi mengonstruksi realitas melalui contoh *"War on Drugs"*.
 
 **Skenario:** Dua orang ditemukan memiliki zat ilegal.
 

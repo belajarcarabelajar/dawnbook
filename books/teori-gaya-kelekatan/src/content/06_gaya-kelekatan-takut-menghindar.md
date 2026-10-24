@@ -99,7 +99,7 @@ Membangun relasi yang bermakna adalah sebuah seni sekaligus keterampilan sosial 
 
 ### Dari Persamaan Relasi ke Tindakan Nyata
 
-Untuk membantu kamu membayangkan bagaimana sebuah hubungan tumbuh, mari kita perhatikan "persamaan" sederhana tentang kedalaman relasi berikut:
+Untuk membantu kamu membayangkan bagaimana sebuah hubungan tumbuh, mari kita lihat "persamaan" sederhana tentang kedalaman relasi berikut:
 
 $$
 \\text{Kedalaman Relasi} = \\frac{\\text{Waktu Berkualitas} \\times \\text{Keterbukaan}}{\\text{Ego}}

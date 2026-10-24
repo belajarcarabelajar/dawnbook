@@ -74,7 +74,7 @@ Pemain A menang jika koin sama, Pemain B menang jika koin berbeda.
 | **Pemain A: Gambar** | (1, -1) | (-1, 1) |
 | **Pemain A: Angka** | (-1, 1) | (1, -1) |
 
-*Perhatikan bahwa dalam setiap sel, jumlahnya adalah $1 + (-1) = 0$.*
+*Dalam setiap sel, jumlahnya adalah $1 + (-1) = 0$.*
 
 ### Contoh Matriks Non-Zero-Sum (Kerja Sama Tim)
 

@@ -75,7 +75,7 @@ Kebijakan narkotika dapat dibedah dengan pendekatan AWK sebagai berikut:
 Bagi seorang peneliti atau praktisi hukum, langkah-langkah berikut dapat digunakan untuk menganalisis sebuah draf undang-undang (UU):
 
 1. **Identifikasi Kata Kunci Dominan:** Hitung frekuensi kata seperti "keamanan", "ketertiban", dan "hukuman" dibandingkan dengan kata "hak asasi", "rehabilitasi", atau "keadilan sosial".
-2. **Cek Struktur Pasal Karet:** Perhatikan penggunaan kata sifat yang subjektif seperti "meresahkan masyarakat", "melanggar kesusilaan", atau "mengancam stabilitas".
+2. **Cek Struktur Pasal Karet:** Cermati penggunaan kata sifat yang subjektif seperti "meresahkan masyarakat", "melanggar kesusilaan", atau "mengancam stabilitas".
 
 <div>
 $$

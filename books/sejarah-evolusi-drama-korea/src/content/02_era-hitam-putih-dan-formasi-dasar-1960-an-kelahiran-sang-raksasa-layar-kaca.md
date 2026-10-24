@@ -75,7 +75,7 @@ Meski industri kini telah dimanjakan oleh resolusi 4K dan teknologi CGI, fondasi
 
 ## Ringkasan Teknis Era 1960-an
 
-Untuk memahami skala evolusi ini, perhatikan perbandingan sederhana berikut:
+Untuk memahami skala evolusi ini, lihat perbandingan sederhana berikut:
 
 | Aspek | Era 1960-an | Era Modern (Sebagai Perbandingan) |
 | --- | --- | --- |

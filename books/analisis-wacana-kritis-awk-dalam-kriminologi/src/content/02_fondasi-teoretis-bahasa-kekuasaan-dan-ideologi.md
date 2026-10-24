@@ -75,7 +75,7 @@ Keterangan variabel:
 
 ### 5. Analisis Narasi "Perang Terhadap Narkoba"
 
-Untuk memahami keterkaitan konsep-konsep di atas, perhatikan analisis terhadap narasi kebijakan kriminologi berikut:
+Untuk memahami keterkaitan konsep-konsep di atas, lihat analisis terhadap narasi kebijakan kriminologi berikut:
 
 > **Skenario Pernyataan Publik:**
 > *"Kita harus membasmi sampah masyarakat yang merusak moral bangsa dengan racun narkoba. Tidak ada ruang bagi mereka di tanah air kita!"*

@@ -59,7 +59,7 @@ flowchart TD
     D --> E["Normalisasi: klaim terasa sudah umum diketahui"]
 ```
 
-Perhatikan bahwa mutasi membuat pengecekan makin sulit: kamu bisa saja menemukan bahwa versi asli sudah dibantah, tapi versi yang tersebar sudah berubah bentuk. Karena itu memeriksa sumber pertama lebih berguna daripada menilai potongan yang sampai ke kamu. Membedakan tiga jenis, mengenali enam bentuk, dan memahami lima tahap ini memberi kamu satu hal: peta untuk bertanya di mana posisi sebuah pesan sebelum ikut menyebarkannya.
+Mutasi membuat pengecekan makin sulit: kamu bisa saja menemukan bahwa versi asli sudah dibantah, tapi versi yang tersebar sudah berubah bentuk. Karena itu memeriksa sumber pertama lebih berguna daripada menilai potongan yang sampai ke kamu. Membedakan tiga jenis, mengenali enam bentuk, dan memahami lima tahap ini memberi kamu satu hal: peta untuk bertanya di mana posisi sebuah pesan sebelum ikut menyebarkannya.
 
 ## Inti Pembahasan
 

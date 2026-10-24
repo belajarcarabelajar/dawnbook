@@ -29,7 +29,7 @@ Kata sapaan dalam interaksi kelas sekolah dasar terbagi ke dalam beberapa katego
 
 Dalam struktur interaksi *Initiation-Response-Feedback* (IRF), penyampaian pertanyaan atau perintah oleh guru sering kali disertai kata sapaan nama siswa. Teknik ini bertujuan memastikan bahwa hanya siswa yang ditunjuk yang mengambil giliran bicara, sehingga percakapan kelas tetap teratur dan tidak terjadi dorongan ujaran massal yang saling bertabrakan.
 
-Mari perhatikan contoh pertukaran dialogik di bawah ini yang memperlihatkan bagaimana sapaan nama digunakan untuk menunjuk penutur dan memfokuskan topik pelajaran.
+Mari cermati contoh pertukaran dialogik di bawah ini yang memperlihatkan bagaimana sapaan nama digunakan untuk menunjuk penutur dan memfokuskan topik pelajaran.
 
 | Pertukaran | Gerakan | Penutur | Ujaran |
 | :--- | :--- | :--- | :--- |

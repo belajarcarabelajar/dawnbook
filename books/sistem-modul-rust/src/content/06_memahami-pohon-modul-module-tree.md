@@ -46,7 +46,7 @@ Relative Path memulai pencarian dari module di mana kode tersebut ditulis. Path 
 
 1. Nama item atau module yang berada di tingkat yang sama.
 2. `self`: Merujuk ke module saat ini (mirip dengan `./` di terminal).
-3. `super`: Merujuk ke parent module (mirip dengan `../` di terminal).
+3. `super`: Merujuk ke parent module (seperti `../` di terminal).
 
 ### Menggunakan Nama Langsung
 

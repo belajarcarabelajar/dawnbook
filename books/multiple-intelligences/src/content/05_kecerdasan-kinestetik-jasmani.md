@@ -28,7 +28,7 @@ Mereka juga sangat mengandalkan ingatan otot (*muscle memory*) untuk menyimpan p
 
 ## Fisika Gerakan Tubuh
 
-Secara mekanis, kecerdasan kinestetik memuat pemahaman intuitif terhadap fisika gerakan tubuh. Perhatikan bagaimana seorang atlet lompat galah menyesuaikan momentum lari dengan momentum lompatan. Secara matematis, ia sedang mengubah energi kinetik ($E\_k$) menjadi energi potensial gravitasi ($E\_p$).
+Secara mekanis, kecerdasan kinestetik memuat pemahaman intuitif terhadap fisika gerakan tubuh. Ambil contoh seorang atlet lompat galah yang menyesuaikan momentum lari dengan momentum lompatan. Secara matematis, ia sedang mengubah energi kinetik ($E\_k$) menjadi energi potensial gravitasi ($E\_p$).
 
 <div>
 $$

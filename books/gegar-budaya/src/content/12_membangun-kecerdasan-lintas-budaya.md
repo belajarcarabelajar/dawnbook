@@ -96,7 +96,7 @@ Seorang mahasiswa yang belajar di luar negeri mungkin merasa terisolasi karena g
 Berikut adalah langkah-langkah kinestetik yang bisa kamu lakukan sekarang juga untuk mengasah kecerdasan lintas budaya:
 
 1. **The "Why" Game:** Setiap kali kamu melihat perilaku lokal yang aneh bagi kamu, tanyakan "Kenapa?" sebanyak tiga kali secara mendalam sebelum menghakimi.
-2. **Cultural Mirroring:** Amati orang yang paling sukses (baik lokal maupun pendatang) di lingkungan tersebut. Perhatikan bagaimana mereka mendengarkan, berbicara, dan menggunakan bahasa tubuh. Cobalah untuk meniru sedikit demi sedikit dalam situasi berisiko rendah.
+2. **Cultural Mirroring:** Amati orang yang paling sukses (baik lokal maupun pendatang) di lingkungan tersebut. Cermati bagaimana mereka mendengarkan, berbicara, dan menggunakan bahasa tubuh. Cobalah untuk meniru sedikit demi sedikit dalam situasi berisiko rendah.
 3. **Jurnal Refleksi:** Tuliskan satu kejadian budaya setiap hari yang membuat kamu bingung, dan tuliskan tiga kemungkinan penjelasan dari sudut pandang orang lokal.
 
 **Penting:** Kecerdasan Lintas Budaya bukanlah sebuah tujuan akhir, melainkan sebuah perjalanan. Setiap kali kamu berhasil menjembatani perbedaan, kamu tidak hanya menjadi lebih pintar secara budaya, tetapi kamu menjadi versi manusia yang lebih luas dan lebih bijaksana.

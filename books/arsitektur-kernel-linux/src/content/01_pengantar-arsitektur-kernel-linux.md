@@ -91,4 +91,4 @@ Untuk memastikan pemahamanmu, mari kita tinjau kembali beberapa poin penting yan
 * **Peran Abstraksi**: Menyembunyikan kompleksitas perangkat keras fisik agar para pengembang aplikasi tidak perlu pusing memikirkan cara kerja perangkat keras secara mendetail.
 * **Isolasi Keamanan**: Pemisahan wilayah kerja user space dan kernel space mutlak diperlukan untuk mencegah kegagalan fatal pada sistem utama.
 
-Pada bab berikutnya, kita akan mendalami arsitektur monolitik (filosofi desain yang membuat Kernel Linux tetap efisien sekaligus fleksibel dalam perkembangannya).
+Lalu, apa yang membuat Kernel Linux tetap efisien sekaligus fleksibel seiring perkembangannya?

@@ -18,7 +18,7 @@ Masalahnya, jalan pintas yang berguna untuk memilih warung juga dipakai untuk me
 
 Dari sekian banyak bias, satu ini adalah pemicu utama kenapa hoaks tertentu terasa begitu meyakinkan. **Bias konfirmasi** (dirangkum secara luas oleh **Nickerson**, 1998) adalah kecenderungan untuk mencari, menerima, dan mengingat informasi yang **mengonfirmasi keyakinan yang sudah kamu pegang**, sambil mengabaikan atau menolak yang bertentangan.
 
-Perhatikan pola ini dalam keseharian:
+Lihat pola ini dalam keseharian:
 
 - Kamu sudah tidak suka pada suatu tokoh. Lalu muncul kabar buruk soal dia. Kamu langsung percaya dan membagikannya, tanpa merasa perlu mengecek.
 - Kabar baik tentang tokoh yang sama? Kamu curiga, kamu cari cacatnya, kamu anggap pencitraan.
@@ -37,7 +37,7 @@ Hoaks memanfaatkan ini dengan **cerita yang dramatis dan gampang dibayangkan**. 
 
 Ada dua jalan pintas kembar yang bekerja di sini.
 
-**Heuristik keterkenalan** membuat sesuatu yang terasa **familiar** lebih dipercaya. Kalau kamu sudah beberapa kali melihat klaim yang sama berseliweran, ia mulai terasa benar hanya karena akrab, bukan karena terbukti. Ini adalah fondasi dari **efek kebenaran ilusi** yang akan kita bahas tuntas di bab berikutnya.
+**Heuristik keterkenalan** membuat sesuatu yang terasa **familiar** lebih dipercaya. Kalau kamu sudah beberapa kali melihat klaim yang sama berseliweran, ia mulai terasa benar hanya karena akrab, bukan karena terbukti. Ini adalah fondasi dari **efek kebenaran ilusi** yang akan kita bahas tuntas di bab 5.
 
 **Source heuristic** membuat kamu menilai kebenaran pesan dari **siapa yang tampak menyampaikannya**. Kalau sebuah kabar seolah datang dari lembaga resmi, dokter, atau media besar, kamu cenderung menurunkan kewaspadaan. Pembuat hoaks tahu ini. Maka mereka menempelkan logo kementerian, mencatut nama rumah sakit, atau membuat tangkapan layar yang meniru tampilan media terkenal. Yang dinilai bukan isi klaimnya, melainkan **kemasannya yang terlihat sah**.
 
@@ -61,7 +61,7 @@ Karena itu hoaks yang bagus jarang bertele-tele. Ia ringkas, bombastis, dan enak
 
 ### Kenapa ini penting untuk kamu sadari
 
-Perhatikan bahwa tidak satu pun dari bias di atas berhubungan dengan **kecerdasan**. Orang pandai pun punya otak yang sama malasnya soal jalan pintas. Bahkan orang yang berpendidikan tinggi bisa lebih lihai membela hoaks yang cocok dengan keyakinannya, karena ia punya lebih banyak amunisi argumen untuk membenarkan bias konfirmasinya.
+Tidak satu pun dari bias di atas berhubungan dengan **kecerdasan**. Orang pandai pun punya otak yang sama malasnya soal jalan pintas. Bahkan orang yang berpendidikan tinggi bisa lebih lihai membela hoaks yang cocok dengan keyakinannya, karena ia punya lebih banyak amunisi argumen untuk membenarkan bias konfirmasinya.
 
 Jadi pertahanan pertama bukanlah merasa "aku terlalu pintar untuk tertipu". Justru sebaliknya. Pertahanan pertama adalah **menyadari bahwa otakmu memang dirancang untuk mengambil jalan pintas**, lalu sengaja memperlambat diri di titik-titik yang rawan: saat sebuah kabar terasa terlalu pas dengan selera, terlalu dramatis, terlalu akrab, terlalu resmi, atau terlalu mulus.
 

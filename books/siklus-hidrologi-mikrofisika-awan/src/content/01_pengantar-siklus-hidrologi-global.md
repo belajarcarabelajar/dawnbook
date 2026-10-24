@@ -109,8 +109,6 @@ Di kawasan tropis seperti Kalimantan, alih fungsi lahan hutan (deforestasi) meng
 
 Siklus hidrologi global merupakan interaksi abadi antara massa air dan radiasi matahari. Air menguap menuju atmosfer sebagai uap tak kasatmata, mengumpul menjadi awan, dan kembali menyirami daratan untuk menopang kehidupan.
 
-Pada bab-bab berikutnya, kita akan membahas secara spesifik proses fisika yang terjadi saat uap air berada di atmosfer: bagaimana molekul uap air berkondensasi menjadi tetesan air mikroskopis melalui mekanisme termodinamika dan fisika awan.
-
 > **Poin Utama Bab Ini:**
 > 
 > - Siklus hidrologi merupakan sistem tertutup dengan massa air yang mengekalkan hukum kesetimbangan.

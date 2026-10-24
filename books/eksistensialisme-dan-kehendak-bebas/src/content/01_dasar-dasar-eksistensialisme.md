@@ -59,4 +59,4 @@ Prinsip-prinsip eksistensialisme menawarkan kerangka analisis yang tajam dalam m
 
 ### 7. Ketiadaan Cetak Biru sebagai Ruang Kedaulatan Diri
 
-Eksistensialisme menolak pasivitas deterministik dan menempatkan tanggung jawab penciptaan makna secara utuh pada pundak manusia. Ketiadaan cetak biru bawaan bukan merupakan kehampaan pasif, melainkan ruang pembuktian kedaulatan diri. Pembahasan pada bab berikutnya akan mengupas secara mendalam prinsip "Eksistensi Mendahului Esensi" sebagai tonggak utama pembentukan jati diri manusia.
+Eksistensialisme menolak pasivitas deterministik dan menempatkan tanggung jawab penciptaan makna secara utuh pada pundak manusia. Ketiadaan cetak biru bawaan bukan merupakan kehampaan pasif, melainkan ruang pembuktian kedaulatan diri.

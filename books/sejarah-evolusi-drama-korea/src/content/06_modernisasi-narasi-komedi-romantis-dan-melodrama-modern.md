@@ -67,7 +67,7 @@ Untuk menghasilkan tampilan kulit yang cerah (*glowing*) khas aktor Korea, kamu 
 
 Transformasi standar estetika ini secara langsung mengangkat posisi Korea Selatan sebagai salah satu kiblat fesyen dan kecantikan global. Di sektor pariwisata, lokasi syuting yang ikonik seperti Pulau Jeju atau Namsan Tower menjelma menjadi destinasi liburan yang wajib dikunjungi. Sementara itu dalam hal ekspor budaya, berbagai negara mulai mengadopsi gaya produksi drama Korea yang mengutamakan kualitas visual yang memikat dan kehalusan emosi dalam bercerita.
 
-Poin menariknya adalah modernisasi narasi ini membuktikan bahwa genre yang sering dianggap ringan seperti *romantic comedy* mampu disajikan dengan kualitas produksi setara film *blockbuster*. Keunggulan estetika inilah yang membuat drama Korea mudah diterima oleh penonton dari berbagai latar belakang sosial di seluruh dunia.
+Modernisasi narasi ini membuktikan bahwa genre yang sering dianggap ringan seperti *romantic comedy* mampu disajikan dengan kualitas produksi setara film *blockbuster*. Keunggulan estetika inilah yang membuat drama Korea mudah diterima oleh penonton dari berbagai latar belakang sosial di seluruh dunia.
 
 ## Penutup
 

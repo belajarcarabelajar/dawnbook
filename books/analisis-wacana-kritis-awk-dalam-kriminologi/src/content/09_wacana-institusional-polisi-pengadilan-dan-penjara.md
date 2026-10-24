@@ -69,7 +69,7 @@ Institusi penegak hukum saling terhubung dalam rantai diskursif yang berkesinamb
 
 ### Refleksi Wacana Kriminal
 
-Ketika mengamati pemberitaan kriminal di media massa, perhatikan seberapa sering media menyalin secara verbatim rilis resmi yang menggunakan bahasa administratif kepolisian. Bahasa yang dingin dan teknis tersebut secara bertahap membentuk konstruksi berpikir publik, sehingga tindakan penghukuman dipersepsikan sebagai konsekuensi yang wajar dan tak terbantahkan.
+Ketika mengamati pemberitaan kriminal di media massa, cermati seberapa sering media menyalin secara verbatim rilis resmi yang menggunakan bahasa administratif kepolisian. Bahasa yang dingin dan teknis tersebut secara bertahap membentuk konstruksi berpikir publik, sehingga tindakan penghukuman dipersepsikan sebagai konsekuensi yang wajar dan tak terbantahkan.
 
 ---
 

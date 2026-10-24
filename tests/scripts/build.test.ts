@@ -4,6 +4,15 @@ import { tmpdir } from "os";
 import { join } from "path";
 
 describe("Build Script & Modular Builder (scripts/build.ts)", () => {
+  test("build runs the section 29 voice gate before the mdBook builds, and package.json exposes check:voice", () => {
+    const build = readFileSync(join(import.meta.dir, "../../scripts/build.ts"), "utf-8");
+    const pkg = JSON.parse(readFileSync(join(import.meta.dir, "../../package.json"), "utf-8"));
+    const gate = build.indexOf("runVoiceGate(");
+    expect(gate).toBeGreaterThan(-1);
+    expect(gate).toBeLessThan(build.indexOf("buildAllBooks(booksDir"));
+    expect(pkg.scripts["check:voice"]).toBe("bun run scripts/check-voice.ts --all");
+  });
+
   test("build script includes compilation calls and SEO headers", () => {
     const runnerPath = join(import.meta.dir, "../../scripts/builder/mdbook-runner.ts");
     const enginePath = join(import.meta.dir, "../../scripts/builder/template-engine.ts");

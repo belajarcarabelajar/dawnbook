@@ -100,4 +100,4 @@ Memahami psikologi bencana merupakan langkah fundamental dalam mentransformasika
 
 Ketika keadaan darurat tiba-tiba terjadi di lingkungan sekitar, respons manusia umumnya terbagi ke dalam tiga pola utama: membeku di tempat (*freeze*), melarikan diri tanpa arah (*flee*), atau mengambil jeda sepersekian detik untuk menimbang keputusan evakuasi yang tepat (*rational appraisal*). Mengenali kecenderungan respons pribadi merupakan fondasi awal dalam melatih kesiapsiagaan kognitif.
 
-Pada bab berikutnya, pembahasan akan menelaah secara mendalam aspek **Neurobiologi Ketakutan**, menguraikan bagaimana amigdala, hormon stres, dan sirkuit saraf bekerja saat mode siaga darurat diaktifkan di dalam tubuh.
+Di antara ketiga pola itu, mana yang paling mungkin muncul pada dirimu saat keadaan darurat tiba?

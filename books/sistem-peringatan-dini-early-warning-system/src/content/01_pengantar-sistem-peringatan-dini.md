@@ -94,4 +94,4 @@ Setiap bab ditutup dengan tindakan kecil untuk kamu coba minggu ini.
 
 **Apa yang dapat kamu lakukan hari ini?** Kenali sumber resmi di wilayah kamu, simpan dua saluran cadangan, hafalkan rute evakuasi terdekat, dan ajak satu anggota keluarga untuk gladi sepuluh menit.
 
-Dengan bekal ini, kamu punya peta jalan untuk menyelami anatomi ancaman di bab berikutnya, sehingga peringatan terasa konkret dan terhubung dengan keputusan kamu.
+Dengan bekal ini, kamu punya peta jalan yang membuat peringatan terasa konkret dan terhubung dengan keputusan kamu.

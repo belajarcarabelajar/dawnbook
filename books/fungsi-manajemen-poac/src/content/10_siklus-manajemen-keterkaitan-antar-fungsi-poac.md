@@ -46,7 +46,7 @@ Keberlanjutan organisasi sangat bergantung pada seberapa cepat informasi mengali
 3. **Output:** Kinerja nyata yang dihasilkan di lapangan.
 4. **Feedback:** Tahap evaluasi (*Controlling*) guna mengumpulkan data penting, yang kemudian dipakai untuk menyempurnakan rencana pada siklus berikutnya.
 
-Perhatikan bagaimana tahap Feedback mengalir kembali ke Input sehingga keempat tahap itu membentuk lingkaran.
+Tahap Feedback mengalir kembali ke Input, sehingga keempat tahap itu membentuk lingkaran.
 
 ```mermaid
 flowchart TD

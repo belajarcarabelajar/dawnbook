@@ -28,7 +28,7 @@ Diferensiasi dapat terjadi melalui beberapa cara:
 - **Diferensiasi Layanan:** Restoran dengan pelayanan ramah dan cepat vs. restoran *self-service*.
 - **Diferensiasi Citra (Branding):** Menggunakan logo, selebriti, atau nilai tertentu (misalnya: produk ramah lingkungan).
 
-*Coba perhatikan: Apakah kamu membeli kopi di kafe tertentu karena rasa kopinya benar-benar berbeda, atau karena suasana tempatnya yang nyaman untuk bekerja?*
+*Coba tanyakan pada dirimu: apakah kamu membeli kopi di kafe tertentu karena rasa kopinya benar-benar berbeda, atau karena suasana tempatnya yang nyaman untuk bekerja?*
 
 ### Peran Utama Branding dan Iklan
 

@@ -65,7 +65,7 @@ Ketika kamu membutuhkan ponsel cerdas sebagai GPS di perjalanan (Nilai: Petualan
 
 ### 5. Latihan Refleksi
 
-*Coba perhatikan satu aplikasi yang paling sering kamu pakai untuk bekerja atau hobi. Tanyakan pada diri sendiri:*
+*Coba amati satu aplikasi yang paling sering kamu pakai untuk bekerja atau hobi. Tanyakan pada diri sendiri:*
 
 1. *Fitur apa yang benar-benar membantu mencapai tujuan saya?*
 2. *Fitur apa yang murni menjadi gangguan, misalnya feed berita di dalam aplikasi pencatatan?*

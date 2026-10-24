@@ -8,7 +8,7 @@ Mungkin itu utas perdebatan yang kamu baca sampai habis, atau video yang kamu to
 
 Pada implementasi lama, yaitu repositori twitter/the-algorithm (pembaruan September 2025), ada [berkas kode yang mendaftar jenis respons yang diprediksi](https://github.com/twitter/the-algorithm/blob/main/home-mixer/server/src/main/scala/com/twitter/home_mixer/model/PredictedScoreFeature.scala). Isinya mencakup like, reply, repost, bookmark, share, dwell (lamanya kamu berhenti di sebuah post), beberapa jenis klik tertentu, tontonan video, dan umpan balik negatif. Report tidak termasuk dalam daftar utama itu.
 
-Perhatikan sudut pandangnya. Model tidak bertanya apakah post ini benar atau apakah post ini membantumu belajar. Pertanyaannya adalah seberapa mungkin kamu memberi respons tertentu terhadap kandidat ini. Semua angka sesudahnya berangkat dari pertanyaan tersebut.
+Cermati sudut pandangnya. Model tidak bertanya apakah post ini benar atau apakah post ini membantumu belajar. Pertanyaannya adalah seberapa mungkin kamu memberi respons tertentu terhadap kandidat ini. Semua angka sesudahnya berangkat dari pertanyaan tersebut.
 
 ### Rumus Sederhana Bagian Positif
 

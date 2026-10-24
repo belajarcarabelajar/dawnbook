@@ -82,7 +82,7 @@ Saat *flow*, bagian otak yang berfungsi mengkritik diri sendiri ini beristirahat
 
 Di industri rekayasa perangkat lunak, kondisi *flow* sering kali diidentikkan dengan istilah *deep work* atau *in the zone*. Para profesional di bidang teknologi kerap merancang pola kerja mereka secara khusus demi masuk ke zona ini.
 
-Sebagai gambaran, mari kita perhatikan skenario ketika seorang *backend engineer* ditantang untuk merancang algoritma enkripsi data yang rumit. Ia memakai pengujian otomatis (*automated testing*) yang memeriksa dua syarat sekaligus: hasil enkripsinya harus aman, dan prosesnya harus selesai dalam waktu singkat, misalnya kurang dari 10 milidetik (angka ilustrasi). Begitu salah satu syarat tidak terpenuhi, ia langsung tahu letak kesalahannya. Umpan balik instan inilah yang menjaganya tetap berada di saluran *flow* tanpa terdistraksi oleh waktu tunggu yang lama.
+Sebagai gambaran, bayangkan seorang *backend engineer* ditantang untuk merancang algoritma enkripsi data yang rumit. Ia memakai pengujian otomatis (*automated testing*) yang memeriksa dua syarat sekaligus: hasil enkripsinya harus aman, dan prosesnya harus selesai dalam waktu singkat, misalnya kurang dari 10 milidetik (angka ilustrasi). Begitu salah satu syarat tidak terpenuhi, ia langsung tahu letak kesalahannya. Umpan balik instan inilah yang menjaganya tetap berada di saluran *flow* tanpa terdistraksi oleh waktu tunggu yang lama.
 
 **Pola Kerja Pendukung di Tempat Kerja:**
 
@@ -101,7 +101,7 @@ Perlu diingat bahwa *flow* sangat berbeda dengan memaksakan diri bekerja hingga 
 
 ### Latihan Refleksi
 
-*Coba ambil secarik kertas dan buatlah daftar aktivitas yang pernah membuatmu lupa waktu. Perhatikan polanya:*
+*Coba ambil secarik kertas dan buatlah daftar aktivitas yang pernah membuatmu lupa waktu. Lalu cermati polanya:*
 
 1. *Apakah ada kesamaan tantangan di antara aktivitas tersebut?*
 2. *Bagaimana kamu bisa membawa elemen-elemen tersebut ke dalam pekerjaan atau studimu yang terasa membosankan saat ini?*

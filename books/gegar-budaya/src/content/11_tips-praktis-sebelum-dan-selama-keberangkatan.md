@@ -36,7 +36,7 @@ Riset lebih dari sekadar membaca Wikipedia. Ini adalah tentang memahami "aturan 
 
 ### Metode Lima Indra untuk Riset
 
-1. **Penglihatan:** Tonton vlogs dari orang lokal (bukan hanya turis). Perhatikan bagaimana mereka berpakaian dan berinteraksi di ruang publik.
+1. **Penglihatan:** Tonton vlogs dari orang lokal (bukan hanya turis). Amati bagaimana mereka berpakaian dan berinteraksi di ruang publik.
 2. **Pendengaran:** Pelajari frasa kunci dalam bahasa lokal. Bukan hanya "Halo", tapi kalimat seperti *"Maaf, saya sedang belajar, bisa bicara lebih pelan?"*
 3. **Penciuman & Rasa:** Cari tahu bahan makanan apa yang dominan. Jika kamu terbiasa dengan sambal, dan tujuanmu adalah tempat yang minim bumbu pedas, siapkan mental (dan stok pribadi).
 4. **Sentuhan (Etika Fisik):** Riset tentang *personal space*. Apakah orang di sana bersalaman, membungkuk, atau berpelukan saat bertemu?

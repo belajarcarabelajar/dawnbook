@@ -71,4 +71,4 @@ Sebagai contoh, dalam bidang komunikasi organisasi dan manajemen sumber daya man
 
 Bahasa bekerja sebagai cermin yang merefleksikan peradaban penuturnya. Setiap pergeseran makna mencatat sejarah pemikiran, perubahan norma, dan dinamika interaksi antarmanusia.
 
-Pada bab-bab berikutnya, pembahasan akan membedah secara sistematis proses ameliorasi (peningkatan nilai rasa kata) dan pejorasi (penurunan nilai rasa kata), disertai analisis historis, etimologis, dan sosiolinguistis yang menyertainya.
+Dari kata-kata yang kamu pakai setiap hari, mana yang sedang naik nilai rasanya, dan mana yang perlahan turun?

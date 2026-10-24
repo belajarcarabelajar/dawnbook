@@ -63,7 +63,7 @@ Di mana $A$ (Teknologi) dan $K$ (Modal) meningkat drastis akibat akumulasi laba 
 
 Dalam analisis ekonomi sejarah, kita melihat bagaimana ketiadaan pajak (pilar utama Laissez-faire) mempercepat akumulasi modal.
 
-Perhatikan sebuah ilustrasi hipotetis dengan angka rekaan: modal awal 100 dan laba 20% per tahun, dihitung selama 10 tahun. Dalam sistem laissez-faire, seluruh laba diinvestasikan kembali tanpa dipajaki. Dalam sistem intervensionis, laba dipotong pajak 35% sebelum sisanya diinvestasikan kembali. Modal setelah $t$ tahun ($M_t$) dihitung dari modal awal ($M_0$) dan laba tahunan ($g$), dengan $g$ dan pajak ditulis sebagai pecahan (misalnya 0,35 untuk 35%):
+Cermati sebuah ilustrasi hipotetis dengan angka rekaan: modal awal 100 dan laba 20% per tahun, dihitung selama 10 tahun. Dalam sistem laissez-faire, seluruh laba diinvestasikan kembali tanpa dipajaki. Dalam sistem intervensionis, laba dipotong pajak 35% sebelum sisanya diinvestasikan kembali. Modal setelah $t$ tahun ($M_t$) dihitung dari modal awal ($M_0$) dan laba tahunan ($g$), dengan $g$ dan pajak ditulis sebagai pecahan (misalnya 0,35 untuk 35%):
 
 <div>
 $$

@@ -81,7 +81,7 @@ Sebaliknya, pesawat tempur dirancang dengan $\text{AR}$ rendah (berkisar antara 
 
 ### Contoh Perhitungan Komparatif
 
-Perhatikan dua konfigurasi sayap dengan luas referensi yang identik ($S = 100\text{ m}^2$):
+Bandingkan dua konfigurasi sayap dengan luas referensi yang identik ($S = 100\text{ m}^2$):
 
 1. **Konfigurasi A (Bentang Pendek / Kord Lebar):** Rentang sayap $b = 20\text{ m}$.
    $$\text{AR}_A = \frac{20^2}{100} = 4$$

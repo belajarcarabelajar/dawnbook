@@ -8,7 +8,7 @@ Di dunia yang bergerak sangat cepat dan penuh ketidakpastian ini, resiliensi dan
 
 Secara etimologis, **resiliensi** berasal dari bahasa Latin *resilire*, yang berarti "melompat kembali". Dalam psikologi, resiliensi adalah proses beradaptasi dengan baik di hadapan kesulitan, trauma, tragedi, ancaman, atau sumber stres yang berat.
 
-**Analogi Karet Gelang:** Bayangkan sebuah karet gelang. Kamu bisa menariknya sekuat tenaga (stresor), namun begitu tarikan dilepaskan, ia akan kembali ke bentuk semula. Namun, resiliensi manusia melampaui karet gelang. Manusia memiliki kapasitas untuk **"Bounce Forward"** (Melompat ke Depan). Artinya, setelah mengalami tekanan, kita tidak hanya kembali ke kondisi awal, tetapi kembali dengan pembelajaran dan kekuatan baru.
+**Analogi Karet Gelang:** Bayangkan sebuah karet gelang. Kamu bisa menarik karet itu sekuat tenaga (stresor), namun begitu tarikan dilepaskan, ia akan kembali ke bentuk semula. Namun, resiliensi manusia melampaui karet gelang. Manusia memiliki kapasitas untuk **"Bounce Forward"** (Melompat ke Depan). Artinya, setelah mengalami tekanan, kita tidak hanya kembali ke kondisi awal, tetapi kembali dengan pembelajaran dan kekuatan baru.
 
 > "Resiliensi bukan tentang tidak pernah jatuh, tetapi tentang seberapa cepat dan kuat kita bangkit setiap kali kita jatuh."
 

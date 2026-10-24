@@ -52,7 +52,7 @@ Dalam hubungan **I-Thou**, alih-alih mencoba menguasai mereka, kita memilih memb
 
 Di era digital, konsep "Tatapan" dan "Neraka adalah orang lain" menjadi sangat relevan.
 
-Sebagai contoh, perhatikan dinamika Instagram. Saat mengunggah foto, kamu sedang mencoba mengontrol bagaimana orang lain melihat dirimu dengan menciptakan representasi visual untuk dinilai. Konflik pun lahir saat kecemasan muncul ketika kamu terus-menerus menunggu jumlah tombol suka atau komentar sebagai bentuk pengakuan. Sisi buruknya, saat komentar negatif atau kesalahpahaman muncul, kamu merasa kebebasanmu untuk mendefinisikan diri sendiri telah dirampas oleh sudut pandang luar yang sempit.
+Ambil contoh dinamika Instagram. Saat mengunggah foto, kamu sedang mencoba mengontrol bagaimana orang lain melihat dirimu dengan menciptakan representasi visual untuk dinilai. Konflik pun lahir saat kecemasan muncul ketika kamu terus-menerus menunggu jumlah tombol suka atau komentar sebagai bentuk pengakuan. Sisi buruknya, saat komentar negatif atau kesalahpahaman muncul, kamu merasa kebebasanmu untuk mendefinisikan diri sendiri telah dirampas oleh sudut pandang luar yang sempit.
 
 Untuk menghadapinya secara eksistensial, langkah awal yang bisa diambil adalah menyadari objektifikasi tersebut. Sadarilah bahwa profilmu hanyalah representasi objek, bukan dirimu yang sesungguhnya. Selanjutnya, mulailah membangun kehadiran autentik dengan mengalihkan energi dari pencarian pengakuan massa (I-It) menuju hubungan mendalam bersama segelintir orang yang menghargai subjektivitasmu (I-Thou).
 

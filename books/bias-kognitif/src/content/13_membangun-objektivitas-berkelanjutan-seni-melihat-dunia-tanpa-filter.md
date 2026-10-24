@@ -84,6 +84,6 @@ Dunia tidak akan pernah berhenti mencoba membingungkan kamu dengan informasi yan
 
 Membangun objektivitas bukanlah tentang menjadi robot tanpa perasaan. Ini tentang menjadi manusia yang lebih bijaksana, yang mampu melihat indahnya spektrum warna dunia tanpa harus terbutakan oleh satu warna saja.
 
-**Langkah Terakhir Kamu:** Mulai hari ini, perhatikan setiap kali kamu merasa "paling benar". Jadikan perasaan itu sebagai alarm untuk berhenti sejenak, menarik napas, dan bertanya: *"Apa yang mungkin saya lewatkan?"*
+**Langkah Terakhir Kamu:** Mulai hari ini, sadari setiap kali kamu merasa "paling benar". Jadikan perasaan itu sebagai alarm untuk berhenti sejenak, menarik napas, dan bertanya: *"Apa yang mungkin saya lewatkan?"*
 
 > **Pesan Penutup:** Perjalanan mengenal cognitive bias adalah perjalanan seumur hidup. Teruslah membaca, teruslah bertanya, dan yang terpenting, teruslah meragukan kepastian-kepastian semu dalam pikiran kamu sendiri. Hanya dengan cara itulah, kamu bisa melihat dunia sebagaimana adanya, bukan sebagaimana yang kamu inginkan.

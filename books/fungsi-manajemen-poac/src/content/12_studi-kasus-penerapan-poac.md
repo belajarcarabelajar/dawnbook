@@ -2,7 +2,7 @@
 
 ### Mengapa Studi Kasus Itu Penting?
 
-Teori tanpa praktik hanyalah informasi, namun praktik tanpa teori adalah spekulasi. Setelah mempelajari setiap komponen **Planning, Organizing, Actuating, dan Controlling (POAC)**, mari kita perhatikan bagaimana sistem manajemen ini bekerja di dunia nyata.
+Teori tanpa praktik hanyalah informasi, namun praktik tanpa teori adalah spekulasi. Setelah mempelajari setiap komponen **Planning, Organizing, Actuating, dan Controlling (POAC)**, mari kita lihat bagaimana sistem manajemen ini bekerja di dunia nyata.
 
 Analogi terbaik untuk POAC adalah sebuah **orkestra**. *Planning* adalah partitur musiknya, *Organizing* adalah pembagian instrumen dan pemainnya, *Actuating* adalah aba-aba sang konduktor saat musik mulai dimainkan, dan *Controlling* adalah pendengaran tajam konduktor untuk memastikan tidak ada nada yang sumbang.
 

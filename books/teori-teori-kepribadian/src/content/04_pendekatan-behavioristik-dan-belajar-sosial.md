@@ -63,7 +63,7 @@ Dalam eksperimen "Bobo Doll", anak-anak yang melihat orang dewasa memukul boneka
 
 Keyakinan ini dapat tumbuh melalui beberapa sumber:
 * **Pengalaman Keberhasilan (*Mastery Experiences*):** Kesuksesan di masa lalu membangun rasa percaya diri yang paling kuat.
-* **Pengalaman *Vicarious* (*Social Modeling*):** Melihat orang lain yang mirip dengan kita berhasil mencapai tujuannya.
+* **Pengalaman *Vicarious* (*Social Modeling*):** Melihat orang lain yang serupa dengan kita berhasil mencapai tujuannya.
 * **Persuasi Verbal:** Dorongan atau penyemangat dari orang sekitar.
 * **Keadaan Fisiologis dan Emosional:** Perasaan rileks cenderung meningkatkan keyakinan diri, sementara stres dapat menurunkannya.
 
@@ -78,7 +78,7 @@ Interaksi Tiga Arah: $B \leftrightarrow P \leftrightarrow E$
 * **P (*Person*):** Faktor kognitif (seperti harapan dan *self-efficacy*), afektif, dan biologis.
 * **E (*Environment*):** Faktor eksternal seperti konteks fisik dan sosial.
 
-Supaya hubungan timbal balik ketiga unsur ini lebih mudah kamu bayangkan, perhatikan gambaran interaksinya berikut.
+Supaya hubungan timbal balik ketiga unsur ini lebih mudah kamu bayangkan, lihat gambaran interaksinya berikut.
 
 ```mermaid
 flowchart LR

@@ -126,4 +126,4 @@ Saat kapasitas RAM benar-benar habis dan sistem tidak lagi sanggup melakukan pag
 - **SLAB dan SLUB:** Bertindak sebagai manajer memori internal kernel yang mengalokasikan objek-objek kecil secara efisien tanpa memicu fragmentasi.
 - **Manajemen Memori:** Berperan menjaga keseimbangan dinamis antara performa kecepatan akses data dan pemanfaatan penyimpanan sekunder (*swap space*).
 
-Di bab berikutnya, kita akan mempelajari bagaimana aplikasi berinteraksi dengan kernel melalui **System Calls**.
+Lalu, lewat jalur apa sebuah aplikasi bisa berinteraksi dengan kernel?

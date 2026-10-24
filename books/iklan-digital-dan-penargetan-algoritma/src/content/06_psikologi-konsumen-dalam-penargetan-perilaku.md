@@ -92,7 +92,7 @@ Ada garis tipis antara membantu konsumen menemukan apa yang mereka butuhkan dan 
 Untuk benar-benar memahami ini, cobalah eksperimen kecil:
 
 1. Buka satu situs belanja (misalnya, peralatan dapur yang mahal) dan masukkan ke keranjang tanpa membayar.
-2. Perhatikan bagaimana iklan di media sosial kamu berubah dalam 24 jam ke depan.
+2. Amati bagaimana iklan di media sosial kamu berubah dalam 24 jam ke depan.
 3. Identifikasi bias kognitif mana yang sedang mereka coba picu pada kamu: Apakah itu **Kelangkaan**? **Validasi Sosial**? atau **Paparan Semata**?
 
 Dengan memahami mekanisme psikologis di balik layar, kita tidak hanya menjadi pemasar yang lebih cerdas, tetapi juga konsumen yang lebih sadar akan keputusan kita sendiri.

@@ -81,5 +81,3 @@ Luka Modrić, kapten Kroasia, adalah seorang pengungsi perang saat kecil akibat 
 Secara garis besar, pergeseran politik ini melahirkan dua pola utama. Penyatuan Jerman memusatkan talenta terbaik ke dalam satu tim nasional yang didukung kestabilan finansial. Sebaliknya, fragmentasi Uni Soviet dan Yugoslavia memecah dominasi raksasa lama menjadi tim-tim baru yang lebih variatif, meski di saat yang sama melemahkan kekuatan tunggal yang dulu pernah mendominasi panggung dunia.
 
 > "Sepak bola adalah kelanjutan dari politik dengan cara lain," sebuah adaptasi dari pemikiran Carl von Clausewitz yang sangat relevan untuk menggambarkan era ini.
-
-Setelah runtuhnya Tembok Berlin mengubah peta kekuatan di Eropa Timur, bab berikutnya akan mengulas konflik di wilayah lain, khususnya Timur Tengah, yang mendorong FIFA mengambil keputusan politik untuk mengasingkan satu negara dari konfederasinya sendiri.

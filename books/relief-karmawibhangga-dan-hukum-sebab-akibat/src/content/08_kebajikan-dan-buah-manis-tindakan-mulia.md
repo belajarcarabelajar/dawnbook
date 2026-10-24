@@ -32,7 +32,7 @@ Relief Karmawibhangga menyoroti tiga pilar utama yang dianggap sebagai "investas
 
 Ini adalah tema yang paling sering muncul. Dalam panel-panel ini, kamu akan melihat adegan orang-orang memberikan sedekah kepada para petapa, pengemis, atau membangun fasilitas umum.
 
-- **Visualisasi Relief:** Perhatikan panel yang menggambarkan seseorang memberikan wadah berisi makanan atau perhiasan. Biasanya, di sisi kanan panel tersebut, orang tersebut digambarkan kembali dalam posisi yang lebih sejahtera, berpakaian mewah, dikelilingi oleh pelayan, atau berada dalam rumah yang megah.
+- **Visualisasi Relief:** Lihat panel yang menggambarkan seseorang memberikan wadah berisi makanan atau perhiasan. Biasanya, di sisi kanan panel tersebut, orang tersebut digambarkan kembali dalam posisi yang lebih sejahtera, berpakaian mewah, dikelilingi oleh pelayan, atau berada dalam rumah yang megah.
 - **Buah Manis:** Kekayaan materi dan kecukupan di kehidupan saat ini atau mendatang.
 
 ### B. Kesabaran (Khanti)

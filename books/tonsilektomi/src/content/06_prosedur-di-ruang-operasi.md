@@ -32,7 +32,7 @@ Setelah pasien teranestesi dengan stabil, tim bedah akan mengatur posisi pasien 
 
 Inilah inti dari prosedur ini. Amandel terletak di dalam "kantong" yang disebut kapsul tonsil.
 
-Dokter bedah akan memegang tonsil menggunakan klem, menariknya perlahan ke arah tengah, lalu memisahkannya dari jaringan otot di bawahnya dengan mengikuti garis kapsul tonsil. Proses ini membutuhkan ketelitian tinggi agar tonsil terangkat utuh tanpa mencederai otot tenggorokan yang berfungsi untuk menelan.
+Dokter bedah akan memegang tonsil menggunakan klem, menarik tonsil itu perlahan ke arah tengah, lalu memisahkannya dari jaringan otot di bawahnya dengan mengikuti garis kapsul tonsil. Proses ini membutuhkan ketelitian tinggi agar tonsil terangkat utuh tanpa mencederai otot tenggorokan yang berfungsi untuk menelan.
 
 Tonsilektomi sebenarnya adalah salah satu operasi tertua di dunia. Bedanya, teknologi medis saat ini memungkinkan penggunaan alat presisi tinggi untuk meminimalkan kerusakan jaringan.
 

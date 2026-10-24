@@ -35,7 +35,7 @@ Di bidang sains, metakognisi membantu kita berpikir lebih terstruktur saat meran
 		- Buat daftar langkah kerjanya dan bayangkan seperti apa hasil akhirnya nanti.
 		- **Contoh di Biologi:** Saat ingin melihat pengaruh cahaya matahari pada tanaman, kamu mengatur supaya jumlah air, tanah, dan suhunya tetap sama, tapi menaruh tanaman di tempat yang terang dan gelap. Dari sini, kamu bisa menebak kalau tanaman di tempat terang bakal tumbuh lebih bagus.
 2. **Menganalisis dan Membaca Data:**
-	- Sambil mencatat hasil, perhatikan apakah datanya sejalan dengan tebakan awalmu atau justru berantakan.
+	- Sambil mencatat hasil, cermati apakah datanya sejalan dengan tebakan awalmu atau justru berantakan.
 		- "Apakah angka-angka ini masuk akal?" atau "Pola apa yang kelihatan dari tabel ini?".
 		- *Coba pikirkan:* Bisakah temuan ini digabungkan dengan materi yang sudah pernah dipelajari sebelumnya?
 		- **Contoh di Fisika:** Waktu menghitung percepatan gravitasi ($g$), kamu terus melihat hasil pengukuran tiap pantulan benda. Kalau ada satu angka $g$ yang melenceng jauh dari rata-rata, kamu pasti langsung curiga ada pengukur waktu yang salah tekan atau alatnya kurang pas.

@@ -58,7 +58,7 @@ Jika nilai *Wanting* jauh melampaui *Liking*, yang tersisa hanyalah **dorongan o
 
 ### 4. "Doomscrolling" Malam Hari
 
-Perhatikan skenario nyata berikut:
+Ikuti skenario nyata berikut:
 
 1. **Pukul 22.00:** Kamu membuka ponsel "hanya untuk 5 menit". (**Dopamin Fase Awal**)
 2. **Pukul 23.30:** Kamu menyadari sudah 1,5 jam melihat video pendek. Kamu merasa mata perih dan otak "kosong".

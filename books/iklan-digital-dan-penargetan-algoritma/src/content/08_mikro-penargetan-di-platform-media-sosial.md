@@ -24,7 +24,7 @@ Ini adalah fitur di mana pengiklan bisa mengunggah data mereka sendiri (seperti 
 
 Ini adalah "senjata rahasia" Meta. Dengan algoritma *machine learning*, Meta dapat mencari pengguna baru yang memiliki karakteristik perilaku yang sangat mirip dengan pelanggan terbaikmu.
 
-> **Insight:** Jika kamu memiliki 1.000 pembeli setia, Meta bisa memindai jutaan pengguna lain untuk menemukan 1% populasi yang paling mirip dengan 1.000 pembeli tersebut dalam hal perilaku digital.
+> **Insight:** Jika kamu memiliki 1.000 pembeli setia, Meta bisa memindai jutaan pengguna lain untuk menemukan 1% populasi yang paling serupa dengan 1.000 pembeli tersebut dalam hal perilaku digital.
 
 ### 2. Graf Minat TikTok
 

@@ -82,7 +82,7 @@ Solusi hanyalah sebuah teori sampai ia dieksekusi. Gunakan siklus **PDCA (Plan-D
 3. **Check**: Evaluasi hasilnya. Apakah sesuai dengan metrik keberhasilan yang ditetapkan di awal?
 4. **Act**: Jika berhasil, standarisasi solusi tersebut. Jika gagal, kembali ke langkah awal.
 
-Perhatikan bahwa langkah Act menjadi titik cabang yang menentukan arah siklus berikutnya.
+Langkah Act menjadi titik cabang yang menentukan arah siklus berikutnya.
 
 ```mermaid
 flowchart TD

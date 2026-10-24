@@ -16,7 +16,7 @@ Karena itu, sebelum mengubah daftar follow atau kebiasaan like, tuliskan dulu pe
 | Memahami keamanan digital | Peringatan dari sumber primer, penjelasan dampaknya, langkah perlindungan yang bisa dijalankan | Tangkapan layar menakutkan yang tidak disertai tautan dan tanggal |
 | Mengikuti perkembangan perangkat lunak | Catatan rilis, cerita penerapan di proyek nyata, perubahan kompatibilitas | Perdebatan antarmerek yang tidak membantu keputusanmu |
 
-Perhatikan pola di kolom kanan. Yang perlu dibatasi bukan topiknya, melainkan bentuk bacaan yang tidak bisa kamu periksa atau tidak menolongmu mengambil keputusan. Kamu bisa menambah baris sendiri untuk kebutuhan lain, asalkan setiap baris berangkat dari pertanyaan yang benar-benar ingin kamu jawab.
+Lihat pola di kolom kanan. Yang perlu dibatasi bukan topiknya, melainkan bentuk bacaan yang tidak bisa kamu periksa atau tidak menolongmu mengambil keputusan. Kamu bisa menambah baris sendiri untuk kebutuhan lain, asalkan setiap baris berangkat dari pertanyaan yang benar-benar ingin kamu jawab.
 
 ### Memisahkan Belajar dan Bersantai
 

@@ -53,7 +53,7 @@ Bagaimana wujud nyatanya?
 
 ### Perbandingan Kunci Ketiga Pendekatan
 
-Guna memudahkan kamu memetakan perbedaan ketiganya, perhatikan tabel perbandingan ringkas berikut:
+Guna memudahkan kamu memetakan perbedaan ketiganya, cermati tabel perbandingan ringkas berikut:
 
 | Aspek | Multidisciplinary | Interdisciplinary | Transdisciplinary |
 | --- | --- | --- | --- |

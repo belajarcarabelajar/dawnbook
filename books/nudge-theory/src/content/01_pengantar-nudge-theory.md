@@ -48,7 +48,7 @@ Dalam dunia digital, arsitektur pilihan disebut juga sebagai *Digital Nudging*. 
 
 #### Dialog Berhenti Berlangganan
 
-Dalam pengembangan web, seorang *front-end developer* juga bertindak sebagai arsitek pilihan, misalnya lewat bobot visual setiap pilihan. Perhatikan dialog yang muncul saat pengguna hendak berhenti berlangganan berikut, yang dirancang untuk menahan pelanggan (fokus pada retensi):
+Dalam pengembangan web, seorang *front-end developer* juga bertindak sebagai arsitek pilihan, misalnya lewat bobot visual setiap pilihan. Lihat dialog yang muncul saat pengguna hendak berhenti berlangganan berikut, yang dirancang untuk menahan pelanggan (fokus pada retensi):
 
 > **Yakin ingin berhenti berlangganan?**
 >
@@ -88,6 +88,6 @@ Arsitek lift memahami bahwa manusia merasa cemas saat menunggu secara pasif. Den
 
 ## Mengamati Arsitektur Pilihan di Sekitar Kita
 
-Kita bisa melatih kepekaan terhadap arsitektur pilihan ini dalam keseharian. Saat sedang bekerja di kantor, bersantai di rumah, atau sekadar menavigasi menu di ponsel, cobalah perhatikan bagaimana tata letak objek atau antarmuka aplikasi didesain. Sering kali, posisi tombol atau penempatan barang dirancang secara sengaja untuk mengarahkan langkah kita berikutnya.
+Kita bisa melatih kepekaan terhadap arsitektur pilihan ini dalam keseharian. Saat sedang bekerja di kantor, bersantai di rumah, atau sekadar menavigasi menu di ponsel, cobalah amati bagaimana tata letak objek atau antarmuka aplikasi didesain. Sering kali, posisi tombol atau penempatan barang dirancang secara sengaja untuk mengarahkan langkah kita berikutnya.
 
 > **Poin Penting:** Arsitektur pilihan berfokus pada memandu tindakan manusia tanpa menghilangkan kebebasan mereka. Di pembahasan berikutnya, kita akan mempelajari motor penggerak utama di balik perilaku ini, yaitu **Dual Process Theory**.

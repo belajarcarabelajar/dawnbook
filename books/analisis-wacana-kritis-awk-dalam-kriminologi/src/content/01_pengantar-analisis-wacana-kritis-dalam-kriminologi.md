@@ -40,7 +40,7 @@ Berikut adalah tiga pilar utama mengapa analisis bahasa bersifat sangat krusial 
 
 ### 1. Labeling dan Stigmatisasi
 
-Bahasa memiliki daya kognitif untuk melekatkan stigma sosial secara permanen pada diri seseorang. Perhatikan komparasi dampak psikologis dan sosiologis dari dua bentuk pelabelan berikut:
+Bahasa memiliki daya kognitif untuk melekatkan stigma sosial secara permanen pada diri seseorang. Bandingkan dampak psikologis dan sosiologis dari dua bentuk pelabelan berikut:
 
 - **Konstruksi Perilaku:** Menyebut seseorang sebagai *"individu yang pernah melakukan kekhilafan hukum"*.
 - **Pelabelan Esensialis:** Menyebut seseorang sebagai *"residivis"* atau *"penjahat kambuhan"*.

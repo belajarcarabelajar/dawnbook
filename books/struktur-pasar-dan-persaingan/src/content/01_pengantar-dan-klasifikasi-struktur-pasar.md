@@ -67,7 +67,7 @@ Memahami struktur pasar bukan hanya teori akademis. Hal ini memiliki dampak lang
 2. **Inovasi:** Perusahaan dalam pasar oligopoli sering kali berinovasi lebih cepat untuk mengalahkan pesaing mereka.
 3. **Pilihan Konsumen:** Struktur pasar menentukan seberapa banyak variasi produk yang tersedia bagi kita.
 
-Sebagai contoh sehari-hari, coba perhatikan penyedia layanan internet di daerahmu. Berapa banyak pilihan yang kamu miliki? Berdasarkan jumlah penjualnya, kamu dapat mengidentifikasi struktur pasar yang sedang beroperasi di sana.
+Sebagai contoh sehari-hari, coba lihat penyedia layanan internet di daerahmu. Berapa banyak pilihan yang kamu miliki? Berdasarkan jumlah penjualnya, kamu dapat mengidentifikasi struktur pasar yang sedang beroperasi di sana.
 
 ## Klasifikasi pada Evolusi Industri Transportasi
 

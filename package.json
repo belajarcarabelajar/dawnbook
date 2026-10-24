@@ -12,6 +12,7 @@
     "pr:integrate": "bun run scripts/pr-integration-agent.ts",
     "pr:integrate:dry": "bun run scripts/pr-integration-agent.ts --dry-run",
     "check:covers": "bun run scripts/check-covers.ts",
+    "check:voice": "bun run scripts/check-voice.ts --all",
     "og:preview": "bun run scripts/render-og-cards.ts"
   },
   "dependencies": {

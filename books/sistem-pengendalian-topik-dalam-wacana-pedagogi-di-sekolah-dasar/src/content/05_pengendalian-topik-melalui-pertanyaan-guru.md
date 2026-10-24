@@ -27,7 +27,7 @@ Kondisi ini menegaskan adanya pola dominasi guru di dalam kelas. Siswa cenderung
 
 Untuk memahami bagaimana pertanyaan bekerja dalam mengendalikan topik, kamu dapat mempelajari struktur pertukaran dialog di kelas. Pertukaran ini umumnya mengikuti alur *Pemulai* (Inisiasi oleh Guru), *Respons* (Jawaban Siswa), dan *Komen* (Umpan Balik atau Penguatan oleh Guru).
 
-Perhatikan contoh transkripsi wacana kelas berikut yang membahas topik alat komunikasi (Teks 11):
+Cermati contoh transkripsi wacana kelas berikut yang membahas topik alat komunikasi (Teks 11):
 
 | Pertukaran | Gerakan | Pemeran | Penutur | Ujaran / Transkrip Interaksi | Fungsi Wacana |
 | :---: | :---: | :---: | :---: | :--- | :--- |

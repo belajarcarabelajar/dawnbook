@@ -2,7 +2,7 @@
 Selamat datang di titik awal pemahaman mendalam mengenai perilaku pasar. Jika kamu pernah bertanya-tanya mengapa kenaikan harga bensin tidak membuat orang berhenti membeli bensin, namun kenaikan harga satu merk kopi bisa membuat pelanggannya lari ke merk lain, maka kamu sedang memikirkan konsep **Elastisitas**.
 Dalam ekonomi, angka saja tidak cukup. Kita tidak hanya ingin tahu bahwa "jika harga naik, permintaan turun." Kita ingin tahu **seberapa besar** penurunan tersebut. Di sinilah elastisitas berperan sebagai alat ukur presisi bagi para ekonom.
 ## Apa Itu Elastisitas?
-Secara bahasa, elastisitas berarti kelenturan. Bayangkan sebuah karet gelang. Jika kamu menariknya, ia akan meregang lebar. Namun, bayangkan seutas kawat besi; sekeras apa pun kamu menariknya, bentuknya hampir tidak berubah.
+Secara bahasa, elastisitas berarti kelenturan. Bayangkan sebuah karet gelang. Jika kamu menarik karet itu, ia akan meregang lebar. Namun, bayangkan seutas kawat besi; sekeras apa pun kamu menarik kawat itu, bentuknya hampir tidak berubah.
 Dalam ekonomi, **Elastisitas** adalah ukuran derajat kepekaan (respons) suatu variabel ekonomi terhadap perubahan variabel lainnya.
 > **Inti Konsep:** Elastisitas menjawab pertanyaan "Seberapa sensitif konsumen atau produsen terhadap perubahan harga atau faktor lainnya di pasar?"
 Secara matematis, kita melihatnya sebagai perbandingan perubahan persentase:
@@ -34,7 +34,7 @@ Bayangkan dua produk di rak supermarket: **Garam** dan **Sereal Cokelat**.
 - **Skenario B (Sereal Cokelat):** Ada sepuluh merk sereal cokelat yang berbeda. Jika Merk X menaikkan harga sebesar 20%, konsumen akan langsung menoleh ke Merk Y atau Z yang lebih murah. **Sereal Merk X memiliki elastisitas tinggi (elastis).**
 **Pelajaran bagi pemilik toko:** Mereka bisa menaikkan harga barang inelastis untuk menutupi biaya operasional, tetapi mereka harus sangat berhati-hati (sering mengadakan promo) untuk barang yang elastis agar tidak kehilangan pelanggan.
 ## Refleksi Pembelajaran
-Coba perhatikan pengeluaran kamu dalam sebulan terakhir. Kamu bisa mengidentifikasi satu barang yang tetap kamu beli meskipun harganya naik (inelastis) dan satu barang yang langsung kamu coret dari daftar belanja ketika harganya naik sedikit saja (elastis). Perbedaan tingkat kebutuhan dan ketersediaan substitusi membuat kedua barang tersebut memiliki tingkat sensitivitas yang berbeda di mata konsumen.
+Coba cermati pengeluaran kamu dalam sebulan terakhir. Kamu bisa mengidentifikasi satu barang yang tetap kamu beli meskipun harganya naik (inelastis) dan satu barang yang langsung kamu coret dari daftar belanja ketika harganya naik sedikit saja (elastis). Perbedaan tingkat kebutuhan dan ketersediaan substitusi membuat kedua barang tersebut memiliki tingkat sensitivitas yang berbeda di mata konsumen.
 **Poin Penting untuk Diingat:**
 - **Elastisitas = Responsivitas.**
 - Kita mengukur dalam **persentase** untuk standarisasi.

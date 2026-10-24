@@ -27,7 +27,7 @@ Coba ingat kembali interaksi kamu dengan orang tua atau pengasuh utama saat seda
 
 ### B. Observasi Perilaku Dewasa (Buah)
 
-Perhatikan juga reaksi kamu dalam situasi intim saat ini:
+Amati juga reaksi kamu dalam situasi intim saat ini:
 
 * **Saat Konflik:** Apakah kamu ingin segera menyelesaikannya karena takut ditinggalkan, atau justru ingin menarik diri dan menyendiri?
 * **Saat Keintiman:** Apakah kamu merasa nyaman berbagi rahasia, atau justru merasa sesak ketika seseorang mencoba mendekat?

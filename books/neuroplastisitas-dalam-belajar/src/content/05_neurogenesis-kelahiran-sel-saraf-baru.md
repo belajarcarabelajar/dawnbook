@@ -42,7 +42,7 @@ Setiap neuron baru menambah kapasitas "bandwidth" otak untuk menyerap informasi 
 Neurogenesis tidak hanya membuat kita cerdas, tetapi juga menjaga kesehatan mental kita. Hippocampus memiliki hubungan erat dengan sistem limbik, pusat kendali emosi.
 
 - **Resiliensi terhadap Stres:** Penelitian menunjukkan bahwa tingkat neurogenesis yang tinggi berkorelasi dengan kemampuan seseorang untuk pulih dari stres psikologis.
-- **Kaitan dengan Depresi:** Banyak ilmuwan menemukan bahwa penderita depresi klinis seringkali mengalami penyusutan volume hippocampus. Menariknya, obat-obatan antidepresan dan aktivitas fisik bekerja (sebagian) dengan cara memicu kembali kelahiran neuron baru di area ini.
+- **Kaitan dengan Depresi:** Banyak ilmuwan menemukan bahwa penderita depresi klinis seringkali mengalami penyusutan volume hippocampus. Obat-obatan antidepresan dan aktivitas fisik bekerja (sebagian) dengan cara memicu kembali kelahiran neuron baru di area ini.
 
 *Indikator Regenerasi Otak: Sensasi pikiran yang terasa lebih jernih serta suasana hati yang membaik pasca mempelajari hal baru atau berolahraga merupakan indikasi fisik bahwa jaringan otak sedang melakukan regenerasi.*
 

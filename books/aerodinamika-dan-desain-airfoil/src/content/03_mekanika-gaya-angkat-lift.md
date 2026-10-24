@@ -76,7 +76,7 @@ Respons koefisien angkat $C_L$ terhadap perubahan sudut serang $\alpha$ memiliki
 
 ### 5. Gaya Angkat Sebuah Drone
 
-Sebagai contoh praktis perancangan kendaraan udara nirawak (*drone*), perhatikan data parameter berikut:
+Sebagai contoh praktis perancangan kendaraan udara nirawak (*drone*), tinjau data parameter berikut:
 
 - Luas sayap ($S$) = $0{,}5\text{ m}^2$
 - Kecepatan jelajah ($v$) = $20\text{ m/s}$

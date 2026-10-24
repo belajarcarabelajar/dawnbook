@@ -87,6 +87,6 @@ Pertama, cobalah merekam dirimu sendiri saat melakukan simulasi presentasi. Puta
 
 Kedua, lakukan latihan di depan cermin. Amati ekspresi wajahmu saat berbicara. Sering kali kita merasa sudah tersenyum ramah, padahal otot wajah masih tampak tegang.
 
-Ketiga, lakukan observasi aktif terhadap orang lain. Saat menghadiri rapat, amati rekan kerja yang pembicaraannya paling didengar. Perhatikan bagaimana mereka mengatur jeda suara dan menjaga posisi tubuh mereka tetap tenang saat berbicara.
+Ketiga, lakukan observasi aktif terhadap orang lain. Saat menghadiri rapat, amati rekan kerja yang pembicaraannya paling didengar. Cermati bagaimana mereka mengatur jeda suara dan menjaga posisi tubuh mereka tetap tenang saat berbicara.
 
 > **Pesan Penting:** Komunikasi yang efektif berakar pada keaslian diri. Saat kamu menyampaikan ide secara jujur, jelas, dan percaya diri, pesanmu akan memiliki daya pengaruh yang kuat tanpa perlu berpura-pura menjadi orang lain atau menggunakan taktik manipulatif.

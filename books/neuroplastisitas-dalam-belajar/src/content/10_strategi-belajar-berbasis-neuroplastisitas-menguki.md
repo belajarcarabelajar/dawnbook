@@ -67,7 +67,7 @@ Berikut contoh aturan sederhana untuk menentukan kapan sebuah kartu belajar perl
 
 ### Mengoptimalkan Sesi Belajar kamu
 
-Untuk memastikan strategi di atas memicu neuroplastisitas yang maksimal, perhatikan elemen pendukung berikut:
+Untuk memastikan strategi di atas memicu neuroplastisitas yang maksimal, cermati elemen pendukung berikut:
 
 1. **Fokus Intens (Deep Work):** Tanpa atensi penuh, neuromodulator seperti asetilkolin tidak akan dilepaskan, dan perubahan fisik pada sinapsis tidak akan terjadi.
 2. **Kesalahan sebagai Sinyal:** Saat kamu melakukan kesalahan dalam *Active Recall*, otak kamu melepaskan epinefrin yang meningkatkan kewaspadaan. **Jangan frustrasi; kesalahan adalah katalisator biologis untuk perubahan saraf.**

@@ -74,7 +74,7 @@ Meskipun kontribusi prestasi olahraga $S$ tampak kecil dibandingkan dengan kekua
 
 ## Langkah Pembelajaran Selanjutnya
 
-Dalam bab-bab berikutnya, kita akan membedah bagaimana teori-teori ini terwujud dalam catatan sejarah. Kita akan melihat secara langsung bagaimana:
+Di bagian-bagian selanjutnya buku ini, kita akan membedah bagaimana teori-teori ini terwujud dalam catatan sejarah. Kita akan melihat secara langsung bagaimana:
 
 - Para diktator menggunakan sorak-sorai di stadion untuk meredam jeritan di penjara politik.
 - Benua yang terpinggirkan melakukan aksi boikot demi menuntut keadilan olahraga.
