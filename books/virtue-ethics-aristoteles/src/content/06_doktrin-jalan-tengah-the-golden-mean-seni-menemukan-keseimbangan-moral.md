@@ -76,6 +76,6 @@ Setiap orang memiliki bias pribadinya masing-masing. Jika kamu menyadari kecende
 
 Seringkali eksesi muncul akibat godaan kesenangan sesaat. Biasakan berhenti sejenak sebelum bertindak dan pertanyakan pada diri sendiri apakah tindakan tersebut benar-benar tepat, atau hanya dorongan impulsif belaka.
 
-Selain itu, amati orang-orang bijak di sekitarmu. Cermati bagaimana orang-orang yang kamu anggap berintegritas bereaksi saat menghadapi situasi sulit. Meniru teladan yang baik adalah langkah yang paling efektif untuk mempelajari titik keseimbangan ini.
+Selain itu, amati orang-orang bijak di sekitarmu. Lihat bagaimana orang-orang yang kamu anggap berintegritas bereaksi saat menghadapi situasi sulit. Meniru teladan yang baik adalah langkah yang paling efektif untuk mempelajari titik keseimbangan ini.
 
 Doktrin Jalan Tengah bukan berarti bersikap tanpa pendirian atau suam-suam kuku. Justru, hal ini sangat menekankan pada ketepatan tindakan. Seperti seorang pemanah, hanya ada satu titik sasaran yang tepat di tengah sekian banyak kemungkinan untuk meleset.
