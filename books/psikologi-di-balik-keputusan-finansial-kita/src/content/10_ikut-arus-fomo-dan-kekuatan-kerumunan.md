@@ -4,7 +4,7 @@ Saat semua orang membeli dan harga terus naik, ikut arus terasa waras, padahal k
 
 Bayangkan pemandangan yang mungkin pernah kamu alami. Grafik di layar merayap naik, grup chat ramai membagikan bukti untung, dan seseorang di kenalanmu bercerita membeli dua hari lalu dan kini nilainya naik. Di sisi lain ada kamu, dengan uang yang menganggur di rekening, merasa setiap hari tidak ikut adalah uang yang hilang. Perasaan itu punya nama populer, FOMO, takut ketinggalan. Para ekonom menemukan bahwa keputusan mengikuti kerumunan seperti ini tidak selalu bodoh, dan justru karena itu ia menjebak: kerumunan bisa dibangun dari orang-orang yang berpikir waras.
 
-### Kerumunan yang lahir dari sinyal sekecil
+### Bagaimana kerumunan terbentuk
 
 Coba kita bongkar dengan skenario sederhana. Sebuah gerai minuman baru buka di lobi kantor kamu, berdampingan dengan gerai lama yang biasa kamu beli. Hari itu kamu melihat satu orang mengantre di gerai baru, sedangkan gerai lama kosong. Apa kesimpulanmu? Mungkin orang itu sudah mencoba dan tahu enak. Kamu ikut mengantre. Orang ketiga datang, melihat dua orang mengantre, dan mengambil kesimpulan yang sama. Orang kelima sudah tidak berpikir lagi; empat orang di depannya sudah cukup sebagai bukti. Hasilnya, mulai dari titik tertentu, tidak ada orang dalam antrean yang benar-benar tahu rasanya minuman itu. Mereka semua bertindak atas dasar tindakan orang di depannya.
 

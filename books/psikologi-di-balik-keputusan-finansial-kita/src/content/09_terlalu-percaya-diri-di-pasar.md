@@ -4,7 +4,7 @@ Dari 66.465 rumah tangga investor, kelompok yang paling rajin berdagang justru m
 
 Kalau kamu pernah mendengar nasihat "yang rajin pasti untung", data dari pasar saham Amerika punya versi cerita yang berlawanan. Brad Barber dan Terrance Odean (2000) meneliti catatan transaksi 66.465 rumah tangga yang memiliki akun di satu perusahaan efek ritel besar, mengikuti mereka dari tahun 1991 sampai 1996. Temuannya jelas: rumah tangga yang paling aktif berdagang, yang memutar portofolionya paling sering, memperoleh pengembalian tahunan bersih sekitar 11,4 persen, sementara pasar menghasilkan 17,9 persen. Yang jarang berdagang justru memperoleh sekitar 18,5 persen, sedikit di atas pasar. Jadi urutannya terbalik dari intuisi: makin rajin memindahkan posisi, makin tipis hasilnya.
 
-### Selisih yang membuat dompet menyusut
+### Selisih tujuh persen setahun
 
 Perlu kamu pahami, selisih tujuh persen setahun itu bukan kebetulan statistik, dan ia menumpuk dari tahun ke tahun. Meskipun pilihannya benar, setiap perpindahan posisi menelan biaya transaksi dan sering kali masuk di waktu yang buruk. Penelitian Barber dan Odean menghitung pengembalian sebagai net annualized geometric mean, angka yang sudah memotong semua biaya itu. Artinya, investor yang sering berdagang membayar biaya terus-menerus untuk keputusan yang rata-rata tidak menambah apa-apa, bahkan menurunkan hasilnya jauh di bawah opsi paling membosankan yang ada: memegang saja dan membiarkan pasarnya bekerja.
 

@@ -1,10 +1,10 @@
-## Angka Pertama yang Membelenggu
+## Angka Pertama yang Menjadi Jangkar
 
 Dua digit terakhir nomor identitas yang tak ada hubungannya dengan harga bisa menggeser kesediaan membayarmu hingga dua kali lipat di eksperimen sungguhan.
 
 Kalimat itu terdengar seperti lelucon, tapi ia adalah deskripsi persis dari salah satu eksperimen paling terkenal dalam ekonomi perilaku. Sebelum kita bongkar eksperimennya, coba cek dirimu sendiri: pernahkah kamu melihat harga lama yang dicoret, misalnya "dari Rp499.000, sekarang Rp199.000", lalu merasa harga sekarang itu murah sebelum kamu sempat membandingkannya dengan toko lain? Kalau iya, kamu sudah mengalami hal yang sama dengan partisipan-partisipan itu. Angka pertama yang masuk ke kepala, berapa pun asalnya, menjadi jangkar yang menarik seluruh pertimbanganmu ke arahnya, dan melepasnya jauh lebih sulit daripada memasangnya.
 
-### Lelang yang absurd
+### Lelang di MIT Sloan
 
 Ceritanya begini. Dan Ariely, George Loewenstein, dan Drazen Prelec (2003) menguji ide yang mereka sebut coherent arbitrariness, kesesuaian yang berakar pada hal yang arbitrer. Mereka melangsungkan lelang sederhana dengan 55 mahasiswa MBA di MIT Sloan, dengan enam produk mulai dari aksesori komputer, wine, cokelat, sampai buku. Sebelum menawar, partisipan diminta menjawab satu pertanyaan yang tidak ada hubungannya dengan produk: apakah mereka bersedia membeli barang itu seharga angka yang diambil dari dua digit terakhir nomor jaminan sosial mereka. Dua digit terakhir itu, seperti kamu tahu, hanyalah urutan pendaftaran acak, sama sekali bukan harga.
 
@@ -24,7 +24,7 @@ Eksperimen di laboratorium menunjukkan seberapa mahal "tidak masalah" itu. Parti
 
 Jadi balik logika yang kita duga. Banyak orang mengira mencantumkan minimum payment adalah bentuk kewajaran dari penerbit kartu, "setidaknya ada patokan". Patokan itulah masalahnya. Ia bekerja seperti roda keberuntungan yang dihadirkan oleh pihak yang keuntungannya malah lebih besar kalau kamu membayar lebih kecil dan lebih lama.
 
-### Melepas belenggu
+### Melawan efek jangkar
 
 Kabar baiknya, jangkar bisa dilawan dengan dua kebiasaan kecil. Pertama, menghasilkan angka sendiri lebih dulu: sebelum melihat harga promosi, tentukan dulu berapa yang kamu anggap wajar untuk barang itu, supaya angka dari luar masuk sebagai pembanding, bukan titik nol. Kedua, bertanya satu kalimat saat melihat angka apa pun: "angka ini relevan untuk keputusan saya, atau sekadar yang tampil lebih dulu?" Harga tetangga untuk barang yang sama, harga total bukan cicilan per bulan, dan nilai barang bagimu secara pribadi adalah pertimbangan yang relevan. Harga lama yang dicoret dan minimum payment adalah tampil lebih dulu.
 

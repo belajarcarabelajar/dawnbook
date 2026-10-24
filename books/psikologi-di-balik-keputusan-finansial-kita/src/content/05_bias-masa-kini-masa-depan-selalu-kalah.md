@@ -12,7 +12,7 @@ Karena bobot itu berubah-ubah, pilihan kita menjadi tidak konsisten dari waktu k
 
 O'Donoghue dan Rabin membagi dua jenis "keterlambatan" yang lahir dari bias ini. Yang pertama procrastination, menunda aktivitas yang biayanya terasa sekarang dan manfaatnya di masa depan, seperti menabung atau belajar. Yang kedua lebih jarang disadari, mereka menyebutnya preproperate: melakukan sesuatu terlalu cepat karena kenikmatannya ingin segera dirasakan, seperti menghabiskan bonus di minggu pertama atau membeli barang yang diinginkan sebelum harga diskonnya sempat dipertimbangkan. Keduanya dua sisi koin yang sama: masa kini selalu didahulukan.
 
-### Penimbang yang jarumnya berubah sendiri
+### Diskonto kuasi-hiperbolik
 
 Dari mana bentuk penimbang yang aneh ini? David Laibson (1997) memberi kerangka matematis yang sampai sekarang jadi standar. Ia menyebutnya diskonto kuasi-hiperbolik, yang dalam bentuk paling sederhana memakai dua angka yang biasa ditulis beta dan delta. Angka delta menangani kesabaran jangka panjang, sedangkan angka beta menangani "diskon tambahan" yang diterapkan hanya pada semua hal yang bukan hari ini. Dalam contoh yang ia pakai, beta sekitar 0,6 sementara delta sekitar 0,99. Dari minggu depan ke minggu depannya lagi, penilaian turun hanya 1%. Tapi dari "hari ini" ke "minggu depan", penilaian langsung jatuh sekitar 40%. Begitulah cara masa depan selalu kalah: bukan karena masa depan buruk, tapi karena setiap jarak satu minggu dari sekarang dikenakan potongan besar yang tidak pernah dikenakan pada hari ini.
 

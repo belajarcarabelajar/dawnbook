@@ -8,7 +8,7 @@ Kata "diproses" itu layak dicermati. Ia membayangkan ada semacam meja layanan ya
 
 Yang membuat cerita Danu penting bukan keunikannya, melainkan kebiasaannya. Pola ini muncul berulang di akun investor lain, sudah diberi nama resmi oleh para ekonom, dan sudah diukur.
 
-### Nama resmi untuk kilah lama
+### Istilah disposition effect
 
 Tahun 1985, Hersh Shefrin dan Meir Statman menerbitkan makala di Journal of Finance yang menamai pola ini **disposition effect**. Tendensinya dirangkum Odean (1998) dalam satu kalimat yang rapi: kecenderungan menahan yang kalah terlalu lama dan menjual yang menang terlalu cepat.
 
@@ -26,7 +26,7 @@ Hasilnya untuk satu tahun penuh: rasio PGR terhadap PLR sedikit di atas 1,5. Art
 
 Bagian yang paling merugikan ada di perpajakan. Kerugian yang direalisasikan biasanya bisa dipakai menekan tagihan pajak atas keuntungan, sehingga strategi yang optimal secara pajak justru kebalikan dari yang dilakukan investor: realisasi kerugian itu berguna, dan menahan yang merah bertahun-tahun tidak memberi apa pun selain penundaan. Odean menemukan investor dalam datanya mengabaikan konsekuensi pajak, dan tax-loss selling yang optimal dilanggar dengan rapi. Yang dipertahankan bukan nilai uang, melainkan rasa tidak pernah mengaku salah.
 
-### Semakin sering menatap, semakin dalam goresan
+### Terlalu sering memeriksa portofolio
 
 Masih ada satu lapis lagi, dan lapis ini menyeret cerita ke kebiasaan yang mungkin kamu lakukan tadi siang. Tahun 1995, Shlomo Benartzi dan Richard Thaler menerbitkan "Myopic Loss Aversion and the Equity Premium Puzzle" di Quarterly Journal of Economics. Di sana mereka menamai gabungan dua hal: loss aversion yang kamu kenal dari bab sebelumnya, dan kebiasaan mengevaluasi portofolio terlalu sering. Namanya **myopic loss aversion**, rabun jauh yang berpasangan dengan takut rugi.
 

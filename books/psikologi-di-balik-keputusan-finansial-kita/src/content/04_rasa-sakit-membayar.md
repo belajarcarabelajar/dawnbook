@@ -14,7 +14,7 @@ Contoh dari mereka cuma satu kalimat: dering argometer taksi mengurangi kenikmat
 
 Sistem dua pembukuan ini juga menjelaskan kenapa membayar di muka sering terasa menenangkan. Prelec dan Loewenstein menemukan bahwa konsumsi yang sudah dibayar dapat dinikmati seolah-olah gratis: catatan rasa sakitnya sudah "ditutup" lebih dulu, sehingga saat momen kenikmatan tiba, tidak ada tagihan yang sedang berbunyi. Mereka bahkan menguji modelnya terhadap data riil dan menemukan bahwa model dua pembukuan ini lebih cocok dengan data 60% partisipan, sementara formulasi diskon klasik hanya lebih cocok untuk 29%. Dengan kata lain, cara kita merasakan waktu "membayar" dan waktu "menikmati" ternyata bukan soal matematika semata, melainkan soal urutan dan perasaan.
 
-### Kartu sebagai bius
+### Kartu kredit memisahkan belanja dari membayar
 
 Kalau rasa sakit membayar itu nyata, maka pertanyaan berikutnya logis: apa yang bisa melemahkannya? Jawaban Prelec dan Loewenstein rapi: metode pembayaran yang menggabungkan momen belanja dengan momen membayar akan terasa "sakit" lebih jelas, sedangkan metode yang memisahkan keduanya melemahkan hubungan itu. Mereka menuliskannya langsung: metode pendanaan seperti kartu kredit cenderung melemahkan coupling, ikatan antara konsumsi dan pembayaran, sementara uang tunai menghasilkan ikatan yang ketat.
 

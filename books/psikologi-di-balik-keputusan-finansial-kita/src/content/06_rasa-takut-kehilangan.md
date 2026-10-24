@@ -16,7 +16,7 @@ Kahneman dan Tversky menunjukkan bahwa manusia sungguhan tidak menimbang seperti
 
 Kurva itu juga melengkung, artinya dua perubahan yang besarnya sama tidak selalu terasa sama. Kehilangan Rp100.000 pertama terasa lebih berat daripada Rp100.000 berikutnya ketika kerugianmu sudah membesar. Tetapi jangan sampai pesannya terbalik dimaknai. Melandai bukan berarti setara: sepanjang wilayah itu, lereng kerugian tetap lebih curam daripada lereng keuntungan.
 
-### Saat kepastian menjadi magnet
+### Efek kepastian
 
 Temuan kedua dari makala 1979 itu diberi nama **certainty effect**, efek kepastian. Intinya satu kalimat: manusia memberi bobot terlalu kecil pada hasil yang kejadiannya hanya mungkin, dibandingkan pada hasil yang diperoleh dengan pasti. Peluang 90 persen terasa lebih kecil dari sembilan puluh persen nilai yang seharusnya, sementara kepastian 100 persen terasa jauh lebih berharga daripada nilai sebenarnya.
 
@@ -24,7 +24,7 @@ Efek kepastian mendorong dua kebiasaan yang tampak bertolak belakang padahal ber
 
 Ketika hasilnya kerugian, magnet yang sama menarik ke arah sebaliknya.
 
-### Cermin di sekitar nol
+### Efek refleksi
 
 Lakukan satu trik sederhana: balikkan tanda semua pilihanmu. Untung jadi rugi, rugi jadi untung. Kahneman dan Tversky menyebut gejala ini **reflection effect**, dan menemukan polanya dengan konsisten: preferensi yang terbentuk di dunia keuntungan terbalik urutannya ketika dipantulkan ke dunia kerugian. Penghindaran risiko di wilayah untung selalu berpasangan dengan pencarian risiko di wilayah rugi.
 
@@ -32,7 +32,7 @@ Contohnya persis seperti cermin. Di soal untung tadi, kamu memilih kepastian Rp8
 
 Refleksi ini menjelaskan perilaku harian yang dulu terasa janggal. Orang yang aman-aman memilih deposito berbunga kecil adalah orang yang sama yang enggan menjual barang bekas di bawah harga beli, sekalipun barang itu menumpuk dan tak pernah dipakai, karena menahannya terasa seperti masih menyimpan peluang lolos dari kerugian. Kita berhati-hati ketika menghadapi untung, lalu berani mengambil risiko ketika menghadapi rugi. Bukan karakter yang berubah, melainkan lembah tempat kita berdiri.
 
-### Angka di balik kemiringan
+### Koefisien loss aversion
 
 Seberapa curam lereng kerugian itu? Tahun 1992, Tversky dan Kahneman menerbitkan "Advances in Prospect Theory" di Journal of Risk and Uncertainty, versi teori yang lebih matang dan siap diukur. Di sana mereka mengestimasi parameter yang menangkap ketimpangan ini, yang mereka lambangkan dengan lambda: **koefisien loss aversion**. Estimasi Tversky dan Kahneman (1992) menempatkan nilainya di angka 2,25.
 
@@ -40,7 +40,7 @@ Artinya sederhana: kerugian harus diganjar keuntungan kira-kira dua kali lipat b
 
 Di sini perlu kejujuran ilmiah. Riset modern yang mengulang pengukuran dan merangkum banyak studi cenderung menemukan angka yang lebih rendah, sekitar 1,5. Mungkin kita tidak sepeka dua kali lipat yang dulu dihitung, mungkin hanya sepeka satu setengah kali. Tetapi perbedaan besarnya tidak menyentuh arah kesimpulannya. Lereng kerugian selalu lebih curam, dan kerugian selalu terasa lebih berat daripada keuntungan yang setara.
 
-### Berdamai dengan timbangan yang miring
+### Langkah menghadapi rasa takut rugi
 
 Mengetahui bahwa kepalamu memakai timbangan yang miring bukan kabar buruk, melainkan peralatan. Pertama, kenali momen condongnya. Setiap kali kata "rugi" muncul di meja keputusan, anggap itu alarm untuk memperlambat diri: rasa panikmu lebih keras dari yang seharusnya, jadi jangan biarkan volumenya menentukan keputusanmu. Kedua, awasi dua sisi magnet kepastian sekaligus. Saat menang, kamu cenderung lari dari risiko yang sebenarnya layak diambil; saat kalah, kamu tergoda menggandakan taruhan hanya agar tidak perlu mengakui rugi. Keduanya lahir dari akar yang sama, jadi keduanya layak dijaga dengan curiga yang sama. Ketiga, ubah satuan pengukuranmu. Sakit kerugian paling keras ketika kamu menatap satu transaksi dalam isolasi; taruh keputusan itu dalam gambaran kekayaan total hidupmu, dan pertanyaannya berubah dari "apakah aku rugi di sini" menjadi "apakah langkah ini baik untuk keseluruhan hidup keuanganku".
 

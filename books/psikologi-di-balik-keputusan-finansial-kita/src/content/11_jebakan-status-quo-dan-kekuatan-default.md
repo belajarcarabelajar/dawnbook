@@ -10,7 +10,7 @@ Dalam serangkaian eksperimen, Samuelson dan Zeckhauser menemukan pola yang konsi
 
 Kenapa begitu? Bias status quo dirawat oleh beberapa rasa sekaligus. Ada rasa takut rugi yang kita bahas di bab enam: kelemahan pilihan baru lebih terasa daripada kelemahan pilihan lama. Ada biaya mental: membandingkan ulang semua opsi itu melelahkan, dan kita tahu dari bab pertama bahwa otak hemat energi. Dan ada rasa bersalah: kalau kamu pindah dan hasilnya buruk, kamu menyalahkan dirimu; kalau kamu bertahan dan hasilnya buruk, keadaan yang menyalahkan dirimu. Bertahan itu terasa lebih aman secara emosional, bahkan ketika secara angka ia lebih mahal.
 
-### Pintu masuk yang menentukan isinya
+### Pendaftaran otomatis rekening 401(k)
 
 Kekuatan status quo ini punya konsekuensi yang jauh lebih besar daripada rekening bank yang malas dipindah, karena orang yang merancang sistem tahu tentang kekuatan itu. Brigitte Madrian dan Dennis Shea (2001) menguji hal ini pada satu perusahaan besar yang mengubah aturan 401(k), rekening pensiun di Amerika, dari sistem di mana karyawan harus mendaftar sendiri menjadi sistem di mana semua karyawan baru otomatis didaftarkan dan harus menebus diri sendiri kalau tidak mau.
 
@@ -32,7 +32,7 @@ xychart
 
 Ini pikiran yang perlu kamu bawa pulang: default itu netral secara teknik, tapi tidak netral secara akibat. Merancang default adalah memilih untuk jutaan orang tanpa mereka sadari, dan karena itu kejujuran tentang siapa yang menaruh default di sana jadi penting. Untungnya, mekanisme yang sama bisa dipakai untuk kebaikanmu sendiri, dan ada buktinya.
 
-### Kekuatan jebakan yang dipinjam Save More Tomorrow
+### Program Save More Tomorrow
 
 Richard Thaler dan Shlomo Benartzi (2004) mendesain program yang bekerja bersama psikologi manusia, bukan melawannya, dengan nama Save More Tomorrow. Ide kuncinya tiga lapis. Pertama, karyawan diminta berkomitmen sekarang untuk menyisihkan sebagian kenaikan gaji di masa depan, jadi dirimu hari ini tidak pernah merasa kehilangan apa-apa (bias masa kini di bab lima tertangani). Kedua, kenaikan tabungan otomatis berjalan seiring kenaikan gaji, jadi uang yang "hilang" ke tabungan tidak pernah sempat terasa hadir di rekening (mental accounting di bab tiga tertangani). Ketiga, karyawan bisa keluar kapan saja, jadi ada rasa kendali.
 
