@@ -1,6 +1,6 @@
 ## Peran Penulis Skenario dan Strategi OST dalam Ekosistem Produksi
 
-Pernahkah kamu bertanya-tanya mengapa sebuah drama Korea bisa membuat kamu tertawa terbahak-bahak di satu detik, lalu menangis tersedu-sedu di detik berikutnya? Rahasianya ada pada kerja presisi sistem di balik layar, bukan hanya pada penampilan menawan dari para aktornya.
+Pernahkah kamu bertanya-tanya mengapa drama Korea bisa membuatmu tertawa terbahak-bahak di satu detik, lalu menangis tersedu-sedu di detik berikutnya? Rahasianya ada pada kerja presisi sistem di balik layar, bukan hanya pada penampilan menawan dari para aktornya.
 
 Dalam bagian ini, kita akan membedah dua pilar utama yang membentuk identitas K-Drama: kekuasaan penulis skenario (*star writer*) yang dominan dan strategi OST (*Original Soundtrack*) yang dirancang secara psikologis untuk mengikat emosi penonton.
 

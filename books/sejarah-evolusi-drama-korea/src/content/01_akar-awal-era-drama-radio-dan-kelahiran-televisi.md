@@ -1,6 +1,6 @@
 ## Akar Awal Era Drama Radio dan Kelahiran Televisi
 
-Sebelum jutaan orang di seluruh dunia terpaku pada layar *smartphone* untuk menyaksikan episode terbaru drama Korea, fondasi industri hiburan Korea Selatan dibangun di atas frekuensi suara dan kekuatan imajinasi. Jauh sebelum efek visual CGI yang canggih hadir, Korea telah memiliki tradisi bercerita yang kuat melalui media audio.
+Hari ini jutaan orang di seluruh dunia terpaku pada layar *smartphone* untuk menyaksikan episode terbaru drama Korea. Namun, fondasi industri hiburan Korea Selatan dibangun lebih dulu di atas frekuensi suara dan kekuatan imajinasi. Jauh sebelum efek visual CGI yang canggih hadir, Korea telah memiliki tradisi bercerita yang kuat melalui media audio.
 
 Bagian ini akan membawa kamu menelusuri perkembangan drama audio dari tahun 1920-an hingga siaran televisi pertama di Seoul pada akhir 1950-an.
 
