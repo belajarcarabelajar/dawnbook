@@ -111,4 +111,4 @@ Dalam pengaturan korporat dan organisasi:
 
 > **Catatan Penting**: Administrasi asesmen kepribadian harus dilakukan oleh profesional tersertifikasi. Interpretasi yang valid wajib menyeimbangkan skor tes dengan latar belakang demografis, rekam jejak, dan pengaruh budaya klien.
 
-Asesmen kepribadian menjembatani model teoritis dengan realitas klinis dan terapan. Instrumen ini menyajikan kerangka teknis untuk membaca manusia tidak hanya melalui asumsi, tetapi data terstandar. Pemahaman yang terukur terkait keunikan tiap individu menjadi modal berharga di ruang terapi, manajemen sumber daya manusia, pendidikan, hingga proses peradilan hukum.
+Asesmen kepribadian menjembatani model teoritis dengan realitas klinis dan terapan. Instrumen ini menyajikan kerangka teknis untuk membaca manusia tidak hanya melalui asumsi, tetapi data terstandar. Pemahaman yang terukur terkait keunikan tiap individu berguna di ruang terapi, manajemen sumber daya manusia, pendidikan, hingga proses peradilan hukum.

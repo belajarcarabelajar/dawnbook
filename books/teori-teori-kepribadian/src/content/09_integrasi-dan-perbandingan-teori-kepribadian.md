@@ -16,11 +16,11 @@ Pendekatan Trait (Allport, Cattell, Eysenck, hingga *Big Five*) memetakan sifat-
 
 Menjawab titik buta teori trait, Pendekatan Kognitif (Kelly, Mischel) memperlihatkan bagaimana cara menginterpretasikan dunia ikut membentuk diri kita. Individu beroperasi sebagai agen aktif yang terus mengolah informasi. Ini memperjelas jeda antara apa yang terjadi di dunia nyata dan bagaimana kita meresponsnya. Kekurangannya, aspek gejolak emosi maupun dorongan irasional sering dinomorduakan oleh proses analisis pikiran.
 
-Terakhir, Pendekatan Biologis dan Evolusioner menggali genetik, struktur otak, hormon, dan temperamen bawaan. Sifat kepribadian ditelusuri dari seberapa jago mereka menjaga kelangsungan hidup leluhur manusia di masa purba. Pendekatan ini amat berguna untuk riset medis, namun berisiko melupakan fakta bahwa warisan genetik selalu membutuhkan stimulasi lingkungan untuk bisa terekspresi.
+Terakhir, Pendekatan Biologis dan Evolusioner menggali genetik, struktur otak, hormon, dan temperamen bawaan. Sifat kepribadian ditelusuri dari seberapa besar perannya dalam menjaga kelangsungan hidup leluhur manusia di masa purba. Pendekatan ini berguna untuk riset medis, namun berisiko melupakan fakta bahwa warisan genetik selalu membutuhkan stimulasi lingkungan untuk bisa terekspresi.
 
 ## Menyatukan Kepingan Teori
 
-Melihat celah-celah tersebut, penggabungan teori tidak bisa lagi dihindari. Kita membutuhkan kerangka yang jauh melampaui perdebatan usang *nature vs nurture*.
+Melihat celah-celah tersebut, penggabungan teori tidak bisa lagi dihindari. Kita membutuhkan kerangka yang melampaui perdebatan *nature vs nurture*.
 
 Salah satu rujukan yang luas adalah Model Bio-Psiko-Sosial. Kepribadian dipahami lewat interaksi unsur biologis (genetik, fungsi otak), psikologis (pikiran, emosi, memori), dan sosial (norma masyarakat, budaya, teman). Ketiga elemen ini selalu bersinggungan kapan pun seseorang bertindak.
 
@@ -37,6 +37,6 @@ Teori terbaik adalah landasan yang paling tepat untuk membedah masalah spesifik:
 - Metode Behavioristik memberi solusi konkret dalam modifikasi kebiasaan, seperti meredam respons fobia atau menyusun insentif manajemen.
 - Teori Trait jadi pegangan industri dalam menyeleksi kandidat kerja, serta memprediksi konsistensi performa.
 - Teori Kognitif menyokong terapi yang mendobrak pola pikir merusak diri, terutama pada penanganan depresi klinis atau kecemasan.
-- Perspektif Biologis sangat dibutuhkan dunia psikiatri guna menakar intervensi obat untuk menyeimbangkan kimiawi otak.
+- Perspektif Biologis dibutuhkan dunia psikiatri guna menakar intervensi obat untuk menyeimbangkan kimiawi otak.
 
 Menggabungkan berbagai wawasan ini adalah bentuk pengakuan bahwa perilaku kita memiliki akar yang majemuk. Memahaminya dari seluruh sudut menjadi langkah paling realistis untuk menyelesaikan kerumitan psikologis sehari-hari.

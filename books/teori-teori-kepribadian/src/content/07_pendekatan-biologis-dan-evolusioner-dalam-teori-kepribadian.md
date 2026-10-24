@@ -4,13 +4,13 @@ Pendekatan biologis dan evolusioner melihat kepribadian dari sudut pandang genet
 
 ### Pengaruh Genetika terhadap Kepribadian
 
-Genetika memiliki pengaruh langsung terhadap penentuan arah kepribadian. Berbagai studi membuktikan bahwa sejumlah sifat kepribadian memiliki tingkat *heritability* bawaan, yang berarti variasi tingkah laku antar individu berakar pada perbedaan cetak biru genetik mereka.
+Genetika memiliki pengaruh langsung terhadap penentuan arah kepribadian. Berbagai studi membuktikan bahwa sejumlah sifat kepribadian memiliki tingkat *heritability* bawaan, yang berarti variasi tingkah laku antar individu berakar pada perbedaan genetik mereka.
 
 **Konsep Heritability**
 *Heritability* mengukur sejauh mana variasi genetik di sebuah populasi mampu menjelaskan variasi fenotipe atau sifat yang bisa diamati. Penghitungan statistik ini berjalan murni dalam level populasi, bukan takaran individu. *Heritability* bergantung secara dinamis pada situasi lingkungan; gen dan ekologi setempat saling tumpang tindih dalam memicu sebuah perilaku.
 
 **Studi Kembar dan Adopsi**
-Peneliti umumnya menggunakan studi kembar dan adopsi untuk melacak jejak pengaruh genetik. Studi kembar membandingkan kembar monozigot yang secara genetik identik dengan kembar dizigot yang hanya berbagi sekitar $50\text{\%}$ materi genetik. Jika sepasang kembar identik menunjukkan kemiripan sifat yang sangat tinggi meskipun dibesarkan di dua rumah yang terpisah, genetik memegang kendali paling kuat.
+Peneliti umumnya menggunakan studi kembar dan adopsi untuk melacak jejak pengaruh genetik. Studi kembar membandingkan kembar monozigot yang secara genetik identik dengan kembar dizigot yang hanya berbagi sekitar $50\text{\%}$ materi genetik. Jika sepasang kembar identik menunjukkan kemiripan sifat yang tinggi meskipun dibesarkan di dua rumah yang terpisah, genetik memegang kendali paling kuat.
 
 Di sisi lain, studi adopsi membandingkan sifat seorang anak dengan orang tua biologis dan orang tua angkatnya. Dari penelitian panjang semacam ini, sifat kepribadian utama yang terhimpun dalam kelompok Big Five terbukti memiliki *heritability* di rentang moderat, yaitu sekitar $40\text{\%}$ hingga $60\text{\%}$.
 
@@ -28,7 +28,7 @@ Bersama hipokampus dan hipotalamus, amigdala menyusun sistem limbik untuk mengar
 Zat kimia otak ikut mewarnai keseharian. Sensitivitas dopamin yang berlebih merangsang tingkah impulsif dan gairah mengeksplorasi pengalaman baru. Serotonin bertugas menjaga keseimbangan suasana hati; defisit zat ini mendatangkan kemurungan dan kecemasan kronis. Norepinefrin lebih terfokus pada pengerahan energi fisik dan level agresi ketika seseorang berada di bawah ancaman.
 
 **Teori Neurobiologis Kepribadian**
-Hans Eysenck lewat teori aktivasi kortikal berpendapat bahwa individu ekstravert pada dasarnya memiliki tingkat *arousal* otak yang rendah. Mereka lantas mengompensasinya dengan berburu stimulasi di luar. Orang-orang introvert, sebaliknya, sudah membawa tingkat *arousal* yang hampir meluap, membuat mereka memilih menarik diri dari keriuhan.
+Hans Eysenck lewat teori aktivasi kortikal berpendapat bahwa individu ekstravert pada dasarnya memiliki tingkat *arousal* otak yang rendah. Mereka lantas mengompensasinya dengan berburu stimulasi di luar. Orang-orang introvert, sebaliknya, sudah membawa tingkat *arousal* yang tinggi, membuat mereka memilih menarik diri dari keriuhan.
 
 Jeffrey Gray menawarkan perspektif lain melalui *Reinforcement Sensitivity Theory* (RST). Gray membagi sirkuit otak ke dalam dua mesin. *Behavioral Activation System* (BAS) bertugas mengejar ganjaran hadiah dan memproduksi antusiasme yang identik dengan *extraversion*. Satunya lagi, *Behavioral Inhibition System* (BIS), bertindak pasif dengan terus mewaspadai potensi bahaya atau hukuman, sebuah mekanisme bertahan hidup yang mendasari munculnya *neuroticism*.
 
@@ -48,7 +48,7 @@ Cabang psikologi evolusioner meyakini bahwa keragaman perilaku manusia yang ters
 
 Dalam konteks peradaban masa lampau, profil *extraversion* memuluskan jalan seorang individu untuk memperoleh pasangan reproduktif dan membangun dominasi teritorial. Sifat *conscientiousness* meyakinkan bahwa kelompok memiliki pembuat strategi yang andal dalam menimbun pasokan pangan untuk kelangsungan hidup panjang. Di sisi lain, *agreeableness* menjauhkan kelompok dari perpecahan internal berkat mekanisme saling asuh dan sikap rela berkorban.
 
-Berpindah dari satu habitat ekstrem ke habitat lain menuntut inovasi konstan, menjadikan sifat *openness to experience* sebagai instrumen vital dalam menciptakan alat dan taktik perburuan baru. Kecemasan bawaan dari *neuroticism* tidak semata-mata menjadi beban mental; pada zaman prasejarah, manusia yang diliputi perasaan paranoid terhadap bayangan pemangsa di balik semak-semak jauh lebih berpeluang bertahan hidup dibanding mereka yang melenggang ceroboh.
+Berpindah dari satu habitat ekstrem ke habitat lain menuntut inovasi konstan, menjadikan sifat *openness to experience* penting untuk menciptakan alat dan taktik perburuan baru. Kecemasan bawaan dari *neuroticism* tidak semata-mata menjadi beban mental; pada zaman prasejarah, manusia yang diliputi perasaan paranoid terhadap bayangan pemangsa di balik semak-semak jauh lebih berpeluang bertahan hidup dibanding mereka yang melenggang ceroboh.
 
 **Frequency-Dependent Selection dan Life History Strategies**
 Sifat yang menguntungkan terkadang ditentukan oleh populasi di sekitarnya, sebuah fenomena yang dinamakan *frequency-dependent selection*. Apabila sebuah suku secara mayoritas diisi oleh anggota yang ramah dan memegang kuat rasa saling percaya, segelintir individu pemanipulasi dapat mengambil jalan pintas untuk berbuat curang dan memenangkan kompetisi memperebutkan sumber daya.

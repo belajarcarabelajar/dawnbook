@@ -36,7 +36,7 @@ Teori humanistik dari Carl Rogers menunjukkan arti penting penerimaan guru untuk
 
 Di lingkup bimbingan dan konseling, tahapan perkembangan psikososial dari Erik Erikson memandu konselor dalam mengenali tantangan spesifik usia, seperti krisis identitas versus kebingungan peran pada remaja. 
 
-Sementara itu, untuk ranah pendidikan karakter, teori belajar sosial Albert Bandura sangat relevan. Pembelajaran melalui observasi dan penanaman *self-efficacy* dilakukan dengan menyajikan figur peran yang positif serta memberikan kesempatan bagi siswa untuk merasakan pengalaman keberhasilan.
+Sementara itu, untuk ranah pendidikan karakter, teori belajar sosial Albert Bandura relevan. Pembelajaran melalui observasi dan penanaman *self-efficacy* dilakukan dengan menyajikan figur peran yang positif serta memberikan kesempatan bagi siswa untuk merasakan pengalaman keberhasilan.
 
 ## 4. Pemahaman Lintas Budaya
 
@@ -44,6 +44,6 @@ Konteks lintas budaya mengkaji pengaruh nilai-nilai masyarakat terhadap pikiran 
 
 Banyak landasan psikologi yang asalnya berakar dari tradisi pemikiran Barat. Saat melakukan penilaian perilaku atau memberikan layanan, alat ukur yang digunakan harus dikalibrasi ulang dengan nilai setempat untuk menghindari bias yang menyesatkan. Klien dari latar budaya kolektif memiliki konsep diri yang terjalin erat dengan kelompok, tidak berdiri sendiri sebagai entitas yang terpisah.
 
-Mengenali ragam ekspresi kepribadian ini akan memperbaiki kualitas komunikasi antarbangsa. Dalam bisnis internasional atau kerja sama global, perunding dari masyarakat individualis cenderung mengejar target spesifik pribadi atau perusahaannya. Di sisi lain, perunding dari kultur kolektif akan sangat memprioritaskan terpeliharanya harmoni kelompok dan hubungan jangka panjang. Memahami beda prioritas ini akan mencegah kesalahpahaman.
+Mengenali ragam ekspresi kepribadian ini akan memperbaiki kualitas komunikasi antarbangsa. Dalam bisnis internasional atau kerja sama global, perunding dari masyarakat individualis cenderung mengejar target spesifik pribadi atau perusahaannya. Di sisi lain, perunding dari kultur kolektif akan memprioritaskan terpeliharanya harmoni kelompok dan hubungan jangka panjang. Memahami beda prioritas ini akan mencegah kesalahpahaman.
 
 Penerapan gagasan dari psikologi lintas budaya menunjukkan bahwa pembentukan kognisi dan emosi bergantung pada ruang tempat seseorang hidup, sehingga teori psikologi terus dituntut untuk mampu merangkum nilai universal manusia sekaligus menghargai keberagamannya. Mengetahui hal ini membantu kita menavigasi kompleksitas relasi sosial dengan strategi yang lebih tajam.

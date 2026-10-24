@@ -25,9 +25,9 @@ Karakteristik utama dari inventori ini adalah adanya standarisasi administrasi, 
 Beberapa contoh inventori kepribadian yang sering dipakai:
 
 - **Minnesota Multiphasic Personality Inventory (MMPI)** 
-  Instrumen ini sangat umum digunakan, khususnya pada ranah klinis dan forensik. Versi MMPI-3 memiliki 335 item *true-false* untuk memetakan psikopatologi. MMPI memuat indikator *validity scales* guna mendeteksi pola kebohongan jawaban partisipan, serta *clinical scales* yang mengukur kondisi seperti depresi, histeria, skizofrenia, dan *psychopathic deviate*. Tes ini biasa diaplikasikan untuk diagnosa gangguan mental, evaluasi rekrutmen di bidang sensitif seperti penegak hukum, dan persidangan.
+  Instrumen ini umum digunakan, khususnya pada ranah klinis dan forensik. Versi MMPI-3 memiliki 335 item *true-false* untuk memetakan psikopatologi. MMPI memuat indikator *validity scales* guna mendeteksi pola kebohongan jawaban partisipan, serta *clinical scales* yang mengukur kondisi seperti depresi, histeria, skizofrenia, dan *psychopathic deviate*. Tes ini biasa diaplikasikan untuk diagnosa gangguan mental, evaluasi rekrutmen di bidang sensitif seperti penegak hukum, dan persidangan.
 - **NEO Personality Inventory-Revised (NEO PI-R)** 
-  Alat ukur ini disusun berdasarkan model *Big Five*, yang mencakup *Neuroticism*, *Extraversion*, *Openness to Experience*, *Agreeableness*, dan *Conscientiousness*. NEO PI-R memetakan kelima dimensi besar tersebut serta memecahnya menjadi 30 *facets* (sub-dimensi), di mana masing-masing sifat utama memiliki enam spesifikasi lebih rinci. Di dunia kerja, tes ini sering membantu menemukan kandidat dengan *Conscientiousness* tinggi untuk peran yang butuh ketelitian ekstrem, atau *Extraversion* tinggi untuk posisi penjualan.
+  Alat ukur ini disusun berdasarkan model *Big Five*, yang mencakup *Neuroticism*, *Extraversion*, *Openness to Experience*, *Agreeableness*, dan *Conscientiousness*. NEO PI-R memetakan kelima dimensi besar tersebut serta memecahnya menjadi 30 *facets* (sub-dimensi), di mana masing-masing sifat utama memiliki enam spesifikasi lebih rinci. Di dunia kerja, tes ini sering membantu menemukan kandidat dengan *Conscientiousness* tinggi untuk peran yang butuh ketelitian tinggi, atau *Extraversion* tinggi untuk posisi penjualan.
 
 Dari sisi kepraktisan, tes objektif menawarkan standarisasi dan objektivitas skoring yang mumpuni. Biaya operasional dan waktu pelaksanaannya lebih efisien, serta tingkat reliabilitasnya cenderung stabil. Namun, kelemahan utamanya adalah kerentanan terhadap *response bias*. Peserta tes bisa saja berusaha terlihat baik (*social desirability*) atau sebaliknya. Hasil akhir sangat bergantung pada tingkat wawasan diri (*self-insight*) serta kejujuran partisipan dalam menjawab aitem yang tersedia.
 
@@ -81,14 +81,14 @@ Konsep reliabilitas diperiksa melalui pendekatan:
 - ***Test-Retest Reliability*:** Stabilitas angka subjek dari percobaan pertama dan ulangan selanjutnya.
 - ***Parallel Forms Reliability*:** Ketepatan dua lembar tes berisi versi pertanyaan berbeda namun memiliki nilai ekuivalen.
 - ***Split-Half Reliability*:** Kemampuan dua kubu aitem di dalam tes (seperti kubu genap melawan kubu ganjil) untuk mencetak skor simetris.
-- ***Internal Consistency*:** Daya ikat antar seluruh pertanyaan di dalam tes guna menopang pilar dasar ukuran serupa. Hal ini lumrah dikonversi melalui hitungan matematis *Cronbach's Alpha* ($\alpha$).
+- ***Internal Consistency*:** Sejauh mana seluruh pertanyaan di dalam tes mengukur hal yang sama. Hal ini lumrah dikonversi melalui hitungan matematis *Cronbach's Alpha* ($\alpha$).
    $$\alpha = \frac{k}{k-1} \left(1 - \frac{\sum_{i=1}^k \sigma_{Y_i}^2}{\sigma_X^2}\right)$$
 
 Dalam persamaan di atas, $\alpha$ melambangkan koefisien konsistensi, $k$ menjadi jumlah aitem tes, $\sigma_{Y_i}^2$ memuat varians spesifik untuk pertanyaan urutan ke-$i$, dan $\sigma_X^2$ berlaku sebagai total varians akumulatif dalam tes tersebut.
 
 ### 3\. Etika dalam Penilaian Kepribadian
 
-Praktik pengukuran psikologis wajib dilandasi koridor keselamatan dan privasi individu agar alat ini tidak berubah fungsi menjadi instrumen penindasan atau diskriminasi buta.
+Praktik pengukuran psikologis wajib dilandasi koridor keselamatan dan privasi individu agar alat ini tidak berubah fungsi menjadi instrumen penindasan atau diskriminasi.
 
 Prinsip dasar yang mengikat meliputi:
 - **Persetujuan Bebas (*Informed Consent*):** Peserta tes berhak mengetahui siapa penyelenggara, tujuan asesmen, kemana arus data bermuara, dan hak mereka menolak berpartisipasi.
