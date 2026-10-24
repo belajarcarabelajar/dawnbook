@@ -101,7 +101,7 @@ Menyesuaikan diri bukan berarti kamu harus memalsukan kepribadian asli. Konsep i
 
 ## Skenario Kerja Sama Lintas Fungsi
 
-Mari kita perhatikan skenario berikut saat sebuah tim lintas fungsi (teknologi, desain, dan penjualan) merancang peluncuran produk baru:
+Mari kita lihat skenario berikut saat sebuah tim lintas fungsi (teknologi, desain, dan penjualan) merancang peluncuran produk baru:
 
 - **Tim Sales (Tipe D):** "Kita harus meluncurkan produk ini minggu depan agar tidak kehilangan momentum pasar dari kompetitor."
 - **Tim Design (Tipe I):** "Bagaimana kalau kita adakan acara peluncuran yang interaktif dengan mengundang beberapa kreator konten?"
