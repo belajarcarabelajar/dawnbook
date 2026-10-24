@@ -1,12 +1,12 @@
 Ketika proyek Rust berkembang dari sekadar "Hello World" menjadi aplikasi berskala produksi, tantangan terbesarnya bukan lagi memahami sintaksis, melainkan merancang **organisasi** kode. Tanpa struktur yang terencana, direktori `src` akan cepat berubah menjadi belantara kode yang membingungkan.
 
-Para praktisi Rust (Rustaceans) menggunakan pola standar dan praktik terbaik tertentu untuk menjaga basis kode tetap bersih, modular, dan mudah dipelihara.
+Para praktisi Rust (Rustaceans) menggunakan pola standar dan praktik terbaik tertentu untuk menjaga basis kode bersih, modular, dan mudah dipelihara.
 
 ## Filosofi Organisasi ala Perpustakaan Kota
 
 Bayangkan kamu sedang mengelola sebuah perpustakaan.
 
-Pada proyek berskala kecil, kamu mungkin hanya membutuhkan satu rak buku. Semua buku ditumpuk di rak tersebut dan tetap mudah dicari (seperti menulis seluruh kode di `main.rs`).
+Pada proyek berskala kecil, kamu mungkin hanya membutuhkan satu rak buku. Semua buku ditumpuk di rak tersebut dan masih mudah dicari (seperti menulis seluruh kode di `main.rs`).
 
 Ketika koleksi buku bertambah banyak, kamu mulai mengelompokkannya ke dalam beberapa rak berdasarkan kategori fiksi, sejarah, atau sains. Ini setara dengan memisahkan kode ke beberapa file `.rs` yang berbeda.
 
@@ -90,7 +90,7 @@ use crate::shipping::DHLProvider;
 
 ## 5. Menangani Unit Test dan Uji Integrasi
 
-Rust memisahkan pengujian menjadi dua kategori utama agar kode tetap rapi dan terorganisasi:
+Rust memisahkan pengujian menjadi dua kategori utama agar kode rapi dan terorganisasi:
 
 1. **Unit Tests**: Letakkan langsung di file yang sama dengan kode yang diuji. Tulis di bagian paling bawah di dalam modul `mod tests` dengan penanda atribut `#[cfg(test)]`. Hal ini dilakukan karena unit test di Rust diizinkan mengakses fungsi internal yang bersifat privat, sehingga kamu bisa menguji logika internal dengan mudah tanpa harus mengeksposnya secara publik.
 2. **Integration Tests**: Tempatkan di folder khusus bernama `tests/` pada root proyek (sejajar dengan folder `src`). Folder ini akan diperlakukan sebagai crate terpisah oleh Cargo, sehingga hanya bisa menguji API publik dari library milikmu.
