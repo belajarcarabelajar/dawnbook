@@ -18,11 +18,11 @@ Misalnya, coba ingat momen saat kamu terdiam sebentar ketika membaca teks yang c
 
 ## Kenapa Konsep Ini Sangat Berguna?
 
-Mengetahui cara kerjamu sendiri saat menyerap informasi punya banyak keuntungan taktis. Konsep ini sangat aplikatif dan bisa langsung kamu jadikan kebiasaan sehari-hari.
+Mengetahui cara kerjamu sendiri saat menyerap informasi punya banyak keuntungan taktis. Konsep ini aplikatif dan bisa langsung kamu jadikan kebiasaan sehari-hari.
 
 1. **Kamu jadi lebih sadar batasan diri.** Metakognisi membuatmu tahu betul letak kelemahan dan kekuatanmu. Kamu bisa mengukur sejauh mana pemahamanmu terhadap sebuah topik tanpa harus menunggu hasil ujian keluar.
 2. **Tidak terus-terusan bergantung pada orang lain.** Karena kamu sudah tahu cara merencanakan dan mengevaluasi proses belajarmu sendiri, kamu bisa belajar mandiri tanpa harus selalu disuapi materi dari awal sampai akhir.
-3. **Pola pikir bertumbuh lebih matang.** Kemampuan untuk menelaah isi pikiran sendiri pelan-pelan akan membentuk kebiasaan berpikir yang lebih kritis dan terstruktur. Hal ini sangat berguna saat kamu dihadapkan pada masalah rumit yang butuh solusi cepat.
+3. **Pola pikir bertumbuh lebih matang.** Kemampuan untuk menelaah isi pikiran sendiri pelan-pelan akan membentuk kebiasaan berpikir yang lebih kritis dan terstruktur. Hal ini berguna saat kamu dihadapkan pada masalah rumit yang butuh solusi cepat.
 4. **Strategi belajarmu terus berkembang.** Kalau sebuah cara belajar ternyata terasa macet atau kurang efektif, metakognisi akan otomatis mendorongmu mencari jalan lain. Kamu tidak akan membuang waktu memaksakan strategi yang sama terus-menerus.
 
 ## Efek Samping Positif
@@ -33,7 +33,7 @@ Saat kamu sudah mulai terbiasa memantau cara kerja kognisimu sendiri, perlahan-l
 - Ingatan jangka panjang jadi lebih kuat karena kamu memproses informasi dengan cara yang memang paling cocok buat kapasitas memori otakmu.
 - Kamu jadi lebih luwes saat menghadapi jalan buntu dalam memecahkan soal atau masalah.
 - Secara umum, pemahaman materi dan performa akademik akan membaik seiring berjalannya waktu.
-- Rasa cemas atau stres sebelum tes biasanya menurun drastis karena kamu punya kendali penuh atas persiapan yang sudah dilakukan.
+- Rasa cemas atau stres sebelum tes biasanya menurun karena kamu memegang kendali atas persiapan yang sudah dilakukan.
 - Membantu melatih kecerdasan cair (*fluid intelligence*), yaitu kemampuan alami untuk memusatkan fokus dan mengolah hal baru.
 
 Pada dasarnya, metakognisi tidak lantas mengubahmu menjadi jenius dalam semalam. Praktik ini lebih ditujukan untuk membantumu memaksimalkan kapasitas otak dan potensi belajar yang sebenarnya sudah ada sejak awal.
