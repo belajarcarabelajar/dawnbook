@@ -1,6 +1,6 @@
 ## Referensi
 
-Berikut adalah daftar literatur ilmiah dan buku referensi yang menjadi landasan teoretis buku ini dalam memahami heuristik dan bias kognitif. Landasan yang sama dipakai untuk membahas proses pengambilan keputusan manusia:
+Berikut adalah daftar literatur ilmiah dan buku referensi yang menjadi landasan teoretis dalam memahami heuristik dan bias kognitif. Sumber yang sama menopang pembahasan proses pengambilan keputusan manusia:
 
 * Arkes, H. R., & Blumer, C. (1985). The psychology of sunk cost. *Organizational Behavior and Human Decision Processes*, 35(1), 124–140. [https://doi.org/10.1016/0749-5978(85)90049-4](https://doi.org/10.1016/0749-5978(85)90049-4)
 * Kahneman, D. (2011). *Thinking, fast and slow*. Farrar, Straus and Giroux.

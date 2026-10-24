@@ -1,6 +1,6 @@
 ## Bias Kelompok (In-group Bias)
 
-Pernahkah kamu merasa lebih akrab dengan seseorang hanya karena mereka mendukung tim sepak bola yang sama atau lulus dari universitas yang sama? Atau bahkan sekadar karena menggunakan merek ponsel yang sama dengan kamu? Perasaan instan bahwa "orang ini adalah bagian dari saya" adalah inti dari **Bias Kelompok** atau *In-group Bias*.
+Pernahkah kamu merasa lebih akrab dengan seseorang hanya karena ia mendukung tim sepak bola yang sama atau lulus dari universitas yang sama? Atau bahkan sekadar karena kalian memakai merek ponsel yang sama? Perasaan instan bahwa "orang ini adalah bagian dari saya" adalah inti dari **Bias Kelompok** atau *In-group Bias*.
 
 Secara sederhana, **Bias Kelompok** adalah kecenderungan psikologis manusia untuk memberikan perlakuan istimewa, penilaian lebih positif, dan dukungan lebih besar kepada anggota kelompoknya sendiri (*in-group*) dibandingkan dengan orang-orang di luar kelompoknya (*out-group*).
 
