@@ -2,11 +2,15 @@
 
 Ainsworth, M. D. S., Blehar, M. C., Waters, E., & Wall, S. (1978). *Patterns of attachment: A psychological study of the strange situation*. Lawrence Erlbaum Associates. [https://www.routledge.com/Patterns-of-Attachment-A-Psychological-Study-of-the-Strange-Situation/Ainsworth-Blehar-Waters-Wall/p/book/9781848726819](https://www.routledge.com/Patterns-of-Attachment-A-Psychological-Study-of-the-Strange-Situation/Ainsworth-Blehar-Waters-Wall/p/book/9781848726819)
 
+Ainsworth, M. D. S., & Bowlby, J. (1991). An ethological approach to personality development. *American Psychologist, 46*(4), 333-341. [https://doi.org/10.1037/0003-066X.46.4.333](https://doi.org/10.1037/0003-066X.46.4.333)
+
 Bartholomew, K., & Horowitz, L. M. (1991). Attachment styles among young adults: A test of a four-category model. *Journal of Personality and Social Psychology, 61*(2), 226-244. [https://doi.org/10.1037/0022-3514.61.2.226](https://doi.org/10.1037/0022-3514.61.2.226)
 
 Bowlby, J. (1982). *Attachment and loss: Vol. 1. Attachment* (2nd ed.). Basic Books. (Original work published 1969). [https://books.google.com/books?id=01b44Z-M-3AC](https://books.google.com/books?id=01b44Z-M-3AC)
 
 Brennan, K. A., Clark, C. L., & Shaver, P. R. (1998). Self-report measurement of adult romantic attachment: An integrative overview. In J. A. Simpson & W. S. Rholes (Eds.), *Attachment theory and close relationships* (pp. 46-76). Guilford Press. [https://books.google.com/books?id=f0bHAAAAIAAJ](https://books.google.com/books?id=f0bHAAAAIAAJ)
+
+Brown, B. (2010). *The gifts of imperfection: Let go of who you think you're supposed to be and embrace who you are*. Hazelden. [https://brenebrown.com/book/the-gifts-of-imperfection/](https://brenebrown.com/book/the-gifts-of-imperfection/)
 
 Cassidy, J., & Shaver, P. R. (Eds.). (2016). *Handbook of attachment: Theory, research, and clinical applications* (3rd ed.). Guilford Press. [https://www.guilford.com/books/Handbook-of-Attachment/Cassidy-Shaver/9781462525294](https://www.guilford.com/books/Handbook-of-Attachment/Cassidy-Shaver/9781462525294)
 

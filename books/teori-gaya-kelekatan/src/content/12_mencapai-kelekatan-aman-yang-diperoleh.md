@@ -97,7 +97,7 @@ Berikut adalah beberapa pilar penting dalam membangun koneksi yang dalam:
 3. **Konsistensi dan Kehadiran:** Hubungan yang kuat dibangun melalui momen-momen kecil yang konsisten terkumpul. Kehadiran nyata saat dibutuhkan lebih berharga daripada hadiah materi yang mahal.
 4. **Empati di Atas Simpati:** Simpati adalah merasa kasihan pada seseorang, sedangkan empati adalah usaha untuk ikut merasakan apa yang sedang mereka alami.
 
-"Koneksi adalah energi yang tercipta di antara orang-orang ketika mereka merasa dilihat, didengar, dan dihargai," tulis Brené Brown.
+"Koneksi adalah energi yang tercipta di antara orang-orang ketika mereka merasa dilihat, didengar, dan dihargai," tulis Brené Brown dalam *The Gifts of Imperfection* (2010).
 
 ### Analogi Persamaan dan Contoh Tindakan
 

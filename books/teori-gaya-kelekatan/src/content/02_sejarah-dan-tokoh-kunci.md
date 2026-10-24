@@ -90,9 +90,7 @@ Sebelum penelitian ini dipublikasikan, dunia pengasuhan meyakini bahwa terlalu s
 
 ## Pola Basis Aman dalam Keseharian
 
-> *"What cannot be spoken to the mother cannot be said to the self."*
->
-> \- John Bowlby
+Dalam tulisan bersamanya dengan Mary Ainsworth (1991), Bowlby berpendapat bahwa apa yang tidak bisa dikomunikasikan kepada ibu (atau pengasuh utama) juga tidak bisa dikomunikasikan kepada diri sendiri.
 
 Jika kita mengamati interaksi anak dan orang tua di sekitar kita, pola *base camp* ini sering kali terlihat jelas dalam keseharian. Kita bisa melihat bagaimana seorang balita berlari menjauh untuk mengambil mainan, lalu sesekali menoleh ke belakang untuk memastikan orang tuanya masih ada di sana.
 
