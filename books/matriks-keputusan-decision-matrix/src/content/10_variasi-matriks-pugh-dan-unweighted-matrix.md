@@ -1,6 +1,6 @@
 ## Variasi Matriks Pugh dan Unweighted Matrix
 
-Setelah memahami anatomi dasar dan cara menghitung bobot dalam matriks keputusan, mungkin kamu bertanya: *"Apakah aku selalu harus menghitung bobot yang rumit untuk setiap keputusan?"* Jawabannya adalah tidak.
+Setelah memahami anatomi dasar dan cara menghitung bobot dalam matriks keputusan, mungkin kamu bertanya: apakah setiap keputusan butuh bobot yang rumit? Jawabannya adalah tidak.
 
 Dalam dunia pengambilan keputusan profesional, kita mengenal berbagai variasi matriks yang disesuaikan dengan tingkat kompleksitas masalah dan ketersediaan data. Dua variasi yang paling sering digunakan selain Matriks Keputusan Berbobot (*weighted decision matrix*) adalah **unweighted matrix** dan **Matriks Pugh**.
 

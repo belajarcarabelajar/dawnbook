@@ -1,6 +1,6 @@
 ## Matriks Keputusan (Decision Matrix)
 
-Dalam dunia profesional maupun pribadi, kita sering terjebak dalam **Paradox of Choice**, situasi ketika semakin banyak pilihan yang tersedia, semakin sulit bagi kita untuk memutuskan dengan bijak. Di sinilah **Matriks Keputusan (Decision Matrix)** hadir sebagai kompas logis yang mengubah keraguan menjadi kepastian numerik. Menggunakan matriks keputusan membantu memetakan kriteria penilaian secara sistematis dan menghasilkan skor berbobot yang andal untuk setiap opsi.
+Dalam dunia profesional maupun pribadi, kita sering terjebak dalam **Paradox of Choice**: makin banyak pilihan, makin sulit memutuskan dengan bijak. Di sinilah **Matriks Keputusan (Decision Matrix)** hadir sebagai kompas logis yang mengubah keraguan menjadi kepastian numerik. Menggunakan matriks keputusan membantu memetakan kriteria penilaian secara sistematis dan menghasilkan skor berbobot yang andal untuk setiap opsi.
 
 ## Memahami Matriks Keputusan
 

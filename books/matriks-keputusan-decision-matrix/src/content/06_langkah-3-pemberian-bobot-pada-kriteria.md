@@ -1,6 +1,6 @@
 ## Pemberian Bobot pada Kriteria
 
-Setelah kamu berhasil mengidentifikasi berbagai pilihan (alternatif) dan menentukan kriteria apa saja yang akan dinilai, kini saatnya masuk ke tahap yang paling menentukan objektivitas analisismu: **Pemberian Bobot (Weighting)**.
+Alternatif dan kriteria sudah kamu tetapkan, kini masuklah ke tahap yang paling menentukan objektivitas analisismu: **Pemberian Bobot (Weighting)**.
 
 Dalam pembuatan **matriks keputusan (decision matrix)**, tidak semua **kriteria penilaian** diciptakan sama. Jika kamu sedang memilih mobil, mungkin aspek keamanan jauh lebih penting bagimu daripada warna eksterior. Pemberian bobot adalah cara kita memberikan nilai numerik pada tingkat kepentingan tersebut agar keputusan akhir menghasilkan **skor berbobot** yang mencerminkan prioritasmu yang sebenarnya.
 

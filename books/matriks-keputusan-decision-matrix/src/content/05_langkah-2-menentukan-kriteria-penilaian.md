@@ -1,6 +1,6 @@
 ## Penentuan Kriteria Penilaian
 
-Setelah kamu berhasil mengidentifikasi semua alternatif pilihan pada langkah sebelumnya, kini saatnya menentukan alat ukur untuk menilai pilihan-pilihan tersebut. Dalam penyusunan **matriks keputusan** atau **decision matrix**, alat ukur ini dikenal dengan istilah **kriteria penilaian**.
+Setelah semua alternatif pilihan teridentifikasi pada langkah sebelumnya, kini saatnya menentukan alat ukur untuk menilai pilihan-pilihan tersebut. Dalam penyusunan **matriks keputusan** atau **decision matrix**, alat ukur ini dikenal dengan istilah **kriteria penilaian**.
 
 Menetapkan kriteria penilaian adalah langkah yang sangat menentukan. Jika kriteria yang kamu pilih keliru atau tumpang tindih, hasil perhitungan pada matriks keputusanmu akan menjadi bias dan tidak akurat. Mari kita pelajari cara mengidentifikasi faktor-faktor kunci agar keputusanmu tetap objektif serta terukur.
 
