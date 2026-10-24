@@ -1,6 +1,6 @@
 ## Prinsip Optimalisasi Penggunaan Alat
 
-Setelah kamu melewati tahap pembersihan (Digital Declutter), kamu mungkin mendapati diri kamu hanya memiliki segelintir aplikasi dan perangkat yang tersisa. Namun, tantangannya tidak berhenti di sana. Memiliki sedikit alat tidak otomatis membuat kamu menjadi produktif atau tenang.
+Setelah melewati tahap pembersihan (Digital Declutter), kamu mungkin mendapati dirimu hanya memiliki segelintir aplikasi dan perangkat yang tersisa. Namun, tantangannya tidak berhenti di sana. Memiliki sedikit alat tidak otomatis membuat kamu menjadi produktif atau tenang.
 
 **Optimalisasi penggunaan alat** adalah seni memastikan bahwa setiap teknologi yang "lolos seleksi" bekerja secara maksimal untuk melayani nilai-nilai inti kamu. Jika *Digital Declutter* diibaratkan membuang sampah, *Optimalisasi* adalah proses mengasah pedang agar setajam mungkin.
 

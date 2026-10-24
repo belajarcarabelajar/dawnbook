@@ -1,6 +1,6 @@
 ## Keberlanjutan Gaya Hidup Minimalis lewat Sistem Audit dan Guard Rail
 
-Setelah melewati proses *digital declutter* dan menata ulang perangkat kamu, tantangan sebenarnya dimulai: **bagaimana menjaganya agar tetap bertahan selamanya?**
+Setelah melewati proses *digital declutter* dan menata ulang perangkat kamu, tantangan sebenarnya dimulai: **bagaimana menjaganya agar bertahan selamanya?**
 
 Banyak orang terjebak dalam siklus "diet digital". Mereka membuang banyak aplikasi dan merasa bebas selama dua minggu. Sayangnya, perlahan-lahan desain algoritma dan tekanan lingkungan sekitar menarik mereka kembali ke kebiasaan lama. Keberlanjutan gaya hidup ini butuh sebuah **sistem** yang bekerja secara otomatis untuk melindungi fokusmu, tidak bisa hanya bergantung pada kemauan (*willpower*).
 
