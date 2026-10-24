@@ -1,6 +1,6 @@
 ## Festival yang Sayang Dilewatkan
 
-Pagi tanggal 9 musim gugur, setiap warga desa berkumpul di Rose Square untuk melempar satu bahan makanan ke dalam sebuah panci raksasa. Itulah Harvest Festival, yang dimulai pukul 10 pagi. Tidak ada piala yang diperebutkan, tidak ada hadiah yang dibawa pulang.
+Pagi tanggal 9 musim gugur, setiap warga desa berkumpul di Rose Square untuk melempar satu bahan makanan ke dalam sebuah panci besar. Itulah Harvest Festival, yang dimulai pukul 10 pagi. Tidak ada piala yang diperebutkan, tidak ada hadiah yang dibawa pulang.
 
 Sementara itu, ladangmu belum disiram, ayam belum diberi makan, dan sebongkah batu masih menunggu dipecah. Hitungannya tampak sederhana: festival tidak menghasilkan apa-apa, ladang menghasilkan uang. Mungkin kamu pernah memilih tetap di rumah dengan alasan itu, di dalam gim maupun di luar layar.
 

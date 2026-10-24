@@ -20,7 +20,7 @@ Satu pesan dari buku strategi itu pantas dijadikan pegangan, dan isinya berupa p
 
 Biaya rutin itu bisa ditekan. Rumput yang kamu tanam di ladang tumbuh tanpa disiram dari musim semi sampai gugur dan tidak perlu ditanam ulang, sehingga pakan bisa dipanen sendiri. Satu angka lagi patut diingat sebelum membeli dengan tergesa: ayam seharga 1.500 G hanya laku 500 G kalau kamu menjualnya kembali ke Poultry Farm. Masuk itu mudah; keluar sering kali berarti rugi.
 
-Dalam [siaran pers SP 167](https://ojk.go.id/id/berita-dan-kegiatan/siaran-pers/Pages/Gelar-LIKE-IT-di-Provinsi-Banten.aspx) (September 2026), OJK mengajak masyarakat membedakan kebutuhan dari keinginan, lalu mulai berinvestasi sedini mungkin. Di kandang, urutan itu terasa sangat nyata. Pakan untuk ayam yang sudah ada adalah kebutuhan. Sapi kedua, selama pakan sapi pertama belum terjamin, bisa jadi hanya keinginan.
+Dalam [siaran pers SP 167](https://ojk.go.id/id/berita-dan-kegiatan/siaran-pers/Pages/Gelar-LIKE-IT-di-Provinsi-Banten.aspx) (September 2026), OJK mengajak masyarakat membedakan kebutuhan dari keinginan, lalu mulai berinvestasi sedini mungkin. Di kandang, urutan itu mudah dilihat. Pakan untuk ayam yang sudah ada adalah kebutuhan. Sapi kedua, selama pakan sapi pertama belum terjamin, bisa jadi hanya keinginan.
 
 ### Telur Setiap Hari, Wol Seminggu Sekali
 

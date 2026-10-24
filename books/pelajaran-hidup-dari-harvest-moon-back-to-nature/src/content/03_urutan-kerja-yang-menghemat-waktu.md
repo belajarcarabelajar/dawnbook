@@ -1,6 +1,6 @@
 ## Urutan Kerja yang Menghemat Waktu
 
-Di ladang warisan itu, waktu bisa menjadi musuh terbesarmu sekaligus sekutu terbaikmu, tergantung cara kamu memakainya sejak pagi.
+Di ladang warisan itu, cara kamu menyusun pekerjaan sejak pagi menentukan berapa banyak waktu yang habis di jalan dan berapa banyak yang tersisa.
 
 Di HM BTN, jam berdetak selama si petani berada di luar ruangan. Setiap siraman, setiap panen, setiap langkah dari kandang ke ladang memakan menit. Habiskan seluruh hari di ladang, dan si petani muda tidak akan pernah sempat mendekati gadis pujaannya, apalagi menikah. Hari yang sama, kalau disusun dengan cermat, masih menyisakan ruang untuk hal lain.
 
@@ -20,7 +20,7 @@ Setelah beberapa minggu, urutan yang awalnya harus dipikirkan biasanya mulai ter
 
 ### Waktu Berhenti di Balik Pintu
 
-Begitu si petani melangkah masuk ke sebuah bangunan, jam berhenti. Aturan kecil ini mengubah cara bermain. Sapi dan domba bisa disikat, diperah, dan dicukur di dalam Barn tanpa kehilangan semenit pun. Kuda diurus di dalam istal, sedangkan anjing lebih baik diajak bermain di dalam rumah. Pekerjaan yang sama, kalau dikerjakan di halaman, terus menggerus jam yang tidak bisa kembali.
+Begitu si petani melangkah masuk ke sebuah bangunan, jam berhenti. Aturan kecil ini mengubah cara bermain. Sapi dan domba bisa disikat, diperah, dan dicukur di dalam Barn tanpa kehilangan semenit pun. Kuda diurus di dalam istal, sedangkan anjing lebih baik diajak bermain di dalam rumah. Pekerjaan yang sama, kalau dikerjakan di halaman, terus memakan waktu.
 
 Menyetor panen ikut aturan yang sama. Menuang bawaan yang penuh ke Harvest Bin di luar bisa memakan sampai 20 menit. Barn dan kandang ayam masing-masing punya Harvest Bin sendiri, jadi setorlah di sana, di tempat jam tidak bergerak.
 

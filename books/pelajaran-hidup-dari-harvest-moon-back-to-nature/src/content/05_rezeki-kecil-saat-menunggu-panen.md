@@ -8,7 +8,7 @@ Ia memetik rumput (*Grass*) dan buah beri di sepanjang jalan, lalu berhenti di d
 
 Di HM BTN, tanaman liar di Mother's Hill, di sisi Hot Spring, dan di sekitar rumah Gotz tumbuh kembali setiap hari, selalu di tempat yang sama. Harganya kecil. Rumput dan beri bisa langsung dimasukkan ke Harvest Bin dan diangkut Zack bersama hasil ladang, jadi tidak ada yang terbuang hanya karena nilainya receh.
 
-Isinya berganti mengikuti musim, jadi ada gunanya berkeliling sebentar di awal setiap musim. Di musim semi, Blue Grass laku 100 G dan Bamboo Shoot 50 G. Di musim gugur, sebuah Truffle di dekat danau di Mother's Hill bernilai 500 G, cukup untuk membuat jalan pagi terasa seperti perburuan harta. Musim dingin lebih pelit lagi. Yang bisa dipungut hanya Honey seharga 50 G, itu pun kalau di musim yang lebih awal kamu sudah menanam bunga dan lebah sudah bersarang di pohon apel. Rezeki kecil di musim sepi juga bergantung pada apa yang kamu siapkan sebelumnya.
+Isinya berganti mengikuti musim, jadi ada gunanya berkeliling sebentar di awal setiap musim. Di musim semi, Blue Grass laku 100 G dan Bamboo Shoot 50 G. Di musim gugur, sebuah Truffle di dekat danau di Mother's Hill bernilai 500 G. Musim dingin lebih pelit lagi. Yang bisa dipungut hanya Honey seharga 50 G, itu pun kalau di musim yang lebih awal kamu sudah menanam bunga dan lebah sudah bersarang di pohon apel. Rezeki kecil di musim sepi juga bergantung pada apa yang kamu siapkan sebelumnya.
 
 Daya tariknya ada pada pengulangan: tanaman liar kembali setiap hari di tempat yang sama.
 
@@ -22,7 +22,7 @@ Ikan yang berhasil ditangkap datang dalam tiga ukuran, kecil, sedang, dan besar,
 
 ### Panen Besar Datang dari Ladang
 
-Semua ini tidak akan membuatmu kaya. Panduan resmi gim ini pun terang-terangan menyebut uang besar datang dari apa yang kamu tanam, bukan dari memungut atau menambang (tambang punya ceritanya sendiri di bab 13). Hasil ladang, seperti lobak (*Turnip*) yang cepat panen di bab 1, masih menjadi mesin utama, karena panen pertama membeli benih untuk putaran berikutnya.
+Semua ini tidak akan membuatmu kaya. Panduan resmi gim ini pun terang-terangan menyebut uang besar datang dari apa yang kamu tanam, bukan dari memungut atau menambang (tambang punya ceritanya sendiri di bab 13). Hasil ladang, seperti lobak (*Turnip*) yang cepat panen di bab 1, masih menjadi sumber uang utama, karena panen pertama membeli benih untuk putaran berikutnya.
 
 Rezeki kecil punya tugas lain. Ia tidak menggantikan panen. Ia menjaga si petani tetap bergerak selama panen belum datang, sehingga setiap pagi ada yang bisa dibawa pulang dan tidak ada hari yang dihabiskan menunggu dengan tangan kosong. Urutannya penting karena tanaman tidak tumbuh pada hari kamu lupa menyiramnya, kecuali hujan turun (bab 1): siram ladang dulu, baru naik ke bukit. Rezeki dari bukit hanya tambahan; panen di ladanglah yang dipertaruhkan.
 
