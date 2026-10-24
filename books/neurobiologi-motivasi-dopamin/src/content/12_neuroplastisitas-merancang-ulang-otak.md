@@ -88,7 +88,7 @@ Untuk mempercepat perubahan otak, kamu bisa menggunakan bantuan biologis berikut
 
 ### Menjadi Tuan atas Biologi Kamu
 
-> "Otak kamu adalah satu-satunya organ yang memiliki kemampuan untuk berubah secara sadar berdasarkan keinginan pemiliknya."
+> Otak kamu bisa berubah mengikuti kebiasaan yang kamu pilih dengan sadar.
 
 Mempelajari neurobiologi motivasi bukan hanya tentang memahami zat kimia, tetapi tentang memahami bahwa **kamu bisa berubah.** Kerusakan akibat dopamin instan tidaklah permanen. Dengan pemahaman tentang homeostasis, baseline dopamin, dan neuroplastisitas, kamu kini memiliki alat untuk mengambil alih kemudi.
 

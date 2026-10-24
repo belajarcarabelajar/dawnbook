@@ -95,4 +95,4 @@ Mengapa kita sering kali sulit berhenti menggulir media sosial meskipun menyadar
 
 ---
 
-> **Bahan Refleksi:** Dalam 24 jam meingat kembali, aktivitas mana yang paling intens menekan "Pedal Gas" (Nucleus Accumbens) kamu, dan dalam momen apa "CEO" (Prefrontal Cortex) kamu berhasil memegang kendali penuh?
+> **Bahan Refleksi:** Dalam 24 jam mengingat kembali, aktivitas mana yang paling intens menekan "Pedal Gas" (Nucleus Accumbens) kamu, dan dalam momen apa "CEO" (Prefrontal Cortex) kamu berhasil memegang kendali penuh?

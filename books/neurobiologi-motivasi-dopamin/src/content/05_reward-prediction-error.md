@@ -92,7 +92,7 @@ Untuk menjaga sistem motivasi otak tetap sehat dan seimbang, kamu bisa memanfaat
 2. **Kelola Ekspektasi dengan Bijak:** Hindari memvisualisasikan hasil akhir secara berlebihan; alihkan fokus utama pada proses. Visualisasi hasil yang terlalu muluk justru berisiko memicu *Negative Prediction Error* saat realitas tidak seindah bayangan.
 3. **Suntikkan Variasi dalam Rutinitas:** Jika kamu merasa jenuh dengan kebiasaan harian (*Zero RPE*), ubah sedikit cara atau suasana saat menjalankannya. Rute jalan kaki baru, latar musik yang berbeda saat bekerja, atau mencoba hobi baru sanggup memicu kembali dinamika sistem RPE.
 
-> "Kebahagiaan bukanlah tentang memiliki semua yang kamu inginkan, melainkan menyadari bahwa realitasmu saat ini jauh lebih indah daripada apa yang kamu bayangkan sebelumnya."
+> Rasa puas lebih mudah muncul saat kenyataan melampaui apa yang kamu bayangkan, bukan saat semua keinginanmu terpenuhi.
 
 ---
 

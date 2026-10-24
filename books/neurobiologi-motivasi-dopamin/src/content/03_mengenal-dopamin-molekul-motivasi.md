@@ -89,7 +89,7 @@ Oleh karena itu, dopamin dirancang untuk **tidak pernah terpuaskan secara perman
 - **Puncak Dopamin Ada pada Antisipasi:** Pelepasan dopamin tertinggi terjadi tepat *sebelum* imbalan diperoleh.
 - **Hindari Stimulasi Tanpa Pengejaran:** Mengincar kenikmatan instan tanpa usaha pengejaran (seperti perjudian atau stimulasi digital berlebih) dapat merusak kepekaan sirkuit motivasi alamiah kamu.
 
-> "Kebahagiaan sejati tidak hanya terletak pada saat mencapai puncak gunung, melainkan pada setiap langkah pendakian yang didorong oleh harapan dan perjuangan untuk sampai di sana."
+> Rasa senang tidak hanya muncul saat tujuan tercapai, melainkan di sepanjang usaha untuk mencapainya.
 
 ---
 
