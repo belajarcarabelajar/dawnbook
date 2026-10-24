@@ -2,7 +2,7 @@
 
 Pernahkah kamu terbangun di tengah malam, menatap langit-langit kamar, dan tiba-tiba dihantam pertanyaan: *"Siapa saya sebenarnya? Apakah hidup yang saya jalani ini benar-benar keinginan saya, atau sekadar mengikuti naskah yang ditulis orang lain?"*
 
-Selamat datang di inti dari *Quarter-Life Crisis*. Di fase ini, krisis identitas lebih dari sekadar kebingungan remaja tentang gaya rambut atau selera musik; ini tentang **menyusun ulang siapa dirimu**. Kamu berada di persimpangan jalan di mana peta yang diberikan oleh orang tua, sekolah, dan masyarakat tidak lagi akurat untuk menjalani kehidupan dewasa.
+Pertanyaan seperti itu menyentuh inti dari *Quarter-Life Crisis*. Di fase ini, krisis identitas lebih dari sekadar kebingungan remaja tentang gaya rambut atau selera musik; ini tentang **menyusun ulang siapa dirimu**. Kamu berada di persimpangan jalan di mana peta yang diberikan oleh orang tua, sekolah, dan masyarakat tidak lagi akurat untuk menjalani kehidupan dewasa.
 
 ### 1. Memahami Paradoks Pilihan
 

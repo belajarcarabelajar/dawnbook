@@ -2,7 +2,7 @@
 
 Pernahkah kamu terbangun di tengah malam, menatap langit-langit kamar, dan tiba-tiba merasa sangat asing dengan hidupmu sendiri? Kamu mungkin sudah lulus kuliah, memiliki pekerjaan, atau sedang merintis sesuatu, namun ada suara kecil di kepala yang bertanya: *"Benarkah ini yang ingin aku lakukan selamanya?"* atau *"Mengapa semua orang terlihat lebih sukses dariku?"*
 
-Jika ya, selamat datang di klub. Kamu tidak sendirian, dan kamu kemungkinan besar sedang berada di ambang **Quarter-Life Crisis (QLC)**.
+Jika ya, ada dua hal yang perlu kamu tahu. Kamu tidak sendirian, dan kamu kemungkinan besar sedang berada di ambang **Quarter-Life Crisis (QLC)**.
 
 ## Apa Itu Quarter-Life Crisis?
 

@@ -1,6 +1,6 @@
 ## Penyebab Utama di Balik Krisis Usia 20-an
 
-Selamat datang di inti pembahasan mengenai *Quarter-Life Crisis* (QLC). Jika pada bagian sebelumnya kita telah mendefinisikan apa itu QLC dan mengenali gejalanya, sekarang saatnya kita membedah "mesin" di baliknya. Mengapa krisis ini terjadi? Mengapa generasi sekarang tampaknya lebih rentan merasakannya dibandingkan generasi sebelumnya?
+Satu pertanyaan besar tentang *Quarter-Life Crisis* (QLC) masih menunggu jawaban, yaitu dari mana sebenarnya krisis di usia 20-an ini datang. Jika pada bagian sebelumnya kita telah mendefinisikan apa itu QLC dan mengenali gejalanya, sekarang saatnya kita membedah "mesin" di baliknya. Mengapa krisis ini terjadi? Mengapa generasi sekarang tampaknya lebih rentan merasakannya dibandingkan generasi sebelumnya?
 
 Kita akan menganalisis tiga pilar utama yang menjadi pemicu krisis ini: **tekanan ekspektasi sosial**, **gegar budaya transisi dunia kerja**, dan **pergeseran peran interpersonal**.
 

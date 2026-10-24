@@ -2,7 +2,7 @@
 
 Pernahkah kamu merasa bahwa meskipun gajimu sudah naik, saldo di rekening bank seolah-olah menguap begitu saja sebelum pertengahan bulan? Atau mungkin, kamu merasa tertekan saat melihat teman sebaya sudah bisa membeli properti, sementara kamu masih berjuang membayar tagihan langganan bulanan?
 
-Selamat datang di realitas finansial fase *Quarter-Life Crisis*. Di bagian ini, kita akan membahas mengapa tekanan ekonomi di usia 20-an terasa jauh lebih berat dibandingkan generasi sebelumnya, dan bagaimana cara menghadapi ketidakpastian ini tanpa mengorbankan kesehatan mentalmu.
+Dua situasi itu adalah realitas finansial fase *Quarter-Life Crisis*. Di bagian ini, kita akan membahas mengapa tekanan ekonomi di usia 20-an terasa jauh lebih berat dibandingkan generasi sebelumnya, dan bagaimana cara menghadapi ketidakpastian ini tanpa mengorbankan kesehatan mentalmu.
 
 ## 1. Realitas Biaya Hidup
 
