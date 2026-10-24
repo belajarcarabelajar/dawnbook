@@ -85,7 +85,7 @@ Konklusi ini bertumpu pada ketiga premis sekaligus. Jika satu saja gugur, misaln
 
 ## 5\. Latihan Mandiri
 
-Perhatikan pernyataan di bawah ini dan identifikasi mana yang merupakan premis dan mana konklusinya:
+Cermati pernyataan di bawah ini dan identifikasi mana yang merupakan premis dan mana konklusinya:
 
 *"Investasi pada pendidikan usia dini adalah langkah terbaik bagi negara. Data menunjukkan bahwa anak-anak yang mendapatkan pendidikan berkualitas sejak dini memiliki peluang kerja 40% lebih tinggi di masa depan. Selain itu, tingkat kriminalitas terbukti menurun pada komunitas yang memiliki akses pendidikan PAUD yang baik."*
 
@@ -95,7 +95,7 @@ Perhatikan pernyataan di bawah ini dan identifikasi mana yang merupakan premis d
 2. **Premis 2:**...
 3. **Konklusi:**...
 
-Sebagai latihan tambahan, cobalah perhatikan satu iklan di televisi atau media sosial hari ini. Identifikasi konklusi yang mereka tawarkan (biasanya mengajak membeli produk) dan premis-premis yang mereka gunakan untuk membujukmu. Evaluasi apakah premis tersebut berupa fakta atau sekadar opini yang dikemas seolah-olah fakta.
+Sebagai latihan tambahan, cobalah amati satu iklan di televisi atau media sosial hari ini. Identifikasi konklusi yang mereka tawarkan (biasanya mengajak membeli produk) dan premis-premis yang mereka gunakan untuk membujukmu. Evaluasi apakah premis tersebut berupa fakta atau sekadar opini yang dikemas seolah-olah fakta.
 
 ## Intisari
 
