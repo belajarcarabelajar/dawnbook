@@ -25,7 +25,7 @@ Suara merupakan instrumen psikologis langsung dalam memodulasi aktivasi fisiolog
 * **Proyeksi Diafragma, Bukan Teriakan Melengking:** Teriakan bernada tinggi memicu resonansi kepanikan pada amigdala orang lain. Proyeksi vokal berbasis diafragma dengan nada rendah dan tegas memancarkan ketenangan.
 * **Sintaksis Direktif dan Singkat:** Menyampaikan instruksi dalam kalimat pendek berstruktur tegas.
 
-> *"Berhenti sejenak! Perhatikan instruksi. Kita bergerak teratur keluar melalui pintu darurat di sebelah kanan."*
+> *"Berhenti sejenak! Dengarkan instruksi. Kita bergerak teratur keluar melalui pintu darurat di sebelah kanan."*
 
 ---
 
@@ -97,7 +97,7 @@ flowchart TD
 
 **Protokol Implementasi Kepemimpinan Psikologis:**
 
-1. **Intervensi Vokal dan Visibilitas:** Mengambil posisi yang terlihat jelas oleh massa (misalnya menaiki anak tangga atau podium kecil) dan memberikan komando vokal yang lantang: *"Semuanya, berhenti sejenak dan perhatikan arah tangga darurat!"*
+1. **Intervensi Vokal dan Visibilitas:** Mengambil posisi yang terlihat jelas oleh massa (misalnya menaiki anak tangga atau podium kecil) dan memberikan komando vokal yang lantang: *"Semuanya, berhenti sejenak dan lihat arah tangga darurat!"*
 2. **Pembentukan Fokus Kolektif:** Mengarahkan perhatian dari kepanikan asap menuju rute evakuasi yang jelas: *"Asap terlihat di lorong kiri, namun jalur tangga darurat sisi kanan aman untuk dilalui secara berurutan."*
 3. **Delegasi Terarah (*Instant Delegation*):**
    * Menugaskan individu yang berfisik prima untuk mengontrol pintu darurat agar tidak terjadi penumpukan massal.

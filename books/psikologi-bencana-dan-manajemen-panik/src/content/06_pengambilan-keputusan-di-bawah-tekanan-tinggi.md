@@ -33,7 +33,7 @@ Dalam ranah taktis militer dan penanganan tanggap darurat, kerangka kerja yang s
 | **Decide** (Putuskan) | Memilih tindakan terbaik dari opsi yang tersedia secara rasional. | Apa langkah paling efektif yang harus dieksekusi detik ini? |
 | **Act** (Bertindak) | Mengimplementasikan keputusan secara terukur, tegas, dan konsisten. | *Eksekusi tindakan segera tanpa keraguan berlebih.* |
 
-Perhatikan bagaimana keempat tahap itu saling menyambung dan kembali ke awal pada gambar siklus berikut.
+Gambar siklus berikut menunjukkan bagaimana keempat tahap itu saling menyambung dan kembali ke awal.
 
 ```mermaid
 flowchart LR
@@ -105,7 +105,7 @@ Mari telaah penerapan prinsip-prinsip ini dalam simulasi kedaruratan di lantai 1
 Membangun kesiapan kognitif memerlukan latihan berkelanjutan sebelum krisis sesungguhnya terjadi:
 
 - **Simulasi Mental (The What-If Exercise):** Saat berada di fasilitas publik, luangkan waktu sejenak untuk memetakan skenario kedaruratan: *"Jika gempa bumi terjadi detik ini, apa tiga langkah pertama yang wajib diambil?"* Latihan mental ini membangun jalur saraf (*neural pathways*) yang mempercepat respons di masa mendatang.
-- **Dialog Internal Terstruktur (Authoritative Self-Talk):** Memberi instruksi pada diri sendiri menggunakan nama pribadi (contoh: *"Budi, kendalikan napas, perhatikan tanda keluar darurat, dan bergerak sekarang."*) membantu menciptakan jarak psikologis dari rasa takut, memulihkan kendali eksekutif atas respons panik.
+- **Dialog Internal Terstruktur (Authoritative Self-Talk):** Memberi instruksi pada diri sendiri menggunakan nama pribadi (contoh: *"Budi, kendalikan napas, lihat tanda keluar darurat, dan bergerak sekarang."*) membantu menciptakan jarak psikologis dari rasa takut, memulihkan kendali eksekutif atas respons panik.
 
 Dalam situasi kedaruratan, kesiapan kognitif untuk memproses informasi dan bertindak cepat merupakan pembeda utama antara kelumpuhan mental dan keselamatan.
 

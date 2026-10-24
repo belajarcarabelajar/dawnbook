@@ -53,7 +53,7 @@ Keberhasilan formula ini ditopang oleh tiga pilar komunikasi darurat (Prinsip 3C
 | :--- | :--- | :--- |
 | **Instruksi Jalur** | "Mohon perhatian, bagi siapa saja yang berada di dekat lobi, harap segera bergegas keluar karena ada potensi bahaya." | "Tinggalkan barang bawaan. Berjalan tenang menuju tangga darurat di sebelah kiri." |
 | **Larangan Lift** | "Sebaiknya kita tidak memakai elevator gedung demi alasan keselamatan bersama." | "Jangan gunakan lift. Ikuti tanda jalur hijau menuju pintu keluar." |
-| **Pengendalian Kecepatan** | "Jangan terlalu terburu-buru, jangan panik, perhatikan langkah masing-masing." | "Berjalan cepat dalam satu baris. Jangan berlari." |
+| **Pengendalian Kecepatan** | "Jangan terlalu terburu-buru, jangan panik, jaga langkah masing-masing." | "Berjalan cepat dalam satu baris. Jangan berlari." |
 
 ---
 
@@ -120,7 +120,7 @@ Oleh karena itu, prioritas taktis pertama seorang komunikator darurat bukanlah b
 
 ### 8. Analisis Penerapan dan Sintesis Taktis
 
-Sebagai sintesis pemahaman komunikasi darurat, perhatikan skenario evakuasi banjir bandang mendadak di mana sistem kelistrikan padam total dan jendela waktu berbicara yang tersedia hanya lima detik sebelum sambungan terputus:
+Sebagai sintesis pemahaman komunikasi darurat, bayangkan skenario evakuasi banjir bandang mendadak di mana sistem kelistrikan padam total dan jendela waktu berbicara yang tersedia hanya lima detik sebelum sambungan terputus:
 
 > **"NAIK KE LANTAI TIGA SEKARANG!"**
 

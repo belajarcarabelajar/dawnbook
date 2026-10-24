@@ -1,6 +1,6 @@
 ## Resiliensi Komunitas dan Mitigasi Mental
 
-Perhatikan bagaimana rumpun bambu merespons terpaan angin badai yang hebat. Berbeda dengan pohon besar berbatang kaku yang rentan tumbang saat akarnya tak lagi sanggup menahan beban momen lentur, bambu melengkung dinamis mengikuti arah terpaan angin. Rumpun bambu tidak patah karena memiliki fleksibilitas mekanis, dan yang paling krusial, jalinan perakarannya saling bertaut rapat di bawah tanah membentuk jaringan penyangga struktural yang kokoh.
+Coba amati bagaimana rumpun bambu merespons terpaan angin badai yang hebat. Berbeda dengan pohon besar berbatang kaku yang rentan tumbang saat akarnya tak lagi sanggup menahan beban momen lentur, bambu melengkung dinamis mengikuti arah terpaan angin. Rumpun bambu tidak patah karena memiliki fleksibilitas mekanis, dan yang paling krusial, jalinan perakarannya saling bertaut rapat di bawah tanah membentuk jaringan penyangga struktural yang kokoh.
 
 Prinsip bio-mekanis tersebut menjadi fondasi utama konsep **Resiliensi Komunitas**. Daya lenting kolektif tidak semata-mata bersandar pada ketahanan individual yang terisolasi, melainkan pada kapasitas sistem sosial untuk menjalin keterikatan psikologis dan struktural. Melalui jejaring ini, masyarakat tidak hanya sanggup bertahan di tengah hantaman krisis, tetapi juga memiliki kemampuan bangkit kembali (*bounce back*) dengan kapasitas adaptif yang jauh lebih kuat.
 
