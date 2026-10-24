@@ -86,7 +86,7 @@ Pemahaman mengenai morfologi awan memberikan pemetaan kondisi cuaca yang vital b
 > **Pertanyaan Diskusi:**
 > Ketika mengamati awan dengan puncak yang tampak kabur atau berserat (seperti serat kapas yang terurai), informasi apakah yang dapat disimpulkan mengenai fasa air pada puncak awan tersebut? Mengapa kondisi tersebut menandakan bahwa puncak awan telah berada pada suhu di bawah titik beku?
 >
-> *(Petunjuk: Perhatikan perbedaan bentuk optik antara tetesan air cair yang melingkar tegas dan kristal es yang menyerupai serat atau jarum).*
+> *(Petunjuk: Cermati perbedaan bentuk optik antara tetesan air cair yang melingkar tegas dan kristal es yang menyerupai serat atau jarum).*
 
 ### Ringkasan Morfologi dan Mikrofisika Awan
 
