@@ -8,9 +8,9 @@ Pendidikan tinggi mulai merangkul pendekatan multidisiplin guna menyiapkan mahas
 
 #### a. Program Studi Multidisiplin (B.MdS.) di West Virginia University
 
-West Virginia University menawarkan terobosan berupa gelar *Bachelor of Multidisciplinary Studies* (B.MdS.). Program ini membebaskan mahasiswa untuk merancang kurikulum mandiri dengan menggabungkan tiga bidang minor pilihan mereka. Sebagai contoh, seseorang bisa menyelaraskan minat uniknya dengan mengambil minor Kriminologi, Psikologi, dan Kepemimpinan secara bersamaan, atau bahkan menggabungkannya dengan Studi Equine (kuda). Fleksibilitas ini membantu menyelaraskan jalur akademik langsung dengan cita-cita karier personal.
+West Virginia University menawarkan gelar *Bachelor of Multidisciplinary Studies* (B.MdS.). Program ini membebaskan mahasiswa untuk merancang kurikulum mandiri dengan menggabungkan tiga bidang minor pilihan mereka. Sebagai contoh, seseorang bisa menyelaraskan minat uniknya dengan mengambil minor Kriminologi, Psikologi, dan Kepemimpinan secara bersamaan, atau bahkan menggabungkannya dengan Studi Equine (kuda). Fleksibilitas ini membantu menyelaraskan jalur akademik langsung dengan cita-cita karier personal.
 
-Langkah inovatif ini terbukti berhasil melahirkan lulusan yang tidak terkurung dalam satu kotak disiplin ilmu saja. Melalui program ini, mahasiswa terbiasa melihat suatu problem dari berbagai kacamata, mengasah pemikiran kritis, serta membangun ketangkasan adaptasi. Dunia industri pun sangat mengapresiasi profil lulusan seperti ini karena mereka hadir sebagai pemecah masalah yang luwes menghadapi situasi baru.
+Langkah inovatif ini terbukti berhasil melahirkan lulusan yang tidak terkurung dalam satu kotak disiplin ilmu saja. Melalui program ini, mahasiswa terbiasa melihat suatu problem dari berbagai kacamata, mengasah pemikiran kritis, serta membangun ketangkasan adaptasi. Dunia industri mengapresiasi profil lulusan seperti ini karena mereka hadir sebagai pemecah masalah yang luwes menghadapi situasi baru.
 
 #### b. Pendidikan Psikedelik Multidisiplin di University of Maryland, Baltimore (UMB)
 
@@ -42,7 +42,7 @@ Rampung pada tahun 2003, proyek ini menghasilkan data dalam jumlah besar yang me
 
 #### c. Riset Kanker
 
-Upaya memerangi kanker menuntut kerja sama multidisipliner yang sangat luas, yang memadukan keahlian onkologi, biologi molekuler, imunologi, patologi, farmakologi, ilmu perilaku, radiologi, hingga epidemiologi. Jaringan kerja sama global seperti *The Cancer Genome Atlas* (TCGA) dan *International Cancer Genome Consortium* (ICGC) menjadi wadah bertemunya para ilmuwan dari berbagai institusi di penjuru dunia.
+Upaya memerangi kanker menuntut kerja sama multidisipliner yang luas, yang memadukan keahlian onkologi, biologi molekuler, imunologi, patologi, farmakologi, ilmu perilaku, radiologi, hingga epidemiologi. Jaringan kerja sama global seperti *The Cancer Genome Atlas* (TCGA) dan *International Cancer Genome Consortium* (ICGC) menjadi wadah bertemunya para ilmuwan dari berbagai institusi di penjuru dunia.
 
 Integrasi keilmuan ini mempercepat inovasi dalam penanganan kanker. Hasilnya terlihat jelas pada metode diagnosis yang lebih dini dan akurat, perancangan terapi terapeutik yang spesifik bagi tiap pasien, serta peningkatan angka harapan hidup pasien secara nyata.
 
@@ -60,10 +60,10 @@ Kolaborasi ini memberikan timbal balik yang saling menguntungkan. Sektor industr
 
 #### b. Inovasi Beras Analog Uwi Berbasis STE(A)M
 
-Pengembangan beras analog berbasis uwi di Indonesia merupakan contoh apik implementasi metode STE(A)M (*Science, Technology, Engineering, Arts, and Mathematics*) secara nyata. Masing-masing bidang berkontribusi membentuk produk pangan alternatif ini:
+Pengembangan beras analog berbasis uwi di Indonesia merupakan contoh implementasi metode STE(A)M (*Science, Technology, Engineering, Arts, and Mathematics*) secara nyata. Masing-masing bidang berkontribusi membentuk produk pangan alternatif ini:
 - **Science**: Penelitian biokimia dan kandungan gizi uwi menjadi fondasi ilmiah, khususnya dalam mengukur struktur pati, indeks glikemik, dan serat pangan.
 - **Technology**: Penerapan teknologi ekstrusi panas mengubah tepung uwi menjadi butiran yang menyerupai beras.
-- **Engineering**: Rekayasa mesin ekstrusi serta pengaturan parameter penting seperti suhu, tekanan, dan kadar air memastikan butiran terbentuk sempurna.
+- **Engineering**: Rekayasa mesin ekstrusi serta pengaturan parameter penting seperti suhu, tekanan, dan kadar air memastikan butiran terbentuk dengan baik.
 - **Arts**: Aspek artistik diterapkan untuk menjaga cita rasa dan tampilan visual agar selaras dengan preferensi estetika kuliner masyarakat.
 - **Mathematics**: Pemodelan matematika digunakan dalam memformulasikan komposisi bahan, menganalisis data statistik uji organoleptik, dan memprediksi respons mesin ekstrusi.
 
@@ -73,7 +73,7 @@ Melalui pendekatan lintas disiplin ini, beras analog uwi berhasil diproduksi den
 
 Pembuatan produk konsumen modern kini mengandalkan kolaborasi erat tim lintas fungsi yang terdiri dari desainer, pengembang produk, serta tim pemasaran. Dengan memanfaatkan peranti pemodelan digital seperti *Computer-Aided Design* (CAD) dan menerapkan metodologi kerja *agile*, mereka memprioritaskan komunikasi langsung, pengembangan berulang (*iterative*), serta pembuatan prototipe cepat.
 
-Integrasi kerja ini memberikan perspektif menyeluruh terhadap seluruh rantai manufaktur. Perusahaan dapat mengidentifikasi kendala produksi lebih awal, mengoptimalkan efisiensi kerja, serta mengurangi sisa bahan produksi. Dampaknya sangat nyata: waktu rilis produk ke pasar (*time-to-market*) dapat dipercepat hingga 20% dibanding metode konvensional, sembari menghemat biaya operasional dan mendongkrak kualitas akhir produk.
+Integrasi kerja ini memberikan perspektif menyeluruh terhadap seluruh rantai manufaktur. Perusahaan dapat mengidentifikasi kendala produksi lebih awal, mengoptimalkan efisiensi kerja, serta mengurangi sisa bahan produksi. Dampaknya nyata: waktu rilis produk ke pasar (*time-to-market*) dapat dipercepat hingga 20% dibanding metode konvensional, sembari menghemat biaya operasional dan mendongkrak kualitas akhir produk.
 
 ### 4. Inovasi Sosial
 
@@ -89,7 +89,7 @@ Setelah diamati, keluarga-keluarga ini ternyata mempraktikkan kebiasaan makan un
 
 Grameen Bank di Bangladesh, yang didirikan oleh ekonom Muhammad Yunus, memadukan teori ekonomi dengan misi sosial melalui penyediaan kredit mikro (*microfinance*). Lembaga ini memberikan pinjaman modal usaha kecil tanpa jaminan kepada warga miskin yang selama ini ditolak oleh sistem perbankan konvensional.
 
-Inovasi keuangan sosial ini berhasil membantu jutaan pelaku usaha kecil, yang sebagian besar adalah perempuan, untuk mandiri secara ekonomi dan keluar dari jerat kemiskinan. Keberhasilan Grameen Bank membuktikan bahwa penyesuaian instrumen keuangan dengan realitas sosial sanggup memicu perubahan kesejahteraan yang masif dan berkelanjutan di tingkat akar rumput.
+Inovasi keuangan sosial ini berhasil membantu jutaan pelaku usaha kecil, yang sebagian besar adalah perempuan, untuk mandiri secara ekonomi dan keluar dari jerat kemiskinan. Keberhasilan Grameen Bank membuktikan bahwa penyesuaian instrumen keuangan dengan realitas sosial sanggup memicu perubahan kesejahteraan yang besar dan berkelanjutan di tingkat akar rumput.
 
 #### c. Agrowisata Berbasis Komunitas Kampung Flory, Sleman
 
@@ -107,4 +107,4 @@ Platform ini mencatat tingkat keberhasilan hingga 80% dalam merumuskan solusi ba
 
 Berbagai studi kasus di atas memperlihatkan dengan jelas bahwa pendekatan multidisiplin lebih dari sekadar tren akademik sesaat. Metode ini merupakan kebutuhan nyata di era modern. Baik dalam merancang kurikulum pendidikan tinggi yang dinamis, memajukan riset ilmiah, melahirkan produk industri berorientasi pengguna, maupun mengurai masalah sosial yang rumit, kemampuan menghubungkan berbagai cabang ilmu menjadi dasar lahirnya solusi yang berdaya guna. Keberhasilan implementasi ini menuntut keterbukaan sikap, komunikasi yang jernih, serta kerelaan untuk keluar dari batas nyaman bidang keahlian masing-masing.
 
-Pendekatan lintas ilmu ini pada akhirnya membekali individu maupun tim untuk tumbuh menjadi pembelajar yang lebih tangguh, kreatif, dan siap menjawab tantangan di tengah dunia yang terus saling terhubung.
+Pendekatan lintas ilmu ini pada akhirnya membekali individu maupun tim untuk tumbuh menjadi pembelajar yang lebih tangguh, kreatif, dan siap menjawab tantangan yang makin saling terkait.

@@ -8,7 +8,7 @@ Pembelajaran multidisiplin kini telah bergeser dari pilihan opsional menjadi keb
 
 #### 1.1 Kolaborasi Lintas Bidang yang Erat
 
-Kolaborasi lintas sektor kini memegang peran kunci dalam dunia ilmiah dan profesional modern. Guna menyelesaikan permasalahan yang rumit, kita sering kali membutuhkan sudut pandang dari berbagai disiplin ilmu. Sebagai contoh, dalam proyek teknologi, para ahli bekerja bersama desainer dan pakar humaniora guna melahirkan solusi yang tepat sasaran.
+Kolaborasi lintas sektor kini memegang peran penting dalam dunia ilmiah dan profesional modern. Guna menyelesaikan permasalahan yang rumit, kita sering kali membutuhkan sudut pandang dari berbagai disiplin ilmu. Sebagai contoh, dalam proyek teknologi, para ahli bekerja bersama desainer dan pakar humaniora guna melahirkan solusi yang tepat sasaran.
 
 #### 1.2 Pembelajaran Berbasis Keterampilan (*Skills-Based Learning*)
 
@@ -40,7 +40,7 @@ Tujuannya adalah mengasah potensi diri agar terus berkembang secara dinamis, sek
 
 #### 2.3 Pendidikan Inklusif dan Merata
 
-Kini dunia bergerak menuju pendidikan inklusif. Setiap orang, termasuk penyandang disabilitas atau mereka yang tinggal di daerah pelosok, berhak mendapatkan akses belajar yang setara. Teknologi, lewat platform belajar daring dan modul terbuka, menjadi jembatan utama untuk meratakan akses ini.
+Kini dunia bergerak menuju pendidikan inklusif. Setiap orang, termasuk penyandang disabilitas atau mereka yang tinggal di daerah pelosok, berhak mendapatkan akses belajar yang setara. Teknologi, lewat platform belajar daring dan modul terbuka, menjadi sarana utama untuk meratakan akses ini.
 
 ### 3. Adaptasi Terhadap Perubahan Cepat dalam Kebutuhan Pasar Kerja
 
@@ -54,7 +54,7 @@ Perubahan teknologi dan digitalisasi mengubah cara kita bekerja, berinteraksi, d
 
 Program belajar yang kontekstual dan terhubung dengan industri berperan penting dalam mencetak lulusan yang siap bersaing. Dunia kerja masa kini membutuhkan profesional yang memiliki satu keahlian mendalam (*T-shaped skills*), namun juga memahami bidang-bidang lain di sekitarnya.
 
-> **Contoh Nyata:** Sebagai contoh, seorang praktisi IT yang paham dasar-dasar bisnis akan jauh lebih tajam dalam merancang sistem yang laku di pasar. Begitu juga seorang insinyur sipil yang melek ekologi akan lebih piawai merancang infrastruktur ramah lingkungan.
+> **Contoh Nyata:** Sebagai contoh, seorang praktisi IT yang paham dasar-dasar bisnis akan lebih tajam dalam merancang sistem yang laku di pasar. Begitu juga seorang insinyur sipil yang melek ekologi akan lebih piawai merancang infrastruktur ramah lingkungan.
 
 #### 3.3 Pembelajaran Karier yang Terintegrasi
 

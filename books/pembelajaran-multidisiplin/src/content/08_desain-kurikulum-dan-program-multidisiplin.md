@@ -16,7 +16,7 @@ Berikut adalah prinsip utama yang memandu proses ini:
 
 Keseimbangan antara keluasan cakupan disiplin dan kedalaman pemahaman di setiap bidang juga harus dijaga. Kurikulum sebaiknya tidak terlalu dangkal, namun juga tidak boleh terlalu spesifik hanya pada satu area.
 
-Selain itu, fleksibilitas sangat diperlukan untuk mengadopsi perkembangan baru dalam ilmu pengetahuan dan teknologi serta kebutuhan peserta didik yang dinamis. Semua ini hanya bisa terwujud melalui kolaborasi erat antarfakultas atau departemen, baik dalam perancangan, pengajaran, maupun evaluasi hasil belajar.
+Selain itu, fleksibilitas diperlukan untuk mengadopsi perkembangan baru dalam ilmu pengetahuan dan teknologi serta kebutuhan peserta didik yang dinamis. Semua ini hanya bisa terwujud melalui kolaborasi erat antarfakultas atau departemen, baik dalam perancangan, pengajaran, maupun evaluasi hasil belajar.
 
 ### 2. Proses Perancangan Kurikulum atau Program Studi Multidisiplin
 
@@ -24,7 +24,7 @@ Proses perancangan kurikulum multidisiplin mengikuti langkah-langkah sistematis 
 
 #### 2.1. Penentuan Tujuan Pembelajaran Multidisiplin
 
-Langkah pertama yang sangat penting adalah mendefinisikan dengan jelas apa yang diharapkan dapat dicapai oleh peserta didik setelah menyelesaikan program. Tujuan pembelajaran multidisiplin ini harus dirancang secara menyeluruh dan mencakup beberapa aspek utama.
+Langkah pertama adalah mendefinisikan dengan jelas apa yang diharapkan dapat dicapai oleh peserta didik setelah menyelesaikan program. Tujuan pembelajaran multidisiplin ini harus dirancang secara menyeluruh dan mencakup beberapa aspek utama.
 
 Pertama, tujuan tersebut harus **menekankan integrasi**. Sebagai contoh, peserta didik diharapkan mampu menganalisis masalah lingkungan dari perspektif ilmiah, ekonomi, dan kebijakan secara bersamaan. Kedua, fokus harus diarahkan pada **pemecahan masalah kompleks**, seperti kemampuan merumuskan solusi inovatif untuk tantangan kesehatan global yang mempertimbangkan aspek medis, sosial, dan budaya.
 
@@ -46,7 +46,7 @@ Dalam proses ini, penting bagi perancang kurikulum untuk memastikan bahwa pemili
 
 #### 2.3. Struktur Program Multidisiplin
 
-Struktur program adalah kerangka arsitektur kurikulum yang mengatur kapan dan bagaimana peserta didik berinteraksi dengan konten multidisiplin. Beberapa model umum yang dapat diterapkan meliputi:
+Struktur program adalah kerangka kurikulum yang mengatur kapan dan bagaimana peserta didik berinteraksi dengan konten multidisiplin. Beberapa model umum yang dapat diterapkan meliputi:
 
 - **Model Mata Kuliah Inti Multidisiplin:** Menggunakan rangkaian mata kuliah wajib yang dirancang khusus untuk mengintegrasikan berbagai bidang, seperti seminar interdisipliner atau proyek berbasis masalah.
 - **Model Jalur atau Spesialisasi:** Peserta didik mempelajari dasar-dasar beberapa disiplin terlebih dahulu, kemudian memilih jalur spesialisasi yang menggabungkan dua atau lebih bidang studi.

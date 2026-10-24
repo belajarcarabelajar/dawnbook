@@ -14,7 +14,7 @@ Penelitian menunjukkan bahwa pelajar yang terbiasa dengan pendekatan multidisipl
 
 Masalah-masalah di dunia nyata jarang sekali bersifat unidisipliner. Krisis iklim, masalah kesehatan global, atau pengembangan teknologi baru, semuanya memerlukan pendekatan yang menyeluruh. Pembelajaran multidisiplin membekali kita dengan kemampuan untuk melihat masalah secara utuh dan mempertimbangkan berbagai faktor yang relevan.
 
-Dengan memadukan pengetahuan dari berbagai bidang, kita dapat mengembangkan kebijakan yang lebih efektif serta solusi yang berkelanjutan. Pendeketan ini membuka jalan bagi pemahaman yang lebih mendalam dan luas tentang suatu masalah atau topik penelitian.
+Dengan memadukan pengetahuan dari berbagai bidang, kita dapat mengembangkan kebijakan yang lebih efektif serta solusi yang berkelanjutan. Pendekatan ini membuka jalan bagi pemahaman yang lebih mendalam dan luas tentang suatu masalah atau topik penelitian.
 
 Ambil contoh kasus **Perubahan Iklim**. Tantangan ini memerlukan kolaborasi ahli meteorologi (ilmu alam), ahli lingkungan (biologi, ekologi), ahli ekonomi (ilmu sosial), hingga sosiolog (humaniora) untuk memahami penyebab, dampak, serta merumuskan solusi potensial secara menyeluruh.
 

@@ -32,7 +32,7 @@ Mari kita lihat contoh implementasinya:
     Bidang ini memadukan Biology dan Computer Science untuk memproses data genomik. Ahli biologi memakai algoritma komputer untuk menganalisis DNA, sementara ahli komputer merancang program baru yang disesuaikan dengan kebutuhan biologis. Hasilnya adalah sebuah area studi baru yang terpadu.
     
 *   **Cognitive Neuroscience**
-    Disiplin ini menyatukan Neuroscience, Psychology, dan Computer Science untuk mempelajari cara kerja otak dan perilaku. Para peneliti di bidang ini tidak sekadar menaruh data psikologi dan neurologi bersebelahan. They merancang eksperimen dan model kognitif baru yang menggabungkan kedua perspektif tersebut untuk melihat bagaimana kesadaran atau ingatan terbentuk dari jaringan saraf.
+    Disiplin ini menyatukan Neuroscience, Psychology, dan Computer Science untuk mempelajari cara kerja otak dan perilaku. Para peneliti di bidang ini tidak sekadar menaruh data psikologi dan neurologi bersebelahan. Mereka merancang eksperimen dan model kognitif baru yang menggabungkan kedua perspektif tersebut untuk melihat bagaimana kesadaran atau ingatan terbentuk dari jaringan saraf.
     
 *   **Environmental Studies**
     Studi ini mensintesis Environmental Science, Social Sciences, dan Natural Sciences untuk mencari solusi atas krisis ekologi. Ahli biologi yang meneliti pencemaran air bekerja langsung dengan sosiolog untuk menyusun program edukasi dan kebijakan masyarakat. Mereka merancang intervensi sosial-ilmiah yang menjaga keseimbangan alam sekaligus kebutuhan manusia secara bersamaan.
