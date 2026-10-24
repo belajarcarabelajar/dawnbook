@@ -1,6 +1,6 @@
 ## Anatomi Makroskopis Labyrinth Tulang dan Membran
 
-Selamat datang di inti dari sistem keseimbangan kita. Jika otak adalah pusat komando, maka telinga dalam adalah markas intelijen yang terlindungi dengan ketat. Tersembunyi jauh di dalam bagian petrosa tulang temporal (tulang tengkorak yang paling keras), terdapat sebuah labirin rumit yang menentukan bagaimana kita merasakan posisi kita di dalam ruang.
+Inti dari sistem keseimbangan ada di telinga dalam: jika otak adalah pusat komando, telinga dalam adalah markas intelijen yang terlindungi dengan ketat. Tersembunyi jauh di dalam bagian petrosa tulang temporal (tulang tengkorak yang paling keras), terdapat sebuah labirin rumit yang menentukan bagaimana kita merasakan posisi kita di dalam ruang.
 
 Dalam bagian ini, kita akan membedah struktur "rumah" bagi sensor keseimbangan kita, memahami perbedaan antara dinding luar yang keras dan saluran dalam yang lunak, serta cairan yang mengisinya.
 

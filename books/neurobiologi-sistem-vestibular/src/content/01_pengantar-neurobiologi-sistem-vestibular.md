@@ -1,6 +1,6 @@
 ## Pengantar Sistem Vestibular
 
-Selamat datang di pembahasan tentang salah satu sistem sensorik yang penting namun sering kali terlupakan: **Sistem Vestibular**. Jika penglihatan memberi tahu kita di mana benda berada, dan pendengaran memberi tahu kita apa yang terjadi di sekitar, maka sistem vestibular memberi tahu kita **di mana posisi kita dalam ruang**.
+Di antara indra yang kita miliki, ada satu sistem sensorik yang penting namun sering kali terlupakan, yaitu **Sistem Vestibular**. Jika penglihatan memberi tahu kita di mana benda berada, dan pendengaran memberi tahu kita apa yang terjadi di sekitar, maka sistem vestibular memberi tahu kita **di mana posisi kita dalam ruang**.
 
 Sistem ini bekerja 24 jam sehari, termasuk saat kita tidur, untuk memastikan bahwa kita tidak merasa pusing saat menoleh dan tetap tegak meskipun dunia di sekitar kita bergerak.
 
