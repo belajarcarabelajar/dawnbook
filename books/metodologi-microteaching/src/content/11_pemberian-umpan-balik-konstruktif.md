@@ -77,7 +77,7 @@ Setelah menerima umpan balik, lakukan langkah-langkah berikut:
 3. **Rencanakan:** Bagaimana cara memperbaikinya di sesi *re-teaching*?
 	- Contoh: Jika umpan baliknya adalah "kurang interaksi", maka rencananya adalah "menyiapkan 3 pertanyaan terbuka untuk siswa".
 
-### Kesimpulan
+### Dialog yang Mendorong Perubahan
 
 Umpan balik konstruktif adalah sebuah **dialog**, bukan **monolog**. Di dalam *microteaching*, keberhasilan seorang pengajar bukan diukur dari seberapa sempurna penampilannya, melainkan dari seberapa besar perubahan positif yang ia lakukan setelah menerima masukan dari rekan dan pembimbingnya.
 

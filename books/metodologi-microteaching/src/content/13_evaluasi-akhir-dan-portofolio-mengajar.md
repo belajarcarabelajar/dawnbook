@@ -89,7 +89,7 @@ Sebagai penutup dari seluruh rangkaian Microteaching, kamu wajib menyusun **Renc
 2. **Tentukan target waktu** (misal: "Dalam 3 bulan ke depan...").
 3. **Pilih strategi** (misal: "Saya akan mengikuti workshop pengelolaan kelas" atau "Saya akan rutin merekam latihan mandiri di rumah").
 
-## Kesimpulan
+## Melihat ke Belakang agar Melaju ke Depan
 
 Evaluasi Akhir dan Portofolio Mengajar adalah momen di mana kamu berhenti sejenak untuk melihat ke belakang, agar kamu bisa berlari lebih cepat ke depan. Microteaching bukan sekadar simulasi singkat; ia adalah fondasi dari identitas kamu sebagai guru profesional. Dengan mendokumentasikan setiap prosesnya, kamu sedang membangun monumen kompetensi yang akan terus berkembang sepanjang hayat.
 
