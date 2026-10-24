@@ -16,7 +16,7 @@ Selama puluhan tahun, psikologi fokus pada bagaimana trauma merusak mental (sepe
 | --- | --- | --- |
 | **Definisi** | Kemampuan memantul kembali ke kondisi sebelum krisis. | Transformasi positif sebagai hasil dari perjuangan melawan krisis. |
 | **Hasil** | Pemulihan (Recovery). | Perubahan paradigma dan pertumbuhan karakter. |
-| **Analogi** | Karet gelang yang ditarik lalu kembali ke bentuk asal. | Tanah liat yang dibakar dalam suhu ekstrem hingga menjadi keramik yang indah. |
+| **Analogi** | Karet gelang yang ditarik lalu kembali ke bentuk asal. | Tanah liat yang dibakar dalam suhu ekstrem hingga menjadi keramik. |
 
 ## 2. Lima Domain Pertumbuhan
 
@@ -89,7 +89,7 @@ Alih-alih melihat tantangan sebagai titik henti, lihatlah sebagai titik balik (i
    - *"Siapa orang-orang yang tetap berdiri di samping saya saat semuanya runtuh?"*
    - *"Apa yang sekarang saya pahami tentang diri saya yang tidak saya ketahui sebelumnya?"*
 
-### Contoh Real-World Use Case
+### Contoh Kehilangan Pekerjaan
 
 **Skenario:** Seorang profesional muda kehilangan pekerjaan impiannya secara mendadak karena perampingan perusahaan.
 
@@ -100,7 +100,7 @@ Alih-alih melihat tantangan sebagai titik henti, lihatlah sebagai titik balik (i
   - Pembentukan komunitas bagi sesama pencari kerja untuk saling mendukung.
   - **Hasil:** Mendapatkan pekerjaan baru yang lebih sesuai dengan nilai-nilainya dan memiliki empati yang lebih besar sebagai pemimpin di masa depan.
 
-## 7. Kedaulatan atas Penderitaan
+## 7. Memilih Respons terhadap Penderitaan
 
 Menemukan makna di balik tantangan bukan berarti kita mensyukuri kejadian buruk yang terjadi. Kita tidak harus menyukai penderitaan tersebut. Namun, kita bisa menentukan **apa yang akan kita lakukan dengan penderitaan itu.**
 

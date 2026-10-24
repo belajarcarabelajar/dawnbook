@@ -72,7 +72,7 @@ Jaring pengaman tidak bisa dibuat saat kamu sedang terjatuh; ia harus dirajut sa
 3. **Bergabung dengan Kelompok Minat:** Jangan hanya fokus pada pekerjaan. Bergabunglah dengan klub buku, komunitas lari, atau kelompok relawan. Ini memperluas jaringmu di luar lingkaran profesional.
 4. **Berani Meminta Bantuan:** Resiliensi bukan berarti tidak pernah butuh bantuan. Meminta bantuan adalah tanda keberanian dan cara untuk memperkuat ikatan sosial.
 
-### 5. Ringkasan Visual untuk Pembelajar Kinestetik
+### 5. Latihan Peta Jaring Pengaman
 
 Untuk kamu yang lebih suka belajar melalui tindakan, cobalah latihan **"Peta Jaring Pengaman"** berikut:
 

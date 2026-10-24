@@ -4,7 +4,7 @@ Selamat datang di mental gym kamu. Jika bagian-bagian sebelumnya telah membekali
 
 Resiliensi bukanlah sebuah bakat yang kita bawa sejak lahir, melainkan sebuah keterampilan yang diasah melalui pengulangan. Analogi yang tepat adalah **sistem kekebalan tubuh**. Tubuh kita menjadi kuat bukan karena tidak pernah terpapar kuman, melainkan karena ia belajar mengenali, melawan, dan beradaptasi setelah terpapar. Latihan praktis dan jurnal ini adalah "vaksin" dan "nutrisi" bagi mentalmu.
 
-## 1. Protokol Jurnal Resiliensi Harian
+## 1. Dua Metode Jurnal
 
 Menulis lebih dari sekadar memindahkan kata ke kertas. Aktivitas ini merupakan proses kognitif untuk merapikan pikiran yang semrawut menjadi struktur yang logis. Berikut adalah dua metode jurnal yang bisa kamu terapkan secara bergantian.
 
@@ -41,7 +41,7 @@ Biasanya, kita memvisualisasikan kegagalan (kecemasan). Kali ini, kita akan memb
 3. **Visualisasikan Respons:** Lihat dirimu menarik napas dalam, tetap tenang, dan menggunakan salah satu teknik resiliensi (seperti melakukan reframing) untuk mengatasinya.
 4. **Rasakan Hasilnya:** Rasakan kelegaan dan kepuasan setelah kamu berhasil melewati hambatan tersebut, bukan karena keberuntungan, tetapi berkat tindakanmu.
 
-## 3. Pertanyaan Reflektif untuk Melatih Otot Resiliensi
+## 3. Pertanyaan Reflektif
 
 Gunakan pertanyaan-pertanyaan ini sebagai kompas saat kamu merasa tersesat dalam kesulitan. Cobalah untuk menjawabnya dengan jujur dalam jurnalmu.
 

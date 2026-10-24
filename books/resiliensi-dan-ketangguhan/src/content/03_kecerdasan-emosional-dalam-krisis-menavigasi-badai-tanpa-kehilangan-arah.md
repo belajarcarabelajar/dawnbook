@@ -68,7 +68,7 @@ Kamu baru saja mempresentasikan ide besar di depan direksi, namun seorang atasan
 3. **Manage:** Sadari bahwa membalas dengan emosi akan merusak profesionalismemu. Katakan, "Terima kasih atas masukannya, Pak. Saya butuh waktu untuk menelaah poin-poin tersebut agar bisa memberikan revisi yang lebih baik."
 4. **Rational Decision:** Setelah pertemuan selesai dan emosi mereda, kamu menganalisis kritik tersebut. Kamu menemukan bahwa 20% kritiknya valid dan bisa memperbaiki proyekmu, sementara 80% sisanya mungkin hanya gaya komunikasinya yang kurang baik.
 
-### Membangun "Otot" Kecerdasan Emosional
+### Latihan Kecerdasan Emosional
 
 Ingatlah satu kejadian dalam seminggu terakhir di mana kamu merasa sangat tertekan atau kesal.
 

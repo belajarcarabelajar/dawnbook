@@ -38,7 +38,7 @@ Fokus utama ketangguhan adalah pada **daya tahan (endurance)** dan **kekuatan** 
 
 *Apakah kamu saat ini merasa lebih seperti bambu yang fleksibel atau batu karang yang kokoh? Keduanya dibutuhkan dalam situasi yang berbeda.*
 
-## 3\. Mengapa Resiliensi Sangat Penting di Era Modern?
+## 3\. Mengapa Resiliensi Penting di Era Modern?
 
 Dunia saat ini sering digambarkan dengan istilah **VUCA** (*Volatility, Uncertainty, Complexity, Ambiguity*). Tantangan hidup modern tidak lagi hanya berupa ancaman fisik, tetapi juga stres kognitif dan emosional yang konstan.
 

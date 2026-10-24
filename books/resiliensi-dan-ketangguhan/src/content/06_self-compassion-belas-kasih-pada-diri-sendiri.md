@@ -75,7 +75,7 @@ Ini adalah teknik kinestetik dan reflektif untuk melatih otot self-compassion-mu
 2. **Common Humanity:** "Setiap senior *developer* pasti pernah melakukan kesalahan teknis besar setidaknya sekali dalam karier mereka. Saya tidak sendirian."
 3. **Self-Kindness:** "Saya akan fokus memperbaiki sistem sekarang. Setelah ini, saya akan beristirahat karena otak saya butuh kejernihan untuk membuat laporan evaluasi yang jujur tanpa menghancurkan diri sendiri."
 
-## Kekuatan dalam Kelembutan
+## Belajar dari Kesalahan tanpa Menghukum Diri
 
 Self-compassion tidak berarti memaafkan perilaku buruk atau mengabaikan tanggung jawab. Sebaliknya, ini adalah tentang memberikan dirimu **ruang aman** untuk belajar dari kesalahan tanpa harus hancur oleh kritik internal yang destruktif.
 

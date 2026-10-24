@@ -67,7 +67,7 @@ Terkadang, terus-menerus menjadi kuat itu melelahkan. Gaya hidup tangguh mengaku
 
 - **Penting:** Resiliensi bukan berarti produktivitas tanpa henti. Mengetahui kapan harus berhenti sejenak adalah bentuk ketangguhan.
 
-## 4\. Aplikasi Nyata dan Skenario
+## 4\. Penerapan Visi Resiliensi
 
 ### Transisi Karier yang Tidak Terduga
 

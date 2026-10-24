@@ -108,7 +108,7 @@ Di mana:
 - $A\_i$ adalah efektivitas dari alternatif ke-$i$.
 - Semakin banyak alternatif ($n$) yang bisa dipikirkan otakmu secara fleksibel, semakin tinggi probabilitasmu untuk bertahan dan menang.
 
-## Menjadi Cair
+## Fleksibel tanpa Kehilangan Prinsip
 
 **Penting:** Fleksibilitas kognitif bukan berarti kamu tidak memiliki prinsip atau tujuan. Tujuanmu tetap sama (misal: sampai ke tujuan), namun rute yang kamu ambil bisa berubah berkali-kali.
 
