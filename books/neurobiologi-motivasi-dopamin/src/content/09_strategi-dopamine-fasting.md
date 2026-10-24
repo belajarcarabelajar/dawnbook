@@ -1,6 +1,6 @@
 ## Strategi Dopamine Fasting dan Pengaturan Ulang
 
-Pernahkah kamu merasa bahwa bermain video game, menonton serial favorit, atau menelusuri media sosial kini terasa hambar dan membosankan? Dulu, semua aktivitas itu sangat menyenangkan. Namun, di saat yang sama, kamu merasa tidak bisa berhenti melakukannya. Kamu terjebak dalam kondisi di mana kamu "menginginkan" sesuatu tetapi tidak benar-benar "menikmatinya".
+Pernahkah kamu merasa bahwa bermain video game, menonton serial favorit, atau menelusuri media sosial kini terasa hambar dan membosankan? Aktivitas itu dulu sangat menyenangkan. Namun, di saat yang sama, kamu merasa tidak bisa berhenti melakukannya. Kamu terjebak dalam kondisi di mana kamu "menginginkan" sesuatu tetapi tidak benar-benar "menikmatinya".
 
 Ini adalah tanda bahwa sistem *reward* (imbalan) kamu mengalami **downregulation** atau penurunan sensitivitas reseptor. Bab ini akan membahas solusi praktis untuk masalah tersebut: **Dopamine Fasting** (Puasa Dopamin).
 

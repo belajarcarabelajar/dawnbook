@@ -1,6 +1,6 @@
 ## Membangun Fondasi Dopamin
 
-Pernahkah kamu terbangun di pagi hari merasa sangat malas, tidak bersemangat, dan seolah-olah "mesin" motivasi kamu mogok? Padahal, kamu memiliki rencana besar hari itu. Sering kali, kita menyalahkan kurangnya *willpower* atau disiplin mental. Namun, secara neurobiologis, motivasi kamu sangat bergantung pada ketersediaan bahan baku kimia dan kondisi lingkungan fisik kamu.
+Pernahkah kamu terbangun di pagi hari merasa sangat malas, tidak bersemangat, dan seolah-olah "mesin" motivasi kamu mogok? Kamu sebenarnya memiliki rencana besar hari itu. Sering kali, kita menyalahkan kurangnya *willpower* atau disiplin mental. Namun, secara neurobiologis, motivasi kamu sangat bergantung pada ketersediaan bahan baku kimia dan kondisi lingkungan fisik kamu.
 
 Bayangkan otak kamu sebagai sebuah mobil balap berperforma tinggi. Kamu bisa memiliki sopir terbaik (niat kamu), tetapi jika tangki bahan bakarnya kosong (nutrisi buruk), mesinnya panas berlebih (kurang tidur), atau sistem kelistrikannya mati (kurang paparan cahaya), mobil tersebut tidak akan bergerak jauh.
 
