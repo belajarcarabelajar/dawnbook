@@ -4,7 +4,7 @@ Mengapa kebanyakan orang hanya pernah membaca tab yang terbuka pertama kali di X
 
 ### Peta Lima Jalur Baca
 
-Tabel berikut merangkum setiap jalur. Kolom tengah memadukan dokumentasi resmi X dengan implementasi lama yang pernah dibuka ke publik, jadi perhatikan dari mana setiap klaim berasal.
+Tabel berikut merangkum setiap jalur. Kolom tengah memadukan dokumentasi resmi X dengan implementasi lama yang pernah dibuka ke publik, jadi cermati dari mana setiap klaim berasal.
 
 | Jalur | Cara kerjanya | Cocok saat |
 | --- | --- | --- |

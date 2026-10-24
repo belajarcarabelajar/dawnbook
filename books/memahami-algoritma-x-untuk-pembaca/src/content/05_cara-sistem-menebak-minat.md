@@ -48,7 +48,7 @@ SimClusters membaca minat dari komunitas. [Real Graph](https://github.com/twitte
 
 Riwayat interaksi itu digabung sebagai jumlah yang meluruh (decayed sum). Aktivitas lama tetap dihitung, tetapi bobotnya makin kecil seiring waktu, dan tidak lenyap begitu saja pada tanggal tertentu. Mirip pustakawan yang masih ingat kamu dulu rajin meminjam novel detektif, meski kini kamu lebih sering terlihat di rak sains.
 
-Konsekuensinya sederhana: perhatikan siapa yang kamu baca berulang kali, bukan hanya topiknya. Sebuah akun bisa sesekali membahas teknologi, tetapi lebih sering mengajak debat yang tidak kamu butuhkan. Kunjungan profil yang kamu lakukan diam-diam pun ikut menjadi bahan perkiraan.
+Konsekuensinya sederhana: amati siapa yang kamu baca berulang kali, bukan hanya topiknya. Sebuah akun bisa sesekali membahas teknologi, tetapi lebih sering mengajak debat yang tidak kamu butuhkan. Kunjungan profil yang kamu lakukan diam-diam pun ikut menjadi bahan perkiraan.
 
 ### Yang Berubah di Repositori Baru
 
