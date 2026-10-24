@@ -23,7 +23,7 @@ Faktor utama yang memengaruhi perhitungan:
 1. **Target Usia Berhenti Kerja:** Umumnya berada di kisaran usia 55 sampai 65 tahun.
 2. **Estimasi Harapan Hidup:** Hitung selisih antara usia pensiun dan perkiraan batas usia harapan hidup. Misalnya berhenti di usia 60 dan harapan hidup hingga 80 tahun, berarti kamu butuh dana untuk 20 tahun.
 3. **Standar Gaya Hidup:** Pastikan apakah kamu ingin tetap hidup dengan gaya yang sama, menurunkan pengeluaran, atau justru menambah biaya hiburan.
-4. **Faktor Inflasi:** Inflasi di Indonesia rata-rata sekitar 3-5% per tahun. Angka ini wajib masuk dalam perhitungan.
+4. **Faktor Inflasi:** Bank Indonesia menargetkan inflasi dalam kisaran 2,5±1% pada 2026 dan 2027, sementara inflasi tahunan per September 2026 tercatat 3,28%. Angka ini wajib masuk dalam perhitungan.
 5. **Biaya Kesehatan Tambahan:** Asuransi kesehatan adalah kebutuhan wajib untuk masa tua.
 
 ### Metode Perhitungan Sederhana

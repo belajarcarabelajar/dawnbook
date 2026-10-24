@@ -39,8 +39,6 @@ Sebaliknya, utang konsumtif dipakai buat beli barang yang nilainya merosot atau 
 
 Memegang utang tentu ada risikonya. Kamu perlu sadar dan siap mengelolanya supaya tidak malah terjebak masalah finansial.
 
-> "Utang adalah pisau bermata dua; bisa jadi alat pembuat kekayaan, atau penghancur keuangan."
-
 ### 2.1 Beban Bunga yang Tinggi
 
 Mayoritas utang menyertakan biaya bunga. Bunga ini yang harus kamu bayar ke pihak kreditur. Kalau bunganya tinggi, apalagi dari pinjaman online atau kartu kredit, tagihan bulanan bakal membengkak dan utang pokok jadi sulit lunas.
@@ -52,7 +50,7 @@ Waspadai juga efek bunga majemuk. Kalau cicilan menunggak, bunganya akan dihitun
 Saat kamu tidak sanggup membayar cicilan tepat waktu, bersiaplah menghadapi rentetan masalah:
 
 * **Denda Menumpuk:** Bakal ada biaya penalti atau denda keterlambatan yang otomatis menambah beban utang.
-* **Skor Kredit Anjlok:** Nama kamu bisa masuk daftar hitam BI Checking (SLIK OJK). Ke depannya akan sulit kalau butuh pinjaman KPR atau modal usaha.
+* **Skor Kredit Anjlok:** Tunggakanmu tercatat di SLIK OJK (dulu dikenal sebagai BI Checking). OJK menegaskan SLIK bukan daftar hitam, tapi lembaga keuangan bisa memakai catatan itu saat menilai pengajuanmu, jadi ke depannya bisa sulit kalau butuh pinjaman KPR atau modal usaha.
 * **Risiko Sita Aset:** Kredit beragun seperti KPR atau cicilan mobil berisiko tinggi ditarik paksa kalau pembayaran macet parah.
 * **Jalur Hukum:** Pihak bank berhak menyeret masalah ini ke ranah hukum.
 

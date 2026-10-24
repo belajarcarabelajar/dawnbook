@@ -8,8 +8,6 @@ Anggaran adalah panduan langkah demi langkah untuk membangun kebiasaan finansial
 
 Anggaran adalah rencana keuangan yang merinci rencana pengeluaran dan tabungan bulanan. Dengan mencatat semua pemasukan dan pengeluaran, kamu bisa memastikan uang yang keluar tidak lebih besar dari yang masuk.
 
-> "Anggaran adalah pemberian izin kepada setiap Rupiah kamu untuk melakukan sesuatu yang berharga bagi kamu." - John C. Maxwell
-
 Punya anggaran memberi kendali atas uangmu. Kamu jadi tahu persis ke mana uang mengalir setiap bulannya. 
 
 Ini juga membantumu mengenali kebiasaan belanja. Kamu bisa langsung melihat area mana yang terlalu boros dan bisa ditekan. Pada akhirnya, anggaran menjadi dasar kuat untuk mulai menabung, berinvestasi, membayar utang, serta mencapai target hidup seperti membeli rumah atau persiapan masa tua, sekaligus mengurangi stres saat ada pengeluaran dadakan.

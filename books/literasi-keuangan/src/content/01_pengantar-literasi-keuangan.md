@@ -65,6 +65,6 @@ Di era digitalisasi, pemahaman keuangan makin dekat dengan keseharian. Akses ke 
 
 Banyak transaksi kini beralih ke ranah digital. Karena itu, melek finansial online jadi makin penting.
 
-Berdasarkan laporan OJK, indeks literasi keuangan nasional terus meningkat. Pada tahun 2025, angka ini mencapai 66,46%. Capaian tersebut tergolong baik dan menunjukkan kemajuan positif.
+Berdasarkan Survei Nasional Literasi dan Inklusi Keuangan (SNLIK) 2025 dari OJK dan BPS, indeks literasi keuangan nasional terus meningkat. Dengan metode keberlanjutan, angka ini mencapai 66,46%. Capaian tersebut tergolong baik dan menunjukkan kemajuan positif.
 
 Meski begitu, penyebarannya belum merata di seluruh Indonesia. Masih ada kesenjangan antara masyarakat kota dan pelosok daerah. Semakin berkembangnya teknologi perbankan menuntut edukasi yang lebih merata agar tak ada yang tertinggal.
