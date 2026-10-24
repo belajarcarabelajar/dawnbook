@@ -2,7 +2,7 @@
 
 Pernahkah kamu heran bagaimana ribuan produk, mulai dari kopi pagi hingga ponsel pintar di saku kamu, bisa tersedia tepat waktu dalam jumlah yang pas? Semua itu terjadi tanpa ada satu pun direktur pusat yang memerintahkan produksinya.
 
-Selamat datang di konsep **The Invisible Hand** (Tangan Tak Terlihat). Metafora ini dicetuskan oleh **Adam Smith**. Konsep ini menjelaskan bagaimana interaksi individu yang mengejar kepentingan pribadi secara alami dapat menghasilkan tatanan ekonomi yang stabil dan memberi manfaat bagi masyarakat luas.
+Jawabannya ada pada konsep **The Invisible Hand** (Tangan Tak Terlihat). Metafora ini dicetuskan oleh **Adam Smith**. Konsep ini menjelaskan bagaimana interaksi individu yang mengejar kepentingan pribadi secara alami dapat menghasilkan tatanan ekonomi yang stabil dan memberi manfaat bagi masyarakat luas.
 
 ### 1. Kepentingan Pribadi sebagai Penggerak
 
