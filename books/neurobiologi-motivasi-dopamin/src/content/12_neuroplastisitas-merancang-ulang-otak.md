@@ -86,7 +86,7 @@ Untuk mempercepat perubahan otak, kamu bisa menggunakan bantuan biologis berikut
 2. **Latihan Aerobik:** Olahraga meningkatkan produksi **BDNF** (*Brain-Derived Neurotrophic Factor*). BDNF sering disebut sebagai "pupuk" bagi otak yang mempermudah pertumbuhan neuron baru.
 3. **Fokus Intens (*Deep Work*):** Neuroplastisitas pada orang dewasa memerlukan perhatian penuh. Saat kamu fokus secara intens, otak melepaskan asetilkolin yang menandai neuron mana yang harus berubah.
 
-### Menjadi Tuan atas Biologi Kamu
+### Kerusakan Akibat Dopamin Instan Tidak Permanen
 
 > Otak kamu bisa berubah secara sadar, sesuai keinginanmu sendiri.
 

@@ -56,7 +56,7 @@ Alasannya karena kedua hal tersebut mengandalkan **Variable Reward Schedule** (J
 
 ---
 
-### Aplikasi Dunia Nyata & Skenario
+### RPE dalam Kehidupan Sehari-hari
 
 #### 1. Pemasaran dan Kepuasan Pelanggan
 Sebuah perusahaan rintisan (*startup*) sering memberikan diskon besar-besaran di awal untuk memicu **Positive Prediction Error**. Namun, jika kualitas layanan justru merosot setelah promo berakhir, pelanggan mengalami **Negative Prediction Error** yang tajam hingga akhirnya pergi.

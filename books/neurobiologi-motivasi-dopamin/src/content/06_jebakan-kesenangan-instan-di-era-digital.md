@@ -4,7 +4,7 @@ Pernahkah kamu berniat membuka ponsel hanya untuk mengecek jam, namun tiba-tiba 
 
 Inilah era **Supernormal Stimuli**, masa ketika teknologi dan industri makanan memanfaatkan sirkuit purba di otak kita untuk mendapatkan perhatian dan kesenangan instan secara terus-menerus.
 
-## Evolusi vs. Revolusi Digital
+## Otak Pemburu-Pengumpul di Dunia Digital
 
 Otak manusia berevolusi di lingkungan yang langka sumber daya. Di masa lalu, mendapatkan makanan manis atau interaksi sosial adalah hal yang sulit dan membutuhkan usaha besar. Oleh karena itu, otak kita mengembangkan sistem motivasi yang sangat sensitif terhadap **imbalan (reward)**.
 
@@ -64,7 +64,7 @@ Di mana:
 
 *Coba renungkan: Semakin besar nilai $k$ (impulsivitas) seseorang akibat stimulasi digital berlebih, semakin kecil nilai imbalan masa depan di mata mereka.*
 
-## Mengenali "Zombie Mode"
+## Dampak Dopamin Empat Aktivitas Sehari-hari
 
 Mari kita lihat perbandingan antara perilaku sehat dan perilaku yang terjebak dalam stimulasi instan:
 
@@ -75,7 +75,7 @@ Mari kita lihat perbandingan antara perilaku sehat dan perilaku yang terjebak da
 | **Olahraga** | Membutuhkan usaha (*Pain-Pleasure Balance*) | Kesehatan & Mood stabil |
 | **Makan Junk Food** | Kesenangan instan tanpa usaha | Kelelahan & Masalah kesehatan |
 
-### Skenario Nyata
+### Satu Video Pendek Menjadi Dua Jam
 
 Budi ingin belajar untuk ujian besok (imbalan jangka panjang). Namun, ia melihat notifikasi YouTube. Ia mengklik satu video pendek (kesenangan instan). Dopamin melonjak. Setelah video berakhir, otaknya menginginkan lonjakan lagi. Dua jam berlalu, Budi merasa lelah dan bersalah. Inilah contoh nyata bagaimana sirkuit dopamin "membajak" niat logis Prefrontal Cortex.
 

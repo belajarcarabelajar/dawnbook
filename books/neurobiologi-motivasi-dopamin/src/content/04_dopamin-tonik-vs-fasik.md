@@ -116,7 +116,7 @@ Kopi meningkatkan dopamin secara fasik. Jika dikonsumsi berlebihan, otak akan me
 
 - **Strategi:** Gunakan *caffeine cycling* (istirahat konsumsi kopi secara periodik) untuk memulihkan baseline tonik.
 
-#### Maraton Media Sosial
+#### Berjam-jam di Media Sosial
 
 Scrolling TikTok atau Instagram memberikan rentetan dopamin fasik yang cepat. Hal ini menguras "cadangan" dopamin kamu. Itulah sebabnya setelah berjam-jam di media sosial, kamu merasa sangat sulit untuk mulai mengerjakan tugas yang membutuhkan fokus tinggi (seperti menulis laporan atau belajar).
 

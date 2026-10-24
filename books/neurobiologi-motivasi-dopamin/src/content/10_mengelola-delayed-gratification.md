@@ -76,7 +76,7 @@ Mari kita lihat bagaimana prinsip ini diterapkan dalam berbagai skenario kehidup
 | **Kesehatan** | Tidur larut malam menonton serial. | Tidur tepat waktu & bangun pagi untuk olahraga. | Energi tinggi, fokus tajam, dan umur panjang. |
 | **Karir/Studi** | Menunda tugas dengan *scrolling* TikTok. | Mengerjakan tugas tersulit di pagi hari. | Reputasi profesional & penguasaan *skill* baru. |
 
-## Strategi "The Joy of Progress"
+## Hadiah Kecil di Tengah Jalan
 
 Salah satu cara terbaik untuk bertahan dalam *delayed gratification* adalah dengan menemukan "hadiah kecil" di tengah jalan.
 

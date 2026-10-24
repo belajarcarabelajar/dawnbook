@@ -42,7 +42,7 @@ Saat kamu kurang tidur, masalah utamanya bukan hanya jumlah dopamin yang kamu mi
 
 > **Analogi:** Bayangkan dopamin adalah sinyal Wi-Fi dan reseptor adalah antena di ponsel kamu. Kurang tidur tidak selalu mematikan router Wi-Fi, tetapi mematahkan antena ponsel kamu. Sinyalnya ada, tetapi otak kamu tidak bisa menangkapnya.
 
-### Efek Domino Kurang Tidur
+### Tiga Dampak Kurang Tidur
 
 1. **Penurunan Motivasi:** Kamu tidak lagi merasa "terdorong" untuk mengejar tujuan sulit.
 2. **Pencarian Dopamin Murah:** Karena reseptor kamu kurang sensitif, otak kamu akan menuntut rangsangan yang lebih kuat (seperti gula, media sosial, atau kafein berlebih) hanya untuk merasa "normal".
@@ -87,7 +87,7 @@ Bagaimana kita menerapkan sains ini dalam kehidupan sehari-hari? Berikut adalah 
 | :--- | :--- | :--- |
 | **Pola Bangun & Layar** | Budi bangun jam 07.00 di kamar gelap, main Instagram 30 menit di bawah selimut. | Andi bangun jam 07.00, langsung jalan ke teras melihat langit 10 menit. |
 | **Menu Sarapan** | Donat dan kopi manis (gula tinggi). | Omelet telur (protein & tirosin tinggi). |
-| **Kondisi Biologis** | Cahaya biru malam menekan reseptor, lonjakan gula memicu *crash*. | Jam sirkadian terpicu sempurna, asam amino tersedia untuk sintesis. |
+| **Kondisi Biologis** | Cahaya biru malam menekan reseptor, lonjakan gula memicu *crash*. | Jam sirkadian terpicu, asam amino tersedia untuk sintesis. |
 | **Hasil Sepanjang Hari** | Lonjakan dopamin singkat diikuti *crash* jam 10.00 pagi, lemas & terdistraksi. | Energi & fokus stabil hingga sore hari tanpa bergantung stimulan instan. |
 
 > **Insight Utama:** Motivasi bukanlah sesuatu yang kamu "temukan" di dalam pikiran, melainkan sesuatu yang kamu "bangun" melalui interaksi tubuh kamu dengan lingkungan fisik. Perbaiki biologinya, maka psikologinya akan mengikuti.

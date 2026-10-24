@@ -6,7 +6,7 @@ Sistem ini bukanlah satu organ tunggal, melainkan jaringan dari berbagai struktu
 
 ---
 
-### Jalur Mesolimbik sebagai "Jalan Tol" Motivasi
+### Jalur Mesolimbik
 
 Sebelum membedah organ-organnya satu per satu, kita perlu mengenal **Jalur Mesolimbik**. Bayangkan ini sebagai jalan tol utama tempat pesan-pesan kimiawi, terutama **dopamin**, mengalir cepat untuk menggerakkan perilaku kita.
 
@@ -73,7 +73,7 @@ Selain tiga struktur utama di atas, terdapat beberapa komponen pendukung yang me
 
 ---
 
-### Penajaman dan "Hijacking" Otak
+### Mengapa Sulit Berhenti Menggulir Media Sosial
 
 Mengapa kita sering kali sulit berhenti menggulir media sosial meskipun menyadari ada tugas penting yang harus diselesaikan?
 
@@ -85,7 +85,7 @@ Mengapa kita sering kali sulit berhenti menggulir media sosial meskipun menyadar
 
 ---
 
-### Ringkasan Komponen Sistem Reward Otak
+### Tiga Komponen Utama Sistem Reward
 
 | Komponen Otak | Analogi Kendaraan | Fungsi Utama |
 | :--- | :--- | :--- |

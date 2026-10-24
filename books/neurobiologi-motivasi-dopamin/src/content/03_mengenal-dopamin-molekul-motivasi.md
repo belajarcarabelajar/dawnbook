@@ -38,7 +38,7 @@ $$
 
 Jika otak memprediksi bahwa suatu tindakan (misalnya belajar tekun untuk ujian minggu depan) akan menghasilkan imbalan yang bernilai tinggi, dopamin akan dilepaskan untuk membekali kamu dengan energi serta fokus yang dibutuhkan.
 
-### Tiga Peran Vital Dopamin dalam Pengejaran
+### Tiga Peran Dopamin dalam Pengejaran
 
 - **Arah:** Menentukan ke mana perhatian dan sumber daya mental kamu harus difokuskan.
 - **Intensitas:** Menentukan seberapa besar usaha serta daya juang yang akan kamu keluarkan.
@@ -64,7 +64,7 @@ Dalam eksperimen neurosains laboratorium, tikus yang kadar dopamin di otaknya di
 
 Memahami bahwa dopamin adalah molekul pengejaran akan mengubah caramu memandang produktivitas, kebiasaan, hingga prokrastinasi.
 
-### 1. Jebakan "The Chasing Game"
+### 1. Jebakan Notifikasi Media Sosial
 Desain aplikasi media sosial dan strategi pemasaran digital sengaja mengeksploitasi sirkuit ini. Notifikasi merah di layar ponsel kamu memicu lonjakan dopamin karena menawarkan potensi "informasi baru". Kamu membuka ponsel bukan selalu karena menikmati kontennya, melainkan karena otak kamu terdorong oleh *antisipasi* terhadap kejutan informasi tersebut.
 
 ### 2. Strategi Mengatasi Prokrastinasi

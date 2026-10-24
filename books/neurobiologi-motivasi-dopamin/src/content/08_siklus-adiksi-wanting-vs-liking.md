@@ -86,7 +86,7 @@ Memahami perbedaan ini adalah kunci untuk mendapatkan kembali kendali atas peril
 
 ---
 
-### Ringkasan Perbandingan Konsep
+### Empat Dimensi Wanting dan Liking
 
 | Dimensi Perbandingan | Wanting (Keinginan) | Liking (Kesenangan) |
 | :--- | :--- | :--- |

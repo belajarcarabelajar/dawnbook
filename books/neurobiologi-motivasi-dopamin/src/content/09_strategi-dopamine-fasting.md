@@ -6,7 +6,7 @@ Ini adalah tanda bahwa sistem *reward* (imbalan) kamu mengalami **downregulation
 
 ---
 
-### 1. Apa Itu Dopamine Fasting? (Menepis Mitos)
+### 1. Apa Itu Dopamine Fasting Sebenarnya?
 
 Sebelum masuk ke metode praktis, mari kita luruskan satu hal penting secara ilmiah: **kamu tidak bisa benar-benar "berpuasa" dari molekul dopamin.**
 
