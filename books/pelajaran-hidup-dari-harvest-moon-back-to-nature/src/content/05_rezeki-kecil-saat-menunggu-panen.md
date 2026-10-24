@@ -4,7 +4,7 @@ Pagi itu si petani muda mendaki Mother's Hill dengan tas kosong, sebab panen per
 
 Ia memetik rumput (*Grass*) dan buah beri di sepanjang jalan, lalu berhenti di dekat Hot Spring. Tanaman yang kemarin ia petik di sana sudah berdiri lagi, di titik yang sama persis. Ladang baru saja ditanami, dompet masih tipis, dan bukit ini diam-diam menawarkan sesuatu untuk dibawa pulang.
 
-### Bukit yang Tumbuh Lagi Setiap Pagi
+### Tanaman Liar yang Tumbuh Lagi Setiap Hari
 
 Di HM BTN, tanaman liar di Mother's Hill, di sisi Hot Spring, dan di sekitar rumah Gotz tumbuh kembali setiap hari, selalu di tempat yang sama. Harganya kecil. Rumput dan beri bisa langsung dimasukkan ke Harvest Bin dan diangkut Zack bersama hasil ladang, jadi tidak ada yang terbuang hanya karena nilainya receh.
 

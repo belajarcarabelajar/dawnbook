@@ -28,7 +28,7 @@ Ann, misalnya, berulang tahun tanggal 17 musim panas. Undangan pestanya datang l
 
 Rasanya akrab, bukan? Ucapan sederhana di hari ulang tahun terasa hangat justru karena datang tepat pada harinya.
 
-### Kaya yang Tidak Tercatat di Bank
+### Kekayaan yang Diukur dari Teman
 
 Nilai akhir 100 persen di HM BTN menuntut keseimbangan. Habiskan seluruh waktumu di ladang, dan hubunganmu dengan tetangga tidak akan pernah kuat. Habiskan seluruh waktumu untuk mengobrol, dan uang untuk meningkatkan alat dan bangunan serta membeli ternak tidak akan terkumpul.
 

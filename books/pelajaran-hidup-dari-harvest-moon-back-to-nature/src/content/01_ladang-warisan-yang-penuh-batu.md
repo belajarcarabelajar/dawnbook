@@ -6,7 +6,7 @@ Namanya Harvest Moon: Back to Nature, buatan Victor Interactive Software, dan Na
 
 Tiga belas bab di buku ini masing-masing mengambil satu mekanik gim dan memasangkannya dengan satu pelajaran hidup. Gimnya hanya kacamata, pelajarannya yang jadi pokok. Fakta tentang gim bersandar pada panduan resmi Prima karya Debra McBride dan David Cassady (2000), sedangkan pelajarannya bersandar pada sumber yang disebut di tiap bab.
 
-### Ladang yang Menolak Dicangkul
+### Ladang yang Belum Bisa Dicangkul
 
 Hari pertama di HM BTN dibuka dengan pemandangan yang membuat bahu turun. Ladang warisan itu tertutup rumput liar, batu, dahan, dan tunggul, dan tanah di bawahnya tidak bisa dicangkul sebelum semua itu disingkirkan. Bekalmu hanya sabit untuk rumput, palu untuk batu, dan kapak untuk dahan. Tunggul besar dan batu besar terlalu kuat untuk alat seadanya itu, jadi mereka dibiarkan berdiri dulu.
 
@@ -32,7 +32,7 @@ Weick pernah menulis tentang kebuntuan semacam ini, meski untuk skala yang jauh 
 
 Ini argumen konseptual tentang masalah sosial, jadi membawanya ke target pribadi adalah perluasan kita sendiri, bukan klaim Weick. Gambarannya masih pas: petak 13 x 13 yang sudah bersih adalah hasil konkret, bukan rencana.
 
-### Kemajuan yang Terasa di Hati
+### Kemajuan Kecil dalam Catatan Harian
 
 Teresa Amabile dan Steven Kramer mendekati soal ini dari arah lain. Mereka membaca catatan harian para pekerja di tim-tim kreatif ([Amabile dan Kramer, 2011](https://hbr.org/2011/05/the-power-of-small-wins)) dan menemukan bahwa tidak ada yang lebih berkaitan dengan suasana batin yang baik daripada membuat kemajuan dalam pekerjaan yang bermakna. Langkah maju yang kecil ikut terhitung, sedangkan kemunduran kecil berkaitan dengan hari yang terasa sangat buruk. Datanya berupa laporan diri dan analisisnya korelasional, jadi temuan ini baru sebatas keterkaitan, belum sebab-akibat.
 
