@@ -10,7 +10,7 @@ Kesenjangan modal manusia terjadi ketika individu atau kelompok tidak memiliki k
 
 > "Rendahnya investasi pada modal manusia menyebabkan produktivitas rendah, yang berujung pada pendapatan rendah, yang pada akhirnya membatasi kemampuan untuk berinvestasi pada modal manusia di masa depan."
 
-### Perpustakaan vs. Gudang Kosong
+### Dua Anak dengan Potensi yang Sama
 
 Bayangkan dua orang anak dengan potensi kecerdasan yang sama.
 
@@ -23,7 +23,7 @@ Meskipun keduanya memiliki "kapasitas otak" awal yang sama, **investasi** yang m
 | :--- | :--- | :--- | :--- |
 | **Fasilitas Belajar** | Perpustakaan lengkap & internet serat optik | Tanpa buku & internet tidak stabil | Perbedaan kapasitas literasi & teknologi |
 | **Asupan Nutrisi** | Protein tinggi & gizi seimbang | Gizi buruk (berisiko stunting) | Perbedaan daya tahan & perkembangan kognitif |
-| **Hasil Produktivitas** | Penguasaan keterampilan tinggi | Keterampilan dasar & terbatas | Upah kerja (*earnings*) berbeda eksponensial |
+| **Hasil Produktivitas** | Penguasaan keterampilan tinggi | Keterampilan dasar & terbatas | Upah kerja (*earnings*) berbeda jauh |
 
 ## 2. Kualitas Pendidikan di Atas Kuantitas
 
@@ -52,7 +52,7 @@ $$
 
 Jika kelompok mampu memiliki $q$ yang jauh lebih besar daripada kelompok kurang mampu, maka meskipun nilai $s$ (tahun sekolah) mereka sama, pendapatan $Y$ mereka akan menunjukkan perbedaan yang eksponensial.
 
-## 3. Kesehatan sebagai Fondasi Tersembunyi Produktivitas
+## 3. Kesehatan Menopang Produktivitas
 
 Kesehatan sering kali diabaikan dalam diskusi modal manusia, padahal ia adalah dasar dari segala bentuk pembelajaran.
 
@@ -69,7 +69,7 @@ Dampaknya bagi wilayah asal:
 2. Menurunnya insentif bagi perusahaan untuk berinvestasi di daerah tersebut karena kurangnya talenta.
 3. Melebarnya kesenjangan PDB antar wilayah.
 
-## 5. Warisan Tak Terlihat dalam Transmisi Intergenerasi
+## 5. Pewarisan Modal Manusia Antargenerasi
 
 Kesenjangan modal manusia cenderung bersifat turun-temurun. Orang tua yang memiliki modal manusia tinggi tidak hanya mewariskan uang, tetapi juga **Cultural Capital** (Modal Budaya).
 

@@ -55,7 +55,7 @@ Meski sering digunakan secara bergantian, keduanya memiliki sudut pandang dan ak
 - **Signaling (Pemberian Sinyal):** Berfokus pada tindakan **individu (pelamar)**. Individu berinvestasi dalam pendidikan untuk memberi sinyal kualitas mereka kepada pasar kerja demi mengatasi *information asymmetry*.
 - **Screening (Penyaringan):** Berfokus pada tindakan **perusahaan (pemberi kerja)**. Perusahaan menggunakan kriteria pendidikan sebagai alat untuk menyaring dan mengelompokkan pelamar ke dalam kategori produktivitas tanpa harus melakukan tes individual yang mahal.
 
-### 6. Aplikasi Dunia Nyata dan Skenario
+### 6. Sinyal Ijazah di Pasar Kerja
 
 #### Rekrutmen Perusahaan Konsultan Manajemen
 

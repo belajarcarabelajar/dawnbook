@@ -68,7 +68,7 @@ Seorang pengembang perangkat lunak yang memanfaatkan kecerdasan buatan pembantu 
 | **Tradisional** | Menulis kode perhitungan secara manual | - |
 | **Era AI** | Berperan sebagai *System Architect*: mengarahkan logika bisnis dan pengujian keamanan, menetapkan parameter etis, serta menafsirkan hasil | Menghasilkan kode dasar (*boilerplate*) dan membantu menangani algoritma serta optimasi |
 
-### 5. Aplikasi Dunia Nyata & Kasus Penggunaan
+### 5. Perubahan di Perbankan dan Industri Kreatif
 
 - **Sektor Perbankan dan Keuangan**: Dahulu, modal manusia utama perbankan berpusat pada petugas *teller* untuk transaksi kasian dan administrasi fisik. Saat ini, perbankan bertransformasi menjadi lembaga keuangan berbasis teknologi. Bank dialokasikan untuk merekrut *Data Scientist* dan memfasilitasi *reskilling* pegawai lama menjadi konsultan keuangan pribadi, beralih dari fungsi transaksional ke layanan relasional bernilai tambah tinggi.
 - **Industri Kreatif dan Desain**: Desainer grafis mengintegrasikan kecerdasan buatan generatif (*Generative AI*) untuk pembuatan draf visual awal. Alur kerja yang sebelumnya membutuhkan 10 jam untuk satu ilustrasi manual kini bergeser menjadi 1 jam penyusunan *prompt* dan 2 jam kurasi artistik. Modal manusia desainer berpindah dari kecepatan teknis mengeksekusi gambar menuju visi estetika dan pengarahan kreatif.
@@ -82,7 +82,7 @@ Penerapan teori modal manusia pada era digital juga dihadapkan pada tantangan ke
 
 > Teknologi merupakan instrumen produktivitas, sedangkan modal manusia adalah penggerak utamanya. Pada era kecerdasan buatan, pengembangan modal manusia menuntut proses belajar sepanjang hidup.
 
-### Ringkasan Materi
+### Poin Kunci
 
 1. **Prinsip Augmentasi**: Kecerdasan buatan berfungsi sebagai mitra peningkatan produktivitas yang membutuhkan pembentukan alur kerja baru.
 2. **Keterampilan Non-Rutin**: Kemampuan kognitif tingkat tinggi, kreativitas, dan kecerdasan sosial memiliki tingkat ketahanan tertinggi terhadap otomasi.

@@ -48,7 +48,7 @@ Teori Pertumbuhan Endogen yang dikembangkan pada akhir 1980-an membantah asumsi 
 
 ---
 
-### 2. Mekanisme Pengetahuan Sebagai Mesin Ekonomi
+### 2. Dua Jalur Pengetahuan Mendorong Ekonomi
 
 Terdapat dua jalur utama bagaimana akumulasi **Human Capital** mendorong peningkatan Produk Domestik Bruto (PDB) nasional:
 
@@ -154,6 +154,6 @@ Meskipun **Human Capital** menjadi pendorong utama pertumbuhan jangka panjang, t
 
 ---
 
-### Kesimpulan untuk Masa Depan
+### Benang Merah
 
 Dalam era ekonomi digital global, daya saing suatu bangsa tidak lagi diukur dari cadangan minyak atau mineral di dalam bumi, melainkan dari **kapasitas pembelajaran kolektif** dan adaptabilitas masyarakatnya. Negara yang mengabaikan pengembangan kapasitas manusia akan mengalami stagnasi, sementara negara yang memprioritaskan investasi **Human Capital** akan memimpin pertumbuhan ekonomi masa depan.

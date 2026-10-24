@@ -6,7 +6,7 @@ Bayangkan diri kamu sebagai sebuah perangkat lunak (*software*). Pendidikan form
 
 ---
 
-### 1. Pendidikan Formal Menjadi Fondasi Utama
+### 1. Pendidikan Formal
 
 Pendidikan formal adalah bentuk investasi modal manusia yang paling terlihat dan terstruktur. Ini mencakup alur pembelajaran dari sekolah dasar hingga perguruan tinggi (*higher education*).
 
@@ -151,7 +151,7 @@ Berdasarkan perhitungan tersebut, modal investasi dapat kembali (*Break-Even Poi
 
 ---
 
-### Ringkasan Sintesis
+### Intisari
 
 - **Pendidikan Formal:** Membangun kerangka berpikir analitis dan fondasi kognitif jangka panjang.
 - **Pelatihan Teknis:** Mempertajam spesialisasi dan adaptabilitas terhadap dinamika industri.

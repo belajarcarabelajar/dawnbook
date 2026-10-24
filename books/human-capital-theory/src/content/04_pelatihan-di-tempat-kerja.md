@@ -116,7 +116,7 @@ $$
 $$
 </div>
 
-#### Ringkasan Komparatif Pelatihan Umum vs Spesifik
+#### Perbandingan Pelatihan Umum vs Spesifik
 
 | Dimensi Evaluasi | Pelatihan Umum (*General Training*) | Pelatihan Spesifik (*Specific Training*) |
 | :--- | :--- | :--- |

@@ -61,7 +61,7 @@ Berikut adalah perbandingan karakteristik, efisiensi, dan risiko dari masing-mas
 
 | Instrumen Kebijakan | Landasan Ekonomi (*Economic Rationale*) | Target Sasaran | Keunggulan Utama | Risiko & Potensi Hambatan |
 | :--- | :--- | :--- | :--- | :--- |
-| **Direct Provision** | Menjamin aksesibilitas dasar dan standar kualitas minimum | Seluruh lapisan masyarakat | Pemerataan akses pendidikan secara masif | Biaya operasional tinggi dan potensi inefisiensi birokrasi |
+| **Direct Provision** | Menjamin aksesibilitas dasar dan standar kualitas minimum | Seluruh lapisan masyarakat | Pemerataan akses pendidikan secara luas | Biaya operasional tinggi dan potensi inefisiensi birokrasi |
 | **Beasiswa & Hibah** | Mengatasi *Credit Market Constraint* | Siswa berprestasi & keluarga prasejahtera | Mendorong mobilitas sosial vertikal | Potensi *Deadweight Loss* jika sasaran kurang tepat |
 | **Super Tax Deduction** | Internalisasi *Positive Externalities* perusahaan | Sektor industri & manufaktur | Mendorong keterlibatan aktif dunia usaha | Manfaat cenderung lebih banyak dinikmati perusahaan besar |
 | **Voucher Pelatihan** | Mengurangi *Information Asymmetry* & persaingan pasar | Pencari kerja & pekerja *entry-level* | Pilihan fleksibel bagi penerima manfaat | Risiko kualitas penyedia pelatihan yang bervariasi |

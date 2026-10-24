@@ -33,7 +33,7 @@ Biaya langsung mencakup seluruh pengeluaran riil yang keluar dari dompetmu:
 - **Bahan Ajar:** Buku teks, perangkat lunak khusus, dan peralatan laboratorium.
 - **Biaya Administrasi:** Pendaftaran, ujian, dan ijazah.
 
-#### Biaya Peluang (*Opportunity Costs*) sebagai "Si Pencuri Tak Terlihat"
+#### Biaya Peluang (*Opportunity Costs*)
 
 Biaya peluang merupakan komponen yang paling sering diabaikan, padahal nilainya kerap menjadi **biaya terbesar** dalam keputusan pendidikan. **Biaya peluang** (*opportunity cost*) adalah potensi pendapatan yang *seharusnya* kamu terima jika kamu memilih untuk bekerja penuh waktu daripada bersekolah.
 
