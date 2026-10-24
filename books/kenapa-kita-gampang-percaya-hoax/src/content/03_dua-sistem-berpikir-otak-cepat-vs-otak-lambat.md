@@ -6,7 +6,7 @@ Coba jawab cepat, tanpa menghitung di kertas:
 
 Kalau otakmu langsung menjawab **Rp1.000**, kamu baru saja mengalami sendiri apa yang akan kita bahas sepanjang bab ini. Jawaban itu muncul begitu saja, terasa benar, dan hampir tanpa usaha. Sayangnya, jawaban itu salah. Kita akan kembali ke soal ini nanti. Untuk sekarang, tahan dulu penasaranmu, karena dorongan menjawab cepat itulah pintu masuk untuk memahami kenapa hoaks begitu mudah menyusup ke kepala kita.
 
-### Dua mesin di dalam satu kepala
+### Teori dua proses
 
 Psikolog dan peraih Nobel Daniel Kahneman, dalam bukunya *Thinking, Fast and Slow* (2011), memopulerkan gagasan bahwa cara kita berpikir bisa dibayangkan sebagai kerja dua sistem. Gagasan serupa juga dirumuskan secara akademis oleh Evans dan Stanovich (2013). Keduanya menyebutnya **dual-process theory**, teori dua proses.
 

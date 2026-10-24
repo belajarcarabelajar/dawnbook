@@ -4,7 +4,7 @@ Sejauh ini kita membahas apa yang terjadi di dalam kepala: bias konfirmasi, efek
 
 Bab ini bukan tentang menyalahkan teknologi seolah dia jahat. Justru sebaliknya. Yang berbahaya adalah cara pikiran manusia dan desain platform saling mengunci, saling menguatkan, sampai keduanya sulit dipisahkan.
 
-### Algoritma tidak dibayar untuk jujur
+### Algoritma yang membuatmu bertahan lebih lama
 
 Beranda media sosial kamu bukan urutan waktu apa adanya. Ia disusun oleh algoritma rekomendasi yang punya satu misi utama: membuat kamu bertahan lebih lama. Metriknya konkret dan bisa diukur:
 

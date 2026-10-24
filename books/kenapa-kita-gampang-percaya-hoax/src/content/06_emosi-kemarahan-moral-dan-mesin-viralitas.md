@@ -1,4 +1,4 @@
-## Emosi, Kemarahan Moral, dan Mesin Viralitas
+## Emosi, Kemarahan Moral, dan Viralitas
 
 Coba ingat kapan terakhir kamu membagikan sesuatu di media sosial hampir tanpa berpikir. Kemungkinan besar itu bukan artikel netral yang datar, tapi sesuatu yang memancing perasaanmu: ketidakadilan, perilaku menjijikkan, ancaman, atau kabar yang bikin berdecak kagum. Emosi mendorong penyebaran, dan pembuat hoaks tahu cara memanfaatkannya. Kalau modul sebelumnya soal jalan pintas berpikir, modul ini masuk ke sisi yang lebih panas: bagaimana perasaan, bukan fakta, sering menentukan apa yang kita sebarkan.
 

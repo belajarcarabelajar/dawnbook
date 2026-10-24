@@ -4,7 +4,7 @@ Otak kamu tidak punya waktu untuk menimbang setiap informasi yang lewat dengan t
 
 Di bab ini kamu akan berkenalan dengan cara otakmu mengambil keputusan cepat, dan kenapa cara yang sama yang membuatmu efisien juga membuatmu rentan.
 
-### Heuristik sebagai jalan pintas yang berguna tapi bocor
+### Heuristik dan keputusan cepat
 
 Pada 1974, dua psikolog, **Amos Tversky** dan **Daniel Kahneman**, menunjukkan bahwa manusia jarang berpikir seperti kalkulator statistik. Sebaliknya, kita mengandalkan **heuristik**, yaitu aturan praktis yang menyederhanakan penilaian rumit menjadi keputusan cepat.
 
@@ -25,7 +25,7 @@ Lihat pola ini dalam keseharian:
 
 Hoaks yang "sesuai selera" adalah yang paling gampang menyebar, karena ia tidak menantang keyakinanmu, ia **memeluknya**. Kamu tidak merasa sedang ditipu. Kamu merasa sedang dibenarkan. Inilah kenapa hoaks politik, hoaks kesehatan, dan hoaks berbau kelompok mudah lengket: mereka membidik keyakinan yang sudah ada, bukan menciptakan keyakinan baru.
 
-### Heuristik ketersediaan saat yang mudah teringat terasa lebih benar
+### Heuristik ketersediaan
 
 **Heuristik ketersediaan** (*availability heuristic*) membuat kamu menilai sesuatu lebih mungkin terjadi atau lebih benar kalau contohnya **mudah muncul di kepala**.
 
@@ -49,7 +49,7 @@ Pesan yang ditulis dengan kalimat sederhana, font yang jelas, nama yang gampang 
 
 Karena itu hoaks yang bagus jarang bertele-tele. Ia ringkas, bombastis, dan enak dibaca sekali lewat. Kelancaran membacamu disalahartikan otak sebagai kelayakan untuk dipercaya.
 
-### Bagaimana hoaks membajak tiap bias
+### Bagaimana hoaks memanfaatkan tiap bias
 
 | Bias / Heuristik | Definisi singkat | Bagaimana hoaks mengeksploitasinya |
 | --- | --- | --- |

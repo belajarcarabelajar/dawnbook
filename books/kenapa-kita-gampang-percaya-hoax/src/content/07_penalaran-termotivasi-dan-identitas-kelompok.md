@@ -38,7 +38,7 @@ Riset Antoine Marie, Michael Bang Petersen, dan kolega menyoroti **myside sharin
 
 Orang tidak selalu membagikan hoaks karena tertipu; kadang karena isinya "menyerang lawan" atau "membela pihak kita", dan benar-tidaknya jadi urusan nomor dua. Berbagi di sini berfungsi seperti bendera: penanda kamu ada di tim mana, bukan penyampai informasi akurat.
 
-### Sebuah Nuansa yang Jujur
+### Perdebatan soal Peran Identitas
 
 Kita harus berhati-hati: ada perdebatan ilmiah sehat soal seberapa besar peran identitas. Peneliti seperti Gordon Pennycook dan David Rand berargumen bahwa **untuk kebanyakan orang**, penyebab utama percaya hoaks bukan motivasi kelompok, melainkan kurangnya refleksi: berpikir terlalu cepat dan malas mengecek, seperti dibahas di modul soal dua sistem berpikir. Mereka termakan hoaks bukan karena membela timnya, tapi karena tidak berhenti sejenak untuk menimbang.
 

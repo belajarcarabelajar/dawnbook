@@ -14,7 +14,7 @@ Kenapa pengulangan bisa menipu? Kuncinya ada pada **kefasihan pemrosesan** (*pro
 
 Lompatan ini masuk akal sehari-hari, karena hal yang benar memang cenderung lebih sering kita temui. Tapi begitu ada pihak yang sengaja mengulang-ulang kebohongan, jalan pintas ini berbalik menyerangmu. Otak salah membaca **"mudah" dan "familiar" sebagai "benar"**.
 
-### Efek ini bandel, dan itu yang bikin ngeri
+### Kenapa efek ini sulit dilawan
 
 Yang membuat efek ini berbahaya bukan cuma keberadaannya, tapi sulitnya ia dilawan.
 
@@ -65,7 +65,7 @@ Taktiknya sederhana: sebut sesuatu berulang-ulang sampai ia terasa seperti keben
 
 Efek ini **bukan** sesuatu yang dalam sekejap mengubah orang dari yakin salah menjadi yakin benar. Dirangkum dari puluhan studi, efeknya tergolong kecil sampai sedang untuk sekali putaran. Tapi jangan tertipu kata "kecil". Yang membuatnya berbahaya adalah **konsistensinya**: efek ini muncul berulang lintas puluhan penelitian, lintas topik, lintas jenis orang. Efek kecil yang bekerja terus-menerus, dikalikan jutaan paparan di lini masa media sosial, menjadi pengaruh yang besar. Kalau besar dorongan itu $d$ per paparan dan paparan terjadi $n$ kali, total dorongannya bergerak seiring $n$. Angka pastinya bukan intinya; yang kecil, kalau diulang cukup sering, menjadi besar.
 
-### Ada celah harapan
+### Dua cara menekan efek ini
 
 Kabar baiknya, efek ini bukan takdir. Ada dua hal yang terbukti menekannya, dan keduanya jadi jembatan ke bab pertahanan.
 
