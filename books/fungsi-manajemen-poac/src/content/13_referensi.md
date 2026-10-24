@@ -26,4 +26,4 @@ Nurhikmah, N. (2024). Educational management functions: Planning, organizing, ac
 
 Robbins, S. P., & Coulter, M. (2021). *Management* (edisi ke-15). Pearson.
 
-Terry, G. R. (1956). *Principles of management*. Richard D. Irwin.
+Terry, G. R. (1972). *Principles of management* (edisi ke-6). Richard D. Irwin. [https://openlibrary.org/books/OL13797349M](https://openlibrary.org/books/OL13797349M)
