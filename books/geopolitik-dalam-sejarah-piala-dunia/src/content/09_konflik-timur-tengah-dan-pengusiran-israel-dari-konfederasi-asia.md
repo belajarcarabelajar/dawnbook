@@ -1,6 +1,6 @@
 ## Konflik Timur Tengah dan Pengusiran Israel dari Konfederasi Asia
 
-Sepak bola sering kali dianggap sebagai "bahasa universal", namun sejarah menunjukkan bahwa politik sering kali menjadi tembok yang tidak bisa ditembus oleh si kulit bundar. Salah satu fragmen paling dramatis dalam sejarah geopolitik sepak bola adalah perjalanan Tim Nasional Israel.
+Sepak bola sering kali dianggap "bahasa universal", namun sejarah menunjukkan politik kerap menjadi tembok yang tak tertembus si kulit bundar. Salah satu fragmen paling dramatis dalam sejarah geopolitik sepak bola adalah perjalanan Tim Nasional Israel.
 
 Bagaimana mungkin sebuah negara yang secara geografis terletak di jantung Asia harus bertanding memperebutkan tiket Piala Dunia melawan negara-negara seperti Inggris, Spanyol, dan Jerman di Eropa? Jawabannya ada pada ruang-ruang diplomasi dan konflik bersenjata di Timur Tengah, bukan di atas rumput hijau.
 
