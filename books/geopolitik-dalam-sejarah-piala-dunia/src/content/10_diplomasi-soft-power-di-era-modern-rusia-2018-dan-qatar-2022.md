@@ -40,7 +40,7 @@ Pada tahun 2018, Rusia berada dalam posisi yang sulit di panggung diplomatik. Se
 
 ## 3. Qatar 2022 demi Eksistensi dan Visi 2030
 
-Penyelenggaraan di Qatar pada tahun 2022 menjadi proyek kekuatan lunak yang sangat ambisius. Bagi negara kecil dengan jumlah warga asli yang relatif sedikit, menjadi tuan rumah Piala Dunia merupakan langkah strategis demi menjaga kelangsungan hidup (**survival**) negara.
+Penyelenggaraan di Qatar pada tahun 2022 menjadi proyek kekuatan lunak yang ambisius. Bagi negara kecil dengan jumlah warga asli yang relatif sedikit, menjadi tuan rumah Piala Dunia merupakan langkah strategis demi menjaga kelangsungan hidup (**survival**) negara.
 
 ### Mengapa Qatar Berinvestasi 220 Miliar Dolar AS?
 
@@ -48,7 +48,7 @@ Bagi Qatar yang mungil, memiliki pengaruh dan dikenal luas di tingkat global ada
 
 ### Tantangan dan Kontroversi
 
-Qatar menghadapi gelombang penolakan dan kritik keras yang belum pernah terjadi sebelumnya terkait beberapa hal:
+Qatar menghadapi penolakan dan kritik keras terkait beberapa hal:
 
 1. **Sistem Kafala**: Persoalan seputar hak-hak pekerja migran yang memicu kritik internasional.
 2. **Hak LGBTQ+**: Terjadinya benturan antara nilai-nilai lokal yang konservatif dengan standar hak asasi global.
@@ -56,16 +56,16 @@ Qatar menghadapi gelombang penolakan dan kritik keras yang belum pernah terjadi 
 
 ### Strategi Menyajikan Turnamen Terbaik
 
-Pemerintah Qatar menjawab segala kritik tersebut dengan menunjukkan tata kelola turnamen yang rapi. Mereka membangun kota baru (Lusail), jaringan metro super cepat, serta merancang jarak antardua stadion yang dekat sehingga memudahkan mobilisasi penonton sepanjang kejuaraan berlangsung.
+Pemerintah Qatar menjawab segala kritik tersebut dengan menunjukkan tata kelola turnamen yang rapi. Mereka membangun kota baru (Lusail), jaringan metro, serta merancang jarak antardua stadion yang dekat sehingga memudahkan mobilisasi penonton sepanjang kejuaraan berlangsung.
 
-> **Wawasan:** Qatar tidak berusaha meniru gaya hidup Barat. Mereka memanfaatkan Piala Dunia untuk membuktikan bahwa dunia Arab sanggup menjadi pusat peradaban modern tanpa harus menanggalkan nilai-nilai tradisional dan budaya mereka.
+> **Wawasan:** Qatar tidak berusaha meniru gaya hidup Barat. Mereka memanfaatkan Piala Dunia untuk membuktikan bahwa negara Arab sanggup menyelenggarakan turnamen global modern tanpa harus menanggalkan nilai-nilai tradisional dan budaya mereka.
 
 ## 4. Apakah Sportswashing Berhasil?
 
-Pertanyaan besarnya adalah: *Apakah investasi yang bernilai fantastis ini benar-benar mampu membalikkan sudut pandang publik?*
+Pertanyaan besarnya adalah: *Apakah investasi sebesar ini benar-benar mampu membalikkan sudut pandang publik?*
 
 - **Dampak Positif**: Terjadi lompatan besar dalam nilai merek (brand value) negara penyelenggara. Pengunjung yang datang langsung biasanya membawa pulang kesan yang jauh lebih baik dibandingkan mereka yang hanya memantau dari kejauhan lewat media.
-- **Efek Bumerang (The Streisand Effect)**: Sering kali, upaya menutupi masalah dalam negeri justru membuat sorotan publik makin tajam. Sebagai contoh, masalah hak pekerja di Qatar baru mendapat perhatian global yang luar biasa besar justru setelah negara itu menjadi tuan rumah Piala Dunia.
+- **Efek Bumerang (The Streisand Effect)**: Sering kali, upaya menutupi masalah dalam negeri justru membuat sorotan publik makin tajam. Sebagai contoh, masalah hak pekerja di Qatar baru mendapat perhatian global yang besar justru setelah negara itu menjadi tuan rumah Piala Dunia.
 
 Jika Qatar tidak pernah menjadi tuan rumah Piala Dunia, apakah kamu akan pernah mendengar atau menaruh perhatian pada isu sistem 'Kafala' di Timur Tengah?
 

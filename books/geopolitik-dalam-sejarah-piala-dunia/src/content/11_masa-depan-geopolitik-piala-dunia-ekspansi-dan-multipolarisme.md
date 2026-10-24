@@ -73,7 +73,7 @@ Arab Saudi kini berdiri sebagai satu-satunya kandidat tuan rumah untuk Piala Dun
 
 - **Strategi:** Menjadikan sepak bola sebagai pilar utama "Vision 2030" guna mentransformasi citra negara secara global.
 - **Multipolarisme:** Langkah ini membuktikan bahwa kendali kekuatan sepak bola tidak lagi memerlukan persetujuan tradisional dari negara-negara Barat.
-- **Teknologi dan Inovasi:** Pembangunan stadion masa depan di kawasan NEOM menyatukan kecanggihan teknologi dengan pesan politik tentang masa depan peradaban.
+- **Teknologi dan Inovasi:** Pembangunan stadion di kawasan NEOM memadukan teknologi canggih dengan pesan politik tentang masa depan.
 
 *Langkah Arab Saudi ini searah dengan pergeseran multipolar di bagian 3: peta kekuatan yang dulu terpusat di Eropa dan Amerika Selatan mulai menyebar ke Asia, Timur Tengah, dan Afrika.*
 
@@ -81,6 +81,6 @@ Arab Saudi kini berdiri sebagai satu-satunya kandidat tuan rumah untuk Piala Dun
 
 Masa depan turnamen ini bertumpu pada **skala dan konektivitas**. Perkembangan dari 13 tim di Uruguay hingga mencapai 48 tim di Amerika Utara mencerminkan bagaimana hubungan antarbangsa berevolusi dari sekat-sekat isolasi menuju jaringan global yang rumit.
 
-Piala Dunia telah tumbuh melampaui turnamen biasa; ajang ini kini menyerupai **PBB yang memegang kendali bola**. Memahami pergolakan geopolitik di belakangnya membantu kita memetakan arah pergeseran kekuasaan dunia di masa mendatang.
+Piala Dunia kini lebih dari sekadar turnamen; ajang ini menjadi **forum antarbangsa**. Memahami pergolakan geopolitik di belakangnya membantu kita memetakan arah pergeseran kekuasaan dunia di masa mendatang.
 
-> **Catatan Penutup:** Di tengah dunia yang kerap terbelah oleh kepentingan politik, lapangan hijau menjadi ruang unik tempat 48 negara tetap sepakat mematuhi aturan main yang sama. Di sanalah letak kekuatan diplomasi sepak bola yang sesungguhnya.
+> **Catatan Penutup:** Di tengah dunia yang kerap terbelah oleh kepentingan politik, lapangan hijau menjadi ruang tempat 48 negara tetap sepakat mematuhi aturan main yang sama. Dari situ diplomasi sepak bola mendapatkan kekuatannya.

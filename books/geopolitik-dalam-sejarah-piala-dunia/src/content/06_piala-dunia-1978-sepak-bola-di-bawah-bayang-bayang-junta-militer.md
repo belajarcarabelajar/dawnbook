@@ -20,11 +20,11 @@ Di balik nama yang terdengar administratif ini, tersembunyi kampanye penindasan 
 
 ## 2. Sepak Bola sebagai Alat "Sportswashing"
 
-Meskipun istilah *sportswashing* (pencucian citra melalui olahraga) baru populer belakangan ini, Jenderal Videla adalah salah satu praktisi paling ulung di abad ke-20.
+Meskipun istilah *sportswashing* (pencucian citra melalui olahraga) baru populer belakangan ini, Jenderal Videla sudah mempraktikkannya.
 
 **Analogi "Mengecat Rumah yang Terbakar"**
 
-> Bayangkan sebuah rumah yang struktur fondasinya sedang terbakar hebat dan penghuninya sedang disiksa di ruang bawah tanah. Alih-alih memadamkan api, sang pemilik rumah justru mengecat dinding luar dengan warna emas yang berkilau dan mengundang seluruh tetangga untuk berpesta di halaman depan agar tidak ada yang melihat asap keluar dari jendela. Itulah Piala Dunia 1978 bagi Junta Militer Argentina.
+> Bayangkan sebuah rumah yang fondasinya sedang terbakar dan penghuninya sedang disiksa di ruang bawah tanah. Alih-alih memadamkan api, sang pemilik rumah justru mengecat dinding luar dan mengundang seluruh tetangga untuk berpesta di halaman depan agar tidak ada yang melihat asap keluar dari jendela. Itulah Piala Dunia 1978 bagi Junta Militer Argentina.
 
 ### Strategi Propaganda Rezim
 
@@ -34,7 +34,7 @@ Meskipun istilah *sportswashing* (pencucian citra melalui olahraga) baru populer
 
 ## 3. Kemenangan Argentina yang "Diatur"?
 
-Puncak kontroversi terjadi pada babak grup kedua. Argentina harus mengalahkan Peru dengan selisih minimal **4 gol** untuk melaju ke final, menggeser rival abadi mereka, Brasil.
+Puncak kontroversi terjadi pada babak grup kedua. Argentina harus mengalahkan Peru dengan selisih minimal **4 gol** untuk melaju ke final, menggeser rival mereka, Brasil.
 
 **Hasil Akhir:** Argentina menang telak **6-0**.
 

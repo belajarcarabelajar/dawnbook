@@ -6,7 +6,7 @@ Sejak peluit pertama dibunyikan di Uruguay pada tahun 1930, Piala Dunia FIFA ber
 
 ## Melampaui Batas Lapangan
 
-George Orwell pernah menyebut olahraga internasional sebagai "perang tanpa tembakan". Sudut pandang ini sangat relevan dalam geopolitik, di mana Piala Dunia menjadi instrumen kekuatan lunak (*soft power*) yang luar biasa efektif. Berbeda dari kekuatan militer atau ekonomi (*hard power*) yang sifatnya memaksa, *soft power* bekerja dengan cara memikat dan memengaruhi masyarakat global lewat budaya, nilai, serta olahraga.
+George Orwell pernah menyebut olahraga internasional sebagai "perang tanpa tembakan". Sudut pandang ini sangat relevan dalam geopolitik, di mana Piala Dunia menjadi instrumen kekuatan lunak (*soft power*) yang efektif. Berbeda dari kekuatan militer atau ekonomi (*hard power*) yang sifatnya memaksa, *soft power* bekerja dengan cara memikat dan memengaruhi masyarakat global lewat budaya, nilai, serta olahraga.
 
 ### Mengapa Geopolitik Melekat pada Piala Dunia?
 
@@ -76,16 +76,16 @@ Meskipun kontribusi prestasi olahraga $S$ tampak kecil dibandingkan dengan kekua
 
 Di bagian-bagian selanjutnya buku ini, kita akan membedah bagaimana teori-teori ini terwujud dalam catatan sejarah. Kita akan melihat secara langsung bagaimana:
 
-- Para diktator menggunakan sorak-sorai di stadion untuk meredam jeritan di penjara politik.
+- Para diktator menggunakan sorak-sorai di stadion untuk mengalihkan perhatian dari para tahanan politik.
 - Benua yang terpinggirkan melakukan aksi boikot demi menuntut keadilan olahraga.
-- Runtuhnya tembok ideologi mengubah peta kompetisi sepak bola global selamanya.
+- Runtuhnya Blok Timur mengubah peta kompetisi sepak bola global.
 
 Bagaimana jika FIFA mengumumkan bahwa semua pertandingan sepak bola internasional dilarang mulai besok pagi? Apakah ketegangan antarnegara akan mereda, atau dunia justru kehilangan salah satu saluran komunikasi terbesarnya?
 
 **Poin Penting untuk Diingat:**
 
-- Olahraga ini bekerja sebagai instrumen kekuatan lunak (*soft power*) yang sangat ampuh.
+- Olahraga ini bekerja sebagai instrumen kekuatan lunak (*soft power*) yang ampuh.
 - Piala Dunia bertindak sebagai panggung diplomasi internasional sekaligus sarana mempromosikan citra positif negara.
 - Hubungan keduanya berjalan secara simbiotis, di mana dunia politik membutuhkan basis massa sepak bola, sedangkan sepak bola sendiri memerlukan sokongan infrastruktur dari pemerintah.
 
-Siapkan dirimu untuk mengeksplorasi bagaimana sejarah dunia tidak hanya ditulis di lembaran buku-buku tebal, tetapi juga diukir di atas rumput hijau stadion-stadion ikonik dunia.
+Sejarah dunia tidak hanya tercatat di buku, tetapi juga di stadion-stadion sepak bola.

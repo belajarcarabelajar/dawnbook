@@ -59,9 +59,9 @@ Piala Dunia 2026 (AS, Kanada, Meksiko) dan 2030 (Maroko, Spanyol, Portugal, deng
 
 #### 2\. Kebangkitan Kekuatan Ekonomi Baru
 
-Kekuatan finansial dari negara-negara Teluk atau Asia Timur akan terus menantang dominasi tradisional Eropa dan Amerika Latin. Uang sering kali menjadi pelumas yang menghaluskan gesekan politik, namun juga memicu debat tentang etika dalam olahraga.
+Kekuatan finansial dari negara-negara Teluk atau Asia Timur akan terus menantang dominasi tradisional Eropa dan Amerika Latin. Uang sering kali meredakan gesekan politik, namun juga memicu debat tentang etika dalam olahraga.
 
-Jika sebuah negara dengan catatan HAM yang buruk menawarkan infrastruktur terbaik dan dana tak terbatas, apakah integritas olahraga harus dikorbankan demi kelangsungan finansial turnamen?
+Jika sebuah negara dengan catatan HAM yang buruk menawarkan infrastruktur terbaik dan dana besar, apakah integritas olahraga harus dikorbankan demi kelangsungan finansial turnamen?
 
 ### Penangguhan Rusia 2022
 

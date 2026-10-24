@@ -1,18 +1,18 @@
 ## Konflik Timur Tengah dan Pengusiran Israel dari Konfederasi Asia
 
-Sepak bola sering kali dianggap "bahasa universal", namun sejarah menunjukkan politik kerap menjadi tembok yang tak tertembus si kulit bundar. Salah satu fragmen paling dramatis dalam sejarah geopolitik sepak bola adalah perjalanan Tim Nasional Israel.
+Sepak bola sering kali dianggap "bahasa universal", namun sejarah menunjukkan politik kerap membatasi jangkauannya. Perjalanan Tim Nasional Israel adalah salah satu contohnya dalam sejarah geopolitik sepak bola.
 
-Bagaimana mungkin sebuah negara yang secara geografis terletak di jantung Asia harus bertanding memperebutkan tiket Piala Dunia melawan negara-negara seperti Inggris, Spanyol, dan Jerman di Eropa? Jawabannya ada pada ruang-ruang diplomasi dan konflik bersenjata di Timur Tengah, bukan di atas rumput hijau.
+Bagaimana mungkin sebuah negara yang secara geografis terletak di Asia harus bertanding memperebutkan tiket Piala Dunia melawan negara-negara seperti Inggris, Spanyol, dan Jerman di Eropa? Jawabannya ada pada ruang-ruang diplomasi dan konflik bersenjata di Timur Tengah, bukan di atas rumput hijau.
 
 ## 1. Israel sebagai Pendiri AFC
 
-Pada awalnya, hubungan Israel dengan sepak bola Asia sangatlah harmonis. Israel merupakan salah satu dari 12 negara pendiri **Asian Football Confederation (AFC)** pada tahun 1954. Pada masa itu, Israel adalah kekuatan besar di sepak bola Asia, memenangkan Piala Asia 1964 dan secara rutin menjadi penantang utama di kawasan tersebut.
+Pada awalnya, hubungan Israel dengan sepak bola Asia harmonis. Israel merupakan salah satu dari 12 negara pendiri **Asian Football Confederation (AFC)** pada tahun 1954. Pada masa itu, Israel adalah kekuatan besar di sepak bola Asia, memenangkan Piala Asia 1964 dan secara rutin menjadi penantang utama di kawasan tersebut.
 
 Namun, ketegangan politik dengan negara-negara Arab, yang berakar dari konflik Arab-Israel tahun 1948, mulai merembet ke lapangan hijau. Sepak bola menjadi alat bagi negara-negara tetangga Israel untuk menunjukkan solidaritas mereka terhadap Palestina melalui kebijakan **boikot**.
 
 ## 2. Krisis Kualifikasi 1958 dan "Juara Tanpa Bertanding"
 
-Peristiwa paling unik sekaligus memalukan bagi FIFA terjadi pada kualifikasi Piala Dunia 1958. Ini adalah contoh nyata bagaimana politik dapat melumpuhkan sistem kompetisi.
+Peristiwa yang memalukan bagi FIFA terjadi pada kualifikasi Piala Dunia 1958. Ini adalah contoh nyata bagaimana politik dapat melumpuhkan sistem kompetisi.
 
 **Skenario Boikot:**
 Beberapa negara mengambil sikap tegas dalam babak kualifikasi ini:

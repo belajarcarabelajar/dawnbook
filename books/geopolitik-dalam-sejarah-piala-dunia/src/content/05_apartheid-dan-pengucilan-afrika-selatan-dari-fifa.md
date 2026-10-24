@@ -1,6 +1,6 @@
 ## Apartheid dan Pengucilan Afrika Selatan dari FIFA
 
-Dunia olahraga sering kali mengklaim dirinya sebagai entitas yang netral dan bebas dari politik. Namun, sejarah mencatat bahwa lapangan hijau sering kali menjadi medan pertempuran ideologi yang sangat sengit. Salah satu babak paling kelam sekaligus heroik dalam sejarah geopolitik sepak bola adalah perjuangan melawan **Apartheid** di Afrika Selatan, yang berujung pada pengucilan negara tersebut dari panggung sepak bola internasional selama hampir tiga dekade.
+Dunia olahraga sering kali mengklaim dirinya sebagai entitas yang netral dan bebas dari politik. Namun, sejarah mencatat bahwa lapangan hijau sering kali menjadi arena pertarungan ideologi yang sengit. Salah satu contohnya dalam sejarah geopolitik sepak bola adalah perjuangan melawan **Apartheid** di Afrika Selatan, yang berujung pada pengucilan negara tersebut dari panggung sepak bola internasional selama hampir tiga dekade.
 
 ### 1. Apa itu Apartheid? Memahami Akar Masalah
 
@@ -54,7 +54,7 @@ Selama masa isolasi, sepak bola di Afrika Selatan tidak mati, tetapi tumbuh dala
 
 ### 6. Runtuhnya Apartheid dan Kembalinya Sang "Bafana Bafana"
 
-Pada awal 1990-an, seiring dengan pembebasan Nelson Mandela dan negosiasi untuk mengakhiri Apartheid, dinding pembatas di sepak bola pun runtuh.
+Pada awal 1990-an, seiring dengan pembebasan Nelson Mandela dan negosiasi untuk mengakhiri Apartheid, pemisahan rasial di sepak bola ikut berakhir.
 
 1. Pada tahun 1991, South African Football Association (SAFA) resmi dibentuk sebagai wadah sepak bola baru yang sepenuhnya non-rasial.
 2. Setahun berikutnya, yaitu tahun 1992, FIFA memulihkan status keanggotaan Afrika Selatan secara resmi.
@@ -87,6 +87,6 @@ Kasus Afrika Selatan mengajarkan kita bagaimana olahraga dapat digunakan sebagai
 
 ### Inti Pembahasan
 
-Pengucilan Afrika Selatan dari FIFA merupakan pernyataan moral dunia bahwa diskriminasi rasial tidak memiliki tempat di atas lapangan hijau, bukan hanya persoalan teknis organisasi. Perjalanan dari pengusiran tahun 1976 hingga menjadi tuan rumah Piala Dunia 2010 adalah simbol kemenangan kemanusiaan atas segregasi, membuktikan bahwa sepak bola adalah cermin dari keadilan sosial global.
+Pengucilan Afrika Selatan dari FIFA merupakan pernyataan moral dunia bahwa diskriminasi rasial tidak memiliki tempat di atas lapangan hijau, bukan hanya persoalan teknis organisasi. Perjalanan dari pengusiran tahun 1976 hingga menjadi tuan rumah Piala Dunia 2010 menandai berakhirnya segregasi dalam sepak bola negara itu.
 
 Setelah mempelajari bab ini, menurut kamu, apakah FIFA saat ini masih harus menggunakan kekuatan "pengucilan" terhadap negara-negara yang melakukan pelanggaran HAM, ataukah olahraga harus tetap netral tanpa memandang situasi politik suatu negara?

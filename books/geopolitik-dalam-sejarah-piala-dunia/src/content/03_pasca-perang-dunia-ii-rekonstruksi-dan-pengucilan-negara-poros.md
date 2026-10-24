@@ -1,6 +1,6 @@
 ## Rekonstruksi dan Pengucilan Negara Poros Pasca-Perang Dunia II
 
-Setelah jeda selama 12 tahun akibat kecamuk Perang Dunia II, sepak bola dunia mencoba bangkit dari puing-puing kehancuran. Piala Dunia 1950 di Brasil lebih dari sekadar turnamen olahraga. Ajang ini menjadi simbol **rekonstruksi tatanan dunia**, memperlihatkan bagaimana diplomasi lapangan hijau digunakan untuk menghukum masa lalu sekaligus merajut masa depan.
+Setelah jeda selama 12 tahun akibat kecamuk Perang Dunia II, sepak bola dunia mencoba bangkit kembali. Piala Dunia 1950 di Brasil lebih dari sekadar turnamen olahraga. Ajang ini menjadi simbol **rekonstruksi tatanan dunia**, memperlihatkan bagaimana diplomasi lapangan hijau digunakan untuk menghukum masa lalu sekaligus merajut masa depan.
 
 ## 1. Jeda Panjang dan Trauma Global (1938-1950)
 
