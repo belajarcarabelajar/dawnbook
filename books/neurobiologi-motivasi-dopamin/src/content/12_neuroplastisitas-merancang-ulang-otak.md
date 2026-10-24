@@ -2,7 +2,7 @@
 
 ### Otak Kamu Tidak Bersifat Statis
 
-Setelah mempelajari bagaimana dopamin bekerja, bagaimana sistem *reward* bisa "rusak" akibat stimulasi berlebih, dan bagaimana siklus adiksi terbentuk, kamu mungkin merasa cemas. Kamu mungkin bertanya: *"Apakah otak saya sudah rusak selamanya?"* atau *"Apakah saya akan selalu terjebak dalam motivasi yang rendah?"*
+Kamu sudah mempelajari cara kerja dopamin, bagaimana sistem *reward* bisa "rusak" akibat stimulasi berlebih, dan bagaimana siklus adiksi terbentuk. Setelah semua itu, kamu mungkin merasa cemas. Kamu mungkin bertanya: *"Apakah otak saya sudah rusak selamanya?"* atau *"Apakah saya akan selalu terjebak dalam motivasi yang rendah?"*
 
 Jawabannya adalah **tidak**.
 

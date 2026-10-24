@@ -1,6 +1,6 @@
 ## Referensi Akademik
 
-Daftar referensi akademik berikut memuat berbagai karya ilmiah, artikel jurnal terindeks, dan literatur mendasar yang menjadi pijakan ilmiah dalam penyusunan buku ini. Seluruh referensi telah diselaraskan dengan standar **APA Style Edisi ke-7** dan dikelompokkan berdasarkan topik utama neurobiologi motivasi serta sistem dopaminergik. Jika kamu ingin mendalami lebih jauh mekanisme neurobiologis yang dibahas dalam bab-bab sebelumnya, sumber-sumber ini menyediakan bukti empiris dan kerangka teoritis yang dapat kamu eksplorasi.
+Daftar berikut memuat karya ilmiah, artikel jurnal terindeks, dan literatur mendasar yang menjadi pijakan ilmiah dalam penyusunan buku ini. Seluruh referensi telah diselaraskan dengan standar **APA Style Edisi ke-7** dan dikelompokkan berdasarkan topik utama neurobiologi motivasi serta sistem dopaminergik. Jika kamu ingin mendalami lebih jauh mekanisme neurobiologis yang dibahas dalam bab-bab sebelumnya, sumber-sumber ini menyediakan bukti empiris dan kerangka teoritis yang dapat kamu eksplorasi.
 
 ---
 

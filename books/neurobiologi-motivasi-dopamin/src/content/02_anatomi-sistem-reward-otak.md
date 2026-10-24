@@ -1,6 +1,6 @@
 ## Anatomi Sistem Reward Otak
 
-Pernahkah kamu bertanya-tanya mengapa aroma kopi di pagi hari bisa membuat kamu beranjak dari tempat tidur, atau mengapa notifikasi di ponsel terasa begitu sulit untuk diabaikan? Ini bukan sekadar kebetulan. Di dalam tempurung kepala kamu, terdapat sebuah sirkuit biologis yang sangat canggih yang dikenal sebagai **Sistem Reward (Imbalan) Otak**.
+Pernahkah kamu bertanya-tanya mengapa aroma kopi pagi bisa membuatmu beranjak dari tempat tidur, atau mengapa notifikasi ponsel begitu sulit diabaikan? Ini bukan sekadar kebetulan. Di dalam tempurung kepala kamu, terdapat sebuah sirkuit biologis yang sangat canggih yang dikenal sebagai **Sistem Reward (Imbalan) Otak**.
 
 Sistem ini bukanlah satu organ tunggal, melainkan jaringan kompleks dari berbagai struktur saraf yang bekerja secara sinergis untuk memastikan kita mengejar hal-hal yang mendukung kelangsungan hidup (seperti makanan dan interaksi sosial) serta hal-hal yang kita persepsikan berharga.
 

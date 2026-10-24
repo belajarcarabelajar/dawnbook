@@ -1,6 +1,6 @@
 ## Mengapa Kita Melakukan Apa yang Kita Lakukan?
 
-Pernahkah kamu bertanya-tanya mengapa sangat mudah untuk menghabiskan waktu berjam-jam menggulir media sosial, namun terasa sangat berat hanya untuk memulai satu halaman laporan kerja? Atau mengapa aroma kopi di pagi hari bisa membuat kamu beranjak dari tempat tidur bahkan sebelum kamu benar-benar meminumnya?
+Pernahkah kamu bertanya-tanya mengapa menghabiskan waktu berjam-jam menggulir media sosial terasa sangat mudah? Sementara itu, memulai satu halaman laporan kerja saja terasa sangat berat. Atau mengapa aroma kopi di pagi hari bisa membuat kamu beranjak dari tempat tidur bahkan sebelum kamu benar-benar meminumnya?
 
 Jawaban dari pertanyaan-pertanyaan ini tidak terletak pada kemauan semata, melainkan pada mekanisme biologis di dalam otak kita. Selamat datang di penjelajahan **Neurobiologi Motivasi**.
 

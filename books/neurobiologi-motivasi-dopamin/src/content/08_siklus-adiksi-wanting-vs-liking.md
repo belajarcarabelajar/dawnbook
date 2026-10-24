@@ -1,6 +1,6 @@
 ## Siklus Adiksi dan Perbedaan Wanting vs. Liking
 
-Pernahkah kamu mendapati dirimu terus-menerus menekan tombol "Next Episode" di Netflix atau menggeser layar Instagram selama berjam-jam, padahal kamu sudah merasa bosan, lelah, dan tidak lagi benar-benar menikmati konten yang kamu lihat?
+Pernahkah kamu mendapati dirimu terus-menerus menekan tombol "Next Episode" di Netflix atau menggeser layar Instagram selama berjam-jam? Kamu terus melakukannya walau sudah merasa bosan, lelah, dan tidak lagi benar-benar menikmati konten yang kamu lihat.
 
 Secara logika, jika kita tidak menikmati sesuatu, kita seharusnya berhenti. Namun, otak manusia memiliki mekanisme yang jauh lebih kompleks. Dalam modul ini, kita akan membedah salah satu penemuan paling revolusioner dalam neurosains modern: **pemisahan antara keinginan (*wanting*) dan kesenangan (*liking*)**.
 

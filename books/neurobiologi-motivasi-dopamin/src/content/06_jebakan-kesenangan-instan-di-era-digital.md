@@ -1,6 +1,6 @@
 ## Jebakan Kesenangan Instan di Era Digital
 
-Pernahkah kamu berniat membuka ponsel hanya untuk mengecek jam, namun tiba-tiba tersadar 30 menit telah berlalu karena kamu terjebak dalam guliran (*scrolling*) tanpa henti di media sosial? Atau mungkin kamu merasa sangat sulit untuk menolak godaan makanan cepat saji meskipun kamu tidak benar-benar lapar?
+Pernahkah kamu berniat membuka ponsel hanya untuk mengecek jam, namun tiba-tiba tersadar 30 menit telah berlalu? Kamu terjebak dalam guliran (*scrolling*) tanpa henti di media sosial? Atau mungkin kamu merasa sangat sulit untuk menolak godaan makanan cepat saji meskipun kamu tidak benar-benar lapar?
 
 Selamat datang di era **Supernormal Stimuli**, sebuah masa di mana teknologi dan industri makanan telah berhasil meretas sirkuit purba di otak kita untuk mendapatkan perhatian dan kesenangan instan secara terus-menerus.
 
