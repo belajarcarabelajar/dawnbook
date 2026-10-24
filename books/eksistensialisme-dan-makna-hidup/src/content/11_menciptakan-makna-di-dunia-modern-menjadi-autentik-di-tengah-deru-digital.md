@@ -1,8 +1,8 @@
 ## Menciptakan Makna di Dunia Modern
 
-Selamat datang di bagian penutup perjalanan kita. Setelah menelusuri lorong-lorong gelap nihilisme Nietzsche, bergulat dengan batu Sisyphus bersama Camus, dan memahami kebebasan radikal Sartre, kita sampai pada pertanyaan terpenting: **Bagaimana semua teori ini membantu kita membayar tagihan, menjaga kesehatan mental, dan merasa "hidup" hari ini?**
+Selamat datang di bagian penutup perjalanan kita. Setelah menelusuri nihilisme Nietzsche, bergulat dengan batu Sisyphus bersama Camus, dan memahami kebebasan radikal Sartre, kita sampai pada pertanyaan terpenting: **Bagaimana semua teori ini membantu kita membayar tagihan, menjaga kesehatan mental, dan merasa "hidup" hari ini?**
 
-Dunia modern menawarkan kenyamanan yang tak terbayangkan oleh para filsuf abad ke-19, namun ia juga membawa krisis eksistensial baru: *distraksi massal, komodifikasi identitas, dan kelumpuhan pilihan.*
+Dunia modern menawarkan kenyamanan yang belum dikenal para filsuf abad ke-19, namun ia juga membawa krisis eksistensial baru: *distraksi massal, komodifikasi identitas, dan kelumpuhan pilihan.*
 
 ## 1. Tantangan Eksistensial di Abad ke-21
 
@@ -10,7 +10,7 @@ Jika dulu manusia bergulat dengan kelangkaan, kita sekarang bergulat dengan **ke
 
 ### Paradoks Pilihan dan Kecemasan (Angst)
 
-Kierkegaard menyebut kecemasan sebagai "pusingnya kebebasan". Di era digital, rasa pusing ini berlipat ganda karena kita dihadapkan pada jutaan jalur karier, gaya hidup, dan ideologi hanya dalam sekali usap layar.
+Kierkegaard menyebut kecemasan sebagai "pusingnya kebebasan". Di era digital, rasa pusing ini bertambah karena kita dihadapkan pada begitu banyak jalur karier, gaya hidup, dan ideologi hanya dalam sekali usap layar.
 
 Bayangkan saat kamu menghabiskan waktu satu jam hanya untuk memilih film di Netflix, hingga akhirnya terlalu lelah untuk menonton apa pun. Itu adalah contoh nyata dari kelumpuhan eksistensial (*existential paralysis*).
 
@@ -22,7 +22,7 @@ Sartre berbicara tentang *Bad Faith* (itikad buruk), yaitu kepura-puraan bahwa k
 
 ## 2. Praktik Eksistensial dalam Kehidupan Sehari-hari
 
-Bagaimana kita menerapkan pemikiran para raksasa filsafat ini dalam rutinitas sehari-hari?
+Bagaimana kita menerapkan pemikiran para filsuf ini dalam rutinitas sehari-hari?
 
 ### A. Mengubah "Keterlemparan" Menjadi "Kepemilikan" (Heidegger)
 
@@ -30,7 +30,7 @@ Heidegger menjelaskan bahwa manusia "terlempar" ke dunia tanpa bisa memilih (*Ge
 
 ### B. Menghadapi Absurditas dengan Pemberontakan (Camus)
 
-Rutinitas modern sering kali terasa absurd, misalnya bekerja keras di bidang yang membosankan demi membeli barang-barang yang tidak benar-benar kita butuhkan. Untuk menghadapinya, jadilah seorang "pemberontak absurd". Lakukanlah aktivitas yang bernilai bagi dirimu sendiri, meskipun lingkungan sekitar menganggapnya sia-sia. Saat kamu melukis hanya karena kamu menyukainya, tanpa niat untuk menjual atau memamerkannya di media sosial, kamu sedang memenangkan pertempuran melawan absurditas lewat kegembiraan yang murni.
+Rutinitas modern sering kali terasa absurd, misalnya bekerja keras di bidang yang membosankan demi membeli barang-barang yang tidak benar-benar kita butuhkan. Untuk menghadapinya, jadilah seorang "pemberontak absurd". Lakukanlah aktivitas yang bernilai bagi dirimu sendiri, meskipun lingkungan sekitar menganggapnya sia-sia. Saat kamu melukis hanya karena kamu menyukainya, tanpa niat untuk menjual atau memamerkannya di media sosial, kamu sedang menghadapi absurditas dengan kegembiraan yang tidak menuntut imbalan.
 
 ### C. Menemukan Makna di Tengah Burnout (Frankl)
 
@@ -70,6 +70,6 @@ $$
 
 Di mana $M$ melambangkan Makna (*Meaning*), $A$ mewakili Autentisitas (hidup yang selaras dengan nilai personal), $T$ adalah Tindakan konkret (bukan cuma niat kosong), dan $D$ menggambarkan Distraksi serta tekanan ekspektasi dari luar.
 
-> **Pesan Penutup:** Eksistensialisme bukanlah filsafat keputusasaan. Sebaliknya, ini adalah panggilan untuk mandiri dan berdaya secara luar biasa. Dunia mungkin tidak menyediakan makna bawaan, dan itu sebenarnya kabar baik. Artinya, kamulah sutradara, penulis skenario, sekaligus aktor utama dalam hidupmu sendiri. Jangan biarkan orang lain, apalagi algoritma, mendikte jalan ceritanya.
+> **Pesan Penutup:** Eksistensialisme bukanlah filsafat keputusasaan. Sebaliknya, ini adalah ajakan untuk mandiri dan berdaya. Dunia mungkin tidak menyediakan makna bawaan, dan itu sebenarnya kabar baik. Artinya, kamulah yang menulis dan memerankan cerita hidupmu sendiri. Jangan biarkan orang lain, apalagi algoritma, mendikte jalan ceritanya.
 
 Jika hari ini adalah halaman terakhir dari buku kehidupanmu, pastikan kamu yang memegang penanya, bukan sekadar menyalin naskah milik orang lain.

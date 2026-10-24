@@ -26,7 +26,7 @@ Kutipan Sartre yang paling terkenal, *"L'enfer, c'est les autres"* (Neraka adala
 
 Sartre tidak bermaksud mengatakan bahwa hubungan sosial selalu buruk. Ia ingin menunjukkan beberapa realitas hubungan kita dengan sesama. Pertama, ada penghakiman yang tidak bisa kita hindari dari penilaian orang lain. Kedua, kita terjebak dalam ketergantungan identitas; kita membutuhkan mereka untuk memahami diri sendiri, meskipun pandangan mereka sering kali menyempitkan atau keliru. Akhirnya, orang lain berfungsi sebagai cermin yang memaksa kita menghadapi bagian-bagian diri yang selama ini ingin kita sangkal.
 
-> **Sudut Pandang Utama:** Istilah "neraka" di sini tidak merujuk pada kejahatan orang lain. Ini menggambarkan kondisi ketika kita membiarkan diri menjadi **tawanan** dari persepsi mereka. Saat hubungan sosial memburuk, pandangan mereka otomatis menjelma menjadi penjara bagi kesadaran kita.
+> **Sudut Pandang Utama:** Istilah "neraka" di sini tidak merujuk pada kejahatan orang lain. Ini menggambarkan kondisi ketika kita membiarkan diri menjadi **tawanan** dari persepsi mereka. Saat hubungan sosial memburuk, pandangan mereka otomatis membatasi cara kita memandang diri sendiri.
 
 ## 3. Pencarian Pengakuan
 
@@ -58,6 +58,6 @@ Untuk menghadapinya secara eksistensial, langkah awal yang bisa diambil adalah m
 
 ## Menemukan Keseimbangan
 
-Relasi antarmanusia dalam pandangan eksistensialisme adalah tarian antara ketegangan dan kebutuhan. Kita akan selalu mengalami konflik karena setiap orang adalah subjek yang merdeka. Namun, melalui pengakuan yang tulus dan kesadaran akan tanggung jawab sosial, kita dapat mengubah "tatapan" yang menghakimi menjadi "kehadiran" yang menguatkan.
+Dalam pandangan eksistensialisme, relasi antarmanusia memuat ketegangan sekaligus kebutuhan. Kita akan selalu mengalami konflik karena setiap orang adalah subjek yang merdeka. Namun, melalui pengakuan yang tulus dan kesadaran akan tanggung jawab sosial, kita dapat mengubah "tatapan" yang menghakimi menjadi "kehadiran" yang menguatkan.
 
 Dalam hubungan terdekat sehari-hari, penting untuk menyadari apakah kita memperlakukan orang lain sebagai "Engkau" (sesama subjek yang bebas) atau sekadar sebagai "Itu" (alat untuk memenuhi ekspektasi kita).

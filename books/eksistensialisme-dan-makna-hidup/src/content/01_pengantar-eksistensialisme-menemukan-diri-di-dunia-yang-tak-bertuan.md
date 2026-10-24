@@ -1,6 +1,6 @@
 ## Pengantar Eksistensialisme
 
-Pernahkah kamu terbangun di tengah malam dan bertanya apa tujuanmu berada di sini, atau apakah hidup hanyalah rutinitas tanpa makna yang lebih dalam? Jika ya, kamu tidak sendirian. Pertanyaan-pertanyaan ini adalah pintu gerbang menuju salah satu aliran filsafat yang paling berpengaruh dan personal dalam sejarah manusia: **Eksistensialisme**.
+Pernahkah kamu terbangun di tengah malam dan bertanya apa tujuanmu berada di sini, atau apakah hidup hanyalah rutinitas tanpa makna yang lebih dalam? Jika ya, kamu tidak sendirian. Pertanyaan-pertanyaan ini membawa kita ke salah satu aliran filsafat yang paling berpengaruh dan personal: **Eksistensialisme**.
 
 ## 1. Apa Itu Eksistensialisme?
 
@@ -20,13 +20,13 @@ Eksistensialisme tidak lahir di ruang hampa. Ia muncul sebagai reaksi terhadap p
 
 Perkembangan sejarah aliran ini melewati beberapa fase penting. Pada abad ke-19, tokoh-tokoh seperti Søren Kierkegaard dan Friedrich Nietzsche mulai menggugat sistem filsafat besar serta institusi agama. Mereka merasa sistem tersebut terlalu kaku dan gagal menjawab penderitaan nyata yang dialami individu.
 
-Lalu, pasca-Perang Dunia II, eksistensialisme mencapai puncak popularitasnya di Prancis. Setelah menyaksikan kehancuran luar biasa, manusia modern kehilangan kepercayaan pada kemajuan peradaban. Dunia tiba-tiba terasa gelap, hancur, dan absurd.
+Lalu, pasca-Perang Dunia II, eksistensialisme mencapai puncak popularitasnya di Prancis. Setelah menyaksikan kehancuran akibat perang, manusia modern kehilangan kepercayaan pada kemajuan peradaban. Dunia tiba-tiba terasa gelap, hancur, dan absurd.
 
 Dari reruntuhan inilah Jean-Paul Sartre dan Albert Camus hadir menawarkan sudut pandang baru: jika dunia tidak memberi kita makna, kitalah yang harus menciptakannya secara mandiri.
 
 ## 3. Tema-Tema Utama Eksistensialisme
 
-Mari menjelajahi lorong-lorong pemikiran eksistensial melalui beberapa tema kunci yang saling berkaitan:
+Mari melihat beberapa tema kunci pemikiran eksistensial yang saling berkaitan:
 
 ### A. Individu dan Subjektivitas
 

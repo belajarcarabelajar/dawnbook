@@ -2,7 +2,7 @@
 
 Pernahkah kamu berdiri di bawah langit malam yang luas, menatap ribuan bintang, dan tiba-tiba merasa sangat kecil? Pernahkah kamu bertanya, "Apa gunanya semua rutinitas ini?" saat sedang terjebak dalam kemacetan atau antrean panjang, hanya untuk menyadari bahwa alam semesta tidak memberikan jawaban apa pun?
 
-Selamat datang di dunia **Albert Camus**.
+Pertanyaan semacam ini digeluti oleh **Albert Camus**.
 
 Dalam bagian ini, kita akan menjelajahi salah satu konsep paling provokatif dalam filsafat eksistensial: **Absurditas**. Kita akan belajar mengapa dunia yang tidak peduli justru bisa menjadi kunci menuju kebebasan sejati.
 

@@ -1,14 +1,14 @@
 ## Kesimpulan
 
-Kita telah menempuh perjalanan panjang melalui labirin pemikiran eksistensialisme, dari kegelapan krisis nilai hingga beban kebebasan yang radikal. Dari sana, kita menyusuri pencarian makna di tengah penderitaan. Sekarang, kita tiba di titik akhir: **bagaimana kita menyatukan semua potongan puzzle ini untuk menjalani hidup hari ini?**
+Kita telah menempuh perjalanan panjang melalui pemikiran eksistensialisme, dari krisis nilai hingga beban kebebasan yang radikal. Dari sana, kita menyusuri pencarian makna di tengah penderitaan. Sekarang, kita tiba di titik akhir: **bagaimana kita menyatukan semua potongan puzzle ini untuk menjalani hidup hari ini?**
 
-Eksistensialisme tidak mengajarkan keputusasaan. Filsafat ini justru mengundang kita untuk merayakan kefanaan hidup. Jika hidup ini abadi, setiap momen tidak akan memiliki nilai karena kita selalu punya "esok" yang tak terbatas. Namun, justru karena hidup ini terbatas, setiap detiknya menjadi tak ternilai harganya.
+Eksistensialisme tidak mengajarkan keputusasaan. Filsafat ini justru mengundang kita untuk merayakan kefanaan hidup. Jika hidup ini abadi, setiap momen tidak akan memiliki nilai karena kita selalu punya "esok" yang tak terbatas. Namun, justru karena hidup ini terbatas, setiap detiknya menjadi berharga.
 
 ### 1. Keindahan dalam Keterbatasan
 
-Bayangkan hidupmu sebagai sebuah jam pasir. Kita sering kali merasa cemas melihat butiran pasir yang jatuh ke bawah, menyadari bahwa jumlah di atas semakin sedikit. Namun, eksistensialisme mengajak kita untuk berhenti meratapi pasir yang hilang dan mulai memperhatikan keindahan aliran pasir tersebut saat ia melewati celah sempit: **momen saat ini.**
+Bayangkan hidupmu sebagai sebuah jam pasir. Kita sering kali merasa cemas melihat butiran pasir yang jatuh ke bawah, menyadari bahwa jumlah di atas semakin sedikit. Namun, eksistensialisme mengajak kita untuk berhenti meratapi pasir yang hilang dan mulai memperhatikan aliran pasir tersebut saat ia melewati celah sempit: **momen saat ini.**
 
-> **Pesan Penting:** Kefanaan (finitude) adalah bumbu yang memberikan rasa pada eksistensi. Tanpa kematian, kehidupan hanyalah repetisi tanpa makna.
+> **Pesan Penting:** Kefanaan (finitude) memberi nilai pada eksistensi. Tanpa kematian, kehidupan hanyalah repetisi tanpa makna.
 
 Secara matematis, kita bisa memandang nilai sebuah pengalaman $V$ sebagai fungsi dari waktu yang tersedia $T$:
 
@@ -18,11 +18,11 @@ V \propto \frac{1}{T}
 $$
 </div>
 
-Jika waktu $T$ mendekati tak terhingga ($\infty$), maka nilai $V$ dari satu momen tunggal akan mendekati nol ($0$). Namun, karena hidup kita memiliki batas $T$ yang nyata, maka setiap momen $V$ memiliki nilai yang sangat besar.
+Jika waktu $T$ mendekati tak terhingga ($\infty$), maka nilai $V$ dari satu momen tunggal akan mendekati nol ($0$). Namun, karena hidup kita memiliki batas $T$ yang nyata, maka setiap momen $V$ memiliki nilai yang besar.
 
 ### 2. Merangkul Ketidakpastian sebagai Kebebasan
 
-Banyak dari kita menghabiskan energi luar biasa untuk mencari kepastian: kepastian karier, kepastian hubungan, hingga kepastian masa depan. Eksistensialisme mengajarkan bahwa **ketidakpastian adalah ruang di mana kebebasan bernapas.**
+Banyak dari kita menghabiskan banyak tenaga untuk mencari kepastian: kepastian karier, kepastian hubungan, hingga kepastian masa depan. Eksistensialisme mengajarkan bahwa **ketidakpastian adalah ruang bagi kebebasan.**
 
 - **Ketidakpastian sebagai Kemungkinan:** Ketika masa depan tidak pasti, kamu memegang kendali penuh untuk menulis skenariomu sendiri, alih-alih menjadi robot yang sekadar mengikuti naskah yang sudah jadi.
 - **Keberanian Menghadapi Kecemasan:** Kierkegaard menyebut kecemasan sebagai rasa pusing akibat kebebasan. Alih-alih melarikan diri, kita perlu belajar beradaptasi dan terus bergerak maju dalam ketidakpastian.

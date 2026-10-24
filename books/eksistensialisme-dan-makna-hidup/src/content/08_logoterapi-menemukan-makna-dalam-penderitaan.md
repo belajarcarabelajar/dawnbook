@@ -1,6 +1,6 @@
 ## Logoterapi dan Makna dalam Penderitaan
 
-Pernahkah kamu bertanya-tanya, apa yang membuat seseorang mampu bertahan di tengah badai kehidupan yang paling dahsyat, sementara yang lain menyerah? Viktor Frankl, seorang psikiater asal Wina dan penyintas Holocaust, menemukan jawabannya di tengah kekejaman barak-barak kamp konsentrasi Nazi, bukan di dalam laboratorium steril.
+Pernahkah kamu bertanya-tanya, apa yang membuat seseorang mampu bertahan dalam penderitaan yang paling berat, sementara yang lain menyerah? Viktor Frankl, seorang psikiater asal Wina dan penyintas Holocaust, menemukan jawabannya di tengah kekejaman barak-barak kamp konsentrasi Nazi, bukan di dalam laboratorium steril.
 
 Logoterapi, yang sering disebut sebagai "Aliran Psikoterapi Wina Ketiga", berfokus pada satu keyakinan fundamental: dorongan utama manusia adalah pencarian makna, bukan kesenangan (seperti teori Freud) atau kekuasaan (seperti teori Adler).
 
@@ -93,4 +93,4 @@ Untuk merasakan konsep ini secara praktis, cobalah latihan berikut:
 2. **Ubah Sudut Pandang:** Tanyakan pada diri sendiri, "Kualitas karakter apa yang bisa kukembangkan melalui situasi ini?" atau "Siapa yang bisa kubantu dengan pengalaman yang kudapatkan dari kesulitan ini?"
 3. **Aksi Bermakna:** Lakukan satu tindakan kecil hari ini demi orang lain atau suatu nilai yang kamu yakini, alih-alih untuk kepentingan dirimu sendiri.
 
-> **Insight Penutup:** Keadaan yang keras jarang membuat hidup benar-benar tidak tertahankan; yang merusaknya adalah hilangnya makna dan tujuan. Logoterapi mengingatkan bahwa manusia tidak perlu menjadi pion pasif di atas papan catur takdir. Kita adalah penulis naskah yang memegang pena untuk menentukan bagaimana bab akhir kisah kita akan diselesaikan.
+> **Insight Penutup:** Keadaan yang keras jarang membuat hidup benar-benar tidak tertahankan; yang merusaknya adalah hilangnya makna dan tujuan. Logoterapi mengingatkan bahwa manusia tidak perlu pasif di hadapan nasib. Kita sendiri yang menentukan bagaimana kisah kita berakhir.

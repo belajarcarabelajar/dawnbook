@@ -4,7 +4,7 @@ Pernahkah kamu berdiri di tepi tebing yang tinggi, atau mungkin di balkon lantai
 
 Rasa ngeri tersebut tidak berasal dari luar. Ia bersumber dari dalam diri, saat kamu menyadari kebebasan penuh untuk melakukan tindakan paling tidak masuk akal sekalipun. Para eksistensialis menyebut kondisi ini sebagai **Angst** (Kecemasan).
 
-Kecemasan tidak selalu mewakili gangguan mental yang harus disembuhkan. Sering kali, rasa tidak nyaman ini adalah panggilan mendalam untuk menyadari bahwa kamu benar-benar hidup, bebas, dan bertanggung jawab atas dirimu sendiri.
+Kecemasan tidak selalu mewakili gangguan mental yang harus disembuhkan. Sering kali, rasa tidak nyaman ini mengajakmu menyadari bahwa kamu hidup, bebas, dan bertanggung jawab atas dirimu sendiri.
 
 ## 1\. Pusing karena Kebebasan menurut Søren Kierkegaard
 
