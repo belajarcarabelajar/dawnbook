@@ -16,10 +16,10 @@ Ada dua pendekatan utama yang sering digunakan untuk menentukan tingkat kepentin
 
 #### 1. Sistem Persentase (Total 100%)
 
-Metode ini paling populer karena sangat intuitif. Kamu mendistribusikan total 100% ke seluruh kriteria yang ada.
+Metode ini paling populer karena intuitif. Kamu mendistribusikan total 100% ke seluruh kriteria yang ada.
 
 - **Aturan Main:** Semua nilai bobot yang didistribusikan harus berjumlah tepat 100% atau 1,0.
-- **Kelebihan utama:** Sangat mudah divisualisasikan serta memberikan gambaran instan mengenai porsi kepentingan masing-masing kriteria.
+- **Kelebihan utama:** Mudah divisualisasikan serta langsung memberikan gambaran mengenai porsi kepentingan masing-masing kriteria.
 
 **Contoh Matematis:** Jika kamu memiliki 3 kriteria: Harga, Kualitas, dan Desain.
 
@@ -66,7 +66,7 @@ Mari kita lihat bagaimana sebuah perusahaan memberikan bobot saat memilih vendor
 | Dukungan Pelanggan | 3 | $3 / 25 = 0.12$ ($12 \text{\%}$) |
 | **Total** | **25** | **1.00 (100%)** |
 
-**Skenario:** Dalam kasus di atas, manajemen memutuskan bahwa **Keamanan Data** adalah harga mati (skor 10). Meskipun sebuah software sangat murah (Biaya), jika keamanannya buruk, bobot $40 \text{\%}$ pada keamanan akan langsung menurunkan skor total vendor tersebut secara drastis.
+**Skenario:** Dalam kasus di atas, manajemen memutuskan bahwa **Keamanan Data** adalah harga mati (skor 10). Meskipun sebuah software sangat murah (Biaya), jika keamanannya buruk, bobot $40 \text{\%}$ pada keamanan akan langsung menurunkan skor total vendor tersebut.
 
 Porsi keempat bobot tersebut tampak lebih jelas dalam diagram lingkaran ini.
 
@@ -87,4 +87,4 @@ pie showData
   - *Evaluasi kembali:* Apakah bobot ini didasarkan pada kebutuhan objektif yang nyata, atau hanya trik agar pilihan yang disukai secara emosional keluar sebagai pemenang?
 - **Kriteria yang Tumpang Tindih:** Ketika dua kriteria terlalu mirip, mereka akan memecah dan mendistorsi nilai bobot sesungguhnya. Selalu pastikan kriteria penilaian bersifat independen satu sama lain.
 
-Nilai bobot bukanlah angka statis yang berlaku selamanya, melainkan refleksi dinamis dari strategi yang berjalan. Sebagai contoh, di tahun ini prioritas utama mungkin terletak pada pertumbuhan sehingga kriteria tersebut mendapat bobot $60 \text{\%}$. Namun, ketika situasi ekonomi berubah menantang, efisiensi biaya bisa bergeser menjadi prioritas utama. Fleksibilitas ini sangat wajar, asalkan kamu tetap konsisten dan objektif selama sesi pengambilan keputusan berlangsung.
+Nilai bobot bukanlah angka statis yang berlaku selamanya, melainkan cerminan dari strategi yang sedang berjalan. Sebagai contoh, di tahun ini prioritas utama mungkin terletak pada pertumbuhan sehingga kriteria tersebut mendapat bobot $60 \text{\%}$. Namun, ketika situasi ekonomi berubah menantang, efisiensi biaya bisa bergeser menjadi prioritas utama. Perubahan seperti ini wajar, asalkan kamu tetap konsisten dan objektif selama sesi pengambilan keputusan berlangsung.

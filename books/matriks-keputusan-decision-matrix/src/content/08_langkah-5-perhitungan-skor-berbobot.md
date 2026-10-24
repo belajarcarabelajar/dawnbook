@@ -1,6 +1,6 @@
 ## Perhitungan Skor Berbobot (Weighted Score)
 
-Di sinilah inti dari matriks keputusan (decision matrix) bekerja. Setelah menentukan kriteria penilaian dan menetapkan bobot pada langkah sebelumnya, **Langkah 5** adalah proses integrasinya. Kita mengubah penilaian subjektif maupun objektif menjadi angka-angka presisi berupa skor berbobot (*weighted score*) untuk memandu kamu menuju pilihan terbaik.
+Di sinilah inti dari matriks keputusan (decision matrix) bekerja. Setelah menentukan kriteria penilaian dan menetapkan bobot pada langkah sebelumnya, **Langkah 5** adalah proses integrasinya. Kita mengubah penilaian subjektif maupun objektif menjadi skor berbobot (*weighted score*) untuk memandu kamu menuju pilihan terbaik.
 
 ### 1. Apa Itu Skor Berbobot?
 
@@ -81,7 +81,7 @@ Pemain X mencetak banyak poin (Skor 9) tetapi gaya rambutnya biasa saja (Skor 4)
   $$
   </div>
 
-Meskipun Pemain Y memiliki skor sempurna pada satu kategori, bobot yang rendah membuat skor totalnya tidak mampu mengalahkan kontribusi nyata dari Pemain X. Itulah kekuatan nyata dari *Weighted Score*.
+Meskipun Pemain Y memiliki skor sempurna pada satu kategori, bobot yang rendah membuat skor totalnya tidak mampu mengalahkan kontribusi nyata dari Pemain X. Itulah gunanya *Weighted Score*.
 
 ### 5. Pemilihan Vendor Software Cloud
 

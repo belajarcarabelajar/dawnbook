@@ -1,6 +1,6 @@
 ## Matriks Keputusan (Decision Matrix)
 
-Dalam dunia profesional maupun pribadi, kita sering terjebak dalam **Paradox of Choice**: makin banyak pilihan, makin sulit memutuskan dengan bijak. Di sinilah **Matriks Keputusan (Decision Matrix)** hadir sebagai kompas logis yang mengubah keraguan menjadi kepastian numerik. Menggunakan matriks keputusan membantu memetakan kriteria penilaian secara sistematis dan menghasilkan skor berbobot yang andal untuk setiap opsi.
+Dalam dunia profesional maupun pribadi, kita sering terjebak dalam **Paradox of Choice**: makin banyak pilihan, makin sulit memutuskan dengan bijak. Di sinilah **Matriks Keputusan (Decision Matrix)** membantu mengurai keraguan menjadi penilaian berangka. Menggunakan matriks keputusan membantu memetakan kriteria penilaian secara sistematis dan menghasilkan skor berbobot yang andal untuk setiap opsi.
 
 ## Memahami Matriks Keputusan
 
@@ -35,12 +35,12 @@ Di sinilah matriks keputusan bertindak sebagai filter penyaring yang objektif. M
 
 Bayangkan kamu ingin membeli laptop baru.
 
-- **Secara Intuitif:** Kamu membeli laptop merek A karena desainnya keren dan temanmu memakainya. Langkah ini sangat subjektif dan berisiko salah pilih.
+- **Secara Intuitif:** Kamu membeli laptop merek A karena desainnya keren dan temanmu memakainya. Langkah ini subjektif dan berisiko salah pilih.
 - **Dengan Matriks Keputusan:** Kamu menetapkan kriteria seperti Harga, Daya Tahan Baterai, Performa, dan Berat. Setelah itu, kamu memberikan skor pada setiap laptop. Laptop dengan skor tertinggi secara keseluruhan menjadi pilihan utama, meskipun bisa jadi desain fisiknya bukan yang paling menawan.
 
 ## Peran Penting dalam Pengambilan Keputusan Objektif
 
-Matriks keputusan memegang peran sangat penting dalam berbagai aspek karena tiga alasan utama:
+Matriks keputusan berguna dalam berbagai aspek karena tiga alasan utama:
 
 ### 1. Transparansi dan Akuntabilitas
 
@@ -48,11 +48,11 @@ Dalam tim, keputusan sering kali memicu perdebatan. Dengan menggunakan matriks i
 
 ### 2. Mengurangi Bias Kognitif
 
-Ketika kamu memberikan skor untuk setiap kriteria secara terpisah, kamu mencegah satu faktor yang sangat mencolok (seperti harga yang murah) membutakan mata dari kelemahan fatal lainnya (seperti kualitas barang yang buruk).
+Ketika kamu memberikan skor untuk setiap kriteria secara terpisah, kamu mencegah satu faktor yang mencolok (seperti harga yang murah) menutupi kelemahan serius lainnya (seperti kualitas barang yang buruk).
 
 ### 3. Memungkinkan Perbandingan Apple-to-Apple
 
-Terkadang kita dihadapkan pada pilihan yang sangat bertolak belakang. Matriks keputusan menyamakan skala penilaian dari berbagai faktor yang berbeda, sehingga kamu bisa membandingkannya dengan adil (misalnya dalam skala 1-5 atau 1-10).
+Terkadang kita dihadapkan pada pilihan yang bertolak belakang. Matriks keputusan menyamakan skala penilaian dari berbagai faktor yang berbeda, sehingga kamu bisa membandingkannya dengan adil (misalnya dalam skala 1-5 atau 1-10).
 
 ## Memilih Lokasi Kantor Baru
 
@@ -76,7 +76,7 @@ Berikut adalah tampilan sederhana dari apa yang akan kamu pelajari di bagian-bag
 
 ## Kesimpulan Awal
 
-Matriks keputusan merupakan instrumen disiplin berpikir, bukan sekadar coretan tabel angka. Dengan mengonversi intuisi subjektif menjadi data terukur, peluang kamu untuk mengambil langkah terbaik yang dapat dipertanggungjawabkan akan meningkat pesat.
+Matriks keputusan merupakan instrumen disiplin berpikir, bukan sekadar coretan tabel angka. Dengan mengonversi intuisi subjektif menjadi data terukur, peluang kamu untuk mengambil langkah terbaik yang dapat dipertanggungjawabkan akan lebih besar.
 
 Sebelum melangkah lebih jauh, coba tengok kembali satu keputusan besar yang pernah kamu ambil dalam satu tahun terakhir. Seandainya kamu menggunakan matriks ini kala itu, apakah keputusan yang kamu ambil akan tetap sama?
 

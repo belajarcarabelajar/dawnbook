@@ -30,7 +30,7 @@ Skala ini sangat efisien untuk keputusan sehari-hari atau analisis yang tidak te
 
 #### B. Skala 1–10 (High Granularity)
 
-Pilihlah skala ini jika kamu menghadapi banyak alternatif dengan performa yang mirip. Rentang yang lebih lebar memberikan ruang gerak ekstra untuk membedakan skor antar-pilihan secara lebih presisi.
+Pilihlah skala ini jika kamu menghadapi banyak alternatif dengan performa yang mirip. Rentang yang lebih lebar memberikan ruang untuk membedakan skor antar-pilihan secara lebih rinci.
 
 - *Contoh:* Menilai efisiensi bahan bakar dari beberapa mesin industri yang perbedaannya hanya terpaut sekian persen.
 
@@ -109,4 +109,4 @@ Agar hasil matriks keputusan tetap objektif, hindari beberapa kesalahan umum ber
 - **Batasan Angka Nol:** Tentukan sejak awal apakah angka 0 boleh digunakan. Biasanya, skala penilaian dimulai dari angka 1 agar alternatif tersebut tetap memberikan nilai kontribusi sekecil apa pun dalam perhitungan akhir.
 
 > [!TIP]
-> Skala penilaian yang dirancang dengan baik berfungsi sebagai jembatan yang mengubah intuisi abstrak menjadi data kuantitatif yang terukur. Tanpa jembatan ini, keputusan yang diambil hanyalah spekulasi yang disamarkan dalam bentuk tabel angka.
+> Skala penilaian yang dirancang dengan baik mengubah intuisi abstrak menjadi data kuantitatif yang terukur. Tanpa skala seperti itu, keputusan yang diambil hanyalah spekulasi dalam bentuk tabel angka.

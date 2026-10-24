@@ -31,7 +31,7 @@ $$
 
 ### 2. Matriks Pugh (Matriks Perbandingan Relatif)
 
-Diciptakan oleh **Stuart Pugh**, seorang desainer industri ternama, Matriks Pugh (sering disebut *Pugh Concept Selection*) berbeda secara fundamental dari matriks lainnya. Alih-alih memberikan skor absolut (seperti 1-10), kamu membandingkan setiap alternatif terhadap sebuah **baseline** (tolok ukur).
+Diciptakan oleh **Stuart Pugh**, seorang desainer industri, Matriks Pugh (sering disebut *Pugh Concept Selection*) berbeda secara fundamental dari matriks lainnya. Alih-alih memberikan skor absolut (seperti 1-10), kamu membandingkan setiap alternatif terhadap sebuah **baseline** (tolok ukur).
 
 #### Memilih Datum (Titik Referensi)
 
@@ -64,7 +64,7 @@ Jika kamu ingin mengganti perangkat lunak manajemen proyek (datum: Software Lama
 
 1. **Menghilangkan Subjektivitas Skor**: Lebih mudah menentukan apakah suatu aspek "lebih baik" daripada harus menetapkan angka spesifik seperti 7,5.
 2. **Peluang Hibrida**: Memungkinkan kamu melihat potensi penggabungan fitur positif dari Alternatif A dan B untuk menciptakan solusi baru yang lebih baik.
-3. **Berorientasi pada Perbaikan**: Sangat efektif dalam pengembangan produk (R&D) dengan fokus melampaui standar yang sudah ada.
+3. **Berorientasi pada Perbaikan**: Efektif dalam pengembangan produk (R&D) dengan fokus melampaui standar yang sudah ada.
 
 ### Perbandingan Cepat Ketiga Matriks
 
@@ -91,4 +91,4 @@ Jika kamu ingin mengganti perangkat lunak manajemen proyek (datum: Software Lama
 - **Pembelajar Auditori**: Ucapkan perbandingannya secara lantang sewaktu mengisi matriks. Sebagai contoh: *"Sistem baru ini lebih hemat memori dibanding sistem lama, jadi kita beri nilai Plus."*
 
 > [!NOTE]
-> **Wawasan Penting:** Tidak ada satu matriks yang paling benar. Seringkali, perjalanan menuju keputusan yang hebat melibatkan penggunaan variasi matriks secara bertahap: mulai dari yang sederhana (unweighted) untuk menyaring, hingga yang mendalam (Weighted atau Pugh) untuk menetapkan pilihan terbaik.
+> **Wawasan Penting:** Tidak ada satu matriks yang paling benar. Seringkali, keputusan yang baik dicapai dengan memakai variasi matriks secara bertahap: mulai dari yang sederhana (unweighted) untuk menyaring, hingga yang mendalam (Weighted atau Pugh) untuk menetapkan pilihan terbaik.

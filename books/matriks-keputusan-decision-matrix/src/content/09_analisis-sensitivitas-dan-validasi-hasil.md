@@ -16,7 +16,7 @@ Inilah saatnya masuk ke tahap **analisis sensitivitas dan validasi**. Jika matri
 
 ### 2. Mengapa Analisis Ini Sangat Penting?
 
-Mengambil keputusan berbasis angka tanpa validasi bisa memberikan rasa aman palsu. Tahap pengujian ini sangat penting karena beberapa alasan berikut:
+Mengambil keputusan berbasis angka tanpa validasi bisa memberikan rasa aman palsu. Tahap pengujian ini penting karena beberapa alasan berikut:
 
 1.  **Mengurangi Ketidakpastian:** Data input sering kali berupa estimasi. Lewat analisis ini, kamu bisa melihat sejauh mana perkiraan yang meleset akan memengaruhi hasil akhir.
 2.  **Meningkatkan Kepercayaan Pemangku Kepentingan (*Stakeholders*):** Kamu bisa berargumen dengan kuat kepada bos atau klien, misalnya, *"Meskipun biaya naik 15%, Vendor A tetap menjadi pilihan terbaik bagi kita."*
@@ -42,7 +42,7 @@ Jika kamu memberikan bobot 40% pada kriteria "Biaya", apa yang terjadi jika bobo
 
 #### B. Uji *Break-even* (Titik Impas)
 
-Cari tahu seberapa besar perubahan bobot yang diperlukan agar peringkat pertama dan peringkat kedua bertukar posisi. Jika hanya butuh perubahan sebesar 1% pada bobot untuk menjungkirbalikkan hasil, artinya keputusanmu memiliki tingkat risiko yang sangat tinggi.
+Cari tahu seberapa besar perubahan bobot yang diperlukan agar peringkat pertama dan peringkat kedua bertukar posisi. Jika hanya butuh perubahan sebesar 1% pada bobot untuk membalik hasil, artinya keputusanmu berisiko tinggi.
 
 #### C. Skenario *What-if* (Terbaik vs Terburuk)
 
@@ -64,7 +64,7 @@ Hasil awal matriks menunjukkan **Lokasi A** unggul tipis karena kriteria "Waktu 
 
 Untuk menguji keputusan ini, manajer melakukan analisis sensitivitas:
 
-*   **Skenario:** Terjadi lonjakan harga bahan bakar secara drastis yang berdampak pada membengkaknya biaya logistik dari Lokasi B.
+*   **Skenario:** Harga bahan bakar melonjak sehingga biaya logistik dari Lokasi B membengkak.
 *   **Langkah Pengujian:** Naikkan bobot kriteria "Biaya Operasional" dari semula 20% menjadi 40%.
 *   **Dampak Akhir:** Skor total Lokasi B merosot jauh di bawah Lokasi A. Ini membuktikan bahwa Lokasi A merupakan keputusan yang tangguh menghadapi risiko fluktuasi biaya operasional.
 
@@ -83,4 +83,4 @@ Dengan bobot yang seimbang, kedua vendor seri di 7,0, jadi belum ada yang memimp
 
 > **Catatan Penting:** Analisis sensitivitas bukan bertujuan mencari jawaban yang paling "benar", melainkan memahami **risiko** di balik keputusan yang kamu pilih.
 
-Jika hasil keputusanmu tidak berubah meskipun kamu menggeser bobot kriteria sebesar $\pm 10-20 \text{\%}$, kamu bisa sangat percaya diri dengan pilihan tersebut. Namun, jika perubahan kecil langsung mengacaukan peringkat alternatif, luangkan waktu kembali ke tahap pengumpulan data untuk memastikan angka-angkamu seakurat mungkin sebelum melangkah lebih jauh.
+Jika hasil keputusanmu tidak berubah meskipun kamu menggeser bobot kriteria sebesar $\pm 10-20 \text{\%}$, kamu bisa percaya diri dengan pilihan tersebut. Namun, jika perubahan kecil langsung mengacaukan peringkat alternatif, luangkan waktu kembali ke tahap pengumpulan data untuk memastikan angka-angkamu seakurat mungkin sebelum melangkah lebih jauh.

@@ -12,8 +12,8 @@ Dalam konteks matriks keputusan, **Alternatif** adalah berbagai opsi, solusi, at
 
 Banyak orang terjebak dalam *tunnel vision*, di mana mereka hanya berfokus pada satu atau dua opsi yang sudah lazim. Mengidentifikasi alternatif secara menyeluruh membantu:
 
-1. **Mencegah Penyesalan.** Cara ini mengurangi risiko melewatkan peluang emas yang sebenarnya lebih menguntungkan.
-2. **Objektivitas yang Lebih Baik.** Kita didorong untuk mempertimbangkan opsi yang mungkin awalnya kurang disukai, tetapi secara teknis sangat mumpuni.
+1. **Mencegah Penyesalan.** Cara ini mengurangi risiko melewatkan peluang yang sebenarnya lebih menguntungkan.
+2. **Objektivitas yang Lebih Baik.** Kita didorong untuk mempertimbangkan opsi yang mungkin awalnya kurang disukai, tetapi secara teknis mumpuni.
 3. Kita bisa menghemat waktu (**Efisiensi**) dengan langsung membuang opsi yang kurang layak sejak awal agar tidak membuang waktu pada tahap penilaian nanti.
 
 ### Strategi Menyusun Daftar Alternatif
@@ -22,7 +22,7 @@ Untuk mendapatkan daftar yang solid, kamu perlu menggabungkan kreativitas dengan
 
 #### 1. Sesi *Brainstorming* (Kuantitas di atas Kualitas)
 
-Pada tahap awal, jangan terlalu kritis. Tuliskan semua kemungkinan yang muncul di benakmu atau timmu. Gunakan teknik *mind mapping* untuk memperluas cakrawala berpikir.
+Pada tahap awal, jangan terlalu kritis. Tuliskan semua kemungkinan yang muncul di benakmu atau timmu. Gunakan teknik *mind mapping* untuk memperluas daftar kemungkinan.
 
 - *Coba tanyakan pada diri sendiri: apakah ada cara radikal untuk menyelesaikan masalah ini yang belum pernah dicoba sebelumnya?*
 
@@ -55,7 +55,7 @@ Gunakan tes ini untuk membuang opsi yang tidak relevan sejak awal:
 
 - Apakah opsi ini menabrak hukum atau regulasi yang berlaku?
 - Kendala waktu: Apakah secara teknis tidak mungkin diimplementasikan dalam tenggat yang ditentukan?
-- Bagaimana dengan biaya operasionalnya? Apakah akan memberatkan keuangan kita secara ekstrem?
+- Bagaimana dengan biaya operasionalnya? Apakah akan terlalu memberatkan keuangan kita?
 
 ### Contoh Skenario & Kasus Nyata
 
@@ -80,7 +80,7 @@ Sebuah tim pengembang harus memutuskan *framework* mana yang akan digunakan untu
 
 **Daftar Alternatif Akhir untuk Matriks:**
 
-1. **React.js** dengan ekosistemnya yang sangat luas.
+1. **React.js** dengan ekosistemnya yang luas.
 2. **Vue.js** yang menawarkan kurva pembelajaran relatif cepat.
 3. **Angular** karena memiliki struktur kuat yang cocok untuk skala korporasi.
 
