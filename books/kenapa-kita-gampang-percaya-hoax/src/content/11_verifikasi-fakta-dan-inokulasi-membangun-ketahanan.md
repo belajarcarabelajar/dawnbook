@@ -1,6 +1,6 @@
 ## Verifikasi Fakta dan Inokulasi
 
-Sepanjang buku ini kamu sudah melihat kenapa otak kita gampang tergelincir: bias kognitif, emosi yang dibajak, gema ruang media sosial, sampai motif orang yang sengaja menyebar kebohongan. Bab terakhir ini tidak lagi soal "kenapa", melainkan soal "lalu apa". Kabar baiknya, percaya hoaks bukan takdir. Kita akan bahas dua lapis pertahanan: yang reaktif, memeriksa sesuatu yang sudah terlanjur sampai ke tanganmu, dan yang preventif, "memvaksin" pikiranmu supaya lebih tahan sejak awal.
+Sepanjang buku ini kamu sudah melihat kenapa otak kita gampang tergelincir: bias kognitif, emosi yang dibajak, dan gema ruang media sosial. Belum lagi motif orang yang sengaja menyebar kebohongan. Bab terakhir ini tidak lagi soal "kenapa", melainkan soal "lalu apa". Kabar baiknya, percaya hoaks bukan takdir. Kita akan bahas dua lapis pertahanan: yang reaktif, memeriksa sesuatu yang sudah terlanjur sampai ke tanganmu, dan yang preventif, "memvaksin" pikiranmu supaya lebih tahan sejak awal.
 
 ### Teknik verifikasi praktis
 
