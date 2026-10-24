@@ -1,6 +1,6 @@
 ## Referensi
 
-Berikut adalah daftar referensi dan karya ilmiah utama yang dapat kamu pelajari untuk memperdalam pemahaman mengenai Teori Permainan (Game Theory), mulai dari landasan klasik hingga perkembangan modern di bidang ekonomi, ilmu komputer, dan biologi evolusioner.
+Berikut adalah daftar referensi dan karya ilmiah utama yang dapat kamu pelajari untuk memperdalam pemahaman mengenai Teori Permainan (Game Theory). Daftar ini mencakup landasan klasik hingga perkembangan modern di bidang ekonomi, ilmu komputer, dan biologi evolusioner.
 
 1. **Axelrod, R.** (1984). [*The Evolution of Cooperation*](https://www.hachettebookgroup.com/titles/robert-axelrod/the-evolution-of-cooperation/9780465005642/). New York: Basic Books.
 2. **Binmore, K.** (2007). [*Playing for Real: A Text on Game Theory*](https://doi.org/10.1093/acprof:oso/9780195300574.001.0001). Oxford: Oxford University Press.
