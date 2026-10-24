@@ -77,12 +77,12 @@ $$
 
 ### Studi Supir Taksi London
 
-Salah satu bukti paling terkenal tentang neurogenesis dan plastisitas adalah studi terhadap supir taksi di London. Untuk mendapatkan lisensi, mereka harus menghafal "The Knowledge", peta rumit dari 25.000 jalan di London.
+Salah satu bukti paling terkenal tentang plastisitas otak orang dewasa adalah studi Maguire dan rekan (2000) terhadap supir taksi di London. Untuk mendapatkan lisensi, mereka harus menguasai "The Knowledge", yaitu cara bernavigasi di antara ribuan tempat di kota itu.
 
 **Hasil penelitian menunjukkan:**
 
-- Supir taksi yang berhasil menghafal peta tersebut memiliki volume hippocampus posterior yang jauh lebih besar dibandingkan rata-rata orang biasa.
-- Pertumbuhan ini terjadi karena tuntutan kognitif yang intens secara terus-menerus memicu kelahiran dan integrasi neuron baru untuk memproses navigasi spasial yang kompleks.
+- Hasil pemindaian MRI memperlihatkan volume materi abu-abu di hippocampus posterior supir taksi lebih besar dibandingkan kelompok pembanding yang tidak menyetir taksi, dan volume itu berkorelasi dengan lamanya mereka menjadi supir taksi.
+- Studi ini mengukur volume, bukan kelahiran sel. Para penelitinya sendiri menyebut neurogenesis hanya sebagai salah satu mekanisme yang mungkin mendasari perubahan itu, karena data MRI tidak bisa menunjukkannya secara langsung.
 
 ### Bagaimana Memacu Kelahiran Neuron Baru?
 
