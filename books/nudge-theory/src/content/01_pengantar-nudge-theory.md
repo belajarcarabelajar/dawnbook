@@ -1,6 +1,6 @@
 ## Pengantar Nudge Theory
 
-Selamat datang di modul pertama dari perjalanan kita memahami **Arsitektur Pilihan** (*Choice Architecture*). Pernahkah kamu merasa bahwa keputusan yang kamu buat (seperti memilih menu makan siang, mengeklik tombol "Beli Sekarang", atau menentukan rute pulang) adalah hasil murni dari kehendak bebasmu?
+Setiap pilihan yang kamu ambil hadir dalam lingkungan yang sudah dirancang, dan rancangan itu punya nama: **Arsitektur Pilihan** (*Choice Architecture*). Pernahkah kamu merasa bahwa keputusan yang kamu buat (seperti memilih menu makan siang, mengeklik tombol "Beli Sekarang", atau menentukan rute pulang) adalah hasil murni dari kehendak bebasmu?
 
 Kenyataannya, setiap keputusan yang kita ambil selalu terjadi di dalam sebuah wadah atau lingkungan yang telah dirancang. Cara pilihan-pilihan tersebut disajikan kepadamu sangat memengaruhi apa yang akhirnya kamu pilih. Inilah inti dari Arsitektur Pilihan.
 
