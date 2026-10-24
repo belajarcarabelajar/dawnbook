@@ -39,7 +39,7 @@ Untuk memahami bagaimana pengabaian respons berlangsung secara nyata di ruang ke
 | **160** | G | Pemulai | "Jaraknya berapa?" | **Pengabaian 3:** Sebelum penjelasan siswa tuntas atau diulas, guru memotong dengan pertanyaan teknis baru. |
 | **161** | S | Respons | "Setengah meter." | Siswa memberikan jawaban singkat penutup. |
 
-*(Dikutip dan diolah dari Kutipan Teks 7, Menanam Ubi Kayu)*
+*(Dikutip dan diolah dari Kutipan Teks 7, Menanam Ubi Kayu, dalam Marliana, 2017)*
 
 Jika kamu memperhatikan deretan gerakan di atas, khususnya pada gerakan [151], [153], dan [160], terlihat jelas bagaimana guru bertindak sebagai pengendali topik yang dominan. Jawaban siswa pada gerakan [150] ("Di sawaaah") tidak mendapatkan penegasan apakah ubi kayu memang ditanam di sawah atau di ladang. Guru langsung meloncat menanyakan hal lain pada gerakan [151].
 

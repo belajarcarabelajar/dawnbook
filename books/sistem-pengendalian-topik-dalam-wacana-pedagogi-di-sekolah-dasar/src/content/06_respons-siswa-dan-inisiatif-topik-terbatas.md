@@ -4,7 +4,7 @@ Dalam wacana pedagogi di sekolah dasar, alur pembicaraan kelas lebih sering didi
 
 ### Inisiatif Terbatas Siswa dalam Pembukaan Topik
 
-Berdasarkan temuan empiris dalam wacana kelas sekolah dasar, partisipasi aktif siswa dalam membuka topik baru berada pada tingkat yang rendah. Dari seluruh rekaman wacana yang dianalisis, pengendalian topik oleh siswa hanya ditemukan pada Teks 5, Teks 7, dan Teks 9. Siswa memanfaatkan kata sapaan langsung untuk menarik perhatian guru sebelum menyampaikan pertanyaan atau gagasan baru.
+Menurut temuan empiris Marliana (2017) dalam wacana kelas sekolah dasar, partisipasi aktif siswa dalam membuka topik baru berada pada tingkat yang rendah. Dari seluruh rekaman wacana yang dianalisis, pengendalian topik oleh siswa hanya ditemukan pada Teks 5, Teks 7, dan Teks 9. Siswa memanfaatkan kata sapaan langsung untuk menarik perhatian guru sebelum menyampaikan pertanyaan atau gagasan baru.
 
 Tabel berikut menggambarkan distribusi dan pola inisiatif pembukaan topik oleh siswa dalam wacana interaksi kelas:
 

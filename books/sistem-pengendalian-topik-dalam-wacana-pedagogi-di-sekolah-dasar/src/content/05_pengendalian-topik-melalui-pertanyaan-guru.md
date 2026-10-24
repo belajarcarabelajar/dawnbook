@@ -8,7 +8,7 @@ Namun, pengajuan pertanyaan oleh guru tidak selalu menghasilkan tanggapan cepat 
 
 ### Dinamika Respons Siswa terhadap Pertanyaan Guru
 
-Berdasarkan hasil analisis wacana kelas, pertanyaan yang diajukan guru untuk mengendalikan topik baru ternyata lebih sering tidak langsung mendapat jawaban dari siswa pada kesempatan pertama daripada langsung dijawab. Guru sering kali harus mengulang pertanyaan, menyederhanakan kalimat, atau bahkan menjawab pertanyaannya sendiri karena ruang kelas yang hening.
+Dalam analisis wacana kelas yang dilakukan Marliana (2017), pertanyaan yang diajukan guru untuk mengendalikan topik baru ternyata lebih sering tidak langsung mendapat jawaban dari siswa pada kesempatan pertama daripada langsung dijawab. Guru sering kali harus mengulang pertanyaan, menyederhanakan kalimat, atau bahkan menjawab pertanyaannya sendiri karena ruang kelas yang hening.
 
 Tabel berikut menunjukkan distribusi frekuensi respons siswa terhadap strategi pengendalian topik melalui pertanyaan guru:
 

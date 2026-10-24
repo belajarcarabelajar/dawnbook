@@ -49,6 +49,8 @@ Berikut adalah pemetaan tabel interaksi kelas yang menggambarkan pengorganisasia
 | | Respons (*Response*) | Siswa | "Pembinaan." | Mempertegas jawaban |
 | | Komentar (*Feedback*) | Guru | "Ya, bagus! Sektor pembinaan." | Evaluasi, penguatan, dan penegasan |
 
+*(Contoh dari Aman, 2005, dikutip dalam Marliana, 2017)*
+
 Melalui tabel di atas, kamu dapat melihat bagaimana guru memegang kendali atas alur pembicaraan. Ketika jawaban siswa pada klausa awal belum memuaskan atau kurang terdengar jelas, guru langsung melakukan gerakan pemulai ulang untuk mengarahkan siswa hingga memperoleh jawaban yang tepat.
 
 ---

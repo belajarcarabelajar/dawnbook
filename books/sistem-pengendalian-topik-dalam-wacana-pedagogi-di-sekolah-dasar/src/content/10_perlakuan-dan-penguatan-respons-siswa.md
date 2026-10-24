@@ -22,10 +22,10 @@ Dalam wacana pedagogi sekolah dasar, perlakuan dan penguatan terhadap respons si
 Pemberian umpan balik oleh guru mencerminkan bentuk otoritas dan dominasi guru dalam percakapan kelas. Guru memiliki wewenang penuh untuk memilih bentuk respons yang akan diberikan, apakah akan memuji, mengulang jawaban, atau justru mengabaikannya.
 
 #### 1. Pujian sebagai Penanda Penutup Topik
-Meski frekuensi pemberian pujian dalam interaksi kelas terkadang tergolong sedikit (sekitar 2% dari total alur percakapan), kehadiran pujian memiliki bobot pedagogis yang besar. Sinclair dan Coulthard (1975) menegaskan bahwa komentar guru sebagai tindak lanjut (*follow-up*) sangat dibutuhkan agar siswa merasa dihargai. Ketika guru mengucapkan kata *"Bagus"* atau *"Pintar"*, tindakan ini tidak hanya memvalidasi siswa, tetapi juga berfungsi sebagai sinyal bahwa bahasan pada poin tersebut telah tuntas.
+Meski frekuensi pemberian pujian dalam interaksi kelas terkadang tergolong sedikit (sekitar 2% dari total alur percakapan menurut Marliana, 2017), kehadiran pujian memiliki bobot pedagogis yang besar. Sinclair dan Coulthard (1975) menegaskan bahwa komentar guru sebagai tindak lanjut (*follow-up*) sangat dibutuhkan agar siswa merasa dihargai. Ketika guru mengucapkan kata *"Bagus"* atau *"Pintar"*, tindakan ini tidak hanya memvalidasi siswa, tetapi juga berfungsi sebagai sinyal bahwa bahasan pada poin tersebut telah tuntas.
 
 #### 2. Pengulangan Jawaban sebagai Penjelas dan Pembatas
-Guru sering kali mengulang jawaban siswa (sekitar 6% dalam temuan wacana kelas) sebelum melangkah ke pertanyaan berikutnya. Repetisi ini memiliki fungsi ganda:
+Guru sering kali mengulang jawaban siswa (sekitar 6% dalam temuan Marliana, 2017) sebelum melangkah ke pertanyaan berikutnya. Repetisi ini memiliki fungsi ganda:
 * **Fungsi Audibilitas:** Memastikan jawaban siswa yang mungkin terdengar pelan dapat didengar oleh seluruh siswa di kelas.
 * **Fungsi Struktur Percakapan:** Menjadi penanda batas (*boundary marker*) yang menegaskan bahwa respons siswa telah diterima secara resmi oleh guru, sehingga percakapan siap berpindah ke topik baru.
 
