@@ -1,4 +1,4 @@
-# Pengantar Psikologi Positif
+## Pengantar Psikologi Positif
 
 Selamat datang dalam perjalanan untuk memahami apa yang membuat hidup kita benar-benar berjalan optimal, bukan hanya berfokus untuk memperbaiki kerusakan. Selama puluhan tahun, psikologi sering kali diidentikkan dengan sofa terapis, diagnosis gangguan mental, dan upaya memulihkan trauma. Namun, **Psikologi Positif** hadir untuk melengkapi spektrum tersebut.
 
