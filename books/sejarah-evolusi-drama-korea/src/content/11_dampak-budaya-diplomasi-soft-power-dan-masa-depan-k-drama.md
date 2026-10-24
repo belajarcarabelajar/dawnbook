@@ -60,7 +60,7 @@ Meskipun berbagai teknologi baru ini memberikan kemudahan luar biasa, industri K
 
 Salah satunya adalah benturan antara orisinalitas dengan algoritma. Jika proses kreatif sepenuhnya didikte oleh hasil analisis AI, ada kekhawatiran kita akan kehilangan keunikan serta kedalaman emosi yang hanya bisa dihasilkan oleh intuisi manusia. Isu etika digital juga mencuat seiring maraknya penggunaan visual dan kloning suara aktor menggunakan AI, memicu sengketa rumit seputar hak cipta intelektual serta royalti. Di samping itu, tingkat saturasi pasar (*market saturation*) yang tinggi akibat ribuan judul yang dirilis setiap tahun memaksa kreator untuk bekerja ekstra keras agar karya mereka tidak tenggelam di tengah keseragaman konten.
 
-## Kesimpulan
+## Teknologi Hanyalah Sarana Penunjang
 
 K-drama telah bertransformasi dari hiburan domestik menjadi instrumen *soft power* global yang mampu menggerakkan perekonomian dan diplomasi internasional. Dengan masuknya teknologi AI dan metaverse, kita akan menyaksikan era baru ketika pengalaman menonton menjadi lebih imersif, personal, dan melampaui sekat-sekat geografis.
 
