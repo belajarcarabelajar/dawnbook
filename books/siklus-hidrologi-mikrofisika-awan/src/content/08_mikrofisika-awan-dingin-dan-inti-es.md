@@ -1,6 +1,6 @@
 ## Mikrofisika Awan Dingin dan Inti Es
 
-Selamat datang di ranah mikrofisika awan dingin (*cold clouds*), sebuah kondisi atmosfer ketika air dapat bertahan dalam wujud cair meskipun suhu lingkungan telah berada jauh di bawah titik beku. Jika pembahasan sebelumnya berfokus pada dinamika tetesan air cair, bagian ini mengulas secara mendalam mekanika kelahiran kristal es pertama di atmosfer.
+Mikrofisika awan dingin (*cold clouds*) membahas kondisi atmosfer ketika air dapat bertahan cair meskipun suhu lingkungan jauh di bawah titik beku. Jika pembahasan sebelumnya berfokus pada dinamika tetesan air cair, bagian ini mengulas secara mendalam mekanika kelahiran kristal es pertama di atmosfer.
 
 ### 1. Rahasia Air Superdingin (Supercooled Water)
 

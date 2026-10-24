@@ -1,6 +1,6 @@
 ## Stabilitas Atmosfer dan Pembentukan Awan
 
-Pernahkah terlintas pertanyaan mengapa pada suatu hari langit terlihat biru bersih tanpa awan, sementara di hari lain gumpalan awan putih raksasa muncul secara tiba-tiba dan berubah menjadi badai? Jawabannya terletak pada interaksi antara suhu dan tekanan di atmosfer bumi.
+Pernahkah terlintas pertanyaan mengapa pada suatu hari langit terlihat biru bersih tanpa awan, sementara di hari lain muncul gumpalan awan putih raksasa? Gumpalan itu datang secara tiba-tiba, lalu berubah menjadi badai. Jawabannya terletak pada interaksi antara suhu dan tekanan di atmosfer bumi.
 
 Pada bagian ini, kita akan mempelajari bagaimana udara bergerak secara vertikal, mengapa udara yang naik mendingin, dan bagaimana profil suhu atmosfer menentukan apakah awan akan terbentuk atau tertekan sebelum sempat tumbuh.
 

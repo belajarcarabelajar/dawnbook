@@ -1,6 +1,6 @@
 ## Pertumbuhan Tetesan melalui Difusi Uap
 
-Setelah tetesan air berhasil melewati fase kritis pembentukannya (nukleasi) pada Inti Kondensasi Awan (*Cloud Condensation Nuclei* atau CCN), tetesan tersebut tidak langsung berubah menjadi tetes hujan berukuran besar. Tetesan memasuki fase pertumbuhan awal yang dikenal sebagai **Pertumbuhan melalui Difusi Uap**.
+Tetesan air terbentuk melalui fase kritis yang disebut nukleasi pada Inti Kondensasi Awan (*Cloud Condensation Nuclei* atau CCN). Begitu fase itu terlewati, tetesan tersebut tidak langsung berubah menjadi tetes hujan berukuran besar. Tetesan memasuki fase pertumbuhan awal yang dikenal sebagai **Pertumbuhan melalui Difusi Uap**.
 
 Fase ini menyerupai "masa pertumbuhan" bagi tetesan awan. Apabila proses nukleasi diibaratkan sebagai kelahiran, difusi uap merupakan tahapan ketika tetesan "menyerap" uap air dari udara sekitarnya untuk membesar secara bertahap.
 

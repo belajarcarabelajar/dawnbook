@@ -1,6 +1,6 @@
 ## Mekanisme Pembentukan Hujan Es dan Salju
 
-Setelah kita memahami bagaimana **Proses Bergeron-Findeisen** menciptakan kristal es awal di awan dingin, pertanyaan selanjutnya adalah: bagaimana kristal yang sangat kecil itu berubah menjadi kepingan salju yang indah atau bongkahan es (*hail*) yang merusak?
+Kita sudah melihat bagaimana **Proses Bergeron-Findeisen** menciptakan kristal es awal di awan dingin, tetapi kristal itu masih sangat kecil. Lalu bagaimana ia berubah menjadi kepingan salju yang indah atau bongkahan es (*hail*) yang merusak?
 
 Dalam bab ini, kita akan mengeksplorasi dua mekanisme pertumbuhan utama yang terjadi setelah fase difusi uap air: **Akresi (Riming)** dan **Agregasi**. Inilah tahap di mana partikel es mendapatkan massa yang cukup untuk melawan arus naik (*updraft*) dan jatuh ke bumi.
 

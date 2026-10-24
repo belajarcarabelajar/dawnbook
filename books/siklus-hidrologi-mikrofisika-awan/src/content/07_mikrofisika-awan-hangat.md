@@ -1,6 +1,6 @@
 ## Mikrofisika Awan Hangat
 
-Pernahkah timbul pertanyaan mengapa awan di daerah tropis, seperti di Indonesia, dapat menghasilkan hujan yang sangat lebat meskipun suhu di dalam awan tersebut tidak pernah mencapai titik beku? Di sinilah **Mikrofisika Awan Hangat** memegang peran utama.
+Awan di daerah tropis, seperti di Indonesia, dapat menghasilkan hujan yang sangat lebat meskipun suhunya tidak pernah mencapai titik beku. Pernahkah timbul pertanyaan bagaimana hal itu bisa terjadi? Di sinilah **Mikrofisika Awan Hangat** memegang peran utama.
 
 Pada bagian sebelumnya, pembelajaran telah membahas bagaimana tetesan air tumbuh melalui **difusi uap**. Namun, pertumbuhan melalui difusi berlangsung sangat lambat setelah tetesan mencapai ukuran tertentu (sekitar $20\ \mu\text{m}$). Untuk menjadi tetes hujan yang berukuran $1\text{–}2\text{ mm}$, diperlukan mekanisme lain yang jauh lebih cepat: proses **Tabrakan dan Penyatuan (Collision-Coalescence)**.
 

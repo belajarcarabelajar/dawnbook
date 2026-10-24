@@ -1,6 +1,6 @@
 ## Proses Bergeron-Findeisen
 
-Bagaimana hujan dapat terbentuk di wilayah beriklim dingin saat musim dingin, atau di puncak awan kumulonimbus yang menjulang tinggi di kawasan khatulistiwa? Di mana suhu berada jauh di bawah titik beku, pembentukan presipitasi tidak hanya bergantung pada mekanisme tumbukan dan penggabungan (*collision-coalescence*) tetes air cair. Pada temperatur subnol, mekanisme dominan yang mendorong pertumbuhan partikel presipitasi adalah pembekuan dan transfer massa uap air yang dikenal sebagai **Proses Bergeron-Findeisen** (atau proses Tor Bergeron dan Walter Findeisen).
+Bagaimana hujan dapat terbentuk di wilayah beriklim dingin saat musim dingin, atau di puncak awan kumulonimbus yang menjulang di khatulistiwa? Di mana suhu berada jauh di bawah titik beku, pembentukan presipitasi tidak hanya bergantung pada mekanisme tumbukan dan penggabungan (*collision-coalescence*) tetes air cair. Pada temperatur subnol, mekanisme dominan yang mendorong pertumbuhan partikel presipitasi adalah pembekuan dan transfer massa uap air yang dikenal sebagai **Proses Bergeron-Findeisen** (atau proses Tor Bergeron dan Walter Findeisen).
 
 ### Memahami Kondisi Fase Campuran (*Mixed-Phase*)
 
