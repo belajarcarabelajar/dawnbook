@@ -11,3 +11,4 @@
 - [Mengatasi Hambatan dalam Latihan Metakognisi](content/09_mengatasi-hambatan-dalam-latihan-metakognisi.md)
 - [Metakognisi dan Pembelajaran Regulasi Diri](content/10_metakognisi-dan-pembelajaran-regulasi-diri-menuju-pembelajar-mandiri.md)
 - [Studi Kasus dan Aplikasi Nyata Metakognisi](content/11_studi-kasus-dan-aplikasi-nyata-metakognisi-dalam-aksi.md)
+- [Referensi](content/12_referensi.md)
