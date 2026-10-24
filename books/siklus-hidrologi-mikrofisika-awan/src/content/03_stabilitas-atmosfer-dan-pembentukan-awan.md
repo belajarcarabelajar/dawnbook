@@ -45,7 +45,7 @@ Terdapat tiga jenis laju penurunan suhu yang utama untuk dipahami:
    $$
    </div>
 
-3. **Environmental Lapse Rate (ELR) / Laju Lingkungan:** Perubahan suhu udara aktual di atmosfer seiring bertambahnya ketinggian, yang diukur secara langsung menggunakan instrumen radiosonde (balon cuaca). Nilai $\text{ELR}$ bersifat sangat dinamis dan bervariasi tergantung pada kondisi cuaca setempat.
+3. **Environmental Lapse Rate (ELR) / Laju Lingkungan:** Perubahan suhu udara aktual di atmosfer seiring bertambahnya ketinggian, yang diukur secara langsung menggunakan instrumen radiosonde (balon cuaca). Nilai $\text{ELR}$ bersifat dinamis dan bervariasi tergantung pada kondisi cuaca setempat.
 
 ---
 
@@ -67,7 +67,7 @@ Udara dikatakan stabil jika paket udara yang didorong naik memiliki suhu **lebih
 #### B. Atmosfer Tidak Stabil (Unstable)
 Udara berada dalam kondisi tidak stabil jika paket udara yang naik tetap ber-suhu **lebih hangat** daripada udara lingkungan. Karena lebih hangat dan ber-massa jenis lebih rendah, udara tersebut akan terus naik secara mandiri akibat daya apung positif (*positive buoyancy*).
 
-- **Dampak:** Perkembangan awan vertikal yang menjulang tinggi secara masif (*Cumulus* hingga *Cumulonimbus*).
+- **Dampak:** Perkembangan awan vertikal yang menjulang tinggi (*Cumulus* hingga *Cumulonimbus*).
 
 #### C. Ketidakstabilan Bersyarat (Conditional Instability)
 Kondisi ini merupakan keadaan yang paling umum di atmosfer. Paket udara bersifat stabil sewaktu dalam keadaan kering, tetapi berubah menjadi tidak stabil apabila dipaksa naik hingga mencapai titik jenuh.
@@ -132,4 +132,4 @@ Salah satu contoh penerapan nyata dari stabilitas atmosfer dan perubahan fase ua
 - **Auditori (Narasi):** Mengingat alur utama pembentukan awan: *"Pengangkatan - Ekspansi - Pendinginan - Kejenuhan - Kondensasi Awan."*
 - **Kinestetik (Aksi):** Meniup punggung tangan dengan mulut terbuka lebar akan terasa hangat, sedangkan meniup dengan bibir mencucut kecil akan terasa dingin akibat ekspansi udara yang cepat. Ini memperagakan prinsip dasar pendinginan adiabatik secara langsung.
 
-> **Pernyataan Penutup:** Stabilitas atmosfer merupakan pengatur utama dinamika cuaca. Parameter ini menentukan apakah energi laten di atmosfer akan tetap tersimpan atau dilepaskan secara masif dalam bentuk badai konvektif. Pemahaman menyeluruh mengenai profil suhu vertikal menjadi fondasi utama dalam analisis dan prakiraan cuaca.
+> **Pernyataan Penutup:** Stabilitas atmosfer merupakan pengatur utama dinamika cuaca. Parameter ini menentukan apakah energi laten di atmosfer akan tetap tersimpan atau dilepaskan dalam jumlah besar dalam bentuk badai konvektif. Pemahaman menyeluruh mengenai profil suhu vertikal menjadi fondasi utama dalam analisis dan prakiraan cuaca.

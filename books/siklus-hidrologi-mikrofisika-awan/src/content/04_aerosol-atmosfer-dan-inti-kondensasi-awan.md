@@ -2,7 +2,7 @@
 
 Pernahkah kamu membayangkan bahwa tetesan hujan yang membasahi bumi bermula dari sebutir debu mikroskopis atau kristal garam yang melayang di langit? Tanpa partikel-partikel kecil ini, langit mungkin akan tetap cerah meskipun kelembapan udara mencapai 100%.
 
-Dalam bab ini, kita akan menjelajahi dunia mikroskopis **Aerosol Atmosfer** dan peran utama partikel ini sebagai **Inti Kondensasi Awan** (*Cloud Condensation Nuclei* atau $\text{CCN}$).
+Dalam bab ini, kita akan mempelajari partikel mikroskopis yang disebut **Aerosol Atmosfer** dan peran utama partikel ini sebagai **Inti Kondensasi Awan** (*Cloud Condensation Nuclei* atau $\text{CCN}$).
 
 ### 1. Apa itu Aerosol Atmosfer?
 

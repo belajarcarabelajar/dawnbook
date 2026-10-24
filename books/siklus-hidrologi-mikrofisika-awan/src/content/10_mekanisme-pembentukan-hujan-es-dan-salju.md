@@ -1,6 +1,6 @@
 ## Mekanisme Pembentukan Hujan Es dan Salju
 
-Kita sudah melihat bagaimana **Proses Bergeron-Findeisen** menciptakan kristal es awal di awan dingin, tetapi kristal itu masih sangat kecil. Lalu bagaimana ia berubah menjadi kepingan salju yang indah atau bongkahan es (*hail*) yang merusak?
+Kita sudah melihat bagaimana **Proses Bergeron-Findeisen** menciptakan kristal es awal di awan dingin, tetapi kristal itu masih sangat kecil. Lalu bagaimana ia berubah menjadi kepingan salju atau bongkahan es (*hail*) yang merusak?
 
 Dalam bab ini, kita akan mengeksplorasi dua mekanisme pertumbuhan utama yang terjadi setelah fase difusi uap air: **Akresi (Riming)** dan **Agregasi**. Inilah tahap di mana partikel es mendapatkan massa yang cukup untuk melawan arus naik (*updraft*) dan jatuh ke bumi.
 
@@ -69,7 +69,7 @@ Tidak semua kristal es yang bertabrakan akan menyatu. Keberhasilan agregasi sang
 - **Suhu Sangat Dingin ($< -10^\circ\text{C}$):** Kristal es bersifat keras dan kering. Kristal-kristal tersebut cenderung memantul satu sama lain saat bertabrakan, sehingga sulit membentuk kepingan salju yang besar.
 - **Suhu Dekat Titik Beku (Sekitar $0^\circ\text{C}$):** Pada suhu ini, permukaan kristal es memiliki lapisan tipis menyerupai cairan (*quasi-liquid layer*). Lapisan ini bertindak seperti "lem" yang membuat kristal-kristal es mudah menempel satu sama lain.
 
-**Karakteristik Hasil Agregasi:** Kristal yang dihasilkan melalui agregasi biasanya berbentuk kompleks dan memiliki estetika dendritik yang dikenal sebagai kepingan salju klasik. Ukurannya bisa mencapai beberapa sentimeter jika kondisi atmosfer mendukung.
+**Karakteristik Hasil Agregasi:** Kristal yang dihasilkan melalui agregasi biasanya berbentuk kompleks dan dendritik, yang dikenal sebagai kepingan salju klasik. Ukurannya bisa mencapai beberapa sentimeter jika kondisi atmosfer mendukung.
 
 ## Ringkasan Perbedaan Graupel, Hail, dan Salju
 

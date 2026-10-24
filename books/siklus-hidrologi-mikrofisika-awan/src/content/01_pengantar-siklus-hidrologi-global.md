@@ -1,6 +1,6 @@
 ## Pengantar Siklus Hidrologi Global
 
-Selamat datang di awal perjalanan memahami salah satu sistem pendukung kehidupan paling mendasar di planet ini. Bumi dapat diandaikan sebagai sebuah mesin raksasa yang bekerja tanpa henti. Bahan bakarnya berasal dari energi radiasi matahari, sementara cairan yang mengalir dan menggerakkan seluruh sistem ini adalah air.
+Salah satu sistem yang menopang kehidupan di Bumi adalah siklus hidrologi, yaitu perpindahan air antara lautan, udara, dan daratan yang terus berlangsung. Bumi dapat diandaikan sebagai sebuah mesin yang bekerja tanpa henti. Bahan bakarnya berasal dari energi radiasi matahari, sementara cairan yang mengalir dan menggerakkan seluruh sistem ini adalah air.
 
 Siklus hidrologi melingkupi sirkulasi air yang berlangsung secara konstan dan tertutup antara atmosfer, daratan, serta lautan. Dalam bab ini, kita akan mempelajari bagaimana molekul air melakukan perjalanan ribuan kilometer, berpindah wujud dari fase cair ke gas lalu kembali lagi, serta menjaga jumlah total air di Bumi tetap relatif konstan selama jutaan tahun.
 
@@ -107,7 +107,7 @@ Di kawasan tropis seperti Kalimantan, alih fungsi lahan hutan (deforestasi) meng
 
 ### Perjalanan Air yang Tak Pernah Usai
 
-Siklus hidrologi global merupakan interaksi abadi antara massa air dan radiasi matahari. Air menguap menuju atmosfer sebagai uap tak kasatmata, mengumpul menjadi awan, dan kembali menyirami daratan untuk menopang kehidupan.
+Siklus hidrologi global merupakan interaksi yang terus berlangsung antara massa air dan radiasi matahari. Air menguap menuju atmosfer sebagai uap tak kasatmata, mengumpul menjadi awan, dan kembali menyirami daratan untuk menopang kehidupan.
 
 > **Poin Utama Bab Ini:**
 > 

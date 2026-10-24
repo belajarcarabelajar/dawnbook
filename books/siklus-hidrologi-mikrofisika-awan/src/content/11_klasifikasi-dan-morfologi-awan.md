@@ -37,7 +37,7 @@ Awan pada kelompok ini menggunakan awalan *Alto*. Di lapisan ini, sering ditemuk
 Kelompok ini tersusun hampir sepenuhnya oleh tetesan air cair. Proses mikrofisika utamanya meliputi nukleasi heterogen dan kondensasi difusional uap air.
 
 1. ***Stratus* (St):** Lapisan abu-abu seragam menyerupai kabut yang melayang di atas tanah. Awan ini sering memicu gerimis (*drizzle*) melalui mekanisme tabrakan dan penyatuan (*collision-coalescence*) tingkat rendah.
-2. ***Stratocumulus* (Sc):** Gumpalan awan rendah yang membentang luas dengan celah langit di antara elemen gumpalannya. Awan ini memegang peran vital dalam keseimbangan radiasi bumi karena kemampuan albedonya memantulkan radiasi gelombang pendek matahari.
+2. ***Stratocumulus* (Sc):** Gumpalan awan rendah yang membentang luas dengan celah langit di antara elemen gumpalannya. Awan ini berperan dalam keseimbangan radiasi bumi karena kemampuan albedonya memantulkan radiasi gelombang pendek matahari.
 3. ***Nimbostratus* (Ns):** Awan hujan berwarna gelap dan tebal (*nimbus* berarti hujan). Secara mikrofisika, awan ini memiliki kandungan air tersuspensi tinggi dengan ukuran tetesan yang cukup besar untuk jatuh sebagai presipitasi kontinu.
 
 ### 3. Awan dengan Pertumbuhan Vertikal
@@ -75,7 +75,7 @@ Pemanggangan adonan menggunakan suhu rendah yang merata (kondisi atmosfer stabil
 
 ### 5. Membaca Dinamika Langit
 
-Pemahaman mengenai morfologi awan memberikan pemetaan kondisi cuaca yang vital bagi berbagai bidang industri:
+Pemahaman mengenai morfologi awan memberikan pemetaan kondisi cuaca yang penting bagi berbagai bidang industri:
 
 - **Penerbangan:** Dunia penerbangan sangat menghindari awan *Cumulonimbus* karena arus vertikal (*updraft* dan *downdraft*) ekstrem di dalamnya berisiko merusak struktur pesawat serta memicu akumulasi es (*icing*) pada sayap.
 - **Pertanian:** Kemunculan awan *Cirrostratus* yang disusul oleh *Altostratus* menjadi indikator kedatangan sistem fron hangat yang membawa hujan kontinu dalam jangka waktu 12–24 jam.

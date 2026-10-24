@@ -1,6 +1,6 @@
 ## Termodinamika Atmosfer dan Perubahan Fase
 
-Selamat datang di jantung dari mesin cuaca Bumi! Jika atmosfer dianggap sebagai sebuah mesin, maka uap air adalah bahan bakarnya. Dalam bagian ini, pembahasan berfokus pada bagaimana air berubah wujud serta bagaimana proses tersebut melepaskan atau menyerap energi dalam jumlah besar yang memicu badai, membentuk awan, dan mengatur suhu planet ini.
+Jika atmosfer Bumi dianggap sebagai sebuah mesin cuaca, uap air adalah bahan bakarnya, karena air menyerap dan melepas energi ketika berubah wujud. Dalam bagian ini, pembahasan berfokus pada bagaimana air berubah wujud serta bagaimana proses tersebut melepaskan atau menyerap energi dalam jumlah besar yang memicu badai, membentuk awan, dan mengatur suhu planet ini.
 
 ### 1. Air Sang Bunglon Molekuler
 
@@ -68,7 +68,7 @@ Keterangan variabel:
 - $R\_v$ adalah konstanta gas spesifik untuk uap air ($461.5\text{ J/(kg}\cdot\text{K)}$)
 - $T$ adalah suhu mutlak dalam Kelvin ($\text{K}$)
 
-**Poin Utama:** Udara hangat memiliki kapasitas menampung uap air yang jauh lebih besar daripada udara dingin. Hal ini menjelaskan mengapa badai di daerah tropis memiliki intensitas tinggi; terdapat ketersediaan energi laten yang sangat melimpah.
+**Poin Utama:** Udara hangat memiliki kapasitas menampung uap air yang jauh lebih besar daripada udara dingin. Hal ini menjelaskan mengapa badai di daerah tropis memiliki intensitas tinggi; terdapat ketersediaan energi laten yang melimpah.
 
 ### 5. Efek Pendinginan Evaporatif
 
@@ -109,4 +109,4 @@ Berikut hasilnya untuk lima suhu, dari suhu di permukaan ($30^\circ\text{C}$) sa
 - **Tekanan uap jenuh ($e\_s$)** bergantung secara eksponensial pada suhu, sehingga kenaikan suhu meningkatkan kapasitas udara dalam menyimpan air.
 - **Kondensasi** melepaskan kembali energi tersembunyi ke atmosfer, memanaskan udara di sekitar dan memicu pertumbuhan awan secara konvektif.
 
-> **Pesan Utama:** Tanpa panas laten dan perubahan fase air, iklim Bumi akan menjadi sangat ekstrem dan siklus hidrologi tidak akan berfungsi dalam mendistribusikan air tawar ke seluruh daratan.
+> **Pesan Utama:** Tanpa panas laten dan perubahan fase air, iklim Bumi akan menjadi ekstrem dan siklus hidrologi tidak akan berfungsi dalam mendistribusikan air tawar ke seluruh daratan.

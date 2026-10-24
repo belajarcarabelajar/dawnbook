@@ -106,7 +106,7 @@ Pada kondisi kekeringan atau kebutuhan presipitasi tambahan, lapisan awan dingin
 #### Prosedur dan Mekanisme Penyemaian
 
 1. **Penaburan Agen Penyemai:** Pesawat udara atau roket melepaskan material penyemai seperti **Perak Iodida** ($\text{AgI}$) atau es kering ($\text{CO}\_2$ padat) ke dalam lapisan awan superdingin.
-2. **Fungsi AgI sebagai Inti Es Buatan:** Kisi kristal $\text{AgI}$ memiliki struktur geometri heksagonal yang sangat presisi dan serupa dengan struktur kisi kristal es alami, sehingga $\text{AgI}$ efektif bertindak sebagai Inti Es ($\text{IN}$) pada temperatur yang lebih hangat ($T \approx -4^\circ\text{C}$).
+2. **Fungsi AgI sebagai Inti Es Buatan:** Kisi kristal $\text{AgI}$ memiliki struktur geometri heksagonal yang serupa dengan struktur kisi kristal es alami, sehingga $\text{AgI}$ efektif bertindak sebagai Inti Es ($\text{IN}$) pada temperatur yang lebih hangat ($T \approx -4^\circ\text{C}$).
 3. **Inisiasi Proses Bergeron-Findeisen:** Kehadiran inti es buatan menginisiasi pembentukan kristal es seketika. Gradien tekanan uap langsung terbentuk antara tetesan air superdingin dan es baru tersebut.
 4. **Pertumbuhan Pesat dan Presipitasi:** Kristal es tumbuh pesat melalui deposisi uap, mencapai ukuran kritis presipitasi, lalu jatuh sebagai salju atau mencair menjadi hujan di permukaan tanah.
 
