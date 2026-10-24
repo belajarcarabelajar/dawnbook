@@ -50,7 +50,7 @@ flowchart LR
 
 Otak manusia menghemat energi kognitif melalui pembentukan **skema**, yaitu jalan pintas mental untuk mengorganisasikan dan menginterpretasikan informasi dunia sekitar. Begitu sebuah kata terpatri ke dalam skema negatif, pemaknaan netralnya menjadi sulit dipulihkan.
 
-Perhatikan perbandingan persepsi antara sebutan *koruptor* dan *maling*. Sebutan *koruptor* kerap dipersepsikan lebih berjarak dan abstrak secara psikologis dibandingkan kata *maling*, kendati substansi tindakannya sama-sama merupakan pencurian hak orang lain.
+Bandingkan sebutan *koruptor* dan *maling*. Sebutan *koruptor* kerap dipersepsikan lebih berjarak dan abstrak secara psikologis dibandingkan kata *maling*, kendati substansi tindakannya sama-sama merupakan pencurian hak orang lain.
 
 Hal tersebut terjadi karena skema mental mengaitkan *koruptor* dengan figur berdasi, birokrasi, dan ruang kantor, sementara *maling* langsung mengaktifkan skema kejahatan jalanan. Pergeseran makna di sini sangat dipengaruhi oleh **persepsi visual** dan **hierarki status sosial** yang tersimpan di dalam memori jangka panjang.
 
@@ -83,4 +83,4 @@ Bias kognitif ini menjelaskan mengapa proses **pejorasi** kerap berlangsung lebi
 
 > **Poin Kunci:** Perubahan makna kata merupakan cerminan nyata dari evolusi empati, persepsi sosial, dan nilai peradaban manusia. Memahami dinamika psikologis di balik bahasa melatih kepekaan dalam memilih tuturan yang membangun martabat bersama.
 
-*Refleksi: Perhatikan bagaimana sebuah kata yang pada masa lalu dianggap bergengsi kini bergeser menjadi berkonotasi canggung atau klise. Pergeseran tersebut mencerminkan adaptasi skema psikologis dan dinamika norma sosial yang terus bergerak.*
+*Refleksi: Coba ingat sebuah kata yang pada masa lalu dianggap bergengsi, tetapi kini bergeser menjadi berkonotasi canggung atau klise. Pergeseran tersebut mencerminkan adaptasi skema psikologis dan dinamika norma sosial yang terus bergerak.*

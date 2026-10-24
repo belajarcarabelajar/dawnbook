@@ -64,7 +64,7 @@ Dalam komunikasi organisasi dan ruang publik, kepekaan terhadap pergeseran nilai
 
 #### Skenario Pemilihan Diksi Manajerial
 
-Perhatikan perbedaan dampak psikologis dan sosial dari dua rumusan pengumuman internal perusahaan:
+Bandingkan dampak psikologis dan sosial dari dua rumusan pengumuman internal perusahaan berikut:
 
 * **Pendekatan Kasar (Pejoratif):**  
   *"Perusahaan memutuskan untuk memecat sejumlah pembantu operasional gudang."*  

@@ -48,7 +48,7 @@ Ketika seorang penutur menggunakan kosakata yang telah mengalami pejorasi atas d
 Untuk merawat kesantunan dan mencegah friksi interaksi, beberapa prinsip praktis dapat diterapkan:
 
 1. **Peka Konteks Temporal:** Kosakata bersifat dinamis seiring waktu. Bentuk tuturan yang wajar beberapa dekade lalu mungkin telah memiliki bobot rasa yang berbeda pada masa kini.
-2. **Menghormati Pilihan Komunitas:** Perhatikan identifikasi diri yang dipilih oleh kelompok masyarakat tertentu. Adopsi istilah baru yang lebih bermartabat (ameliorasi) sebagai wujud penghormatan nyata.
+2. **Menghormati Pilihan Komunitas:** Kenali identifikasi diri yang dipilih oleh kelompok masyarakat tertentu. Adopsi istilah baru yang lebih bermartabat (ameliorasi) sebagai wujud penghormatan nyata.
 3. **Menghindari Egosentrisme Linguistik:** Argumen bahwa suatu kata memiliki makna historis yang berbeda tidak dapat membenarkan penggunaannya apabila kata tersebut kini merendahkan martabat orang lain.
 4. **Menerapkan Prinsip Humanisme:** Kosakata yang telah bergeser ke ranah pejoratif dan merendahkan harkat kemanusiaan perlu ditinggalkan dari pergaulan sehari-hari.
 
