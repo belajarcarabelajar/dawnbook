@@ -1,6 +1,6 @@
 ## Konsep Flow
 
-Pernahkah kamu tenggelam dalam suatu aktivitas lalu tiba-tiba menyadari bahwa beberapa jam telah berlalu tanpa terasa? Misalnya saat menulis, bermain musik, atau menyusun kode program. Rasa lapar tidak lagi dihiraukan, suara bising di sekitar seakan memudar, dan jemarimu bergerak sendiri menyelesaikan tugas dengan presisi yang luar biasa.
+Pernahkah kamu tenggelam dalam suatu aktivitas, lalu tiba-tiba menyadari bahwa beberapa jam telah berlalu tanpa terasa? Aktivitas itu bisa berupa menulis, bermain musik, atau menyusun kode program. Rasa lapar tidak lagi dihiraukan, suara bising di sekitar seakan memudar, dan jemarimu bergerak sendiri menyelesaikan tugas dengan presisi yang luar biasa.
 
 Dalam psikologi positif, pengalaman optimal ini dikenal dengan istilah **Flow** (Aliran).
 

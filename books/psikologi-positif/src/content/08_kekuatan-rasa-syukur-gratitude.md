@@ -1,6 +1,6 @@
 ## Kekuatan Rasa Syukur (Gratitude)
 
-Pernahkah kamu membayangkan sebuah "obat ajaib" yang terbukti secara ilmiah dapat meningkatkan kualitas tidur dan menurunkan tingkat stres? Obat itu dapat memperbaiki hubungan sosial dan meningkatkan kebahagiaan secara keseluruhan, tanpa efek samping negatif. Dalam dunia psikologi positif, "obat" tersebut adalah **Rasa Syukur (Gratitude)**.
+Pernahkah kamu membayangkan sebuah "obat ajaib" yang terbukti secara ilmiah dapat meningkatkan kualitas tidur dan menurunkan tingkat stres? Obat yang sama terbukti dapat memperbaiki hubungan sosial dan meningkatkan kebahagiaan secara keseluruhan, tanpa efek samping negatif. Dalam dunia psikologi positif, "obat" tersebut adalah **Rasa Syukur (Gratitude)**.
 
 Rasa syukur tidak sebatas ucapan "terima kasih" demi sopan santun. Praktik ini merupakan bentuk pengakuan mendalam terhadap kebaikan dalam hidup kita dan kesadaran bahwa sumber kebaikan tersebut sering kali berada di luar diri kita.
 
