@@ -1,6 +1,6 @@
 ## Urutan Kerja yang Menghemat Waktu
 
-Di ladang warisan itu, cara kamu menyusun pekerjaan sejak pagi menentukan berapa banyak waktu yang habis di jalan dan berapa banyak yang tersisa.
+Di ladang warisan itu, cara kamu menyusun pekerjaan sejak pagi menentukan berapa banyak waktu yang habis di luar ruangan dan berapa banyak yang tersisa.
 
 Di HM BTN, jam berdetak selama si petani berada di luar ruangan. Setiap siraman, setiap panen, setiap langkah dari kandang ke ladang memakan menit. Habiskan seluruh hari di ladang, dan si petani muda tidak akan pernah sempat mendekati gadis pujaannya, apalagi menikah. Hari yang sama, kalau disusun dengan cermat, masih menyisakan ruang untuk hal lain.
 
