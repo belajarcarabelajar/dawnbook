@@ -76,7 +76,7 @@ Keberhasilan Jerman menjuarai Piala Dunia 2014 adalah puncak dari proses integra
 
 Luka Modrić, kapten Kroasia, adalah seorang pengungsi perang saat kecil akibat pecahnya Yugoslavia. Keberhasilannya membawa Kroasia ke final Piala Dunia 2018 adalah manifestasi dari bagaimana fragmentasi politik menciptakan identitas nasional yang sangat kuat, yang seringkali diterjemahkan menjadi daya juang ekstra di lapangan bola.
 
-## Ringkasan Konsep
+## Dua Pola Pergeseran Politik
 
 Secara garis besar, pergeseran politik ini melahirkan dua pola utama. Penyatuan Jerman memusatkan talenta terbaik ke dalam satu tim nasional yang didukung kestabilan finansial. Sebaliknya, fragmentasi Uni Soviet dan Yugoslavia memecah dominasi raksasa lama menjadi tim-tim baru yang lebih variatif, meski di saat yang sama melemahkan kekuatan tunggal yang dulu pernah mendominasi panggung dunia.
 

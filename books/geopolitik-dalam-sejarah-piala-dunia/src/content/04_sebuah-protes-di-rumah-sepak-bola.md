@@ -92,7 +92,7 @@ Pelajaran dari aksi boikot tahun 1966 ini tetap relevan hingga hari ini, melampa
 - **Dampak Nyata Posisi Tawar Kolektif.** Boikot terpadu dari negara-negara Afrika memberikan bukti bahwa persatuan negara berkembang mampu menekan institusi raksasa untuk mengubah kebijakan yang diskriminatif.
 - **Pentingnya Standar Inklusivitas.** Saat ini, keberhasilan pergelaran global diukur dari keberagaman pesertanya. Jika Afrika tidak bersikap tegas pada 1966, pencapaian bersejarah seperti keberhasilan Maroko menembus semifinal Piala Dunia 2022 mungkin tidak akan pernah terjadi.
 
-## Ringkasan Konsep
+## Empat Sisi Boikot 1966
 
 | Aspek | Detail |
 | --- | --- |
