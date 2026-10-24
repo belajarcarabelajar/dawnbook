@@ -26,7 +26,7 @@ Meskipun kita tidak selalu bisa mengendalikan "Tingkat Tekanan", kita punya kend
 
 Dalam bukunya, Nassim Taleb memperkenalkan konsep **Antifragile**. Jika sesuatu yang *fragile* (rapuh) hancur karena tekanan, dan sesuatu yang *resilient* (tangguh) mampu bertahan dari tekanan, maka sesuatu yang *antifragile* justru **bertumbuh dan menjadi lebih baik** akibat tekanan tersebut.
 
-> **Sudut Pandang:** Quarter-Life Crisis adalah api yang bisa menghanguskanmu jika kamu adalah kertas, tetapi akan menempamu menjadi pedang yang tajam jika kamu adalah besi mentah.
+> **Sudut Pandang:** Quarter-Life Crisis bekerja seperti api: kertas terbakar olehnya, sementara besi ditempa menjadi lebih kuat.
 
 *Apakah tantangan yang kamu hadapi saat ini adalah penghalang, atau sebenarnya adalah "beban latihan" yang dibutuhkan otot mentalmu untuk tumbuh?*
 

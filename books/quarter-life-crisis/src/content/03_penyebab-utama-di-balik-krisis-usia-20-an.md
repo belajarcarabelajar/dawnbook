@@ -52,7 +52,7 @@ Dulu, teman adalah orang yang kita temui setiap hari di kelas. Sekarang, persaha
 
 ### C. Hubungan Romantis dan Tekanan Komitmen
 
-Pertanyaan "Kapan nikah?" kini telah bergeser dari basa-basi biasa menjadi beban eksistensial yang nyata. Memilih pasangan hidup di tengah pencarian identitas diri yang belum selesai menciptakan ketegangan antara "keinginan untuk bebas" dan "ketakutan akan kesepian".
+Pertanyaan "Kapan nikah?" kini telah bergeser dari basa-basi biasa menjadi beban yang nyata. Memilih pasangan hidup di tengah pencarian identitas diri yang belum selesai menciptakan ketegangan antara "keinginan untuk bebas" dan "ketakutan akan kesepian".
 
 ## Si Lulusan Terbaik yang Kebingungan
 

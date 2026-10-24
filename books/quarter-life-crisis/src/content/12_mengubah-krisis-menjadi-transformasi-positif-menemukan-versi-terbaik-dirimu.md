@@ -87,4 +87,4 @@ Berikan tanda cek pada poin yang sudah atau sedang kamu rasakan:
 
 *Quarter-Life Crisis* bukan akhir dari masa mudamu. Ini adalah awal dari kedewasaan yang sadar. Dengan melewati krisis ini, kamu sedang melatih otot-otot emosional yang akan membuatmu tangguh di usia 30-an, 40-an, dan seterusnya.
 
-Ingatlah, **transformasi adalah maraton, bukan sprint.** Hargai setiap langkah kecil yang kamu ambil hari ini. Kamu sedang membangun masa depan yang sukses secara statistik sekaligus damai secara jiwa.
+Ingatlah, **transformasi adalah maraton, bukan sprint.** Hargai setiap langkah kecil yang kamu ambil hari ini. Kamu sedang membangun masa depan yang berhasil sekaligus tenang.

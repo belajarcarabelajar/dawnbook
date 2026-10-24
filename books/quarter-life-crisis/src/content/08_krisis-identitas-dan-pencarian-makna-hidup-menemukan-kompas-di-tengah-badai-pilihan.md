@@ -43,7 +43,7 @@ Dalam konteks *Quarter-Life Crisis*, kita sering terjebak mencari "kebahagiaan" 
 
 ### 4. Menemukan "Ikigai" Kamu
 
-Salah satu cara paling efektif untuk menjawab pertanyaan eksistensial adalah dengan memetakan irisan antara kebutuhan dunia dan kapasitas diri. Konsep Jepang **Ikigai** (Alasan untuk Bangun di Pagi Hari) adalah alat yang sangat berguna.
+Salah satu cara untuk menjawab pertanyaan eksistensial adalah dengan memetakan irisan antara kebutuhan dunia dan kapasitas diri. Konsep Jepang **Ikigai** (Alasan untuk Bangun di Pagi Hari) adalah alat yang berguna.
 
 | Lingkaran | Pertanyaan Kunci |
 | --- | --- |
