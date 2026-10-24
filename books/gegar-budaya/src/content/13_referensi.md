@@ -24,6 +24,8 @@ Matsumoto, D., & Juang, L. (2016). *Culture and psychology* (6th ed.). Cengage L
 
 Oberg, K. (1960). Cultural shock: Adjustment to new cultural environments. *Practical Anthropology*, *7*(4), 177-182. [https://doi.org/10.1177/009182966000700405](https://doi.org/10.1177/009182966000700405)
 
+Quote Investigator. (2025, 25 September). *Quote origin: The world is a book, and those who do not travel read only one page*. [https://quoteinvestigator.com/2025/09/25/world-book/](https://quoteinvestigator.com/2025/09/25/world-book/)
+
 Sussman, N. M. (2000). The dynamic nature of cultural identity after global transitions: The Cultural Transitions Model. *Personality and Social Psychology Review*, *4*(4), 355-373. [https://doi.org/10.1207/S15327957PSPR0404_5](https://doi.org/10.1207/S15327957PSPR0404_5)
 
 Thomas, D. C., & Inkson, K. (2017). *Cultural intelligence: Surviving and thriving in the global village* (3rd ed.). Berrett-Koehler Publishers.
