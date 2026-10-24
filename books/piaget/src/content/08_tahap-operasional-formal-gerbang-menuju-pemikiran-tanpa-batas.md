@@ -2,7 +2,7 @@
 
 Di tahap sebelumnya (Operasional Konkret), anak-anak sudah bisa berpikir logis, tapi masih sebatas objek fisik yang bisa dilihat dan disentuh. Nah, di **Tahap Operasional Formal**, batasan itu mulai hilang.
 
-Ibaratnya seperti beralih dari melihat dengan mata telanjang ke memakai teleskop. Mereka mulai bisa melihat "galaksi" pemikiran yang lebih jauh,konsep-konsep abstrak yang bentuk fisiknya tidak ada, tapi secara logika mungkin terjadi.
+Ibaratnya seperti beralih dari melihat dengan mata telanjang ke memakai teleskop. Mereka mulai bisa menjangkau pemikiran yang lebih jauh, konsep-konsep abstrak yang bentuk fisiknya tidak ada, tapi secara logika mungkin terjadi.
 
 ## 1\. Apa itu Tahap Operasional Formal?
 
@@ -100,7 +100,7 @@ flowchart TD
 
 ## 6\. Egosentrisme Remaja
 
-Uniknya, lonjakan kecerdasan ini juga memunculkan egosentrisme jenis baru. Karena mereka sekarang bisa memikirkan "apa yang orang lain pikirkan", remaja sering salah mengira bahwa semua orang selalu memperhatikan mereka.
+Uniknya, perkembangan cara berpikir ini juga memunculkan egosentrisme jenis baru. Karena mereka sekarang bisa memikirkan "apa yang orang lain pikirkan", remaja sering salah mengira bahwa semua orang selalu memperhatikan mereka.
 
 - **Audiens Imajiner:** Merasa seisi kelas diam-diam memperhatikan jerawat di hidungnya.
 - **Dongeng Pribadi (*Personal Fable*):** Merasa pengalaman dan penderitaannya paling unik, sampai merasa tidak ada orang dewasa yang bisa paham perasaannya.

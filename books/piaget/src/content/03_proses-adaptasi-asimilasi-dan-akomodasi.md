@@ -73,6 +73,6 @@ Asimilasi dan akomodasi bukanlah dua proses yang terpisah secara kaku, melainkan
 
 Keseimbangan antara keduanya disebut dengan **Ekuilibrasi**, sebuah proses yang memastikan pikiran kita efisien namun tetap akurat dalam memetakan realitas.
 
-> **Pesan Utama:** Perkembangan kognitif adalah tarian antara menggunakan apa yang sudah kita tahu (asimilasi) dan mengubah diri kita untuk belajar hal baru (akomodasi).
+> **Pesan Utama:** Perkembangan kognitif adalah perpaduan antara menggunakan apa yang sudah kita tahu (asimilasi) dan mengubah diri kita untuk belajar hal baru (akomodasi).
 
 *Mari Refleksikan:* *Ingatlah saat terakhir kali kamu mempelajari hobi atau keterampilan baru yang sangat menantang. Bagian mana dari pembelajaran itu yang terasa seperti "sekadar menambah pengetahuan" (asimilasi) dan bagian mana yang benar-benar "mengubah cara pandang kamu" (akomodasi)?*

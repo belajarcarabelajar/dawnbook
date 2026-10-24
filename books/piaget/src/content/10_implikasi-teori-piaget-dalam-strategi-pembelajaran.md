@@ -20,7 +20,7 @@ Untuk anak tahap Praoperasional (seperti TK atau awal SD), instruksi perlu dibua
 
 Ketika mereka masuk ke tahap Operasional Konkret, mereka sudah bisa mengklasifikasi objek. Berikan eksperimen sains sederhana di mana mereka bisa langsung memanipulasi variabel. Kaitkan juga materi dengan kejadian sehari-hari yang dekat dengan dunia mereka.
 
-Barulah pada tahap Operasional Formal (SMA ke atas), siswa siap dihujani pertanyaan hipotesis. *"Apa yang akan terjadi jika...?"* menjadi senjata utama guru. Di fase ini, mereka sudah mampu mendiskusikan konsep abstrak seperti etika, politik, atau teori sains tingkat lanjut menggunakan penalaran deduktif.
+Barulah pada tahap Operasional Formal (SMA ke atas), siswa siap diberi pertanyaan hipotesis. *"Apa yang akan terjadi jika...?"* menjadi alat utama guru. Di fase ini, mereka sudah mampu mendiskusikan konsep abstrak seperti etika, politik, atau teori sains tingkat lanjut menggunakan penalaran deduktif.
 
 ### Memicu Konflik Kognitif
 
@@ -59,6 +59,6 @@ Mari kita lihat perbedaan strategi mengajar untuk satu topik yang sama: siklus a
 
 ### Merancang Momen Aha
 
-Ingatlah bahwa setiap anak punya kecepatan berkembang yang tidak bisa disamaratakan. Paksaan untuk seragam hanya akan mematikan potensi alami mereka. Terkadang, memberi ruang bagi tangan mereka untuk aktif jauh lebih efektif untuk membangunkan logika di dalam kepalanya. 
+Ingatlah bahwa setiap anak punya kecepatan berkembang yang tidak bisa disamaratakan. Paksaan untuk seragam bisa menghambat perkembangan mereka. Terkadang, memberi ruang bagi tangan mereka untuk aktif lebih efektif untuk membangun logika mereka. 
 
-Pernahkah kamu merasa frustrasi saat belajar hal baru, lalu tiba-tiba muncul momen *"Aha! Sekarang aku paham!"*? Itulah ekuilibrasi yang sedang bekerja. Tugas utama guru adalah merancang sebanyak mungkin jebakan momen "Aha!" tersebut di dalam kelas.
+Pernahkah kamu merasa frustrasi saat belajar hal baru, lalu tiba-tiba muncul momen *"Aha! Sekarang aku paham!"*? Itulah ekuilibrasi yang sedang bekerja. Tugas utama guru adalah merancang sebanyak mungkin momen "Aha!" tersebut di dalam kelas.

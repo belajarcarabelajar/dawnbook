@@ -6,7 +6,7 @@ Piaget memandang anak bukan sebagai wadah kosong yang menunggu diisi, melainkan 
 
 ## 1\. Benang Merah Perkembangan
 
-Jika kita merangkum seluruh teori Piaget, intinya adalah interaksi dinamis antara struktur mental kita dan dunia luar. Proses ini tidak pernah berhenti dan mengikuti formula sederhana namun kuat:
+Jika kita merangkum seluruh teori Piaget, intinya adalah interaksi dinamis antara struktur mental kita dan dunia luar. Proses ini tidak pernah berhenti dan mengikuti formula sederhana:
 
 <div>
 $$
@@ -62,7 +62,7 @@ Memahami sintesis ini mengubah cara kita berinteraksi dengan anak-anak di berbag
 
 ## 5\. Refleksi Akhir
 
-Teori Piaget memberikan kita kacamata untuk melihat bahwa setiap "kesalahan" logika anak sebenarnya adalah jendela menuju cara berpikir mereka yang unik. Saat seorang balita bersikeras bahwa bulan mengikuti mereka saat berjalan, itu bukan kebodohan, melainkan ekspresi dari tahap perkembangan kognitif yang luar biasa.
+Teori Piaget memberikan kita kacamata untuk melihat bahwa setiap "kesalahan" logika anak sebenarnya adalah jendela menuju cara berpikir mereka yang unik. Saat seorang balita bersikeras bahwa bulan mengikuti mereka saat berjalan, itu bukan kebodohan, melainkan cerminan dari tahap perkembangan kognitif mereka.
 
 *Bahan Refleksi: Sebagai seorang pendidik, bagaimana seorang guru akan menyesuaikan cara menjelaskan sebuah kesalahan kepada siswa setelah memahami bahwa kesalahan tersebut merupakan bagian alami dari proses adaptasi kognitif mereka?*
 
