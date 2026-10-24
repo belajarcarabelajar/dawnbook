@@ -1,6 +1,6 @@
 ## Pasar Persaingan Sempurna
 
-Bayangkan kamu berada di sebuah pasar tradisional yang sangat luas di mana terdapat ribuan petani yang menjual beras dengan jenis dan kualitas yang persis sama. Jika kamu bertanya harga kepada satu petani dan dia menawarkan harga yang lebih mahal dari harga pasar, kamu cukup bergeser satu langkah ke penjual di sebelahnya untuk mendapatkan harga yang lebih murah. Di sisi lain, jika petani tersebut menurunkan harganya, dia hanya akan merugi karena dia bisa menjual seluruh stoknya pada harga pasar yang berlaku.
+Bayangkan kamu berada di pasar tradisional yang sangat luas, tempat ribuan petani menjual beras dengan jenis dan kualitas yang persis sama. Jika kamu bertanya harga kepada satu petani dan dia menawarkan harga yang lebih mahal dari harga pasar, kamu cukup bergeser satu langkah ke penjual di sebelahnya untuk mendapatkan harga yang lebih murah. Di sisi lain, jika petani tersebut menurunkan harganya, dia hanya akan merugi karena dia bisa menjual seluruh stoknya pada harga pasar yang berlaku.
 
 Inilah inti dari **Pasar Persaingan Sempurna (Perfect Competition)**. Dalam ekonomi, ini dianggap sebagai struktur pasar yang paling ideal karena menjamin efisiensi maksimum, meskipun dalam dunia nyata, model ini lebih sering berfungsi sebagai tolok ukur (benchmark) daripada realitas yang mutlak.
 

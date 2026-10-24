@@ -1,6 +1,6 @@
 ## Peran Pemerintah dan Kebijakan Anti-Monopoli
 
-Bayangkan sebuah pertandingan sepak bola di mana salah satu tim memiliki wewenang untuk menentukan harga tiket, memilih wasitnya sendiri, dan bahkan melarang tim lain untuk masuk ke lapangan. Pertandingan tersebut pasti akan menjadi tidak adil, membosankan, dan merugikan penonton.
+Bayangkan pertandingan sepak bola di mana satu tim berwenang menentukan harga tiket, memilih wasitnya sendiri, bahkan melarang tim lain masuk ke lapangan. Pertandingan tersebut pasti akan menjadi tidak adil, membosankan, dan merugikan penonton.
 
 Dalam dunia ekonomi, pemerintah berperan sebagai "wasit" yang memastikan bahwa "pertandingan" antar perusahaan berjalan jujur. Tanpa aturan, perusahaan besar cenderung menggunakan kekuatan mereka untuk mematikan pesaing, yang pada akhirnya akan merugikan kita semua sebagai konsumen.
 

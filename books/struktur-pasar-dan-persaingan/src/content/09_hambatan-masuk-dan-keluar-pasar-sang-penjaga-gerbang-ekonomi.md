@@ -1,6 +1,6 @@
 ## Hambatan Masuk dan Keluar Pasar
 
-Pernahkah kamu bertanya-tanya mengapa membuka warung kopi kecil di pinggir jalan terasa mudah, tetapi membuat perusahaan baru untuk menyaingi raksasa penerbangan seperti Boeing atau Airbus hampir mustahil?
+Membuka warung kopi kecil di pinggir jalan terasa mudah, tetapi membuat perusahaan baru untuk menyaingi Boeing atau Airbus hampir mustahil. Pernahkah kamu bertanya-tanya mengapa kedua raksasa penerbangan itu begitu sulit ditantang?
 
 Perbedaan ini berakar pada **Hambatan Masuk dan Keluar (Barriers to Entry and Exit)**. Dalam ekonomi, hambatan ini bertindak seperti filter yang menentukan seberapa ketat persaingan dalam sebuah industri.
 
