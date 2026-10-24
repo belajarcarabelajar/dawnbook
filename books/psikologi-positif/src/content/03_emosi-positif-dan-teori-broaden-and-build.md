@@ -90,7 +90,7 @@ Fredrickson mengidentifikasi beberapa emosi positif utama yang masing-masing mem
 
 Bagaimana cara menerapkan Teori Broaden-and-Build ini? Ingat bahwa tujuannya bukan untuk menghapus emosi negatif (sebab rasa takut atau cemas tetap dibutuhkan sebagai sistem peringatan bahaya), melainkan untuk menyeimbangkan porsinya dalam keseharian.
 
-### Skenario di Tempat Kerja
+### Kebuntuan Tim Proyek
 
 - **Tantangan**: Tim kerja terjebak dalam kebuntuan proyek yang rumit. Suasana menjadi tegang dan penuh tekanan.
 - **Penerapan teori**: Sebelum masuk ke agenda inti atau *brainstorming*, ajak setiap anggota membagikan satu pencapaian kecil yang menyenangkan minggu ini, atau buat sesi cair singkat untuk memicu tawa.

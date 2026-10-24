@@ -96,7 +96,7 @@ Rasa syukur berfungsi sebagai penawar alami untuk melawan adaptasi hedonik. Deng
 
 **Hasil nyata:** Setelah konsisten mempraktikkan hal ini selama 21 hari, Sari merasakan penurunan reaktivitas emosional yang sangat terasa. Tantangan pekerjaannya tidak hilang begitu saja, namun kapasitas mentalnya dalam mengelola stres telah bertumbuh pesat.
 
-### Kesimpulan
+### Syukur yang Tidak Naif
 
 Rasa syukur bukanlah sekadar anjuran untuk berpikiran positif secara naif. Ini adalah strategi kognitif berbasis sains untuk memperluas ruang kesadaran dan memperkokoh ketahanan mental kita. Melalui latihan teratur untuk mengenali sisi baik, kita secara aktif melatih kembali otak kita demi mencapai kualitas hidup yang lebih sejahtera.
 

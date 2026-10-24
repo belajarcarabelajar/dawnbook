@@ -54,7 +54,7 @@ Dalam *growth mindset*, kegagalan hanyalah sebuah peristiwa sementara. Pikiran m
 
 ### Aplikasi Nyata dan Skenario
 
-#### Skenario di Tempat Kerja
+#### Dua Sikap di Kantor
 
 **Situasi:** Andi dan Budi diberikan proyek baru yang sangat sulit dan menggunakan teknologi yang belum pernah mereka pelajari.
 
