@@ -1,6 +1,6 @@
 ## Model Tantangan vs Keterampilan
 
-Pernahkah kamu begitu tenggelam dalam sebuah tugas sehingga waktu seakan berhenti, namun di lain waktu merasa sangat frustrasi hingga ingin menyerah? Di waktu lain lagi, kamu justru merasa sangat bosan hingga mengantuk. Perbedaan perasaan ini bukan terjadi secara acak. Hal ini ditentukan oleh hubungan matematis dan psikologis antara seberapa sulit tugas tersebut (**Tantangan**) dan seberapa hebat kamu dalam melakukannya (**Keterampilan**).
+Pernahkah kamu begitu tenggelam dalam sebuah tugas sehingga waktu seakan berhenti, namun di lain waktu merasa sangat frustrasi hingga ingin menyerah? Ada pula saat kamu merasa sangat bosan hingga mengantuk. Perbedaan perasaan ini bukan terjadi secara acak. Hal ini ditentukan oleh hubungan matematis dan psikologis antara seberapa sulit tugas tersebut (**Tantangan**) dan seberapa hebat kamu dalam melakukannya (**Keterampilan**).
 
 Mihaly Csikszentmihalyi, bapak dari konsep *Flow*, memetakan hubungan ini ke dalam sebuah model grafis yang menjadi fondasi utama dalam memahami bagaimana kita bisa mencapai performa puncak.
 
