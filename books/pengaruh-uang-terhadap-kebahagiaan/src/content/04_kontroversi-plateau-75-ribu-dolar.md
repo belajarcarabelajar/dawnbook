@@ -25,7 +25,7 @@ Sebelas tahun kemudian, Matthew Killingsworth dari Wharton, Universitas Pennsylv
 
 Skala penelitiannya tidak main-main: lebih dari 33.000 orang dewasa di Amerika Serikat, dengan sekitar 1,7 juta laporan pengalaman secara real-time. Kalau Kahneman dan Deaton membaca potret memori, Killingsworth merekam film yang sedang berjalan.
 
-Hasilnya kebalikan headline 2010. Kesejahteraan yang dialami orang terus naik seiring pendapatan, melewati 75.000 dolar, terus dan terus, tanpa tanda-tanda plateau. Ya, kecepatan kenaikannya melambat di pendapatan tinggi, tapi kurvanya tidak pernah berubah jadi garis datar.
+Hasilnya adalah kebalikan headline 2010. Kesejahteraan yang dialami orang terus naik seiring pendapatan, melewati 75.000 dolar, terus dan terus, tanpa tanda-tanda plateau. Ya, kecepatan kenaikannya melambat di pendapatan tinggi, tapi kurvanya tidak pernah berubah jadi garis datar.
 
 ### Ketika dua kubu duduk bersama
 
