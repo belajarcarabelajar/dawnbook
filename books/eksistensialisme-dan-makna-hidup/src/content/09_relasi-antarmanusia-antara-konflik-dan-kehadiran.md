@@ -1,6 +1,6 @@
 ## Relasi Antarmanusia
 
-Dalam perjalanan memahami eksistensialisme, kita sering terjebak pada pemikiran bahwa filosofi ini hanya tentang "diri sendiri": kebebasan individu, pilihan pribadi, dan kecemasan internal. Namun, manusia tidak hidup di ruang hampa. Kita adalah makhluk sosial yang dilemparkan ke dunia yang sudah penuh dengan orang lain.
+Dalam perjalanan memahami eksistensialisme, kita sering terjebak pada pemikiran bahwa filosofi ini hanya tentang "diri sendiri". Yang terbayang hanyalah kebebasan individu, pilihan pribadi, dan kecemasan internal. Namun, manusia tidak hidup di ruang hampa. Kita adalah makhluk sosial yang dilemparkan ke dunia yang sudah penuh dengan orang lain.
 
 Bagian ini akan mengeksplorasi dinamika yang rumit, terkadang menyakitkan, namun tak terhindarkan dalam hubungan sosial. Kita akan membedah mengapa kehadiran orang lain bisa terasa seperti ancaman bagi kebebasan kita, namun di saat yang sama, menjadi satu-satunya cermin untuk mengenali siapa diri kita sebenarnya.
 

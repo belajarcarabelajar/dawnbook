@@ -1,6 +1,6 @@
 ## Kesimpulan
 
-Kita telah menempuh perjalanan panjang melalui labirin pemikiran eksistensialisme, mulai dari kegelapan krisis nilai, beban kebebasan yang radikal, hingga pencarian makna di tengah penderitaan. Sekarang, kita tiba di titik akhir: **bagaimana kita menyatukan semua potongan puzzle ini untuk menjalani hidup hari ini?**
+Kita telah menempuh perjalanan panjang melalui labirin pemikiran eksistensialisme, dari kegelapan krisis nilai hingga beban kebebasan yang radikal. Dari sana, kita menyusuri pencarian makna di tengah penderitaan. Sekarang, kita tiba di titik akhir: **bagaimana kita menyatukan semua potongan puzzle ini untuk menjalani hidup hari ini?**
 
 Eksistensialisme tidak mengajarkan keputusasaan. Filsafat ini justru mengundang kita untuk merayakan kefanaan hidup. Jika hidup ini abadi, setiap momen tidak akan memiliki nilai karena kita selalu punya "esok" yang tak terbatas. Namun, justru karena hidup ini terbatas, setiap detiknya menjadi tak ternilai harganya.
 

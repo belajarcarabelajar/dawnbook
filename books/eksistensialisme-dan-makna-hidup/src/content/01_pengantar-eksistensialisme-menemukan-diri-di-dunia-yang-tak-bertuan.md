@@ -1,6 +1,6 @@
 ## Pengantar Eksistensialisme
 
-Pernahkah kamu terbangun di tengah malam dan bertanya-tanya, *"Apa sebenarnya tujuan saya ada di sini?"* atau *"Apakah hidup ini hanyalah rangkaian rutinitas tanpa makna yang lebih dalam?"* Jika ya, kamu tidak sendirian. Pertanyaan-pertanyaan ini adalah pintu gerbang menuju salah satu aliran filsafat yang paling berpengaruh dan personal dalam sejarah manusia: **Eksistensialisme**.
+Pernahkah kamu terbangun di tengah malam dan bertanya apa tujuanmu ada di sini, atau apakah hidup hanyalah rutinitas tanpa makna yang lebih dalam? Jika ya, kamu tidak sendirian. Pertanyaan-pertanyaan ini adalah pintu gerbang menuju salah satu aliran filsafat yang paling berpengaruh dan personal dalam sejarah manusia: **Eksistensialisme**.
 
 ## 1. Apa Itu Eksistensialisme?
 
