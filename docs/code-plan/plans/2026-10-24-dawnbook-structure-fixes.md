@@ -140,7 +140,7 @@ tasks:
 
 # Plan: make every book pass check-book-structure, then gate the build on it
 
-Status: Approved
+Status: Complete
 Author: Iwan Kurniawan <iwan@belajarcarabelajar.com>, no trailer; commits for books by Kania Salsabila carry her identity and the Iwan co-author trailer (GEMINI.md section 18).
 Trigger: `bun run scripts/check-book-structure.ts <slug>` fails on `main` (7d1f7ee) for most books, so it cannot yet be a build gate.
 
