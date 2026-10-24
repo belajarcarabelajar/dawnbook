@@ -33,7 +33,7 @@ Di sinilah cerita ini berubah dari perdebatan biasa menjadi contoh langka cara k
 
 Dalam kolaborasi adversarial, dua kubu yang berseberangan membuka seluruh datanya, merancang analisis bersama, lalu menjalankan kedua metode pada data gabungan di bawah pengawasan mediator netral. Tujuannya bukan mencari pemenang, tapi menjelaskan klaim keduanya sekaligus.
 
-Kesimpulannya menjawab pertentangan itu dengan jawaban yang tidak diduga banyak orang:
+Kesimpulannya mengurai pertentangan itu dengan cara yang tidak diduga banyak orang:
 
 - Untuk **mayoritas orang**, perasaan bahagia terus naik bersama pendapatan di atas 75.000 dolar, termasuk di atas 100.000 dolar. Bagi kelompok ini, memang tidak ada plafon yang terlihat.
 - Tapi untuk **minoritas yang paling tidak bahagia**, sekitar 15 sampai 20 persen partisipan, kurvanya melandai di sekitar 100.000 dolar. Setelah titik itu, uang tambahan praktis tidak lagi mengubah perasaan mereka.
