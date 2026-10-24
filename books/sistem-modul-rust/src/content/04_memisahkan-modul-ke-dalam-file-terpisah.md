@@ -4,7 +4,7 @@ Bayangkan kamu sedang membangun sebuah rumah. Awalnya, kamu menyimpan semua pera
 
 Dalam Rust, memindahkan isi modul dari satu file besar (`main.rs` atau `lib.rs`) ke file terpisah adalah cara kita "merapikan laci" kode agar lebih mudah dikelola, dibaca, dan dikembangkan secara tim.
 
-## Dari Satu Gulungan Kertas ke Sebuah Buku
+## Setiap File Menjadi Satu Bab
 
 Jika `main.rs` yang panjang adalah sebuah **gulungan perkamen**, maka memisahkan modul adalah proses mengubahnya menjadi sebuah **buku**. Setiap file `.rs` adalah satu bab. Daftar isi buku tersebut tetap berada di bagian depan (file utama), tetapi detail ceritanya ada di halaman masing-masing.
 

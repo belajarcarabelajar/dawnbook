@@ -157,7 +157,7 @@ Dengan cara ini, di `main.rs`, kamu cukup melakukan satu kali import:
 use crate::handlers::{get_user, create_product, place_order};
 ```
 
-### API yang Menyenangkan untuk Digunakan
+### API yang Mudah Dipakai
 
 Menggunakan `pub use` memberikan kebebasan bagi kamu sebagai penulis library. Kode internal bisa disusun serumit atau serinci mungkin demi kerapian teknis, sementara pengguna luar tetap disuguhi antarmuka yang bersih dan minimalis. 
 

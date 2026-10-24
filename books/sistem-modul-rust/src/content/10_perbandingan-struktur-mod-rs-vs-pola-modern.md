@@ -4,7 +4,7 @@ Saat mulai mendalami Rust, kamu mungkin akan menemukan dua cara berbeda dalam me
 
 Mengapa hal ini terjadi? Apakah cara lama sudah usang? Di bawah ini, kita akan melihat bagaimana organisasi kode Rust berkembang.
 
-## Dua Jalan Menuju Satu Tujuan
+## Dua Cara Menandai Folder Modul
 
 Misalkan kamu sedang membangun sistem perpustakaan dengan rak besar bernama **"Auth"** (Autentikasi). Di dalam rak ini, terdapat kategori sub-rak seperti **"Login"** dan **"Permissions"**.
 
@@ -72,7 +72,7 @@ Dengan pola baru ini, papan informasi (`auth.rs`) digantung tepat di luar pintu 
 | **Lokasi Deklarasi** | Di dalam folder (`auth/mod.rs`) | Sejajar dengan folder (`auth.rs`) |
 | **Kejelasan IDE** | Sering membuat bingung karena banyak tab bernama "mod.rs" | Jelas, nama file mencerminkan nama modul |
 | **Struktur Folder** | Lebih "terkapsul" di dalam satu folder | Lebih "rata" di level direktori |
-| **Navigasi** | Sedikit lebih sulit navigasi file | Sangat mudah dicari dengan *search by name* |
+| **Navigasi** | Sedikit lebih sulit navigasi file | Mudah dicari dengan *search by name* |
 
 ## Mengapa Pola Modern Diciptakan?
 
