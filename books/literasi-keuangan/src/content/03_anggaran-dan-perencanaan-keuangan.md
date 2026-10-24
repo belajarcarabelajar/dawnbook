@@ -1,8 +1,8 @@
 ## Anggaran dan Perencanaan Keuangan
 
-Selamat datang di materi utama perjalanan keuangan kamu. Di sini, kamu akan belajar tentang anggaran dan perencanaan keuangan untuk mengelola uang secara efektif.
+Anggaran bulanan membantu kamu tahu ke mana uang pergi dan berapa yang bisa disisihkan untuk tabungan, investasi, dan pelunasan utang. Di sini, kamu akan belajar tentang anggaran dan perencanaan keuangan untuk mengelola uang secara efektif.
 
-Anggaran adalah panduan langkah demi langkah untuk membangun kebiasaan finansial yang sehat. Lewat panduan ini, kamu bisa merancang peta jalan yang jelas menuju tujuan keuanganmu.
+Anggaran adalah panduan langkah demi langkah untuk membangun kebiasaan finansial yang sehat. Lewat panduan ini, kamu bisa menyusun rencana yang jelas menuju tujuan keuanganmu.
 
 ## Apa Itu Anggaran dan Mengapa Ini Penting?
 
@@ -10,7 +10,7 @@ Anggaran adalah rencana keuangan yang merinci rencana pengeluaran dan tabungan b
 
 > "Anggaran adalah pemberian izin kepada setiap Rupiah kamu untuk melakukan sesuatu yang berharga bagi kamu." - John C. Maxwell
 
-Punya anggaran memberi kendali penuh atas uangmu. Kamu jadi tahu persis ke mana uang mengalir setiap bulannya. 
+Punya anggaran memberi kendali atas uangmu. Kamu jadi tahu persis ke mana uang mengalir setiap bulannya. 
 
 Ini juga membantumu mengenali kebiasaan belanja. Kamu bisa langsung melihat area mana yang terlalu boros dan bisa ditekan. Pada akhirnya, anggaran menjadi dasar kuat untuk mulai menabung, berinvestasi, membayar utang, serta mencapai target hidup seperti membeli rumah atau persiapan masa tua, sekaligus mengurangi stres saat ada pengeluaran dadakan.
 
@@ -46,7 +46,7 @@ Metode sederhana ini membagi pendapatan menjadi tiga kelompok:
 Di sini, setiap Rupiah ditugaskan ke pos masing-masing sampai saldo menjadi nol. Misalnya, dari pendapatan Rp 9.000.000, kamu alokasikan habis untuk sewa, makanan, transportasi, hingga tabungan. Kelebihannya, metode ini mencegah pemborosan, meski butuh perhatian ekstra setiap bulannya.
 
 **Sistem Amplop**
-Kalau kamu lebih suka uang tunai, siapkan amplop fisik untuk tiap kategori pengeluaran. Setelah uang di satu amplop habis, kamu tak boleh membelanjakan kategori itu lagi sampai bulan depan. Metode ini sangat ampuh membatasi pengeluaran secara langsung.
+Kalau kamu lebih suka uang tunai, siapkan amplop fisik untuk tiap kategori pengeluaran. Setelah uang di satu amplop habis, kamu tak boleh membelanjakan kategori itu lagi sampai bulan depan. Metode ini membatasi pengeluaran secara langsung.
 
 ### 4. Eksekusi Rencana Anggaran
 
@@ -59,7 +59,7 @@ Pastikan total pengeluaran dan tabungan tidak pernah melebihi total pendapatan. 
 Anggaran harus selalu dipantau dan disesuaikan. Jangan cuma dibuat lalu dilupakan.
 
 **Catat Setiap Transaksi**
-Ini adalah kunci sukses mengatur uang. Simpan struk belanja dan catat pengeluaran tiap hari. Kalau mau praktis, cek riwayat mutasi rekening atau pakai aplikasi yang terhubung ke bank.
+Ini adalah dasar dari mengatur uang. Simpan struk belanja dan catat pengeluaran tiap hari. Kalau mau praktis, cek riwayat mutasi rekening atau pakai aplikasi yang terhubung ke bank.
 
 **Tinjau Ulang Secara Berkala**
 Sisihkan waktu minimal sebulan sekali untuk mengecek anggaran. Bandingkan angka rencana dengan pengeluaran asli. 

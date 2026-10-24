@@ -2,7 +2,7 @@
 
 Memahami konsep dasar keuangan pribadi adalah langkah pertama untuk menguasai literasi keuangan. 
 
-Sama halnya dengan membangun rumah, kamu butuh fondasi kuat sebelum menyusun bata pertama. Menguasai istilah dan prinsip keuangan akan membantumu mengelola penghasilan sekaligus melipatgandakan kekayaan dengan lebih masuk akal.
+Sama halnya dengan membangun rumah, kamu butuh fondasi kuat sebelum menyusun bata pertama. Menguasai istilah dan prinsip keuangan akan membantumu mengelola penghasilan sekaligus menambah kekayaan dengan lebih masuk akal.
 
 Di sini kita akan membahas berbagai fondasi penting yang langsung bisa kamu praktikkan sehari-hari.
 
@@ -43,7 +43,7 @@ Aset dibedakan berdasarkan seberapa mudah kamu mengubahnya menjadi uang tunai (l
 - **Aset Lancar:** Harta yang cepat dicairkan dalam kurun waktu kurang dari setahun tanpa merusak nilainya. Contohnya uang tunai, saldo rekening tabungan, dan reksa dana pasar uang.
 - **Aset Tidak Lancar:** Harta jangka panjang yang butuh waktu lebih lama untuk dijual. Rumah, tanah, mobil, hingga saham dan investasi jangka panjang lainnya masuk ke kelompok ini.
 
-Mengumpulkan aset yang bertumbuh adalah cara paling logis menuju kebebasan finansial.
+Mengumpulkan aset yang bertumbuh adalah cara yang masuk akal menuju kebebasan finansial.
 
 ## Liabilitas (Liabilities)
 
@@ -100,4 +100,4 @@ Sebagai contoh:
 - Total biaya sewa, makan, transportasi, dan cicilan: Rp10.500.000
 - **Arus Kas:** Rp1.500.000 (Positif)
 
-Mempraktikkan konsep dasar ini secara rutin akan memperkuat insting finansialmu. Ketika arus uang masuk, aset, dan utang terkelola dengan baik, tahap selanjutnya untuk mengembangkan kekayaan akan jauh lebih mudah dieksekusi.
+Mempraktikkan konsep dasar ini secara rutin akan melatih kebiasaan finansialmu. Ketika arus uang masuk, aset, dan utang terkelola dengan baik, tahap selanjutnya untuk mengembangkan kekayaan akan lebih mudah dijalankan.

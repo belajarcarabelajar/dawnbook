@@ -1,17 +1,17 @@
 ## Perencanaan Pensiun
 
-Perencanaan pensiun adalah langkah awal menuju kebebasan finansial. Pilar ini sering diabaikan, padahal memiliki peran penentu untuk kenyamanan hidup kamu di masa tua. Bagian ini akan membahas mengapa kamu harus mulai bersiap sejak sekarang. Kita akan membedah cara menghitung kebutuhan dana pensiun, instrumen yang tepat, serta strategi investasi jangka panjang yang aman.
+Perencanaan pensiun adalah langkah awal menuju kebebasan finansial. Hal ini sering diabaikan, padahal berpengaruh besar pada kenyamanan hidup kamu di masa tua. Bagian ini akan membahas mengapa kamu harus mulai bersiap sejak sekarang. Kita akan melihat cara menghitung kebutuhan dana pensiun, instrumen yang tepat, serta strategi investasi jangka panjang yang aman.
 
 ## Mengapa Harus Mulai Sejak Dini?
 
-Waktu berjalan sangat cepat. Memulai perencanaan pensiun lebih awal memberikan keuntungan dari efek bunga majemuk. Semakin cepat kamu berinvestasi, semakin kecil modal bulanan yang perlu disisihkan untuk mencapai target akhir.
+Memulai perencanaan pensiun lebih awal memberikan keuntungan dari efek bunga majemuk. Semakin cepat kamu berinvestasi, semakin kecil modal bulanan yang perlu disisihkan untuk mencapai target akhir.
 
-Beberapa alasan mengapa persiapan awal ini sangat penting:
+Beberapa alasan mengapa persiapan awal ini penting:
 
 - **Harapan Hidup Makin Panjang:** Rata-rata umur manusia terus meningkat. Kamu mungkin membutuhkan dana untuk hidup 20 hingga 30 tahun lagi setelah berhenti bekerja.
 - **Dampak Inflasi:** Nilai uang terus merosot setiap tahun. Biaya hidup masa depan dipastikan lebih mahal, terutama untuk layanan kesehatan.
 - **Kemandirian Finansial:** Perencanaan pensiun yang matang menjauhkan kamu dari risiko menjadi beban finansial bagi anak dan keluarga besar.
-- **Mewujudkan Gaya Hidup Impian:** Pensiun adalah waktu terbaik untuk menikmati hobi atau liburan. Hal ini butuh biaya yang tidak sedikit.
+- **Mewujudkan Gaya Hidup Impian:** Masa pensiun bisa kamu pakai untuk menikmati hobi atau liburan. Hal ini butuh biaya yang tidak sedikit.
 - **Ruang untuk Risiko Investasi:** Waktu investasi yang panjang memberi fleksibilitas untuk menghadapi fluktuasi pasar tanpa panik.
 
 ## Cara Menghitung Kebutuhan Dana Pensiun
@@ -55,7 +55,7 @@ Program ini wajib diikuti jika kamu adalah pekerja formal.
 
 ### Program Lembaga dan Perusahaan
 **Dana Pensiun Lembaga Keuangan (DPLK)**
-DPLK adalah program pensiun mandiri yang ditawarkan oleh bank atau asuransi. Fleksibilitas penyetoran dan opsi investasinya sangat beragam. Profil risikonya juga bisa disesuaikan dengan kebutuhan kamu.
+DPLK adalah program pensiun mandiri yang ditawarkan oleh bank atau asuransi. Fleksibilitas penyetoran dan opsi investasinya beragam. Profil risikonya juga bisa disesuaikan dengan kebutuhan kamu.
 
 **Dana Pensiun Pemberi Kerja (DPPK)**
 Banyak perusahaan memiliki fasilitas pengelolaan pensiun untuk karyawan internalnya. Program ini dibagi menjadi DPIP (Iuran Pasti) dan DPMP (Manfaat Pasti). Cek ke divisi HRD apakah perusahaan kamu menawarkan fasilitas ini.
@@ -78,4 +78,4 @@ Keberhasilan menyiapkan pensiun ditentukan oleh kedisiplinan mengelola portofoli
 - **Waspada Biaya Siluman:** Selalu cermati biaya admin, biaya manajemen reksa dana, hingga tarif pajak penarikan. Biaya kecil akan menumpuk jadi beban besar.
 - **Naikkan Target Tabungan:** Begitu gaji atau pendapatan usaha kamu naik, otomatis persentase tabungan pensiun juga harus bertambah.
 
-Mengatur keuangan untuk pensiun adalah perjalanan panjang yang butuh ketahanan. Kombinasi instrumen keuangan yang tepat dan disiplin berinvestasi akan menjamin kamu bisa menikmati masa tua dengan tenang.
+Mengatur keuangan untuk pensiun adalah proses panjang yang butuh konsistensi. Kombinasi instrumen keuangan yang tepat dan disiplin berinvestasi akan membantu kamu menikmati masa tua dengan tenang.
