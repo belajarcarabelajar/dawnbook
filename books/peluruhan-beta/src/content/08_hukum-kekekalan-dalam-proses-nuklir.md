@@ -39,16 +39,16 @@ $$
 $$
 </div>
 
-Lihat angka atas (14). Sebelum dan sesudah reaksi, jumlahnya tetap 14. *Analogi: Bayangkan terdapat 14 buah bola. Beberapa berwarna merah (proton) dan beberapa biru (neutron). Jika satu bola biru dicat menjadi merah, tetap ada total 14 bola.*
+Lihat angka atas (14). Sebelum dan sesudah reaksi, jumlahnya tidak berubah, yaitu 14. *Analogi: Bayangkan terdapat 14 buah bola. Beberapa berwarna merah (proton) dan beberapa biru (neutron). Jika satu bola biru dicat menjadi merah, total bola masih 14.*
 
 ## 3. Kekekalan Momentum dan Energi
 
 Inilah bagian yang sempat membuat para fisikawan pusing di awal abad ke-20. Ketika mengamati peluruhan beta, para ilmuwan melihat bahwa energi elektron yang keluar bervariasi (spektrum kontinu). Jika hanya ada dua partikel yang dihasilkan (inti baru dan elektron), seharusnya elektron selalu memiliki energi yang sama berdasarkan hukum kekekalan momentum.
 
-Wolfgang Pauli mengusulkan sebuah solusi jenius: ada partikel hantu yang membawa pergi sisa energi dan momentum tersebut agar hukum kekekalan tetap terjaga. Partikel inilah yang kita kenal sebagai **Neutrino** ($\nu$) atau **Antineutrino** ($\bar{\nu}$).
+Wolfgang Pauli mengusulkan sebuah solusi jenius: ada partikel hantu yang membawa pergi sisa energi dan momentum tersebut agar hukum kekekalan terjaga. Partikel inilah yang kita kenal sebagai **Neutrino** ($\nu$) atau **Antineutrino** ($\bar{\nu}$).
 
 - **Momentum Linear:** Jumlah vektor momentum sebelum dan sesudah harus sama. Jika inti sisa bergerak ke kiri, maka elektron dan neutrino harus bergerak ke arah yang menyeimbangkannya.
-- **Energi:** Total energi massa diam ditambah energi kinetik harus tetap sama:
+- **Energi:** Total energi massa diam ditambah energi kinetik harus sama:
 
 <div>
 $$
@@ -64,7 +64,7 @@ Ini adalah aturan yang lebih spesifik dalam fisika partikel. Partikel seperti el
 - Anti-lepton (positron, antineutrino) memiliki angka lepton $L = -1$.
 - Partikel lain seperti proton dan neutron memiliki $L = 0$.
 
-Hukum ini menyatakan bahwa total bilangan lepton harus tetap sama di kedua sisi persamaan.
+Hukum ini menyatakan bahwa total bilangan lepton harus sama di kedua sisi persamaan.
 
 **Studi Kasus Peluruhan Beta Minus ($\beta^-$)**
 
