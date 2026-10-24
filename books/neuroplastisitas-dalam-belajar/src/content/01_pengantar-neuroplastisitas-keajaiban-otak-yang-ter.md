@@ -1,8 +1,8 @@
 ## Pengantar Neuroplastisitas
 
-Selamat datang di awal perjalanan kamu memahami salah satu penemuan paling revolusioner dalam sejarah sains modern: **Neuroplastisitas**. Selama berabad-abad, manusia percaya bahwa otak kita adalah sebuah "mesin" yang sudah dipasang mati (hardwired) sejak lahir atau masa kanak-kanak. Namun, sains terbaru memberitahu kita hal yang jauh lebih optimis: otak kamu adalah sebuah organ yang dinamis, hidup, dan terus berubah setiap detiknya.
+Selamat datang di awal perjalanan kamu memahami salah satu temuan penting dalam sains modern: **Neuroplastisitas**. Selama berabad-abad, manusia percaya bahwa otak kita adalah sebuah "mesin" yang sudah dipasang mati (hardwired) sejak lahir atau masa kanak-kanak. Namun, sains terbaru memberitahu kita hal yang jauh lebih optimis: otak kamu adalah sebuah organ yang dinamis, hidup, dan terus berubah.
 
-Materi ini akan membawa kamu memahami apa itu neuroplastisitas dan bagaimana sudut pandang dunia medis berubah dari melihat otak sebagai benda statis menjadi sesuatu yang luar biasa adaptif.
+Materi ini akan membawa kamu memahami apa itu neuroplastisitas dan bagaimana sudut pandang dunia medis berubah dari melihat otak sebagai benda statis menjadi sesuatu yang adaptif.
 
 ## 1\. Apa Itu Neuroplastisitas?
 
@@ -17,7 +17,7 @@ Sederhananya, neuroplastisitas adalah alasan mengapa kita bisa belajar keterampi
 
 ## 2\. Pergeseran Paradigma dari Statis ke Dinamis
 
-Sejarah pemahaman kita tentang otak telah mengalami transformasi yang luar biasa. Mari kita lihat bagaimana para ilmuwan mengubah cara pandang mereka:
+Pemahaman kita tentang otak telah banyak berubah sepanjang sejarah. Mari kita lihat bagaimana para ilmuwan mengubah cara pandang mereka:
 
 ### Paradigma Otak Statis (The Hardwired Brain)
 
@@ -36,7 +36,7 @@ Mulai tahun 1960-an dan 1970-an, penelitian mulai menunjukkan bukti yang mematah
 - Bahkan pada lansia, otak masih memiliki kemampuan untuk berubah dan beradaptasi.
 - Kecerdasan bukanlah angka tetap (Fixed), melainkan sesuatu yang bisa ditingkatkan melalui stimulasi yang tepat.
 
-**Penting:** Perubahan paradigma ini mengubah segalanya dalam dunia pendidikan dan kedokteran. Kita tidak lagi dibatasi oleh "genetik" semata, melainkan memiliki kendali atas perkembangan otak kita sendiri melalui aktivitas dan cara berpikir.
+**Penting:** Perubahan paradigma ini mengubah banyak hal dalam pendidikan dan kedokteran. Kita tidak lagi dibatasi oleh "genetik" semata, melainkan memiliki kendali atas perkembangan otak kita sendiri melalui aktivitas dan cara berpikir.
 
 ## 3\. Analogi untuk Memahami Neuroplastisitas
 
@@ -46,7 +46,7 @@ Bayangkan otak kamu adalah sebuah hutan lebat yang belum terjamah.
 
 - **Mempelajari hal baru** seperti mencoba berjalan menembus semak belukar. Awalnya sangat sulit dan melelahkan (ini adalah fase belajar yang sulit).
 - **Latihan berulang** akan mulai membentuk jalan setapak kecil. Semakin sering kamu lewat di sana, jalannya semakin bersih dan lebar.
-- **Keahlian (Mastery)** terjadi ketika jalan setapak itu berubah menjadi jalan raya yang mulus. Sinyal listrik di otak kamu kini bisa meluncur dengan sangat cepat tanpa hambatan.
+- **Keahlian (Mastery)** terjadi ketika jalan setapak itu berubah menjadi jalan raya yang mulus. Sinyal listrik di otak kamu kini bisa meluncur dengan cepat tanpa hambatan.
 - **Melupakan/Mengubah Kebiasaan**: Jika kamu berhenti melewati jalan tersebut, semak-semak akan tumbuh kembali dan jalan itu perlahan menghilang. Inilah mekanisme otak untuk menghemat energi dengan memutus koneksi yang tidak lagi digunakan.
 
 ## 4\. Bagaimana Perubahan Terjadi?

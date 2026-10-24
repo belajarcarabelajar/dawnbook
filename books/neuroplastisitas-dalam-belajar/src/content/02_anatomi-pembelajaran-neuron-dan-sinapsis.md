@@ -1,12 +1,12 @@
 ## Anatomi Neuron dan Sinapsis dalam Pembelajaran
 
-Bayangkan otak kamu adalah sebuah kota metropolitan yang sangat sibuk, tetapi tidak dihubungkan oleh kabel tembaga atau fiber optik. Penghubungnya adalah miliaran sel hidup yang terus-menerus "berbicara" satu sama lain. Setiap kali kamu mempelajari kata baru dalam bahasa asing atau mencoba teknik baru dalam olahraga, kamu sebenarnya sedang melakukan rekayasa infrastruktur biologis di dalam kepala kamu.
+Bayangkan otak kamu adalah sebuah kota metropolitan yang sibuk, tetapi tidak dihubungkan oleh kabel tembaga atau fiber optik. Penghubungnya adalah miliaran sel hidup yang terus-menerus "berbicara" satu sama lain. Setiap kali kamu mempelajari kata baru dalam bahasa asing atau mencoba teknik baru dalam olahraga, kamu sebenarnya sedang mengubah jalur-jalur penghubung di dalam kepala kamu.
 
-Materi ini akan membawa kamu menyelami fondasi fisik dari belajar: **Neuron** dan **Sinapsis**.
+Materi ini akan membawa kamu mempelajari fondasi fisik dari belajar: **Neuron** dan **Sinapsis**.
 
 ## 1\. Neuron sebagai Unit Dasar Komunikasi Otak
 
-**Neuron** adalah sel saraf khusus yang berfungsi sebagai unit pemrosesan informasi utama di otak. Jika otak adalah sebuah komputer raksasa, maka neuron adalah prosesornya. Namun, tidak seperti prosesor silikon yang statis, neuron bersifat dinamis dan dapat berubah bentuk.
+**Neuron** adalah sel saraf khusus yang berfungsi sebagai unit pemrosesan informasi utama di otak. Jika otak adalah sebuah komputer, maka neuron adalah prosesornya. Namun, tidak seperti prosesor silikon yang statis, neuron bersifat dinamis dan dapat berubah bentuk.
 
 ### Struktur Anatomi Neuron
 
@@ -36,7 +36,7 @@ Jika stimulus yang diterima tidak mencapai ambang batas ini, pesan tidak akan di
 
 ## 3\. Sinapsis
 
-Di sinilah bagian yang paling menarik. Antara terminal akson satu neuron dengan dendrit neuron lainnya, ternyata **tidak ada sentuhan fisik**. Terdapat celah sempit yang disebut **Celah Sinapsis (Synaptic Cleft)**.
+Antara terminal akson satu neuron dengan dendrit neuron lainnya, ternyata **tidak ada sentuhan fisik**. Terdapat celah sempit yang disebut **Celah Sinapsis (Synaptic Cleft)**.
 
 ### Mekanisme Komunikasi Kimiawi
 
@@ -66,7 +66,7 @@ Pernahkah kamu merasa lelah secara fisik setelah belajar intensif selama dua jam
 Saat pertama kali memetik gitar, sinapsis di area motorik otak kamu masih "longgar". Sinyal kimiawi sering tersendat atau tidak sampai ke tujuan dengan tepat. Akibatnya, jari kamu terasa kaku.
 
 - **Latihan Hari ke-1:** Neuron mencoba membangun jalur. Sinyal listrik $Na^+$ dan $K^+$ bekerja keras, neurotransmitter dilepaskan namun reseptor belum peka.
-- **Latihan Hari ke-30:** Melalui pengulangan, struktur fisik sinapsis berubah. Jumlah reseptor meningkat, dan selubung mielin menebal. Sinyal kini meluncur secepat kilat. Inilah yang kita sebut sebagai "memori otot".
+- **Latihan Hari ke-30:** Melalui pengulangan, struktur fisik sinapsis berubah. Jumlah reseptor meningkat, dan selubung mielin menebal. Sinyal kini mengalir lebih cepat. Inilah yang kita sebut sebagai "memori otot".
 
 ## 6\. Visualisasi Sederhana Jalur Saraf
 

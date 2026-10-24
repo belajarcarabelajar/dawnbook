@@ -2,9 +2,9 @@
 
 ## Neurogenesis
 
-Selama puluhan tahun, dunia sains meyakini sebuah dogma yang cukup suram: kita semua terlahir dengan jumlah sel otak tertentu. Menurut dogma itu, seiring bertambahnya usia, sel-sel tersebut akan mati tanpa pernah bisa digantikan. Namun, memasuki akhir abad ke-20, paradigma ini runtuh. Para ilmuwan menemukan bahwa otak orang dewasa bukanlah sebuah patung batu yang statis, melainkan sebuah taman yang dinamis di mana benih-benih kehidupan baru terus tumbuh.
+Selama puluhan tahun, dunia sains meyakini sebuah dogma yang cukup suram: kita semua terlahir dengan jumlah sel otak tertentu. Menurut dogma itu, seiring bertambahnya usia, sel-sel tersebut akan mati tanpa pernah bisa digantikan. Namun, memasuki akhir abad ke-20, paradigma ini runtuh. Para ilmuwan menemukan bahwa otak orang dewasa bukanlah sebuah patung batu yang statis, melainkan sebuah taman yang dinamis tempat sel-sel baru terus tumbuh.
 
-Fenomena luar biasa ini disebut **Neurogenesis**.
+Fenomena ini disebut **Neurogenesis**.
 
 ### Apa Itu Neurogenesis?
 
@@ -12,16 +12,16 @@ Fenomena luar biasa ini disebut **Neurogenesis**.
 
 > "Otak kamu tidak hanya belajar dengan cara mengubah koneksi, tetapi dalam area tertentu, ia belajar dengan cara melahirkan anggota baru dalam tim sel sarafnya."
 
-Meskipun terjadi secara terbatas di otak dewasa dibandingkan saat masa perkembangan janin, proses ini sangat penting bagi fungsi kognitif kita.
+Meskipun terjadi secara terbatas di otak dewasa dibandingkan saat masa perkembangan janin, proses ini penting bagi fungsi kognitif kita.
 
 ### Pabrik Neuron di Otak Kita
 
 Di otak manusia dewasa, neurogenesis terutama terjadi di dua lokasi utama, namun yang paling relevan dengan proses belajar dan memori adalah **Hippocampus**, tepatnya di area yang disebut *Gyrus Dentatus*.
 
-**Perpustakaan yang Terus Berpindah** Bayangkan Hippocampus sebagai sebuah gudang logistik atau pusat sortir di sebuah perpustakaan raksasa. Tugasnya adalah menerima buku-buku baru (informasi), mengkategorikannya, dan mengirimkannya ke rak yang tepat (memori jangka panjang di korteks).
+**Perpustakaan yang Terus Berpindah** Bayangkan Hippocampus sebagai sebuah gudang logistik atau pusat sortir di sebuah perpustakaan besar. Tugasnya adalah menerima buku-buku baru (informasi), mengkategorikannya, dan mengirimkannya ke rak yang tepat (memori jangka panjang di korteks).
 
 - **Tanpa Neurogenesis:** Gudang tersebut akan penuh sesak, petugasnya kelelahan, dan buku-buku baru akan berserakan tanpa teratur.
-- **Dengan Neurogenesis:** Otak terus mendatangkan "karyawan baru" (neuron baru) yang segar dan energik untuk membantu memproses arus informasi yang tak henti-hentinya.
+- **Dengan Neurogenesis:** Otak terus mendatangkan "karyawan baru" (neuron baru) untuk membantu memproses arus informasi yang terus masuk.
 
 ### Peran Neurogenesis dalam Fungsi Kognitif
 
@@ -96,4 +96,4 @@ Meskipun mekanisme mendalam akan dibahas di bagian selanjutnya, kamu bisa mulai 
 
 > Neurogenesis adalah bukti fisik bahwa tidak ada kata terlambat untuk belajar. Otak kamu secara biologis dirancang untuk memperbarui dirinya sendiri selama kamu memberinya tantangan dan lingkungan yang tepat.
 
-*Refleksi: Jika hari ini kamu mempelajari satu konsep sulit yang belum pernah kamu ketahui sebelumnya, bayangkan sel-sel saraf muda di otak kamu sedang berjuang untuk lahir dan menjalin koneksi. Apa satu hal baru yang akan kamu pelajari besok untuk tetap menjaga "taman" otak kamu tetap hijau?*
+*Refleksi: Jika hari ini kamu mempelajari satu konsep sulit yang belum pernah kamu ketahui sebelumnya, bayangkan sel-sel saraf baru di otak kamu sedang tumbuh dan menjalin koneksi. Apa satu hal baru yang akan kamu pelajari besok untuk tetap menjaga "taman" otak kamu tetap hijau?*
