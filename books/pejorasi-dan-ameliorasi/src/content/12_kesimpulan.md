@@ -1,12 +1,12 @@
 ## Kesimpulan
 
-Dinamika semantik melalui pejorasi dan ameliorasi membuktikan bahwa bahasa merupakan cermin peradaban yang terus berevolusi seiring perubahan nilai budaya. Perjalanan menelusuri bagaimana kosakata hidup, berkembang, dan bergeser dalam strata sosial bahasa memperlihatkan bahwa kata dapat mendaki tangga kehormatan melalui **ameliorasi**, atau terperosok ke dalam konotasi negatif melalui **pejorasi**.
+Pejorasi dan ameliorasi membuktikan bahwa makna kata terus bergeser mengikuti perubahan nilai budaya masyarakat penuturnya. Perjalanan menelusuri bagaimana kosakata hidup, berkembang, dan bergeser dalam strata sosial bahasa memperlihatkan bahwa kata dapat naik derajat melalui **ameliorasi**, atau turun ke konotasi negatif melalui **pejorasi**.
 
 Bagian penutup ini merangkum esensi dari dinamika semantik sekaligus menyajikan gambaran mengenai peran teknologi serta budaya digital dalam membentuk masa depan interaksi kebahasaan.
 
 ### 1. Bahasa sebagai Organisme yang Dinamis
 
-Pelajaran mendasar dari studi semantik historis adalah sifat kebahasaan yang lentur dan senantiasa beradaptasi. Bahasa tidak tersimpan beku dalam ruang kedap udara, melainkan berdenyut di ruang percakapan sehari-hari, kolom interaksi media sosial, dan struktur kognitif kolektif masyarakat.
+Pelajaran mendasar dari studi semantik historis adalah sifat kebahasaan yang lentur dan senantiasa beradaptasi. Bahasa tidak diam di dalam kamus, melainkan terus dipakai dan berubah di ruang percakapan sehari-hari, kolom interaksi media sosial, dan struktur kognitif kolektif masyarakat.
 
 > **Intisari Utama:** Pergeseran makna, baik ameliorasi maupun pejorasi, bukan merupakan tanda kerusakan bahasa, melainkan refleksi dari pergeseran nilai sosial, perkembangan kebudayaan, dan dinamika kekuasaan dalam masyarakat.
 
@@ -42,7 +42,7 @@ Kehadiran sistem moderasi konten otomatis memicu munculnya fenomena **algospeak*
 
 #### Demokratisasi dan Kecepatan Adopsi Bahasa
 
-Kamus formal seperti KBBI berperan mencatat dan membakukan penggunaan, sementara media sosial (seperti X/Twitter, TikTok, dan forum daring) kerap menjadi inkubator awal pergeseran makna leksikal.
+Kamus formal seperti KBBI berperan mencatat dan membakukan penggunaan, sementara media sosial (seperti X/Twitter, TikTok, dan forum daring) kerap menjadi tempat awal pergeseran makna leksikal.
 
 - **Sultan:** Bermula dari gelar kebangsawanan monarki (netral-tinggi), kata ini mengalami perluasan makna sekaligus ameliorasi populer sebagai metafora figur yang dermawan atau berkecukupan materi.
 - **Wibu:** Berawal dari lema pejoratif untuk merendahkan penggemar fanatik budaya pop Jepang, istilah ini kemudian direklamasi (*reclaimed*) oleh komunitas penggemar secara bangga sehingga bergeser menuju konotasi netral hingga positif di ruang internal.
@@ -53,7 +53,7 @@ Mencermati pola kebahasaan kontemporer, terdapat beberapa arah tren yang membent
 
 #### A. Polarisasi dan Politisasi Kosakata
 
-Kata yang semula berstatus netral semakin rentan mengalami pejorasi cepat ketika terikat pada wacana kelompok politik tertentu. Istilah seperti *kritis*, *aktivis*, atau sebutan kelompok tertentu kerap mengalami pembelokan konotasi menjadi label perendahan dalam perang opini digital.
+Kata yang semula berstatus netral semakin rentan mengalami pejorasi cepat ketika terikat pada wacana kelompok politik tertentu. Istilah seperti *kritis*, *aktivis*, atau sebutan kelompok tertentu kerap mengalami pembelokan konotasi menjadi label perendahan dalam perdebatan opini di ruang digital.
 
 #### B. Pengaruh Kecerdasan Buatan terhadap Nilai Rasa
 
@@ -88,10 +88,10 @@ Implementasi industri dari pemodelan ini mencakup:
 
 Kajian semantik mengingatkan bahwa setiap kata menyimpan muatan sejarah, relasi kuasa, dan bobot emosional.
 
-> **Pesan Penutup:** Transformasi makna adalah bukti daya adaptasi manusia dalam berbahasa. Tanggung jawab penutur bukanlah membendung arus evolusi bahasa, melainkan memahami nuansa konteks agar pertukaran gagasan tetap berlangsung jernih, santun, dan bermartabat.
+> **Pesan Penutup:** Perubahan makna menunjukkan kemampuan manusia beradaptasi dalam berbahasa. Tanggung jawab penutur bukanlah menahan perubahan bahasa, melainkan memahami nuansa konteks agar pertukaran gagasan tetap berlangsung jernih, santun, dan bermartabat.
 
 - Gunakan pilihan kata dengan kesadaran penuh terhadap dampak psikologis dan sosialnya.
 - Pahami bahwa pemaknaan setiap individu dapat berbeda akibat perbedaan latar belakang kultural, komunitas, atau generasi.
-- Sambut keterbukaan evolusi bahasa sebagai ladang kreativitas daya cipta manusia.
+- Terima perubahan bahasa sebagai ruang bagi kreativitas penuturnya.
 
 *Refleksi Akhir: Pemahaman terhadap dinamika semantik menuntun setiap penutur untuk lebih cermat dan berempati dalam merangkai kata di ruang publik digital.*

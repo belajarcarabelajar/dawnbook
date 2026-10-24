@@ -6,7 +6,7 @@ Dinamika pergeseran makna leksikal merupakan cerminan etika berinteraksi sosial 
 
 ### 1. Nilai Rasa dalam Interaksi Sosial
 
-Setiap kata tidak hanya memuat arti harfiah (denotasi), tetapi juga membawa muatan emosional dan derajat kesantunan (konotasi atau nilai rasa). Kesantunan berbahasa sangat bergantung pada kecakapan penutur dalam menangkap nilai rasa tersebut.
+Setiap kata tidak hanya memuat arti harfiah (denotasi), tetapi juga membawa muatan emosional dan derajat kesantunan (konotasi atau nilai rasa). Kesantunan berbahasa bergantung pada kecakapan penutur dalam menangkap nilai rasa tersebut.
 
 | Dimensi Pergeseran | Dampak Komunikasi | Konsekuensi Etis |
 | :--- | :--- | :--- |
@@ -71,6 +71,6 @@ Perbedaan pemilihan kata membawa implikasi langsung terhadap suasana relasi sosi
 
 ### Intisari Etika Semantik
 
-Memahami dinamika pejorasi dan ameliorasi merupakan bagian dari ikhtiar merawat kemanusiaan dalam berbahasa. Penghargaan terhadap nilai rasa setiap kata membangun landasan peradaban tutur yang harmonis, minim gesekan, dan saling memuliakan.
+Memahami pejorasi dan ameliorasi membantu kamu berbahasa dengan lebih menghargai orang lain. Memperhatikan nilai rasa setiap kata membuat percakapan lebih santun, minim gesekan, dan saling menghormati.
 
-> **Prinsip Utama:** Pilihan kata mencerminkan cara penutur memandang sesama. Menuturkan kosakata bernilai rasa luhur merupakan langkah nyata dalam memperindah interaksi sosial.
+> **Prinsip Utama:** Pilihan kata mencerminkan cara penutur memandang sesama. Memilih kosakata yang bernilai rasa santun adalah cara sederhana menjaga hubungan baik dengan orang lain.

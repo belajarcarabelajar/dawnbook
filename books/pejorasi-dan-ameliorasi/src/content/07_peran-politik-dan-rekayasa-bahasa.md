@@ -2,7 +2,7 @@
 
 Rekayasa bahasa dalam dinamika politik memperlihatkan bagaimana pergeseran makna leksikal dirancang secara sengaja untuk mengarahkan persepsi publik. Jika perubahan semantik pada umumnya berlangsung secara alamiah seiring pergeseran budaya, rekayasa bahasa membuktikan bahwa perubahan nilai rasa dapat diproduksi secara sadar dan terstruktur.
 
-Dalam arena kekuasaan, bahasa bekerja sebagai instrumen pengendali sosial dan pembentuk realitas. Melalui ameliorasi (penghalusan makna) dan pejorasi (perendahan makna), pemegang otoritas membingkai suatu peristiwa, memengaruhi sentimen publik, serta melegitimasi kebijakan politik tertentu.
+Dalam politik, bahasa dipakai untuk mengendalikan masyarakat dan membentuk cara orang memandang kenyataan. Melalui ameliorasi (penghalusan makna) dan pejorasi (perendahan makna), pemegang otoritas membingkai suatu peristiwa, memengaruhi sentimen publik, serta melegitimasi kebijakan politik tertentu.
 
 ### 1. Politik sebagai Arsitek Makna
 
@@ -79,6 +79,6 @@ Penerapan rekayasa bahasa secara berkepanjangan menghadirkan konsekuensi sosial 
 
 ### Ikhtisar Pembahasan
 
-Dinamika politik dan rekayasa bahasa menegaskan bahwa kosakata kerap menjadi instrumen pergulatan nilai. Ameliorasi berfungsi meredam keresahan publik, sedangkan pejorasi bekerja mendiskreditkan pihak penantang.
+Dinamika politik dan rekayasa bahasa menegaskan bahwa kosakata kerap menjadi alat dalam perebutan nilai. Ameliorasi berfungsi meredam keresahan publik, sedangkan pejorasi bekerja mendiskreditkan pihak penantang.
 
 Pemelajar bahasa yang cermat dituntut untuk mendekonstruksi setiap istilah yang beredar di ruang publik. Analisis kritis tidak berhenti pada pemahaman arti harfiah kata, melainkan meneliti kepentingan sosial politik di balik pemilihan istilah tersebut.

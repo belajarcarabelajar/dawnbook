@@ -1,8 +1,8 @@
 ## Studi Kasus Pejorasi dalam Bahasa Indonesia
 
-Proses pergeseran makna pejoratif dapat ditelusuri secara nyata melalui dinamika sosial politik dan pemakaian bahasa sehari-hari di Indonesia. Pergeseran konotasi memperlihatkan bagaimana kata yang awalnya netral atau bernilai rasa positif mengalami degradasi nilai rasa hingga dipandang buruk oleh masyarakat tutur.
+Proses pergeseran makna pejoratif dapat ditelusuri melalui dinamika sosial politik dan pemakaian bahasa sehari-hari di Indonesia. Pergeseran konotasi memperlihatkan bagaimana kata yang awalnya netral atau bernilai rasa positif mengalami degradasi nilai rasa hingga dipandang buruk oleh masyarakat tutur.
 
-Sebuah kata dapat diumpamakan seperti jenama (*brand*). Pada masa awal pemakaiannya, kata tersebut memiliki reputasi netral atau terhormat. Namun, akibat asosiasi berulang dengan peristiwa buruk, perilaku tercela, atau kejahatan, reputasi leksikalnya merosot drastis. Fenomena penurunan derajat makna ini tampak jelas pada sejumlah leksikon dalam bahasa Indonesia.
+Sebuah kata dapat diumpamakan seperti jenama (*brand*). Pada masa awal pemakaiannya, kata tersebut memiliki reputasi netral atau terhormat. Namun, akibat asosiasi berulang dengan peristiwa buruk, perilaku tercela, atau kejahatan, reputasi leksikalnya merosot. Fenomena penurunan derajat makna ini tampak jelas pada sejumlah leksikon dalam bahasa Indonesia.
 
 ### 1. Kata "Oknum"
 
@@ -80,4 +80,4 @@ Dinamika pejorasi dapat dianalogikan dengan buah segar:
 
 ### Refleksi Dinamika Bahasa
 
-> **Kesimpulan Konseptual:** Pergeseran makna membuktikan bahwa bahasa bersifat cair serta berakar kuat pada memori kolektif masyarakat. Sebuah kata tidak semata-mata membawa definisi kamus, melainkan menyerap riwayat sosial, prasangka kultural, dan dinamika sejarah para penuturnya.
+> **Kesimpulan Konseptual:** Pergeseran makna membuktikan bahwa bahasa terus berubah dan terikat pada ingatan bersama masyarakat penuturnya. Sebuah kata tidak semata-mata membawa definisi kamus, melainkan menyerap riwayat sosial, prasangka kultural, dan dinamika sejarah para penuturnya.

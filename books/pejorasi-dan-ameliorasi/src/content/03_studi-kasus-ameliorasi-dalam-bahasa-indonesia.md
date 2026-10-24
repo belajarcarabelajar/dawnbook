@@ -2,7 +2,7 @@
 
 Proses pergeseran makna amelioratif mengangkat nilai rasa kata menjadi lebih terhormat, sopan, dan beradab dalam dinamika sosial masyarakat Indonesia. Transformasi linguistik ini mencerminkan bagaimana sebuah kata mengalami peningkatan status rasa, dari bentuk yang awalnya bernilai netral atau bahkan berkonotasi rendah menjadi kosakata yang diterima di ruang-ruang formal dan terhormat.
 
-Bahasa berfungsi layaknya panggung sosial. Sejumlah kosakata yang pada masa lampau dianggap biasa atau bernilai rasa rendah, seiring berjalannya waktu memperoleh penghormatan khusus dan dilembagakan dalam ranah resmi. Perkembangan ini dapat ditelusuri melalui beberapa studi kasus utama berikut.
+Sejumlah kosakata yang pada masa lampau dianggap biasa atau bernilai rasa rendah, seiring berjalannya waktu memperoleh penghormatan khusus dan dilembagakan dalam ranah resmi. Perkembangan ini dapat ditelusuri melalui beberapa studi kasus utama berikut.
 
 ### 1. Perjalanan Kata 'Wanita' dari Sansekerta ke Status Sosial
 
@@ -10,7 +10,7 @@ Salah satu contoh klasik ameliorasi dalam bahasa Indonesia tampak pada penggunaa
 
 **Latar Belakang Sejarah:** Secara etimologis, kata *wanita* diserap dari bahasa Sansekerta *vanita*, yang bermakna "yang diinginkan" atau "dicintai". Sementara itu, kata *perempuan* berakar dari kata dasar *empu*, yang bermakna "tuan", "orang yang pandai", "kepala", atau "pemilik".
 
-Kendati secara etimologis kata *perempuan* memiliki landasan makna yang sangat kuat (seperti pada bentuk *puan* atau *mampu*), dinamika sosiopolitik pada masa Orde Baru melahirkan pergeseran nilai rasa:
+Kendati secara etimologis kata *perempuan* memiliki landasan makna yang kuat (seperti pada bentuk *puan* atau *mampu*), dinamika sosiopolitik pada masa Orde Baru melahirkan pergeseran nilai rasa:
 
 - **Perempuan** pada masa itu kerap diasosiasikan dengan gerakan politik tertentu dan dipersepsikan terlalu menitikberatkan aspek biologis.
 - **Wanita** diangkat sebagai kosakata resmi yang dinilai lebih halus, anggun, dan berkelas, sehingga diprioritaskan dalam tata persuratan formal, organisasi kemasyarakatan, dan forum kenegaraan.
@@ -50,13 +50,13 @@ Perbedaan nilai rasa ini menunjukkan bahwa pemilihan kosakata tidak hanya bertum
 
 ### Penerapan Kontekstual dalam Komunikasi Publik
 
-Pemahaman studi kasus ameliorasi menumbuhkan kepekaan sosiolinguistik dan kecerdasan etis dalam berkomunikasi sehari-hari maupun profesional:
+Pemahaman studi kasus ameliorasi menumbuhkan kepekaan sosiolinguistik dan etis dalam berkomunikasi sehari-hari maupun profesional:
 
 1. **Dunia Profesional dan Manajemen Sumber Daya Manusia:** Dunia kerja memilih istilah *Asisten Rumah Tangga* (ART) ketimbang *pembantu*. Perubahan ini mengangkat penghargaan atas kontribusi profesi dan membangun hubungan kerja yang lebih profesional.
 2. **Hukum dan Pembinaan Kemasyarakatan:** Pemakaian frasa *Warga Binaan Pemasyarakatan* untuk menggantikan kata *narapidana* atau *orang hukuman* mencerminkan pergeseran paradigma dari penghukuman retributif menuju pembinaan dan rehabilitasi kemanusiaan.
 3. **Inklusi Sosial:** Penggunaan istilah ramah inklusi seperti *Penyandang Disabilitas* atau *Difabel* (*Different Ability*) membantu mengalihkan fokus masyarakat dari keterbatasan fisik menuju pengakuan atas potensi serta hak-hak kesetaraan.
 
-> **Prinsip Utama:** Ameliorasi menegaskan bahwa bahasa Indonesia merupakan sistem yang dinamis, senantiasa beradaptasi untuk menjunjung tinggi etika kesantunan dan tata krama linguistik masyarakat.
+> **Prinsip Utama:** Ameliorasi menegaskan bahwa bahasa Indonesia merupakan sistem yang dinamis dan terus menyesuaikan diri dengan etika kesantunan serta tata krama berbahasa masyarakatnya.
 
 ### Refleksi dan Formulasi
 
@@ -68,4 +68,4 @@ $$
 $$
 </div>
 
-Pergeseran makna melalui ameliorasi menjadi bukti nyata bahwa peradaban masyarakat terus berkembang ke arah kematangan etika tutur dan penghormatan kemanusiaan.
+Pergeseran makna melalui ameliorasi menunjukkan bahwa masyarakat terus menyesuaikan kata-katanya dengan tuntutan kesantunan dan penghormatan kepada sesama.
