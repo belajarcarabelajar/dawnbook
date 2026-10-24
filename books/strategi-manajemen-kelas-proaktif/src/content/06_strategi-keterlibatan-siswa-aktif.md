@@ -1,6 +1,6 @@
 ## Strategi Keterlibatan Siswa Aktif
 
-Pernahkah kamu memperhatikan bahwa gangguan perilaku di kelas paling sering terjadi saat transisi yang lama, ceramah yang monoton, atau ketika siswa merasa tidak memiliki peran dalam pembelajaran?
+Pernahkah kamu memperhatikan bahwa gangguan perilaku di kelas paling sering terjadi saat transisi yang lama atau ceramah yang monoton? Begitu pula ketika siswa merasa tidak memiliki peran dalam pembelajaran.
 
 Bayangkan sebuah kelas seperti sebuah konser musik. Jika penonton hanya duduk diam mendengarkan simfoni yang panjang tanpa jeda, pikiran mereka akan mulai melayang, mereka mungkin mulai berbisik dengan tetangganya, atau mengecek ponsel mereka. Namun, jika konduktor mengajak penonton untuk bertepuk tangan mengikuti irama atau menyanyikan bagian refrain, perhatian mereka akan kembali sepenuhnya ke panggung.
 
