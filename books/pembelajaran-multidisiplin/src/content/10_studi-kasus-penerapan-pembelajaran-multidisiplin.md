@@ -103,7 +103,7 @@ InnoCentive merupakan platform daring yang memfasilitasi organisasi, termasuk le
 
 Platform ini mencatat tingkat keberhasilan hingga 80% dalam merumuskan solusi bagi berbagai tantangan yang diajukan organisasi nirlaba. Salah satu pencapaian penting adalah penemuan metode teoretis untuk menyederhanakan rangkaian pengobatan tuberkulosis (TBC). Contoh ini menegaskan bahwa membuka ruang kolaborasi bagi kecerdasan kolektif lintas disiplin dari seluruh dunia dapat menghasilkan terobosan sosial yang besar.
 
-### Kesimpulan
+### Benang Merah Keempat Bidang
 
 Berbagai studi kasus di atas memperlihatkan dengan jelas bahwa pendekatan multidisiplin lebih dari sekadar tren akademik sesaat. Metode ini merupakan kebutuhan nyata di era modern. Baik dalam merancang kurikulum pendidikan tinggi yang dinamis, menembus batas baru riset ilmiah, melahirkan produk industri berorientasi pengguna, maupun mengurai benang kusut masalah sosial, kemampuan menghubungkan berbagai cabang ilmu menjadi kunci lahirnya solusi yang berdaya guna. Keberhasilan implementasi ini menuntut keterbukaan sikap, komunikasi yang jernih, serta kerelaan untuk keluar dari batas nyaman bidang keahlian masing-masing.
 

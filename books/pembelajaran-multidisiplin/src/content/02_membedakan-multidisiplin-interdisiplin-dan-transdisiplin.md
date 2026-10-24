@@ -64,7 +64,7 @@ Guna memudahkan kamu memetakan perbedaan ketiganya, cermati tabel perbandingan r
 | **Outcomes** | Kumpulan perspektif yang bervariasi. | Sintesis baru, melahirkan metode atau teori baru. | Pengetahuan transformatif dan solusi terapan berkelanjutan. |
 | **Metaphor** | *Orchestra* (tiap instrumen memainkan bagiannya sendiri). | *Jazz Ensemble* (instrumen saling menyahut dan berimprovisasi). | *Fusion Cuisine* (bahan dan teknik rasa menyatu melahirkan hidangan baru). |
 
-### Kesimpulan
+### Memilih Pendekatan Sesuai Masalah
 
 Memahami perbedaan antara *multidisciplinary*, *interdisciplinary*, dan *transdisciplinary* sangat membantu kita melihat bagaimana kolaborasi dalam *education and research* terus berkembang. Di saat *multidisciplinary* memberi kita kekayaan sudut pandang tanpa integrasi yang erat, *interdisciplinary* mulai merajut konsep dan metode untuk menciptakan pemahaman yang lebih mendalam. Pada puncaknya, *transdisciplinary* mendobrak batas-batas akademik klasik dan merangkul berbagai pihak di luar kampus demi menghadirkan solusi nyata bagi permasalahan dunia yang kian rumit. 
 
