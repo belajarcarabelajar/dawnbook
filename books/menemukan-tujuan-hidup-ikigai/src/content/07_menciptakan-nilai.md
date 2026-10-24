@@ -26,7 +26,7 @@ Pasar kerja akan terus berubah. Kamu perlu terus mengembangkan keterampilan yang
 
 ## 3. Mengubah Ide Menjadi Bisnis
 
-Jalur kewirausahaan memberimu kebebasan untuk secara langsung mengubah ide menjadi nilai ekonomi. Ini sering kali merupakan bentuk paling murni dari Ikigai yang dimonetisasi, sebab kamu memegang kendali penuh atas cara menciptakan nilai dan menghasilkan pendapatan.
+Jalur kewirausahaan memberimu kebebasan untuk secara langsung mengubah ide menjadi nilai ekonomi. Ini sering kali merupakan cara paling langsung untuk memonetisasi Ikigai, sebab kamu memegang kendali penuh atas cara menciptakan nilai dan menghasilkan pendapatan.
 
 Langkah awalnya adalah mengidentifikasi celah pasar. Amati rasa frustrasi atau masalah yang sering dialami orang di sekitarmu. Cari kekosongan yang belum terisi oleh solusi yang memadai, misalnya kebutuhan akan produk ramah lingkungan khusus atau layanan yang sangat personal. Gunakan minat dan keahlianmu untuk merumuskan solusi unik.
 

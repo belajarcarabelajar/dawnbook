@@ -80,7 +80,7 @@ Setelah pernyataan Ikigai terbentuk, susun langkah kecil untuk mendekati tujuan 
 
 ### Ringkasan Langkah ke Depan
 
-Menyusun peta ini membantu mengidentifikasi dan memadukan esensi keberadaan. 
+Menyusun peta ini membantu mengidentifikasi dan memadukan keempat pilar Ikigai-mu. 
 
 > "Peta Ikigai adalah kompas panduan yang luwes. Peta ini akan berevolusi seiring bertambahnya pengalaman."
 

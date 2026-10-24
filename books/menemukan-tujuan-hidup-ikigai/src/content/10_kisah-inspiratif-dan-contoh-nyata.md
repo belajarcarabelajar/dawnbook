@@ -14,11 +14,11 @@ Kisah Jane Goodall bermula dari rasa ingin tahu dan kepeduliannya terhadap hewan
 
 ### J.K. Rowling dan Harry Potter
 
-J.K. Rowling membuktikan bahwa *Ikigai* bisa lahir di masa-masa paling sulit. Menulis cerita fiksi dan membangun dunia imajinatif adalah minatnya sejak lama. Saat menjadi ibu tunggal dengan kondisi ekonomi terbatas, ia mengandalkan bakat menulisnya untuk menciptakan kisah *Harry Potter*. Tulisan tersebut ternyata mendapat tempat di hati jutaan pembaca seluruh dunia karena menawarkan hiburan sekaligus nilai persahabatan. Penjualan karyanya menunjukkan bahwa fokus pada bakat alami dan hal yang dicintai dapat mendatangkan stabilitas materi yang tak terbayangkan sebelumnya.
+J.K. Rowling membuktikan bahwa *Ikigai* bisa lahir di masa-masa paling sulit. Menulis cerita fiksi dan membangun dunia imajinatif adalah minatnya sejak lama. Saat menjadi ibu tunggal dengan kondisi ekonomi terbatas, ia mengandalkan bakat menulisnya untuk menciptakan kisah *Harry Potter*. Tulisan tersebut ternyata disukai jutaan pembaca di seluruh dunia karena menawarkan hiburan sekaligus nilai persahabatan. Penjualan karyanya menunjukkan bahwa fokus pada bakat alami dan hal yang dicintai dapat mendatangkan stabilitas materi.
 
 ### Tadashi Yanai dan Masayoshi Son
 
-Di bidang bisnis, prinsip *Ikigai* terlihat jelas pada Tadashi Yanai (pendiri UNIQLO) dan Masayoshi Son (pendiri SoftBank). Mereka mengawali langkah dari minat kuat pada inovasi dan strategi. Keduanya menjadikan *passion* ini sebagai *profession* yang ditekuni bertahun-tahun melewati ragam kegagalan. Sebagai *vocation*, entitas bisnis yang mereka bangun menciptakan keuntungan masif. Lebih jauh lagi, mereka memasukkan unsur *mission* dalam kepemimpinannya. Tadashi Yanai berinisiatif membuka lapangan kerja bagi penyandang disabilitas, sementara Masayoshi Son mendirikan SoftBank Academia dan SoftBank University untuk membuka akses pendidikan lebih luas bagi generasi muda.
+Di bidang bisnis, prinsip *Ikigai* terlihat jelas pada Tadashi Yanai (pendiri UNIQLO) dan Masayoshi Son (pendiri SoftBank). Mereka mengawali langkah dari minat kuat pada inovasi dan strategi. Keduanya menjadikan *passion* ini sebagai *profession* yang ditekuni bertahun-tahun melewati ragam kegagalan. Sebagai *vocation*, entitas bisnis yang mereka bangun menciptakan keuntungan besar. Lebih jauh lagi, mereka memasukkan unsur *mission* dalam kepemimpinannya. Tadashi Yanai berinisiatif membuka lapangan kerja bagi penyandang disabilitas, sementara Masayoshi Son mendirikan SoftBank Academia dan SoftBank University untuk membuka akses pendidikan lebih luas bagi generasi muda.
 
 > Setiap orang memiliki racikan *Ikigai* masing-masing, namun bermuara pada titik yang sama: ketenangan dan kepuasan batin.
 

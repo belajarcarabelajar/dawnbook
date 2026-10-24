@@ -1,18 +1,18 @@
 ## Empat Pilar Utama Ikigai
 
-Selamat datang di bagian yang akan membawa kita lebih dalam ke inti filosofi Ikigai. Setelah memahami konsep dasar Ikigai sebagai tujuan hidup dan alasan kita bangun di pagi hari, kini saatnya kita membongkar fondasinya: keempat pilar utama yang membentuk dan menuntun kita dalam perjalanan menemukan Ikigai sejati. Keempat pilar ini adalah 'Apa yang Kamu Cintai', 'Apa yang Kamu Kuasai', 'Apa yang Dibutuhkan Dunia', dan 'Apa yang Dapat Menghasilkan Uang'. Memahami setiap pilar secara mendalam adalah langkah penting sebelum kita menggabungkannya.
+Selamat datang di bagian yang akan membawa kita lebih dalam ke inti filosofi Ikigai. Setelah memahami konsep dasar Ikigai sebagai tujuan hidup dan alasan kita bangun di pagi hari, kini saatnya kita membongkar fondasinya: keempat pilar utama yang membentuk dan menuntun kita dalam perjalanan menemukan Ikigai. Keempat pilar ini adalah 'Apa yang Kamu Cintai', 'Apa yang Kamu Kuasai', 'Apa yang Dibutuhkan Dunia', dan 'Apa yang Dapat Menghasilkan Uang'. Memahami setiap pilar secara mendalam adalah langkah penting sebelum kita menggabungkannya.
 
 ## 1\. Apa yang Kamu Cintai
 
-Pilar pertama ini adalah tentang hati dan jiwamu. Ini adalah tentang hal-hal yang benar-benar membangkitkan gairah, kegembiraan, dan rasa kepuasan mendalam dalam dirimu. Aktivitas yang kamu lakukan karena murni kesenangan, tanpa merasa terbebani, bahkan jika kamu tidak dibayar untuk itu.
+Pilar pertama ini adalah tentang hal-hal yang membangkitkan gairah, kegembiraan, dan rasa puas dalam dirimu. Aktivitas yang kamu lakukan karena murni kesenangan, tanpa merasa terbebani, bahkan jika kamu tidak dibayar untuk itu.
 
 **Definisi:** 'Apa yang Kamu Cintai' merujuk pada minat, hobi, dan kegiatan yang memberikanmu energi, inspirasi, dan rasa bahagia yang tulus. Ini adalah area di mana kamu merasa paling hidup dan termotivasi.
 
 **Karakteristik:**
-Aktivitas yang kamu cintai biasanya memiliki beberapa tanda. Kamu melakukannya murni untuk kesenangan (ketidakmementingan diri), bukan karena kewajiban atau imbalan. Sering kali, kamu masuk ke dalam keadaan mengalir (*flow state*), kehilangan jejak waktu karena sepenuhnya tenggelam dalam prosesnya. Kegiatan ini menjadi sumber energi; setelah melakukannya, kamu merasa lebih segar dan bersemangat, bukan kelelahan. Gairah ini sangat otentik, sesuatu yang akan terus kamu kerjakan meskipun tidak ada orang lain yang memperhatikan atau menghargainya.
+Aktivitas yang kamu cintai biasanya memiliki beberapa tanda. Kamu melakukannya murni untuk kesenangan (ketidakmementingan diri), bukan karena kewajiban atau imbalan. Sering kali, kamu masuk ke dalam keadaan mengalir (*flow state*), kehilangan jejak waktu karena sepenuhnya tenggelam dalam prosesnya. Kegiatan ini menjadi sumber energi; setelah melakukannya, kamu merasa lebih segar dan bersemangat, bukan kelelahan. Gairah ini otentik, sesuatu yang akan terus kamu kerjakan meskipun tidak ada orang lain yang memperhatikan atau menghargainya.
 
 **Contoh:**
-Sebagai contoh, seseorang yang mencintai musik bisa menghabiskan berjam-jam bermain gitar, menulis lagu, atau mendengarkan berbagai genre tanpa merasa bosan. Musik adalah sumber kegembiraan dan ekspresi diri baginya. Bagi pecinta alam, kedamaian sejati mungkin ditemukan saat mendaki gunung, berkebun, atau sekadar menghabiskan waktu di taman. Sementara itu, seorang penulis amatir mungkin senang menulis cerita pendek, puisi, atau jurnal pribadi, meskipun tulisannya tidak pernah diterbitkan atau dibaca orang lain. Proses menulis itu sendiri sudah menjadi kebahagiaan baginya.
+Sebagai contoh, seseorang yang mencintai musik bisa menghabiskan berjam-jam bermain gitar, menulis lagu, atau mendengarkan berbagai genre tanpa merasa bosan. Musik adalah sumber kegembiraan dan ekspresi diri baginya. Bagi pecinta alam, ketenangan mungkin ditemukan saat mendaki gunung, berkebun, atau sekadar menghabiskan waktu di taman. Sementara itu, seorang penulis amatir mungkin senang menulis cerita pendek, puisi, atau jurnal pribadi, meskipun tulisannya tidak pernah diterbitkan atau dibaca orang lain. Proses menulis itu sendiri sudah menjadi kebahagiaan baginya.
 
 ## 2\. Apa yang Kamu Kuasai
 
@@ -27,7 +27,7 @@ Pilar kedua berpusat pada bakat, keterampilan, dan kemampuan yang kamu miliki. P
 - Terdapat rasa puas tersendiri ketika kamu berhasil memanfaatkan keahlian tersebut untuk mencapai sesuatu.
 
 **Contoh:**
-Misalnya, seorang *programmer* yang mahir sangat menyukai logika dan pemecahan masalah, sekaligus memiliki pemahaman mendalam tentang berbagai bahasa pemrograman dan algoritma untuk membuat sistem yang efisien. Contoh lain adalah seorang koki berbakat yang punya kepekaan rasa luar biasa dan teknik memasak mumpuni, sehingga mampu menghasilkan hidangan inovatif. Atau, guru yang efektif dengan kemampuan alami menjelaskan konsep sulit menjadi mudah dimengerti, mengelola kelas dengan baik, serta mampu menginspirasi siswanya.
+Misalnya, seorang *programmer* yang mahir menyukai logika dan pemecahan masalah, sekaligus memiliki pemahaman mendalam tentang berbagai bahasa pemrograman dan algoritma untuk membuat sistem yang efisien. Contoh lain adalah seorang koki berbakat yang punya kepekaan rasa tajam dan teknik memasak mumpuni, sehingga mampu menghasilkan hidangan inovatif. Atau, guru yang efektif dengan kemampuan alami menjelaskan konsep sulit menjadi mudah dimengerti, mengelola kelas dengan baik, serta mampu menginspirasi siswanya.
 
 > [!IMPORTANT]
 > Menguasai sesuatu tidak selalu berarti menjadi yang terbaik di dunia, melainkan memiliki tingkat kompetensi yang membuatmu percaya diri dan mampu memberikan nilai bagi orang lain.
@@ -64,4 +64,4 @@ Sama halnya dengan pelatih kebugaran pribadi (*personal trainer*) yang menggabun
 
 Contoh lainnya adalah *software engineer* yang menikmati memecahkan masalah lewat kode, punya keahlian tinggi, dan melihat kebutuhan perusahaan akan perangkat lunak khusus. Ia kemudian bekerja dan mendapatkan penghasilan dari proyek-proyeknya.
 
-Memahami keempat pilar ini secara terpisah adalah langkah pertama yang kuat. Setiap pilar mewakili dimensi penting dari keberadaan kita: hasrat internal, kemampuan eksternal, dampak sosial, dan keberlanjutan finansial. Pada bagian selanjutnya, kita akan melihat bagaimana keempat pilar ini berinteraksi dan bersinggungan membentuk area-area kunci yang menuntun kita pada Ikigai sejati.
+Memahami keempat pilar ini secara terpisah adalah langkah pertama yang kuat. Setiap pilar mewakili satu sisi penting hidup kita: hasrat internal, kemampuan eksternal, dampak sosial, dan keberlanjutan finansial. Pada bagian selanjutnya, kita akan melihat bagaimana keempat pilar ini berinteraksi dan bersinggungan membentuk area-area kunci yang menuntun kita pada Ikigai.
