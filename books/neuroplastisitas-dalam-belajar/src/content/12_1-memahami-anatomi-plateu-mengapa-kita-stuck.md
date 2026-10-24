@@ -1,3 +1,5 @@
+## Anatomi Plateau
+
 Pernahkah kamu merasa sudah belajar berjam-jam, berlatih setiap hari, namun kemampuan kamu seolah jalan di tempat? Dalam dunia psikologi belajar, fenomena ini disebut sebagai **Learning Plateau** (Dataran Tinggi Belajar).
 
 Meskipun terasa frustrasi, kabar baiknya adalah dari sudut pandang neuroplastisitas, plateau bukanlah tanda bahwa kamu berhenti belajar. Sebaliknya, itu adalah fase sangat penting di mana otak kamu sedang melakukan "pemeliharaan sistem" di balik layar.
