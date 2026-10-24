@@ -28,7 +28,7 @@ Mari hati-hati di sini, karena angka genetik gampang disalahpahami.
 
 > Keterwarisan adalah statistik populasi. Angka 0,46 tidak berarti 46% dari perilaku kamu pribadi "berasal dari gen" dan sisanya dari lingkungan. Angka itu menggambarkan seberapa banyak perbedaan antarorang di sebuah sampel tertentu, pada waktu dan lingkungan tertentu, yang berjalan seiring dengan perbedaan genetik. Untuk satu individu, angka itu tidak mengatakan apa-apa tentang berapa besar peluangmu berubah.
 
-Ada tiga hal lagi. Pertama, angka 0,46 pun jauh dari mutlak: pengaruh selain gen tetap ada dan tetap berperan. Kedua, korelasi genetik menunjukkan dua ciri berbagi pengaruh yang sama, bukan bahwa gen itu menentukan hasil akhirnya. Ketiga, para penulis sendiri menegaskan bahwa sebab-akibat tidak dapat disimpulkan dari data ini. Sampelnya dewasa muda dengan usia rata-rata 22,66 tahun, dan desainnya mengamati, bukan mengintervensi.
+Ada tiga hal lagi. Pertama, angka 0,46 jauh dari mutlak: pengaruh selain gen tetap ada dan ikut berperan. Kedua, korelasi genetik menunjukkan dua ciri berbagi pengaruh yang sama, bukan bahwa gen itu menentukan hasil akhirnya. Ketiga, para penulis sendiri menegaskan bahwa sebab-akibat tidak dapat disimpulkan dari data ini. Sampelnya dewasa muda dengan usia rata-rata 22,66 tahun, dan desainnya mengamati, bukan mengintervensi.
 
 Hasil studi kembar semacam ini juga tidak menutup pintu perubahan. Di bab-bab sebelumnya kamu sudah melihat bahwa mood, konteks stres, dan cara menangani emosi ikut membentuk penundaan. Semua itu tetap bisa digarap, apa pun latar genetiknya.
 
