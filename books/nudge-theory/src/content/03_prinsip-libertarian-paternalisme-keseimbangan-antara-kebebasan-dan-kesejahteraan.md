@@ -2,7 +2,7 @@
 
 Pernahkah kamu merasa bahwa istilah "Libertarian" dan "Paternalisme" terdengar seperti minyak dan air yang tidak mungkin bersatu? Yang satu menjunjung tinggi kebebasan mutlak individu (**Libertarian**), sementara yang lain menyarankan intervensi demi kebaikan individu tersebut (**Paternalisme**).
 
-Namun, dalam dunia **Arsitektur Pilihan**, kedua konsep ini digabungkan menjadi sebuah filosofi yang sangat kuat. Richard Thaler dan Cass Sunstein, pencetus *Nudge Theory*, menyebutnya sebagai **Libertarian Paternalisme**. Filosofi ini menjadi dasar untuk merancang pilihan agar orang terbantu mengambil keputusan terbaik tanpa paksaan.
+Namun, dalam **Arsitektur Pilihan**, kedua konsep ini digabungkan menjadi satu filosofi. Richard Thaler dan Cass Sunstein, pencetus *Nudge Theory*, menyebutnya sebagai **Libertarian Paternalisme**. Filosofi ini menjadi dasar untuk merancang pilihan agar orang terbantu mengambil keputusan terbaik tanpa paksaan.
 
 ### Apa itu Libertarian Paternalisme?
 
@@ -63,7 +63,7 @@ Pemerintah mewajibkan setiap karyawan memotong 10% gaji tanpa terkecuali. Langka
 **Pendekatan Libertarian Paternalisme (Automatic Enrollment)**  
 Karyawan secara otomatis terdaftar untuk menabung 5% dari gaji mereka. Namun, di formulir tersebut ada kotak kecil yang bisa dicentang jika mereka ingin berhenti atau mengubah jumlahnya.
 
-Hasilnya sangat menarik. Tingkat tabungan karyawan melonjak drastis karena sebagian besar orang cenderung mengikuti pengaturan bawaan. Namun, kebebasan mereka tidak hilang. Siapa saja yang membutuhkan uang tunai dalam waktu dekat bisa membatalkan kepesertaan mereka dengan mudah.
+Tingkat tabungan karyawan melonjak drastis karena sebagian besar orang cenderung mengikuti pengaturan bawaan. Namun, kebebasan mereka tidak hilang. Siapa saja yang membutuhkan uang tunai dalam waktu dekat bisa membatalkan kepesertaan mereka dengan mudah.
 
 ### Tantangan dan Batasan
 

@@ -1,8 +1,8 @@
 ## Dua Sistem Berpikir menurut Dual Process Theory
 
-Bayangkan kamu sedang menyetir pulang kerja dan tiba-tiba sudah sampai di rumah tanpa mengingat kapan harus berbelok atau mengerem di setiap persimpangan. Di hari lain, kamu mungkin merasa lelah luar biasa setelah membagi tagihan makan malam yang rumit bersama teman secara manual.
+Bayangkan kamu sedang menyetir pulang kerja dan tiba-tiba sudah sampai di rumah tanpa mengingat kapan harus berbelok atau mengerem di setiap persimpangan. Di hari lain, kamu mungkin merasa lelah setelah membagi tagihan makan malam yang rumit bersama teman secara manual.
 
-Kedua situasi ini menggambarkan bagaimana otak kita bekerja menggunakan dua sistem berbeda, sebuah konsep yang dikenal sebagai **Dual Process Theory** (Teori Proses Ganda). Daniel Kahneman menjelaskan sistem ini secara mendalam di bukunya, *Thinking, Fast and Slow*. Memahami cara kerja keduanya akan membuka tabir mengapa **Arsitektur Pilihan (Nudge Theory)** bisa begitu ampuh dalam mengarahkan tindakan kita.
+Kedua situasi ini menggambarkan bagaimana otak kita bekerja menggunakan dua sistem berbeda, sebuah konsep yang dikenal sebagai **Dual Process Theory** (Teori Proses Ganda). Daniel Kahneman menjelaskan sistem ini secara mendalam di bukunya, *Thinking, Fast and Slow*. Memahami cara kerja keduanya membantu menjelaskan mengapa **Arsitektur Pilihan (Nudge Theory)** bisa efektif dalam mengarahkan tindakan kita.
 
 ## Sistem 1 sebagai Pilot Otomatis yang Berpikir Cepat
 
@@ -10,7 +10,7 @@ Sistem 1 berjalan di latar belakang pikiran secara otomatis dan cepat tanpa perl
 
 ### Karakteristik Utama
 
-- Bereaksi sangat cepat dalam hitungan milidetik.
+- Bereaksi cepat, dalam hitungan milidetik.
 - Hemat energi karena menggunakan sangat sedikit energi mental (glukosa).
 - Mengandalkan emosi, perasaan, serta asosiasi dari masa lalu.
 - Cenderung asosiatif, yaitu menghubungkan informasi baru dengan pola atau stereotip yang sudah ada.

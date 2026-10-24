@@ -2,11 +2,11 @@
 
 Pernahkah kamu heran mengapa kita sering kali mengabaikan diskon besar di akhir bulan, tetapi langsung bereaksi pada label merah "Sisa 1 Barang!"? Atau mengapa kita tetap menggunakan listrik secara boros padahal kita tahu tagihannya akan mahal di akhir bulan?
 
-Jawabannya terletak pada **Salience** (keterlihatan/keunggulan) dan bagaimana **Struktur Insentif** dirancang. Dalam Arsitektur Pilihan, memberikan insentif saja tidak cukup. Insentif tersebut harus "berteriak" cukup keras agar didengar oleh **Sistem 1** kita yang intuitif dan cepat.
+Jawabannya terletak pada **Salience** (keterlihatan/keunggulan) dan bagaimana **Struktur Insentif** dirancang. Dalam Arsitektur Pilihan, memberikan insentif saja tidak cukup. Insentif tersebut harus cukup menonjol agar ditangkap oleh **Sistem 1** kita yang intuitif dan cepat.
 
 ## 1. Memahami Salience sebagai "Lampu Neon" dalam Pikiran Kita
 
-**Salience** merujuk pada kecenderungan manusia untuk lebih memperhatikan informasi yang mencolok, relevan, dan mudah diingat. Dalam dunia yang penuh dengan gangguan, otak kita (khususnya Sistem 1) bertindak seperti filter yang sangat ketat.
+**Salience** merujuk pada kecenderungan manusia untuk lebih memperhatikan informasi yang mencolok, relevan, dan mudah diingat. Di tengah banyaknya gangguan, otak kita (khususnya Sistem 1) bertindak seperti filter yang ketat.
 
 > **Insight:** Insentif yang tidak terlihat (not salient) sama saja dengan insentif yang tidak ada.
 
@@ -61,7 +61,7 @@ Dalam kebijakan publik, cara pajak atau biaya dikenakan sangat mempengaruhi peri
 **Biaya Kantong Plastik** Di banyak negara, menetapkan harga kecil (misalnya Rp200 atau USD 0,05) untuk kantong plastik ternyata jauh lebih efektif daripada memberikan diskon yang sama jika pelanggan membawa tas sendiri. Mengapa?
 
 1. **Loss Aversion.** Otak kita memproses kerugian secara berbeda. Kehilangan Rp200 rasanya jauh lebih menyakitkan ketimbang melewatkan diskon dengan nilai yang sama.
-2. **Kehadiran Salience di Kasir.** Pertanyaan kasir, "Mau pakai plastik seharga Rp200?", memicu kesadaran penuh saat transaksi. Biaya kecil ini mendadak jadi sangat nyata di detik-detik penting sebelum tindakan dilakukan.
+2. **Kehadiran Salience di Kasir.** Pertanyaan kasir, "Mau pakai plastik seharga Rp200?", memicu kesadaran saat transaksi. Biaya kecil ini terasa nyata tepat sebelum tindakan dilakukan.
 
 ### Contoh Implementasi dalam Desain Antarmuka (UI/UX)
 
@@ -85,7 +85,7 @@ Tujuanmu adalah membuat pengemudi berkendara lebih hemat energi. Jika kamu hanya
 
 **Pendekatan Arsitektur Pilihan:**
 
-* **Sentuhan Visual.** Kamu bisa memprogram agar warna latar belakang dashboard berangsur hijau ketika berkendara hemat, lalu berubah menjadi merah membara saat pedal gas diinjak terlalu dalam.
+* **Sentuhan Visual.** Kamu bisa memprogram agar warna latar belakang dashboard berangsur hijau ketika berkendara hemat, lalu berubah menjadi merah saat pedal gas diinjak terlalu dalam.
 * **Menampilkan Insentif Secara Nyata.** Daripada sekadar angka teknis, tampilkan estimasi "Sisa Jarak Tempuh" yang merosot tajam ketika pendingin udara dipasang pada suhu maksimal.
 * **Umpan Balik Sosial.** Bandingkan tingkat efisiensimu dengan pengemudi lain di kota yang sama, sehingga dorongan reputasi sosial menjadi lebih nyata.
 

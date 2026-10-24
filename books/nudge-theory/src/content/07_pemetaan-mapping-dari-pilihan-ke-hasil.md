@@ -2,7 +2,7 @@
 
 Pernahkah kamu berdiri di depan rak supermarket, menatap dua botol deterjen, dan mencoba mencari tahu mana yang lebih hemat? Satu botol berisi 1,5 liter seharga Rp45.000, sementara yang lain adalah paket isi ulang 800ml seharga Rp26.000 dengan promo "Beli 2 Gratis 1".
 
-Tiba-tiba, tugas sederhana membeli sabun cuci berubah menjadi ujian kalkulus tingkat lanjut. Di sinilah letak masalahnya: kita sering kali mahir melihat pilihan, tetapi buruk dalam memetakan pilihan tersebut ke hasil nyata yang akan dirasakan dalam keseharian.
+Tiba-tiba, tugas sederhana membeli sabun cuci berubah menjadi soal hitungan yang membingungkan. Masalahnya, kita sering kali mahir melihat pilihan, tetapi buruk dalam memetakan pilihan tersebut ke hasil nyata yang akan dirasakan dalam keseharian.
 
 Dalam Arsitektur Pilihan, **Pemetaan (Mapping)** adalah teknik untuk membantu orang memahami hubungan antara opsi yang mereka pilih dengan kesejahteraan (*utility*) yang akan mereka dapatkan di masa depan.
 
@@ -61,11 +61,11 @@ Banyak orang kebingungan mengambil keputusan karena tidak bisa memprediksi seber
 
 ### Dashboard Kendaraan Listrik
 
-Dalam dunia teknik dan desain produk, pemetaan memegang peran yang sangat penting. Lihat bagaimana Tesla atau Hyundai Ioniq memetakan sisa baterai:
+Dalam teknik dan desain produk, pemetaan memegang peran penting. Lihat bagaimana Tesla atau Hyundai Ioniq memetakan sisa baterai:
 
 - **Data Mentah:** Indikator menuliskan "Baterai sisa 15%". Pengemudi sering kali bingung apakah energi ini cukup untuk sampai ke tujuan.
 - **Mapping yang Baik:** Layar menunjukkan "Baterai cukup untuk 42 km lagi, sementara stasiun pengisian terdekat berjarak 12 km."
-- **Mapping yang Luar Biasa:** Sistem navigasi langsung mendeteksi rute perjalananmu. Jika tujuan melampaui sisa baterai, sistem otomatis menjadwalkan perhentian di stasiun pengisian daya terdekat lengkap dengan estimasi durasi pengisiannya.
+- **Mapping yang Lebih Lengkap:** Sistem navigasi langsung mendeteksi rute perjalananmu. Jika tujuan melampaui sisa baterai, sistem otomatis menjadwalkan perhentian di stasiun pengisian daya terdekat lengkap dengan estimasi durasi pengisiannya.
 
 ### Kopi Harian yang Dipetakan Menjadi Tabungan
 

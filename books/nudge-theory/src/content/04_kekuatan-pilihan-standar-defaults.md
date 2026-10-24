@@ -2,7 +2,7 @@
 
 Pernahkah kamu menyadari bahwa nada dering ponsel kebanyakan orang hampir selalu sama dengan saat pertama kali mereka membelinya? Atau mengapa sebagian besar pengguna aplikasi tidak pernah mengubah pengaturan privasi mereka?
 
-Selamat datang di dunia **Defaults** (Pilihan Standar). Dalam arsitektur pilihan, *default* adalah opsi yang secara otomatis terpilih jika pengambil keputusan tidak melakukan tindakan aktif untuk mengubahnya. Meskipun terkesan sederhana, *default* adalah salah satu instrumen paling kuat dalam kotak perkakas seorang arsitek pilihan.
+Keduanya berkaitan dengan **Defaults** (Pilihan Standar). Dalam arsitektur pilihan, *default* adalah opsi yang secara otomatis terpilih jika pengambil keputusan tidak melakukan tindakan aktif untuk mengubahnya. Meskipun terkesan sederhana, *default* adalah salah satu instrumen paling kuat dalam kotak perkakas seorang arsitek pilihan.
 
 ## 1\. Mengapa Default Sangat Berpengaruh?
 
@@ -37,7 +37,7 @@ Penerapan pilihan standar memiliki beberapa bentuk berbeda tergantung pada tujua
 
 Salah satu studi kasus paling terkenal mengenai kekuatan *default* adalah perbandingan tingkat donor organ di berbagai negara Eropa.
 
-Di negara-negara dengan sistem **Opt-in** (harus mendaftar jadi donor), tingkat partisipasi rata-rata hanya berkisar $15\text{\%}$. Namun, di negara-negara dengan sistem **Opt-out** (dianggap donor kecuali menyatakan tidak), tingkat partisipasinya melonjak drastis hingga mendekati $99\text{\%}$.
+Di negara-negara dengan sistem **Opt-in** (harus mendaftar jadi donor), tingkat partisipasi rata-rata hanya berkisar $15\text{\%}$. Namun, di negara-negara dengan sistem **Opt-out** (dianggap donor kecuali menyatakan tidak), tingkat partisipasinya naik hingga mendekati $99\text{\%}$.
 
 <div>
 $$
@@ -45,7 +45,7 @@ P(\text{Donor} \mid \text{Opt-out}) \approx 0.99 \gg P(\text{Donor} \mid \text{O
 $$
 </div>
 
-Perbedaan partisipasi yang sangat kontras ini terjadi karena kekuatan pilihan bawaan (default), bukan karena tingkat kepedulian sosial masyarakat di negara-negara tersebut berbeda.
+Perbedaan partisipasi yang kontras ini terjadi karena kekuatan pilihan bawaan (default), bukan karena tingkat kepedulian sosial masyarakat di negara-negara tersebut berbeda.
 
 ## 4\. Implementasi dalam Dunia Digital & Engineering
 
@@ -75,7 +75,7 @@ Penerapan pilihan standar ini banyak dijumpai dalam berbagai skenario praktis:
 
 ## 6\. Merancang Default yang Etis
 
-Karena *default* begitu kuat, ada tanggung jawab moral yang besar bagi sang Arsitek Pilihan.
+Karena *default* berpengaruh besar, Arsitek Pilihan memikul tanggung jawab moral.
 
 **Prinsip Desain Default yang Baik:**
 

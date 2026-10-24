@@ -1,6 +1,6 @@
 ## Nudge vs Sludge dan Etika dalam Desain
 
-Dalam dunia *choice architecture*, kita belajar bahwa tidak ada desain yang netral. Setiap elemen dalam sebuah sistem (mulai dari urutan menu di kantin hingga tombol di aplikasi ponsel) akan memengaruhi keputusan seseorang. Namun, kekuatan untuk memengaruhi ini membawa tanggung jawab besar.
+Dalam *choice architecture*, kita belajar bahwa tidak ada desain yang netral. Setiap elemen dalam sebuah sistem (mulai dari urutan menu di kantin hingga tombol di aplikasi ponsel) akan memengaruhi keputusan seseorang. Namun, kemampuan untuk memengaruhi ini membawa tanggung jawab.
 
 Apakah kita sedang membantu orang mencapai tujuan mereka (*nudge*), atau kita justru mempersulit hidup mereka demi keuntungan kita sendiri (*sludge*)?
 

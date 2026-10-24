@@ -30,7 +30,7 @@ Meskipun pilihan menu yang ditawarkan sama persis (siswa bebas memilih apa saja)
 
 ## Lingkungan Fisik vs. Digital
 
-Arsitektur pilihan bekerja secara universal, baik di dunia nyata maupun di dunia maya.
+Arsitektur pilihan bekerja baik di dunia nyata maupun di dunia maya.
 
 ### 1. Lingkungan Fisik
 
@@ -90,4 +90,4 @@ Arsitek lift memahami bahwa manusia merasa cemas saat menunggu secara pasif. Den
 
 Kita bisa melatih kepekaan terhadap arsitektur pilihan ini dalam keseharian. Saat sedang bekerja di kantor, bersantai di rumah, atau sekadar menavigasi menu di ponsel, cobalah amati bagaimana tata letak objek atau antarmuka aplikasi didesain. Sering kali, posisi tombol atau penempatan barang dirancang secara sengaja untuk mengarahkan langkah kita berikutnya.
 
-> **Poin Penting:** Arsitektur pilihan berfokus pada memandu tindakan manusia tanpa menghilangkan kebebasan mereka. Di pembahasan berikutnya, kita akan mempelajari motor penggerak utama di balik perilaku ini, yaitu **Dual Process Theory**.
+> **Poin Penting:** Arsitektur pilihan berfokus pada memandu tindakan manusia tanpa menghilangkan kebebasan mereka. Di pembahasan berikutnya, kita akan mempelajari dasar psikologis perilaku ini, yaitu **Dual Process Theory**.

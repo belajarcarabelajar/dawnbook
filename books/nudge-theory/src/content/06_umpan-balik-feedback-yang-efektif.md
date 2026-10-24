@@ -2,7 +2,7 @@
 
 Pernahkah kamu mencoba mengetik di keyboard yang tidak mengeluarkan suara atau tidak memberikan sensasi getar saat ditekan? Atau pernahkah kamu mengisi daya ponsel, tetapi lampu indikatornya tidak menyala? Kamu pasti bingung, ragu, dan akhirnya menekan tombol berulang kali dengan kesal.
 
-Itulah gambaran dunia tanpa **umpan balik (feedback)**. Dalam arsitektur pilihan, umpan balik langsung memberi tahu kita dampak nyata dari sebuah tindakan. Tanpa umpan balik, kita seperti menyetir dengan mata tertutup: terus melaju tanpa tahu apakah kita berada di jalur yang benar atau justru sedang mengarah ke jurang.
+Itulah yang terjadi tanpa **umpan balik (feedback)**. Dalam arsitektur pilihan, umpan balik langsung memberi tahu kita dampak nyata dari sebuah tindakan. Tanpa umpan balik, kita seperti menyetir dengan mata tertutup: terus melaju tanpa tahu apakah kita berada di jalur yang benar atau justru sedang mengarah ke jurang.
 
 ## 1\. Mengapa Umpan Balik Begitu Penting?
 
@@ -71,7 +71,7 @@ Kata sandi `123456`, misalnya, hanya mendapat 1 poin (dari angka), sehingga peng
 
 ### The Ambient Orb untuk Konsumsi Energi
 
-Di Amerika Serikat, sebuah perusahaan merancang bola lampu kristal kecil bernama *Ambient Orb*. Bola ini menyala merah saat penggunaan listrik rumah tangga sedang melonjak tinggi (ketika tarif mahal) dan berganti hijau jika konsumsi daya tergolong rendah. Hasilnya luar biasa: para pengguna berhasil menekan pemakaian energi pada jam sibuk hingga 40%. Langkah ini jauh lebih berhasil dibandingkan sekadar mengirimkan rincian tagihan kertas di akhir bulan.
+Di Amerika Serikat, sebuah perusahaan merancang bola lampu kristal kecil bernama *Ambient Orb*. Bola ini menyala merah saat penggunaan listrik rumah tangga sedang melonjak tinggi (ketika tarif mahal) dan berganti hijau jika konsumsi daya tergolong rendah. Hasilnya, para pengguna berhasil menekan pemakaian energi pada jam sibuk hingga 40%. Langkah ini jauh lebih berhasil dibandingkan sekadar mengirimkan rincian tagihan kertas di akhir bulan.
 
 ### Rumble Strips demi Keselamatan Berkendara
 

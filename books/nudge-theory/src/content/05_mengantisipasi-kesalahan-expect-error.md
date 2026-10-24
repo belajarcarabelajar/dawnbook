@@ -1,6 +1,6 @@
 ## Mengantisipasi Kesalahan (Expect Error)
 
-Bayangkan kamu baru saja selesai menarik uang di mesin ATM. Di tengah hiruk-pikuk kota dan pikiran yang sudah melayang ke agenda berikutnya, kamu mengambil uang tunai, memasukkannya ke dompet, dan langsung pergi. Tak lama kemudian, kamu menyadari sesuatu yang fatal: **Kartu ATM-mu tertinggal di mesin.**
+Bayangkan kamu baru saja selesai menarik uang di mesin ATM. Di tengah hiruk-pikuk kota dan pikiran yang sudah melayang ke agenda berikutnya, kamu mengambil uang tunai, memasukkannya ke dompet, dan langsung pergi. Tak lama kemudian, kamu menyadari masalahnya: **Kartu ATM-mu tertinggal di mesin.**
 
 Skenario di atas adalah contoh klasik dari kegagalan desain yang tidak mengantisipasi kesalahan manusia. Dalam *Choice Architecture* (arsitektur pilihan), seorang *choice architect* (arsitek pilihan) tidak akan berasumsi bahwa pengguna akan selalu fokus dan rasional. Sebaliknya, mereka akan **berasumsi bahwa manusia pasti akan melakukan kesalahan** dan merancang sistem yang toleran terhadap kekeliruan tersebut.
 
@@ -83,4 +83,4 @@ Ini berarti ada **23% kemungkinan terjadi kesalahan** secara keseluruhan. Dengan
 
 Mengantisipasi kesalahan bukan berarti menganggap pengguna bodoh. Sebaliknya, ini adalah bentuk **empati dalam desain**. Dengan memahami keterbatasan kognitif manusia, kita dapat membangun lingkungan yang tidak hanya lebih aman, tetapi juga lebih nyaman digunakan.
 
-> **Penting:** *Choice Architecture* yang baik haruslah pemaaf. Kesalahan adalah bagian dari sifat manusia; desain yang buruk adalah desain yang membiarkan kesalahan tersebut menjadi bencana.
+> **Penting:** *Choice Architecture* yang baik haruslah pemaaf. Kesalahan adalah bagian dari sifat manusia; desain yang buruk adalah desain yang membiarkan kesalahan tersebut berakibat serius.
