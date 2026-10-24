@@ -33,7 +33,7 @@ Mengapa kita harus mempelajari ini? Mengapa tidak cukup hanya mengambil keputusa
 
 Dalam interaksi manusia, "keputusan terbaik" sering kali bersifat relatif. Teori permainan penting karena:
 
-- **Memahami Konflik dan Kerja Sama:** Ia menjelaskan mengapa dua pihak yang seharusnya bekerja sama sering kali justru berakhir dalam konflik (seperti dalam perlombaan senjata nuklir).
+- **Memahami Konflik dan Kerja Sama:** Ia menjelaskan mengapa dua pihak yang seharusnya bekerja sama sering kali berakhir dalam konflik (seperti dalam perlombaan senjata nuklir).
 - **Prediksi Perilaku Pasar:** Membantu perusahaan memprediksi reaksi kompetitor terhadap perubahan harga atau peluncuran produk baru.
 - **Desain Sistem:** Digunakan oleh pemerintah untuk merancang sistem lelang atau mekanisme pemungutan suara agar tidak mudah dicurangi.
 - **Rasionalitas Strategis:** Melatih kita untuk tidak hanya memikirkan langkah kita saat ini, tetapi juga langkah lawan di masa depan: berpikir dua atau tiga langkah ke depan.
@@ -50,7 +50,7 @@ Mari kita lihat contoh nyata bagaimana teori permainan bekerja di dunia bisnis.
 - Jika Toko A memotong harga secara drastis (diskon besar) sementara Toko B tetap normal, Toko A akan menyedot semua pelanggan dan mendapat untung besar, sementara Toko B merugi.
 - **Masalahnya:** Toko B juga berpikir hal yang sama. Jika keduanya memotong harga secara bersamaan, mereka berdua akan mendapatkan jumlah pelanggan yang sama seperti semula, namun dengan margin keuntungan yang jauh lebih kecil.
 
-**Hasilnya?** Seringkali, tanpa adanya komunikasi langsung, kedua toko terjebak dalam "perang harga" yang sebenarnya merugikan keduanya dibandingkan jika mereka tetap di harga normal. Teori permainan membantu manajer memahami risiko ini sebelum mereka mulai memotong harga.
+**Hasilnya?** Seringkali, tanpa adanya komunikasi langsung, kedua toko terjebak dalam "perang harga" yang sebenarnya merugikan keduanya dibandingkan jika mereka bertahan di harga normal. Teori permainan membantu manajer memahami risiko ini sebelum mereka mulai memotong harga.
 
 ## Membedakan Teori Keputusan dari Teori Permainan
 
