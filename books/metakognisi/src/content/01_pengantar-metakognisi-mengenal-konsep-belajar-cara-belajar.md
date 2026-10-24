@@ -16,7 +16,7 @@ Metakognisi memiliki dua dimensi utama:
 
 Misalnya, coba ingat momen saat kamu terdiam sebentar ketika membaca teks yang cukup rumit lalu membatin, "Kayaknya aku nggak paham deh bagian ini," atau "Gimana ya cara paling gampang buat hafal rumus ini?". Kesadaran spontan semacam itu sebenarnya adalah wujud nyata praktik metakognisi yang mungkin sering kamu alami sehari-hari.
 
-## Kenapa Konsep Ini Sangat Berguna?
+## Kenapa Konsep Ini Berguna?
 
 Mengetahui cara kerjamu sendiri saat menyerap informasi punya banyak keuntungan taktis. Konsep ini aplikatif dan bisa langsung kamu jadikan kebiasaan sehari-hari.
 
@@ -25,7 +25,7 @@ Mengetahui cara kerjamu sendiri saat menyerap informasi punya banyak keuntungan 
 3. **Pola pikir bertumbuh lebih matang.** Kemampuan untuk menelaah isi pikiran sendiri pelan-pelan akan membentuk kebiasaan berpikir yang lebih kritis dan terstruktur. Hal ini berguna saat kamu dihadapkan pada masalah rumit yang butuh solusi cepat.
 4. **Strategi belajarmu terus berkembang.** Kalau sebuah cara belajar ternyata terasa macet atau kurang efektif, metakognisi akan otomatis mendorongmu mencari jalan lain. Kamu tidak akan membuang waktu memaksakan strategi yang sama terus-menerus.
 
-## Efek Samping Positif
+## Perubahan yang Mulai Terasa
 
 Saat kamu sudah mulai terbiasa memantau cara kerja kognisimu sendiri, perlahan-lahan kamu akan merasakan beberapa perubahan positif:
 

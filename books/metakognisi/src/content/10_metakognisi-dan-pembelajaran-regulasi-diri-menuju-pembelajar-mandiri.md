@@ -8,7 +8,7 @@ Melalui pembelajaran regulasi diri, seseorang secara aktif menetapkan target bel
 
 > "Pembelajaran regulasi diri merupakan pola pikir dasar untuk menghadapi berbagai macam tantangan intelektual, lebih dari sekadar menguasai teknik belajar biasa."
 
-## Metakognisi sebagai Fondasi Dasar
+## Metakognisi Mendasari Regulasi Diri
 
 Metakognisi atau kemampuan untuk "berpikir tentang proses berpikir itu sendiri" bertindak sebagai fondasi awal untuk pembelajaran regulasi diri. Seseorang akan kesulitan mengatur cara belajarnya jika tidak menyadari proses kognitif yang sedang berjalan maupun cara mengontrolnya.
 

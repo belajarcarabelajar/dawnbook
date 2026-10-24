@@ -79,7 +79,7 @@ Mari kita lihat beberapa contoh praktis saat pola pikir ini diterapkan dalam ber
 
 **Perbaikan dan Kesuksesan:** Aturan *pause* dan merangkum ucapan lawan bicara ini membuat perdebatan lebih tenang. Masing-masing anggota belajar menahan diri untuk tidak langsung bereaksi. Proyek kampanye selesai tepat waktu, dan setiap orang pulang dengan perasaan lebih dihargai.
 
-## Pola Pikir yang Mampu Mengurai Kebuntuan
+## Kesadaran Diri di Kelas, Kantor, dan Rumah
 
 Semua cerita di atas membuktikan bahwa metakognisi bisa dipraktikkan secara langsung. Baik di ruang kelas, meja rapat kantor, atau sekadar saat mencoba hobi baru di rumah, kesadaran memantau diri sendiri membuat kita tidak gampang panik saat situasi tidak berjalan sesuai rencana. Kamu punya kendali atas cara berpikirmu, sehingga masalah pelik pelan-pelan bisa diurai satu per satu.
 
