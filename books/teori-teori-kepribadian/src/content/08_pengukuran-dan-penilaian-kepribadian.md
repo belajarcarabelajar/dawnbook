@@ -1,6 +1,6 @@
 ## Pengukuran dan Penilaian Kepribadian
 
-Penilaian kepribadian adalah salah satu area penting dalam psikologi yang bertujuan memahami karakteristik unik seseorang. Karakteristik itu mencakup pola pikir, perasaan, dan perilakunya. Proses ini melibatkan penggunaan metode terstruktur untuk mengumpulkan data tentang individu, yang kemudian ditafsirkan guna memberikan gambaran detail tentang kepribadian mereka. Dalam ranah klinis, organisasi, pendidikan, atau penelitian, informasi ini membantu pengambilan keputusan yang lebih terarah dan pemberian intervensi yang tepat sasaran.
+Penilaian kepribadian adalah salah satu area penting dalam psikologi yang bertujuan memahami karakteristik unik seseorang. Pola pikir, perasaan, dan perilakunya termasuk di dalamnya. Proses ini melibatkan penggunaan metode terstruktur untuk mengumpulkan data tentang individu, yang kemudian ditafsirkan guna memberikan gambaran detail tentang kepribadian mereka. Dalam ranah klinis, organisasi, pendidikan, atau penelitian, informasi ini membantu pengambilan keputusan yang lebih terarah dan pemberian intervensi yang tepat sasaran.
 
 ## Tujuan Penilaian Kepribadian
 
