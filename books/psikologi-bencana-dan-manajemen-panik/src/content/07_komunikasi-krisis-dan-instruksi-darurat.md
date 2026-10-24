@@ -1,6 +1,6 @@
 ## Komunikasi Krisis dan Instruksi Darurat
 
-Guncangan gempa bumi di pusat perbelanjaan atau padamnya sistem kelistrikan gedung bertingkat secara mendadak selalu memicu kekacauan sensorik. Begitu pula kepulan asap tebal di koridor perkantoran. Lampu padam, sirene meraung, dan massa mulai bergerak tanpa arah yang jelas. Di tengah turbulensi situasi tersebut, suara yang memberikan instruksi dengan tepat menjadi pembeda mutlak antara keselamatan massal dan tragedi kemanusiaan.
+Guncangan gempa bumi di pusat perbelanjaan atau padamnya sistem kelistrikan gedung bertingkat secara mendadak selalu memicu kekacauan sensorik. Hal yang sama terjadi pada kepulan asap tebal di koridor perkantoran. Lampu padam, sirene meraung, dan massa mulai bergerak tanpa arah yang jelas. Di tengah turbulensi situasi tersebut, suara yang memberikan instruksi dengan tepat menjadi pembeda mutlak antara keselamatan massal dan tragedi kemanusiaan.
 
 Dalam psikologi bencana, komunikasi darurat bukan sekadar transmisi pesan verbal, melainkan instrumen intervensi psikologis aktif untuk menstabilkan perilaku massa, meredam disorientasi kognitif, dan mengarahkan tindakan penyelamatan secara terkoordinasi.
 

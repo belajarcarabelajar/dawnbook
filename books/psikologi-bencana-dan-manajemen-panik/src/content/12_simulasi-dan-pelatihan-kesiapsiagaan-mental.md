@@ -1,6 +1,6 @@
 ## Simulasi dan Pelatihan Kesiapsiagaan Mental
 
-Pertanyaan yang sering muncul dalam krisis adalah mengapa seorang penerbang profesional dapat tetap tenang saat instrumen mesin pesawat gagal total. Pertanyaan serupa berlaku bagi personel pemadam kebakaran yang sanggup menembus bangunan yang terbakar tanpa keraguan yang melumpuhkan. Respons terukur tersebut bukan lahir dari ketiadaan rasa takut, melainkan karena sirkuit neural di otak telah terkondisikan secara mendalam melalui simulasi berulang.
+Pertanyaan yang sering muncul dalam krisis adalah mengapa seorang penerbang profesional dapat tetap tenang saat instrumen mesin pesawat gagal total. Hal serupa dapat ditanyakan tentang personel pemadam kebakaran yang sanggup menembus bangunan yang terbakar tanpa keraguan yang melumpuhkan. Respons terukur tersebut bukan lahir dari ketiadaan rasa takut, melainkan karena sirkuit neural di otak telah terkondisikan secara mendalam melalui simulasi berulang.
 
 Dalam psikologi bencana, terdapat jurang pemisah yang lebar antara *mengetahui protokol keselamatan secara teoretis* dan *mengeksekusi tindakan protektif secara nyata* ketika gelombang hormon katekolamin serta kortisol membanjiri sistem saraf simpatis. Latihan berbasis skenario yang terstruktur bertujuan mentransformasikan reaksi instingtif manusia dari kepanikan (*panic freeze*) menjadi otomatisasi adaptif yang menyelamatkan nyawa.
 
