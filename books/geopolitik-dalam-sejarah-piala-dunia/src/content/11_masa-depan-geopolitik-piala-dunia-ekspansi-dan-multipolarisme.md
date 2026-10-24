@@ -81,6 +81,6 @@ Arab Saudi kini berdiri sebagai satu-satunya kandidat tuan rumah untuk Piala Dun
 
 Masa depan turnamen ini bertumpu pada **skala dan konektivitas**. Perkembangan dari 13 tim di Uruguay hingga mencapai 48 tim di Amerika Utara mencerminkan bagaimana hubungan antarbangsa berevolusi dari sekat-sekat isolasi menuju jaringan global yang rumit.
 
-Piala Dunia kini lebih dari sekadar turnamen; ajang ini menjadi **forum antarbangsa**. Memahami pergolakan geopolitik di belakangnya membantu kita memetakan arah pergeseran kekuasaan dunia di masa mendatang.
+Piala Dunia kini lebih dari sekadar turnamen; ajang ini menyerupai **forum antarbangsa**. Memahami pergolakan geopolitik di belakangnya membantu kita memetakan arah pergeseran kekuasaan dunia di masa mendatang.
 
 > **Catatan Penutup:** Di tengah dunia yang kerap terbelah oleh kepentingan politik, lapangan hijau menjadi ruang tempat 48 negara tetap sepakat mematuhi aturan main yang sama. Dari situ diplomasi sepak bola mendapatkan kekuatannya.
