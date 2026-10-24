@@ -148,6 +148,104 @@ tasks:
       - cmd: "bun test tests/books/referensi-presence.test.ts"
         expect_exit: 0
         retry: 0
+  - id: U1
+    depends_on: []
+    impacts: ["Referensi links to archive.org lending copies of in-copyright books in 4 older books, plus the Piaget 1958 reprint label - bun test tests/books/referensi-links.test.ts"]
+    files: { create: [], modify: ["books/*/src/content/*referensi*.md"], test: ["tests/books/referensi-links.test.ts"] }
+    idempotency_key: "U1:lending-links"
+    verify_exit: 0
+    run:
+      - cmd: "bun test tests/books/referensi-links.test.ts"
+        expect_exit: 0
+        retry: 0
+  - id: U2a
+    depends_on: []
+    impacts: ["literasi-keuangan: misattributed and unsourced quotes, outdated or wrong finance facts - bun test tests/books/literasi-keuangan.test.ts"]
+    files: { create: [], modify: ["books/literasi-keuangan/src/content/*.md"], test: ["tests/books/literasi-keuangan.test.ts"] }
+    idempotency_key: "U2a:literasi"
+    verify_exit: 0
+    run:
+      - cmd: "bun test tests/books/literasi-keuangan.test.ts"
+        expect_exit: 0
+        retry: 0
+      - cmd: "bun run scripts/check-book-structure.ts literasi-keuangan && bun run scripts/check-voice.ts literasi-keuangan"
+        expect_exit: 0
+        retry: 0
+  - id: U2b
+    depends_on: []
+    impacts: ["digital-minimalisme: unsourced quotes - bun test tests/books/digital-minimalisme.test.ts"]
+    files: { create: [], modify: ["books/digital-minimalisme/src/content/*.md"], test: ["tests/books/digital-minimalisme.test.ts"] }
+    idempotency_key: "U2b:digital"
+    verify_exit: 0
+    run:
+      - cmd: "bun test tests/books/digital-minimalisme.test.ts"
+        expect_exit: 0
+        retry: 0
+      - cmd: "bun run scripts/check-book-structure.ts digital-minimalisme && bun run scripts/check-voice.ts digital-minimalisme"
+        expect_exit: 0
+        retry: 0
+  - id: U2c
+    depends_on: []
+    impacts: ["filosofi-stoikisme: unsourced Seneca quote - bun test tests/books/filosofi-stoikisme.test.ts"]
+    files: { create: [], modify: ["books/filosofi-stoikisme/src/content/*.md"], test: ["tests/books/filosofi-stoikisme.test.ts"] }
+    idempotency_key: "U2c:stoikisme"
+    verify_exit: 0
+    run:
+      - cmd: "bun test tests/books/filosofi-stoikisme.test.ts"
+        expect_exit: 0
+        retry: 0
+      - cmd: "bun run scripts/check-book-structure.ts filosofi-stoikisme && bun run scripts/check-voice.ts filosofi-stoikisme"
+        expect_exit: 0
+        retry: 0
+  - id: U2d
+    depends_on: []
+    impacts: ["metakognisi: unsourced quotes and the overstated correlation claim - bun test tests/books/metakognisi.test.ts"]
+    files: { create: [], modify: ["books/metakognisi/src/content/*.md"], test: ["tests/books/metakognisi.test.ts"] }
+    idempotency_key: "U2d:metakognisi"
+    verify_exit: 0
+    run:
+      - cmd: "bun test tests/books/metakognisi.test.ts"
+        expect_exit: 0
+        retry: 0
+      - cmd: "bun run scripts/check-book-structure.ts metakognisi && bun run scripts/check-voice.ts metakognisi"
+        expect_exit: 0
+        retry: 0
+  - id: U2e
+    depends_on: []
+    impacts: ["neuroplastisitas-dalam-belajar: Maguire study read as neurogenesis - bun test tests/books/neuroplastisitas-dalam-belajar.test.ts"]
+    files: { create: [], modify: ["books/neuroplastisitas-dalam-belajar/src/content/*.md"], test: ["tests/books/neuroplastisitas-dalam-belajar.test.ts"] }
+    idempotency_key: "U2e:neuro"
+    verify_exit: 0
+    run:
+      - cmd: "bun test tests/books/neuroplastisitas-dalam-belajar.test.ts"
+        expect_exit: 0
+        retry: 0
+      - cmd: "bun run scripts/check-book-structure.ts neuroplastisitas-dalam-belajar && bun run scripts/check-voice.ts neuroplastisitas-dalam-belajar"
+        expect_exit: 0
+        retry: 0
+  - id: U3a
+    depends_on: []
+    impacts: ["PR B branch: scan URL in research-dawnbook-harvest-moon.md, unsourced pengorbanan in 9 Summers 12 - bun test tests/books/pelajaran-hidup-dari-harvest-moon-back-to-nature.test.ts tests/books/analisis-ekspresif-9-summers-10-autumns.test.ts"]
+    files: { create: [], modify: ["docs/code-plan/plans/research-dawnbook-harvest-moon.md", "books/analisis-ekspresif-9-summers-10-autumns/src/content/*.md"], test: ["tests/books/pelajaran-hidup-dari-harvest-moon-back-to-nature.test.ts", "tests/books/analisis-ekspresif-9-summers-10-autumns.test.ts"] }
+    idempotency_key: "U3a:notes-and-wording"
+    verify_exit: 0
+    run:
+      - cmd: "bun test tests/books/pelajaran-hidup-dari-harvest-moon-back-to-nature.test.ts tests/books/analisis-ekspresif-9-summers-10-autumns.test.ts"
+        expect_exit: 0
+        retry: 0
+  - id: U3b
+    depends_on: []
+    impacts: ["PR B branch: Marliana book facts (speaker swap 08:42-45, 70-80 percent in ch02, unsourced table cells in ch06) - bun test tests/books/sistem-pengendalian-topik-dalam-wacana-pedagogi-di-sekolah-dasar.test.ts"]
+    files: { create: [], modify: ["books/sistem-pengendalian-topik-dalam-wacana-pedagogi-di-sekolah-dasar/src/content/*.md"], test: ["tests/books/sistem-pengendalian-topik-dalam-wacana-pedagogi-di-sekolah-dasar.test.ts"] }
+    idempotency_key: "U3b:marliana-facts"
+    verify_exit: 0
+    run:
+      - cmd: "bun test tests/books/sistem-pengendalian-topik-dalam-wacana-pedagogi-di-sekolah-dasar.test.ts"
+        expect_exit: 0
+        retry: 0
+      - cmd: "bun run scripts/check-book-structure.ts sistem-pengendalian-topik-dalam-wacana-pedagogi-di-sekolah-dasar && bun run scripts/check-voice.ts sistem-pengendalian-topik-dalam-wacana-pedagogi-di-sekolah-dasar"
+        expect_exit: 0
+        retry: 0
   - id: X1
     depends_on: [N1, C1, D1, G1, R1]
     impacts: ["three pull requests in pr.registry.json - bun ~/vivera/scripts/pr-registry.mjs order"]
@@ -159,7 +257,7 @@ tasks:
 
 # Plan: attribution fixes after the 2026-10-24 audit
 
-Status: Approved
+Status: Approved (implementation and debt-sweep follow-ups done; X1 open)
 Author: Iwan Kurniawan <iwan@belajarcarabelajar.com>, no trailer. Books by Kania Salsabila (D1, G1) are committed with her identity and the trailer `Co-authored-by: Iwan Kurniawan <iwan@belajarcarabelajar.com>` (GEMINI.md section 18); the identity is read from each book's `book.toml`.
 Trigger: owner request 2026-10-24 after the Raymond Chin Bridgeplay/NotProton controversy; read-only audit of code, books and history in the same session. Owner answers: "Tedi Rahmat" in the init commit was a placeholder name; the Notion guide behind the Algoritma X book is the owner's own writing; fixes B to G approved.
 
@@ -170,6 +268,17 @@ Trigger: owner request 2026-10-24 after the Raymond Chin Bridgeplay/NotProton co
 - [x] N1 (PR A, #206): notices and credits. Evidence: `bun test tests/scripts/attribution.test.ts` exit 1 (6 fail) before, exit 0 after; head a9c56202: `bun test tests/scripts/ tests/books/` exit 0, 610 pass, 0 fail; `bun run build` exit 0. Review: correct (one P3 applied: scope names covers and diagrams).
 - [x] C1, D1, G1 (PR B, #207): three book fixes, one subagent each. Evidence: book tests RED first (Harvest Moon 2 fail, topic-control 2 then 1 fail, 9 Summers 1608 words); head a460ad94: `bun test tests/scripts/ tests/books/` exit 0, 612 pass, 0 fail, 2 skip; `bun run build` exit 0. Review: not correct, fix round, verifier correct (its P3 fixed in a460ad94). Article PDF checked for every Marliana credit; the AKSIS page states no CC licence.
 - [x] R0 then F1-F6 then R1 (PR C): guard RED, six Referensi chapters, guard GREEN. Evidence: `bun test tests/books/referensi-presence.test.ts` exit 1 listing the six books (5eb1f086), exit 0 after; head 6b1cffe0: `bun test tests/scripts/ tests/books/` exit 0, 605 pass, 0 fail; `bun run build` exit 0; copy rules clean. Review: not correct (entries without chapter ties, overclaiming intros, a login-walled link, archive.org lending copies), fix round, verifier correct.
+- [x] Debt sweep (owner selected all seven items, AskUserQuestion 2026-10-24; Close plan = Keep it open). Follow-ups, each test-first, each RED then GREEN:
+  - [x] U1 (PR C): `tests/books/referensi-links.test.ts` RED with 11 links in 5 books; 8 lending links replaced by publisher or catalogue pages, Krom's dead item replaced, Piaget 1958 marked as a reprint (59550eb8, fcc1de71). Green only with PR B on the base (Harvest Moon link); combined A+B+C gate exit 0.
+  - [x] U2a (PR C): literasi-keuangan Maxwell and knife quotes removed, SLIK, BI inflation, IASC, Komdigi, Coretax and SNLIK corrected against fetched official pages (988cd6ce); review round: IASC loss total given its period, unsourced mode ranking dropped (e5b21dda). Book test 11 pass.
+  - [x] U2b (PR C): digital-minimalisme "you are the product" credited to Andrew Lewis (2010), two lines de-quoted (5f878eba).
+  - [x] U2c (PR C): Seneca Letter 31.6 quoted faithfully (b82de7e2).
+  - [x] U2d (PR C): metakognisi weak correlation per Ohtani and Hisasaka (2018), two lines de-quoted, "terbukti" softened (99778849).
+  - [x] U2e (PR C): Maguire (2000) reported as a volume difference, 25,000 streets dropped (1efab106).
+  - [x] U3a (PR B): scan URLs removed from the public research notes (cb98c200); "pengorbanan" dropped (1c8b8bb7).
+  - [x] U3b (PR B): Contoh 4.14 speakers, 70-80% cited to Hattie (2012) via Gewertz (2019), chapter 6 tables per the article (69756da0).
+  - Reviews: PR B follow-ups "correct", no findings; PR C follow-ups "correct" with two P2 (Komdigi source verified as supporting CekRekening.id; IASC loss fixed in e5b21dda).
+  - Combined gate (A, B, C merged in a scratch worktree at fc4f4bdb): `bun test tests/scripts/ tests/books/` exit 0, 655 pass, 0 fail; `bun run build` exit 0.
 - [ ] X1: three PRs; merge asked alone per PR; deploy, D1 seed and GSC reindex asked separately.
 
 ## Visual Implementation Map
@@ -200,6 +309,14 @@ flowchart TD
     D1 --> X1
     G1 --> X1
     R1 --> X1
+    Sweep{{"Debt sweep"}} --> U1["U1: lending links"]
+    Sweep --> U2a["U2a: literasi"]
+    Sweep --> U2b["U2b: digital"]
+    Sweep --> U2c["U2c: stoikisme"]
+    Sweep --> U2d["U2d: metakognisi"]
+    Sweep --> U2e["U2e: neuro"]
+    Sweep --> U3a["U3a: notes, wording"]
+    Sweep --> U3b["U3b: Marliana facts"]
 ```
 
 ## Tasks
@@ -248,6 +365,30 @@ Shared contract, one subagent per book: a level-2 `## Referensi` chapter and its
 ### Task R1
 The guard passes over all books.
 
+### Task U1
+Debt sweep (owner selected 2026-10-24). Test first: `tests/books/referensi-links.test.ts` fails on any `archive.org/details/` link in a Referensi chapter unless its item is in an allowlist of public-domain works. Then replace lending-copy links of in-copyright books in aerodinamika-dan-desain-airfoil, eksistensialisme-dan-kehendak-bebas, relief-karmawibhangga-dan-hukum-sebab-akibat and pejorasi-dan-ameliorasi with publisher or catalogue pages; label the Piaget 1958 entry as a reprint.
+
+### Task U2a
+literasi-keuangan: correct or de-attribute the "John C. Maxwell" quote (03:11) and the unattributed quote at 05:42; update outdated or wrong facts (Coretax replacing DJP Online e-Filing and the 1770 forms, SLIK is not a blacklist, BI inflation target, Anti-Scam Centre figures, Komdigi) against fetched official pages, each cited in Referensi. A book test pins every fixed error (RED first).
+
+### Task U2b
+digital-minimalisme: unsourced quotes at 02:11, 02:99, 05:13: attribute to a verified source or stop presenting them as quotes. Book test RED first.
+
+### Task U2c
+filosofi-stoikisme: the Seneca line at 05:16 has no matching passage: find it in a translation or stop attributing it. Book test RED first.
+
+### Task U2d
+metakognisi: unsourced quotes at 07:7 and 10:9; "korelasi kuat" at 05:37 softened to what the meta-analysis reports. Book test RED first.
+
+### Task U2e
+neuroplastisitas-dalam-belajar: 05:85 reads Maguire (2000) as new neurons; the study measured hippocampal volume. Book test RED first.
+
+### Task U3a
+PR B branch, inline: remove the archive.org scan URL from the public research notes (keep the honest statement of what was read); drop "pengorbanan" at 9 Summers 12:17, which the novel does not say. Tests extended RED first.
+
+### Task U3b
+PR B branch: fix the speaker swap at 08:42-45 per PDF Contoh 4.14; source or drop the 70-80% figure in chapter 2 and the unsourced table cells in chapter 6. Book test extended RED first.
+
 ### Task X1
 Three branches through `pr-registry.mjs claim --repo /home/belajarcarabelajar/Proyek/dawnbook`. Each PR: book checks for the touched books, `bun test tests/scripts/ tests/books/`, `bun run build`. Merge asked alone per PR. Deploy, the Phase F D1 seed (`content_md` changes in B and C) and the GSC reindex asked separately.
 
@@ -260,3 +401,21 @@ Three branches through `pr-registry.mjs claim --repo /home/belajarcarabelajar/Pr
 - History stays public: the archive.org link and the Twemoji-without-credit state remain in old commits; this plan fixes the current tree only.
 - File size: `scripts/builder/template-engine.ts` is 57,975 bytes (over the 20,000-byte default) and `LICENSE-CONTENT` 18,375 bytes before this plan. N1 adds one sentence to each; splitting either file is out of scope, so this line is the size-raise note for both.
 - Rollback: revert the PR; each task is its own commit.
+
+## Backlog (re-pass, 2026-10-24)
+
+Found while executing the follow-ups; not done in this session (the sweep has one round). Each is LATER.
+
+- LATER `defer: unsourced figures in digital-minimalisme, until a fact-check pass on that book` 05 "10 poin IQ", 02:46 "90% sampah", 02:62 red as danger, 08:13 and 09:27 "23 menit" (often credited to Gloria Mark, unverified).
+- LATER `defer: unsourced figures in neuroplastisitas-dalam-belajar, until a fact-check pass` 01:74, 02:46, 07:79, 10:36-39, 10:74, 11:61, 11:89, 12:49 ("NIH", "20x"), 13:64.
+- LATER `defer: unsourced finance details in literasi-keuangan, until a fact-check pass` 04:79 reksa dana Rp10.000, 06:78-83 and 06:96 US-style credit score factors, 07:124 TLO 75%, 11:96 Kring Pajak, 11:104 ten-year retention, 10:77-79 contact numbers.
+- LATER `defer: piaget internal conflict, until a fact-check pass` object permanence 8-9 months (11:15) vs 8-12 months (5:63); 1:9, 1:10, 1:16 biography claims; 11:74 working memory 3-4 items (Cowan 2001 likely).
+- LATER `defer: metakognisi and filosofi-stoikisme small claims` metakognisi 05:37 next sentence ("sering mencetak prestasi yang lebih baik") next to a weak correlation; Feynman technique and Eisenhower matrix without sources; stoikisme 02:92 CBT link, 10:68.
+- LATER `defer: topic-control book, owner decision` 06:68 "Nah / Jadi" function differs from the article (nah opens a topic); 08:38 "diskusi bebas" not in the article.
+- LATER `defer: guard strength, when the next Referensi pass runs` `referensi-presence.test.ts` passes with a single link; consider a link in every list item.
+- LATER `defer: same-class audit of the other 54 books, owner decision` unsourced or misattributed quotations were found in 4 of the 6 books checked; the remaining books were not checked.
+- LATER `defer: owner policy decision` a one-line AI-assistance disclosure (history audit: "AI" author label removed in cea19025, 9 PR bodies mention a generator).
+
+## Closeout status
+
+- 2026-10-24: `bun ~/vivera/scripts/plan-closeout.mjs --readiness` = NEEDS-HUMAN (exit 3): 0 open step boxes, every task UNPROVEN (no `skip_if`), X1 open. Owner decision (Close plan gate): keep it open. Reopen the question after PRs #206, #207 and #208 are merged in that order and the deploy, D1 seed and reindex decisions are made.
