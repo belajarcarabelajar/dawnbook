@@ -46,7 +46,7 @@ Kini dunia bergerak menuju pendidikan inklusif. Setiap orang, termasuk penyandan
 
 Dunia kerja menuntut kemampuan lintas bidang dan kolaborasi antardisiplin yang lebih intens. Lulusan dituntut untuk memiliki kemampuan berkomunikasi, berpikir kritis, berkolaborasi, dan beradaptasi dalam berbagai situasi.
 
-#### 3.1 Kesiapan Menghadapi Era Disrupsi
+#### 3.1 Kesiapan Menghadapi Perubahan Teknologi
 
 Perubahan teknologi dan digitalisasi mengubah cara kita bekerja, berinteraksi, dan menjalani keseharian. Pembelajaran lintas disiplin membekali tenaga kerja agar luwes menghadapi perubahan industri yang cepat, dengan menyinergikan keahlian teknis serta ketangguhan mental.
 
@@ -62,7 +62,7 @@ Pendidikan modern kian menekankan pengenalan karier sejak dini. Siswa dibimbing 
 
 Keterampilan seperti adaptabilitas, kreativitas, dan kerja sama tim tidak bisa tumbuh hanya dari mendengarkan kuliah di dalam kelas. Kemampuan ini diasah melalui interaksi nyata dan keaktifan dalam berbagai kegiatan pengembangan diri.
 
-### 4. Evolusi Pembelajaran Multidisiplin Mengatasi Tantangan Global
+### 4. Menjawab Tantangan Global
 
 Tantangan global seperti perubahan iklim, ketimpangan sosial, dan krisis kesehatan membutuhkan solusi yang mengintegrasikan berbagai disiplin ilmu. Kolaborasi lintas disiplin menawarkan potensi besar untuk menciptakan solusi nyata yang menjawab kebutuhan dunia.
 

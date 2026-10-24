@@ -2,7 +2,7 @@
 
 Pembelajaran multidisiplin menjadi pendekatan utama di era modern, ketika berbagai bidang ilmu saling melengkapi untuk memecahkan masalah yang rumit. Mengimplementasikan strategi yang tepat menentukan keberhasilan pendekatan ini. Bagian ini akan menguraikan berbagai metodologi dan langkah praktis yang dapat diterapkan, mulai dari metode pengajaran inovatif, pendekatan berbasis proyek, kolaborasi antar-disiplin, hingga perancangan kurikulum yang terintegrasi.
 
-### 1. Metode Pengajaran Inovatif untuk Sinergi Ilmu
+### 1. Metode Pengajaran yang Menghubungkan Disiplin Ilmu
 
 Metode pengajaran inovatif membantu menghubungkan berbagai disiplin ilmu sekaligus memperdalam pemahaman peserta didik. Strategi baru dibutuhkan untuk melampaui batas kelas tradisional dan menghidupkan suasana belajar.
 
