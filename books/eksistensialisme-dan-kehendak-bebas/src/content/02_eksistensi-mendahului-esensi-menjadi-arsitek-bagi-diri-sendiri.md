@@ -37,7 +37,7 @@ Sartre membagi struktur ontologis realitas menjadi dua kategori fundamental kesa
 - ***Être-en-soi* (Ada-dalam-diri):** Modus keberadaan objek material yang bersifat pejal, statis, dan identik dengan dirinya sendiri. Objek ini tidak memiliki kesadaran reflektif dan tidak mampu melampaui kondisi faktualnya.
 - ***Être-pour-soi* (Ada-untuk-diri):** Modus keberadaan kesadaran manusia yang bercirikan negasi, kebebasan, dan intensionalitas. Kesadaran manusia senantiasa berjarak dengan kondisi saat ini (*nihilation*) dan memiliki kapasitas untuk memproyeksikan diri ke masa depan.
 
-> "Manusia pada awalnya bukanlah apa-apa. Ia baru menjadi sesuatu di kemudian hari, dan ia akan menjadi apa yang ia jadikan terhadap dirinya sendiri melalui tindakannya." - Jean-Paul Sartre
+Dalam *Existentialism Is a Humanism*, Sartre menjelaskan bahwa manusia pada mulanya bukan apa-apa. Ia baru menjadi sesuatu belakangan, dan sesuatu itu adalah hasil dari apa yang ia buat atas dirinya sendiri.
 
 ### 3. Implikasi Etis dan Eksistensial
 

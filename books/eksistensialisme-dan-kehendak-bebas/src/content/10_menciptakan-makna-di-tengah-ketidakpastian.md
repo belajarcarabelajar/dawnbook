@@ -6,7 +6,7 @@ Penciptaan makna di tengah ketidakpastian ontologis merupakan bentuk aktualisasi
 
 Dalam ontologi eksistensialisme, ketiadaan rancangan awal bagi manusia bukanlah kondisi defisit yang melumpuhkan, melainkan premis utama bagi terbukanya ruang kreasi nilai. Ketidakpastian objektif duniawi diposisikan sebagai ruang terbuka tempat kesadaran mewujudkan intensionalitasnya.
 
-> "Kehidupan tidak memiliki makna apriori yang mendahuluinya. Makna hidup adalah apa yang diukir dan dipilih oleh manusia melalui tindakannya." - Jean-Paul Sartre
+Sartre berpendapat bahwa hidup tidak membawa makna yang sudah ditetapkan sebelumnya. Kamulah yang memberinya makna, dan nilai tidak lain adalah makna yang kamu pilih.
 
 #### Membangun di Tepi Pantai
 

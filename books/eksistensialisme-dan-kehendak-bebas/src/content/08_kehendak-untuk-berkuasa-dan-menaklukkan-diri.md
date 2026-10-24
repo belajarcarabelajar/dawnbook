@@ -6,7 +6,7 @@ Kehendak untuk berkuasa atau Wille zur Macht dari Friedrich Nietzsche merupakan 
 
 Nietzsche memosisikan *Wille zur Macht* (*Will to Power*) bukan sebagai ambisi hegemoni militeristik, melainkan sebagai asas vitalitas eksistensial yang menggerakkan seluruh organisme hidup untuk berekspansi, tumbuh, dan melampaui kondisi faktual dirinya (*Selbstüberwindung* / *self-overcoming*).
 
-> "Kehidupan itu sendiri pada hakikatnya adalah kehendak untuk berkuasa; kehidupan senantiasa berikhtiar untuk melampaui dirinya sendiri." - Friedrich Nietzsche
+Dua teks Nietzsche saling melengkapi di sini. Dalam *Beyond Good and Evil* (aforisme 13) ia menulis bahwa kehidupan itu sendiri adalah kehendak untuk berkuasa. Dalam *Thus Spoke Zarathustra*, sosok Kehidupan menyebut dirinya sebagai sesuatu yang harus selalu mengatasi dirinya sendiri.
 
 Secara fenomenologis, penaklukkan diri dianalogikan seperti seorang pemahat marmer:
 - **Daya Kehendak Berkuasa:** Merepresentasikan intensitas dan keberanian mengayunkan pahat reflektif.
