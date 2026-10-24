@@ -139,7 +139,7 @@ mod kamar_tidur {
 
 > **Tips Navigasi:** Anggaplah `super` sebagai tombol "Back" pada browsermu. Keyword ini membawamu kembali ke konteks yang lebih luas, memberikan fleksibilitas tanpa harus terpaku pada absolute structure yang kaku.
 
-### Ringkasan Visual
+### Tiga Rujukan dari Modul C
 
 Jika struktur modul adalah:
 

@@ -128,7 +128,7 @@ pub trait Payment {
 }
 ```
 
-## Ringkasan Praktik Terbaik
+## Alasan di Balik Empat Kebiasaan
 
 | Praktik | Alasan |
 | --- | --- |

@@ -1,4 +1,4 @@
-## Deklarasi Modul dengan Kata Kunci mod
+## Deklarasi Modul dengan Kata Kunci 'mod'
 
 Kata kunci `mod` digunakan untuk membuat ruang lingkup baru yang mengelompokkan kode terkait agar tetap terstruktur. Modul berfungsi mirip seperti bab dan sub-bab pada buku, memisahkan bagian-bagian tulisan agar kode tetap rapi dan mudah ditelusuri.
 

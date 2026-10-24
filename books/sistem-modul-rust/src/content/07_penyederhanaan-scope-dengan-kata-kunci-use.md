@@ -157,7 +157,7 @@ fn process_user_data(data: &str) -> JsonResult<()> {
 
 Dalam matematika, jika kita memiliki variabel kompleks, kita sering memisalkannya: Misalkan $f(x, y, z) = \frac{x^2 + y^2}{z}$, daripada menuliskan seluruh rumus tersebut berulang kali dalam integrasi: $\int\_{0}^{1} \frac{x^2 + y^2}{z} dx$, kita cukup merujuk pada $f(x, y, z)$. Kata kunci `use` adalah cara Rust melakukan "pemisalan" tersebut untuk mempermudah operasi kode kita.
 
-## Ringkasan Cepat
+## Lima Cara Menulis use
 
 | Teknik | Contoh Sintaks | Kegunaan |
 | --- | --- | --- |

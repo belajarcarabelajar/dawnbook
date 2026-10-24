@@ -130,7 +130,7 @@ Tanyakan pada diri sendiri: apakah pengguna library kamu perlu tahu bahwa suatu 
 
 Jika jawabannya tidak, maka fungsi tersebut sangat layak untuk di-re-export ke tingkat yang lebih tinggi.
 
-#### Praktik Terbaik
+#### Tempat yang Tepat untuk Re-export
 
 * **Pada Level Root:** Tarik tipe data serta fungsi yang paling sering dipakai ke tingkat atas (`lib.rs`).
 * **Membuat Modul Fasad:** Ketika proyekmu punya banyak submodul berukuran kecil, satukan semuanya ke dalam satu modul publik yang rapi demi kenyamanan pengguna.

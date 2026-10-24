@@ -150,7 +150,7 @@ mod tests {
 - **Absolute Path**: Direkomendasikan untuk proyek besar. Jika kamu melihat `crate::models::user::User`, kamu langsung tahu di mana file tersebut berada tanpa perlu mengecek posisi file saat ini.
 - **Relative Path**: Bagus untuk module kecil yang bersifat mandiri (self-contained) atau saat menulis unit test di dalam file yang sama menggunakan `super`.
 
-## Ringkasan Cepat
+## Alamat Lengkap atau Arah Belokan
 
 | Jenis Path | Dimulai Dengan | Analogi |
 | --- | --- | --- |

@@ -132,7 +132,7 @@ pub use crate::core::calculator::TaxCalculator;
 pub use crate::products::store::ProductStore;
 ```
 
-## Ringkasan Praktik Terbaik
+## Lima Prinsip Penataan Proyek
 
 | Prinsip | Deskripsi |
 | --- | --- |

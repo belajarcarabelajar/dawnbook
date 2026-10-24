@@ -124,13 +124,13 @@ fn main() {
 }
 ```
 
-## Praktik Terbaik
+## Tiga Kebiasaan Menata File Modul
 
 1. **Satu File, Satu Tanggung Jawab**: Hindari mencampuradukkan logika database dan logika UI dalam file modul yang sama.
 2. **Gunakan snake_case untuk nama file**: Selalu gunakan gaya penulisan ini, contohnya `proses_pembayaran.rs` (bukan `ProsesPembayaran.rs`).
 3. **Ganti ke folder jika modul semakin kompleks**: Jika `pembersihan_data.rs` tumbuh terlalu besar dan memiliki sub-logika seperti pembersihan angka atau simbol, sebaiknya gunakan hierarki folder (yang akan kita pelajari nanti).
 
-## Ringkasan Visual
+## Peta Perpindahan Modul ke File
 
 | Lokasi Lama (`main.rs`) | Lokasi Baru (`file.rs`) | Keterangan |
 | --- | --- | --- |
