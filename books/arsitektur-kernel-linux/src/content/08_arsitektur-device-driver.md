@@ -1,6 +1,6 @@
 ## Arsitektur Device Driver
 
-Bayangkan kernel Linux sebagai seorang konduktor orkestra yang sangat cerdas. Ia tahu persis bagaimana musik harus dimainkan, tetapi tidak bisa memainkan biola, meniup trompet, atau memukul drum secara langsung. Ia membutuhkan musisi yang ahli di bidangnya masing-masing untuk menerjemahkan instruksinya menjadi suara.
+Bayangkan kernel Linux sebagai seorang konduktor orkestra. Ia tahu persis bagaimana musik harus dimainkan, tetapi tidak bisa memainkan biola, meniup trompet, atau memukul drum secara langsung. Ia membutuhkan musisi yang ahli di bidangnya masing-masing untuk menerjemahkan instruksinya menjadi suara.
 
 Dalam sistem operasi, **device driver** adalah musisi tersebut. Mereka merupakan kode spesifik yang bertugas menerjemahkan bahasa tingkat tinggi kernel ke bahasa elektrik yang rumit dari perangkat keras (*hardware*).
 
@@ -8,7 +8,7 @@ Dalam sistem operasi, **device driver** adalah musisi tersebut. Mereka merupakan
 
 Sebelum masuk ke jenis-jenis driver, kita harus memahami prinsip fundamental Linux: **"Everything is a file"** (semua hal adalah file).
 
-Di Linux, perangkat keras tidak diakses melalui instruksi rahasia yang rumit. Sebaliknya, mereka muncul di sistem sebagai file di dalam direktori `/dev/`.
+Di Linux, perangkat keras tidak diakses melalui instruksi khusus yang rumit. Sebaliknya, mereka muncul di sistem sebagai file di dalam direktori `/dev/`.
 
 - Keyboard kamu mungkin diwakili oleh `/dev/input/eventX`.
 - Hard drive kamu mungkin muncul sebagai `/dev/sda`.
@@ -17,7 +17,7 @@ Di Linux, perangkat keras tidak diakses melalui instruksi rahasia yang rumit. Se
 
 ## 2. Tiga Pilar Utama Device Driver
 
-Linux membagi dunia perangkat keras menjadi tiga kategori besar berdasarkan cara data dikirim dan diterima.
+Linux membagi perangkat keras menjadi tiga kategori besar berdasarkan cara data dikirim dan diterima.
 
 ### A. Character Driver
 
@@ -53,7 +53,7 @@ Driver ini memiliki sifat yang unik. Berbeda dengan dua tipe di atas, driver jar
 
 ## 3. Anatomi Driver
 
-Bagi pengembang kernel, jantung dari sebuah driver karakter adalah struktur data yang disebut `file_operations`. Struktur ini berfungsi memetakan *system calls* standar ke fungsi kustom yang kamu buat di dalam driver.
+Bagi pengembang kernel, inti dari sebuah driver karakter adalah struktur data yang disebut `file_operations`. Struktur ini berfungsi memetakan *system calls* standar ke fungsi kustom yang kamu buat di dalam driver.
 
 Berikut adalah contoh sederhana bagaimana sebuah driver didefinisikan dalam bahasa C:
 
@@ -141,4 +141,4 @@ flowchart TD
 
 **Penting:** *Device driver* beroperasi sepenuhnya di dalam *Kernel Space*. Konsekuensinya, kesalahan kecil pada kode (seperti mengakses alamat memori yang tidak valid) dapat langsung memicu kegagalan sistem global atau *Kernel Panic*. Oleh karena itu, penulisan driver menuntut ketelitian jauh lebih tinggi dibanding pembuatan aplikasi biasa.
 
-> "Device driver adalah pahlawan tanpa tanda jasa. Tanpa kehadiran mereka, kernel Linux hanyalah sekumpulan algoritma yang terisolasi dari dunia nyata."
+> "Tanpa device driver, kernel Linux hanyalah sekumpulan algoritma yang terisolasi dari dunia nyata."

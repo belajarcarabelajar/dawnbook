@@ -1,6 +1,6 @@
 ## Sistem Manajemen Memori
 
-Bayangkan kamu adalah pengelola gudang raksasa yang menerima ribuan paket setiap detik. Kamu harus memutuskan di mana setiap paket diletakkan, memastikan paket yang sering digunakan mudah dijangkau, dan yang terpenting: memastikan tidak ada dua pengirim yang mencoba menaruh barang di kotak yang sama.
+Bayangkan kamu adalah pengelola gudang besar yang menerima ribuan paket setiap detik. Kamu harus memutuskan di mana setiap paket diletakkan, memastikan paket yang sering digunakan mudah dijangkau, dan yang terpenting: memastikan tidak ada dua pengirim yang mencoba menaruh barang di kotak yang sama.
 
 Dalam Linux, peran penting ini dijalankan oleh **sistem manajemen memori**. Fungsinya jauh melampaui pemindahan data sederhana ke RAM; sistem ini merupakan arsitektur kompleks yang memungkinkan komputer menjalankan berbagai aplikasi dengan total kebutuhan memori melebihi kapasitas fisik RAM yang terpasang.
 

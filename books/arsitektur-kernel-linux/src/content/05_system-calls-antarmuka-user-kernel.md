@@ -1,8 +1,8 @@
 ## System Calls
 
-Bayangkan kamu berada di sebuah restoran mewah. Sebagai pelanggan, kamu tidak diperbolehkan masuk ke dapur untuk memasak makanan sendiri karena alasan keamanan dan kebersihan. Kamu harus duduk di meja dan menyampaikan pesananmu kepada pelayan. Pelayan tersebut kemudian membawa pesananmu ke dapur, dan setelah makanan siap, pelayan akan mengantarkannya kembali kepadamu.
+Bayangkan kamu berada di sebuah restoran. Sebagai pelanggan, kamu tidak diperbolehkan masuk ke dapur untuk memasak makanan sendiri karena alasan keamanan dan kebersihan. Kamu harus duduk di meja dan menyampaikan pesananmu kepada pelayan. Pelayan tersebut kemudian membawa pesananmu ke dapur, dan setelah makanan siap, pelayan akan mengantarkannya kembali kepadamu.
 
-Dalam dunia sistem operasi, **kamu adalah aplikasi pengguna**, **dapur adalah kernel**, dan **pelayan adalah System Call**.
+Dalam sistem operasi, **kamu adalah aplikasi pengguna**, **dapur adalah kernel**, dan **pelayan adalah System Call**.
 
 ## Apa itu System Call?
 

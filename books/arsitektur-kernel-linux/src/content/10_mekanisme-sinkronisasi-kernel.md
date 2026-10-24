@@ -1,6 +1,6 @@
 ## Mekanisme Sinkronisasi Kernel
 
-Bayangkan kernel Linux sebagai dapur restoran yang sangat sibuk dengan banyak koki (CPU/core) yang bekerja secara bersamaan. Jika dua koki mencoba memotong wortel yang sama di atas talenan yang sama pada saat yang sama, kekacauan pasti terjadi. Dalam dunia sistem operasi, kekacauan ini dikenal sebagai **race condition**.
+Bayangkan kernel Linux sebagai dapur restoran yang sibuk dengan banyak koki (CPU/core) yang bekerja secara bersamaan. Jika dua koki mencoba memotong wortel yang sama di atas talenan yang sama pada saat yang sama, kekacauan pasti terjadi. Dalam sistem operasi, kekacauan ini dikenal sebagai **race condition**.
 
 Mekanisme sinkronisasi adalah sekumpulan aturan dan alat yang digunakan kernel untuk memastikan bahwa data bersama (shared data) diakses secara tertib, mencegah korupsi data, dan menjaga integritas sistem.
 
@@ -104,7 +104,7 @@ mutex_unlock(&my_mutex);
 
 ## 5. RCU (Read-Copy-Update) Tanpa Kunci untuk Reader
 
-**RCU** adalah mekanisme sinkronisasi tingkat lanjut yang sangat populer di kernel Linux karena performanya yang luar biasa pada sistem dengan banyak CPU (SMP). RCU sangat efektif untuk struktur data yang sering dibaca tetapi jarang dimodifikasi (seperti routing table).
+**RCU** adalah mekanisme sinkronisasi tingkat lanjut yang populer di kernel Linux karena performanya yang tinggi pada sistem dengan banyak CPU (SMP). RCU sangat efektif untuk struktur data yang sering dibaca tetapi jarang dimodifikasi (seperti routing table).
 
 ### Cara Kerja RCU
 

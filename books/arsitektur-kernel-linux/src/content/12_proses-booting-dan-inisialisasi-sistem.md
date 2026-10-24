@@ -1,6 +1,6 @@
 ## Proses Booting dan Inisialisasi Sistem
 
-Bayangkan sebuah gedung pencakar langit yang gelap gulita. Proses booting adalah saat sakelar utama dinyalakan, lift mulai diprogram, petugas keamanan menempati posnya, dan akhirnya pintu depan dibuka untuk umum. Dalam dunia Linux, proses ini merupakan rangkaian alur yang sangat presisi, dimulai dari kode mesin tingkat rendah hingga terbentuknya user space yang interaktif.
+Bayangkan sebuah gedung pencakar langit yang gelap gulita. Proses booting adalah saat sakelar utama dinyalakan, lift mulai diprogram, petugas keamanan menempati posnya, dan akhirnya pintu depan dibuka untuk umum. Di Linux, proses ini merupakan rangkaian tahap yang berurutan, dimulai dari kode mesin tingkat rendah hingga terbentuknya user space yang interaktif.
 
 Bab ini membahas perjalanan kernel Linux sejak dimuat di memori hingga menjalankan proses pertama yang mengendalikan seluruh sistem.
 
@@ -22,7 +22,7 @@ File kernel `vmlinuz` biasanya disimpan dalam keadaan terkompresi untuk menghema
 
 ## 3. Fungsi start_kernel()
 
-Setelah kernel selesai diekstrak, eksekusi beralih ke fungsi `start_kernel()` pada berkas `init/main.c`. Ini merupakan fungsi terpenting dalam arsitektur Linux karena menjadi pusat dimulainya inisialisasi seluruh subsistem kernel.
+Setelah kernel selesai diekstrak, eksekusi beralih ke fungsi `start_kernel()` pada berkas `init/main.c`. Fungsi ini menjadi pusat dimulainya inisialisasi seluruh subsistem kernel.
 
 Beberapa langkah utama di dalam `start_kernel()` meliputi:
 
