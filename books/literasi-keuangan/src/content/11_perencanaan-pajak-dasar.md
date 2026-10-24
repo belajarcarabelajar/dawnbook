@@ -72,26 +72,22 @@ Kalau syarat gajimu sudah masuk kriteria, kamu otomatis jadi Wajib Pajak. Ada be
 
 ## Panduan Singkat Melaporkan Pajak
 
-Lapor SPT Tahunan sekarang sudah serba *online* pakai e-Filing di situs DJP Online. Ingat, batas akhirnya itu tanggal 31 Maret di tahun berikutnya. 
+Mulai tahun pajak 2025, SPT Tahunan dilaporkan secara *online* lewat aplikasi Coretax DJP, bukan lagi lewat DJP Online. Ingat, batas akhirnya tetap tanggal 31 Maret di tahun berikutnya. Sebelum melapor, aktifkan dulu akun Coretax kamu dan buat kode otorisasi atau sertifikat elektronik.
 
-### Kenali Formulir SPT Kamu
+### Satu Formulir untuk Semua
 
-Formulir yang dipakai tergantung dari pekerjaan dan besaran gajimu:
+Dulu ada tiga jenis formulir yang dipilih sesuai pekerjaan dan besaran gaji. Di Coretax DJP hanya ada satu, yaitu SPT Tahunan PPh Orang Pribadi. Pengisiannya dimulai dari bagian induk dengan menjawab pertanyaan ya atau tidak, dan setiap jawaban "ya" memunculkan lampiran yang perlu kamu isi.
 
-- **1770SS:** Buat kamu yang cuma kerja di satu perusahaan dengan gaji bruto di bawah Rp60 juta setahun.
-- **1770S:** Kalau gajimu di atas Rp60 juta setahun, atau kamu kerja di lebih dari satu tempat.
-- **1770:** Khusus buat pekerja lepas (*freelancer*), pengusaha, atau yang punya pekerjaan bebas lainnya.
-
-### Cara Lapor via e-Filing
+### Cara Lapor lewat Coretax
 
 Proses pelaporannya praktis:
 
-1. Masuk ke situs DJP Online pakai NPWP dan kata sandi kamu.
-2. Buka menu "Lapor", lalu klik opsi "e-Filing".
-3. Pilih formulir yang paling sesuai dengan status pekerjaanmu.
-4. Isi data penghasilan dan potongan pajak sesuai bukti potong dari kantor (biasanya form 1721 A1/A2).
-5. Cek ulang semuanya, verifikasi, dan kirim.
-6. Tunggu email masuk yang berisi Bukti Penerimaan Elektronik (BPE). Simpan baik-baik bukti ini.
+1. Masuk ke Coretax DJP, buka menu Surat Pemberitahuan (SPT), lalu pilih "Buat Konsep SPT".
+2. Pilih PPh Orang Pribadi, lalu SPT Tahunan, isi periode dan tahun pajaknya, dan pilih model "Normal" untuk pelaporan pertama.
+3. Klik "Posting" supaya sistem mengisi sebagian data induk dan lampiran secara otomatis.
+4. Periksa data itu, lalu lengkapi sisanya sesuai bukti potong dari kantor.
+5. Klik "Bayar dan Lapor", lalu tanda tangani secara digital.
+6. SPT yang sudah terkirim akan pindah ke bagian "SPT Dilaporkan".
 
 > **Tips:** Jangan nunggu sampai akhir Maret buat lapor. Website DJP kadang *down* kalau terlalu banyak yang akses bersamaan. Kalau bingung, langsung saja telepon Kring Pajak di 1500200.
 

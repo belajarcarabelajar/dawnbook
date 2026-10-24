@@ -6,7 +6,7 @@ Proses belajar ibarat perjalanan panjang, dan kemampuanmu mengendalikan arahnya 
 
 Melalui pembelajaran regulasi diri, seseorang secara aktif menetapkan target belajarnya sendiri. Mereka kemudian memantau serta mengatur cara berpikir, tingkat motivasi, dan perilaku yang disesuaikan dengan kondisi lingkungan sekitarnya. Orang yang mampu meregulasi dirinya pada dasarnya sedang membangun sistem belajarnya sendiri secara mandiri.
 
-> "Pembelajaran regulasi diri merupakan pola pikir dasar untuk menghadapi berbagai macam tantangan intelektual, lebih dari sekadar menguasai teknik belajar biasa."
+Karena itu, pembelajaran regulasi diri lebih dari sekadar menguasai teknik belajar biasa. Ia adalah pola pikir dasar untuk menghadapi berbagai macam tantangan intelektual.
 
 ## Metakognisi Mendasari Regulasi Diri
 

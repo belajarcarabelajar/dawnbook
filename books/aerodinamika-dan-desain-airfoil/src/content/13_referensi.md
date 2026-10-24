@@ -4,7 +4,7 @@ Daftar pustaka berikut memuat buku teks kanonikal, monograf ilmiah, laporan tekn
 
 ### Buku Teks Fundamental dan Teori Aerodinamika Klasik
 
-- Abbott, I. H., & von Doenhoff, A. E. (1959). [Theory of Wing Sections: Including a Summary of Airfoil Data](https://archive.org/details/theoryofwingsect0000abbo). Dover Publications.
+- Abbott, I. H., & von Doenhoff, A. E. (1959). [Theory of Wing Sections: Including a Summary of Airfoil Data](https://store.doverpublications.com/products/9780486605869). Dover Publications.
 - Anderson, J. D., Jr. (2023). [Fundamentals of Aerodynamics (7th ed.)](https://www.mheducation.com/highered/product/fundamentals-aerodynamics-anderson/M9781264151905.html). McGraw-Hill Education.
 - Bertin, J. J., & Cummings, R. M. (2022). [Aerodynamics for Engineers (6th ed.)](https://doi.org/10.1017/9781009105842). Cambridge University Press.
 - Drela, M. (2014). [Flight Vehicle Aerodynamics](https://mitpress.mit.edu/9780262526449/flight-vehicle-aerodynamics/). The MIT Press.
@@ -21,8 +21,8 @@ Daftar pustaka berikut memuat buku teks kanonikal, monograf ilmiah, laporan tekn
 
 ### Data Eksperimental dan Laporan Seminal NACA / NASA
 
-- Hoerner, S. F. (1965). [Fluid-Dynamic Drag: Practical Information on Aerodynamic Drag and Hydrodynamic Resistance](https://archive.org/details/FluidDynamicDragHoerner1965). Hoerner Fluid Dynamics.
-- Hoerner, S. F., & Borst, H. V. (1985). [Fluid-Dynamic Lift: Practical Information on Aerodynamic and Hydrodynamic Lift](https://archive.org/details/fluiddynamiclift0000hoer). Hoerner Fluid Dynamics.
+- Hoerner, S. F. (1965). [Fluid-Dynamic Drag: Practical Information on Aerodynamic Drag and Hydrodynamic Resistance](https://books.google.com/books/about/Fluid_dynamic_Drag.html?id=abU8AAAAIAAJ). Hoerner Fluid Dynamics.
+- Hoerner, S. F., & Borst, H. V. (1985). [Fluid-Dynamic Lift: Practical Information on Aerodynamic and Hydrodynamic Lift](https://books.google.com/books/about/Fluid_dynamic_Lift.html?id=jDlHAQAAIAAJ). Hoerner Fluid Dynamics.
 - Jacobs, E. N., Ward, K. E., & Pinkerton, R. M. (1933). [The Characteristics of 78 Related Airfoil Sections from Tests in the Variable-Density Wind Tunnel](https://ntrs.nasa.gov/citations/19930091108) (NACA Report No. 460). National Advisory Committee for Aeronautics.
 - Theodorsen, T. (1932). [Theory of Wing Sections of Arbitrary Shape](https://ntrs.nasa.gov/citations/19930091485) (NACA Report No. 411). National Advisory Committee for Aeronautics.
 - Whitcomb, R. T. (1976). [A Design Approach and Selected Wind-Tunnel Results at High Subsonic Speeds for Wing-Tip Mounted Winglets](https://ntrs.nasa.gov/citations/19760019075) (NASA Technical Note No. D-8260). National Aeronautics and Space Administration.

@@ -11,3 +11,4 @@
 - [Digital Minimalisme dalam Lingkungan Kerja](content/09_digital-minimalisme-dalam-lingkungan-kerja-menguba.md)
 - [Menjaga Keberlanjutan Gaya Hidup](content/10_menjaga-keberlanjutan-gaya-hidup-menanam-akar-digi.md)
 - [Keberlanjutan Gaya Hidup Minimalis lewat Sistem Audit dan Guard Rail](content/11_keberlanjutan-gaya-hidup-minimalis-menjaga-api-tet.md)
+- [Referensi](content/12_referensi.md)

@@ -8,7 +8,7 @@ Kamu sebenarnya sedang berhadapan dengan ribuan insinyur perangkat lunak dan psi
 
 Dalam ekonomi tradisional, kita bertukar uang untuk barang atau jasa. Namun, di dunia digital yang "gratis", mata uangnya telah berubah.
 
-> **Catatan:** Jika kamu tidak membayar untuk sebuah produk, maka **kamulah produknya**. Perhatianmu adalah komoditas yang dijual kepada pengiklan.
+> Andrew Lewis, pengguna MetaFilter dengan nama blue_beetle, menulisnya dengan ringkas pada 2010: "Kalau kamu tidak membayar untuk sesuatu, kamu bukan pelanggan; **kamulah produk yang sedang dijual**." Perhatianmu adalah komoditas yang dijual kepada pengiklan.
 
 Bayangkan perhatianmu seperti sebidang tanah yang subur. Perusahaan teknologi adalah "petani" yang berusaha memanen hasil dari tanah tersebut. Semakin lama mereka bisa membuat kamu menatap layar, semakin banyak data yang mereka kumpulkan, dan semakin mahal harga yang bisa mereka tawarkan kepada pengiklan.
 
@@ -96,7 +96,7 @@ flowchart TD
 
 Kesadaran adalah langkah pertama. Begitu kamu menyadari bahwa aplikasi-aplikasi ini dirancang layaknya mesin judi, kamu akan mulai mengenali jebakan-jebakan yang berusaha menarik perhatianmu.
 
-> "Teknologi adalah pelayan yang sangat baik, tetapi tuan yang sangat buruk."
+Teknologi bisa menjadi pelayan yang sangat baik, tetapi juga tuan yang sangat buruk.
 
 *Tugas refleksi:* Amati perasaanmu saat membuka media sosial nanti. Apakah ada tujuan spesifik, atau jempolmu bergerak sendiri berburu dopamin?
 

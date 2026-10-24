@@ -12,3 +12,4 @@
 - [Implikasi Teori Piaget dalam Strategi Pembelajaran](content/10_implikasi-teori-piaget-dalam-strategi-pembelajaran.md)
 - [Kritik Terhadap Teori Piaget](content/11_kritik-terhadap-teori-piaget.md)
 - [Ringkasan dan Sintesis Perkembangan Anak](content/12_ringkasan-dan-sintesis-perkembangan-anak.md)
+- [Referensi](content/13_referensi.md)

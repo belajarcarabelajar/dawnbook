@@ -75,12 +75,12 @@ Kalau kamu sadar sudah tertipu, jangan panik. Semakin cepat kamu bertindak, sema
 
 **Ke Mana Harus Melapor?**
 - **Kontak OJK 157:** Untuk melaporkan modus investasi bodong atau pinjaman *online* ilegal.
-- **CekRekening.id:** Situs dari Kominfo untuk mengecek sekaligus melaporkan nomor rekening pelaku agar diblokir.
+- **CekRekening.id:** Situs dari Kementerian Komunikasi dan Digital (Komdigi) untuk mengecek sekaligus melaporkan nomor rekening pelaku agar diblokir.
 - **Patroli Siber:** Buat laporan kejadian lewat situs patrolisiber.id atau datang langsung ke polsek terdekat.
 
 ## Laporan Penipuan di Indonesia
 
-Kasus penipuan adalah ancaman nyata di sekitar kita. Antara akhir tahun lalu hingga menjelang 2026, Indonesia Anti-Scam Center menerima lebih dari 180 ribu laporan dengan total kerugian mencapai triliunan rupiah. Modus belanja fiktif dan telepon palsu masih mendominasi.
+Kasus penipuan adalah ancaman nyata di sekitar kita. Sejak mulai beroperasi pada 22 November 2024 hingga 30 September 2026, Indonesia Anti-Scam Centre (IASC) menerima 702.342 laporan. Sampai 28 Desember 2025 saja, total kerugian yang dilaporkan ke IASC sudah mencapai Rp9 triliun.
 
 Bahkan orang yang bekerja di sektor keuangan sekalipun pernah tertipu ratusan juta karena pelaku memakai skema yang meyakinkan. Ini membuktikan bahwa tidak ada yang kebal dari ancaman penipuan.
 

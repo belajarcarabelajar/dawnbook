@@ -10,7 +10,7 @@ Bayangkan seorang koki profesional. Ia jarang membutuhkan 50 jenis gadget dapur 
 
 Dalam digital minimalisme, prinsipnya serupa. Setiap alat baru membawa biaya perawatan mental berupa notifikasi, pembaruan rutin, hingga kurva pembelajaran. Menguasai satu alat secara mendalam jauh lebih efektif daripada sekadar tahu sedikit-sedikit tentang sepuluh alat berbeda. Pembatasan ini juga meminimalkan perpindahan antar aplikasi (context switching), sebuah kebiasaan buruk yang bisa menurunkan IQ produktivitas kamu hingga 10 poin.
 
-> "Alat yang hebat tidak hanya membantu kamu melakukan pekerjaan, tetapi juga mendukung pikiran untuk bekerja lebih jernih."
+Alat yang hebat tidak hanya membantu kamu melakukan pekerjaan, tetapi juga mendukung pikiran untuk bekerja lebih jernih.
 
 ### 2. Menyesuaikan Alat dengan Nilai
 
