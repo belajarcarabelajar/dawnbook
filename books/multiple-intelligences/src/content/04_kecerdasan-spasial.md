@@ -1,8 +1,8 @@
 ## Kecerdasan Spasial
 
-Pernahkah kamu bertanya-tanya bagaimana seorang arsitek bisa membayangkan sebuah gedung pencakar langit yang megah hanya dari selembar kertas kosong? Atau bagaimana seorang pilot dapat menemukan jalan di tengah gumpalan awan tebal tanpa kehilangan arah?
+Pernahkah kamu bertanya-tanya bagaimana seorang arsitek bisa membayangkan sebuah gedung pencakar langit hanya dari selembar kertas kosong? Atau bagaimana seorang pilot dapat menemukan jalan di tengah gumpalan awan tebal tanpa kehilangan arah?
 
-Selamat datang di dunia **Kecerdasan Spasial**. Ini tidak hanya sebatas kemampuan menggambar. Ini berkaitan erat dengan kapasitas otak manusia untuk memahami, memproses, dan merekayasa dimensi ruang di dalam pikiran.
+Itulah **Kecerdasan Spasial**. Ini tidak hanya sebatas kemampuan menggambar. Ini berkaitan erat dengan kapasitas otak manusia untuk memahami, memproses, dan mengolah ruang di dalam pikiran.
 
 ## 1\. Memahami Esensi Kecerdasan Spasial
 

@@ -58,7 +58,7 @@ Tantang telingamu dengan mendengarkan genre musik yang benar-benar asing, lalu c
 
 ### 7\. Kecerdasan Intrapersonal (Diri Sendiri)
 
-Sisihkan waktu 10 menit setiap pagi untuk duduk diam, bermeditasi, atau sekadar melakukan refleksi internal. Saat menetapkan tujuan jangka pendek, lakukan evaluasi brutal namun jujur mengenai alasan sesungguhnya mengapa kamu berhasil atau gagal mencapainya.
+Sisihkan waktu 10 menit setiap pagi untuk duduk diam, bermeditasi, atau sekadar melakukan refleksi internal. Saat menetapkan tujuan jangka pendek, lakukan evaluasi yang keras namun jujur mengenai alasan sesungguhnya mengapa kamu berhasil atau gagal mencapainya.
 
 ### 8\. Kecerdasan Naturalis (Alam)
 
@@ -72,11 +72,11 @@ Bawa sepotong alam ke dalam keseharianmu dengan memelihara tanaman di area rumah
 
 ## Skenario Pengembangan Karier di Dunia Nyata
 
-Mari bayangkan seorang **Insinyur Perangkat Lunak** yang diberkahi kecerdasan **Logis-Matematis** sangat tinggi, namun selalu keteteran setiap kali harus memimpin rapat atau mengelola tim karena lemah di ranah **Interpersonal** dan **Linguistik**.
+Mari bayangkan seorang **Insinyur Perangkat Lunak** yang memiliki kecerdasan **Logis-Matematis** tinggi, namun selalu keteteran setiap kali harus memimpin rapat atau mengelola tim karena lemah di ranah **Interpersonal** dan **Linguistik**.
 
 Alih-alih menyerah pada kelemahan tersebut, ia bisa menerapkan strategi penyeimbang:
 
-1. **Menjembatani Pemahaman:** Ia menggunakan pola pikir logisnya untuk meretas struktur komunikasi. Alih-alih melihat manajemen konflik sebagai drama emosional yang memusingkan, ia memperlakukannya layaknya "algoritma" dengan input dan output yang bisa diprediksi dan diselesaikan.
+1. **Menjembatani Pemahaman:** Ia menggunakan pola pikir logisnya untuk memahami struktur komunikasi. Alih-alih melihat manajemen konflik sebagai drama emosional yang memusingkan, ia memperlakukannya layaknya "algoritma" dengan input dan output yang bisa diprediksi dan diselesaikan.
 2. **Latihan Terukur:** Ia dengan sengaja menjadwalkan sesi satu-lawan-satu (1-on-1) mingguan murni sebagai arena berlatih mendengarkan aktif dan merangkai umpan balik yang jelas.
 3. **Visualisasi Pesan:** Untuk menutupi kecanggungan verbal, ia mengandalkan *flowchart* atau diagram arsitektur ketika harus menjelaskan arah proyek kepada tim, memastikan visi teknisnya tersampaikan tanpa bias.
 
@@ -86,6 +86,6 @@ Pendekatan taktis ini tidak hanya mempertahankannya sebagai pemrogram andal, tet
 
 Satu hal yang harus diingat: kamu sama sekali tidak dituntut untuk menjadi master di kesembilan kecerdasan tersebut. Cukup fokus pada dua arah utama.
 
-Pertama, asah terus senjata utamamu. Maksimalkan kecerdasan dominan yang kamu miliki agar menjadi keunggulan kompetitif yang tak tertandingi. Kedua, tambal titik lemah yang menghambat. Kembangkan secukupnya kecerdasan yang selama ini menjadi batu sandungan utama dalam keseharian atau kariermu.
+Pertama, asah terus kekuatan utamamu. Maksimalkan kecerdasan dominan yang kamu miliki agar menjadi keunggulan kompetitif. Kedua, tambal titik lemah yang menghambat. Kembangkan secukupnya kecerdasan yang selama ini menjadi batu sandungan utama dalam keseharian atau kariermu.
 
 > "Kecerdasan tidak semata-mata diukur dari seberapa pintar dirimu, tapi tentang ragam cara yang bisa kamu kerahkan untuk menghasilkan keputusan yang cerdas."

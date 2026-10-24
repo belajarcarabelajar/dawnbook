@@ -80,4 +80,4 @@ Di sini $A$ adalah amplitudo gelombang, $f$ adalah frekuensi nada, dan $t$ adala
 
 Bayangkan apabila alur eksekusi atau rentetan log eror sebuah aplikasi bisa divisualisasikan menjadi bentuk notasi suara. Pola bunyi yang janggal secara otomatis menjadi semacam alarm intuitif, membantu programmer mendeteksi letak bug lebih tanggap.
 
-Kecerdasan musikal mempertemukan unsur matematis frekuensi dengan persepsi indrawi. Mengembangkan aspek ini memandu telinga kamu untuk terbiasa menyimak ritme di balik berbagai sistem, mengubah kebisingan informasi menjadi orkestrasi yang memiliki pola.
+Kecerdasan musikal mempertemukan unsur matematis frekuensi dengan persepsi indrawi. Mengembangkan aspek ini memandu telinga kamu untuk terbiasa menyimak ritme di balik berbagai sistem, sehingga kebisingan informasi bisa dibaca sebagai pola.

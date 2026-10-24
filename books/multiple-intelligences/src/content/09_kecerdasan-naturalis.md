@@ -8,11 +8,11 @@ Kecerdasan Naturalis melampaui rasa cinta terhadap alam. Kemampuan kognitif ini 
 
 Pada awalnya, Gardner mengusulkan tujuh kecerdasan. Namun, pada tahun 1995, ia menambahkan **Kecerdasan Naturalis** setelah menyadari bahwa kemampuan manusia untuk membedakan antara spesies flora dan fauna, serta memahami fenomena alam, memiliki akar biologis dan nilai evolusioner yang nyata.
 
-Individu dengan kecerdasan naturalis yang tinggi memiliki semacam indra tambahan terhadap perubahan di lingkungan mereka. Mereka adalah penyusun kategori yang ulung dalam dunia fisik.
+Individu dengan kecerdasan naturalis yang tinggi memiliki kepekaan lebih terhadap perubahan di lingkungan mereka. Mereka adalah penyusun kategori yang ulung dalam dunia fisik.
 
 ### Sang Pustakawan Ekosistem
 
-> Bayangkan otak seorang naturalis seperti sebuah perpustakaan raksasa yang isinya berupa katalog organisme dan fenomena alam, alih-alih deretan buku biasa. Saat orang lain hanya melihat "hutan hijau yang rimbun", seorang naturalis melihat rak-rak yang terorganisir: kategori pohon *Dipterocarpaceae*, strata kanopi, kelembapan tanah, hingga jejak hewan di permukaan tanah. Mereka tidak sekadar melihat, mereka **membaca** alam.
+> Bayangkan otak seorang naturalis seperti sebuah perpustakaan yang isinya berupa katalog organisme dan fenomena alam, alih-alih deretan buku biasa. Saat orang lain hanya melihat "hutan hijau yang rimbun", seorang naturalis melihat rak-rak yang terorganisir: kategori pohon *Dipterocarpaceae*, strata kanopi, kelembapan tanah, hingga jejak hewan di permukaan tanah. Mereka tidak sekadar melihat, mereka **membaca** alam.
 
 ## Karakteristik Utama Penyelaras Alam
 
@@ -50,9 +50,9 @@ Bahkan dalam arsitektur modern, pendekatan desain berkelanjutan sangat bergantun
 
 ## Si Detektif Hutan
 
-Sebagai contoh, bayangkan sebuah tim peneliti yang ditugaskan ke pedalaman Kalimantan untuk menyelidiki anjloknya populasi spesies burung tertentu. Seorang peneliti dengan kecerdasan naturalis tidak akan sekadar memelototi data statistik di atas kertas. Ia akan masuk ke dalam hutan dan mulai merasakan ritme sekitarnya.
+Sebagai contoh, bayangkan sebuah tim peneliti yang ditugaskan ke pedalaman Kalimantan untuk menyelidiki anjloknya populasi spesies burung tertentu. Seorang peneliti dengan kecerdasan naturalis tidak akan sekadar memelototi data statistik di atas kertas. Ia akan masuk ke dalam hutan dan mulai mengamati keadaan sekitarnya.
 
-Mungkin ia menyadari perubahan frekuensi dengungan serangga di pagi hari. Atau ia memperhatikan ada spesies tanaman invasif baru yang mulai mencekik tajuk pohon tempat burung bersarang. Ia bahkan bisa mencatat tingkat kekeruhan air sungai yang berbeda sesaat sesudah hujan gerimis. Melalui observasi berlapis ini, ia mampu menyimpulkan bahwa perubahan iklim mikro di lantai hutan (akibat pembukaan lahan di kejauhan) telah menggeser siklus menetas serangga yang menjadi pakan utama burung tersebut. Kemampuan inilah yang disebut sebagai seni menyambungkan titik-titik dalam sebuah ekosistem.
+Mungkin ia menyadari perubahan frekuensi dengungan serangga di pagi hari. Atau ia memperhatikan ada spesies tanaman invasif baru yang mulai mencekik tajuk pohon tempat burung bersarang. Ia bahkan bisa mencatat tingkat kekeruhan air sungai yang berbeda sesaat sesudah hujan gerimis. Melalui observasi berlapis ini, ia mampu menyimpulkan bahwa perubahan iklim mikro di lantai hutan (akibat pembukaan lahan di kejauhan) telah menggeser siklus menetas serangga yang menjadi pakan utama burung tersebut. Kemampuan inilah yang disebut sebagai menyambungkan titik-titik dalam sebuah ekosistem.
 
 ## Mengembangkan Kecerdasan Naturalis
 
@@ -62,4 +62,4 @@ Menulis jurnal alam juga bisa menjadi kebiasaan baru. Dokumentasikan spesies bur
 
 Inti dari Kecerdasan Naturalis terletak pada kejelianmu menyelami sistem kehidupan beserta interaksinya, tanpa harus bergantung pada seberapa banyak nama Latin tanaman yang sanggup kamu hafal.
 
-> "Alam tidak pernah terburu-buru, namun semuanya terselesaikan." - Ralph Waldo Emerson. Individu dengan kecerdasan naturalis memahami irama ini lebih baik daripada siapapun.
+> "Alam tidak pernah terburu-buru, namun semuanya terselesaikan." - Ralph Waldo Emerson. Individu dengan kecerdasan naturalis memahami irama ini dengan baik.

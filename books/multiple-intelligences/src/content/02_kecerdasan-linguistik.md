@@ -22,7 +22,7 @@ Selanjutnya adalah sintaksis, yaitu kemampuan meracik urutan kata agar membangun
 
 Ada beberapa kekhasan dari individu yang kuat di bidang ini. Biasanya, mereka sangat suka mengotak-atik kata, entah lewat mengisi teka-teki silang, bermain *Scrabble*, atau melontarkan pelesetan (*puns*). Mereka juga dikenal sebagai pencerita yang ahli karena sanggup merajut ulang rangkaian peristiwa dengan detail yang memancing imajinasi pendengar.
 
-Daya kritis mereka juga tajam, terutama saat mendengar orang lain berbicara. Kesalahan tata bahasa atau lompatan logika dalam diskusi akan dengan cepat mereka sadari. Daya ingat mereka pun lebih bertumpu pada asosiasi verbal ketimbang gambar, sehingga mengingat nama atau fakta terasa lebih alamiah. Di panggung debat, keluwesan retorika mereka sering kali tak terbantahkan. Kemampuan menjelaskan konsep teknis rumit menjadi paparan yang amat gamblang menggunakan analogi sehari-hari adalah perwujudan konkret dari kecerdasan ini.
+Daya kritis mereka juga tajam, terutama saat mendengar orang lain berbicara. Kesalahan tata bahasa atau lompatan logika dalam diskusi akan dengan cepat mereka sadari. Daya ingat mereka pun lebih bertumpu pada asosiasi verbal ketimbang gambar, sehingga mengingat nama atau fakta terasa lebih alamiah. Di panggung debat, retorika mereka yang luwes sering kali sulit dibantah. Kemampuan menjelaskan konsep teknis rumit menjadi paparan yang amat gamblang menggunakan analogi sehari-hari adalah perwujudan konkret dari kecerdasan ini.
 
 ## Bahasa di Dalam Otak
 
