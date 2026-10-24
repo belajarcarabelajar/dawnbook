@@ -20,6 +20,8 @@ House, J. S. (1981). *Work stress and social support*. Addison-Wesley.
 
 Kabat-Zinn, J. (1990). *Full catastrophe living: Using the wisdom of your body and mind to face stress, pain, and illness*. Delta.
 
+Kabat-Zinn, J. (1994). *Wherever you go, there you are: Mindfulness meditation in everyday life*. Hyperion. [https://archive.org/details/whereveryougoth000kaba](https://archive.org/details/whereveryougoth000kaba)
+
 Lazarus, R. S., & Folkman, S. (1984). *Stress, appraisal, and coping*. Springer Publishing Company.
 
 Meichenbaum, D. (1985). *Stress inoculation training*. Pergamon Press.
@@ -53,6 +55,8 @@ Folkman, S., & Lazarus, R. S. (1980). An analysis of coping in a middle-aged com
 Hofmann, S. G., Asnaani, A., Vonk, I. J., Sawyer, A. T., & Murakami, A. (2012). The efficacy of cognitive behavioral therapy: A review of meta-analyses. *Cognitive Therapy and Research*, 36(5), 427–440. [https://doi.org/10.1007/s10608-012-9476-1](https://doi.org/10.1007/s10608-012-9476-1)
 
 Kabat-Zinn, J. (1982). An outpatient program in behavioral medicine for chronic pain patients based on the practice of mindfulness meditation: Theoretical considerations and preliminary results. *General Hospital Psychiatry*, 4(1), 33–47. [https://doi.org/10.1016/0163-8343(82)90026-3](https://doi.org/10.1016/0163-8343(82)90026-3)
+
+Kabat-Zinn, J. (2003). Mindfulness-based interventions in context: Past, present, and future. *Clinical Psychology: Science and Practice*, 10(2), 144–156. [https://doi.org/10.1093/clipsy.bpg016](https://doi.org/10.1093/clipsy.bpg016)
 
 McEwen, B. S. (1998). Protective and damaging effects of stress mediators. *New England Journal of Medicine*, 338(3), 171–179. [https://doi.org/10.1056/NEJM199801153380307](https://doi.org/10.1056/NEJM199801153380307)
 

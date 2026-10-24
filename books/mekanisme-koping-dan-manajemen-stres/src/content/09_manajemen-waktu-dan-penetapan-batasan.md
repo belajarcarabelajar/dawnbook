@@ -2,8 +2,6 @@
 
 Pernahkah kamu merasa seolah-olah sedang berlari di atas treadmill yang kecepatannya terus bertambah, namun kamu tidak tahu di mana tombol "stop"-nya? Itulah gambaran umum dari kegagalan manajemen waktu (*time management*) dan ketiadaan batasan (*boundaries*). Di bagian ini, kita akan belajar bahwa manajemen waktu bukan hanya soal menjadi produktif, tetapi tentang **menjaga kesehatan mental** dan mencegah *burnout*.
 
-> "Perbedaan antara orang sukses dan orang yang sangat sukses adalah bahwa orang yang sangat sukses mengatakan 'tidak' pada hampir semua hal." - Warren Buffett
-
 ### 1. Memisahkan "Penting" dari "Mendesak"
 
 Sering kali, stres muncul bukan terjadi karena kita memiliki terlalu banyak hal untuk dikerjakan, tetapi karena kita mencoba menyelesaikan semuanya sekaligus tanpa urutan yang jelas.

@@ -79,4 +79,4 @@ Persiapkan strategi respons sebelum gelombang emosi meluap. Isilah tabel panduan
 
 > **Catatan Penting:** Regulasi emosi adalah keterampilan yang diasah melalui latihan berkelanjutan, bukan bakat bawaan. Semakin sering kamu melatih kebiasaan memberi nama pada emosi dan menyalurkannya secara tepat, semakin tangguh kapasitas koping kamu saat menghadapi tantangan di masa depan.
 
-> "Kamu tidak bisa menghentikan ombak, tetapi kamu bisa belajar cara berselancar." - Jon Kabat-Zinn
+> "Kamu tidak bisa menghentikan ombak, tetapi kamu bisa belajar berselancar." Kalimat ini adalah keterangan pada poster yang menampilkan Swami Satchidananda berselancar, seperti dikisahkan Jon Kabat-Zinn dalam *Wherever You Go, There You Are* (1994).
