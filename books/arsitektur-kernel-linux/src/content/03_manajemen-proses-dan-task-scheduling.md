@@ -1,6 +1,6 @@
 ## Manajemen Proses dan Task Scheduling
 
-Pernahkah kamu membayangkan bagaimana komputermu bisa memutar lagu di Spotify, mengunduh file besar di browser, dan mengedit dokumen di Word secara bersamaan tanpa terasa tersendat? Di balik layar, kernel Linux bekerja seperti seorang konduktor orkestra yang sangat sibuk namun sangat terorganisir.
+Komputermu bisa memutar lagu di Spotify, mengunduh file besar di browser, dan mengedit dokumen di Word secara bersamaan. Pernahkah kamu membayangkan bagaimana semua itu berjalan tanpa terasa tersendat? Di balik layar, kernel Linux bekerja seperti seorang konduktor orkestra yang sangat sibuk namun sangat terorganisir.
 
 Dalam bagian ini, kita akan membedah bagaimana Linux mengelola unit kerja terkecilnya, yaitu **proses**, dan bagaimana ia memutuskan siapa yang berhak menggunakan CPU pada detik tertentu melalui **task scheduling**.
 

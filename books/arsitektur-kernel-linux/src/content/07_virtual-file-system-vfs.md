@@ -1,6 +1,6 @@
 ## Virtual File System (VFS)
 
-Pernahkah kamu membayangkan bagaimana perintah `ls` atau `cp` yang sama dapat bekerja dengan lancar baik saat kamu mengakses data di hard drive (ext4), flashdisk (FAT32), hingga penyimpanan jaringan (NFS)? Di balik layar, Linux tidak menulis kode khusus untuk setiap jenis penyimpanan tersebut setiap kali aplikasi ingin membaca file. Rahasianya terletak pada **Virtual File System (VFS)**.
+Perintah `ls` atau `cp` yang sama dapat bekerja lancar saat kamu mengakses data di hard drive (ext4), flashdisk (FAT32), hingga penyimpanan jaringan (NFS). Pernahkah kamu membayangkan caranya? Di balik layar, Linux tidak menulis kode khusus untuk setiap jenis penyimpanan tersebut setiap kali aplikasi ingin membaca file. Rahasianya terletak pada **Virtual File System (VFS)**.
 
 VFS adalah lapisan abstraksi di dalam kernel Linux yang bertindak sebagai antarmuka seragam antara aplikasi user dan berbagai jenis file system. Tanpa VFS, pengembang aplikasi harus menulis logika yang berbeda-beda hanya untuk membuka sebuah file pada media penyimpanan yang berbeda.
 
