@@ -59,7 +59,7 @@ Ketika seseorang melebur ke dalam kerumunan yang padat, mereka rentan mengalami 
 
 **Karakteristik Deindividuasi dalam Panik Massal:**
 
-- **Anonimitas Sosial:** Perasaan bahwa identitas pribadi tersamarkan di tengah lautan manusia, sehingga menekan rasa tanggung jawab moral individual.
+- **Anonimitas Sosial:** Perasaan bahwa identitas pribadi tersamarkan di tengah kerumunan besar, sehingga menekan rasa tanggung jawab moral individual.
 - **Difusi Tanggung Jawab (*Diffusion of Responsibility*):** Asumsi bahwa tindakan mendesak atau merangsek ke depan dilakukan oleh semua orang, sehingga tidak ada rasa bersalah personal apabila terjadi insiden fisik pada orang lain.
 - **Fokus Eksternal Total:** Seluruh atensi kognitif tersedot ke arah bahaya visual dan pergerakan massa di depan mata, melumpuhkan fungsi logika internal.
 

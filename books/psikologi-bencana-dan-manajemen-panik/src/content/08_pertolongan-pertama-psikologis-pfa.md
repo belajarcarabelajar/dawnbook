@@ -86,7 +86,7 @@ Bencana sering kali menghancurkan jejaring sosial primer. Memulihkan kontak anta
 
 #### 7. Psikoedukasi Koping (*Information on Coping*)
 Memberikan pemahaman mendasar mengenai respon stres akut agar individu tidak merasa dirinya mengalami gangguan mental:
-- **Normalisasi Reaksi:** Jelaskan secara lugas bahwa rasa cemas, sulit tidur, mimpi buruk, atau gemetaran merupakan reaksi normal dari tubuh dan pikiran manusia terhadap situasi yang luar biasa ekstrem.
+- **Normalisasi Reaksi:** Jelaskan secara lugas bahwa rasa cemas, sulit tidur, mimpi buruk, atau gemetaran merupakan reaksi normal dari tubuh dan pikiran manusia terhadap situasi yang ekstrem.
 
 #### 8. Penghubung Layanan Terpadu (*Linkage with Collaborative Services*)
 Menjamin keberlanjutan bantuan melalui koordinasi lintas sektor:
@@ -150,4 +150,4 @@ Mendampingi individu yang terpapar tragedi kemanusiaan membawa beban emosional y
 - **Sesi Pembahasan Pascatugas (*Defusing & Peer Support*):** Luangkan waktu bersama tim atau supervisor untuk saling berbagi refleksi emosional tanpa penghakiman setelah menyelesaikan giliran tugas lapangan.
 - **Pemenuhan Kebutuhan Fisiologis Dasar:** Penolong tidak akan mampu memberikan proteksi optimal kepada orang lain apabila berada dalam kondisi dehidrasi, malnutrisi, atau kurang tidur.
 
-> **Prinsip Utama:** Hakikat dari Pertolongan Pertama Psikologis bukanlah menghapus jejak trauma secara instan, melainkan membangun jembatan stabilitas awal agar penyintas mampu bertransisi dari fase disorientasi menuju kondisi yang terkendali. Ketenangan dan ketulusan penolong di lapangan sering kali menjadi jangkar harapan yang paling kokoh di tengah badai bencana.
+> **Prinsip Utama:** Hakikat dari Pertolongan Pertama Psikologis bukanlah menghapus jejak trauma secara instan, melainkan memberikan stabilitas awal agar penyintas mampu bertransisi dari fase disorientasi menuju kondisi yang terkendali. Ketenangan dan ketulusan penolong di lapangan sering kali menjadi pegangan bagi penyintas di tengah bencana.

@@ -129,7 +129,7 @@ flowchart LR
 
 ### Sintesis
 
-Resiliensi komunitas bukan sekadar pembangunan infrastruktur fisik pelindung, melainkan penguatan anyaman jejaring kemanusiaan yang terdidik, saling percaya, dan terkoordinasi. Mitigasi mental menegaskan bahwa kendati ancaman bencana alam tidak selalu dapat dihindari, kapasitas masyarakat untuk melindungi stabilitas psikologis dan martabat kemanusiaan dapat dipersiapkan secara menyeluruh.
+Resiliensi komunitas bukan sekadar pembangunan infrastruktur fisik pelindung, melainkan penguatan jejaring warga yang terdidik, saling percaya, dan terkoordinasi. Mitigasi mental menegaskan bahwa kendati ancaman bencana alam tidak selalu dapat dihindari, kapasitas masyarakat untuk melindungi stabilitas psikologis dan martabat kemanusiaan dapat dipersiapkan secara menyeluruh.
 
 > *"Kekuatan sejati sebuah komunitas tidak diukur dari ketiadaan ancaman krisis, melainkan dari kedalaman rasa saling percaya dan kesiapan kolektif untuk saling menopang saat krisis menerpa."*
 

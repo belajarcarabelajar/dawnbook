@@ -1,6 +1,6 @@
 ## Kepemimpinan Psikologis dalam Krisis
 
-Ketika bencana mendadak melanda, misalnya gempa bumi dahsyat yang mengguncang pusat perbelanjaan, listrik padam seketika dan alarm bahaya meraung. Reruntuhan mengaburkan pandangan. Dalam hitungan detik pertama, rantai komando dan struktur organisasi formal (seperti petugas keamanan, pengelola gedung, atau protokol evakuasi standar) kerap kali lumpuh akibat disorientasi massal. Di titik genting ini, **kepemimpinan psikologis** (*psychological leadership*) memegang peran penentu antara keselamatan bersama atau eskalasi kepanikan.
+Ketika bencana mendadak melanda, misalnya gempa bumi besar yang mengguncang pusat perbelanjaan, listrik padam seketika dan alarm bahaya meraung. Reruntuhan mengaburkan pandangan. Dalam hitungan detik pertama, rantai komando dan struktur organisasi formal (seperti petugas keamanan, pengelola gedung, atau protokol evakuasi standar) kerap kali lumpuh akibat disorientasi massal. Di titik genting ini, **kepemimpinan psikologis** (*psychological leadership*) memegang peran penentu antara keselamatan bersama atau eskalasi kepanikan.
 
 Kepemimpinan psikologis tidak bertumpu pada jabatan struktural atau otoritas formal, melainkan pada kapasitas mental untuk memproyeksikan stabilitas, mengambil kendali atas disrupsi, serta memberikan arah navigasi yang terukur kepada massa yang kehilangan orientasi. Saat struktur formal runtuh, respon psikologis kolektif tidak mencari figur penguasa, melainkan figur penenang dan pelindung (*stabilizer and protector*).
 
@@ -137,4 +137,4 @@ Untuk mencegah kelumpuhan analisis di tengah ancaman, pembatasan kognitif ditera
 * **Aktivasi Agensi Melalui Tugas Mikro:** Pembagian tugas konkret secara cepat memecahkan kelumpuhan kognitif dan memulihkan fungsi fungsional korban bencana.
 * **Peran Mercusuar:** Pemimpin psikologis bertindak sebagai pemandu arah dan pemberi kepastian tindakan, bukan pembawa histeria atau janji tanpa dasar.
 
-> **Refleksi Filosofis:** Kepemimpinan psikologis pada hakikatnya adalah pengabdian terhadap keselamatan bersama, terbebas dari dorongan ego maupun hierarki kekuasaan. Kekuatan kepemimpinan sejati terwujud saat kehadiran seorang figur mampu membangkitkan keberanian kolektif untuk bertahan hidup dan saling melindungi.
+> **Refleksi Filosofis:** Kepemimpinan psikologis pada dasarnya melayani keselamatan bersama, bukan dorongan ego maupun hierarki kekuasaan. Kepemimpinan ini terlihat saat kehadiran seseorang membuat kelompok berani bertahan hidup dan saling melindungi.
