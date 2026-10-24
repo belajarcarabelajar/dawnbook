@@ -34,7 +34,7 @@ src/
 
 ## 2. Pengelompokan Berdasarkan Domain (Bukan Tipe)
 
-Jika kamu terbiasa dengan bahasa pemrograman lain, kamu mungkin sering mengelompokkan file berdasarkan tipenya (seperti meletakkan semua model di folder `models` dan semua controller di folder `controllers`). Di Rust, pendekatan yang lebih disarankan adalah mengelompokkan kode berdasarkan **Domain Bisnis** or **Fitur**.
+Jika kamu terbiasa dengan bahasa pemrograman lain, kamu mungkin sering mengelompokkan file berdasarkan tipenya (seperti meletakkan semua model di folder `models` dan semua controller di folder `controllers`). Di Rust, pendekatan yang lebih disarankan adalah mengelompokkan kode berdasarkan **Domain Bisnis** atau **Fitur**.
 
 > [!IMPORTANT]
 > Pola ini mempermudah navigasi kode. Saat ingin memperbarui fitur pembayaran, misalnya, seluruh logika terkait (akses database, validasi, API) bisa kamu temukan langsung di dalam satu folder modul `payment/`.
