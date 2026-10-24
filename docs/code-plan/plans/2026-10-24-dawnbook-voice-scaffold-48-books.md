@@ -101,9 +101,9 @@ Trigger: owner request 2026-10-24 ("48 dari 60 buku yang masih gagal perbaiki pa
 
 - [x] Measure: `bun run scripts/check-voice.ts --all` on main b39e880 exits 1; 48 books, 141 chapters fail: stock connector 139 hits in 114 chapters, "bab berikutnya" 23 in 23, "mirip dengan" over the cap in 4. No hit sits in a Mermaid block or a heading.
 - [x] Plan gate: owner approves this plan. Evidence: AskUserQuestion 2026-10-24: Plan = Approve and start now; PR grouping = One PR for all 48 (one commit per book); Build gate = Yes, add to build.
-- [ ] W1-W4: one subagent per book; each rewrites only the sentences that hold a flagged phrase (GEMINI.md section 29), never adds a fact; scope guard and check-voice exit 0 per book; one independent reviewer per wave.
-- [ ] G1: `check:voice` script (`bun run scripts/check-voice.ts --all`) in package.json and as a step of `bun run build`, test-first, once all 60 books pass.
-- [ ] V1: `check-voice --all` exit 0 over all 60 books, book tests and build exit 0.
+- [x] W1-W4: one subagent per book; each rewrites only the sentences that hold a flagged phrase (GEMINI.md section 29), never adds a fact; scope guard and check-voice exit 0 per book; one independent reviewer per wave. Evidence 2026-10-24: 48 subagents (one per book), every book re-checked by the parent (check-voice exit 0, scope guard exit 0, structure output identical to its main baseline) before its own commit; reviewers per wave: W1 4 P2, W2 correct, W3 1 P1 + 8 P2, W4 2 P2, all applied in per-book review commits. One verbatim transcript line keeps "perhatikan" with a voice-ok marker.
+- [x] G1: `check:voice` script (`bun run scripts/check-voice.ts --all`) in package.json and as a step of `bun run build`, test-first, once all 60 books pass. Evidence: tests RED first (runVoiceGate, build order, check:voice script, voice-ok marker), then `bun test tests/scripts/check-voice.test.ts tests/scripts/build.test.ts` exit 0; `bun run build` prints "Checking chapter voice..." before the mdBook builds.
+- [x] V1: `check-voice --all` exit 0 over all 60 books, book tests and build exit 0. Evidence: `bun run scripts/check-voice.ts --all` exit 0, 60 books with 0 problems; `bun test tests/books/ tests/scripts/check-voice.test.ts tests/scripts/build.test.ts` exit 0 (81 pass); `bun run build` exit 0 with SEO R1-R7 passed.
 - [ ] D1: one PR for all 48 books (one commit per book), merge asked alone; one deploy, D1 seed and GSC reindex at the end, asked separately.
 
 ## 1. Scope (scaffold-only, not a light pass)
