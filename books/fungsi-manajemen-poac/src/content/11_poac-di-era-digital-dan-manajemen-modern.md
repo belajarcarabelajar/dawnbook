@@ -1,6 +1,6 @@
 ## POAC di Era Digital dan Manajemen Modern
 
-Selamat datang di pembahasan manajemen modern! Jika pada bagian-bagian sebelumnya kamu telah membedah Planning, Organizing, Actuating, dan Controlling secara fundamental, sekarang saatnya melihat bagaimana kerangka kerja klasik ini berubah di tengah perkembangan teknologi dan dinamika pasar yang cepat.
+Apa yang terjadi pada kerangka kerja manajemen klasik ketika organisasi harus mengikuti teknologi dan pasar yang terus bergerak cepat? Jika pada bagian-bagian sebelumnya kamu telah membedah Planning, Organizing, Actuating, dan Controlling secara fundamental, sekarang saatnya melihat bagaimana kerangka kerja klasik ini berubah di tengah perkembangan teknologi dan dinamika pasar yang cepat.
 
 Dahulu, rencana bisnis dibuat untuk jangka panjang (sekitar 5 hingga 10 tahun) dan jarang berubah. Di era digital, rencana tersebut bisa menjadi tidak relevan hanya dalam hitungan bulan. Mari pelajari bagaimana POAC berevolusi menjadi lebih lincah, cerdas, dan berbasis data.
 

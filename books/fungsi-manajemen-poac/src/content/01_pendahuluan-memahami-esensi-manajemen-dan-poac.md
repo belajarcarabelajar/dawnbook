@@ -1,6 +1,6 @@
 ## Memahami Esensi Manajemen dan POAC
 
-Selamat datang di langkah pertama perjalananmu memahami dunia manajemen! Pernahkah kamu membayangkan bagaimana sebuah konser musik besar dengan ribuan penonton bisa berjalan dengan sangat rapi? Atau bagaimana perusahaan teknologi raksasa bisa meluncurkan produk baru di seluruh dunia secara bersamaan?
+Perjalananmu memahami dunia manajemen berawal dari dua pertanyaan tentang kegiatan besar yang bisa berjalan rapi dan serempak. Pernahkah kamu membayangkan bagaimana sebuah konser musik besar dengan ribuan penonton bisa berjalan dengan sangat rapi? Atau bagaimana perusahaan teknologi raksasa bisa meluncurkan produk baru di seluruh dunia secara bersamaan?
 
 Semua itu bukan terjadi karena kebetulan. Itu adalah hasil dari sebuah seni dan sains yang disebut **Manajemen**.
 
