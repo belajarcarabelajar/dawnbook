@@ -73,7 +73,7 @@ Hanya beberapa hari setelah invasi Rusia ke Ukraina pada Februari 2022, FIFA (be
 - Keputusan ini menciptakan **preseden hukum** yang kuat. Ke depan, publik global akan menuntut keadilan serupa apabila konflik militer terjadi di belahan dunia lain.
 - **Tekanan Sponsor**: Di balik argumen moral, keputusan penangguhan ini juga didorong oleh keprihatinan komersial. Para sponsor besar enggan merek mereka dikaitkan dengan negara yang tengah melakukan agresi militer.
 
-### Menuju Diplomasi Sepak Bola yang Baru
+### Diplomasi Pragmatis FIFA
 
 Masa depan Piala Dunia akan ditandai dengan **"Diplomasi Pragmatis"**. FIFA mungkin tidak akan pernah bisa benar-benar netral, tetapi mereka harus belajar menyeimbangkan kepentingan politik tanpa menghancurkan esensi sepak bola itu sendiri.
 
