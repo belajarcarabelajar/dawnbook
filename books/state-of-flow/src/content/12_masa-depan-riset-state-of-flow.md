@@ -76,6 +76,6 @@ Meskipun terdengar menjanjikan, riset masa depan juga menghadapi dilema etis yan
 
 Masa depan riset *state of flow* tidak lagi memandang kondisi ini sebagai sesuatu yang mistis. Kita sedang bergerak menuju dunia di mana **kemampuan untuk masuk ke dalam flow dianggap sebagai literasi dasar**, sama pentingnya dengan membaca atau berhitung.
 
-Dengan bantuan AI, neurosains, dan desain yang cerdas, kita tidak hanya akan bekerja lebih cepat, tetapi juga lebih bahagia, karena kita menghabiskan lebih banyak waktu dalam kondisi di mana diri kita menghilang dan keahlian kita memuncak.
+Dengan bantuan AI, neurosains, dan desain yang cerdas, kita tidak hanya akan bekerja lebih cepat, tetapi juga lebih bahagia, karena kita menghabiskan lebih banyak waktu dalam kondisi saat kesadaran diri menghilang dan keahlian kita berada di puncaknya.
 
 > "Masa depan bukan tentang bekerja lebih keras, tetapi tentang hidup lebih banyak dalam aliran (flow)."

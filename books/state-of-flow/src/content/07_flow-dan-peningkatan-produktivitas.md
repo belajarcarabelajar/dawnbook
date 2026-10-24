@@ -71,7 +71,7 @@ Bekerja dalam **kondisi flow** adalah seperti mengaktifkan sistem *turbocharger*
 #### Penulisan Kreatif atau Laporan
 
 - **Tanpa Flow:** Menatap layar kosong selama satu jam, menulis satu paragraf, menghapusnya, dan merasa lelah secara mental.
-- **Dalam Flow:** Kata-kata seolah "tumpah" dari pikiran ke jari-jari. Penulis tidak lagi memikirkan tata bahasa secara kaku, melainkan fokus pada penyampaian narasi. Laporan 2000 kata selesai dalam sekali duduk dengan struktur yang sangat logis.
+- **Dalam Flow:** Kata-kata seolah "tumpah" dari pikiran ke jari-jari. Penulis tidak lagi memikirkan tata bahasa secara kaku, melainkan fokus pada penyampaian narasi. Laporan 2000 kata selesai dalam sekali duduk dengan struktur yang logis.
 
 ### 7\. Strategi Implementasi
 

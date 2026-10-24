@@ -51,7 +51,7 @@ Dimana:
 - $R$: *Recovery* (Kualitas istirahat/pemulihan)
 - $C$: *Cost* (Beban fisik dan mental yang dikeluarkan)
 
-**Pesan utamanya:** Jika $R$ (pemulihan) mendekati nol, maka $S$ (keberlanjutan) juga akan hancur, tidak peduli seberapa tinggi intensitas flow kamu.
+**Pesan utamanya:** Jika $R$ (pemulihan) mendekati nol, maka $S$ (keberlanjutan) juga akan merosot, tidak peduli seberapa tinggi intensitas flow kamu.
 
 ### Kasus "The Crunch" di Industri Kreatif
 
@@ -72,4 +72,4 @@ Bagaimana cara kita menikmati manfaat flow tanpa jatuh ke dalam risikonya? Berik
 
 *Adiksi terhadap flow bukan sekadar risiko teoritis - ia adalah perangkap nyata yang bisa membuat kamu melupakan janji penting, mengabaikan orang-orang terdekat, dan pada akhirnya kehilangan kendali atas aktivitas yang seharusnya kamu kendalikan.*
 
-> **Insight Memorable:** Flow adalah pelayan yang luar biasa, tetapi tuan yang kejam. Gunakan ia untuk meningkatkan kualitas hidup kamu, bukan untuk menggantikan kehidupan kamu.
+> **Insight Memorable:** Flow adalah pelayan yang baik, tetapi tuan yang kejam. Gunakan ia untuk meningkatkan kualitas hidup kamu, bukan untuk menggantikan kehidupan kamu.

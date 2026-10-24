@@ -16,7 +16,7 @@ Pencarian ini membawanya ke Amerika Serikat, di mana ia mulai mempelajari proses
 
 ## 2\. Fenomena "Pelukis yang Lupa Makan"
 
-Pada tahun 1960-an, Csikszentmihalyi melakukan studi mendalam terhadap para seniman, khususnya pelukis. Ia mengamati sesuatu yang sangat aneh namun konsisten:
+Pada tahun 1960-an, Csikszentmihalyi melakukan studi mendalam terhadap para seniman, khususnya pelukis. Ia mengamati sesuatu yang aneh namun konsisten:
 
 - **Konsentrasi Total:** Saat seorang pelukis sedang mengerjakan karyanya, mereka tampak berada dalam kondisi trans. Mereka mengabaikan rasa lapar, lelah, dan bahkan rasa sakit fisik.
 - **Kehilangan Motivasi Setelah Selesai:** Hal yang paling mengejutkan bagi Mihaly adalah ketika lukisan itu selesai. Begitu kanvas terisi penuh, pelukis tersebut seringkali kehilangan minat pada hasil karyanya dan segera memikirkan proyek berikutnya.
