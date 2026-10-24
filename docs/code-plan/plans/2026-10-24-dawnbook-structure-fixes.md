@@ -116,8 +116,21 @@ tasks:
       - cmd: "bun run build"
         expect_exit: 0
         retry: 0
+  - id: P1
+    depends_on: [O1, O2, O3, O4]
+    impacts: ["chapter prose of all 60 books: inflated metaphors replaced with plain wording (owner request 2026-10-24, same PR) - bun run check:structure; bun run check:voice"]
+    files: { create: [], modify: [], test: [] }
+    idempotency_key: "P1:plain-wording"
+    verify_exit: 0
+    run:
+      - cmd: "bun run check:structure"
+        expect_exit: 0
+        retry: 0
+      - cmd: "bun run check:voice"
+        expect_exit: 0
+        retry: 0
   - id: D1
-    depends_on: [G1]
+    depends_on: [G1, P1]
     impacts: ["merge order in pr.registry.json - bun ~/vivera/scripts/pr-registry.mjs order"]
     files: { create: [], modify: [], test: [] }
     idempotency_key: "D1:pull-request"
@@ -136,10 +149,12 @@ Trigger: `bun run scripts/check-book-structure.ts <slug>` fails on `main` (7d1f7
 - [x] Measure (2026-10-24, `main` 7d1f7ee): `checkBookStructure` over all 60 books in `books/` (slugs starting with `_` skipped), 764 chapters. 46 books fail, 14 pass. Problems by kind: truncated opener 167 (46 books), level-1 chapter title 43 (8 books), repeated heading 26 (16 books), first heading differs from SUMMARY title 17 (11 books). No em dash, emoji, "Anda", bad link, stray file, SUMMARY/disk or `book.toml` problems. Harness: `$HOME/.cache/tmp/dawnbook-voice-pass/measure-structure.ts`.
 - [x] Measure opener lengths: first sentence of the 167 truncated openers is 153 to 284 characters (median 184): 72 at 156-180, 65 at 181-220, 27 at 221-300. Three at 153-154 characters still fail, because each holds straight double quotes: `escapeHtml` turns each into `&quot;`, the escaped meta passes 160, and `siteMeta` falls back to the 145-character cut. Harness: `opener-lengths.ts` in the same folder.
 - [x] Plan gate: owner approves this plan. Evidence: AskUserQuestion 2026-10-24: Plan = Approve, start after the crutch-cap PR; Repeats = at most 1 chapter per section heading (pairs fail), as in GEMINI.md section 21.
-- [ ] L1: 43 level-1 chapter titles become level-2 (`#` to `##` on the first heading line only).
-- [ ] H1: 17 heading/SUMMARY mismatches and 26 repeated headings resolved, one subagent per book, judgement per case.
-- [ ] O1-O4: 167 openers whose first sentence survives the meta cut, one subagent per book.
-- [ ] G1: test-first, `check-book-structure` over all books in `bun run build` and as `bun run check:structure`.
+- [x] L1: 43 level-1 chapter titles become level-2 (`#` to `##` on the first heading line only).
+- [x] H1: 17 heading/SUMMARY mismatches and 26 repeated headings resolved, one subagent per book, judgement per case.
+- [x] O1-O4: 167 openers whose first sentence survives the meta cut, one subagent per book.
+- [x] G1: test-first, `check-book-structure` over all books in `bun run build` and as `bun run check:structure`.
+- [x] P1: plain wording instead of inflated metaphors in all 60 books (owner request mid-session), one subagent per book, three reviewers; then the heading pass on all 60 books and the teori-gaya-kelekatan template fix.
+- Evidence (2026-10-24, worktree HEAD 456c303, 285 commits, 723 files over origin/main): `bun run scripts/check-book-structure.ts --all` exit 0; `bun run check:voice` exit 0; `bun run scripts/check-heading-colons.ts` exit 0; `bun run scripts/check-repeated-headings.ts` exit 0; `bun run check:diagrams` exit 0; `bun test tests/scripts/ tests/books/` exit 0, 606 pass, 0 fail; `bun run build` exit 0. The build log has 6 mdBook "html parse error" warnings in 3 chapters (algoritma-x 07, human-capital 04, siklus-hidrologi 03); the same stray `<` lines exist on origin/main, so they predate this PR and go to the backlog.
 - [ ] D1: one PR; merge asked alone; deploy, D1 seed and GSC reindex asked separately.
 
 ## Measurement
@@ -183,7 +198,12 @@ flowchart TD
     O2 --> G1
     O3 --> G1
     O4 --> G1
+    O1 --> P1["P1: plain wording, 60 books"]
+    O2 --> P1
+    O3 --> P1
+    O4 --> P1
     G1 --> D1["D1: PR, merge and deploy asked"]
+    P1 --> D1
 ```
 
 ## Tasks
@@ -214,6 +234,15 @@ Same as O1 for wave O4.
 Test-first, following the check-voice pattern (`runVoiceGate` in `scripts/build.ts`).
 Seams: `runStructureGate(booksDir)` exported from `scripts/check-book-structure.ts` (catches any book with a problem, skips `_` slugs; misses nothing the per-book check finds), its `--all` CLI, the `check:structure` package script, and its call in `scripts/build.ts` before the mdBook builds (asserted by order in `tests/scripts/build.test.ts`, like the voice gate test).
 RED: a fixture book with a level-1 title and one with a truncated opener make the gate fail; a clean fixture passes; an `_template`-style slug is skipped. Then implement, then run the whole run[] list. Add one line to GEMINI.md (section 8 or 24) naming the gate and its rule ids, with a revert line.
+
+### Task P1
+Added mid-session at the owner's request (2026-10-24): "\"tarian biologis\" hal2 semacam ini jelek dalam kepenulisan karena hiperbola seolah bukan ditulis manusia, cek yg serupa dan parafrasa dalam PR yg sama ini". One subagent per book, all 60 books, each reading every content chapter (Referensi skipped) and replacing decorative, inflated figures with plain wording: "tarian/simfoni/orkestra" for ordinary mechanisms, "keajaiban", "revolusioner", "mahakarya", "jantung dari", "bahan bakar", "pilar", "jembatan emas", "badai kehidupan", empty "sangat/luar biasa/krusial", and grand framing ("Selamat datang di jantung ..."). Literal uses (vortex "pusaran", weather "badai", the reliefs' "surga/neraka"), teaching analogies that carry the explanation, quotes, headings, tables, math, Mermaid and links stay. Rewriting never adds a fact or changes a hedge (section 29 rule 6); a replaced first sentence stays within 155 characters and never becomes a stock frame ("Bab ini membahas"). Guard: `hyperbole-guard.py` (only prose paragraphs change, paragraph count and links fixed, no em dash or "Anda"), plus `check-book-structure`, `check-voice` and the book test per book, then one commit per book with its author identity. Three read-only reviewers read every book's word-diff for added content, meaning drift and broken sentences.
+
+Heading pass (owner answer 2026-10-24, Headings = "Fix in this PR"): one subagent per book, all 60 books, contract `heading-contract.md` in the session scratch dir. Only heading lines, bold-only sub-titles, table rows and SUMMARY entries change; a renamed chapter title changes in its file and SUMMARY together. Same rules as above plus section 24: no colon or disguised two-part title, at most 2 headings per book start with one generic label (Ringkasan, Analogi, Skenario, Studi Kasus, Kesimpulan, Aplikasi Dunia Nyata), no heading text in two chapters. Guard: `heading-guard.py` (only those line kinds change, line count, link targets and table cell count fixed), then `check-book-structure`, `check-heading-colons`, `check-repeated-headings`, `check-voice` and the book test before each per-book commit. File names stay (renaming would change live URLs).
+
+Template fix (owner answer 2026-10-24, Repeat = "Rewrite in this PR"): teori-gaya-kelekatan carried the same "relasi bermakna" closing block (four pillars, Brené Brown quote, Kedalaman Relasi formula, action list) in all 12 chapters. It now stays only in chapter 12 (formula moved to a protected display block); chapters 04 and 09 got one tie-in sentence drawn from their own text, the rest end on their own closers.
+
+Small fixes found on the way, one commit each: an English "or" in bias-kognitif 01, "Imans" spelled "Imanensi" in eksistensialisme-dan-makna-hidup 10, "dipertahaman" in pembelajaran-multidisiplin 02, and "Air Superdingin (Supercooled Water)" restored in siklus-hidrologi 08.
 
 ### Task D1
 One PR through pr-registry. Merge asked alone. Deploy, the Phase F D1 seed (`content_md` changed) and the GSC reindex (meta descriptions changed on 167 pages) are each asked separately.
