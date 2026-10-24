@@ -1,6 +1,6 @@
 ## Kekeliruan Biaya Tertanam (Sunk Cost Fallacy)
 
-Pernahkah kamu duduk di dalam bioskop, menyadari bahwa film yang kamu tonton sangat buruk dan membosankan, namun kamu tetap bertahan hingga akhir hanya karena "sayang tiketnya sudah dibeli"? Atau mungkin, kamu terus memperbaiki mobil tua yang terus-menerus mogok karena kamu sudah menghabiskan jutaan rupiah untuk servis sebelumnya?
+Pernahkah kamu duduk di dalam bioskop, menyadari bahwa film yang kamu tonton sangat buruk dan membosankan, namun kamu tetap bertahan hingga akhir? Semua itu hanya karena "sayang tiketnya sudah dibeli". Atau mungkin, kamu terus memperbaiki mobil tua yang terus-menerus mogok karena kamu sudah menghabiskan jutaan rupiah untuk servis sebelumnya?
 
 Jika ya, kamu sedang terjebak dalam salah satu bias kognitif yang paling umum dan merusak secara finansial maupun emosional: **Kekeliruan Biaya Tertanam (Sunk Cost Fallacy).**
 

@@ -1,6 +1,6 @@
 ## Teknik Mitigasi dan Debiasing
 
-Setelah memahami berbagai jenis bias yang sering menjebak pikiran kita, muncul sebuah pertanyaan mendasar: *Jika otak kita secara alami dirancang untuk memiliki bias, apakah kita bisa memperbaikinya?*
+Kita sudah memahami berbagai jenis bias yang sering menjebak pikiran, dan dari situ muncul sebuah pertanyaan mendasar. *Jika otak kita secara alami dirancang untuk memiliki bias, apakah kita bisa memperbaikinya?*
 
 Kabar baiknya, meskipun kita tidak bisa menghapus bias sepenuhnya (karena itu adalah bagian dari evolusi otak), kita bisa melakukan **mitigasi** dan **debiasing**. Bayangkan cognitive bias seperti ilusi optik; meskipun mata kamu tetap melihat garis yang sama panjangnya sebagai berbeda, dengan menggunakan penggaris, kamu bisa tahu kenyataan yang sebenarnya dan bertindak berdasarkan data tersebut, bukan berdasarkan ilusi tersebut.
 

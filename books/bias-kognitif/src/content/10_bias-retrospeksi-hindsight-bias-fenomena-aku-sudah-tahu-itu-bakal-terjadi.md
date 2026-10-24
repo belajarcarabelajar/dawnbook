@@ -1,6 +1,6 @@
 ## Bias Retrospeksi (Hindsight Bias)
 
-Pernahkah kamu menonton pertandingan sepak bola di mana tim favorit kamu kalah, lalu teman kamu berkata, *"Sudah kuduga mereka bakal kalah, taktiknya saja sudah salah sejak awal"*? Padahal, sebelum pertandingan dimulai, teman kamu tersebut sangat yakin timnya akan menang.
+Pernahkah kamu menonton pertandingan sepak bola di mana tim favorit kamu kalah, lalu teman kamu berkata seolah sudah tahu hasilnya? *"Sudah kuduga mereka bakal kalah, taktiknya saja sudah salah sejak awal."* Padahal, sebelum pertandingan dimulai, teman kamu tersebut sangat yakin timnya akan menang.
 
 Inilah yang disebut dengan **Bias Retrospeksi** atau *Hindsight Bias*. Fenomena ini sering dijuluki sebagai efek **"I-knew-it-all-along"** (Saya-sudah-tahu-sejak-awal).
 
