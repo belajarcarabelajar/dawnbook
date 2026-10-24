@@ -1,6 +1,6 @@
 ## Self-Compassion
 
-Bayangkan seorang sahabat baikmu datang dengan wajah lesu dan bercerita bahwa ia baru saja melakukan kesalahan fatal di kantor. Kesalahan itu membuatnya merasa gagal total. Apa yang akan kamu katakan padanya? Apakah kamu akan membentaknya, menyebutnya "bodoh", atau menyuruhnya untuk "menyerah saja karena memang tidak berbakat"?
+Bayangkan seorang sahabat baikmu datang dengan wajah lesu dan bercerita bahwa ia baru saja melakukan kesalahan fatal di kantor. Hal itu membuatnya merasa gagal total. Apa yang akan kamu katakan padanya? Apakah kamu akan membentaknya, menyebutnya "bodoh", atau menyuruhnya untuk "menyerah saja karena memang tidak berbakat"?
 
 Tentu tidak. Kemungkinan besar, kamu akan menawarkan pelukan, secangkir kopi, dan kata-kata yang menenangkan seperti, *"Semua orang melakukan kesalahan, kita cari solusinya bersama ya."*
 
