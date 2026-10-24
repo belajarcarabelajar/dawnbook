@@ -138,7 +138,7 @@ Sebelum memulai pertemuan teknis atau koordinasi digital, kamu bisa membagikan k
 > 4. **Hasil dan action items**
 >    - Diisi saat rapat berlangsung: *action item*, penanggung jawab, dan tenggat waktu.
 
-## Kesimpulan
+## Struktur yang Menyalurkan Kecerdasan Kolektif
 
 Kemampuan fasilitasi berfokus pada penyusunan struktur agar kecerdasan kolektif tim dapat tersalurkan dengan baik, bukan tentang menjadi orang paling pintar di ruangan tersebut. Melalui persiapan matang, pendekatan inklusif, serta pengambilan keputusan yang transparan, kamu ikut berkontribusi membangun budaya kerja yang kolaboratif dan menghargai kontribusi setiap anggota.
 

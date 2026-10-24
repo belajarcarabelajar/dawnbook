@@ -92,7 +92,7 @@ Sebelum menekan tombol kirim atau menutup hari, luangkan waktu sejenak untuk mem
 *   Apakah saya sudah menyertakan latar belakang atau konteks yang memadai sebelum mengajukan pertanyaan penting?
 *   Bagaimana dengan penggunaan emoji? Apakah sudah ditempatkan sewajarnya untuk membantu menyampaikan intonasi ramah tanpa terkesan berlebihan?
 
-## Kesimpulan
+## Manusia Nyata di Balik Layar
 
 Etika komunikasi digital lebih dari sekadar kepatuhan pada aturan formal. Pada intinya, ini adalah bentuk nyata dari penghormatan terhadap waktu, fokus, dan energi orang lain. Di era digital ini, kecakapan kamu untuk menyampaikan gagasan secara terstruktur dan penuh empati lewat media elektronik akan menjadi salah satu modal terbesar dalam perjalanan karier kamu.
 

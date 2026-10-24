@@ -1,4 +1,4 @@
-## Membangun Trust dan Psychological Safety
+## Membangun Kepercayaan dan Keamanan Psikologis
 
 Bayangkan sebuah tim akrobat sirkus yang sedang melakukan atraksi *trapeze* di ketinggian 20 meter. Mengapa mereka berani melompat dan bersalto di udara tanpa ragu? Jawabannya bukan karena mereka tidak takut jatuh, melainkan karena ada jaring pengaman di bawah mereka. Latihan ribuan jam memang penting, tetapi jaring itulah yang memberi mereka keyakinan untuk mencoba gerakan ekstrem. Jika terjatuh, jaring tersebut siap menangkap mereka dari benturan fatal.
 
