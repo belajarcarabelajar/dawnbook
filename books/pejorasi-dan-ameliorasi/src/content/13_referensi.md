@@ -4,7 +4,7 @@ Daftar pustaka ini menghimpun literatur rujukan teoretis dan studi empiris menge
 
 Badudu, J. S. (1983). *Pelik-Pelik Bahasa Indonesia*. Pustaka Prima. [https://onesearch.id/Record/IOS3253.11182](https://onesearch.id/Record/IOS3253.11182)
 
-Bloomfield, L. (1933). *Language*. Henry Holt and Company. [https://archive.org/details/language0000leon_u3e7](https://archive.org/details/language0000leon_u3e7)
+Bloomfield, L. (1933). *Language*. Henry Holt and Company. [https://books.google.com/books/about/Language.html?id=u4T5zwEACAAJ](https://books.google.com/books/about/Language.html?id=u4T5zwEACAAJ)
 
 Campbell, L. (2013). *Historical Linguistics: An Introduction* (3rd ed.). Edinburgh University Press. [https://edinburghuniversitypress.com/book-historical-linguistics-third-edition.html](https://edinburghuniversitypress.com/book-historical-linguistics-third-edition.html)
 
@@ -24,4 +24,4 @@ Sudaryat, Y., & Kuswari, U. (2021). Dinamika Perubahan Nilai Rasa Bahasa: Analis
 
 Traugott, E. C., & Dasher, R. B. (2001). *Regularity in Semantic Change*. Cambridge University Press. [https://doi.org/10.1017/CBO9780511486500](https://doi.org/10.1017/CBO9780511486500)
 
-Ullmann, S. (1962). *Semantics: An Introduction to the Science of Meaning*. Basil Blackwell. [https://archive.org/details/semanticsintrodu0000ullm](https://archive.org/details/semanticsintrodu0000ullm)
+Ullmann, S. (1962). *Semantics: An Introduction to the Science of Meaning*. Basil Blackwell. [https://books.google.com/books/about/Semantics.html?id=VcWkO7XZ250C](https://books.google.com/books/about/Semantics.html?id=VcWkO7XZ250C)

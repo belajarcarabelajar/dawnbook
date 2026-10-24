@@ -10,7 +10,7 @@ Berikut daftar referensi akademis, arkeologis, filologis, dan sejarah yang menja
 2. **Fontein, Jan. (1989).** [*The Law of Cause and Effect in Ancient Java*](https://www.knaw.nl/en/publications/the-law-of-cause-and-effect-in-ancient-java). Amsterdam: Koninklijke Nederlandse Akademie van Wetenschappen.
    Studi komprehensif mengenai interpretasi ikonografi relief Karmawibhangga di Jawa Kuno serta hubungannya dengan teks-teks Buddhis Mahayana.
 
-3. **Krom, N.J. (1920).** [*Beschrijving van Barabudur: Archeologische Beschrijving*](https://archive.org/details/beschrijvingvanb01krom). 's-Gravenhage: Martinus Nijhoff.
+3. **Krom, N.J. (1920).** [*Beschrijving van Barabudur: Archeologische Beschrijving*](https://openlibrary.org/works/OL6691475W). 's-Gravenhage: Martinus Nijhoff.
    Karya monumental analisis arkeologis dan deskripsi detail seluruh panel relief Borobudur, termasuk analisis awal prasasti pendek (*inscripties*) pada kaki tersembunyi.
 
 4. **Lévi, Sylvain. (1932).** [*Mahākarmavibhaṅga et Karmavibhaṅgopadeśa: Textes Sanskrit Transcrits et Traduits*](https://catalogue.bnf.fr/ark:/12148/cb32381282k). Paris: Librairie Ancienne Honoré Champion.
@@ -21,7 +21,7 @@ Berikut daftar referensi akademis, arkeologis, filologis, dan sejarah yang menja
 
 ### Studi Filologi, Prasasti, dan Kebudayaan Jawa Kuno
 
-6. **Bernet Kempers, A.J. (1976).** [*Ageless Borobudur: Buddhist Mystery in Stone, Decay and Restoration, Mendut and Pawon, Folklife in Ancient Java*](https://archive.org/details/agelessborobudur0000bern). Wassenaar: Servire.
+6. **Bernet Kempers, A.J. (1976).** [*Ageless Borobudur: Buddhist Mystery in Stone, Decay and Restoration, Mendut and Pawon, Folklife in Ancient Java*](https://books.google.com/books/about/Ageless_Borobudur.html?id=MxENAQAAIAAJ). Wassenaar: Servire.
    Kajian visual mendalam mengenai kehidupan sehari-hari masyarakat Jawa Kuno abad ke-8 sampai ke-10 Masehi yang terekam pada detail lukisan relief.
 
 7. **de Casparis, J.G. (1950).** [*Inscripties uit de Śailendra-tijd (Prasasti dari Zaman Śailendra)*](http://sealang.net/indonesia/epigraphy.htm). Bandung: A.C. Nix & Co.
