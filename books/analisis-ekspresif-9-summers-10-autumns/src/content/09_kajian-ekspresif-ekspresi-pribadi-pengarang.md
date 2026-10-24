@@ -20,4 +20,4 @@ Penyejajaran antara rekam jejak autobiografis Iwan Setyawan dan teks novel mempe
 
 ### Dari Emosi Pribadi ke Kekuatan Iman di Perantauan
 
-Selain pergulatan emosional pribadi, keteguhan spiritual juga menjadi jangkar penting bagi pengarang dalam menghadapi badai kehidupan di perantauan. Di bab berikutnya, kita akan menelaah bagaimana nilai religi dan ketaatan kepada Tuhan terefleksikan secara mendalam dalam karya ini.
+Selain pergulatan emosional pribadi, keteguhan spiritual juga menjadi jangkar penting bagi pengarang dalam menghadapi badai kehidupan di perantauan. Seperti apa nilai religi dan ketaatan kepada Tuhan itu terefleksikan dalam karya ini?

@@ -35,4 +35,4 @@ Jika kita membandingkan data biografi asli Iwan Setyawan dengan representasi fik
 
 ### Merumuskan Arah Kajian
 
-Setelah meletakkan dasar teoritis mengenai kritik sastra ekspresif, kita membutuhkan rumusan yang lebih terarah untuk memandu analisis ini. Pada bab berikutnya, kita akan menyusun rumusan masalah, tujuan, dan manfaat penelitian secara terstruktur.
+Setelah meletakkan dasar teoritis mengenai kritik sastra ekspresif, kita membutuhkan rumusan yang lebih terarah untuk memandu analisis ini. Lalu, rumusan masalah, tujuan, dan manfaat seperti apa yang akan menuntun penelitian ini?

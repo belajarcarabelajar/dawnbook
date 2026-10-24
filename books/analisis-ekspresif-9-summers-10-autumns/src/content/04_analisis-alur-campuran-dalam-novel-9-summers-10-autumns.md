@@ -28,4 +28,4 @@ flowchart LR
 
 ### Memahami Sang Pelaku Cerita
 
-Aliran waktu yang dinamis dalam alur campuran ini digerakkan oleh para pelaku cerita. Mari kita melangkah ke bab berikutnya untuk menganalisis tokoh utama dan bagaimana karakter mereka didefinisikan secara mendalam.
+Aliran waktu yang dinamis dalam alur campuran ini digerakkan oleh para pelaku cerita. Lantas, siapa tokoh utamanya, dan bagaimana karakter mereka didefinisikan?
