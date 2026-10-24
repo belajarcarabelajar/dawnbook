@@ -1,6 +1,6 @@
 ## Visualisasi Alam Surga dan Neraka
 
-Pernahkah kamu membayangkan bagaimana seniman abad ke-8 memvisualisasikan konsep abstrak seperti "pahala" dan "siksa" tanpa bantuan teknologi CGI atau layar digital? Di kaki tersembunyi Borobudur, relief Karmawibhangga melakukan hal itu dengan luar biasa. Jika bagian sebelumnya membahas tentang *tindakan* manusia, maka bagian ini adalah tentang *destinasi* atau hasil akhir dari perjalanan jiwa tersebut.
+Pernahkah kamu membayangkan bagaimana seniman abad ke-8 memvisualisasikan konsep abstrak seperti "pahala" dan "siksa"? Mereka tidak punya bantuan teknologi CGI atau layar digital. Di kaki tersembunyi Borobudur, relief Karmawibhangga melakukan hal itu dengan luar biasa. Jika bagian sebelumnya membahas tentang *tindakan* manusia, maka bagian ini adalah tentang *destinasi* atau hasil akhir dari perjalanan jiwa tersebut.
 
 Relief ini bukan sekadar dekorasi, melainkan sebuah "peta kosmik" yang menggambarkan berbagai tingkatan alam keberadaan sebagai konsekuensi logis dari hukum sebab-akibat.
 

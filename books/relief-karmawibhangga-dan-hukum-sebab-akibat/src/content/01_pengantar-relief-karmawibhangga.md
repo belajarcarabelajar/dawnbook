@@ -1,6 +1,6 @@
 ## Pengantar Relief Karmawibhangga
 
-Pernahkah kamu membayangkan sebuah "buku raksasa" yang terbuat dari batu, yang mencatat setiap detail perilaku manusia, mulai dari gosip di pasar hingga tindakan mulia seorang raja? Di dasar Candi Borobudur, terdapat sebuah mahakarya yang melakukan tepat hal tersebut.
+Pernahkah kamu membayangkan sebuah "buku raksasa" yang terbuat dari batu, yang mencatat setiap detail perilaku manusia? Catatan itu merentang dari gosip di pasar hingga tindakan mulia seorang raja. Di dasar Candi Borobudur, terdapat sebuah mahakarya yang melakukan tepat hal tersebut.
 
 **Relief Karmawibhangga** adalah rangkaian panel cerita yang mengelilingi kaki candi. Namun, ada satu fakta unik: bagian ini tidak terlihat oleh mata wisatawan secara umum karena tertutup oleh struktur tambahan. Inilah pintu gerbang pertama untuk memahami dasar pemikiran Buddhis yang tertanam dalam arsitektur Borobudur.
 

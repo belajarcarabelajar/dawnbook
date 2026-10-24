@@ -1,6 +1,6 @@
 ## Dokumentasi Kassian Cephas
 
-Bayangkan kamu memiliki sebuah buku cerita yang sangat indah, tetapi untuk memastikan rumah kamu tetap berdiri kokoh, kamu terpaksa menimbun buku tersebut di dalam fondasi semen. Cerita di dalamnya akan hilang selamanya, kecuali jika seseorang sempat memotret setiap halamannya sebelum semen itu dituang.
+Bayangkan kamu memiliki sebuah buku cerita yang sangat indah, tetapi kamu terpaksa menimbunnya di dalam fondasi semen rumahmu. Itulah harga agar rumah kamu tetap berdiri kokoh. Cerita di dalamnya akan hilang selamanya, kecuali jika seseorang sempat memotret setiap halamannya sebelum semen itu dituang.
 
 Inilah analogi yang tepat untuk peran **Kassian Cephas** terhadap relief Karmawibhangga di Candi Borobudur. Tanpa bidikan kameranya, 160 panel yang menggambarkan hukum sebab-akibat ini mungkin hanya akan menjadi mitos yang terkubur di balik kaki tambahan (encasement) candi.
 

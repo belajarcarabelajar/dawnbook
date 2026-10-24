@@ -1,6 +1,6 @@
 ## Referensi
 
-Berikut adalah daftar referensi akademis, arkeologis, filologis, dan sejarah yang menjadi rujukan dalam penyusunan buku mengenai relief Karmawibhangga di Candi Borobudur. Kamu dapat merujuk pada karya-karya ilmiah dan tautan rujukan berikut untuk pendalaman studi lebih lanjut:
+Berikut daftar referensi akademis, arkeologis, filologis, dan sejarah yang menjadi rujukan buku tentang relief Karmawibhangga di Candi Borobudur. Kamu dapat merujuk pada karya-karya ilmiah dan tautan rujukan berikut untuk pendalaman studi lebih lanjut:
 
 ### Publikasi Arkeologi dan Epigrafi Utama
 

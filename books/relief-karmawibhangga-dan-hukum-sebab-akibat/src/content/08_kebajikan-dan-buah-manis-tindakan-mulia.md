@@ -1,6 +1,6 @@
 ## Kebajikan dan Buah Manis Tindakan Mulia
 
-Setelah sebelumnya kita melihat bagaimana tindakan negatif berujung pada penderitaan, kini kita akan membalik lembaran relief Karmawibhangga untuk melihat sisi yang penuh harapan dan cahaya. Jika relief Borobudur adalah sebuah cermin, maka bagian ini adalah bagian yang memantulkan wajah terbaik kemanusiaan.
+Setelah melihat bagaimana tindakan negatif berujung pada penderitaan, kini kita membalik lembaran relief Karmawibhangga ke sisi yang lain. Sisi ini penuh harapan dan cahaya. Jika relief Borobudur adalah sebuah cermin, maka bagian ini adalah bagian yang memantulkan wajah terbaik kemanusiaan.
 
 Di kaki tersembunyi Borobudur, terdapat panel-panel yang secara visual sangat kontras dengan panel hukuman. Suasananya lebih tenang, komposisinya lebih harmonis, dan ekspresi tokoh-tokohnya memancarkan kedamaian. Inilah visualisasi dari **Kusala Karma** (perbuatan baik).
 

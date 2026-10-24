@@ -1,6 +1,6 @@
 ## Naskah Mahakarmawibhangga
 
-Pernahkah kamu membayangkan bagaimana para pemahat di abad ke-8 dapat menciptakan 160 panel relief yang begitu konsisten dalam menceritakan hukum sebab-akibat yang kompleks? Mereka tidak bekerja hanya berdasarkan imajinasi semata. Ada sebuah "skenario" atau panduan tertulis yang menjadi acuan utama mereka. Panduan itu adalah naskah **Mahakarmawibhangga**.
+Pernahkah kamu membayangkan bagaimana para pemahat di abad ke-8 dapat menciptakan 160 panel relief yang begitu konsisten? Semua panel itu menceritakan hukum sebab-akibat yang kompleks. Mereka tidak bekerja hanya berdasarkan imajinasi semata. Ada sebuah "skenario" atau panduan tertulis yang menjadi acuan utama mereka. Panduan itu adalah naskah **Mahakarmawibhangga**.
 
 Dalam bagian ini, kita akan membedah naskah Sanskerta kuno ini, bukan hanya sebagai karya sastra, tetapi sebagai cetak biru intelektual yang memungkinkan pesan moral Borobudur tersampaikan secara visual.
 
