@@ -1,6 +1,6 @@
 ## Gaya Kelekatan Takut-Menghindar (Fearful-Avoidant)
 
-Selamat datang di pembahasan tentang salah satu gaya kelekatan yang paling kompleks dan menantang secara emosional. Jika gaya kelekatan cemas membuat seseorang "mengejar" dan gaya menghindar membuat seseorang "menjauh", gaya **Takut-Menghindar (Fearful-Avoidant)** (atau yang sering disebut dalam literatur klinis sebagai **Disorganized Attachment**) adalah kombinasi membingungkan dari keduanya.
+Salah satu gaya kelekatan yang paling kompleks dan menantang secara emosional kini menjadi pokok pembahasan kita. Jika gaya kelekatan cemas membuat seseorang "mengejar" dan gaya menghindar membuat seseorang "menjauh", gaya **Takut-Menghindar (Fearful-Avoidant)** (atau yang sering disebut dalam literatur klinis sebagai **Disorganized Attachment**) adalah kombinasi membingungkan dari keduanya.
 
 Bayangkan kamu sedang berdiri di depan pintu rumah yang hangat saat badai salju, namun setiap kali kamu menyentuh gagang pintunya, kamu merasa tanganmu terbakar. Itulah inti dari dunia emosional individu dengan gaya *Fearful-Avoidant*.
 

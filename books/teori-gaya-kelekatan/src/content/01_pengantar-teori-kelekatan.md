@@ -1,6 +1,6 @@
 ## Pengantar Teori Kelekatan
 
-Selamat datang di awal perjalanan untuk memahami diri kamu dan orang-orang di sekitar kamu dengan lebih mendalam. Pernahkah kamu bertanya-tanya mengapa beberapa orang tenang dalam hubungan, sementara yang lain merasa gelisah atau justru ingin menjauh saat keintiman mulai terbentuk?
+Memahami diri kamu dan orang-orang di sekitar kamu dengan lebih mendalam adalah sebuah perjalanan, dan halaman ini menjadi langkah pertamanya. Pernahkah kamu bertanya-tanya mengapa beberapa orang tenang dalam hubungan, sementara yang lain merasa gelisah atau justru ingin menjauh saat keintiman mulai terbentuk?
 
 Jawabannya sering kali terletak pada **Teori Kelekatan (Attachment Theory)**. Teori ini berfungsi sebagai peta jalan yang menjelaskan cara kita mencintai, memercayai, dan berinteraksi dengan dunia sejak lahir hingga hari tua.
 
