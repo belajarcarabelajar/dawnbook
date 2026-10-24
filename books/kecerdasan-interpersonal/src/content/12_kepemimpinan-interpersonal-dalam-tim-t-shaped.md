@@ -1,6 +1,6 @@
 ## Kepemimpinan Interpersonal dalam Tim T-Shaped
 
-Selamat datang di modul penutup! Setelah kita mempelajari berbagai elemen kecerdasan interpersonal, mulai dari mendengar aktif hingga membangun keamanan psikologis, kini saatnya kita menyatukan semua kepingan tersebut.
+Dari mendengar aktif hingga keamanan psikologis, semua kepingan kecerdasan interpersonal yang sudah kita pelajari kini disatukan di modul penutup ini.
 
 Dalam tim modern, kepemimpinan tidak lagi dijalankan melalui instruksi kaku dari atas ke bawah. Kepemimpinan interpersonal dalam konteks *T-Shaped Professional* adalah kemampuan untuk menyatukan berbagai keahlian mendalam (spesialis) menjadi sebuah solusi utuh yang selaras dengan visi perusahaan.
 
