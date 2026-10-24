@@ -30,7 +30,7 @@ Pemerintah menggunakan konsep elastisitas untuk menentukan barang mana yang akan
 Dalam mikroekonomi, kita mempelajari bagaimana pasar mencapai keseimbangan. Elastisitas membantu kita memprediksi seberapa cepat pasar akan kembali ke titik normal setelah terjadi guncangan (seperti bencana alam atau perubahan teknologi).
 ## Perang Harga Supermarket
 Bayangkan dua produk di rak supermarket: **Garam** dan **Sereal Cokelat**.
-- **Skenario A (Garam):** Garam tidak punya banyak substitusi dan hanya menyerap sebagian kecil anggaran bulanan kamu. Jika harga garam naik dari Rp2.000 menjadi Rp3.000 (naik 50%), kamu mungkin akan tetap membelinya dalam jumlah yang sama. **Garam memiliki elastisitas rendah (inelastis).**
+- **Skenario A (Garam):** Garam tidak punya banyak substitusi dan hanya menyerap sebagian kecil anggaran bulanan kamu. Jika harga garam naik dari Rp2.000 menjadi Rp3.000 (naik 50%), kamu mungkin akan membelinya dalam jumlah yang sama. **Garam memiliki elastisitas rendah (inelastis).**
 - **Skenario B (Sereal Cokelat):** Ada sepuluh merk sereal cokelat yang berbeda. Jika Merk X menaikkan harga sebesar 20%, konsumen akan langsung menoleh ke Merk Y atau Z yang lebih murah. **Sereal Merk X memiliki elastisitas tinggi (elastis).**
 **Pelajaran bagi pemilik toko:** Mereka bisa menaikkan harga barang inelastis untuk menutupi biaya operasional, tetapi mereka harus sangat berhati-hati (sering mengadakan promo) untuk barang yang elastis agar tidak kehilangan pelanggan.
 ## Refleksi Pembelajaran

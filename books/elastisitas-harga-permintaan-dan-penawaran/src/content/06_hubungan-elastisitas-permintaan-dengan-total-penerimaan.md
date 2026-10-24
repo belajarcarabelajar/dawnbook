@@ -25,7 +25,7 @@ Pada kondisi ini, konsumen sangat sensitif terhadap perubahan harga. Perubahan h
 Di sini, konsumen tidak terlalu sensitif terhadap perubahan harga. Biasanya ini terjadi pada barang kebutuhan pokok atau barang yang tidak memiliki banyak substitusi.
 - **Jika Harga Turun:** Persentase kenaikan jumlah yang diminta ($Q$) lebih kecil daripada persentase penurunan harga ($P$). Hasilnya, **Total Revenue akan turun**.
 - **Jika Harga Naik:** Persentase penurunan jumlah yang diminta ($Q$) lebih kecil daripada persentase kenaikan harga ($P$). Hasilnya, **Total Revenue akan naik**.
-**Analogi:** Bayangkan kamu adalah satu-satunya penyedia air bersih di sebuah desa terpencil. Jika kamu menaikkan harga, orang-orang mungkin akan sedikit lebih hemat, tetapi mereka tetap harus membeli air dari kamu karena membutuhkannya untuk bertahan hidup.
+**Analogi:** Bayangkan kamu adalah satu-satunya penyedia air bersih di sebuah desa terpencil. Jika kamu menaikkan harga, orang-orang mungkin akan sedikit lebih hemat, tetapi mereka masih harus membeli air dari kamu karena membutuhkannya untuk bertahan hidup.
 #### C. Permintaan Elastis Uniter
 Kondisi ini jarang terjadi di dunia nyata secara sempurna, namun penting secara teoretis.
 - **Jika Harga Naik atau Turun:** Persentase perubahan harga ($P$) sama persis dengan persentase perubahan jumlah yang diminta ($Q$). Hasilnya, **Total Revenue tetap sama (konstan)**.
@@ -58,7 +58,7 @@ flowchart LR
 
 ### 5. Aplikasi Dunia Nyata & Kasus Bisnis
 #### Industri Maskapai Penerbangan
-Maskapai menggunakan sistem *dynamic pricing*. Untuk tiket kelas bisnis yang biasanya dibeli oleh pelancong bisnis (permintaan inelastis karena mendesak dan dibayar kantor), harga dipasang tinggi. Menaikkan harga pada segmen ini akan meningkatkan $\text{TR}$ maskapai. Sebaliknya, untuk tiket promo liburan (permintaan elastis), mereka sering memberikan diskon untuk mengisi kursi yang kosong agar $\text{TR}$ tetap naik.
+Maskapai menggunakan sistem *dynamic pricing*. Untuk tiket kelas bisnis yang biasanya dibeli oleh pelancong bisnis (permintaan inelastis karena mendesak dan dibayar kantor), harga dipasang tinggi. Menaikkan harga pada segmen ini akan meningkatkan $\text{TR}$ maskapai. Sebaliknya, untuk tiket promo liburan (permintaan elastis), mereka sering memberikan diskon untuk mengisi kursi yang kosong agar $\text{TR}$ naik.
 #### Tarif Tol
 Pemerintah atau pengelola jalan tol sering menaikkan tarif tol. Karena jalan tol sering kali tidak memiliki substitusi yang sepadan (jalan arteri yang macet), permintaannya cenderung inelastis. Kenaikan tarif biasanya berujung pada kenaikan total pendapatan bagi pengelola tol.
 #### Produk Teknologi (Smartphone)
@@ -68,4 +68,4 @@ Memahami hubungan ini membantu produsen menghindari kesalahan dalam penetapan ha
 1. **Jangan memotong harga** jika produk kamu bersifat **inelastis**, karena kamu hanya akan kehilangan uang tanpa mendapatkan cukup banyak pelanggan baru untuk menutupi kerugian tersebut.
 2. **Jangan menaikkan harga** jika produk kamu bersifat **sangat elastis**, karena pelanggan akan berpindah dalam jumlah besar, dan total uang di kasir kamu akan berkurang drastis.
 3. **Tujuan akhir** perusahaan yang ingin memaksimalkan pendapatan adalah mencoba menetapkan harga sedemikian rupa sehingga mereka beroperasi sedekat mungkin dengan titik **elastisitas uniter**.
-> **Pesan Utama:** Mengetahui elastisitas produk kamu adalah kunci untuk memahami apakah cara terbaik untuk mendapatkan lebih banyak uang adalah dengan membuat barang kamu lebih mahal atau justru membuatnya lebih murah.
+> **Pesan Utama:** Mengetahui elastisitas produk kamu adalah kunci untuk memahami apakah cara terbaik untuk mendapatkan lebih banyak uang adalah dengan membuat barang kamu lebih mahal atau membuatnya lebih murah.
