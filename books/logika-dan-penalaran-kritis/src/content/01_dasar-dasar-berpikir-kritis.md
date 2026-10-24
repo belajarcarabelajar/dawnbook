@@ -1,6 +1,6 @@
 ## Dasar-Dasar Berpikir Kritis
 
-Selamat datang di langkah pertama perjalanan kamu mengasah ketajaman pikiran. Di era ketika informasi mengalir lebih cepat daripada kemampuan kita untuk memprosesnya, berpikir kritis bukan lagi sekadar keterampilan akademik, melainkan sebuah **mekanisme pertahanan diri**.
+Langkah pertama untuk mengasah ketajaman pikiran kamu adalah memahami apa sebenarnya berpikir kritis itu dan mengapa ia penting. Di era ketika informasi mengalir lebih cepat daripada kemampuan kita untuk memprosesnya, berpikir kritis bukan lagi sekadar keterampilan akademik, melainkan sebuah **mekanisme pertahanan diri**.
 
 ## Apa Itu Berpikir Kritis?
 
