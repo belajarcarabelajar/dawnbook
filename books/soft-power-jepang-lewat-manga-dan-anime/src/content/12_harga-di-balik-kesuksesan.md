@@ -8,15 +8,15 @@ Sepanjang buku ini, manga dan anime tampil sebagai wajah Jepang di mata dunia. B
 
 Mulailah dari meja paling bawah. Animator antara (*douga*) menggambar bingkai-bingkai di antara gerakan kunci. Survei JAniCA tahun 2023, seperti dilaporkan [nippon.com](https://www.nippon.com/en/in-depth/d01174/), menemukan penghasilan rata-rata mereka 2,63 juta yen setahun. Rata-rata seluruh industri anime 4,56 juta yen, hampir sama dengan 4,60 juta yen untuk seluruh pegawai sektor swasta Jepang.
 
-Rata-rata industri yang tampak wajar itu menyembunyikan jurang di bagian bawah. Animator antara dibayar jauh di bawah rata-rata industrinya sendiri.
+Rata-rata industri yang tampak wajar itu menyembunyikan selisih yang lebar di bagian bawah. Animator antara dibayar jauh di bawah rata-rata industrinya sendiri.
 
 Ada perbaikan, dan itu layak dicatat. Pada 2009, animator antara rata-rata hanya mendapat 1,1 juta yen setahun. Porsi pekerja lepas juga turun dari 69,6 persen pada 2019 menjadi 47,3 persen pada 2023. Namun arah yang benar belum tentu berarti sudah sampai.
 
 ### Dua Ratus Sembilan Belas Jam Sebulan
 
-Survei lain melukis gambaran yang lebih muram. Survei pertama NAFCA, yang dijalankan pada Desember 2023 sampai Januari 2024 terhadap 323 responden dan dilaporkan Animehunch, mendapati pekerja anime rata-rata bekerja 219 jam sebulan. Rata-rata nasionalnya 162,3 jam.
+Survei lain memberi gambaran yang lebih muram. Survei pertama NAFCA, yang dijalankan pada Desember 2023 sampai Januari 2024 terhadap 323 responden dan dilaporkan Animehunch, mendapati pekerja anime rata-rata bekerja 219 jam sebulan. Rata-rata nasionalnya 162,3 jam.
 
-Lalu ada angka yang paling menohok. Median upah per jam para responden 1.111 yen, sedikit di bawah upah minimum Tokyo yang 1.113 yen. Bayangkan kamu menggambar adegan yang ditonton jutaan orang di berbagai benua, lalu bayaran per jammu kalah dari batas terendah yang diizinkan hukum di kota tempatmu bekerja.
+Lalu ada upah per jam. Median upah per jam para responden 1.111 yen, sedikit di bawah upah minimum Tokyo yang 1.113 yen. Bayangkan kamu menggambar adegan yang ditonton jutaan orang di berbagai benua, lalu bayaran per jammu kalah dari batas terendah yang diizinkan hukum di kota tempatmu bekerja.
 
 ### Laporan Regulator Persaingan Usaha
 

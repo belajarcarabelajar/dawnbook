@@ -24,7 +24,7 @@ Contoh yang diangkat Sakuga Blog adalah *Akira*, salah satu film awal yang dibia
 
 ### Animator di Pinggir Meja
 
-Satu pihak sering hanya kebagian ujung meja itu. Studio animasi, tempat para animator benar-benar menggambar, sering hanya menjadi anggota kecil komite, dan kerap tidak menjadi anggota sama sekali, masih menurut tulisan yang sama. Akibatnya, ketika sebuah judul meledak, sebagian besar hasilnya bisa mengalir ke pihak lain, bukan ke tangan yang membuat gambarnya bergerak. Ketimpangan ini dibahas lebih dalam di bab 12.
+Satu pihak sering hanya kebagian ujung meja itu. Studio animasi, tempat para animator benar-benar menggambar, sering hanya menjadi anggota kecil komite, dan kerap tidak menjadi anggota sama sekali, masih menurut tulisan yang sama. Akibatnya, ketika sebuah judul laris, sebagian besar hasilnya bisa mengalir ke pihak lain, bukan ke tangan yang membuat gambarnya bergerak. Ketimpangan ini dibahas lebih dalam di bab 12.
 
 ### Rantai Pokémon dari Konsol ke Bioskop
 

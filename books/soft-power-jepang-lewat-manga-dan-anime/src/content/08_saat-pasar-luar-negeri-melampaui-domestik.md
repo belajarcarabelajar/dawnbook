@@ -10,7 +10,7 @@ Bayangkan sebuah grafik dengan dua garis. Yang satu menggambarkan uang dari dala
 
 Menurut catatan AJA, pasar luar negeri sudah lebih besar daripada pasar domestik sejak 2023, dan jaraknya waktu itu masih tipis. ScreenDaily, yang mengutip data AJA, mencatat pendapatan luar negeri pada 2023 sebesar 1,72 triliun yen, sedikit di atas pasar domestik yang 1,62 triliun yen. ScreenDaily juga mencatat bahwa luar negeri pertama kali melampaui domestik pada 2020.
 
-Pada 2024 celahnya menganga. [Ringkasan *Anime Industry Report 2025*](https://aja.gr.jp/download/air2025samary_en) yang diterbitkan AJA pada Maret 2026 menempatkan pasar anime Jepang sepanjang 2024 pada rekor sekitar 3,84 triliun yen. Dari jumlah itu, 2.170,2 miliar yen datang dari luar negeri dan 1.670,5 miliar yen dari dalam negeri. Selisihnya hampir 500 miliar yen, sehingga lebih dari separuh nilai pasar kini datang dari luar Jepang.
+Pada 2024 selisihnya melebar. [Ringkasan *Anime Industry Report 2025*](https://aja.gr.jp/download/air2025samary_en) yang diterbitkan AJA pada Maret 2026 menempatkan pasar anime Jepang sepanjang 2024 pada rekor sekitar 3,84 triliun yen. Dari jumlah itu, 2.170,2 miliar yen datang dari luar negeri dan 1.670,5 miliar yen dari dalam negeri. Selisihnya hampir 500 miliar yen, sehingga lebih dari separuh nilai pasar kini datang dari luar Jepang.
 
 ### Lonjakan dalam Dua Belas Tahun
 
@@ -20,7 +20,7 @@ Sandingkan angka itu dengan 2.170,2 miliar yen pada 2024, dan hasilnya kira-kira
 
 ### Pintu Masuk Bernama Streaming
 
-Dulu anime menyeberang lewat stasiun televisi, kaset video, dan subtitle buatan penggemar. Sekarang pintunya adalah aplikasi di ponsel dan televisi pintar, dan dua perusahaan memperlihatkan pergeseran itu dengan sangat jelas.
+Dulu anime menyeberang lewat stasiun televisi, kaset video, dan subtitle buatan penggemar. Sekarang pintunya adalah aplikasi di ponsel dan televisi pintar, dan dua perusahaan memperlihatkan pergeseran itu dengan jelas.
 
 Yang pertama Crunchyroll. Di bab 5 kamu sudah melihat kelompok Sony membelinya pada Agustus 2021, ketika layanan itu baru punya 5 juta pelanggan berbayar. Per akhir Maret 2026, Sony melaporkan Crunchyroll telah melewati 21 juta pelanggan berbayar di seluruh dunia.
 

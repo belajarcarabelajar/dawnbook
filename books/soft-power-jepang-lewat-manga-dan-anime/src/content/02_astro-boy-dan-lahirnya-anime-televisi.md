@@ -8,7 +8,7 @@ Kalau kamu ingin tahu mengapa anime bisa menjadi alat *soft power* Jepang, tayan
 
 Catatan resmi [Tezuka Productions](https://tezukaosamu.net/en/anime/30.html), pengelola karya Osamu Tezuka, menyebut *Tetsuwan Atom* sebagai serial animasi televisi Jepang pertama yang berdurasi 30 menit per episode. Mushi Production membuatnya, dan serial itu tayang di Fuji TV dari 1 Januari 1963 sampai 31 Desember 1966 dengan total 193 episode.
 
-Hitung sebentar. Empat tahun dan 193 episode berarti rata-rata hampir satu episode setiap pekan. Animasi adalah pekerjaan yang lambat, karena setiap gerakan harus digambar. Menjaga pasokan sebanyak itu menuntut studio bekerja dengan ritme yang sangat ketat, dan ritme itu sudah ada sejak serial anime televisi yang pertama.
+Hitung sebentar. Empat tahun dan 193 episode berarti rata-rata hampir satu episode setiap pekan. Animasi adalah pekerjaan yang lambat, karena setiap gerakan harus digambar. Menjaga pasokan sebanyak itu menuntut studio bekerja dengan ritme yang ketat, dan ritme itu sudah ada sejak serial anime televisi yang pertama.
 
 Penonton membalas kerja itu. Pada puncaknya, rating serial ini mencapai 40,7 persen. Bagi stasiun televisi, angka seperti itu membuktikan bahwa kartun buatan dalam negeri bisa menarik pemirsa dalam jumlah besar.
 
@@ -16,9 +16,9 @@ Penonton membalas kerja itu. Pada puncaknya, rating serial ini mencapai 40,7 per
 
 Serial setengah jam setiap pekan butuh biaya, dan di titik ini sebatang cokelat masuk ke dalam cerita. Halaman penerbit buku Marc Steinberg mencatat bahwa produsen cokelat Meiji Seika mensponsori *Astro Boy* dan memasarkan produknya bersama sang tokoh, misalnya lewat stiker yang dibagikan bersama cokelat. Anak-anak tidak lagi hanya menonton Atom. Mereka mengumpulkannya. Tokoh yang tadinya hanya hidup setengah jam sepekan kini ikut pulang ke rumah bersama sebatang cokelat.
 
-Steinberg, peneliti media yang menulis *Anime's Media Mix* (2012), menganggap momen ini sangat penting. *Media mix*, istilah Jepang untuk apa yang di Barat disebut konvergensi media, ia anggap mulai menyala pada 1 Januari 1963 bersama *Astro Boy*. Dalam bacaannya, pemasaran cokelat itu mengubah Atom menjadi waralaba tokoh: sosok yang hidup di layar, di kemasan, dan di saku anak-anak sekaligus.
+Steinberg, peneliti media yang menulis *Anime's Media Mix* (2012), menganggap momen ini penting. *Media mix*, istilah Jepang untuk apa yang di Barat disebut konvergensi media, ia anggap mulai menyala pada 1 Januari 1963 bersama *Astro Boy*. Dalam bacaannya, pemasaran cokelat itu mengubah Atom menjadi waralaba tokoh: sosok yang hidup di layar, di kemasan, dan di saku anak-anak sekaligus.
 
-Steinberg juga menarik garis dari Atom ke waralaba yang datang belakangan, seperti Pokémon, Doraemon, dan Hello Kitty. Pelajarannya sederhana tetapi besar. Tokoh bisa menjadi aset yang bernilai lebih tinggi daripada tayangannya sendiri, karena ia bisa dijual berkali-kali dalam bentuk yang berbeda.
+Steinberg juga menarik garis dari Atom ke waralaba yang datang belakangan, seperti Pokémon, Doraemon, dan Hello Kitty. Pelajarannya sederhana. Tokoh bisa menjadi aset yang bernilai lebih tinggi daripada tayangannya sendiri, karena ia bisa dijual berkali-kali dalam bentuk yang berbeda.
 
 ### Jalan Atom Menuju Stasiun TV Amerika
 

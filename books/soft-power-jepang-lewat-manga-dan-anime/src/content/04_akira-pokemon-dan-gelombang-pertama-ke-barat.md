@@ -14,7 +14,7 @@ Inggris merasakannya lewat rak video. Helen McCarthy, yang dikutip Japan Times, 
 
 ### Monster Saku Menyerbu Televisi Amerika
 
-Jalur kedua dibuka oleh sesuatu yang sangat ramah anak. Di Jepang, *Pokémon* sudah menempuh rantai yang kamu lihat di bab 3, dari gim pertama pada 27 Februari 1996, serial televisi pada 1997, sampai film layar lebar pada 1998. Menurut [sejarah resmi The Pokémon Company](https://corporate.pokemon.co.jp/en/aboutus/history/), animenya mulai tayang di AS pada September 1998 di 111 stasiun televisi, pada tahun yang sama dengan peluncuran gim *Red* dan *Blue* di sana. Setahun kemudian, pada November 1999, filmnya mencetak angka box office yang kamu baca di awal bab.
+Jalur kedua dibuka oleh sesuatu yang ramah anak. Di Jepang, *Pokémon* sudah menempuh rantai yang kamu lihat di bab 3, dari gim pertama pada 27 Februari 1996, serial televisi pada 1997, sampai film layar lebar pada 1998. Menurut [sejarah resmi The Pokémon Company](https://corporate.pokemon.co.jp/en/aboutus/history/), animenya mulai tayang di AS pada September 1998 di 111 stasiun televisi, pada tahun yang sama dengan peluncuran gim *Red* dan *Blue* di sana. Setahun kemudian, pada November 1999, filmnya mencetak angka box office yang kamu baca di awal bab.
 
 Gim, serial, dan film itu tidak datang sendiri-sendiri. Ketiganya tiba berdekatan dan kemungkinan saling mendorong: anak yang menonton serialnya ingin memainkan gimnya, dan anak yang memainkan gimnya ikut antre di bioskop. Pola waralaba lintas media yang matang di Jepang kini bekerja di pasar luar negeri.
 
@@ -24,7 +24,7 @@ Jalur ketiga lebih senyap, yaitu manga itu sendiri, dan ukurannya baru terlihat 
 
 ### Tiga Jalur, Tiga Jenis Penonton
 
-Jajarkan ketiganya, dan polanya kelihatan. *Akira* meyakinkan penonton dewasa dan kritikus. *Pokémon* masuk ke ruang keluarga lewat televisi, gim, dan bioskop. Manga *shonen* membangun pembaca setia yang membeli jilid demi jilid selama bertahun-tahun. Tidak satu pun menjangkau semua kalangan, tetapi bersama-sama mereka membuat anime dan manga hadir bagi penonton yang sangat berbeda.
+Jajarkan ketiganya, dan polanya kelihatan. *Akira* meyakinkan penonton dewasa dan kritikus. *Pokémon* masuk ke ruang keluarga lewat televisi, gim, dan bioskop. Manga *shonen* membangun pembaca setia yang membeli jilid demi jilid selama bertahun-tahun. Tidak satu pun menjangkau semua kalangan, tetapi bersama-sama mereka membuat anime dan manga hadir bagi penonton yang berbeda-beda.
 
 Karena itu gelombang ini tidak bisa disamakan dengan kampanye promosi biasa. Daya tariknya tidak bertumpu pada satu judul atau satu jenis penonton, sehingga ketika satu jalur meredup, jalur lain masih terbuka.
 
