@@ -39,7 +39,7 @@ Banyak orang menanggapi masalah ini dengan membeli planner baru atau mengunduh a
 
 Alasannya masuk akal kalau kita lihat apa yang ditemukan Steel. Prediktor yang kuat dan konsisten dalam meta-analisisnya antara lain *task aversiveness* (betapa tidak enaknya sebuah tugas), *self-efficacy* (keyakinan bahwa kamu sanggup), *impulsiveness*, serta *conscientiousness* beserta fasetnya seperti kontrol diri dan kemampuan mengorganisasi. Sebaliknya, *neuroticism* hanya berkaitan lemah. Semua itu temuan korelasional, jadi kita membacanya sebagai pola, bukan sebagai bukti sebab-akibat. Namun polanya jelas: daftar itu penuh soal perasaan terhadap tugas dan kemampuan mengendalikan diri, sedangkan jadwal tidak tampak di dalamnya. Misalnya, planner yang tersusun rapi tidak banyak menolong ketika kamu duduk di depan tugas, rasanya tidak enak, dan godaan yang lebih ringan sedang menunggu di ponsel.
 
-Perlu dicatat juga bahwa hasil Steel konsisten dengan **temporal motivation theory**, perpaduan teori ekspektansi dan diskonto hiperbolik, yang akan menjadi tulang punggung bab-bab berikutnya.
+Perlu dicatat juga bahwa hasil Steel konsisten dengan **temporal motivation theory**, perpaduan teori ekspektansi dan diskonto hiperbolik, yang akan menjadi tulang punggung pembahasan sesudah ini.
 
 ### Peta perjalanan kita
 
@@ -47,10 +47,6 @@ Buku ini bergerak dari penjelasan ke tindakan. Setelah bab ini, kamu akan berken
 
 ## Ringkasan
 
-- Definisi Steel (2007): menunda adalah menangguhkan secara sukarela tindakan yang sudah diniatkan, padahal kamu memperkirakan dirimu akan lebih buruk keadaannya.
-- Ada **niat** pada penunda, sedangkan orang malas tidak punya niat bertindak sama sekali.
-- Memprioritaskan dan *strategic delay* (Klingsieck, 2013) sama-sama menunda, tetapi tanpa harapan rugi: yang pertama karena ada urusan lebih penting, yang kedua karena menunggu memang menguntungkan.
-- Rozental dan Carlbring (2014) menyebut penundaan memengaruhi sekitar seperlima orang dewasa dan separuh mahasiswa, dan mengaitkannya dengan kesehatan mental yang lebih buruk serta penundaan berobat.
+- Definisi Steel (2007): menunda adalah menangguhkan secara sukarela tindakan yang sudah diniatkan, padahal kamu memperkirakan dirimu akan lebih buruk keadaannya. Penunda punya **niat**, orang malas tidak.
+- Memprioritaskan dan *strategic delay* (Klingsieck, 2013) sama-sama menunda, tetapi tanpa harapan rugi.
 - Kerangka yang dipakai para peneliti adalah **kegagalan regulasi diri** (Sirois dan Pychyl, 2016), bukan kekeliruan mengatur jadwal.
-
-Sekarang kamu punya definisi kerja dan alasan untuk berhenti menyebut dirimu malas. Yang belum kita punya adalah mekanismenya: apa yang sebenarnya terjadi di kepala saat tugas terasa jauh dan godaan terasa dekat. Bab berikutnya membukanya lewat persamaan motivasi dari temporal motivation theory.

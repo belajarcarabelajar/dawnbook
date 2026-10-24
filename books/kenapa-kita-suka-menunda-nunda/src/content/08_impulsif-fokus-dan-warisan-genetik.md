@@ -1,6 +1,6 @@
 ## Impulsif, Fokus, dan Warisan Genetik
 
-Enam ratus enam puluh tiga orang. Tiga ratus empat puluh tujuh pasang kembar sesama jenis, 181 pasang di antaranya kembar identik. Sisanya, 166 pasang, kembar tidak identik, dengan usia rata-rata 22,66 tahun. Itulah sampel yang dipakai Gustavson dan rekan (2014) untuk bertanya sesuatu yang terdengar nyaris iseng: apakah kebiasaan menunda dan kebiasaan bertindak tanpa pikir panjang itu, pada tingkat tertentu, berasal dari sumber yang sama?
+Enam ratus enam puluh tiga orang, berasal dari tiga ratus empat puluh tujuh pasang kembar sesama jenis, identik maupun tidak identik. Itulah sampel yang dipakai Gustavson dan rekan (2014) untuk bertanya sesuatu yang terdengar nyaris iseng: apakah kebiasaan menunda dan kebiasaan bertindak tanpa pikir panjang itu, pada tingkat tertentu, berasal dari sumber yang sama?
 
 Di bab-bab sebelumnya kita sudah membongkar penundaan dari sisi tugas, harapan, dan perasaan. Sekarang giliran sisi orangnya. Kenapa dua orang yang menghadapi tugas sama bisa bereaksi begitu berbeda? Dan seberapa jauh jawabannya terletak pada bawaan?
 
@@ -18,14 +18,9 @@ Bagaimana orang memisahkan pengaruh gen dari pengaruh lingkungan? Salah satu car
 
 ### Angka-angka dari studi Gustavson dkk.
 
-Para peneliti mengukur penundaan, impulsivitas, dan kemampuan mengelola tujuan pada sampel dari Colorado Longitudinal Twin Study tadi. Hasilnya, dalam bentuk yang bisa kita pegang:
+Para peneliti mengukur penundaan, impulsivitas, dan kemampuan mengelola tujuan pada sampel dari Colorado Longitudinal Twin Study tadi. Keterwarisan penundaan 0,46 dan impulsivitas 0,49: di sampel ini, sebagian perbedaan antarorang dalam kedua ciri tersebut selaras dengan perbedaan genetik. Orang yang lebih impulsif cenderung lebih sering menunda (korelasi 0,65), dan pengaruh genetik pada kedua ciri itu tampak tumpang tindih sepenuhnya (korelasi genetik 1,0; selang kepercayaan 95% 0,86 sampai 1,0). Kegagalan manajemen tujuan menjelaskan 68% varians genetik bersama, jadi kemampuan mengelola tujuan tampaknya jadi bagian penting dari tumpang tindih itu.
 
-| Apa yang ditemukan | Cara membacanya | Yang tidak boleh disimpulkan |
-|---|---|---|
-| Keterwarisan (h2) penundaan 0,46 dan impulsivitas 0,49 | Di sampel ini, sebagian perbedaan antarorang dalam kedua ciri tersebut selaras dengan perbedaan genetik | Bahwa 46% atau 49% perilakumu ditentukan gen |
-| Korelasi fenotipik 0,65 | Orang yang lebih impulsif cenderung lebih sering menunda | Bahwa impulsivitas menyebabkan penundaan |
-| Korelasi genetik 1,0 (CI 95% 0,86 sampai 1,0) | Pengaruh genetik pada kedua ciri itu tampak tumpang tindih sepenuhnya | Bahwa ada satu gen tunggal untuk menunda, atau bahwa nasibmu sudah tertulis |
-| Kegagalan manajemen tujuan menjelaskan 68% varians genetik bersama | Kemampuan mengelola tujuan tampaknya jadi bagian penting dari tumpang tindih itu | Bahwa semua penundaan berakar pada urusan tujuan |
+Tak satu pun angka ini berarti bahwa impulsivitas menyebabkan penundaan, bahwa ada satu gen tunggal untuk menunda, bahwa semua penundaan berakar pada urusan tujuan, atau bahwa 46% perilakumu ditentukan gen.
 
 ### Membaca angka dengan jujur
 
@@ -43,8 +38,8 @@ Bagian ini tafsiran saya, bukan temuan studi. Kalau penundaan dan impulsivitas s
 
 ## Poin Kunci
 
-1. Impulsivitas dan conscientiousness (dengan fasetnya seperti kendali diri, mudah teralihkan, dan keteraturan) adalah prediktor penundaan yang kuat dan konsisten dalam meta-analisis Steel (2007), dan impulsivitas berhubungan langsung dengan Gamma dalam TMT.
-2. Studi kembar Gustavson dkk. (2014) menemukan keterwarisan 0,46 untuk penundaan dan 0,49 untuk impulsivitas, dengan korelasi genetik 1,0, serta kegagalan manajemen tujuan menjelaskan 68% varians genetik bersama.
+1. Impulsivitas dan conscientiousness adalah prediktor penundaan yang kuat dan konsisten dalam meta-analisis Steel (2007), dan impulsivitas berhubungan langsung dengan Gamma dalam TMT.
+2. Studi kembar Gustavson dkk. (2014) menemukan keterwarisan 0,46 untuk penundaan dan 0,49 untuk impulsivitas, dengan korelasi genetik 1,0.
 3. Angka itu adalah statistik populasi tentang perbedaan antarorang, bukan ramalan tentang dirimu, dan penulisnya sendiri menyatakan sebab-akibat tidak dapat disimpulkan.
 
-Penundaan ternyata punya harga yang tidak selalu kelihatan di tanggal tenggat: ia merembet ke tubuh dan malam-malam yang tidak nyenyak. Bab berikutnya menelusuri tagihan itu, mulai dari stres yang menumpuk, kesehatan yang ikut tergerus, sampai jam tidur yang diam-diam dikorbankan.
+Penundaan ternyata punya harga yang tidak selalu kelihatan di tanggal tenggat: ia merembet ke tubuh dan malam-malam yang tidak nyenyak.

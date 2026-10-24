@@ -1,6 +1,6 @@
 ## Menunda untuk Menenangkan Perasaan
 
-Kita semua pernah membuka kulkas padahal tidak lapar, hanya karena ada email penting yang belum juga dibalas sejak pagi. Kita menggulir layar sampai jempol pegal, lalu merasa sedikit lega, sementara email itu tetap menunggu di tempatnya. Rasa lega itulah bagian yang paling sering luput kita perhatikan.
+Kita semua pernah membuka kulkas padahal tidak lapar, hanya karena ada email penting yang belum juga dibalas sejak pagi. Kita menggulir layar sampai jempol pegal, lalu merasa sedikit lega, sementara email itu tetap menunggu di tempatnya. Rasa lega itulah bagian yang paling sering luput dari perhatian kita.
 
 ### Yang kita hindari sebenarnya perasaannya
 
@@ -38,7 +38,7 @@ Tabel berikut hanya ilustrasi buatan penulis untuk memperlihatkan bagaimana ling
 | Perut mulas membayangkan balasan atasan | Merapikan meja dulu | Tegang turun sebentar, tugas tetap menunggu |
 | Terdengar bisikan "nanti saja kalau suasana hati lebih baik" | Menutup laptop | Lega yang tadi menguatkan kebiasaan menutup laptop |
 
-> Cara cepat mengenali lingkaran ini: perhatikan apa yang tubuhmu rasakan beberapa detik sebelum tanganmu berpindah ke ponsel. Biasanya ada sesuatu di sana.
+> Cara cepat mengenali lingkaran ini: amati apa yang tubuhmu rasakan beberapa detik sebelum tanganmu berpindah ke ponsel. Biasanya ada sesuatu di sana.
 
 ### Perasaan tidak enak bisa dilatih
 
@@ -54,11 +54,8 @@ Implikasinya menyentuh cara kita menilai diri. Kalau menunda sebagian dipengaruh
 
 ## Recap
 
-| Gagasan | Isinya |
-|---|---|
-| Perbaikan *mood* | Penundaan dipandang sebagai upaya merasa lebih baik sekarang, dengan biaya ditanggung diri masa depan (Sirois dan Pychyl, 2013; 2016) |
-| Lingkaran penghindaran | Tugas memicu rasa tidak enak, menghindar melegakan, lega menguatkan menghindar (ringkasan penalaran, bukan hasil eksperimen) |
-| Keterampilan emosi | Tiga studi Eckert dan rekan (2016), termasuk RCT pelatihan menoleransi dan mengubah emosi aversif yang mengurangi penundaan |
-| Konteks stres | Stres menguras sumber daya koping dan menurunkan toleransi emosi negatif; pandangan welas asih lebih tepat (Sirois, 2023) |
+- Penundaan dipandang sebagai upaya merasa lebih baik sekarang, dengan biaya ditanggung diri masa depan (Sirois dan Pychyl, 2013; 2016). Gambaran lingkaran penghindaran hanyalah ringkasan penalaran penulis, bukan hasil eksperimen.
+- Dalam RCT Eckert dan rekan (2016), pelatihan menoleransi dan mengubah emosi aversif mengurangi penundaan.
+- Dalam model Sirois (2023), stres menguras sumber daya koping dan menurunkan toleransi terhadap emosi negatif, sehingga pandangan yang welas asih lebih tepat.
 
-Kalau yang dihindari adalah perasaan, wajar bila kamu bertanya kenapa sebagian tugas memicu rasa tidak enak sedangkan tugas lain tidak. Bab berikutnya mulai dari sana, yaitu dari tugas yang terasa tidak menyenangkan itu sendiri.
+Kalau yang dihindari adalah perasaan, wajar bila kamu bertanya kenapa sebagian tugas memicu rasa tidak enak sedangkan tugas lain tidak. Petunjuknya ada pada tugas itu sendiri.

@@ -30,19 +30,16 @@ Di titik ini Sirois dan Pychyl (2013) menyambungkan semuanya. Makalah mereka ber
 
 > Penundaan menjadi mudah ketika orang yang membayar tagihannya terasa seperti orang lain.
 
-Kalimat di atas rangkuman penulis buku ini, bukan kutipan dari makalah mana pun.
+Kalimat di atas adalah rangkuman penulis buku ini, bukan kutipan dari makalah mana pun.
 
 ### Ringkasan studi dan batasnya
 
-| Studi | Rancangan | Yang ditunjukkan | Catatan kehati-hatian |
-|---|---|---|---|
-| Pronin dkk. (2008) | Empat eksperimen, termasuk keputusan nyata | Keputusan untuk diri masa depan mirip keputusan untuk orang lain | Tugasnya spesifik, bukan penundaan langsung |
-| Ersner-Hershfield dkk. (2009) | fMRI, 18 peserta teranalisis | Selisih aktivasi rACC berkorelasi dengan diskonto (r = 0,47) | Sampel kecil, tidak bertahan tanpa pencilan |
-| Hershfield dkk. (2011) | Empat studi, rendering diri menua | Studi 1: 172 dolar vs 80 dolar ke dana pensiun | Alokasi hipotetis |
-| Sirois dan Pychyl (2013) | Tinjauan teoretis | Biaya penundaan ditanggung diri masa depan | Bukan data baru |
+Kalau keempatnya dijajarkan, kekuatan dan batasnya terlihat berdampingan. Eksperimen Pronin termasuk keputusan nyata, tetapi tugasnya spesifik dan bukan penundaan langsung. Temuan otak dari Ersner-Hershfield bertumpu pada 18 peserta yang dianalisis dan tidak bertahan tanpa satu pencilan. Studi wajah menua dari Hershfield memakai alokasi uang yang hipotetis. Tinjauan Sirois dan Pychyl merangkai gagasannya tanpa membawa data baru.
 
 Tidak satu pun dari keempatnya mengukur penundaan sehari-hari secara langsung. Yang bisa kita ambil adalah gambaran yang konsisten, bukan bukti pamungkas.
 
 ## Benang Merah
 
-Keempat penelitian itu sama-sama menunjuk ke satu arah: jarak psikologis ke diri masa depan tampaknya membuat kita lebih ringan menyerahkan beban kepadanya, dan jarak itu mungkin bisa dipersempit. Namun semuanya berbasis sampel kecil, tugas spesifik, atau pemikiran teoretis, jadi kesimpulannya patut dipegang dengan hati-hati. Penundaan sendiri tidak bisa dijelaskan hanya dengan memandang diri masa depan sebagai orang asing, sebab ada satu pertanyaan yang masih menggantung: kenapa menghindari tugas terasa melegakan sekarang juga? Jawabannya ada di urusan mood, dan itulah yang kita buka di bab berikutnya.
+Keempat penelitian itu sama-sama menunjuk ke satu arah: jarak psikologis ke diri masa depan tampaknya membuat kita lebih ringan menyerahkan beban kepadanya, dan jarak itu mungkin bisa dipersempit. Namun semuanya berbasis sampel kecil, tugas spesifik, atau pemikiran teoretis, jadi kesimpulannya patut dipegang dengan hati-hati.
+
+Masih ada satu pertanyaan yang menggantung: kenapa menghindari tugas terasa melegakan sekarang juga? Jawabannya ada di urusan mood.

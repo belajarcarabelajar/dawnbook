@@ -8,7 +8,7 @@ Masalahnya, riset tidak memberi jawaban "ya" atau "tidak" yang rapi. Jawabannya:
 
 Dalam meta-analisisnya atas 691 korelasi, Steel (2007) memperlakukan perfeksionisme sebagai satu dimensi tunggal dan tidak menemukan hubungannya dengan penundaan. Dari situ lahir kesan bahwa mitos "penunda itu perfeksionis" tidak ada dasarnya. Kesan itu terlalu cepat, sebab kata "perfeksionisme" ternyata menutupi dua hal yang berbeda.
 
-Sirois, Molnar, dan Hirsch (2017) memperbarui analisis itu dengan memisahkan dimensinya. Hasilnya, penundaan sifat berkorelasi positif dengan ***perfectionistic concerns*** (r = 0,23; 43 sampel; total N = 10.000) dan berkorelasi negatif dengan ***perfectionistic strivings*** (r = -0,22; 38 sampel; total N = 9.544). Pola ini tidak bervariasi menurut alat ukur maupun jenis kelamin. Dua angka yang hampir sama besar tetapi berlawanan tanda memberi satu penjelasan yang masuk akal (ini penalaran penulis, bukan klaim makalahnya) kenapa analisis satu dimensi tampak kosong: dua arus yang saling berlawanan bisa meniadakan satu sama lain ketika dicampur.
+Sirois, Molnar, dan Hirsch (2017) memperbarui analisis itu dengan memisahkan dimensinya. Hasilnya, penundaan sifat berkorelasi positif dengan ***perfectionistic concerns*** (r = 0,23) dan berkorelasi negatif dengan ***perfectionistic strivings*** (r = -0,22). Pola ini tidak bervariasi menurut alat ukur maupun jenis kelamin. Dua angka yang hampir sama besar tetapi berlawanan tanda memberi satu penjelasan yang masuk akal (ini penalaran penulis, bukan klaim makalahnya) kenapa analisis satu dimensi tampak kosong: dua arus yang saling berlawanan bisa meniadakan satu sama lain ketika dicampur.
 
 #### Perfectionistic concerns
 
@@ -20,15 +20,11 @@ Sisi yang satu lagi berisi dorongan menetapkan standar tinggi dan ingin bekerja 
 
 Dua korelasi ini hanya menunjukkan keterkaitan, bukan sebab-akibat. Kita tidak tahu dari data ini apakah kekhawatiran yang membuat orang menunda, atau penundaan yang memupuk kekhawatiran, atau keduanya.
 
-| | Perfectionistic concerns | Perfectionistic strivings |
-|---|---|---|
-| Arah hubungan dengan penundaan sifat | Positif | Negatif |
-| Angka (Sirois dkk., 2017) | r = 0,23 (43 sampel, N = 10.000) | r = -0,22 (38 sampel, N = 9.544) |
-| Gambaran sehari-hari (ilustrasi penulis) | Mengetik, menghapus, lalu menutup dokumen karena takut hasilnya jelek di mata atasan | Membuat jadwal garapan sejak jauh hari karena ingin laporannya benar-benar bagus |
+Dalam keseharian, bedanya kira-kira begini (ilustrasi penulis): perfectionistic concerns tampak seperti mengetik, menghapus, lalu menutup dokumen karena takut hasilnya jelek di mata atasan, sedangkan perfectionistic strivings tampak seperti membuat jadwal garapan sejak jauh hari karena ingin laporannya benar-benar bagus.
 
 ### Menunda untuk menjaga muka
 
-Mari beralih ke eksperimen yang menunjukkan bagaimana penundaan bisa berfungsi sebagai tameng. Ferrari dan Tice (2000) menjalankan dua studi laboratorium dengan mahasiswa. Studi pertama melibatkan 40 perempuan dan 19 laki-laki, studi kedua 48 perempuan dan 40 laki-laki. Setiap peserta diberi waktu 15 menit sebelum mengerjakan tugas matematika. Selama jeda itu, ia boleh berlatih untuk tugas tersebut atau mengisi waktu dengan aktivitas yang menyenangkan.
+Mari beralih ke eksperimen yang menunjukkan bagaimana penundaan bisa berfungsi sebagai tameng. Ferrari dan Tice (2000) menjalankan dua studi laboratorium dengan mahasiswa. Setiap peserta diberi waktu 15 menit sebelum mengerjakan tugas matematika. Selama jeda itu, ia boleh berlatih untuk tugas tersebut atau mengisi waktu dengan aktivitas yang menyenangkan.
 
 Yang dimanipulasi adalah cara tugas itu dibingkai. Ketika tugas disebut permainan yang menyenangkan, penunda kronis tidak berlatih lebih sedikit daripada peserta lain. Namun ketika tugas disebut evaluasi penting atas kemampuan kognitif, penunda kronis menghabiskan lebih banyak waktu pada aktivitas menyenangkan dan lebih sedikit waktu untuk persiapan.
 
@@ -50,10 +46,8 @@ Kalau kamu mengenali pola ini pada dirimu, satu langkah kecil patut dicoba: pisa
 
 ## Intisari
 
-Keyakinan "penunda itu perfeksionis" benar sebagian. Perfeksionisme yang berisi kekhawatiran berjalan searah dengan penundaan (r = 0,23), sedangkan perfeksionisme yang berisi standar pribadi berjalan berlawanan (r = -0,22). Bercampurnya kedua arus itu masuk akal sebagai alasan kenapa analisis satu dimensi ala Steel (2007) tidak menemukan apa-apa.
+- Keyakinan "penunda itu perfeksionis" benar sebagian: perfeksionisme yang berisi kekhawatiran berjalan searah dengan penundaan (r = 0,23), sedangkan yang berisi standar pribadi berjalan berlawanan (r = -0,22).
+- Pada eksperimen Ferrari dan Tice (2000), penunda kronis lebih banyak memilih aktivitas menyenangkan dibanding berlatih ketika tugas dibingkai sebagai evaluasi penting; karena sampelnya mahasiswa di laboratorium, kita membacanya sebagai petunjuk, bukan hukum.
+- Saran penulis: memisahkan "hasil ini jelek" dari "aku ini jelek" menurunkan taruhan, sehingga memulai tidak lagi terasa seperti sidang.
 
-Pada eksperimen Ferrari dan Tice (2000), penunda kronis lebih banyak memilih aktivitas menyenangkan dibanding berlatih ketika tugas dibingkai sebagai evaluasi penting. Penulisnya membacanya sebagai self-handicapping, dan karena sampelnya mahasiswa di laboratorium, kita membacanya sebagai petunjuk, bukan hukum.
-
-Secara praktis, menunda bisa menyelamatkan harga diri hari ini sambil menagih bayarannya nanti. Mengenali apakah yang kamu rasakan itu takut dinilai atau keinginan berprestasi adalah titik awal yang masuk akal.
-
-Namun tidak semua penundaan lahir dari rasa takut. Ada orang yang tidak cemas sama sekali, hanya gampang tergoda hal lain di depan mata. Bab berikutnya membahas impulsivitas, perhatian yang mudah terbelah, dan pertanyaan tentang seberapa jauh kecenderungan itu diwariskan.
+Namun tidak semua penundaan lahir dari rasa takut. Ada orang yang tidak cemas sama sekali, hanya gampang tergoda hal lain di depan mata.

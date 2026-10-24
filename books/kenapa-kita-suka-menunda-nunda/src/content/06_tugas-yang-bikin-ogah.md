@@ -45,7 +45,7 @@ Tabel berikut juga pembacaan penulis, alat bantu berpikir, bukan hasil pengukura
 | Terasa terlalu besar | Ekspektansi turun | Potongan terkecil mana yang kuyakini bisa kuselesaikan hari ini? |
 | Hasilnya jauh | Jeda (T - t) membesar | Imbalan atau konsekuensi apa yang bisa kuhadirkan lebih dekat? |
 
-Perhatikan bahwa pertanyaan diagnosis di tabel hanya untuk memetakan masalah. Cara mengatasinya baru dibahas di bab-bab perbaikan.
+Pertanyaan diagnosis di tabel hanya untuk memetakan masalah. Cara mengatasinya baru dibahas di bab-bab perbaikan.
 
 ### Penundaan itu urusan tugas dan orang
 
@@ -59,4 +59,4 @@ Akibatnya, kalimat "aku pemalas" kurang berguna. Kalimat "tugas ini terasa membo
 2. Fitur sehari-hari seperti membosankan, kabur, terlalu besar, dan hasil yang jauh adalah pembacaan penulis. Tiap fitur bisa kamu terjemahkan ke suku nilai, ekspektansi, atau jeda, lalu didiagnosis dengan pertanyaan yang tepat.
 3. Penundaan bergantung pada pertemuan orang dan tugas, jadi label tetap seperti "aku penunda" menyembunyikan informasi yang berguna.
 
-Ada satu jenis tugas yang belum tersentuh: tugas yang membuat kita menunda bukan karena membosankan atau besar, melainkan karena hasilnya akan dinilai, entah oleh orang lain atau oleh standar diri sendiri. Bab berikutnya masuk ke wilayah itu, yaitu rasa takut gagal dan perfeksionisme.
+Masih tersisa tugas jenis lain: yang membuat kita menunda bukan karena membosankan atau besar, melainkan karena hasilnya akan dinilai, entah oleh orang lain atau oleh standar diri sendiri.

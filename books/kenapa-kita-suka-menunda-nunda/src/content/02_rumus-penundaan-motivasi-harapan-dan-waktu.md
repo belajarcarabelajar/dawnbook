@@ -35,7 +35,7 @@ Empat unsur tadi bisa dibaca sebagai tuas. Contoh di kolom kanan adalah ilustras
 | Impulsivitas (Gamma) | Dorongan melemah, karena penundaan lebih terasa | Dorongan menguat | Notifikasi ponsel mudah menyeretmu dari pekerjaan ke hiburan |
 | Jeda (T - t) | Dorongan melemah | Dorongan menguat | Hasil baru tampak berbulan-bulan lagi, jadi tidak terasa mendesak |
 
-Perhatikan bahwa dua tuas pertama bekerja di pembilang dan dua tuas terakhir di penyebut. Satu tuas yang jatuh ke nol bisa meruntuhkan seluruh hasil. Kalau kamu sama sekali tidak percaya usahamu akan berguna, nilai setinggi apa pun tidak banyak menolong.
+Dua tuas pertama bekerja di pembilang, dua tuas terakhir di penyebut. Satu tuas yang jatuh ke nol bisa meruntuhkan seluruh hasil. Kalau kamu sama sekali tidak percaya usahamu akan berguna, nilai setinggi apa pun tidak banyak menolong.
 
 ### Kenapa tenggat menarik motivasi
 
@@ -74,14 +74,12 @@ Ingat bahwa ini temuan korelasional. Hubungan itu menunjukkan pola yang searah d
 
 ### Model, bukan stopwatch
 
-Persamaan ini tidak bisa kamu isi dengan angka lalu memprediksi kapan tepatnya kamu akan mulai bekerja. Kamu tidak punya skala yang pasti untuk "nilai" atau "harapan", dan perasaanmu berubah dari jam ke jam. Model ini berguna sebagai peta: ia menunjuk empat tempat yang bisa dikutak-kutik, bukan jam yang berdetak di kepalamu. Faktor lain seperti suasana hati dan stres juga ikut bermain, dan akan kita bahas di bab-bab berikutnya.
+Persamaan ini tidak bisa kamu isi dengan angka lalu memprediksi kapan tepatnya kamu akan mulai bekerja. Kamu tidak punya skala yang pasti untuk "nilai" atau "harapan", dan perasaanmu berubah dari jam ke jam. Model ini berguna sebagai peta: ia menunjuk empat tempat yang bisa dikutak-katik, bukan jam yang berdetak di kepalamu. Faktor lain seperti suasana hati dan stres juga ikut bermain.
 
 ## Inti Pembahasan
 
-1. Temporal motivation theory (Steel dan König, 2006) menyatakan tarikan sebuah tugas = (Expectancy x Value) / (Z + Gamma(T - t)).
-2. Harapan dan nilai berada di pembilang; impulsivitas dan jeda waktu berada di penyebut.
-3. Tenggat menarik motivasi karena T - t mengecil. Ini akibat logis dari persamaan, bukan hasil eksperimen terpisah.
-4. Prediktor dalam meta-analisis Steel (2007) sejalan dengan unsur-unsur ini, tetapi sifatnya korelasional.
-5. Model ini peta untuk berpikir, bukan alat ukur yang presisi.
+1. Dalam temporal motivation theory (Steel dan König, 2006), harapan dan nilai berada di pembilang, sedangkan impulsivitas dan jeda waktu berada di penyebut.
+2. Tenggat menarik motivasi karena T - t mengecil. Ini akibat logis dari persamaan, bukan hasil eksperimen terpisah.
+3. Prediktor dalam meta-analisis Steel (2007) sejalan dengan unsur-unsur ini, tetapi sifatnya korelasional, dan model ini peta untuk berpikir, bukan alat ukur yang presisi.
 
-Satu unsur persamaan layak ditelusuri lebih jauh: kenapa jeda waktu begitu berat bagi otak. Bab berikutnya membahas bias masa kini, yaitu kecenderungan menimbang "sekarang" lebih besar daripada "nanti" dalam pembukuan batin kita.
+Satu unsur persamaan masih menyimpan pertanyaan: kenapa jeda waktu terasa begitu berat? Jejaknya mengarah ke kebiasaan batin kita menimbang "sekarang" lebih besar daripada "nanti".
