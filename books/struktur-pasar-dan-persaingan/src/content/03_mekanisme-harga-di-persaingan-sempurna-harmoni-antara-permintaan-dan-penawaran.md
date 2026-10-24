@@ -50,7 +50,7 @@ $$
 P = \text{AR} = \text{MR}
 $$
 
-Mengapa $\text{MR}$ sama dengan $P$? Karena jika harga pasar adalah Rp10.000, setiap kali kamu menjual satu unit tambahan, pendapatan tambahan yang kamu terima akan selalu tetap Rp10.000, tidak kurang dan tidak lebih.
+Mengapa $\text{MR}$ sama dengan $P$? Karena jika harga pasar adalah Rp10.000, setiap kali kamu menjual satu unit tambahan, pendapatan tambahan yang kamu terima akan selalu Rp10.000, tidak kurang dan tidak lebih.
 
 ## 3. Maksimisasi Laba dalam Jangka Pendek
 
