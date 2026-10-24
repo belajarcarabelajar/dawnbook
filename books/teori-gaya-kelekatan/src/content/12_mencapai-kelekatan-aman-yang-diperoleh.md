@@ -2,7 +2,7 @@
 
 Pernahkah kamu merasa bahwa gaya kelekatan kamu (apakah itu cemas, menghindar, atau disorganisasi) adalah "vonis seumur hidup"? Kabar baiknya: **ilmu psikologi membuktikan bahwa masa lalu tidak harus mendikte masa depanmu.**
 
-Meskipun kita tidak bisa mengubah apa yang terjadi pada masa kecil, kita memiliki kekuatan penuh untuk mengubah cara meresponsnya di masa dewasa. Inilah yang disebut dengan **Earned Secure Attachment** atau Kelekatan Aman yang Diperoleh.
+Meskipun kita tidak bisa mengubah apa yang terjadi pada masa kecil, kita bisa mengubah cara meresponsnya di masa dewasa. Inilah yang disebut dengan **Earned Secure Attachment** atau Kelekatan Aman yang Diperoleh.
 
 ## Apa itu "Earned Security"?
 
@@ -82,11 +82,11 @@ Menjadi *Earned Secure* bukan berarti kamu harus menjadi orang sempurna yang ter
 * Berkomunikasi secara transparan mengenai kebutuhan emosional dan batasan diri.
 * Mampu memberikan dukungan tulus bagi orang lain tanpa mengorbankan jati diri sendiri.
 
-**Pesan untukmu:** Keamanan emosional bukanlah hadiah eksklusif yang hanya diberikan kepada orang-orang beruntung. Ini adalah keterampilan yang dapat dipelajari, diperjuangkan, dan akhirnya dimiliki. Masa lalu kamu adalah bab awal dari buku kehidupanmu, tetapi kamulah yang memegang pena untuk menulis bab-bab selanjutnya.
+**Pesan untukmu:** Keamanan emosional bukanlah sesuatu yang hanya dimiliki orang-orang beruntung. Ini adalah keterampilan yang dapat dipelajari, diperjuangkan, dan akhirnya dimiliki. Masa lalu membentuk titik awalmu, tetapi langkah selanjutnya ada di tanganmu.
 
 ## Keterampilan Sosial untuk Hubungan yang Bermakna
 
-Membangun relasi yang bermakna adalah seni sekaligus keterampilan sosial yang melibatkan kedalaman emosional, kejujuran, dan investasi waktu. Hubungan yang bermakna melampaui percakapan basa-basi (*small talk*) serta menyentuh aspek nilai, impian, dan dukungan timbal balik.
+Membangun relasi yang bermakna adalah seni sekaligus keterampilan sosial yang melibatkan kedalaman emosional, kejujuran, dan kesediaan meluangkan waktu. Hubungan yang bermakna melampaui percakapan basa-basi (*small talk*) serta menyentuh aspek nilai, impian, dan dukungan timbal balik.
 
 Berikut adalah beberapa pilar penting dalam membangun koneksi yang dalam:
 

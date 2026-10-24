@@ -1,8 +1,8 @@
 ## Gaya Kelekatan Aman (Secure Attachment)
 
-Selamat datang di dasar kesehatan emosional manusia. Bila mengibaratkan perkembangan psikologis sebagai sebuah bangunan, maka gaya kelekatan aman (secure attachment) adalah fondasi beton yang paling kokoh. Individu dengan gaya ini tidak sekadar bertahan hidup dalam hubungan; mereka bertumbuh subur (thrive).
+Kalau perkembangan psikologis diibaratkan bangunan, gaya kelekatan aman (secure attachment) adalah fondasinya, dasar bagi kesehatan emosional manusia. Individu dengan gaya ini tidak sekadar bertahan hidup dalam hubungan; mereka bertumbuh subur (thrive).
 
-Di bab ini, kita akan membedah mengapa sebagian orang bisa merasa begitu tenang saat sendirian namun tetap hangat ketika bersama orang lain, serta rahasia pola asuh di balik ketenangan tersebut.
+Di bab ini, kita akan membedah mengapa sebagian orang bisa merasa tenang saat sendirian namun tetap hangat ketika bersama orang lain, serta pola asuh yang membentuk ketenangan tersebut.
 
 ## 1. Apa Itu Gaya Kelekatan Aman?
 
@@ -15,7 +15,7 @@ Gaya kelekatan aman adalah pola hubungan ketika seseorang merasa nyaman dengan k
 Bayangkan sebuah kapal. Seorang individu dengan kelekatan aman adalah kapal yang memiliki sauh (jangkar) yang kuat dan pelabuhan yang ramah.
 
 * Saat badai datang, mereka tahu ada pelabuhan tempat mereka bisa pulang dan merasa aman (**Safe Haven**).
-* Saat cuaca cerah, mereka berani berlayar jauh ke samudera luas untuk bereksplorasi karena tahu pelabuhan itu akan selalu ada saat mereka kembali (**Secure Base**).
+* Saat cuaca cerah, mereka berani berlayar jauh untuk bereksplorasi karena tahu pelabuhan itu akan selalu ada saat mereka kembali (**Secure Base**).
 
 ## 2. Pola Asuh Responsif
 
@@ -98,7 +98,7 @@ Otak kita bersifat dinamis (plastis). Melalui kesadaran diri dan hubungan yang s
 
 ## 8. Kedalaman Emosional, Kejujuran, dan Waktu
 
-Membangun relasi yang bermakna adalah seni sekaligus keterampilan sosial yang melibatkan kedalaman emosional, kejujuran, dan investasi waktu. Relasi ini melampaui obrolan basa-basi (*small talk*) dan menyentuh aspek nilai, impian, serta dukungan timbal balik.
+Membangun relasi yang bermakna adalah seni sekaligus keterampilan sosial yang melibatkan kedalaman emosional, kejujuran, dan kesediaan meluangkan waktu. Relasi ini melampaui obrolan basa-basi (*small talk*) dan menyentuh aspek nilai, impian, serta dukungan timbal balik.
 
 Berikut adalah beberapa pilar utama dalam membangun koneksi yang dalam:
 

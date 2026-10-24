@@ -6,13 +6,13 @@ Dalam spektrum teori kelekatan, tipe **Dismissive-Avoidant** (Menghindar-Menolak
 
 ## Memahami Esensi Dismissive-Avoidant
 
-Gaya kelekatan **Dismissive-Avoidant** ditandai dengan upaya aktif untuk menjaga jarak emosional. Bagi mereka, kemandirian adalah fondasi utama untuk merasa aman, jauh melampaui sekadar pilihan gaya hidup.
+Gaya kelekatan **Dismissive-Avoidant** ditandai dengan upaya aktif untuk menjaga jarak emosional. Bagi mereka, kemandirian adalah dasar rasa aman, bukan sekadar pilihan gaya hidup.
 
 **Wawasan Penting:** Inti dari gaya ini adalah pandangan positif terhadap diri sendiri ("Saya baik-baik saja"), tetapi memiliki pandangan skeptis terhadap ketergantungan pada orang lain ("Orang lain tidak bisa diandalkan atau hanya akan mengekang saya").
 
 ### Benteng dengan Parit yang Dalam
 
-Bayangkan sebuah kastil yang megah namun terisolasi. Di dalamnya, sang penghuni memiliki segalanya untuk bertahan hidup sendirian. Untuk mencegah orang asing masuk, mereka tidak hanya mengunci gerbang, tetapi juga membangun parit yang sangat dalam di sekelilingnya. Jika ada seseorang yang mencoba menyeberang, sang penghuni kastil akan segera menarik jembatan gantung. Mereka merasa lebih aman berada di dalam benteng sendirian daripada membiarkan seseorang masuk dan berisiko mengacaukan tatanan yang sudah mereka buat.
+Bayangkan sebuah kastil yang terisolasi. Di dalamnya, sang penghuni memiliki segalanya untuk bertahan hidup sendirian. Untuk mencegah orang asing masuk, mereka tidak hanya mengunci gerbang, tetapi juga membangun parit yang dalam di sekelilingnya. Jika ada seseorang yang mencoba menyeberang, sang penghuni kastil akan segera menarik jembatan gantung. Mereka merasa lebih aman berada di dalam benteng sendirian daripada membiarkan seseorang masuk dan berisiko mengacaukan tatanan yang sudah mereka buat.
 
 ## Bagaimana Pola Ini Terbentuk?
 
@@ -82,16 +82,16 @@ Menjadi seorang *Dismissive-Avoidant* bukanlah sebuah cacat karakter. Ini adalah
 
 ## Hubungan Bernilai Tinggi Melampaui Basa-Basi
 
-Membangun relasi yang bermakna adalah sebuah seni sekaligus keterampilan sosial yang melibatkan kedalaman emosional, kejujuran, dan investasi waktu. Hubungan yang bernilai tinggi akan melampaui percakapan basa-basi (*small talk*) dan menyentuh aspek nilai hidup, impian, serta dukungan timbal balik.
+Membangun relasi yang bermakna adalah sebuah seni sekaligus keterampilan sosial yang melibatkan kedalaman emosional, kejujuran, dan kesediaan meluangkan waktu. Hubungan yang bernilai tinggi akan melampaui percakapan basa-basi (*small talk*) dan menyentuh aspek nilai hidup, impian, serta dukungan timbal balik.
 
 Berikut adalah beberapa pilar utama dalam membangun koneksi yang dalam:
 
 1. **Mendengarkan Aktif (Active Listening)**
    Mendengarkan aktif berarti menangkap perasaan di balik kata-kata, bukan sekadar mendengar suaranya. Fokuslah sepenuhnya pada lawan bicara tanpa sibuk menyiapkan jawaban kamu berikutnya.
 2. **Kerentanan (Vulnerability)**
-   Menurut peneliti Brené Brown, kerentanan adalah jembatan utama untuk membangun koneksi. Hal ini berarti kamu berani menunjukkan diri apa adanya, termasuk ketakutan dan kegagalan yang kamu miliki, alih-alih terus-menerus menampilkan citra diri yang tampak sempurna.
+   Menurut peneliti Brené Brown, kerentanan adalah jembatan untuk membangun koneksi. Hal ini berarti kamu berani menunjukkan diri apa adanya, termasuk ketakutan dan kegagalan yang kamu miliki, alih-alih terus-menerus menampilkan citra diri yang tampak sempurna.
 3. **Konsistensi dan Kehadiran**
-   Hubungan yang kuat dibangun melalui momen-momen kecil yang terakumulasi. Kehadiran saat dibutuhkan jauh lebih berharga daripada hadiah yang mahal.
+   Hubungan yang kuat dibangun melalui momen-momen kecil yang terakumulasi. Kehadiran saat dibutuhkan lebih berharga daripada hadiah yang mahal.
 4. **Empati di Atas Simpati**
    Empati melampaui simpati. Jika simpati hanya berupa rasa kasihan, empati menuntut kita untuk ikut merasakan apa yang dialami orang lain.
 

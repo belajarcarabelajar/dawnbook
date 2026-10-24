@@ -74,7 +74,7 @@ $$
 
 Sebagai contoh, mari kita bayangkan situasi konflik antara Andi, yang memiliki kelekatan cemas, dan Budi, yang memiliki kelekatan menghindar.
 
-Saat pertengkaran terjadi, amigdala Andi langsung bereaksi aktif dan memicu kekhawatiran bahwa Budi akan pergi. Detak jantungnya meningkat dan hormon kortisol membanjiri tubuhnya, mendorongnya untuk terus mengejar Budi demi mendapatkan kepastian. Di sisi lain, sistem saraf Budi merasa sangat kewalahan (*overwhelmed*). Untuk melindungi dirinya dari tekanan emosional tersebut, ia masuk ke mode mati rasa (*hipo-arousal*), memilih diam, dan menjauh.
+Saat pertengkaran terjadi, amigdala Andi langsung bereaksi aktif dan memicu kekhawatiran bahwa Budi akan pergi. Detak jantungnya meningkat dan kadar kortisol di tubuhnya naik, mendorongnya untuk terus mengejar Budi demi mendapatkan kepastian. Di sisi lain, sistem saraf Budi merasa kewalahan (*overwhelmed*). Untuk melindungi dirinya dari tekanan emosional tersebut, ia masuk ke mode mati rasa (*hipo-arousal*), memilih diam, dan menjauh.
 
 Memahami bahwa reaksi ini adalah respons otomatis dari sistem saraf, bukan disengaja untuk menyakiti, sangatlah penting. Melalui proses regulasi bersama (*co-regulation*), seperti pelukan hangat atau bernapas tenang bersama, pasangan dapat membantu meredakan produksi hormon stres satu sama lain dan kembali ke dalam jendela toleransi mereka.
 

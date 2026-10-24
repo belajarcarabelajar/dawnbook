@@ -2,7 +2,7 @@
 
 Pernahkah kamu merasa bahwa semakin kamu mengejar pasangan untuk mendapatkan kejelasan, semakin ia menarik diri? Atau sebaliknya, apakah kamu merasa bahwa setiap kali kamu mencoba memberikan ruang bagi diri sendiri, pasanganmu justru menjadi semakin menuntut?
 
-Selamat datang di dunia **Dinamika Kelekatan**. Dalam hubungan romantis dewasa, gaya kelekatan kita tidak bekerja secara terisolasi. Mereka berinteraksi layaknya sebuah tarian. Sayangnya, bagi banyak pasangan, tarian ini sering kali berubah menjadi "tarian konflik" yang melelahkan karena adanya benturan antara kebutuhan akan kedekatan dan kebutuhan akan kemandirian.
+Pola seperti ini disebut **Dinamika Kelekatan**. Dalam hubungan romantis dewasa, gaya kelekatan kita tidak bekerja secara terisolasi. Mereka berinteraksi layaknya sebuah tarian. Sayangnya, bagi banyak pasangan, tarian ini sering kali berubah menjadi "tarian konflik" yang melelahkan karena adanya benturan antara kebutuhan akan kedekatan dan kebutuhan akan kemandirian.
 
 ## 1. Magnetisme Ketidakamanan
 
@@ -46,7 +46,7 @@ $$
 $$
 </div>
 
-Jika nilai ketakutan salah satu pihak meningkat, intensitas pengejaran pihak lain biasanya akan meningkat secara eksponensial untuk menyeimbangkannya.
+Jika nilai ketakutan salah satu pihak meningkat, intensitas pengejaran pihak lain biasanya akan meningkat untuk menyeimbangkannya.
 
 ## 3. Kisah Sinta dan Budi
 
@@ -75,13 +75,13 @@ Dalam dinamika ini, pasangan dengan gaya Aman bertindak sebagai jangkar yang kok
 
 Pasangan yang sama-sama memiliki gaya kelekatan menghindar jarang terlibat dalam pertengkaran hebat, tetapi hubungan mereka sering kali terasa hampa.
 
-Keduanya sama-sama menjaga jarak aman demi melindungi diri dari keintiman. Risiko terbesar dari pola ini adalah hubungan yang mengalami "kematian perlahan" karena tidak adanya kedekatan emosional yang tulus.
+Keduanya sama-sama menjaga jarak aman demi melindungi diri dari keintiman. Risiko terbesar dari pola ini adalah hubungan yang perlahan mendingin karena tidak adanya kedekatan emosional yang tulus.
 
 ### C. Cemas + Cemas (Badai Emosional)
 
 Hubungan antara dua orang yang sama-sama cemas biasanya dipenuhi dengan gairah yang tinggi, namun juga diwarnai banyak drama.
 
-Kedua belah pihak terus-menerus menuntut kepastian dan validasi dari pasangannya. Pola ini sangat rentan memicu kelelahan mental akibat fluktuasi emosi yang ekstrem dan pasang surut konflik yang melelahkan.
+Kedua belah pihak terus-menerus menuntut kepastian dan validasi dari pasangannya. Pola ini rentan memicu kelelahan mental akibat fluktuasi emosi yang ekstrem dan pasang surut konflik yang melelahkan.
 
 ## 5. Memutus Siklus Konflik
 
@@ -101,19 +101,19 @@ Untuk mengubah dinamika hubungan, langkah pertama yang harus dilakukan adalah be
 
 ## Dinamika Kelekatan Bukan Takdir
 
-Dinamika kelekatan dalam hubungan romantis bukanlah sebuah takdir mati yang tidak bisa diubah. Dengan memahami bahwa reaksi defensif pasangan sebenarnya berakar dari luka masa lalu, kita dapat menumbuhkan empati yang lebih dalam.
+Dinamika kelekatan dalam hubungan romantis bukanlah sebuah takdir yang tidak bisa diubah. Dengan memahami bahwa reaksi defensif pasangan sebenarnya berakar dari luka masa lalu, kita dapat menumbuhkan empati yang lebih dalam.
 
-Mengenali peran kita dalam 'tarian' hubungan ini - apakah kita cenderung mengejar atau menghindar - adalah langkah penting untuk menciptakan harmoni baru. Kesadaran inilah kunci utama untuk bertransformasi. Begitu kamu memahami pola kelekatan ini, kamu tidak lagi menjadi korban dari reaksi otomatis diri sendiri, melainkan mulai memegang kendali untuk membangun hubungan yang lebih sehat.
+Mengenali peran kita dalam 'tarian' hubungan ini - apakah kita cenderung mengejar atau menghindar - adalah langkah penting untuk mengubah pola tersebut. Kesadaran inilah yang memungkinkan perubahan. Begitu kamu memahami pola kelekatan ini, kamu tidak lagi menjadi korban dari reaksi otomatis diri sendiri, melainkan mulai memegang kendali untuk membangun hubungan yang lebih sehat.
 
 ## Menciptakan Koneksi yang Mendalam
 
-Membangun hubungan yang mendalam adalah seni sekaligus keterampilan sosial yang melibatkan kedalaman emosional, kejujuran, dan investasi waktu. Relasi semacam ini melampaui percakapan basa-basi (*small talk*) dan menyentuh aspek nilai hidup, impian, serta dukungan timbal balik.
+Membangun hubungan yang mendalam adalah seni sekaligus keterampilan sosial yang melibatkan kedalaman emosional, kejujuran, dan kesediaan meluangkan waktu. Relasi semacam ini melampaui percakapan basa-basi (*small talk*) dan menyentuh aspek nilai hidup, impian, serta dukungan timbal balik.
 
 Berikut adalah pilar-pilar utama dalam menciptakan koneksi yang mendalam:
 
 * **Mendengarkan Secara Aktif (*Active Listening*):** Dengarkan untuk memahami emosi di balik ucapan pasangan, bukan sekadar menunggu giliran membalas. Fokuskan perhatianmu sepenuhnya tanpa menyela obrolan.
-* **Berani Menunjukkan Kerentanan (*Vulnerability*):** Brené Brown menyebut kerentanan sebagai jembatan utama koneksi. Ini berarti kamu berani menunjukkan sisi dirimu apa adanya, termasuk ketakutan dan kegagalan, tanpa topeng kesempurnaan.
-* **Konsistensi dan Kehadiran Nyata:** Ikatan yang kuat tumbuh dari momen-momen kecil yang dipupuk setiap hari. Hadir secara penuh saat pasangan membutuhkan jauh lebih bernilai dibanding barang mewah apa pun.
+* **Berani Menunjukkan Kerentanan (*Vulnerability*):** Brené Brown menyebut kerentanan sebagai jembatan menuju koneksi. Ini berarti kamu berani menunjukkan sisi dirimu apa adanya, termasuk ketakutan dan kegagalan, tanpa topeng kesempurnaan.
+* **Konsistensi dan Kehadiran Nyata:** Ikatan yang kuat tumbuh dari momen-momen kecil yang dipupuk setiap hari. Hadir secara penuh saat pasangan membutuhkan lebih bernilai dibanding barang mewah.
 * **Mengutamakan Empati:** Empati melampaui rasa kasihan. Ini adalah kesediaan untuk menempatkan dirimu di posisi mereka dan ikut merasakan apa yang sedang mereka lalui.
 
 "Koneksi adalah energi yang tercipta di antara orang-orang ketika mereka merasa dilihat, didengar, dan dihargai." - Brené Brown

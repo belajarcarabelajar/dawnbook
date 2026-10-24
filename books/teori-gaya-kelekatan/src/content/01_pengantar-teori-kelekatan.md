@@ -1,6 +1,6 @@
 ## Pengantar Teori Kelekatan
 
-Selamat datang di awal perjalanan untuk memahami diri kamu dan orang-orang di sekitar kamu dengan lebih mendalam. Pernahkah kamu bertanya-tanya mengapa beberapa orang sangat tenang dalam hubungan, sementara yang lain merasa sangat gelisah atau justru ingin menjauh saat keintiman mulai terbentuk?
+Selamat datang di awal perjalanan untuk memahami diri kamu dan orang-orang di sekitar kamu dengan lebih mendalam. Pernahkah kamu bertanya-tanya mengapa beberapa orang tenang dalam hubungan, sementara yang lain merasa gelisah atau justru ingin menjauh saat keintiman mulai terbentuk?
 
 Jawabannya sering kali terletak pada **Teori Kelekatan (Attachment Theory)**. Teori ini berfungsi sebagai peta jalan yang menjelaskan cara kita mencintai, memercayai, dan berinteraksi dengan dunia sejak lahir hingga hari tua.
 
@@ -8,7 +8,7 @@ Jawabannya sering kali terletak pada **Teori Kelekatan (Attachment Theory)**. Te
 
 Secara sederhana, **kelekatan (attachment)** adalah ikatan emosional mendalam yang menghubungkan seseorang dengan orang lain secara konsisten.
 
-Bayangkan **jangkar pada kapal**. Di tengah lautan kehidupan yang penuh badai, kelekatan adalah rantai yang menghubungkan kita dengan pelabuhan yang aman. Jika rantai itu kuat dan fleksibel, kapal dapat menjelajah jauh tetapi tetap merasa aman. Jika rantai itu rapuh atau terlalu kaku, kapal tersebut akan kesulitan untuk berfungsi dengan baik.
+Bayangkan **jangkar pada kapal**. Saat laut sedang berbadai, kelekatan adalah rantai yang menghubungkan kita dengan pelabuhan yang aman. Jika rantai itu kuat dan fleksibel, kapal dapat menjelajah jauh tetapi tetap merasa aman. Jika rantai itu rapuh atau terlalu kaku, kapal tersebut akan kesulitan untuk berfungsi dengan baik.
 
 "Kelekatan merupakan kebutuhan biologis untuk merasa aman, dilindungi, dan dipahami, bukan hanya dorongan untuk berdekatan secara fisik."
 
@@ -38,7 +38,7 @@ Bayangkan seorang anak kecil di taman bermain sebagai **penjelajah** dan pengasu
 
 Ketika penjelajah tahu bahwa pangkalan aman selalu siap sedia jika ia terjatuh, ia akan berani memanjat perosotan yang tinggi. Anak tersebut belajar bahwa mengambil risiko adalah hal yang wajar karena ada "jaring pengaman" di belakangnya.
 
-Sebaliknya, jika pangkalan aman itu sering menghilang atau tidak peduli, sang penjelajah akan menghabiskan seluruh energinya untuk terus mengawasi pangkalan alih-alih bermain. Akibatnya, ia kehilangan kesempatan untuk belajar dan berkembang karena terlalu sibuk mencari rasa aman yang tidak kunjung didapatkan.
+Sebaliknya, jika pangkalan aman itu sering menghilang atau tidak peduli, sang penjelajah akan menghabiskan energinya untuk terus mengawasi pangkalan alih-alih bermain. Akibatnya, ia kehilangan kesempatan untuk belajar dan berkembang karena terlalu sibuk mencari rasa aman yang tidak kunjung didapatkan.
 
 ## Dampak Sepanjang Hayat
 
@@ -69,7 +69,7 @@ Memahami teori kelekatan bukan bertujuan untuk menyalahkan orang tua atas masa l
 
 ## Relasi Bermakna sebagai Seni dan Keterampilan Sosial
 
-Membangun relasi yang bermakna adalah perpaduan seni dan keterampilan sosial yang memerlukan kedalaman emosional, kejujuran, serta investasi waktu. Hubungan yang bernilai tinggi akan melampaui percakapan basa-basi (*small talk*) untuk menyentuh aspek nilai kehidupan, impian, dan dukungan timbal balik.
+Membangun relasi yang bermakna adalah perpaduan seni dan keterampilan sosial yang memerlukan kedalaman emosional, kejujuran, serta kesediaan meluangkan waktu. Hubungan yang bernilai tinggi akan melampaui percakapan basa-basi (*small talk*) untuk menyentuh aspek nilai kehidupan, impian, dan dukungan timbal balik.
 
 Berikut adalah beberapa pilar utama dalam menumbuhkan koneksi yang mendalam:
 
@@ -77,7 +77,7 @@ Berikut adalah beberapa pilar utama dalam menumbuhkan koneksi yang mendalam:
 
 * **Mendengarkan Secara Aktif (*Active Listening*):** Mendengarkan secara aktif berarti menangkap emosi di balik setiap ucapan, bukan hanya mendengar kata-katanya. Fokuslah pada lawan bicara tanpa menyela atau sibuk memikirkan tanggapan kamu selanjutnya.
 * **Kerentanan (*Vulnerability*):** Peneliti Brené Brown menyebutkan bahwa kerentanan adalah jembatan menuju koneksi. Hal ini berarti berani menunjukkan sisi asli kamu, termasuk ketakutan dan kegagalan, bukan hanya menampilkan citra "sempurna".
-* **Konsistensi dan Kehadiran:** Hubungan yang kokoh terbangun dari akumulasi momen-momen kecil. Hadir secara penuh saat dibutuhkan jauh lebih bernilai daripada sekadar memberikan materi.
+* **Konsistensi dan Kehadiran:** Hubungan yang kokoh terbangun dari akumulasi momen-momen kecil. Hadir secara penuh saat dibutuhkan lebih bernilai daripada sekadar memberikan materi.
 * **Empati di Atas Simpati:** Simpati adalah merasa kasihan pada seseorang, sedangkan empati adalah kesediaan untuk ikut merasakan apa yang sedang mereka alami.
 
 > "Koneksi adalah energi yang tercipta di antara orang-orang ketika mereka merasa dilihat, didengar, dan dihargai." - Brené Brown

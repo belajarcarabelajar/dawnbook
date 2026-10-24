@@ -6,7 +6,7 @@ Mari kita menengok kembali akar pemahaman tentang hubungan manusia. Sebelum masu
 
 Ibarat sebuah bangunan, teori kelekatan diletakkan fondasinya oleh **John Bowlby** (1907-1990). Psikolog dan psikiater asal Inggris ini berani menantang gagasan utama yang dipercaya para ahli pada masanya.
 
-Pada dekade 1940-an, kaum behavioris meyakini bahwa bayi menempel pada ibunya semata-mata karena urusan makanan. Namun, Bowlby mengamati hal yang sangat berbeda ketika menangani anak-anak yang terpisah dari orang tua mereka selama berkecamuknya Perang Dunia II.
+Pada dekade 1940-an, kaum behavioris meyakini bahwa bayi menempel pada ibunya semata-mata karena urusan makanan. Namun, Bowlby mengamati hal yang berbeda ketika menangani anak-anak yang terpisah dari orang tua mereka selama Perang Dunia II.
 
 ### Konsep "The Secure Base" (Basis Aman) dari Bowlby
 
@@ -20,7 +20,7 @@ Bowlby mengajukan gagasan bahwa kelekatan adalah **sistem motivasi biologis** ba
 
 Jika Bowlby adalah perancang teorinya, **Mary Ainsworth** (1913-1999) adalah sosok yang mengujinya secara empiris di laboratorium. Ia membawa gagasan Bowlby dari sekadar pengamatan klinis menjadi penelitian terukur yang sistematis.
 
-Karya monumentalnya yang mengubah lanskap psikologi perkembangan adalah prosedur eksperimental bernama **The Strange Situation (Situasi Asing)**.
+Karya utamanya adalah prosedur eksperimental bernama **The Strange Situation (Situasi Asing)**.
 
 ### Eksperimen 'Strange Situation'
 
@@ -60,7 +60,7 @@ sequenceDiagram
     I->>B: 8. Ibu kembali untuk kedua kalinya
 ```
 
-Indikator terpenting bukanlah seberapa keras anak menangis saat ditinggal pergi, melainkan bagaimana perilakunya saat **reuni (bertemu kembali dengan ibu)**. Momen inilah yang menjadi kunci utama Ainsworth dalam menentukan kategori kelekatan.
+Indikator terpenting bukanlah seberapa keras anak menangis saat ditinggal pergi, melainkan bagaimana perilakunya saat **reuni (bertemu kembali dengan ibu)**. Momen inilah yang menjadi dasar Ainsworth dalam menentukan kategori kelekatan.
 
 ## Tiga Klasifikasi Awal Ainsworth
 
@@ -100,18 +100,18 @@ Riset dari Bowlby dan Ainsworth menunjukkan bahwa kebutuhan untuk merasa aman ad
 
 ## Dari Obrolan Ringan ke Hubungan yang Mendalam
 
-Membangun hubungan yang bermakna adalah sebuah seni sekaligus keterampilan sosial yang melibatkan kedalaman emosional, kejujuran, dan investasi waktu. Hubungan yang mendalam melampaui obrolan ringan (*small talk*) dan menyentuh aspek nilai hidup, impian, serta dukungan timbal balik.
+Membangun hubungan yang bermakna adalah sebuah seni sekaligus keterampilan sosial yang melibatkan kedalaman emosional, kejujuran, dan kesediaan meluangkan waktu. Hubungan yang mendalam melampaui obrolan ringan (*small talk*) dan menyentuh aspek nilai hidup, impian, serta dukungan timbal balik.
 
 ## Pilar Utama Hubungan yang Mendalam
 
 1. **Asah Kemampuan Mendengarkan Aktif (*Active Listening*)**
    Mendengarkan aktif berarti menyerap emosi di balik ucapan, bukan cuma mendengar rentetan kata. Cobalah fokus penuh pada lawan bicaramu tanpa menyela atau sibuk menyusun jawaban di kepala.
 2. **Jangan Takut Menunjukkan Kerentanan (*Vulnerability*)**
-   Menurut Brené Brown, kerentanan adalah jembatan utama menuju koneksi. Ini berarti kamu berani menunjukkan diri apa adanya, termasuk ketakutan dan kegagalan, alih-alih terus menampilkan topeng "sempurna".
+   Menurut Brené Brown, kerentanan adalah jembatan menuju koneksi. Ini berarti kamu berani menunjukkan diri apa adanya, termasuk ketakutan dan kegagalan, alih-alih terus menampilkan topeng "sempurna".
 3. **Konsistensi dalam Kehadiran**
-   Ikatan yang kuat tidak tumbuh dari kejutan besar yang sesekali, melainkan dari momen-momen kecil yang terakumulasi. Hadir secara emosional saat dibutuhkan jauh lebih berharga daripada hadiah materi yang mahal.
+   Ikatan yang kuat tidak tumbuh dari kejutan besar yang sesekali, melainkan dari momen-momen kecil yang terakumulasi. Hadir secara emosional saat dibutuhkan lebih berharga daripada hadiah materi yang mahal.
 4. **Utamakan Empati, Bukan Simpati**
-   Simpati hanya membuat kita merasa kasihan dari kejauhan. Empati menuntut kita untuk benar-benar mencoba merasakan apa yang dialami oleh orang lain.
+   Simpati hanya membuat kita merasa kasihan dari kejauhan. Empati menuntut kita untuk mencoba merasakan apa yang dialami oleh orang lain.
 
 > *"Koneksi adalah energi yang tercipta di antara orang-orang ketika mereka merasa dilihat, didengar, dan dihargai."*
 >

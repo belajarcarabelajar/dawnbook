@@ -98,9 +98,9 @@ Gaya kelekatan tidak hanya memengaruhi hubungan romantis, tetapi juga terlihat d
 
 Ingatlah bahwa gaya kelekatan bersifat **spektrum**, bukan kotak kaku. Kamu bisa saja merasa dominan aman, namun tetap memiliki kecenderungan menghindar dalam situasi konflik tertentu.
 
-**Langkah Selanjutnya:** Setelah mengenali pola dominanmu, hindari menghakimi diri sendiri. Menyadari pola tersebut sudah menjadi langkah awal yang sangat berharga menuju pemulihan.
+**Langkah Selanjutnya:** Setelah mengenali pola dominanmu, hindari menghakimi diri sendiri. Menyadari pola tersebut sudah menjadi langkah awal menuju pemulihan.
 
-**Catatan Penting:** Gaya kelekatan adalah strategi bertahan hidup yang kamu bangun saat masih kecil. Sekarang, setelah beranjak dewasa, kamu memiliki kendali penuh untuk mengevaluasi apakah strategi lama ini masih membantu atau justru menghalangi kebahagiaanmu.
+**Catatan Penting:** Gaya kelekatan adalah strategi bertahan hidup yang kamu bangun saat masih kecil. Sekarang, setelah beranjak dewasa, kamu memiliki kendali untuk mengevaluasi apakah strategi lama ini masih membantu atau justru menghalangi kebahagiaanmu.
 
 ## Meningkatkan Kedalaman Hubungan Emosional
 

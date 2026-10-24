@@ -2,7 +2,7 @@
 
 Bayangkan kamu sedang mengendarai mobil di jalan tol yang gelap, dan indikator bahan bakar kamu terus-menerus berkedip di angka "E" (Empty). Namun, kamu baru saja mengisi bensin. Kamu merasa panik, tidak tenang, dan terus-menerus mencari pom bensin berikutnya karena takut terdampar di tengah jalan.
 
-Bagi orang dengan **Gaya Kelekatan Cemas (Anxious-Preoccupied)**, hubungan asmara sering kali terasa seperti mobil tersebut. Mereka hidup dalam rasa haus akan kasih sayang yang konstan, selalu khawatir bahwa perhatian dari pasangan bisa hilang kapan saja.
+Bagi orang dengan **Gaya Kelekatan Cemas (Anxious-Preoccupied)**, hubungan asmara sering kali terasa seperti mobil tersebut. Mereka terus merasa kekurangan kasih sayang, selalu khawatir bahwa perhatian dari pasangan bisa hilang kapan saja.
 
 ## Apa Itu Gaya Kelekatan Cemas?
 
@@ -14,7 +14,7 @@ Dalam psikologi, orang dengan gaya ini biasanya memiliki model kerja internal (*
 
 Orang dengan gaya kelekatan cemas biasanya menunjukkan beberapa ciri khas berikut:
 
-* Sangat sensitif terhadap penolakan. Tanda sekecil apa pun bahwa pasangan mulai menjauh bisa memicu kepanikan luar biasa.
+* Sangat sensitif terhadap penolakan. Tanda sekecil apa pun bahwa pasangan mulai menjauh bisa memicu kepanikan.
 * Kebutuhan validasi yang tinggi, misalnya sering bertanya, "Kamu masih sayang aku, kan?" hanya untuk merasa aman.
 * Kewaspadaan berlebih (*hyper-vigilance*) terhadap perubahan kecil, seperti nada suara pasangan yang mendatar atau chat yang dibalas lebih lambat dari biasanya.
 * Ketergantungan emosional yang tinggi, membuat mereka sulit fokus berkegiatan tanpa adanya kabar dari pasangan.
@@ -53,13 +53,13 @@ Mari kita lihat bagaimana gaya kelekatan cemas bekerja dalam situasi sehari-hari
 * **Pukul 10.30:** "Mungkin dia sedang sibuk rapat."
 * **Pukul 11.30:** "Kok sudah dibaca tapi belum dibalas juga? Apa ada chat-ku yang salah?"
 * **Pukul 13.00:** "Dia pasti mulai bosan denganku. Jangan-jangan dia lagi asyik mengobrol dengan rekan kerjanya?"
-* **Pukul 14.00:** Karena cemas setengah mati, Santi akhirnya mengirim pesan lagi: "Kamu kok cuek banget sih? Kalau mau putus bilang aja!"
+* **Pukul 14.00:** Karena kecemasannya terus naik, Santi akhirnya mengirim pesan lagi: "Kamu kok cuek banget sih? Kalau mau putus bilang aja!"
 
 **Analisis:** Kecemasan Santi memuncak karena pikirannya menafsirkan "tidak dibalas" sebagai tanda bahwa Budi akan meninggalkannya. Pesan bernada marah yang dikirim pada pukul 14.00 sebenarnya bukan karena Santi membenci Budi, melainkan sebuah bentuk kepanikan agar Budi segera merespons dan meyakinkan dirinya bahwa hubungan mereka baik-baik saja.
 
 ## Tantangan dan Kekuatan
 
-Meskipun sering merasa lelah dengan kecemasan sendiri, orang dengan gaya kelekatan cemas sebenarnya memiliki kelebihan yang luar biasa jika mereka berhasil mengelolanya.
+Meskipun sering merasa lelah dengan kecemasan sendiri, orang dengan gaya kelekatan cemas sebenarnya memiliki kelebihan jika mereka berhasil mengelolanya.
 
 | Aspek | Tantangan | Kekuatan |
 | --- | --- | --- |
@@ -86,16 +86,16 @@ Meskipun sering merasa lelah dengan kecemasan sendiri, orang dengan gaya kelekat
 
 ## Membangun Hubungan yang Bermakna
 
-Membangun hubungan yang mendalam adalah seni sekaligus keterampilan yang butuh kejujuran dan investasi waktu. Hubungan seperti ini melampaui obrolan ringan (*small talk*) dan menyentuh nilai-nilai personal, impian, serta dukungan timbal balik.
+Membangun hubungan yang mendalam adalah seni sekaligus keterampilan yang butuh kejujuran dan kesediaan meluangkan waktu. Hubungan seperti ini melampaui obrolan ringan (*small talk*) dan menyentuh nilai-nilai personal, impian, serta dukungan timbal balik.
 
 Berikut adalah pilar utama dalam membangun koneksi yang kuat:
 
 ### Pilar Utama Hubungan yang Bermakna
 
 1. **Mendengarkan secara aktif (*active listening*):** Cobalah memahami perasaan di balik setiap kalimat yang diucapkan. Fokuslah sepenuhnya pada lawan bicaramu tanpa menyela atau sibuk memikirkan balasan yang ingin kamu sampaikan.
-2. **Menunjukkan kerentanan (*vulnerability*):** Peneliti Brené Brown menyebut kerentanan sebagai jembatan utama untuk membangun koneksi. Hal ini berarti kamu berani menunjukkan dirimu apa adanya (termasuk ketakutan dan kegagalanmu), bukan hanya memamerkan sisi luar yang tampak sempurna.
-3. **Konsistensi dan kehadiran:** Hubungan yang kuat terbentuk dari tumpukan momen kecil sehari-hari. Berada di sisi seseorang saat mereka membutuhkan jauh lebih berharga daripada hadiah yang mahal.
-4. **Empati:** Simpati adalah merasa kasihan, sedangkan empati adalah meluangkan waktu untuk benar-benar merasakan apa yang sedang dialami orang lain.
+2. **Menunjukkan kerentanan (*vulnerability*):** Peneliti Brené Brown menyebut kerentanan sebagai jembatan untuk membangun koneksi. Hal ini berarti kamu berani menunjukkan dirimu apa adanya (termasuk ketakutan dan kegagalanmu), bukan hanya memamerkan sisi luar yang tampak sempurna.
+3. **Konsistensi dan kehadiran:** Hubungan yang kuat terbentuk dari tumpukan momen kecil sehari-hari. Berada di sisi seseorang saat mereka membutuhkan lebih berharga daripada hadiah yang mahal.
+4. **Empati:** Simpati adalah merasa kasihan, sedangkan empati adalah meluangkan waktu untuk merasakan apa yang sedang dialami orang lain.
 
 "Koneksi adalah energi yang tercipta di antara orang-orang ketika mereka merasa dilihat, didengar, dan dihargai." - Brené Brown
 

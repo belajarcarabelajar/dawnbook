@@ -1,6 +1,6 @@
 ## Proses Penyembuhan dan Transformasi
 
-Selamat datang di tahap yang paling memulihkan dalam perjalanan memahami Teori Kelekatan. Jika sebelumnya kita telah belajar mengenali luka dan pola masa lalu, bagian ini akan fokus pada cara menyembuhkan luka tersebut dan menulis ulang arah hidupmu.
+Setelah mengenali luka dan pola kelekatan dari masa lalu, langkah berikutnya adalah belajar menyembuhkan luka tersebut dan mengubah arah hidupmu.
 
 Penyembuhan kelekatan tidak bertujuan mengubah masa lalu yang mustahil untuk diputar kembali. Fokus utamanya adalah mengubah bagaimana peristiwa masa lalu tersebut memengaruhi kehidupanmu saat ini. Melalui langkah ini, kamu diajak bertransisi dari *Insecure Attachment* (kelekatan tidak aman) menuju *Earned Security* (keamanan yang dibangun secara sadar).
 
@@ -94,7 +94,7 @@ Santi akan menangis secara histeris, menuduh Budi sudah tidak menyayanginya lagi
 
 ## Langkah Menuju Kemandirian Emosional
 
-Penyembuhan adalah proses yang dinamis dan berliku, bukan sebuah garis lurus. Adakalanya kamu mungkin tidak sengaja terjatuh kembali ke pola reaksi yang lama. Hal itu sangat wajar. Fokus utama kita bukanlah mencapai kesempurnaan tanpa cela, melainkan membangun kesadaran (*awareness*) yang terus bertumbuh.
+Penyembuhan adalah proses yang dinamis dan berliku, bukan sebuah garis lurus. Adakalanya kamu mungkin tidak sengaja terjatuh kembali ke pola reaksi yang lama. Hal itu wajar. Fokus utama kita bukanlah mencapai kesempurnaan, melainkan membangun kesadaran (*awareness*) yang terus bertumbuh.
 
 Perlu diingat bahwa pulih bukan berarti kamu tidak akan pernah lagi merasakan kecemasan atau keinginan untuk menarik diri. Pulih berarti kamu kini memiliki pemahaman dan alat bantu untuk mengelola emosi tersebut, sehingga tidak sampai merusak hubungan yang tengah kamu bangun.
 
@@ -104,16 +104,16 @@ Cobalah menulis sebuah 'Kontrak Keamanan' kecil untuk dirimu sendiri. Catatlah t
 
 ## Perpaduan Seni dan Keterampilan Sosial dalam Relasi
 
-Membangun relasi yang bermakna merupakan perpaduan antara seni dan keterampilan sosial yang membutuhkan kedalaman emosi, kejujuran, serta investasi waktu yang tulus. Koneksi yang mendalam ini melampaui obrolan basa-basi dan menyentuh nilai-nilai kehidupan, impian besar, serta dukungan timbal balik.
+Membangun relasi yang bermakna merupakan perpaduan antara seni dan keterampilan sosial yang membutuhkan kedalaman emosi, kejujuran, serta kesediaan meluangkan waktu dengan tulus. Koneksi yang mendalam ini melampaui obrolan basa-basi dan menyentuh nilai-nilai kehidupan, impian, serta dukungan timbal balik.
 
 ### Empat Pilar Koneksi yang Tulus
 
 - **Mendengarkan secara aktif (Active Listening)**: Hal ini melampaui ucapan yang terdengar, karena kamu juga berupaya menangkap emosi di balik kata-kata tersebut. Dengarkan tanpa menyela atau sibuk memikirkan tanggapan berikutnya.
 - **Keberanian untuk menunjukkan kerentanan (Vulnerability)**: Brené Brown menulis bahwa kerentanan adalah jembatan menuju koneksi yang tulus. Ini berarti berani memperlihatkan diri apa adanya (termasuk ketakutan dan kegagalanmu) bukan hanya menampilkan versi diri yang seolah tanpa cela.
-- **Konsistensi dan Kehadiran**: Hubungan yang erat tumbuh lewat momen-momen kecil yang terus menumpuk dari waktu ke waktu. Hadir di saat-saat penting jauh lebih bernilai daripada sekadar memberikan hadiah mahal.
+- **Konsistensi dan Kehadiran**: Hubungan yang erat tumbuh lewat momen-momen kecil yang terus menumpuk dari waktu ke waktu. Hadir di saat-saat penting lebih bernilai daripada sekadar memberikan hadiah mahal.
 - **Memilih empati daripada simpati**: Simpati hanya sebatas merasa kasihan pada orang lain, sedangkan empati berarti ikut merasakan apa yang tengah mereka alami dari sudut pandang mereka.
 
-Brené Brown menggambarkan hal ini dengan indah: "Koneksi adalah energi yang tercipta di antara orang-orang ketika mereka merasa dilihat, didengar, dan dihargai."
+Brené Brown menggambarkannya begini: "Koneksi adalah energi yang tercipta di antara orang-orang ketika mereka merasa dilihat, didengar, dan dihargai."
 
 ### Model Kedalaman Hubungan dan Langkah Kecil
 
