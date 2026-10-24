@@ -2,7 +2,7 @@
 
 Bayangkan otak kamu adalah sebuah ruangan yang terus dijejali dengan barang-barang selama bertahun-tahun. Sebagian mungkin berguna, tapi lebih banyak berupa tumpukan majalah lama, kabel kusut, dan pernak-pernik yang tak pernah disentuh. Digital Declutter bertugas mengosongkan seluruh ruangan tersebut, mengecat ulang dindingnya, lalu hanya memasukkan barang yang benar-benar kamu butuhkan dan sukai.
 
-Cal Newport mempopulerkan metode transformasi ini untuk memutus rantai adiksi digital dan membantu kita membangun kembali hubungan yang waras dengan teknologi.
+Cal Newport mempopulerkan metode ini untuk menghentikan kebiasaan digital yang adiktif dan membantu kita membangun kembali hubungan yang waras dengan teknologi.
 
 ## Apa Itu Digital Declutter?
 
@@ -31,7 +31,7 @@ Alasan seperti "takut ketinggalan berita terkini" atau sekadar pelarian saat bos
 Setelah menyusun daftar larangan, jalani komitmen ini selama 30 hari penuh. Waktu sepanjang ini dibutuhkan oleh otak untuk melepaskan diri dari siklus dopamin instan akibat notifikasi.
 
 Fase yang biasa dialami:
-- **Minggu Pertama:** Tubuh seolah berontak. Kamu mungkin sering merasa gelisah, tangan refleks merogoh saku karena sindrom *phantom vibration*, dan dilanda kebosanan parah.
+- **Minggu Pertama:** Kamu mungkin sering merasa gelisah, tangan refleks merogoh saku karena sindrom *phantom vibration*, dan dilanda kebosanan parah.
 - **Minggu Kedua & Ketiga:** Perlahan rasa gelisah itu reda. Kamu mulai menyadari banyaknya sisa waktu luang yang selama ini menguap begitu saja.
 - **Minggu Keempat:** Pikiran menjadi lebih jernih. Di titik ini kamu bisa membedakan mana kebiasaan yang benar-benar dirindukan.
 
@@ -39,7 +39,7 @@ Cobalah ingat, kapan terakhir kali kamu duduk santai selama 15 menit penuh tanpa
 
 ## 3. Menyaring Kembali Teknologi
 
-Tahap ini sangat menentukan keberhasilan *declutter*. Saat masa puasa berakhir, tahan keinginan untuk langsung mengunduh semua aplikasi lama. Kamu wajib memakai filter ketat terhadap teknologi apapun yang ingin diaktifkan kembali.
+Tahap ini menentukan keberhasilan *declutter*. Saat masa puasa berakhir, tahan keinginan untuk langsung mengunduh semua aplikasi lama. Kamu wajib memakai filter ketat terhadap teknologi apapun yang ingin diaktifkan kembali.
 
 Gunakan rumus nilai berikut untuk mengevaluasi setiap alat:
 

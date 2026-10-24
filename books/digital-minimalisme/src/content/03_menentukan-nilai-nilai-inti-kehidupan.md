@@ -6,7 +6,7 @@ Fokus utamanya ada pada **siapa kamu** dan **apa yang benar-benar bermakna bagi 
 
 ### Mengapa Nilai Inti Adalah Fondasi Digital Minimalisme
 
-Digital Minimalisme adalah filosofi untuk **mengagungkan hal-hal yang kamu hargai** dan membuang segala pengalih perhatian.
+Digital Minimalisme adalah filosofi untuk **mengutamakan hal-hal yang kamu hargai** dan membuang segala pengalih perhatian.
 
 > "Minimalisme digital adalah filosofi penggunaan teknologi di mana kamu memfokuskan waktu online kamu pada sejumlah kecil aktivitas yang dipilih secara cermat demi mendukung hal-hal yang kamu hargai, dan dengan senang hati melewatkan hal lainnya." , Cal Newport
 
@@ -30,7 +30,7 @@ Ambil 5-10 nilai yang paling beresonansi dengan kondisimu saat ini,apa yang *ben
 
 #### 3. Kategorisasi dan Prioritas
 
-Saring pilihan tersebut menjadi **3 Nilai Utama**. Ketiganya akan bertindak sebagai "Tritunggal" penentu nasib setiap aplikasi di ponsel kamu.
+Saring pilihan tersebut menjadi **3 Nilai Utama**. Ketiganya akan menjadi patokan untuk menilai setiap aplikasi di ponsel kamu.
 
 ### Menghubungkan Nilai dengan Penggunaan Teknologi
 

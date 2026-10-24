@@ -1,12 +1,12 @@
 ## Menjaga Keberlanjutan Gaya Hidup
 
-Selamat! Kamu telah berhasil melewati proses panjang, dari sekadar memahami psikologi ekonomi perhatian hingga mengeksekusi pembersihan total (*digital declutter*). Tantangan yang sesungguhnya kini menghadang di depan mata. Memastikan agar setahun dari sekarang kamu tidak kembali terseret pusaran *scrolling* tanpa henti butuh usaha lebih dari sekadar sanggup menahan diri selama 30 hari.
+Selamat! Kamu telah berhasil melewati proses panjang, dari sekadar memahami psikologi ekonomi perhatian hingga mengeksekusi pembersihan total (*digital declutter*). Tantangan yang sesungguhnya ada setelah ini. Memastikan agar setahun dari sekarang kamu tidak kembali ke kebiasaan *scrolling* tanpa henti butuh usaha lebih dari sekadar sanggup menahan diri selama 30 hari.
 
-Digital minimalisme adalah praktik yang terus berjalan. Bayangkan kebun yang baru dibersihkan dari gulma; kalau dibiarkan begitu saja, rumput liar pasti tumbuh kembali dengan lebih rapat. Bagian ini hadir sebagai panduan arah untuk merawat "kebun digital" kamu agar tetap tertata meski badai tren teknologi terus menghantam.
+Digital minimalisme adalah praktik yang terus berjalan. Bayangkan kebun yang baru dibersihkan dari gulma; kalau dibiarkan begitu saja, rumput liar pasti tumbuh kembali dengan lebih rapat. Bagian ini hadir sebagai panduan arah untuk merawat "kebun digital" kamu agar tetap tertata meski tren teknologi terus berganti.
 
 ## 1. "Check-up" Digital Berkala
 
-Sama seperti pemeriksaan kesehatan yang berguna mendeteksi penyakit sedini mungkin, ekosistem digital juga butuh **Audit Rutin**. Tanpa pemantauan ini, aplikasi-aplikasi yang tidak perlu dan kebiasaan lama akan diam-diam merayap kembali, sebuah proses senyap yang dikenal sebagai *digital creep*.
+Sama seperti pemeriksaan kesehatan yang berguna mendeteksi penyakit sedini mungkin, ekosistem digital juga butuh **Audit Rutin**. Tanpa pemantauan ini, aplikasi-aplikasi yang tidak perlu dan kebiasaan lama akan diam-diam kembali, sebuah proses yang dikenal sebagai *digital creep*.
 
 Luangkan waktu setiap tiga bulan untuk mengevaluasi isi perangkat kamu. Tanyakan pada diri sendiri apakah sebuah aplikasi masih relevan dengan nilai-nilai yang kamu anut. Cermati pula apakah kehadirannya lebih banyak memberi manfaat atau justru menyedot perhatian. Jika memang masih dibutuhkan, cari format akses yang paling efisien, misalnya membiasakan diri membuka layanan tersebut hanya lewat komputer dan menghapusnya dari ponsel.
 
@@ -22,7 +22,7 @@ Saat obrolan kelompok sedang ramai membahas drama media sosial terbaru yang terl
 
 ## 3. Disiplin di Tengah Godaan Teknologi Baru
 
-Perkembangan teknologi tidak mengenal kata jeda. Platform baru, *gadget* canggih, hingga alat kecerdasan buatan akan terus bermunculan. Seorang minimalis digital tak lantas berubah menjadi sosok yang membenci teknologi; mereka sekadar mengambil peran sebagai **penjaga gerbang yang tangguh**.
+Perkembangan teknologi tidak mengenal kata jeda. Platform baru, *gadget* canggih, hingga alat kecerdasan buatan akan terus bermunculan. Seorang minimalis digital tak lantas berubah menjadi sosok yang membenci teknologi; mereka sekadar mengambil peran sebagai **penjaga gerbang**.
 
 Sebelum tergiur mengadopsi teknologi yang sedang naik daun, lakukan evaluasi sederhana ini:
 
@@ -44,9 +44,9 @@ Khusus untuk tren AI dan aplikasi viral lainnya, pastikan kamu menetapkan niat a
 
 ## 4. Merawat Kebiasaan dalam Jangka Panjang
 
-Membangun disiplin mirip dengan melatih otot; butuh beban dan repetisi. Salah satu rutinitas yang sangat disarankan adalah **Sabat Digital**. Pilih satu hari dalam seminggu (sebut saja hari Minggu) untuk sepenuhnya menjauh dari segala bentuk layar. Isi hari itu dengan kegiatan fisik atau interaksi langsung. Cara ini sangat ampuh memutus siklus stimulasi dopamin artifisial.
+Membangun disiplin mirip dengan melatih otot; butuh beban dan repetisi. Salah satu rutinitas yang disarankan adalah **Sabat Digital**. Pilih satu hari dalam seminggu (sebut saja hari Minggu) untuk sepenuhnya menjauh dari segala bentuk layar. Isi hari itu dengan kegiatan fisik atau interaksi langsung. Cara ini memutus siklus stimulasi dopamin artifisial.
 
-Tantangan lainnya adalah belajar berdamai dengan rasa bosan. Sering kali tangan kita otomatis meraih ponsel hanya karena tak sanggup diam selama lima menit. Padahal, kebosanan adalah kanvas kosong yang kerap memicu gagasan segar. Saat menunggu pesanan kopi atau mengantre di kasir, tahan dorongan membuka ponsel. Biarkan pikiran kamu mengembara liar.
+Tantangan lainnya adalah belajar berdamai dengan rasa bosan. Sering kali tangan kita otomatis meraih ponsel hanya karena tak sanggup diam selama lima menit. Padahal, kebosanan kerap memicu gagasan segar. Saat menunggu pesanan kopi atau mengantre di kasir, tahan dorongan membuka ponsel. Biarkan pikiran kamu mengembara.
 
 ## Tabel Pemeliharaan
 
@@ -69,4 +69,4 @@ Setiap kali merasa kewalahan menghadapi gawai, ajukan dua pertanyaan untuk tiap 
 | Ya | 30 menit atau lebih | Cari cara akses lain, misalnya matikan notifikasinya atau buka lewat laptop. |
 | Tidak | Berapa pun | Hapus tanpa ragu. |
 
-Menjalani digital minimalisme tidak menuntut kesempurnaan hingga kamu tak pernah lagi berselancar tanpa arah di internet. Kuncinya terletak pada kecepatan menyadari kapan teknologi mulai mengambil alih setir, lalu segera merebut kembali kendali tersebut. Kamu adalah arsitek bagi perhatianmu sendiri.
+Menjalani digital minimalisme tidak menuntut kesempurnaan hingga kamu tak pernah lagi berselancar tanpa arah di internet. Kuncinya terletak pada kecepatan menyadari kapan teknologi mulai mengambil alih setir, lalu segera merebut kembali kendali tersebut. Kamu sendiri yang menentukan ke mana perhatianmu pergi.

@@ -1,6 +1,6 @@
 ## Membangun Rekreasi Berkualitas Tinggi
 
-Pernahkah kamu merasa sangat lelah setelah dua jam *scrolling* di media sosial, padahal secara fisik kamu hanya duduk diam? Ironi hiburan digital modern memang begitu: energi mental terkuras habis tanpa ada pemulihan jiwa sedikit pun. Mengosongkan waktu dari layar hanyalah langkah awal dalam digital minimalisme. Langkah selanjutnya adalah mengisi ruang kosong itu dengan kegiatan yang benar-benar memuaskan.
+Pernahkah kamu merasa sangat lelah setelah dua jam *scrolling* di media sosial, padahal secara fisik kamu hanya duduk diam? Begitulah hiburan digital: energi mental terkuras tanpa ada pemulihan. Mengosongkan waktu dari layar hanyalah langkah awal dalam digital minimalisme. Langkah selanjutnya adalah mengisi ruang kosong itu dengan kegiatan yang benar-benar memuaskan.
 
 ## 1. Memahami Spektrum Rekreasi
 
