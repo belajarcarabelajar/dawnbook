@@ -8,7 +8,7 @@ Pertanyaan kunci: *siapa yang berwenang mengeluarkan peringatan dini bencana di 
 
 Sistem hukum kebencanaan Indonesia dibangun berlapis untuk memastikan tidak ada celah tanggung jawab.
 
-**Undang-Undang Nomor 24 Tahun 2007 tentang Penanggulangan Bencana** menjadi undang-undang payung. Pasal 6 dan 46 menegaskan bahwa pencegahan termasuk peringatan dini adalah tanggung jawab pemerintah pusat dan daerah.
+**Undang-Undang Nomor 24 Tahun 2007 tentang Penanggulangan Bencana** menjadi undang-undang payung. Pasal 5 menjadikan Pemerintah dan pemerintah daerah penanggung jawab penyelenggaraan penanggulangan bencana, lalu Pasal 6 dan Pasal 8 merinci tanggung jawab masing-masing, antara lain pengurangan risiko bencana dan pelindungan masyarakat dari dampak bencana. Pasal 46 mengatur peringatan dini itu sendiri: tujuannya agar tindakan cepat dan tepat bisa diambil untuk mengurangi risiko terkena bencana dan menyiapkan tanggap darurat, melalui pengamatan gejala bencana, analisis hasil pengamatan, pengambilan keputusan oleh pihak yang berwenang, penyebarluasan informasi peringatan, dan pengambilan tindakan oleh masyarakat.
 
 Pasal 33 undang-undang yang sama membagi penyelenggaraannya ke dalam tiga tahap:
 

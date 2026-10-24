@@ -36,7 +36,7 @@ Perang Dunia II mempercepat kebutuhan peringatan dini:
 
 Akurasi naik, tetapi rantai informasi masih panjang.
 
-### Hyogo, Sendai, dan Empat Pilar UNESCO
+### Hyogo, Sendai, dan Empat Pilar Peringatan Dini
 
 Dunia sepakat teknologi saja tidak cukup tanpa tata kelola.
 
@@ -52,9 +52,9 @@ Penerus HFA adalah **Sendai Framework for Disaster Risk Reduction 2015-2030** ya
 
 Target ini mendorong negara berpindah dari sistem bahaya tunggal ke *multi-hazard*, satu platform untuk gempa, tsunami, banjir, longsor, dan cuaca ekstrem.
 
-#### Empat Pilar UNESCO-ISDR
+#### Empat Pilar dari Daftar Periksa UN/ISDR
 
-UNESCO bersama *International Strategy for Disaster Reduction* merumuskan empat pilar rujukan hingga kini:
+Daftar periksa *Developing Early Warning Systems: A Key Checklist* (UN/ISDR, 2006), yang disiapkan sekretariat Konferensi Internasional Ketiga tentang Peringatan Dini (EWC III) di Bonn, menyusun empat pilar yang masih menjadi rujukan hingga kini:
 
 1.  ***Risk knowledge***, pemetaan bahaya dan kerentanan berbasis data.
 2.  ***Monitoring and warning service***, pemantauan berkelanjutan dengan ambang batas tervalidasi.
@@ -97,7 +97,7 @@ Tren selanjutnya adalah **impact-based forecasting**, bukan hanya *“hujan 100 
 | 1980-1999 | Telemetri sungai otomatis, Pacific Tsunami Warning Center diperkuat | Sensor elektronik, radio VHF | Peringatan banjir jam-an, koordinasi regional |
 | 2000-2005 | Tsunami Aceh 2004 | Seismometer broadband | Kesadaran global, komitmen HFA 2005 |
 | 2005-2015 | Hyogo Framework, InaTEWS 2008, sirene nasional | Buoy, tide gauge, DSS | Peringatan pertama paling lambat 5 menit untuk tsunami, SOP nasional |
-| 2015-2024 | Sendai Framework 2015-2030, 4 pilar UNESCO, cell broadcast | Satelit GPM, InSAR, IoT, AI | Multi-hazard EWS, impact-based forecasting |
+| 2015-2024 | Sendai Framework 2015-2030, cell broadcast | Satelit GPM, InSAR, IoT, AI | Multi-hazard EWS, impact-based forecasting |
 
 ### Apa Artinya Bagi Kamu
 
