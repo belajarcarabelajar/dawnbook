@@ -92,4 +92,4 @@ Setiap individu pada hakikatnya bertindak sebagai pengelola atas modal manusiany
 
 Jika kamu menganalogikan dirimu sebagai sebuah entitas usaha, berapa besar porsi investasi yang telah kamu alokasikan untuk meningkatkan kualitas aset utamamu (dirimu sendiri) sepanjang tahun ini?
 
-Lalu, seberapa besar imbal hasil pendidikan (*return to education*) yang bisa kamu harapkan dari investasi itu? **Mincer Earnings Function** mengukurnya lewat hubungan antara pendidikan, pengalaman kerja, dan tingkat pendapatan.
+Lalu, seberapa besar imbal hasil pendidikan (*return to education*) yang bisa kamu harapkan dari investasi itu?
