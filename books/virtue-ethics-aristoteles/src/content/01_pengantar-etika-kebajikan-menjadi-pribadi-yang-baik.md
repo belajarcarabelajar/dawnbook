@@ -14,7 +14,7 @@ Etika Kebajikan adalah salah satu dari tiga pendekatan besar dalam etika normati
 
 Dalam pandangan ini, menjadi orang baik tidak cuma diukur dari seberapa patuh kamu pada hukum. Menjadi baik bermakna memiliki **disposisi batin** (kecenderungan) untuk melakukan hal yang benar, pada waktu yang tepat, dengan cara yang tepat, serta dengan motivasi yang jujur.
 
-> "Kita adalah apa yang kita kerjakan berulang kali. Keunggulan itu wujud kebiasaan, bukan satu tindakan acak." , *Aristoteles*
+Kalimat "kita adalah apa yang kita kerjakan berulang kali" sering beredar sebagai ucapan Aristoteles. Penulisnya sebenarnya Will Durant, yang meringkas etika Aristoteles dalam *The Story of Philosophy* (1926): keunggulan adalah kebiasaan, bukan satu tindakan.
 
 ### Karakter vs. Aturan
 

@@ -77,6 +77,6 @@ Kamu tidak bisa menjadi bajik sendirian di ruang hampa. Karakter kita dipengaruh
 
 **Penting:** Ingatlah bahwa tujuan akhir dari semua latihan ini bukanlah untuk menjadi orang yang "merasa paling suci", melainkan untuk mencapai kondisi **Flourishing**, sebuah keadaan di mana kamu hidup sepenuhnya sesuai dengan potensi terbaik kemanusiaan kamu.
 
-> "Kita adalah apa yang kita kerjakan berulang kali. Dengan demikian, keunggulan bukanlah sebuah tindakan, melainkan sebuah kebiasaan." - (Sering diatribusikan kepada Aristoteles sebagai ringkasan pemikirannya).
+Seluruh latihan di bab ini bertumpu pada pengamatan yang dirumuskan Will Durant ketika meringkas etika Aristoteles dalam *The Story of Philosophy* (1926): kita adalah apa yang kita kerjakan berulang kali, dan keunggulan lahir dari kebiasaan, bukan dari satu tindakan.
 
 **Langkah Kamu Selanjutnya:** Identifikasi satu situasi yang biasanya membuat kamu kehilangan kendali (marah, malas, atau tidak jujur). Besok, ketika situasi itu muncul, berhentilah selama 5 detik. Gunakan 5 detik itu untuk memilih tindakan yang mencerminkan "Versi Terbaik" diri kamu. Itulah langkah pertama menuju hidup yang berkualitas.
