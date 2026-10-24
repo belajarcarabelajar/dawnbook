@@ -66,7 +66,7 @@ $$
 $$
 </div>
 
-Pandangan hanya diperbarui bila bobot bukti lebih dari 0,5 (ambang ini angka ilustrasi). Bila bobotnya 0,5 atau kurang, keyakinan lama dipertahankan, tetapi bukti itu tetap dipertimbangkan sebagai anomali.
+Pandangan hanya diperbarui bila bobot bukti lebih dari 0,5 (ambang ini angka ilustrasi). Bila bobotnya 0,5 atau kurang, keyakinan lama dipertahankan, tetapi bukti itu dipertimbangkan sebagai anomali.
 
 Contohnya, dengan angka ilustrasi: kamu sangat yakin pada sebuah opini (0,9), lalu muncul bukti baru yang menunjukkan hal sebaliknya (0,1). Bukti ini sangat valid dan saintifik, sehingga bobotnya 0,8, di atas ambang 0,5.
 
