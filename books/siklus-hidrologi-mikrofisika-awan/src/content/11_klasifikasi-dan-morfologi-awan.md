@@ -1,6 +1,6 @@
 ## Klasifikasi dan Morfologi Awan
 
-Menatap langit sering kali memunculkan pertanyaan tentang alasan beberapa awan terlihat seperti gumpalan kapas yang lembut. Awan lainnya tampak seperti selimut abu-abu yang menutupi seluruh cakrawala.
+Menatap langit sering kali memunculkan pertanyaan tentang alasan beberapa awan terlihat seperti gumpalan kapas yang lembut. Mengapa awan lainnya tampak seperti selimut abu-abu yang menutupi seluruh cakrawala?
 
 Secara visual, awan menjadi indikator utama mengenai dinamika yang terjadi di atmosfer pada skala mikroskopis. Bentuk, ukuran, dan tekstur awan (yang dikenal sebagai **morfologi**) merupakan hasil langsung dari interaksi antara stabilitas termodinamika, kandungan aerosol, serta proses mikrofisika seperti nukleasi es atau tabrakan tetesan air.
 
