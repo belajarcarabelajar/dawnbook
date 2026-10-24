@@ -1,6 +1,6 @@
 ## Pengantar Neuroplastisitas
 
-Selamat datang di awal perjalanan kamu memahami salah satu temuan penting dalam sains modern: **Neuroplastisitas**. Selama berabad-abad, manusia percaya bahwa otak kita adalah sebuah "mesin" yang sudah dipasang mati (hardwired) sejak lahir atau masa kanak-kanak. Namun, sains terbaru memberitahu kita hal yang jauh lebih optimis: otak kamu adalah sebuah organ yang dinamis, hidup, dan terus berubah.
+**Neuroplastisitas** adalah salah satu temuan penting dalam sains modern, dan perjalanan kamu memahaminya dimulai dari halaman ini. Selama berabad-abad, manusia percaya bahwa otak kita adalah sebuah "mesin" yang sudah dipasang mati (hardwired) sejak lahir atau masa kanak-kanak. Namun, sains terbaru memberitahu kita hal yang jauh lebih optimis: otak kamu adalah sebuah organ yang dinamis, hidup, dan terus berubah.
 
 Materi ini akan membawa kamu memahami apa itu neuroplastisitas dan bagaimana sudut pandang dunia medis berubah dari melihat otak sebagai benda statis menjadi sesuatu yang adaptif.
 

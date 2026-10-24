@@ -20,7 +20,7 @@ Ketika kamu membuat kesalahan, misalnya salah menjawab soal matematika atau sala
 
 ### 2\. Peran ACC dalam Ketangguhan (Resilience)
 
-Struktur otak yang berperan penting dalam "Jembatan Sains" ini adalah **Anterior Cingulate Cortex (ACC)**. ACC bertindak seperti menara pengawas yang memantau konflik dan mengatur emosi.
+Struktur otak yang berperan penting dalam cara mindset mengubah otak adalah **Anterior Cingulate Cortex (ACC)**. ACC bertindak seperti menara pengawas yang memantau konflik dan mengatur emosi.
 
 Dalam konteks Growth Mindset, ACC terhubung lebih kuat dengan **Prefrontal Cortex (PFC)**, bagian otak yang bertanggung jawab atas logika dan perencanaan.
 
