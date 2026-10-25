@@ -8,9 +8,9 @@ Kalau kamu memilih "hari ini" di tawaran pertama tetapi memilih "yang lebih besa
 
 ### Diskon untuk menunggu
 
-Hampir semua orang menilai hadiah yang datang nanti lebih rendah daripada hadiah yang sama yang datang sekarang. Itu wajar dan sering masuk akal: uang bisa dipakai, masa depan tidak pasti. Para ekonom menyebutnya **diskonto**. Yang membuat cerita ini menarik adalah bentuk diskonnya.
+Hampir semua orang menilai hadiah yang datang nanti lebih rendah daripada hadiah yang sama yang datang sekarang. Itu wajar dan sering masuk akal: uang bisa dipakai, masa depan tidak pasti. Para ekonom menyebutnya **diskonto**. Yang membuat cerita ini menarik adalah bentuk diskontonya.
 
-Kalau diskon berlaku rata, misalnya menunggu setiap minggu selalu mengurangi nilai dengan persentase yang sama, maka pilihanmu di tawaran pertama dan kedua akan selalu searah. Fungsi diskonto **hiperbolik**, yang dipakai Laibson (1997) dalam modelnya, berbeda: potongan nilainya paling curam untuk masa depan yang dekat, lalu melandai untuk masa depan yang jauh. Seminggu pertama dari sekarang "mahal" sekali. Seminggu yang sama di tahun depan terasa murah.
+Kalau diskonto berlaku rata, misalnya menunggu setiap minggu selalu mengurangi nilai dengan persentase yang sama, maka pilihanmu di tawaran pertama dan kedua akan selalu searah. Fungsi diskonto **hiperbolik**, yang dalam model Laibson (1997) didekati dengan bentuk *quasi-hyperbolic*, berbeda: potongan nilainya paling curam untuk masa depan yang dekat, lalu melandai untuk masa depan yang jauh. Seminggu pertama dari sekarang "mahal" sekali. Seminggu yang sama di tahun depan terasa murah.
 
 Karena itu pilihanmu bisa berbalik arah hanya karena waktu berjalan. Di tawaran kedua, kedua hadiah sama-sama jauh, jadi sepuluh ribu rupiah tambahan terasa layak ditunggu. Tetapi ketika tahun itu berlalu dan hadiah pertama tinggal "hari ini", menunggu seminggu mendadak terasa berat. Pilihan yang sama, selisih yang sama, jawaban yang berbeda.
 
@@ -43,7 +43,7 @@ Perbedaan ini tampak dalam dua jenis aktivitas. Aktivitas dengan **biaya segera*
 | | Biaya segera (kerja, olahraga) | Hadiah segera (belanja, hiburan) |
 |---|---|---|
 | **Naif** | Menunda terus, karena yakin besok pasti dikerjakan | "Preproperate": melakukannya terlalu cepat, sebelum waktunya |
-| **Canggih** | Sadar akan kecenderungannya, jadi sudah memperhitungkannya saat merencanakan | Sama: sadar akan kecenderungannya dan memperhitungkannya |
+| **Canggih** | Sadar akan kecenderungannya, jadi sudah memperhitungkannya saat merencanakan | Sadar akan kecenderungannya dan memperhitungkannya, tetapi bisa memperparah kecenderungan bertindak terlalu cepat |
 
 Kata *preproperate* adalah kebalikan dari menunda: bertindak lebih awal dari yang seharusnya. Satu mesin yang sama, bias masa kini, bisa membuat kita menunda hal yang berat sekaligus tergesa pada hal yang enak. O'Donoghue dan Rabin (1999) menemukan bahwa bias masa kini yang kecil pun bisa sangat merugikan orang naif untuk aktivitas berbiaya segera. Kekeliruan kecil yang diulang setiap hari, tanpa pernah disadari, bisa menumpuk.
 

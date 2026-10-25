@@ -2,7 +2,7 @@
 
 Bayangkan seorang mahasiswa bernama Raka (tokoh rekaan, hanya untuk ilustrasi). Minggu kedua semester, tugas esai baru diumumkan dan tenggatnya masih jauh. Raka santai. Ia tidur cukup, sempat ikut futsal, dan merasa hidupnya ringan. Teman-temannya yang sudah mulai mencicil terlihat sedikit tegang, dan ia diam-diam merasa lebih pintar mengatur hidup.
 
-Lalu kalender bergeser. Minggu kesepuluh, tiga tugas jatuh tempo dalam empat hari. Raka begadang dengan kopi ketiga, tenggorokannya mulai sakit, dan ia mengirim file setengah jam sebelum batas waktu. Di minggu keempat belas, ia pilek berkepanjangan dan nilainya tidak seperti yang ia harapkan. Ketenangan di awal semester ternyata bukan gratis. Tagihannya hanya datang belakangan, dan jumlahnya lebih besar dari yang ia kira.
+Lalu kalender bergeser. Minggu kesepuluh, tiga tugas jatuh tempo dalam empat hari. Raka begadang dengan kopi ketiga, tenggorokannya mulai sakit, dan ia mengirim file setengah jam sebelum batas waktu. Di minggu keempat belas, ia pilek berkepanjangan dan nilainya tidak seperti yang ia harapkan. Ketenangan di awal semester ternyata bukan gratis. Tagihannya hanya datang belakangan, dan jumlahnya lebih besar daripada yang ia kira.
 
 ### Stres yang naik menjelang akhir semester
 
@@ -20,9 +20,9 @@ Artinya, kaitannya tidak hanya soal "gelisah lalu jatuh sakit". Orang yang terbi
 
 Ada satu jenis penundaan yang tidak punya tenggat, tetapi tetap meminta bayaran: menunda tidur. Kroese dan rekan (2014) menamainya *bedtime procrastination* dan meneliti sampel komunitas lewat survei daring (N = 177). Regulasi diri yang lebih rendah berkaitan dengan lebih banyak penundaan jam tidur, dan penundaan itu berkaitan dengan laporan kurang tidur, bahkan setelah faktor demografi dan regulasi diri diperhitungkan.
 
-Studi lanjutannya lebih luas. Kroese dan rekan (2016) memakai sampel representatif orang dewasa Belanda (N = 2.431). Sebagian besar partisipan melaporkan kurang tidur dan tidur lebih larut dari yang direncanakan tanpa alasan eksternal. Regulasi diri berkaitan dengan kurang tidur, dengan bedtime procrastination sebagai mediatornya. Kata kuncinya ada pada frasa "tanpa alasan eksternal": tidak ada lembur, bayi yang rewel, atau shift malam. Yang terjadi hanyalah kita sendiri yang menggeser jam tidur.
+Studi lanjutannya lebih luas. Kroese dan rekan (2016) memakai sampel representatif orang dewasa Belanda (N = 2.431). Sebagian besar partisipan melaporkan kurang tidur dan tidur lebih larut daripada yang direncanakan tanpa alasan eksternal. Regulasi diri berkaitan dengan kurang tidur, dengan bedtime procrastination sebagai mediatornya. Kata kuncinya ada pada frasa "tanpa alasan eksternal": tidak ada lembur, bayi yang rewel, atau shift malam. Yang terjadi hanyalah kita sendiri yang menggeser jam tidur.
 
-Dengan definisi itu, kebiasaan yang di media sosial sering disebut *revenge bedtime* (istilah populer, bukan istilah dalam studi-studi tadi) masuk akal dipahami sebagai bentuk yang sama. Ini ilustrasi dari penulis, bukan temuan penelitian: kamu pulang kerja jam tujuh malam, sibuk sampai jam sepuluh, lalu menolak tidur karena malam terasa satu-satunya waktu yang benar-benar milikmu. Kamu tahu besok harus bangun pagi, dan tidak ada yang menahanmu di depan layar. Tidur lebih larut dari rencana tanpa alasan eksternal, persis seperti rumusan Kroese dan rekan.
+Dengan definisi itu, kebiasaan yang di media sosial sering disebut *revenge bedtime procrastination* (istilah populer, bukan istilah dalam studi-studi tadi) masuk akal dipahami sebagai bentuk yang sama. Ini ilustrasi dari penulis, bukan temuan penelitian: kamu pulang kerja jam tujuh malam, sibuk sampai jam sepuluh, lalu menolak tidur karena malam terasa satu-satunya waktu yang benar-benar milikmu. Kamu tahu besok harus bangun pagi, dan tidak ada yang menahanmu di depan layar. Tidur lebih larut dari rencana tanpa alasan eksternal, persis seperti rumusan Kroese dan rekan.
 
 > Ilustrasi penulis: layar yang menyala jam satu pagi jarang terasa seperti keputusan. Ia terasa seperti "lima menit lagi" yang diulang dua belas kali.
 

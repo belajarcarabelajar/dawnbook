@@ -6,7 +6,7 @@ Sekarang pindahkan ke Minggu malam milikmu. Laporan itu baru harus dikirim Kamis
 
 ### Keputusan untuk orang yang belum kita temui
 
-Eksperimen Pronin dan rekan-rekannya (2008) terdiri dari empat percobaan. Selain cairan menjijikkan, tugasnya mencakup mengajar teman saat pekan ujian, menerima email amal, dan menunda hadiah undian demi hadiah yang lebih besar. Pola keseluruhannya: keputusan untuk diri masa depan menyerupai keputusan untuk orang lain, dan berbeda dari keputusan untuk diri sekarang. Satu hal penting untuk dicatat: efeknya muncul pada keputusan nyata, bukan hanya skenario di atas kertas.
+Eksperimen Pronin dan rekan-rekannya (2008) terdiri atas empat percobaan. Selain cairan menjijikkan, tugasnya mencakup mengajar teman saat pekan ujian, menerima email amal, dan menunda hadiah undian demi hadiah yang lebih besar. Pola keseluruhannya: keputusan untuk diri masa depan menyerupai keputusan untuk orang lain, dan berbeda dari keputusan untuk diri sekarang. Satu hal penting untuk dicatat: efeknya muncul pada keputusan nyata, bukan hanya skenario di atas kertas.
 
 Kalau pola itu berlaku dalam hidup sehari-hari, penundaan jadi lebih masuk akal. Menyerahkan pekerjaan berat kepada "orang lain" terasa murah hati, bahkan menyenangkan. Kita sering memperlakukan diri kita di hari Rabu seperti rekan kerja yang pasti mau membantu. Hanya saja, saat Rabu tiba, kitalah orang yang menanggung semuanya.
 

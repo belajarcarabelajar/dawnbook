@@ -16,11 +16,11 @@ Ini sisi perfeksionisme yang berisi kekhawatiran. Isinya takut membuat kesalahan
 
 #### Perfectionistic strivings
 
-Sisi yang satu lagi berisi dorongan menetapkan standar tinggi dan ingin bekerja sebaik-baiknya karena itu penting bagimu sendiri. Hubungannya dengan penundaan justru negatif: semakin kuat dorongan ini, cenderung semakin sedikit menunda.
+Sisi yang satu lagi berisi dorongan menetapkan standar tinggi dan ingin bekerja sebaik-baiknya karena itu penting bagimu sendiri. Hubungannya dengan penundaan justru negatif: semakin kuat dorongan ini, seseorang cenderung semakin sedikit menunda.
 
 Dua korelasi ini hanya menunjukkan keterkaitan, bukan sebab-akibat. Kita tidak tahu dari data ini apakah kekhawatiran yang membuat orang menunda, atau penundaan yang memupuk kekhawatiran, atau keduanya.
 
-Dalam keseharian, bedanya kira-kira begini (ilustrasi penulis): perfectionistic concerns tampak seperti mengetik, menghapus, lalu menutup dokumen karena takut hasilnya jelek di mata atasan, sedangkan perfectionistic strivings tampak seperti membuat jadwal garapan sejak jauh hari karena ingin laporannya benar-benar bagus.
+Dalam keseharian, bedanya kira-kira begini (ilustrasi penulis): *perfectionistic concerns* tampak seperti mengetik, menghapus, lalu menutup dokumen karena takut hasilnya jelek di mata atasan, sedangkan *perfectionistic strivings* tampak seperti membuat jadwal garapan sejak jauh hari karena ingin laporannya benar-benar bagus.
 
 ### Menunda untuk menjaga muka
 
