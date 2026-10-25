@@ -2,7 +2,7 @@
 
 ### Pengaruh Keilmuan Statistika terhadap Struktur Diksi
 
-Latar belakang akademik Iwan Setyawan sebagai lulusan Statistika Institut Pertanian Bogor (IPB) memengaruhi gaya penulisan novelnya. Alih-alih hanya mengandalkan deskripsi abstrak, Iwan cenderung mengekspresikan kenangan masa lalunya menggunakan ketepatan angka, dimensi ruang, dan kalkulasi matematis:
+Latar belakang akademik Iwan Setyawan sebagai lulusan Statistika Institut Pertanian Bogor (IPB) memengaruhi gaya penulisan novelnya. Alih-alih hanya mengandalkan deskripsi abstrak, Iwan cenderung mengekspresikan kenangan masa lalunya menggunakan ketepatan angka dan dimensi ruang:
 
 1. **Akurasi Dimensi Rumah Mungil**
    Iwan mendeskripsikan ruang hunian keluarganya yang sempit secara numerik, memadukan angka luas dengan fakta jumlah anggota keluarga:
@@ -25,7 +25,7 @@ Gaya penulisan ini mencerminkan kejiwaan pengarang yang terbiasa dengan akurasi,
 
 ### Angka dan Presisi dalam Stilistika Kuantitatif
 
-Dalam studi stilistika kuantitatif, novel ini secara konsisten memadukan logika matematika dan kepekaan puitis. Pengarang menyajikan angka luas tanah rumahnya yang berukuran $6 \times 7$ meter dengan harga Rp40.000 (Hlm. 35) dan ranjang bambu berukuran $0{,}5 \times 1{,}5$ meter (Hlm. 9) bukan hanya sebagai data kering. Angka-angka ini digunakan untuk menunjukkan secara konkret seberapa terbatas ruang hidup mereka di masa lalu, yang kemudian berkaitan dengan rasa syukur penulis di masa kini.
+Dilihat dari sudut stilistika kuantitatif, novel ini secara konsisten memadukan logika matematika dan kepekaan puitis. Pengarang menyajikan angka luas tanah rumahnya yang berukuran $6 \times 7$ meter dengan harga Rp40.000 (Hlm. 35) dan ranjang bambu berukuran $0{,}5 \times 1{,}5$ meter (Hlm. 9). Angka-angka ini bukan hanya data kering, tetapi juga digunakan untuk menunjukkan secara konkret seberapa terbatas ruang hidup mereka di masa lalu, yang kemudian berkaitan dengan rasa syukur penulis di masa kini.
 
 ### Statistika di Balik Karya yang Emosional
 

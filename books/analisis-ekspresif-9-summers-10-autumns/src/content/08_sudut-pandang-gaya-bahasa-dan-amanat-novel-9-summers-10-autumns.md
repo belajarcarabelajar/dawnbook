@@ -8,7 +8,7 @@ Sudut pandang adalah cara pengarang menempatkan dirinya dalam cerita. Sudut pand
 
 ### Gaya Bahasa Puitis dan Reflektif
 
-Gaya bahasa adalah bahasa indah yang digunakan untuk meningkatkan efek cerita. Gaya bahasa akan melahirkan ciri khas dalam penyampaian gagasan-gagasannya dan akan menjadi sebuah keistimewaan bagi pengarang sehingga dapat menarik minat dan perhatian orang yang akan membaca karyanya. Dalam novel 9 Summers 10 Autumns, pengarang menggunakan gaya bahasa puitis dan reflektif. Gaya bahasa puitis digunakan untuk menggambarkan perasaan penulis melalui fenomena alam, seperti penggunaan istilah "musim panas" and "musim gugur" sebagai ungkapan siklus nasib. Gaya bahasa reflektif digunakan untuk mengajak pembaca berpikir tentang makna keluarga, pendidikan, dan rumah melalui kalimat-kalimat filosofis.
+Gaya bahasa adalah bahasa indah yang digunakan untuk meningkatkan efek cerita. Gaya bahasa akan melahirkan ciri khas pengarang dalam penyampaian gagasan-gagasannya dan akan menjadi sebuah keistimewaan sehingga dapat menarik minat dan perhatian pembaca karyanya. Dalam novel 9 Summers 10 Autumns, pengarang menggunakan gaya bahasa puitis dan reflektif. Gaya bahasa puitis digunakan untuk menggambarkan perasaan pengarang melalui fenomena alam, seperti penggunaan istilah "musim panas" dan "musim gugur" sebagai ungkapan siklus nasib. Gaya bahasa reflektif digunakan untuk mengajak pembaca berpikir tentang makna keluarga, pendidikan, dan rumah melalui kalimat-kalimat filosofis.
 
 ### Amanat Novel 9 Summers 10 Autumns
 
@@ -16,11 +16,11 @@ Amanat adalah pesan dari pengarang yang disampaikan melalui cerita. Amanat dapat
 
 ### Membedah Personifikasi dan Metafora
 
-Analisis stilistika dalam novel ini menunjukkan penggunaan majas personifikasi dan metafora secara dominan untuk menggambarkan kerinduan. Pengarang menuliskan, *'Ibuku, hatinya putih, ia adalah puisi hidupku'* (Hlm. 35) sebagai metafora ketulusan, serta *'keringatnya menetes di atas atap rumah mungilku'* (Hlm. 51) yang mempersonifikasikan pengorbanan saudara perempuannya. Pilihan majas puitis ini secara langsung mengomunikasikan rasa sentimental dan keintiman emosional kepada pembaca.
+Analisis stilistika dalam novel ini menunjukkan penggunaan majas personifikasi dan metafora secara dominan untuk menggambarkan kerinduan. Pengarang menuliskan, *'Ibuku, hatinya putih, ia adalah puisi hidupku'* (Hlm. 35) sebagai metafora ketulusan, serta *'keringatnya menetes di atas atap rumah mungilku'* (Hlm. 51) yang secara kiasan melambangkan pengorbanan saudara perempuannya. Pilihan majas puitis ini secara langsung mengomunikasikan rasa sentimental dan keintiman emosional kepada pembaca.
 
-### Keintiman Sudut Pandang Orang Pertama
+### Keintiman Sudut Pandang Persona Pertama
 
-*Bagaimana penggunaan sudut pandang orang pertama ('Aku') membantu penulis mengekspresikan trauma dan pergulatan batinnya secara lebih jujur dibandingkan jika ia menggunakan sudut pandang orang ketiga?*
+*Bagaimana penggunaan sudut pandang persona pertama ('Aku') membantu pengarang mengekspresikan trauma dan pergulatan batinnya secara lebih jujur dibandingkan jika ia menggunakan sudut pandang persona ketiga?*
 
 ### Menghubungkan Cerita dan Emosi Pengarang
 

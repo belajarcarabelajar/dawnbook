@@ -29,7 +29,7 @@ timeline
 
 ### Ketangguhan Bapak dan Disiplin Ibu
 
-Studi komparatif terhadap watak orang tua Iwan menunjukkan adanya sinergi kepribadian yang membentuk etika kerja tokoh utama. Kegigihan fisik Bapak yang bekerja sebagai sopir angkot berpuluh-puluh tahun bersinergi dengan ketegasan manajemen domestik Ibu yang dengan cermat mengatur takaran beras dan pembayaran uang sekolah anak-anaknya. Kombinasi antara ketangguhan mental bapak dan disiplin administratif ibu inilah yang secara ekspresif ditiru oleh Iwan, membentuk dasar etos kerja profesional yang ia bawa ke dunia korporasi global di New York.
+Perbandingan watak orang tua Iwan menunjukkan adanya sinergi kepribadian yang membentuk etika kerja tokoh utama. Kegigihan fisik Bapak yang bekerja sebagai sopir angkot berpuluh-puluh tahun bersinergi dengan ketegasan manajemen domestik Ibu yang dengan cermat mengatur takaran beras dan pembayaran uang sekolah anak-anaknya. Kombinasi antara ketangguhan Bapak dan disiplin administratif Ibu inilah yang secara ekspresif ditiru oleh Iwan, membentuk dasar etos kerja profesional yang ia bawa ke dunia korporasi global di New York.
 
 ### Dari Orang Tua ke Saudara Kandung
 
