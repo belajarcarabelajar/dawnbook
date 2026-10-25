@@ -45,7 +45,7 @@ $$
 u_i(s_i^*, s_{-i}) \geq u_i(s_i, s_{-i})
 $$
 
-*Sebagai ilustrasi: Dalam dunia investasi, jika ada instrumen yang memberikan bunga 5% dengan risiko nol, dan instrumen lain memberikan bunga 5% tapi dengan risiko tinggi, mana yang akan kamu pilih? Instrumen tanpa risiko adalah strategi dominan lemah.*
+*Ini bukan contoh dominasi lemah. Dalam dunia investasi, jika ada instrumen yang memberikan bunga 5% dengan risiko nol, dan instrumen lain memberikan bunga 5% tapi dengan risiko tinggi, mana yang akan kamu pilih? Kedua instrumen memberi hasil yang sama, jadi tidak ada yang lebih baik dari yang lain.*
 
 ### 3. Strategi yang Didominasi (Dominated Strategies)
 
