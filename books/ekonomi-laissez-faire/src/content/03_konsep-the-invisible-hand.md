@@ -29,7 +29,7 @@ Tangan tak terlihat bukanlah kekuatan gaib, melainkan kombinasi dari dua kekuata
 
 Dalam sistem Laissez-faire, harga adalah bahasa yang digunakan pasar untuk berkomunikasi.
 
-- Jika sebuah barang langka namun banyak dicari, harga akan **naik**.
+- Jika sebuah barang langka tetapi banyak dicari, harga akan **naik**.
 - Harga yang tinggi ini memberi sinyal kepada produsen: *"Ayo buat lebih banyak, ada peluang keuntungan di sini!"*
 - Ketika pasokan bertambah, harga perlahan akan **turun** kembali ke titik keseimbangan.
 
@@ -53,7 +53,7 @@ Mengapa saat ini banyak perusahaan beralih memproduksi kendaraan listrik? Bukan 
 
 ### 3. Keseimbangan Pasar (Market Equilibrium)
 
-Secara teknis, *The Invisible Hand* bekerja untuk mencapai titik keseimbangan, yaitu situasi di mana jumlah barang yang ditawarkan ($Q_s$) sama dengan jumlah barang yang diminta ($Q_d$).
+Secara teknis, *The Invisible Hand* bekerja untuk mencapai titik keseimbangan, yaitu situasi ketika jumlah barang yang ditawarkan ($Q_s$) sama dengan jumlah barang yang diminta ($Q_d$).
 
 Persamaan matematika ekonomi sederhana:
 
@@ -76,7 +76,7 @@ Kondisi penyesuaian harga di pasar ditunjukkan pada tabel berikut:
 Tindakan individu yang mengejar keuntungan pribadi dapat menghasilkan kebaikan publik melalui tiga saluran utama:
 
 1. **Inovasi Berkelanjutan:** Untuk mengalahkan pesaing, perusahaan terus memunculkan inovasi. Hasilnya adalah teknologi yang lebih baik bagi konsumen.
-2. **Efisiensi Produksi:** Produsen dipaksa meminimalkan pemborosan agar dapat menjual barang lebih murah namun tetap memperoleh keuntungan.
+2. **Efisiensi Produksi:** Produsen dipaksa meminimalkan pemborosan agar dapat menjual barang lebih murah tetapi tetap memperoleh keuntungan.
 3. **Kedaulatan Konsumen:** Di pasar bebas, konsumen menentukan arah pasar. Melalui pilihan pembelian mereka, konsumen menentukan perusahaan mana yang layak bertahan dan mana yang harus keluar dari pasar.
 
 ### 5. Pasar Ponsel Pintar

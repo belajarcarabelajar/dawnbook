@@ -2,7 +2,7 @@
 
 Jika pada bagian sebelumnya kamu telah mempelajari teori **Laissez-faire**, sekarang kita akan melihat bagaimana teori tersebut bekerja di dunia nyata.
 
-Bayangkan sebuah arena balap tanpa wasit, di mana setiap pembalap bebas memodifikasi mesinnya sekuat mungkin. Itulah gambaran ekonomi di Inggris dan Amerika Serikat pada abad ke-19. Tanpa regulasi yang menghambat, masa itu ditandai lonjakan inovasi dan akumulasi kekayaan yang besar.
+Bayangkan sebuah arena balap tanpa wasit, tempat setiap pembalap bebas memodifikasi mesinnya sekuat mungkin. Itulah gambaran ekonomi di Inggris dan Amerika Serikat pada abad ke-19. Tanpa regulasi yang menghambat, masa itu ditandai lonjakan inovasi dan akumulasi kekayaan yang besar.
 
 ## 1. Laissez-faire di Inggris
 
@@ -37,7 +37,7 @@ Tanpa intervensi pemerintah dalam bentuk pajak pendapatan atau undang-undang ant
 
 Meskipun pemerintah memberikan hibah tanah, operasi dan pengembangan jalur kereta api sebagian besar diserahkan kepada kompetisi swasta. Hasilnya, ribuan mil rel berhasil dibangun dalam waktu singkat untuk menghubungkan pantai Timur dan Barat Amerika.
 
-> **Analogi Kebun Liar:** Ekonomi Laissez-faire ibarat kebun yang dibiarkan tumbuh tanpa dipangkas oleh tukang kebun (pemerintah). Tanaman paling kuat (perusahaan paling efisien) tumbuh sangat tinggi mendominasi sinar matahari. Kebun menghasilkan oksigen (pertumbuhan ekonomi) yang melimpah, namun tanaman kecil di bawahnya kesulitan mendapatkan cahaya.
+> **Analogi Kebun Liar:** Ekonomi Laissez-faire ibarat kebun yang dibiarkan tumbuh tanpa dipangkas oleh tukang kebun (pemerintah). Tanaman paling kuat (perusahaan paling efisien) tumbuh sangat tinggi mendominasi sinar matahari. Kebun menghasilkan oksigen (pertumbuhan ekonomi) yang melimpah, tetapi tanaman kecil di bawahnya kesulitan mendapatkan cahaya.
 
 ## 3. Dampak Ekonomi antara Inovasi dan Eksploitasi
 

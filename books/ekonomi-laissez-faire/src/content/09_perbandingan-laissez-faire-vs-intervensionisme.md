@@ -8,7 +8,7 @@ Mari kita bedah perbedaan antara membiarkan pasar bebas bekerja secara alami den
 
 Untuk memahami perbedaan ini, bayangkan sebuah ekosistem.
 
-- **Laissez-faire** menganggap ekonomi seperti **hutan belantara**. Pohon-pohon (bisnis) tumbuh, bersaing mendapatkan sinar matahari, dan hewan-hewan (konsumen) mencari makan. Tidak ada yang mengatur siapa makan apa, namun secara alami, hutan tersebut mencapai keseimbangan ekologisnya sendiri.
+- **Laissez-faire** menganggap ekonomi seperti **hutan belantara**. Pohon-pohon (bisnis) tumbuh, bersaing mendapatkan sinar matahari, dan hewan-hewan (konsumen) mencari makan. Tidak ada yang mengatur siapa makan apa, tetapi secara alami, hutan tersebut mencapai keseimbangan ekologisnya sendiri.
 - **Intervensionisme** menganggap ekonomi seperti **taman kota**. Tanpa tukang kebun (pemerintah) yang memangkas rumput, menyiram tanaman saat kemarau, dan mencabut gulma (monopoli), taman tersebut akan menjadi berantakan, tidak efisien, dan tidak bisa dinikmati oleh semua warga.
 
 > **Intisari:** Laissez-faire mengutamakan **kebebasan negatif** (kebebasan dari gangguan), sementara intervensionisme mengutamakan **kesejahteraan kolektif** dan stabilitas.

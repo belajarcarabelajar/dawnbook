@@ -6,7 +6,7 @@ Dalam bagian ini, kita akan mengevaluasi bagaimana prinsip-prinsip kebebasan pas
 
 ## 1. Apa Itu Neoliberalisme?
 
-Secara sederhana, **neoliberalisme** adalah kebangkitan kembali ide-ide ekonomi pasar bebas abad ke-19. Konsep ini tidak sebatas membiarkan pasar berjalan sendiri, melainkan sebuah rancangan terencana untuk membentuk masyarakat di mana **persaingan** menjadi pengatur utama aktivitas manusia.
+Secara sederhana, **neoliberalisme** adalah kebangkitan kembali ide-ide ekonomi pasar bebas abad ke-19. Konsep ini tidak sebatas membiarkan pasar berjalan sendiri, melainkan sebuah rancangan terencana untuk membentuk masyarakat tempat **persaingan** menjadi pengatur utama aktivitas manusia.
 
 > **Analogi Pembaruan Sistem Operasi (OS Update)**
 > Bayangkan **Laissez-faire** klasik adalah sistem operasi komputer versi 1.0 yang sederhana (biarkan komputer berjalan tanpa intervensi). **Neoliberalisme** adalah "OS 2.0". Sistem ini lebih kompleks, dirancang untuk jaringan global, dan secara aktif menghapus program pemerintah (seperti subsidi atau perlindungan pekerja) yang dianggap memperlambat kinerja sistem.
@@ -39,13 +39,13 @@ Ini adalah sekumpulan resep kebijakan ekonomi yang dipromosikan oleh IMF, Bank D
 
 ## 4. Analisis Matematis Ketimpangan dan Efisiensi
 
-Dalam perspektif neoliberal, efisiensi sering diukur melalui pertumbuhan Produk Domestik Bruto ($\text{GDP}$). Namun, para pengkritik sering mengevaluasinya melalui **Koefisien Gini ($G$)**, yang mengukur tingkat ketimpangan pendapatan.
+Dalam perspektif neoliberal, efisiensi sering diukur melalui pertumbuhan Produk Domestik Bruto (PDB). Namun, para pengkritik sering mengevaluasinya melalui **Koefisien Gini ($G$)**, yang mengukur tingkat ketimpangan pendapatan.
 
 $$
 G = \frac{A}{A + B}
 $$
 
-Di mana $A$ adalah area antara garis kesetaraan sempurna dan kurva Lorenz. Dalam banyak ekonomi neoliberal, meskipun $\text{GDP}$ naik secara total, nilai $G$ sering kali meningkat (mendekati 1), yang menunjukkan bahwa kekayaan terkonsentrasi di tangan segelintir orang.
+Dalam rumus ini, $A$ adalah area antara garis kesetaraan sempurna dan kurva Lorenz, sedangkan $B$ adalah area di bawah kurva Lorenz. Dalam banyak ekonomi neoliberal, meskipun PDB naik secara total, nilai $G$ sering kali meningkat (mendekati 1), yang menunjukkan bahwa kekayaan terkonsentrasi di tangan segelintir orang.
 
 *Coba renungkan: Apakah pertumbuhan ekonomi yang sangat cepat bermanfaat jika hanya dirasakan oleh 1% penduduk?*
 
@@ -82,7 +82,7 @@ Saat ini, dominasi neoliberalisme mulai dipertanyakan kembali akibat beberapa fe
 Indonesia sempat menerapkan prinsip neoliberalisme secara intensif pascakrisis 1997/1998 melalui perjanjian dengan IMF (*Letter of Intent*).
 
 - **Langkah:** Privatisasi beberapa BUMN, pengurangan subsidi BBM secara bertahap, dan pembukaan keran investasi asing seluas-luasnya.
-- **Hasilnya:** Stabilitas makroekonomi berhasil dicapai, namun memicu perdebatan panjang mengenai kedaulatan ekonomi dan ketimpangan sosial yang masih terasa hingga kini.
+- **Hasilnya:** Stabilitas makroekonomi berhasil dicapai, tetapi memicu perdebatan panjang mengenai kedaulatan ekonomi dan ketimpangan sosial yang masih terasa hingga kini.
 
 ## Ringkasan untuk Pembelajar
 

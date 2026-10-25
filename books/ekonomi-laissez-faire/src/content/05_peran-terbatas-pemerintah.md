@@ -14,7 +14,7 @@ Jika pemerintah melampaui batas ini, misalnya dengan mengatur harga atau mensubs
 
 ### Tiga Tugas Utama Pemerintah
 
-Adam Smith, dalam bukunya *The Wealth of Nations*, menguraikan tiga tugas spesifik yang penting namun terbatas bagi pemerintah. Berikut adalah rinciannya:
+Adam Smith, dalam bukunya *The Wealth of Nations*, menguraikan tiga tugas spesifik yang penting tetapi terbatas bagi pemerintah. Berikut adalah rinciannya:
 
 #### 1. Perlindungan Keamanan (Pertahanan Nasional)
 
@@ -36,7 +36,7 @@ Tanpa penegakan hukum ($H \to 0$), maka kepercayaan pasar akan runtuh ($K \to 0$
 
 #### 3. Penyediaan Infrastruktur Dasar Tertentu
 
-Pemerintah bertugas membangun dan memelihara lembaga-lembaga publik dan infrastruktur tertentu yang tidak akan pernah dibangun oleh sektor swasta karena keuntungan yang tidak langsung atau terlalu kecil bagi individu, namun bermanfaat bagi masyarakat luas.
+Pemerintah bertugas membangun dan memelihara lembaga-lembaga publik dan infrastruktur tertentu yang tidak akan pernah dibangun oleh sektor swasta karena keuntungan yang tidak langsung atau terlalu kecil bagi individu, tetapi bermanfaat bagi masyarakat luas.
 
 - **Contoh:** Jalan raya utama, jembatan, sistem drainase, atau mercusuar.
 - **Prinsipnya:** Infrastruktur ini harus memfasilitasi perdagangan, bukan mengaturnya.

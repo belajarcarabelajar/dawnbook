@@ -2,7 +2,7 @@
 
 Untuk memahami mengapa sistem **Laissez-faire** begitu berpengaruh dalam pemikiran ekonomi modern, kita harus kembali ke abad ke-18. Ini adalah masa ketika dunia sedang berubah, beralih dari kekuasaan monarki yang absolut menuju zaman pencerahan intelektual.
 
-Ide bahwa pemerintah harus "lepas tangan" tidak muncul begitu saja. Ia lahir sebagai penentangan intelektual terhadap sistem **Merkantilisme** yang mengekang, di mana negara mengontrol setiap aspek perdagangan demi menimbun emas dan perak.
+Ide bahwa pemerintah harus "lepas tangan" tidak muncul begitu saja. Ia lahir sebagai penentangan intelektual terhadap sistem **Merkantilisme** yang mengekang, dengan negara mengontrol setiap aspek perdagangan demi menimbun emas dan perak.
 
 ## 1. Kaum Fisiokrat Prancis
 
@@ -24,7 +24,7 @@ Quesnay, sebagai seorang dokter, melihat ekonomi seperti sistem peredaran darah 
 
 Fisiokrat merintis gagasan ini, lalu **Adam Smith** menyusunnya menjadi sistem yang utuh. Melalui bukunya, *An Inquiry into the Nature and Causes of the Wealth of Nations*, Smith mengubah arah pemikiran ekonomi.
 
-Smith setuju dengan Fisiokrat mengenai kebebasan pasar, namun ia memiliki pandangan yang jauh lebih luas dan praktis mengenai sumber kekayaan.
+Smith setuju dengan Fisiokrat mengenai kebebasan pasar, tetapi ia memiliki pandangan yang jauh lebih luas dan praktis mengenai sumber kekayaan.
 
 ### Pergeseran Paradigma
 

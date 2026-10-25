@@ -1,6 +1,6 @@
 ## Pengantar Ekonomi Laissez-faire
 
-Laissez-faire adalah gagasan bahwa ekonomi berjalan paling baik ketika pemerintah tidak ikut mengatur harga dan perdagangan. Bayangkan sebuah pasar yang hiruk-pikuk di mana setiap pedagang dan pembeli berinteraksi tanpa ada polisi harga, tanpa subsidi dari raja, dan tanpa aturan rumit dari pemerintah. Inilah inti dari **Laissez-faire**.
+Laissez-faire adalah gagasan bahwa ekonomi berjalan paling baik ketika pemerintah tidak ikut mengatur harga dan perdagangan. Bayangkan sebuah pasar yang hiruk-pikuk tempat setiap pedagang dan pembeli berinteraksi tanpa ada polisi harga, tanpa subsidi dari raja, dan tanpa aturan rumit dari pemerintah. Inilah inti dari **Laissez-faire**.
 
 Dalam bagian ini, kita akan membedah akar kata, definisi, dan fondasi filosofis yang membuat sistem ini menjadi tulang punggung pemikiran ekonomi klasik.
 

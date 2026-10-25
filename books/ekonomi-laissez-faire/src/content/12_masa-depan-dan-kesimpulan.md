@@ -50,14 +50,14 @@ Mata uang kripto adalah eksperimen Laissez-faire paling murni di abad ini. Tanpa
 
 ### B. Platform Ekonomi *Gig*
 
-Platform seperti Uber, Gojek, atau Upwork menciptakan pasar tenaga kerja yang fleksibel. Ini adalah pasar bebas tenaga kerja di mana harga ditentukan secara *real-time* oleh algoritma, mencerminkan keseimbangan instan antara penyedia jasa dan pelanggan.
+Platform seperti Uber, Gojek, atau Upwork menciptakan pasar tenaga kerja yang fleksibel. Ini adalah pasar bebas tenaga kerja tempat harga ditentukan secara *real-time* oleh algoritma, mencerminkan keseimbangan instan antara penyedia jasa dan pelanggan.
 
 ## 4. Tantangan Perubahan Iklim
 
 Masa depan Laissez-faire akan bergantung pada kemampuannya menjawab tantangan eksternalitas, terutama perubahan iklim.
 
 > **Analogi Taman dan Hutan**  
-> Jika ekonomi Laissez-faire klasik diibaratkan seperti hutan rimba yang tumbuh liar tanpa gangguan, maka Laissez-faire masa depan mungkin lebih menyerupai taman yang luas: tanaman dibiarkan tumbuh bebas, namun pagar-pagar regulasi lingkungan dipasang agar taman tersebut tidak membakar dirinya sendiri.
+> Jika ekonomi Laissez-faire klasik diibaratkan seperti hutan rimba yang tumbuh liar tanpa gangguan, maka Laissez-faire masa depan mungkin lebih menyerupai taman yang luas: tanaman dibiarkan tumbuh bebas, tetapi pagar-pagar regulasi lingkungan dipasang agar taman tersebut tidak membakar dirinya sendiri.
 
 Kita akan melihat transisi menuju *Market-Based Solutions* untuk masalah lingkungan, seperti:
 
@@ -74,6 +74,6 @@ Ekonomi Laissez-faire tidak hilang; ia berubah bentuk. Prinsip yang dirumuskan p
 2. **Kegagalan pasar di masa lalu** telah mengajarkan bahwa intervensi minimal terkadang diperlukan untuk mencegah monopoli dan kerusakan lingkungan.
 3. **Masa depan bersifat hibrida:** Kita akan melihat perpaduan antara kebebasan pasar yang radikal dalam teknologi (seperti AI dan DeFi) dengan regulasi sosial yang lebih sadar akan ketimpangan.
 
-> **Pesan Penutup:** "Tangan Tak Terlihat" mungkin tidak lagi bekerja sendirian di abad ke-21, namun ia tetap menjadi penggerak utama kemajuan manusia. Memahami Laissez-faire membantu kamu memahami banyak perdebatan ekonomi masa kini.
+> **Pesan Penutup:** "Tangan Tak Terlihat" mungkin tidak lagi bekerja sendirian di abad ke-21, tetapi ia tetap menjadi penggerak utama kemajuan manusia. Memahami Laissez-faire membantu kamu memahami banyak perdebatan ekonomi masa kini.
 
 *Refleksi: Setelah mempelajari seluruh rangkaian materi ini, bagaimana menurut kamu keseimbangan yang ideal antara kebebasan pasar dan perlindungan pemerintah dalam menghadapi ketidakpastian ekonomi di masa depan?*

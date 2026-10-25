@@ -111,6 +111,6 @@ Krisis ini memicu perdebatan mendalam: Apakah pasar gagal karena minimnya regula
 
 Meskipun kegagalan pasar menjadi landasan bagi intervensi publik, kita harus mewaspadai **Kegagalan Pemerintah (Government Failure)**. Hambatan birokrasi dan kebijakan yang ditunggangi kepentingan politik kerap memperburuk distorsi pasar.
 
-Tantangan utama dalam ekonomi Laissez-faire modern adalah merancang tata kelola intervensi yang paling minim distorsi namun efektif melindungi kesejahteraan masyarakat.
+Tantangan utama dalam ekonomi Laissez-faire modern adalah merancang tata kelola intervensi yang paling minim distorsi tetapi efektif melindungi kesejahteraan masyarakat.
 
 Jika kamu seorang pembuat kebijakan, mana yang lebih kamu prioritaskan: mengoreksi ketimpangan pendapatan melalui instrumen redistribusi, atau membiarkan pasar tetap bebas demi memacu inovasi meskipun berisiko memperlebar kesenjangan sosial?
