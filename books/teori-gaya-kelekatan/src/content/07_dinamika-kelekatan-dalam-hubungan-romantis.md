@@ -2,7 +2,7 @@
 
 Pernahkah kamu merasa bahwa semakin kamu mengejar pasangan untuk mendapatkan kejelasan, semakin ia menarik diri? Atau sebaliknya, apakah kamu merasa bahwa setiap kali kamu mencoba memberikan ruang bagi diri sendiri, pasanganmu justru menjadi semakin menuntut?
 
-Pola seperti ini disebut **Dinamika Kelekatan**. Dalam hubungan romantis dewasa, gaya kelekatan kita tidak bekerja secara terisolasi. Mereka berinteraksi layaknya sebuah tarian. Sayangnya, bagi banyak pasangan, tarian ini sering kali berubah menjadi "tarian konflik" yang melelahkan karena adanya benturan antara kebutuhan akan kedekatan dan kebutuhan akan kemandirian.
+Pola seperti ini disebut **Dinamika Kelekatan**. Dalam hubungan romantis dewasa, gaya kelekatan kita tidak bekerja secara terisolasi. Gaya-gaya itu berinteraksi layaknya sebuah tarian. Sayangnya, bagi banyak pasangan, tarian ini sering kali berubah menjadi "tarian konflik" yang melelahkan karena adanya benturan antara kebutuhan akan kedekatan dan kebutuhan akan kemandirian.
 
 ## 1. Ketertarikan Si Cemas pada Si Menghindar
 
@@ -19,7 +19,7 @@ Bayangkan sebuah ruangan dengan dua orang dan satu termostat. Si Cemas merasa ke
 
 ## 2. Siklus Pengejar-Penghindar (The Pursuer-Distancer Cycle)
 
-Dinamika yang paling umum dan merusak dalam hubungan romantis adalah siklus **Pengejar-Penghindar**. Ini adalah pola komunikasi di mana satu pasangan menekan untuk interaksi (pengejar), dan pasangan lainnya menarik diri secara fisik atau emosional (penghindar).
+Dinamika yang paling umum dan merusak dalam hubungan romantis adalah siklus **Pengejar-Penghindar**. Ini adalah pola komunikasi yang salah satu pasangannya menekan untuk interaksi (pengejar), dan pasangan lainnya menarik diri secara fisik atau emosional (penghindar).
 
 ### Bagaimana Siklus Ini Terjadi?
 
@@ -57,7 +57,7 @@ Mari kita lihat bagaimana dinamika ini bermain dalam kehidupan nyata:
 * **Aksi Sinta:** Mengirim pesan bernada cemas: *"Kenapa kamu berubah? Kamu sudah tidak sayang lagi ya?"* Ini adalah bentuk upayanya mencari kepastian.
 * **Reaksi Budi:** Setelah membaca pesan itu, Budi merasa terbebani dan berpikir, *"Aku baru pulang kerja, kenapa harus ada drama lagi?"* Akhirnya, ia mendiamkan pesan tersebut selama empat jam.
 * **Eskalasi Sinta:** Karena tidak ada balasan, kecemasan Sinta memuncak hingga ia menelepon 15 kali. Pikirannya dipenuhi asumsi bahwa Budi akan meninggalkannya.
-* **Respon Budi:** Menghadapi desakan tersebut, Budi mematikan ponsel lalu pergi ke gym karena merasa ruang pribadinya diinvasi.
+* **Respons Budi:** Menghadapi desakan tersebut, Budi mematikan ponsel lalu pergi ke gym karena merasa ruang pribadinya diinvasi.
 
 Keduanya berakhir dengan rasa terluka. Sinta merasa diabaikan dan tidak dicintai, sementara Budi merasa ruang gerak dan privasinya tidak dihargai. Tanpa kesadaran akan gaya kelekatan masing-masing, mereka akan terus terjebak dalam lingkaran setan yang sama.
 
@@ -103,4 +103,4 @@ Untuk mengubah dinamika hubungan, langkah pertama yang harus dilakukan adalah be
 
 Dinamika kelekatan dalam hubungan romantis bukanlah sebuah takdir yang tidak bisa diubah. Dengan memahami bahwa reaksi defensif pasangan sebenarnya berakar dari luka masa lalu, kita dapat menumbuhkan empati yang lebih dalam.
 
-Mengenali peran kita dalam 'tarian' hubungan ini - apakah kita cenderung mengejar atau menghindar - adalah langkah penting untuk mengubah pola tersebut. Kesadaran inilah yang memungkinkan perubahan. Begitu kamu memahami pola kelekatan ini, kamu tidak lagi menjadi korban dari reaksi otomatis diri sendiri, melainkan mulai memegang kendali untuk membangun hubungan yang lebih sehat.
+Mengenali peran kita dalam "tarian" hubungan ini - apakah kita cenderung mengejar atau menghindar - adalah langkah penting untuk mengubah pola tersebut. Kesadaran inilah yang memungkinkan perubahan. Begitu kamu memahami pola kelekatan ini, kamu tidak lagi menjadi korban dari reaksi otomatis diri sendiri, melainkan mulai memegang kendali untuk membangun hubungan yang lebih sehat.

@@ -8,7 +8,7 @@ Dalam spektrum teori kelekatan, tipe **Dismissive-Avoidant** (Menghindar-Menolak
 
 Gaya kelekatan **Dismissive-Avoidant** ditandai dengan upaya aktif untuk menjaga jarak emosional. Bagi mereka, kemandirian adalah dasar rasa aman, bukan sekadar pilihan gaya hidup.
 
-**Wawasan Penting:** Inti dari gaya ini adalah pandangan positif terhadap diri sendiri ("Saya baik-baik saja"), tetapi memiliki pandangan skeptis terhadap ketergantungan pada orang lain ("Orang lain tidak bisa diandalkan atau hanya akan mengekang saya").
+**Wawasan Penting:** Inti dari gaya ini adalah pandangan positif terhadap diri sendiri ("Saya baik-baik saja") disertai pandangan skeptis terhadap ketergantungan pada orang lain ("Orang lain tidak bisa diandalkan atau hanya akan mengekang saya").
 
 ### Benteng dengan Parit yang Dalam
 
@@ -29,7 +29,7 @@ Secara tidak sadar, anak tersebut mengambil kesimpulan logis: menunjukkan perasa
 Mereka yang memiliki gaya *Dismissive-Avoidant* menunjukkan beberapa ciri khas untuk membatasi kedekatan emosional:
 
 * **Sangat Menghargai Otonomi**: Rasa tidak nyaman akan muncul ketika mereka merasa terjebak atau ruang geraknya mulai dibatasi oleh pasangan atau teman dekat.
-* **Penekanan Emosi**: Di luar mereka tampak tenang dan selalu rasional, namun sebenarnya ini adalah mekanisme otomatis untuk menekan perasaan yang bergejolak.
+* **Penekanan Emosi**: Di luar, mereka tampak tenang dan selalu rasional, namun sebenarnya ini adalah mekanisme otomatis untuk menekan perasaan yang bergejolak.
 * **Menghindari Keintiman Mendalam**: Mereka tidak masalah bergaul, tetapi saat obrolan menyentuh ranah pribadi, mereka akan segera mengalihkan topik atau menarik diri secara halus.
 * **Ketergantungan Dianggap Kelemahan**: Mengandalkan orang lain atau membiarkan orang lain mengandalkan mereka dipandang sebagai tanda ketidakberdayaan.
 
@@ -46,7 +46,7 @@ Ketika merasa seseorang mulai terlalu dekat, mereka menggunakan strategi penonak
 
 Secara lahiriah, seorang *Dismissive-Avoidant* tampak sangat percaya diri dan tidak butuh siapa-siapa. Namun, penelitian neurobiologi menunjukkan hal yang berbeda.
 
-Dalam eksperimen *Strange Situation*, saat bayi dengan gaya menghindar ditinggalkan oleh ibunya, mereka tampak tidak peduli. Namun, sensor fisiologis menunjukkan bahwa **detak jantung mereka meningkat tajam dan kadar kortisol (hormon stres) mereka melonjak tinggi**, sama tingginya dengan bayi tipe cemas.
+Dalam eksperimen *Strange Situation*, saat bayi dengan gaya menghindar ditinggalkan oleh ibunya, mereka tampak tidak peduli. Namun, sensor fisiologis menunjukkan bahwa **detak jantung mereka meningkat tajam dan kadar kortisol (hormon stres) mereka melonjak tinggi**.
 
 **Artinya:** Mereka merasakan stres akibat perpisahan, tetapi mereka telah belajar untuk "mematikan" ekspresi luar dari stres tersebut agar tidak terlihat rentan.
 
@@ -56,7 +56,7 @@ Dalam eksperimen *Strange Situation*, saat bayi dengan gaya menghindar ditinggal
 
 **Skenario:** Budi dan Sari telah berkencan selama enam bulan. Suatu malam, Sari mengatakan, "Aku merasa kita semakin dekat, dan aku sangat mencintaimu." Bukannya merasa senang, Budi justru merasa sesak dan tiba-tiba teringat semua hal yang dia tidak sukai dari Sari. Minggu berikutnya, Budi menjadi sangat sibuk dengan pekerjaan dan jarang membalas pesan Sari.
 
-* **Analisis:** Ini adalah reaksi klasik *Dismissive-Avoidant*. Keintiman Sari memicu alarm bahaya bagi kebebasan Budi, sehingga ia menggunakan pekerjaan sebagai alasan untuk menciptakan jarak (deaktivasi).
+* **Analisis:** Ini adalah reaksi klasik *Dismissive-Avoidant*. Keintiman Sari memicu alarm bahaya bagi kebebasan Budi, sehingga ia menggunakan pekerjaan sebagai alasan untuk menciptakan jarak (strategi penonaktifan).
 
 ### 2. Di Lingkungan Kerja
 
@@ -66,7 +66,7 @@ Dalam eksperimen *Strange Situation*, saat bayi dengan gaya menghindar ditinggal
 
 ## Refleksi dan Ruang Tumbuh
 
-Bagi kamu yang merasa memiliki kecenderungan ini, cobalah ingat kapan terakhir kali kamu membiarkan dirimu bersandar pada orang lain. Bagaimana rasanya? Sementara bagi kamu yang berhadapan dengan pasangan bertipe ini, cobalah melihat bahwa penarikan diri mereka sebenarnya bukan karena mereka tidak peduli, tetapi merupakan wujud kecemasan akan kehilangan otonomi diri.
+Bagi kamu yang merasa memiliki kecenderungan ini, cobalah ingat kapan terakhir kali kamu membiarkan dirimu bersandar pada orang lain. Bagaimana rasanya? Sementara bagi kamu yang berhadapan dengan pasangan bertipe ini, cobalah melihat bahwa penarikan diri mereka sebenarnya bukan karena mereka tidak peduli, melainkan karena kecemasan akan kehilangan otonomi diri.
 
 Menjadi seorang *Dismissive-Avoidant* bukanlah sebuah cacat karakter. Ini adalah sistem pertahanan adaptif yang dibangun sejak kecil untuk bertahan hidup di lingkungan yang kurang responsif secara emosional. Langkah awal menuju hubungan yang lebih sehat adalah menyadari bahwa kamu bisa menurunkan jembatan gantung kastil kamu secara perlahan, tanpa harus kehilangan rasa aman yang ada di dalamnya.
 

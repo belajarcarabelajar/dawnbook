@@ -1,6 +1,6 @@
 ## Gaya Kelekatan Takut-Menghindar (Fearful-Avoidant)
 
-Salah satu gaya kelekatan yang paling kompleks dan menantang secara emosional kini menjadi pokok pembahasan kita. Jika gaya kelekatan cemas membuat seseorang "mengejar" dan gaya menghindar membuat seseorang "menjauh", gaya **Takut-Menghindar (Fearful-Avoidant)** (atau yang sering disebut dalam literatur klinis sebagai **Disorganized Attachment**) adalah kombinasi membingungkan dari keduanya.
+Salah satu gaya kelekatan yang paling kompleks dan menantang secara emosional kini menjadi pokok pembahasan kita. Jika gaya kelekatan cemas membuat seseorang "mengejar" dan gaya menghindar membuat seseorang "menjauh", gaya **Takut-Menghindar (Fearful-Avoidant)** (yang dalam literatur klinis sering dikaitkan dengan **Disorganized Attachment**) adalah kombinasi membingungkan dari keduanya.
 
 Bayangkan kamu sedang berdiri di depan pintu rumah yang hangat saat badai salju, namun setiap kali kamu menyentuh gagang pintunya, kamu merasa tanganmu terbakar. Itulah inti dari dunia emosional individu dengan gaya *Fearful-Avoidant*.
 
@@ -13,7 +13,7 @@ Individu dengan gaya kelekatan ini hidup dalam konflik internal yang konstan. Me
 * **Dilema keinginan dan ketakutan:** Di satu sisi mendambakan keintiman, tetapi di sisi lain merasa kedekatan adalah ancaman berbahaya.
 * **Hipervigilansi:** Selalu memantau tanda-tanda kecil penolakan atau pengkhianatan dari orang sekitar.
 * **Penilaian diri yang negatif:** Mereka kerap merasa tidak layak dicintai dan menganggap orang lain tidak bisa diandalkan.
-* **Sikap pasang-surut (*hot and cold*):** Suatu hari bisa sangat hangat dan mesra, tetapi esoknya mendadak dingin atau menarik diri tanpa alasan jelas bagi pasangan.
+* **Sikap pasang surut (*hot and cold*):** Suatu hari bisa sangat hangat dan mesra, tetapi esoknya mendadak dingin atau menarik diri tanpa alasan jelas bagi pasangan.
 
 "Aku ingin kamu mencintaiku, tapi aku takut jika kamu benar-benar mengenalku, kamu akan menyakitiku atau meninggalkanku."
 
@@ -56,7 +56,9 @@ Bayangkan individu *Fearful-Avoidant* seperti sebuah kaktus yang merindukan air 
 
 ## 5. Skenario Kasus dalam Keseharian
 
-**Proyek Kolaborasi di Kantor** Siska memiliki gaya *Fearful-Avoidant*. Saat atasannya memberikan pujian dan tanggung jawab lebih, Siska awalnya merasa senang (kebutuhan akan validasi terpenuhi). Namun, dua hari kemudian, dia mulai merasa cemas. Dia berpikir, *"Atasanku hanya ingin memanfaatkanku,"* atau *"Jika aku gagal sekarang, dia akan melihat betapa tidak kompetennya aku."*
+**Proyek Kolaborasi di Kantor**
+
+Siska memiliki gaya *Fearful-Avoidant*. Saat atasannya memberikan pujian dan tanggung jawab lebih, Siska awalnya merasa senang (kebutuhan akan validasi terpenuhi). Namun, dua hari kemudian, dia mulai merasa cemas. Dia berpikir, *"Atasanku hanya ingin memanfaatkanku,"* atau *"Jika aku gagal sekarang, dia akan melihat betapa tidak kompetennya aku."*
 
 Siska mulai menghindari rapat, membalas email dengan singkat dan dingin, atau bahkan bersikap defensif saat diberi saran kecil. Atasannya menjadi bingung karena perilaku Siska berubah drastis dari "sangat bersemangat" menjadi "sulit diajak kerja sama".
 
@@ -64,7 +66,7 @@ Siska mulai menghindari rapat, membalas email dengan singkat dan dingin, atau ba
 
 ## 6. Sisi Neurobiologi Singkat
 
-Pada individu dengan gaya ini, bagian otak yang disebut **Amygdala** (pusat deteksi ancaman) cenderung sangat aktif. Saat menghadapi konflik emosional, otak mereka sering kali masuk ke mode *Freeze* (terpaku) atau *Fragmented*.
+Pada individu dengan gaya ini, bagian otak yang disebut **amigdala** (pusat deteksi ancaman) cenderung sangat aktif. Saat menghadapi konflik emosional, otak mereka sering kali masuk ke mode *Freeze* (terpaku).
 
 $$
 \\text{Tingkat Stres} = \\frac{\\text{Keinginan Kedekatan}}{\\text{Rasa Percaya}}
@@ -78,7 +80,7 @@ Jika kamu merasa memiliki gaya ini, atau sedang menjalin hubungan dengan seseora
 
 * **Penting:** Kesadaran adalah langkah pertama. Menyadari kapan "alarm" kamu berbunyi secara salah dapat membantu kamu tidak langsung bertindak berdasarkan rasa takut tersebut.
 
-Banyak orang dengan gaya ini tanpa sadar merusak hubungan yang berjalan baik karena merasa cemas dan menduga hubungan itu akan berakhir buruk pada akhirnya. Jika kamu pernah mengalami hal serupa, sadarilah bahwa tindakan tersebut adalah proyeksi dari ketakutan masa lalu, bukan kenyataan saat ini.
+Banyak orang dengan gaya ini tanpa sadar merusak hubungan yang berjalan baik karena merasa cemas dan menduga hubungan itu akan berakhir buruk. Jika kamu pernah mengalami hal serupa, sadarilah bahwa tindakan tersebut adalah proyeksi dari ketakutan masa lalu, bukan kenyataan saat ini.
 
 Hal terpenting dalam menghadapi gaya *Fearful-Avoidant* adalah membangun rasa aman di dalam diri sendiri terlebih dahulu, sehingga kehadiran atau ketidakhadiran orang lain tidak lagi terasa sebagai ancaman bagi diri sendiri.
 

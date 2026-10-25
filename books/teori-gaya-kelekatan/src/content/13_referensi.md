@@ -18,4 +18,4 @@ Fraley, R. C., Waller, N. G., & Brennan, K. A. (2000). An item response theory a
 
 Hazan, C., & Shaver, P. R. (1987). Romantic love conceptualized as an attachment process. *Journal of Personality and Social Psychology, 52*(3), 511-524. [https://doi.org/10.1037/0022-3514.52.3.511](https://doi.org/10.1037/0022-3514.52.3.511)
 
-Mikulincer, M., Shaver, P. R., & Pereg, D. (2003). Attachment theory and affect regulation: The dynamics, development, and cognitive consequences of attachment-related strategies. *Motivation and Emotion, 27*(1), 77-102. [https://doi.org/10.1023/A:1024515519160](https://doi.org/10.1023/A:1024515519160)
+Mikulincer, M., Shaver, P. R., & Pereg, D. (2003). Attachment theory and affect regulation: The dynamics, development, and cognitive consequences of attachment-related strategies. *Motivation and Emotion, 27*(2), 77-102. [https://doi.org/10.1023/A:1024515519160](https://doi.org/10.1023/A:1024515519160)

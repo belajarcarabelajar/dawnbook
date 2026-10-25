@@ -2,11 +2,11 @@
 
 Kalau perkembangan psikologis diibaratkan bangunan, gaya kelekatan aman (secure attachment) adalah fondasinya, dasar bagi kesehatan emosional manusia. Individu dengan gaya ini tidak sekadar bertahan hidup dalam hubungan; mereka bertumbuh subur (thrive).
 
-Di bab ini, kita akan membedah mengapa sebagian orang bisa merasa tenang saat sendirian namun tetap hangat ketika bersama orang lain, serta pola asuh yang membentuk ketenangan tersebut.
+Di bab ini, kita akan membedah mengapa sebagian orang bisa merasa tenang saat sendirian, tetapi tetap hangat ketika bersama orang lain, serta pola asuh yang membentuk ketenangan tersebut.
 
 ## 1. Apa Itu Gaya Kelekatan Aman?
 
-Gaya kelekatan aman adalah pola hubungan ketika seseorang merasa nyaman dengan keintiman emosional sekaligus mandiri secara personal. Mereka tidak memiliki ketakutan berlebih akan ditinggalkan, namun juga tidak merasa sesak ketika harus dekat dengan orang lain.
+Gaya kelekatan aman adalah pola hubungan ketika seseorang merasa nyaman dengan keintiman emosional sekaligus mandiri secara personal. Mereka tidak memiliki ketakutan berlebih akan ditinggalkan, tetapi juga tidak merasa sesak ketika harus dekat dengan orang lain.
 
 **Intinya:** Individu dengan kelekatan aman memiliki pandangan positif terhadap diri sendiri ("Saya layak dicintai") dan pandangan positif terhadap orang lain ("Orang lain secara umum dapat diandalkan dan baik").
 
@@ -29,7 +29,7 @@ Ketika seorang bayi menangis karena lapar, takut, atau sekadar ingin dipeluk, or
 2. **Menafsirkan (Interpret):** Memahami apakah tangisan itu berarti lapar, popok basah, atau rasa bosan.
 3. **Merespons (Respond):** Memberikan bantuan dengan tepat waktu dan penuh kasih sayang.
 
-**Penting:** Menjadi orang tua yang membangun kelekatan aman bukan berarti harus "sempurna" setiap saat. Penelitian menunjukkan bahwa pengasuh hanya perlu selaras (attuned) sekitar 30-50% dari seluruh waktu interaksi, asalkan mereka mampu melakukan reparasi (perbaikan hubungan) saat terjadi miskomunikasi.
+**Penting:** Menjadi orang tua yang membangun kelekatan aman bukan berarti harus "sempurna" setiap saat. Penelitian menunjukkan bahwa pengasuh hanya perlu selaras (attuned) sekitar 30-40% dari seluruh waktu interaksi, asalkan mereka mampu melakukan reparasi (perbaikan hubungan) saat terjadi miskomunikasi.
 
 Mungkin kamu ingat momen di masa kecil ketika kamu merasa didengar dan dimengerti oleh orang tua saat sedang sedih. Momen hangat seperti itulah yang menyusun fondasi kelekatan aman.
 
@@ -42,7 +42,7 @@ Gaya kelekatan yang terbentuk di masa kecil cenderung menetap hingga dewasa, mes
 Dalam eksperimen *Strange Situation*, anak-anak dengan kelekatan aman menunjukkan pola:
 
 * **Eksplorasi:** Berani bermain saat ada orang tua.
-* **Distres:** Sedih saat orang tua pergi, namun tidak menangis histeris secara berlebihan.
+* **Distres:** Sedih saat orang tua pergi, tetapi tidak menangis histeris.
 * **Reuni:** Saat orang tua kembali, mereka segera mendekat, merasa tenang dengan cepat, dan kembali bermain.
 
 ### Pada Masa Dewasa
@@ -62,7 +62,7 @@ $$
 \\text{Keamanan Emosional} = K \\approx M
 $$
 
-Di mana $K$ (kebutuhan akan orang lain) tidak mendominasi $M$ (kebutuhan akan otonomi), dan sebaliknya. Jika $K > M$ secara ekstrem, kita menuju kelekatan cemas. Jika $M > K$ secara ekstrem, kita menuju kelekatan menghindar.
+Dalam hal ini, $K$ (kebutuhan akan orang lain) tidak mendominasi $M$ (kebutuhan akan otonomi), dan sebaliknya. Jika $K > M$ secara ekstrem, kita menuju kelekatan cemas. Jika $M > K$ secara ekstrem, kita menuju kelekatan menghindar.
 
 ## 5. Situasi Konflik Nyata
 
@@ -70,7 +70,7 @@ Mari kita lihat bagaimana gaya kelekatan aman bekerja dalam situasi konflik nyat
 
 ### Konflik Hubungan Romantis
 
-**Situasi:** Pasangan lupa mengabari bahwa mereka akan pulang terlambat dari kantor.
+**Situasi:** Pasangan lupa mengabari bahwa ia akan pulang terlambat dari kantor.
 
 * **Respons Individu Aman:** "Mungkin dia sangat sibuk atau baterai ponselnya habis. Saya akan menunggunya pulang dan bertanya baik-baik." Saat pasangan pulang, mereka berkata, *"Aku sempat khawatir tadi karena tidak ada kabar. Lain kali tolong kabari ya agar aku tenang."* (Tanpa drama, tanpa serangan personal).
 
@@ -78,7 +78,7 @@ Mari kita lihat bagaimana gaya kelekatan aman bekerja dalam situasi konflik nyat
 
 **Situasi:** Mendapat kritik tajam dari atasan saat presentasi.
 
-* **Respons Individu Aman:** Mereka memisahkan performa kerja dengan harga diri. Mereka berpikir, *"Kritik ini tentang presentasi saya, bukan tentang nilai saya sebagai manusia."* Mereka mampu menerima masukan tanpa bersikap defensif dan meminta bimbingan lebih lanjut jika diperlukan.
+* **Respons Individu Aman:** Mereka memisahkan performa kerja dari harga diri. Mereka berpikir, *"Kritik ini tentang presentasi saya, bukan tentang nilai saya sebagai manusia."* Mereka mampu menerima masukan tanpa bersikap defensif dan meminta bimbingan lebih lanjut jika diperlukan.
 
 ## 6. Tabel Karakteristik Gaya Aman
 

@@ -6,7 +6,7 @@ Kelekatan (*attachment*) adalah proses biologis yang nyata, lebih dari sekadar k
 
 ## 1. Otak Bayi yang Dibentuk Pengalaman
 
-Otak bayi yang baru lahir adalah organ yang paling tidak matang dibandingkan mamalia lainnya. Kondisi ini sebenarnya menjadi keuntungan alamiah karena memungkinkan otak untuk dibentuk oleh lingkungan tempat ia dibesarkan. Fenomena ini dikenal sebagai plastisitas yang bergantung pada pengalaman (*Experience-Dependent Plasticity*).
+Otak bayi manusia yang baru lahir termasuk yang paling tidak matang dibandingkan otak bayi mamalia lainnya. Kondisi ini sebenarnya menjadi keuntungan alamiah karena memungkinkan otak untuk dibentuk oleh lingkungan tempat ia dibesarkan. Fenomena ini dikenal sebagai plastisitas yang bergantung pada pengalaman (*Experience-Dependent Plasticity*).
 
 Otak bayi membutuhkan otak orang dewasa yang matang untuk membantu mengatur fungsi fisiologisnya sendiri, mulai dari suhu tubuh hingga detak jantung dan emosi.
 
@@ -14,11 +14,11 @@ Bayangkan otak bayi seperti sebuah rumah yang sedang dibangun. Genetik menyediak
 
 ## 2. Struktur Utama Otak dalam Sistem Kelekatan
 
-Ada tiga wilayah utama di otak yang bekerja sama untuk memproses kelekatan:
+Ada beberapa wilayah utama di otak yang bekerja sama untuk memproses kelekatan (amigdala sendiri merupakan bagian dari sistem limbik):
 
 ### A. Amigdala
 
-Amigdala adalah pusat pemrosesan emosi, terutama rasa takut. Bagian ini berfungsi menilai apakah lingkungan sekitar aman atau berbahaya. Pada anak dengan kelekatan tidak aman (*insecure*), amigdala cenderung menjadi hiper-reaktif. Jika mereka sering merasa terancam atau diabaikan saat kecil, amigdala akan terus-menerus mengirim sinyal bahaya, membuat mereka tumbuh menjadi orang dewasa yang sangat waspada terhadap penolakan.
+Amigdala adalah pusat pemrosesan emosi, terutama rasa takut. Bagian ini berfungsi menilai apakah lingkungan sekitar aman atau berbahaya. Pada anak dengan kelekatan tidak aman (*insecure*), amigdala cenderung menjadi hiperreaktif. Jika mereka sering merasa terancam atau diabaikan saat kecil, amigdala akan terus-menerus mengirim sinyal bahaya, membuat mereka tumbuh menjadi orang dewasa yang sangat waspada terhadap penolakan.
 
 ### B. Korteks Prefrontal (PFC)
 
@@ -82,7 +82,7 @@ Penting untuk memahami bahwa reaksi ini adalah respons otomatis dari sistem sara
 
 Kabar baiknya, otak manusia memiliki kemampuan untuk terus berubah sepanjang hidup. Meskipun hubungan awal kamu membentuk "jalur tol" saraf tertentu, interaksi sehat yang kamu bangun di masa dewasa serta pendampingan profesional dapat membantu menciptakan jalur baru yang lebih aman.
 
-Seperti ungkapan bahwa luka yang lahir dari sebuah hubungan hanya bisa dipulihkan kembali melalui hubungan yang sehat.
+Seperti kata sebuah ungkapan, luka yang lahir dari sebuah hubungan hanya bisa dipulihkan melalui hubungan yang sehat.
 
 Saat kamu merasa cemas dalam sebuah hubungan, cobalah untuk memperhatikan di bagian tubuh mana kamu merasakan ketegangan tersebut. Menyadari reaksi fisik ini membantu kamu memahami bahwa tubuh kamu sedang menjalankan pola pertahanan lama. Dengan kesadaran ini, kamu memiliki kemampuan untuk melatih kembali respons sistem saraf tersebut melalui kehadiran diri yang tenang.
 

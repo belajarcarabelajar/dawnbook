@@ -1,6 +1,6 @@
 ## Sejarah dan Tokoh Kunci
 
-Mari kita menengok kembali akar pemahaman tentang hubungan manusia. Sebelum masuk ke pembahasan gaya kelekatan secara mendalam, kita perlu mengenal para perintis teori ini. Mereka berhasil membuktikan bahwa ikatan ibu dan anak bukan cuma urusan makan-memakan, melainkan landasan penting bagi kelangsungan hidup emosional si anak.
+Mari kita menengok kembali akar pemahaman tentang hubungan manusia. Sebelum masuk ke pembahasan gaya kelekatan secara mendalam, kita perlu mengenal para perintis teori ini. Mereka berhasil membuktikan bahwa ikatan ibu dan anak bukan cuma urusan pemberian makan, melainkan landasan penting bagi kelangsungan hidup emosional si anak.
 
 ## Pionir Teori Evolusi Kelekatan John Bowlby
 
@@ -8,7 +8,7 @@ Ibarat sebuah bangunan, teori kelekatan diletakkan fondasinya oleh **John Bowlby
 
 Pada dekade 1940-an, kaum behavioris meyakini bahwa bayi menempel pada ibunya semata-mata karena urusan makanan. Namun, Bowlby mengamati hal yang berbeda ketika menangani anak-anak yang terpisah dari orang tua mereka selama Perang Dunia II.
 
-### Konsep "The Secure Base" (Basis Aman) dari Bowlby
+### Konsep "The Secure Base" (Basis Aman)
 
 Bowlby mengajukan gagasan bahwa kelekatan adalah **sistem motivasi biologis** bawaan. Sama seperti rasa lapar atau haus, dorongan untuk dekat dengan pengasuh utama merupakan insting dasar untuk bertahan hidup.
 
@@ -72,7 +72,7 @@ Melalui eksperimen ini, Ainsworth awalnya mengidentifikasi tiga pola perilaku ut
 | **Anxious-Ambivalent (Cemas)** | Sangat histeris dan menunjukkan kecemasan yang ekstrem. | Mendekati ibu tetapi menunjukkan kemarahan (memukul atau menolak) dan sulit ditenangkan. |
 | **Avoidant (Menghindar)** | Tampak tidak peduli atau tidak terpengaruh secara fisik. | Mengabaikan atau menghindari kontak dengan ibu saat ia kembali. |
 
-*(Catatan: Gaya keempat, Disorganized/Disorientasi, ditambahkan kemudian oleh Mary Main berdasarkan fondasi Ainsworth).*
+*(Catatan: Gaya keempat, Disorganized/Disoriented, ditambahkan kemudian oleh Mary Main berdasarkan fondasi Ainsworth).*
 
 ## Relevansi dalam Hubungan Dewasa
 

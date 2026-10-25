@@ -18,9 +18,9 @@ Teori ini berargumen bahwa hubungan pertama kita, biasanya dengan orang tua atau
 
 ### 1. Kelangsungan Hidup Biologis (Survival)
 
-Berbeda dengan hewan yang bisa berjalan sesaat setelah lahir, bayi manusia sangat tidak berdaya. Kita lahir dengan sistem motivasi bawaan yang dirancang untuk mencari kedekatan dengan pengasuh.
+Berbeda dengan sebagian hewan yang bisa berjalan sesaat setelah lahir, bayi manusia sangat tidak berdaya. Kita lahir dengan sistem motivasi bawaan yang dirancang untuk mencari kedekatan dengan pengasuh.
 
-Sebagai contoh, ketika bayi menangis, tersenyum, atau memanggil (sebagai aksi), pengasuh akan datang memberikan makan, kehangatan, dan perlindungan (sebagai reaksi). Tanpa kelekatan ini, bayi manusia tidak akan bertahan secara biologis.
+Sebagai contoh, ketika bayi menangis, tersenyum, atau memanggil (sebagai aksi), pengasuh akan datang memberi makan, kehangatan, dan perlindungan (sebagai reaksi). Tanpa kelekatan ini, bayi manusia tidak akan bertahan secara biologis.
 
 ### 2. Pembentukan "Internal Working Model" (Peta Mental)
 

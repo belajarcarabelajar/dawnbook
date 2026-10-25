@@ -40,7 +40,7 @@ $$
 Contoh penerapannya dalam kehidupan sehari-hari:
 
 - **Pikiran Otomatis**: *"Dia tidak membalas pesanku selama dua jam, dia pasti sudah bosan denganku."*
-- **Bukti Penantang**: *"Dia sedang sibuk bekerja siang ini. Lagipula, kemarin dia bilang sangat menikmati waktu kebersamaan kami."*
+- **Bukti Penantang**: *"Dia sedang sibuk bekerja siang ini. Lagi pula, kemarin dia bilang sangat menikmati waktu kebersamaan kami."*
 - **Narasi Baru**: *"Keterlambatan membalas pesan tidak menentukan harga diriku maupun stabilitas hubungan kami."*
 
 ## 3. Membangun Batasan yang Sehat (Boundaries)
@@ -61,7 +61,7 @@ Banyak orang merasa bersalah saat menolak permintaan orang lain atau berkata tid
 
 ## 4. Regulasi Emosi
 
-Karena gaya kelekatan berakar pada aspek neurobiologis, pemulihannya perlu melibatkan tubuh secara langsung. Ketika kamu merasa terpicu (*triggered*), sistem sarafmu otomatis masuk ke mode *fight-or-flight* (lawan atau lari).
+Karena gaya kelekatan juga melibatkan aspek neurobiologis, pemulihannya perlu melibatkan tubuh secara langsung. Ketika kamu merasa terpicu (*triggered*), sistem sarafmu otomatis masuk ke mode *fight-or-flight* (lawan atau lari).
 
 ### Teknik "Grounding" 5-4-3-2-1
 
