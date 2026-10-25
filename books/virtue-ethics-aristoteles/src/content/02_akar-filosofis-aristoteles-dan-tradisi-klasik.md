@@ -61,7 +61,7 @@ $$
 
 Dalam dunia kerja atau organisasi saat ini, kita sering terjebak pada KPI (Key Performance Indicators) atau kepatuhan terhadap SOP. Namun, ajaran Aristoteles mengingatkan kita bahwa **integritas pemimpin lebih penting daripada aturan tertulis.**
 
-**Skenario:** Seorang manajer menghadapi situasi di mana ia bisa memanipulasi laporan untuk mendapatkan bonus tim (mengikuti aturan "mencapai target"), atau jujur meskipun bonus tersebut hilang (mengikuti kebajikan kejujuran).
+**Skenario:** Seorang manajer menghadapi situasi ketika ia bisa memanipulasi laporan untuk mendapatkan bonus tim (mengikuti aturan "mencapai target"), atau jujur meskipun bonus tersebut hilang (mengikuti kebajikan kejujuran).
 
 - **Perspektif Aristoteles:** Jika manajer tersebut memilih jujur, ia tidak hanya melakukan "hal yang benar", tetapi ia sedang **memperkuat otot kejujurannya**. Di masa depan, kejujuran akan menjadi sifat alaminya (karakter), bukan lagi sebuah beban keputusan yang sulit.
 

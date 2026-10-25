@@ -26,7 +26,7 @@ Hexis adalah kondisi mental atau fisik yang menetap, sebuah disposisi karakter. 
 
 ### Proses Transformasi
 
-Transformasi karakter berawal dari tahap pemula, di mana kita melakukan tindakan baik seperti berbagi karena menaati aturan atau disuruh orang lain. Rasanya masih berat dan dipaksakan. Setelah itu, kita masuk ke tahap latihan dengan mengulangi tindakan tersebut di berbagai situasi menantang secara konsisten. Pada akhirnya, tindakan baik tersebut berubah menjadi spontan, menetap, dan memunculkan kepuasan batin tersendiri saat kita melakukannya. Tahap akhir inilah yang disebut karakter sejati (hexis).
+Transformasi karakter berawal dari tahap pemula, ketika kita melakukan tindakan baik seperti berbagi karena menaati aturan atau disuruh orang lain. Rasanya masih berat dan dipaksakan. Setelah itu, kita masuk ke tahap latihan dengan mengulangi tindakan tersebut di berbagai situasi menantang secara konsisten. Pada akhirnya, tindakan baik tersebut berubah menjadi spontan, menetap, dan memunculkan kepuasan batin tersendiri saat kita melakukannya. Tahap akhir inilah yang disebut karakter sejati (hexis).
 
 Ketiga tahap tersebut bisa kamu lihat berurutan pada bagan berikut.
 

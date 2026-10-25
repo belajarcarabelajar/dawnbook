@@ -24,13 +24,13 @@ Tabel berikut menunjukkan perbedaan mendasar di antara ketiganya:
 
 ### 3. Etika Kebajikan vs Deontologi
 
-Menurut Immanuel Kant, moralitas adalah tentang kepatuhan pada Imperatif Kategoris, di mana kita bertindak berdasarkan prinsip yang bisa dijadikan hukum universal. Dalam pandangan Deontologi, jika berbohong itu salah, maka tindakan itu selalu salah meskipun untuk menyelamatkan nyawa, karena niat dan ketaatan pada aturan adalah yang utama.
+Menurut Immanuel Kant, moralitas adalah tentang kepatuhan pada Imperatif Kategoris, yaitu kita bertindak berdasarkan prinsip yang bisa dijadikan hukum universal. Dalam pandangan Deontologi, jika berbohong itu salah, maka tindakan itu selalu salah meskipun untuk menyelamatkan nyawa, karena niat dan ketaatan pada aturan adalah yang utama.
 
 Berbeda dengan aturan kaku tersebut, Etika Kebajikan memprioritaskan sifat kejujuran. Orang dengan kebajikan ini akan tahu kapan harus bicara jujur dan bagaimana menyampaikannya secara bijaksana melalui penerapan kebijaksanaan praktis (*Phronesis*). Deontologi ibarat memberikan buku instruksi, sementara Etika Kebajikan menyediakan kompas moral di dalam diri.
 
 ### 4. Etika Kebajikan vs Utilitarianisme
 
-Utilitarianisme menggunakan logika untuk mengukur moralitas, di mana kebaikan dihitung dari total kebahagiaan dikurangi penderitaan:
+Utilitarianisme menggunakan logika untuk mengukur moralitas, yaitu kebaikan dihitung dari total kebahagiaan dikurangi penderitaan:
 
 <div>
 $$

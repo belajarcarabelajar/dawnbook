@@ -75,7 +75,7 @@ Kamu tidak bisa menjadi bajik sendirian di ruang hampa. Karakter kita dipengaruh
 - **Cari Role Model:** Siapa orang dalam hidup kamu yang memanifestasikan kebajikan yang ingin kamu miliki? Pelajari cara mereka bereaksi terhadap tekanan.
 - **Kontribusi Sosial:** Gunakan kebajikan kamu untuk melayani orang lain. *Eudaimonia* (kebahagiaan sejati) sering kali ditemukan saat kita melampaui kepentingan diri sendiri dan berkontribusi pada kesejahteraan *Polis* (komunitas) kita.
 
-**Penting:** Ingatlah bahwa tujuan akhir dari semua latihan ini bukanlah untuk menjadi orang yang "merasa paling suci", melainkan untuk mencapai kondisi **Flourishing**, sebuah keadaan di mana kamu hidup sepenuhnya sesuai dengan potensi terbaik kemanusiaan kamu.
+**Penting:** Ingatlah bahwa tujuan akhir dari semua latihan ini bukanlah untuk menjadi orang yang "merasa paling suci", melainkan untuk mencapai kondisi **Flourishing**, sebuah keadaan ketika kamu hidup sepenuhnya sesuai dengan potensi terbaik kemanusiaan kamu.
 
 Seluruh latihan di bab ini bertumpu pada pengamatan yang dirumuskan Will Durant ketika meringkas etika Aristoteles dalam *The Story of Philosophy* (1926): kita adalah apa yang kita kerjakan berulang kali, dan keunggulan lahir dari kebiasaan, bukan dari satu tindakan.
 

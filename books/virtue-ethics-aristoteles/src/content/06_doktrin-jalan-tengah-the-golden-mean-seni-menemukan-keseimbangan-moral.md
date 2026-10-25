@@ -17,7 +17,7 @@ Menurut Aristoteles, keburukan atau maksiat (*vice*) muncul ketika kita gagal me
 Untuk memahami konsep ini, kita bisa melihat setiap sifat karakter sebagai sebuah spektrum. Berbagai kebajikan utama bisa kita letakkan dalam spektrum ini untuk melihat posisi idealnya:
 
 ### Keberanian (Courage)
-Sifat penakut (*cowardice*) adalah sebuah kekurangan, di mana orang lari dari setiap tantangan dan dikuasai oleh rasa takut. Di ujung lainnya adalah nekat (*recklessness*), yaitu melempar diri ke bahaya tanpa alasan logis. Di antara keduanya terdapat keberanian, tindakan menghadapi bahaya demi tujuan yang benar dengan perhitungan yang tepat.
+Sifat penakut (*cowardice*) adalah sebuah kekurangan, yaitu orang lari dari setiap tantangan dan dikuasai oleh rasa takut. Di ujung lainnya adalah nekat (*recklessness*), yaitu melempar diri ke bahaya tanpa alasan logis. Di antara keduanya terdapat keberanian, tindakan menghadapi bahaya demi tujuan yang benar dengan perhitungan yang tepat.
 
 ### Kedermawanan (Generosity)
 Seseorang yang kikir atau pelit (*stinginess*) tidak mau berbagi meskipun memiliki kemampuan. Sebaliknya, orang yang boros (*prodigality*) memberi secara membabi buta hingga merugikan diri sendiri atau demi kesombongan. Jalan tengahnya adalah menjadi dermawan: memberi kepada orang yang tepat, dalam jumlah yang sesuai, dan pada waktu yang pas.

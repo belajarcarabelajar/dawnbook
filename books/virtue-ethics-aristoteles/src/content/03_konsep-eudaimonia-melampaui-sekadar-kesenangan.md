@@ -59,7 +59,7 @@ Bagi para penelaah Etika Kebajikan, akumulasi aset atau kebugaran otot tidak per
 
 Sebagai bahan renungan di ranah profesional, bayangkan sosok arsitek perangkat lunak yang mengeruk untung besar dengan membangun sistem algoritma untuk aplikasi penipuan digital. Kekayaan mengelilinginya, namun rutinitasnya membuat nuraninya makin hampa. Jika ia memutuskan beralih merancang sistem peringatan dini bencana alam (kendati dengan kompensasi yang lebih kecil), ia mulai mendekati Eudaimonia. Kapasitas intelektualnya (Akal Budi) digunakan untuk memastikan hadirnya manfaat konkret bagi masyarakat (Kebajikan).
 
-Dalam kerangka hubungan interpersonal, dorongan mencari pertemanan tak jarang kandas di tahap pelarian akhir pekan semata. Filosofi eudaimonik mendorong standar yang lebih matang: kita merawat lingkaran sahabat berlandaskan penghargaan mendalam atas integritas intelektual, di mana setiap individu bersedia mengambil peran aktif menolong satu sama lain bangkit dari keterpurukan.
+Dalam kerangka hubungan interpersonal, dorongan mencari pertemanan tak jarang kandas di tahap pelarian akhir pekan semata. Filosofi eudaimonik mendorong standar yang lebih matang: kita merawat lingkaran sahabat berlandaskan penghargaan mendalam atas integritas intelektual, yaitu setiap individu bersedia mengambil peran aktif menolong satu sama lain bangkit dari keterpurukan.
 
 ## 7. Kesejahteraan yang Terus Tumbuh
 

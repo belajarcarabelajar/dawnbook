@@ -27,7 +27,7 @@ Niat baik saja tidak cukup untuk melahirkan *Phronesis*. Kebijaksanaan praktis i
 
 Pengalaman ini kemudian memicu **Pemahaman Konteks**. Orang yang bijak secara praktis mampu melihat detail kecil yang sering terlewatkan dalam suatu situasi. Mereka mempertimbangkan siapa saja yang terlibat, risiko yang ada, dan dampak jangka panjang dari sebuah tindakan. 
 
-Selanjutnya adalah proses **Bouleusis** (deliberasi). Ini adalah fase di mana seseorang menimbang-nimbang berbagai opsi tindakan yang mungkin dilakukan sebelum akhirnya mengambil keputusan. Seluruh proses ini didukung oleh **Sunesis** (pemahaman), yaitu kemampuan menilai dengan tepat apa yang dikatakan orang lain tentang persoalan praktis.
+Selanjutnya adalah proses **Bouleusis** (deliberasi). Ini adalah fase ketika seseorang menimbang-nimbang berbagai opsi tindakan yang mungkin dilakukan sebelum akhirnya mengambil keputusan. Seluruh proses ini didukung oleh **Sunesis** (pemahaman), yaitu kemampuan menilai dengan tepat apa yang dikatakan orang lain tentang persoalan praktis.
 
 ## 3\. Phronesis Menentukan Jalan Tengah
 
@@ -51,7 +51,7 @@ Mengambil keputusan menggunakan *Phronesis* melibatkan serangkaian langkah yang 
 
 Setelah realitasnya terbaca, kita masuk ke tahap **integrasi keutamaan**. Di sini kita memanggil nilai-nilai moral relevan yang sudah kita miliki, entah itu keadilan, kasih sayang, atau integritas. Nilai-nilai ini kemudian dibenturkan dengan **analisis konteks**. Kita mulai menelusuri detail spesifik: tindakan apa yang paling pas untuk orang tertentu ini, di detik ini juga, dan dengan alasan yang mendasarinya.
 
-Puncaknya adalah **Prohairesis** atau pengambilan keputusan. Tindakan dieksekusi dengan kesadaran penuh atas segala konsekuensinya. Proses ini tidak lantas berhenti setelah tindakan dilakukan. Tahap akhir yang tak kalah penting adalah **evaluasi**, di mana kita belajar dari hasil akhirnya untuk terus mengasah *Phronesis* kita di kemudian hari.
+Puncaknya adalah **Prohairesis** atau pengambilan keputusan. Tindakan dieksekusi dengan kesadaran penuh atas segala konsekuensinya. Proses ini tidak lantas berhenti setelah tindakan dilakukan. Tahap akhir yang tak kalah penting adalah **evaluasi**, ketika kita belajar dari hasil akhirnya untuk terus mengasah *Phronesis* kita di kemudian hari.
 
 Alur kelima tahap itu, yang kembali lagi ke awal, dapat kamu ikuti pada siklus berikut.
 

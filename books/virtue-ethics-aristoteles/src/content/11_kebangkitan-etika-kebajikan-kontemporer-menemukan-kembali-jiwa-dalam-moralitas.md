@@ -24,7 +24,7 @@ Jika Anscombe yang memulai, Alasdair MacIntyre adalah sosok yang membangunnya ke
 
 #### Hipotesis Malapetaka
 
-MacIntyre membuka bukunya dengan cerita fiksi ilmiah: bayangkan sebuah dunia di mana ilmu pengetahuan hancur akibat bencana. Orang-orang hanya memiliki fragmen alat laboratorium dan menghafal istilah sains tanpa benar-benar paham cara menggunakannya.
+MacIntyre membuka bukunya dengan cerita fiksi ilmiah: bayangkan sebuah dunia ketika ilmu pengetahuan hancur akibat bencana. Orang-orang hanya memiliki fragmen alat laboratorium dan menghafal istilah sains tanpa benar-benar paham cara menggunakannya.
 
 Menurutnya, kondisi moralitas modern persis seperti itu. Kita fasih menggunakan kata-kata seperti "baik", "adil", dan "benar", tetapi kita telah kehilangan konteks sejarah maupun filosofis yang memberi makna pada kata-kata tersebut. Perdebatan moral modern pada akhirnya sering kali berujung pada argumen emosional tanpa penyelesaian.
 
