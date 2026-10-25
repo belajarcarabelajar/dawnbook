@@ -20,4 +20,4 @@ Sebagai pasien atau orang tua yang sedang mempelajari tindakan ini, kamu bisa me
 
 9. Pynnonen, M., Brinkmeier, J. V., Thorne, M. C., Chong, L. Y., & Burton, M. J. (2017). Coblation versus other surgical techniques for tonsillectomy. *Cochrane Database of Systematic Reviews*, 2017(8), CD004619. [https://doi.org/10.1002/14651858.CD004619.pub3](https://doi.org/10.1002/14651858.CD004619.pub3)
 
-10. Seshamani, M., & Windfuhr, J. P. (2014). Prevalence of complications from adult tonsillectomy and impact on health care expenditures. *Otolaryngology - Head and Neck Surgery*, 150(2), 202-208. [https://doi.org/10.1177/0194599813519972](https://doi.org/10.1177/0194599813519972)
+10. Seshamani, M., Vogtmann, E., Gatwood, J., Gibson, T. B., & Scanlon, D. (2014). Prevalence of complications from adult tonsillectomy and impact on health care expenditures. *Otolaryngology - Head and Neck Surgery*, 150(4), 574-581. [https://doi.org/10.1177/0194599813519972](https://doi.org/10.1177/0194599813519972)

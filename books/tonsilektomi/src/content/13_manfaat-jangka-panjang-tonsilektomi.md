@@ -12,7 +12,7 @@ Selain itu, kondisi ini membawa efek domino positif bagi tubuh:
 - **Konsumsi Obat Berkurang:** Tanpa infeksi berulang, tubuh tidak lagi membutuhkan banyak antibiotik. Langkah ini sekaligus melindungi mikrobiota usus dan mencegah risiko resistensi kuman.
 - Anak-anak menjadi lebih jarang absen sekolah, sementara orang dewasa dapat bekerja dengan produktivitas yang stabil tanpa terganggu hari sakit.
 
-> **Pesan Penting:** Meskipun tonsilektomi menghilangkan kemungkinan terkena tonsilitis, pasien masih bisa terkena faringitis (radang tenggorokan biasa), namun biasanya gejalanya jauh lebih ringan dan lebih jarang terjadi.
+> **Pesan Penting:** Meskipun tonsilektomi menghilangkan kemungkinan terkena tonsilitis, pasien masih bisa terkena faringitis (radang tenggorokan biasa), tetapi biasanya gejalanya jauh lebih ringan dan lebih jarang terjadi.
 
 ## 2\. Perbaikan Kualitas Tidur dan Pernapasan
 
@@ -27,7 +27,7 @@ Saat amandel yang menghalangi jalan napas diangkat, suara dengkuran yang keras b
 ### Dampak pada Anak-anak
 
 Pada anak-anak, tidur yang lebih tenang membawa dampak yang sangat terasa:
-- **Tumbuh Kembang Maksimal:** Tidur nyenyak tanpa hambatan membantu pelepasan hormon pertumbuhan bekerja lebih optimal.
+- **Tumbuh Kembang Maksimal:** Tidur nyenyak tanpa hambatan membantu pelepasan hormon pertumbuhan berlangsung lebih optimal.
 - Di sisi lain, fokus dan perilaku mereka di siang hari ikut membaik. Banyak anak yang awalnya dikira hiperaktif atau sulit konsentrasi ternyata hanya mengalami kurang tidur kronis akibat gangguan pernapasan saat malam hari.
 
 ## 3\. Peningkatan Kualitas Hidup Secara Menyeluruh
@@ -39,18 +39,18 @@ $$
 $$
 
 Pemulihan pernapasan dan infeksi ini pada akhirnya mendongkrak kesejahteraan hidup secara menyeluruh. Perubahannya dapat dirasakan langsung pada beberapa aspek berikut:
-- **Nafsu Makan Kembali:** Amandel yang membengkak sering menimbulkan nyeri telan (disfagia) pada anak-anak. Ketika hambatan ini hilang, mereka bisa makan dengan lebih nyaman, membantu berat badan tumbuh ke angka ideal.
+- **Nafsu Makan Kembali:** Amandel yang membengkak sering menimbulkan nyeri telan (odinofagia) pada anak-anak. Ketika hambatan ini hilang, mereka bisa makan dengan lebih nyaman, membantu berat badan tumbuh ke angka ideal.
 - Tubuh tidak lagi membuang energi untuk terus-menerus melawan peradangan laten. Energi yang tersisa kini bisa dialihkan untuk mendukung aktivitas harianmu yang lebih produktif.
 - **Rasa Percaya Diri Sosial:** Operasi ini menuntaskan masalah batu amandel (tonsilolit) penyebab bau mulut kronis. Dengan hilangnya sumber bau tersebut secara permanen, interaksi sosial terasa jauh lebih nyaman.
 
 ## Apakah Sistem Imun Akan Melemah?
 
-Penelitian medis menunjukkan kekhawatiran jangka panjang ini tidak terbukti karena beberapa alasan:
-- **Kompensasi Alami:** Tenggorokan masih memiliki jaringan limfoid lain seperti adenoid, lingual tonsils, serta kelenjar getah bening yang siap mengambil alih tugas pertahanan.
+Penelitian medis menunjukkan kekhawatiran akan melemahnya sistem imun dalam jangka panjang umumnya tidak terbukti karena beberapa alasan:
+- **Kompensasi Alami:** Tenggorokan masih memiliki jaringan limfoid lain seperti adenoid, tonsil lingual, serta kelenjar getah bening yang siap mengambil alih tugas pertahanan.
 - Amandel yang telanjur rusak akibat infeksi berulang justru kehilangan fungsinya dan berubah menjadi sarang bakteri yang merugikan tubuh.
-- Berbagai studi klinis mengonfirmasi bahwa pasien yang telah menjalani operasi tidak menjadi lebih rentan terhadap serangan penyakit atau gangguan imun di masa mendatang.
+- Sejumlah studi klinis menunjukkan bahwa pasien yang telah menjalani operasi umumnya tidak menjadi lebih rentan terhadap serangan penyakit atau gangguan imun di masa mendatang.
 
-## Dua Pasien Pasca-Operasi
+## Dua Pasien Pascaoperasi
 
 ### Profesional yang Produktif
 

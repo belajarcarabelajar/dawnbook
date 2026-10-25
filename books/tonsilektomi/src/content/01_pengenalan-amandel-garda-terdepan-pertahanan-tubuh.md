@@ -1,6 +1,6 @@
 ## Pengenalan Amandel (Tonsil)
 
-Seringkali kita hanya membicarakan amandel saat mereka sedang meradang atau terasa sakit. Namun, tahukah kamu bahwa organ kecil di tenggorokan ini sebenarnya terus bekerja melindungi kesehatanmu?
+Sering kali kita hanya membicarakan amandel saat mereka sedang meradang atau terasa sakit. Namun, tahukah kamu bahwa organ kecil di tenggorokan ini sebenarnya terus bekerja melindungi kesehatanmu?
 
 Dalam bagian ini, kita akan menjelajahi apa itu amandel, di mana letak persisnya, dan mengapa mereka dianggap sebagai garis pertahanan pertama bagi sistem kekebalan tubuh kita.
 
@@ -35,7 +35,7 @@ P \propto A
 $$
 </div>
 
-Dengan adanya kripta, luas permukaan $A$ menjadi berkali-kali lipat lebih besar. Hal ini secara otomatis meningkatkan peluang $P$ bagi amandel untuk mendeteksi dan melumpuhkan patogen sebelum mereka masuk lebih jauh ke dalam tubuh.
+Dengan adanya kripta, luas permukaan $A$ menjadi berkali-kali lipat lebih besar. Hal ini meningkatkan nilai $P$ bagi amandel untuk mendeteksi dan melumpuhkan patogen sebelum mereka masuk lebih jauh ke dalam tubuh.
 
 ## Fungsi Amandel bagi Sistem Kekebalan Tubuh
 

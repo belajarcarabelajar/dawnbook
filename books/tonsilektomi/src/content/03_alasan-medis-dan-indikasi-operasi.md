@@ -8,7 +8,7 @@ Mari kita ulas berbagai kondisi kesehatan yang menjadi alasan kuat bagi dokter s
 
 ## 1. Tonsilitis Rekuren (Infeksi Berulang)
 
-Alasan paling umum untuk tindakan tonsilektomi adalah infeksi yang terjadi terus-menerus. Gejala ini tidak sekadar muncul sesekali dalam setahun, tetapi frekuensinya sudah sangat mengganggu aktivitas sehari-hari, sekolah, hingga pekerjaan.
+Alasan paling umum untuk tindakan tonsilektomi adalah infeksi yang terjadi terus-menerus. Infeksi ini tidak sekadar muncul sesekali dalam setahun, tetapi frekuensinya sudah sangat mengganggu aktivitas sehari-hari, sekolah, hingga pekerjaan.
 
 ### Kriteria Paradise
 
@@ -25,7 +25,7 @@ Dunia medis menggunakan standar bernama **Kriteria Paradise** untuk menentukan k
 3. Muncul bercak putih atau eksudat pada permukaan amandel.
 4. Hasil tes usap (swab) tenggorokan positif menunjukkan infeksi bakteri *Group A Beta-Hemolytic Streptococcus* (GABHS).
 
-Sebagai pertimbangan praktis, jika anak terpaksa absen sekolah hingga 20 hari dalam setahun karena radang amandel berulang, dampak ketertinggalan pelajaran bisa berdampak lebih buruk bagi perkembangannya dibandingkan dengan risiko dari prosedur operasi itu sendiri.
+Sebagai pertimbangan praktis, jika anak terpaksa absen sekolah hingga 20 hari dalam setahun karena radang amandel berulang, ketertinggalan pelajaran bisa berdampak lebih buruk bagi perkembangannya dibandingkan dengan risiko dari prosedur operasi itu sendiri.
 
 ## 2. Hipertrofi Tonsil (Pembengkakan Berlebih)
 
@@ -63,14 +63,14 @@ Secara sederhana, kondisi ini mirip seperti bernapas lewat sedotan kecil sepanja
 
 Selain faktor infeksi dan ukuran amandel, ada beberapa kondisi mendesak lain yang memerlukan tindakan bedah:
 
-- **Abses Peritonsilar (Quinsy):** Kondisi darurat berupa penumpukan nanah di belakang jaringan amandel. Jika infeksi ini terus berulang atau menyumbat jalan napas secara mendadak, operasi pengangkatan amandel harus segera dilakukan.
-- **Kecurigaan Kanker (Keganasan):** Saat ukuran salah satu amandel membesar sebelah secara drastis (asimetris) tanpa adanya tanda infeksi. Dokter akan menyarankan biopsi lewat operasi pengangkatan untuk menepis kemungkinan tumor ganas.
+- **Abses Peritonsilar (Quinsy):** Kondisi darurat berupa penumpukan nanah di belakang jaringan amandel. Jika infeksi ini terus berulang atau menyumbat jalan napas secara mendadak, operasi pengangkatan amandel dapat dipertimbangkan.
+- **Kecurigaan Kanker (Keganasan):** Kondisi ini dicurigai bila salah satu amandel membesar secara drastis (asimetris) tanpa tanda infeksi. Dokter akan menyarankan biopsi lewat operasi pengangkatan untuk menepis kemungkinan tumor ganas.
 - **Bau mulut kronis (Halitosis):** Terjadi karena sisa makanan tersangkut di celah atau lubang amandel (kripta) dan mengeras menjadi batu amandel (*tonsilloliths*). Jika bau tajam ini terus bertahan dan tidak membaik dengan pembersihan biasa, tonsilektomi bisa menjadi solusi akhir.
 - **Sindrom PFAPA:** Singkatan dari *Periodic Fever, Aphthous Stomatitis, Pharyngitis, and Adenitis*. Ini merupakan gangguan langka pada anak yang ditandai dengan demam tinggi berulang setiap beberapa minggu secara berkala.
 
 ## Kasus Budi dan Siska
 
-Mari kita ulas contoh kasus nyata agar kamu bisa melihat bagaimana kriteria di atas diterapkan:
+Mari kita ulas contoh kasus berikut agar kamu bisa melihat bagaimana kriteria di atas diterapkan:
 
 **Kasus Budi (7 tahun)**  
 Budi mendengkur keras setiap malam saat tidur. Ibunya menyadari bahwa napas Budi kerap kali tampak berhenti selama beberapa detik sebelum akhirnya ia tersentak bangun. Guru di sekolah juga mengeluhkan bahwa Budi sulit berkonsentrasi dan sering mengantuk di kelas. Berdasarkan pemeriksaan medis, amandel Budi membengkak hingga **Grade +4**.
@@ -93,4 +93,4 @@ Untuk memudahkan ingatanmu, berikut adalah tabel ringkasan kondisi tersebut:
 | **Komplikasi** | Terjadi penumpukan nanah atau Abses Peritonsilar. |
 | **Patologi** | Ukuran amandel tidak simetris (curiga tumor ganas). |
 
-Pada akhirnya, keputusan untuk operasi harus didiskusikan secara mendalam dengan dokter spesialis THT. Langkah pembedahan biasanya menjadi pilihan terakhir saat terapi obat-obatan atau antibiotik tidak lagi efektif untuk menjaga kesehatan jangka panjang.
+Pada akhirnya, keputusan untuk operasi harus didiskusikan secara mendalam dengan dokter spesialis THT. Pada infeksi berulang, langkah pembedahan biasanya menjadi pilihan terakhir saat terapi obat-obatan atau antibiotik tidak lagi efektif untuk menjaga kesehatan jangka panjang.
