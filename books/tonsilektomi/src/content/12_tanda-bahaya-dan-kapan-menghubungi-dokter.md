@@ -2,10 +2,10 @@
 
 Meskipun tonsilektomi tergolong prosedur rutin yang aman, pemulihan di rumah tetap membutuhkan perhatian cermat. Bayangkan seperti merenovasi lorong yang sempit: tenggorokanmu sedang memulihkan diri, dan sewaktu-waktu bisa muncul kendala kecil yang butuh penanganan medis. Oleh karena itu, penting untuk mengenali perbedaan antara rasa tidak nyaman yang wajar dan tanda bahaya (*red flags*) yang memerlukan tindakan darurat.
 
-## 1. Perdarahan Pasca-Operasi sebagai Prioritas Utama
+## 1. Perdarahan Pascaoperasi sebagai Prioritas Utama
 
 Perdarahan merupakan risiko yang paling diwaspadai setelah operasi amandel. Secara medis, perdarahan ini terbagi dalam dua fase waktu:
-- **Perdarahan primer**, yang terjadi dalam 24 jam pertama pasca-operasi.
+- **Perdarahan primer**, yang terjadi dalam 24 jam pertama pascaoperasi.
 - **Perdarahan sekunder**, terjadi antara hari ke-5 hingga ke-10, tepat saat keropeng putih pelindung luka (*eschar*) mulai terkelupas.
 
 ### Kapan Harus Segera ke Unit Gawat Darurat (UGD)?
@@ -49,7 +49,7 @@ Suhu tubuh yang sedikit meningkat (sekitar $37.5^\circ\text{C} - 38^\circ\text{C
 
 Berikut adalah contoh perbedaan penanganan medis yang cepat dibandingkan dengan penundaan tindakan:
 
-**Skenario A (Tindakan Cepat dan Tepat):** Rudi (8 tahun) terbangun pada hari keenam pasca-operasi dengan bercak darah segar di bantal, lalu meludahkan sedikit darah merah. Ibunya segera meminta Rudi berkumur dengan air es. Karena perdarahan tidak berhenti setelah lima menit, ibunya langsung membawa Rudi ke UGD. *Hasil: Dokter dapat menghentikan perdarahan kecil tersebut dengan prosedur sederhana sebelum berkembang menjadi perdarahan serius.*
+**Skenario A (Tindakan Cepat dan Tepat):** Rudi (8 tahun) terbangun pada hari keenam pascaoperasi dengan bercak darah segar di bantal, lalu meludahkan sedikit darah merah. Ibunya segera meminta Rudi berkumur dengan air es. Karena perdarahan tidak berhenti setelah lima menit, ibunya langsung membawa Rudi ke UGD. *Hasil: Dokter dapat menghentikan perdarahan kecil tersebut dengan prosedur sederhana sebelum berkembang menjadi perdarahan serius.*
 
 **Skenario B (Tindakan Terlambat):** Santi merasa sangat lemas dan tidak buang air kecil sejak pagi karena takut merasakan nyeri saat menelan. Ia mengira kondisi lemas ini wajar setelah operasi. Sore harinya, Santi pingsan akibat dehidrasi berat. *Hasil: Santi harus menjalani rawat inap kembali untuk mendapatkan infus cairan intravena, yang sebenarnya bisa dicegah jika tanda dehidrasi diantisipasi lebih awal.*
 

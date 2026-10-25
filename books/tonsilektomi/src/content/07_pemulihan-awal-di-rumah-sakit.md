@@ -11,7 +11,7 @@ Di sini, perawat dan dokter anestesi bertindak seperti petugas bandara. Mereka m
 ## Parameter Pemantauan Utama
 
 Selama berada di PACU (biasanya sekitar 1 hingga 2 jam), perawat akan memantau kondisi fisik secara ketat menggunakan sensor khusus:
-- **Saturasi Oksigen $\text{SpO}_2$**: Alat pemantau memastikan paru-paru berfungsi optimal pasca-anestesi dengan target di atas $95\text{\%}$.
+- **Saturasi Oksigen $\text{SpO}_2$**: Alat pemantau memastikan paru-paru berfungsi optimal pascaanestesi dengan target di atas $95\text{\%}$.
 - **Laju Pernapasan**: Perawat mengawasi keteraturan napas sekaligus mewaspadai tanda sumbatan akibat pembengkakan tenggorokan.
 - Selain itu, stabilitas jantung juga dipantau lewat **Frekuensi Detak Jantung** (dalam satuan *beats per minute*/bpm) dan **Tekanan Darah** guna memastikan sistem sirkulasi tetap aman setelah menerima cairan infus maupun obat-obatan.
 
@@ -24,13 +24,13 @@ Proses bangun dari bius total tidak terjadi secara instan layaknya menyalakan la
 Secara bertahap, kesadaran akan pulih melalui beberapa fase:
 1. **Respons Refleks**: Ditandai dengan gerakan tangan tanpa sadar atau batuk spontan.
 2. Selanjutnya, pasien mulai menunjukkan **respons terhadap suara** dengan membuka mata saat dipanggil, meski biasanya langsung terpejam kembali.
-3. Fase akhir ditandai dengan **orientasi penuh**, di mana pasien sudah mengenali lingkungan sekitar dan mampu mengikuti instruksi sederhana seperti membuka mulut atau menarik napas dalam.
+3. Fase akhir ditandai dengan **orientasi penuh**, ketika pasien sudah mengenali lingkungan sekitar dan mampu mengikuti instruksi sederhana seperti membuka mulut atau menarik napas dalam.
 
 Jika pasien adalah anak-anak, mereka berisiko mengalami *Emergence Delirium* (kondisi gelisah atau menangis histeris saat terbangun). Keadaan ini umumnya dipicu oleh kebingungan sensorik setelah pengaruh obat bius menghilang, bukan semata karena rasa sakit yang hebat.
 
 ## Manajemen Posisi dan Pencegahan Aspirasi
 
-Posisi tubuh pasca-tonsilektomi sangat menentukan kelancaran jalan napas:
+Posisi tubuh pascatonsilektomi sangat menentukan kelancaran jalan napas:
 - **Posisi Lateral (Miring)**: Posisi ini sangat disarankan untuk anak-anak. Jika terdapat sisa air liur atau sedikit rembesan darah, cairan akan mengalir keluar melewati sudut mulut sehingga tidak masuk ke saluran napas (aspirasi).
 - **Posisi Semi-Fowler**: Pasien diposisikan setengah duduk dengan sandaran tempat tidur berkisar antara $30^\circ$ hingga $45^\circ$. Pengaturan ini membantu mengurangi pembengkakan pada area tenggorokan sekaligus memudahkan pernapasan.
 
@@ -45,7 +45,7 @@ Selain skor Aldrete yang memadai, pemindahan dari PACU juga mensyaratkan beberap
 
 ## Pengalaman Pasien di PACU
 
-**Skenario Budi Berusia 8 Tahun Pasca-Tonsilektomi**
+**Skenario Budi Berusia 8 Tahun Pascatonsilektomi**
 
 *   **Menit 0–15**: Budi dipindahkan ke PACU dengan masker oksigen dalam kondisi tertidur lelap. Perawat memantau nadinya setiap 5 menit sekali.
 *   **Menit 15–45**: Saat pengaruh bius mulai berkurang, Budi tampak gelisah dan mencoba menarik masker oksigennya. Perawat dengan sigap membantu memiringkan posisi tubuhnya ke arah lateral untuk mengamankan jalan napas sekaligus memeriksa rembesan darah di sekitar mulut.

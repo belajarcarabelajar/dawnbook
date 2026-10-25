@@ -1,12 +1,12 @@
 ## Manajemen Nyeri dan Pengobatan
 
-Setelah prosedur tonsilektomi selesai, tantangan terbesar yang dihadapi pasien adalah masa pemulihan di rumah, bukan operasi itu sendiri. Rasa nyeri di tenggorokan adalah hal yang tak terelakkan, namun dengan strategi yang tepat, rasa tidak nyaman ini bisa dikendalikan dengan sangat efektif.
+Setelah prosedur tonsilektomi selesai, tantangan terbesar yang dihadapi pasien adalah masa pemulihan di rumah, bukan operasi itu sendiri. Rasa nyeri di tenggorokan adalah hal yang tak terelakkan, tetapi dengan strategi yang tepat, rasa tidak nyaman ini bisa dikendalikan dengan sangat efektif.
 
 Analogi yang paling mendekati adalah membayangkan tenggorokanmu seperti **"lutut yang baru saja lecet parah karena terjatuh."** Jika lutut tersebut terus digerakkan atau terkena gesekan, rasanya akan perih. Bedanya, "lutut" ini berada di tenggorokan yang harus terus bekerja untuk menelan dan bernapas.
 
 ### Mengapa Tenggorokan Terasa Nyeri?
 
-Rasa nyeri pasca-tonsilektomi ini dipicu oleh dua hal utama. Pertama, area bekas pengangkatan amandel menyisakan permukaan terbuka yang membuat ujung-ujung saraf sensitif terpapar langsung. Kedua, otot di sekitar tenggorokan cenderung menegang atau kram akibat manipulasi selama tindakan operasi.
+Rasa nyeri pascatonsilektomi ini dipicu oleh dua hal utama. Pertama, area bekas pengangkatan amandel menyisakan permukaan terbuka yang membuat ujung-ujung saraf sensitif terpapar langsung. Kedua, otot di sekitar tenggorokan cenderung menegang atau kram akibat manipulasi selama tindakan operasi.
 
 > **Wawasan Penting:** Nyeri sering kali tidak hanya terasa di tenggorokan, melainkan menjalar hingga ke telinga (disebut nyeri rujukan). Hal ini wajar terjadi karena saraf *Glossopharyngeal* melayani area tenggorokan sekaligus telinga. Jadi, jangan panik jika telingamu terasa sakit; itu adalah bagian normal dari proses pemulihan.
 

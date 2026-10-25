@@ -53,7 +53,7 @@ Di dalam amandel, terdapat konsentrasi sel darah putih (**limfosit**) yang sanga
 
 Amandel berperan layaknya ruang kelas bagi sistem pertahanan tubuh. Di sini, sistem imun diajari untuk mengenali jenis-jenis kuman yang ada di sekitar kita. Berkat proses belajar ini, tubuh bisa membentuk memori imunologis. Jika kelak kuman yang sama menyerang lagi, tubuhmu sudah siap dengan pertahanan yang lebih matang.
 
-Mengingat peran penting amandel bagi kekebalan tubuh, wajar jika muncul pertanyaan: mengapa ada kondisi di mana organ ini justru harus diangkat? Pertanyaan ini akan kita bahas secara mendalam di bagian "Alasan Medis dan Indikasi Operasi".
+Mengingat peran penting amandel bagi kekebalan tubuh, wajar jika muncul pertanyaan: mengapa ada kondisi yang membuat organ ini justru harus diangkat? Pertanyaan ini akan kita bahas secara mendalam di bagian "Alasan Medis dan Indikasi Operasi".
 
 ## Pos Pemeriksaan Perbatasan
 
