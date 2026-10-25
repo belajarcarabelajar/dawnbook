@@ -2,7 +2,7 @@
 
 Anggaran bulanan membantu kamu tahu ke mana uang pergi dan berapa yang bisa disisihkan untuk tabungan, investasi, dan pelunasan utang. Di sini, kamu akan belajar tentang anggaran dan perencanaan keuangan untuk mengelola uang secara efektif.
 
-Anggaran adalah panduan langkah demi langkah untuk membangun kebiasaan finansial yang sehat. Lewat panduan ini, kamu bisa menyusun rencana yang jelas menuju tujuan keuanganmu.
+Bagian ini adalah panduan langkah demi langkah untuk membangun kebiasaan finansial yang sehat. Lewat panduan ini, kamu bisa menyusun rencana yang jelas menuju tujuan keuanganmu.
 
 ## Apa Itu Anggaran dan Mengapa Ini Penting?
 
@@ -18,13 +18,13 @@ Ini juga membantumu mengenali kebiasaan belanja. Kamu bisa langsung melihat area
 
 Langkah pertama adalah menghitung semua uang yang masuk setelah pajak (pendapatan bersih). Ini mencakup gaji bulanan dari pekerjaan utama, hasil dari proyek sampingan atau *freelance*, hingga bantuan sosial atau tunjangan lainnya.
 
-*Contoh:* Jika gaji bulanan bersihmu Rp 8.000.000 dan kamu punya hasil *freelance* Rp 1.500.000, total pendapatan bersihmu adalah Rp 9.500.000.
+*Contoh:* Jika gaji bulanan bersihmu Rp8.000.000 dan kamu punya hasil *freelance* Rp1.500.000, total pendapatan bersihmu adalah Rp9.500.000.
 
 ### 2. Kategorikan Semua Pengeluaran
 
 Setelah tahu berapa uang yang masuk, catat semua pengeluaran. Pisahkan pengeluaran menjadi biaya tetap dan variabel. 
 
-Biaya tetap adalah cicilan yang sama setiap bulan, seperti sewa rumah atau asuransi. Biaya variabel bisa berubah-ubah, seperti uang makan, transportasi, atau hiburan.
+Biaya tetap adalah pengeluaran yang jumlahnya sama setiap bulan, seperti sewa rumah atau asuransi. Biaya variabel bisa berubah-ubah, seperti uang makan, transportasi, atau hiburan.
 
 Selain itu, bedakan juga mana kebutuhan dan mana keinginan. Kebutuhan adalah hal esensial untuk hidup (makan, tempat tinggal), sementara keinginan sekadar meningkatkan kenyamanan (liburan, *gadget* baru, atau nongkrong di kafe).
 
@@ -41,10 +41,10 @@ Metode sederhana ini membagi pendapatan menjadi tiga kelompok:
 - 20% untuk tabungan dan bayar utang.
 
 **Anggaran Berbasis Nol (Zero-Based Budgeting)**
-Di sini, setiap Rupiah ditugaskan ke pos masing-masing sampai saldo menjadi nol. Misalnya, dari pendapatan Rp 9.000.000, kamu alokasikan habis untuk sewa, makanan, transportasi, hingga tabungan. Kelebihannya, metode ini mencegah pemborosan, meski butuh perhatian ekstra setiap bulannya.
+Di sini, setiap rupiah ditugaskan ke pos masing-masing sampai saldo menjadi nol. Misalnya, dari pendapatan Rp9.500.000, kamu alokasikan habis untuk sewa, makanan, transportasi, hingga tabungan. Kelebihannya, metode ini mencegah pemborosan, meski butuh perhatian ekstra setiap bulannya.
 
 **Sistem Amplop**
-Kalau kamu lebih suka uang tunai, siapkan amplop fisik untuk tiap kategori pengeluaran. Setelah uang di satu amplop habis, kamu tak boleh membelanjakan kategori itu lagi sampai bulan depan. Metode ini membatasi pengeluaran secara langsung.
+Kalau kamu lebih suka uang tunai, siapkan amplop fisik untuk tiap kategori pengeluaran. Setelah uang di satu amplop habis, kamu tak boleh berbelanja untuk kategori itu lagi sampai bulan depan. Metode ini membatasi pengeluaran secara langsung.
 
 ### 4. Eksekusi Rencana Anggaran
 
@@ -79,37 +79,37 @@ Tujuan di tahap ini umumnya berupa persiapan masa pensiun, dana pendidikan anak,
 
 Untuk mewujudkan tujuan jangka pendek, pastikan kamu selalu memasukkan alokasi tabungan dalam anggaran bulananmu. 
 
-Untuk tujuan jangka panjang, otomatisasi tabunganmu. Atur transfer otomatis dari rekening gaji ke rekening investasi setiap tanggal gajian. Berinvestasi seringkali lebih efektif daripada sekadar menabung karena nilainya bisa terus berkembang.
+Untuk tujuan jangka panjang, otomatisasi tabunganmu. Atur transfer otomatis dari rekening gaji ke rekening investasi setiap tanggal gajian. Berinvestasi sering kali lebih efektif daripada sekadar menabung karena nilainya bisa terus berkembang.
 
 ## Contoh Skenario Nyata
 
-Mari lihat contoh dari kehidupan keluarga Budi. Budi dan istrinya punya penghasilan bersih gabungan Rp 15.000.000 per bulan. Mereka ingin beli rumah 5 tahun lagi dan menyiapkan dana pendidikan anak.
+Mari lihat contoh dari kehidupan keluarga Budi. Budi dan istrinya punya penghasilan bersih gabungan Rp15.000.000 per bulan. Mereka ingin beli rumah 5 tahun lagi dan menyiapkan dana pendidikan anak.
 
 Dengan memakai aturan 50/30/20, anggarannya jadi seperti ini:
 
-**Kebutuhan (50%) - Rp 7.500.000**
+**Kebutuhan (50%) - Rp7.500.000**
 Dana ini habis dipakai untuk sewa apartemen, makan sehari-hari, ongkos transportasi, tagihan listrik, serta asuransi.
 
-**Keinginan (30%) - Rp 4.500.000**
+**Keinginan (30%) - Rp4.500.000**
 Mereka mengalokasikannya untuk minum kopi di luar, nonton bioskop, belanja hobi, dan liburan kecil-kecilan.
 
-**Tabungan & Utang (20%) - Rp 3.000.000**
-Dari sini, mereka rutin menyisihkan Rp 2.000.000 untuk tabungan uang muka rumah, dan sisa Rp 1.000.000 dibagi untuk dana pendidikan serta dana darurat.
+**Tabungan & Utang (20%) - Rp3.000.000**
+Dari sini, mereka rutin menyisihkan Rp2.000.000 untuk tabungan uang muka rumah, dan sisa Rp1.000.000 dibagi untuk dana pendidikan serta dana darurat.
 
 Pembagian penghasilan keluarga Budi itu tergambar dalam diagram lingkaran berikut.
 
 ```mermaid
-pie title "Anggaran bulanan keluarga Budi (juta Rupiah)"
+pie title "Anggaran bulanan keluarga Budi (juta rupiah)"
     accTitle: Pembagian anggaran keluarga Budi dengan aturan 50/30/20
-    accDescr: Dari penghasilan bersih Rp 15 juta per bulan, Rp 7,5 juta untuk kebutuhan, Rp 4,5 juta untuk keinginan, dan Rp 3 juta untuk tabungan dan utang.
+    accDescr: Dari penghasilan bersih Rp15 juta per bulan, Rp7,5 juta untuk kebutuhan, Rp4,5 juta untuk keinginan, dan Rp3 juta untuk tabungan dan utang.
     "Kebutuhan (50%)" : 7.5
     "Keinginan (30%)" : 4.5
     "Tabungan dan utang (20%)" : 3
 ```
 
-Setiap bulan Budi mengevaluasi catatan keuangannya. Bulan lalu mereka sadar terlalu banyak menghabiskan uang untuk ngopi di kafe. Akhirnya bulan ini mereka mengurangi jatah nongkrong demi bisa tetap menabung sesuai target.
+Setiap bulan Budi dan istrinya mengevaluasi catatan keuangan mereka. Bulan lalu mereka sadar terlalu banyak menghabiskan uang untuk ngopi di kafe. Akhirnya bulan ini mereka mengurangi jatah nongkrong demi bisa tetap menabung sesuai target.
 
-Jika rutin menabung Rp 2.000.000 per bulan, dalam 5 tahun mereka bakal mengumpulkan Rp 120.000.000. Angka ini cukup untuk uang muka rumah mungil, apalagi jika uangnya ditaruh di instrumen investasi yang memberikan imbal hasil.
+Jika rutin menabung Rp2.000.000 per bulan, dalam 5 tahun mereka bakal mengumpulkan Rp120.000.000. Angka ini cukup untuk uang muka rumah mungil, apalagi jika uangnya ditaruh di instrumen investasi yang memberikan imbal hasil.
 
 ## Tips Konsisten Mengatur Uang
 

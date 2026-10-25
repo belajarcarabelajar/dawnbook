@@ -34,7 +34,7 @@ Berikut rincian tarif PPh yang berlaku:
 - Di atas Rp500 juta – Rp5 miliar: 30%
 - Di atas Rp5 miliar: 35%
 
-**Contoh Hitung PPh 21:** 
+**Contoh Hitung PPh 21 (disederhanakan):** 
 Katakanlah kamu masih lajang dan bergaji Rp5 juta sebulan.
 
 1. Penghasilan setahun: $5.000.000 \times 12 = 60.000.000$ rupiah.
@@ -61,9 +61,9 @@ Beberapa keuntungan kalau kamu merencanakan pajak dengan baik:
 - **Bebas dari denda.** Salah lapor atau telat bayar bisa berujung sanksi finansial yang lumayan menguras kantong.
 - **Arus kas lebih rapi.** Kalau kamu sudah menghitung porsi pajak di awal, arus kas bulanan bakal lebih sehat untuk rencana jangka panjang.
 
-## Kewajiban Dasar Kamu Sebagai Wajib Pajak
+## Kewajiban Dasar Kamu sebagai Wajib Pajak
 
-Kalau syarat gajimu sudah masuk kriteria, kamu otomatis jadi Wajib Pajak. Ada beberapa hal rutin yang harus kamu kerjakan:
+Kalau gajimu sudah memenuhi kriteria, kamu otomatis jadi Wajib Pajak. Ada beberapa hal rutin yang harus kamu kerjakan:
 
 - **Bikin NPWP:** Nomor Pokok Wajib Pajak ini ibarat KTP-nya urusan pajak. 
 - **Hitung Pajak Sendiri:** Karena pakai sistem *self-assessment*, kamu punya tanggung jawab buat menghitung Pajak Penghasilan kamu sendiri.
@@ -96,7 +96,7 @@ Proses pelaporannya praktis:
 Merencanakan pajak berarti memanfaatkan aturan pajak yang ada supaya pengeluaranmu lebih efisien. Berikut langkah-langkah praktisnya:
 
 - **Update Info Terbaru:** Aturan pajak lumayan sering berubah. Pastikan kamu selalu tahu info terbaru soal tarif atau insentif baru dari pemerintah.
-- **Klaim Pengurangan Pajak:** Jangan lewatkan fasilitas seperti PTKP atau insentif pajak lain, misalnya pembebasan buat tabungan pensiun tertentu.
+- **Klaim Pengurangan Pajak:** Jangan lewatkan fasilitas seperti PTKP atau insentif pajak lain.
 - **Simpan Bukti Transaksi:** Kalau kamu punya bisnis atau potong pajak mandiri, selalu simpan nota dan dokumen keuangan. Aturannya, dokumen ini perlu disimpan rapi sampai 10 tahun.
 - **Disiplin Waktu:** Telat bayar atau telat lapor sama dengan buang-buang uang buat bayar denda. Catat baik-baik tenggat waktunya di kalender.
 - **Tanya Ahlinya:** Punya banyak sumber pendapatan atau aset yang rumit? Jangan ragu pakai jasa konsultan pajak. Daripada salah hitung dan berujung denda, mending bayar profesional di awal.

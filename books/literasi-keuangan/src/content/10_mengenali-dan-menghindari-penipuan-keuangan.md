@@ -1,6 +1,6 @@
 ## Mengenali dan Menghindari Penipuan Keuangan
 
-Penipuan keuangan di era digital bisa menimpa siapa saja. Modus penipuan terus berkembang menjadi lebih canggih. Bagian ini akan membekali kamu dengan cara mengidentifikasi tanda-tanda penipuan, melindungi informasi pribadi, dan langkah tepat jika telanjur menjadi korban.
+Penipuan keuangan di era digital bisa menimpa siapa saja. Modus penipuan terus berkembang menjadi lebih canggih. Bagian ini akan membekali kamu dengan cara mengidentifikasi tanda-tanda penipuan, cara melindungi informasi pribadi, dan langkah tepat jika telanjur menjadi korban.
 
 ## Mengapa Perlu Waspada terhadap Penipuan Keuangan?
 
@@ -59,7 +59,7 @@ Selalu pasang mode waspada. Berikut beberapa pertanda umum penipuan:
 
 Kamu memegang kendali atas data pribadimu. Lakukan kebiasaan ini untuk menutup celah keamanan:
 
-1. **Aktifkan 2FA (Otentikasi Dua Faktor):** Ini fitur wajib buat semua aplikasi keuangan dan email. Kalaupun kata sandi kamu bocor, penipu tetap butuh kode lapis kedua buat masuk.
+1. **Aktifkan 2FA (Autentikasi Dua Faktor):** Ini fitur wajib buat semua aplikasi keuangan dan email. Kalaupun kata sandi kamu bocor, penipu tetap butuh kode lapis kedua buat masuk.
 2. **Buat Password yang Unik:** Jangan pakai kata sandi yang sama untuk semua akun. Gunakan kombinasi huruf besar, kecil, angka, dan simbol.
 3. **Rutin Cek Mutasi Rekening:** Pantau terus transaksi di bank dan dompet digital kamu. Langsung lapor kalau ada pemotongan saldo yang mencurigakan.
 4. **Hindari Wi-Fi Publik Saat Transaksi:** Jangan buka aplikasi bank atau bertransaksi finansial saat terhubung ke Wi-Fi kafe atau bandara. Pakai jaringan seluler sendiri lebih aman.
@@ -71,7 +71,7 @@ Kalau kamu sadar sudah tertipu, jangan panik. Semakin cepat kamu bertindak, sema
 
 - **Hubungi Bank Secepatnya:** Minta bank untuk memblokir kartu debit, kartu kredit, atau rekening kamu. Jangan tunda langkah ini.
 - **Kumpulkan Bukti Valid:** *Screenshot* semua percakapan, riwayat telepon, bukti transfer, dan simpan profil pelaku. Bukti ini berguna saat membuat laporan.
-- **Ubah Semua Password:** Ganti kata sandi email dan aplikasi keuangan kamu. Aktifkan otentikasi dua faktor sekarang juga.
+- **Ubah Semua Password:** Ganti kata sandi email dan aplikasi keuangan kamu. Aktifkan autentikasi dua faktor sekarang juga.
 
 **Ke Mana Harus Melapor?**
 - **Kontak OJK 157:** Untuk melaporkan modus investasi bodong atau pinjaman *online* ilegal.
@@ -82,6 +82,6 @@ Kalau kamu sadar sudah tertipu, jangan panik. Semakin cepat kamu bertindak, sema
 
 Kasus penipuan adalah ancaman nyata di sekitar kita. Sejak mulai beroperasi pada 22 November 2024 hingga 30 September 2026, Indonesia Anti-Scam Centre (IASC) menerima 702.342 laporan. Sampai 28 Desember 2025 saja, total kerugian yang dilaporkan ke IASC sudah mencapai Rp9 triliun.
 
-Bahkan orang yang bekerja di sektor keuangan sekalipun pernah tertipu ratusan juta karena pelaku memakai skema yang meyakinkan. Ini membuktikan bahwa tidak ada yang kebal dari ancaman penipuan.
+Bahkan orang yang bekerja di sektor keuangan sekalipun pernah tertipu ratusan juta rupiah karena pelaku memakai skema yang meyakinkan. Ini membuktikan bahwa tidak ada yang kebal dari ancaman penipuan.
 
 Dengan mengenali pola kerja penipu, membiasakan diri melindungi data, dan tahu persis ke mana harus melapor, kamu bisa memperkecil peluang menjadi target korban berikutnya.

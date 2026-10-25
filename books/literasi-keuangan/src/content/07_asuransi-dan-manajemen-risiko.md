@@ -54,13 +54,13 @@ flowchart TD
 
 > **Catatan:** Asuransi merupakan alat untuk memindahkan risiko dalam perencanaan keuangan pribadi.
 
-## Peran Asuransi Sebagai Alat Perlindungan
+## Peran Asuransi sebagai Alat Perlindungan
 
 Asuransi adalah mekanisme pertanggungan. Individu (tertanggung) membayar sejumlah uang secara rutin (premi) kepada perusahaan asuransi (penanggung). Sebagai gantinya, perusahaan berjanji mengganti kerugian finansial akibat kejadian tertentu sesuai isi polis.
 
 ### Definisi Singkat Asuransi
 
-Perjanjian kontrak antara pemegang polis dan perusahaan asuransi. Perusahaan setuju memberi perlindungan uang saat terjadi musibah. Sebagai gantinya, pemegang polis wajib membayar premi.
+Asuransi adalah perjanjian kontrak antara pemegang polis dan perusahaan asuransi. Perusahaan setuju memberi perlindungan uang saat terjadi musibah. Sebagai gantinya, pemegang polis wajib membayar premi.
 
 ### Prinsip Dasar Asuransi
 
@@ -143,7 +143,7 @@ Melindungi rumah, bangunan, dan isinya dari risiko kebakaran, bencana alam, atau
 **Hal yang perlu dicek sebelum membeli:**
 - Nilai pertanggungan harus cukup buat membangun ulang rumah.
 - Kalau rumah di area rawan bencana, wajib ambil perluasan jaminan.
-- Pahami pengecualiannya, misalnya kerusakan karena rayap biasanya tidak dicover.
+- Pahami pengecualiannya, misalnya kerusakan karena rayap biasanya tidak ditanggung.
 
 ## Cara Memilih Polis Asuransi yang Tepat
 

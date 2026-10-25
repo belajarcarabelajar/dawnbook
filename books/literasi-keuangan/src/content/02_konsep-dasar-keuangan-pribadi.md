@@ -41,7 +41,7 @@ Sederhananya, aset adalah segala hal bernilai ekonomi yang kamu miliki. Aset ini
 Aset dibedakan berdasarkan seberapa mudah kamu mengubahnya menjadi uang tunai (likuiditas):
 
 - **Aset Lancar:** Harta yang cepat dicairkan dalam kurun waktu kurang dari setahun tanpa merusak nilainya. Contohnya uang tunai, saldo rekening tabungan, dan reksa dana pasar uang.
-- **Aset Tidak Lancar:** Harta jangka panjang yang butuh waktu lebih lama untuk dijual. Rumah, tanah, mobil, hingga saham dan investasi jangka panjang lainnya masuk ke kelompok ini.
+- **Aset Tidak Lancar:** Harta jangka panjang yang butuh waktu lebih lama untuk dijual. Rumah, tanah, mobil, dan investasi jangka panjang lainnya masuk ke kelompok ini.
 
 Mengumpulkan aset yang bertumbuh adalah cara yang masuk akal menuju kebebasan finansial.
 
@@ -60,7 +60,7 @@ Mengambil utang memang kadang diperlukan, tetapi lepas kendali atas liabilitas a
 
 Kekayaan bersih menunjukkan nilai riil dari kondisi finansialmu saat ini. Angka ini didapat dari total semua aset dikurangi total semua utang.
 
-Rumus perhitungannya cukup lurus:
+Rumus perhitungannya cukup sederhana:
 
 $$
 \text{Kekayaan Bersih} = \text{Total Aset} - \text{Total Liabilitas}
@@ -93,7 +93,7 @@ Tergantung dari angkanya, arus kasmu akan masuk ke salah satu kondisi ini:
 - **Arus Kas Positif:** Pendapatan mengalahkan pengeluaran. Ada sisa uang yang aman untuk ditabung atau diputar kembali ke investasi.
 - **Arus Kas Negatif:** Besar pasak daripada tiang. Kamu menghabiskan lebih banyak dari yang kamu hasilkan. Ini adalah lampu merah yang memaksa kamu mencari pinjaman sekadar untuk menutupi kebutuhan.
 
-Melacak laju uang membantumu tahu titik-titik pengeluaran mana yang masih bisa dipangkas.
+Melacak arus kas membantumu tahu titik-titik pengeluaran mana yang masih bisa dipangkas.
 
 Sebagai contoh:
 - Total pemasukan dari gaji dan proyek sampingan: Rp12.000.000
