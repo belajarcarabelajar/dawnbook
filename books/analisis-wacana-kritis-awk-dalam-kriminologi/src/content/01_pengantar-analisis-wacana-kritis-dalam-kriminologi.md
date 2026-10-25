@@ -137,7 +137,7 @@ Dalam studi kriminologi, pemisahan antara **ancaman nyata** (*credible threat*) 
 
 Untuk mendalami aplikasi linguistik forensik dalam pembuktian hukum, berikut adalah empat dimensi analisis yang sering ditemui di lapangan:
 
-1. **Manipulasi Gaya Bahasa (*Style-Faking*):** Saat pelaku berusaha menirukan gaya menulis orang lain dalam kejahatan siber, kebiasaan bawah sadar seperti frekuensi penempatan tanda koma atau konjungsi merupakan variabel yang paling sulit dipalsukan secara konsisten.
+1. **Manipulasi Gaya Bahasa (*Style-Faking*):** Saat pelaku berusaha menirukan gaya menulis orang lain dalam kejahatan siber, kebiasaan bawah sadar seperti frekuensi penempatan tanda koma atau konjungsi merupakan variabel yang cenderung sulit dipalsukan secara konsisten.
 2. **Komunikasi Digital dan Diksi Singkat:** Dalam pesan instan dan media sosial, pemakaian singkatan dan konvensi ortografi digital memberikan variabel idiolek tambahan yang membantu penyidik menyusun profil kepenulisan.
 3. **Diferensiasi Kritik dan Pencemaran Nama Baik:**
    - *Pernyataan A:* "Layanan di toko ini sangat lambat dan tidak profesional." (Evaluasi pengalaman deskriptif).

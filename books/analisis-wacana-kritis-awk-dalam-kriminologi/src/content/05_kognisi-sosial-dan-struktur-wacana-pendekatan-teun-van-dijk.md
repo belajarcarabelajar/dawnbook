@@ -127,7 +127,7 @@ Dalam kriminologi, membedakan antara **ancaman nyata** dan sekadar **luapan emos
 
 Untuk memahami bagaimana kriminolog menggunakan bahasa sebagai alat bukti, berikut beberapa skenario dan analisis kritis yang relevan:
 
-1. **Tantangan Manipulasi Gaya Bahasa:** Jika seseorang mencoba meniru gaya menulis orang lain untuk menjebak mereka dalam sebuah kasus kejahatan siber, elemen bahasa yang paling sulit dipalsukan secara konsisten adalah kebiasaan bawah sadar seperti penempatan koma atau penggunaan kata hubung.
+1. **Tantangan Manipulasi Gaya Bahasa:** Jika seseorang mencoba meniru gaya menulis orang lain untuk menjebak mereka dalam sebuah kasus kejahatan siber, elemen bahasa yang cenderung sulit dipalsukan secara konsisten adalah kebiasaan bawah sadar seperti penempatan koma atau penggunaan kata hubung.
 2. **Evolusi Digital:** Di era media sosial dan pesan instan, teks sering kali singkat dan kaya simbol. Peneliti linguistik forensik memanfaatkan variasi penggunaan tanda baca dan pola pengetikan untuk mengidentifikasi pelaku.
 3. **Batas Antara Opini dan Pencemaran Nama Baik:**
    > *Perbandingan Contoh:*

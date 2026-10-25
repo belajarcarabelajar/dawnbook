@@ -130,7 +130,7 @@ Ketakutan yang dikonstruksi secara masif oleh media massa memiliki dampak konkre
 
 #### Analisis Skenario dan Refleksi Linguistik Forensik
 
-- **Tantangan Manipulasi Gaya Bahasa**: Ketika seseorang mencoba meniru gaya penulisan pihak lain dalam kejahatan siber, elemen bahasa yang paling sulit dipalsukan secara konsisten adalah kebiasaan bawah sadar, seperti pola penempatan koma, struktur klausa, dan frekuensi kata hubung.
+- **Tantangan Manipulasi Gaya Bahasa**: Ketika seseorang mencoba meniru gaya penulisan pihak lain dalam kejahatan siber, elemen bahasa yang cenderung sulit dipalsukan secara konsisten adalah kebiasaan bawah sadar, seperti pola penempatan koma, struktur klausa, dan frekuensi kata hubung.
 - **Dinamika Era Digital**: Pada era media sosial dan perpesanan instan yang didominasi teks pendek serta tanda visual, analisis jejak kebiasaan ketik (*typing habits*) dan konteks penggunaan simbol menjadi instrumen penting dalam analisis identifikasi.
 - **Diferensiasi Opini vs. Pencemaran Nama Baik**:
   - *Pernyataan A:* "Layanan di toko ini sangat lambat dan tidak profesional." $\rightarrow$ Merupakan penilaian subjektif atas pengalaman layanan (kritik).

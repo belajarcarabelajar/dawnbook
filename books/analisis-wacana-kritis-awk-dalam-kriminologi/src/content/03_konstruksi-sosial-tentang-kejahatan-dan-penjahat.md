@@ -100,7 +100,7 @@ Dalam kriminologi, bahasa dianggap sebagai manifestasi perilaku. Berikut adalah 
 
 | No | Fokus Analisis | Penjelasan & Tantangan Kriminologis |
 | :--- | :--- | :--- |
-| 1 | **Tantangan Manipulasi Gaya Bahasa** | Ketika seseorang mencoba meniru gaya menulis orang lain untuk menjebak mereka dalam kejahatan siber, kebiasaan bawah sadar seperti penempatan koma, struktur klausa, dan kata hubung merupakan elemen yang paling sulit dipalsukan secara konsisten. |
+| 1 | **Tantangan Manipulasi Gaya Bahasa** | Ketika seseorang mencoba meniru gaya menulis orang lain untuk menjebak mereka dalam kejahatan siber, kebiasaan bawah sadar seperti penempatan koma, struktur klausa, dan kata hubung merupakan elemen yang cenderung sulit dipalsukan secara konsisten. |
 | 2 | **Evolusi Digital & Teks Pendek** | Di era media sosial (WhatsApp, X/Twitter), pesan singkat dan simbol komunikasi visual mengharuskan ahli linguistik forensik menganalisis pola ortografi mikro dan kebiasaan sintaksis yang sangat spesifik. |
 | 3 | **Opini vs. Pencemaran Nama Baik** | Dalam analisis hukum, terdapat perbedaan mendasar antara kritik fasilitas (misal: *"Layanan di toko ini sangat lambat"*) dengan tuduhan kriminal personal (misal: *"Pemilik toko ini adalah penipu"*). Linguistik forensik membedakan evaluasi kualitas layanan dari tuduhan tindak pidana. |
 | 4 | **Profiling Kriminal Tekstual** | Jika sebuah surat tebusan menggunakan istilah medis yang sangat spesifik tetapi memiliki tata bahasa yang tidak teratur, kriminolog dapat menyusun profil tersangka sebagai individu dengan latar belakang pendidikan atau profesi medis tertentu yang mencoba menyamarkan identitasnya. |

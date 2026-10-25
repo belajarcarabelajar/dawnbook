@@ -131,7 +131,7 @@ Dalam kriminologi, penting untuk membedakan antara **ancaman nyata** dan sekadar
 
 Dalam analisis investigasi kriminal, beberapa skenario berikut memperlihatkan relevansi linguistik forensik:
 
-- **Tantangan Manipulasi Gaya Bahasa:** Ketika seseorang mencoba meniru gaya menulis orang lain dalam kasus kejahatan siber, kebiasaan bawah sadar seperti penempatan koma, pola jeda, atau struktur kata hubung merupakan elemen yang paling sulit dipalsukan secara konsisten.
+- **Tantangan Manipulasi Gaya Bahasa:** Ketika seseorang mencoba meniru gaya menulis orang lain dalam kasus kejahatan siber, kebiasaan bawah sadar seperti penempatan koma, pola jeda, atau struktur kata hubung merupakan elemen yang cenderung sulit dipalsukan secara konsisten.
 - **Evolusi Digital:** Di era media sosial dan pesan instan, teks berukuran pendek serta penggunaan *emotikon* atau simbol visual memberikan tantangan sekaligus petunjuk unik dalam mengidentifikasi pola komunikasi pelaku.
 - **Batas Antara Opini dan Pencemaran Nama Baik:** Analisis struktur bahasa membedakan opini atau kritik ("Layanan di toko ini sangat lambat") dari tuduhan yang berpotensi melanggar hukum ("Pemilik toko ini sengaja mencuri uang pelanggan").
 - **Hubungan dengan Profiling Kriminal:** Penggunaan istilah medis atau teknis spesifik di dalam surat tebusan dapat membantu menyusun profil kriminologi mengenai latar belakang pendidikan atau profesi tersangka.

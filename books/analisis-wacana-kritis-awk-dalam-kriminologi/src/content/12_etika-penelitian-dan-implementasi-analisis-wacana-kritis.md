@@ -150,7 +150,7 @@ Dalam kriminologi, pembedaan antara ancaman nyata dan luapan emosi dilakukan den
 Dalam praktik kriminologi dan analisis hukum, penerapan linguistik forensik diuji melalui berbagai dinamika pembuktian:
 
 #### A. Kebiasaan Bawah Sadar yang Sulit Dipalsukan
-Saat pelaku kejahatan siber mencoba meniru gaya penulisan individu lain, elemen bahasa yang paling sulit dipalsukan secara konsisten adalah kebiasaan bawah sadar (*unconscious linguistic habits*), seperti frekuensi penempatan koma, penggunaan kata hubung, dan pola mikrosintaksis.
+Saat pelaku kejahatan siber mencoba meniru gaya penulisan individu lain, elemen bahasa yang cenderung sulit dipalsukan secara konsisten adalah kebiasaan bawah sadar (*unconscious linguistic habits*), seperti frekuensi penempatan koma, penggunaan kata hubung, dan pola mikrosintaksis.
 
 #### B. Dinamika Teks Digital
 Di era media sosial dan pesan instan, pesan sering kali singkat dan memuat simbol visual non-verbal. Peneliti linguistik forensik memanfaatkan pola konsistensi pemakaian simbol visual dan variasi ejaan non-standar sebagai indikator identifikasi tambahan.
