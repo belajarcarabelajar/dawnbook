@@ -1,12 +1,12 @@
 ## Peran Neutrino dan Antineutrino
 
-Pernahkah terbayang sebuah partikel yang bisa menembus dinding beton setebal satu tahun cahaya tanpa menyentuh satu atom pun? Itulah gambaran **Neutrino** dan **Antineutrino**. Dalam bab ini, kita akan menelusuri jejak partikel hantu yang kehadirannya sempat dianggap sebagai solusi putus asa namun akhirnya berhasil dideteksi.
+Pernahkah terbayang sebuah partikel yang bisa menembus dinding beton setebal satu tahun cahaya hampir tanpa menyentuh satu atom pun? Itulah gambaran **Neutrino** dan **Antineutrino**. Dalam bab ini, kita akan menelusuri jejak partikel hantu yang kehadirannya sempat dianggap sebagai solusi putus asa namun akhirnya berhasil dideteksi.
 
 ### 1. Krisis Hukum Kekekalan
 
 Pada awal abad ke-20, para fisikawan menghadapi dilema besar. Dalam peluruhan alfa, partikel yang dipancarkan selalu memiliki energi yang pasti. Namun, dalam peluruhan beta, elektron yang keluar memiliki energi yang bervariasi (spektrum kontinu).
 
-Secara matematis, jika sebuah inti atom $A$ meluruh menjadi $B$ dan sebuah elektron ($e^-$), maka energi elektron seharusnya selalu sama dengan selisih massa antara $A$ dan $B$. Faktanya, energi elektron seringkali **lebih kecil** dari yang seharusnya.
+Secara matematis, jika sebuah inti atom $A$ meluruh menjadi $B$ dan sebuah elektron ($e^-$), maka energi elektron seharusnya selalu sama dengan selisih massa antara $A$ dan $B$. Faktanya, energi elektron sering kali **lebih kecil** dari yang seharusnya.
 
 **Ke mana perginya sisa energi tersebut?** Ada dua pilihan saat itu:
 
@@ -32,7 +32,7 @@ Neutrino ($\nu$) dan antineutrino ($\bar{\nu}$) adalah anggota keluarga **lepton
 
 #### Analogi Sederhana
 
-> Bayangkan sebuah pesta dansa yang sangat ramai (materi/atom). Jika seorang raksasa (partikel bermuatan) masuk, dia akan menabrak orang-orang dan berhenti dengan cepat. Namun, neutrino adalah seperti **angin sepoi-sepoi** yang berhembus melewati sela-sela penari tanpa ada yang menyadari kehadirannya.
+> Bayangkan sebuah pesta dansa yang sangat ramai (materi/atom). Jika seorang raksasa (partikel bermuatan) masuk, dia akan menabrak orang-orang dan berhenti dengan cepat. Namun, neutrino adalah seperti **angin sepoi-sepoi** yang berembus melewati sela-sela penari tanpa ada yang menyadari kehadirannya.
 
 ### 4. Neutrino vs. Antineutrino
 
@@ -44,7 +44,7 @@ Terjadi pada **Peluruhan Beta Minus ($\beta^-$)**. Ketika neutron berubah menjad
 
 #### B. Neutrino ($\nu_e$)
 
-Terjadi pada **Peluruhan Beta Plus ($\beta^+$)** atau **Penangkapan Elektron**. Ketika proton berubah menjadi neutron, sebuah positron (anti-elektron, bilangan lepton -1) tercipta, sehingga neutrino (bilangan lepton +1) harus menyertainya. $p \rightarrow n + e^+ + \nu_e$
+Terjadi pada **Peluruhan Beta Plus ($\beta^+$)** atau **Penangkapan Elektron**. Pada beta plus, ketika proton berubah menjadi neutron, sebuah positron (anti-elektron, bilangan lepton -1) tercipta, sehingga neutrino (bilangan lepton +1) harus menyertainya. $p \rightarrow n + e^+ + \nu_e$
 
 **Perbedaan Utama (Helisitas):**
 
@@ -55,7 +55,7 @@ Terjadi pada **Peluruhan Beta Plus ($\beta^+$)** atau **Penangkapan Elektron**. 
 
 Jika mereka begitu sulit dideteksi, bagaimana kita tahu mereka benar-benar ada?
 
-Pada tahun 1956, **Clyde Cowan** dan **Frederick Reines** melakukan eksperimen di dekat reaktor nuklir (yang memancarkan triliunan antineutrino per detik). Mereka menggunakan proses yang disebut **peluruhan beta terbalik**:
+Pada tahun 1956, **Clyde Cowan** dan **Frederick Reines** melakukan eksperimen di dekat reaktor nuklir (yang memancarkan antineutrino dalam jumlah sangat besar per detik). Mereka menggunakan proses yang disebut **peluruhan beta terbalik**:
 
 <div>
 $$
@@ -67,9 +67,9 @@ Ketika antineutrino menabrak proton dalam tangki air besar, ia menghasilkan neut
 
 ### Kegunaan Praktis Neutrino
 
-Meskipun terdengar seperti sains fiksi, neutrino memiliki kegunaan nyata:
+Meskipun terdengar seperti fiksi ilmiah, neutrino memiliki kegunaan nyata:
 
-1. **Tomografi Bumi:** Ilmuwan menggunakan neutrino yang dihasilkan di atmosfer untuk memetakan kepadatan inti bumi, karena neutrino melambat sedikit saat melewati material padat.
+1. **Tomografi Bumi:** Ilmuwan menggunakan neutrino yang dihasilkan di atmosfer untuk memetakan kepadatan inti bumi.
 2. **Pemantauan Reaktor Nuklir:** Karena reaktor menghasilkan antineutrino dalam jumlah besar, badan pengawas internasional dapat mendeteksi apakah sebuah negara sedang memproduksi plutonium untuk senjata nuklir hanya dengan menempatkan detektor neutrino di luar gedung reaktor tanpa harus masuk ke dalam.
 3. **Astronomi Neutrino:** Tidak seperti cahaya yang bisa terhalang debu angkasa, neutrino dari ledakan bintang (Supernova) sampai ke bumi tanpa hambatan, memberikan informasi langsung tentang apa yang terjadi di bagian dalam bintang.
 
@@ -82,4 +82,4 @@ Meskipun terdengar seperti sains fiksi, neutrino memiliki kegunaan nyata:
 | **Muatan** | Netral ($0$) | Netral ($0$) |
 | **Helisitas** | Kidal (Left-handed) | Kanan (Right-handed) |
 
-*Renungan: Apabila triliunan neutrino menembus struktur fisik manusia setiap detik tanpa interaksi, fakta ini mengungkap bahwa materi padat di alam semesta sebagian besar terdiri dari ruang hampa subatomik.*
+*Renungan: Apabila triliunan neutrino menembus struktur fisik manusia setiap detik tanpa interaksi, fakta ini menunjukkan betapa lemahnya interaksi neutrino dengan materi.*

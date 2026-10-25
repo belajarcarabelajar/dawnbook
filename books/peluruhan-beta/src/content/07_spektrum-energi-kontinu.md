@@ -1,6 +1,6 @@
 ## Spektrum Energi Kontinu
 
-Bayangkan sebuah petasan yang selalu meledak menjadi tepat dua bagian dengan ukuran yang sama. Setiap kali meledak, kedua bagian itu akan terlempar dengan kecepatan yang selalu identik. Inilah yang terjadi pada **Peluruhan Alfa**. Namun, dalam **Peluruhan Beta**, ceritanya sangat berbeda. Ibarat petasan yang pecah, potongannya bisa terlempar dengan kecepatan yang berubah-ubah setiap saat, seolah-olah ada pencuri yang mengambil sebagian energinya.
+Bayangkan sebuah petasan yang selalu meledak menjadi tepat dua bagian. Setiap kali meledak, kedua bagian itu akan terlempar dengan kecepatan yang selalu identik. Inilah yang terjadi pada **Peluruhan Alfa**. Namun, dalam **Peluruhan Beta**, ceritanya sangat berbeda. Ibarat petasan yang pecah, potongannya bisa terlempar dengan kecepatan yang berubah-ubah setiap saat, seolah-olah ada pencuri yang mengambil sebagian energinya.
 
 Fenomena inilah yang kita sebut sebagai **Spektrum Energi Kontinu**.
 
@@ -38,7 +38,7 @@ $$
 
 Karena massa inti sangat besar dibandingkan elektron, energi kinetik inti ($K_{\text{inti}}$) biasanya diabaikan, sehingga: $Q \approx K_{\beta} + K_{\nu}$
 
-Di mana $K_{\nu}$ adalah energi yang dibawa oleh partikel yang kita sebut **neutrino**.
+Dengan $K_{\nu}$ adalah energi yang dibawa oleh partikel yang kita sebut **neutrino**.
 
 ### 3. Krisis Hukum Kekekalan Energi
 
@@ -73,7 +73,7 @@ Dalam dunia nyata, pemahaman tentang spektrum kontinu ini penting dalam **Dosime
 **Brachytherapy Medis** Dalam pengobatan kanker menggunakan sumber beta seperti Strontium-90 (${}^{90}\text{Sr}$), dokter tidak hanya melihat energi maksimumnya. Karena spektrumnya kontinu, dosis radiasi yang diterima jaringan tidak seragam di seluruh kedalaman.
 
 - Partikel beta dengan energi rendah akan berhenti di permukaan kulit (dosis permukaan tinggi).
-- Partikel beta dengan energi tinggi akan menembus lebih dalam ke tumor. Dengan memahami kurva spektrum energi, fisikawan medis dapat menghitung **Dosis Rata-rata** ($\bar{E}$), yang biasanya bernilai sekitar sepertiga dari $E_{\text{max}}$ ($E_{\text{avg}} \approx \frac{1}{3} E_{\text{max}}$).
+- Partikel beta dengan energi tinggi akan menembus lebih dalam ke tumor. Dengan memahami kurva spektrum energi, fisikawan medis dapat menghitung **Energi Rata-rata** ($\bar{E}$), yang biasanya bernilai sekitar sepertiga dari $E_{\text{max}}$ ($E_{\text{avg}} \approx \frac{1}{3} E_{\text{max}}$).
 
 ### Latihan Berpikir
 

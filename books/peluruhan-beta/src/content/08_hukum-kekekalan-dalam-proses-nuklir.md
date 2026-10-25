@@ -1,6 +1,6 @@
 ## Hukum Kekekalan dalam Proses Nuklir
 
-Bayangkan seseorang sedang menjaga sebuah toko. Di akhir hari, harus dipastikan bahwa jumlah uang di laci kasir ditambah dengan total pengeluaran harus sama persis dengan modal awal ditambah pendapatan. Jika ada satu rupiah saja yang hilang, kita tahu ada sesuatu yang salah.
+Bayangkan seseorang sedang menjaga sebuah toko. Di akhir hari, harus dipastikan bahwa jumlah uang di laci kasir ditambah dengan total pengeluaran sama persis dengan modal awal ditambah pendapatan. Jika ada satu rupiah saja yang hilang, kita tahu ada sesuatu yang salah.
 
 Alam semesta beroperasi dengan cara yang sama. Dalam peristiwa **Peluruhan Beta**, meskipun sebuah inti atom berubah wujud menjadi inti lain, alam semesta memiliki buku kas yang ketat. Ada aturan-aturan tertentu yang tidak boleh dilanggar, yang kita sebut sebagai **Hukum Kekekalan**.
 
@@ -25,7 +25,7 @@ $$
 $$
 </div>
 
-> **Penting:** Muatan tidak diciptakan atau dimusnahkan; ia hanya didistribusikan ulang antar partikel.
+> **Penting:** Muatan tidak diciptakan atau dimusnahkan; ia hanya didistribusikan ulang antarpartikel.
 
 ## 2. Kekekalan Nomor Massa / Jumlah Nukleon ($A$)
 
@@ -43,7 +43,7 @@ Lihat angka atas (14). Sebelum dan sesudah reaksi, jumlahnya tidak berubah, yait
 
 ## 3. Kekekalan Momentum dan Energi
 
-Inilah bagian yang sempat membuat para fisikawan pusing di awal abad ke-20. Ketika mengamati peluruhan beta, para ilmuwan melihat bahwa energi elektron yang keluar bervariasi (spektrum kontinu). Jika hanya ada dua partikel yang dihasilkan (inti baru dan elektron), seharusnya elektron selalu memiliki energi yang sama berdasarkan hukum kekekalan momentum.
+Inilah bagian yang sempat membuat para fisikawan pusing di awal abad ke-20. Ketika mengamati peluruhan beta, para ilmuwan melihat bahwa energi elektron yang keluar bervariasi (spektrum kontinu). Jika hanya ada dua partikel yang dihasilkan (inti baru dan elektron), seharusnya elektron selalu memiliki energi yang sama berdasarkan hukum kekekalan energi dan momentum.
 
 Wolfgang Pauli mengusulkan sebuah solusi: ada partikel hantu yang membawa pergi sisa energi dan momentum tersebut agar hukum kekekalan terjaga. Partikel inilah yang kita kenal sebagai **Neutrino** ($\nu$) atau **Antineutrino** ($\bar{\nu}$).
 
@@ -60,8 +60,8 @@ $$
 
 Ini adalah aturan yang lebih spesifik dalam fisika partikel. Partikel seperti elektron dan neutrino digolongkan sebagai **Lepton**.
 
-- Lepton (elektron, neutrino) memiliki angka lepton $L = +1$.
-- Anti-lepton (positron, antineutrino) memiliki angka lepton $L = -1$.
+- Lepton (elektron, neutrino) memiliki bilangan lepton $L = +1$.
+- Antilepton (positron, antineutrino) memiliki bilangan lepton $L = -1$.
 - Partikel lain seperti proton dan neutron memiliki $L = 0$.
 
 Hukum ini menyatakan bahwa total bilangan lepton harus sama di kedua sisi persamaan.
@@ -83,9 +83,9 @@ $$
 
 *Hasil: Hukum kekekalan bilangan lepton terpenuhi!* Inilah alasan mengapa peluruhan beta minus selalu menghasilkan *antineutrino*, bukan neutrino biasa.
 
-## Pendeteksian Reaktor Nuklir
+## Pemantauan Reaktor Nuklir
 
-Hukum kekekalan ini bukan sekadar teori di atas kertas. Kita menggunakannya untuk aplikasi praktis seperti **Monitoring Reaktor Nuklir**.
+Hukum kekekalan ini bukan sekadar teori di atas kertas. Kita menggunakannya untuk aplikasi praktis seperti **Pemantauan Reaktor Nuklir**.
 
 Reaktor nuklir menghasilkan aliran antineutrino yang sangat besar sebagai hasil sampingan dari peluruhan beta di dalam bahan bakar uranium. Karena hukum kekekalan bilangan lepton mewajibkan produksi antineutrino setiap kali elektron (partikel beta) tercipta, para ilmuwan bisa menghitung jumlah antineutrino yang keluar untuk:
 
@@ -97,7 +97,7 @@ Reaktor nuklir menghasilkan aliran antineutrino yang sangat besar sebagai hasil 
 | Hukum Kekekalan | Peluruhan $\beta^-$ | Peluruhan $\beta^+$ | Penangkapan Elektron |
 | --- | --- | --- | --- |
 | **Muatan ($Q$)** | Menjaga keseimbangan antara $n \rightarrow p$ dan $e^-$ | Menjaga keseimbangan antara $p \rightarrow n$ dan $e^+$ | Elektron diserap untuk menetralkan proton |
-| **Massa ($A$)** | Tetap (Neutron $\rightarrow$ Proton) | Tetap (Proton $\rightarrow$ Neutron) | Tetap (Proton + Elektron $\rightarrow$ Neutron) |
+| **Nomor Massa ($A$)** | Tetap (Neutron $\rightarrow$ Proton) | Tetap (Proton $\rightarrow$ Neutron) | Tetap (Proton + Elektron $\rightarrow$ Neutron) |
 | **Lepton ($L$)** | Menciptakan $e^-$ ($+1$) dan $\bar{\nu}$ ($-1$) | Menciptakan $e^+$ ($-1$) dan $\nu$ ($+1$) | $e^-$ ($+1$) di kiri, $\nu$ ($+1$) di kanan |
 
 > *Simulasi Mental: Seandainya hukum kekekalan muatan dapat dilanggar dalam skala terukur, dampak apakah yang akan terjadi pada kestabilan ikatan kimia dan atom-atom pembentuk materi?*

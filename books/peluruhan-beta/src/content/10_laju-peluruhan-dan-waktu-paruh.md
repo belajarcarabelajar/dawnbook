@@ -11,7 +11,7 @@ Peluruhan beta adalah proses stokastik (acak). Bayangkan kita memiliki satu juta
 - Pada lemparan pertama, banyak dadu yang keluar.
 - Seiring berjalannya waktu, jumlah dadu yang tersisa semakin sedikit, sehingga jumlah dadu yang memunculkan angka 6 pada setiap lemparan juga berkurang.
 
-Begitu pulalah cara kerja isotop beta. Laju di mana inti atom meluruh berbanding lurus dengan jumlah inti yang masih ada.
+Begitu pulalah cara kerja isotop beta. Laju peluruhan inti atom berbanding lurus dengan jumlah inti yang masih ada.
 
 ### 2. Hukum Peluruhan Radioaktif
 
@@ -44,7 +44,7 @@ Di mana:
 - $N_0$ = Jumlah inti mula-mula (saat $t = 0$).
 - $e$ = Bilangan Euler ($\approx 2.718$).
 
-> **Wawasan Penting:** Karena persamaannya bersifat eksponensial, secara teoritis zat radioaktif tidak akan pernah benar-benar mencapai angka nol (habis total), ia hanya akan terus mendekati nol.
+> **Wawasan Penting:** Karena persamaannya bersifat eksponensial, secara teoretis zat radioaktif tidak akan pernah benar-benar mencapai angka nol (habis total), ia hanya akan terus mendekati nol.
 
 ### 3. Waktu Paruh (Half-Life)
 
@@ -78,7 +78,7 @@ xychart
 
 ### 4. Aktivitas Radiasi
 
-Dalam aplikasi praktis, kita seringkali lebih tertarik pada **Aktivitas ($A$)**, yaitu jumlah peluruhan yang terjadi per detik.
+Dalam aplikasi praktis, kita sering kali lebih tertarik pada **Aktivitas ($A$)**, yaitu jumlah peluruhan yang terjadi per detik.
 
 <div>
 $$
@@ -134,5 +134,5 @@ Hasil ini sama dengan $1000 \times (\frac{1}{2})^2$ pada rumus praktis di bagian
 
 - **Laju peluruhan** sebanding dengan jumlah inti yang ada.
 - **Konstanta peluruhan ($\lambda$)** menentukan seberapa cepat suatu zat meluruh.
-- **Waktu paruh ($T_{1/2}$)** adalah durasi di mana sampel berkurang menjadi setengahnya.
+- **Waktu paruh ($T_{1/2}$)** adalah durasi yang dibutuhkan agar sampel berkurang menjadi setengahnya.
 - **Aktivitas** diukur dalam Bq, menggambarkan kekuatan pancaran radiasi pada saat tertentu.

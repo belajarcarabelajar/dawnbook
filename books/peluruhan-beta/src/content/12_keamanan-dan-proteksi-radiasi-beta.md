@@ -11,7 +11,7 @@ Partikel beta (baik elektron $\beta^-$ maupun positron $\beta^+$) adalah partike
 Sebagai perbandingan sederhana:
 
 - **Partikel Alfa:** Dihentikan oleh selembar kertas atau lapisan luar kulit mati manusia.
-- **Partikel Beta:** Dapat menembus kertas dan masuk ke dalam jaringan kulit hingga beberapa milimeter atau centimeter, tergantung energinya.
+- **Partikel Beta:** Dapat menembus kertas dan masuk ke dalam jaringan kulit hingga beberapa milimeter atau sentimeter, tergantung energinya.
 - **Sinar Gamma/Sinar-X:** Memerlukan timbal tebal atau beton untuk dihentikan.
 
 > **Analogi Sederhana:** Bayangkan partikel alfa sebagai sebuah bola bowling yang besar namun lambat (mudah dihentikan oleh rintangan kecil), sedangkan partikel beta adalah peluru senapan angin yang kecil dan cepat. Peluru ini bisa menembus papan kayu tipis, namun akan terhenti jika mengenai dinding plastik yang cukup tebal.
@@ -31,7 +31,7 @@ Karena partikel beta dapat menembus lapisan kulit, paparan eksternal yang kuat d
 
 Risiko terbesar muncul jika isotop pemancar beta masuk ke dalam tubuh melalui pernapasan, makanan, atau luka terbuka. Di dalam tubuh, partikel beta akan melepaskan energinya langsung ke sel-sel organ yang sensitif tanpa ada penghalang kulit, yang dapat menyebabkan kerusakan DNA dan peningkatan risiko kanker.
 
-### 3. Mengapa Timbal Bukan Selalu Perisai Terbaik?
+### 3. Mengapa Timbal Tidak Selalu Menjadi Perisai Terbaik?
 
 Dalam dunia proteksi radiasi gamma, timbal ($\text{Pb}$) adalah pilihan utama karena nomor atomnya ($Z$) yang tinggi. Namun, **untuk radiasi beta, menggunakan timbal secara langsung bisa berbahaya.**
 
@@ -47,7 +47,7 @@ $$
 $$
 </div>
 
-*Peringatan Efek Bremsstrahlung: Penggunaan perisai timbal berkerapatan tinggi untuk partikel beta berenergi tinggi justru dapat secara tak sengaja memicu radiasi sekunder berupa sinar-X di lingkungan kerja.*
+*Peringatan Efek Bremsstrahlung: Penggunaan perisai timbal bernomor atom tinggi untuk partikel beta berenergi tinggi justru dapat secara tak sengaja memicu radiasi sekunder berupa sinar-X di lingkungan kerja.*
 
 #### Material Perisai yang Efektif
 
@@ -63,7 +63,7 @@ Untuk meminimalkan efek Bremsstrahlung, kita harus menggunakan material dengan *
 
 ### 4. Tiga Prinsip Proteksi Radiasi
 
-Sama seperti jenis radiasi lainnya, keselamatan terhadap radiasi beta bergantung pada tiga prinsip utama yang dikenal sebagai **ALARA** (*As Low As Reasonably Achievable*):
+Sama seperti jenis radiasi lainnya, keselamatan terhadap radiasi beta bergantung pada tiga prinsip utama untuk menerapkan **ALARA** (*As Low As Reasonably Achievable*):
 
 1. **Waktu (Time):** Persingkat waktu kontak dengan sumber radiasi. Semakin sedikit waktu yang dihabiskan di dekat sumber, semakin kecil dosis yang diterima.
 2. **Jarak (Distance):** Jauhkan diri dari sumber. Radiasi beta menyebar di udara dan intensitasnya berkurang drastis seiring bertambahnya jarak.
@@ -89,8 +89,8 @@ Dalam pabrik kertas, sumber beta digunakan untuk mengukur ketebalan kertas secar
 | Karakteristik | Penjelasan |
 | --- | --- |
 | **Daya Tembus** | Sedang (beberapa meter di udara, beberapa mm di jaringan tubuh). |
-| **Perisai Utama** | Plastik, Akrilik, Perspex, atau Aluminium (Low-Z). |
+| **Perisai Utama** | Plastik, Akrilik (Plexiglass), atau Aluminium (Low-Z). |
 | **Risiko Utama** | Luka bakar kulit, kerusakan mata, dan kontaminasi internal. |
-| **Kesalahan Umum** | Menggunakan timbal tipis yang justru memicu radiasi Sinar-X (Bremsstrahlung). |
+| **Kesalahan Umum** | Menggunakan timbal (High-Z) sebagai lapisan dalam yang justru memicu radiasi Sinar-X (Bremsstrahlung). |
 
 **Pesan Penting:** Dalam menangani radiasi beta, kejernihan pandangan (visual) penting. Oleh karena itu, perisai akrilik transparan banyak dipakai karena memungkinkan teknisi melihat apa yang dikerjakan dengan aman tanpa harus terpapar langsung oleh pancaran partikel beta.
