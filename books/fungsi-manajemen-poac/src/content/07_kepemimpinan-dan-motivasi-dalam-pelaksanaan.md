@@ -85,7 +85,7 @@ Berikut adalah langkah pelaksanaan (*actuating*) yang bisa diambil oleh seorang 
 
 ## 5. Tips Praktis Meningkatkan Produktivitas Melalui Hubungan Manusiawi
 
-- **Apresiasi secara Terbuka, Koreksi secara Tertutup:** Berikan pujian di depan umum untuk membangun moral, namun lakukan teguran atau masukan kritis di ruang pribadi guna menjaga harga diri karyawan.
+- **Apresiasi secara Terbuka, Koreksi secara Tertutup:** Berikan pujian di depan umum untuk membangun moral, tetapi lakukan teguran atau masukan kritis di ruang pribadi guna menjaga harga diri karyawan.
 - **Delegasikan Wewenang, Bukan Hanya Tugas:** Berikan kepercayaan penuh kepada anggota tim untuk mengelola subproyek tertentu agar menumbuhkan rasa kepemilikan (*sense of ownership*) yang kuat.
 - **Jadilah Teladan Nyata:** Jangan mengharapkan anggota tim datang tepat waktu jika kamu sendiri sering terlambat.
 

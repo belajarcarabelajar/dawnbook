@@ -49,7 +49,7 @@ Rantai komando adalah garis wewenang yang tidak terputus yang membentang dari pu
 
 Ini menentukan jumlah bawahan yang dapat dikelola oleh seorang manajer secara efisien dan efektif.
 
-- **Rentang Sempit (Tall Structure)** terjadi ketika manajer hanya mengawasi sedikit anggota. Pola ini mempermudah koordinasi yang ketat, namun memperpanjang alur birokrasi.
+- **Rentang Sempit (Tall Structure)** terjadi ketika manajer hanya mengawasi sedikit anggota. Pola ini mempermudah koordinasi yang ketat, tetapi memperpanjang alur birokrasi.
 - **Rentang Luas (Flat Structure)** berarti manajer memimpin banyak bawahan secara langsung. Hubungan kerja menjadi lebih fleksibel dan responsif, tetapi manajer berisiko mengalami kelelahan kerja akibat beban pengawasan yang terlalu besar.
 
 ## 3. Jenis-Jenis Struktur Organisasi
@@ -74,7 +74,7 @@ Agar aktivitas selaras dengan rencana, manajer harus mengikuti alur sistematis:
 
 ## 5. Transformasi Perusahaan Teknologi
 
-**Skenario:** Sebuah startup bernama "TechSolve" awalnya memiliki struktur **Flat** di mana 20 karyawan semuanya melapor langsung ke CEO. Seiring pertumbuhan mencapai 100 karyawan, terjadi kekacauan: CEO kelelahan karena harus menyetujui setiap pengeluaran kecil, dan proyek sering terlambat karena komunikasi yang tidak teratur.
+**Skenario:** Sebuah startup bernama "TechSolve" awalnya memiliki struktur **Flat** yang 20 karyawannya semuanya melapor langsung ke CEO. Seiring pertumbuhan mencapai 100 karyawan, terjadi kekacauan: CEO kelelahan karena harus menyetujui setiap pengeluaran kecil, dan proyek sering terlambat karena komunikasi yang tidak teratur.
 
 **Solusi Organizing:**
 

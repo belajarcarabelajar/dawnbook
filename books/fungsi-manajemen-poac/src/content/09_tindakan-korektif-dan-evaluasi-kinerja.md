@@ -73,7 +73,7 @@ Dalam manajemen modern, siklus **PDCA (Plan-Do-Check-Act)** digunakan sebagai pa
 
 **Langkah Evaluasi & Koreksi:**
 
-1. **Identifikasi Masalah:** Standar tingkat pengembalian barang ditetapkan di bawah 2%, namun aktualnya mencapai 17%, sehingga terdapat penyimpangan sebesar 15 poin persentase di atas standar.
+1. **Identifikasi Masalah:** Standar tingkat pengembalian barang ditetapkan di bawah 2%, tetapi aktualnya mencapai 17%, sehingga terdapat penyimpangan sebesar 15 poin persentase di atas standar.
 2. **Pemeriksaan Lapangan:** Melalui audit internal, ditemukan bahwa banyak produk mengalami kerusakan fisik akibat kualitas kemasan pelindung yang terlalu tipis.
 3. **Penemuan Akar Masalah:** Tim logistik beralih ke pemasok plastik pelindung baru yang lebih murah demi menekan biaya operasional tanpa menyadari penurunan kualitas bahan.
 4. **Tindakan Perbaikan:** Langkah segera yang diambil adalah mengganti bahan pengemas untuk semua pesanan yang diproses hari ini. Adapun untuk tindakan jangka panjang, manajemen meninjau ulang kontrak kerja sama dengan pemasok serta menetapkan standar minimum ketebalan bahan pengemas yang tidak bisa ditawar.

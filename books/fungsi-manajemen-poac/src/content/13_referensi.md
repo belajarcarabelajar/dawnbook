@@ -14,7 +14,7 @@ Faiz, M., Suciamy, R., Zaskia, S., & Kusumaningrum, H. (2024). Implementasi POAC
 
 Fayol, H. (1949). *General and industrial management* (C. Storrs, Trans.). Sir Isaac Pitman & Sons. (Karya asli diterbitkan tahun 1916) [https://openlibrary.org/books/OL48601498M](https://openlibrary.org/books/OL48601498M)
 
-Hasibuan, M. S. P. (2016). *Manajemen: Dasar, pengertian, dan masalah* (Edisi revisi). Bumi Aksara. [https://elibrary.utnd.ac.id/index.php?p=show_detail&id=5300](https://elibrary.utnd.ac.id/index.php?p=show_detail&id=5300)
+Hasibuan, M. S. P. (2016). *Manajemen: Dasar, pengertian, dan masalah* (edisi revisi). Bumi Aksara. [https://elibrary.utnd.ac.id/index.php?p=show_detail&id=5300](https://elibrary.utnd.ac.id/index.php?p=show_detail&id=5300)
 
 Hutabarat, M. Y., Elvida, E., Muharif, R., & Agustiar, A. (2025). Analysis of the influence of management functions POAC in improving the performance of PT Socfindo. *Serambi Journal of Agricultural Technology*, *7*(1), 58-65. [https://doi.org/10.32672/sjat.v7i1.9320](https://doi.org/10.32672/sjat.v7i1.9320)
 

@@ -12,7 +12,7 @@ Banyak rencana gagal bukan karena kurangnya semangat, tetapi karena target yang 
 
 - **S - Specific (Spesifik):** Target harus jelas tanpa menyisakan ruang untuk ambiguitas. Kamu perlu memperjelas apa yang ingin dicapai serta siapa saja pihak yang terlibat di dalamnya.
 - **M - Measurable (Terukur):** Pencapaian wajib memiliki indikator atau angka numerik yang jelas. Tanpa alat ukur yang tepat, performa sulit untuk dikendalikan dan dievaluasi.
-- **A - Achievable (Dapat Dicapai):** Sasaran harus menantang namun tetap realistis. Target pertumbuhan penjualan hingga 1000% dalam waktu singkat justru berisiko mematahkan semangat tim karena dinilai mustahil terwujud.
+- **A - Achievable (Dapat Dicapai):** Sasaran harus menantang, tetapi tetap realistis. Target pertumbuhan penjualan hingga 1000% dalam waktu singkat justru berisiko mematahkan semangat tim karena dinilai mustahil terwujud.
 - **R - Relevant (Relevan):** Menyelaraskan target dengan arah dan misi besar organisasi.
 - **T - Time-bound (Tenggat Waktu):** Adanya batas waktu penyelesaian yang tegas untuk mencegah penundaan pekerjaan.
 
@@ -91,7 +91,7 @@ Sebagai contoh, keputusan cepat yang diambil di bawah tekanan waktu dengan data 
 2. **SMART Goal:** "Membuka 3 gerai baru di pusat perbelanjaan Jakarta Pusat dengan target *Break Even Point* (BEP) dalam 14 bulan."
 3. **Pengambilan Keputusan:** Manajer menggunakan pembobotan untuk memilih lokasi.
    - **Kriteria Penilaian:** Harga sewa memiliki bobot 40%, sedangkan kepadatan pengunjung memiliki bobot 60%.
-     - **Mal A:** Menawarkan sewa murah (nilai 8), namun kepadatan pengunjung tergolong sedang (nilai 6).
+     - **Mal A:** Menawarkan sewa murah (nilai 8), tetapi kepadatan pengunjung tergolong sedang (nilai 6).
      - **Mal B:** Harga sewa tergolong mahal (nilai 4), tetapi tingkat kunjungan sangat padat (nilai 9).
    - **Perhitungan Skor:**
      - Skor Mal A:

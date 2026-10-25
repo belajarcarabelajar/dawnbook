@@ -99,4 +99,4 @@ Mari kita lihat bagaimana Planning bekerja pada sebuah perusahaan startup fiktif
 
 Planning merupakan langkah pertama yang mendasar dalam kerangka POAC. Tanpa perencanaan yang matang, fungsi *Organizing, Actuating,* dan *Controlling* akan kehilangan pijakan. Perencanaan yang terarah membantu mengurangi dampak ketidakpastian, meminimalkan pemborosan sumber daya, dan menetapkan standar dasar untuk proses pengawasan nanti.
 
-> **Penting:** Perencanaan yang baik tidak dirancang secara kaku. Rencana tersebut harus fleksibel untuk beradaptasi dengan dinamika di lapangan, namun tetap terarah pada pencapaian visi utama.
+> **Penting:** Perencanaan yang baik tidak dirancang secara kaku. Rencana tersebut harus fleksibel untuk beradaptasi dengan dinamika di lapangan, tetapi tetap terarah pada pencapaian visi utama.
