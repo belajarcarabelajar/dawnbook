@@ -6,11 +6,11 @@ Stoikisme bukanlah sekadar teori akademik yang membosankan di dalam buku-buku tu
 
 ## Apa Itu Stoikisme?
 
-Secara etimologis, Stoikisme berasal dari kata Yunani **"Stoa Poikile"** (Serambi Berhias), tempat di mana pendiri aliran ini, Zeno dari Citium, pertama kali mengajar di Athena pada awal abad ke-3 SM. Berbeda dengan sekolah filsafat lain yang memiliki gedung tertutup, kaum Stoik mengajar di ruang publik yang bisa diakses oleh siapa saja,mulai dari budak hingga kaisar.
+Secara etimologis, Stoikisme berasal dari kata Yunani **"Stoa Poikile"** (Serambi Berhias), tempat di mana pendiri aliran ini, Zeno dari Citium, pertama kali mengajar di Athena pada awal abad ke-3 SM. Berbeda dengan sekolah filsafat lain yang memiliki gedung tertutup, kaum Stoik mengajar di ruang publik yang bisa diakses oleh siapa saja.
 
 **Definisi Inti:** Stoikisme adalah filosofi praktis yang mengajarkan bahwa kebahagiaan sejati tidak bergantung pada keadaan eksternal (kekayaan, ketenaran, atau kesehatan), melainkan pada **kualitas karakter kita** dan cara kita memproses setiap kejadian di dunia ini.
 
-> "Filsafat tidak menjanjikan sesuatu yang bersifat eksternal bagi manusia. Jika tidak, ia akan menerima sesuatu yang berada di luar subjeknya sendiri." , Epictetus
+> "Filsafat tidak menjanjikan sesuatu yang bersifat eksternal bagi manusia. Jika menjanjikannya, ia akan menerima sesuatu yang berada di luar pokok bahasannya sendiri." - Epictetus
 
 ## Filsafat sebagai "Way of Life" (Cara Hidup)
 
@@ -18,11 +18,11 @@ Bagi masyarakat modern, filsafat sering dianggap sebagai perdebatan rumit mengen
 
 ### Dokter Jiwa
 
-Bayangkan jiwa kita sedang "sakit" karena terus-menerus merasa cemas, marah, dan kecewa. Stoikisme berperan sebagai dokter yang memberikan "obat" berupa cara berpikir yang benar. Belajar Stoikisme tanpa mempraktikkannya sama seperti membaca resep dokter tanpa meminum obatnya,tidak akan ada perubahan yang terjadi.
+Bayangkan jiwa kita sedang "sakit" karena terus-menerus merasa cemas, marah, dan kecewa. Stoikisme berperan sebagai dokter yang memberikan "obat" berupa cara berpikir yang benar. Belajar Stoikisme tanpa mempraktikkannya sama seperti membaca resep dokter tanpa meminum obatnya, tidak akan ada perubahan yang terjadi.
 
-**Perbedaan Filosofi Teoritis vs. Praktis:**
+**Perbedaan Filosofi Teoretis vs. Praktis:**
 
-- **Teoritis:** Membahas "Apa itu keadilan secara metafisika?"
+- **Teoretis:** Membahas "Apa itu keadilan secara metafisika?"
 - **Stoikisme (Praktis):** Membahas "Bagaimana saya tetap bersikap adil saat rekan kerja mengkhianati saya?"
 
 ## Mencapai Ketenangan Batin
@@ -56,7 +56,7 @@ $$
 Meskipun Stoikisme adalah filsafat kuno, cara kerjanya sangat praktis. Seorang Stoik belajar menyaring setiap kejadian yang datang dengan satu pertanyaan: *"Apakah hal ini berada di bawah kendaliku?"*
 
 - **Jika berada di bawah kendali kamu:** ambil tindakan terbaik dengan kebajikan.
-- **Jika berada di luar kendali kamu:** terima dengan tenang (*Amor Fati*).
+- **Jika berada di luar kendali kamu:** terima dengan tenang (sikap yang kini sering disebut *Amor Fati*).
 
 Misalnya, kamu terjebak macet total saat mau rapat penting. Kemacetan itu berada di luar kendali kamu, jadi respons Stoiknya adalah menerimanya dengan tenang.
 

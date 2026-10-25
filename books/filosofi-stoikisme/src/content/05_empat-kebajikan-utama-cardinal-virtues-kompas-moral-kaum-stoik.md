@@ -2,18 +2,18 @@
 
 Bagi para filosof Stoik, tujuan hidup bukanlah kekayaan, ketenaran, atau sekadar menghindari rasa sakit. Tujuan utamanya adalah hidup dalam **Eudaimonia** (kebahagiaan yang timbul dari perkembangan jiwa) melalui **Arete** (kebajikan atau keunggulan karakter).
 
-Bayangkan hidup kamu sebagai sebuah kapal di tengah laut. Tanpa navigasi yang tepat, kamu akan terombang-ambing oleh emosi dan keadaan eksternal. **Empat Kebajikan Utama (Cardinal Virtues)** adalah kompas kamu. Kata "cardinal" sendiri berasal dari bahasa Latin *cardo* yang berarti "engsel",karena pada empat pilar inilah seluruh pintu menuju kehidupan yang bermakna berputar.
+Bayangkan hidup kamu sebagai sebuah kapal di tengah laut. Tanpa navigasi yang tepat, kamu akan terombang-ambing oleh emosi dan keadaan eksternal. **Empat Kebajikan Utama (Cardinal Virtues)** adalah kompas kamu. Kata "cardinal" sendiri berasal dari bahasa Latin *cardo* yang berarti "engsel", karena pada empat pilar inilah seluruh pintu menuju kehidupan yang bermakna berputar.
 
 ## 1\. Kebijaksanaan Praktis (Wisdom / Prudence - Phronesis)
 
-Kebijaksanaan dalam Stoikisme bukanlah sekadar kecerdasan akademis atau penguasaan teori. Ini adalah **Kebijaksanaan Praktis** ,kemampuan untuk menavigasi situasi rumit dengan logika yang jernih.
+Kebijaksanaan dalam Stoikisme bukanlah sekadar kecerdasan akademis atau penguasaan teori. Ini adalah **Kebijaksanaan Praktis**, kemampuan untuk menavigasi situasi rumit dengan logika yang jernih.
 
 **Definisi:** Kemampuan untuk membedakan antara apa yang baik, apa yang buruk, dan apa yang netral (indifferent).
 
-- **Sub-kategori:** Perencanaan yang matang, penilaian yang tepat, dan akal sehat.
+- **Subkategori:** Perencanaan yang matang, penilaian yang tepat, dan akal sehat.
 - **Inti Ajaran:** Memahami perbedaan antara apa yang bisa kita kendalikan (pikiran dan tindakan kita) dan apa yang tidak (opini orang lain, cuaca, atau masa lalu).
 
-> "Lalu apa yang baik? Pengetahuan tentang segala hal. Apa yang buruk? Ketiadaan pengetahuan tentang segala hal." , **Seneca**, *Surat-Surat Moral kepada Lucilius*, surat 31 bagian 6
+> "Lalu apa yang baik? Pengetahuan tentang segala hal. Apa yang buruk? Ketiadaan pengetahuan tentang segala hal." - **Seneca**, *Surat-Surat Moral kepada Lucilius*, surat 31 bagian 6
 
 *Pertimbangan Diri: Saat menghadapi tantangan besar, apakah seseorang cenderung langsung bereaksi emosional, atau berhenti sejenak untuk memilah mana bagian dari situasi yang benar-benar dapat diubah?*
 
@@ -30,14 +30,14 @@ Bagi kaum Stoik, Keadilan melampaui sekadar hukum legal di pengadilan. Ini adala
 
 ## 3\. Keberanian (Courage / Fortitude - Andreia)
 
-Banyak orang menyalahartikan keberanian sebagai ketiadaan rasa takut atau sekadar aksi heroik di medan perang. Bagi Stoik, keberanian jauh lebih dalam dari itu.
+Banyak orang menyalahartikan keberanian sebagai ketiadaan rasa takut atau sekadar aksi heroik di medan perang. Bagi kaum Stoik, keberanian jauh lebih dalam dari itu.
 
 **Definisi:** Keteguhan mental untuk menghadapi ketakutan, rasa sakit, dan kesulitan demi mempertahankan prinsip moral.
 
 - **Bentuk Keberanian:**
 	1. **Keberanian Fisik:** Menghadapi ancaman tubuh.
 		2. **Keberanian Moral:** Berani mengatakan "tidak" pada hal yang salah, tetap teguh pada prinsip meski dikucilkan, dan berani menghadapi kebenaran yang pahit tentang diri sendiri.
-- **Pentingnya Keberanian:** Tanpa keberanian, kebajikan lainnya akan runtuh saat menghadapi tekanan. kamu mungkin tahu apa yang benar (Kebijaksanaan), tetapi tanpa Keberanian, kamu tidak akan melakukannya.
+- **Pentingnya Keberanian:** Tanpa keberanian, kebajikan lainnya akan runtuh saat menghadapi tekanan. Kamu mungkin tahu apa yang benar (Kebijaksanaan), tetapi tanpa Keberanian, kamu tidak akan melakukannya.
 
 ## 4\. Menahan Diri (Temperance / Moderation - Sophrosyne)
 
@@ -46,8 +46,8 @@ Di dunia yang penuh dengan godaan konsumerisme dan kepuasan instan, *Temperance*
 **Definisi:** Penguasaan diri atas keinginan, nafsu, dan impuls. Ini adalah kemampuan untuk memilih apa yang cukup daripada apa yang diinginkan.
 
 - **Keseimbangan:** Bukan berarti hidup menderita (asketisme ekstrem), melainkan tidak menjadi budak dari kesenangan. Ini adalah tentang kontrol.
-- **Prinsip "Medean":** *Mēden agan* (Jangan berlebihan dalam segala hal).
-- **Contoh:** Makan saat lapar tapi berhenti sebelum kekenyangan; menggunakan media sosial secukupnya untuk informasi tanpa terjerumus dalam distrakasi berjam-jam.
+- **Prinsip:** *Mēden agan* (Jangan berlebihan dalam segala hal).
+- **Contoh:** Makan saat lapar tapi berhenti sebelum kekenyangan; menggunakan media sosial secukupnya untuk informasi tanpa terjerumus dalam distraksi berjam-jam.
 
 > **Poin Penting:** Menahan diri berarti kamu yang mengendalikan nafsu kamu, bukan nafsu kamu yang mengendalikan kamu.
 
@@ -63,10 +63,10 @@ Mari kita lihat bagaimana keempat kebajikan ini bekerja dalam satu situasi prakt
 
 **Skenario:** Atasan kamu meminta kamu untuk memalsukan laporan keuangan agar terlihat lebih menguntungkan bagi investor.
 
-1. **Kebijaksanaan (Wisdom):** kamu menyadari bahwa memalsukan laporan adalah tindakan yang salah secara logika dan akan membawa risiko jangka panjang yang besar bagi perusahaan dan reputasi kamu. kamu membedakan antara keuntungan jangka pendek (kendali atasan) dan integritas jangka panjang (kendali kamu).
-2. **Keadilan (Justice):** kamu memikirkan para investor yang telah memercayakan uang mereka. kamu tahu bahwa mereka berhak mendapatkan informasi yang jujur. Membohongi mereka adalah pelanggaran terhadap kewajiban sosial kamu.
-3. **Keberanian (Courage):** kamu merasa takut akan dipecat atau dimarahi. Namun, kamu memutuskan untuk tetap menolak permintaan tersebut karena memegang prinsip moral lebih penting daripada rasa aman sementara.
-4. **Menahan Diri (Temperance):** kamu tidak bereaksi dengan amarah atau kebencian kepada atasan tersebut. kamu tetap tenang, tidak terbawa emosi, dan menyampaikan penolakan kamu dengan cara yang profesional dan terkendali.
+1. **Kebijaksanaan (Wisdom):** Kamu menyadari bahwa memalsukan laporan adalah tindakan yang salah secara logika dan akan membawa risiko jangka panjang yang besar bagi perusahaan dan reputasi kamu. Kamu membedakan antara keuntungan jangka pendek (kendali atasan) dan integritas jangka panjang (kendali kamu).
+2. **Keadilan (Justice):** Kamu memikirkan para investor yang telah memercayakan uang mereka. Kamu tahu bahwa mereka berhak mendapatkan informasi yang jujur. Membohongi mereka adalah pelanggaran terhadap kewajiban sosial kamu.
+3. **Keberanian (Courage):** Kamu merasa takut akan dipecat atau dimarahi. Namun, kamu memutuskan untuk tetap menolak permintaan tersebut karena memegang prinsip moral lebih penting daripada rasa aman sementara.
+4. **Menahan Diri (Temperance):** Kamu tidak bereaksi dengan amarah atau kebencian kepada atasan tersebut. Kamu tetap tenang, tidak terbawa emosi, dan menyampaikan penolakan kamu dengan cara yang profesional dan terkendali.
 
 ## Tabel Ringkasan
 

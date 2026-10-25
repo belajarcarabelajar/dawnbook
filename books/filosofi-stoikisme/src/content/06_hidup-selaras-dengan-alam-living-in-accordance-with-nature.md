@@ -26,7 +26,7 @@ Bagi seorang Stoik, kata "Alam" (*Phusis*) merujuk pada dua hal yang harus disel
 
 Ini adalah hukum fisik dan takdir yang mengatur dunia. Kita hidup selaras dengan alam semesta ketika kita menerima realitas apa adanya, tanpa mengeluh.
 
-> "Jangan menuntut agar hal-hal terjadi seperti yang kamu inginkan, tetapi inginkanlah agar hal-hal itu terjadi sebagaimana mestinya, maka kamu akan sejahtera." , **Epictetus**
+> "Jangan menuntut agar hal-hal terjadi seperti yang kamu inginkan, tetapi inginkanlah agar hal-hal itu terjadi sebagaimana adanya, maka kamu akan sejahtera." - **Epictetus**
 
 ### B. Alam Manusia (Human Nature)
 
@@ -75,8 +75,8 @@ Bagaimana cara menerapkan prinsip "Hidup Selaras dengan Alam" saat ini? Berikut 
 
 ### 1\. Menghadapi Kemacetan
 
-- **Melawan Alam:** Marah-marah, memukul setir, dan stres karena "seharusnya tidak macet". kamu sedang melawan hukum sebab-akibat (banyak kendaraan di ruang terbatas = macet).
-- **Selaras dengan Alam:** Mengakui bahwa kemacetan adalah bagian dari realitas saat ini. kamu menggunakan nalar untuk tetap tenang (karena marah tidak akan menghilangkan mobil di depan kamu) dan menggunakan waktu tersebut untuk mendengarkan *audiobook* atau merenung.
+- **Melawan Alam:** Marah-marah, memukul setir, dan stres karena "seharusnya tidak macet". Kamu sedang melawan hukum sebab-akibat (banyak kendaraan di ruang terbatas = macet).
+- **Selaras dengan Alam:** Mengakui bahwa kemacetan adalah bagian dari realitas saat ini. Kamu menggunakan nalar untuk tetap tenang (karena marah tidak akan menghilangkan mobil di depan kamu) dan menggunakan waktu tersebut untuk mendengarkan *audiobook* atau merenung.
 
 ### 2\. Proses Penuaan
 
@@ -86,7 +86,7 @@ Bagaimana cara menerapkan prinsip "Hidup Selaras dengan Alam" saat ini? Berikut 
 ### 3\. Kegagalan dalam Pekerjaan
 
 - **Melawan Alam:** Merasa semesta tidak adil dan terus-menerus bertanya "Mengapa saya?".
-- **Selaras dengan Alam:** Menyadari bahwa dalam sistem besar (ekonomi, dinamika kantor), kegagalan adalah kemungkinan yang logis. kamu mengevaluasi dengan nalar apa yang bisa dipelajari dan bergerak maju sesuai dengan peran kamu sebagai makhluk yang tangguh.
+- **Selaras dengan Alam:** Menyadari bahwa dalam sistem besar (ekonomi, dinamika kantor), kegagalan adalah kemungkinan yang logis. Kamu mengevaluasi dengan nalar apa yang bisa dipelajari dan bergerak maju sesuai dengan peran kamu sebagai makhluk yang tangguh.
 
 ## 6\. Peta Respons Stoik
 

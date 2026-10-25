@@ -8,7 +8,7 @@ Bagi seorang Stoik, kesadaran bahwa hidup ini terbatas bukanlah alasan untuk ber
 
 Memento Mori bukanlah tentang ketakutan, melainkan tentang **kejujuran intelektual**. Kita semua tahu secara logika bahwa kita akan mati, tetapi kita sering hidup seolah-olah kita memiliki waktu selamanya. Kita menunda kebahagiaan, menunda kata maaf, dan menghabiskan energi untuk kemarahan yang sepele.
 
-> "Bukan karena kita memiliki waktu yang singkat, tetapi karena kita menyia-nyiakan banyak waktu tersebut." (**Seneca**)
+> "Bukannya kita memiliki waktu yang singkat, melainkan kita menyia-nyiakan banyak darinya." (**Seneca**)
 
 ### Mengapa Ini Penting?
 
@@ -42,7 +42,7 @@ Epictetus sering menggunakan analogi untuk menjelaskan bagaimana kita harus bers
 
 **Analogi Perjamuan:** Bayangkan hidup adalah sebuah jamuan makan malam yang besar. Saat sebuah hidangan lewat di depanmu, ulurkan tangan dan ambil secukupnya dengan sopan. Jika hidangan itu belum sampai kepadamu, jangan mengejarnya dengan rakus. Dan jika hidangan itu sudah lewat, jangan menyesalinya.
 
-Kematian adalah saat di mana tuan rumah berkata, *"Waktunya pulang."* Seorang Stoik tidak akan merengek ingin tinggal lebih lama; mereka akan berterima kasih atas makanan yang telah dinikmati dan pergi dengan martabat.
+Kematian adalah saat ketika tuan rumah berkata, *"Waktunya pulang."* Seorang Stoik tidak akan merengek ingin tinggal lebih lama; ia akan berterima kasih atas makanan yang telah dinikmati dan pergi dengan martabat.
 
 *Jika hari ini adalah hidangan terakhir dalam perjamuan hidupmu, apakah kamu akan menghabiskannya dengan mengeluh tentang rasa makanannya, atau menikmatinya dengan rasa syukur?*
 
@@ -54,8 +54,8 @@ Memento Mori berfungsi sebagai **filter keputusan**. Saat kamu dihadapkan pada s
 
 **Skenario:** Seseorang memotong jalur kamu saat berkendara, dan kamu merasa sangat marah.
 
-- **Tanpa Memento Mori:** kamu mengejar mobil tersebut, berteriak, dan membiarkan adrenalin merusak mood kamu sepanjang hari.
-- **Dengan Memento Mori:** kamu menyadari bahwa hidup ini terlalu singkat untuk dihabiskan dengan marah kepada orang asing. kamu memilih untuk memaafkan, fokus pada tujuan, dan menghargai fakta bahwa kamu masih bernapas.
+- **Tanpa Memento Mori:** Kamu mengejar mobil tersebut, berteriak, dan membiarkan adrenalin merusak mood kamu sepanjang hari.
+- **Dengan Memento Mori:** Kamu menyadari bahwa hidup ini terlalu singkat untuk dihabiskan dengan marah kepada orang asing. Kamu memilih untuk memaafkan, fokus pada tujuan, dan menghargai fakta bahwa kamu masih bernapas.
 
 ### Email Atasan yang Agak Kasar
 
@@ -66,7 +66,7 @@ Filter ini juga bisa memakai ukuran sederhana: apakah kejadian ini merusak karak
 Untuk mengintegrasikan konsep ini, Stoikisme menyarankan latihan rutin:
 
 1. **Pagi Hari:** Saat bangun, katakan pada diri sendiri: *"Aku mungkin tidak akan melihat malam hari."* Ini bukan untuk menakut-nakuti, tapi untuk membuat hari itu menjadi berharga.
-2. **Malam Hari:** Saat akan tidur, katakan: *"Aku telah hidup, dan aku telah menyelesaikan perjalanan yang diberikan takdir kepadaku."* (Sejajar dengan kutipan Seneca). Jika kamu bangun besok pagi, itu adalah bonus.
+2. **Malam Hari:** Saat akan tidur, katakan: *"Aku telah hidup, dan aku telah menyelesaikan perjalanan yang diberikan takdir kepadaku."* (Seneca mengutip kalimat ini dari Vergilius dalam Surat 12). Jika kamu bangun besok pagi, itu adalah bonus.
 3. **Interaksi Sosial:** Saat berpisah dengan orang yang dicintai, sadarilah dalam hati bahwa ini *bisa jadi* pertemuan terakhir. Kesadaran ini akan menghilangkan keinginan untuk bertengkar dan meningkatkan rasa kasih sayang.
 
 ## 6\. Manfaat Psikologis
@@ -75,10 +75,10 @@ Banyak orang menghindari topik kematian karena **Death Anxiety** (Kecemasan akan
 
 **Keuntungan Memento Mori:**
 
-- **Prioritas Tajam:** kamu berhenti mengejar validasi dari orang yang tidak kamu sukai.
+- **Prioritas Tajam:** Kamu berhenti mengejar validasi dari orang yang tidak kamu sukai.
 - **Rasa Syukur (Gratitude):** Hal-hal kecil seperti secangkir kopi atau udara pagi terasa lebih nikmat karena kamu tahu itu bukan hak permanen, melainkan pinjaman.
 - **Keberanian:** Kematian adalah risiko terbesar. Jika kita sudah menerima kematian, risiko-risiko kecil lainnya (seperti gagal dalam bisnis atau ditolak) menjadi tidak terlalu menakutkan.
 
-> **Important:** Memento Mori tidak mengajarkan kita untuk menjadi pasif atau ceroboh (nihilisme). Sebaliknya, ini adalah panggilan untuk **aksi yang intens** pada hal-hal yang benar-benar bermakna.
+> **Penting:** Memento Mori tidak mengajarkan kita untuk menjadi pasif atau ceroboh (nihilisme). Sebaliknya, ini adalah panggilan untuk **aksi yang intens** pada hal-hal yang benar-benar bermakna.
 
-*Reflection Prompt: Tuliskan tiga hal yang sedang kamu khawatirkan saat ini. Coret hal-hal yang tidak akan relevan lagi dalam 10 tahun ke depan. Gunakan sisa energimu untuk hal yang tersisa di daftar tersebut.*
+*Bahan Renungan: Tuliskan tiga hal yang sedang kamu khawatirkan saat ini. Coret hal-hal yang tidak akan relevan lagi dalam 10 tahun ke depan. Gunakan sisa energimu untuk hal yang tersisa di daftar tersebut.*

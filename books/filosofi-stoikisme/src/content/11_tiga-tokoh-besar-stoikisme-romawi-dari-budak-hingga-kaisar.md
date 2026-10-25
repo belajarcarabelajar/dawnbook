@@ -2,7 +2,7 @@
 
 Pernahkah kamu membayangkan sebuah filosofi yang dipegang teguh oleh tiga orang dengan latar belakang yang kontras? Bayangkan seorang penasihat kaisar yang kaya raya, seorang budak yang cacat fisik, dan seorang kaisar yang menguasai hampir seluruh dunia yang dikenal saat itu.
 
-Meskipun status sosial mereka jauh berbeda, ketiganya menarik kesimpulan yang sama tentang kehidupan melalui **Stoikisme**. Di bagian ini, kita akan mempelajari "Tiga Besar" Stoikisme Romawi yang pemikirannya tetap relevan hingga hari ini, ribuan tahun setelah mereka tiada.
+Meskipun status sosial mereka jauh berbeda, ketiganya menarik kesimpulan yang sama tentang kehidupan melalui **Stoikisme**. Di bagian ini, kita akan mempelajari "Tiga Besar" Stoikisme Romawi yang pemikirannya tetap relevan hingga hari ini, berabad-abad setelah mereka tiada.
 
 ## 1\. Seneca (4 SM - 65 M)
 
@@ -14,10 +14,10 @@ Seneca sering kali dianggap sebagai "Stoik yang paling manusiawi" karena tulisan
 
 - **Tentang Singkatnya Kehidupan**: Seneca berargumen bahwa hidup ini tidak pendek, melainkan kita yang membuang banyak waktu.
 	> "Kita bukan kekurangan waktu, tapi kita yang terlalu banyak menyia-nyiakannya."
-- **Praktis menghadapi kemalangan**: Meskipun kaya, ia menyarankan agar kita sesekali hidup dalam kekurangan (makan makanan sederhana, berpakaian kasar) untuk membuktikan bahwa kemiskinan bukanlah hal yang perlu ditakuti.
+- **Praktik Menghadapi Kemalangan**: Meskipun kaya, ia menyarankan agar kita sesekali hidup dalam kekurangan (makan makanan sederhana, berpakaian kasar) untuk membuktikan bahwa kemiskinan bukanlah hal yang perlu ditakuti.
 - **Manajemen Amarah**: Seneca menulis esai khusus tentang amarah, menganggapnya sebagai "kegilaan sesaat" yang harus dihindari dengan logika.
 
-**Analogi Seneca:** Bayangkan hidup seperti sebuah perjamuan makan malam. Seorang Stoik seperti Seneca akan menikmati hidangan mewah jika tersedia, tetapi ia tidak akan menangis jika pelayan mengambil piringnya, karena ia tahu sejak awal bahwa hidangan itu bukan miliknya selamanya.
+**Analogi Perjamuan dari Epictetus:** Bayangkan hidup seperti sebuah perjamuan makan malam. Seorang Stoik seperti Seneca akan menikmati hidangan mewah jika tersedia, tetapi ia tidak akan menangis jika pelayan mengambil piringnya, karena ia tahu sejak awal bahwa hidangan itu bukan miliknya selamanya.
 
 ## 2\. Epictetus (55 M - 135 M)
 
@@ -35,7 +35,7 @@ Bagi Epictetus, inti dari Stoikisme adalah memahami bahwa satu-satunya hal yang 
 
 ## 3\. Marcus Aurelius (121 M - 180 M)
 
-Marcus Aurelius adalah pemimpin Kekaisaran Romawi di masa-masa sulit: wabah penyakit (Plague Antonine), perang terus-menerus di perbatasan, dan pengkhianatan orang terdekat. Di tengah tekanan itu, ia menulis catatan harian untuk dirinya sendiri yang sekarang kita kenal sebagai *Meditations* (Renungan).
+Marcus Aurelius adalah pemimpin Kekaisaran Romawi di masa-masa sulit: wabah penyakit (Antonine Plague), perang terus-menerus di perbatasan, dan pengkhianatan orang terdekat. Di tengah tekanan itu, ia menulis catatan harian untuk dirinya sendiri yang sekarang kita kenal sebagai *Meditations* (Renungan).
 
 ### Kewajiban dan Kesadaran Kosmik
 
