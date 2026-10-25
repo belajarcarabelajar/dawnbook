@@ -1,6 +1,6 @@
 ## Kaki Tersembunyi Candi Borobudur
 
-Bayangkan kamu sedang membangun sebuah gedung pencakar langit, namun di tengah jalan kamu menyadari fondasinya tidak cukup kuat. Beban puncak yang berat terlalu besar untuk ditopangnya. Apa yang akan kamu lakukan? Kamu mungkin akan mempertebal bagian bawahnya, meskipun itu berarti menutupi ukiran indah yang baru saja selesai dipahat.
+Bayangkan kamu sedang membangun sebuah gedung pencakar langit, tetapi di tengah jalan kamu menyadari fondasinya tidak cukup kuat. Beban puncak yang berat terlalu besar untuk ditopangnya. Apa yang akan kamu lakukan? Kamu mungkin akan mempertebal bagian bawahnya, meskipun itu berarti menutupi ukiran indah yang baru saja selesai dipahat.
 
 Inilah awal mula **Kaki Tersembunyi (Hidden Base) Candi Borobudur.** Di balik struktur tambahan yang kita lihat sekarang, terdapat 160 panel relief **Karmawibhangga** yang sengaja "dikubur" oleh para pembangun aslinya.
 
@@ -11,7 +11,7 @@ Selama berabad-abad, tidak ada yang tahu bahwa bagian dasar Borobudur menyimpan 
 #### Kronologi Penemuan
 
 1. **Observasi Struktur:** Ijzerman memperhatikan adanya kejanggalan pada susunan batu di bagian paling bawah candi. Bagian ini tampak seperti struktur tambahan yang menempel pada struktur asli.
-2. **Pembongkaran Kecil:** Ia melakukan penggalian kecil di sudut tenggara.
+2. **Penggalian Kecil:** Ia melakukan penggalian kecil di sudut tenggara.
 3. **Kejutan Arkeologis:** Di balik tumpukan batu tersebut, ia menemukan dinding yang dipenuhi dengan relief indah dan prasasti singkat (inskripsi) yang memberikan instruksi bagi para pemahat.
 
 > Relief tentang perbuatan manusia itu ternyata tersimpan di bagian candi yang tidak terlihat.
@@ -34,12 +34,12 @@ P = \frac{F}{A}
 $$
 </div>
 
-Di mana:
+Keterangan:
 - $P$ = Tekanan (*Pressure*)
 - $F$ = Gaya/Beban (*Force*) dari struktur candi
 - $A$ = Luas Alas (*Area*)
 
-Untuk mengurangi tekanan ($P$) agar tanah tidak amblas atau struktur tidak pecah, para arsitek Jawa Kuno memutuskan untuk memperluas area alas ($A$). Dengan menambahkan "kaki tambahan" yang lebar, beban candi terdistribusi lebih merata. **Konsekuensinya, relief Karmawibhangga harus dikorbankan demi keselamatan seluruh bangunan.**
+Untuk mengurangi tekanan ($P$) agar tanah tidak amblas atau struktur tidak pecah, para arsitek Jawa Kuno memutuskan untuk memperluas area alas ($A$). Dengan menambahkan "kaki tambahan" yang lebar, beban candi terdistribusi lebih merata. **Menurut perspektif teknis ini, relief Karmawibhangga harus dikorbankan demi keselamatan seluruh bangunan.**
 
 #### B. Tingkatan Kamadhatu
 

@@ -22,7 +22,7 @@ Dalam Relief Karmawibhangga, kita bisa melihat bagaimana para pemahat membedakan
 Tokoh-tokoh yang memiliki karma baik atau kedudukan tinggi biasanya digambarkan dengan:
 
 - **Proporsi Simetris:** Tubuh yang seimbang dan tegak.
-- **Gaya Tubuh Tribhanga:** Pose "tiga tekukan" (kepala, badan, dan kaki miring ke arah berbeda) yang memberikan kesan anggun dan dinamis.
+- **Gaya Tubuh *Tribhanga*:** Pose "tiga tekukan" (kepala, badan, dan kaki miring ke arah berbeda) yang memberikan kesan anggun dan dinamis.
 - **Volume yang Berisi:** Menunjukkan kemakmuran dan kesehatan fisik.
 
 **B. Bentuk Tubuh Rakyat Jelata dan Penderita**
@@ -42,7 +42,7 @@ Salah satu ciri teknik pemahatan Shailendra pada Karmawibhangga adalah kemampuan
 
 ### 4. Teknik Memahat Batu Andesit
 
-Memahat di Borobudur bukanlah pekerjaan mudah. Bahan utamanya adalah **Batu Andesit**, sejenis batuan vulkanik yang jauh lebih keras dibandingkan marmer yang digunakan seniman Eropa seperti Michelangelo.
+Memahat di Borobudur bukanlah pekerjaan mudah. Bahan utamanya adalah **batu andesit**, sejenis batuan vulkanik yang jauh lebih keras dibandingkan marmer yang digunakan seniman Eropa seperti Michelangelo.
 
 **Langkah-langkah Teknik Pemahatan Masa Itu:**
 
@@ -53,14 +53,14 @@ Memahat di Borobudur bukanlah pekerjaan mudah. Bahan utamanya adalah **Batu Ande
 
 ### 5. Kedalaman Ruang pada Panel
 
-Bayangkan setiap panel relief Karmawibhangga adalah sebuah jepretan kamera pada abad ke-8. Teknik pemahatannya memungkinkan kita melihat "kedalaman lapangan" (depth of field). Tokoh utama dipahat lebih menonjol ke depan, sementara latar belakang seperti pohon, rumah, atau awan dipahat lebih tipis di belakang. Ini menciptakan perspektif ruang bagi pengamat yang berdiri di depannya.
+Bayangkan setiap panel relief Karmawibhangga adalah sebuah jepretan kamera pada abad ke-8. Teknik pemahatannya memungkinkan kita melihat kedalaman ruang melalui lapisan-lapisan bidang. Tokoh utama dipahat lebih menonjol ke depan, sementara latar belakang seperti pohon, rumah, atau awan dipahat lebih tipis di belakang. Ini menciptakan perspektif ruang bagi pengamat yang berdiri di depannya.
 
 ### Inspirasi Desain Modern
 
 Pengetahuan tentang gaya seni Shailendra ini tidak hanya berhenti di buku sejarah. Saat ini, prinsip-prinsip tersebut diaplikasikan dalam berbagai bidang:
 
 - **Arsitektur dan Interior:** Penggunaan pola hiasan (ornamentasi) ala Borobudur pada gedung-gedung pemerintahan atau hotel berbintang untuk memberikan kesan agung dan lokal.
-- **Seni Patung Modern:** Banyak pemahat kontemporer Indonesia yang masih merujuk pada proporsi "tubuh luwes" Shailendra untuk menciptakan karya yang memiliki identitas keindonesiaan yang kuat.
+- **Seni Patung Modern:** Banyak pemahat kontemporer Indonesia masih merujuk pada proporsi "tubuh luwes" Shailendra untuk menciptakan karya yang memiliki identitas keindonesiaan yang kuat.
 - **Dunia Animasi dan Game:** Desainer karakter sering mempelajari ekspresi wajah dan pose *Tribhanga* pada relief untuk menciptakan karakter yang terlihat eksotis dan memiliki latar belakang budaya yang dalam.
 
 ### Kesimpulan Visual

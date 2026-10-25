@@ -1,6 +1,6 @@
 ## Visualisasi Alam Surga dan Neraka
 
-Pernahkah kamu membayangkan bagaimana seniman abad ke-8 memvisualisasikan konsep abstrak seperti "pahala" dan "siksa"? Mereka tidak punya bantuan teknologi CGI atau layar digital. Di kaki tersembunyi Borobudur, relief Karmawibhangga melakukan hal itu. Jika bagian sebelumnya membahas tentang *tindakan* manusia, maka bagian ini adalah tentang *destinasi* atau hasil akhir dari perjalanan jiwa tersebut.
+Pernahkah kamu membayangkan bagaimana seniman abad ke-8 memvisualisasikan konsep abstrak seperti "pahala" dan "siksa"? Mereka tidak punya bantuan teknologi CGI atau layar digital. Di kaki tersembunyi Borobudur, relief Karmawibhangga melakukan hal itu. Jika bagian sebelumnya membahas *tindakan* manusia, maka bagian ini adalah tentang *destinasi* atau hasil akhir dari perjalanan jiwa tersebut.
 
 Relief ini bukan sekadar dekorasi, melainkan sebuah "peta kosmik" yang menggambarkan berbagai tingkatan alam keberadaan sebagai konsekuensi logis dari hukum sebab-akibat.
 
@@ -21,17 +21,17 @@ Surga dalam relief Karmawibhangga tidak digambarkan sebagai tempat di awan yang 
 
 ### Ciri Visual Utama Surga
 
-1. **Pohon Kalpataru:** Ini adalah simbol utama surga. Kalpataru digambarkan sebagai pohon yang dilingkupi oleh untaian mutiara atau permata, seringkali diapit oleh sepasang **Kinnara-Kinnari** (makhluk surgawi berbadan burung berkepala manusia).
+1. **Pohon Kalpataru:** Ini adalah simbol utama surga. Kalpataru digambarkan sebagai pohon yang dilingkupi oleh untaian mutiara atau permata, sering kali diapit oleh sepasang **Kinnara-Kinnari** (makhluk surgawi berbadan burung berkepala manusia).
 2. **Bangunan Megah:** Rumah-rumah di alam surga memiliki struktur *panggung* yang indah dengan atap bertingkat, menunjukkan strata sosial dan spiritual yang tinggi.
 3. **Sikap Tubuh (Asana):** Tokoh-tokoh di alam surga digambarkan dalam posisi duduk yang rileks (*lalitasana*), menunjukkan ketiadaan kecemasan dan tekanan hidup.
 
 ## 3. Ikonografi Alam Neraka
 
-Berbeda terbalik dengan surga, visualisasi neraka dalam Karmawibhangga dirancang untuk memicu rasa ngeri dan refleksi diri. Ini adalah manifestasi dari **Dukkha** (penderitaan) yang paling ekstrem.
+Berbanding terbalik dengan surga, visualisasi neraka dalam Karmawibhangga dirancang untuk memicu rasa ngeri dan refleksi diri. Ini adalah manifestasi dari **Dukkha** (penderitaan) yang paling ekstrem.
 
 ### Representasi Penderitaan secara Artistik
 
-- **Kawah Candradimuka:** Panel sering memperlihatkan sebuah bejana atau kawah besar di mana manusia direbus hidup-hidup. Ini adalah simbol pembersihan "kotoran" batin melalui rasa sakit.
+- **Kawah Neraka:** Panel sering memperlihatkan sebuah bejana atau kawah besar tempat manusia direbus hidup-hidup.
 - **Hutan Pedang:** Salah satu visualisasi paling ikonik adalah orang-orang yang dipaksa memanjat pohon yang daunnya berupa pedang tajam.
 - **Interaksi yang Kasar:** Berbeda dengan tokoh surga yang lembut, penghuni neraka digambarkan ditarik, dipukul, atau ditusuk oleh sosok penjaga neraka yang menyeramkan.
 
@@ -66,14 +66,14 @@ Mengapa leluhur kita repot-repot memahat hal-hal yang mengerikan maupun yang ind
 
 1. **Terapi Visual (Shock Therapy):** Melihat visualisasi neraka bertujuan untuk menciptakan *Samvega*, yaitu perasaan gentar yang sehat yang mendorong seseorang untuk segera berbuat baik.
 2. **Visualisasi Cita-cita:** Melihat visualisasi surga memberikan harapan dan target perilaku sosial yang ideal (kedermawanan, ketenangan).
-3. **Pendidikan Moral Non-Verbal:** Pada masa di mana tidak semua orang bisa membaca naskah Sansekerta, relief ini berfungsi sebagai "buku bergambar" yang bisa dipahami oleh siapa saja, dari petani hingga bangsawan.
+3. **Pendidikan Moral Non-Verbal:** Pada masa di mana tidak semua orang bisa membaca naskah Sanskerta, relief ini berfungsi sebagai "buku bergambar" yang bisa dipahami oleh siapa saja, dari petani hingga bangsawan.
 
 ### Panel Orang Pelit bagi Peziarah Abad ke-9
 
-Bayangkan seorang peziarah di abad ke-9 berjalan mengelilingi kaki Borobudur. Dia melihat panel yang menggambarkan seseorang yang pelit di dunia manusia, lalu tepat di sebelahnya, dia melihat orang tersebut lahir kembali di alam di mana dia tidak bisa makan karena perutnya buncit tapi kerongkongannya sekecil lubang jarum (*Preta*). Tanpa satu kata pun terucap, pesan moralnya tersampaikan: **Keserakahan menciptakan penjara bagi diri sendiri.**
+Bayangkan seorang peziarah di abad ke-9 berjalan mengelilingi kaki Borobudur. Dia melihat panel yang menggambarkan seseorang yang pelit di dunia manusia, lalu tepat di sebelahnya, dia melihat orang tersebut lahir kembali di alam *Preta*, tempat dia tidak bisa makan karena perutnya buncit tapi kerongkongannya sekecil lubang jarum. Tanpa satu kata pun terucap, pesan moralnya tersampaikan: **Keserakahan menciptakan penjara bagi diri sendiri.**
 
 ## 6. Transisi Alam
 
 Penting untuk diingat bahwa dalam filosofi yang diusung Karmawibhangga, surga dan neraka **tidak bersifat kekal**. Visualisasi ini menggambarkan kondisi "transisi".
 
-> **Insight Berharga:** Di setiap panel, selalu ada celah untuk perubahan. Seseorang yang berada di alam rendah bisa naik ke alam tinggi setelah hutang karmanya lunas, demikian pula sebaliknya. Relief ini memvisualisasikan **ketidakkekalan (Anicca)** melalui adegan kehidupan dan kematian.
+> **Insight Berharga:** Di setiap panel, selalu ada celah untuk perubahan. Seseorang yang berada di alam rendah bisa naik ke alam tinggi setelah utang karmanya lunas, demikian pula sebaliknya. Relief ini memvisualisasikan **ketidakkekalan (Anicca)** melalui adegan kehidupan dan kematian.

@@ -2,7 +2,7 @@
 
 Pernahkah kamu memperhatikan bahwa dalam sebuah film, cuaca atau latar belakang sering kali mencerminkan perasaan karakternya? Hujan turun saat sedih, atau matahari bersinar cerah saat bahagia. Para pemahat relief Karmawibhangga di kaki Borobudur telah menggunakan teknik serupa lebih dari seribu tahun yang lalu.
 
-Flora (tumbuh-tumbuhan) dan Fauna (hewan) dalam relief Karmawibhangga bukan sekadar hiasan untuk mengisi ruang kosong. Mereka adalah "bahasa visual" yang memberikan konteks moral, emosional, dan spiritual terhadap hukum sebab-akibat yang sedang diceritakan.
+Flora (tumbuh-tumbuhan) dan fauna (hewan) dalam relief Karmawibhangga bukan sekadar hiasan untuk mengisi ruang kosong. Mereka adalah "bahasa visual" yang memberikan konteks moral, emosional, dan spiritual terhadap hukum sebab-akibat yang sedang diceritakan.
 
 ## 1. Makna Simbolis Flora
 
@@ -37,7 +37,7 @@ Hewan dalam relief Karmawibhangga memiliki peran ganda. Pertama, sebagai bagian 
 Hewan-hewan ini sering muncul dalam adegan yang menggambarkan perilaku rendah atau hukuman.
 
 - **Makna:** Sering dikaitkan dengan ketamakan, kotoran, atau kehidupan yang hanya mengejar pemuasan nafsu dasar tanpa moralitas.
-- Mengapa hewan yang dianggap setia seperti anjing justru sering muncul dalam konteks hukuman di relief kuno? Ini sering kali berkaitan dengan pandangan budaya masa itu terhadap hewan liar di pinggiran pemukiman.
+- Mengapa hewan yang dianggap setia seperti anjing justru sering muncul dalam konteks hukuman di relief kuno? Ini mungkin berkaitan dengan pandangan budaya masa itu terhadap hewan liar di pinggiran permukiman.
 
 ### B. Gajah dan Kuda
 
@@ -66,7 +66,7 @@ Untuk memahami narasi moral melalui flora dan fauna, kita perlu memperhatikan ko
 
 Bayangkan flora dan fauna ini sebagai **cermin**. Jika sebuah panel relief menunjukkan seseorang yang kasar, maka hewan di sekitarnya mungkin digambarkan gelisah atau ganas. Sebaliknya, jika panel tersebut menunjukkan seorang guru yang bijak, tanaman di sekitarnya akan terlihat subur dan burung-burung hinggap dengan tenang.
 
-Alam dalam Karmawibhangga bereaksi terhadap kualitas moral manusia di pusat cerita.
+Alam dalam Karmawibhangga dapat dibaca sebagai bereaksi terhadap kualitas moral manusia di pusat cerita.
 
 > **Insight Memorable:** Dalam filosofi Karmawibhangga, alam di sekitar tokoh tidak netral: keadaannya mengikuti tindakan manusia. Saat kita menanam kebajikan, "taman" kehidupan kita akan berbunga; saat kita menanam keburukan, "hutan" di sekitar kita akan menjadi gelap dan mengancam.
 
@@ -75,7 +75,7 @@ Alam dalam Karmawibhangga bereaksi terhadap kualitas moral manusia di pusat ceri
 Meskipun kita tidak lagi memahat relief di dinding batu, kita masih menggunakan flora dan fauna sebagai simbol moral dalam kehidupan sehari-hari:
 
 - **Merpati Putih:** Digunakan secara universal sebagai simbol perdamaian (mirip dengan fungsi burung dalam relief untuk menunjukkan kedamaian).
-- **Pohon Beringin:** Dalam konteks Indonesia, sering menjadi simbol pengayoman dan persatuan (sejajar dengan fungsi Kalpataru sebagai pemberi perlindungan).
+- **Pohon Beringin:** Dalam konteks Indonesia, sering menjadi simbol pengayoman dan persatuan (sejajar dengan Kalpataru sebagai simbol kemurahan hati).
 - **Kampanye Lingkungan:** Saat kita melihat poster hutan yang gundul dengan hewan yang menderita, secara psikologis kita merasakan adanya "kesalahan moral" manusia, sebuah narasi sebab-akibat yang serupa dengan pesan di kaki Borobudur.
 
 ## Latihan Refleksi

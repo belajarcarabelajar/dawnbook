@@ -2,7 +2,7 @@
 
 Bayangkan kamu sedang berdiri di kaki Candi Borobudur. Di hadapanmu, terbentang deretan panel batu berisi cerita. Membaca relief Karmawibhangga bukan sekadar melihat gambar, melainkan mengikuti urutan perbuatan dan akibatnya.
 
-Untuk memahami pesan moral di balik 160 panel yang ada di kaki tersembunyi (*Kamadhatu*), kita memerlukan "kunci" teknis untuk membuka kode visualnya. Bab ini akan memandumu memahami struktur fisik panel dan metode pembacaan yang telah dipraktikkan selama berabad-abad.
+Untuk memahami pesan moral di balik 160 panel yang ada di kaki tersembunyi (*Kamadhatu*), kita memerlukan "kunci" teknis untuk membuka kode visualnya. Bab ini akan memandumu memahami struktur fisik panel dan metode pembacaan yang berakar pada tradisi pradaksina.
 
 ### 1. Arah Pembacaan Pradaksina
 
@@ -63,7 +63,7 @@ flowchart TD
     A -->|"Kejahatan"| C["Sisi kanan, neraka atau penderitaan"]
 ```
 
-### 4. Hirarki dan Perspektif Objek
+### 4. Hierarki dan Perspektif Objek
 
 Para seniman Shailendra menggunakan teknik visual tertentu untuk menunjukkan status sosial atau urgensi spiritual:
 
@@ -81,6 +81,6 @@ Prinsip pembagian panel Karmawibhangga sebenarnya masih relevan dalam dunia prof
 **Contoh Skenario:** Dalam sebuah kampanye sosial tentang lingkungan:
 
 - **Sisi Kiri (Sebab):** Gambar orang membuang sampah plastik ke sungai.
-- **Sisi Kanan (Akibat):** Gambar banjir yang merendam pemukiman mereka sendiri. Ini adalah penggunaan struktur "Karmawibhangga" dalam komunikasi visual modern untuk menciptakan efek jera.
+- **Sisi Kanan (Akibat):** Gambar banjir yang merendam permukiman mereka sendiri. Ini adalah penggunaan struktur "Karmawibhangga" dalam komunikasi visual modern untuk menciptakan efek jera.
 
 > **Pesan Utama:** Struktur relief Karmawibhangga bukan dibuat untuk estetika semata. Urutan **Pradaksina** melatih kedisiplinan fisik, sementara pembagian **Sebab-Akibat** pada panel melatih cara berpikir sebab-akibat. Dengan memahami cara membacanya, kamu tidak lagi melihat batu berukir saja, tetapi membaca urutan perbuatan dan akibatnya.

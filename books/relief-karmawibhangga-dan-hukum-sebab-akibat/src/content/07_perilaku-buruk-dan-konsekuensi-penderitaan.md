@@ -33,14 +33,14 @@ Pencurian (*Adinnadana*) atau mengambil apa yang tidak diberikan juga mendapat p
 ### Deskripsi Panel
 
 - **Tindakan:** Panel menggambarkan seseorang yang menyelinap ke rumah orang lain atau merampas barang milik orang miskin. Ada juga penggambaran penipuan dalam perdagangan (seperti timbangan yang tidak jujur).
-- **Konsekuensi:** Pelakunya digambarkan mengalami kemiskinan yang ekstrem di masa depan. Mereka terlihat kelaparan, berpakaian compang-camping, dan seringkali menjadi sasaran perampokan kembali.
+- **Konsekuensi:** Pelakunya digambarkan mengalami kemiskinan yang ekstrem di masa depan. Mereka terlihat kelaparan, berpakaian compang-camping, dan sering kali menjadi sasaran perampokan kembali.
 
 ## 3. Fitnah dan Kata-kata Kasar
 
 Tidak hanya tindakan fisik, Karmawibhangga juga menyoroti perilaku verbal. Ucapan yang memecah belah atau menyakitkan hati digambarkan memiliki dampak yang pedih.
 
 - **Tindakan:** Panel menunjukkan dua orang yang sedang berbisik-bisik (memfitnah) atau seseorang yang berteriak dengan wajah penuh kemarahan kepada orang lain.
-- **Konsekuensi:** Di sisi kanan, mereka digambarkan terlahir dengan cacat fisik pada bagian mulut, atau berada di alam penderitaan di mana lidah mereka disiksa. Secara simbolis, ini melambangkan hilangnya kekuatan kata-kata mereka; tidak ada lagi yang percaya pada mereka.
+- **Konsekuensi:** Di sisi kanan, mereka digambarkan terlahir dengan cacat fisik pada bagian mulut, atau berada di alam penderitaan tempat lidah mereka disiksa. Secara simbolis, ini melambangkan hilangnya kekuatan kata-kata mereka; tidak ada lagi yang percaya pada mereka.
 
 ## Hubungan Matematis Karma
 
@@ -52,17 +52,17 @@ N + K = P
 $$
 </div>
 
-Di mana:
+Keterangan:
 
 - $N$ (*Niat*): Kehendak buruk di dalam pikiran.
-- $K$ (*Kegiatan*): Eksekusi tindakan (pembunuhan, pencurian, dll).
+- $K$ (*Kegiatan*): Eksekusi tindakan (pembunuhan, pencurian, dll.).
 - $P$ (*Penderitaan*): Hasil yang tak terelakkan.
 
 Dalam Buddhisme, beratnya penderitaan ($P$) ditentukan oleh intensitas $N$ (apakah direncanakan?) dan objek dari $K$ (apakah korbannya adalah orang yang sangat berjasa?).
 
 ## Mengapa Relief ini "Disembunyikan"?
 
-Seperti yang kita tahu, 160 panel ini tertutup oleh struktur tambahan (selasar). Secara filosofis, beberapa ahli berpendapat bahwa penggambaran penderitaan yang gamblang, seperti orang yang digergaji, direbus, atau disiksa hewan buas, dianggap terlalu "keras" untuk peziarah yang belum siap secara spiritual.
+Seperti yang kita tahu, 160 panel ini tertutup oleh struktur tambahan (kaki tambahan). Secara filosofis, beberapa ahli berpendapat bahwa penggambaran penderitaan yang gamblang, seperti orang yang digergaji, direbus, atau disiksa hewan buas, dianggap terlalu "keras" untuk peziarah yang belum siap secara spiritual.
 
 Namun, secara teknis, panel-panel ini berfungsi sebagai **fondasi moral**. Sebelum seseorang naik ke tingkat Borobudur yang lebih tinggi (alam pencerahan), mereka harus "tuntas" terlebih dahulu dengan urusan etika dasar di kaki candi.
 
@@ -71,7 +71,7 @@ Namun, secara teknis, panel-panel ini berfungsi sebagai **fondasi moral**. Sebel
 Meskipun relief ini dipahat 1.200 tahun lalu, pesannya tetap relevan di era digital:
 
 1. **Cyber-bullying sebagai "Ucapan Buruk":** Memfitnah atau menghina di media sosial adalah bentuk modern dari panel ucapan kasar. Konsekuensinya? Kehilangan reputasi dan rusaknya kesehatan mental diri sendiri.
-2. **Eksploitasi Alam sebagai "Pembunuhan":** Kekejaman terhadap hewan dan perusakan lingkungan digambarkan berujung pada bencana alam dan kelangkaan sumber daya dalam relief Karmawibhangga.
+2. **Eksploitasi Alam sebagai "Pembunuhan":** Kekejaman terhadap hewan dan perusakan lingkungan dapat berujung pada bencana alam dan kelangkaan sumber daya.
 3. **Integritas Bisnis:** Menipu dalam timbangan di masa lalu sama dengan korupsi atau manipulasi data di masa kini. Keduanya menciptakan ketidakstabilan ekonomi yang pada akhirnya merugikan pelakunya.
 
 > **Pesan Utama:** Penderitaan bukanlah nasib sial yang jatuh dari langit, melainkan "panen" dari apa yang kita tanam di masa lalu. Dengan melihat kengerian di panel-panel ini, kita diajak untuk berhenti menanam benih penderitaan sekarang juga.
