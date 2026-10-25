@@ -6,7 +6,7 @@ Meskipun fokus utamanya adalah melatih keterampilan mengajar kamu, performa ters
 
 ### 1. Tata Letak Ruang Mikro
 
-Dalam *microteaching*, jumlah siswa biasanya terbatas (5-10 orang). Oleh karena itu, tata letak ruang harus mencerminkan kedekatan namun tetap mempertahankan struktur kelas formal.
+Dalam *microteaching*, jumlah siswa biasanya terbatas (5-10 orang). Oleh karena itu, tata letak ruang harus mencerminkan kedekatan tetapi tetap mempertahankan struktur kelas formal.
 
 **Pilihan Tata Letak Kursi:**
 

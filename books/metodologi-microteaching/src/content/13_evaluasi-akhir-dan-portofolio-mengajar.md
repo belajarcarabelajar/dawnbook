@@ -31,7 +31,7 @@ Sebuah portofolio yang komprehensif harus mencakup elemen-elemen berikut:
 1. **Filosofi Mengajar Pribadi**: Sebuah esai singkat (1-2 halaman) tentang pandangan kamu mengenai pendidikan, peran guru, dan bagaimana siswa belajar.
 2. **Rencana Pelaksanaan Pembelajaran (RPP) Mikro**: Sertakan RPP awal (sebelum revisi) dan RPP akhir (setelah siklus *re-teaching*).
 3. **Artefak Pembelajaran**: Media pembelajaran yang kamu buat (slide presentasi, alat peraga digital, atau lembar kerja siswa).
-4. **Rekaman Video & Log Refleksi**: Link video atau cuplikan transkrip di mana kamu melakukan perbaikan signifikan.
+4. **Rekaman Video & Log Refleksi**: Link video atau cuplikan transkrip ketika kamu melakukan perbaikan signifikan.
 5. **Data Umpan Balik**: Rekapitulasi penilaian dari dosen pembimbing dan rekan sejawat.
 
 ### Struktur Organisasi Portofolio
@@ -75,7 +75,7 @@ Bagaimana evaluasi akhir ini berguna di dunia nyata? Portofolio bukan hanya untu
 
 Dalam laporan kamu, alih-alih menulis *"Saya sudah bisa mengajar dengan baik"*, gunakan pendekatan berbasis data:
 
-> "Pada siklus pertama, frekuensi saya memberikan penguatan (*reinforcement*) hanya 2 kali dalam 10 menit. Setelah melakukan refleksi berbasis video, pada siklus kedua saya berhasil meningkatkan frekuensi penguatan menjadi 6 kali dengan variasi verbal dan non-verbal, yang berdampak pada peningkatan partisipasi siswa model sebesar 40%."
+> "Pada siklus pertama, frekuensi saya memberikan penguatan (*reinforcement*) hanya 2 kali dalam 10 menit. Setelah melakukan refleksi berbasis video, pada siklus kedua saya berhasil meningkatkan frekuensi penguatan menjadi 6 kali dengan variasi verbal dan nonverbal, yang berdampak pada peningkatan partisipasi siswa model sebesar 40%."
 
 ## 5. Rencana Pengembangan Profesional (Action Plan)
 
@@ -91,6 +91,6 @@ Sebagai penutup dari seluruh rangkaian Microteaching, kamu wajib menyusun **Renc
 
 ## Bekal Awal Seorang Guru
 
-Evaluasi Akhir dan Portofolio Mengajar adalah momen di mana kamu berhenti sejenak untuk melihat ke belakang, agar kamu bisa berlari lebih cepat ke depan. Microteaching bukan sekadar simulasi singkat; ia adalah bekal awal kamu sebagai guru profesional. Dengan mendokumentasikan setiap prosesnya, kamu sedang menyusun catatan kompetensi yang bisa terus kamu kembangkan.
+Evaluasi Akhir dan Portofolio Mengajar adalah momen ketika kamu berhenti sejenak untuk melihat ke belakang, agar kamu bisa berlari lebih cepat ke depan. Microteaching bukan sekadar simulasi singkat; ia adalah bekal awal kamu sebagai guru profesional. Dengan mendokumentasikan setiap prosesnya, kamu sedang menyusun catatan kompetensi yang bisa terus kamu kembangkan.
 
 Joseph Joubert menulis dalam *Pensées*, "Mengajar adalah belajar dua kali." Mendokumentasikan proses belajar itu adalah cara terbaik untuk memastikan kita tidak pernah berhenti bertumbuh.

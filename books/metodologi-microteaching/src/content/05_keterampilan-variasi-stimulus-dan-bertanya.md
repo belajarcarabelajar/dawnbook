@@ -1,6 +1,6 @@
 ## Keterampilan Variasi Stimulus dan Bertanya
 
-Pernahkah kamu duduk di sebuah seminar di mana pembicaranya berbicara dengan nada datar selama dua jam tanpa bergerak sedikit pun dari podium? Kemungkinan besar, pikiran kamu mulai melayang ke daftar belanjaan atau apa yang akan kamu makan siang nanti.
+Pernahkah kamu duduk di sebuah seminar tempat pembicaranya berbicara dengan nada datar selama dua jam tanpa bergerak sedikit pun dari podium? Kemungkinan besar, pikiran kamu mulai melayang ke daftar belanjaan atau apa yang akan kamu makan siang nanti.
 
 Dalam dunia pendidikan, **monotoni menghambat pembelajaran.** Guru yang baik bukan hanya mereka yang menguasai materi, tetapi mereka yang mampu menjaga perhatian siswa. Di sinilah dua keterampilan dasar mengajar berperan: **Variasi Stimulus** dan **Keterampilan Bertanya**.
 
@@ -10,7 +10,7 @@ Variasi stimulus adalah upaya guru untuk mengubah perilaku dalam proses interaks
 
 ### Efek Radio vs. Konser Langsung
 
-Bayangkan mendengarkan radio dengan statis yang konstan; telinga kamu akan segera mengabaikannya. Namun, bayangkan sebuah konser musik di mana ada lampu sorot yang berpindah, dentuman bass yang tiba-tiba melambat, dan penyanyi yang berinteraksi dengan penonton. Variasi stimulus adalah "efek konser" dalam ruang kelas kamu.
+Bayangkan mendengarkan radio dengan statis yang konstan; telinga kamu akan segera mengabaikannya. Namun, bayangkan sebuah konser musik dengan lampu sorot yang berpindah, dentuman bass yang tiba-tiba melambat, dan penyanyi yang berinteraksi dengan penonton. Variasi stimulus adalah "efek konser" dalam ruang kelas kamu.
 
 ### Komponen Variasi Stimulus
 

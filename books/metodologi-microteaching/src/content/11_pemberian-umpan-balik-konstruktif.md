@@ -26,7 +26,7 @@ Alih-alih mengatakan *"Kamu kurang jelas saat menjelaskan,"* yang terdengar sepe
 
 #### B. Teknik Sandwich (Pujian - Kritik - Harapan)
 
-Ini adalah teknik klasik namun efektif untuk menjaga motivasi:
+Ini adalah teknik klasik tetapi efektif untuk menjaga motivasi:
 
 1. **Lapis Atas (Positif):** Mulai dengan apa yang sudah berjalan baik.
 2. **Isi (Konstruktif):** Sampaikan area yang perlu diperbaiki berdasarkan data.

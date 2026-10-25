@@ -46,7 +46,7 @@ Bertanya adalah instrumen utama dalam interaksi belajar-mengajar. Guru yang baik
 
 ## 4. Keterampilan Memberikan Penguatan (Reinforcement)
 
-Penguatan adalah respons guru terhadap perilaku siswa yang memungkinkan berulangnya perilaku tersebut. Ini adalah bentuk penghargaan yang sederhana namun bermakna.
+Penguatan adalah respons guru terhadap perilaku siswa yang memungkinkan berulangnya perilaku tersebut. Ini adalah bentuk penghargaan yang sederhana tetapi bermakna.
 
 - **Penguatan Verbal:** "Bagus sekali!", "Jawaban yang sangat cerdas!", "Ibu bangga dengan usahamu."
 - **Penguatan Nonverbal:** Senyuman, anggukan kepala, acungan jempol, atau mendekati siswa (pendekatan fisik).

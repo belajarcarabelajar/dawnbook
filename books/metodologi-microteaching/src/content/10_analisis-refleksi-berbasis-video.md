@@ -1,6 +1,6 @@
 ## Analisis Refleksi Berbasis Video
 
-Pernahkah kamu merasa sebuah sesi mengajar berjalan lancar, namun ketika melihat hasil ujian siswa, ternyata banyak yang tidak paham? Atau sebaliknya, kamu merasa gugup dan kacau, tetapi siswa justru merasa terbantu? Fenomena ini disebut dengan **kesenjangan persepsi**.
+Pernahkah kamu merasa sebuah sesi mengajar berjalan lancar, tetapi ketika melihat hasil ujian siswa, ternyata banyak yang tidak paham? Atau sebaliknya, kamu merasa gugup dan kacau, tetapi siswa justru merasa terbantu? Fenomena ini disebut dengan **kesenjangan persepsi**.
 
 Dalam metodologi microteaching, video bukan sekadar dokumentasi, melainkan sebuah "cermin jujur" yang memungkinkan kita melihat realitas di lapangan tanpa bias memori. Analisis refleksi berbasis video adalah proses sistematis untuk membedah kinerja mengajar kita sendiri guna menemukan celah antara apa yang kita rencanakan (das sollen) dengan apa yang sebenarnya terjadi (das sein).
 
@@ -53,7 +53,7 @@ Untuk membantu kamu melakukan refleksi yang tajam, fokuskan pengamatan pada tiga
 - **Filler Words:** Berapa kali kamu mengucapkan "eee", "nganu", atau "oke"? Penggunaan *filler words* yang berlebihan dapat menurunkan otoritas kamu.
 - **Intonasi:** Apakah suara kamu monoton seperti robot, atau memiliki dinamika (nada tinggi/rendah) untuk menekankan poin penting?
 
-### B. Analisis Non-Verbal (Bahasa Tubuh)
+### B. Analisis Nonverbal (Bahasa Tubuh)
 
 - **Kontak Mata:** Apakah kamu hanya menatap satu sisi kelas atau menatap lantai?
 - **Ekspresi Wajah:** Apakah wajah kamu tampak bersahabat atau justru tampak mengancam/tegang?

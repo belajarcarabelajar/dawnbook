@@ -2,11 +2,11 @@
 
 Dalam dunia pengembangan perangkat lunak, terdapat istilah "Beta Testing" dan "Patching" untuk menemukan dan memperbaiki *bug*. Dalam dunia pendidikan, khususnya *microteaching*, proses ini disebut dengan **Re-teaching** (Mengajar Kembali).
 
-Siklus ini bukan sekadar mengulang apa yang sudah dilakukan, melainkan sebuah upaya sadar untuk memperbaiki "celah" atau "error" yang ditemukan pada praktik pertama. Inilah tahap di mana pertumbuhan kompetensi pedagogik terjadi secara nyata.
+Siklus ini bukan sekadar mengulang apa yang sudah dilakukan, melainkan sebuah upaya sadar untuk memperbaiki "celah" atau "error" yang ditemukan pada praktik pertama. Inilah tahap ketika pertumbuhan kompetensi pedagogik terjadi secara nyata.
 
 ## Apa itu Siklus Re-teaching?
 
-**Re-teaching** adalah sesi kedua dalam siklus pengajaran mikro di mana praktikan (calon guru) mengajar kembali topik yang sama, kepada kelompok siswa yang sama atau berbeda, dengan menerapkan revisi berdasarkan umpan balik dan refleksi dari sesi sebelumnya.
+**Re-teaching** adalah sesi kedua dalam siklus pengajaran mikro ketika praktikan (calon guru) mengajar kembali topik yang sama, kepada kelompok siswa yang sama atau berbeda, dengan menerapkan revisi berdasarkan umpan balik dan refleksi dari sesi sebelumnya.
 
 > **Intisari:** Jika sesi pertama adalah tentang "mencoba", maka sesi re-teaching adalah tentang "menyempurnakan".
 

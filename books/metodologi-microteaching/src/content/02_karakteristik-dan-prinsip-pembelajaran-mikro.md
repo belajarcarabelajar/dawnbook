@@ -67,7 +67,7 @@ Mari kita lihat bagaimana karakteristik ini diterapkan dalam sebuah skenario nya
 	- **Waktu:** 12 menit.
 	- **Target:** Sarah ingin melatih "Variasi Stimulus" (mengubah nada suara, berpindah posisi di kelas, dan menggunakan media visual secara bergantian).
 - **Proses:** Selama 12 menit, Sarah tidak terlalu mengkhawatirkan apakah seluruh materi fotosintesis selesai dibahas secara mendalam. Fokus utamanya adalah memastikan ia tidak berdiri mematung di depan kelas dan suaranya tidak monoton.
-- **Hasil:** Setelah 12 menit, rekan-rekannya memberikan catatan: *"Sarah sudah berpindah posisi dengan baik, namun nada suaranya di menit ke-8 mulai datar saat menjelaskan klorofil."* Inilah umpan balik yang spesifik dan berguna.
+- **Hasil:** Setelah 12 menit, rekan-rekannya memberikan catatan: *"Sarah sudah berpindah posisi dengan baik, tetapi nada suaranya di menit ke-8 mulai datar saat menjelaskan klorofil."* Inilah umpan balik yang spesifik dan berguna.
 
 ### 5. Mengapa Penyederhanaan Itu Efektif?
 
