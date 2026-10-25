@@ -37,7 +37,7 @@ Ketika mencoba merekam video sambil berlari, hasilnya biasanya berguncang dan ti
 Sistem vestibular mendeteksi dua jenis gerakan utama melalui struktur khusus di telinga dalam:
 
 1. **Akselerasi Rotasi (Sudut):** Dideteksi oleh **Kanalis Semisirkularis**. Hal ini terjadi saat kepala menggeleng, mengangguk, atau memiringkan kepala ke bahu.
-2. **Akselerasi Linear dan Gravitasi:** Dideteksi oleh **Organ Otolit** (Utrikulus dan Sakulus). Hal ini terjadi saat berada di dalam lift yang bergerak naik, atau saat kendaraan melaju kencang.
+2. **Akselerasi Linear dan Gravitasi:** Dideteksi oleh **Organ Otolit** (Utrikulus dan Sakulus). Hal ini terjadi saat lift mulai bergerak naik, atau saat kendaraan mulai melaju atau mengerem.
 
 Vektor gerakan ini dapat direpresentasikan secara matematis dalam tiga dimensi ($x, y, z$):
 
@@ -50,7 +50,7 @@ Vektor gerakan ini dapat direpresentasikan secara matematis dalam tiga dimensi (
 Memahami sistem vestibular bukan hanya teori akademis; ini adalah kunci di balik berbagai aktivitas manusia yang kompleks:
 
 - **Olahraga Ekstrem:** Seorang pesenam artistik mengandalkan sistem vestibular yang sangat terlatih untuk melakukan salto di udara dan mendarat dengan tegak. Otak mereka memproses input akselerasi sudut yang sangat tinggi dalam hitungan milidetik.
-- **Navigasi dalam Gelap:** Saat terbangun di tengah malam dan berjalan dalam kegelapan total, sistem vestibular mengambil alih peran utama karena sistem visual tidak aktif. Sistem ini memberi tahu otak seberapa jauh tubuh telah melangkah dan apakah posisi tubuh masih tegak.
+- **Navigasi dalam Gelap:** Saat terbangun di tengah malam dan berjalan dalam kegelapan total, sistem vestibular mengambil alih peran utama karena sistem visual tidak aktif. Sistem ini memberi tahu otak apakah posisi tubuh masih tegak.
 - **Mabuk Perjalanan (*Motion Sickness*):** Kondisi ini terjadi ketika ada **konflik sensorik**. Misalnya, saat membaca buku di dalam mobil yang bergerak:
   - Mata melaporkan ke otak: "Tubuh diam (fokus pada buku)."
   - Sistem vestibular melaporkan ke otak: "Tubuh bergerak, berbelok, dan berguncang!"

@@ -38,7 +38,7 @@ Ketika tubuh mengalami percepatan linear, misalnya saat seseorang mulai berlari:
 1. Kepala bergerak maju.
 2. Karena inersia, **Otoconia** yang berat tertinggal sejenak.
 3. Pergeseran ini menarik membran otolitik.
-4. Pembengkokkan sel rambut terjadi, memicu perubahan potensial listrik yang dikirim ke saraf vestibular.
+4. Pembengkokan sel rambut terjadi, memicu perubahan potensial listrik yang dikirim ke saraf vestibular.
 
 #### B. Posisi Kepala Terhadap Gravitasi (Statis)
 
@@ -79,4 +79,4 @@ Ketika seseorang menutup mata dan memiringkan kepala perlahan ke arah bahu kanan
 - **Organ Otolit** terdiri dari Utrikulus (horizontal) dan Sakulus (vertikal).
 - **Otoconia** adalah kristal kalsium karbonat yang memberikan massa dan inersia pada sistem ini.
 - Fungsi utama adalah mendeteksi **akselerasi linear** dan **orientasi kepala terhadap gravitasi**.
-- Tanpa organ ini, keseimbangan postur tubuh atau persepsi ruang yang stabil saat bergerak dalam garis lurus tidak dapat dipertahankan.
+- Tanpa organ ini, keseimbangan postur tubuh atau persepsi ruang yang stabil saat bergerak dalam garis lurus sulit dipertahankan.

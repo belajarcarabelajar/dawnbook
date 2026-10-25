@@ -67,12 +67,12 @@ Di dalam labyrinth membran terdapat cairan bernama **Endolymph**:
 Untuk memahami struktur ini dengan mudah, bayangkan sebuah **pipa besi** yang kokoh (Labyrinth Tulang). Di dalam pipa besi tersebut, kita memasukkan sebuah **selang karet** yang lentur (Labyrinth Membran).
 
 1. Isi ruang antara pipa besi dan selang karet dengan air biasa (Perilymph). Air ini melindungi selang agar tidak terbentur langsung ke besi.
-2. Isi bagian dalam selang karet dengan air garam yang sangat pekat (Endolymph).
+2. Isi bagian dalam selang karet dengan air garam yang kaya kalium (Endolymph).
 3. Di dalam selang karet inilah terdapat sensor-sensor halus yang akan bereaksi jika air di dalamnya bergoyang.
 
 ### 6. Hidrops Endolimfatik (Penyakit Meniere)
 
-Dalam kondisi klinis normal, produksi dan penyerapan endolymph berada dalam keseimbangan. Namun, pada kondisi yang disebut **Hidrops Endolimfatik** (sering dikaitkan dengan Penyakit Meniere), terjadi kelebihan volume endolymph di dalam labyrinth membran.
+Dalam kondisi normal, produksi dan penyerapan endolymph berada dalam keseimbangan. Namun, pada kondisi yang disebut **Hidrops Endolimfatik** (sering dikaitkan dengan Penyakit Meniere), terjadi kelebihan volume endolymph di dalam labyrinth membran.
 
 **Apa yang terjadi?**
 
@@ -91,4 +91,4 @@ Dalam kondisi klinis normal, produksi dan penyerapan endolymph berada dalam kese
 4. **Kanalis Semisirkularis** berisi Ductus Semicircularis.
 5. Interaksi antara kedua cairan ini sangat vital bagi fungsi sel rambut yang akan kita bahas pada bagian-bagian berikutnya.
 
-> **Poin Kunci:** Pemisahan kimiawi antara perilymph dan endolymph bukan sekadar detail anatomi, melainkan baterai biologis yang memungkinkan kita merasakan setiap miringan dan putaran kepala kita terhadap gravitasi.
+> **Poin Kunci:** Pemisahan kimiawi antara perilymph dan endolymph bukan sekadar detail anatomi, melainkan baterai biologis yang memungkinkan kita merasakan setiap kemiringan dan putaran kepala kita terhadap gravitasi.

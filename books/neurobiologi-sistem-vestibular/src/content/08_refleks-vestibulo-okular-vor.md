@@ -1,6 +1,6 @@
 ## Refleks Vestibulo-Okular (VOR)
 
-Pernahkah kita mencoba membaca pesan teks di ponsel saat sedang berjalan cepat atau berlari? Meskipun kepala bergerak naik-turun dan bergoyang ke samping, mata kita masih mampu "mengunci" teks tersebut sehingga terbaca dengan jelas. Kemampuan ini bukan terjadi secara kebetulan; ini adalah hasil kerja **Refleks Vestibulo-Okular (VOR)**.
+Pernahkah kita mencoba membaca pesan teks di ponsel saat sedang berjalan cepat atau berlari? Meskipun kepala bergerak naik-turun dan bergoyang ke samping, mata kita masih mampu "mengunci" teks tersebut sehingga terbaca dengan jelas. Kemampuan ini tidak terjadi secara kebetulan; ini adalah hasil kerja **Refleks Vestibulo-Okular (VOR)**.
 
 VOR adalah salah satu refleks tercepat dalam tubuh manusia. Fungsinya spesifik: menghasilkan gerakan mata yang berlawanan arah dengan gerakan kepala untuk menjaga bayangan objek tetap stabil di pusat retina (**fovea**).
 
@@ -64,14 +64,14 @@ flowchart TD
 
 ### 1. Gain VOR
 
-Dalam kondisi ideal, kecepatan gerakan mata harus persis sama dengan kecepatan gerakan kepala, namun dalam arah yang berlawanan. Rasio ini disebut sebagai **Gain**.
+Dalam kondisi ideal, kecepatan gerakan mata harus persis sama dengan kecepatan gerakan kepala, tetapi dalam arah yang berlawanan. Rasio ini disebut sebagai **Gain**.
 
 $$
 \text{Gain} = \frac{\text{Kecepatan Gerakan Mata}}{\text{Kecepatan Gerakan Kepala}}
 $$
 
 - $\text{Gain}$ yang sempurna bernilai $-1$ (atau $1$ dalam nilai mutlak).
-- Jika $\text{Gain} < 1$, mata tertinggal dari gerakan kepala, dan kita akan mengalami pandangan buram (*oscillopsia*).
+- Jika $\text{Gain} < 1$, mata tertinggal dari gerakan kepala, dan kita akan mengalami pandangan buram dan dunia yang tampak bergoyang (*oscillopsia*).
 
 ### 2. Fase (Phase)
 
@@ -85,7 +85,7 @@ Bayangkan saat menumpangi bus yang melintasi jalanan berlubang. Kepala terhentak
 
 1. **Sensor:** Kanalis semisirkularis posterior dan anterior mendeteksi rotasi vertikal.
 2. **Proses:** Sirkuit VOR menghitung akselerasi tersebut dalam hitungan milidetik.
-3. **Aksi:** Otot-otot rektus superior dan inferior mata bergerak secara otomatis untuk melawan arah hentakan bus.
+3. **Aksi:** Otot-otot Rectus Superior dan Rectus Inferior mata bergerak secara otomatis untuk melawan arah hentakan bus.
 4. **Hasil:** Huruf-huruf di buku yang sedang dibaca masih tajam, meskipun tubuh berguncang hebat.
 
 ## Bagaimana Dokter Menguji VOR?
@@ -99,7 +99,7 @@ Dokter akan meminta pasien fokus pada hidung dokter, lalu dokter memutar kepala 
 - **Normal:** Mata pasien terus terkunci pada hidung dokter.
 - **Abnormal:** Mata pasien ikut bergerak searah kepala, lalu melakukan gerakan koreksi cepat (*catch-up saccade*) kembali ke hidung. Ini menandakan adanya kerusakan pada organ vestibular di sisi tersebut.
 
-### 2. Tes Kalori (COWS)
+### 2. Tes Kalori
 
 Air hangat atau dingin dimasukkan ke liang telinga untuk menciptakan arus konveksi pada endolymph, yang secara buatan merangsang VOR. Ini digunakan untuk memeriksa fungsi batang otak pada pasien yang tidak sadar.
 

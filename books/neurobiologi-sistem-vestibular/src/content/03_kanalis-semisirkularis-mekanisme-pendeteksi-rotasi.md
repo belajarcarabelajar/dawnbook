@@ -6,7 +6,7 @@ Jika organ otolit (yang akan dibahas di bagian selanjutnya) adalah "detektor gra
 
 ### 1. Arsitektur Tiga Dimensi
 
-Kanalis semisirkularis terdiri dari tiga saluran berbentuk setengah lingkaran yang saling tegak lurus satu sama lain, mirip dengan sudut-sudut di pojok ruangan yang mewakili sumbu X, Y, dan Z. Struktur ini memungkinkan otak kita untuk mendeteksi gerakan rotasi kepala dalam bidang apa pun.
+Kanalis semisirkularis terdiri atas tiga saluran berbentuk setengah lingkaran yang saling tegak lurus satu sama lain, mirip dengan sudut-sudut di pojok ruangan yang mewakili sumbu X, Y, dan Z. Struktur ini memungkinkan otak kita untuk mendeteksi gerakan rotasi kepala dalam bidang apa pun.
 
 Ketiga saluran tersebut adalah:
 
@@ -18,7 +18,7 @@ Ketiga saluran tersebut adalah:
 
 ### 2. Ampula dan Kupula
 
-Di setiap ujung kanalis yang membesar, terdapat area yang disebut **Ampula**. Di dalam ampula inilah "mesin" pendeteksi sebenarnya berada.
+Di salah satu ujung setiap kanalis terdapat bagian yang membesar, yang disebut **Ampula**. Di dalam ampula inilah "mesin" pendeteksi sebenarnya berada.
 
 - **Krista Ampularis:** Sebuah gundukan jaringan sensorik yang terletak di dalam ampula. Di atas krista ini terdapat sel-sel rambut vestibular.
 - **Kupula:** Sebuah struktur gelatinosa (seperti jeli) yang menutupi krista ampularis. Kupula membentang dari dasar ampula hingga ke puncaknya, menciptakan penghalang yang bisa digerakkan oleh aliran cairan.
@@ -34,15 +34,15 @@ Bagaimana gerakan putar kepala berubah menjadi sinyal listrik di otak? Proses in
 2. **Inersia Endolimfe:** Karena inersia, cairan endolimfe di dalam saluran cenderung "tertinggal" atau tetap diam sejenak. Hal ini menyebabkan aliran relatif cairan ke arah yang berlawanan dengan gerakan kepala.
 3. **Pembengkokan Kupula:** Aliran endolimfe ini mendorong kupula seperti angin mendorong layar kapal.
 4. **Transduksi Sinyal:** Saat kupula bengkok, sel-sel rambut di bawahnya juga ikut membengkok.
-   - Jika sel rambut membengkok ke arah **kinosillium** (rambut tertinggi), sel akan mengalami **depolarisasi** (meningkatkan frekuensi sinyal saraf).
-   - Jika membengkok menjauhi kinosillium, sel mengalami **hiperpolarisasi** (menurunkan frekuensi sinyal).
+   - Jika sel rambut membengkok ke arah **kinosilium** (rambut tertinggi), sel akan mengalami **depolarisasi** (meningkatkan frekuensi sinyal saraf).
+   - Jika membengkok menjauhi kinosilium, sel mengalami **hiperpolarisasi** (menurunkan frekuensi sinyal).
 
 > [!NOTE]
 > **Dinamika Putaran Konstan:** Apa yang terjadi jika tubuh berputar terus-menerus dengan kecepatan konstan? Cairan endolimfe akhirnya akan ikut bergerak dengan kecepatan yang sama dengan saluran, kupula kembali ke posisi tegak, dan sensasi berputar pun mereda. Inilah alasan mengapa pilot sering mengalami disorientasi spasial saat terbang di dalam kabut tebal.
 
 ### 4. Dinamika Fluida dan Matematika Rotasi
 
-Secara matematis, respon kanalis semisirkularis terhadap akselerasi sudut ($\alpha$) dapat digambarkan melalui hukum kedua Newton untuk rotasi. Besarnya torsi ($\tau$) yang bekerja pada endolimfe sebanding dengan inersia cairan dan akselerasi kepala:
+Secara matematis, respons kanalis semisirkularis terhadap akselerasi sudut ($\alpha$) dapat digambarkan melalui hukum kedua Newton untuk rotasi. Besarnya torsi ($\tau$) yang bekerja pada endolimfe sebanding dengan inersia cairan dan akselerasi kepala:
 
 <div>
 $$
@@ -50,12 +50,12 @@ $$
 $$
 </div>
 
-Dimana:
+Keterangan:
 
 - $I$ adalah momen inersia endolimfe.
 - $\alpha$ adalah akselerasi sudut kepala ($\frac{\text{rad}}{\text{s}^2}$).
 
-Sistem ini bekerja paling efektif untuk mendeteksi **akselerasi sudut** (perubahan kecepatan putar), bukan kecepatan konstan. Sinyal yang dikirim ke otak mewakili:
+Sistem ini bekerja paling efektif untuk mendeteksi **akselerasi sudut** (perubahan kecepatan putar), bukan kecepatan konstan. Namun, dalam rentang gerak tertentu, sinyal yang dikirim ke otak mewakili:
 
 <div>
 $$

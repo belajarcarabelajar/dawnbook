@@ -15,7 +15,7 @@ Berbeda dengan saraf motorik yang badan selnya berada di dalam kornu anterior su
 
 #### Ganglion Scarpa (Ganglion Vestibulare)
 
-Terletak di dalam saluran telinga dalam (*Internal Auditory Canal*), Ganglion Scarpa berfungsi sebagai stasiun relai pertama bagi sinyal keseimbangan. Di lokasi ini, ribuan badan sel neuron bipolar berkumpul sebelum juluran aksonnya bergabung membentuk berkas saraf vestibular utama.
+Terletak di dalam meatus akustikus internus (*Internal Auditory Canal*), Ganglion Scarpa merupakan tempat berkumpulnya badan sel neuron aferen primer vestibular. Di lokasi ini, ribuan badan sel neuron bipolar berkumpul sebelum juluran aksonnya bergabung membentuk berkas saraf vestibular utama.
 
 > **Analogi:** Jika sel rambut diibaratkan sebagai sensor di ujung jari, maka Ganglion Scarpa adalah terminal penghubung di pergelangan tangan sebelum seluruh kabel menyatu menjadi kabel utama menuju komputer sentral.
 
@@ -50,15 +50,15 @@ Saat kepala mengalami pergerakan atau akselerasi, frekuensi tembakan dasar akan 
 - **Eksitasi (Defleksi stereosilia mendekati kinosilium):** Frekuensi meningkat ($> 100\text{ Hz}$).
 - **Inhibisi (Defleksi stereosilia menjauhi kinosilium):** Frekuensi menurun ($< 70\text{ Hz}$).
 
-> **Refleksi Konseptual:** Mengapa sistem vestibular memerlukan sinyal tonik konstan saat kepala diam? Adanya frekuensi dasar memungkinkan sistem saraf mendeteksi perubahan dinamis ke dua arah secara simetris, baik peningkatan eksitasi maupun penurunan inhibisi. Mekanisme ini memberikan resolusi temporal dan sensitivitas yang jauh lebih tinggi dibandingkan sistem ambang yang hanya aktif saat timbul stimulus.
+> **Refleksi Konseptual:** Mengapa sistem vestibular memerlukan sinyal tonik konstan saat kepala diam? Adanya frekuensi dasar memungkinkan sistem saraf mendeteksi perubahan dinamis ke dua arah secara simetris, baik peningkatan frekuensi (eksitasi) maupun penurunan frekuensi (inhibisi). Mekanisme ini memberikan resolusi temporal dan sensitivitas yang jauh lebih tinggi dibandingkan sistem ambang yang hanya aktif saat timbul stimulus.
 
 ### 4. Serat Saraf Reguler vs. Irreguler
 
 Serat aferen saraf vestibular diklasifikasikan menjadi dua populasi fungsional berdasarkan keteraturan interval antarpotensial aksi:
 
 1. **Serat Reguler (*Regular Afferents*):**
-   - Menghantarkan potensial aksi dengan interval antar-denyut yang sangat konstan dan periodik.
-   - Berperan utama dalam mengkodekan **kecepatan sudut dan linier** secara stabil dan berkelanjutan.
+   - Menghantarkan potensial aksi dengan interval antardenyut yang sangat konstan dan periodik.
+   - Berperan utama dalam mengodekan **kecepatan sudut dan akselerasi linier** secara stabil dan berkelanjutan.
    - Merupakan komponen penopang utama kestabilan Refleks Vestibulo-Okular (VOR) selama pergerakan kepala normal.
 2. **Serat Irreguler (*Irregular Afferents*):**
    - Memiliki variabilitas interval tembakan yang tinggi (*laju pelepasan dinamis*).
@@ -85,7 +85,7 @@ Di persimpangan batang otak ini, serat aferen primer memasuki **Kompleks Nukleus
 
 - Kompresi pada serat **reguler** menurunkan ketepatan penguncian fovea selama gerakan kepala, menimbulkan osilopsia halus.
 - Kompresi pada serat **irreguler** mengganggu refleks protektif postural cepat terhadap gangguan keseimbangan eksternal.
-- Karena serat vestibular dan koklear berjalan dalam selubung perineural yang sama, penurunan pendengaran sensorineural nada tinggi dan tinitus ipsilateral kerap menyertai disfungsi vestibular.
+- Karena serat koklear berjalan berdampingan dengan serat vestibular di meatus akustikus internus, penurunan pendengaran sensorineural nada tinggi dan tinitus ipsilateral kerap menyertai disfungsi vestibular.
 
 ### Ringkasan Alur Informasi
 
@@ -108,4 +108,4 @@ $$
 - Informasi vestibular dikodekan melalui **modulasi frekuensi tembakan**, bukan melalui perubahan amplitudo potensial aksi.
 - Sistem beroperasi menggunakan **tonus elektrokimiawi dasar** (pelepasan istirahat kontinu), yang menjamin sensitivitas deteksi gerak 360 derajat dalam segala orientasi ruang.
 
-> **Wawasan Penting:** Serat saraf vestibular memiliki kecepatan transmisi dan laju pelepasan kontinu yang tinggi. Kecepatan transmisi sub-milidetik ini esensial karena penyesuaian refleksif terhadap gravitasi dan stabilitas visual harus terjadi sebelum persepsi sadar terbentuk di korteks serebri.
+> **Wawasan Penting:** Serat saraf vestibular memiliki kecepatan transmisi dan laju pelepasan kontinu yang tinggi. Kecepatan transmisi setinggi ini esensial karena penyesuaian refleksif terhadap gravitasi dan stabilitas visual harus terjadi sebelum persepsi sadar terbentuk di korteks serebri.

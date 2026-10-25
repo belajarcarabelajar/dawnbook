@@ -8,7 +8,7 @@ Inilah sistem "pilot otomatis" tubuh manusia. **Jalur Vestibulo-Spinal** adalah 
 
 Bayangkan tubuh manusia seperti sebuah boneka marionet. Namun, alih-alih digerakkan oleh tangan manusia, tali-tali yang mengikat otot dikendalikan oleh sistem pengolah sinyal di batang otak (Nukleus Vestibularis), yang menerima data waktu nyata (*real-time*) dari sensor kemiringan (labirin vestibular).
 
-Ketika tubuh miring ke kiri, pusat kendali ini menarik serat pada otot-otot sisi kanan agar tubuh tidak jatuh. Proses ini berlangsung sangat cepat, di bawah ambang kesadaran kita, sehingga dinamakan sebagai **kontrol postur otomatis**.
+Ketika tubuh miring ke kiri, pusat kendali ini menarik serat pada otot-otot sisi kiri agar tubuh tidak jatuh. Proses ini berlangsung sangat cepat, di bawah ambang kesadaran kita, sehingga dinamakan **kontrol postur otomatis**.
 
 ### 2. Dua Jalur Utama Lateral dan Medial
 
@@ -67,14 +67,14 @@ Mekanisme ini bekerja saat tubuh hendak menginisiasi suatu gerakan volunter tere
 
 #### Berjalan di Atas Geladak Kapal
 
-Saat geladak kapal miring ke kanan, cairan endolimf di dalam organ telinga dalam bergeser. Secara refleks, Traktus Vestibulospinalis Lateralis ($\text{LVST}$) meningkatkan kontraksi otot ekstensor pada tungkai kanan. Kaki kanan seketika memberikan dorongan kompensasi yang lebih kokoh ke permukaan geladak. Seluruh mekanisme kompensasi ini berlangsung otomatis tanpa memerlukan instruksi sadar dari korteks serebri.
+Saat geladak kapal miring ke kanan, otoconia di dalam organ otolit bergeser. Secara refleks, Traktus Vestibulospinalis Lateralis ($\text{LVST}$) meningkatkan kontraksi otot ekstensor pada tungkai kanan. Kaki kanan seketika memberikan dorongan kompensasi yang lebih kokoh ke permukaan geladak. Seluruh mekanisme kompensasi ini berlangsung otomatis tanpa memerlukan instruksi sadar dari korteks serebri.
 
 #### Rigiditas Deserebrasi
 
 Pada kasus trauma kepala atau lesi struktural berat di batang otak bagian atas, pengaruh inhibisi dari korteks serebri terputus sementara jalur vestibulo-spinal di batang otak bawah tetap intak. Kondisi ini memicu manifestasi klinis yang dikenal sebagai **rigiditas deserebrasi** (*decerebrate posturing*).
 
 - **Gejala Klinis:** Ekstremitas atas dan bawah berada dalam postur ekstensi kaku maksimal dengan rotasi internal.
-- **Patofisiologi:** Hilangnya kontrol inhibisi desenden dari korteks menyebabkan traktus vestibulospinalis lateral memicu pelepasan impuls eksitatorik secara tidak terkendali ke neuron motorik otot ekstensor.
+- **Patofisiologi:** Hilangnya kontrol inhibisi desenden dari korteks menyebabkan Traktus Vestibulospinalis Lateralis memicu pelepasan impuls eksitatorik secara tidak terkendali ke neuron motorik otot ekstensor.
 
 ### 6. Perbandingan LVST dan MVST
 
@@ -82,7 +82,7 @@ Pada kasus trauma kepala atau lesi struktural berat di batang otak bagian atas, 
 | :--- | :--- | :--- |
 | **Fokus Anatomis** | Seluruh tubuh (terutama tungkai bawah) | Kepala dan leher |
 | **Tujuan Fungsional** | Keseimbangan postur tubuh total | Stabilisasi posisi kepala dan fiksasi visual |
-| **Aksi Muskular** | Memperkuat tonus otot ekstensor antigravitasi | Mengoordinasikan otot leher dan servikal |
+| **Aksi Muskular** | Memperkuat tonus otot ekstensor antigravitasi | Mengoordinasikan otot leher dan punggung atas |
 | **Analogi Mekanis** | Tiang penyangga struktur bangunan | Penyeimbang elektronik (*gimbal*) kamera |
 
 Bayangkan jika transmisi sinyal pada jalur ini mengalami keterlambatan (*delay*) beberapa milidetik saja: koordinasi motorik akan goyah, langkah kaki kehilangan presisi, dan kemampuan mempertahankan keseimbangan dinamis akan terganggu.
