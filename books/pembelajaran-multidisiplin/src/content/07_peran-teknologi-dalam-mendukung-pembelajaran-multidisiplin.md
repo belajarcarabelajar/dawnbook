@@ -13,7 +13,7 @@ Platform ini menyediakan beragam fitur penting untuk menunjang kerja sama. Fitur
 Beberapa contoh platform yang sering digunakan antara lain:
 - **Microsoft Teams dan Google Workspace** sebagai ekosistem kolaborasi dokumen dan komunikasi terpadu.
 - **Slack** yang berfokus pada saluran obrolan bertopik khusus.
-- **Miro dan Jamboard** untuk kebutuhan pemetaan ide visual secara kolaboratif.
+- **Miro** untuk kebutuhan pemetaan ide visual secara kolaboratif.
 - **GitHub dan GitLab** yang efektif untuk melacak versi kode (*version control*) serta dokumentasi proyek teknis lintas disiplin.
 
 > Kolaborasi adalah inti pembelajaran multidisiplin, dan platform daring menjadi sarana untuk bertukar ide.
@@ -51,7 +51,7 @@ Simulasi interaktif hadir dalam berbagai bentuk sesuai kebutuhan analisis:
 - **Simulasi Sosial & Ekonomi:** Membantu memprediksi dampak kebijakan atau dinamika pasar.
 - **Teknologi VR/AR (*Virtual Reality/Augmented Reality*):** Menghadirkan simulasi imersif, mulai dari rekonstruksi situs arkeologi hingga pelatihan bedah medis.
 
-Untuk platformnya, **PhET Interactive Simulations** menyediakan simulasi gratis untuk sains dan matematika dasar, sedangkan **Anylogic** atau **Simulink** digunakan untuk pemodelan sistem industri yang kompleks. Ada juga **virtual labs** dan berbagai **serious games** yang dirancang khusus untuk memadukan psikologi belajar dengan materi subjek tertentu.
+Untuk platformnya, **PhET Interactive Simulations** menyediakan simulasi gratis untuk sains dan matematika dasar, sedangkan **AnyLogic** atau **Simulink** digunakan untuk pemodelan sistem industri yang kompleks. Ada juga **virtual labs** dan berbagai **serious games** yang dirancang khusus untuk memadukan psikologi belajar dengan materi subjek tertentu.
 
 Sebagai contoh, seorang insinyur, perencana kota, dan sosiolog dapat duduk bersama menggunakan simulasi lalu lintas kota untuk memproyeksikan bagaimana jalan baru akan memengaruhi emisi gas buang dan interaksi sosial masyarakat sekitar. Di bidang lain, mahasiswa kedokteran dan teknik dapat merancang alat bedah baru lewat simulasi bedah virtual sebelum benar-benar memproduksinya.
 
@@ -80,7 +80,7 @@ Artificial Intelligence (AI) atau kecerdasan buatan dapat berperan sebagai asist
 
 Dalam pembelajaran multidisiplin, penerapan AI dapat dirangkum ke dalam beberapa fungsi utama:
 - **Sistem Rekomendasi Pintar:** Menyarankan artikel, buku, atau kursus lintas bidang yang relevan berdasarkan minat dan riwayat belajar kamu.
-- **Natural Language Processing (NLP):** Menganalisis teks ilmiah untuk menemukan konsep kunci, menerjemahkan istilah teknis antar-bidang, serta mendeteksi hubungan antar-entitas (misalnya korelasi antara inovasi teknologi dan dampak sosial).
+- **Natural Language Processing (NLP):** Menganalisis teks ilmiah untuk menemukan konsep kunci, menerjemahkan istilah teknis antarbidang, serta mendeteksi hubungan antarentitas (misalnya korelasi antara inovasi teknologi dan dampak sosial).
 - **Asisten Pembelajaran & Chatbot:** Menjawab pertanyaan lintas disiplin secara instan dan menjelaskan teori rumit secara sederhana.
 - **Analisis Data Lintas Bidang:** Menggunakan algoritma *machine learning* untuk mendeteksi pola pada data heterogen skala besar.
 - **Personalisasi Jalur Belajar:** Menyesuaikan materi dan tantangan berdasarkan tingkat pemahaman individu kamu.
@@ -100,4 +100,4 @@ Mari kita lihat contoh sederhana bagaimana AI menggunakan pemrosesan teks dasar 
 
 Hasil langkah terakhir justru kosong: tidak ada satu kata pun yang sama di kedua daftar. Dalam contoh ini, penyaringan istilah yang sesederhana ini belum menemukan titik temu antara biologi dan ilmu material. Sistem AI yang matang akan menggunakan pemahaman semantik yang jauh lebih dalam untuk memetakan hubungan tersebut secara otomatis.
 
-Dalam skala yang lebih luas, teknologi seperti **IBM Watson Health** telah menggunakan AI untuk menyintesis data klinis dengan literatur riset medis guna memandu dokter mengambil tindakan medis. Demikian pula dengan platform pembelajaran modern yang memanfaatkan AI untuk memetakan minat dan menyusun rekomendasi mata kuliah yang saling melengkapi bagi penggunanya.
+Dalam skala yang lebih luas, teknologi seperti **IBM Watson Health** pernah menggunakan AI untuk menyintesis data klinis dengan literatur riset medis guna memandu dokter mengambil tindakan medis. Demikian pula dengan platform pembelajaran modern yang memanfaatkan AI untuk memetakan minat dan menyusun rekomendasi mata kuliah yang saling melengkapi bagi penggunanya.

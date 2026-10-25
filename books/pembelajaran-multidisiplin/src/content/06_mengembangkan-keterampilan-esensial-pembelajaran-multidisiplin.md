@@ -20,9 +20,9 @@ Untuk mengasah pemikiran kritis, ada beberapa langkah praktis yang bisa kamu ter
 
 ### 2. Kemampuan Komunikasi yang Efektif Lintas Disiplin
 
-Komunikasi yang efektif adalah jembatan yang menghubungkan berbagai disiplin ilmu. Dalam lingkungan multidisiplin, kamu akan berinteraksi dengan orang-orang yang memiliki latar belakang, istilah teknis, dan cara berpikir yang berbeda. Kemampuan menyampaikan gagasan dengan jelas dan memahami sudut pandang orang lain penting.
+Komunikasi yang efektif adalah jembatan yang menghubungkan berbagai disiplin ilmu. Dalam lingkungan multidisiplin, kamu akan berinteraksi dengan orang-orang yang memiliki latar belakang, istilah teknis, dan cara berpikir yang berbeda. Kemampuan menyampaikan gagasan dengan jelas dan memahami sudut pandang orang lain menjadi penting.
 
-Menjalin komunikasi antar-disiplin tentu bukan tanpa hambatan. Beberapa tantangan yang sering muncul antara lain:
+Menjalin komunikasi antardisiplin tentu bukan tanpa hambatan. Beberapa tantangan yang sering muncul antara lain:
 
 1. **Tembok jargon:** Setiap bidang studi memiliki istilah teknisnya sendiri yang kerap membingungkan orang luar.
 2. Perbedaan kerangka berpikir membuat suatu konsep yang sama bisa diartikan berbeda atau memicu dampak yang bertolak belakang di bidang lain.
@@ -47,7 +47,7 @@ Mengapa empati penting dalam pembelajaran multidisiplin?
 * **Peredam konflik:** Memahami akar perbedaan sudut pandang memudahkanmu menengahi perselisihan dan mencari jalan tengah.
 * Sudut pandang yang lebih kaya akan membantumu melihat masalah dari berbagai kacamata, sehingga keputusan yang dihasilkan jadi lebih tepat sasaran.
 
-Empati intelektual ini dapat dilatih melalui beberapa langkah nyata. Mulailah dengan memperbanyak referensi dari luar bidangmu, baik lewat membaca jurnal, mengikuti seminar, maupun menyimak diskusi lintas ilmu. Ikut serta dalam proyek kolaboratif juga memaksa kita untuk mendengar dan menyelaraskan ide-ide yang beragam. Selain itu, sempatkan berdiskusi mendalam dengan para praktisi dari bidang lain guna memahami cara kerja dan tantangan yang mereka hadapi. Terakhir, lakukan refleksi diri untuk menyadari apakah sudut pandang pribadimu selama ini tertutup oleh bias latar belakang pendidikanmu sendiri.
+Empati intelektual ini dapat dilatih melalui beberapa langkah nyata. Mulailah dengan memperbanyak referensi dari luar bidangmu, baik lewat membaca jurnal, mengikuti seminar, maupun menyimak diskusi lintas ilmu. Ikut serta dalam proyek kolaboratif juga memaksamu untuk mendengar dan menyelaraskan ide-ide yang beragam. Selain itu, sempatkan berdiskusi mendalam dengan para praktisi dari bidang lain guna memahami cara kerja dan tantangan yang mereka hadapi. Terakhir, lakukan refleksi diri untuk menyadari apakah sudut pandang pribadimu selama ini tertutup oleh bias latar belakang pendidikanmu sendiri.
 
 > **Penting:** Empati di sini berarti mengakui keabsahan perspektif lain, meskipun kamu tidak sepenuhnya setuju. Ini adalah tentang menghormati keragaman intelektual.
 
@@ -57,7 +57,7 @@ Sintesis adalah proses menggabungkan informasi yang berbeda untuk menciptakan pe
 
 Ada beberapa alasan mengapa kemampuan menyatukan informasi ini menjadi penting:
 
-- **Memperoleh gambaran utuh:** Menggabungkan wawasan dari berbagai ilmu membantu kita melihat suatu masalah dengan lebih lengkap dan mendalam.
+- **Memperoleh gambaran utuh:** Menggabungkan wawasan dari berbagai ilmu membantumu melihat suatu masalah dengan lebih lengkap dan mendalam.
 - Kamu bisa mendeteksi keterkaitan atau pola tersembunyi yang tidak akan kelihatan jika masing-masing bidang ilmu dipelajari secara terpisah.
 - **Memantik inovasi:** Gagasan baru sering kali lahir saat ide dari satu bidang diterapkan pada bidang yang sama sekali berbeda.
 - Integrasi berbagai cabang ilmu memungkinkanmu merumuskan solusi yang lebih segar, kreatif, dan berdaya guna.

@@ -30,7 +30,7 @@ Pertama, tujuan tersebut harus **menekankan integrasi**. Sebagai contoh, peserta
 
 Selain itu, tujuan pembelajaran juga perlu:
 - **Mendorong Pemikiran Kritis Lintas Disiplin:** Misalnya dengan mengevaluasi teori dan metode dari berbagai disiplin untuk mengembangkan kerangka kerja analitis yang baru.
-- **Mengembangkan Keterampilan Komunikasi:** Memampukan mahasiswa untuk berkomunikasi secara efektif dengan profesional dari latar belakang disiplin yang berbeda.
+- **Mengembangkan Keterampilan Komunikasi:** Memampukan peserta didik untuk berkomunikasi secara efektif dengan profesional dari latar belakang disiplin yang berbeda.
 
 #### 2.2. Pemilihan Konten yang Relevan
 

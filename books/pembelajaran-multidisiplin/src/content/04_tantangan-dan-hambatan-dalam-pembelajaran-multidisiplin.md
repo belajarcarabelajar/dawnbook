@@ -10,15 +10,15 @@ Setiap disiplin ilmu memiliki struktur pengetahuan, kerangka kerja, dan metodolo
 
 Selain itu, ada dilema antara mempertahankan kedalaman pengetahuan dalam setiap disiplin dan mencapai keluasan cakupan multidisiplin (kedalaman vs. keluasan). Terkadang, fokus pada integrasi dapat mengorbankan pemahaman mendalam pada area spesifik, atau sebaliknya, terlalu fokus pada kedalaman membuat integrasi menjadi dangkal.
 
-Tantangan ini diperberat oleh kurikulum tradisional yang seringkali sudah padat dengan materi inti dari satu disiplin. Menambahkan atau mengintegrasikan materi dari disiplin lain memerlukan perombakan kurikulum secara besar-besaran, yang seringkali sulit dilakukan karena kendala waktu, sumber daya, dan kebijakan.
+Tantangan ini diperberat oleh kurikulum tradisional yang sering kali sudah padat dengan materi inti dari satu disiplin. Menambahkan atau mengintegrasikan materi dari disiplin lain memerlukan perombakan kurikulum secara besar-besaran, yang sering kali sulit dilakukan karena kendala waktu, sumber daya, dan kebijakan.
 
 ### 2. Perbedaan Terminologi dan Bahasa
 
 Setiap disiplin ilmu memiliki "bahasanya" sendiri, termasuk terminologi, jargon, dan konsep spesifik yang mungkin memiliki arti berbeda, atau bahkan bertentangan, di antara disiplin ilmu.
 
-Ambiguitas konseptual menjadi salah satu ganjalan utama. Kata atau frasa yang sama dapat memiliki makna yang sangat berbeda di berbagai bidang. Sebagai contoh, istilah "model" dalam ilmu komputer merujuk pada representasi matematis atau algoritmik, sementara dalam fashion, "model" adalah orang yang memperagakan pakaian. Ketidakjelasan ini dapat dengan mudah memicu kebingungan dan miskomunikasi.
+Ambiguitas konseptual menjadi salah satu ganjalan utama. Kata atau frasa yang sama dapat memiliki makna yang sangat berbeda di berbagai bidang. Sebagai contoh, istilah "model" dalam ilmu komputer merujuk pada representasi matematis atau algoritmik, sementara dalam dunia mode, "model" adalah orang yang memperagakan pakaian. Ketidakjelasan ini dapat dengan mudah memicu kebingungan dan miskomunikasi.
 
-Akibatnya, hambatan komunikasi pun muncul. Pengajar atau mahasiswa yang terbiasa dengan satu disiplin mungkin kesulitan memahami atau mengartikulasikan ide-ide memakai istilah dari disiplin lain, sehingga menghambat kolaborasi yang efektif. Hal ini juga berimbas pada penulisan laporan atau presentasi multidisiplin, di mana menyusun bahasa yang mudah dipahami oleh audiens berlatar belakang beragam tanpa harus terus menerus mendefinisikan istilah baru adalah pekerjaan yang menantang.
+Akibatnya, hambatan komunikasi pun muncul. Pengajar atau mahasiswa yang terbiasa dengan satu disiplin mungkin kesulitan memahami atau mengartikulasikan ide-ide memakai istilah dari disiplin lain, sehingga menghambat kolaborasi yang efektif. Hal ini juga berimbas pada penulisan laporan atau presentasi multidisiplin, di mana menyusun bahasa yang mudah dipahami oleh audiens berlatar belakang beragam tanpa harus terus-menerus mendefinisikan istilah baru adalah pekerjaan yang menantang.
 
 > **Penting:** Menjembatani perbedaan terminologi memerlukan upaya sadar untuk menciptakan "kosakata bersama" atau glosarium yang menjelaskan konsep kunci dari setiap disiplin dalam konteks proyek multidisiplin.
 
@@ -34,7 +34,7 @@ Dampaknya, mereka menjadi enggan mengadopsi perspektif baru. Resistensi ini memi
 
 Menerapkan pembelajaran multidisiplin sering kali memerlukan perubahan besar dalam metodologi pengajaran, desain kurikulum, dan struktur lembaga, yang secara alami memicu resistensi.
 
-Banyak pendidik enggan keluar dari zona nyaman tradisional mereka. Mereka sudah terbiasa dengan materi yang dikuasai dan cara mengajar lama. Beralih ke pendekatan multidisiplin memaksa mereka mempelajari hal-hal baru di luar keahliannya, berkolaborasi erat dengan rekan dari departemen lain, serta menerapkan metode pembelajaran yang berbeda, semua itu membutuhkan waktu dan energi yang tidak sedikit.
+Banyak pendidik enggan keluar dari zona nyaman tradisional mereka. Mereka sudah terbiasa dengan materi yang dikuasai dan cara mengajar lama. Beralih ke pendekatan multidisiplin memaksa mereka mempelajari hal-hal baru di luar keahliannya, berkolaborasi erat dengan rekan dari departemen lain, serta menerapkan metode pembelajaran yang berbeda; semua itu membutuhkan waktu dan energi yang tidak sedikit.
 
 Keadaan ini diperparah oleh:
 - **Kurangnya pelatihan dan dukungan:** Tanpa adanya bimbingan praktis mengenai cara mengajar lintas disiplin atau dukungan kebijakan yang jelas dari kampus, para pendidik akan merasa kebingungan dan tidak siap.

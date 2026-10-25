@@ -16,13 +16,13 @@ Langkah inovatif ini terbukti berhasil melahirkan lulusan yang tidak terkurung d
 
 Pada tahun 2023, kolaborasi lintas ilmu di UMB menghasilkan program pelatihan terjangkau tentang terapi psikedelik. Tiga fakultas (Pekerjaan Sosial, Farmasi, dan Keperawatan) bekerja sama menyusun rangkaian edukasi interprofesional bertajuk *"Multidisciplinary Perspectives on Psychedelic Science and Medicine"*. Pembahasan di dalamnya membentang dari aspek psikofarmakologi, uji klinis, etika profesi, aksesibilitas, hingga strategi meminimalkan risiko (*harm reduction*).
 
-Inisiatif tersebut mendapat sambutan hangat dengan partisipasi lebih dari 200 mahasiswa serta praktisi berlisensi. Angka ini menegaskan besarnya kebutuhan edukasi lintas disiplin pada sektor yang sedang berkembang pesat ini. Dampak jangka panjangnya, keberhasilan program awal tersebut berhasil mengamankan pendanaan hibah untuk membangun infrastruktur kurikulum interprofesional yang mapan di bidang terapi psikedelik.
+Inisiatif tersebut mendapat sambutan hangat dengan partisipasi lebih dari 200 mahasiswa serta praktisi berlisensi. Angka ini menegaskan besarnya kebutuhan edukasi lintas disiplin pada sektor yang sedang berkembang pesat ini. Dalam jangka panjang, keberhasilan program awal tersebut mengamankan pendanaan hibah untuk membangun infrastruktur kurikulum interprofesional yang mapan di bidang terapi psikedelik.
 
 #### c. Kebijakan Pendidikan Nasional (NEP) 2020 di India
 
-Pemerintah India meluncurkan Kebijakan Pendidikan Nasional (NEP) 2020 untuk meruntuhkan sekat-sekat akademik konvensional (*siloed learning*). Kebijakan ini memberikan kebebasan bagi mahasiswa untuk memadukan berbagai cabang ilmu secara kreatif. Kampus-kampus teknik terkemuka seperti *Indian Institutes of Technology* (IIT) dan BITS Pilani bahkan mendedikasikan hingga separuh dari porsi kurikulum mereka untuk disiplin ilmu non-teknik, demi mendorong perkembangan mahasiswa secara menyeluruh.
+Pemerintah India meluncurkan Kebijakan Pendidikan Nasional (NEP) 2020 untuk meruntuhkan sekat-sekat akademik konvensional (*siloed learning*). Kebijakan ini memberikan kebebasan bagi mahasiswa untuk memadukan berbagai cabang ilmu secara kreatif. Kampus-kampus teknik terkemuka seperti *Indian Institutes of Technology* (IIT) dan BITS Pilani bahkan mendedikasikan sebagian porsi kurikulum mereka untuk disiplin ilmu non-teknik, demi mendorong perkembangan mahasiswa secara menyeluruh.
 
-Implementasi kebijakan ini membawa dampak positif yang besar. Mahasiswa merasakan kemerdekaan belajar yang lebih luas, yang secara langsung mempercepat kemampuan mereka dalam memecahkan masalah kompleks serta berpikir kritis. Pola pengajaran yang cair ini terbukti efektif dalam memupuk kerja sama tim, keterampilan berkomunikasi, dan pemahaman dunia yang tidak lagi terkotak-kotak.
+Implementasi kebijakan ini membawa dampak positif yang besar. Mahasiswa merasakan kemerdekaan belajar yang lebih luas, yang mempercepat perkembangan kemampuan mereka dalam memecahkan masalah kompleks serta berpikir kritis. Pola pengajaran yang cair ini terbukti efektif dalam memupuk kerja sama tim, keterampilan berkomunikasi, dan pemahaman dunia yang tidak lagi terkotak-kotak.
 
 ### 2. Riset Ilmiah
 
@@ -36,15 +36,15 @@ Pengalaman dari proyek-proyek ini menunjukkan bahwa riset lintas disiplin paling
 
 #### b. Proyek Genom Manusia (Human Genome Project)
 
-Sebagai salah satu kerja sama ilmiah paling bersejarah, *Human Genome Project* berhasil memetakan serta mengurutkan seluruh genom manusia. Keberhasilan proyek besar ini ditopang oleh kolaborasi lintas ilmu, mulai dari biologi molekuler, genetika, epidemiologi, teknologi genomik, bioetika, hingga bioinformatika.
+Sebagai salah satu kerja sama ilmiah paling bersejarah, *Human Genome Project* berhasil memetakan serta mengurutkan sebagian besar genom manusia. Keberhasilan proyek besar ini ditopang oleh kolaborasi lintas ilmu, mulai dari biologi molekuler, genetika, epidemiologi, teknologi genomik, bioetika, hingga bioinformatika.
 
 Rampung pada tahun 2003, proyek ini menghasilkan data dalam jumlah besar yang membuka jalan bagi deteksi variasi genetik serta mekanisme penyakit di tingkat seluler. Proyek ini juga meletakkan fondasi bagi pengembangan pengobatan personal (*personalized medicine*). Dalam prosesnya, bidang bioinformatika (perpaduan biologi dan ilmu komputer) memegang peran penting dalam mengolah data genomik tersebut.
 
 #### c. Riset Kanker
 
-Upaya memerangi kanker menuntut kerja sama multidisipliner yang luas, yang memadukan keahlian onkologi, biologi molekuler, imunologi, patologi, farmakologi, ilmu perilaku, radiologi, hingga epidemiologi. Jaringan kerja sama global seperti *The Cancer Genome Atlas* (TCGA) dan *International Cancer Genome Consortium* (ICGC) menjadi wadah bertemunya para ilmuwan dari berbagai institusi di penjuru dunia.
+Upaya memerangi kanker menuntut kerja sama multidisiplin yang luas, yang memadukan keahlian onkologi, biologi molekuler, imunologi, patologi, farmakologi, ilmu perilaku, radiologi, hingga epidemiologi. Jaringan kerja sama global seperti *The Cancer Genome Atlas* (TCGA) dan *International Cancer Genome Consortium* (ICGC) menjadi wadah bertemunya para ilmuwan dari berbagai institusi di penjuru dunia.
 
-Integrasi keilmuan ini mempercepat inovasi dalam penanganan kanker. Hasilnya terlihat jelas pada metode diagnosis yang lebih dini dan akurat, perancangan terapi terapeutik yang spesifik bagi tiap pasien, serta peningkatan angka harapan hidup pasien secara nyata.
+Integrasi keilmuan ini mempercepat inovasi dalam penanganan kanker. Hasilnya terlihat jelas pada metode diagnosis yang lebih dini dan akurat, perancangan terapi yang spesifik bagi tiap pasien, serta peningkatan angka harapan hidup pasien secara nyata.
 
 ### 3. Pengembangan Produk Industri
 
@@ -69,7 +69,7 @@ Melalui pendekatan lintas disiplin ini, beras analog uwi berhasil diproduksi den
 
 #### c. Pengembangan Produk Konsumen Lintas Fungsi
 
-Pembuatan produk konsumen modern kini mengandalkan kolaborasi erat tim lintas fungsi yang terdiri dari desainer, pengembang produk, serta tim pemasaran. Dengan memanfaatkan peranti pemodelan digital seperti *Computer-Aided Design* (CAD) dan menerapkan metodologi kerja *agile*, mereka memprioritaskan komunikasi langsung, pengembangan berulang (*iterative*), serta pembuatan prototipe cepat.
+Pembuatan produk konsumen modern kini mengandalkan kolaborasi erat tim lintas fungsi yang terdiri atas desainer, pengembang produk, serta tim pemasaran. Dengan memanfaatkan peranti pemodelan digital seperti *Computer-Aided Design* (CAD) dan menerapkan metodologi kerja *agile*, mereka memprioritaskan komunikasi langsung, pengembangan berulang (*iterative*), serta pembuatan prototipe cepat.
 
 Integrasi kerja ini memberikan perspektif menyeluruh terhadap seluruh rantai manufaktur. Perusahaan dapat mengidentifikasi kendala produksi lebih awal, mengoptimalkan efisiensi kerja, serta mengurangi sisa bahan produksi. Dampaknya nyata: waktu rilis produk ke pasar (*time-to-market*) dapat dipercepat hingga 20% dibanding metode konvensional, sembari menghemat biaya operasional dan mendongkrak kualitas akhir produk.
 
@@ -79,7 +79,7 @@ Masalah sosial jarang sekali berdiri sendiri. Karena memiliki keterkaitan erat d
 
 #### a. Inisiatif Positive Deviance di Vietnam (Mengatasi Malnutrisi Anak)
 
-Pada tahun 1990, Jerry Sternin bersama Monique Sternin mengemban misi dari pemerintah Vietnam untuk mengatasi problem gizi buruk anak di sepuluh ribu desa. Alih-alih mendatangkan bantuan pangan instan dari luar, mereka menerapkan konsep *Positive Deviance*. Pendekatan ini berfokus mencari keluarga miskin di komunitas setempat yang anak-anaknya justru tumbuh sehat dan bebas dari gizi buruk, yaitu mereka yang menunjukkan perilaku "menyimpang secara positif".
+Pada tahun 1990, Jerry Sternin bersama Monique Sternin mengemban misi dari pemerintah Vietnam untuk mengatasi problem gizi buruk anak. Alih-alih mendatangkan bantuan pangan instan dari luar, mereka menerapkan konsep *Positive Deviance*. Pendekatan ini berfokus mencari keluarga miskin di komunitas setempat yang anak-anaknya justru tumbuh sehat dan bebas dari gizi buruk, yaitu mereka yang menunjukkan perilaku "menyimpang secara positif".
 
 Setelah diamati, keluarga-keluarga ini ternyata mempraktikkan kebiasaan makan unik yang berbeda dengan warga lain, seperti menambahkan udang rawa, kepiting sawah, atau daun ubi ke dalam porsi makan anak, serta memberikan makanan dalam porsi kecil namun sering. Melalui transfer pengetahuan antarwarga, praktik lokal ini kemudian diadopsi secara luas oleh komunitas setempat. Metode pemecahan masalah yang berakar pada kearifan lokal ini sukses menurunkan angka malnutrisi secara berkelanjutan karena selaras dengan kemampuan dan budaya masyarakat.
 
@@ -99,7 +99,7 @@ Keberhasilan Kampung Flory tidak hanya mendongkrak perekonomian lokal dan mencip
 
 InnoCentive merupakan platform daring yang memfasilitasi organisasi, termasuk lembaga nirlaba seperti *Rockefeller Foundation*, untuk melempar berbagai tantangan sosial maupun ilmiah kepada publik. Melalui wadah ini, jaringan global yang beranggotakan ratusan ribu ilmuwan, insinyur, dan desainer dapat menyumbangkan keahlian mereka.
 
-Platform ini mencatat tingkat keberhasilan hingga 80% dalam merumuskan solusi bagi berbagai tantangan yang diajukan organisasi nirlaba. Salah satu pencapaian penting adalah penemuan metode teoretis untuk menyederhanakan rangkaian pengobatan tuberkulosis (TBC). Contoh ini menegaskan bahwa membuka ruang kolaborasi bagi kecerdasan kolektif lintas disiplin dari seluruh dunia dapat menghasilkan terobosan sosial yang besar.
+Platform ini mencatat tingkat keberhasilan hingga 80% dalam merumuskan solusi bagi berbagai tantangan yang diajukan organisasi nirlaba. Salah satu pencapaian penting adalah penemuan metode teoretis untuk menyederhanakan proses pembuatan kandidat obat tuberkulosis (TBC). Contoh ini menegaskan bahwa membuka ruang kolaborasi bagi kecerdasan kolektif lintas disiplin dari seluruh dunia dapat menghasilkan terobosan sosial yang besar.
 
 ### Benang Merah Keempat Bidang
 

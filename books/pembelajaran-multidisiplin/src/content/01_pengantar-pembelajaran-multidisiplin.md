@@ -1,16 +1,16 @@
 ## Pengantar Pembelajaran Multidisiplin
 
-Pembelajaran multidisiplin adalah pendekatan yang memadukan beberapa disiplin ilmu untuk memahami masalah dunia modern yang makin kompleks. Bagian ini akan menjadi fondasi bagi pemahaman kita tentang pembelajaran multidisiplin, mendefinisikannya, meninjau sejarah singkat perkembangannya, dan menjelaskan mengapa pendekatan ini semakin relevan dan mendasar di era kontemporer.
+Pembelajaran multidisiplin adalah pendekatan yang memadukan beberapa disiplin ilmu untuk memahami masalah dunia modern yang makin kompleks. Bagian ini akan menjadi fondasi bagi pemahaman kita tentang pembelajaran multidisiplin dengan mendefinisikannya, meninjau sejarah singkat perkembangannya, dan menjelaskan mengapa pendekatan ini semakin relevan dan mendasar di era kontemporer.
 
 ### Apa itu Pembelajaran Multidisiplin?
 
-**Pembelajaran multidisiplin** adalah pendekatan pendidikan yang mengintegrasikan berbagai disiplin ilmu untuk memahami dan memecahkan masalah kompleks. Dalam pendekatan ini, peserta didik diajak untuk melihat suatu topik atau permasalahan dari beragam perspektif keilmuan, sehingga memperoleh pemahaman yang lebih menyeluruh dan mendalam.
+**Pembelajaran multidisiplin** adalah pendekatan pendidikan yang menggabungkan berbagai disiplin ilmu untuk memahami dan memecahkan masalah kompleks. Dalam pendekatan ini, peserta didik diajak untuk melihat suatu topik atau permasalahan dari beragam perspektif keilmuan, sehingga memperoleh pemahaman yang lebih menyeluruh dan mendalam.
 
 Secara lebih spesifik:
 
 - **Melibatkan beberapa disiplin ilmu:** Pendekatan multidisiplin melibatkan minimal dua disiplin akademik untuk menyelesaikan suatu masalah tertentu secara bersama-sama, baik melalui pendidikan, penelitian, maupun pengabdian pada masyarakat.
 - **Memperkaya perspektif:** Topik pembelajaran diperkaya dengan menggabungkan perspektif dari berbagai disiplin ilmu.
-- **Bersifat aditif:** Dalam konteks multidisiplin, disiplin-disiplin ilmu bekerja secara paralel pada aspek-aspek berbeda dari suatu topik tanpa harus meleburkan batasan masing-masing disiplin. Komunikasi antar disiplin dapat terjadi, namun kolaborasi mungkin lebih terbatas dibandingkan pendekatan lain seperti interdisipliner. Ahli dari masing-masing bidang tetap berada dalam disiplinnya saat menggabungkan perspektif.
+- **Bersifat aditif:** Dalam konteks multidisiplin, disiplin-disiplin ilmu bekerja secara paralel pada aspek-aspek berbeda dari suatu topik tanpa harus meleburkan batasan masing-masing disiplin. Komunikasi antardisiplin dapat terjadi, namun kolaborasi mungkin lebih terbatas dibandingkan pendekatan lain seperti interdisipliner. Ahli dari masing-masing bidang tetap berada dalam disiplinnya saat menggabungkan perspektif.
 
 > **Bahan Pertimbangan:** Bagaimana membedakan antara "menggabungkan perspektif" dan "mengintegrasikan" perspektif dari berbagai disiplin ilmu? Perbedaan ini menjadi dasar untuk memahami nuansa antara multidisiplin dan interdisiplin yang akan dibahas lebih lanjut di bagian lain.
 
@@ -22,11 +22,11 @@ Secara lebih spesifik:
 
 ### Sejarah Singkat Perkembangan Pembelajaran Multidisiplin
 
-Konsep "disiplin" sebagai cabang ilmu pengetahuan yang diajarkan dan diteliti sudah ada sejak akhir zaman kuno, diturunkan dari bahasa Latin 'discere' (pembelajaran). Seiring perkembangan berbagai disiplin ilmu, interaksi antar disiplin pun mulai terjadi, melahirkan istilah multidisiplin, interdisiplin, dan transdisiplin.
+Konsep "disiplin" sebagai cabang ilmu pengetahuan yang diajarkan dan diteliti sudah ada sejak akhir zaman kuno, diturunkan dari bahasa Latin 'disciplina' (pembelajaran). Seiring perkembangan berbagai disiplin ilmu, interaksi antardisiplin pun mulai terjadi, melahirkan istilah multidisiplin, interdisiplin, dan transdisiplin.
 
 Awalnya, pendekatan monodisipliner (fokus pada satu disiplin ilmu) mendominasi penelitian dan pendidikan, terutama hingga abad ke-19. Namun, seiring dengan peningkatan kompleksitas masalah sosial, ekonomi, dan lingkungan, keterbatasan pendekatan tunggal menjadi semakin disadari.
 
-Perkembangan nyata menuju pendekatan multidisiplin mulai terlihat sejak abad ke-20. Sejarah baru, misalnya, dalam kajian sejarah, menunjukkan pergeseran dari kajian politik yang kaku menuju studi yang lebih bersifat *social scientific*, berorientasi pada masalah, dan menggunakan pendekatan interdisipliner/multidisipliner. Peningkatan interaksi antar disiplin ilmu, terutama di era globalisasi, menjadikan pendekatan multidisiplin sebagai pilihan yang populer dalam kegiatan ilmiah untuk mencari solusi terhadap masalah kompleks yang tidak dapat diatasi oleh satu disiplin saja.
+Perkembangan nyata menuju pendekatan multidisiplin mulai terlihat sejak abad ke-20. Dalam kajian sejarah, misalnya, sejarah baru menunjukkan pergeseran dari kajian politik yang kaku menuju studi yang lebih bersifat *social scientific*, berorientasi pada masalah, dan menggunakan pendekatan interdisipliner/multidisipliner. Peningkatan interaksi antardisiplin ilmu, terutama di era globalisasi, menjadikan pendekatan multidisiplin sebagai pilihan yang populer dalam kegiatan ilmiah untuk mencari solusi terhadap masalah kompleks yang tidak dapat diatasi oleh satu disiplin saja.
 
 Garis waktu di bawah ini merangkum tahapan perkembangan itu menurut era, bukan tanggal pasti.
 

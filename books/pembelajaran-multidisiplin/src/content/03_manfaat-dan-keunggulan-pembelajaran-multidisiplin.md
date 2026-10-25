@@ -6,17 +6,17 @@ Pembelajaran multidisiplin merupakan pendekatan yang mengintegrasikan berbagai d
 
 Pembelajaran multidisiplin merangsang dan meningkatkan kreativitas. Ketika kamu dihadapkan pada pengetahuan dan metodologi dari berbagai bidang, kamu didorong untuk membuat koneksi yang tidak biasa dan menghasilkan ide-ide baru. Dengan menghubungkan berbagai mata pelajaran, kamu dapat melihat masalah dari berbagai sudut pandang dan menemukan solusi yang lebih inovatif.
 
-> *Kreativitas seringkali muncul di persimpangan ide-ide yang beragam. Semakin banyak "persimpangan" yang kamu miliki, semakin besar potensi inovasi.*
+> *Kreativitas sering kali muncul di persimpangan ide-ide yang beragam. Semakin banyak "persimpangan" yang kamu miliki, semakin besar potensi inovasi.*
 
 Penelitian menunjukkan bahwa pelajar yang terbiasa dengan pendekatan multidisiplin cenderung memiliki tingkat kreativitas lebih tinggi dibandingkan mereka yang belajar secara monodisiplin. Hal ini terjadi karena keterlibatan dalam berbagai disiplin ilmu merangsang daya imajinasi serta keberanian dalam berinovasi.
 
 ### 2. Kemampuan Pemecahan Masalah yang Lebih Holistik
 
-Masalah-masalah di dunia nyata jarang sekali bersifat unidisipliner. Krisis iklim, masalah kesehatan global, atau pengembangan teknologi baru, semuanya memerlukan pendekatan yang menyeluruh. Pembelajaran multidisiplin membekali kita dengan kemampuan untuk melihat masalah secara utuh dan mempertimbangkan berbagai faktor yang relevan.
+Masalah-masalah di dunia nyata jarang sekali bersifat monodisiplin. Krisis iklim, masalah kesehatan global, atau pengembangan teknologi baru, semuanya memerlukan pendekatan yang menyeluruh. Pembelajaran multidisiplin membekali kita dengan kemampuan untuk melihat masalah secara utuh dan mempertimbangkan berbagai faktor yang relevan.
 
 Dengan memadukan pengetahuan dari berbagai bidang, kita dapat mengembangkan kebijakan yang lebih efektif serta solusi yang berkelanjutan. Pendekatan ini membuka jalan bagi pemahaman yang lebih mendalam dan luas tentang suatu masalah atau topik penelitian.
 
-Ambil contoh kasus **Perubahan Iklim**. Tantangan ini memerlukan kolaborasi ahli meteorologi (ilmu alam), ahli lingkungan (biologi, ekologi), ahli ekonomi (ilmu sosial), hingga sosiolog (humaniora) untuk memahami penyebab, dampak, serta merumuskan solusi potensial secara menyeluruh.
+Ambil contoh kasus **Perubahan Iklim**. Tantangan ini memerlukan kolaborasi ahli meteorologi (ilmu alam), ahli lingkungan (biologi, ekologi), ahli ekonomi (ilmu sosial), hingga sosiolog untuk memahami penyebab, dampak, serta merumuskan solusi potensial secara menyeluruh.
 
 Di sisi lain, **Pengembangan Teknologi Medis** melibatkan kerja sama lintas disiplin antara ahli biologi, kedokteran, teknik, dan ahli etika. Kolaborasi ini memastikan solusi yang diciptakan efektif secara ilmiah sekaligus selaras dengan prinsip moral serta praktis saat diterapkan di lapangan.
 

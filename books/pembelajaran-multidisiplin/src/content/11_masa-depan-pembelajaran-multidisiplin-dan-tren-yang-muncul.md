@@ -16,7 +16,7 @@ Pendidikan akan semakin bergeser dari sekadar menghafal teori ke arah pengembang
 
 #### 1.3 Personalisasi Pembelajaran dengan Teknologi
 
-Dukungan teknologi seperti kecerdasan buatan (*artificial intelligence* / AI) dan *big data* akan memudahkan institusi pendidikan menerapkan sistem pembelajaran yang disesuaikan dengan kebutuhan, kecepatan, dan gaya belajar masing-masing siswa. Sebagai contoh, AI dapat memberikan materi pengayaan atau remedial secara otomatis sesuai tingkat pemahaman siswa yang sedang kesulitan.
+Dukungan teknologi seperti kecerdasan buatan (*artificial intelligence* / AI) dan *big data* akan memudahkan institusi pendidikan menerapkan sistem pembelajaran yang disesuaikan dengan kebutuhan, kecepatan, dan gaya belajar masing-masing siswa. Sebagai contoh, AI dapat memberikan materi pengayaan atau remedial secara otomatis sesuai tingkat pemahaman siswa.
 
 #### 1.4 Penggunaan Teknologi Inovatif
 
@@ -36,13 +36,13 @@ Dalam dunia yang dinamis, kita dituntut untuk terus memperbarui pengetahuan dan 
 
 #### 2.2 Pengembangan Potensi Diri yang Dinamis
 
-Tujuannya adalah mengasah potensi diri agar terus berkembang secara dinamis, sekaligus menjaga dan meningkatkan kualitas hidup kita di tengah masyarakat.
+Tujuan belajar sepanjang hayat adalah mengasah potensi diri agar terus berkembang secara dinamis, sekaligus menjaga dan meningkatkan kualitas hidup kita di tengah masyarakat.
 
 #### 2.3 Pendidikan Inklusif dan Merata
 
 Kini dunia bergerak menuju pendidikan inklusif. Setiap orang, termasuk penyandang disabilitas atau mereka yang tinggal di daerah pelosok, berhak mendapatkan akses belajar yang setara. Teknologi, lewat platform belajar daring dan modul terbuka, menjadi sarana utama untuk meratakan akses ini.
 
-### 3. Adaptasi Terhadap Perubahan Cepat dalam Kebutuhan Pasar Kerja
+### 3. Adaptasi terhadap Perubahan Cepat dalam Kebutuhan Pasar Kerja
 
 Dunia kerja menuntut kemampuan lintas bidang dan kolaborasi antardisiplin yang lebih intens. Lulusan dituntut untuk memiliki kemampuan berkomunikasi, berpikir kritis, berkolaborasi, dan beradaptasi dalam berbagai situasi.
 
@@ -80,4 +80,4 @@ Para lulusan diharapkan peka terhadap kelestarian alam dan mampu menerapkan prin
 
 Tantangan terbesar kita kini adalah memastikan bahwa pendekatan multidisiplin melampaui pemecahan masalah teknis, sekaligus menumbuhkan empati dan tanggung jawab sosial yang mendalam terhadap tantangan global.
 
-Pada akhirnya, masa depan pembelajaran lintas disiplin terletak pada keterpaduan yang lebih erat antarilmu dengan dukungan teknologi. Fokusnya bergeser pada pembentukan keterampilan adaptif untuk mendukung belajar sepanjang hayat dan memenuhi kebutuhan pasar yang dinamis. Dengan pendekatan ini, generasi mendatang akan tumbuh menjadi pribadi yang lincah, inovatif, dan siap menyumbang solusi nyata bagi tantangan global.
+Pada akhirnya, masa depan pembelajaran multidisiplin terletak pada keterpaduan yang lebih erat antarilmu dengan dukungan teknologi. Fokusnya bergeser pada pembentukan keterampilan adaptif untuk mendukung belajar sepanjang hayat dan memenuhi kebutuhan pasar yang dinamis. Dengan pendekatan ini, generasi mendatang akan tumbuh menjadi pribadi yang lincah, inovatif, dan siap menyumbang solusi nyata bagi tantangan global.

@@ -1,6 +1,6 @@
 ## Strategi Efektif untuk Mengimplementasikan Pembelajaran Multidisiplin
 
-Pembelajaran multidisiplin menjadi pendekatan utama di era modern, ketika berbagai bidang ilmu saling melengkapi untuk memecahkan masalah yang rumit. Mengimplementasikan strategi yang tepat menentukan keberhasilan pendekatan ini. Bagian ini akan menguraikan berbagai metodologi dan langkah praktis yang dapat diterapkan, mulai dari metode pengajaran inovatif, pendekatan berbasis proyek, kolaborasi antar-disiplin, hingga perancangan kurikulum yang terintegrasi.
+Pembelajaran multidisiplin menjadi pendekatan utama di era modern, ketika berbagai bidang ilmu saling melengkapi untuk memecahkan masalah yang rumit. Mengimplementasikan strategi yang tepat menentukan keberhasilan pendekatan ini. Bagian ini akan menguraikan berbagai metodologi dan langkah praktis yang dapat diterapkan, mulai dari metode pengajaran inovatif, pendekatan berbasis proyek, kolaborasi antardisiplin, hingga perancangan kurikulum yang terintegrasi.
 
 ### 1. Metode Pengajaran yang Menghubungkan Disiplin Ilmu
 
@@ -22,7 +22,7 @@ Melalui CBL, peserta didik dapat mengasah ketajaman analisis dan pemikiran kriti
 
 #### c. Pembelajaran Aktif dan Pembelajaran Kooperatif
 
-Mendorong peserta didik untuk terlibat aktif dalam proses belajar melalui diskusi, simulasi, dan kerja kelompok merupakan fondasi penting. Pembelajaran kooperatif memfasilitasi pertukaran ide dan sudut pandang antar-individu dengan latar belakang keilmuan yang berbeda.
+Mendorong peserta didik untuk terlibat aktif dalam proses belajar melalui diskusi, simulasi, dan kerja kelompok merupakan fondasi penting. Pembelajaran kooperatif memfasilitasi pertukaran ide dan sudut pandang antarindividu dengan latar belakang keilmuan yang berbeda.
 
 Ada beberapa teknik yang bisa diterapkan. Misalnya, melalui metode **Jigsaw**, peserta didik dikelompokkan sebagai "pakar" untuk mendalami aspek tertentu sebelum kembali ke kelompok asal untuk saling mengajar. Ada juga teknik **Think-Pair-Share**, yang melatih kemandirian berpikir sebelum berdiskusi berpasangan dan membagikannya ke seluruh kelas.
 
@@ -43,11 +43,11 @@ Sebagai contoh konkret, mahasiswa arsitektur, teknik lingkungan, dan sosiologi d
 
 Penerapan PjBL membawa dampak positif yang luas. Peserta didik tidak hanya dituntut menyatukan teori dari berbagai bidang, tetapi juga mengasah ketajaman memecahkan masalah rumit dan meningkatkan kecakapan berkomunikasi. Terlebih lagi, terlibat langsung dalam tugas yang bermakna secara alami menumbuhkan motivasi dari dalam diri mereka.
 
-### 3. Pentingnya Kolaborasi Antar-Disiplin
+### 3. Pentingnya Kolaborasi Antardisiplin
 
-Kolaborasi merupakan inti pembelajaran multidisiplin. Kerja sama ini tidak terbatas pada interaksi antar peserta didik, tetapi juga harus dibangun di antara pendidik, peneliti, dan praktisi.
+Kolaborasi merupakan inti pembelajaran multidisiplin. Kerja sama ini tidak terbatas pada interaksi antarpeserta didik, tetapi juga harus dibangun di antara pendidik, peneliti, dan praktisi.
 
-#### a. Kolaborasi Antar-Dosen dan Departemen
+#### a. Kolaborasi Antardosen dan Departemen
 
 Penyusunan kurikulum yang matang menuntut kesediaan para dosen dari berbagai jurusan untuk duduk bersama. Kerja sama ini dapat diwujudkan melalui beberapa langkah:
 - **Pengajaran Bersama (Co-teaching):** Dua atau lebih dosen dengan latar belakang keilmuan berbeda mengampu satu kelas secara bersamaan.
@@ -68,7 +68,7 @@ Perancangan kurikulum yang terencana dengan baik menjadi fondasi penting dalam p
 
 Langkah pertama adalah mengembangkan mata kuliah multidisiplin yang wajib diambil oleh mahasiswa dari berbagai program studi. Pembahasan di kelas difokuskan pada konsep, metode, atau isu sosial yang melintasi batas-batas jurusan tradisional.
 
-Sebagai contoh, mata kuliah "Etika Teknologi dan Masyarakat" dapat diasuh bersama oleh dosen filsafat, ilmu komputer, dan sosiologi, sehingga relevan bagi mahasiswa dari berbagai program studi.
+Sebagai contoh, mata kuliah "Etika Teknologi dan Masyarakat" dapat diampu bersama oleh dosen filsafat, ilmu komputer, dan sosiologi, sehingga relevan bagi mahasiswa dari berbagai program studi.
 
 #### b. Modul Lintas Disiplin
 
@@ -80,16 +80,16 @@ Institusi juga dapat menawarkan program minor atau spesialisasi terpadu. Jalur i
 
 #### d. Struktur Kurikulum Fleksibel
 
-Fleksibilitas kurikulum dibutuhkan agar peserta didik leluasa memilih kelas pilihan di luar jurusan mereka, bahkan merancang arah studi mandiri di bawah bimbingan akademis.
+Fleksibilitas kurikulum dibutuhkan agar peserta didik leluasa memilih kelas pilihan di luar jurusan mereka, bahkan merancang arah studi mandiri di bawah bimbingan akademik.
 
-Dalam menyelaraskan tujuan belajar, materi kuliah, dan metode penilaian, koordinasi erat serta komunikasi yang sehat antar-departemen diperlukan.
+Dalam menyelaraskan tujuan belajar, materi kuliah, dan metode penilaian, koordinasi erat serta komunikasi yang sehat antardepartemen diperlukan.
 
 ### 5. Mengukur Efektivitas Strategi
 
 Keberhasilan implementasi ini perlu diukur secara berkala. Beberapa metode evaluasi yang bisa diterapkan meliputi:
 - **Umpan Balik Peserta Didik:** Melalui jajak pendapat berkala untuk memahami pengalaman mereka dalam pembelajaran multidisiplin.
 - **Penilaian Karya Nyata:** Mengukur kualitas proyek kelompok dan sejauh mana integrasi teori dari berbagai bidang berhasil diterapkan.
-- **Pemantauan Kinerja Akademis:** Menganalisis pencapaian nilai peserta didik pada program-program terintegrasi.
+- **Pemantauan Kinerja Akademik:** Menganalisis pencapaian nilai peserta didik pada program-program terintegrasi.
 - Selain itu, penyusunan rubrik khusus penting untuk menilai soft skills seperti kemampuan berkolaborasi, bernalar kritis, dan berkomunikasi efektif.
 
 Melalui penerapan langkah-langkah tersebut secara konsisten, lembaga pendidikan dapat menciptakan lingkungan belajar yang mendukung kolaborasi multidisiplin. Pada akhirnya, hal ini mempersiapkan peserta didik menghadapi kompleksitas zaman dengan cara pandang yang luas serta daya adaptasi yang kuat.
