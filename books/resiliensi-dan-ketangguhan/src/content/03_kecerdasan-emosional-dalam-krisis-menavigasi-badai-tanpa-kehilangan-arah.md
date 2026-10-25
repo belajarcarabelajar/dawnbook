@@ -1,14 +1,14 @@
 ## Kecerdasan Emosional dalam Krisis
 
-Bayangkan kamu adalah seorang kapten kapal yang sedang memimpin pelayaran di tengah samudra yang tenang. Tiba-tiba, badai besar datang menerjang. Gelombang setinggi rumah menghantam lambung kapal, dan angin kencang mulai merobek layar. Di saat seperti ini, apa yang paling dibutuhkan oleh kapal tersebut? Mesin yang kuat? Mungkin. Kompas yang akurat? Tentu. Namun, yang paling menentukan keselamatan kapal adalah **ketenangan dan ketajaman mental sang kapten.**
+Bayangkan kamu adalah seorang kapten kapal yang sedang memimpin pelayaran di tengah samudra yang tenang. Tiba-tiba, badai besar datang menerjang. Gelombang setinggi rumah menghantam lambung kapal, dan angin kencang mulai merobek layar. Pada saat seperti ini, apa yang paling dibutuhkan oleh kapal tersebut? Mesin yang kuat? Mungkin. Kompas yang akurat? Tentu. Namun, yang paling menentukan keselamatan kapal adalah **ketenangan dan ketajaman mental sang kapten.**
 
 Dalam kehidupan, "badai" ini adalah krisis, baik itu kegagalan proyek besar, kehilangan pekerjaan, atau konflik personal yang intens. **Kecerdasan Emosional (EQ)** adalah kemampuanmu untuk tetap menjadi kapten yang tenang saat emosi negatif mencoba mengambil alih kemudi.
 
 ### 1. Memahami Amygdala Hijack
 
-Sebelum belajar mengelola emosi, kita harus memahami mengapa emosi bisa mengaburkan logika. Di dalam otak kita, terdapat bagian kecil bernama **Amigdala** yang berfungsi sebagai sistem alarm.
+Sebelum belajar mengelola emosi, kita harus memahami mengapa emosi bisa mengaburkan logika. Di dalam otak kita, terdapat bagian kecil bernama **amigdala** yang berfungsi sebagai sistem alarm.
 
-Dalam situasi krisis, Amigdala sering kali mengambil alih kendali sebelum bagian otak rasional kita (**Prefrontal Cortex**) sempat berpikir. Inilah yang disebut dengan *Amygdala Hijack*.
+Dalam situasi krisis, amigdala sering kali mengambil alih kendali sebelum bagian otak rasional kita (**Prefrontal Cortex**) sempat berpikir. Inilah yang disebut dengan *Amygdala Hijack*.
 
 > **Analogi Dashboard Mobil:** Bayangkan emosi negatif seperti lampu indikator menyala merah di dashboard mobilmu. Jika kamu panik dan langsung membanting setir, kamu mungkin akan kecelakaan. Namun, jika kamu mengabaikannya, mesin bisa rusak. EQ mengajarkanmu untuk melihat lampu itu, memahami apa artinya (misalnya: mesin panas), dan mengambil tindakan perbaikan yang tepat tanpa kehilangan kendali atas kemudi.
 
@@ -38,7 +38,7 @@ Di antara peristiwa yang memicu dan reaksi yang kamu berikan, selalu ada jeda, s
 Dalam krisis, ruang ini sering kali terasa sempit. Teknik untuk memperlebar ruang ini adalah dengan **Metode S.T.O.P**:
 
 1. **S (Stop):** Berhenti sejenak dari apa pun yang sedang kamu lakukan atau katakan.
-2. **T (Take a breath):** Ambil napas dalam. Oksigen tambahan membantu menenangkan sistem saraf yang terpicu.
+2. **T (Take a breath):** Ambil napas dalam. Ini membantu menenangkan sistem saraf yang terpicu.
 3. **O (Observe):** Amati apa yang terjadi di dalam tubuhmu dan apa yang sedang kamu pikirkan tanpa menghakimi.
 4. **P (Proceed):** Lanjutkan tindakanmu setelah emosi sedikit mereda, dengan bertanya: *"Tindakan apa yang paling efektif saat ini?"*
 
@@ -68,12 +68,12 @@ Kamu baru saja mempresentasikan ide besar di depan direksi, namun seorang atasan
 
 ### Latihan Kecerdasan Emosional
 
-Ingatlah satu kejadian dalam seminggu terakhir di mana kamu merasa sangat tertekan atau kesal.
+Ingatlah satu kejadian dalam seminggu terakhir ketika kamu merasa sangat tertekan atau kesal.
 
 1. Apa emosi pertama yang muncul?
 2. Bagaimana emosi tersebut memengaruhi caramu berbicara atau bertindak saat itu?
 3. Jika kamu bisa mengulang kejadian itu dengan teknik **S.T.O.P**, apa yang akan berubah?
 
-> **Insight:** Memiliki kecerdasan emosional tidak berarti kamu tidak pernah merasa marah, sedih, atau takut. EQ berarti kamu memiliki hubungan yang sehat dengan emosi tersebut, kamu merasakannya, tetapi tidak membiarkan emosi itu memegang kendali atas nilai-nilai dan tindakan jangka panjangmu.
+> **Insight:** Memiliki kecerdasan emosional tidak berarti kamu tidak pernah merasa marah, sedih, atau takut. EQ berarti kamu memiliki hubungan yang sehat dengan emosi tersebut: kamu merasakannya, tetapi tidak membiarkan emosi itu memegang kendali atas nilai-nilai dan tindakan jangka panjangmu.
 
 Dengan melatih kecerdasan emosional, kamu sedang membangun fondasi resiliensi yang kokoh. Kamu belajar bahwa meskipun tidak bisa mengendalikan arah angin (krisis), kamu selalu memiliki kendali atas bagaimana kamu mengatur layar (emosi dan responsmu).

@@ -62,7 +62,7 @@ Ambil satu benda sederhana, misalnya klip kertas. Dalam 2 menit, tuliskan sebany
 Ini adalah aturan dasar dalam teater improvisasi. Ketika seseorang memberimu situasi (bahkan yang buruk sekalipun), jangan katakan "Tidak, tapi...". Katakan **"Ya, dan..."**.
 
 - *Situasi:* "Server kita mati tepat saat peluncuran produk."
-- *Respon Fleksibel:* " **Ya**, server mati, **dan** kita akan menggunakan momen ini untuk mengirim email personal ke pelanggan tentang masa tunggu, sekaligus memberikan kode diskon sebagai permohonan maaf."
+- *Respons Fleksibel:* "**Ya**, server mati, **dan** kita akan menggunakan momen ini untuk mengirim email personal ke pelanggan tentang masa tunggu, sekaligus memberikan kode diskon sebagai permohonan maaf."
 
 ### C. Mengubah Rutinitas Kecil
 
@@ -79,9 +79,9 @@ Dalam dunia rekayasa perangkat lunak atau manajemen proyek, fleksibilitas kognit
 
 **Skenario:** Sebuah tim pengembang sedang membangun fitur utama menggunakan teknologi X. Di tengah jalan, ditemukan celah keamanan fatal pada teknologi X yang tidak bisa diperbaiki dengan cepat.
 
-**Respon Kaku (Rigid):** Memaksakan menggunakan teknologi X dengan tambalan ala kadarnya karena sudah terlanjur mengalokasikan anggaran dan waktu (Sunk Cost Fallacy).
+**Respons Kaku (Rigid):** Memaksakan menggunakan teknologi X dengan tambalan ala kadarnya karena sudah telanjur mengalokasikan anggaran dan waktu (Sunk Cost Fallacy).
 
-**Respon Fleksibel (Adaptive):** Menerima kenyataan bahwa teknologi X tidak lagi layak. Melakukan pivot dengan cepat ke teknologi Y, meskipun harus melakukan *refactoring* pada sebagian kode.
+**Respons Fleksibel (Adaptive):** Menerima kenyataan bahwa teknologi X tidak lagi layak. Melakukan pivot dengan cepat ke teknologi Y, meskipun harus melakukan *refactoring* pada sebagian kode.
 
 ### Jalur Alternatif Saat Perubahan Kritis
 
@@ -95,7 +95,7 @@ Setelah itu, tahap Decide dan Act memilih alternatif terbaik lalu menjalankannya
 
 ## 5. Menghitung Keberhasilan Adaptasi
 
-Secara matematis, peluang kesuksesan kita dalam lingkungan yang tidak pasti ($\mathbb{P}\_{\text{s}}$) berbanding lurus dengan jumlah alternatif valid ($n$) yang dapat kita hasilkan dalam waktu singkat ($t$).
+Sebagai ilustrasi sederhana (bukan model ilmiah yang baku), peluang kesuksesan kita dalam lingkungan yang tidak pasti ($\mathbb{P}\_{\text{s}}$) berbanding lurus dengan jumlah alternatif valid ($n$) yang dapat kita hasilkan dalam waktu singkat ($t$).
 
 <div>
 $$
@@ -103,15 +103,15 @@ $$
 $$
 </div>
 
-Di mana:
+Keterangan:
 
 - $A\_i$ adalah efektivitas dari alternatif ke-$i$.
 - Semakin banyak alternatif ($n$) yang bisa dipikirkan otakmu secara fleksibel, semakin tinggi probabilitasmu untuk bertahan dan menang.
 
 ## Fleksibel tanpa Kehilangan Prinsip
 
-**Penting:** Fleksibilitas kognitif bukan berarti kamu tidak memiliki prinsip atau tujuan. Tujuanmu tetap sama (misal: sampai ke tujuan), namun rute yang kamu ambil bisa berubah berkali-kali.
+**Penting:** Fleksibilitas kognitif bukan berarti kamu tidak memiliki prinsip atau tujuan. Tujuanmu tetap sama (misalnya, sampai ke tujuan), namun rute yang kamu ambil bisa berubah berkali-kali.
 
 > **Key Takeaway:** Ketangguhan bukan tentang seberapa kuat kamu menahan beban tanpa bergerak, tetapi seberapa cepat kamu bisa menyesuaikan langkah saat keadaan berubah.
 
-*Refleksikan satu tantangan yang sedang kamu hadapi saat ini. Jika pendekatan saat ini belum berhasil, apa tiga alternatif berbeda,sekalipun terdengar tidak biasa,yang bisa kamu coba besok?*
+*Refleksikan satu tantangan yang sedang kamu hadapi saat ini. Jika pendekatan saat ini belum berhasil, apa tiga alternatif berbeda, sekalipun terdengar tidak biasa, yang bisa kamu coba besok?*

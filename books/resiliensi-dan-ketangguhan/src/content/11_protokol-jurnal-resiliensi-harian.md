@@ -6,7 +6,7 @@ Resiliensi bukanlah sebuah bakat yang kita bawa sejak lahir, melainkan sebuah ke
 
 ## 1. Dua Metode Jurnal
 
-Menulis lebih dari sekadar memindahkan kata ke kertas. Aktivitas ini merupakan proses kognitif untuk merapikan pikiran yang semrawut menjadi struktur yang logis. Berikut adalah dua metode jurnal yang bisa kamu terapkan secara bergantian.
+Menulis lebih dari sekadar memindahkan kata ke kertas. Aktivitas ini merupakan proses kognitif untuk merapikan pikiran yang semrawut menjadi struktur yang logis. Berikut adalah dua metode jurnal yang bisa kamu terapkan sesuai kebutuhan.
 
 ### A. Metode 3-2-1 (Fokus pada Pertumbuhan)
 
@@ -81,7 +81,7 @@ Semakin singkat waktu pemulihan pada tingkat stres yang tinggi, semakin tinggi i
 **Langkah Praktis Andi:**
 
 1. **Jurnal Segera (Metode ABCDE):** Andi menuliskan bahwa "Saya gagal karena saya tidak kompeten" (Belief). Ia lalu mendebatnya (Disputation) dengan mencatat bahwa tim penilai memuji presentasinya, hanya saja harga kompetitor lebih masuk akal.
-2. **Visualisasi Positif:** Malam harinya, Andi memvisualisasikan dirinya mengevaluasi proposal tersebut dan menerapkannya pada tender berikutnya dengan lebih percaya diri.
+2. **Visualisasi Positif:** Malam harinya, Andi memvisualisasikan dirinya mengevaluasi proposal tersebut dan menerapkan hasil evaluasinya pada tender berikutnya dengan lebih percaya diri.
 3. **Tindakan Terukur:** Andi memutuskan untuk meminta feedback tertulis dari klien, mengubah "kegagalan" menjadi "data".
 
 ## Ringkasan Latihan
@@ -90,7 +90,7 @@ Semakin singkat waktu pemulihan pada tingkat stres yang tinggi, semakin tinggi i
 | --- | --- | --- |
 | **Jurnal 3-2-1** | Harian (Malam) | Memprogram ulang otak untuk mencari peluang. |
 | **Metode ABCDE** | Saat Krisis | Memutus rantai pikiran negatif yang merusak. |
-| **Visualisasi Rehearsal** | Mingguan | Mempersiapkan mental menghadapi tekanan nyata. |
+| **Reverse Mental Rehearsal** | Mingguan | Mempersiapkan mental menghadapi tekanan nyata. |
 | **Strengths Audit** | Bulanan | Menyadari sumber daya internal yang sudah dimiliki. |
 
 > **Insight Penutup:** Resiliensi tidak berarti kamu tidak merasakan sakit. Resiliensi berarti kamu memiliki "toolbox" yang siap digunakan saat rasa sakit itu datang. Jangan menunggu badai datang untuk membangun perahumu; mulailah menulis dan berlatih hari ini.

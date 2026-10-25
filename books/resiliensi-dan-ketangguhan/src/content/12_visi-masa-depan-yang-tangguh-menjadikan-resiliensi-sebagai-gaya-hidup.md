@@ -2,11 +2,11 @@
 
 Ini adalah bab terakhir dalam perjalananmu membangun resiliensi. Jika bagian-bagian sebelumnya telah membekalimu dengan "alat" dan "teknik" untuk menghadapi badai, bagian ini akan membantumu membangun **peta navigasi jangka panjang**.
 
-Membangun visi masa depan yang tangguh bukan berarti menciptakan rencana yang kaku di mana segala sesuatunya harus berjalan sempurna. Sebaliknya, ini adalah tentang merancang hidup yang memiliki struktur kuat namun cukup fleksibel untuk menyesuaikan diri dengan ketidakpastian.
+Membangun visi masa depan yang tangguh bukan berarti menciptakan rencana kaku yang menuntut segala sesuatunya berjalan sempurna. Sebaliknya, ini adalah tentang merancang hidup yang memiliki struktur kuat namun cukup fleksibel untuk menyesuaikan diri dengan ketidakpastian.
 
 ## 1\. Dari Reaktif Menuju Proaktif
 
-Banyak orang menganggap resiliensi seperti "ban serep",hanya digunakan saat keadaan darurat. Namun, untuk benar-benar tangguh, kita harus mengubah paradigma tersebut.
+Banyak orang menganggap resiliensi seperti "ban serep" yang hanya digunakan saat keadaan darurat. Namun, untuk benar-benar tangguh, kita harus mengubah paradigma tersebut.
 
 > **Insight:** Resiliensi tidak hanya berarti kemampuan untuk "pulih" (bounce back), tetapi juga kemampuan untuk "melompat maju" (bounce forward) dan beradaptasi secara berkelanjutan.
 
@@ -18,11 +18,11 @@ $$
 $$
 </div>
 
-Jika kapasitas ($\text{C}$) kamu selalu lebih besar dari tantangan ($\text{T}$) melalui persiapan jangka panjang, maka hasil pertumbuhan ($\text{G}$) akan selalu positif, bahkan di tengah masa sulit.
+Jika kapasitas ($\text{C}$) kamu selalu lebih besar daripada tantangan ($\text{T}$) melalui persiapan jangka panjang, maka hasil pertumbuhan ($\text{G}$) akan selalu positif, bahkan di tengah masa sulit.
 
 ### Pohon Bambu vs. Pohon Ek
 
-Pohon ek kuat dan keras, namun ia bisa tumbang dalam badai besar karena ia kaku. Bambu, di sisi lain, fleksibel. Ia merunduk saat angin kencang menerjang, tetapi akarnya dalam dan saling terhubung di bawah tanah. Membangun visi masa depan yang tangguh adalah proses menjadi "Bambu" yang memiliki sistem akar (fondasi) yang kokoh.
+Pohon ek kuat dan keras, namun ia bisa tumbang dalam badai besar karena ia kaku. Bambu, di sisi lain, fleksibel. Ia merunduk saat angin kencang menerjang, tetapi akarnya saling terhubung di bawah tanah. Membangun visi masa depan yang tangguh adalah proses menjadi "Bambu" yang memiliki sistem akar (fondasi) yang kokoh.
 
 ## 2\. Strategi Perencanaan Jangka Panjang di Tengah Ketidakpastian
 
@@ -51,15 +51,15 @@ Jangan menaruh semua "telur" resiliensimu pada satu bidang. Miliki diversifikasi
 
 ## 3\. Mengintegrasikan Resiliensi dalam Gaya Hidup Berkelanjutan
 
-Agar resiliensi tidak menjadi beban mental, ia harus diintegrasikan ke dalam rutinitas tanpa disadari. Ini disebut sebagai **Sistem Operasi Resiliensi (ROS)**.
+Agar resiliensi tidak menjadi beban mental, ia harus diintegrasikan ke dalam rutinitas tanpa disadari. Ini disebut sebagai **Sistem Operasi Resiliensi (Resilience Operating System/ROS)**.
 
 ### Ritual Pembaruan Energi
 
-Resiliensi membutuhkan bahan bakar. Visi masa depanmu harus mencakup "Maintenance Schedule" (Jadwal Pemeliharaan) yang tidak bisa dinegosiasi:
+Resiliensi membutuhkan bahan bakar. Visi masa depanmu harus mencakup "Maintenance Schedule" (Jadwal Pemeliharaan) yang tidak bisa dinegosiasikan:
 
 - **Fisik:** Nutrisi dan hidrasi yang mendukung fungsi kognitif.
 - **Mental:** Waktu untuk *deep work* dan meditasi.
-- **Sosial:** Investasi waktu pada jaring pengaman sosial (seperti yang dibahas pada bagian 7).
+- **Sosial:** Investasi waktu pada jaring pengaman sosial (seperti yang dibahas pada Bagian 7).
 
 ### Menghadapi "Lelah Resiliensi"
 
@@ -75,7 +75,7 @@ Bayangkan Budi, seorang manajer yang divisinya tiba-tiba ditutup karena otomatis
 
 - **Tanpa Visi Resiliensi:** Budi panik, merasa identitasnya hilang, dan terjebak dalam narasi kegagalan selama berbulan-bulan.
 - **Dengan Visi Resiliensi:**
-	1. **Reframing:** Budi melihat ini sebagai data (Bagian 4).
+	1. **Reframing:** Budi melihat ini sebagai data (lihat bab tentang reframing).
 	2. **Jaring Sosial:** Ia segera menghubungi mentor dan komunitasnya (Bagian 7).
 	3. **Visi Jangka Panjang:** Karena Budi telah membangun *meta-skill* (belajar cepat), ia menggunakan rencana aksinya untuk bertransisi ke bidang baru dalam 6 bulan.
 

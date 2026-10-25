@@ -18,7 +18,7 @@ Alih-alih menghakimi diri sendiri dengan keras ketika melakukan kesalahan, kita 
 
 ### 2\. Common Humanity (Kemanusiaan Umum) vs. Isolation
 
-Saat kita gagal, seringkali muncul perasaan seolah-olah hanya kita satu-satunya orang yang menderita atau gagal. *Common humanity* menyadari bahwa penderitaan dan kegagalan adalah pengalaman kolektif manusia.
+Saat kita gagal, sering kali muncul perasaan seolah-olah hanya kita satu-satunya orang yang menderita atau gagal. *Common humanity* berarti menyadari bahwa penderitaan dan kegagalan adalah pengalaman kolektif manusia.
 
 > "Penderitaan bukan tanda bahwa ada yang salah dengan dirimu, tetapi bukti bahwa kamu adalah manusia."
 
@@ -28,9 +28,9 @@ Kita perlu mengenali bahwa kita sedang menderita tanpa melebih-lebihkannya. Kita
 
 ## Dampak Self-Compassion terhadap Pemulihan Mental
 
-Mengapa self-compassion penting bagi resiliensi? Secara biologis, ketika kita mengkritik diri sendiri dengan kejam, otak kita mengaktifkan sistem **"Threat Defense"** (Amigdala). Ini melepaskan hormon stres seperti kortisol.
+Mengapa self-compassion penting bagi resiliensi? Secara biologis, ketika kita mengkritik diri sendiri dengan kejam, otak kita mengaktifkan sistem **"Threat Defense"** (amigdala). Ini melepaskan hormon stres seperti kortisol.
 
-Sebaliknya, self-compassion mengaktifkan sistem **"Caregiving"** yang melepaskan **Oksitosin** dan **Endorfin**. Secara matematis, kita bisa melihat hubungan antara resiliensi ($\text{R}$) dan belas kasih ($\text{SC}$) sebagai berikut:
+Sebaliknya, self-compassion mengaktifkan sistem **"Caregiving"** yang melepaskan **oksitosin** dan **endorfin**. Secara matematis, kita bisa melihat hubungan antara resiliensi ($\text{R}$) dan belas kasih ($\text{SC}$) sebagai berikut:
 
 <div>
 $$
@@ -52,7 +52,7 @@ Banyak orang ragu untuk menerapkan self-compassion karena takut akan menjadi pri
 
 ## Latihan "Surat dari Sahabat Bijak"
 
-Ini adalah teknik kinestetik dan reflektif untuk melatih otot self-compassion-mu.
+Ini adalah teknik reflektif untuk melatih otot self-compassion-mu.
 
 **Langkah-langkah:**
 
@@ -65,11 +65,11 @@ Ini adalah teknik kinestetik dan reflektif untuk melatih otot self-compassion-mu
 
 ## Menghadapi Kegagalan Profesional
 
-**Skenario:** Andi adalah seorang pengembang perangkat lunak yang secara tidak sengaja menghapus database utama perusahaan di hari Jumat sore. Sistem *down* selama 5 jam.
+**Skenario:** Andi adalah seorang pengembang perangkat lunak yang secara tidak sengaja menghapus database utama perusahaan pada hari Jumat sore. Sistem *down* selama 5 jam.
 
 **Respons Tanpa Self-Compassion:** Andi menghabiskan akhir pekannya dengan tidak makan, menyebut dirinya "beban perusahaan", dan merasa kariernya sudah tamat. Ia kembali bekerja pada hari Senin dengan kecemasan tinggi yang membuatnya melakukan lebih banyak kesalahan teknis kecil.
 
-**Respons With Self-Compassion:**
+**Respons Dengan Self-Compassion:**
 
 1. **Mindfulness:** "Saya merasa sangat malu dan takut sekarang. Ini adalah momen yang sangat sulit bagi saya."
 2. **Common Humanity:** "Setiap senior *developer* pasti pernah melakukan kesalahan teknis besar setidaknya sekali dalam karier mereka. Saya tidak sendirian."

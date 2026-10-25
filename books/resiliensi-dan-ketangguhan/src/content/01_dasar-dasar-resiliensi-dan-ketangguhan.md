@@ -14,7 +14,7 @@ Secara etimologis, **resiliensi** berasal dari bahasa Latin *resilire*, yang ber
 
 ## 2\. Ketahanan Mental vs. Ketangguhan
 
-Sering kali kita menggunakan istilah "tahan banting" dan "tangguh" secara bergantian. Namun, dalam konteks pengembangan diri, keduanya memiliki nuansa yang berbeda namun saling melengkapi.
+Sering kali kita menggunakan istilah "resiliensi" dan "ketangguhan" secara bergantian. Namun, dalam konteks pengembangan diri, keduanya memiliki nuansa yang berbeda namun saling melengkapi.
 
 ### Ketahanan Mental (Mental Resilience)
 

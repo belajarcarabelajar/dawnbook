@@ -2,11 +2,11 @@
 
 Pernahkah kamu melihat seseorang yang secara akademis biasa saja, tetapi sepuluh tahun kemudian memimpin perusahaan besar atau menjadi ahli di bidangnya? Sementara itu, rekan mereka yang dianggap "jenius" justru tampak jalan di tempat. Perbedaan mencolok ini sering kali bukan disebabkan oleh tingkat IQ atau keberuntungan semata, melainkan sebuah kualitas mental yang disebut **Grit**.
 
-Dalam perjalanan membangun resiliensi, Grit membuat kamu terus bergerak saat motivasi awal sudah memudar. Jika resiliensi adalah kemampuan untuk bangkit kembali setelah jatuh, maka Grit adalah kemampuan untuk terus berjalan sampai garis finish, meski kamu harus jatuh bangun berkali-kali.
+Dalam perjalanan membangun resiliensi, Grit membuat kamu terus bergerak saat motivasi awal sudah memudar. Jika resiliensi adalah kemampuan untuk bangkit kembali setelah jatuh, maka Grit adalah kemampuan untuk terus berjalan sampai garis finis, meski kamu harus jatuh bangun berkali-kali.
 
 ## Memahami Persamaan Grit
 
-Angela Duckworth, seorang psikolog yang mempopulerkan konsep ini, menemukan pola menarik tentang bagaimana pencapaian terjadi. Bakat (*talent*) memang penting, tetapi usaha (*effort*) berperan jauh lebih besar karena muncul dua kali dalam perhitungan kesuksesan.
+Angela Duckworth, seorang psikolog yang memopulerkan konsep ini, menemukan pola menarik tentang bagaimana pencapaian terjadi. Bakat (*talent*) memang penting, tetapi usaha (*effort*) berperan jauh lebih besar karena muncul dua kali dalam perhitungan kesuksesan.
 
 Mari kita lihat dalam bentuk rumus matematis:
 
@@ -24,7 +24,7 @@ $$
 
 > **Insight:** Bakat adalah seberapa cepat keterampilanmu meningkat saat kamu berusaha. Namun, Pencapaian adalah apa yang terjadi ketika kamu mengambil keterampilan tersebut dan menggunakannya secara terus-menerus.
 
-Dalam dua persamaan di atas, variabel **Usaha** muncul dua kali. Ini berarti seseorang yang kurang berbakat tetapi memiliki usaha yang konsisten (Grit tinggi) akan melampaui seseorang yang berbakat tetapi malas dalam jangka panjang.
+Dalam dua persamaan di atas, variabel **Usaha** muncul dua kali. Ini berarti seseorang yang kurang berbakat tetapi memiliki usaha yang konsisten (Grit tinggi) dalam jangka panjang dapat melampaui seseorang yang berbakat tetapi malas.
 
 ## Gairah dan Ketekunan
 
@@ -65,7 +65,7 @@ Kabar baiknya, Grit bukanlah sifat bawaan lahir yang statis. Kamu bisa melatih "
 
 Bayangkan hidup sebagai sebuah lintasan.
 
-- **Talenta** adalah kecepatan maksimal yang bisa kamu capai dalam lari sprint 100 meter. Mengesankan, tetapi cepat berakhir.
+- **Bakat** adalah kecepatan maksimal yang bisa kamu capai dalam lari sprint 100 meter. Mengesankan, tetapi cepat berakhir.
 - **Grit** adalah stamina seorang pelari maraton. Ia mungkin tidak berlari paling cepat, tetapi ia mengatur napasnya, menjaga ritme kakinya, dan tidak berhenti meski ototnya mulai terasa terbakar.
 
 Di dunia nyata, kehidupan lebih mirip maraton daripada sprint. Orang yang menang bukan yang tercepat di satu kilometer pertama, tetapi yang masih berlari di kilometer ke-40.
@@ -92,7 +92,7 @@ Untuk memahami posisimu saat ini, renungkan beberapa pertanyaan berikut:
 
 1. Dapatkah kamu menyebutkan satu minat atau hobi yang telah kamu tekuni secara konsisten selama lebih dari dua tahun?
 2. Saat menghadapi hambatan besar, apakah reaksi pertamamu adalah mencari cara untuk melewatinya atau mencari alasan untuk berhenti?
-3. Apakah kamu memiliki "Tujuan Tingkat Atas" (*Low-level goals vs. High-level goal*)?
+3. Apakah kamu memiliki "Tujuan Tingkat Atas" (*High-level goal*)?
 
 **Tips Praktis:**
 
