@@ -2,7 +2,7 @@
 
 Kecerdasan kedelapan dalam teori Howard Gardner adalah kecerdasan naturalis. Jika sebelumnya kita telah membahas bagaimana manusia mengolah kata, angka, dan ruang, kini saatnya kita menoleh ke luar jendela, ke arah pepohonan, pola awan, dan ekosistem yang menghidupi kita.
 
-Kecerdasan Naturalis melampaui rasa cinta terhadap alam. Kemampuan kognitif ini memungkinkan seseorang mengenali, mengklasifikasikan, dan menarik kesimpulan dari elemen-elemen lingkungan sekitarnya.
+Kecerdasan naturalis melampaui rasa cinta terhadap alam. Kemampuan kognitif ini memungkinkan seseorang mengenali, mengklasifikasikan, dan menarik kesimpulan dari elemen-elemen lingkungan sekitarnya.
 
 ## Memahami Esensi Kecerdasan Naturalis
 
@@ -24,7 +24,7 @@ Ada pula rasa empati alami atau ketertarikan mendalam terhadap berbagai makhluk 
 
 Mengapa kecerdasan ini berperan besar? Secara historis, kecerdasan naturalis menjadi penentu kelangsungan hidup spesies manusia.
 
-Para leluhur kita menggunakan kemampuan ini untuk membedakan mana tumbuhan yang aman dimakan dan mana yang beracun. Mereka perlu memahami reaksi kimia alamiah secara intuitif, seperti mengenali proses fotosintesis secara visual untuk membedakan tanaman yang sehat dan yang sakit:
+Para leluhur kita menggunakan kemampuan ini untuk membedakan mana tumbuhan yang aman dimakan dan mana yang beracun. Mereka perlu mengenali tanda-tanda reaksi kimia alamiah secara visual, seperti fotosintesis, untuk membedakan tanaman yang sehat dan yang sakit:
 
 <div>
 $$
@@ -44,9 +44,9 @@ Pada tingkat yang lebih tinggi, seorang naturalis bisa melakukan analisis ekosis
 
 Penerapan kecerdasan ini menjangkau jauh melebihi profesi bertani atau penjaga hutan. Di dunia sains dan konservasi, ahli biologi mengandalkan insting naturalisnya untuk memetakan biodiversitas, menangkap pola-pola dari data lapangan yang barangkali terlihat acak di mata orang biasa. 
 
-Dalam dunia kuliner dan gastronomi, seorang chef andal sering menggunakan ketajaman naturalis. Ia menilai kualitas bahan makanan lewat sentuhan tekstur, aroma, atau gradasi warna, sekaligus sangat paham kapan "musim" terbaik suatu bahan tiba. Di sisi lain, para ahli meteorologi dan geologi membaca pola awan serta formasi batuan untuk memprediksi fenomena alam secara presisi. 
+Dalam dunia kuliner dan gastronomi, seorang chef andal sering menggunakan ketajaman naturalis. Ia menilai kualitas bahan makanan lewat sentuhan tekstur, aroma, atau gradasi warna, sekaligus sangat paham kapan "musim" terbaik suatu bahan tiba. Di sisi lain, para ahli meteorologi dan geologi membaca pola awan serta formasi batuan untuk memprediksi fenomena alam. 
 
-Bahkan dalam arsitektur modern, pendekatan desain berkelanjutan sangat bergantung pada pengamatan alam. Seorang arsitek bisa mengklasifikasikan mekanisme ventilasi sarang rayap dan menerapkannya untuk merancang gedung hemat energi.
+Bahkan dalam arsitektur modern, pendekatan desain berkelanjutan sangat bergantung pada pengamatan alam. Seorang arsitek bisa mempelajari mekanisme ventilasi sarang rayap dan menerapkannya untuk merancang gedung hemat energi.
 
 ## Menyelidiki Populasi Burung yang Anjlok
 
@@ -58,7 +58,7 @@ Mungkin ia menyadari perubahan frekuensi dengungan serangga di pagi hari. Atau i
 
 Jika kamu ingin mengasah kepekaan ini, ada beberapa pendekatan yang bisa diterapkan sehari-hari. Mulailah dengan observasi mikro di sekitarmu. Kamu bisa memilih petak kecil tanah di pekarangan rumah, lalu amati interaksi kehidupan di sana selama sepuluh menit setiap hari untuk melihat perubahannya. 
 
-Menulis jurnal alam juga bisa menjadi kebiasaan baru. Dokumentasikan spesies burung atau tanaman liar apa saja yang kamu temui saat dalam perjalanan menuju tempat kerja. Selain itu, kamu bisa berlatih mengklasifikasikan benda-benda fisik di lingkunganmu (seperti koleksi buku atau berkas digital) berdasarkan detail bentuk dan karakteristik spesifiknya, terlepas dari fungsi utamanya.
+Menulis jurnal alam juga bisa menjadi kebiasaan baru. Dokumentasikan spesies burung atau tanaman liar apa saja yang kamu temui saat dalam perjalanan menuju tempat kerja. Selain itu, kamu bisa berlatih mengklasifikasikan benda-benda fisik di lingkunganmu (seperti koleksi buku) berdasarkan detail bentuk dan karakteristik spesifiknya, terlepas dari fungsi utamanya.
 
 Inti dari Kecerdasan Naturalis terletak pada kejelianmu menyelami sistem kehidupan beserta interaksinya, tanpa harus bergantung pada seberapa banyak nama Latin tanaman yang sanggup kamu hafal.
 

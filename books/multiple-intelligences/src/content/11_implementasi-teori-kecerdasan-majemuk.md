@@ -1,8 +1,8 @@
 ## Implementasi Teori Kecerdasan Majemuk
 
-Menerapkan Teori Kecerdasan Majemuk (Multiple Intelligences/MI) tidak berarti guru harus menyiapkan delapan pelajaran berbeda untuk setiap pertemuan. Konsep ini lebih menekankan pada penyediaan "pintu masuk" yang beragam ke dalam satu materi yang sama.
+Menerapkan Teori Kecerdasan Majemuk (Multiple Intelligences/MI) tidak berarti guru harus menyiapkan delapan pelajaran berbeda untuk setiap pertemuan. Konsep ini lebih menekankan penyediaan "pintu masuk" yang beragam ke dalam satu materi yang sama.
 
-Semangatnya adalah menghargai perbedaan cara manusia belajar. Tujuannya bukan mengkotak-kotakkan siswa, melainkan membuka lebih banyak jalan bagi mereka untuk memahami dunia.
+Semangatnya adalah menghargai perbedaan cara manusia belajar. Tujuannya bukan mengotak-ngotakkan siswa, melainkan membuka lebih banyak jalan bagi mereka untuk memahami dunia.
 
 ## 1. Menentukan Titik Masuk (Entry Points)
 
@@ -35,7 +35,7 @@ Pendekatan visual-spasial bisa dihidupkan lewat peta pikiran (*mind mapping*), v
 
 ### C. Kecerdasan Musikal & Naturalis
 
-Siswa dengan kecerdasan musikal cenderung lebih cepat paham jika rumus atau fakta diubah menjadi lirik lagu, atau ketika ada latar suara yang membangun suasana belajar yang kondusif. Untuk sisi naturalis, libatkan mereka dalam observasi di luar kelas atau tugaskan untuk mengklasifikasikan materi berdasarkan karakteristik fisik, seperti pengelompokkan jenis batuan atau struktur daun.
+Siswa dengan kecerdasan musikal cenderung lebih cepat paham jika rumus atau fakta diubah menjadi lirik lagu, atau ketika ada latar suara yang membangun suasana belajar yang kondusif. Untuk sisi naturalis, libatkan mereka dalam observasi di luar kelas atau tugaskan untuk mengklasifikasikan materi berdasarkan karakteristik fisik, seperti pengelompokan jenis batuan atau struktur daun.
 
 ### D. Kecerdasan Interpersonal & Intrapersonal
 
@@ -59,14 +59,14 @@ Rubrik penilaian yang terukur sangat diperlukan agar standar kompetensi tetap te
 Sebagai ilustrasi, Teori MI dapat diterapkan secara menyeluruh dalam satu unit pelajaran mengenai Siklus Air (*Water Cycle*). 
 
 - **Siswa Linguistik:** Menulis cerita pendek tentang perjalanan "Tetes Air" dari samudra ke awan.
-- **Siswa Logis:** Membuat grafik suhu yang diperlukan untuk penguapan dan menghitung volume presipitasi. Rumus sederhana pemanasan yang dapat dieksplorasi adalah $Q = m \cdot c \cdot \Delta T$.
+- **Siswa Logis:** Membuat grafik hubungan suhu dengan laju penguapan dan menghitung volume presipitasi. Rumus sederhana pemanasan yang dapat dieksplorasi adalah $Q = m \cdot c \cdot \Delta T$.
 - **Siswa Spasial:** Menggambar diagram siklus air dengan kode warna khusus sebagai representasi perpindahan energi.
 - **Siswa Kinestetik:** Mempraktikkan gerakan tubuh untuk mensimulasikan proses kondensasi (berkumpul rapat) dan evaporasi (bergerak cepat menjauh).
 - **Siswa Musikal:** Menciptakan ketukan perkusi menggunakan benda-benda di sekitar kelas untuk meniru ritme suara gerimis hingga badai.
 
 ## 5. Struktur Kurikulum Berbasis MI
 
-Para perancang instruksional dapat mengadaptasi struktur modul sederhana menggunakan pendekatan kecerdasan majemuk ke dalam format terstruktur. Contohnya seperti modul berikut.
+Para perancang instruksional dapat mengadaptasi struktur modul sederhana menggunakan pendekatan kecerdasan majemuk. Contohnya seperti modul berikut.
 
 > **Modul Pembelajaran Revolusi Industri**
 >

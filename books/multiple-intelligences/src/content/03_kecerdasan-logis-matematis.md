@@ -1,8 +1,8 @@
 ## Kecerdasan Logis-Matematis
 
-Pernahkah kamu mengamati bagaimana beberapa orang begitu cepat menangkap kejanggalan dalam sebuah argumen? Atau melihat seorang programmer yang memelototi ribuan baris kode dan hampir instan menyadari di mana letak cacat logikanya? Inilah wujud nyata dari **Kecerdasan Logis-Matematis**.
+Pernahkah kamu mengamati bagaimana beberapa orang begitu cepat menangkap kejanggalan dalam sebuah argumen? Atau melihat seorang pemrogram yang memelototi ribuan baris kode dan hampir instan menyadari di mana letak cacat logikanya? Inilah wujud nyata dari **Kecerdasan Logis-Matematis**.
 
-Kemampuan ini sering disalahpahami sebagai bakat bawaan mencerna deret angka di luar kepala. Inti dari kecerdasan ini sebenarnya terletak pada kepekaan mengenali pola dan menyusun penalaran, baik secara deduktif maupun induktif. Kalau kecerdasan linguistik bermain-main dengan "kata", logis-matematis bekerja dengan **"hubungan"** antar informasi yang berserakan.
+Kemampuan ini sering disalahpahami sebagai bakat bawaan mencerna deret angka di luar kepala. Inti dari kecerdasan ini sebenarnya terletak pada kepekaan mengenali pola dan menyusun penalaran, baik secara deduktif maupun induktif. Kalau kecerdasan linguistik bermain-main dengan "kata", logis-matematis bekerja dengan **"hubungan"** antarinformasi yang berserakan.
 
 ### 1. Membedah Karakteristik Utama
 
@@ -18,9 +18,9 @@ Dua dasar penalaran matematis adalah deduksi dan induksi.
 
 **Penalaran Deduktif (Top-Down)** adalah cara menarik kesimpulan spesifik dari premis universal. Di sinilah kepastian logika diuji. Aturannya ketat: Jika $A = B$ dan $B = C$, mutlak berlaku $A = C$. Pola ini sering dicontohkan lewat silogisme klasik. Kita berangkat dari kepastian seperti "Semua manusia pada akhirnya akan mati." Ketika dihadapkan pada fakta "Socrates adalah manusia," hasil turunannya tak bisa digeser: Socrates pasti mati.
 
-Di sisi lain, **Penalaran Induktif (Bottom-Up)** merangkai kejadian-kejadian parsial demi mencetak dalil umum. Kita merekam pengamatan harian, misalnya kenyataan bahwa matahari muncul dari balik ufuk timur sejak hari-hari sebelumnya. Dari akumulasi fenomena terpisah itu, ditariklah postulat bahwa secara konstan matahari terbit di arah timur.
+Di sisi lain, **Penalaran Induktif (Bottom-Up)** merangkai kejadian-kejadian parsial demi mencetak dalil umum. Kita merekam pengamatan harian, misalnya kenyataan bahwa matahari muncul dari balik ufuk timur sejak hari-hari sebelumnya. Dari akumulasi fenomena terpisah itu, ditariklah dalil umum bahwa secara konstan matahari terbit di arah timur.
 
-### 3. Pemikiran Algoritmik
+### 3. Pemikiran Algoritmis
 
 Dalam ranah rekayasa teknologi, dasar ini berkembang menjadi kemampuan berpikir algoritmis, yaitu menerjemahkan rumusan mentah ke rentetan instruksi paling masuk akal demi menuntaskan tugas.
 
@@ -49,11 +49,11 @@ Ada landasan yang jelas di balik cara kerja ini. Percepatannya bertumpu pada for
 
 ### 4. Pendekatan Asah Nalar Sesuai Karakter
 
-Gaya belajar setiap orang menentukan cara yang paling cocok untuk mempertajam nalar.
+Sebagian orang merasa lebih nyaman dengan cara tertentu untuk mempertajam nalar.
 
 Jika kamu lebih lekat dengan orientasi visual, cara seperti memetakan alur menggunakan *flowchart*, menyusun diagram Venn, atau merakit hierarki lewat *mind-map* akan amat mendongkrak kejelasan. Melihat perpindahan data secara visual sering kali membuat logika sistem yang rumit lebih mudah dipahami.
 
-Bagi pihak yang condong menangkap intisari lewat medium suara, berdebat secara logis atau tekun menyimak wacana saintifik dan filosofis lewat siniar adalah cara yang tepat. Melafalkan proses pemecahan masalah dengan gamblang terbukti membuat ingatan tentang sebab-akibat bertahan lebih lama.
+Bagi pihak yang condong menangkap intisari lewat medium suara, berdebat secara logis atau tekun menyimak wacana saintifik dan filosofis lewat siniar adalah cara yang tepat. Melafalkan proses pemecahan masalah dengan gamblang dapat membuat ingatan tentang sebab-akibat bertahan lebih lama.
 
 Sementara itu, aktivitas fisik menjadi tempat berlatih paling produktif untuk profil kinestetik. Interaksi fisiknya bermacam-macam, mulai dari berkonsentrasi di depan papan catur, menguji hipotesis rekayasa di meja eksperimen, hingga membongkar komponen mesin untuk melacak cara geraknya. Praktik fisik langsung mengubah hubungan sebab-akibat yang abstrak menjadi sesuatu yang nyata.
 
@@ -63,7 +63,7 @@ Daya pikir ini dipakai jauh di luar ujian kalkulus. Ia menopang berbagai bidang 
 
 Di bidang ekonomi dan keuangan, instrumen kuantitatif dipakai untuk membaca tren bursa serta memetakan probabilitas risiko berdasarkan rasio dan statistik. Profesi pengolahan data memakai cara serupa; jutaan data mentah dirangkum jadi panduan langkah, seperti melacak persebaran epidemi berdasarkan kepadatan dan laju mobilitas harian penduduk.
 
-Bidang peradilan sama-sama menuntut kemampuan ini. Praktisi hukum bertugas menyusun fakta yang tersebar di tumpukan berkas menjadi argumen yang saling mengikat dan tahan terhadap bantahan logis. Terakhir, di rekayasa sipil, kekokohan struktur besar seperti jembatan bergantung pada perhitungan ekuilibrium beban tegangan: $\sum F\_x = 0$, $\sum F\_y = 0$, dan $\sum M = 0$.
+Bidang peradilan juga menuntut kemampuan ini. Praktisi hukum bertugas menyusun fakta yang tersebar di tumpukan berkas menjadi argumen yang saling mengikat dan tahan terhadap bantahan logis. Terakhir, di rekayasa sipil, kekokohan struktur besar seperti jembatan bergantung pada perhitungan ekuilibrium beban tegangan: $\sum F\_x = 0$, $\sum F\_y = 0$, dan $\sum M = 0$.
 
 ### 6. Menjaga Kelincahan Penalaran
 

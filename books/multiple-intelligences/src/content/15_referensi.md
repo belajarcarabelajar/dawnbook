@@ -16,4 +16,4 @@ Gardner, H., & Hatch, T. (1989). Educational implications of the theory of multi
 
 Gardner, H., & Moran, S. (2006). The science of multiple intelligences theory: A response to Lynn Waterhouse. *Educational Psychologist*, *41*(4), 227–232. https://doi.org/10.1207/s15326985ep4104_2
 
-Kornhaber, M. L. (2019). The theory of multiple intelligences. In R. J. Sternberg & S. B. Kaufman (Eds.), *The Cambridge handbook of intelligence* (pp. 659–678). Cambridge University Press. https://doi.org/10.1017/9781108770422.028
+Kornhaber, M. L. (2019). The theory of multiple intelligences. In R. J. Sternberg (Ed.), *The Cambridge handbook of intelligence* (2nd ed., pp. 659–678). Cambridge University Press. https://doi.org/10.1017/9781108770422.028
