@@ -17,7 +17,7 @@ Strategi berikut dirancang untuk **memperkuat sinapsis** dengan bekerja selaras 
 
 - Tutup buku kamu dan tuliskan semua hal yang kamu ingat di kertas kosong.
 - Gunakan *flashcards* (seperti Anki atau Quizlet).
-- Ajarkan konsep tersebut kepada orang lain (Teknik Feynman).
+- Ajarkan konsep tersebut kepada orang lain.
 
 > **Penting:** Semakin sulit kamu berusaha mengingat, semakin kuat sinyal yang dikirimkan ke otak bahwa informasi ini penting untuk dipertahankan.
 
@@ -26,7 +26,7 @@ Strategi berikut dirancang untuk **memperkuat sinapsis** dengan bekerja selaras 
 **Spaced Repetition** (Pengulangan Berjarak) adalah teknik mendistribusikan sesi belajar dalam interval waktu yang meningkat.
 
 - **Mekanisme Neuroplastisitas:** Otak kita secara biologis dirancang untuk melupakan informasi yang tidak dianggap vital. Dengan meninjau kembali materi tepat sebelum kamu hampir melupakannya, kamu memaksa otak untuk melakukan konsolidasi ulang memori secara lebih mendalam melalui proses yang disebut **Long-Term Potentiation (LTP)**.
-- **Rumus Matematika Kurva Melupakan:** Model eksponensial yang lazim dipakai untuk kurva melupakan Hermann Ebbinghaus adalah $R = e^{-\frac{t}{S}}$ Di mana:
+- **Rumus Matematika Kurva Melupakan:** Salah satu model eksponensial untuk kurva melupakan adalah $R = e^{-\frac{t}{S}}$ Di mana:
 	- $R$ adalah retensi (seberapa banyak kita ingat).
 		- $S$ adalah kekuatan memori (stabilitas).
 		- $t$ adalah waktu yang telah berlalu.
@@ -69,7 +69,7 @@ Berikut contoh aturan sederhana untuk menentukan kapan sebuah kartu belajar perl
 
 Untuk memastikan strategi di atas memicu neuroplastisitas yang maksimal, cermati elemen pendukung berikut:
 
-1. **Fokus Intens (Deep Work):** Tanpa atensi penuh, neuromodulator seperti asetilkolin tidak akan dilepaskan, dan perubahan fisik pada sinapsis tidak akan terjadi.
+1. **Fokus Intens (Deep Work):** Tanpa atensi penuh, belajar jauh lebih sulit menempel.
 2. **Kesalahan sebagai Sinyal:** Saat kamu melakukan kesalahan dalam *Active Recall*, **jangan frustrasi**. Kesalahan itu menandai bagian yang belum kamu kuasai.
 3. **Batas Durasi:** Belajarlah dalam sesi sekitar 90 menit, kemudian beri dirimu waktu istirahat.
 

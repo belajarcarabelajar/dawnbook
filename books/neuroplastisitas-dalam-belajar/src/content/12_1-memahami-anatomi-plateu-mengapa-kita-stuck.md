@@ -23,7 +23,7 @@ Banyak pembelajar menyerah saat mereka mulai melakukan kesalahan. Padahal, dalam
 
 1. **Prediksi:** Otak memprediksi hasil dari suatu tindakan.
 2. **Kesalahan (Error):** Hasil tidak sesuai ekspektasi.
-3. **Sinyal Kimia:** Terjadi lonjakan aktivitas pada sirkuit pendeteksi kesalahan.
+3. **Sinyal Kesalahan:** Terjadi lonjakan aktivitas pada sirkuit pendeteksi kesalahan.
 4. **Plastisitas:** Otak menjadi fleksibel dalam beberapa saat setelah kesalahan terjadi untuk "mencari" solusi yang benar.
 
 *Prinsip Sinyal Kesalahan: Tanpa adanya kekeliruan saat berlatih, sistem saraf berasumsi bahwa jalur yang aktif saat ini sudah memadai sehingga tidak memicu mekanisme rekonfigurasi plastisitas.*
