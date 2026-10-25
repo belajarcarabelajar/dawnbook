@@ -138,5 +138,10 @@ One PR through `pr-registry open`; merge asked alone with `--match-head-commit`;
 
 ## Backlog (LATER)
 
-- `defer: DOI repair, owner decision` a Crossref and doi.org check of about 900 DOI links found about 63 unregistered DOIs and about a dozen that resolve to other works, across about 30 books: `docs/code-plan/artifacts/2026-10-25-dawnbook-doi-audit.md`.
+- `defer: DOI repair, new plan after this merge (owner decision 2026-10-25)` a Crossref and doi.org check of about 900 DOI links found about 63 unregistered DOIs and about a dozen that resolve to other works, across about 30 books: `docs/code-plan/artifacts/2026-10-25-dawnbook-doi-audit.md`.
 - `defer: citation details, next Referensi pass` link writers reported year, edition or co-author differences between some citations and their records (for example Beck et al. 1979 cited as Beck alone, Pindyck 2018 vs the 2017 print, Lysgaard's title); text was kept as cited.
+
+## Closeout status
+
+- 2026-10-25, before the merge of PR #211: `bun ~/vivera/scripts/plan-closeout.mjs --readiness` = NEEDS-HUMAN (exit 3): every task step box ticked, every task UNPROVEN (no `skip_if`), X1 open. Owner decision (Close plan gate): keep it open. Reopen after the merge, deploy, D1 seed and GSC reindex; the status flip ships in the next session's PR together with the DOI-repair plan.
+- Owner follow-up: the placeholder author name was also removed from the body of merged PR #206 (gh pr edit, 2026-10-25). Git history is left unchanged (rewriting `main` would need a force push).
