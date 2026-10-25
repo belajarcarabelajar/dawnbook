@@ -4,17 +4,17 @@ Berikut adalah daftar rujukan literatur ilmiah, buku, dan jurnal akademik yang m
 
 Cohen, R., Bavishi, C., & Rozanski, A. (2016). Purpose in life and its relationship to all-cause mortality and cardiovascular events: A meta-analysis. *Psychosomatic Medicine, 78*(2), 122–133. [https://doi.org/10.1097/PSY.0000000000000274](https://doi.org/10.1097/PSY.0000000000000274)
 
-Frankl, V. E. (1985). *Man's search for meaning* (Revised and updated ed.). Washington Square Press. (Original work published 1946).
+Frankl, V. E. (1985). *Man's search for meaning* (Revised and updated ed.). Washington Square Press. (Original work published 1946). [https://openlibrary.org/works/OL1268413W](https://openlibrary.org/works/OL1268413W)
 
 García, H., & Miralles, F. (2017). *Ikigai: The Japanese secret to a long and happy life*. Penguin Books. [https://www.penguinrandomhouse.com/books/549469/ikigai-by-hector-garcia-and-francesc-miralles/](https://www.penguinrandomhouse.com/books/549469/ikigai-by-hector-garcia-and-francesc-miralles/)
 
 Hill, P. L., & Turiano, N. A. (2014). Purpose in life as a predictor of mortality across adulthood. *Psychological Science, 25*(7), 1482–1486. [https://doi.org/10.1177/0956797614531799](https://doi.org/10.1177/0956797614531799)
 
-Kamiya, M. (1966). *Ikigai-ni-tsuite* [On the meaning of life]. Misuzu Shobo.
+Kamiya, M. (1966). *Ikigai-ni-tsuite* [On the meaning of life]. Misuzu Shobo. [https://www.msz.co.jp/book/detail/08181/](https://www.msz.co.jp/book/detail/08181/)
 
 Kumano, M. (2018). On the concept of well-being in Japan: Feeling shiawase as hedonic well-being and feeling ikigai as eudaimonic well-being. *Applied Research in Quality of Life, 13*(2), 419–433. [https://doi.org/10.1007/s11482-017-9532-9](https://doi.org/10.1007/s11482-017-9532-9)
 
-Mogi, K. (2017). *Awakening your ikigai: How the Japanese wake up to joy and purpose every day*. The Experiment.
+Mogi, K. (2017). *Awakening your ikigai: How the Japanese wake up to joy and purpose every day*. The Experiment. [https://theexperimentpublishing.com/catalogs/spring-2018/awakening-your-ikigai/](https://theexperimentpublishing.com/catalogs/spring-2018/awakening-your-ikigai/)
 
 Ryff, C. D. (1989). Happiness is everything, or is it? Explorations on the meaning of psychological well-being. *Journal of Personality and Social Psychology, 57*(6), 1069–1081. [https://doi.org/10.1037/0022-3514.57.6.1069](https://doi.org/10.1037/0022-3514.57.6.1069)
 
