@@ -1,12 +1,12 @@
 ## Referensi
 Daftar referensi berikut memuat karya akademis utama, buku teks dasar mikroekonomi, serta artikel jurnal ilmiah. Karya-karya ini menjadi fondasi dalam pembahasan elastisitas harga permintaan dan penawaran. Jika kamu ingin mendalami lebih jauh konsep elastisitas dari sudut pandang teori maupun analisis empiris, kamu dapat merujuk pada sumber-sumber literatur ilmiah berikut.
 ### Buku Teks Utama
-Case, K. E., Fair, R. C., & Oster, S. M. (2020). *Principles of microeconomics* (13th ed.). Pearson.
-Mankiw, N. G. (2021). *Principles of microeconomics* (9th ed.). Cengage Learning.
-Marshall, A. (1890). *Principles of economics*. Macmillan and Co.
-Pindyck, R. S., & Rubinfeld, D. L. (2018). *Microeconomics* (9th ed.). Pearson.
-Samuelson, P. A., & Nordhaus, W. D. (2010). *Economics* (19th ed.). McGraw-Hill Education.
-Varian, H. R. (2014). *Intermediate microeconomics: A modern approach* (9th ed.). W. W. Norton & Company.
+Case, K. E., Fair, R. C., & Oster, S. M. (2020). *Principles of microeconomics* (13th ed.). Pearson. [https://www.pearson.com/en-us/subject-catalog/p/principles-of-microeconomics/P200000005852/9780135196809](https://www.pearson.com/en-us/subject-catalog/p/principles-of-microeconomics/P200000005852/9780135196809)
+Mankiw, N. G. (2021). *Principles of microeconomics* (9th ed.). Cengage Learning. [https://www.cengage.com/c/principles-microeconomics-9e-mankiw/9780357133484/](https://www.cengage.com/c/principles-microeconomics-9e-mankiw/9780357133484/)
+Marshall, A. (1890). *Principles of economics*. Macmillan and Co. [https://openlibrary.org/works/OL18412680W](https://openlibrary.org/works/OL18412680W)
+Pindyck, R. S., & Rubinfeld, D. L. (2018). *Microeconomics* (9th ed.). Pearson. [https://www.pearson.com/en-us/subject-catalog/p/microeconomics/P200000006021/9780136879572](https://www.pearson.com/en-us/subject-catalog/p/microeconomics/P200000006021/9780136879572)
+Samuelson, P. A., & Nordhaus, W. D. (2010). *Economics* (19th ed.). McGraw-Hill Education. [https://openlibrary.org/works/OL20101917W](https://openlibrary.org/works/OL20101917W)
+Varian, H. R. (2014). *Intermediate microeconomics: A modern approach* (9th ed.). W. W. Norton & Company. [https://openlibrary.org/works/OL15484449W](https://openlibrary.org/works/OL15484449W)
 ### Artikel Jurnal Ilmiah
 Andreyeva, T., Long, M. W., & Brownell, K. D. (2010). The impact of food prices on consumption: A systematic review of research on the price elasticity of demand for food. *American Journal of Public Health*, 100(2), 216-222. [https://doi.org/10.2105/AJPH.2008.151415](https://doi.org/10.2105/AJPH.2008.151415)
 Deaton, A., & Muellbauer, J. (1980). An almost ideal demand system. *The American Economic Review*, 70(3), 312-326. [https://www.jstor.org/stable/1805222](https://www.jstor.org/stable/1805222)
