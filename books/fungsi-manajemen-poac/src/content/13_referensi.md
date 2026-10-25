@@ -12,9 +12,9 @@ Ayu, S. S., & Nawawi, Z. M. (2023). Penerapan Planning, Organizing, Actuating, A
 
 Faiz, M., Suciamy, R., Zaskia, S., & Kusumaningrum, H. (2024). Implementasi POAC dalam manajemen pendidikan modern. *Reflection: Islamic Education Journal*, *1*(4), 26-36. [https://doi.org/10.61132/reflection.v1i4.157](https://doi.org/10.61132/reflection.v1i4.157)
 
-Fayol, H. (1949). *General and industrial management* (C. Storrs, Trans.). Sir Isaac Pitman & Sons. (Karya asli diterbitkan tahun 1916)
+Fayol, H. (1949). *General and industrial management* (C. Storrs, Trans.). Sir Isaac Pitman & Sons. (Karya asli diterbitkan tahun 1916) [https://openlibrary.org/books/OL48601498M](https://openlibrary.org/books/OL48601498M)
 
-Hasibuan, M. S. P. (2016). *Manajemen: Dasar, pengertian, dan masalah* (Edisi revisi). Bumi Aksara.
+Hasibuan, M. S. P. (2016). *Manajemen: Dasar, pengertian, dan masalah* (Edisi revisi). Bumi Aksara. [https://elibrary.utnd.ac.id/index.php?p=show_detail&id=5300](https://elibrary.utnd.ac.id/index.php?p=show_detail&id=5300)
 
 Hutabarat, M. Y., Elvida, E., Muharif, R., & Agustiar, A. (2025). Analysis of the influence of management functions POAC in improving the performance of PT Socfindo. *Serambi Journal of Agricultural Technology*, *7*(1), 58-65. [https://doi.org/10.32672/sjat.v7i1.9320](https://doi.org/10.32672/sjat.v7i1.9320)
 
@@ -24,6 +24,6 @@ Ningsih, I. W. (2026). Implementasi manajemen POAC di lembaga pendidikan Al-Qur'
 
 Nurhikmah, N. (2024). Educational management functions: Planning, organizing, actuating, controlling. *INTIHA: Islamic Education Journal*, *1*(2), 82-91. [https://doi.org/10.58988/intiha.v1i2.293](https://doi.org/10.58988/intiha.v1i2.293)
 
-Robbins, S. P., & Coulter, M. (2021). *Management* (edisi ke-15). Pearson.
+Robbins, S. P., & Coulter, M. (2021). *Management* (edisi ke-15). Pearson. [https://www.pearson.com/nl/en_NL/higher-education/subject-catalogue/business-and-management/Management-15e-Robbins-Coulter.html](https://www.pearson.com/nl/en_NL/higher-education/subject-catalogue/business-and-management/Management-15e-Robbins-Coulter.html)
 
 Terry, G. R. (1972). *Principles of management* (edisi ke-6). Richard D. Irwin. [https://openlibrary.org/books/OL13797349M](https://openlibrary.org/books/OL13797349M)
