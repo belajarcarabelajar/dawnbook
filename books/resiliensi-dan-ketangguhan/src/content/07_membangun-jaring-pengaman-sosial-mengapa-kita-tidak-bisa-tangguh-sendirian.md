@@ -37,7 +37,7 @@ Tidak semua interaksi sosial memperkuat resiliensi. Hubungan yang toksik justru 
 
 1. **Keamanan Psikologis:** Kamu merasa aman untuk menunjukkan kerentanan tanpa takut dihakimi.
 2. **Timbal Balik (Reciprocity):** Ada keseimbangan antara memberi dan menerima dukungan.
-3. **Kejujuran yang Penuh Kasih:** Mereka berani menegurmu saat kamu salah, namun dengan cara yang mendukung pertumbuhanmu.
+3. **Kejujuran yang Penuh Kasih:** Mereka berani menegurmu saat kamu salah, tetapi dengan cara yang mendukung pertumbuhanmu.
 
 Dalam sosiologi, kekuatan hubungan ini sering dikaitkan dengan konsep **Modal Sosial**. Sebagai ilustrasi sederhana (bukan rumus baku):
 
@@ -79,7 +79,7 @@ Untuk kamu yang lebih suka belajar melalui tindakan, cobalah latihan **"Peta Jar
 1. Ambil selembar kertas, gambar titik di tengah yang mewakili dirimu.
 2. Buat tiga lingkaran konsentris di sekitar titik tersebut:
    - **Lingkaran 1 (Inti):** Tuliskan 3-5 orang yang akan kamu hubungi pertama kali saat terjadi bencana besar (pasangan, orang tua, sahabat karib).
-   - **Lingkaran 2 (Pendukung):** Tuliskan teman atau kerabat yang sering berinteraksi denganmu namun tidak sedekat Lingkaran 1.
+   - **Lingkaran 2 (Pendukung):** Tuliskan teman atau kerabat yang sering berinteraksi denganmu tetapi tidak sedekat Lingkaran 1.
    - **Lingkaran 3 (Komunitas):** Tuliskan grup atau organisasi tempat kamu bernaung (tempat ibadah, klub hobi, rekan kerja).
 3. **Tindakan:** Minggu ini, hubungi satu orang dari setiap lingkaran hanya untuk memperkuat koneksi tersebut.
 

@@ -1,6 +1,6 @@
 ## Protokol Jurnal Resiliensi Harian
 
-Anggap halaman ini sebagai mental gym kamu, ruang yang diisi jurnal dan latihan praktis, bukan tumpukan teori baru tentang resiliensi. Jika bagian-bagian sebelumnya telah membekali kamu dengan teori dan pemahaman tentang resiliensi, bagian ini adalah tempat di mana kamu benar-benar "mengangkat beban" untuk memperkuat resilience muscle tersebut.
+Anggap halaman ini sebagai mental gym kamu, ruang yang diisi jurnal dan latihan praktis, bukan tumpukan teori baru tentang resiliensi. Jika bagian-bagian sebelumnya telah membekali kamu dengan teori dan pemahaman tentang resiliensi, bagian ini adalah tempat kamu benar-benar "mengangkat beban" untuk memperkuat resilience muscle tersebut.
 
 Resiliensi bukanlah sebuah bakat yang kita bawa sejak lahir, melainkan sebuah keterampilan yang diasah melalui pengulangan. Analogi yang tepat adalah **sistem kekebalan tubuh**. Tubuh kita menjadi kuat bukan karena tidak pernah terpapar kuman, melainkan karena ia belajar mengenali, melawan, dan beradaptasi setelah terpapar. Latihan praktis dan jurnal ini adalah "vaksin" dan "nutrisi" bagi mentalmu.
 
@@ -21,12 +21,12 @@ Lakukan ini setiap malam sebelum tidur untuk melatih otak mencari pola positif b
 Gunakan metode ini saat kamu mengalami kejadian spesifik yang menekan atau membuat stres.
 
 - **A (Adversity):** Apa peristiwa yang terjadi? (Hanya fakta, tanpa opini).
-- **B (Belief):** Apa yang kamu katakan pada diri sendiri tentang kejadian itu? (Misal: "Saya memang bodoh").
+- **B (Belief):** Apa yang kamu katakan pada diri sendiri tentang kejadian itu? (Misalnya: "Saya memang bodoh").
 - **C (Consequences):** Apa perasaan atau tindakan yang muncul akibat keyakinan tersebut?
 - **D (Disputation):** Debat keyakinan negatifmu. Apa bukti bahwa itu tidak sepenuhnya benar?
 - **E (Energization):** Bagaimana perasaanmu sekarang setelah berhasil melakukan reframing terhadap masalah tersebut?
 
-> **Penting:** Konsistensi lebih berharga daripada durasi. Menulis selama 5 menit setiap hari lebih efektif daripada menulis 2 jam namun hanya dilakukan sebulan sekali.
+> **Penting:** Konsistensi lebih berharga daripada durasi. Menulis selama 5 menit setiap hari lebih efektif daripada menulis 2 jam tetapi hanya dilakukan sebulan sekali.
 
 ## 2. Visualisasi "The Resilient Self"
 
@@ -36,7 +36,7 @@ Visualisasi berbeda dengan lamunan kosong (daydreaming). Bagi otak, visualisasi 
 
 Biasanya, kita memvisualisasikan kegagalan (kecemasan). Kali ini, kita akan membalikkan arusnya:
 
-1. **Identifikasi Tantangan:** Bayangkan sebuah situasi sulit yang akan kamu hadapi (misal: presentasi besar atau percakapan sulit).
+1. **Identifikasi Tantangan:** Bayangkan sebuah situasi sulit yang akan kamu hadapi (misalnya: presentasi besar atau percakapan sulit).
 2. **Visualisasikan Hambatan:** Jangan bayangkan semuanya berjalan mulus. Bayangkan ada masalah kecil yang muncul di tengah jalan.
 3. **Visualisasikan Respons:** Lihat dirimu menarik napas dalam, tetap tenang, dan menggunakan salah satu teknik resiliensi (seperti melakukan reframing) untuk mengatasinya.
 4. **Rasakan Hasilnya:** Rasakan kelegaan dan kepuasan setelah kamu berhasil melewati hambatan tersebut, bukan karena keberuntungan, tetapi berkat tindakanmu.

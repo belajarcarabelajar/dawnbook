@@ -76,7 +76,7 @@ Sering kali orang bingung membedakan antara berpikir positif (optimisme) dan mem
 | **Tujuan** | Merasa lebih baik secara instan. | Memperbaiki strategi untuk masa depan. |
 | **Tindakan** | Pasif. | Aktif dan adaptif. |
 
-**Penting:** Membingkai ulang bukan berarti kamu tidak boleh merasa sedih atau kecewa. Izinkan dirimu merasakan emosi tersebut, namun jangan biarkan emosi tersebut menulis narasi permanen tentang siapa dirimu.
+**Penting:** Membingkai ulang bukan berarti kamu tidak boleh merasa sedih atau kecewa. Izinkan dirimu merasakan emosi tersebut, tetapi jangan biarkan emosi tersebut menulis narasi permanen tentang siapa dirimu.
 
 ### Mengubah "Beban" Menjadi "Latihan"
 

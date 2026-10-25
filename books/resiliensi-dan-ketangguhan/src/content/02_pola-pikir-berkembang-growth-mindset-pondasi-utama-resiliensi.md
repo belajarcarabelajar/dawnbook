@@ -46,7 +46,7 @@ $$
 \text{P}(\text{t}) = \text{P}_0 \cdot e^{\text{k}\text{t}}
 $$
 
-Di mana:
+Keterangan:
 
 - $\text{P}_0$ adalah kemampuan awal.
 - $\text{k}$ adalah konstanta tingkat pembelajaran (seberapa terbuka kita pada umpan balik).
@@ -61,7 +61,7 @@ Mengubah pola pikir tidak terjadi semalam. Ini adalah proses "re-wiring" otakmu.
 1. **Kenali Suara "Fixed Mindset":** Saat kamu gagal dan mendengar suara internal berkata, *"Sudah kubilang kan kamu tidak berbakat,"* segera sadari bahwa itu adalah jebakan pola pikir tetap.
 2. **Balas dengan Suara "Growth Mindset":** Jawab suara tersebut dengan, *"Mungkin saya memang belum mahir sekarang, tapi saya bisa belajar dari kesalahan ini."*
 3. **Hargai Proses, Bukan Hanya Hasil:** Alih-alih memuji diri sendiri karena "pintar", pujilah diri sendiri karena "strategi yang tepat" atau "usaha yang gigih".
-4. **Cari Tantangan yang Tepat:** Keluar dari zona nyaman secara bertahap. Jika terlalu mudah, kamu tidak belajar; jika terlalu sulit, kamu bisa frustrasi. Cari "Sweet Spot" di mana kamu merasa sedikit kesulitan namun masih tertantang.
+4. **Cari Tantangan yang Tepat:** Keluar dari zona nyaman secara bertahap. Jika terlalu mudah, kamu tidak belajar; jika terlalu sulit, kamu bisa frustrasi. Cari "Sweet Spot" tempat kamu merasa sedikit kesulitan tetapi masih tertantang.
 
 ### 6. Penerapan Nyata & Skenario
 

@@ -110,7 +110,7 @@ Keterangan:
 
 ## Fleksibel tanpa Kehilangan Prinsip
 
-**Penting:** Fleksibilitas kognitif bukan berarti kamu tidak memiliki prinsip atau tujuan. Tujuanmu tetap sama (misalnya, sampai ke tujuan), namun rute yang kamu ambil bisa berubah berkali-kali.
+**Penting:** Fleksibilitas kognitif bukan berarti kamu tidak memiliki prinsip atau tujuan. Tujuanmu tetap sama (misalnya, sampai ke tujuan), tetapi rute yang kamu ambil bisa berubah berkali-kali.
 
 > **Key Takeaway:** Ketangguhan bukan tentang seberapa kuat kamu menahan beban tanpa bergerak, tetapi seberapa cepat kamu bisa menyesuaikan langkah saat keadaan berubah.
 

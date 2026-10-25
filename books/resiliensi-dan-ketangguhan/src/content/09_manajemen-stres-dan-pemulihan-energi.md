@@ -6,13 +6,13 @@ Ketangguhan bukan berarti kamu tidak pernah merasa lelah atau stres; ketangguhan
 
 ### 1. Biologi Stres
 
-Stres sering kali dianggap sebagai musuh, padahal secara biologis, stres adalah mekanisme pertahanan hidup. Saat menghadapi tantangan, tubuh kita mengaktifkan *Sympathetic Nervous System* (sistem saraf simpatik) yang melepaskan hormon **Kortisol** dan **Adrenalin**.
+Stres sering kali dianggap sebagai musuh, padahal secara biologis, stres adalah mekanisme pertahanan hidup. Saat menghadapi tantangan, tubuh kita mengaktifkan *Sympathetic Nervous System* (sistem saraf simpatik) yang melepaskan hormon **kortisol** dan **adrenalin**.
 
 Dalam dosis kecil, ini disebut sebagai **Eustress** (stres positif) yang membantu kita tetap fokus dan waspada. Namun, jika terjadi terus-menerus, ia berubah menjadi **Distress** yang merusak sel tubuh dan menurunkan fungsi kognitif.
 
 > **Insight:** Resiliensi tidak dibangun dengan menghindari stres, tetapi dengan memperpendek durasi respons stres dan mempercepat aktivasi *Parasympathetic Nervous System* (sistem saraf parasimpatik) yang bertanggung jawab untuk *rest and digest* (istirahat dan cerna).
 
-*Kapan terakhir kali kamu merasa stres namun justru merasa produktif? Dan kapan stres tersebut mulai terasa melumpuhkan?*
+*Kapan terakhir kali kamu merasa stres tetapi justru merasa produktif? Dan kapan stres tersebut mulai terasa melumpuhkan?*
 
 ### 2. Teknik "Grounding" dan Pernapasan
 
@@ -45,7 +45,7 @@ Banyak orang mengira bahwa istirahat hanyalah tidur. Namun, pemulihan energi men
 
 - **Istirahat Mental:** Melakukan "Brain Dump" (menuliskan semua beban pikiran di kertas) sebelum tidur agar otak tidak terus memproses informasi di malam hari.
 - **Istirahat Sensorik:** Mematikan semua layar (HP, laptop) dan menjauh dari kebisingan selama minimal 30 menit sehari untuk menetralkan rangsangan berlebih.
-- **Istirahat Emosional:** Memiliki ruang di mana kamu bisa menjadi diri sendiri secara autentik tanpa harus "berakting" kuat di depan orang lain.
+- **Istirahat Emosional:** Memiliki ruang tempat kamu bisa menjadi diri sendiri secara autentik tanpa harus "berakting" kuat di depan orang lain.
 
 **Penting:** Kualitas tidur tetap menjadi fondasi utama. Gunakan rumus $10-3-2-1-0$ untuk higiene tidur yang optimal:
 

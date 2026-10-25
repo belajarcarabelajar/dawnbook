@@ -14,7 +14,7 @@ Menurut Dr. Kristin Neff, pionir dalam penelitian ini, self-compassion lebih dar
 
 Alih-alih menghakimi diri sendiri dengan keras ketika melakukan kesalahan, kita bersikap lembut dan memahami bahwa ketidaksempurnaan adalah bagian dari hidup.
 
-- **Analogi:** Bayangkan dirimu sebagai seorang pelatih atletik. Pelatih yang kejam mungkin membuat atletnya takut, tetapi pelatih yang mendukung (namun tegas) akan membuat atletnya berkembang lebih jauh tanpa merusak kesehatan mentalnya.
+- **Analogi:** Bayangkan dirimu sebagai seorang pelatih atletik. Pelatih yang kejam mungkin membuat atletnya takut, tetapi pelatih yang mendukung (tetapi tegas) akan membuat atletnya berkembang lebih jauh tanpa merusak kesehatan mentalnya.
 
 ### 2\. Common Humanity (Kemanusiaan Umum) vs. Isolation
 
@@ -58,7 +58,7 @@ Ini adalah teknik reflektif untuk melatih otot self-compassion-mu.
 
 1. Pikirkan satu hal tentang dirimu yang sering membuatmu merasa tidak aman atau ingin kamu kritik (misalnya: berat badan, kegagalan karier, atau kesalahan dalam hubungan).
 2. Tuliskan perasaanmu mengenai hal tersebut di atas kertas.
-3. Sekarang, bayangkan seorang sahabat yang sangat bijaksana, mencintai, dan memahami dirimu sepenuhnya. Sahabat ini tahu segala kelemahanmu namun tetap menghargaimu.
+3. Sekarang, bayangkan seorang sahabat yang sangat bijaksana, mencintai, dan memahami dirimu sepenuhnya. Sahabat ini tahu segala kelemahanmu tetapi tetap menghargaimu.
 4. **Tulis surat untuk dirimu sendiri** dari perspektif sahabat tersebut. Apa yang akan dia katakan tentang kekuranganmu? Bagaimana dia akan menunjukkan empatinya?
 
 *Jika kamu tidak akan mengatakan kata-kata kasar seperti itu kepada orang yang kamu cintai, mengapa kamu merasa pantas mengatakannya kepada dirimu sendiri?*

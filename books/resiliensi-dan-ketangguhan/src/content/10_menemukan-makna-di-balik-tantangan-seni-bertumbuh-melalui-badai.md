@@ -1,6 +1,6 @@
 ## Menemukan Makna di Balik Tantangan
 
-Pernahkah kamu melihat sebuah pohon besar yang batangnya meliuk-liuk tidak beraturan, namun akarnya menancap dalam ke tanah? Sering kali, liukan itu terbentuk karena pohon tersebut harus beradaptasi dengan angin kencang atau rintangan bebatuan saat ia tumbuh. Manusia pun demikian.
+Pernahkah kamu melihat sebuah pohon besar yang batangnya meliuk-liuk tidak beraturan, tetapi akarnya menancap dalam ke tanah? Sering kali, liukan itu terbentuk karena pohon tersebut harus beradaptasi dengan angin kencang atau rintangan bebatuan saat ia tumbuh. Manusia pun demikian.
 
 Dalam bab ini, kita akan melampaui konsep "sekadar bertahan" (surviving) menuju konsep **Post-Traumatic Growth (PTG)** atau Pertumbuhan Pasca-Trauma. Kita akan mempelajari bagaimana guncangan berat dalam hidup dapat mendorong perubahan karakter, tidak sekadar dilewati.
 
@@ -58,7 +58,7 @@ $$
 \text{D} = \text{S} - \text{M}
 $$
 
-Di mana:
+Keterangan:
 
 - $\text{D}$ = Despair (Keputusasaan)
 - $\text{S}$ = Suffering (Penderitaan)

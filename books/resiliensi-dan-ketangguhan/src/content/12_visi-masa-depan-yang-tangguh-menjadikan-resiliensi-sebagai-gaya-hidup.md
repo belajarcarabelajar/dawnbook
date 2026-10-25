@@ -22,7 +22,7 @@ Jika kapasitas ($\text{C}$) kamu selalu lebih besar daripada tantangan ($\text{T
 
 ### Pohon Bambu vs. Pohon Ek
 
-Pohon ek kuat dan keras, namun ia bisa tumbang dalam badai besar karena ia kaku. Bambu, di sisi lain, fleksibel. Ia merunduk saat angin kencang menerjang, tetapi akarnya saling terhubung di bawah tanah. Membangun visi masa depan yang tangguh adalah proses menjadi "Bambu" yang memiliki sistem akar (fondasi) yang kokoh.
+Pohon ek kuat dan keras, tetapi ia bisa tumbang dalam badai besar karena ia kaku. Bambu, di sisi lain, fleksibel. Ia merunduk saat angin kencang menerjang, tetapi akarnya saling terhubung di bawah tanah. Membangun visi masa depan yang tangguh adalah proses menjadi "Bambu" yang memiliki sistem akar (fondasi) yang kokoh.
 
 ## 2\. Strategi Perencanaan Jangka Panjang di Tengah Ketidakpastian
 

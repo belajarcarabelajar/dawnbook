@@ -57,7 +57,7 @@ Setelah kamu mengenali dan memberi ruang pada emosi, tujuannya adalah kembali ke
 
 #### Presentasi Kerja yang Gagal Total
 
-Kamu baru saja mempresentasikan ide besar di depan direksi, namun seorang atasan mengkritik habis-habisan di depan rekan kerja. Kamu merasa wajah memanas, detak jantung meningkat, dan ingin sekali membalas dengan kata-kata tajam atau langsung keluar dari ruangan.
+Kamu baru saja mempresentasikan ide besar di depan direksi, tetapi seorang atasan mengkritik habis-habisan di depan rekan kerja. Kamu merasa wajah memanas, detak jantung meningkat, dan ingin sekali membalas dengan kata-kata tajam atau langsung keluar dari ruangan.
 
 **Penerapan EQ:**
 

@@ -1,6 +1,6 @@
 ## Dasar-Dasar Resiliensi dan Ketangguhan
 
-Pernahkah kamu memperhatikan sebuah pohon bambu saat badai besar melanda? Ia tertiup angin kencang, batangnya melengkung hampir menyentuh tanah, namun ketika badai berlalu, ia tegak kembali, tidak patah, bahkan sering kali tampak lebih bersih dan kuat. Inilah esensi dari apa yang akan kita pelajari: kemampuan untuk tidak hanya bertahan, tetapi juga bangkit kembali.
+Pernahkah kamu memperhatikan sebuah pohon bambu saat badai besar melanda? Ia tertiup angin kencang, batangnya melengkung hampir menyentuh tanah, tetapi ketika badai berlalu, ia tegak kembali, tidak patah, bahkan sering kali tampak lebih bersih dan kuat. Inilah esensi dari apa yang akan kita pelajari: kemampuan untuk tidak hanya bertahan, tetapi juga bangkit kembali.
 
 Saat perubahan datang cepat dan banyak hal tidak pasti, resiliensi dan ketangguhan tidak hanya menjadi "bonus" karakter, tetapi juga keterampilan bertahan hidup (survival skill) yang mendasar.
 
@@ -8,13 +8,13 @@ Saat perubahan datang cepat dan banyak hal tidak pasti, resiliensi dan ketangguh
 
 Secara etimologis, **resiliensi** berasal dari bahasa Latin *resilire*, yang berarti "melompat kembali". Dalam psikologi, resiliensi adalah proses beradaptasi dengan baik di hadapan kesulitan, trauma, tragedi, ancaman, atau sumber stres yang berat.
 
-**Analogi Karet Gelang:** Bayangkan sebuah karet gelang. Kamu bisa menarik karet itu sekuat tenaga (stresor), namun begitu tarikan dilepaskan, ia akan kembali ke bentuk semula. Namun, resiliensi manusia melampaui karet gelang. Manusia memiliki kapasitas untuk **"Bounce Forward"** (Melompat ke Depan). Artinya, setelah mengalami tekanan, kita tidak hanya kembali ke kondisi awal, tetapi kembali dengan pembelajaran dan kekuatan baru.
+**Analogi Karet Gelang:** Bayangkan sebuah karet gelang. Kamu bisa menarik karet itu sekuat tenaga (stresor), tetapi begitu tarikan dilepaskan, ia akan kembali ke bentuk semula. Namun, resiliensi manusia melampaui karet gelang. Manusia memiliki kapasitas untuk **"Bounce Forward"** (Melompat ke Depan). Artinya, setelah mengalami tekanan, kita tidak hanya kembali ke kondisi awal, tetapi kembali dengan pembelajaran dan kekuatan baru.
 
 > "Resiliensi bukan tentang tidak pernah jatuh, tetapi tentang seberapa cepat dan kuat kita bangkit setiap kali kita jatuh."
 
 ## 2\. Ketahanan Mental vs. Ketangguhan
 
-Sering kali kita menggunakan istilah "resiliensi" dan "ketangguhan" secara bergantian. Namun, dalam konteks pengembangan diri, keduanya memiliki nuansa yang berbeda namun saling melengkapi.
+Sering kali kita menggunakan istilah "resiliensi" dan "ketangguhan" secara bergantian. Namun, dalam konteks pengembangan diri, keduanya memiliki nuansa yang berbeda tetapi saling melengkapi.
 
 ### Ketahanan Mental (Mental Resilience)
 
