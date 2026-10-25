@@ -184,7 +184,7 @@ Setiap item di bawah dibiarkan tanpa perubahan, karena butuh sumber atau keputus
 - aerodinamika-dan-desain-airfoil d0001:7: batas bawah 4% F-16 hanya bertumpu pada satu sumber. d0011:5: simbol `$\ell$` belum bersumber.
 - ekonomi-laissez-faire d0086:4: baris "Barang Publik" di tabel ringkasan bab 7 tanpa bab pendukung. d0092:1: tahun Turgot belum dicek ke katalog. Tahun Quesnay di bab 13 belum dicek.
 - metodologi-microteaching d0349:1: entri Mergler dan Spooner-Lane tidak cocok dengan Crossref. d0338:8: cabang "tidak" yang hilang di diagram bab 3.
-- neuroplastisitas-dalam-belajar d0401:7: analogi isolator omega-3 bertentangan dengan poin fluiditas membran. Angka "5 tahun" di bab 11 belum bersumber.
+- neuroplastisitas-dalam-belajar d0401:7: analogi isolator omega-3 bertentangan dengan poin fluiditas membran.
 - neurobiologi-sistem-vestibular d0378:2: tiga tugas di bagian 2 dan empat baris tabel tidak sama.
 - pembelajaran-multidisiplin d0457:5: "interdisiplin" dan "interdisipliner" masih campur, judul bab 2 memakai bentuk pertama.
 - peluruhan-beta d0450:4 (Brachytherapy versus Brakiterapi), d0452:2 (penyebab cahaya kolam bahan bakar bekas, perlu sumber baru), d0454:0 (level heading bab 11).
