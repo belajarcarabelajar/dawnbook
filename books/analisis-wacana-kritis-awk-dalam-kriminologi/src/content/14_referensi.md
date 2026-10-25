@@ -6,17 +6,17 @@ Berikut adalah daftar sumber pustaka yang menjadi landasan teoritis dan empiris 
 
 ## Buku dan Monograf
 
-Badara, A. (2012). *Analisis wacana: Teori, metode, dan penerapannya pada wacana media*. Kencana.
+Badara, A. (2012). *Analisis wacana: Teori, metode, dan penerapannya pada wacana media*. Kencana. [https://openlibrary.org/works/OL22648068W](https://openlibrary.org/works/OL22648068W)
 
 Chouliaraki, L., & Fairclough, N. (1999). *Discourse in late modernity: Rethinking critical discourse analysis*. Edinburgh University Press. [https://edinburghuniversitypress.com/book-discourse-in-late-modernity.html](https://edinburghuniversitypress.com/book-discourse-in-late-modernity.html)
 
 Cohen, S. (1972). *Folk devils and moral panics: The creation of the Mods and Rockers*. MacGibbon and Kee. [https://doi.org/10.4324/9780203828250](https://doi.org/10.4324/9780203828250)
 
-Eriyanto. (2001). *Analisis wacana: Pengantar analisis teks media*. LKiS.
+Eriyanto. (2001). *Analisis wacana: Pengantar analisis teks media*. LKiS. [https://openlibrary.org/works/OL6065687W](https://openlibrary.org/works/OL6065687W)
 
-Fairclough, N. (1989). *Language and power*. Longman.
+Fairclough, N. (1989). *Language and power*. Longman. [https://openlibrary.org/works/OL15857536W](https://openlibrary.org/works/OL15857536W)
 
-Fairclough, N. (1995). *Media discourse*. Edward Arnold.
+Fairclough, N. (1995). *Media discourse*. Edward Arnold. [https://openlibrary.org/works/OL493171W](https://openlibrary.org/works/OL493171W)
 
 Fairclough, N. (2003). *Analysing discourse: Textual analysis for social research*. Routledge. [https://doi.org/10.4324/9780203697078](https://doi.org/10.4324/9780203697078)
 
@@ -26,19 +26,19 @@ Foucault, M. (1977). *Discipline and punish: The birth of the prison* (A. Sherid
 
 Garland, D. (2001). *The culture of control: Crime and social order in contemporary society*. Oxford University Press. [https://doi.org/10.7208/chicago/9780226190174.001.0001](https://doi.org/10.7208/chicago/9780226190174.001.0001)
 
-Gramsci, A. (1971). *Selections from the prison notebooks* (Q. Hoare & G. N. Smith, Trans. & Eds.). International Publishers.
+Gramsci, A. (1971). *Selections from the prison notebooks* (Q. Hoare & G. N. Smith, Trans. & Eds.). International Publishers. [https://openlibrary.org/works/OL77369W](https://openlibrary.org/works/OL77369W)
 
 Hall, S., Critcher, C., Jefferson, T., Clarke, J., & Roberts, B. (1978). *Policing the crisis: Mugging, the state, and law and order*. Macmillan. [https://doi.org/10.1007/978-1-349-27471-5](https://doi.org/10.1007/978-1-349-27471-5)
 
-Hodge, R., & Kress, G. (1988). *Social semiotics*. Polity Press.
+Hodge, R., & Kress, G. (1988). *Social semiotics*. Polity Press. [https://openlibrary.org/works/OL573807W](https://openlibrary.org/works/OL573807W)
 
 Jewkes, Y. (2015). *Media and crime* (3rd ed.). SAGE Publications. [https://uk.sagepub.com/en-gb/eur/media-and-crime/book237575](https://uk.sagepub.com/en-gb/eur/media-and-crime/book237575)
 
-Reiner, R. (2007). *Law and order: An honest citizen's guide to crime and control*. Polity Press.
+Reiner, R. (2007). *Law and order: An honest citizen's guide to crime and control*. Polity Press. [https://openlibrary.org/works/OL4007199W](https://openlibrary.org/works/OL4007199W)
 
 van Dijk, T. A. (1993). *Elite discourse and racism*. SAGE Publications. [https://doi.org/10.4135/9781483325255](https://doi.org/10.4135/9781483325255)
 
-van Dijk, T. A. (1998). *Ideology: A multidisciplinary approach*. SAGE Publications.
+van Dijk, T. A. (1998). *Ideology: A multidisciplinary approach*. SAGE Publications. [https://openlibrary.org/works/OL2143034W](https://openlibrary.org/works/OL2143034W)
 
 van Dijk, T. A. (2008). *Discourse and power*. Palgrave Macmillan. [https://doi.org/10.1007/978-1-137-07299-3](https://doi.org/10.1007/978-1-137-07299-3)
 
