@@ -6,7 +6,7 @@ Di Rust, **Re-exporting** adalah cara kita membuat "menu" tersebut untuk penggun
 
 ### Mengapa Kita Membutuhkan Re-exporting?
 
-Saat kita membangun proyek yang besar, kita cenderung membagi kode ke dalam hierarki modul yang dalam demi kerapian organisasi internal. Namun, struktur yang rapi bagi pengembang (internal) seringkali menyulitkan pengguna (eksternal).
+Saat kita membangun proyek yang besar, kita cenderung membagi kode ke dalam hierarki modul yang dalam demi kerapian organisasi internal. Namun, struktur yang rapi bagi pengembang (internal) sering kali menyulitkan pengguna (eksternal).
 
 Tanpa re-exporting, pengguna mungkin harus menulis jalur yang panjang seperti ini:
 
@@ -120,7 +120,7 @@ fn main() {
 
 ### Keuntungan Utama Re-exporting
 
-1. **Menyembunyikan kerumitan struktur internal.** Kamu bebas mengubah struktur folder internal tanpa merusak kode pengguna selama jalur `pub use` di `lib.rs` tidak berubah.
+1. **Menyembunyikan kerumitan struktur internal.** Kamu bebas mengubah struktur folder internal tanpa merusak kode pengguna selama jalur `pub use` di `lib.rs` tidak berubah dan modul internalnya tidak dideklarasikan dengan `pub mod`.
 2. **Dokumentasi yang lebih bersih dan ramah.** Saat menjalankan `cargo doc`, semua item yang di-re-export akan langsung muncul di halaman utama, sehingga pengguna tidak perlu mencari-cari ke dalam submodul yang dalam.
 3. **Kemudahan pengelompokan secara logis.** Berbagai fungsi yang tersebar di banyak file dapat disatukan ke dalam sebuah "modul fasad" tunggal yang rapi.
 

@@ -12,7 +12,7 @@ Jika `main.rs` yang panjang adalah sebuah **gulungan perkamen**, maka memisahkan
 
 1. **Lebih mudah dibaca**: Kamu bisa fokus pada satu logika spesifik tanpa terganggu oleh ribuan baris kode lainnya.
 2. **Kolaborasi tim lebih lancar**: Setiap anggota tim bisa mengedit file berbeda secara bersamaan, sehingga meminimalkan risiko *merge conflict*.
-3. **Navigasi IDE yang cepat**: IDE seperti VS Code dapat memproses struktur yang terfragmentasi dengan baik, membuat navigasi kode terasa lebih responsif.
+3. **Navigasi IDE yang cepat**: IDE seperti VS Code dapat memproses struktur yang terfragmentasi dengan baik, sehingga kamu lebih mudah berpindah antarbagian kode.
 
 ## Memindahkan Modul
 
@@ -78,7 +78,7 @@ pub fn hapus_spasi(teks: &str) -> String {
 }
 ```
 
-## Aturan Visibilitas Antar File
+## Aturan Visibilitas Antarfile
 
 Meskipun kode telah dipindah ke file berbeda, aturan privasi Rust tetap berlaku. Jika kamu ingin fungsi di dalam `pembersihan_data.rs` dapat dipanggil oleh `main.rs`, fungsi tersebut **harus** ditandai dengan kata kunci `pub`.
 
@@ -134,7 +134,7 @@ fn main() {
 
 | Lokasi Lama (`main.rs`) | Lokasi Baru (`file.rs`) | Keterangan |
 | --- | --- | --- |
-| `mod nama_mod { ... }` | `mod nama_mod;` | Deklarasi di file induk menggunakan `;` |
+| `mod nama_mod { ... }` | `mod nama_mod;` (tetap di `main.rs`) | Deklarasi di file induk menggunakan `;` |
 | Isi di dalam `{ ... }` | Langsung ditulis di file | Tidak perlu membungkus dengan `mod` lagi |
 | Fungsi privat | Tetap privat | Butuh `pub` untuk diakses file induk |
 
