@@ -35,7 +35,7 @@ Untuk membantu kita bernalar secara objektif, para filsuf telah mengembangkan be
 Fokus pada hasil akhir. Keputusan yang terbaik adalah yang menghasilkan "kebaikan terbesar untuk jumlah orang terbanyak."
 
 - **Analogi:** Seperti memilih menu makanan untuk acara kantor; kamu memilih yang disukai mayoritas orang, meski ada satu-dua orang yang kurang puas.
-- **Rumus Sederhana:** Jika $U$ adalah utilitas (kebahagiaan/manfaat), maka pilih tindakan $A$ di mana: $\sum U(A) > \sum U(B)$
+- **Rumus Sederhana:** Jika $U$ adalah utilitas (kebahagiaan/manfaat), maka pilih tindakan $A$ yang memenuhi: $\sum U(A) > \sum U(B)$
 
 #### B. Deontologi (Berdasarkan Kewajiban)
 
@@ -59,8 +59,8 @@ Dilema etika muncul ketika dua nilai moral yang benar saling bertabrakan. Misaln
    - *Uji Utilitas:* Apakah ini membawa manfaat bagi banyak orang?
    - *Uji Hak:* Apakah ini melanggar hak asasi seseorang?
    - *Uji Keadilan:* Apakah beban dan manfaat dibagikan secara merata?
-4. **Pertimbangkan Alternatif:** Seringkali kita terjebak dalam pilihan "A atau B". Carilah pilihan "C" yang mungkin bisa mengakomodasi kedua nilai tersebut.
-5. **Evaluasi Diri (The Mirror Test):** Jika keputusan ini dipublikasikan di berita utama besok pagi, apakah kamu akan merasa bangga atau malu?
+4. **Pertimbangkan Alternatif:** Sering kali kita terjebak dalam pilihan "A atau B". Carilah pilihan "C" yang mungkin bisa mengakomodasi kedua nilai tersebut.
+5. **Evaluasi Diri (Uji Berita Utama):** Jika keputusan ini dipublikasikan di berita utama besok pagi, apakah kamu akan merasa bangga atau malu?
 
 ### 5\. Etika dalam Kecerdasan Buatan (AI)
 
@@ -82,7 +82,7 @@ Di bidang teknologi saat ini, penalaran etis menjadi persoalan yang nyata.
 
 ### 6\. Menghindari Sesat Pikir dalam Penalaran Etis
 
-Seringkali, saat menghadapi masalah moral, kita terjebak dalam kesalahan logika:
+Sering kali, saat menghadapi masalah moral, kita terjebak dalam kesalahan logika:
 
 - **Relativisme Ekstrem:** "Etika itu kan subjektif, terserah masing-masing orang." (Ini berbahaya karena menghentikan diskusi kritis dan akuntabilitas).
 - **Ad Hominem:** Menolak argumen etis seseorang hanya karena kita tidak menyukai karakter orang tersebut, bukan karena argumennya salah.

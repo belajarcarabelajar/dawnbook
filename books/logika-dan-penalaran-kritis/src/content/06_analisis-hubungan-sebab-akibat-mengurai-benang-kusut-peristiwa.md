@@ -9,9 +9,9 @@ Memahami kausalitas (hubungan sebab-akibat) secara tepat menjadi dasar untuk men
 Langkah awal untuk melatih ketajaman berpikir adalah memisahkan antara **korelasi** dan **kausalitas**. Dua konsep ini sering disamakan, padahal maknanya berbeda:
 
 * **Korelasi** merujuk pada hubungan statistik ketika dua variabel cenderung bergerak bersamaan. Misalnya, jika variabel $A$ meningkat, variabel $B$ juga ikut naik (korelasi positif), atau sebaliknya (korelasi negatif). Namun, gerakan bersama ini tidak menjamin adanya hubungan sebab-akibat.
-* **Kausalitas**, di sisi lain, menuntut adanya hubungan langsung: satu peristiwa (sebab) memicu peristiwa lain (akibat).
+* **Kausalitas**, di sisi lain, menuntut adanya hubungan nyata, baik langsung maupun melalui perantara: satu peristiwa (sebab) memicu peristiwa lain (akibat).
 
-> **Analogi Sederhana:** Bayangkan kamu membaca data bahwa wilayah dengan jumlah pos pemadam kebakaran yang banyak selalu mencatat kerugian material akibat kebakaran yang tinggi. Apakah itu berarti keberadaan petugas pemadam memicu kerugian? Jelas tidak. Keduanya tampak berhubungan karena dipengaruhi oleh variabel ketiga (*confounding variable*), yaitu **skala kebakaran**. Kebakaran hebat pasti membutuhkan lebih banyak petugas sekaligus melahirkan kerugian yang lebih besar.
+> **Analogi Sederhana:** Bayangkan kamu membaca data bahwa kebakaran yang didatangi banyak petugas pemadam selalu disertai kerugian material yang tinggi. Apakah itu berarti keberadaan petugas pemadam memicu kerugian? Jelas tidak. Keduanya tampak berhubungan karena dipengaruhi oleh variabel ketiga (*confounding variable*), yaitu **skala kebakaran**. Kebakaran hebat pasti membutuhkan lebih banyak petugas sekaligus melahirkan kerugian yang lebih besar.
 
 ### Mengapa Kita Sering Keliru?
 
@@ -92,7 +92,7 @@ Dalam menarik kesimpulan, ada beberapa kesalahan berpikir (*logical fallacies*) 
 
 * **Reverse Causality (Kausalitas Terbalik):** Kesalahan ketika kita mengira $A \rightarrow B$, padahal arah aslinya adalah $B \rightarrow A$.
   Sebagai contoh, apakah seseorang menjadi optimis karena ia sukses, atau justru sikap optimis itulah yang membawanya menuju kesuksesan?
-* **The Third Variable Problem:** Kondisi di mana ada faktor ketiga (variabel tersembunyi) yang mengendalikan kedua variabel utama.
+* **The Third Variable Problem:** Kondisi ketika ada faktor ketiga (variabel tersembunyi) yang mengendalikan kedua variabel utama.
   Misalnya, statistik menunjukkan lonjakan penjualan es krim berjalan beriringan dengan naiknya frekuensi serangan hiu di pantai. Faktor sebenarnya bukanlah es krim yang mengundang hiu, melainkan musim panas: suhu yang terik mendorong orang membeli es krim sekaligus menarik minat mereka untuk berenang di laut.
 * **Post Hoc Ergo Propter Hoc:** Asumsi keliru bahwa karena peristiwa $X$ terjadi setelah peristiwa $Y$, maka $Y$ pasti merupakan penyebab dari $X$. Hubungan berurutan secara waktu tidak otomatis berarti hubungan sebab-akibat.
 
@@ -115,6 +115,6 @@ Saat kamu mengevaluasi suatu klaim atau peristiwa, gunakan panduan berikut untuk
 1. **Evaluasi kemungkinan kebetulan:** Periksa apakah hubungan tersebut didukung oleh data statistik yang memadai atau sekadar kejadian acak yang terjadi bersamaan.
 2. **Identifikasi variabel ketiga:** Selidiki apakah ada faktor eksternal tersembunyi yang menjadi pemicu sesungguhnya bagi kedua variabel.
 3. **Validasi urutan temporal:** Pastikan kembali variabel sebab terjadi mendahului akibat, bukan sebaliknya.
-4. **Gunakan Analisis Kontrafaktual (*Counterfactual*):** Tanyakan pada diri sendiri, "Jika $A$ tidak pernah terjadi, apakah $B$ akan tetap muncul?" Apabila jawabannya ya, berarti $A$ bukan penyebab utama dari $B$.
+4. **Gunakan Analisis Kontrafaktual (*Counterfactual*):** Tanyakan pada diri sendiri, "Jika $A$ tidak pernah terjadi, apakah $B$ akan tetap muncul?" Apabila jawabannya ya, kemungkinan besar $A$ bukan penyebab utama dari $B$.
 
 Mengetahui *apa* yang terjadi membekali kita dengan informasi. Mengetahui *mengapa* hal itu terjadi memberi kita pengetahuan. Namun, untuk bernalar kritis, kamu perlu membedakan dengan jeli mana penyebab nyata dan mana korelasi semu.

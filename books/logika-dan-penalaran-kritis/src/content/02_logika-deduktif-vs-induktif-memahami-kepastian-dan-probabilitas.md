@@ -13,7 +13,7 @@ Penalaran deduktif sering disebut sebagai pendekatan **"Top-Down"** (dari atas k
 Jika premis-premisnya benar dan struktur argumennya valid, maka kesimpulannya **pasti** benar. Tidak ada ruang untuk keraguan dalam deduksi yang sempurna.
 
 > **Analogi Puzzle yang Sempurna**
-> Bayangkan kamu memiliki sebuah kotak puzzle. Kamu tahu pasti ada 100 keping (Premis 1). Kamu telah memasang 99 keping (Premis 2). Maka, secara deduktif, kepingan terakhir yang tertinggal di lantai **pasti** adalah bagian dari puzzle tersebut. Kamu tidak perlu menebak; strukturnya menjamin kebenarannya.
+> Bayangkan kamu memiliki sebuah kotak puzzle. Kamu tahu pasti ada 100 keping (Premis 1). Kamu telah memasang 99 keping (Premis 2). Maka, secara deduktif, **pasti** masih ada tepat satu keping yang belum terpasang. Kamu tidak perlu menebak; strukturnya menjamin kebenarannya.
 
 ### Struktur Silogisme
 
@@ -34,7 +34,7 @@ Bentuk paling klasik dari deduksi adalah silogisme:
 Dalam deduksi, sebuah argumen bisa **Valid** secara struktur tetapi **Salah** secara isi.
 
 - **Argumen Valid** terjadi ketika strukturnya benar (Jika A=B dan B=C, maka A=C).
-- **Argumen Sound (Sahih)** terwujud jika strukturnya benar **dan** semua premis penyusunnya terbukti secara faktual benar.
+- **Argumen Sound (Benar)** terwujud jika strukturnya benar **dan** semua premis penyusunnya terbukti secara faktual benar.
 
 <div>
 $$
@@ -51,7 +51,7 @@ Berbeda dengan deduksi, penalaran induktif adalah pendekatan **"Bottom-Up"** (da
 Kesimpulan dalam penalaran induktif tidak pernah bersifat mutlak 100%. Sebaliknya, ia bersifat **probabilistik** (berdasarkan peluang). Kita berbicara tentang seberapa "kuat" atau "lemah" sebuah argumen, bukan benar atau salah secara mutlak.
 
 > **Analogi Ramalan Cuaca**
-> Kamu melihat awan mendung gelap (Observasi 1), merasakan angin kencang (Observasi 2), dan melihat aplikasi cuaca menunjukkan kelembaban tinggi (Observasi 3). Kamu menyimpulkan: "Kemungkinan besar akan hujan." Ini adalah induksi. Apakah pasti hujan? Tidak selalu, tapi sangat mungkin.
+> Kamu melihat awan mendung gelap (Observasi 1), merasakan angin kencang (Observasi 2), dan melihat aplikasi cuaca menunjukkan kelembapan tinggi (Observasi 3). Kamu menyimpulkan: "Kemungkinan besar akan hujan." Ini adalah induksi. Apakah pasti hujan? Tidak selalu, tapi sangat mungkin.
 
 ### Jenis-Jenis Induksi
 
@@ -69,7 +69,7 @@ Kesimpulan dalam penalaran induktif tidak pernah bersifat mutlak 100%. Sebalikny
 | **Evaluasi** | Valid / Invalid | Kuat / Lemah |
 | **Tujuan** | Membuktikan | Memprediksi / Menemukan Pola |
 
-Menghakimi seseorang berdasarkan perilaku satu kelompoknya adalah contoh nyata dari induksi yang lemah, sebuah generalisasi terburu-buru yang sering kita temukan sehari-hari.
+Menghakimi seluruh kelompok berdasarkan perilaku sebagian anggotanya adalah contoh nyata dari induksi yang lemah, sebuah generalisasi terburu-buru yang sering kita temukan sehari-hari.
 
 ## 4\. Logika dalam Teknologi & Sains
 
@@ -86,7 +86,7 @@ Seorang Software Engineer menggunakan kedua logika ini untuk memperbaiki *bug*:
    Setelah menemukan pola tersebut, kamu menyusun premis deduktif untuk memvalidasi masalah:
    - *Premis Mayor*: Jika fungsi penyimpanan data tidak memiliki penanganan galat untuk kondisi timeout, aplikasi pasti akan crash saat koneksi lambat.
    - *Premis Minor*: Fungsi penyimpanan data di aplikasi yang sedang berjalan terbukti tidak memiliki penanganan galat tersebut.
-   - *Konklusi*: Oleh karena itu, aplikasi dipastikan akan crash setiap kali timeout terjadi.
+   - *Konklusi*: Oleh karena itu, aplikasi dipastikan akan crash saat koneksi lambat.
 
 ### Silogisme di Balik Hak Akses
 
@@ -102,10 +102,10 @@ Setiap metode penalaran memiliki keunggulan dan batasannya masing-masing dalam m
 
 ### Deduksi
 
-Metode deduktif kuat karena menawarkan kepastian, sehingga menjadi dasar matematika dan logika formal. Namun, ia memiliki keterbatasan: deduksi tidak menghasilkan pengetahuan baru, melainkan hanya mengungkap apa yang sudah tersirat di dalam premis-premisnya. Jika premis awalmu salah, seluruh kesimpulan otomatis runtuh.
+Metode deduktif kuat karena menawarkan kepastian, sehingga menjadi dasar matematika dan logika formal. Namun, ia memiliki keterbatasan: deduksi tidak menghasilkan pengetahuan baru, melainkan hanya mengungkap apa yang sudah tersirat di dalam premis-premisnya. Jika premis awalmu salah, kesimpulannya tidak lagi terjamin benar.
 
 ### Induksi
 
-Di sisi lain, kelebihan utama penalaran induktif adalah kemampuannya membantu kita belajar dari pengalaman praktis dan membuat prediksi tentang masa depan, yang menjadi dasar riset ilmiah serta algoritma *machine learning*. Keterbatasannya terletak pada ketidakpastian mutlak, karena selalu ada risiko fenomena *Black Swan* (Angsa Hitam). Kamu bisa saja mengamati ribuan angsa berwarna putih dan menyimpulkan bahwa semua angsa di dunia berwarna putih, sampai suatu hari seekor angsa hitam muncul dan membatalkan seluruh generalisasimu.
+Di sisi lain, kelebihan utama penalaran induktif adalah kemampuannya membantu kita belajar dari pengalaman praktis dan membuat prediksi tentang masa depan, yang menjadi dasar riset ilmiah serta algoritma *machine learning*. Keterbatasannya terletak pada ketiadaan kepastian mutlak, karena selalu ada risiko fenomena *Black Swan* (Angsa Hitam). Kamu bisa saja mengamati ribuan angsa berwarna putih dan menyimpulkan bahwa semua angsa di dunia berwarna putih, sampai suatu hari seekor angsa hitam muncul dan membatalkan seluruh generalisasimu.
 
 Dalam kehidupan sehari-hari, sebagian besar keputusan kita diambil menggunakan logika induktif. Ketika melangkah keluar rumah atau memilih rute jalan, kita sering kali mengandalkan probabilitas berdasarkan pengalaman masa lalu, alih-alih kepastian mutlak.

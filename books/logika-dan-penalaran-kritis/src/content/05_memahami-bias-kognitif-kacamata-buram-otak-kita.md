@@ -33,7 +33,7 @@ Kita tidak bertindak seperti hakim yang objektif, melainkan seperti pengacara ya
 
 Rina sangat yakin bahwa investasi saham A akan naik tajam. Ia hanya mengikuti grup diskusi yang memuji saham tersebut dan memblokir akun-akun yang memberikan analisis risiko (bearish). Saat harga saham mulai turun, ia menganggapnya sebagai "gejolak sementara" daripada sinyal peringatan yang valid.
 
-Sebagai contoh, banyak orang melakukan *unfollow* pada teman di media sosial hanya karena perbedaan pandangan politik. Tindakan ini sering kali bukan untuk mencari kebenaran, melainkan untuk melindungi bias konfirmasi agar merasa selalu benar.
+Sebagai contoh, banyak orang melakukan *unfollow* pada teman di media sosial hanya karena perbedaan pandangan politik. Tindakan ini sering kali bukan untuk mencari kebenaran, melainkan untuk melindungi keyakinan yang sudah ada agar merasa selalu benar, sebuah wujud bias konfirmasi.
 
 ### 2. Efek Jangkar (Anchoring Effect)
 
@@ -63,12 +63,12 @@ Jika $\text{Harga Jangkar}$ sangat tinggi, maka $\text{Nilai yang Dirasakan}$ ak
 Selain dua di atas, terdapat beberapa bias lain yang sering memengaruhi penalaran kritis kita:
 
 - **Availability Heuristic (Heuristik Ketersediaan):** Menilai kemungkinan sesuatu berdasarkan seberapa mudah contohnya muncul di pikiran. Kita lebih takut naik pesawat daripada mobil karena kecelakaan pesawat lebih dramatis dan sering diberitakan, padahal secara statistik mobil jauh lebih berbahaya.
-- **Dunning-Kruger Effect:** Kondisi di mana orang yang memiliki kompetensi rendah justru merasa sangat ahli karena mereka tidak memiliki pengetahuan yang cukup untuk menyadari kekurangan mereka.
+- **Dunning-Kruger Effect:** Kondisi di mana orang yang memiliki kompetensi rendah cenderung melebih-lebihkan kemampuan mereka karena mereka tidak memiliki pengetahuan yang cukup untuk menyadari kekurangan mereka.
 - **Sunk Cost Fallacy:** Terus melakukan sesuatu karena kita sudah menginvestasikan waktu, uang, atau tenaga di sana, meskipun secara logika menghentikannya adalah pilihan terbaik.
 
 ### Bias dalam Kehidupan Profesional
 
-Memahami bias kognitif bukan sekadar teori, pemahaman ini berguna langsung dalam pekerjaan:
+Memahami bias kognitif bukan sekadar teori; pemahaman ini berguna langsung dalam pekerjaan:
 
 #### 1. Dalam Negosiasi Bisnis
 
