@@ -36,7 +36,7 @@ Flow membutuhkan koreksi real-time. Jika kamu tahu saat itu juga apakah tindakan
 
 ### D. Keseimbangan Tantangan vs Keterampilan
 
-Ini adalah syarat pokok flow. Tugas tersebut tidak boleh terlalu mudah (membosankan) dan tidak boleh terlalu sulit (membuat cemas). Rasio idealnya sering disebut sebagai **The 4% Rule**: tugas tersebut harus sekitar 4% di atas tingkat kemampuan kamu saat ini.
+Ini adalah syarat pokok flow. Tugas tersebut tidak boleh terlalu mudah (membosankan) dan tidak boleh terlalu sulit (membuat cemas). Tugas yang ideal berada sedikit di atas tingkat kemampuan kamu saat ini, cukup menantang untuk menarik perhatian tanpa membuat kamu cemas.
 
 ## 2\. Pemicu Eksternal (Lingkungan)
 
