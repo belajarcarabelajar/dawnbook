@@ -8,7 +8,7 @@ Dirumuskan oleh **Martin Seligman**, pelopor Psikologi Positif modern, model ini
 
 Dahulu, Seligman menganggap kebahagiaan adalah tujuan utama manusia. Namun, ia menyadari bahwa kata "bahagia" terlalu identik dengan suasana hati yang ceria semata. Kenyataannya, seseorang bisa tetap memiliki tingkat kesejahteraan yang tinggi meskipun sedang tidak tertawa atau tersenyum.
 
-Model PERMA dirancang untuk membantu manusia mencapai kondisi **Flourishing**, sebuah keadaan di mana kita merasa hidup ini bermakna, memiliki fungsi psikologis yang sehat, dan merasa terhubung erat dengan dunia di sekitar kita.
+Model PERMA dirancang untuk membantu manusia mencapai kondisi **Flourishing**, sebuah keadaan ketika kita merasa hidup ini bermakna, memiliki fungsi psikologis yang sehat, dan merasa terhubung erat dengan dunia di sekitar kita.
 
 > **Insight Penting:** Setiap elemen dalam PERMA harus memenuhi tiga kriteria:
 > 
@@ -56,7 +56,7 @@ Manusia memiliki kebutuhan eksistensial untuk memiliki tujuan hidup. Makna membe
 
 Kamu dapat menemukan makna hidup dalam berbagai hal, seperti keluarga, pekerjaan, keyakinan spiritual, hingga kontribusi sosial melalui kegiatan amal.
 
-Makna memiliki dimensi yang berbeda dengan kebahagiaan sesaat. Sebagai contoh, merawat anggota keluarga yang sakit merupakan pengorbanan berat yang mungkin tidak memicu emosi positif secara instan, namun memberikan arti mendalam yang menopang kepuasan hidup jangka panjang.
+Makna memiliki dimensi yang berbeda dengan kebahagiaan sesaat. Sebagai contoh, merawat anggota keluarga yang sakit merupakan pengorbanan berat yang mungkin tidak memicu emosi positif secara instan, tetapi memberikan arti mendalam yang menopang kepuasan hidup jangka panjang.
 
 ## 5. A - Accomplishment (Pencapaian)
 

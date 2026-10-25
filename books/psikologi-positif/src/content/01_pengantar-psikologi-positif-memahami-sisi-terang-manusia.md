@@ -42,7 +42,7 @@ $$
 \text{Skala}: [-10] \dots \dots [-5] \dots \dots [0] \dots \dots [+5] \dots \dots [+10]
 $$
 
-- **Penderitaan (Languishing):** Berada di area negatif, di mana seseorang merasa hampa atau terjebak.
+- **Penderitaan (Languishing):** Berada di area negatif, tempat seseorang merasa hampa atau terjebak.
 - **Kondisi Netral ($0$):** Kondisi ketika seseorang tidak mengalami depresi medis, tetapi juga tidak merasakan semangat hidup, gairah, atau tujuan yang jelas.
 - **Berkembang (Flourishing):** Berada di area positif. Pada tahap ini, seseorang aktif membangun hubungan yang sehat, menemukan makna hidup, dan mengoptimalkan potensi terbaik mereka.
 

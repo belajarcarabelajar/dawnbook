@@ -33,7 +33,7 @@ Di bawah pengaruh emosi positif, cara kerja otak kita mengalami perubahan pentin
 
 ## 3. Membangun (Build)
 
-Efek pelebaran (*broaden*) dari emosi positif memang bersifat sementara, namun dampak jangka panjangnya bertahan lama. Di sinilah fase membangun (*build*) terjadi. Eksplorasi dan kreativitas yang muncul saat pikiran meluas membantu kita mengumpulkan **sumber daya pribadi yang tahan lama**.
+Efek pelebaran (*broaden*) dari emosi positif memang bersifat sementara, tetapi dampak jangka panjangnya bertahan lama. Di sinilah fase membangun (*build*) terjadi. Eksplorasi dan kreativitas yang muncul saat pikiran meluas membantu kita mengumpulkan **sumber daya pribadi yang tahan lama**.
 
 Fredrickson membagi sumber daya ini ke dalam empat kategori utama:
 
@@ -54,7 +54,7 @@ Dalam persamaan ini, $R$ melambangkan total sumber daya pribadi yang terbangun, 
 
 ## 4. Efek Spiral ke Atas (The Upward Spiral)
 
-Konsep lain dari teori ini adalah **Spiral ke Atas (The Upward Spiral)**. Berbeda dengan depresi yang kerap membentuk spiral ke bawah (di mana satu pikiran buruk memicu emosi negatif yang lebih dalam), emosi positif justru menciptakan momentum pertumbuhan yang berkelanjutan.
+Konsep lain dari teori ini adalah **Spiral ke Atas (The Upward Spiral)**. Berbeda dengan depresi yang kerap membentuk spiral ke bawah (saat satu pikiran buruk memicu emosi negatif yang lebih dalam), emosi positif justru menciptakan momentum pertumbuhan yang berkelanjutan.
 
 - **Langkah awal**: Kamu merasakan emosi positif seperti rasa syukur.
 - **Perluasan kesadaran**: Pikiranmu mulai meluas (*broaden*), membuatmu lebih peka terhadap peluang untuk berbuat baik atau membantu sesama.
