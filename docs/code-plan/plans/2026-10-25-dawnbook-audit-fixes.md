@@ -169,9 +169,9 @@ Filled at the `Manual check` gate: each note the owner makes about the shown cha
 - [x] T5: the neuroplastisitas test finds its renamed heading. Evidence: `bun test` exit 0. Evidence: `bun test tests/books/neuroplastisitas-dalam-belajar.test.ts` exit 0, 4 pass, 0 fail.
 - [x] T6: one commit per book, author from `book.toml`; tree clean. Evidence: 60 book commits (52 Iwan Kurniawan, 11 Kania Salsabila with the Co-authored-by trailer; counts from `git log --format=%an`) plus one test commit; `git diff --quiet` exit 0.
 - [x] T7: build and gates on the final tree; sample before and after pairs shown to the owner. Evidence: `check:structure` exit 0, `check:headings` exit 0, `check:voice` exit 0, `check:diagrams` exit 0, `bun run build` exit 0, tree clean afterwards. Before and after pairs shown to the owner next.
-- [ ] T8: owner manual check; notes recorded as MC items.
-- [ ] T9: ledger, regression test, RED proof against the base commit. Evidence: test exit 0 at HEAD and exit non-zero at the base.
-- [ ] T10: branch pushed, one pull request opened; merge, deploy, seed and reindex asked separately.
+- [x] T8: owner manual check; notes recorded as MC items. Evidence: owner answered `Manual check` = Looks right, write tests (2026-10-25), after seeing eight before/after pairs and the gate results; no MC notes.
+- [x] T9: ledger, regression test, RED proof against the base commit. Evidence: test exit 0 at HEAD and exit non-zero at the base. Evidence: ledger.jsonl (4,170 lines) and LEDGER.md; `bun test tests/books/audit-fixes-2026-10-24.test.ts` exit 0, 60 pass; RED: `red_vs_base.sh` exit 0 (base commit exit 1 with 60 tests run, HEAD exit 0). Full gate: `bun test tests/books/ tests/scripts/` exit 0, 724 pass, 0 fail (the first run failed one Referensi test, fixed by linking two citations to Library of Congress records).
+- [x] T10: branch pushed, one pull request opened; merge, deploy, seed and reindex asked separately. Evidence: branch pushed and one PR opened, stacked on PR 212 (number recorded in the PR registry); copy-rules reports only the 12 required Co-authored-by trailers of Kania Salsabila commits (GEMINI.md section 18).
 
 ## Visual Implementation Map
 
