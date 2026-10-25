@@ -91,7 +91,7 @@ Trigger: owner request 2026-10-25 to check the "UNESCO menekankan" line (sistem-
 - [x] B1: fact fixes in 9 books (8 planned + state-of-flow), one commit per book. Review 1: not correct, 0 P1, 3 P2 (neuroplastisitas ch12 label and ch07 lead-in, stoikisme Ellis/Beck without Referensi) and P3 additions; fixed in de668811..912140bc (stoikisme line restored to main). Verifier: 1 P2 ('jauh lebih sulit'), 1 P3 ('sederhana'), fixed in d8e4b55b.
 - [x] L1: 32 citations linked (publisher, DOI, ERIC, PMC or Library of Congress records); Flourish moved to the LoC record of the 2011 Free Press edition. Records exposed four citation errors in metodologi-microteaching, corrected to the record (Kyriacou 5th ed. 2018, Turney et al. Sydney Micro Skills, Saban & Coklar in TOJET 12(2), duplicate Ambili/Remesh 2013 removed, Remesh title). Aman (2005) has no online record and is marked as cited through Marliana (2017).
 - [x] A1: AI-assistance notice on the About page and in the README (9ead107b), RED then GREEN in `tests/scripts/attribution.test.ts`. Owner follow-up 2026-10-25: the placeholder author name is removed from every tracked file and the README names Iwan Kurniawan as the author of the first books (2046b068); a test keeps the name out (mutation-checked: adding it turns the test red).
-- [ ] G1: guards GREEN; `bun test tests/scripts/ tests/books/` and `bun run build` exit 0.
+- [x] G1: guards GREEN. Evidence (HEAD e5b6da9a, clean tree): `bun test tests/scripts/ tests/books/` exit 0, 664 pass, 0 fail; `bun run build` exit 0, 0 parse errors; heading colons exit 0; copy rules flag only the one required Kania trailer (GEMINI.md section 18).
 - [ ] X1: one PR; merge asked alone; deploy, D1 seed and GSC reindex asked separately.
 
 ## Visual Implementation Map
