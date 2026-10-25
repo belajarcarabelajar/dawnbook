@@ -6,10 +6,10 @@ import { checkBookStructure } from "../../scripts/check-book-structure";
 const BOOK = path.resolve(import.meta.dir, "../../books/neuroplastisitas-dalam-belajar");
 const CH05 = path.join(BOOK, "src/content/05_neurogenesis-kelahiran-sel-saraf-baru.md");
 
-// The "Studi Supir Taksi London" section, up to the next heading.
+// The "Studi Sopir Taksi London" section, up to the next heading.
 function taxiSection(): string {
   const text = readFileSync(CH05, "utf8");
-  const start = text.indexOf("### Studi Supir Taksi London");
+  const start = text.indexOf("### Studi Sopir Taksi London");
   expect(start).toBeGreaterThan(-1);
   const end = text.indexOf("\n### ", start + 1);
   return text.slice(start, end === -1 ? undefined : end);
