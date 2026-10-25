@@ -7,7 +7,7 @@ Metakognisi sering disebut sebagai "berpikir tentang berpikir". Sebenarnya, ini 
 Pengetahuan deklaratif adalah aspek "apa" dari metakognisi. Bagian ini berfokus pada pemahaman tentang fakta, konsep, dan informasi yang kamu miliki. Ini juga termasuk seberapa jauh kamu mengenali diri sendiri sebagai seorang pembelajar. Pengetahuan semacam ini sifatnya eksplisit, artinya kamu bisa mengungkapkannya secara langsung lewat kata-kata atau tulisan.
 
 Apa saja yang masuk ke dalam pengetahuan deklaratif?
-- **Mengenali diri sendiri:** Kamu paham apa saja kelebihan dan kekuranganmu saat belajar. Kamu juga tahu gaya belajar apa yang paling pas buatmu, termasuk apa yang biasanya memicu motivasimu.
+- **Mengenali diri sendiri:** Kamu paham apa saja kelebihan dan kekuranganmu saat belajar. Kamu juga tahu cara belajar apa yang paling pas buatmu, termasuk apa yang biasanya memicu motivasimu.
 - **Mengenali tugas:** Kamu bisa menilai karakteristik sebuah tugas. Misalnya, seberapa sulit tugas itu, apa saja yang dibutuhkan untuk menyelesaikannya, dan sumber daya apa yang harus kamu siapkan.
 - **Mengenali strategi:** Kamu tahu ada banyak strategi belajar di luar sana, paham kenapa sebuah strategi bisa berhasil, dan bisa membedakan satu strategi dengan yang lainnya.
 

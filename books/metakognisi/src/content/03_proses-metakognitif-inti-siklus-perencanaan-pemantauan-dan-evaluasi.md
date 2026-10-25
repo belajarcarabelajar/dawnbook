@@ -4,7 +4,7 @@ Metakognisi adalah tentang "belajar bagaimana belajar" – sebuah kesadaran seka
 
 ## 1\. Perencanaan (Planning)
 
-Fase perencanaan adalah langkah awal dalam siklus metakognitif, di mana pembelajar secara sadar mempersiapkan diri untuk tugas belajar. Ini melibatkan persiapan kondisi untuk pembelajaran yang efektif dengan menentukan tujuan dan memilih strategi yang sesuai.
+Fase perencanaan adalah langkah awal dalam siklus metakognitif, saat pembelajar secara sadar mempersiapkan diri untuk tugas belajar. Ini melibatkan persiapan kondisi untuk pembelajaran yang efektif dengan menentukan tujuan dan memilih strategi yang sesuai.
 
 ### Apa itu Perencanaan Metakognitif?
 
@@ -40,7 +40,7 @@ Secara sederhana, pemantauan metakognitif berarti kamu sadar penuh dalam mengawa
 - **Penyesuaian Strategi (jika diperlukan):** Jika pemantauan menunjukkan bahwa strategi saat ini tidak efektif, pembelajar harus siap untuk mengubah pendekatan mereka.
 	- *Contoh:* Jika teknik *flashcards* dirasa kurang mempan, kamu bisa beralih menyusun ringkasan cerita.
 
-**Catatan:** Pemantauan aktif akan mencegah kebiasaan "membaca pasif", di mana mata kamu hanya bergerak melewati teks tanpa menangkap maknanya.
+**Catatan:** Pemantauan aktif akan mencegah kebiasaan "membaca pasif", yaitu ketika mata kamu hanya bergerak melewati teks tanpa menangkap maknanya.
 
 ## 3\. Evaluasi (Evaluation)
 
@@ -48,7 +48,7 @@ Fase evaluasi adalah langkah akhir dalam siklus, yang terjadi setelah tugas bela
 
 ### Apa itu Evaluasi Metakognitif?
 
-Evaluasi metakognitif adalah proses reflektif di mana pembelajar menilai efektivitas strategi yang digunakan dan hasil belajar yang dicapai. Ini adalah kesempatan untuk belajar dari pengalaman dan menginformasikan perencanaan di masa depan.
+Evaluasi metakognitif adalah proses reflektif ketika pembelajar menilai efektivitas strategi yang digunakan dan hasil belajar yang dicapai. Ini adalah kesempatan untuk belajar dari pengalaman dan menginformasikan perencanaan di masa depan.
 
 ### Elemen Kunci Evaluasi
 

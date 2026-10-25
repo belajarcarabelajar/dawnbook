@@ -8,7 +8,7 @@ Di bawah ini ada beberapa langkah praktis buat melatih keterampilan metakognitif
 
 ## 1\. Jurnal Belajar
 
-Jurnal belajar adalah alat sederhana untuk melacak progres belajar dan emosi kamu selama prosesnya. Kalau kamu rutin menulis pikiranmu, perlahan kamu bakal mengenali pola, kelebihan, dan bagian mana dari gaya belajarmu yang masih perlu diperbaiki.
+Jurnal belajar adalah alat sederhana untuk melacak progres belajar dan emosi kamu selama prosesnya. Kalau kamu rutin menulis pikiranmu, perlahan kamu bakal mengenali pola, kelebihan, dan bagian mana dari cara belajarmu yang masih perlu diperbaiki.
 
 ### Cara Memulainya
 
@@ -172,7 +172,7 @@ Ngobrol dan diskusi bareng teman itu ngasih pengaruh gede buat mendalami suatu m
 - "Waktu belajar topik X, kamu pakai cara apa, dan kenapa pilih cara itu?"
 - "Pas ngerjain tugas ini, kamu paling mentok di mana? Terus ngakalinnya gimana?"
 - "Andai bisa ngulang, apa yang bakal kamu ubah dari caramu ngerjain tugas tadi?"
-- "Dari tugas ini, kamu jadi nyadar apa soal gaya belajarmu sendiri?"
+- "Dari tugas ini, kamu jadi nyadar apa soal cara belajarmu sendiri?"
 - "Setelah kita ngobrol begini, ada pandanganmu yang berubah soal topiknya nggak?"
 - "Ada ide atau cara dari teman lain yang pengen kamu coba terapkan nanti?"
 
