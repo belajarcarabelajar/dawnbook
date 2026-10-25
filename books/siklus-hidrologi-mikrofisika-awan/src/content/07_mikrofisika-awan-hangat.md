@@ -46,7 +46,7 @@ Saat tetesan pengumpul yang besar jatuh melewati kumpulan tetesan yang lebih kec
 
 **Efisiensi Tabrakan ($E_{\text{coll}}$):** Didefinisikan sebagai rasio antara jumlah tabrakan aktual dengan jumlah tabrakan teoretis berdasarkan geometri lintasan.
 
-$$ E_{\text{coll}} = \frac{\text{Jumlah tabrakan aktual}}{\text{Jumlah tabrakan teoritis secara geometris}} $$
+$$ E_{\text{coll}} = \frac{\text{Jumlah tabrakan aktual}}{\text{Jumlah tabrakan teoretis secara geometris}} $$
 
 ### 4. Mekanisme Penyatuan (Coalescence)
 
@@ -104,8 +104,8 @@ Dalam perkembangan awan *Cumulus*, beberapa tetesan dapat tumbuh lebih cepat kar
 
 | Tahap | Mekanisme Utama | Ukuran Tetesan |
 | --- | --- | --- |
-| **Awal** | Nukleasi pada $\text{CCN}$ | $< 0.1\ \mu\text{m}$ |
-| **Pertumbuhan I** | Kondensasi dan Difusi | $0.1\ \mu\text{m} \rightarrow 20\ \mu\text{m}$ |
+| **Awal** | Nukleasi pada $\text{CCN}$ | $< 0{,}1\ \mu\text{m}$ |
+| **Pertumbuhan I** | Kondensasi dan Difusi | $0{,}1\ \mu\text{m} \rightarrow 20\ \mu\text{m}$ |
 | **Pertumbuhan II** | Tabrakan dan Penyatuan | $20\ \mu\text{m} \rightarrow 2000\ \mu\text{m}$ |
 | **Akhir** | Presipitasi (Hujan) | $> 2000\ \mu\text{m}\ (2\text{ mm})$ |
 

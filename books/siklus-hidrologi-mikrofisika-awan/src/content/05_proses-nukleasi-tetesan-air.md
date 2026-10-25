@@ -116,10 +116,10 @@ Prinsip nukleasi heterogen dimanfaatkan secara langsung dalam teknologi pembenih
 | --- | --- | --- |
 | **Medium Pertumbuhan** | Molekul air murni tanpa partikel lain | Permukaan aerosol atau $\text{CCN}$ |
 | **Tingkat Kemudahan** | Sangat sulit | Sangat mudah |
-| **Tingkat Lewat Jenuh ($\text{RH}$)** | Sangat tinggi ($>400\text{\%}$) | Sangat rendah ($<1\text{\%}$) |
+| **Tingkat Lewat Jenuh ($\text{RH}$)** | Sangat tinggi ($>400\text{\%}$) | Sangat rendah ($\text{RH} \approx 101\text{\%}$) |
 | **Lokasi Kejadian** | Kondisi laboratorium / atmosfer atas | Awan di seluruh wilayah Bumi |
 | **Peran Tegangan Permukaan** | Penghambat utama yang dominan | Diminimalkan oleh ukuran partikel inti |
 
 ### Tahap Awal Terbentuknya Tetesan Awan
 
-Nukleasi merupakan tahap awal perubahan fase air dari gas menjadi cair di atmosfer. Tegangan permukaan bertindak sebagai penghambat alami pada tetesan mikro, namun keberadaan partikel aerosol ($\text{CCN}$) melalui nukleasi heterogen menurunkan hambatan energi tersebut. Hal ini memungkinkan uap air mengembun secara efektif dan membentuk tetesan awan yang menjadi bagian utama dari siklus hidrologi Bumi.
+Nukleasi merupakan tahap awal perubahan fase air dari gas menjadi cair di atmosfer. Tegangan permukaan bertindak sebagai penghambat alami pada tetesan mikro, tetapi keberadaan partikel aerosol ($\text{CCN}$) melalui nukleasi heterogen menurunkan hambatan energi tersebut. Hal ini memungkinkan uap air mengembun secara efektif dan membentuk tetesan awan yang menjadi bagian utama dari siklus hidrologi Bumi.

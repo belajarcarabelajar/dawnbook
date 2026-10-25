@@ -72,7 +72,7 @@ Molekul air ($\text{H}_2\text{O}$) membentuk ikatan hidrogen yang mencapai tingk
 
 ### Penyemaian Inti Es Buatan
 
-Pemahaman mengenai dinamika $\text{IN}$ melandasi penerapan teknologi modifikasi cuaca berbasis penyemaian awan (*cloud seeding*). Ketika awan campuran mengandung air superdingin melimpah namun kekurangan $\text{IN}$ alami, agen penyemai buatan diintroduksikan ke dalam massa awan.
+Pemahaman mengenai dinamika $\text{IN}$ melandasi penerapan teknologi modifikasi cuaca berbasis penyemaian awan (*cloud seeding*). Ketika awan campuran mengandung air superdingin melimpah tetapi kekurangan $\text{IN}$ alami, agen penyemai buatan diintroduksikan ke dalam massa awan.
 
 - **Bahan Penyemai:** Perak Iodida ($\text{AgI}$).
 - **Prinsip Kerja $\text{AgI}$:** Struktur kristalografi $\text{AgI}$ memiliki konstanta kisi yang hampir identik dengan kristal es murni.

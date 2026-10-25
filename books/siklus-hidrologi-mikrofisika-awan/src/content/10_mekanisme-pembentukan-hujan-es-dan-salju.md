@@ -6,7 +6,7 @@ Dalam bab ini, kita akan mengeksplorasi dua mekanisme pertumbuhan utama yang ter
 
 ## 1. Pertumbuhan melalui Akresi (Riming)
 
-**Akresi**, atau yang sering disebut dengan **riming**, adalah proses di mana sebuah kristal es atau partikel es yang sedang jatuh bertumbukan dengan tetesan air superdingin (*supercooled liquid water*) yang langsung membeku saat bersentuhan.
+**Akresi**, atau yang sering disebut dengan **riming**, adalah proses ketika sebuah kristal es atau partikel es yang sedang jatuh bertumbukan dengan tetesan air superdingin (*supercooled liquid water*) yang langsung membeku saat bersentuhan.
 
 ### Mekanisme Fisika
 
@@ -60,7 +60,7 @@ flowchart TD
 
 ## 3. Pertumbuhan melalui Agregasi (Salju)
 
-Jika akresi melibatkan interaksi es-air, maka **Agregasi** adalah proses di mana kristal-kristal es saling bertabrakan dan melekat satu sama lain untuk membentuk **kepingan salju (snowflakes)**.
+Jika akresi melibatkan interaksi es-air, maka **Agregasi** adalah proses ketika kristal-kristal es saling bertabrakan dan melekat satu sama lain untuk membentuk **kepingan salju (snowflakes)**.
 
 ### Faktor yang Memengaruhi Agregasi
 

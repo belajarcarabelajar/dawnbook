@@ -9,7 +9,7 @@ Di atmosfer, air merupakan satu-satunya zat yang dapat ditemukan dalam tiga fase
 Analogi sederhana untuk molekul air adalah sekelompok orang di sebuah ruang pertemuan:
 
 - **Fase Padat (Es):** Setiap orang duduk tenang di kursi masing-masing (struktur kristal yang kaku).
-- **Fase Cair (Air):** Orang-orang mulai berdiri dan berjalan, saling bersenggolan namun tetap berdekatan.
+- **Fase Cair (Air):** Orang-orang mulai berdiri dan berjalan, saling bersenggolan tetapi tetap berdekatan.
 - **Fase Gas (Uap):** Orang-orang bergerak cepat ke segala arah dan jarang bersentuhan satu sama lain.
 
 Untuk mengubah susunan molekul ini, diperlukan energi. Interaksi energi dan wujud zat inilah yang menjadi inti dari termodinamika atmosfer.

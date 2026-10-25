@@ -101,7 +101,7 @@ Pemahaman mengenai termodinamika fase campuran dan Proses Bergeron-Findeisen men
 
 #### Skenario Awan Fase Campuran Tanpa Presipitasi
 
-Pada kondisi kekeringan atau kebutuhan presipitasi tambahan, lapisan awan dingin sering kali mengandung volume air superdingin yang melimpah namun kekurangan partikel Inti Es ($\text{IN}$). Akibatnya, tetesan air superdingin gagal terkonversi menjadi kristal es dan tidak menghasilkan presipitasi.
+Pada kondisi kekeringan atau kebutuhan presipitasi tambahan, lapisan awan dingin sering kali mengandung volume air superdingin yang melimpah tetapi kekurangan partikel Inti Es ($\text{IN}$). Akibatnya, tetesan air superdingin gagal terkonversi menjadi kristal es dan tidak menghasilkan presipitasi.
 
 #### Prosedur dan Mekanisme Penyemaian
 

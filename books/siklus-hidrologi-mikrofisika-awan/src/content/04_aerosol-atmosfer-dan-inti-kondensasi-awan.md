@@ -81,7 +81,7 @@ Di sini $N$ adalah konsentrasi relatif partikel, $r$ adalah radius partikel dala
 
 Dengan $\beta = 3$, setiap kali radius naik sepuluh kali lipat, konsentrasinya turun seribu kali lipat.
 
-*Interpretasi:* Pola ini menunjukkan bahwa atmosfer dipenuhi oleh jutaan partikel sangat kecil (*Aitken nuclei*), namun hanya sedikit partikel berukuran besar yang tersedia. Partikel berukuran sedang hingga besar inilah yang paling sering menjadi inti kondensasi bagi pembentukan awan.
+*Interpretasi:* Pola ini menunjukkan bahwa atmosfer dipenuhi oleh jutaan partikel sangat kecil (*Aitken nuclei*), tetapi hanya sedikit partikel berukuran besar yang tersedia. Partikel berukuran sedang hingga besar inilah yang paling sering menjadi inti kondensasi bagi pembentukan awan.
 
 ### 5. Peran CCN di Lapangan
 
@@ -99,6 +99,6 @@ Upaya modifikasi cuaca dilakukan dengan menembakkan **Perak Iodida ($\text{AgI}$
 - **Aerosol** adalah partikel padat atau cair yang melayang di atmosfer.
 - **$\text{CCN}$** (*Cloud Condensation Nuclei*) merupakan kelompok aerosol higroskopis yang mampu memicu pembentukan tetesan awan.
 - **Sifat Higroskopis** dan **Ukuran Partikel** adalah dua faktor penentu utama efektivitas aerosol sebagai $\text{CCN}$.
-- **Aktivitas Manusia** melalui emisi polutan dapat mengubah mikrostruktur awan, meningkatkan albedo awan namun dapat menunda proses presipitasi alami.
+- **Aktivitas Manusia** melalui emisi polutan dapat mengubah mikrostruktur awan, meningkatkan albedo awan tetapi dapat menunda proses presipitasi alami.
 
 > **Kesimpulan:** Awan terbentuk dari interaksi antara uap air yang mendingin dan partikel aerosol mikroskopis di atmosfer. Tanpa adanya aerosol sebagai inti kondensasi, presipitasi dalam siklus hidrologi bumi tidak dapat berlangsung secara efisien.
