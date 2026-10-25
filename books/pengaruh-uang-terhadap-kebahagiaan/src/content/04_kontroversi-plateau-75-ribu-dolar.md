@@ -6,7 +6,7 @@ Penelitian di balik keduanya dimuat di jurnal ilmiah yang sama, PNAS (Proceeding
 
 ### Dua jenis kesejahteraan dalam survei 2010
 
-Studi pertama datang dari Daniel Kahneman, psikolog peraih Nobel, dan Angus Deaton, ekonom peraih Nobel. Mereka menganalisis sekitar 450.000 respons survei harian Gallup dari penduduk Amerika Serikat, yang tiap hari menjawab pertanyaan tentang hidup dan perasaan mereka kemarin.
+Studi pertama datang dari Daniel Kahneman, psikolog peraih Nobel, dan Angus Deaton, ekonom peraih Nobel. Mereka menganalisis sekitar 450.000 respons survei harian Gallup dari penduduk Amerika Serikat, yang ditanya tentang hidup dan perasaan mereka kemarin.
 
 Dari data itu muncul temuan ganda yang sering disederhanakan sampai melenceng:
 
@@ -15,7 +15,7 @@ Dari data itu muncul temuan ganda yang sering disederhanakan sampai melenceng:
 
 Jadi temuan aslinya sebenarnya jauh lebih halus daripada slogan "uang tidak membuat bahagia". Ringkasan yang menyebar luas dari studi ini berbunyi: uang membeli kepuasan terhadap hidup, tapi tidak membeli perasaan bahagia. Kepuasan naik tanpa batas, sementara suasana hati harian punya langit-langit.
 
-> Ibaratnya hidupmu punya dua laporan berbeda. Yang satu seperti nilai portofolio investasi, semakin kamu menabung semakin tinggi angkanya tanpa henti. Yang satu seperti kualitas tidur, setelah kebutuhan dasarnya terpenuhi, gaji tambahan tidak otomatis membuat malammu lebih nyenyak.
+> Ibaratnya hidupmu punya dua laporan berbeda. Yang satu seperti nilai portofolio investasi, semakin kamu menabung semakin tinggi angkanya tanpa henti. Yang lain seperti kualitas tidur, setelah kebutuhan dasarnya terpenuhi, gaji tambahan tidak otomatis membuat malammu lebih nyenyak.
 
 Angka 75.000 dolar itu lalu berkeliling dunia, muncul di buku populer, slide seminar, dan ribuan artikel dengan kalimat serempak: "Sudah, di titik ini uang berhenti menambah kebahagiaan." Yang jarang disebutkan, peneliti aslinya tidak pernah bicara sekuat itu.
 
@@ -31,7 +31,7 @@ Hasilnya adalah kebalikan headline 2010. Kesejahteraan yang dialami orang terus 
 
 Di sinilah cerita ini berubah dari perdebatan biasa menjadi contoh langka cara kerja sains. Dua peneliti itu tidak berbalas status di media sosial atau saling membongkar kelemahan di wawancara. Sebaliknya, mereka membentuk kolaborasi adversarial, bersama Barbara Mellers sebagai penengah yang netral, dan tahun 2023 hasilnya dimuat di PNAS.
 
-Dalam kolaborasi adversarial, dua kubu yang berseberangan membuka seluruh datanya, merancang analisis bersama, lalu menjalankan kedua metode pada data gabungan di bawah pengawasan mediator netral. Tujuannya bukan mencari pemenang, tapi menjelaskan klaim keduanya sekaligus.
+Dalam kolaborasi adversarial, dua kubu yang berseberangan membuka seluruh datanya, merancang analisis bersama, lalu menganalisis ulang data bersama-sama di bawah pengawasan penengah netral. Tujuannya bukan mencari pemenang, tapi menjelaskan klaim keduanya sekaligus.
 
 Kesimpulannya mengurai pertentangan itu dengan cara yang tidak diduga banyak orang:
 
@@ -62,9 +62,9 @@ Pelajaran terpentingnya ada di luar angka-angka: uang tidak bisa memperbaiki kes
 
 Bagaimana dua penelitian serius bisa sampai pada kesimpulan yang bertabrakan? Penjelasannya tidak mistis: mereka mengukur kesejahteraan dengan cara yang berbeda. Satu mengandalkan ingatan harian tentang kemarin, satu menangkap perasaan saat itu juga lewat laporan real-time.
 
-Dua cara ukur yang berbeda memang bisa memberi hasil berbeda. Tapi ada temuan lain di sana: ketika data kedua studi digabung dan dianalisis dengan kedua metode, perbedaan itu ternyata menyembunyikan perbedaan antar kelompok orang. Rata-rata keseluruhan selama ini memayungi dua kurva, mayoritas yang terus naik dan minoritas tidak bahagia yang melandai. Satu angka tunggal terlalu kasar untuk menampung keduanya, dan itulah sebabnya perdebatan bertahun-tahun terasa seperti dua orang membicarakan dua hal berbeda sambil merasa membicarakan hal yang sama.
+Dua cara ukur yang berbeda memang bisa memberi hasil berbeda. Tapi ada temuan lain di sana: ketika data pengalaman real-time Killingsworth dianalisis ulang bersama, selisih hasil itu ternyata menyembunyikan perbedaan antarkelompok orang. Rata-rata keseluruhan selama ini memayungi dua kurva, mayoritas yang terus naik dan minoritas tidak bahagia yang melandai. Satu angka tunggal terlalu kasar untuk menampung keduanya, dan itulah sebabnya perdebatan bertahun-tahun terasa seperti dua orang membicarakan dua hal berbeda sambil merasa membicarakan hal yang sama.
 
-Dari sini kamu bisa membawa pulang pelajaran berpikir kritis: sains maju lewat konflik data yang diselesaikan dengan data yang sama, bukan lewat debat opini. Kahneman awalnya skeptis pada temuan Killingsworth, lalu keduanya menguji dugaan itu langsung pada data gabungan, dan ketika hasilnya menunjukkan Kahneman sebagian keliru, beliau justru berterima kasih pada data.
+Dari sini kamu bisa membawa pulang pelajaran berpikir kritis: sains maju lewat konflik data yang diselesaikan dengan data yang sama, bukan lewat debat opini. Kahneman dan Killingsworth memilih menguji perbedaan pandangan mereka langsung pada data, dan hasilnya menunjukkan tafsiran awal Kahneman perlu dikoreksi sebagian.
 
 ### Apa artinya untuk keputusanmu
 

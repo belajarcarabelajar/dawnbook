@@ -46,7 +46,7 @@ Nilai pengalaman bahkan cenderung naik seiring waktu. Liburan yang dulu biasa sa
 
 ### Namun bukan berarti semua pengalaman otomatis baik
 
-Sebelum kamu buru-buru menjual isi lemari, ada nuansa jujur yang perlu diakui: bukan semua barang buruk, dan bukan semua pengalaman baik. Liburan saat dompet sesak dan kepala penuh tekanan bisa berakhir pahit; kelas mahal yang dibeli ikut-ikutan tren bisa berakhir jadi bukti rasa bersalah.
+Sebelum kamu buru-buru menjual isi lemari, ada nuansa jujur yang perlu diakui: tidak semua barang buruk, dan tidak semua pengalaman baik. Liburan saat dompet sesak dan kepala penuh tekanan bisa berakhir pahit; kelas mahal yang dibeli ikut-ikutan tren bisa berakhir jadi bukti rasa bersalah.
 
 Kunci pemisahnya bukan jenis pembelian, melainkan seberapa baik pembelian tersambung dengan kebutuhan psikologis dasar: hubungan dengan orang lain, perasaan mampu berkembang, serta rasa bebas memilih hidup sendiri.
 
@@ -56,7 +56,7 @@ Jadi pertanyaan yang lebih berguna mungkin begini: pembelian ini menghubungkan a
 
 ### Kalau ragu, pakai tiga langkah kecil
 
-Pertama, pakai satu aturan sederhana saat ragu: pilih yang meninggalkan cerita. Kalau dua pilihan harganya mirip, tanyakan pada diri sendiri: mana yang setahun lagi masih bisa kamu ceritakan? Jawaban paling hidup biasanya menang, dan aturan sependek itu gampang dibawa dari tombol checkout sampai etalase mall.
+Pertama, pakai satu aturan sederhana saat ragu: pilih yang meninggalkan cerita. Kalau dua pilihan harganya mirip, tanyakan pada diri sendiri: mana yang setahun lagi masih bisa kamu ceritakan? Jawaban paling hidup biasanya menang, dan aturan sependek itu gampang dibawa dari tombol checkout sampai etalase mal.
 
 Kedua, mulai dari pengalaman murah yang dekat. Piknik di taman kota, mencoba resep baru bersama keluarga, jalan santai mengelilingi kampung sendiri, atau mengobrol panjang dengan sahabat di warung kaki lima. Yang dituntut bukan harga, tapi kehadiranmu di dalamnya.
 

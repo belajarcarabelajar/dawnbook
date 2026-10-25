@@ -29,7 +29,7 @@ Kedua, **kenaikan aspirasi**. Standar pribadi ikut terangkat mengikuti pendapata
 
 > Aspirasi itu seperti garis finis yang digeser diam-diam. Setiap kali kita hampir menyentuh garis "cukup", garisnya pindah sedikit ke depan. Kita lari makin cepat, tapi rasa sampai selalu tertunda.
 
-Gabungan keduanya menjelaskan paradoks dengan rapi. Dalam silang waktu, orang kaya terlihat lebih bahagia karena posisi relatifnya lebih tinggi. Tapi sepanjang waktu, ketika semua orang naik bersama dan standar hidup ikut naik, rasa puas rata-rata tidak banyak bergeser. Yang berubah adalah isi dompet, bukan posisi kita di antara sesama manusia.
+Gabungan keduanya menjelaskan paradoks dengan rapi. Pada satu waktu, orang kaya terlihat lebih bahagia karena posisi relatifnya lebih tinggi. Tapi sepanjang waktu, ketika semua orang naik bersama dan standar hidup ikut naik, rasa puas rata-rata tidak banyak bergeser. Yang berubah adalah isi dompet, bukan posisi kita di antara sesama manusia.
 
 Cara kedua mesin itu bekerja bersamaan terangkum dalam bagan ini.
 
@@ -61,7 +61,7 @@ Klaim yang lebih hati-hati tetap bertahan: **pertumbuhan membeli lebih sedikit d
 
 ### Kenapa ini relevan untuk kita di Indonesia
 
-Paradoks ini bukan sekadar hiburan akademik. Kita hidup di negara yang ekonominya bertumbuh hampir sepanjang hidup kita, walau naik turunnya kadang terasa surut. Kalau kamu lahir di era ketika ekonomi sedang bergerak maju, hampir pasti kamu pernah menaruh harapan serupa: hidupku harus lebih baik dari hidup orang tuaku. Rumah lebih layak, liburan lebih sering, masa depan lebih lega.
+Paradoks ini bukan sekadar hiburan akademik. Kita hidup di negara yang ekonominya bertumbuh hampir sepanjang hidup kita, walau kadang terasa surut. Kalau kamu lahir di era ketika ekonomi sedang bergerak maju, hampir pasti kamu pernah menaruh harapan serupa: hidupku harus lebih baik dari hidup orang tuaku. Rumah lebih layak, liburan lebih sering, masa depan lebih lega.
 
 Harapan itu wajar. Tapi paradoks Easterlin mengingatkan satu hal sebelum kita menggantungkan seluruh kebahagiaan pada angka pertumbuhan: pendapatan rata-rata yang naik tidak otomatis menghadirkan rasa cukup, karena rasa cukup ikut berpindah mengikuti perbandingan dan aspirasi. Generasi yang hidupnya lebih makmur secara materi dari orang tuanya bisa saja tetap merasa belum cukup, bukan karena makmur itu bohong, tapi karena tolok ukurnya ikut berpindah.
 
@@ -73,4 +73,4 @@ Maka ajakan bab ini sederhana: kenali asumsi "makin kaya negara, makin bahagia s
 - Stevenson dan Wolfers (2008) menemukan hubungan positif antara pertumbuhan ekonomi dan rata-rata kesejahteraan. Perdebatan belum tuntas, tapi klaim yang bertahan adalah versi hati-hati: pertumbuhan membeli lebih sedikit dari dugaan, dan sebagian manfaatnya dimakan perbandingan sosial.
 - Bagi kita di Indonesia, paradoks ini mengajak mengecek asumsi bahwa hidup pasti lebih bahagia dari generasi sebelumnya hanya karena ekonomi tumbuh.
 
-Separuh jawaban atas pertanyaan "uang dan kebahagiaan" tidak tinggal di angka ekonomi, melainkan di relasi antar manusia: di tetangga yang gajinya naik dan rekan kerja yang mendapat promosi.
+Separuh jawaban atas pertanyaan "uang dan kebahagiaan" tidak tinggal di angka ekonomi, melainkan di relasi antarmanusia: di tetangga yang gajinya naik dan rekan kerja yang mendapat promosi.

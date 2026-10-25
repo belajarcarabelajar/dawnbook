@@ -1,6 +1,6 @@
 ## Uang dan Pertanyaan Tua tentang Kebahagiaan
 
-Di sekitar kita ada saja orang yang rela lembur sampai larut malam, mengambil proyek ekstra, dan memangkas liburan demi satu alasan: supaya bahagia. Lalu suatu hari kamu bertanya, "berapa sih angka yang membuat kamu merasa cukup?" Jawabannya hampir selalu sama, dan biasanya diucapkan sambil tersenyum malu, "sedikit lagi." Kalau gajinya naik dua juta, garis cukup itu pindah ke lima juta. Kalau lima juta tercapai, ia melirik teman satu kantornya yang baru dipromosikan, dan garisnya mundur lagi. Ia berlari mengejar uang demi bahagia, tapi garis finis yang ia kejar selalu mundur beberapa langkah tepat saat ia merasa sudah hampir sampai.
+Di sekitar kita ada saja orang yang rela lembur sampai larut malam, mengambil proyek ekstra, dan memangkas liburan demi satu alasan: supaya bahagia. Lalu suatu hari kamu bertanya, "Berapa sih angka yang membuat kamu merasa cukup?" Jawabannya hampir selalu sama, dan biasanya diucapkan sambil tersenyum malu, "Sedikit lagi." Kalau gajinya naik dua juta, garis cukup itu pindah ke lima juta. Kalau lima juta tercapai, ia melirik teman satu kantornya yang baru dipromosikan, dan garisnya mundur lagi. Ia berlari mengejar uang demi bahagia, tapi garis finis yang ia kejar selalu mundur beberapa langkah tepat saat ia merasa sudah hampir sampai.
 
 Inilah pertanyaan tua yang menjadi akar seluruh buku ini: apakah uang membeli kebahagiaan?
 
@@ -20,12 +20,12 @@ Jadi kalau kedua jawaban populer itu sama-sama goyah, jawaban yang sebenarnya ap
 
 Buku ini berdiri di satu posisi yang mungkin terdengar kurang dramatis, tapi paling jujur: **uang terbukti berhubungan dengan kesejahteraan, namun hubungannya tidak sederhana**. Ini bukan sikap mengambang. Kesimpulan ini lahir dari puluhan tahun riset ekonomi dan psikologi yang akan kita telusuri bersama.
 
-Bukti empirisnya berlimpah, dan perdebatannya hidup. Daniel Kahneman bersama Angus Deaton meneliti ratusan ribu responden di Amerika Serikat dan pada 2010 melaporkan bahwa rasa bahagia sehari-hari berhenti membaik di sekitar penghasilan 75 ribu dolar per tahun, sementara Matthew Killingsworth (2021), yang mengecek suasana hati responden lewat ponsel secara acak sepanjang hari, menemukan kebahagiaan terus naik melewati angka itu. Pada 2023, dua peneliti yang hasilnya saling bertolak belakang itu akhirnya duduk bersama dan menyimpulkan sesuatu yang lebih halus: bagi sebagian besar orang kebahagiaan memang terus naik seiring penghasilan, tapi bagi kelompok yang paling tidak bahagia, kenaikan uang berhenti berkhasiat di satu titik.
+Bukti empirisnya berlimpah, dan perdebatannya hidup. Daniel Kahneman bersama Angus Deaton meneliti ratusan ribu responden di Amerika Serikat dan pada 2010 melaporkan bahwa rasa bahagia sehari-hari berhenti membaik di sekitar penghasilan 75 ribu dolar per tahun, sementara Matthew Killingsworth (2021), yang mengecek suasana hati responden lewat ponsel secara acak sepanjang hari, menemukan kebahagiaan terus naik melewati angka itu. Pada 2023, Kahneman dan Killingsworth, dua peneliti yang hasilnya saling bertolak belakang itu, akhirnya duduk bersama dan menyimpulkan sesuatu yang lebih halus: bagi sebagian besar orang kebahagiaan memang terus naik seiring penghasilan, tapi bagi kelompok yang paling tidak bahagia, kenaikan uang berhenti berkhasiat di satu titik.
 
 Selain soal berapa angkanya, ada beberapa lapisan yang membuat hubungan uang dan kebahagiaan berliku:
 
 - **Ada plateau.** Kenaikan penghasilan tidak selalu menghasilkan kenaikan kebahagiaan dalam besaran yang sama. Semakin tinggi angkanya, semakin kecil efek tambahannya.
-- **Ada relativitas.** Kita jarang menilai gaji dari angkanya saja. Gaji lima belas juta terasa enak, sampai tetangga sebelah memarkir mobil baru dan feed teman penuh foto liburan. Perbandingan sosial diam-diam mengubah batas rasa cukup kita.
+- **Ada relativitas.** Kita jarang menilai gaji dari angkanya saja. Gaji lima belas juta terasa enak, sampai tetangga sebelah memarkir mobil baru dan *feed* teman penuh foto liburan. Perbandingan sosial diam-diam mengubah batas rasa cukup kita.
 - **Ada adaptasi.** Mobil baru terasa menyenangkan di bulan pertama, lalu diam-diam berubah menjadi alat transportasi biasa. Para psikolog menyebut pola ini **adaptasi hedonis**.
 - **Ada cara membelanjakan.** Elizabeth Dunn, Lara Aknin, dan Michael Norton (2008) menunjukkan bahwa orang yang membelanjakan uang untuk orang lain melaporkan kebahagiaan yang lebih tinggi dibanding yang membelanjakannya semata untuk diri sendiri. Jadi bukan hanya berapa yang masuk, tapi juga ke mana uang itu pergi.
 
@@ -39,7 +39,7 @@ Ketidaksamaan inilah yang selama puluhan tahun membuat debat ini berputar di tem
 
 ### Buku ini bukan ceramah kaya atau miskin
 
-Sekali lagi supaya tidak salah paham: buku ini tidak akan menyuruh kamu mengejar uang sekuat tenaga, dan juga tidak akan memuja kemiskinan sebagai jalan menuju hidup yang damai. Tugasnya lebih sederhana dan lebih jujur, yaitu menyodorkan **peta bukti ilmiah** dari ekonomi dan psikologi, lalu menyerahkan keputusannya kepadamu. Kamu yang menentukan posisi uang dalam hidupmu, buku ini hanya memastikan keputusan itu berdiri di atas fakta, bukan di atas kalimat mug.
+Supaya tidak salah paham: buku ini tidak akan menyuruh kamu mengejar uang sekuat tenaga, dan juga tidak akan memuja kemiskinan sebagai jalan menuju hidup yang damai. Tugasnya lebih sederhana dan lebih jujur, yaitu menyodorkan **peta bukti ilmiah** dari ekonomi dan psikologi, lalu menyerahkan keputusannya kepadamu. Kamu yang menentukan posisi uang dalam hidupmu; buku ini hanya memastikan keputusan itu berdiri di atas fakta, bukan di atas kalimat mug.
 
 Peta perjalanannya kira-kira begini:
 
@@ -49,7 +49,7 @@ Peta perjalanannya kira-kira begini:
 - Kita masuk ke sisi yang jarang dibahas: **kelangkaan finansial** dan apa yang terjadi pada pikiran saat uang menipis (bab 8).
 - Bagian akhir kita habiskan untuk hal yang paling bisa kamu kontrol: **pengalaman versus barang** (bab 9), **belanja prososial dan pengaturan waktu** (bab 10), serta **materialisme** (bab 11).
 
-Satu hal yang membuat buku ini berbeda dari blog motivasi: setiap klaim di sini bisa ditelusuri balik ke risetnya. Kalau buktinya kuat, akan kusebut kuat. Kalau buktinya berbelit dan saling bertentangan, kamu akan dibawa melihat pertentangannya, bukan disembunyikan.
+Satu hal yang membuat buku ini berbeda dari blog motivasi: setiap klaim di sini bisa ditelusuri balik ke risetnya. Kalau buktinya kuat, akan kusebut kuat. Kalau buktinya berbelit dan saling bertentangan, kamu akan dibawa melihat pertentangannya, tanpa ada yang disembunyikan.
 
 ## Benang Merah
 

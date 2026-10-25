@@ -1,12 +1,12 @@
 ## Kelangkaan Finansial
 
-Tanggal dua puluh lima. Kamu duduk di warung kopi bersama pasangan, tapi sebagian kepalamu tidak ikut di sana. Di meja ada dua cangkir dan satu piring kue yang kamu bagi dua. Di kepala ada kalkulator yang tidak bisa dimatikan: cicilan jatuh tempo tiga hari lagi, bensin harus cukup sampai akhir pekan, uang saku sekolah belum disisihkan, tagihan listrik entah sudah masuk atau belum. Pasanganmu bercerita, kamu mengangguk di tempat yang tepat, tapi secara teknis sedang berhitung. Bukan hitungan yang sulit, tapi hitungan yang melelahkan, dan dia jalan terus tanpa diminta.
+Tanggal dua puluh lima. Kamu duduk di warung kopi bersama pasangan, tapi sebagian kepalamu tidak ikut di sana. Di meja ada dua cangkir dan satu piring kue yang kamu bagi dua. Di kepala ada kalkulator yang tidak bisa dimatikan: cicilan jatuh tempo tiga hari lagi, bensin harus cukup sampai akhir pekan, uang saku sekolah belum disisihkan, tagihan listrik entah sudah masuk atau belum. Pasanganmu bercerita, kamu mengangguk di tempat yang tepat, tapi secara teknis sedang berhitung. Bukan hitungan yang sulit, tapi hitungan yang melelahkan, dan hitungan itu jalan terus tanpa diminta.
 
-Kalau adegan ini terasa familiar, ada penjelasan ilmiah yang menenangkan sekaligus mengganggu: pikiran yang melayang itu bukan tanda kamu tidak peduli atau tidak bersyukur. Itu tanda kekurangan uang sedang menyita sebagian kapasitas otakmu, dan cara menyitanya sudah diukur. Setelah bab-bab tentang uang yang bertambah, sekarang kita turun ke sisi sebaliknya: ketika uang terlalu sedikit.
+Kalau adegan ini terasa familier, ada penjelasan ilmiah yang menenangkan sekaligus mengganggu: pikiran yang melayang itu bukan tanda kamu tidak peduli atau tidak bersyukur. Itu tanda kekurangan uang sedang menyita sebagian kapasitas otakmu, dan cara menyitanya sudah diukur. Setelah bab-bab tentang uang yang bertambah, sekarang kita turun ke sisi sebaliknya: ketika uang terlalu sedikit.
 
 ### Eksperimen alami di ladang tebu
 
-Pada 2013, empat peneliti bernama Anandi Mani, Sendhil Mullainathan, Eldar Shafir, dan Jiaying Zhao mempublikasikan studi "Poverty Impedes Cognitive Function" di jurnal Science. Mereka menemukan sesuatu yang jarang didapat dalam penelitian kemiskinan: sebuah eksperimen alami.
+Pada 2013, empat peneliti bernama Anandi Mani, Sendhil Mullainathan, Eldar Shafir, dan Jiaying Zhao memublikasikan studi "Poverty Impedes Cognitive Function" di jurnal Science. Mereka menemukan sesuatu yang jarang didapat dalam penelitian kemiskinan: sebuah eksperimen alami.
 
 Di beberapa daerah penghasil tebu di India, petani dibayar sekali setahun, tepat setelah panen. Artinya, orang yang sama melewati dua kondisi keuangan yang sangat berbeda dalam satu tahun. Sebelum panen, uang tipis, banyak yang berutang demi bertahan. Setelah panen, uang masuk dan hidup sementara longgar. Orangnya sama, kecerdasannya sama, pekerjaan dan lahan sama. Yang berubah hanya satu: seberapa ketat uang mereka.
 
@@ -39,13 +39,13 @@ Saat sesuatu yang dibutuhkan makin langka, perhatian otomatis menyempit ke hal y
 
 > Ibaratnya orang yang berenang di arus deras. Dia tahu benar seharusnya menuju tepi yang jauh, tapi seluruh tenaganya habis hanya untuk menjaga kepala tetap di atas air hari ini.
 
-Dari sini pola yang tampak kontradiktif menjadi masuk akal: orang yang paling butuh tabungan justru paling sulit menabung, karena kelangkaannya sendiri menyita kapasitas untuk merencanakan. Kelangkaan melahirkan keputusan yang memperpanjang kelangkaan, dan lingkaran itu bukan berputar karena siapa pun kurang disiplin.
+Dari sini pola yang tampak kontradiktif menjadi masuk akal: orang yang paling butuh tabungan justru paling sulit menabung, karena kelangkaannya sendiri menyita kapasitas untuk merencanakan. Kelangkaan melahirkan keputusan yang memperpanjang kelangkaan, dan lingkaran itu berputar bukan karena ada yang kurang disiplin.
 
 ### Kenapa bab ini menentukan sisa buku
 
-Sambungkan dengan dua temuan sebelumnya. Di bab 3 kita melihat uang dan kesejahteraan berjalan beriringan, dengan kenaikan paling tajam di lapisan berpendapatan rendah. Di bab 4 muncul kelompok minoritas yang bahagianya tidak ikut naik meski uang bertambah. Studi petani tebu memberi keduanya mekanisme yang konkret.
+Sambungkan dengan dua temuan sebelumnya. Di bab 3 kita melihat uang dan kesejahteraan berjalan beriringan, dengan kenaikan paling tajam di lapisan berpendapatan rendah. Di bab 4 muncul kelompok minoritas yang bahagianya tidak ikut naik meski uang bertambah. Studi petani tebu menawarkan satu kemungkinan mekanisme untuk keduanya.
 
-Menghapus kelangkaan memberi lompatan kesejahteraan terbesar karena yang dipulihkan bukan hanya barang yang bisa dibeli, tapi kapasitas berpikir yang selama ini disita. Bagi yang kekurangan, uang tambahan berarti satu lapisan kekhawatiran hilang dan bandwidth mulai kembali utuh.
+Menghapus kelangkaan diduga memberi lompatan kesejahteraan terbesar, antara lain karena yang dipulihkan bukan hanya barang yang bisa dibeli, tapi kapasitas berpikir yang selama ini disita. Bagi yang kekurangan, uang tambahan berarti satu lapisan kekhawatiran hilang dan bandwidth mulai kembali utuh.
 
 Sebaliknya, tekanan finansial kronis adalah salah satu jalur menuju kelompok minoritas tidak bahagia itu: kenaikan kecil yang tidak mengubah rasa ketat hidup memang bisa jadi tidak terasa. Yang menggerogoti bukan jumlah uangnya, tapi kelangkaannya.
 

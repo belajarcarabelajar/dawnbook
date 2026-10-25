@@ -6,13 +6,13 @@ Kenapa cara pengukuran ini penting? Karena yang terekam bukan ingatan yang cende
 
 ### Korelasi yang Kokoh dan Konsisten
 
-Temuan ini bukan cerita dari satu aplikasi saja. Jauh sebelum ponsel pintar ada, Ed Diener dan Robert Biswas-Diener sudah menelusuri ratusan studi tentang uang dan kesejahteraan. Review komprehensif mereka pada 2002 menemukan pola yang konsisten di berbagai penjuru dunia. Di dalam satu negara, korelasi antara pendapatan dan kesejahteraan positif. Di antarnegara, ada jurang kesejahteraan yang lebar antara negara kaya dan negara miskin. Dan yang paling penting bagimu: efek uang paling kuat terasa pada lapisan berpendapatan rendah.
+Temuan ini bukan cerita dari satu aplikasi saja. Jauh sebelum ponsel pintar ada, Ed Diener dan Robert Biswas-Diener sudah menelusuri ratusan studi tentang uang dan kesejahteraan. Review komprehensif mereka pada 2002 menemukan pola yang konsisten di berbagai penjuru dunia. Di dalam satu negara, korelasi antara pendapatan dan kesejahteraan positif. Di tingkat antarnegara, ada jurang kesejahteraan yang lebar antara negara kaya dan negara miskin. Dan yang paling penting bagimu: efek uang paling kuat terasa pada lapisan berpendapatan rendah.
 
 Jadi kalau ada yang bilang "orang kaya dan orang miskin sama-sama bahagia kok", data tidak mendukungnya sebagai aturan umum. Kecenderungannya jelas, berulang, dan muncul di banyak konteks: pendapatan yang lebih tinggi berjalan beriringan dengan kesejahteraan yang lebih tinggi.
 
 ### Naik, tapi Makin Landai
 
-Hubungan uang dan kebahagiaan tidak berbentuk garis lurus, melainkan kira-kira logaritmik. Artinya, tiap dolar tambahan membeli kebahagiaan sedikit lebih sedikit daripada dolar sebelumnya. Akibatnya, yang menentukan besar lompatan kesejahteraan bukan jumlah kenaikannya, melainkan rasionya terhadap pendapatan awal. Kenaikan proporsional yang sama, misalnya naik 20%, memberi lompatan kesejahteraan yang kira-kira mirip di level pendapatan mana pun.
+Hubungan uang dan kebahagiaan tidak berbentuk garis lurus, melainkan kira-kira logaritmik. Artinya, tiap rupiah tambahan membeli kebahagiaan sedikit lebih sedikit daripada rupiah sebelumnya. Akibatnya, yang menentukan besar lompatan kesejahteraan bukan jumlah kenaikannya, melainkan rasionya terhadap pendapatan awal. Kenaikan proporsional yang sama, misalnya naik 20%, memberi lompatan kesejahteraan yang kira-kira mirip di level pendapatan mana pun.
 
 > Bayangkan dua karyawan. Yang pertama berpenghasilan 3 juta rupiah per bulan, lalu gajinya naik menjadi 6 juta. Baginya perubahan terasa besar: bisa pindah ke tempat tinggal yang layak, tabungan mulai tumbuh, tanggal tua tidak lagi menakutkan. Yang kedua berpenghasilan 300 juta, lalu naik menjadi 306 juta. Dia mungkin tersenyum sebentar, tapi tidak ada yang benar-benar bergeser dari hidupnya. Kenaikan yang terasa besar bagi yang satu nyaris tidak terasa bagi yang lain.
 
@@ -37,7 +37,7 @@ Di pendapatan tinggi, efek per rupiah makin kecil, tapi tidak nol. Uang tetap me
 ## Poin Kunci
 
 - Arah hubungannya jelas: pendapatan dan kesejahteraan berjalan beriringan, positif dan konsisten, dari review Diener dan Biswas-Diener (2002) sampai 1,7 juta laporan real-time Killingsworth (2021).
-- Bentuknya logaritmik: kenaikan proporsional yang sama memberi lompatan kesejahteraan yang mirip, sehingga tiap rupiah tambahan membeli kebahagiaan lebih sedikit dari rupiah sebelumnya, tapi tidak pernah nol.
+- Bentuknya logaritmik: kenaikan proporsional yang sama memberi lompatan kesejahteraan yang mirip, sehingga tiap rupiah tambahan membeli kebahagiaan lebih sedikit daripada rupiah sebelumnya, tapi tidak pernah nol.
 - Di pendapatan rendah, uang membebaskan kamu dari masalah nyata. Di pendapatan tinggi, efeknya makin halus tapi tetap ada.
 
 Kalau dalam data Killingsworth kurvanya naik terus tanpa plafon yang terlihat, dari mana muncul angka 75.000 dolar yang bertahun-tahun dikutip sebagai "titik puas" kebahagiaan?

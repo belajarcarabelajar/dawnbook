@@ -28,9 +28,9 @@ Tiga alat ini ibarat tiga kamera dari sudut berbeda: objeknya satu, gambarnya ti
 
 ### Indonesia di peta kebahagiaan dunia
 
-Supaya tidak abstrak, mari lihat datanya. **World Happiness Report 2025** menyusun peringkat kebahagiaan di lebih dari 140 negara memakai data Gallup World Poll, dengan pertanyaan inti berbasis tangga Cantril. Finlandia masih berdiri di puncak dengan skor sekitar 7,8. Indonesia berada di peringkat 83 dengan skor sekitar 5,4 dari skala 0 sampai 10.
+Supaya tidak abstrak, mari lihat datanya. **World Happiness Report 2025** menyusun peringkat kebahagiaan di lebih dari 140 negara memakai data Gallup World Poll, dengan pertanyaan inti berbasis tangga Cantril. Finlandia masih berdiri di puncak dengan skor sekitar 7,7. Indonesia berada di peringkat 83 dengan skor sekitar 5,6 dari skala 0 sampai 10.
 
-Sebelum kamu bergumam, tahan dulu dua hal. Pertama, angka ini adalah rata-rata dari jutaan orang dengan kondisi yang sangat beragam, jadi ia lebih tepat dibaca sebagai gambaran besar, bukan ukuran yang presisi. Kedua, skor itu murni hasil pertanyaan tangga, artinya penilaian kognitif atas hidup. Ia belum memberi tahu seberapa sering warga sebuah negara tertawa atau khawatir. Dua jenis data itu bisa menghasilkan cerita yang berbeda, dan perbedaan inilah yang sebentar lagi jadi penting.
+Sebelum kamu bergumam, tahan dulu dua hal. Pertama, angka ini adalah rata-rata dari sampel yang mewakili jutaan orang dengan kondisi yang sangat beragam, jadi ia lebih tepat dibaca sebagai gambaran besar, bukan ukuran yang presisi. Kedua, skor itu murni hasil pertanyaan tangga, artinya penilaian kognitif atas hidup. Ia belum memberi tahu seberapa sering warga sebuah negara tertawa atau khawatir. Dua jenis data itu bisa menghasilkan cerita yang berbeda, dan perbedaan inilah yang sebentar lagi jadi penting.
 
 ### Dua ukuran yang sering tertukar
 
@@ -38,7 +38,7 @@ Pembedaan ini penting karena banyak klaim populer soal "uang membuat bahagia" at
 
 Membeli rumah mungkin menaikkan penilaianmu atas hidup bertahun-tahun kemudian, sementara perasaan harianmu di rumah itu diisi mencuci piring dan macet pulang kerja. Kalau riset mengukur yang pertama, lalu klaim lahir untuk yang kedua, hasilnya terdengar kontradiktif padahal tidak. Kekeliruan semacam inilah yang akan sering kita temui saat membedah bukti korelasi uang dan kesejahteraan di bab 3.
 
-Ada juga jebakan psikologis dalam cara kita membayangkan. Pada 2006, Daniel Kahneman bersama timnya memperkenalkan istilah **focusing illusion**. Ketika membayangkan hidup yang lebih kaya, perhatianmu terkunci pada hal-hal yang akan berubah: rumah lebih nyaman, liburan lebih jauh, tagihan tak lagi bikin deg-degan. Padahal hidup juga tersusun dari rutinitas yang tak berubah walau rekeningmu membesar: perjalanan ke kantor, jam kerja, antrean, dan malam-malam biasa yang menempati porsi jam terbanyak. Karena hal yang berubah itulah yang di tengah sorotan, manfaat uang terasa lebih besar daripada yang nanti benar-benar dirasakan.
+Ada juga jebakan psikologis dalam cara kita membayangkan. Pada 2006, Daniel Kahneman bersama timnya memakai konsep **focusing illusion** untuk menjelaskan hubungan uang dan kebahagiaan. Ketika membayangkan hidup yang lebih kaya, perhatianmu terkunci pada hal-hal yang akan berubah: rumah lebih nyaman, liburan lebih jauh, tagihan tak lagi bikin deg-degan. Padahal hidup juga tersusun dari rutinitas yang tak berubah walau rekeningmu membesar: perjalanan ke kantor, jam kerja, antrean, dan malam-malam biasa yang menempati porsi jam terbanyak. Karena hal yang berubah itulah yang di tengah sorotan, manfaat uang terasa lebih besar daripada yang nanti benar-benar dirasakan.
 
 > Ibaratnya melihat foto liburan teman di pantai. Kamu hanya melihat laut biru dan senja yang sempurna, tidak melihat empat jam menunggu di bandara dan antrean kamar mandi yang panjang. Perhatianmu menangkap yang menonjol, lalu kesimpulan terbentuk dari apa yang tersorot, bukan dari keseluruhan kenyataan.
 
