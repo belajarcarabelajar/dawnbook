@@ -163,12 +163,12 @@ Filled at the `Manual check` gate: each note the owner makes about the shown cha
 ## Checklist
 
 - [x] T1: all 40 units have a valid decision file for every book. Evidence: `validate_all.py` exit 0, 60 books, 4,170 decisions, 3,728 edits, 0 problems (after the last unit, U38, reported).
-- [ ] T2: reviewer problems resolved in the decision files (P1 and P2 fixed or the edit rejected), and the repository gates pass on the simulated tree. Evidence: reviewer reports, `sim_gates.sh` exit 0.
-- [ ] T3: the same triage agents apply their decisions with the Edit tool; the exact-diff guard finds the worktree equal to the prediction. Evidence: `verify_applied.py` exit 0.
-- [ ] T4: Mermaid text that changed is re-rendered; the diagram gate passes. Evidence: `check:diagrams` exit 0.
-- [ ] T5: the neuroplastisitas test finds its renamed heading. Evidence: `bun test` exit 0.
-- [ ] T6: one commit per book, author from `book.toml`; tree clean.
-- [ ] T7: build and gates on the final tree; sample before and after pairs shown to the owner.
+- [x] T2: reviewer problems resolved in the decision files (P1 and P2 fixed or the edit rejected), and the repository gates pass on the simulated tree. Evidence: reviewer reports, `sim_gates.sh` exit 0. Evidence: 8 independent reviewers (about 1,100 flagged decisions, 0 P1 after patches), problems patched; `sim_gates.sh` exit 0 (structure=0 voice=0 repeated=0 colons=0).
+- [x] T3: the same triage agents apply their decisions with the Edit tool; the exact-diff guard finds the worktree equal to the prediction. Evidence: `verify_applied.py` exit 0. Evidence: all 40 triage agents applied their own decisions with the Edit tool; `verify_applied.py` exit 0: 743 files predicted, 0 mismatching, 0 unexpected (three first-run deviations fixed: one missed edit in eksistensialisme-dan-makna-hidup ch01, one blank line lost in piaget ch11, decision aligned for "konstan").
+- [x] T4: Mermaid text that changed is re-rendered; the diagram gate passes. Evidence: `check:diagrams` exit 0. Evidence: `diagrams:render` exit 0 (13 rendered, 157 cached, 0 missing); `check:diagrams` exit 0, 0 violations, 13 orphan SVGs kept (not pruned, owner decides).
+- [x] T5: the neuroplastisitas test finds its renamed heading. Evidence: `bun test` exit 0. Evidence: `bun test tests/books/neuroplastisitas-dalam-belajar.test.ts` exit 0, 4 pass, 0 fail.
+- [x] T6: one commit per book, author from `book.toml`; tree clean. Evidence: 60 book commits (52 Iwan Kurniawan, 11 Kania Salsabila with the Co-authored-by trailer; counts from `git log --format=%an`) plus one test commit; `git diff --quiet` exit 0.
+- [x] T7: build and gates on the final tree; sample before and after pairs shown to the owner. Evidence: `check:structure` exit 0, `check:headings` exit 0, `check:voice` exit 0, `check:diagrams` exit 0, `bun run build` exit 0, tree clean afterwards. Before and after pairs shown to the owner next.
 - [ ] T8: owner manual check; notes recorded as MC items.
 - [ ] T9: ledger, regression test, RED proof against the base commit. Evidence: test exit 0 at HEAD and exit non-zero at the base.
 - [ ] T10: branch pushed, one pull request opened; merge, deploy, seed and reindex asked separately.
