@@ -84,13 +84,13 @@ Laba tertinggi, yaitu 1.500, justru muncul pada harga 60, bukan pada harga terti
 
 ### PT PLN (Persero) di Indonesia
 
-Di Indonesia, transmisi dan distribusi listrik dikelola oleh PLN. Ini merupakan bentuk **Monopoli Negara** yang dilindungi undang-undang (Pasal 33 UUD 1945), mengingat listrik merupakan komoditas vital yang menguasai hajat hidup masyarakat banyak.
+Di Indonesia, transmisi dan distribusi listrik dikelola oleh PLN. Ini merupakan bentuk **Monopoli Negara** yang berlandaskan Pasal 33 UUD 1945, mengingat listrik merupakan komoditas vital yang menguasai hajat hidup masyarakat banyak.
 
 - **Tujuan Utama:** Menjamin keterjangkauan harga dan pemerataan pasokan hingga ke pelosok daerah yang secara komersial kurang menguntungkan bagi swasta.
 
 ### Industri Farmasi dan Hak Paten
 
-Ketika perusahaan farmasi menemukan formula obat baru, mereka mendaftarkan **Hak Paten**. Selama masa paten berlaku (misalnya 20 tahun), tidak ada produsen lain yang diizinkan membuat obat serupa.
+Ketika perusahaan farmasi menemukan formula obat baru, mereka mendaftarkan **Hak Paten**. Selama masa paten berlaku (misalnya 20 tahun), tidak ada produsen lain yang diizinkan membuat obat tersebut.
 
 - **Dampak Ekonomi:** Harga obat pada masa paten cenderung tinggi demi menutup investasi penelitian dan pengembangan (*R&D*) yang bernilai besar. Ini adalah imbalan atas dorongan inovasi.
 
@@ -101,7 +101,7 @@ Meskipun monopoli mendatangkan keuntungan besar bagi pemilik usaha, dari sudut p
 | Bentuk Efisiensi | Kondisi pada Persaingan Sempurna | Kondisi pada Pasar Monopoli |
 | :--- | :--- | :--- |
 | **Efisiensi Alokatif** | Harga sama dengan Biaya Marginal $P = \text{MC}$. | Harga melebihi Biaya Marginal $P > \text{MC}$, barang diproduksi lebih sedikit. |
-| **Efisiensi Produsif** | Memproduksi pada titik Biaya Rata-rata Minimum ($\text{ATC}_{\text{min}}$). | Produksi tidak selalu berada di titik biaya rata-rata terendah. |
+| **Efisiensi Produktif** | Memproduksi pada titik Biaya Rata-rata Minimum ($\text{ATC}_{\text{min}}$). | Produksi tidak selalu berada di titik biaya rata-rata terendah. |
 
 > **Pesan Utama:** Karena monopolis sengaja membatasi volume produksi untuk menahan harga tinggi, terjadi **Inefisiensi Alokatif**. Sebagian konsumen yang sejatinya rela membayar di atas biaya produksi tetap tidak bisa mengakses produk tersebut.
 

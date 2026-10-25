@@ -18,7 +18,7 @@ Bayangkan sebuah supermarket tradisional yang berjalan secara linear. Pengelola 
 
 ## 2. Network Effects (Efek Jaringan)
 
-Mengapa Facebook, WhatsApp, atau Gojek sulit dikalahkan? Jawabannya adalah **Efek Jaringan**. Ini adalah fenomena di mana nilai suatu layanan bagi seorang pengguna bergantung pada jumlah pengguna lain yang menggunakan layanan tersebut.
+Mengapa Facebook, WhatsApp, atau Gojek sulit dikalahkan? Jawabannya adalah **Efek Jaringan**. Ini adalah fenomena ketika nilai suatu layanan bagi seorang pengguna bergantung pada jumlah pengguna lain yang menggunakan layanan tersebut.
 
 ### A. Efek Jaringan Langsung (Direct Network Effects)
 
@@ -30,7 +30,7 @@ $$
 V \propto n^2
 $$
 
-Di mana $V$ adalah nilai jaringan dan $n$ adalah jumlah pengguna. Jika jumlah pengguna berlipat ganda, nilai jaringan naik empat kali lipat (tumbuh secara kuadratik), bukan linear.
+Dalam rumus tersebut, $V$ adalah nilai jaringan dan $n$ adalah jumlah pengguna. Jika jumlah pengguna berlipat ganda, nilai jaringan naik empat kali lipat (tumbuh secara kuadratik), bukan linear.
 
 ### B. Efek Jaringan Tidak Langsung (Indirect Network Effects)
 
@@ -41,7 +41,7 @@ Terjadi ketika peningkatan jumlah pengguna di satu sisi platform meningkatkan ni
 Dalam manufaktur tradisional, memproduksi mobil ke-1.000.000 membutuhkan biaya yang hampir sama dengan mobil ke-1. Namun, dalam ekonomi digital:
 
 - **Biaya Tetap Tinggi (High Fixed Costs):** Membangun perangkat lunak atau infrastruktur server pertama kali sangat mahal.
-- **Biaya Marginal Rendah (Low/Zero Marginal Cost):** Menduplikasi perangkat lunak tersebut untuk pengguna ke-sejuta hampir tidak memakan biaya tambahan $\text{MC} \to 0$.
+- **Biaya Marginal Rendah (Low/Zero Marginal Cost):** Menduplikasi perangkat lunak tersebut untuk pengguna kesejuta hampir tidak memakan biaya tambahan $\text{MC} \to 0$.
 
 $$
 \text{TC} = \text{FC} + \text{MC} \cdot Q
@@ -55,15 +55,15 @@ Karena kombinasi efek jaringan dan biaya marginal yang rendah, pasar digital cen
 
 Beberapa faktor yang mendorong hal ini:
 
-1. **Biaya Berpindah (Switching Costs):** Pengguna enggan berpindah dari Spotify ke platform lain karena daftar putar (*playlist*) kamu sudah tersimpan rapi di sana.
+1. **Biaya Berpindah (Switching Costs):** Pengguna enggan berpindah dari Spotify ke platform lain karena daftar putar (*playlist*) mereka sudah tersimpan rapi di sana.
 2. **Lock-in Effect:** Ketergantungan pada ekosistem (misalnya: menggunakan iPhone, Mac, dan iCloud secara bersamaan).
 3. **Kekuasaan Data:** Semakin banyak data yang dimiliki perusahaan, semakin baik algoritma mereka, yang membuat layanan mereka semakin unggul dibandingkan pesaing baru.
 
-Sebagai contoh, ketika seseorang mencoba berpindah dari Google ke mesin pencari lain selama seminggu, hambatan utama yang dirasakan adalah keterbiasaan hasil pencarian dan integrasi akun mereka yang sudah terkunci pada ekosistem tersebut.
+Sebagai contoh, ketika seseorang mencoba berpindah dari Google ke mesin pencari lain selama seminggu, hambatan utama yang dirasakan adalah rasa terbiasa dengan hasil pencarian dan integrasi akun mereka yang sudah terkunci pada ekosistem tersebut.
 
 ## 5. Co-opetition
 
-Di era digital, garis antara kawan dan lawan menjadi kabur. Muncul istilah **Co-opetition** (kerjasama sekaligus persaingan).
+Di era digital, garis antara kawan dan lawan menjadi kabur. Muncul istilah **Co-opetition** (kerja sama sekaligus persaingan).
 
 *Contoh:* Samsung adalah pesaing utama Apple di pasar ponsel pintar. Namun, di saat yang sama, Samsung adalah salah satu pemasok komponen layar utama untuk iPhone. Mereka bersaing di pasar produk akhir, namun bekerja sama di rantai pasokan.
 
@@ -74,7 +74,7 @@ Mari kita bedah bagaimana struktur pasar ini bekerja pada fenomena *Super-App* d
 **Skenario:** Gojek memulai sebagai layanan *ride-hailing*. Namun, mereka menggunakan efek jaringan untuk berekspansi secara horizontal.
 
 1. **Akuisisi Pengguna:** Menawarkan promo besar untuk menarik pengguna (mengejar $n$ dalam Hukum Metcalfe).
-2. **Cross-Side Effects:** Dengan banyaknya pengguna, pedagang makanan (GoFood) ingin bergabung.
+2. **Efek Jaringan Tidak Langsung (Cross-Side Effects):** Dengan banyaknya pengguna, pedagang makanan (GoFood) ingin bergabung.
 3. **Data sebagai Bahan Bakar:** Data dari riwayat perjalanan dan pemesanan makanan digunakan untuk menawarkan layanan finansial (GoPay/GoPayLater).
 4. **Hambatan Masuk:** Pesaing baru harus mengeluarkan modal triliunan rupiah hanya untuk menandingi jumlah mitra pengemudi dan pedagang yang sudah mapan di platform tersebut.
 

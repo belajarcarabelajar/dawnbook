@@ -10,7 +10,7 @@ Dalam ekonomi, efisiensi berarti menggunakan sumber daya yang terbatas untuk men
 
 ### A. Efisiensi Produktif (Productive Efficiency)
 
-Efisiensi ini tercapai ketika barang diproduksi dengan **biaya rata-rata terendah**. Secara matematis, kondisi ini terjadi pada titik saat harga atau biaya marjinal $\text{MC}$ memotong titik terendah dari Kurva Biaya Rata-rata Total $\text{ATC}$.
+Efisiensi ini tercapai ketika barang diproduksi dengan **biaya rata-rata terendah**. Secara matematis, kondisi ini terjadi pada titik saat kurva biaya marjinal $\text{MC}$ memotong titik terendah dari Kurva Biaya Rata-rata Total $\text{ATC}$.
 
 - **Analogi:** Bayangkan sebuah pabrik roti. Efisiensi produktif tercapai jika pabrik tersebut menggunakan oven, tepung, dan tenaga kerja sedemikian rupa sehingga satu loyang roti diproduksi dengan biaya serendah mungkin tanpa ada bahan yang terbuang.
 
@@ -30,7 +30,7 @@ Untuk memahami dampak struktur pasar terhadap masyarakat, kamu dapat menggunakan
 
 > **Wawasan Penting:** Pasar dikatakan efisien secara ekonomi (Pareto Optimal) jika surplus total sudah maksimal dan tidak ada satu pihak pun yang bisa menjadi lebih baik tanpa membuat pihak lain menjadi lebih buruk.
 
-## 3. Perbandingan Efisiensi Antar Struktur Pasar
+## 3. Perbandingan Efisiensi Antarstruktur Pasar
 
 Mari bandingkan bagaimana struktur pasar yang berbeda membagi kue kesejahteraan ekonomi.
 
@@ -77,7 +77,7 @@ Pemerintah kemudian melakukan privatisasi dan memberikan hak monopoli kepada per
 
 1. **Efisiensi Produktif Meningkat:** Perusahaan swasta memangkas pemborosan untuk menekan biaya operasional.
 2. **Efisiensi Alokatif Menurun:** Perusahaan menaikkan harga di atas biaya marjinal demi memaksimalkan laba.
-3. **Dampak Kesejahteraan:** Masyarakat berpenghasilan rendah mengalami keterbatasan akses air bersih karena Surplus Konsumen menurun, meskipun efisiensi internal perusahaan meningkat.
+3. **Dampak Kesejahteraan:** Masyarakat berpenghasilan rendah mengalami keterbatasan akses air bersih karena harga naik, sehingga Surplus Konsumen menurun, meskipun efisiensi internal perusahaan meningkat.
 
 ## 6. Kesejahteraan pada Tiga Struktur Pasar
 
@@ -86,7 +86,7 @@ Pemerintah kemudian melakukan privatisasi dan memberikan hak monopoli kepada per
 | **Harga $P$** | Rendah $P = \text{MC}$ | Tinggi $P > \text{MC}$ | Sedang $P > \text{MC}$ |
 | **Output $Q$** | Maksimal | Terbatas | Cukup |
 | **Efisiensi Alokatif** | Ya | Tidak | Tidak (tapi ada variasi) |
-| **Efisiensi Produktif** | Ya | Tidak (sering ada pemborosan) | Tidak (kelebihan kapasitas) |
+| **Efisiensi Produktif** | Ya | Tidak selalu (sering ada pemborosan) | Tidak (kelebihan kapasitas) |
 | **Deadweight Loss** | Nol | Besar | Kecil |
 
 > **Pesan Utama:** Persaingan berfungsi sebagai pendorong utama efisiensi ekonomi. Semakin jauh struktur pasar dari persaingan sempurna, semakin besar potensi penurunan kesejahteraan masyarakat yang memerlukan penanganan melalui regulasi pemerintah.

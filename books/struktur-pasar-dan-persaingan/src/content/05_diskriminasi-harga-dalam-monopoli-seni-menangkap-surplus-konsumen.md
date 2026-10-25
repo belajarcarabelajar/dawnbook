@@ -2,14 +2,14 @@
 
 Pernahkah kamu bertanya-tanya mengapa harga tiket pesawat untuk rute yang sama bisa berbeda bagi setiap penumpang? Atau mengapa pelajar mendapatkan harga lebih murah untuk lisensi perangkat lunak dibandingkan profesional? Di dunia monopoli, fenomena ini terjadi melalui strategi yang terukur, yaitu **Diskriminasi Harga**.
 
-Dalam bagian ini, kita akan membahas bagaimana perusahaan dengan kekuatan pasar menyesuaikan harga berdasarkan karakteristik pembeli untuk mengoptimalkan pendapatan.
+Dalam bagian ini, kita akan membahas bagaimana perusahaan dengan kekuatan pasar menyesuaikan harga berdasarkan karakteristik pembeli untuk memaksimalkan keuntungan.
 
 ## 1. Apa Itu Diskriminasi Harga?
 
 **Diskriminasi harga** adalah praktik menjual barang atau jasa yang sama kepada konsumen yang berbeda dengan harga yang berbeda, di mana perbedaan harga tersebut bukan disebabkan oleh perbedaan biaya produksi.
 
 > **Analogi Penjahit**  
-> Bayangkan seorang penjahit yang mampu mengetahui tingkat kemauan membayar setiap pelanggannya. Ketika seorang miliarder masuk, penjahit tahu orang tersebut bersedia membayar Rp10.000.000 untuk sebuah jas. Saat seorang mahasiswa masuk, penjahit tahu ia hanya mampu membayar Rp1.000.000. Si penjahit membuat dua jas yang identik namun menagih masing-masing pembeli sesuai batas kemampuan maksimal mereka. Itulah inti dari diskriminasi harga.
+> Bayangkan seorang penjahit yang mampu mengetahui tingkat kemauan membayar setiap pelanggannya. Ketika seorang miliarder masuk, penjahit tahu orang tersebut bersedia membayar Rp10.000.000 untuk sebuah jas. Saat seorang mahasiswa masuk, penjahit tahu ia hanya mampu membayar Rp1.000.000. Si penjahit membuat dua jas yang identik namun menagih masing-masing pembeli sesuai kemauan membayar maksimal mereka. Itulah inti dari diskriminasi harga.
 
 ### Mengapa Monopolis Melakukannya?
 
@@ -19,7 +19,7 @@ Tujuan utamanya adalah **Maksimisasi Keuntungan**. Dalam skema harga tunggal, te
 
 Tidak semua perusahaan bisa melakukan strategi ini. Agar diskriminasi harga berhasil, tiga syarat utama harus dipenuhi:
 
-1. **Memiliki Kekuatan Pasar:** Perusahaan haruslah seorang penentu harga (*price maker*), yang merupakan karakteristik utama monopoli.
+1. **Memiliki Kekuatan Pasar:** Perusahaan haruslah penentu harga (*price maker*), yang merupakan karakteristik utama monopoli.
 2. **Segmentasi Pasar:** Perusahaan harus mampu membedakan konsumen berdasarkan **Elastisitas Permintaan** mereka (seberapa sensitif mereka terhadap perubahan harga).
 3. **Mencegah Resale (Arbitrase):** Perusahaan harus memastikan konsumen yang membeli dengan harga murah tidak menjual kembali produk tersebut kepada konsumen yang seharusnya membayar harga mahal.
    - *Contoh:* Kamu tidak bisa menjual kembali tiket bioskop "tarif pelajar" kepada pembeli lain di lokasi.
@@ -60,7 +60,7 @@ Mari kita lihat perbedaan antara kebijakan harga tunggal dengan diskriminasi har
 | Skenario | Strategi | Hasil bagi Perusahaan |
 | --- | --- | --- |
 | **Harga Tunggal** | Menetapkan satu harga untuk semua (misal: $P = 100$). | Kehilangan pembeli yang hanya mampu bayar $80$ dan kehilangan potensi margin dari yang mampu bayar $150$. |
-| **Diskriminasi** | Menagih $150$ ke kelompok berdaya beli tinggi, $100$ ke kelas menengah, dan $80$ ke pelajar. | Mengambil seluruh surplus dari ketiga kelompok tersebut. Profit meningkat. |
+| **Diskriminasi** | Menagih $150$ ke kelompok berdaya beli tinggi, $100$ ke kelas menengah, dan $80$ ke pelajar. | Mengambil sebagian surplus dari ketiga kelompok tersebut. Profit meningkat. |
 
 **Persamaan Profit Maksimal pada Diskriminasi Harga Tingkat Ketiga:**  
 Perusahaan akan mengalokasikan output sehingga Pendapatan Marginal $\text{MR}$ di setiap pasar sama dengan Biaya Marginal $\text{MC}$ keseluruhan:

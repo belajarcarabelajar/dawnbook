@@ -2,13 +2,13 @@
 
 Bayangkan pertandingan sepak bola di mana satu tim berwenang menentukan harga tiket, memilih wasitnya sendiri, bahkan melarang tim lain masuk ke lapangan. Pertandingan tersebut pasti akan menjadi tidak adil, membosankan, dan merugikan penonton.
 
-Dalam dunia ekonomi, pemerintah berperan sebagai "wasit" yang memastikan bahwa "pertandingan" antar perusahaan berjalan jujur. Tanpa aturan, perusahaan besar cenderung menggunakan kekuatan mereka untuk mematikan pesaing, yang pada akhirnya akan merugikan kita semua sebagai konsumen.
+Dalam dunia ekonomi, pemerintah berperan sebagai "wasit" yang memastikan bahwa "pertandingan" antarperusahaan berjalan jujur. Tanpa aturan, perusahaan besar cenderung menggunakan kekuatan mereka untuk mematikan pesaing, yang pada akhirnya akan merugikan kita semua sebagai konsumen.
 
 ### 1. Mengapa Pemerintah Harus Campur Tangan?
 
-Secara teoritis, pasar sering kali gagal mencapai alokasi sumber daya yang optimal. Fenomena ini disebut dengan **Kegagalan Pasar (Market Failure)**. Dalam konteks struktur pasar, intervensi pemerintah diperlukan karena:
+Secara teoretis, pasar sering kali gagal mencapai alokasi sumber daya yang optimal. Fenomena ini disebut dengan **Kegagalan Pasar (Market Failure)**. Dalam konteks struktur pasar, intervensi pemerintah diperlukan karena:
 
-- **Mencegah Eksploitasi Konsumen:** Tanpa persaingan, perusahaan monopoli dapat menetapkan harga setinggi mungkin $P > \text{MC}$ karena konsumen tidak memiliki pilihan lain.
+- **Mencegah Eksploitasi Konsumen:** Tanpa persaingan, perusahaan monopoli dapat menetapkan harga di atas biaya marginal $P > \text{MC}$ karena konsumen tidak memiliki pilihan lain.
 - **Mendorong Inovasi:** Persaingan memaksa perusahaan untuk terus berinovasi. Jika sebuah perusahaan merasa aman tanpa pesaing, mereka cenderung malas untuk meningkatkan kualitas produk.
 - **Alokasi Sumber Daya yang Adil:** Mencegah penumpukan kekayaan dan kekuasaan ekonomi hanya pada segelintir orang atau kelompok (konglomerasi).
 
@@ -32,7 +32,7 @@ Kebijakan anti-monopoli secara spesifik melarang beberapa perilaku strategis yan
 
 #### A. Kartel (Kolusi)
 
-Perjanjian antar pesaing untuk mengatur harga, membagi wilayah pemasaran, atau mengatur jumlah produksi.
+Perjanjian antarpesaing untuk mengatur harga, membagi wilayah pemasaran, atau mengatur jumlah produksi.
 
 - *Analogi:* Seperti dua toko kelontong yang sepakat untuk sama-sama menaikkan harga beras agar warga tidak punya pilihan murah.
 
@@ -48,7 +48,7 @@ Perusahaan yang sudah besar dilarang menggunakan kekuatannya untuk menghalangi p
 
 Mewajibkan konsumen membeli produk yang tidak mereka inginkan sebagai syarat untuk membeli produk utama yang dituju.
 
-- *Contoh:* Kamu ingin membeli Printer Merk X, tapi toko mewajibkan kamu juga harus membeli kertas khusus dari mereka yang harganya mahal.
+- *Contoh:* Kamu ingin membeli printer merek X, tapi toko mewajibkan kamu juga harus membeli kertas khusus dari mereka yang harganya mahal.
 
 ### 4. Indeks Herfindahl-Hirschman (HHI)
 
@@ -74,7 +74,7 @@ $$
 Beberapa tahun lalu di Indonesia, KPPU pernah menyelidiki dugaan kartel harga tiket pesawat. Ketika harga tiket dari berbagai maskapai naik secara bersamaan dan tetap tinggi meskipun biaya operasional turun, pemerintah melalui KPPU melakukan investigasi untuk memastikan tidak ada kesepakatan diam-diam antarmaskapai.
 
 **Skenario 2 Teknologi Global**  
-Uni Eropa sering kali mendenda perusahaan teknologi besar (seperti Google atau Microsoft) karena dianggap menyalahgunakan posisi dominan mereka. Misalnya, memaksa sistem operasi tertentu untuk selalu menggunakan *browser* bawaan mereka tanpa memberikan pilihan mudah bagi pengguna untuk beralih ke pesaing.
+Uni Eropa sering kali mendenda perusahaan teknologi besar (seperti Google atau Microsoft) karena dianggap menyalahgunakan posisi dominan mereka. Misalnya, membundel *browser* bawaan mereka dengan sistem operasi tanpa memberikan pilihan mudah bagi pengguna untuk beralih ke pesaing.
 
 ### 6. Dilema Regulasi pada Monopoli Alami
 
@@ -85,7 +85,7 @@ Dalam kasus ini, pemerintah tidak membubarkan monopolinya, melainkan **meregulas
 **Pendekatan Regulasi Harga:**
 
 1. **Marginal Cost Pricing $P = \text{MC}$:** Memaksa perusahaan menjual pada harga efisien. Namun, pendekatan ini sering membuat perusahaan rugi karena tidak menutupi biaya tetap.
-2. **Average Cost Pricing $P = \text{ATC}$:** Perusahaan tidak mendapatkan laba super normal, tetapi masih bisa beroperasi tanpa merugi (Laba Normal).
+2. **Average Cost Pricing $P = \text{ATC}$:** Perusahaan tidak mendapatkan laba supernormal, tetapi masih bisa beroperasi tanpa merugi (Laba Normal).
 
 ### Aktivitas Analisis Cepat
 

@@ -1,6 +1,6 @@
 ## Pasar Oligopoli dan Interdependensi
 
-Banyak industri modern yang kamu temui sehari-hari dikuasai oleh beberapa perusahaan besar. Pernahkah kamu memperhatikan bahwa ketika sebuah operator seluler memberikan promo kuota besar-besaran, operator lain biasanya akan segera menyusul dengan penawaran serupa dalam waktu singkat? Atau mengapa harga tiket pesawat untuk rute yang sama di maskapai yang berbeda sering kali hampir identik?
+Banyak industri modern yang kamu temui sehari-hari dikuasai oleh beberapa perusahaan besar. Pernahkah kamu memperhatikan bahwa ketika sebuah operator seluler memberikan promo kuota besar-besaran, operator lain biasanya akan segera menyusul dengan penawaran serupa? Atau mengapa harga tiket pesawat untuk rute yang sama di maskapai yang berbeda sering kali hampir identik?
 
 Fenomena ini bukanlah kebetulan. Ini adalah dinamika unik dari **Pasar Oligopoli**, sebuah struktur pasar di mana segelintir perusahaan besar memegang kendali, dan setiap langkah yang diambil oleh satu perusahaan akan berdampak pada pesaingnya.
 
@@ -13,7 +13,7 @@ Secara etimologis, "Oligopoli" berasal dari bahasa Yunani, *oligos* yang berarti
 1. **Sedikit Penjual, Banyak Pembeli:** Pasar hanya dikuasai oleh beberapa pemain dominan.
 2. **Produk Homogen atau Terdiferensiasi:** Produk bisa sangat mirip (seperti semen atau baja) atau berbeda secara merek/fitur (seperti smartphone atau otomotif).
 3. **Hambatan Masuk yang Tinggi:** Membutuhkan modal besar, teknologi canggih, atau loyalitas merek yang kuat untuk bisa bersaing.
-4. **Interdependensi (Saling Ketergantungan):** Ini adalah ciri yang paling utama. Keputusan satu perusahaan sangat memengaruhi keuntungan perusahaan lain.
+4. **Interdependensi (Saling Ketergantungan):** Ini adalah ciri yang utama. Keputusan satu perusahaan sangat memengaruhi keuntungan perusahaan lain.
 
 ## Interdependensi (Saling Ketergantungan)
 
@@ -41,7 +41,7 @@ Jika $P$ adalah harga dan $Q$ adalah kuantitas, maka profil elastisitasnya berub
 - Untuk $P > P^*$, permintaan bersifat **Elastis**: $\text{\%} \Delta Q > \text{\%} \Delta P$
 - Untuk $P < P^*$, permintaan bersifat **Inelastis**: $\text{\%} \Delta Q < \text{\%} \Delta P$
 
-> **Catatan Strategis:** Dalam pasar oligopoli, perang harga sering kali menjadi strategi *lose-lose* (mati bersama) karena menurunkan marjin keuntungan seluruh pemain tanpa mengubah pangsa pasar secara berarti.
+> **Catatan Strategis:** Dalam pasar oligopoli, perang harga sering kali menjadi strategi *lose-lose* (mati bersama) karena menurunkan margin keuntungan seluruh pemain tanpa mengubah pangsa pasar secara berarti.
 
 ## Strategi Persaingan Non-Harga
 
@@ -52,7 +52,7 @@ Karena perang harga berisiko dan bisa menggerus margin keuntungan semua pemain, 
 - **Diferensiasi Produk:** Menambahkan fitur unik yang tidak dimiliki pesaing (misalnya: teknologi kamera pada smartphone).
 - **Branding dan Iklan:** Membangun citra bahwa produk mereka "lebih keren" atau "lebih premium".
 - **Layanan Purna Jual:** Garansi yang lebih lama atau pusat servis yang tersebar luas.
-- **Loyalty Programs:** Kartu member atau poin *reward* untuk mengunci konsumen agar tidak berpindah ke merek lain.
+- **Program Loyalitas (*loyalty program*):** Kartu member atau poin *reward* untuk mengunci konsumen agar tidak berpindah ke merek lain.
 
 ## Interdependensi pada Industri Penerbangan
 

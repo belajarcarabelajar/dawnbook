@@ -36,7 +36,7 @@ Dalam pasar persaingan monopolistik, fungsi iklan melampaui sekadar hiasan: ikla
 
 #### Mengapa Iklan Sangat Penting?
 
-1. **Informasi:** Memberitahu konsumen tentang keberadaan fitur baru atau produk baru.
+1. **Informasi:** Memberi tahu konsumen tentang keberadaan fitur baru atau produk baru.
 2. **Membangun Loyalitas:** Menciptakan persepsi bahwa produk A jauh lebih baik daripada produk B, meskipun secara teknis perbedaannya tipis.
 3. **Menggeser Kurva Permintaan:** Iklan bertujuan membuat kurva permintaan menjadi lebih **inelastis**. Artinya, ketika perusahaan menaikkan harga, konsumen yang sudah loyal tidak akan langsung kabur.
 
@@ -46,7 +46,7 @@ $$
 \text{MR} = \text{MC}
 $$
 
-Jika Harga $P$ lebih besar dari Biaya Satuan Rata-rata $\text{ATC}$, maka:
+Jika Harga $P$ lebih besar dari Biaya Total Rata-rata $\text{ATC}$, maka:
 
 $$
 \text{Laba} = (P - \text{ATC}) \times Q
@@ -58,7 +58,7 @@ Namun, karena hambatan masuk yang rendah, keuntungan ini akan mengundang pemain 
 
 Industri perawatan kulit (*skin care*) adalah contoh yang jelas dari persaingan monopolistik.
 
-- **Skenario:** Ada ratusan merek *moisturizer* (pelembab). Secara kimiawi, fungsi dasarnya hampir sama.
+- **Skenario:** Ada ratusan merek *moisturizer* (pelembap). Secara kimiawi, fungsi dasarnya hampir sama.
 - **Aksi Produsen:** Merek A menggunakan iklan dengan *influencer* ternama untuk membangun citra "mewah". Merek B menonjolkan label "organik" dan "bebas kimia berbahaya". Merek C fokus pada harga yang sangat terjangkau dengan kemasan ekonomis.
 - **Hasil:** Konsumen terbagi-bagi ke dalam segmen-segmen kecil. Penggemar Merek A tidak akan pindah ke Merek C hanya karena beda harga 5.000 rupiah, karena mereka sudah "terikat" secara emosional dengan *branding* Merek A. Inilah kekuatan "monopoli" dalam persaingan.
 
@@ -75,6 +75,6 @@ Industri perawatan kulit (*skin care*) adalah contoh yang jelas dari persaingan 
 
 Bagi seorang pengusaha di pasar persaingan monopolistik, kunci keberhasilan terletak pada **kemampuan untuk tampil beda**, bukan sekadar mengandalkan efisiensi biaya.
 
-> **Insight Penting:** Di pasar ini, persepsi konsumen sering kali lebih menentukan daripada kualitas produk itu sendiri. Jika kamu bisa meyakinkan konsumen bahwa produk kamu memberikan nilai tambah yang tidak dimiliki orang lain, kamu bisa mengendalikan harganya.
+> **Insight Penting:** Di pasar ini, persepsi konsumen sering kali lebih menentukan daripada kualitas produk itu sendiri. Jika kamu bisa meyakinkan konsumen bahwa produk kamu memberikan nilai tambah yang tidak dimiliki orang lain, kamu memiliki keleluasaan lebih untuk menetapkan harga.
 
 *Tugas refleksi: Sebutkan satu produk yang kamu beli secara rutin. Apakah kamu tetap membelinya meskipun harganya naik sedikit? Jika ya, fitur diferensiasi apa yang membuat kamu tetap setia pada produk tersebut?*

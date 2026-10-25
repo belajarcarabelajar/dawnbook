@@ -10,7 +10,7 @@ Dalam Pasar Persaingan Sempurna, harga tidak ditentukan oleh satu perusahaan sep
 
 ### Pasar Ibarat Timbangan
 
-Bayangkan sebuah timbangan raksasa. Di satu sisi ada jutaan konsumen (Permintaan), dan di sisi lain ada jutaan produsen (Penawaran). Harga adalah titik di mana timbangan tersebut mencapai keseimbangan. Jika satu butir pasir (satu perusahaan) mencoba menekan timbangan tersebut, timbangan itu tidak akan bergeming sedikit pun.
+Bayangkan sebuah timbangan raksasa. Di satu sisi ada jutaan konsumen (Permintaan), dan di sisi lain ada jutaan produsen (Penawaran). Harga adalah titik di mana timbangan tersebut mencapai keseimbangan. Jika satu butir pasir (satu perusahaan) mencoba menekan timbangan tersebut, timbangan itu tidak akan bergerak sedikit pun.
 
 ### Kondisi Keseimbangan
 
@@ -108,7 +108,7 @@ $$
 
 Mekanisme harga di PPS mendorong terciptanya dua jenis efisiensi:
 
-1. **Efisiensi Produktif:** Perusahaan memproduksi pada tingkat biaya per unit yang paling minimum $P = \text{AC}_{\text{min}}$. Tidak ada sumber daya yang terbuang sia-sia.
+1. **Efisiensi Produktif:** Perusahaan memproduksi pada tingkat biaya per unit yang minimum $P = \text{AC}_{\text{min}}$. Tidak ada sumber daya yang terbuang sia-sia.
 2. **Efisiensi Alokatif:** Sumber daya dialokasikan sedemikian rupa sehingga manfaat marginal bagi masyarakat (harga yang mereka bayar) sama dengan biaya marginal untuk memproduksinya $P = \text{MC}$.
 
 ## 6. Pasar Komoditas Pertanian
@@ -117,7 +117,7 @@ Mari kita lihat pasar beras atau gandum sebagai contoh nyata.
 
 - **Skenario:** Misalkan terjadi tren gaya hidup baru yang meningkatkan permintaan gandum secara drastis.
 - **Jangka Pendek:** Harga gandum melonjak. Petani gandum yang sudah ada mendapatkan **laba supernormal**.
-- **Respon:** Petani lain yang sebelumnya menanam kedelai melihat keuntungan gandum dan memutuskan untuk beralih menanam gandum (masuk ke pasar).
+- **Respons:** Petani lain yang sebelumnya menanam kedelai melihat keuntungan gandum dan memutuskan untuk beralih menanam gandum (masuk ke pasar).
 - **Jangka Panjang:** Karena semakin banyak orang menanam gandum, pasokan melimpah. Harga gandum perlahan turun kembali hingga para petani hanya mendapatkan laba yang cukup untuk menutupi biaya operasional dan upah mereka sendiri (**Laba Normal**).
 
 ## 7. Contoh Penghitungan Sederhana

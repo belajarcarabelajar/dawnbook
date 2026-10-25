@@ -22,7 +22,7 @@ Barang yang dijual oleh penjual A, B, dan C adalah **identik**. Konsumen tidak m
 
 ### C. Penerima Harga (Price Taker)
 
-Ini adalah karakteristik paling utama. Karena produknya identik dan penjualnya banyak, perusahaan tidak memiliki kekuatan untuk menentukan harga sendiri. Mereka harus mengikuti harga yang terbentuk dari pertemuan permintaan dan penawaran di pasar secara keseluruhan.
+Ini adalah karakteristik terpenting. Karena produknya identik dan penjualnya banyak, perusahaan tidak memiliki kekuatan untuk menentukan harga sendiri. Mereka harus mengikuti harga yang terbentuk dari pertemuan permintaan dan penawaran di pasar secara keseluruhan.
 
 ### D. Kebebasan Masuk dan Keluar (Free Entry and Exit)
 
@@ -34,7 +34,7 @@ Semua pembeli dan penjual memiliki pengetahuan yang lengkap mengenai harga, kual
 
 ## 2. Perusahaan sebagai "Price Taker"
 
-Dalam pasar persaingan sempurna, kurva permintaan yang dihadapi oleh **satu perusahaan individu** berbentuk garis horizontal (elastis sempurna). Artinya, perusahaan dapat menjual berapapun jumlah barang pada harga pasar yang berlaku, tetapi tidak akan laku satu unit pun jika menaikkan harga di atas itu.
+Dalam pasar persaingan sempurna, kurva permintaan yang dihadapi oleh **satu perusahaan individu** berbentuk garis horizontal (elastis sempurna). Artinya, perusahaan dapat menjual berapa pun jumlah barang pada harga pasar yang berlaku, tetapi tidak akan laku satu unit pun jika menaikkan harga di atas itu.
 
 Secara matematis, hubungan antara Harga $P$, Pendapatan Rata-rata $\text{AR}$, dan Pendapatan Marjinal $\text{MR}$ adalah sebagai berikut:
 
@@ -65,7 +65,7 @@ Seorang petani jagung di sebuah desa besar adalah contoh klasik.
 
 Perdagangan mata uang global mendekati persaingan sempurna.
 
-- **Homogen:** Satu Dollar AS yang dijual oleh Bank A identik dengan satu Dollar AS dari Bank B.
+- **Homogen:** Satu dolar AS yang dijual oleh Bank A identik dengan satu dolar AS dari Bank B.
 - **Informasi:** Melalui internet, semua orang bisa melihat kurs *real-time*.
 
 ## 4. Keuntungan dan Kelemahan
