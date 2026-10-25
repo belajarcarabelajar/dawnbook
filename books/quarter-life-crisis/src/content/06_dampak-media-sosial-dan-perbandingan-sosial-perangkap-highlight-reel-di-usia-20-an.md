@@ -74,7 +74,7 @@ Gunakan teknik **"Reframing"**:
 
 #### C. Praktik "JOMO" (Joy of Missing Out)
 
-Belajarlah untuk menikmati momen di mana kamu *tidak* terlibat dalam segala hal. Menghargai ketenangan, fokus pada hobi tanpa perlu mempostingnya, dan merayakan privasi adalah bentuk emotional independence yang tinggi.
+Belajarlah untuk menikmati momen ketika kamu *tidak* terlibat dalam segala hal. Menghargai ketenangan, fokus pada hobi tanpa perlu mempostingnya, dan merayakan privasi adalah bentuk emotional independence yang tinggi.
 
 ### Kesimpulan untuk Bagian Ini
 

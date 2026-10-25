@@ -6,13 +6,13 @@ Mengenali gejala sedini mungkin adalah kunci agar kamu tidak tenggelam dalam keb
 
 ### 1. Perasaan Terjebak (The "Trapped" Feeling)
 
-Bayangkan kamu sedang mengendarai mobil di jalan tol yang panjang. Kamu sudah berkendara selama berjam-jam, namun tiba-tiba kamu menyadari bahwa kamu tidak tahu sedang menuju ke mana, dan anehnya, semua pintu keluar tampak tertutup. Itulah gambaran perasaan terjebak dalam QLC.
+Bayangkan kamu sedang mengendarai mobil di jalan tol yang panjang. Kamu sudah berkendara selama berjam-jam, tetapi tiba-tiba kamu menyadari bahwa kamu tidak tahu sedang menuju ke mana, dan anehnya, semua pintu keluar tampak tertutup. Itulah gambaran perasaan terjebak dalam QLC.
 
 - **Terjebak dalam Rutinitas:** Kamu merasa seperti robot yang menjalani siklus bangun-kerja-tidur-ulang tanpa ada makna di dalamnya.
 - **Ketakutan akan Komitmen:** Kamu merasa terjepit di antara keinginan untuk menetap (dalam karier atau hubungan) dan ketakutan bahwa pilihan tersebut akan mengunci kamu selamanya dalam kehidupan yang tidak kamu sukai.
 - **Analogi "Roda Hamster":** Kamu terus berlari kencang, merasa lelah, tetapi menyadari bahwa kamu sebenarnya tidak berpindah tempat secara progresif dalam hidup.
 
-> "Perasaan terjebak sering kali muncul karena dihadapkan pada terlalu banyak pilihan, di mana tidak ada satu pun yang terasa benar-benar tepat, bukan karena ketiadaan pilihan sama sekali."
+> "Perasaan terjebak sering kali muncul karena dihadapkan pada terlalu banyak pilihan yang tidak satu pun terasa benar-benar tepat, bukan karena ketiadaan pilihan sama sekali."
 
 ### 2. Kecemasan Berlebih (Excessive Anxiety)
 
@@ -32,7 +32,7 @@ Jika ketidakpastian tentang masa depan tinggi dan harapan (dari diri sendiri ata
 
 ### 3. Hilangnya Motivasi (Loss of Motivation)
 
-Pernahkah kamu merasa sangat bersemangat saat kuliah, namun setahun setelah bekerja, energi itu menguap begitu saja? Hilangnya motivasi adalah gejala inti dari QLC yang sering disalahartikan sebagai kemalasan.
+Pernahkah kamu merasa sangat bersemangat saat kuliah, tetapi setahun setelah bekerja, energi itu menguap begitu saja? Hilangnya motivasi adalah gejala inti dari QLC yang sering disalahartikan sebagai kemalasan.
 
 - **Kehilangan "Why":** Kamu kehilangan alasan kuat mengapa kamu melakukan apa yang kamu lakukan sekarang. Target-target yang dulu terasa penting (seperti promosi atau gaji besar) mulai terasa hambar.
 - **Kelelahan Emosional:** Kamu merasa lelah secara mental meskipun secara fisik kamu tidak melakukan banyak aktivitas berat.

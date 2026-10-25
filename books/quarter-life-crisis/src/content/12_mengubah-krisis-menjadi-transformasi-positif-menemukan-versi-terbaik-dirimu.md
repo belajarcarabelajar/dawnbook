@@ -64,7 +64,7 @@ Transformasi tidak harus berarti berhenti dari pekerjaan secara mendadak atau pi
 
 ## 4. Membangun Hidup yang Autentik
 
-Hidup autentik adalah hasil akhir dari transformasi ini. Ini adalah kondisi di mana tindakan luar kamu selaras dengan keyakinan dalam dirimu.
+Hidup autentik adalah hasil akhir dari transformasi ini. Ini adalah kondisi ketika tindakan luar kamu selaras dengan keyakinan dalam dirimu.
 
 ### Karakteristik Hidup yang Autentik
 

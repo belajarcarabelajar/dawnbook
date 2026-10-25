@@ -106,6 +106,6 @@ Jumlah itu hanya untuk mempertahankan standar hidup yang **sama**.
 
 ## Mandiri Bukan Berarti Sendirian
 
-Kemandirian finansial di masa *Quarter-Life Crisis* bukan soal menjadi kaya dalam semalam, tetapi tentang keberanian **mengambil kendali atas hidupmu**. Tekanan ekonomi memang nyata dan sering kali tidak adil secara sistemik, namun dengan pemahaman yang baik tentang arus kas dan pengelolaan mental yang sehat, kamu bisa melewati fase ini dengan lebih tangguh.
+Kemandirian finansial di masa *Quarter-Life Crisis* bukan soal menjadi kaya dalam semalam, tetapi tentang keberanian **mengambil kendali atas hidupmu**. Tekanan ekonomi memang nyata dan sering kali tidak adil secara sistemik, tetapi dengan pemahaman yang baik tentang arus kas dan pengelolaan mental yang sehat, kamu bisa melewati fase ini dengan lebih tangguh.
 
 *Refleksi: Apa satu pengeluaran kecil yang jika kamu hentikan hari ini, akan memberikan rasa lega secara psikologis karena kamu merasa memegang kendali kembali?*

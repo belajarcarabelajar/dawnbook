@@ -1,6 +1,6 @@
 ## Kapan Harus Mencari Bantuan Profesional?
 
-Memasuki usia 20-an sering kali terasa seperti mengemudikan kapal di tengah badai. Wajar jika kamu merasa goyah, bingung, atau cemas. Namun, ada titik di mana "goyahan" tersebut bukan hanya respons terhadap ombak besar. Bisa jadi, itu tanda bahwa kapalmu mulai bocor secara struktural.
+Memasuki usia 20-an sering kali terasa seperti mengemudikan kapal di tengah badai. Wajar jika kamu merasa goyah, bingung, atau cemas. Namun, ada titik ketika "goyahan" tersebut bukan hanya respons terhadap ombak besar. Bisa jadi, itu tanda bahwa kapalmu mulai bocor secara struktural.
 
 Dalam bagian ini, kita akan belajar membedakan antara **kecemasan transisi** (yang merupakan bagian alami dari pertumbuhan) dan **gejala gangguan kesehatan mental** yang memerlukan intervensi profesional.
 

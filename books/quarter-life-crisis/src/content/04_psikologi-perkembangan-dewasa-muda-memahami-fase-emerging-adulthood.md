@@ -2,7 +2,7 @@
 
 Pernahkah kamu merasa seperti mengendarai mobil di tengah kabut tebal tanpa peta, sementara semua orang di media sosial tampak sudah sampai di tujuan? Jika iya, kamu tidak sendirian. Apa yang kamu rasakan bukan cuma "galau" biasa; ada penjelasan ilmiah dan psikologis di baliknya.
 
-Dalam bagian ini, kita akan membedah apa yang sebenarnya terjadi di dalam kepala dan hatimu selama rentang usia 20 hingga 30 tahun. Kita akan mengeksplorasi mengapa fase ini membingungkan, namun juga menentukan bagi pembentukan dirimu di masa depan.
+Dalam bagian ini, kita akan membedah apa yang sebenarnya terjadi di dalam kepala dan hatimu selama rentang usia 20 hingga 30 tahun. Kita akan mengeksplorasi mengapa fase ini membingungkan, tetapi juga menentukan bagi pembentukan dirimu di masa depan.
 
 ## 1\. Mengenal 'Emerging Adulthood'
 
@@ -14,7 +14,7 @@ Arnett mengidentifikasi lima fitur utama dari fase ini:
 
 1. **Eksplorasi Identitas (Identity Exploration)**: Mencoba berbagai kemungkinan dalam cinta dan pekerjaan.
 2. **Ketidakstabilan (Instability)**: Sering berpindah tempat tinggal, pekerjaan, atau pasangan.
-3. **Fokus pada Diri Sendiri (Self-focused)**: Masa di mana kamu memiliki kewajiban paling sedikit terhadap orang lain dan kebebasan terbesar untuk memutuskan apa yang kamu inginkan.
+3. **Fokus pada Diri Sendiri (Self-focused)**: Masa ketika kamu memiliki kewajiban paling sedikit terhadap orang lain dan kebebasan terbesar untuk memutuskan apa yang kamu inginkan.
 4. **Perasaan "Di Antara" (Feeling In-between)**: Merasa sudah dewasa dalam beberapa hal, tapi masih merasa seperti anak kecil dalam hal lain.
 5. **Usia Peluang (Age of Possibilities)**: Masa yang penuh dengan harapan dan peluang untuk mengubah arah hidup secara drastis.
 
