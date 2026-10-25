@@ -10,7 +10,7 @@ Bayangkan situasi ketika sedang menganalisis sebuah bangunan penjara:
 
 1. **Dimensi Teks:** Pembaca melihat batu bata, semen, dan jeruji besinya (material fisiknya).
 2. **Dimensi Praktik Diskursif:** Pembaca melihat cetak biru bangunannya dan bagaimana para pekerja membangunnya berdasarkan instruksi arsitek.
-3. **Dimensi Praktik Sosial:** Pembaca melihat alasan mengapa masyarakat memutuskan untuk membangun penjara tersebut, aturan hukum apa yang mendasarinya, dan bagaimana penjara itu mencerminkan pandangan masyarakat tentang hukuman.
+3. **Dimensi Praktik Sosial-Budaya:** Pembaca melihat alasan mengapa masyarakat memutuskan untuk membangun penjara tersebut, aturan hukum apa yang mendasarinya, dan bagaimana penjara itu mencerminkan pandangan masyarakat tentang hukuman.
 
 Mari kita bedah masing-masing dimensi ini dalam konteks kriminologi.
 
@@ -48,7 +48,7 @@ Dimensi ini menjembatani teks dengan masyarakat. Analisis difokuskan pada bagaim
 * **Intertekstualitas:** Bagaimana sebuah teks merujuk pada teks lain.
   * *Skenario:* Sebuah vonis hakim sering kali mengutip berita media yang viral atau pidato politik pejabat. Ini menunjukkan bahwa hukum tidak steril dari opini publik.
 * **Interdiskursivitas:** Pencampuran berbagai jenis wacana.
-  * *Contoh:* Laporan kepolisian yang menggunakan bahasa medis (psikologi) untuk menjelaskan motif kejahatan, atau bahasa ekonomi untuk menjelaskan kerugian negara.
+  * *Contoh:* Laporan kepolisian yang menggunakan bahasa medis atau psikologis untuk menjelaskan motif kejahatan, atau bahasa ekonomi untuk menjelaskan kerugian negara.
 * **Proses Produksi:** Siapa yang menulis teks ini? Apakah ada sensor? Di bawah tekanan apa teks ini dibuat?
 
 > **Pesan Kunci:** Dalam kriminologi, praktik diskursif menjelaskan mengapa laporan media tentang kejahatan sering kali seragam. Hal ini terjadi karena jurnalis sering hanya mengandalkan satu sumber (misalnya, rilis pers kepolisian) tanpa verifikasi independen, sehingga wacana kepolisian menjadi dominan.
@@ -57,7 +57,7 @@ Dimensi ini menjembatani teks dengan masyarakat. Analisis difokuskan pada bagaim
 
 ## 3. Dimensi Makro Praktik Sosial-Budaya
 
-Ini adalah level tertinggi di mana teks dihubungkan dengan konteks sosial yang lebih luas, terutama terkait dengan **kekuasaan** dan **ideologi**.
+Ini adalah level tertinggi tempat teks dihubungkan dengan konteks sosial yang lebih luas, terutama terkait dengan **kekuasaan** dan **ideologi**.
 
 ### Pertanyaan Kunci Analisis Makro
 
@@ -73,7 +73,7 @@ Ini adalah level tertinggi di mana teks dihubungkan dengan konteks sosial yang l
 
 Model Fairclough dapat diterapkan pada fenomena pemberitaan begal di media massa melalui tiga tahap:
 
-1. **Analisis Teks:** Media menggunakan kata-kata hiperbolis seperti "sadis", "berdarah dingin", dan "meresahkan". Fokus teks adalah pada detail kekerasan yang dilakukan pelaku, bukan latar belakang sosio-ekonomi pelaku.
+1. **Analisis Teks:** Media menggunakan kata-kata hiperbolis seperti "sadis", "berdarah dingin", dan "meresahkan". Fokus teks adalah pada detail kekerasan yang dilakukan pelaku, bukan latar belakang sosioekonomi pelaku.
 2. **Praktik Diskursif:** Media mengambil data mentah dari humas Polri. Publik mengonsumsi berita ini melalui media sosial, yang memicu kemarahan massa (komentar "tembak di tempat"). Terdapat siklus di mana kemarahan publik mendorong aparat untuk bertindak lebih represif.
 3. **Praktik Sosial:** Wacana ini menciptakan *Moral Panic* (kepanikan moral). Secara sosial, fenomena ini membenarkan tindakan *extra-judicial killing* (pembunuhan di luar hukum) demi keamanan, yang pada hakikatnya mengikis prinsip *due process of law* (proses hukum yang adil).
 
@@ -87,7 +87,7 @@ Dalam dokumen hukum, model Fairclough dapat diterapkan dengan membaca sebuah put
 | --- | --- | --- |
 | **Teks (linguistik)** | Pilihan kata dan struktur kalimat | Frasa seperti "terbukti secara sah" atau "memberatkan"; siapa yang diberi panggung bicara? |
 | **Praktik Diskursif** | Rujukan yang dipakai dalam putusan | Apakah putusan merujuk pada norma agama, adat, atau murni hukum? |
-| **Praktik Sosial** | Hegemoni yang mungkin diperkuat atau dilawan oleh putusan | Apakah putusan ini melindungi elit atau rakyat kecil? |
+| **Praktik Sosial** | Hegemoni yang mungkin diperkuat atau dilawan oleh putusan | Apakah putusan ini melindungi elite atau rakyat kecil? |
 
 Jawaban atas ketiga pertanyaan itu dapat membantu membongkar wacana kekuasaan yang bekerja di dalam hukum.
 
@@ -97,7 +97,7 @@ Jawaban atas ketiga pertanyaan itu dapat membantu membongkar wacana kekuasaan ya
 
 ### Pemodelan Matematis Wacana
 
-Untuk mempermudah pemahaman struktur tiga dimensi, hubungan antar-dimensi wacana dapat dirumuskan secara konseptual sebagai berikut:
+Untuk mempermudah pemahaman struktur tiga dimensi, hubungan antardimensi wacana dapat dirumuskan secara konseptual sebagai berikut:
 
 <div>
 $$
@@ -144,9 +144,9 @@ Dalam kriminologi, bahasa dianggap sebagai manifestasi perilaku. Berikut adalah 
 
 ### 1. Idiolek sebagai Sidik Jari Kata
 
-Sama seperti sidik jari atau DNA, setiap individu memiliki **idiolek**. Idiolek adalah gaya bahasa unik yang dimiliki seseorang, dipengaruhi oleh latar belakang pendidikan, dialek regional, usia, hingga profesi.
+Setiap individu memiliki **idiolek**. Idiolek adalah gaya bahasa unik yang dimiliki seseorang, dipengaruhi oleh latar belakang pendidikan, dialek regional, usia, hingga profesi.
 
-* **Pilihan Leksikal:** Apakah penulis menggunakan kata "komputer" atau "peranti"?
+* **Pilihan Leksikal:** Apakah penulis menggunakan kata "perangkat" atau "peranti"?
 * **Sintaksis:** Bagaimana struktur kalimatnya? Apakah cenderung menggunakan kalimat pasif atau aktif?
 * **Ortografi:** Bagaimana pola penggunaan tanda baca atau singkatan (misalnya: "yg" vs "yang", atau penggunaan tanda seru secara berlebihan).
 
@@ -183,6 +183,6 @@ Dalam kasus hukum, perdebatan sering terjadi mengenai apakah suatu kalimat tergo
 **Analisis Struktur:** Pernyataan A berfokus pada pengalaman subjektif terhadap kualitas layanan (opini/evaluasi), sedangkan Pernyataan B memuat tuduhan faktual atas perbuatan pidana ("penipu", "mencuri") tanpa pembuktian hukum, sehingga secara linguistik dan legal berpotensi kuat memenuhi unsur pencemaran nama baik.
 
 ### 4. Hubungan dengan Profiling Kriminal
-Apabila sebuah surat tuntutan tebusan menggunakan istilah medis yang spesifik namun disusun dengan tata bahasa yang tidak teratur, profil kriminologi dapat menyimpulkan bahwa tersangka kemungkinan memiliki latar belakang pekerjaan di bidang kesehatan atau pendidikan teknis tertentu, namun berada dalam kondisi tekanan psikologis tinggi saat menyusun teks tersebut.
+Apabila sebuah surat tuntutan tebusan menggunakan istilah medis yang spesifik, tetapi disusun dengan tata bahasa yang tidak teratur, profil kriminologi dapat menyimpulkan bahwa tersangka kemungkinan memiliki latar belakang pekerjaan di bidang kesehatan atau pendidikan teknis tertentu, tetapi berada dalam kondisi tekanan psikologis tinggi saat menyusun teks tersebut.
 
 *Linguistik forensik bukan hanya tentang apa yang dikatakan, melainkan bagaimana hal itu dikatakan dan apa yang tersirat di balik struktur tersebut.*

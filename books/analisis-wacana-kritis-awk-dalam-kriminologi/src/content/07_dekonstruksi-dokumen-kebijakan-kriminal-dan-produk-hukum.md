@@ -33,7 +33,7 @@ Untuk mendekonstruksi dokumen kebijakan kriminal, kita perlu memperhatikan beber
 Dalam dokumen kebijakan, sering kali tindakan keras atau kegagalan sistem disamarkan menggunakan **nominalisasi** (mengubah kata kerja menjadi kata benda).
 
 - **Kalimat Aktif:** "Polisi menangkap ribuan orang miskin dalam operasi ini." (Agen jelas: Polisi).
-- **Nominalisasi Pasif:** "Telah terjadi peningkatan angka kriminalitas yang memerlukan langkah penegakan hukum." (Agen menjadi abstrak, seolah-olah penegakan hukum terjadi secara otomatis tanpa aktor yang bertanggung jawab).
+- **Nominalisasi Pasif:** "Telah terjadi penangkapan ribuan orang miskin dalam operasi ini." (Agen menjadi abstrak, seolah-olah penangkapan terjadi secara otomatis tanpa aktor yang bertanggung jawab).
 
 #### B. Penggunaan Eufemisme
 
@@ -56,7 +56,7 @@ Setiap kebijakan kriminal membawa **ideologi** tertentu. AWK membedah agenda ter
 
 1. **Pendefinisian "Subjek Hukum":** Siapa yang dianggap sebagai "warga negara yang taat" dan siapa yang dikonstruksikan sebagai "ancaman"?
 2. **Dikotomi "Kita" vs "Mereka":** Dokumen kebijakan sering menciptakan batas imajiner. Misalnya, dalam kebijakan imigrasi, penggunaan kata "ilegal" (*human being as illegal*) mendegradasi martabat manusia menjadi sekadar status administratif yang patut dihukum.
-3. **Prioritas Kriminalisasi:** Mengapa undang-undang detail mengatur pencurian kecil (*street crime*) namun longgar atau menggunakan bahasa yang ambigu dalam mengatur kejahatan korporasi atau perusakan lingkungan?
+3. **Prioritas Kriminalisasi:** Mengapa undang-undang mengatur secara detail pencurian kecil (*street crime*) namun longgar atau menggunakan bahasa yang ambigu dalam mengatur kejahatan korporasi atau perusakan lingkungan?
 
 ---
 
@@ -104,4 +104,4 @@ Dalam banyak draf regulasi siber di berbagai negara, sering ditemukan frasa:
 
 > **Keberhasilan dekonstruksi dokumen hukum terletak pada kemampuan kita untuk membuktikan bahwa teks hukum bukanlah refleksi objektif dari keadilan, melainkan tempat ideologi saling bersaing, dan bahasa digunakan untuk mempertahankan status quo atau melegitimasi kontrol sosial.**
 
-*Refleksi: Saat membaca berita tentang pengesahan undang-undang baru besok, tanyakan pada diri sendiri: "Siapa yang menulis naskah ini, dan untuk kepentingan siapa bahasa ini disusun?"*
+*Refleksi: Saat membaca berita tentang pengesahan undang-undang baru, tanyakan pada diri sendiri: "Siapa yang menulis naskah ini, dan untuk kepentingan siapa bahasa ini disusun?"*

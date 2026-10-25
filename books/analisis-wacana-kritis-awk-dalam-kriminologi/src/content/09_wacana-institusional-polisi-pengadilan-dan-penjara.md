@@ -17,7 +17,7 @@ Di kepolisian, wacana sering kali dikemas dalam bentuk Laporan Polisi, Berita Ac
 - **Penggunaan Kalimat Pasif:** Polisi sering menggunakan konstruksi kalimat pasif untuk mengaburkan aktor penindak atau menghilangkan tanggung jawab personal.
   - *Contoh:* "Tersangka berhasil dilumpuhkan" terdengar lebih objektif dan impersonal dibandingkan "Petugas memukul tersangka hingga jatuh."
 - **Kategorisasi dan Labeling:** Penggunaan label teknis seperti "Residivis", "Pelaku Curas", atau "Oknum". Label ini bukan sekadar deskripsi, melainkan mekanisme untuk menentukan tindakan yang akan diterapkan oleh sistem.
-- **Dehumanisasi melalui Jargon:** Mengubah tragedi kemanusiaan menjadi kode-kode birokrasi. Kejadian kekerasan fisik sering kali diubah rumusan teksnya menjadi "gangguan kamtibmas" (keamanan dan pertiban masyarakat).
+- **Dehumanisasi melalui Jargon:** Mengubah tragedi kemanusiaan menjadi kode-kode birokrasi. Kejadian kekerasan fisik sering kali diubah rumusan teksnya menjadi "gangguan kamtibmas" (keamanan dan ketertiban masyarakat).
 
 > **Pesan Kunci:** Penggunaan bahasa yang teknis dan dingin ini berfungsi melepaskan beban emosional dari petugas dan membuat tindakan kekerasan negara terlihat sebagai prosedur standar yang legal.
 
@@ -27,7 +27,7 @@ Pengadilan merupakan lembaga dengan wacana yang paling formal. Di ruang sidang, 
 
 #### Mekanisme Kekuasaan Wacana Sidang
 
-1. **Monopoli Interpretasi:** Hanya hakim dan jaksa yang memiliki hak otoritatif untuk menentukan interpretasi undang-undang. Kesaksian terdakwa sering kali "diterjemahkan" ulang oleh penasihat hukum agar sesuai dengan format perundang-undangan, yang terkadang mengeliminasi konteks kemanusiaan yang sebenarnya.
+1. **Monopoli Interpretasi:** Hanya hakim dan jaksa yang memiliki hak otoritatif untuk menentukan interpretasi undang-undang. Keterangan terdakwa sering kali "diterjemahkan" ulang oleh penasihat hukum agar sesuai dengan format perundang-undangan, yang terkadang mengeliminasi konteks kemanusiaan yang sebenarnya.
 2. **Ritual Komunikasi:** Aturan ketat mengenai tata cara dan alokasi waktu bicara memperkuat struktur hierarki. Pelanggaran terhadap tata cara wacana sidang dapat dikategorikan sebagai *Contempt of Court* (penghinaan terhadap pengadilan).
 3. **Spasialisasi dan Otoritas Bahasa:** Posisi fisik meja hakim yang lebih tinggi diperkuat oleh konstruksi bahasa yang otoritatif.
 
@@ -47,7 +47,7 @@ Perubahan istilah dari "Penjara" menjadi "Lembaga Pemasyarakatan" (Lapas) serta 
 
 #### Bahasa Kontrol Internal
 
-- **Pemeriksaan Rutin:** Diistilahkan sebagai "sidak" (inspeksi mendadak).
+- **Pemeriksaan:** Diistilahkan sebagai "sidak" (inspeksi mendadak).
 - **Ruang Isolasi:** Diistilahkan sebagai "sel tutupan sunyi".  
 Penggunaan istilah eufemistik ini memperhalus realitas keras dari perampasan kemerdekaan fisik.
 
@@ -57,7 +57,7 @@ Institusi penegak hukum saling terhubung dalam rantai diskursif yang berkesinamb
 
 | Institusi | Alat Wacana Utama | Fungsi Kekuasaan |
 | --- | --- | --- |
-| **Kepolisian** | Laporan Pasif, Jargon Teknis | Menciptakan objektivitas & jarak emosional. |
+| **Kepolisian** | Kalimat Pasif, Jargon Teknis | Menciptakan objektivitas & jarak emosional. |
 | **Pengadilan** | Proseduralis, *Legalese* | Memonopoli kebenaran & menegakkan hierarki. |
 | **Penjara** | Eufemisme (Pembinaan) | Menormalisasi pengawasan & kontrol total. |
 
@@ -65,7 +65,7 @@ Institusi penegak hukum saling terhubung dalam rantai diskursif yang berkesinamb
 
 1. **Legitimasi:** Menjadikan tindakan korektif dan represif negara tampak legal, terukur, dan mutlak diperlukan.
 2. **Marginalisasi:** Pihak yang tidak menguasai bahasa birokrasi hukum (seperti masyarakat kurang mampu atau berpendidikan rendah) berada pada posisi diskursif yang rentan.
-3. **Inersia Institusional:** Sifat bahasa hukum yang berbasis preseden menjadikan narasi baru dan pembaharuan sosial sulit menembus benteng institusional.
+3. **Inersia Institusional:** Sifat bahasa hukum menjadikan narasi baru dan pembaruan sosial sulit menembus benteng institusional.
 
 ### Refleksi Wacana Kriminal
 
@@ -81,9 +81,9 @@ Dalam kriminologi, bahasa diposisikan sebagai manifestasi perilaku individu. Ter
 
 #### 1. Idiolek dan Latar Belakang Penutur
 
-Sama halnya dengan karakter fisik sidik jari atau DNA, setiap individu memiliki **idiolek**, yaitu karakter dan gaya bahasa khas yang dipengaruhi latar belakang pendidikan, dialek regional, usia, serta profesi.
+Setiap individu memiliki **idiolek**, yaitu karakter dan gaya bahasa khas yang dipengaruhi latar belakang pendidikan, dialek regional, usia, serta profesi.
 
-- **Pilihan Leksikal:** Variasi pemakaian kata (misalnya penggunaan istilah "komputer" dibandingkan "peranti").
+- **Pilihan Leksikal:** Variasi pemakaian kata (misalnya penggunaan istilah "perangkat" dibandingkan "peranti").
 - **Sintaksis:** Kecenderungan pola struktur kalimat (dominasi kalimat aktif versus pasif).
 - **Ortografi:** Kebiasaan penggunaan tanda baca, tata tulis, dan gaya pemendekan kata.
 
@@ -105,11 +105,11 @@ Dalam praktik investigasi kriminologi, ahli linguistik forensik menganalisis ber
    Ketika pelaku kejahatan siber mencoba meniru idiolek orang lain untuk menjebak korban, elemen bahasa bawah sadar seperti pola penempatan koma, frekuensi penggunaan kata hubung tertentu, dan kecenderungan sintaksis tetap sulit dipalsukan secara konsisten dalam jangka panjang.
 
 2. **Evolusi Komunikasi Digital:**  
-   Di era media sosial dan pesan instan, karakter teks yang pendek dan penggunaan tanda baca serta simbol khusus dapat menyulitkan analisis statistik sintaksis. Namun, kebiasaan unik dalam memilih variasi kata, typo yang berulang, atau pola struktural tertentu justru memberikan data spesifik bagi analisis identifikasi pelaku.
+   Di era media sosial dan pesan instan, karakter teks yang pendek dan penggunaan tanda baca serta simbol khusus dapat menyulitkan analisis statistik sintaksis. Namun, kebiasaan unik dalam memilih variasi kata, salah ketik yang berulang, atau pola struktural tertentu justru memberikan data spesifik bagi analisis identifikasi pelaku.
 
 3. **Batas Kebahasaan antara Kritik dan Pencemaran Nama Baik:**  
    Dalam analisis hukum diskursif, perbedaan antara opini/kritik dan tindak pidana pencemaran nama baik terletak pada klaim faktual yang dapat diuji kebenarannya:
-   > **Pernyataan A (Evaluasi/Opini):** *"Layanan di toko ini sangat lambat dan tidak profesional."* (Merupakan penilaian subyektif atas kualitas layanan).  
+   > **Pernyataan A (Evaluasi/Opini):** *"Layanan di toko ini sangat lambat dan tidak profesional."* (Merupakan penilaian subjektif atas kualitas layanan).  
    > **Pernyataan B (Tuduhan Faktual/Pencemaran):** *"Pemilik toko ini adalah seorang penipu yang sengaja mencuri uang pelanggan."* (Mengandung tuduhan spesifik tentang tindak kejahatan pidana yang memerlukan pembuktian hukum).
 
 4. **Korelasinya dengan Profiling Kriminal (*Criminal Profiling*):**  
@@ -117,6 +117,6 @@ Dalam praktik investigasi kriminologi, ahli linguistik forensik menganalisis ber
 
 ### Inti Pembahasan Wacana Institusional
 
-Wacana institusional dan linguistik forensik dalam kriminologi membuktikan bahwa bahasa bukan sekadar sarana penyampaian pesan. Bahasa adalah tempat kekuasaan diperebutkan, alat bukti ilmiah, sekaligus cermin dari relasi otoritas negara terhadap masyarakat. Melalui Analisis Wacana Kritis, ketidakadilan yang terselubung di balik bahasa formal birokrasi dapat diurai dan dikritisasi secara objektif.
+Wacana institusional dan linguistik forensik dalam kriminologi membuktikan bahwa bahasa bukan sekadar sarana penyampaian pesan. Bahasa adalah tempat kekuasaan diperebutkan, alat bukti ilmiah, sekaligus cermin dari relasi otoritas negara terhadap masyarakat. Melalui Analisis Wacana Kritis, ketidakadilan yang terselubung di balik bahasa formal birokrasi dapat diurai dan dikritik secara objektif.
 
 > **Insight:** "Kekuasaan yang paling efektif adalah kekuasaan yang membuat masyarakat tidak sadar bahwa mereka sedang dikendalikan, semata-mata karena bahasa yang digunakan telah dianggap wajar dan memang sudah seharusnya demikian."

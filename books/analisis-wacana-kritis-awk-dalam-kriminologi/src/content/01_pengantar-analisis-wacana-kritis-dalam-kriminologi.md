@@ -19,12 +19,12 @@ Dalam lanskap kriminologi, AWK tidak sekadar menganalisis *apa* yang diujarkan, 
 
 ## Akar Sejarah dan Perkembangan AWK
 
-AWK tidak muncul dalam ruang hampa epistemologis, melainkan hasil pergeseran pemikiran kritis abad ke-20 yang menggugat klaim objektivitas absolut dalam ilmu-ilmu sosial.
+AWK tidak muncul dalam ruang hampa epistemologis, melainkan merupakan hasil pergeseran pemikiran kritis abad ke-20 yang menggugat klaim objektivitas absolut dalam ilmu-ilmu sosial.
 
 | Periode & Epistemologi | Tokoh / Mazhab Utama | Kontribusi terhadap Analisis Wacana |
 | :--- | :--- | :--- |
-| **1920-an: Teori Kritis** | Mazhab Frankfurt (Horkheimer, Adorno) | Menegaskan bahwa teori sosial harus membongkar struktur ideologi yang menyembunyikan ketimpangan dan dominasi kelas. |
-| **1960–1970-an: Power/Knowledge** | Michel Foucault | Membuktikan bahwa pengetahuan ($\text{knowledge}$) dan kekuasaan ($\text{power}$) saling mengonstruksi. Wacana tentang "kejahatan" atau "penyimpangan" berfungsi sebagai mekanisme kontrol sosial. |
+| **1920–1930-an: Teori Kritis** | Mazhab Frankfurt (Horkheimer, Adorno) | Menegaskan bahwa teori sosial harus membongkar struktur ideologi yang menyembunyikan ketimpangan dan dominasi kelas. |
+| **1960–1970-an: Power/Knowledge** | Michel Foucault | Mengemukakan bahwa pengetahuan ($\text{knowledge}$) dan kekuasaan ($\text{power}$) saling mengonstruksi. Wacana tentang "kejahatan" atau "penyimpangan" berfungsi sebagai mekanisme kontrol sosial. |
 | **1970-an: Linguistik Kritis** | Roger Fowler dkk. | Mengidentifikasi fungsi ideologis dari struktur tata bahasa (sintaksis), seperti konstruksi kalimat pasif untuk mengaburkan agen atau pelaku kekerasan. |
 | **1990-an: Konsolidasi AWK** | Norman Fairclough, Teun van Dijk, Ruth Wodak | Memformalkan AWK sebagai metodologi multidimensi untuk mengedepankan keadilan sosial dan membongkar hegemoni teks. |
 
@@ -38,7 +38,7 @@ Jawabannya berakar pada fakta bahwa **kejahatan adalah konstruksi sosial** (*soc
 
 Berikut adalah tiga pilar utama mengapa analisis bahasa penting dalam kriminologi:
 
-### 1. Labeling dan Stigmatisasi
+### 1. Pelabelan dan Stigmatisasi
 
 Bahasa memiliki daya kognitif untuk melekatkan stigma sosial secara permanen pada diri seseorang. Bandingkan dampak psikologis dan sosiologis dari dua bentuk pelabelan berikut:
 
@@ -49,7 +49,7 @@ Pelabelan kedua cenderung menutup kesempatan rehabilitasi, membentuk identitas d
 
 ### 2. Legitimasi Kekuasaan dan Kebijakan Penal
 
-Wacana publik menjadi sarana pemerintah dalam memobilisasi persetujuan rakyat (*manufactured consent*), misalnya saat mengalokasikan anggaran besar untuk institusi pemenjaraan ketimbang sektor pendidikan. 
+Wacana publik menjadi sarana pemerintah dalam memobilisasi persetujuan rakyat (*manufacturing consent*), misalnya saat mengalokasikan anggaran besar untuk institusi pemenjaraan ketimbang sektor pendidikan. 
 
 Melalui wacana seperti *"War on Crime"* (Perang Melawan Kejahatan) atau *"Darurat Narkoba"*, penggunaan metafora militaristik memandu opini publik untuk membenarkan tindakan tegas, pengetatan kontrol, dan intervensi represif oleh negara.
 
@@ -96,7 +96,7 @@ Dalam ranah praktik penegakan hukum dan investigasi kriminal, AWK menjadi instru
 
 1. **Berita Acara Pemeriksaan (BAP):** Mengidentifikasi apakah penyidik menggunakan teknik interogasi berbasis pertanyaan mengarahkan (*leading questions*) yang berpotensi membiaskan kesaksian.
 2. **Pertimbangan Hukum Putusan Hakim:** Memetakan asumsi moral, gender, atau kelas yang tersembunyi di balik pertimbangan hukum sebelum vonis dijatuhkan.
-3. **Draft dan Teks Undang-Undang:** Menganalisis pasal-pasal bermakna ganda (*pasal karet*) yang formulasinya terlalu luas sehingga rentan disalahgunakan untuk melimitasi hak sipil.
+3. **Rancangan dan Teks Undang-Undang:** Menganalisis pasal-pasal bermakna ganda (*pasal karet*) yang formulasinya terlalu luas sehingga rentan disalahgunakan untuk membatasi hak sipil.
 
 ## Rangkuman Bab
 
@@ -108,7 +108,7 @@ Dalam ranah praktik penegakan hukum dan investigasi kriminal, AWK menjadi instru
 > *"Bahasa adalah instrumen yang sangat kuat, sebab tata bahasa mampu membuat struktur penindasan tampak sebagai ketertiban umum."*
 
 > **Latihan Refleksi Pembaca:**
-> Analisis satu artikel berita kriminal di media massa saat ini. Cermati penggunaan kata sifat (*adjektiva*) dan kata kerja (*verba*) yang melekat pada pihak pelaku maupun korban. Amatilah apakah pemilihan kata tersebut menggiring pemelajar untuk menghakimi salah satu pihak sebelum terdapat putusan hukum yang berkekuatan tetap.
+> Analisis satu artikel berita kriminal di media massa saat ini. Cermati penggunaan kata sifat (*adjektiva*) dan kata kerja (*verba*) yang melekat pada pihak pelaku maupun korban. Amatilah apakah pemilihan kata tersebut menggiring pembaca untuk menghakimi salah satu pihak sebelum terdapat putusan pengadilan yang berkekuatan hukum tetap.
 
 ## Linguistik Forensik
 
@@ -118,9 +118,9 @@ Dalam sains kriminologi, perilaku berbahasa diposisikan sebagai manifestasi peri
 
 ### 1. Idiolek
 
-Sebagaimana pola garis jemari atau pola pita DNA, setiap individu mengembangkan **idiolek**, yakni gaya kebahasaan unik yang terbentuk oleh latar belakang pendidikan, dialek regional, kelompok usia, serta preferensi profesi.
+Setiap individu mengembangkan **idiolek**, yakni gaya kebahasaan unik yang terbentuk oleh latar belakang pendidikan, dialek regional, kelompok usia, serta preferensi profesi.
 
-- **Pilihan Leksikal:** Preferensi penggunaan kosakata tertentu (misalnya penulisan kata *"komputer"* versus *"peranti"*).
+- **Pilihan Leksikal:** Preferensi penggunaan kosakata tertentu (misalnya penulisan kata *"perangkat"* versus *"peranti"*).
 - **Sintaksis:** Dominasi pemakaian struktur kalimat pasif atau aktif serta kompleksitas klausa.
 - **Ortografi:** Kebiasaan penggunaan tanda baca, pemotongan kata, hingga gaya penyingkatan (seperti *"yg"* versus *"yang"*).
 
@@ -145,4 +145,4 @@ Untuk mendalami aplikasi linguistik forensik dalam pembuktian hukum, berikut ada
    - *Pernyataan A:* "Layanan di toko ini sangat lambat dan tidak profesional." (Evaluasi pengalaman deskriptif).
    - *Pernyataan B:* "Pemilik toko ini adalah seorang penipu yang sengaja mencuri uang pelanggan." (Tuduhan tindak pidana tanpa pembuktian hukum).
    Linguistik forensik membantu membedakan klausa opini subjektif dengan tuduhan kategoris yang berunsur fitnah (*defamation*).
-4. **Profiling Kriminologis Lewat Diksi:** Apabila risalah tebusan menggunakan istilah medis yang spesifik namun dipadukan dengan tata bahasa yang tidak terstruktur, profil kriminologis dapat mengarah pada tersangka dengan latar belakang pendidikan atau profesi tertentu yang sedang mengalami tekanan psikologis.
+4. **Profiling Kriminologis Lewat Diksi:** Apabila surat tebusan menggunakan istilah medis yang spesifik namun dipadukan dengan tata bahasa yang tidak terstruktur, profil kriminologis dapat mengarah pada tersangka dengan latar belakang pendidikan atau profesi tertentu yang sedang mengalami tekanan psikologis.

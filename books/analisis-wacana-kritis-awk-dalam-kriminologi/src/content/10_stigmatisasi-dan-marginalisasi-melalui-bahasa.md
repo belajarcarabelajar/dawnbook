@@ -30,7 +30,7 @@ E \propto L \times P
 $$
 </div>
 
-*Di mana $P$ adalah Power atau Kekuasaan dari institusi yang mengeluarkan label tersebut.*
+*Dengan $P$ sebagai Power atau Kekuasaan dari institusi yang mengeluarkan label tersebut.*
 
 ### 2. "Sang Liyan" (The Other) dalam Diksi Hukum dan Media
 
@@ -41,7 +41,7 @@ Penggunaan istilah tertentu sering kali bertujuan untuk melakukan **dehumanisasi
 - **Eufemisme:** Penghalusan kata untuk melindungi kelompok dominan. Contoh: "Kesalahan prosedur" (sering digunakan untuk tindakan kekerasan oleh aparat).
 - **Disfemisme:** Pengasaran kata untuk menyudutkan kelompok marginal. Contoh: "Sampah masyarakat" atau "Residivis kambuhan".
 
-#### B. Kategorisasi yang Memarjinalkan
+#### B. Kategorisasi yang Memarginalkan
 
 Media sering kali menyematkan identitas kelompok pada tindakan kriminal, padahal identitas tersebut tidak relevan dengan kejahatannya. Hal ini menciptakan **stigma kolektif**.
 
@@ -52,8 +52,8 @@ Media sering kali menyematkan identitas kelompok pada tindakan kriminal, padahal
 
 Metafora dalam wacana kriminologi berbahaya karena ia bekerja di level bawah sadar. Metafora sering kali menggambarkan kelompok marginal sebagai sesuatu yang bukan manusia:
 
-1. **Metafora Penyakit:** "Wabah kejahatan di pemukiman kumuh."
-   - *Dampak:* Menyiratkan bahwa penghuni pemukiman tersebut adalah pembawa virus yang harus dikarantina atau dibasmi.
+1. **Metafora Penyakit:** "Wabah kejahatan di permukiman kumuh."
+   - *Dampak:* Menyiratkan bahwa penghuni permukiman tersebut adalah pembawa virus yang harus dikarantina atau dibasmi.
 2. **Metafora Bencana Alam:** "Arus imigran gelap yang membanjiri kota."
    - *Dampak:* Menggambarkan manusia sebagai objek tak terkendali yang mengancam keselamatan warga "asli".
 3. **Metafora Kebersihan:** "Pembersihan premanisme."
@@ -84,12 +84,12 @@ Dalam sistem peradilan pidana modern, terdapat gerakan untuk menerapkan **Humani
 | Istilah Stigmatif | Istilah Humanis / Inklusif | Alasan |
 | --- | --- | --- |
 | Mantan Napi (*Ex-Con*) | Orang yang pernah bersinggungan dengan hukum | Fokus pada pengalaman, bukan identitas permanen. |
-| Pelaku Kejahatan | Orang yang melakukan tindakan pidana | Membedakan antara *tindakan* dan *pribadi* orang tersebut. |
+| Pelaku Kejahatan | Orang yang melakukan tindak pidana | Membedakan antara *tindakan* dan *pribadi* orang tersebut. |
 | Korban (sebagai label tetap) | Penyintas (*Survivor*) | Memberikan agensi dan kekuatan kepada individu tersebut. |
 
 #### Skenario Praktis
 
-Seorang petugas probasi yang menggunakan bahasa inklusif ("Mari kita susun rencana masa depan bersama") dibandingkan bahasa stigmatif ("Residivis ini tidak boleh membuat masalah lagi") akan meningkatkan peluang keberhasilan reintegrasi sosial sebesar 40% berdasarkan beberapa studi psikologi diskursif.
+Seorang petugas probasi yang menggunakan bahasa inklusif ("Mari kita susun rencana masa depan bersama") dibandingkan bahasa stigmatif ("Residivis ini tidak boleh membuat masalah lagi") dapat meningkatkan peluang keberhasilan reintegrasi sosial.
 
 ### 6. Latihan Refleksi dan Analisis
 
@@ -97,10 +97,10 @@ Untuk memahami dampak stigmatisasi ini, langkah-langkah berikut dapat diterapkan
 
 1. **Cari Berita:** Ambil satu berita kriminal dari media massa atau media online hari ini.
 2. **Identifikasi Kata Sifat:** Tandai semua kata sifat yang digunakan untuk mendeskripsikan pelaku (misalnya: "sadis", "bejat", "pengangguran").
-3. **Uji Empati:** Jika kata-kata tersebut diganti dengan terminologi medis atau sosiologis yang netral, amati bagaimana respons persepsi terhadap pelaku tersebut berubah.
+3. **Uji Empati:** Jika kata-kata tersebut diganti dengan terminologi medis atau sosiologis yang netral, amati bagaimana persepsi terhadap pelaku tersebut berubah.
 4. **Analisis Kritis:** Evaluasi penggunaan kata "oknum" untuk aparat dibandingkan "penjahat" untuk warga sipil guna melihat apakah terdapat standar ganda dalam penegakan hukum dan representasi media.
 
-> **Penting:** Marginalisasi bukan hanya tentang menjauhkan orang secara fisik (penjara), tetapi tentang memutus hubungan mereka dengan sesama melalui kata-kata yang dipilih untuk menyebut mereka.
+> **Penting:** Marginalisasi bukan hanya tentang menjauhkan orang secara fisik (penjara), tetapi juga tentang memutus hubungan mereka dengan sesama melalui kata-kata yang dipilih untuk menyebut mereka.
 
 ---
 
@@ -112,10 +112,10 @@ Dalam kriminologi, bahasa dianggap sebagai manifestasi perilaku. Berikut adalah 
 
 #### 1. Idiolek Khas Tiap Orang
 
-Sama seperti sidik jari atau DNA, setiap orang memiliki **idiolek**. Idiolek adalah gaya bahasa unik yang dimiliki individu, dipengaruhi oleh latar belakang pendidikan, dialek regional, usia, hingga profesi.
+Setiap orang memiliki **idiolek**. Idiolek adalah gaya bahasa unik yang dimiliki individu, dipengaruhi oleh latar belakang pendidikan, dialek regional, usia, hingga profesi.
 
-- **Pilihan Leksikal:** Penggunaan istilah spesifik, misalnya kata "komputer" dibandingkan "peranti".
-- **Sintaksis:** Struktur kalimat yang digunakan, apakah cenderung dominan kalimat pasif atau aktif.
+- **Pilihan Leksikal:** Penggunaan istilah spesifik, misalnya kata "perangkat" dibandingkan "peranti".
+- **Sintaksis:** Struktur kalimat yang digunakan, apakah cenderung pasif atau aktif.
 - **Ortografi:** Kebiasaan penggunaan tanda baca atau singkatan (misalnya "yg" vs "yang", atau penggunaan tanda seru berlebihan).
 
 #### 2. Atribusi Kepenulisan pada Teks Tanpa Identitas Penulis
@@ -135,5 +135,5 @@ Dalam analisis investigasi kriminal, beberapa skenario berikut memperlihatkan re
 
 - **Tantangan Manipulasi Gaya Bahasa:** Ketika seseorang mencoba meniru gaya menulis orang lain dalam kasus kejahatan siber, kebiasaan bawah sadar seperti penempatan koma, pola jeda, atau struktur kata hubung merupakan elemen yang paling sulit dipalsukan secara konsisten.
 - **Evolusi Digital:** Di era media sosial dan pesan instan, teks berukuran pendek serta penggunaan *emotikon* atau simbol visual memberikan tantangan sekaligus petunjuk unik dalam mengidentifikasi pola komunikasi pelaku.
-- **Batas Antara Opini dan Pencemaran Nama Baik:** Analisis struktur bahasa membedakan kritik objektif ("Layanan di toko ini sangat lambat") dari tuduhan yang berpotensi melanggar hukum ("Pemilik toko ini sengaja mencuri uang pelanggan").
+- **Batas Antara Opini dan Pencemaran Nama Baik:** Analisis struktur bahasa membedakan opini atau kritik ("Layanan di toko ini sangat lambat") dari tuduhan yang berpotensi melanggar hukum ("Pemilik toko ini sengaja mencuri uang pelanggan").
 - **Hubungan dengan Profiling Kriminal:** Penggunaan istilah medis atau teknis spesifik di dalam surat tebusan dapat membantu menyusun profil kriminologi mengenai latar belakang pendidikan atau profesi tersangka.

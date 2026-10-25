@@ -53,15 +53,15 @@ Pilihan kata dapat mengubah interpretasi fakta yang sama. Lihat perbedaan beriku
 | **"Menabrak"** | Ada kecepatan dan niat/kelalaian |
 | **"Menghancurkan"** | Kecepatan tinggi, dampak fatal |
 
-Dalam AWK, analisis menyoroti bagaimana jaksa mungkin menggunakan kata **"membantai"** untuk membangkitkan emosi, sementara pengacara bela diri menggunakan kata **"insiden tragis"** untuk menetralisir tanggung jawab moral kliennya.
+Dalam AWK, analisis menyoroti bagaimana jaksa mungkin menggunakan kata **"membantai"** untuk membangkitkan emosi, sementara pengacara pembela menggunakan frasa **"insiden tragis"** untuk menetralkan tanggung jawab moral kliennya.
 
 ---
 
-### 3. De-kredibilitas Saksi melalui Analisis Linguistik
+### 3. Pendiskreditan Saksi melalui Analisis Linguistik
 
 Salah satu dinamika penting adalah bagaimana pengacara mencoba meruntuhkan kesaksian melalui strategi bahasa.
 
-#### Strategi *Silence and Speech*
+#### Strategi Repetisi dan Kontrol Modalitas
 
 Sering kali, saksi dibuat merasa terpojok atau tidak konsisten melalui teknik:
 
@@ -74,7 +74,7 @@ Sering kali, saksi dibuat merasa terpojok atau tidak konsisten melalui teknik:
 
 ### 4. Analisis Kasus Kekerasan Seksual
 
-Mari melihat bagaimana manipulasi bahasa terjadi dalam skenario nyata persidangan kekerasan seksual, di mana sering terjadi **"Victim Blaming"** melalui wacana.
+Mari melihat bagaimana manipulasi bahasa terjadi dalam skenario persidangan kekerasan seksual, di mana sering terjadi **"Victim Blaming"** melalui wacana.
 
 **Skenario:** Seorang saksi korban ditanya oleh pengacara terdakwa:
 
@@ -98,7 +98,7 @@ K = \frac{\sum C}{P}
 $$
 </div>
 
-Di mana jika tekanan diskursif ($P$) melalui pertanyaan retoris dan intimidasi verbal meningkat, maka nilai kredibilitas ($K$) yang dirasakan oleh pendengar (hakim/juri) akan cenderung menurun, terlepas dari fakta objektif yang ada.
+Artinya, jika tekanan diskursif ($P$) melalui pertanyaan retoris dan intimidasi verbal meningkat, maka nilai kredibilitas ($K$) yang dirasakan oleh pendengar (hakim/juri) akan cenderung menurun, terlepas dari fakta objektif yang ada.
 
 ---
 
@@ -110,9 +110,9 @@ Dalam kriminologi, bahasa dianggap sebagai manifestasi perilaku. Berikut adalah 
 
 #### Idiolek sebagai Gaya Bahasa Unik
 
-Sama seperti sidik jari atau DNA, setiap orang memiliki **idiolek**. Idiolek adalah gaya bahasa unik yang dimiliki individu, yang dipengaruhi oleh latar belakang pendidikan, dialek regional, usia, hingga profesi.
+Setiap orang memiliki **idiolek**. Idiolek adalah gaya bahasa unik yang dimiliki individu, yang dipengaruhi oleh latar belakang pendidikan, dialek regional, usia, hingga profesi.
 
-- **Pilihan Leksikal:** Apakah penulis menggunakan kata "komputer" atau "peranti"?
+- **Pilihan Leksikal:** Apakah penulis menggunakan kata "perangkat" atau "peranti"?
 - **Sintaksis:** Bagaimana struktur kalimatnya? Apakah cenderung menggunakan kalimat pasif atau aktif?
 - **Ortografi:** Bagaimana penulis menggunakan tanda baca atau singkatan (misal: "yg" vs "yang", penggunaan tanda seru yang berlebihan).
 

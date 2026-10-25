@@ -23,7 +23,7 @@ Peneliti AWK memiliki komitmen etis untuk **emansipasi**, yaitu upaya membebaska
 | **Definisi Objektivitas** | Bebas dari bias personal | Transparansi posisi & ketepatan bukti tekstual |
 | **Tujuan Akhir** | Deskripsi dan eksplanasi fenomena | Transformasi sosial dan praksis penegakan hukum |
 
-> **Analogi Pendaki dan Peta**
+> **Analogi Hutan dan Jalan Setapak**
 > Bayangkan sebuah hutan (sistem hukum) di mana jalan setapak hanya dibuat untuk kendaraan besar (penguasa), sementara pejalan kaki (kaum marginal) harus bersusah payah di semak belukar. Peneliti tradisional mungkin hanya memetakan jalan tersebut. Peneliti AWK akan bertanya: *"Siapa yang membuat jalan ini? Mengapa pejalan kaki diabaikan? Dan di mana trotoar harus dibangun?"*
 
 #### Komitmen terhadap Subjek Penelitian
@@ -57,7 +57,7 @@ AWK tidak berhenti pada laporan penelitian. Tujuan akhirnya adalah **Praksis**, 
 
 Hasil analisis wacana dapat digunakan untuk mendorong perubahan konkret dalam sistem peradilan pidana melalui:
 
-1. **Litigasi Strategis:** Menggunakan temuan AWK sebagai saksi ahli di persidangan untuk menunjukkan adanya bias bahasa dalam berita acara pemeriksaan (BAP).
+1. **Litigasi Strategis:** Menyampaikan temuan AWK sebagai saksi ahli di persidangan untuk menunjukkan adanya bias bahasa dalam berita acara pemeriksaan (BAP).
 2. **Perubahan Kebijakan (*Policy Brief*):** Menyarankan penghapusan istilah-istilah stigmatis dalam undang-undang yang mengkriminalisasi kelompok rentan.
 3. **Edukasi Publik:** Mengubah cara media massa membingkai isu kejahatan agar tidak menciptakan kepanikan moral.
 
@@ -71,7 +71,7 @@ I = (A \times K) + P
 $$
 </div>
 
-Di mana:
+Keterangan:
 
 * $I$: $\text{Impact}$ (Dampak Reformasi)
 * $A$: $\text{Accuracy}$ (Akurasi Analisis Linguistik)
@@ -170,6 +170,6 @@ Kombinasi penggunaan istilah teknis medis yang presisi dengan tata bahasa yang t
 
 ### Yang Perlu Kamu Ingat tentang Etika AWK
 
-Etika dalam Analisis Wacana Kritis bukan sekadar tentang mengisi formulir persetujuan penelitian (*informed consent*). Etika adalah tentang **keberanian moral** untuk menunjukkan bahasa yang melindungi ketidakadilan. Sebagai peneliti kriminologi, kata-kata adalah alat advokasi untuk mengurangi stigma dan mendorong sistem hukum yang lebih manusiawi dan berkeadilan.
+Etika dalam Analisis Wacana Kritis bukan sekadar tentang mengisi formulir persetujuan penelitian (*informed consent*). Etika adalah tentang **keberanian moral** untuk menunjukkan bahasa yang melindungi ketidakadilan. Bagi peneliti kriminologi, kata-kata adalah alat advokasi untuk mengurangi stigma dan mendorong sistem hukum yang lebih manusiawi dan berkeadilan.
 
 Peneliti perlu terus memeriksa dan berefleksi mengenai siapa yang diuntungkan dari penyusunan narasi serta penulisan hasil penelitian yang dihasilkan.
