@@ -256,3 +256,14 @@ Setiap keputusan di bawah diambil dari pilihan yang direkomendasikan, kecuali di
 - pembelajaran-multidisiplin: nama file bab 02 masih mengandung "interdisiplin" (mengubah URL).
 - siklus-hidrologi: dua kasus "bumi" huruf kecil (permukaan, di bumi) dibiarkan, perlu konfirmasi.
 - Merge, deploy, seed `db/seed.sql`, dan `diagrams:render --prune` belum dilakukan. Menunggu keputusanmu.
+
+## Tahap 6: verifikasi item terbuka
+
+- psikologi-positif, sumber 5:1: abstrak Losada dan Heaphy 2004 dari Crossref (10.1177/0002764203260208) tidak memuat angka 5:1 atau 5,6. Abstrak hanya menyebut rasio positif terhadap negatif yang menentukan dinamika tim. Kutipan "5,614" pada catatan Tahap 5 berasal dari kutipan sekunder dan tidak bisa diverifikasi, jadi tidak dipakai. Brown, Sokal, dan Friedman 2013 (abstrak APA) mengkritik ambang 2,9013 dari Fredrickson dan Losada 2005, bukan angka 5:1. Kalimat di bab 12 diubah: angka 5:1 dihapus, klaim dikaitkan dengan Losada dan Heaphy 2004 (yang abstraknya memang membahas rasio itu) dan kritik dengan Brown et al. 2013.
+- siklus-hidrologi, makna "bumi": huruf kecil dipertahankan untuk tanah atau permukaan tanah (bab 04 "membasahi bumi", bab 10 "jatuh ke permukaan bumi", bab 11 "dekat permukaan bumi"). Dua kasus planet diubah ke "Bumi": bab 03 "Permukaan Bumi dipanaskan" dan bab 08 "di Bumi". Diagram bab 10 tidak diubah karena tanah.
+- pembelajaran-multidisiplin, nama file bab 02: dampak mengganti nama file (`02_membedakan-multidisiplin-interdisiplin-dan-transdisiplin.md`) ke bentuk "interdisipliner":
+  - URL bab berubah. Tidak ada berkas `_redirects` di repo, jadi URL lama menjadi 404. Tautan yang sudah beredar dan tautan di Telegram ikut putus.
+  - Progres pembaca untuk bab itu hilang karena `completed_paths` menyimpan jalur. `db/seed.sql` (baris 24688) harus diregenerasi.
+  - Data indeks GSC (`docs/*.json`) masih mencatat URL lama.
+  - Nama file tidak dipakai di isi bab, jadi kebenaran teks tidak terpengaruh.
+  - Pilihan: (a) biarkan nama file dengan "interdisiplin" dan tulis catatan di ledger, atau (b) ganti nama dan tambahkan `_redirects` dulu. Belum diputuskan.
