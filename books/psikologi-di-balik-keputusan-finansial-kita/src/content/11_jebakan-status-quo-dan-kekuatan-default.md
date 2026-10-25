@@ -12,7 +12,7 @@ Kenapa begitu? Bias status quo dirawat oleh beberapa rasa sekaligus. Ada rasa ta
 
 ### Pendaftaran otomatis rekening 401(k)
 
-Kekuatan status quo ini punya konsekuensi yang jauh lebih besar daripada rekening bank yang malas dipindah, karena orang yang merancang sistem tahu tentang kekuatan itu. Brigitte Madrian dan Dennis Shea (2001) menguji hal ini pada satu perusahaan besar yang mengubah aturan 401(k), rekening pensiun di Amerika, dari sistem di mana karyawan harus mendaftar sendiri menjadi sistem di mana semua karyawan baru otomatis didaftarkan dan harus keluar sendiri kalau tidak mau.
+Kekuatan status quo ini punya konsekuensi yang jauh lebih besar daripada rekening bank yang malas dipindah, karena orang yang merancang sistem tahu tentang kekuatan itu. Brigitte Madrian dan Dennis Shea (2001) menguji hal ini pada satu perusahaan besar yang mengubah aturan 401(k), rekening pensiun di Amerika, dari sistem tempat karyawan harus mendaftar sendiri menjadi sistem tempat semua karyawan baru otomatis didaftarkan dan harus keluar sendiri kalau tidak mau.
 
 Di bawah sistem pendaftaran otomatis, sekitar 86 persen karyawan baru berpartisipasi, dibanding sekitar 49 persen pada kohort lama dengan masa kerja serupa. Satu perubahan arah pintu, naik hampir dua kali lipat. Efek default tidak berhenti di situ: mayoritas karyawan yang didaftarkan otomatis juga tidak pernah mengubah tingkat kontribusi bawaan maupun alokasi investasi bawaan, dan 61 persen dari mereka tidak melakukan perubahan apa pun. Default bukan cuma menentukan siapa yang ikut; ia menentukan isi pilihan mereka bertahun-tahun kemudian. Karyawan itu tidak memilih rencana mereka; mereka mewarisinya dari pintu masuk.
 
