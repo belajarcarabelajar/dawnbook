@@ -77,7 +77,7 @@ Sebagai calon pendidik atau praktisi pendidikan, kamu dapat menerapkan beberapa 
 3. **Lakukan *Probing* (Galian Mendalam):** Daripada mengganti topik, galilah pemikiran siswa lebih jauh dengan pertanyaan lanjutan seperti, "Mengapa kamu berpikir demikian?" atau "Bagaimana kalau jaraknya terlalu dekat?"
 4. **Libatkan Siswa Lain:** Lemparkan jawaban seorang siswa kepada teman-temannya. Misalnya, "Teman-teman, Budi bilang jaraknya setengah meter. Ada yang punya pendapat lain?"
 
-Dengan mengarahkan kembali fokus wacana pada apresiasi dan elaborasi respons siswa, kamu dapat membangun suasana kelas sekolah dasar yang lebih interaktif, di mana setiap anak merasa didengar dan dihargai gagasannya.
+Dengan mengarahkan kembali fokus wacana pada apresiasi dan elaborasi respons siswa, kamu dapat membangun suasana kelas sekolah dasar yang lebih interaktif, sehingga setiap anak merasa didengar dan dihargai gagasannya.
 
 ---
 

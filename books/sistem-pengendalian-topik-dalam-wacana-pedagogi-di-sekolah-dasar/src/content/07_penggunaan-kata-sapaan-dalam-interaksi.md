@@ -78,7 +78,7 @@ Dalam tabel di atas, guru memanfaatkan kata sapaan *"Doni"* pada pertukaran 03 u
 
 ### Resiprositas Sapaan dan Inisiatif Siswa
 
-Secara umum, susunan sapaan di kelas SD bersifat asimetris. Guru bebas menyapa siswa dengan nama panggilan atau kata ganti *kamu*, sedangkan siswa diwajibkan menggunakan sapaan kehormatan seperti *Pak* atau *Bu*. Ketidakseimbangan ini wajar dalam wacana formal sekolah, namun siswa yang berani tetap dapat memanfaatkan kata sapaan untuk mengambil inisiatif pembukaan topik.
+Secara umum, susunan sapaan di kelas SD bersifat asimetris. Guru bebas menyapa siswa dengan nama panggilan atau kata ganti *kamu*, sedangkan siswa diwajibkan menggunakan sapaan kehormatan seperti *Pak* atau *Bu*. Ketidakseimbangan ini wajar dalam wacana formal sekolah, tetapi siswa yang berani tetap dapat memanfaatkan kata sapaan untuk mengambil inisiatif pembukaan topik.
 
 Sebagai ilustrasi, bayangkan seorang siswa mengangkat tangan dan berkata:
 

@@ -63,7 +63,7 @@ Dalam interaksi ini, pengulangan kata *"Kambing"* oleh guru memastikan seluruh k
 >
 > 1. **Variasikan Bentuk Penguatan:** Kombinasikan pujian verbal dengan penguatan nonverbal (seperti senyuman atau anggukan) untuk menciptakan suasana kelas yang hangat.
 > 2. **Berikan Umpan Balik Spesifik:** Jangan hanya mengucapkan *"Bagus"*, tetapi jelaskan aspek mana dari jawaban siswa yang sudah tepat.
-> 3. **Gunakan Repetisi Secara Efektif:** Ulangi jawaban siswa untuk menegaskan konsep kunci, namun berikan pula kesempatan bagi siswa lain untuk menanggapi jawaban temannya agar interaksi tidak selalu berpusat pada guru.
+> 3. **Gunakan Repetisi Secara Efektif:** Ulangi jawaban siswa untuk menegaskan konsep kunci, tetapi berikan pula kesempatan bagi siswa lain untuk menanggapi jawaban temannya agar interaksi tidak selalu berpusat pada guru.
 
 ---
 
