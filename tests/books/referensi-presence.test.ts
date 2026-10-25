@@ -46,7 +46,11 @@ function citationsWithoutLink(): string[] {
     readFileSync(file, "utf8")
       .split("\n")
       .forEach((line, i) => {
-        if (/^\s*([-*]|\d+\.)\s+\S/.test(line) && /\((\d{4}|n\.d\.|t\.t\.)[a-z]?[,)]/.test(line) && !/https?:\/\//.test(line)) {
+        if (/https?:\/\//.test(line) || /^\s*[#>|]/.test(line)) return;
+        const listCitation = /^\s*([-*]|\d+\.)\s+\S/.test(line) && /\((\d{4}|n\.d\.|t\.t\.)[a-z]?[,)]/.test(line);
+        // A paragraph-style entry: an APA reference line, "Author. (Year)." near its start.
+        const paragraphCitation = /^\S.{0,200}?\((\d{4}|n\.d\.|t\.t\.)[a-z]?(, [^)]*)?\)\./.test(line);
+        if (listCitation || paragraphCitation) {
           out.push(`${slug}/${last}:${i + 1}`);
         }
       });
