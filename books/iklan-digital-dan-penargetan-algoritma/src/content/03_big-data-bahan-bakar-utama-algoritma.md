@@ -49,7 +49,7 @@ Ini adalah data yang paling prediktif. Perilaku masa lalu adalah indikator terba
   - **Riwayat Penjelajahan:** Situs apa yang kamu kunjungi sebelum ke sini?
   - **Search Intent:** Apa yang kamu ketik di kolom pencarian?
   - **Interaksi:** Berapa lama kamu berhenti untuk menonton sebuah video (*dwell time*)?
-  - **Riwayat Pembelian:** Apa yang terakhir kali kamu masukkan ke keranjang belanja tapi tidak jadi dibeli?
+  - **Riwayat Belanja:** Apa yang terakhir kali kamu masukkan ke keranjang belanja tapi tidak jadi dibeli?
 
 ### 3. Klasifikasi Data Berdasarkan Sumbernya
 
@@ -59,7 +59,7 @@ Tidak semua data didapatkan dengan cara yang sama. Industri membaginya menjadi e
 | --- | --- | --- |
 | **Zero-party Data** | Data yang diberikan pengguna secara sadar dan sukarela. | Mengisi preferensi makanan saat mendaftar aplikasi. |
 | **First-party Data** | Data yang dikumpulkan langsung oleh perusahaan dari interaksi di platform mereka sendiri. | Riwayat belanja kamu di aplikasi e-commerce favorit. |
-| **Second-party Data** | First-party data milik perusahaan lain yang dibagikan atau dijual kepada kamu. | Maskapai penerbangan berbagi data dengan penyedia asuransi perjalanan. |
+| **Second-party Data** | First-party data milik perusahaan lain yang dibagikan atau dijual kepada perusahaan mitra. | Maskapai penerbangan berbagi data dengan penyedia asuransi perjalanan. |
 | **Third-party Data** | Data yang dikumpulkan oleh agregator dari berbagai sumber di seluruh internet. | Data dari broker data yang melacak aktivitas kamu di ribuan situs web. |
 
 ### 4. Bagaimana Algoritma Melihat Kamu?
@@ -89,7 +89,7 @@ $$
 
 Pernahkah kamu membicarakan suatu produk dengan teman, lalu tiba-tiba iklan produk tersebut muncul di media sosial kamu? Meskipun sering dianggap "mendengarkan pembicaraan", kenyataannya algoritma sering kali hanya mengolah **Big Data**:
 
-- **Skenario:** Budi dan Andi adalah teman dekat (data grafik sosial).
+- **Skenario:** Budi dan Andi adalah teman dekat (data graf sosial).
 - **Aksi:** Andi baru saja membeli jam tangan merek X (data perilaku).
 - **Reaksi Algoritma:** Algoritma tahu Budi memiliki minat yang sama dengan Andi dan mereka sering berada di lokasi yang sama (data geografis).
 - **Hasil:** Algoritma menyimpulkan bahwa Budi kemungkinan besar juga tertarik pada jam tangan merek X, lalu menampilkan iklannya di ponsel Budi.
@@ -97,7 +97,7 @@ Pernahkah kamu membicarakan suatu produk dengan teman, lalu tiba-tiba iklan prod
 ### 6. Rangkuman Pembelajaran
 
 - **Big Data** adalah fondasi yang memungkinkan iklan tidak lagi bersifat massal, melainkan personal.
-- Data dikumpulkan dari berbagai aspek: **siapa kita** (demografis), **di mana kita** (geografis), **apa yang kita rasakan** (minat), dan **apa yang kita lakukan** (perilaku).
+- Data dikumpulkan dari berbagai aspek: **siapa kita** (demografis), **di mana kita** (geografis), **apa yang kita sukai** (minat), dan **apa yang kita lakukan** (perilaku).
 - Kombinasi dari berbagai sumber data (Zero, First, Second, Third party) menciptakan profil digital yang sangat akurat.
 
 **Penting:** Meskipun Big Data memberikan kenyamanan berupa iklan yang relevan, pengumpulannya memicu perdebatan besar mengenai privasi. Hal ini akan kita bahas lebih mendalam pada bagian **Etika Periklanan dan Privasi Data**.

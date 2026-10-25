@@ -19,7 +19,7 @@ Bayangkan kamu masuk ke sebuah restoran.
 
 ## 2. GDPR Uni Eropa
 
-**General Data Protection Regulation (GDPR)** adalah peraturan privasi paling ketat di dunia yang diterapkan oleh Uni Eropa sejak Mei 2018. Meskipun ini aturan Eropa, dampaknya bersifat global karena berlaku bagi perusahaan mana pun yang melayani warga Uni Eropa.
+**General Data Protection Regulation (GDPR)** adalah peraturan privasi paling ketat di dunia yang diterapkan oleh Uni Eropa sejak Mei 2018. Meskipun ini aturan Eropa, dampaknya bersifat global karena berlaku bagi perusahaan mana pun yang melayani orang di Uni Eropa.
 
 ### Prinsip Utama GDPR dalam Periklanan
 
@@ -57,7 +57,7 @@ Indonesia telah resmi memiliki **Undang-Undang Nomor 27 Tahun 2022 tentang Pelin
 Regulasi ini mengubah cara kerja *AdTech* (Advertising Technology) secara fundamental:
 
 - **Persetujuan Cookies (Consent Management):** Kamu pasti sering melihat pop-up "Kami menggunakan cookies" saat membuka website. Ini adalah hasil langsung dari regulasi agar pengguna bisa memilih untuk "Opt-in" atau "Opt-out".
-- **Transparansi Algoritma:** Pengguna berhak tahu "Kenapa saya melihat iklan ini?". Platform seperti Facebook kini memiliki fitur *“Why am I seeing this ad?”* untuk mematuhi aturan transparansi.
+- **Transparansi Algoritma:** Pengguna berhak tahu "Kenapa saya melihat iklan ini?". Platform seperti Facebook kini memiliki fitur *“Why am I seeing this ad?”* yang sejalan dengan aturan transparansi.
 - **Pembatasan Profiling:** Penargetan otomatis yang mengevaluasi aspek pribadi (seperti kondisi ekonomi atau kesehatan) untuk tujuan iklan kini diawasi sangat ketat.
 
 ## 5. Kepatuhan UU PDP pada Kampanye TokoCepat
@@ -88,4 +88,4 @@ Mari kita lihat bagaimana sebuah perusahaan *e-commerce* lokal harus bertindak a
 | **Akuntabilitas** | Perusahaan wajib bertanggung jawab jika terjadi kebocoran atau penyalahgunaan data. |
 | **Privacy by Design** | Sistem harus dirancang aman dan privat sejak awal pengembangan, bukan setelah jadi. |
 
-**Kesimpulan:** Regulasi seperti GDPR dan UU PDP bukan bertujuan untuk mematikan industri iklan digital. Sebaliknya, aturan ini bertujuan untuk membangun ekosistem yang lebih sehat dan terpercaya. Di masa depan, pengiklan yang paling sukses adalah mereka yang mampu memberikan nilai kepada konsumen sambil tetap menghormati batas-batas privasi mereka.
+**Kesimpulan:** Regulasi seperti GDPR dan UU PDP tidak bertujuan untuk mematikan industri iklan digital. Sebaliknya, aturan ini bertujuan untuk membangun ekosistem yang lebih sehat dan terpercaya. Di masa depan, pengiklan yang paling sukses adalah mereka yang mampu memberikan nilai kepada konsumen sambil tetap menghormati batas-batas privasi mereka.

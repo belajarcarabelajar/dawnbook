@@ -29,7 +29,7 @@ Berikut adalah daftar referensi akademis, regulasi hukum, standar industri, sert
 ### Standar Industri dan Spesifikasi AdTech
 
 1. **IAB Tech Lab.** (2021). [*OpenRTB API Specification Version 2.5 & 3.0*](https://iabtechlab.com/standards/openrtb/). Interactive Advertising Bureau Technology Laboratory.
-2. **IAB Tech Lab.** (2023). [*Transparency and Consent Framework (TCF) v2.2 Specification*](https://iabtechlab.com/tcf/). Interactive Advertising Bureau Europe.
+2. **IAB Europe.** (2023). [*Transparency and Consent Framework (TCF) v2.2 Specification*](https://iabeurope.eu/transparency-consent-framework/). Interactive Advertising Bureau Europe.
 3. **World Privacy Forum.** (2022). [*Understanding Real-Time Bidding (RTB) and Data Broker Networks*](https://www.worldprivacyforum.org/). Technical Report.
 
 ### Dokumentasi Platform dan Modul Teknis

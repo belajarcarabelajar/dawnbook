@@ -18,7 +18,7 @@ $$
 \vec{U} = [f_1, f_2, f_3, \dots, f_n]
 $$
 
-Di mana $f$ merepresentasikan fitur seperti (usia, lokasi, minat\_otomotif, riwayat\_belanja).
+Di sini, $f$ merepresentasikan fitur seperti (usia, lokasi, minat\_otomotif, riwayat\_belanja).
 
 ### 2. Tiga Pendekatan Algoritma Penargetan
 
@@ -49,7 +49,7 @@ Salah satu ciri teknis algoritma penargetan adalah kecepatannya. Seluruh proses,
 1. **Trigger:** Kamu membuka aplikasi (misal: Instagram).
 2. **Request:** Aplikasi mengirim sinyal ke server iklan: "Pengguna ID\_123 sedang aktif, butuh iklan."
 3. **Scoring:** Algoritma melakukan *scoring* terhadap ribuan iklan yang tersedia berdasarkan kecocokan dengan vektor kamu.
-4. **Selection:** Iklan dengan skor tertinggi (dan bid tertinggi) dipilih.
+4. **Selection:** Iklan dengan skor tertinggi (gabungan minat dan bid) dipilih.
 5. **Rendering:** Iklan muncul di layar kamu.
 
 ### 4. Menghitung Skor Sebuah Iklan
@@ -74,7 +74,7 @@ Dalam hitungan ini, meskipun iklan "Luxury Watch" memiliki bayaran (bid) terting
 
 ### 5. Keranjang Belanja yang Ditinggalkan
 
-**Penargetan Prediktif pada E-commerce** Seorang pengguna memasukkan botol susu bayi ke dalam keranjang belanja tetapi tidak membelinya (*abandoned cart*).
+**Penargetan Prediktif pada E-commerce:** Seorang pengguna memasukkan botol susu bayi ke dalam keranjang belanja tetapi tidak membelinya (*abandoned cart*).
 
 - **Aksi Algoritma:** Algoritma segera memperbarui vektor pengguna dengan tag "Parenting" dan "High Intent".
 - **Prediksi Real-Time:** Dalam hitungan detik, saat pengguna tersebut membuka portal berita, algoritma penargetan bekerja sama dengan jaringan iklan untuk menampilkan iklan diskon popok atau susu formula dari merek kompetitor.

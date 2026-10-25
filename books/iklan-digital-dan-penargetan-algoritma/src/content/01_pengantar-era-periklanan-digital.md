@@ -8,7 +8,7 @@ Secara mendasar, **Iklan Digital** adalah segala bentuk pesan pemasaran yang dis
 
 Berbeda dengan iklan tradisional, iklan digital tidak hanya sekadar "memberi tahu", tetapi juga "mendengarkan". Ia bersifat interaktif dan dua arah.
 
-> "Iklan digital bukan lagi tentang mencari audiens, melainkan tentang ditemukan oleh audiens yang tepat di saat yang paling tepat."
+> "Iklan digital bukan lagi tentang mencari audiens, melainkan tentang ditemukan oleh audiens yang tepat pada saat yang paling tepat."
 
 ### Megafon vs. Asisten Pribadi
 
@@ -32,7 +32,7 @@ Pada 27 Oktober 1994, sejarah berubah. Situs web *HotWired* menampilkan **banner
 
 ### 3\. Iklan di Mesin Pencari (Awal 2000-an)
 
-Google meluncurkan **AdWords** (sekarang Google Ads) pada tahun 2000. Ini memperkenalkan konsep **Contextual Advertising** (Iklan Kontekstual), di mana iklan muncul berdasarkan apa yang sedang dicari oleh pengguna. Jika kamu mencari "hotel di Bali", kamu akan melihat iklan hotel di Bali.
+Google meluncurkan **AdWords** (sekarang Google Ads) pada tahun 2000. Ini mengusung konsep **Contextual Advertising** (Iklan Kontekstual), yaitu iklan yang muncul berdasarkan apa yang sedang dicari oleh pengguna. Jika kamu mencari "hotel di Bali", kamu akan melihat iklan hotel di Bali.
 
 ### 4\. Era Media Sosial (Sekarang)
 
@@ -43,7 +43,7 @@ Keempat era tadi bisa kamu lihat sekaligus dalam lini masa berikut.
 ```mermaid
 timeline
     accTitle: Lini masa dari cetak ke piksel
-    accDescr: Sebelum tahun 1990-an iklan bersifat pasif dan massal di TV, radio, koran, dan majalah. Pada 27 Oktober 1994 HotWired menampilkan banner ad pertama milik AT&T dengan CTR 44%. Pada tahun 2000 Google meluncurkan AdWords yang memperkenalkan iklan kontekstual. Sekarang, di era media sosial, iklan juga berdasarkan siapa kamu, minat, dan perilaku kamu.
+    accDescr: Sebelum tahun 1990-an iklan bersifat pasif dan massal di TV, radio, koran, dan majalah. Pada 27 Oktober 1994 HotWired menampilkan banner ad pertama milik AT&T dengan CTR 44%. Pada tahun 2000 Google meluncurkan AdWords yang mengusung iklan kontekstual. Sekarang, di era media sosial, iklan juga berdasarkan siapa kamu, minat, dan perilaku kamu.
     Sebelum 1990-an : Era pra-digital : Iklan pasif dan massal di TV, radio, koran, majalah
     27 Oktober 1994 : Banner ad pertama milik AT&T tampil di HotWired : CTR mencapai 44%
     2000 : Google meluncurkan AdWords : Iklan kontekstual
@@ -60,7 +60,7 @@ $$
 \text{ROI} = \frac{\text{Laba Bersih dari Iklan}}{\text{Biaya Iklan}} \times 100\text{\%}
 $$
 
-Dalam iklan tradisional, variabel "Laba Bersih dari Iklan" seringkali menjadi tebak-tebakan. Namun dalam iklan digital, setiap sen yang dihabiskan dapat dilacak jejaknya.
+Dalam iklan tradisional, variabel "Laba Bersih dari Iklan" sering kali menjadi tebak-tebakan. Namun, dalam iklan digital, setiap sen yang dihabiskan dapat dilacak jejaknya.
 
 ### Tradisional vs. Digital
 
@@ -82,7 +82,7 @@ Mari kita lihat bagaimana transisi ini membantu sebuah bisnis kecil bernama *Ked
 
 **Skenario B (Digital - Tahun 2024):** Pemilik Kedai Kopi Aroma menggunakan iklan Instagram. Dia mengatur agar iklannya hanya muncul pada:
 
-1. Orang yang berada dalam radius 2 KM dari kedainya.
+1. Orang yang berada dalam radius 2 km dari kedainya.
 2. Orang yang berusia 18-35 tahun.
 3. Orang yang memiliki minat pada "Kopi Spesialti" atau "Work from Cafe".
 

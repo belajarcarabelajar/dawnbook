@@ -12,11 +12,11 @@ Meta membangun kekuatannya melalui **Social Graph**, yaitu pemetaan hubungan ant
 
 #### A. Penargetan Berdasarkan Minat (Interest-based)
 
-Meta tidak hanya tahu apa yang kamu sukai secara eksplisit (tombol *Like*), tetapi juga apa yang kamu sukai secara implisit. Algoritma mereka menganalisis berapa lama kamu berhenti memandang sebuah foto produk atau kategori akun yang sering kamu kunjungi.
+Meta tidak hanya tahu apa yang kamu sukai secara eksplisit (tombol *Like*), tetapi juga apa yang kamu sukai secara implisit. Algoritma mereka menganalisis berapa lama kamu berhenti untuk memandang sebuah foto produk atau kategori akun yang sering kamu kunjungi.
 
 #### B. Custom Audiences (Audiens Kustom)
 
-Ini adalah fitur di mana pengiklan bisa mengunggah data mereka sendiri (seperti daftar email pelanggan) ke Meta. Meta kemudian mencocokkan data tersebut dengan profil pengguna mereka.
+Ini adalah fitur yang memungkinkan pengiklan mengunggah data mereka sendiri (seperti daftar email pelanggan) ke Meta. Meta kemudian mencocokkan data tersebut dengan profil pengguna mereka.
 
 - **Contoh:** Sebuah toko buku lokal bisa mengunggah email pelanggan yang pernah membeli buku sejarah, lalu mengirimkan iklan khusus hanya kepada mereka saat ada peluncuran buku sejarah baru.
 
@@ -28,7 +28,7 @@ Dengan algoritma *machine learning*, Meta dapat mencari pengguna baru yang memil
 
 ### 2. Graf Minat TikTok
 
-Berbeda dengan Meta yang berbasis hubungan sosial, TikTok menggunakan **Graph Minat (Interest Graph)**. TikTok tidak peduli siapa temanmu; ia peduli pada apa yang membuatmu terus menonton (*watch time*).
+Berbeda dengan Meta yang berbasis hubungan sosial, TikTok menggunakan **Graf Minat (Interest Graph)**. TikTok tidak peduli siapa temanmu; ia peduli pada apa yang membuatmu terus menonton (*watch time*).
 
 #### Bagaimana TikTok Melakukan Mikro-Penargetan?
 
@@ -41,7 +41,7 @@ Google memetakan segmen pasar melalui apa yang orang **cari** dan **lakukan**. J
 
 - **Pencarian (Search):** Menggunakan kata kunci *long-tail* (sangat spesifik). Contoh: "sepatu lari untuk kaki datar pria ukuran 42".
 - **Afinitas & In-Market:** Google mengelompokkan pengguna berdasarkan kebiasaan jangka panjang (Afinitas) atau niat membeli yang mendesak (In-Market).
-- **Konteks Video (YouTube):** Penargetan mikro pada saluran YouTube yang sangat spesifik (misal: hanya beriklan di kanal yang membahas restorasi jam tangan antik).
+- **Konteks Video (YouTube):** Mikro-penargetan pada kanal YouTube yang sangat spesifik (misal: hanya beriklan di kanal yang membahas restorasi jam tangan antik).
 
 ### Mekanisme Teknis Cosine Similarity
 
@@ -79,13 +79,13 @@ Sebuah perusahaan kecil ingin memasarkan makanan anjing vegan untuk anjing yang 
 2. **Langkah 2 (Google):** Menawar kata kunci spesifik: "makanan anjing vegan untuk radang sendi".
 3. **Langkah 3 (TikTok):** Bekerja sama dengan *micro-influencer* yang kontennya fokus pada perawatan hewan peliharaan lanjut usia.
 
-**Hasilnya:** Daripada membakar uang dengan beriklan ke semua pemilik anjing (yang mayoritas memberikan makanan daging biasa), perusahaan hanya mengeluarkan biaya untuk menjangkau kelompok kecil yang memiliki peluang konversi 80-90%.
+**Hasilnya:** Daripada membakar uang dengan beriklan ke semua pemilik anjing (yang mayoritas memberikan makanan daging biasa), perusahaan hanya mengeluarkan biaya untuk menjangkau kelompok kecil yang memiliki peluang konversi lebih tinggi.
 
 ### Keuntungan dan Tantangan Mikro-Penargetan
 
 **Keuntungan:**
 
-- **Efisiensi Biaya:** Tidak ada anggaran yang terbuang untuk audiens yang tidak relevan.
+- **Efisiensi Biaya:** Anggaran yang terbuang untuk audiens yang tidak relevan dapat diperkecil.
 - **Relevansi Tinggi:** Iklan terasa seperti rekomendasi dari teman, bukan gangguan.
 - **Konversi Lebih Tinggi:** Pesan yang sangat spesifik lebih mudah menggerakkan orang untuk membeli.
 
@@ -93,6 +93,6 @@ Sebuah perusahaan kecil ingin memasarkan makanan anjing vegan untuk anjing yang 
 
 - **Ad Fatigue:** Karena audiensnya kecil, mereka mungkin akan melihat iklan yang sama terlalu sering.
 - **Skalabilitas:** Sulit untuk tumbuh besar jika hanya terpaku pada segmen yang sangat sempit.
-- **Isu Privasi:** Semakin spesifik penargetan, semakin banyak data pribadi yang harus "diintip" oleh algoritma (akan dibahas lebih dalam di bagian Etika & Privasi).
+- **Isu Privasi:** Semakin spesifik penargetan, semakin banyak data pribadi yang harus "diintip" oleh algoritma (akan dibahas lebih dalam di bagian Etika Periklanan dan Privasi Data).
 
 > **Penting:** Mikro-penargetan bukan tentang mencari audiens sebanyak mungkin, melainkan tentang mencari audiens yang paling bernilai bagi bisnismu.

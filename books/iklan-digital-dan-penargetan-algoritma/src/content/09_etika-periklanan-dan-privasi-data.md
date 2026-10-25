@@ -8,7 +8,7 @@ Inilah inti dari perdebatan etika dalam periklanan digital saat ini. Kita berada
 
 ## 1. Kenyamanan vs. Privasi
 
-Dunia periklanan digital modern digerakkan oleh pertukaran nilai. Namun, seringkali pengguna tidak menyadari apa yang sebenarnya mereka "bayar" untuk layanan gratis yang mereka nikmati.
+Dunia periklanan digital modern digerakkan oleh pertukaran nilai. Namun, sering kali pengguna tidak menyadari apa yang sebenarnya mereka "bayar" untuk layanan gratis yang mereka nikmati.
 
 ### Sisi Kenyamanan (Convenience)
 
@@ -20,9 +20,9 @@ Dunia periklanan digital modern digerakkan oleh pertukaran nilai. Namun, seringk
 
 - **Otonomi Individu:** Apakah kita benar-benar memilih, atau kita sedang dimanipulasi oleh iklan yang sangat tertarget?
 - **Keamanan Data:** Risiko kebocoran data sensitif (lokasi, kesehatan, orientasi politik).
-- **Surveillance Capitalism:** Perasaan terus-menerus diawasi yang dapat mengubah perilaku alami manusia.
+- **Dampak Surveillance Capitalism:** Perasaan terus-menerus diawasi yang dapat mengubah perilaku alami manusia.
 
-> **Analogi "Si Pelayan vs. Si Penguntit"** Etika periklanan yang baik adalah seperti **pelayan profesional** di restoran mewah: dia ada saat dibutuhkan, memberikan rekomendasi berdasarkan menu yang kamu lihat, tapi tetap menjaga jarak. Etika yang buruk adalah seperti **penguntit**: dia tahu segala hal tentang kamu tanpa pernah memperkenalkan diri, dan muncul di tempat-tempat yang tidak seharusnya dia berada.
+> **Analogi "Si Pelayan vs. Si Penguntit"** Etika periklanan yang baik adalah seperti **pelayan profesional** di restoran mewah: dia ada saat dibutuhkan, memberikan rekomendasi berdasarkan menu yang kamu lihat, tapi tetap menjaga jarak. Etika yang buruk adalah seperti **penguntit**: dia tahu segala hal tentang kamu tanpa pernah memperkenalkan diri, dan muncul di tempat-tempat yang seharusnya tidak dia datangi.
 
 ## 2. Pentingnya Persetujuan Eksplisit (Explicit Consent)
 
@@ -47,7 +47,7 @@ Untuk menjaga kepercayaan konsumen, pengiklan dan pengembang teknologi harus mem
 
 ## 4. Consent Management Platform (CMP)
 
-Dalam sisi rekayasa perangkat lunak, etika privasi diterapkan melalui sistem yang disebut **Consent Management Platform (CMP)**. Secara sederhana, beginilah cara sebuah situs web seharusnya menangani pelacak iklan berdasarkan pilihan pengguna di banner privasi:
+Dari sisi rekayasa perangkat lunak, etika privasi diterapkan melalui sistem yang disebut **Consent Management Platform (CMP)**. Secara sederhana, beginilah cara sebuah situs web seharusnya menangani pelacak iklan berdasarkan pilihan pengguna di banner privasi:
 
 1. **Periksa dulu pilihan pengguna.** Sebelum memuat pelacak iklan (misalnya Facebook Pixel atau Google Ads), situs memeriksa pilihan yang tersimpan. Pelacak hanya dimuat jika pengguna sudah setuju. Jika pengguna belum setuju atau menolak, situs tetap menampilkan iklan, tetapi iklan yang tidak dipersonalisasi dan tanpa pelacakan.
 2. **Tombol "Setuju" ditekan.** Situs menyimpan persetujuan itu, lalu memuat pelacak iklan.
@@ -63,13 +63,13 @@ Salah satu contoh pelanggaran etika data adalah kasus **Cambridge Analytica**.
 
 ## 6. Nilai vs. Privasi
 
-Secara teoritis, kita bisa melihat hubungan antara personalisasi dan privasi sebagai sebuah fungsi optimasi. Misalkan $U$ adalah kegunaan (utility) bagi pengguna, $P$ adalah tingkat personalisasi, dan $V$ adalah tingkat privasi:
+Secara teoretis, kita bisa melihat hubungan antara personalisasi dan privasi sebagai sebuah fungsi optimasi. Misalkan $U$ adalah kegunaan (utility) bagi pengguna, $P$ adalah tingkat personalisasi, dan $V$ adalah tingkat privasi:
 
 $$
 U = f(P, V)
 $$
 
-Seringkali terdapat *trade-off*: $\uparrow P\implies\downarrow V$
+Sering kali terdapat *trade-off*: $\uparrow P\implies\downarrow V$
 
 Tujuan dari etika periklanan modern adalah mencari titik optimal di mana $P$ cukup tinggi untuk memberikan nilai, namun $V$ tidak turun di bawah ambang batas hak asasi manusia.
 
@@ -78,7 +78,7 @@ Tujuan dari etika periklanan modern adalah mencari titik optimal di mana $P$ cuk
 Etika periklanan bukan hanya tugas regulator atau pemerintah.
 
 - **Bagi Pengembang:** Bangunlah sistem dengan prinsip *Privacy by Design*.
-- **Bagi Pengiklan:** Fokuslah pada membangun kepercayaan jangka panjang, bukan sekadar klik sesaat.
+- **Bagi Pengiklan:** Fokuslah pada upaya membangun kepercayaan jangka panjang, bukan sekadar klik sesaat.
 - **Bagi Pengguna:** Jadilah konsumen yang sadar akan jejak digital kamu.
 
-**Important:** Privasi bukanlah sesuatu yang kita berikan karena kita memiliki sesuatu untuk disembunyikan; privasi adalah sesuatu yang kita miliki untuk melindungi jati diri kita dari manipulasi algoritma yang tidak terlihat.
+**Penting:** Privasi bukanlah sesuatu yang kita butuhkan karena kita memiliki sesuatu untuk disembunyikan; privasi adalah sesuatu yang kita miliki untuk melindungi jati diri kita dari manipulasi algoritma yang tidak terlihat.

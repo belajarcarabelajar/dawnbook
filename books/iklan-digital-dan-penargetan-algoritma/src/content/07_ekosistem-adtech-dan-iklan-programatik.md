@@ -23,7 +23,7 @@ Untuk memahami cara kerja sistem ini, kita perlu mengenal para aktor di balik la
 
 ### Real-Time Bidding (RTB)
 
-**Real-Time Bidding (RTB)** adalah protokol di mana ruang iklan dijual dan dibeli melalui lelang instan. Seluruh proses ini terjadi dalam waktu kurang dari **100 milidetik**, lebih cepat dari satu kedipan mata manusia ($\approx 300-400$ ms).
+**Real-Time Bidding (RTB)** adalah protokol yang memungkinkan ruang iklan dijual dan dibeli melalui lelang instan. Seluruh proses ini terjadi dalam waktu kurang dari **100 milidetik**, lebih cepat daripada satu kedipan mata manusia ($\approx 300-400$ ms).
 
 #### Bagaimana Prosesnya Berlangsung? (Langkah demi Langkah)
 
@@ -62,7 +62,7 @@ sequenceDiagram
 
 ### Logika Matematika di Balik Lelang
 
-Dalam AdTech, sering digunakan sistem **Second-Price Auction** (meskipun sekarang industri mulai beralih ke *First-Price*). Dalam lelang harga kedua, pemenang membayar harga penawar tertinggi kedua ditambah satu sen.
+Dalam AdTech, sering digunakan sistem **Second-Price Auction** (meskipun kini sebagian besar *Ad Exchange* sudah beralih ke *First-Price*). Dalam lelang harga kedua, pemenang membayar harga penawar tertinggi kedua ditambah satu sen.
 
 Misalkan untuk satu slot iklan (CPM, *Cost Per Mille*):
 
@@ -82,7 +82,7 @@ dengan $\epsilon$ adalah unit terkecil mata uang (misalnya USD 0,01).
 
 ### Struktur Bid Request
 
-Pesan yang dikirim dari situs web ke sistem lelang disebut *bid request*. Tabel berikut menguraikan isi sebuah contoh sederhana (semua nilainya contoh rekaan):
+Pesan yang dikirim oleh SSP atau Ad Exchange kepada DSP untuk meminta penawaran disebut *bid request*. Tabel berikut menguraikan isi sebuah contoh sederhana (semua nilainya contoh rekaan):
 
 | Bagian | Isi contoh | Artinya |
 | --- | --- | --- |
@@ -115,7 +115,7 @@ Tidak semua iklan dibeli melalui lelang terbuka (RTB). Ada beberapa metode lain:
 
 **Keuntungan:**
 
-- **Efisiensi:** Tidak ada ruang iklan yang terbuang sia-sia.
+- **Efisiensi:** Ruang iklan yang terbuang sia-sia dapat diperkecil.
 - **Relevansi:** Pengguna melihat iklan yang kemungkinan besar mereka sukai.
 - **Skalabilitas:** Pengiklan bisa menjangkau jutaan orang di ribuan situs web hanya melalui satu pintu (DSP).
 
