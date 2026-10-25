@@ -37,7 +37,7 @@ Dengan demikian, analisis ini dapat membantu memahami novel *9 Summers 10 Autumn
 
 ### Pemetaan Rumusan Masalah
 
-Dalam memecahkan rumusan masalah analisis ini, penulis menyusun matriks operasional yang menghubungkan setiap rumusan masalah dengan unit analisis data. Sebagai contoh, untuk menjawab rumusan masalah ketiga mengenai cerminan kejiwaan Iwan Setyawan, kutipan-kutipan teks yang merekam kecemasan batin tokoh 'Aku' di New York dipetakan secara langsung dan disejajarkan dengan konteks latar belakang autobiografis Iwan Setyawan. Metodologi ini memungkinkan penelusuran hubungan korespondensi antara kondisi mental pengarang saat menulis dengan representasi kejiwaan tokoh fiksi dalam teks.
+Dalam memecahkan rumusan masalah analisis ini, penulis menyusun matriks operasional yang menghubungkan setiap rumusan masalah dengan unit analisis data. Sebagai contoh, untuk menjawab rumusan masalah ketiga mengenai cerminan kejiwaan Iwan Setyawan, kutipan-kutipan teks yang merekam kecemasan batin tokoh 'Aku' di New York dipetakan secara langsung dan disejajarkan dengan konteks latar belakang autobiografis Iwan Setyawan. Metodologi ini memungkinkan penelusuran hubungan korespondensi antara kondisi mental pengarang saat menulis dan representasi kejiwaan tokoh fiksi dalam teks.
 
 ### Memasuki Ranah Struktural
 

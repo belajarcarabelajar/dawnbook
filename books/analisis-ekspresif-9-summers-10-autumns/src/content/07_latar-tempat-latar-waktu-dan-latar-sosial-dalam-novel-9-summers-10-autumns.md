@@ -6,7 +6,7 @@ Bagaimana sebuah ruang geografis membentuk batin manusia? Dalam novel *9 Summers
 
 Latar (*setting*) adalah elemen dasar dalam struktur naratif yang memberikan ruang, waktu, dan suasana bagi berjalannya peristiwa. Menurut teori sastra, latar memiliki fungsi mendasar untuk menciptakan efek realitas (*verisimilitude*) bagi pembaca, seolah-olah mereka ikut mengalami dan hidup di dalam peristiwa tersebut.
 
-Dalam novel otobiografis ini, Iwan Setyawan membangun kontras latar yang tajam antara Kota Batu, Malang (tempat kelahirannya) dengan New York City, Amerika Serikat (tempat ia meniti karier profesional). Berikut adalah analisis detail aspek-aspek latar tersebut:
+Dalam novel otobiografis ini, Iwan Setyawan membangun kontras latar yang tajam antara Kota Batu, Malang (tempat kelahirannya) dan New York City, Amerika Serikat (tempat ia meniti karier profesional). Berikut adalah analisis detail aspek-aspek latar tersebut:
 
 #### 1. Latar Spasial (Tempat)
 Latar tempat dalam novel ini terbagi menjadi dua tempat yang berlawanan:

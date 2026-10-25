@@ -40,7 +40,7 @@ Analisis struktural terhadap tema utama novel ini mengungkapkan bagaimana konsep
 
 ### Menemukan Inti Tema Pendidikan
 
-*Bagaimana cara kamu membedakan antara tema utama sebuah novel dengan sekadar ringkasan alur cerita? Mengapa tema pendidikan begitu dominan dalam novel otobiografis Indonesia?*
+*Bagaimana cara kamu membedakan antara tema utama sebuah novel dan sekadar ringkasan alur cerita? Mengapa tema pendidikan begitu dominan dalam novel otobiografis Indonesia?*
 
 ### Menelusuri Dimensi Waktu
 
