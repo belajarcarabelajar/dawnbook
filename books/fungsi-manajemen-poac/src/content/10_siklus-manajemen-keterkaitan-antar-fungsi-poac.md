@@ -1,4 +1,4 @@
-## Siklus Manajemen dan Keterkaitan Antar Fungsi POAC
+## Siklus Manajemen dan Keterkaitan Antarfungsi POAC
 
 Setelah kita membedah satu per satu fungsi manajemen dari *Planning* hingga *Controlling*, mungkin muncul sebuah pertanyaan di benakmu. *Apakah fungsi-fungsi ini berjalan secara terpisah?* Jawabannya adalah **tidak**.
 
@@ -17,7 +17,7 @@ Manajemen adalah sebuah proses yang bersifat **iteratif** (berulang) dan **inter
 
 > **Insight:** Tanpa *Controlling*, pendaki mungkin berjalan cepat (Actuating) tapi ke arah yang salah. Tanpa *Planning*, tim mungkin punya sumber daya hebat (Organizing) tapi tidak tahu mau ke mana.
 
-## 2. Keterkaitan Antar Fungsi
+## 2. Keterkaitan Antarfungsi
 
 Mari kita lihat bagaimana fungsi-fungsi ini saling "mengunci" satu sama lain:
 
@@ -25,13 +25,13 @@ Mari kita lihat bagaimana fungsi-fungsi ini saling "mengunci" satu sama lain:
 
 Dua fungsi ini sering disebut sebagai "si kembar" dalam manajemen. Hubungan erat keduanya terlihat dari bagaimana target dari *Planning* menjadi acuan utama bagi *Controlling*. Tanpa adanya perencanaan, kamu tidak memiliki standar untuk mengukur keberhasilan. Sebaliknya, tanpa pengawasan, perencanaan matang pun akan sia-sia karena tidak ada cara untuk mengetahui ketercapaian target tersebut.
 
-Secara matematis, efisiensi manajemen ($E$) dapat digambarkan sebagai fungsi dari keselarasan antara target ($T$) dan realisasi ($R$):
+Secara matematis, efektivitas manajemen ($E$) dapat digambarkan sebagai fungsi dari keselarasan antara target ($T$) dan realisasi ($R$):
 
 $$
 E = \frac{R}{T} \times 100 \text{\%}
 $$
 
-Di mana $T$ berasal dari *Planning* dan $R$ didapatkan melalui *Controlling*.
+Dalam hal ini, $T$ berasal dari *Planning* dan $R$ didapatkan melalui *Controlling*.
 
 ### B. Hubungan Organizing dan Actuating
 
@@ -58,7 +58,7 @@ flowchart TD
     D -->|"menyempurnakan rencana"| A
 ```
 
-Lingkaran ini terus berputar selama organisasi masih berdiri. Di setiap putaran, hasil aktual dibandingkan dengan rencana awal. Jika penyimpangannya melewati ambang batas, rencana dievaluasi dan diperbaiki (kembali ke tahap *Planning*); jika tidak, rencana dilanjutkan dan dijalankan dalam skala yang lebih besar.
+Lingkaran ini terus berputar selama organisasi masih berdiri. Di setiap putaran, hasil aktual dibandingkan dengan rencana awal. Jika penyimpangannya melewati ambang batas, rencana dievaluasi dan diperbaiki (kembali ke tahap *Planning*); jika tidak, rencana dilanjutkan.
 
 Sebagai contoh, jika sebuah perusahaan ponsel pintar masih menggunakan rencana tahun 2010 untuk tahun 2024 tanpa memedulikan hasil evaluasi pasar, mereka tidak akan mampu bertahan di tengah persaingan.
 

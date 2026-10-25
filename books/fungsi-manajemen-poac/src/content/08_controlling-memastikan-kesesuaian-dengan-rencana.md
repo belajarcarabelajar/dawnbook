@@ -22,7 +22,7 @@ Standar adalah titik acuan atau tolok ukur yang digunakan untuk mengevaluasi has
 
 Ada dua jenis standar utama:
 
-1. **Standar Tangible (Terukur):** Menggunakan angka atau unit fisik. Sebagai contoh, produksi 500 unit per hari, tingkat cacat produk maksimal 1%, atau target penjualan Rp1 Miliar per bulan.
+1. **Standar Tangible (Terukur):** Menggunakan angka atau unit fisik. Sebagai contoh, produksi 500 unit per hari, tingkat cacat produk maksimal 1%, atau target penjualan Rp1 miliar per bulan.
 2. **Standar Intangible (Sulit Diukur):** Berkaitan dengan aspek kualitatif seperti sikap atau reputasi. Contohnya meliputi tingkat kepuasan pelanggan serta loyalitas karyawan.
 
 Jika $K$ adalah Kinerja dan $S$ adalah Standar, maka kondisi ideal yang diharapkan adalah:
@@ -48,7 +48,7 @@ Mengandalkan laporan tertulis saja sering kali kurang cukup. Tanpa peninjauan la
 
 ### C. Perbandingan Hasil dengan Standar (Comparing Performance to Standards)
 
-Pada tahap ini, manajer membandingkan antara apa yang **seharusnya terjadi** dengan apa yang **benar-benar terjadi**.
+Pada tahap ini, manajer membandingkan apa yang **seharusnya terjadi** dengan apa yang **benar-benar terjadi**.
 
 Di sini kita mengenal istilah **Variansi (Deviasi)**. Variansi adalah perbedaan antara kinerja aktual dan standar.
 
@@ -85,7 +85,7 @@ Untuk memahami *Controlling*, bayangkan sebuah termostat di ruangan ber-AC:
 
 ## 4\. Karakteristik Sistem Pengawasan yang Efektif
 
-Agar pengawasan tidak terasa mengekang namun tetap efektif, sistem tersebut harus memenuhi kriteria berikut:
+Agar pengawasan tidak terasa mengekang, tetapi tetap efektif, sistem tersebut harus memenuhi kriteria berikut:
 
 - **Akurat:** Menjamin data yang diperoleh benar-benar valid serta dapat dipercaya sepenuhnya.
 - **Tepat Waktu:** Informasi penting harus sampai ke tangan manajer sebelum masalah telanjur membesar.

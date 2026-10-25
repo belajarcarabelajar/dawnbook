@@ -25,14 +25,14 @@ Untuk membangun struktur yang kokoh, seorang manajer harus memperhatikan empat e
 Langkah ini dilakukan dengan membagi tugas-tugas dalam organisasi menjadi beberapa pekerjaan yang terpisah.
 
 - **Tujuan:** Meningkatkan produktivitas karena karyawan dapat fokus dan menjadi ahli dalam tugas spesifik.
-- Misalnya, jika kamu diminta merakit sebuah mobil sendirian dibandingkan hanya memasang pintu setiap hari, mana yang akan membuat kamu bekerja lebih cepat dan terampil?
+- Misalnya, jika kamu diminta merakit sebuah mobil sendirian atau hanya memasang pintu setiap hari, mana yang akan membuat kamu bekerja lebih cepat dan terampil?
 
 ### B. Departementalisasi (Departmentalization)
 
 Setelah tugas dibagi-bagi, tugas-tugas yang serupa harus dikelompokkan kembali agar koordinasi menjadi mudah. Dasar pengelompokan ini bisa beragam:
 
 1. **Fungsional**: Dikelompokkan menurut jenis pekerjaan yang dilakukan, seperti departemen Pemasaran, Keuangan, dan SDM.
-2. **Produk**: Membagi divisi berdasarkan jenis produk yang ditawarkan (misalnya, memisahkan divisi Laptop dengan divisi Smartphone).
+2. **Produk**: Membagi divisi berdasarkan jenis produk yang ditawarkan (misalnya, memisahkan divisi Laptop dari divisi Smartphone).
 3. **Geografis**: Pengelompokan area kerja berdasarkan wilayah operasional, contohnya Wilayah Barat dan Wilayah Timur.
 4. **Proses**: Mengikuti tahapan atau alur pembuatan produk, mulai dari pemotongan, perakitan, hingga pengemasan.
 5. **Pelanggan**: Disesuaikan dengan jenis konsumen yang dilayani, seperti pelanggan pemerintah, korporat, atau ritel.
@@ -58,7 +58,7 @@ Dalam praktiknya, organisasi memilih bentuk struktur yang paling sesuai dengan s
 
 | Jenis Struktur | Karakteristik | Kelebihan | Kekurangan |
 | --- | --- | --- | --- |
-| **Fungsional** | Dikelompokkan berdasarkan spesialisasi | Efisiensi tinggi, ahli di bidangnya | Sekat antar departemen (silo) |
+| **Fungsional** | Dikelompokkan berdasarkan spesialisasi | Efisiensi tinggi, ahli di bidangnya | Sekat antardepartemen (silo) |
 | **Divisional** | Unit otonom berdasarkan produk/pasar | Fokus pada hasil, lebih responsif | Duplikasi sumber daya & biaya |
 | **Matriks** | Gabungan fungsional & proyek | Kolaborasi lintas fungsi yang kuat | Memiliki "dua bos", potensi konflik |
 
@@ -79,10 +79,10 @@ Agar aktivitas selaras dengan rencana, manajer harus mengikuti alur sistematis:
 **Solusi Organizing:**
 
 1. **Departementalisasi**: CEO membagi struktur perusahaan ke dalam tiga departemen utama, yaitu *Engineering*, *Product*, dan *Sales*.
-2. **Menata rantai komando**: Menunjuk pemimpin tim (*Head of Department*) pada tiap divisi. Dengan demikian, staf melapor kepada manajer divisi masing-masing, dan manajer divisi yang langsung berkonsultasi kepada CEO.
+2. **Menata rantai komando**: Menunjuk kepala departemen (*Head of Department*) pada tiap departemen. Dengan demikian, staf melapor kepada kepala departemen masing-masing, dan kepala departemen langsung melapor kepada CEO.
 3. **Spesialisasi tugas**: Tim *Engineering* dikelompokkan lebih detail menjadi tim *Frontend* dan *Backend* demi menjaga fokus dan kecepatan penulisan kode.
 
-**Hasilnya:** Komunikasi menjadi lebih teratur, CEO memiliki waktu untuk memikirkan strategi jangka panjang (Planning), dan setiap karyawan memiliki jalur karir serta tanggung jawab yang jelas.
+**Hasilnya:** Komunikasi menjadi lebih teratur, CEO memiliki waktu untuk memikirkan strategi jangka panjang (Planning), dan setiap karyawan memiliki jalur karier serta tanggung jawab yang jelas.
 
 ## Benang Merah
 

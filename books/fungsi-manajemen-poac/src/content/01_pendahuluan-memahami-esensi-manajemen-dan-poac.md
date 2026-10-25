@@ -2,11 +2,11 @@
 
 Perjalananmu memahami dunia manajemen berawal dari dua pertanyaan tentang kegiatan besar yang bisa berjalan rapi dan serempak. Pernahkah kamu membayangkan bagaimana sebuah konser musik besar dengan ribuan penonton bisa berjalan dengan sangat rapi? Atau bagaimana perusahaan teknologi raksasa bisa meluncurkan produk baru di seluruh dunia secara bersamaan?
 
-Semua itu bukan terjadi karena kebetulan. Itu adalah hasil dari sebuah seni dan sains yang disebut **Manajemen**.
+Semua itu tidak terjadi karena kebetulan. Itu adalah hasil dari sebuah seni dan sains yang disebut **Manajemen**.
 
 ## 1. Apa Itu Manajemen?
 
-Secara sederhana, manajemen adalah seni menyelesaikan pekerjaan melalui orang lain. Namun, jika kita melihat lebih dalam, manajemen memiliki definisi yang lebih teknis. George R. Terry dalam *Principles of Management* edisi keenam merumuskan **manajemen** sebagai proses khas yang terdiri dari perencanaan, pengorganisasian, penggerakan, dan pengendalian, yang dijalankan untuk menentukan serta mencapai sasaran yang telah ditetapkan melalui pemanfaatan manusia dan sumber daya lainnya.
+Secara sederhana, manajemen adalah seni menyelesaikan pekerjaan melalui orang lain. Namun, jika kita melihat lebih dalam, manajemen memiliki definisi yang lebih teknis. George R. Terry dalam *Principles of Management* edisi keenam merumuskan **manajemen** sebagai proses khas yang terdiri dari perencanaan, pengorganisasian, penggerakan, dan pengawasan, yang dijalankan untuk menentukan serta mencapai sasaran yang telah ditetapkan melalui pemanfaatan manusia dan sumber daya lainnya.
 
 ### Konduktor Orkes Simfoni
 

@@ -9,7 +9,7 @@
 - [Kepemimpinan dan Motivasi dalam Pelaksanaan](content/07_kepemimpinan-dan-motivasi-dalam-pelaksanaan.md)
 - [Controlling untuk Memastikan Kesesuaian dengan Rencana](content/08_controlling-memastikan-kesesuaian-dengan-rencana.md)
 - [Tindakan Korektif dan Evaluasi Kinerja](content/09_tindakan-korektif-dan-evaluasi-kinerja.md)
-- [Siklus Manajemen dan Keterkaitan Antar Fungsi POAC](content/10_siklus-manajemen-keterkaitan-antar-fungsi-poac.md)
+- [Siklus Manajemen dan Keterkaitan Antarfungsi POAC](content/10_siklus-manajemen-keterkaitan-antar-fungsi-poac.md)
 - [POAC di Era Digital dan Manajemen Modern](content/11_poac-di-era-digital-dan-manajemen-modern.md)
 - [Studi Kasus Penerapan POAC](content/12_studi-kasus-penerapan-poac.md)
 - [Referensi](content/13_referensi.md)

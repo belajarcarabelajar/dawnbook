@@ -11,7 +11,7 @@ Kepemimpinan bertumpu pada pengaruh yang diberikan, bukan pada jabatan yang disa
 Berikut adalah beberapa gaya kepemimpinan yang umum diterapkan dalam organisasi:
 
 ### A. Gaya Otoriter (Autocratic)
-Gaya ini menempatkan manajer sebagai pengambil keputusan tunggal tanpa melibatkan bawahan. Pendekatan ini sangat berguna dalam situasi krisis yang membutuhkan tindakan cepat (misalnya seperti kapten kapal yang harus segera mengambil kendali saat badai besar melanda) atau ketika mengarahkan karyawan baru yang masih membutuhkan bimbingan ketat.
+Gaya ini menempatkan manajer sebagai pengambil keputusan tunggal tanpa melibatkan bawahan. Pendekatan ini sangat berguna dalam situasi krisis yang membutuhkan tindakan cepat (misalnya kapten kapal yang harus segera mengambil kendali saat badai besar melanda) atau ketika mengarahkan karyawan baru yang masih membutuhkan bimbingan ketat.
 
 ### B. Gaya Demokratis (Participative)
 Di sini, pemimpin melibatkan anggota tim dalam proses pengambilan keputusan. Gaya ini mirip dengan pelatih basket yang mendiskusikan taktik bersama para pemain sebelum pertandingan dimulai. Pendekatan demokratis sangat cocok ketika organisasi membutuhkan ide-ide segar, kreativitas, serta komitmen tinggi dari anggota tim yang sudah berpengalaman.
@@ -22,7 +22,7 @@ Melalui gaya ini, manajer memberikan kebebasan penuh kepada anggota tim untuk me
 ### D. Gaya Transformasional
 Pemimpin transformasional menginspirasi tim untuk melampaui target pribadi demi mencapai visi bersama yang lebih besar. Melalui karisma, dorongan intelektual, dan perhatian personal kepada setiap anggota, gaya ini mampu mengubah budaya kerja menjadi jauh lebih positif dalam jangka panjang.
 
-> **Catatan Penting:** Pemimpin yang baik memastikan semua orang di belakangmu memahami arah tujuan dan alasan mereka melangkah ke sana, bukan hanya menonjolkan diri di posisi terdepan.
+> **Catatan Penting:** Pemimpin yang baik memastikan semua orang di belakangnya memahami arah tujuan dan alasan mereka melangkah ke sana, bukan hanya menonjolkan diri di posisi terdepan.
 
 ## 2. Teknik Komunikasi Efektif
 
@@ -33,7 +33,7 @@ Beberapa strategi komunikasi yang dapat diterapkan oleh manajer meliputi:
 - **Mendengarkan Aktif (Active Listening):** Hindari kebiasaan hanya menunggu giliran bicara. Berikan perhatian penuh, tunjukkan sikap terbuka, dan konfirmasikan kembali poin utama dari lawan bicara untuk menyamakan persepsi.
 - **Kejelasan dan Keringkasan (Clarity & Conciseness):** Sampaikan pesan secara lugas tanpa jargon yang berlebihan. Pendekatan sederhana seperti prinsip **KISS** (*Keep It Short and Simple*) akan lebih mudah dipahami.
 - **Umpan Balik Dua Arah (Feedback Loop):** Pastikan komunikasi berjalan dua arah, baik dari atas ke bawah maupun sebaliknya, agar aspirasi karyawan tetap terdengar.
-- **Memahami Komunikasi Non-Verbal:** Sadari bahwa sebagian besar pesan yang diterima manusia tersampaikan lewat ekspresi wajah, nada suara, dan sikap tubuh.
+- **Memahami Komunikasi Nonverbal:** Sadari bahwa sebagian pesan yang diterima manusia tersampaikan lewat ekspresi wajah, nada suara, dan sikap tubuh.
 
 ## 3. Memotivasi Karyawan untuk Produktivitas Tinggi
 
@@ -80,13 +80,13 @@ Berikut adalah langkah pelaksanaan (*actuating*) yang bisa diambil oleh seorang 
 2. **Komunikasi:** Dibanding mengadakan rapat-rapat panjang yang melelahkan, manajer memantau kemajuan pekerjaan menggunakan papan Kanban digital. Dia juga meluangkan waktu untuk berdialog secara personal guna mendengar keluh kesah anggota tim.
 3. **Motivasi:**
    - **Apresiasi:** Manajer memberikan pujian terbuka atas bagian kode yang diselesaikan dengan rapi.
-   - **Insentif:** Manajer menawarkan kompensasi berupa cuti tambahan atau bonus begitu proyek selesai demi menjaga nilai harapan (*valence*) yang tinggi.
+   - **Insentif:** Manajer menawarkan kompensasi berupa cuti tambahan atau bonus begitu proyek selesai demi menjaga nilai imbalan (*valence*) yang tinggi.
    - **Dukungan Fisik:** Manajer menyediakan makanan sehat di area kerja untuk menjaga stamina tim, yang memenuhi aspek kebutuhan dasar (*hygiene factor*).
 
 ## 5. Tips Praktis Meningkatkan Produktivitas Melalui Hubungan Manusiawi
 
 - **Apresiasi secara Terbuka, Koreksi secara Tertutup:** Berikan pujian di depan umum untuk membangun moral, namun lakukan teguran atau masukan kritis di ruang pribadi guna menjaga harga diri karyawan.
-- **Delegasikan Wewenang, Bukan Hanya Tugas:** Berikan kepercayaan penuh kepada anggota tim untuk mengelola sub-proyek tertentu agar menumbuhkan rasa kepemilikan (*sense of ownership*) yang kuat.
+- **Delegasikan Wewenang, Bukan Hanya Tugas:** Berikan kepercayaan penuh kepada anggota tim untuk mengelola subproyek tertentu agar menumbuhkan rasa kepemilikan (*sense of ownership*) yang kuat.
 - **Jadilah Teladan Nyata:** Jangan mengharapkan anggota tim datang tepat waktu jika kamu sendiri sering terlambat.
 
 > **Kesimpulan:** Kepemimpinan dan motivasi dalam tahap *Actuating* berfokus pada aspek kemanusiaan. Ketika karyawan merasa didengar, dihargai, dan memiliki tujuan yang jelas, produktivitas tinggi akan terbentuk secara alami tanpa perlu dipaksakan.

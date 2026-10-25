@@ -10,7 +10,7 @@ Jika manajemen diibaratkan sebagai sebuah bangunan, perencanaan adalah **cetak b
 
 **Perencanaan** adalah proses mendefinisikan tujuan organisasi, menetapkan langkah awal untuk mencapainya, serta menyusun serangkaian rencana menyeluruh untuk menyelaraskan dan mengoordinasikan aktivitas organisasi.
 
-> **Pesan Utama:** Perencanaan menjembatani celah antara "di mana kita berada sekarang" dengan "di mana kita ingin berada di masa depan".
+> **Pesan Utama:** Perencanaan menjembatani celah antara "di mana kita berada sekarang" dan "di mana kita ingin berada di masa depan".
 
 ### 2. Visi dan Misi
 
@@ -30,9 +30,9 @@ Misi adalah alasan mengapa organisasi itu ada. Ia menjelaskan bisnis inti organi
 
 Sebagai gambaran sederhana, jika visi merupakan destinasi liburan impianmu (seperti mencapai puncak Everest), maka misi adalah cara yang kamu tempuh untuk mendakinya (misalnya dengan menggunakan peralatan standar keselamatan dan bantuan pemandu profesional).
 
-### 3. Hierarki Tujuan Jangka Pendek vs. Jangka Panjang
+### 3. Hierarki Tujuan Jangka Panjang, Menengah, dan Pendek
 
-Tujuan (goals) adalah hasil akhir yang ingin dicapai. Dalam perencanaan, kita membaginya berdasarkan dimensi waktu:
+Tujuan (*goals*) adalah hasil akhir yang ingin dicapai. Dalam perencanaan, kita membaginya berdasarkan dimensi waktu:
 
 1. **Tujuan Jangka Panjang (Strategic Goals)**
    Tujuan ini biasanya berorientasi ke masa depan dengan rentang waktu 3 hingga 5 tahun atau lebih. Pihak yang menetapkan adalah manajemen puncak seperti CEO dan direksi. Fokus utamanya meliputi pertumbuhan bisnis, penguasaan pangsa pasar, serta keberlanjutan organisasi secara umum.
@@ -61,7 +61,7 @@ Tidak semua rencana diciptakan sama. Tergantung pada level manajemennya, rencana
 Untuk menyusun rencana yang kokoh, seorang manajer biasanya mengikuti alur logis berikut:
 
 1. **Menganalisis Situasi Saat Ini**
-   Langkah awal dimulai dengan memahami kondisi internal kekuatan dan kelemahan organisasi, serta peluang dan ancaman dari luar (eksternal).
+   Langkah awal dimulai dengan memahami kondisi internal berupa kekuatan dan kelemahan organisasi, serta peluang dan ancaman dari luar (eksternal).
 
 2. **Menetapkan Tujuan Utama**
    Menentukan sasaran akhir yang ingin dicapai berdasarkan visi dan misi yang telah disepakati.
@@ -93,7 +93,7 @@ Mari kita lihat bagaimana Planning bekerja pada sebuah perusahaan startup fiktif
 * **Rencana Operasional Harian:**
   Memastikan baterai setiap pengemudi terisi penuh sebelum turun ke jalan dan menyediakan layanan bantuan pelanggan selama 24 jam.
 
-**Mengapa ini penting?** Tanpa *Planning* di atas, Eco-Ride mungkin hanya akan merekrut driver tanpa memikirkan stasiun pengisian daya baterai. Akibatnya, operasional akan terhenti dan kelangsungan bisnis terancam terhenti secara cepat.
+**Mengapa ini penting?** Tanpa *Planning* di atas, Eco-Ride mungkin hanya akan merekrut pengemudi tanpa memikirkan stasiun penukaran baterai. Akibatnya, operasional akan terhenti dan kelangsungan bisnis cepat terancam.
 
 ### Poin Penting
 

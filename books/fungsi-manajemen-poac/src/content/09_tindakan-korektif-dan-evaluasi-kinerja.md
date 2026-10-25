@@ -16,7 +16,7 @@ $$
 V = A - S
 $$
 
-Di mana $V$ melambangkan varians atau penyimpangan, $A$ merupakan *actual result* (hasil aktual), dan $S$ adalah *standard* (target atau rencana).
+Dalam rumus tersebut, $V$ melambangkan varians atau penyimpangan, $A$ merupakan *actual result* (hasil aktual), dan $S$ adalah *standard* (target atau rencana).
 
 Ada dua jenis varians yang perlu diperhatikan:
 
@@ -36,7 +36,7 @@ Sebelum melakukan perbaikan, penyebab utama masalah harus dipahami dengan jelas.
 1. *Mengapa?* Mesin produksi sering berhenti mendadak.
 2. *Mengapa?* Beberapa suku cadang mengalami aus yang parah.
 3. *Mengapa?* Tidak ada jadwal pemeliharaan berkala untuk suku cadang tersebut.
-4. *Mengapa?* Tim pemeliharaan kekurangan personil untuk melakukan pengawasan rutin.
+4. *Mengapa?* Tim pemeliharaan kekurangan personel untuk melakukan pengawasan rutin.
 5. *Mengapa?* Anggaran pemeliharaan dipangkas pada tahun anggaran sebelumnya. (**Akar Masalah**)
 
 ### B. Memilih Jenis Tindakan Korektif
@@ -69,14 +69,14 @@ Dalam manajemen modern, siklus **PDCA (Plan-Do-Check-Act)** digunakan sebagai pa
 
 ## Lonjakan Pengembalian Barang E-Commerce
 
-**Skenario:** Sebuah perusahaan e-commerce menyadari bahwa tingkat pengembalian barang (*return rate*) meningkat sebesar 15% dalam satu bulan terakhir.
+**Skenario:** Sebuah perusahaan e-commerce menyadari bahwa tingkat pengembalian barang (*return rate*) meningkat hingga 17% dalam satu bulan terakhir.
 
 **Langkah Evaluasi & Koreksi:**
 
-1. **Identifikasi Masalah:** Standar tingkat pengembalian barang ditetapkan di bawah 2%, namun aktualnya mencapai 17%, sehingga terdapat varians negatif sebesar 15%.
+1. **Identifikasi Masalah:** Standar tingkat pengembalian barang ditetapkan di bawah 2%, namun aktualnya mencapai 17%, sehingga terdapat penyimpangan sebesar 15 poin persentase di atas standar.
 2. **Pemeriksaan Lapangan:** Melalui audit internal, ditemukan bahwa banyak produk mengalami kerusakan fisik akibat kualitas kemasan pelindung yang terlalu tipis.
 3. **Penemuan Akar Masalah:** Tim logistik beralih ke pemasok plastik pelindung baru yang lebih murah demi menekan biaya operasional tanpa menyadari penurunan kualitas bahan.
-4. **Tindakan Perbaikan:** Langkah segera yang diambil adalah mengganti bahan pengemas untuk semua pesanan yang diproses hari ini. Sedangkan untuk tindakan jangka panjang, manajemen meninjau ulang kontrak kerja sama dengan pemasok serta menetapkan standar minimum ketebalan bahan pengemas yang tidak bisa ditawar.
+4. **Tindakan Perbaikan:** Langkah segera yang diambil adalah mengganti bahan pengemas untuk semua pesanan yang diproses hari ini. Adapun untuk tindakan jangka panjang, manajemen meninjau ulang kontrak kerja sama dengan pemasok serta menetapkan standar minimum ketebalan bahan pengemas yang tidak bisa ditawar.
 5. **Mekanisme Umpan Balik:** Memasukkan tolok ukur 'Kualitas Pengemasan' ke dalam KPI tim logistik agar kualitas pengiriman selalu terpantau.
 
 ## Batas Toleransi Penyimpangan
@@ -112,4 +112,4 @@ Penyimpangan 6% sudah melewati toleransi 5%, sehingga statusnya masuk tingkat ke
 
 Tindakan korektif dan evaluasi bertujuan untuk membangun ketahanan (*resilience*), bukan untuk menghukum kegagalan. Organisasi yang hebat tidak terhindar dari kesalahan, tetapi mereka mampu belajar dengan cepat dari kesalahan tersebut melalui evaluasi yang jujur serta tindakan korektif yang tepat sasaran.
 
-> **Poin Utama:** Tindakan korektif menjadikan hambatan sebagai bahan perbaikan untuk mencapai efisiensi yang lebih tinggi. Tanpa adanya tindakan koreksi, organisasi rentan mengulangi kesalahan yang sama secara terus-menerus.
+> **Poin Utama:** Tindakan korektif menjadikan hambatan sebagai bahan perbaikan untuk mencapai efisiensi yang lebih tinggi. Tanpa adanya tindakan korektif, organisasi rentan mengulangi kesalahan yang sama secara terus-menerus.

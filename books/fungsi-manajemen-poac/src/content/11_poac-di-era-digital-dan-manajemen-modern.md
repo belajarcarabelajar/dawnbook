@@ -6,11 +6,11 @@ Dahulu, rencana bisnis dibuat untuk jangka panjang (sekitar 5 hingga 10 tahun) d
 
 ## 1. Evolusi POAC dari Statis ke Dinamis
 
-Pada era industri, manajemen POAC diibaratkan seperti membangun gedung: direncanakan dengan sangat matang, memiliki struktur kaku, dan sulit diubah setelah berdiri. Sebaliknya, manajemen di era digital lebih mirip seperti mengemudikan mobil dengan panduan navigasi GPS: tujuannya jelas, tetapi jalurnya bisa berubah kapan saja demi menghindari kemacetan pasar atau merespons pergerakan kompetitor.
+Pada era industri, manajemen POAC diibaratkan seperti membangun gedung: direncanakan dengan sangat matang, memiliki struktur kaku, dan sulit diubah setelah berdiri. Sebaliknya, manajemen di era digital lebih mirip dengan mengemudikan mobil dengan panduan navigasi GPS: tujuannya jelas, tetapi jalurnya bisa berubah kapan saja demi menghindari kemacetan pasar atau merespons pergerakan kompetitor.
 
 ### Adaptasi Tiap Fungsi
 
-- **Planning (Perencanaan):** Alih-alih hanya mengandalkan intuisi atau tren masa lalu, perumusan strategi kini memanfaatkan analisis data besar (*Big Data*) dan prediksi analitik (*predictive analytics*). Rencana dirancang dalam siklus-siklus pendek yang dinamis.
+- **Planning (Perencanaan):** Alih-alih hanya mengandalkan intuisi atau tren masa lalu, perumusan strategi kini memanfaatkan analisis data besar (*Big Data*) dan analitik prediktif (*predictive analytics*). Rencana dirancang dalam siklus-siklus pendek yang dinamis.
 - **Organizing (Pengorganisasian):** Struktur organisasi bergeser dari hierarki vertikal yang kaku menuju struktur yang lebih datar (*flat*) dengan tim lintas fungsi. Model ini memudahkan koordinasi, termasuk dalam mengelola tim jarak jauh (*remote*).
 - **Actuating (Pengarahan):** Kepemimpinan kini berfokus pada empati, kolaborasi digital, dan menumbuhkan budaya inovasi, meninggalkan gaya lama yang kaku dan serba mendikte. Alat komunikasi seperti Slack, Zoom, atau Discord kini menjadi ruang kerja baru.
 - **Controlling (Pengawasan):** Berubah dari pengawasan manual yang lambat menjadi pemantauan langsung (*real-time monitoring*). Manajer tidak lagi menunggu laporan bulanan, melainkan memantau *dashboard* data yang diperbarui setiap saat.
@@ -85,7 +85,7 @@ Mengadaptasi POAC ke era digital bukan berarti membuang teori manajemen klasik. 
 
 **Kunci keberhasilan POAC Modern:**
 
-1. **Kecepatan (Agility):** Berani mengubah rencana saat data menunjukkan arah yang berbeda.
+1. **Kelincahan (Agility):** Berani mengubah rencana saat data menunjukkan arah yang berbeda.
 2. **Literasi Data:** Mengambil keputusan berdasarkan angka dan fakta, bukan hanya mengandalkan perasaan.
 3. **Konektivitas:** Memastikan seluruh anggota organisasi terhubung secara digital untuk meminimalkan hambatan birokrasi.
 
