@@ -18,7 +18,7 @@ Sebagai gambaran, sebagian besar penelitian menunjukkan adanya korelasi positif 
 
 Psikolog seperti Charles Spearman berpendapat bahwa ada satu faktor kecerdasan umum yang disebut **faktor $g$**. Data statistik menunjukkan bahwa orang yang mahir dalam matematika cenderung memiliki kemampuan verbal yang baik juga.
 
-Rumus sederhana yang sering diperdebatkan dalam psikometri adalah $I = g + s$, di mana $I$ adalah performa pada tugas tertentu, $g$ adalah kecerdasan umum, dan $s$ adalah kemampuan spesifik. Kritikus berpendapat bahwa apa yang disebut Gardner sebagai kecerdasan sebenarnya hanyalah faktor $s$ atau sekadar bakat (*talents*).
+Rumus sederhana yang sering diperdebatkan dalam psikometri adalah $I = g + s$, dengan $I$ adalah performa pada tugas tertentu, $g$ adalah kecerdasan umum, dan $s$ adalah kemampuan spesifik. Kritikus berpendapat bahwa apa yang disebut Gardner sebagai kecerdasan sebenarnya hanyalah faktor $s$ atau sekadar bakat (*talents*).
 
 ### C. Overlap dengan Kepribadian
 

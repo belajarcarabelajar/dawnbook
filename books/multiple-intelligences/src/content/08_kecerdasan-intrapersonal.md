@@ -63,7 +63,7 @@ Kecerdasan ini berperan dalam pencapaian di banyak bidang, dan keberadaannya ama
 ### Menghadapi Kegagalan Proyek
 
 - **Tanpa Kecerdasan Intrapersonal:** Seseorang mungkin langsung menyalahkan rekan kerja (eksternalisasi) atau merasa dirinya sama sekali tidak berguna (generalisasi berlebihan).
-- **Dengan Kecerdasan Intrapersonal:** Ia akan melakukan audit batin. Ia menyadari, "Saya merasa malu karena ego saya terluka. Kegagalan ini terjadi karena saya kurang teliti di bagian teknis, namun saya tahu saya kuat di bagian konsep. Saya akan memperbaiki cara kerja saya untuk proyek berikutnya."
+- **Dengan Kecerdasan Intrapersonal:** Ia akan melakukan audit batin. Ia menyadari, "Saya merasa malu karena ego saya terluka. Kegagalan ini terjadi karena saya kurang teliti di bagian teknis, tetapi saya tahu saya kuat di bagian konsep. Saya akan memperbaiki cara kerja saya untuk proyek berikutnya."
 
 ### Karier yang Cocok
 

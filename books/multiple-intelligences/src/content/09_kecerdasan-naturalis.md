@@ -36,7 +36,7 @@ Jika seorang pemburu-pengumpul tidak bisa membedakan antara jejak kaki macan tut
 
 ## Spektrum Kecerdasan Naturalis dari Pemula ke Ahli
 
-Kecerdasan ini berkembang seiring bertambahnya kepekaan dan pengalaman. Pada tahap awal, seseorang mulai mengenali perbedaan antarspesies yang umum, seperti membedakan kucing dari anjing atau mawar dari melati. Seiring berjalannya waktu, pemahamannya naik ke tingkat menengah, di mana ia mampu mencerna siklus hidup organisme dan menyesuaikan tindakannya, seperti petani yang tahu persis kapan mulai menanam padi dengan melihat rasi bintang atau pola cuaca.
+Kecerdasan ini berkembang seiring bertambahnya kepekaan dan pengalaman. Pada tahap awal, seseorang mulai mengenali perbedaan antarspesies yang umum, seperti membedakan kucing dari anjing atau mawar dari melati. Seiring berjalannya waktu, pemahamannya naik ke tingkat menengah, ketika ia mampu mencerna siklus hidup organisme dan menyesuaikan tindakannya, seperti petani yang tahu persis kapan mulai menanam padi dengan melihat rasi bintang atau pola cuaca.
 
 Pada tingkat yang lebih tinggi, seorang naturalis bisa melakukan analisis ekosistem yang berlapis. Mereka mampu memetakan interaksi rumit, misalnya bagaimana aktivitas mikroorganisme dalam tanah memengaruhi ketahanan dan kesehatan hutan secara global.
 
@@ -62,4 +62,4 @@ Menulis jurnal alam juga bisa menjadi kebiasaan baru. Dokumentasikan spesies bur
 
 Inti dari Kecerdasan Naturalis terletak pada kejelianmu menyelami sistem kehidupan beserta interaksinya, tanpa harus bergantung pada seberapa banyak nama Latin tanaman yang sanggup kamu hafal.
 
-Alam tidak pernah terburu-buru, namun semuanya terselesaikan. Individu dengan kecerdasan naturalis memahami irama ini dengan baik.
+Alam tidak pernah terburu-buru, tetapi semuanya terselesaikan. Individu dengan kecerdasan naturalis memahami irama ini dengan baik.

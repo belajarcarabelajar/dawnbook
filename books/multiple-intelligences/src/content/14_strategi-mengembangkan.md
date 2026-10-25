@@ -58,7 +58,7 @@ Tantang telingamu dengan mendengarkan genre musik yang benar-benar asing, lalu c
 
 ### 7\. Kecerdasan Intrapersonal (Diri Sendiri)
 
-Sisihkan waktu 10 menit setiap pagi untuk duduk diam, bermeditasi, atau sekadar melakukan refleksi internal. Saat menetapkan tujuan jangka pendek, lakukan evaluasi yang keras namun jujur mengenai alasan sesungguhnya mengapa kamu berhasil atau gagal mencapainya.
+Sisihkan waktu 10 menit setiap pagi untuk duduk diam, bermeditasi, atau sekadar melakukan refleksi internal. Saat menetapkan tujuan jangka pendek, lakukan evaluasi yang keras tetapi jujur mengenai alasan sesungguhnya mengapa kamu berhasil atau gagal mencapainya.
 
 ### 8\. Kecerdasan Naturalis (Alam)
 
@@ -72,7 +72,7 @@ Bawa sepotong alam ke dalam keseharianmu dengan memelihara tanaman di area rumah
 
 ## Skenario Pengembangan Karier di Dunia Nyata
 
-Mari bayangkan seorang **Insinyur Perangkat Lunak** yang memiliki kecerdasan **Logis-Matematis** tinggi, namun selalu keteteran setiap kali harus memimpin rapat atau mengelola tim karena lemah di ranah **Interpersonal** dan **Linguistik**.
+Mari bayangkan seorang **Insinyur Perangkat Lunak** yang memiliki kecerdasan **Logis-Matematis** tinggi, tetapi selalu keteteran setiap kali harus memimpin rapat atau mengelola tim karena lemah di ranah **Interpersonal** dan **Linguistik**.
 
 Alih-alih menyerah pada kelemahan tersebut, ia bisa menerapkan strategi penyeimbang:
 

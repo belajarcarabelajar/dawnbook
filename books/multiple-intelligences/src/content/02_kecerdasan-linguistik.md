@@ -12,7 +12,7 @@ Pikiran manusia bisa dibayangkan seperti bengkel tenun. Ketika orang awam hanya 
 
 ## Empat Pilar Kecerdasan Linguistik
 
-Cara kerja kecerdasan linguistik bertumpu pada empat komponen. Pertama, ada semantik atau kepekaan terhadap variasi makna kata. Seseorang dengan kecerdasan ini sadar betul bahwa "rumah" dan "kediaman" memiliki denotasi serupa namun membawa nuansa emosi yang berbeda.
+Cara kerja kecerdasan linguistik bertumpu pada empat komponen. Pertama, ada semantik atau kepekaan terhadap variasi makna kata. Seseorang dengan kecerdasan ini sadar betul bahwa "rumah" dan "kediaman" memiliki denotasi serupa tetapi membawa nuansa emosi yang berbeda.
 
 Komponen kedua adalah fonologi. Di sini kepekaan terhadap bunyi dan ritme bahasa sangat berperan. Ini pula yang menjelaskan mengapa seorang penyair tahu pasti di mana harus meletakkan jeda napas agar ritme puisinya terjaga.
 

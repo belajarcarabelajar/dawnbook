@@ -30,7 +30,7 @@ Pertanyaan seputar konektivitas lintas waktu juga sering mengemuka: sejauh mana 
 
 ## Batas-Batas dengan Kecerdasan Lain
 
-Kecerdasan eksistensial sering tertukar dengan kecerdasan intrapersonal maupun spiritual. Ketiganya sering beririsan, namun memiliki perbedaan fokus dalam membedah sebuah masalah.
+Kecerdasan eksistensial sering tertukar dengan kecerdasan intrapersonal maupun spiritual. Ketiganya sering beririsan, tetapi memiliki perbedaan fokus dalam membedah sebuah masalah.
 
 | Aspek | Intrapersonal | Eksistensial |
 | --- | --- | --- |
