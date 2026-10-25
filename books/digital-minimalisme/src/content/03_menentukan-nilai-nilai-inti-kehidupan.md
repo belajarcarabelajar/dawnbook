@@ -42,7 +42,7 @@ $$
 $$
 </div>
 
-Jika sebuah alat (misalnya Instagram) memiliki potensi gangguan yang sangat tinggi namun sumbangsihnya terhadap nilai "Kreativitas" kamu sangat kecil, maka alat tersebut memiliki nilai yang sangat rendah.
+Jika sebuah alat (misalnya Instagram) memiliki potensi gangguan yang sangat tinggi tetapi sumbangsihnya terhadap nilai "Kreativitas" kamu sangat kecil, maka alat tersebut memiliki nilai yang sangat rendah.
 
 **Contoh Evaluasi:**
 

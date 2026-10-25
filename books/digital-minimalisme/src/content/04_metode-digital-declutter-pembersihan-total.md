@@ -86,4 +86,4 @@ Andi, seorang desainer grafis, mengeluh energi kreatifnya ludes karena terlalu l
 
 Awalnya ia membuat aturan ketat dengan menghapus Twitter, Instagram, dan Netflix. Ia hanya menyisakan Slack untuk kantor dan WhatsApp khusus keluarga. Memasuki minggu pertama puasanya, ia merasa tertinggal tren desain terkini. Namun di minggu ketiga, kebiasaan lamanya menggambar di buku sketsa justru muncul kembali. 
 
-Setelah genap sebulan, ia mengambil keputusan untuk membuang Twitter selamanya. Instagram diaktifkan kembali, namun dibatasi hanya lewat desktop setiap hari Jumat selama 30 menit demi keperluan riset desain. Hasilnya, fokus Andi perlahan pulih dan produktivitas kerjanya ikut membaik.
+Setelah genap sebulan, ia mengambil keputusan untuk membuang Twitter selamanya. Instagram diaktifkan kembali, tetapi dibatasi hanya lewat desktop setiap hari Jumat selama 30 menit demi keperluan riset desain. Hasilnya, fokus Andi perlahan pulih dan produktivitas kerjanya ikut membaik.

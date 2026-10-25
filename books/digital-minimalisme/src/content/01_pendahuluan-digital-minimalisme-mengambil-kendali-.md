@@ -1,6 +1,6 @@
 ## Pendahuluan Digital Minimalisme
 
-Pernahkah kamu merasa kesepian justru di saat sedang "terhubung" dengan ratusan orang di media sosial? Atau mungkin kamu merasa 24 jam sehari tidak pernah cukup, namun saat melihat *screen time*, kamu kaget mendapati 4 jam habis hanya untuk *scrolling* tanpa tujuan.
+Pernahkah kamu merasa kesepian justru di saat sedang "terhubung" dengan ratusan orang di media sosial? Atau mungkin kamu merasa 24 jam sehari tidak pernah cukup, tetapi saat melihat *screen time*, kamu kaget mendapati 4 jam habis hanya untuk *scrolling* tanpa tujuan.
 
 Kita hidup di era **Attention Economy (Ekonomi Perhatian)**. Di sini, setiap detik fokus kamu adalah komoditas yang diperjualbelikan. Digital Minimalisme adalah filosofi untuk mengambil kembali kendali atas perhatianmu dari algoritma. Gerakan ini sama sekali tidak anti-teknologi.
 
@@ -18,7 +18,7 @@ Pendekatan minimalis mengajak kamu mengunci pintu. Buang barang-barang tak bergu
 
 ## Bagaimana Kita Sampai di Sini?
 
-Hubungan kita dengan teknologi berubah melalui pergeseran yang halus namun luas.
+Hubungan kita dengan teknologi berubah melalui pergeseran yang halus tetapi luas.
 
 Pada era sebelum 2007, ponsel umumnya hanya dipakai untuk menelepon dan SMS. Internet adalah tujuan yang kita kunjungi melalui komputer desktop, dan sama sekali tidak mengikuti kita di dalam saku. Ketika iPhone pertama kali diluncurkan, tujuannya sederhana: iPod yang bisa menelepon. Seiring berjalannya waktu, jumlah aplikasi bertambah pesat.
 

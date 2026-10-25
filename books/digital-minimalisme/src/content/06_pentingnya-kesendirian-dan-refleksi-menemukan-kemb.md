@@ -2,7 +2,7 @@
 
 Pernahkah kamu merasa tetap lelah meskipun sudah menghabiskan waktu berjam-jam bersantai sambil *scrolling* media sosial? Atau mungkin kamu merasa sulit untuk memikirkan ide orisinal karena kepalamu sudah penuh dengan pendapat orang lain dari podcast atau Twitter?
 
-Dalam filosofi **Digital Minimalisme**, masalah utamanya terletak pada hilangnya **Solitude** (kesendirian). Kita hidup di era di mana untuk pertama kalinya dalam sejarah manusia, kita bisa benar-benar terbebas dari kesendirian selama 24 jam penuh. Kebebasan dari kesendirian ini ternyata membawa harga yang mahal bagi kesehatan mental dan kejernihan berpikir kita.
+Dalam filosofi **Digital Minimalisme**, masalah utamanya terletak pada hilangnya **Solitude** (kesendirian). Kita hidup di era ketika untuk pertama kalinya dalam sejarah manusia, kita bisa benar-benar terbebas dari kesendirian selama 24 jam penuh. Kebebasan dari kesendirian ini ternyata membawa harga yang mahal bagi kesehatan mental dan kejernihan berpikir kita.
 
 ## Apa Itu 'Solitude' (Kesendirian)?
 
@@ -61,7 +61,7 @@ Cobalah berjalan kaki selama 15-20 menit di lingkungan sekitar. Syaratnya mutlak
 Menulis mengubah pikiran abstrak menjadi bentuk fisik. Tuliskan tiga hal yang mengganggu pikiranmu hari ini beserta satu hal yang kamu pelajari tentang dirimu sendiri.
 
 ### Menetapkan "Zona Bebas Input"
-Tentukan waktu atau tempat tertentu di mana tidak boleh ada input digital sama sekali. Misalnya, larangan membawa ponsel ke meja makan, atau aturan tidak membuka media sosial sebelum jam 9 pagi.
+Tentukan waktu atau tempat tertentu yang tidak boleh dimasuki input digital sama sekali. Misalnya, larangan membawa ponsel ke meja makan, atau aturan tidak membuka media sosial sebelum jam 9 pagi.
 
 ## Budi dan Sari Menghadapi Stres yang Sama
 

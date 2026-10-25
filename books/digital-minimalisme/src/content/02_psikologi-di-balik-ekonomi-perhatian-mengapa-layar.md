@@ -1,6 +1,6 @@
 ## Psikologi di Balik Attention Economy (Ekonomi Perhatian)
 
-Kebiasaan menatap layar lebih lama dari niat awal berakar pada cara aplikasi dirancang untuk menahan perhatianmu selama mungkin. Jika kamu pernah merasa ingin membuka Instagram "hanya untuk lima menit" namun tiba-tiba tersadar satu jam telah berlalu, kamu tidak sedang berhalusinasi. Kamu juga tidak sedang menunjukkan kelemahan karakter.
+Kebiasaan menatap layar lebih lama dari niat awal berakar pada cara aplikasi dirancang untuk menahan perhatianmu selama mungkin. Jika kamu pernah merasa ingin membuka Instagram "hanya untuk lima menit" tetapi tiba-tiba tersadar satu jam telah berlalu, kamu tidak sedang berhalusinasi. Kamu juga tidak sedang menunjukkan kelemahan karakter.
 
 Kamu sebenarnya sedang berhadapan dengan ribuan insinyur perangkat lunak dan psikolog perilaku di Silicon Valley yang tugas satu-satunya adalah memastikan kamu tetap menatap layar sesering dan selama mungkin. Inilah yang disebut dengan **Ekonomi Perhatian (Attention Economy)**.
 
