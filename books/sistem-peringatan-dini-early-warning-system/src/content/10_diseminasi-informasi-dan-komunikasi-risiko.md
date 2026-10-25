@@ -55,6 +55,6 @@ Kontras terlihat pada Merapi 2010 sebagai keberhasilan bertingkat. Peningkatan d
 
 Pelajaran yang ditarik adalah teknologi hulu tidak menggantikan kerja sosial hilir. Palu menunjukkan peringatan tanpa kanal tahan gangguan dan literasi akan kehilangan daya. Merapi menunjukkan peringatan bertahap memberi waktu belajar dan meningkatkan kepatuhan.
 
-> Komunikasi peringatan yang efektif bukan hanya soal mengirim pesan lebih cepat, melainkan memastikan pesan dipahami, dipercaya, dan diterjemahkan menjadi tindakan oleh mereka yang paling berisiko. UNESCO menekankan bahwa sistem peringatan dini berpusat pada manusia menempatkan pendidikan publik, latihan, dan umpan balik komunitas sebagai inti, bukan pelengkap.
+Komunikasi peringatan yang efektif bukan hanya soal mengirim pesan lebih cepat, melainkan memastikan pesan dipahami, dipercaya, dan diterjemahkan menjadi tindakan oleh mereka yang paling berisiko. UNESCO menulis hal serupa untuk tsunami: sistem peringatan hanya efektif bila warga paham risikonya dan tahu apa yang harus dilakukan.
 
 Penguatan ke depan mencakup perluasan cell broadcast berbasis lokasi, integrasi CAP lintas kementerian, peremajaan sirene mandiri, serta dashboard kabupaten yang menggabungkan WRS, InaRISK, dan data lokal. Indikator keberhasilan perlu digeser dari kecepatan penerbitan ke persentase warga yang menerima, memahami, dan bertindak dalam window time tersedia.
