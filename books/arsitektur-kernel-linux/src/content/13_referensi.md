@@ -6,17 +6,17 @@ Sumber-sumber ilmiah berikut menjadi landasan konseptual buku ini, mencakup arsi
 
 ### Buku Teks Utama
 
-Bovet, D. P., & Cesati, M. (2005). *Understanding the Linux kernel* (3rd ed.). O'Reilly Media.
+Bovet, D. P., & Cesati, M. (2005). *Understanding the Linux kernel* (3rd ed.). O'Reilly Media. [https://www.oreilly.com/library/view/understanding-the-linux/0596005652/](https://www.oreilly.com/library/view/understanding-the-linux/0596005652/)
 
 Corbet, J., Rubini, A., & Kroah-Hartman, G. (2005). *Linux device drivers* (3rd ed.). O'Reilly Media. [https://lwn.net/Kernel/LDD3/](https://lwn.net/Kernel/LDD3/)
 
-Love, R. (2010). *Linux kernel development* (3rd ed.). Addison-Wesley Professional.
+Love, R. (2010). *Linux kernel development* (3rd ed.). Addison-Wesley Professional. [https://www.informit.com/store/linux-kernel-development-9780672329463](https://www.informit.com/store/linux-kernel-development-9780672329463)
 
-Mauerer, W. (2008). *Professional Linux kernel architecture*. Wiley Publishing.
+Mauerer, W. (2008). *Professional Linux kernel architecture*. Wiley Publishing. [https://www.wiley.com/en-us/Professional+Linux+Kernel+Architecture-p-9780470343432](https://www.wiley.com/en-us/Professional+Linux+Kernel+Architecture-p-9780470343432)
 
-Tanenbaum, A. S., & Bos, H. (2014). *Modern operating systems* (4th ed.). Pearson Education.
+Tanenbaum, A. S., & Bos, H. (2014). *Modern operating systems* (4th ed.). Pearson Education. [https://openlibrary.org/books/OL25620855M](https://openlibrary.org/books/OL25620855M)
 
-Silberschatz, A., Galvin, P. B., & Gagne, G. (2018). *Operating system concepts* (10th ed.). John Wiley & Sons.
+Silberschatz, A., Galvin, P. B., & Gagne, G. (2018). *Operating system concepts* (10th ed.). John Wiley & Sons. [https://www.wiley.com/en-us/shop/general-end-user-computing/operating-system-concepts-10th-edition-p-9781119320913](https://www.wiley.com/en-us/shop/general-end-user-computing/operating-system-concepts-10th-edition-p-9781119320913)
 
 ---
 
@@ -36,7 +36,7 @@ Herder, J. N., Bos, H., Gras, B., Homburg, P., & Tanenbaum, A. S. (2006). MINIX 
 
 Kashyap, S., Min, C., Yang, D., Kim, T., & Smaragdakis, Y. (2017). Scalable NUMA-aware blocking synchronization primitives. *Proceedings of the 2017 USENIX Annual Technical Conference*, 603-615. [https://www.usenix.org/conference/atc17/technical-sessions/presentation/kashyap](https://www.usenix.org/conference/atc17/technical-sessions/presentation/kashyap)
 
-Kerrisk, M. (2010). *The Linux programming interface: A Linux and UNIX system programming handbook*. No Starch Press.
+Kerrisk, M. (2010). *The Linux programming interface: A Linux and UNIX system programming handbook*. No Starch Press. [https://nostarch.com/tlpi](https://nostarch.com/tlpi)
 
 Kim, T., & Park, Y. (2019). Analysis of Linux kernel security modules: A study on Linux Security Modules (LSM) and their effectiveness. *Journal of Information Security and Applications, 48*, 102339. [https://doi.org/10.1016/j.jisa.2019.05.006](https://doi.org/10.1016/j.jisa.2019.05.006)
 
@@ -52,7 +52,7 @@ Molnar, I. (2007). Completely Fair Scheduler. *Linux kernel mailing list*. [http
 
 Pohly, D., McLaughlin, S., McDaniel, P., & Butler, K. (2012). Hi-Fi: Collecting high-fidelity whole-system provenance. *Proceedings of the 28th Annual Computer Security Applications Conference*, 259-268. [https://doi.org/10.1145/2420950.2420989](https://doi.org/10.1145/2420950.2420989)
 
-Price, D. (2004). Solaris zones: Operating system support for consolidating commercial workloads. *Proceedings of the 18th USENIX Conference on System Administration*, 241-254.
+Price, D. (2004). Solaris zones: Operating system support for consolidating commercial workloads. *Proceedings of the 18th USENIX Conference on System Administration*, 241-254. [https://www.usenix.org/conference/lisa-04/solaris-zones-operating-system-support-consolidating-commercial-workloads](https://www.usenix.org/conference/lisa-04/solaris-zones-operating-system-support-consolidating-commercial-workloads)
 
 Rosen, R. (2013). *Linux kernel networking: Implementation and theory*. Apress. [https://doi.org/10.1007/978-1-4302-6197-1](https://doi.org/10.1007/978-1-4302-6197-1)
 
@@ -62,8 +62,8 @@ Srinivasan, R., & Gopalan, K. (2013). Linux cgroups: Resource management, isolat
 
 Torvalds, L. (1997). Linux: A free UNIX-386 kernel. *USENIX Annual Technical Conference*, 27-37.
 
-Vahalia, U. (1996). *UNIX internals: The new frontiers*. Prentice Hall.
+Vahalia, U. (1996). *UNIX internals: The new frontiers*. Prentice Hall. [https://openlibrary.org/books/OL792642M](https://openlibrary.org/books/OL792642M)
 
 Welte, H. (2006). Linux as real-time operating system. *Proceedings of the Linux Symposium*, 2, 333-340.
 
-Wright, C. P., Martino, M., & Zadok, E. (2003). Linux security modules: General security support for the Linux kernel. *Proceedings of the 11th USENIX Security Symposium*, 17-31.
+Wright, C. P., Martino, M., & Zadok, E. (2003). Linux security modules: General security support for the Linux kernel. *Proceedings of the 11th USENIX Security Symposium*, 17-31. [https://www.usenix.org/conference/11th-usenix-security-symposium/linux-security-modules-general-security-support-linux](https://www.usenix.org/conference/11th-usenix-security-symposium/linux-security-modules-general-security-support-linux)
