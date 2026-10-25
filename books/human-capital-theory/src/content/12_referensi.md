@@ -28,7 +28,7 @@ Hanushek, E. A., & Woessmann, L. (2012). Do better schools lead to more growth? 
 
 Heckman, J. J. (2000). Policies to foster human capital. *Research in Economics*, 54(1), 3-56. [https://doi.org/10.1006/reec.1999.0225](https://doi.org/10.1006/reec.1999.0225)
 
-Heckman, J. J., Lochner, L. J., & Todd, P. E. (2006). Earnings functions, rates of return, and estimate of the return to schooling and training. Dalam E. A. Hanushek & F. Welch (Red.), *Handbook of the Economics of Education* (Vol. 1, hlm. 307-458). Elsevier. [https://doi.org/10.1016/S1574-0692(06)01007-5](https://doi.org/10.1016/S1574-0692(06)01007-5)
+Heckman, J. J., Lochner, L. J., & Todd, P. E. (2006). Earnings functions, rates of return and treatment effects: The Mincer equation and beyond. Dalam E. A. Hanushek & F. Welch (Red.), *Handbook of the Economics of Education* (Vol. 1, hlm. 307-458). Elsevier. [https://doi.org/10.1016/S1574-0692(06)01007-5](https://doi.org/10.1016/S1574-0692(06)01007-5)
 
 Lucas, R. E. (1988). On the mechanics of economic development. *Journal of Monetary Economics*, 22(1), 3-42. [https://doi.org/10.1016/0304-3932(88)90168-7](https://doi.org/10.1016/0304-3932(88)90168-7)
 

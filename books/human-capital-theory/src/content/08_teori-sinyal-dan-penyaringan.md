@@ -28,7 +28,7 @@ Dalam model matematika Spence, diasumsikan terdapat dua kelompok individu:
 1. **Kelompok Produktivitas Tinggi ($P\_{\text{H}}$):** Memiliki kemampuan alami yang tinggi.
 2. **Kelompok Produktivitas Rendah ($P\_{\text{L}}$):** Memiliki kemampuan alami yang lebih rendah.
 
-Agar pendidikan menjadi sinyal yang memisahkan (*separating equilibrium*), biaya untuk mendapatkan tingkat pendidikan $e$ bagi kelompok $P\_{\text{L}}$ harus jauh lebih tinggi daripada kelompok $P\_{\text{H}}$:
+Agar pendidikan menjadi sinyal yang memisahkan (*separating equilibrium*), biaya untuk mendapatkan tingkat pendidikan $e$ bagi kelompok $P\_{\text{L}}$ harus lebih tinggi daripada kelompok $P\_{\text{H}}$:
 
 <div>
 $$
@@ -36,7 +36,7 @@ C(e)_{\text{L}} > C(e)_{\text{H}}
 $$
 </div>
 
-Di mana $e$ adalah tingkat pendidikan, dan $C(e)$ melambangkan fungsi biaya perolehan pendidikan. "Biaya" di sini bukan hanya uang sekolah, melainkan juga **biaya psikis, usaha, dan waktu**. Bagi seseorang yang kurang berbakat, bergadang untuk belajar kalkulus jauh lebih berat dan mahal secara peluang dibandingkan bagi seseorang yang berbakat.
+Dalam hal ini, $e$ adalah tingkat pendidikan dan $C(e)$ melambangkan fungsi biaya perolehan pendidikan. "Biaya" di sini bukan hanya uang sekolah, melainkan juga **biaya psikis, usaha, dan waktu**. Bagi seseorang yang kurang berbakat, bergadang untuk belajar kalkulus jauh lebih berat dan mahal secara peluang dibandingkan bagi seseorang yang berbakat.
 
 **Kesimpulan Logis:** Pemberi kerja menyadari bahwa hanya individu dari kelompok $P\_{\text{H}}$ yang rasional secara ekonomi untuk menyelesaikan pendidikan tinggi. Oleh karena itu, ijazah menjadi filter yang efisien di pasar tenaga kerja yang mengalami ketimpangan informasi (*information asymmetry*).
 
@@ -48,7 +48,7 @@ Jika Teori Modal Manusia sepenuhnya benar, maka setiap tahun tambahan di sekolah
 
 Mengapa perusahaan bersedia membayar jauh lebih tinggi untuk kandidat yang memegang selembar kertas ijazah dibandingkan kandidat dengan jumlah jam belajar yang hampir sama tetapi *drop-out* di semester akhir? Lonjakan premi upah pada titik kelulusan inilah yang memperlihatkan keberadaan *Sheepskin Effect*.
 
-### 5. Perbedaan Antara Signaling dan Screening
+### 5. Perbedaan antara Signaling dan Screening
 
 Meski sering digunakan secara bergantian, keduanya memiliki sudut pandang dan aktor utama yang berbeda:
 
@@ -59,7 +59,7 @@ Meski sering digunakan secara bergantian, keduanya memiliki sudut pandang dan ak
 
 #### Rekrutmen Perusahaan Konsultan Manajemen
 
-Perusahaan papan atas seperti McKinsey & Company atau Boston Consulting Group (BCG) sering kali memfokuskan rekrutmen dari universitas ternama (*top-tier universities*). Apakah kurikulum di kampus tersebut jauh lebih hebat? Belum tentu. Perusahaan memanfaatkan reputasi dan tingkat kesulitan seleksi kampus sebagai alat penyaring (*screening tool*). Mahasiswa yang berhasil masuk dan lulus dari sana terbukti memiliki kecerdasan dan ketahanan kerja yang tinggi sebelum mereka masuk ke dunia kerja.
+Perusahaan papan atas seperti McKinsey & Company atau Boston Consulting Group (BCG) sering kali memfokuskan rekrutmen dari universitas ternama (*top-tier universities*). Apakah kurikulum di kampus tersebut jauh lebih hebat? Belum tentu. Perusahaan memanfaatkan reputasi dan tingkat kesulitan seleksi kampus sebagai alat penyaring (*screening tool*). Mahasiswa yang berhasil masuk dan lulus dari sana dianggap memiliki kecerdasan dan ketahanan kerja yang tinggi sebelum mereka masuk ke dunia kerja.
 
 #### Fenomena *Credential Inflation* (Inflasi Ijazah)
 
@@ -75,10 +75,10 @@ Lowongan pekerjaan untuk posisi administrasi dasar yang mensyaratkan gelar Sarja
 | **Mekanisme Kenaikan Upah** | Upah meningkat karena produktivitas individu meningkat setelah belajar | Upah meningkat karena ijazah membuktikan potensi kandidat |
 | **Relevansi Kurikulum** | Sangat menentukan (materi pelajaran membentuk keterampilan riil) | Sekadar sarana (yang utama adalah tingkat kesulitan perolehan gelar) |
 | **Perspektif Kesejahteraan Sosial** | Investasi produktif yang mendorong pertumbuhan ekonomi | Dapat memicu *credential inflation* jika hanya berfungsi sebagai saringan |
-| **Aktor Utama** | Pekerja yang mengembangkan kapasitas diri | Pasar kerja yang menyelesaikan masalah ketimpangan informasi |
+| **Aktor Utama** | Pekerja yang mengembangkan kapasitas diri | Pelamar (*signaling*) dan pemberi kerja (*screening*) yang mengatasi ketimpangan informasi |
 
 ### Kesimpulan untuk Pembelajar
 
-Kritik melalui Teori Sinyal tidak mengimplikasikan bahwa pendidikan tidak bernilai. Dalam realita pasar kerja, dinamika yang terjadi merupakan kombinasi dari kedua teori tersebut. Pendidikan memberikan keterampilan teknis (**Human Capital**), sementara ijazah dari institusi memberikan tiket dan validasi untuk membuktikan keterampilan tersebut kepada pasar (**Signaling**).
+Kritik melalui Teori Sinyal tidak mengimplikasikan bahwa pendidikan tidak bernilai. Dalam realitas pasar kerja, dinamika yang terjadi merupakan kombinasi dari kedua teori tersebut. Pendidikan memberikan keterampilan teknis (**Human Capital**), sementara ijazah dari institusi memberikan tiket dan validasi untuk membuktikan keterampilan tersebut kepada pasar (**Signaling**).
 
 Memahami perbedaan ini membantu kita untuk tidak hanya mengejar gelar di atas kertas, tetapi juga memastikan bahwa di balik sinyal yang kita tampilkan, terdapat modal manusia nyata yang siap memberikan kontribusi produktif.

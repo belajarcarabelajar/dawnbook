@@ -8,7 +8,7 @@ Dalam **Teori Modal Manusia** (*Human Capital Theory*), pendidikan dan pelatihan
 
 ## 1. Memahami Konsep Dasar Rate of Return (RoR)
 
-Tingkat pengembalian investasi modal manusia adalah rasio antara akumulasi keuntungan finansial tambahan yang diperoleh di masa depan dengan total biaya yang dikeluarkan pada saat ini.
+Tingkat pengembalian investasi modal manusia menggambarkan seberapa besar keuntungan finansial tambahan di masa depan dibandingkan dengan biaya yang dikeluarkan saat ini, dengan memperhitungkan nilai waktu uang.
 
 Dalam analisis ekonomi, kita menggunakan konsep **Internal Rate of Return (IRR)**, yaitu tingkat diskonto ($r$) yang menyamakan nilai sekarang (*present value*) dari manfaat masa depan dengan nilai sekarang dari biaya investasi.
 
@@ -67,7 +67,7 @@ Ketika seseorang menjadi lebih terdidik dan terampil, ia tidak hanya meningkatka
 1. **Peningkatan Produktivitas Nasional:** Tenaga kerja yang terlatih mendorong efisiensi industri dan daya saing ekonomi secara agregat.
 2. **Inovasi dan Penemuan:** Individu terdidik lebih berpeluang menciptakan teknologi, sistem, atau proses baru yang bermanfaat bagi publik.
 3. **Pengurangan Beban Sosial:** Tingkat pendidikan masyarakat yang lebih tinggi berkorelasi dengan penurunan tingkat kriminalitas dan peningkatan derajat kesehatan masyarakat, sehingga menghemat anggaran negara untuk kepolisian dan fasilitas medis.
-4. **Partisipasi Sipil:** Warga negara terdidik cenderung aktif dalam kegiatan demokrasi, pembuatan keputusan publik (*voting*), serta pembangunan komunitas.
+4. **Partisipasi Sipil:** Warga negara terdidik cenderung aktif dalam kegiatan demokrasi, pemungutan suara (*voting*), serta pembangunan komunitas.
 
 ### Biaya Sosial
 
@@ -83,8 +83,8 @@ Terdapat perbedaan mendasar antara perspektif individu dan masyarakat dalam meng
 | :--- | :--- | :--- |
 | **Fokus Utama** | Peningkatan pendapatan bersih pribadi setelah pajak. | Pertumbuhan Produk Domestik Bruto (PDB) dan kesejahteraan masyarakat. |
 | **Komponen Biaya** | Biaya langsung pribadi + Biaya peluang (*opportunity cost*). | Total pengeluaran publik (subsidi) + Seluruh biaya pribadi. |
-| **Manfaat Utama** | *Wage premium*, stabilitas karir, dan kepuasan pribadi. | Produktivitas industri, inovasi, dan efisiensi sosial. |
-| **Pola Jenjang Pendidikan** | Cenderung sangat tinggi pada jenjang pendidikan tinggi (Sarjana/Pascasarjana). | Sangat tinggi pada jenjang pendidikan dasar dan menengah (SD/SMP). |
+| **Manfaat Utama** | *Wage premium*, stabilitas karier, dan kepuasan pribadi. | Produktivitas industri, inovasi, dan efisiensi sosial. |
+| **Pola Jenjang Pendidikan** | Cenderung sangat tinggi pada jenjang pendidikan tinggi (Sarjana/Pascasarjana). | Sangat tinggi pada jenjang pendidikan dasar (SD/SMP). |
 
 > **Catatan Ekonomi:** Di banyak negara berkembang, pengembalian pribadi untuk pendidikan tinggi besar karena selisih gaji lulusan perguruan tinggi lebar. Namun, pengembalian sosialnya relatif lebih rendah karena besarnya subsidi pemerintah per mahasiswa. Sebaliknya, investasi pada pendidikan dasar memiliki pengembalian sosial yang luas karena memberantas buta huruf berdampak besar terhadap stabilitas nasional.
 

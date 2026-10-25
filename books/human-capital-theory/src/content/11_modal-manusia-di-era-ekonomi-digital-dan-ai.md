@@ -27,15 +27,15 @@ Di era ekonomi berbasis pengetahuan ini, modal manusia tidak lagi diukur dari ap
 
 1. **Digital Fluency (Kefasihan Digital)**: Kemampuan untuk tidak sekadar memakai perangkat komputer, melainkan memahami tata kelola data, prinsip keamanan siber, dan kolaborasi dalam ekosistem virtual.
 2. **Human-Centric Skills (Soft Skills)**: Kemampuan yang sulit direplikasi oleh kecerdasan buatan, seperti kecerdasan emosional (EQ), negosiasi tingkat tinggi, kepemimpinan inspiratif, serta etika profesional.
-3. **Analytical & Systems Thinking**: Kemampuan untuk memahami hubungan sebab-akibat antar sistem yang kompleks dan memecahkan masalah non-linier.
+3. **Analytical & Systems Thinking**: Kemampuan untuk memahami hubungan sebab-akibat antarsistem yang kompleks dan memecahkan masalah nonlinier.
 
-Ketika seluruh informasi dapat diakses secara instan melalui kecerdasan buatan, kemampuan mengajukan pertanyaan yang tepat (*prompt engineering*) dan menyintesis jawaban menjadi jauh lebih bernilai daripada sekadar kemampuan menghafal fakta.
+Ketika banyak informasi dapat diakses secara instan melalui kecerdasan buatan, kemampuan mengajukan pertanyaan yang tepat (*prompt engineering*) dan menyintesis jawaban menjadi jauh lebih bernilai daripada sekadar kemampuan menghafal fakta.
 
 ### 3. Pentingnya Pembelajaran Seumur Hidup (Lifelong Learning)
 
-Dalam teori modal manusia klasik, investasi pendidikan terkonsentrasi pada periode awal kehidupan. Di era digital, muncul fenomena **Paruh Waktu Keterampilan (Half-life of Skills)**.
+Dalam teori modal manusia klasik, investasi pendidikan terkonsentrasi pada periode awal kehidupan. Di era digital, muncul fenomena **Waktu Paruh Keterampilan (Half-life of Skills)**.
 
-> **Prinsip Utama:** Rata-rata masa berlaku efektif suatu keterampilan teknis saat ini berkisar sekitar 5 tahun. Artinya, apa yang kamu pelajari hari ini mungkin hanya relevan setengahnya dalam lima tahun mendatang.
+> **Prinsip Utama:** Waktu paruh rata-rata suatu keterampilan teknis saat ini diperkirakan sekitar 5 tahun. Artinya, apa yang kamu pelajari hari ini mungkin hanya relevan setengahnya dalam lima tahun mendatang.
 
 Oleh karena itu, **Lifelong Learning** bertindak sebagai strategi penyesuaian modal manusia agar tetap relevan. Investasi modal manusia bertransformasi menjadi proses yang berkesinambungan:
 
@@ -44,7 +44,7 @@ Oleh karena itu, **Lifelong Learning** bertindak sebagai strategi penyesuaian mo
 
 ### 4. Produktivitas di Era Digital dalam Perspektif Teknis
 
-Secara sistematis, produktivitas individu $P$ di era digital tidak hanya ditentukan oleh input jam kerja $L$, modal fisik $K$, dan stok modal manusia tradisional $H$, melainkan bergantung pada tingkat teknologi $A$ dan variabel kecepatan adaptasi keterampilan $\text{S}\_{\text{adapt}}$:
+Secara matematis, produktivitas individu $P$ di era digital tidak hanya ditentukan oleh input jam kerja $L$, modal fisik $K$, dan stok modal manusia tradisional $H$, melainkan bergantung pada tingkat teknologi $A$ dan variabel kecepatan adaptasi keterampilan $\text{S}\_{\text{adapt}}$:
 
 <div>
 $$
@@ -52,7 +52,7 @@ P = A \cdot f(K, L, H) \cdot \text{S}_{\text{adapt}}
 $$
 </div>
 
-Di mana:
+Dengan:
 
 - $H$ = *Human Capital* (Stok modal manusia tradisional seperti tingkat pendidikan dan pengalaman)
 - $\text{S}\_{\text{adapt}}$ = *Skill Adaptability* (Kecepatan dan kapasitas individu dalam mengadopsi teknologi baru)
@@ -70,7 +70,7 @@ Seorang pengembang perangkat lunak yang memanfaatkan kecerdasan buatan pembantu 
 
 ### 5. Perubahan di Perbankan dan Industri Kreatif
 
-- **Sektor Perbankan dan Keuangan**: Dahulu, modal manusia utama perbankan berpusat pada petugas *teller* untuk transaksi kasian dan administrasi fisik. Saat ini, perbankan bertransformasi menjadi lembaga keuangan berbasis teknologi. Bank dialokasikan untuk merekrut *Data Scientist* dan memfasilitasi *reskilling* pegawai lama menjadi konsultan keuangan pribadi, beralih dari fungsi transaksional ke layanan relasional bernilai tambah tinggi.
+- **Sektor Perbankan dan Keuangan**: Dahulu, modal manusia utama perbankan berpusat pada petugas *teller* untuk transaksi kas dan administrasi fisik. Saat ini, perbankan bertransformasi menjadi lembaga keuangan berbasis teknologi. Bank mengalokasikan anggaran untuk merekrut *Data Scientist* dan memfasilitasi *reskilling* pegawai lama menjadi konsultan keuangan pribadi, beralih dari fungsi transaksional ke layanan relasional bernilai tambah tinggi.
 - **Industri Kreatif dan Desain**: Desainer grafis mengintegrasikan kecerdasan buatan generatif (*Generative AI*) untuk pembuatan draf visual awal. Alur kerja yang sebelumnya membutuhkan 10 jam untuk satu ilustrasi manual kini bergeser menjadi 1 jam penyusunan *prompt* dan 2 jam kurasi artistik. Modal manusia desainer berpindah dari kecepatan teknis mengeksekusi gambar menuju visi estetika dan pengarahan kreatif.
 
 ### 6. Tantangan Kesenjangan Digital (The Digital Divide)

@@ -24,8 +24,8 @@ $$
 | **Pendidikan** | $S$ | *Schooling* (jumlah tahun pendidikan formal yang diselesaikan). |
 | **Pengalaman** | $E$ | *Experience* (jumlah tahun pengalaman kerja potensial atau aktual). |
 | **Efek Non-Linear** | $\text{E}^2$ | Kuadrat dari pengalaman kerja, memodelkan fenomena *diminishing returns* atau kelandaian kurva pendapatan seiring bertambahnya usia. |
-| **Konstanta** | $\alpha$ | Pendapatan dasar (*baseline earnings*) tanpa pendidikan dan pengalaman kerja formal. |
-| **Koefisien Slope** | $\beta\_1, \beta\_2, \beta\_3$ | Parameter elastisitas dan imbal hasil dari masing-masing komponen modal manusia. |
+| **Konstanta** | $\alpha$ | Logaritma pendapatan dasar (*baseline earnings*) tanpa pendidikan dan pengalaman kerja formal. |
+| **Koefisien Slope** | $\beta\_1, \beta\_2, \beta\_3$ | Parameter imbal hasil dari masing-masing komponen modal manusia. |
 | **Error Term** | $\epsilon$ | Sisa variasi yang tidak teramati (*unobserved factors*), seperti bakat bawaan (*ability*), keberuntungan, atau jejaring sosial. |
 
 ### 2. Hubungan Linear Pendidikan dan Karakteristik Kuadratik Pengalaman
@@ -54,7 +54,7 @@ Ketika analisis regresi menghasilkan estimasi koefisien $\beta\_1 = 0.10$, apa m
 Koefisien $\beta\_1$ merepresentasikan **Tingkat Pengembalian Pribadi** (*Private Rate of Return*) dari investasi pendidikan.
 
 - Nilai $\beta\_1 = 0.10$ mengindikasikan bahwa setiap tambahan satu tahun pendidikan formal diasosiasikan dengan kenaikan upah rata-rata sebesar **10%**.
-- Informasi ini menjadi fondasi bagi individu dalam mengambil keputusan strategis: mengevaluasi apakah mengambil jenjang magister selama 2 tahun sepadan dengan *opportunity cost* (pendapatan yang hilang selama masa studi) dibandingkan dengan estimasi peningkatan gaji sebesar 20% di masa mendatang.
+- Informasi ini menjadi fondasi bagi individu dalam mengambil keputusan strategis: mengevaluasi apakah mengambil jenjang magister selama 2 tahun sepadan dengan *opportunity cost* (pendapatan yang hilang selama masa studi) dibandingkan dengan estimasi peningkatan gaji sekitar 20% di masa mendatang.
 
 Jika kamu memilih kuliah selama 4 tahun daripada langsung bekerja, kamu kehilangan potensi pendapatan selama 4 tahun tersebut. Fungsi Mincer membantu kita menghitung secara rasional apakah peninggian upah di masa depan cukup untuk mengompensasi pengorbanan pendapatan saat ini.
 

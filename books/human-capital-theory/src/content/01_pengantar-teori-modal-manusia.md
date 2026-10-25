@@ -60,9 +60,9 @@ Kemunculan Teori Modal Manusia memicu perubahan mendasar dalam tata kelola manaj
 
 Untuk melihat bagaimana kerangka ini bekerja, cermati analisis keputusan investasi pada level individu berikut.
 
-### Skenario Keputusan Karir
+### Skenario Keputusan Karier
 
-Misalkan kamu adalah seorang lulusan sekolah menengah yang menghadapi dua pilihan karir:
+Misalkan kamu adalah seorang lulusan sekolah menengah yang menghadapi dua pilihan karier:
 1. Langsung bekerja dengan pendapatan awal $R\_0$ sebesar Rp3.000.000 per bulan.
 2. Menempuh pendidikan tinggi selama 4 tahun dengan total biaya pendidikan $C$ sebesar Rp100.000.000, dengan ekspektasi pendapatan pasca-lulus meningkat menjadi $R\_1$ sebesar Rp8.000.000 per bulan.
 

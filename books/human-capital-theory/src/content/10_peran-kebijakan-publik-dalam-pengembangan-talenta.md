@@ -1,6 +1,6 @@
 ## Peran Kebijakan Publik dalam Pengembangan Talenta
 
-Mengapa pemerintah perlu terlibat dalam urusan pendidikan dan pelatihan? Jika individu menikmati manfaat berupa kenaikan gaji dan peningkatan karir, bukankah wajar jika mereka sendiri yang menanggung biaya pengembangannya?
+Mengapa pemerintah perlu terlibat dalam urusan pendidikan dan pelatihan? Jika individu menikmati manfaat berupa kenaikan gaji dan peningkatan karier, bukankah wajar jika mereka sendiri yang menanggung biaya pengembangannya?
 
 Dalam pasar hipotetis yang sempurna, argumen tersebut mungkin berlaku. Namun, pada realitas perekonomian, pasar bebas kerap gagal mengalokasikan sumber daya secara efisien untuk pembentukan **Human Capital**. Di sinilah **Public Policy** berperan menghubungkan kebutuhan industri, potensi individu, dan peningkatan kesejahteraan masyarakat secara luas.
 
@@ -8,7 +8,7 @@ Dalam pasar hipotetis yang sempurna, argumen tersebut mungkin berlaku. Namun, pa
 
 ### 1. Kegagalan Pasar Membenarkan Intervensi Pemerintah
 
-Intervensi pemerintah dalam pengembangan modal manusia berlandaskan pada analisis ekonomi murni, yaitu adanya **Market Failure** (kegagalan pasar). Tanpa campur tangan negara, tingkat investasi individu dan perusahaan pada pendidikan serta pelatihan akan selalu berada di bawah batas optimal sosial (sub-optimal).
+Intervensi pemerintah dalam pengembangan modal manusia berlandaskan pada analisis ekonomi murni, yaitu adanya **Market Failure** (kegagalan pasar). Tanpa campur tangan negara, tingkat investasi individu dan perusahaan pada pendidikan serta pelatihan akan cenderung berada di bawah batas optimal sosial (suboptimal).
 
 #### A. Eksternalitas Positif (Positive Externalities)
 
@@ -32,7 +32,7 @@ Ketika seorang siswa berbakat dari keluarga kurang mampu membutuhkan pembiayaan 
 
 #### C. Asimetri Informasi dan Structural Skill Mismatch
 
-Individu sering kali tidak memiliki informasi lengkap mengenai tren kebutuhan pasar kerja di masa depan. Akibat **Information Asymmetry**, banyak calon tenaga kerja mengambil jurusan atau pelatihan yang kurang relevan dengan arah industri. Pemerintah memiliki wewenang dan kapasitas pengumpulan data makro ekonomi untuk memetakan proyeksi kebutuhan tenaga kerja serta menyelaraskan kurikulum pendidikan nasional agar tidak terjadi ketidakcocokan keahlian (**Skill Mismatch**).
+Individu sering kali tidak memiliki informasi lengkap mengenai tren kebutuhan pasar kerja di masa depan. Akibat **Information Asymmetry**, banyak calon tenaga kerja mengambil jurusan atau pelatihan yang kurang relevan dengan arah industri. Pemerintah memiliki wewenang dan kapasitas pengumpulan data makroekonomi untuk memetakan proyeksi kebutuhan tenaga kerja serta menyelaraskan kurikulum pendidikan nasional agar tidak terjadi ketidakcocokan keahlian (**Skill Mismatch**).
 
 ---
 
@@ -46,12 +46,12 @@ Pemerintah mendirikan dan mengelola institusi pendidikan publik, universitas neg
 #### Subsidi dan Hibah Pendidikan (Subsidies & Grants)
 Pemerintah menekan beban biaya langsung maupun biaya peluang (**Opportunity Cost**) yang harus ditanggung peserta didik melalui:
 - **Bantuan Operasional Sekolah (BOS):** Mengurangi pembiayaan dasar pada jenjang sekolah wajib belajar.
-- **Beasiswa Tingkat Tinggi (seperti LPDP):** Memberikan akses pembiayaan penuh bagi talenta terbaik untuk menempuh studi magister dan doktoral di perguruan tinggi utama dunia.
+- **Beasiswa Tingkat Tinggi (seperti LPDP):** Memberikan akses pembiayaan penuh bagi talenta terbaik untuk menempuh studi magister dan doktoral di perguruan tinggi unggulan dalam dan luar negeri.
 
 #### Insentif Pajak dan Voucher Pelatihan Vokasi
 Untuk mengatasi keraguan perusahaan dalam mendanai pelatihan karyawan akibat risiko pembajakan tenaga kerja oleh kompetitor (**poaching risk**), pemerintah menyediakan skema pendukung:
 - **Super Tax Deduction:** Pengurangan penghasilan bruto di atas 100% bagi perusahaan yang menyelenggarakan kegiatan vokasi dan pelatihan kerja.
-- **Voucher Pelatihan Individu:** Pemberian dana bantuan langsung yang terikat pada akun individu untuk memilih program sertifikasi sesuai kebutuhan karir mereka.
+- **Voucher Pelatihan Individu:** Pemberian dana bantuan langsung yang terikat pada akun individu untuk memilih program sertifikasi sesuai kebutuhan karier mereka.
 
 ---
 
@@ -64,7 +64,7 @@ Berikut adalah perbandingan karakteristik, efisiensi, dan risiko dari masing-mas
 | **Direct Provision** | Menjamin aksesibilitas dasar dan standar kualitas minimum | Seluruh lapisan masyarakat | Pemerataan akses pendidikan secara luas | Biaya operasional tinggi dan potensi inefisiensi birokrasi |
 | **Beasiswa & Hibah** | Mengatasi *Credit Market Constraint* | Siswa berprestasi & keluarga prasejahtera | Mendorong mobilitas sosial vertikal | Potensi *Deadweight Loss* jika sasaran kurang tepat |
 | **Super Tax Deduction** | Internalisasi *Positive Externalities* perusahaan | Sektor industri & manufaktur | Mendorong keterlibatan aktif dunia usaha | Manfaat cenderung lebih banyak dinikmati perusahaan besar |
-| **Voucher Pelatihan** | Mengurangi *Information Asymmetry* & persaingan pasar | Pencari kerja & pekerja *entry-level* | Pilihan fleksibel bagi penerima manfaat | Risiko kualitas penyedia pelatihan yang bervariasi |
+| **Voucher Pelatihan** | Mengurangi *Information Asymmetry* & mendorong persaingan pasar | Pencari kerja & pekerja *entry-level* | Pilihan fleksibel bagi penerima manfaat | Risiko kualitas penyedia pelatihan yang bervariasi |
 
 ---
 
@@ -122,7 +122,7 @@ Perkembangan otomatisasi, kecerdasan buatan, dan disrupsi teknologi mengubah str
 > **Perspektif Utama Kebijakan Masa Depan:**
 > Keberhasilan kebijakan modal manusia terletak pada kemampuannya membangun ekosistem **Lifelong Learning**. Negara harus memfasilitasi pekerja dewasa untuk melakukan **Reskilling** (mempelajari keahlian baru) dan **Upskilling** (meningkatkan keahlian yang ada) secara cepat, terjangkau, dan selaras dengan pergeseran industri.
 
-#### Pertimbangan Bagi Pembuat Kebijakan
+#### Pertimbangan bagi Pembuat Kebijakan
 
 Dalam mengalokasikan anggaran negara yang terbatas, manakah opsi yang memberikan tingkat **Social Rate of Return** lebih tinggi:
 1. Menyediakan pendidikan tinggi akademik secara penuh tanpa biaya bagi seluruh lulusan sekolah menengah, atau
@@ -134,6 +134,6 @@ Pilihan terbaik bergantung pada struktur ekonomi nasional, tingkat kesenjangan k
 
 ### 7. Ringkasan Eksekutif
 
-- **Alasan Intervensi:** Kebijakan publik diperlukan karena adanya kegagalan pasar pasar bebas, yaitu **Eksternalitas Positif**, **Kendala Pasar Kredit**, dan **Asimetri Informasi**.
+- **Alasan Intervensi:** Kebijakan publik diperlukan karena adanya kegagalan pasar bebas, yaitu **Eksternalitas Positif**, **Kendala Pasar Kredit**, dan **Asimetri Informasi**.
 - **Pilihan Instrumen:** Pemerintah mengombinasikan **Direct Provision** (sekolah publik), **Subsidi & Beasiswa** (BOS, LPDP), serta **Insentif Pajak & Voucher** (Super Tax Deduction, Kartu Prakerja).
 - **Indikator Keberhasilan:** Efektivitas kebijakan publik tidak hanya diukur dari besarnya dana yang tersalurkan, melainkan dari besarnya **Social Return on Investment (SROI)** dan penurunan tingkat ketidakcocokan keahlian (*skill mismatch*) di pasar kerja.
