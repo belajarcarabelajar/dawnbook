@@ -22,7 +22,7 @@ Agar sirkuit saraf berubah secara fisik, otak perlu melepaskan bahan kimia terte
 
 ### A. Norepinefrin dan Epinefrin Memicu Kewaspadaan
 
-Batang otak melepaskan norepinefrin (noradrenalin), sedangkan kelenjar adrenal melepaskan epinefrin (adrenalin) ke dalam darah. Keduanya berkaitan dengan rasa **waspada dan energi**.
+Batang otak melepaskan norepinefrin (noradrenalin), sedangkan kelenjar adrenal melepaskan epinefrin (adrenalin). Keduanya berkaitan dengan rasa **waspada dan energi**.
 
 ### B. Asetilkolin (ACh) Menandai Sinapsis yang Aktif
 
