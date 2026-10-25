@@ -8,7 +8,7 @@ Gardner, H. (1993). *Multiple intelligences: The theory in practice*. Basic Book
 
 Gardner, H. (1999). *Intelligence reframed: Multiple intelligences for the 21st century*. Basic Books. https://lccn.loc.gov/99042468
 
-Gardner, H. (2004). *The essential Howard Gardner on mind*. Basic Books. https://www.tcpress.com/products/the-essential-howard-gardner-on-mind_9780807769362
+Gardner, H. (2024). *The essential Howard Gardner on mind*. Teachers College Press. https://www.tcpress.com/products/the-essential-howard-gardner-on-mind_9780807769362
 
 Gardner, H. (2011). *Frames of mind: The theory of multiple intelligences* (30th anniversary ed.). Basic Books. https://lccn.loc.gov/2011294394
 
