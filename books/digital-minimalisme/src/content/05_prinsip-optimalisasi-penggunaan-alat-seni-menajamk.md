@@ -8,17 +8,17 @@ Setelah melewati tahap pembersihan (Digital Declutter), kamu mungkin mendapati d
 
 Bayangkan seorang koki profesional. Ia jarang membutuhkan 50 jenis gadget dapur otomatis yang masing-masing hanya punya satu fungsi, seperti pemotong alpukat atau pengupas bawang elektrik. Sebaliknya, ia mengandalkan satu **Pisau Koki (Chef’s Knife)** berkualitas tinggi yang dirawat dengan baik. Lewat satu pisau itu, hampir semua urusan dapur bisa diselesaikan.
 
-Dalam digital minimalisme, prinsipnya serupa. Setiap alat baru membawa biaya perawatan mental berupa notifikasi, pembaruan rutin, hingga kurva pembelajaran. Menguasai satu alat secara mendalam jauh lebih efektif daripada sekadar tahu sedikit-sedikit tentang sepuluh alat berbeda. Pembatasan ini juga meminimalkan perpindahan antar aplikasi (context switching).
+Dalam digital minimalisme, prinsipnya serupa. Setiap alat baru membawa biaya perawatan mental berupa notifikasi, pembaruan rutin, hingga kurva pembelajaran. Menguasai satu alat secara mendalam jauh lebih efektif daripada sekadar tahu sedikit-sedikit tentang sepuluh alat berbeda. Pembatasan ini juga meminimalkan perpindahan antaraplikasi (context switching).
 
 Alat yang hebat tidak hanya membantu kamu melakukan pekerjaan, tetapi juga mendukung pikiran untuk bekerja lebih jernih.
 
 ### 2. Menyesuaikan Alat dengan Nilai
 
-Optimalisasi fokus pada membatasi fungsi sebuah alat agar sejajar dengan tujuan spesifik kamu, tanpa harus memaksanya menjadi alat yang serba bisa.
+Optimalisasi berfokus pada pembatasan fungsi sebuah alat agar sejajar dengan tujuan spesifik kamu, tanpa harus memaksanya menjadi alat yang serba bisa.
 
 #### A. Aturan Satu Fungsi Utama (Single-Purpose Mastery)
 
-Gunakan teknologi dengan niat yang spesifik agar ia tidak menyedot perhatianmu. Sebagai contoh, jika kamu memakai iPad untuk membaca jurnal (Nilai: Pengembangan Diri), hapus semua browser dan aplikasi hiburan dari dalamnya. Jadikan perangkat itu khusus beroperasi sebagai e-reader.
+Gunakan teknologi dengan niat yang spesifik agar ia tidak menyedot perhatianmu. Sebagai contoh, jika kamu memakai iPad untuk membaca jurnal (Nilai: Pengembangan Diri), hapus atau batasi semua browser dan aplikasi hiburan dari dalamnya. Jadikan perangkat itu khusus beroperasi sebagai e-reader.
 
 #### B. Menghilangkan Friksi pada Aktivitas Bernilai Tinggi
 
@@ -26,7 +26,7 @@ Manfaatkan fitur perangkat untuk mempercepat akses ke hal-hal yang sejalan denga
 
 #### C. Meningkatkan Friksi pada Aktivitas Bernilai Rendah
 
-Buat hambatan tambahan untuk aktivitas yang kurang selaras dengan prioritas kamu. Misalnya, jika tetap butuh Facebook demi grup hobi, jangan simpan kata sandinya di browser. Tuntutan untuk selalu mengetik ulang sandi memberi jeda bagi otak kamu merenung sejenak, *"Apakah saya benar-benar ingin melakukan ini sekarang?"*
+Buat hambatan tambahan untuk aktivitas yang kurang selaras dengan prioritas kamu. Misalnya, jika tetap butuh Facebook demi grup hobi, jangan simpan kata sandinya di browser. Tuntutan untuk selalu mengetik ulang sandi memberi jeda bagi otak kamu untuk merenung sejenak, *"Apakah saya benar-benar ingin melakukan ini sekarang?"*
 
 ### 3. Mengoptimalkan Perangkat
 
@@ -34,7 +34,7 @@ Beberapa konfigurasi praktis berikut bisa langsung diterapkan pada perangkat kam
 
 #### Layar Beranda Kosong
 
-Layar utama ponsel harus sepi dari godaan. Bersihkan semua ikon aplikasi dari layar utama dan sisakan wallpaper yang menenangkan. Mulai sekarang, biasakan memakai fitur pencarian (Search/Spotlight) setiap kali ingin membuka aplikasi. Pendekatan ini memaksa otak mengetik nama aplikasi secara sadar, menghentikan refleks ketukan jari ke ikon berwarna-warni yang seringkali tidak disengaja.
+Layar utama ponsel harus sepi dari godaan. Bersihkan semua ikon aplikasi dari layar utama dan sisakan wallpaper yang menenangkan. Mulai sekarang, biasakan memakai fitur pencarian (Search/Spotlight) setiap kali ingin membuka aplikasi. Pendekatan ini memaksa otak mengetik nama aplikasi secara sadar, menghentikan refleks ketukan jari ke ikon berwarna-warni yang sering kali tidak disengaja.
 
 #### Rumus Efisiensi Penggunaan Alat
 
@@ -73,4 +73,4 @@ Ketika kamu membutuhkan ponsel cerdas sebagai GPS di perjalanan (Nilai: Petualan
 
 **Penting:** Optimalisasi merupakan sebuah proses yang terus berjalan. Setiap kali alat kamu menawarkan fitur-fitur baru seiring pembaruan teknologi, fokus kamu adalah menolak opsi yang tidak melayani nilai-nilai inti, alih-alih tergoda mencoba semuanya.
 
-> **Ingat:** Minimalisme digital berarti mengendalikan teknologi masa kini agar kamu bisa hidup sepenuhnya di masa sekarang, tanpa harus kembali ke gaya hidup primitif tanpa teknologi.
+> **Ingat:** Digital minimalisme berarti mengendalikan teknologi masa kini agar kamu bisa hidup sepenuhnya di masa sekarang, tanpa harus kembali ke gaya hidup primitif tanpa teknologi.

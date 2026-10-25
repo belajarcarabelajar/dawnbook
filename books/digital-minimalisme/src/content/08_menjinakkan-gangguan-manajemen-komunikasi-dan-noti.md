@@ -18,7 +18,7 @@ E = T \times F^2
 $$
 </div>
 
-Dimana $T$ adalah waktu dan $F$ mewakili tingkat fokus. Saat fokus terganggu ($F$ mengecil), efektivitasmu anjlok secara kuadratik.
+Di sini, $T$ adalah waktu dan $F$ mewakili tingkat fokus. Saat fokus terganggu ($F$ mengecil), efektivitasmu anjlok secara kuadratik.
 
 ### 2\. Menjinakkan Notifikasi
 
@@ -36,7 +36,7 @@ Manfaatkan fitur *Do Not Disturb* (DND) atau *Focus Mode* di ponsel. Atur jadwal
 
 Pesan WhatsApp, Telegram, maupun *email* sering menjadi sumber kecemasan tersendiri. Mengelolanya butuh siasat khusus agar kamu tidak kewalahan.
 
-Alih-alih langsung membalas setiap pesan, periksa dan respons dalam tumpukan (*batching*) pada waktu tertentu. Contohnya, jadwalkan pemeriksaan pertama pukul 10:00 setelah menyelesaikan tugas terberat hari itu. Sediakan waktu singkat di siang hari untuk koordinasi cepat, dan selesaikan sisa balasan menjelang akhir jam kerja.
+Alih-alih langsung membalas setiap pesan, periksa dan tanggapi dalam tumpukan (*batching*) pada waktu tertentu. Contohnya, jadwalkan pemeriksaan pertama pukul 10.00 setelah menyelesaikan tugas terberat hari itu. Sediakan waktu singkat di siang hari untuk koordinasi cepat, dan selesaikan sisa balasan menjelang akhir jam kerja.
 
 Demi menjaga efisiensi, biasakan membalas pesan maksimal dalam tiga kalimat. Jika penjelasan yang dibutuhkan terlalu panjang, segera telepon atau atur pertemuan langsung guna menghemat waktumu dan lawan bicara.
 
@@ -56,7 +56,7 @@ Mari kita amati kasus Andi, seorang desainer grafis. Pekerjaannya sering tertund
 
 Andi mengatasi masalah tersebut dengan membisukan grup kerjanya dan hanya memeriksanya secara manual tiap dua jam. Ia menambahkan status profil yang menyebutkan jam aktif membalas pesan, sambil menyarankan panggilan telepon untuk urusan mendesak. Saat jam kerja intensif, ponsel ia sembunyikan di dalam laci.
 
-Pendekatan ini membuktikan bahwa sebagian besar notifikasi mendesak sebenarnya bisa ditunda, dan Andi berhasil menuntaskan karyanya jauh lebih cepat.
+Pendekatan ini menunjukkan bahwa sebagian besar notifikasi yang terasa mendesak sebenarnya bisa ditunda, dan Andi berhasil menuntaskan karyanya jauh lebih cepat.
 
 ### 6\. Menyaring Notifikasi Secara Otomatis
 
