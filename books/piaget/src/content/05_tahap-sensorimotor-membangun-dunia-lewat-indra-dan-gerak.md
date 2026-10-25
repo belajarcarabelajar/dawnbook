@@ -14,9 +14,9 @@ Istilah "Sensorimotor" berasal dari kata **Sensori** (indra) dan **Motorik** (ge
 
 Bayi seperti penjelajah di hutan tanpa buku panduan. Satu-satunya cara tahu buah itu manis adalah memakannya. Tahu duri tajam dengan menyentuhnya. Pemahaman mereka sepenuhnya bertumpu pada ujung jari dan lidah.
 
-## 2\. Enam Sub-Tahap Perkembangan Sensorimotor
+## 2\. Enam Subtahap Perkembangan Sensorimotor
 
-Piaget membagi masa dua tahun ini menjadi enam sub-tahap yang menunjukkan transisi dari makhluk yang bergerak berdasarkan refleks menjadi individu yang mampu berpikir simbolis.
+Piaget membagi masa dua tahun ini menjadi enam subtahap yang menunjukkan transisi dari makhluk yang bergerak berdasarkan refleks menjadi individu yang mampu berpikir simbolis.
 
 ### I. Refleks Sederhana (0 - 1 Bulan)
 
@@ -27,7 +27,7 @@ Pada awal kelahiran, bayi berinteraksi dengan dunia melalui refleks bawaan.
 
 ### II. Reaksi Sirkular Primer (1 - 4 Bulan)
 
-Bayi mulai mengulang tindakan yang menyenangkan yang awalnya terjadi secara tidak sengaja, namun tindakan ini **berpusat pada tubuh mereka sendiri**.
+Bayi mulai mengulang tindakan yang menyenangkan yang awalnya terjadi secara tidak sengaja, tetapi tindakan ini **berpusat pada tubuh mereka sendiri**.
 
 - **Contoh:** Mengisap jempol. Awalnya tidak sengaja, tapi karena terasa nyaman, bayi mencoba mengulanginya.
 
@@ -88,9 +88,9 @@ Paham cara kerja sensorimotor membuat kita bisa memberi stimulasi yang pas:
 2. **Ruang Eksplorasi:** Bayi belajar lewat gerak fisik. Menyiapkan area aman untuk mereka merangkak, menyentuh berbagai tekstur, dan memanipulasi benda adalah "sekolah" bagi mereka.
 3. **Sebab-Akibat:** Mainan yang mengeluarkan bunyi kalau ditekan sangat memperkuat pemahaman mereka soal hubungan sebab-akibat.
 
-## 5\. Tabel Sub-Tahap Sensorimotor
+## 5\. Tabel Subtahap Sensorimotor
 
-| Sub-Tahap | Usia | Fokus Utama | Contoh Perilaku |
+| Subtahap | Usia | Fokus Utama | Contoh Perilaku |
 | --- | --- | --- | --- |
 | **Refleks** | 0-1 bln | Gerakan otomatis | Mengisap apa saja yang menyentuh bibir. |
 | **Sirkular Primer** | 1-4 bln | Tubuh sendiri | Mengulang gerakan tangan ke mulut. |

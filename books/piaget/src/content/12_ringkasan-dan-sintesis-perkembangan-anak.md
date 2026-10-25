@@ -30,7 +30,7 @@ Perkembangan kognitif bersifat **invariant**, artinya setiap anak melewati uruta
 | Tahap | Fokus Utama | Capaian Kunci | Transformasi Berpikir |
 | --- | --- | --- | --- |
 | **Sensorimotor** (0-2 thn) | Tindakan Fisik | Objek Permanen | Dari refleks otomatis menjadi tindakan bertujuan. |
-| **Praoperasional** (2-7 thn) | Simbol & Bahasa | Fungsi Simbolik | Pikiran bersifat intuitif, namun masih terikat egosentrisme. |
+| **Praoperasional** (2-7 thn) | Simbol & Bahasa | Fungsi Simbolik | Pikiran bersifat intuitif, tetapi masih terikat egosentrisme. |
 | **Operasional Konkret** (7-11 thn) | Logika Objek Nyata | Konservasi & Klasifikasi | Mampu berpikir logis selama objeknya terlihat/fisik. |
 | **Operasional Formal** (11+ thn) | Abstraksi & Hipotesis | Penalaran Deduktif | Pikiran menjadi sistematis, idealis, dan mampu berteori. |
 

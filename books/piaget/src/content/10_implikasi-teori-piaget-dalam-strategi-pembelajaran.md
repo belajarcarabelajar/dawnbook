@@ -18,7 +18,7 @@ Memaksa anak belajar sesuatu di luar tahap perkembangannya sering kali berujung 
 
 Untuk anak tahap Praoperasional (seperti TK atau awal SD), instruksi perlu dibuat sesingkat mungkin. Gunakan banyak alat peraga visual. Mengajar berhitung dengan tumpukan kelereng asli akan jauh lebih masuk akal bagi mereka ketimbang hanya menulis angka abstrak di kertas.
 
-Ketika mereka masuk ke tahap Operasional Konkret, mereka sudah bisa mengklasifikasi objek. Berikan eksperimen sains sederhana di mana mereka bisa langsung memanipulasi variabel. Kaitkan juga materi dengan kejadian sehari-hari yang dekat dengan dunia mereka.
+Ketika mereka masuk ke tahap Operasional Konkret, mereka sudah bisa mengklasifikasi objek. Berikan eksperimen sains sederhana tempat mereka bisa langsung memanipulasi variabel. Kaitkan juga materi dengan kejadian sehari-hari yang dekat dengan dunia mereka.
 
 Barulah pada tahap Operasional Formal (sekitar usia 11 atau 12 tahun ke atas), siswa siap diberi pertanyaan hipotesis. *"Apa yang akan terjadi jika...?"* menjadi alat utama guru. Di fase ini, mereka sudah mampu mendiskusikan konsep abstrak seperti etika, politik, atau teori sains tingkat lanjut menggunakan penalaran deduktif.
 

@@ -22,7 +22,7 @@ Ia menyadari bahwa anak-anak pada usia yang sama cenderung memberikan **jawaban 
 
 ## 3\. Filosofi Genetika Epistemologi
 
-Istilah **Genetika Epistemologi** mungkin terdengar teknis, namun istilah ini menjadi fondasi teori Piaget. Mari kita bedah terminologinya:
+Istilah **Genetika Epistemologi** mungkin terdengar teknis, tetapi istilah ini menjadi fondasi teori Piaget. Mari kita bedah terminologinya:
 
 1. **Genetika (Genesis):** Bukan merujuk pada gen atau DNA, melainkan pada kata "genesis" yang berarti **asal-usul** atau **perkembangan**.
 2. **Epistemologi:** Cabang filsafat yang mempelajari **hakikat dan batas-batas pengetahuan**.
@@ -53,7 +53,7 @@ Anak kecil mungkin memiliki "rumah satu lantai" (logika sederhana), sementara re
 
 Memahami Genetika Epistemologi mengubah cara kita memperlakukan proses belajar-mengajar:
 
-1. **Pendidikan Berpusat pada Anak:** Guru tidak lagi hanya berceramah (mengisi botol kosong), tetapi menyediakan lingkungan di mana anak bisa bereksplorasi.
+1. **Pendidikan Berpusat pada Anak:** Guru tidak lagi hanya berceramah (mengisi botol kosong), tetapi menyediakan lingkungan tempat anak bisa bereksplorasi.
 2. **Menghargai Kesalahan:** Dalam perspektif Piagetian, kesalahan logika anak adalah jendela untuk memahami tahap perkembangan mereka saat ini.
 3. **Kesiapan Belajar (Readiness):** Kita tidak bisa mengajarkan kalkulus kepada anak usia 5 tahun, bukan karena mereka kurang pintar, tetapi karena "struktur epistemologi" mereka belum mencapai tahap yang memungkinkan pemahaman abstrak tersebut.
 

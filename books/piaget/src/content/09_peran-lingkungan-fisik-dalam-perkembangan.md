@@ -24,7 +24,7 @@ Ketika seorang anak bertemu dengan objek fisik yang perilakunya tidak sesuai den
 
 ### B. Abstraksi Empiris
 
-Melalui interaksi fisik, anak melakukan apa yang disebut Piaget sebagai **Abstraksi Empiris**. Ini adalah proses di mana anak menyerap informasi tentang karakteristik fisik suatu benda:
+Melalui interaksi fisik, anak melakukan apa yang disebut Piaget sebagai **Abstraksi Empiris**. Ini adalah proses ketika anak menyerap informasi tentang karakteristik fisik suatu benda:
 
 - Berapa beratnya?
 - Apa teksturnya?
@@ -98,4 +98,4 @@ Tanpa material bangunan yang memadai dan bervariasi, tukang bangunan tidak akan 
 - Interaksi fisik memicu **disekuilibrium**, yang merupakan motor penggerak belajar.
 - Pengetahuan tentang dunia dimulai dari **ujung jari** anak sebelum sampai ke **logika** mereka.
 
-> **Catatan Akhir:** Peran pendidik dan orang tua bukan untuk "mengajarkan" objek tersebut, melainkan menyediakan lingkungan di mana objek-objek tersebut tersedia untuk dijelajahi dan dieksplorasi secara bebas oleh anak.
+> **Catatan Akhir:** Peran pendidik dan orang tua bukan untuk "mengajarkan" objek tersebut, melainkan menyediakan lingkungan tempat objek-objek tersebut tersedia untuk dijelajahi dan dieksplorasi secara bebas oleh anak.

@@ -87,7 +87,7 @@ Sering geregetan melihat anak yang tidak logis? Pahami batasan umur ini supaya k
 **Analisis Piaget:**
 
 - Budi menunjukkan **kurangnya konservasi jumlah**. Baginya, dua potong lebih banyak daripada satu potong, meskipun total massa rotinya sama.
-- Budi mengalami **Centration**, di mana ia hanya fokus pada jumlah potongan, bukan ukuran total roti.
+- Budi mengalami **Centration**, ketika ia hanya fokus pada jumlah potongan, bukan ukuran total roti.
 - Ibunya tidak perlu berdebat logis dengan Budi. Mengapa? Karena secara struktur kognitif, otak Budi memang belum mampu memahami konservasi jumlah.
 
 Jadi, kalau melihat anak umur 4 tahun menyuapkan biskuit ke gambar kucing di buku cerita, tidak perlu heran. Itu sangat wajar. Kombinasi animisme dan fungsi simbolik memang sering memunculkan adegan imajinatif sekaligus kocak seperti itu.
