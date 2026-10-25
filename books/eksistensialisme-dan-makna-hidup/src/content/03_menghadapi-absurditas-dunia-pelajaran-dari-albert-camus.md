@@ -48,11 +48,11 @@ Seseorang memutuskan bahwa hidup tidak layak dijalani karena tidak memiliki makn
 
 ### B. Bunuh Diri Filosofis (Philosophical Suicide)
 
-Ini adalah kondisi di mana seseorang mencoba "melarikan diri" dari absurditas dengan melakukan **Loncatan Keyakinan (Leap of Faith)**. Mereka memaksakan adanya makna melalui dogma agama atau ideologi optimisme buta tanpa bukti. Camus menyebutnya "bunuh diri" karena orang tersebut berhenti menggunakan akal sehatnya untuk menghadapi kenyataan pahit dunia.
+Ini adalah kondisi ketika seseorang mencoba "melarikan diri" dari absurditas dengan melakukan **Loncatan Keyakinan (Leap of Faith)**. Mereka memaksakan adanya makna melalui dogma agama atau ideologi optimisme buta tanpa bukti. Camus menyebutnya "bunuh diri" karena orang tersebut berhenti menggunakan akal sehatnya untuk menghadapi kenyataan pahit dunia.
 
 ### C. Pemberontakan (Rebellion) ala Camus
 
-Inilah jalan sang pahlawan. Kita mengakui bahwa hidup ini tidak memiliki makna yang melekat (inheren), namun kita tetap memilih untuk hidup dengan penuh semangat.
+Inilah jalan sang pahlawan. Kita mengakui bahwa hidup ini tidak memiliki makna yang melekat (inheren), tetapi kita tetap memilih untuk hidup dengan penuh semangat.
 
 > **Insight:** Bagi Camus, pemberontakan adalah cara hidup: terus sadar akan absurditas tanpa menyerah kepadanya, lalu menjalani hidup sepenuhnya.
 
@@ -101,7 +101,7 @@ Sisyphus bahagia bukan karena ia suka mendorong batu, tetapi karena ia sadar bah
 | --- | --- |
 | **Dunia** | Kacau, bisu, tidak peduli. |
 | **Manusia** | Mencari pola, logika, dan tujuan. |
-| **Absurd** | Titik temu di mana manusia tidak mendapatkan jawaban. |
+| **Absurd** | Titik temu tempat manusia tidak mendapatkan jawaban. |
 | **Solusi** | Pemberontakan: Hidup dengan sadar tanpa mencari alasan di luar hidup itu sendiri. |
 
 Ketika menyadari bahwa tidak ada naskah kosmik yang mengatur jalan hidupmu, perasaan yang muncul mungkin berupa ketakutan. Namun, di balik ketakutan itu, ada kebebasan penuh untuk mulai menulis naskah kehidupanmu sendiri.

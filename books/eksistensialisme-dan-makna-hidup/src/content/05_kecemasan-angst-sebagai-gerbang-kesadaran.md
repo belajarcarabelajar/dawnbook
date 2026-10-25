@@ -70,7 +70,7 @@ Kecemasan mengungkapkan dua hal mendasar:
 
 ### Krisis Seperempat Abad (Quarter-Life Crisis)
 
-Bayangkan seorang profesional muda bernama Budi. Budi memiliki gaji besar dan karier stabil, namun setiap malam ia merasa cemas dan hampa. Secara medis, ia mungkin dianggap mengalami stres kerja. Namun, secara eksistensial:
+Bayangkan seorang profesional muda bernama Budi. Budi memiliki gaji besar dan karier stabil, tetapi setiap malam ia merasa cemas dan hampa. Secara medis, ia mungkin dianggap mengalami stres kerja. Namun, secara eksistensial:
 
 - **Perspektif Umum:** Menilai bahwa Budi membutuhkan liburan atau bantuan medis seperti obat penenang.
 - **Perspektif Eksistensial:** Melihat kondisi Budi sebagai fase *Angst*. Kecemasan ini menandakan penolakan batin terhadap pola hidup mekanis, sekaligus memanggilnya untuk mengevaluasi apakah karier tersebut dipilih secara sadar atau sekadar memenuhi ekspektasi luar.

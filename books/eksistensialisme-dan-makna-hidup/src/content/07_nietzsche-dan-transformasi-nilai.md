@@ -67,7 +67,7 @@ Bayangkan seseorang bernama Budi. Selama 10 tahun, Budi bekerja sebagai akuntan 
 - **Kematian Tuhan** adalah hilangnya otoritas moral absolut di dunia modern.
 - **Nihilisme** adalah tantangan terbesar manusia; kita harus memilih untuk menjadi aktif atau pasif.
 - ***Übermensch*** adalah cita-cita manusia yang mampu menciptakan maknanya sendiri (menjadi "Anak Kecil" yang bermain dengan nilai-nilai).
-- ***Amor Fati*** (Cintai Takdirmu): Sebuah konsep pendukung di mana kita mencintai setiap detik kehidupan kita, termasuk penderitaannya, karena itulah yang membentuk kita.
+- ***Amor Fati*** (Cintai Takdirmu): Sebuah konsep pendukung yaitu kita mencintai setiap detik kehidupan kita, termasuk penderitaannya, karena itulah yang membentuk kita.
 
 > **Pesan Utama:** Jangan sekadar mengikuti nilai-nilai orang lain. Ciptakan nilaimu sendiri.
 

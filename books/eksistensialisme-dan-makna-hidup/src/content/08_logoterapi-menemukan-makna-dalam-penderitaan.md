@@ -8,7 +8,7 @@ Logoterapi, yang sering disebut sebagai "Aliran Psikoterapi Wina Ketiga", berfok
 
 Untuk memahami Logoterapi, kita harus melihat konteks kelahirannya. Viktor Frankl menghabiskan tiga tahun di berbagai kamp konsentrasi, termasuk Auschwitz. Di sana, ia kehilangan segalanya: keluarga, identitas, harta benda, hingga naskah bukunya.
 
-Dalam kondisi di mana nyawa tidak ada harganya, Frankl mengamati sebuah pola menarik:
+Dalam kondisi ketika nyawa tidak ada harganya, Frankl mengamati sebuah pola menarik:
 
 > "Mereka yang memiliki peluang terbaik untuk bertahan hidup adalah mereka yang mengarahkan pandangannya pada masa depan, yaitu pada makna yang harus mereka penuhi di kemudian hari."
 
@@ -36,7 +36,7 @@ Makna ini hadir saat kita menerima atau merasakan sesuatu dari dunia, seperti ke
 
 #### C. Nilai Sikap (Attitudinal Values)
 
-Pintu ketiga ini menjadi fokus utama Logoterapi. Saat menghadapi situasi tragis yang tidak bisa diubah (seperti penyakit berat atau kehilangan yang mendalam), kita tetap bisa menemukan makna melalui sikap kita dalam menghadapi penderitaan tersebut. Bayangkan seorang atlet yang mengalami cedera permanen namun memilih bangkit menjadi pelatih yang menginspirasi, alih-alih terus meratapi nasibnya.
+Pintu ketiga ini menjadi fokus utama Logoterapi. Saat menghadapi situasi tragis yang tidak bisa diubah (seperti penyakit berat atau kehilangan yang mendalam), kita tetap bisa menemukan makna melalui sikap kita dalam menghadapi penderitaan tersebut. Bayangkan seorang atlet yang mengalami cedera permanen tetapi memilih bangkit menjadi pelatih yang menginspirasi, alih-alih terus meratapi nasibnya.
 
 ### 4. Menghadapi "Trias Tragis"
 
