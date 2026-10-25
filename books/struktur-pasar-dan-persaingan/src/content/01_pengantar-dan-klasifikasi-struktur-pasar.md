@@ -14,7 +14,7 @@ Bayangkan kamu masuk ke sebuah pasar tradisional. Di sana, puluhan pedagang menj
 
 Bayangkan struktur pasar sebagai sebuah jenis olahraga:
 
-- **Persaingan Sempurna** seperti lari maraton massal di mana ribuan pelari (perusahaan) memiliki peluang dan kondisi yang sama; tidak ada satu orang pun yang bisa menghentikan balapan.
+- **Persaingan Sempurna** seperti lari maraton massal tempat ribuan pelari (perusahaan) memiliki peluang dan kondisi yang sama; tidak ada satu orang pun yang bisa menghentikan balapan.
 - **Monopoli** seperti sebuah stadion yang hanya memiliki satu pintu masuk yang dimiliki oleh satu orang; dialah yang menentukan siapa yang boleh masuk dan berapa biayanya.
 
 ## Faktor-Faktor Penentu Struktur Pasar
@@ -44,7 +44,7 @@ Seberapa mudah perusahaan baru untuk bergabung dalam industri ini?
 
 ### 4. Penguasaan Informasi
 
-Apakah pembeli dan penjual memiliki informasi yang sempurna tentang harga dan kualitas? Dalam dunia nyata, sering terjadi **asimetri informasi**, di mana salah satu pihak tahu lebih banyak daripada pihak lain.
+Apakah pembeli dan penjual memiliki informasi yang sempurna tentang harga dan kualitas? Dalam dunia nyata, sering terjadi **asimetri informasi**, ketika salah satu pihak tahu lebih banyak daripada pihak lain.
 
 ## Spektrum Persaingan
 

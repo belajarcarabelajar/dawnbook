@@ -68,7 +68,7 @@ Ketika perusahaan-perusahaan di pasar oligopoli menyadari bahwa kerja sama memba
 **Mengapa Kolusi Sering Kali Gagal?**
 
 1. **Kecurangan Internal:** Selalu ada insentif bagi salah satu anggota untuk memotong harga sedikit di bawah kesepakatan demi meraih pangsa pasar yang lebih besar.
-2. **Hukum Anti-Monopoli:** Di banyak negara, kesepakatan penetapan harga (*price fixing*) secara tegas dilarang oleh hukum.
+2. **Hukum Antimonopoli:** Di banyak negara, kesepakatan penetapan harga (*price fixing*) secara tegas dilarang oleh hukum.
 3. **Masuknya Pesaing Baru:** Keuntungan kartel yang terlampau tinggi akan memicu perusahaan baru untuk menerobos masuk ke pasar.
 
 ### 5. Strategi "Tit-for-Tat" (Balas Dendam Setimpal)

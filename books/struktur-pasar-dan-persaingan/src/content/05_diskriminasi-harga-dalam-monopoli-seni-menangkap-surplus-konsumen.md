@@ -6,10 +6,10 @@ Dalam bagian ini, kita akan membahas bagaimana perusahaan dengan kekuatan pasar 
 
 ## 1. Apa Itu Diskriminasi Harga?
 
-**Diskriminasi harga** adalah praktik menjual barang atau jasa yang sama kepada konsumen yang berbeda dengan harga yang berbeda, di mana perbedaan harga tersebut bukan disebabkan oleh perbedaan biaya produksi.
+**Diskriminasi harga** adalah praktik menjual barang atau jasa yang sama kepada konsumen yang berbeda dengan harga yang berbeda, dan perbedaan harga tersebut bukan disebabkan oleh perbedaan biaya produksi.
 
 > **Analogi Penjahit**  
-> Bayangkan seorang penjahit yang mampu mengetahui tingkat kemauan membayar setiap pelanggannya. Ketika seorang miliarder masuk, penjahit tahu orang tersebut bersedia membayar Rp10.000.000 untuk sebuah jas. Saat seorang mahasiswa masuk, penjahit tahu ia hanya mampu membayar Rp1.000.000. Si penjahit membuat dua jas yang identik namun menagih masing-masing pembeli sesuai kemauan membayar maksimal mereka. Itulah inti dari diskriminasi harga.
+> Bayangkan seorang penjahit yang mampu mengetahui tingkat kemauan membayar setiap pelanggannya. Ketika seorang miliarder masuk, penjahit tahu orang tersebut bersedia membayar Rp10.000.000 untuk sebuah jas. Saat seorang mahasiswa masuk, penjahit tahu ia hanya mampu membayar Rp1.000.000. Si penjahit membuat dua jas yang identik tetapi menagih masing-masing pembeli sesuai kemauan membayar maksimal mereka. Itulah inti dari diskriminasi harga.
 
 ### Mengapa Monopolis Melakukannya?
 
@@ -33,7 +33,7 @@ Ekonomi membagi strategi ini menjadi tiga tingkatan utama:
 Dalam skenario ideal bagi perusahaan, monopolis menetapkan harga yang tepat sama dengan **Willingness to Pay (WTP)** atau kemauan membayar maksimal dari setiap individu.
 
 - **Dampaknya:** Surplus konsumen menjadi nol. Semua surplus ekonomi berpindah ke produsen.
-- **Secara Matematis:** Perusahaan akan berproduksi hingga titik di mana harga sama dengan biaya marginal $P = \text{MC}$.
+- **Secara Matematis:** Perusahaan akan berproduksi hingga titik ketika harga sama dengan biaya marginal $P = \text{MC}$.
 - **Contoh Dunia Nyata:** Sangat jarang terjadi secara sempurna, tetapi proses **tawar-menawar** di pasar tradisional atau lelang mendekati model ini.
 
 ### B. Diskriminasi Harga Tingkat Kedua
@@ -51,7 +51,7 @@ Ini adalah jenis yang paling umum. Harga dibedakan berdasarkan karakteristik kel
   - Kelompok dengan permintaan **Inelastis** (tidak sensitif harga, misal: pelancong bisnis) $\rightarrow$ **Harga Lebih Tinggi**.
   - Kelompok dengan permintaan **Elastis** (sangat sensitif harga, misal: mahasiswa) $\rightarrow$ **Harga Lebih Rendah**.
 
-> **Contoh Kasus:** Harga tiket bioskop di hari kerja sering kali lebih murah daripada akhir pekan. Biaya operasional bioskop tidak berubah, namun penonton hari kerja biasanya lebih sensitif terhadap harga (elastis) dibandingkan penonton akhir pekan.
+> **Contoh Kasus:** Harga tiket bioskop di hari kerja sering kali lebih murah daripada akhir pekan. Biaya operasional bioskop tidak berubah, tetapi penonton hari kerja biasanya lebih sensitif terhadap harga (elastis) dibandingkan penonton akhir pekan.
 
 ## 4. Perbandingan Keuntungan
 

@@ -1,12 +1,12 @@
 ## Pasar Persaingan Monopolistik
 
-Pernahkah kamu bertanya-tanya mengapa ada puluhan merek sabun mandi di supermarket? Semuanya berfungsi sama (untuk membersihkan tubuh), namun masing-masing memiliki aroma, kemasan, dan janji manfaat yang berbeda. Ada yang menawarkan kelembutan kulit, ada yang fokus pada perlindungan kuman, dan ada pula yang menonjolkan aroma mewah.
+Pernahkah kamu bertanya-tanya mengapa ada puluhan merek sabun mandi di supermarket? Semuanya berfungsi sama (untuk membersihkan tubuh), tetapi masing-masing memiliki aroma, kemasan, dan janji manfaat yang berbeda. Ada yang menawarkan kelembutan kulit, ada yang fokus pada perlindungan kuman, dan ada pula yang menonjolkan aroma mewah.
 
 Situasi seperti ini disebut **Pasar Persaingan Monopolistik**. Ini adalah struktur pasar yang paling sering kita jumpai dalam kehidupan sehari-hari, sebuah wilayah "abu-abu" yang menggabungkan elemen kompetisi yang sengit dengan kekuatan monopoli merek.
 
 ### Apa Itu Pasar Persaingan Monopolistik?
 
-Pasar persaingan monopolistik adalah struktur pasar di mana terdapat **banyak produsen** yang menjual produk yang **serupa tetapi tidak identik**.
+Pasar persaingan monopolistik adalah struktur pasar tempat terdapat **banyak produsen** yang menjual produk yang **serupa tetapi tidak identik**.
 
 > **Analogi Sederhana:** Bayangkan sebuah pusat jajanan (food court). Ada banyak pedagang nasi goreng. Semuanya menjual nasi goreng (produk serupa), tetapi rasa nasi goreng Pak Kumis berbeda dengan nasi goreng Level Pedas (diferensiasi). Karena rasanya unik, Pak Kumis punya "monopoli" kecil atas pelanggan yang menyukai racikan bumbunya, tetapi ia tetap harus bersaing dengan pedagang lain di sebelahnya.
 

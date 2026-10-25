@@ -1,6 +1,6 @@
-## Peran Pemerintah dan Kebijakan Anti-Monopoli
+## Peran Pemerintah dan Kebijakan Antimonopoli
 
-Bayangkan pertandingan sepak bola di mana satu tim berwenang menentukan harga tiket, memilih wasitnya sendiri, bahkan melarang tim lain masuk ke lapangan. Pertandingan tersebut pasti akan menjadi tidak adil, membosankan, dan merugikan penonton.
+Bayangkan pertandingan sepak bola tempat satu tim berwenang menentukan harga tiket, memilih wasitnya sendiri, bahkan melarang tim lain masuk ke lapangan. Pertandingan tersebut pasti akan menjadi tidak adil, membosankan, dan merugikan penonton.
 
 Dalam dunia ekonomi, pemerintah berperan sebagai "wasit" yang memastikan bahwa "pertandingan" antarperusahaan berjalan jujur. Tanpa aturan, perusahaan besar cenderung menggunakan kekuatan mereka untuk mematikan pesaing, yang pada akhirnya akan merugikan kita semua sebagai konsumen.
 
@@ -12,7 +12,7 @@ Secara teoretis, pasar sering kali gagal mencapai alokasi sumber daya yang optim
 - **Mendorong Inovasi:** Persaingan memaksa perusahaan untuk terus berinovasi. Jika sebuah perusahaan merasa aman tanpa pesaing, mereka cenderung malas untuk meningkatkan kualitas produk.
 - **Alokasi Sumber Daya yang Adil:** Mencegah penumpukan kekayaan dan kekuasaan ekonomi hanya pada segelintir orang atau kelompok (konglomerasi).
 
-> **Wawasan Penting:** Kebijakan anti-monopoli hadir untuk melindungi proses persaingan, bukan untuk membendung pertumbuhan perusahaan besar.
+> **Wawasan Penting:** Kebijakan antimonopoli hadir untuk melindungi proses persaingan, bukan untuk membendung pertumbuhan perusahaan besar.
 
 ### 2. UU No. 5 Tahun 1999
 
@@ -28,7 +28,7 @@ Pemerintah tidak bekerja sendirian; mereka membentuk lembaga independen yang dis
 
 ### 3. Praktik-Praktik yang Dilarang
 
-Kebijakan anti-monopoli secara spesifik melarang beberapa perilaku strategis yang merusak kesejahteraan publik:
+Kebijakan antimonopoli secara spesifik melarang beberapa perilaku strategis yang merusak kesejahteraan publik:
 
 #### A. Kartel (Kolusi)
 
@@ -78,7 +78,7 @@ Uni Eropa sering kali mendenda perusahaan teknologi besar (seperti Google atau M
 
 ### 6. Dilema Regulasi pada Monopoli Alami
 
-Tidak semua monopoli merugikan. Ada yang disebut **Monopoli Alami (Natural Monopoly)**, yaitu industri di mana biaya investasi awalnya sangat besar sehingga lebih efisien jika hanya dikelola oleh satu perusahaan (misal: PLN untuk listrik atau PDAM untuk air).
+Tidak semua monopoli merugikan. Ada yang disebut **Monopoli Alami (Natural Monopoly)**, yaitu industri tempat biaya investasi awalnya sangat besar sehingga lebih efisien jika hanya dikelola oleh satu perusahaan (misal: PLN untuk listrik atau PDAM untuk air).
 
 Dalam kasus ini, pemerintah tidak membubarkan monopolinya, melainkan **meregulasi harganya**.
 
@@ -94,4 +94,4 @@ Cobalah amati lingkungan di sekitar kamu:
 1. Sebutkan satu produk yang hanya disediakan oleh satu perusahaan di daerah kamu. Apakah itu termasuk monopoli alami atau monopoli karena hambatan buatan?
 2. Cari berita terbaru tentang "Putusan KPPU". Pelanggaran apa yang paling sering dilakukan oleh perusahaan di Indonesia belakangan ini?
 
-**Kesimpulan:** Peran pemerintah berfokus menjaga agar peluang bersaing tetap terbuka bagi seluruh pelaku usaha, tanpa mematikan inovasi bisnis. Dengan kebijakan anti-monopoli yang kuat, konsumen mendapatkan harga yang adil, kualitas produk yang lebih baik, dan ekonomi nasional tumbuh lebih sehat.
+**Kesimpulan:** Peran pemerintah berfokus menjaga agar peluang bersaing tetap terbuka bagi seluruh pelaku usaha, tanpa mematikan inovasi bisnis. Dengan kebijakan antimonopoli yang kuat, konsumen mendapatkan harga yang adil, kualitas produk yang lebih baik, dan ekonomi nasional tumbuh lebih sehat.

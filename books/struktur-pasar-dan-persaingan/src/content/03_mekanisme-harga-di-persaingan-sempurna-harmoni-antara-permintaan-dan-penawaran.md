@@ -1,6 +1,6 @@
 ## Mekanisme Harga di Persaingan Sempurna
 
-Pernahkah kamu membayangkan sebuah pasar di mana tidak ada satu pun penjual yang bisa mendikte harga? Di pasar ini, harga ditentukan oleh pasar, dan semua orang, baik penjual besar maupun kecil, harus menerimanya apa adanya. Inilah inti dari **Mekanisme Harga dalam Pasar Persaingan Sempurna (PPS)**.
+Pernahkah kamu membayangkan sebuah pasar tempat tidak ada satu pun penjual yang bisa mendikte harga? Di pasar ini, harga ditentukan oleh pasar, dan semua orang, baik penjual besar maupun kecil, harus menerimanya apa adanya. Inilah inti dari **Mekanisme Harga dalam Pasar Persaingan Sempurna (PPS)**.
 
 Dalam bagian ini, kita akan membedah bagaimana interaksi jutaan keputusan individu menciptakan satu harga keseimbangan tunggal dan mengapa dalam jangka panjang, perusahaan-perusahaan di pasar ini hanya bisa memperoleh "laba yang cukup untuk bertahan hidup."
 
@@ -10,7 +10,7 @@ Dalam Pasar Persaingan Sempurna, harga tidak ditentukan oleh satu perusahaan sep
 
 ### Pasar Ibarat Timbangan
 
-Bayangkan sebuah timbangan raksasa. Di satu sisi ada jutaan konsumen (Permintaan), dan di sisi lain ada jutaan produsen (Penawaran). Harga adalah titik di mana timbangan tersebut mencapai keseimbangan. Jika satu butir pasir (satu perusahaan) mencoba menekan timbangan tersebut, timbangan itu tidak akan bergerak sedikit pun.
+Bayangkan sebuah timbangan raksasa. Di satu sisi ada jutaan konsumen (Permintaan), dan di sisi lain ada jutaan produsen (Penawaran). Harga adalah titik ketika timbangan tersebut mencapai keseimbangan. Jika satu butir pasir (satu perusahaan) mencoba menekan timbangan tersebut, timbangan itu tidak akan bergerak sedikit pun.
 
 ### Kondisi Keseimbangan
 

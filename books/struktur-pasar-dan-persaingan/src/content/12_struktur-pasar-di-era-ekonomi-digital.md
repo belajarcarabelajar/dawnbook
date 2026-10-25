@@ -65,7 +65,7 @@ Sebagai contoh, ketika seseorang mencoba berpindah dari Google ke mesin pencari 
 
 Di era digital, garis antara kawan dan lawan menjadi kabur. Muncul istilah **Co-opetition** (kerja sama sekaligus persaingan).
 
-*Contoh:* Samsung adalah pesaing utama Apple di pasar ponsel pintar. Namun, di saat yang sama, Samsung adalah salah satu pemasok komponen layar utama untuk iPhone. Mereka bersaing di pasar produk akhir, namun bekerja sama di rantai pasokan.
+*Contoh:* Samsung adalah pesaing utama Apple di pasar ponsel pintar. Namun, di saat yang sama, Samsung adalah salah satu pemasok komponen layar utama untuk iPhone. Mereka bersaing di pasar produk akhir, tetapi bekerja sama di rantai pasokan.
 
 ## 6. Ekosistem Super-App (Gojek/Grab)
 

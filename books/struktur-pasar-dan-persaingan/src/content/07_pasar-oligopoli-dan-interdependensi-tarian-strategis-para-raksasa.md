@@ -2,7 +2,7 @@
 
 Banyak industri modern yang kamu temui sehari-hari dikuasai oleh beberapa perusahaan besar. Pernahkah kamu memperhatikan bahwa ketika sebuah operator seluler memberikan promo kuota besar-besaran, operator lain biasanya akan segera menyusul dengan penawaran serupa? Atau mengapa harga tiket pesawat untuk rute yang sama di maskapai yang berbeda sering kali hampir identik?
 
-Fenomena ini bukanlah kebetulan. Ini adalah dinamika unik dari **Pasar Oligopoli**, sebuah struktur pasar di mana segelintir perusahaan besar memegang kendali, dan setiap langkah yang diambil oleh satu perusahaan akan berdampak pada pesaingnya.
+Fenomena ini bukanlah kebetulan. Ini adalah dinamika unik dari **Pasar Oligopoli**, sebuah struktur pasar tempat segelintir perusahaan besar memegang kendali, dan setiap langkah yang diambil oleh satu perusahaan akan berdampak pada pesaingnya.
 
 ## Apa Itu Pasar Oligopoli?
 
@@ -65,7 +65,7 @@ Mari kita lihat bagaimana interdependensi bekerja di dunia nyata, khususnya pada
 3. **Dampak:** Banyak penumpang Maskapai A pindah ke B dan C. Maskapai A merugi dan terpaksa menurunkan harga kembali.
 4. **Aksi Alternatif:** Maskapai A menurunkan harga menjadi Rp700.000 untuk memotong harga lawan.
 5. **Reaksi:** Maskapai B dan C langsung menurunkan harga menjadi Rp700.000 juga dalam hitungan jam agar tidak kehilangan penumpang.
-6. **Hasil Akhir:** Jumlah penumpang tetap sama bagi ketiga maskapai, namun pendapatan mereka semua berkurang drastis. Ini adalah **Perang Harga**.
+6. **Hasil Akhir:** Jumlah penumpang tetap sama bagi ketiga maskapai, tetapi pendapatan mereka semua berkurang drastis. Ini adalah **Perang Harga**.
 
 Inilah alasan mengapa maskapai lebih suka bersaing lewat layanan, ketepatan waktu (*on-time performance*), atau kenyamanan kursi daripada sekadar adu murah yang merusak industri.
 

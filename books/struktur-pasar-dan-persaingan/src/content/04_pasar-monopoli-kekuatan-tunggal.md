@@ -49,7 +49,7 @@ Berbeda dengan perusahaan pada pasar persaingan sempurna yang hanya menerima har
 
 ### Prinsip Maksimalisasi Laba
 
-Perusahaan monopoli menetapkan volume produksi $Q$ pada titik keseimbangan di mana:
+Perusahaan monopoli menetapkan volume produksi $Q$ pada titik keseimbangan berikut:
 
 $$
 \text{MR} = \text{MC}
