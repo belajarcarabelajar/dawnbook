@@ -8,7 +8,7 @@ Jika ya, kamu sedang mengalami salah satu bias kognitif yang paling kuat dalam i
 
 **Efek Halo** adalah bias kognitif di mana kesan keseluruhan kita terhadap seseorang ("Dia orang baik") memengaruhi perasaan dan pemikiran kita tentang karakter spesifik mereka ("Dia pasti sangat cerdas").
 
-Istilah ini pertama kali dicetuskan oleh psikolog **Edward Thorndike** pada tahun 1920 setelah melakukan penelitian pada perwira militer. Ia menemukan bahwa ketika atasan menilai bawahannya, jika mereka memiliki satu kualitas positif yang menonjol (seperti postur tubuh yang tegap), atasan cenderung menilai mereka tinggi dalam kategori lain seperti kepemimpinan, loyalitas, dan kecerdasan, meskipun tidak ada bukti nyata untuk itu.
+Istilah ini pertama kali dicetuskan oleh psikolog **Edward Thorndike** pada tahun 1920 setelah melakukan penelitian pada perwira militer. Ia menemukan bahwa ketika bawahan memiliki satu kualitas positif yang menonjol (seperti postur tubuh yang tegap), atasan cenderung menilai mereka tinggi dalam kategori lain seperti kepemimpinan, loyalitas, dan kecerdasan, meskipun tidak ada bukti nyata untuk itu.
 
 > **Lampu Sorot Panggung** Bayangkan sebuah lampu sorot besar di atas panggung. Jika lampu itu berwarna emas (kesan positif), semua benda di bawahnya (entah itu kursi tua atau meja rusak) akan tampak berkilau dan mewah. Cahaya tersebut "meluap" ke area di sekitarnya.
 
@@ -38,7 +38,7 @@ Efek Halo dan Tanduk terjadi dalam pertemuan pribadi dan dalam berbagai bidang k
 
 ### A. Dunia Kerja dan Rekrutmen
 
-Ini adalah area yang paling terdampak. Seorang kandidat yang memiliki hobi yang sama dengan pewawancara mungkin akan mendapatkan "Halo". Pewawancara akan cenderung mengabaikan kekurangan teknis kandidat tersebut karena mereka sudah memiliki kesan positif di awal.
+Ini adalah salah satu area yang paling terdampak. Seorang kandidat yang memiliki hobi yang sama dengan pewawancara mungkin akan mendapatkan "Halo". Pewawancara akan cenderung mengabaikan kekurangan teknis kandidat tersebut karena mereka sudah memiliki kesan positif di awal.
 
 ### B. Pemasaran dan Branding
 
@@ -61,7 +61,7 @@ Bayangkan dua orang manajer baru, **Andi** dan **Budi**.
 
 Kedua orang ini melakukan kesalahan yang identik, namun interpretasi tim terhadap mereka sangat berbeda berdasarkan kesan awal yang mereka bangun.
 
-## 6. Menghindari Bias Halo dalam Penilaian
+## 6. Menghindari Efek Halo dalam Penilaian
 
 Meskipun sulit untuk sepenuhnya menghilangkan bias ini karena sudah "terprogram" dalam evolusi kita, kita bisa memitigasinya dengan langkah-langkah praktis:
 
@@ -69,7 +69,7 @@ Meskipun sulit untuk sepenuhnya menghilangkan bias ini karena sudah "terprogram"
 2. **Aturan "Kesan Kedua"**: Secara sadar tantang kesan pertama kamu. Tanyakan pada diri sendiri: *"Jika orang ini tidak semenarik ini, apakah saya akan tetap setuju dengan argumennya?"*
 3. **Gunakan Data, Bukan Perasaan**: Dalam pengambilan keputusan penting (seperti investasi atau perekrutan), buatlah daftar kriteria objektif sebelum bertemu dengan orangnya.
 
-**Penting: Kesadaran adalah langkah pertama. Hanya dengan mengetahui bahwa "lingkaran cahaya" atau "tanduk" itu ada, kita bisa mulai melihat orang lain dengan lebih objektif apa adanya.**
+**Penting: Kesadaran adalah langkah pertama. Hanya dengan mengetahui bahwa "lingkaran cahaya" atau "tanduk" itu ada, kita bisa mulai melihat orang lain dengan lebih objektif, apa adanya.**
 
 ## Latihan Refleksi (Kinesthetic/Reflective Learning)
 

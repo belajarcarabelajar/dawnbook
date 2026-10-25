@@ -2,7 +2,7 @@
 
 Pernahkah kamu bertemu orang yang baru mempelajari dasar-dasar investasi kripto atau strategi sepak bola, namun berbicara seolah ia ahli tingkat dunia? Atau sebaliknya, pernahkah kamu melihat seorang ahli yang sangat kompeten justru merasa bahwa kemampuan mereka "biasa-biasa saja"?
 
-Inilah **Dunning-Kruger Effect**, sebuah fenomena di mana semakin sedikit seseorang tahu tentang sesuatu, semakin besar kemungkinan mereka merasa sangat ahli di bidang tersebut.
+Inilah **Dunning-Kruger Effect**, sebuah fenomena di mana orang yang kemampuannya rendah di suatu bidang cenderung menilai dirinya lebih ahli daripada kenyataannya.
 
 ## 1\. Apa Itu Dunning-Kruger Effect?
 
@@ -16,7 +16,7 @@ Alasan utama di balik bias ini adalah kurangnya **metacognition**.
 
 > **Metacognition** adalah kemampuan seseorang untuk berpikir tentang cara mereka berpikir atau memantau proses kognitif mereka sendiri.
 
-Orang yang tidak kompeten seringkali kekurangan dua hal sekaligus:
+Orang yang tidak kompeten sering kali kekurangan dua hal sekaligus:
 
 1. Pengetahuan untuk melakukan tugas dengan benar.
 2. Pengetahuan untuk menyadari bahwa mereka melakukan kesalahan.
@@ -29,7 +29,7 @@ $$
 \text{Kepercayaan Diri} = f(\text{Kompetensi})
 $$
 
-Perjalanan ini biasanya mengikuti empat tahap utama:
+Perjalanan ini sering digambarkan dalam empat tahap:
 
 1. **Puncak "Gunung Kebodohan" (The Peak of Mt. Stupid):** Seseorang tahu sedikit sekali, tapi kepercayaan dirinya berada di titik maksimal. Mereka tidak tahu betapa luasnya bidang tersebut.
 2. **Lembah Keputusasaan (Valley of Despair):** Saat mereka belajar lebih banyak, mereka mulai menyadari betapa rumitnya bidang tersebut. Kepercayaan diri merosot tajam.
@@ -80,7 +80,7 @@ Ambil contoh tugas mencari data yang muncul ganda. Si junior membandingkan setia
 
 ## 6\. Cara Menghindari Jebakan Dunning-Kruger
 
-Meskipun kita semua rentan terhadap bias ini, ada langkah-langkah untuk meminimalisirnya:
+Meskipun kita semua rentan terhadap bias ini, ada langkah-langkah untuk meminimalkannya:
 
 - **Terus Belajar dan Bertanya:** Semakin banyak kamu tahu, semakin kamu sadar akan apa yang belum kamu ketahui.
 - **Cari Umpan Balik (Feedback):** Mintalah kritik jujur dari orang-orang yang lebih ahli dari kamu. Jangan membela diri saat diberi masukan.

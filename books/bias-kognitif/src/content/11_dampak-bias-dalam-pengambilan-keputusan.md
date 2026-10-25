@@ -25,7 +25,7 @@ Banyak manajer terjebak dalam **Halo Effect**. Saat melihat kandidat lulusan uni
 
 ## 2. Ranah Politik
 
-Politik adalah tempat di mana **In-group Bias** dan **Confirmation Bias** bekerja paling kuat.
+Politik adalah tempat **In-group Bias** dan **Confirmation Bias** bekerja paling kuat.
 
 ### Filter Bubble di Media Sosial
 
@@ -83,7 +83,7 @@ Mari kita lihat bagaimana berbagai bias berkumpul dalam satu ruangan rapat:
 
 - **CEO** memulai rapat dengan berkata, "Saya pikir proyek A adalah masa depan kita." (**Anchoring Effect**)
 - **Manajer Pemasaran** hanya menyajikan data yang mendukung proyek A. (**Confirmation Bias**)
-- **Insinyur muda** merasa ada masalah teknis, tetapi memilih diam karena tidak ingin bertentangan dengan kelompok. (**Groupthink** atau **In-group Bias**)
+- **Insinyur muda** merasa ada masalah teknis, tetapi memilih diam karena tidak ingin bertentangan dengan kelompok. (**Groupthink**)
 - Setelah proyek A gagal total dua tahun kemudian, **Komisaris** berkata, "Saya sudah tahu proyek ini pasti akan gagal!" (**Hindsight Bias**)
 
 ## Tiga Kerugian Akibat Bias
