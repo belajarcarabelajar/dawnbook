@@ -32,7 +32,7 @@ Jika pendidikan formal memberikan kerangka teori dan pengetahuan umum, **pelatih
 
 #### Mengasah Keterampilan Spesifik
 
-Seorang lulusan teknik mesin memahami teori termodinamika dari pendidikan perguruan tinggi, namun ia memerlukan pelatihan khusus untuk mengoperasikan mesin CNC tertentu di pabrik otomotif.
+Seorang lulusan teknik mesin memahami teori termodinamika dari pendidikan perguruan tinggi, tetapi ia memerlukan pelatihan khusus untuk mengoperasikan mesin CNC tertentu di pabrik otomotif.
 
 Pernahkah kamu merasa bahwa pengetahuan akademis di sekolah atau kampus terasa berbeda dari tuntutan tugas harian di kantor? Celah praktis inilah yang diisi oleh pelatihan di tempat kerja.
 
@@ -78,7 +78,7 @@ Dalam analisis Teori Modal Manusia, **migrasi tenaga kerja** (*Labor Migration*)
 
 #### Geografi dan Penilaian Nilai Ekonomi
 
-Lokasi geografis berpengaruh langsung terhadap imbal hasil keterampilan. Seseorang yang memiliki keahlian tinggi sebagai pengembang perangkat lunak (*software engineer*), namun tinggal di wilayah tanpa infrastruktur internet atau industri teknologi, akan mendapati modal manusianya terperangkap dan dihargai di bawah potensi sebenarnya.
+Lokasi geografis berpengaruh langsung terhadap imbal hasil keterampilan. Seseorang yang memiliki keahlian tinggi sebagai pengembang perangkat lunak (*software engineer*), tetapi tinggal di wilayah tanpa infrastruktur internet atau industri teknologi, akan mendapati modal manusianya terperangkap dan dihargai di bawah potensi sebenarnya.
 
 **Struktur Biaya dan Manfaat Migrasi:**
 

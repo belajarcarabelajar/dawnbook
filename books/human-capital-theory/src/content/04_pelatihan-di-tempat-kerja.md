@@ -41,7 +41,7 @@ Dalam pasar persaingan sempurna, **perusahaan tidak memiliki insentif untuk mena
 
 #### Karakteristik Utama
 - **Sifat Idiosinkratik (*Firm-Specific/Idiosyncratic*):** Terikat erat pada sistem internal, perangkat kustom, atau budaya operasional perusahaan tertentu.
-- **Ketergantungan Timbal Balik (*Mutual Interdependence*):** Menciptakan keterikatan ekonomi antara perusahaan dan pekerja, di mana pemutusan hubungan kerja membawa kerugian bagi kedua belah pihak.
+- **Ketergantungan Timbal Balik (*Mutual Interdependence*):** Menciptakan keterikatan ekonomi antara perusahaan dan pekerja, sehingga pemutusan hubungan kerja membawa kerugian bagi kedua belah pihak.
 
 #### Contoh Nyata
 - Pelatihan penggunaan sistem perangkat lunak internal kustom yang dikembangkan khusus untuk operasional Perusahaan X.
@@ -50,7 +50,7 @@ Dalam pasar persaingan sempurna, **perusahaan tidak memiliki insentif untuk mena
 - Navigasi struktur sosial dan matriks koordinasi antardepartemen di perusahaan spesifik.
 
 > **Analogi Kunci Duplikat Pintu Rumah**  
-> Pelatihan Spesifik ibarat membuat kunci duplikat yang hanya bisa membuka satu pintu rumah tertentu. Kunci tersebut bernilai tinggi bagi penghuni rumah itu, namun tidak memiliki kegunaan sama sekali bagi rumah tetangga. Jika kamu berpindah tempat, kunci tersebut menjadi sepotong logam tanpa nilai ekonomis.
+> Pelatihan Spesifik ibarat membuat kunci duplikat yang hanya bisa membuka satu pintu rumah tertentu. Kunci tersebut bernilai tinggi bagi penghuni rumah itu, tetapi tidak memiliki kegunaan sama sekali bagi rumah tetangga. Jika kamu berpindah tempat, kunci tersebut menjadi sepotong logam tanpa nilai ekonomis.
 
 #### Implikasi terhadap Upah dan Pembiayaan
 Karena keahlian ini tidak laku di tempat lain, pekerja tidak bisa mengancam untuk pindah ke pesaing demi upah lebih tinggi. Sebaliknya, perusahaan juga tidak bisa sembarangan memotong gaji atau memecat pekerja, karena biaya melatih pengganti dari nol sangat tinggi. Oleh sebab itu, timbul **Model Investasi Bersama (*Shared Investment Model*)**:
@@ -94,13 +94,13 @@ Pada pelatihan spesifik, terjadi pembagian biaya dan keuntungan (*cost and retur
 
 <div>
 $$
-\text{Fase Pelatihan (Periode 1)} : \text{W}_1 > \text{VMP}_1
+\text{Fase Pelatihan (Periode 1)} : \text{VMP}_1 - C \lt \text{W}_1 \lt \text{VMP}_1
 $$
 </div>
 
 <div>
 $$
-\quad (\text{Perusahaan menanggung porsi biaya } C)
+\quad (\text{Perusahaan dan pekerja berbagi biaya } C)
 $$
 </div>
 
@@ -112,7 +112,7 @@ $$
 
 <div>
 $$
-\quad (\text{Upah di atas pasar, namun di bawah produktivitas penuh})
+\quad (\text{Upah di atas pasar, tetapi di bawah produktivitas penuh})
 $$
 </div>
 
@@ -132,7 +132,7 @@ $$
 #### Perusahaan Teknologi dan Pengembangan Perangkat Lunak
 Sebuah perusahaan teknologi yang sedang berkembang memberikan program pelatihan intensif yang mencakup dua ranah:
 1. **Bahasa Pemrograman Python dan Arsitektur Cloud (Pelatihan Umum):** Meningkatkan nilai pasar insinyur perangkat lunak secara luas. Jika perusahaan mengalami krisis, karyawan memiliki mobilitas tinggi untuk berpindah pekerjaan.
-2. **Arsitektur Data Internal dan Prosedur Keamanan Proprietary (Pelatihan Spesifik):** Hanya berguna di lingkungan infrastruktur perusahaan tersebut. Pengetahuan ini menjaga kelancaran sistem internal, namun tidak menambah nilai tawar langsung di perusahaan lain.
+2. **Arsitektur Data Internal dan Prosedur Keamanan Proprietary (Pelatihan Spesifik):** Hanya berguna di lingkungan infrastruktur perusahaan tersebut. Pengetahuan ini menjaga kelancaran sistem internal, tetapi tidak menambah nilai tawar langsung di perusahaan lain.
 
 #### Strategi Retensi dengan Program Management Trainee
 Banyak korporasi besar merancang program *Management Trainee* (MT) dengan kombinasi kurikulum yang sengaja ditimbang ke arah pelatihan spesifik.

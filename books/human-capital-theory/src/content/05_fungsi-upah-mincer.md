@@ -73,7 +73,7 @@ Angka 7 di sini adalah konstanta $\alpha$, sedangkan galat $\epsilon$ adalah gan
 **Cara Membaca Koefisien Simulasi:**
 
 1. **Koefisien Pendidikan ($\beta\_1 = 0.12$):** Setiap tambahan satu tahun sekolah memberikan kenaikan upah rata-rata sebesar 12%.
-2. **Pengalaman ($\beta\_2 = 0.05$ dan $\beta\_3 = -0.0007$):** Pengalaman kerja memberikan imbal hasil positif yang tinggi pada awal karier (5% per tahun), namun tingkat pertumbuhannya melambat seiring bertambahnya usia.
+2. **Pengalaman ($\beta\_2 = 0.05$ dan $\beta\_3 = -0.0007$):** Pengalaman kerja memberikan imbal hasil positif yang tinggi pada awal karier (5% per tahun), tetapi tingkat pertumbuhannya melambat seiring bertambahnya usia.
 
 ### 5. Aplikasi Praktis dalam Kebijakan Publik dan Manajemen SDM
 
@@ -90,7 +90,7 @@ Fungsi Mincer memiliki implikasi praktis yang luas di pasar tenaga kerja:
 Meskipun menjadi model standar dalam estimasi imbal hasil pendidikan, model dasar Mincer memiliki sejumlah keterbatasan metodologis:
 
 - **Bias Kemampuan (*Ability Bias*):** Estimasi $\beta\_1$ dapat terdistorsi jika individu berpendidikan tinggi juga memiliki bakat atau motivasi alami yang lebih tinggi sejak awal, yang tidak terukur oleh variabel sekolah.
-- **Kuantitas vs Kualitas Pendidikan:** Model ini memperhitungkan durasi tahun sekolah ($S$), namun mengabaikan perbedaan kualitas institusi pendidikan. Satu tahun pendidikan di institusi terkemuka dihitung sama dengan satu tahun di sekolah berfasilitas minim pada model dasar.
+- **Kuantitas vs Kualitas Pendidikan:** Model ini memperhitungkan durasi tahun sekolah ($S$), tetapi mengabaikan perbedaan kualitas institusi pendidikan. Satu tahun pendidikan di institusi terkemuka dihitung sama dengan satu tahun di sekolah berfasilitas minim pada model dasar.
 
 > **Key Takeaway:** Dalam perspektif modal manusia, pendidikan dalam Fungsi Mincer berfungsi sebagai bentuk investasi jangka panjang. Jika kamu memosisikan dirimu sebagai sebuah entitas modal, pendidikan dan pelatihan adalah kegiatan riset dan pengembangan (*Research & Development*) yang kamu lakukan untuk meningkatkan daya saing serta nilai jual tenaga kerjamu di pasar.
 
