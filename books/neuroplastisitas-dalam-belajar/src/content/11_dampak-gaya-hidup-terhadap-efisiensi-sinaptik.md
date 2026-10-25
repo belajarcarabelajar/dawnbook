@@ -63,8 +63,7 @@ Otak adalah organ yang paling lapar energi, menghabiskan sekitar 20% dari total 
 ### Nutrisi Kunci untuk Efisiensi Sinaptik
 
 1. **Asam Lemak Omega-3 (DHA):**
-	- **Analogi:** Jika neuron adalah kabel listrik, Omega-3 adalah isolator berkualitas tinggi yang memastikan sinyal tidak bocor.
-		- DHA membantu menjaga fleksibilitas membran sinapsis sehingga neurotransmiter dapat diterima dengan lebih efisien.
+	- DHA membantu menjaga fleksibilitas membran sinapsis sehingga neurotransmiter dapat diterima dengan lebih efisien.
 2. **Polifenol (Antioksidan):**
 	- Ditemukan dalam blueberry, cokelat hitam, dan teh hijau.
 		- Membantu melindungi neuron dari stres oksidatif dan diduga meningkatkan level BDNF.
