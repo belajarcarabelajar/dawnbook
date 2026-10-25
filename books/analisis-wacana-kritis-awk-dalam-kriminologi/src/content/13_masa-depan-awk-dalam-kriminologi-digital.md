@@ -84,8 +84,6 @@ Masa depan AWK dalam kriminologi digital juga membawa sejumlah tantangan etis me
 
 ### 6. Pilar Pembuktian Linguistik Forensik
 
-Linguistik forensik adalah cabang ilmu bahasa terapan yang menggunakan analisis bahasa untuk kepentingan hukum dan investigasi kriminal. Seorang peneliti atau investigator tidak hanya mencari sidik jari pada benda fisik, melainkan **"sidik jari linguistik"** yang tertinggal dalam susunan kalimat, pilihan kata, hingga tanda baca.
-
 Dalam kriminologi, bahasa dianggap sebagai manifestasi perilaku. Berikut adalah pilar utama bagaimana kata-kata menjadi alat bukti:
 
 #### 6.1 Idiolek dan Kebiasaan Berbahasa

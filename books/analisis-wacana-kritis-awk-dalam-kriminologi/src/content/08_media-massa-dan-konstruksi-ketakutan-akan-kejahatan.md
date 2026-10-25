@@ -119,8 +119,6 @@ Ketakutan yang dikonstruksi secara masif oleh media massa memiliki dampak konkre
 
 ### 6. Melacak Jejak Teks lewat Linguistik Forensik
 
-Linguistik forensik merupakan cabang ilmu bahasa terapan yang memanfaatkan analisis linguistik untuk kepentingan investigasi kriminal dan pembuktian hukum. Seorang ahli linguistik forensik bekerja melacak **"sidik jari linguistik"** yang tertinggal dalam struktur kalimat, pilihan kata, hingga pola tanda baca.
-
 #### Pilar Utama Pembuktian Linguistik Forensik
 
 1. **Idiolek (Sidik Jari Bahasa)**: Setiap individu memiliki gaya bahasa unik (*idiolect*) yang dipengaruhi oleh latar belakang pendidikan, dialek geografis, usia, dan profesi.

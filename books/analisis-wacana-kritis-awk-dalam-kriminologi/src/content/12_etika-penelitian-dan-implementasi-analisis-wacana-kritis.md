@@ -122,8 +122,6 @@ Pada akhirnya, tujuan kriminologi kritis bukan hanya memahami dunia, tetapi meng
 
 ### 6. Linguistik Forensik dan Sidik Jari Linguistik
 
-Linguistik forensik adalah cabang ilmu bahasa terapan yang menggunakan analisis bahasa untuk kepentingan hukum dan investigasi kriminal. Seorang peneliti tidak sekadar mencari sidik jari pada benda fisik, melainkan **sidik jari linguistik** yang tertinggal dalam susunan kalimat, pilihan kata, hingga tanda baca.
-
 Dalam kriminologi, bahasa dianggap sebagai manifestasi perilaku. Berikut adalah pilar utama bagaimana kata-kata menjadi alat bukti:
 
 #### 1. Idiolek dan Ciri Tulisan Individu

@@ -102,8 +102,6 @@ Amati potongan berita fiktif di bawah ini dan identifikasi strukturnya menggunak
 
 ## 7. Linguistik Forensik untuk Pembuktian Hukum
 
-Linguistik forensik adalah cabang ilmu bahasa terapan yang menggunakan analisis bahasa untuk kepentingan hukum dan investigasi kriminal. Seorang detektif dalam konteks ini tidak hanya mencari sidik jari pada benda fisik, melainkan **"sidik jari linguistik"** yang tertinggal dalam susunan kalimat, pilihan kata, hingga tanda baca.
-
 Dalam kriminologi, bahasa dianggap sebagai manifestasi perilaku. Berikut adalah beberapa pilar utama bagaimana kata-kata menjadi alat bukti:
 
 ### A. Idiolek Unik Setiap Individu

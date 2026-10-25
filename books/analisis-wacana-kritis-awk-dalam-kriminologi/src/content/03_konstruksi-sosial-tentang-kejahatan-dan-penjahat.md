@@ -85,8 +85,6 @@ Untuk memahami bagaimana konstruksi wacana bekerja secara praktis, cobalah langk
 
 ### 6. Jejak Teks dalam Linguistik Forensik
 
-Linguistik forensik adalah cabang ilmu bahasa terapan yang menggunakan analisis bahasa untuk kepentingan hukum dan investigasi kriminal. Seorang analis forensik bekerja seperti detektif yang tidak hanya mencari sidik jari fisik, melainkan **"sidik jari linguistik"** yang tertinggal dalam susunan kalimat, pilihan kata, hingga tanda baca.
-
 Dalam kriminologi, bahasa dianggap sebagai manifestasi perilaku. Berikut adalah pilar utama bagaimana kata-kata menjadi alat bukti:
 
 #### Pilar Utama Linguistik Forensik

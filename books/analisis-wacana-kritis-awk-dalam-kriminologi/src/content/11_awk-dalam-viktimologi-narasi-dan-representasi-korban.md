@@ -110,8 +110,6 @@ Dengan menghitung seberapa sering diksi seperti itu muncul di ruang digital, pen
 
 ### 7. Linguistik Forensik dalam Penyelidikan Kriminal
 
-Linguistik forensik merupakan cabang ilmu bahasa terapan yang mengaplikasikan analisis tekstual untuk kepentingan penyelidikan kriminal dan proses peradilan. Jika penyelidikan konvensional melacak bukti fisik, ahli linguistik forensik menganalisis **sidik jari linguistik** (*linguistic fingerprint*) yang tertinggal dalam teks, struktur kalimat, pilihan leksikal, dan gaya penulisan.
-
 #### 7.1 Parameter Linguistik Idiolek
 
 Setiap individu memiliki **idiolek**, yaitu variasi bahasa unik yang terbentuk dari latar belakang pendidikan, geografis, profesi, dan kebiasaan kognitif.

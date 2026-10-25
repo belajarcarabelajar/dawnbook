@@ -75,8 +75,6 @@ Ketika mengamati pemberitaan kriminal di media massa, cermati seberapa sering me
 
 ### 6. Linguistik Forensik sebagai Alat Bukti Kebahasaan
 
-Linguistik forensik adalah cabang ilmu bahasa terapan yang memanfaatkan analisis kebahasaan untuk kepentingan bukti hukum dan investigasi kriminal. Analisis ini bekerja layaknya "sidik jari linguistik" yang terekam dalam susunan kalimat, pilihan kata, hingga tata tanda baca.
-
 Dalam kriminologi, bahasa diposisikan sebagai manifestasi perilaku individu. Terdapat tiga pilar utama analisis kebahasaan sebagai alat bukti:
 
 #### 1. Idiolek dan Latar Belakang Penutur

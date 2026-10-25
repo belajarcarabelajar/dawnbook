@@ -125,7 +125,7 @@ Dalam kriminologi modern, bahasa dipahami sebagai manifestasi nyata dari perilak
 Untuk memperdalam pemahaman mengenai penggunaan bahasa sebagai alat bukti dalam kriminologi, berikut adalah analisis terhadap beberapa dinamika investigatif:
 
 #### A. Meniru Idiolek Orang Lain untuk Menjebak Korban Kejahatan Siber
-Ketika pelaku kejahatan siber mencoba meniru idiolek orang lain untuk menjebak korban, kebiasaan bawah sadar (seperti mikro-sintaksis, penempatan koma, serta frekuensi kata hubung) merupakan elemen yang paling sulit dipalsukan secara konsisten dalam jangka panjang.
+Ketika pelaku kejahatan siber mencoba meniru idiolek orang lain untuk menjebak korban, kebiasaan bawah sadar (seperti mikro-sintaksis, penempatan koma, serta frekuensi kata hubung) merupakan elemen yang cenderung sulit dipalsukan secara konsisten dalam jangka panjang.
 
 #### B. Evolusi Komunikasi Digital
 Pada era media sosial dan pesan instan, penggunaan teks pendek yang dipadu dengan simbol visual menghadirkan tantangan sekaligus peluang baru bagi ahli linguistik forensik dalam mengidentifikasi pola perilaku serta atribusi kepenulisan.

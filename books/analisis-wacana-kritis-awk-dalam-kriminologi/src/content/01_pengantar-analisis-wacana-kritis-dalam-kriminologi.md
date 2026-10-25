@@ -112,8 +112,6 @@ Dalam ranah praktik penegakan hukum dan investigasi kriminal, AWK menjadi instru
 
 ## Linguistik Forensik
 
-Linguistik forensik merupakan cabang ilmu bahasa terapan yang mengaplikasikan analisis kebahasaan untuk kepentingan pembuktian hukum dan investigasi kriminal. Ibarat penyidik yang mengumpulkan jejak DNA fisik, ahli linguistik forensik mengidentifikasi **"sidik jari linguistik"** (*linguistic fingerprint*) yang tertinggal pada struktur kalimat, pilihan leksikal, dan konsistensi tanda baca.
-
 Dalam sains kriminologi, perilaku berbahasa diposisikan sebagai manifestasi perilaku psikologis dan sosiologis individu.
 
 ### 1. Idiolek
