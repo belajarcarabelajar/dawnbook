@@ -10,7 +10,7 @@ Badara, A. (2012). *Analisis wacana: Teori, metode, dan penerapannya pada wacana
 
 Chouliaraki, L., & Fairclough, N. (1999). *Discourse in late modernity: Rethinking critical discourse analysis*. Edinburgh University Press. [https://edinburghuniversitypress.com/book-discourse-in-late-modernity.html](https://edinburghuniversitypress.com/book-discourse-in-late-modernity.html)
 
-Cohen, S. (1972). *Folk devils and moral panics: The creation of the Mods and Rockers*. MacGibbon and Kee.
+Cohen, S. (1972). *Folk devils and moral panics: The creation of the Mods and Rockers*. MacGibbon and Kee. [https://lccn.loc.gov/72197032](https://lccn.loc.gov/72197032)
 
 Eriyanto. (2001). *Analisis wacana: Pengantar analisis teks media*. LKiS. [https://openlibrary.org/works/OL6065687W](https://openlibrary.org/works/OL6065687W)
 
@@ -22,7 +22,7 @@ Fairclough, N. (2003). *Analysing discourse: Textual analysis for social researc
 
 Fairclough, N. (2010). *Critical discourse analysis: The critical study of language* (2nd ed.). Longman/Pearson. [https://www.routledge.com/Critical-Discourse-Analysis-The-Critical-Study-of-Language/Fairclough/p/book/9781408232279](https://www.routledge.com/Critical-Discourse-Analysis-The-Critical-Study-of-Language/Fairclough/p/book/9781408232279)
 
-Foucault, M. (1977). *Discipline and punish: The birth of the prison* (A. Sheridan, Trans.). Pantheon Books.
+Foucault, M. (1977). *Discipline and punish: The birth of the prison* (A. Sheridan, Trans.). Pantheon Books. [https://lccn.loc.gov/77005301](https://lccn.loc.gov/77005301)
 
 Garland, D. (2001). *The culture of control: Crime and social order in contemporary society*. University of Chicago Press. [https://doi.org/10.7208/chicago/9780226190174.001.0001](https://doi.org/10.7208/chicago/9780226190174.001.0001)
 
