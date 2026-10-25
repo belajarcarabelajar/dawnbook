@@ -2,7 +2,7 @@
 
 Bayangkan sebuah masa ketika televisi masih menjadi barang baru yang langka. Benda elektronik di sudut ruangan ini mampu mengumpulkan seluruh warga desa di dalam satu rumah yang cukup beruntung untuk memilikinya. Seperti itulah suasana Korea Selatan pada dekade 1960-an. Setelah melewati masa transisi dari media radio, televisi mulai mengambil alih peran sebagai penutur cerita utama bangsa.
 
-Pada dekade ini, K-Drama tidak lahir dari sinematografi mewah atau aktor berbayaran tinggi. Sebaliknya, industri ini dirintis dari studio-studio sempit dengan teknologi serba terbatas, visual hitam putih, serta semangat kolektif untuk membangun kembali identitas nasional pasca-perang.
+Pada dekade ini, K-Drama tidak lahir dari sinematografi mewah atau aktor berhonor tinggi. Sebaliknya, industri ini dirintis dari studio-studio sempit dengan teknologi serba terbatas, visual hitam putih, serta semangat kolektif untuk membangun kembali identitas nasional pascaperang.
 
 ## 1. Kelahiran KBS dan Siaran Nasional
 
@@ -34,7 +34,7 @@ Alur cerita drama era 1960-an belum sekompleks kisah ketegangan (*thriller*) pol
 
 ### Mengapa Nilai Keluarga Sangat Kuat?
 
-1. **Penyembuhan luka pasca-perang**. Masyarakat yang dilanda trauma akibat kehilangan anggota keluarga menemukan semacam terapi sosial dalam drama yang mengangkat persatuan keluarga.
+1. **Penyembuhan luka pascaperang**. Masyarakat yang dilanda trauma akibat kehilangan anggota keluarga menemukan semacam terapi sosial dalam drama yang mengangkat persatuan keluarga.
 2. Peran drama sebagai **media edukasi moral** bentukan pemerintah. Televisi dipakai untuk menyebarkan pesan modernisasi sekaligus menanamkan kembali nilai luhur seperti bakti kepada orang tua (*filial piety*).
 3. Kepopuleran **genre Shinpa**, yaitu melodrama emosional yang menyorot pengorbanan seorang ibu atau nasib malang anak yatim piatu untuk menyentuh perasaan penonton.
 
@@ -46,7 +46,7 @@ Alur cerita drama era 1960-an belum sekompleks kisah ketegangan (*thriller*) pol
 
 ## 4. Munculnya Kompetisi TBC dan MBC
 
-KBS memang memelopori industri ini, namun akhir dekade 1960-an ditandai oleh kemunculan stasiun televisi swasta yang membawa kompetisi.
+KBS memang memelopori industri ini, namun pertengahan hingga akhir dekade 1960-an ditandai oleh kemunculan stasiun televisi swasta yang membawa kompetisi.
 
 * **TBC (Tongyang Broadcasting Company)** yang diluncurkan pada 1964 segera memantapkan posisinya sebagai pionir drama harian (*daily drama* atau *il-il deurama*).
 * Stasiun **MBC (Munhwa Broadcasting Corporation)** mulai mengudara pada 1969 dengan membawa teknik penceritaan yang dinamis.
@@ -79,9 +79,9 @@ Untuk memahami skala evolusi ini, lihat perbandingan sederhana berikut:
 
 | Aspek | Era 1960-an | Era Modern (Sebagai Perbandingan) |
 | --- | --- | --- |
-| **Warna** | Hitam & Putih (B&W) | *Ultra High Definition* (UHD) |
+| **Warna/Resolusi** | Hitam & Putih (B&W) | Berwarna dengan *Ultra High Definition* (UHD) |
 | **Metode** | Mayoritas *Live* atau Rekaman Dasar | *Pre-produced* dengan Editing Canggih |
 | **Distribusi** | Frekuensi Terestrial Terbatas | Global via OTT (Netflix/Disney+) |
 | **Fokus Cerita** | Restorasi Keluarga & Moral | Diversifikasi Genre & Kritik Sosial |
 
-> **Insight:** Era 1960-an mungkin tampak bersahaja secara visual. Namun, tanpa keberanian stasiun televisi perintis seperti KBS dan TBC dalam menguji format serial mingguan, K-Drama hari ini tidak akan memiliki fondasi narasi seperti sekarang. Di balik keterbatasan teknologi masa itu, mereka berhasil meletakkan dasar bagi budaya menonton di Korea.
+> **Insight:** Era 1960-an mungkin tampak bersahaja secara visual. Namun, tanpa keberanian stasiun televisi perintis seperti KBS dan TBC dalam menguji format serial mingguan dan harian, K-Drama hari ini tidak akan memiliki fondasi narasi seperti sekarang. Di balik keterbatasan teknologi masa itu, mereka berhasil meletakkan dasar bagi budaya menonton di Korea.

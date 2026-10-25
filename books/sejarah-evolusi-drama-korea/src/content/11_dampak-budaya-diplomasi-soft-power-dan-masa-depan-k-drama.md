@@ -24,7 +24,7 @@ Selain dinikmati sebagai karya seni, K-drama telah bertransformasi menjadi pengg
 
 ### Efek Pengganda (*Multiplier Effect*)
 
-Keberhasilan sebuah serial drama secara berantai memicu peningkatan ekspor produk seperti kuliner (*K-food*) dan kosmetik (*K-beauty*). Sebagai contoh, lipstik yang dikenakan oleh aktris utama atau mi instan yang disantap dalam adegan tertentu sering kali mengalami lonjakan penjualan hingga ribuan persen di pasar internasional. Dampak berantai ini juga merambah ke sektor pariwisata melalui tren *set-jetting*, yaitu fenomena ketika pelancong sengaja mendatangi lokasi syuting drama favorit mereka.
+Keberhasilan sebuah serial drama secara berantai memicu peningkatan ekspor produk seperti kuliner (*K-food*) dan kosmetik (*K-beauty*). Sebagai contoh, lipstik yang dikenakan oleh aktris utama atau mi instan yang disantap dalam adegan tertentu sering kali mengalami lonjakan penjualan yang signifikan di pasar internasional. Dampak berantai ini juga merambah ke sektor pariwisata melalui tren *set-jetting*, yaitu fenomena ketika pelancong sengaja mendatangi lokasi syuting drama favorit mereka.
 
 ### Lokasi Syuting sebagai Destinasi Utama
 
@@ -38,7 +38,7 @@ Kita sedang berada di awal perubahan teknologi yang akan mengubah cara produksi 
 
 ### A. Artificial Intelligence (AI) dalam Produksi
 
-Penerapan AI di balik layar kini bukan lagi sebuah fiksi ilmiah. Teknologi *deepfake* dan *de-aging*, misalnya, telah memungkinkan aktor senior untuk memerankan versi muda mereka sendiri dalam adegan kilas balik (*flashback*) secara mulus. Di sisi penulisan, naskah berbasis AI (*AI-generated scripts*) mulai digunakan untuk menganalisis preferensi pemirsa dan memberikan saran alur cerita yang paling memikat algoritma platform *streaming*. Selain itu, kehadiran *AI dubbing* (sulih suara berbasis kecerdasan buatan) mampu meniru suara asli aktor dan menerjemahkannya ke berbagai bahasa dengan emosi yang tetap terjaga, memangkas batasan bahasa tanpa merusak kualitas seni peran.
+Penerapan AI di balik layar kini bukan lagi sebuah fiksi ilmiah. Teknologi *deepfake* dan *de-aging*, misalnya, telah memungkinkan aktor senior untuk memerankan versi muda mereka sendiri dalam adegan kilas balik (*flashback*) secara mulus. Di sisi penulisan, perangkat AI mulai digunakan untuk menganalisis preferensi pemirsa dan memberikan saran alur cerita yang paling memikat algoritma platform *streaming*. Selain itu, kehadiran *AI dubbing* (sulih suara berbasis kecerdasan buatan) mampu meniru suara asli aktor dan menerjemahkannya ke berbagai bahasa dengan emosi yang tetap terjaga, memangkas batasan bahasa tanpa merusak kualitas seni peran.
 
 ### B. Produksi Virtual (*Virtual Production Sets*)
 
@@ -50,7 +50,7 @@ Dalam waktu dekat, interaksi kita dengan drama favorit tidak akan lagi bersifat 
 
 ### Strategi "V-Commerce"
 
-Dalam pemasaran digital, K-drama menjadi pelopor *video commerce* (V-commerce), sebuah konsep yang mengintegrasikan hiburan dan belanja secara langsung.
+Dalam pemasaran digital, K-drama turut memanfaatkan *video commerce* (V-commerce), sebuah konsep yang mengintegrasikan hiburan dan belanja secara langsung.
 
 Sebagai gambaran, saat kamu menonton suatu adegan di platform *streaming*, kamu bisa langsung mengeklik jaket yang sedang dikenakan oleh aktor utama. Seketika, jendela interaktif akan menampilkan harga, ukuran, dan tombol pembelian langsung. Strategi ini efisien dalam mengubah penonton pasif menjadi konsumen aktif, sekaligus menyuplai data waktu nyata (*real-time data*) bagi produser mengenai elemen visual apa saja yang paling diminati pemirsa.
 
@@ -58,7 +58,7 @@ Sebagai gambaran, saat kamu menonton suatu adegan di platform *streaming*, kamu 
 
 Meskipun berbagai teknologi baru ini memberikan kemudahan, industri K-drama dihadapkan pada tantangan etika dan kreativitas yang serius.
 
-Salah satunya adalah benturan antara orisinalitas dengan algoritma. Jika proses kreatif sepenuhnya didikte oleh hasil analisis AI, ada kekhawatiran kita akan kehilangan keunikan serta kedalaman emosi yang hanya bisa dihasilkan oleh intuisi manusia. Isu etika digital juga mencuat seiring maraknya penggunaan visual dan kloning suara aktor menggunakan AI, memicu sengketa rumit seputar hak cipta intelektual serta royalti. Di samping itu, tingkat saturasi pasar (*market saturation*) yang tinggi akibat ribuan judul yang dirilis setiap tahun memaksa kreator untuk bekerja ekstra keras agar karya mereka tidak tenggelam di tengah keseragaman konten.
+Salah satunya adalah benturan antara orisinalitas dengan algoritma. Jika proses kreatif sepenuhnya didikte oleh hasil analisis AI, ada kekhawatiran kita akan kehilangan keunikan serta kedalaman emosi yang hanya bisa dihasilkan oleh intuisi manusia. Isu etika digital juga mencuat seiring maraknya penggunaan AI untuk mereplikasi visual dan suara aktor, memicu sengketa rumit seputar hak kekayaan intelektual serta royalti. Di samping itu, tingkat saturasi pasar (*market saturation*) yang tinggi akibat banyaknya judul yang dirilis setiap tahun memaksa kreator untuk bekerja ekstra keras agar karya mereka tidak tenggelam di tengah keseragaman konten.
 
 ## Teknologi Hanyalah Sarana Penunjang
 
@@ -66,4 +66,4 @@ K-drama telah bertransformasi dari hiburan domestik menjadi instrumen *soft powe
 
 > **Pesan Utama:** Masa depan K-drama bertumpu pada bagaimana kemajuan teknologi dapat memperkuat nilai kemanusiaan dan narasi universal, alih-alih mengaburkan esensi cerita yang selama ini menjadi kekuatan utama drama Korea.
 
-Pada akhir kata, inovasi teknologi hanyalah sarana penunjang. Keberhasilan K-drama untuk terus menarik pemirsa global akan selalu bersandar pada kemampuannya menyentuh emosi penonton.
+Pada akhirnya, inovasi teknologi hanyalah sarana penunjang. Keberhasilan K-drama untuk terus menarik pemirsa global akan selalu bersandar pada kemampuannya menyentuh emosi penonton.

@@ -2,7 +2,7 @@
 
 Hari ini jutaan orang di seluruh dunia terpaku pada layar *smartphone* untuk menyaksikan episode terbaru drama Korea. Namun, fondasi industri hiburan Korea Selatan dibangun lebih dulu di atas frekuensi suara dan kekuatan imajinasi. Jauh sebelum efek visual CGI yang canggih hadir, Korea telah memiliki tradisi bercerita yang kuat melalui media audio.
 
-Bagian ini akan membawa kamu menelusuri perkembangan drama audio dari tahun 1920-an hingga siaran televisi pertama di Seoul pada akhir 1950-an.
+Bagian ini akan membawa kamu menelusuri perkembangan drama audio dari tahun 1920-an hingga siaran televisi pertama di Seoul pada pertengahan 1950-an.
 
 ## 1. Kelahiran Drama Radio (1920-an - 1940-an)
 
@@ -17,13 +17,13 @@ Konteks sejarah saat itu cukup rumit karena Korea berada di bawah penjajahan Jep
 > **Analogi Theater of the Mind**
 > Drama radio ibarat sebuah *theater of the mind*. Tanpa dekorasi panggung atau kostum mewah, aktor harus menyampaikan emosi, jarak, dan tindakan hanya melalui intonasi suara dan efek suara manual (seperti meremas kertas untuk suara api atau memukul kelapa untuk menirukan suara langkah kuda).
 
-## 2. Zaman Keemasan Radio (Pasca-Kemerdekaan & 1950-an)
+## 2. Zaman Keemasan Radio (Pascakemerdekaan & 1950-an)
 
 Setelah kemerdekaan pada tahun 1945 dan berakhirnya Perang Korea (1950–1953), radio menjadi media massa yang dominan. Masyarakat yang sedang berjuang membangun kembali negara mereka mencari pelarian dalam cerita-cerita melodrama.
 
 ### Fenomena "Cheongsilhongsil"
 
-Pada tahun 1956, drama radio berjudul **"Cheongsilhongsil"** (Benang Biru, Benang Merah) menjadi hit besar. Karya ini menciptakan standar baru bagi elemen-elemen khas K-Drama modern: kisah melodrama cinta yang rumit dan penuh air mata membuat pendengar terikat secara emosional. Pada masa itu, orang-orang rela berkerumun di sekitar satu-satunya radio di desa demi menyimak kelanjutan cerita. Kepopuleran ini juga melahirkan fenomena baru, di mana para pengisi suara (*voice actor*) menjadi selebritas pertama di Korea bahkan sebelum wajah mereka dikenal publik.
+Pada tahun 1956, drama radio berjudul **"Cheongsilhongsil"** (Benang Biru, Benang Merah) menjadi hit besar. Karya ini menciptakan standar baru bagi elemen-elemen khas K-Drama modern: kisah melodrama cinta yang rumit dan penuh air mata membuat pendengar terikat secara emosional. Pada masa itu, orang-orang rela berkerumun di sekitar satu-satunya radio di desa demi menyimak kelanjutan cerita. Kepopuleran ini juga melahirkan fenomena baru, di mana para pengisi suara (*voice actor*) menjadi selebritas di Korea bahkan sebelum wajah mereka dikenal publik.
 
 ## 3. Kelahiran Televisi (1956 - 1959)
 
@@ -33,11 +33,11 @@ Transisi dari suara ke gambar tidak terjadi dalam semalam. Ini adalah proses tek
 
 Pada **12 Mei 1956**, stasiun televisi pertama di Korea, **HLKZ-TV** (Daehan Broadcasting Network), mulai mengudara.
 
-Siaran perdana stasiun ini menampilkan drama televisi pertama Korea berjudul *The Gate of Heaven* (Cheonguk-ui Mun). Karena teknologi perekam video (*video tape recorder* atau VTR) belum tersedia, seluruh produksi harus disiarkan secara langsung (*live*). Sistem siaran langsung tanpa jeda ini menuntut konsentrasi penuh. Jika aktor lupa dialog atau salah mengucapkan kalimat, kesalahan itu langsung tersiar ke seluruh negeri tanpa ada kesempatan untuk diedit. Begitu pula saat properti panggung jatuh atau rusak di tengah adegan; pertunjukan harus terus berjalan apa adanya.
+Siaran perdana stasiun ini menampilkan drama televisi pertama Korea berjudul *The Gate of Heaven* (Cheonguk-ui Mun). Karena teknologi perekam video (*video tape recorder* atau VTR) belum tersedia, seluruh produksi harus disiarkan secara langsung (*live*). Sistem siaran langsung tanpa jeda ini menuntut konsentrasi penuh. Jika aktor lupa dialog atau salah mengucapkan kalimat, kesalahan itu langsung tersiar ke para penonton tanpa ada kesempatan untuk diedit. Begitu pula saat properti panggung jatuh atau rusak di tengah adegan; pertunjukan harus terus berjalan apa adanya.
 
 ### Tantangan Ekonomi
 
-Pada masa itu, televisi adalah barang mewah, di mana harga satu unitnya bisa setara dengan harga rumah kecil. Jumlah unit televisi di seluruh Seoul saat itu diperkirakan hanya sekitar 3.000 unit. Akibatnya, banyak orang menonton televisi di tempat umum atau di rumah tetangga yang lebih kaya. Keterbatasan kepemilikan ini melahirkan tradisi komunal menonton bersama, yang nantinya ikut membentuk eratnya budaya menonton bersama di Korea.
+Pada masa itu, televisi adalah barang mewah, di mana harga satu unitnya bisa setara dengan harga rumah kecil. Jumlah unit televisi di seluruh Seoul saat itu diperkirakan hanya sekitar 300 unit. Akibatnya, banyak orang menonton televisi di tempat umum atau di rumah tetangga yang lebih kaya. Keterbatasan kepemilikan ini melahirkan tradisi komunal menonton bersama, yang nantinya ikut membentuk eratnya budaya menonton bersama di Korea.
 
 Tonggak-tonggak dari siaran radio pertama sampai televisi pertama itu bisa kamu lihat ringkas pada garis waktu berikut.
 
@@ -72,9 +72,9 @@ Meskipun medianya berbeda, banyak unsur drama radio terbawa ke dalam drama telev
 
 ## Mengapa Sejarah Ini Penting Sekarang?
 
-Memahami akar awal ini membantu kita memahami mengapa K-Drama modern sangat ahli dalam dua hal: **Dialog Emosional** dan **Efek Suara (OST)**.
+Memahami akar awal ini membantu kita memahami mengapa K-Drama modern sangat ahli dalam dua hal: **Dialog Emosional** dan **Musik Latar (OST)**.
 
-Dalam industri modern, teknik *cliffhanger* yang sering digunakan penulis skenario papan atas seperti Kim Eun-sook sebenarnya berakar dari sandiwara radio tahun 1950-an. Saat itu, ketegangan di akhir siaran dibuat sedemikian rupa agar pendengar kembali menyalakan radio mereka keesokan harinya. Begitu pula dengan dominansi musik latar atau *original soundtrack* (OST) dramatis dalam drakor saat ini. Kepekaan audio tersebut merupakan bentuk evolusi langsung dari metode era radio, di mana suasana emosional harus dibangun sepenuhnya lewat suara tanpa bantuan elemen visual.
+Dalam industri modern, teknik *cliffhanger* yang sering digunakan penulis skenario papan atas seperti Kim Eun-sook sebenarnya berakar dari sandiwara radio tahun 1950-an. Saat itu, ketegangan di akhir siaran dibuat sedemikian rupa agar pendengar kembali menyalakan radio mereka keesokan harinya. Begitu pula dengan dominasi musik latar atau *original soundtrack* (OST) dramatis dalam drakor saat ini. Kepekaan audio tersebut merupakan bentuk evolusi langsung dari metode era radio, di mana suasana emosional harus dibangun sepenuhnya lewat suara tanpa bantuan elemen visual.
 
 ## Warisan Kreatif Siaran Langsung
 

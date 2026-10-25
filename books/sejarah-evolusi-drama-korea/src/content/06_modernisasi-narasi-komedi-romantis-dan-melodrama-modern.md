@@ -12,7 +12,7 @@ Melodrama modern mulai meninggalkan formula *shinpa* (gaya melodrama tradisional
 
 ### Lahirnya Romantic Comedy "Trendy"
 
-Genre *romantic comedy* menjadi penggerak utama modernisasi ini. Dinamika hubungan antar-karakter di dalamnya sering kali mengikuti sebuah formula atau persamaan daya tarik berikut:
+Genre *romantic comedy* menjadi penggerak utama modernisasi ini. Dinamika hubungan antarkarakter di dalamnya sering kali mengikuti sebuah formula atau persamaan daya tarik berikut:
 
 <div>
 $$
@@ -20,7 +20,7 @@ C_{\text{chemistry}} = (O_{\text{opposites}} + A_{\text{attraction}}) \times T_{
 $$
 </div>
 
-Persamaan ini menggambarkan bagaimana dua karakter dengan kepribadian bertolak belakang $O$ dipertemukan dalam situasi penuh ketegangan $T$, yang pada akhirnya memicu daya tarik kuat $A$ di antara keduanya.
+Persamaan ini menggambarkan bagaimana dua karakter dengan kepribadian bertolak belakang $O$ dipertemukan dalam situasi penuh ketegangan $T$, lalu daya tarik $A$ di antara keduanya pada akhirnya menghasilkan *chemistry*.
 
 > **Insight:** Evolusi cerita ini tidak menghilangkan konflik emosional, tetapi mengemasnya melalui dialog yang cerdas (*witty*) serta situasi sehari-hari yang dekat (*relatable*) dengan kehidupan masyarakat urban.
 
@@ -36,9 +36,9 @@ Pada fase ini, industri drama Korea mulai menerapkan standar visual yang menyeru
 
 Pernahkah kamu memperhatikan bagaimana butiran salju atau kelopak bunga sakura tampak gugur dengan rapi dalam adegan romantis? Efek visual tersebut dirancang secara sengaja melalui perencanaan estetika yang matang untuk membangun kedalaman emosi.
 
-## Karakter sebagai Trendsetter Fashion & Lifestyle
+## Karakter sebagai Trendsetter Fesyen & Gaya Hidup
 
-Dalam drama modern, pakaian yang dikenakan karakter memegang peran penting yang setara dengan naskah. Karakter utama kerap diposisikan sebagai *trendsetter*. Melalui busana, sutradara menyampaikan perkembangan karakter (*storytelling through fashion*), seperti perubahan status sosial yang tercermin dari gaya berpakaian mereka. Pengaruh visual ini memicu fenomena *sold out*, di mana produk fesyen atau kosmetik yang dipakai oleh aktor langsung habis terjual di pasaran sesaat setelah episode ditayangkan.
+Dalam drama modern, pakaian yang dikenakan karakter memegang peran penting yang setara dengan naskah. Karakter utama kerap diposisikan sebagai *trendsetter*. Melalui busana, sutradara menyampaikan perkembangan karakter (*storytelling through fashion*), seperti perubahan status sosial yang tercermin dari gaya berpakaian mereka. Pengaruh visual ini memicu fenomena *sold out*, yakni ketika produk fesyen atau kosmetik yang dipakai oleh aktor langsung habis terjual di pasaran sesaat setelah episode ditayangkan.
 
 Sebagai ilustrasi, dalam drama yang menampilkan sosok CEO muda, setelan jas *custom-fit* tidak sekadar memamerkan kekayaan. Pilihan pakaian tersebut secara visual membangun wibawa, otoritas, dan ketegasan karakter tanpa memerlukan dialog penjelasan yang panjang lebar.
 
@@ -65,7 +65,7 @@ Untuk menghasilkan tampilan kulit yang cerah (*glowing*) khas aktor Korea, kamu 
 
 ## Dampak terhadap Industri Fesyen dan Pariwisata
 
-Transformasi standar estetika ini secara langsung mengangkat posisi Korea Selatan sebagai salah satu kiblat fesyen dan kecantikan global. Di sektor pariwisata, lokasi syuting yang ikonik seperti Pulau Jeju atau Namsan Tower menjadi destinasi liburan. Sementara itu dalam hal ekspor budaya, berbagai negara mulai mengadopsi gaya produksi drama Korea yang mengutamakan kualitas visual dan kehalusan emosi dalam bercerita.
+Transformasi standar estetika ini secara langsung mengangkat posisi Korea Selatan sebagai salah satu kiblat fesyen dan kecantikan global. Di sektor pariwisata, lokasi syuting yang ikonik seperti Pulau Jeju atau Namsan Tower menjadi destinasi liburan. Sementara itu, dalam hal ekspor budaya, berbagai negara mulai mengadopsi gaya produksi drama Korea yang mengutamakan kualitas visual dan kehalusan emosi dalam bercerita.
 
 Modernisasi narasi ini membuktikan bahwa genre yang sering dianggap ringan seperti *romantic comedy* mampu disajikan dengan kualitas produksi setara film *blockbuster*. Keunggulan estetika inilah yang membuat drama Korea mudah diterima oleh penonton dari berbagai latar belakang sosial di seluruh dunia.
 

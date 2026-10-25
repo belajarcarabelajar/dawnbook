@@ -35,7 +35,7 @@ Jika *Winter Sonata* menarik penonton melalui romansa, *Jewel in the Palace* (Da
 
 ### Jangkauan di Luar Asia Timur
 
-Berbeda dengan *Winter Sonata* yang berfokus di Asia Timur, *Dae Jang Geum* populer di lebih dari 90 negara, termasuk Asia Tenggara (Indonesia, Vietnam) hingga Timur Tengah (Iran). Di Iran, drama ini mencatat rating di atas 80%.
+Berbeda dengan *Winter Sonata* yang berfokus di Asia Timur, *Jewel in the Palace* populer di lebih dari 90 negara, termasuk Asia Tenggara (Indonesia, Vietnam) hingga Timur Tengah (Iran). Di Iran, drama ini mencatat rating di atas 80%.
 
 ### Dampak Budaya
 
@@ -55,12 +55,12 @@ E(t) = P \cdot (1 + r)^t
 $$
 </div>
 
-Di mana:
+Keterangan:
 
 - $P$ = Nilai awal ekspor (awal 2000-an)
 - $r$ = Laju pertumbuhan tahunan yang meningkat karena pengaruh *Hallyu* di Asia.
 
-Secara riil, pendapatan pariwisata Korea Selatan melonjak dari sekitar 5,3 miliar USD pada tahun 2003 menjadi lebih dari 10 miliar USD dalam kurun waktu kurang dari satu dekade, didorong langsung oleh *K-drama tourism*.
+Secara riil, pendapatan pariwisata Korea Selatan melonjak dari sekitar 5,3 miliar USD pada tahun 2003 menjadi lebih dari 10 miliar USD dalam kurun waktu kurang dari satu dekade, salah satunya didorong oleh *K-drama tourism*.
 
 ## 5. Penerimaan di Indonesia dan Asia Tenggara
 
@@ -75,7 +75,7 @@ Pengetahuan tentang Gelombang Hallyu Pertama ini lebih dari sekadar sejarah hibu
 
 **Skenario Penggunaan:** Bayangkan kamu adalah seorang konsultan pemasaran atau diplomat. Kamu belajar dari Hallyu bahwa:
 
-1. **Produk Budaya Sebagai Katalis Ekspor**: Drama yang sukses turut mendongkrak penjualan produk lain, mulai dari kosmetik, mi instan, hingga ponsel pintar yang dipakai para pemeran.
+1. **Produk Budaya sebagai Katalis Ekspor**: Drama yang sukses turut mendongkrak penjualan produk lain, mulai dari kosmetik, mi instan, hingga ponsel pintar yang dipakai para pemeran.
 2. Keberhasilan membangun **nation branding** baru, di mana Korea Selatan mengubah citranya dari negara pascaperang menjadi pusat kebudayaan modern yang estetik.
 
 ### Contoh Praktis

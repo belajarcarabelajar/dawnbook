@@ -14,7 +14,7 @@ Tahun 2016 adalah tahun penting ketika Netflix secara resmi meluncurkan layanann
 
 ### 2. Longgarnya Sensor dan Tabu
 
-Salah satu perubahan paling mencolok adalah kebebasan konten. Televisi publik di Korea (KBS, MBC, SBS) memiliki aturan sensor yang ketat dari *Korea Communications Standards Commission* (KCSC).
+Salah satu perubahan paling mencolok adalah kebebasan konten. Televisi konvensional di Korea (KBS, MBC, SBS) memiliki aturan sensor yang ketat dari *Korea Communications Standards Commission* (KCSC).
 
 Aturan ketat di stasiun TV konvensional sering kali menyensor gambar tajam seperti pisau (sensor buram), membatasi adegan kekerasan, dan menghaluskan isu sosial sensitif. Di sisi lain, platform OTT melompati batasan tersebut dengan menayangkan drama rating dewasa (19+) yang mengeksplorasi sisi gelap manusia secara eksplisit.
 

@@ -32,7 +32,7 @@ Peningkatan pada aspek **Aksesibilitas Digital** (seperti kecepatan internet dan
 
 Drama ini melampaui kisah romansa biasa. Ia menjadi titik balik penting saat K-drama menunjukkan pengaruhnya terhadap gaya hidup global.
 
-Ada beberapa faktor utama yang memicu kepopulerannya. Pertama, perpaduan genre (*genre mash-up*) yang berani dengan mencampurkan latar sejarah era Joseon, fiksi ilmiah bertema alien, dan komedi romantis modern. Kedua, lahirnya tren budaya baru seperti *chimaek* (paduan *chicken and beer*) yang dipicu oleh karakter Cheon Song-yi, yang langsung populer di berbagai negara, terutama China. Faktor terakhir adalah dampak langsung pada ekonomi retail, seperti produk lipstik yang dikenakan aktris Jun Ji-hyun yang habis diborong secara global hanya dalam hitungan hari.
+Ada beberapa faktor utama yang memicu kepopulerannya. Pertama, perpaduan genre (*genre mash-up*) yang berani dengan mencampurkan latar sejarah era Joseon, fiksi ilmiah bertema alien, dan komedi romantis modern. Kedua, lahirnya tren budaya baru seperti *chimaek* (paduan *chicken and beer*) yang dipicu oleh karakter Cheon Song-yi, yang langsung populer di berbagai negara, terutama China. Faktor terakhir adalah dampak langsung pada ekonomi ritel, seperti produk lipstik yang dikenakan aktris Jun Ji-hyun yang habis diborong secara global hanya dalam hitungan hari.
 
 Fenomena ini menunjukkan bagaimana *soft power* bekerja secara nyata dalam kehidupan sehari-hari, ketika keputusan konsumsi penonton terpengaruh langsung oleh apa yang mereka lihat di layar kaca.
 
@@ -40,7 +40,7 @@ Fenomena ini menunjukkan bagaimana *soft power* bekerja secara nyata dalam kehid
 
 Jika *My Love from the Star* memengaruhi tren gaya hidup, maka *Descendants of the Sun* (DOTS) mengubah sistem produksinya.
 
-### Sistem Pre-production (*Ban-Sajeon*)
+### Sistem Pre-production (*Sajeon Jejak*)
 
 Tradisi produksi K-drama biasanya mengandalkan metode *live-shooting* (syuting kejar tayang), yang memungkinkan tim penulis mengubah naskah berdasarkan reaksi berkala dari penonton. Namun, DOTS memilih jalur berbeda dengan merampungkan seluruh proses produksi sebelum drama resmi ditayangkan (*pre-production*).
 
@@ -58,7 +58,7 @@ Tagar di media sosial berfungsi layaknya daya tarik instan yang memicu rasa pena
 
 Dampak kesuksesan era 2010-an meluas jauh melampaui angka kepenontonan hingga merambah ke sektor riil perekonomian Korea Selatan.
 
-Dampak pariwisata terasa ketika lokasi syuting seperti Pantai Zakynthos di Yunani (Descendants of the Sun) dan Petite France di Korea Selatan (My Love from the Star) mendadak ramai dikunjungi turis asing. Selain itu, ekspor produk kecantikan (*K-beauty*) melonjak pesat karena penonton global berambisi memiliki kulit sehat bersinar (*glowing*) layaknya para pemeran drama. Dari sudut pandang geopolitik, drama-drama ini bahkan menjadi instrumen diplomasi budaya (*soft power*) yang jauh lebih efektif dibandingkan kampanye formal pemerintah.
+Dampak pariwisata terasa ketika lokasi syuting seperti Pantai Navagio di Pulau Zakynthos, Yunani (Descendants of the Sun) dan Petite France di Korea Selatan (My Love from the Star) mendadak ramai dikunjungi turis asing. Selain itu, ekspor produk kecantikan (*K-beauty*) melonjak pesat karena penonton global berambisi memiliki kulit sehat bersinar (*glowing*) layaknya para pemeran drama. Dari sudut pandang geopolitik, drama-drama ini bahkan menjadi instrumen diplomasi budaya (*soft power*) yang jauh lebih efektif dibandingkan kampanye formal pemerintah.
 
 > "Di era 2010-an, K-drama telah bergeser dari sekadar hiburan layar kaca menjadi bagian dari identitas global bagi para penggemarnya."
 
