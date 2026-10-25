@@ -66,7 +66,7 @@ $$
 
 ### 5. Simetri dan Geometri Kristal Es Heksagonal
 
-Molekul air ($\text{H}_2\text{O}$) membentuk ikatan hidrogen yang mencapai tingkat kestabilan termodinamika maksimum dalam struktur **kisi heksagonal** (simetri lipat enam). Karakteristik kristalografi ini menyebabkan kepingan salju dan kristal es alami selalu tumbuh berkembang dengan cabang berorientasi enam sisi.
+Molekul air ($\text{H}_2\text{O}$) membentuk ikatan hidrogen yang mencapai tingkat kestabilan termodinamika maksimum dalam struktur **kisi heksagonal** (simetri lipat enam). Karakteristik kristalografi ini menyebabkan kepingan salju dan kristal es alami biasanya tumbuh berkembang dengan cabang berorientasi enam sisi.
 
 > **Catatan Kristalografi:** Jika ditemukan penggambaran kepingan salju yang memiliki 5 atau 8 cabang pada ilustrasi dekoratif, hal tersebut merupakan ketidaksesuaian dengan prinsip fisika atmosfer. Fisika ikatan molekul air menyebabkan pertumbuhan kristal es di alam pada umumnya mempertahankan simetri heksagonal.
 

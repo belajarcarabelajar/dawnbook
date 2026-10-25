@@ -6,7 +6,7 @@ Dalam bab ini, kita akan mempelajari partikel mikroskopis yang disebut **Aerosol
 
 ### 1. Apa itu Aerosol Atmosfer?
 
-Secara teknis, **aerosol** adalah suspensi partikel padat atau cair dalam medium gas (udara). Di atmosfer, aerosol bukan hanya polusi kendaraan, melainkan komponen alami dan esensial dari sistem cuaca bumi.
+Secara teknis, **aerosol** adalah suspensi partikel padat atau cair dalam medium gas (udara). Di atmosfer, aerosol bukan hanya polusi kendaraan, melainkan komponen alami dan esensial dari sistem cuaca Bumi.
 
 #### Klasifikasi Berdasarkan Sumber
 
@@ -101,4 +101,4 @@ Upaya modifikasi cuaca dilakukan dengan menembakkan **Perak Iodida ($\text{AgI}$
 - **Sifat Higroskopis** dan **Ukuran Partikel** adalah dua faktor penentu utama efektivitas aerosol sebagai $\text{CCN}$.
 - **Aktivitas Manusia** melalui emisi polutan dapat mengubah mikrostruktur awan, meningkatkan albedo awan tetapi dapat menunda proses presipitasi alami.
 
-> **Kesimpulan:** Awan terbentuk dari interaksi antara uap air yang mendingin dan partikel aerosol mikroskopis di atmosfer. Tanpa adanya aerosol sebagai inti kondensasi, presipitasi dalam siklus hidrologi bumi tidak dapat berlangsung secara efisien.
+> **Kesimpulan:** Awan terbentuk dari interaksi antara uap air yang mendingin dan partikel aerosol mikroskopis di atmosfer. Tanpa adanya aerosol sebagai inti kondensasi, presipitasi dalam siklus hidrologi Bumi tidak dapat berlangsung secara efisien.

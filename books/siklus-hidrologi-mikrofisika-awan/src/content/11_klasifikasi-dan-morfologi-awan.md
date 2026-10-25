@@ -13,7 +13,7 @@ Sebelum mengelompokkan awan, pemelajar perlu memahami hukum dasar yang membentuk
 
 > **Wawasan Penting:** Morfologi awan merupakan petunjuk visual kondisi stabilitas atmosfer. Awan *Cumulus* menandakan keberadaan daya angkat (*lift*) konvektif, sedangkan *Stratus* menunjukkan kondisi stagnasi atau keberadaan lapisan udara yang stabil.
 
-### 2. Sistem Klasifikasi Utama (Luke Howard)
+### 2. Sistem Klasifikasi Utama
 
 Pada tahun 1802, Luke Howard mengusulkan sistem klasifikasi awan berbasis bahasa Latin yang masih digunakan hingga saat ini. Klasifikasi tersebut didasarkan pada bentuk pertumbuhan awan, sedangkan pengelompokan menurut ketinggian (lapisan atmosfer) baru ditambahkan kemudian.
 
@@ -37,7 +37,7 @@ Awan pada kelompok ini menggunakan awalan *Alto*. Di lapisan ini, sering ditemuk
 Kelompok ini tersusun hampir sepenuhnya oleh tetesan air cair. Proses mikrofisika utamanya meliputi nukleasi heterogen dan kondensasi difusional uap air.
 
 1. ***Stratus* (St):** Lapisan abu-abu seragam menyerupai kabut yang melayang di atas tanah. Awan ini sering memicu gerimis (*drizzle*) melalui mekanisme tabrakan dan penyatuan (*collision-coalescence*) tingkat rendah.
-2. ***Stratocumulus* (Sc):** Gumpalan awan rendah yang membentang luas dengan celah langit di antara elemen gumpalannya. Awan ini berperan dalam keseimbangan radiasi bumi karena kemampuan albedonya memantulkan radiasi gelombang pendek matahari.
+2. ***Stratocumulus* (Sc):** Gumpalan awan rendah yang membentang luas dengan celah langit di antara elemen gumpalannya. Awan ini berperan dalam keseimbangan radiasi Bumi karena kemampuan albedonya memantulkan radiasi gelombang pendek matahari.
 3. ***Nimbostratus* (Ns):** Awan hujan berwarna gelap dan tebal (*nimbus* berarti hujan). Secara mikrofisika, awan ini memiliki kandungan air tersuspensi tinggi dengan ukuran tetesan yang cukup besar untuk jatuh sebagai presipitasi kontinu.
 
 ### 3. Awan dengan Pertumbuhan Vertikal

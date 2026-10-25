@@ -15,7 +15,7 @@ Pada lapisan awan dengan rentang temperatur antara $0^\circ\text{C}$ hingga $-40
 1. **Tetesan air superdingin** dengan konsentrasi jumlah yang sangat tinggi.
 2. **Kristal es** dengan konsentrasi jumlah yang relatif jauh lebih rendah.
 
-> **Pertanyaan Analisis:** Mengapa populasi kristal es jauh lebih sedikit dibandingkan tetesan air superdingin pada rentang temperatur ini? Hal ini terjadi karena atmosfer bumi secara alami memiliki konsentrasi Inti Kondensasi Awan ($\text{CCN}$) yang jauh lebih melimpah dibandingkan Inti Es ($\text{IN}$) yang efektif pada temperatur hangat di atas $-40^\circ\text{C}$.
+> **Pertanyaan Analisis:** Mengapa populasi kristal es jauh lebih sedikit dibandingkan tetesan air superdingin pada rentang temperatur ini? Hal ini terjadi karena atmosfer Bumi secara alami memiliki konsentrasi Inti Kondensasi Awan ($\text{CCN}$) yang jauh lebih melimpah dibandingkan Inti Es ($\text{IN}$) yang efektif pada temperatur hangat di atas $-40^\circ\text{C}$.
 
 ### Perbedaan Tekanan Uap Jenuh
 
