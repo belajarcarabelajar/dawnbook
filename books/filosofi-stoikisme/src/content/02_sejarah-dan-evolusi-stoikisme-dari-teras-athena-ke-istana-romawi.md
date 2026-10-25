@@ -10,7 +10,7 @@ Bayangkan kamu adalah seorang pedagang kain ungu yang kaya raya. Tiba-tiba, kapa
 
 Inilah yang terjadi pada **Zeno dari Citium**. Alih-alih meratap, Zeno pergi ke sebuah toko buku di Athena, membaca tentang Socrates, dan bertanya kepada penjual buku di mana dia bisa menemukan orang-orang hebat seperti itu.
 
-Zeno kemudian belajar di bawah asuhan berbagai guru filsafat (seperti kaum Sinis), namun ia akhirnya mengembangkan pemikirannya sendiri. Ia mulai mengajar di sebuah tempat umum yang disebut **Stoa Poikile** (Teras Berwarna).
+Zeno kemudian belajar di bawah asuhan berbagai guru filsafat (seperti kaum Sinis), tetapi ia akhirnya mengembangkan pemikirannya sendiri. Ia mulai mengajar di sebuah tempat umum yang disebut **Stoa Poikile** (Teras Berwarna).
 
 > **Pelajaran Penting:** Nama "Stoikisme" berasal dari kata *Stoa* (teras/serambi). Berbeda dengan sekolah filsafat lain yang tertutup, Stoikisme diajarkan di ruang publik. Ini menunjukkan bahwa filsafat ini adalah untuk **semua orang**, bukan hanya kaum elit akademis.
 

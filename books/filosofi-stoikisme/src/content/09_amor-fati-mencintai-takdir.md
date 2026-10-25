@@ -1,6 +1,6 @@
 ## Amor Fati
 
-Pernahkah kamu berada dalam situasi di mana segalanya tampak berjalan berlawanan dengan rencana kamu? Ban mobil bocor saat hendak berangkat ke rapat penting, hujan turun tepat saat kamu mengadakan acara *outdoor*, atau kegagalan proyek yang sudah dikerjakan berbulan-bulan. Reaksi spontan kita biasanya adalah mengeluh, marah, atau merasa menjadi korban keadaan.
+Pernahkah kamu berada dalam situasi ketika segalanya tampak berjalan berlawanan dengan rencana kamu? Ban mobil bocor saat hendak berangkat ke rapat penting, hujan turun tepat saat kamu mengadakan acara *outdoor*, atau kegagalan proyek yang sudah dikerjakan berbulan-bulan. Reaksi spontan kita biasanya adalah mengeluh, marah, atau merasa menjadi korban keadaan.
 
 Namun, para Stoik menawarkan perspektif lain: **Amor Fati**.
 

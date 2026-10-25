@@ -12,7 +12,7 @@ Memento Mori bukanlah tentang ketakutan, melainkan tentang **kejujuran intelektu
 
 ### Mengapa Ini Penting?
 
-Dalam Stoikisme, kematian dikategorikan sebagai *indifferent* (netral) secara moral, namun kesadaran akan kematian adalah katalisator untuk kebajikan. Tanpa batas akhir, pilihan kita tidak memiliki bobot. Jika hidup abadi, tidak ada urgensi untuk menjadi orang baik *hari ini*.
+Dalam Stoikisme, kematian dikategorikan sebagai *indifferent* (netral) secara moral, tetapi kesadaran akan kematian adalah katalisator untuk kebajikan. Tanpa batas akhir, pilihan kita tidak memiliki bobot. Jika hidup abadi, tidak ada urgensi untuk menjadi orang baik *hari ini*.
 
 ## 2\. Menghitung Sisa Waktu
 
@@ -34,7 +34,7 @@ $$
 
 Jika kamu berusia 30 tahun: $W\_{\text{sisa}} = (80 - 30) \times \frac{2}{3} = 33.3 \text{ tahun}$
 
-Angka ini terlihat banyak, namun jika kita memasukkan faktor kesehatan dan energi yang menurun seiring usia, waktu untuk benar-benar "hidup" dengan kapasitas penuh terbatas.
+Angka ini terlihat banyak, tetapi jika kita memasukkan faktor kesehatan dan energi yang menurun seiring usia, waktu untuk benar-benar "hidup" dengan kapasitas penuh terbatas.
 
 ## 3\. Tamu di Jamuan Makan
 

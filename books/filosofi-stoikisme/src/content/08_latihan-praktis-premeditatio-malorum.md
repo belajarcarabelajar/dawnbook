@@ -6,7 +6,7 @@ Bagi kebanyakan orang, ini adalah resep untuk kemarahan dan frustrasi. Namun bag
 
 ## Apa itu Premeditatio Malorum?
 
-Secara etimologi, *Premeditatio Malorum* berasal dari bahasa Latin yang berarti **"pra-meditasi atas kemalangan"**. Ini adalah latihan mental di mana kita secara sengaja membayangkan rintangan, kesulitan, atau tragedi yang mungkin terjadi di masa depan.
+Secara etimologi, *Premeditatio Malorum* berasal dari bahasa Latin yang berarti **"pra-meditasi atas kemalangan"**. Ini adalah latihan mental ketika kita secara sengaja membayangkan rintangan, kesulitan, atau tragedi yang mungkin terjadi di masa depan.
 
 **Latihan Evakuasi Kebakaran**
 

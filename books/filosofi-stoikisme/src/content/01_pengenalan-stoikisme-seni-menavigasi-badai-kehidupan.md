@@ -6,7 +6,7 @@ Stoikisme bukanlah sekadar teori akademik yang membosankan di dalam buku-buku tu
 
 ## Apa Itu Stoikisme?
 
-Secara etimologis, Stoikisme berasal dari kata Yunani **"Stoa Poikile"** (Serambi Berhias), tempat di mana pendiri aliran ini, Zeno dari Citium, pertama kali mengajar di Athena pada awal abad ke-3 SM. Berbeda dengan sekolah filsafat lain yang memiliki gedung tertutup, kaum Stoik mengajar di ruang publik yang bisa diakses oleh siapa saja.
+Secara etimologis, Stoikisme berasal dari kata Yunani **"Stoa Poikile"** (Serambi Berhias), tempat pendiri aliran ini, Zeno dari Citium, pertama kali mengajar di Athena pada awal abad ke-3 SM. Berbeda dengan sekolah filsafat lain yang memiliki gedung tertutup, kaum Stoik mengajar di ruang publik yang bisa diakses oleh siapa saja.
 
 **Definisi Inti:** Stoikisme adalah filosofi praktis yang mengajarkan bahwa kebahagiaan sejati tidak bergantung pada keadaan eksternal (kekayaan, ketenaran, atau kesehatan), melainkan pada **kualitas karakter kita** dan cara kita memproses setiap kejadian di dunia ini.
 
@@ -31,7 +31,7 @@ Dua konsep utama yang menjadi tujuan akhir dari perjalanan seorang Stoik adalah 
 
 ### 1\. Eudaimonia (Kemakmuran Jiwa)
 
-Sering diterjemahkan sebagai "kebahagiaan", namun makna aslinya lebih dalam: **berada dalam hubungan baik dengan batin yang luhur**. Ini bukan tentang perasaan senang yang sesaat (seperti makan es krim), melainkan kepuasan mendalam karena kita hidup sesuai dengan potensi terbaik kita sebagai manusia rasional.
+Sering diterjemahkan sebagai "kebahagiaan", tetapi makna aslinya lebih dalam: **berada dalam hubungan baik dengan batin yang luhur**. Ini bukan tentang perasaan senang yang sesaat (seperti makan es krim), melainkan kepuasan mendalam karena kita hidup sesuai dengan potensi terbaik kita sebagai manusia rasional.
 
 ### 2\. Ataraxia (Ketenteraman)
 
@@ -64,7 +64,7 @@ Misalnya, kamu terjebak macet total saat mau rapat penting. Kemacetan itu berada
 
 Stoikisme tidak meminta kamu untuk membuang harta atau menjadi pertapa. Sebaliknya, ia mengajarkan kamu untuk:
 
-1. **Menghadapi Ketidakpastian:** Di era di mana algoritma dan perubahan global tidak bisa diprediksi, Stoikisme memberikan stabilitas internal.
+1. **Menghadapi Ketidakpastian:** Di era ketika algoritma dan perubahan global tidak bisa diprediksi, Stoikisme memberikan stabilitas internal.
 2. **Mengurangi Kecemasan Sosial:** Kita sering menderita karena memikirkan pendapat orang lain. Stoikisme mengajarkan bahwa reputasi adalah "hal yang tidak penting secara moral" (*indifferent*).
 3. **Fokus pada Efisiensi:** Daripada membuang energi mengeluh tentang hujan, seorang Stoik segera mengambil payung atau menikmati rintik airnya.
 

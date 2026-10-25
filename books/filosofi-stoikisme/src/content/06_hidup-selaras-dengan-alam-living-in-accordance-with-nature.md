@@ -45,7 +45,7 @@ Salah satu analogi paling terkenal dari tokoh Stoik awal (Zeno atau Chrysippus) 
 2. Tali melambangkan keterikatan kita pada takdir tersebut.
 3. Anjing tersebut memiliki dua pilihan:
 	- **Pilihan A:** Berlari mengikuti gerobak dengan sukarela. Ia tetap ditarik, tetapi ia bergerak dengan anggun dan tanpa rasa sakit.
-		- **Pilihan B:** Melawan, menggonggong, dan mencoba diam di tempat. Hasilnya? Ia tetap akan terseret oleh gerobak tersebut, namun dengan luka-luka dan penderitaan.
+		- **Pilihan B:** Melawan, menggonggong, dan mencoba diam di tempat. Hasilnya? Ia tetap akan terseret oleh gerobak tersebut, tetapi dengan luka-luka dan penderitaan.
 
 *Dalam hidup kamu, momen apa yang terasa seperti kamu sedang "menolak terseret gerobak" dan akhirnya menyakiti diri sendiri?*
 
@@ -101,6 +101,6 @@ Misalnya, hujan deras turun saat kamu akan piknik. Hujan termasuk kategori unive
 
 ## Ringkasan untuk Diingat
 
-> **Poin Utama:** Hidup selaras dengan alam bukanlah kepasifan. Ini adalah **penerimaan aktif**. Kita menerima apa yang terjadi di dunia luar sebagai bagian dari rencana besar yang rasional (*Logos*), namun kita tetap aktif menggunakan nalar kita untuk bertindak dengan bijak, adil, dan berani di dalam dunia tersebut.
+> **Poin Utama:** Hidup selaras dengan alam bukanlah kepasifan. Ini adalah **penerimaan aktif**. Kita menerima apa yang terjadi di dunia luar sebagai bagian dari rencana besar yang rasional (*Logos*), tetapi kita tetap aktif menggunakan nalar kita untuk bertindak dengan bijak, adil, dan berani di dalam dunia tersebut.
 
 **Pikirkan ini sebagai tantangan:** Hari ini, ketika sesuatu tidak berjalan sesuai rencana kamu, berhentilah sejenak. Katakan pada diri sendiri: *"Ini adalah bagian dari jalannya alam semesta. Bagaimana saya bisa menggunakan nalar saya untuk meresponsnya dengan harmonis?"*
