@@ -34,7 +34,7 @@ Kehidupan pribadi, termasuk hobi, dinamika hubungan, dan cara menghabiskan waktu
 
 #### 1\. Hobi dan Minat
 
-Hobi adalah saluran ekspresi Ikigai yang otentik. Sediakan waktu khusus secara sengaja untuk aktivitas yang kamu "Cintai" dan "Kuasai" agar energimu terisi kembali. Pertimbangkan juga untuk menghubungkan minat tersebut dengan "Apa yang Dibutuhkan Dunia." Kegiatan seperti membuat kerajinan, berkebun, atau menulis bisa diarahkan untuk donasi atau berbagi pengetahuan. Jangan ragu bereksplorasi; hal-hal baru sering kali menyingkap sisi Ikigai yang belum terpetakan.
+Hobi adalah saluran ekspresi Ikigai yang autentik. Sediakan waktu khusus secara sengaja untuk aktivitas yang kamu "Cintai" dan "Kuasai" agar energimu terisi kembali. Pertimbangkan juga untuk menghubungkan minat tersebut dengan "Apa yang Dibutuhkan Dunia." Kegiatan seperti membuat kerajinan, berkebun, atau menulis bisa diarahkan untuk donasi atau berbagi pengetahuan. Jangan ragu bereksplorasi; hal-hal baru sering kali menyingkap sisi Ikigai yang belum terpetakan.
 
 #### 2\. Hubungan dan Kontribusi Sosial
 

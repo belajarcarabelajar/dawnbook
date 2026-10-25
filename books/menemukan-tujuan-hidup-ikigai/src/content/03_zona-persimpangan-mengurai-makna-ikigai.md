@@ -14,7 +14,7 @@ Mari kita bedah persimpangan-persimpangan yang muncul dari gabungan dua atau tig
 
 Ketika dua pilar utama bertemu, area yang tercipta memiliki karakteristik unik meski belum mencapai tahap Ikigai sepenuhnya.
 
-Area ***Passion*** terbentuk ketika kamu menggabungkan hal yang kamu cintai dengan hal yang kamu kuasai. Di zona ini, kamu menemukan kesenangan sekaligus keunggulan. Aktivitasnya sering kali membawa kamu ke dalam kondisi *flow*, di mana waktu berlalu tanpa terasa dan kamu merasa sepenuhnya tenggelam dalam pekerjaan. Seorang pelukis dengan bakat alami, misalnya, bisa menghabiskan waktu berjam-jam di studio tanpa merasa lelah.
+Area ***Passion*** terbentuk ketika kamu menggabungkan hal yang kamu cintai dengan hal yang kamu kuasai. Di zona ini, kamu menemukan kesenangan sekaligus keunggulan. Aktivitasnya sering kali membawa kamu ke dalam kondisi *flow*, ketika waktu berlalu tanpa terasa dan kamu merasa sepenuhnya tenggelam dalam pekerjaan. Seorang pelukis dengan bakat alami, misalnya, bisa menghabiskan waktu berjam-jam di studio tanpa merasa lelah.
 
 Di sisi lain, ada **Misi** yang merupakan perpaduan antara apa yang kamu cintai dan apa yang dibutuhkan dunia. Zona ini berisi kegiatan yang kamu nikmati sekaligus memberikan dorongan batin karena bermanfaat bagi orang lain atau lingkungan. Contoh nyatanya adalah seorang aktivis yang mendedikasikan hidupnya untuk melestarikan alam karena peduli pada nasib planet ini.
 
@@ -28,7 +28,7 @@ Hanya berfokus pada salah satu irisan ini akan memunculkan keterbatasan. Memilik
 
 Ketika tiga pilar mulai menyatu, kita semakin dekat dengan inti Ikigai, meskipun masih ada satu elemen yang belum terisi.
 
-Jika pekerjaan itu kamu cintai, kamu kuasai, dan dunia membutuhkannya, kamu akan mendapatkan **Misi yang Menginspirasi**. Kamu merasa terdorong oleh tujuan yang lebih besar, namun aktivitas tersebut mungkin belum cukup menghidupi secara finansial. Misalnya seorang seniman mural yang gigih menyebarkan pesan sosial di komunitasnya, tapi masih kesulitan mencari nafkah.
+Jika pekerjaan itu kamu cintai, kamu kuasai, dan dunia membutuhkannya, kamu akan mendapatkan **Misi yang Menginspirasi**. Kamu merasa terdorong oleh tujuan yang lebih besar, tetapi aktivitas tersebut mungkin belum cukup menghidupi secara finansial. Misalnya seorang seniman mural yang gigih menyebarkan pesan sosial di komunitasnya, tapi masih kesulitan mencari nafkah.
 
 Apabila aktivitasnya mencakup hal yang kamu cintai, dibutuhkan dunia, dan mendatangkan uang, itu menjadi **Panggilan Hidup yang Bergairah**. Kamu dibayar untuk membantu mengatasi masalah nyata dan menyukai pekerjaan tersebut, tetapi ada potensi atau keahlian terbaikmu yang masih terpendam dan tidak dimanfaatkan. Konsultan keberlanjutan yang ramah lingkungan mungkin dibayar mahal dan mencintai dampaknya, tapi ia belum menggunakan bakat analitis utamanya.
 
