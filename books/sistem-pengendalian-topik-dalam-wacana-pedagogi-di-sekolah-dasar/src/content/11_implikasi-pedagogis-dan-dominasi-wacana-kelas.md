@@ -8,8 +8,8 @@ Jika pola ini terus dibiarkan, kelas hanya menjadi tempat guru berbicara. Siswa 
 
 Berdasarkan analisis interaksi pembelajaran dalam penelitian itu, ada tiga kendala utama dalam wacana kelas konvensional:
 
-1. **Pengulangan Mekanis tanpa Clarification**: Guru kerap mengulang ucapan siswa sekadar untuk mengisi transisi antar-topik, bukan untuk memperdalam pemahaman.
-2. **Umpan Balik Ambigu**: Ketika siswa memberikan jawaban yang bervariasi, guru kerap membiarkan tanpa konfirmasi atau justru membenarkan semua opsi yang saling bertolak belakang. Hal ini memicu kebingungan konsep pada anak.
+1. **Pengulangan Mekanis tanpa Klarifikasi**: Guru kerap mengulang ucapan siswa sekadar untuk mengisi transisi antartopik, bukan untuk memperdalam pemahaman.
+2. **Umpan Balik Ambigu**: Ketika siswa memberikan jawaban yang bervariasi, guru kerap membiarkannya tanpa konfirmasi atau justru membenarkan semua opsi yang saling bertolak belakang. Hal ini memicu kebingungan konsep pada anak.
 3. **Minimnya Penguatan Positif**: Porsi pengungkapan apresiasi atau pujian rendah (sekitar 2% dalam temuan Marliana, 2017). Padahal, anak usia sekolah dasar membutuhkan validasi emosional dan kognitif agar percaya diri dalam berpendapat.
 
 > **Catatan Pedagogis**: Pengendalian topik di dalam kelas hendaknya tidak dijadikan alat untuk membatasi ruang bicara anak, melainkan cara untuk menuntun siswa bernalar secara mandiri.
@@ -21,7 +21,7 @@ Untuk menghadirkan perubahan yang nyata, kamu dapat membandingkan dua pendekatan
 | Aspek Interaksi | Pola Konvensional (Teacher-Centered) | Pola Dialogis (Student-Centered) |
 | :--- | :--- | :--- |
 | **Inisiasi Topik** | Didominasi penuh oleh guru lewat pertanyaan tertutup. | Dibuka bersama lewat pertanyaan pemantik dan respons atas gagasan siswa. |
-| **Pola Pertukaran** | Struktur kaku IRF (Initiation - Response - Feedback). | Diskusi terbuka multi-arah antar-siswa. |
+| **Pola Pertukaran** | Struktur kaku IRF (Initiation - Response - Feedback). | Diskusi terbuka multiarah antarsiswa. |
 | **Respons atas Jawaban** | Pengulangan kata secara harfiah tanpa pembobotan. | Elaborasi jawaban, pengujian alasan, dan dorongan eksplorasi lebih lanjut. |
 | **Penanganan Kesalahan** | Dibiarkan menggantung atau langsung disalahkan tanpa dialog. | Dijadikan bahan diskusi bersama untuk menemukan pemahaman yang tepat. |
 | **Pemberian Pujian** | Sangat jarang, fokus pada penyelesaian materi. | Konsisten dan spesifik atas keberanian bernalar siswa. |
@@ -37,10 +37,10 @@ Saat siswa menjawab suatu pertanyaan, hindari mengulang kata tersebut begitu saj
 Apabila muncul beragam jawaban dari beberapa siswa, jangan biarkan percakapan berlalu tanpa kejelasan. Fasilitasi siswa untuk membandingkan jawaban-jawaban tersebut hingga menemukan bukti yang tepat, bukan membiarkan mereka bingung dengan jawaban yang saling kontradiktif.
 
 #### 3. Apresiasi Proses Bernalar Siswa
-Berikan penguatan positif yang jelas. Pujian tidak perlu berlebihan, namun harus spesifik pada usaha dan penalaran anak. Ucapan seperti *"Pengamatan yang sangat teliti!"* memberikan dampak psikologis yang jauh lebih kuat dibanding sekadar mengulang jawaban anak.
+Berikan penguatan positif yang jelas. Pujian tidak perlu berlebihan, tetapi harus spesifik pada usaha dan penalaran anak. Ucapan seperti *"Pengamatan yang sangat teliti!"* memberikan dampak psikologis yang jauh lebih kuat dibanding sekadar mengulang jawaban anak.
 
 #### 4. Buka Ruang bagi Siswa untuk Mengarahkan Topik
-Beri kesempatan kepada siswa untuk mengajukan pertanyaan di tengah pembelajaran. Biarkan rasa ingin tahu mereka membuka sub-topik baru yang relevan dengan materi, sehingga rasio pengendalian topik tidak lagi sepenuhnya milik guru.
+Beri kesempatan kepada siswa untuk mengajukan pertanyaan di tengah pembelajaran. Biarkan rasa ingin tahu mereka membuka subtopik baru yang relevan dengan materi, sehingga rasio pengendalian topik tidak lagi sepenuhnya milik guru.
 
 > **Prinsip Utama**: Pembelajaran yang interaktif dibangun atas keberanian siswa untuk bertanya dan berpendapat, bukan ketundukan mereka pada alur bicara guru.
 

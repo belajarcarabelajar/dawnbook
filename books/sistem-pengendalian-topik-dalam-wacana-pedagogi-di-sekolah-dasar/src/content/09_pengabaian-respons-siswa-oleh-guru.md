@@ -16,7 +16,7 @@ Namun, ketika guru menerapkan strategi pengabaian respons, tahap umpan balik ini
 > Tanpa adanya umpan balik atau penguatan (reinforcement), respons siswa hanyalah sarana bagi guru untuk berpindah ke topik berikutnya. Interaksi kelas pun berubah menjadi pemeriksaan hafalan singkat dan kehilangan kedalaman dialog pembelajaran.
 
 Beberapa ciri utama dari pola pengabaian respons ini meliputi:
-* **Absensinya konfirmasi:** Guru tidak menyatakan apakah jawaban siswa benar atau salah.
+* **Ketiadaan konfirmasi:** Guru tidak menyatakan apakah jawaban siswa benar atau salah.
 * **Tanpa penguatan positif:** Tidak ada kata pujian seperti "bagus", "tepat sekali", atau sekadar anggukan kepala yang menandakan apresiasi.
 * **Pengalihan topik secara mendadak:** Ujaran guru berikutnya langsung memperkenalkan konsep baru atau menanyakan hal lain yang tidak berkaitan langsung dengan dinamika berpikir siswa sebelumnya.
 

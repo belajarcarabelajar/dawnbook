@@ -4,16 +4,16 @@ Bab ini memuat sintesis akhir pembahasan sistem pengendalian topik dalam wacana 
 
 ### Struktur dan Pengendalian Wacana Kelas SD
 
-Kajian mengenai wacana pedagogi menunjukkan bahwa interaksi di kelas sekolah dasar tersusun dalam hirarki yang teratur, mulai dari tingkat pelajaran (*lesson*), transaksi (*transaction*), pertukaran (*exchange*), gerakan (*move*), hingga tindak (*act*). Dalam hirarki ini, gerakan pemulai (*initiating move*) yang didominasi oleh tuturan guru memegang peran sentral dalam menentukan alur perbincangan.
+Kajian mengenai wacana pedagogi menunjukkan bahwa interaksi di kelas sekolah dasar tersusun dalam hierarki yang teratur, mulai dari tingkat pelajaran (*lesson*), transaksi (*transaction*), pertukaran (*exchange*), gerakan (*move*), hingga tindak (*act*). Dalam hierarki ini, gerakan pemulai (*initiating move*) yang didominasi oleh tuturan guru memegang peran sentral dalam menentukan alur perbincangan.
 
 Temuan pokok penelitian Marliana (2017) yang menjadi dasar pembahasan di buku ini meliputi:
 
 1. **Dominasi Guru dalam Pengajuan Topik**: Guru bertindak sebagai pemegang kendali utama topik perbincangan. Pengendalian ini dilakukan melalui pertanyaan tertutup maupun pernyataan awal yang mengarahkan fokus perhatian seluruh siswa.
-2. **Penggunaan Pemarkah Wacana**: Pengeluaran kata-kata penanda transisi seperti *ya*, *nah*, *jadi*, *baik*, *coba*, dan *kalau begitu* menjadi alat kebahasaan utama bagi guru untuk membuka, mengalihkan, atau menutup topik pembelajaran.
+2. **Penggunaan Pemarkah Wacana**: Pemakaian kata-kata penanda transisi seperti *ya*, *nah*, *jadi*, *baik*, *coba*, dan *kalau begitu* menjadi alat kebahasaan utama bagi guru untuk membuka, mengalihkan, atau menutup topik pembelajaran.
 3. **Pola Pertanyaan dan Respons Terbatas**: Tingginya frekuensi pertanyaan tertutup yang tidak langsung direspons atau hanya dijawab secara singkat oleh siswa memperlihatkan bahwa pola interaksi masih cenderung satu arah.
 4. **Minimnya Penguatan dan Inisiatif Siswa**: Penguatan terhadap tanggapan siswa masih relatif rendah, sehingga ruang bagi siswa untuk mengambil inisiatif perbincangan atau mengajukan topik baru menjadi terbatas.
 
-### Implikasi Pedagogis dan Arah Pembaharuan Pembelajaran
+### Implikasi Pedagogis dan Arah Pembaruan Pembelajaran
 
 Temuan di atas menggarisbawahi adanya kesenjangan antara praktik interaksi kelas yang masih berpusat pada guru dengan semangat kurikulum modern yang menempatkan siswa sebagai pusat pembelajaran. Untuk menciptakan suasana belajar yang lebih interaktif dan memberdayakan, beberapa langkah pembaruan wacana pedagogi perlu diterapkan:
 
@@ -37,7 +37,7 @@ Untuk memperdalam pemahaman dan menerapkan konsep-konsep dari buku ini dalam pra
 
 ### Daftar Pustaka Akademik (APA Style 7th Edition)
 
-Berikut adalah daftar sumber pustaka dan referensi akademik yang dirujuk dalam keseluruhan buku ini, disusun sesuai standar APA Style Edisi Ke-7:
+Berikut adalah daftar sumber pustaka dan referensi akademik yang dirujuk dalam keseluruhan buku ini, disusun sesuai standar APA Style edisi ke-7:
 
 - Aman, I. (2005). Analisis wacana pedagogi bahasa Melayu di sekolah. Dalam L. S. Kim, T. S. Ming, H. Burhanudeen, & L. K. Siong (Penyunting), *Papers Language Studies and Linguistics: A Malaysian Perspective* (hlm. 45-60). Faculty of Social Sciences and Humanities, Universiti Kebangsaan Malaysia. Dikutip melalui Marliana (2017). [https://journal.unj.ac.id/unj/index.php/aksis/article/view/3281](https://journal.unj.ac.id/unj/index.php/aksis/article/view/3281)
 - Cazden, C. B. (2001). *Classroom discourse: The language of teaching and learning* (Edisi ke-2). Heinemann. [https://eric.ed.gov/?id=ED461844](https://eric.ed.gov/?id=ED461844)

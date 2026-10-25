@@ -3,7 +3,7 @@
 - [Konsep Dasar dan Wacana Pedagogi di Sekolah Dasar](content/01_konsep-dasar-dan-wacana-pedagogi.md)
 - [Latar Belakang dan Urgensi Analisis Interaksi Kelas](content/02_pendahuluan-dan-latar-belakang-penelitian.md)
 - [Metodologi Penelitian dan Konteks Tiga SD di Bogor](content/03_metodologi-penelitian-dan-pengumpulan-data.md)
-- [Pengorganisasian dan Hirarki Interaksi Kelas](content/04_hirarki-dan-pengorganisasian-struktur-wacana.md)
+- [Pengorganisasian dan Hierarki Interaksi Kelas](content/04_hirarki-dan-pengorganisasian-struktur-wacana.md)
 - [Strategi Pengendalian Topik Melalui Pertanyaan Guru](content/05_pengendalian-topik-melalui-pertanyaan-guru.md)
 - [Respons Siswa dan Inisiatif Pembuka Topik Baru](content/06_respons-siswa-dan-inisiatif-topik-terbatas.md)
 - [Penggunaan Kata Sapaan dalam Mengatur Interaksi Kelas](content/07_penggunaan-kata-sapaan-dalam-interaksi.md)

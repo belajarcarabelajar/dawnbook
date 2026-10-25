@@ -16,13 +16,13 @@ Dalam interaksi kelas di sekolah dasar, guru menggunakan berbagai variasi pemark
 1. **Pemarkah Pemulai dan Pengalihan Fokus (*Sekarang*, *Baik*, *Nah*)**  
    Kata-kata ini digunakan untuk menarik perhatian seluruh kelas secara serentak sebelum guru memulai instruksi atau tugas baru.
 
-2. **Pemarkah Instruksi dan Ajak Bertindak (*Coba*, *Yuk*)**  
+2. **Pemarkah Instruksi dan Ajakan Bertindak (*Coba*, *Yuk*)**  
    Digunakan ketika guru meminta siswa melakukan aksi fisik atau mental secara langsung, seperti membaca, menulis, atau menyanyi.
 
-3. **Pemarkah Jeda Kebahasaan dan Formulasi Pikiran (*Eh...*)**  
+3. **Pemarkah Jeda Berpikir dan Formulasi Pikiran (*Eh...*)**  
    Kata ini sering diucapkan saat guru membutuhkan jeda beberapa detik untuk memikirkan langkah instruksional selanjutnya atau membenahi fokus perhatian siswa.
 
-4. **Pemarkah Sekuensial dan Penyambung Ide (*Kemudian*, *Jadi*)**  
+4. **Pemarkah Sekuensial dan Penyambung Ide (*Kemudian*)**  
    Berfungsi menunjukkan bahwa informasi yang baru saja disampaikan memiliki keterkaitan langsung dengan topik yang dibahas sebelumnya.
 
 5. **Pemarkah Sapaan Emosional (*Anak-anakku sekalian*)**  
@@ -32,7 +32,7 @@ Dalam interaksi kelas di sekolah dasar, guru menggunakan berbagai variasi pemark
 
 ### Analisis Kasus Penggunaan Pemarkah Transisi dalam Pembelajaran
 
-Untuk memahami bagaimana pemarkah wacana bekerja dalam praktik nyata, mari amati beberapa contoh transisi wacana dalam pengajaran Sekolah Dasar di bawah ini.
+Untuk memahami bagaimana pemarkah wacana bekerja dalam praktik nyata, mari amati beberapa contoh transisi wacana dalam pengajaran sekolah dasar di bawah ini.
 
 #### 1. Penggunaan Kata *Baik* dan *Sekarang* untuk Transisi Tugas
 Dalam sesi latihan bahasa, guru menggunakan pemarkah *baik* dan *sekarang* untuk memindahkan fokus siswa ke penyusunan struktur kalimat.
@@ -76,7 +76,7 @@ Pemarkah *kemudian* memberi penanda logis bahwa kalimat berikutnya merupakan sam
 
 *(Dikutip dan diolah dari Kutipan Teks 11, Alat Komunikasi, dalam Marliana, 2017)*
 
-Dalam percakapan ini, kata sapaan *anak-anakku sekalian* berfungsi mengunci fokus di awal topik pembuka, sedangkan kata *kemudian* memandu siswa untuk menelusuri hubungan sebab-akibat atau alat bantu komunikasi tanpa keluar dari topik utama.
+Dalam percakapan ini, kata sapaan *anak-anakku sekalian* berfungsi mengunci fokus di awal topik pembuka, sedangkan kata *kemudian* memandu siswa untuk menelusuri alat bantu komunikasi tanpa keluar dari topik utama.
 
 #### 4. Kata *Kalau Begitu* (*Kalo Gitu*) sebagai Transisi Kegiatan
 Ketika guru ingin mencairkan suasana atau mengalihkan sesi teori ke kegiatan relaksasi, kata *kalau begitu* berfungsi sebagai pembuka aktivitas baru.
@@ -88,7 +88,7 @@ Ketika guru ingin mencairkan suasana atau mengalihkan sesi teori ke kegiatan rel
 
 *(Dikutip dan diolah dari Kutipan Teks 3, Mendongeng, dalam Marliana, 2017)*
 
-Kata *kalau begitu* menghubungkan evaluasi cerita pendek dengan aktivitas bernyanyi bersama, sehingga perubahan dinamika kelas terasa halus dan alami.
+Kata *kalau begitu* menghubungkan kegiatan sebelumnya dengan aktivitas bernyanyi bersama, sehingga perubahan dinamika kelas terasa halus dan alami.
 
 ---
 
@@ -101,8 +101,8 @@ Tabel berikut merangkum berbagai pemarkah wacana yang dipraktikkan guru beserta 
 | **Ya / Nah** | Konfirmatif & Pemulai | Awal gerakan / pertukaran | Menegaskan kesiapan kelas dan mengawali penjelasan baru. |
 | **Sekarang / Baik** | Pengalihan Fokus | Awal instruksi tugas | Menandai perpindahan dari diskusi umum ke latihan spesifik. |
 | **Jadi** | Menyimpulkan | Akhir subtopik | Merangkum ide-ide utama sebelum melanjutkan ke topik berikut. |
-| **Coba / Yuk** | Ajak Bertindak | Awal aktivitas siswa | Mendorong siswa melakukan aksi fisik atau latihan lisan secara spontan. |
-| **Eh...** | Jeda Kognitif | Tengah penjelasan | Memberi waktu bagi guru untuk menyusun kalimat dan memusatkan perhatian siswa. |
+| **Coba / Yuk** | Ajakan Bertindak | Awal aktivitas siswa | Mendorong siswa melakukan aksi fisik atau latihan lisan secara spontan. |
+| **Eh...** | Jeda Berpikir | Tengah penjelasan | Memberi waktu bagi guru untuk menyusun kalimat dan memusatkan perhatian siswa. |
 | **Kemudian** | Sekuensial Logis | Tengah pertukaran | Menyambung ide baru dengan topik yang sedang berlangsung secara runut. |
 | **Kalau Begitu** | Transisi Kegiatan | Pengujung subtopik | Membuka aktivitas variatif (seperti bernyanyi atau permainan) sebagai selingan. |
 
@@ -125,9 +125,9 @@ Pemahaman terhadap pemarkah wacana memberikan wawasan penting bagi kamu yang ing
 
 ### Kata-Kata Penanda Perpindahan Materi
 
-Pemarkah wacana seperti *ya*, *nah*, *jadi*, *coba*, *sekarang*, *baik*, *eh*, *kemudian*, dan *kalau begitu* merupakan instrumen verbal penting yang digunakan guru untuk memandu transisi topik dalam wacana kelas. Melalui pemarkah ini, guru tidak hanya mengendalikan batasan antar-topik, tetapi juga mengarahkan perhatian siswa, mengelola ritme berpikir, dan menghubungkan satu konsep dengan konsep lainnya.
+Pemarkah wacana seperti *ya*, *nah*, *jadi*, *coba*, *sekarang*, *baik*, *eh*, *kemudian*, dan *kalau begitu* merupakan instrumen verbal penting yang digunakan guru untuk memandu transisi topik dalam wacana kelas. Melalui pemarkah ini, guru tidak hanya mengendalikan batasan antartopik, tetapi juga mengarahkan perhatian siswa, mengelola ritme berpikir, dan menghubungkan satu konsep dengan konsep lainnya.
 
 Jawablah pertanyaan refleksi berikut untuk menguji pemahaman kamu:
 
-1. **Refleksi Utama**: Menurut kamu, bagaimana penggunaan pemarkah wacana yang tepat oleh guru dapat membantu siswa sekolah dasar memahami perpindahan antar-materi secara lebih efektif?
+1. **Refleksi Utama**: Menurut kamu, bagaimana penggunaan pemarkah wacana yang tepat oleh guru dapat membantu siswa sekolah dasar memahami perpindahan antarmateri secara lebih efektif?
 2. **Penerapan Praktis**: Jika kamu mengamati sebuah kelas dan menemukan guru terlalu sering menggunakan pemarkah jeda seperti *eh...*, apa dampaknya terhadap konsentrasi siswa dan bagaimana saran perbaikannya?

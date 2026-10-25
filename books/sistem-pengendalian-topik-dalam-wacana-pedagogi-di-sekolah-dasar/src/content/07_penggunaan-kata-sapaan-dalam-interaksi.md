@@ -33,11 +33,11 @@ Mari cermati contoh ilustrasi pertukaran dialogik di bawah ini (bukan kutipan da
 
 | Pertukaran | Gerakan | Penutur | Ujaran |
 | :--- | :--- | :--- | :--- |
-| **01** | Pemulai | Guru | Baik anak-anak, hari ini kita akan melanjutkan pembahasan naskah drama lingkungan. Siapa yang ingat apa peran tokoh utama dalam cerita kemarin? |
-| **02** | Respons | Siswa (Serentak) | Saya Bu! Saya! |
-| **03** | Pemulai | Guru | Ya, Coba **Siti**, sebutkan apa tugas tokoh utama itu. |
+| **01** | Pemulai | Guru | Baik, anak-anak, hari ini kita akan melanjutkan pembahasan naskah drama lingkungan. Siapa yang ingat apa peran tokoh utama dalam cerita kemarin? |
+| **02** | Respons | Siswa (Serentak) | Saya, Bu! Saya! |
+| **03** | Pemulai | Guru | Ya, coba **Siti**, sebutkan apa tugas tokoh utama itu. |
 | **04** | Respons | Siti | Mengajak warga desa untuk membersihkan sampah di aliran sungai, Bu. |
-| **05** | Evaluasi | Guru | Bagus sekali, **Siti**. Jawabanmu tepat. |
+| **05** | Umpan Balik | Guru | Bagus sekali, **Siti**. Jawabanmu tepat. |
 
 Pada pertukaran di atas, guru menggunakan sapaan kolektif *"anak-anak"* pada gerakan pembuka untuk menarik perhatian seluruh kelas. Namun, saat merespons siswa yang berebut menjawab, guru memilih satu penjawab dengan memanggil sapaan spesifik *"Siti"*. Pemanggilan nama ini membatasi hak jawab secara individual dan mengarahkan topik ke pendalaman isi drama.
 
@@ -70,13 +70,13 @@ Berikut contoh ilustrasi pertukaran dialogik yang menggambarkan transisi dari sa
 | **02** | Respons | Doni | Sampah plastik jajanan, Pak! |
 | **03** | Umpan Balik | Guru | Tepat. Sampah plastik. Sekarang **Doni**, coba kamu susun kalimat saran untuk mengatasi sampah itu. |
 | **04** | Respons | Doni | Siswa harus membawa tempat makan sendiri dari rumah, Pak. |
-| **05** | Evaluasi | Guru | Bagus sekali sarannya. Nah, anak-anak sekalian, mari kita catat ide Doni ini di papan tulis. |
+| **05** | Umpan Balik | Guru | Bagus sekali sarannya. Nah, anak-anak sekalian, mari kita catat ide Doni ini di papan tulis. |
 
-Dalam tabel di atas, guru memanfaatkan kata sapaan *"Doni"* pada gerakan 03 untuk memberi Doni giliran menyampaikan penalarannya, sebelum mengembalikan topik ke forum umum pada gerakan 05 dengan kata sapaan kolektif *"anak-anak sekalian"*. Penggabungan strategi ini menjaga keseimbangan antara partisipasi personal dan kebersamaan kelompok.
+Dalam tabel di atas, guru memanfaatkan kata sapaan *"Doni"* pada pertukaran 03 untuk memberi Doni giliran menyampaikan penalarannya, sebelum mengembalikan topik ke forum umum pada pertukaran 05 dengan kata sapaan kolektif *"anak-anak sekalian"*. Penggabungan strategi ini menjaga keseimbangan antara partisipasi personal dan kebersamaan kelompok.
 
 ---
 
-### Resiprokositas Sapaan dan Inisiatif Siswa
+### Resiprositas Sapaan dan Inisiatif Siswa
 
 Secara umum, susunan sapaan di kelas SD bersifat asimetris. Guru bebas menyapa siswa dengan nama panggilan atau kata ganti *kamu*, sedangkan siswa diwajibkan menggunakan sapaan kehormatan seperti *Pak* atau *Bu*. Ketidakseimbangan ini wajar dalam wacana formal sekolah, namun siswa yang berani tetap dapat memanfaatkan kata sapaan untuk mengambil inisiatif pembukaan topik.
 
@@ -94,4 +94,4 @@ Penggunaan kata sapaan dalam interaksi kelas sekolah dasar merupakan instrumen k
 
 #### Pertanyaan Refleksi untuk Kamu
 1. **Refleksi Praktis**: Ketika kamu mengamati atau mempraktikkan pembelajaran di kelas SD, bagaimana perubahan penggunaan sapaan dari *"Anak-anak"* menjadi sapaan nama pribadi siswa memengaruhi tingkat perhatian dan rasa percaya diri siswa?
-2. **Analisis Interaksi**: Mengapa sapaan siswa kepada guru (*Pak/Bu*) selalu mengawali usaha siswa untuk mengusulkan topik atau bertanya? Apa dampaknya jika guru merespons sapaan tersebut dengan ramah dibandingkan dengan respons yang dingin?
+2. **Analisis Interaksi**: Mengapa sapaan siswa kepada guru (*Pak/Bu*) sering mengawali usaha siswa untuk mengusulkan topik atau bertanya? Apa dampaknya jika guru merespons sapaan tersebut dengan ramah dibandingkan dengan respons yang dingin?
