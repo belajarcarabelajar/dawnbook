@@ -16,7 +16,7 @@ Bayangkan tubuh manusia sebagai sebuah pesawat terbang. Mata adalah jendela kokp
 
 ### 2. Fungsi Utama Sistem Vestibular
 
-Secara neurobiologis, sistem ini memiliki tiga tugas utama yang saling berkaitan:
+Secara neurobiologis, sistem ini memiliki tugas utama yang saling berkaitan:
 
 #### A. Menjaga Keseimbangan (*Equilibrium*)
 
