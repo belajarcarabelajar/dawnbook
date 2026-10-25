@@ -251,7 +251,7 @@ Setiap keputusan di bawah diambil dari pilihan yang direkomendasikan, kecuali di
 
 ### Masih terbuka setelah Tahap 5
 
-- state-of-flow bab 04 baris 39 (prosa "The 4% Rule"): keputusan pemilik diperlukan.
+- state-of-flow bab 05 baris 39 (prosa "The 4% Rule"): keputusan pemilik diperlukan.
 - psikologi-positif: pilihan 5,6:1 di atas.
 - pembelajaran-multidisiplin: nama file bab 02 masih mengandung "interdisiplin" (mengubah URL).
 - siklus-hidrologi: dua kasus "bumi" huruf kecil (permukaan, di bumi) dibiarkan, perlu konfirmasi.
