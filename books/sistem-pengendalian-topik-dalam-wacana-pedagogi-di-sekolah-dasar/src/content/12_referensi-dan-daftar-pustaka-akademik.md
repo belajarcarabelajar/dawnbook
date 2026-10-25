@@ -39,18 +39,18 @@ Untuk memperdalam pemahaman dan menerapkan konsep-konsep dari buku ini dalam pra
 
 Berikut adalah daftar sumber pustaka dan referensi akademik yang dirujuk dalam keseluruhan buku ini, disusun sesuai standar APA Style Edisi Ke-7:
 
-- Aman, I. (2005). Analisis wacana pedagogi bahasa Melayu di sekolah. Dalam L. S. Kim, T. S. Ming, H. Burhanudeen, & L. K. Siong (Penyunting), *Papers Language Studies and Linguistics: A Malaysian Perspective* (hlm. 45-60). Faculty of Social Sciences and Humanities, Universiti Kebangsaan Malaysia.
-- Cazden, C. B. (2001). *Classroom discourse: The language of teaching and learning* (Edisi ke-2). Heinemann.
-- Coulthard, M., & Brazil, D. (1989). Exchange structure. Dalam M. Coulthard & M. Montgomery (Penyunting), *Studies in discourse analysis* (hlm. 82-106). Routledge.
-- Fairclough, N. (1995). *Critical discourse analysis: The critical study of language*. Longman.
-- Fairclough, N. (2001). *Language and power* (Edisi ke-2). Pearson Education.
-- Fairclough, N. (2003). *Analysing discourse: Textual analysis for social research*. Routledge.
-- Fairclough, N. (2006). *Discourse and social change*. Polity Press.
+- Aman, I. (2005). Analisis wacana pedagogi bahasa Melayu di sekolah. Dalam L. S. Kim, T. S. Ming, H. Burhanudeen, & L. K. Siong (Penyunting), *Papers Language Studies and Linguistics: A Malaysian Perspective* (hlm. 45-60). Faculty of Social Sciences and Humanities, Universiti Kebangsaan Malaysia. Dikutip melalui Marliana (2017). [https://journal.unj.ac.id/unj/index.php/aksis/article/view/3281](https://journal.unj.ac.id/unj/index.php/aksis/article/view/3281)
+- Cazden, C. B. (2001). *Classroom discourse: The language of teaching and learning* (Edisi ke-2). Heinemann. [https://eric.ed.gov/?id=ED461844](https://eric.ed.gov/?id=ED461844)
+- Coulthard, M., & Brazil, D. (1989). Exchange structure. Dalam M. Coulthard & M. Montgomery (Penyunting), *Studies in discourse analysis* (hlm. 82-106). Routledge. [https://books.google.com/books/about/Studies_in_Discourse_Analysis.html?id=GhPNwQEACAAJ](https://books.google.com/books/about/Studies_in_Discourse_Analysis.html?id=GhPNwQEACAAJ)
+- Fairclough, N. (1995). *Critical discourse analysis: The critical study of language*. Longman. [https://search.library.wisc.edu/catalog/999894935602121](https://search.library.wisc.edu/catalog/999894935602121)
+- Fairclough, N. (2001). *Language and power* (Edisi ke-2). Pearson Education. [https://books.google.com/books/about/Language_and_Power.html?id=ZRHCNMN3qqUC](https://books.google.com/books/about/Language_and_Power.html?id=ZRHCNMN3qqUC)
+- Fairclough, N. (2003). *Analysing discourse: Textual analysis for social research*. Routledge. [https://www.routledge.com/Analysing-Discourse-Textual-Analysis-for-Social-Research/Fairclough/p/book/9780415258937](https://www.routledge.com/Analysing-Discourse-Textual-Analysis-for-Social-Research/Fairclough/p/book/9780415258937)
+- Fairclough, N. (2006). *Discourse and social change*. Polity Press. [https://www.politybooks.com/bookdetail?book_slug=discourse-and-social-change--9780745612188](https://www.politybooks.com/bookdetail?book_slug=discourse-and-social-change--9780745612188)
 - Gewertz, C. (2019, 10 Desember). How much should teachers talk in the classroom? Much less, some say. *Education Week*. [https://www.edweek.org/teaching-learning/how-much-should-teachers-talk-in-the-classroom-much-less-some-say/2019/12](https://www.edweek.org/teaching-learning/how-much-should-teachers-talk-in-the-classroom-much-less-some-say/2019/12)
 - Marliana, N. L. (2017). Sistem pengendalian topik dalam wacana pedagogi di sekolah dasar. *AKSIS: Jurnal Pendidikan Bahasa dan Sastra Indonesia*, 1(1), 80-103. [https://journal.unj.ac.id/unj/index.php/aksis/article/view/3281](https://journal.unj.ac.id/unj/index.php/aksis/article/view/3281)
-- McCarthy, M. (1991). *Discourse analysis for language teachers*. Cambridge University Press.
+- McCarthy, M. (1991). *Discourse analysis for language teachers*. Cambridge University Press. [https://openlibrary.org/works/OL1962673W](https://openlibrary.org/works/OL1962673W)
 - Mehan, H. (1979). *Learning lessons: Social organization in the classroom*. Harvard University Press. [https://doi.org/10.4159/harvard.9780674420106](https://doi.org/10.4159/harvard.9780674420106)
-- Mercer, N. (1995). *The guided construction of knowledge: Talk amongst teachers and learners*. Multilingual Matters.
-- Sinclair, J. M., & Coulthard, R. M. (1975). *Towards an analysis of discourse: The English used by teachers and pupils*. Oxford University Press.
-- Stubbs, M. (1983). *Discourse analysis: The sociolinguistic analysis of natural language*. University of Chicago Press.
-- van Lier, L. (1996). *Interaction in the language curriculum: Awareness, autonomy and authenticity*. Longman.
+- Mercer, N. (1995). *The guided construction of knowledge: Talk amongst teachers and learners*. Multilingual Matters. [https://doi.org/10.21832/9781800418288](https://doi.org/10.21832/9781800418288)
+- Sinclair, J. M., & Coulthard, R. M. (1975). *Towards an analysis of discourse: The English used by teachers and pupils*. Oxford University Press. [https://catalog.hathitrust.org/Record/000032140](https://catalog.hathitrust.org/Record/000032140)
+- Stubbs, M. (1983). *Discourse analysis: The sociolinguistic analysis of natural language*. University of Chicago Press. [https://press.uchicago.edu/ucp/books/book/chicago/D/bo50778907.html](https://press.uchicago.edu/ucp/books/book/chicago/D/bo50778907.html)
+- van Lier, L. (1996). *Interaction in the language curriculum: Awareness, autonomy and authenticity*. Longman. [https://doi.org/10.4324/9781315843223](https://doi.org/10.4324/9781315843223)
