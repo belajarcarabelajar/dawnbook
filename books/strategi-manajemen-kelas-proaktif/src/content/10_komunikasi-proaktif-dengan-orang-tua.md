@@ -47,7 +47,7 @@ Salah satu tantangan manajemen kelas adalah ketika siswa memiliki "dua kepribadi
 
 ## 4. Saluran Komunikasi dan Teknologi
 
-Pilihlah media yang paling aksesibel bagi wali murid, namun tetap menjaga batasan profesional guru.
+Pilihlah media yang paling aksesibel bagi wali murid, tetapi tetap menjaga batasan profesional guru.
 
 - **Pesan Instan (WhatsApp/Telegram):** Efektif untuk informasi cepat, namun berisiko mengganggu waktu pribadi. Gunakan fitur *broadcast* atau grup satu arah untuk pengumuman umum.
 - **Aplikasi Manajemen Kelas (ClassDojo, Google Classroom):** Visual (melalui foto/video kegiatan).

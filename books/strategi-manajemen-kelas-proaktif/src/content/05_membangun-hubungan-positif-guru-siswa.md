@@ -34,7 +34,7 @@ Kepercayaan (*Trust*) tidak diberikan secara cuma-cuma; ia dibangun melalui kons
 
 ## 3. Menciptakan Iklim Emosional yang Aman
 
-Keamanan emosional adalah kondisi di mana siswa merasa berani mengambil risiko akademik (seperti menjawab pertanyaan sulit) tanpa takut dipermalukan jika salah.
+Keamanan emosional adalah kondisi ketika siswa merasa berani mengambil risiko akademik (seperti menjawab pertanyaan sulit) tanpa takut dipermalukan jika salah.
 
 ### Rumus Keamanan Psikologis di Kelas
 

@@ -22,7 +22,7 @@ Sebelum kita masuk ke teknik, kita harus memahami perbedaan mendasar antara pend
 
 Salah satu alat utama dalam manajemen konflik adalah serangkaian pertanyaan terbuka yang mengarahkan siswa pada refleksi, bukan pembelaan diri.
 
-**Untuk Pelaku:**
+**Untuk Pelaku (lima pertanyaan):**
 
 1. Apa yang terjadi? (Fokus pada kronologi, bukan alasan).
 2. Apa yang kamu pikirkan saat kejadian itu?
@@ -30,7 +30,7 @@ Salah satu alat utama dalam manajemen konflik adalah serangkaian pertanyaan terb
 4. Dengan cara apa mereka terkena dampaknya?
 5. Apa yang perlu kamu lakukan agar keadaan menjadi benar kembali?
 
-**Untuk Korban:**
+**Untuk Korban (empat pertanyaan):**
 
 1. Apa yang kamu pikirkan saat kejadian itu terjadi?
 2. Bagaimana perasaanmu setelah kejadian tersebut?

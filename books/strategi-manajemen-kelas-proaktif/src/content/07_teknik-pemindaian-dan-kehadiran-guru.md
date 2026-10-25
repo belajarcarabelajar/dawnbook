@@ -46,11 +46,11 @@ Tubuh kamu berkomunikasi lebih keras daripada suara kamu. Kehadiran guru (*Teach
 
 **Elemen Bahasa Tubuh Proaktif:**
 
-1. **Postur Terbuka:** Berdiri tegak namun rileks menunjukkan kepercayaan diri. Menyilangkan tangan atau membungkuk dapat memberi kesan defensif atau kurang energi.
-2. **Ekspresi Wajah:** Gunakan ekspresi yang konsisten dengan situasi. Senyuman hangat untuk menyapa, dan tatapan serius namun tenang untuk mengoreksi perilaku.
+1. **Postur Terbuka:** Berdiri tegak tetapi rileks menunjukkan kepercayaan diri. Menyilangkan tangan atau membungkuk dapat memberi kesan defensif atau kurang energi.
+2. **Ekspresi Wajah:** Gunakan ekspresi yang konsisten dengan situasi. Senyuman hangat untuk menyapa, dan tatapan serius tetapi tenang untuk mengoreksi perilaku.
 3. **Isyarat Tangan:** Gunakan tangan untuk mengarahkan fokus (misalnya, menunjuk buku atau papan tulis) untuk memperkuat instruksi verbal.
 
-**Matematika Kehadiran Guru:** $K = W + (M \times B)$ Di mana:
+**Matematika Kehadiran Guru:** $K = W + (M \times B)$ Keterangan:
 
 - $K$: Efektivitas Kendali Kelas
 - $W$: *Withitness* (Kewaspadaan)

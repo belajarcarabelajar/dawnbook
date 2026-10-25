@@ -114,7 +114,7 @@ Mengumumkan prosedur satu kali tidaklah cukup. Prosedur harus diajarkan layaknya
 Pastikan kamu memiliki prosedur untuk hal-hal berikut:
 
 - Masuk kelas dan memulai hari.
-- Meminta izin ke kamar mandi (gunakan sinyal tangan non-verbal).
+- Meminta izin ke kamar mandi (gunakan sinyal tangan nonverbal).
 - Menajamkan pensil atau membuang sampah.
 - Apa yang dilakukan jika tugas sudah selesai lebih awal (aktivitas pengayaan).
 - Membereskan kelas dan persiapan pulang.

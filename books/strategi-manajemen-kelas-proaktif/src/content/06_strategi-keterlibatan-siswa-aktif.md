@@ -42,7 +42,7 @@ Berikan setiap siswa papan tulis kecil atau kertas di dalam selongsong plastik t
 
 - **Manfaat:** kamu mendapatkan data instan tentang siapa yang paham dan siapa yang tidak, sementara semua siswa tetap fokus karena mereka harus menghasilkan output.
 
-### C. Sinyal Tangan (Non-Verbal Polls)
+### C. Sinyal Tangan (Nonverbal Polls)
 
 Gunakan jempol ke atas (paham), jempol ke samping (ragu-ragu), atau jempol ke bawah (butuh bantuan) untuk mengecek pemahaman secara cepat di tengah penjelasan.
 
@@ -103,7 +103,7 @@ $$
 
 ## 7. Strategi untuk Berbagai Gaya Belajar
 
-Agar keterlibatan bersifat inklusif, gunakan pendekatan yang mengakomodasi berbagai preferensi belajar:
+Agar keterlibatan bersifat inklusif, gunakan pendekatan yang mengakomodasi berbagai preferensi belajar. Anggap tabel ini sebagai variasi cara menyajikan materi, bukan pencocokan gaya, sebab [tinjauan Pashler dkk. (2008)](https://doi.org/10.1111/j.1539-6053.2009.01038.x) menyimpulkan bahwa belum ada bukti yang memadai untuk menjadikan penilaian gaya belajar bagian dari praktik pendidikan umum:
 
 | Gaya Belajar | Teknik Keterlibatan |
 | --- | --- |

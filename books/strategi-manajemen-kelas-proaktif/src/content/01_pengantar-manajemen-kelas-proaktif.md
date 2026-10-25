@@ -1,6 +1,6 @@
 ## Pengantar Manajemen Kelas Proaktif
 
-Manajemen kelas proaktif berfokus pada persiapan yang mencegah gangguan sebelum muncul, bukan pada teguran setelah gangguan terjadi. Bayangkan sebuah ruang kelas di mana kamu tidak perlu berteriak untuk mendapatkan perhatian, tidak perlu terus-menerus menginterupsi pelajaran untuk menegur siswa, dan setiap menit yang kamu habiskan benar-benar digunakan untuk mengajar.
+Manajemen kelas proaktif berfokus pada persiapan yang mencegah gangguan sebelum muncul, bukan pada teguran setelah gangguan terjadi. Bayangkan sebuah ruang kelas tempat kamu tidak perlu berteriak untuk mendapatkan perhatian, tidak perlu terus-menerus menginterupsi pelajaran untuk menegur siswa, dan setiap menit yang kamu habiskan benar-benar digunakan untuk mengajar.
 
 Apakah ini hanya mimpi? Tentu tidak. Inilah yang menjadi inti dari **Manajemen Kelas Proaktif**.
 
@@ -10,7 +10,7 @@ Kebanyakan guru pemula terjebak dalam peran sebagai **pemadam kebakaran**. Merek
 
 **Manajemen Kelas Proaktif** menggeser peran kamu dari pemadam kebakaran menjadi seorang **Arsitek Lingkungan Belajar**.
 
-> "Tujuan utama manajemen kelas proaktif bukanlah untuk mengontrol siswa, melainkan untuk menciptakan lingkungan di mana siswa memilih untuk belajar dan bekerja sama."
+> "Tujuan utama manajemen kelas proaktif bukanlah untuk mengontrol siswa, melainkan untuk menciptakan lingkungan tempat siswa memilih untuk belajar dan bekerja sama."
 
 Secara filosofis, pendekatan ini berakar pada keyakinan bahwa:
 

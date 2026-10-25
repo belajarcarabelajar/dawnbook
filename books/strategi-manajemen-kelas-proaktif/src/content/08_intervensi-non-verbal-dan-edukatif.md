@@ -1,16 +1,16 @@
-## Intervensi Non-Verbal dan Edukatif
+## Intervensi Nonverbal dan Edukatif
 
 Pernahkah kamu sedang menjelaskan bagian materi yang penting, tepat saat siswa mulai memahami bagaimana bagian-bagiannya saling terhubung? Pernahkah kamu kemudian tiba-tiba harus berhenti total hanya untuk menegur satu orang siswa yang asyik mengobrol?
 
 Seketika, momentum itu hilang. Alur berpikir kelas terputus, dan kamu butuh waktu ekstra untuk mengembalikan fokus mereka. Inilah yang kita sebut sebagai "biaya gangguan" (*interruptive cost*).
 
-Intervensi non-verbal adalah solusi untuk meminimalkan biaya tersebut. Tujuannya sederhana: **menghentikan gangguan ringan sambil menjaga alur pembelajaran tetap mengalir.**
+Intervensi nonverbal adalah solusi untuk meminimalkan biaya tersebut. Tujuannya sederhana: **menghentikan gangguan ringan sambil menjaga alur pembelajaran tetap mengalir.**
 
 ### Konduktor Orkestra di Kelas
 
 Bayangkan seorang konduktor orkestra. Saat seorang pemain biola sedikit melenceng dari tempo, konduktor tidak menghentikan seluruh musik dan berteriak. Sebaliknya, ia memberikan tatapan tajam, isyarat tangan kecil, atau condong ke arah pemain tersebut. Musik terus berjalan, dan masalah terselesaikan.
 
-Dalam manajemen kelas, kamu adalah konduktornya. Intervensi non-verbal memungkinkan kamu melakukan koreksi tanpa harus menjadi "polisi" yang menghentikan pelajaran.
+Dalam manajemen kelas, kamu adalah konduktornya. Intervensi nonverbal memungkinkan kamu melakukan koreksi tanpa harus menjadi "polisi" yang menghentikan pelajaran.
 
 ### Hierarki Intervensi Rendah Gangguan (Low-Profile Intervention)
 
@@ -18,10 +18,10 @@ Kita menggunakan pendekatan progresif. Mulailah dari yang paling halus sebelum b
 
 #### 1. Kontak Mata dan Ekspresi Wajah (The Look)
 
-Kontak mata adalah alat yang kuat namun sering diremehkan.
+Kontak mata adalah alat yang kuat tetapi sering diremehkan.
 
 - **Teknik Radar:** Lakukan pemindaian (*scanning*) rutin 360 derajat. Saat melihat gangguan ringan (misal: siswa melamun), buat kontak mata selama 3-5 detik.
-- **Ekspresi Netral-Serius:** Gunakan ekspresi yang menunjukkan kamu sadar akan perilaku mereka, namun tetap tenang. Hindari ekspresi marah yang berlebihan karena dapat memicu konfrontasi.
+- **Ekspresi Netral-Serius:** Gunakan ekspresi yang menunjukkan kamu sadar akan perilaku mereka, tetapi tetap tenang. Hindari ekspresi marah yang berlebihan karena dapat memicu konfrontasi.
 
 #### 2. Kontrol Kedekatan (Proximity Control)
 
@@ -40,7 +40,7 @@ Ciptakan isyarat antara kamu dan siswa yang sudah disepakati sebelumnya (lihat b
 
 ### Pendekatan Privat yang Edukatif
 
-Jika isyarat non-verbal tidak cukup, langkah selanjutnya adalah intervensi verbal tingkat rendah yang bersifat privat. Kuncinya adalah **menjaga martabat siswa**.
+Jika isyarat nonverbal tidak cukup, langkah selanjutnya adalah intervensi verbal tingkat rendah yang bersifat privat. Kuncinya adalah **menjaga martabat siswa**.
 
 > "Kritik secara pribadi, puji secara terbuka."
 
@@ -56,11 +56,11 @@ Jika kamu tidak ingin menghentikan pembicaraan sama sekali, bawalah tumpukan *st
 
 ### Pendekatan Reaktif vs. Proaktif
 
-Mari kita lihat perbandingan antara pendekatan reaktif tradisional dan intervensi non-verbal proaktif:
+Mari kita lihat perbandingan antara pendekatan reaktif tradisional dan intervensi nonverbal proaktif:
 
 **Skenario:** *Siswa bernama Rian terus berbicara dengan temannya saat kamu sedang menjelaskan rumus luas lingkaran $A = \pi r^2$.*
 
-| Pendekatan Reaktif | Pendekatan Proaktif (Non-Verbal) |
+| Pendekatan Reaktif | Pendekatan Proaktif (Nonverbal) |
 | --- | --- |
 | **Guru berhenti bicara.** "Rian! Bisa diam tidak? Hargai saya yang sedang menjelaskan!" | **Guru terus menjelaskan.** Sambil berkata "Jika jari-jarinya 7, maka...", guru berjalan perlahan menuju meja Rian. |
 | **Dampak:** Alur kelas berhenti. Siswa lain terdistraksi. Rian merasa malu dan mungkin membantah, memicu konflik. | **Dampak:** Rian berhenti bicara karena guru berada tepat di sampingnya. Alur penjelasan terjaga. |
@@ -76,7 +76,7 @@ Ei = \frac{K}{D}
 $$
 </div>
 
-Di mana:
+Keterangan:
 
 - $K$ = kejelasan instruksi
 - $D$ = durasi interupsi terhadap kelas
@@ -87,10 +87,10 @@ Semakin kecil $D$ (durasi interupsi), semakin tinggi efisiensi manajemen kelas k
 
 Berikut adalah langkah-langkah praktis yang bisa kamu terapkan mulai besok:
 
-1. **Tetapkan Sinyal Non-Verbal:** Di awal semester, beri tahu siswa: *"Jika saya mengetuk meja kalian, itu tandanya kalian harus kembali fokus. Jika saya mengangkat tangan, itu tandanya saya butuh perhatian penuh tanpa suara."*
+1. **Tetapkan Sinyal Nonverbal:** Di awal semester, beri tahu siswa: *"Jika saya mengetuk meja kalian, itu tandanya kalian harus kembali fokus. Jika saya mengangkat tangan, itu tandanya saya butuh perhatian penuh tanpa suara."*
 2. **Gunakan Alat Bantu Visual:** Gunakan lampu lalu lintas (gambar merah, kuning, hijau) di papan tulis untuk menunjukkan level kebisingan yang diperbolehkan. Tunjuk ke arah warna tersebut tanpa bicara jika kelas mulai bising.
 3. **Latihan "Scan" 5 Menit:** Setiap 5 menit, paksa diri kamu untuk berhenti melihat buku atau papan tulis, dan pindai wajah seluruh siswa di kelas.
 
 *Pertimbangkan hal berikut: Jika kamu bisa menghentikan gangguan tanpa mengeluarkan satu kata pun, berapa banyak energi dan emosi yang bisa kamu simpan hingga jam terakhir sekolah?*
 
-**Pesan Penting:** Intervensi non-verbal bukan tentang intimidasi, melainkan tentang **efisiensi dan rasa hormat**. Dengan meminimalkan teguran publik, kamu membangun hubungan yang lebih aman dan profesional dengan siswa kamu.
+**Pesan Penting:** Intervensi nonverbal bukan tentang intimidasi, melainkan tentang **efisiensi dan rasa hormat**. Dengan meminimalkan teguran publik, kamu membangun hubungan yang lebih aman dan profesional dengan siswa kamu.
