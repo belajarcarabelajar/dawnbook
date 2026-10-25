@@ -130,8 +130,13 @@ Fresh run of the guards, the book checks, `bun test tests/scripts/ tests/books/`
 ### Task X1
 One PR through `pr-registry open`; merge asked alone with `--match-head-commit`; deploy, D1 seed and GSC reindex asked separately.
 
+## Follow-ups (owner selected all three, 2026-10-25)
+
+- [x] neuroplastisitas chapter 7: the brainstem releases norepinephrine, epinephrine comes from the adrenal glands; the unsourced 'without epinephrine the brain cannot change' claim is dropped (e88d1c3f).
+- [x] Edition details: Dweck (2016) keeps the Ballantine updated-edition page (same ISBN as the updated edition) and van Lier (1996) keeps the DOI of the Routledge reissue of the same text; Gardner's Essential Howard Gardner on Mind corrected to Teachers College Press, 2024 (a3ed03e5).
+- [x] 141 paragraph-style citations in 20 books: guard extended to APA paragraph lines (bac37c4b, RED on 141), seven link writers, one commit per book. Records exposed invented or wrong citations, fixed to the record: arsitektur-kernel-linux (six entries with no record or a DOI of another paper removed, none cited in a chapter; author lists of Wright et al. 2002, Price and Tucker 2004, Kashyap et al. 2017 and Edge 2014 corrected, 3606563c), analisis-ekspresif (pages, issues and a dead DOI corrected to Crossref, b61d2e4b), ekonomi-laissez-faire (Quesnay's unfounded publisher dropped, 833136ad).
+
 ## Backlog (LATER)
 
-- `defer: paragraph-style Referensi entries, owner decision` 142 citation paragraphs without a link in 21 books (Referensi chapters that list sources as paragraphs, not list items); the per-item guard checks list items only.
-- `defer: edition details, next Referensi pass` psikologi-positif Dweck (2016) links the Ballantine updated-edition page dated 2007; sistem-pengendalian-topik van Lier (1996) links the 2014 Routledge reissue, Fairclough (2006) and Coulthard & Brazil (1989) keep the years Marliana (2017) cites.
-- `defer: neuroplastisitas chapter 7 epinephrine section, next fact pass` 07:23-25 teaches epinephrine and alertness without a source; not in the audit rows.
+- `defer: DOI repair, owner decision` a Crossref and doi.org check of about 900 DOI links found about 63 unregistered DOIs and about a dozen that resolve to other works, across about 30 books: `docs/code-plan/artifacts/2026-10-25-dawnbook-doi-audit.md`.
+- `defer: citation details, next Referensi pass` link writers reported year, edition or co-author differences between some citations and their records (for example Beck et al. 1979 cited as Beck alone, Pindyck 2018 vs the 2017 print, Lysgaard's title); text was kept as cited.
