@@ -6,7 +6,7 @@ Bagian ini membahas definisi dasar kernel, sejarah singkat kelahirannya, serta p
 
 ## Apa Itu Kernel?
 
-Secara teknis, kernel adalah program komputer yang menjadi inti dari sistem operasi. Program ini merupakan bagian pertama yang dimuat ke dalam memori saat komputer melakukan *booting*, dan tetap berjalan di latar belakang hingga sistem dimatikan.
+Secara teknis, kernel adalah program komputer yang menjadi inti dari sistem operasi. Program ini merupakan salah satu bagian pertama yang dimuat ke dalam memori saat komputer melakukan *booting*, dan tetap berjalan di latar belakang hingga sistem dimatikan.
 
 ### Konduktor Orkestra
 
@@ -26,7 +26,7 @@ Kisah Linux dimulai pada tahun 1991. Seorang mahasiswa dari Universitas Helsinki
 ### Milestone Perkembangan
 
 * **1991**: Linus merilis versi pertama (0.01) yang masih sangat sederhana.
-* **1992**: Penggunaan lisensi GNU General Public License (GPL) dimulai. Lisensi ini membebaskan siapa saja untuk membaca, memodifikasi, dan mendistribusikan ulang kode sumber secara gratis.
+* **1992**: Penggunaan lisensi GNU General Public License (GPL) dimulai. Lisensi ini membebaskan siapa saja untuk membaca, memodifikasi, dan mendistribusikan ulang kode sumber.
 * **Era Modern**: Linux kini mendominasi infrastruktur internet, superkomputer tercepat, mayoritas perangkat Android, hingga gawai pintar di sekitar kita.
 
 Bagaimana sebuah proyek hobi mahasiswa dapat melampaui dominasi perusahaan teknologi raksasa di pasar server dan infrastruktur cloud? Jawabannya terletak pada kekuatan kolaborasi terbuka serta komunitas global yang solid.
@@ -35,7 +35,7 @@ Bagaimana sebuah proyek hobi mahasiswa dapat melampaui dominasi perusahaan tekno
 
 Kernel bertindak sebagai lapisan abstraksi. Pengembang aplikasi tidak perlu memusingkan cara menggerakkan jarum pada piringan hard disk atau mengirim sinyal listrik ke kartu jaringan. Cukup ajukan permintaan melalui kernel, dan kernel yang akan mengurus detail teknisnya.
 
-### Hirarki Sistem
+### Hierarki Sistem
 
 Dalam arsitektur Linux, sistem dibagi menjadi dua wilayah operasi utama:
 
@@ -53,7 +53,7 @@ Aplikasi (user space) $\rightarrow$ Library (glibc) $\rightarrow$ *System Call* 
 * **Process Management**: Mengatur pembagian waktu CPU untuk setiap proses yang aktif.
 * **Memory Management**: Melacak ruang memori yang sedang terpakai dan membaginya secara dinamis.
 * **Device Drivers**: Berperan sebagai penerjemah instruksi antara kernel dan komponen fisik perangkat keras.
-* **File System**: Menentukan struktur penyimpanan data serta memfasilitasi pembacaan dokumen dari media penyimpanan.
+* **File System**: Menentukan struktur penyimpanan data serta memfasilitasi pembacaan file dari media penyimpanan.
 
 ## Mengapa Memisahkan User Space dan Kernel Space?
 
@@ -75,8 +75,8 @@ cat halo_dunia.txt
 
 1. Aplikasi `cat` (user space) memanggil fungsi standard library seperti `open()` dan `read()`.
 2. Permintaan tersebut dikirim ke kernel lewat perantara *system call*.
-3. Kernel memeriksa hak akses: *"Apakah aplikasi ini memiliki izin untuk membaca berkas tersebut?"*
-4. Jika diizinkan, kernel meminta *device driver* penyimpanan untuk mengambil data dari sektor fisik hard drive or SSD.
+3. Kernel memeriksa hak akses: *"Apakah aplikasi ini memiliki izin untuk membaca file tersebut?"*
+4. Jika diizinkan, kernel meminta *device driver* penyimpanan untuk mengambil data dari sektor fisik hard drive atau SSD.
 5. Data yang diperoleh akan disalin dari kernel space ke alokasi memori milik aplikasi `cat` di user space.
 6. Aplikasi `cat` menerima data tersebut dan menampilkannya di layarmu.
 

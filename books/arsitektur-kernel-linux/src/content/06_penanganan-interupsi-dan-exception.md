@@ -2,7 +2,7 @@
 
 Bayangkan kamu sedang asyik membaca buku di ruang tamu, dan tiba-tiba bel pintu berbunyi. Kamu menandai halaman buku tersebut, berdiri, membukakan pintu, menerima paket, lalu kembali duduk dan melanjutkan membaca dari baris yang sama.
 
-Dalam arsitektur Linux, **Interupsi** adalah bel pintu tersebut. Tanpa mekanisme ini, CPU akan terjebak dalam "polling", yaitu terus-menerus memeriksa setiap perangkat keras (seperti mouse, keyboard, atau kartu jaringan) untuk melihat apakah ada data baru, yang mana sangat tidak efisien.
+Dalam arsitektur Linux, **Interupsi** adalah bel pintu tersebut. Tanpa mekanisme ini, CPU akan terjebak dalam "polling", yaitu terus-menerus memeriksa setiap perangkat keras (seperti mouse, keyboard, atau kartu jaringan) untuk melihat apakah ada data baru. Cara ini sangat tidak efisien.
 
 ## 1. Interupsi vs. Exception
 
@@ -22,7 +22,7 @@ IDT adalah sebuah tabel di memori yang berfungsi sebagai "buku alamat". Setiap j
 1. **Sinyal Masuk:** Hardware mengirim sinyal ke *interrupt controller*.
 2. **Identifikasi:** CPU menerima sinyal dan melihat nomor vektornya.
 3. **Penyimpanan Konteks:** CPU secara otomatis menyimpan register penting (seperti EIP/RIP dan stack pointer) agar bisa kembali lagi nanti.
-4. **Lookup IDT:** Kernel mencari alamat fungsi penangan (handler) yang sesuai di dalam IDT.
+4. **Lookup IDT:** CPU mencari alamat fungsi penangan (handler) yang sesuai di dalam IDT.
 5. **Eksekusi ISR:** Kernel menjalankan **Interrupt Service Routine (ISR)**.
 
 ## 3. Interrupt Service Routine (ISR)
@@ -31,7 +31,7 @@ ISR adalah fungsi khusus di dalam kernel yang dirancang untuk menangani interups
 
 - **Harus Cepat:** ISR memblokir proses lain, bahkan terkadang interupsi lainnya. Keterlambatan di sini langsung membuat sistem terasa lambat dan kurang responsif.
 - **Tidak Boleh "Tidur" (Blocking):** Berada di interrupt context berarti tidak ada scheduler yang bisa memindahkan tugas. Oleh karena itu, ISR dilarang keras memanggil fungsi yang memicu *sleep*, seperti menunggu input pengguna atau mengunci mutex.
-- **Reentrant:** Kode ISR harus dirancang agar aman jika interupsi yang sama terjadi lagi secara berturut-turut.
+- **Lindungi Data Bersama:** Linux tidak memanggil handler untuk IRQ yang sama lagi selagi handler itu berjalan, jadi ISR tidak perlu reentrant, tetapi data yang dipakai bersama tetap harus dilindungi dengan spinlock.
 
 ## 4. Top Half dan Bottom Half
 
@@ -58,7 +58,7 @@ Sebagai analogi, bayangkan seorang koki: menerima pesanan (*Top Half*) harus cep
 
 ## 5. Penanganan Exception (System Errors)
 
-Saat terjadi exception, kernel tidak hanya merespons perangkat keras, tetapi juga menjaga stabilitas sistem.
+Saat terjadi exception, kernel harus menangani kondisi yang muncul dari eksekusi instruksi sekaligus menjaga stabilitas sistem.
 
 - **Faults**: Masalah yang masih bisa diperbaiki oleh kernel. Contoh klasiknya adalah *page fault*: ketika data yang diminta ada di swap, kernel akan mengambil data tersebut ke memori fisik dan mengulangi instruksi tanpa membuat aplikasi crash.
 - **Traps**: Dipicu secara sengaja untuk kebutuhan debugging atau saat aplikasi memicu *system call*. Eksekusi instruksi berikutnya akan langsung dilanjutkan begitu handler selesai bertugas.
@@ -103,7 +103,7 @@ module_exit(my_driver_exit);
 
 Mari kita lihat apa yang terjadi saat kamu menekan tombol "A" di keyboard:
 
-1. **Sinyal Perangkat Keras**: Kontroler keyboard mendeteksi tekanan tombol dan segera mengirimkan sinyal listrik ke pin *Interrupt Request* (IRQ) pada CPU.
+1. **Sinyal Perangkat Keras**: Kontroler keyboard mendeteksi tekanan tombol dan segera mengirimkan sinyal listrik ke pin *Interrupt Request* (IRQ) pada *interrupt controller*.
 2. **Interupsi CPU**: Prosesor langsung menangguhkan jalannya aplikasi aktif (misalnya browser) dan merujuk ke tabel IDT.
 3. **Top Half (Eksekusi Cepat)**: ISR keyboard segera berjalan untuk membaca *scancode* dari port fisik perangkat, menaruhnya di buffer, lalu langsung menyudahi tugasnya.
 4. **Bottom Half (Penerjemahan)**: Kernel memproses *scancode* tersebut secara asinkron menjadi karakter 'A' dan memasukkannya ke antrean input terminal atau aplikasi yang sedang fokus.
@@ -113,7 +113,7 @@ Semua ini terjadi dalam hitungan milidetik, memberikan ilusi bahwa komputer mela
 
 ## Perbandingan Interupsi dan Exception
 
-| Fitur | Interupsi (Hardware) | Exception (Software) |
+| Fitur | Interupsi (Eksternal) | Exception (Internal CPU) |
 | --- | --- | --- |
 | **Pemicu** | Sinyal eksternal (I/O) | Instruksi CPU (Error/Trap) |
 | **Sinkronisasi** | Asinkron (Kapan saja) | Sinkron (Saat instruksi dieksekusi) |

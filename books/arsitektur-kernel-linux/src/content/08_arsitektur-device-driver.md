@@ -53,7 +53,7 @@ Driver ini memiliki sifat yang unik. Berbeda dengan dua tipe di atas, driver jar
 
 ## 3. Anatomi Driver
 
-Bagi pengembang kernel, inti dari sebuah driver karakter adalah struktur data yang disebut `file_operations`. Struktur ini berfungsi memetakan *system calls* standar ke fungsi kustom yang kamu buat di dalam driver.
+Bagi pengembang kernel, inti dari sebuah character driver adalah struktur data yang disebut `file_operations`. Struktur ini berfungsi memetakan *system calls* standar ke fungsi kustom yang kamu buat di dalam driver.
 
 Berikut adalah contoh sederhana bagaimana sebuah driver didefinisikan dalam bahasa C:
 
@@ -97,7 +97,7 @@ Mari kita lihat skenario dunia nyata: **Menyimpan dokumen ke USB Drive.**
 
 1. **Aplikasi (User Space):** Kamu menekan tombol "Save". Aplikasi memanggil fungsi `write()` pada file di `/media/usb/data.txt`.
 2. **VFS (Kernel Space):** Virtual File System menerima permintaan tersebut dan mendeteksi bahwa file ini berada di *file system* FAT32 pada sebuah *block device*.
-3. **Block Layer:** Kernel mengatur antrean penulisan agar efisien, misalnya menghindari gerakan berlebih pada *head* mekanis piringan hard disk.
+3. **Block Layer:** Kernel mengatur antrean penulisan agar efisien.
 4. **Block Driver:** Driver *USB storage* menerima perintah untuk menulis data sejumlah 4096 byte ke sektor tertentu.
 5. **Hardware:** Driver mengirimkan sinyal elektrik melalui bus USB ke pengontrol fisik di flash drive hingga data berhasil disimpan.
 
@@ -139,6 +139,6 @@ flowchart TD
 - **Block Driver:** Mengakses data dalam unit blok secara acak (*random access*), memanfaatkan sistem buffer, serta terdaftar di `/dev/`.
 - **Network Interface Driver:** Bekerja dengan orientasi paket tanpa representasi file di `/dev/`, melainkan dikendalikan langsung oleh *networking stack*.
 
-**Penting:** *Device driver* beroperasi sepenuhnya di dalam *Kernel Space*. Konsekuensinya, kesalahan kecil pada kode (seperti mengakses alamat memori yang tidak valid) dapat langsung memicu kegagalan sistem global atau *Kernel Panic*. Oleh karena itu, penulisan driver menuntut ketelitian jauh lebih tinggi dibanding pembuatan aplikasi biasa.
+**Penting:** Sebagian besar *device driver* beroperasi di dalam *Kernel Space*. Konsekuensinya, kesalahan kecil pada kode (seperti mengakses alamat memori yang tidak valid) dapat langsung memicu kegagalan sistem global atau *Kernel Panic*. Oleh karena itu, penulisan driver menuntut ketelitian jauh lebih tinggi dibanding pembuatan aplikasi biasa.
 
 > "Tanpa device driver, kernel Linux hanyalah sekumpulan algoritma yang terisolasi dari dunia nyata."

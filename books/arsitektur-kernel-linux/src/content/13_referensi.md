@@ -42,7 +42,7 @@ McKenney, P. E. (2004). Exploiting deferred destruction: An analysis of read-cop
 
 Mogul, J. C., & Ramakrishnan, K. K. (1997). Eliminating receive livelock in an interrupt-driven kernel. *ACM Transactions on Computer Systems, 15*(3), 217-252. [https://doi.org/10.1145/263326.263335](https://doi.org/10.1145/263326.263335)
 
-Molnar, I. (2007). Completely Fair Scheduler. *Linux kernel mailing list*. [https://www.kernel.org/doc/html/latest/scheduler/sched-design-CFS.html](https://www.kernel.org/doc/html/latest/scheduler/sched-design-CFS.html)
+Molnar, I. (2007). CFS Scheduler. *Linux kernel documentation*. [https://www.kernel.org/doc/html/latest/scheduler/sched-design-CFS.html](https://www.kernel.org/doc/html/latest/scheduler/sched-design-CFS.html)
 
 Pohly, D., McLaughlin, S., McDaniel, P., & Butler, K. (2012). Hi-Fi: Collecting high-fidelity whole-system provenance. *Proceedings of the 28th Annual Computer Security Applications Conference*, 259-268. [https://doi.org/10.1145/2420950.2420989](https://doi.org/10.1145/2420950.2420989)
 

@@ -42,7 +42,7 @@ $$
 **Proses Paging:**
 
 1. Proses mengajukan permintaan data pada alamat virtual tertentu.
-2. Kernel bertugas memeriksa entri pada *page table* untuk melihat pemetaan alamat tersebut.
+2. MMU memeriksa entri pada *page table* untuk melihat pemetaan alamat tersebut.
 3. Jika data target sudah tersedia di RAM, MMU akan langsung memberikan akses ke data.
 4. Namun, jika data tidak ditemukan di RAM (masih tersimpan di disk), sistem memicu **page fault** sehingga kernel harus memuat data tersebut ke RAM terlebih dahulu.
 
@@ -122,8 +122,8 @@ Saat kapasitas RAM benar-benar habis dan sistem tidak lagi sanggup melakukan pag
 ## Ringkasan Singkat
 
 - **Virtual Memory:** Memberikan ilusi ketersediaan ruang alamat yang luas, terisolasi, dan aman bagi setiap proses yang berjalan.
-- **Paging:** Membagi memori ke dalam unit-unit kecil berukuran $4\text{ KB}$ demi menyederhanakan pemetaan ke alamat fisik RAM.
-- **SLAB dan SLUB:** Bertindak sebagai manajer memori internal kernel yang mengalokasikan objek-objek kecil secara efisien tanpa memicu fragmentasi.
+- **Paging:** Membagi memori ke dalam unit-unit kecil berukuran tetap (biasanya $4\text{ KB}$) demi menyederhanakan pemetaan ke alamat fisik RAM.
+- **SLAB dan SLUB:** Bertindak sebagai manajer memori internal kernel yang mengalokasikan objek-objek kecil secara efisien dan mengurangi fragmentasi.
 - **Manajemen Memori:** Berperan menjaga keseimbangan dinamis antara performa kecepatan akses data dan pemanfaatan penyimpanan sekunder (*swap space*).
 
 Lalu, lewat jalur apa sebuah aplikasi bisa berinteraksi dengan kernel?

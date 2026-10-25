@@ -11,7 +11,7 @@ Mekanisme sinkronisasi adalah sekumpulan aturan dan alat yang digunakan kernel u
 > **Analogi Sederhana:** Bayangkan saldo bank kamu adalah Rp1.000.000.
 > 
 > 1. Proses A ingin menarik Rp200.000. Ia membaca saldo: Rp1.000.000.
-> 2. Di saat yang hampir bersamaan, Proses B ingin menyetor Rp100.000. Ia juga membaca saldo: Rp1.000.000.
+> 2. Pada saat yang hampir bersamaan, Proses B ingin menyetor Rp100.000. Ia juga membaca saldo: Rp1.000.000.
 > 3. Proses A menghitung dan menyimpan saldo baru:
 >
 >    <div>
@@ -94,12 +94,12 @@ mutex_unlock(&my_mutex);
 
 ### Jenis Semaphore
 
-1. **Binary Semaphore:** Nilainya 0 atau 1 (identik dengan mutex, namun lebih tua dan kurang dioptimasi di Linux modern).
+1. **Binary Semaphore:** Nilainya 0 atau 1 (menyerupai mutex, namun lebih tua dan kurang dioptimasi di Linux modern).
 2. **Counting Semaphore:** Digunakan untuk membatasi akses ke sumber daya yang berjumlah banyak (misalnya membatasi hanya 5 proses yang boleh mengakses database secara bersamaan).
 
 **Persamaan Matematika Sederhana:** Jika $S$ adalah nilai semaphore:
 
-- Operasi $P(S)$ (Procurar/Wait): Jika $S > 0$, maka $S = S - 1$. Jika $S = 0$, tunggu.
+- Operasi $P(S)$ (Proberen/Wait): Jika $S > 0$, maka $S = S - 1$. Jika $S = 0$, tunggu.
 - Operasi $V(S)$ (Verhogen/Signal): $S = S + 1$.
 
 ## 5. RCU (Read-Copy-Update) Tanpa Kunci untuk Reader
@@ -110,10 +110,10 @@ mutex_unlock(&my_mutex);
 
 1. **Read:** Reader mengakses data secara bebas tanpa kunci apa pun. Ini sangat cepat.
 2. **Copy:** Writer tidak mengubah data di tempat. Ia menyalin data lama ke area memori baru dan mengubah salinan tersebut.
-3. **Update:** Writer mengganti pointer data lama ke data baru secara atomik.
+3. **Update:** Writer mengalihkan pointer dari data lama ke data baru secara atomik.
 4. **Grace Period:** Data lama tidak langsung dihapus. Kernel menunggu sampai semua reader yang sedang mengakses data lama selesai, baru kemudian memori lama dibebaskan.
 
-> **Analogi:** Seperti mengganti menu di papan tulis kafe. Kamu tidak menghapus papan saat pelanggan sedang membaca. Kamu menulis menu baru di papan lain, lalu dengan cepat menukar posisi papan tersebut saat tidak ada yang melihat secara intens. Papan lama baru dibuang setelah kamu yakin tidak ada lagi pelanggan yang melihatnya.
+> **Analogi:** Seperti mengganti menu di papan tulis kafe. Kamu tidak menghapus papan saat pelanggan sedang membaca. Kamu menulis menu baru di papan lain, lalu dengan cepat menukar posisi papan tersebut. Papan lama baru dibuang setelah kamu yakin tidak ada lagi pelanggan yang melihatnya.
 
 ## Perbandingan Cepat
 

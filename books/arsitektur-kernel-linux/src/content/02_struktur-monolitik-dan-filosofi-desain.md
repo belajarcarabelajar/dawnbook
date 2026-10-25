@@ -6,7 +6,7 @@ Linux menggunakan pendekatan arsitektur yang dikenal sebagai **Monolithic Kernel
 
 ## 1. Apa Itu Kernel Monolitik?
 
-Dalam arsitektur monolitik, seluruh sistem operasi berjalan di dalam **kernel space** (ruang kernel). Ini berarti manajemen memori, penjadwalan proses, sistem berkas (VFS), dan driver perangkat keras semuanya berada di dalam satu berkas biner besar yang berjalan dengan hak akses penuh terhadap perangkat keras.
+Dalam arsitektur monolitik, seluruh layanan inti sistem operasi berjalan di dalam **kernel space** (ruang kernel). Ini berarti manajemen memori, penjadwalan proses, sistem berkas (VFS), dan driver perangkat keras semuanya berada di dalam satu berkas biner besar yang berjalan dengan hak akses penuh terhadap perangkat keras.
 
 ### Ruang Kantor Terbuka (Open-Plan Office)
 
@@ -18,7 +18,7 @@ Bayangkan sebuah kantor besar tanpa sekat. Direktur (Manajemen Proses), Akuntan 
 ### Karakteristik Utama
 
 - **Single Address Space:** Seluruh komponen kernel berbagi ruang alamat memori yang sama tanpa pemisah.
-- **High Performance:** Kinerja tinggi karena semua layanan berada di ruang yang sama, sehingga meminimalkan latensi komunikasi antar-komponen (IPC).
+- **High Performance:** Kinerja tinggi karena semua layanan berada di ruang yang sama, sehingga meminimalkan latensi komunikasi antar-komponen.
 - **Direct Hardware Access:** Kernel memegang kontrol penuh atas perangkat keras tanpa lapisan perantara yang memperlambat.
 
 ## 2. Monolitik vs. Mikrokernel
@@ -45,9 +45,9 @@ Kamu tidak perlu mengompilasi ulang seluruh kernel hanya untuk menambahkan dukun
 
 LKM merupakan potongan kode yang dapat dimasukkan ke dalam kernel secara dinamis sesuai kebutuhan (*on-demand*).
 
-**Contoh Skenario:** Saat kamu menghubungkan flashdisk USB, kernel akan mendeteksi perangkat tersebut dan secara otomatis memuat modul `usb-storage`. Begitu flashdisk dicabut dan tidak digunakan lagi, modul tersebut dapat dilepas dari memori untuk menghemat ruang penyimpanan.
+**Contoh Skenario:** Saat kamu menghubungkan flashdisk USB, kernel akan mendeteksi perangkat tersebut dan secara otomatis memuat modul `usb-storage`. Begitu flashdisk dicabut dan tidak digunakan lagi, modul tersebut dapat dilepas dari memori untuk menghemat RAM.
 
-Jika Linux benar-benar menggunakan desain monolitik murni tanpa dukungan modul, ukuran file kernelmu akan membengkak hingga gigabyte karena harus menyertakan semua driver yang pernah dibuat!
+Jika Linux benar-benar menggunakan desain monolitik murni tanpa dukungan modul, ukuran file kernelmu akan membengkak berkali-kali lipat karena harus menyertakan semua driver yang pernah dibuat!
 
 ## 4. Struktur Dasar Modul Kernel
 
@@ -86,7 +86,7 @@ MODULE_DESCRIPTION("Contoh Modul Kernel Sederhana");
 ### Keuntungan
 
 1. **Efisiensi Eksekusi:** Menghilangkan beban overhead akibat transisi berlebih antara *user mode* dan *kernel mode* untuk fungsi-fungsi dasar.
-2. **Optimasi Kolektif:** Compiler mampu melakukan optimasi pada seluruh kode kernel secara menyeluruh karena semuanya berada dalam satu kesatuan unit.
+2. **Optimasi Kolektif:** Compiler mampu melakukan optimasi pada kode kernel secara menyeluruh karena semuanya berada dalam satu kesatuan unit.
 3. **Pemanfaatan Shared Resources:** Berbagi struktur data secara langsung antar-komponen tanpa perlu melakukan penyalinan data (zero-copy).
 
 ### Tantangan
@@ -100,7 +100,7 @@ MODULE_DESCRIPTION("Contoh Modul Kernel Sederhana");
 Pengetahuan tentang struktur monolitik ini sangat penting dalam berbagai skenario nyata:
 
 - **Sistem Tertanam (Embedded System) & IoT:** Pengembang dapat membuang modul yang tidak digunakan untuk menciptakan image kernel yang sangat ramping, cocok untuk perangkat seperti router atau smart fridge.
-- **Server Performa Tinggi:** Administrator sistem dapat menyetel parameter internal secara langsung karena komponen yang saling terhubung, sehingga memaksimalkan throughput data pada kartu jaringan.
+- **Server Performa Tinggi:** Administrator sistem dapat menyetel parameter internal secara langsung karena komponen-komponennya saling terhubung, sehingga memaksimalkan throughput data pada kartu jaringan.
 - **Cloud Computing:** Container engine seperti Docker memanfaatkan kemampuan kernel monolitik untuk mengisolasi proses menggunakan *namespaces* dan *cgroups* tanpa perlu menanggung beban overhead hypervisor dari virtualisasi penuh.
 
 > [!TIP]
