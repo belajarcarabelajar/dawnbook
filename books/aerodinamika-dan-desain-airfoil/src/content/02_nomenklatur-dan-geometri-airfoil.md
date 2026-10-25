@@ -38,7 +38,7 @@ $$
 
 Kategori ketebalan relatif dan karakteristik penggunaannya:
 
-- **Airfoil Tipis ($4\text{\%} - 9\text{\%}$):** Diterapkan pada pesawat tempur supersonik atau wahana berkecepatan tinggi untuk menekan hambatan gelombang (*wave drag*) saat mendekati dan melintasi kecepatan suara.
+- **Airfoil Tipis ($6\text{\%} - 9\text{\%}$):** Diterapkan pada pesawat tempur supersonik atau wahana berkecepatan tinggi untuk menekan hambatan gelombang (*wave drag*) saat mendekati dan melintasi kecepatan suara.
 - **Airfoil Sedang ($10\text{\%} - 14\text{\%}$):** Menjadi standar untuk pesawat komersial subsonik, pesawat angkut, dan pesawat penerbangan umum (*general aviation*) karena menawarkan rasio gaya angkat terhadap hambatan ($L/D$) yang efisien.
 - **Airfoil Tebal ($15\text{\%} - 18\text{\%}$):** Dipilih untuk pesawat kargo berat, pesawat latih mula, atau pangkal sayap (*wing root*) karena memberikan volume internal yang besar untuk tangki bahan bakar dan mekanisme aktuator, serta memiliki karakteristik *stall* yang lembut (*gentle stall behavior*).
 

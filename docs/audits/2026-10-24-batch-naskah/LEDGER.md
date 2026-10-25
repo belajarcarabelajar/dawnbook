@@ -181,7 +181,7 @@ Total: 4170 findings, 3743 edits; 54 decisions were changed after the independen
 Setiap item di bawah dibiarkan tanpa perubahan, karena butuh sumber atau keputusan konten.
 
 - analisis-wacana-kritis-awk-dalam-kriminologi d0029:8: blok linguistik forensik di bab 1 sampai 13 perlu dipindah atau dihapus.
-- aerodinamika-dan-desain-airfoil d0001:7: batas bawah 4% F-16 hanya bertumpu pada satu sumber. d0011:5: simbol `$\ell$` belum bersumber.
+- aerodinamika-dan-desain-airfoil d0001:7: edit Tahap 3 yang mengubah 6%-9% menjadi 4%-9% dikembalikan, karena sumber yang dicatat (aerotoolbox) tidak memuat angka itu. Angka 4% dan 3,4% (F-104) butuh sumber dulu sebelum boleh masuk. d0011:5: simbol momen sudah $\ell$, $M$, $N$ di bab 12, konvensi sumbu belum bersumber.
 - ekonomi-laissez-faire d0086:4: baris "Barang Publik" di tabel ringkasan bab 7 tanpa bab pendukung. d0092:1: tahun Turgot belum dicek ke katalog. Tahun Quesnay di bab 13 belum dicek.
 - metodologi-microteaching d0349:1: entri Mergler dan Spooner-Lane tidak cocok dengan Crossref. d0338:8: cabang "tidak" yang hilang di diagram bab 3.
 - neuroplastisitas-dalam-belajar d0401:7: analogi isolator omega-3 bertentangan dengan poin fluiditas membran.
