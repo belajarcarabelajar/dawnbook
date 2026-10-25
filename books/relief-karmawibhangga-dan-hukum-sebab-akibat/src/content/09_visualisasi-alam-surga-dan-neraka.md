@@ -6,7 +6,7 @@ Relief ini bukan sekadar dekorasi, melainkan sebuah "peta kosmik" yang menggamba
 
 ## 1. Konsep Ruang dan Waktu dalam Karmawibhangga
 
-Dalam kosmologi Buddhis, alam semesta dibagi menjadi beberapa tingkatan. Relief Karmawibhangga berfokus pada **Kāmadhātu** (Alam Hasrat), di mana makhluk-makhluk di dalamnya masih terikat oleh keinginan indrawi. Namun, di dalam Kāmadhātu sendiri terdapat spektrum yang lebar: dari penderitaan paling dalam di Neraka hingga kenikmatan surgawi.
+Dalam kosmologi Buddhis, alam semesta dibagi menjadi beberapa tingkatan. Relief Karmawibhangga berfokus pada **Kāmadhātu** (Alam Hasrat), tempat makhluk-makhluk di dalamnya masih terikat oleh keinginan indrawi. Namun, di dalam Kāmadhātu sendiri terdapat spektrum yang lebar: dari penderitaan paling dalam di Neraka hingga kenikmatan surgawi.
 
 Para pemahat Borobudur menggunakan teknik visual tertentu untuk membedakan alam-alam ini:
 
@@ -66,7 +66,7 @@ Mengapa leluhur kita repot-repot memahat hal-hal yang mengerikan maupun yang ind
 
 1. **Terapi Visual (Shock Therapy):** Melihat visualisasi neraka bertujuan untuk menciptakan *Samvega*, yaitu perasaan gentar yang sehat yang mendorong seseorang untuk segera berbuat baik.
 2. **Visualisasi Cita-cita:** Melihat visualisasi surga memberikan harapan dan target perilaku sosial yang ideal (kedermawanan, ketenangan).
-3. **Pendidikan Moral Non-Verbal:** Pada masa di mana tidak semua orang bisa membaca naskah Sanskerta, relief ini berfungsi sebagai "buku bergambar" yang bisa dipahami oleh siapa saja, dari petani hingga bangsawan.
+3. **Pendidikan Moral Non-Verbal:** Pada masa ketika tidak semua orang bisa membaca naskah Sanskerta, relief ini berfungsi sebagai "buku bergambar" yang bisa dipahami oleh siapa saja, dari petani hingga bangsawan.
 
 ### Panel Orang Pelit bagi Peziarah Abad ke-9
 

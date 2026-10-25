@@ -48,7 +48,7 @@ Memahat di Borobudur bukanlah pekerjaan mudah. Bahan utamanya adalah **batu ande
 
 1. **Persiapan Bidang:** Batu-batu disusun terlebih dahulu (sistem *interlocking*) sebelum dipahat. Artinya, seniman memahat di atas dinding yang sudah jadi, bukan memahat satu batu lalu menyusunnya.
 2. **Pembuatan Sketsa:** Menggunakan arang atau benda tajam untuk menggambar pola kasar di atas permukaan batu.
-3. **Teknik High Relief (Relief Tinggi):** Pemahat Shailendra cenderung menggunakan teknik di mana figur-figur menonjol cukup jauh dari latar belakangnya. Hal ini menciptakan bayangan yang kuat saat terkena sinar matahari, memberikan efek tiga dimensi.
+3. **Teknik High Relief (Relief Tinggi):** Pemahat Shailendra cenderung menggunakan teknik yang membuat figur-figur menonjol cukup jauh dari latar belakangnya. Hal ini menciptakan bayangan yang kuat saat terkena sinar matahari, memberikan efek tiga dimensi.
 4. **Penghalusan:** Menggunakan batu yang lebih halus atau pasir untuk menghilangkan bekas pahatan yang kasar.
 
 ### 5. Kedalaman Ruang pada Panel

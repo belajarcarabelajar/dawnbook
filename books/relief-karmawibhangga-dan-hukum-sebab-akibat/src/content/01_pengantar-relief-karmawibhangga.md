@@ -25,7 +25,7 @@ $$
 
 Candi Borobudur dibangun dengan konsep **Triloka** (Tiga Dunia). Relief Karmawibhangga terletak di bagian paling bawah yang disebut **Kamadhatu**.
 
-- **Kamadhatu** adalah "Dunia Keinginan". Ini adalah level di mana manusia masih terikat oleh nafsu, keinginan rendah, kemarahan, dan keterikatan duniawi.
+- **Kamadhatu** adalah "Dunia Keinginan". Ini adalah level tempat manusia masih terikat oleh nafsu, keinginan rendah, kemarahan, dan keterikatan duniawi.
 - Karena terletak di dasar, relief ini menjadi landasan filosofis sebelum seseorang mendaki ke tingkat yang lebih tinggi (**Rupadhatu** dan **Arupadhatu**).
 
 ## 3\. Tujuan Utama Relief Karmawibhangga
