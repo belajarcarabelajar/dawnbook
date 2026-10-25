@@ -1,12 +1,12 @@
 ## Anatomi dan Komponen Utama Matriks Keputusan
 
-Pernahkah kamu merasa kewalahan saat harus memilih di antara beberapa opsi yang sama-sama menarik? Bayangkan kamu sedang berdiri di depan rak laptop. Ada yang baterainya tahan lama tetapi berat, ada yang sangat ringan tetapi mahal, dan ada yang performanya tinggi tetapi desainnya biasa saja. Pikiran kita sering kali macet karena mencoba memproses semua variabel ini secara bersamaan. Di sinilah **matriks keputusan** (*decision matrix*) membantu: alat ini menstrukturkan pilihan berdasarkan berbagai **kriteria penilaian** untuk menghasilkan **skor berbobot** yang objektif.
+Pernahkah kamu merasa kewalahan saat harus memilih di antara beberapa opsi yang sama-sama menarik? Bayangkan kamu sedang berdiri di depan rak laptop. Ada yang baterainya tahan lama tetapi berat, ada yang sangat ringan tetapi mahal, dan ada yang performanya tinggi tetapi desainnya biasa saja. Pikiran kita sering kali macet karena mencoba memproses semua variabel ini secara bersamaan. Di sinilah **matriks keputusan** (*decision matrix*) membantu: alat ini menstrukturkan pilihan berdasarkan berbagai **kriteria penilaian** untuk menghasilkan **skor berbobot** yang lebih sistematis dan transparan.
 
 Untuk menguasai metode ini, mari kita bedah anatomi dan komponen utamanya terlebih dahulu.
 
 ### Baris dan Kolom
 
-Secara visual, *decision matrix* berupa sebuah tabel terstruktur di mana setiap elemen memiliki peran spesifik:
+Secara visual, *decision matrix* berupa sebuah tabel terstruktur yang setiap elemennya memiliki peran spesifik:
 
 - **Baris (Horizontal)**: Merepresentasikan daftar pilihan atau alternatif yang akan dinilai.
 - **Kolom (Vertikal)**: Berisi kriteria atau tolok ukur penilaian yang kita gunakan sebagai dasar evaluasi.
@@ -21,7 +21,7 @@ Setiap alternatif harus bersifat *comparable* (sebanding). Sebagai contoh, kamu 
 
 ### 2. Kriteria Penilaian
 
-**Kriteria** adalah standar, syarat, atau faktor spesifik yang digunakan untuk mengevaluasi setiap alternatif. Kriteria ini ditempatkan pada baris *column header*.
+**Kriteria** adalah standar, syarat, atau faktor spesifik yang digunakan untuk mengevaluasi setiap alternatif. Kriteria ini ditempatkan pada baris judul kolom (*column header*).
 
 Kriteria wajib relevan dan dapat diukur dengan jelas agar penilaian tetap objektif. Semakin spesifik kriteria yang kamu tentukan, semakin minim bias yang muncul. Contohnya, saat menyeleksi laptop baru, kriteria yang digunakan bisa berupa *harga*, *daya tahan baterai*, *berat fisik*, hingga *kapasitas memori (RAM)*.
 
@@ -67,7 +67,7 @@ Keterangan:
 
 - $S_j$ mewakili total skor akhir untuk alternatif $j$.
 - $w_i$ adalah bobot tingkat kepentingan untuk kriteria $i$.
-- $r_{ij}$ merupakan nilai peringkat (*rating*) alternatif $j$ pada kriteria $i$.
+- $r_{ij}$ merupakan skor penilaian (*rating*) alternatif $j$ pada kriteria $i$.
 
 ### Visualisasi Struktur Matriks
 
@@ -109,7 +109,7 @@ Untuk mengingat kembali struktur dasar yang telah kita bedah:
 - **Alternatif (Baris)**: Pilihan atau solusi yang akan kamu evaluasi dan bandingkan secara langsung.
 - **Kriteria (Kolom)**: Faktor atau tolok ukur spesifik yang relevan bagi pengambilan keputusan.
 - **Bobot**: Nilai prioritas yang menunjukkan seberapa penting kriteria tersebut bagi kebutuhanmu.
-- **Skor & Total Skor**: Skor merepresentasikan penilaian mentah pada tiap kriteria, sedangkan total skor adalah hasil akhir berbobot yang menunjukkan opsi terbaik secara objektif.
+- **Skor & Total Skor**: Skor merepresentasikan penilaian mentah pada tiap kriteria, sedangkan total skor adalah hasil akhir berbobot yang menunjukkan opsi terbaik berdasarkan kriteria dan bobot yang kamu tetapkan.
 
 ### Pesan Utama
 

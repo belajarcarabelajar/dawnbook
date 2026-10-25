@@ -1,6 +1,6 @@
 ## Analisis Sensitivitas dan Validasi Hasil
 
-Setelah menyusun **matriks keputusan** (*decision matrix*), angka-angka telah dijumlahkan dan menghasilkan pemenang yang jelas. Namun, muncul sebuah keraguan: *"Bagaimana jika estimasi biayaku sedikit meleset?"* atau *"Apakah pilihan ini tetap yang terbaik jika prioritas kecepatan pengerjaan tiba-tiba menjadi lebih penting?"*
+Setelah kamu menyusun **matriks keputusan** (*decision matrix*), angka-angka telah dijumlahkan dan menghasilkan pemenang yang jelas. Namun, muncul sebuah keraguan: *"Bagaimana jika estimasi biayaku sedikit meleset?"* atau *"Apakah pilihan ini tetap yang terbaik jika prioritas kecepatan pengerjaan tiba-tiba menjadi lebih penting?"*
 
 Inilah saatnya masuk ke tahap **analisis sensitivitas dan validasi**. Jika matriks keputusan adalah sebuah bangunan, maka analisis sensitivitas adalah "uji gempa" untuk memastikan bangunan tersebut tidak roboh hanya karena sedikit guncangan pada variabelnya.
 
@@ -8,11 +8,11 @@ Inilah saatnya masuk ke tahap **analisis sensitivitas dan validasi**. Jika matri
 
 **Analisis sensitivitas** adalah teknik untuk menentukan bagaimana hasil dari sebuah model (dalam hal ini, peringkat alternatif) berubah ketika input (bobot kriteria atau skor penilaian) divariasikan. Tujuannya bukan mengubah keputusan secara sembarangan, tetapi melihat seberapa tangguh (*robust*) keputusan tersebut.
 
-*   **Keputusan Tangguh:** Peringkat pertama tetap tidak bergeming walaupun ada perubahan kecil pada bobot atau skor.
+*   **Keputusan Tangguh:** Peringkat pertama tetap tidak bergeser walaupun ada perubahan kecil pada bobot atau skor.
 *   **Keputusan Sensitif:** Hanya butuh sedikit pergeseran pada satu variabel untuk langsung mengubah pemenang utamanya.
 
 > **Analogi Sup Asin**
-> Bayangkan kamu sedang membuat sup. Analisis sensitivitas adalah proses bertanya: "Jika saya menambahkan satu sendok teh garam lagi, apakah sup ini masih enak, atau malah tidak bisa dimakan?" Jika rasanya tetap enak, resepmu "tangguh". Jika sedikit tambahan garam saja merusak segalanya, resepmu sangat "sensitif".
+> Bayangkan kamu sedang membuat sup. Analisis sensitivitas adalah proses bertanya: "Jika aku menambahkan satu sendok teh garam lagi, apakah sup ini masih enak, atau malah tidak bisa dimakan?" Jika rasanya tetap enak, resepmu "tangguh". Jika sedikit tambahan garam saja merusak segalanya, resepmu sangat "sensitif".
 
 ### 2. Mengapa Analisis Ini Sangat Penting?
 
@@ -36,7 +36,7 @@ $$
 S_i = \sum_{j=1}^{n} w_j \cdot s_{ij}
 $$
 
-Di mana $w_j$ adalah bobot kriteria $j$ dan $s_{ij}$ adalah skor penilaian.
+Dengan $w_j$ adalah bobot kriteria $j$ dan $s_{ij}$ adalah skor penilaian.
 
 Jika kamu memberikan bobot 40% pada kriteria "Biaya", apa yang terjadi jika bobotnya diturunkan menjadi 30% dan selisih 10% tersebut dipindahkan ke kriteria "Kualitas"? Apakah alternatif pemenang akan berubah?
 
@@ -66,7 +66,7 @@ Untuk menguji keputusan ini, manajer melakukan analisis sensitivitas:
 
 *   **Skenario:** Harga bahan bakar melonjak sehingga biaya logistik dari Lokasi B membengkak.
 *   **Langkah Pengujian:** Naikkan bobot kriteria "Biaya Operasional" dari semula 20% menjadi 40%.
-*   **Dampak Akhir:** Skor total Lokasi B merosot jauh di bawah Lokasi A. Ini membuktikan bahwa Lokasi A merupakan keputusan yang tangguh menghadapi risiko fluktuasi biaya operasional.
+*   **Dampak Akhir:** Skor total Lokasi B merosot jauh di bawah Lokasi A. Ini menunjukkan bahwa dalam skenario ini Lokasi A merupakan keputusan yang tangguh menghadapi risiko fluktuasi biaya operasional.
 
 ### 6. Menggeser Bobot dari Seimbang ke Dominan
 
@@ -77,7 +77,7 @@ Supaya efek pergeseran bobot terlihat dalam angka, ambil contoh rekaan (angka il
 | 50% dan 50% (awal) | (8 × 0,5) + (6 × 0,5) = **7,0** | (5 × 0,5) + (9 × 0,5) = **7,0** | Seri |
 | 80% dan 20% (uji sensitivitas) | (8 × 0,8) + (6 × 0,2) = **7,6** | (5 × 0,8) + (9 × 0,2) = **5,8** | Vendor A unggul |
 
-Dengan bobot yang seimbang, kedua vendor seri di 7,0, jadi belum ada yang memimpin. Begitu bobot Kriteria 1 dinaikkan menjadi 80%, Vendor A langsung unggul 7,6 lawan 5,8. Simulasi sederhana seperti ini membantu mendeteksi "titik balik" (*turning point*) di mana arah keputusan bergeser.
+Dengan bobot yang seimbang, kedua vendor seri di 7,0, jadi belum ada yang memimpin. Begitu bobot Kriteria 1 dinaikkan menjadi 80%, Vendor A langsung unggul 7,6 lawan 5,8. Simulasi sederhana seperti ini membantu mendeteksi "titik balik" (*turning point*) ketika arah keputusan bergeser.
 
 ### Membaca Hasil Uji Sensitivitas
 

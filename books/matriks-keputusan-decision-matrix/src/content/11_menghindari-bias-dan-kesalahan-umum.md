@@ -1,6 +1,6 @@
 ## Menghindari Bias dan Kesalahan Umum dalam Matriks Keputusan
 
-Matriks keputusan sering kali dianggap sebagai alat bantu objektif karena menggunakan perhitungan matematis. Namun, ada satu hal penting yang perlu kamu pahami: **decision matrix hanya seakurat data dan kejujuran orang yang menyusun kriteria penilaian serta skor berbobot di dalamnya.**
+Matriks keputusan sering kali dianggap sebagai alat bantu objektif karena menggunakan perhitungan matematis. Namun, ada satu hal penting yang perlu kamu pahami: **matriks keputusan hanya seakurat data dan kejujuran orang yang menyusun kriteria penilaian serta skor berbobot di dalamnya.**
 
 Jika kamu memasukkan data yang bias atau penilaian subjektif secara berlebihan ke dalam matriks, hasil akhirnya tetaplah keputusan buruk yang dibungkus format tabel profesional (prinsip *Garbage In, Garbage Out*).
 
@@ -76,11 +76,11 @@ Jika memungkinkan, mintalah rekan tim untuk memberikan skor pada alternatif tanp
 
 ### Libatkan Panel Penilai (Diversity of Thought)
 
-Jangan mengisi matriks sendirian. Melibatkan orang-orang dengan perspektif berbeda akan saling meniadakan bias individu. Gunakan rata-rata skor dari beberapa penilai:
+Jangan mengisi matriks sendirian. Melibatkan orang-orang dengan perspektif berbeda dapat membantu mengurangi bias individu. Gunakan rata-rata skor dari beberapa penilai:
 
 $\text{Skor}\_{\text{Akhir}} = \frac{\sum\_{i=1}^{n} \text{Skor}\_{i}}{n}$
 
-Di mana $n$ adalah jumlah penilai.
+Dalam rumus tersebut, $n$ adalah jumlah penilai.
 
 ### Lakukan Pre-Mortem
 

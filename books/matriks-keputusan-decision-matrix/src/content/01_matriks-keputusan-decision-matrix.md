@@ -16,7 +16,7 @@ $$
 \text{Total Skor} = \sum_{i=1}^{n} (\text{Bobot}_i \times \text{Penilaian}_i)
 $$
 
-Di mana:
+Keterangan:
 
 - $\text{Bobot}_i$ adalah tingkat kepentingan kriteria ke-$i$.
 - $\text{Penilaian}_i$ adalah skor yang diberikan pada alternatif untuk kriteria tersebut.
@@ -27,7 +27,7 @@ Manusia secara alami adalah makhluk emosional. Saat mengambil keputusan, kita se
 
 1. **Confirmation Bias (Bias Konfirmasi):** Kecenderungan alami kita untuk hanya mencari informasi yang mendukung pilihan favorit saat ini, sembari mengabaikan fakta yang bertentangan.
 2. **Recency Effect (Efek Kebaruan):** Hal ini terjadi ketika kita cenderung mengagungkan informasi terbaru yang masuk ke ingatan, terlepas dari relevansi jangka panjangnya.
-3. **Decision Fatigue (Kelelahan Keputusan):** Kapasitas mental kita terus tergerus ketika harus memproses terlalu banyak pilihan sekaligus.
+3. **Decision Fatigue (Kelelahan Keputusan):** Kapasitas mental kita terus tergerus ketika harus mengambil banyak keputusan secara beruntun.
 
 Di sinilah matriks keputusan bertindak sebagai filter penyaring yang objektif. Metode ini membantu otak kita untuk beristirahat sejenak dari mode intuitif yang serba cepat (System 1) dan berpindah ke cara berpikir yang lebih analitis dan terstruktur (System 2).
 
@@ -61,7 +61,7 @@ Begini cara matriks keputusan bekerja dalam skenario bisnis nyata. Sebuah perusa
 - **Alternatif Pilihan:** Kawasan Sudirman (pusat kota yang strategis), BSD (wilayah satelit berkembang), atau menyewa ruang kerja bersama (*co-working space*).
 - **Kriteria Penilaian:** Biaya sewa bulanan, kemudahan akses transportasi publik bagi karyawan, dan kelengkapan fasilitas penunjang operasional.
 
-Tanpa alat bantu objektif, seorang CEO mungkin saja terburu-buru memilih Sudirman hanya demi gengsi perusahaan. Sebaliknya, saat menggunakan matriks penilaian, analisis data bisa menunjukkan bahwa BSD mendapatkan total skor tertinggi. Biaya sewa yang jauh lebih hemat di BSD memberikan ruang bagi perusahaan untuk mengalokasikan modal ke pengembangan produk, sementara akses transportasi bagi tim tetap berada dalam batas toleransi yang wajar.
+Tanpa alat bantu objektif, seorang CEO mungkin saja terburu-buru memilih Sudirman hanya demi gengsi perusahaan. Sebaliknya, saat menggunakan matriks keputusan, analisis data bisa menunjukkan bahwa BSD mendapatkan total skor tertinggi. Biaya sewa yang jauh lebih hemat di BSD memberikan ruang bagi perusahaan untuk mengalokasikan modal ke pengembangan produk, sementara akses transportasi bagi tim tetap berada dalam batas toleransi yang wajar.
 
 ## Visualisasi Struktur Dasar
 

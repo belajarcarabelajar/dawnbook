@@ -2,7 +2,7 @@
 
 Kriteria penilaian dan bobotnya sudah kamu tentukan, jadi tantangan berikutnya adalah menentukan skala dan **sistem penilaian (scoring system)** secara adil. Langkah ini termasuk dalam penyusunan **matriks keputusan (decision matrix)**. Tanpa standarisasi yang tepat, perbandingan antar-alternatif akan menjadi bias dan tidak konsisten.
 
-Bayangkan kamu sedang menjadi juri dalam sebuah kompetisi memasak. Jika kamu menilai hidangan kontestan A pada aspek rasa menggunakan skala 1–10, sedangkan hidangan kontestan B pada aspek presentasi dinilai menggunakan skala 1–100, hasil akhirnya akan kacau. Kamu tidak akan bisa membandingkan kedua hidangan tersebut secara objektif.
+Bayangkan kamu sedang menjadi juri dalam sebuah kompetisi memasak. Jika kamu menilai aspek rasa hidangan kontestan A menggunakan skala 1–10, sedangkan aspek rasa hidangan kontestan B dinilai menggunakan skala 1–100, hasil akhirnya akan kacau. Kamu tidak akan bisa membandingkan kedua hidangan tersebut secara objektif.
 
 Di sinilah pentingnya standarisasi alat ukur. Langkah ini bertujuan menciptakan "penggaris" yang seragam untuk mengukur setiap alternatif yang kamu miliki.
 
@@ -38,7 +38,7 @@ Pilihlah skala ini jika kamu menghadapi banyak alternatif dengan performa yang m
 
 Skala ini khusus digunakan untuk kriteria mutlak yang hanya memiliki dua kemungkinan jawaban.
 
-- *Contoh:* Evaluasi kepatuhan hukum seperti, "Apakah vendor memiliki sertifikasi ISO?" (Ya = 1, Tidak = 0).
+- *Contoh:* Evaluasi kriteria mutlak seperti "Apakah vendor memiliki sertifikasi ISO?" (Ya = 1, Tidak = 0).
 
 ### 3. Menyusun Rubrik Penilaian (Scoring Rubric)
 
@@ -49,8 +49,8 @@ Mari kita lihat contoh penerapan rubrik penilaian ketika kamu memilih laptop bar
 | Skor | Definisi Kualitatif | Indikator Kuantitatif |
 | :---: | :--- | :--- |
 | **1** | Sangat Buruk | Tahan kurang dari 3 jam |
-| **2** | Buruk | Tahan 3 s.d. 5 jam |
-| **3** | Cukup | Tahan 5 s.d. 8 jam |
+| **2** | Buruk | Tahan 3 s.d. kurang dari 5 jam |
+| **3** | Cukup | Tahan 5 s.d. kurang dari 8 jam |
 | **4** | Baik | Tahan 8 s.d. 12 jam |
 | **5** | Sangat Baik | Tahan lebih dari 12 jam |
 
@@ -80,7 +80,7 @@ Sebagai contoh rekaan (angka ilustrasi), misalkan laptop termurah di daftarmu se
 
 Laptop termurah otomatis mendapat skor penuh 5, sedangkan Laptop A mendapat 3,33 (dibulatkan dua angka di belakang koma).
 
-- **Data Kualitatif:** Gunakan konsensus tim atau penilaian ahli (*expert judgment*) untuk memposisikan setiap alternatif ke dalam skala 1–5 berdasarkan rubrik yang telah disepakati.
+- **Data Kualitatif:** Gunakan konsensus tim atau penilaian ahli (*expert judgment*) untuk memosisikan setiap alternatif ke dalam skala 1–5 berdasarkan rubrik yang telah disepakati.
 
 Sebagai gambaran, jika kamu menilai "Kenyamanan Kantor", bagaimana cara memastikan skor '4' yang kamu berikan memiliki standar yang sama dengan skor '4' dari rekan kerjamu? Di sinilah deskripsi tertulis pada setiap angka skala memainkan peran penting untuk menyamakan persepsi.
 
@@ -106,7 +106,7 @@ Agar hasil matriks keputusan tetap objektif, hindari beberapa kesalahan umum ber
 
 - **Efek Halo (Halo Effect):** Jangan biarkan keunggulan mencolok pada satu kriteria (misalnya desain produk yang sangat estetis) memengaruhi penilaianmu secara keseluruhan, sehingga kamu cenderung memberikan skor tinggi pada aspek lain (seperti performa) yang sebenarnya biasa saja.
 - **Kecenderungan Memusat (Central Tendency Bias):** Hindari kebiasaan memberi skor "aman" di angka tengah (seperti skor 3 secara terus-menerus). Jika memang ada perbedaan kualitas yang nyata antar-alternatif, beranikan diri untuk memberikan skor yang tegas, baik tinggi maupun rendah.
-- **Batasan Angka Nol:** Tentukan sejak awal apakah angka 0 boleh digunakan. Biasanya, skala penilaian dimulai dari angka 1 agar alternatif tersebut tetap memberikan nilai kontribusi sekecil apa pun dalam perhitungan akhir.
+- **Batasan Angka Nol:** Tentukan sejak awal apakah angka 0 boleh digunakan. Biasanya, skala penilaian dimulai dari angka 1 agar setiap alternatif tetap memberikan nilai kontribusi sekecil apa pun dalam perhitungan akhir.
 
 > [!TIP]
 > Skala penilaian yang dirancang dengan baik mengubah intuisi abstrak menjadi data kuantitatif yang terukur. Tanpa skala seperti itu, keputusan yang diambil hanyalah spekulasi dalam bentuk tabel angka.

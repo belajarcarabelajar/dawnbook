@@ -41,7 +41,7 @@ Dalam metode ini, kamu memberikan angka pada setiap kriteria berdasarkan skala t
   $$
   </div>
 
-  Di mana:
+  Keterangan:
   - $w\_i$ = Bobot kriteria ke-$i$ (setelah dinormalisasi)
   - $p\_i$ = Skor kepentingan kriteria ke-$i$
   - $\sum p\_j$ = Total jumlah skor dari semua kriteria yang ada
@@ -52,7 +52,7 @@ Dalam metode ini, kamu memberikan angka pada setiap kriteria berdasarkan skala t
 2. **Pengurutan Prioritas:** Urutkan kriteria mulai dari yang paling vital hingga yang sekadar opsional.
 3. **Alokasi Nilai:** Terapkan salah satu metode (sistem persentase atau skala prioritas).
    - *Tips penting:* Hindari memberikan nilai bobot yang seragam untuk semua kriteria. Jika semuanya dianggap sama penting, esensi dari analisis terstruktur ini akan hilang.
-4. **Uji Kelayakan Logika:** Lakukan evaluasi ulang. Apakah kriteria dengan bobot tertinggi benar-benar mencerminkan faktor penentu keputusanmu? Misalnya, jika kriteria "Biaya" mendapatkan bobot $70 \text{\%}$, artinya kamu sangat sensitif terhadap harga dan siap mengabaikan faktor kualitas demi menekan pengeluaran.
+4. **Uji Kelayakan Logika:** Lakukan evaluasi ulang. Apakah kriteria dengan bobot tertinggi benar-benar mencerminkan faktor penentu keputusanmu? Misalnya, jika kriteria "Biaya" mendapatkan bobot $70 \text{\%}$, artinya kamu sangat sensitif terhadap harga dan bersedia menomorduakan faktor kualitas demi menekan pengeluaran.
 
 ### Memilih Vendor Software IT
 
@@ -66,7 +66,7 @@ Mari kita lihat bagaimana sebuah perusahaan memberikan bobot saat memilih vendor
 | Dukungan Pelanggan | 3 | $3 / 25 = 0.12$ ($12 \text{\%}$) |
 | **Total** | **25** | **1.00 (100%)** |
 
-**Skenario:** Dalam kasus di atas, manajemen memutuskan bahwa **Keamanan Data** adalah harga mati (skor 10). Meskipun sebuah software sangat murah (Biaya), jika keamanannya buruk, bobot $40 \text{\%}$ pada keamanan akan langsung menurunkan skor total vendor tersebut.
+**Skenario:** Dalam kasus di atas, manajemen memutuskan bahwa **Keamanan Data** adalah harga mati (skor 10). Meskipun sebuah perangkat lunak sangat murah (Biaya), jika keamanannya buruk, bobot $40 \text{\%}$ pada keamanan akan langsung menurunkan skor total vendor tersebut.
 
 Porsi keempat bobot tersebut tampak lebih jelas dalam diagram lingkaran ini.
 
@@ -83,8 +83,8 @@ pie showData
 
 ### Tantangan dalam Pemberian Bobot
 
-- **Confirmation Bias:** Ada kecenderungan psikologis untuk sengaja meninggikan bobot kriteria tertentu demi memenangkan opsi favorit sejak awal.
+- **Confirmation Bias:** Ada kecenderungan psikologis untuk meninggikan bobot kriteria tertentu demi memenangkan opsi favorit sejak awal.
   - *Evaluasi kembali:* Apakah bobot ini didasarkan pada kebutuhan objektif yang nyata, atau hanya trik agar pilihan yang disukai secara emosional keluar sebagai pemenang?
-- **Kriteria yang Tumpang Tindih:** Ketika dua kriteria terlalu mirip, mereka akan memecah dan mendistorsi nilai bobot sesungguhnya. Selalu pastikan kriteria penilaian bersifat independen satu sama lain.
+- **Kriteria yang Tumpang Tindih:** Ketika dua kriteria terlalu mirip, aspek yang sama akan terhitung dua kali dan mendistorsi nilai bobot sesungguhnya. Selalu pastikan kriteria penilaian bersifat independen satu sama lain.
 
 Nilai bobot bukanlah angka statis yang berlaku selamanya, melainkan cerminan dari strategi yang sedang berjalan. Sebagai contoh, di tahun ini prioritas utama mungkin terletak pada pertumbuhan sehingga kriteria tersebut mendapat bobot $60 \text{\%}$. Namun, ketika situasi ekonomi berubah menantang, efisiensi biaya bisa bergeser menjadi prioritas utama. Perubahan seperti ini wajar, asalkan kamu tetap konsisten dan objektif selama sesi pengambilan keputusan berlangsung.

@@ -14,7 +14,7 @@ Banyak orang terjebak dalam *tunnel vision*, di mana mereka hanya berfokus pada 
 
 1. **Mencegah Penyesalan.** Cara ini mengurangi risiko melewatkan peluang yang sebenarnya lebih menguntungkan.
 2. **Objektivitas yang Lebih Baik.** Kita didorong untuk mempertimbangkan opsi yang mungkin awalnya kurang disukai, tetapi secara teknis mumpuni.
-3. Kita bisa menghemat waktu (**Efisiensi**) dengan langsung membuang opsi yang kurang layak sejak awal agar tidak membuang waktu pada tahap penilaian nanti.
+3. **Efisiensi.** Opsi yang kurang layak bisa langsung dibuang sejak awal sehingga kita tidak membuang waktu pada tahap penilaian nanti.
 
 ### Strategi Menyusun Daftar Alternatif
 
@@ -30,7 +30,7 @@ Pada tahap awal, jangan terlalu kritis. Tuliskan semua kemungkinan yang muncul d
 
 Lihat apa yang dilakukan pihak lain atau kompetitor dalam situasi serupa. Jika ini adalah keputusan bisnis, carilah vendor atau teknologi yang sedang tren di pasar.
 
-#### 3. Batasan Teknis (*Constraints*)
+#### 3. Batasan (*Constraints*)
 
 Identifikasi batas-batas yang tidak bisa dilanggar. Jika anggaranmu maksimal Rp10 juta, maka opsi seharga Rp20 juta bukan lagi alternatif, melainkan sekadar angan-angan.
 
@@ -81,7 +81,7 @@ Sebuah tim pengembang harus memutuskan *framework* mana yang akan digunakan untu
 **Daftar Alternatif Akhir untuk Matriks:**
 
 1. **React.js** dengan ekosistemnya yang luas.
-2. **Vue.js** yang menawarkan kurva pembelajaran relatif cepat.
+2. **Vue.js** yang menawarkan kurva pembelajaran yang relatif landai.
 3. **Angular** karena memiliki struktur kuat yang cocok untuk skala korporasi.
 
 ### Tips Menghindari Kesalahan Umum
