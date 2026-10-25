@@ -90,11 +90,11 @@ mutex_unlock(&my_mutex);
 
 ## 4. Semaphore Pengelola Kapasitas
 
-**Semaphore** mirip dengan mutex, namun memiliki hitungan (counter). Jika mutex hanya mengizinkan satu akses (biner), semaphore bisa mengizinkan beberapa akses sekaligus hingga batas tertentu.
+**Semaphore** mirip dengan mutex, tetapi memiliki hitungan (counter). Jika mutex hanya mengizinkan satu akses (biner), semaphore bisa mengizinkan beberapa akses sekaligus hingga batas tertentu.
 
 ### Jenis Semaphore
 
-1. **Binary Semaphore:** Nilainya 0 atau 1 (menyerupai mutex, namun lebih tua dan kurang dioptimasi di Linux modern).
+1. **Binary Semaphore:** Nilainya 0 atau 1 (menyerupai mutex, tetapi lebih tua dan kurang dioptimasi di Linux modern).
 2. **Counting Semaphore:** Digunakan untuk membatasi akses ke sumber daya yang berjumlah banyak (misalnya membatasi hanya 5 proses yang boleh mengakses database secara bersamaan).
 
 **Persamaan Matematika Sederhana:** Jika $S$ adalah nilai semaphore:

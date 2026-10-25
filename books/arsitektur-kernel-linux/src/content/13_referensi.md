@@ -14,9 +14,9 @@ Love, R. (2010). *Linux kernel development* (3rd ed.). Addison-Wesley Profession
 
 Mauerer, W. (2008). *Professional Linux kernel architecture*. Wiley Publishing. [https://www.wiley.com/en-us/Professional+Linux+Kernel+Architecture-p-9780470343432](https://www.wiley.com/en-us/Professional+Linux+Kernel+Architecture-p-9780470343432)
 
-Tanenbaum, A. S., & Bos, H. (2014). *Modern operating systems* (4th ed.). Pearson Education. [https://openlibrary.org/books/OL25620855M](https://openlibrary.org/books/OL25620855M)
-
 Silberschatz, A., Galvin, P. B., & Gagne, G. (2018). *Operating system concepts* (10th ed.). John Wiley & Sons. [https://www.wiley.com/en-us/shop/general-end-user-computing/operating-system-concepts-10th-edition-p-9781119320913](https://www.wiley.com/en-us/shop/general-end-user-computing/operating-system-concepts-10th-edition-p-9781119320913)
+
+Tanenbaum, A. S., & Bos, H. (2014). *Modern operating systems* (4th ed.). Pearson Education. [https://openlibrary.org/books/OL25620855M](https://openlibrary.org/books/OL25620855M)
 
 ---
 

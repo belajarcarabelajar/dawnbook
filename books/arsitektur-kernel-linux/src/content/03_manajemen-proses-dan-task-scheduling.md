@@ -36,7 +36,7 @@ Kernel melacak status setiap task menggunakan flag dalam `task_struct`:
 1. **TASK_RUNNING**: Proses sedang aktif dieksekusi oleh CPU atau berada di antrean *ready* untuk menunggu giliran.
 2. **TASK_INTERRUPTIBLE**: Status tidur sementara karena menunggu kejadian tertentu, seperti input dari *keyboard*. Status ini bisa diinterupsi oleh sinyal luar.
 3. **TASK_UNINTERRUPTIBLE**: Kondisi tidur yang tidak dapat diinterupsi sinyal, umumnya terjadi ketika proses sedang menunggu operasi I/O dari perangkat keras selesai.
-4. **EXIT_ZOMBIE**: Proses telah selesai berjalan, namun metadatanya tetap tertinggal di tabel proses karena induk (*parent*) belum membaca status keluarnya (*exit status*).
+4. **EXIT_ZOMBIE**: Proses telah selesai berjalan, tetapi metadatanya tetap tertinggal di tabel proses karena induk (*parent*) belum membaca status keluarnya (*exit status*).
 5. **EXIT_DEAD**: Fase final ketika seluruh resource task benar-benar dibersihkan oleh sistem.
 
 ### Mekanisme Fork dan Copy-on-Write (COW)

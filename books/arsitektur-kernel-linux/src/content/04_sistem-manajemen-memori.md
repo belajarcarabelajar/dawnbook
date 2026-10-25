@@ -116,7 +116,7 @@ Saat kapasitas RAM benar-benar habis dan sistem tidak lagi sanggup melakukan pag
 **Cara Kerja OOM Killer:**
 
 1. Kernel menghitung dan memberikan nilai `oom_score` ke setiap proses yang sedang berjalan.
-2. Proses dengan konsumsi memori besar namun bukan merupakan proses sistem yang kritis akan mendapatkan skor lebih tinggi.
+2. Proses dengan konsumsi memori besar tetapi bukan merupakan proses sistem yang kritis akan mendapatkan skor lebih tinggi.
 3. Kernel kemudian mengirimkan sinyal penutupan paksa `SIGKILL` ke proses dengan skor tertinggi agar memori segera terbebas.
 
 ## Ringkasan Singkat

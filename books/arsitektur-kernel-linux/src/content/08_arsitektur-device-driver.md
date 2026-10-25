@@ -48,7 +48,7 @@ Driver ini memiliki sifat yang unik. Berbeda dengan dua tipe di atas, driver jar
 - **Karakteristik:**
   - Bekerja dengan orientasi paket (*packet-oriented*).
   - Berinteraksi erat dengan protokol komunikasi seperti TCP/IP.
-  - Mengandalkan struktur data `sk_buff` (*socket buffer*) untuk mentransmisikan data antar-lapisan.
+  - Mengandalkan struktur data `sk_buff` (*socket buffer*) untuk mentransmisikan data antarlapisan.
   - Contoh: Kartu Ethernet (NIC) dan adaptor Wi-Fi.
 
 ## 3. Anatomi Driver

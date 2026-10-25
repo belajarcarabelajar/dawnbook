@@ -51,7 +51,7 @@ Inilah ISR yang sebenarnya. Tugasnya hanya melakukan pekerjaan minimal:
 Melakukan pekerjaan berat (analisis data, pengiriman ke aplikasi). Bagian ini berjalan saat CPU lebih "santai". Ada beberapa mekanisme:
 
 1. **Softirqs**: Sangat sensitif terhadap waktu dan dijalankan dengan prioritas tinggi, contohnya pada pemrosesan paket jaringan.
-2. **Tasklets**: Dibuat di atas softirqs agar lebih mudah dipakai, namun memiliki batasan hanya bisa berjalan di satu CPU dalam satu waktu.
+2. **Tasklets**: Dibuat di atas softirqs agar lebih mudah dipakai, tetapi memiliki batasan hanya bisa berjalan di satu CPU dalam satu waktu.
 3. **Workqueues**: Menjalankan tugas berat di dalam *process context*, sehingga diizinkan untuk melakukan operasi blocking atau masuk ke mode *sleep*.
 
 Sebagai analogi, bayangkan seorang koki: menerima pesanan (*Top Half*) harus cepat agar pelanggan tidak menunggu lama, sedangkan memasak pesanan tersebut (*Bottom Half*) bisa diselesaikan setelahnya.

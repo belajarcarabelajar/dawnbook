@@ -18,7 +18,7 @@ Bayangkan sebuah kantor besar tanpa sekat. Direktur (Manajemen Proses), Akuntan 
 ### Karakteristik Utama
 
 - **Single Address Space:** Seluruh komponen kernel berbagi ruang alamat memori yang sama tanpa pemisah.
-- **High Performance:** Kinerja tinggi karena semua layanan berada di ruang yang sama, sehingga meminimalkan latensi komunikasi antar-komponen.
+- **High Performance:** Kinerja tinggi karena semua layanan berada di ruang yang sama, sehingga meminimalkan latensi komunikasi antarkomponen.
 - **Direct Hardware Access:** Kernel memegang kontrol penuh atas perangkat keras tanpa lapisan perantara yang memperlambat.
 
 ## 2. Monolitik vs. Mikrokernel
@@ -28,7 +28,7 @@ Sejarah sistem operasi mencatat perdebatan terkenal antara Linus Torvalds (penci
 | Fitur | Kernel Monolitik (Linux) | Mikrokernel (Mach, MINIX) |
 | --- | --- | --- |
 | **Lokasi Layanan** | Semua berjalan di dalam kernel space. | Minimalis di kernel space, sisanya di user space. |
-| **Kecepatan** | Sangat cepat karena pemanggilan fungsi secara langsung. | Lebih lambat karena membutuhkan *message passing* antar-ruang. |
+| **Kecepatan** | Sangat cepat karena pemanggilan fungsi secara langsung. | Lebih lambat karena membutuhkan *message passing* antarruang. |
 | **Stabilitas** | Satu modul yang gagal dapat memicu *kernel panic*. | Jika satu layanan gagal, sistem secara umum tetap dapat berjalan. |
 | **Ukuran** | Cenderung besar karena berupa berkas biner tunggal. | Kernel inti berukuran sangat kecil. |
 
@@ -87,7 +87,7 @@ MODULE_DESCRIPTION("Contoh Modul Kernel Sederhana");
 
 1. **Efisiensi Eksekusi:** Menghilangkan beban overhead akibat transisi berlebih antara *user mode* dan *kernel mode* untuk fungsi-fungsi dasar.
 2. **Optimasi Kolektif:** Compiler mampu melakukan optimasi pada kode kernel secara menyeluruh karena semuanya berada dalam satu kesatuan unit.
-3. **Pemanfaatan Shared Resources:** Berbagi struktur data secara langsung antar-komponen tanpa perlu melakukan penyalinan data (zero-copy).
+3. **Pemanfaatan Shared Resources:** Berbagi struktur data secara langsung antarkomponen tanpa perlu melakukan penyalinan data (zero-copy).
 
 ### Tantangan
 
