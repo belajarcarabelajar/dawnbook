@@ -14,7 +14,7 @@ Bayangkan seorang calon pilot. Sebelum ia dipercaya menerbangkan pesawat komersi
 
 Dalam microteaching, kompleksitas pengajaran di kelas yang sebenarnya dikurangi secara signifikan:
 
-- **Jumlah siswa:** Biasanya hanya 5-10 orang (biasanya teman sejawat/peer-teaching).
+- **Jumlah siswa:** Biasanya hanya 5-10 orang (umumnya teman sejawat/peer-teaching).
 - **Waktu:** Dibatasi sekitar 10-15 menit.
 - **Fokus:** Hanya melatih satu atau dua keterampilan spesifik (misalnya: hanya cara membuka pelajaran atau cara memberikan penguatan).
 
@@ -43,7 +43,7 @@ Mengajar adalah sebuah seni sekaligus sains. Tanpa microteaching, seorang pendid
 
 ### 1. Menghubungkan Teori dan Praktik
 
-Banyak mahasiswa menguasai teori psikologi pendidikan atau metodologi secara akademis, namun "blank" saat harus mengaplikasikannya. Microteaching mengubah pengetahuan abstrak menjadi tindakan nyata.
+Banyak mahasiswa menguasai teori psikologi pendidikan atau metodologi secara akademis, tetapi "blank" saat harus mengaplikasikannya. Microteaching mengubah pengetahuan abstrak menjadi tindakan nyata.
 
 ### 2. Mengurangi Risiko (Risk-Free Environment)
 
@@ -59,7 +59,7 @@ Sulit untuk memperbaiki cara bicara, bahasa tubuh, penggunaan media, dan teknik 
 
 ## Microteaching sebagai Laboratorium Pendidik
 
-Dalam dunia sains, laboratorium adalah tempat untuk melakukan eksperimen yang terkendali. Microteaching berfungsi sebagai **Laboratorium Pedagogik**.
+Dalam dunia sains, laboratorium adalah tempat untuk melakukan eksperimen yang terkendali. Microteaching berfungsi sebagai **Laboratorium Pendidik**.
 
 Di dalam "laboratorium" ini, berlaku siklus eksperimen:
 
@@ -86,9 +86,9 @@ flowchart LR
 
 Microteaching tidak hanya untuk mahasiswa. Guru profesional pun menggunakannya untuk beradaptasi dengan kurikulum baru atau teknologi baru.
 
-**Calon Pendidik (Pre-service)** Seorang mahasiswa keguruan merasa sangat pemalu. Melalui microteaching, ia fokus pada satu keterampilan: **Keterampilan Variasi Stimulus**. Ia berlatih menggerakkan tangan, mengubah nada suara, dan berpindah posisi berdiri. Setelah 3 kali sesi simulasi, ia mulai merasa nyaman dengan bahasa tubuhnya sendiri sebelum terjun ke sekolah formal.
+**Calon Pendidik (Pre-service):** Seorang mahasiswa keguruan merasa sangat pemalu. Melalui microteaching, ia fokus pada satu keterampilan: **Keterampilan Variasi Stimulus**. Ia berlatih menggerakkan tangan, mengubah nada suara, dan berpindah posisi berdiri. Setelah 3 kali sesi simulasi, ia mulai merasa nyaman dengan bahasa tubuhnya sendiri sebelum terjun ke sekolah formal.
 
-**Guru Profesional (In-service)** Seorang guru senior yang terbiasa mengajar ceramah konvensional ingin beralih ke metode *Problem Based Learning*. Ia melakukan sesi microteaching di depan rekan sejawatnya untuk mendapatkan masukan apakah instruksi masalah yang ia berikan sudah cukup menantang dan jelas bagi siswa milenial.
+**Guru Profesional (In-service):** Seorang guru senior yang terbiasa mengajar ceramah konvensional ingin beralih ke metode *Problem-Based Learning*. Ia melakukan sesi microteaching di depan rekan sejawatnya untuk mendapatkan masukan apakah instruksi masalah yang ia berikan sudah cukup menantang dan jelas bagi siswa masa kini.
 
 ## Filosofi Utama Microteaching
 

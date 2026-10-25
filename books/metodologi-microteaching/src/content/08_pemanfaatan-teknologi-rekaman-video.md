@@ -1,6 +1,6 @@
 ## Pemanfaatan Teknologi Rekaman Video
 
-Pernahkah kamu merasa sudah mengajar dengan maksimal, namun saat menerima umpan balik, ada hal-hal yang sama sekali tidak kamu sadari? Mungkin kamu terlalu sering membelakangi siswa saat menulis di papan tulis, atau mungkin ada kata "oke" yang terus berulang sebagai *filler word*.
+Pernahkah kamu merasa sudah mengajar dengan maksimal, tetapi saat menerima umpan balik, ada hal-hal yang sama sekali tidak kamu sadari? Mungkin kamu terlalu sering membelakangi siswa saat menulis di papan tulis, atau mungkin ada kata "oke" yang terus berulang sebagai *filler word*.
 
 Di sinilah peran **Teknologi Rekaman Video** masuk. Dalam metodologi microteaching, video bukan sekadar dokumentasi administratif, melainkan instrumen observasi yang merekam apa adanya. Video menangkap detail yang terlewat oleh mata manusia dan memungkinkan kita untuk "keluar dari diri sendiri" guna melihat performa kita secara objektif.
 
@@ -9,7 +9,7 @@ Di sinilah peran **Teknologi Rekaman Video** masuk. Dalam metodologi microteachi
 Video berfungsi sebagai jembatan antara **persepsi** (apa yang kita rasa kita lakukan) dan **realitas** (apa yang sebenarnya terjadi).
 
 - **Objektivitas:** Berbeda dengan ingatan manusia yang subjektif, video merekam fakta.
-- **Analisis Berulang:** kamu dapat memutar ulang bagian tertentu (misalnya, saat memberikan penguatan/reinforcement) untuk menganalisis reaksi siswa secara mendalam.
+- **Analisis Berulang:** Kamu dapat memutar ulang bagian tertentu (misalnya, saat memberikan penguatan/reinforcement) untuk menganalisis reaksi siswa secara mendalam.
 - **Bukti Kinerja (Portofolio):** Rekaman menjadi aset digital yang membuktikan progres keterampilan mengajar kamu dari waktu ke waktu.
 
 > "Video adalah cermin yang memperlihatkan wajah sekaligus cara mengajar seorang guru di dalam kelas."
@@ -34,7 +34,7 @@ Pastikan sumber cahaya utama berada di **depan** atau **samping** guru, bukan di
 
 ### C. Kualitas Audio (Suara)
 
-Audio seringkali lebih penting daripada video. Jika kualitas gambar buruk, kita masih bisa belajar dari suara. Jika suara tidak terdengar, video hampir tidak berguna.
+Audio sering kali lebih penting daripada video. Jika kualitas gambar buruk, kita masih bisa belajar dari suara. Jika suara tidak terdengar, video hampir tidak berguna.
 
 - **Gunakan Mikrofon Eksternal:** Jika memungkinkan, gunakan *clip-on* atau *wireless mic*.
 - **Kontrol Kebisingan:** Matikan kipas angin yang berisik atau tutup pintu untuk meredam suara koridor.
@@ -52,7 +52,7 @@ Ada dua pendekatan utama dalam meletakkan kamera saat simulasi:
 
 ## 4. Alur Kerja Dokumentasi Digital
 
-Agar hasil rekaman tidak menumpuk tanpa arah, ikuti standarisasi dokumentasi berikut:
+Agar hasil rekaman tidak menumpuk tanpa arah, ikuti standardisasi dokumentasi berikut:
 
 ### Penamaan File (Naming Convention)
 
@@ -65,7 +65,7 @@ Gunakan format yang konsisten untuk memudahkan pencarian di masa depan: `TANGGAL
 
 ## 5. Ibu Sarah Merekam Latihan Menjelaskan
 
-**Skenario:** Ibu Sarah sedang berlatih "Keterampilan Menjelas" dalam durasi 10 menit. Ia menggunakan smartphone yang diletakkan di tripod.
+**Skenario:** Ibu Sarah sedang berlatih "Keterampilan Menjelaskan" dalam durasi 10 menit. Ia menggunakan smartphone yang diletakkan di tripod.
 
 - **Langkah 1 (Persiapan):** Sarah menandai lantai dengan isolasi kecil sebagai batas jangkauan kamera agar ia tidak keluar dari frame (off-camera).
 - **Langkah 2 (Eksekusi):** Rekan sejawat menekan tombol *record* 5 detik sebelum Sarah memulai untuk memastikan bagian awal tidak terpotong.

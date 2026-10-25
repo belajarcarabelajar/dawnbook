@@ -18,7 +18,7 @@ Ken Blanchard gemar mengulang ungkapan yang ia sebut berasal dari rekannya, Rick
 
 ### 2. Etika Memberikan Umpan Balik
 
-Memberikan kritik kepada rekan sejawat membutuhkan empati dan teknik komunikasi yang matang agar pesan dapat diterima tanpa memicu defensifitas.
+Memberikan kritik kepada rekan sejawat membutuhkan empati dan teknik komunikasi yang matang agar pesan dapat diterima tanpa memicu sikap defensif.
 
 #### A. Gunakan Prinsip "I-Message"
 
@@ -52,7 +52,7 @@ Agar umpan balik tidak bias, gunakan model **SBI (Situation, Behavior, Impact)**
 
 ### 4. Cara Menerima Umpan Balik
 
-Menerima kritik seringkali memicu reaksi *fight-or-flight* di otak kita. Sebagai calon guru profesional, kamu perlu melatih **Growth Mindset**.
+Menerima kritik sering kali memicu reaksi *fight-or-flight* di otak kita. Sebagai calon guru profesional, kamu perlu melatih **Growth Mindset**.
 
 - **Dengarkan secara Aktif:** Jangan memotong penjelasan pemberi umpan balik untuk membela diri.
 - **Klarifikasi, Bukan Justifikasi:** Jika ada yang kurang jelas, tanyalah: *"Bisa berikan contoh di bagian mana saya melakukan hal tersebut?"* daripada mengatakan *"Saya melakukan itu karena..."*

@@ -2,11 +2,11 @@
 
 Inti metodologi microteaching ada pada **eksekusi**, tahap yang datang setelah persiapan dan perencanaan di bagian sebelumnya. Di sinilah teori bertemu dengan praktik.
 
-Bayangkan simulasi mengajar seperti sebuah pertunjukan teater pendek. Kamu hanya memiliki waktu singkat, audiens yang terbatas, namun harus menyampaikan pesan yang mendalam. Keberhasilan kamu tidak hanya ditentukan oleh apa yang kamu katakan, tetapi bagaimana kamu mengatakannya, bagaimana tubuh kamu bergerak, dan bagaimana kamu memakai waktu yang tersedia.
+Bayangkan simulasi mengajar seperti sebuah pertunjukan teater pendek. Kamu hanya memiliki waktu singkat dan audiens yang terbatas, tetapi harus menyampaikan pesan yang mendalam. Keberhasilan kamu tidak hanya ditentukan oleh apa yang kamu katakan, tetapi juga oleh bagaimana kamu mengatakannya, bagaimana tubuh kamu bergerak, dan bagaimana kamu memakai waktu yang tersedia.
 
 ## 1. Kendali Suara
 
-Suara adalah alat kerja utama seorang guru. Dalam microteaching, di mana ruangan mungkin lebih kecil dari kelas biasanya, pengaturan suara menjadi penting.
+Suara adalah alat kerja utama seorang guru. Dalam microteaching, yang ruangannya mungkin lebih kecil daripada kelas biasa, pengaturan suara menjadi penting.
 
 ### A. Volume dan Proyeksi
 
@@ -32,7 +32,7 @@ Banyak calon guru berbicara terlalu cepat karena gugup.
 
 ## 2. Bahasa Tubuh
 
-Penelitian menunjukkan bahwa lebih dari 60% komunikasi manusia bersifat non-verbal. Dalam simulasi mengajar, bahasa tubuh kamu menentukan *teacher presence* atau kewibawaan kamu di depan kelas.
+Dalam simulasi mengajar, bahasa tubuh kamu menentukan *teacher presence* atau kewibawaan kamu di depan kelas.
 
 ### A. Kontak Mata (Eye Contact)
 
@@ -65,10 +65,10 @@ Dalam microteaching, waktu biasanya dibatasi antara **10 hingga 15 menit**. Meng
 
 ### Strategi Kontrol Waktu
 
-- **Gunakan Jam Wajah (Face Clock):** Letakkan jam tangan atau *stopwatch* di meja yang mudah terlihat tanpa kamu harus mengangkat tangan secara mencolok.
+- **Gunakan Jam yang Mudah Dilihat:** Letakkan jam tangan atau *stopwatch* di meja yang mudah terlihat tanpa kamu harus mengangkat tangan secara mencolok.
 - **Prioritas Konten:** Jika waktu tinggal 2 menit dan materi inti belum selesai, segera lakukan ringkasan dan lompat ke penutup. Jangan memaksakan semua slide selesai tapi kehilangan bagian penutup yang penting.
 
-*Dampak Penutupan Kelas: Penutupan pembelajaran yang terlewat akibat kendala durasi berisiko membuat siswa mengakhiri sesi tanpa kejelasan inti sintesis materi.*
+*Dampak Penutupan Kelas: Penutupan pembelajaran yang terlewat akibat kendala durasi berisiko membuat siswa mengakhiri sesi tanpa memahami rangkuman inti materi.*
 
 ## 4. Mengelola Kegugupan (Stage Fright)
 
@@ -80,11 +80,11 @@ Wajar jika kamu merasa gugup saat simulasi, apalagi jika diobservasi oleh rekan 
 
 ## Simulasi Hukum Newton 12 Menit
 
-**Skenario:** kamu sedang mensimulasikan materi "Hukum Newton" dalam waktu 12 menit.
+**Skenario:** Kamu sedang mensimulasikan materi "Hukum Newton" dalam waktu 12 menit.
 
-1. **Menit 0-2:** kamu masuk dengan senyum, melakukan kontak mata, dan bertanya, "Kenapa saat mobil direm mendadak, tubuh kita terdorong ke depan?" (Apersepsi yang kuat).
-2. **Menit 2-10:** kamu menjelaskan Hukum I Newton. Suara kamu meninggi saat menekankan kata "Inersia". Kamu berjalan mendekati siswa di baris belakang saat mereka bertanya. Tangan kamu bergerak memperagakan gerakan dorongan.
-3. **Menit 10-12:** kamu melihat jam, tersisa 2 menit. Kamu berhenti memberi contoh tambahan, langsung merangkum 3 poin utama, memberikan satu pertanyaan cek pemahaman, dan menutup kelas tepat saat alarm berbunyi.
+1. **Menit 0-2:** Kamu masuk dengan senyum, melakukan kontak mata, dan bertanya, "Kenapa saat mobil direm mendadak, tubuh kita terdorong ke depan?" (Apersepsi yang kuat).
+2. **Menit 2-10:** Kamu menjelaskan Hukum I Newton. Suara kamu meninggi saat menekankan kata "Inersia". Kamu berjalan mendekati siswa di baris belakang saat mereka bertanya. Tangan kamu bergerak memperagakan gerakan dorongan.
+3. **Menit 10-12:** Kamu melihat jam, tersisa 2 menit. Kamu berhenti memberi contoh tambahan, langsung merangkum 3 poin utama, memberikan satu pertanyaan cek pemahaman, dan menutup kelas tepat saat alarm berbunyi.
 
 ## Check-list Pelaksanaan Simulasi
 

@@ -21,7 +21,7 @@ Menurut Turney (1973), terdapat **delapan keterampilan utama** yang menjadi fond
 - **Memberi Acuan:** Menjelaskan tujuan pembelajaran dan garis besar materi.
 - **Membuat Kaitan (Apersepsi):** Menghubungkan materi baru dengan materi yang sudah diketahui siswa.
 
-> **Analogi:** Membuka pelajaran seperti sebuah *trailer* film. Jika *trailer* -nya membosankan, penonton tidak akan tertarik menonton film utuhnya.
+> **Analogi:** Membuka pelajaran seperti sebuah *trailer* film. Jika *trailer*-nya membosankan, penonton tidak akan tertarik menonton film utuhnya.
 
 ## 2. Keterampilan Menjelaskan
 
@@ -46,10 +46,10 @@ Bertanya adalah instrumen utama dalam interaksi belajar-mengajar. Guru yang baik
 
 ## 4. Keterampilan Memberikan Penguatan (Reinforcement)
 
-Penguatan adalah respon guru terhadap perilaku siswa yang memungkinkan berulangnya kembali perilaku tersebut. Ini adalah bentuk penghargaan yang sederhana namun bermakna.
+Penguatan adalah respons guru terhadap perilaku siswa yang memungkinkan berulangnya perilaku tersebut. Ini adalah bentuk penghargaan yang sederhana namun bermakna.
 
 - **Penguatan Verbal:** "Bagus sekali!", "Jawaban yang sangat cerdas!", "Ibu bangga dengan usahamu."
-- **Penguatan Non-Verbal:** Senyuman, anggukan kepala, acungan jempol, atau mendekati siswa (pendekatan fisik).
+- **Penguatan Nonverbal:** Senyuman, anggukan kepala, acungan jempol, atau mendekati siswa (pendekatan fisik).
 
 ## 5. Keterampilan Mengadakan Variasi
 
@@ -68,7 +68,7 @@ Diskusi kelompok kecil memungkinkan siswa untuk berbagi informasi dan memecahkan
 **Langkah-langkah:**
 
 - Memusatkan perhatian siswa pada tujuan diskusi.
-- Memperjelas masalah atau urutan pendapat.
+- Memperjelas masalah atau urun pendapat.
 - Menganalisis pandangan siswa.
 - Meningkatkan partisipasi siswa yang pasif.
 - Menutup diskusi dengan rangkuman bersama.
@@ -103,7 +103,7 @@ Menutup pelajaran bukan sekadar mengakhiri waktu, tetapi memberikan gambaran men
 
 **Komponen Utama:**
 
-- **Meninjau Kembali (Review):** Merangkum inti sari pelajaran.
+- **Meninjau Kembali (Review):** Merangkum intisari pelajaran.
 - **Mengevaluasi:** Memberikan pertanyaan singkat atau kuis untuk melihat sejauh mana pemahaman siswa.
 - **Tindak Lanjut:** Memberikan tugas atau informasi untuk pertemuan berikutnya.
 
@@ -124,7 +124,7 @@ Mari kita lihat bagaimana KDM ini bekerja secara terintegrasi dalam skenario nya
    $$
    </div>
 
-3. **Bertanya:** "Apa yang terjadi jika matahari tertutup awan mendalam selama berbulan-bulan?" (*Pertanyaan Lanjut*).
+3. **Bertanya:** "Apa yang terjadi jika matahari tertutup awan tebal selama berbulan-bulan?" (*Pertanyaan Lanjut*).
 4. **Penguatan:** Ketika seorang siswa menjawab, Pak Budi tersenyum dan berkata, "Analisis yang sangat menarik!" (*Penguatan*).
 5. **Variasi:** Pak Budi mengajak siswa keluar kelas untuk melihat stomata di bawah mikroskop (*Variasi Media/Lingkungan*).
 6. **Mengelola Kelas:** Saat dua siswa di belakang asyik mengobrol, Pak Budi berjalan mendekat sambil terus menjelaskan tanpa harus memarahi (*Pengelolaan Preventif*).

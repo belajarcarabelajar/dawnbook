@@ -6,7 +6,7 @@ Kamu telah melewati berbagai siklus latihan, mulai dari kegugupan di simulasi pe
 
 ## 1. Filosofi Evaluasi Akhir dalam Microteaching
 
-Dalam microteaching, evaluasi akhir menggunakan pendekatan **asessmen berkelanjutan** (*continuous assessment*). Kita tidak hanya melihat performa terakhir, tetapi melihat jarak (gap) yang telah berhasil kamu lalui.
+Dalam microteaching, evaluasi akhir menggunakan pendekatan **asesmen berkelanjutan** (*continuous assessment*). Kita tidak hanya melihat performa terakhir, tetapi melihat jarak (gap) yang telah berhasil kamu lalui.
 
 Analogi yang tepat adalah seorang atlet lari. Evaluasi akhir bukan hanya tentang seberapa cepat dia di garis *finish*, tetapi bagaimana dia memperbaiki teknik startnya, bagaimana dia mengatur napas di tengah lintasan, dan bagaimana dia bangkit setelah terjatuh di latihan kedua.
 
@@ -18,7 +18,7 @@ $$
 \text{Kompetensi} = (\text{Pengetahuan} \times \text{Keterampilan}) + \text{Refleksi}
 $$
 
-Tanpa refleksi, pengalaman hanya akan menjadi rutinitas tanpa makna. Evaluasi akhir memastikan bahwa setiap detil kecil (mulai dari cara kamu bertanya hingga cara kamu mengelola kelas) telah dianalisis secara kritis.
+Tanpa refleksi, pengalaman hanya akan menjadi rutinitas tanpa makna. Evaluasi akhir memastikan bahwa setiap detail kecil (mulai dari cara kamu bertanya hingga cara kamu mengelola kelas) telah dianalisis secara kritis.
 
 ## 2. Menyusun Portofolio Mengajar (Teaching Portfolio)
 
@@ -44,11 +44,11 @@ Kamu dapat menyusunnya secara kronologis atau berdasarkan kategori keterampilan.
 | **Siklus 1** | RPP 1, Video 1, Lembar Evaluasi Sejawat | Menunjukkan titik awal |
 | **Analisis Gap** | Tulisan refleksi tentang apa yang salah/kurang | Menunjukkan kesadaran kritis |
 | **Siklus 2** | RPP Revisi, Video 2, Hasil Belajar Siswa Model | Menunjukkan perbaikan (growth) |
-| **Kesimpulan** | Rencana Pengembangan Diri (Action Plan) | Menentukan langkah pengembangan berikutnya |
+| **Kesimpulan** | Rencana Pengembangan Profesional (Action Plan) | Menentukan langkah pengembangan berikutnya |
 
 ## 3. Menganalisis Perkembangan Kompetensi Berkelanjutan
 
-Tujuan utama dari deskripsi tugas ini adalah menyimpulkan siklus menjadi laporan perkembangan. Kamu harus mampu menjawab pertanyaan: *"Seberapa jauh saya telah melangkah?"*
+Tujuan utama dari bagian ini adalah menyimpulkan siklus menjadi laporan perkembangan. Kamu harus mampu menjawab pertanyaan: *"Seberapa jauh saya telah melangkah?"*
 
 ### Menggunakan Analisis SWOT Pedagogik
 
@@ -57,7 +57,7 @@ Setelah menyelesaikan seluruh rangkaian microteaching, lakukan analisis SWOT ter
 - **Strengths (Kekuatan)**: Keterampilan dasar mengajar mana yang paling kamu kuasai? (Misal: Variasi stimulus atau keterampilan bertanya).
 - **Weaknesses (Kelemahan)**: Area mana yang masih terasa berat? (Misal: Manajemen waktu atau menutup pelajaran).
 - **Opportunities (Peluang)**: Teknologi atau metode apa yang ingin kamu pelajari lebih lanjut untuk menutupi kelemahan?
-- **Threats (Tantangan)**: Kondisi kelas nyata seperti apa yang mungkin menguji keterampilan kamu nanti?
+- **Threats (Ancaman)**: Kondisi kelas nyata seperti apa yang mungkin menguji keterampilan kamu nanti?
 
 > **Insight Penting:** Jangan takut menunjukkan kegagalan dalam portofolio kamu. Seorang pendidik yang hebat tidak dinilai dari ketiadaan kesalahan, tetapi dari kemampuannya untuk mendeteksi kesalahan tersebut dan memperbaikinya secara sadar.
 
@@ -68,8 +68,8 @@ Bagaimana evaluasi akhir ini berguna di dunia nyata? Portofolio bukan hanya untu
 ### Skenario Penggunaan Portofolio
 
 - **Rekrutmen Guru**: Saat melamar di sekolah berkualitas, membawa portofolio digital (seperti website pribadi atau LinkedIn yang tertaut hasil microteaching) akan memberi nilai plus dibandingkan kandidat yang hanya membawa ijazah.
-- **Sertifikasi Pendidik**: Dokumentasi sistematis sejak masa kuliah memudahkan kamu saat harus menempuh sertifikasi guru (PPG) atau kenaikan pangkat di masa depan.
-- **Komunitas Praktisi**: kamu bisa membagikan RPP dan media yang telah "teruji" di laboratorium microteaching kepada rekan sejawat sebagai bahan kolaborasi.
+- **Sertifikasi Pendidik**: Dokumentasi sistematis sejak masa kuliah memudahkan kamu saat harus menempuh Pendidikan Profesi Guru (PPG) atau kenaikan pangkat di masa depan.
+- **Komunitas Praktisi**: Kamu bisa membagikan RPP dan media yang telah "teruji" di laboratorium microteaching kepada rekan sejawat sebagai bahan kolaborasi.
 
 ### Contoh Implementasi dalam Laporan Akhir
 

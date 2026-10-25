@@ -1,12 +1,12 @@
 ## Siklus Re-teaching
 
-Dalam dunia pengembangan perangkat lunak, terdapat istilah "Beta Testing" dan "Patching" untuk memperbaiki *bug* sebelum produk benar-benar siap. Dalam dunia pendidikan, khususnya *microteaching*, proses ini disebut dengan **Re-teaching** (Mengajar Kembali).
+Dalam dunia pengembangan perangkat lunak, terdapat istilah "Beta Testing" dan "Patching" untuk menemukan dan memperbaiki *bug*. Dalam dunia pendidikan, khususnya *microteaching*, proses ini disebut dengan **Re-teaching** (Mengajar Kembali).
 
 Siklus ini bukan sekadar mengulang apa yang sudah dilakukan, melainkan sebuah upaya sadar untuk memperbaiki "celah" atau "error" yang ditemukan pada praktik pertama. Inilah tahap di mana pertumbuhan kompetensi pedagogik terjadi secara nyata.
 
 ## Apa itu Siklus Re-teaching?
 
-**Re-teaching** adalah tahap kedua dalam siklus pengajaran mikro di mana praktikan (calon guru) mengajar kembali topik yang sama, kepada kelompok siswa yang sama atau berbeda, dengan menerapkan revisi berdasarkan umpan balik dan refleksi dari sesi sebelumnya.
+**Re-teaching** adalah sesi kedua dalam siklus pengajaran mikro di mana praktikan (calon guru) mengajar kembali topik yang sama, kepada kelompok siswa yang sama atau berbeda, dengan menerapkan revisi berdasarkan umpan balik dan refleksi dari sesi sebelumnya.
 
 > **Intisari:** Jika sesi pertama adalah tentang "mencoba", maka sesi re-teaching adalah tentang "menyempurnakan".
 
@@ -32,7 +32,7 @@ Sebelum menyentuh RPP kamu, tinjau kembali data dari instrumen observasi dan rek
 
 Setelah mengetahui kelemahannya, saatnya melakukan "bedah" pada RPP Mikro kamu. Jangan merombak seluruh isi jika hanya satu bagian yang bermasalah.
 
-- **Fokus pada Perubahan Spesifik:** Jika feedback mengatakan "pertanyaan terlalu tertutup", maka tuliskan daftar pertanyaan terbuka secara eksplisit di kolom kegiatan RPP revisi.
+- **Fokus pada Perubahan Spesifik:** Jika umpan balik mengatakan "pertanyaan terlalu tertutup", maka tuliskan daftar pertanyaan terbuka secara eksplisit di kolom kegiatan RPP revisi.
 - **Penyesuaian Alokasi Waktu:** Jika sebelumnya kamu kekurangan waktu di bagian penutup, kurangi durasi di bagian apersepsi.
 - **Visualisasi Baru:** Jika media sebelumnya sulit dilihat, tentukan posisi peletakan media yang lebih strategis dalam RPP.
 
@@ -40,7 +40,7 @@ Setelah mengetahui kelemahannya, saatnya melakukan "bedah" pada RPP Mikro kamu. 
 
 Sebelum tampil di depan audiens sebenarnya, lakukan *run-through* secara mandiri.
 
-- Praktikkan transisi antar langkah pembelajaran yang telah direvisi.
+- Praktikkan transisi antarlangkah pembelajaran yang telah direvisi.
 - *Evaluasi Adaptasi Perilaku: Apakah modifikasi teknik mengajar yang baru direvisi terasa lebih natural atau membutuhkan penyesuaian ritme tambahan?*
 
 ### 4. Pelaksanaan Re-teaching
@@ -67,18 +67,18 @@ Bayangkan kamu sedang mengasah pisau. Sesi pertama adalah saat kamu menyadari ba
 
 ## Re-teaching Materi Sumpah Pemuda
 
-**Skenario:** Seorang calon guru sejarah mengajar tentang "Sumpah Pemuda". Pada sesi pertama, siswa terlihat mengantuk karena guru hanya membacakan teks dari buku selama 10 menit. Feedback dari supervisor adalah: *"Kurang melibatkan siswa dan stimulasi visual minim."*
+**Skenario:** Seorang calon guru sejarah mengajar tentang "Sumpah Pemuda". Pada sesi pertama, siswa terlihat mengantuk karena guru hanya membacakan teks dari buku selama 10 menit. Umpan balik dari supervisor adalah: *"Kurang melibatkan siswa dan stimulasi visual minim."*
 
 **Langkah Re-teaching:**
 
-1. **Revisi RPP:** Guru menyisipkan kegiatan "Analisis Dokumen" singkat. Guru membagikan salinan teks sumpah pemuda yang terlihat "kuno".
+1. **Revisi RPP:** Guru menyisipkan kegiatan "Analisis Dokumen" singkat. Guru membagikan salinan teks Sumpah Pemuda yang terlihat "kuno".
 2. **Perubahan Teknik:** Guru mengganti metode ceramah menjadi teknik bertanya: *"Jika kalian berada di kongres itu, kata apa yang akan kalian tambahkan?"*
 3. **Hasil:** Pada sesi kedua, suasana kelas lebih hidup karena ada interaksi fisik dengan media dan pertanyaan pemantik yang menantang imajinasi.
 
 ## Mengapa Re-teaching Penting?
 
 - **Membangun Kepercayaan Diri:** Keberhasilan memperbaiki kesalahan memberikan dorongan psikologis yang besar bagi pendidik.
-- **Internalisasi Keterampilan:** Pengulangan yang terukur membantu otot memori (*muscle memory*) dalam mengajar terbentuk dengan benar.
+- **Internalisasi Keterampilan:** Pengulangan yang terukur membantu memori otot (*muscle memory*) dalam mengajar terbentuk dengan benar.
 - **Budaya Perbaikan Berkelanjutan:** Menanamkan pola pikir bahwa seorang guru harus selalu belajar dan terbuka terhadap perubahan (Continuous Improvement).
 
 **Penting:**

@@ -2,7 +2,7 @@
 
 Pernahkah kamu merasa sebuah sesi mengajar berjalan lancar, namun ketika melihat hasil ujian siswa, ternyata banyak yang tidak paham? Atau sebaliknya, kamu merasa gugup dan kacau, tetapi siswa justru merasa terbantu? Fenomena ini disebut dengan **kesenjangan persepsi**.
 
-Dalam metodologi microteaching, video bukan sekadar dokumentasi, melainkan sebuah "cermin jujur" yang memungkinkan kita melihat realita di lapangan tanpa bias memori. Analisis refleksi berbasis video adalah proses sistematis untuk membedah kinerja mengajar kita sendiri guna menemukan celah antara apa yang kita rencanakan (das sollen) dengan apa yang sebenarnya terjadi (das sein).
+Dalam metodologi microteaching, video bukan sekadar dokumentasi, melainkan sebuah "cermin jujur" yang memungkinkan kita melihat realitas di lapangan tanpa bias memori. Analisis refleksi berbasis video adalah proses sistematis untuk membedah kinerja mengajar kita sendiri guna menemukan celah antara apa yang kita rencanakan (das sollen) dengan apa yang sebenarnya terjadi (das sein).
 
 ## Mengapa Harus Video?
 
@@ -12,7 +12,7 @@ Sebagai pendidik, kamu adalah "atlet instruksional". Mengandalkan ingatan saja t
 
 ## Prosedur Langkah-Demi-Langkah Refleksi Diri
 
-Melakukan refleksi bukan hanya sekadar menonton video sambil minum kopi. Diperlukan prosedur yang terstruktur agar analisis menjadi objektif:
+Melakukan refleksi bukan sekadar menonton video sambil minum kopi. Diperlukan prosedur yang terstruktur agar analisis menjadi objektif:
 
 ### 1. Tahap Persiapan Mental (Detasemen Diri)
 
@@ -31,14 +31,14 @@ Tonton video dari awal hingga akhir tanpa berhenti. Jangan mencatat dulu. Gunaka
 Tonton kembali dengan membawa instrumen observasi atau RPP (Rencana Pelaksanaan Pembelajaran) kamu. Gunakan teknik **Stop-and-Note**:
 
 - Hentikan video setiap kali kamu menemukan momen penting (misal: saat memberikan pertanyaan).
-- Catat durasi waktu (time-stamp).
-- Gunakan rumus sederhana untuk melihat manajemen waktu: $\Delta T = T_{\text{aktual}} - T_{\text{rencana}}$ Jika $\Delta T$ bernilai positif besar pada bagian pembukaan, kamu mungkin kehilangan waktu terlalu banyak untuk basa-basi.
+- Catat penanda waktu (time-stamp).
+- Gunakan rumus sederhana untuk melihat manajemen waktu: $\Delta T = T_{\text{aktual}} - T_{\text{rencana}}$. Jika $\Delta T$ bernilai positif besar pada bagian pembukaan, kamu mungkin kehilangan waktu terlalu banyak untuk basa-basi.
 
 ### 4. Identifikasi Celah antara Rencana dan Pelaksanaan
 
 Ini adalah inti dari refleksi. Bandingkan apa yang tertulis di skenario RPP dengan apa yang terekam di video.
 
-| Komponen | Rencana (RPP) | Realita (Video) | Analisis Celah |
+| Komponen | Rencana (RPP) | Realitas (Video) | Analisis Celah |
 | --- | --- | --- | --- |
 | **Instruksi** | Memberikan instruksi tugas kelompok dalam 2 menit. | Instruksi memakan waktu 7 menit dan siswa terlihat bingung. | Instruksi terlalu bertele-tele dan tidak menggunakan poin-poin jelas. |
 | **Pertanyaan** | Menunggu 5 detik setelah bertanya (Wait Time). | Langsung menjawab pertanyaan sendiri setelah 1 detik. | Kurang sabar dalam memberikan ruang berpikir bagi siswa. |
@@ -61,7 +61,7 @@ Untuk membantu kamu melakukan refleksi yang tajam, fokuskan pengamatan pada tiga
 ### C. Analisis Pedagogis
 
 - **Alur Logika:** Apakah transisi dari materi A ke materi B terdengar halus?
-- **Respon terhadap Siswa:** Bagaimana cara kamu menanggapi jawaban salah dari siswa? Apakah kamu membesarkan hati mereka atau justru mematikan motivasi mereka?
+- **Respons terhadap Siswa:** Bagaimana cara kamu menanggapi jawaban salah dari siswa? Apakah kamu membesarkan hati mereka atau justru mematikan motivasi mereka?
 
 ## Demonstrasi Ibu Sarah yang Memakan Waktu 15 Menit
 
@@ -79,7 +79,7 @@ Kamu dapat menggunakan daftar periksa berikut saat menonton video kamu:
 
 1. **Menit ke-02:00 (Pembukaan):** Apakah saya sudah menyampaikan tujuan pembelajaran dengan jelas?
 2. **Menit ke-07:00 (Penyampaian):** Apakah ada siswa yang terlihat mulai kehilangan fokus? Apa yang saya lakukan saat itu?
-3. **Menit ke-12:00 (Penutup):** Apakah saya memberikan penguatan atau hanya sekadar membubarkan kelas?
+3. **Menit ke-12:00 (Penutup):** Apakah saya memberikan penguatan atau sekadar membubarkan kelas?
 
 > **Penting:** Hasil akhir dari analisis refleksi bukanlah daftar kesalahan, melainkan sebuah **Rencana Aksi Perbaikan** untuk siklus mengajar berikutnya.
 
