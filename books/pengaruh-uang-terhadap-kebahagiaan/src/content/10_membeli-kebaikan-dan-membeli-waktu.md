@@ -30,7 +30,7 @@ Ashley Whillans bersama koleganya menguji ini dalam riset yang dimuat di *PNAS* 
 
 Jawabannya: orang yang membeli waktu melaporkan kepuasan hidup yang lebih tinggi, dan polanya konsisten di empat negara dengan gaya hidup yang berbeda.
 
-Ironisnya, kelompok yang paling mampu, orang-orang berpenghasilan tinggi, justru paling berat hati. Mereka merasa lebih bersalah membayar orang lain untuk pekerjaan yang "seharusnya" dikerjakan sendiri. Padahal dari semua cara menukar uang menjadi kesejahteraan, membeli kembali waktu termasuk salah satu yang paling efektif. Rasa bersalah itu mahal harganya, karena menghalangi penukaran yang menguntungkan diri sendiri.
+Ironisnya, banyak orang tidak memakai uangnya untuk itu, bahkan ketika mereka mampu: hampir separuh jutawan Belanda yang disurvei tidak mengeluarkan uang sama sekali untuk menyerahkan tugas yang tidak mereka sukai. Padahal dari semua cara menukar uang menjadi kesejahteraan, membeli kembali waktu termasuk salah satu yang paling efektif. Keengganan itu mahal harganya, karena menghalangi penukaran yang menguntungkan diri sendiri.
 
 > Membeli waktu itu mirip memindahkan batu besar dari tengah jalan depan rumahmu. Batunya tidak hilang dari dunia, dan tangan yang menggerakkannya juga bukan tanganmu, tapi jalanmu akhirnya bisa dilalui. Pertanyaan lanjutannya cuma satu: kamu mau mengisi jalan yang kini lapang itu dengan apa?
 

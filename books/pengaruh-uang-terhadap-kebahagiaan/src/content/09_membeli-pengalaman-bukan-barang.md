@@ -13,10 +13,10 @@ Tahun 2003, Leaf Van Boven dan Thomas Gilovich menerbitkan studi berjudul "To do
 Mereka membagi pembelian menjadi dua jenis. Pembelian pengalaman: perjalanan, konser, makan bersama orang tersayang, kelas atau kursus. Pembelian material: barang berwujud seperti pakaian, gadget, dan furnitur. Keduanya diuji lewat tiga pintu:
 
 1. **Mengingat pembelian lampau.** Orang diminta menilai pembelian pengalaman dan material yang pernah mereka lakukan: mana yang membuat lebih bahagia?
-2. **Memprediksi pembelian mendatang.** Orang diminta membayangkan pembelian yang akan datang: mana yang diperkirakan lebih menyenangkan?
-3. **Penilaian orang lain.** Orang diminta menilai pembelian orang asing tanpa tahu pemiliknya.
+2. **Merenungkan sebuah pembelian.** Dalam eksperimen di laboratorium, peserta diminta memikirkan pembelian pengalaman atau pembelian material, lalu perasaan mereka diukur.
+3. **Memperkirakan kebahagiaan.** Dalam eksperimen lain, peserta lebih sering memperkirakan bahwa pengalaman akan lebih membahagiakan ketika mereka membayangkannya dari sudut pandang waktu yang jauh, bukan waktu yang dekat.
 
-Hasilnya konsisten di ketiga pintu: pembelian pengalaman unggul, dan bukan hanya pada satu kelompok tertentu.
+Hasilnya searah di ketiga pintu: pembelian pengalaman unggul, dan dalam survei hal itu muncul pada berbagai kelompok demografis.
 
 > Barang baru itu seperti kue di etalase: sekali dibeli dan dimakan, yang tersisa hanya kotak kosongnya. Pengalaman itu seperti resep yang kamu hafal: kuenya memang habis, tapi kamu bisa memanggang ulang momennya kapan pun mau, bahkan membagikan resepnya ke orang lain.
 
@@ -64,6 +64,6 @@ Ketiga, dan ini penting, jangan mengutuk diri karena barang yang sudah terlanjur
 
 ## Poin Penting
 
-- Studi Van Boven dan Gilovich (2003) di Journal of Personality and Social Psychology menunjukkan orang lebih bahagia dengan pembelian pengalaman daripada pembelian material, konsisten di tiga cara pengukuran: mengingat pembelian lampau, memprediksi pembelian mendatang, dan menilai pembelian orang lain.
+- Studi Van Boven dan Gilovich (2003) di Journal of Personality and Social Psychology menunjukkan orang lebih bahagia dengan pembelian pengalaman daripada pembelian material, searah di tiga cara pengukuran: survei atas pembelian lampau, eksperimen laboratorium, dan eksperimen tentang perkiraan kebahagiaan.
 - Tiga alasan di baliknya: adaptasi memangsa barang lebih cepat sementara kenangan bisa diputar ulang; pengalaman menyatu dengan identitas dan cerita pribadi; pengalaman sering bersifat sosial, sulit diadu samping ke samping, dan nilainya cenderung tumbuh seiring waktu.
 - Nuansanya: jenis pembelian bukan vonis. Yang menentukan adalah seberapa baik pembelian menyambung kebutuhan psikologis, yaitu hubungan, kompetensi, dan otonomi, seperti dua sepeda dengan nasib berbeda itu.
