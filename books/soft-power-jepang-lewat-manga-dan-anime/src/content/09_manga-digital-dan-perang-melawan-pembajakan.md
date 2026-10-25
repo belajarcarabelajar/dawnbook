@@ -39,7 +39,7 @@ Hukum memang bisa menutup satu situs. Masalahnya, prosesnya memakan waktu bertah
 
 ### Bab Gratis yang Terbit Serentak
 
-Di luar jalur hukum, penerbit juga menawarkan alternatif yang legal di tempat yang sama. Shueisha meluncurkan MANGA Plus pada Januari 2019, layanan yang sudah disinggung di bab 5. Bab baru terbit bersamaan dengan Jepang, bab pertama dan bab terbaru bisa dibaca gratis, dan sejak Agustus 2021 pembatasan wilayahnya dihapus.
+Di luar jalur hukum, penerbit juga menawarkan alternatif yang legal di tempat yang sama. Shueisha meluncurkan MANGA Plus pada Januari 2019, layanan yang sudah disinggung di bab 5. Bab baru terbit bersamaan dengan Jepang, tiga bab pertama dan tiga bab terbaru bisa dibaca gratis, dan sejak Agustus 2021 pembatasan wilayahnya dihapus.
 
 Bagi pembaca di luar Jepang, artinya sederhana. Ada pilihan resmi yang tersedia pada hari yang sama, tanpa bayar, dan legal. Pada 2025, Asahi Shimbun mencatat layanan ini dipakai sekitar 5,5 juta pengguna aktif bulanan, dengan sekitar 100 judul dalam sembilan bahasa.
 
