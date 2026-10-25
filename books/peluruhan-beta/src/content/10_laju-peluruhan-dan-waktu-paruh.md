@@ -123,7 +123,7 @@ Hasil ini sama dengan $1000 \times (\frac{1}{2})^2$ pada rumus praktis di bagian
 
 ### 7. Mengapa Laju Peluruhan Perlu Dihitung?
 
-**Skenario Medis (Brachytherapy):** Dokter menggunakan isotop pemancar beta untuk membunuh sel kanker. Mereka harus menghitung laju peluruhan dengan teliti. Jika laju peluruhan tidak dihitung dengan benar:
+**Skenario Medis (Brakiterapi):** Dokter menggunakan isotop pemancar beta untuk membunuh sel kanker. Mereka harus menghitung laju peluruhan dengan teliti. Jika laju peluruhan tidak dihitung dengan benar:
 
 - **Terlalu cepat:** Dosis radiasi tidak cukup untuk membunuh tumor.
 - **Terlalu lambat:** Pasien terpapar radiasi berbahaya lebih lama dari yang dibutuhkan.

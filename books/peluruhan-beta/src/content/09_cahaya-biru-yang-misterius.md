@@ -2,7 +2,7 @@
 
 Pernahkah terlihat foto kolam pendingin reaktor nuklir yang memancarkan pendaran cahaya biru neon yang cantik tetapi terkesan berbahaya? Cahaya itu bukan sekadar efek lampu hias, melainkan sebuah fenomena fisika yang disebut **Radiasi Cherenkov**.
 
-Dalam bagian ini, kita akan mempelajari bagaimana elektron berkecepatan tinggi yang dihasilkan dari **peluruhan beta** menimbulkan pendaran biru ini saat mereka melintasi medium seperti air.
+Dalam bagian ini, kita akan mempelajari bagaimana elektron berkecepatan tinggi yang terutama dihasilkan dari **peluruhan beta** menimbulkan pendaran biru ini saat mereka melintasi medium seperti air.
 
 ### 1. Batas Kecepatan dalam Medium
 
@@ -71,4 +71,4 @@ Radiasi Cherenkov bukan sekadar tontonan visual; ia memiliki kegunaan praktis da
 
 **Pikirkan tentang ini:** *Jika seseorang berada di ruang hampa udara, mungkinkah terlihat radiasi Cherenkov? Ingat kembali syarat utama terjadinya fenomena ini: adanya medium tempat cahaya bisa dilampaui.*
 
-> **Kesimpulan Singkat:** Radiasi Cherenkov adalah tanda peluruhan beta yang bisa dilihat. Elektron yang berlari lebih cepat dari cahaya di dalam air menciptakan gelombang kejut optik, menghasilkan pendaran biru yang membuat proses nuklir yang biasanya tak kasat mata bisa terlihat.
+> **Kesimpulan Singkat:** Radiasi Cherenkov adalah tanda utama peluruhan beta yang bisa dilihat. Elektron yang berlari lebih cepat dari cahaya di dalam air menciptakan gelombang kejut optik, menghasilkan pendaran biru yang membuat proses nuklir yang biasanya tak kasat mata bisa terlihat.

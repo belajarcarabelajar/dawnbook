@@ -78,7 +78,7 @@ Mekanisme peluruhan $\beta^-$ bukan sekadar teori fisika; ia memiliki kegunaan p
 
 - **Penanggalan Radiokarbon**: Mengukur sisa Karbon-14 pada fosil atau artefak kayu untuk menentukan usia mereka hingga puluhan ribu tahun.
 - **Pengukur Ketebalan Industri**: Partikel beta digunakan di pabrik kertas atau plastik. Sensor mendeteksi berapa banyak elektron yang bisa menembus lembaran; jika terlalu sedikit yang lolos, berarti lembaran tersebut terlalu tebal.
-- **Terapi Medis (Brachytherapy)**: Isotop pemancar beta seperti Strontium-90 digunakan untuk mengobati kanker tertentu atau mencegah pertumbuhan jaringan yang tidak diinginkan setelah pemasangan ring jantung (stent).
+- **Terapi Medis (Brakiterapi)**: Isotop pemancar beta seperti Strontium-90 digunakan untuk mengobati kanker tertentu atau mencegah pertumbuhan jaringan yang tidak diinginkan setelah pemasangan ring jantung (stent).
 
 ## Ringkasan Singkat
 
