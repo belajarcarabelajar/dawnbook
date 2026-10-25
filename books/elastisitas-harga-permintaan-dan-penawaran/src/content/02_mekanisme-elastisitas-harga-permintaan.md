@@ -1,14 +1,14 @@
 ## Mekanisme Elastisitas Harga Permintaan
 Bayangkan kamu adalah seorang pemilik kedai kopi. Karena biaya biji kopi naik, kamu memutuskan untuk menaikkan harga secangkir Americano dari Rp20.000 menjadi Rp25.000. Pertanyaannya: **Apakah pelangganmu akan tetap membeli dalam jumlah yang sama, atau mereka akan lari ke kedai sebelah?**
-Respon konsumen terhadap perubahan harga inilah yang kita sebut sebagai **Elastisitas Harga Permintaan (Price Elasticity of Demand/$\text{PED}$)**.
+Respons konsumen terhadap perubahan harga inilah yang kita sebut sebagai **Elastisitas Harga Permintaan (Price Elasticity of Demand/$\text{PED}$)**.
 ## Apa Itu Mekanisme Elastisitas Permintaan?
 Secara sederhana, elastisitas permintaan adalah alat ukur yang digunakan dalam ekonomi untuk menunjukkan seberapa sensitif jumlah barang yang diminta oleh konsumen terhadap perubahan harga barang tersebut.
 Jika Hukum Permintaan memberi tahu kita **arah** (jika harga naik, permintaan turun), maka Elastisitas Permintaan memberi tahu kita **seberapa besar** penurunan tersebut terjadi.
 > **Wawasan Penting:** Elastisitas adalah ukuran kuantitatif dari sensitivitas konsumen. Ini menjawab pertanyaan "Seberapa parah penurunan penjualan kita jika harga naik 10%?"
 ## Permintaan yang Lentur dan yang Kaku
 Tarikan harga yang sama bisa berakhir berbeda, seperti karet gelang dan kawat di bab pertama:
-1. **Permintaan Elastis:** Sedikit saja harganya naik, jumlah permintaan menyusut drastis. Contohnya: Tiket pesawat liburan atau merek cokelat tertentu.
-2. **Permintaan Inelastis:** Meskipun harganya naik dengan kuat, konsumen membeli dalam jumlah yang hampir sama karena mereka merasa sangat membutuhkannya. Contohnya: Obat-obatan esensial atau garam dapur.
+1. **Permintaan Elastis:** Sedikit saja harganya naik, jumlah permintaan menyusut drastis. Contohnya: tiket pesawat liburan atau merek cokelat tertentu.
+2. **Permintaan Inelastis:** Meskipun harganya naik tajam, konsumen membeli dalam jumlah yang hampir sama karena mereka merasa sangat membutuhkannya. Contohnya: obat-obatan esensial atau garam dapur.
 ## Bagaimana Mekanisme Ini Bekerja di Pikiran Konsumen?
 Saat harga sebuah barang berubah, terjadi dua mekanisme psikologis dan ekonomi dalam diri konsumen yang mendorong elastisitas:
 ### 1. Efek Substitusi (Substitution Effect)
@@ -26,17 +26,17 @@ $$
 E_d = \frac{\text{\%} \Delta Q_d}{\text{\%} \Delta P}
 $$
 
-- Jika hasil hitungnya **lebih besar dari 1**, artinya konsumen sangat sensitif (Elastis).
-- Jika hasil hitungnya **lebih kecil dari 1**, artinya konsumen kurang sensitif (Inelastis).
+- Jika nilai mutlak hasil hitungnya **lebih besar dari 1**, artinya konsumen sangat sensitif (Elastis).
+- Jika nilai mutlak hasil hitungnya **lebih kecil dari 1**, artinya konsumen kurang sensitif (Inelastis).
 Sebagai gambaran, perusahaan teknologi seperti Apple dapat menaikkan harga iPhone setiap tahun tanpa kehilangan mayoritas pembelinya karena persepsi merek yang kuat membuat permintaannya cenderung inelastis.
 ## Kenaikan Harga BBM
 Mari kita lihat bagaimana mekanisme ini bekerja dalam praktik nyata melalui skenario berikut:
 **Konteks:** Pemerintah mengumumkan kenaikan harga BBM (Bensin) sebesar 30%.
 1. **Reaksi Jangka Pendek (Inelastis):** Pada minggu pertama, orang-orang mengeluh tetapi tetap mengisi tangki kendaraan mereka. Mengapa? Karena mereka harus bekerja, mengantar anak sekolah, dan tidak punya pilihan transportasi instan. Permintaan hanya turun sedikit (misal 2%). Inilah mekanisme **Permintaan Inelastis**.
-2. **Reaksi Jangka Panjang (Menuju Elastis):** Setelah setahun, orang mulai beradaptasi. Ada yang mulai membeli motor listrik, ada yang beralih ke transportasi umum (MRT/Busway), atau melakukan *carpooling*. Sekarang, kenaikan harga 30% tersebut mengakibatkan penurunan konsumsi bensin yang jauh lebih besar dibanding bulan pertama.
+2. **Reaksi Jangka Panjang (Menuju Elastis):** Setelah setahun, orang mulai beradaptasi. Ada yang mulai membeli motor listrik, ada yang beralih ke transportasi umum (MRT/Busway), atau melakukan *carpooling*. Sekarang, kenaikan harga 30% tersebut mengakibatkan penurunan konsumsi bensin yang jauh lebih besar dibanding minggu pertama.
 ## Mengapa Memahami Mekanisme Ini Penting? (Aplikasi Praktis)
 Memahami elastisitas berguna bagi bisnis dan kebijakan publik, bukan hanya bagi akademisi:
 - **Bagi Perusahaan (Strategi Harga):** Jika produkmu elastis, **jangan** menaikkan harga sembarangan karena total pendapatanmu justru bisa turun drastis. Sebaliknya, diskon kecil bisa memicu lonjakan penjualan.
 - **Bagi Pemerintah (Kebijakan Pajak):** Pemerintah biasanya mengenakan pajak tinggi pada barang yang inelastis (seperti rokok atau alkohol). Mengapa? Karena meskipun harganya naik akibat pajak, orang akan tetap membelinya, sehingga penerimaan pajak negara stabil.
-- **Bagi Pemasaran (Branding):** Tujuan utama dari *branding* dan iklan sebenarnya adalah untuk membuat permintaan produk menjadi **inelastis**. Loyalitas merek membuat konsumen tidak peduli pada kenaikan harga karena mereka sudah setia pada produk tersebut.
-> **Insight Penutup:** Mekanisme elastisitas menghubungkan angka-angka ekonomi dengan perilaku manusia. Memahaminya berarti memahami seberapa jauh kita bisa mengubah harga sebelum penjualan berubah, turun atau naik.
+- **Bagi Pemasaran (Branding):** Tujuan utama dari *branding* dan iklan sebenarnya adalah untuk membuat permintaan produk menjadi **inelastis**. Loyalitas merek membuat konsumen kurang peka terhadap kenaikan harga karena mereka sudah setia pada produk tersebut.
+> **Insight Penutup:** Mekanisme elastisitas menghubungkan angka-angka ekonomi dengan perilaku manusia. Memahaminya berarti memahami seberapa jauh kita bisa mengubah harga sebelum jumlah penjualan berubah secara berarti.

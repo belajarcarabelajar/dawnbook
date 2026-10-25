@@ -24,7 +24,7 @@ $$
 ## 2. Elastisitas dan Kebijakan Subsidi
 Subsidi adalah kebalikan dari pajak. Pemerintah memberikan bantuan dana untuk menurunkan biaya produksi atau harga beli. Namun, siapa yang paling diuntungkan dari subsidi? Lagi-lagi, elastisitas yang menentukan.
 - **Permintaan Inelastis:** Jika pemerintah memberikan subsidi pada barang dengan permintaan inelastis (seperti beras), maka penurunan harga terutama dirasakan oleh **konsumen**. Harga pasar akan turun drastis, sehingga pengeluaran rumah tangga berkurang.
-- **Penawaran Inelastis:** Jika penawaran yang inelastis (misalnya kapasitas produksi pabrik sudah maksimal), maka subsidi lebih banyak dinikmati oleh **produsen** dalam bentuk peningkatan keuntungan, karena jumlah barang di pasar sulit bertambah meskipun ada bantuan dana.
+- **Penawaran Inelastis:** Jika penawaran bersifat inelastis (misalnya kapasitas produksi pabrik sudah maksimal), maka subsidi lebih banyak dinikmati oleh **produsen** dalam bentuk peningkatan keuntungan, karena jumlah barang di pasar sulit bertambah meskipun ada bantuan dana.
 Sebagai ilustrasi, jika pemerintah ingin menyejahterakan petani sementara penawaran hasil tani bersifat sangat elastis, pemberian subsidi harga tidak secara otomatis meningkatkan pendapatan mereka dalam jangka panjang.
 ## 3. Pengendalian Harga
 Otoritas publik sering kali melakukan intervensi harga untuk melindungi pihak tertentu. Elastisitas menentukan seberapa besar dampak "gangguan" yang tercipta dari kebijakan ini.
@@ -41,7 +41,7 @@ Banyak negara kini menerapkan "Sugar Tax" atau pajak pada minuman berpemanis dal
 1. **Tujuan:** Mengurangi konsumsi gula masyarakat.
 2. **Analisis Elastisitas:** Agar kebijakan ini efektif mengurangi konsumsi, permintaan terhadap MBDK harus bersifat **elastis**. Jika elastis, kenaikan harga akibat pajak akan membuat orang beralih ke air mineral (substitusi).
 3. **Realita:** Jika ternyata masyarakat sudah "kecanduan" dan permintaannya **inelastis**, maka konsumsi gula tidak akan banyak berkurang, namun pemerintah akan mendapatkan **penerimaan pajak yang besar**.
-> **Insight Penting:** Pemerintah seringkali dihadapkan pada dilema. Jika tujuannya **mengubah perilaku** (misal: berhenti merokok), mereka butuh permintaan yang **elastis**. Jika tujuannya **menambah kas negara**, mereka mencari barang dengan permintaan yang **inelastis**.
+> **Insight Penting:** Pemerintah sering kali dihadapkan pada dilema. Jika tujuannya **mengubah perilaku** (misal: berhenti merokok), mereka butuh permintaan yang **elastis**. Jika tujuannya **menambah kas negara**, mereka mencari barang dengan permintaan yang **inelastis**.
 ## Pajak, Subsidi, dan Kontrol Harga
 | Kebijakan | Jika Permintaan Inelastis | Jika Permintaan Elastis |
 | --- | --- | --- |
@@ -49,5 +49,5 @@ Banyak negara kini menerapkan "Sugar Tax" atau pajak pada minuman berpemanis dal
 | **Subsidi** | Manfaat utama dirasakan konsumen (harga turun). | Manfaat utama dirasakan produsen (pendapatan naik). |
 | **Kontrol Harga** | Dampak kelangkaan/surplus cenderung kecil. | Dampak kelangkaan/surplus besar. |
 ### Memajaki Garam atau Tiket Konser
-Cobalah bayangkan kamu adalah seorang menteri keuangan yang harus menutup defisit anggaran sebesar 10 triliun rupiah. Kamu memiliki dua pilihan: memajaki garam dapur atau memajaki tiket konser musik internasional. Berdasarkan konsep elastisitas, tentukan mana yang akan memberikan pendapatan paling stabil dan jelaskan alasanmu.
+Cobalah bayangkan kamu adalah seorang menteri keuangan yang harus menutup defisit anggaran sebesar 10 triliun rupiah. Kamu memiliki dua pilihan: memajaki garam dapur atau memajaki tiket konser musik internasional. Berdasarkan konsep elastisitas, tentukan mana yang akan memberikan pendapatan lebih stabil dan jelaskan alasanmu.
 **Analogi Terakhir:** Bayangkan elastisitas sebagai sebuah karet gelang. Jika pemerintah menarik satu ujung (memberi beban pajak), ujung mana yang paling sakit? Pihak yang "karetnya" paling kaku (inelastis) tidak bisa menghindar, sehingga mereka yang menanggung tarikan paling kuat. Pihak yang "karetnya" lentur (elastis) bisa dengan mudah melompat atau menghindar ke produk lain, sehingga mereka terhindar dari beban tersebut.

@@ -21,7 +21,7 @@ $$
 E_d = \frac{\Delta Q}{\Delta P} \times \frac{P}{Q}
 $$
 
-Di mana:
+Keterangan:
 - $\Delta Q = Q_2 - Q_1$ (Perubahan jumlah permintaan)
 - $\Delta P = P_2 - P_1$ (Perubahan harga)
 - $P$ = Harga awal
@@ -31,7 +31,7 @@ Di mana:
 2. Identifikasi harga baru ($P_2$) dan jumlah baru ($Q_2$).
 3. Hitung selisihnya ($\Delta Q$ dan $\Delta P$).
 4. Masukkan ke dalam rumus dan hitung hasilnya.
-**Contoh Kasus:** Sebuah toko kopi menjual Latte seharga Rp20.000 dan berhasil menjual 100 cup per hari. Ketika harga dinaikkan menjadi Rp22.000, penjualan turun menjadi 80 cup.
+**Contoh Kasus:** Sebuah toko kopi menjual Latte seharga Rp20.000 dan berhasil menjual 100 *cup* per hari. Ketika harga dinaikkan menjadi Rp22.000, penjualan turun menjadi 80 *cup*.
 - <div>
   $$
   P_1 = 20.000, P_2 = 22.000 \rightarrow \Delta P = 2.000
@@ -96,6 +96,6 @@ Bayangkan kamu adalah seorang Manajer Pemasaran di sebuah perusahaan aplikasi st
 ## Ringkasan dan Tips Cepat
 - **Gunakan Rumus Titik** jika kamu hanya ingin tahu respons pada satu harga tertentu atau perubahannya relatif kecil.
 - **Gunakan Metode Nilai Tengah** jika kamu ingin hasil yang lebih akurat dan konsisten untuk perubahan harga yang cukup besar.
-- **Arah Pergerakan:** Ingatlah bahwa $E_d > 1$ berarti konsumen sangat sensitif (elastis), sementara $E_d < 1$ berarti konsumen tidak terlalu peduli dengan perubahan harga (inelastis).
+- **Besaran Koefisien:** Ingatlah bahwa $E_d > 1$ berarti konsumen sangat sensitif (elastis), sementara $E_d < 1$ berarti konsumen tidak terlalu peduli dengan perubahan harga (inelastis).
 Sebagai gambaran, jika kamu menjual obat-obatan yang menyelamatkan nyawa, apakah kamu akan menggunakan pertimbangan elastisitas yang sama seperti saat menjual tiket konser? Produk mana yang kira-kira memiliki koefisien elastisitas lebih besar?
 > **Pesan Utama:** Angka elastisitas menyatakan respons konsumen terhadap harga dalam bentuk angka. Memahaminya berarti memahami seberapa besar kekuatan tawar-menawar yang kamu miliki di pasar.

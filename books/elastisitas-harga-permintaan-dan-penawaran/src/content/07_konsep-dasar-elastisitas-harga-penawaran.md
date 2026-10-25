@@ -15,7 +15,7 @@ Responsivitas produsen ditentukan oleh sejauh mana mereka dapat menggeser sumber
 ### 1. Fleksibilitas Penyesuaian
 Produsen yang memiliki stok barang melimpah atau kapasitas mesin yang masih menganggur akan lebih responsif. Mereka bisa langsung mengirim barang ke pasar begitu harga naik.
 ### 2. Dimensi Waktu
-Ini adalah faktor paling utama dalam elastisitas penawaran.
+Ini adalah faktor utama dalam elastisitas penawaran.
 - **Seketika (Market Period):** Produsen tidak bisa mengubah apa pun. Apa yang ada di pasar, itulah yang dijual.
 - **Jangka Pendek:** Produsen bisa menambah jam kerja lembur, tapi tidak bisa membangun pabrik baru.
 - **Jangka Panjang:** Produsen bisa membangun fasilitas baru atau masuk ke industri baru, membuat penawaran menjadi sangat elastis.
@@ -26,7 +26,7 @@ $$
 E_s = \frac{\text{\%} \text{ Perubahan Jumlah Barang yang Ditawarkan}}{\text{\%} \text{ Perubahan Harga}}
 $$
 
-Karena arah perubahan harga dan jumlah penawaran searah (keduanya naik atau keduanya turun), maka nilai $E_s$ akan selalu **positif**.
+Karena arah perubahan harga dan jumlah barang yang ditawarkan searah (keduanya naik atau keduanya turun), maka nilai $E_s$ akan selalu **positif**.
 - Jika $E_s > 1$: Penawaran sangat responsif (Elastis).
 - Jika $E_s < 1$: Penawaran kurang responsif (Inelastis).
 ## Uber dan "Surge Pricing"
@@ -34,7 +34,7 @@ Salah satu contoh dari konsep elastisitas penawaran adalah sistem **Surge Pricin
 **Skenarionya:** Saat hujan deras, permintaan meningkat. Uber menaikkan harga secara otomatis. Mengapa?
 1. **Insentif bagi Produsen:** Harga yang lebih tinggi menarik pengemudi yang sedang beristirahat untuk segera masuk ke jalan (meningkatkan penawaran).
 2. **Respons Cepat:** Karena pengemudi memiliki mobilitas tinggi, mereka bisa merespons perubahan harga dalam hitungan menit. Ini adalah contoh layanan dengan penawaran yang sangat **elastis**.
-Jika Uber tidak menaikkan harga saat hujan, jumlah pengemudi di jalan tidak akan bertambah karena tidak ada insentif tambahan untuk menembus kemacetan dan hujan.
+Jika Uber tidak menaikkan harga saat hujan, jumlah pengemudi di jalan kemungkinan besar tidak akan bertambah secara berarti karena tidak ada insentif tambahan untuk menembus kemacetan dan hujan.
 ## Perbandingan Responsivitas Produk
 | Jenis Produk | Karakteristik Penawaran | Mengapa? |
 | --- | --- | --- |

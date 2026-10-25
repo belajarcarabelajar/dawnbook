@@ -9,7 +9,7 @@ $$
 \text{E}_s = \frac{\text{\%} \Delta \text{Q}_s}{\text{\%} \Delta \text{P}}
 $$
 
-Di mana:
+Keterangan:
 - $\text{\%} \Delta \text{Q}_s$: Persentase perubahan jumlah barang yang ditawarkan.
 - $\text{\%} \Delta \text{P}$: Persentase perubahan harga.
 **Langkah-langkah penghitungan:**
@@ -26,7 +26,7 @@ $$
 \text{E}_s = \frac{(\text{Q}_2 - \text{Q}_1) / [(\text{Q}_2 + \text{Q}_1) / 2]}{(\text{P}_2 - \text{P}_1) / [(\text{P}_2 + \text{P}_1) / 2]}
 $$
 
-Penggunaan rata-rata ini penting karena dalam bisnis, kita seringkali membutuhkan angka yang stabil terlepas dari apakah kita sedang merencanakan kenaikan harga atau mengantisipasi penurunan harga.
+Penggunaan rata-rata ini penting karena dalam bisnis, kita sering kali membutuhkan angka yang stabil terlepas dari apakah kita sedang merencanakan kenaikan harga atau mengantisipasi penurunan harga.
 ## 3. Koki dan Pesanan Mendadak
 Untuk memahami angka koefisien ini, bayangkan sebuah restoran:
 - **Penawaran Inelastis ($\text{E}_s < 1$):** Seperti koki yang hanya punya satu kompor. Meskipun harga makanan naik 50\%, dia tetap tidak bisa memasak lebih cepat karena keterbatasan fisik alat. Perubahan jumlah ($\text{Q}$) lebih kecil daripada perubahan harga ($\text{P}$).
@@ -68,7 +68,7 @@ $$
 
 Hasil metode nilai tengah adalah **1,8**, sedikit lebih kecil daripada angka 2 dari rumus turunan di bagian 4, karena kedua metode memakai pembanding yang berbeda. Kesimpulannya tetap sama: 1,8 lebih besar dari 1, sehingga penawaran sepatu ini **elastis**.
 
-## 6. Industri Agrikultur vs. Manufaktur
+## 6. Industri Agrikultur vs. Industri Digital
 Dalam praktiknya, teknik penghitungan ini memberikan wawasan berbeda untuk industri yang berbeda:
 1. **Industri Agrikultur (Contoh: Petani Padi):** Meskipun harga padi di pasar melonjak hari ini, petani tidak bisa langsung memanen lebih banyak padi besok pagi. Proses biologis membutuhkan waktu. Saat dihitung, nilai $\text{E}_s$ padi dalam jangka pendek biasanya **rendah (inelastis)**.
 2. **Industri Digital (Contoh: Software sebagai Layanan/SaaS):** Jika harga langganan sebuah aplikasi naik dan permintaan tetap ada, perusahaan bisa menambah kapasitas server (penawaran) dalam hitungan menit untuk melayani pengguna baru. Nilai $\text{E}_s$ untuk produk digital cenderung **sangat tinggi (elastis)** karena hambatan produksinya rendah.
