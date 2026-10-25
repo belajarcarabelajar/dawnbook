@@ -12,15 +12,15 @@ Manusia sering kali memilih "jalur dengan hambatan terkecil". Ada beberapa alasa
 
 Otak kita dirancang untuk menghemat energi. Mengambil keputusan membutuhkan usaha mental (Sistem 2). Ketika kita dihadapkan pada pilihan, sering kali lebih mudah untuk tidak melakukan apa pun.
 
-> **Analogi:** Bayangkan kamu sedang berjalan di hutan. Ada jalan setapak yang sudah bersih dan semak belukar yang rimbun di sekitarnya. Secara instinktif, kamu akan memilih jalan setapak tersebut untuk menghemat tenaga. Pilihan standar (*default*) bekerja dengan cara yang sama seperti jalan setapak ini.
+> **Analogi:** Bayangkan kamu sedang berjalan di hutan. Ada jalan setapak yang sudah bersih dan semak belukar yang rimbun di sekitarnya. Secara instingtif, kamu akan memilih jalan setapak tersebut untuk menghemat tenaga. Pilihan standar (*default*) bekerja dengan cara yang sama seperti jalan setapak ini.
 
 ### B. Saran Tersirat (Implicit Endorsement)
 
 Pengguna sering menganggap bahwa arsitek pilihan (desainer aplikasi, pemerintah, atau perusahaan) adalah pihak yang lebih ahli. Jika sebuah opsi dijadikan standar, pengguna berasumsi bahwa itu adalah opsi yang paling direkomendasikan atau paling aman.
 
-### C. Kehilangan (Loss Aversion)
+### C. Keengganan terhadap Kerugian (Loss Aversion)
 
-Peralihan dari pengaturan bawaan sering kali dirasakan sebagai sebuah kehilangan. Jika kamu merasa sudah "memiliki" suatu fitur karena dipasang sebagai pengaturan standar, melepaskannya terasa lebih berat daripada harus mengaktifkannya sendiri sejak awal.
+Peralihan dari pengaturan bawaan sering kali dirasakan sebagai sebuah kehilangan. Jika kamu merasa sudah "memiliki" suatu fitur karena dipasang sebagai pengaturan standar, rasa rugi saat melepaskannya lebih besar daripada rasa senang saat memperoleh fitur yang sama.
 
 ## 2\. Jenis-Jenis Arsitektur Default
 
@@ -31,13 +31,13 @@ Penerapan pilihan standar memiliki beberapa bentuk berbeda tergantung pada tujua
    - **Opt-out:** Pengguna secara otomatis terdaftar dan harus bertindak aktif jika ingin keluar, misalnya layanan asuransi tambahan yang otomatis aktif saat pembelian tiket perjalanan.
 2. **Pilihan Wajib (Required Choice):** Arsitek pilihan memaksa pengguna membuat keputusan sebelum melanjutkan proses, tanpa menyediakan nilai bawaan otomatis.
 3. **Pilihan Pintar (Smart Defaults):** Sistem memanfaatkan data pengguna untuk menentukan opsi bawaan yang paling relevan. Sebagai contoh, aplikasi pengantaran makanan mendeteksi koordinat GPS untuk mengisi alamat pengiriman secara otomatis.
-4. **Adaptive Defaults:** Pengaturan bawaan yang dinamis dan menyesuaikan diri secara bertahap mengikuti riwayat kebiasaan pengguna.
+4. **Pilihan Adaptif (Adaptive Defaults):** Pengaturan bawaan yang dinamis dan menyesuaikan diri secara bertahap mengikuti riwayat kebiasaan pengguna.
 
 ## 3\. Kekuatan Statistik dalam Contoh Donor Organ
 
-Salah satu studi kasus paling terkenal mengenai kekuatan *default* adalah perbandingan tingkat donor organ di berbagai negara Eropa.
+Salah satu studi kasus paling terkenal mengenai kekuatan *default* adalah perbandingan tingkat persetujuan efektif menjadi donor organ di berbagai negara Eropa.
 
-Di negara-negara dengan sistem **Opt-in** (harus mendaftar jadi donor), tingkat partisipasi rata-rata hanya berkisar $15\text{\%}$. Namun, di negara-negara dengan sistem **Opt-out** (dianggap donor kecuali menyatakan tidak), tingkat partisipasinya naik hingga mendekati $99\text{\%}$.
+Di negara-negara dengan sistem **Opt-in** (harus mendaftar jadi donor), tingkat persetujuan rata-rata hanya berkisar $15\text{\%}$. Namun, di negara-negara dengan sistem **Opt-out** (dianggap donor kecuali menyatakan tidak), tingkat persetujuannya naik hingga mendekati $99\text{\%}$.
 
 <div>
 $$
@@ -45,7 +45,7 @@ P(\text{Donor} \mid \text{Opt-out}) \approx 0.99 \gg P(\text{Donor} \mid \text{O
 $$
 </div>
 
-Perbedaan partisipasi yang kontras ini terjadi karena kekuatan pilihan bawaan (default), bukan karena tingkat kepedulian sosial masyarakat di negara-negara tersebut berbeda.
+Perbedaan tingkat persetujuan yang kontras ini terjadi karena kekuatan pilihan bawaan (default), bukan karena tingkat kepedulian sosial masyarakat di negara-negara tersebut berbeda.
 
 ## 4\. Implementasi dalam Dunia Digital & Engineering
 
@@ -63,24 +63,24 @@ Pengguna yang mengirim formulir tanpa menyentuh kotak itu berarti mengikuti *def
 
 - [ ] Saya setuju untuk membagikan data penggunaan anonim untuk peningkatan layanan.
 
-**Dampaknya:** Membuat kotak tercentang sejak awal mengubah "biaya kognitif" pengguna. Untuk menolak, mereka harus melakukan klik tambahan. Dalam skala jutaan pengguna, satu klik ini bisa meningkatkan retensi data hingga puluhan persen.
+**Dampaknya:** Membuat kotak tercentang sejak awal mengubah "biaya kognitif" pengguna. Untuk menolak, mereka harus melakukan klik tambahan. Dalam skala jutaan pengguna, satu klik ini bisa meningkatkan tingkat persetujuan berbagi data hingga puluhan persen.
 
 ## 5\. Penggunaan Praktis Pilihan Standar
 
 Penerapan pilihan standar ini banyak dijumpai dalam berbagai skenario praktis:
 
 - **Keuangan (Tabungan Pensiun):** Banyak perusahaan menerapkan sistem pendaftaran otomatis (*automatic enrollment*). Karyawan langsung menyisihkan $3\text{\%}$ gaji ke dana pensiun, kecuali jika mereka menyatakan keberatan secara aktif. Hasilnya, akumulasi dana pensiun pekerja meningkat pesat.
-- **Pelestarian Lingkungan (Cetak Dua Sisi):** Sebuah universitas mengubah pengaturan bawaan printer kampusnya dari cetak satu sisi menjadi cetak bolak-balik (*duplex*). Tanpa melarang pencetakan satu sisi, langkah sederhana ini berhasil menghemat penggunaan kertas hingga puluhan juta lembar per tahun.
+- **Pelestarian Lingkungan (Cetak Dua Sisi):** Sebuah universitas mengubah pengaturan bawaan printer kampusnya dari cetak satu sisi menjadi cetak bolak-balik (*duplex*). Tanpa melarang pencetakan satu sisi, langkah sederhana ini berhasil menghemat penggunaan kertas hingga jutaan lembar per tahun.
 - **E-commerce (Metode Pembayaran):** Menyimpan kartu kredit yang terakhir digunakan sebagai pilihan utama saat pembayaran (*checkout*) terbukti mempercepat proses transaksi sekaligus mendongkrak angka konversi penjualan.
 
 ## 6\. Merancang Default yang Etis
 
-Karena *default* berpengaruh besar, Arsitek Pilihan memikul tanggung jawab moral.
+Karena *default* berpengaruh besar, arsitek pilihan memikul tanggung jawab moral.
 
 **Prinsip Desain Default yang Baik:**
 
 1. **Fokus pada Manfaat Pengguna:** Pilihan standar harus berorientasi pada kebaikan mayoritas pengguna, bukan demi keuntungan sepihak perusahaan.
-2. **Kemudahan untuk Membatalkan:** Proses mengubah pilihan bawaan harus dirancang seederhana mungkin, misalnya cukup dengan satu atau dua klik.
+2. **Kemudahan untuk Membatalkan:** Proses mengubah pilihan bawaan harus dirancang sesederhana mungkin, misalnya cukup dengan satu atau dua klik.
 3. **Transparansi Informasi:** Hindari menyembunyikan pengaturan default dalam teks berukuran kecil atau di halaman yang sulit diakses.
 
 > **Analisis Utama:** Pilihan standar mempermudah arah navigasi tanpa membatasi kebebasan memilih. Arsitektur pilihan yang baik memandu pengguna mencapai tujuan mereka, sekaligus tetap memberikan ruang untuk mengambil arah berbeda secara bebas.

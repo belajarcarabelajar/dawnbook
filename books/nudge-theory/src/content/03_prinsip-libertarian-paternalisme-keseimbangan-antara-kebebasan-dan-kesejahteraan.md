@@ -61,9 +61,9 @@ Perusahaan memberikan formulir kosong. Karyawan harus proaktif mengisi data untu
 Pemerintah mewajibkan setiap karyawan memotong 10% gaji tanpa terkecuali. Langkah ini menjamin kesejahteraan, tetapi melanggar kebebasan individu untuk mengelola uangnya sendiri.
 
 **Pendekatan Libertarian Paternalisme (Automatic Enrollment)**  
-Karyawan secara otomatis terdaftar untuk menabung 5% dari gaji mereka. Namun, di formulir tersebut ada kotak kecil yang bisa dicentang jika mereka ingin berhenti atau mengubah jumlahnya.
+Karyawan secara otomatis terdaftar untuk menabung 5% dari gaji mereka. Namun, di formulir pendaftaran ada kotak kecil yang bisa dicentang jika mereka ingin berhenti atau mengubah jumlahnya.
 
-Tingkat tabungan karyawan melonjak drastis karena sebagian besar orang cenderung mengikuti pengaturan bawaan. Namun, kebebasan mereka tidak hilang. Siapa saja yang membutuhkan uang tunai dalam waktu dekat bisa membatalkan kepesertaan mereka dengan mudah.
+Tingkat kepesertaan karyawan melonjak drastis karena sebagian besar orang cenderung mengikuti pengaturan bawaan. Namun, kebebasan mereka tidak hilang. Siapa saja yang membutuhkan uang tunai dalam waktu dekat bisa membatalkan kepesertaan mereka dengan mudah.
 
 ### Tantangan dan Batasan
 

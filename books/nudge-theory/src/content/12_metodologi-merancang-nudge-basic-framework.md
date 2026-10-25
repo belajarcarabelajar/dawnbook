@@ -28,7 +28,7 @@ Untuk memulai perancangan, jawablah beberapa poin berikut:
 
 - **Siapa** target individu atau kelompok yang perilakunya ingin kita ubah?
 - **Tindakan spesifik** apa saja yang diharapkan muncul dari mereka?
-- **Konteks waktu dan tempat** terjadinya perilaku tersebut.
+- Dalam **konteks waktu dan tempat** apa perilaku tersebut terjadi?
 
 Sebagai analogi, bayangkan kamu adalah pelatih panahan. Jika target sasaranmu hanya "menembak dengan lebih baik", kamu tidak akan pernah tahu ke mana harus membidik anak panah. Kamu memerlukan titik pusat (*bullseye*) yang konkret agar keberhasilan tembakan bisa diukur.
 
@@ -66,7 +66,7 @@ Metode standar emas yang digunakan adalah **Randomized Controlled Trial (RCT)**.
 - **Kelompok Kontrol:** Subjek yang tetap menjalani prosedur atau kondisi lama.
 - **Kelompok Eksperimen:** Subjek yang menerima intervensi *nudge* baru.
 
-Keberhasilan diukur dari perbedaan hasil antara kedua kelompok tersebut. Jika $\bar{x}\_{\text{eksperimen}} > \bar{x}\_{\text{kontrol}}$ secara nyata, intervensi *nudge* terbukti efektif.
+Keberhasilan diukur dari perbedaan hasil antara kedua kelompok tersebut. Jika $\bar{x}\_{\text{eksperimen}} > \bar{x}\_{\text{kontrol}}$ secara statistik signifikan, intervensi *nudge* terbukti efektif.
 
 ## 5. Change (Perubahan) dan Evaluasi Berkelanjutan
 
@@ -80,13 +80,13 @@ Langkah-langkah yang dijalankan dalam tahap ini meliputi:
 
 ## Mengurangi Keterlambatan Pembayaran Pajak
 
-Berikut adalah contoh bagaimana BASIC Framework diterapkan dalam skenario nyata:
+Berikut adalah contoh bagaimana BASIC Framework diterapkan dalam skenario ilustratif:
 
-- **Behaviour (Perilaku):** Menargetkan pemilik kendaraan bermotor yang menunggak pajak agar segera menyelesaikan kewajibannya sebelum batas waktu berakhir.
+- **Behaviour (Perilaku):** Menargetkan pemilik kendaraan bermotor yang menunggak pajak agar segera menyelesaikan kewajibannya.
 - **Analysis (Analisis):** Hasil evaluasi menunjukkan bahwa sebagian besar penunggak bukan terkendala faktor finansial. Mereka cenderung menunda karena lupa, menganggap alur birokrasi rumit, atau merasa wajar menunggak sebab berasumsi banyak orang lain melakukan hal serupa.
 - **Strategy (Strategi):** Memanfaatkan prinsip norma sosial (*Social Norms*) dan penonjolan informasi (*Salience*). Surat tagihan dimodifikasi dengan menyelipkan kalimat informatif: *"9 dari 10 warga di lingkunganmu membayar pajak tepat waktu."*
 - **Intervention (Intervensi):** Menguji pesan baru tersebut kepada kelompok sampel berisi 5.000 warga. Setengah dari kelompok menerima surat pemberitahuan standar, sementara setengah sisanya menerima surat dengan tambahan pesan norma sosial.
-- **Change (Perubahan):** Terjadi kenaikan pembayaran pajak sebesar 15% pada kelompok eksperimen yang menerima pesan baru. Karena terbukti berhasil, intervensi ini kemudian diintegrasikan ke dalam kebijakan nasional.
+- **Change (Perubahan):** Terjadi kenaikan pembayaran pajak sebesar 15% pada kelompok eksperimen yang menerima pesan baru. Karena terbukti berhasil, intervensi ini kemudian diintegrasikan ke dalam kebijakan pemungutan pajak daerah.
 
 ## Praktik Mandiri Merancang Nudge Sederhana
 
@@ -95,7 +95,7 @@ Kamu bisa mencoba menerapkan kerangka BASIC untuk menyelesaikan masalah kecil di
 1. **Behaviour (Perilaku):** Menetapkan target konkret agar setiap orang langsung mencuci gelas atau piringnya setelah selesai makan dan minum.
 2. **Analysis (Analisis):** Cari tahu apa hambatan utamanya. Apakah letak sabun terlalu jauh, ataukah tumpukan piring kotor milik orang lain di wastafel membuat rekan kerja malas mencuci piringnya sendiri?
 3. **Strategy (Strategi):** Rancang satu intervensi taktis. Sebagai contoh, kamu bisa memasang cermin tepat di depan wastafel agar orang melihat refleksi diri mereka saat hendak meninggalkan piring kotor.
-4. **Intervention (Intervensi):** Uji coba strategi tersebut selama one-week penuh, lalu amati perubahannya secara objektif.
+4. **Intervention (Intervensi):** Uji coba strategi tersebut selama satu minggu penuh, lalu amati perubahannya secara objektif.
 5. **Change (Perubahan):** Apabila strategi ini terbukti efektif, buat langkah tersebut permanen, misalnya dengan menempelkan petunjuk tetap atau menyepakatinya dalam pertemuan tim.
 
 > **Penting:** Keberhasilan sebuah *nudge* sangat dipengaruhi oleh pemahaman mendalam tentang kondisi lokal. Solusi yang sukses di satu lingkungan kerja belum tentu memberikan hasil yang sama di tempat lain. Oleh karena itu, tahapan **Analysis** dalam BASIC wajib dilakukan dengan cermat.

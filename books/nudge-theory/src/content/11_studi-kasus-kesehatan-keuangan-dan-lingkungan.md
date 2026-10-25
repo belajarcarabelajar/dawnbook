@@ -49,7 +49,7 @@ Program **Save More Tomorrow** dirancang oleh Richard Thaler dan Shlomo Benartzi
 
 - **Komitmen untuk Masa Depan:** Karyawan diajak berkomitmen untuk menyisihkan pendapatan di masa mendatang, tepatnya saat mereka mendapatkan kenaikan gaji berikutnya. Langkah ini mengurangi rasa kehilangan karena alokasi tabungan diambil dari uang yang belum menjadi bagian dari anggaran bulanan mereka.
 - **Kenaikan Otomatis Sesuai Gaji:** Persentase tabungan akan disesuaikan dengan kenaikan gaji secara berkala. Misalnya, jika gaji naik $5\text{\%}$, alokasi tabungan otomatis bertambah $2\text{\%}$. Hasilnya, karyawan tidak akan merasakan penurunan jumlah gaji bersih yang biasa mereka bawa pulang.
-- **Sistem Default (Pendaftaran Otomatis):** Setiap karyawan baru secara otomatis terdaftar dalam program tabungan ini, kecuali jika mereka mengajukan keberatan dan memilih keluar secara manual.
+- **Kebebasan Keluar:** Karyawan boleh keluar dari program kapan saja.
 
 Tingkat tabungan karyawan yang menggunakan skema tradisional sering kali stagnan. Sebaliknya, program SMarT mendorong pertumbuhan tabungan secara akumulatif berdasarkan fungsi matematika berikut:
 
@@ -81,7 +81,7 @@ Beberapa kantin universitas dan perkantoran mengubah tata letak peralatan makan 
 - **Sistem Lama:** Sendok atau garpu plastik diletakkan langsung di atas nampan atau ditaruh di wadah terbuka yang sangat mencolok di area kasir.
 - **Pendekatan Baru:** Peralatan makan sekali pakai disimpan di dalam laci tertutup, atau hanya diberikan apabila pelanggan secara eksplisit memintanya (*by request only*).
 
-Sering kali kita mengambil sedotan plastik hanya karena benda tersebut diletakkan tepat di depan mata, meskipun sebenarnya tidak membutuhkannya.
+Sering kali kita mengambil sendok atau garpu plastik hanya karena benda tersebut diletakkan tepat di depan mata, meskipun sebenarnya tidak membutuhkannya.
 
 ## Tabel Ringkasan Penerapan
 
@@ -95,7 +95,7 @@ Sering kali kita mengambil sedotan plastik hanya karena benda tersebut diletakka
 
 Bayangkan kamu adalah seorang manajer fasilitas di sebuah gedung perkantoran besar yang ingin mengurangi konsumsi listrik. Berdasarkan studi kasus tadi, ada beberapa pilihan desain yang bisa kamu terapkan:
 
-- **Pemberian Informasi (Bukan Nudge):** Menempelkan stiker pengingat "Matikan Lampu" di dekat saklar. Metode ini sering kali tidak efektif karena mata orang sudah terbiasa melihat stiker tersebut, sehingga Sistem 1 mengabaikannya secara otomatis.
+- **Pemberian Informasi (Bukan Nudge):** Menempelkan stiker pengingat "Matikan Lampu" di dekat sakelar. Metode ini sering kali tidak efektif karena mata orang sudah terbiasa melihat stiker tersebut, sehingga Sistem 1 mengabaikannya secara otomatis.
 - **Nudge Berbasis Pilihan Standar (Default):** Memasang sensor gerak yang mematikan lampu secara otomatis apabila ruangan kosong. Ini memanfaatkan kekuatan default.
 - **Nudge Berbasis Umpan Balik (Feedback):** Menampilkan data konsumsi listrik harian di layar lobi utama dan membandingkannya dengan gedung tetangga. Langkah ini memanfaatkan dorongan sosial dan persaingan sehat.
 
@@ -103,4 +103,4 @@ Bayangkan kamu adalah seorang manajer fasilitas di sebuah gedung perkantoran bes
 
 > Arsitektur pilihan dianalogikan seperti membangun jalur sepeda yang landai dan rindang. Kamu tidak melarang orang mengendarai mobil, tetapi kamu membuat pilihan bersepeda menjadi begitu mudah, aman, dan menyenangkan sehingga orang-orang secara sukarela beralih.
 
-Setiap domain penerapan ini menimbulkan pertanyaan etis tersendiri mengenai sejauh mana pemerintah atau lembaga dapat mengarahkan pilihan individu. Batasan antara dorongan yang membantu (nudge) dan manipulasi yang merugikan (sludge) akan dibahas lebih mendalam pada bagian selanjutnya.
+Setiap domain penerapan ini menimbulkan pertanyaan etis tersendiri mengenai sejauh mana pemerintah atau lembaga dapat mengarahkan pilihan individu. Batasan antara dorongan yang membantu (nudge) dan hambatan yang merugikan (sludge) akan dibahas lebih mendalam pada bagian selanjutnya.

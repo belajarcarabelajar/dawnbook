@@ -2,11 +2,11 @@
 
 Bayangkan kamu sedang menyetir pulang kerja dan tiba-tiba sudah sampai di rumah tanpa mengingat kapan harus berbelok atau mengerem di setiap persimpangan. Di hari lain, kamu mungkin merasa lelah setelah membagi tagihan makan malam yang rumit bersama teman secara manual.
 
-Kedua situasi ini menggambarkan bagaimana otak kita bekerja menggunakan dua sistem berbeda, sebuah konsep yang dikenal sebagai **Dual Process Theory** (Teori Proses Ganda). Daniel Kahneman menjelaskan sistem ini secara mendalam di bukunya, *Thinking, Fast and Slow*. Memahami cara kerja keduanya membantu menjelaskan mengapa **Arsitektur Pilihan (Nudge Theory)** bisa efektif dalam mengarahkan tindakan kita.
+Kedua situasi ini menggambarkan bagaimana otak kita bekerja menggunakan dua sistem berbeda, sebuah konsep yang dikenal sebagai **Dual Process Theory** (Teori Proses Ganda). Daniel Kahneman menjelaskan sistem ini secara mendalam di bukunya, *Thinking, Fast and Slow*. Memahami cara kerja keduanya membantu menjelaskan mengapa **Nudge Theory** (yang bertumpu pada arsitektur pilihan) bisa efektif dalam mengarahkan tindakan kita.
 
 ## Sistem 1 yang Berpikir Cepat dan Otomatis
 
-Sistem 1 berjalan di latar belakang pikiran secara otomatis dan cepat tanpa perlu usaha sadar. Inilah wilayah insting dan intuisi kita bekerja.
+Sistem 1 berjalan di latar belakang pikiran secara otomatis dan cepat tanpa perlu usaha sadar. Di wilayah inilah insting dan intuisi kita bekerja.
 
 ### Karakteristik Utama
 
@@ -33,7 +33,7 @@ Sistem 2 mengelola konsentrasi, perhatian penuh, dan analisis logis. Saat kita m
 ### Karakteristik Utama
 
 - Prosesnya lambat karena membutuhkan waktu untuk mencerna informasi.
-- Cukup melelahkan karena mengonsumsi energi mental yang besar, bahkan bisa memicu kelelahan mental (*ego depletion*) jika digunakan terlalu lama.
+- Cukup melelahkan karena mengonsumsi energi mental yang besar, bahkan menurut sebagian peneliti bisa memicu kelelahan mental (*ego depletion*) jika digunakan terlalu lama.
 - Mengutamakan logika untuk melakukan perhitungan rumit dan perencanaan masa depan.
 - Memiliki kapasitas terbatas, sehingga hanya bisa fokus pada satu tugas kompleks dalam satu waktu.
 
@@ -48,7 +48,7 @@ Sistem 2 mengelola konsentrasi, perhatian penuh, dan analisis logis. Saat kita m
 - Mencari keberadaan teman di tengah kerumunan festival yang padat.
 - Menjaga ritme berjalan agar tetap lebih cepat dari biasanya secara sadar.
 
-## Interaksi Antara Sistem 1 dan Sistem 2
+## Interaksi antara Sistem 1 dan Sistem 2
 
 Kedua sistem ini terus berkolaborasi di dalam pikiran kita. Sistem 1 biasanya menjadi garda terdepan dengan menyodorkan berbagai kesan spontan, intuisi, dan perasaan ke Sistem 2. Begitu Sistem 2 menyetujui masukan tersebut, kesan tadi langsung berubah menjadi keyakinan kuat dan tindakan nyata.
 
@@ -103,7 +103,7 @@ Dalam merancang pilihan, para arsitek pilihan menggunakan asumsi dasar berikut:
 
 - **Kendala yang dihadapi:** Banyak tamu hotel lupa mematikan lampu atau pendingin ruangan saat pergi ke luar.
 - **Bila mengedukasi Sistem 2:** Memasang stiker pengingat hemat energi di dekat pintu. Pendekatan ini kurang efektif karena memerlukan perhatian sadar dari tamu yang sedang terburu-buru.
-- **Bila mengarahkan Sistem 1:** Memakai sistem kartu kunci khusus untuk menyalakan listrik kamar. Begitu tamu mengambil kunci saat keluar, seluruh aliran listrik mati secara otomatis tanpa membutuhkan memori aktif dari tamu.
+- **Bila mengarahkan Sistem 1:** Memakai sistem kartu kunci khusus untuk menyalakan listrik kamar. Begitu tamu mengambil kartu kunci saat keluar, seluruh aliran listrik mati secara otomatis tanpa membutuhkan memori aktif dari tamu.
 
 ## Perbandingan Sistem 1 dan Sistem 2
 
