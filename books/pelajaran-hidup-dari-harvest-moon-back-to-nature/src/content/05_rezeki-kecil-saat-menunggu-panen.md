@@ -16,7 +16,7 @@ Daya tariknya ada pada pengulangan: tanaman liar kembali setiap hari di tempat y
 
 Musim semi membuka satu pintu lagi. Greg, nelayan yang biasa memancing di dermaga pada pagi hari, akan bertanya apakah kamu mau mencoba. Jawab "ya", dan ia memberimu sebuah Fishing Rod.
 
-Memancing menuntut sabar. Kamu menahan tombol, menunggu pelampung mendadak tenggelam, lalu melepasnya dengan cepat. Kadang kailnya naik kosong, kadang yang tersangkut hanya sampah. Namun, sampah tidak selalu sia-sia. Sesekali yang terangkat adalah botol berisi resep, dan May dari Yodel Farm senang menerima kaleng kosong atau sepatu bot sebagai hadiah. Pagi yang terasa gagal di dermaga masih menyisakan sesuatu untuk diberikan.
+Memancing menuntut sabar. Kamu menahan tombol, menunggu pelampung mendadak tenggelam, lalu melepasnya dengan cepat. Kadang kailnya naik kosong, kadang yang tersangkut hanya sampah. Namun, sampah tidak selalu sia-sia. Sesekali yang terangkat adalah botol berisi resep, dan May dari Yodel Ranch senang menerima kaleng kosong atau sepatu bot sebagai hadiah. Pagi yang terasa gagal di dermaga masih menyisakan sesuatu untuk diberikan.
 
 Ikan yang berhasil ditangkap datang dalam tiga ukuran, kecil, sedang, dan besar, dengan harga jual yang berbeda. Ikan juga bisa diternakkan di kolam, dan syaratnya sederhana tetapi tidak boleh terlewat: satu kantong pakan setiap hari. Tanpa pakan, ikan di kolam tidak akan pernah berkembang biak.
 

@@ -20,7 +20,7 @@ Rasa sayang juga tidak bisa dikejar dalam semalam. Di tahun pertama, sapi dan do
 
 Hewan di gim ini bisa sakit. Sapi jatuh sakit kalau tidak diberi makan secara teratur atau dibiarkan kehujanan, dan selama sakit ia tidak menghasilkan susu. Domba yang sakit berhenti menumbuhkan wol dan tidak boleh ikut festival domba. Selama sakit, keduanya juga tidak bisa dibuat bunting.
 
-Obatnya tersedia di Poultry Farm atau Yodel Farm seharga 1.000 G. Namun buku strategi yang sama menambahkan bahwa hewan yang dirawat dengan baik, oleh pemilik yang rajin mengecek ramalan cuaca, kemungkinan besar tidak akan pernah sakit. Pilihannya jadi sederhana: seribu G di kemudian hari, atau sedikit waktu setiap pagi untuk memberi makan dan memasukkan hewan sebelum hujan turun.
+Obatnya tersedia di Poultry Farm atau Yodel Ranch seharga 1.000 G. Namun buku strategi yang sama menambahkan bahwa hewan yang dirawat dengan baik, oleh pemilik yang rajin mengecek ramalan cuaca, kemungkinan besar tidak akan pernah sakit. Pilihannya jadi sederhana: seribu G di kemudian hari, atau sedikit waktu setiap pagi untuk memberi makan dan memasukkan hewan sebelum hujan turun.
 
 ### Masukkan Semua Hewan Sebelum Badai
 

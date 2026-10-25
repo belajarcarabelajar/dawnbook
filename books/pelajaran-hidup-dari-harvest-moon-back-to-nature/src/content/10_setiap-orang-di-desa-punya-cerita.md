@@ -34,7 +34,7 @@ Kamu tidak membuat palu itu berhasil. Yang kamu berikan hanya tempat untuk menco
 
 ### May di Dermaga Pukul Enam Sore
 
-May tinggal bersama kakeknya, Barley, di Yodel Farm. Ibunya pernah pergi, kembali membawa May yang masih bayi, lalu pergi lagi dan meninggalkannya. Barley sangat menyayangi cucunya, tetapi berharap May punya teman sebaya, padahal anak muda di desa itu tidak banyak. Meski masih kecil, May berusaha membantu kakeknya sebisa mungkin.
+May tinggal bersama kakeknya, Barley, di Yodel Ranch. Ibunya pernah pergi, kembali membawa May yang masih bayi, lalu pergi lagi dan meninggalkannya. Barley sangat menyayangi cucunya, tetapi berharap May punya teman sebaya, padahal anak muda di desa itu tidak banyak. Meski masih kecil, May berusaha membantu kakeknya sebisa mungkin.
 
 Suatu hari Barley datang ke ladangmu membawa kabar bahwa May kabur dari rumah. Dorongan pertamamu mungkin langsung berlari mencarinya, padahal May baru bisa ditemukan sore hari. Jadi kerjakan dulu tugas harianmu. Pukul 18.00, ia berdiri di dermaga, menatap ke kejauhan. Ajak ia bicara, dan ia mau pulang. Menemukannya membuat Barley, Wali Kota Thomas, Zack, dan May sendiri lebih dekat denganmu.
 
