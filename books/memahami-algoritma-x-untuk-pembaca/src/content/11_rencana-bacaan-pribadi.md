@@ -1,6 +1,6 @@
 ## Rencana Bacaan Pribadi
 
-Banyak orang merasa lebih tenang membuka platform yang didominasi tulisan, seolah membaca huruf otomatis lebih menyehatkan daripada menonton video. Perasaan itu wajar, tetapi belum tentu tepat. X memang kaya teks, namun di dalamnya juga ada video, gambar, notifikasi, dan aliran rekomendasi yang terus berlanjut. Format teks saja tidak cukup untuk menyimpulkan bahwa sebuah platform memicu respons dopamin yang lebih rendah. Klaim seperti itu butuh penelitian tentang respons pengguna, bukan sekadar penjelasan cara kerja mesin rekomendasi, dan buku ini tidak membuat klaim semacam itu. Yang bisa kamu kendalikan adalah kebiasaanmu sendiri, dan bab ini merangkum semua yang sudah kamu pelajari menjadi satu rencana yang siap disalin.
+Banyak orang merasa lebih tenang membuka platform yang didominasi tulisan, seolah membaca huruf otomatis lebih menyehatkan daripada menonton video. Perasaan itu wajar, tetapi belum tentu tepat. X memang kaya teks, tetapi di dalamnya juga ada video, gambar, notifikasi, dan aliran rekomendasi yang terus berlanjut. Format teks saja tidak cukup untuk menyimpulkan bahwa sebuah platform memicu respons dopamin yang lebih rendah. Klaim seperti itu butuh penelitian tentang respons pengguna, bukan sekadar penjelasan cara kerja mesin rekomendasi, dan buku ini tidak membuat klaim semacam itu. Yang bisa kamu kendalikan adalah kebiasaanmu sendiri, dan bab ini merangkum semua yang sudah kamu pelajari menjadi satu rencana yang siap disalin.
 
 ### Menilai Kebiasaan, Bukan Format
 
