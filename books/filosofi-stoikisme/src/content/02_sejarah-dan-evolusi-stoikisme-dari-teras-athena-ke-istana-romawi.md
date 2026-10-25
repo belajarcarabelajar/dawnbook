@@ -89,7 +89,7 @@ Bagaimana sejarah Stoikisme ini membantu kita di dunia modern?
 
 ## Pengaruh Stoikisme Setelah Romawi
 
-Stoikisme tidak mati bersama runtuhnya Kekaisaran Romawi. Ia "berhibernasi" dalam tulisan-tulisan para Bapa Gereja, muncul kembali di era Renaissance, memengaruhi para pemikir Pencerahan, dan kini populer kembali di era digital melalui gerakan pengembangan diri. Albert Ellis dan Aaron Beck, para pendiri terapi dalam rumpun terapi kognitif perilaku (CBT), mengakui Stoikisme sebagai pendahulu filosofis pendekatan mereka.
+Stoikisme tidak mati bersama runtuhnya Kekaisaran Romawi. Ia "berhibernasi" dalam tulisan-tulisan para Bapa Gereja, muncul kembali di era Renaissance, memengaruhi para pemikir Pencerahan, dan kini populer kembali di era digital melalui terapi kognitif perilaku (CBT) dan gerakan pengembangan diri.
 
 Evolusi Stoikisme menunjukkan satu hal: **Selama manusia masih menghadapi penderitaan, ketidakpastian, dan kematian, prinsip-prinsip yang diajarkan di Teras Berwarna Athena akan selalu relevan.**
 
