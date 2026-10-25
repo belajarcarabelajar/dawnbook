@@ -1,6 +1,6 @@
 ## Evaluasi Bukti dan Kredibilitas Sumber
 
-Bayangkan kamu adalah seorang detektif yang berdiri di depan tumpukan berkas kasus. Beberapa berkas berisi kesaksian saksi mata yang jujur, namun yang lain berisi rumor tak berdasar atau bahkan kebohongan yang disengaja. Di era informasi digital ini, kita semua adalah detektif tersebut. Setiap hari, kita menerima banyak potongan data, berita, dan klaim.
+Bayangkan kamu adalah seorang detektif yang berdiri di depan tumpukan berkas kasus. Beberapa berkas berisi kesaksian saksi mata yang jujur, tetapi yang lain berisi rumor tak berdasar atau bahkan kebohongan yang disengaja. Di era informasi digital ini, kita semua adalah detektif tersebut. Setiap hari, kita menerima banyak potongan data, berita, dan klaim.
 
 Kemampuan untuk **mengevaluasi bukti** dan **menilai kredibilitas sumber** bukan lagi sekadar keterampilan akademis, melainkan kebutuhan sehari-hari untuk menjaga penalaran kita.
 
@@ -11,9 +11,9 @@ Bukti adalah segala sesuatu yang digunakan untuk mendukung atau membuktikan suat
 ### Kualitas Bukti berdasarkan Hierarki
 
 1. **Anecdotal Evidence (Bukti Anekdot):** Berdasarkan pengalaman pribadi ("Teman saya sembuh setelah minum ini"). Ini adalah bukti terlemah karena rentan terhadap bias subjektif.
-2. **Observational Evidence (Bukti Observasional):** Data yang dikumpulkan melalui pengamatan sistematis namun tanpa kontrol ketat.
+2. **Observational Evidence (Bukti Observasional):** Data yang dikumpulkan melalui pengamatan sistematis tetapi tanpa kontrol ketat.
 3. **Experimental Evidence (Bukti Eksperimental):** Hasil dari uji coba terkontrol yang dapat direplikasi.
-4. **Meta-Analysis dan Systematic Review:** Puncak hierarki bukti ilmiah, di mana banyak studi dikumpulkan dan dianalisis secara kolektif.
+4. **Meta-Analysis dan Systematic Review:** Puncak hierarki bukti ilmiah, ketika banyak studi dikumpulkan dan dianalisis secara kolektif.
 
 > **Prinsip Utama:** *"Absence of evidence is not evidence of absence"* (Ketiadaan bukti bukanlah bukti dari ketiadaan). Hanya karena belum ada bukti bahwa sesuatu itu ada atau benar, bukan berarti hal tersebut pasti tidak ada atau salah.
 
@@ -96,7 +96,7 @@ Dalam pengembangan AI, bukti (data) mesti dievaluasi untuk menghindari bias. Jik
 
 **Klaim:** "Perusahaan kami tumbuh 200% tahun ini!"
 
-- **Evaluasi Bukti:** Lihat basis pertumbuhannya. Jika tahun lalu untung USD 1 dan tahun ini USD 3, itu memang tumbuh 200%, namun secara nominal nilainya tidak seberapa.
+- **Evaluasi Bukti:** Lihat basis pertumbuhannya. Jika tahun lalu untung USD 1 dan tahun ini USD 3, itu memang tumbuh 200%, tetapi secara nominal nilainya tidak seberapa.
 - **Kredibilitas:** Apakah laporan ini diaudit oleh akuntan publik independen (misalnya salah satu firma The Big Four)?
 
 ## Poin Kunci

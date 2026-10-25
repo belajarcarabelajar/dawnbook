@@ -2,7 +2,7 @@
 
 Bayangkan kamu sedang membangun sebuah rumah. Kamu memiliki bahan bangunan yang bagus (premis), tetapi jika kamu menyusunnya dengan teknik yang salah, rumah tersebut akan roboh saat diterjang angin. **Sesat pikir** atau *logical fallacy* adalah cacat dalam logika argumen yang menyebabkan kesimpulan tidak didukung secara sah oleh premisnya.
 
-Sesat pikir sering kali terdengar meyakinkan. Sesat pikir ibarat "ilusi optik" bagi pikiran kita, tampak benar pada pandangan pertama, namun akan terlihat keliru jika kita memperhatikannya lebih dekat.
+Sesat pikir sering kali terdengar meyakinkan. Sesat pikir ibarat "ilusi optik" bagi pikiran kita, tampak benar pada pandangan pertama, tetapi akan terlihat keliru jika kita memperhatikannya lebih dekat.
 
 > **Sesat pikir bukan sekadar kesalahan fakta, melainkan kesalahan dalam "rantai penalaran" yang menghubungkan fakta dengan kesimpulan.**
 
@@ -50,7 +50,7 @@ Menyajikan hanya dua pilihan ekstrem, padahal sebenarnya ada banyak pilihan lain
 
 Contoh yang sering kita temui: *"Kamu tidak mendukung kebijakan ini? Berarti kamu musuh negara!"*
 
-Argumen ini keliru karena mengabaikan kenyataan bahwa seseorang bisa saja tidak menyetujui satu kebijakan spesifik, namun tetap mencintai negaranya. Pilihan yang tersedia tidak sesederhana hitam atau putih.
+Argumen ini keliru karena mengabaikan kenyataan bahwa seseorang bisa saja tidak menyetujui satu kebijakan spesifik, tetapi tetap mencintai negaranya. Pilihan yang tersedia tidak sesederhana hitam atau putih.
 
 ### 5. Appeal to Authority (Otoritas Semu)
 

@@ -8,7 +8,7 @@ Di sinilah **Penalaran Etis** berperan. Jika logika adalah mesin yang menggerakk
 
 Penalaran etis bukan sekadar mengikuti "perasaan" atau "intuisi." Ini adalah proses sistematis untuk menentukan mana yang benar dan salah melalui integrasi antara **prinsip logika** dan **nilai-nilai moral**.
 
-Dalam bab-bab sebelumnya, kita telah mempelajari bagaimana membangun argumen yang valid. Dalam penalaran etis, kita menggunakan struktur argumen tersebut, namun premis yang kita gunakan melibatkan nilai-nilai (seperti keadilan, kejujuran, atau kesejahteraan).
+Dalam bab-bab sebelumnya, kita telah mempelajari bagaimana membangun argumen yang valid. Dalam penalaran etis, kita menggunakan struktur argumen tersebut, tetapi premis yang kita gunakan melibatkan nilai-nilai (seperti keadilan, kejujuran, atau kesejahteraan).
 
 > **Wawasan Penting:** Logika memberi tahu kita *bagaimana* cara berpikir yang benar (validitas), sedangkan etika memberi tahu kita *apa* yang pantas untuk dipikirkan dan dilakukan (moralitas).
 

@@ -57,7 +57,7 @@ Kesimpulan dalam penalaran induktif tidak pernah bersifat mutlak 100%. Sebalikny
 
 - **Generalisasi**, yaitu menarik kesimpulan tentang seluruh populasi berdasarkan sampel kecil yang kita amati. Misalnya, menyimpulkan semua apel di toko rasanya manis karena beberapa apel yang kita cicipi dari keranjang terasa manis.
 - **Analogi** bekerja dengan membandingkan dua hal. Jika keduanya memiliki kemiripan dalam beberapa aspek, kita mengasumsikan mereka juga mirip dalam aspek lainnya.
-- **Hubungan Kausalitas**, di mana kita menyimpulkan adanya hubungan sebab-akibat ketika melihat urutan kejadian yang konsisten.
+- **Hubungan Kausalitas**, yaitu kita menyimpulkan adanya hubungan sebab-akibat ketika melihat urutan kejadian yang konsisten.
 
 ## 3\. Perbedaan Mendasar
 

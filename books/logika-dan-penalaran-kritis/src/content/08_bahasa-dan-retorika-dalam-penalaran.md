@@ -45,7 +45,7 @@ Retorika adalah seni persuasi. Namun, jika tidak digunakan dengan integritas, re
 
 ### 1. Kata-Kata Musang (Weasel Words)
 
-Ini adalah kata-kata yang tampak memberikan klaim yang kuat, namun sebenarnya memberikan jalan keluar bagi pembicara untuk mengelak.
+Ini adalah kata-kata yang tampak memberikan klaim yang kuat, tetapi sebenarnya memberikan jalan keluar bagi pembicara untuk mengelak.
 
 - **Contoh:** "Banyak orang mengatakan bahwa...", "Mungkin saja ini adalah solusi terbaik...", "Penelitian menunjukkan bahwa secara umum..."
 - **Masalah Logika:** Siapa "banyak orang" itu? Apa bukti pastinya? Kata-kata ini menciptakan kesan otoritas tanpa memberikan bukti konkret.

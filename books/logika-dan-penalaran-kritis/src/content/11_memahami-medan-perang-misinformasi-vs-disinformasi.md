@@ -88,4 +88,4 @@ Untuk tetap menjadi pemikir kritis, kamu perlu menjaga kesehatan mental digitalm
 
 **Kesimpulan Bagian Ini:** Berpikir kritis di era digital bukanlah tentang menjadi orang yang skeptis terhadap segala hal hingga menjadi sinis. Sebaliknya, ini adalah tentang menjadi **kurator informasi** yang cerdas. Dengan memahami cara kerja algoritma, mengenali emosi kita sendiri, dan menggunakan teknik verifikasi yang tepat, kita dapat menavigasi banjir informasi ini dengan pikiran yang jernih.
 
-Melakukan verifikasi mandiri terhadap berita yang awalnya kita percayai memang menuntut kerendahan hati intelektual, namun langkah itulah yang menjaga kejernihan berpikir.
+Melakukan verifikasi mandiri terhadap berita yang awalnya kita percayai memang menuntut kerendahan hati intelektual, tetapi langkah itulah yang menjaga kejernihan berpikir.
