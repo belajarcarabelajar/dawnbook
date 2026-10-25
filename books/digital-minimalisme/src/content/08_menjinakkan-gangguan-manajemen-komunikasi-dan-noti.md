@@ -10,7 +10,7 @@ Banyak orang menganggap setiap notifikasi penting. Faktanya, sebagian besar peri
 
 > **Wawasan Penting:** Notifikasi adalah interupsi terjadwal oleh pihak lain terhadap waktumu.
 
-Dalam wawancara dengan Gallup pada 2006, Gloria Mark menceritakan temuan penelitiannya: pekerjaan yang terputus rata-rata baru dilanjutkan sekitar 23 menit kemudian, biasanya setelah ada sekitar dua tugas lain yang dikerjakan lebih dulu. Harga sebuah gangguan bisa dilihat pada rumus efektivitas kerja ($E$):
+Dalam wawancara dengan Gallup pada 2006, Gloria Mark menceritakan temuan penelitiannya: pekerjaan yang terputus rata-rata baru dilanjutkan sekitar 23 menit kemudian, biasanya setelah ada sekitar dua tugas lain yang dikerjakan lebih dulu. Pengaruh gangguan bisa dilihat pada rumus efektivitas kerja ($E$):
 
 <div>
 $$
