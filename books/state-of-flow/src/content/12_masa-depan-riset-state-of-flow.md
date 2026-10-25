@@ -78,4 +78,4 @@ Masa depan riset *state of flow* tidak lagi memandang kondisi ini sebagai sesuat
 
 Dengan bantuan AI, neurosains, dan desain yang cerdas, kita tidak hanya akan bekerja lebih cepat, tetapi juga lebih bahagia, karena kita menghabiskan lebih banyak waktu dalam kondisi saat kesadaran diri menghilang dan keahlian kita berada di puncaknya.
 
-> "Masa depan bukan tentang bekerja lebih keras, tetapi tentang hidup lebih banyak dalam aliran (flow)."
+> "Masa depan bukan tentang bekerja lebih keras, tetapi tentang hidup lebih banyak dalam alir (flow)."

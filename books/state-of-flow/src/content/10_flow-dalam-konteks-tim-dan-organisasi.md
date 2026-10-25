@@ -1,6 +1,6 @@
 ## Flow dalam Konteks Tim dan Organisasi
 
-Bayangkan sebuah band jazz yang sedang berimprovisasi di atas panggung. Tanpa partitur yang kaku, setiap pemain menanggapi nada dari pemain lain secara instan. Tidak ada yang mendominasi, tetapi musik yang dihasilkan terdengar harmonis dan jauh lebih indah daripada jika mereka bermain sendiri-sendiri. Itulah yang kita sebut sebagai **Group Flow** (Aliran Kelompok).
+Bayangkan sebuah band jazz yang sedang berimprovisasi di atas panggung. Tanpa partitur yang kaku, setiap pemain menanggapi nada dari pemain lain secara instan. Tidak ada yang mendominasi, tetapi musik yang dihasilkan terdengar harmonis dan jauh lebih indah daripada jika mereka bermain sendiri-sendiri. Itulah yang kita sebut sebagai **Group Flow** (Alir Kelompok).
 
 Dalam konteks organisasi, *Group Flow* adalah kondisi ketika sebuah tim bekerja selaras, ide-ide mengalir lancar, dan produktivitas tim melampaui kemampuan anggotanya secara sendiri-sendiri.
 

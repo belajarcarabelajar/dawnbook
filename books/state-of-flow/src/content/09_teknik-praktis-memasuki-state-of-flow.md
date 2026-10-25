@@ -49,13 +49,7 @@ Sering kali bagian tersulit dari *Flow* adalah memulainya. Katakan pada diri sen
 
 ### Menemukan "Zona Goldilocks"
 
-Gunakan prinsip matematika sederhana untuk menentukan tingkat kesulitan tugas:
-
-<div>
-$$
-\text{Tingkat Kesulitan} = \text{Kemampuan} + 4\%
-$$
-</div>
+Gunakan kemampuan kamu saat ini sebagai patokan untuk menentukan tingkat kesulitan tugas.
 
 Jika tugas terlalu mudah, kamu akan bosan ($\text{Flow} \rightarrow \text{Boredom}$). Jika terlalu sulit, kamu akan cemas ($\text{Flow} \rightarrow \text{Anxiety}$). Carilah tugas yang sedikit di atas kemampuan kamu saat ini - area tempat kamu merasa tertantang tapi tetap mampu mengendalikan situasi.
 
