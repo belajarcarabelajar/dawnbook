@@ -1,6 +1,6 @@
 ## Referensi
 
-Semua sumber yang menjadi fondasi buku ini tercantum di halaman berikut dan bisa kamu akses langsung untuk menelusurinya lebih jauh. Daftar ini terdiri dari artikel ilmiah yang telah melalui proses peer-review serta buku dan dokumentasi online dari para praktisi kebiasaan. Setiap entri disertai tautan, jadi kamu bisa memverifikasi sendiri setiap klaim yang dikutip di sepanjang buku.
+Semua sumber yang menjadi fondasi buku ini tercantum di halaman berikut dan bisa kamu akses langsung untuk menelusurinya lebih jauh. Daftar ini terdiri dari artikel ilmiah yang telah melalui proses peer review serta buku dan dokumentasi online dari para praktisi kebiasaan. Setiap entri disertai tautan, jadi kamu bisa memverifikasi sendiri setiap klaim yang dikutip di sepanjang buku.
 
 ### Artikel Ilmiah
 

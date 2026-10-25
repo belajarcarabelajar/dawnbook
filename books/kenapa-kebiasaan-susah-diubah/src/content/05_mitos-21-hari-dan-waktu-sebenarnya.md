@@ -14,9 +14,9 @@ Setelah itu slogan itu hidup sendiri. Ia berulang di buku motivasi, kelas semina
 
 ### Apa yang ditemukan riset sungguhan
 
-Pertanyaannya menunggu sampai 2010. Phillippa Lally bersama timnya di University College London melakukan studi untuk mengukur langsung berapa lama waktu yang dibutuhkan sebuah perilaku berubah otomatis. Mereka merekrut 96 relawan yang memilih satu perilaku baru, soal makan, minum, atau aktivitas, lalu melakukannya setiap hari dalam konteks yang sama selama 12 minggu atau 84 hari. Setiap hari, relawan melaporkan seberapa otomatis perilaku itu terasa.
+Pertanyaannya menunggu sampai 2010. Phillippa Lally bersama timnya di University College London melakukan studi untuk mengukur langsung berapa lama waktu yang dibutuhkan sebuah perilaku untuk menjadi otomatis. Mereka merekrut 96 relawan yang memilih satu perilaku baru, soal makan, minum, atau aktivitas, lalu melakukannya setiap hari dalam konteks yang sama selama 12 minggu atau 84 hari. Setiap hari, relawan melaporkan seberapa otomatis perilaku itu terasa.
 
-Hasilnya bukan satu angka, tapi sebuah pola. Otomatisitas naik mengikuti kurva asimtotik: cepat di awal, lalu makin melandai. Hari-hari pertama memberi lompatan terbesar, dan makin ke belakang, kenaikannya makin kecil karena kamu mendekati plafon. Ibarat menuruni tangga menuju lantai dasar: anak tangga awal itu jauh, anak tangga terakhir tinggal selangkah.
+Hasilnya bukan satu angka, tapi sebuah pola. Otomatisitas naik mengikuti kurva asimtotik: cepat di awal, lalu makin melandai. Hari-hari pertama memberi lompatan terbesar, dan makin ke belakang, kenaikannya makin kecil karena kamu mendekati plafon. Ibarat menaiki tangga yang anak tangganya makin rendah: langkah awal mengangkatmu jauh, langkah-langkah terakhir hanya menambah sedikit ketinggian.
 
 > Bayangkan mengisi ember yang bocor halus di dasarnya. Di awal, keran dibuka penuh dan permukaan air naik cepat kelihatan. Semakin penuh ember, semakin pelan permukaannya naik, meski kerannya sama sekali tidak mengecil. Kebiasaan bekerja seperti itu: progres awal terlihat jelas, sementara tahap akhir terasa seperti diam di tempat, padahal kamu masih naik.
 
@@ -30,7 +30,7 @@ Ini melegakan karena kebanyakan dari kita punya aturan diam-diam: kalau sudah bo
 
 ### Menata ulang harapanmu
 
-Temuan terakhir yang penting: perilaku sederhana lebih cepat otomatis daripada rangkaian yang kompleks. Minum segelas air setiap pagi dan menjalankan rutinitas olahraga lengkap berada di titik yang berbeda di rentang 18 sampai 254 hari itu. Kompleksitas mengambil porsi dari waktu yang dibutuhkan.
+Temuan terakhir yang penting: perilaku sederhana lebih cepat otomatis daripada rangkaian yang kompleks. Minum segelas air setiap pagi dan menjalankan rutinitas olahraga lengkap berada di titik yang berbeda di rentang 18 sampai 254 hari itu. Makin kompleks perilakunya, makin lama waktu yang dibutuhkan.
 
 Maknanya praktis. Kalau kamu tahu perilaku pilihanmu kompleks, jangan pasang tenggat 21 hari lalu menganggap dirimu gagal di hari ke-30. Justru sebaliknya: buat perilakunya semungil mungkin supaya kurvanya pendek, dan beri dirimu tenggat yang sesuai dengan ukuran ambisimu. Harapan yang realistis bukan berarti harapan yang rendah, ia harapan yang dihitung.
 

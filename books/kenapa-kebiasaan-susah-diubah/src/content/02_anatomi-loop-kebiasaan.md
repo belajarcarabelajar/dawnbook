@@ -14,9 +14,9 @@ Untuk melihat mesin itu bekerja, kita perlu kasus yang menyingkirkan satu variab
 
 Yang mengejutkan datang dari hal sepele: kue kering di dapur. Meski tidak bisa mengingat apa pun tentang pagi harinya, Eugene tetap menemukan jalannya ke dapur dan menemukan kue itu, berulang-ulang. Ketika ditanya, ia tidak bisa menjelaskan kenapa ia ke sana, bahkan tidak ingat pernah makan. Kebiasaannya terus berjalan, meski pengalamannya hilang.
 
-> Ibarat sebuah gedung yang hampir seluruhnya hangus, tapi lorong menuju kantin masih bisa dilalui petugas keamanan secara otomatis. Lorong itu tidak butuh denah di kepala, karena tubuhnya sudah hafal lantainya.
+> Ibarat sebuah gedung yang hampir seluruhnya hangus, tapi lorong menuju kantin masih bisa dilalui petugas keamanan secara otomatis. Lorong itu tidak butuh denah di kepala, karena tubuh petugas itu sudah hafal lantainya.
 
-Bagi peneliti, kisah Eugene adalah bukti yang tegas: loop kebiasaan tidak tersimpan di ingatan sadar. Ada sistem saraf terpisah yang menggerakkannya, sistem yang tidak butuh kamu "ingat" untuk terus bekerja. Kenapa sistem itu bisa seotomatis itu, kita bahas di bab tiga.
+Bagi peneliti, kisah Eugene menjadi petunjuk kuat bahwa loop kebiasaan tidak bergantung pada ingatan sadar. Ada sistem saraf terpisah yang menggerakkannya, sistem yang tidak butuh kamu "ingat" untuk terus bekerja. Kenapa sistem itu bisa seotomatis itu, kita bahas di bab ketiga.
 
 ### Tiga mata rantai loop
 
@@ -32,7 +32,7 @@ Pada kasus Eugene, kebiasaan menemukan kue kering mengikuti pola yang sama denga
 
 Model tiga unsur Duhigg kemudian diperbarui. James Clear dalam Atomic Habits (2018) membedah loop menjadi empat langkah: cue, craving, response, dan reward. Yang ditambahkan adalah craving, dorongan yang muncul tepat saat cue muncul, jembatan antara pemicu dan aksi.
 
-Craving inilah bagian yang paling sering luput dari kesadaran. Kamu biasanya hanya menyadari dua ujungnya: ponsel yang kamu lihat (cue) dan layar yang sudah terbuka (response). Dorongan di tengahnya bekerja cepat dan senyap, muncul sebelum sempat kamu rumuskan dalam pikiran. Sadarmu baru hadir di tengah jalan, saat aksi sudah separuh selesai, dan saat itu membatalkannya terasa seperti melawan arus.
+Craving inilah bagian yang paling sering luput dari kesadaran. Kamu biasanya hanya menyadari dua ujungnya: ponsel yang kamu lihat (cue) dan layar yang sudah terbuka (response). Dorongan di tengahnya bekerja cepat dan senyap, muncul sebelum sempat kamu rumuskan dalam pikiran. Kesadaranmu baru hadir di tengah jalan, saat aksi sudah separuh selesai, dan saat itu membatalkannya terasa seperti melawan arus.
 
 Kalau empat langkah Clear itu dijajarkan, putarannya kira-kira begini.
 
@@ -56,12 +56,12 @@ Logikanya kembali ke bukti tadi. Loop kebiasaan tidak bisa dihapus begitu saja, 
 
 ### Loop ini bukan metafora
 
-Sampai titik ini, loop kebiasaan bisa terdengar seperti sekadar diagram pengajaran, cara merapikan gagasan agar mudah diingat. Padahal bukan itu statusnya. Graybiel (2008) dalam tinjauannya tentang otak dan kebiasaan menunjukkan bahwa kebiasaan berjalan sebagai chunk, rangkaian aksi yang terkompilasi menjadi satu kesatuan di dalam sistem saraf. Wood dan Rünger (2016) merumuskannya serupa: kebiasaan adalah respons otomatis yang dipicu konteks, lahir dari pengulangan yang diimbal.
+Sampai titik ini, loop kebiasaan bisa terdengar seperti sekadar diagram pengajaran, cara merapikan gagasan agar mudah diingat. Padahal bukan itu statusnya. Graybiel (2008) dalam tinjauannya tentang otak dan kebiasaan menunjukkan bahwa kebiasaan berjalan sebagai chunk, rangkaian aksi yang terkompilasi menjadi satu kesatuan di dalam sistem saraf. Wood dan Rünger (2016) merumuskannya serupa: kebiasaan adalah respons otomatis yang dipicu konteks, lahir dari pengulangan yang diberi imbalan.
 
-Artinya, cue, craving, response, dan reward bukan sekadar nama-nama di atas kertas. Masing-masing punya alamat kerja di otak, dan loop yang kamu jalankan tiap pagi itu nyata sebagai pola kerja saraf, bukan kiasan. Pertanyaannya tinggal satu: di mana alamat itu, dan kenapa otak rela menyerahkan hampir separuh perilakumu ke sistem otomatis?
+Artinya, cue, craving, response, dan reward bukan sekadar nama-nama di atas kertas. Rangkaian ini punya alamat kerja di otak, dan loop yang kamu jalankan tiap pagi itu nyata sebagai pola kerja saraf, bukan kiasan. Pertanyaannya tinggal satu: di mana alamat itu, dan kenapa otak rela menyerahkan hampir separuh perilakumu ke sistem otomatis?
 
 ## Ringkasan
 
-- Kisah Eugene Pauly dalam The Power of Habit (2012) membuktikan loop kebiasaan tersimpan di sistem yang bekerja tanpa ingatan sadar.
+- Kisah Eugene Pauly dalam The Power of Habit (2012) menunjukkan bahwa loop kebiasaan dapat bekerja tanpa ingatan sadar.
 - Loop versi Duhigg tersusun dari cue, routine, dan reward; Clear (2018) menambahkan craving, dorongan senyap di antara pemicu dan aksi, bagian yang paling sering luput dari kesadaran.
 - Golden rule of habit change menyatakan pertahankan cue dan reward lalu ganti routine, prinsip yang akan dituntaskan di bab kesepuluh.

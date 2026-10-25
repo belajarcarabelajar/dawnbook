@@ -22,15 +22,15 @@ Temuan ini bukan anomali. Ia konsisten dengan tinjauan besar dari Judith Ouellet
 
 ### Peluang singkat ketika hidup berubah
 
-Kalau pergantian konteks melemahkan kebiasaan lama, apakah momen itu bisa dimanfaatkan secara sengaja? Bas Verplanken dan Deborah Roy menguji pertanyaan ini lewat eksperimen lapangan dengan 800 peserta. Mereka memberikan intervensi perubahan perilaku kepada dua kelompok: yang sedang berada dalam momen perubahan hidup, seperti baru pindah rumah, dan yang hidupnya sedang stabil. Hasilnya mendukung apa yang mereka sebut **habit discontinuity hypothesis**: intervensi jauh lebih efektif diberikan saat seseorang sedang mengalami perubahan hidup, karena pola lama sedang terbuka dan belum tergantikan.
+Kalau pergantian konteks melemahkan kebiasaan lama, apakah momen itu bisa dimanfaatkan secara sengaja? Bas Verplanken dan Deborah Roy menguji pertanyaan ini lewat eksperimen lapangan dengan 800 peserta. Mereka memberikan intervensi perubahan perilaku kepada dua kelompok: yang sedang berada dalam momen perubahan hidup, seperti baru pindah rumah, dan yang hidupnya sedang stabil. Hasilnya mendukung apa yang mereka sebut **habit discontinuity hypothesis**: intervensi jauh lebih efektif bila diberikan saat seseorang sedang mengalami perubahan hidup, karena pola lama sedang terputus dan belum tergantikan.
 
-Tapi ada catatan penting: jendela itu sempit. Efek positifnya memudar seiring kebiasaan baru terbentuk dan rutinitas mengeras lagi. Konteks baru memang jadi tempat niat mengambil kemudi, tapi begitu kemudi dipasang, rangkaian pemicu baru mulai menyusun diri, dan sisa ruang geraknya makin kecil. Semakin lama kamu tinggal di lingkungan baru, semakin lama pula pemicu-pemicu barunya menumpuk, dan peluang membentuk ulang sesuatu makin mahal harganya.
+Tapi ada catatan penting: jendela itu sempit. Efek positifnya memudar seiring kebiasaan baru terbentuk dan rutinitas mengeras lagi. Konteks baru memang jadi tempat niat mengambil kemudi, tapi begitu kemudi dipegang, rangkaian pemicu baru mulai menyusun diri, dan sisa ruang geraknya makin kecil. Semakin lama kamu tinggal di lingkungan baru, semakin banyak pula pemicu baru yang menumpuk, dan peluang membentuk ulang sesuatu makin mahal harganya.
 
 ### Kalau tidak pindah rumah, pindahkan potongan kecilnya
 
 Bagaimana kalau kamu tidak sedang pindah mana-mana? Kabar baiknya, yang penting bukan skala perpindahannya, melainkan terputusnya asosiasi lama. Kamu bisa merekayasa konteks dalam ukuran kecil: atur ulang meja kerja sehingga ponsel tidak lagi berada dalam jangkauan tangan, ganti rute pagi agar kamu tidak lagi lewat gerobak yang selalu memancingmu berhenti, susun ulang urutan kegiatan pagi sehingga aksi yang memicu kebiasaan buruk kehilangan posisinya dalam rantai.
 
-Ini bukan sekadar trik kenyamanan. Kebiasaan adalah respons otomatis yang dipicu konteks, sehingga kontrol terhadapnya berbentuk pengelolaan konteks, bukan pengejaran pikiran yang berusaha menolak godaan setiap jam. Ganti panggungnya, dan naskah lamanya kehilangan tempat untuk dipentaskan. Tuliskan di kepalamu satu kalimat kerja untuk bab ini: konteks stabil adalah teman terbaik kebiasaan lama, dan konteks yang berubah adalah kesempatan untuk kebiasaan baru.
+Ini bukan sekadar trik kenyamanan. Kebiasaan adalah respons otomatis yang dipicu konteks, sehingga kontrol terhadapnya berbentuk pengelolaan konteks, bukan upaya pikiran untuk terus menolak godaan setiap jam. Ganti panggungnya, dan naskah lamanya kehilangan tempat untuk dipentaskan. Tuliskan di kepalamu satu kalimat kerja untuk bab ini: konteks stabil adalah teman terbaik kebiasaan lama, dan konteks yang berubah adalah kesempatan untuk kebiasaan baru.
 
 ## Poin Penting
 

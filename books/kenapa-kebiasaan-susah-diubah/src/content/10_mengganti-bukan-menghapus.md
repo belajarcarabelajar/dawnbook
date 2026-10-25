@@ -30,9 +30,9 @@ flowchart LR
 
 Metode habit reversal memberi bukti paling jelas untuk golden rule, dan resepnya hanya punya dua bahan.
 
-Bahan pertama: kesadaran akan momen kebiasaan. Klien dilatih menyadari persis kapan kebiasaan mulai bergerak, momen di mana tangan sudah menuju kuku sebelum sadar. Ini penting karena, seperti sudah kita bahas sejak bab awal, kebiasaan berjalan tanpa banyak melibatkan pikiran sadar. Kamu tidak bisa mengganti sesuatu yang tidak sempat kamu lihat.
+Bahan pertama: kesadaran akan momen kebiasaan. Klien dilatih menyadari persis kapan kebiasaan mulai bergerak, momen saat tangan sudah menuju kuku sebelum sadar. Ini penting karena, seperti sudah kita bahas sejak bab awal, kebiasaan berjalan tanpa banyak melibatkan pikiran sadar. Kamu tidak bisa mengganti sesuatu yang tidak sempat kamu lihat.
 
-Bahan kedua: respons kompetitif, gerakan yang bertabrakan fisik dengan kebiasaan. Klien yang menggigit kuku dilatih, begitu dorongan muncul, mengepalkan tangan atau menempatkan tangannya di posisi lain yang mustahil menyentuh mulut. Gerakan pengganti ini sengaja dipilih supaya tidak kompatibel dengan routine lama, dan supaya masih memberi sesuatu yang serupa dengan yang dulu didapat: tangan punya pekerjaan, ketegangan di banyak kasus saraf, dan kelegaan yang menyusul.
+Bahan kedua: respons kompetitif, gerakan yang bertabrakan secara fisik dengan kebiasaan. Klien yang menggigit kuku dilatih, begitu dorongan muncul, mengepalkan tangan atau menempatkan tangannya di posisi lain yang mustahil menyentuh mulut. Gerakan pengganti ini sengaja dipilih supaya tidak kompatibel dengan routine lama, dan supaya masih memberi sesuatu yang serupa dengan yang dulu didapat: tangan punya pekerjaan, ketegangan di banyak kasus saraf, dan kelegaan yang menyusul.
 
 Kedua bahan itu dilatih dalam satu sesi. Tidak ada pelan-pelan bertahun-tahun, tidak ada terapi berlarut. Dan hasilnya seperti yang sudah kamu baca di pembuka: hilang hampir total di hari pertama, bertahan pada sebelas klien yang konsisten mengikuti instruksi. Angka ini tinggi, dan karena itu kita perlu bicara jujur soal batasnya, sebentar lagi.
 
@@ -69,6 +69,6 @@ Kebiasaan lain tidak semudah itu. Makan emosional, misalnya, tidak punya satu ge
 
 - Golden rule of habit change: pertahankan cue dan reward, lalu ganti routine, karena loop kebiasaan tidak bisa dihapus tapi bisa disambung ulang.
 - Habit reversal Azrin dan Nunn (1973) bertumpu pada kesadaran akan momen kebiasaan dan respons kompetitif; pada dua belas klien dengan kebiasaan saraf motorik, sebuah sampel kecil, hasil satu sesi bertahan pada sebelas klien yang mengikuti instruksi.
-- Resep hariannya empat langkah: petakan cue dan reward, pilih routine pengganti yang memberi reward serupa dan murah, tulis rencana "Jika cue Y, maka lakukan Z", lalu latih respons kompetitif sampai cepat.
+- Resep hariannya empat langkah: petakan cue dan reward, pilih routine pengganti yang memberi reward serupa dan murah, tulis rencana "Jika cue Y, maka saya lakukan Z", lalu latih respons kompetitif sampai cepat.
 
 Langkah terakhir resep tadi soal latihan, dan setiap latihan yang berhasil adalah satu kemenangan kecil. Kemenangan semacam itu melakukan lebih dari menahan satu dorongan: ia mulai merangkai bukti tentang siapa dirimu.
