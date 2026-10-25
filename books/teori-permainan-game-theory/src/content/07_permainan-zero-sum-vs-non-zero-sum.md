@@ -26,17 +26,17 @@ Bayangkan sebuah kue ulang tahun. Jika kamu mengambil potongan yang lebih besar,
 
 **Contoh Klasik:**
 
-- **Catur atau Poker:** Dalam turnamen poker, total uang di meja tidak berubah. Jika kamu memenangkan 1.000 dolar, uang itu berasal dari kantong pemain lain.
+- **Catur atau Poker:** Dalam catur, kemenangan satu pemain adalah kekalahan pemain lain. Dalam turnamen poker, total uang di meja tidak berubah. Jika kamu memenangkan 1.000 dolar, uang itu berasal dari kantong pemain lain.
 - **Pasar Berjangka (Futures Market):** Dalam perdagangan derivatif, setiap rupiah yang dihasilkan oleh seorang *trader* adalah rupiah yang hilang dari *trader* lainnya.
 
 ## 2. Permainan Non-Zero-Sum Membangun Nilai Bersama
 
-**Permainan Non-Zero-Sum** adalah situasi di mana total keuntungan dan kerugian dari para pemain tidak berjumlah nol. Di sini, interaksi dapat menghasilkan nilai tambah (**Positive-Sum**) atau menghancurkan nilai (**Negative-Sum**).
+**Permainan Non-Zero-Sum** adalah situasi di mana total keuntungan dan kerugian dari para pemain tidak berjumlah konstan. Di sini, interaksi dapat menghasilkan nilai tambah (**Positive-Sum**) atau menghancurkan nilai (**Negative-Sum**).
 
 ### Karakteristik Utama Permainan Non-Zero-Sum
 
-- **Potensi Win-Win atau Lose-Lose:** Para pemain bisa berakhir lebih baik secara kolektif (kerjasama) atau lebih buruk (konflik yang merusak).
-- **Interdependensi:** Hasil yang diperoleh tidak selalu berarti kamu kehilangan sesuatu. Terkadang, langkah yang menguntungkan satu pihak juga bisa menguntungkan kamu.
+- **Potensi Win-Win atau Lose-Lose:** Para pemain bisa berakhir lebih baik secara kolektif (kerja sama) atau lebih buruk (konflik yang merusak).
+- **Interdependensi:** Hasil yang diperoleh pihak lain tidak selalu berarti kamu kehilangan sesuatu. Terkadang, langkah yang menguntungkan satu pihak juga bisa menguntungkan kamu.
 - **Matematika Non-Zero-Sum:**
 
   $$
@@ -55,7 +55,7 @@ Bayangkan sebuah kue ulang tahun. Jika kamu mengambil potongan yang lebih besar,
 | Fitur | Zero-Sum | Non-Zero-Sum |
 | --- | --- | --- |
 | **Sifat Hubungan** | Kompetitif murni / Antagonistik | Bisa kompetitif, bisa kooperatif |
-| **Total Hasil** | Tetap (Zero) | Variabel (Bisa bertambah/berkurang) |
+| **Total Hasil** | Tetap (nol atau konstanta tertentu) | Variabel (Bisa bertambah/berkurang) |
 | **Tujuan Pemain** | Mengalahkan lawan | Mengoptimalkan hasil sendiri (bisa lewat kerja sama) |
 | **Contoh Dunia Nyata** | Judi, Olahraga kompetitif | Perdagangan, Diplomasi, Pernikahan |
 
@@ -105,7 +105,7 @@ Dari dua contoh ini terlihat cara cepat mengecek sifat sebuah matriks: jumlahkan
 
 > **Poin Kunci:**
 > 
-> - **Zero-Sum** adalah tentang pembagian sumber daya yang terbatas; kesuksesan satu pihak mengharuskan kegagalan kamu.
+> - **Zero-Sum** adalah tentang pembagian sumber daya yang terbatas; kesuksesan satu pihak mengharuskan kegagalan pihak lain.
 > - **Non-Zero-Sum** mengakui bahwa melalui koordinasi, total nilai bisa ditambah (atau dikurangi).
 > - Kebanyakan interaksi manusia di dunia nyata (ekonomi, hubungan sosial, inovasi) bersifat **Non-Zero-Sum**, meskipun sering kali kita secara keliru menganggapnya sebagai Zero-Sum karena pola pikir kompetitif yang sempit.
 

@@ -1,6 +1,6 @@
 ## Pengantar Teori Permainan
 
-Pernahkah kamu merasa bahwa hidup ini seperti papan catur? Setiap keputusan yang kamu ambil, mulai dari menawarkan harga saat menawar di pasar hingga memilih strategi kampanye pemasaran, bergantung pada apa yang akan dilakukan orang lain.
+Pernahkah kamu merasa bahwa hidup ini seperti papan catur? Setiap keputusan yang kamu ambil, mulai dari menawar harga di pasar hingga memilih strategi kampanye pemasaran, bergantung pada apa yang akan dilakukan orang lain.
 
 Jika ya, kamu sudah mulai berpikir secara strategis. **Teori Permainan (Game Theory)** adalah kerangka kerja matematis dan logis yang digunakan untuk menganalisis situasi di mana hasil dari tindakan kamu tidak hanya ditentukan oleh pilihan kamu sendiri, melainkan juga oleh pilihan orang lain.
 
@@ -22,7 +22,7 @@ Pilihan kamu (mengebut atau santai) sangat bergantung pada perkiraan kamu tentan
 
 Teori permainan tidak muncul begitu saja. Ia berevolusi dari sekadar rasa ingin tahu tentang perjudian menjadi alat analisis kebijakan tingkat tinggi.
 
-1. **Awal Mula (1920-an):** Ilmuwan seperti **James Waldegrave** dan **Emile Borel** mulai mempelajari permainan kartu. Namun, fondasinya baru diletakkan oleh **John von Neumann** pada tahun 1928 melalui pembuktian teorema *minimax*.
+1. **Awal Mula (1920-an):** Ilmuwan **Emile Borel** mulai mempelajari permainan kartu. Namun, fondasinya baru diletakkan oleh **John von Neumann** pada tahun 1928 melalui pembuktian teorema *minimax*.
 2. **Lahirnya Disiplin Ilmu (1944):** Terbitnya buku *Theory of Games and Economic Behavior* oleh **John von Neumann** dan **Oskar Morgenstern**. Buku ini secara resmi memperkenalkan teori permainan sebagai alat analisis ekonomi.
 3. **Era Nash (1950-an):** **John Nash** (yang kisahnya difilmkan dalam *A Beautiful Mind*) memperluas teori ini melampaui permainan "menang-kalah" murni. Ia memperkenalkan konsep **Ekuilibrium Nash**, yang menjelaskan titik keseimbangan di mana tidak ada pemain yang mau mengubah strateginya secara sepihak.
 4. **Era Modern:** Sejak 1970-an, teori permainan merambah ke biologi evolusioner, ilmu politik, hingga desain algoritma internet dan lelang spektrum frekuensi seluler.
@@ -48,9 +48,9 @@ Mari kita lihat contoh nyata bagaimana teori permainan bekerja di dunia bisnis.
 
 - Jika keduanya memasang harga normal, keduanya mendapat untung stabil.
 - Jika Toko A memotong harga secara drastis (diskon besar) sementara Toko B tetap normal, Toko A akan menyedot semua pelanggan dan mendapat untung besar, sementara Toko B merugi.
-- **Masalahnya:** Toko B juga berpikir hal yang sama. Jika keduanya memotong harga secara bersamaan, mereka berdua akan mendapatkan jumlah pelanggan yang sama seperti semula, namun dengan margin keuntungan yang jauh lebih kecil.
+- **Masalahnya:** Toko B juga berpikir hal yang sama. Jika keduanya memotong harga secara bersamaan, mereka berdua akan mendapatkan jumlah pelanggan yang sama seperti semula, tetapi dengan margin keuntungan yang jauh lebih kecil.
 
-**Hasilnya?** Seringkali, tanpa adanya komunikasi langsung, kedua toko terjebak dalam "perang harga" yang sebenarnya merugikan keduanya dibandingkan jika mereka bertahan di harga normal. Teori permainan membantu manajer memahami risiko ini sebelum mereka mulai memotong harga.
+**Hasilnya?** Sering kali, tanpa adanya komunikasi langsung, kedua toko terjebak dalam "perang harga" yang sebenarnya merugikan keduanya dibandingkan jika mereka bertahan di harga normal. Teori permainan membantu manajer memahami risiko ini sebelum mereka mulai memotong harga.
 
 ## Membedakan Teori Keputusan dari Teori Permainan
 
@@ -74,4 +74,4 @@ Setelah memahami bahwa teori permainan adalah tentang interaksi strategis, kita 
 2. **Strategi (Strategies):** Apa saja pilihan yang mereka miliki?
 3. **Hasil/Imbalan (Payoffs):** Apa yang mereka dapatkan dari kombinasi pilihan tersebut?
 
-*Persiapkan diri kamu, karena ketiga elemen ini menjadi dasar setiap analisis teori permainan.*
+*Persiapkan diri kamu karena ketiga elemen ini menjadi dasar setiap analisis teori permainan.*

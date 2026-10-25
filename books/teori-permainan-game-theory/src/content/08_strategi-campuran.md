@@ -14,6 +14,7 @@ Seorang penendang penalti (*Striker*) bisa menendang ke kiri atau ke kanan. Seor
 - Jika kiper tahu striker akan menendang ke kiri, kiper akan melompat ke kiri.
 - Jika striker tahu kiper akan melompat ke kiri, striker akan menendang ke kanan.
 - Jika kiper tahu striker akan menendang ke kanan, kiper akan melompat ke kanan.
+- Jika striker tahu kiper akan melompat ke kanan, striker akan menendang ke kiri.
 
 Tidak ada titik "diam" di sini. Setiap kali satu pemain menetapkan satu pilihan pasti, pemain lain memiliki insentif untuk mengubah pilihannya. Inilah saat kita membutuhkan **Strategi Campuran**.
 
@@ -87,7 +88,7 @@ Strategi campuran bukan sekadar teori matematika, melainkan alat pertahanan dan 
 
 #### A. Keamanan Siber dan Audit
 
-Bayangkan tim IT yang harus memeriksa peladen (*server*) dari serangan. Jika mereka selalu memeriksa peladen yang sama pada jam yang sama, peretas akan menyerang peladen lain.
+Bayangkan tim IT yang harus melindungi peladen (*server*) dari serangan. Jika mereka selalu memeriksa peladen yang sama pada jam yang sama, peretas akan menyerang peladen lain.
 
 - **Aplikasi:** Auditor pajak atau petugas keamanan bandara menggunakan algoritma strategi campuran untuk menentukan jadwal inspeksi secara acak sehingga pelaku kejahatan tidak bisa menemukan celah waktu atau lokasi yang aman.
 
@@ -106,7 +107,7 @@ Polisi lalu lintas tidak bisa berjaga di setiap sudut jalan setiap saat. Dengan 
 | Aspek | Strategi Murni | Strategi Campuran |
 | --- | --- | --- |
 | **Kepastian** | Deterministik (Pasti) | Probabilistik (Peluang) |
-| **Kapan Digunakan** | Saat ada satu pilihan terbaik yang stabil | Saat tidak ada ekuilibrium tunggal/perlu mengejutkan lawan |
+| **Kapan Digunakan** | Saat ada satu pilihan terbaik yang stabil | Saat tidak ada ekuilibrium strategi murni/perlu mengejutkan lawan |
 | **Tujuan Utama** | Memaksimalkan hasil langsung | Mencegah eksploitasi oleh lawan |
 | **Contoh** | Membeli barang termurah | Menentukan rute patroli keamanan |
 

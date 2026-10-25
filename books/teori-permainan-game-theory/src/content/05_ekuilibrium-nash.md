@@ -39,7 +39,7 @@ Artinya, hasil ($u\_i$) yang didapat pemain $i$ dengan strategi $s\_i^{\ast}$ ad
 
 ### 3. Cara Menemukan Ekuilibrium Nash dalam Matriks
 
-Untuk mencari ekuilibrium dalam permainan simultan (pemain memilih di waktu yang sama), kita menggunakan metode **"Best Response" (Respon Terbaik)**. Mari kita lihat contoh kompetisi antara dua perusahaan, Perusahaan A dan Perusahaan B, yang memutuskan untuk memasang iklan atau tidak.
+Untuk mencari ekuilibrium dalam permainan simultan (pemain memilih di waktu yang sama), kita menggunakan metode **"Best Response" (Respons Terbaik)**. Mari kita lihat contoh kompetisi antara dua perusahaan, Perusahaan A dan Perusahaan B, yang memutuskan untuk memasang iklan atau tidak.
 
 | Perusahaan A \ B | Pasang Iklan | Tidak Iklan |
 | --- | --- | --- |
@@ -50,12 +50,12 @@ Untuk mencari ekuilibrium dalam permainan simultan (pemain memilih di waktu yang
 
 **Langkah-langkah Analisis:**
 
-1. **Jika Perusahaan B Pasang Iklan:** Respon terbaik Perusahaan A adalah **Pasang Iklan** (10 lebih baik daripada 5). *Kita tandai angka 10.*
-2. **Jika Perusahaan B Tidak Iklan:** Respon terbaik Perusahaan A adalah **Pasang Iklan** (20 lebih baik daripada 15). *Kita tandai angka 20.*
-3. **Jika Perusahaan A Pasang Iklan:** Respon terbaik Perusahaan B adalah **Pasang Iklan** (10 lebih baik daripada 5). *Kita tandai angka 10 (milik B).*
-4. **Jika Perusahaan A Tidak Iklan:** Respon terbaik Perusahaan B adalah **Pasang Iklan** (20 lebih baik daripada 15). *Kita tandai angka 20 (milik B).*
+1. **Jika Perusahaan B Pasang Iklan:** Respons terbaik Perusahaan A adalah **Pasang Iklan** (10 lebih baik daripada 5). *Kita tandai angka 10.*
+2. **Jika Perusahaan B Tidak Iklan:** Respons terbaik Perusahaan A adalah **Pasang Iklan** (20 lebih baik daripada 15). *Kita tandai angka 20.*
+3. **Jika Perusahaan A Pasang Iklan:** Respons terbaik Perusahaan B adalah **Pasang Iklan** (10 lebih baik daripada 5). *Kita tandai angka 10 (milik B).*
+4. **Jika Perusahaan A Tidak Iklan:** Respons terbaik Perusahaan B adalah **Pasang Iklan** (20 lebih baik daripada 15). *Kita tandai angka 20 (milik B).*
 
-**Hasil:** Kotak di mana kedua pemain memberikan respon terbaiknya adalah **(Pasang Iklan, Pasang Iklan)** dengan payoff **(10, 10)**. Inilah Ekuilibrium Nash-nya.
+**Hasil:** Kotak di mana kedua pemain memberikan respons terbaiknya adalah **(Pasang Iklan, Pasang Iklan)** dengan payoff **(10, 10)**. Inilah Ekuilibrium Nash-nya.
 
 *Coba renungkan: Apakah (10, 10) adalah hasil terbaik bagi kedua perusahaan? Secara kolektif, (15, 15) lebih baik. Namun, dalam Ekuilibrium Nash, godaan untuk mendapatkan 20 membuat posisi (15, 15) tidak stabil.*
 
@@ -63,7 +63,7 @@ Untuk mencari ekuilibrium dalam permainan simultan (pemain memilih di waktu yang
 
 #### A. Bisa Lebih dari Satu (Multiple Equilibria)
 
-Dalam beberapa kasus, sebuah permainan bisa memiliki lebih dari satu titik keseimbangan. Contoh klasiknya adalah **"Battle of the Sexes"** (Pertempuran Pilihan), di mana sepasang kekasih ingin pergi bersama tapi punya selera berbeda (satu ingin nonton bola, satu ingin nonton konser). Jika mereka bersama-sama di bola atau bersama-sama di konser, keduanya adalah Ekuilibrium Nash.
+Dalam beberapa kasus, sebuah permainan bisa memiliki lebih dari satu titik ekuilibrium. Contoh klasiknya adalah **"Battle of the Sexes"** (Pertempuran Pilihan), di mana sepasang kekasih ingin pergi bersama tapi punya selera berbeda (satu ingin nonton bola, satu ingin nonton konser). Jika mereka bersama-sama di bola atau bersama-sama di konser, keduanya adalah Ekuilibrium Nash.
 
 #### B. Tidak Selalu Efisien (Pareto Optimal)
 

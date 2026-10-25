@@ -81,13 +81,13 @@ Dalam **Multi-Agent Reinforcement Learning (MARL)**, agen belajar melalui uji co
 ## 6. Teori Permainan pada Iklan Digital, Spektrum Radio, Keamanan Siber, dan Kripto
 
 1. **Google Ads & Meta Ads**: Menggunakan desain mekanisme tingkat lanjut untuk mengalokasikan ruang iklan secara efisien kepada jutaan pengiklan.
-2. **Frekuensi Radio & Spektrum**: Pemerintah menggunakan lelang kombinatorial (berdasarkan AGT) untuk menjual hak frekuensi seluler senilai miliaran dolar.
+2. **Frekuensi Radio & Spektrum**: Pemerintah menggunakan lelang kombinatorial (berdasarkan teori lelang dan desain mekanisme) untuk menjual hak frekuensi seluler senilai miliaran dolar.
 3. **Keamanan Siber**: AI digunakan untuk memodelkan interaksi antara penyerang (*hacker*) dan pertahanan sistem sebagai permainan stokastik untuk memprediksi titik serangan.
 4. **Ekonomi Kripto (Tokenomics)**: Protokol blockchain seperti Ethereum menggunakan teori permainan untuk memastikan validator bertindak jujur melalui sistem imbalan (*reward*) dan penalti (*slashing*).
 
 ## 7. Tantangan Masa Depan ketika AI Berhadapan dengan AI
 
-Apa yang terjadi jika AI menjadi terlalu pintar dalam bernegosiasi? Ada risiko di mana algoritma secara tidak sengaja belajar untuk melakukan **kolusi** (bekerja sama secara rahasia) untuk menaikkan harga bagi konsumen.
+Apa yang terjadi jika AI menjadi terlalu pintar dalam bernegosiasi? Ada risiko bahwa algoritma secara tidak sengaja belajar untuk melakukan **kolusi** (bekerja sama secara rahasia) untuk menaikkan harga bagi konsumen.
 
 *Coba bayangkan skenario ini: jika dua algoritma penetapan harga di toko online belajar bahwa mereka berdua untung lebih besar jika tidak pernah menurunkan harga, apakah itu sebuah kesuksesan AI atau kegagalan pasar?*
 

@@ -51,7 +51,7 @@ $$
 - $n$: Jumlah total pemain.
 - $S$: Sebuah koalisi yang tidak menyertakan pemain $i$.
 - $v(S \cup \lbrace i \rbrace) - v(S)$: Kontribusi marginal pemain $i$ saat bergabung ke koalisi $S$.
-- $\frac{|S|! (n - |S| - 1)!}{n!}$: Probabilitas pemain $i$ bergabung ke koalisi tersebut dalam urutan acak.
+- $\frac{|S|! (n - |S| - 1)!}{n!}$: Probabilitas bahwa, dalam urutan kedatangan acak, para pemain yang datang sebelum pemain $i$ tepat membentuk koalisi tersebut.
 
 *Apakah adil jika seseorang yang bergabung terakhir mendapatkan bagian yang sama dengan orang yang merintis dari awal? Nilai Shapley menjawab ini dengan merata-ratakan semua urutan kedatangan yang mungkin.*
 
@@ -61,9 +61,9 @@ Mari kita lihat skenario dunia nyata yang sering kita alami.
 
 **Skenario:** Tiga orang (A, B, dan C) berbagi taksi untuk pulang.
 
-- Rumah A berjarak Rp10.000 (jika naik sendiri).
-- Rumah B berjarak Rp20.000.
-- Rumah C berjarak Rp30.000. Taksi tersebut melewati jalur yang sama, sehingga total biaya untuk mengantar ketiganya adalah Rp30.000. Bagaimana mereka harus membagi biayanya?
+- Ongkos taksi ke rumah A adalah Rp10.000 (jika naik sendiri).
+- Ongkos taksi ke rumah B adalah Rp20.000.
+- Ongkos taksi ke rumah C adalah Rp30.000. Taksi tersebut melewati jalur yang sama, sehingga total biaya untuk mengantar ketiganya adalah Rp30.000. Bagaimana mereka harus membagi biayanya?
 
 **Langkah-langkah Nilai Shapley:**
 
@@ -100,7 +100,7 @@ Dalam kecerdasan buatan, kita sering bertanya: *"Fitur mana yang paling berpenga
 
 ### C. Kekuatan Pemungutan Suara (Voting Power)
 
-Dalam parlemen atau dewan direksi, jumlah kursi tidak selalu mencerminkan kekuatan sebenarnya. Nilai Shapley-Shubik membantu mengukur seberapa sering seorang pemain menjadi "penentu" (pivotal) dalam sebuah pemungutan suara untuk meloloskan kebijakan.
+Dalam parlemen atau dewan direksi, jumlah kursi tidak selalu mencerminkan kekuatan sebenarnya. Indeks Shapley-Shubik membantu mengukur seberapa sering seorang pemain menjadi "penentu" (pivotal) dalam sebuah pemungutan suara untuk meloloskan kebijakan.
 
 ## 6. Sinergi dan Pembagian yang Adil
 

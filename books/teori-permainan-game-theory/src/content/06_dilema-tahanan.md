@@ -11,7 +11,7 @@ Apa yang akan kamu lakukan? Inilah inti dari **Dilema Tahanan**, sebuah paradoks
 
 ### Representasi Matriks Hasil (Payoff Matrix)
 
-Untuk menganalisis ini secara ilmiah, kita menggunakan **Bentuk Normal** atau matriks. Angka dalam kurung menunjukkan jumlah tahun penjara (semakin kecil angkanya, semakin baik hasilnya bagi pemain).
+Untuk menganalisis ini secara ilmiah, kita menggunakan **Bentuk Normal** atau matriks. Angka dalam kurung menunjukkan jumlah tahun penjara (Tahanan A, Tahanan B); semakin kecil angkanya, semakin baik hasilnya bagi pemain.
 
 | Tahanan A \ Tahanan B | Tetap Diam (Kerja Sama) | Mengaku (Berkhianat) |
 | --- | --- | --- |
@@ -32,7 +32,7 @@ Apa pun yang dilakukan Tahanan B, pilihan terbaik bagi Tahanan A adalah **Mengak
 #### Ekuilibrium Nash vs. Optimalitas Pareto
 
 - **Ekuilibrium Nash:** Terjadi pada titik (Mengaku, Mengaku) dengan hasil (5, 5). Tidak ada pemain yang ingin mengubah keputusannya secara sepihak.
-- **Optimalitas Pareto:** Terjadi pada titik (Diam, Diam) dengan hasil (1, 1). Ini adalah hasil yang secara kolektif jauh lebih baik, namun tidak stabil secara strategis karena adanya godaan untuk berkhianat.
+- **Optimalitas Pareto:** Titik (Diam, Diam) dengan hasil (1, 1) termasuk Pareto optimal. Ini adalah hasil yang secara kolektif jauh lebih baik, namun tidak stabil secara strategis karena adanya godaan untuk berkhianat.
 
 ### Definisi Matematis
 
@@ -75,7 +75,7 @@ Jika secara logika kita akan selalu berakhir pada pengkhianatan, bagaimana masya
 
 - **Iterasi (Pengulangan):** Jika permainan dilakukan berulang kali, pemain akan takut pada pembalasan di masa depan (*tit-for-tat*).
 - **Reputasi:** Dalam komunitas kecil, pengkhianat akan dikucilkan.
-- **Kontrak Hukum:** Pemerintah menciptakan aturan yang menghukum mereka yang "berkhianat" (seperti denda bagi perusahaan yang melakukan monopoli).
+- **Kontrak Hukum:** Pemerintah menciptakan aturan yang menghukum mereka yang "berkhianat".
 
 Pernahkah kamu berada dalam situasi kerja kelompok ketika kamu melakukan semua pekerjaan sementara temanmu mendapatkan nilai yang sama tanpa berusaha? Itulah Dilema Tahanan dalam kehidupan sekolah! Mengapa kamu masih mau bekerja sama meskipun ada risiko temanmu menjadi "free rider"?
 

@@ -85,9 +85,9 @@ flowchart TD
 
 Hasil yang kita temukan melalui induksi mundur disebut **Subgame Perfect Nash Equilibrium (SPNE)**. Ini adalah konsep yang lebih kuat daripada Ekuilibrium Nash biasa.
 
-**Mengapa ini penting?** Dalam permainan sekuensial, seringkali ada "ancaman kosong" (*incredible threats*). Misalnya, Petahana (B) mungkin mengancam: *"Kalau kamu masuk, saya akan bertarung sampai kita berdua bangkrut!"*
+**Mengapa ini penting?** Dalam permainan sekuensial, sering kali ada "ancaman kosong" (*incredible threats*). Misalnya, Petahana (B) mungkin mengancam: *"Kalau kamu masuk, saya akan bertarung sampai kita berdua bangkrut!"*
 
-Namun, melalui induksi mundur, Pendatang (P) tahu bahwa ancaman itu tidak rasional. Saat benar-benar dihadapkan pada pilihan di akhir, Petahana akan lebih memilih untung $5$ daripada rugi $-1$. Induksi mundur membantu kita menyaring strategi yang hanya berupa gertakan.
+Namun, melalui induksi mundur, Pendatang (P) tahu bahwa ancaman itu tidak rasional. Saat benar-benar dihadapkan pada pilihan di akhir, Petahana akan lebih memilih untung $5$ daripada hasil $-1$. Induksi mundur membantu kita menyaring strategi yang hanya berupa gertakan.
 
 ## 6. Induksi Mundur di Negosiasi, Catur, dan Militer
 
@@ -101,7 +101,7 @@ Meskipun kuat secara teori, induksi mundur memiliki kelemahan dalam praktik:
 
 - **Rasionalitas Terbatas (Bounded Rationality):** Manusia tidak selalu rasional secara sempurna. Kadang orang melakukan tindakan balas dendam meskipun itu merugikan diri mereka sendiri (menghancurkan asumsi SPNE).
 - **Kompleksitas Komputasi:** Dalam permainan seperti Catur atau Go, jumlah kemungkinan langkah sangat besar sehingga tidak mungkin melakukan induksi mundur hingga ke akhir permainan, baik oleh otak manusia maupun komputer super.
-- **Masalah Kepercayaan:** Jika ada ketidakpastian informasi, induksi mundur menjadi jauh lebih sulit dilakukan.
+- **Informasi Tidak Sempurna:** Jika ada ketidakpastian informasi, induksi mundur menjadi jauh lebih sulit dilakukan.
 
 ### Bahan Pertimbangan
 
@@ -111,4 +111,4 @@ Meskipun kuat secara teori, induksi mundur memiliki kelemahan dalam praktik:
 
 - **Induksi Mundur** adalah cara berpikir "Melihat ke Depan, Menalar ke Belakang" (*Look forward, reason backward*).
 - Gunakan **Pohon Permainan** untuk memetakan setiap kemungkinan.
-- Abaikan **ancaman yang tidak kredibel**; fokuslah pada apa yang akan dilakukan pemain secara rasional saat mereka benar-benar berada di posisi tersebut.
+- Abaikan **ancaman kosong** (ancaman yang tidak kredibel); fokuslah pada apa yang akan dilakukan pemain secara rasional saat mereka benar-benar berada di posisi tersebut.
