@@ -30,7 +30,7 @@ Pemahaman bahwa jumlah, massa, atau volume suatu benda itu tetap sama biarpun be
 
 Anak-anak sekarang udah bisa ngelompokin barang berdasarkan kesamaan cirinya dan paham tingkatan hierarki.
 
-- **Inklusi Kelas:** Kasih mereka 10 bunga mawar dan 5 melati, terus tanya "Mana yang lebih banyak, bunga mawar atau bunga?". Anak praoperasional pasti jawab "mawar". Tapi anak operasional konkret udah ngerti logikanya: $\text{Mawar} + \text{Melati} = \text{Bunga}$. Jadi, kategori "Bunga" pasti lebih besar dari sekadar sub-kategori "Mawar".
+- **Inklusi Kelas:** Kasih mereka 10 bunga mawar dan 5 melati, terus tanya "Mana yang lebih banyak, bunga mawar atau bunga?". Anak praoperasional biasanya jawab "mawar". Tapi anak operasional konkret udah ngerti logikanya: $\text{Mawar} + \text{Melati} = \text{Bunga}$. Jadi, kategori "Bunga" pasti lebih besar dari sekadar subkategori "Mawar".
 
 ### C. Seriasi
 
@@ -57,7 +57,7 @@ Kalau dulu si anak cuma fokus ke "tingginya air", sekarang mereka ngeh juga soal
 Biarpun udah logis, cara mikirnya masih mentok di realitas fisik. Coba perhatiin bedanya:
 
 - **Konkret:** "Kalau Budi lebih tinggi dari Ani, terus Ani lebih tinggi dari Caca, siapa yang paling tinggi?" (Kadang mereka perlu coret-coret atau ngebayangin fisik orangnya langsung biar yakin).
-- **Abstrak:** Kasih mereka rumus murni kayak $A > B$ and $B > C$ tanpa wujud nyata. Bingung deh mereka. Logika "Gimana kalau..." yang nggak ada fisiknya masih susah banget buat dicerna.
+- **Abstrak:** Kasih mereka rumus murni kayak $A > B$ dan $B > C$ tanpa wujud nyata. Bingung deh mereka. Logika "Gimana kalau..." yang nggak ada fisiknya masih susah banget buat dicerna.
 
 ## 5. Belajar Melalui Manipulasi
 
@@ -85,14 +85,14 @@ Mereka langsung paham sebab-akibatnya gara-gara hasilnya langsung nongol di laya
 
 ## 6. Latihan Refleksi
 
-> Coba deh ingat-ingat waktu kecil dulu. Pernah nggak ngerasa "diculasi" pas dikasih cokelat yang udah dipotek-potek kecil biar kelihatannya banyak? Pas kamu mulai sadar kalau jumlah aslinya ya segitu-segitu aja biarpun bentuknya berubah, nah, di titik itulah cara mikirmu udah naik level ke tahap Operasional Konkret.
+> Coba deh ingat-ingat waktu kecil dulu. Pernah nggak ngerasa "dicurangi" pas dikasih cokelat yang udah dipotek-potek kecil biar kelihatannya banyak? Pas kamu mulai sadar kalau jumlah aslinya ya segitu-segitu aja biarpun bentuknya berubah, nah, di titik itulah cara mikirmu udah naik level ke tahap Operasional Konkret.
 
 ### Lima Kemampuan Utama
 
 | Kemampuan | Deskripsi |
 | --- | --- |
 | **Konservasi** | Benda tetap sama meski bentuk berubah ($A = B$). |
-| **Klasifikasi** | Mengelompokkan benda ke dalam kategori dan sub-kategori. |
+| **Klasifikasi** | Mengelompokkan benda ke dalam kategori dan subkategori. |
 | **Seriasi** | Mengurutkan benda berdasarkan dimensi (kecil ke besar). |
 | **Desentrasi** | Melihat masalah dari berbagai sudut pandang. |
 | **Reversibilitas** | Berpikir dua arah (maju dan mundur). |

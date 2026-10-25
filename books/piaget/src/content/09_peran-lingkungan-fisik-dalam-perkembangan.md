@@ -57,7 +57,7 @@ $$
 
 Lingkungan fisik harus menyediakan tantangan yang sesuai dengan tingkat perkembangan anak. Berikut adalah bagaimana interaksi fisik berperan dalam setiap fase:
 
-- **Masa Bayi (Sensorimotor):** Objek yang memiliki tekstur, bunyi, dan warna kontras membantu bayi memahami konsep **Objek Permanen**. Mainan "cilukba" atau benda yang bisa digenggam adalah alat belajar utama.
+- **Masa Bayi (Sensorimotor):** Objek yang memiliki tekstur, bunyi, dan warna kontras membantu bayi memahami konsep **Objek Permanen**. Permainan "cilukba" atau benda yang bisa digenggam adalah alat belajar utama.
 - **Masa Kanak-kanak Awal (Praoperasional):** Alat-alat permainan simbolik (seperti telepon mainan atau balok kayu yang dianggap sebagai mobil) membantu perkembangan kemampuan representasi mental.
 - **Masa Sekolah Dasar (Operasional Konkret):** Alat peraga seperti sempoa, timbangan, atau eksperimen sains sederhana (mencampur warna) sangat penting karena mereka belum bisa berpikir sepenuhnya abstrak tanpa bantuan benda nyata.
 
@@ -65,7 +65,7 @@ Lingkungan fisik harus menyediakan tantangan yang sesuai dengan tingkat perkemba
 
 Bagaimana kita menerapkan pemahaman tentang peran lingkungan fisik ini dalam pendidikan dan pengasuhan?
 
-### Belajar Tentang Volume
+### Belajar tentang Volume
 
 Alih-alih memberikan rumus $V = p \times l \times t$ di papan tulis, guru yang menerapkan prinsip Piaget akan:
 
@@ -98,4 +98,4 @@ Tanpa material bangunan yang memadai dan bervariasi, tukang bangunan tidak akan 
 - Interaksi fisik memicu **disekuilibrium**, yang merupakan motor penggerak belajar.
 - Pengetahuan tentang dunia dimulai dari **ujung jari** anak sebelum sampai ke **logika** mereka.
 
-> **Catatan Akhir:** Peran pendidik dan orang tua bukan untuk "mengajari" objek tersebut, melainkan menyediakan lingkungan di mana objek-objek tersebut tersedia untuk dijelajahi dan dieksplorasi secara bebas oleh anak.
+> **Catatan Akhir:** Peran pendidik dan orang tua bukan untuk "mengajarkan" objek tersebut, melainkan menyediakan lingkungan di mana objek-objek tersebut tersedia untuk dijelajahi dan dieksplorasi secara bebas oleh anak.

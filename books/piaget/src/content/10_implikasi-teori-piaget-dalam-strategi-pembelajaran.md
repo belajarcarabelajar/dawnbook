@@ -14,13 +14,13 @@ Dalam model ini, eksplorasi fisik sangat ditonjolkan. Guru lebih sering melontar
 
 ### Kesiapan Kognitif dan Adaptasi Materi
 
-Memaksa anak belajar sesuatu di luar tahap perkembangannya seringkali berujung pada kebingungan. Ibarat menginstal *game* berat di komputer jadul, sistemnya pasti akan kewalahan. Karena itu, instruksi harus selalu disesuaikan dengan tahap kognitif anak.
+Memaksa anak belajar sesuatu di luar tahap perkembangannya sering kali berujung pada kebingungan. Ibarat menginstal *game* berat di komputer jadul, sistemnya pasti akan kewalahan. Karena itu, instruksi harus selalu disesuaikan dengan tahap kognitif anak.
 
 Untuk anak tahap Praoperasional (seperti TK atau awal SD), instruksi perlu dibuat sesingkat mungkin. Gunakan banyak alat peraga visual. Mengajar berhitung dengan tumpukan kelereng asli akan jauh lebih masuk akal bagi mereka ketimbang hanya menulis angka abstrak di kertas.
 
 Ketika mereka masuk ke tahap Operasional Konkret, mereka sudah bisa mengklasifikasi objek. Berikan eksperimen sains sederhana di mana mereka bisa langsung memanipulasi variabel. Kaitkan juga materi dengan kejadian sehari-hari yang dekat dengan dunia mereka.
 
-Barulah pada tahap Operasional Formal (SMA ke atas), siswa siap diberi pertanyaan hipotesis. *"Apa yang akan terjadi jika...?"* menjadi alat utama guru. Di fase ini, mereka sudah mampu mendiskusikan konsep abstrak seperti etika, politik, atau teori sains tingkat lanjut menggunakan penalaran deduktif.
+Barulah pada tahap Operasional Formal (sekitar usia 11 atau 12 tahun ke atas), siswa siap diberi pertanyaan hipotesis. *"Apa yang akan terjadi jika...?"* menjadi alat utama guru. Di fase ini, mereka sudah mampu mendiskusikan konsep abstrak seperti etika, politik, atau teori sains tingkat lanjut menggunakan penalaran deduktif.
 
 ### Memicu Konflik Kognitif
 
@@ -47,7 +47,7 @@ Misalnya saat belajar fisika. Siswa mungkin punya pemikiran awal bahwa "semua be
 
 Kerangka kerja Piagetian menuntut perubahan peran pendidik. Guru kini bertindak sebagai arsitek lingkungan belajar. Mereka menyiapkan ruang kelas yang kaya stimulus untuk memancing rasa ingin tahu.
 
-Selain itu, guru bertugas mengobservasi tingkat pemahaman siswa secara intens. Tujuannya memastikan tantangan yang diberikan pas takarannya. Guru juga wajib mendorong interaksi sosial, seperti debat antar siswa. Meskipun Piaget lebih fokus pada eksplorasi fisik, ia sangat setuju bahwa interaksi sosial efektif untuk mengubah cara pandang egosentris anak.
+Selain itu, guru bertugas mengobservasi tingkat pemahaman siswa secara intens. Tujuannya memastikan tantangan yang diberikan pas takarannya. Guru juga wajib mendorong interaksi sosial, seperti debat antarsiswa. Meskipun Piaget lebih fokus pada eksplorasi fisik, ia sangat setuju bahwa interaksi sosial efektif untuk mengubah cara pandang egosentris anak.
 
 ### Penerapan pada Konsep Siklus Air
 

@@ -29,7 +29,7 @@ Pada awal kelahiran, bayi berinteraksi dengan dunia melalui refleks bawaan.
 
 Bayi mulai mengulang tindakan yang menyenangkan yang awalnya terjadi secara tidak sengaja, namun tindakan ini **berpusat pada tubuh mereka sendiri**.
 
-- **Contoh:** Menghisap jempol. Awalnya tidak sengaja, tapi karena terasa nyaman, bayi mencoba mengulanginya.
+- **Contoh:** Mengisap jempol. Awalnya tidak sengaja, tapi karena terasa nyaman, bayi mencoba mengulanginya.
 
 ### III. Reaksi Sirkular Sekunder (4 - 8 Bulan)
 
@@ -41,7 +41,7 @@ Fokus bayi mulai beralih dari tubuh sendiri ke **objek di luar diri mereka**. Me
 
 Fase penting ketika **tindakan mulai disengaja**. Bayi mulai menggabungkan beberapa skema untuk mencapai tujuan.
 
-- **Contoh:** Bayi menyingkirkan bantal (skema 1) untuk mengambil mainan yang sembunyi di baliknya (skema 2). Niat sudah mendahului aksi.
+- **Contoh:** Bayi menyingkirkan bantal (skema 1) untuk mengambil mainan yang tersembunyi di baliknya (skema 2). Niat sudah mendahului aksi.
 
 ### V. Reaksi Sirkular Tersier (12 - 18 Bulan)
 
@@ -60,7 +60,7 @@ Anak mulai mengembangkan kemampuan untuk menggunakan simbol mental sederhana dan
 Pencapaian terbesar dalam tahap ini adalah pemahaman tentang **Objek Permanen**, yaitu kesadaran bahwa benda tetap ada meski sudah tidak terlihat, terdengar, atau disentuh.
 
 - **Sebelum Objek Permanen:** Tutupi mainan bayi 5 bulan dengan kain. Bagi mereka, mainan itu "lenyap" dari realitas. Tidak terlihat berarti tidak ada.
-- **Setelah Objek Permanen (8-12 bulan):** Bayi akan menarik kain itu. Mereka sadar mainan itu masih sembunyi di baliknya.
+- **Setelah Objek Permanen (8-12 bulan):** Bayi akan menarik kain itu. Mereka sadar mainan itu masih tersembunyi di baliknya.
 
 ### Representasi Sederhana
 
@@ -97,8 +97,8 @@ Paham cara kerja sensorimotor membuat kita bisa memberi stimulasi yang pas:
 | **Sirkular Sekunder** | 4-8 bln | Objek luar | Memukul mainan agar berbunyi. |
 | **Koordinasi** | 8-12 bln | Tujuan & Intensi | Mencari benda yang disembunyikan. |
 | **Sirkular Tersier** | 12-18 bln | Eksperimen | Menjatuhkan sendok untuk melihat jatuhnya. |
-| **Representasi** | 18-24 bln | Simbol mental | Berpura-pura menyuapi boneka. |
+| **Internalisasi** | 18-24 bln | Simbol mental | Berpura-pura menyuapi boneka. |
 
 Pernah melihat bayi terus-terusan menjatuhkan mainan dari kursi makan meski sudah kamu ambil berkali-kali? Dia tidak sedang rewel atau nakal. Dia sedang melakukan eksperimen gravitasi dan jarak (Reaksi Sirkular Tersier). 
 
-Pemahaman dasar bahwa objek itu nyata dan permanen menjadi syarat wajib sebelum anak siap belajar bahasa dan simbol abstrak.
+Pemahaman dasar bahwa objek itu nyata dan permanen menjadi salah satu fondasi bagi anak untuk belajar bahasa dan simbol abstrak.

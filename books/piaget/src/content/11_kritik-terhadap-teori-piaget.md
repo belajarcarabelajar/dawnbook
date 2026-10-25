@@ -1,4 +1,4 @@
-## Kritik Terhadap Teori Piaget
+## Kritik terhadap Teori Piaget
 
 Jean Piaget memang tokoh besar dalam psikologi perkembangan. Namun, tidak ada teori yang sempurna. Seiring berjalannya waktu, para peneliti menyadari ada celah dari peta pemikiran anak yang digambar Piaget. Beberapa bagian bahkan sedikit meleset.
 
@@ -19,14 +19,14 @@ Banyak yang menganggap Piaget terlalu lambat dalam mematok kapan anak menguasai 
 
 Piaget memandang perkembangan anak seperti menaiki anak tangga satu per satu. Kenyataannya tidak sekaku itu. Prosesnya sering kali terasa seperti tanjakan landai atau gelombang yang saling tumpang tindih.
 
-- **Variabilitas Kognitif:** Anak bisa saja sangat jago matematika (operasional konkret). Namun di saat bersamaan, dia masih kebingungan saat membaca situasi sosial (praoperasional). Fenomena belang-belang ini disebut **Décalage Horisontal**.
+- **Variabilitas Kognitif:** Anak bisa saja sangat jago matematika (operasional konkret). Namun di saat bersamaan, dia masih kebingungan saat membaca situasi sosial (praoperasional).
 
 ### C. Minimnya Perhatian pada Faktor Sosial dan Budaya
 
 Bagi penganut pendekatan sosiokultural (seperti Lev Vygotsky), ini adalah titik buta terbesar Piaget. Dia melihat anak sebagai "ilmuwan kecil" yang asyik meneliti dunia sendirian.
 
 - **Mengabaikan Interaksi:** Piaget lupa menghitung faktor bimbingan orang dewasa. Padahal bahasa, interaksi sosial, dan norma budaya sangat menentukan seberapa cepat anak berpikir.
-- **Bias Barat:** Sampel penelitian Piaget berpusat pada anak-anak Eropa Barat yang bersekolah. Kalau kita ke budaya non-Barat, urutan perkembangan kognitifnya bisa sangat berbeda, menyesuaikan dengan nilai-nilai lokal masyarakat.
+- **Bias Barat:** Sampel penelitian Piaget berpusat pada anak-anak Eropa Barat yang bersekolah. Kalau kita ke budaya non-Barat, kecepatan perkembangan kognitifnya bisa sangat berbeda, menyesuaikan dengan nilai-nilai lokal masyarakat.
 
 ## 2\. Perspektif Neo-Piagetian
 
@@ -69,7 +69,7 @@ Kita sudah tahu bahwa perkembangan kognitif anak tidak selalu sejajar di semua m
 
 ### 2\. Mengontrol Beban Kognitif
 
-Ide-ide Neo-Piagetian menyadarkan kita untuk tidak memborbardir anak dengan informasi baru secara bertubi-tubi.
+Ide-ide Neo-Piagetian menyadarkan kita untuk tidak membombardir anak dengan informasi baru secara bertubi-tubi.
 
 - **Aplikasi:** Kalau memori kerja anak hanya bisa menampung sedikit informasi sekaligus, guru harus memecah instruksi besar.
 - **Contoh:**
@@ -86,7 +86,7 @@ Ide-ide Neo-Piagetian menyadarkan kita untuk tidak memborbardir anak dengan info
 
 Proses berpikir kritis yang tinggi tidak datang tiba-tiba. Dasarnya harus dikuasai dulu secara otomatis.
 
-- **Praktek:** Meminta anak menghafal tabel perkalian punya alasan yang masuk akal. Ini bertujuan melonggarkan ruang di otak mereka. Ketika bertemu soal cerita yang menjebak, energinya tidak lagi terkuras hanya untuk mengingat hasil 7 dikali 8.
+- **Praktik:** Meminta anak menghafal tabel perkalian punya alasan yang masuk akal. Ini bertujuan melonggarkan ruang di otak mereka. Ketika bertemu soal cerita yang menjebak, energinya tidak lagi terkuras hanya untuk mengingat hasil 7 dikali 8.
 
 ## 5\. Refleksi Singkat
 
