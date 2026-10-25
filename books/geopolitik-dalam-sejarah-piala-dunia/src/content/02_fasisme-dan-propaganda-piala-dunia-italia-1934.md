@@ -48,7 +48,7 @@ $$
 
 ## Sportswashing sejak 1934 hingga Kini
 
-Apa yang dilakukan Mussolini di tahun 1934 menciptakan pola yang masih kita lihat hingga hari ini. Konsep menggunakan olahraga untuk mengalihkan perhatian dari isu hak asasi manusia atau untuk membangun *soft power* disebut sebagai **Sportswashing**.
+Apa yang dilakukan Mussolini pada tahun 1934 menciptakan pola yang masih kita lihat hingga hari ini. Konsep menggunakan olahraga untuk mengalihkan perhatian dari isu hak asasi manusia atau untuk membangun *soft power* disebut sebagai ***sportswashing***.
 
 **Contoh Skenario:** Sebuah negara dengan catatan HAM yang buruk menjadi tuan rumah turnamen besar. Mereka membangun stadion futuristik dan menyambut turis dengan ramah. Dunia luar yang melihat melalui layar kaca akan terpesona oleh kemegahan tersebut dan melupakan (atau mengabaikan) realitas politik di balik layar.
 

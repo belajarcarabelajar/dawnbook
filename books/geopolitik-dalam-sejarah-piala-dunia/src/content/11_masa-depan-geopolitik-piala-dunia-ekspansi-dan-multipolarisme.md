@@ -28,7 +28,7 @@ Piala Dunia 2026 (AS, Kanada, Meksiko) dan rencana ambisius untuk 2030 (Spanyol,
 
 ### Mengapa Tren Ini Muncul?
 
-1. **Beban Ekonomi (The White Elephant Syndrome):** Biaya membangun stadion mutakhir terlalu besar untuk ditanggung satu negara. Pembagian beban (cost-sharing) menjadi solusi pragmatis.
+1. **Beban Ekonomi (*The White Elephant Syndrome*):** Biaya membangun stadion mutakhir terlalu besar untuk ditanggung satu negara. Pembagian beban (*cost-sharing*) menjadi solusi pragmatis.
 2. **Stabilitas Regional:** Proyek tuan rumah bersama sering kali berfungsi sebagai sarana integrasi politik. Sebagai contoh, kolaborasi Amerika Serikat, Meksiko, dan Kanada bergulir di tengah ketegangan isu migrasi serta perdagangan, bertindak sebagai perekat diplomatik lewat sepak bola.
 3. **Konektivitas Antarbenua:** Piala Dunia 2030 yang melintasi tiga benua (Eropa, Afrika, dan Amerika Selatan) menggambarkan realitas dunia saat ini: sangat terkoneksi secara digital dan ekonomi, tetapi tetap terbelah oleh ketegangan politik.
 
@@ -38,8 +38,8 @@ Sepanjang abad ke-20, peta kekuatan sepak bola dunia cenderung bersifat **unipol
 
 ### Kekuatan Baru di Panggung Dunia
 
-- **Blok Timur Dekat dan Tengah:** Investasi masif dari Arab Saudi (calon kuat tuan rumah 2034) dan Qatar menunjukkan pergeseran pusat gravitasi kekuasaan ke Teluk. Upaya ini berfokus pada diversifikasi ekonomi pasca-minyak dan tidak terbatas pada pencitraan olahraga (*sportswashing*).
-- **Kebangkitan Kolektif Global South:** Negara-negara berkembang menolak menjadi penonton pasif. Mereka menuntut hak untuk mengatur agenda sepak bola dunia, daripada sekadar tunduk pada aturan yang dirancang di Zurich atau Paris.
+- **Blok Timur Dekat dan Tengah:** Investasi masif dari Arab Saudi (tuan rumah 2034) dan Qatar menunjukkan pergeseran pusat gravitasi kekuasaan ke Teluk. Upaya ini berfokus pada diversifikasi ekonomi pasca-minyak dan tidak terbatas pada pencitraan olahraga (*sportswashing*).
+- **Kebangkitan Kolektif *Global South*:** Negara-negara berkembang menolak menjadi penonton pasif. Mereka menuntut hak untuk mengatur agenda sepak bola dunia, daripada sekadar tunduk pada aturan yang dirancang di Zurich atau Paris.
 
 **Rumus Kekuatan Geopolitik Baru:** Untuk memetakan pengaruh suatu negara dalam lanskap sepak bola masa depan, kita dapat menggambarkan hubungan variabelnya melalui persamaan berikut:
 
@@ -49,7 +49,7 @@ P = (E \times I) + (S \times V)
 $$
 </div>
 
-Di mana:
+Keterangan:
 
 - $P$ = *Power* (Pengaruh Geopolitik)
 - $E$ = *Economic Investment* (Investasi infrastruktur dan liga)
@@ -69,7 +69,7 @@ Ketika Piala Dunia melibatkan 48 tim dan tersebar di tiga benua, makna "tuan rum
 
 ## Skenario 2034 dan Visi Arab Saudi
 
-Arab Saudi kini berdiri sebagai satu-satunya kandidat tuan rumah untuk Piala Dunia 2034. Langkah ini menjadi contoh konkret dari dinamika yang kita bahas:
+Arab Saudi telah ditetapkan FIFA sebagai tuan rumah Piala Dunia 2034 setelah menjadi satu-satunya kandidat. Langkah ini menjadi contoh konkret dari dinamika yang kita bahas:
 
 - **Strategi:** Menjadikan sepak bola sebagai pilar utama "Vision 2030" guna mentransformasi citra negara secara global.
 - **Multipolarisme:** Langkah ini membuktikan bahwa kendali kekuatan sepak bola tidak lagi memerlukan persetujuan tradisional dari negara-negara Barat.

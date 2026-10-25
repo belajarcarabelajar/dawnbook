@@ -1,6 +1,6 @@
 ## Piala Dunia 1978 di Bawah Bayang-Bayang Junta Militer
 
-Bayangkan sebuah stadion megah yang bergemuruh oleh sorak-sorai 70.000 penonton. Kertas-kertas konfeti putih (papelitos) menghujani lapangan seperti salju di tengah musim panas Buenos Aires. Di podium kehormatan, Jenderal Jorge Rafael Videla tersenyum lebar saat menyerahkan trofi emas kepada kapten Argentina, Daniel Passarella.
+Bayangkan sebuah stadion megah yang bergemuruh oleh sorak-sorai 70.000 penonton. Kertas-kertas konfeti putih (papelitos) menghujani lapangan seperti salju di tengah musim dingin Buenos Aires. Di podium kehormatan, Jenderal Jorge Rafael Videla tersenyum lebar saat menyerahkan trofi emas kepada kapten Argentina, Daniel Passarella.
 
 Namun, hanya beberapa blok dari gegap gempita Stadion Monumental itu, di dalam gedung **ESMA (Escuela de Mecánica de la Armada)**, jeritan para tahanan politik diredam oleh suara radio yang menyiarkan pertandingan yang sama.
 
@@ -16,7 +16,7 @@ Di balik nama yang terdengar administratif ini, tersembunyi kampanye penindasan 
 
 - **Desaparecidos:** Diperkirakan sekitar **30.000 orang** "dihilangkan" (diculik, disiksa, dan dibunuh) oleh rezim.
 - **Pusat Penahanan:** Lebih dari **340 pusat penyiksaan rahasia** beroperasi di seluruh negeri.
-- **Biaya Penyelenggaraan:** Junta menghabiskan sekitar **USD 700 juta** (sepuluh kali lipat dari anggaran Piala Dunia sebelumnya di Jerman Barat) hanya untuk memastikan citra Argentina terlihat sempurna.
+- **Biaya Penyelenggaraan:** Junta menghabiskan sekitar **USD 700 juta** hanya untuk memastikan citra Argentina terlihat sempurna.
 
 ## 2. Sepak Bola sebagai Alat "Sportswashing"
 
@@ -38,7 +38,7 @@ Puncak kontroversi terjadi pada babak grup kedua. Argentina harus mengalahkan Pe
 
 **Hasil Akhir:** Argentina menang telak **6-0**.
 
-Banyak teori konspirasi yang memiliki dasar kuat mengenai pertandingan ini:
+Ada banyak dugaan mengenai pertandingan ini, sebagian di antaranya didukung laporan:
 
 - **Kiper Peru:** Ramón Quiroga, kiper Peru saat itu, sebenarnya lahir di Argentina.
 - **Diplomasi Gandum:** Ada laporan bahwa rezim Videla mengirimkan **35.000 ton gandum** gratis dan mencairkan aset keuangan Peru senilai USD 50 juta sesaat setelah pertandingan tersebut.
@@ -62,7 +62,7 @@ Kasus Argentina 1978 mengajarkan kita tentang bagaimana kekuatan lunak (*soft po
 
 ### Relevansi Masa Kini
 
-1. **Tanggung Jawab Tuan Rumah:** FIFA kini menyertakan klausul Hak Asasi Manusia dalam proses *bidding* tuan rumah, sebuah langkah yang lahir dari trauma masa lalu seperti 1978.
+1. **Tanggung Jawab Tuan Rumah:** FIFA kini menyertakan klausul Hak Asasi Manusia dalam proses *bidding* tuan rumah, sebuah langkah yang sejalan dengan pelajaran dari kasus seperti 1978.
 2. **Kesadaran Atlet:** Beberapa pemain, seperti bintang Belanda **Johan Cruyff**, menolak berangkat ke Argentina. Meskipun alasannya kompleks (termasuk percobaan penculikan keluarganya), ketidakhadirannya menjadi simbol protes terhadap rezim.
 3. **Memori Kolektif:** Saat ini, Stadion Monumental memiliki plakat peringatan untuk para *desaparecidos*, mengingatkan penggemar bahwa sepak bola tidak boleh lagi dipisahkan dari etika kemanusiaan.
 
@@ -76,7 +76,7 @@ L = \frac{V \times P}{C}
 $$
 </div>
 
-Di mana:
+Keterangan:
 
 - $L$ = *Legitimasi Rezim* (Target yang ingin dicapai)
 - $V$ = *Victory* (Kemenangan Timnas sebagai pemicu euforia)

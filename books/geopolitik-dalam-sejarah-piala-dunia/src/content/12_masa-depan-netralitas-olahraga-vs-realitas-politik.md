@@ -48,7 +48,7 @@ Dalam lanskap geopolitik modern, netralitas sering kali dianggap sebagai keberpi
 
 ### Realitas Politik dalam Skenario Masa Depan
 
-Masa depan Piala Dunia bergeser dari satu negara tuan rumah menjadi kolaborasi antar-negara dan benua. Ini adalah strategi cerdik namun penuh risiko politik.
+Masa depan Piala Dunia bergeser dari satu negara tuan rumah menjadi kolaborasi antarnegara dan antarbenua. Ini adalah strategi cerdik namun penuh risiko politik.
 
 #### 1\. Piala Dunia Multi-Negara (2026 & 2030)
 
@@ -70,7 +70,7 @@ Hanya beberapa hari setelah invasi Rusia ke Ukraina pada Februari 2022, FIFA (be
 **Mengapa ini penting bagi masa depan?**
 
 - **Runtuhnya Mitos Netralitas Total**: Tindakan tegas ini membuktikan bahwa FIFA siap mengambil sikap politik di tengah situasi internasional yang ekstrem.
-- Keputusan ini menciptakan **preseden hukum** yang kuat. Ke depan, publik global akan menuntut keadilan serupa apabila konflik militer terjadi di belahan dunia lain.
+- Keputusan ini menciptakan **preseden** yang kuat. Ke depan, publik global akan menuntut keadilan serupa apabila konflik militer terjadi di belahan dunia lain.
 - **Tekanan Sponsor**: Di balik argumen moral, keputusan penangguhan ini juga didorong oleh keprihatinan komersial. Para sponsor besar enggan merek mereka dikaitkan dengan negara yang tengah melakukan agresi militer.
 
 ### Diplomasi Pragmatis FIFA
@@ -79,8 +79,8 @@ Masa depan Piala Dunia akan ditandai dengan **"Diplomasi Pragmatis"**. FIFA mung
 
 Sepak bola akan tetap menjadi:
 
-- Sepak bola bertindak sebagai **cermin** dari ketegangan politik dunia nyata.
-- Di sisi lain, olahraga ini tetap menjadi **jembatan** unik yang mempertemukan pihak-pihak yang berseberangan untuk saling berjabat tangan di lapangan hijau.
+- **cermin** dari ketegangan politik dunia nyata;
+- **jembatan** unik yang mempertemukan pihak-pihak yang berseberangan untuk saling berjabat tangan di lapangan hijau.
 
 Pada akhirnya, kita dihadapkan pada pilihan mendasar: apakah kita menginginkan sepak bola sebagai ruang hiburan steril yang terputus dari realitas, atau menerimanya sebagai bagian dari kehidupan manusia yang rumit?
 

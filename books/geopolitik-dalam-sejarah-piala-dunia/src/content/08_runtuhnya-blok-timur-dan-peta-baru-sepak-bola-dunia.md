@@ -6,7 +6,7 @@ Runtuhnya Tembok Berlin tidak hanya mengakhiri Perang Dingin secara simbolis, te
 
 ## 1. Penyatuan Jerman
 
-Sebelum 1990, Jerman terbagi menjadi dua entitas: **Jerman Barat (BRD)** yang demokratis dan **Jerman Timur (DDR)** yang sosialis. Jerman Barat adalah raksasa sepak bola dengan tiga gelar juara dunia, sementara Jerman Timur dikenal dengan sistem pelatihan atletnya yang sangat saintifik dan disiplin.
+Sebelum 1990, Jerman terbagi menjadi dua entitas: **Jerman Barat (BRD)** yang demokratis dan **Jerman Timur (DDR)** yang sosialis. Jerman Barat adalah raksasa sepak bola dengan dua gelar juara dunia, sementara Jerman Timur dikenal dengan sistem pelatihan atletnya yang sangat saintifik dan disiplin.
 
 ### Dampak Geopolitik dan Olahraga
 
@@ -40,7 +40,7 @@ $$
 $$
 </div>
 
-Secara teoritis, kekuatan sepak bola di wilayah tersebut menjadi terfragmentasi, membuat masing-masing negara baru harus berjuang dari nol untuk membangun reputasi internasional.
+Secara teoretis, kekuatan sepak bola di wilayah tersebut menjadi terfragmentasi, membuat masing-masing negara baru harus berjuang dari nol untuk membangun reputasi internasional.
 
 ## 3. Pecahnya Yugoslavia
 
@@ -74,7 +74,7 @@ Keberhasilan Jerman menjuarai Piala Dunia 2014 adalah puncak dari proses integra
 
 ### Luka Modrić dan Identitas Nasional
 
-Luka Modrić, kapten Kroasia, adalah seorang pengungsi perang saat kecil akibat pecahnya Yugoslavia. Keberhasilannya membawa Kroasia ke final Piala Dunia 2018 adalah manifestasi dari bagaimana fragmentasi politik menciptakan identitas nasional yang sangat kuat, yang seringkali diterjemahkan menjadi daya juang ekstra di lapangan bola.
+Luka Modrić, kapten Kroasia, adalah seorang pengungsi perang saat kecil akibat pecahnya Yugoslavia. Keberhasilannya membawa Kroasia ke final Piala Dunia 2018 adalah manifestasi dari bagaimana fragmentasi politik menciptakan identitas nasional yang sangat kuat, yang sering kali diterjemahkan menjadi daya juang ekstra di lapangan bola.
 
 ## Dua Pola Pergeseran Politik
 

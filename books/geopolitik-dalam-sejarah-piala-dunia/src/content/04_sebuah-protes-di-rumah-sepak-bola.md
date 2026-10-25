@@ -1,8 +1,8 @@
 ## Boikot Afrika atas Piala Dunia Inggris 1966
 
-Tahun 1966 seharusnya menjadi perayaan besar bagi sepak bola. Inggris, negara yang mengklaim sebagai penemu olahraga ini, menjadi tuan rumah Piala Dunia untuk pertama kalinya. Namun, di balik kemegahan stadion Wembley dan eforia lagu *"World Cup Willie"*, sebuah guncangan geopolitik besar terjadi.
+Tahun 1966 seharusnya menjadi perayaan besar bagi sepak bola. Inggris, negara yang mengklaim sebagai penemu olahraga ini, menjadi tuan rumah Piala Dunia untuk pertama kalinya. Namun, di balik kemegahan Stadion Wembley dan euforia lagu *"World Cup Willie"*, sebuah guncangan geopolitik besar terjadi.
 
-Seluruh benua Afrika memutuskan untuk **melakukan boikot total**. Sebanyak 31 negara Afrika menolak mengirimkan tim mereka sebagai bentuk protes terhadap kebijakan FIFA yang dianggap tidak adil, diskriminatif, dan bersifat neo-kolonial.
+Negara-negara Afrika memutuskan untuk **melakukan boikot total**. Sebanyak 15 negara Afrika yang telah mendaftar menolak mengirimkan tim mereka sebagai bentuk protes terhadap kebijakan FIFA yang dianggap tidak adil, diskriminatif, dan bersifat neokolonial.
 
 > "Sepak bola tanpa keadilan hanyalah perpanjangan dari penindasan." - Prinsip yang mendasari gerakan negara-negara Afrika pada 1966.
 
@@ -51,15 +51,15 @@ Secara praktis, sebuah tim terbaik dari Afrika harus mengalahkan tim-tim terbaik
 
 Bagaimana perasaanmu jika kamu diundang ke sebuah turnamen global, tetapi aturan mainnya dirancang sedemikian rupa sehingga peluangmu untuk masuk ke arena pertandingan hampir nol?
 
-## Neo-kolonialisme di Tubuh FIFA
+## Neokolonialisme di Tubuh FIFA
 
 Tahun 1960-an adalah era dekolonisasi. Banyak negara Afrika baru saja meraih kemerdekaan dari penjajah Eropa (Inggris, Prancis, Belgia). Namun, di dalam organisasi FIFA, mentalitas kolonial masih sangat terasa.
 
-**Neo-kolonialisme** dalam konteks ini merujuk pada upaya negara-negara kuat (Eropa) untuk tetap memegang kendali penuh atas struktur kekuasaan sepak bola dunia, meskipun negara-negara jajahan mereka sudah merdeka secara politik.
+**Neokolonialisme** dalam konteks ini merujuk pada upaya negara-negara kuat (Eropa) untuk tetap memegang kendali penuh atas struktur kekuasaan sepak bola dunia, meskipun negara-negara jajahan mereka sudah merdeka secara politik.
 
-Ada dua alasan utama mengapa kebijakan FIFA dianggap neo-kolonial:
+Ada dua alasan utama mengapa kebijakan FIFA dianggap neokolonial:
 
-1. **Sentralisasi Kekuatan di Eropa.** FIFA beranggapan bahwa kualitas permainan di luar Eropa dan Amerika Selatan belum cukup layak untuk bersaing secara otomatis di putaran final.
+1. **Sentralisasi Kekuatan di Eropa.** FIFA beranggapan bahwa kualitas permainan di luar Eropa dan Amerika Latin belum cukup layak untuk bersaing secara otomatis di putaran final.
 2. **Sikap lembek terhadap Apartheid Afrika Selatan.** Ketika negara-negara Afrika menuntut agar Afrika Selatan dikeluarkan dari keanggotaan karena kebijakan segregasi rasialnya, kepemimpinan Stanley Rous di FIFA malah membelanya.
 
 ## Ohene Djan dan Gerakan Boikot
@@ -70,7 +70,7 @@ Djan mengirimkan telegram protes yang sangat tajam kepada FIFA:
 
 > "Keputusan untuk menggabungkan Afrika dan Asia adalah keputusan yang tidak adil dan bermuatan politik. Afrika menuntut satu jatah otomatis."
 
-Ketika FIFA menolak tuntutan tersebut, Djan menggalang kekuatan melalui **CAF (Confederation of African Football)**. Hasilnya, 31 negara Afrika menyatakan mundur serentak. Piala Dunia 1966 akhirnya berlangsung tanpa satu pun wakil dari benua hitam.
+Ketika FIFA menolak tuntutan tersebut, Djan menggalang kekuatan melalui **CAF (Confederation of African Football)**. Hasilnya, 15 negara Afrika peserta kualifikasi menyatakan mundur serentak. Piala Dunia 1966 akhirnya berlangsung tanpa satu pun wakil dari benua hitam.
 
 ## Dampak dan Transformasi
 
@@ -98,7 +98,7 @@ Pelajaran dari aksi boikot tahun 1966 ini tetap relevan hingga hari ini, melampa
 | --- | --- |
 | **Pemicu Utama** | Penggabungan jatah kualifikasi Afrika, Asia, dan Oseania menjadi hanya 1 slot. |
 | **Tokoh Kunci** | Ohene Djan (Ghana). |
-| **Isu Ideologis** | Perlawanan terhadap neo-kolonialisme dan sistem Apartheid. |
+| **Isu Ideologis** | Perlawanan terhadap neokolonialisme dan sistem Apartheid. |
 | **Hasil Akhir** | Afrika mendapatkan jatah otomatis sejak 1970; pergeseran menuju globalisasi sepak bola. |
 
-**Important:** Boikot 1966 adalah momen ketika sepak bola berhenti menjadi sekadar "klub eksklusif Eropa" dan mulai bertransformasi menjadi olahraga yang benar-benar milik dunia.
+**Penting:** Boikot 1966 adalah momen ketika sepak bola berhenti menjadi sekadar "klub eksklusif Eropa" dan mulai bertransformasi menjadi olahraga yang benar-benar milik dunia.

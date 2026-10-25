@@ -46,7 +46,7 @@ Selama hampir dua dekade (1974-1991), Israel menjadi tim "tunawisma" dalam kuali
 
 ### Tamu yang Tidak Diinginkan
 
-Bayangkan kamu adalah seorang siswa yang ingin bermain basket di lingkungan rumahmu. Namun, semua tetangga mengunci pagar mereka karena tidak menyukaimu. Akhirnya, kamu harus naik bus sejauh 50 kilometer hanya untuk bisa ikut bertanding di liga basket komplek seberang kota yang sama sekali tidak mengenalmu. Itulah posisi Israel di sepak bola dunia saat itu.
+Bayangkan kamu adalah seorang siswa yang ingin bermain basket di lingkungan rumahmu. Namun, semua tetangga mengunci pagar mereka karena tidak menyukaimu. Akhirnya, kamu harus naik bus sejauh 50 kilometer hanya untuk bisa ikut bertanding di liga basket kompleks seberang kota yang sama sekali tidak mengenalmu. Itulah posisi Israel di sepak bola dunia saat itu.
 
 ## 5. Integrasi ke UEFA
 
