@@ -31,7 +31,7 @@ Informasi dari retina dan korteks visual membantu nukleus menentukan kesesuaian 
 
 #### C. Input Somatosensorik (Propriosepsi)
 
-Sensor mekanis pada otot leher, tendon, dan persendian menyampaikan informasi mengenai orientasi kepala terhadap torso tubuh. Jika kepala menengadah namun tubuh tetap tegak, nukleus membedakan kondisi ini dari situasi ketika seluruh tubuh mengalami kemiringan.
+Sensor mekanis pada otot leher, tendon, dan persendian menyampaikan informasi mengenai orientasi kepala terhadap torso tubuh. Jika kepala menengadah tetapi tubuh tetap tegak, nukleus membedakan kondisi ini dari situasi ketika seluruh tubuh mengalami kemiringan.
 
 > [!NOTE]
 > Fenomena ilusi gerak sering terjadi ketika seseorang merasa mobilnya bergerak mundur saat mobil di sebelah bergerak maju di lampu merah. Peristiwa ini merupakan contoh nyata ketika sistem visual sempat mengecoh nukleus vestibularis sebelum sensor vestibular memberikan data koreksi yang akurat.
@@ -74,7 +74,7 @@ Mabuk perjalanan (*motion sickness*) terjadi akibat ketidaksesuaian interpretasi
 
 ### 6. Pemulihan Setelah Lesi Unilateral
 
-Ketika terjadi lesi unilateral pada labirin vestibular (misalnya akibat neuritis vestibularis), terjadi ketidakseimbangan sinyal spontan di mana $\Delta V$ bernilai sangat tinggi meskipun kepala dalam posisi diam, memicu vertigo rotasional berat dan nistagmus spontan.
+Ketika terjadi lesi unilateral pada labirin vestibular (misalnya akibat neuritis vestibularis), terjadi ketidakseimbangan sinyal spontan dengan $\Delta V$ bernilai sangat tinggi meskipun kepala dalam posisi diam, memicu vertigo rotasional berat dan nistagmus spontan.
 
 Dalam beberapa hari hingga pekan, sistem saraf pusat mengaktifkan mekanisme **kompensasi vestibular**:
 

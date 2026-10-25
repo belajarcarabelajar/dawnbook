@@ -1,7 +1,7 @@
 # Summary
 
 - [Pengantar Sistem Vestibular](content/01_pengantar-neurobiologi-sistem-vestibular.md)
-- [Anatomi Makroskopis Labyrinth Tulang dan Membran](content/02_anatomi-makroskopis-labyrinth-tulang-dan-membran.md)
+- [Anatomi Makroskopis Labirin Tulang dan Membran](content/02_anatomi-makroskopis-labyrinth-tulang-dan-membran.md)
 - [Kanalis Semisirkularis Pendeteksi Rotasi](content/03_kanalis-semisirkularis-mekanisme-pendeteksi-rotasi.md)
 - [Organ Otolit Sakulus dan Utrikulus](content/04_organ-otolit-sakulus-dan-utrikulus.md)
 - [Fisiologi Sel Rambut Vestibular dan Transduksi Sinyal](content/05_fisiologi-sel-rambut-vestibular-dan-transduksi-sinyal.md)

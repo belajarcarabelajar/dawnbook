@@ -10,7 +10,7 @@ Di dalam sakulus dan utrikulus terdapat area sensorik khusus yang disebut **maku
 
 Struktur makula terdiri dari tiga komponen utama yang bekerja secara sinergis:
 
-1. **Sel Rambut Vestibular:** Sel-sel reseptor yang memiliki proyeksi rambut halus (stereosilia dan satu kinocilium).
+1. **Sel Rambut Vestibular:** Sel-sel reseptor yang memiliki proyeksi rambut halus (stereosilia dan satu kinosilium).
 2. **Membran Otolitik:** Lapisan gelatinosa kenyal yang menutupi sel rambut.
 3. **Otoconia (Statoconia):** Kristal-kristal kalsium karbonat ($\text{CaCO}_3$) yang bertaburan di atas membran gelatinosa.
 
@@ -52,8 +52,8 @@ Bahkan saat tubuh dalam kondisi diam, organ otolit terus bekerja:
 
 Setiap makula dibagi menjadi dua bagian oleh sebuah garis melengkung yang disebut **striola**. Orientasi sel rambut diatur sedemikian rupa sehingga memiliki "polaritas" yang berlawanan terhadap striola.
 
-- Pada **utrikulus**, kinocilium (rambut terpanjang) berorientasi *menuju* striola.
-- Pada **sakulus**, kinocilium berorientasi *menjauhi* striola.
+- Pada **utrikulus**, kinosilium (rambut terpanjang) berorientasi *menuju* striola.
+- Pada **sakulus**, kinosilium berorientasi *menjauhi* striola.
 
 Susunan ini memastikan bahwa gerakan apa pun akan merangsang beberapa sel rambut sambil menghambat sel rambut lainnya. Pola aktivasi yang kompleks ini memungkinkan otak untuk menafsirkan arah gerakan secara tepat.
 

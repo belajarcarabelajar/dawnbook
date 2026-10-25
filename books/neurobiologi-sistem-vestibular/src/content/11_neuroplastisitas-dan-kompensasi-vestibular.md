@@ -94,7 +94,7 @@ Tidak semua orang pulih dengan kecepatan yang sama. Beberapa faktor kuncinya ada
 - **Aktivitas Fisik:** Semakin aktif bergerak, semakin cepat otak belajar.
 - **Obat-obatan:** Penggunaan obat anti-vertigo (sedatif vestibular) dalam jangka panjang justru dapat **menghambat** kompensasi karena obat tersebut menidurkan sistem saraf pusat yang seharusnya belajar.
 - **Lingkungan:** Lingkungan yang kaya rangsangan visual membantu proses substitusi.
-- **Usia:** Otak yang lebih muda umumnya memiliki tingkat neuroplastisitas yang lebih tinggi, namun lansia masih bisa melakukan kompensasi dengan waktu yang lebih lama.
+- **Usia:** Otak yang lebih muda umumnya memiliki tingkat neuroplastisitas yang lebih tinggi, tetapi lansia masih bisa melakukan kompensasi dengan waktu yang lebih lama.
 
 *Pertanyaan reflektif: Ketika terjadi gangguan keseimbangan, mana yang lebih optimal, beristirahat total atau mencoba melakukan gerakan-gerakan ringan yang terarah? Mengapa?*
 

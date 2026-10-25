@@ -1,6 +1,6 @@
 ## Pengantar Sistem Vestibular
 
-Di antara indra yang kita miliki, ada satu sistem sensorik yang penting namun sering kali terlupakan, yaitu **Sistem Vestibular**. Jika penglihatan memberi tahu kita di mana benda berada, dan pendengaran memberi tahu kita apa yang terjadi di sekitar, maka sistem vestibular memberi tahu kita **di mana posisi kita dalam ruang**.
+Di antara indra yang kita miliki, ada satu sistem sensorik yang penting tetapi sering kali terlupakan, yaitu **Sistem Vestibular**. Jika penglihatan memberi tahu kita di mana benda berada, dan pendengaran memberi tahu kita apa yang terjadi di sekitar, maka sistem vestibular memberi tahu kita **di mana posisi kita dalam ruang**.
 
 Sistem ini bekerja 24 jam sehari, termasuk saat kita tidur, untuk memastikan bahwa kita tidak merasa pusing saat menoleh dan tetap tegak meskipun dunia di sekitar kita bergerak.
 
@@ -8,7 +8,7 @@ Sistem ini bekerja 24 jam sehari, termasuk saat kita tidur, untuk memastikan bah
 
 Sistem vestibular adalah sistem sensorik yang bertanggung jawab untuk memberikan input dominan tentang gerakan dan keseimbangan. Terletak jauh di dalam telinga bagian dalam, sistem ini berfungsi sebagai **giroskop dan akselerometer alami** tubuh manusia.
 
-Bayangkan sebuah *smartphone* modern. Di dalamnya terdapat sensor kecil yang mendeteksi apakah ponsel sedang tegak atau miring (potret atau lanskap). Sistem vestibular melakukan hal yang persis sama untuk otak kita, namun dengan presisi yang jauh lebih tinggi.
+Bayangkan sebuah *smartphone* modern. Di dalamnya terdapat sensor kecil yang mendeteksi apakah ponsel sedang tegak atau miring (potret atau lanskap). Sistem vestibular melakukan hal yang persis sama untuk otak kita, tetapi dengan presisi yang jauh lebih tinggi.
 
 #### Instrumen Navigasi di Kokpit
 
@@ -62,7 +62,7 @@ Tanpa sistem ini, aktivitas sederhana seperti berdiri tegak akan membutuhkan kon
 
 Fenomena merasa masih "terombang-ambing" di daratan setelah menghabiskan waktu seharian di atas kapal merupakan salah satu wujud adaptasi sistem saraf pusat terhadap input vestibular yang terus-menerus berubah.
 
-### Empat Peran Vestibular Sekilas
+### Peran Vestibular Sekilas
 
 | Fungsi | Deskripsi Singkat |
 | --- | --- |
@@ -71,4 +71,4 @@ Fenomena merasa masih "terombang-ambing" di daratan setelah menghabiskan waktu s
 | **Gravitasi** | Memberikan referensi "bawah" yang konstan bagi tubuh. |
 | **Integrasi** | Bekerja sama dengan mata dan otot untuk koordinasi gerakan. |
 
-> **Langkah Selanjutnya:** Setelah memahami gambaran besarnya, bagian berikutnya akan membawa pemelajar ke **Anatomi Makroskopis Labyrinth Tulang dan Membran**, struktur tempat mekanisme ini dimulai.
+> **Langkah Selanjutnya:** Setelah memahami gambaran besarnya, bagian berikutnya akan membawa pemelajar ke **Anatomi Makroskopis Labirin Tulang dan Membran**, struktur tempat mekanisme ini dimulai.

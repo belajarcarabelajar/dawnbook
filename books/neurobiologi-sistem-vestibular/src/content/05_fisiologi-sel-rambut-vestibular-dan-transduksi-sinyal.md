@@ -9,7 +9,7 @@ Dalam bagian ini, kita akan membahas mekanisme tingkat seluler tentang bagaimana
 Sel rambut vestibular memiliki struktur yang sangat terspesialisasi di bagian apikalnya (ujung atas). Karakteristik struktural ini tersusun rapi menyerupai deretan pipa dengan gradasi ketinggian tertentu.
 
 - **Stereosilia:** Berkas aktin kaku yang membentuk rambut sensorik utama. Stereosilia tersusun dalam barisan yang tingginya meningkat secara bertahap.
-- **Kinocilium:** Satu silium terbesar dan tertinggi yang terletak di ujung barisan stereosilia tertinggi. Kinocilium berfungsi sebagai titik referensi morfologis utama untuk polarisasi arah gerakan.
+- **Kinosilium:** Satu silium terbesar dan tertinggi yang terletak di ujung barisan stereosilia tertinggi. Kinosilium berfungsi sebagai titik referensi morfologis utama untuk polarisasi arah gerakan.
 - **Tip Links (Tautan Ujung):** Jembatan filamen protein halus (terutama cadherin-23 dan protocadherin-15) yang menghubungkan ujung satu stereosilia ke sisi stereosilia yang lebih tinggi di sebelahnya. Tautan ini memegang peranan kunci dalam mengontrol gerbang kanal ion.
 
 > **Analogi:** Bayangkan sekelompok orang berdiri berderet dari yang paling pendek hingga yang paling tinggi. Setiap orang memegang tali yang terhubung ke kerah baju orang yang lebih tinggi di sampingnya. Jika orang yang paling tinggi ditarik menjauh, tali tersebut akan menarik kerah baju semua orang di deretan tersebut.
@@ -22,8 +22,8 @@ Proses pengubahan energi mekanik menjadi sinyal listrik disebut **mekanotransduk
 
 Ketika kepala bergerak, inersia cairan di telinga dalam (endolimfe) menggerakkan stereosilia.
 
-- **Eksitasi (Depolarisasi):** Jika stereosilia membengkok **ke arah kinocilium**, *tip links* akan meregang. Peregangan ini secara mekanis menarik terbuka saluran ion sensitif regangan ($\text{MET}$, *mechano-electrical transduction channels*) di ujung stereosilia.
-- **Inhibisi (Hiperpolarisasi):** Jika stereosilia membengkok **menjauhi kinocilium**, *tip links* mengendur, menyebabkan saluran $\text{MET}$ yang biasanya terbuka sebagian pada saat istirahat menjadi tertutup rapat.
+- **Eksitasi (Depolarisasi):** Jika stereosilia membengkok **ke arah kinosilium**, *tip links* akan meregang. Peregangan ini secara mekanis menarik terbuka saluran ion sensitif regangan ($\text{MET}$, *mechano-electrical transduction channels*) di ujung stereosilia.
+- **Inhibisi (Hiperpolarisasi):** Jika stereosilia membengkok **menjauhi kinosilium**, *tip links* mengendur, menyebabkan saluran $\text{MET}$ yang biasanya terbuka sebagian pada saat istirahat menjadi tertutup rapat.
 
 #### Arus Ionik
 
@@ -47,8 +47,8 @@ Masuknya kation ($\text{K}^+$ dan $\text{Ca}^{2+}$) memicu **depolarisasi** memb
 Sistem vestibular bekerja dengan **laju penembakan basal** (*resting firing rate*). Artinya, bahkan saat kepala dalam posisi diam statis, sel rambut secara kontinu melepaskan sejumlah kecil neurotransmiter.
 
 - **Kondisi Istirahat:** Saluran $\text{MET}$ terbuka sekitar $10\text{\%}$ hingga $15\text{\%}$, mempertahankan pelepasan impuls basal yang stabil.
-- **Defleksi ke Arah Kinocilium:** Saluran membuka lebih lebar $\rightarrow$ Influks $\text{K}^+$ meningkat $\rightarrow$ Pelepasan neurotransmiter meningkat $\rightarrow$ Frekuensi impuls saraf **meningkat**.
-- **Defleksi Menjauhi Kinocilium:** Saluran tertutup $\rightarrow$ Arus $\text{K}^+$ terhenti $\rightarrow$ Pelepasan neurotransmiter menurun $\rightarrow$ Frekuensi impuls saraf **menurun**.
+- **Defleksi ke Arah Kinosilium:** Saluran membuka lebih lebar $\rightarrow$ Influks $\text{K}^+$ meningkat $\rightarrow$ Pelepasan neurotransmiter meningkat $\rightarrow$ Frekuensi impuls saraf **meningkat**.
+- **Defleksi Menjauhi Kinosilium:** Saluran tertutup $\rightarrow$ Arus $\text{K}^+$ terhenti $\rightarrow$ Pelepasan neurotransmiter menurun $\rightarrow$ Frekuensi impuls saraf **menurun**.
 
 Mengapa sel rambut mempertahankan aktivitas penembakan basal saat istirahat? Mekanisme ini memungkinkan sistem vestibular melaporkan vektor gerakan dua arah (kiri atau kanan, akselerasi positif atau negatif) hanya melalui modulasi frekuensi penembakan impuls di atas atau di bawah laju basal, menghasilkan sensitivitas sensorik yang jauh lebih tinggi.
 

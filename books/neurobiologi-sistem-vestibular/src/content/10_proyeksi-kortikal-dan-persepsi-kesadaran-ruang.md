@@ -24,7 +24,7 @@ Berbeda dengan sistem penglihatan yang memiliki pusat primer terpusat seperti Ko
 PIVC merupakan area inti (*core region*) dari persepsi vestibular. Terletak di bagian posterior insula dan operkulum parietal, area ini menerima input masif dari talamus.
 
 - **Fungsi:** Mengintegrasikan gerakan kepala dengan persepsi vertikalitas gravitasi (menentukan orientasi tegak lurus sejati terhadap bumi).
-- **Signifikansi Klinis:** Gangguan pada area PIVC (misalnya akibat lesi iskemik atau stroke) dapat menyebabkan ilusi disorientasi parah, di mana penderita merasa lingkungan visual miring.
+- **Signifikansi Klinis:** Gangguan pada area PIVC (misalnya akibat lesi iskemik atau stroke) dapat menyebabkan ilusi disorientasi parah, sehingga penderita merasa lingkungan visual miring.
 
 #### B. Area 2v dan 3a (Korteks Somatosensorik)
 
@@ -73,7 +73,7 @@ Sinyal vestibular memberikan input kinematik kontinu untuk mekanisme integrasi j
 
 #### Disorientasi Spasial pada Penerbangan
 
-Dalam kondisi visibilitas nol (seperti penerbangan instrumen di dalam kabut atau awan tebal), penerbang rentan mengalami ilusi vestibular yang membahayakan (*spatial disorientation*). Tanpa rujukan visual eksternal, gaya inersia manuver pesawat dapat menipu reseptor otolit dan kanalis semisirkularis. Salah satu contoh fatal adalah ilusi putaran kuburan (*The Graveyard Spin*), di mana penerbang merasa pesawat sedang terbang lurus padahal badan pesawat sedang berputar menukik tajam ke arah bumi. Fenomena ini menunjukkan bahwa persepsi kortikal memerlukan verifikasi visual yang konsisten untuk menginterpretasikan medan gravitasi secara akurat.
+Dalam kondisi visibilitas nol (seperti penerbangan instrumen di dalam kabut atau awan tebal), penerbang rentan mengalami ilusi vestibular yang membahayakan (*spatial disorientation*). Tanpa rujukan visual eksternal, gaya inersia manuver pesawat dapat menipu reseptor otolit dan kanalis semisirkularis. Salah satu contoh fatal adalah ilusi putaran kuburan (*The Graveyard Spin*), yaitu penerbang merasa pesawat sedang terbang lurus padahal badan pesawat sedang berputar menukik tajam ke arah bumi. Fenomena ini menunjukkan bahwa persepsi kortikal memerlukan verifikasi visual yang konsisten untuk menginterpretasikan medan gravitasi secara akurat.
 
 #### Virtual Reality (VR) Sickness
 
