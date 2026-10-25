@@ -29,7 +29,7 @@ dan sistem hanya berguna jika \\( T_{\text{lead}} > 0 \\) dengan margin cukup un
 Perang Dunia II mempercepat kebutuhan peringatan dini:
 
 * **1940-an:** Sirene mekanik dan radar awal untuk peringatan serangan udara di Eropa.
-* **1950-an:** Pembentukan WMO 1950 mendorong standarisasi observasi cuaca via radio tiap tiga jam.
+* **1950-an:** Pembentukan WMO 1950 mendorong standardisasi observasi cuaca via radio tiap tiga jam.
 * **1960-an:** Satelit *TIROS-1* 1960 membuka era penginderaan jarak jauh, siklon dapat dipantau sebelum mencapai darat.
 * **1970-an:** Telemetri muka air sungai otomatis di Jepang dan Amerika Serikat via kabel telepon.
 * **1980-an:** Jaringan seismograf global diperluas, waktu deteksi gempa turun menjadi beberapa menit, namun diseminasi masih via radio dan televisi.
@@ -69,7 +69,7 @@ Gempa dan tsunami 26 Desember 2004 di Aceh menjadi titik balik Indonesia. Gelomb
 
 Respons nasional melahirkan **Indonesia Tsunami Early Warning System (InaTEWS)** yang diresmikan 11 November 2008. Arsitekturnya mengejar peringatan pertama paling lambat 5 menit setelah gempa:
 
-* **Seismic network:** lebih dari 160 seismometer broadband ke BMKG Jakarta dalam kurang dari 2 menit.
+* **Seismic network:** lebih dari 160 seismometer broadband yang mengirim data ke BMKG Jakarta dalam kurang dari 2 menit.
 * **Sea level network:** *tide gauge* dan *buoy* untuk validasi gelombang.
 * **Decision Support System (DSS):** pemodelan cepat dengan basis skenario tsunami.
 * **Diseminasi berlapis:** sirene pesisir, *Warning Receiver System* di pemda, SMS blast, TV, radio, dan aplikasi *InfoBMKG*.
@@ -92,13 +92,13 @@ Tren selanjutnya adalah **impact-based forecasting**, bukan hanya *“hujan 100 
 
 | Periode | Tonggak Utama | Ciri Teknologi | Capaian untuk Peringatan |
 | :--- | :--- | :--- | :--- |
-| 1940-1959 | Sirene perang, radar awal, WMO 1950 | Mekanik, analog | Peringatan bunyi, standarisasi cuaca |
+| 1940-1959 | Sirene perang, radar awal, WMO 1950 | Mekanik, analog | Peringatan bunyi, standardisasi cuaca |
 | 1960-1979 | TIROS-1 1960, jaringan seismograf global | Satelit optik, telemetri kabel | Deteksi siklon dari angkasa, monitoring gempa menit-an |
 | 1980-1999 | Telemetri sungai otomatis, Pacific Tsunami Warning Center diperkuat | Sensor elektronik, radio VHF | Peringatan banjir jam-an, koordinasi regional |
 | 2000-2005 | Tsunami Aceh 2004 | Seismometer broadband | Kesadaran global, komitmen HFA 2005 |
 | 2005-2015 | Hyogo Framework, InaTEWS 2008, sirene nasional | Buoy, tide gauge, DSS | Peringatan pertama paling lambat 5 menit untuk tsunami, SOP nasional |
 | 2015-2024 | Sendai Framework 2015-2030, cell broadcast | Satelit GPM, InSAR, IoT, AI | Multi-hazard EWS, impact-based forecasting |
 
-### Apa Artinya Bagi Kamu
+### Apa Artinya bagi Kamu
 
-Sejarah menunjukkan pola berulang. Kentongan gagal jika warga tidak sepakat arti bunyi, sirene gagal jika warga tidak tahu rute evakuasi, dan aplikasi gagal jika baterai habis saat gempa. Ketika kamu mengevaluasi EWS, tanyakan: *apakah risiko sudah dipahami, apakah pesan sampai dalam bahasa yang dimengerti, dan apakah warga sudah berlatih*. Jika ya, teknologi apapun dari kentongan hingga satelit akan memberi kamu waktu untuk selamat.
+Sejarah menunjukkan pola berulang. Kentongan gagal jika warga tidak sepakat arti bunyi, sirene gagal jika warga tidak tahu rute evakuasi, dan aplikasi gagal jika baterai habis saat gempa. Ketika kamu mengevaluasi EWS, tanyakan: *apakah risiko sudah dipahami, apakah pesan sampai dalam bahasa yang dimengerti, dan apakah warga sudah berlatih*. Jika ya, teknologi apa pun dari kentongan hingga satelit akan memberi kamu waktu untuk selamat.

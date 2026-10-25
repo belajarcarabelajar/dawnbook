@@ -12,11 +12,11 @@ Prinsip dasar pengukuran kecepatan gelombang seismik dapat ditulis sebagai
 
 \\[ v = \frac{d}{t} \\]
 
-di mana \\( v \\) adalah kecepatan gelombang, \\( d \\) jarak, dan \\( t \\) waktu tempuh. Dari selisih waktu gelombang P dan S, sistem menghitung lokasi dan kedalaman gempa.
+di mana \\( v \\) adalah kecepatan gelombang, \\( d \\) jarak, dan \\( t \\) waktu tempuh. Dari selisih waktu tiba gelombang P dan S di beberapa stasiun, sistem menghitung lokasi dan kedalaman gempa.
 
 Selain seismometer, jaringan GPS CORS mengukur pergeseran lempeng dalam orde milimeter per tahun. Data ini penting untuk memetakan daerah yang terkunci dan berpotensi menghasilkan gempa besar.
 
-> "Seismometer tidak memprediksi gempa, ia memberi tahu kita bahwa gempa baru saja terjadi dengan sangat cepat sehingga peringatan tsunami masih mungkin dikeluarkan."
+> "Seismometer tidak memprediksi gempa, ia memberi tahu kita dengan sangat cepat bahwa gempa baru saja terjadi sehingga peringatan tsunami masih mungkin dikeluarkan."
 
 ### 2. Sensor Tsunami dan Muka Air Laut
 
@@ -30,14 +30,14 @@ Tsunami dipantau melalui tide gauge di pantai dan buoy DART di laut dalam. Tide 
 | GPS CORS | Deformasi lempeng | Nasional | Menit | Perlu koreksi atmosfer |
 | Tide gauge | Muka air pantai | Pantai | Menit | Terpengaruh pasang surut |
 | Buoy DART | Tekanan dasar laut | Samudra Hindia | Menit | Biaya tinggi, vandalisme |
-| Radar Doppler | Curah hujan | Regional | 5 menit | Jangkauan 250 km |
+| Radar Doppler | Curah hujan | Regional | 10 menit | Jangkauan 250 km |
 | AWS | Suhu, hujan, angin | Lokal | Menit | Perlu perawatan |
 
 ### 3. Radar, Satelit, dan Sensor Hidrometeorologi
 
 Untuk banjir dan cuaca ekstrem, BMKG mengoperasikan radar Doppler C-Band yang memindai awan hujan setiap 10 menit. Data radar dikombinasikan dengan satelit Himawari-8 yang memberi citra awan setiap 10 menit dengan resolusi 500 meter.
 
-Magnitudo hujan dari radar diturunkan melalui hubungan empiris
+Laju hujan dari radar diturunkan melalui hubungan empiris
 
 \\[ Z = a R^{b} \\]
 

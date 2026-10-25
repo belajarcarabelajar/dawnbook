@@ -2,7 +2,7 @@
 
 Bab ini merangkum **_referensi sistem peringatan dini_** yang kamu butuhkan untuk studi, sitasi, dan pengembangan sistem operasional. Semua entri memakai format **APA 7th** dan setiap judul terhubung ke **tautan dalam** berupa DOI atau halaman resmi penerbit/lembaga. Jika kamu menulis skripsi atau laporan teknis, kamu bisa langsung klik tautan untuk verifikasi naskah sumber, bukan sekadar laman beranda. Daftar ini sengaja dikelompokkan agar kamu mudah menelusur kategori regulasi, kerangka global, pedoman UNESCO, dokumen BMKG/BNPB, dan jurnal tentang **InaTEWS**.
 
-> Tips sitasi: untuk regulasi Indonesia tulis tahun penetapan; untuk dokumen UNDRR/WMO/UNESCO cantumkan organisasi sebagai penulis korporat; untuk jurnal IOP/Springer gunakan DOI sebagai URL utama.
+> Tips sitasi: untuk regulasi Indonesia tulis tahun penetapan; untuk dokumen UNDRR/WMO/UNESCO cantumkan organisasi sebagai penulis korporat; untuk artikel jurnal gunakan DOI sebagai URL utama.
 
 ### A. Peraturan dan Kebijakan Nasional
 
