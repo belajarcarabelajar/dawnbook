@@ -8,26 +8,26 @@ Secara visual, awan menjadi indikator utama mengenai dinamika yang terjadi di at
 
 Sebelum mengelompokkan awan, pemelajar perlu memahami hukum dasar yang membentuk struktur tampilan langit:
 
-- **Gerakan Vertikal vs. Horizontal:** Jika udara naik secara merata dan perlahan di area yang luas (kondisi stabil), terbentuklah awan berlapis (*Strati-form*). Sebaliknya, jika udara naik cepat di area yang sempit akibat konveksi (kondisi instabil), terbentuklah awan menggumpal (*Cumuli-form*).
-- **Fase Air:** Awan di ketinggian rendah umumnya terdiri dari tetesan air cair. Pada elevasi lebih tinggi, suhu turun di bawah $0^\circ\text{C}$ sehingga memicu kemunculan kristal es. Kristal es memiliki sifat optik khas yang memberikan tampilan berserat atau kabur pada awan tinggi seperti *Cirrus*.
+- **Gerakan Vertikal vs. Horizontal:** Jika udara naik secara merata dan perlahan di area yang luas (kondisi stabil), terbentuklah awan berlapis (*stratiform*). Sebaliknya, jika udara naik cepat di area yang sempit akibat konveksi (kondisi instabil), terbentuklah awan menggumpal (*cumuliform*).
+- **Fase Air:** Awan di ketinggian rendah umumnya terdiri dari tetesan air cair. Pada elevasi lebih tinggi, suhu turun di bawah $0^\circ\text{C}$ sehingga kristal es dapat mulai terbentuk. Kristal es memiliki sifat optik khas yang memberikan tampilan berserat atau kabur pada awan tinggi seperti *Cirrus*.
 
 > **Wawasan Penting:** Morfologi awan merupakan petunjuk visual kondisi stabilitas atmosfer. Awan *Cumulus* menandakan keberadaan daya angkat (*lift*) konvektif, sedangkan *Stratus* menunjukkan kondisi stagnasi atau keberadaan lapisan udara yang stabil.
 
 ### 2. Sistem Klasifikasi Utama (Luke Howard)
 
-Pada tahun 1802, Luke Howard mengusulkan sistem klasifikasi awan berbasis bahasa Latin yang masih digunakan hingga saat ini. Klasifikasi tersebut didasarkan pada dua faktor utama, yaitu ketinggian (lapisan atmosfer) dan bentuk pertumbuhan awan.
+Pada tahun 1802, Luke Howard mengusulkan sistem klasifikasi awan berbasis bahasa Latin yang masih digunakan hingga saat ini. Klasifikasi tersebut didasarkan pada bentuk pertumbuhan awan, sedangkan pengelompokan menurut ketinggian (lapisan atmosfer) baru ditambahkan kemudian.
 
 #### A. Awan Tinggi (Ketinggian > 6.000 Meter)
 
 Di lingkungan atmosfer yang sangat dingin ($T < -40^\circ\text{C}$), awan hampir seluruhnya terdiri dari kristal es. Proses mikrofisika yang mendominasi kawasan ini adalah nukleasi homogen dan deposisi uap air.
 
-1. ***Cirrus* (Ci):** Berbentuk tipis, putih, dan berserat seperti helai rambut. Karena tersusun atas es, awan ini tidak memiliki batas tegas akibat kristal es yang mudah tertiup angin (proses jalur jatuhan atau *fallstreaks*).
+1. ***Cirrus* (Ci):** Berbentuk tipis, putih, dan berserat seperti helai rambut. Awan ini tidak memiliki batas tegas karena kristal es penyusunnya mudah tertiup angin (proses jalur jatuhan atau *fallstreaks*).
 2. ***Cirrocumulus* (Cc):** Tampak menyerupai sisik ikan atau kerikil kecil, menandakan keberadaan instabilitas ringan di lapisan atmosfer atas.
 3. ***Cirrostratus* (Cs):** Berupa selimut tipis keputihan yang membentang menutupi langit. Awan ini kerap memicu fenomena optik *halo* di sekitar matahari atau bulan akibat pembiasan cahaya matahari oleh kristal es berstruktur heksagonal.
 
 #### B. Awan Menengah (Ketinggian 2.000 – 6.000 Meter)
 
-Awan pada kelompok ini menggunakan awalan *Alto*. Di lapisan ini, sering ditemukan kondisi fasa campuran (*mixed-phase*), yaitu kombinasi tetesan air superdingin (*supercooled water droplets*) dan kristal es.
+Awan pada kelompok ini menggunakan awalan *Alto*. Di lapisan ini, sering ditemukan kondisi fase campuran (*mixed-phase*), yaitu kombinasi tetesan air superdingin (*supercooled water droplets*) dan kristal es.
 
 1. ***Altocumulus* (Ac):** Gumpalan berwarna putih atau abu-abu dengan dimensi lebih besar dibandingkan *Cirrocumulus*. Dari sudut pandang mikrofisika, awan ini menjadi lokasi berlangsungnya tahap awal proses Bergeron.
 2. ***Altostratus* (As):** Lapisan abu-abu atau kebiruan yang menutupi area langit yang luas. Matahari dapat terlihat samar menyerupai piringan terang di balik kaca buram, tetapi tidak memproyeksikan bayangan di permukaan tanah.
@@ -61,7 +61,7 @@ Memiliki kenampakan visual seperti gumpalan kapas dengan basis yang mendatar dan
 Awan ini merupakan tipe awan konvektif raksasa yang menampung seluruh spektrum proses mikrofisika atmosfer.
 
 - **Morfologi:** Membentang dari dekat permukaan bumi hingga mencapai lapisan tropopause (berkisar antara 12–18 km). Puncaknya sering kali memipih dan melebar membentuk landasan (*anvil*) akibat tertahan oleh lapisan inversi stratosfer.
-- **Proses Mikrofisika:** Mekanisme kolisi-koalesensi mendominasi bagian bawah awan (proses hujan hangat), sedangkan proses fase es seperti akresi dan pembentukan *riming* terjadi di bagian atas. Dinamika ini memicu pemisahan muatan listrik yang menghasilkan kilat dan petir.
+- **Proses Mikrofisika:** Mekanisme tabrakan dan penyatuan mendominasi bagian bawah awan (proses hujan hangat), sedangkan proses fase es seperti akresi dan pembentukan *riming* terjadi di bagian atas. Dinamika ini memicu pemisahan muatan listrik yang menghasilkan kilat dan petir.
 
 ### 4. Awan sebagai Adonan Atmosfer
 
@@ -78,22 +78,22 @@ Pemanggangan adonan menggunakan suhu rendah yang merata (kondisi atmosfer stabil
 Pemahaman mengenai morfologi awan memberikan pemetaan kondisi cuaca yang penting bagi berbagai bidang industri:
 
 - **Penerbangan:** Dunia penerbangan sangat menghindari awan *Cumulonimbus* karena arus vertikal (*updraft* dan *downdraft*) ekstrem di dalamnya berisiko merusak struktur pesawat serta memicu akumulasi es (*icing*) pada sayap.
-- **Pertanian:** Kemunculan awan *Cirrostratus* yang disusul oleh *Altostratus* menjadi indikator kedatangan sistem fron hangat yang membawa hujan kontinu dalam jangka waktu 12–24 jam.
+- **Pertanian:** Kemunculan awan *Cirrostratus* yang disusul oleh *Altostratus* menjadi indikator kedatangan sistem front hangat yang membawa hujan kontinu dalam jangka waktu 12–24 jam.
 - **Energi Terbarukan:** Pengelola pembangkit listrik tenaga surya mengidentifikasi penutupan awan *Stratocumulus* guna mengantisipasi penurunan daya listrik akibat albedo awan yang menahan radiasi matahari.
 
 ### 6. Pertanyaan Refleksi
 
 > **Pertanyaan Diskusi:**
-> Ketika mengamati awan dengan puncak yang tampak kabur atau berserat (seperti serat kapas yang terurai), informasi apakah yang dapat disimpulkan mengenai fasa air pada puncak awan tersebut? Mengapa kondisi tersebut menandakan bahwa puncak awan telah berada pada suhu di bawah titik beku?
+> Ketika mengamati awan dengan puncak yang tampak kabur atau berserat (seperti serat kapas yang terurai), informasi apakah yang dapat disimpulkan mengenai fase air pada puncak awan tersebut? Mengapa kondisi tersebut menandakan bahwa puncak awan telah berada pada suhu di bawah titik beku?
 >
 > *(Petunjuk: Cermati perbedaan bentuk optik antara tetesan air cair yang melingkar tegas dan kristal es yang menyerupai serat atau jarum).*
 
 ### Tipe Awan dan Ciri Mikrofisikanya
 
-| Tipe Awan | Klasifikasi Elevasi | Komposisi Fasa | Karakteristik Mikrofisika Utama |
+| Tipe Awan | Klasifikasi Elevasi | Komposisi Fase | Karakteristik Mikrofisika Utama |
 | --- | --- | --- | --- |
-| ***Cirrus*** | Tinggi (> 6 km) | Es | Deposisi uap es dominan, bebas air cair |
-| ***Altocumulus*** | Menengah (2–6 km) | Air & Es | Fasa campuran, lokasi awal proses Bergeron |
+| ***Cirrus*** | Tinggi (> 6 km) | Es | Deposisi uap air dominan, bebas air cair |
+| ***Altocumulus*** | Menengah (2–6 km) | Air & Es | Fase campuran, lokasi awal proses Bergeron |
 | ***Stratus*** | Rendah (< 2 km) | Air Cair | Kondisi stabil, kondensasi difusional tetesan |
 | ***Cumulonimbus*** | Vertikal (0,5–18 km) | Air, Es, Graupel | Konveksi mendalam, pemisahan muatan & presipitasi lebat |
 

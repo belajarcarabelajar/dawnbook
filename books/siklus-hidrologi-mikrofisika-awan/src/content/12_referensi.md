@@ -4,7 +4,7 @@ Albrecht, B. A. (1989). [Aerosols, cloud microphysics, and fractional cloudiness
 
 Badan Meteorologi, Klimatologi, dan Geofisika. (2020). [Jurnal Meteorologi dan Geofisika](https://jmg.bmkg.go.id). BMKG. https://jmg.bmkg.go.id
 
-Beard, K. V., & Ochs, H. T. (1993). [Warm-rain initiation mechanisms](https://doi.org/10.1175/1520-0450(1993)032<1261:WRIM>2.0.CO;2). *Journal of Applied Meteorology and Climatology*, 32(7), 1261–1283. https://doi.org/10.1175/1520-0450(1993)032<1261:WRIM>2.0.CO;2
+Beard, K. V., & Ochs, H. T. (1993). [Warm-rain initiation: An overview of microphysical mechanisms](https://doi.org/10.1175/1520-0450(1993)032<0608:WRIAOO>2.0.CO;2). *Journal of Applied Meteorology*, 32(4), 608–625. https://doi.org/10.1175/1520-0450(1993)032<0608:WRIAOO>2.0.CO;2
 
 Chow, V. T., Maidment, D. R., & Mays, L. W. (1988). [*Applied Hydrology*](https://books.google.com/books?id=0s5RAAAAMAAJ). McGraw-Hill.
 

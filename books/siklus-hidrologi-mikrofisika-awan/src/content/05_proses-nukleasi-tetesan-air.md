@@ -6,7 +6,7 @@ Fenomena ini dipicu oleh **nukleasi**, tahap awal yang utama dalam pembentukan a
 
 ### 1. Apa Itu Nukleasi?
 
-Secara fisika, **nukleasi** merupakan proses transisi fase ketika molekul uap air mulai tersusun secara teratur membentuk kelompok molekul awal yang disebut "embrio" atau inti tetesan cairan yang stabil.
+Secara fisika, **nukleasi** merupakan proses transisi fase ketika molekul uap air mulai tersusun secara teratur membentuk kelompok molekul awal yang disebut "embrio", yang baru menjadi inti tetesan cairan yang stabil bila ukurannya melampaui batas kritis.
 
 Dalam mikrofisika awan, tantangan terbesar pembentukan tetesan air adalah mengatasi **tegangan permukaan**. Molekul air di permukaan tetesan yang melengkung cenderung mudah terlepas kembali menjadi fase uap. Agar suatu tetesan dapat terus tumbuh, ukurannya harus mencapai batas kritis tertentu ketika gaya tarik-menarik antarmolekul di dalam cairan mampu menahan kecenderungan untuk menguap kembali.
 
@@ -37,7 +37,7 @@ Keterangan variabel:
 - $p$: Tekanan uap di atas permukaan lengkung
 - $p_s$: Tekanan uap jenuh di atas permukaan datar
 - $\sigma$: Tegangan permukaan air
-- $M$: Berat molekul air
+- $M$: Massa molar air
 - $\rho$: Massa jenis air
 - $R$: Konstanta gas ideal
 - $T$: Temperatur mutlak ($\text{K}$)
@@ -48,7 +48,7 @@ Sebagai contoh hitungan, ambil air pada suhu $20^\circ\text{C}$ dengan nilai-nil
 | Besaran | Nilai |
 | --- | --- |
 | Tegangan permukaan ($\sigma$) | 0,0728 N/m |
-| Berat molekul air ($M$) | 0,018015 kg/mol |
+| Massa molar air ($M$) | 0,018015 kg/mol |
 | Massa jenis air ($\rho$) | 1.000 kg/m³ |
 | Konstanta gas ideal ($R$) | 8,314 J/(mol·K) |
 | Temperatur ($T$) | 293,15 K |
@@ -76,13 +76,13 @@ Tetesan berjari-jari 1 nm baru stabil bila tekanan uap di sekitarnya hampir tiga
 
 ### 4. Nukleasi Heterogen
 
-Karena nukleasi homogen sangat sulit terjadi, pembentukan awan di alam bertumpu pada **Nukleasi Heterogen**. Pada proses ini, uap air mengembun di atas permukaan partikel padat atau cair yang melayang di udara, yang dikenal sebagai **Aerosol** atau **Inti Kondensasi Awan** (*Cloud Condensation Nuclei* / $\text{CCN}$).
+Karena nukleasi homogen sangat sulit terjadi, pembentukan awan di alam bertumpu pada **Nukleasi Heterogen**. Pada proses ini, uap air mengembun di atas permukaan partikel padat atau cair yang melayang di udara, yang dikenal sebagai **Aerosol**; aerosol yang mampu menjadi tempat pengembunan disebut **Inti Kondensasi Awan** (*Cloud Condensation Nuclei* / $\text{CCN}$).
 
 #### Penyebab Nukleasi Heterogen Lebih Mudah Terjadi
 
 Kehadiran partikel $\text{CCN}$ menurunkan ambang batas energi yang dibutuhkan untuk membentuk tetesan stabil melalui dua cara:
 
-1. **Ukuran Awal Lebih Besar:** Partikel debu atau garam laut sudah memiliki jari-jari awal ($r$) yang cukup besar, sehingga efek penolakan dari Kelvin dapat diminimalkan.
+1. **Ukuran Awal Lebih Besar:** Partikel debu atau garam laut sudah memiliki jari-jari awal ($r$) yang cukup besar, sehingga pengaruh Efek Kelvin dapat diminimalkan.
 2. **Sifat Higroskopis:** Banyak jenis aerosol memiliki afinitas tinggi terhadap air, sehingga secara aktif menarik molekul uap air untuk mengembun di permukaannya.
 
 #### Jenis-Jenis Inti Kondensasi Awan ($\text{CCN}$)
@@ -91,7 +91,7 @@ Kehadiran partikel $\text{CCN}$ menurunkan ambang batas energi yang dibutuhkan u
 - **Senyawa Sulfat:** Berasal dari letusan gunung api maupun hasil pembakaran bahan bakar fosil.
 - **Debu Mineral:** Tertiup oleh angin dari kawasan gurun dan tanah kering.
 
-> **Refleksi:** Apabila atmosfer bumi bersih secara mutlak dari partikel debu dan aerosol, awan dan hujan tidak akan dapat terbentuk pada tingkat kelembapan biasa.
+> **Refleksi:** Apabila atmosfer Bumi bersih secara mutlak dari partikel debu dan aerosol, awan dan hujan tidak akan dapat terbentuk pada tingkat kelembapan biasa.
 
 ### 5. Pertumbuhan Menuju Radius Kritis
 
@@ -118,8 +118,8 @@ Prinsip nukleasi heterogen dimanfaatkan secara langsung dalam teknologi pembenih
 | **Tingkat Kemudahan** | Sangat sulit | Sangat mudah |
 | **Tingkat Lewat Jenuh ($\text{RH}$)** | Sangat tinggi ($>400\text{\%}$) | Sangat rendah ($<1\text{\%}$) |
 | **Lokasi Kejadian** | Kondisi laboratorium / atmosfer atas | Awan di seluruh wilayah Bumi |
-| **Peran Tegangan Permukaan** | Penghambat utama yang dominan | Diminimalisir oleh ukuran partikel inti |
+| **Peran Tegangan Permukaan** | Penghambat utama yang dominan | Diminimalkan oleh ukuran partikel inti |
 
 ### Tahap Awal Terbentuknya Tetesan Awan
 
-Nukleasi merupakan tahap awal perubahan fase air dari gas menjadi cair di atmosfer. Tegangan permukaan bertindak sebagai penghambat alami pada tetesan mikro, namun keberadaan partikel aerosol ($\text{CCN}$) melalui nukleasi heterogen menurunkan hambatan energi tersebut. Hal ini memungkinkan uap air mengembun secara efektif dan membentuk tetesan awan yang menjadi bagian utama dari siklus hidrologi bumi.
+Nukleasi merupakan tahap awal perubahan fase air dari gas menjadi cair di atmosfer. Tegangan permukaan bertindak sebagai penghambat alami pada tetesan mikro, namun keberadaan partikel aerosol ($\text{CCN}$) melalui nukleasi heterogen menurunkan hambatan energi tersebut. Hal ini memungkinkan uap air mengembun secara efektif dan membentuk tetesan awan yang menjadi bagian utama dari siklus hidrologi Bumi.

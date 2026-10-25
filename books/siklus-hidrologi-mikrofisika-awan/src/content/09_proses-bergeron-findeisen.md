@@ -1,10 +1,10 @@
 ## Proses Bergeron-Findeisen
 
-Bagaimana hujan dapat terbentuk di wilayah beriklim dingin saat musim dingin, atau di puncak awan kumulonimbus yang menjulang di khatulistiwa? Di mana suhu berada jauh di bawah titik beku, pembentukan presipitasi tidak hanya bergantung pada mekanisme tumbukan dan penggabungan (*collision-coalescence*) tetes air cair. Pada temperatur subnol, mekanisme dominan yang mendorong pertumbuhan partikel presipitasi adalah pembekuan dan transfer massa uap air yang dikenal sebagai **Proses Bergeron-Findeisen** (atau proses Tor Bergeron dan Walter Findeisen).
+Bagaimana hujan dapat terbentuk di wilayah beriklim dingin saat musim dingin, atau di puncak awan kumulonimbus yang menjulang di khatulistiwa? Di tempat yang suhunya jauh di bawah titik beku, pembentukan presipitasi tidak hanya bergantung pada mekanisme tumbukan dan penggabungan (*collision-coalescence*) tetes air cair. Pada temperatur subnol, mekanisme dominan yang mendorong pertumbuhan partikel presipitasi adalah pembekuan dan transfer massa uap air yang dikenal sebagai **Proses Bergeron-Findeisen** (atau proses Tor Bergeron dan Walter Findeisen).
 
 ### Memahami Kondisi Fase Campuran (*Mixed-Phase*)
 
-Sebelum mendalami mekanisme utama, lingkungan mikro fisika tempat proses ini berlangsung perlu dipahami terlebih dahulu. Di atmosfer, air murni tidak selalu langsung membeku tepat pada temperatur $0^\circ\text{C}$.
+Sebelum mendalami mekanisme utama, lingkungan mikrofisika tempat proses ini berlangsung perlu dipahami terlebih dahulu. Di atmosfer, air murni tidak selalu langsung membeku tepat pada temperatur $0^\circ\text{C}$.
 
 #### Air Superdingin (*Supercooled Water*)
 
@@ -23,7 +23,7 @@ Prinsip dasar yang menggerakkan Proses Bergeron-Findeisen terletak pada perbedaa
 
 #### Prinsip Termodinamika Kesetimbangan
 
-Pada temperatur di bawah titik beku ($T < 0^\circ\text{C}$), molekul air pada fase cair memiliki energi kinetik laten yang membuat molekul lebih mudah melepaskan diri ke fase uap dibandingkan molekul pada kisi kristal es padat. Ikatan hidrogen dalam kisi kristal es berstruktur heksagonal jauh lebih stabil dan mengikat molekul air secara ketat.
+Pada temperatur di bawah titik beku ($T < 0^\circ\text{C}$), molekul air pada fase cair memiliki ikatan antarmolekul yang lebih longgar sehingga molekul lebih mudah melepaskan diri ke fase uap dibandingkan molekul pada kisi kristal es padat. Ikatan hidrogen dalam kisi kristal es berstruktur heksagonal jauh lebih stabil dan mengikat molekul air secara ketat.
 
 Kondisi kesetimbangan termodinamika ini dinyatakan dalam pertidaksamaan:
 
@@ -33,7 +33,7 @@ e_{s(\text{air})} > e_{s(\text{es})}
 $$
 </div>
 
-Dengan kata lain, ketika kondisi parsial uap air di udara berada pada tingkat jenuh terhadap air cair ($RH\_{\text{air}} = 100\text{\%}$), udara tersebut berada pada kondisi lewat jenuh (*supersaturated*) terhadap permukaan kristal es ($RH\_{\text{es}} > 100\text{\%}$).
+Dengan kata lain, ketika tekanan parsial uap air di udara berada pada tingkat jenuh terhadap air cair ($RH\_{\text{air}} = 100\text{\%}$), udara tersebut berada pada kondisi lewat jenuh (*supersaturated*) terhadap permukaan kristal es ($RH\_{\text{es}} > 100\text{\%}$).
 
 > **Analogi Transfer Massa:**
 > Pembaca dapat membayangkan kondisi ini seperti dua tangki yang terhubung oleh saluran uap. Tangki pertama (Tetes Air) melepaskan uap dengan tekanan tinggi karena ikatan molekul yang lebih longgar, sedangkan tangki kedua (Kristal Es) menarik dan mengikat uap dengan kuat. Akibat perbedaan tekanan ini, massa molekul uap berpindah secara terus-menerus dari tangki air menuju tangki es.
@@ -78,9 +78,9 @@ Persamaan tersebut memiliki variabel-variabel termodinamika sebagai berikut:
 - $t$: Waktu ($\text{s}$).
 - $C$: Faktor kapasitas bentuk (*capacitance factor*) yang bergantung pada geometri habit kristal es (misalnya jarum, pelat heksagonal, atau dendrit).
 - $f(T, P)$: Fungsi koefisien termodinamika gabungan dari konduktivitas termal dan difusivitas uap air pada temperatur ($T$) dan tekanan ($P$).
-- $(S\_i - 1)$: Tingkat lewat-jenuh uap air relatif terhadap permukaan es padat, di mana $S\_i = \frac{e}{e\_{s(\text{es})}}$.
+- $(S\_i - 1)$: Tingkat lewat-jenuh uap air relatif terhadap permukaan es padat, dengan $S\_i = \frac{e}{e\_{s(\text{es})}}$.
 
-Karena nilai $(S\_i - 1)$ selalu positif dan signifikan dalam awan fase campuran, pertumbuhan massa kristal es terus berlangsung dengan laju yang lebih tinggi dibandingkan laju pertumbuhan tetes air.
+Karena nilai $(S\_i - 1)$ umumnya positif dan signifikan dalam awan fase campuran, pertumbuhan massa kristal es terus berlangsung dengan laju yang lebih tinggi dibandingkan laju pertumbuhan tetes air.
 
 ### Peran Proses Bergeron-Findeisen dalam Pembentukan Presipitasi
 
@@ -93,7 +93,7 @@ Setelah kristal es bertambah besar melalui deposisi uap hingga mencapai kecepata
 1. **Riming (Pelapisan Es):** Kristal es menabrak dan membekukan tetesan air superdingin secara langsung saat meluncur turun, membentuk *graupel* atau pelet es.
 2. **Agregasi (*Aggregation*):** Kristal-kristal es saling bertabrakan dan melekat satu sama lain membentuk jalinan kepingan salju (*snowflake*).
 
-Ketika kepingan salju atau graupel jatuh melewati garis-lintar pembekuan ($T > 0^\circ\text{C}$) pada atmosfer bagian bawah, partikel padat tersebut mencair sepenuhnya dan berubah menjadi presipitasi berbentuk **hujan cair**.
+Ketika kepingan salju atau graupel jatuh melewati tingkat pembekuan (*freezing level*) ($T > 0^\circ\text{C}$) pada atmosfer bagian bawah, partikel padat tersebut mencair sepenuhnya dan berubah menjadi presipitasi berbentuk **hujan cair**.
 
 ### Penyemaian Awan (*Cloud Seeding*)
 
@@ -112,7 +112,7 @@ Pada kondisi kekeringan atau kebutuhan presipitasi tambahan, lapisan awan dingin
 
 ### Tahapan Fisika Bergeron-Findeisen
 
-| Tahapan | Tetesan Air Superdingin | Kristal Es Padat | Kondisi Kejenuhan Atmosfer | Hasil Akhir Mikro Fisika |
+| Tahapan | Tetesan Air Superdingin | Kristal Es Padat | Kondisi Kejenuhan Atmosfer | Hasil Akhir Mikrofisika |
 | :--- | :--- | :--- | :--- | :--- |
 | **Inisiasi (Awal)** | Konsentrasi tinggi, fase cair superdingin | Konsentrasi sangat rendah | Jenuh terhadap air cair ($RH\_{\text{air}} = 100\text{\%}$) | Kesetimbangan uap belum terganggu |
 | **Transformasi (Proses)** | Mengalami evaporasi mendadak | Mengalami deposisi uap pesat | Lewat-jenuh terhadap es ($RH\_{\text{es}} > 100\text{\%}$) | Transfer massa uap dari cair ke padat |
