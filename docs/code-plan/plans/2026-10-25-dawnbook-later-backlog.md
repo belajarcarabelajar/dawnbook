@@ -87,10 +87,10 @@ Trigger: owner request 2026-10-25 to check the "UNESCO menekankan" line (sistem-
 ## Checklist
 
 - [x] Design gate. Evidence: AskUserQuestion 2026-10-25: `Design` = Approve; `Referensi` = link all 32 + guard; `AI notice` = one line on About page (and README).
-- [ ] G0: guard rules RED on main.
-- [ ] B1: fact fixes in 8 books, one subagent per book (inline for the two one-line books), one commit per book; independent review.
-- [ ] L1: verified links for the 32 citations without one (7 books); no archive.org/details links.
-- [ ] A1: AI-assistance notice on the About page and in the README.
+- [x] G0: guard rules RED on main. Evidence: 4a5947a9, `bun test tests/books/known-misattributions.test.ts tests/books/referensi-presence.test.ts` exit 1 on main content: all seven new rules fire, 32 citation lines without a link; the 23-minute rule also caught state-of-flow 08:13 (owner: fix in this PR).
+- [x] B1: fact fixes in 9 books (8 planned + state-of-flow), one commit per book. Review 1: not correct, 0 P1, 3 P2 (neuroplastisitas ch12 label and ch07 lead-in, stoikisme Ellis/Beck without Referensi) and P3 additions; fixed in de668811..912140bc (stoikisme line restored to main). Verifier: 1 P2 ('jauh lebih sulit'), 1 P3 ('sederhana'), fixed in d8e4b55b.
+- [x] L1: 32 citations linked (publisher, DOI, ERIC, PMC or Library of Congress records); Flourish moved to the LoC record of the 2011 Free Press edition. Records exposed four citation errors in metodologi-microteaching, corrected to the record (Kyriacou 5th ed. 2018, Turney et al. Sydney Micro Skills, Saban & Coklar in TOJET 12(2), duplicate Ambili/Remesh 2013 removed, Remesh title). Aman (2005) has no online record and is marked as cited through Marliana (2017).
+- [x] A1: AI-assistance notice on the About page and in the README (9ead107b), RED then GREEN in `tests/scripts/attribution.test.ts`. Owner follow-up 2026-10-25: the placeholder author name is removed from every tracked file and the README names Iwan Kurniawan as the author of the first books (2046b068); a test keeps the name out (mutation-checked: adding it turns the test red).
 - [ ] G1: guards GREEN; `bun test tests/scripts/ tests/books/` and `bun run build` exit 0.
 - [ ] X1: one PR; merge asked alone; deploy, D1 seed and GSC reindex asked separately.
 
@@ -129,3 +129,9 @@ Fresh run of the guards, the book checks, `bun test tests/scripts/ tests/books/`
 
 ### Task X1
 One PR through `pr-registry open`; merge asked alone with `--match-head-commit`; deploy, D1 seed and GSC reindex asked separately.
+
+## Backlog (LATER)
+
+- `defer: paragraph-style Referensi entries, owner decision` 142 citation paragraphs without a link in 21 books (Referensi chapters that list sources as paragraphs, not list items); the per-item guard checks list items only.
+- `defer: edition details, next Referensi pass` psikologi-positif Dweck (2016) links the Ballantine updated-edition page dated 2007; sistem-pengendalian-topik van Lier (1996) links the 2014 Routledge reissue, Fairclough (2006) and Coulthard & Brazil (1989) keep the years Marliana (2017) cites.
+- `defer: neuroplastisitas chapter 7 epinephrine section, next fact pass` 07:23-25 teaches epinephrine and alertness without a source; not in the audit rows.
