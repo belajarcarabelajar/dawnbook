@@ -39,7 +39,7 @@ Proses dorongan bertindak ini biasanya mengikuti alur tiga tahap:
 Meskipun terlihat abstrak, otak kita sebenarnya melakukan perhitungan kuantitatif dalam setiap pengambilan keputusan. Secara sederhana, dorongan untuk bertindak dapat dirumuskan sebagai berikut:
 
 $$
-V = \frac{R \times p}{1 + D \times t} - C
+V = \frac{R \times p}{1 + k \times D} - C
 $$
 
 Keterangan variabel dalam rumus motivasi biologis:
@@ -50,7 +50,7 @@ Keterangan variabel dalam rumus motivasi biologis:
 | $R$ | **Reward** | Besarnya imbalan yang diharapkan |
 | $p$ | **Probability** | Peluang atau tingkat kemungkinan keberhasilan |
 | $D$ | **Delay** | Jangka waktu penundaan hingga imbalan diterima |
-| $t$ | **Time** | Durasi waktu yang dibutuhkan |
+| $k$ | **Konstanta impulsivitas** | Seberapa tidak sabar kamu menunggu imbalan |
 | $C$ | **Cost** | Usaha, tingkat kesulitan, atau energi yang harus dikeluarkan |
 
 Jika nilai $V$ positif dan cukup tinggi, otak melepaskan neurotransmiter (terutama dopamin) yang mendorong kamu untuk mengambil tindakan.

@@ -22,7 +22,7 @@ Untuk memahami bedanya pengejaran dan rasa nikmat, bayangkan kamu sedang sangat 
 
 > **Insight Utama:** Dopamin mengatur sirkuit *wanting* (menginginkan), sedangkan molekul kimiawi lain seperti opioid endogen mengatur sirkuit *liking* (menyukai).
 
-*Pernahkah kamu merasa sangat bersemangat saat memesan barang secara online, namun ketika paketnya tiba dan dibuka, rasa antusias itu mendadak menguap begitu saja? Itu contoh bahwa dopamin bekerja pada proses antisipasi, bukan pada kepemilikan.*
+*Pernahkah kamu merasa sangat bersemangat saat memesan barang secara online, tetapi ketika paketnya tiba dan dibuka, rasa antusias itu mendadak menguap begitu saja? Itu contoh bahwa dopamin bekerja pada proses antisipasi, bukan pada kepemilikan.*
 
 ---
 
@@ -73,7 +73,7 @@ Sering kali kamu menunda pekerjaan bukan karena tugas itu terlalu sulit, melaink
 **Solusi Praktis:** Pecah tugas besar menjadi langkah-langkah mikro. Setiap kali kamu menyelesaikan satu langkah kecil, otak menerima sinyal kemajuan (*progress signal*) yang melepaskan dopamin dalam jumlah pas, memberikan energi untuk menyelesaikan langkah berikutnya.
 
 ### 3. Olahraga dan Kondisi Aliran (*Flow State*)
-Saat kamu mulai melangkah untuk berolahraga, dopamin dilepaskan sebagai antisipasi terhadap rasa bugar serta pencapaian target. Lonjakan awal ini membantu kamu menembus hambatan awal hingga mencapai *flow state* di mana tindakan terasa mengalir alami.
+Saat kamu mulai melangkah untuk berolahraga, dopamin dilepaskan sebagai antisipasi terhadap rasa bugar serta pencapaian target. Lonjakan awal ini membantu kamu menembus hambatan awal hingga mencapai *flow state* ketika tindakan terasa mengalir alami.
 
 ---
 

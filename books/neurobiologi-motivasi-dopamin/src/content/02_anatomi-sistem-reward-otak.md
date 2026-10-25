@@ -77,9 +77,9 @@ Selain tiga struktur utama di atas, terdapat beberapa komponen pendukung yang me
 
 Mengapa kita sering kali sulit berhenti menggulir media sosial meskipun menyadari ada tugas penting yang harus diselesaikan?
 
-1. **VTA Aktivasi:** VTA mendeteksi potensi imbalan berupa validasi sosial (seperti pemberitahuan *like* atau komentar baru).
-2. **NAc Eksekusi:** Nucleus Accumbens menerima lonjakan dopamin dan menginstruksikan jari kamu untuk terus melakukan gerakan menggulir (*scrolling*).
-3. **PFC Defisit Kontrol:** Prefrontal Cortex mencoba memberi peringatan, namun karena stimulasi dari NAc terjadi secara konstan dan instan, fungsi "rem" dari PFC mengalami kelelahan (*executive fatigue*).
+1. **Aktivasi VTA:** VTA mendeteksi potensi imbalan berupa validasi sosial (seperti pemberitahuan *like* atau komentar baru).
+2. **Eksekusi NAc:** Nucleus Accumbens menerima lonjakan dopamin dan menginstruksikan jari kamu untuk terus melakukan gerakan menggulir (*scrolling*).
+3. **Defisit Kontrol PFC:** Prefrontal Cortex mencoba memberi peringatan, tetapi karena stimulasi dari NAc terjadi secara konstan dan instan, fungsi "rem" dari PFC mengalami kelelahan (*executive fatigue*).
 
 > **Studi Kasus:** Fitur *infinite scroll* pada platform digital dapat menstimulasi VTA secara terus-menerus tanpa memberikan jeda waktu bagi PFC untuk mengambil alih kendali. Dengan memahami anatomi ini, kamu dapat menyadari bahwa kendala fokus bukanlah kelemahan karakter semata, melainkan interaksi neurobiologis antara sirkuit pendorong dan sirkuit pengendali di dalam otak.
 

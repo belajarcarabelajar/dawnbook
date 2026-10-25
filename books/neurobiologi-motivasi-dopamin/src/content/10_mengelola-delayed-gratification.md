@@ -27,7 +27,7 @@ $$
 V = \frac{A}{1 + kD}
 $$
 
-Di mana:
+Keterangan:
 
 - $V$: Nilai subjektif saat ini (seberapa besar kamu menginginkannya sekarang).
 - $A$: Jumlah hadiah sebenarnya (*Amount*).

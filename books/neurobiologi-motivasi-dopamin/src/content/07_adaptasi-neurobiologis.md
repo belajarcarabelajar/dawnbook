@@ -1,6 +1,6 @@
 ## Adaptasi Neurobiologis
 
-Pernahkah kamu bertanya-tanya mengapa potongan pizza pertama terasa nikmat, namun potongan kelima terasa biasa saja? Atau mengapa sebuah video game yang dulu membuat kamu terjaga semalaman, kini hanya membuat kamu merasa lelah dan bosan?
+Pernahkah kamu bertanya-tanya mengapa potongan pizza pertama terasa nikmat, tetapi potongan kelima terasa biasa saja? Atau mengapa sebuah video game yang dulu membuat kamu terjaga semalaman, kini hanya membuat kamu merasa lelah dan bosan?
 
 Penjelasannya ada pada salah satu mekanisme pertahanan otakmu: **Adaptasi Neurobiologis**. Di bagian ini, kita akan membedah bagaimana otak melakukan penyesuaian diri terhadap lonjakan dopamin dan mengapa hal ini menjadi alasan utama di balik hilangnya minat kita pada hal-hal yang dulunya sangat kita sukai.
 

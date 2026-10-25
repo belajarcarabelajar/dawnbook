@@ -1,6 +1,6 @@
 ## Jebakan Kesenangan Instan di Era Digital
 
-Pernahkah kamu berniat membuka ponsel hanya untuk mengecek jam, namun tiba-tiba tersadar 30 menit telah berlalu? Waktu itu habis karena kamu terjebak dalam guliran (*scrolling*) tanpa henti di media sosial. Atau mungkin kamu merasa sangat sulit untuk menolak godaan makanan cepat saji meskipun kamu tidak benar-benar lapar?
+Pernahkah kamu berniat membuka ponsel hanya untuk mengecek jam, tetapi tiba-tiba tersadar 30 menit telah berlalu? Waktu itu habis karena kamu terjebak dalam guliran (*scrolling*) tanpa henti di media sosial. Atau mungkin kamu merasa sangat sulit untuk menolak godaan makanan cepat saji meskipun kamu tidak benar-benar lapar?
 
 Inilah era **Supernormal Stimuli**, masa ketika teknologi dan industri makanan memanfaatkan sirkuit purba di otak kita untuk mendapatkan perhatian dan kesenangan instan secara terus-menerus.
 
@@ -29,7 +29,7 @@ Video game modern, terutama yang bergenre kompetitif atau *mobile games*, menggu
 
 ### Dampak pada Perilaku
 
-Hal ini menciptakan kondisi di mana otak terus-menerus berada dalam fase *wanting* (menginginkan). Di dalam dunia game, $\text{Reward}\_{\text{Actual}}$ sering kali melampaui $\text{Reward}\_{\text{Expected}}$, memicu sirkuit dopamin secara berlebihan dibandingkan dengan pencapaian di dunia nyata yang membutuhkan waktu lama (seperti belajar atau bekerja).
+Hal ini menciptakan kondisi ketika otak terus-menerus berada dalam fase *wanting* (menginginkan). Di dalam dunia game, $\text{Reward}\_{\text{Actual}}$ sering kali melampaui $\text{Reward}\_{\text{Expected}}$, memicu sirkuit dopamin secara berlebihan dibandingkan dengan pencapaian di dunia nyata yang membutuhkan waktu lama (seperti belajar atau bekerja).
 
 ## 3. Makanan Cepat Saji (Hyper-palatable Foods)
 
@@ -56,7 +56,7 @@ V = \frac{A}{1 + kD}
 $$
 </div>
 
-Di mana:
+Keterangan:
 
 - $A$ = Jumlah imbalan (*Amount*)
 - $D$ = Penundaan imbalan (*Delay*)
