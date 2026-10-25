@@ -6,7 +6,7 @@ Dalam bagian ini, kita akan melihat bagaimana Teori Permainan membantu memahami 
 
 ## 1. Persaingan di Pasar Oligopoli
 
-Oligopoli adalah struktur pasar di mana hanya ada sedikit perusahaan yang mendominasi. Karena pemainnya sedikit, setiap tindakan satu perusahaan akan sangat memengaruhi perusahaan lain. Ini adalah bentuk nyata dari **interdependensi strategis**.
+Oligopoli adalah struktur pasar tempat hanya ada sedikit perusahaan yang mendominasi. Karena pemainnya sedikit, setiap tindakan satu perusahaan akan sangat memengaruhi perusahaan lain. Ini adalah bentuk nyata dari **interdependensi strategis**.
 
 Ada dua model klasik dalam Teori Permainan yang menjelaskan perilaku ini:
 
@@ -15,7 +15,7 @@ Ada dua model klasik dalam Teori Permainan yang menjelaskan perilaku ini:
 Bayangkan dua produsen minyak, A dan B. Dalam model ini, mereka bersaing dengan menentukan **berapa banyak (kuantitas) barang** yang akan diproduksi.
 
 - **Logika Permainan:** Jika Perusahaan A memproduksi terlalu banyak, harga pasar akan jatuh, merugikan kedua pihak. Jika mereka memproduksi terlalu sedikit, mereka kehilangan potensi keuntungan.
-- **Hasil:** Keduanya akan mencapai titik keseimbangan di mana masing-masing perusahaan memilih jumlah produksi optimal dengan asumsi jumlah produksi lawan tetap.
+- **Hasil:** Keduanya akan mencapai titik keseimbangan tempat masing-masing perusahaan memilih jumlah produksi optimal dengan asumsi jumlah produksi lawan tetap.
 - **Matematika Sederhana:** Jika total kuantitas adalah $Q = q_1 + q_2$, maka harga $P$ adalah fungsi dari $Q$, yaitu $P(Q)$. Profit masing-masing perusahaan adalah:
 
   $$
@@ -65,7 +65,7 @@ Lelang adalah salah satu aplikasi Teori Permainan, digunakan mulai dari menjual 
 
 ### Fenomena "The Winner's Curse" (Kutukan Pemenang)
 
-Dalam lelang di mana nilai barang tidak pasti (misalnya hak pengeboran minyak), pemenang sering kali adalah orang yang paling melebih-lebihkan nilai barang tersebut. Akibatnya, pemenang lelang sering kali justru menjadi pihak yang merugi karena membayar terlalu mahal.
+Dalam lelang ketika nilai barang tidak pasti (misalnya hak pengeboran minyak), pemenang sering kali adalah orang yang paling melebih-lebihkan nilai barang tersebut. Akibatnya, pemenang lelang sering kali justru menjadi pihak yang merugi karena membayar terlalu mahal.
 
 ## Bagaimana Google Mendapatkan Uang?
 

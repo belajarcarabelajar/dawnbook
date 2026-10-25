@@ -31,13 +31,13 @@ Dalam permainan dua pemain, kita menggunakan tabel (bimatriks). Pemain 1 biasany
 
 ## 2. Bentuk Ekstensif (Extensive Form)
 
-Bentuk Ekstensif menggunakan diagram **Pohon Permainan (Game Tree)**. Representasi ini jauh lebih kuat untuk menggambarkan **permainan sekuensial**, di mana pemain bergerak secara bergantian dan dapat melihat (atau tidak melihat) langkah sebelumnya.
+Bentuk Ekstensif menggunakan diagram **Pohon Permainan (Game Tree)**. Representasi ini jauh lebih kuat untuk menggambarkan **permainan sekuensial**, ketika pemain bergerak secara bergantian dan dapat melihat (atau tidak melihat) langkah sebelumnya.
 
 ### Komponen Utama
 
-- **Simpul (Nodes):** Titik di mana seorang pemain harus membuat keputusan.
+- **Simpul (Nodes):** Titik tempat seorang pemain harus membuat keputusan.
 - **Cabang (Edges/Branches):** Mewakili tindakan atau pilihan yang diambil.
-- **Simpul Terminal (Terminal Nodes):** Titik akhir permainan di mana hasil (payoff) diberikan.
+- **Simpul Terminal (Terminal Nodes):** Titik akhir permainan tempat hasil (payoff) diberikan.
 - **Himpunan Informasi (Information Sets):** Menunjukkan apakah pemain mengetahui posisi mereka saat ini di dalam pohon tersebut.
 
 ### Keunggulan Bentuk Ekstensif
@@ -82,4 +82,4 @@ Bayangkan sebuah skenario bisnis: **Perusahaan A** (Pendatang Baru) memutuskan a
 
 > **Poin Penting:** Meskipun visualisasinya berbeda, tujuan akhirnya sama: memetakan setiap kemungkinan pilihan ke sebuah nilai hasil tertentu sehingga kita dapat memprediksi perilaku manusia atau sistem secara rasional.
 
-**Langkah Selanjutnya:** Setelah memahami bagaimana sebuah permainan "digambar", pada bagian selanjutnya kita akan mempelajari bagaimana pemain memilih strategi terbaik mereka melalui konsep **Strategi Dominan**, di mana kita mulai mencari tahu siapa yang akan menang dan mengapa.
+**Langkah Selanjutnya:** Setelah memahami bagaimana sebuah permainan "digambar", pada bagian selanjutnya kita akan mempelajari bagaimana pemain memilih strategi terbaik mereka melalui konsep **Strategi Dominan**, ketika kita mulai mencari tahu siapa yang akan menang dan mengapa.

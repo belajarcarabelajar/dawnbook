@@ -27,7 +27,7 @@ Salah satu konsep terpenting dalam AGT adalah **Price of Anarchy (PoA)**. Ini ad
 Secara matematis, $\text{PoA}$ didefinisikan sebagai:
 
 $$
-\text{PoA} = \frac{\text{Kesejahteraan Sosial pada Kondisi Terburuk (Equilibrium)}}{\text{Kesejahteraan Sosial Optimal (Ideal)}}
+\text{PoA} = \frac{\text{Kesejahteraan Sosial Optimal (Ideal)}}{\text{Kesejahteraan Sosial pada Ekuilibrium Terburuk}}
 $$
 
 Jika $\text{PoA}$ mendekati 1, maka perilaku individualistis pemain tidak merusak sistem. Jika $\text{PoA}$ besar, maka kita butuh intervensi atau desain mekanisme yang lebih baik.

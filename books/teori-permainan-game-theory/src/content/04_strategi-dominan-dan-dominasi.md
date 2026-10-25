@@ -33,7 +33,7 @@ Tidak semua dominasi diciptakan sama. Dalam teori permainan, kita membedakan ked
 
 #### A. Strategi Dominan Ketat (Strictly Dominant)
 
-Strategi ini **selalu memberikan hasil yang lebih besar** daripada strategi lainnya. Tidak ada satu pun kondisi di mana strategi lain bisa menyamai atau melampaui hasilnya.
+Strategi ini **selalu memberikan hasil yang lebih besar** daripada strategi lainnya. Tidak ada satu pun kondisi ketika strategi lain bisa menyamai atau melampaui hasilnya.
 
 > **Pesan Penting:** Jika seorang pemain yang rasional memiliki strategi dominan ketat, ia **pasti** akan memilihnya.
 

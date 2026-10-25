@@ -6,7 +6,7 @@ Bayangkan sebuah kue di atas meja. Apakah kita hanya bisa memperebutkan potongan
 
 ## 1. Logika Zero-Sum "Keuntunganmu adalah Kerugianku"
 
-**Permainan Zero-Sum** (Jumlah-Nol) adalah situasi kompetisi murni di mana total keuntungan dari seluruh pemain selalu tetap. Dalam skenario ini, setiap keuntungan yang diperoleh oleh satu pemain harus dibayar dengan kerugian yang setara oleh pemain lainnya.
+**Permainan Zero-Sum** (Jumlah-Nol) adalah situasi kompetisi murni ketika total keuntungan dari seluruh pemain selalu tetap. Dalam skenario ini, setiap keuntungan yang diperoleh oleh satu pemain harus dibayar dengan kerugian yang setara oleh pemain lainnya.
 
 ### Karakteristik Utama Permainan Zero-Sum
 
@@ -31,7 +31,7 @@ Bayangkan sebuah kue ulang tahun. Jika kamu mengambil potongan yang lebih besar,
 
 ## 2. Permainan Non-Zero-Sum Membangun Nilai Bersama
 
-**Permainan Non-Zero-Sum** adalah situasi di mana total keuntungan dan kerugian dari para pemain tidak berjumlah konstan. Di sini, interaksi dapat menghasilkan nilai tambah (**Positive-Sum**) atau menghancurkan nilai (**Negative-Sum**).
+**Permainan Non-Zero-Sum** adalah situasi ketika total keuntungan dan kerugian dari para pemain tidak berjumlah konstan. Di sini, interaksi dapat menghasilkan nilai tambah (**Positive-Sum**) atau menghancurkan nilai (**Negative-Sum**).
 
 ### Karakteristik Utama Permainan Non-Zero-Sum
 
@@ -45,8 +45,8 @@ Bayangkan sebuah kue ulang tahun. Jika kamu mengambil potongan yang lebih besar,
 
 ### Jenis-Jenis Non-Zero-Sum
 
-1. **Positive-Sum (Win-Win):** Total hasil meningkat. Contoh: Perdagangan internasional di mana kedua negara mendapatkan barang yang tidak bisa mereka produksi sendiri.
-2. **Negative-Sum (Lose-Lose):** Total hasil menurun. Contoh: Perang nuklir atau perang harga yang ekstrem di mana kedua pihak bangkrut karena biaya konflik melebihi keuntungan yang diperebutkan.
+1. **Positive-Sum (Win-Win):** Total hasil meningkat. Contoh: Perdagangan internasional ketika kedua negara mendapatkan barang yang tidak bisa mereka produksi sendiri.
+2. **Negative-Sum (Lose-Lose):** Total hasil menurun. Contoh: Perang nuklir atau perang harga yang ekstrem ketika kedua pihak bangkrut karena biaya konflik melebihi keuntungan yang diperebutkan.
 
 > **Insight:** Dalam permainan non-zero-sum, strategi yang paling cerdas sering kali melibatkan koordinasi dan kepercayaan, bukan sekadar agresi.
 

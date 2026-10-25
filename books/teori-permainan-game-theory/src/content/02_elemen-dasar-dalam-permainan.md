@@ -26,7 +26,7 @@ Strategi adalah rencana aksi yang **lengkap** dan **menyeluruh**. Ini bukan seka
   - **Aksi:** Langkah spesifik pada satu titik waktu (misal: "Saya memindahkan pion ke e4").
   - **Strategi:** Rencana total (misal: "Jika dia menggerakkan kuda, saya akan memindahkan menteri; jika dia menggerakkan pion, saya akan bertahan").
 
-*Jika kamu bermain catur, mampukah kamu menuliskan strategi yang benar-benar lengkap di atas kertas sebelum permainan dimulai? Secara teoretis bisa, namun secara praktis jumlah kombinasinya lebih banyak daripada atom di alam semesta!*
+*Jika kamu bermain catur, mampukah kamu menuliskan strategi yang benar-benar lengkap di atas kertas sebelum permainan dimulai? Secara teoretis bisa, tetapi secara praktis jumlah kombinasinya lebih banyak daripada atom di alam semesta!*
 
 ### 3. Hasil atau Imbalan (Payoffs)
 

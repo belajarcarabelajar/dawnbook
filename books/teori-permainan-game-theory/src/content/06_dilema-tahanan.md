@@ -32,7 +32,7 @@ Apa pun yang dilakukan Tahanan B, pilihan terbaik bagi Tahanan A adalah **Mengak
 #### Ekuilibrium Nash vs. Optimalitas Pareto
 
 - **Ekuilibrium Nash:** Terjadi pada titik (Mengaku, Mengaku) dengan hasil (5, 5). Tidak ada pemain yang ingin mengubah keputusannya secara sepihak.
-- **Optimalitas Pareto:** Titik (Diam, Diam) dengan hasil (1, 1) termasuk Pareto optimal. Ini adalah hasil yang secara kolektif jauh lebih baik, namun tidak stabil secara strategis karena adanya godaan untuk berkhianat.
+- **Optimalitas Pareto:** Titik (Diam, Diam) dengan hasil (1, 1) termasuk Pareto optimal. Ini adalah hasil yang secara kolektif jauh lebih baik, tetapi tidak stabil secara strategis karena adanya godaan untuk berkhianat.
 
 ### Definisi Matematis
 

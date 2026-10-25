@@ -6,7 +6,7 @@ Dalam situasi ini, satu-satunya cara untuk tidak bisa dikalahkan secara konsiste
 
 ### 1. Mengapa Strategi Murni Terkadang Gagal?
 
-Dalam bab sebelumnya, kita mempelajari **Strategi Murni** (*Pure Strategies*), di mana seorang pemain memilih satu tindakan spesifik dengan kepastian 100%. Namun, dalam banyak permainan kompetitif, terutama yang bersifat *zero-sum* (keuntungan satu pihak adalah kerugian pihak lain), Ekuilibrium Nash dalam strategi murni sering kali tidak ditemukan.
+Dalam bab sebelumnya, kita mempelajari **Strategi Murni** (*Pure Strategies*), ketika seorang pemain memilih satu tindakan spesifik dengan kepastian 100%. Namun, dalam banyak permainan kompetitif, terutama yang bersifat *zero-sum* (keuntungan satu pihak adalah kerugian pihak lain), Ekuilibrium Nash dalam strategi murni sering kali tidak ditemukan.
 
 **Analogi Penjaga Gawang vs. Penendang Penalti**  
 Seorang penendang penalti (*Striker*) bisa menendang ke kiri atau ke kanan. Seorang kiper bisa melompat ke kiri atau ke kanan.
@@ -20,7 +20,7 @@ Tidak ada titik "diam" di sini. Setiap kali satu pemain menetapkan satu pilihan 
 
 ### 2. Definisi Strategi Campuran
 
-**Strategi Campuran** adalah sebuah strategi di mana pemain menetapkan **probabilitas** untuk setiap strategi murni yang tersedia. Bukannya memilih satu aksi secara permanen, pemain "mengocok" pilihan mereka berdasarkan distribusi peluang tertentu.
+**Strategi Campuran** adalah sebuah strategi ketika pemain menetapkan **probabilitas** untuk setiap strategi murni yang tersedia. Bukannya memilih satu aksi secara permanen, pemain "mengocok" pilihan mereka berdasarkan distribusi peluang tertentu.
 
 > **Definisi Formal:** Jika seorang pemain memiliki strategi murni $S_1, S_2, \dots, S_n$, maka strategi campuran adalah vektor probabilitas $P = (p_1, p_2, \dots, p_n)$ sedemikian sehingga:
 >

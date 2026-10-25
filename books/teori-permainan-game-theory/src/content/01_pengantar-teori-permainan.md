@@ -2,7 +2,7 @@
 
 Pernahkah kamu merasa bahwa hidup ini seperti papan catur? Setiap keputusan yang kamu ambil, mulai dari menawar harga di pasar hingga memilih strategi kampanye pemasaran, bergantung pada apa yang akan dilakukan orang lain.
 
-Jika ya, kamu sudah mulai berpikir secara strategis. **Teori Permainan (Game Theory)** adalah kerangka kerja matematis dan logis yang digunakan untuk menganalisis situasi di mana hasil dari tindakan kamu tidak hanya ditentukan oleh pilihan kamu sendiri, melainkan juga oleh pilihan orang lain.
+Jika ya, kamu sudah mulai berpikir secara strategis. **Teori Permainan (Game Theory)** adalah kerangka kerja matematis dan logis yang digunakan untuk menganalisis situasi ketika hasil dari tindakan kamu tidak hanya ditentukan oleh pilihan kamu sendiri, melainkan juga oleh pilihan orang lain.
 
 ## Apa Itu Teori Permainan?
 
@@ -24,7 +24,7 @@ Teori permainan tidak muncul begitu saja. Ia berevolusi dari sekadar rasa ingin 
 
 1. **Awal Mula (1920-an):** Ilmuwan **Emile Borel** mulai mempelajari permainan kartu. Namun, fondasinya baru diletakkan oleh **John von Neumann** pada tahun 1928 melalui pembuktian teorema *minimax*.
 2. **Lahirnya Disiplin Ilmu (1944):** Terbitnya buku *Theory of Games and Economic Behavior* oleh **John von Neumann** dan **Oskar Morgenstern**. Buku ini secara resmi memperkenalkan teori permainan sebagai alat analisis ekonomi.
-3. **Era Nash (1950-an):** **John Nash** (yang kisahnya difilmkan dalam *A Beautiful Mind*) memperluas teori ini melampaui permainan "menang-kalah" murni. Ia memperkenalkan konsep **Ekuilibrium Nash**, yang menjelaskan titik keseimbangan di mana tidak ada pemain yang mau mengubah strateginya secara sepihak.
+3. **Era Nash (1950-an):** **John Nash** (yang kisahnya difilmkan dalam *A Beautiful Mind*) memperluas teori ini melampaui permainan "menang-kalah" murni. Ia memperkenalkan konsep **Ekuilibrium Nash**, yang menjelaskan titik keseimbangan tempat tidak ada pemain yang mau mengubah strateginya secara sepihak.
 4. **Era Modern:** Sejak 1970-an, teori permainan merambah ke biologi evolusioner, ilmu politik, hingga desain algoritma internet dan lelang spektrum frekuensi seluler.
 
 ## Mengapa Teori Permainan Penting?
@@ -38,7 +38,7 @@ Dalam interaksi manusia, "keputusan terbaik" sering kali bersifat relatif. Teori
 - **Desain Sistem:** Digunakan oleh pemerintah untuk merancang sistem lelang atau mekanisme pemungutan suara agar tidak mudah dicurangi.
 - **Rasionalitas Strategis:** Melatih kita untuk tidak hanya memikirkan langkah kita saat ini, tetapi juga langkah lawan di masa depan: berpikir dua atau tiga langkah ke depan.
 
-*Pernahkah kamu berada dalam situasi di mana kamu tahu kerja sama adalah jalan terbaik, tetapi kamu takut dikhianati sehingga kamu memilih untuk egois? Itu adalah dilema klasik dalam teori permainan.*
+*Pernahkah kamu berada dalam situasi ketika kamu tahu kerja sama adalah jalan terbaik, tetapi kamu takut dikhianati sehingga kamu memilih untuk egois? Itu adalah dilema klasik dalam teori permainan.*
 
 ## Perang Harga Supermarket
 

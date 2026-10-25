@@ -2,11 +2,11 @@
 
 Bayangkan kamu sedang bermain catur. Sebelum kamu menggerakkan bidak, kamu tidak hanya memikirkan posisi saat ini, tetapi kamu mencoba membayangkan: *"Jika saya melangkah ke A, lawan akan melangkah ke B. Jika lawan melangkah ke B, saya akan membalas dengan C."*
 
-Inilah inti dari **Permainan Sekuensial**. Berbeda dengan permainan simultan (seperti Batu-Gunting-Kertas) di mana semua orang bergerak bersamaan, dalam permainan sekuensial, urutan waktu dan informasi memegang peran utama.
+Inilah inti dari **Permainan Sekuensial**. Berbeda dengan permainan simultan (seperti Batu-Gunting-Kertas) ketika semua orang bergerak bersamaan, dalam permainan sekuensial, urutan waktu dan informasi memegang peran utama.
 
 ## 1. Apa Itu Permainan Sekuensial?
 
-**Permainan Sekuensial** adalah situasi strategis di mana para pemain melakukan langkah secara bergantian. Pemain yang bergerak belakangan memiliki keuntungan informasi: mereka bisa melihat apa yang dilakukan pemain sebelumnya sebelum menentukan langkah mereka sendiri.
+**Permainan Sekuensial** adalah situasi strategis ketika para pemain melakukan langkah secara bergantian. Pemain yang bergerak belakangan memiliki keuntungan informasi: mereka bisa melihat apa yang dilakukan pemain sebelumnya sebelum menentukan langkah mereka sendiri.
 
 **Karakteristik Utama:**
 
@@ -18,9 +18,9 @@ Inilah inti dari **Permainan Sekuensial**. Berbeda dengan permainan simultan (se
 
 Sebelum kita melakukan analisis, kita harus memahami struktur "peta" permainan ini:
 
-1. **Simpul Keputusan (Decision Nodes):** Titik di mana seorang pemain harus memilih tindakan.
+1. **Simpul Keputusan (Decision Nodes):** Titik tempat seorang pemain harus memilih tindakan.
 2. **Cabang (Branches):** Mewakili pilihan tindakan yang tersedia.
-3. **Simpul Terminal (Terminal Nodes):** Titik akhir permainan di mana hasil ditentukan.
+3. **Simpul Terminal (Terminal Nodes):** Titik akhir permainan tempat hasil ditentukan.
 4. **Hasil (Payoffs):** Angka yang menunjukkan keuntungan/kerugian bagi setiap pemain di akhir jalur tertentu.
 
 ## 3. Induksi Mundur (Backward Induction)
@@ -93,7 +93,7 @@ Namun, melalui induksi mundur, Pendatang (P) tahu bahwa ancaman itu tidak rasion
 
 1. **Negosiasi Gaji:** Calon karyawan memberikan angka pertama (jangkar), perusahaan merespons. Calon karyawan harus memikirkan: *"Jika saya meminta X, apakah mereka akan menolak atau memberikan penawaran kontra Y?"*
 2. **Catur dan Board Games:** Mesin catur seperti Stockfish menggunakan evaluasi jutaan posisi ke depan dan melakukan induksi mundur untuk menemukan langkah terbaik saat ini. Dalam dunia AI, bentuk induksi mundur ini dikenal sebagai algoritma **Minimax**, yang juga dipakai untuk permainan seperti Tic-Tac-Toe.
-3. **Strategi Militer:** Analisis langkah-demi-langkah dalam penyebaran pasukan, di mana reaksi musuh terhadap setiap gerakan harus diantisipasi sebelum perintah pertama diberikan.
+3. **Strategi Militer:** Analisis langkah-demi-langkah dalam penyebaran pasukan, ketika reaksi musuh terhadap setiap gerakan harus diantisipasi sebelum perintah pertama diberikan.
 
 ## 7. Tantangan dan Batasan
 

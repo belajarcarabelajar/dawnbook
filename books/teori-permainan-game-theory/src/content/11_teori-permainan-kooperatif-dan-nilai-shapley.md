@@ -6,13 +6,13 @@ Cabang yang mempelajarinya disebut **Teori Permainan Kooperatif**. Di sini, foku
 
 ## 1. Apa itu Teori Permainan Kooperatif?
 
-Berbeda dengan permainan non-kooperatif (seperti Dilema Tahanan) di mana pemain tidak bisa membuat kesepakatan yang mengikat, dalam **permainan kooperatif**, pemain dapat berkomunikasi, membentuk kelompok yang disebut **koalisi**, dan membuat perjanjian yang berkekuatan hukum atau moral.
+Berbeda dengan permainan non-kooperatif (seperti Dilema Tahanan) ketika pemain tidak bisa membuat kesepakatan yang mengikat, dalam **permainan kooperatif**, pemain dapat berkomunikasi, membentuk kelompok yang disebut **koalisi**, dan membuat perjanjian yang berkekuatan hukum atau moral.
 
 ### Fungsi Karakteristik
 
-Dalam permainan kooperatif, setiap kelompok (koalisi) memiliki nilai tertentu yang bisa mereka capai jika bekerja sama. Ini disebut sebagai **Fungsi Karakteristik**, dilambangkan dengan $v(S)$, di mana $S$ adalah sebuah koalisi.
+Dalam permainan kooperatif, setiap kelompok (koalisi) memiliki nilai tertentu yang bisa mereka capai jika bekerja sama. Ini disebut sebagai **Fungsi Karakteristik**, dilambangkan dengan $v(S)$, dengan $S$ sebagai sebuah koalisi.
 
-- **Koalisi Besar (Grand Coalition):** Situasi di mana semua pemain dalam permainan bergabung menjadi satu kelompok besar.
+- **Koalisi Besar (Grand Coalition):** Situasi ketika semua pemain dalam permainan bergabung menjadi satu kelompok besar.
 - **Nilai Koalisi ($v$):** Jumlah total keuntungan (atau penghematan biaya) yang dihasilkan oleh kelompok tersebut.
 
 > **Analogi Sederhana:** Bayangkan tiga orang teman: Andi, Budi, dan Caca.

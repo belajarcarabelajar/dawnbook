@@ -48,7 +48,7 @@ Ada dua strategi:
 **Analisis Skenario:**
 
 - **Jika $V > C$:** Menjadi Elang selalu menguntungkan. Strategi Elang adalah ESS.
-- **Jika $V < C$:** (Biaya cedera lebih besar dari nilai sumber daya). Menjadi Elang murni bukan lagi ESS, karena jika semua orang jadi Elang, semua orang terluka parah. Populasi akan mencapai keseimbangan di mana ada persentase tertentu Elang dan Merpati.
+- **Jika $V < C$:** (Biaya cedera lebih besar dari nilai sumber daya). Menjadi Elang murni bukan lagi ESS, karena jika semua orang jadi Elang, semua orang terluka parah. Populasi akan mencapai keseimbangan ketika ada persentase tertentu Elang dan Merpati.
 
 ### 4. Dinamika Replikator (Replicator Dynamics)
 
@@ -60,7 +60,7 @@ $$
 \dot{x}_i = x_i [f_i(x) - \phi(x)]
 $$
 
-Di mana:
+Keterangan:
 
 - $f_i(x)$ adalah kebugaran dari strategi $i$.
 - $\phi(x)$ adalah rata-rata kebugaran seluruh populasi.
@@ -128,7 +128,7 @@ Teori Permainan Evolusioner mengajarkan kita bahwa perilaku yang tampak "tidak l
 
 **Hal yang Perlu Diingat:**
 
-- **ESS** adalah kondisi di mana populasi kebal terhadap "serangan" strategi asing.
+- **ESS** adalah kondisi ketika populasi kebal terhadap "serangan" strategi asing.
 - **Kebugaran (Fitness)** adalah mata uang utama, bukan uang atau kepuasan pribadi.
 - **Konflik dan Kerja Sama** adalah hasil dari interaksi berulang selama jutaan tahun yang tertanam dalam mekanisme biologis.
 
