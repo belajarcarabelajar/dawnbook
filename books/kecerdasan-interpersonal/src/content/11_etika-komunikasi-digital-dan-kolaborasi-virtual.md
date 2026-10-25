@@ -2,7 +2,7 @@
 
 Bayangkan kamu sedang berjalan di koridor kantor yang gelap. Kamu tidak bisa melihat ekspresi wajah rekan kerja, tidak bisa mendengar nada suara mereka, dan hanya bisa mengandalkan secarik memo yang mereka selipkan di bawah pintu. Inilah analogi tantangan utama dalam **komunikasi digital**.
 
-Ketika interaksi fisik ditiadakan, sekitar 70% hingga 90% petunjuk komunikasi non-verbal (seperti kerutan dahi, senyuman tipis, bahasa tubuh, hingga intonasi suara) ikut hilang. Di sinilah pentingnya memiliki **Kecerdasan Interpersonal Digital**. Ini adalah kemampuan untuk membangun koneksi, rasa percaya, dan pemahaman yang jernih meskipun dibatasi oleh layar perangkat digital.
+Ketika interaksi fisik ditiadakan, sebagian besar petunjuk komunikasi non-verbal (seperti kerutan dahi, senyuman tipis, bahasa tubuh, hingga intonasi suara) ikut hilang. Di sinilah pentingnya memiliki **Kecerdasan Interpersonal Digital**. Ini adalah kemampuan untuk membangun koneksi, rasa percaya, dan pemahaman yang jernih meskipun dibatasi oleh layar perangkat digital.
 
 ## 1. Memahami Digital Body Language
 
@@ -23,7 +23,7 @@ Setiap platform memiliki norma interaksi yang khas. Menggunakan gaya komunikasi 
 
 ### A. Email untuk Dokumentasi dan Formalitas
 Email adalah pilihan terbaik untuk pemberitahuan formal, pengumuman berkala, atau pesan panjang yang tidak membutuhkan tanggapan instan.
-*   **Gunakan subjek surel yang deskriptif.** Hindari membiarkan kolom subjek kosong. Terapkan penanda yang jelas seperti `[Action Required]`, `[Info]`, atau `[Urgent]` agar penerima bisa memprioritaskan email tersebut.
+*   **Gunakan subjek email yang deskriptif.** Hindari membiarkan kolom subjek kosong. Terapkan penanda yang jelas seperti `[Action Required]`, `[Info]`, atau `[Urgent]` agar penerima bisa memprioritaskan email tersebut.
 *   **Tulis dengan metode piramida terbalik.** Taruh informasi terpenting atau inti dari email di paragraf pertama, baru diikuti penjelasan detail di bawahnya.
 *   **Gunakan CC dan Reply All secara selektif.** Jangan membanjiri kotak masuk rekan kerja dengan menekan *Reply All* jika tanggapan kamu sebenarnya hanya ditujukan kepada pengirim pertama.
 
@@ -43,7 +43,7 @@ Pertemuan video adalah pengganti terbaik untuk interaksi tatap muka langsung ket
 
 ## 3. Menyeimbangkan Komunikasi Sinkron dan Asinkron
 
-Tantangan terbesar yang sering memicu kelelahan mental dalam *remote work* adalah rapat beruntun, atau yang biasa disebut *Zoom Fatigue*. Kunci untuk mengatasinya adalah memahami kapan harus berinteraksi secara langsung dan kapan harus memberikan ruang jeda.
+Tantangan terbesar yang sering memicu kelelahan mental dalam *remote work* adalah rapat beruntun, dan kelelahan yang ditimbulkannya biasa disebut *Zoom Fatigue*. Kunci untuk mengatasinya adalah memahami kapan harus berinteraksi secara langsung dan kapan harus memberikan ruang jeda.
 
 *   **Komunikasi Sinkron (Real-time):** Interaksi langsung melalui panggilan video, telepon, atau obrolan chat intensif. Pendekatan ini ideal untuk sesi *brainstorming*, resolusi konflik yang membutuhkan empati tinggi, atau sesi perkenalan anggota tim baru.
 *   **Komunikasi Asinkron (Delayed):** Komunikasi tidak langsung yang memberi jeda waktu untuk merespons, seperti email, rekaman video penjelasan (misalnya menggunakan Loom), atau dokumen kolaboratif. Ini cocok untuk pembaruan status proyek, pengerjaan teknis mandiri, dan penyampaian informasi yang tidak mendesak.
@@ -82,10 +82,10 @@ Membaca pesan tersebut, Andi langsung merasa tersinggung. Di benaknya, komentar 
 Sebagai seorang *T-Shaped Professional*, yang memadukan keahlian spesifik yang mendalam dengan pemahaman kolaboratif yang luas, kamu dituntut untuk menjadi komunikator yang andal lintas platform digital.
 
 ### Panduan Kolaborasi Teknis
-*   **Melakukan Code Review dengan Empati.** Sampaikan umpan balik dalam bentuk pertanyaan reflektif daripada perintah langsung. Bandingkan kalimat ini: *"Apakah ada kendala jika kita menggunakan fungsi X di bagian ini agar kinerjanya lebih optimal?"* terasa jauh lebih suportif dibanding *"Ganti baris ini dengan fungsi X."*
+*   **Melakukan Code Review dengan Empati.** Sampaikan umpan balik dalam bentuk pertanyaan reflektif daripada perintah langsung. Kalimat *"Apakah ada kendala jika kita menggunakan fungsi X di bagian ini agar kinerjanya lebih optimal?"* terasa jauh lebih suportif dibanding *"Ganti baris ini dengan fungsi X."*
 *   **Menjadikan dokumentasi sebagai sarana komunikasi utama.** Saat bekerja dalam skema *remote work*, dokumentasi berfungsi sebagai *Single Source of Truth*. Pastikan setiap panduan yang kamu tulis dapat dipahami dengan mudah, bahkan oleh rekan kerja non-teknis sekalipun.
 
-### Ceklis Refleksi Komunikasi Digital Harian
+### Daftar Periksa Refleksi Komunikasi Digital Harian
 Sebelum menekan tombol kirim atau menutup hari, luangkan waktu sejenak untuk memikirkan pertanyaan berikut:
 *   Apakah saya sudah meninjau perbedaan zona waktu rekan satu tim agar tidak mengganggu istirahat mereka?
 *   Apakah baris subjek email yang saya tulis sudah menggambarkan isi pesan secara akurat?

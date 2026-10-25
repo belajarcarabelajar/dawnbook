@@ -6,9 +6,9 @@ Dalam profil **T-shaped professional**, kemampuan teknismu adalah garis vertikal
 
 ## 1. Tiga Elemen Pesan
 
-Bayangkan komunikasi sebagai sebuah sinyal radio. Jika pemancar (kamu) mengirimkan sinyal yang lemah atau terganggu oleh *noise*, maka penerima akan mendapatkan pesan yang statis dan tidak jelas.
+Bayangkan komunikasi sebagai sebuah sinyal radio. Jika pemancar (kamu) mengirimkan sinyal yang lemah atau terganggu oleh *noise*, maka penerima akan mendapatkan pesan yang penuh derau dan tidak jelas.
 
-Ketika menyampaikan perasaan atau sikap, Albert Mehrabian merumuskan model 7-38-55 yang membagi pesan ke dalam tiga elemen dasar: kata-kata tertulis atau verbal menyumbang sekitar 7%, aspek vokal seperti nada dan kecepatan bicara memiliki porsi 38%, sedangkan bahasa tubuh dan ekspresi non-verbal mendominasi hingga 55%.
+Dalam penyampaian perasaan atau sikap, Albert Mehrabian merumuskan model 7-38-55 yang membagi pesan ke dalam tiga elemen dasar: kata-kata verbal menyumbang sekitar 7%, aspek vokal seperti nada dan kecepatan bicara memiliki porsi 38%, sedangkan bahasa tubuh dan ekspresi non-verbal mendominasi hingga 55%.
 
 > **Insight Utama:** Jika kata-katamu mengatakan "Saya senang membantu kamu," tetapi wajahmu cemberut dan nada suaramu ketus, orang akan lebih memercayai bahasa tubuhmu daripada kata-katamu. Fenomena ini disebut sebagai **inkongruensi** (*incongruence*).
 
@@ -51,7 +51,7 @@ Beberapa aspek bahasa tubuh berikut bisa kamu latih untuk mendukung pesan verbal
 
 ## 5. Kongruensi Kata, Suara, dan Bahasa Tubuh
 
-Distorsi terjadi ketika ada kesenjangan antara apa yang dikatakan dan apa yang ditampilkan. Untuk menjadi komunikator yang handal, kamu harus mencapai **Kongruensi**.
+Distorsi terjadi ketika ada kesenjangan antara apa yang dikatakan dan apa yang ditampilkan. Untuk menjadi komunikator yang andal, kamu harus mencapai **kongruensi**.
 
 ### Formula Dampak Komunikasi
 

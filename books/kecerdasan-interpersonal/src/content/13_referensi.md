@@ -1,6 +1,6 @@
 ## Referensi
 
-Daftar di bawah ini berisi buku teks utama dan artikel jurnal akademik terakreditasi yang menjadi landasan teoritis buku *Kecerdasan Interpersonal*. Rujukan ini memuat konsep-konsep kunci seperti *multiple intelligences*, *active listening*, *empathy*, resolusi konflik (*conflict resolution*), persuasi, *feedback*, *psychological safety*, kolaborasi virtual (*virtual collaboration*), dan kepemimpinan interpersonal (*interpersonal leadership*).
+Daftar di bawah ini berisi buku teks utama dan artikel jurnal akademik terakreditasi yang menjadi landasan teoretis buku *Kecerdasan Interpersonal*. Rujukan ini memuat konsep-konsep kunci seperti *multiple intelligences*, *active listening*, *empathy*, resolusi konflik (*conflict resolution*), persuasi, *feedback*, *psychological safety*, kolaborasi virtual (*virtual collaboration*), dan kepemimpinan interpersonal (*interpersonal leadership*).
 
 Ashford, S. J., & Tsui, A. S. (1991). Self-regulation for managerial effectiveness: The role of active feedback seeking. *Academy of Management Journal*, *34*(2), 251–280. [https://doi.org/10.2307/256442](https://doi.org/10.2307/256442)
 

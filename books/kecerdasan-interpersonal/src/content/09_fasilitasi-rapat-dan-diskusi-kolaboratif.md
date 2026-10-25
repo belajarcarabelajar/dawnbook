@@ -13,13 +13,13 @@ Sebagai fasilitator, peranmu berpusat pada beberapa aspek berikut:
 - **Netralitas**: Tetap objektif terhadap konten diskusi agar bisa sepenuhnya fokus mengawal alur proses.
 - **Navigasi**: Mengembalikan arah pembicaraan jika mulai melenceng dari agenda utama.
 - **Inklusivitas**: Membuka ruang bagi seluruh peserta rapat untuk menyampaikan pendapat, bukan hanya mereka yang bersuara lantang.
-- Merangkum kesepakatan secara berkala agar tidak ada kesalahpahaman di akhir sesi.
+- **Sintesis**: Merangkum kesepakatan secara berkala agar tidak ada kesalahpahaman di akhir sesi.
 
-> "Fasilitasi berasal dari bahasa Latin *facilis*, yang berarti 'mempermudah'. Tugas kamu adalah memandu proses diskusi agar tim dapat menemukan solusinya sendiri secara kolaboratif."
+> "Fasilitasi berasal dari bahasa Latin *facilis*, yang berarti 'mudah'. Tugas kamu adalah memandu proses diskusi agar tim dapat menemukan solusinya sendiri secara kolaboratif."
 
 ## 2. Fase Persiapan
 
-Sekitar 70% keberhasilan rapat ditentukan sebelum pertemuan dimulai. Datang tanpa persiapan sama saja dengan merencanakan kegagalan.
+Sebagian besar keberhasilan rapat ditentukan sebelum pertemuan dimulai. Datang tanpa persiapan sama saja dengan merencanakan kegagalan.
 
 ### A. Menentukan Tujuan (*The Purpose*)
 
@@ -35,11 +35,11 @@ Jika kebutuhan utama hanya menyampaikan informasi searah, gunakan email atau sal
 
 - Memecahkan kendala rumit yang membutuhkan sumbang saran langsung.
 - Menyusun keputusan taktis atau strategis.
-- Menyelaraskan pemahaman (*alignment*) antar-anggota tim.
+- Menyelaraskan pemahaman (*alignment*) antaranggota tim.
 
 ### B. Agenda yang Berorientasi pada Hasil
 
-Hindari menulis agenda menggunakan kata benda tunggal seperti "Update Proyek". Sebaiknya gunakan kalimat aktif berbasis hasil atau pertanyaan konkret.
+Hindari menulis agenda hanya berupa frasa benda seperti "Update Proyek". Sebaiknya gunakan kalimat aktif berbasis hasil atau pertanyaan konkret.
 
 - *Kurang efektif:* Update Proyek X.
 - *Lebih baik:* Menentukan tiga prioritas utama Proyek X untuk kuartal berikutnya.
@@ -96,7 +96,7 @@ Akhir dari sebuah rapat menentukan eksekusi rencana. Hindari penutupan yang meng
 
 - **Who** (*Siapa*): Siapa yang memegang tanggung jawab atas tindak lanjut?
 - **What** (*Apa*): Tindakan konkret apa yang harus dikerjakan?
-- **When** (*Kapan*): Tenggat waktu penyelesaian tugas tersebut.
+- **When** (*Kapan*): Kapan tenggat waktu penyelesaian tugas tersebut?
 
 **Contoh Rangkuman Hasil Rapat (*Action Items*):**
 
@@ -113,7 +113,7 @@ Akhir dari sebuah rapat menentukan eksekusi rencana. Hindari penutupan yang meng
 
 1. ***Problem Framing***: Sampaikan pembuka yang objektif seperti, *"Tujuan diskusi hari ini adalah mencari keseimbangan antara momentum perilisan, keamanan data, dan kestabilan sistem. Kita fokus pada solusi bersama, bukan mencari siapa yang salah."*
 2. **Visualisasi Masalah**: Gambarkan tabel risiko di papan tulis untuk memetakan dampak dari pilihan *Rilis Besok* versus *Tunda 2 Minggu*.
-3. **Mengeksplorasi Jalan Tengah**: Ajak tim berdiskusi: *"Bagaimana jika kita melakukan soft-launch terbatas untuk 100 pengguna pertama besok guna mengakomodasi pemasaran, selagi IT menuntaskan perbaikan minor bug dan tim Legal memantau kepatuhan data secara manual?"*
+3. **Mengeksplorasi Jalan Tengah**: Ajak tim berdiskusi: *"Bagaimana jika kita melakukan soft-launch terbatas untuk 100 pengguna pertama besok guna mengakomodasi pemasaran, selagi IT menuntaskan perbaikan bug minor dan tim Legal memantau kepatuhan data secara manual?"*
 4. **Konfirmasi Kesepakatan**: Gunakan jajak pendapat *Fist of Five* untuk mengukur apakah setiap perwakilan divisi bisa mendukung solusi alternatif tersebut.
 
 ## 7. Template Agenda Kolaborasi

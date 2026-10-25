@@ -1,8 +1,8 @@
 ## Membangun Kepercayaan dan Keamanan Psikologis
 
-Bayangkan sebuah tim akrobat sirkus yang sedang melakukan atraksi *trapeze* di ketinggian 20 meter. Mengapa mereka berani melompat dan bersalto di udara tanpa ragu? Jawabannya bukan karena mereka tidak takut jatuh, melainkan karena ada jaring pengaman di bawah mereka. Latihan ribuan jam memang penting, tetapi jaring itulah yang memberi mereka keyakinan untuk mencoba gerakan ekstrem. Jika terjatuh, jaring tersebut siap menangkap mereka dari benturan fatal.
+Bayangkan sebuah tim akrobat sirkus yang sedang melakukan atraksi *trapeze* di ketinggian 20 meter. Mengapa mereka berani melompat dan bersalto di udara tanpa ragu? Jawabannya bukan karena mereka tidak takut jatuh, melainkan karena ada jaring pengaman di bawah mereka. Latihan ribuan jam memang penting, tetapi jaring itulah yang memberi mereka keyakinan untuk mencoba gerakan ekstrem. Jika terjatuh, jaring tersebut siap menangkap dan melindungi mereka dari benturan fatal.
 
-Dalam dunia profesional, **Psychological Safety** bertindak sebagai jaring pengaman ini. Ini adalah ruang kerja di mana setiap orang merasa aman mengambil risiko interpersonal (seperti mengakui kesalahan atau mengusulkan ide eksperimental) tanpa takut dipermalukan atau dihukum.
+Dalam dunia profesional, **Psychological Safety** bertindak sebagai jaring pengaman ini. Ini adalah ruang kerja tempat setiap orang merasa aman mengambil risiko interpersonal (seperti mengakui kesalahan atau mengusulkan ide eksperimental) tanpa takut dipermalukan atau dihukum.
 
 ## 1. Trust vs. Psychological Safety
 
@@ -70,7 +70,7 @@ Kurangi tekanan dengan memandang tugas sebagai eksperimen, terutama pada proyek 
 Ketika terjadi kesalahan operasional, arahkan fokus evaluasi pada kelemahan sistem, bukan kesalahan individu.
 
 *   **Pendekatan Kurang Tepat**: "Siapa yang menulis baris kode bermasalah ini?"
-*   **Pendekatan Lebih Baik**: "Langkah apa yang terlewat dalam alur kerja kita sehingga kesalahan pengetikan ini bisa lolos ke tahap produksi?"
+*   **Pendekatan Lebih Baik**: "Langkah apa yang terlewat dalam alur kerja kita sehingga kode bermasalah ini bisa lolos ke tahap produksi?"
 
 ### D. Undang Partisipasi Aktif secara Spesifik
 
@@ -92,7 +92,7 @@ Saat terjadi gangguan sistem akibat peluncuran fitur baru, respons pertama pemim
 
 Menghadapi masalah yang sama, sang manajer memilih mengumpulkan tim dan berdiskusi dengan tenang: *"Mari kita bedah alur tinjauan kode kita agar celah seperti ini bisa kita cegah bersama ke depannya. Apa pelajaran utama yang bisa kita ambil?"*
 
-*   **Dampaknya**: Tim merasa memiliki dukungan penuh. Tanpa diminta, mereka mencari solusi pembenahan secara kolaboratif, bahkan merancang sistem deteksi dini agar masalah serupa tidak terulang kembali.
+*   **Dampaknya**: Tim merasa memiliki dukungan penuh. Tanpa diminta, mereka mencari solusi pembenahan secara kolaboratif, bahkan merancang sistem deteksi dini agar masalah serupa tidak terulang.
 
 ## 5. Mengukur Psychological Safety dalam Tim
 

@@ -6,7 +6,7 @@ Tanpa adanya *feedback*, kita ibarat pilot yang terbang menembus kabut tebal tan
 
 ## 1. Mengapa Feedback Terasa Sulit?
 
-Secara biologis, otak memproses kritik sosial di area yang sama dengan rasa sakit fisik. Itu sebabnya saat seseorang memberi tahu bahwa presentasimu kurang memuaskan, detak jantung langsung meningkat dan telapak tangan berkeringat. Tubuh secara otomatis mengaktifkan respons *fight-or-flight*.
+Secara biologis, otak memproses kritik sosial di area yang sebagian tumpang tindih dengan area rasa sakit fisik. Itu sebabnya saat seseorang memberi tahu bahwa presentasimu kurang memuaskan, detak jantung langsung meningkat dan telapak tangan berkeringat. Tubuh secara otomatis mengaktifkan respons *fight-or-flight*.
 
 Untuk membangun hubungan interpersonal yang sehat di tempat kerja, kamu perlu mengubah sudut pandang. Jika sebelumnya kamu melihat *feedback* sebagai serangan pribadi terhadap harga diri, mulailah melihatnya sebagai data mentah yang membantu proses kalibrasi diri.
 
@@ -59,13 +59,13 @@ Dalam tim rekayasa perangkat lunak, pemberian *feedback* berjalan setiap hari le
 
 ### Menyampaikan Feedback untuk Manajer yang Melakukan *Micromanagement*
 
-* **Feedback**: "Saya sangat menghargai dukunganmu dalam proyek ini (*Care Personally*). Namun, saat kamu meminta laporan perkembangan setiap dua jam sekali (Situation/Behavior), saya merasa kurang memiliki ruang fokus untuk eksekusi tugas. Hal ini justru memperlambat progres pekerjaan saya (*Challenge Directly*)."
+* **Feedback**: "Saya sangat menghargai dukunganmu dalam proyek ini (*Care Personally*). Namun, saat kamu meminta laporan perkembangan setiap dua jam sekali (Situation/Behavior), saya merasa kurang memiliki ruang fokus untuk eksekusi tugas. Hal ini justru memperlambat progres pekerjaan saya (Impact/*Challenge Directly*)."
 
 ## 5. Kaca Spion dan GPS
 
 Bayangkan kamu sedang mengemudikan mobil menuju kota yang baru pertama kali kamu kunjungi (tujuan profesionalmu).
 
-**Menerima feedback** bekerja seperti kaca spion. Kamu tidak akan pernah bisa melihat apa yang ada tepat di belakang atau di area *blind spot* samping mobilmu tanpa bantuan cermin tersebut. Di sini, rekan kerja atau atasan berperan sebagai cerminmu.
+**Menerima feedback** bekerja seperti kaca spion. Kamu tidak akan pernah bisa melihat apa yang ada tepat di belakang mobilmu tanpa bantuan cermin tersebut. Di sini, rekan kerja atau atasan berperan sebagai cerminmu.
 
 Sementara itu, **memberi feedback** menempatkanmu sebagai sistem navigasi GPS. Kamu tidak perlu memarahi pengemudi karena salah mengambil jalur belokan. Tugasmu hanya memberikan panduan baru: *"Di depan, silakan putar balik untuk kembali ke rute tercepat."*
 
@@ -73,7 +73,7 @@ Sementara itu, **memberi feedback** menempatkanmu sebagai sistem navigasi GPS. K
 
 Untuk mengasah keterampilan ini, cobalah terapkan formula "Stop-Start-Continue" pada sesi diskusi satu lawan satu (*one-on-one*) berikutnya bersama rekan kerja:
 
-| Pertanyaan | Tujuan |
+| Kategori | Pertanyaan |
 | --- | --- |
 | **Stop** | "Hal apa yang saya lakukan yang saat ini menghambat efektivitas tim?" |
 | **Start** | "Apa satu hal baru yang perlu saya lakukan agar bisa lebih membantu tim?" |

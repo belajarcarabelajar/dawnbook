@@ -20,7 +20,7 @@ $$
 $$
 </div>
 
-Di sini, **Faktor Integrasi** diwakili oleh kecerdasan interpersonal kamu. Jika faktor ini bernilai nol, maka total kekuatan tim juga akan mendekati nol akibat ego sektoral yang menghambat kerja sama.
+Di sini, **Faktor Integrasi** diwakili oleh kecerdasan interpersonal kamu. Jika faktor ini mendekati nol, maka total kekuatan tim juga akan mendekati nol akibat ego sektoral yang menghambat kerja sama.
 
 ## 2. Mengintegrasikan Spesialis ke dalam Visi Besar
 
@@ -61,8 +61,8 @@ Bagan berikut merangkum ketiga tahap kerangka kerja itu bersama langkah praktis 
 ```mermaid
 flowchart TD
     accTitle: Strategi memimpin inisiatif kolaboratif
-    accDescr: Tiga tahap kerangka kerja, yaitu Kontekstualisasi untuk the why, Orkestrasi untuk the how, dan Sintesis untuk the result, masing-masing dengan langkah praktisnya.
-    A["Tahap konteks (the why)"] --> B["Orkestrasi (the how)"]
+    accDescr: Tiga tahap kerangka kerja, yaitu Konteks untuk the why, Orkestrasi untuk the how, dan Sintesis untuk the result, masing-masing dengan langkah praktisnya.
+    A["Konteks (the why)"] --> B["Orkestrasi (the how)"]
     B --> C["Sintesis (the result)"]
     A -.->|"langkah praktis"| A1["Sesi kick-off tentang masalah siapa yang diselesaikan"]
     B -.->|"langkah praktis"| B1["Round-robin brainstorming"]
@@ -72,7 +72,7 @@ flowchart TD
 **Contoh keputusan hasil sintesis:** jika masukan teknis dari para spesialis tergolong sangat kompleks, sementara visi bisnis menuntut produk diluncurkan cepat, maka:
 
 - **Keputusan:** gunakan pendekatan modular atau MVP (*Minimum Viable Product*), dengan rencana skalabilitas di fase 2.
-- **Komunikasi:** jelaskan kepada tim teknis bahwa ini bukan kompromi kualitas, tetapi langkah strategis untuk masuk pasar.
+- **Komunikasi:** jelaskan kepada tim teknis bahwa ini bukan kompromi kualitas, melainkan langkah strategis untuk masuk pasar.
 
 ## 4. Peluncuran Fitur Baru
 
@@ -83,7 +83,7 @@ Mari kita lihat bagaimana kepemimpinan interpersonal bekerja dalam situasi nyata
 - **Tim:** Satu *AI Engineer* (sangat teknis), satu *UX Designer* (sangat idealis), dan satu *Marketer* (sangat ambisius).
 
 **Kegagalan Kepemimpinan Tradisional:**
-Pemimpin langsung memaksakan tenggat waktu (*deadline*). Hasilnya? *AI Engineer* mengalami stres berat, desainer merasa estetika karyanya diabaikan, dan *marketer* memberikan janji berlebihan kepada calon pengguna yang tidak bisa dipenuhi secara teknis.
+Pemimpin langsung memaksakan tenggat waktu (*deadline*). Hasilnya? *AI Engineer* mengalami stres berat, desainer merasa estetika karyanya diabaikan, dan *marketer* memberikan janji berlebihan yang tidak bisa dipenuhi secara teknis kepada calon pengguna.
 
 **Pendekatan Kepemimpinan Interpersonal T-Shaped:**
 
@@ -96,10 +96,10 @@ Fitur inti berhasil dirilis tepat waktu dengan sistem yang stabil. Hubungan kerj
 
 ## 5. Dari Fondasi hingga Kepemimpinan
 
-Sepanjang modul ini, kita telah belajar bahwa kecerdasan interpersonal lebih dari sebatas pelengkap *soft skill*; ini adalah bagian inti dari perkembangan karier kamu.
+Sepanjang rangkaian modul ini, kita telah belajar bahwa kecerdasan interpersonal lebih dari sebatas pelengkap *soft skill*; ini adalah bagian inti dari perkembangan karier kamu.
 
 - **Mulai dari fondasi:** Kamu sudah menanamkan kesadaran diri yang kuat sejak awal pembelajaran.
-- **Berbekal keterampilan praktis:** Mulai dari mendengarkan aktif, seni persuasi, hingga resolusi konflik yang konstruktif.
+- **Berbekal keterampilan praktis:** Mulai dari mendengar aktif, seni persuasi, hingga resolusi konflik yang konstruktif.
 - **Menciptakan ruang aman:** Kamu juga telah memahami cara membangun rasa aman secara psikologis di dalam tim.
 - **Puncaknya:** Kamu sekarang bisa memadukan seluruh aspek ini untuk memandu orang-orang di sekitarmu secara utuh, tidak lagi sebatas membagi pekerjaan.
 
@@ -107,4 +107,4 @@ Sepanjang modul ini, kita telah belajar bahwa kecerdasan interpersonal lebih dar
 
 Sebagai langkah awal setelah menyelesaikan modul ini, cobalah mengamati satu inisiatif di tempat kerja kamu yang melibatkan lintas departemen. Tentukan satu strategi interpersonal yang akan kamu terapkan langsung untuk menyelaraskan visi mereka mulai besok.
 
-Bab ini menutup seluruh rangkaian pembelajaran Kecerdasan Interpersonal & Komunikasi yang sudah kamu tempuh. Gunakan pemahaman ini untuk mendorong inovasi dan kolaborasi nyata di tempat kerja kamu.
+Bab ini menutup seluruh rangkaian pembelajaran Kecerdasan Interpersonal yang sudah kamu tempuh. Gunakan pemahaman ini untuk mendorong inovasi dan kolaborasi nyata di tempat kerja kamu.
