@@ -4,7 +4,7 @@ Dari model PERMA hingga kekuatan rasa syukur, kamu telah mempelajari berbagai pi
 
 Bagian ini dirancang untuk mengonversi teori menjadi tindakan nyata. Kita akan menelusuri bagaimana prinsip-prinsip ini bekerja di tiga ranah utama kehidupan: tempat kerja, dunia pendidikan, dan kesehatan fisik.
 
-## 1. Positive Psychology di Tempat Kerja
+## 1. Psikologi Positif di Tempat Kerja
 
 Banyak orang menganggap pekerjaan sebagai beban atau sarana mencari nafkah belaka. Namun, psikologi positif menawarkan perspektif berbeda melalui konsep **Job Crafting** dan **Positive Leadership**.
 
@@ -18,7 +18,7 @@ Bayangkan pekerjaanmu seperti tanah liat. Kamu bukan penerima bentuk yang pasif,
 
 ### Budaya Positive Feedback
 
-Sebagai contoh, sebuah perusahaan teknologi menerapkan analisis rasio **Losada**. Hasil riset menunjukkan bahwa tim dengan kinerja unggul memiliki rasio emosi positif terhadap emosi negatif sekitar $5:1$.
+Sebagai contoh, sebuah perusahaan teknologi menerapkan analisis rasio **Losada**. Ada klaim bahwa tim dengan kinerja unggul memiliki rasio emosi positif terhadap emosi negatif sekitar $5:1$, tetapi dasar matematis rasio Losada kemudian dibantah.
 
 > **Insight:** Untuk setiap satu kritik atau evaluasi negatif, berikan setidaknya lima bentuk apresiasi atau pengakuan terhadap keberhasilan kecil tim.
 
@@ -64,7 +64,7 @@ Untuk membiasakan prinsip-prinsip ini dalam keseharianmu, kamu bisa menerapkan "
 
 Sebelum memulai hari atau membuka media sosial, tentukan satu kekuatan karakter yang ingin kamu gunakan sepanjang hari.
 
-> "Hari ini saya akan menerapkan kekuatan **Kedermawanan (Kindness)** saat berinteraksi dalam rapat tim."
+> "Hari ini saya akan menerapkan kekuatan **Kebaikan Hati (Kindness)** saat berinteraksi dalam rapat tim."
 
 ### B. Latihan Three Good Things
 
@@ -81,7 +81,7 @@ Praktikkan teknik ini saat merasa cemas atau tertekan untuk mengaktifkan sistem 
 
 1. Tarik napas perlahan melalui hidung selama **4 detik**.
 2. Tahan napasmu selama **7 detik**.
-3. Hembuskan napas dengan kuat melalui mulut selama **8 detik**.
+3. Embuskan napas dengan kuat melalui mulut selama **8 detik**.
 
 ## Positivity Portals di Masa Krisis
 

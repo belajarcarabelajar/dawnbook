@@ -1,6 +1,6 @@
 ## Referensi
 
-Berikut adalah daftar literatur ilmiah dan buku acuan akademis yang mendasari materi dalam buku ini. Jika kamu ingin mendalami lebih lanjut konsep-konsep Positive Psychology seperti model PERMA, teori Broaden-and-Build, VIA Character Strengths, konsep Flow, Growth Mindset, Resilience, Gratitude, Optimism, positive relationships, serta Meaning in Life, kamu dapat merujuk pada sumber-sumber tepercaya berikut:
+Berikut adalah daftar literatur ilmiah dan buku acuan akademis yang mendasari materi dalam buku ini. Jika kamu ingin mendalami lebih lanjut konsep-konsep Positive Psychology seperti model PERMA, teori Broaden-and-Build, VIA Character Strengths, konsep Flow, Growth Mindset, Resilience, Gratitude, Optimism, Positive Relationships, serta Meaning in Life, kamu dapat merujuk pada sumber-sumber tepercaya berikut:
 
 *   Abuhamdeh, S. (2020). Investigating the “flow” experience: Key conceptual and operational issues. *Frontiers in Psychology*, *11*, 158. <https://doi.org/10.3389/fpsyg.2020.00158>
 *   Carver, C. S., Scheier, M. F., & Segerstrom, S. C. (2010). Optimism. *Clinical Psychology Review*, *30*(7), 879–889. <https://doi.org/10.1016/j.cpr.2010.01.006>

@@ -1,12 +1,12 @@
 ## Makna dan Tujuan Hidup (Meaning in Life)
 
-Pernahkah kamu merasa memiliki segalanya (pekerjaan yang mapan, tubuh yang sehat, dan hiburan yang cukup) namun tetap merasa ada kehampaan di dalam diri? Perasaan ini sering kali muncul karena kita telah membangun kehidupan yang **bahagia**, tetapi belum tentu kehidupan yang **bermakna**.
+Pernahkah kamu merasa memiliki segalanya (pekerjaan yang mapan, tubuh yang sehat, dan hiburan yang cukup) tetapi tetap merasa ada kehampaan di dalam diri? Perasaan ini sering kali muncul karena kita telah membangun kehidupan yang **bahagia**, tetapi belum tentu kehidupan yang **bermakna**.
 
 Dalam bab ini, kita akan menjelajahi salah satu pilar psikologi positif: bagaimana manusia mencari, menemukan, dan memelihara makna dalam hidup, serta mengapa hal ini jauh lebih mendasar bagi kesejahteraan jangka panjang dibandingkan kesenangan sesaat.
 
 ### 1. Perbedaan Antara Kehidupan yang Bahagia dan Bermakna
 
-Banyak orang menggunakan kata "bahagia" dan "bermakna" secara bergantian, namun penelitian oleh Roy Baumeister (2013) menunjukkan perbedaan-perbedaan mendasar di antara keduanya.
+Banyak orang menggunakan kata "bahagia" dan "bermakna" secara bergantian, tetapi penelitian oleh Roy Baumeister (2013) menunjukkan perbedaan-perbedaan mendasar di antara keduanya.
 
 #### Kehidupan yang Bahagia (The Happy Life)
 
@@ -14,7 +14,7 @@ Kebahagiaan sering kali berkaitan dengan **hedonic well-being** (kesejahteraan h
 
 - **Fokus pada diri sendiri:** Apa yang bisa saya dapatkan dari dunia?
 - **Orientasi waktu:** Berfokus pada saat ini (*present-oriented*).
-- **Kondisi:** Berkaitan erat dengan kesehatan fisik yang baik dan kenyamanan finansial.
+- **Kondisi hidup:** Berkaitan erat dengan kesehatan fisik yang baik dan kenyamanan finansial.
 
 #### Kehidupan yang Bermakna (The Meaningful Life)
 
@@ -30,7 +30,7 @@ Sementara itu, makna hidup berkaitan erat dengan **eudaimonic well-being** (kese
 
 Para psikolog umumnya membagi makna hidup ke dalam tiga komponen utama yang dapat diukur secara ilmiah:
 
-1. **Coherence (Koherensi):** Sejauh mana kamu merasa hidupmu memiliki alur yang masuk akal. Kemampuan ini membantumu melihat benang merah dari setiap peristiwa, termasuk kegagalan maupun keberhasilan yang pernah dialami.
+1. **Coherence (Koherensi):** Sejauh mana kamu merasa hidupmu memiliki alur yang masuk akal. Kemampuan ini membantumu melihat benang merah dari setiap peristiwa, termasuk kegagalan dan keberhasilan yang pernah dialami.
 2. **Purpose (Tujuan):** Adanya misi atau sasaran jangka panjang yang memberikan arah jelas bagi tindakan sehari-hari.
 3. **Significance (Keberartian):** Perasaan bahwa keberadaanmu berharga dan memberikan kontribusi nyata bagi dunia di sekitarmu.
 
@@ -52,12 +52,12 @@ Transendensi diri merupakan kondisi saat perhatian kita teralihkan dari ego prib
 
 #### Menemukan Ikigai
 
-Salah satu metode visual yang membantu untuk memetakan tujuan hidup adalah konsep Jepang yang dikenal sebagai **Ikigai** (alasan untuk bangun di pagi hari). Cobalah renungkan dan jawab empat pertanyaan dasar berikut:
+Salah satu metode visual yang membantu untuk memetakan tujuan hidup adalah diagram yang memakai nama konsep Jepang **Ikigai** (alasan untuk bangun di pagi hari). Cobalah renungkan dan jawab empat pertanyaan dasar berikut:
 
-1. Apa hal yang benar-benar kamu **cintai**? (*Passion*)
-2. Bidang apa saja yang paling kamu **kuasai**? (*Vocation*)
-3. Kontribusi apa yang sedang **dunia butuhkan** saat ini? (*Mission*)
-4. Keahlian apa yang bisa membuatmu **mendapatkan penghasilan**? (*Profession*)
+1. Apa hal yang benar-benar kamu **cintai**?
+2. Bidang apa saja yang paling kamu **kuasai**?
+3. Kontribusi apa yang sedang **dunia butuhkan** saat ini?
+4. Keahlian apa yang bisa membuatmu **mendapatkan penghasilan**?
 
 *Titik temu dari keempat aspek ini adalah Ikigaimu.*
 

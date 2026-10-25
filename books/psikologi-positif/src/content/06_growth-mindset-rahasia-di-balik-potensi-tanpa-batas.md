@@ -42,13 +42,13 @@ Ketika kamu berlatih, "jembatan" antarneuron (sinapsis) menjadi lebih kuat dan l
 
 Bayangkan dampaknya: ketika kamu berkata, "Aku tidak bisa matematika," kamu sedang menutup kemungkinan untuk berkembang. Namun, saat kamu berkata, "Aku belum bisa," kamu membiarkan kemungkinan itu terbuka.
 
-### Dampak Terhadap Ketahanan (Resilience)
+### Dampak terhadap Ketahanan (Resilience)
 
 Resiliensi adalah kemampuan untuk bangkit kembali dari kesulitan. *Growth mindset* merupakan bahan bakar utama dari kemampuan ini.
 
 Dalam *fixed mindset*, kegagalan berubah menjadi label identitas. Pernyataan "Aku gagal dalam ujian" dengan cepat bergeser menjadi "Aku adalah produk gagal." Hal ini sering kali memicu kelumpuhan emosional.
 
-Dalam *growth mindset*, kegagalan hanyalah sebuah peristiwa sementara. Pikiran mereka akan langsung mengevaluasi tindakan mereka (*"Apa yang salah dengan strategiku?"*) dan segera beradaptasi (*"Bagaimana aku bisa memperbaikinya besok?"*).
+Dalam *growth mindset*, kegagalan hanyalah sebuah peristiwa sementara. Orang dengan pola pikir ini akan langsung mengevaluasi tindakannya (*"Apa yang salah dengan strategiku?"*) dan segera beradaptasi (*"Bagaimana aku bisa memperbaikinya besok?"*).
 
 > **Pesan Penting:** Kegagalan bukanlah ukuran dari harga dirimu; itu hanyalah umpan balik atas metode yang kamu gunakan saat ini.
 
@@ -59,7 +59,7 @@ Dalam *growth mindset*, kegagalan hanyalah sebuah peristiwa sementara. Pikiran m
 **Situasi:** Andi dan Budi diberikan proyek baru yang sangat sulit dan menggunakan teknologi yang belum pernah mereka pelajari.
 
 - **Andi (Fixed Mindset):** Merasa cemas. Ia takut jika proyek ini gagal, atasan akan menganggapnya tidak kompeten. Ia cenderung mengerjakan bagian yang ia kuasai saja dan menunda bagian yang sulit.
-- **Budi (Growth Mindset):** Merasa tertantang. Ia sadar ia belum tahu teknologinya, maka ia segera mencari kursus daring dan bertanya pada rekan senior. Ia melihat proyek ini sebagai cara tercepat untuk mendapatkan promosi di masa depan.
+- **Budi (Growth Mindset):** Merasa tertantang. Ia sadar ia belum tahu teknologinya, maka ia segera mencari kursus daring dan bertanya kepada rekan senior. Ia melihat proyek ini sebagai kesempatan untuk belajar dan mengasah keterampilan baru.
 
 #### Kekuatan Kata "Belum"
 
@@ -76,6 +76,6 @@ Mengubah pola pikir tidak terjadi dalam semalam. Berikut adalah langkah-langkah 
 2. **Biasakan Menyisipkan Kata "Belum":** Saat merasa gagal dalam suatu hal, ubah cara bicaramu pada diri sendiri. Alih-alih mengeluh, *"Aku tidak bisa mempresentasikan ide di depan umum,"* katakanlah, *"Aku **belum** mahir berpresentasi di depan umum."* Penambahan kata kecil ini membuka ruang untuk belajar.
 3. **Apresiasi Proses, Bukan Hanya Hasil Akhir:** Latih dirimu untuk menghargai usaha dan strategi yang diambil. Saat memuji diri sendiri atau orang lain, jangan hanya fokus pada label kecerdasan seperti, *"Wah, kamu memang jenius!"* Sebaliknya, soroti usahanya: *"Hasil ini luar biasa karena kamu sudah mencoba berbagai pendekatan kreatif untuk menyelesaikannya."*
 4. **Sambut Kritik Konstruktif dengan Terbuka:** Pandanglah masukan dari orang lain sebagai data gratis yang membantumu berkembang lebih cepat, bukan sebagai serangan pribadi.
-5. **Beranilah Membuat Kesalahan yang Bernilai:** Kesalahan yang bernilai lahir dari keberanian mencoba sesuatu yang baru and menantang, bukan dari kecerobohan yang berulang.
+5. **Beranilah Membuat Kesalahan yang Bernilai:** Kesalahan yang bernilai lahir dari keberanian mencoba sesuatu yang baru dan menantang, bukan dari kecerobohan yang berulang.
 
 *Refleksi untukmu: Di area kehidupan mana kamu paling sering merasa memiliki Fixed Mindset? Apakah dalam karier, olahraga, hubungan, atau kreativitas? Apa satu langkah kecil yang bisa kamu lakukan hari ini untuk menerapkan kata "Belum" di area tersebut?*

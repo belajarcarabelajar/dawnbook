@@ -1,4 +1,4 @@
-## Resiliensi dan Pertumbuhan Pasca Trauma
+## Resiliensi dan Pertumbuhan Pascatrauma
 
 Kehidupan tidak selalu berjalan mulus. Kadang-kadang, datang masalah berat yang membuat diri terasa goyah. Psikologi Positif memandang krisis ini dari sudut pandang yang berbeda. Alih-alih hanya berfokus pada upaya bertahan hidup, kita didorong untuk memanfaatkan tekanan tersebut agar bisa bertransformasi menjadi pribadi yang lebih tangguh dan bijaksana.
 
@@ -20,7 +20,7 @@ Beberapa faktor kunci yang membentuk resiliensi seseorang antara lain:
 - **Kemampuan regulasi emosi** agar tetap tenang dan tidak lekas panik di bawah tekanan.
 - **Optimisme realistis**, yaitu memandang masalah sebagai tantangan sementara yang spesifik, alih-alih beban permanen yang merusak seluruh aspek hidup.
 
-### 2. Pertumbuhan Pasca Trauma (Post-Traumatic Growth/PTG)
+### 2. Pertumbuhan Pascatrauma (Post-Traumatic Growth/PTG)
 
 Jika resiliensi berfokus pada pemulihan kembali ke kondisi awal, maka **Post-Traumatic Growth (PTG)** melangkah lebih jauh. Konsep ini menggambarkan perubahan psikologis positif yang dialami seseorang setelah berjuang melewati krisis hidup yang berat.
 
@@ -28,7 +28,7 @@ Jika resiliensi berfokus pada pemulihan kembali ke kondisi awal, maka **Post-Tra
 
 #### Lima Domain Pertumbuhan (Tedeschi & Calhoun)
 
-Penelitian oleh Tedeschi dan Calhoun menunjukkan ada lima area utama di mana seseorang sering kali mengalami pertumbuhan setelah melewati krisis:
+Penelitian oleh Tedeschi dan Calhoun menunjukkan ada lima area utama tempat seseorang sering kali mengalami pertumbuhan setelah melewati krisis:
 - **Apresiasi hidup yang lebih mendalam**: Prioritas bergeser, dan hal-hal sederhana yang dulu terabaikan kini terasa berharga.
 - **Hubungan sosial yang lebih erat**: Muncul rasa empati yang lebih kuat terhadap sesama yang juga sedang terluka, serta kedekatan emosional yang lebih intim dengan orang tercinta.
 - **Menyadari kekuatan diri sendiri**: Timbul keyakinan baru bahwa 'jika saya sanggup melewati krisis ini, saya pasti bisa menghadapi tantangan apa pun di depan'.
@@ -46,7 +46,7 @@ $$
 $$
 
 Penjelasannya:
-- **Tantangan Berat** mewakili peristiwa luar biasa yang merubuhkan asumsi dasar kita tentang dunia.
+- **Tantangan Berat** mewakili peristiwa luar biasa yang merobohkan asumsi dasar kita tentang dunia.
 - **Pemrosesan Kognitif Deliberat** merupakan upaya sadar untuk memikirkan makna kejadian tersebut. Ini berbeda dengan *rumination* (perenungan berulang) yang buntu dan tanpa solusi.
 
 ### 4. Aplikasi Praktis dan Strategi Membangun Resiliensi
@@ -59,7 +59,7 @@ Cobalah mengubah narasi di dalam kepalamu. Alih-alih meratap dengan pertanyaan, 
 
 #### B. Menulis Ekspresif (Expressive Writing)
 
-Metode yang dikembangkan oleh James Pennebaker ini mengajakmu meluangkan waktu 15–20 menit sehari untuk menumpahkan perasaan terdalam ke dalam tulisan. Proses ini membantu otak mengurai emosi yang kusut menjadi struktur cerita yang lebih teratur dan mudah dipahami.
+Metode yang dikembangkan oleh James Pennebaker ini mengajakmu meluangkan waktu 15–20 menit sehari, umumnya selama beberapa hari berturut-turut, untuk menumpahkan perasaan terdalam ke dalam tulisan. Proses ini membantu otak mengurai emosi yang kusut menjadi struktur cerita yang lebih teratur dan mudah dipahami.
 
 #### C. Mencari Dukungan Sosial
 
@@ -81,6 +81,6 @@ Coba ingat kembali satu tantangan berat yang pernah kamu lewati dalam dua atau t
 
 **Pesan Penting:**
 
-> Menjadi resilien tidak berarti kamu dilarang terjatuh. Resiliensi adalah keberanian untuk bangkit berdiri, sekali lagi, setelah setiap kali kamu terjatuh. Pertumbuhan pasca trauma menunjukkan bahwa kita mampu menata kembali hidup setelah krisis menjadi sesuatu yang lebih berharga.
+> Menjadi resilien tidak berarti kamu dilarang terjatuh. Resiliensi adalah keberanian untuk bangkit berdiri, sekali lagi, setelah setiap kali kamu terjatuh. Pertumbuhan pascatrauma menunjukkan bahwa kita mampu menata kembali hidup setelah krisis menjadi sesuatu yang lebih berharga.
 
 *Jika semua kesulitan dalam hidupmu adalah guru, pelajaran paling berharga apa yang telah mereka ajarkan kepadamu sejauh ini?*

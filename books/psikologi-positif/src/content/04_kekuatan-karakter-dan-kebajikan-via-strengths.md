@@ -79,7 +79,7 @@ Dari 24 kekuatan di atas, setiap orang biasanya memiliki 3 hingga 7 **Signature 
 
 **Kriteria Kekuatan Utama:**
 
-- **Esensial (*Essential*):** Muncul kesadaran mendalam bahwa, "Inilah diriku yang sebenarnya."
+- **Esensial (*Essential*):** Muncul kesadaran mendalam: "Inilah diriku yang sebenarnya."
 - **Tanpa Beban (*Effortless*):** Ketika mengekspresikannya, segala hal terasa mengalir alami tanpa paksaan.
 - **Menumbuhkan Energi (*Energizing*):** Alih-alih membuat letih, menggunakannya justru mengisi kembali daya hidup dan semangatmu.
 
@@ -129,7 +129,7 @@ Mari mulai memetakan kekuatanmu secara mandiri. Cobalah membuat tabel sederhana 
 | --- | --- | --- |
 | Membantu teman pindahan | Kebaikan hati / Kerja sama tim | 9 |
 | Menyelesaikan laporan sulit | Ketekunan | 7 |
-| Menonton dokumentasi sains | Kegemaran belajar | 8 |
+| Menonton film dokumenter sains | Kegemaran belajar | 8 |
 
 **Penting:** Fokuslah pada upaya memperkuat apa yang sudah kuat dalam dirimu, alih-alih terobsesi memperbaiki kelemahan. Memperbaiki kelemahan memang mencegah kegagalan, tetapi membangun kekuatanlah yang melahirkan keunggulan.
 

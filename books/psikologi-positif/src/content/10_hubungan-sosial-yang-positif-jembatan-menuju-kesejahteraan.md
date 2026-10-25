@@ -6,11 +6,11 @@ Hubungan sosial adalah elemen "**R**" (*Relationships*) dalam model kesejahteraa
 
 ### 1. Mengapa Koneksi Sosial Itu Vital?
 
-Secara evolusioner, menyendiri di alam liar berarti bahaya maut. Meskipun kita tidak lagi berburu di hutan, otak kita masih memproses isolasi sosial dengan cara yang sama seperti rasa sakit fisik.
+Secara evolusioner, menyendiri di alam liar berarti bahaya maut. Meskipun kita tidak lagi berburu di hutan, otak kita masih memproses isolasi sosial dengan cara yang mirip dengan rasa sakit fisik.
 
 #### Dampak pada Kesehatan Mental dan Fisik
 
-Penelitian menunjukkan bahwa kualitas hubungan sosial kita memiliki pengaruh yang sangat kuat terhadap harapan hidup dibandingkan faktor medis lainnya, termasuk berhenti merokok atau berolahraga secara teratur.
+Penelitian menunjukkan bahwa kualitas hubungan sosial kita memiliki pengaruh terhadap harapan hidup yang sebanding dengan berhenti merokok, bahkan melampaui pengaruh kurang berolahraga.
 
 - **Penyangga Stres (Stress Buffer):** Kehadiran orang terdekat membantu menekan hormon kortisol, sehingga tubuh lebih rileks saat menghadapi tekanan.
 - **Melindungi Jantung:** Risiko penyakit kardiovaskular tercatat lebih rendah pada mereka yang memiliki ikatan sosial yang kuat dan hangat.
@@ -22,12 +22,12 @@ Penelitian menunjukkan bahwa kualitas hubungan sosial kita memiliki pengaruh yan
 
 Salah satu kontribusi psikologi positif dalam hubungan adalah teori dari **Shelly Gable** tentang cara kita merespons kabar baik orang lain. Ternyata, bagaimana reaksi kita saat orang lain mendapatkan kabar baik atau meraih sukses lebih menentukan kualitas hubungan dibandingkan respons kita saat mereka menghadapi kesulitan.
 
-Ada empat cara kita merespons kabar baik, namun hanya satu yang memperkuat hubungan:
+Ada empat cara kita merespons kabar baik, tetapi hanya satu yang memperkuat hubungan:
 
 | Jenis Respons | Karakteristik | Contoh Ucapan |
 | --- | --- | --- |
 | **Aktif-Konstruktif** | Antusias, suportif, bertanya detail, merayakan. | "Wah, hebat! Ceritakan detailnya, bagaimana perasaanmu saat itu?" |
-| **Pasif-Konstruktif** | Dukungan yang tenang, meremehkan energi. | "Oh bagus, selamat ya." (Lalu lanjut main HP). |
+| **Pasif-Konstruktif** | Dukungan yang tenang, minim antusiasme. | "Oh bagus, selamat ya." (Lalu lanjut main HP). |
 | **Aktif-Destruktif** | Mencari sisi negatif, menjatuhkan semangat. | "Kamu yakin bisa? Tanggung jawabnya pasti berat dan bikin stres." |
 | **Pasif-Destruktif** | Tidak peduli, mengalihkan pembicaraan ke diri sendiri. | "Oh gitu. Eh, kamu tahu nggak tadi aku makan apa?" |
 

@@ -4,7 +4,7 @@ Inti dari Psikologi Positif terletak pada sebuah kerangka yang memetakan bagian-
 
 Dirumuskan oleh **Martin Seligman**, pelopor Psikologi Positif modern, model ini menggeser fokus dari sekadar "kebahagiaan" (yang sering kali bersifat sementara) menuju **kesejahteraan (well-being)** yang berkelanjutan. Seligman percaya bahwa kesejahteraan tidak bersumber dari satu hal tunggal, melainkan hasil dari lima elemen independen yang saling mendukung.
 
-## Filosofi PERMA dari Kebahagiaan ke "Flourishing"
+## Filosofi PERMA dari Kebahagiaan ke *Flourishing*
 
 Dahulu, Seligman menganggap kebahagiaan adalah tujuan utama manusia. Namun, ia menyadari bahwa kata "bahagia" terlalu identik dengan suasana hati yang ceria semata. Kenyataannya, seseorang bisa tetap memiliki tingkat kesejahteraan yang tinggi meskipun sedang tidak tertawa atau tersenyum.
 
