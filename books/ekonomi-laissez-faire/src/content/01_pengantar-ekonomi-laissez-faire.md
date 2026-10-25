@@ -2,7 +2,7 @@
 
 Laissez-faire adalah gagasan bahwa ekonomi berjalan paling baik ketika pemerintah tidak ikut mengatur harga dan perdagangan. Bayangkan sebuah pasar yang hiruk-pikuk di mana setiap pedagang dan pembeli berinteraksi tanpa ada polisi harga, tanpa subsidi dari raja, dan tanpa aturan rumit dari pemerintah. Inilah inti dari **Laissez-faire**.
 
-Dalam bagian ini, kita akan membedah akar kata, definisi, dan pondasi filosofis yang membuat sistem ini menjadi tulang punggung pemikiran ekonomi klasik.
+Dalam bagian ini, kita akan membedah akar kata, definisi, dan fondasi filosofis yang membuat sistem ini menjadi tulang punggung pemikiran ekonomi klasik.
 
 ## 1. Etimologi Laissez-faire
 
@@ -58,7 +58,7 @@ Untuk memahami peran pemerintah dalam sistem Laissez-faire, mari gunakan analogi
 | Peran | Pendekatan Intervensionisme (Pelatih) | Pendekatan Laissez-faire (Wasit) |
 | :--- | :--- | :--- |
 | **Fokus Utama** | Mengatur taktik, posisi pemain, dan hasil akhir | Memastikan aturan dasar dipatuhi dan persaingan adil |
-| **Keterlibatan** | Memerintah setiap gerakan di lapangan | Berdiri di sisi lapangan, bertindak hanya saat ada pelanggaran |
+| **Keterlibatan** | Memerintah setiap gerakan di lapangan | Mengawasi dari dalam lapangan, bertindak hanya saat ada pelanggaran |
 | **Tujuan** | Memaksa sistem mencapai hasil tertentu | Membiarkan peserta berkompetisi secara bebas dan alami |
 
 > *Dalam Laissez-faire, pemerintah adalah sang wasit, bukan sang pelatih.*
@@ -76,11 +76,11 @@ Bayangkan sebuah teknologi baru muncul, misalnya **Kecerdasan Buatan (AI)**.
 
 ### Era Awal Internet
 
-Pada akhir 1990-an, pertumbuhan internet sangat pesat sebagian besar karena pemerintah di seluruh dunia (terutama Amerika Serikat) mengambil pendekatan yang relatif "lepas tangan". Hal ini memungkinkan perusahaan seperti Google, Amazon, dan eBay tumbuh tanpa harus menghadapi ribuan regulasi tradisional sejak hari pertama mereka berdiri.
+Pada akhir 1990-an, pertumbuhan internet sangat pesat, antara lain karena pemerintah di banyak negara (terutama Amerika Serikat) mengambil pendekatan yang relatif "lepas tangan". Hal ini memungkinkan perusahaan seperti Google, Amazon, dan eBay tumbuh tanpa harus menghadapi ribuan regulasi tradisional sejak hari pertama mereka berdiri.
 
 ## 6. Mengapa Laissez-faire Penting untuk Dipelajari?
 
-Memahami Laissez-faire adalah kunci untuk memahami perdebatan politik dan ekonomi hari ini. Ketika kamu mendengar berita tentang "pemotongan pajak", "deregulasi", atau "swastanisasi", kamu sebenarnya sedang menyaksikan prinsip-prinsip Laissez-faire yang sedang diperdebatkan saat ini.
+Memahami Laissez-faire adalah kunci untuk memahami perdebatan politik dan ekonomi hari ini. Ketika kamu mendengar berita tentang "pemotongan pajak", "deregulasi", atau "swastanisasi", kamu sebenarnya sedang menyaksikan perdebatan tentang prinsip-prinsip Laissez-faire.
 
 > **Wawasan Memorable:** Laissez-faire bukan berarti ketiadaan aturan sama sekali; ia adalah keyakinan bahwa aturan yang paling efektif adalah aturan yang dibuat oleh interaksi sukarela antara manusia, bukan oleh paksaan negara.
 

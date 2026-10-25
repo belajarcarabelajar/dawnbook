@@ -18,13 +18,13 @@ $$
 \pi = \text{TR} - \text{TC}
 $$
 
-Di mana:
+Dengan:
 
 - $\pi$ (Pi) adalah Laba
 - $\text{TR}$ (*Total Revenue*) adalah Total Pendapatan ($\text{Harga} \times \text{Jumlah}$)
 - $\text{TC}$ (*Total Cost*) adalah Total Biaya
 
-Karena dalam pasar persaingan sempurna produsen sering kali tidak bisa menentukan harga sesuka hati (mereka adalah *price takers*), satu-satunya cara untuk meningkatkan $\pi$ adalah dengan meminimalkan $\text{TC}$. Hal ini mendorong pemanfaatan sumber daya (bahan baku, tenaga kerja, waktu) secara optimal, sehingga tidak ada yang terbuang percuma.
+Karena dalam pasar persaingan sempurna produsen tidak bisa menentukan harga sesuka hati (mereka adalah *price takers*), satu-satunya cara untuk meningkatkan $\pi$ adalah dengan meminimalkan $\text{TC}$. Hal ini mendorong pemanfaatan sumber daya (bahan baku, tenaga kerja, waktu) secara optimal, sehingga tidak ada yang terbuang percuma.
 
 ### 2. Inovasi Teknologi
 
@@ -60,13 +60,13 @@ Dalam pasar bebas, harga bertindak sebagai sinyal:
 3. Modal dan tenaga kerja akan mengalir ke industri tersebut.
 4. Produksi meningkat hingga kebutuhan masyarakat terpenuhi dan harga kembali stabil.
 
-Secara teoritis, dalam kondisi persaingan sempurna, efisiensi alokatif tercapai ketika:
+Secara teoretis, dalam kondisi persaingan sempurna, efisiensi alokatif tercapai ketika:
 
 $$
 P = \text{MC}
 $$
 
-Artinya, **Harga ($P$)** yang dibayar konsumen sama dengan **Biaya Marjinal ($\text{MC}$)** untuk memproduksi unit terakhir barang tersebut. Ini adalah titik di mana kesejahteraan sosial maksimal tercapai secara alami.
+Artinya, **Harga ($P$)** yang dibayar konsumen sama dengan **Biaya Marjinal ($\text{MC}$)** untuk memproduksi unit terakhir barang tersebut. Ini adalah titik tempat kesejahteraan sosial maksimal tercapai secara alami.
 
 ## Dari SMS ke Aplikasi Pesan
 
@@ -76,8 +76,8 @@ Mari kita lihat fenomena industri perangkat lunak (*software*) dan aplikasi pons
 
 | Dimensi | Layanan SMS Tradisional | Aplikasi Pesan Digital (WhatsApp/Telegram) |
 | :--- | :--- | :--- |
-| **Biaya Layanan** | Mahal (dihitung per karakter/pesan) | Hampir nol (menggunakan paket data) |
-| **Inovasi Produk** | Terbatas pada teks pendek | Panggilan video, enkripsi end-to-end, berbagi dokumen |
+| **Biaya Layanan** | Mahal (dihitung per pesan) | Hampir nol (menggunakan paket data) |
+| **Inovasi Produk** | Terbatas pada teks pendek | Panggilan video, enkripsi *end-to-end*, berbagi dokumen |
 | **Efisiensi Produksi** | Menggunakan jalur seluler berbiaya tinggi | Menggunakan infrastruktur data internet yang efisien |
 | **Dampak Konsumen** | Terikat tarif monopoli/oligopoli | Menikmati nilai tinggi dengan biaya terjangkau |
 

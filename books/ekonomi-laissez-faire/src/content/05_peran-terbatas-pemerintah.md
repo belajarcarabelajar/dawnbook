@@ -1,12 +1,12 @@
 ## Peran Terbatas Pemerintah
 
-Bayangkan sebuah pertandingan sepak bola. Di sana ada pemain, bola, dan penonton. Di pinggir lapangan, ada wasit. Wasit tidak ikut menendang bola, tidak menentukan strategi tim, dan tidak mencetak gol. Namun, tanpa wasit, pertandingan akan berubah menjadi kekacauan. Wasit hanya meniup peluit jika ada pelanggaran aturan atau untuk memastikan permainan berjalan adil.
+Bayangkan sebuah pertandingan sepak bola. Di sana ada pemain, bola, dan penonton. Di lapangan, ada wasit. Wasit tidak ikut menendang bola, tidak menentukan strategi tim, dan tidak mencetak gol. Namun, tanpa wasit, pertandingan akan berubah menjadi kekacauan. Wasit hanya meniup peluit jika ada pelanggaran aturan atau untuk memastikan permainan berjalan adil.
 
 Inilah inti dari **Peran Terbatas Pemerintah** dalam sistem ekonomi *Laissez-faire*. Pemerintah bertindak sebagai wasit yang memastikan aturan main ditaati agar pasar dapat berfungsi dengan sendirinya, alih-alih ikut bertanding sebagai pemain ekonomi.
 
 ### Filosofi "Negara Penjaga Malam" (The Night-Watchman State)
 
-Dalam tradisi *Laissez-faire*, pemerintah sering disebut sebagai **Minarkis** atau *Night-Watchman State*. Filosofinya adalah: pemerintah hanya boleh ada untuk melindungi individu dari paksaan, pencurian, penipuan, dan pelanggaran kontrak.
+Dalam tradisi *Laissez-faire*, pemerintah sering disebut sebagai **negara minimal** atau *Night-Watchman State*. Filosofinya adalah: pemerintah hanya boleh ada untuk melindungi individu dari paksaan, pencurian, penipuan, dan pelanggaran kontrak.
 
 Semangat ini terangkum dalam semboyan "pemerintah yang terbaik adalah yang paling sedikit memerintah", yang sering dikira ucapan Thomas Jefferson. Ensiklopedia Monticello (Berkes, 2008) mencatatnya sebagai kutipan palsu Jefferson: bentuk tertua yang diketahui muncul pada 1837 dalam pengantar majalah *The United States Magazine and Democratic Review*. Henry David Thoreau kemudian membuka esai *Civil Disobedience* (1849) dengan menyatakan bahwa ia menerima semboyan itu.
 
@@ -56,14 +56,14 @@ Para pendukung *Laissez-faire* berargumen bahwa intervensi pemerintah yang berle
 Pemerintah dalam sistem *Laissez-faire* bertindak seperti **tukang kebun**, bukan **pemahat**.
 
 - Seorang **pemahat** memaksakan bentuk tertentu pada batu (pemerintah mengatur hasil ekonomi secara paksa).
-- Seorang **tukang kebun** hanya menyiapkan tanah yang subur, menyiram air (infrastruktur), dan mencabut gulma (penegakan hukum), lalu membiarkan tanaman tumbuh sesuai kodratnya (pasar berkembang secara alami).
+- Seorang **tukang kebun** hanya menyiapkan tanah yang subur, menyirami tanaman (infrastruktur), dan mencabut gulma (penegakan hukum), lalu membiarkan tanaman tumbuh sesuai kodratnya (pasar berkembang secara alami).
 
 ### Peran Pemerintah dalam Ekonomi Modern
 
 Meskipun saat ini jarang ada negara yang menerapkan *Laissez-faire* murni, prinsip peran terbatas ini tetap terlihat dalam beberapa skenario:
 
 - **Zona Perdagangan Bebas:** Di wilayah tertentu, pemerintah sengaja menghapus tarif dan regulasi ketat, hanya menyediakan keamanan dan pelabuhan, untuk memicu pertumbuhan ekonomi yang cepat.
-- **Sistem Pengadilan Niaga:** Di negara-negara maju, fokus utama pemerintah dalam ekonomi adalah mempercepat penyelesaian sengketa bisnis melalui pengadilan yang independen, agar modal tidak macet karena ketidakpastian hukum.
+- **Sistem Pengadilan Niaga:** Di banyak negara maju, salah satu fokus penting pemerintah dalam ekonomi adalah mempercepat penyelesaian sengketa bisnis melalui pengadilan yang independen, agar modal tidak macet karena ketidakpastian hukum.
 - **Penyediaan Standar Berat dan Ukuran:** Agar transaksi adil, pemerintah memastikan bahwa 1 kilogram di pasar A sama dengan 1 kilogram di pasar B. Ini adalah peran infrastruktur informasi yang mendasar.
 
 ### Fungsi yang Boleh dan Tidak Boleh
@@ -76,4 +76,4 @@ Meskipun saat ini jarang ada negara yang menerapkan *Laissez-faire* murni, prins
 | Memiliki Perusahaan Ritel | Tidak | Menciptakan persaingan tidak sehat dengan swasta. |
 | Membangun Jalan Umum | Ya | Sarana vital yang memfasilitasi pergerakan barang. |
 
-> **Catatan Utama:** Dalam ekonomi *Laissez-faire*, peran pemerintah berfokus menciptakan lingkungan yang aman dan tertib, agar masyarakat dapat menyejahterakan diri mereka sendiri melalui kerja keras dan pertukaran sukarela.
+> **Catatan Utama:** Dalam ekonomi *Laissez-faire*, peran pemerintah berfokus pada penciptaan lingkungan yang aman dan tertib, agar masyarakat dapat menyejahterakan diri mereka sendiri melalui kerja keras dan pertukaran sukarela.

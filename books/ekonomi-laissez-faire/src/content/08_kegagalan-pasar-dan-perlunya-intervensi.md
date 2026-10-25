@@ -37,7 +37,7 @@ Jika $\text{SMC} \neq \text{SMB}$, maka terjadilah kegagalan pasar. Mari kita be
 
 Pasar bebas andal menyediakan barang pribadi (seperti sepatu atau ponsel), tetapi sering kali gagal menyediakan **Barang Publik**. Barang publik memiliki dua karakteristik utama:
 
-1. **Non-eksklusif (*Non-excludable*):** Mustahil mencegah orang lain memanfaatkan barang tersebut meskipun mereka tidak membayar.
+1. **Non-eksklusif (*Non-excludable*):** Sulit atau sangat mahal untuk mencegah orang lain memanfaatkan barang tersebut meskipun mereka tidak membayar.
 2. **Non-rivalitas (*Non-rivalrous*):** Penggunaan oleh satu orang tidak mengurangi ketersediaan bagi orang lain.
 
 | Jenis Barang | Eksklusif | Non-eksklusif |
@@ -75,7 +75,7 @@ Saat pasar mengalami kegagalan, intervensi pemerintah diperlukan untuk memperbai
 | Bentuk Intervensi | Mekanisme Kerja | Tujuan Utama |
 | :--- | :--- | :--- |
 | **Pajak Pigovian** | Mengenakan biaya tambahan pada aktivitas beremisi/polusi | Menginternalisasi biaya eksternalitas negatif |
-| **Subsidi** | Memberikan bantuan dana untuk kegiatan produktif | Mendorong konsumsi barang bereksternalitas positif |
+| **Subsidi** | Memberikan bantuan dana untuk kegiatan bereksternalitas positif | Mendorong konsumsi barang bereksternalitas positif |
 | **Regulasi Anti-Monopoli** | Membatasi merger dan melarang praktik monopoli predatoris | Mempertahankan iklim persaingan sehat |
 | **Penyediaan Langsung** | Membiayai barang publik lewat APBN/pajak | Mengatasi *free rider problem* |
 

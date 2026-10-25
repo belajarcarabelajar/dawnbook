@@ -35,7 +35,7 @@ Margaret Thatcher (Inggris) dan Ronald Reagan (AS) merupakan tokoh utama neolibe
 
 ### Konsensus Washington (*Washington Consensus*)
 
-Ini adalah sekumpulan resep kebijakan ekonomi yang dipromosikan oleh IMF, Bank Dunia, dan Departemen Keuangan AS kepada negara-negara yang mengalami krisis ekonomi (termasuk Indonesia pasca-1998). Kebijakan ini menekankan disiplin fiskal dan privatisasi skala besar.
+Ini adalah sekumpulan resep kebijakan ekonomi yang dipromosikan oleh IMF, Bank Dunia, dan Departemen Keuangan AS kepada negara-negara yang mengalami krisis ekonomi (termasuk Indonesia pascakrisis 1997/1998). Kebijakan ini menekankan disiplin fiskal dan privatisasi skala besar.
 
 ## 4. Analisis Matematis Ketimpangan dan Efisiensi
 
@@ -58,13 +58,13 @@ Bagaimana neoliberalisme bekerja di sekitar kita saat ini?
 Perusahaan seperti Grab, Uber, atau Gojek merupakan manifestasi neoliberalisme modern.
 
 - **Konsep:** Setiap individu diposisikan sebagai "pengusaha bagi dirinya sendiri."
-- **Realita:** Perusahaan menekan biaya dengan tidak menyediakan tunjangan kesehatan atau jaminan pensiun, serta memindahkan seluruh risiko kepada individu. Ini adalah bentuk murni dari fleksibilitas pasar tenaga kerja.
+- **Realitas:** Perusahaan menekan biaya dengan tidak menyediakan tunjangan kesehatan atau jaminan pensiun, serta memindahkan seluruh risiko kepada individu. Ini adalah bentuk murni dari fleksibilitas pasar tenaga kerja.
 
 ### Privatisasi Layanan Kesehatan
 
 Di beberapa negara, layanan kesehatan dikelola penuh oleh mekanisme pasar.
 
-- **Keuntungan:** Inovasi teknologi medis berkembang pesat disertai kompetisi harga antar rumah sakit.
+- **Keuntungan:** Inovasi teknologi medis berkembang pesat disertai kompetisi harga antarrumah sakit.
 - **Kerugian:** Akses menjadi terbatas bagi kelompok yang tidak mampu membayar premi asuransi berbiaya tinggi.
 
 ## 6. Tantangan dan Kritik di Abad ke-21
@@ -72,17 +72,17 @@ Di beberapa negara, layanan kesehatan dikelola penuh oleh mekanisme pasar.
 Saat ini, dominasi neoliberalisme mulai dipertanyakan kembali akibat beberapa fenomena:
 
 - **Krisis Finansial 2008:** Menunjukkan bahwa pasar finansial tanpa regulasi dapat memicu keruntuhan ekonomi global.
-- **Pandemi COVID-19:** Membuktikan bahwa dalam situasi darurat, peran negara yang kuat vital untuk menyediakan vaksin dan bantuan sosial.
+- **Pandemi COVID-19:** Membuktikan bahwa dalam situasi darurat, peran negara yang kuat sangat vital untuk menyediakan vaksin dan bantuan sosial.
 - **Perubahan Iklim:** Mekanisme pasar sering gagal menangani eksternalitas negatif seperti polusi. Emisi $\text{CO}_2$ tidak akan turun hanya mengandalkan "tangan tak terlihat" tanpa regulasi karbon yang tegas.
 
    $$\text{Eksternalitas Negatif} = \text{Biaya Sosial} > \text{Biaya Privat}$$
 
 ## 7. Transformasi Ekonomi Indonesia
 
-Indonesia sempat menerapkan prinsip neoliberalisme secara intensif pasca krisis 1997/1998 melalui perjanjian dengan IMF (*Letter of Intent*).
+Indonesia sempat menerapkan prinsip neoliberalisme secara intensif pascakrisis 1997/1998 melalui perjanjian dengan IMF (*Letter of Intent*).
 
-- **Langkah:** Privatisasi beberapa BUMN, penghapusan subsidi BBM secara bertahap, dan pembukaan keran investasi asing seluas-luasnya.
-- **Hasilnya:** Stabilitas makroekonomi berhasil dicapai dalam waktu singkat, namun memicu perdebatan panjang mengenai kedaulatan ekonomi dan ketimpangan sosial yang masih terasa hingga kini.
+- **Langkah:** Privatisasi beberapa BUMN, pengurangan subsidi BBM secara bertahap, dan pembukaan keran investasi asing seluas-luasnya.
+- **Hasilnya:** Stabilitas makroekonomi berhasil dicapai, namun memicu perdebatan panjang mengenai kedaulatan ekonomi dan ketimpangan sosial yang masih terasa hingga kini.
 
 ## Ringkasan untuk Pembelajar
 

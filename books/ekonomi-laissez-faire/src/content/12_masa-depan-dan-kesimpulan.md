@@ -6,7 +6,7 @@ Bagian ini tidak hanya menutup diskusi kita, tetapi juga membahas bagaimana prin
 
 ## 1. Warisan Laissez-faire
 
-Laissez-faire telah memengaruhi struktur masyarakat modern. Warisannya lebih dari sekadar angka pertumbuhan, melainkan pergeseran mendasar dalam cara manusia memandang kebebasan dan tanggung jawab.
+Laissez-faire telah memengaruhi struktur masyarakat modern. Warisannya bukan sekadar angka pertumbuhan, melainkan pergeseran mendasar dalam cara manusia memandang kebebasan dan tanggung jawab.
 
 - **Pemberdayaan Individu:** Filosofi ini menggeser fokus dari kekuatan negara ke kedaulatan konsumen. Keputusan ekonomi kamu hari ini (apa yang kamu beli, di mana kamu bekerja) adalah bentuk nyata dari warisan Laissez-faire.
 - **Efisiensi sebagai Standar:** Konsep bahwa persaingan mendorong efisiensi telah menjadi doktrin yang diterima luas. Perusahaan yang gagal berinovasi akan tersingkir, memastikan bahwa sumber daya $S$ dialokasikan ke tempat yang paling produktif secara matematis:
@@ -15,16 +15,16 @@ Laissez-faire telah memengaruhi struktur masyarakat modern. Warisannya lebih dar
 
 - **Kesejahteraan Global:** Perdagangan bebas yang kita nikmati hari ini adalah turunan langsung dari penolakan Laissez-faire terhadap merkantilisme dan proteksionisme.
 
-> **Insight:** Warisan terbesar Laissez-faire bukanlah ketiadaan pemerintah, melainkan pengakuan bahwa pasar memiliki kecerdasan kolektif yang sering kali melampaui kemampuan perencanaan pusat manapun.
+> **Insight:** Warisan terbesar Laissez-faire bukanlah ketiadaan pemerintah, melainkan pengakuan bahwa pasar memiliki kecerdasan kolektif yang sering kali melampaui kemampuan perencanaan pusat mana pun.
 
 ## 2. Pengaruh pada Kebijakan Fiskal dan Moneter Masa Depan
 
-Meskipun murni Laissez-faire jarang diterapkan secara ekstrem saat ini, prinsip-prinsipnya tetap menjadi kompas bagi pembuat kebijakan di seluruh dunia.
+Meskipun Laissez-faire murni jarang diterapkan secara ekstrem saat ini, prinsip-prinsipnya tetap menjadi kompas bagi pembuat kebijakan di seluruh dunia.
 
 | Domain Kebijakan | Pendekatan Laissez-faire | Implementasi Abad ke-21 |
 | :--- | :--- | :--- |
 | **Kebijakan Fiskal** | Sisi Penawaran (*Supply-Side*) | Pemotongan pajak dan pemangkasan regulasi (*red tape*) untuk mendorong investasi swasta. |
-| **Kebijakan Moneter** | Aturan Pasar & Disiplin | Independensi bank sentral dan pengawasan diri (*self-regulation*) dari intervensi politik. |
+| **Kebijakan Moneter** | Aturan Pasar & Disiplin | Independensi bank sentral dari intervensi politik dan pengawasan diri (*self-regulation*). |
 
 ### Kebijakan Fiskal Sisi Penawaran (*Supply-Side*)
 
@@ -57,11 +57,11 @@ Platform seperti Uber, Gojek, atau Upwork menciptakan pasar tenaga kerja yang fl
 Masa depan Laissez-faire akan bergantung pada kemampuannya menjawab tantangan eksternalitas, terutama perubahan iklim.
 
 > **Analogi Taman dan Hutan**  
-> Jika ekonomi Laissez-faire klasik diibaratkan seperti hutan rimba yang tumbuh liar tanpa gangguan, maka Laissez-faire masa depan mungkin lebih menyerupai taman yang luas: tanaman dibiarkan tumbuh bebas, namun pagar-pagar regulasi lingkungan dipasang agar hutan tersebut tidak membakar dirinya sendiri.
+> Jika ekonomi Laissez-faire klasik diibaratkan seperti hutan rimba yang tumbuh liar tanpa gangguan, maka Laissez-faire masa depan mungkin lebih menyerupai taman yang luas: tanaman dibiarkan tumbuh bebas, namun pagar-pagar regulasi lingkungan dipasang agar taman tersebut tidak membakar dirinya sendiri.
 
 Kita akan melihat transisi menuju *Market-Based Solutions* untuk masalah lingkungan, seperti:
 
-- **Pajak Karbon dan Perdagangan Emisi:** Menggunakan mekanisme harga untuk mengurangi polusi, bukannya sekadar larangan pemerintah.
+- **Pajak Karbon dan Perdagangan Emisi:** Menggunakan mekanisme harga untuk mengurangi polusi, bukan sekadar larangan pemerintah.
 - **Harapan pada Inovasi Teknologi:** Keyakinan bahwa pasar akan menciptakan teknologi hijau yang lebih murah daripada energi fosil karena tuntutan efisiensi.
 
 ## 5. Laissez-faire yang Berubah Bentuk
