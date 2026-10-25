@@ -1,6 +1,6 @@
 ## Literasi Digital dan Berpikir Kritis
 
-Sampai di sini kamu sudah tahu banyak soal kenapa kita gampang percaya hoax. Otak kita hemat energi dan lebih suka jalan cepat (Bab 3). Kita menyimpan apa yang cocok dengan keyakinan dan menolak yang tidak (Bab 4). Emosi mendahului nalar, dan berita yang bikin marah menyebar paling kencang (Bab 7). Semua itu bukan kesalahan pribadi kamu, itu cara kerja bawaan manusia.
+Sampai di sini kamu sudah tahu banyak soal kenapa kita gampang percaya hoax. Otak kita hemat energi dan lebih suka jalan cepat (Bab 3). Kita menerima apa yang cocok dengan keyakinan dan menolak yang tidak (Bab 4). Emosi mendahului nalar, dan berita yang bikin marah menyebar paling kencang (Bab 7). Semua itu bukan kesalahan pribadi kamu, itu cara kerja bawaan manusia.
 
 Kabar baiknya: cara kerja bawaan bisa dilatih ulang. Bab ini adalah bab pertahanan pertama. Bukan soal jadi orang paling pintar di grup, tapi soal punya kebiasaan kecil yang membuat kamu tidak gampang ditipu.
 
@@ -71,4 +71,4 @@ Literasi digital bukan berarti kamu curiga pada segala hal sampai lelah sendiri.
 
 Berpikir kritis bukan bakat langka, melainkan kebiasaan memanggil System 2 dengan sengaja: bertanya siapa sumbernya, apa buktinya, apa motifnya, dan kenapa kamu percaya. Alih-alih menilai situs dari tampilannya (membaca vertikal), pemeriksa fakta profesional **membaca lateral**, keluar dari halaman untuk melihat apa kata sumber lain. Metode **SIFT** memberi empat gerakan yang bisa diulang: berhenti, selidiki sumber, cari liputan lebih baik, dan lacak klaim ke konteks aslinya. Tambahkan **click restraint**, kebiasaan menahan diri dari hasil pertama, dan sejumlah kebiasaan harian seperti mengecek sebelum meneruskan ke grup keluarga. Penelitian menunjukkan kebiasaan analitis dan pengetahuan yang relevan memang meningkatkan kemampuan membedakan yang benar dari yang palsu.
 
-Tapi kebiasaan memeriksa perlu alat yang lebih konkret, dan sebagian pertahanan bisa dibangun *sebelum* hoax datang. Di modul terakhir, **Verifikasi Fakta dan Inokulasi**, kita akan masuk ke teknik memverifikasi klaim dan gambar langkah demi langkah, lalu ke gagasan bahwa kamu bisa "divaksin" melawan manipulasi dengan mengenali polanya lebih dulu.
+Tapi kebiasaan memeriksa perlu alat yang lebih konkret, dan sebagian pertahanan bisa dibangun *sebelum* hoax datang. Di bab terakhir, **Verifikasi Fakta dan Inokulasi**, kita akan masuk ke teknik memverifikasi klaim dan gambar langkah demi langkah, lalu ke gagasan bahwa kamu bisa "divaksin" melawan manipulasi dengan mengenali polanya lebih dulu.
