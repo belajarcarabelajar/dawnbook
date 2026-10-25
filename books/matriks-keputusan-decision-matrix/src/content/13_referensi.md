@@ -12,10 +12,10 @@ Keeney, R. L., & Raiffa, H. (1993). *Decisions with multiple objectives: Prefere
 
 Odu, G. O. (2019). Weighting methods for multi-criteria decision making technique. *Journal of Applied Sciences and Environmental Management*, *23*(8), 1449–1457. [https://doi.org/10.4314/jasem.v23i8.7](https://doi.org/10.4314/jasem.v23i8.7)
 
-Pugh, S. (1981). Concept selection: A method that works. In V. Hubka (Ed.), *Proceedings of the International Conference on Engineering Design* (pp. 497–506). Heurista.
+Pugh, S. (1981). Concept selection: A method that works. In V. Hubka (Ed.), *Proceedings of the International Conference on Engineering Design* (pp. 497–506). Heurista. [https://www.designsociety.org/publication/15/wdk_5_design_methodology_review_of_design_methodology_%E2%80%93_iced_81_rome_italy_09_-13_03_1981](https://www.designsociety.org/publication/15/wdk_5_design_methodology_review_of_design_methodology_%E2%80%93_iced_81_rome_italy_09_-13_03_1981)
 
-Pugh, S. (1990). *Total design: Integrated methods for successful product engineering*. Addison-Wesley.
+Pugh, S. (1990). *Total design: Integrated methods for successful product engineering*. Addison-Wesley. [https://lccn.loc.gov/90042235](https://lccn.loc.gov/90042235)
 
-Saaty, T. L. (1980). *The analytic hierarchy process: Planning, priority setting, resource allocation*. McGraw-Hill.
+Saaty, T. L. (1980). *The analytic hierarchy process: Planning, priority setting, resource allocation*. McGraw-Hill. [https://lccn.loc.gov/79041060](https://lccn.loc.gov/79041060)
 
 Triantaphyllou, E. (2000). *Multi-criteria decision making methods: A comparative study*. Kluwer Academic Publishers. [https://doi.org/10.1007/978-1-4757-3157-6](https://doi.org/10.1007/978-1-4757-3157-6)
