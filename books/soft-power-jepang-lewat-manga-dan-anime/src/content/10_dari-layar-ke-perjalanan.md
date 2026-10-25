@@ -20,11 +20,11 @@ Daftar seperti ini bisa kamu tuntaskan satu per satu sebagai rencana kunjungan. 
 
 ### Berapa Wisatawan Datang karena Anime
 
-Semua ini berlangsung di tengah lonjakan kunjungan asing ke Jepang. Data final JNTO (Organisasi Pariwisata Nasional Jepang) mencatat 36.870.148 wisatawan mancanegara pada 2024, dan perkiraan untuk 2025 sekitar 42.683.600 orang. Untuk tahun yang sama, menurut [nippon.com](https://www.nippon.com/en/japan-data/h02673/), belanja wisatawan mencapai 9,5 triliun yen, dan pemerintah memasang target 60 juta pengunjung dengan belanja 15 triliun yen pada 2030.
+Semua ini berlangsung di tengah lonjakan kunjungan asing ke Jepang. Data final JNTO (Organisasi Pariwisata Nasional Jepang) mencatat 36.870.148 wisatawan mancanegara pada 2024, dan perkiraan untuk 2025 sekitar 42.683.600 orang. Untuk 2025, menurut [nippon.com](https://www.nippon.com/en/japan-data/h02673/), belanja wisatawan mencapai 9,5 triliun yen, dan pemerintah memasang target 60 juta pengunjung dengan belanja 15 triliun yen pada 2030.
 
 Angka sebesar itu mudah menggoda, jadi pegang satu batasnya: tidak ada sumber yang menyebut berapa bagian dari tamu itu datang karena anime. Yang terlihat hanya besarnya arus, bukan alasan tiap orang berangkat. Meski begitu, pemerintah jelas melihat kaitannya. Lewat program J-LOD, Kementerian Ekonomi, Perdagangan, dan Industri (METI) bersama pelaksananya, VIPO, membiayai sebagian ongkos lokalisasi dan promosi konten Jepang untuk rilis luar negeri. Harapannya, "demam Jepang" di luar negeri ikut mengangkat industri terkait dan kunjungan wisata ke Jepang.
 
-### Ghibli Park dan Museum Nintendo
+### Ghibli Park dan Nintendo Museum
 
 Ada pula tujuan yang memang dibangun untuk penggemar. Ghibli Park di Nagakute, Prefektur Aichi, dibuka pada 1 November 2022, disusul Nintendo Museum di Uji pada 2 Oktober 2024. Logikanya sama dengan daftar 88 titik: orang yang tumbuh bersama sebuah dunia rekaan ingin masuk ke dalamnya secara fisik.
 

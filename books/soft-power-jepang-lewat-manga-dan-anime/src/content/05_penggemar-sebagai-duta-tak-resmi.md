@@ -32,7 +32,7 @@ Belakangan, perusahaan datang dengan layanan resmi yang skalanya jauh lebih besa
 
 Ukurannya bisa kamu lihat dari Crunchyroll. Pada Agustus 2021, Funimation Global Group, usaha bersama Sony Pictures Entertainment dan Aniplex, menuntaskan pembelian Crunchyroll dari AT&T senilai 1,175 miliar dolar AS ([siaran pers Sony Pictures](https://www.sonypictures.com/corp/press_releases/2021/0809/sonysfunimationglobalgroupcompletesacquisitionofcrunchyrollfromatt)). Saat itu Crunchyroll punya 5 juta pelanggan berbayar dan 120 juta pengguna terdaftar. Jauh lebih banyak orang yang mendaftar daripada yang membayar.
 
-Manga menempuh jalan serupa. Pada Januari 2019, Shueisha meluncurkan MANGA Plus secara global. Bab baru dari serial *Weekly Shonen Jump*, *Jump SQ*, dan *Shonen Jump+* terbit bersamaan dengan Jepang, sementara bab pertama dan bab terbaru bisa dibaca gratis. Pembaca di luar negeri bisa membaca bab yang sama pada waktu yang sama dengan pembaca di Jepang.
+Manga menempuh jalan serupa. Pada Januari 2019, Shueisha meluncurkan MANGA Plus secara global. Bab baru dari serial *Weekly Shonen Jump*, *Jump SQ*, dan *Shonen Jump+* terbit bersamaan dengan Jepang, sementara tiga bab pertama dan tiga bab terbaru bisa dibaca gratis. Pembaca di luar negeri bisa membaca bab yang sama pada waktu yang sama dengan pembaca di Jepang.
 
 Lalu ada Netflix. Pengumumannya pada Juli 2025 ([pengumuman Netflix](https://about.netflix.com/en/news/anime-for-every-fan-fueling-new-era-global-fandom)) menyebut bahwa lebih dari separuh anggotanya di seluruh dunia menonton anime, dan 80 sampai 90 persen penonton anime di sana menonton versi sulih suara (*dub*). Anime kini tidak lagi terbatas pada kelompok kecil yang betah membaca teks terjemahan di bagian bawah layar.
 

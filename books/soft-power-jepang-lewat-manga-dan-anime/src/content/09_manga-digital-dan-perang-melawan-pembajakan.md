@@ -47,7 +47,7 @@ Bagi pembaca di luar Jepang, artinya sederhana. Ada pilihan resmi yang tersedia 
 
 Strategi itu bertemu permintaan yang sedang tinggi. Di Amerika Serikat dan Kanada, ICv2 mencatat penjualan komik dan novel grafis mencapai 2,075 miliar dolar AS pada 2021, naik 62 persen, dengan manga sebagai salah satu pendorong terkuat. Di Prancis, data NielsenIQ-GfK menghitung 39,6 juta eksemplar manga terjual pada 2023, dan lebih dari separuh komik yang dibeli di sana adalah manga.
 
-Namun layar ponsel bukan milik manga sendirian. Pada 2019, [Japan Times](https://www.japantimes.co.jp/news/2019/05/05/business/tech/south-koreas-booming-webtoons-put-japans-print-manga-notice/) melaporkan bahwa *webtoon* Korea, komik digital yang dibaca lewat aplikasi, mulai menjadi ancaman serius bagi manga cetak Jepang. Laporan itu melihat pembaca muda yang tumbuh bersama ponsel beralih ke judul-judul berbasis aplikasi. Dari sudut ini, bab gratis di MANGA Plus juga menjadi cara agar manga tetap hadir di layar yang sama tempat pesaingnya bersaing.
+Namun layar ponsel bukan milik manga sendirian. Pada 2019, [Japan Times](https://www.japantimes.co.jp/news/2019/05/05/business/tech/south-koreas-booming-webtoons-put-japans-print-manga-notice/) melaporkan bahwa *webtoon* Korea, komik digital yang dibaca lewat aplikasi, mulai menjadi ancaman serius bagi manga cetak Jepang. Laporan itu melihat pembaca muda yang tumbuh bersama ponsel beralih ke judul-judul berbasis aplikasi. Dari sudut ini, bab gratis di MANGA Plus juga menjadi cara agar manga tetap hadir di layar yang sama tempat webtoon bersaing.
 
 ### Recap
 
