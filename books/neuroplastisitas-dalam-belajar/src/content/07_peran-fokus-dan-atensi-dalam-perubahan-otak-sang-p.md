@@ -74,7 +74,7 @@ Bayangkan dua orang, Budi dan Siti, sedang belajar fungsi `if-else` dalam Python
 
 ## 6\. Latihan Mandiri untuk Meningkatkan Plastisitas
 
-Beberapa latihan sederhana yang bisa kamu coba:
+Beberapa latihan yang bisa kamu coba:
 
 1. **The 90-Second Focus:** Sebelum belajar, cobalah menatap satu titik di tembok atau layar selama 60-90 detik tanpa mengalihkan pandangan.
 2. **Eliminasi Interupsi:** Singkirkan semua pemicu atensi eksternal (ponsel, tab browser yang tidak relevan) supaya fokus kamu tidak terus "beralih".

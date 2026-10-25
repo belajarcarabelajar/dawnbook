@@ -69,7 +69,7 @@ Berikut contoh aturan sederhana untuk menentukan kapan sebuah kartu belajar perl
 
 Untuk memastikan strategi di atas memicu neuroplastisitas yang maksimal, cermati elemen pendukung berikut:
 
-1. **Fokus Intens (Deep Work):** Tanpa atensi penuh, belajar jauh lebih sulit menempel.
+1. **Fokus Intens (Deep Work):** Tanpa atensi penuh, materi lebih sulit menempel.
 2. **Kesalahan sebagai Sinyal:** Saat kamu melakukan kesalahan dalam *Active Recall*, **jangan frustrasi**. Kesalahan itu menandai bagian yang belum kamu kuasai.
 3. **Batas Durasi:** Belajarlah dalam sesi sekitar 90 menit, kemudian beri dirimu waktu istirahat.
 
