@@ -2,7 +2,7 @@
 
 Coba amati bagaimana rumpun bambu merespons terpaan angin badai yang hebat. Berbeda dengan pohon besar berbatang kaku yang rentan tumbang saat akarnya tak lagi sanggup menahan beban momen lentur, bambu melengkung dinamis mengikuti arah terpaan angin. Rumpun bambu tidak patah karena memiliki fleksibilitas mekanis, dan yang paling krusial, jalinan perakarannya saling bertaut rapat di bawah tanah membentuk jaringan penyangga struktural yang kokoh.
 
-Prinsip bio-mekanis tersebut menjadi fondasi utama konsep **Resiliensi Komunitas**. Daya lenting kolektif tidak semata-mata bersandar pada ketahanan individual yang terisolasi, melainkan pada kapasitas sistem sosial untuk menjalin keterikatan psikologis dan struktural. Melalui jejaring ini, masyarakat tidak hanya sanggup bertahan di tengah hantaman krisis, tetapi juga memiliki kemampuan bangkit kembali (*bounce back*) dengan kapasitas adaptif yang jauh lebih kuat.
+Prinsip biomekanis tersebut menjadi fondasi utama konsep **Resiliensi Komunitas**. Daya lenting kolektif tidak semata-mata bersandar pada ketahanan individual yang terisolasi, melainkan pada kapasitas sistem sosial untuk menjalin keterikatan psikologis dan struktural. Melalui jejaring ini, masyarakat tidak hanya sanggup bertahan di tengah hantaman krisis, tetapi juga memiliki kemampuan bangkit kembali (*bounce back*) dengan kapasitas adaptif yang jauh lebih kuat.
 
 ---
 
@@ -22,16 +22,16 @@ $$
 
 | Dimensi | Pendekatan Reaktif Tradisional | Pendekatan Resiliensi Adaptif |
 | :--- | :--- | :--- |
-| **Orientasi Waktu** | Pasca-kejadian (penanganan darurat) | Pra-kejadian (kesiapsiagaan dan mitigasi kultural) |
+| **Orientasi Waktu** | Pascakejadian (penanganan darurat) | Prakejadian (kesiapsiagaan dan mitigasi kultural) |
 | **Fokus Penanganan** | Kerusakan fisik dan logistik semata | Kapasitas psikososial dan modal relasional warga |
 | **Peran Komunitas** | Objek penerima bantuan pasif | Subjek penggerak dan perancang mitigasi mandiri |
 | **Sasaran Akhir** | Pengembalian ke kondisi rapuh sebelumnya | Adaptasi transformatif menuju sistem yang lebih tangguh |
 
 ---
 
-### Imunisasi Psikologis Pra-Bencana
+### Imunisasi Psikologis Prabencana
 
-Mitigasi mental merupakan rangkaian intervensi psikoedukasi terstruktur yang dirancang guna membangun ketahanan kognitif dan afektif sebelum disrupsi terjadi. Pendekatan ini mengadopsi prinsip profilaksis atau imunisasi: paparan terkontrol terhadap simulasi stresor memperkuat respon koping psikologis kolektif.
+Mitigasi mental merupakan rangkaian intervensi psikoedukasi terstruktur yang dirancang guna membangun ketahanan kognitif dan afektif sebelum disrupsi terjadi. Pendekatan ini mengadopsi prinsip profilaksis atau imunisasi: paparan terkontrol terhadap simulasi stresor memperkuat respons koping psikologis kolektif.
 
 Tujuan utama mitigasi mental adalah menggeser persepsi kelompok masyarakat dari kerangka mental *korban yang tak berdaya* (*helpless victim*) menuju kerangka *penyintas berdaya tangguh* (*empowered survivor*).
 
@@ -40,18 +40,18 @@ Pergeseran itu memisahkan dua jalur yang berangkat dari titik awal yang sama, sa
 ```mermaid
 flowchart LR
     accTitle: Dua jalur dari ketidaktahuan dan isolasi
-    accDescr: Ketidaktahuan dan isolasi menuju kerentanan psikologis lalu kepanikan massal. Melalui mitigasi mental, jalurnya berubah menjadi literasi, efikasi, dan ikatan, lalu kesiapan kognitif, lalu respon terarah dan adaptif.
+    accDescr: Ketidaktahuan dan isolasi menuju kerentanan psikologis lalu kepanikan massal. Melalui mitigasi mental, jalurnya berubah menjadi literasi, efikasi, dan ikatan, lalu kesiapan kognitif, lalu respons terarah dan adaptif.
     A["Ketidaktahuan & Isolasi"] --> B["Kerentanan Psikologis"]
     B --> C["Kepanikan Massal"]
     A -->|"Mitigasi Mental"| D["Literasi + Efikasi + Ikatan"]
     D --> E["Kesiapan Kognitif"]
-    E --> F["Respon Terarah & Adaptif"]
+    E --> F["Respons Terarah & Adaptif"]
 ```
 
 Tiga pilar utama dalam konstruksi mitigasi mental mencakup:
 
 1. **Literasi Risiko yang Transparan:** Penyampaian proyeksi ancaman dan kerentanan faktual tanpa eufemisme berlebihan, disertai rute solusi yang konkret. Ambiguitas dan ketiadaan informasi merupakan katalisator utama kecemasan massal.
-2. **Normalisasi Reaksi Stres Akut:** Edukasi bahwa respon somatik seperti tremor, takikardia, atau ketakutan sesaat adalah reaksi fisiologis alamiah terhadap situasi abnormal. Pemahaman ini mencegah munculnya eskalasi kecemasan sekunder (*anxiety about feeling anxious*).
+2. **Normalisasi Reaksi Stres Akut:** Edukasi bahwa respons somatik seperti tremor, takikardia, atau ketakutan sesaat adalah reaksi fisiologis alamiah terhadap situasi abnormal. Pemahaman ini mencegah munculnya eskalasi kecemasan sekunder (*anxiety about feeling anxious*).
 3. **Peningkatan Efikasi Kolektif (*Collective Efficacy*):** Keyakinan bersama terhadap kapasitas kelompok dalam melaksanakan protokol evakuasi, pertolongan pertama, dan stabilisasi lingkungan secara mandiri.
 
 Ketika warga memahami secara presisi arah jalur evakuasi, titik kumpul aman, dan prosedur operasional darurat, tingkat kecemasan situasional tereduksi secara signifikan karena kognisi dialihkan pada tindakan pemecahan masalah konkret (*problem-focused coping*).
@@ -67,19 +67,19 @@ Modal sosial komunitas bercabang menjadi tiga jenis ikatan, masing-masing dengan
 ```mermaid
 flowchart TD
     accTitle: Tiga cabang modal sosial komunitas
-    accDescr: Modal sosial komunitas terbagi menjadi bonding capital berupa ikatan horisontal mikro atau primer, bridging capital berupa jembatan lintas kelompok, dan linking capital berupa relasi vertikal ke otoritas.
-    M["Modal Sosial Komunitas"] --> A["Bonding Capital (Ikatan Horisontal Mikro/Primer)"]
+    accDescr: Modal sosial komunitas terbagi menjadi bonding capital berupa ikatan horizontal mikro atau primer, bridging capital berupa jembatan lintas kelompok, dan linking capital berupa relasi vertikal ke otoritas.
+    M["Modal Sosial Komunitas"] --> A["Bonding Capital (Ikatan Horizontal Mikro/Primer)"]
     M --> B["Bridging Capital (Jembatan Lintas Kelompok / Mesos)"]
     M --> C["Linking Capital (Relasi Vertikal ke Otoritas)"]
 ```
 
 Tiga tipologi modal sosial yang menopang resiliensi mencakup:
 
-* **Modal Rekat (*Bonding Social Capital*):** Ikatan emosional primer antar-anggota keluarga inti, kerabat dekat, atau kelompok homogen. Modal ini menyediakan perlindungan afektif mendalam, rasa kepemilikan, dan tempat berteduh darurat pertama.
-* **Modal Jembatan (*Bridging Social Capital*):** Hubungan lintas kelompok, rukun tetangga, asosiasi kemasyarakatan, atau komunitas antar-kampung. Modal ini memfasilitasi pertukaran informasi, mobilisasi sumber daya bersama, dan koordinasi logistik horizontal.
-* **Modal Taut (*Linking Social Capital*):** Hubungan vertikal antara komunitas warga dengan institusi formal berwenang (BPBD, TNI/Polri, penyedia layanan medis, akademisi, dan pemerintah daerah). Kepercayaan timbal-balik pada otoritas mempercepat kepatuhan terhadap instruksi evakuasi resmi.
+* **Modal Rekat (*Bonding Social Capital*):** Ikatan emosional primer antaranggota keluarga inti, kerabat dekat, atau kelompok homogen. Modal ini menyediakan perlindungan afektif mendalam, rasa kepemilikan, dan tempat berteduh darurat pertama.
+* **Modal Jembatan (*Bridging Social Capital*):** Hubungan lintas kelompok, rukun tetangga, asosiasi kemasyarakatan, atau komunitas antarkampung. Modal ini memfasilitasi pertukaran informasi, mobilisasi sumber daya bersama, dan koordinasi logistik horizontal.
+* **Modal Taut (*Linking Social Capital*):** Hubungan vertikal antara komunitas warga dengan institusi formal berwenang (BPBD, TNI/Polri, penyedia layanan medis, akademisi, dan pemerintah daerah). Kepercayaan timbal balik pada otoritas mempercepat kepatuhan terhadap instruksi evakuasi resmi.
 
-Komunitas yang secara rutin merawat ruang interaksi sosial (seperti kerja bakti, musyawarah warga, atau kegiatan keagamaan) secara konsisten mencatat prevalensi gangguan stres pascatrauma (*Post-Traumatic Stress Disorder* / PTSD) yang lebih rendah pascabencana, berkat aktifnya sistem dukungan sosial alami (*natural support system*).
+Komunitas yang secara rutin merawat ruang interaksi sosial (seperti kerja bakti, musyawarah warga, atau kegiatan keagamaan) cenderung mencatat prevalensi gangguan stres pascatrauma (*Post-Traumatic Stress Disorder* / PTSD) yang lebih rendah pascabencana, berkat aktifnya sistem dukungan sosial alami (*natural support system*).
 
 ---
 
@@ -88,14 +88,14 @@ Komunitas yang secara rutin merawat ruang interaksi sosial (seperti kerja bakti,
 Transformasi kesiapsiagaan mental memerlukan langkah-langkah praktis yang menyatu dengan rutinitas kemasyarakatan:
 
 1. **Pemetaan Partisipatif Kelompok Rentan:** Pendataan mendalam terhadap individu yang memerlukan pendampingan khusus (lansia, penyandang disabilitas, ibu hamil, balita, dan warga dengan penyakit kronis). Kejelasan pembagian peran pendampingan memberikan rasa kepastian kolektif.
-2. **Kanal Informasi Terverifikasi Berbasis Komunitas:** Pembangunan sistem komunikasi darurat multi-lapis (jaringan radio komunikasi warga, sirine lokal, hingga grup koordinasi daring) guna membendung disinformasi dan rumor spekulatif saat jaringan telekomunikasi utama terganggu.
+2. **Kanal Informasi Terverifikasi Berbasis Komunitas:** Pembangunan sistem komunikasi darurat multilapis (jaringan radio komunikasi warga, sirene lokal, hingga grup koordinasi daring) guna membendung disinformasi dan rumor spekulatif saat jaringan telekomunikasi utama terganggu.
 3. **Kaderisasi Dukungan Awal Psikologis (*Psychological First Aid*):** Pelatihan terapan bagi tokoh lokal, relawan pemuda, dan pemangku adat agar memiliki kecakapan mendengar aktif (*active listening*), menenangkan tanpa menggurui, dan menghubungkan warga terdampak dengan akses bantuan vital.
 
 ---
 
 ### Ketangguhan Kolektif Desa Lereng Vulkanik
 
-Sebuah pemukiman pedesaan di kawasan rawan bencana letusan gunung api merancang integrasi mitigasi fisik dan psikososial secara berkelanjutan.
+Sebuah permukiman pedesaan di kawasan rawan bencana letusan gunung api merancang integrasi mitigasi fisik dan psikososial secara berkelanjutan.
 
 Rincian kegiatan desa itu terbagi ke dalam tiga fase, dan tiap fase memuat tugasnya sendiri.
 
@@ -109,19 +109,19 @@ flowchart LR
     T["Fase Tanggap Darurat"] --> T1["Aktivasi pengeras suara terpusat (bebas hoaks)"]
     T --> T2["Evakuasi prioritas kelompok rentan oleh tim pemuda"]
     T --> T3["Dapur umum & ruang ramah anak aktif secara mandiri"]
-    P["Fase Pemulihan"] --> P1["Rekonstruksi partisipatif berbasis gotong-royong"]
+    P["Fase Pemulihan"] --> P1["Rekonstruksi partisipatif berbasis gotong royong"]
     P --> P2["Sesi saling bercerita terfasilitasi tokoh adat/agama"]
 ```
 
-* **Fase Kesiapsiagaan Pra-Bencana:**
+* **Fase Kesiapsiagaan Prabencana:**
   * Warga menyusun basis data spasial mandiri, menandai letak hunian keluarga rentan.
   * Pertemuan bulanan warga menyisipkan simulasi pengambilan keputusan (*tabletop exercise*) sesuai skenario kenaikan status vulkanik.
   * Pembagian peran fungsional: pemuda mengelola evakuasi fisik dan jalur transportasi, kelompok perempuan mengoordinasikan logistik nutrisi dan penanganan psikososial anak.
 
 * **Dinamika Saat Terjadi Erupsi:**
-  * Komunikasi komando terpusat melalui instalasi pengeras suara tunggal desa meniadakan kepanikan akibat rumor tak berdasar.
+  * Komunikasi komando terpusat melalui instalasi pengeras suara tunggal desa meredam kepanikan akibat rumor tak berdasar.
   * Tim evakuasi langsung menuju titik penjemputan warga rentan tanpa menunggu komando eksternal.
-  * Di lokasi penampungan sementara, keakraban antar-warga memungkinkan ventilasi emosi dan dukungan timbal-balik terjadi spontan tanpa harus menunggu intervensi konselor profesional.
+  * Di lokasi penampungan sementara, keakraban antarwarga memungkinkan ventilasi emosi dan dukungan timbal balik terjadi spontan tanpa harus menunggu intervensi konselor profesional.
 
 * **Capaian dan Dampak:** Pemulihan fungsional berlangsung lebih cepat karena kohesi sosial tidak terdisrupsi oleh tekanan bencana, melainkan bertransformasi menjadi modalitas kolektif yang memperkuat daya tahan jangka panjang.
 

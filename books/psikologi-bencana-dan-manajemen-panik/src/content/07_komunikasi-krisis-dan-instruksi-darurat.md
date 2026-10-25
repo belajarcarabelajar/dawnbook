@@ -8,7 +8,7 @@ Dalam psikologi bencana, komunikasi darurat bukan sekadar transmisi pesan verbal
 
 ### 1. Psikologi Penerimaan Informasi dalam Situasi Krisis
 
-Sebelum merumuskan pesan yang efektif, pemelajar perlu memahami mekanisme pemrosesan informasi otak manusia ketika berada di bawah tekanan stres ekstrem. Saat ancaman fisik mendadak muncul, sistem saraf simpatik memicu lonjakan hormon kortisol dan adrenalin yang mengalihkan fungsi otak dari neokorteks (pemikiran rasional) menuju amigdala (respon bertahan hidup). Kondisi ini memicu fenomena penurunan kognitif yang dikenal sebagai penyempitan kognitif (*cognitive narrowing* atau *tunnel vision*).
+Sebelum merumuskan pesan yang efektif, pemelajar perlu memahami mekanisme pemrosesan informasi otak manusia ketika berada di bawah tekanan stres ekstrem. Saat ancaman fisik mendadak muncul, lonjakan hormon kortisol dan adrenalin mengalihkan fungsi otak dari neokorteks (pemikiran rasional) menuju amigdala (respons bertahan hidup). Kondisi ini memicu fenomena penurunan kognitif yang dikenal sebagai penyempitan kognitif (*cognitive narrowing* atau *tunnel vision*).
 
 | Parameter Kognitif | Kondisi Normal | Kondisi Krisis Akut |
 | :--- | :--- | :--- |
@@ -44,7 +44,7 @@ Penyampaian instruksi darurat harus mengikuti struktur baku yang menghilangkan a
 Keberhasilan formula ini ditopang oleh tiga pilar komunikasi darurat (Prinsip 3C):
 
 - **Clear (Jelas):** Menggunakan kosakata lugas tanpa istilah teknis atau metafora yang memerlukan tafsir.
-- **Concise (Ringkas):** Membatasi kalimat pada instruksi inti yang padat suku kata.
+- **Concise (Ringkas):** Membatasi kalimat pada instruksi inti dengan sesedikit mungkin kata.
 - **Consistent (Konsisten):** Mengulang pesan yang sama persis tanpa mengubah susunan istilah pokok agar tidak membingungkan massa.
 
 #### Perbandingan Formulasi Pesan Darurat
@@ -112,7 +112,7 @@ Variabel dalam persamaan di atas merepresentasikan dimensi komunikasi sebagai be
 - $S$ = Indeks Kesederhanaan Kosakata (*Simplicity Index*)
 - $N$ = Tingkat Kebisingan Lingkungan dan Histeria Massa (*Noise Level*)
 
-Karakteristik kuadratik pada penyebut ($N^2$) menunjukkan bahwa peningkatan kecil pada kebisingan atau kepanikan massa akan menurunkan tingkat kejelasan instruksi secara eksponensial. Menaikkan volume suara komunikator ($V$) hanya memberikan dampak linier, yang sering kali kalah melawan kenaikan kuadratik tingkat kebisingan ($N^2$).
+Karakteristik kuadratik pada penyebut ($N^2$) menunjukkan bahwa peningkatan kecil pada kebisingan atau kepanikan massa akan menurunkan tingkat kejelasan instruksi secara kuadratik. Menaikkan volume suara komunikator ($V$) hanya memberikan dampak linier, yang sering kali kalah melawan kenaikan kuadratik tingkat kebisingan ($N^2$).
 
 Oleh karena itu, prioritas taktis pertama seorang komunikator darurat bukanlah berteriak lebih keras, melainkan menekan variabel $N$ terlebih dahulu melalui interupsi pola (meminta perhatian dan keheningan massal) sebelum meluncurkan butir instruksi keselamatan.
 
@@ -120,7 +120,7 @@ Oleh karena itu, prioritas taktis pertama seorang komunikator darurat bukanlah b
 
 ### 8. Pesan Evakuasi Lima Detik di Tengah Banjir Bandang
 
-Sebagai sintesis pemahaman komunikasi darurat, bayangkan skenario evakuasi banjir bandang mendadak di mana sistem kelistrikan padam total dan jendela waktu berbicara yang tersedia hanya lima detik sebelum sambungan terputus:
+Sebagai sintesis pemahaman komunikasi darurat, bayangkan skenario evakuasi banjir bandang mendadak ketika sistem kelistrikan padam total dan jendela waktu berbicara yang tersedia hanya lima detik sebelum sambungan terputus:
 
 > **"NAIK KE LANTAI TIGA SEKARANG!"**
 
@@ -130,4 +130,4 @@ Formulasi lima kata ini secara langsung memenuhi kriteria ketat komunikasi benca
 3. **Urgensi:** Seketika (*sekarang*).
 4. **Beban Kognitif Minimum:** Menghilangkan kata sambung atau pembuka formal yang tidak bernilai operasional.
 
-Dalam komunikasi krisis psikologis, prinsip *less is more* berlaku. Pengurangan jumlah kata berbanding lurus dengan peningkatan probabilitas tindakan penyelamatan yang tepat dan serentak.
+Dalam komunikasi krisis psikologis, prinsip *less is more* berlaku. Pengurangan kata yang tidak bernilai operasional cenderung meningkatkan probabilitas tindakan penyelamatan yang tepat dan serentak.

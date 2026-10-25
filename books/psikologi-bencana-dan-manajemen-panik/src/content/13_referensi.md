@@ -4,9 +4,9 @@ Aldrich, D. P. (2012). *Building resilience: Social capital in post-disaster rec
 
 American Psychiatric Association. (2022). *Diagnostic and statistical manual of mental disorders* (5th ed., text rev.). American Psychiatric Association Publishing. [https://doi.org/10.1176/appi.books.9780890425787](https://doi.org/10.1176/appi.books.9780890425787)
 
-Boyd, J. R. (1976). *Destruction and creation*. Air University Press. [https://www.airuniversity.af.edu/Portals/10/AUPress/Books/B_0151_Boyd_Discourse_Winning_Losing.pdf](https://www.airuniversity.af.edu/Portals/10/AUPress/Books/B_0151_Boyd_Discourse_Winning_Losing.pdf)
+Boyd, J. R. (1976). *Destruction and creation*. In G. T. Hammond (Ed.), *A discourse on winning and losing* (2018). Air University Press. [https://www.airuniversity.af.edu/Portals/10/AUPress/Books/B_0151_Boyd_Discourse_Winning_Losing.pdf](https://www.airuniversity.af.edu/Portals/10/AUPress/Books/B_0151_Boyd_Discourse_Winning_Losing.pdf)
 
-Boyd, J. R. (1986). *Patterns of conflict*. Air University Press. [https://www.airuniversity.af.edu/Portals/10/AUPress/Books/B_0151_Boyd_Discourse_Winning_Losing.pdf](https://www.airuniversity.af.edu/Portals/10/AUPress/Books/B_0151_Boyd_Discourse_Winning_Losing.pdf)
+Boyd, J. R. (1986). *Patterns of conflict*. In G. T. Hammond (Ed.), *A discourse on winning and losing* (2018). Air University Press. [https://www.airuniversity.af.edu/Portals/10/AUPress/Books/B_0151_Boyd_Discourse_Winning_Losing.pdf](https://www.airuniversity.af.edu/Portals/10/AUPress/Books/B_0151_Boyd_Discourse_Winning_Losing.pdf)
 
 Brymer, M., Jacobs, A., Layne, C., Pynoos, R., Ruzek, J., Steinberg, A., Vernberg, E., & Watson, P. (2006). *Psychological first aid: Field operations guide* (2nd ed.). National Child Traumatic Stress Network and National Center for PTSD. [https://www.nctsn.org/resources/psychological-first-aid-pfa-field-operations-guide-2nd-edition](https://www.nctsn.org/resources/psychological-first-aid-pfa-field-operations-guide-2nd-edition)
 

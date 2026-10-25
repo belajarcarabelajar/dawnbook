@@ -19,12 +19,12 @@ Penyempitan atensi ini terjadi secara fisik maupun kognitif. Atensi seseorang me
 Terdapat tiga bias kognitif yang paling sering melumpuhkan pertimbangan saat menghadapi bencana:
 
 1. **Bias Normalitas (*Normalcy Bias*):** Kecenderungan psikologis untuk meremehkan potensi bahaya atau menafsirkan tanda-tanda ancaman sebagai peristiwa rutin yang tidak berbahaya. Contohnya, menganggap aroma asap pekat sekadar latihan kebakaran biasa.
-2. **Bias Konfirmasi (*Confirmation Bias*):** Kecenderungan selektif untuk hanya menyerap informasi yang selaras dengan harapan pribadi, seperti terus mencari kabar bahwa debit air banjir akan segera surut, kendati fakta lapangan menunjukkan ketinggian air kian meluap.
+2. **Bias Konfirmasi (*Confirmation Bias*):** Kecenderungan selektif untuk hanya menyerap informasi yang selaras dengan harapan pribadi, seperti terus mencari kabar bahwa debit air banjir akan segera surut, kendati fakta lapangan menunjukkan air kian meninggi.
 3. **Bias Kelalaian (*Omission Bias*):** Ketakutan untuk mengambil tindakan aktif karena khawatir membuat keputusan keliru, yang pada akhirnya berujung pada kelumpuhan keputusan (*decisional paralysis*).
 
 ## 2. Siklus OODA (OODA Loop)
 
-Dalam ranah taktis militer dan penanganan tanggap darurat, kerangka kerja yang sangat teruji adalah **Siklus OODA (OODA Loop)** yang digagas oleh Kolonel John Boyd. Strategi ini menguraikan kekacauan situasi menjadi empat siklus berkelanjutan:
+Dalam ranah taktis militer dan penanganan tanggap darurat, kerangka kerja yang sangat teruji adalah **Siklus OODA (OODA Loop)** yang digagas oleh Kolonel John Boyd. Strategi ini menguraikan kekacauan situasi menjadi empat tahap dalam satu siklus berkelanjutan:
 
 | Tahap | Aktivitas Utama | Pertanyaan Kunci |
 | :--- | :--- | :--- |
@@ -57,7 +57,7 @@ Kapasitas memori kerja (*working memory*) menurun tajam di bawah pengaruh hormon
 
 - Tetapkan **tiga prioritas utama** tanpa menambah kerumitan daftar tindakan (contoh: 1. Amankan kelompok rentan atau anak-anak, 2. Ambil tas siaga bencana, 3. Evakuasi menuju titik kumpul melalui pintu darurat).
 
-### B. Heuristik Recognition-Primed Decision (RPD)
+### B. Model Recognition-Primed Decision (RPD)
 
 Para praktisi tanggap darurat berpengalaman jarang membandingkan seluruh alternatif secara melelahkan. Mereka lebih mengandalkan **pencocokan pola** (*pattern matching*):
 
@@ -66,7 +66,7 @@ Para praktisi tanggap darurat berpengalaman jarang membandingkan seluruh alterna
 
 ### C. Teknik Pemindaian Visual (Scanning)
 
-Secara sadar, arahkan pandangan mata bergerak ke kiri dan ke kanan secara lateral. Gerakan visual ini secara neurologis membantu mereduksi efek *tunnel vision*, sekaligus mengirimkan sinyal ke korteks prefrontal untuk memperluas kesadaran spasial dan mencari informasi tambahan.
+Secara sadar, arahkan pandangan mata bergerak ke kiri dan ke kanan secara lateral. Gerakan visual ini membantu mereduksi efek *tunnel vision*, sekaligus memperluas kesadaran spasial dan mencari informasi tambahan.
 
 ## 4. Formulasi Pengambilan Keputusan dalam Krisis
 
@@ -105,7 +105,7 @@ Mari telaah penerapan prinsip-prinsip ini dalam simulasi kedaruratan di lantai 1
 Membangun kesiapan kognitif memerlukan latihan berkelanjutan sebelum krisis sesungguhnya terjadi:
 
 - **Simulasi Mental (The What-If Exercise):** Saat berada di fasilitas publik, luangkan waktu sejenak untuk memetakan skenario kedaruratan: *"Jika gempa bumi terjadi detik ini, apa tiga langkah pertama yang wajib diambil?"* Latihan mental ini membangun jalur saraf (*neural pathways*) yang mempercepat respons di masa mendatang.
-- **Dialog Internal Terstruktur (Authoritative Self-Talk):** Memberi instruksi pada diri sendiri menggunakan nama pribadi (contoh: *"Budi, kendalikan napas, lihat tanda keluar darurat, dan bergerak sekarang."*) membantu menciptakan jarak psikologis dari rasa takut, memulihkan kendali eksekutif atas respons panik.
+- **Dialog Internal Terstruktur (Authoritative Self-Talk):** Memberi instruksi pada diri sendiri menggunakan nama pribadi (contoh: *"Budi, kendalikan napas, lihat tanda keluar darurat, dan bergerak sekarang."*) membantu menciptakan jarak psikologis dari rasa takut serta memulihkan kendali eksekutif atas respons panik.
 
 Dalam situasi kedaruratan, kesiapan kognitif untuk memproses informasi dan bertindak cepat merupakan pembeda utama antara kelumpuhan mental dan keselamatan.
 

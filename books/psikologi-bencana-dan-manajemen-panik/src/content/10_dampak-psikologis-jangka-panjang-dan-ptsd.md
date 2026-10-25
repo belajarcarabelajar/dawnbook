@@ -2,11 +2,11 @@
 
 Bencana alam atau krisis berskala masif sering kali diibaratkan seperti ledakan di tengah danau yang tenang. Gelombang fisik yang menghancurkan mungkin mereda dengan cepat, namun riak di permukaan air akan terus bergerak hingga ke tepian yang jauh, lama setelah ledakan itu berhenti.
 
-Dalam psikologi bencana, pemulihan fisik sebuah wilayah infrastruktur sering kali berlangsung jauh lebih cepat dibandingkan pemulihan kondisi mental para penghuninya. Bab ini mengkaji bagaimana riak psikologis pasca-krisis bermanifestasi menjadi trauma kronis, khususnya *Post-Traumatic Stress Disorder* (PTSD), serta membedah lintasan pemulihan psikologis jangka panjang.
+Dalam psikologi bencana, pemulihan infrastruktur fisik sebuah wilayah sering kali berlangsung jauh lebih cepat dibandingkan pemulihan kondisi mental para penghuninya. Bab ini mengkaji bagaimana riak psikologis pascakrisis bermanifestasi menjadi trauma kronis, khususnya *Post-Traumatic Stress Disorder* (PTSD), serta membedah lintasan pemulihan psikologis jangka panjang.
 
-## 1. Memahami Spektrum Trauma Pasca-Bencana
+## 1. Memahami Spektrum Trauma Pascabencana
 
-Bagi sebagian besar penyintas, reaksi stres akut segera setelah bencana merupakan respon adaptif yang wajar terhadap situasi yang tidak wajar. Namun, apabila reaksi tersebut menetap melampaui rentang waktu satu bulan dan secara signifikan melumpuhkan fungsi kehidupan sehari-hari, respon adaptif tersebut telah bergeser ke ranah psikopatologi jangka panjang.
+Bagi sebagian besar penyintas, reaksi stres akut segera setelah bencana merupakan respons adaptif yang wajar terhadap situasi yang tidak wajar. Namun, apabila reaksi tersebut menetap melampaui rentang waktu satu bulan dan secara signifikan melumpuhkan fungsi kehidupan sehari-hari, respons adaptif tersebut telah bergeser ke ranah psikopatologi jangka panjang.
 
 ### Gejala Umum Manifestasi Trauma Kronis
 
@@ -42,7 +42,7 @@ Sebagai analogi neurobiologis, kondisi PTSD menyerupai sistem alarm kebakaran ge
 
 ## 3. Model Pemulihan Komunitas Zunin & Myers
 
-Pemulihan psikososial pasca-bencana bukanlah proses linier yang bergerak stabil ke arah positif, melainkan lintasan dinamik dengan fluktuasi emosional yang tajam. Model Zunin & Myers memetakan fase-fase psikologis komunitas penyintas:
+Pemulihan psikososial pascabencana bukanlah proses linier yang bergerak stabil ke arah positif, melainkan lintasan dinamik dengan fluktuasi emosional yang tajam. Model Zunin & Myers memetakan fase-fase psikologis komunitas penyintas:
 
 1. **Fase Heroik (*Heroic Phase*):** Berlangsung segera setelah bencana melanda. Ditandai oleh ledakan energi altruistik tinggi, tindakan penyelamatan spontan, dan dorongan solidaritas untuk mempertahankan hidup sesama anggota komunitas.
 2. **Fase Bulan Madu (*Honeymoon Phase*):** Terjadi dalam rentang beberapa minggu pertama. Muncul optimisme kolektif yang didorong oleh kedatangan bantuan logistik, liputan media massa yang intens, serta janji rekonstruksi dari otoritas.
@@ -75,15 +75,15 @@ Selain PTSD, penyintas bencana kerap mengalami spektrum gangguan penyerta (*como
 - **Rasa Bersalah Penyintas (*Survivor Guilt*):** Beban moral yang mendalam dan melumpuhkan akibat selamat dari bencana sementara anggota keluarga atau rekan terdekat tewas. Fenomena ini sering menjadi hambatan terbesar dalam proses penerimaan diri dan terapi.
 - **Penyalahgunaan Zat (*Substance Use Disorder*):** Penggunaan alkohol atau obat sedatif sebagai mekanisme koping maladaptif untuk membungkam memori intrusif yang menyiksa.
 
-## 5. Penerapan Klinis pada Rekonstruksi Pasca-Tsunami
+## 5. Penerapan Klinis pada Rekonstruksi Pascatsunami
 
-**Skenario Kasus:** Santi merupakan seorang penyintas tsunami 2004. Dua tahun pasca-peristiwa, hunian fisiknya telah selesai dibangun kembali. Kendati demikian, ia menolak keras untuk mendekati area pesisir pantai, termasuk untuk keperluan mata pencaharian. Setiap kali mendengar deru mesin truk berat (yang menyerupai frekuensi suara gemuruh gelombang tsunami), frekuensi denyut jantungnya melonjak drastis, tubuhnya gemetar, dan ia mengalami serangan panik akut dengan sensasi tercekik.
+**Skenario Kasus:** Santi merupakan seorang penyintas tsunami 2004. Dua tahun pascaperistiwa, hunian fisiknya telah selesai dibangun kembali. Kendati demikian, ia menolak keras untuk mendekati area pesisir pantai, termasuk untuk keperluan mata pencaharian. Setiap kali mendengar deru mesin truk berat (yang menyerupai frekuensi suara gemuruh gelombang tsunami), frekuensi denyut jantungnya melonjak drastis, tubuhnya gemetar, dan ia mengalami serangan panik akut dengan sensasi tercekik.
 
 **Formulasi Klinis dan Intervensi:**
 
-1. **Identifikasi Simptom:** Santi menunjukkan manifestasi klasik dari *klaster penghindaran* (menolak area pesisir) dan *klaster hiperarousal/reaktivitas* (respons panik otomatis terhadap stimulus auditori analog).
+1. **Identifikasi Simptom:** Santi menunjukkan manifestasi klasik dari *klaster penghindaran* (menolak area pesisir) dan *klaster intrusi* (reaksi distres fisiologis terhadap stimulus auditori analog).
 2. **Protokol Intervensi:**
-   - **Psikoedukasi Neurobiologis:** Membantu Santi memahami bahwa respon fisiologis tubuhnya merupakan mekanisme pertahanan amigdala yang terkalibrasi secara berlebihan, bukan tanda kelemahan karakter.
+   - **Psikoedukasi Neurobiologis:** Membantu Santi memahami bahwa respons fisiologis tubuhnya merupakan mekanisme pertahanan amigdala yang terkalibrasi secara berlebihan, bukan tanda kelemahan karakter.
    - **Terapi Desensitisasi Sistematis (*Systematic Desensitization*) & EMDR:** Paparan bertahap (*in vivo* dan *in sensu*) terhadap stimulus suara dan visual dalam lingkungan klinis yang terkontrol, dipadukan dengan stimulasi bilateral untuk memproses ulang memori traumatik yang tersimpan secara terfragmentasi.
    - **Kelompok Dukungan Sebaya (*Peer Support Group*):** Interaksi terstruktur dengan sesama penyintas untuk menormalisasi pengalaman emosional, mengurangi isolasi sosial, dan merestrukturisasi atribusi makna hidup.
 
@@ -100,7 +100,7 @@ Pemulihan psikologis komprehensif mengandalkan modalitas berbasis bukti (*eviden
 
 ## Kapan Bantuan Profesional Diperlukan?
 
-Intervensi klinis mendesak wajib dicari apabila seorang penyintas atau individu di sekitar lingkungan kita mengalami indikator berikut selama lebih dari empat minggu pasca-peristiwa bencana:
+Intervensi klinis mendesak wajib dicari apabila seorang penyintas atau individu di sekitar lingkungan kita mengalami indikator berikut selama lebih dari empat minggu pascabencana (kecuali butir pertama, yang menuntut bantuan segera tanpa menunggu empat minggu):
 
 1. Munculnya ideasi atau dorongan aktif untuk menyakiti diri sendiri maupun orang lain.
 2. Disfungsi okupasional dan domestik yang parah (ketidakmampuan merawat diri, bekerja, atau berinteraksi secara fungsional).

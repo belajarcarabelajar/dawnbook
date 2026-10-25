@@ -9,13 +9,13 @@ Skema berikut merangkum jalur regulasi sistem saraf otonom, dari ancaman bencana
 ```mermaid
 flowchart TD
     accTitle: Skema regulasi sistem saraf otonom
-    accDescr: Ancaman bencana memicu amigdala dalam hiperarousal atau panik. Lewat intervensi regulasi, tiga teknik bekerja, yaitu pernapasan taktis menuju stimulasi nervus vagus, grounding 5-4-3-2-1 menuju reorientasi sensorik kortikal, dan instructional talk menuju rekonstruksi kognitif logis, lalu korteks prefrontal teraktivasi dan menghasilkan keputusan rasional.
+    accDescr: Ancaman bencana memicu amigdala dalam hiperarousal atau panik. Lewat intervensi regulasi, tiga teknik bekerja, yaitu pernapasan taktis menuju stimulasi nervus vagus, grounding 5-4-3-2-1 menuju reorientasi sensorik kortikal, dan instructional self-talk menuju rekonstruksi kognitif logis, lalu korteks prefrontal teraktivasi dan menghasilkan keputusan rasional.
     A["Ancaman Bencana"] --> B["Amigdala (Hiperarousal / Panik)"]
     B -->|"Intervensi Regulasi"| T
     subgraph T["Teknik Regulasi"]
         T1["1. Pernapasan Taktis"] --> H1["Stimulasi Nervus Vagus"]
         T2["2. Grounding 5-4-3-2-1"] --> H2["Reorientasi Sensorik Kortikal"]
-        T3["3. Instructional Talk"] --> H3["Rekonstruksi Kognitif Logis"]
+        T3["3. Instructional Self-Talk"] --> H3["Rekonstruksi Kognitif Logis"]
     end
     T --> K["Korteks Prefrontal Teraktivasi"]
     K --> R["Keputusan Rasional"]
@@ -31,7 +31,7 @@ Pernapasan taktis merupakan metode modulasi pernapasan terstruktur yang diterapk
 
 Ketika serangan panik terjadi, tubuh secara otomatis mengadopsi pola napas dangkal dan cepat (*hiperventilasi*). Pola ini menurunkan kadar karbon dioksida dalam darah, memicu vasokonstriksi serebral, dan mengirimkan sinyal bahaya lanjutan ke amigdala. 
 
-Melalui pernapasan taktis dengan ritme terkontrol, individu merangsang **Saraf Vagus** (*Nervus Vagus*), komponen utama dari sistem saraf parasimpatis. Stimulasi vagal melepaskan asetilkolin yang bekerja langsung menurunkan frekuensi denyut jantung, meredakan ketegangan otot lurik, serta mengembalikan perfusi oksigen optimal ke korteks serebral.
+Melalui pernapasan taktis dengan ritme terkontrol, individu merangsang **Saraf Vagus** (*Nervus Vagus*), komponen utama dari sistem saraf parasimpatis. Stimulasi vagal melepaskan asetilkolin yang bekerja langsung menurunkan frekuensi denyut jantung, meredakan ketegangan tubuh secara umum, serta mengembalikan perfusi oksigen optimal ke korteks serebral.
 
 #### Latihan Metode Kotak (Box Breathing)
 
@@ -54,12 +54,12 @@ stateDiagram-v2
     Kosong --> Tarik : siklus berikutnya
 ```
 
-1. **Inhalasi (4 Detik):** Tarik udara perlahan melalui rongga hidung. Pastikan diafragma mengembang ke arah luar tanpa mengangkat bahu secara berlebihan.
+1. **Inhalasi (4 Detik):** Tarik udara perlahan melalui rongga hidung. Pastikan perut mengembang ke arah luar tanpa mengangkat bahu secara berlebihan.
 2. **Retensi Penuh (4 Detik):** Tahan udara di dalam rongga dada secara stabil tanpa menegangkan otot leher atau pita suara.
-3. **Ekshalasi (4 Detik):** Hembuskan udara secara perlahan dan konstan melalui bibir yang sedikit dirapatkan, menyerupai hembusan terarah.
+3. **Ekshalasi (4 Detik):** Embuskan udara secara perlahan dan konstan melalui bibir yang sedikit dirapatkan, menyerupai embusan terarah.
 4. **Retensi Kosong (4 Detik):** Pertahankan kondisi paru-paru dalam keadaan kosong selama empat detik sebelum memulai siklus berikutnya.
 
-> **Catatan Prosedural:** Pengulangan siklus minimal empat kali secara berurutan terbukti secara klinis mampu mendekompresi ketegangan simpatis dan menjernihkan persepsi kognitif yang sempat terdistorsi.
+> **Catatan Prosedural:** Pengulangan siklus beberapa kali secara berurutan dapat membantu meredakan ketegangan simpatis dan menjernihkan persepsi kognitif yang sempat terdistorsi.
 
 ---
 
@@ -67,7 +67,7 @@ stateDiagram-v2
 
 Dalam situasi bencana, arus pikiran sering kali terdistorsi oleh kecenderungan katastrofisasi, yaitu proyeksi mental destruktif tentang skenario terburuk masa depan. *Grounding* sensorik adalah instrumen psikologis untuk mereorientasi kesadaran kembali ke titik jangkar ruang dan waktu saat ini (*here and now*).
 
-Metode ini memindahkan dominasi aktivitas saraf dari **Amigdala** (pusat pemrosesan rasa takut reaktif) menuju **Korteks Prefrontal** (pusat integrasi sensorik dan logika analitis).
+Metode ini memindahkan dominasi aktivitas saraf dari **Amigdala** (pusat pemrosesan rasa takut reaktif) menuju **Korteks Prefrontal** (pusat fungsi eksekutif dan logika analitis).
 
 #### Langkah-Langkah Operasional Sensorik
 
@@ -77,9 +77,9 @@ Metode ini memindahkan dominasi aktivitas saraf dari **Amigdala** (pusat pemrose
 | **4 Objek** | Taktil | Mengidentifikasi sensasi fisik langsung: gesekan kain pakaian, suhu dingin pegangan tangga, kekerasan pijakan kaki, atau genggaman tali ransel. |
 | **3 Sumber** | Auditori | Memilah suara nyata di lingkungan: dengungan generator darurat, instruksi petugas evakuasi, atau ritme tarikan napas sendiri. |
 | **2 Aroma** | Olfaktori | Mendeteksi aroma partikulat di udara: bau debu reruntuhan, aroma kayu basah, atau aroma kain masker. |
-| **1 Sensasi** | Gustatori | Memperhatikan sensasi pada indra pengecap: kelembapan rongga mulut atau sisa rasa mineral air minum. |
+| **1 Sensasi** | Gustatori | Memperhatikan sensasi pada indra pengecap: sisa rasa mineral air minum. |
 
-Efektivitas teknik ini bertumpu pada hukum keterbatasan kapasitas kognitif (*cognitive load limitation*). Otak manusia tidak mampu mempertahankan kepanikan intensitas tinggi saat seluruh modalitas sensorik diarahkan secara aktif untuk mengumpulkan dan memetakan data lingkungan yang faktual.
+Efektivitas teknik ini bertumpu pada prinsip keterbatasan kapasitas kognitif (*cognitive load limitation*). Kepanikan intensitas tinggi cenderung sulit dipertahankan saat seluruh modalitas sensorik diarahkan secara aktif untuk mengumpulkan dan memetakan data lingkungan yang faktual.
 
 ---
 
@@ -105,7 +105,7 @@ Instruksi mandiri yang efektif harus memenuhi kriteria singkat, imperatif, dan b
 
 ---
 
-### 4. Penerapan Lapangan pada Penyintas Pasca-Gempa
+### 4. Penerapan Lapangan pada Penyintas Pascagempa
 
 Sebagai gambaran praktis, tinjau situasi seorang penyintas yang berada di lantai lima sebuah gedung bertingkat saat gempa tektonik berkekuatan besar melanda. Setelah getaran utama mereda, pasokan listrik terputus dan alarm darurat menyala. Terjadi manifestasi panik akut yang ditandai oleh kelemahan motorik ekstrem, penyempitan lapang pandang (*tunnel vision*), dan kebingungan spasial.
 
@@ -142,7 +142,7 @@ Jika dibiarkan tanpa sistem pendinginan, tekanan emosional akan melampaui batas 
 
 - **Pernapasan Taktis** berperan mereduksi suplai panas pada sumber pembakaran (*fuel reduction*).
 - **Metode Grounding** berfungsi mengalirkan fluida pendingin untuk menstabilkan temperatur sistem (*heat absorption*).
-- **Dialog Internal Fungsional** bertindak sebagai kalibrasi ulang panel instrumen (*system recalibration*), mempertahankan operasi sistem pada rentang kerja yang aman bagi pengambilan keputusan kritis.
+- **Dialog Internal Terarah** bertindak sebagai kalibrasi ulang panel instrumen (*system recalibration*), mempertahankan operasi sistem pada rentang kerja yang aman bagi pengambilan keputusan kritis.
 
 > **Wawasan Kunci:** Ketenangan psikologis bukanlah ketiadaan rasa takut, melainkan kapasitas neurokognitif untuk **mengelola dan mengarahkan** ketakutan tersebut, sehingga kesadaran rasional tetap memegang kendali penuh atas setiap tindakan penyelamatan diri.
 
@@ -156,4 +156,4 @@ Untuk memastikan kesiapan refleks fisiologis saat krisis terjadi, berikut matrik
 | :--- | :--- | :--- |
 | **Kapasitas Vagal** | Eksekusi otomatis *Box Breathing* saat ritme napas meningkat. | Mampu menstabilkan ritme pernapasan dalam \\( 4 \\) siklus pertama. |
 | **Kecepatan Reorientasi** | Pemetaan lima objek visual dan taktil di lingkungan baru. | Selesai dalam durasi kurang dari \\( 10 \\) detik tanpa keraguan. |
-| **Disiplin Kognitif** | Penggantian narasi katastrofik dengan kalimat komando fungsional. | Terbentuknya rumusan aksi tunggal dalam waktu \\( 3 \\) detik pasca-kejutan. |
+| **Disiplin Kognitif** | Penggantian narasi katastrofik dengan kalimat komando fungsional. | Terbentuknya rumusan aksi tunggal dalam waktu \\( 3 \\) detik pascakejutan. |

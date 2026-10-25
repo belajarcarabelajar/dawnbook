@@ -1,8 +1,8 @@
 ## Simulasi dan Pelatihan Kesiapsiagaan Mental
 
-Pertanyaan yang sering muncul dalam krisis adalah mengapa seorang penerbang profesional dapat tetap tenang saat instrumen mesin pesawat gagal total. Hal serupa dapat ditanyakan tentang personel pemadam kebakaran yang sanggup menembus bangunan yang terbakar tanpa keraguan yang melumpuhkan. Respons terukur tersebut bukan lahir dari ketiadaan rasa takut, melainkan karena sirkuit neural di otak telah terkondisikan secara mendalam melalui simulasi berulang.
+Pertanyaan yang sering muncul dalam krisis adalah mengapa seorang penerbang profesional dapat tetap tenang saat instrumen mesin pesawat gagal total. Hal serupa dapat ditanyakan tentang personel pemadam kebakaran yang sanggup menembus bangunan yang terbakar tanpa keraguan yang melumpuhkan. Respons terukur tersebut bukan lahir dari ketiadaan rasa takut, melainkan dari sirkuit neural di otak yang telah terkondisikan secara mendalam melalui simulasi berulang.
 
-Dalam psikologi bencana, terdapat jarak yang lebar antara *mengetahui protokol keselamatan secara teoretis* dan *mengeksekusi tindakan protektif secara nyata* ketika kadar hormon katekolamin serta kortisol melonjak di sistem saraf simpatis. Latihan berbasis skenario yang terstruktur bertujuan mentransformasikan reaksi instingtif manusia dari kepanikan (*panic freeze*) menjadi otomatisasi adaptif yang menyelamatkan nyawa.
+Dalam psikologi bencana, terdapat jarak yang lebar antara *mengetahui protokol keselamatan secara teoretis* dan *mengeksekusi tindakan protektif secara nyata* ketika kadar hormon katekolamin serta kortisol melonjak. Latihan berbasis skenario yang terstruktur bertujuan mentransformasikan reaksi instingtif manusia dari kepanikan (*panic freeze*) menjadi otomatisasi adaptif yang menyelamatkan nyawa.
 
 ---
 
@@ -24,7 +24,7 @@ flowchart TD
     C --> E["Analisis Rasional Terhambat (Memori Deklaratif Gagal)"]
 ```
 
-> **Wawasan Neuropsikologi:** Simulasi berulang bertindak sebagai jembatan yang memindahkan protokol keselamatan dari memori deklaratif jangka pendek yang rapuh menuju memori prosedural di ganglia basalis (*basal ganglia*) dan serebelum (*cerebellum*). Memori prosedural memiliki ketahanan tinggi terhadap lonjakan stres dan dapat dieksekusi tanpa beban komputasi kognitif yang tinggi.
+> **Wawasan Neuropsikologi:** Simulasi berulang bertindak sebagai jembatan yang memindahkan protokol keselamatan dari memori deklaratif yang rapuh menuju memori prosedural di ganglia basalis (*basal ganglia*) dan serebelum (*cerebellum*). Memori prosedural memiliki ketahanan tinggi terhadap lonjakan stres dan dapat dieksekusi tanpa beban komputasi kognitif yang tinggi.
 
 ---
 
@@ -37,12 +37,12 @@ Isi setiap fase SIT, berikut keterampilan yang dilatih di dalamnya, tersusun dal
 ```mermaid
 flowchart TD
     accTitle: Tiga Fase Utama Stress Inoculation Training (SIT)
-    accDescr: Fase 1 edukasi konseptual memuat pemahaman respon somatik dan pemaknaan ulang stres. Fase 2 penguasaan keterampilan memuat pernapasan taktis, dialog internal konstruktif, dan protokol komunikasi terstruktur. Fase 3 penerapan dan simulasi memuat latihan skenario bertingkat dan simulasi realitas tinggi.
+    accDescr: Fase 1 edukasi konseptual memuat pemahaman respons somatik dan pemaknaan ulang stres. Fase 2 penguasaan keterampilan memuat pernapasan taktis, dialog internal konstruktif, dan protokol komunikasi terstruktur. Fase 3 penerapan dan simulasi memuat latihan skenario bertingkat dan simulasi realitas tinggi.
     subgraph F1["Fase 1: Edukasi Konseptual (Conceptualization Phase)"]
-        A1["Memahami respon somatik (takikardia, hiperventilasi)"]
+        A1["Memahami respons somatik (takikardia, hiperventilasi)"]
         A2["Memaknai ulang stres sebagai alarm kesiapan"]
     end
-    subgraph F2["Fase 2: Penguasaan Keterampilan (Skills Acquisition)"]
+    subgraph F2["Fase 2: Penguasaan Keterampilan (Skills Acquisition and Rehearsal)"]
         B1["Teknik pernapasan taktis (Box Breathing / 4x4)"]
         B2["Dialog internal konstruktif (Self-Talk Regulation)"]
         B3["Protokol komunikasi terstruktur (SBAR / Closed-Loop)"]
@@ -57,13 +57,13 @@ flowchart TD
 
 1. **Fase Edukasi Konseptual (*Conceptualization Phase*):** Pemelajar diajak mengenali manifestasi somatik dari respons stres (peningkatan denyut jantung, ketegangan otot, pernapasan dangkal) dan memahami bahwa gejala tersebut adalah respons fisiologis alami tubuh, bukan tanda kelemahan mental.
 2. **Fase Penguasaan Keterampilan (*Skills Acquisition and Rehearsal*):** Pemelajar dilatih teknik regulasi diri aktif, seperti pernapasan taktis (*tactical box breathing*), restrukturisasi kognitif (*cognitive reframing*), serta protokol penanganan rintangan sederhana.
-3. **Fase Aplikasi dan Pengujian (*Application and Follow-Through*):** Keterampilan yang telah dikuasai diuji secara bertahap melalui latihan peran (*role-playing*), simulasi bertekanan waktu, hingga skenario lapangan dengan stresor lingkungan nyata.
+3. **Fase Penerapan dan Simulasi (*Application and Follow-Through*):** Keterampilan yang telah dikuasai diuji secara bertahap melalui latihan peran (*role-playing*), simulasi bertekanan waktu, hingga skenario lapangan dengan stresor lingkungan nyata.
 
 ---
 
 ### 3. Dinamika Neuroplastisitas dan Otomatisasi Respons
 
-Ketika suatu tindakan protektif dipraktikkan secara konsisten dalam kondisi yang menyerupai realitas, koneksi sinaptik antar-neuron yang terlibat dalam respons tersebut mengalami penguatan struktural (*Long-Term Potentiation*). Gagasan ini berakar pada prinsip yang dirumuskan Donald Hebb (1949), yang kemudian diringkas Carla Shatz (1992) menjadi *cells that fire together, wire together*.
+Ketika suatu tindakan protektif dipraktikkan secara konsisten dalam kondisi yang menyerupai realitas, koneksi sinaptik antarneuron yang terlibat dalam respons tersebut mengalami penguatan struktural (*Long-Term Potentiation*). Gagasan ini berakar pada prinsip yang dirumuskan Donald Hebb (1949), yang kemudian diringkas Carla Shatz (1992) menjadi *cells that fire together, wire together*.
 
 Secara konseptual, efektivitas respons tindakan krisis dapat dimodelkan melalui hubungan berikut:
 
@@ -96,9 +96,9 @@ Efektivitas pelatihan kesiapsiagaan bergantung pada tingkat kemiripan (*fidelity
 | **High-Fidelity (Simulasi Lapangan Penuh)** | Rekayasa skenario skala penuh dengan asap buatan, pemadaman listrik, distorsi suara, dan korban buatan (*moulage*). | Tinggi: Melibatkan saturasi sensorik dan disorientasi spasial. | Pengujian memori prosedural, ketahanan emosional, dan fleksibilitas improvisasi tim. |
 
 Komponen penting dalam simulasi berfidelitas tinggi mencakup:
-- **Realisme Sensorik (*Sensory Fidelity*):** Rangsangan auditori (deru sirine), visual (pencahayaan darurat minim), dan taktil membantu sistem saraf mengenali pola bahaya sesungguhnya.
+- **Realisme Sensorik (*Sensory Fidelity*):** Rangsangan auditori (deru sirene), visual (pencahayaan darurat minim), dan taktil membantu sistem saraf mengenali pola bahaya sesungguhnya.
 - **Variabel Kejutan (*Injected Uncertainty*):** Skenario yang terlalu teratur meninabobokan kesiapsiagaan. Memasukkan anomali (seperti tangga darurat yang terhalang reruntuhan atau putusnya komunikasi radio) melatih fleksibilitas adaptif.
-- **Evaluasi Terstruktur (*Debriefing / After-Action Review*):** Sesi telaah pasca-latihan untuk mengidentifikasi deviasi antara prosedur baku dan eksekusi riil, mengoreksi kesalahan persepsi tanpa menyematkan penghakiman personal.
+- **Evaluasi Terstruktur (*Debriefing / After-Action Review*):** Sesi telaah pascalatihan untuk mengidentifikasi deviasi antara prosedur baku dan eksekusi riil, mengoreksi kesalahan persepsi tanpa menyematkan penghakiman personal.
 
 ---
 
@@ -120,11 +120,11 @@ Sasaran pengondisiannya adalah mengulang skenario interaktif ini sampai tindakan
 #### Ketahanan Prosedural pada Pendaratan Darurat Sungai Hudson (2009)
 Pada 15 Januari 2009, US Airways Penerbangan 1549 kehilangan daya dorong kedua mesin akibat tabrakan kawanan burung (*bird strike*) sesaat setelah lepas landas dari New York. Kapten Chesley "Sully" Sullenberger bersama First Officer Jeffrey Skiles berhasil mendaratkan pesawat di atas permukaan Sungai Hudson tanpa menimbulkan korban jiwa.
 
-Keberhasilan ini bukan semata-mata produk intuisi spontan, melainkan hasil dari ribuan jam pelatihan berbasis simulator, pemahaman mendalam atas prinsip *Crew Resource Management* (CRM), dan kepatuhan pada daftar periksa (*emergency checklist*) yang telah terotomatisasi. Alih-alih membuang kapasitas kognitif untuk panik, seluruh energi mental dialokasikan secara presisi pada pengendalian aerodinamika pesawat dan kalkulasi opsi pendaratan yang realistis.
+Keberhasilan ini bukan semata-mata produk intuisi spontan, melainkan hasil dari pelatihan berbasis simulator, pemahaman mendalam atas prinsip *Crew Resource Management* (CRM), dan kepatuhan pada daftar periksa (*emergency checklist*) yang telah terotomatisasi. Alih-alih membuang kapasitas kognitif untuk panik, seluruh energi mental dialokasikan secara presisi pada pengendalian aerodinamika pesawat dan kalkulasi opsi pendaratan yang realistis.
 
 #### Penerapan di Tingkat Organisasi dan Komunitas
 1. **Latihan Evakuasi Terjadwal di Gedung Bertingkat:** Pelatihan tidak sekadar berjalan menuju tangga darurat utama, melainkan menyimulasikan pemblokiran akses utama sehingga penghuni terbiasa menggunakan jalur alternatif tanpa keraguan.
-2. **Kesiapsiagaan Rumah Tangga:** Setiap anggota keluarga dilatih mengenali lokasi katup utama gas, sakelar pemutus listrik (*MCB*), rute evakuasi terdekat, serta nomor kontak darurat terpadu di luar kota.
+2. **Kesiapsiagaan Rumah Tangga:** Setiap anggota keluarga dilatih mengenali lokasi katup utama gas, sakelar pemutus listrik (*MCB*), rute evakuasi terdekat, serta nomor kontak darurat di luar kota.
 
 ---
 
