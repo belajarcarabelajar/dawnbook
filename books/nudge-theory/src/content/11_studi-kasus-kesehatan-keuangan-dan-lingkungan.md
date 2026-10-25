@@ -14,8 +14,8 @@ Di Eropa, terdapat perbedaan drastis dalam tingkat partisipasi donor organ antar
 
 Perbedaan ekstrem ini terjadi karena desain **Pilihan Standar (Defaults)**, bukan karena perbedaan tingkat moralitas penduduk:
 
-- **Jerman (Opt-in):** Pilihan bawaan (*default*) menetapkan bahwa setiap orang secara otomatis berstatus bukan donor. Untuk berpartisipasi, warga harus secara aktif mencentang kotak khusus atau mengisi formulir pendaftaran. Hal ini membutuhkan tindakan nyata.
-- **Austria (Opt-out):** Kebalikannya, status donor adalah pilihan bawaan untuk setiap warga negara. Siapa saja yang keberatan harus secara sadar memilih keluar dengan mencentang kolom penolakan.
+- **Jerman (Opt-in):** Pilihan standar (*default*) menetapkan bahwa setiap orang secara otomatis berstatus bukan donor. Untuk berpartisipasi, warga harus secara aktif mencentang kotak khusus atau mengisi formulir pendaftaran. Hal ini membutuhkan tindakan nyata.
+- **Austria (Opt-out):** Kebalikannya, status donor adalah pilihan standar untuk setiap warga negara. Siapa saja yang keberatan harus secara sadar memilih keluar dengan mencentang kolom penolakan.
 
 Grafik berikut membandingkan tingkat partisipasi donor organ di kedua negara tersebut.
 
@@ -29,7 +29,7 @@ xychart
     bar [12, 99]
 ```
 
-> **Insight:** Inersia manusia sangat kuat. Kebanyakan orang akan mengikuti pilihan bawaan yang sudah ditentukan secara otomatis oleh sistem daripada melakukan upaya kognitif untuk mengubahnya.
+> **Insight:** Inersia manusia sangat kuat. Kebanyakan orang akan mengikuti pilihan standar yang sudah ditentukan secara otomatis oleh sistem daripada melakukan upaya kognitif untuk mengubahnya.
 
 ### Desain Formulir SIM
 

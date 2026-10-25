@@ -45,7 +45,7 @@ P(\text{Donor} \mid \text{Opt-out}) \approx 0.99 \gg P(\text{Donor} \mid \text{O
 $$
 </div>
 
-Perbedaan tingkat persetujuan yang kontras ini terjadi karena kekuatan pilihan bawaan (default), bukan karena tingkat kepedulian sosial masyarakat di negara-negara tersebut berbeda.
+Perbedaan tingkat persetujuan yang kontras ini terjadi karena kekuatan pilihan standar (default), bukan karena tingkat kepedulian sosial masyarakat di negara-negara tersebut berbeda.
 
 ## 4\. Implementasi dalam Dunia Digital & Engineering
 
@@ -80,7 +80,7 @@ Karena *default* berpengaruh besar, arsitek pilihan memikul tanggung jawab moral
 **Prinsip Desain Default yang Baik:**
 
 1. **Fokus pada Manfaat Pengguna:** Pilihan standar harus berorientasi pada kebaikan mayoritas pengguna, bukan demi keuntungan sepihak perusahaan.
-2. **Kemudahan untuk Membatalkan:** Proses mengubah pilihan bawaan harus dirancang sesederhana mungkin, misalnya cukup dengan satu atau dua klik.
+2. **Kemudahan untuk Membatalkan:** Proses mengubah pilihan standar harus dirancang sesederhana mungkin, misalnya cukup dengan satu atau dua klik.
 3. **Transparansi Informasi:** Hindari menyembunyikan pengaturan default dalam teks berukuran kecil atau di halaman yang sulit diakses.
 
 > **Analisis Utama:** Pilihan standar mempermudah arah navigasi tanpa membatasi kebebasan memilih. Arsitektur pilihan yang baik memandu pengguna mencapai tujuan mereka, sekaligus tetap memberikan ruang untuk mengambil arah berbeda secara bebas.

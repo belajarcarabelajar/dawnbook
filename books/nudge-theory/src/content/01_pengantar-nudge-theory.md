@@ -17,7 +17,7 @@ Seorang **Arsitek Pilihan** adalah siapa saja yang bertanggung jawab untuk menyu
 - **Pemerintah** dalam menyusun formulir perpajakan nasional.
 - **Orang tua** yang menyajikan sayur segar di piring anak dengan cara yang menarik.
 
-> "Seorang arsitek pilihan memiliki tanggung jawab untuk menyusun konteks keputusan sedemikian rupa sehingga pengguna tetap memiliki kebebasan memilih, namun diarahkan menuju hasil yang lebih baik bagi diri mereka sendiri."
+> "Seorang arsitek pilihan memiliki tanggung jawab untuk menyusun konteks keputusan sedemikian rupa sehingga pengguna tetap memiliki kebebasan memilih, tetapi diarahkan menuju hasil yang lebih baik bagi diri mereka sendiri."
 
 ## Tata Letak Makanan di Kantin Sekolah
 
