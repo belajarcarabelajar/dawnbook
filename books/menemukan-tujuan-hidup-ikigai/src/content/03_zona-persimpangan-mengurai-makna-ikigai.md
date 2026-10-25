@@ -2,7 +2,7 @@
 
 Kini, setelah keempat pilar utama Ikigai dipahami secara terpisah, saatnya melihat bagaimana pilar-pilar itu saling berinteraksi dan berpadu. Perpaduan itu menciptakan area persimpangan, dan konsep zona persimpangan ini penting karena di sinilah tujuan hidup mulai terlihat.
 
-> Ikigai muncul dari perpaduan keempat pilarnya, dan hasilnya lebih bernilai dari sekadar gabungan bagian-bagiannya.
+> Ikigai muncul dari perpaduan keempat pilarnya, dan hasilnya lebih bernilai daripada sekadar gabungan bagian-bagiannya.
 
 Secara visual, Ikigai sering digambarkan melalui diagram Venn empat lingkaran. Setiap lingkaran mewakili satu pilar, dan area tumpang tindihnya menggambarkan arah hidup kita.
 
@@ -14,13 +14,13 @@ Mari kita bedah persimpangan-persimpangan yang muncul dari gabungan dua atau tig
 
 Ketika dua pilar utama bertemu, area yang tercipta memiliki karakteristik unik meski belum mencapai tahap Ikigai sepenuhnya.
 
-Area **Passion** terbentuk ketika kamu menggabungkan hal yang kamu cintai dengan hal yang kamu kuasai. Di zona ini, kamu menemukan kesenangan sekaligus keunggulan. Aktivitasnya sering kali membawa kamu ke dalam kondisi *flow*, di mana waktu berlalu tanpa terasa dan kamu merasa sepenuhnya tenggelam dalam pekerjaan. Seorang pelukis dengan bakat alami, misalnya, bisa menghabiskan waktu berjam-jam di studio tanpa merasa lelah.
+Area ***Passion*** terbentuk ketika kamu menggabungkan hal yang kamu cintai dengan hal yang kamu kuasai. Di zona ini, kamu menemukan kesenangan sekaligus keunggulan. Aktivitasnya sering kali membawa kamu ke dalam kondisi *flow*, di mana waktu berlalu tanpa terasa dan kamu merasa sepenuhnya tenggelam dalam pekerjaan. Seorang pelukis dengan bakat alami, misalnya, bisa menghabiskan waktu berjam-jam di studio tanpa merasa lelah.
 
-Di sisi lain, ada **Misi** yang merupakan perpaduan antara apa yang kamu cintai dan apa yang dibutuhkan dunia. Zona ini berisi kegiatan yang kamu nikmati sekaligus memberikan dorongan batin karena bermanfaat bagi orang lain atau lingkungan. Contoh nyatanya adalah seorang aktivis yang mendedikasikan hidupnya melestarikan alam karena peduli pada nasib planet ini.
+Di sisi lain, ada **Misi** yang merupakan perpaduan antara apa yang kamu cintai dan apa yang dibutuhkan dunia. Zona ini berisi kegiatan yang kamu nikmati sekaligus memberikan dorongan batin karena bermanfaat bagi orang lain atau lingkungan. Contoh nyatanya adalah seorang aktivis yang mendedikasikan hidupnya untuk melestarikan alam karena peduli pada nasib planet ini.
 
-Sementara itu, **Profesi** berfokus pada apa yang kamu kuasai dan apa yang bisa menghasilkan uang. Keterampilan kamu dihargai secara finansial di area ini. Seorang *developer software* yang pandai dalam urusan *coding* dan dibayar tinggi untuk membangun aplikasi kompleks berada di persimpangan ini. Area ini biasanya menjanjikan stabilitas dan keamanan finansial.
+Sementara itu, **Profesi** berfokus pada apa yang kamu kuasai dan apa yang bisa menghasilkan uang. Keterampilan kamu dihargai secara finansial di area ini. Seorang *software developer* yang pandai dalam urusan *coding* dan dibayar tinggi untuk membangun aplikasi kompleks berada di persimpangan ini. Area ini biasanya menjanjikan stabilitas dan keamanan finansial.
 
-Terakhir, **Vokasi** atau Panggilan Hidup adalah titik temu antara apa yang dibutuhkan dunia dan apa yang bisa menghasilkan pendapatan. Di sini, kamu memenuhi kebutuhan pasar atau permasalahan sosial, seperti seorang dokter yang bertugas di daerah terpencil. Keahlian medisnya dibutuhkan, dan ia tetap mendapat penghasilan dari dedikasinya.
+Terakhir, **Vokasi** atau Panggilan Hidup adalah titik temu antara apa yang dibutuhkan dunia dan apa yang bisa menghasilkan pendapatan. Di sini, kamu memenuhi kebutuhan pasar atau menjawab permasalahan sosial, seperti seorang dokter yang bertugas di daerah terpencil. Keahlian medisnya dibutuhkan, dan ia tetap mendapat penghasilan dari dedikasinya.
 
 Hanya berfokus pada salah satu irisan ini akan memunculkan keterbatasan. Memiliki *Passion* tanpa Misi atau Vokasi bisa terasa menyenangkan tapi kurang berkelanjutan secara finansial. Misi tanpa *Passion* atau Profesi rentan menyebabkan kelelahan atau kesulitan ekonomi. Sebaliknya, Profesi tanpa *Passion* dan Misi akan terasa monoton dan hampa, sementara Vokasi tanpa *Passion* dan Profesi lambat laun bisa menjadi beban tersendiri.
 
@@ -30,9 +30,9 @@ Ketika tiga pilar mulai menyatu, kita semakin dekat dengan inti Ikigai, meskipun
 
 Jika pekerjaan itu kamu cintai, kamu kuasai, dan dunia membutuhkannya, kamu akan mendapatkan **Misi yang Menginspirasi**. Kamu merasa terdorong oleh tujuan yang lebih besar, namun aktivitas tersebut mungkin belum cukup menghidupi secara finansial. Misalnya seorang seniman mural yang gigih menyebarkan pesan sosial di komunitasnya, tapi masih kesulitan mencari nafkah.
 
-Apabila aktivitasnya mencakup hal yang kamu cintai, dibutuhkan dunia, dan mendatangkan uang, itu menjadi **Panggilan Hidup yang Bergairah**. Kamu dibayar untuk membantu masalah nyata dan menyukai pekerjaan tersebut, tetapi ada potensi atau keahlian terbaikmu yang masih terpendam dan tidak dimanfaatkan. Konsultan keberlanjutan yang ramah lingkungan mungkin dibayar mahal dan mencintai dampaknya, tapi ia belum menggunakan bakat analitis utamanya.
+Apabila aktivitasnya mencakup hal yang kamu cintai, dibutuhkan dunia, dan mendatangkan uang, itu menjadi **Panggilan Hidup yang Bergairah**. Kamu dibayar untuk membantu mengatasi masalah nyata dan menyukai pekerjaan tersebut, tetapi ada potensi atau keahlian terbaikmu yang masih terpendam dan tidak dimanfaatkan. Konsultan keberlanjutan yang ramah lingkungan mungkin dibayar mahal dan mencintai dampaknya, tapi ia belum menggunakan bakat analitis utamanya.
 
-Selanjutnya, gabungan antara keahlian, kebutuhan dunia, dan penghasilan akan menciptakan **Profesi yang Memuaskan**. Pekerjaan ini bermakna dan mapan secara finansial. Namun, tanpa adanya elemen "cinta" atau gairah yang mendalam, keseharian akan terasa seperti rutinitas wajib alih-alih sesuatu yang menyenangkan. Seorang insinyur handal yang membangun infrastruktur penting mungkin tidak selalu merasa antusias menghadapi rincian tugasnya.
+Selanjutnya, gabungan antara keahlian, kebutuhan dunia, dan penghasilan akan menciptakan **Profesi yang Memuaskan**. Pekerjaan ini bermakna dan mapan secara finansial. Namun, tanpa adanya elemen "cinta" atau gairah yang mendalam, keseharian akan terasa seperti rutinitas wajib alih-alih sesuatu yang menyenangkan. Seorang insinyur andal yang membangun infrastruktur penting mungkin tidak selalu merasa antusias menghadapi rincian tugasnya.
 
 ### 3. Titik Tengah Keempat Pilar
 

@@ -24,11 +24,11 @@ Coba luangkan waktu untuk menggali kelebihanmu lewat beberapa latihan berikut.
 
 ### 3.1. Refleksi Pengalaman Masa Lalu
 
-Coba ingat-ingat kembali momen di mana kamu merasa paling bangga atau bekerja paling efektif.
+Coba ingat-ingat kembali momen ketika kamu merasa paling bangga atau bekerja paling efektif.
 
-1. **Catat Keberhasilan:** Tulis setidaknya 5-10 pencapaian yang pernah kamu raih, besar atau kecil. Ini bisa berupa pengalaman mengorganisir acara, membantu memecahkan masalah teknis orang lain, atau sekadar membereskan tugas kuliah yang rumit tepat waktu.
+1. **Catat Keberhasilan:** Tulis setidaknya 5-10 pencapaian yang pernah kamu raih, besar atau kecil. Ini bisa berupa pengalaman mengorganisasi acara, membantu memecahkan masalah teknis orang lain, atau sekadar membereskan tugas kuliah yang rumit tepat waktu.
 2. **Bedah Prosesnya:** Dari setiap keberhasilan tadi, bongkar kembali ingatanmu. Keterampilan apa yang kamu pakai? Bagian mana yang terasa paling mudah dikerjakan? Hal apa yang membedakan caramu menyelesaikan masalah tersebut dengan cara orang lain?
-3. **Hobi dan Minat:** Hobi sering kali menjadi cerminan dari bakat yang kamu lakukan tanpa merasa terbebani. Amati aktivitas apa yang sanggup kamu lakukan berjam-jam tanpa merasa bosan.
+3. **Hobi dan Minat:** Hobi sering kali menjadi cerminan dari bakat yang kamu salurkan tanpa merasa terbebani. Amati aktivitas apa yang sanggup kamu lakukan berjam-jam tanpa merasa bosan.
 
 ### 3.2. Mencari Umpan Balik (Feedback)
 
@@ -47,12 +47,12 @@ Melakukan _self-assessment_ berarti mengevaluasi kemampuan dan perilakumu secara
 	- **Weaknesses:** Di bagian mana kamu merasa masih sangat kurang dan sering menghindarinya?
 	- **Opportunities:** Apakah ada tren luar yang selaras dengan kekuatanmu?
 	- **Threats:** Kondisi atau perubahan apa di luar sana yang bisa mengancam relevansi keterampilanmu saat ini?
-3. **Tes Kepribadian:** Tes seperti MBTI atau DISC bisa memberi peta awal tentang bagaimana kecenderungan alami berpikir dan bertindakmu.
+3. **Tes Kepribadian:** Tes seperti MBTI atau DISC bisa memberi peta awal tentang kecenderungan alamimu dalam berpikir dan bertindak.
 	> *Penting:* Hasil tes hanyalah panduan, bukan label kaku yang membatasi dirimu. Gunakan wawasan ini sebatas sebagai titik mula untuk bereksplorasi.
 
 ## 4\. Menghubungkan Kekuatan dengan Ikigai
 
-Sekarang waktunya melihat titik temu antara kemampuan dominan yang baru saja dipetakan dengan elemen Ikigai lainnya.
+Sekarang waktunya melihat titik temu antara kemampuan dominan yang baru saja dipetakan dan elemen Ikigai lainnya.
 
 - Jika kekuatan utamamu sejalan dengan sesuatu yang kamu cintai, itu adalah awal yang bagus. Misalnya, kamu suka merangkai kata dan punya kemampuan riset data yang tangguh; menulis laporan analitis atau artikel mendalam bisa menjadi irisan kuat.
 - Di sisi lain, kemampuan ini nantinya juga harus kamu proyeksikan untuk menjawab permasalahan di luar sana (kebutuhan dunia) serta mencari tahu bagaimana hal tersebut bisa dihargai secara profesional (mendatangkan penghasilan).

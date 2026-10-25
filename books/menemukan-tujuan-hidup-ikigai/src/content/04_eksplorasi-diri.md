@@ -14,7 +14,7 @@ Mari kita bedah beberapa sudut pandang untuk membantumu mengenali hal yang benar
 
 ### Mengingat Masa Lalu
 
-Seringkali minat alami kita tertutup oleh berbagai tuntutan hidup setelah dewasa. Cobalah menggali kembali masa-masa ketika kamu masih kecil atau remaja. Ingat-ingat aktivitas apa saja yang sanggup membuatmu lupa waktu, mulai dari membaca cerita fantasi, merakit LEGO, menggambar, bermain dengan hewan peliharaan, hingga sibuk memecahkan teka-teki rumit. 
+Sering kali minat alami kita tertutup oleh berbagai tuntutan hidup setelah dewasa. Cobalah menggali kembali masa-masa ketika kamu masih kecil atau remaja. Ingat-ingat aktivitas apa saja yang sanggup membuatmu lupa waktu, mulai dari membaca cerita fantasi, merakit LEGO, menggambar, bermain dengan hewan peliharaan, hingga sibuk memecahkan teka-teki rumit. 
 
 Tuliskan kegiatan atau hobi di rentang usia 5 hingga 18 tahun yang paling membekas. Setelah daftarnya selesai, coba bedah lebih dalam. Tanyakan pada dirimu sendiri apa elemen spesifik yang paling kamu nikmati. Misalnya, jika kamu suka membaca buku, apakah karena kamu senang mempelajari hal baru, atau karena kamu suka sensasi tersedot ke dunia fantasi?
 

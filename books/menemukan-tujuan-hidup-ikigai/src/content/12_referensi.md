@@ -1,6 +1,6 @@
 ## Referensi
 
-Berikut adalah daftar rujukan literatur ilmiah, buku, dan jurnal akademik yang menjadi landasan utama dalam penulisan buku ini. Seluruh referensi berfokus pada kajian *ikigai*, logoterapi, serta psikologi makna hidup, dan diurutkan berdasarkan abjad sesuai dengan format *APA Style 7th Edition*.
+Berikut adalah daftar rujukan literatur ilmiah, buku, jurnal akademik, dan sumber daring yang menjadi landasan utama dalam penulisan buku ini. Seluruh referensi berfokus pada kajian *ikigai*, logoterapi, serta psikologi makna hidup, dan diurutkan berdasarkan abjad sesuai dengan format *APA Style 7th Edition*.
 
 Cohen, R., Bavishi, C., & Rozanski, A. (2016). Purpose in life and its relationship to all-cause mortality and cardiovascular events: A meta-analysis. *Psychosomatic Medicine, 78*(2), 122–133. [https://doi.org/10.1097/PSY.0000000000000274](https://doi.org/10.1097/PSY.0000000000000274)
 
