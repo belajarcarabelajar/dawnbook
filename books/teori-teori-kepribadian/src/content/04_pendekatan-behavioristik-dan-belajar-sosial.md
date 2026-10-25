@@ -8,7 +8,7 @@ Behaviorisme berpendapat bahwa perilaku dapat dipahami sepenuhnya melalui studi 
 
 #### 1.1. *Classical Conditioning* (Ivan Pavlov)
 
-*Classical conditioning* adalah bentuk pembelajaran di mana organisme belajar untuk mengasosiasikan dua rangsangan: rangsangan netral dengan rangsangan yang secara alami menghasilkan respons.
+*Classical conditioning* adalah bentuk pembelajaran ketika organisme belajar untuk mengasosiasikan dua rangsangan: rangsangan netral dengan rangsangan yang secara alami menghasilkan respons.
 
 **Konsep kunci:**
 * **Unconditioned Stimulus (UCS):** Stimulus yang secara otomatis dan alami memicu respons tanpa perlu pembelajaran (misalnya, makanan).

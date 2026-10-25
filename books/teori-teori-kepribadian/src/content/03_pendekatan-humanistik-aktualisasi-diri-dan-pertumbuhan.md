@@ -33,7 +33,7 @@ Dalam interaksi sosialnya, setiap individu membutuhkan apresiasi, cinta, dan pen
 Terdapat dua dimensi dalam hal ini:
 
 1.  **Unconditional Positive Regard:** Bentuk penerimaan utuh tanpa syarat. Seseorang yang menerima dukungan macam ini merasa aman dan dicintai apa adanya, terlepas dari segala kelemahan atau kesalahan masa lalu. Lingkungan seperti ini ideal untuk memupuk *self-concept* yang jujur.
-2.  **Conditional Positive Regard:** Penerimaan yang hanya hadir ketika individu memenuhi ekspektasi atau tuntutan pihak lain. Pola asuh atau relasi bersyarat ini mengajarkan seseorang bahwa mereka baru memiliki nilai jika bersikap dengan cara tertentu. Hal ini melahirkan *conditions of worth* – keadaan di mana nilai diri sepenuhnya dikaitkan dengan standar eksternal. *Conditions of worth* umumnya bersumber dari internalisasi ekspektasi orang tua atau dogma sosial, yang pelan-pelan membatasi pertumbuhan pribadi.
+2.  **Conditional Positive Regard:** Penerimaan yang hanya hadir ketika individu memenuhi ekspektasi atau tuntutan pihak lain. Pola asuh atau relasi bersyarat ini mengajarkan seseorang bahwa mereka baru memiliki nilai jika bersikap dengan cara tertentu. Hal ini melahirkan *conditions of worth* – keadaan ketika nilai diri sepenuhnya dikaitkan dengan standar eksternal. *Conditions of worth* umumnya bersumber dari internalisasi ekspektasi orang tua atau dogma sosial, yang pelan-pelan membatasi pertumbuhan pribadi.
 
 Hadirnya *unconditional positive regard* memberikan ruang yang aman bagi individu untuk mengenali diri mereka lebih jauh, berani berbuat salah, dan mengambil pelajaran tanpa dikejar rasa takut kehilangan kasih sayang.
 

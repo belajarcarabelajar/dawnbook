@@ -86,7 +86,7 @@ Tiap transisi ditandai dengan krisis dari dua kutub yang berlawanan. Melaluinya 
 - Masuk ke lingkungan sekolah 6-12 tahun (**Industry vs. Inferiority**), anak harus menghadapi tantangan merangkai kompetensi baru. Jika berhasil, timbullah rasa percaya pada kemampuan diri sendiri.
 - Titik rentan remaja 12-18 tahun berkutat pada pencarian **Identity vs. Role Confusion**. Mereka dituntut mengeksplorasi berbagai peran demi menghasilkan kesetiaan pada nilai yang mereka percaya (*fidelity*).
 - Dewasa muda usia 18-40 tahun menuntut manusia membangun ikatan yang intim, **Intimacy vs. Isolation**. Fokus utama ada pada keberanian membuka batasan diri, yang pada akhirnya membuahkan cinta kasih (*love*).
-- Paruh baya usia 40-65 tahun (**Generativity vs. Stagnation**) sering menjadi masa evaluasi di mana orang mempertanyakan kontribusi mereka untuk generasi ke depan, membangun jaring pengasuhan dan perhatian (*care*).
+- Paruh baya usia 40-65 tahun (**Generativity vs. Stagnation**) sering menjadi masa evaluasi ketika orang mempertanyakan kontribusi mereka untuk generasi ke depan, membangun jaring pengasuhan dan perhatian (*care*).
 - Pada usia 65 tahun ke atas (**Ego Integrity vs. Despair**), lansia akan memutar kembali memori hidup mereka. Mereka bisa merasa lega dan merengkuh kebijaksanaan (*wisdom*), atau tenggelam dalam amarah dan keputusasaan atas hal-hal yang tidak bisa diubah.
 
 Urutan delapan krisis tersebut dapat kamu lihat sekilas pada bagan berikut.
