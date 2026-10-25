@@ -6,7 +6,7 @@ Dalam proses integrasi budaya, kata-kata hanyalah puncak dari gunung es. Di bawa
 
 ### 1\. Mengapa Komunikasi Non-Verbal Begitu Penting?
 
-Statistik yang sering dikutip dalam studi komunikasi menunjukkan bahwa sebagian besar pesan yang kita sampaikan tidak berasal dari mulut kita. Secara matematis, pembagian porsi pesan dapat dirumuskan secara sederhana sebagai berikut:
+Statistik yang sering dikutip dalam studi komunikasi menunjukkan bahwa saat kita menyampaikan perasaan atau sikap, sebagian besar pesan kita tidak berasal dari mulut kita. Secara matematis, pembagian porsi pesan dapat dirumuskan secara sederhana sebagai berikut:
 
 $$
 \text{Total Pesan} = 7 \text{\%} \text{ (Verbal)} + 38 \text{\%} \text{ (Vokal/Nada)} + 55 \text{\%} \text{ (Visual/Bahasa Tubuh)}
@@ -28,16 +28,16 @@ Jika kamu pindah dari Indonesia (yang cenderung komunal) ke Finlandia, apakah ka
 Kinesik mencakup gerak tubuh, ekspresi wajah, dan postur. Masalah terbesar dalam integrasi adalah **gestur universal yang ternyata tidak universal.**
 
 - **Simbol "OK":** Di Amerika Serikat berarti "bagus", di Prancis berarti "nol/tidak berharga", dan di Brasil bisa dianggap sebagai hinaan kasar.
-- **Mengangguk dan Menggeleng:** Di Bulgaria dan sebagian Yunani, mengangguk berarti "tidak" dan menggeleng berarti "ya". Bayangkan betapa bingungnya kamu saat memesan kopi di sana!
+- **Mengangguk dan Menggeleng:** Di Bulgaria, mengangguk berarti "tidak" dan menggeleng berarti "ya". Bayangkan betapa bingungnya kamu saat memesan kopi di sana!
 
 **Analogi:** Menggunakan gestur yang salah di negara baru seperti menggunakan steker listrik tipe A di lubang stopkontak tipe C. Energinya ada, tetapi tidak akan ada koneksi yang terjadi.
 
 ### 4\. Okulesik dan Makna Tatapan Mata
 
-Kontak mata (Okulesik) adalah salah satu aspek komunikasi non-verbal yang paling sensitif secara budaya.
+Kontak mata (okulesik) adalah salah satu aspek komunikasi non-verbal yang paling sensitif secara budaya.
 
 - **Budaya Barat (Eropa/AS):** Kontak mata langsung dianggap sebagai tanda kejujuran, kepercayaan diri, dan perhatian. Menghindari tatapan mata sering dianggap mencurigakan.
-- **Budaya Timur (Sebagian Asia/Afrika):** Kontak mata yang terlalu lama atau intens bisa dianggap sebagai tantangan, agresi, atau kurangnya rasa hormat (terutama kepada atasan atau orang tua).
+- **Sebagian budaya Asia dan Afrika:** Kontak mata yang terlalu lama atau intens bisa dianggap sebagai tantangan, agresi, atau kurangnya rasa hormat (terutama kepada atasan atau orang tua).
 
 **Contoh Skenario:** Seorang mahasiswa internasional dari Asia Timur sedang ditegur oleh dosennya di Amerika. Mahasiswa tersebut menundukkan kepala sebagai tanda hormat. Namun, sang dosen merasa mahasiswa tersebut tidak mendengarkan atau menyembunyikan sesuatu karena tidak mau menatap matanya. Ini adalah **kegagalan integrasi non-verbal**.
 

@@ -10,7 +10,7 @@ Gejala psikologis sering kali menjadi tanda pertama yang muncul, namun paling su
 
 ### Kecemasan dan Ketegangan yang Menetap
 
-Individu sering merasakan kecemasan yang tidak beralasan (*free-floating anxiety*). Kamu mungkin merasa gugup saat harus keluar rumah, takut melakukan kesalahan sosial, atau merasa diawasi oleh orang-orang di sekitar.
+Individu sering merasakan kecemasan tanpa sumber yang jelas (*free-floating anxiety*). Kamu mungkin merasa gugup saat harus keluar rumah, takut melakukan kesalahan sosial, atau merasa diawasi oleh orang-orang di sekitar.
 
 ### Iritabilitas (Mudah Tersinggung)
 
@@ -28,7 +28,7 @@ Ketika pikiran stres, tubuh akan mengirimkan sinyal peringatan. Gejala fisik ini
 
 ### Gangguan Tidur (Insomnia atau Hipersomnia)
 
-Gegar budaya mengganggu ritme sirkadian kita, bukan hanya karena perbedaan zona waktu (jet lag), tetapi karena beban pikiran.
+Gegar budaya mengganggu ritme sirkadian kita, bukan hanya karena perbedaan zona waktu (jet lag), tetapi juga karena beban pikiran.
 
 - **Insomnia:** Kesulitan tidur karena otak terus berputar memikirkan interaksi sosial di siang hari.
 - **Hipersomnia:** Keinginan untuk tidur sepanjang waktu sebagai bentuk pelarian dari realitas yang melelahkan.
@@ -107,7 +107,7 @@ Jika kamu menjawab "Ya" pada sebagian besar pertanyaan di atas, kemungkinan besa
 | Kategori | Gejala Umum |
 | --- | --- |
 | **Psikologis** | Kecemasan, mudah marah, merasa terisolasi, rindu rumah yang ekstrem, depresi ringan. |
-| **Fisik** | Sakit kepala, gangguan pencernaan, insomnia, kelelahan kronis, alergi yang tiba-tiba muncul. |
+| **Fisik** | Sakit kepala, gangguan pencernaan, insomnia, kelelahan berlebih, ketegangan otot. |
 | **Perilaku** | Menarik diri dari pergaulan, makan berlebihan atau tidak mau makan, ketergantungan pada komunitas sesama perantau. |
 
 > **Insight:** Mengenali gejala-gejala ini adalah langkah pertama. Dengan mengetahui bahwa rasa lelah atau amarah kamu adalah bagian dari proses adaptasi yang normal, kamu dapat berhenti menyalahkan diri sendiri dan mulai memberikan ruang bagi tubuh kamu untuk beristirahat.

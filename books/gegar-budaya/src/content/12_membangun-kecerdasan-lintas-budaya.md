@@ -50,7 +50,7 @@ Kemampuan untuk mengubah perilaku verbal dan non-verbal.
 
 ## 3. Mengubah Krisis Menjadi Pertumbuhan
 
-Gegar budaya seringkali terasa menyakitkan karena ada benturan antara ekspektasi dan kenyataan. Namun, dalam psikologi pertumbuhan, kita dapat merumuskannya secara sederhana:
+Gegar budaya sering kali terasa menyakitkan karena ada benturan antara ekspektasi dan kenyataan. Namun, dalam psikologi pertumbuhan, kita dapat merumuskannya secara sederhana:
 
 $$
 \text{Pertumbuhan} (G) = \text{Tantangan} (C) + \text{Refleksi} (R)
@@ -93,7 +93,7 @@ Seorang mahasiswa yang belajar di luar negeri mungkin merasa terisolasi karena g
 
 ## 6. Latihan Praktis untuk Meningkatkan CQ Kamu
 
-Berikut adalah langkah-langkah kinestetik yang bisa kamu lakukan sekarang juga untuk mengasah kecerdasan lintas budaya:
+Berikut adalah langkah-langkah praktis yang bisa kamu lakukan sekarang juga untuk mengasah kecerdasan lintas budaya:
 
 1. **The "Why" Game:** Setiap kali kamu melihat perilaku lokal yang aneh bagi kamu, tanyakan "Kenapa?" sebanyak tiga kali secara mendalam sebelum menghakimi.
 2. **Cultural Mirroring:** Amati orang yang paling sukses (baik lokal maupun pendatang) di lingkungan tersebut. Cermati bagaimana mereka mendengarkan, berbicara, dan menggunakan bahasa tubuh. Cobalah untuk meniru sedikit demi sedikit dalam situasi berisiko rendah.

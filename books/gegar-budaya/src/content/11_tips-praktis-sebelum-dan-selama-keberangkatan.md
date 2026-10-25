@@ -16,7 +16,7 @@ $$
 A = (P + R) \times F
 $$
 
-Di mana:
+Keterangan:
 
 - **A (Adaptation):** Tingkat keberhasilan adaptasi.
 - **P (Preparation):** Pengetahuan teknis tentang tempat tujuan.
@@ -36,7 +36,7 @@ Riset lebih dari sekadar membaca Wikipedia. Ini adalah tentang memahami "aturan 
 
 ### Metode Lima Indra untuk Riset
 
-1. **Penglihatan:** Tonton vlogs dari orang lokal (bukan hanya turis). Amati bagaimana mereka berpakaian dan berinteraksi di ruang publik.
+1. **Penglihatan:** Tonton vlog dari orang lokal (bukan hanya turis). Amati bagaimana mereka berpakaian dan berinteraksi di ruang publik.
 2. **Pendengaran:** Pelajari frasa kunci dalam bahasa lokal. Bukan hanya "Halo", tapi kalimat seperti *"Maaf, saya sedang belajar, bisa bicara lebih pelan?"*
 3. **Penciuman & Rasa:** Cari tahu bahan makanan apa yang dominan. Jika kamu terbiasa dengan sambal, dan tujuanmu adalah tempat yang minim bumbu pedas, siapkan mental (dan stok pribadi).
 4. **Sentuhan (Etika Fisik):** Riset tentang *personal space*. Apakah orang di sana bersalaman, membungkuk, atau berpelukan saat bertemu?
@@ -58,7 +58,7 @@ Bawalah barang-barang kecil yang memiliki keterikatan emosional kuat. Ini bisa b
 - Bumbu masak instan favorit.
 - Parfum atau sabun dengan aroma yang biasa kamu gunakan di rumah.
 
-*Penting:* Aroma adalah pemicu memori yang paling kuat. Saat kamu merasa rindu rumah, mencium aroma yang familiar dapat menurunkan kadar kortisol (hormon stres).
+*Penting:* Aroma adalah salah satu pemicu memori yang paling kuat. Saat kamu merasa rindu rumah, mencium aroma yang familiar dapat menurunkan kadar kortisol (hormon stres).
 
 ### Catatan Navigasi di Ponsel
 
@@ -72,7 +72,7 @@ Buatlah juga catatan navigasi sederhana di aplikasi catatan ponselmu. Isinya bis
 
 ## 4. Strategi 48 Jam Pertama
 
-Transisi yang mulus dimulai saat kamu mendarat. Kelelahan fisik karena perjalanan (jet lag) sering kali memperburuk gejala awal gegar budaya.
+Transisi yang mulus dimulai saat kamu mendarat. Kelelahan fisik dan gangguan jam biologis akibat perbedaan zona waktu (jet lag) sering kali memperburuk gejala awal gegar budaya.
 
 **Tips Selama Perjalanan & Kedatangan:**
 
@@ -84,7 +84,7 @@ Transisi yang mulus dimulai saat kamu mendarat. Kelelahan fisik karena perjalana
 
 **Kasus Andi, Mahasiswa yang Pindah ke Jerman**
 
-- **Sebelum Berangkat:** Andi tidak hanya belajar bahasa Jerman, tapi dia juga meriset cara memilah sampah di Jerman yang ketat. Dia menonton video YouTube tentang "10 hal yang mengejutkan orang Indonesia di Jerman".
+- **Sebelum Berangkat:** Andi tidak hanya belajar bahasa Jerman, tapi dia juga meriset cara memilah sampah yang ketat di Jerman. Dia menonton video YouTube tentang "10 hal yang mengejutkan orang Indonesia di Jerman".
 - **Strategi Barang:** Andi membawa satu botol kecil kecap manis kegemarannya dan foto wisuda keluarga.
 - **Saat Tiba:** Alih-alih langsung tidur karena lelah, Andi pergi ke supermarket terdekat untuk melihat-lihat jenis roti yang tersedia. Hal kecil ini membuatnya merasa "menang" di hari pertama karena berhasil melakukan transaksi mandiri.
 

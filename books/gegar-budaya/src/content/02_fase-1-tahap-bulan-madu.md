@@ -6,13 +6,13 @@ Itulah **Fase Bulan Madu**, tahap pertama gegar budaya, saat lingkungan baru ter
 
 ## 1. Apa Itu Tahap Bulan Madu?
 
-Sesuai namanya, Tahap Bulan Madu adalah periode awal setelah seseorang tiba di lingkungan budaya yang baru. Pada fase ini, individu cenderung merasa positif, antusias, dan penuh rasa ingin tahu. Segala perbedaan budaya yang ditemui dianggap sebagai sesuatu yang eksotis dan mempesona, bukan sebagai hambatan.
+Sesuai namanya, Tahap Bulan Madu adalah periode awal setelah seseorang tiba di lingkungan budaya yang baru. Pada fase ini, individu cenderung merasa positif, antusias, dan penuh rasa ingin tahu. Segala perbedaan budaya yang ditemui dianggap sebagai sesuatu yang eksotis dan memesona, bukan sebagai hambatan.
 
 **Analogi:**
 
 > Bayangkan fase ini seperti beberapa kencan pertama dalam sebuah hubungan romantis. Kamu hanya melihat sisi terbaik dari pasanganmu. Kebiasaan kecil yang mungkin nantinya akan membuatmu kesal, saat ini justru terlihat "unik" dan "manis".
 
-Secara psikologis, otak kita sedang memproduksi hormon kebahagiaan (dopamin) dalam jumlah besar karena banyaknya rangsangan baru (*novelty*). Dalam matematika sederhana, kita bisa menggambarkan kondisi mental pada fase ini sebagai berikut:
+Secara psikologis, otak kita sedang melepaskan lebih banyak dopamin, zat kimia otak yang berkaitan dengan rasa senang, karena banyaknya rangsangan baru (*novelty*). Dalam matematika sederhana, kita bisa menggambarkan kondisi mental pada fase ini sebagai berikut:
 
 $$
 \text{Tingkat Kepuasan} = \frac{\text{Ekspektasi Tinggi} + \text{Stimulasi Baru}}{\text{Kesadaran Realitas}}
@@ -35,13 +35,13 @@ Untuk mengenali apakah kamu atau seseorang yang kamu kenal sedang berada dalam f
 
 Secara evolusioner dan psikologis, fase bulan madu berfungsi sebagai "bantalan" pelindung.
 
-1. **Mekanisme Pertahanan Diri:** Antusiasme yang tinggi membantu kita mengatasi kelelahan fisik setelah perjalanan jauh (*jet lag*) dan proses birokrasi yang melelahkan saat pindah.
+1. **Mekanisme Pertahanan Diri:** Antusiasme yang tinggi membantu kita mengatasi kelelahan dan gangguan jam biologis akibat perbedaan zona waktu (*jet lag*) dan proses birokrasi yang melelahkan saat pindah.
 2. **Pemrosesan Informasi Selektif:** Otak kita secara tidak sadar menyaring informasi negatif dan lebih fokus pada hal-hal yang memvalidasi keputusan kita untuk pindah. Kita ingin membuktikan pada diri sendiri bahwa "keputusanku pindah ke sini adalah keputusan terbaik!"
 3. **Durasi Periode Bulan Madu:** Biasanya berlangsung antara **2 minggu hingga 6 bulan**, tergantung pada seberapa besar perbedaan budaya dan tingkat persiapan individu tersebut.
 
 ## 4. Kisah Aris di Tokyo
 
-Mari kita lihat contoh nyata bagaimana fase ini bermanifestasi:
+Mari kita lihat contoh bagaimana fase ini bermanifestasi:
 
 **Kisah:** Aris adalah seorang mahasiswa penerima beasiswa yang baru saja tiba di Tokyo, Jepang. Selama dua minggu pertama, Aris merasa seperti sedang hidup di dalam film anime favoritnya.
 
@@ -61,7 +61,7 @@ Meskipun terlihat positif, fase ini memiliki dua sisi mata uang:
 | Mempermudah dalam membangun hubungan awal dengan orang lokal. | Cenderung mengabaikan tanda-tanda penting dari norma budaya yang lebih dalam. |
 | Membantu mengurangi stres awal kepindahan. | Bisa memicu "jatuh" yang lebih keras saat masuk ke Fase 2 (Krisis). |
 
-**Penting:** Jangan menekan perasaan bahagiamu pada fase ini, namun tetaplah sadar bahwa ini adalah bagian dari proses transisi. Nikmati momennya, tapi tetaplah terbuka pada kenyataan bahwa tantangan akan muncul nantinya.
+**Penting:** Jangan menekan perasaan bahagiamu pada fase ini, tetapi tetaplah sadar bahwa ini adalah bagian dari proses transisi. Nikmati momennya, tapi tetaplah terbuka pada kenyataan bahwa tantangan akan muncul nantinya.
 
 ## 6. Tips Mengoptimalkan Tahap Bulan Madu
 
