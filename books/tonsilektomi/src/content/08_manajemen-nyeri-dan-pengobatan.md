@@ -49,7 +49,7 @@ Proses pemulihan setelah operasi ini sering kali naik-turun, tidak selalu membai
 2. Pada anak sepuluh tahun ke bawah, nyeri biasanya memuncak di hari kedua, lalu menurun hingga sekitar separuh dari puncaknya pada hari keenam. Pada pasien di atas sepuluh tahun, nyeri cenderung bertahan hingga sekitar hari ke-9 sebelum mereda.
 3. Setelah melewati hari ke-10, rasa tidak nyaman tersebut biasanya akan berkurang secara drastis dalam waktu singkat.
 
-Jika kamu merasa nyeri bertambah parah pada hari kelima, jangan cemas. Itu umumnya pertanda alami bahwa lapisan pelindung lama mulai mengelupas untuk memberi ruang bagi jaringan baru yang sedang tumbuh, bukan tanda kondisi tubuhmu memburuk.
+Kalau nyerimu masih terasa pada hari kelima, jangan cemas. Pada kedua kelompok di atas, nyeri di hari itu biasanya memang belum mereda, jadi kondisi ini sesuai dengan pola grafiknya. Hubungi dokter jika nyeri makin berat setelah sempat mereda, atau jika kamu merasa kondisimu tidak kunjung membaik.
 
 ### Jadwal "Anti-Nyeri" Budi
 
