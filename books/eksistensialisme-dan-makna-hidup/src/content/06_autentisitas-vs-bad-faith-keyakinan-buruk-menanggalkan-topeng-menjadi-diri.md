@@ -6,7 +6,7 @@ Dalam perjalanan memahami eksistensialisme, kita sampai pada salah satu persimpa
 
 ### 1. Memahami Bad Faith (Mauvaise Foi)
 
-Konsep *Bad Faith* dipopulerkan oleh Jean-Paul Sartre. Secara sederhana, *bad faith* adalah **kebohongan pada diri sendiri**. Ini terjadi ketika kita meyakinkan diri sendiri bahwa kita tidak punya pilihan lain selain melakukan apa yang kita lakukan sekarang.
+Konsep *bad faith* dipopulerkan oleh Jean-Paul Sartre. Secara sederhana, *bad faith* adalah **kebohongan pada diri sendiri**. Ini terjadi ketika kita meyakinkan diri sendiri bahwa kita tidak punya pilihan lain selain melakukan apa yang kita lakukan sekarang.
 
 Kita melakukan *bad faith* karena kebebasan itu menakutkan. Mengakui bahwa kita bebas berarti mengakui bahwa kita sepenuhnya bertanggung jawab atas kegagalan kita. Untuk menghindari rasa cemas ini, kita sering berpura-pura bahwa kita adalah sebuah "objek" yang sudah memiliki takdir atau aturan tetap.
 
@@ -48,7 +48,7 @@ Sebaliknya, jika ia memilih bersikap autentik, Budi akan jujur pada dirinya send
 
 #### Media Sosial dan Citra Diri
 
-Di era digital, jebakan peran di media sosial kuat. Seseorang terjebak dalam *bad faith* ketika ia memaksakan diri menampilkan kehidupan yang serbaperfect hanya demi memenuhi ekspektasi pengikut atau standar sosial. Di sisi lain, autentisitas di dunia digital mewujud saat seseorang menggunakan platform sosial sebagai ruang ekspresi yang jujur, tanpa mendikte nilainya dari jumlah tanda suka atau penilaian orang lain.
+Di era digital, jebakan peran di media sosial kuat. Seseorang terjebak dalam *bad faith* ketika ia memaksakan diri menampilkan kehidupan yang serba sempurna hanya demi memenuhi ekspektasi pengikut atau standar sosial. Di sisi lain, autentisitas di dunia digital mewujud saat seseorang menggunakan platform sosial sebagai ruang ekspresi yang jujur, tanpa menakar nilai dirinya dari jumlah tanda suka atau penilaian orang lain.
 
 ### 5. Langkah Praktis Menuju Hidup yang Autentik
 
@@ -61,4 +61,4 @@ Di era digital, jebakan peran di media sosial kuat. Seseorang terjebak dalam *ba
 
 Autentisitas bukan sebuah garis akhir yang bisa sekali dicapai lalu selesai, melainkan bagaimana cara kita berjalan setiap hari. Wajar jika kita kadang terpeleset kembali ke dalam *bad faith* karena itu adalah zona nyaman kita. Namun, dengan menyadari batasan di antara keduanya, kita perlahan bisa menanggalkan topeng sosial dan mulai menulis sendiri kisah hidup kita.
 
-Perlu diingat bahwa menjadi autentik tidak sama dengan bersikap egois atau antisosial. Ini adalah tindakan berani untuk berpijak pada keyakinan batin yang telah kamu uji sendiri, tidak hanya hanyut mengikuti arus massa tanpa berpikir.
+Perlu diingat bahwa menjadi autentik tidak sama dengan bersikap egois atau antisosial. Ini adalah tindakan berani untuk berpijak pada keyakinan batin yang telah kamu uji sendiri, bukan sekadar hanyut mengikuti arus massa tanpa berpikir.

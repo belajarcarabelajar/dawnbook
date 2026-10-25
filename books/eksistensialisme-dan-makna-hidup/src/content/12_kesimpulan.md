@@ -41,7 +41,7 @@ Merayakan hidup yang fana berarti berhenti hidup dalam mode "autopilot." Ini ada
 
 Bagaimana menerapkan rangkuman filsafat ini dalam kehidupan modern yang serba cepat?
 
-| Situasi | Respon Umum (Autopilot) | Respon Eksistensial (Otentik) |
+| Situasi | Respons Umum (Autopilot) | Respons Eksistensial (Otentik) |
 | --- | --- | --- |
 | **Kegagalan Karier** | Menyalahkan keadaan atau merasa diri tidak berharga. | Melihatnya sebagai "ruang kosong" untuk menciptakan nilai baru dan mendefinisikan ulang diri. |
 | **Rutinitas Membosankan** | Menjalani hari demi hari tanpa tujuan, menunggu akhir pekan. | Menyadari bahwa hari ini adalah bagian dari waktu yang fana; mencari makna kecil dalam interaksi atau karya. |
@@ -55,7 +55,7 @@ Dalam **Perspektif Eksistensial**, tidak ada jawaban "benar" yang tertulis di lu
 
 ### 5. Menjadi "Übermensch" di Dunia Modern
 
-Di akhir kursus ini, fokus kita bergeser. Kita tidak lagi mencari "makna hidup" yang tersembunyi di suatu tempat, tetapi belajar menjadi pencipta makna itu sendiri. Kita diajak untuk menjadi *Übermensch* dalam keseharian kita, yaitu sosok yang berani merombak nilai-nilai lama yang usang dan menetapkan prinsip hidupnya sendiri.
+Di akhir buku ini, fokus kita bergeser. Kita tidak lagi mencari "makna hidup" yang tersembunyi di suatu tempat, tetapi belajar menjadi pencipta makna itu sendiri. Kita diajak untuk menjadi *Übermensch* dalam keseharian kita, yaitu sosok yang berani merombak nilai-nilai lama yang usang dan menetapkan prinsip hidupnya sendiri.
 
 > "Manusia adalah seutas tali yang terbentang antara hewan dan Übermensch: seutas tali di atas jurang." - Friedrich Nietzsche
 

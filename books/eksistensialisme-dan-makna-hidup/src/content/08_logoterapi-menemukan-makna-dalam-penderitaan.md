@@ -24,7 +24,7 @@ Logoterapi dibangun di atas tiga landasan filosofis yang saling berkaitan:
 
 ### 3. Tiga Jalan Utama Menemukan Makna
 
-Frankl berpendapat bahwa kita dapat menemukan makna melalui tiga pintu utama. Mari kita gunakan analogi sebuah **perjalanan mendaki gunung**:
+Frankl berpendapat bahwa kita dapat menemukan makna melalui tiga pintu utama.
 
 #### A. Nilai Kreatif (Creative Values)
 
@@ -56,7 +56,7 @@ M = S - D
 $$
 </div>
 
-Di mana:
+Keterangan:
 
 - $M$ = Makna (*Meaning*)
 - $S$ = Penderitaan (*Suffering*)

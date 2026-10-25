@@ -38,13 +38,13 @@ $\text{Subjek } A \leftrightarrow \text{Subjek } B = \text{Konflik}$
 
 Jika $A$ ingin diakui sebagai manusia yang bebas, ia harus mendapatkan pengakuan dari $B$. Namun, jika $B$ mengakui $A$, maka $B$ harus menurunkan ego atau subjektivitasnya sendiri. Sebaliknya, jika $A$ melihat $B$ hanya sebagai alat, maka pengakuan yang diberikan $B$ kepada $A$ menjadi tidak berharga (karena berasal dari sebuah "benda", bukan manusia).
 
-Inilah paradox hubungan manusia: **Kita ingin dicintai (diakui sebagai subjek yang berharga) oleh seseorang yang kita kuasai (kita jadikan objek).** Namun, jika orang tersebut sudah kita kuasai sepenuhnya, cintanya tidak lagi memiliki makna.
+Inilah paradoks hubungan manusia: **Kita ingin dicintai (diakui sebagai subjek yang berharga) oleh seseorang yang kita kuasai (kita jadikan objek).** Namun, jika orang tersebut sudah kita kuasai sepenuhnya, cintanya tidak lagi memiliki makna.
 
 ## 4. Kehadiran dan Intersubjektivitas
 
 Meskipun Sartre menekankan konflik, filsuf eksistensial lain seperti **Gabriel Marcel** dan **Martin Buber** menawarkan sudut pandang yang lebih optimis tentang "Kehadiran" (*Presence*).
 
-Hubungan pertama adalah **I-It (Aku-Itu)**, yaitu kecenderungan memperlakukan orang lain sebatas objek, alat, atau fungsi, seperti menganggap pelayan kafe hanya sebagai mesin pembuat kopi. Sebaliknya, hubungan **I-Thou (Aku-Engkau)** membawa kita pada relasi yang tulus, menghargai kehadiran sesama manusia sebagai subjek yang utuh, bernilai, dan merdeka.
+Martin Buber membedakan dua jenis hubungan. Hubungan pertama adalah **I-It (Aku-Itu)**, yaitu kecenderungan memperlakukan orang lain sebatas objek, alat, atau fungsi, seperti menganggap pelayan kafe hanya sebagai mesin pembuat kopi. Sebaliknya, hubungan **I-Thou (Aku-Engkau)** membawa kita pada relasi yang tulus, menghargai kehadiran sesama manusia sebagai subjek yang utuh, bernilai, dan merdeka.
 
 Dalam hubungan **I-Thou**, alih-alih mencoba menguasai mereka, kita memilih membuka diri untuk menyambut kehadiran mereka secara tulus.
 
@@ -52,7 +52,7 @@ Dalam hubungan **I-Thou**, alih-alih mencoba menguasai mereka, kita memilih memb
 
 Di era digital, konsep "Tatapan" dan "Neraka adalah orang lain" menjadi relevan.
 
-Ambil contoh dinamika Instagram. Saat mengunggah foto, kamu sedang mencoba mengontrol bagaimana orang lain melihat dirimu dengan menciptakan representasi visual untuk dinilai. Konflik pun lahir saat kecemasan muncul ketika kamu terus-menerus menunggu jumlah tombol suka atau komentar sebagai bentuk pengakuan. Sisi buruknya, saat komentar negatif atau kesalahpahaman muncul, kamu merasa kebebasanmu untuk mendefinisikan diri sendiri telah dirampas oleh sudut pandang luar yang sempit.
+Ambil contoh dinamika Instagram. Saat mengunggah foto, kamu sedang mencoba mengontrol bagaimana orang lain melihat dirimu dengan menciptakan representasi visual untuk dinilai. Konflik pun lahir ketika kamu cemas dan terus-menerus menunggu jumlah suka atau komentar sebagai bentuk pengakuan. Sisi buruknya, saat komentar negatif atau kesalahpahaman muncul, kamu merasa kebebasanmu untuk mendefinisikan diri sendiri telah dirampas oleh sudut pandang luar yang sempit.
 
 Untuk menghadapinya secara eksistensial, langkah awal yang bisa diambil adalah menyadari objektifikasi tersebut. Sadarilah bahwa profilmu hanyalah representasi objek, bukan dirimu yang sesungguhnya. Selanjutnya, mulailah membangun kehadiran autentik dengan mengalihkan energi dari pencarian pengakuan massa (I-It) menuju hubungan mendalam bersama segelintir orang yang menghargai subjektivitasmu (I-Thou).
 

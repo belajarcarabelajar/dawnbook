@@ -38,7 +38,7 @@ Untuk menjelaskan teorinya, Camus menggunakan mitologi Yunani tentang **Sisyphus
 
 Camus melihat Sisyphus sebagai representasi dari kehidupan manusia modern: bangun pagi, bekerja, makan, lalu tidur (Senin, Selasa, Rabu, Kamis, Jumat...). Kita membangun sesuatu yang pada akhirnya akan hancur oleh waktu. Banyak orang merasakan hal yang sama, mendorong "batu" kewajiban mereka setiap hari tanpa akhir yang jelas.
 
-## 3\. Tiga Respons Terhadap Absurditas
+## 3\. Tiga Respons terhadap Absurditas
 
 Ketika seseorang menyadari bahwa hidup ini absurd, Camus berpendapat ada tiga jalan yang bisa diambil:
 
@@ -89,7 +89,7 @@ Bayangkan kamu sedang berada di sebuah kafe. Kamu menyadari bahwa dalam 100 tahu
 
 ## 5\. Bayangkan Sisyphus Bahagia
 
-Camus menutup esainya dengan kalimat yang terkenal:
+Camus menutup esainya, *The Myth of Sisyphus*, dengan kalimat yang terkenal:
 
 > "Perjuangan itu sendiri menuju puncak sudah cukup untuk mengisi hati manusia. Kita harus membayangkan Sisyphus bahagia."
 

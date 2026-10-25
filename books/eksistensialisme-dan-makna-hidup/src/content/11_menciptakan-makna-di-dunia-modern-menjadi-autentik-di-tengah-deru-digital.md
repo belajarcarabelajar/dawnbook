@@ -12,7 +12,7 @@ Jika dulu manusia bergulat dengan kelangkaan, kita sekarang bergulat dengan **ke
 
 Dalam *The Concept of Anxiety*, Kierkegaard menyebut kecemasan sebagai "pusingnya kebebasan". Di era digital, rasa pusing ini bertambah karena kita dihadapkan pada begitu banyak jalur karier, gaya hidup, dan ideologi hanya dalam sekali usap layar.
 
-Bayangkan saat kamu menghabiskan waktu satu jam hanya untuk memilih film di Netflix, hingga akhirnya terlalu lelah untuk menonton apa pun. Itu adalah contoh nyata dari kelumpuhan eksistensial (*existential paralysis*).
+Bayangkan saat kamu menghabiskan waktu satu jam hanya untuk memilih film di Netflix, hingga akhirnya terlalu lelah untuk menonton apa pun. Itu adalah contoh nyata dari kelumpuhan pilihan (*choice paralysis*).
 
 ### Kurasi Identitas vs. Autentisitas
 
@@ -34,7 +34,7 @@ Rutinitas modern sering kali terasa absurd, misalnya bekerja keras di bidang yan
 
 ### C. Menemukan Makna di Tengah Burnout (Frankl)
 
-Viktor Frankl mengajarkan bahwa kita sanggup melewati masa-masa sulit jika memiliki alasan kuat untuk bertahan ($\text{Why} \rightarrow \text{How}$). Ketika didera kejenuhan kerja, cobalah bertanya kepada diri sendiri: "Siapa yang terbantu oleh pekerjaanku hari ini?" atau "Makna kecil apa yang bisa kuciptakan hari ini?" Makna hidup tidak harus megah; tindakan sederhana seperti menjadi pendengar yang baik bagi rekan kerja sudah merupakan kontribusi yang nyata.
+Viktor Frankl, mengutip Nietzsche, mengajarkan bahwa kita sanggup melewati masa-masa sulit jika memiliki alasan kuat untuk bertahan ($\text{Why} \rightarrow \text{How}$). Ketika didera kejenuhan kerja, cobalah bertanya kepada diri sendiri: "Siapa yang terbantu oleh pekerjaanku hari ini?" atau "Makna kecil apa yang bisa kuciptakan hari ini?" Makna hidup tidak harus megah; tindakan sederhana seperti menjadi pendengar yang baik bagi rekan kerja sudah merupakan kontribusi yang nyata.
 
 ## 3. Menjaga Autentisitas di Era Digital
 
@@ -48,13 +48,13 @@ Menjaga autentisitas di tengah derasnya arus informasi membutuhkan prinsip yang 
 
 ### Karier "Aman" vs. "Bermakna"
 
-Andi bekerja di bank dengan gaji besar tetapi merasa hampa (sebuah bentuk dari *Bad Faith*). Dia sebenarnya ingin menekuni dunia kepenulisan, namun didera ketakutan akan kegagalan.
+Andi bekerja di bank dengan gaji besar tetapi merasa hampa. Dia sebenarnya ingin menekuni dunia kepenulisan, namun didera ketakutan akan kegagalan.
 
 Dari kacamata eksistensial, jika Andi terus mengeluh terjebak di bank karena alasan cicilan, dia sedang membohongi dirinya sendiri. Eksistensialisme mengajak Andi menyadari bahwa dia memilih keamanan finansial tersebut atas kehendaknya sendiri, dan itu adalah tanggung jawab pribadinya. Kesadaran ini membebaskan: dia bukan lagi korban keadaan, melainkan pengambil keputusan yang berdaulat.
 
 ### Hubungan di Era Ghosting
 
-Dalam dunia kencan digital yang serba cepat, kita rentan memperlakukan sesama sebagai objek belaka (apa yang disebut Sartre sebagai *The Look*).
+Dalam dunia kencan digital yang serba cepat, kita rentan memperlakukan sesama sebagai objek belaka, seperti yang digambarkan Sartre lewat konsep tatapan (*The Look*) yang mengobjekkan.
 
 Menjadi autentik berarti menghargai orang lain sebagai subjek yang merdeka, bukan alat untuk memuaskan ego atau mencari validasi diri. Hubungan yang bermakna tumbuh ketika dua orang yang bebas memilih untuk berjalan berdampingan tanpa saling membelenggu.
 
@@ -68,7 +68,7 @@ M = A \times (T - D)
 $$
 </div>
 
-Di mana $M$ melambangkan Makna (*Meaning*), $A$ mewakili Autentisitas (hidup yang selaras dengan nilai personal), $T$ adalah Tindakan konkret (bukan cuma niat kosong), dan $D$ menggambarkan Distraksi serta tekanan ekspektasi dari luar.
+Dalam rumus ini, $M$ melambangkan Makna (*Meaning*), $A$ mewakili Autentisitas (hidup yang selaras dengan nilai personal), $T$ adalah Tindakan konkret (bukan cuma niat kosong), dan $D$ menggambarkan Distraksi serta tekanan ekspektasi dari luar.
 
 > **Pesan Penutup:** Eksistensialisme bukanlah filsafat keputusasaan. Sebaliknya, ini adalah ajakan untuk mandiri dan berdaya. Dunia mungkin tidak menyediakan makna bawaan, dan itu sebenarnya kabar baik. Artinya, kamulah yang menulis dan memerankan cerita hidupmu sendiri. Jangan biarkan orang lain, apalagi algoritma, mendikte jalan ceritanya.
 

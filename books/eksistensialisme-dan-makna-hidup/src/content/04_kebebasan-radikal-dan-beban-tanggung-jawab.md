@@ -40,10 +40,10 @@ Ketika kamu memilih untuk menjadi orang yang jujur dalam bisnis, kamu seolah-ola
 
 ## 4\. Dilema Sang Murid (Sartre)
 
-Sartre menceritakan tentang seorang muridnya pada masa Perang Dunia II. Murid ini menghadapi dua pilihan:
+Sartre menceritakan kisah seorang muridnya pada masa Perang Dunia II. Murid ini menghadapi dua pilihan:
 
 1. Pergi ke Inggris untuk bergabung dengan pasukan perlawanan (berjuang demi negara/ideologi).
-2. Tetap tinggal di rumah untuk merawat ibunya yang sakit sakitan dan hanya memilikinya (berjuang demi kasih sayang pribadi).
+2. Tetap tinggal di rumah untuk merawat ibunya yang sakit-sakitan dan hanya memiliki dia seorang (berjuang demi kasih sayang pribadi).
 
 **Analisis:**
 

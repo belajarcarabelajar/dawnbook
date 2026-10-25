@@ -6,11 +6,11 @@ Pernahkah kamu terbangun di tengah malam dan bertanya apa tujuanmu berada di sin
 
 Secara sederhana, **Eksistensialisme** adalah tradisi filsafat yang berfokus pada pengalaman individu sebagai titik tolak pemikiran filosofis. Berbeda dengan filsafat tradisional yang sering mencari "hakikat umum" manusia atau hukum alam yang abstrak, eksistensialisme justru berangkat dari realitas subjektif: kegelisahan, kebebasan, dan perjuangan individu untuk menciptakan makna.
 
-> "Eksistensialisme tidak berputar di lingkup teori akademis kelas saja, tetapi menjelma menjadi seruan untuk hidup secara autentik di tengah dunia yang kerap terasa tidak masuk akal."
+> "Eksistensialisme tidak hanya berputar di lingkup teori akademis di ruang kelas, tetapi menjelma menjadi seruan untuk hidup secara autentik di tengah dunia yang kerap terasa tidak masuk akal."
 
-### Resep Masakan vs. Kanvas Kosong
+### Pisau Dapur vs. Kanvas Kosong
 
-Bayangkan sebuah pisau dapur. Sebelum pisau itu dibuat, sang pengrajin sudah memiliki tujuan (esensi) di pikirannya: pisau itu harus tajam dan bisa memotong. Di sini, **esensi mendahului eksistensi**.
+Bayangkan sebuah pisau dapur. Sebelum pisau itu dibuat, sang perajin sudah memiliki tujuan (esensi) di pikirannya: pisau itu harus tajam dan bisa memotong. Di sini, **esensi mendahului eksistensi**.
 
 Namun, bagi kaum eksistensialis, manusia adalah pengecualian. Kita lahir tanpa "buku petunjuk" atau tujuan yang sudah ditentukan oleh alam semesta. Kita ada terlebih dahulu (**eksistensi**), baru kemudian kita mendefinisikan siapa kita melalui pilihan-pilihan kita (**esensi**). Kita adalah **kanvas kosong** yang harus melukis gambarnya sendiri.
 
@@ -38,7 +38,7 @@ Kita tidak hanya bebas secara politik, tetapi bebas secara metafisis. Tidak ada 
 
 ### C. Pencarian Makna (The Search for Meaning)
 
-Dunia ini mungkin diam dan tidak peduli terhadap keinginan kita. Kondisi ini disebut sebagai **Keabsurdan**. Namun, alih-alih menyerah pada nihilisme (keyakinan bahwa hidup itu sia-sia), eksistensialisme mengajarkan kita untuk menjadi "pemberontak" dengan cara menciptakan makna sendiri.
+Dunia ini mungkin diam dan tidak peduli terhadap keinginan kita. Benturan antara kerinduan manusia akan makna dan diamnya dunia inilah yang disebut **Keabsurdan**. Namun, alih-alih menyerah pada nihilisme (keyakinan bahwa hidup itu sia-sia), eksistensialisme mengajarkan kita untuk menjadi "pemberontak" dengan cara menciptakan makna sendiri.
 
 ## 4. Struktur Logika Eksistensial
 
