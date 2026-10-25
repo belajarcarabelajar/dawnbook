@@ -18,7 +18,7 @@ $$
 \text{Stres} = \frac{\text{Tuntutan (Stressor)}}{\text{Sumber Daya (Koping)}}
 $$
 
-Jika **Tuntutan** lebih besar daripada **Sumber Daya** yang kamu miliki, maka tingkat stres akan meningkat. Sebaliknya, dengan memperkuat sumber daya (mekanisme *coping*), beban stres akan terasa lebih ringan.
+Jika **Tuntutan** lebih besar daripada **Sumber Daya** yang kamu miliki, maka tingkat stres akan meningkat. Sebaliknya, dengan memperkuat sumber daya (mekanisme koping), beban stres akan terasa lebih ringan.
 
 ### Eustress vs. Distress
 
@@ -78,4 +78,4 @@ Memahami bahwa stres adalah reaksi alami dan koping adalah keterampilan yang bis
 
 Dalam bagian selanjutnya, kita akan menggali lebih dalam ke mesin di balik reaksi ini: **Sistem Saraf Kamu**. Kita akan mempelajari mengapa tubuh kamu terkadang merasa seperti sedang dikejar harimau, padahal kamu hanya sedang menghadapi tumpukan cucian atau email yang belum dibalas.
 
-> **Pertanyaan Refleksi:** Coba ingat satu kejadian dalam seminggu terakhir di mana kamu merasa stres. Apakah itu termasuk *eustress* atau *distress*? Bagaimana cara kamu menanganinya saat itu?
+> **Pertanyaan Refleksi:** Coba ingat satu kejadian dalam seminggu terakhir ketika kamu merasa stres. Apakah itu termasuk *eustress* atau *distress*? Bagaimana cara kamu menanganinya saat itu?

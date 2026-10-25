@@ -2,7 +2,7 @@
 
 Pernahkah kamu merasa bahwa satu kegagalan kecil berarti seluruh hidup kamu hancur? Atau mungkin kamu merasa tahu persis apa yang orang lain pikirkan tentang kamu (dan itu biasanya buruk)? Jika ya, kamu tidak sendirian. Pikiran kita bukanlah cermin yang sempurna dari kenyataan; terkadang, pikiran kita lebih menyerupai kacamata yang buram, retak, atau berwarna gelap.
 
-**Restrukturisasi Kognitif** (*cognitive reframing*) adalah sebuah teknik berbasis bukti dari terapi kognitif-perilaku (*Cognitive Behavioral Therapy* / CBT) yang melatih kita untuk menjadi "detektif" bagi pikiran kita sendiri. Tujuannya adalah melatih cara berpikir yang realistis dan konstruktif, tanpa terjebak pada pemikiran positif yang buta.
+**Restrukturisasi Kognitif** (*cognitive restructuring*) adalah sebuah teknik berbasis bukti dari terapi kognitif-perilaku (*Cognitive Behavioral Therapy* / CBT) yang melatih kita untuk menjadi "detektif" bagi pikiran kita sendiri. Tujuannya adalah melatih cara berpikir yang realistis dan konstruktif, tanpa terjebak pada pemikiran positif yang buta.
 
 ---
 
@@ -21,7 +21,7 @@ Berikut adalah beberapa "perangkap pikiran" yang paling umum:
 
 ---
 
-### 2. Mengapa Pikiran Mempengaruhi Perasaan?
+### 2. Mengapa Pikiran Memengaruhi Perasaan?
 
 Hubungan antara pikiran, perasaan, dan perilaku dapat digambarkan sebagai sebuah siklus. Restrukturisasi kognitif bekerja pada komponen **Pikiran** untuk memutus rantai emosi negatif.
 
@@ -48,7 +48,7 @@ Dalam kondisi stres, distorsi kognitif membuat $P$ (persepsi beban) terlihat san
 
 ### 3. Teknik 5 Langkah Model ABCDE
 
-Untuk mengubah pola pikir, kita bisa menggunakan pendekatan sistematis yang disebut **Model ABCDE** (bagian dari lembar *thought records*). Mari kita bedah langkah demi langkah:
+Untuk mengubah pola pikir, kita bisa menggunakan pendekatan sistematis yang disebut **Model ABCDE**. Mari kita bedah langkah demi langkah:
 
 #### A - Activating Event (Kejadian Pemicu)
 

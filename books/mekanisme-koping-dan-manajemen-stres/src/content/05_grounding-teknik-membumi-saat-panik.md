@@ -10,7 +10,7 @@ Bayangkan otak kamu sebagai sebuah sirkuit listrik. Saat stres atau panik memunc
 
 Secara biologis, saat panik menyerang, bagian otak yang bernama **Amigdala** (pusat emosi) bekerja terlalu aktif, sementara **Prefrontal Cortex** (pusat logika) mengalami penurunan aktivitas. *Grounding* membantu otak mengaktifkan kembali fungsi logis dengan mengalihkan perhatian pada rangsangan sensorik yang nyata.
 
- Efektivitas *grounding* dalam meredakan kecemasan dapat digambarkan secara konseptual melalui penurunan tingkat kecemasan:
+Efektivitas *grounding* dalam meredakan kecemasan dapat digambarkan secara konseptual melalui penurunan tingkat kecemasan:
 
 <div>
 $$
@@ -22,7 +22,7 @@ $$
 
 ### Metode Sensory Grounding 5-4-3-2-1
 
-Ini adalah teknik *grounding* yang populer dan efektif karena melibatkan kelima indra. Metode *5-4-3-2-1 technique* membantu otak berhenti memproses skenario buruk di masa depan dan kembali fokus pada lingkungan fisik saat ini.
+Ini adalah teknik *grounding* yang populer dan efektif karena melibatkan kelima indra. Metode *5-4-3-2-1* membantu otak berhenti memproses skenario buruk di masa depan dan kembali fokus pada lingkungan fisik saat ini.
 
 | Indra | Target Fokus | Contoh Aplikasi Praktis |
 | :--- | :--- | :--- |
@@ -42,7 +42,7 @@ Mari kita praktikkan langkah demi langkah:
    Pejamkan mata sejenak bila membantu. Dengarkan detak jam dinding, kendaraan yang melintas jauh di luar, atau dengung lembut kipas angin/AC.
 4. **2 Aroma yang Dapat Kamu CIUM**  
    Amati aroma di sekitarmu, seperti wangi pakaian, aroma kopi, atau udara ruangan. Jika tidak ada aroma yang mencolok, bayangkan dua aroma favoritmu (seperti bau tanah setelah hujan atau aroma vanila).
-5. **1 Hal yang Dapat Kamu RASA**  
+5. **1 Hal yang Dapat Kamu RASAKAN**  
    Fokus pada sensasi rasa di dalam mulut saat ini. Apakah ada sisa rasa pasta gigi, minuman, atau sekadar rasa netral? Jika ada permen, kamu bisa mengunyahnya dan meresapi rasanya sepenuhnya.
 
 ### Variasi Teknik Grounding Lainnya
@@ -62,7 +62,7 @@ Pilih satu kategori (seperti jenis hewan, nama kota, merek mobil, atau buah-buah
 - **Contoh:** "Kucing, Anjing, Gajah, Jerapah, Zebra..."
 - Prosedur ini mengaktifkan kembali area Prefrontal Cortex yang sempat menurun fungsinya saat panik.
 
-#### 3. Penekanan Tubuh (Body Scan & Stomping)
+#### 3. Penekanan Tubuh (Stomping)
 
 Hentakkan telapak kaki ke lantai dengan mantap. Rasakan pijakan kokoh antara telapak kaki dan tanah. Kamu juga bisa menggenggam erat sandaran kursi.
 
@@ -81,8 +81,8 @@ Budi sedang menunggu gilirannya untuk berbicara di depan pimpinan. Tiba-tiba jan
 
 **Langkah Grounding yang Dilakukan Budi:**
 
-1. **Sensasi Fisik:** Budi menekan kedua telapak kakinya erat-erat ke lantai. Ia meresapi kekerasan pijakan tanah di bawah sepatunya.
-2. **Sensorik 5-4-3-2-1:** Ia memperhatikan 5 warna berbeda di dinding ruangan. Ia menggenggam tekstur pulpen di tangannya (4). Ia mendengarkan dengung lembut proyektor (3). Ia menghirup aroma minyak kayu putih di pergelangan tangannya (2). Ia merasakan sisa rasa teh hangat di lidahnya (1).
+1. **Sensasi Fisik:** Budi menekan kedua telapak kakinya erat-erat ke lantai. Ia meresapi kerasnya lantai di bawah sepatunya.
+2. **Sensorik 5-4-3-2-1:** Ia memperhatikan 5 warna berbeda di dinding ruangan. Ia merasakan tekstur pulpen di tangannya (4). Ia mendengarkan dengung lembut proyektor (3). Ia menghirup aroma minyak kayu putih di pergelangan tangannya (2). Ia merasakan sisa rasa teh hangat di lidahnya (1).
 3. **Hasil:** Dalam kurun waktu $t \le 2 \text{ menit}$, ritme jantung Budi mulai stabil. Rasa gugup tetap ada, namun ia tidak lagi merasa terpisah dari realitas dan mampu menyampaikan presentasinya.
 
 ### Panduan Praktik Grounding

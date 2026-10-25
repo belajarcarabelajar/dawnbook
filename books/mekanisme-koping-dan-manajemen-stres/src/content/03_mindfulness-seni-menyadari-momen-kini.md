@@ -2,7 +2,7 @@
 
 Pernahkah kamu sedang mengemudi atau berjalan kaki, lalu tiba-tiba sampai di tujuan tanpa benar-benar mengingat proses perjalanannya? Atau mungkin kamu sedang makan siang sambil membalas pesan WhatsApp, sehingga tidak benar-benar merasakan bumbu pada makanan tersebut?
 
-Kondisi ini disebut sebagai *autopilot mode*, sebuah keadaan di mana tubuh kita bertindak, namun pikiran kita berkelana ke masa lalu (penyesalan) atau masa depan (kecemasan). **Mindfulness** adalah penawar dari kondisi ini.
+Kondisi ini disebut sebagai *autopilot mode*, sebuah keadaan ketika tubuh kita bertindak, tetapi pikiran kita berkelana ke masa lalu (penyesalan) atau masa depan (kecemasan). **Mindfulness** adalah penawar dari kondisi ini.
 
 ### Apa Itu Mindfulness?
 
@@ -72,9 +72,9 @@ Alih-alih makan sambil menonton YouTube, cobalah lakukan ini:
 
 #### Menghadapi Kritik dari Atasan
 
-**Respon Tanpa Mindfulness:** Begitu mendengar kritik, jantungmu berdebar ($\text{HR} \uparrow$). Kamu langsung berpikir, "Aku akan dipecat," atau "Dia selalu membenciku." Kamu membalas dengan nada defensif atau justru murung seharian.
+**Respons Tanpa Mindfulness:** Begitu mendengar kritik, jantungmu berdebar ($\text{HR} \uparrow$). Kamu langsung berpikir, "Aku akan dipecat," atau "Dia selalu membenciku." Kamu membalas dengan nada defensif atau justru murung seharian.
 
-**Respon Dengan Mindfulness:**
+**Respons Dengan Mindfulness:**
 
 1. Kamu menyadari: "Oke, dadaku terasa sesak dan pikiranku mulai membuat skenario buruk."
 2. Kamu mengambil napas satu kali secara sadar.
@@ -83,7 +83,7 @@ Alih-alih makan sambil menonton YouTube, cobalah lakukan ini:
 
 ### Tips untuk Pemula
 
-**Konsistensi lebih berharga daripada durasi.** Lebih baik berlatih mindfulness selama 5 menit setiap hari daripada 1 jam namun hanya sekali sebulan. Mindfulness adalah "otot" mental; ia perlu dilatih agar kuat saat stres berat benar-benar datang.
+**Konsistensi lebih berharga daripada durasi.** Lebih baik berlatih mindfulness selama 5 menit setiap hari daripada 1 jam tetapi hanya sekali sebulan. Mindfulness adalah "otot" mental; ia perlu dilatih agar kuat saat stres berat benar-benar datang.
 
 **Contoh Rutinitas Sederhana:**
 

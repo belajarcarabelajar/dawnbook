@@ -12,7 +12,7 @@ $$
 \text{Ketahanan (Resilience)} = \frac{\text{Sumber Daya Internal} + \text{Dukungan Eksternal}}{\text{Beban Stressor}}
 $$
 
-Jika beban stressor meningkat, sumber daya dan dukungan kamu harus ditingkatkan agar sistem tidak runtuh.
+Jika beban stresor meningkat, sumber daya dan dukungan kamu harus ditingkatkan agar sistem tidak runtuh.
 
 #### Langkah-Langkah Membangun Rencana Jangka Panjang
 
@@ -36,7 +36,7 @@ Ada titik di mana mekanisme koping mandiri tidak lagi cukup. Ini bukan tanda kel
 - **Durasi**: Gejala kecemasan, kesedihan mendalam, atau keputusasaan berlangsung lebih dari **2 minggu** berturut-turut.
 - **Gejala Fisik yang Tidak Terjelaskan**: Sakit kepala kronis, gangguan pencernaan, atau nyeri otot yang tidak kunjung sembuh meski sudah diobati secara medis.
 - **Mekanisme Koping Maladaptif**: Mulai mengandalkan alkohol, obat-obatan terlarang, atau perilaku berisiko untuk melarikan diri dari perasaan.
-- **Pikiran untuk Menyakiti Diri**: Adanya pikiran atau dorongan untuk mengakhiri hidup atau menyakiti diri sendiri (Ini adalah kondisi darurat).
+- **Pikiran untuk Menyakiti Diri**: Adanya pikiran atau dorongan untuk mengakhiri hidup atau menyakiti diri sendiri (ini adalah kondisi darurat).
 
 ---
 
@@ -52,7 +52,7 @@ Sering kali orang ragu mencari bantuan karena bingung harus pergi ke mana. Berik
 
 #### Bagaimana Memilih yang Tepat?
 
-Secara umum, kamu bisa memulai dengan mengunjungi **Psikolog**. Jika dalam prosesnya ditemukan ketidakseimbangan kimiawi di otak yang memerlukan bantuan medis, psikolog akan merujuk kamu ke **Psikiater**.
+Secara umum, kamu bisa memulai dengan mengunjungi **Psikolog**. Jika dalam prosesnya ditemukan kondisi yang memerlukan bantuan medis, psikolog akan merujuk kamu ke **Psikiater**.
 
 ---
 

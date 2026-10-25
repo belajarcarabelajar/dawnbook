@@ -12,10 +12,10 @@ Mengapa angkanya 4, 7, dan 8? Mengapa tidak 5-5-5 atau 3-3-3? Jawabannya ada pad
 
 Tubuh memiliki dua mode utama dalam merespons lingkungan:
 
-- **Sistem Simpatis:** Operasional pedal gas (stres, kewaspadaan, dan peningkatan detak jantung).
-- **Sistem Parasimpatis:** Operasional pedal rem (relaksasi, pencernaan, dan pemulihan).
+- **Sistem Simpatis:** Ibarat pedal gas (stres, kewaspadaan, dan peningkatan detak jantung).
+- **Sistem Parasimpatis:** Ibarat pedal rem (relaksasi, pencernaan, dan pemulihan).
 
-Saat kamu menarik napas dalam 4 hitungan, menahannya selama 7 hitungan, dan menghembuskannya selama 8 hitungan, kamu secara aktif menekan pedal rem tersebut. Menahan napas memungkinkan oksigen mengisi darah sepenuhnya, sementara pengeluaran napas yang perlahan merangsang *vagus nerve* (saraf vagus), yaitu saraf utama yang mengirimkan sinyal aman ke otak.
+Saat kamu menarik napas dalam 4 hitungan, menahannya selama 7 hitungan, dan mengembuskannya selama 8 hitungan, kamu secara aktif menekan pedal rem tersebut. Menahan napas memperpanjang jeda dan memperlambat ritme pernapasan, sementara pengeluaran napas yang perlahan merangsang *vagus nerve* (saraf vagus), yaitu saraf utama yang mengirimkan sinyal aman ke otak.
 
 ### 2. Keseimbangan Gas Darah
 
@@ -62,7 +62,7 @@ Bayangkan pikiranmu adalah sebuah komputer yang memiliki terlalu banyak aplikasi
 
 - **Menarik napas (4):** Proses mengidentifikasi aplikasi yang tidak perlu.
 - **Menahan napas (7):** Momen ketika kamu menekan tombol *Shut Down*.
-- **Menghembuskan napas (8):** Proses membersihkan memori dan mendinginkan mesin.
+- **Mengembuskan napas (8):** Proses membersihkan memori dan mendinginkan mesin.
 
 Setelah melakukan teknik ini, tubuh dan pikiranmu kembali bekerja dengan lebih segar, seperti komputer yang beban prosesornya sudah berkurang.
 
@@ -72,7 +72,7 @@ Teknik 4-7-8 praktis karena tidak memerlukan alat apa pun dan bisa dilakukan tan
 
 - **Sebelum Tidur (Insomnia):** Ini adalah penggunaan paling populer. Ritme ini membantu menurunkan detak jantung dan mempersiapkan otak untuk masuk ke gelombang tidur.
 - **Menghadapi Konfrontasi:** Jika kamu merasa marah atau tersinggung oleh perkataan seseorang, lakukan satu siklus 4-7-8 sebelum merespons. Ini memberi jeda antara impuls emosional dan tindakan.
-- **Serangan Cemas (*Panic Attack*):** Saat merasa kewalahan, teknik ini berfungsi sebagai jangkar fisik untuk mencegah pikiran melayang ke skenario terburuk.
+- **Serangan Panik (*Panic Attack*):** Saat merasa kewalahan, teknik ini berfungsi sebagai jangkar fisik untuk mencegah pikiran melayang ke skenario terburuk.
 - **Keinginan Impulsif (*Cravings*):** Gunakan teknik ini saat kamu merasakan dorongan kuat untuk merokok atau makan berlebihan secara emosional. Langkah ini membantu memutus sirkuit keinginan di otak.
 
 ## Tips untuk Keberhasilan Jangka Panjang
@@ -80,7 +80,7 @@ Teknik 4-7-8 praktis karena tidak memerlukan alat apa pun dan bisa dilakukan tan
 Meskipun kamu bisa merasakan manfaatnya segera, teknik 4-7-8 bekerja paling baik sebagai latihan kumulatif yang dilakukan secara berkala.
 
 1. **Konsistensi:** Lakukan setidaknya dua kali sehari. Otot yang kuat tidak terbentuk hanya dengan pergi ke tempat fitnes sekali; hal yang sama berlaku untuk sistem sarafmu.
-2. **Jangan Terburu-buru:** Jika kamu tidak bisa menahan napas selama 7 detik di awal, jangan dipaksakan. Yang terpenting adalah menjaga rasio 4:7:8. Kamu bisa menghitung lebih cepat asalkan rasionya tetap konsisten.
+2. **Jangan Terburu-buru:** Jika kamu tidak bisa menahan napas selama 7 hitungan di awal, jangan dipaksakan. Yang terpenting adalah menjaga rasio 4:7:8. Kamu bisa menghitung lebih cepat asalkan rasionya tetap konsisten.
 3. **Batasan Awal:** Jangan melakukan lebih dari 4 siklus per sesi selama bulan pertama latihan. Setelah terbiasa, kamu bisa meningkatkannya hingga maksimal 8 siklus.
 4. **Peringatan Keamanan:** Karena teknik ini bisa menyebabkan sedikit pusing pada awalnya (akibat penyesuaian kadar oksigen), **jangan pernah** melakukannya saat sedang menyetir atau mengoperasikan mesin berat sampai kamu tahu pasti bagaimana tubuhmu bereaksi.
 
@@ -90,8 +90,8 @@ Gunakan panduan cepat ini untuk sesi latihanmu berikutnya:
 
 | Tahap | Aksi | Fokus Utama | Manfaat |
 | --- | --- | --- | --- |
-| **Inhalasi** | Tarik napas (Hidung) - 4 Detik | Ketenangan | Oksigenasi awal |
-| **Retensi** | Tahan napas - 7 Detik | Keheningan | Penyerapan oksigen maksimal |
-| **Ekshalasi** | Buang napas (Mulut) - 8 Detik | Pelepasan | Aktivasi *vagus nerve* |
+| **Inhalasi** | Tarik napas (Hidung) - 4 hitungan | Ketenangan | Oksigenasi awal |
+| **Retensi** | Tahan napas - 7 hitungan | Keheningan | Memperlambat ritme napas |
+| **Ekshalasi** | Buang napas (Mulut) - 8 hitungan | Pelepasan | Aktivasi *vagus nerve* |
 
-> **Ingat:** Pernapasan adalah satu-satunya fungsi sistem saraf otonom yang dapat kita kendalikan secara sadar. Dengan menguasai napasmu, kamu memegang kunci untuk mengendalikan stresmu sendiri.
+> **Ingat:** Pernapasan adalah salah satu fungsi sistem saraf otonom yang dapat kita kendalikan secara sadar. Dengan menguasai napasmu, kamu memegang kunci untuk mengendalikan stresmu sendiri.

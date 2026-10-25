@@ -26,13 +26,13 @@ Aktivitas fisik adalah salah satu cara tercepat untuk memetabolisme kelebihan ho
 
 - **Latihan Aerobik (Lari, Berenang):** Efektif untuk menjernihkan pikiran dari kecemasan akut.
 - **Latihan Beban:** Membantu meningkatkan kepercayaan diri dan regulasi hormon jangka panjang.
-- **Aktivitas Low-Intensity (Yoga, Jalan Santai):** Menurunkan sistem saraf simpatik (mode bertarung) dan mengaktifkan sistem parasimpatik (mode istirahat).
+- **Aktivitas Low-Intensity (Yoga, Jalan Santai):** Menurunkan aktivitas sistem saraf simpatik (mode bertarung) dan mengaktifkan sistem parasimpatik (mode istirahat).
 
 > Pernahkah kamu merasa sangat marah atau frustrasi, lalu perasaan itu berkurang jauh setelah kamu berjalan cepat selama 15 menit? Itu adalah metabolisme kortisol yang sedang bekerja.
 
 ### 3. Nutrisi dan Sumbu Usus-Otak (*Gut-Brain Axis*)
 
-Ada pepatah yang mengatakan, *"Kamu adalah apa yang kamu makan."* Dalam konteks stres, hal ini terbukti secara ilmiah. Sekitar 95% serotonin (hormon kebahagiaan) diproduksi di saluran pencernaan.
+Ada pepatah yang mengatakan, *"Kamu adalah apa yang kamu makan."* Dalam konteks stres, hal ini memiliki dasar ilmiah. Sebagian besar serotonin (hormon kebahagiaan) diproduksi di saluran pencernaan.
 
 #### Hubungan Gula dan Kortisol
 
@@ -44,10 +44,10 @@ $$
 
 #### Nutrisi Penunjang Ketahanan Stres
 
-- **Kompleks Karbohidrat (Gandum utuh, ubi):** Menjaga kadar gula darah stabil.
+- **Karbohidrat Kompleks (Gandum utuh, ubi):** Menjaga kadar gula darah stabil.
 - **Omega-3 (Ikan, biji chia):** Mengurangi peradangan di otak yang dipicu oleh stres.
 - **Magnesium (Bayam, cokelat hitam):** Sering disebut sebagai "mineral relaksasi" karena membantu otot dan saraf rileks.
-- **Probiotik (Yogurt, tempe):** Menjaga kesehatan mikroba usus yang berkomunikasi langsung dengan otak melalui saraf vagus.
+- **Probiotik (Yogurt):** Menjaga kesehatan mikroba usus yang berkomunikasi langsung dengan otak melalui saraf vagus.
 
 ### 4. Kualitas Tidur sebagai Pemulihan Utama
 
@@ -62,7 +62,7 @@ Kurang tidur adalah pemicu stres fisiologis yang besar. Tanpa tidur yang cukup, 
 **Tips Higiene Tidur (*Sleep Hygiene*) untuk Ketahanan Stres:**
 
 1. **Konsistensi:** Bangun dan tidur pada jam yang sama, bahkan di akhir pekan.
-2. **Blokir Cahaya Biru:** Matikan layar 60 menit sebelum tidur untuk membiarkan Melatonin ($C_{13}H_{16}N_2O_2$) bekerja.
+2. **Blokir Cahaya Biru:** Matikan layar 60 menit sebelum tidur untuk membiarkan melatonin ($C_{13}H_{16}N_2O_2$) bekerja.
 3. **Suhu Dingin:** Tubuh perlu menurunkan suhu inti sekitar $1\text{--}2^\circ\text{C}$ untuk memulai tidur yang dalam.
 
 ### Perubahan Gaya Hidup Budi
@@ -83,8 +83,8 @@ Kurang tidur adalah pemicu stres fisiologis yang besar. Tanpa tidur yang cukup, 
 
 | Pilar | Dampak pada Kortisol | Tindakan Kecil Hari Ini |
 | --- | --- | --- |
-| **Aktivitas Fisik** | Membakar kelebihan kortisol | Jalan kaki 15 menit |
+| **Aktivitas Fisik** | Membantu menurunkan kadar kortisol | Jalan kaki 15 menit |
 | **Nutrisi** | Menstabilkan energi & hormon | Kurangi gula tambahan, tambah serat |
-| **Tidur** | Menghapus limbah otak | Tidur 15 menit lebih awal dari biasanya |
+| **Tidur** | Menjaga kortisol malam hari pada titik terendah | Tidur 15 menit lebih awal dari biasanya |
 
-> **Catatan Utama:** Manajemen stres tak hanya berguna saat krisis melanda, tetapi juga tentang bagaimana kamu mempersiapkan tubuh agar tangguh menghadapi tekanan. Gaya hidup sehat ikut menjaga kesehatan mentalmu.
+> **Catatan Utama:** Manajemen stres tak hanya tentang cara bertahan saat krisis melanda, tetapi juga tentang bagaimana kamu mempersiapkan tubuh agar tangguh menghadapi tekanan. Gaya hidup sehat ikut menjaga kesehatan mentalmu.
