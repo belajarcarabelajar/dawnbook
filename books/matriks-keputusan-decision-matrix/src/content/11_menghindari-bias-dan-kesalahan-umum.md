@@ -12,7 +12,7 @@ Cognitive bias adalah kesalahan sistematis dalam berpikir yang memengaruhi cara 
 
 Ini adalah kecenderungan untuk mencari, menafsirkan, dan mengutamakan informasi yang mendukung pilihan favorit kita.
 
-- **Skenario:** Kamu sudah jatuh cinta dengan Vendor A karena presentasi mereka yang memukau. Saat mengisi matriks, kamu secara tidak sadar memberi skor tinggi pada kriteria di mana Vendor A unggul, dan meremehkan kriteria di mana mereka lemah.
+- **Skenario:** Kamu sudah jatuh cinta dengan Vendor A karena presentasi mereka yang memukau. Saat mengisi matriks, kamu secara tidak sadar memberi skor tinggi pada kriteria tempat Vendor A unggul, dan meremehkan kriteria tempat mereka lemah.
 - **Analogi:** Seperti memakai kacamata berwarna merah; semua yang kamu lihat akan tampak merah, meskipun kenyataannya tidak.
 
 ### Halo Effect
@@ -33,7 +33,7 @@ Selain bias psikologis, ada kesalahan struktural yang sering terjadi saat menyus
 
 ### Penilaian Terlalu Subjektif
 
-Tanpa panduan skor yang jelas, skor "7" bagi satu orang mungkin berarti "Sangat Baik", namun bagi orang lain hanya berarti "Cukup Baik".
+Tanpa panduan skor yang jelas, skor "7" bagi satu orang mungkin berarti "Sangat Baik", tetapi bagi orang lain hanya berarti "Cukup Baik".
 
 > [!IMPORTANT]
 > Jika kamu tidak mendefinisikan apa yang dimaksud dengan angka dalam skala milikmu, matriks tersebut hanyalah sekumpulan opini yang diberi nomor.
@@ -90,7 +90,7 @@ Sebelum finalisasi, tanyakan pada diri sendiri: *"Jika keputusan ini ternyata sa
 
 **Skenario:** Sebuah tim IT sedang memilih software CRM baru. Manajer IT sangat menyukai Software "TechPlus" karena dia pernah menggunakannya di perusahaan lama.
 
-- **Kesalahan:** Manajer tersebut memberikan bobot 50% pada kriteria "User Interface" (karena sudah familiar) dan hanya 10% pada "Integration Capability" (di mana TechPlus sebenarnya lemah).
+- **Kesalahan:** Manajer tersebut memberikan bobot 50% pada kriteria "User Interface" (karena sudah familiar) dan hanya 10% pada "Integration Capability" (tempat TechPlus sebenarnya lemah).
 - **Hasil:** TechPlus menang di matriks.
 - **Konsekuensi:** Enam bulan kemudian, perusahaan kesulitan karena software tersebut tidak bisa terhubung dengan sistem akuntansi mereka.
 

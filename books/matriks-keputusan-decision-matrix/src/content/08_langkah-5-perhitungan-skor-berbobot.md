@@ -60,16 +60,16 @@ flowchart TD
 Bayangkan kamu adalah juri dalam sebuah liga basket. Tugasmu adalah menentukan siapa pemain terbaik musim ini.
 
 - **Kriteria A:** Jumlah poin yang dicetak (Bobot: 0.7 - Sangat Penting)
-- **Kriteria B:** Gaya rambut pemain (Bobot: 0.1 - Kurang Penting)
+- **Kriteria B:** Gaya rambut pemain (Bobot: 0.3 - Kurang Penting)
 
-Pemain X mencetak banyak poin (Skor 9) tetapi gaya rambutnya biasa saja (Skor 4). Sebaliknya, Pemain Y hanya mencetak sedikit poin (Skor 3) namun memiliki gaya rambut yang sangat keren (Skor 10).
+Pemain X mencetak banyak poin (Skor 9) tetapi gaya rambutnya biasa saja (Skor 4). Sebaliknya, Pemain Y hanya mencetak sedikit poin (Skor 3) tetapi memiliki gaya rambut yang sangat keren (Skor 10).
 
 **Perhitungan:**
 - **Pemain X:**
 
   <div>
   $$
-  (9 \times 0.7) + (4 \times 0.1) = 6.3 + 0.4 = \mathbf{6.7}
+  (9 \times 0.7) + (4 \times 0.3) = 6.3 + 1.2 = \mathbf{7.5}
   $$
   </div>
 
@@ -77,7 +77,7 @@ Pemain X mencetak banyak poin (Skor 9) tetapi gaya rambutnya biasa saja (Skor 4)
 
   <div>
   $$
-  (3 \times 0.7) + (10 \times 0.1) = 2.1 + 1.0 = \mathbf{3.1}
+  (3 \times 0.7) + (10 \times 0.3) = 2.1 + 3.0 = \mathbf{5.1}
   $$
   </div>
 

@@ -10,7 +10,7 @@ Dalam konteks matriks keputusan, **Alternatif** adalah berbagai opsi, solusi, at
 
 ### Mengapa Langkah Ini Penting?
 
-Banyak orang terjebak dalam *tunnel vision*, di mana mereka hanya berfokus pada satu atau dua opsi yang sudah lazim. Mengidentifikasi alternatif secara menyeluruh membantu:
+Banyak orang terjebak dalam *tunnel vision*, yaitu hanya berfokus pada satu atau dua opsi yang sudah lazim. Mengidentifikasi alternatif secara menyeluruh membantu:
 
 1. **Mencegah Penyesalan.** Cara ini mengurangi risiko melewatkan peluang yang sebenarnya lebih menguntungkan.
 2. **Objektivitas yang Lebih Baik.** Kita didorong untuk mempertimbangkan opsi yang mungkin awalnya kurang disukai, tetapi secara teknis mumpuni.
@@ -68,7 +68,7 @@ Sebuah tim pengembang harus memutuskan *framework* mana yang akan digunakan untu
 1. React.js
 2. Vue.js
 3. Angular
-4. WordPress (sederhana, namun kurang skalabel)
+4. WordPress (sederhana, tetapi kurang skalabel)
 5. Membangun *framework* sendiri dari awal (*custom*)
 6. Svelte
 
