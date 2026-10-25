@@ -32,7 +32,7 @@ Distribusi kecepatan dan transisi fluida di dalam lapisan batas terbagi ke dalam
 
 #### A. Aliran Laminar
 
-Aliran laminar bergerak dalam lapisan-lapisan fluida sejajar yang teratur dan mulus tanpa pertukaran massa makroskopis antar-lapisan.
+Aliran laminar bergerak dalam lapisan-lapisan fluida sejajar yang teratur dan mulus tanpa pertukaran massa makroskopis antarlapisan.
 
 - **Karakteristik:** Gaya hambat gesek permukaan (*skin friction drag*) sangat rendah, namun struktur alirannya rentan terhadap gangguan eksternal.
 - **Lokasi:** Terbentuk mulai dari tepi depan (*leading edge*) airfoil tempat lapisan batas masih sangat tipis.
@@ -69,20 +69,20 @@ Untuk mempertahankan gaya angkat aerodinamis yang optimal, aliran udara idealnya
 #### Tahapan Terjadinya Separasi Aliran
 
 1. **Gradien Tekanan Menguntungkan (*Favorable Pressure Gradient*):** Di bagian depan airfoil hingga titik kecepatan puncak, tekanan fluida menurun ($\frac{dp}{dx} < 0$). Penurunan tekanan ini mempercepat partikel fluida dan menjaga kestabilan lapisan batas.
-2. **Gradien Tekanan Merugikan (*Adverse Pressure Gradient*):** Setelah melewati titik ketebalan maksimum menuju tepi belakang (*trailing edge*), tekanan fluida meningkat seiring penurunan kecepatan ($\frac{dp}{dx} > 0$).
+2. **Gradien Tekanan Merugikan (*Adverse Pressure Gradient*):** Setelah melewati titik kecepatan puncak menuju tepi belakang (*trailing edge*), tekanan fluida meningkat seiring penurunan kecepatan ($\frac{dp}{dx} > 0$).
 3. **Pelemahan Energi Kinetik:** Partikel fluida di dekat dinding telah kehilangan sebagian besar energi kinetiknya akibat disipasi viskos. Gaya dorong sisa tidak lagi mencukupi untuk mengatasi peningkatan tekanan balik.
-4. **Titik Separasi (*Separation Point*):** Kecepatan aliran di dekat dinding melambat hingga mencapai nol ($\left.\frac{\partial u}{\partial y}\right|_{y=0} = 0$), lalu berbalik arah membentuk pusaran resirkulasi (*reverse flow*). Titik saat gradien kecepatan di dinding bernilai nol ini dinamakan titik separasi.
+4. **Titik Separasi (*Separation Point*):** Kecepatan aliran di dekat dinding melambat hingga mencapai nol ($\left.\frac{\partial u}{\partial y}\right|_{y=0} = 0$), lalu berbalik arah (*reverse flow*) membentuk pusaran resirkulasi. Titik saat gradien kecepatan di dinding bernilai nol ini dinamakan titik separasi.
 
-Keempat tahapan itu terbagi ke dua daerah airfoil, yaitu bagian depan dan bagian setelah titik ketebalan maksimum.
+Keempat tahapan itu terbagi ke dua daerah airfoil, yaitu bagian depan dan bagian setelah titik kecepatan puncak.
 
 ```mermaid
 flowchart TD
     accTitle: Tahapan terjadinya separasi aliran
-    accDescr: Di bagian depan airfoil hingga titik kecepatan puncak, tekanan menurun sehingga partikel fluida dipercepat dan lapisan batas stabil. Setelah titik ketebalan maksimum menuju tepi belakang, tekanan meningkat seiring penurunan kecepatan, energi kinetik partikel dekat dinding melemah akibat disipasi viskos, kecepatan dekat dinding melambat hingga nol di titik separasi, lalu aliran berbalik arah membentuk pusaran resirkulasi.
+    accDescr: Di bagian depan airfoil hingga titik kecepatan puncak, tekanan menurun sehingga partikel fluida dipercepat dan lapisan batas stabil. Setelah titik kecepatan puncak menuju tepi belakang, tekanan meningkat seiring penurunan kecepatan, energi kinetik partikel dekat dinding melemah akibat disipasi viskos, kecepatan dekat dinding melambat hingga nol di titik separasi, lalu aliran berbalik arah membentuk pusaran resirkulasi.
     subgraph DEPAN["Bagian depan airfoil hingga titik kecepatan puncak"]
         S1["Favorable pressure gradient, tekanan menurun"] --> S2["Partikel fluida dipercepat, lapisan batas stabil"]
     end
-    subgraph BELAKANG["Setelah titik ketebalan maksimum menuju tepi belakang"]
+    subgraph BELAKANG["Setelah titik kecepatan puncak menuju tepi belakang"]
         S3["Adverse pressure gradient, tekanan meningkat seiring penurunan kecepatan"] --> S4["Energi kinetik dekat dinding melemah akibat disipasi viskos"]
         S4 --> S5["Titik separasi, kecepatan dekat dinding mencapai nol"]
         S5 --> S6["Aliran berbalik arah membentuk pusaran resirkulasi"]
@@ -100,7 +100,7 @@ Sebagai analogi mekanika, fluida yang bergerak melawan kenaikan tekanan menyerup
 
 - **Sudut Serang Rendah:** Aliran fluida melekat sempurna pada permukaan atas dan bawah airfoil; koefisien gaya angkat ($C_L$) meningkat secara linier terhadap sudut serang.
 - **Peningkatan Sudut Serang:** Titik separasi mulai bergeser maju dari tepi belakang (*trailing edge*) menuju ke arah tepi depan (*leading edge*).
-- **Sudut Serang Kritis ($\alpha_{\text{cr}}$):** Pemisahan aliran masif terjadi di permukaan atas, membentuk daerah olakan (*turbulent wake*) bertekanan rendah yang sangat luas di belakang airfoil.
+- **Sudut Serang Kritis ($\alpha_{\text{cr}}$):** Separasi aliran masif terjadi di permukaan atas, membentuk daerah olakan (*turbulent wake*) bertekanan rendah yang sangat luas di belakang airfoil.
 - **Dampak Aerodinamis:** Terjadi penurunan drastis pada gaya angkat ($L$) disertai lonjakan signifikan pada gaya hambat bentuk (*form drag* atau *pressure drag*).
 
 Gaya angkat dinyatakan melalui persamaan:
@@ -143,6 +143,6 @@ Keberadaan lesung pipit (*dimples*) sengaja memicu turbulensi pada lapisan batas
 | **Profil Kecepatan Dekat Dinding** | Landai | Curam (penuh energi) |
 | **Gaya Hambat Gesek ($C_f$)** | Rendah | Tinggi |
 | **Ketahanan terhadap Separasi** | Rendah (mudah terpisah) | Tinggi (sulit terpisah) |
-| **Pencampuran Fluida Antar-Lapisan** | Difusi molekuler lambat | Konveksi eddy intensif |
+| **Pencampuran Fluida Antarlapisan** | Difusi molekuler lambat | Konveksi eddy intensif |
 
 Dalam perancangan aerodinamika, turbulensi bukanlah kondisi yang selalu merugikan. Pengelolaan transisi aliran secara terarah merupakan kunci untuk mencegah separasi dini dan mempertahankan stabilitas wahana terbang.

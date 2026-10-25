@@ -52,12 +52,12 @@ Setiap variasi geometri planform menawarkan perpaduan kompromi antara efisiensi 
 
 Planform persegi panjang memiliki kord konstan dari pangkal hingga ujung ($\lambda = 1.0$). Desain ini lazim diterapkan pada pesawat latih dasar seperti Cessna 150 atau Piper PA-28 Cherokee.
 
-- **Keunggulan:** Proses pabrikasi sangat sederhana dan berbiaya rendah karena semua rusuk sayap (*ribs*) memiliki dimensi identik. Dari perspektif keselamatan, separasi aliran awal (*stall*) selalu bermula di pangkal sayap (*root*), sehingga permukaan kendali *aileron* di dekat ujung sayap tetap efektif mempertahankan kontrol guling.
+- **Keunggulan:** Proses pabrikasi sangat sederhana dan berbiaya rendah karena semua rusuk sayap (*ribs*) memiliki dimensi identik. Dari perspektif keselamatan, separasi aliran awal (*stall*) cenderung bermula di pangkal sayap (*root*), sehingga permukaan kendali *aileron* di dekat ujung sayap tetap efektif mempertahankan kontrol guling.
 - **Kekurangan:** Menghasilkan konsentrasi sirkulasi berlebih di ujung sayap yang memicu *induced drag* relatif besar, sehingga kurang efisien untuk penerbangan jelajah jarak jauh.
 
 #### B. Elliptical Planform (Sayap Elips)
 
-Secara teoritis murni berdasarkan teori garis angkat Prandtl (*Prandtl's lifting-line theory*), planform elips merupakan bentuk paling optimal untuk domain subsonik tak termampatkan.
+Secara teoretis murni berdasarkan teori garis angkat Prandtl (*Prandtl's lifting-line theory*), planform elips merupakan bentuk paling optimal untuk domain subsonik tak termampatkan.
 
 - **Keunggulan:** Menghasilkan distribusi gaya angkat eliptik murni yang memberikan kecepatan induksi seragam (*constant downwash*), sehingga meminimalkan koefisien hambatan terinduksi ($C\_{D,i}$) ke batas teoretis terendah ($e = 1.0$).
 - **Kekurangan:** Kompleksitas manufaktur sangat tinggi karena setiap penampang memiliki kord dan kelengkungan permukaan yang berbeda. Contoh historis terkenal dari aplikasi ini adalah pesawat tempur **Supermarine Spitfire**. Selain itu, *stall* cenderung terjadi serentak di seluruh rentang sayap tanpa peringatan awal yang terlokalisasi.
@@ -76,7 +76,7 @@ Planform meruncing linear ($\lambda < 1.0$) dirancang sebagai kompromi teknis an
 
 ### 3. Distribusi Gaya Angkat (Lift Distribution)
 
-Pengaruh geometri planform terhadap performa pesawat berakar pada **Distribusi Gaya Angkat** di sepanjang sumbu bentang ($y$).
+Pengaruh geometri planform terhadap performa pesawat berakar pada **Distribusi Gaya Angkat** di sepanjang sumbu rentang ($y$).
 
 Kondisi aerodinamika paling efisien tercapai ketika distribusi gaya angkat per satuan rentang membentuk kurva elips. Persamaan distribusi gaya angkat eliptik ideal dirumuskan sebagai:
 
@@ -109,9 +109,9 @@ L_{\text{actual}}(y) = \frac{L_{\text{planform}}(y) + L_{\text{elliptical}}(y)}{
 $$
 </div>
 
-Metode ini memberikan estimasi distribusi beban yang akurat untuk menghitung gaya geser (*shear force*) dan momen lentur (*bending moment*) sepanjang bentang sayap saat melakukan analisis kekuatan struktur.
+Metode ini memberikan estimasi distribusi beban yang akurat untuk menghitung gaya geser (*shear force*) dan momen lentur (*bending moment*) sepanjang rentang sayap saat melakukan analisis kekuatan struktur.
 
-> **Refleksi Kritis:** Mengapa pesawat komersial modern jarang mengadopsi sayap elips murni jika bentuk tersebut paling efisien secara teoritis? Hal ini disebabkan oleh batasan manufaktur komponen komposit berskala besar, kebutuhan volume internal untuk tangki bahan bakar di sepanjang sayap, serta pertimbangan penempatan mekanisme *flap* dan *slat* yang memerlukan garis engsel lurus.
+> **Refleksi Kritis:** Mengapa pesawat komersial modern jarang mengadopsi sayap elips murni jika bentuk tersebut paling efisien secara teoretis? Hal ini disebabkan oleh batasan manufaktur komponen komposit berskala besar, kebutuhan volume internal untuk tangki bahan bakar di sepanjang sayap, serta pertimbangan penempatan mekanisme *flap* dan *slat* yang memerlukan garis engsel lurus.
 
 ### 5. Karakteristik Planform Sayap Meruncing
 
@@ -142,7 +142,7 @@ Dengan angka ilustrasi, ambil sebuah pesawat nirawak (UAV) dengan rentang sayap 
 
 ### 6. Contoh Planform pada Pesawat Nyata
 
-1. **Cessna 172 Skyhawk (Modified Rectangular / Tapered):** Mengutamakan kestabilan terbang dan keselamatan operasional. Pola pelepasan aliran bermula dari akar sayap, memberikan getaran peringatan (*buffet*) sebelum *stall* penuh terjadi, sekaligus mempertahankan efektivitas kendali kemudi guling.
+1. **Cessna 172 Skyhawk (Modified Rectangular / Tapered):** Mengutamakan kestabilan terbang dan keselamatan operasional. Pola pelepasan aliran bermula dari pangkal sayap, memberikan getaran peringatan (*buffet*) sebelum *stall* penuh terjadi, sekaligus mempertahankan efektivitas kendali kemudi guling.
 2. **Supermarine Spitfire (Elliptical):** Mengoptimalkan efisiensi gaya angkat subsonik dan meminimalkan *induced drag* selama pertempuran udara, meskipun memerlukan biaya manufaktur dan waktu perakitan yang sangat intensif.
 3. **Boeing 787 Dreamliner (Swept & Highly Tapered dengan Raked Wingtips):** Memadukan ketirusan tinggi, sudut sapu moderat, dan kelengkungan fleksibel (*aeroelastic wing*) untuk mencapai efisiensi bahan bakar maksimal pada angka Mach transonik ($M \approx 0.85$).
 4. **Glider / Sailplane Berperforma Tinggi (High Aspect Ratio Tapered):** Menggunakan sayap yang sangat panjang dan ramping ($\text{AR} > 25$) dengan *taper ratio* teroptimasi untuk menekan *induced drag* ke tingkat serendah mungkin, memungkinkan rasio luncur (*glide ratio*) melampaui $50:1$.

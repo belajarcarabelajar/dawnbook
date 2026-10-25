@@ -1,6 +1,6 @@
 ## Desain Wingtip dan Reduksi Vorteks
 
-Pernahkah teramati bentuk ujung sayap pesawat komersial modern saat duduk di dekat jendela kabin? Terlihat jelas ujung sayap yang melengkung ke atas atau memiliki sirip tambahan aerodinamis yang khas. Struktur tersebut bukan sekadar variasi estetika, melainkan perangkat untuk meningkatkan efisiensi bahan bakar dan performa aerodinamika.
+Pernahkah kamu mengamati bentuk ujung sayap pesawat komersial modern saat duduk di dekat jendela kabin? Terlihat jelas ujung sayap yang melengkung ke atas atau memiliki sirip tambahan aerodinamis yang khas. Struktur tersebut bukan sekadar variasi estetika, melainkan perangkat untuk meningkatkan efisiensi bahan bakar dan performa aerodinamika.
 
 Fisika dan matematika **Desain Wingtip dan Reduksi Vorteks** menjelaskan bagaimana kebocoran aliran udara di ujung sayap dapat dikendalikan dan diubah menjadi keuntungan aerodinamis.
 
@@ -21,7 +21,7 @@ Fenomena aliran melingkar tiga dimensi pada ujung sayap ini dikenal sebagai **Pu
 
 #### Dampak Negatif Vorteks terhadap Efisiensi Penerbangan
 
-1. **Hambatan Induksi (*Induced Drag*):** Vorteks menginduksi kecepatan aliran udara vertikal ke bawah yang disebut aliran turun (*downwash*) di sepanjang rentang sayap. Aliran *downwash* ini mengubah arah vektor kecepatan relatif lokal ($\alpha_{\text{eff}} < \alpha_{\text{geom}}$), sehingga memiringkan vektor gaya angkat total ke arah belakang. Komponen gaya angkat yang sejajar dengan arah terbang bebas ini menghasilkan hambatan induksi ($C_{D,i}$).
+1. **Hambatan Induksi (*Induced Drag*):** Vorteks menginduksi kecepatan aliran udara vertikal ke bawah yang disebut aliran turun (*downwash*) di sepanjang bentang sayap. Aliran *downwash* ini mengubah arah vektor kecepatan relatif lokal ($\alpha_{\text{eff}} < \alpha_{\text{geom}}$), sehingga memiringkan vektor gaya angkat total ke arah belakang. Komponen gaya angkat yang sejajar dengan arah terbang bebas ini menghasilkan hambatan induksi ($C_{D,i}$).
 2. **Disipasi Energi Kinetik:** Energi mekanik dari sistem propulsi pesawat terbuang sia-sia untuk memutar massa udara di belakang sayap alih-alih digunakan murni untuk mengatasi hambatan parasit (*parasite drag*) dan mendorong laju pesawat.
 3. **Turbulensi Jejak (*Wake Turbulence*):** Pusaran vorteks di belakang pesawat berbobot besar memiliki intensitas sirkulasi ($\Gamma$) yang sangat tinggi dan dapat bertahan selama beberapa menit di atmosfer, menimbulkan bahaya turbulensi jejak bagi pesawat lain yang melintas di koridor udara yang sama.
 
@@ -44,9 +44,9 @@ $$
 #### Variasi Desain Wingtip Modern
 
 1. **Blended Winglets:** Memiliki transisi kurva lengkung yang mulus (*smooth radius*) antara permukaan sayap utama dan sirip vertikal (misalnya pada Boeing 737-800). Bentuk lengkungan kontinu ini meminimalkan hambatan interferensi (*interference drag*) pada titik pertemuan struktur.
-2. **Sharklets:** Varian winglet berukuran besar dengan kurva khas yang dikembangkan untuk lini Airbus (seperti keluarga A320neo), dirancang untuk mengoptimalkan distribusi gaya angkat rentang sayap.
+2. **Sharklets:** Varian winglet berukuran besar dengan kurva khas yang dikembangkan untuk lini Airbus (seperti keluarga A320neo), dirancang untuk mengoptimalkan distribusi gaya angkat bentang sayap.
 3. **Raked Wingtips:** Ujung sayap dengan sudut sapuan ke belakang (*sweepback*) yang lebih tajam dibanding sayap utama (seperti pada Boeing 777-300ER dan Boeing 787 Dreamliner). Desain ini memperpanjang *effective aspect ratio* tanpa menimbulkan penambahan beban momen tekuk sebesar sirip vertikal penuh.
-4. **Split Scimitar Winglets:** Desain sayap tingkat lanjut yang menggabungkan sirip ke atas berbentuk bilah pedang (*scimitar*) dengan sirip ventral ke arah bawah, membagi sirkulasi vorteks menjadi beberapa inti yang lebih kecil dan lebih cepat meluruh.
+4. **Split Scimitar Winglets:** Desain winglet tingkat lanjut yang menggabungkan sirip ke atas berbentuk bilah pedang (*scimitar*) dengan sirip ventral ke arah bawah, membagi sirkulasi vorteks menjadi beberapa inti yang lebih kecil dan lebih cepat meluruh.
 
 ### 3. Analisis Teknis dan Formulasi Matematika
 
@@ -61,7 +61,7 @@ Keterangan variabel:
 - $C_{D,i}$: Koefisien hambatan induksi (*induced drag coefficient*).
 - $C_L$: Koefisien gaya angkat sayap (*lift coefficient*).
 - $\text{AR}$: Rasio aspek sayap (*Aspect Ratio*), dirumuskan sebagai $\text{AR} = \frac{b^2}{S}$ ($b$ adalah bentang sayap, $S$ adalah luas referensi sayap).
-- $e$: Faktor efisiensi rentang Oswald ($e \le 1.0$ pada sayap datar planar tanpa winglet; dapat melampaui $1.0$ saat menggunakan perangkat *non-planar* seperti winglet efektif).
+- $e$: Faktor efisiensi bentang Oswald ($e \le 1.0$ pada sayap datar planar tanpa winglet; dapat melampaui $1.0$ saat menggunakan perangkat *non-planar* seperti winglet efektif).
 
 Melalui penambahan winglet, nilai penyebut $\pi \cdot \text{AR} \cdot e$ meningkat signifikan, sehingga mereduksi nilai $C_{D,i}$ secara substansial pada sudut serang terbang jelajah (*cruise angle of attack*).
 
@@ -76,7 +76,7 @@ Melalui penambahan winglet, nilai penyebut $\pi \cdot \text{AR} \cdot e$ meningk
 Penerapan winglet menuntut analisis kompromi (*trade-off analysis*) yang ketat antara keuntungan aerodinamis dan penalti struktural:
 
 - **Pertambahan Massa Struktural:** Pemasangan struktur winglet dan penguat internal menambah bobot kosong pesawat (*Operating Empty Weight* / $\text{OEW}$).
-- **Peningkatan Momen Tekuk Akar Sayap (*Wing Root Bending Moment*):** Gaya angkat lateral yang dihasilkan winglet menggeser titik tangkap resultan gaya angkat ke arah luar bentang (*outboard*), meningkatkan momen lentur pada pangkal sayap sehingga memerlukan perkuatan spar utama.
+- **Peningkatan Momen Tekuk Akar Sayap (*Wing Root Bending Moment*):** Gaya angkat lateral yang dihasilkan winglet menggeser titik tangkap resultan gaya angkat ke arah luar bentang (*outboard*), meningkatkan momen tekuk pada akar sayap sehingga memerlukan perkuatan spar utama.
 - **Hambatan Gesek Kulit (*Skin Friction Drag*):** Penambahan luas permukaan basah (*wetted area*) sedikit meningkatkan kontribusi hambatan parasit.
 
 Perancang aerodinamika mengandalkan komputasi dinamika fluida (*Computational Fluid Dynamics* / $\text{CFD}$) dan uji terowongan angin untuk memastikan bahwa penurunan hambatan induksi jauh melampaui penalti hambatan parasit dan beban massa struktural.
@@ -94,7 +94,7 @@ Ketika sebuah maskapai penerbangan melakukan modifikasi *retrofit* dengan memasa
 **Inspirasi Bionik dan Penerapan Non-Aviasi:**
 
 - **Morfologi Sayap Burung Pemangsa:** Burung elang membentangkan bulu primer di ujung sayap (*slotted wingtips*) ke arah atas saat meluncur untuk mengurangi hambatan induksi dan menghemat energi metabolisme saat memanfaatkan arus termal (*thermal updraft*).
-- **Rotor Turbin Angin:** Bilah turbin angin modern mengadopsi ujung melengkung (*curved wingtips*) untuk meredam kebisingan akustik frekuensi tinggi serta memaksimalkan konversi daya dari energi kinetik angin.
+- **Rotor Turbin Angin:** Bilah turbin angin modern mengadopsi ujung melengkung (*curved blade tips*) untuk meredam kebisingan akustik frekuensi tinggi serta memaksimalkan konversi daya dari energi kinetik angin.
 
 ### 6. Matriks Komparasi Desain Ujung Sayap
 
@@ -102,7 +102,7 @@ Ketika sebuah maskapai penerbangan melakukan modifikasi *retrofit* dengan memasa
 | :--- | :--- | :--- | :--- |
 | **Sayap Planar Standar** | Sirkulasi vorteks bebas di ujung sayap | Sederhana dan ringan secara struktural | Beban momen tekuk akar sayap minimum |
 | **Blended Winglet** | Transisi radius lengkung mulus | Reduksi $C_{D,i}$ tinggi, interferensi minimal | Peningkatan momen lentur sayap moderat |
-| **Raked Wingtip** | Penambahan sudut sapuan dan perpanjangan rentang | Distribusi beban angkat optimal pada jelajah tinggi | Penalti bobot vertikal lebih rendah |
+| **Raked Wingtip** | Penambahan sudut sapuan dan perpanjangan bentang | Distribusi beban angkat optimal pada jelajah tinggi | Penambahan momen tekuk lebih rendah dibanding sirip vertikal |
 | **Split Scimitar Winglet** | Sirip ganda atas dan bawah | Efisiensi reduksi vorteks maksimum | Memerlukan perkuatan struktur ujung dan spar |
 
 **Prinsip Kunci:**

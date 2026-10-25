@@ -1,8 +1,8 @@
 ## Pengantar Aerodinamika Pesawat Terbang
 
-Pernahkah kamu membayangkan berdiri di samping Boeing 747 atau Airbus A380, lalu takjub melihat benda seberat ratusan ton itu terangkat ke angkasa? Ia naik seolah-olah seringan kapas. Jawabannya terletak pada interaksi antara molekul udara dan permukaan benda yang melewatinya. Itulah inti dari **Aerodinamika**.
+Pernahkah kamu membayangkan berdiri di samping Boeing 747 atau Airbus A380, lalu takjub melihat benda seberat ratusan ton itu terangkat ke angkasa? Ia naik seolah-olah seringan kapas. Bagaimana hal itu mungkin? Jawabannya terletak pada interaksi antara molekul udara dan permukaan benda yang melewatinya. Itulah inti dari **Aerodinamika**.
 
-Secara etimologi, Aerodinamika berasal dari kata Yunani *Aero* (udara) dan *Dynamics* (kekuatan atau perubahan). Bidang ini merupakan studi tentang bagaimana gas (khususnya udara) berinteraksi dengan benda padat yang bergerak melaluinya.
+Secara etimologi, Aerodinamika berasal dari kata Yunani *aēr* (udara) dan *dynamis* (kekuatan). Bidang ini merupakan studi tentang bagaimana gas (khususnya udara) berinteraksi dengan benda padat yang bergerak melaluinya.
 
 ## 1. Udara sebagai Fluida
 
@@ -50,7 +50,7 @@ $$
 
 Bayangkan situasi di dalam gerbong kereta api yang melaju sangat cepat. Jika jendela dibuka sedikit, tirai akan tersedot ke arah luar. Mengapa fenomena ini terjadi? Karena udara di luar kereta bergerak sangat cepat (tekanan rendah) dibandingkan udara di dalam kereta yang relatif diam (tekanan tinggi). Udara bertekanan tinggi selalu mendorong ke arah zona bertekanan rendah.
 
-**Penerapannya pada Sayap:** Profil sayap dirancang sedemikian rupa sehingga udara yang melintas di atas sayap bergerak **lebih cepat** dibandingkan udara di bawah sayap. Akibatnya, tekanan di atas sayap menjadi **lebih rendah** daripada tekanan di bawah sayap. Perbedaan tekanan inilah yang menghasilkan dorongan atau daya hisap ke atas.
+**Penerapannya pada Sayap:** Profil sayap dirancang sedemikian rupa sehingga udara yang melintas di atas sayap bergerak **lebih cepat** dibandingkan udara di bawah sayap. Akibatnya, tekanan di atas sayap menjadi **lebih rendah** daripada tekanan di bawah sayap. Perbedaan tekanan inilah yang menghasilkan dorongan atau daya isap ke atas.
 
 ## 3. Hukum Ketiga Newton
 
@@ -80,7 +80,7 @@ Tidak mungkin tercipta perbedaan tekanan (Bernoulli) tanpa adanya pembelokan ali
 1. **Gerakan Maju (*Thrust*):** Propulsi menggerakkan pesawat ke depan, mengalirkan udara melewati kontur sayap.
 2. **Pembelokan Aliran:** Kelengkungan profil sayap (*camber*) memandu partikel fluida mengikuti konturnya.
 3. **Gradien Kecepatan dan Tekanan:** Aliran fluida di sisi atas mengalami percepatan (Bernoulli), membentuk zona bertekanan rendah.
-4. **Perubahan Momentum:** Aliran udara didefleksikan ke arah bawah pada bagian buritan sayap (Newton), memberikan dorongan reaksi ke atas.
+4. **Perubahan Momentum:** Aliran udara didefleksikan ke arah bawah pada tepi belakang sayap (Newton), memberikan dorongan reaksi ke atas.
 5. **Gaya Angkat Efektif:** Resultan perbedaan medan tekanan dan reaksi momentum menghasilkan gaya angkat total (*lift*) yang mampu menyeimbangkan gaya gravitasi (*weight*).
 
 Lewat diagram berikut, kamu bisa melihat jalur Bernoulli dan jalur Newton bertemu pada gaya angkat yang sama.

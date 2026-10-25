@@ -1,8 +1,8 @@
 ## Metode Pengujian dan Simulasi CFD
 
-Bayangkan sebuah profil airfoil baru saja selesai dirancang di atas kertas atau pemodelan CAD. Desain tersebut secara teoritis tampak efisien dan menjanjikan rasio gaya angkat terhadap hambat ($L/D$) yang tinggi. Namun, memasang profil tersebut secara langsung pada purwarupa pesawat terbang berawak berisiko tinggi tanpa serangkaian tahapan validasi eksperimental dan komputasional yang mendalam.
+Bayangkan sebuah profil airfoil baru saja selesai dirancang di atas kertas atau pemodelan CAD. Desain tersebut secara teoretis tampak efisien dan menjanjikan rasio gaya angkat terhadap hambat ($L/D$) yang tinggi. Namun, memasang profil tersebut secara langsung pada purwarupa pesawat terbang berawak berisiko tinggi tanpa serangkaian tahapan validasi eksperimental dan komputasional yang mendalam.
 
-Dalam mekanika fluida dan aerodinamika terapan, terdapat perbedaan nyata antara formulasi analitis teoretis dengan fenomena aliran fluida nyata yang melibatkan viskositas, turbulensi, separasi, dan efek kompresibilitas. Untuk menjembatani perbedaan tersebut, aerodinamika modern bertumpu pada dua metode validasi utama: **Computational Fluid Dynamics (CFD)** dan **Pengujian Terowongan Angin (Wind Tunnel Testing)**.
+Dalam mekanika fluida dan aerodinamika terapan, terdapat perbedaan nyata antara formulasi analitis teoretis dan fenomena aliran fluida nyata yang melibatkan viskositas, turbulensi, separasi, dan efek kompresibilitas. Untuk menjembatani perbedaan tersebut, aerodinamika modern bertumpu pada dua metode validasi utama: **Computational Fluid Dynamics (CFD)** dan **Pengujian Terowongan Angin (Wind Tunnel Testing)**.
 
 Urutan validasi yang perlu kamu tempuh, dari konsep geometri sampai uji terbang nyata, terlihat pada diagram berikut.
 
@@ -51,7 +51,7 @@ Keterangan variabel:
 
 #### Hierarki Pemodelan Turbulensi dalam CFD
 
-Karena aliran turbulensi memiliki rentang skala spasial dan temporal dari skala pusaran integral terbesar hingga skala disipasi Kolmogorov terkecil, penyelesaian persamaan Navier-Stokes secara langsung memerlukan daya komputasi yang sangat masif. Oleh karena itu, diterapkan tingkatan pemodelan:
+Karena aliran turbulen memiliki rentang skala spasial dan temporal dari skala pusaran integral terbesar hingga skala disipasi Kolmogorov terkecil, penyelesaian persamaan Navier-Stokes secara langsung memerlukan daya komputasi yang sangat masif. Oleh karena itu, diterapkan tingkatan pemodelan:
 
 1. **RANS (Reynolds-Averaged Navier-Stokes)**: Memisahkan variabel aliran menjadi nilai rata-rata waktu dan fluktuasi turbulen ($\mathbf{u} = \bar{\mathbf{u}} + \mathbf{u}'$). Menghasilkan tegangan Reynolds (*Reynolds stress*) yang dimodelkan menggunakan model turbulensi seperti Spalart-Allmaras (1 persamaan), $k\text{-}\epsilon$, atau $k\text{-}\omega\text{ SST}$ (2 persamaan). Pendekatan ini merupakan standar industri karena efisiensi komputasinya.
 2. **LES (Large Eddy Simulation)**: Menyelesaikan struktur pusaran berskala besar secara spasial (*filtered*) dan hanya memodelkan pusaran sub-grid kecil (*Sub-Grid Scale / SGS model*).
@@ -59,7 +59,7 @@ Karena aliran turbulensi memiliki rentang skala spasial dan temporal dari skala 
 
 #### Resolusi Dinding dan Parameter $y^+$
 
-Pada simulasi lapisan batas aerodinamika, penentuan jarak lapisan kisi pertama dari permukaan dinding sangat kritikal untuk menangkap gradien kecepatan pada sub-lapisan viskos (*viscous sublayer*). Parameter tak berdimensi jarak dinding $y^+$ didefinisikan sebagai:
+Pada simulasi lapisan batas aerodinamika, penentuan jarak lapisan kisi pertama dari permukaan dinding sangat kritis untuk menangkap gradien kecepatan pada sub-lapisan viskos (*viscous sublayer*). Parameter tak berdimensi jarak dinding $y^+$ didefinisikan sebagai:
 
 <div>
 $$
@@ -193,10 +193,10 @@ Pada sudut serang moderat, permukaan atas umumnya mengalami hisapan ($C\_p$ bern
 ### 6. Studi Kasus Industri
 
 #### Industri Balap Formula 1
-Dalam regulasi teknis *FIA Formula 1*, alokasi waktu pengujian aerodinamika (*Aerodynamic Testing Restrictions* / ATR) dibatasi secara ketat dalam bentuk jam komputasi CFD (*teraflops*) dan waktu operasi terowongan angin (*run time* per pekan). Tim balap menggunakan CFD berkecepatan tinggi untuk menyeleksi ratusan konsep geometri sayap depan (*front wing*) dan sayap belakang (*rear wing*). Hanya beberapa geometri paling menjanjikan yang kemudian diproduksi menjadi model skala $60\text{\%}$ untuk diuji di terowongan angin guna memvalidasi korelasi aliran pusaran (*vortex interaction*) dan sensitivitas jarak tanah (*ride height sensitivity*).
+Dalam regulasi teknis *FIA Formula 1*, alokasi waktu pengujian aerodinamika (*Aerodynamic Testing Restrictions* / ATR) dibatasi secara ketat dalam bentuk jam komputasi CFD dan waktu operasi terowongan angin (*run time*). Tim balap menggunakan CFD berkecepatan tinggi untuk menyeleksi ratusan konsep geometri sayap depan (*front wing*) dan sayap belakang (*rear wing*). Hanya beberapa geometri paling menjanjikan yang kemudian diproduksi menjadi model skala $60\text{\%}$ untuk diuji di terowongan angin guna memvalidasi korelasi aliran pusaran (*vortex interaction*) dan sensitivitas jarak tanah (*ride height sensitivity*).
 
 #### Pengembangan Sayap Pesawat Transonik Komersial
-Pada perancangan pesawat modern seperti Airbus A350 dan Boeing 787, bentuk kelengkungan sayap dan perangkat ujung sayap (*winglet*) dioptimalkan melalui puluhan ribu jam komputasi CFD dengan formulasi RANS transonik untuk meminimalkan pembentukan gelombang kejut (*shock wave*) di atas sayap pada kecepatan jelajah $\text{Ma} \approx 0.85$. Pengujian terowongan angin skala penuh dan transonik dilakukan pada tahap akhir untuk memverifikasi batas batas buffet (*buffet boundary*), karakteristik *flutter* aeroelastik, serta verifikasi gaya pada konfigurasi *high-lift* (slat dan flap) saat lepas landas dan mendarat.
+Pada perancangan pesawat modern seperti Airbus A350 dan Boeing 787, bentuk kelengkungan sayap dan perangkat ujung sayap (*winglet*) dioptimalkan melalui puluhan ribu jam komputasi CFD dengan formulasi RANS transonik untuk meminimalkan pembentukan gelombang kejut (*shock wave*) di atas sayap pada kecepatan jelajah $\text{Ma} \approx 0.85$. Pengujian terowongan angin dilakukan pada tahap akhir untuk memverifikasi batas buffet (*buffet boundary*), karakteristik *flutter* aeroelastik, serta verifikasi gaya pada konfigurasi *high-lift* (slat dan flap) saat lepas landas dan mendarat.
 
 ---
 

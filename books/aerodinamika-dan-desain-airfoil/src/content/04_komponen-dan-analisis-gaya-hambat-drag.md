@@ -37,7 +37,7 @@ Gaya hambat total yang dialami wahana terbang merupakan akumulasi dari beberapa 
 
 *Induced drag* merupakan konsekuensi inheren dari pembentukan gaya angkat pada sayap dengan bentang terhingga (*finite wing*). Perbedaan tekanan antara permukaan bawah sayap (tekanan tinggi) dan permukaan atas sayap (tekanan rendah) memicu aliran melingkar di ujung sayap (*wingtip*), membentuk pusaran tip (*wingtip vortices*).
 
-Pusaran ini menginduksi defleksi aliran udara ke arah bawah (*downwash*) di sepanjang rentang sayap. Akibatnya, vektor gaya angkat lokal mengalami kemiringan ke arah belakang. Komponen horizontal dari vektor gaya angkat yang miring ke belakang inilah yang menjadi gaya hambat induksi ($D_i$).
+Pusaran ini menginduksi defleksi aliran udara ke arah bawah (*downwash*) di sepanjang bentang sayap. Akibatnya, vektor gaya angkat lokal mengalami kemiringan ke arah belakang. Komponen horizontal dari vektor gaya angkat yang miring ke belakang inilah yang menjadi gaya hambat induksi ($D_i$).
 
 Telaah analitis menunjukkan bahwa pada kecepatan rendah (misalnya saat fase tinggal landas atau pendekatan pendaratan), sayap beroperasi pada sudut serang (*angle of attack*) yang lebih besar demi mempertahankan gaya angkat, sehingga intensitas *downwash* dan gaya hambat induksi meningkat secara signifikan.
 
@@ -58,17 +58,17 @@ Keterangan parameter:
 
 - $C_{D,0}$ : Koefisien hambat parasit minimum (*zero-lift drag coefficient*)
 - $C_L$ : Koefisien gaya angkat (*lift coefficient*)
-- $e$ : Faktor efisiensi Oswald sayap (efisiensi planform rentang sayap)
+- $e$ : Faktor efisiensi Oswald sayap (efisiensi bentang sayap)
 - $\text{AR}$ : Rasio aspek sayap (*Aspect Ratio*, $\text{AR} = b^2 / S$)
 
-> **Wawasan Aerodinamika:** Titik minimum pada kurva hambat total merepresentasikan kecepatan dengan rasio efisiensi aerodinamika maksimum ($L/D_{\max}$). Kecepatan ini menjadi acuan operasional untuk efisiensi jelajah terjauh (*maximum range*) pada pesawat bertenaga jet atau laju luncur terbaik (*best glide angle*) saat kondisi mesin mati (*engine-out glide*).
+> **Wawasan Aerodinamika:** Titik minimum pada kurva hambat total merepresentasikan kecepatan dengan rasio efisiensi aerodinamika maksimum ($L/D_{\max}$). Kecepatan ini menjadi acuan operasional untuk jarak jelajah terjauh (*maximum range*) pada pesawat bertenaga baling-baling atau sudut luncur terbaik (*best glide angle*) saat kondisi mesin mati (*engine-out glide*).
 
 ### 4. Dampak Gaya Hambat terhadap Performa Pesawat
 
 Besaran gaya hambat total menentukan berbagai limitasi performa wahana:
 
 - **Kecepatan Maksimum:** Batas atas kecepatan horizontal tercapai ketika gaya dorong mesin maksimum seimbang dengan gaya hambat total ($T = D$).
-- **Efisiensi Bahan Bakar:** Gaya hambat yang lebih tinggi membutuhkan gaya dorong lebih besar, yang secara langsung meningkatkan laju konsumsi bahan bakar spesifik (*specific fuel consumption*).
+- **Efisiensi Bahan Bakar:** Gaya hambat yang lebih tinggi membutuhkan gaya dorong lebih besar, yang secara langsung meningkatkan laju konsumsi bahan bakar.
 - **Jarak Jelajah (Range):** Minimasi gaya hambat meningkatkan jarak tempuh yang dapat dicapai untuk setiap satuan massa bahan bakar.
 - **Laju Tanjak (Rate of Climb):** Daya lebih (*excess power*) setelah mengatasi gaya hambat menentukan kemampuan wahana dalam menambah ketinggian.
 
@@ -76,8 +76,8 @@ Besaran gaya hambat total menentukan berbagai limitasi performa wahana:
 
 #### Optimasi Sayap Komersial vs. Pesawat Akrobatik
 
-- **Pesawat Penumpang Transonik (misal Boeing 787):** Beroperasi pada bilangan Mach tinggi. Pendekatan desain memprioritaskan sayap ber-rasio aspek tinggi ($\text{AR}$ besar) yang dilengkapi *raked wingtip* untuk mereduksi *induced drag*, serta penerapan material komposit halus untuk menjaga stabilitas lapisan batas laminar.
-- **Pesawat Akrobatik (misal Extra 330):** Membutuhkan laju guling (*roll rate*) yang sangat cepat dan kekuatan struktur beban g-tinggi, sehingga menggunakan sayap berspan pendek ($\text{AR}$ rendah) dengan profil simetris, menerima penalti *induced drag* yang lebih tinggi demi agilitas manuver.
+- **Pesawat Penumpang Transonik (misal Boeing 787):** Beroperasi pada bilangan Mach tinggi. Pendekatan desain memprioritaskan sayap dengan rasio aspek tinggi ($\text{AR}$ besar) yang dilengkapi *raked wingtip* untuk mereduksi *induced drag*, serta penerapan material komposit halus untuk menjaga stabilitas lapisan batas laminar.
+- **Pesawat Akrobatik (misal Extra 330):** Membutuhkan laju guling (*roll rate*) yang sangat cepat dan kekuatan struktur beban g-tinggi, sehingga menggunakan sayap berbentang pendek ($\text{AR}$ rendah) dengan profil simetris, menerima penalti *induced drag* yang lebih tinggi demi agilitas manuver.
 
 #### Gaya Hambat Pesawat Latih di Fase Jelajah
 
