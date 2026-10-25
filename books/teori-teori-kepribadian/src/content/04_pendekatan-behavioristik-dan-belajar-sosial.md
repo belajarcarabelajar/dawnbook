@@ -14,12 +14,12 @@ Behaviorisme berpendapat bahwa perilaku dapat dipahami sepenuhnya melalui studi 
 * **Unconditioned Stimulus (UCS):** Stimulus yang secara otomatis dan alami memicu respons tanpa perlu pembelajaran (misalnya, makanan).
 * **Unconditioned Response (UCR):** Respons alami dan otomatis terhadap UCS (misalnya, air liur saat melihat makanan).
 * **Conditioned Stimulus (CS):** Stimulus netral yang setelah diasosiasikan berulang kali dengan UCS, mulai memicu respons yang sama (misalnya, lonceng).
-* **Conditioned Response (CR):** Respons yang dipelajari terhadap CS, yang seringkali mirip dengan UCR (misalnya, air liur saat mendengar lonceng).
+* **Conditioned Response (CR):** Respons yang dipelajari terhadap CS, yang sering kali mirip dengan UCR (misalnya, air liur saat mendengar lonceng).
 
 Ivan Pavlov mengamati bahwa anjingnya mulai mengeluarkan air liur saat melihat asisten lab yang biasanya membawakan makanan, bahkan sebelum makanan itu sendiri terlihat. Eksperimennya menggambarkan proses berikut:
-1. Sebelum pengkondisian: Makanan (UCS) $\rightarrow$ Air liur (UCR). Lonceng (Stimulus Netral) $\rightarrow$ Tidak ada air liur.
-2. Selama pengkondisian: Lonceng (Stimulus Netral) + Makanan (UCS) $\rightarrow$ Air liur (UCR).
-3. Setelah pengkondisian: Lonceng (CS) $\rightarrow$ Air liur (CR).
+1. Sebelum pengondisian: Makanan (UCS) $\rightarrow$ Air liur (UCR). Lonceng (Stimulus Netral) $\rightarrow$ Tidak ada air liur.
+2. Selama pengondisian: Lonceng (Stimulus Netral) + Makanan (UCS) $\rightarrow$ Air liur (UCR).
+3. Setelah pengondisian: Lonceng (CS) $\rightarrow$ Air liur (CR).
 
 Dalam konteks kepribadian, *classical conditioning* menjelaskan bagaimana kita mengembangkan respons emosional dan perilaku terhadap objek, orang, atau situasi tertentu. Fobia, misalnya, bisa terbentuk jika seseorang mengalami kejadian buruk (UCS) di tempat tertentu (CS), lalu kemudian memunculkan rasa takut (CR) terhadap tempat tersebut.
 
@@ -35,23 +35,23 @@ Dalam konteks kepribadian, *classical conditioning* menjelaskan bagaimana kita m
 * ***Negative Punishment*:** Menghilangkan stimulus yang menyenangkan setelah perilaku (misalnya, pencabutan hak bermain gawai karena melanggar aturan).
 * ***Shaping*:** Penguatan perilaku yang secara bertahap mendekati perilaku target.
 
-Dalam eksperimen "Skinner Box", tikus belajar menekan tuas (*perilaku operan*) untuk mendapatkan makanan (*positive reinforcement*) or menghindari sengatan listrik (*positive punishment*). 
+Dalam eksperimen "Skinner Box", tikus belajar menekan tuas (*perilaku operan*) untuk mendapatkan makanan (*positive reinforcement*) atau menghindari sengatan listrik (*negative reinforcement*). 
 
 Bagi Skinner, kepribadian adalah kumpulan pola perilaku yang telah diperkuat dari waktu ke waktu. Seseorang yang sering mendapat apresiasi saat tampil di depan umum mungkin mengembangkan sifat percaya diri, sementara orang yang sering ditegur saat menyuarakan pendapatnya bisa menjadi sosok yang lebih pendiam.
 
 ### 2. *Social Learning Theory* (Albert Bandura)
 
-Albert Bandura memperluas behaviorisme dengan memperkenalkan dimensi kognitif dan sosial. *Social Learning Theory* (yang kemudian disebut *Social Cognitive Theory*) menekankan bahwa pembelajaran terjadi melalui pengkondisian langsung, pengamatan terhadap orang lain, serta proses berpikir internal.
+Albert Bandura memperluas behaviorisme dengan memperkenalkan dimensi kognitif dan sosial. *Social Learning Theory* (yang kemudian disebut *Social Cognitive Theory*) menekankan bahwa pembelajaran terjadi melalui pengondisian langsung, pengamatan terhadap orang lain, serta proses berpikir internal.
 
 > "Pembelajaran akan menjadi sangat melelahkan, belum lagi berbahaya, jika orang harus mengandalkan tindakan mereka sendiri untuk menginformasikan mereka tentang apa yang harus dilakukan." - Albert Bandura
 
-#### 2.1. *Observational Learning* (*Modelling*)
+#### 2.1. *Observational Learning* (*Modeling*)
 
 *Observational learning* (*vicarious learning*) adalah belajar melalui pengamatan perilaku orang lain (model) beserta konsekuensinya. Hal ini membebaskan kita dari keharusan mengalami *reinforcement* atau *punishment* secara langsung untuk memperoleh suatu pelajaran.
 
 Terdapat empat tahapan dalam *observational learning*:
 1. ***Attention*:** Kita harus memperhatikan model agar bisa belajar.
-2. ***Retention*:** Kita harus mengingat perilaku yang diamati dengan mengkodekannya secara mental.
+2. ***Retention*:** Kita harus mengingat perilaku yang diamati dengan mengodekannya secara mental.
 3. ***Reproduction*:** Kita membutuhkan keterampilan fisik dan kemampuan untuk meniru perilaku tersebut.
 4. ***Motivation*:** Kita harus memiliki keinginan untuk melakukan perilaku, yang bisa didorong oleh melihat orang lain diberi penghargaan (*vicarious reinforcement*) atau mendapat kepuasan secara internal.
 

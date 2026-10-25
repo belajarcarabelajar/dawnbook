@@ -12,7 +12,7 @@ Sifat Kardinal (*cardinal traits*) merupakan karakteristik yang amat dominan sek
 
 Sifat Sentral (*central traits*) adalah karakteristik umum yang menyusun dasar kepribadian sehari-hari. Kebaikan, kejujuran, dan keberanian masuk dalam kelompok ini. Umumnya, lima hingga sepuluh sifat sentral sudah cukup untuk menggambarkan siapa diri seseorang.
 
-Sifat Sekunder (*secondary traits*) sifatnya lebih spesifik, kurang mencolok, dan hanya muncul merespons stimulasi tertentu. Karena bergantung pada situasi, sifat ini jarang terlihat utuh. Orang yang terkenal ramah bisa saja langsung menjadi pendiam ketika terjebak di tengah lingkungan asing yang membuatnya canggung.
+Sifat Sekunder (*secondary traits*) sifatnya lebih spesifik, kurang mencolok, dan hanya muncul sebagai respons terhadap stimulasi tertentu. Karena bergantung pada situasi, sifat ini jarang terlihat utuh. Orang yang terkenal ramah bisa saja langsung menjadi pendiam ketika terjebak di tengah lingkungan asing yang membuatnya canggung.
 
 Konsep penting lain dari Allport meliputi **Proprium**, yang mewakili inti dari kepribadian atau *self* yang bertumbuh seiring usia. Proprium menjaga kesinambungan identitas diri, kesadaran, serta harga diri. Allport berkeyakinan bahwa alih-alih ditahan oleh masa lalunya, manusia pada dasarnya ditarik oleh masa depannya. 
 
@@ -26,7 +26,7 @@ Cattell memisahkan dua jenis sifat:
 
 **Surface traits** (sifat permukaan) merupakan karakteristik yang gampang diamati dalam perilaku sehari-hari, tetapi cenderung gampang berubah dan kurang stabil. Sebaliknya, **source traits** (sifat sumber) adalah elemen dasar kepribadian yang menjadi blok bangunan utama perilaku manusia. Sifat ini tersembunyi dan hanya bisa dipetakan melalui *factor analysis*.
 
-Dari sekian banyak kombinasi, Cattell merumuskan 16 *source traits* primer yang sifatnya bipolar (dua kutub berlawanan). Ia menciptakan instrumen ukur yang dinamakan *16 Personality Factor Questionnaire (16PF)*. Beberapa dimensinya mencakup *Warmth* (ramah vs menyendiri), *Emotional Stability* (tenang vs mudah marah), *Dominance* (memimpin vs penurut), *Reasoning* (abstrak vs pragmatis), hingga *Openness to Change* (fleksibel vs terikat rutinitas).
+Dari sekian banyak kombinasi, Cattell merumuskan 16 *source traits* primer yang sifatnya bipolar (dua kutub berlawanan). Ia menciptakan instrumen ukur yang dinamakan *16 Personality Factor Questionnaire (16PF)*. Beberapa dimensinya mencakup *Warmth* (ramah vs menyendiri), *Emotional Stability* (tenang vs mudah marah), *Dominance* (memimpin vs penurut), *Reasoning* (abstrak vs konkret), hingga *Openness to Change* (fleksibel vs terikat rutinitas).
 
 Selain itu, Cattell juga mengelompokkan sifat menjadi *ability traits* (kemampuan mencapai tujuan), *temperament traits* (gaya dan irama perilaku emosional), dan *dynamic traits* (penggerak dasar perilaku).
 
@@ -41,11 +41,11 @@ Individu ekstrovert lekat dengan pembawaan dinamis, aktif, dan butuh bersosialis
 Dimensi neurotisisme melihat seberapa mudah seseorang merasakan emosi negatif semacam kecemasan, depresi, atau rasa bersalah. Dasar biologis dari sifat ini bersandar pada reaktivitas *Autonomic Nervous System* (ANS). Individu dengan reaktivitas ANS tinggi mudah terpicu emosinya meski situasi sekitarnya normal. Di kutub seberang, ada stabilitas emosional yang mewakili ketenangan dan ketangguhan dalam menghadapi stres.
 
 **Psychoticism vs. Impulse Control**
-Psikotisisme tidak merujuk pada patologi klinis secara langsung, melainkan karakter seperti agresivitas, sikap dingin, impulsivitas, dan kreativitas ekstrem. Meski punya genetik yang kuat di dimensi ini, seseorang tidak selalu berakhir dengan gangguan mental kecuali tertimpa stres yang berat. Individu dengan kontrol impuls yang baik justru terlihat kooperatif, berhati hangat, dan sabar.
+Psikotisisme tidak merujuk pada patologi klinis secara langsung, melainkan karakter seperti agresivitas, sikap dingin, impulsivitas, dan kreativitas ekstrem. Meski punya kecenderungan genetik yang kuat di dimensi ini, seseorang tidak selalu berakhir dengan gangguan mental kecuali tertimpa stres yang berat. Individu dengan kontrol impuls yang baik justru terlihat kooperatif, berhati hangat, dan sabar.
 
 ## Model Lima Besar (Big Five)
 
-*Five-Factor Model* (FFM) alias *Big Five* menjadi salah satu pijakan ilmiah terkuat dalam psikologi kontemporer untuk mengurai kepribadian. Model ini mengukur lima faktor yang berdiri sendiri dalam skala yang berkelanjutan.
+*Five-Factor Model* (FFM) alias *Big Five* menjadi salah satu pijakan ilmiah terkuat dalam psikologi kontemporer untuk mengurai kepribadian. Model ini mengukur lima faktor yang berdiri sendiri dalam skala yang kontinu.
 
 **Openness to Experience** mencatat tingkat penerimaan seseorang terhadap hal dan ide baru. Individu di ujung spektrum tinggi imajinatif, kreatif, dan benci rutinitas yang monoton. Kalau skornya rendah, orang itu jauh lebih menyukai tradisi dan rutinitas lama.
 

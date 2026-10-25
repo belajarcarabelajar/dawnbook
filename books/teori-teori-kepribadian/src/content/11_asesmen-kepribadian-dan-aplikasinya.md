@@ -30,10 +30,10 @@ Tes proyektif meminta individu merespons stimulus ambigu dengan interpretasi beb
 
 #### 2. Contoh Tes Proyektif
 
-- **Rorschach Inkblot Test**: Dikembangkan oleh psikolog Hermann Rorschach pada 1921, tes ini menyajikan 10 bercak tinta simetris (hitam-putih, berwarna, abu-abu). Individu diminta menyampaikan apa yang mereka lihat atau direpresentasikan oleh bercak tersebut. Respons dianalisis berdasarkan lokasi, determinan (bentuk, warna, bayangan), dan konten. Tes ini sering digunakan untuk mendeteksi masalah psikologis seperti gangguan pikiran saat pasien enggan terbuka.
+- **Rorschach Inkblot Test**: Dikembangkan oleh psikolog Hermann Rorschach pada 1921, tes ini menyajikan 10 bercak tinta simetris (hitam-putih, berwarna, abu-abu). Individu diminta menyampaikan apa yang mereka lihat atau apa yang direpresentasikan oleh bercak tersebut. Respons dianalisis berdasarkan lokasi, determinan (bentuk, warna, bayangan), dan konten. Tes ini sering digunakan untuk mendeteksi masalah psikologis seperti gangguan pikiran saat pasien enggan terbuka.
 - **Thematic Apperception Test (TAT)**: Dikembangkan oleh Henry Murray dan Christiana Morgan pada 1930-an. Tes ini memakai serangkaian kartu bergambar adegan sosial yang ambigu. Individu diinstruksikan menyusun cerita tentang gambar tersebut, termasuk apa yang terjadi sebelumnya, saat ini, pikiran karakter, dan hasilnya. Cerita tersebut dianalisis guna mengungkap tema berulang, *needs* (kebutuhan), konflik, serta persepsi interpersonal.
 - **Draw-a-Person Test (DAP)** dan **Kinetic Family Drawing (KFD)**: Menggunakan media menggambar manusia atau keluarga untuk memetakan kondisi mental. Analisis terfokus pada detail gambar, proporsi, lokasi, ekspresi wajah, serta aspek simbolis. Hal ini memberikan wawasan mengenai *body image* (citra tubuh), emosionalitas, kecemasan, atau tingkat agresi.
-- **Sentence Completion Test**: Individu melengkapi awalan kalimat yang rumpang (contoh: "Hal yang paling saya takuti adalah..."). Respons ini membantu menyingkap sikap, emoi, dan konflik pribadi.
+- **Sentence Completion Test**: Individu melengkapi awalan kalimat yang rumpang (contoh: "Hal yang paling saya takuti adalah..."). Respons ini membantu menyingkap sikap, emosi, dan konflik pribadi.
 
 #### 3. Kritik dan Keunggulan
 
@@ -47,7 +47,7 @@ Inventori kepribadian merupakan kuesioner terstruktur yang menuntut laporan diri
 #### 1. Karakteristik Umum
 
 - **Struktur Terstandar**: Pertanyaan dan opsi jawaban sudah dipatok spesifik.
-- **Skoring Objektif**: Mengkalkulasi skor berdasarkan kunci jawaban baku.
+- **Skoring Objektif**: Mengalkulasi skor berdasarkan kunci jawaban baku.
 - **Fokus Laporan Diri**: Mengukur hal-hal yang disadari atau diyakini individu tentang diri mereka sendiri.
 - **Data Kuantitatif**: Menghasilkan angka normatif yang dapat dibandingkan secara populasi.
 
@@ -69,7 +69,7 @@ Inventori kepribadian merupakan kuesioner terstruktur yang menuntut laporan diri
 Selain tes proyektif dan objektif, klinisi menggunakan beberapa saluran lain:
 
 - **Behavioral Observation** (Observasi Perilaku): Klinisi mengamati individu dalam latar alami atau terstruktur untuk melacak pola perilaku spesifik dan gaya interaksi sosial secara *real-time*.
-- **Wawancara Klinis**: Interaksi *dyadic* (tatap muka) terstruktur maupun tidak terstruktur guna merangkum riwayat pribadi, pandangan, dan dinamika psikologis. Wawancara menggali kapasitas mental, pola pikir, hingga konflik batin individu.
+- **Wawancara Klinis**: Interaksi *dyadic* (antara dua orang) terstruktur maupun tidak terstruktur guna merangkum riwayat pribadi, pandangan, dan dinamika psikologis. Wawancara menggali kapasitas mental, pola pikir, hingga konflik batin individu.
 - **Collateral Information** (Laporan Pihak Ketiga): Data tambahan dari orang-orang terdekat (keluarga, pasangan, kolega) untuk memberikan sudut pandang eksternal.
 - **Asesmen Psikofisiologis**: Mengukur detak jantung, konduktivitas kulit, atau aktivitas otak yang berkorelasi dengan respons emosional dan aspek kepribadian tertentu.
 - **Analisis Dokumen/Biografi**: Memeriksa tulisan, catatan harian, atau karya pribadi untuk menelusuri pola masa lalu.
@@ -82,7 +82,7 @@ Pemahaman teori dan hasil asesmen diterapkan dalam berbagai skenario kehidupan n
 
 Teori kepribadian mendasari setiap intervensi klinis:
 
-- **Diagnosa dan Perencanaan Perawatan**: Membantu terapis memetakan dinamika mental (contoh: *defense mechanism* Freud atau ciri dasar Big Five) untuk mengidentifikasi masalah inti. Asesmen memberi pijakan data status mental klien sebelum intervensi. 
+- **Diagnosis dan Perencanaan Perawatan**: Membantu terapis memetakan dinamika mental (contoh: *defense mechanism* Freud atau ciri dasar Big Five) untuk mengidentifikasi masalah inti. Asesmen memberi pijakan data status mental klien sebelum intervensi. 
 	- *Contoh*: Terapis psikodinamik menggunakan instrumen proyektif untuk melacak sumber kecemasan bawah sadar, sementara terapis humanistik lebih banyak menggali *self-concept* (konsep diri) lewat wawancara terbuka.
 - **Pembangunan Hubungan Terapeutik**: Mengetahui kecenderungan *trait* klien memandu terapis menyesuaikan cara komunikasi demi membentuk *rapport* yang kuat.
 - **Peningkatan Kesadaran Diri**: Terapis membimbing individu mengenali pola perilaku mereka sendiri sehingga mempermudah proses perubahan mandiri.
@@ -100,15 +100,15 @@ Dalam pengaturan korporat dan organisasi:
 ### C. Pengembangan Pribadi dan Pendidikan
 
 - **Pertumbuhan Mandiri**: Menjadi pijakan awal untuk mengeksplorasi preferensi diri. Misalnya, mengetahui letak energi dominan diri sendiri (introversi vs ekstroversi) membantu mengelola rutinitas dengan lebih optimal.
-- **Perencanaan Karir**: Menyelaraskan minat, tata nilai, dan bakat kepribadian ke jalur vokasi spesifik. Instrumen seperti Holland Code membantu individu membidik ranah pekerjaan yang relevan.
+- **Perencanaan Karier**: Menyelaraskan minat, tata nilai, dan bakat kepribadian ke jalur vokasi spesifik. Instrumen seperti Holland Code membantu individu membidik ranah pekerjaan yang relevan.
 - **Hubungan Interpersonal**: Pengetahuan terkait kepribadian menekan ekspektasi keliru terhadap rekan atau pasangan dan meningkatkan empati.
-- **Pendidikan**: Tenaga pendidik dapat mendesain strategi pedagogis yang selaras dengan profil kelas, baik untuk gaya belajar asertif maupun siswa yang memerlukan ruang lebih privat.
+- **Pendidikan**: Tenaga pendidik dapat mendesain strategi pedagogis yang selaras dengan profil kelas, baik untuk siswa dengan gaya belajar asertif maupun siswa yang memerlukan ruang lebih privat.
 
 ### D. Penelitian dan Forensik
 
 - **Riset Psikologis**: Asesmen menjadi metodologi standar untuk menguji hipotesis, meneliti trayektori perkembangan manusia, serta menguji korelasi kepribadian dengan kesejahteraan mental.
-- **Psikologi Forensik**: Di ranah hukum, evaluasi ini diaplikasikan untuk menilai kompetensi berdiri di persidangan (*competency to stand trial*), penetapan keringanan hukuman, hingga estimasi residivisme. MMPI adalah salah satu perangkat yang umum didampingi oleh evaluasi klinis tambahan.
+- **Psikologi Forensik**: Di ranah hukum, evaluasi ini diaplikasikan untuk menilai kompetensi menjalani persidangan (*competency to stand trial*), penetapan keringanan hukuman, hingga estimasi residivisme. MMPI adalah salah satu perangkat yang umum didampingi oleh evaluasi klinis tambahan.
 
 > **Catatan Penting**: Administrasi asesmen kepribadian harus dilakukan oleh profesional tersertifikasi. Interpretasi yang valid wajib menyeimbangkan skor tes dengan latar belakang demografis, rekam jejak, dan pengaruh budaya klien.
 
-Asesmen kepribadian menjembatani model teoritis dengan realitas klinis dan terapan. Instrumen ini menyajikan kerangka teknis untuk membaca manusia tidak hanya melalui asumsi, tetapi data terstandar. Pemahaman yang terukur terkait keunikan tiap individu berguna di ruang terapi, manajemen sumber daya manusia, pendidikan, hingga proses peradilan hukum.
+Asesmen kepribadian menjembatani model teoretis dengan realitas klinis dan terapan. Instrumen ini menyajikan kerangka teknis untuk membaca manusia tidak hanya melalui asumsi, tetapi data terstandar. Pemahaman yang terukur terkait keunikan tiap individu berguna di ruang terapi, manajemen sumber daya manusia, pendidikan, hingga proses peradilan hukum.

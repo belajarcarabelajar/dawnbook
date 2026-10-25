@@ -24,7 +24,7 @@ Rogers menyoroti pentingnya *congruence*, yaitu keselarasan antara *self-image* 
 
 Saat *ideal self* seseorang sejalan dengan *self-image*-nya, ia berada dalam kondisi *congruence*. Orang dengan keadaan jiwa seperti ini biasanya memiliki *self-esteem* yang kokoh, merasa lebih otentik, dan berfungsi optimal karena pengalamannya tidak bertabrakan dengan keyakinan tentang dirinya.
 
-Lawan dari keadaan tersebut adalah *incongruence*, yang terjadi saat muncul jurang pemisah yang terlalu jauh antara *ideal self* dan realita *self-image*. Kondisi ketidakselarasan ini dapat memancing kecemasan, menghidupkan mekanisme pertahanan batin yang melelahkan, serta memicu rasa tidak bahagia. Sebagai contoh, ada orang yang memegang *ideal self* sebagai seorang musisi besar, namun kesehariannya ia tenggelam dalam pekerjaan korporat yang tak pernah ia nikmati.
+Lawan dari keadaan tersebut adalah *incongruence*, yang terjadi saat muncul jurang pemisah yang terlalu jauh antara *ideal self* dan realitas *self-image*. Kondisi ketidakselarasan ini dapat memancing kecemasan, menghidupkan mekanisme pertahanan batin yang melelahkan, serta memicu rasa tidak bahagia. Sebagai contoh, ada orang yang memegang *ideal self* sebagai seorang musisi besar, namun kesehariannya ia tenggelam dalam pekerjaan korporat yang tak pernah ia nikmati.
 
 #### Kebutuhan akan Positive Regard
 
@@ -55,7 +55,7 @@ Nama Abraham Maslow identik dengan teori motivasi yang dikenal sebagai *hierarch
 
 #### Susunan Hierarchy of Needs
 
-Maslow menyusun kebutuhan manusia dalam bentuk piramida hierarkis. Prinsip utamanya, kebutuhan pada lapisan paling bawah wajib dipenuhi (minimal sampai taraf tertentu) sebelum individu mampu mengarahkan fokus dan energinya untuk meraih level di atasnya.
+Maslow menyusun kebutuhan manusia secara hierarkis, yang kemudian populer digambarkan dalam bentuk piramida. Prinsip utamanya, kebutuhan pada lapisan paling bawah wajib dipenuhi (minimal sampai taraf tertentu) sebelum individu mampu mengarahkan fokus dan energinya untuk meraih level di atasnya.
 
 Ada lima anak tangga dalam piramida tersebut:
 
@@ -63,7 +63,7 @@ Ada lima anak tangga dalam piramida tersebut:
 - **Safety Needs:** Sesudah ancaman fisik teratasi, fokus bergeser pada stabilitas dan rasa aman. Ini mencakup perlindungan dari marabahaya, stabilitas pekerjaan, jaminan masa tua, hingga kebutuhan akan tata tertib. 
 - **Love and Belonging Needs:** Selesai urusan perut dan keamanan, insting sosial manusia mulai bekerja. Ada hasrat kuat untuk berafiliasi, menjalin hubungan asmara, hingga menemukan kelompok sosial. Lubang pada level ini kerap memancing rasa terasing dan depresi.
 - **Esteem Needs:** Kebutuhan untuk merengkuh apresiasi dari dalam maupun luar diri. Secara internal, orang mengejar *self-esteem*, kemandirian, dan perasaan kompeten. Dari luar, mereka membutuhkan pengakuan status, reputasi, atau apresiasi rekan sejawat. Terpenuhinya hal ini melahirkan rasa percaya diri.
-- **Self-Actualization Needs:** Puncak dari piramida kepribadian Maslow adalah dorongan menyadari dan mengejawantahkan kapasitas maksimal diri. Ruang lingkupnya mencakup upaya pencarian makna hidup, kreativitas, dan aktualisasi bakat. Maslow mengamati bahwa tidak banyak orang yang bisa bersandar secara menetap di lapisan tertinggi ini.
+- **Self-Actualization Needs:** Puncak dari piramida kebutuhan Maslow adalah dorongan menyadari dan mengejawantahkan kapasitas maksimal diri. Ruang lingkupnya mencakup upaya pencarian makna hidup, kreativitas, dan aktualisasi bakat. Maslow mengamati bahwa tidak banyak orang yang bisa bersandar secara menetap di lapisan tertinggi ini.
 
 Bagan di bawah menyusun kelima lapisan itu dari dasar hingga puncak, mengikuti urutan yang dijelaskan Maslow.
 
@@ -87,7 +87,7 @@ Orang-orang ini menikmati otonomi penuh dan menghargai privasi. Alih-alih haus p
 
 #### Relevansi Maslow di Berbagai Sektor
 
-Dalam budaya manajemen modern, *hierarchy of needs* telah lama diadopsi untuk membangun sistem kepegawaian. Pemimpin yang peka paham bahwa inovasi dan dedikasi maksimal (*self-actualization*) mustahil lahir bila karyawan masih diliputi kecemasan pemutusan kerja secara sepihak (keamanan) atau standar gaji di bawah kelayakan (fisiologis).
+Dalam budaya manajemen modern, *hierarchy of needs* telah lama diadopsi untuk membangun sistem kepegawaian. Pemimpin yang peka paham bahwa inovasi dan dedikasi maksimal (*self-actualization*) mustahil lahir bila karyawan masih diliputi kecemasan akan pemutusan hubungan kerja secara sepihak (keamanan) atau standar gaji di bawah kelayakan (fisiologis).
 
 Di area pendidikan, pemetaan Maslow menunjukkan bahwa perut kenyang dan kelas yang jauh dari praktik perundungan adalah syarat bagi siswa untuk menyerap pelajaran. Siswa yang dihantui rasa takut atau tertolak oleh kelompoknya nyaris tidak punya cadangan mental untuk mengejar prestasi.
 
