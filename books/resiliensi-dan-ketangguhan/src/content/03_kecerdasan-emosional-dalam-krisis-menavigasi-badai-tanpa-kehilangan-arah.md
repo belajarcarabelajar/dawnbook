@@ -61,10 +61,10 @@ Kamu baru saja mempresentasikan ide besar di depan direksi, tetapi seorang atasa
 
 **Penerapan EQ:**
 
-1. **Recognize:** "Oke, saya merasa terhina dan sangat marah. Jantung saya berdetak cepat."
-2. **Process:** Tarik napas dalam-dalam. Ingat bahwa ini adalah *amygdala hijack*. Jangan bicara dulu.
-3. **Manage:** Sadari bahwa membalas dengan emosi akan merusak profesionalismemu. Katakan, "Terima kasih atas masukannya, Pak. Saya butuh waktu untuk menelaah poin-poin tersebut agar bisa memberikan revisi yang lebih baik."
-4. **Rational Decision:** Setelah pertemuan selesai dan emosi mereda, kamu menganalisis kritik tersebut. Kamu menemukan bahwa 20% kritiknya valid dan bisa memperbaiki proyekmu, sementara 80% sisanya mungkin hanya gaya komunikasinya yang kurang baik.
+1. **S (Stop):** "Oke, saya merasa terhina dan sangat marah. Jantung saya berdetak cepat."
+2. **T (Take a breath):** Tarik napas dalam-dalam. Ingat bahwa ini adalah *amygdala hijack*. Jangan bicara dulu.
+3. **O (Observe):** Sadari bahwa membalas dengan emosi akan merusak profesionalismemu. Katakan, "Terima kasih atas masukannya, Pak. Saya butuh waktu untuk menelaah poin-poin tersebut agar bisa memberikan revisi yang lebih baik."
+4. **P (Proceed):** Setelah pertemuan selesai dan emosi mereda, kamu menganalisis kritik tersebut. Kamu menemukan bahwa 20% kritiknya valid dan bisa memperbaiki proyekmu, sementara 80% sisanya mungkin hanya gaya komunikasinya yang kurang baik.
 
 ### Latihan Kecerdasan Emosional
 

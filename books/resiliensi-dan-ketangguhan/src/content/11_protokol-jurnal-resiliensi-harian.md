@@ -91,7 +91,6 @@ Semakin singkat waktu pemulihan pada tingkat stres yang tinggi, semakin tinggi i
 | **Jurnal 3-2-1** | Harian (Malam) | Memprogram ulang otak untuk mencari peluang. |
 | **Metode ABCDE** | Saat Krisis | Memutus rantai pikiran negatif yang merusak. |
 | **Reverse Mental Rehearsal** | Mingguan | Mempersiapkan mental menghadapi tekanan nyata. |
-| **Strengths Audit** | Bulanan | Menyadari sumber daya internal yang sudah dimiliki. |
 
 > **Insight Penutup:** Resiliensi tidak berarti kamu tidak merasakan sakit. Resiliensi berarti kamu memiliki "toolbox" yang siap digunakan saat rasa sakit itu datang. Jangan menunggu badai datang untuk membangun perahumu; mulailah menulis dan berlatih hari ini.
 
