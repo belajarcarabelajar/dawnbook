@@ -94,7 +94,7 @@ Catat juga risikonya, karena kata yang dibisukan terlalu luas bisa ikut menutup 
 - [ ] Saya menulis kebutuhan sebelum mengubah pengaturan.
 - [ ] Saya mengambil sampel awal dengan penyebut yang jelas.
 - [ ] Saya membuat satu List untuk kebutuhan utama dan memeriksa visibilitasnya.
-- [ ] Saya menilai sumber primer, penjelas, dan penguji kritis sebelum memasukkannya.
+- [ ] Saya menilai sumber primer, penjelas penerapan, dan penguji kritis sebelum memasukkannya.
 - [ ] Saya merapikan akun yang paling jelas tidak relevan.
 - [ ] Saya memakai Not interested untuk rekomendasi yang melenceng, bila tersedia.
 - [ ] Saya memakai mute akun atau kata sesuai masalahnya dan mencatat tanggal tinjau ulang.

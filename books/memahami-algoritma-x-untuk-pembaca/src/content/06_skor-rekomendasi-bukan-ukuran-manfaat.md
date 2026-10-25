@@ -1,6 +1,6 @@
 ## Skor Rekomendasi Bukan Ukuran Manfaat
 
-Coba ingat post yang paling lama menahan jempolmu kemarin, karena kemungkinan besar post itu tidak mengajarkan satu hal pun yang sedang kamu cari.
+Coba ingat post yang paling lama menahan jempolmu kemarin. Kemungkinan besar, post itu tidak mengajarkan satu hal pun yang sedang kamu cari.
 
 Mungkin itu utas perdebatan yang kamu baca sampai habis, atau video yang kamu tonton dua kali sambil menunggu makanan datang. Kamu bertahan, mungkin juga ikut membalas, tetapi setelah aplikasi ditutup tidak ada pengetahuan baru yang tertinggal. Bagi sistem rekomendasi, sesi seperti itu tampak berhasil. Alasannya sederhana: skor yang menyusun urutan For You dibangun dari tebakan tentang responsmu, bukan dari penilaian apakah sebuah post berguna bagimu.
 

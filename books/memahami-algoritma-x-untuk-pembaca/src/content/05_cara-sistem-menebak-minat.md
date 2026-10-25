@@ -57,7 +57,7 @@ Repositori xai-org/x-algorithm memakai pendekatan lain untuk mencari kandidat. T
 ## Inti Pembahasan
 
 - SimClusters membentuk komunitas dari pola follow, dan satu pembaca bisa condong ke beberapa komunitas sekaligus.
-- Tabel follow dikalikan dengan tabel KnownFor menghasilkan tabel InterestedIn, yaitu perkiraan minatmu per komunitas.
+- Perkalian tabel follow dengan tabel KnownFor menghasilkan tabel InterestedIn, yaitu perkiraan minatmu per komunitas.
 - Representasi post dimulai kosong dan diisi vektor minat para penyukanya, jadi like yang selektif ikut menentukan arah sebuah post.
 - Mirip berarti polanya searah, bukan sama benar atau sama bermanfaat.
 - Real Graph menebak interaksimu dengan akun lain dari sinyal publik dan privat, dengan riwayat lama yang bobotnya meluruh.
