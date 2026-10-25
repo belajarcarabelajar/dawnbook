@@ -83,3 +83,32 @@ describe("third-party attribution", () => {
     }
   });
 });
+
+// Owner decision 2026-10-25 (plan 2026-10-25-dawnbook-later-backlog, Task A1): one line
+// on the About page and in the README says the books are written with AI assistance.
+const AI_NOTICE_KEY = "about.ai.notice";
+
+describe("AI-assistance notice", () => {
+  test("both i18n catalogs carry the notice", () => {
+    expect(JSON.parse(read("i18n/en.json"))[AI_NOTICE_KEY]).toMatch(/\bAI\b/);
+    expect(JSON.parse(read("i18n/id.json"))[AI_NOTICE_KEY]).toMatch(/\bAI\b/);
+  });
+
+  test("generated About page shows the notice", async () => {
+    const out = mkdtempSync(join(tmpdir(), "dawnbook-ai-notice-test-"));
+    try {
+      await generateSitePages(ROOT, out, [], {});
+      expect(readFileSync(join(out, "about.html"), "utf8")).toContain(`data-i18n="${AI_NOTICE_KEY}"`);
+    } finally {
+      rmSync(out, { recursive: true, force: true });
+    }
+  });
+
+  test("README licence and credits section mentions AI assistance", () => {
+    const readme = read("README.md");
+    const start = readme.search(/^## (License and Credits|Lisensi dan Kredit)\s*$/m);
+    const rest = readme.slice(start + 3);
+    const next = rest.search(/^## /m);
+    expect((next === -1 ? rest : rest.slice(0, next))).toMatch(/AI assistance/);
+  });
+});
