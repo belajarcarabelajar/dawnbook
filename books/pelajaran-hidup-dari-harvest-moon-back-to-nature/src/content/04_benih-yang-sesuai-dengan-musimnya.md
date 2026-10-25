@@ -38,7 +38,7 @@ Hitungan itu terasa betul menjelang akhir musim. Tanaman berulang yang terlambat
 
 Lalu datang tawaran yang menggoda. Hothouse memungkinkan kamu bertanam sepanjang tahun tanpa peduli musim, dan begitu ia berdiri, Supermarket bahkan menjual benih musim semi, musim panas, dan musim gugur di tengah musim dingin.
 
-Harganya 30.000 G dan 580 potong kayu, dan Gotz baru mau membangunnya setelah semua bangunan lain di peternakan diperbesar. Hitungan di buku Prima menggiurkan. Nanas (*Pineapple*) butuh 21 hari untuk panen pertama, lalu bisa dipetik setiap 5 hari, dan uang dari memanennya sepanjang tahun bisa menutup biaya Hothouse hanya dalam satu musim.
+Harganya 30.000 G dan 580 potong kayu, dan Gotz baru mau membangunnya setelah semua bangunan lain di peternakan diperbesar. Hitungan di buku Prima menggiurkan. Nanas (*Pineapple*) butuh 21 hari untuk panen pertama, lalu bisa dipetik setiap 5 hari, dan uang dari memanennya bisa menutup biaya Hothouse hanya dalam satu musim.
 
 Masalahnya, bangunan itu terbuat dari bahan tembus cahaya yang mudah hancur oleh badai di musim panas dan badai salju di musim dingin. Kalau itu terjadi, yang hilang bukan sekadar tanaman, melainkan seluruh biaya bangunan beserta isinya. Sepadan atau tidak risikonya, kamu sendiri yang menimbang.
 
@@ -46,7 +46,7 @@ Hothouse tidak membuat petaninya lebih sabar. Ia mengubah keadaan sehingga menun
 
 ### Tes Marshmallow yang Diuji Ulang
 
-Salah satu rujukan tentang menunda kesenangan, yang dikenal sebagai tes marshmallow, adalah ulasan [Mischel, Shoda, dan Rodriguez (1989)](https://doi.org/10.1126/science.2658056) di jurnal Science, yang merangkum program riset Mischel. Di sana, anak usia 4 tahun yang menunggu lebih lama dalam situasi laboratorium tertentu tumbuh menjadi remaja yang lebih cakap secara kognitif dan sosial, dengan nilai sekolah lebih tinggi dan daya tahan lebih baik menghadapi frustrasi serta stres. Yang dilaporkan adalah keterkaitan, bukan bukti bahwa menunggu menyebabkan semua itu.
+Salah satu rujukan tentang riset menunda kesenangan yang dikenal sebagai tes marshmallow adalah ulasan [Mischel, Shoda, dan Rodriguez (1989)](https://doi.org/10.1126/science.2658056) di jurnal Science, yang merangkum program riset Mischel. Di sana, anak usia 4 tahun yang menunggu lebih lama dalam situasi laboratorium tertentu tumbuh menjadi remaja yang lebih cakap secara kognitif dan sosial, dengan nilai sekolah lebih tinggi dan daya tahan lebih baik menghadapi frustrasi serta stres. Yang dilaporkan adalah keterkaitan, bukan bukti bahwa menunggu menyebabkan semua itu.
 
 [Watts, Duncan, dan Quan (2018)](https://doi.org/10.1177/0956797618761661) mengulang gagasan itu secara konseptual (bukan pengulangan persis) pada lebih dari 900 anak, terutama yang ibunya tidak tamat kuliah. Kaitan antara lama menunggu di usia 4 tahun dan prestasi belajar di usia 15 tahun ternyata hanya separuh dari studi-studi awal, lalu berkurang sekitar dua pertiga setelah latar belakang keluarga, kemampuan awal anak, dan lingkungan rumah diperhitungkan. Kaitan itu tidak hilang, tetapi jauh lebih kecil daripada yang tampak semula.
 

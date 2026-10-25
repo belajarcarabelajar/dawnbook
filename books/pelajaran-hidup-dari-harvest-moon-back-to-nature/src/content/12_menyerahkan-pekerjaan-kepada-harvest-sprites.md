@@ -6,7 +6,7 @@ Pemandangan itu menjengkelkan, apalagi kalau kamu sendiri sudah lelah. Tanaman y
 
 ### Tujuh Penolong di Balik Gereja
 
-Ada tujuh Harvest Sprites, dan rumah mereka berada di belakang gereja desa. Kamu cukup datang dan mengajak salah satunya bicara. Ia akan bertanya pekerjaan apa yang kamu butuhkan: mengurus hewan, menyiram tanaman, atau memanen. Lalu kamu memilih lamanya, satu hari, tiga hari, atau seminggu penuh.
+Ada tujuh Harvest Sprites, dan rumah mereka berada di belakang gereja desa. Kamu cukup datang dan mengajak salah satunya bicara. Ia akan bertanya pekerjaan apa yang kamu butuhkan: mengurus hewan, menyiram tanaman, atau memanen. Lalu kamu memilih lamanya: satu hari, tiga hari, atau seminggu penuh.
 
 Pilihan terakhir itu terlihat sepele, padahal di situ sudah ada dilema yang dikenal setiap orang yang pernah mendelegasikan. Kontrak seminggu memang praktis. Memesan mereka hari demi hari memberi kendali lebih besar, karena kamu bisa menentukan sendiri apa yang dikerjakan setiap hari. Makin lama pekerjaan dilepas, makin sedikit yang bisa kamu atur.
 
@@ -36,7 +36,7 @@ Para penelitinya sendiri memasang rem. Mereka menduga bahwa membeli terlalu bany
 
 Di musim semi, para Sprites mengadakan pesta teh, dan pesta itu hanya terjadi kalau ketujuhnya ada di rumah. Artinya, sesibuk apa pun ladangmu, mereka perlu setidaknya satu hari libur. Kamu boleh ikut datang membawa hadiah untuk masing-masing, asal punya Large Rucksack, dan pulang membawa Relax Tea Leaves.
 
-Hubungan dengan mereka juga tidak berhenti ketika ladang sepi. Di musim dingin, saat tidak ada tanaman, mereka masih bisa disewa untuk mengurus hewan sambil hubunganmu dengan mereka terus dirawat. Orang yang membantumu layak dibayar, layak beristirahat, dan layak diingat bahkan ketika pekerjaannya sedang sedikit.
+Hubungan dengan mereka juga tidak berhenti ketika ladang sepi. Di musim dingin, saat tidak ada tanaman, mereka masih bisa disewa untuk mengurus hewan, dan hubunganmu dengan mereka terus dirawat. Orang yang membantumu layak dibayar, layak beristirahat, dan layak diingat bahkan ketika pekerjaannya sedang sedikit.
 
 ### Catatan Akhir Bab
 

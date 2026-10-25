@@ -8,7 +8,7 @@ Hanya itu yang diketahui tentang keadaannya. Namun nasibnya sampai akhir tahun b
 
 Tanggal 14 musim gugur di tahun pertama, Duke meminta bantuanmu memanen anggur di Aja Winery, sekaligus mencari tenaga tambahan. Beri tahu Cliff hari itu, atau pagi-pagi sekali keesokan harinya, dan ia dengan senang hati ikut. Kalian memetik anggur dari tanggal 15 sampai 20, upahnya dibayar di hari terakhir, dan sesudahnya Cliff tidak pergi. Ia tetap tinggal dan bekerja di kebun anggur itu.
 
-Rekan barumu ini punya kebiasaan yang membuat tersenyum. Ia suka berdiri diam di satu titik di antara tanaman anggur, jadi kamu harus tiba di titik itu lebih dulu agar target hari itu terpetik semua. Bekerja dengan orang baru memang selalu butuh sedikit penyesuaian.
+Rekan barumu ini punya kebiasaan yang membuatmu tersenyum. Ia suka berdiri diam di satu titik di antara tanaman anggur, jadi kamu harus tiba di titik itu lebih dulu agar target hari itu terpetik semua. Bekerja dengan orang baru memang selalu butuh sedikit penyesuaian.
 
 Sekarang bayangkan kamu lupa, atau merasa itu bukan urusanmu. Panen tetap berjalan tanpa dia. Musim gugur berlalu, salju turun, dan pada tanggal 30 musim dingin Cliff pamit meninggalkan desa. Tidak ada yang memberitahunya tentang sebuah pekerjaan.
 
@@ -52,6 +52,6 @@ Selisih 50 G tetap uang sungguhan bagi ladangmu. Namun pilihan ini bukan soal un
 
 - Satu kabar tentang pekerjaan menentukan apakah Cliff tetap tinggal atau pamit di akhir musim dingin, dan mengembalikan fotonya tidak menuntutmu tahu seluruh kisahnya.
 - Dalam meta-analisis Paul dan Moser (2009), rata-rata 34 persen penganggur mengalami masalah psikologis, dibandingkan 16 persen pekerja; itu angka populasi, bukan diagnosis untuk siapa pun.
-- Bantuan kecil bisa berupa ruang untuk mencoba (Gray), kehadiran pada jam yang tepat (May), atau harga yang sedikit mengalah (Kai).
+- Bantuan kecil bisa berupa ruang untuk mencoba (Gray), kehadiran pada jam yang tepat (May), atau harga yang mau mengalah (Kai).
 
 Lalu bagaimana kalau di antara para tetangga itu ada satu orang yang ingin kamu dekati lebih dari sekadar teman? Hatinya bisa berubah warna, tetapi perlahan.

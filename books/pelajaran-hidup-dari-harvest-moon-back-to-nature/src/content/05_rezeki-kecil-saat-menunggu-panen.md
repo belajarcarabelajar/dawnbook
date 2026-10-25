@@ -24,7 +24,7 @@ Ikan yang berhasil ditangkap datang dalam tiga ukuran, kecil, sedang, dan besar,
 
 Semua ini tidak akan membuatmu kaya. Panduan resmi gim ini pun terang-terangan menyebut uang besar datang dari apa yang kamu tanam, bukan dari memungut atau menambang (tambang punya ceritanya sendiri di bab 13). Hasil ladang, seperti lobak (*Turnip*) yang cepat panen di bab 1, masih menjadi sumber uang utama, karena panen pertama membeli benih untuk putaran berikutnya.
 
-Rezeki kecil punya tugas lain. Ia tidak menggantikan panen. Ia menjaga si petani tetap bergerak selama panen belum datang, sehingga setiap pagi ada yang bisa dibawa pulang dan tidak ada hari yang dihabiskan menunggu dengan tangan kosong. Urutannya penting karena tanaman tidak tumbuh pada hari kamu lupa menyiramnya, kecuali hujan turun (bab 1): siram ladang dulu, baru naik ke bukit. Rezeki dari bukit hanya tambahan; panen di ladanglah yang dipertaruhkan.
+Rezeki kecil punya tugas lain. Ia tidak menggantikan panen. Ia menjaga si petani tetap bergerak selama panen belum datang, sehingga setiap pagi ada yang bisa dibawa pulang dan tidak ada hari yang dihabiskan menunggu dengan tangan kosong. Urutannya penting: siram ladang dulu, baru naik ke bukit. Tanaman tidak tumbuh pada hari kamu lupa menyiramnya, kecuali hujan turun (bab 1). Rezeki dari bukit hanya tambahan; panen di ladanglah yang dipertaruhkan.
 
 ### Empat Ratus Dolar di Hari yang Salah
 
@@ -34,12 +34,12 @@ Federal Reserve menanyakan hal ini kepada orang dewasa di Amerika Serikat: kalau
 
 Seberapa tebal bantalan yang wajar? [Sebuah artikel KPKNL Lahat di situs DJKN Kemenkeu](https://www.djkn.kemenkeu.go.id/kpknl-lahat/baca-artikel/18366/Investasi-Bagi-Orang-Berpenghasilan-Tetap.html) menyarankan orang dengan penghasilan tetap menyiapkan dana darurat paling sedikit tiga bulan pengeluaran, ditambah asuransi dasar, sebelum mulai berinvestasi. Tiga bulan itu batas bawah, bukan garis akhir.
 
-Cara mengumpulkannya bisa meniru pagi di Mother's Hill: sedikit, tetapi diulang. Pemasukan sampingan yang kecil tidak menggantikan gaji, sama seperti Truffle tidak menggantikan ladang. Namun kalau terus disisihkan, ia bisa menjadi bantalan yang membuatmu tidak panik ketika panen besar belum tiba.
+Cara mengumpulkannya bisa meniru pagi di Mother's Hill: sedikit, tetapi diulang. Pemasukan sampingan yang kecil tidak menggantikan gaji, sama seperti Truffle tidak menggantikan ladang. Namun, kalau terus disisihkan, ia bisa menjadi bantalan yang membuatmu tidak panik ketika panen besar belum tiba.
 
 ### Inti Pembahasan
 
 - Tanaman liar di bukit tumbuh lagi setiap pagi, dan dermaga menunggu dengan jorannya. Nilainya kecil, tetapi bisa diambil lagi besok.
 - Uang besar datang dari ladang; rezeki kecil hanya membuatmu terus bergerak selama menunggu.
-- Dalam survei Federal Reserve 2025, 63 persen orang dewasa di AS akan menutup pengeluaran darurat 400 dolar AS dengan uang tunai. Artikel DJKN menyarankan dana darurat paling sedikit tiga bulan pengeluaran sebagai batas bawah sebelum berinvestasi.
+- Dalam survei Federal Reserve 2025, 63 persen orang dewasa di AS akan menutup pengeluaran darurat 400 dolar AS dengan uang tunai atau yang setara. Artikel DJKN menyarankan dana darurat paling sedikit tiga bulan pengeluaran sebagai batas bawah sebelum berinvestasi.
 
 Koin-koin kecil dari bukit dan dermaga lama-lama menumpuk, sementara bengkel Saibara menunggu dengan tawaran alat yang lebih baik.

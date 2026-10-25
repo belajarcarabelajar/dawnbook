@@ -8,9 +8,9 @@ Tiga belas bab di buku ini masing-masing mengambil satu mekanik gim dan memasang
 
 ### Ladang yang Belum Bisa Dicangkul
 
-Hari pertama di HM BTN dibuka dengan pemandangan yang membuat bahu turun. Ladang warisan itu tertutup rumput liar, batu, dahan, dan tunggul, dan tanah di bawahnya tidak bisa dicangkul sebelum semua itu disingkirkan. Bekalmu hanya sabit untuk rumput, palu untuk batu, dan kapak untuk dahan. Tunggul besar dan batu besar terlalu kuat untuk alat seadanya itu, jadi mereka dibiarkan berdiri dulu.
+Hari pertama di HM BTN dibuka dengan pemandangan yang membuat bahu turun. Ladang warisan itu tertutup rumput liar, batu, dahan, dan tunggul, dan tanah di bawahnya tidak bisa dicangkul sebelum semua itu disingkirkan. Bekalmu hanya sabit untuk rumput, palu untuk batu, dan kapak untuk dahan. Tunggul besar dan batu besar terlalu kuat untuk alat seadanya itu, jadi keduanya dibiarkan berdiri dulu.
 
-Untungnya, hasil kerja kasar ini tidak hilang lagi. Tunggul dan dahan yang sudah kamu tebang di ladang sendiri tidak tumbuh lagi. Setiap ayunan kapak meninggalkan bekas yang menetap, sekecil apa pun bekas itu.
+Untungnya, hasil kerja kasar ini tidak hilang. Tunggul dan dahan yang sudah kamu tebang di ladang sendiri tidak tumbuh lagi. Setiap ayunan kapak meninggalkan bekas yang menetap, sekecil apa pun bekas itu.
 
 ### Satu Petak Dekat Harvest Bin
 
@@ -20,7 +20,7 @@ Letaknya dipilih dengan sengaja, yaitu di dekat Harvest Bin, tidak jauh dari rum
 
 ### Lobak Pertama
 
-Benih pertama ditentukan oleh isi dompet: beberapa bungkus lobak (*Turnip*), murah dan cepat tumbuh. Caranya juga hemat tenaga: cangkul area 3 x 3 dan biarkan petak tengahnya kosong. Alat awal tidak menjangkau petak tengah itu saat menyiram, dan celah kosong itu memberimu jalan untuk melompati tanaman. Setelah itu tinggal satu kebiasaan yang harus kamu pegang, yaitu menyiram setiap hari. Tanaman tidak tumbuh pada hari kamu lupa menyiramnya, kecuali hujan turun dan menyirami semuanya sekaligus. Kalau kamu rajin, lima hari kemudian petak kecil itu penuh lobak siap panen.
+Benih pertama ditentukan oleh isi dompet: beberapa bungkus lobak (*Turnip*), murah dan cepat tumbuh. Caranya juga hemat tenaga: cangkul area 3 x 3 dan biarkan petak tengahnya kosong. Alat awal tidak menjangkau petak tengah itu saat menyiram, dan celah kosong itu memberimu jalan untuk melompati tanaman. Setelah itu tinggal satu kebiasaan yang harus kamu pegang, yaitu menyiram setiap hari. Tanaman tidak tumbuh pada hari kamu lupa menyiramnya, kecuali hujan turun dan menyirami semuanya sekaligus. Kalau kamu rajin, pada hari kelima petak kecil itu penuh lobak siap panen.
 
 Kamu memasukkannya ke Harvest Bin, dan pukul 17.00 Zack datang mengambilnya. Modalmu kembali, bahkan lebih. Lalu kamu ke Supermarket, membeli benih lagi, dan putaran kedua dimulai. Belum ada yang megah di sini. Hanya satu petak bersih, satu kali panen, dan uang untuk menanam lagi.
 
