@@ -32,9 +32,9 @@ Pigou, A. C. (1920). *The economics of welfare*. Macmillan and Co. [https://oll.
 
 Piketty, T. (2014). *Capital in the twenty-first century* (A. Goldhammer, Trans.). Harvard University Press. [https://doi.org/10.4159/9780674369542](https://doi.org/10.4159/9780674369542)
 
-Quesnay, F. (1758). *Tableau économique*. Académie des Sciences.
+Quesnay, F. (1758). *Tableau économique*. [https://www.marxists.org/reference/subject/economics/quesnay/1759/tableau.htm](https://www.marxists.org/reference/subject/economics/quesnay/1759/tableau.htm)
 
-Robbins, L. (1932). *An essay on the nature and significance of economic science*. Macmillan.
+Robbins, L. (1932). *An essay on the nature and significance of economic science*. Macmillan. [https://mises.org/library/book/essay-nature-and-significance-economic-science](https://mises.org/library/book/essay-nature-and-significance-economic-science)
 
 Rodrik, D. (2011). *The globalization paradox: Democracy and the future of the world economy*. W. W. Norton & Company. [https://wwnorton.com/books/The-Globalization-Paradox/](https://wwnorton.com/books/The-Globalization-Paradox/)
 
@@ -48,6 +48,6 @@ Stiglitz, J. E. (2002). *Globalization and its discontents*. W. W. Norton & Comp
 
 Thoreau, H. D. (1849). *On the duty of civil disobedience*. Project Gutenberg. [https://www.gutenberg.org/files/71/71-h/71-h.htm](https://www.gutenberg.org/files/71/71-h/71-h.htm)
 
-Turgot, A. R. J. (1766). *Réflexions sur la formation et la distribution des richesses*. Éphémérides du citoyen.
+Turgot, A. R. J. (1766). *Réflexions sur la formation et la distribution des richesses*. Éphémérides du citoyen. [https://oll.libertyfund.org/titles/turgot-reflections-on-the-formation-and-distribution-of-riches](https://oll.libertyfund.org/titles/turgot-reflections-on-the-formation-and-distribution-of-riches)
 
 Viner, J. (1927). Adam Smith and laissez faire. *Journal of Political Economy*, 35(2), 198–232. [https://doi.org/10.1086/253837](https://doi.org/10.1086/253837)
