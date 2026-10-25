@@ -20,9 +20,9 @@ Bayangkan otak kamu adalah sebuah ruangan besar yang gelap, penuh dengan peralat
 
 Agar sirkuit saraf berubah secara fisik, otak perlu melepaskan bahan kimia tertentu yang disebut **neuromodulator**. Tiga pemain utama dalam proses ini adalah:
 
-### A. Epinefrin (Adrenalin) Memicu Kewaspadaan
+### A. Norepinefrin dan Epinefrin Memicu Kewaspadaan
 
-Epinefrin dilepaskan dari batang otak dan kelenjar adrenal. Fungsinya adalah untuk menciptakan rasa **waspada dan energi**. Tanpa epinefrin, kita merasa mengantuk atau malas, dan otak tidak berada dalam kondisi yang cukup aktif untuk memulai perubahan.
+Batang otak melepaskan norepinefrin (noradrenalin), sedangkan kelenjar adrenal melepaskan epinefrin (adrenalin). Keduanya berkaitan dengan rasa **waspada dan energi**.
 
 ### B. Asetilkolin (ACh) Menandai Sinapsis yang Aktif
 
@@ -74,11 +74,11 @@ Bayangkan dua orang, Budi dan Siti, sedang belajar fungsi `if-else` dalam Python
 
 ## 6\. Latihan Mandiri untuk Meningkatkan Plastisitas
 
-Untuk melibatkan sistem neuromodulator kamu, cobalah langkah-langkah kinestetik dan kognitif berikut:
+Beberapa latihan yang bisa kamu coba:
 
-1. **The 90-Second Focus:** Sebelum belajar, cobalah menatap satu titik di tembok atau layar selama 60-90 detik tanpa mengalihkan pandangan. Ini secara fisik memicu pelepasan epinefrin dan menyiapkan sirkuit atensi kamu.
-2. **Eliminasi Interupsi:** Singkirkan semua pemicu atensi eksternal (ponsel, tab browser yang tidak relevan). Setiap kali kamu "beralih" fokus, kamu membuang tumpukan asetilkolin yang sudah susah payah dikumpulkan.
-3. **Pelibatan Emosi:** Ingatkan diri kamu mengapa materi ini penting. Kepentingan atau urgensi meningkatkan pelepasan dopamin dan norepinefrin, yang mempercepat plastisitas.
+1. **The 90-Second Focus:** Sebelum belajar, cobalah menatap satu titik di tembok atau layar selama 60-90 detik tanpa mengalihkan pandangan.
+2. **Eliminasi Interupsi:** Singkirkan semua pemicu atensi eksternal (ponsel, tab browser yang tidak relevan) supaya fokus kamu tidak terus "beralih".
+3. **Pelibatan Emosi:** Ingatkan diri kamu mengapa materi ini penting.
 
 > **Pesan Memorable:** Atensi adalah alat bedah bagi otak kamu. Semakin tajam atensinya, semakin presisi perubahan saraf yang dihasilkan.
 

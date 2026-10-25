@@ -25,6 +25,14 @@ const RULES: Rule[] = [
   { id: "ews-pillars-as-unesco", all: [/unesco/i, /pilar/i], none: [/isdr|ewc/i] },
   { id: "antifragile-without-taleb", all: [/antifragil/i], none: [/taleb/i], scope: "chapter" },
   { id: "uncredited-ultident-passage", all: [/kolaborasi interdisipliner telah membuka jalan/i], none: [/ultident/i] },
+  // Added by plan 2026-10-25-dawnbook-later-backlog (docs/code-plan/artifacts/2026-10-25-dawnbook-later-audit.md).
+  { id: "community-feedback-as-unesco", all: [/unesco/i, /umpan balik komunitas/i] },
+  { id: "23-minutes-as-focus-recovery", all: [/23 menit/i, /(konsentrasi|fokus)( penuh)? semula|tingkat (konsentrasi|fokus)/i] },
+  { id: "10-iq-points-as-context-switching", all: [/10 poin/i, /\bIQ\b/, /context switching/i] },
+  { id: "error-releases-epinephrine", all: [/kesalahan/i, /epinefrin/i] },
+  { id: "object-permanence-8-9-months", all: [/8-9 bulan/i, /objek|permanen/i] },
+  { id: "tlo-above-75", all: [/\bTLO\b|total loss only/i, /di atas 75/i] },
+  { id: "nah-as-summary-marker", all: [/nah \/ jadi/i, /menyimpulkan/i] },
 ];
 
 const BOOKS_DIR = path.resolve(import.meta.dir, "../../books");

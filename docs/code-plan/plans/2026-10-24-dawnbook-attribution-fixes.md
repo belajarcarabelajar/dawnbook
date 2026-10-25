@@ -259,7 +259,7 @@ tasks:
 
 Status: Approved (implementation and debt-sweep follow-ups done; X1 open)
 Author: Iwan Kurniawan <iwan@belajarcarabelajar.com>, no trailer. Books by Kania Salsabila (D1, G1) are committed with her identity and the trailer `Co-authored-by: Iwan Kurniawan <iwan@belajarcarabelajar.com>` (GEMINI.md section 18); the identity is read from each book's `book.toml`.
-Trigger: owner request 2026-10-24 after the Raymond Chin Bridgeplay/NotProton controversy; read-only audit of code, books and history in the same session. Owner answers: "Tedi Rahmat" in the init commit was a placeholder name; the Notion guide behind the Algoritma X book is the owner's own writing; fixes B to G approved.
+Trigger: owner request 2026-10-24 after the Raymond Chin Bridgeplay/NotProton controversy; read-only audit of code, books and history in the same session. Owner answers: the author name in the init commit was a placeholder and the books are by Iwan Kurniawan; the Notion guide behind the Algoritma X book is the owner's own writing; fixes B to G approved.
 
 ## Checklist
 
@@ -325,7 +325,7 @@ flowchart TD
 Test first: `tests/scripts/attribution.test.ts` asserts (1) `THIRD-PARTY-NOTICES.md` names Twemoji, CC-BY 4.0 and the licence URL; (2) `package.json` `license` is `MIT`; (3) README has a credits section linking `THIRD-PARTY-NOTICES.md`; (4) `LICENSE-CONTENT` starts with a scope header and still contains the unmodified CC BY-SA 4.0 text; (5) the generated About page HTML contains the Twemoji credit in both i18n files.
 Then:
 - `THIRD-PARTY-NOTICES.md` in the shape of `~/vivera/THIRD-PARTY-NOTICES.md`: Twemoji 1f305 (favicon, PWA icons, book favicons; Copyright Twitter, Inc and other contributors; CC-BY 4.0; changes: rasterised to PNG sizes), mdBook (MPL-2.0, the build output it ships), MathJax 2.7.9 (Apache-2.0, CDN), Syne and Epilogue (SIL OFL 1.1, Google Fonts on the hub, rendered outlines in share cards), each with an upstream URL and the date its licence was checked.
-- README: a "Lisensi dan kredit" section: code MIT, book text CC BY-SA 4.0 with the exceptions, link to the notices file, and one line that "Tedi Rahmat" in the earliest commits was a placeholder author name, replaced by the real author.
+- README: a "Lisensi dan kredit" section: code MIT, book text CC BY-SA 4.0 with the exceptions, link to the notices file, and one line naming Iwan Kurniawan as the author of the first books.
 - `LICENSE-CONTENT`: a short scope header above the untouched licence text: the licence covers the book text written for Dawnbook; quotations from other works, the works they come from, and third-party trademarks (game, product and organisation names) stay with their owners and are not licensed by this file.
 - About page: one sentence after "The Dawn Motif" body: sunrise icon from Twemoji, CC-BY 4.0, with links; id and en strings.
 - `package.json`: `"license": "MIT"`.

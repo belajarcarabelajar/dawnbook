@@ -28,6 +28,8 @@ Bab ini merangkum **_referensi sistem peringatan dini_** yang kamu butuhkan untu
 
 ### C. Pedoman UNESCO dan IOC untuk Sistem Peringatan Tsunami
 
+- UNESCO. (2024, 20 Juni). *Early warning systems*. UNESCO. [Early Warning Systems - UNESCO](https://www.unesco.org/en/disaster-risk-reduction/ews)
+
 - UNESCO Intergovernmental Oceanographic Commission. (2024). *End-to-end tsunami early warning systems: Tsunami Programme*. IOC/UNESCO. [End-to-End Warning Systems - Tsunami Programme](https://tsunami.ioc.unesco.org/en/warningsystems)
 
 - UNESCO Intergovernmental Oceanographic Commission. (2013). *How to plan, conduct and evaluate UNESCO/IOC tsunami wave exercises* (IOC Manuals and Guides No. 58). UNESCO. [How to Plan, Conduct and Evaluate UNESCO/IOC Tsunami Wave Exercises](https://legacy2.ctic.ioc-unesco.org/sites/default/files/2022-04/How_to_Conduct_Exercises-English.pdf)

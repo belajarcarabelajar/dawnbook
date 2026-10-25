@@ -121,7 +121,7 @@ Melindungi pemilik mobil atau motor dari kerugian akibat kecelakaan, hilang, dan
 
 **Jenis utama:**
 - **All risk (Komprehensif):** Menanggung hampir semua kerusakan. Dari lecet kecil sampai mobil hilang total. Preminya lumayan tinggi.
-- **TLO (Total Loss Only):** Hanya bayar kalau kendaraan rusak parah di atas 75% atau hilang dicuri. Preminya jauh lebih terjangkau.
+- **TLO (Total Loss Only):** Hanya bayar kalau kendaraan rusak parah 75% atau lebih dari nilai kendaraan, atau hilang dicuri dan tidak ditemukan. Preminya jauh lebih terjangkau.
 
 **Hal yang perlu dicek sebelum membeli:**
 - Kalau mobil baru, biasanya lebih aman pakai all risk.

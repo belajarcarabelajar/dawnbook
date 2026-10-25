@@ -61,7 +61,7 @@ Di mana:
 - **Stimulus** adalah materi pembelajaran.
 - **Atensi** adalah fokus sadar siswa.
 
-**Penerapan di Dunia Nyata:** Negara-negara seperti Finlandia mulai mengintegrasikan waktu istirahat yang lebih sering (setiap 45 menit belajar, 15 menit istirahat). Secara neurosains, ini bukan "buang-buang waktu", melainkan memberikan jendela bagi **Long-Term Potentiation (LTP)** untuk menetap dan mencegah kejenuhan sinaptik.
+**Penerapan di Dunia Nyata:** Di Finlandia, waktu belajar lazimnya diselingi istirahat yang sering (setiap 45 menit belajar, 15 menit istirahat).
 
 ## 5\. Tantangan dan Etika di Masa Depan
 

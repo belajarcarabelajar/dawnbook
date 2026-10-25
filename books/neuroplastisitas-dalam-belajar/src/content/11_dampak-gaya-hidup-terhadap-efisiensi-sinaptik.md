@@ -85,8 +85,8 @@ Ketiga faktor ini tidak bekerja secara terpisah, melainkan saling memperkuat dal
 
 Untuk memaksimalkan kapasitas belajar kamu berdasarkan sains neuroplastisitas, terapkan langkah-langkah berikut:
 
-1. **Gerak Aktif:** Lakukan aktivitas fisik minimal 150 menit per minggu. Gunakan sesi olahraga singkat (10 menit) di sela-sela waktu belajar untuk menyegarkan kadar BDNF.
-2. **Prioritas Tidur:** Targetkan 7-9 jam tidur. Hindari layar biru 1 jam sebelum tidur untuk memastikan kualitas fase REM yang optimal bagi konsolidasi memori.
+1. **Gerak Aktif:** Lakukan aktivitas fisik minimal 150 menit per minggu. Gunakan sesi olahraga singkat (10 menit) di sela-sela waktu belajar.
+2. **Prioritas Tidur:** Targetkan 7-9 jam tidur. Hindari layar biru menjelang tidur.
 3. **Diet Cerdas:** Konsumsi lemak sehat (ikan, kacang-kacangan, alpukat) dan kurangi gula rafinasi untuk menjaga stabilitas energi otak.
 
 > **Pesan Utama:** Otak kamu bukan hanya perangkat lunak yang bisa di- *update* dengan informasi, tapi juga perangkat keras yang kualitasnya bergantung pada cara kamu merawat tubuh. Efisiensi sinaptik adalah hasil dari sinergi antara apa yang kamu pelajari dan bagaimana kamu hidup.

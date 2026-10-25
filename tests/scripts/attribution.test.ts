@@ -83,3 +83,54 @@ describe("third-party attribution", () => {
     }
   });
 });
+
+// Owner decision 2026-10-25 (plan 2026-10-25-dawnbook-later-backlog, Task A1): one line
+// on the About page and in the README says the books are written with AI assistance.
+const AI_NOTICE_KEY = "about.ai.notice";
+
+describe("AI-assistance notice", () => {
+  test("both i18n catalogs carry the notice", () => {
+    expect(JSON.parse(read("i18n/en.json"))[AI_NOTICE_KEY]).toMatch(/\bAI\b/);
+    expect(JSON.parse(read("i18n/id.json"))[AI_NOTICE_KEY]).toMatch(/\bAI\b/);
+  });
+
+  test("generated About page shows the notice", async () => {
+    const out = mkdtempSync(join(tmpdir(), "dawnbook-ai-notice-test-"));
+    try {
+      await generateSitePages(ROOT, out, [], {});
+      expect(readFileSync(join(out, "about.html"), "utf8")).toContain(`data-i18n="${AI_NOTICE_KEY}"`);
+    } finally {
+      rmSync(out, { recursive: true, force: true });
+    }
+  });
+
+  test("README licence and credits section mentions AI assistance", () => {
+    const readme = read("README.md");
+    const start = readme.search(/^## (License and Credits|Lisensi dan Kredit)\s*$/m);
+    const rest = readme.slice(start + 3);
+    const next = rest.search(/^## /m);
+    expect((next === -1 ? rest : rest.slice(0, next))).toMatch(/AI assistance/);
+  });
+});
+
+// Owner decision 2026-10-25: the placeholder author name from the first commits is not
+// named anywhere in the repository; the first books are by Iwan Kurniawan.
+describe("placeholder author name", () => {
+  test("no tracked text file names the placeholder", () => {
+    const placeholder = new RegExp(`\\b${["T", "e", "d", "i"].join("")}\\b`, "i");
+    const files = Bun.spawnSync(["git", "ls-files"], { cwd: ROOT }).stdout.toString().split("\n").filter(Boolean);
+    const hits = files.filter((f) => {
+      if (/\.(png|jpe?g|webp|ico|woff2?|ttf|pdf|lockb)$/i.test(f)) return false;
+      try {
+        return placeholder.test(read(f));
+      } catch {
+        return false;
+      }
+    });
+    expect(hits).toEqual([]);
+  });
+
+  test("README names Iwan Kurniawan as the author of the first books", () => {
+    expect(read("README.md")).toMatch(/first books were written by Iwan Kurniawan/);
+  });
+});

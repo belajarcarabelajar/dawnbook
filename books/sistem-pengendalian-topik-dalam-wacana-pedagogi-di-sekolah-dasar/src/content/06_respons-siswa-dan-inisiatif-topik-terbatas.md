@@ -67,7 +67,8 @@ Berikut adalah pemarkah transisi topik yang digunakan oleh guru dalam mengendali
 | :--- | :--- |
 | **Ya** | Membuka topik baru atau mengonfirmasi transisi |
 | **Sekarang** | Menandai perubahan fokus aktivitas belajar |
-| **Nah / Jadi** | Menyimpulkan topik sebelum beralih |
+| **Nah** | Membuka topik baru, misalnya lewat pertanyaan |
+| **Jadi** | Menyimpulkan informasi materi sebelum beralih |
 | **Baik / Coba** | Mengarahkan instruksi tindakan baru |
 | **Eh** | Jeda ketika guru berpikir dahulu sebelum memberi arahan |
 | **Kalau begitu** | Membuka kegiatan baru, misalnya mengajak bernyanyi bersama |

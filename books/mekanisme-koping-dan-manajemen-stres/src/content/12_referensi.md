@@ -8,31 +8,31 @@ Guna memudahkan kamu dalam menelusuri penemuan ilmiah dan memperdalam studi lite
 
 ### Buku & Monograf Akademik Utama
 
-Beck, A. T. (1979). *Cognitive therapy of depression*. Guilford Press.
+Beck, A. T. (1979). *Cognitive therapy of depression*. Guilford Press. [https://lccn.loc.gov/79019967](https://lccn.loc.gov/79019967)
 
-Cannon, W. B. (1932). *The wisdom of the body*. W. W. Norton & Company.
+Cannon, W. B. (1932). *The wisdom of the body*. W. W. Norton & Company. [https://lccn.loc.gov/32026227](https://lccn.loc.gov/32026227)
 
-Ellis, A. (1962). *Reason and emotion in psychotherapy*. Lyle Stuart.
+Ellis, A. (1962). *Reason and emotion in psychotherapy*. Lyle Stuart. [https://lccn.loc.gov/62013867](https://lccn.loc.gov/62013867)
 
-Hayes, S. C., Strosahl, K. D., & Wilson, K. G. (1999). *Acceptance and Commitment Therapy: An experiential approach to behavior change*. Guilford Press.
+Hayes, S. C., Strosahl, K. D., & Wilson, K. G. (1999). *Acceptance and Commitment Therapy: An experiential approach to behavior change*. Guilford Press. [https://lccn.loc.gov/99032741](https://lccn.loc.gov/99032741)
 
-House, J. S. (1981). *Work stress and social support*. Addison-Wesley.
+House, J. S. (1981). *Work stress and social support*. Addison-Wesley. [https://lccn.loc.gov/80022234](https://lccn.loc.gov/80022234)
 
-Kabat-Zinn, J. (1990). *Full catastrophe living: Using the wisdom of your body and mind to face stress, pain, and illness*. Delta.
+Kabat-Zinn, J. (1990). *Full catastrophe living: Using the wisdom of your body and mind to face stress, pain, and illness*. Delta. [https://lccn.loc.gov/89027829](https://lccn.loc.gov/89027829)
 
 Kabat-Zinn, J. (1994). *Wherever you go, there you are: Mindfulness meditation in everyday life*. Hyperion. [https://www.hachettebookgroup.com/titles/jon-kabat-zinn-phd/wherever-you-go-there-you-are/9780306832017/](https://www.hachettebookgroup.com/titles/jon-kabat-zinn-phd/wherever-you-go-there-you-are/9780306832017/)
 
-Lazarus, R. S., & Folkman, S. (1984). *Stress, appraisal, and coping*. Springer Publishing Company.
+Lazarus, R. S., & Folkman, S. (1984). *Stress, appraisal, and coping*. Springer Publishing Company. [https://lccn.loc.gov/84005593](https://lccn.loc.gov/84005593)
 
-Meichenbaum, D. (1985). *Stress inoculation training*. Pergamon Press.
+Meichenbaum, D. (1985). *Stress inoculation training*. Pergamon Press. [https://lccn.loc.gov/85000492](https://lccn.loc.gov/85000492)
 
-Porges, S. W. (2011). *The Polyvagal Theory: Neurophysiological foundations of emotions, attachment, communication, and self-regulation*. W. W. Norton & Company.
+Porges, S. W. (2011). *The Polyvagal Theory: Neurophysiological foundations of emotions, attachment, communication, and self-regulation*. W. W. Norton & Company. [https://wwnorton.com/books/9780393707007](https://wwnorton.com/books/9780393707007)
 
-Sapolsky, R. M. (2004). *Why zebras don't get ulcers* (3rd ed.). Henry Holt and Company.
+Sapolsky, R. M. (2004). *Why zebras don't get ulcers* (3rd ed.). Henry Holt and Company. [https://us.macmillan.com/books/9780805073690/whyzebrasdontgetulcers/](https://us.macmillan.com/books/9780805073690/whyzebrasdontgetulcers/)
 
-Segal, Z. V., Williams, J. M. G., & Teasdale, J. D. (2013). *Mindfulness-based cognitive therapy for depression* (2nd ed.). Guilford Press.
+Segal, Z. V., Williams, J. M. G., & Teasdale, J. D. (2013). *Mindfulness-based cognitive therapy for depression* (2nd ed.). Guilford Press. [https://www.guilford.com/books/Mindfulness-Based-Cognitive-Therapy-for-Depression/Segal-Williams-Teasdale/9781462537037](https://www.guilford.com/books/Mindfulness-Based-Cognitive-Therapy-for-Depression/Segal-Williams-Teasdale/9781462537037)
 
-Selye, H. (1956). *The stress of life*. McGraw-Hill.
+Selye, H. (1956). *The stress of life*. McGraw-Hill. [https://lccn.loc.gov/56013402](https://lccn.loc.gov/56013402)
 
 ---
 

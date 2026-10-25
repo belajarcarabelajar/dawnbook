@@ -2,31 +2,31 @@
 
 Batthyany, A. (2010). Viktor Frankl's logotherapy and existential analysis. *European Journal of Psychotherapy & Counselling*, 12(4), 295-310. <https://doi.org/10.1080/13642537.2010.530089>
 
-Beauvoir, S. de. (2011). *The second sex* (C. Borde & S. Malovany-Chevallier, Trans.). Vintage Books. (Original work published 1949)
+Beauvoir, S. de. (2011). *The second sex* (C. Borde & S. Malovany-Chevallier, Trans.). Vintage Books. (Original work published 1949) <https://openlibrary.org/works/OL767941W>
 
-Camus, A. (1991). *The myth of Sisyphus and other essays* (J. O'Brien, Trans.). Vintage Books. (Original work published 1942)
+Camus, A. (1991). *The myth of Sisyphus and other essays* (J. O'Brien, Trans.). Vintage Books. (Original work published 1942) <https://openlibrary.org/works/OL1230690W>
 
 Frankl, V. E. (1966). Logotherapy and existential analysis: A review. *American Journal of Psychotherapy*, 20(2), 252-260. <https://doi.org/10.1176/appi.psychotherapy.1966.20.2.252>
 
-Frankl, V. E. (2006). *Man's search for meaning*. Beacon Press. (Original work published 1946)
+Frankl, V. E. (2006). *Man's search for meaning*. Beacon Press. (Original work published 1946) <https://openlibrary.org/works/OL1268413W>
 
 Gemes, K. (2001). Postmodernism's use and abuse of Nietzsche. *Philosophy and Phenomenological Research*, 62(2), 337-360. <https://doi.org/10.1111/j.1933-1592.2001.tb00058.x>
 
 Kierkegaard, S. (1981). *The concept of anxiety* (R. Thomte, Ed.). Princeton University Press. (Original work published 1844) <https://doi.org/10.1515/9781400846979>
 
-Kierkegaard, S. (1983). *Fear and trembling; Repetition* (H. V. Hong & E. H. Hong, Eds. & Trans.). Princeton University Press. (Original work published 1843)
+Kierkegaard, S. (1983). *Fear and trembling; Repetition* (H. V. Hong & E. H. Hong, Eds. & Trans.). Princeton University Press. (Original work published 1843) <https://press.princeton.edu/books/paperback/9780691020266/fear-and-tremblingrepetition>
 
 Kruks, S. (1992). Gender and subjectivity: Simone de Beauvoir and contemporary feminism. *Signs: Journal of Women in Culture and Society*, 18(1), 89-110. <https://doi.org/10.1086/494780>
 
 Marino, G. D. (1998). Kierkegaard on faith and love. *Inquiry*, 41(3), 357-370. <https://doi.org/10.1080/00201749808602517>
 
-Nietzsche, F. (2001). *The gay science* (J. Nauckhoff, Trans.; B. Williams, Ed.). Cambridge University Press. (Original work published 1882)
+Nietzsche, F. (2001). *The gay science* (J. Nauckhoff, Trans.; B. Williams, Ed.). Cambridge University Press. (Original work published 1882) <https://www.cambridge.org/highereducation/books/nietzsche-the-gay-science/8CA7DA50CC80580A22D7448AFD5ED687>
 
 Podmore, S. J. (2009). Kierkegaard and the abyss of anxiety. *Theology*, 112(865), 34-43. <https://doi.org/10.1177/0040571X0911286505>
 
 Sagi, A. (1994). Albert Camus and the existential problem of the absurd. *Inquiry*, 37(3), 271-284. <https://doi.org/10.1080/00201749408602356>
 
-Sartre, J.-P. (1992). *Being and nothingness* (H. E. Barnes, Trans.). Washington Square Press. (Original work published 1943)
+Sartre, J.-P. (1992). *Being and nothingness* (H. E. Barnes, Trans.). Washington Square Press. (Original work published 1943) <https://openlibrary.org/works/OL1161325W>
 
 Sartre, J.-P. (1989). Existentialism is a humanism (P. Mairet, Trans.). In W. Kaufmann (Ed.), *Existentialism from Dostoyevsky to Sartre*. Meridian. (Original work published 1946) <https://www.marxists.org/reference/archive/sartre/works/exist/sartre.htm>
 
@@ -34,4 +34,4 @@ Webber, J. (2006). Sartre on character. *Philosophical Papers*, 35(1), 101-116. 
 
 Wong, P. T. P. (2010). Meaning therapy: An integrative and positive existential psychotherapy. *Journal of Contemporary Psychotherapy*, 40(2), 85-93. <https://doi.org/10.1007/s10879-009-9132-0>
 
-Yalom, I. D. (1980). *Existential psychotherapy*. Basic Books.
+Yalom, I. D. (1980). *Existential psychotherapy*. Basic Books. <https://openlibrary.org/works/OL2680414W>

@@ -8,7 +8,7 @@ Setelah melewati tahap pembersihan (Digital Declutter), kamu mungkin mendapati d
 
 Bayangkan seorang koki profesional. Ia jarang membutuhkan 50 jenis gadget dapur otomatis yang masing-masing hanya punya satu fungsi, seperti pemotong alpukat atau pengupas bawang elektrik. Sebaliknya, ia mengandalkan satu **Pisau Koki (Chef’s Knife)** berkualitas tinggi yang dirawat dengan baik. Lewat satu pisau itu, hampir semua urusan dapur bisa diselesaikan.
 
-Dalam digital minimalisme, prinsipnya serupa. Setiap alat baru membawa biaya perawatan mental berupa notifikasi, pembaruan rutin, hingga kurva pembelajaran. Menguasai satu alat secara mendalam jauh lebih efektif daripada sekadar tahu sedikit-sedikit tentang sepuluh alat berbeda. Pembatasan ini juga meminimalkan perpindahan antar aplikasi (context switching), sebuah kebiasaan buruk yang bisa menurunkan IQ produktivitas kamu hingga 10 poin.
+Dalam digital minimalisme, prinsipnya serupa. Setiap alat baru membawa biaya perawatan mental berupa notifikasi, pembaruan rutin, hingga kurva pembelajaran. Menguasai satu alat secara mendalam jauh lebih efektif daripada sekadar tahu sedikit-sedikit tentang sepuluh alat berbeda. Pembatasan ini juga meminimalkan perpindahan antar aplikasi (context switching).
 
 Alat yang hebat tidak hanya membantu kamu melakukan pekerjaan, tetapi juga mendukung pikiran untuk bekerja lebih jernih.
 

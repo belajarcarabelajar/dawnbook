@@ -35,7 +35,7 @@ Dalam interaksi kelas di sekolah dasar, guru menggunakan berbagai variasi pemark
 Untuk memahami bagaimana pemarkah wacana bekerja dalam praktik nyata, mari amati beberapa contoh transisi wacana dalam pengajaran Sekolah Dasar di bawah ini.
 
 #### 1. Penggunaan Kata *Baik* dan *Sekarang* untuk Transisi Tugas
-Dalam sesi latihan bahasa, guru menggunakan pemarkah *baik* dan *sekarang* untuk memindahkan fokus siswa dari diskusi bebas ke penyusunan struktur kalimat.
+Dalam sesi latihan bahasa, guru menggunakan pemarkah *baik* dan *sekarang* untuk memindahkan fokus siswa ke penyusunan struktur kalimat.
 
 | Gerakan | Pemeran | Penutur | Ujaran Verbal |
 | :--- | :--- | :--- | :--- |

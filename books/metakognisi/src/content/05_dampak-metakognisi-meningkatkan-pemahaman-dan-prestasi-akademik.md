@@ -34,7 +34,7 @@ Untuk urusan memecahkan masalah, metakognisi sering jadi fondasinya. Orang yang 
 
 ## 4\. Kinerja Akademik Secara Keseluruhan
 
-Meta-analisis Ohtani dan Hisasaka (2018) menemukan bahwa secara keseluruhan metakognisi berkorelasi lemah dengan prestasi akademik, tetapi hubungan itu tetap ada setelah faktor kecerdasan diperhitungkan. Siswa yang sadar akan cara berpikirnya sering mencetak prestasi yang lebih baik. Mereka terbiasa mengatur, memantau, dan memperbaiki alur belajarnya sendiri.
+Meta-analisis Ohtani dan Hisasaka (2018) menemukan bahwa secara keseluruhan metakognisi berkorelasi lemah dengan prestasi akademik, tetapi hubungan itu tetap ada setelah faktor kecerdasan diperhitungkan. Siswa yang sadar akan cara berpikirnya cenderung sedikit lebih unggul, walau hubungannya baru berupa keterkaitan.
 
 - **Jadi Pembelajar Mandiri:** Kamu pelan-pelan bergeser jadi sosok yang bisa belajar sendiri tanpa harus selalu diarahkan, dan berani ambil tanggung jawab penuh atas progres belajarmu.
 - **Pemilihan Strategi Cerdas:** Kamu sadar bahwa tugas yang berbeda butuh pendekatan belajar yang beda juga.

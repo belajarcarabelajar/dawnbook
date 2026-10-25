@@ -19,13 +19,11 @@ Mengapa ini terjadi?
 
 Banyak pembelajar menyerah saat mereka mulai melakukan kesalahan. Padahal, dalam mekanisme neuroplastisitas, **kesalahan adalah bahan bakar pertumbuhan.**
 
-Saat kamu membuat kesalahan dan menyadarinya, otak melepaskan neuromodulator seperti **Epinefrin** (meningkatkan kewaspadaan) dan **Asetilkolin** (mempertajam fokus). Kombinasi kimiawi ini menandai sinapsis yang perlu diubah.
-
 ### Proses Kalibrasi Saraf
 
 1. **Prediksi:** Otak memprediksi hasil dari suatu tindakan.
 2. **Kesalahan (Error):** Hasil tidak sesuai ekspektasi.
-3. **Sinyal Kimia:** Terjadi lonjakan aktivitas pada sirkuit pendeteksi kesalahan.
+3. **Sinyal Kesalahan:** Terjadi lonjakan aktivitas pada sirkuit pendeteksi kesalahan.
 4. **Plastisitas:** Otak menjadi fleksibel dalam beberapa saat setelah kesalahan terjadi untuk "mencari" solusi yang benar.
 
 *Prinsip Sinyal Kesalahan: Tanpa adanya kekeliruan saat berlatih, sistem saraf berasumsi bahwa jalur yang aktif saat ini sudah memadai sehingga tidak memicu mekanisme rekonfigurasi plastisitas.*
@@ -46,9 +44,9 @@ Jika kamu merasa stagnan dalam satu topik, campurlah dengan topik lain yang seru
 
 ### C. Micro-Rest (Istirahat Mikro)
 
-Penelitian terbaru dari NIH menunjukkan bahwa otak mengulang (replay) informasi yang baru dipelajari dengan kecepatan 20x lipat selama istirahat singkat.
+Dalam penelitian NIH oleh Buch dan rekan (2021), relawan berlatih mengetik sebuah urutan angka. Selama jeda istirahat 10 detik, otak mereka mengulang (replay) latihan itu sekitar 20 kali lebih cepat.
 
-- **Teknik:** Saat sedang intens belajar, berhentilah selama 10-20 detik. Jangan lihat HP. Cukup duduk diam. Ini memberi kesempatan bagi sirkuit saraf untuk melakukan kompresi data.
+- **Teknik:** Saat sedang intens berlatih, berhentilah sejenak, sekitar 10 detik. Jangan lihat HP. Cukup duduk diam.
 
 ## 4\. Hubungan Fokus dan Error
 

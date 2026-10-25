@@ -29,8 +29,41 @@ function booksWithoutReferensi(): string[] {
     .sort();
 }
 
+// A citation item is a list item with a year (or n.d./t.t.) in parentheses; each one must
+// carry its own link (GEMINI.md section 15, no plain-text citations). Added by plan
+// 2026-10-25-dawnbook-later-backlog after 32 such items were found without a link.
+function citationsWithoutLink(): string[] {
+  const out: string[] = [];
+  const slugs = readdirSync(BOOKS_DIR, { withFileTypes: true })
+    .filter((d) => d.isDirectory() && !d.name.startsWith("_"))
+    .map((d) => d.name)
+    .sort();
+  for (const slug of slugs) {
+    const last = lastChapter(slug);
+    if (!last || !/referensi/i.test(path.basename(last))) continue;
+    const file = path.join(BOOKS_DIR, slug, "src", last);
+    if (!existsSync(file)) continue;
+    readFileSync(file, "utf8")
+      .split("\n")
+      .forEach((line, i) => {
+        if (/https?:\/\//.test(line) || /^\s*[#>|]/.test(line)) return;
+        const listCitation = /^\s*([-*]|\d+\.)\s+\S/.test(line) && /\((\d{4}|n\.d\.|t\.t\.)[a-z]?[,)]/.test(line);
+        // A paragraph-style entry: an APA reference line, "Author. (Year)." near its start.
+        const paragraphCitation = /^\S.{0,200}?\((\d{4}|n\.d\.|t\.t\.)[a-z]?(, [^)]*)?\)\./.test(line);
+        if (listCitation || paragraphCitation) {
+          out.push(`${slug}/${last}:${i + 1}`);
+        }
+      });
+  }
+  return out;
+}
+
 describe("Referensi chapter in every book", () => {
   test("every book ends in a Referensi chapter with at least one link", () => {
     expect(booksWithoutReferensi()).toEqual([]);
+  });
+
+  test("every citation item in a Referensi chapter carries a link", () => {
+    expect(citationsWithoutLink()).toEqual([]);
   });
 });

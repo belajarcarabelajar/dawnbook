@@ -6,9 +6,9 @@ Berikut adalah daftar literatur ilmiah, buku teks utama, dan artikel jurnal bere
 
 * Emmer, E. T., & Evertson, C. M. (2017). *Classroom management for middle and high school teachers* (10th ed.). Pearson. [https://www.pearson.com](https://www.pearson.com)
 * Evertson, C. M., & Poole, I. R. (2008). Proactive classroom management. In T. L. Good (Ed.), *21st century education: A reference handbook* (Vol. 1, pp. 131–140). SAGE Publications. [https://doi.org/10.4135/9781412964012.n14](https://doi.org/10.4135/9781412964012.n14)
-* Kounin, J. S. (1970). *Discipline and group management in classrooms*. Holt, Rinehart and Winston.
+* Kounin, J. S. (1970). *Discipline and group management in classrooms*. Holt, Rinehart and Winston. [https://lccn.loc.gov/70107670](https://lccn.loc.gov/70107670)
 * Marzano, R. J., Marzano, J. S., & Pickering, D. J. (2003). *Classroom management that works: Research-based strategies for every teacher*. ASCD. [https://www.ascd.org](https://www.ascd.org)
-* Zehr, H. (2015). *The little book of restorative justice* (Revised and updated ed.). Good Books.
+* Zehr, H. (2015). *The little book of restorative justice* (Revised and updated ed.). Good Books. [https://www.skyhorsepublishing.com/good-books/9781561488230/the-little-book-of-restorative-justice/](https://www.skyhorsepublishing.com/good-books/9781561488230/the-little-book-of-restorative-justice/)
 
 ### Artikel Jurnal Ilmiah
 

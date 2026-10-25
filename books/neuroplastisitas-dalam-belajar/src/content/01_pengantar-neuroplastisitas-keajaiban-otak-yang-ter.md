@@ -71,8 +71,8 @@ Artinya, perubahan struktur otak ($\Delta$) adalah fungsi ($f$) dari seberapa be
 Neuroplastisitas bukan hanya teori laboratorium; ia memiliki dampak nyata dalam kehidupan manusia:
 
 - **Pemulihan Stroke**: Dulu, penderita stroke yang lumpuh dianggap tidak akan bisa sembuh. Sekarang, dengan terapi fisik yang intensif, pasien dapat "mengajar" bagian otak yang sehat untuk mengambil alih fungsi bagian yang rusak, sehingga mereka bisa berjalan atau berbicara kembali.
-- **Belajar Bahasa di Usia Tua**: Meskipun anak-anak belajar lebih cepat, penelitian menunjukkan bahwa orang dewasa yang belajar bahasa baru mengalami penebalan pada *Cerebral Cortex*, membuktikan bahwa "plastisitas" masih bekerja dengan baik.
-- **Musisi Profesional**: Pemindaian otak pada pemain biola menunjukkan bahwa area otak yang mengontrol jari tangan kiri mereka jauh lebih besar dan lebih kompleks dibandingkan orang yang bukan musisi.
+- **Belajar Bahasa Saat Dewasa**: Penelitian menemukan penebalan pada *Cerebral Cortex* orang dewasa yang belajar bahasa baru, petunjuk bahwa "plastisitas" masih bekerja.
+- **Musisi Profesional**: Pemindaian otak pada pemain biola menunjukkan bahwa area otak yang mengontrol jari tangan kiri mereka lebih besar dibandingkan orang yang bukan musisi.
 
 > **Insight Penting:** Neuroplastisitas adalah pedang bermata dua. Otak tidak peduli apakah kamu melatih kebiasaan baik atau buruk. Jika kamu terus-menerus melatih pikiran negatif atau kecemasan, otak kamu akan menjadi sangat efisien dalam merasa cemas. Namun, kabar baiknya, kamu selalu punya kemampuan untuk "memahat ulang" sirkuit tersebut.
 

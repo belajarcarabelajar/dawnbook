@@ -23,3 +23,4 @@ Daftar ini mengumpulkan sumber untuk gagasan, tokoh, dan penelitian yang dibahas
 
 - Apple. (2007, 9 Januari). *Apple Reinvents the Phone with iPhone*. Apple Newsroom. [Siaran pers peluncuran iPhone](https://www.apple.com/newsroom/2007/01/09Apple-Reinvents-the-Phone-with-iPhone/)
 - Lewis, A. [blue_beetle]. (2010, 26 Agustus). Komentar pada utas *User-driven discontent*. MetaFilter. [Komentar blue_beetle di MetaFilter](https://www.metafilter.com/95152/Userdriven-discontent#3256046)
+- Robison, J. (2006, 8 Juni). *Too Many Interruptions at Work?* Wawancara dengan Gloria Mark. Gallup Business Journal. [Wawancara Gloria Mark di Gallup](https://news.gallup.com/businessjournal/23146/too-many-interruptions-work.aspx)

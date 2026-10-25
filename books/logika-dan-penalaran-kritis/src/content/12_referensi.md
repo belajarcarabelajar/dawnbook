@@ -4,9 +4,9 @@ Berikut adalah daftar referensi ilmiah dan buku rujukan yang digunakan untuk men
 
 ### Buku Rujukan
 
-*   Kahneman, D. (2011). *Thinking, fast and slow*. Farrar, Straus and Giroux.
-*   McInerny, D. Q. (2005). *Being logical: A guide to good thinking*. Random House.
-*   Weston, A. (2018). *A rulebook for arguments* (5th ed.). Hackett Publishing.
+*   Kahneman, D. (2011). *Thinking, fast and slow*. Farrar, Straus and Giroux. [https://us.macmillan.com/books/9780374275631/thinkingfastandslow/](https://us.macmillan.com/books/9780374275631/thinkingfastandslow/)
+*   McInerny, D. Q. (2005). *Being logical: A guide to good thinking*. Random House. [https://www.penguinrandomhouse.com/books/111762/being-logical-by-d-q-mcinerny/](https://www.penguinrandomhouse.com/books/111762/being-logical-by-d-q-mcinerny/)
+*   Weston, A. (2018). *A rulebook for arguments* (5th ed.). Hackett Publishing. [https://hackettpublishing.com/a-rulebook-for-arguments-group](https://hackettpublishing.com/a-rulebook-for-arguments-group)
 
 ### Artikel Jurnal Ilmiah
 
