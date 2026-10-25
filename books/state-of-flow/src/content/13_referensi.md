@@ -42,6 +42,8 @@ Bakker, A. B. (2008). The work-related flow inventory: Construction and initial 
 
 Liu, W., Lu, H., Li, P., van der Linden, D., & Bakker, A. B. (2023). Antecedents and outcomes of work-related flow: A meta-analysis. *Journal of Vocational Behavior*, *145*, Article 103891. [https://doi.org/10.1016/j.jvb.2023.103891](https://doi.org/10.1016/j.jvb.2023.103891)
 
+Robison, J. (2006, 8 Juni). *Too many interruptions at work?* Wawancara dengan Gloria Mark. Gallup Business Journal. [https://news.gallup.com/businessjournal/23146/too-many-interruptions-work.aspx](https://news.gallup.com/businessjournal/23146/too-many-interruptions-work.aspx)
+
 ---
 
 ### Pemicu Flow & Meta-Analisis

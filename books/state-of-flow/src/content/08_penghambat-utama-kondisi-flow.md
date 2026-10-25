@@ -10,7 +10,7 @@ Di era modern, gangguan digital adalah penghambat nomor satu. Setiap kali ponsel
 
 Otak secara insting akan mengalihkan perhatian ke stimulus baru tersebut. Masalahnya bukan hanya pada waktu yang terbuang saat melihat ponsel, tetapi pada **Switching Cost** (biaya peralihan kognitif).
 
-> **Pesan Penting:** Riset menunjukkan bahwa setelah gangguan kecil, dibutuhkan rata-rata **23 menit dan 15 detik** untuk kembali ke tingkat fokus yang sama dalamnya dengan sebelum gangguan terjadi.
+> **Pesan Penting:** Dalam wawancara dengan Gallup pada 2006, peneliti Gloria Mark menyebut pekerjaan yang terputus rata-rata baru dilanjutkan **23 menit 15 detik** kemudian, biasanya setelah sekitar dua tugas lain dikerjakan lebih dulu.
 
 Jika kita asumsikan $T$ adalah waktu yang dibutuhkan untuk mencapai *flow* dan $d$ adalah frekuensi gangguan, maka probabilitas masuk ke kondisi *flow* ($\text{P}\_f$) dapat digambarkan secara konseptual sebagai:
 
