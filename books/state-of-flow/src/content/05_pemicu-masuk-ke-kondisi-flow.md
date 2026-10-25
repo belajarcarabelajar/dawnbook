@@ -38,10 +38,6 @@ Flow membutuhkan koreksi real-time. Jika kamu tahu saat itu juga apakah tindakan
 
 Ini adalah syarat pokok flow. Tugas tersebut tidak boleh terlalu mudah (membosankan) dan tidak boleh terlalu sulit (membuat cemas). Rasio idealnya sering disebut sebagai **The 4% Rule**: tugas tersebut harus sekitar 4% di atas tingkat kemampuan kamu saat ini.
 
-$$
-\text{Tingkat Kesulitan} \approx \text{Kemampuan} + 4 \text{\%}
-$$
-
 ## 2\. Pemicu Eksternal (Lingkungan)
 
 Pemicu ini berkaitan dengan kualitas lingkungan di sekitar kamu yang dapat memaksa perhatian masuk ke saat ini.
