@@ -74,7 +74,7 @@ Ini adalah level tertinggi tempat teks dihubungkan dengan konteks sosial yang le
 Model Fairclough dapat diterapkan pada fenomena pemberitaan begal di media massa melalui tiga tahap:
 
 1. **Analisis Teks:** Media menggunakan kata-kata hiperbolis seperti "sadis", "berdarah dingin", dan "meresahkan". Fokus teks adalah pada detail kekerasan yang dilakukan pelaku, bukan latar belakang sosioekonomi pelaku.
-2. **Praktik Diskursif:** Media mengambil data mentah dari humas Polri. Publik mengonsumsi berita ini melalui media sosial, yang memicu kemarahan massa (komentar "tembak di tempat"). Terdapat siklus di mana kemarahan publik mendorong aparat untuk bertindak lebih represif.
+2. **Praktik Diskursif:** Media mengambil data mentah dari humas Polri. Publik mengonsumsi berita ini melalui media sosial, yang memicu kemarahan massa (komentar "tembak di tempat"). Terdapat siklus ketika kemarahan publik mendorong aparat untuk bertindak lebih represif.
 3. **Praktik Sosial:** Wacana ini menciptakan *Moral Panic* (kepanikan moral). Secara sosial, fenomena ini membenarkan tindakan *extra-judicial killing* (pembunuhan di luar hukum) demi keamanan, yang pada hakikatnya mengikis prinsip *due process of law* (proses hukum yang adil).
 
 ---

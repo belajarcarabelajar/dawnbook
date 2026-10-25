@@ -46,7 +46,7 @@ Wodak, R., & Meyer, M. (Eds.). (2009). *Methods of critical discourse analysis* 
 
 ---
 
-## Artikel Jurnal
+## Artikel Jurnal dan Bab Buku
 
 Fahad, M., & Roselani, N. G. A. (2025). Media discursive strategy of CNN Indonesia and Republika.co.id in representing Jihad and Shahid: A corpus-based critical discourse analysis approach. *Al-Albab*, *10*(1). [https://doi.org/10.30603/al.v10i1.5307](https://doi.org/10.30603/al.v10i1.5307)
 

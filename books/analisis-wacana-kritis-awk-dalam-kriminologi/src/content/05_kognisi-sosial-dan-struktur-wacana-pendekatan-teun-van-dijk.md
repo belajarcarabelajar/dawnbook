@@ -137,7 +137,7 @@ Untuk memahami bagaimana kriminolog menggunakan bahasa sebagai alat bukti, berik
    > - Pernyataan B: "Pemilik toko ini adalah seorang penipu yang sengaja mencuri uang pelanggan."
    
    Pernyataan A merupakan penilaian subjektif terhadap kualitas layanan (opini), sedangkan Pernyataan B memuat tuduhan tindak pidana yang spesifik tanpa pembuktian hukum (pencemaran nama baik).
-4. **Hubungan dengan Profiling Kriminal:** Jika sebuah surat tuntutan tebusan menggunakan istilah medis yang spesifik namun dengan tata bahasa yang berantakan, profil kriminologi yang dapat disusun menunjuk pada latar belakang tersangka yang memiliki pengetahuan teknis/medis tetapi mencoba mengaburkan identitas melalui penyimpangan tata bahasa.
+4. **Hubungan dengan Profiling Kriminal:** Jika sebuah surat tuntutan tebusan menggunakan istilah medis yang spesifik, tetapi dengan tata bahasa yang berantakan, profil kriminologi yang dapat disusun menunjuk pada latar belakang tersangka yang memiliki pengetahuan teknis/medis tetapi mencoba mengaburkan identitas melalui penyimpangan tata bahasa.
 
 ## Benang Merah Pendekatan Van Dijk
 

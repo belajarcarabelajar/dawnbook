@@ -33,7 +33,7 @@ Bahasa dalam interogasi sering kali dirancang untuk membatasi ruang gerak lingui
 
 ### 2. Retorika Ruang Sidang
 
-Ruang sidang adalah sebuah panggung di mana pengacara dan jaksa bertindak sebagai sutradara narasi. Setiap pilihan kata bertujuan untuk memengaruhi persepsi hakim atau juri.
+Ruang sidang adalah sebuah panggung tempat pengacara dan jaksa bertindak sebagai sutradara narasi. Setiap pilihan kata bertujuan untuk memengaruhi persepsi hakim atau juri.
 
 #### Pertanyaan Retoris dan Efek Psikologis
 
@@ -66,7 +66,7 @@ Salah satu dinamika penting adalah bagaimana pengacara mencoba meruntuhkan kesak
 Sering kali, saksi dibuat merasa terpojok atau tidak konsisten melalui teknik:
 
 - **Repetisi:** Menanyakan hal yang sama berulang kali dengan sedikit variasi untuk mencari celah inkonsistensi.
-- **Kontrol Modalitas:** Memaksa saksi beralih dari pernyataan kemungkinan (*"Saya rasa..."*, *"Sepertinya..."*) ke pernyataan pasti (*"Ya"* atau *"Tidak"*). Jika saksi ragu, kredibilitasnya jatuh. Jika saksi pasti namun ternyata salah sedikit saja, saksi dianggap berbohong.
+- **Kontrol Modalitas:** Memaksa saksi beralih dari pernyataan kemungkinan (*"Saya rasa..."*, *"Sepertinya..."*) ke pernyataan pasti (*"Ya"* atau *"Tidak"*). Jika saksi ragu, kredibilitasnya jatuh. Jika saksi pasti, tetapi ternyata salah sedikit saja, saksi dianggap berbohong.
 
 > **Refleksi Linguistik:** Pernahkah seseorang merasa terpojok oleh pertanyaan pihak lain bukan karena merasa salah, melainkan karena cara pertanyaan itu disusun membuat jawaban jujur terdengar mencurigakan?
 
@@ -74,7 +74,7 @@ Sering kali, saksi dibuat merasa terpojok atau tidak konsisten melalui teknik:
 
 ### 4. Analisis Kasus Kekerasan Seksual
 
-Mari melihat bagaimana manipulasi bahasa terjadi dalam skenario persidangan kekerasan seksual, di mana sering terjadi **"Victim Blaming"** melalui wacana.
+Mari melihat bagaimana manipulasi bahasa terjadi dalam skenario persidangan kekerasan seksual, tempat sering terjadi **"Victim Blaming"** melalui wacana.
 
 **Skenario:** Seorang saksi korban ditanya oleh pengacara terdakwa:
 
@@ -145,7 +145,7 @@ Untuk memahami bagaimana seorang kriminolog menggunakan bahasa sebagai alat bukt
    
    Perbedaan struktur bahasa antara pernyataan A dan B dapat dianalisis dari sudut pandang hukum berdasarkan derajat faktualitas, tuduhan pidana, dan bukti objektif.
 
-4. **Hubungan dengan Profiling Kriminal:** Jika sebuah surat tuntutan tebusan menggunakan istilah medis yang spesifik namun dengan tata bahasa yang tidak terstruktur, profil kriminologi seperti apa yang bisa disusun mengenai latar belakang tersangka?
+4. **Hubungan dengan Profiling Kriminal:** Jika sebuah surat tuntutan tebusan menggunakan istilah medis yang spesifik, tetapi dengan tata bahasa yang tidak terstruktur, profil kriminologi seperti apa yang bisa disusun mengenai latar belakang tersangka?
 
 Linguistik forensik bukan hanya tentang apa yang dikatakan, melainkan bagaimana hal itu dikatakan dan apa yang tersirat di balik struktur tersebut.
 
@@ -157,9 +157,9 @@ Dinamika ruang sidang membuktikan bahwa hukum tidak hanya tentang apa yang terja
 
 **Poin Utama untuk Diingat:**
 
-- **Interogasi** adalah ruang kontrol di mana pertanyaan sering kali membawa asumsi kesalahan (presuposisi).
+- **Interogasi** adalah ruang kontrol tempat pertanyaan sering kali membawa asumsi kesalahan (presuposisi).
 - **Diksi** menentukan berat ringannya persepsi terhadap sebuah tindakan kriminal.
-- **Ruang Sidang** adalah arena di mana kredibilitas dibangun atau dihancurkan melalui manipulasi modalitas bahasa.
+- **Ruang Sidang** adalah arena tempat kredibilitas dibangun atau dihancurkan melalui manipulasi modalitas bahasa.
 - **Linguistik Forensik** memanfaatkan idiolek dan sintaksis untuk mengidentifikasi kepenulisan dokumen kriminal.
 
 > **Wawasan Penting:** Dalam hukum, "kebenaran" sering kali bukan merupakan apa yang benar-benar terjadi, melainkan narasi yang paling sulit untuk dibantah secara linguistik.

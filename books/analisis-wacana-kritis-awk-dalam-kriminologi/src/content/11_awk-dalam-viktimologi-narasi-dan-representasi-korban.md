@@ -25,7 +25,7 @@ Sebelum melangkah pada analisis tekstual, penting untuk memahami konsep teoretis
 
 ### 2. Konstruksi Bahasa dalam Viktimisasi Sekunder
 
-**Viktimisasi Sekunder** (*Secondary Victimization*) merujuk pada proses di mana institusi penegak hukum, sistem peradilan, media, atau masyarakat kembali menimbulkan dampak psikologis negatif pada korban melalui sikap, prosedur formal, atau (terutama) penggunaan struktur bahasa.
+**Viktimisasi Sekunder** (*Secondary Victimization*) merujuk pada proses ketika institusi penegak hukum, sistem peradilan, media, atau masyarakat kembali menimbulkan dampak psikologis negatif pada korban melalui sikap, prosedur formal, atau (terutama) penggunaan struktur bahasa.
 
 #### Pilihan Kata dan Agensi
 
@@ -130,14 +130,14 @@ Teknik ini digunakan untuk mengidentifikasi penulis asli dari dokumen yang anoni
 
 Linguistik forensik membedakan antara ancaman pidana yang nyata (*true threat*) dan ungkapan emosional tanpa niat pidana (*hyperbole*):
 
-- **Evaluasi Niat (*Intent*):** Memetakan tingkat kepastian tindakan pidana berdasarkan struktur modalitas kata kerja.
+- **Evaluasi Niat (*Intent*):** Memetakan tingkat kepastian tindak pidana berdasarkan struktur modalitas kata kerja.
 - **Profil Risiko:** Menilai sejauh mana pola komunikasi mengindikasikan perancangan tindakan kriminal secara terencana.
 
 ---
 
 ### 8. Ringkasan dan Catatan Kunci
 
-- **Kekuasaan dan Bahasa:** Bahasa adalah tempat status korban didefinisikan, di mana pihak yang memegang kekuasaan wacana menentukan siapa yang berhak mendapatkan empati atau prasangka.
+- **Kekuasaan dan Bahasa:** Bahasa adalah tempat status korban didefinisikan, dengan pihak yang memegang kekuasaan wacana menentukan siapa yang berhak mendapatkan empati atau prasangka.
 - **Pencegahan Viktimisasi Sekunder:** Kesadaran terhadap bias bahasa di lingkungan penegak hukum dan media penting untuk mencegah terjadinya trauma berulang bagi korban.
 - **Peran Peneliti AWK:** Bertujuan membongkar bias ideologis tersembunyi dalam teks hukum dan media guna mendorong representasi korban yang lebih adil, netral, dan bermartabat.
 

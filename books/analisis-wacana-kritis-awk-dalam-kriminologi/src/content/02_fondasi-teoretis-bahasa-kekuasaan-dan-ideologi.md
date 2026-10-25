@@ -109,7 +109,7 @@ Dalam kriminologi modern, bahasa dipahami sebagai manifestasi nyata dari perilak
 #### Pilar Utama Analisis Linguistik Forensik
 
 1. **Idiolek (Sidik Jari Bahasa):**
-   Setiap individu memiliki idiolek unik yang dipengaruhi oleh tingkat pendidikan, latar belakang sosial-ekonomi, dialek regional, usia, hingga profesi.
+   Setiap individu memiliki idiolek unik yang dipengaruhi oleh tingkat pendidikan, latar belakang sosioekonomi, dialek regional, usia, hingga profesi.
    - **Pilihan Leksikal:** Penggunaan kosakata spesifik (misalnya istilah teknis "peranti" versus "perangkat").
    - **Sintaksis:** Pola penyusunan struktur kalimat (kecenderungan ragam pasif versus aktif).
    - **Ortografi:** Kebiasaan penulisan, penggunaan tanda baca, dan pola singkatan.

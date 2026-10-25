@@ -24,7 +24,7 @@ Peneliti AWK memiliki komitmen etis untuk **emansipasi**, yaitu upaya membebaska
 | **Tujuan Akhir** | Deskripsi dan eksplanasi fenomena | Transformasi sosial dan praksis penegakan hukum |
 
 > **Analogi Hutan dan Jalan Setapak**
-> Bayangkan sebuah hutan (sistem hukum) di mana jalan setapak hanya dibuat untuk kendaraan besar (penguasa), sementara pejalan kaki (kaum marginal) harus bersusah payah di semak belukar. Peneliti tradisional mungkin hanya memetakan jalan tersebut. Peneliti AWK akan bertanya: *"Siapa yang membuat jalan ini? Mengapa pejalan kaki diabaikan? Dan di mana trotoar harus dibangun?"*
+> Bayangkan sebuah hutan (sistem hukum) tempat jalan setapak hanya dibuat untuk kendaraan besar (penguasa), sementara pejalan kaki (kaum marginal) harus bersusah payah di semak belukar. Peneliti tradisional mungkin hanya memetakan jalan tersebut. Peneliti AWK akan bertanya: *"Siapa yang membuat jalan ini? Mengapa pejalan kaki diabaikan? Dan di mana trotoar harus dibangun?"*
 
 #### Komitmen terhadap Subjek Penelitian
 

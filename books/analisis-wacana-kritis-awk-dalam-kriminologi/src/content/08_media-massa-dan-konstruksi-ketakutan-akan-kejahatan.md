@@ -111,7 +111,7 @@ Dalam contoh kecil ini, keenam kata kunci masing-masing muncul satu kali. Hitung
 Ketakutan yang dikonstruksi secara masif oleh media massa memiliki dampak konkret pada ranah kebijakan hukum dan dinamika sosial:
 
 - **Populisme Punitif (*Punitive Populism*)**: Pembuat kebijakan sering merespons ketakutan publik yang diciptakan media dengan mengesahkan regulasi yang lebih represif dan berfokus pada pembalasan (*retributive*), meskipun langkah tersebut tidak mereduksi kriminalitas secara substantif.
-- **Stigmatisasi Permanen**: Kelompok marjinal (seperti etnis minoritas atau masyarakat miskin kota) mengalami diskriminasi berulang karena penampilan visual mereka kerap diasosiasikan dengan "stereotip kriminal" di media massa.
+- **Stigmatisasi Permanen**: Kelompok marginal (seperti etnis minoritas atau masyarakat miskin kota) mengalami diskriminasi berulang karena penampilan visual mereka kerap diasosiasikan dengan "stereotip kriminal" di media massa.
 
 > **Pesan Utama:** Tugas Analisis Wacana Kritis bukan untuk meniadakan keberadaan kejahatan, melainkan untuk mempertanyakan *mengapa* kejahatan tertentu diberitakan dengan cara tertentu, dan *siapa* yang diuntungkan dari kepanikan moral yang muncul.
 
@@ -137,7 +137,7 @@ Linguistik forensik merupakan cabang ilmu bahasa terapan yang memanfaatkan anali
 - **Diferensiasi Opini vs. Pencemaran Nama Baik**:
   - *Pernyataan A:* "Layanan di toko ini sangat lambat dan tidak profesional." $\rightarrow$ Merupakan penilaian subjektif atas pengalaman layanan (kritik).
   - *Pernyataan B:* "Pemilik toko ini adalah seorang penipu yang sengaja mencuri uang pelanggan." $\rightarrow$ Mengandung tuduhan faktual tanpa pembuktian hukum (pencemaran nama baik).
-- **Profil Kriminal Lewat Teks**: Penggunaan istilah teknis medis yang presisi tetapi dikombinasikan dengan tata bahasa yang tidak teratur dalam surat tebusan dapat mengindikasikan tersangka yang memiliki latar belakang pendidikan atau profesi medis tertentu, namun mencoba menyamarkan identitasnya melalui manipulasi tata bahasa.
+- **Profil Kriminal Lewat Teks**: Penggunaan istilah teknis medis yang presisi tetapi dikombinasikan dengan tata bahasa yang tidak teratur dalam surat tebusan dapat mengindikasikan tersangka yang memiliki latar belakang pendidikan atau profesi medis tertentu, tetapi mencoba menyamarkan identitasnya melalui manipulasi tata bahasa.
 
 ---
 

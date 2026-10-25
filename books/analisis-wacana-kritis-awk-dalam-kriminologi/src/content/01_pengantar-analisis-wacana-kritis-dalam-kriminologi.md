@@ -88,7 +88,7 @@ Persamaan di atas menunjukkan bahwa teks tidak pernah berdiri secara netral, mel
 Terdapat pepatah klasik bahwa sejarah ditulis oleh pihak yang menang. Dalam kriminologi kritis, narasi mengenai suatu "kejahatan" di ruang sidang kerap dikuasai oleh pihak yang memiliki **kapital linguistik** (*linguistic capital*), yakni penguasaan terhadap tata bahasa formal, istilah hukum teknis, dan retorika institusional.
 
 > **Refleksi Aksesibilitas Keadilan:**
-> Apabila seorang terdakwa dari latar belakang sosio-ekonomi marjinal tidak mampu memproses atau merespons alur bahasa hukum yang kompleks, apakah proses peradilan tersebut benar-benar mewujudkan keadilan substantif? Ataukah individu tersebut mengalami kekalahan akibat subordinasi wacana yang tidak dikuasainya?
+> Apabila seorang terdakwa dari latar belakang sosioekonomi marginal tidak mampu memproses atau merespons alur bahasa hukum yang kompleks, apakah proses peradilan tersebut benar-benar mewujudkan keadilan substantif? Ataukah individu tersebut mengalami kekalahan akibat subordinasi wacana yang tidak dikuasainya?
 
 ## Praktik Penggunaan AWK dalam Institusi Hukum
 
@@ -145,4 +145,4 @@ Untuk mendalami aplikasi linguistik forensik dalam pembuktian hukum, berikut ada
    - *Pernyataan A:* "Layanan di toko ini sangat lambat dan tidak profesional." (Evaluasi pengalaman deskriptif).
    - *Pernyataan B:* "Pemilik toko ini adalah seorang penipu yang sengaja mencuri uang pelanggan." (Tuduhan tindak pidana tanpa pembuktian hukum).
    Linguistik forensik membantu membedakan klausa opini subjektif dengan tuduhan kategoris yang berunsur fitnah (*defamation*).
-4. **Profiling Kriminologis Lewat Diksi:** Apabila surat tebusan menggunakan istilah medis yang spesifik namun dipadukan dengan tata bahasa yang tidak terstruktur, profil kriminologis dapat mengarah pada tersangka dengan latar belakang pendidikan atau profesi tertentu yang sedang mengalami tekanan psikologis.
+4. **Profiling Kriminologis Lewat Diksi:** Apabila surat tebusan menggunakan istilah medis yang spesifik, tetapi dipadukan dengan tata bahasa yang tidak terstruktur, profil kriminologis dapat mengarah pada tersangka dengan latar belakang pendidikan atau profesi tertentu yang sedang mengalami tekanan psikologis.

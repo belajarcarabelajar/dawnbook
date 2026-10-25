@@ -56,7 +56,7 @@ Setiap kebijakan kriminal membawa **ideologi** tertentu. AWK membedah agenda ter
 
 1. **Pendefinisian "Subjek Hukum":** Siapa yang dianggap sebagai "warga negara yang taat" dan siapa yang dikonstruksikan sebagai "ancaman"?
 2. **Dikotomi "Kita" vs "Mereka":** Dokumen kebijakan sering menciptakan batas imajiner. Misalnya, dalam kebijakan imigrasi, penggunaan kata "ilegal" (*human being as illegal*) mendegradasi martabat manusia menjadi sekadar status administratif yang patut dihukum.
-3. **Prioritas Kriminalisasi:** Mengapa undang-undang mengatur secara detail pencurian kecil (*street crime*) namun longgar atau menggunakan bahasa yang ambigu dalam mengatur kejahatan korporasi atau perusakan lingkungan?
+3. **Prioritas Kriminalisasi:** Mengapa undang-undang mengatur secara detail pencurian kecil (*street crime*), tetapi longgar atau menggunakan bahasa yang ambigu dalam mengatur kejahatan korporasi atau perusakan lingkungan?
 
 ---
 

@@ -1,6 +1,6 @@
 ## Masa Depan AWK dalam Kriminologi Digital
 
-Dunia kriminologi tidak lagi hanya berpijak pada ruang interogasi fisik atau lembaran koran cetak. Kita telah memasuki era di mana kejahatan, kontrol sosial, dan konstruksi tentang "siapa yang berbahaya" diproduksi melalui baris kode dan interaksi di media sosial. Analisis Wacana Kritis (AWK) kini menghadapi tantangan sekaligus peluang baru: **Kriminologi Digital**.
+Dunia kriminologi tidak lagi hanya berpijak pada ruang interogasi fisik atau lembaran koran cetak. Kita telah memasuki era ketika kejahatan, kontrol sosial, dan konstruksi tentang "siapa yang berbahaya" diproduksi melalui baris kode dan interaksi di media sosial. Analisis Wacana Kritis (AWK) kini menghadapi tantangan sekaligus peluang baru: **Kriminologi Digital**.
 
 Dalam bab ini, pemelajar akan mengeksplorasi bagaimana AWK beradaptasi untuk membongkar relasi kuasa yang tersembunyi di balik layar gawai, algoritma yang tidak terlihat, dan sistem pengawasan yang semakin canggih.
 
@@ -80,7 +80,7 @@ Masa depan AWK dalam kriminologi digital juga membawa sejumlah tantangan etis me
 
 1. **Anonimitas vs. Akuntabilitas:** Bagaimana menganalisis wacana dari akun anonim atau *bot* yang sengaja diciptakan untuk menyebar kebencian?
 2. **Ruang Gema (*Echo Chambers*):** Bagaimana AWK dapat memberikan kritik yang efektif jika audiens yang dituju terjebak dalam ruang gema yang hanya memperkuat keyakinan mereka sendiri?
-3. **Rekayasa Media (*Deepfakes*) dan Pasca-Kebenaran (*Post-Truth*):** Dalam dunia di mana bukti visual dapat dimanipulasi, AWK harus melampaui teks dan gambar untuk mempertanyakan otoritas dari sumber informasi itu sendiri.
+3. **Rekayasa Media (*Deepfakes*) dan Pasca-Kebenaran (*Post-Truth*):** Dalam dunia tempat bukti visual dapat dimanipulasi, AWK harus melampaui teks dan gambar untuk mempertanyakan otoritas dari sumber informasi itu sendiri.
 
 ### 6. Pilar Pembuktian Linguistik Forensik
 

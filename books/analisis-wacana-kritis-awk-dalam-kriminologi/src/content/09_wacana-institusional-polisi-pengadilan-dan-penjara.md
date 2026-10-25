@@ -113,7 +113,7 @@ Dalam praktik investigasi kriminologi, ahli linguistik forensik menganalisis ber
    > **Pernyataan B (Tuduhan Faktual/Pencemaran):** *"Pemilik toko ini adalah seorang penipu yang sengaja mencuri uang pelanggan."* (Mengandung tuduhan spesifik tentang tindak kejahatan pidana yang memerlukan pembuktian hukum).
 
 4. **Korelasinya dengan Profiling Kriminal (*Criminal Profiling*):**  
-   Penggunaan istilah medis yang spesifik berdampingan dengan tata bahasa yang berantakan pada dokumen ancaman atau pemerasan menunjukkan profil tersangka yang memiliki paparan pengetahuan teknis khusus, namun sedang berada di bawah tekanan emosional tinggi atau mencoba mengaburkan latar belakang pendidikannya.
+   Penggunaan istilah medis yang spesifik berdampingan dengan tata bahasa yang berantakan pada dokumen ancaman atau pemerasan menunjukkan profil tersangka yang memiliki paparan pengetahuan teknis khusus, tetapi sedang berada di bawah tekanan emosional tinggi atau mencoba mengaburkan latar belakang pendidikannya.
 
 ### Inti Pembahasan Wacana Institusional
 

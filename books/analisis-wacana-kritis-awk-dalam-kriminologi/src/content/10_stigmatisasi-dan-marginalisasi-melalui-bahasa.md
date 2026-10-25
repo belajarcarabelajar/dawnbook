@@ -75,7 +75,7 @@ Berikut adalah analisis terhadap bagaimana istilah "Anak Jalanan" sering kali di
 - **"PMKS":** Akronim birokratis yang mengubah manusia menjadi kategori administratif. Ini menjauhkan empati publik; mereka bukan lagi "anak-anak", melainkan "masalah".
 - **"Estetika":** Menempatkan keindahan kota di atas hak asasi manusia. Anak jalanan dianggap sebagai "noda visual".
 
-**Hasilnya:** Masyarakat tidak lagi melihat mereka sebagai korban kemiskinan, melainkan sebagai gangguan keamanan yang sah untuk disingkirkan. Inilah titik di mana **marginalisasi** terjadi secara sistematis melalui bahasa.
+**Hasilnya:** Masyarakat tidak lagi melihat mereka sebagai korban kemiskinan, melainkan sebagai gangguan keamanan yang sah untuk disingkirkan. Inilah titik tempat **marginalisasi** terjadi secara sistematis melalui bahasa.
 
 ### 5. Mengubah Narasi untuk Reintegrasi
 
