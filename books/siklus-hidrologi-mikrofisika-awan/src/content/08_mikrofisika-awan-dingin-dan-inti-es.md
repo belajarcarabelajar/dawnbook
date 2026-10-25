@@ -87,6 +87,6 @@ Pemahaman mengenai dinamika $\text{IN}$ melandasi penerapan teknologi modifikasi
 | **Lokasi Awan Utama** | Awan Cirrus elevasi tinggi | Awan fase campuran (*Mixed-phase*) |
 | **Kelimpahan Pemicu** | Tak terbatas (tergantung air) | Sangat terbatas / Langka di atmosfer |
 
-> **Pesan Penting:** Tanpa keberadaan partikel $\text{IN}$ yang langka di troposfer, awan di wilayah beriklim sedang dan dingin cenderung tetap berada dalam fase air superdingin metastabil dan sulit menghasilkan presipitasi. Partikel inti es menjadi pemicu utama yang mengawali siklus pembentukan hujan es dan salju di bumi.
+> **Pesan Penting:** Tanpa keberadaan partikel $\text{IN}$ yang langka di troposfer, awan di wilayah beriklim sedang dan dingin cenderung tetap berada dalam fase air superdingin metastabil dan sulit menghasilkan presipitasi. Partikel inti es menjadi pemicu utama yang mengawali siklus pembentukan hujan es dan salju di Bumi.
 
 Pada pembahasan berikutnya, analisis difokuskan pada bagaimana kristal es yang baru terbentuk mampu menyerap uap air yang berasal dari penguapan tetesan air superdingin di sekitarnya hingga tumbuh menjadi partikel presipitasi besar melalui **Proses Bergeron-Findeisen**.

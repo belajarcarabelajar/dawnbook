@@ -10,7 +10,7 @@ Pada bagian ini, kita akan mempelajari bagaimana udara bergerak secara vertikal,
 
 Udara tidak naik begitu saja tanpa sebab. Karena gaya gravitasi menarik massa udara ke bawah, atmosfer membutuhkan dorongan mekanis atau termis untuk mengangkat paket udara ke atas. Terdapat empat mekanisme utama yang menjadi pemicu pengangkatan:
 
-1. **Konveksi (Convection):** Permukaan bumi dipanaskan oleh radiasi matahari secara tidak merata. Udara di atas area yang lebih panas menjadi kurang padat (massa jenis menurun) dan naik mirip dengan prinsip balon udara panas.
+1. **Konveksi (Convection):** Permukaan Bumi dipanaskan oleh radiasi matahari secara tidak merata. Udara di atas area yang lebih panas menjadi kurang padat (massa jenis menurun) dan naik mirip dengan prinsip balon udara panas.
 2. **Orografis (Orographic Lift):** Terjadi ketika massa udara dipaksa naik saat menabrak rintangan topografi fisik, seperti jajaran pegunungan. Hal ini menjelaskan mengapa satu sisi gunung sering kali hijau subur (sisi angin / *windward*) sementara sisi sebaliknya cenderung gersang (sisi bayangan hujan / *leeward*).
 3. **Konvergensi (Convergence):** Ketika aliran angin dari arah yang berbeda bertemu di suatu titik, massa udara tidak memiliki jalur lain selain terdorong ke atas. Fenomena ini kerap terjadi di wilayah khatulistiwa atau *Intertropical Convergence Zone* ($\text{ITCZ}$).
 4. **Pengangkatan Frontal (Frontal Wedging):** Terjadi saat massa udara dingin yang lebih padat bertemu dengan massa udara hangat yang lebih ringan. Massa udara dingin bertindak sebagai baji (*wedge*) yang memaksa udara hangat terangkat ke atas.
