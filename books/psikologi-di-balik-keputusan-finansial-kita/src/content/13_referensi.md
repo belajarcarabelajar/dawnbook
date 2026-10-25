@@ -1,6 +1,6 @@
 ## Referensi
 
-Seluruh gagasan, eksperimen, dan angka dalam buku ini bersandar pada sumber di bawah. Setiap entri disertai tautan langsung, biasanya berupa penanda DOI yang membawa kamu ke halaman resmi penerbitnya, jadi kamu bisa memeriksa ulang setiap klaim sendiri. Sebagian besar adalah artikel ilmiah yang telah melewati proses peer-review; dua sisanya adalah buku yang menjadi pintu masuk populer bagi bidang ini. Kalau kamu baru mulai menelusuri, bab-bab awal yang paling sering dikutip adalah Kahneman dan Tversky (1979) tentang teori prospek serta Thaler (1999) tentang akuntansi mental.
+Seluruh gagasan, eksperimen, dan angka dalam buku ini bersandar pada sumber di bawah. Setiap entri disertai tautan langsung, biasanya berupa penanda DOI yang membawa kamu ke halaman resmi penerbitnya, jadi kamu bisa memeriksa ulang setiap klaim sendiri. Sebagian besar adalah artikel ilmiah yang telah melewati proses peer-review; dua sisanya adalah buku yang menjadi pintu masuk populer bagi bidang ini. Kalau kamu baru mulai menelusuri, bacaan awal yang paling sering dikutip adalah Kahneman dan Tversky (1979) tentang teori prospek serta Thaler (1999) tentang akuntansi mental.
 
 ### Artikel Ilmiah
 
@@ -13,7 +13,6 @@ Seluruh gagasan, eksperimen, dan angka dalam buku ini bersandar pada sumber di b
 - Bikhchandani, S., Hirshleifer, D., & Welch, I. (1992). A Theory of Fads, Fashion, Custom, and Cultural Change as Informational Cascades. Journal of Political Economy, 100(5), 992-1026. [https://doi.org/10.1086/261849](https://doi.org/10.1086/261849)
 - Feinberg, R. A. (1986). Credit Cards as Spending Facilitating Stimuli: A Conditioning Interpretation. Journal of Consumer Research, 13(3), 348-356. [https://doi.org/10.1086/209074](https://doi.org/10.1086/209074)
 - Hunt, J. M., Chatterjee, A., Florsheim, R., & Kernan, J. B. (1990). Credit Cards as Spending-Facilitating Stimuli: A Test and Extension of Feinberg's Conditioning Hypothesis. Psychological Reports, 67(1), 323-330. [https://doi.org/10.2466/pr0.1990.67.1.323](https://doi.org/10.2466/pr0.1990.67.1.323)
-- Kahneman, D., & Tversky, A. (1974). Judgment under Uncertainty: Heuristics and Biases. Science, 185(4157), 1124-1131. [https://doi.org/10.1126/science.185.4157.1124](https://doi.org/10.1126/science.185.4157.1124)
 - Kahneman, D., & Tversky, A. (1979). Prospect Theory: An Analysis of Decision under Risk. Econometrica, 47(2), 263-291. [https://doi.org/10.2307/1914185](https://doi.org/10.2307/1914185)
 - Laibson, D. (1997). Golden Eggs and Hyperbolic Discounting. The Quarterly Journal of Economics, 112(2), 443-478. [https://doi.org/10.1162/003355397555253](https://doi.org/10.1162/003355397555253)
 - Madrian, B. C., & Shea, D. F. (2001). The Power of Suggestion: Inertia in 401(k) Participation and Savings Behavior. The Quarterly Journal of Economics, 116(4), 1149-1187. [https://doi.org/10.1162/003355301753265543](https://doi.org/10.1162/003355301753265543)
@@ -29,6 +28,8 @@ Seluruh gagasan, eksperimen, dan angka dalam buku ini bersandar pada sumber di b
 - Stewart, N. (2009). The Cost of Anchoring on Credit-Card Minimum Repayments. Psychological Science, 20(1), 39-41. [https://doi.org/10.1111/j.1467-9280.2008.02255.x](https://doi.org/10.1111/j.1467-9280.2008.02255.x)
 - Thaler, R. H. (1999). Mental Accounting Matters. Journal of Behavioral Decision Making, 12(3), 183-206. [https://doi.org/10.1002/(SICI)1099-0771(199909)12:3%3C183::AID-BDM318%3E3.0.CO%3B2-F](https://doi.org/10.1002/(SICI)1099-0771(199909)12:3%3C183::AID-BDM318%3E3.0.CO%3B2-F)
 - Thaler, R. H., & Benartzi, S. (2004). Save More Tomorrow: Using Behavioral Economics to Increase Employee Saving. Journal of Political Economy, 112(S1), S164-S187. [https://doi.org/10.1086/380085](https://doi.org/10.1086/380085)
+- Tversky, A., & Kahneman, D. (1974). Judgment under Uncertainty: Heuristics and Biases. Science, 185(4157), 1124-1131. [https://doi.org/10.1126/science.185.4157.1124](https://doi.org/10.1126/science.185.4157.1124)
+- Tversky, A., & Kahneman, D. (1992). Advances in Prospect Theory: Cumulative Representation of Uncertainty. Journal of Risk and Uncertainty, 5(4), 297-323. [https://doi.org/10.1007/BF00122574](https://doi.org/10.1007/BF00122574)
 
 ### Buku
 

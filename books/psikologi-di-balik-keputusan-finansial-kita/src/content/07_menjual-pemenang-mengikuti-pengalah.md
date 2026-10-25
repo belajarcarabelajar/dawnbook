@@ -1,16 +1,16 @@
-## Menjual Pemenang, Mengikuti Pengalah
+## Menjual Pemenang, Menahan yang Kalah
 
 Di banyak portofolio, saham yang terus rugi ditahan bertahun-tahun dengan alasan masih diproses, sementara saham yang naik cepat-cepat dilepas.
 
 Sebut saja namanya Danu. Sepuluh tahun ia berkecimpung di saham, hafal puluhan kode emiten, bisa membahas laporan keuangan sampai larut malam, dan tidak pernah sekalipun mengaku rugi. Buka aplikasinya, dan kamu akan menemukan dua kelompok saham yang diperlakukan berbeda. Saham yang harganya naik jarang bertahan lama: begitu kenaikannya terlihat jelas, Danu melepasnya sambil melontarkan frasa standar, mengunci keuntungan. Saham yang harganya turun di bawah harga beli diperlakukan sebaliknya. Tiga tahun, empat tahun, lima tahun, mereka bertahan di daftar kepemilikan. Ketika temannya memberanikan diri menyarankan jual saja, jawaban Danu selalu siap: "Sudah, masih diproses." Kadang dengan versi lain: "Nanti pulih juga, harga sekarang bukan harga sebenarnya."
 
-Kata "diproses" itu layak dicermati. Ia membayangkan ada semacam meja layanan yang sedang menangani permohonan kenaikan harga, dan saham yang rugi tinggal menunggu nomor antreannya dipanggil. Tidak ada meja seperti itu, dan Danu tahu persis. Kilah itu tetap bertahan bertahun-tahun karena fungsinya bukan memberi informasi, melainkan menunda: mengakuinya berarti menutup berkas rugi secara resmi, dan berkas itu tidak pernah ingin ditutup.
+Kata "diproses" itu layak dicermati. Kata itu menyiratkan ada semacam meja layanan yang sedang menangani permohonan kenaikan harga, dan saham yang rugi tinggal menunggu nomor antreannya dipanggil. Tidak ada meja seperti itu, dan Danu tahu persis. Kilah itu tetap bertahan bertahun-tahun karena fungsinya bukan memberi informasi, melainkan menunda: mengakui kerugian berarti menutup berkas rugi secara resmi, dan berkas itu tidak pernah ingin ditutup.
 
-Yang membuat cerita Danu penting bukan keunikannya, melainkan kebiasaannya. Pola ini muncul berulang di akun investor lain, sudah diberi nama resmi oleh para ekonom, dan sudah diukur.
+Yang membuat cerita Danu penting bukan keunikannya, melainkan kelazimannya. Pola ini muncul berulang di akun investor lain, sudah diberi nama resmi oleh para ekonom, dan sudah diukur.
 
 ### Istilah disposition effect
 
-Tahun 1985, Hersh Shefrin dan Meir Statman menerbitkan makala di Journal of Finance yang menamai pola ini **disposition effect**. Tendensinya dirangkum Odean (1998) dalam satu kalimat yang rapi: kecenderungan menahan yang kalah terlalu lama dan menjual yang menang terlalu cepat.
+Tahun 1985, Hersh Shefrin dan Meir Statman menerbitkan makalah di Journal of Finance yang menamai pola ini **disposition effect**. Tendensinya dirangkum Odean (1998) dalam satu kalimat yang rapi: kecenderungan menahan yang kalah terlalu lama dan menjual yang menang terlalu cepat.
 
 Mekanismenya bisa kamu rasakan sendiri. Menjual saham yang naik memberi kamu struk atas keputusan yang benar: cepat, jelas, enak dipandang, rasanya selesai. Menjual saham yang rugi memberi kebalikannya, semacam pengakuan tertulis bahwa pilihanmu keliru dan uangmu berkurang. Selama posisi rugi masih terbuka, kerugiannya masih "di atas kertas", masih bisa dibantah, masih punya peluang pulih. Begitu dijual, peluang itu mati dan tersisa fakta. Karena lereng kerugian terasa jauh lebih curam daripada lereng keuntungan, seperti yang kamu lihat di bab sebelumnya, orang cenderung menunda menandatangani pengakuan itu.
 
@@ -18,13 +18,13 @@ Mekanismenya bisa kamu rasakan sendiri. Menjual saham yang naik memberi kamu str
 
 ### Data dari 10.000 akun
 
-Setelah nama lahir pada 1985, muncul pertanyaan yang lebih penting: apakah ini sekadar cerita warung kopi, atau pola yang benar-benar terjadi di rekening sungguhan? Terrance Odean (1998) menjawabnya dengan data, bukan opini. Dalam makalanya "Are Investors Reluctant to Realize Their Losses?", ia menelusuri catatan transaksi dari 10.000 akun di satu discount brokerage, perusahaan sekuritas ritel yang melayani investor perorangan, sepanjang 1987 sampai 1993.
+Setelah nama itu lahir pada 1985, muncul pertanyaan yang lebih penting: apakah ini sekadar cerita warung kopi, atau pola yang benar-benar terjadi di rekening sungguhan? Terrance Odean (1998) menjawabnya dengan data, bukan opini. Dalam makalahnya "Are Investors Reluctant to Realize Their Losses?", ia menelusuri catatan transaksi dari 10.000 akun di satu discount brokerage, perusahaan sekuritas ritel yang melayani investor perorangan, sepanjang 1987 sampai 1993.
 
 Cara mengukurnya sederhana. Setiap akun hampir selalu memegang beberapa saham sekaligus, sebagian sedang berada di atas harga beli, sebagian di bawahnya. Odean menghitung dua hal: dari seluruh keuntungan di atas kertas yang muncul di akun, berapa bagian yang akhirnya dijadikan uang, yaitu proporsi untung yang direalisasi (PGR), dan dari seluruh kerugian di atas kertas, berapa bagian yang dijual pula, yaitu proporsi rugi yang direalisasi (PLR). Lalu keduanya dibandingkan.
 
-Hasilnya untuk satu tahun penuh: rasio PGR terhadap PLR sedikit di atas 1,5. Artinya, saham yang sedang naik nilai lebih dari 50 persen lebih mungkin dijual daripada saham yang sedang turun. Pola sebesar itu sulit dijelaskan tanpa mengakui bahwa warna posisi hari ini ikut menentukan keputusan: yang hijau dilepas, yang merah ditahan. Investor dalam data itu memang enggan mengakui kerugian, persis seperti Danu.
+Hasilnya untuk satu tahun penuh: rasio PGR terhadap PLR sedikit di atas 1,5. Artinya, peluang saham yang sedang naik nilai untuk dijual lebih dari 50 persen lebih besar daripada peluang saham yang sedang turun. Pola sebesar itu sulit dijelaskan tanpa mengakui bahwa warna posisi hari ini ikut menentukan keputusan: yang hijau dilepas, yang merah ditahan. Investor dalam data itu memang enggan mengakui kerugian, persis seperti Danu.
 
-Bagian yang paling merugikan ada di perpajakan. Kerugian yang direalisasikan biasanya bisa dipakai menekan tagihan pajak atas keuntungan, sehingga strategi yang optimal secara pajak justru kebalikan dari yang dilakukan investor: realisasi kerugian itu berguna, dan menahan yang merah bertahun-tahun tidak memberi apa pun selain penundaan. Odean menemukan investor dalam datanya mengabaikan konsekuensi pajak, dan tax-loss selling yang optimal dilanggar dengan rapi. Yang dipertahankan bukan nilai uang, melainkan rasa tidak pernah mengaku salah.
+Bagian yang paling merugikan ada di perpajakan. Kerugian yang direalisasikan biasanya bisa dipakai menekan tagihan pajak atas keuntungan, sehingga strategi yang optimal secara pajak justru kebalikan dari yang dilakukan investor: realisasi kerugian itu berguna, dan menahan yang merah bertahun-tahun tidak memberi apa pun selain penundaan. Odean menemukan investor dalam datanya sebagian besar mengabaikan konsekuensi pajak, dan tax-loss selling yang optimal dilanggar dengan rapi. Yang dipertahankan bukan nilai uang, melainkan rasa tidak pernah mengaku salah.
 
 ### Terlalu sering memeriksa portofolio
 

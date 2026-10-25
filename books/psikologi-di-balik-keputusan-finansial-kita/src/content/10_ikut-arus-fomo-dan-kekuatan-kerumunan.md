@@ -2,7 +2,7 @@
 
 Saat semua orang membeli dan harga terus naik, ikut arus terasa waras, padahal kerumunan itu bisa dibentuk oleh sinyal sekecil satu keputusan orang asing.
 
-Bayangkan pemandangan yang mungkin pernah kamu alami. Grafik di layar merayap naik, grup chat ramai membagikan bukti untung, dan seseorang di kenalanmu bercerita membeli dua hari lalu dan kini nilainya naik. Di sisi lain ada kamu, dengan uang yang menganggur di rekening, merasa setiap hari tidak ikut adalah uang yang hilang. Perasaan itu punya nama populer, FOMO, takut ketinggalan. Para ekonom menemukan bahwa keputusan mengikuti kerumunan seperti ini tidak selalu bodoh, dan justru karena itu ia menjebak: kerumunan bisa dibangun dari orang-orang yang berpikir waras.
+Bayangkan pemandangan yang mungkin pernah kamu alami. Grafik di layar merayap naik, grup chat ramai membagikan bukti untung, dan salah seorang kenalanmu bercerita membeli dua hari lalu dan kini nilainya naik. Di sisi lain ada kamu, dengan uang yang menganggur di rekening, merasa setiap hari tidak ikut adalah uang yang hilang. Perasaan itu punya nama populer, FOMO, takut ketinggalan. Para ekonom menemukan bahwa keputusan mengikuti kerumunan seperti ini tidak selalu bodoh, dan justru karena itu ia menjebak: kerumunan bisa dibangun dari orang-orang yang berpikir waras.
 
 ### Bagaimana kerumunan terbentuk
 
@@ -10,11 +10,11 @@ Coba kita bongkar dengan skenario sederhana. Sebuah gerai minuman baru buka di l
 
 Ekonom Bikhchandani, Hirshleifer, dan Welch (1992) memberi nama pada fenomena ini dalam artikel mereka di Journal of Political Economy tentang fads, fashion, custom, dan perubahan budaya: **informational cascade**, air terjun informasi. Definisi mereka berbunyi, cascade terjadi ketika, setelah mengamati tindakan orang-orang di depannya, menjadi hal yang optimal bagi seseorang untuk mengikuti perilaku individu sebelumnya tanpa menghiraukan informasi miliknya sendiri.
 
-Kata yang paling sering dilewatkan orang adalah **optimal**. Pengantri nomor lima bukan anak kecil yang meniru tanpa pikir. Kalau ditimbang dengan informasi yang ia pegang, empat orang memilih gerai itu dan nol informasi sebaliknya, mengikuti memang paling masuk akal. Masalahnya bukan pada satu orang, tapi pada struktur: setiap orang yang bergabung membuat orang berikutnya makin tidak perlu berpikir.
+Kata yang paling sering dilewatkan orang adalah **optimal**. Pengantre nomor lima bukan anak kecil yang meniru tanpa pikir. Kalau ditimbang dengan informasi yang ia pegang, empat orang memilih gerai itu dan nol informasi sebaliknya, mengikuti memang paling masuk akal. Masalahnya bukan pada satu orang, tapi pada struktur: setiap orang yang bergabung membuat orang berikutnya makin tidak perlu berpikir.
 
 ### Ikut arus bisa jadi keputusan yang masuk akal
 
-Untuk memahami kenapa teori ini berbahaya, masuklah ke kepala pengantri. Setiap orang membawa dua jenis bahan keputusan. Pertama, informasi pribadi: pengamatan, riset kecil, atau firasatmu sendiri, yang pasti tidak sempurna. Kedua, tindakan orang lain, yang terlihat jelas di depan mata. Kalau satu-dua orang bertindak sama, itu masih bisa ditimbang melawan informasi pribadimu. Tapi ketika sembilan orang sudah membeli dan harga terus naik, timbunan tindakan publik itu terasa jauh lebih kuat daripada satu keraguan pribadi. Bikhchandani dan rekannya merangkum mekanismenya dengan tegas: pada titik tertentu, pengambil keputusan akan mengabaikan informasi pribadinya dan bertindak hanya berdasarkan informasi yang diperoleh dari keputusan-keputusan sebelumnya.
+Untuk memahami kenapa teori ini berbahaya, masuklah ke kepala pengantre. Setiap orang membawa dua jenis bahan keputusan. Pertama, informasi pribadi: pengamatan, riset kecil, atau firasatmu sendiri, yang pasti tidak sempurna. Kedua, tindakan orang lain, yang terlihat jelas di depan mata. Kalau satu-dua orang bertindak sama, itu masih bisa ditimbang melawan informasi pribadimu. Tapi ketika sembilan orang sudah membeli dan harga terus naik, timbunan tindakan publik itu terasa jauh lebih kuat daripada satu keraguan pribadi. Bikhchandani dan rekannya merangkum mekanismenya dengan tegas: pada titik tertentu, pengambil keputusan akan mengabaikan informasi pribadinya dan bertindak hanya berdasarkan informasi yang diperoleh dari keputusan-keputusan sebelumnya.
 
 > Ibaratnya kamu turun di stasiun kota yang baru pertama kali kamu datangi. Semua orang bergerak ke pintu keluar yang sama, jadi kamu mengikutinya tanpa membaca papan petunjuk. Kamu tidak bodoh, melainkan memakai strategi yang hemat tenaga. Tapi bayangkan kalau orang pertama yang kamu ikuti sebenarnya hanya hendak ke kamar mandi.
 
@@ -24,7 +24,7 @@ Kalimat terakhir tadi adalah inti masalahnya. Dalam cascade, tidak ada yang tahu
 
 Sekarang masuk ke bagian perasaan. FOMO lahir ketika kamu melihat orang lain memperoleh sesuatu dan kamu tidak. Ketertinggalan itu terasa seperti kerugian, dan kamu sudah tahu dari bab-bab sebelumnya betapa kerasnya rasa kehilangan dibanding kenikmatan mendapatkan. Cascade memberi FOMO kostum yang terlihat cerdas. Kamu bukan sedang serakah, kata kepalamu, kamu sedang membaca sinyal. Semua orang tidak mungkin salah.
 
-Tapi ada asimetri yang bekerja melawanmu. Keraguanmu bersifat pribadi: ia ada di kepalamu saja, tidak terlihat siapa pun, dan tidak berani bersuara di depan grafik yang hijau. Sementara aksi kerumunan bersifat publik: dibeli, diposting, dibicarakan, dihitung. Dalam teori cascade, saat informasi pribadi dan tindakan publik bertabrakan, tindakan publik biasanya menang, bukan karena lebih benar, tapi karena lebih terlihat. Media sosial memperbesar skala ini. Kamu tidak lagi melihat satu pengantri di lobi kantor, kamu melihat ratusan orang serempak memamerkan hal yang sama, dan keraguanmu makin kecil.
+Tapi ada asimetri yang bekerja melawanmu. Keraguanmu bersifat pribadi: ia ada di kepalamu saja, tidak terlihat siapa pun, dan tidak berani bersuara di depan grafik yang hijau. Sementara aksi kerumunan bersifat publik: dibeli, diposting, dibicarakan, dihitung. Dalam teori cascade, saat informasi pribadi dan tindakan publik bertabrakan, tindakan publik biasanya menang, bukan karena lebih benar, tapi karena lebih terlihat. Media sosial memperbesar skala ini. Kamu tidak lagi melihat satu pengantre di lobi kantor, kamu melihat ratusan orang serempak memamerkan hal yang sama, dan keraguanmu makin kecil.
 
 ### Kerumunan yang rapuh
 
@@ -38,7 +38,7 @@ Kabar baiknya, teori ini menunjukkan persis letak kelemahannya: informasi pribad
 
 Pertama, pisahkan dua bahan keputusan itu sebelum membuka aplikasi. Tanyakan pada dirimu: kalau tidak ada orang yang terlihat membeli, apakah saya tetap akan membeli ini? Kalau jawabannya tidak, kamu baru saja menemukan bahwa yang kamu ikuti adalah kerumunan, bukan analisis.
 
-Kedua, ingat bahwa tindakan yang terlihat tidak sama dengan pengetahuan yang mendalam. Pengantri pertama bisa saja sekadar haus. Menanyakan alasan orang pertama, bukan menghitung jumlah pengikutnya, adalah kebiasaan jarang yang murah.
+Kedua, ingat bahwa tindakan yang terlihat tidak sama dengan pengetahuan yang mendalam. Pengantre pertama bisa saja sekadar haus. Menanyakan alasan orang pertama, bukan menghitung jumlah pengikutnya, adalah kebiasaan murah yang jarang dilakukan.
 
 Ketiga, tulis alasanmu sendiri dengan kalimat lengkap sebelum melihat grafik atau linimasa. Cascade bekerja paling kuat saat keputusan diambil dengan layar yang ramai dan kepala yang kosong. Satu paragraf alasan pribadi yang ditulis dalam keadaan tenang adalah informasi yang kamu selamatkan dari arus.
 
