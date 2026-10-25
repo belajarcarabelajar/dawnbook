@@ -35,7 +35,7 @@ Ketika seorang individu mengambil suatu keputusan, tindakan tersebut tidak hanya
 
 ### 3. Manusia Dikutuk untuk Bebas menurut Sartre
 
-Jean-Paul Sartre merumuskan paradoks fundamental bahwa manusia "dikutuk untuk bebas" (*condamné à être libre*). Manusia tidak menghendaki kelahirannya ke dunia, namun begitu terlempar ke dalam eksistensi, ia bertanggung jawab secara penuh atas seluruh praksis kehidupannya.
+Jean-Paul Sartre merumuskan paradoks fundamental bahwa manusia "dikutuk untuk bebas" (*condamné à être libre*). Manusia tidak menghendaki kelahirannya ke dunia, tetapi begitu terlempar ke dalam eksistensi, ia bertanggung jawab secara penuh atas seluruh praksis kehidupannya.
 
 #### Ciri-Ciri Kecemasan Eksistensial
 1. **Ketiadaan Sandaran Metafisik:** Tidak tersedianya tata nilai objektif yang inheren pada kosmos, sehingga subjek memikul tugas mandiri dalam menciptakan makna.

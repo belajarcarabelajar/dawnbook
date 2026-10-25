@@ -12,9 +12,9 @@ Camus, A. (1955). *[The Myth of Sisyphus and Other Essays](https://www.penguinra
 
 Camus, A. (1956). *[The Rebel: An Essay on Man in Revolt](https://www.penguinrandomhouse.com/books/23554/the-rebel-by-albert-camus/)* (A. Bower, Penerj.). Alfred A. Knopf.
 
-Kierkegaard, S. (1980). *[The Concept of Anxiety: A Simple Psychologically Orienting Deliberation on the Dogmatic Issue of Hereditary Sin](https://doi.org/10.1515/9781400839971)* (R. Thomte & A. B. Anderson, Ed. & Penerj.). Princeton University Press. https://doi.org/10.1515/9781400839971
+Kierkegaard, S. (1980). *[The Concept of Anxiety: A Simple Psychologically Orienting Deliberation on the Dogmatic Issue of Hereditary Sin](https://doi.org/10.1515/9781400846979)* (R. Thomte & A. B. Anderson, Ed. & Penerj.). Princeton University Press. https://doi.org/10.1515/9781400846979
 
-Kierkegaard, S. (1983). *[Fear and Trembling / Repetition](https://doi.org/10.1515/9781400847006)* (H. V. Hong & E. H. Hong, Ed. & Penerj.). Princeton University Press. https://doi.org/10.1515/9781400847006
+Kierkegaard, S. (1983). *[Fear and Trembling / Repetition](https://doi.org/10.1515/9781400846955)* (H. V. Hong & E. H. Hong, Ed. & Penerj.). Princeton University Press. https://doi.org/10.1515/9781400846955
 
 Kierkegaard, S. (1987). *[Either/Or, Part I & II](https://doi.org/10.1515/9781400847051)* (H. V. Hong & E. H. Hong, Ed. & Penerj.). Princeton University Press. https://doi.org/10.1515/9781400847051
 
@@ -40,13 +40,13 @@ Cox, G. (2006). *[Sartre and Freedom: The Recovery of Action](https://doi.org/10
 
 Crowell, S. (Ed.). (2012). *[The Cambridge Companion to Existentialism](https://doi.org/10.1017/CCOL9780521513340)*. Cambridge University Press. https://doi.org/10.1017/CCOL9780521513340
 
-Foley, J. (2008). *[Albert Camus: From the Absurd to Revolt](https://doi.org/10.7208/chicago/9780226256566.001.0001)*. McGill-Queen's University Press. https://doi.org/10.7208/chicago/9780226256566.001.0001
+Foley, J. (2008). *[Albert Camus: From the Absurd to Revolt](https://doi.org/10.1017/upo9781844654130)*. Acumen Publishing. https://doi.org/10.1017/upo9781844654130
 
 Gardner, S. (2009). *[Sartre's 'Being and Nothingness': A Reader's Guide](https://www.bloomsbury.com/9780826474698)*. Continuum.
 
 Gemes, K., & Richardson, J. (Ed.). (2013). *[The Oxford Handbook of Nietzsche](https://doi.org/10.1093/oxfordhb/9780199534647.001.0001)*. Oxford University Press. https://doi.org/10.1093/oxfordhb/9780199534647.001.0001
 
-Guignon, C. (2004). *[On Being Authentic](https://doi.org/10.4324/9780203646892)*. Routledge. https://doi.org/10.4324/9780203646892
+Guignon, C. (2004). *[On Being Authentic](https://doi.org/10.4324/9780203646793)*. Routledge. https://doi.org/10.4324/9780203646793
 
 Hannay, A., & Marino, G. D. (Ed.). (1998). *[The Cambridge Companion to Kierkegaard](https://doi.org/10.1017/CCOL0521471516)*. Cambridge University Press. https://doi.org/10.1017/CCOL0521471516
 
