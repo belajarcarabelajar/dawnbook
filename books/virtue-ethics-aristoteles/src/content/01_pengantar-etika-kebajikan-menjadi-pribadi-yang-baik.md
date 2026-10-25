@@ -8,7 +8,7 @@ Alih-alih berfokus pada tindakan spesifik atau aturan yang kaku, etika kebajikan
 
 Etika Kebajikan adalah salah satu dari tiga pendekatan besar dalam etika normatif. Jika kita membayangkan moralitas sebagai sebuah bangunan:
 
-1. **Deontologi** (Etika Kewajiban) adalah pondasi aturan dan hukum.
+1. **Deontologi** (Etika Kewajiban) adalah fondasi aturan dan hukum.
 2. **Utilitarianisme** (Konsekuensialisme) adalah atap yang mengukur hasil akhir.
 3. **Etika Kebajikan** adalah jiwa atau karakter dari orang yang mendiami bangunan tersebut.
 
@@ -24,11 +24,11 @@ Bayangkan seorang **Koki Pemula**. Ia bekerja mengekor pada **aturan** dan harus
 
 Di sisi lain, ada seorang **Koki Maestro** yang memasak berbekal **karakter dan insting**. Ia jarang membuka buku resep karena indra perasanya sudah terlatih tajam. Instingnya tahu persis kapan harus menambah sedikit garam hanya dari aroma masakan di wajan. Inilah wujud "kebajikan" di dapur.
 
-Dalam hidup sehari-hari, aturan kaku seringkali tidak memadai karena dunia terlalu kompleks untuk dimasukkan dalam satu buku petunjuk. Etika Kebajikan percaya bahwa dengan melatih diri menjadi individu yang jujur, berani, dan murah hati, keputusan yang benar akan mengalir secara alami dari dalam diri kamu tanpa paksaan dari luar.
+Dalam hidup sehari-hari, aturan kaku sering kali tidak memadai karena dunia terlalu kompleks untuk dimasukkan dalam satu buku petunjuk. Etika Kebajikan percaya bahwa dengan melatih diri menjadi individu yang jujur, berani, dan murah hati, keputusan yang benar akan mengalir secara alami dari dalam diri kamu tanpa paksaan dari luar.
 
 | Fokus | Etika Aturan (Kantian/Utilitarian) | Etika Kebajikan |
 | --- | --- | --- |
-| **Pertanyaan Utama** | Apa yang harus dilakukan? | Orang seperti apa saya ini? |
+| **Pertanyaan Utama** | Apa yang harus dilakukan? | Orang seperti apakah saya seharusnya? |
 | **Pusat Perhatian** | Tindakan (Action) | Pelaku (Agent) |
 | **Metode** | Mengikuti prinsip/logika | Melatih kebiasaan dan watak |
 | **Tujuan** | Kepatuhan atau Hasil Maksimal | Kesejahteraan Manusia (*Eudaimonia*) |
@@ -50,17 +50,17 @@ Untuk memahami cara menumbuhkan karakter yang kokoh ini, kita akan melewati peta
 
 Mari lihat bagaimana etika ini bekerja dalam keseharian.
 
-**Skenario:** Seorang teman bertanya kepada kamu, *"Apakah presentasi saya tadi membosankan?"*. Kenyataannya, presentasi itu memang sangat kaku dan membosankan.
+**Skenario:** Seorang teman bertanya kepada kamu, *"Apakah presentasi saya tadi membosankan?"* Kenyataannya, presentasi itu memang sangat kaku dan membosankan.
 
 Bagi seorang **Penganut Aturan Ketat**, ia cenderung akan berkata jujur secara brutal dengan dalih "berbohong itu salah mutlak", walau itu berisiko melukai perasaan temannya tanpa faedah tambahan.
 
 Sebaliknya, **Pribadi Berkebajikan** akan menerapkan **Phronesis** (Kebijaksanaan Praktis). Karena ia mempunyai paduan karakter jujur dan penuh empati, ia akan menyampaikan kebenaran lewat kritik yang membangun. Tujuannya murni demi memfasilitasi kemajuan temannya.
 
-### Mengapa Ini Penting Bagi kamu?
+### Mengapa Ini Penting bagi Kamu?
 
 Di era modern yang serba terburu-buru, Etika Kebajikan menawarkan sebuah proses bertumbuh, dibanding sekadar menyodorkan jawaban instan.
 
-Secara matematis, etika ini mengikuti fungsi pertumbuhan sederhana:
+Secara sederhana, gagasan ini dapat digambarkan sebagai berikut:
 
 <div>
 $$
@@ -68,4 +68,4 @@ $$
 $$
 </div>
 
-Etika kebajikan pada intinya membahas cara membentuk diri menjadi manusia yang baik. Kualitas diri sesungguhnya dinilai dari siapa kamu saat kamu sendirian dan bagaimana dorongan batin tersebut menuntun ke arah kehidupan yang bermakna. Pendekatan ini menempatkan sosok manusianya sebagai sentral utama. Lewat pembiasaan yang konsisten, karakter perlahan menguat sampai ke tahap Eudaimonia, kondisi tatkala manusia merealisasikan seluruh potensi terbaiknya.
+Etika kebajikan pada intinya membahas cara membentuk diri menjadi manusia yang baik. Kualitas diri sesungguhnya dinilai dari siapa kamu saat kamu sendirian dan bagaimana dorongan batin tersebut menuntun ke arah kehidupan yang bermakna. Pendekatan ini menempatkan sosok manusianya sebagai pusat perhatian. Lewat pembiasaan yang konsisten, karakter perlahan menguat sampai ke tahap Eudaimonia, kondisi tatkala manusia merealisasikan seluruh potensi terbaiknya.

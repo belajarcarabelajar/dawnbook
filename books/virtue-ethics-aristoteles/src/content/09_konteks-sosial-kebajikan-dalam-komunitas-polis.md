@@ -4,13 +4,13 @@ Pernahkah kamu membayangkan pahlawan yang hidup sendirian di pulau terpencil tan
 
 ### 1. Manusia sebagai Zoon Politikon
 
-Aristoteles mencetuskan istilah **Zoon Politikon**, yang diterjemahkan sebagai "hewan politik" atau "makhluk sosial".
+Aristoteles menyebut manusia sebagai **Zoon Politikon**, yang diterjemahkan sebagai "hewan politik" atau "makhluk sosial".
 
-> "Ia yang tidak bisa hidup dalam masyarakat, atau yang tidak membutuhkan apa-apa karena ia sudah merasa cukup bagi dirinya sendiri, pastilah seekor binatang buas atau seorang dewa." , **Aristoteles**
+> "Ia yang tidak bisa hidup dalam masyarakat, atau yang tidak membutuhkan apa-apa karena ia sudah merasa cukup bagi dirinya sendiri, pastilah seekor binatang buas atau seorang dewa." - **Aristoteles**
 
 Pernyataan ini menegaskan bahwa identitas manusia tidak terlepas dari komunitasnya. Kita membutuhkan orang lain untuk bertahan hidup sekaligus mencapai **Eudaimonia** (perkembangan diri yang utuh). Komunitas menjadi tempat karakter kita diuji, diasah, dan diwujudkan.
 
-Kebajikan individu bisa diibaratkan sebagai sebuah pohon. Pohon mungkin memiliki genetik untuk tumbuh besar, tetapi tanpa tanah bernutrisi (budaya), air yang cukup (pendidikan), dan perlindungan dari angin (hukum), pohon tersebut sulit mencapai batas maksimalnya. Komunitas menyediakan mikroklimat agar setiap pohon individu dapat berkembang.
+Kebajikan individu bisa diibaratkan sebagai sebuah pohon. Pohon mungkin memiliki potensi genetik untuk tumbuh besar, tetapi tanpa tanah bernutrisi (budaya), air yang cukup (pendidikan), dan perlindungan dari angin (hukum), pohon tersebut sulit mencapai batas maksimalnya. Komunitas menyediakan mikroklimat agar setiap pohon individu dapat berkembang.
 
 ### 2. Hubungan Individu dan Komunitas
 
@@ -32,10 +32,10 @@ Dalam konteks sosial, **Keadilan (Dikaiosyne)** dianggap sebagai kebajikan yang 
 
 Aristoteles membagi keadilan sosial menjadi dua bentuk utama:
 
-1. **Keadilan Distributif:** Berkaitan dengan cara membagi sumber daya, kehormatan, dan tanggung jawab di antara anggota masyarakat secara proporsional sesuai kontribusi.
+1. **Keadilan Distributif:** Berkaitan dengan cara membagi sumber daya, kehormatan, dan tanggung jawab di antara anggota masyarakat secara proporsional, misalnya sesuai kontribusi.
 2. **Keadilan Korektif:** Berfokus pada perbaikan ketidakseimbangan akibat transaksi yang berat sebelah atau tindakan kriminal.
 
-Kondisi sosial memengaruhi dorongan moral. Seseorang umumnya lebih termotivasi mempraktikkan kebajikan dalam kelompok kerja yang memiliki sistem pembagian tugas yang adil dibandingkan dengan sistem yang berantakan.
+Kondisi sosial memengaruhi dorongan moral. Seseorang umumnya lebih termotivasi mempraktikkan kebajikan dalam kelompok kerja yang memiliki sistem pembagian tugas yang adil dibandingkan dengan kelompok yang sistemnya berantakan.
 
 ### 4. Kebajikan dalam Masyarakat Modern
 

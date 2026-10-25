@@ -6,7 +6,7 @@ Dalam Etika Kebajikan, Aristoteles mengajarkan bahwa karakter manusia bekerja de
 
 ## 1\. Apa itu Doktrin Jalan Tengah?
 
-Doktrin Jalan Tengah adalah prinsip filsafat yang menyatakan bahwa kebajikan (*virtue*) adalah titik keseimbangan ideal di antara dua ekstrem perilaku: **Kekurangan (Defisiensi)** dan **Kelebihan (Eksesi)**.
+Doktrin Jalan Tengah adalah prinsip filsafat yang menyatakan bahwa kebajikan (*virtue*) adalah titik keseimbangan ideal di antara dua ekstrem perilaku: **Kekurangan (Defisiensi)** dan **Kelebihan (Ekses)**.
 
 Menurut Aristoteles, keburukan atau maksiat (*vice*) muncul ketika kita gagal menjaga keseimbangan ini. Seseorang bisa gagal karena ia melakukan "terlalu sedikit" dari sesuatu yang baik, atau justru melakukan "terlalu banyak".
 
@@ -50,7 +50,7 @@ $$
 
 Aristoteles menjelaskan bahwa titik ideal ini bersifat **relatif terhadap kita** dan situasi yang kita hadapi.
 
-Porsi makan menengah bagi seorang atlet angkat besi profesional tentu akan menjadi berlebihan bagi seorang anak kecil. Demikian pula dalam bersikap; berteriak mungkin merupakan bentuk eksesi dalam sebuah perpustakaan, namun bisa menjadi jalan tengah yang tepat jika kamu mencoba memperingatkan seseorang tentang bahaya kebakaran di ruangan yang bising.
+Porsi makan menengah bagi seorang atlet angkat besi profesional tentu akan menjadi berlebihan bagi seorang anak kecil. Demikian pula dalam bersikap; berteriak mungkin merupakan bentuk ekses dalam sebuah perpustakaan, namun bisa menjadi jalan tengah yang tepat jika kamu mencoba memperingatkan seseorang tentang bahaya kebakaran di ruangan yang bising.
 
 Mencari jalan tengah membutuhkan penggunaan akal sehat dan pemahaman konteks. Ini berarti etika kebajikan lebih menuntut kepekaan karakter daripada sekadar penghafalan aturan mati.
 
@@ -66,7 +66,7 @@ Tidak ada konsep mencuri dalam jumlah yang pas atau membunuh dengan takaran yang
 
 Kita bisa melihat bagaimana Doktrin Jalan Tengah membantu pengambilan keputusan dalam dunia kerja saat ini.
 
-Misalnya, seorang rekan kerjamu melakukan kesalahan fatal dalam presentasi proyek. Sikap masa bodoh (defisiensi) akan membuatmu tidak mengatakan apa-apa karena takut menyinggung perasaan, yang berujung pada kegagalan proyek. Di sisi lain, agresi (eksesi) seperti memaki di depan umum hanya akan menghancurkan moral tim. Pendekatan kebajikan yang tepat adalah kejujuran atau diplomasi: kamu mengajaknya berbicara secara privat dan memberikan kritik konstruktif sambil tetap menghargai martabatnya. Kamu fokus pada perbaikan, bukan penghinaan.
+Misalnya, seorang rekan kerjamu melakukan kesalahan fatal dalam presentasi proyek. Sikap segan (defisiensi) akan membuatmu tidak mengatakan apa-apa karena takut menyinggung perasaan, yang berujung pada kegagalan proyek. Di sisi lain, agresi (ekses) seperti memaki di depan umum hanya akan menghancurkan moral tim. Pendekatan kebajikan yang tepat adalah kejujuran atau diplomasi: kamu mengajaknya berbicara secara privat dan memberikan kritik konstruktif sambil tetap menghargai martabatnya. Kamu fokus pada perbaikan, bukan penghinaan.
 
 ## 6\. Cara Menemukan Jalan Tengah
 
@@ -74,8 +74,8 @@ Mencapai keseimbangan memang sulit. Aristoteles sendiri mengakui bahwa berbuat b
 
 Setiap orang memiliki bias pribadinya masing-masing. Jika kamu menyadari kecenderungan pelit dalam dirimu, cobalah sedikit memaksakan diri untuk lebih "boros" dari biasanya, agar perlahan-lahan kamu bisa bergeser menuju titik dermawan.
 
-Seringkali eksesi muncul akibat godaan kesenangan sesaat. Biasakan berhenti sejenak sebelum bertindak dan pertanyakan pada diri sendiri apakah tindakan tersebut benar-benar tepat, atau hanya dorongan impulsif belaka.
+Sering kali ekses muncul akibat godaan kesenangan sesaat. Biasakan berhenti sejenak sebelum bertindak dan tanyakan pada diri sendiri apakah tindakan tersebut benar-benar tepat, atau hanya dorongan impulsif belaka.
 
 Selain itu, amati orang-orang bijak di sekitarmu. Lihat bagaimana orang-orang yang kamu anggap berintegritas bereaksi saat menghadapi situasi sulit. Meniru teladan yang baik adalah langkah yang paling efektif untuk mempelajari titik keseimbangan ini.
 
-Doktrin Jalan Tengah bukan berarti bersikap tanpa pendirian atau suam-suam kuku. Justru, hal ini menekankan ketepatan tindakan. Seperti seorang pemanah, hanya ada satu titik sasaran yang tepat di tengah sekian banyak kemungkinan untuk meleset.
+Doktrin Jalan Tengah bukan berarti bersikap tanpa pendirian atau suam-suam kuku. Justru, hal ini menekankan ketepatan tindakan. Seperti yang dihadapi seorang pemanah, hanya ada satu titik sasaran yang tepat di tengah sekian banyak kemungkinan untuk meleset.

@@ -12,7 +12,7 @@ Aristoteles percaya bahwa menjadi "orang baik" mirip dengan menjadi pengukir mah
 
 ### Nicomachean Ethics
 
-Karya utama Aristoteles tentang etika disebut *Ethica Nicomachea* (Nicomachean Ethics). Nama ini diambil dari putranya (atau ayahnya), Nicomachus, yang menyunting catatan kuliah Aristoteles.
+Karya utama Aristoteles tentang etika disebut *Ethica Nicomachea* (Nicomachean Ethics). Nama ini diambil dari putranya (atau ayahnya), Nicomachus.
 
 Dalam buku ini, Aristoteles tidak bertanya, *"Apa kewajiban saya?"* melainkan bertanya:
 
@@ -47,7 +47,7 @@ Untuk memahami bagaimana Aristoteles melihat pencapaian kebajikan, bayangkan seo
 Aristoteles meletakkan dasar bahwa karakter kita dibentuk oleh dua elemen utama dalam jiwa kita:
 
 1. **Bagian Rasional:** Bagian yang berpikir, merencanakan, dan menimbang.
-2. **Bagian Irrasional (Nafsu/Emosi):** Bagian yang merasakan keinginan, kemarahan, dan ketakutan.
+2. **Bagian Irasional (Nafsu/Emosi):** Bagian yang merasakan keinginan, kemarahan, dan ketakutan.
 
 **Akar filosofis etika kebajikan adalah menciptakan harmoni antara keduanya.** Kebajikan terjadi ketika bagian rasional kita melatih emosi kita sehingga kita menginginkan hal yang benar, pada waktu yang tepat, dengan cara yang tepat:
 
@@ -70,6 +70,6 @@ Dalam dunia kerja atau organisasi saat ini, kita sering terjebak pada KPI (Key P
 - **Karya Utama:** *Nicomachean Ethics* sebagai fondasi utama.
 - **Telos:** Manusia memiliki tujuan hidup, yaitu hidup sesuai dengan akal budi yang unggul.
 - **Fokus Karakter:** Moralitas bukan tentang "apa yang boleh dilakukan", tapi tentang "siapa saya seharusnya".
-- **Proses:** Kebajikan adalah sebuah keterampilan (techne) yang dipelajari lewat praktik dan pembiasaan.
+- **Proses:** Kebajikan dipelajari lewat praktik dan pembiasaan, seperti halnya keterampilan (techne).
 
-> "Kita adalah apa yang kita kerjakan berulang kali. Maka, keunggulan bukanlah sebuah tindakan, melainkan sebuah kebiasaan." , Will Durant, *The Story of Philosophy* (1926), dalam ringkasannya atas ajaran Aristoteles tentang pembiasaan
+> "Kita adalah apa yang kita kerjakan berulang kali. Maka, keunggulan bukanlah sebuah tindakan, melainkan sebuah kebiasaan." - Will Durant, *The Story of Philosophy* (1926), dalam ringkasannya atas ajaran Aristoteles tentang pembiasaan
