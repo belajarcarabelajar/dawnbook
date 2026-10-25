@@ -35,7 +35,7 @@ Ketika banyak informasi dapat diakses secara instan melalui kecerdasan buatan, k
 
 Dalam teori modal manusia klasik, investasi pendidikan terkonsentrasi pada periode awal kehidupan. Di era digital, muncul fenomena **Waktu Paruh Keterampilan (Half-life of Skills)**.
 
-> **Prinsip Utama:** Waktu paruh rata-rata suatu keterampilan teknis saat ini diperkirakan sekitar 5 tahun. Artinya, apa yang kamu pelajari hari ini mungkin hanya relevan setengahnya dalam lima tahun mendatang.
+> **Prinsip Utama:** Laporan industri memperkirakan waktu paruh keterampilan teknis saat ini sekitar 4 sampai 5 tahun. Artinya, apa yang kamu pelajari hari ini mungkin hanya relevan setengahnya dalam empat sampai lima tahun mendatang.
 
 Oleh karena itu, **Lifelong Learning** bertindak sebagai strategi penyesuaian modal manusia agar tetap relevan. Investasi modal manusia bertransformasi menjadi proses yang berkesinambungan:
 
