@@ -131,7 +131,7 @@ Walaupun pola modern menjadi standar baru, pola klasik terkadang masih ditemui d
 
 ## Rumus Logika Jalur (Path)
 
-Secara matematis (dalam logika compiler), pencarian modul dapat direpresentasikan sebagai fungsi $f(m)$ di mana $m$ adalah nama modul. Jika ada file `m.rs`, hasilnya:
+Secara matematis (dalam logika compiler), pencarian modul dapat direpresentasikan sebagai fungsi $f(m)$ dengan $m$ sebagai nama modul. Jika ada file `m.rs`, hasilnya:
 
 <div>
 $$

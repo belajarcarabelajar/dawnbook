@@ -42,7 +42,7 @@ fn main() {
 
 ### 2. Memahami Keyword super
 
-Keyword **`super`** memungkinkan kita untuk mengakses item yang berada di parent module. Ini berguna ketika kamu mengorganisasi kode dalam submodule yang dalam, namun tetap perlu berinteraksi dengan fungsi atau data structure yang didefinisikan satu tingkat di atasnya.
+Keyword **`super`** memungkinkan kita untuk mengakses item yang berada di parent module. Ini berguna ketika kamu mengorganisasi kode dalam submodule yang dalam, tetapi tetap perlu berinteraksi dengan fungsi atau data structure yang didefinisikan satu tingkat di atasnya.
 
 #### "Lantai Atas"
 

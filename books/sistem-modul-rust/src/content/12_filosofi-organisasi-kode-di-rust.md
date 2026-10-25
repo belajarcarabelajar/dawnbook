@@ -61,7 +61,7 @@ Jangan ragu memecah modul. File yang mencapai lebih dari 500 baris kode biasanya
 Jika kamu memiliki modul `database.rs`, hindari memasukkan logika validasi email di sana.
 
 **Manfaatkan `pub(crate)`**
-Gunakan visibilitas `pub(crate)` jika ingin fungsi bisa diakses oleh modul lain di dalam crate yang sama, namun tetap tersembunyi dari pengguna luar.
+Gunakan visibilitas `pub(crate)` jika ingin fungsi bisa diakses oleh modul lain di dalam crate yang sama, tetapi tetap tersembunyi dari pengguna luar.
 
 ```rust
 pub(crate) fn internal_setup() {
