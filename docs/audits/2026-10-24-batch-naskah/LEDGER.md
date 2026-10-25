@@ -167,3 +167,34 @@ Total: 4170 findings, 3743 edits; 54 decisions were changed after the independen
 | teori-teori-kepribadian | d0727:0 | inconsistent_term | Real mismatch (four English layer names, one Indonesian), but the audit's label breaks the diagram gate: 'Self-Actualization' measures 127 to 136 px in Epilogue at the diagram's font size (about 14.5 to 15.4 px, fitted f |
 | tonsilektomi | d0744:5 | unclear | The age split is genuinely overlapping ("orang dewasa" vs "pasien di atas sepuluh tahun"), but the correct groups need the source (Lavy 1997 or the NHS leaflet in Referensi); deleting the clause would lose information. O |
 | virtue-ethics-aristoteles | d0751:4 | inconsistent_term | Glossary-level, not a one-cell fix. Eudaimonia is rendered "kesejahteraan" (ch 1 table, ch 2 "Kesejahteraan/Kebahagiaan sejati", ch 3 "Kesejahteraan yang Bermakna"), "kebahagiaan" (ch 1 formula) and "perkembangan/flouris |
+
+## Tahap 3: sisa backlog (sesudah ledger di atas)
+
+`ledger.jsonl` mencatat keputusan Tahap 2. Tahap 3 menerapkan sebagian backlog dengan edit tercatat per unit (`phase3/U##.jsonl` di scratch, bukan di repo).
+
+- 40 unit, 785 edit: istilah seluruh buku 690 (mis. "namun" di tengah kalimat menjadi "tetapi", "di mana" relatif diganti, "bentang" dan "kord" dipilih untuk seluruh buku), rumus 35, backlog 35, peran 10, DOI 14, fakta 1.
+- Verifikasi: `verify_phase3.py` exit 0 (385 berkas cocok dengan log, 0 tidak cocok, 0 perubahan tak terduga). Gerbang struktur, judul, suara, dan diagram exit 0. `bun run build` exit 0. `bun test tests/books/ tests/scripts/` exit 0 (726 tes, 0 gagal, 2 skip).
+- Tes regresi audit (`audit-fixes-2026-10-24.data.json`) membuang tiga entri yang sengaja diubah oleh pilihan istilah seluruh buku (aerodinamika-dan-desain-airfoil).
+
+### Belum diputuskan pemilik
+
+Setiap item di bawah dibiarkan tanpa perubahan, karena butuh sumber atau keputusan konten.
+
+- analisis-wacana-kritis-awk-dalam-kriminologi d0029:8: blok linguistik forensik di bab 1 sampai 13 perlu dipindah atau dihapus.
+- aerodinamika-dan-desain-airfoil d0001:7: batas bawah 4% F-16 hanya bertumpu pada satu sumber. d0011:5: simbol `$\ell$` belum bersumber.
+- ekonomi-laissez-faire d0086:4: baris "Barang Publik" di tabel ringkasan bab 7 tanpa bab pendukung. d0092:1: tahun Turgot belum dicek ke katalog. Tahun Quesnay di bab 13 belum dicek.
+- metodologi-microteaching d0349:1: entri Mergler dan Spooner-Lane tidak cocok dengan Crossref. d0338:8: cabang "tidak" yang hilang di diagram bab 3.
+- neuroplastisitas-dalam-belajar d0401:7: analogi isolator omega-3 bertentangan dengan poin fluiditas membran. Angka "5 tahun" di bab 11 belum bersumber.
+- neurobiologi-sistem-vestibular d0378:2: tiga tugas di bagian 2 dan empat baris tabel tidak sama.
+- pembelajaran-multidisiplin d0457:5: "interdisiplin" dan "interdisipliner" masih campur, judul bab 2 memakai bentuk pertama.
+- peluruhan-beta d0450:4 (Brachytherapy versus Brakiterapi), d0452:2 (penyebab cahaya kolam bahan bakar bekas, perlu sumber baru), d0454:0 (level heading bab 11).
+- psikologi-positif b-1: contoh Losada 5:1 di bab 12 dan kalimat "Poin utamanya tetap sama" di bab 3 masih terbaca sebagai saran kerja.
+- quarter-life-crisis d0541:3 (judul "Locus of Control" bab 10) dan d0541:4 (bagian stub "4. Teknik Reframing" bab 10). Karakter Maya, Budi, dan Andi belum konsisten. Judul bab 4 "Dewasa Muda" belum selaras dengan bab 1.
+- resiliensi-dan-ketangguhan d0560:2: empat label skenario bab 3 tidak diperkenalkan. d0568:1: baris "Strengths Audit" di tabel bab 11 tanpa latihan.
+- siklus-hidrologi-mikrofisika-awan: judul bab 11 dan sub-bagian A sampai C masih menyebut Luke Howard, padahal prakata WMO menyebut pengelompokan ketinggian datang belakangan. "selalu" tak ditandai di bab 8.
+- tonsilektomi d0744:5: rentang usia nyeri tumpang tindih, abstrak Lavy 1997 belum bisa dibuka.
+- state-of-flow d0660:5 ("Alir" versus "Aliran") butuh satu bentuk untuk seluruh buku. d0667:0 sudah dihapus kalimatnya, sisa "15%" tanpa sumber.
+- human-capital-theory: angka "5 tahun" di bab 11 belum bersumber.
+- teori-permainan-game-theory d0713:2: contoh dominasi lemah "bunga 5%, risiko nol" salah secara konsep dan butuh contoh baru.
+- Referensi siklus-hidrologi: entri Wallace dan Hobbs belum memakai subjudul Crossref.
+- Diagram: `db/seed.sql` tidak diregenerasi, dan 13 SVG lama masih yatim sampai `diagrams:render --prune`.
