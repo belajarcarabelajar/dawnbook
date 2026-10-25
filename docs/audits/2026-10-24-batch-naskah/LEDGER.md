@@ -211,3 +211,33 @@ Setiap item diperiksa dari berkas dan sumber. Tidak ada buku yang diubah dalam p
 - state-of-flow d0667:0: klaim 15% sudah dihapus dari bab 09 dan tidak ada sisa "terhidrasi". Rumus `\text{Tingkat Kesulitan} = \text{Kemampuan} + 4\%` di bab 09 (sekitar baris 55) belum bersumber dan tidak ada di keputusan audit mana pun. Pilihan: pertahankan, beri sumber, atau hapus.
 - teori-permainan-game-theory d0713:2 (bab 04): contoh "bunga 5% dengan risiko nol" sebagai dominasi lemah salah secara konsep. Payoff yang dinyatakan sama (5%), jadi tidak ada keadaan yang strictly lebih baik. Pilihan: ganti contoh dengan payoff yang berbeda secara ketat, atau pindahkan contoh.
 - Diagram: `db/seed.sql` belum diregenerasi, dan 13 SVG lama masih yatim sampai `bun run diagrams:render --prune`.
+
+## Tahap 4: keputusan pemilik atas item terbuka
+
+Setiap keputusan di bawah diambil dari pilihan yang direkomendasikan, kecuali dicatat lain. Satu commit per buku (15 buku), dengan pesan `content(books): apply the phase 4 owner decisions to <buku>`. Log edit ada di scratch `phase4/`.
+
+- analisis-wacana-kritis-awk-dalam-kriminologi: definisi linguistik forensik dipusatkan di bab 02, dihapus dari bab 01, 03 sampai 06, 08 sampai 13 (bab 07 tidak punya). Klaim "paling sulit dipalsukan" di bab 02 bagian 8 dilunakkan. Klaim yang sama masih ada di bab 01, 03, dan 05 (tidak termasuk perintah pemilik).
+- ekonomi-laissez-faire: tahun Turgot di referensi bab 13 tetap 1766, ditambah label penulisan dan tahun terbit berseri.
+- metodologi-microteaching: entri Mergler dan Spooner-Lane dihapus (tidak ada kutipan dalam teks). Prosa bab 03 ditulis ulang agar sesuai diagram. Diagram tidak diubah dan cabang "tidak" setelah Q2 masih belum ada.
+- neuroplastisitas-dalam-belajar: analogi omega-3 dihapus. Satu bullet DHA dipindah satu level agar tetap berupa daftar.
+- human-capital-theory: angka 5 tahun dilunakkan menjadi laporan industri 4 sampai 5 tahun.
+- peluruhan-beta: Brachytherapy menjadi Brakiterapi (empat bab). Dua heading bab 11 naik ke H3. Klaim cahaya kolam dilunakkan menjadi "terutama".
+- neurobiologi-sistem-vestibular: kata "tiga" dihapus dari "tiga tugas utama".
+- pembelajaran-multidisiplin: seluruh "interdisiplin" menjadi "interdisipliner", termasuk judul bab 02 dan SUMMARY. Nama file bab 02 belum diganti (akan mengubah URL).
+- psikologi-positif: dua referensi ditambahkan (Brown, Sokal, dan Friedman 2013; Losada dan Heaphy 2004), keduanya dicek lewat Crossref. Kutipan kritik ditambahkan di bab 12. Insight bab 12 dan kalimat "Poin utamanya tetap sama" bab 03 ditulis ulang tanpa angka 5:1. Sumber asal rasio 5:1 belum ditambahkan.
+- quarter-life-crisis: Locus of Control menjadi Lokus Kendali. Bagian stub "Teknik Reframing" dihapus dan nomor digeser. Maya menjadi akuntan 26 tahun di bab 01 dan 06. Di bab 12 ditambahkan kata "sebagai akuntan" (satu-satunya tambahan profesi). Budi di bab 05 menjadi "baru enam bulan diterima". Andi di bab 10 menjadi Raka.
+- resiliensi-dan-ketangguhan: label skenario bab 03 menjadi S, T, O, P (pemetaan longgar, lihat catatan). Baris Strengths Audit di bab 11 dihapus.
+- siklus-hidrologi-mikrofisika-awan: nama Howard dihapus dari judul bagian 2 bab 11 (isi tetap). "selalu" menjadi "biasanya" di bab 08. Bumi dan bumi: lima kata diubah menjadi Bumi untuk planet. Dua kasus tanah dan permukaan dibiarkan dengan huruf kecil dan perlu dikonfirmasi.
+- state-of-flow: Aliran menjadi Alir di tiga baris istilah. Kutipan subjek "Saya terbawa oleh aliran." dikembalikan ke bentuk asli. Baris "mempertahankan aliran permainan" (bab 11) dibiarkan. Rumus Tingkat Kesulitan = Kemampuan + 4% (bab 09) dihapus, kalimat pengantarnya ditulis ulang.
+- teori-permainan-game-theory: contoh bunga 5% diberi label "Ini bukan contoh dominasi lemah", tidak dipindah. Kalimat penutup contoh diganti "Kedua instrumen memberi hasil yang sama, jadi tidak ada yang lebih baik dari yang lain".
+- tonsilektomi: kelompok dewasa dihapus, klaim anak disamakan dengan Lavy 1997 (memuncak di hari kedua, lalu menurun).
+
+### Masih terbuka setelah Tahap 4
+
+- tonsilektomi bab 08 baris 52: "Jika kamu merasa nyeri bertambah parah pada hari kelima" masih mengulang pola klaim hari ke-5 yang tidak didukung Lavy.
+- state-of-flow bab 05 baris 42: formula serupa dengan "+ 4 \text{\%}" masih ada.
+- psikologi-positif: sumber asal rasio 5:1 (Losada dan Heaphy 2004 tidak memuatnya dalam abstrak) belum dicari.
+- siklus-hidrologi: "Permukaan bumi dipanaskan" (bab 03) dan "di bumi" (bab 08) dibiarkan huruf kecil, perlu konfirmasi bahwa maknanya bukan planet.
+- ekonomi-laissez-faire, Quesnay: teks 1758 dipertahankan. URL marxists.org berlabel 1759 tidak diganti.
+- aerodinamika-dan-desain-airfoil: konvensi sumbu momen dibiarkan sesuai keputusan pemilik.
+- pembelajaran-multidisiplin: nama file bab 02 masih mengandung "interdisiplin".
