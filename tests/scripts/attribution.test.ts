@@ -112,3 +112,25 @@ describe("AI-assistance notice", () => {
     expect((next === -1 ? rest : rest.slice(0, next))).toMatch(/AI assistance/);
   });
 });
+
+// Owner decision 2026-10-25: the placeholder author name from the first commits is not
+// named anywhere in the repository; the first books are by Iwan Kurniawan.
+describe("placeholder author name", () => {
+  test("no tracked text file names the placeholder", () => {
+    const placeholder = new RegExp(`\\b${["T", "e", "d", "i"].join("")}\\b`, "i");
+    const files = Bun.spawnSync(["git", "ls-files"], { cwd: ROOT }).stdout.toString().split("\n").filter(Boolean);
+    const hits = files.filter((f) => {
+      if (/\.(png|jpe?g|webp|ico|woff2?|ttf|pdf|lockb)$/i.test(f)) return false;
+      try {
+        return placeholder.test(read(f));
+      } catch {
+        return false;
+      }
+    });
+    expect(hits).toEqual([]);
+  });
+
+  test("README names Iwan Kurniawan as the author of the first books", () => {
+    expect(read("README.md")).toMatch(/first books were written by Iwan Kurniawan/);
+  });
+});

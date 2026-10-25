@@ -246,7 +246,7 @@ describe("Build Script & Modular Builder (scripts/build.ts)", () => {
     expect(script).toContain("if (showName)");
   });
 
-  test("parseBookMetadata correctly returns 'Iwan Kurniawan' for modified books and no book retains 'Tedi Rahmat' or 'AI'", async () => {
+  test("parseBookMetadata correctly returns 'Iwan Kurniawan' as the author of the first books", async () => {
     const { parseBookMetadata } = await import("../../scripts/builder/metadata");
     const booksDir = join(import.meta.dir, "../../books");
 
