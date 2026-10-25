@@ -24,7 +24,7 @@ Jika intensitas fokus kamu mendekati nol karena gangguan notifikasi, maka hasil 
 
 ## 2\. Meminimalkan Gangguan Digital di Kantor
 
-Gangguan digital adalah "biaya tersembunyi" dalam pekerjaan. Setiap kali kamu beralih dari tugas utama ke pesan instan, otak kamu mengalami **Attention Residue**. Dibutuhkan rata-rata sekitar 23 menit bagi otak untuk kembali ke tingkat fokus penuh setelah terganggu.
+Gangguan digital adalah "biaya tersembunyi" dalam pekerjaan. Setiap kali kamu beralih dari tugas utama ke pesan instan, otak kamu mengalami **Attention Residue**. Pekerjaan yang terputus pun tidak langsung dilanjutkan, rata-rata baru disentuh lagi sekitar 23 menit kemudian.
 
 ### Strategi Praktis Mengurangi Gangguan
 

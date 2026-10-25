@@ -43,7 +43,7 @@ Aplikasi modern dirancang persis seperti ini:
 - **Pull-to-Refresh:** Tindakan menarik layar ke bawah untuk memperbarui konten sangat mirip dengan menarik tuas mesin judi. Ada jeda sesaat (animasi berputar) yang membangun ketegangan sebelum konten baru muncul.
 - **Isi yang Tidak Terprediksi:** Kadang kamu melihat berita duka, kadang video kucing lucu, kadang foto teman yang sedang berlibur. Ketidakteraturan inilah yang membuat otak kita ketagihan.
 
-**Catatan:** Jika setiap kali membuka aplikasi kamu mendapatkan konten yang sama atau selalu bagus, kamu akan cepat bosan. Justru karena 90% kontennya "sampah" dan 10% sisanya "menarik", otakmu terus mencari yang 10% itu.
+**Catatan:** Jika setiap kali membuka aplikasi kamu mendapatkan konten yang sama atau selalu bagus, kamu akan cepat bosan. Justru karena sebagian besar kontennya biasa saja dan yang menarik hanya muncul sesekali, otakmu terus mencari yang menarik itu.
 
 ## 4\. Fitur Validasi Sosial
 
@@ -59,7 +59,7 @@ Selain psikologi internal, ada teknik desain visual yang digunakan untuk memanen
 
 - **Infinite Scroll (Gulir Tanpa Batas):** Menghilangkan "sinyal berhenti". Di masa lalu, koran memiliki halaman terakhir dan buku memiliki bab penutup. *Infinite scroll* membuat konsumsi informasi menjadi tanpa dasar, sehingga otak tidak pernah menerima sinyal untuk berhenti.
 - **Autoplay:** Sebelum kamu sempat memutuskan untuk berhenti menonton, video berikutnya sudah dimulai. Ini memanfaatkan **inersia kognitif**, lebih mudah untuk terus menonton daripada mengambil tindakan untuk berhenti.
-- **The Red Dot (Titik Merah):** Warna merah dipilih karena secara instingtual menandakan bahaya atau urgensi dalam alam bawah sadar manusia, memaksa mata kita untuk segera melihatnya.
+- **The Red Dot (Titik Merah):** Lencana merah kecil ini mencolok dan menarik mata untuk segera melihatnya.
 
 ## 6\. Anatomi Sebuah Sesi Media Sosial
 
