@@ -8,7 +8,7 @@ Pada kategori ini, kuantitas barang yang ditawarkan **sama sekali tidak berubah*
 - **Contoh Nyata:** Tanah di lokasi spesifik, lukisan karya seniman yang sudah meninggal, atau produk dengan kapasitas produksi yang sudah mencapai batas maksimal absolut dalam jangka sangat pendek.
 ## 2. Penawaran Inelastis
 Penawaran dikatakan inelastis jika persentase perubahan jumlah barang yang ditawarkan **lebih kecil** daripada persentase perubahan harganya. Artinya, produsen kurang responsif terhadap perubahan harga.
-- **Analogi:** Seperti mencoba menarik karet gelang yang sudah sangat tua dan kaku. Kamu menarik karet itu dengan tenaga kuat (perubahan harga besar), namun karet tersebut hanya memanjang sedikit (perubahan jumlah sedikit).
+- **Analogi:** Seperti mencoba menarik karet gelang yang sudah sangat tua dan kaku. Kamu menarik karet itu dengan tenaga kuat (perubahan harga besar), tetapi karet tersebut hanya memanjang sedikit (perubahan jumlah sedikit).
 - **Bentuk Kurva:** Kurva penawaran cenderung **curam (steep)**.
 - **Contoh Nyata:** Produk pertanian seperti padi. Meskipun harga padi melonjak hari ini, petani tidak bisa langsung memanen padi besok pagi. Mereka butuh waktu musim tanam, sehingga tambahan penawaran di pasar akan terbatas dalam jangka pendek.
 ## 3. Penawaran Elastis Uniter
@@ -22,7 +22,7 @@ Penawaran dikatakan elastis jika persentase perubahan jumlah barang yang ditawar
 - **Bentuk Kurva:** Kurva penawaran cenderung **landai (flat)**.
 - **Contoh Nyata:** Barang-barang hasil industri manufaktur seperti pakaian, elektronik, atau mainan. Jika harga naik, pabrik tinggal menambah jam lembur karyawan atau mengaktifkan mesin yang menganggur untuk menambah output.
 ## 5. Penawaran Elastis Sempurna
-Ini adalah kondisi ekstrem di mana pada harga tertentu, produsen bersedia memasok **jumlah berapa pun** (tak terhingga). Namun, jika harga turun sedikit saja di bawah harga tersebut, penawaran akan langsung jatuh ke angka nol.
+Ini adalah kondisi ekstrem ketika pada harga tertentu, produsen bersedia memasok **jumlah berapa pun** (tak terhingga). Namun, jika harga turun sedikit saja di bawah harga tersebut, penawaran akan langsung jatuh ke angka nol.
 - **Konsep:** Harga ditentukan oleh pasar, dan produsen adalah *price taker*.
 - **Bentuk Kurva:** Kurva penawaran berbentuk **garis lurus horizontal**.
 - **Contoh Nyata:** Meskipun sulit ditemukan dalam bentuk murni, pasar komoditas global sering mendekati kondisi ini. Misalnya, seorang petani kecil di pasar gandum internasional. Ia bisa menjual berapa pun gandumnya pada harga pasar dunia, tetapi jika ia menaikkan harga sedikit saja, tidak akan ada yang membeli darinya karena pembeli punya akses ke jutaan petani lain pada harga pasar.

@@ -1,6 +1,6 @@
 ## Klasifikasi dan Derajat Elastisitas Permintaan
 Setelah memahami cara menghitung koefisien elastisitas pada materi sebelumnya, muncul pertanyaan berikutnya yang perlu dijawab. **"Apa arti dari angka-angka tersebut?"**
-Dalam ekonomi, tidak semua barang memberikan reaksi yang sama terhadap perubahan harga. Ada barang yang permintaannya langsung turun tajam saat harganya naik sedikit saja, namun ada juga barang yang permintaannya hampir tidak berubah meskipun harganya melonjak drastis. Fenomena ini kita klasifikasikan ke dalam lima derajat elastisitas permintaan.
+Dalam ekonomi, tidak semua barang memberikan reaksi yang sama terhadap perubahan harga. Ada barang yang permintaannya langsung turun tajam saat harganya naik sedikit saja, tetapi ada juga barang yang permintaannya hampir tidak berubah meskipun harganya melonjak drastis. Fenomena ini kita klasifikasikan ke dalam lima derajat elastisitas permintaan.
 ### Tiga Tingkat Kelenturan
 Kelenturan permintaan punya lebih dari dua tingkat, dari karet gelang sampai kawat besi:
 - Ada yang selentur **karet gelang**: ditarik sedikit saja, ia meregang panjang (Elastis).
@@ -19,18 +19,18 @@ Permintaan inelastis terjadi ketika persentase perubahan jumlah yang diminta **l
 - **Contoh:** Barang kebutuhan pokok (beras, garam) atau kebutuhan mendesak (obat-obatan). Meskipun harga beras naik, orang tetap harus makan nasi.
 Sebagai contoh penerapan, pemerintah sering mengenakan pajak tinggi pada rokok atau bahan bakar karena barang-barang tersebut cenderung inelastis. Meskipun harga naik akibat pajak, konsumen terus membelinya.
 ### 3. Permintaan Unitary / Elastisitas Satuan
-Ini adalah kondisi di mana persentase perubahan harga diikuti oleh persentase perubahan jumlah permintaan dalam proporsi yang **sama persis**.
+Ini adalah kondisi ketika persentase perubahan harga diikuti oleh persentase perubahan jumlah permintaan dalam proporsi yang **sama persis**.
 - **Karakteristik:** Harga naik 10%, permintaan turun tepat 10%.
 - **Representasi Grafis:** Kurva membentuk garis melengkung yang disebut *rectangular hyperbola*.
-- **Contoh:** Secara teoretis sulit ditemukan secara absolut di dunia nyata, namun sering digunakan sebagai titik acuan bagi perusahaan dalam menentukan strategi harga yang optimal untuk menjaga pendapatan tetap stabil.
+- **Contoh:** Secara teoretis sulit ditemukan secara absolut di dunia nyata, tetapi sering digunakan sebagai titik acuan bagi perusahaan dalam menentukan strategi harga yang optimal untuk menjaga pendapatan tetap stabil.
 ### 4. Permintaan Inelastis Sempurna
-Ini adalah kondisi ekstrem di mana perubahan harga **sama sekali tidak berpengaruh** terhadap jumlah barang yang diminta.
+Ini adalah kondisi ekstrem ketika perubahan harga **sama sekali tidak berpengaruh** terhadap jumlah barang yang diminta.
 - **Karakteristik:** Berapa pun harganya ($P_1, P_2, P_3$), jumlah yang diminta tidak berubah ($Q$).
 - **Representasi Grafis:** Kurva berbentuk **garis vertikal tegak lurus**.
 - **Contoh Dunia Nyata:** Obat-obatan penyelamat nyawa, seperti insulin bagi penderita diabetes. Berapa pun harganya, pasien harus membeli dosis yang sama untuk bertahan hidup.
 ### 5. Permintaan Elastis Sempurna
-Kondisi ekstrem lainnya di mana pada tingkat harga tertentu, konsumen bersedia membeli **berapa pun** jumlah barang. Namun, jika harga naik sedikit saja (hanya satu rupiah), permintaan akan langsung jatuh ke angka nol.
-- **Karakteristik:** Penjual dapat menjual semua barangnya pada harga pasar, namun tidak ada yang mau membeli jika harga dinaikkan di atas harga tersebut.
+Kondisi ekstrem lainnya ketika pada tingkat harga tertentu, konsumen bersedia membeli **berapa pun** jumlah barang. Namun, jika harga naik sedikit saja (hanya satu rupiah), permintaan akan langsung jatuh ke angka nol.
+- **Karakteristik:** Penjual dapat menjual semua barangnya pada harga pasar, tetapi tidak ada yang mau membeli jika harga dinaikkan di atas harga tersebut.
 - **Representasi Grafis:** Kurva berbentuk **garis horizontal mendatar**.
 - **Contoh:** Barang dalam pasar persaingan sempurna, seperti hasil pertanian (gandum atau beras) di pasar induk yang standar mutunya sama persis. Jika satu petani menaikkan harga sendiri, pembeli akan langsung beralih ke ribuan petani lainnya yang harganya normal.
 ### Lima Derajat Elastisitas Permintaan

@@ -27,7 +27,7 @@ Di sini, konsumen tidak terlalu sensitif terhadap perubahan harga. Biasanya ini 
 - **Jika Harga Naik:** Persentase penurunan jumlah yang diminta ($Q$) lebih kecil daripada persentase kenaikan harga ($P$). Hasilnya, **Total Revenue akan naik**.
 **Analogi:** Bayangkan kamu adalah satu-satunya penyedia air bersih di sebuah desa terpencil. Jika kamu menaikkan harga, orang-orang mungkin akan sedikit lebih hemat, tetapi mereka masih harus membeli air dari kamu karena membutuhkannya untuk bertahan hidup.
 #### C. Permintaan Elastis Uniter
-Kondisi ini jarang terjadi di dunia nyata secara sempurna, namun penting secara teoretis.
+Kondisi ini jarang terjadi di dunia nyata secara sempurna, tetapi penting secara teoretis.
 - **Jika Harga Naik atau Turun:** Persentase perubahan harga ($P$) sama persis dengan persentase perubahan jumlah yang diminta ($Q$). Hasilnya, **Total Revenue tetap sama (konstan)**.
 ### 3. Ringkasan Strategi untuk Produsen
 Tabel strategi di bawah ini memudahkan pengambilan keputusan:

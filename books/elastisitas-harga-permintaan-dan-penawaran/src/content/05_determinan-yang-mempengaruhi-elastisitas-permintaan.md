@@ -23,7 +23,7 @@ $$
 
 Semakin besar rasio ini, semakin tinggi kecenderungan elastisitasnya.
 ## 4. Jangka Waktu Analisis
-Waktu adalah faktor yang sering terlupakan namun menentukan bagaimana konsumen beradaptasi.
+Waktu adalah faktor yang sering terlupakan tetapi menentukan bagaimana konsumen beradaptasi.
 - **Jangka Pendek (Inelastis):** Saat harga bensin naik tiba-tiba hari ini, kamu mungkin tetap membelinya karena harus pergi bekerja dan belum punya alternatif lain. Permintaan cenderung kaku dalam jangka pendek.
 - **Jangka Panjang (Elastis):** Dalam jangka panjang, konsumen bisa menyesuaikan perilaku. Mereka mungkin mulai membeli motor listrik, menggunakan transportasi umum, atau pindah tempat tinggal yang lebih dekat dengan kantor.
 ## 5. Definisi Pasar (Cakupan Barang)

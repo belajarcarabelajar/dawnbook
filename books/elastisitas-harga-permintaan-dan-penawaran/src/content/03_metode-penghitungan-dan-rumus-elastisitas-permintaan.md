@@ -12,7 +12,7 @@ $$
 **Keterangan:**
 - $\text{\%} \Delta Q_d$: Persentase perubahan jumlah barang yang diminta.
 - $\text{\%} \Delta P$: Persentase perubahan harga barang tersebut.
-> **Catatan Penting:** Karena hukum permintaan menyatakan bahwa harga dan jumlah permintaan bergerak ke arah yang berlawanan (jika harga naik, permintaan turun), hasil penghitungan biasanya negatif. Namun, dalam ekonomi, kita sering menggunakan **nilai mutlak (absolute value)** untuk menyederhanakan interpretasi. Jadi, jika hasilnya $-2$, kita menyebutnya $2$.
+> **Catatan Penting:** Karena hukum permintaan menyatakan bahwa harga dan jumlah yang diminta bergerak ke arah yang berlawanan (jika harga naik, jumlah yang diminta turun), hasil penghitungan biasanya negatif. Namun, dalam ekonomi, kita sering menggunakan **nilai mutlak (absolute value)** untuk menyederhanakan interpretasi. Jadi, jika hasilnya $-2$, kita menyebutnya $2$.
 ## 2. Metode Elastisitas Titik (Point Elasticity)
 Metode ini digunakan untuk menghitung elastisitas pada satu titik tertentu pada kurva permintaan. Metode ini berguna jika perubahan harga yang terjadi relatif kecil atau jika kita memiliki data harga awal dan jumlah awal yang spesifik.
 ### Rumus Elastisitas Titik

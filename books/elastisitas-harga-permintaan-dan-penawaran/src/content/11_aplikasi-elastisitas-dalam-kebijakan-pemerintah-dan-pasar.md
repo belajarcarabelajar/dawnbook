@@ -40,7 +40,7 @@ Pemerintah menetapkan harga minimum di atas harga keseimbangan untuk melindungi 
 Banyak negara kini menerapkan "Sugar Tax" atau pajak pada minuman berpemanis dalam kemasan (MBDK) untuk menekan angka obesitas.
 1. **Tujuan:** Mengurangi konsumsi gula masyarakat.
 2. **Analisis Elastisitas:** Agar kebijakan ini efektif mengurangi konsumsi, permintaan terhadap MBDK harus bersifat **elastis**. Jika elastis, kenaikan harga akibat pajak akan membuat orang beralih ke air mineral (substitusi).
-3. **Realita:** Jika ternyata masyarakat sudah "kecanduan" dan permintaannya **inelastis**, maka konsumsi gula tidak akan banyak berkurang, namun pemerintah akan mendapatkan **penerimaan pajak yang besar**.
+3. **Realita:** Jika ternyata masyarakat sudah "kecanduan" dan permintaannya **inelastis**, maka konsumsi gula tidak akan banyak berkurang, tetapi pemerintah akan mendapatkan **penerimaan pajak yang besar**.
 > **Insight Penting:** Pemerintah sering kali dihadapkan pada dilema. Jika tujuannya **mengubah perilaku** (misal: berhenti merokok), mereka butuh permintaan yang **elastis**. Jika tujuannya **menambah kas negara**, mereka mencari barang dengan permintaan yang **inelastis**.
 ## Pajak, Subsidi, dan Kontrol Harga
 | Kebijakan | Jika Permintaan Inelastis | Jika Permintaan Elastis |
