@@ -43,7 +43,7 @@ Perubahan istilah di atas ditetapkan secara terencana oleh lembaga bahasa dan pe
 
 Dalam ranah percakapan santai sehari-hari, kedua kata ini mungkin digunakan secara bergantian. Namun, dalam laras bahasa formal dan tulisan resmi, **istri** menempati posisi amelioratif yang mapan.
 
-- **Bini:** Tergolong ragam nonformal atau vernakular yang bernuansa percakapan akrab, namun terasa kurang pantas bila dipakai dalam forum resmi kenegaraan.
+- **Bini:** Tergolong ragam nonformal atau vernakular yang bernuansa percakapan akrab, tetapi terasa kurang pantas bila dipakai dalam forum resmi kenegaraan.
 - **Istri:** Diserap dari bahasa Sanskerta *stri*, memberikan nilai rasa yang terhormat, anggun, dan berkesan sah secara hukum maupun agama.
 
 Perbedaan nilai rasa ini menunjukkan bahwa pemilihan kosakata tidak hanya bertumpu pada kesamaan arti referensial, melainkan juga menuntut kesesuaian derajat kesantunan dengan laras sosial tempat tuturan berlangsung.

@@ -63,7 +63,7 @@ Algoritma pemrosesan bahasa alami (*Natural Language Processing*) yang bertugas 
 
 Kelompok marjinal diproyeksikan akan semakin aktif mengambil alih istilah pejoratif yang semula digunakan untuk mendiskreditkan mereka, lalu mentransformasikannya menjadi lambang solidaritas dan emansipasi (ameliorasi strategis).
 
-*Pertanyaan Reflektif: Apakah terdapat kata yang saat ini berkonotasi pejoratif, namun berpotensi mengalami ameliorasi menjadi istilah populer dan prestisius pada dekade mendatang?*
+*Pertanyaan Reflektif: Apakah terdapat kata yang saat ini berkonotasi pejoratif, tetapi berpotensi mengalami ameliorasi menjadi istilah populer dan prestisius pada dekade mendatang?*
 
 ### 4. Penerapan dalam Rekayasa Pemrosesan Bahasa Alami
 

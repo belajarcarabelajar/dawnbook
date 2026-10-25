@@ -2,7 +2,7 @@
 
 Perubahan makna kata berakar pada dinamika kognitif otak manusia yang menghubungkan konsep linguistik dengan rekaman emosi dan pengalaman sosial.
 
-Kerap muncul pertanyaan mengenai alasan sebuah kata yang dahulu terdengar wajar tiba-tiba terasa menyakitkan atau merendahkan. Sebaliknya, terdapat pula istilah yang dahulu dianggap tabu namun kini menjadi sebutan terhormat.
+Kerap muncul pertanyaan mengenai alasan sebuah kata yang dahulu terdengar wajar tiba-tiba terasa menyakitkan atau merendahkan. Sebaliknya, terdapat pula istilah yang dahulu dianggap tabu tetapi kini menjadi sebutan terhormat.
 
 Pergeseran makna seperti **ameliorasi** (peningkatan nilai rasa) dan **pejorasi** (penurunan nilai rasa) berawal dari kerja kognitif di dalam benak manusia. Bahasa bukan sekadar kumpulan definisi kamus, melainkan sistem dinamis yang bergantung pada psikologi massa serta persepsi individu.
 
@@ -23,7 +23,7 @@ Konsep pengondisian klasik (*classical conditioning*) yang dipopulerkan oleh Iva
 
 <div>
 $$
-\text{Kata (Stimulus)} + \text{Konteks Sosial (Respons)} \rightarrow \text{Makna Baru}
+\text{Kata (Stimulus)} + \text{Konteks Sosial} \rightarrow \text{Makna Baru}
 $$
 </div>
 
