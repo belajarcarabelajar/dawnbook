@@ -52,14 +52,14 @@ Dengan:
 - $C$ (Complexity/Kompleksitas): Kerumitan tugas sehari-hari di tempat baru.
 - $S$ (Support/Dukungan): Jaringan dukungan sosial dan mekanisme koping yang dimiliki.
 
-Jika perbedaan budaya ($D$) sangat besar, namun dukungan sosialmu ($S$) mendekati nol, maka ketegangan ($T$) akan meningkat tajam.
+Jika perbedaan budaya ($D$) sangat besar, tetapi dukungan sosialmu ($S$) mendekati nol, maka ketegangan ($T$) akan meningkat tajam.
 
 ## 4. "Hari Buruk di Berlin"
 
 Andi adalah seorang mahasiswa Indonesia yang baru dua bulan berada di Jerman.
 
 - **Minggu 1-4 (Bulan Madu):** Andi sangat senang melihat keteraturan kereta dan arsitektur kota.
-- **Minggu 8 (Krisis):** Suatu hari, Andi ditegur dengan keras oleh orang asing karena berdiri di jalur sepeda tanpa sengaja. Di saat yang sama, dia kesulitan memahami surat kontrak apartemennya. Sore harinya, dia mencoba mencari bumbu instan Indonesia namun tidak menemukan yang pas.
+- **Minggu 8 (Krisis):** Suatu hari, Andi ditegur dengan keras oleh orang asing karena berdiri di jalur sepeda tanpa sengaja. Di saat yang sama, dia kesulitan memahami surat kontrak apartemennya. Sore harinya, dia mencoba mencari bumbu instan Indonesia tetapi tidak menemukan yang pas.
 - **Respons Andi:** Dia kembali ke kamar, mengunci pintu, dan menghabiskan malam dengan melakukan *video call* berjam-jam ke rumah sambil menangis. Dia mulai berpikir bahwa orang lokal sangat kasar dan dia tidak cocok tinggal di sana.
 
 **Analisis:** Andi sedang berada di puncak Fase Krisis. Perasaan "tertolak" oleh lingkungan membuatnya menarik diri dan melakukan glorifikasi terhadap kenyamanan di rumah.

@@ -1,10 +1,10 @@
-## Pentingnya Komunikasi Non-Verbal dalam Integrasi
+## Pentingnya Komunikasi Nonverbal dalam Integrasi
 
-Pernahkah kamu merasa bingung ketika seseorang mengangguk tetapi sebenarnya ia bermaksud mengatakan "tidak" kepadamu? Atau mungkin kamu merasa tidak nyaman karena seseorang berdiri terlalu dekat dengan kamu saat berbicara? Keduanya adalah contoh **komunikasi non-verbal**.
+Pernahkah kamu merasa bingung ketika seseorang mengangguk tetapi sebenarnya ia bermaksud mengatakan "tidak" kepadamu? Atau mungkin kamu merasa tidak nyaman karena seseorang berdiri terlalu dekat dengan kamu saat berbicara? Keduanya adalah contoh **komunikasi nonverbal**.
 
 Dalam proses integrasi budaya, kata-kata hanyalah puncak dari gunung es. Di bawah permukaan air, terdapat massa besar berupa bahasa tubuh, kontak mata, dan penggunaan ruang yang menentukan apakah kamu akan "tenggelam" atau "berenang" di lingkungan baru.
 
-### 1\. Mengapa Komunikasi Non-Verbal Begitu Penting?
+### 1\. Mengapa Komunikasi Nonverbal Begitu Penting?
 
 Statistik yang sering dikutip dalam studi komunikasi menunjukkan bahwa saat kita menyampaikan perasaan atau sikap, sebagian besar pesan kita tidak berasal dari mulut kita. Secara matematis, pembagian porsi pesan dapat dirumuskan secara sederhana sebagai berikut:
 
@@ -12,7 +12,7 @@ $$
 \text{Total Pesan} = 7 \text{\%} \text{ (Verbal)} + 38 \text{\%} \text{ (Vokal/Nada)} + 55 \text{\%} \text{ (Visual/Bahasa Tubuh)}
 $$
 
-> **Insight Penting:** Saat kamu berada di fase awal adaptasi budaya, kemampuan bahasa verbal kamu mungkin masih terbatas. Pada saat itu, komunikasi non-verbal menjadi cara sementara untuk membangun koneksi sebelum kamu mahir berbicara bahasa lokal.
+> **Insight Penting:** Saat kamu berada di fase awal adaptasi budaya, kemampuan bahasa verbal kamu mungkin masih terbatas. Pada saat itu, komunikasi nonverbal menjadi cara sementara untuk membangun koneksi sebelum kamu mahir berbicara bahasa lokal.
 
 ### 2\. Proksemik dan "Gelembung" Ruang Personal
 
@@ -34,16 +34,16 @@ Kinesik mencakup gerak tubuh, ekspresi wajah, dan postur. Masalah terbesar dalam
 
 ### 4\. Okulesik dan Makna Tatapan Mata
 
-Kontak mata (okulesik) adalah salah satu aspek komunikasi non-verbal yang paling sensitif secara budaya.
+Kontak mata (okulesik) adalah salah satu aspek komunikasi nonverbal yang paling sensitif secara budaya.
 
 - **Budaya Barat (Eropa/AS):** Kontak mata langsung dianggap sebagai tanda kejujuran, kepercayaan diri, dan perhatian. Menghindari tatapan mata sering dianggap mencurigakan.
 - **Sebagian budaya Asia dan Afrika:** Kontak mata yang terlalu lama atau intens bisa dianggap sebagai tantangan, agresi, atau kurangnya rasa hormat (terutama kepada atasan atau orang tua).
 
-**Contoh Skenario:** Seorang mahasiswa internasional dari Asia Timur sedang ditegur oleh dosennya di Amerika. Mahasiswa tersebut menundukkan kepala sebagai tanda hormat. Namun, sang dosen merasa mahasiswa tersebut tidak mendengarkan atau menyembunyikan sesuatu karena tidak mau menatap matanya. Ini adalah **kegagalan integrasi non-verbal**.
+**Contoh Skenario:** Seorang mahasiswa internasional dari Asia Timur sedang ditegur oleh dosennya di Amerika. Mahasiswa tersebut menundukkan kepala sebagai tanda hormat. Namun, sang dosen merasa mahasiswa tersebut tidak mendengarkan atau menyembunyikan sesuatu karena tidak mau menatap matanya. Ini adalah **kegagalan integrasi nonverbal**.
 
 ### 5\. Kronemik dan Bahasa Waktu
 
-Waktu adalah pesan non-verbal yang kuat. Bagaimana kamu memperlakukan waktu menentukan seberapa cepat kamu akan diterima di lingkungan profesional.
+Waktu adalah pesan nonverbal yang kuat. Bagaimana kamu memperlakukan waktu menentukan seberapa cepat kamu akan diterima di lingkungan profesional.
 
 - **Waktu Monokronik (Linear):** Di Jerman atau Swiss, "Waktu adalah uang". Datang terlambat 5 menit adalah penghinaan besar.
 - **Waktu Polikronik (Sirkular):** Di banyak budaya Afrika atau Amerika Latin, hubungan manusia lebih penting daripada jadwal. Rapat mungkin dimulai terlambat, tetapi tidak ada yang merasa stres karenanya.
@@ -56,6 +56,6 @@ Bagaimana cara menerapkan pengetahuan ini secara praktis? Gunakan metode **"The 
 2. **Mirroring (Penyelarasan):** Secara halus, tirulah bahasa tubuh lawan bicara kamu. Jika mereka berbicara dengan tenang dan tangan berada di bawah, jangan berbicara dengan gerakan tangan yang lebar. Ini menciptakan rasa aman secara psikologis bagi penduduk lokal.
 3. **Verifikasi Verbal:** Jika kamu ragu, gunakan kalimat terbuka: *"Saya menyadari di sini orang-orang cenderung \[X\], apakah saya melakukannya dengan benar?"*
 
-> **Pesan Utama:** Integrasi tidak membuatmu kehilangan jati diri, melainkan memperkaya "perbendaharaan kata" tubuh kamu. Memahami komunikasi non-verbal akan mengubah kamu dari seorang "orang asing yang aneh" menjadi "orang asing yang peka dan menghormati".
+> **Pesan Utama:** Integrasi tidak membuatmu kehilangan jati diri, melainkan memperkaya "perbendaharaan kata" tubuh kamu. Memahami komunikasi nonverbal akan mengubah kamu dari seorang "orang asing yang aneh" menjadi "orang asing yang peka dan menghormati".
 
 *Sudahkah kamu memperhatikan bagaimana cara orang-orang di sekitar kamu saat ini menggunakan tangan mereka saat berbicara? Coba amati satu hal kecil hari ini yang sebelumnya tidak pernah kamu sadari.*

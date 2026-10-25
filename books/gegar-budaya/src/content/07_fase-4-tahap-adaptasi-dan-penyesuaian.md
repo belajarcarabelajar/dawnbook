@@ -29,7 +29,7 @@ Pada titik ini, individu biasanya menunjukkan perubahan perilaku dan mental yang
 
 ## Efisiensi Energi dalam Adaptasi
 
-Secara psikologis, adaptasi dapat digambarkan dengan model efisiensi energi. Pada awal kedatangan, input energi mental yang kamu keluarkan sangat besar namun output fungsionalnya kecil. Di tahap ini, rumusnya berbalik:
+Secara psikologis, adaptasi dapat digambarkan dengan model efisiensi energi. Pada awal kedatangan, input energi mental yang kamu keluarkan sangat besar tetapi output fungsionalnya kecil. Di tahap ini, rumusnya berbalik:
 
 $$
 \text{E}_{\text{fisiensi}} = \frac{\text{Output (Fungsi Sosial)}}{\text{Input (Usaha Mental)}}
@@ -49,7 +49,7 @@ Maya adalah seorang profesional dari Indonesia yang pindah ke Berlin.
 
 ## Strategi Mempertahankan Fase Adaptasi
 
-Mencapai fase ini adalah prestasi besar, namun perawatan mental tetap diperlukan agar tidak merosot kembali saat menghadapi stresor baru:
+Mencapai fase ini adalah prestasi besar, tetapi perawatan mental tetap diperlukan agar tidak merosot kembali saat menghadapi stresor baru:
 
 - **Teruslah Menjadi Pelajar:** Budaya bersifat dinamis. Tetaplah terbuka terhadap perubahan-perubahan kecil di lingkungan sekitar.
 - **Jaga Jaringan Sosial Campuran:** Memiliki teman lokal membantu integrasi, sementara memiliki teman sesama ekspatriat memberikan ruang untuk berbagi perasaan yang hanya dipahami oleh orang asing.

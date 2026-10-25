@@ -56,7 +56,7 @@ Manusia adalah makhluk sosial. Di lingkungan baru, jaringan sosial adalah "banta
 
 1. **Lapis Lokal (The Local Guides):** Berteman dengan penduduk asli. Mereka bisa membantu kamu memahami norma yang tak tertulis.
 2. **Lapis Senasib (The Expat Community):** Orang-orang yang juga sedang beradaptasi. Mereka memberikan validasi bahwa perasaan kamu normal.
-3. **Lapis Akar (Home Connection):** Keluarga dan teman di negara asal. Mereka adalah pengingat identitas asli kamu, namun jangan sampai terlalu bergantung hingga menghambat sosialisasi lokal.
+3. **Lapis Akar (Home Connection):** Keluarga dan teman di negara asal. Mereka adalah pengingat identitas asli kamu, tetapi jangan sampai terlalu bergantung hingga menghambat sosialisasi lokal.
 
 **Tips Membangun Koneksi:**
 

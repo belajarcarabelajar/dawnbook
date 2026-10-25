@@ -6,7 +6,7 @@ Gegar budaya lebih dari sekadar "perasaan asing". Ini adalah reaksi sistemik yan
 
 ## 1. Gejala Psikologis
 
-Gejala psikologis sering kali menjadi tanda pertama yang muncul, namun paling sulit diidentifikasi karena sifatnya yang subjektif.
+Gejala psikologis sering kali menjadi tanda pertama yang muncul, tetapi paling sulit diidentifikasi karena sifatnya yang subjektif.
 
 ### Kecemasan dan Ketegangan yang Menetap
 
@@ -80,11 +80,11 @@ $$
 $$
 </div>
 
-Dalam kondisi itu, $E\_{\text{sisa}}$ menjadi negatif. Inilah titik di mana gejala fisik dan psikologis mulai muncul sebagai "alarm" sistem.
+Dalam kondisi itu, $E\_{\text{sisa}}$ menjadi negatif. Inilah titik ketika gejala fisik dan psikologis mulai muncul sebagai "alarm" sistem.
 
 ## Kisah Budi di Jerman
 
-**Kisah Budi di Jerman** Budi baru pindah ke Berlin untuk bekerja. Pada bulan kedua, ia mulai sering mengalami sakit kepala hebat setiap sore. Ia juga merasa marah ketika kasir supermarket menegurnya karena tidak menyusun belanjaan dengan cepat. Budi mengira ia sakit fisik, namun setelah berkonsultasi, ia menyadari bahwa ia mengalami gejala gegar budaya. Tubuhnya bereaksi terhadap stres karena terus-menerus harus menerjemahkan bahasa Jerman dan memahami etika antrean yang ketat.
+**Kisah Budi di Jerman** Budi baru pindah ke Berlin untuk bekerja. Pada bulan kedua, ia mulai sering mengalami sakit kepala hebat setiap sore. Ia juga merasa marah ketika kasir supermarket menegurnya karena tidak menyusun belanjaan dengan cepat. Budi mengira ia sakit fisik, tetapi setelah berkonsultasi, ia menyadari bahwa ia mengalami gejala gegar budaya. Tubuhnya bereaksi terhadap stres karena terus-menerus harus menerjemahkan bahasa Jerman dan memahami etika antrean yang ketat.
 
 **Apa yang dialami Budi?**
 

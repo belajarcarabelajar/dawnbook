@@ -19,7 +19,7 @@ Bayangkan otak kamu adalah sebuah komputer yang terbiasa menjalankan **Windows**
 Istilah *Culture Shock* dipopulerkan oleh antropolog **Kalervo Oberg** pada tahun 1954. Pada awalnya, Oberg memandang fenomena ini hampir seperti sebuah "penyakit pekerjaan" (*occupational disease*).
 
 - **Tahun 1950-an:** Oberg mengamati para diplomat dan pekerja bantuan internasional. Ia melihat bahwa mereka menunjukkan gejala fisik dan emosional yang nyata saat bertugas di luar negeri.
-- **Pergeseran Pandangan:** Awalnya dianggap sebagai gangguan mental negatif, namun seiring berjalannya waktu, para ahli psikologi mulai melihat gegar budaya sebagai **proses transisi yang sehat dan normal**.
+- **Pergeseran Pandangan:** Awalnya dianggap sebagai gangguan mental negatif, tetapi seiring berjalannya waktu, para ahli psikologi mulai melihat gegar budaya sebagai **proses transisi yang sehat dan normal**.
 - **Pentingnya Hal Ini:** Pemahaman baru ini menunjukkan bahwa ketidaknyamanan di tempat baru bukanlah tanda kelemahan karakter, melainkan respons alami otak manusia terhadap ketidakpastian.
 
 ## Mengapa Fenomena Ini Penting bagi Kamu?

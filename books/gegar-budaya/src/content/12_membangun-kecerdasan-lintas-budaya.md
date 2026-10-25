@@ -6,7 +6,7 @@ Di sinilah kita masuk ke konsep **Cultural Intelligence (CQ)** atau Kecerdasan L
 
 ## 1. CQ Ibarat Adaptor Universal
 
-Bayangkan kamu memiliki sebuah peralatan elektronik yang canggih (diri kamu), namun kamu harus bepergian ke berbagai negara dengan jenis stopkontak yang berbeda-beda.
+Bayangkan kamu memiliki sebuah peralatan elektronik yang canggih (diri kamu), tetapi kamu harus bepergian ke berbagai negara dengan jenis stopkontak yang berbeda-beda.
 
 - Orang dengan **CQ rendah** akan mencoba memaksa steker mereka masuk ke lubang yang tidak cocok, yang berisiko merusak alat tersebut atau menyebabkan korsleting.
 - Orang dengan **CQ tinggi** adalah mereka yang membawa **Adaptor Universal**. Mereka tidak mengubah identitas asli alat tersebut, tetapi mereka memiliki kemampuan untuk menyesuaikan koneksinya sehingga tetap bisa berfungsi di mana pun mereka berada.
@@ -42,7 +42,7 @@ Bagaimana kamu memahami pengalaman budaya kamu? Ini adalah penghubung antara pen
 
 ### D. CQ Action (Tindakan)
 
-Kemampuan untuk mengubah perilaku verbal dan non-verbal.
+Kemampuan untuk mengubah perilaku verbal dan nonverbal.
 
 - Kapan harus mengubah nada bicara?
 - Kapan harus menggunakan gerakan tangan tertentu?

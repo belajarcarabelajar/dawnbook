@@ -2,7 +2,7 @@
 
 Pernahkah kamu membayangkan bahwa pulang ke rumah sendiri bisa terasa lebih asing daripada saat kamu pertama kali menginjakkan kaki di negeri orang? Jika kamu merasa seperti orang asing di tanah kelahiran sendiri, tenanglah, kamu tidak sedang kehilangan akal. Kamu sedang mengalami **Gegar Budaya Balik** (*Reverse Culture Shock*).
 
-Sering kali, kita mempersiapkan mental dengan sungguh-sungguh saat akan pergi ke luar negeri, namun kita lupa menyiapkan mental untuk saat kembali. Fenomena ini sering kali lebih menyakitkan karena ia datang tanpa peringatan dan terjadi di tempat yang seharusnya kita rasa "paling aman".
+Sering kali, kita mempersiapkan mental dengan sungguh-sungguh saat akan pergi ke luar negeri, tetapi kita lupa menyiapkan mental untuk saat kembali. Fenomena ini sering kali lebih menyakitkan karena ia datang tanpa peringatan dan terjadi di tempat yang seharusnya kita rasa "paling aman".
 
 ## Apa Itu Gegar Budaya Balik?
 
@@ -23,7 +23,7 @@ $$
 D_{r} = \int_{t_0}^{t_1} (I \times \Delta C) dt
 $$
 
-Di mana:
+Keterangan:
 
 - $D_{r}$: Derajat Gegar Budaya Balik (*Difficulty of Re-entry*)
 - $I$: Intensitas integrasi dengan budaya asing.
@@ -96,7 +96,7 @@ Buatlah jurnal untuk memetakan nilai-nilai baru yang kamu dapatkan. Contohnya, s
 
 > - **Nilai yang saya bawa pulang:** kemandirian, ketepatan waktu.
 > - **Nilai lama yang ingin saya peluk kembali:** keramahtamahan, kekeluargaan.
-> - **Titik temu:** saya akan tetap mandiri, namun tetap menghormati hierarki keluarga.
+> - **Titik temu:** saya akan tetap mandiri, tetapi tetap menghormati hierarki keluarga.
 
 ### 4\. Jadilah Turis di Kota Sendiri
 
