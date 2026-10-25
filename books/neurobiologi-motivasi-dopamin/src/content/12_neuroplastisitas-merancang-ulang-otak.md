@@ -6,7 +6,7 @@ Kamu sudah mempelajari cara kerja dopamin, bagaimana sistem *reward* bisa "rusak
 
 Jawabannya adalah **tidak**.
 
-Alasannya adalah **Neuroplastisitas**, kemampuan otak manusia untuk berubah, beradaptasi, dan menyusun ulang dirinya sendiri sebagai respons terhadap pengalaman, perilaku, dan lingkungan. Bab penutup ini menunjukkan bahwa kamu bisa ikut membentuk otakmu sendiri.
+Alasannya adalah **neuroplastisitas**, kemampuan otak manusia untuk berubah, beradaptasi, dan menyusun ulang dirinya sendiri sebagai respons terhadap pengalaman, perilaku, dan lingkungan. Bab penutup ini menunjukkan bahwa kamu bisa ikut membentuk otakmu sendiri.
 
 ### Apa Itu Neuroplastisitas?
 
@@ -18,11 +18,11 @@ Dahulu, para ilmuwan percaya bahwa otak berhenti berkembang setelah masa kanak-k
 
 ### LTP dan LTD
 
-Bagaimana sebenarnya otak "belajar" untuk berubah? Ada dua proses utama yang terjadi di tingkat sinapsis (celah antar sel saraf):
+Bagaimana sebenarnya otak "belajar" untuk berubah? Ada dua proses utama yang terjadi di tingkat sinapsis (titik pertemuan antarsel saraf):
 
 #### 1. Long-Term Potentiation (LTP)
 
-Ini adalah proses penguatan hubungan antar neuron. Ketika dua neuron berkomunikasi secara berulang-ulang, efisiensi transmisi sinyal di antara keduanya meningkat.
+Ini adalah proses penguatan hubungan antarneuron. Ketika dua neuron berkomunikasi secara berulang-ulang, efisiensi transmisi sinyal di antara keduanya meningkat.
 
 - **Analogi:** Bayangkan sebuah jalan setapak di hutan. Semakin sering kamu melewatinya, semak-semak akan tersingkap, tanah menjadi padat, dan jalan tersebut menjadi semakin mudah dilalui.
 - **Prinsip Hebb:** Donald Hebb (1949) mengemukakan bahwa hubungan antara dua neuron menguat ketika satu neuron berulang kali ikut memicu aktivitas neuron lainnya. Rima populer *"neurons that fire together, wire together"* (neuron yang menyala bersama akan terhubung bersama) bukan kalimat Hebb sendiri, melainkan varian dari rima yang diperkenalkan Carla Shatz (1992), *"cells that fire together, wire together"*, seperti dicatat Keysers dan Gazzola (2014).
@@ -35,7 +35,7 @@ Sebaliknya, LTD adalah proses pelemahan koneksi saraf. Jika sebuah jalur saraf j
 
 | Mekanisme | Definisi Utama | Dampak pada Sirkuit Saraf | Analogi Sederhana |
 | :--- | :--- | :--- | :--- |
-| **LTP** (*Long-Term Potentiation*) | Penguatan koneksi sinapsis akibat stimulasi berulang. | Jalur saraf menjadi lebih tebal dan sinyal lebih cepat. | Jalan setapak yang sering dilalui menjadi jalan tol. |
+| **LTP** (*Long-Term Potentiation*) | Penguatan koneksi sinapsis akibat stimulasi berulang. | Transmisi sinyal antarneuron menjadi lebih efisien. | Jalan setapak yang sering dilalui menjadi jalan tol. |
 | **LTD** (*Long-Term Depression*) | Pelemahan koneksi sinapsis akibat hilangnya aktivitas. | Jalur saraf menyusut dan dipangkas (*pruning*). | Jalan setapak yang ditinggalkan ditumbuhi semak kembali. |
 
 Dalam matematika biologi, kekuatan sinapsis ($W$) dapat digambarkan secara sederhana sebagai fungsi dari frekuensi penggunaan ($f$):
@@ -44,7 +44,7 @@ $$
 \Delta W \propto f(A, B)
 $$
 
-Di mana perubahan kekuatan ($\Delta W$) berbanding lurus dengan aktivitas sinkron antara neuron $A$ dan neuron $B$.
+Artinya, perubahan kekuatan ($\Delta W$) berbanding lurus dengan aktivitas sinkron antara neuron $A$ dan neuron $B$.
 
 ### Melatih Ulang Sirkuit Motivasi Kamu
 
@@ -66,23 +66,23 @@ Otak tidak berubah karena satu aktivitas besar, melainkan karena pengulangan kec
 
 #### 3. Myelination dan Percepatan Koneksi
 
-Setiap kali kamu mengulang perilaku positif, sel-sel saraf kamu akan mulai dibungkus oleh **Myelin**, lapisan lemak isolasi. Myelin berfungsi seperti kabel serat optik yang mempercepat transmisi sinyal saraf. Semakin banyak myelin, semakin "otomatis" dan "ringan" sebuah kebiasaan terasa.
+Setiap kali kamu mengulang perilaku positif, akson sel-sel saraf kamu akan mulai dibungkus oleh **Myelin**, lapisan lemak isolasi. Myelin berfungsi seperti lapisan isolasi pada kabel listrik dan mempercepat transmisi sinyal saraf. Semakin banyak myelin, semakin "otomatis" dan "ringan" sebuah kebiasaan terasa.
 
 ### Dari *Scrolling* ke *Deep Work*
 
 Mari kita lihat skenario nyata bagaimana neuroplastisitas bekerja dalam memulihkan sistem motivasi seseorang yang kecanduan media sosial.
 
-| Periode Waktu | Tindakan & Kebiasaan | Kondisi & Respon Otak | Status Neuroplastisitas |
+| Periode Waktu | Tindakan & Kebiasaan | Kondisi & Respons Otak | Status Neuroplastisitas |
 | :--- | :--- | :--- | :--- |
-| **Minggu 1: Penolakan** | Menghapus aplikasi sosial media atau membatasi penggunaan secara drastis. | Reseptor dopamin yang mengalami *downregulation* merasa lapar. Muncul rasa bosan dan gelisah. | **LTD pada Jalur Lama:** Jalur saraf lama mulai melemah. |
-| **Minggu 2–4: Pembangunan** | Melakukan aktivitas bermakna (belajar hal baru, olahraga) setiap hari jam sama. | Neuron di *prefrontal cortex* (pusat kendali diri) lebih sering berkomunikasi. | **LTP pada Jalur Baru:** Jalan setapak baru mulai terbentuk. |
-| **Bulan 3: Otomatisasi** | Kebiasaan baru dilakukan hampir tanpa usaha ekstra (otomatis). | Jalur saraf baru terbungkus Myelin dengan tebal. | **Myelination:** Sirkuit kontrol diri lebih kuat dari impulsif. |
+| **Minggu 1: Penolakan** | Menghapus aplikasi media sosial atau membatasi penggunaan secara drastis. | Reseptor dopamin yang mengalami *downregulation* merasa lapar. Muncul rasa bosan dan gelisah. | **LTD pada Jalur Lama:** Jalur saraf lama mulai melemah. |
+| **Minggu 2–4: Pembangunan** | Melakukan aktivitas bermakna (belajar hal baru, olahraga) setiap hari pada jam yang sama. | Neuron di *prefrontal cortex* (pusat kendali diri) lebih sering berkomunikasi. | **LTP pada Jalur Baru:** Jalan setapak baru mulai terbentuk. |
+| **Bulan 3: Otomatisasi** | Kebiasaan baru dilakukan hampir tanpa usaha ekstra (otomatis). | Jalur saraf baru terbungkus Myelin dengan tebal. | **Myelination:** Sirkuit kontrol diri lebih kuat daripada sirkuit impulsif. |
 
 ### Strategi Praktis untuk Memicu Neuroplastisitas
 
 Untuk mempercepat perubahan otak, kamu bisa menggunakan bantuan biologis berikut:
 
-1. **Tidur yang Cukup:** Perubahan struktural pada sinapsis (LTP) paling banyak terjadi saat tidur nyenyak. Tanpa tidur, informasi tidak akan "terpatri" secara permanen di otak.
+1. **Tidur yang Cukup:** Perubahan struktural pada sinapsis (LTP) dapat dimantapkan saat tidur nyenyak. Tanpa tidur, informasi tidak akan "terpatri" secara permanen di otak.
 2. **Latihan Aerobik:** Olahraga meningkatkan produksi **BDNF** (*Brain-Derived Neurotrophic Factor*). BDNF sering disebut sebagai "pupuk" bagi otak yang mempermudah pertumbuhan neuron baru.
 3. **Fokus Intens (*Deep Work*):** Neuroplastisitas pada orang dewasa memerlukan perhatian penuh. Saat kamu fokus secara intens, otak melepaskan asetilkolin yang menandai neuron mana yang harus berubah.
 

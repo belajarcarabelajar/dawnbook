@@ -8,9 +8,9 @@ Secara logika, jika kita tidak menikmati sesuatu, kita seharusnya berhenti. Namu
 
 ### 1. Mengapa Kita Mengejar yang Tidak Kita Nikmati?
 
-Tradisionalnya, para ilmuwan menganggap bahwa kita menginginkan sesuatu karena kita menyukainya. Namun, penelitian dari **Dr. Kent Berridge** di University of Michigan mengubah paradigma ini. Ia menemukan bahwa sistem saraf yang mengatur "keinginan" berbeda secara anatomis dan kimiawi dengan sistem yang mengatur "kenikmatan".
+Secara tradisional, para ilmuwan menganggap bahwa kita menginginkan sesuatu karena kita menyukainya. Namun, penelitian dari **Dr. Kent Berridge** di University of Michigan mengubah paradigma ini. Ia menemukan bahwa sistem saraf yang mengatur "keinginan" berbeda secara anatomis dan kimiawi dengan sistem yang mengatur "kenikmatan".
 
-> **Insight Utama:** Adiksi terjadi ketika sistem *Wanting* menjadi sangat sensitif (hiperaktif), sementara sistem *Liking* justru melemah. Inilah alasan mengapa seorang pecandu tetap mencari zat atau perilaku tertentu meskipun hal tersebut sudah tidak memberikan kebahagiaan lagi.
+> **Insight Utama:** Adiksi terjadi ketika sistem *Wanting* menjadi sangat sensitif (hiperaktif), sementara sistem *Liking* tidak ikut meningkat, bahkan dapat melemah. Inilah alasan mengapa seorang pecandu tetap mencari zat atau perilaku tertentu meskipun hal tersebut sudah tidak memberikan kebahagiaan lagi.
 
 ---
 
@@ -38,13 +38,13 @@ Ini adalah sensasi kenikmatan murni saat kamu mendapatkan atau mengonsumsi imbal
 
 ### 3. Dinamika dalam Siklus Adiksi
 
-Dalam kondisi sehat, *wanting* dan *liking* berjalan selaras. Namun, dalam siklus adiksi (baik itu zat, gadget, atau judi), terjadi pergeseran yang berbahaya:
+Dalam kondisi sehat, *wanting* dan *liking* berjalan selaras. Namun, dalam siklus adiksi (baik itu zat, gadget, maupun judi), terjadi pergeseran yang berbahaya:
 
 #### Sensitisasi *Wanting*
 Setiap kali otak terpapar stimulus yang memicu dopamin secara masif, sirkuit *wanting* mengalami **sensitisasi**. Artinya, sirkuit ini menjadi semakin peka terhadap petunjuk (*cues*) yang berkaitan dengan objek tersebut. Contoh: Hanya dengan melihat ikon aplikasi media sosial, otakmu sudah melepaskan dopamin dalam jumlah besar, menciptakan dorongan kuat untuk membukanya.
 
 #### Desensitisasi *Liking* (Toleransi)
-Di sisi lain, karena otak terpapar terus-menerus, ia melakukan proteksi diri dengan mengurangi jumlah reseptor kesenangan. Ini disebut **downregulation**. Akibatnya, kamu membutuhkan dosis yang lebih tinggi hanya untuk merasakan tingkat kenikmatan yang sama dengan sebelumnya.
+Di sisi lain, karena otak terpapar terus-menerus, ia melakukan proteksi diri dengan mengurangi jumlah dan sensitivitas reseptor. Ini disebut ***downregulation***. Akibatnya, kamu membutuhkan dosis yang lebih tinggi hanya untuk merasakan tingkat kenikmatan yang sama dengan sebelumnya.
 
 **Hubungan matematis ini dapat digambarkan sebagai:**
 
@@ -82,7 +82,7 @@ Memahami perbedaan ini adalah kunci untuk mendapatkan kembali kendali atas peril
    Saat melakukan aktivitas yang menyenangkan, cobalah untuk benar-benar hadir. Rasakan sensasi fisiknya. Ini membantu memperkuat sirkuit *liking* yang sehat dan alami, yang cenderung bekerja lebih tenang dan dalam daripada lonjakan dopamin instan.
 
 4. **Lakukan Interupsi Pola (*Pattern Interrupt*)**  
-   Gunakan jeda fisik. Jika terjebak dalam siklus mengulang aplikasi, letakkan ponsel di ruangan lain dan berjalan kaki selama 2 menit. Perubahan lingkungan fisik dapat membantu menurunkan intensitas aktivitas di *Nucleus Accumbens*.
+   Gunakan jeda fisik. Jika terjebak dalam siklus terus membuka aplikasi, letakkan ponsel di ruangan lain dan berjalan kaki selama 2 menit. Perubahan lingkungan fisik dapat membantu menurunkan intensitas aktivitas di *Nucleus Accumbens*.
 
 ---
 

@@ -2,7 +2,7 @@
 
 Pernahkah kamu memesan secangkir kopi di kedai baru tanpa ekspektasi tinggi, lalu terkejut karena rasanya enak? Kamu merasa senang dan mungkin ingin kembali lagi besok. Sebaliknya, bayangkan kamu pergi ke restoran berbintang lima dengan ekspektasi tinggi, namun makanannya terasa biasa saja. Kamu merasa kecewa, padahal makanannya tidak buruk.
 
-Fenomena ini bukan sekadar masalah selera, melainkan hasil dari perhitungan matematis yang dilakukan otakmu setiap saat. Inilah yang disebut dengan **Reward Prediction Error (RPE)** atau Error Prediksi Imbalan.
+Fenomena ini bukan sekadar masalah selera, melainkan hasil dari perhitungan matematis yang dilakukan otakmu setiap saat. Inilah yang disebut dengan **Reward Prediction Error (RPE)** atau Kesalahan Prediksi Imbalan.
 
 ---
 
@@ -24,7 +24,7 @@ Otak menggunakan selisih ini sebagai sinyal pembelajaran utama untuk memperbarui
 
 Otak merespons hasil perhitungan RPE dalam tiga skenario utama:
 
-| Kondisi RPE | Rumus Matematis | Respon Otak (Dopamin) | Hasil & Perilaku |
+| Kondisi RPE | Rumus Matematis | Respons Otak (Dopamin) | Hasil & Perilaku |
 | :--- | :--- | :--- | :--- |
 | **Positive Prediction Error** | $\text{Aktual} > \text{Ekspektasi}$ | Lonjakan dopamin besar (**Dopamin Fasik**) | Kamu merasa sangat senang dan termotivasi mengulangi tindakan tersebut. |
 | **Negative Prediction Error** | $\text{Aktual} < \text{Ekspektasi}$ | Dopamin anjlok di bawah level dasar (*baseline*) | Kamu merasa kecewa, frustrasi, dan cenderung menghindari perilaku itu. |
@@ -34,7 +34,7 @@ Otak merespons hasil perhitungan RPE dalam tiga skenario utama:
 
 ### Peran Neuron Dopamin
 
-Bagaimana otak menjalankan kalkulasi ini secara kuantitatif? Fokus utamanya ada pada neuron dopaminergik di area **Ventral Tegmental Area (VTA)**.
+Bagaimana otak menjalankan kalkulasi ini secara kuantitatif? Fokus utamanya ada pada neuron dopaminergik di **Ventral Tegmental Area (VTA)**.
 
 Ketika kamu menghadapi sebuah tanda atau sinyal (misalnya melihat logo restoran favorit), otak mulai melepaskan dopamin berdasarkan ekspektasi awal:
 
@@ -66,7 +66,7 @@ Sebuah perusahaan rintisan (*startup*) sering memberikan diskon besar-besaran di
 Memberikan perhatian atau hadiah kecil secara tiba-tiba tanpa alasan khusus (kejutan) memicu RPE positif yang jauh lebih berkesan dibandingkan memberikan hadiah mewah yang sudah lama diminta atau direncanakan.
 
 #### 3. Pembelajaran dan Pendidikan
-Seorang pendidik yang memanfaatkan metode bervariasi serta memberikan tantangan yang pas (tidak terlalu mudah, tidak terlalu sulit) akan menjaga peserta didik dalam kondisi RPE positif yang stabil, yang membantu mereka memasuki *flow state* atau konsentrasi penuh.
+Seorang pendidik yang memanfaatkan metode bervariasi serta memberikan tantangan yang pas (tidak terlalu mudah, tidak terlalu sulit) akan terus memberi peserta didik kejutan positif kecil (RPE positif) secara berkala, yang dapat membantu mereka memasuki *flow state* atau konsentrasi penuh.
 
 ---
 

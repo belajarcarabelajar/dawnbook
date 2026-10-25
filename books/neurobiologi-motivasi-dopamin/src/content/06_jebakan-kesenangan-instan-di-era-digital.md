@@ -8,7 +8,7 @@ Inilah era **Supernormal Stimuli**, masa ketika teknologi dan industri makanan m
 
 Otak manusia berevolusi di lingkungan yang langka sumber daya. Di masa lalu, mendapatkan makanan manis atau interaksi sosial adalah hal yang sulit dan membutuhkan usaha besar. Oleh karena itu, otak kita mengembangkan sistem motivasi yang sangat sensitif terhadap **imbalan (reward)**.
 
-Masalahnya, evolusi biologi berjalan sangat lambat, sementara evolusi teknologi berjalan sangat cepat. Kita memiliki otak pemburu-pengumpul (*hunter-gatherer*) yang hidup di dunia yang dipenuhi oleh "hutan digital" penuh dengan buah-buahan yang terlalu manis dan terlalu mudah didapat.
+Masalahnya, evolusi biologi berjalan sangat lambat, sementara evolusi teknologi berjalan sangat cepat. Kita memiliki otak pemburu-pengumpul (*hunter-gatherer*) yang hidup di dunia yang menyerupai "hutan digital" yang penuh dengan buah-buahan yang terlalu manis dan terlalu mudah didapat.
 
 > **Insight Penting:** Masalahnya bukan pada dopamin itu sendiri, melainkan pada kecepatan, kemudahan, dan intensitas stimulasi yang kita terima di era digital.
 
@@ -36,7 +36,7 @@ Hal ini menciptakan kondisi di mana otak terus-menerus berada dalam fase *wantin
 Makanan cepat saji dirancang secara laboratoris untuk mencapai "Bliss Point", kombinasi lemak, gula, dan garam yang tidak ditemukan secara alami di alam dalam konsentrasi setinggi itu.
 
 - **Stimulasi Berlebih:** Makanan ini merangsang reseptor rasa kita secara berlebihan, mengirimkan sinyal dopamin yang jauh lebih kuat daripada makanan alami (seperti buah atau sayuran).
-- **Short-circuiting Satiety:** Stimulasi dopamin yang masif dapat menumpulkan sinyal hormon leptin (hormon kenyang), sehingga kita terus makan meskipun perut sudah penuh secara fisik.
+- **Short-circuiting Satiety:** Stimulasi dopamin yang masif dapat melemahkan sinyal kenyang, sehingga kita terus makan meskipun sebenarnya sudah cukup.
 
 ## Dampak pada Struktur Otak dan Impulsivitas
 
@@ -46,7 +46,7 @@ Stimulasi berlebih yang kronis ini menyebabkan terjadinya pergeseran keseimbanga
 
 **Prefrontal Cortex** adalah pusat logika, perencanaan, dan kendali diri (rem otak). Di sisi lain, **Striatum** adalah pusat impuls dan pencarian kesenangan (gas otak). Stimulasi instan yang terus-menerus memperkuat sirkuit Striatum dan melemahkan koneksi ke PFC.
 
-Akibatnya, kita mengalami **Hyperbolic Discounting**, sebuah fenomena psikologis di mana kita cenderung memilih imbalan kecil yang instan daripada imbalan besar yang tertunda.
+Akibatnya, kita mengalami **Hyperbolic Discounting**, sebuah fenomena psikologis ketika kita cenderung memilih imbalan kecil yang instan daripada imbalan besar yang tertunda.
 
 Secara matematis, nilai yang dirasakan ($V$) dari sebuah imbalan dapat digambarkan dengan rumus:
 
@@ -83,10 +83,10 @@ Budi ingin belajar untuk ujian besok (imbalan jangka panjang). Namun, ia melihat
 
 Untuk menghindari jebakan ini, kita perlu melakukan "rekayasa lingkungan":
 
-1. **Hapus Gesekan (Friction):** Letakkan ponsel di ruangan lain saat bekerja. Jadikan kesenangan instan lebih sulit diakses.
+1. **Tambahkan Gesekan (Friction):** Letakkan ponsel di ruangan lain saat bekerja. Jadikan kesenangan instan lebih sulit diakses.
 2. **Gunakan Aturan 10 Menit:** Jika kamu merasa dorongan impulsif untuk membuka media sosial atau makan camilan, katakan pada diri sendiri: *"Boleh, tapi tunggu 10 menit."* Ini memberi waktu bagi PFC untuk "online" kembali dan mengambil alih kendali.
 3. **Matikan Notifikasi Non-Manusia:** Matikan semua notifikasi kecuali pesan langsung dari manusia nyata. Jangan biarkan algoritma menentukan kapan kamu harus memberikan perhatian.
 
 > **Pesan Utama:** Otak kamu tidak dirancang untuk menangani stimulasi yang terus-menerus. Menyadari bahwa kamu sedang "dipancing" oleh algoritma adalah langkah pertama untuk merebut kembali kendali atas perhatian dan motivasi kamu.
 
-*Coba renungkan: Dalam satu jam terakhir, berapa banyak tindakan yang kamu lakukan berdasarkan keputusan sadar, dan berapa banyak yang merupakan respon otomatis terhadap stimulasi instan?*
+*Coba renungkan: Dalam satu jam terakhir, berapa banyak tindakan yang kamu lakukan berdasarkan keputusan sadar, dan berapa banyak yang merupakan respons otomatis terhadap stimulasi instan?*

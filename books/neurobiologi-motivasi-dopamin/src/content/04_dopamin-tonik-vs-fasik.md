@@ -22,7 +22,7 @@ Untuk memahami perbedaan ini, bayangkan sebuah samudra:
 | Parameter | Dopamin Tonik (Baseline) | Dopamin Fasik (Spikes) |
 | :--- | :--- | :--- |
 | **Definisi** | Kadar dopamin yang bersirkulasi secara kontinu di otak. | Pelepasan dopamin mendadak sebagai respons terhadap pemicu. |
-| **Durasi & Durabilitas** | Stabil selama berjam-jam hingga berhari-hari. | Bertahan dalam hitungan milidetik hingga beberapa menit. |
+| **Durasi & Durabilitas** | Stabil selama berjam-jam hingga berhari-hari. | Bertahan dalam hitungan milidetik hingga detik. |
 | **Fungsi Utama** | Menentukan ambang batas motivasi dan kesiapan bertindak. | Mengarahkan perhatian dan mendorong eksekusi instan. |
 | **Pemicu Utama** | Pola hidup, tidur, nutrisi, ritme sirkadian, paparan cahaya. | Stimulus baru (*novelty*), pencapaian, notifikasi, makanan lezat. |
 | **Dampak saat Rendah** | Anhedonia, depresi, apatis, kelelahan mental. | Kurang responsif terhadap imbalan, sulit merasa gembira. |
@@ -70,7 +70,7 @@ Salah satu prinsip penting dalam neurobiologi adalah **homeostasis**. Otak selal
 
 Ketika kamu mengalami lonjakan dopamin fasik yang sangat tinggi (misalnya memenangkan lotre atau pesta semalam suntuk), otak akan merespons dengan menurunkan kadar dopamin tonik (baseline) di bawah level normal sebagai bentuk kompensasi. Inilah yang disebut sebagai *crash* atau penurunan suasana hati setelah kesenangan besar.
 
-> **Hukum Homeostasis:** Semakin tinggi lonjakan fasik yang kamu kejar secara tidak alami, semakin rendah baseline tonik kamu akan merosot di kemudian hari.
+> **Hukum Homeostasis:** Lonjakan fasik tinggi yang kamu kejar secara tidak alami cenderung diikuti penurunan baseline tonik di kemudian hari.
 
 #### Visualisasi Proses Downregulation
 
@@ -112,13 +112,13 @@ Bagaimana pengetahuan ini bisa membantu produktivitas kamu?
 
 #### Ketergantungan Kafein
 
-Kopi meningkatkan dopamin secara fasik. Jika dikonsumsi berlebihan, otak akan menurunkan baseline tonik kamu agar tidak "terlalu bersemangat". Akibatnya, kamu butuh kopi hanya untuk merasa "normal" (kembali ke baseline lama). 
+Kopi dapat meningkatkan sinyal dopamin. Jika dikonsumsi berlebihan, otak akan menurunkan baseline tonik kamu agar tidak "terlalu bersemangat". Akibatnya, kamu butuh kopi hanya untuk merasa "normal" (kembali ke baseline lama). 
 
 - **Strategi:** Gunakan *caffeine cycling* (istirahat konsumsi kopi secara periodik) untuk memulihkan baseline tonik.
 
 #### Berjam-jam di Media Sosial
 
-Scrolling TikTok atau Instagram memberikan rentetan dopamin fasik yang cepat. Hal ini menguras "cadangan" dopamin kamu. Itulah sebabnya setelah berjam-jam di media sosial, kamu merasa sangat sulit untuk mulai mengerjakan tugas yang membutuhkan fokus tinggi (seperti menulis laporan atau belajar).
+Scrolling TikTok atau Instagram memberikan rentetan dopamin fasik yang cepat. Hal ini dapat menurunkan kepekaan sistem dopamin kamu. Itulah sebabnya setelah berjam-jam di media sosial, kamu merasa sangat sulit untuk mulai mengerjakan tugas yang membutuhkan fokus tinggi (seperti menulis laporan atau belajar).
 
 - **Strategi:** Lakukan tugas yang paling sulit (*high effort*) saat baseline tonik kamu masih segar (biasanya pagi hari) sebelum terpapar stimulus fasik dari gadget.
 
@@ -129,7 +129,7 @@ Scrolling TikTok atau Instagram memberikan rentetan dopamin fasik yang cepat. Ha
 Bukan lonjakan fasik yang kita cari untuk kebahagiaan jangka panjang, melainkan **baseline tonik yang tinggi dan stabil**. Berikut caranya:
 
 1. **Paparan Cahaya Matahari Pagi:** Memicu pelepasan dopamin secara alami yang membantu mengatur ritme sirkadian dan baseline siang hari.
-2. **Paparan Dingin (Cold Plunge):** Penelitian menunjukkan mandi air dingin dapat meningkatkan kadar dopamin tonik hingga $250\text{\%}$ yang bertahan selama berjam-jam tanpa diikuti oleh *crash* yang drastis.
+2. **Paparan Dingin (Cold Plunge):** Satu penelitian menunjukkan berendam satu jam di air dingin (sekitar 14°C) dapat meningkatkan kadar dopamin dalam darah hingga $250\text{\%}$.
 3. **Asupan Tirosin:** Konsumsi makanan kaya asam amino tirosin (seperti telur, daging tanpa lemak, dan kacang-kacangan) sebagai bahan baku pembuat dopamin.
 4. **Menghindari Stimulasi Berlebih:** Membatasi penggunaan "dopamin murah" (junk food, pornografi, judi, scrolling tanpa henti) agar reseptor dopamin tetap sensitif.
 

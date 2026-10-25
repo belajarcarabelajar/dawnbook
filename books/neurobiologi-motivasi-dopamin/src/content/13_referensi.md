@@ -1,6 +1,6 @@
 ## Referensi Akademik
 
-Daftar berikut memuat karya ilmiah, artikel jurnal terindeks, dan literatur mendasar yang menjadi pijakan ilmiah dalam penyusunan buku ini. Seluruh referensi telah diselaraskan dengan standar **APA Style Edisi ke-7** dan dikelompokkan berdasarkan topik utama neurobiologi motivasi serta sistem dopaminergik. Jika kamu ingin mendalami lebih jauh mekanisme neurobiologis yang dibahas dalam bab-bab sebelumnya, sumber-sumber ini menyediakan bukti empiris dan kerangka teoritis yang dapat kamu eksplorasi.
+Daftar berikut memuat karya ilmiah, artikel jurnal terindeks, dan literatur mendasar yang menjadi pijakan ilmiah dalam penyusunan buku ini. Seluruh referensi telah diselaraskan dengan standar **APA Style Edisi ke-7** dan dikelompokkan berdasarkan topik utama neurobiologi motivasi serta sistem dopaminergik. Jika kamu ingin mendalami lebih jauh mekanisme neurobiologis yang dibahas dalam bab-bab sebelumnya, sumber-sumber ini menyediakan bukti empiris dan kerangka teoretis yang dapat kamu eksplorasi.
 
 ---
 
@@ -10,7 +10,7 @@ Berke, J. D. (2018). What does dopamine mean? *Nature Neuroscience*, *21*(6), 78
 
 Grace, A. A. (2016). Dysregulation of the dopamine system in the pathophysiology of schizophrenia and depression. *Nature Reviews Neuroscience*, *17*(8), 524–532. [https://doi.org/10.1038/nrn.2016.57](https://doi.org/10.1038/nrn.2016.57)
 
-Nestler, E. J., & Carlezon, W. A. (2006). The mesolimbic dopamine reward circuit in depression. *Biol Psychiatry*, *59*(12), 1151–1159. [https://doi.org/10.1016/j.biopsych.2005.09.018](https://doi.org/10.1016/j.biopsych.2005.09.018)
+Nestler, E. J., & Carlezon, W. A. (2006). The mesolimbic dopamine reward circuit in depression. *Biological Psychiatry*, *59*(12), 1151–1159. [https://doi.org/10.1016/j.biopsych.2005.09.018](https://doi.org/10.1016/j.biopsych.2005.09.018)
 
 Wise, R. A. (2004). Dopamine, learning and motivation. *Nature Reviews Neuroscience*, *5*(6), 483–494. [https://doi.org/10.1038/nrn1406](https://doi.org/10.1038/nrn1406)
 
@@ -44,7 +44,7 @@ Robinson, T. E., & Berridge, K. C. (1993). The neural basis of drug craving: An 
 
 Koob, G. F., & Le Moal, M. (2001). Drug addiction, dysregulation of reward, and allostasis. *Neuropsychopharmacology*, *24*(2), 97–129. [https://doi.org/10.1016/S0893-133X(00)00195-0](https://doi.org/10.1016/S0893-133X(00)00195-0)
 
-Lembke, A. (2021). [*Dopamine Nation: Finding Balance in the Age of Indulgence*](https://www.penguinrandomhouse.com/books/624823/dopamine-nation-by-anna-lembke-md/). New York: Dutton.
+Lembke, A. (2021). [*Dopamine Nation: Finding Balance in the Age of Indulgence*](https://www.penguinrandomhouse.com/books/624823/dopamine-nation-by-anna-lembke-md/). Dutton.
 
 Sepah, C. (2019). [*Dopamine Fasting 2.0: The Definitive Guide to Spending Time Abstain from Addictive Behaviors*](https://www.linkedin.com/pulse/dopamine-fasting-20-definitive-guide-spending-time-cameron-sepah). LinkedIn / California Psychiatry.
 
@@ -54,9 +54,9 @@ Volkow, N. D., Wise, R. A., & Baler, R. (2017). The dopamine motive system: Impl
 
 ### Delayed Gratification, Kontrol Diri, & Neuroplastisitas
 
-Casey, B. J., Somerville, L. H., Gotlib, I. H., Ayduk, O., Franklin, N. T., Askren, M. K., Jonides, J., Berman, M. G., Wilson, N. L., Teslovich, T., Glover, G., Calderon, V., Wolk, M. G., Davidson, R. J., & Mischel, W. (2011). Behavioral and neural correlates of delay of gratification 40 years later. *Proceedings of the National Academy of Sciences*, *108*(36), 14998–15003. [https://doi.org/10.1073/pnas.1108561108](https://doi.org/10.1073/pnas.1108561108)
+Casey, B. J., Somerville, L. H., Gotlib, I. H., Ayduk, O., Franklin, N. T., Askren, M. K., Jonides, J., Berman, M. G., Wilson, N. L., Teslovich, T., Glover, G., Zayas, V., Mischel, W., & Shoda, Y. (2011). Behavioral and neural correlates of delay of gratification 40 years later. *Proceedings of the National Academy of Sciences*, *108*(36), 14998–15003. [https://doi.org/10.1073/pnas.1108561108](https://doi.org/10.1073/pnas.1108561108)
 
-Doidge, N. (2007). [*The Brain That Changes Itself: Stories of Personal Triumph from the Frontiers of Brain Science*](https://www.penguinrandomhouse.com/books/298495/the-brain-that-changes-itself-by-norman-doidge-md/). New York: Viking Penguin.
+Doidge, N. (2007). [*The Brain That Changes Itself: Stories of Personal Triumph from the Frontiers of Brain Science*](https://www.penguinrandomhouse.com/books/298495/the-brain-that-changes-itself-by-norman-doidge-md/). Viking Penguin.
 
 Hebb, D. O. (2005). *The organization of behavior: A neuropsychological theory*. Psychology Press. (Karya asli diterbitkan 1949). [https://doi.org/10.4324/9781410612403](https://doi.org/10.4324/9781410612403)
 

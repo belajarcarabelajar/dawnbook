@@ -16,7 +16,7 @@ Sebelum membedah organ-organnya satu per satu, kita perlu mengenal **Jalur Mesol
 
 ### 1. Ventral Tegmental Area (VTA)
 
-Terletak jauh di bagian tengah otak (*midbrain*), **Ventral Tegmental Area (VTA)** adalah titik awal keinginan dan motivasi. Jika sistem reward diibaratkan sebuah kendaraan, maka VTA adalah mesin utamanya.
+Terletak jauh di bagian tengah otak (*midbrain*), **Ventral Tegmental Area (VTA)** adalah titik awal keinginan dan motivasi. Jika sistem reward diibaratkan sebuah kendaraan, maka VTA adalah pabrik bahan bakarnya.
 
 - **Peran Utama:** VTA merupakan rumah bagi badan sel saraf (neuron dopaminergik) yang memproduksi **dopamin**. Ketika otak mendeteksi rangsangan yang berpotensi memberikan imbalan (seperti aroma makanan lezat atau peluang baru yang menjanjikan), neuron di VTA akan menembakkan dopamin ke struktur otak lainnya.
 - **Analogi:** Bayangkan VTA sebagai **Pabrik Pengolahan Bahan Bakar**. VTA tidak menentukan ke mana kendaraan akan melaju, melainkan menyediakan energi dan bahan bakar motivasi agar kendaraan tersebut bisa bergerak.
@@ -27,9 +27,9 @@ Terletak jauh di bagian tengah otak (*midbrain*), **Ventral Tegmental Area (VTA)
 
 ### 2. Nucleus Accumbens (NAc)
 
-Dari VTA, dopamin mengalir melalui jalur mesolimbik menuju sebuah struktur bulat kecil di otak bagian bawah yang disebut **Nucleus Accumbens (NAc)**. Di sinilah terjadi integrasi antara dorongan emosional dan instruksi gerakan fisik.
+Dari VTA, dopamin mengalir melalui jalur mesolimbik menuju sebuah struktur bulat kecil di bagian bawah otak depan (striatum ventral) yang disebut **Nucleus Accumbens (NAc)**. Di sinilah terjadi integrasi antara dorongan emosional dan instruksi gerakan fisik.
 
-- **Peran Utama:** NAc berfungsi sebagai saklar eksekusi (*Go!*). NAc mengukur dan mengevaluasi intensitas sinyal dopamin yang dikirim dari VTA. Jika sinyal dopamin yang diterima cukup kuat, NAc memicu dorongan fisik untuk bertindak.
+- **Peran Utama:** NAc berfungsi sebagai sakelar eksekusi (*Go!*). NAc mengukur dan mengevaluasi intensitas sinyal dopamin yang dikirim dari VTA. Jika sinyal dopamin yang diterima cukup kuat, NAc memicu dorongan fisik untuk bertindak.
 - **Dua Sub-Struktur NAc:**
   1. **Core (Inti):** Berperan aktif dalam pengambilan keputusan motorik dan eksekusi tindakan langsung.
   2. **Shell (Cangkang):** Berhubungan erat dengan sistem emosi, pemrosesan rasa senang, dan pencarian hal-hal baru (*novelty seeking*).
@@ -39,17 +39,17 @@ Dari VTA, dopamin mengalir melalui jalur mesolimbik menuju sebuah struktur bulat
 
 ### 3. Prefrontal Cortex (PFC)
 
-Di bagian paling depan tempurung kepala manusia terdapat **Prefrontal Cortex (PFC)**. Struktur inilah yang membedakan manusia dari spesies lain dalam hal kapasitas perencanaan jangka panjang dan pengendalian diri.
+Di bagian paling depan tempurung kepala manusia terdapat **Prefrontal Cortex (PFC)**. Struktur inilah yang berperan besar dalam kapasitas perencanaan jangka panjang dan pengendalian diri manusia.
 
 - **Peran Utama:** PFC bertanggung jawab atas fungsi eksekutif, meliputi perencanaan strategis, penilaian moral, prediksi konsekuensi masa depan, dan pengendalian impuls. PFC bertindak sebagai "rem" atau "kemudi utama".
 - **Interaksi dengan Sistem Imbalan:** Saat VTA dan NAc berteriak *"Beli barang ini sekarang!"*, PFC mengambil alih dan memperingatkan *"Tunggu, alokasikan anggaran untuk kebutuhan prioritas minggu depan."*
-- **Analogi:** PFC adalah **CEO atau Navigasi Mobil**. PFC memantau gambaran besar dan menentukan apakah dorongan dari NAc layak ditindaklanjuti atau harus ditunda demi tujuan yang lebih penting.
+- **Analogi:** PFC adalah **CEO atau Rem dan Kemudi Mobil**. PFC memantau gambaran besar dan menentukan apakah dorongan dari NAc layak ditindaklanjuti atau harus ditunda demi tujuan yang lebih penting.
 
 ---
 
-### Bagaimana Komunikasi Antar-Struktur Terjadi?
+### Bagaimana Komunikasi Antarstruktur Terjadi?
 
-Komunikasi antar-struktur saraf ini berlangsung melalui sinapsis (celah antar-sel saraf) memanfaatkan neurotransmiter dopamin. Secara konseptual, dinamika motivasi dapat digambarkan melalui persamaan berikut:
+Komunikasi antarstruktur saraf ini berlangsung melalui sinapsis (titik pertemuan antarsel saraf) dengan memanfaatkan neurotransmiter dopamin. Secara konseptual, dinamika motivasi dapat digambarkan melalui persamaan berikut:
 
 <div>
 $$
@@ -81,7 +81,7 @@ Mengapa kita sering kali sulit berhenti menggulir media sosial meskipun menyadar
 2. **NAc Eksekusi:** Nucleus Accumbens menerima lonjakan dopamin dan menginstruksikan jari kamu untuk terus melakukan gerakan menggulir (*scrolling*).
 3. **PFC Defisit Kontrol:** Prefrontal Cortex mencoba memberi peringatan, namun karena stimulasi dari NAc terjadi secara konstan dan instan, fungsi "rem" dari PFC mengalami kelelahan (*executive fatigue*).
 
-> **Studi Kasus:** Pengembang platform digital merancang fitur *infinite scroll* khusus untuk menstimulasi VTA secara terus-menerus tanpa memberikan jeda waktu bagi PFC untuk mengambil alih kendali. Dengan memahami anatomi ini, kamu dapat menyadari bahwa kendala fokus bukanlah kelemahan karakter semata, melainkan interaksi bio-mekanis antara sirkuit pendorong dan sirkuit pengendali di dalam otak.
+> **Studi Kasus:** Fitur *infinite scroll* pada platform digital dapat menstimulasi VTA secara terus-menerus tanpa memberikan jeda waktu bagi PFC untuk mengambil alih kendali. Dengan memahami anatomi ini, kamu dapat menyadari bahwa kendala fokus bukanlah kelemahan karakter semata, melainkan interaksi neurobiologis antara sirkuit pendorong dan sirkuit pengendali di dalam otak.
 
 ---
 
@@ -90,9 +90,9 @@ Mengapa kita sering kali sulit berhenti menggulir media sosial meskipun menyadar
 | Komponen Otak | Analogi Kendaraan | Fungsi Utama |
 | :--- | :--- | :--- |
 | **VTA** | Mesin / Pabrik Bensin | Memproduksi dan menyalurkan dopamin ke jalur mesolimbik. |
-| **Nucleus Accumbens (NAc)** | Pedal Gas | Mengubah dorongan dopaminergik menjadi tindakan fisik konkrit. |
+| **Nucleus Accumbens (NAc)** | Pedal Gas | Mengubah dorongan dopaminergik menjadi tindakan fisik konkret. |
 | **Prefrontal Cortex (PFC)** | CEO / Rem / Kemudi | Menganalisis konsekuensi, mengatur impuls, dan menentukan arah jangka panjang. |
 
 ---
 
-> **Bahan Refleksi:** Dalam 24 jam mengingat kembali, aktivitas mana yang paling intens menekan "Pedal Gas" (Nucleus Accumbens) kamu, dan dalam momen apa "CEO" (Prefrontal Cortex) kamu berhasil memegang kendali penuh?
+> **Bahan Refleksi:** Coba ingat kembali 24 jam terakhir. Aktivitas mana yang paling intens menekan "Pedal Gas" (Nucleus Accumbens) kamu, dan dalam momen apa "CEO" (Prefrontal Cortex) kamu berhasil memegang kendali penuh?
