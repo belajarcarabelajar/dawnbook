@@ -1,6 +1,6 @@
-## Membedakan Multidisiplin, Interdisiplin, dan Transdisiplin
+## Membedakan Multidisiplin, Interdisipliner, dan Transdisiplin
 
-Belajar di era modern menuntut kita untuk membuka sudut pandang yang lebih luas dan terintegrasi demi memecahkan berbagai *complex problems*. Di sinilah istilah **multidisiplin** (*multidisciplinary*), **interdisiplin** (*interdisciplinary*), dan **transdisiplin** (*transdisciplinary*) kerap muncul untuk menggambarkan tingkat kolaborasi antardisiplin. Walau terdengar mirip, ketiganya menyimpan perbedaan mendasar pada pendekatan, tingkat integrasi, serta tujuan akhirnya. Memahami perbedaan ini penting agar kamu bisa memilih strategi paling tepat, baik dalam dunia pendidikan, riset, maupun penyelesaian masalah sehari-hari.
+Belajar di era modern menuntut kita untuk membuka sudut pandang yang lebih luas dan terintegrasi demi memecahkan berbagai *complex problems*. Di sinilah istilah **multidisiplin** (*multidisciplinary*), **interdisipliner** (*interdisciplinary*), dan **transdisiplin** (*transdisciplinary*) kerap muncul untuk menggambarkan tingkat kolaborasi antardisiplin. Walau terdengar mirip, ketiganya menyimpan perbedaan mendasar pada pendekatan, tingkat integrasi, serta tujuan akhirnya. Memahami perbedaan ini penting agar kamu bisa memilih strategi paling tepat, baik dalam dunia pendidikan, riset, maupun penyelesaian masalah sehari-hari.
 
 > *Ketiga pendekatan ini tidak saling bertentangan. Sebaliknya, ketiganya saling melengkapi dan menandai evolusi dalam proses *knowledge production* untuk menjawab tantangan yang kian rumit.*
 
@@ -18,7 +18,7 @@ Bagaimana contohnya di lapangan?
 *   **Public Policy Development**
     Ketika pemerintah merancang undang-undang baru, ahli hukum memeriksa kesesuaian konstitusi, ekonom menghitung beban anggaran, dan ilmuwan politik mengukur stabilitas sosial. Masing-masing menyumbang analisis berharga tanpa perlu memodifikasi metodologi dasar keilmuan mereka.
 
-### 2. Interdisciplinary (Interdisiplin)
+### 2. Interdisciplinary (Interdisipliner)
 
 Pendekatan **interdisciplinary** melangkah lebih jauh dengan membangun interaksi aktif antarberbagai disiplin ilmu. Di sini, fokus utamanya adalah mengintegrasikan konsep, metode, dan analisis secara bersamaan. Terjadi transfer dan percampuran sudut pandang, meskipun belum melebur seutuhnya. Pendekatan ini bersifat interaktif dan integratif secara parsial, dengan komunikasi berjalan intensif mulai dari perumusan masalah, pengumpulan data, hingga penarikan kesimpulan.
 

@@ -12,7 +12,7 @@ Secara lebih spesifik:
 - **Memperkaya perspektif:** Topik pembelajaran diperkaya dengan menggabungkan perspektif dari berbagai disiplin ilmu.
 - **Bersifat aditif:** Dalam konteks multidisiplin, disiplin-disiplin ilmu bekerja secara paralel pada aspek-aspek berbeda dari suatu topik tanpa harus meleburkan batasan masing-masing disiplin. Komunikasi antardisiplin dapat terjadi, tetapi kolaborasi mungkin lebih terbatas dibandingkan pendekatan lain seperti interdisipliner. Ahli dari masing-masing bidang tetap berada dalam disiplinnya saat menggabungkan perspektif.
 
-> **Bahan Pertimbangan:** Bagaimana membedakan antara "menggabungkan perspektif" dan "mengintegrasikan" perspektif dari berbagai disiplin ilmu? Perbedaan ini menjadi dasar untuk memahami nuansa antara multidisiplin dan interdisiplin yang akan dibahas lebih lanjut di bagian lain.
+> **Bahan Pertimbangan:** Bagaimana membedakan antara "menggabungkan perspektif" dan "mengintegrasikan" perspektif dari berbagai disiplin ilmu? Perbedaan ini menjadi dasar untuk memahami nuansa antara multidisiplin dan interdisipliner yang akan dibahas lebih lanjut di bagian lain.
 
 **Contoh Kasus Multidisiplin:**
 
@@ -22,7 +22,7 @@ Secara lebih spesifik:
 
 ### Sejarah Singkat Perkembangan Pembelajaran Multidisiplin
 
-Konsep "disiplin" sebagai cabang ilmu pengetahuan yang diajarkan dan diteliti sudah ada sejak akhir zaman kuno, diturunkan dari bahasa Latin 'disciplina' (pembelajaran). Seiring perkembangan berbagai disiplin ilmu, interaksi antardisiplin pun mulai terjadi, melahirkan istilah multidisiplin, interdisiplin, dan transdisiplin.
+Konsep "disiplin" sebagai cabang ilmu pengetahuan yang diajarkan dan diteliti sudah ada sejak akhir zaman kuno, diturunkan dari bahasa Latin 'disciplina' (pembelajaran). Seiring perkembangan berbagai disiplin ilmu, interaksi antardisiplin pun mulai terjadi, melahirkan istilah multidisiplin, interdisipliner, dan transdisiplin.
 
 Awalnya, pendekatan monodisipliner (fokus pada satu disiplin ilmu) mendominasi penelitian dan pendidikan, terutama hingga abad ke-19. Namun, seiring dengan peningkatan kompleksitas masalah sosial, ekonomi, dan lingkungan, keterbatasan pendekatan tunggal menjadi semakin disadari.
 
