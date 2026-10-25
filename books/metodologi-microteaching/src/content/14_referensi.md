@@ -16,7 +16,6 @@ Berikut adalah daftar literatur ilmiah, buku teks utama, dan artikel jurnal bere
 ### Artikel Jurnal Ilmiah dan Studi Empiris
 
 * Fernandez, M. L. (2010). Investigating how and what prospective teachers learn through microteaching lesson study. *Teaching and Teacher Education*, 26(2), 351–362. [https://doi.org/10.1016/j.tate.2009.09.012](https://doi.org/10.1016/j.tate.2009.09.012)
-* Mergler, A. G., & Spooner-Lane, R. (2012). Was microteaching useful? Preservice teachers' views on their microteaching experiences. *Australian Journal of Teacher Education*, 37(6), 86–96. [https://doi.org/10.14221/ajte.2012v37n6.4](https://doi.org/10.14221/ajte.2012v37n6.4)
 * Remesh, A. (2013). Microteaching, an efficient technique for learning effective teaching. *Journal of Research in Medical Sciences: The Official Journal of Isfahan University of Medical Sciences*, 18(2), 158–163. [https://pmc.ncbi.nlm.nih.gov/articles/PMC3724377/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3724377/)
 * Saban, A., & Coklar, A. N. (2013). Pre-service teachers' opinions about the micro-teaching method in teaching practise classes. *The Turkish Online Journal of Educational Technology*, 12(2), 234–240. [https://eric.ed.gov/?id=EJ1015454](https://eric.ed.gov/?id=EJ1015454)
 

@@ -84,7 +84,7 @@ Keterampilan ini berkaitan dengan menciptakan dan mempertahankan kondisi belajar
 
 **Contoh Logika Pengelolaan Kelas:**
 
-Saat siswa mulai gaduh, guru lebih dulu melakukan kontak mata dan berhenti berbicara sejenak. Jika kegaduhan berlanjut, guru menegur siswa dengan halus sambil menyebut namanya. Jika siswa tidak gaduh, pembelajaran dilanjutkan seperti biasa. Percabangan tindakan guru tersebut tergambar pada alur keputusan di bawah.
+Saat siswa mulai gaduh, guru lebih dulu melakukan kontak mata dan berhenti berbicara sejenak. Jika kegaduhan masih berlanjut setelah itu, guru menegur siswa dengan halus sambil menyebut namanya. Sebaliknya, jika siswa tidak gaduh sejak awal, pembelajaran dilanjutkan seperti biasa. Percabangan tindakan guru tersebut tergambar pada alur keputusan di bawah.
 
 ```mermaid
 flowchart TD
