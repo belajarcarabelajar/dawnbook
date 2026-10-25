@@ -20,9 +20,9 @@ Bayangkan otak kamu adalah sebuah ruangan besar yang gelap, penuh dengan peralat
 
 Agar sirkuit saraf berubah secara fisik, otak perlu melepaskan bahan kimia tertentu yang disebut **neuromodulator**. Tiga pemain utama dalam proses ini adalah:
 
-### A. Epinefrin (Adrenalin) Memicu Kewaspadaan
+### A. Norepinefrin dan Epinefrin Memicu Kewaspadaan
 
-Epinefrin dilepaskan dari batang otak dan kelenjar adrenal. Fungsinya adalah untuk menciptakan rasa **waspada dan energi**. Tanpa epinefrin, kita merasa mengantuk atau malas, dan otak tidak berada dalam kondisi yang cukup aktif untuk memulai perubahan.
+Batang otak melepaskan norepinefrin (noradrenalin), sedangkan kelenjar adrenal melepaskan epinefrin (adrenalin) ke dalam darah. Keduanya berkaitan dengan rasa **waspada dan energi**.
 
 ### B. Asetilkolin (ACh) Menandai Sinapsis yang Aktif
 
