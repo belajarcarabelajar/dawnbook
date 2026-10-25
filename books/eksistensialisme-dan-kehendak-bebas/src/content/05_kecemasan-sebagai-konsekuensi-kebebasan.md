@@ -1,6 +1,6 @@
 ## Kecemasan sebagai Konsekuensi Kebebasan
 
-Kecemasan eksistensial atau Angst dipahami sebagai kesadaran mendalam subjek akan kedaulatan kebebasan memilih dan beban tanggung jawab yang menyertainya. Berbeda dari kecemasan psikologis yang dipicu oleh stimulus patologis, kecemasan eksistensial merupakan kondisi ontologis niscaya yang dialami oleh kesadaran saat berhadapan dengan keluasan kemungkinan masa depan.
+Kecemasan eksistensial atau *Angst* dipahami sebagai kesadaran mendalam subjek akan kedaulatan kebebasan memilih dan beban tanggung jawab yang menyertainya. Berbeda dari kecemasan psikologis yang dipicu oleh stimulus patologis, kecemasan eksistensial merupakan kondisi ontologis niscaya yang dialami oleh kesadaran saat berhadapan dengan keluasan kemungkinan masa depan.
 
 ### 1. Rasa Takut (*Furcht*) vs Kecemasan (*Angst*)
 
@@ -13,7 +13,7 @@ Dalam tradisi filsafat eksistensial, khususnya melalui pemikiran Søren Kierkega
 
 #### Pusing di Tepi Jurang
 
-Kierkegaard mengilustrasikan kecemasan melalui pengalaman seseorang yang berdiri di bibir jurang curam. Sensasi pusing yang dialami bukan sekadar ketakutan objektif akan tergelincir karena gravitasi, melainkan kesadaran eksistensial bahwa tidak ada rintangan fisik apa pun yang mencegah dirinya untuk melompat selain keputusan kehendaknya sendiri.
+Kierkegaard mengilustrasikan kecemasan melalui pengalaman seseorang yang berdiri di bibir jurang curam. Dalam pembacaan eksistensialis, sensasi pusing yang dialami bukan sekadar ketakutan objektif akan tergelincir karena gravitasi, melainkan kesadaran eksistensial bahwa tidak ada rintangan fisik apa pun yang mencegah dirinya untuk melompat selain keputusan kehendaknya sendiri.
 
 ### 2. Tanggung Jawab Radikal sebagai Sumber Kecemasan
 
@@ -44,7 +44,7 @@ Jean-Paul Sartre merumuskan paradoks fundamental bahwa manusia "dikutuk untuk be
 
 ### 4. Lumpuh karena Terlalu Banyak Pilihan
 
-Dalam dinamika masyarakat kontemporer yang menyediakan multiplisitas opsi profesional dan personal, individu kerap mengalami kelumpuhan keputusan (*choice overload*):
+Dalam dinamika masyarakat kontemporer yang menyediakan multiplisitas opsi profesional dan personal, individu kerap mengalami kelumpuhan keputusan akibat kelebihan pilihan (*choice overload*):
 
 - **Studi Kasus Otonomi Profesional:** Seorang profesional yang melepaskan stabilitas karier korporat demi membangun inisiatif independen menghadapi *Angst* bukan semata karena risiko finansial, melainkan karena ketiadaan alibi jika proyek tersebut gagal.
 - **Ketiadaan Kambing Hitam:** Kegagalan atau keberhasilan proyek otonom merupakan buah langsung dari keputusan kehendak personal.
@@ -55,7 +55,7 @@ Eksistensialisme tidak memandang kecemasan sebagai kondisi disfungsional yang ha
 
 1. **Kompas Eksistensial:** Kehadiran rasa cemas menandakan bahwa subjek menyadari bobot signifikansi dari keputusan yang sedang dihadapi.
 2. **Katalis Komitmen (*Engagement*):** Penanggulangan rasa pusing akibat kebebasan dicapai melalui tindakan nyata dan komitmen praksis.
-3. **Akseptasi Keterbatasan:** Menyadari bahwa setiap keputusan mengorbankan alternatif kemungkinan lain secara sadar.
+3. **Akseptasi Keterbatasan:** Menyadari bahwa setiap keputusan mengorbankan alternatif kemungkinan lain.
 
 ### 6. Memilih atau Melarikan Diri
 

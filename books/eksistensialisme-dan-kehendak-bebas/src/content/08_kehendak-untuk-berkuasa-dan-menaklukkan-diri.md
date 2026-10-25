@@ -8,9 +8,9 @@ Nietzsche memosisikan *Wille zur Macht* (*Will to Power*) bukan sebagai ambisi h
 
 Dua teks Nietzsche saling melengkapi di sini. Dalam *Beyond Good and Evil* (aforisme 13) ia menulis bahwa kehidupan itu sendiri adalah kehendak untuk berkuasa. Dalam *Thus Spoke Zarathustra*, sosok Kehidupan menyebut dirinya sebagai sesuatu yang harus selalu mengatasi dirinya sendiri.
 
-Secara fenomenologis, penaklukkan diri dianalogikan seperti seorang pemahat marmer:
+Secara fenomenologis, penaklukan diri dianalogikan seperti seorang pemahat marmer:
 - **Daya Kehendak Berkuasa:** Merepresentasikan intensitas dan keberanian mengayunkan pahat reflektif.
-- **Praksis Penaklukkan Diri:** Proses disiplin dalam mengikis bagian marmer yang kasar dan amorf, sehingga bentuk estetis serta potensi unggul subjek dapat terbentuk.
+- **Praksis Penaklukan Diri:** Proses disiplin dalam mengikis bagian marmer yang kasar dan amorf, sehingga bentuk estetis serta potensi unggul subjek dapat terbentuk.
 
 ### 2. Transvaluasi Nilai (*Umwertung aller Werte*)
 
@@ -32,7 +32,7 @@ Dalam *Thus Spoke Zarathustra*, Nietzsche memetakan proses dialektika evolusi sp
 | :--- | :--- | :--- | :--- |
 | **Unta (*Das Kamel*)** | *"Engkau Harus"* (*Du sollst*) | Memikul beban tradisi, dogmatisme, dan norma eksternal secara pasif. | Tahap penyerapan disiplin dan pengujian daya tahan diri. |
 | **Singa (*Der Löwe*)** | *"Aku Berkehendak"* (*Ich will*) | Mendekonstruksi kekuasaan imperatif lama dan mengklaim ruang kebebasan. | Tahap perlawanan kritis dan pembongkaran berhala dogmatis. |
-| **Anak Kecil (*Das Kind*)** | *"Sebuah Roda Berputar"* | Mewakili permulaan baru, kepolosan, afirmasi hidup, dan kreativitas murni. | Tahap kreasi nilai baru tanpa dendam eksistensial (*ressentiment*). |
+| **Anak Kecil (*Das Kind*)** | *"Ya yang Suci"* (*ein heiliges Ja-sagen*) | Mewakili permulaan baru, kepolosan, afirmasi hidup, dan kreativitas murni. | Tahap kreasi nilai baru tanpa dendam eksistensial (*ressentiment*). |
 
 Kemandirian sejati tercapai tatkala subjek mampu melampaui fase kepatuhan (Unta) dan negasi pemberontakan (Singa) menuju afirmasi penciptaan yang riang gembira (Anak Kecil).
 
@@ -41,16 +41,16 @@ Urutan ketiga transformasi itu bisa kamu ikuti dari atas ke bawah.
 ```mermaid
 flowchart TD
     accTitle: Tiga transformasi roh menurut Nietzsche
-    accDescr: Roh bergerak dari Unta dengan imperatif Engkau Harus, melampaui fase kepatuhan menuju Singa dengan imperatif Aku Berkehendak, lalu melampaui negasi pemberontakan menuju Anak Kecil dengan Sebuah Roda Berputar, tahap afirmasi penciptaan.
+    accDescr: Roh bergerak dari Unta dengan imperatif Engkau Harus, melampaui fase kepatuhan menuju Singa dengan imperatif Aku Berkehendak, lalu melampaui negasi pemberontakan menuju Anak Kecil dengan Ya yang Suci, tahap afirmasi penciptaan.
     R1["Unta, “Engkau Harus”"] -->|"melampaui fase kepatuhan"| R2["Singa, “Aku Berkehendak”"]
-    R2 -->|"melampaui negasi pemberontakan"| R3["Anak Kecil, “Sebuah Roda Berputar”"]
+    R2 -->|"melampaui negasi pemberontakan"| R3["Anak Kecil, “Ya yang Suci”"]
 ```
 
 ### 4. *Übermensch* dan Model Pertumbuhan Diri
 
 Puncak dari proyek filosofis Nietzsche adalah figur **Übermensch** (Manusia Unggul / *Overman*). Übermensch bukanlah spesies mutan biologis, melainkan idealitas pencapaian eksistensial manusia yang berhasil melampaui nihilisme melalui penegasan hidup total (*Amor Fati*).
 
-Secara konseptual, pertumbuhan potensi eksistensial teraktualisasi dapat dimodelkan sebagai fungsi atas intensitas penaklukkan diri:
+Secara konseptual, pertumbuhan potensi eksistensial teraktualisasi dapat dimodelkan sebagai fungsi atas intensitas penaklukan diri:
 
 <div>
 $$
@@ -58,13 +58,13 @@ P(t) = P_0 \cdot e^{k \cdot s}
 $$
 </div>
 
-Di mana variabel formulasi mencakup:
+Variabel dalam formulasi ini mencakup:
 - $P(t)$: Potensi eksistensial yang teraktualisasi pada kurun waktu $t$.
 - $P\_0$: Kapasitas awal subjek.
 - $k$: Koefisien efisiensi internalisasi pengalaman.
-- $s$: Derajat penaklukkan diri (*self-overcoming*).
+- $s$: Derajat penaklukan diri (*self-overcoming*).
 
-Formulasi ini menegaskan bahwa peningkatan derajat penaklukkan diri ($s$) secara konsisten melipatgandakan kapasitas aktualisasi eksistensial manusia.
+Formulasi ini menegaskan bahwa peningkatan derajat penaklukan diri ($s$) secara konsisten melipatgandakan kapasitas aktualisasi eksistensial manusia.
 
 ### 5. Penerapan Kehendak Berkuasa Hari Ini
 
@@ -76,4 +76,4 @@ Dalam realitas kontemporer, penerapan *Wille zur Macht* beroperasi dalam arena p
 
 ### 6. Menguasai Kelemahan Diri Sendiri
 
-Kehendak untuk berkuasa pada hakikatnya adalah kehendak untuk menguasai kelemahan diri sendiri. Manusia bukanlah produk statis, melainkan jembatan yang menghubungkan kebiasaan pasif masa lalu dengan kemungkinan-kemungkinan masa depan. Melalui penaklukkan diri yang berkelanjutan, manusia merealisasikan kedaulatannya sebagai pencipta nilai yang merdeka.
+Kehendak untuk berkuasa pada hakikatnya adalah kehendak untuk menguasai kelemahan diri sendiri. Manusia bukanlah produk statis, melainkan jembatan yang menghubungkan kebiasaan pasif masa lalu dengan kemungkinan-kemungkinan masa depan. Melalui penaklukan diri yang berkelanjutan, manusia merealisasikan kedaulatannya sebagai pencipta nilai yang merdeka.

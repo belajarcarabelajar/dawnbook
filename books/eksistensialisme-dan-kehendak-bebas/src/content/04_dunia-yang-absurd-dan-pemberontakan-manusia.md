@@ -1,6 +1,6 @@
 ## Dunia yang Absurd dan Pemberontakan Manusia
 
-Konsep absurdisme Albert Camus menelaah ketegangan eksistensial saat hasrat manusia akan makna berbenturan dengan kesunyian alam semesta yang irasional. Jika Jean-Paul Sartre menekankan bahwa kebebasan merupakan kondisi ontologis niscaya, Camus mengajak penelaahan terhadap realitas yang lebih mendasar: disonansi antara kerinduan rasional manusia akan kejelasan dan realitas kosmik yang sepenuhnya membisu.
+Konsep absurdisme Albert Camus menelaah ketegangan eksistensial saat hasrat manusia akan makna berbenturan dengan kesunyian alam semesta yang irasional. Jika Jean-Paul Sartre menekankan bahwa kebebasan merupakan kondisi ontologis niscaya, Camus mengajak kita menelaah realitas yang lebih mendasar: disonansi antara kerinduan rasional manusia akan kejelasan dan realitas kosmik yang sepenuhnya membisu.
 
 ### 1. Apa yang Dimaksud Absurd
 
@@ -19,12 +19,12 @@ Absurditas tidak berada di dalam diri subjek semata, tidak pula bersemayam di al
 
 ### 2. Mitos Sisifus
 
-Camus mengangkat figur mitologi Yunani, **Sisifus**, sebagai metafora kondisi eksistensial manusia. Para dewa menjatuhkan kutukan kepada Sisifus untuk mendorong sebongkah batu besar ke puncak gunung, hanya untuk menyaksikan batu tersebut berguling kembali ke dasar lembah, memaksanya mengulangi siklus tersebut tanpa akhir.
+Camus mengangkat figur mitologi Yunani, **Sisifus**, sebagai metafora kondisi eksistensial manusia. Para dewa menjatuhkan kutukan kepada Sisifus untuk mendorong sebongkah batu besar ke puncak gunung, hanya untuk menyaksikan batu tersebut berguling kembali ke dasar gunung, memaksanya mengulangi siklus tersebut tanpa akhir.
 
 | Dimensi Mitologis | Signifikasi Filosofis Eksistensial |
 | :--- | :--- |
 | **Siklus Repetitif** | Rutinitas aktivitas manusia yang berjalan mekanis tanpa tujuan metafisik final. |
-| **Momen Refleksi** | Titik kesadaran saat Sisifus menuruni bukit untuk mengambil kembali batunya. |
+| **Momen Refleksi** | Titik kesadaran saat Sisifus menuruni gunung untuk mengambil kembali batunya. |
 | **Kemenangan Batin** | Kesadaran penuh atas absurditas yang melampaui keputusasaan nasib. |
 
 Camus menegaskan bahwa momen paling krusial terletak pada saat Sisifus melangkah turun kembali ke dasar gunung. Pada jeda kesadaran tersebut, Sisifus menyadari sepenuhnya ketidakbermaknaan objektif tugasnya, dan kesadaran inilah yang mentransformasikan penderitaan menjadi kemenangan intelek yang otonom.
