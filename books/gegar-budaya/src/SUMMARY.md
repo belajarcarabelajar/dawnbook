@@ -8,7 +8,7 @@
 - [Tahap Pemulihan (The Recovery Phase)](content/06_fase-3-tahap-pemulihan.md)
 - [Tahap Adaptasi dan Penyesuaian (The Adjustment Phase)](content/07_fase-4-tahap-adaptasi-dan-penyesuaian.md)
 - [Strategi Koping dan Manajemen Stres Budaya](content/08_strategi-koping-dan-manajemen-stres-budaya.md)
-- [Pentingnya Komunikasi Non-Verbal dalam Integrasi](content/09_pentingnya-komunikasi-non-verbal-dalam-integrasi.md)
+- [Pentingnya Komunikasi Nonverbal dalam Integrasi](content/09_pentingnya-komunikasi-non-verbal-dalam-integrasi.md)
 - [Gegar Budaya Balik (Reverse Culture Shock)](content/10_gegar-budaya-balik-reverse-culture-shock.md)
 - [Tips Praktis Sebelum dan Selama Keberangkatan](content/11_tips-praktis-sebelum-dan-selama-keberangkatan.md)
 - [Membangun Kecerdasan Lintas Budaya (Cultural Intelligence)](content/12_membangun-kecerdasan-lintas-budaya.md)

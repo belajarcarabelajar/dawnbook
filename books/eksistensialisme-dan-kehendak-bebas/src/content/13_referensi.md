@@ -1,6 +1,6 @@
 ## Referensi
 
-Daftar rujukan ini menyajikan sumber primer dan sekunder berstandar APA Edisi ke-7 sebagai fondasi teoretis kajian eksistensialisme dan kehendak bebas. Seluruh referensi mencakup teks kanonik para filsuf utama serta monograf akademis kontemporer yang relevan, lengkap dengan tautan digital resmi dan Digital Object Identifier (DOI).
+Daftar rujukan ini menyajikan sumber primer dan sekunder berstandar APA Edisi ke-7 sebagai fondasi teoretis kajian eksistensialisme dan kehendak bebas. Daftar ini mencakup teks kanonik para filsuf utama serta monograf akademis kontemporer yang relevan, disertai tautan digital resmi dan, bila tersedia, Digital Object Identifier (DOI).
 
 ### Karya Primer
 
@@ -12,9 +12,9 @@ Camus, A. (1955). *[The Myth of Sisyphus and Other Essays](https://www.penguinra
 
 Camus, A. (1956). *[The Rebel: An Essay on Man in Revolt](https://www.penguinrandomhouse.com/books/23554/the-rebel-by-albert-camus/)* (A. Bower, Penerj.). Alfred A. Knopf.
 
-Kierkegaard, S. (1980). *[The Concept of Anxiety: A Simple Psychologically Orienting Deliberation on the Dogmatic Issue of Hereditary Sin](https://doi.org/10.1515/9781400839971)* (R. Thomte & A. B. Anderson, Ed. & Penerj.). Princeton University Press. https://doi.org/10.1515/9781400839971
+Kierkegaard, S. (1980). *[The Concept of Anxiety: A Simple Psychologically Orienting Deliberation on the Dogmatic Issue of Hereditary Sin](https://doi.org/10.1515/9781400846979)* (R. Thomte & A. B. Anderson, Ed. & Penerj.). Princeton University Press. https://doi.org/10.1515/9781400846979
 
-Kierkegaard, S. (1983). *[Fear and Trembling / Repetition](https://doi.org/10.1515/9781400847006)* (H. V. Hong & E. H. Hong, Ed. & Penerj.). Princeton University Press. https://doi.org/10.1515/9781400847006
+Kierkegaard, S. (1983). *[Fear and Trembling / Repetition](https://doi.org/10.1515/9781400846955)* (H. V. Hong & E. H. Hong, Ed. & Penerj.). Princeton University Press. https://doi.org/10.1515/9781400846955
 
 Kierkegaard, S. (1987). *[Either/Or, Part I & II](https://doi.org/10.1515/9781400847051)* (H. V. Hong & E. H. Hong, Ed. & Penerj.). Princeton University Press. https://doi.org/10.1515/9781400847051
 
@@ -22,7 +22,7 @@ Nietzsche, F. (1966). *[Beyond Good and Evil: Prelude to a Philosophy of the Fut
 
 Nietzsche, F. (2006a). *[On the Genealogy of Morality](https://doi.org/10.1017/CBO9780511812026)* (C. Diethe, Penerj.; K. Ansell-Pearson, Ed.). Cambridge University Press. https://doi.org/10.1017/CBO9780511812026
 
-Nietzsche, F. (2006b). *[Thus Spoke Zarathustra: A Book for All and None](https://doi.org/10.1017/CBO9780511812040)* (A. Del Caro & R. Pippin, Ed.). Cambridge University Press. https://doi.org/10.1017/CBO9780511812040
+Nietzsche, F. (2006b). *[Thus Spoke Zarathustra: A Book for All and None](https://doi.org/10.1017/CBO9780511812095)* (A. Del Caro, Penerj.; R. Pippin, Ed.). Cambridge University Press. https://doi.org/10.1017/CBO9780511812095
 
 Oda, E. (1997–sekarang). *[One Piece](https://www.shonenjump.com/j/rensai/onepiece.html)*. Shueisha.
 
@@ -34,17 +34,19 @@ Sartre, J.-P. (2007). *[Existentialism Is a Humanism](https://yalebooks.yale.edu
 
 Bunnin, N., & Tsui-James, E. P. (Ed.). (2003). *[The Blackwell Companion to Philosophy](https://doi.org/10.1002/9780470996461)* (Edisi ke-2). Blackwell Publishing. https://doi.org/10.1002/9780470996461
 
+Card, C. (Ed.). (2003). *[The Cambridge Companion to Simone de Beauvoir](https://doi.org/10.1017/CCOL0521790964)*. Cambridge University Press. https://doi.org/10.1017/CCOL0521790964
+
 Cox, G. (2006). *[Sartre and Freedom: The Recovery of Action](https://doi.org/10.5040/9781350250680)*. Bloomsbury Academic. https://doi.org/10.5040/9781350250680
 
 Crowell, S. (Ed.). (2012). *[The Cambridge Companion to Existentialism](https://doi.org/10.1017/CCOL9780521513340)*. Cambridge University Press. https://doi.org/10.1017/CCOL9780521513340
 
-Foley, J. (2008). *[Albert Camus: From the Absurd to Revolt](https://doi.org/10.7208/chicago/9780226256566.001.0001)*. McGill-Queen's University Press. https://doi.org/10.7208/chicago/9780226256566.001.0001
+Foley, J. (2008). *[Albert Camus: From the Absurd to Revolt](https://doi.org/10.1017/upo9781844654130)*. Acumen Publishing. https://doi.org/10.1017/upo9781844654130
 
 Gardner, S. (2009). *[Sartre's 'Being and Nothingness': A Reader's Guide](https://www.bloomsbury.com/9780826474698)*. Continuum.
 
-Gemes, K., & May, S. (Ed.). (2013). *[The Oxford Handbook of Nietzsche](https://doi.org/10.1093/oxfordhb/9780199534647.001.0001)*. Oxford University Press. https://doi.org/10.1093/oxfordhb/9780199534647.001.0001
+Gemes, K., & Richardson, J. (Ed.). (2013). *[The Oxford Handbook of Nietzsche](https://doi.org/10.1093/oxfordhb/9780199534647.001.0001)*. Oxford University Press. https://doi.org/10.1093/oxfordhb/9780199534647.001.0001
 
-Guignon, C. (2004). *[On Being Authentic](https://doi.org/10.4324/9780203646892)*. Routledge. https://doi.org/10.4324/9780203646892
+Guignon, C. (2004). *[On Being Authentic](https://doi.org/10.4324/9780203646793)*. Routledge. https://doi.org/10.4324/9780203646793
 
 Hannay, A., & Marino, G. D. (Ed.). (1998). *[The Cambridge Companion to Kierkegaard](https://doi.org/10.1017/CCOL0521471516)*. Cambridge University Press. https://doi.org/10.1017/CCOL0521471516
 
@@ -54,11 +56,9 @@ Kemp, R. S., & Wietzke, W. (Ed.). (2023). *[Kierkegaard's Either/Or: A Critical 
 
 Marino, G. (Ed.). (2004). *[Basic Writings of Existentialism](https://www.penguinrandomhouse.com/books/106670/basic-writings-of-existentialism-by-gordon-marino/)*. Modern Library.
 
-Pinto, R. N. (Ed.). (2019). *[The New Cambridge Companion to Nietzsche](https://doi.org/10.1017/9781316676264)*. Cambridge University Press. https://doi.org/10.1017/9781316676264
-
-Simons, M. A. (Ed.). (2003). *[The Cambridge Companion to Simone de Beauvoir](https://doi.org/10.1017/CCOL0521790964)*. Cambridge University Press. https://doi.org/10.1017/CCOL0521790964
-
 Solomon, R. C. (2005). *[In the Spirit of Sartre: With Essays on Existentialism, Free Will, and the Absurd](https://doi.org/10.1093/019517508X.001.0001)*. Oxford University Press. https://doi.org/10.1093/019517508X.001.0001
+
+Stern, T. (Ed.). (2019). *[The New Cambridge Companion to Nietzsche](https://doi.org/10.1017/9781316676264)*. Cambridge University Press. https://doi.org/10.1017/9781316676264
 
 Stewart, J. (2011). *[Kierkegaard and the Existential Tradition](https://doi.org/10.4324/9781315251141)*. Routledge. https://doi.org/10.4324/9781315251141
 

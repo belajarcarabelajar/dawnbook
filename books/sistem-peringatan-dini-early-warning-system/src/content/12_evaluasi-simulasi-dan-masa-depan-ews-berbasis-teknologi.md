@@ -20,20 +20,20 @@ Tiga metrik utama digunakan secara internasional:
 
 \\[ T_{\text{lead}} = T_{\text{kejadian}} - T_{\text{peringatan}} \\]
 
-di mana \\( \text{Hit} \\) adalah kejadian yang berhasil diperingatkan, \\( \text{Miss} \\) kejadian terlewat, dan \\( \text{False} \\) peringatan tanpa kejadian. Idealnya \\( \text{POD} \\) mendekati 1, \\( \text{FAR} \\) mendekati 0, dan \\( T_{\text{lead}} \\) selama mungkin tanpa mengorbankan akurasi.
+dengan \\( \text{Hit} \\) adalah kejadian yang berhasil diperingatkan, \\( \text{Miss} \\) kejadian terlewat, dan \\( \text{False} \\) peringatan tanpa kejadian. Idealnya \\( \text{POD} \\) mendekati 1, \\( \text{FAR} \\) mendekati 0, dan \\( T_{\text{lead}} \\) selama mungkin tanpa mengorbankan akurasi.
 
-> "Peringatan yang selalu benar namun datang terlambat sama tidak bergunanya dengan peringatan cepat yang selalu salah. Keseimbangan keduanya adalah inti Evaluasi."
+> "Peringatan yang selalu benar tetapi datang terlambat sama tidak bergunanya dengan peringatan cepat yang selalu salah. Keseimbangan keduanya adalah inti evaluasi."
 
 #### Tabel Target Kinerja dan Ilustrasi Kondisi
 
 | Metrik | Target kinerja | Ilustrasi kondisi Indonesia | Catatan |
 | --- | --- | --- | --- |
-| POD gempa >5 SR | >0.95 | 0.98 | Jaringan seismik padat |
-| FAR tsunami | <0.3 | 0.35 | Masih tinggi karena skenario konservatif |
-| Waktu terbit peringatan tsunami pertama | 3 sampai 5 menit | 5 menit (sejak 2025 teruji maksimum 3 menit) | Menurut BMKG (2025), sudah dalam rentang patokan |
-| POD banjir | >0.8 | 0.72 | Keterbatasan radar di timur |
+| POD gempa magnitudo >5 | >0,95 | 0,98 | Jaringan seismik padat |
+| FAR tsunami | <0,3 | 0,35 | Masih tinggi karena skenario konservatif |
+| Waktu terbit peringatan tsunami pertama | 3 sampai 5 menit | 5 menit (sejak proyek IDRIP teruji maksimum 3 menit) | Menurut BMKG (2025), sudah dalam rentang patokan |
+| POD banjir | >0,8 | 0,72 | Keterbatasan radar di timur |
 
-Kolom Target kinerja berisi patokan ilustratif untuk melatih kamu membaca metrik, bukan target resmi Kerangka Sendai. Tujuh target global Sendai (A sampai G) berbicara tentang korban jiwa, warga terdampak, kerugian, kerusakan infrastruktur, strategi, kerja sama, dan akses peringatan dini, tanpa ambang POD, FAR, atau batas menit. Angka POD dan FAR pada kolom Ilustrasi kondisi Indonesia beserta catatannya juga ilustratif, karena tidak ditemukan laporan BMKG atau kajian terbitan yang memuat nilai tersebut. Hanya angka waktu terbit yang bersumber, yaitu dari BMKG, yang sebelumnya memberikan peringatan dini dalam 5 menit dan sejak proyek IDRIP menyatakan peringatan teruji maksimum 3 menit.
+Kolom Target kinerja berisi patokan ilustratif untuk melatih kamu membaca metrik, bukan target resmi Kerangka Sendai. Tujuh target global Sendai (A sampai G) berbicara tentang korban jiwa, warga terdampak, kerugian, kerusakan infrastruktur, strategi, kerja sama, dan akses peringatan dini, tanpa ambang POD, FAR, atau batas menit. Angka POD dan FAR pada kolom Ilustrasi kondisi Indonesia beserta catatannya juga ilustratif, karena tidak ditemukan laporan BMKG atau kajian terbitan yang memuat nilai tersebut. Hanya angka waktu terbit yang bersumber, yaitu dari BMKG. Sebelumnya BMKG memberikan peringatan dini dalam 5 menit dan sejak proyek IDRIP menyatakan peringatan teruji maksimum 3 menit.
 
 ### 2. Simulasi Tabletop hingga Full Scale
 
@@ -49,7 +49,7 @@ Setiap simulasi harus mencatat waktu tempuh evakuasi, kepatuhan warga, dan titik
 
 Tiga perkembangan teknologi akan mengubah EWS:
 
-**Kecerdasan buatan untuk nowcasting.** Model machine learning dapat memprediksi hujan 1 sampai 2 jam ke depan dengan resolusi 1 km, lebih cepat dari model fisik konvensional. AI juga membantu memilah sinyal gempa dari derau industri.
+**Kecerdasan buatan untuk nowcasting.** Model machine learning dapat memprediksi hujan 1 sampai 2 jam ke depan dengan resolusi 1 km, lebih cepat daripada model fisik konvensional. AI juga membantu memilah sinyal gempa dari derau industri.
 
 **Internet of Things masif.** Sensor murah di sungai, lereng, dan atap rumah warga akan mengalirkan data setiap detik melalui LoRa dan satelit LEO. Tantangannya adalah kurasi data dan daya tahan.
 
@@ -59,4 +59,4 @@ Peringatan personal melalui cell broadcast yang menargetkan ponsel di area terda
 
 ### 4. Target 2030 bagi Indonesia
 
-Target Kerangka Sendai G adalah meningkatkan ketersediaan sistem peringatan dini multi ancaman untuk semua orang pada 2030. Untuk Indonesia, ini berarti memperluas cakupan ke wilayah timur, memastikan perawatan sensor berkelanjutan, dan memperkuat literasi warga agar teknologi diterima bukan ditakuti. Masa depan EWS bukan sekadar alat lebih canggih, melainkan ekosistem di mana data, regulasi, komunitas, dan teknologi saling menguatkan.
+Target Kerangka Sendai G adalah meningkatkan ketersediaan dan akses masyarakat terhadap sistem peringatan dini multiancaman pada 2030. Untuk Indonesia, ini berarti memperluas cakupan ke wilayah timur, memastikan perawatan sensor berkelanjutan, dan memperkuat literasi warga agar teknologi diterima bukan ditakuti. Masa depan EWS bukan sekadar alat lebih canggih, melainkan ekosistem tempat data, regulasi, komunitas, dan teknologi saling menguatkan.

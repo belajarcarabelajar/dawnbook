@@ -2,7 +2,7 @@
 
 Awan di daerah tropis, seperti di Indonesia, dapat menghasilkan hujan yang sangat lebat meskipun suhu di dalam awan tidak pernah mencapai titik beku. Bagaimana hal itu bisa terjadi? Di sinilah **Mikrofisika Awan Hangat** memegang peran utama.
 
-Pada bagian sebelumnya, pembelajaran telah membahas bagaimana tetesan air tumbuh melalui **difusi uap**. Namun, pertumbuhan melalui difusi berlangsung sangat lambat setelah tetesan mencapai ukuran tertentu (sekitar $20\ \mu\text{m}$). Untuk menjadi tetes hujan yang berukuran $1\text{–}2\text{ mm}$, diperlukan mekanisme lain yang jauh lebih cepat: proses **Tabrakan dan Penyatuan (Collision-Coalescence)**.
+Pada bagian sebelumnya, kita telah membahas bagaimana tetesan air tumbuh melalui **difusi uap**. Namun, pertumbuhan melalui difusi berlangsung sangat lambat setelah tetesan mencapai ukuran tertentu (sekitar $20\ \mu\text{m}$). Untuk menjadi tetes hujan yang berukuran $1\text{–}2\text{ mm}$, diperlukan mekanisme lain yang jauh lebih cepat: proses **Tabrakan dan Penyatuan (Collision-Coalescence)**.
 
 ### 1. Mengapa Difusi Saja Tidak Cukup?
 
@@ -22,7 +22,7 @@ Artinya, saat $r$ membesar, nilai $\frac{\text{d}r}{\text{d}t}$ semakin mengecil
 
 ### 2. Kecepatan Terminal
 
-Inti dari proses *collision-coalescence* adalah perbedaan **kecepatan terminal** ($V_{\text{t}}$) antar tetesan air. Tetesan yang lebih besar jatuh lebih cepat daripada tetesan yang lebih kecil karena gaya gravitasi yang bekerja padanya lebih besar dibandingkan dengan gaya hambat udara (*drag force*).
+Inti dari proses *collision-coalescence* adalah perbedaan **kecepatan terminal** ($V_{\text{t}}$) antar tetesan air. Tetesan yang lebih besar jatuh lebih cepat daripada tetesan yang lebih kecil karena gaya gravitasi yang bekerja padanya bertambah lebih cepat dibandingkan dengan gaya hambat udara (*drag force*) seiring membesarnya tetesan.
 
 Untuk tetesan sangat kecil (radius $r < 40\ \mu\text{m}$), berlaku **Hukum Stokes**:
 
@@ -44,9 +44,9 @@ Saat tetesan pengumpul yang besar jatuh melewati kumpulan tetesan yang lebih kec
 - **Garis Alir (Streamlines):** Saat tetesan besar jatuh, ia mendorong udara di depannya ke samping. Tetesan yang sangat kecil (massa rendah) akan mengikuti garis alir udara ini dan tertiup menjauh, sehingga luput dari tabrakan.
 - **Inersia:** Tetesan yang sedikit lebih besar memiliki inersia yang cukup untuk menembus garis alir udara dan menabrak tetesan pengumpul.
 
-**Efisiensi Tabrakan ($E_{\text{coll}}$):** Didefinisikan sebagai rasio antara jumlah tabrakan aktual dengan jumlah tabrakan teoritis berdasarkan geometri lintasan.
+**Efisiensi Tabrakan ($E_{\text{coll}}$):** Didefinisikan sebagai rasio antara jumlah tabrakan aktual dengan jumlah tabrakan teoretis berdasarkan geometri lintasan.
 
-$$ E_{\text{coll}} = \frac{\text{Jumlah tabrakan aktual}}{\text{Jumlah tabrakan teoritis secara geometris}} $$
+$$ E_{\text{coll}} = \frac{\text{Jumlah tabrakan aktual}}{\text{Jumlah tabrakan teoretis secara geometris}} $$
 
 ### 4. Mekanisme Penyatuan (Coalescence)
 
@@ -66,7 +66,7 @@ $$ E_{\text{c}} = E_{\text{coll}} \times \epsilon $$
 
 ### 5. Menghitung Selisih Kecepatan Jatuh
 
-Hukum Stokes dapat dipakai untuk membandingkan tetes pengumpul (radius $30\ \mu\text{m}$, seukuran tetesan pada contoh *The Great Collector* di bagian 6) dan tetes awan biasa (radius $10\ \mu\text{m}$). Kedua ukuran ini masih di bawah batas $40\ \mu\text{m}$ tempat Hukum Stokes berlaku. Nilai konstanta yang dipakai adalah angka ilustrasi:
+Hukum Stokes dapat dipakai untuk membandingkan tetes pengumpul (radius $30\ \mu\text{m}$, seukuran tetesan pada contoh Tetesan Pengumpul di bagian 6) dan tetes awan biasa (radius $10\ \mu\text{m}$). Kedua ukuran ini masih di bawah batas $40\ \mu\text{m}$ tempat Hukum Stokes berlaku. Nilai konstanta yang dipakai adalah angka ilustrasi:
 
 | Besaran | Simbol | Nilai |
 | --- | --- | --- |
@@ -88,7 +88,7 @@ Selisih kecepatannya sekitar 0,0968 m/s. Radius yang tiga kali lebih besar membu
 
 #### Awan Tropis vs. Awan Garis Lintang Tinggi
 
-Di wilayah tropis seperti Indonesia, puncak awan sering kali tidak mencapai suhu $0^\circ\text{C}$ (awan hangat). Hujan di kawasan ini murni merupakan hasil dari proses *collision-coalescence*. Hal inilah yang menyebabkan hujan tropis dapat terjadi secara mendadak dengan suhu tetesan yang hangat.
+Di wilayah tropis seperti Indonesia, puncak awan sering kali tidak mencapai suhu $0^\circ\text{C}$ (awan hangat). Hujan di kawasan ini terutama merupakan hasil dari proses *collision-coalescence*. Hal inilah yang menyebabkan hujan tropis dapat terjadi secara mendadak dengan suhu tetesan yang hangat.
 
 #### Tetesan Pengumpul
 
@@ -104,8 +104,8 @@ Dalam perkembangan awan *Cumulus*, beberapa tetesan dapat tumbuh lebih cepat kar
 
 | Tahap | Mekanisme Utama | Ukuran Tetesan |
 | --- | --- | --- |
-| **Awal** | Nukleasi pada $\text{CCN}$ | $< 0.1\ \mu\text{m}$ |
-| **Pertumbuhan I** | Kondensasi dan Difusi | $0.1\ \mu\text{m} \rightarrow 20\ \mu\text{m}$ |
+| **Awal** | Nukleasi pada $\text{CCN}$ | $< 0{,}1\ \mu\text{m}$ |
+| **Pertumbuhan I** | Kondensasi dan Difusi | $0{,}1\ \mu\text{m} \rightarrow 20\ \mu\text{m}$ |
 | **Pertumbuhan II** | Tabrakan dan Penyatuan | $20\ \mu\text{m} \rightarrow 2000\ \mu\text{m}$ |
 | **Akhir** | Presipitasi (Hujan) | $> 2000\ \mu\text{m}\ (2\text{ mm})$ |
 

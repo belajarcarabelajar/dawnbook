@@ -22,17 +22,17 @@ Mengejar hobi yang menghasilkan karya fisik adalah salah satu cara terbaik mempr
 
 Aktivitas analog memberikan umpan balik secara instan. Saat kamu memperbaiki sepeda atau merawat tanaman, hasil tindakanmu langsung terlihat. Keterlibatan fisik ini juga mempermudah munculnya kondisi *flow*, ketika kamu begitu larut dalam pekerjaan sampai lupa waktu. Belajar membuat atau memperbaiki sesuatu secara mandiri memunculkan rasa berdaya yang sulit didapat hanya dari mengonsumsi konten.
 
-Kamu bisa mulai mengeksplorasi kegiatan seperti pertukangan kayu, merestorasi barang lama, atau bahkan fotografi film. Tidak perlu sesuatu yang rumit, menjahit pakaian yang robek atau melukis di akhir pekan juga bisa menjadi awal yang baik.
+Kamu bisa mulai mengeksplorasi kegiatan seperti pertukangan kayu, merestorasi barang lama, atau bahkan fotografi film. Tidak perlu sesuatu yang rumit; menjahit pakaian yang robek atau melukis di akhir pekan juga bisa menjadi awal yang baik.
 
 ## 3. Koneksi di Atas Komunikasi
 
 Dunia digital sering kali mereduksi "koneksi" menjadi sekadar "komunikasi". Saling bertukar pesan teks memang praktis, tetapi kita kehilangan bahasa tubuh, intonasi suara, dan kehadiran fisik yang sesungguhnya. Kapan terakhir kali kamu duduk mengobrol santai dengan teman tanpa ada satu pun ponsel di meja?
 
-Menghabiskan waktu luang yang berkualitas berarti mengutamakan pertemuan yang menuntut kehadiran penuh. Kamu bisa mencoba bergabung dengan komunitas lokal seperti klub lari atau kelompok catur. Bermain *board games* bersama teman juga jauh berbeda sensasinya dibandingkan bermain *game online*; kamu harus berada di ruangan yang sama dan merespons lawan bicara secara langsung. Menjadwalkan makan malam bersama tanpa kehadiran gadget juga bisa menjadi ritual yang menjaga kedekatan.
+Menghabiskan waktu luang yang berkualitas berarti mengutamakan pertemuan yang menuntut kehadiran penuh. Kamu bisa mencoba bergabung dengan komunitas lokal seperti klub lari atau kelompok catur. Bermain *board games* bersama teman juga jauh berbeda sensasinya dibandingkan bermain *game online*; kamu harus berada di ruangan yang sama dan merespons lawan bicara secara langsung. Menjadwalkan makan malam bersama tanpa kehadiran gawai juga bisa menjadi ritual yang menjaga kedekatan.
 
 ## 4. Strategi Transisi dari Layar ke Dunia Nyata
 
-Beralih dari kebiasaan lama butuh usaha karena otak sudah terlanjur nyaman dengan dopamin instan dari layar. Agar tidak otomatis mengambil ponsel saat sedang bosan, siapkan daftar kegiatan alternatif sebelum waktu luang itu tiba. 
+Beralih dari kebiasaan lama butuh usaha karena otak sudah telanjur nyaman dengan dopamin instan dari layar. Agar tidak otomatis mengambil ponsel saat sedang bosan, siapkan daftar kegiatan alternatif sebelum waktu luang itu tiba. 
 
 Pikirkan beberapa aktivitas singkat untuk jeda 30 menit, seperti membaca beberapa halaman buku atau peregangan ringan. Siapkan juga rencana yang butuh waktu lebih panjang, misalnya memasak resep baru selama satu jam, atau rencana besar akhir pekan seperti mendaki bukit.
 

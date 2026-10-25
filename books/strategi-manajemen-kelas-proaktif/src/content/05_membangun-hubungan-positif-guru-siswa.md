@@ -1,6 +1,6 @@
 ## Membangun Hubungan Positif Guru-Siswa
 
-Pernahkah kamu bertanya-tanya mengapa seorang siswa bersedia bekerja ekstra keras untuk satu guru, namun tampak sangat tidak peduli di kelas guru lainnya? Jawabannya jarang sekali terletak pada materi pelajaran, melainkan pada **kualitas hubungan** di antara mereka.
+Pernahkah kamu bertanya-tanya mengapa seorang siswa bersedia bekerja ekstra keras untuk satu guru, tetapi tampak sangat tidak peduli di kelas guru lainnya? Jawabannya biasanya tidak terletak pada materi pelajaran, melainkan pada **kualitas hubungan** di antara mereka.
 
 Dalam kerangka Manajemen Kelas Proaktif, hubungan positif bukanlah sekadar "sikap ramah". Ini adalah strategi teknis yang menciptakan fondasi emosional agar instruksi akademik dapat diterima dengan optimal. Tanpa hubungan yang kuat, aturan kelas hanyalah sekumpulan paksaan yang menunggu untuk dilanggar.
 
@@ -15,7 +15,7 @@ Jangan hanya mengandalkan ingatan. Gunakan pendekatan sistematis untuk memetakan
 - **The 2x10 Strategy**: Luangkan waktu 2 menit selama 10 hari berturut-turut untuk berbicara dengan siswa yang paling menantang tentang topik **di luar sekolah**.
 - **Survei Non-Akademik**: Berikan kuesioner singkat di awal semester.
 	- *Apa hobi yang bisa kamu lakukan berjam-jam tanpa merasa lelah?*
-		- *Apa satu hal yang ingin Bapak/Ibu Guru ketahui tentang caramu belajar?*
+		- *Apa satu hal tentang caramu belajar yang kamu ingin Bapak/Ibu Guru ketahui?*
 		- *Siapa pahlawanmu di dunia nyata?*
 
 > **Rekening Bank Emosional** Bayangkan setiap interaksi positif adalah sebuah **setoran (deposit)** dan setiap teguran atau konflik adalah sebuah **penarikan (withdrawal)**. Jika kamu terus-menerus menarik saldo tanpa pernah menabung, hubungan akan "bangkrut", yang bermanifestasi dalam bentuk perlawanan atau sikap apatis siswa.
@@ -26,7 +26,7 @@ Kepercayaan (*Trust*) tidak diberikan secara cuma-cuma; ia dibangun melalui kons
 
 ### Komponen Utama Kepercayaan
 
-1. **Konsistensi**: Bersikaplah predikabel. Jika kamu berkata akan membantu mereka di jam istirahat, hadirilah.
+1. **Konsistensi**: Bersikaplah dapat diprediksi. Jika kamu berkata akan membantu mereka di jam istirahat, hadirilah.
 2. **Kerentanan Terukur**: Jangan takut mengakui kesalahan. Jika kamu salah menulis rumus di papan tulis, akui dengan santai. Ini menunjukkan bahwa belajar adalah proses, bukan kesempurnaan.
 3. **Mendengarkan Aktif**: Saat siswa berbicara, berikan perhatian penuh. Gunakan teknik *mirroring* (mengulang kembali inti pembicaraan mereka) untuk menunjukkan pemahaman.
 
@@ -34,11 +34,11 @@ Kepercayaan (*Trust*) tidak diberikan secara cuma-cuma; ia dibangun melalui kons
 
 ## 3. Menciptakan Iklim Emosional yang Aman
 
-Keamanan emosional adalah kondisi di mana siswa merasa berani mengambil risiko akademik (seperti menjawab pertanyaan sulit) tanpa takut dipermalukan jika salah.
+Keamanan emosional adalah kondisi ketika siswa merasa berani mengambil risiko akademik (seperti menjawab pertanyaan sulit) tanpa takut dipermalukan jika salah.
 
 ### Rumus Keamanan Psikologis di Kelas
 
-Secara matematis, kenyamanan belajar dapat diilustrasikan sebagai berikut:
+Secara matematis, kesiapan belajar dapat diilustrasikan sebagai berikut:
 
 <div>
 $$
@@ -46,14 +46,14 @@ K = \frac{D + P}{Kz}
 $$
 </div>
 
-Dimana:
+Keterangan:
 
 - $K$ = Kesiapan Belajar
 - $D$ = Dukungan Guru
 - $P$ = Penerimaan Teman Sebaya
 - $Kz$ = Kecemasan (Anxiety)
 
-Semakin rendah nilai kecemasan ($Kz$), maka kesiapan belajar ($K$) akan meningkat.
+Semakin rendah nilai kecemasan ($Kz$), semakin tinggi kesiapan belajar ($K$).
 
 ### Langkah Menciptakan Keamanan Emosional
 

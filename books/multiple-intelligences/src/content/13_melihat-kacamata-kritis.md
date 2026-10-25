@@ -22,17 +22,17 @@ $$
 $$
 </div>
 
-Banyak kritikus berpendapat bahwa Gardner gagal menjelaskan mengapa faktor $g$ ini selalu muncul dalam hampir setiap penelitian tentang kemampuan manusia.
+Banyak kritikus berpendapat bahwa Gardner gagal menjelaskan mengapa faktor $g$ ini muncul dalam hampir setiap penelitian tentang kemampuan manusia.
 
 ## 2. Kecerdasan atau Sekadar Bakat?
 
 Perdebatan mengenai istilah juga menjadi sorotan. Banyak ahli psikologi kognitif, termasuk George Miller, berpendapat bahwa Gardner sebenarnya menempelkan label "kecerdasan" (*intelligence*) pada apa yang selama ini kita sebut "bakat" (*talent*) atau "kepribadian" (*personality*).
 
-Jika seseorang mahir menari, masyarakat biasanya menyebutnya punya bakat kinestetik. Saat Gardner menyebutnya "Cerdas Kinestetik", para pengkritik mempertanyakan letak perbedaan antara kecerdasan dengan keterampilan fisik. Ada kekhawatiran soal inflasi istilah, ketika segalanya disebut sebagai kecerdasan, makna asli kata tersebut yang berkaitan dengan pemrosesan kognitif dan pemecahan masalah abstrak bisa memudar.
+Jika seseorang mahir menari, masyarakat biasanya menyebutnya punya bakat kinestetik. Saat Gardner menyebutnya "Cerdas Kinestetik", para pengkritik mempertanyakan letak perbedaan antara kecerdasan dan keterampilan fisik. Ada kekhawatiran soal inflasi istilah: ketika segalanya disebut sebagai kecerdasan, makna asli kata tersebut yang berkaitan dengan pemrosesan kognitif dan pemecahan masalah abstrak bisa memudar.
 
 ## 3. Perspektif Psikologi Kognitif dan Neurosains
 
-Dalam tinjauan terhadap literatur *Multiple Intelligences*, psikolog kognitif seperti Steven Pinker dan Lynn Waterhouse menemukan batasan dari sisi neurosains. Hingga saat ini, penelitian belum menemukan area-area spesifik di otak yang terisolasi sepenuhnya dan sesuai dengan delapan kecerdasan Gardner. Otak manusia bekerja secara integratif, bukan sebagai modul-modul kaku yang terpisah seperti laci lemari.
+Dalam tinjauan terhadap literatur *Multiple Intelligences*, psikolog Lynn Waterhouse menemukan batasan dari sisi neurosains. Hingga saat ini, penelitian belum menemukan area-area spesifik di otak yang terisolasi sepenuhnya dan sesuai dengan delapan kecerdasan Gardner. Otak manusia bekerja secara integratif, bukan sebagai modul-modul kaku yang terpisah seperti laci lemari.
 
 Selain itu, muncul kebingungan di lapangan dengan konsep Gaya Belajar (*Learning Styles* seperti visual, auditori, atau kinestetik). Gardner sendiri menolak gagasan Gaya Belajar tersebut. Namun, teorinya sering disalahpahami oleh praktisi pendidikan untuk membenarkan metode pengajaran tertentu tanpa dasar bukti empiris, misalnya memaksa pengajaran matematika lewat tarian semata untuk memfasilitasi murid kinestetik.
 
@@ -40,15 +40,15 @@ Selain itu, muncul kebingungan di lapangan dengan konsep Gaya Belajar (*Learning
 
 Mengetahui sisi kritis teori ini membantu kita menghindari penerapan yang kurang tepat. Sebagai contoh di ranah rekrutmen, bayangkan sebuah perusahaan yang mencoba menggunakan Teori Kecerdasan Majemuk untuk mencari manajer baru dengan memberikan tes musik atau tes naturalis.
 
-Risikonya muncul jika perusahaan mengabaikan skor logika dan verbal (yang menjadi inti dari faktor $g$) hanya karena calon tersebut punya kecerdasan musikal. Pekerjaan manajerial sering membutuhkan kemampuan analisis laporan atau komunikasi efektif. Penerapan yang lebih sesuai adalah mengakui pentingnya talenta yang beragam dalam tim, sambil tetap menyadari bahwa kemampuan kognitif umum ($g$) sering kali menjadi indikator andal untuk memprediksi performa pada pekerjaan kompleks.
+Risikonya muncul jika perusahaan mengabaikan skor logika dan verbal (yang menjadi inti dari faktor $g$) hanya karena calon tersebut punya kecerdasan musikal. Pekerjaan manajerial sering membutuhkan kemampuan analisis laporan atau komunikasi efektif. Penerapan yang lebih sesuai adalah mengakui pentingnya bakat yang beragam dalam tim, sambil tetap menyadari bahwa kemampuan kognitif umum ($g$) sering kali menjadi indikator andal untuk memprediksi performa pada pekerjaan kompleks.
 
 ## 5. Ringkasan Kritik Utama
 
 | Fokus Kritik | Argumen Utama |
 | --- | --- |
-| **Empiris** | Tidak ada data kuantitatif yang mendukung pemisahan delapan kecerdasan secara independen. |
+| **Empiris** | Minim data kuantitatif yang mendukung pemisahan delapan kecerdasan secara independen. |
 | **Teoretis** | Mengabaikan faktor $g$ (*general intelligence*) yang lazim ditemukan dalam pengukuran psikometri. |
-| **Terminologi** | Mengaburkan batas antara kapasitas intelektual dengan bakat atau minat bawaan. |
+| **Terminologi** | Mengaburkan batas antara kapasitas intelektual dan bakat atau kepribadian. |
 | **Praktis** | Rawan disalahartikan dalam ranah pendidikan, membenarkan metode mengajar yang minim landasan bukti. |
 
 Kritik-kritik terhadap *Multiple Intelligences* tidak lantas membuat teori ini kehilangan nilainya sama sekali. Secara sosial, gagasan ini telah membuka jalan bagi pendidik dan orang tua untuk lebih menghargai sisi unik setiap individu. Namun dari kacamata sains, kemampuan kognitif manusia adalah entitas yang saling berkaitan dan bekerja bersama, melampaui pengelompokan yang sepenuhnya terpisah.

@@ -4,7 +4,7 @@
 
 2. Cowan, C. L., Reines, F., Harrison, F. B., Kruse, H. W., & McGuire, A. D. (1956). [Detection of the Free Neutrino: a Confirmation](https://doi.org/10.1126/science.124.3212.103). *Science*, 124(3212), 103-104. https://doi.org/10.1126/science.124.3212.103
 
-3. Fermi, E. (1934). [Versuch einer Theorie der $\beta$-Strahlen](https://doi.org/10.1007/BF01351864). *Zeitschrift für Physik*, 88(3-4), 161-171. https://doi.org/10.1007/BF01351864
+3. Fermi, E. (1934). [Versuch einer Theorie der $\beta$-Strahlen](https://doi.org/10.1007/BF01351864). *Zeitschrift für Physik*, 88(3-4), 161-177. https://doi.org/10.1007/BF01351864
 
 4. International Atomic Energy Agency. (2014). [Radiation Protection and Safety of Radiation Sources: International Basic Safety Standards (IAEA Safety Standards Series No. GSR Part 3)](https://www.iaea.org/publications/8930/radiation-protection-and-safety-of-radiation-sources-international-basic-safety-standards). IAEA Vienna.
 

@@ -8,12 +8,12 @@ Fase ini menyerupai "masa pertumbuhan" bagi tetesan awan. Apabila proses nukleas
 
 ### 1. Perpindahan Massa akibat Gradien Tekanan
 
-Difusi uap terjadi akibat perbedaan konsentrasi atau tekanan uap air di atmosfer. Secara alami, sistem fisik bergerak menuju kesetimbangan. Molekul uap air berpindah dari area bertakanan uap tinggi (udara di sekitar tetesan) menuju area bertakanan uap lebih rendah (permukaan tetesan air).
+Difusi uap terjadi akibat perbedaan konsentrasi atau tekanan uap air di atmosfer. Secara alami, sistem fisik bergerak menuju kesetimbangan. Molekul uap air berpindah dari area bertekanan uap tinggi (udara di sekitar tetesan) menuju area bertekanan uap lebih rendah (permukaan tetesan air).
 
 > **Analogi Magnet dan Debu:** 
 > Bayangkan tetesan air sebagai magnet kecil di dalam ruangan yang dipenuhi debu besi (molekul uap air). Debu tersebut tertarik dan menempel pada permukaan magnet. Semakin banyak debu yang menempel, semakin besar ukuran magnet tersebut, meskipun laju penambahan debu pada lapisan luar akan melambat seiring bertambahnya jari-jari.
 
-Dalam kondisi **supersaturasi** (kejenuhan melampau, saat Kelembapan Relatif $\text{RH} > 100\text{\%}$), tekanan uap lingkungan ($e$) lebih tinggi dibandingkan tekanan uap jenuh di permukaan tetesan ($e\_s$). Perbedaan ini membentuk gradien tekanan uap ($e - e\_s$) yang mendorong molekul air untuk terus mengkondensasi ke permukaan tetesan.
+Dalam kondisi **supersaturasi** (kejenuhan melampau, saat Kelembapan Relatif $\text{RH} > 100\text{\%}$), tekanan uap lingkungan ($e$) lebih tinggi dibandingkan tekanan uap jenuh di permukaan tetesan ($e\_s$). Perbedaan ini membentuk gradien tekanan uap ($e - e\_s$) yang mendorong molekul air untuk terus mengondensasi ke permukaan tetesan.
 
 ---
 
@@ -37,7 +37,7 @@ Keterangan variabel dan parameter dalam persamaan tersebut:
 | $F\_k$ | Faktor konduksi termal | Hambatan termodinamika akibat pelepasan panas laten kondensasi |
 | $F\_d$ | Faktor difusi uap | Hambatan molekuler terhadap perpindahan massa uap air |
 
-Apabila nilai persetaraan dianggap mendekati konstan ($r \frac{d\text{r}}{d\text{t}} \approx \text{Konstan}$), maka hubungan laju pertumbuhan jari-jari dapat disederhanakan menjadi:
+Apabila ruas kanan persamaan dianggap mendekati konstan ($r \frac{d\text{r}}{d\text{t}} \approx \text{Konstan}$), maka hubungan laju pertumbuhan jari-jari dapat disederhanakan menjadi:
 
 <div>
 $$
@@ -109,14 +109,14 @@ r^2(t) = r^2(0) + 2 \xi t
 $$
 </div>
 
-Yang bertambah sebanding dengan waktu adalah $r^2$, bukan $r$. Setelah tetesan jauh lebih besar daripada jari-jari awalnya, menggandakan jari-jari membutuhkan waktu empat kali lebih lama. Karena itu laju pertambahan jari-jari ($\text{dr/dt}$) berlangsung sangat pesat pada tahap awal, namun melambat secara konsisten seiring bertambahnya ukuran tetesan.
+Yang bertambah sebanding dengan waktu adalah $r^2$, bukan $r$. Setelah tetesan jauh lebih besar daripada jari-jari awalnya, menggandakan jari-jari membutuhkan waktu empat kali lebih lama. Karena itu laju pertambahan jari-jari ($\text{dr/dt}$) berlangsung sangat pesat pada tahap awal, tetapi melambat secara konsisten seiring bertambahnya ukuran tetesan.
 
 ---
 
 ### 7. Ringkasan Pendekatan Pembelajaran
 
 - **Pendekatan Visual:** Bayangkan populasi tetesan awan sebagai kelompok bola air kecil yang ukurannya perlahan menyatu menjadi seragam karena tetesan yang lebih kecil tumbuh lebih cepat dibandingkan tetesan yang lebih besar.
-- **Pendekatan Kinestetik:** Bayangkan ketika memegang spons kering di ruangan lembap. Spons menyerap uap air secara cepat pada awalnya, namun secara bertahap jenuh dan memerlukan benturan dengan spons lain untuk mengumpulkan lebih banyak air.
-- **Pendekatan Auditori:** Fahami konsep kesetimbangan tekanan uap sebagai perjalanan molekul air menuju kondisi stabil melalui peristiwa kondensasi pada permukaan tetesan.
+- **Pendekatan Kinestetik:** Bayangkan ketika memegang spons kering di ruangan lembap. Spons menyerap uap air secara cepat pada awalnya, tetapi secara bertahap jenuh dan memerlukan benturan dengan spons lain untuk mengumpulkan lebih banyak air.
+- **Pendekatan Auditori:** Pahami konsep kesetimbangan tekanan uap sebagai perjalanan molekul air menuju kondisi stabil melalui peristiwa kondensasi pada permukaan tetesan.
 
 > **Pesan Utama:** Pertumbuhan melalui difusi uap merupakan proses yang menyeragamkan ukuran tetesan; proses ini membantu tetesan terkecil untuk tumbuh paling pesat sehingga membentuk populasi tetesan awan yang seragam. Namun, difusi uap saja tidak cukup cepat untuk menghasilkan tetes hujan tanpa bantuan mekanisme tabrakan dan penyatuan.

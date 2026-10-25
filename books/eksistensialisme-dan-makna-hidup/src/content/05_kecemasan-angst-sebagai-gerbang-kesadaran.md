@@ -70,7 +70,7 @@ Kecemasan mengungkapkan dua hal mendasar:
 
 ### Krisis Seperempat Abad (Quarter-Life Crisis)
 
-Bayangkan seorang profesional muda bernama Budi. Budi memiliki gaji besar dan karier stabil, namun setiap malam ia merasa cemas dan hampa. Secara medis, ia mungkin dianggap mengalami stres kerja. Namun, secara eksistensial:
+Bayangkan seorang profesional muda bernama Budi. Budi memiliki gaji besar dan karier stabil, tetapi setiap malam ia merasa cemas dan hampa. Secara medis, ia mungkin dianggap mengalami stres kerja. Namun, secara eksistensial:
 
 - **Perspektif Umum:** Menilai bahwa Budi membutuhkan liburan atau bantuan medis seperti obat penenang.
 - **Perspektif Eksistensial:** Melihat kondisi Budi sebagai fase *Angst*. Kecemasan ini menandakan penolakan batin terhadap pola hidup mekanis, sekaligus memanggilnya untuk mengevaluasi apakah karier tersebut dipilih secara sadar atau sekadar memenuhi ekspektasi luar.
@@ -78,8 +78,8 @@ Bayangkan seorang profesional muda bernama Budi. Budi memiliki gaji besar dan ka
 ### Tips Menghadapi Kecemasan Eksistensial
 
 1. **Menghadapi, Bukan Menekan:** Alih-alih melarikan diri ke media sosial atau belanja, luangkan waktu untuk mencerna kecemasan tersebut dan refleksikan pesan di baliknya.
-2. **Menggeser Sudut Pandang:** Ubah pertanyaan dari "Apa yang harus kulakukan?" menjadi "Pilihan apa saja yang tersedia bagi saya?". Sadarilah bahwa kendali selalu ada di tanganmu.
-3. **Penerimaan Terhadap Ketidakpastian:** Kelola rasa cemas sebagai bahan bakar untuk mengambil tindakan nyata yang autentik, sekalipun hasilnya belum terjamin.
+2. **Menggeser Sudut Pandang:** Ubah pertanyaan dari "Apa yang harus kulakukan?" menjadi "Pilihan apa saja yang tersedia bagiku?". Sadarilah bahwa kendali selalu ada di tanganmu.
+3. **Penerimaan terhadap Ketidakpastian:** Kelola rasa cemas sebagai bahan bakar untuk mengambil tindakan nyata yang autentik, sekalipun hasilnya belum terjamin.
 
 ## 6\. Mengintegrasikan Kecemasan
 

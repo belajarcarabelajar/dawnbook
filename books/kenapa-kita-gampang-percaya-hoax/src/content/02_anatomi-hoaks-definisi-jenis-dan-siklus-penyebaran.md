@@ -10,7 +10,7 @@ Peneliti Claire Wardle dan Hossein Derakhshan (2017) menawarkan cara berpikir ya
 
 **Disinformasi** adalah informasi salah yang sengaja dibuat atau disebar untuk menyesatkan. Di sini ada niat: mencari untung, menjatuhkan lawan, atau memancing keributan. Situs berita palsu yang dirancang mirip media asli, lengkap dengan logo tiruan, masuk kategori ini.
 
-**Malinformasi** adalah informasi yang sebenarnya benar, tetapi disalahgunakan untuk merugikan orang lain. Membocorkan data pribadi seseorang, menyebar foto asli yang dilepas dari konteksnya, atau mengungkap chat privat untuk mempermalukan, semuanya memakai bahan yang faktual tetapi dengan tujuan menyakiti.
+**Malinformasi** adalah informasi yang sebenarnya benar, tetapi disalahgunakan untuk merugikan orang lain. Membocorkan data pribadi seseorang atau mengungkap chat privat untuk mempermalukan, keduanya memakai bahan yang faktual tetapi dengan tujuan menyakiti.
 
 | Jenis | Niat | Kebenaran Isi | Contoh |
 |---|---|---|---|
@@ -69,4 +69,4 @@ Mutasi membuat pengecekan makin sulit: kamu bisa saja menemukan bahwa versi asli
 - **Butir kebenaran**, yaitu sedikit fakta yang dicampur dengan distorsi, membuat hoaks terasa meyakinkan.
 - Siklus penyebarannya berjalan dari produksi, pemicu emosional, amplifikasi, mutasi, sampai normalisasi. Setiap tahap punya titik untuk berhenti.
 
-Sekarang kamu tahu bentuk dan cara gerak hoaks. Tapi mengenali peta saja tidak cukup, karena keputusan untuk percaya atau tidak sering diambil dalam sepersekian detik, sebelum akal sehat sempat bekerja. Modul berikutnya, **Dua Sistem Berpikir**, akan menunjukkan apa yang terjadi di kepalamu pada detik-detik itu, dan kenapa otak yang cepat justru paling gampang tertipu.
+Sekarang kamu tahu bentuk dan cara gerak hoaks. Tapi mengenali peta saja tidak cukup, karena keputusan untuk percaya atau tidak sering diambil dalam sepersekian detik, sebelum akal sehat sempat bekerja. Bab 3, **Dua Sistem Berpikir**, akan menunjukkan apa yang terjadi di kepalamu pada detik-detik itu, dan kenapa otak yang cepat justru paling gampang tertipu.

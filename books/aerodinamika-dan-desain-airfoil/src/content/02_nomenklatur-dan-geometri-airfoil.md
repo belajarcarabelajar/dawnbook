@@ -2,7 +2,7 @@
 
 Bentuk potongan melintang sayap pesawat memiliki geometri melengkung yang sangat spesifik dan bukan sekadar pelat datar. Bentuk potongan melintang sayap ini dikenal sebagai **airfoil** (atau *aerofoil*). Desain geometri airfoil bukan sekadar masalah estetika; kontur lengkungannya dirancang secara presisi untuk memanipulasi aliran udara demi membangkitkan gaya angkat (*lift*) secara optimal dan meminimalkan hambatan (*drag*).
 
-Dalam bab ini, pembahasan berfokus pada pembedahan anatomi airfoil, parameter geometris penentu performa, standarisasi penamaan NACA, serta korelasi langsung antara bentuk fisik sayap dan karakteristik aerodinamikanya.
+Dalam bab ini, pembahasan berfokus pada pembedahan anatomi airfoil, parameter geometris penentu performa, standardisasi penamaan NACA, serta korelasi langsung antara bentuk fisik sayap dan karakteristik aerodinamikanya.
 
 ### 1. Anatomi Dasar Airfoil
 
@@ -15,7 +15,7 @@ Untuk memahami mekanisme kerja aerodinamika sayap, pengenalan terhadap bagian-ba
   - Apabila *mean camber line* melengkung dan berada di atas garis kord, airfoil tersebut diklasifikasikan memiliki kelengkungan positif (*cambered airfoil*).
   - Apabila *mean camber line* berhimpit sempurna dengan garis kord di sepanjang bentang profil, airfoil tersebut diklasifikasikan sebagai **airfoil simetris** (*symmetric airfoil*).
 
-> **Analogi Geometris:** Garis kord (*chord line*) dapat dibayangkan sebagai jembatan lurus yang menghubungkan dua ujung pulau. Garis kelengkungan rata-rata (*mean camber line*) adalah jalur bergelombang di atas pulau tersebut. Semakin jauh jalur tersebut menyimpang ke atas dari jembatan lurus, semakin besar nilai *camber* (kelengkungan) dari profil sayap tersebut.
+> **Analogi Geometris:** Garis kord (*chord line*) dapat dibayangkan sebagai jembatan lurus yang menghubungkan dua ujung pulau. Garis kelengkungan rata-rata (*mean camber line*) adalah jalur melengkung di atas pulau tersebut. Semakin jauh jalur tersebut menyimpang ke atas dari jembatan lurus, semakin besar nilai *camber* (kelengkungan) dari profil sayap tersebut.
 
 ### 2. Parameter Geometris yang Menentukan Karakteristik
 
@@ -26,7 +26,7 @@ Performa aerodinamika sayap dikendalikan oleh parameter geometris terukur yang d
 *Camber* merepresentasikan jarak tegak lurus maksimum antara *mean camber line* dan *chord line*.
 
 - **Fungsi Aerodinamis:** Kelengkungan menentukan besarnya koefisien gaya angkat yang dihasilkan pada sudut serang nol ($C_{L,\alpha=0}$). Profil dengan *camber* positif mampu menghasilkan gaya angkat bahkan saat sudut serang berada pada $0^\circ$.
-- **Pengaruh:** Peningkatan kelengkungan memperbesar kapasitas gaya angkat maksimum ($C_{L,\max}$), namun juga menghasilkan momen angguk negatif (*pitching moment*) yang lebih besar serta sedikit meningkatkan hambatan bentuk (*form drag*).
+- **Pengaruh:** Peningkatan kelengkungan memperbesar kapasitas gaya angkat maksimum ($C_{L,\max}$), tetapi juga menghasilkan momen angguk negatif (*pitching moment*) yang lebih besar serta sedikit meningkatkan hambatan bentuk (*form drag*).
 
 #### B. Thickness (Ketebalan)
 
@@ -46,7 +46,7 @@ Kategori ketebalan relatif dan karakteristik penggunaannya:
 
 ### 3. Klasifikasi NACA
 
-Pada dekade 1930-an, *National Advisory Committee for Aeronautics* (NACA, pendahulu NASA) memelopori standarisasi geometri airfoil secara parametrik. Salah satu keluarga yang paling fundamental adalah **NACA 4-Digit Series**. Penomoran empat digit ini mendefinisikan geometri secara langsung. Sebagai contoh, pada profil **NACA 2412**:
+Pada dekade 1930-an, *National Advisory Committee for Aeronautics* (NACA, pendahulu NASA) memelopori standardisasi geometri airfoil secara parametrik. Salah satu keluarga yang paling fundamental adalah **NACA 4-Digit Series**. Penomoran empat digit ini mendefinisikan geometri secara langsung. Sebagai contoh, pada profil **NACA 2412**:
 
 1. **Digit Pertama ($2$):** Menunjukkan nilai kelengkungan maksimum (*maximum camber*) sebesar $2\text{\%}$ dari panjang kord ($0{,}02c$).
 2. **Digit Kedua ($4$):** Menunjukkan posisi kelengkungan maksimum yang berjarak $40\text{\%}$ ($4 \times 10\text{\%}$) dari panjang kord ($0{,}4c$), diukur dari titik *leading edge*.
@@ -58,21 +58,21 @@ Jika sebuah profil diberi kode **NACA 0012**, digit pertama dan kedua bernilai $
 
 Setiap modifikasi minor pada kontur permukaan airfoil memberikan dampak signifikan terhadap distribusi gradien tekanan ($\nabla P$) di sepanjang dinding profil:
 
-- **Pengaruh Leading Edge Radius:** Radius kelengkungan yang memadai pada tepi depan mencegah separasi aliran mendadak pada sudut serang tinggi. Sebaliknya, *leading edge* yang kelewat tajam pada kecepatan rendah memicu pemisahan gelembung laminer (*laminar separation bubble*) dan menyebabkan *stall* prematur.
+- **Pengaruh Leading Edge Radius:** Radius kelengkungan yang memadai pada tepi depan mencegah separasi aliran mendadak pada sudut serang tinggi. Sebaliknya, *leading edge* yang kelewat tajam pada kecepatan rendah memicu gelembung separasi laminer (*laminar separation bubble*) dan menyebabkan *stall* prematur.
 - **Posisi Ketebalan Maksimum:** Menggeser lokasi ketebalan maksimum lebih ke belakang (misalnya dari $30\text{\%}c$ ke $45\text{\%}c - 50\text{\%}c$, sebagaimana pada keluarga airfoil aliran laminer NACA seri 6) mempertahankan gradien tekanan yang menguntungkan (*favorable pressure gradient*) lebih panjang, sehingga menekan hambatan gesek kulit (*skin friction drag*).
 
 | Parameter Geometri | Konsekuensi Aerodinamis | Pertimbangan Desain |
 | --- | --- | --- |
 | **Peningkatan *Camber*** | $C_{L,\alpha=0}$ meningkat, $C_{L,\max}$ meningkat | Momen angguk negatif ($C_{M,\text{c/4}}$) membesar, menuntut *trim tab* lebih besar |
-| **Peningkatan Ketebalan ($t/c$)** | Volume struktur dan kekakuan lentur meningkat | Hambatan bentuk (*form drag*) meningkat pada bilangan Mach tinggi |
+| **Peningkatan Ketebalan ($t/c$)** | Volume struktur dan kekakuan lentur meningkat | Hambatan gelombang (*wave drag*) meningkat pada bilangan Mach tinggi |
 | **Tepi Belakang (*Trailing Edge*) Tajam** | Memenuhi Kondisi Kutta, memastikan sirkulasi stabil | Membutuhkan presisi fabrikasi tinggi agar tidak mudah terdeformasi |
 
 ### 5. Dari Glider hingga Pesawat Jet Komersial
 
 Penerapan geometri airfoil di industri kedirgantaraan disesuaikan dengan spektrum misi penerbangan:
 
-1. **Pesawat Glider (Layang):** Menggunakan profil berbentang panjang dengan rasio ketebalan sedang hingga tipis serta *camber* tinggi yang dirancang untuk mempertahankan efisiensi aerodinamika maksimum ($L/D > 40$) tanpa bantuan propulsi mesin.
-2. **Pesawat Komersial Transonik (Boeing / Airbus):** Memanfaatkan **Supercritical Airfoil**. Profil ini memiliki permukaan atas yang relatif rata untuk melemahkan intensitas gelombang kejut (*shock wave*) lokal dan menunda lonjakan hambatan gelombang (*drag divergence Mach number*), dikombinasikan dengan kelengkungan cekung di bagian bawah belakang untuk memulihkan gaya angkat.
+1. **Pesawat Glider (Layang):** Menggunakan sayap berbentang panjang dengan rasio ketebalan sedang hingga tipis serta *camber* tinggi yang dirancang untuk mempertahankan efisiensi aerodinamika maksimum ($L/D > 40$) tanpa bantuan propulsi mesin.
+2. **Pesawat Komersial Transonik (Boeing / Airbus):** Memanfaatkan **Supercritical Airfoil**. Profil ini memiliki permukaan atas yang relatif rata untuk melemahkan intensitas gelombang kejut (*shock wave*) lokal dan menaikkan bilangan Mach divergensi hambatan (*drag divergence Mach number*), dikombinasikan dengan kelengkungan cekung di bagian bawah belakang untuk memulihkan gaya angkat.
 3. **Pesawat Aerobatik:** Menggunakan **Airfoil Simetris** (misalnya NACA 0012 atau NACA 0015). Konfigurasi tanpa *camber* ini memastikan karakteristik gaya angkat dan kendali tetap identik saat pesawat bermanuver dalam orientasi normal maupun terbalik (*inverted flight*).
 
 > **Prinsip Utama Desain:** Geometri airfoil adalah hasil kompromi terukur antara integritas struktural, kapasitas muatan internal, dan efisiensi aerodinamika. Tidak ada satu profil universal yang optimal untuk semua misi; setiap lekukan disesuaikan dengan amplop terbang (*flight envelope*) yang ditargetkan.

@@ -14,7 +14,7 @@ Satu tindakan bisa memegang tiga peran berbeda. Ia bisa sekadar **dicatat** seba
 
 | Aktivitas kamu | Peran dalam implementasi lama | Cara memakainya sebagai pembaca |
 | --- | --- | --- |
-| Follow | Masukan bagi semua komponen di tabel sinyal kecuali Light Ranking | Ikuti sumber yang berguna berulang kali, bukan karena satu post viral |
+| Follow | Masukan bagi semua komponen di tabel sinyal kecuali Light Ranking | Ikuti sumber yang sudah berulang kali terbukti berguna, bukan karena satu post viral |
 | Unfollow | Hanya tercantum di kolom USS | Lepaskan akun yang tak lagi kamu perlukan, tanpa berharap riwayat lama ikut lenyap |
 | Like | Dipakai keenam komponen dan diprediksi model | Berikan pada tulisan yang memang layak kamu temui lagi |
 | Unlike | Tercantum di kolom USS dan SimClusters | Koreksi like yang keliru, bukan penghapus minat |

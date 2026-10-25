@@ -24,7 +24,7 @@ Steinberg juga menarik garis dari Atom ke waralaba yang datang belakangan, seper
 
 Ekspor tidak menunggu lama. Pada 1963, tahun yang sama dengan penayangan perdananya, NBC Enterprises membeli hak *Tetsuwan Atom*. Tezuka sendiri berangkat ke Amerika pada Maret 1963 untuk mengurus kontraknya, dan pada Mei 1963 kontrak untuk 52 episode ditandatangani.
 
-Fred Ladd, yang menangani versi bahasa Inggrisnya, menyiapkan 104 episode berbahasa Inggris. Namun Atom tidak tampil di jaringan nasional NBC. Serial itu dipasarkan NBC Enterprises secara sindikasi ke stasiun TV AS mulai September 1963. Artinya, stasiun lokal membeli hak tayang satu per satu, dan Atom muncul di sekitar 50 stasiun di banyak kota tanpa harus bergantung pada satu jaringan nasional.
+Fred Ladd, yang menangani versi bahasa Inggrisnya, dalam dua tahun berikutnya menyiapkan 104 episode berbahasa Inggris. Namun Atom tidak tampil di jaringan nasional NBC. Serial itu dipasarkan NBC Enterprises secara sindikasi ke stasiun TV AS mulai September 1963. Artinya, stasiun lokal membeli hak tayang satu per satu, dan Atom muncul di sekitar 50 stasiun di banyak kota tanpa harus bergantung pada satu jaringan nasional.
 
 Amerika pun bukan satu-satunya tujuan: serial ini juga tayang di Tiongkok dan Eropa. Sejak awal, anime televisi dibuat untuk penonton Jepang tetapi dijual juga ke luar negeri.
 
@@ -43,4 +43,4 @@ Jika kamu menonton anime musim ini, banyak unsurnya sudah ada pada *Astro Boy*:
 - sponsor dan barang dagangan yang membuat tokoh hidup di luar layar, seperti stiker cokelat Meiji Seika;
 - penjualan ke luar negeri yang dimulai pada tahun yang sama dengan penayangan perdana, lewat sindikasi NBC Enterprises ke sekitar 50 stasiun TV AS; serial yang sama juga tayang di Tiongkok dan Eropa.
 
-Industri sekarang jauh lebih besar dan rumit, tetapi pertanyaan dasarnya masih sama dengan yang dihadapi pada 1963. Siapa yang membiayai tayangan semahal itu, dan bagaimana membuat tokohnya menghasilkan nilai lebih lama daripada masa tayangnya? Pola yang lahir dari Atom, yaitu tokoh yang dijual di banyak media sekaligus, membutuhkan mesin pembiayaan yang lebih besar seiring tumbuhnya industri, dan jawabannya kelak datang dari komite produksi yang membagi risiko pendanaan di antara banyak perusahaan.
+Industri sekarang jauh lebih besar dan rumit, tetapi pertanyaan dasarnya masih sama dengan yang dihadapi pada 1963. Siapa yang membiayai tayangan semahal itu, dan bagaimana membuat tokohnya menghasilkan nilai lebih lama daripada masa tayangnya? Pola yang lahir dari Atom, yaitu tokoh yang dijual di banyak media sekaligus, membutuhkan mesin pembiayaan yang lebih besar seiring tumbuhnya industri. Jawabannya kelak datang dari komite produksi yang membagi risiko pendanaan di antara banyak perusahaan.

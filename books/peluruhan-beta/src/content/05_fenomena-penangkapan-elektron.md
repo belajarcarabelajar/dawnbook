@@ -1,10 +1,10 @@
 ## Fenomena Penangkapan Elektron (Electron Capture)
 
-Di antara proses peluruhan beta, ada satu fenomena yang cukup unik, dan keunikannya baru terlihat jelas bila dibandingkan dengan proses sebelumnya. Jika sebelumnya kita membahas bagaimana inti atom membuang sesuatu (seperti elektron atau positron) untuk mencapai kestabilan, kali ini kita akan melihat fenomena di mana inti atom justru mengambil sesuatu dari lingkungannya sendiri. Fenomena ini disebut **Penangkapan Elektron (Electron Capture)**.
+Di antara proses peluruhan beta, ada satu fenomena yang cukup unik, dan keunikannya baru terlihat jelas bila dibandingkan dengan proses sebelumnya. Jika sebelumnya kita membahas bagaimana inti atom membuang sesuatu (seperti elektron atau positron) untuk mencapai kestabilan, kali ini kita akan melihat fenomena ketika inti atom justru mengambil sesuatu dari lingkungannya sendiri. Fenomena ini disebut **Penangkapan Elektron (Electron Capture)**.
 
 ### Apa itu Penangkapan Elektron?
 
-**Penangkapan Elektron (EC)** adalah proses peluruhan radioaktif di mana inti atom yang kaya akan proton menyerap satu elektron dari kulit atom bagian dalam (biasanya kulit K atau L).
+**Penangkapan Elektron (EC)** adalah proses peluruhan radioaktif ketika inti atom yang kaya akan proton menyerap satu elektron dari kulit atom bagian dalam (biasanya kulit K atau L).
 
 Berbeda dengan peluruhan Beta Plus ($\beta^+$) yang memancarkan positron, pada penangkapan elektron, sebuah proton di dalam inti bergabung dengan elektron yang ditangkap tersebut untuk berubah menjadi neutron.
 
@@ -32,7 +32,7 @@ $$
 
 - $X$: Unsur induk.
 - $Y$: Unsur anak (nomor atom berkurang 1, massa tetap).
-- $e^-$: Elektron yang ditangkap dari kulit K (sering disebut *K-capture*).
+- $e^-$: Elektron yang ditangkap, biasanya dari kulit K (sering disebut *K-capture*).
 - $\nu_e$: Neutrino elektron.
 
 ### Mengapa Memilih Penangkapan Elektron daripada Beta Plus?
@@ -44,7 +44,7 @@ Ada faktor **Energi Ambang (Threshold Energy)**:
 1. **Peluruhan Beta Plus ($\beta^+$):** Membutuhkan energi cadangan setidaknya $1.022 \text{ MeV}$. Jika perbedaan massa antara inti induk dan anak kurang dari ini, peluruhan $\beta^+$ **mustahil** terjadi secara spontan.
 2. **Penangkapan Elektron (EC):** Tidak memerlukan ambang energi sebesar itu. Oleh karena itu, bagi isotop yang miskin energi tapi ingin menjadi stabil, penangkapan elektron adalah satu-satunya jalan keluar.
 
-*Hipotesis Fisika Nuklir: Tanpa mekanisme penangkapan elektron, sejumlah isotop radioaktif akan terperangkap dalam status tidak stabil secara permanen akibat ketiadaan ambang energi yang memadai untuk peluruhan beta plus.*
+*Hipotesis Fisika Nuklir: Tanpa mekanisme penangkapan elektron, sejumlah isotop radioaktif akan terperangkap dalam status tidak stabil secara permanen karena energi peluruhannya tidak mencapai ambang yang diperlukan untuk peluruhan beta plus.*
 
 ### Sinar-X Karakteristik dan Elektron Auger
 
@@ -61,7 +61,7 @@ Proses perpindahan elektron ini menghasilkan dua fenomena deteksi yang sangat pe
 
 Penangkapan elektron bukan sekadar teori fisika; ia memiliki kegunaan praktis:
 
-- **Diagnostik Medis (Isotop Iodium-123):** Isotop ${}^{123}\text{I}$ meluruh melalui penangkapan elektron menjadi ${}^{123}\text{Te}$. Proses ini memancarkan Sinar-X yang berguna dalam pemindaian kelenjar tiroid tanpa memberikan dosis radiasi partikel (beta) yang merusak jaringan tubuh pasien.
+- **Diagnostik Medis (Isotop Iodium-123):** Isotop ${}^{123}\text{I}$ meluruh melalui penangkapan elektron menjadi ${}^{123}\text{Te}$. Proses ini memancarkan Sinar-X dan sinar gamma yang berguna dalam pemindaian kelenjar tiroid tanpa memberikan dosis radiasi partikel (beta) yang merusak jaringan tubuh pasien.
 
   **Persamaan:**
   <div>

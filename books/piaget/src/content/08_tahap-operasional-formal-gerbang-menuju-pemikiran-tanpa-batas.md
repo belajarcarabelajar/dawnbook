@@ -18,7 +18,7 @@ Ada tiga ciri khas cara berpikir di tahap ini:
 
 Remaja mulai paham konsep tanpa wujud fisik seperti keadilan, cinta, nilai moral, atau politik. 
 
-*Contoh: Anak tahap konkret mungkin mengartikan "jujur" sebagai mengembalikan uang kembalian ibu. Sedangkan remaja tahap formal sudah bisa berdebat tentang konsep kejujuran dalam sistem hukum korupsi.*
+*Contoh: Anak tahap konkret mungkin mengartikan "jujur" sebagai mengembalikan uang kembalian ibu. Sedangkan remaja tahap formal sudah bisa berdebat tentang konsep kejujuran dalam sistem hukum, misalnya dalam kasus korupsi.*
 
 ### B. Penalaran Hipotesis-Deduktif
 
@@ -37,7 +37,7 @@ Saat memecahkan masalah, remaja mulai terorganisir. Mereka berhenti memakai cara
 
 Piaget sering memakai tes **Pendulum** untuk mengecek apakah seseorang sudah masuk ke operasional formal.
 
-**Tugas:** Seseorang diberi beban dengan berat berbeda-beda dan tali yang panjangnya juga bervariasi. Misi mereka adalah mencari tahu faktor mana yang paling mempengaruhi kecepatan ayunan pendulum.
+**Tugas:** Seseorang diberi beban dengan berat berbeda-beda dan tali yang panjangnya juga bervariasi. Misi mereka adalah mencari tahu faktor mana yang paling memengaruhi kecepatan ayunan pendulum.
 
 - **Anak Operasional Konkret:** Biasanya langsung mencoba acak. Mengganti beban dan panjang tali bersamaan, sehingga tebakannya sering meleset karena variabelnya campur aduk.
 - **Remaja Operasional Formal:** Mulai mengisolasi variabel. Mereka menahan beban agar tetap sama sambil mencoba berbagai panjang tali, atau sebaliknya.
@@ -62,7 +62,7 @@ Remaja di tahap ini sanggup mengevaluasi kebenaran logika suatu pernyataan (prop
 3. Jadi, Meong bisa terbang. (Kesimpulan)
 
 Anak tahap konkret akan protes keras: *"Mana ada kucing terbang!"*
-Tapi remaja tahap formal bisa bilang: *"Secara logika kesimpulannya benar karena mengikuti premis awal, biarpun di dunia nyata itu salah."*
+Tapi remaja tahap formal bisa bilang: *"Secara logika penalarannya sahih karena kesimpulannya mengikuti premis awal, biarpun di dunia nyata itu salah."*
 
 ## 5\. Penerapan Pemikiran Formal
 
@@ -82,7 +82,7 @@ Dalam dunia teknis, operasional formal sangat penting untuk *debugging* atau mer
 Seorang teknisi remaja memakai logika deduktif saat internet rumah mati:
 1. **Hipotesis 1:** Masalah ada di router. (Cara tes: lihat lampu indikator).
 2. **Hipotesis 2:** Masalah ada di kabel pusat ISP. (Cara tes: cek koneksi rumah tetangga).
-3. **Analisis:** Kalau router menyala hijau tapi internet tetap mati, kemungkinan besar masalahnya dari ISP.
+3. **Analisis:** Kalau router menyala hijau tapi internet tetap mati, masalahnya mungkin dari ISP.
 4. **Tindakan:** Kalau lampu router tidak menyala hijau, router perlu di-restart atau diganti. Kalau router hijau dan internet tetangga ikut mati, saatnya menghubungi ISP. Kalau router hijau dan internet tetangga lancar, yang perlu diperiksa adalah perangkat di rumah sendiri.
 
 Remaja operasional formal bisa menelusuri percabangan ini di kepala mereka sebelum mulai bertindak:
@@ -111,4 +111,4 @@ Uniknya, perkembangan cara berpikir ini juga memunculkan egosentrisme jenis baru
 
 **Latihan Cepat:** Coba pikirkan, *"Apa yang terjadi kalau semua mata uang di dunia tiba-tiba hilang besok pagi?"*
 
-Kalau kamu mulai membayangkan kembalinya sistem barter, ambruknya rantai pasok global, dan bergesernya struktur kekuasaan sosial, selamat! Kamu baru saja mempraktikkan **Pemikiran Hipotesis-Deduktif** kamu.
+Kalau kamu mulai membayangkan kembalinya sistem barter, ambruknya rantai pasok global, dan bergesernya struktur kekuasaan sosial, selamat! Kamu baru saja mempraktikkan **Penalaran Hipotesis-Deduktif** kamu.

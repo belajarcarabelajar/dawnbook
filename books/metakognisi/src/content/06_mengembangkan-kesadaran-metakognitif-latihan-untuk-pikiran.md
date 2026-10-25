@@ -8,7 +8,7 @@ Di bawah ini ada beberapa langkah praktis buat melatih keterampilan metakognitif
 
 ## 1\. Jurnal Belajar
 
-Jurnal belajar adalah alat sederhana untuk melacak progres belajar dan emosi kamu selama prosesnya. Kalau kamu rutin menulis pikiranmu, perlahan kamu bakal mengenali pola, kelebihan, dan bagian mana dari gaya belajarmu yang masih perlu diperbaiki.
+Jurnal belajar adalah alat sederhana untuk melacak progres belajar dan emosi kamu selama prosesnya. Kalau kamu rutin menulis pikiranmu, perlahan kamu bakal mengenali pola, kelebihan, dan bagian mana dari cara belajarmu yang masih perlu diperbaiki.
 
 ### Cara Memulainya
 
@@ -39,7 +39,7 @@ Jurnal belajar adalah alat sederhana untuk melacak progres belajar dan emosi kam
 
 - Membantu menganalisis dan mencari jalan keluar pas mentok belajar sesuatu.
 - Bikin kita lebih antusias dan terlibat dalam prosesnya.
-- Membantu mengenali gaya belajar yang paling cocok.
+- Membantu mengenali strategi belajar yang paling cocok.
 - Memberikan gambaran progres yang sudah dicapai.
 - Membantu mengatur jadwal dan melatih kebiasaan menulis.
 
@@ -83,7 +83,7 @@ Mind map itu sifatnya visual dan ngebantu kalau kamu mau menata informasi yang b
 ### Cara Menggunakan Mind Map untuk Perencanaan
 
 1. **Tentukan Tujuan Utama:** Tulis target belajar atau masalah yang mau diselesaikan di bagian tengah mind map. Misalnya, "Paham Konsep X" atau "Beresin Proyek Y".
-2. **Cabang Utama (Aspek Kognitif):** Bikin cabang-cabang yang isinya bagian penting dari rencanamu. Contoh:
+2. **Cabang Utama (Aspek Metakognitif):** Bikin cabang-cabang yang isinya bagian penting dari rencanamu. Contoh:
 	- **Tujuan Belajar:** Aku mau capai apa?
 		- **Pengetahuan Awal:** Aku udah tahu apa aja soal ini? (Pengetahuan deklaratif)
 		- **Strategi:** Nanti aku mau belajar atau ngerjainnya pakai cara apa? (Pengetahuan prosedural)
@@ -172,7 +172,7 @@ Ngobrol dan diskusi bareng teman itu ngasih pengaruh gede buat mendalami suatu m
 - "Waktu belajar topik X, kamu pakai cara apa, dan kenapa pilih cara itu?"
 - "Pas ngerjain tugas ini, kamu paling mentok di mana? Terus ngakalinnya gimana?"
 - "Andai bisa ngulang, apa yang bakal kamu ubah dari caramu ngerjain tugas tadi?"
-- "Dari tugas ini, kamu jadi nyadar apa soal gaya belajarmu sendiri?"
+- "Dari tugas ini, kamu jadi nyadar apa soal cara belajarmu sendiri?"
 - "Setelah kita ngobrol begini, ada pandanganmu yang berubah soal topiknya nggak?"
 - "Ada ide atau cara dari teman lain yang pengen kamu coba terapkan nanti?"
 

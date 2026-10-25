@@ -6,7 +6,7 @@ Logika sederhana itu tumbuh menjadi mesin besar bernama *media mix*. Di belakang
 
 ### Stiker yang Menjual Tayangan
 
-Stiker tadi bukan khayalan. Di bab 2 kamu sudah bertemu stiker Atom yang dibagikan bersama cokelat Meiji Seika. Marc Steinberg membedah contoh ini dalam *Anime's Media Mix: Franchising Toys and Characters in Japan* (University of Minnesota Press, 2012), dan yang ia temukan lebih dari sekadar promosi. Arah hubungannya berubah. Acara televisi tidak lagi berdiri sendiri lalu ditopang iklan. Tokohnya yang berdiri di tengah, sementara tayangan, camilan, dan barang lain saling menjual satu sama lain.
+Stiker tadi bukan khayalan. Di bab 2 kamu sudah bertemu stiker Astro Boy yang dibagikan bersama cokelat Meiji Seika. Marc Steinberg membedah contoh ini dalam *Anime's Media Mix: Franchising Toys and Characters in Japan* (University of Minnesota Press, 2012), dan yang ia temukan lebih dari sekadar promosi. Arah hubungannya berubah. Acara televisi tidak lagi berdiri sendiri lalu ditopang iklan. Tokohnya yang berdiri di tengah, sementara tayangan, camilan, dan barang lain saling menjual satu sama lain.
 
 Steinberg juga menyamakan *media mix* dengan apa yang di Barat dinamai konvergensi media (*convergence*). Dalam bacaannya, keduanya sama-sama berawal dari Astro Boy pada awal 1963, dan garis itu terus berlanjut ke waralaba yang datang belakangan.
 
@@ -18,7 +18,7 @@ Intinya, sebuah cerita tidak dimiliki satu medium. Manga bisa menjadi sumbernya.
 
 Lalu, siapa yang membayar semua itu? Sebuah tulisan di [Sakuga Blog](https://blog.sakugabooru.com/2017/05/02/what-is-an-animes-production-committee/) pada Mei 2017 menjelaskan komite produksi sebagai usaha patungan beberapa perusahaan untuk mendanai satu karya. Di meja yang sama bisa duduk penerbit, stasiun televisi, produsen mainan, biro iklan, dan distributor film.
 
-Patungan semacam ini membagi risiko. Kalau sebuah judul gagal, kerugian tiap anggota masih bisa ditanggung; kalau judulnya laris, bagian keuntungan masing-masing ikut mengecil. Para spesialis juga berkumpul di satu tempat, sehingga tiap anggota mengurus bidang yang paling ia kuasai. Pemodal yang menanam lebih banyak biasanya tercantum lebih tinggi di daftar kredit.
+Patungan semacam ini membagi risiko. Kalau sebuah judul gagal, kerugian tiap anggota masih bisa ditanggung; kalau judulnya laris, keuntungannya dibagi bersama sehingga bagian masing-masing lebih kecil. Para spesialis juga berkumpul di satu tempat, sehingga tiap anggota mengurus bidang yang paling ia kuasai. Pemodal yang menanam lebih banyak biasanya tercantum lebih tinggi di daftar kredit.
 
 Contoh yang diangkat Sakuga Blog adalah *Akira*, salah satu film awal yang dibiayai dengan cara ini, dengan anggota antara lain Kodansha, MBS, Bandai, Hakuhodo, Toho, dan Tokyo Movie. Tulisan itu juga mencatat bahwa model komite makin meluas setelah *Evangelion* (1995).
 

@@ -1,10 +1,10 @@
-## Konsep Dasar Ancaman Kerentanan dan Risiko Bencana
+## Konsep Dasar Ancaman, Kerentanan, dan Risiko Bencana
 
-Memahami *ancaman kerentanan risiko bencana* sebagai satu kesatuan membantu kamu melihat bencana bukan sebagai kejadian acak. Bencana adalah hasil pertemuan antara bahaya dan kondisi masyarakat yang terpapar. Banyak orang mengira gempa atau banjir otomatis berarti bencana, padahal tanpa manusia dan aset yang rentan, peristiwa itu hanya fenomena alam. Bab ini mengurai empat pilar dari kerangka UNDRR, rumus risiko, dan contoh nyata di Indonesia.
+Memahami *ancaman, kerentanan, dan risiko bencana* sebagai satu kesatuan membantu kamu melihat bencana bukan sebagai kejadian acak. Bencana adalah hasil pertemuan antara bahaya dan kondisi masyarakat yang terpapar. Banyak orang mengira gempa atau banjir otomatis berarti bencana, padahal tanpa manusia dan aset yang rentan, peristiwa itu hanya fenomena alam. Bab ini mengurai empat pilar dari kerangka UNDRR, rumus risiko, dan contoh nyata di Indonesia.
 
 ### Mengapa Empat Pilar Ini Penting
 
-Kerangka risiko modern bertumpu pada empat komponen: *ancaman*, *keterpaparan*, *kerentanan*, dan *kapasitas*. Risiko hanya muncul ketika keempatnya bertemu dalam ruang dan waktu yang sama. Jika satu komponen nol, risiko ikut nol.
+Kerangka risiko modern bertumpu pada empat komponen: *ancaman*, *keterpaparan*, *kerentanan*, dan *kapasitas*. Risiko hanya muncul ketika keempatnya bertemu dalam ruang dan waktu yang sama. Jika ancaman, keterpaparan, atau kerentanan nol, risiko ikut nol.
 
 > **Definisi UNDRR:** *Ancaman* adalah proses, fenomena, atau aktivitas manusia yang dapat menyebabkan hilangnya nyawa, cedera, kerusakan properti, gangguan sosial ekonomi, atau degradasi lingkungan. *Kerentanan* adalah kondisi yang ditentukan oleh faktor fisik, sosial, ekonomi, dan lingkungan yang meningkatkan kepekaan terhadap dampak ancaman. *Keterpaparan* adalah keberadaan orang, aset, dan sistem di lokasi yang berpotensi terkena ancaman. *Kapasitas* adalah kombinasi kekuatan dan sumber daya yang tersedia untuk mengelola risiko.
 
@@ -44,7 +44,7 @@ Kapasitas mencakup pengetahuan, keterampilan, kelembagaan, dan sumber daya untuk
 
 ### Rumus Risiko
 
-Secara konseptual, hubungan antar pilar sering ditulis sebagai perkalian. Bentuk paling sederhana adalah \\( \text{Risiko} \approx \text{Ancaman} \times \text{Kerentanan} \\).
+Secara konseptual, hubungan antarpilar sering ditulis sebagai perkalian. Bentuk paling sederhana adalah \\( \text{Risiko} \approx \text{Ancaman} \times \text{Kerentanan} \\).
 
 Model yang lebih lengkap memasukkan keterpaparan dan kapasitas:
 
@@ -78,12 +78,12 @@ Jakarta menghadapi ancaman banjir tahunan dari luapan Ciliwung, hujan ekstrem, d
 
 Kerentanan diperbesar permukiman padat di bantaran sungai, drainase yang tidak sebanding dengan pertumbuhan kawasan, dan penurunan muka tanah akibat ekstraksi air tanah. Kapasitas seperti Kanal Banjir Timur, pompa, dan telemetri membantu menahan risiko, tetapi ketika kapasitas tumbuh lebih lambat dari keterpaparan, risiko tetap tinggi.
 
-### Hubungan Dinamis Antar Konsep
+### Hubungan Dinamis Antarkonsep
 
 Keempat pilar saling mengunci:
 
 *   **Ancaman tanpa keterpaparan** tidak menjadi bencana. Letusan di pulau tak berpenghuni tetap ancaman.
-*   **Keterpaparan dengan kerentanan rendah** relatif aman. Kawasan terpapar banjir dengan bangunan terangkat dan peringatan terlatih rugi lebih kecil.
+*   **Keterpaparan dengan kerentanan rendah** relatif aman. Kawasan terpapar banjir dengan bangunan terangkat dan warga yang terlatih merespons peringatan mengalami kerugian lebih kecil.
 *   **Kapasitas memotong rantai kerentanan.** Pengetahuan evakuasi dan akses peringatan mengubah dampak tinggi menjadi terkendali.
 *   **Risiko bersifat lokal dan temporal.** Risiko satu kelurahan berbeda dengan sebelah, dan risiko hari ini berbeda setelah perubahan tata guna lahan.
 
@@ -101,4 +101,4 @@ Karena perbedaan kerentanan dan kapasitas. Kualitas bangunan, kepadatan, akses i
 **Bagaimana peringatan dini masuk dalam rumus?**
 Peringatan dini meningkatkan \\( \text{Kapasitas} \\). Dengan waktu tambahan beberapa menit hingga jam, kamu dapat mengurangi keterpaparan lewat evakuasi dan menurunkan kerentanan lewat tindakan antisipasi.
 
-Memahami logika ancaman kerentanan risiko bencana membantu kamu bergeser dari sikap reaktif menjadi proaktif membaca peta risiko.
+Memahami logika ancaman, kerentanan, dan risiko bencana membantu kamu bergeser dari sikap reaktif menjadi proaktif membaca peta risiko.

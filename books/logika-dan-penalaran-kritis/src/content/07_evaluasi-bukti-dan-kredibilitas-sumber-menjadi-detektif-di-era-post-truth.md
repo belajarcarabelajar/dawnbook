@@ -1,6 +1,6 @@
 ## Evaluasi Bukti dan Kredibilitas Sumber
 
-Bayangkan kamu adalah seorang detektif yang berdiri di depan tumpukan berkas kasus. Beberapa berkas berisi kesaksian saksi mata yang jujur, namun yang lain berisi rumor tak berdasar atau bahkan kebohongan yang disengaja. Di era informasi digital ini, kita semua adalah detektif tersebut. Setiap hari, kita menerima banyak potongan data, berita, dan klaim.
+Bayangkan kamu adalah seorang detektif yang berdiri di depan tumpukan berkas kasus. Beberapa berkas berisi kesaksian saksi mata yang jujur, tetapi yang lain berisi rumor tak berdasar atau bahkan kebohongan yang disengaja. Di era informasi digital ini, kita semua adalah detektif tersebut. Setiap hari, kita menerima banyak potongan data, berita, dan klaim.
 
 Kemampuan untuk **mengevaluasi bukti** dan **menilai kredibilitas sumber** bukan lagi sekadar keterampilan akademis, melainkan kebutuhan sehari-hari untuk menjaga penalaran kita.
 
@@ -11,11 +11,11 @@ Bukti adalah segala sesuatu yang digunakan untuk mendukung atau membuktikan suat
 ### Kualitas Bukti berdasarkan Hierarki
 
 1. **Anecdotal Evidence (Bukti Anekdot):** Berdasarkan pengalaman pribadi ("Teman saya sembuh setelah minum ini"). Ini adalah bukti terlemah karena rentan terhadap bias subjektif.
-2. **Observational Evidence (Bukti Observasional):** Data yang dikumpulkan melalui pengamatan sistematis namun tanpa kontrol ketat.
+2. **Observational Evidence (Bukti Observasional):** Data yang dikumpulkan melalui pengamatan sistematis tetapi tanpa kontrol ketat.
 3. **Experimental Evidence (Bukti Eksperimental):** Hasil dari uji coba terkontrol yang dapat direplikasi.
-4. **Meta-Analysis dan Systematic Review:** Puncak hierarki bukti ilmiah, di mana banyak studi dikumpulkan dan dianalisis secara kolektif.
+4. **Meta-Analysis dan Systematic Review:** Puncak hierarki bukti ilmiah, ketika banyak studi dikumpulkan dan dianalisis secara kolektif.
 
-> **Prinsip Utama:** *"Absence of evidence is not evidence of absence"* (Ketiadaan bukti bukanlah bukti dari ketiadaan). Hanya karena seseorang belum membuktikan sesuatu itu salah, bukan berarti hal tersebut otomatis benar.
+> **Prinsip Utama:** *"Absence of evidence is not evidence of absence"* (Ketiadaan bukti bukanlah bukti dari ketiadaan). Hanya karena belum ada bukti bahwa sesuatu itu ada atau benar, bukan berarti hal tersebut pasti tidak ada atau salah.
 
 ### Validitas dan Reliabilitas
 
@@ -24,7 +24,7 @@ Untuk menilai bukti secara teknis, kita menggunakan dua parameter utama:
 - **Validity (Validitas):** Apakah data tersebut benar-benar mengukur apa yang seharusnya diukur?
 - **Reliability (Reliabilitas):** Jika pengukuran diulang dalam kondisi yang sama, apakah hasilnya konsisten?
 
-Dalam statistik, kita sering melihat nilai signifikansi untuk menentukan apakah bukti tersebut kuat secara matematis: $p < 0.05$. Artinya, probabilitas bahwa hasil tersebut terjadi karena kebetulan adalah kurang dari 5%.
+Dalam statistik, kita sering melihat nilai signifikansi untuk menentukan apakah bukti tersebut kuat secara matematis: $p < 0.05$. Artinya, jika sebenarnya tidak ada efek (hipotesis nol benar), peluang memperoleh hasil seekstrem ini atau yang lebih ekstrem adalah kurang dari 5%.
 
 ## 2. Kredibilitas Sumber dan Metode CRAAP
 
@@ -81,7 +81,7 @@ Jika kamu mengunduh data riset, bagaimana kamu tahu data tersebut tidak dimanipu
 
 ### Deteksi Bias dalam Dataset (AI/ML)
 
-Dalam pengembangan AI, bukti (data) musti dievaluasi untuk menghindari bias. Jika model pengenalan wajah hanya dilatih dengan data dari satu etnis, bukti tersebut tidak valid untuk populasi global.
+Dalam pengembangan AI, bukti (data) mesti dievaluasi untuk menghindari bias. Jika model pengenalan wajah hanya dilatih dengan data dari satu etnis, bukti tersebut tidak valid untuk populasi global.
 
 ## 5. Aplikasi Dunia Nyata dan Skenario
 
@@ -90,14 +90,14 @@ Dalam pengembangan AI, bukti (data) musti dievaluasi untuk menghindari bias. Jik
 **Klaim:** "Menghirup uap air garam bisa membunuh virus X."
 
 - **Evaluasi Bukti:** Cari di Google Scholar atau situs kesehatan resmi (WHO/Kemenkes). Apakah ada jurnal medis yang mendukung? (Hasil: Tidak ada).
-- **Kredibilitas Sumber:** Siapa yang mengirim? Apakah ada nama dokter atau institusi yang bisa diverifikasi? Seringkali pesan ini menggunakan otoritas palsu ("Dokter dari RS Ternama").
+- **Kredibilitas Sumber:** Siapa yang mengirim? Apakah ada nama dokter atau institusi yang bisa diverifikasi? Sering kali pesan ini menggunakan otoritas palsu ("Dokter dari RS Ternama").
 
 ### Laporan Keuangan Perusahaan
 
 **Klaim:** "Perusahaan kami tumbuh 200% tahun ini!"
 
-- **Evaluasi Bukti:** Lihat basis pertumbuhannya. Jika tahun lalu untung USD 1 dan tahun ini USD 3, itu memang tumbuh 200%, namun secara nominal nilainya tidak seberapa.
-- **Kredibilitas:** Apakah laporan ini diaudit oleh akuntan publik independen (The Big Four)?
+- **Evaluasi Bukti:** Lihat basis pertumbuhannya. Jika tahun lalu untung USD 1 dan tahun ini USD 3, itu memang tumbuh 200%, tetapi secara nominal nilainya tidak seberapa.
+- **Kredibilitas:** Apakah laporan ini diaudit oleh akuntan publik independen (misalnya salah satu firma The Big Four)?
 
 ## Poin Kunci
 

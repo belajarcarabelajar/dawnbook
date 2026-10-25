@@ -36,7 +36,7 @@ Dalam perspektif ini, kegagalan bukan lagi sebuah serangan terhadap harga dirimu
 
 ### Cara Ilmuwan Memandang Eksperimen Gagal
 
-Bayangkan seorang ilmuwan yang sedang mencoba menciptakan obat baru. Dia mencampurkan dua zat kimia, dan tiba-tiba tabung reaksinya mengeluarkan asap hitam,eksperimennya gagal.
+Bayangkan seorang ilmuwan yang sedang mencoba menciptakan obat baru. Dia mencampurkan dua zat kimia, dan tiba-tiba tabung reaksinya mengeluarkan asap hitam. Eksperimennya gagal.
 
 Apakah ilmuwan itu akan pulang, menangis, dan mengatakan, *"Saya adalah ilmuwan yang bodoh, saya menyerah"*? Tentu tidak. Dia akan mengambil catatan dan menulis: *"Zat A tidak bereaksi dengan baik pada suhu 100°C dengan Zat B. Saya butuh data baru."*
 
@@ -67,7 +67,7 @@ Untuk menguasai seni ini, kamu bisa mengikuti langkah-langkah sistematis berikut
 
 ### Optimisme vs. Reframing
 
-Sering kali orang bingung membedakan antara berpikir positif (optimisme) dengan membingkai ulang.
+Sering kali orang bingung membedakan antara berpikir positif (optimisme) dan membingkai ulang.
 
 | Fitur | Optimisme Buta | Cognitive Reframing |
 | --- | --- | --- |
@@ -76,7 +76,7 @@ Sering kali orang bingung membedakan antara berpikir positif (optimisme) dengan 
 | **Tujuan** | Merasa lebih baik secara instan. | Memperbaiki strategi untuk masa depan. |
 | **Tindakan** | Pasif. | Aktif dan adaptif. |
 
-**Penting:** Membingkai ulang bukan berarti kamu tidak boleh merasa sedih atau kecewa. Izinkan dirimu merasakan emosi tersebut, namun jangan biarkan emosi tersebut menulis narasi permanen tentang siapa dirimu.
+**Penting:** Membingkai ulang bukan berarti kamu tidak boleh merasa sedih atau kecewa. Izinkan dirimu merasakan emosi tersebut, tetapi jangan biarkan emosi tersebut menulis narasi permanen tentang siapa dirimu.
 
 ### Mengubah "Beban" Menjadi "Latihan"
 

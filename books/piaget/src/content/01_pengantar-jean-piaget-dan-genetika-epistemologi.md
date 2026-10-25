@@ -4,9 +4,9 @@ Sebelum mempelajari tahapan-tahapan rumit dalam perkembangan anak, kenali dulu s
 
 ## 1\. Siapakah Jean Piaget?
 
-Jean Piaget (1896–1980) adalah seorang pemikir asal Swiss yang sudah menunjukkan kecerdasannya sejak dini. Latar belakang pendidikannya bukanlah psikologi, melainkan **Biologi**.
+Jean Piaget (1896–1980) adalah seorang pemikir asal Swiss yang sudah menunjukkan kecerdasannya sejak dini. Latar belakang pendidikannya bukanlah psikologi, melainkan **biologi**.
 
-- **Mulai Sejak Kecil:** Saat berusia sekitar 10 atau 11 tahun, Piaget menerbitkan artikel ilmiah pertamanya tentang burung pipit albino.
+- **Sejak Kecil:** Saat berusia sekitar 10 atau 11 tahun, Piaget menerbitkan artikel ilmiah pertamanya tentang burung pipit albino.
 - **Latar Belakang Biologi:** Ia meraih gelar doktor ilmu alam (1918), dengan disertasi tentang moluska (siput). Pengalaman ini sangat penting karena ia melihat bagaimana siput beradaptasi secara fisik dengan lingkungannya. Ia kemudian berpikir: *Bukankah pikiran manusia juga melakukan hal yang sama?*
 
 > **Wawasan Penting:** Piaget memandang kecerdasan bukan sebagai angka (IQ), melainkan sebagai bentuk **adaptasi biologis** yang memungkinkan manusia bertahan hidup dan berfungsi dalam lingkungannya.
@@ -22,9 +22,9 @@ Ia menyadari bahwa anak-anak pada usia yang sama cenderung memberikan **jawaban 
 
 ## 3\. Filosofi Genetika Epistemologi
 
-Istilah **Genetika Epistemologi** mungkin terdengar teknis, namun istilah ini menjadi fondasi teori Piaget. Mari kita bedah terminologinya:
+Istilah **Genetika Epistemologi** mungkin terdengar teknis, tetapi istilah ini menjadi fondasi teori Piaget. Mari kita bedah terminologinya:
 
-1. **Genetika (Genesis):** Bukan merujuk pada gen atau DNA, melainkan pada kata "genesa" yang berarti **asal-usul** atau **perkembangan**.
+1. **Genetika (Genesis):** Bukan merujuk pada gen atau DNA, melainkan pada kata "genesis" yang berarti **asal-usul** atau **perkembangan**.
 2. **Epistemologi:** Cabang filsafat yang mempelajari **hakikat dan batas-batas pengetahuan**.
 
 Jadi, **Genetika Epistemologi** adalah studi tentang bagaimana pengetahuan berkembang dalam diri manusia seiring dengan pertumbuhan mereka.
@@ -53,7 +53,7 @@ Anak kecil mungkin memiliki "rumah satu lantai" (logika sederhana), sementara re
 
 Memahami Genetika Epistemologi mengubah cara kita memperlakukan proses belajar-mengajar:
 
-1. **Pendidikan Berpusat pada Anak:** Guru tidak lagi hanya berceramah (mengisi botol kosong), tetapi menyediakan lingkungan di mana anak bisa bereksplorasi.
+1. **Pendidikan Berpusat pada Anak:** Guru tidak lagi hanya berceramah (mengisi botol kosong), tetapi menyediakan lingkungan tempat anak bisa bereksplorasi.
 2. **Menghargai Kesalahan:** Dalam perspektif Piagetian, kesalahan logika anak adalah jendela untuk memahami tahap perkembangan mereka saat ini.
 3. **Kesiapan Belajar (Readiness):** Kita tidak bisa mengajarkan kalkulus kepada anak usia 5 tahun, bukan karena mereka kurang pintar, tetapi karena "struktur epistemologi" mereka belum mencapai tahap yang memungkinkan pemahaman abstrak tersebut.
 

@@ -1,12 +1,12 @@
 ## Protokol Jurnal Resiliensi Harian
 
-Anggap halaman ini sebagai mental gym kamu, ruang yang diisi jurnal dan latihan praktis, bukan tumpukan teori baru tentang resiliensi. Jika bagian-bagian sebelumnya telah membekali kamu dengan teori dan pemahaman tentang resiliensi, bagian ini adalah tempat di mana kamu benar-benar "mengangkat beban" untuk memperkuat resilience muscle tersebut.
+Anggap halaman ini sebagai mental gym kamu, ruang yang diisi jurnal dan latihan praktis, bukan tumpukan teori baru tentang resiliensi. Jika bagian-bagian sebelumnya telah membekali kamu dengan teori dan pemahaman tentang resiliensi, bagian ini adalah tempat kamu benar-benar "mengangkat beban" untuk memperkuat resilience muscle tersebut.
 
 Resiliensi bukanlah sebuah bakat yang kita bawa sejak lahir, melainkan sebuah keterampilan yang diasah melalui pengulangan. Analogi yang tepat adalah **sistem kekebalan tubuh**. Tubuh kita menjadi kuat bukan karena tidak pernah terpapar kuman, melainkan karena ia belajar mengenali, melawan, dan beradaptasi setelah terpapar. Latihan praktis dan jurnal ini adalah "vaksin" dan "nutrisi" bagi mentalmu.
 
 ## 1. Dua Metode Jurnal
 
-Menulis lebih dari sekadar memindahkan kata ke kertas. Aktivitas ini merupakan proses kognitif untuk merapikan pikiran yang semrawut menjadi struktur yang logis. Berikut adalah dua metode jurnal yang bisa kamu terapkan secara bergantian.
+Menulis lebih dari sekadar memindahkan kata ke kertas. Aktivitas ini merupakan proses kognitif untuk merapikan pikiran yang semrawut menjadi struktur yang logis. Berikut adalah dua metode jurnal yang bisa kamu terapkan sesuai kebutuhan.
 
 ### A. Metode 3-2-1 (Fokus pada Pertumbuhan)
 
@@ -21,12 +21,12 @@ Lakukan ini setiap malam sebelum tidur untuk melatih otak mencari pola positif b
 Gunakan metode ini saat kamu mengalami kejadian spesifik yang menekan atau membuat stres.
 
 - **A (Adversity):** Apa peristiwa yang terjadi? (Hanya fakta, tanpa opini).
-- **B (Belief):** Apa yang kamu katakan pada diri sendiri tentang kejadian itu? (Misal: "Saya memang bodoh").
+- **B (Belief):** Apa yang kamu katakan pada diri sendiri tentang kejadian itu? (Misalnya: "Saya memang bodoh").
 - **C (Consequences):** Apa perasaan atau tindakan yang muncul akibat keyakinan tersebut?
 - **D (Disputation):** Debat keyakinan negatifmu. Apa bukti bahwa itu tidak sepenuhnya benar?
 - **E (Energization):** Bagaimana perasaanmu sekarang setelah berhasil melakukan reframing terhadap masalah tersebut?
 
-> **Penting:** Konsistensi lebih berharga daripada durasi. Menulis selama 5 menit setiap hari lebih efektif daripada menulis 2 jam namun hanya dilakukan sebulan sekali.
+> **Penting:** Konsistensi lebih berharga daripada durasi. Menulis selama 5 menit setiap hari lebih efektif daripada menulis 2 jam tetapi hanya dilakukan sebulan sekali.
 
 ## 2. Visualisasi "The Resilient Self"
 
@@ -36,7 +36,7 @@ Visualisasi berbeda dengan lamunan kosong (daydreaming). Bagi otak, visualisasi 
 
 Biasanya, kita memvisualisasikan kegagalan (kecemasan). Kali ini, kita akan membalikkan arusnya:
 
-1. **Identifikasi Tantangan:** Bayangkan sebuah situasi sulit yang akan kamu hadapi (misal: presentasi besar atau percakapan sulit).
+1. **Identifikasi Tantangan:** Bayangkan sebuah situasi sulit yang akan kamu hadapi (misalnya: presentasi besar atau percakapan sulit).
 2. **Visualisasikan Hambatan:** Jangan bayangkan semuanya berjalan mulus. Bayangkan ada masalah kecil yang muncul di tengah jalan.
 3. **Visualisasikan Respons:** Lihat dirimu menarik napas dalam, tetap tenang, dan menggunakan salah satu teknik resiliensi (seperti melakukan reframing) untuk mengatasinya.
 4. **Rasakan Hasilnya:** Rasakan kelegaan dan kepuasan setelah kamu berhasil melewati hambatan tersebut, bukan karena keberuntungan, tetapi berkat tindakanmu.
@@ -81,7 +81,7 @@ Semakin singkat waktu pemulihan pada tingkat stres yang tinggi, semakin tinggi i
 **Langkah Praktis Andi:**
 
 1. **Jurnal Segera (Metode ABCDE):** Andi menuliskan bahwa "Saya gagal karena saya tidak kompeten" (Belief). Ia lalu mendebatnya (Disputation) dengan mencatat bahwa tim penilai memuji presentasinya, hanya saja harga kompetitor lebih masuk akal.
-2. **Visualisasi Positif:** Malam harinya, Andi memvisualisasikan dirinya mengevaluasi proposal tersebut dan menerapkannya pada tender berikutnya dengan lebih percaya diri.
+2. **Visualisasi Positif:** Malam harinya, Andi memvisualisasikan dirinya mengevaluasi proposal tersebut dan menerapkan hasil evaluasinya pada tender berikutnya dengan lebih percaya diri.
 3. **Tindakan Terukur:** Andi memutuskan untuk meminta feedback tertulis dari klien, mengubah "kegagalan" menjadi "data".
 
 ## Ringkasan Latihan
@@ -90,8 +90,7 @@ Semakin singkat waktu pemulihan pada tingkat stres yang tinggi, semakin tinggi i
 | --- | --- | --- |
 | **Jurnal 3-2-1** | Harian (Malam) | Memprogram ulang otak untuk mencari peluang. |
 | **Metode ABCDE** | Saat Krisis | Memutus rantai pikiran negatif yang merusak. |
-| **Visualisasi Rehearsal** | Mingguan | Mempersiapkan mental menghadapi tekanan nyata. |
-| **Strengths Audit** | Bulanan | Menyadari sumber daya internal yang sudah dimiliki. |
+| **Reverse Mental Rehearsal** | Mingguan | Mempersiapkan mental menghadapi tekanan nyata. |
 
 > **Insight Penutup:** Resiliensi tidak berarti kamu tidak merasakan sakit. Resiliensi berarti kamu memiliki "toolbox" yang siap digunakan saat rasa sakit itu datang. Jangan menunggu badai datang untuk membangun perahumu; mulailah menulis dan berlatih hari ini.
 

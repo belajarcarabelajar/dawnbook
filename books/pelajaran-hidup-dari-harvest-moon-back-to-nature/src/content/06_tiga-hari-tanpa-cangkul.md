@@ -20,11 +20,11 @@ Manfaatnya bergantung pada tempat. Di dalam tambang, cangkul setinggi apa pun ti
 
 Uang dan bijih belum cukup. Setiap alat punya meteran pengalaman yang terisi setiap kali alat itu dipakai. Peningkatan ke Copper baru terbuka setelah meteran melewati 100 persen, lalu 200, 300, dan 400 persen untuk tingkat-tingkat berikutnya.
 
-Artinya, alat yang lebih baik tidak bisa dibeli tanpa lebih dulu lama memakai yang lama. Membelah ranting setiap hari bukan kerja yang sia-sia, karena tanganmu sedang mengisi meteran untuk kapak yang lebih tajam.
+Artinya, alat yang lebih baik tidak bisa dibeli tanpa lebih dulu lama memakai alat yang ada. Membelah ranting setiap hari bukan kerja yang sia-sia, karena tanganmu sedang mengisi meteran untuk kapak yang lebih tajam.
 
 ### Musim Ketika Cangkul Menganggur
 
-Pertanyaan yang lebih penting adalah kapan. Di musim dingin, penyiram, cangkul, dan sabit tidak bisa dipakai, jadi tiga hari tanpa ketiganya hampir tidak terasa. Penyiram layak didahulukan, sebab penyiram Mystrile membuat musim semi berikutnya jauh lebih ringan. Syaratnya cuma satu: semua alat sudah kembali dari Saibara sebelum musim tanam dimulai.
+Pertanyaan yang lebih penting adalah kapan. Di musim dingin, penyiram, cangkul, dan sabit tidak bisa dipakai, jadi tiga hari tanpa salah satu dari ketiganya hampir tidak terasa. Penyiram layak didahulukan, sebab penyiram Mystrile membuat musim semi berikutnya jauh lebih ringan. Syaratnya cuma satu: semua alat sudah kembali dari Saibara sebelum musim tanam dimulai.
 
 Musim dingin juga saat yang baik untuk mengumpulkan kayu, dan kayu membawa kita ke jenis peningkatan yang kedua.
 
@@ -44,6 +44,6 @@ Kamu mungkin menghadapi tawar-menawar serupa saat mengambil kursus di akhir peka
 
 ### Yang Perlu Kamu Ingat
 
-Setiap peningkatan dibayar dua kali: dengan uang dan bijih di meja Saibara, lalu dengan tiga hari tanpa alat itu. Dua-duanya adalah biaya peluang, dan yang kedua lebih mudah terlewat: nilai pilihan terbaik yang kamu lepaskan. Bayarlah ketika yang dilepaskan paling sedikit, seperti musim dingin bagi cangkul dan penyiram, dan mulailah dari alat yang paling banyak menghemat kerja.
+Setiap peningkatan dibayar dua kali: dengan uang dan bijih di meja Saibara, lalu dengan tiga hari tanpa alat itu. Dua-duanya adalah biaya peluang, yaitu nilai pilihan terbaik yang kamu lepaskan, dan yang kedua lebih mudah terlewat. Bayarlah ketika yang dilepaskan paling sedikit, seperti musim dingin bagi cangkul dan penyiram, dan mulailah dari alat yang paling banyak menghemat kerja.
 
 Setelah alat makin tajam dan kandang makin luas, tinggal satu pertanyaan: siapa yang akan menghuninya? Jawabannya ternyata dimulai dari ayam, bukan sapi.

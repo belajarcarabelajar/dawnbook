@@ -2,13 +2,13 @@
 
 Pernahkah kamu merasa sangat puas setelah membeli barang mewah terbaru, namun sensasi euforia itu menguap dalam hitungan hari? Di sisi lain, kamu mungkin pernah merasa sangat lelah seusai membantu keluarga melewati krisis, tetapi di penghujung malam ada ketenangan batin dan rasa utuh.
 
-Kontras antara dua pengalaman inilah yang menjadi pintu masuk untuk menggali Eudaimonia. Sebuah konsep kuno yang sering diterjemahkan secara sempit sebagai "kebahagiaan", padahal maknanya jauh lebih luas daripada emosi sesaat. Konsep ini menantang kita untuk melihat tujuan hidup dari sudut pandang yang lebih utuh.
+Kontras antara dua pengalaman inilah yang menjadi pintu masuk untuk menggali Eudaimonia, sebuah konsep kuno yang sering diterjemahkan secara sempit sebagai "kebahagiaan", padahal maknanya jauh lebih luas daripada emosi sesaat. Konsep ini menantang kita untuk melihat tujuan hidup dari sudut pandang yang lebih utuh.
 
 ## 1. Etimologi Eudaimonia
 
 Secara kebahasaan, **Eudaimonia** tersusun dari dua kata Yunani Kuno: **Eu** yang diartikan "baik", dan **Daimon** yang merujuk pada "spirit" atau "diri batiniah". Secara harfiah, Eudaimonia menggambarkan kondisi hidup yang selaras bersama "spirit baik" di dalam diri. Dalam kerangka Etika Kebajikan, pembahasan tidak berhenti pada sensasi emosi sesaat; ia berfokus pada kualitas dan arah tujuan hidup kita.
 
-> **Wawasan Penting:** Istilah ini lebih akurat direpresentasikan sebagai **"Human Flourishing"** (Keberkembangan Manusia) atau **"Kesejahteraan yang Bermakna"**. Ini merujuk pada momen saat seseorang mengerahkan dan mencapai kapasitas terbaiknya sebagai manusia.
+> **Wawasan Penting:** Istilah ini lebih akurat direpresentasikan sebagai **"Human Flourishing"** (Keberkembangan Manusia) atau **"Kesejahteraan yang Bermakna"**. Ini merujuk pada kehidupan yang secara utuh dijalani dengan mengerahkan dan mewujudkan kapasitas terbaik sebagai manusia.
 
 ## 2. Perbedaan Eudaimonia dan Hedonia
 
@@ -57,9 +57,9 @@ Bagi para penelaah Etika Kebajikan, akumulasi aset atau kebugaran otot tidak per
 
 ## 6. Eudaimonia di Pekerjaan dan Pertemanan
 
-Sebagai bahan renungan di ranah profesional, bayangkan sosok arsitek perangkat lunak yang mengeruk untung besar dengan membangun sistem algoritma untuk aplikasi penipuan digital. Kekayaan mengelilinginya, namun rutinitasnya membuat nuraninya makin hampa. Jika ia memutuskan beralih merancang sistem peringatan dini bencana alam (kendati dengan skema kompensasi yang lebih ketat), ia mulai mendekati Eudaimonia. Kapasitas intelektualnya (Akal Budi) digunakan untuk memastikan hadirnya manfaat konkret bagi masyarakat (Kebajikan).
+Sebagai bahan renungan di ranah profesional, bayangkan sosok arsitek perangkat lunak yang mengeruk untung besar dengan membangun sistem algoritma untuk aplikasi penipuan digital. Kekayaan mengelilinginya, namun rutinitasnya membuat nuraninya makin hampa. Jika ia memutuskan beralih merancang sistem peringatan dini bencana alam (kendati dengan kompensasi yang lebih kecil), ia mulai mendekati Eudaimonia. Kapasitas intelektualnya (Akal Budi) digunakan untuk memastikan hadirnya manfaat konkret bagi masyarakat (Kebajikan).
 
-Dalam kerangka hubungan interpersonal, dorongan mencari pertemanan tak jarang kandas di tahap pelarian akhir pekan semata. Filosofi eudaimonik mendorong standar yang lebih matang: kita merawat lingkaran kolega berlandaskan penghargaan mendalam atas integritas intelektual, di mana setiap individu bersedia mengambil peran aktif menolong satu sama lain bangkit dari keterpurukan.
+Dalam kerangka hubungan interpersonal, dorongan mencari pertemanan tak jarang kandas di tahap pelarian akhir pekan semata. Filosofi eudaimonik mendorong standar yang lebih matang: kita merawat lingkaran sahabat berlandaskan penghargaan mendalam atas integritas intelektual, yaitu setiap individu bersedia mengambil peran aktif menolong satu sama lain bangkit dari keterpurukan.
 
 ## 7. Kesejahteraan yang Terus Tumbuh
 

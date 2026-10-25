@@ -11,7 +11,7 @@ Secara etimologi, nama **Karmawibhangga** berasal dari bahasa Sanskerta yang ter
 1. **Karma**: Berarti "perbuatan", "tindakan", atau "aksi". Dalam konteks ini, karma bukan sekadar nasib, melainkan hukum sebab-akibat yang dipicu oleh kehendak (*cetana*).
 2. **Wibhangga**: Berarti "penguraian", "pembedaan", atau "klasifikasi".
 
-> **Insight Utama:** Jadi, secara harfiah, **Karmawibhangga berarti "Uraian tentang Alur Perbuatan"**. Relief ini berfungsi sebagai panduan visual yang menguraikan berbagai jenis perbuatan manusia dan konsekuensi (buah) yang akan diterima di masa depan.
+> **Insight Utama:** Jadi, secara harfiah, **Karmawibhangga berarti "Uraian tentang Perbuatan"**. Relief ini berfungsi sebagai panduan visual yang menguraikan berbagai jenis perbuatan manusia dan konsekuensi (buah) yang akan diterima di masa depan.
 
 Dalam matematika moral sederhana, kita bisa merumuskannya sebagai berikut:
 
@@ -21,20 +21,20 @@ $$
 $$
 </div>
 
-## 2\. Letak Geografis dan Spiritual Kamadhatu
+## 2\. Letak Arsitektural dan Spiritual Kamadhatu
 
 Candi Borobudur dibangun dengan konsep **Triloka** (Tiga Dunia). Relief Karmawibhangga terletak di bagian paling bawah yang disebut **Kamadhatu**.
 
-- **Kamadhatu** adalah "Dunia Keinginan". Ini adalah level di mana manusia masih terikat oleh nafsu, keinginan rendah, kemarahan, dan keterikatan duniawi.
+- **Kamadhatu** adalah "Dunia Keinginan". Ini adalah level tempat manusia masih terikat oleh nafsu, keinginan rendah, kemarahan, dan keterikatan duniawi.
 - Karena terletak di dasar, relief ini menjadi landasan filosofis sebelum seseorang mendaki ke tingkat yang lebih tinggi (**Rupadhatu** dan **Arupadhatu**).
 
 ## 3\. Tujuan Utama Relief Karmawibhangga
 
-Mengapa para arsitek masa lalu (Wangsa Shailendra) bersusah payah memahat 160 panel relief yang rinci jika pada akhirnya bagian tersebut harus ditutup? Ada beberapa tujuan utama di balik keberadaannya:
+Mengapa para arsitek masa lalu (pada masa Wangsa Shailendra) bersusah payah memahat 160 panel relief yang rinci jika pada akhirnya bagian tersebut harus ditutup? Ada beberapa tujuan utama di balik keberadaannya:
 
 ### A. Sebagai Alat Didaktik (Pendidikan Moral)
 
-Pada abad ke-8 dan ke-9, tingkat literasi masyarakat tentu berbeda dengan sekarang. Relief ini berfungsi sebagai **"Alkitab Visual"**. Rakyat jelata dapat belajar tentang etika hanya dengan melihat gambar tanpa perlu membaca teks Sanskerta yang rumit.
+Pada abad ke-8 dan ke-9, tingkat literasi masyarakat tentu berbeda dengan sekarang. Relief ini berfungsi sebagai **"Kitab Visual"**. Rakyat jelata dapat belajar tentang etika hanya dengan melihat gambar tanpa perlu membaca teks Sanskerta yang rumit.
 
 ### B. Visualisasi Hukum Sebab-Akibat
 
@@ -64,8 +64,8 @@ Meskipun terdiri dari 160 panel, secara umum struktur cerita di setiap panel Kar
 
 ## 6\. Relevansi Masa Kini
 
-Meskipun dipahat berabad-abad lalu, pesan dari Pengantar Karmawibhangga ini relevan dalam kehidupan modern:
+Meskipun dipahat berabad-abad lalu, pesan dari relief Karmawibhangga ini relevan dalam kehidupan modern:
 
 - **Tanggung Jawab Pribadi**: Karma mengajarkan bahwa kita adalah arsitek dari nasib kita sendiri. Kita tidak bisa menyalahkan keberuntungan atau orang lain atas posisi kita saat ini jika itu adalah hasil dari pilihan masa lalu kita.
-- **Kesadaran Berperilaku (Mindfulness)**: Sebelum memposting komentar negatif di media sosial atau mengambil hak orang lain, ingatlah prinsip Karmawibhangga: setiap perbuatan yang kita lakukan akan kembali kepada kita dalam bentuk yang berbeda.
+- **Kesadaran Berperilaku (Mindfulness)**: Sebelum mengunggah komentar negatif di media sosial atau mengambil hak orang lain, ingatlah prinsip Karmawibhangga: setiap perbuatan yang kita lakukan akan kembali kepada kita dalam bentuk yang berbeda.
 - **Empati**: Memahami bahwa setiap orang sedang berjuang dengan "buah" dari perbuatan mereka sendiri dapat meningkatkan rasa kasih sayang kita terhadap sesama.

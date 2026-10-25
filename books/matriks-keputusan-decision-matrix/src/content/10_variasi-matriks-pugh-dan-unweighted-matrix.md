@@ -18,7 +18,7 @@ $$
 \text{Total Skor} = \sum_{i=1}^{n} \text{Skor}_{i}
 $$
 
-*Di mana $n$ adalah jumlah kriteria.*
+*Dengan $n$ adalah jumlah kriteria.*
 
 #### Kapan Menggunakan Unweighted Matrix?
 
@@ -62,7 +62,7 @@ Jika kamu ingin mengganti perangkat lunak manajemen proyek (datum: Software Lama
 
 #### Keunggulan Matriks Pugh
 
-1. **Menghilangkan Subjektivitas Skor**: Lebih mudah menentukan apakah suatu aspek "lebih baik" daripada harus menetapkan angka spesifik seperti 7,5.
+1. **Mengurangi Subjektivitas Skor**: Lebih mudah menentukan apakah suatu aspek "lebih baik" daripada harus menetapkan angka spesifik seperti 7,5.
 2. **Peluang Hibrida**: Memungkinkan kamu melihat potensi penggabungan fitur positif dari Alternatif A dan B untuk menciptakan solusi baru yang lebih baik.
 3. **Berorientasi pada Perbaikan**: Efektif dalam pengembangan produk (R&D) dengan fokus melampaui standar yang sudah ada.
 
@@ -82,7 +82,7 @@ Jika kamu ingin mengganti perangkat lunak manajemen proyek (datum: Software Lama
 1. **Tahap 1 (Menggunakan Unweighted Matrix)**: Tim memiliki 10 kandidat bahasa. Mereka menggunakan unweighted matrix dengan kriteria "Populasi Developer", "Kecepatan Eksekusi", dan "Dokumentasi". Tujuannya hanya untuk menyaring menjadi 3 besar secara cepat.
 2. **Tahap 2 (Menggunakan Matriks Pugh)**: Dari 3 besar tersebut, mereka membandingkannya dengan bahasa pemrograman yang mereka gunakan sekarang (**datum**).
    - *Sebagai bahan refleksi: Apakah bahasa baru ini benar-benar memberikan nilai tambah (+) yang nyata dibandingkan bahasa yang kita gunakan sekarang, atau kita hanya mengikuti tren?*
-3. **Tahap 3 (Keputusan Akhir)**: Jika hasil Matriks Pugh menunjukkan persaingan ketat, tim akan beralih ke **Weighted Decision Matrix** (yang telah dibahas di bagian sebelumnya) untuk menghitung secara lebih akurat dampak finansial dan teknis jangka panjang.
+3. **Tahap 3 (Keputusan Akhir)**: Jika hasil Matriks Pugh menunjukkan persaingan ketat, tim akan beralih ke **Matriks Keputusan Berbobot** (yang telah dibahas di bagian sebelumnya) untuk menghitung secara lebih akurat dampak finansial dan teknis jangka panjang.
 
 ### Tips Implementasi untuk Berbagai Tipe Pembelajar
 
@@ -91,4 +91,4 @@ Jika kamu ingin mengganti perangkat lunak manajemen proyek (datum: Software Lama
 - **Pembelajar Auditori**: Ucapkan perbandingannya secara lantang sewaktu mengisi matriks. Sebagai contoh: *"Sistem baru ini lebih hemat memori dibanding sistem lama, jadi kita beri nilai Plus."*
 
 > [!NOTE]
-> **Wawasan Penting:** Tidak ada satu matriks yang paling benar. Seringkali, keputusan yang baik dicapai dengan memakai variasi matriks secara bertahap: mulai dari yang sederhana (unweighted) untuk menyaring, hingga yang mendalam (Weighted atau Pugh) untuk menetapkan pilihan terbaik.
+> **Wawasan Penting:** Tidak ada satu matriks yang paling benar. Sering kali, keputusan yang baik dicapai dengan memakai variasi matriks secara bertahap: mulai dari yang sederhana (unweighted) untuk menyaring, hingga yang mendalam (Weighted) untuk menetapkan pilihan terbaik.

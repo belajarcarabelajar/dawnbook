@@ -16,7 +16,7 @@ Orang dengan gaya kelekatan cemas biasanya menunjukkan beberapa ciri khas beriku
 
 * Sangat sensitif terhadap penolakan. Tanda sekecil apa pun bahwa pasangan mulai menjauh bisa memicu kepanikan.
 * Kebutuhan validasi yang tinggi, misalnya sering bertanya, "Kamu masih sayang aku, kan?" hanya untuk merasa aman.
-* Kewaspadaan berlebih (*hyper-vigilance*) terhadap perubahan kecil, seperti nada suara pasangan yang mendatar atau chat yang dibalas lebih lambat dari biasanya.
+* Kewaspadaan berlebih (*hypervigilance*) terhadap perubahan kecil, seperti nada suara pasangan yang mendatar atau chat yang dibalas lebih lambat dari biasanya.
 * Ketergantungan emosional yang tinggi, membuat mereka sulit fokus berkegiatan tanpa adanya kabar dari pasangan.
 
 ## Pola Asuh yang Inkonsisten
@@ -55,7 +55,7 @@ Mari kita lihat bagaimana gaya kelekatan cemas bekerja dalam situasi sehari-hari
 * **Pukul 13.00:** "Dia pasti mulai bosan denganku. Jangan-jangan dia lagi asyik mengobrol dengan rekan kerjanya?"
 * **Pukul 14.00:** Karena kecemasannya terus naik, Santi akhirnya mengirim pesan lagi: "Kamu kok cuek banget sih? Kalau mau putus bilang aja!"
 
-**Analisis:** Kecemasan Santi memuncak karena pikirannya menafsirkan "tidak dibalas" sebagai tanda bahwa Budi akan meninggalkannya. Pesan bernada marah yang dikirim pada pukul 14.00 sebenarnya bukan karena Santi membenci Budi, melainkan sebuah bentuk kepanikan agar Budi segera merespons dan meyakinkan dirinya bahwa hubungan mereka baik-baik saja.
+**Analisis:** Kecemasan Santi memuncak karena pikirannya menafsirkan "tidak dibalas" sebagai tanda bahwa Budi akan meninggalkannya. Pesan bernada marah yang dikirim pada pukul 14.00 sebenarnya bukan karena Santi membenci Budi, melainkan sebuah bentuk kepanikan agar Budi segera merespons dan meyakinkan Santi bahwa hubungan mereka baik-baik saja.
 
 ## Tantangan dan Kekuatan
 

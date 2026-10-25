@@ -71,8 +71,8 @@ Dengan pola baru ini, papan informasi (`auth.rs`) digantung tepat di luar pintu 
 | --- | --- | --- |
 | **Lokasi Deklarasi** | Di dalam folder (`auth/mod.rs`) | Sejajar dengan folder (`auth.rs`) |
 | **Kejelasan IDE** | Sering membuat bingung karena banyak tab bernama "mod.rs" | Jelas, nama file mencerminkan nama modul |
-| **Struktur Folder** | Lebih "terkapsul" di dalam satu folder | Lebih "rata" di level direktori |
-| **Navigasi** | Sedikit lebih sulit navigasi file | Mudah dicari dengan *search by name* |
+| **Struktur Folder** | Lebih "terenkapsulasi" di dalam satu folder | Lebih "rata" di level direktori |
+| **Navigasi** | Navigasi file sedikit lebih sulit | Mudah dicari dengan *search by name* |
 
 ## Mengapa Pola Modern Diciptakan?
 
@@ -125,13 +125,13 @@ src/
 Walaupun pola modern menjadi standar baru, pola klasik terkadang masih ditemui dalam beberapa kasus:
 
 - **Proyek legacy atau kode warisan**: Jika kamu berkontribusi pada crate lama yang dari awal konsisten memakai `mod.rs`, sebaiknya ikuti gaya penulisan yang sudah ada demi konsistensi.
-- **Alat generator kode otomatis**: Beberapa library pembuat kode generator lebih mudah menyusun folder menggunakan pola `mod.rs`.
+- **Alat generator kode otomatis**: Beberapa library generator kode lebih mudah menyusun folder menggunakan pola `mod.rs`.
 
 > **Penting:** Jangan mencampur kedua pola untuk modul yang sama. Jika kamu meletakkan `auth.rs` sekaligus `auth/mod.rs` di proyek, compiler Rust akan memicu error karena ambiguitas jalur.
 
 ## Rumus Logika Jalur (Path)
 
-Secara matematis (dalam logika compiler), pencarian modul dapat direpresentasikan sebagai fungsi $f(m)$ di mana $m$ adalah nama modul. Jika ada file `m.rs`, hasilnya:
+Secara matematis (dalam logika compiler), pencarian modul dapat direpresentasikan sebagai fungsi $f(m)$ dengan $m$ sebagai nama modul. Jika ada file `m.rs`, hasilnya:
 
 <div>
 $$

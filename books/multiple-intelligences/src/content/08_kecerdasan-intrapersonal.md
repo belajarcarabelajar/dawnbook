@@ -14,7 +14,7 @@ Kemampuan untuk mengidentifikasi perasaan saat perasaan itu muncul. Orang dengan
 
 ### B. Pemahaman Nilai (Values)
 
-Daftar prinsip yang menjadi pegangan hidup. Ketika seseorang sangat memahami nilai-nilainya, mereka otomatis memiliki jangkar yang kuat saat menghadapi berbagai bentuk tekanan sosial.
+Daftar prinsip yang menjadi pegangan hidup. Ketika seseorang sangat memahami nilai-nilainya, ia otomatis memiliki jangkar yang kuat saat menghadapi berbagai bentuk tekanan sosial.
 
 ### C. Tujuan Hidup (Purpose)
 
@@ -35,7 +35,7 @@ Individu yang menonjol dalam kecerdasan ini biasanya menunjukkan beberapa ciri:
 - **Introspektif:** Sering merenungkan pengalaman yang terjadi dan mengambil pelajaran dari kesalahan pribadi.
 - **Mandiri:** Motivasi dirinya tumbuh kuat dari dalam, tidak selalu bergantung pada tepuk tangan atau validasi eksternal.
 - **Resilien:** Pemahaman mendalam tentang kekuatan dan kelemahan pribadi membuat mereka lebih cepat bangkit setelah jatuh.
-- **Suka Menyendiri (Solitude):** Menghargai waktu sendirian untuk memproses pikiran dan mengisi ulang energi, bukan karena anti-sosial.
+- **Suka Menyendiri (Solitude):** Menghargai waktu sendirian untuk memproses pikiran dan mengisi ulang energi, bukan karena antisosial.
 
 ## 4. Algoritma Pengambilan Keputusan
 
@@ -47,7 +47,7 @@ $$
 $$
 </div>
 
-Di mana:
+Keterangan:
 
 - **Kebutuhan:** Apa yang secara biologis atau psikologis memang diperlukan.
 - **Nilai:** Prinsip moral atau personal yang dipegang erat.
@@ -63,14 +63,14 @@ Kecerdasan ini berperan dalam pencapaian di banyak bidang, dan keberadaannya ama
 ### Menghadapi Kegagalan Proyek
 
 - **Tanpa Kecerdasan Intrapersonal:** Seseorang mungkin langsung menyalahkan rekan kerja (eksternalisasi) atau merasa dirinya sama sekali tidak berguna (generalisasi berlebihan).
-- **Dengan Kecerdasan Intrapersonal:** Ia akan melakukan audit batin. Ia menyadari, "Saya merasa malu karena ego saya terluka. Kegagalan ini terjadi karena saya kurang teliti di bagian teknis, namun saya tahu saya kuat di bagian konsep. Saya akan memperbaiki cara kerja saya untuk proyek berikutnya."
+- **Dengan Kecerdasan Intrapersonal:** Ia akan melakukan audit batin. Ia menyadari, "Saya merasa malu karena ego saya terluka. Kegagalan ini terjadi karena saya kurang teliti di bagian teknis, tetapi saya tahu saya kuat di bagian konsep. Saya akan memperbaiki cara kerja saya untuk proyek berikutnya."
 
 ### Karier yang Cocok
 
 - **Psikolog atau Terapis:** Perlu berdamai dan memahami diri sendiri secara tuntas sebelum bisa membantu orang lain menyelesaikan masalah mereka.
 - **Penulis dan Filsuf:** Pekerjaannya berpusat pada upaya menggali kedalaman emosi manusia melalui jalur refleksi personal yang intens.
 - **Entrepreneur:** Membutuhkan ketangguhan mental serta kejernihan atas apa yang sebenarnya menjadi visi pribadinya.
-- **Pemimpin Spiritual:** Fokus utamanya adalah menjaga integritas antara apa yang diajarkan, tindakan nyata di dunia, dengan nilai batinnya.
+- **Pemimpin Spiritual:** Fokus utamanya adalah menjaga integritas antara apa yang diajarkan, tindakan nyata di dunia, dan nilai batinnya.
 
 ## 6. Mengembangkan Kecerdasan Intrapersonal
 
@@ -84,7 +84,7 @@ Kecerdasan ini jelas bisa dilatih dan diasah. Beberapa pendekatan yang bisa dite
 
 Kecerdasan intrapersonal sering diposisikan sebagai **Kecerdasan Utama (The Master Intelligence)**. Alasannya, kecerdasan ini bertindak layaknya seorang pengatur dalam diri manusia.
 
-Sebagai contoh, seseorang mungkin memiliki kecerdasan **Logis-Matematis** yang sangat tajam. Namun, apabila ia tidak dibekali kecerdasan **Intrapersonal** untuk menyadari bahwa ia sebetulnya membenci rutinitas pekerjaan akuntansi, maka kecerdasan logis tersebut gagal memberikannya kepuasan hidup atau efektivitas kerja yang optimal.
+Sebagai contoh, seseorang mungkin memiliki kecerdasan **Logis-Matematis** yang sangat tajam. Namun, apabila ia tidak dibekali kecerdasan **Intrapersonal** untuk menyadari bahwa ia sebetulnya membenci rutinitas pekerjaan akuntansi, maka kecerdasan logis tersebut gagal memberinya kepuasan hidup atau efektivitas kerja yang optimal.
 
 **Penting:**
 

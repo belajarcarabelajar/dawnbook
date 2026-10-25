@@ -12,7 +12,7 @@ Bayangkan Networking Stack sebagai sistem pengiriman paket internasional:
 2. **Driver Jaringan**: Petugas bongkar muat yang bertugas memindahkan kontainer dari dermaga ke atas truk pengangkut.
 3. **Lapisan IP (Network)**: Ini adalah pusat sortir logistik. Bagian ini bertugas memeriksa label alamat tujuan pada setiap kontainer untuk menentukan rute berikutnya.
 4. **Lapisan Transport (TCP/UDP)**: Bertindak seperti kurir pengantar. Lapisan ini memastikan seluruh isi kontainer utuh tanpa kerusakan, lalu membuka segelnya.
-5. **Socket**: Titik akhir pengiriman, layaknya pintu rumahmu di mana kurir menyerahkan paket secara langsung.
+5. **Socket**: Titik akhir pengiriman, layaknya pintu rumahmu tempat kurir menyerahkan paket secara langsung.
 
 ## 2. sk_buff (Socket Buffer)
 
@@ -31,16 +31,16 @@ Mari kita telusuri bagaimana paket mengalir dari luar ke dalam aplikasi.
 Saat bit-bit listrik atau cahaya tiba di kartu jaringan (NIC):
 
 1. **Hardware Interrupt**: Ketika bit data mendarat, NIC mengirimkan sinyal interupsi fisik ke CPU sebagai pemberitahuan bahwa ada data baru yang harus diambil.
-2. **NAPI (New API)**: Guna mencegah "Interrupt Storm" (kondisi di mana CPU kewalahan akibat terlalu banyak interupsi fisik), kernel modern menggunakan mekanisme NAPI. Driver jaringan akan menonaktifkan interupsi sementara waktu dan beralih ke mode **polling** untuk mengambil paket secara kolektif langsung dari memori NIC.
-3. **Alokasi `skb`**: Driver membuat objek `sk_buff` baru, lalu menyalin data dari buffer DMA (Direct Memory Access) kartu jaringan ke memori utama (RAM) sistem.
-4. **SoftIRQ**: Setelah menyalin data, driver memicu interupsi lunak (`NET_RX_SOFTIRQ`). Langkah ini memungkinkan pemrosesan paket berikutnya berlangsung secara asinkron di latar belakang, membebaskan CPU agar tidak tertahan terlalu lama pada level penanganan perangkat keras (*interrupt handler*).
+2. **NAPI (New API)**: Guna mencegah "Interrupt Storm" (kondisi saat CPU kewalahan akibat terlalu banyak interupsi fisik), kernel modern menggunakan mekanisme NAPI. Driver jaringan akan menonaktifkan interupsi sementara waktu dan beralih ke mode **polling** untuk mengambil paket secara kolektif dari ring buffer di RAM yang telah diisi NIC melalui DMA (Direct Memory Access).
+3. **Alokasi `skb`**: Driver membuat objek `sk_buff` baru untuk data paket yang sudah ditulis NIC ke memori utama (RAM) lewat DMA.
+4. **SoftIRQ**: Setelah objek `sk_buff` dibuat, driver memicu interupsi lunak (`NET_RX_SOFTIRQ`). Langkah ini memungkinkan pemrosesan paket berikutnya berlangsung secara asinkron di latar belakang, membebaskan CPU agar tidak tertahan terlalu lama pada level penanganan perangkat keras (*interrupt handler*).
 
 ### B. Lapisan Jaringan (L3 - IP Layer)
 
 Paket kemudian diserahkan ke fungsi `ip_rcv()`:
 
 1. **Integrity Check**: Kernel memvalidasi *checksum* untuk memastikan paket data yang diterima tidak mengalami kerusakan atau korupsi selama transmisi.
-2. **Netfilter (Prerouting)**: Titik evaluasi awal di mana aturan penyaringan seperti `iptables` atau `nftables` mulai bekerja memeriksa paket.
+2. **Netfilter (Prerouting)**: Titik evaluasi awal tempat aturan penyaringan seperti `iptables` atau `nftables` mulai bekerja memeriksa paket.
 3. **Routing Decision**: Kernel akan menentukan tujuan paket dengan mengevaluasi alamat IP penerima.
    - Jika paket ditujukan untuk mesin lain, aliran data dialihkan ke jalur pemrosesan *forwarding*.
    - Jika paket ditujukan untuk sistem lokal kita, alurnya akan dilanjutkan ke fungsi `ip_local_deliver()`.
@@ -55,11 +55,11 @@ Kernel melihat header protokol (TCP atau UDP) dan memanggil fungsi yang sesuai (
 ### D. Lapisan Aplikasi (User Space)
 
 1. **Penyimpanan di Buffer**: Setelah terbebas dari seluruh header protokol, payload data bersih ditempatkan pada **Receive Buffer** milik socket yang bersangkutan.
-2. **Pemanggilan oleh Aplikasi**: Aplikasi di *user space* yang sedang menunggu dengan sistem panggilan (*system call*) seperti `read()` atau `recv()` akan dibangunkan (*woken up*) guna menyalin data dari *kernel space* ke *user space*.
+2. **Pemanggilan oleh Aplikasi**: Aplikasi di *user space* yang sedang menunggu dengan panggilan sistem (*system call*) seperti `read()` atau `recv()` akan dibangunkan (*woken up*) guna menyalin data dari *kernel space* ke *user space*.
 
 ## 4. Netfilter Hooks di Jalur Paket
 
-Di sepanjang jalur ini, terdapat **Netfilter Hooks**. Ini adalah titik-titik di mana kernel mengizinkan modul lain (seperti firewall) untuk memeriksa, mengubah, atau membuang paket.
+Di sepanjang jalur ini, terdapat **Netfilter Hooks**. Ini adalah titik-titik tempat kernel mengizinkan modul lain (seperti firewall) untuk memeriksa, mengubah, atau membuang paket.
 
 <div>
 $$
@@ -79,7 +79,7 @@ Sebagai catatan tambahan, aturan firewall yang terlalu kompleks dapat menurunkan
 
 Proses ini adalah kebalikan dari Ingress:
 
-1. **Application**: Aplikasi memicu proses pengiriman dengan memanggil sistem panggilan seperti `send()` atau `write()`.
+1. **Application**: Aplikasi memicu proses pengiriman dengan memanggil panggilan sistem seperti `send()` atau `write()`.
 2. **Socket**: Payload data disalin dari ruang pengguna (*user space*) ke ruang kernel (*kernel space*), kemudian dibungkus di dalam objek `skb`.
 3. **Transport Layer**: Penambahan header protokol TCP atau UDP dilakukan pada tahap ini untuk memastikan kontrol pengiriman.
 4. **Network Layer**: Kernel menyisipkan header IP dan membuat keputusan perutean (*routing decision*) untuk menentukan antarmuka (*interface*) fisik mana yang akan dilewati paket untuk keluar.
@@ -115,9 +115,9 @@ Pada server dengan trafik sangat tinggi (seperti Nginx atau Node.js), pengembang
 | **User Space** | Application | `socket()`, `bind()`, `send()`, `recv()` |
 | **Transport** | TCP / UDP | Segmentasi, Flow Control, Error Recovery |
 | **Network** | IP / ICMP | Routing, Addressing, Fragmentation |
-| **Link Layer** | NIC Driver / NAPI | Interrupt Handling, DMA, Frame Framing |
+| **Link Layer** | NIC Driver / NAPI | Interrupt Handling, DMA, Framing |
 | **Physical** | Network Card | Bit transmission (Electrical/Optical) |
 
-> **Pelajaran Penting:** Networking stack Linux didesain untuk efisiensi dengan meminimalkan penyalinan data (*zero-copy philosophy*) dan menggunakan mekanisme interupsi NAPI untuk menangani beban kerja modern.
+> **Pelajaran Penting:** Networking stack Linux didesain untuk efisiensi dengan meminimalkan penyalinan data (*zero-copy philosophy*) dan menggunakan mekanisme polling NAPI untuk menangani beban kerja modern.
 
-Pada era kecepatan internet modern yang mencapai 100Gbps+, tantangan utama bagi kernel adalah efisiensi pemrosesan jutaan paket per detik secara efisien tanpa membebani kinerja CPU secara berlebihan.
+Pada era kecepatan internet modern yang mencapai 100Gbps+, tantangan utama bagi kernel adalah memproses jutaan paket per detik secara efisien tanpa membebani kinerja CPU secara berlebihan.

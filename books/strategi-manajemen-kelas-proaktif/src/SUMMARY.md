@@ -7,7 +7,7 @@
 - [Membangun Hubungan Positif Guru-Siswa](content/05_membangun-hubungan-positif-guru-siswa.md)
 - [Strategi Keterlibatan Siswa Aktif](content/06_strategi-keterlibatan-siswa-aktif.md)
 - [Teknik Pemindaian dan Kehadiran Guru](content/07_teknik-pemindaian-dan-kehadiran-guru.md)
-- [Intervensi Non-Verbal dan Edukatif](content/08_intervensi-non-verbal-dan-edukatif.md)
+- [Intervensi Nonverbal dan Edukatif](content/08_intervensi-non-verbal-dan-edukatif.md)
 - [Manajemen Konflik dan Restorative Practices](content/09_manajemen-konflik-dan-restorative-practices.md)
 - [Komunikasi Proaktif dengan Orang Tua](content/10_komunikasi-proaktif-dengan-orang-tua.md)
 - [Monitoring dan Refleksi Iklim Kelas](content/11_monitoring-dan-refleksi-iklim-kelas.md)

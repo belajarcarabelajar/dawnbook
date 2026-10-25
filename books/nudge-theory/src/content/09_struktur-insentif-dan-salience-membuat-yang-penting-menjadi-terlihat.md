@@ -2,7 +2,7 @@
 
 Pernahkah kamu heran mengapa kita sering kali mengabaikan diskon besar di akhir bulan, tetapi langsung bereaksi pada label merah "Sisa 1 Barang!"? Atau mengapa kita tetap menggunakan listrik secara boros padahal kita tahu tagihannya akan mahal di akhir bulan?
 
-Jawabannya terletak pada **Salience** (keterlihatan/keunggulan) dan bagaimana **Struktur Insentif** dirancang. Dalam Arsitektur Pilihan, memberikan insentif saja tidak cukup. Insentif tersebut harus cukup menonjol agar ditangkap oleh **Sistem 1** kita yang intuitif dan cepat.
+Jawabannya terletak pada **Salience** (keterlihatan/kemencolokan) dan bagaimana **Struktur Insentif** dirancang. Dalam Arsitektur Pilihan, memberikan insentif saja tidak cukup. Insentif tersebut harus cukup menonjol agar ditangkap oleh **Sistem 1** kita yang intuitif dan cepat.
 
 ## 1. Memahami Salience
 
@@ -32,7 +32,7 @@ U_{\text{total}} = u_0 + \sum_{t=1}^{n} \beta \delta^t u_t
 $$
 </div>
 
-Di mana $\beta$ adalah faktor *present bias*. Jika $\beta$ sangat kecil, maka manfaat di masa depan $u\_t$ hampir tidak memiliki berat dalam pengambilan keputusan kita saat ini. Inilah alasan mengapa "paru-paru hitam" di bungkus rokok adalah upaya membuat konsekuensi masa depan menjadi **salient** saat ini.
+Dalam rumus ini, $\beta$ adalah faktor *present bias*. Jika $\beta$ sangat kecil, maka manfaat di masa depan $u\_t$ hampir tidak memiliki berat dalam pengambilan keputusan kita saat ini. Inilah alasan mengapa "paru-paru hitam" di bungkus rokok adalah upaya membuat konsekuensi masa depan menjadi **salient** saat ini.
 
 ### B. Mental Accounting (Akuntansi Mental)
 
@@ -56,9 +56,9 @@ Untuk membuat sebuah pilihan atau konsekuensi menjadi lebih menonjol, arsitek pi
 
 ## 4. "The Visible Tax" dalam Kebijakan Publik
 
-Dalam kebijakan publik, cara pajak atau biaya dikenakan sangat mempengaruhi perilaku.
+Dalam kebijakan publik, cara pajak atau biaya dikenakan sangat memengaruhi perilaku.
 
-**Biaya Kantong Plastik** Di banyak negara, menetapkan harga kecil (misalnya Rp200 atau USD 0,05) untuk kantong plastik ternyata jauh lebih efektif daripada memberikan diskon yang sama jika pelanggan membawa tas sendiri. Mengapa?
+**Biaya Kantong Plastik.** Di banyak negara, menetapkan harga kecil (misalnya Rp200 atau USD 0,05) untuk kantong plastik ternyata jauh lebih efektif daripada memberikan diskon yang sama jika pelanggan membawa tas sendiri. Mengapa?
 
 1. **Loss Aversion.** Otak kita memproses kerugian secara berbeda. Kehilangan Rp200 rasanya jauh lebih menyakitkan ketimbang melewatkan diskon dengan nilai yang sama.
 2. **Kehadiran Salience di Kasir.** Pertanyaan kasir, "Mau pakai plastik seharga Rp200?", memicu kesadaran saat transaksi. Biaya kecil ini terasa nyata tepat sebelum tindakan dilakukan.
@@ -86,13 +86,13 @@ Tujuanmu adalah membuat pengemudi berkendara lebih hemat energi. Jika kamu hanya
 **Pendekatan Arsitektur Pilihan:**
 
 * **Sentuhan Visual.** Kamu bisa memprogram agar warna latar belakang dashboard berangsur hijau ketika berkendara hemat, lalu berubah menjadi merah saat pedal gas diinjak terlalu dalam.
-* **Menampilkan Insentif Secara Nyata.** Daripada sekadar angka teknis, tampilkan estimasi "Sisa Jarak Tempuh" yang merosot tajam ketika pendingin udara dipasang pada suhu maksimal.
+* **Menampilkan Insentif Secara Nyata.** Daripada sekadar angka teknis, tampilkan estimasi "Sisa Jarak Tempuh" yang merosot tajam ketika pendingin udara dinyalakan pada daya maksimal.
 * **Umpan Balik Sosial.** Bandingkan tingkat efisiensimu dengan pengemudi lain di kota yang sama, sehingga dorongan reputasi sosial menjadi lebih nyata.
 
 ## 6. Mengamati Sekitar
 
 Coba buka salah satu aplikasi kesehatan atau keuangan di ponselmu. Lihat bagaimana mereka menyajikan data: apakah berupa deretan angka kecil yang membosankan, atau grafik mencolok yang langsung memperingatkanmu saat melampaui batas? Amati elemen mana yang paling berhasil memicu tindakanmu.
 
-> **Pesan Utama:** Jika kamu ingin mempermudah suatu tindakan, buatlah manfaatnya terlihat mencolok secara instan. Sebaliknya, jika ingin mencegah tindakan tersebut, buat hambatan atau biayanya tampak menonjol dan nyata di depan mata.
+> **Pesan Utama:** Jika kamu ingin mendorong suatu tindakan, buatlah manfaatnya terlihat mencolok secara instan. Sebaliknya, jika ingin mencegah tindakan tersebut, buat hambatan atau biayanya tampak menonjol dan nyata di depan mata.
 
 **Langkah Berikutnya:** Setelah memahami cara menonjolkan insentif, kita akan membedah sisi etika dari pendekatan ini dalam bab **Nudge vs Sludge dan Etika dalam Desain**. Tanpa panduan etis, dorongan visual ini bisa dengan mudah berubah menjadi manipulasi yang merugikan.

@@ -6,7 +6,7 @@ Dalam manajemen kelas proaktif, **Prosedur dan Rutinitas Harian** adalah "kru pi
 
 ## 1. Aturan vs. Prosedur
 
-Seringkali kita mencampuradukkan antara aturan dan prosedur. Memahami perbedaannya adalah langkah pertama menuju kelas yang efisien.
+Sering kali kita mencampuradukkan aturan dan prosedur. Memahami perbedaannya adalah langkah pertama menuju kelas yang efisien.
 
 - **Aturan (Rules):** Berkaitan dengan perilaku dan nilai moral (contoh: "Saling menghormati"). Aturan biasanya memiliki konsekuensi jika dilanggar.
 - **Prosedur (Procedures):** Berkaitan dengan *bagaimana* sesuatu dilakukan (contoh: "Cara mengumpulkan tugas"). Prosedur tidak memiliki konsekuensi hukuman, melainkan membutuhkan **latihan ulang** jika belum berjalan lancar.
@@ -45,7 +45,7 @@ Untuk mencapai efisiensi, gunakan teknik **Numbered Cues**:
 
 ## 3. Manajemen Tugas dan Materi
 
-Manajemen kertas dan perangkat digital seringkali menjadi sumber kekacauan. Berikut adalah standarisasi yang dapat diterapkan:
+Manajemen kertas dan perangkat digital sering kali menjadi sumber kekacauan. Berikut adalah standardisasi yang dapat diterapkan:
 
 ### Pengumpulan Tugas (The In-Box System)
 
@@ -78,11 +78,11 @@ Agar kelas berjalan otomatis, siswa perlu tahu apa yang harus dilakukan tanpa ha
 
 ### Bell Ringers (Tugas Pembuka)
 
-Jangan biarkan ada waktu luang saat siswa baru masuk kelas. Sajikan tugas singkat di papan tulis (Do-Now) yang bisa dikerjakan dalam 3-5 menit pertama. Ini memberikan waktu bagi guru untuk melakukan presensi atau mengurus administrasi tanpa kehilangan kendali kelas.
+Jangan biarkan ada waktu luang saat siswa baru masuk kelas. Sajikan tugas singkat di papan tulis (bell ringer) yang bisa dikerjakan dalam 3-5 menit pertama. Ini memberikan waktu bagi guru untuk melakukan presensi atau mengurus administrasi tanpa kehilangan kendali kelas.
 
 ### Prosedur "Tanya Tiga Teman" (Three Before Me)
 
-Untuk mengurangi ketergantungan pada guru, terapkan aturan ini:
+Untuk mengurangi ketergantungan pada guru, terapkan prosedur ini:
 
 > *Sebelum bertanya pada guru mengenai prosedur atau instruksi, siswa harus sudah bertanya kepada tiga teman di sekitarnya.*
 
@@ -96,15 +96,15 @@ Mengumumkan prosedur satu kali tidaklah cukup. Prosedur harus diajarkan layaknya
 2. **Rehearse (Latih):** Praktikkan prosedur tersebut. "Mari kita coba mengumpulkan buku dalam 20 detik. Siap? Mulai!"
 3. **Reinforce (Perkuat):** Berikan umpan balik positif. "Saya melihat meja kelompok B sudah bersih dalam 15 detik. Kerja bagus!"
 
-*Pertimbangkan hal berikut: Jika sebuah prosedur gagal, tanyakan pada diri sendiri: "Apakah saya sudah melatih mereka dengan cukup, atau saya hanya sekadar memberitahu mereka?"*
+*Pertimbangkan hal berikut: Jika sebuah prosedur gagal, tanyakan pada diri sendiri: "Apakah saya sudah melatih mereka dengan cukup, atau saya hanya memberi tahu mereka?"*
 
 ## Transisi Kelas 5 SD yang Gaduh
 
-**Skenario:** Kelas 5 SD seringkali sangat bising dan kacau saat berpindah dari kegiatan belajar di meja ke kegiatan diskusi kelompok di karpet.
+**Skenario:** Kelas 5 SD sering kali sangat bising dan kacau saat berpindah dari kegiatan belajar di meja ke kegiatan diskusi kelompok di karpet.
 
 **Solusi Prosedur:**
 
-1. **Sinyal:** Guru mengangkat tangan (Siswa membalas dengan mengangkat tangan dan berhenti bicara).
+1. **Sinyal:** Guru mengangkat tangan (siswa membalas dengan mengangkat tangan dan berhenti bicara).
 2. **Prosedur "Push In":** Semua siswa berdiri, memasukkan kursi ke bawah meja dengan tenang (mengurangi hambatan jalan).
 3. **The Anchor:** Satu siswa dari tiap kelompok ditunjuk menjadi "Kapten Navigasi" yang memandu anggota kelompoknya berjalan di jalur yang ditentukan menuju karpet.
 4. **Hasil:** Transisi yang tadinya memakan waktu 4 menit berkurang menjadi 45 detik.
@@ -114,9 +114,9 @@ Mengumumkan prosedur satu kali tidaklah cukup. Prosedur harus diajarkan layaknya
 Pastikan kamu memiliki prosedur untuk hal-hal berikut:
 
 - Masuk kelas dan memulai hari.
-- Meminta izin ke kamar mandi (gunakan sinyal tangan non-verbal).
+- Meminta izin ke kamar mandi (gunakan sinyal tangan nonverbal).
 - Menajamkan pensil atau membuang sampah.
-- Apa yang dilakukan jika tugas sudah selesai lebih awal (Aktivitas Jangkar).
+- Apa yang dilakukan jika tugas sudah selesai lebih awal (aktivitas pengayaan).
 - Membereskan kelas dan persiapan pulang.
 
 Dengan rutinitas yang kuat, kamu tidak lagi menjadi "polisi lalu lintas" di kelas, melainkan pemimpin yang menjaga pembelajaran berjalan teratur.

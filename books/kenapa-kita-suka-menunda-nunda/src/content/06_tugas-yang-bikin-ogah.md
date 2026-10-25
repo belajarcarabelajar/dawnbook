@@ -49,7 +49,7 @@ Pertanyaan diagnosis di tabel hanya untuk memetakan masalah. Cara mengatasinya b
 
 ### Penundaan itu urusan tugas dan orang
 
-Penundaan yang cukup umum, seperti yang kita lihat di bab 1, tidak boleh dibaca sebagai cap permanen bagi sekelompok orang. Dari daftar di awal bab, kita melihat satu orang yang gesit membalas pesan dan macet di laporan. Ini penalaran penulis, bukan temuan studi, tetapi cukup masuk akal: penundaan muncul dari pertemuan antara seseorang dan sebuah tugas pada waktu tertentu.
+Penundaan memang cukup umum, seperti yang kita lihat di bab 1, tetapi tidak boleh dibaca sebagai cap permanen bagi sekelompok orang. Dari daftar di awal bab, kita melihat satu orang yang gesit membalas pesan dan macet di laporan. Ini penalaran penulis, bukan temuan studi, tetapi cukup masuk akal: penundaan muncul dari pertemuan antara seseorang dan sebuah tugas pada waktu tertentu.
 
 Akibatnya, kalimat "aku pemalas" kurang berguna. Kalimat "tugas ini terasa membosankan dan terlalu besar bagiku" memberi sesuatu yang bisa diperiksa dan diubah.
 

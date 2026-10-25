@@ -14,7 +14,7 @@ Memahami gaya kerja mempermudah kolaborasi dalam beberapa aspek:
 - **Meningkatkan Efektivitas:** Menyajikan informasi penting dengan cara yang paling mudah diproses oleh penerima informasi.
 - **Membangun Hubungan Profesional yang Solid:** Menunjukkan bahwa kita menghargai cara kerja unik dari setiap rekan setim.
 
-Menerapkan satu cara komunikasi yang seragam ke semua orang justru bisa menjadi keputusan yang kurang tepat, mengingat setiap individu memiliki preferensi dan kebutuhan interaksi yang bertolak belakang.
+Menerapkan satu cara komunikasi yang seragam ke semua orang justru bisa menjadi keputusan yang kurang tepat, mengingat setiap individu memiliki preferensi dan kebutuhan interaksi yang berbeda-beda.
 
 ## Model Kepribadian DISC di Lingkungan Kerja
 
@@ -80,7 +80,7 @@ Bagi kamu yang terbiasa bekerja di bidang teknis seperti software development at
 | **Hal yang dihindari** | Laporan 50 halaman, debat soal detail sintaksis |
 | **Format komunikasi terbaik** | Presentasi visual berdurasi 10 menit |
 | **Pembuka percakapan** | Menanyakan kabar akhir pekan |
-| **Inti pesan** | Bagaimana fitur ini membuat *user* merasa senang |
+| **Inti pesan** | Siapa saja *user* yang akan merasa senang dengan fitur ini |
 
 **Studi Kasus:** Seorang *software engineer* (Tipe C) perlu menjelaskan kepada *product owner* (Tipe D) tentang pentingnya melakukan alokasi waktu selama dua minggu untuk peningkatan kualitas kode (*refactoring*).
 
@@ -105,10 +105,10 @@ Mari kita lihat skenario berikut saat sebuah tim lintas fungsi (teknologi, desai
 
 - **Tim Sales (Tipe D):** "Kita harus meluncurkan produk ini minggu depan agar tidak kehilangan momentum pasar dari kompetitor."
 - **Tim Design (Tipe I):** "Bagaimana kalau kita adakan acara peluncuran yang interaktif dengan mengundang beberapa kreator konten?"
-- **Tim Engineer (Tipe C):** "Proses pengujian beban (*load testing*) belum selesai sepenuhnya. Ada risiko gangguan sistem (*downtime*) bila terjadi lonjakan trafik secara tiba-tiba."
+- **Tim Engineering (Tipe C):** "Proses pengujian beban (*load testing*) belum selesai sepenuhnya. Ada risiko gangguan sistem (*downtime*) bila terjadi lonjakan trafik secara tiba-tiba."
 
 **Cara Menjembatani:** Sebagai fasilitator diskusi yang tanggap, kamu dapat menyatukan berbagai sudut pandang tersebut dengan berkata:
-"Saya sangat memahami urgensi peluncuran dari tim Sales. Agar konsep kreatif dari tim Design bisa berjalan dengan lancar tanpa terhambat kendala performa sistem yang dikhawatirkan tim Engineer, kita dapat merilis versi MVP (*Minimum Viable Product*) terlebih dahulu minggu depan. Kita luncurkan fitur utama dulu, sementara tim Engineer memantau stabilitas sistem secara bertahap."
+"Saya sangat memahami urgensi peluncuran dari tim Sales. Agar konsep kreatif dari tim Design bisa berjalan dengan lancar tanpa terhambat kendala performa sistem yang dikhawatirkan tim Engineering, kita dapat merilis versi MVP (*Minimum Viable Product*) terlebih dahulu minggu depan. Kita luncurkan fitur utama dulu, sementara tim Engineering memantau stabilitas sistem secara bertahap."
 
 ## Menyesuaikan Diri dengan Gaya Rekan Kerja
 

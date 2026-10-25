@@ -24,7 +24,7 @@ Proses ini terjadi terutama di **Nukleus Vestibularis (VN)** di batang otak. Kom
 Terjadi segera setelah cedera (jam hingga hari). Tujuannya adalah menghilangkan gejala vertigo yang muncul saat kepala tidak bergerak.
 
 - **Restorasi Simetri Bioelektrik:** Saat satu sisi rusak, terjadi ketidakseimbangan aktivitas saraf antara nukleus vestibularis kiri dan kanan. Otak menggunakan mekanisme **plastisitas sinaptik** untuk menyeimbangkan kembali tingkat penembakan (*firing rate*) saraf tersebut.
-- **Peran GABA dan Glutamat:** Otak mengatur ulang reseptor neurotransmitter. Jika satu sisi terlalu lemah, otak akan menurunkan inhibisi ($\text{GABA}$) di sisi tersebut agar lebih sensitif terhadap sisa input yang ada.
+- **Peran GABA dan Glutamat:** Otak mengatur ulang reseptor neurotransmiter. Jika satu sisi terlalu lemah, otak akan menurunkan inhibisi ($\text{GABA}$) di sisi tersebut agar lebih sensitif terhadap sisa input yang ada.
 
 Restorasi simetri ini bisa dibayangkan lewat angka ilustrasi berikut. Misalkan saraf vestibular kanan rusak sehingga aktivitas sisi kanan jatuh ke 0 Hz, sementara sisi kiri yang sehat tetap 100 Hz.
 
@@ -39,10 +39,10 @@ Sisi kiri diturunkan (*downregulation*), sedangkan sisi kanan naik lagi (*upregu
 
 Terjadi lebih lambat (minggu hingga bulan). Tujuannya adalah memastikan pandangan tetap stabil saat kepala bergerak (kalibrasi ulang Refleks Vestibulo-Okular atau VOR).
 
-- **Sinaptik Long-Term Depression (LTD) & Potentiation (LTP):** Otak memperkuat jalur saraf yang masih berfungsi melalui mekanisme $\text{LTD}$ dan $\text{LTP}$.
+- **Sinaptik Long-Term Depression (LTD) & Potentiation (LTP):** Otak menyesuaikan kekuatan jalur saraf yang masih berfungsi melalui mekanisme $\text{LTD}$ dan $\text{LTP}$.
 - **Substitusi Sensorik:** Otak mulai lebih mengandalkan input dari mata (visual) dan sensor tekanan di kaki (somatosensorik).
 
-> **Memorable Insight:** Kompensasi bukan berarti sistem kembali ke kondisi "baru seperti semula", melainkan otak belajar menciptakan "keseimbangan fungsional baru" yang memadai untuk aktivitas sehari-hari.
+> **Memorable Insight:** Kompensasi bukan berarti sistem kembali ke kondisi "seperti semula", melainkan otak belajar menciptakan "keseimbangan fungsional baru" yang memadai untuk aktivitas sehari-hari.
 
 ### 3. Plastisitas Sinaptik dalam Angka
 
@@ -62,7 +62,7 @@ $$
 $$
 </div>
 
-Di mana perubahan kekuatan sinapsis ($\Delta W$) bergantung pada sinyal kesalahan (*error*) yang diterima dari penglihatan yang kabur.
+Dalam hal ini, perubahan kekuatan sinapsis ($\Delta W$) bergantung pada sinyal kesalahan (*error*) yang diterima dari penglihatan yang kabur.
 
 ### 4. Strategi Otak dalam Kompensasi
 
@@ -87,15 +87,15 @@ Seorang pasien mengalami kerusakan saraf vestibular kanan. Pasien merasa dunia b
 
 Jika pasien hanya berbaring di tempat tidur karena takut pusing, otak tidak akan pernah menerima input kesalahan yang diperlukan untuk belajar. **Gerakan adalah pemicu utama neuroplastisitas.**
 
-### 6. Faktor yang Mempengaruhi Kecepatan Kompensasi
+### 6. Faktor yang Memengaruhi Kecepatan Kompensasi
 
 Tidak semua orang pulih dengan kecepatan yang sama. Beberapa faktor kuncinya adalah:
 
 - **Aktivitas Fisik:** Semakin aktif bergerak, semakin cepat otak belajar.
 - **Obat-obatan:** Penggunaan obat anti-vertigo (sedatif vestibular) dalam jangka panjang justru dapat **menghambat** kompensasi karena obat tersebut menidurkan sistem saraf pusat yang seharusnya belajar.
 - **Lingkungan:** Lingkungan yang kaya rangsangan visual membantu proses substitusi.
-- **Usia:** Otak yang lebih muda umumnya memiliki tingkat neuroplastisitas yang lebih tinggi, namun lansia masih bisa melakukan kompensasi dengan waktu yang lebih lama.
+- **Usia:** Otak yang lebih muda umumnya memiliki tingkat neuroplastisitas yang lebih tinggi, tetapi lansia masih bisa melakukan kompensasi dengan waktu yang lebih lama.
 
-*Pertanyaan reflektif: Ketika terjadi gangguan keseimbangan, tindakan yang lebih optimal adalah mencoba melakukan gerakan-gerakan ringan yang terarah daripada beristirahat total agar dapat menstimulasi proses adaptasi dan plastisitas saraf.*
+*Pertanyaan reflektif: Ketika terjadi gangguan keseimbangan, mana yang lebih optimal, beristirahat total atau mencoba melakukan gerakan-gerakan ringan yang terarah? Mengapa?*
 
 > **Kesimpulan:** Neuroplastisitas adalah bukti bahwa otak kita bukanlah struktur statis yang kaku. Dalam sistem vestibular, otak bertindak sebagai insinyur yang mampu membangun kembali fondasi keseimbangan, memastikan bahwa meskipun salah satu sensor mengalami gangguan, keseimbangan tetap dapat dipertahankan untuk menavigasi lingkungan sekitar dengan stabil.

@@ -1,6 +1,6 @@
 ## Rencana Bacaan Pribadi
 
-Banyak orang merasa lebih tenang membuka platform yang didominasi tulisan, seolah membaca huruf otomatis lebih menyehatkan daripada menonton video. Perasaan itu wajar, tetapi belum tentu tepat. X memang kaya teks, namun di dalamnya juga ada video, gambar, notifikasi, dan aliran rekomendasi yang terus berlanjut. Format teks saja tidak cukup untuk menyimpulkan bahwa sebuah platform memicu respons dopamin yang lebih rendah. Klaim seperti itu butuh penelitian tentang respons pengguna, bukan sekadar penjelasan cara kerja mesin rekomendasi, dan buku ini tidak membuat klaim semacam itu. Yang bisa kamu kendalikan adalah kebiasaanmu sendiri, dan bab ini merangkum semua yang sudah kamu pelajari menjadi satu rencana yang siap disalin.
+Banyak orang merasa lebih tenang membuka platform yang didominasi tulisan, seolah membaca huruf otomatis lebih menyehatkan daripada menonton video. Perasaan itu wajar, tetapi belum tentu tepat. X memang kaya teks, tetapi di dalamnya juga ada video, gambar, notifikasi, dan aliran rekomendasi yang terus berlanjut. Format teks saja tidak cukup untuk menyimpulkan bahwa sebuah platform memicu respons dopamin yang lebih rendah. Klaim seperti itu butuh penelitian tentang respons pengguna, bukan sekadar penjelasan cara kerja mesin rekomendasi, dan buku ini tidak membuat klaim semacam itu. Yang bisa kamu kendalikan adalah kebiasaanmu sendiri, dan bab ini merangkum semua yang sudah kamu pelajari menjadi satu rencana yang siap disalin.
 
 ### Menilai Kebiasaan, Bukan Format
 
@@ -94,7 +94,7 @@ Catat juga risikonya, karena kata yang dibisukan terlalu luas bisa ikut menutup 
 - [ ] Saya menulis kebutuhan sebelum mengubah pengaturan.
 - [ ] Saya mengambil sampel awal dengan penyebut yang jelas.
 - [ ] Saya membuat satu List untuk kebutuhan utama dan memeriksa visibilitasnya.
-- [ ] Saya menilai sumber primer, penjelas, dan penguji kritis sebelum memasukkannya.
+- [ ] Saya menilai sumber primer, penjelas penerapan, dan penguji kritis sebelum memasukkannya.
 - [ ] Saya merapikan akun yang paling jelas tidak relevan.
 - [ ] Saya memakai Not interested untuk rekomendasi yang melenceng, bila tersedia.
 - [ ] Saya memakai mute akun atau kata sesuai masalahnya dan mencatat tanggal tinjau ulang.

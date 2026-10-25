@@ -1,18 +1,18 @@
 ## Pentingnya Kredit dan Skor Kredit
 
-Memahami kredit dan skor kredit adalah langkah dasar dalam literasi keuangan. Fasilitas ini adalah cermin tingkat kepercayaan bank atau pihak pemberi pinjaman kepada kamu. Di Indonesia, pemahaman tentang aturan main utang penting karena akan berdampak panjang pada kemudahan akses berbagai layanan perbankan.
+Memahami kredit dan skor kredit adalah langkah dasar dalam literasi keuangan. Keduanya adalah cermin tingkat kepercayaan bank atau pihak pemberi pinjaman kepada kamu. Di Indonesia, pemahaman tentang aturan main utang penting karena akan berdampak panjang pada kemudahan akses berbagai layanan perbankan.
 
 ## Memahami Konsep Dasar
 
 Kredit merupakan kemampuan untuk meminjam sejumlah uang atau membeli barang terlebih dahulu dengan janji melunasinya di kemudian hari. Biasanya ada tambahan biaya atau bunga yang menyertai perjanjian ini. Pada intinya, seluruh konsep ini berdiri di atas dasar kepercayaan.
 
-> **Definisi:** Sebuah fasilitas keuangan yang memberi kelonggaran bagi seseorang untuk meminjam dana atau transaksi barang. Peminjam lalu wajib mengembalikannya secara bertahap atau sekaligus, lengkap dengan bunganya, sesuai batas waktu yang telah disepakati.
+> **Definisi:** Sebuah fasilitas keuangan yang memberi kelonggaran bagi seseorang untuk meminjam dana atau membeli barang. Peminjam lalu wajib mengembalikannya secara bertahap atau sekaligus, lengkap dengan bunganya, sesuai batas waktu yang telah disepakati.
 
 ### Ragam Fasilitas Pinjaman
 
 Produk pinjaman hadir dalam berbagai bentuk yang disesuaikan dengan kebutuhan pemakaian:
 
-- **Kredit Konsumtif:** Untuk memenuhi kebutuhan pribadi yang sifatnya dipakai habis. Contohnya seperti pembiayaan kendaraan bermotor (KKB), cicilan kepemilikan rumah (KPR), sampai pembelian *gadget* baru.
+- **Kredit Konsumtif:** Untuk memenuhi kebutuhan pribadi yang sifatnya dipakai habis. Contohnya seperti kredit kendaraan bermotor (KKB), kredit pemilikan rumah (KPR), sampai pembelian *gadget* baru.
 - **Kredit Produktif:** Dana yang ditujukan untuk usaha atau investasi demi menghasilkan keuntungan lanjutan, misalnya sebagai tambahan modal bisnis.
 - **Kartu Kredit:** Bentuk pinjaman berulang. Kamu bisa belanja sampai batas maksimal tertentu dan membayar tagihannya bulan depan, baik dibayar lunas maupun dicicil.
 - **Kredit Tanpa Agunan (KTA):** Fasilitas pinjam dana tunai yang tidak meminta jaminan aset. Keputusan persetujuan sangat bergantung pada rekam jejak finansial si peminjam.
@@ -92,7 +92,7 @@ Punya catatan finansial yang bersih dan positif adalah aset jangka panjang.
 - Ambil produk yang bebas biaya admin bulanan agar tidak membebani arus kas.
 
 ### Menjaga Skor Tetap Baik
-- Biasakan melunasi tagihan beberapa hari sebelum tenggat waktu. Menyalakan fitur debet otomatis dari rekening gaji akan membantu.
+- Biasakan melunasi tagihan beberapa hari sebelum tenggat waktu. Menyalakan fitur debit otomatis dari rekening gaji akan membantu.
 - Sebagai aturan praktis yang sering dipakai, jaga tingkat pemakaian limit kartu di bawah 30 persen. Umpamanya plafon kartu kamu 10 juta, usahakan total gesekan bulan itu tidak melampaui 3 juta.
 - Jangan iseng menekan tombol *apply* di berbagai aplikasi pinjol sekaligus.
 - Kalau punya kartu kredit lama yang jarang dipakai tapi bebas iuran tahunan, biarkan saja tetap aktif. Usia kartu tersebut membantu menyokong skor kamu.

@@ -1,12 +1,12 @@
 ## Pendahuluan Digital Minimalisme
 
-Pernahkah kamu merasa kesepian justru di saat sedang "terhubung" dengan ratusan orang di media sosial? Atau mungkin kamu merasa 24 jam sehari tidak pernah cukup, namun saat melihat *screen time*, kamu kaget mendapati 4 jam habis hanya untuk *scrolling* tanpa tujuan.
+Pernahkah kamu merasa kesepian justru di saat sedang "terhubung" dengan ratusan orang di media sosial? Atau mungkin kamu merasa 24 jam sehari tidak pernah cukup, tetapi saat melihat *screen time*, kamu kaget mendapati 4 jam habis hanya untuk *scrolling* tanpa tujuan.
 
 Kita hidup di era **Attention Economy (Ekonomi Perhatian)**. Di sini, setiap detik fokus kamu adalah komoditas yang diperjualbelikan. Digital Minimalisme adalah filosofi untuk mengambil kembali kendali atas perhatianmu dari algoritma. Gerakan ini sama sekali tidak anti-teknologi.
 
 ## Apa Itu Digital Minimalisme?
 
-Digital minimalisme berpusat pada penggunaan teknologi yang difokuskan pada segelintir aktivitas online yang dipilih secara hati-hati. Aktivitas ini dioptimalkan untuk mendukung nilai-nilai inti kamu, sementara hal-hal lain diabaikan dengan senang hati.
+Digital minimalisme berpusat pada penggunaan teknologi yang difokuskan pada segelintir aktivitas daring yang dipilih secara hati-hati. Aktivitas ini dioptimalkan untuk mendukung nilai-nilai inti kamu, sementara hal-hal lain diabaikan dengan senang hati.
 
 > **Definisi Kunci:** "Digital Minimalisme memastikan teknologi yang kamu gunakan bekerja untukmu, dan mencegah hal yang sebaliknya." - Terinspirasi dari Cal Newport.
 
@@ -18,15 +18,15 @@ Pendekatan minimalis mengajak kamu mengunci pintu. Buang barang-barang tak bergu
 
 ## Bagaimana Kita Sampai di Sini?
 
-Hubungan kita dengan teknologi berubah melalui pergeseran yang halus namun luas.
+Hubungan kita dengan teknologi berubah melalui pergeseran yang halus tetapi luas.
 
-Pada era sebelum 2007, ponsel murni berfungsi sebagai alat menelepon dan SMS. Internet adalah tujuan yang kita kunjungi melalui komputer desktop, dan sama sekali tidak mengikuti kita di dalam saku. Ketika iPhone pertama kali diluncurkan, tujuannya sederhana: iPod yang bisa menelepon. Seiring berjalannya waktu, jumlah aplikasi bertambah pesat.
+Pada era sebelum 2007, ponsel umumnya hanya dipakai untuk menelepon dan SMS. Internet adalah tujuan yang kita kunjungi melalui komputer desktop, dan sama sekali tidak mengikuti kita di dalam saku. Ketika iPhone pertama kali diluncurkan, tujuannya sederhana: iPod yang bisa menelepon. Seiring berjalannya waktu, jumlah aplikasi bertambah pesat.
 
 Perusahaan teknologi menyadari bahwa semakin lama kita menatap layar, semakin banyak iklan yang bisa mereka jual. Mereka pun merancang fitur seperti *infinite scroll* dan *push notifications* untuk memanipulasi psikologi agar kita kecanduan. Kini, kita sampai pada titik jenuh. Teknologi mulai mendikte cara kita berpikir, merasa, dan menghabiskan waktu luang.
 
 ## Mengapa Kita Perlu Mengevaluasi Hubungan dengan Layar?
 
-Mengevaluasi penggunaan teknologi sudah menjadi kewajiban untuk menjaga kesehatan mental di era modern, jauh lebih penting dari sebuah pilihan gaya hidup. 
+Mengevaluasi penggunaan teknologi sudah menjadi kewajiban untuk menjaga kesehatan mental di era modern, jauh lebih penting daripada sebuah pilihan gaya hidup. 
 
 Kemampuan otak untuk melakukan *Deep Work* semakin luntur akibat paparan terus-menerus pada informasi singkat. Manusia juga rentan mengalami *Digital Burnout*, karena otak kita tidak dirancang untuk menerima ribuan stimulasi global dalam satu waktu. Hal ini sering kali memicu stres kronis dan kecemasan. 
 
@@ -44,7 +44,7 @@ Tiga pilar utama yang mendasari filosofi ini:
 
 ## Skenario Perubahan di Dunia Nyata
 
-Perbedaan pola pikir ini terlihat dalam keseharian. Ambil contoh saat menunggu antrean di bank. Secara refleks, kebanyakan orang akan mengeluarkan ponsel dalam 5 detik pertama. Mereka membuka Instagram, beralih ke TikTok, lalu mengecek email. Saat giliran dipanggil, pikiran mereka sudah terdistraksi dan kurang awas dengan lingkungan sekitar.
+Perbedaan pola pikir ini terlihat dalam keseharian. Ambil contoh saat menunggu antrean di bank. Secara refleks, kebanyakan orang akan mengeluarkan ponsel. Mereka membuka Instagram, beralih ke TikTok, lalu mengecek email. Saat giliran dipanggil, pikiran mereka sudah terdistraksi dan kurang awas dengan lingkungan sekitar.
 
 Di sisi lain, seorang digital minimalis akan membiarkan ponsel tetap di saku. Waktu tunggu ini dipakai untuk mengamati sekitar, memikirkan ide proyek kerja, atau sekadar berlatih pernapasan. Begitu tiba di meja teller, pikirannya bersih.
 

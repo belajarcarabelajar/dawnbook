@@ -1,6 +1,6 @@
 ## Strategi Dopamine Fasting dan Pengaturan Ulang
 
-Pernahkah kamu merasa bahwa bermain video game, menonton serial favorit, atau menelusuri media sosial kini terasa hambar dan membosankan? Aktivitas itu dulu sangat menyenangkan. Namun, di saat yang sama, kamu merasa tidak bisa berhenti melakukannya. Kamu terjebak dalam kondisi di mana kamu "menginginkan" sesuatu tetapi tidak benar-benar "menikmatinya".
+Pernahkah kamu merasa bahwa bermain video game, menonton serial favorit, atau menelusuri media sosial kini terasa hambar dan membosankan? Aktivitas itu dulu sangat menyenangkan. Namun, di saat yang sama, kamu merasa tidak bisa berhenti melakukannya. Kamu terjebak dalam kondisi ketika kamu "menginginkan" sesuatu tetapi tidak benar-benar "menikmatinya".
 
 Ini adalah tanda bahwa sistem *reward* (imbalan) kamu mengalami **downregulation** atau penurunan sensitivitas reseptor. Bab ini akan membahas solusi praktis untuk masalah tersebut: **Dopamine Fasting** (Puasa Dopamin).
 
@@ -10,7 +10,7 @@ Ini adalah tanda bahwa sistem *reward* (imbalan) kamu mengalami **downregulation
 
 Sebelum masuk ke metode praktis, mari kita luruskan satu hal penting secara ilmiah: **kamu tidak bisa benar-benar "berpuasa" dari molekul dopamin.**
 
-Dopamin adalah neurotransmiter yang selalu ada di otak dan sangat penting untuk fungsi motorik serta kognitif dasar. Tanpa dopamin sama sekali, kamu tidak akan bisa bergerak atau berpikir.
+Dopamin adalah neurotransmiter yang selalu ada di otak dan sangat penting untuk fungsi motorik serta kognitif dasar. Tanpa dopamin sama sekali, kamu akan sangat sulit bergerak atau berpikir.
 
 > **Insight Utama:** Dopamine Fasting bukanlah tentang menghilangkan dopamin dari otak, melainkan tentang **mengurangi stimulasi eksternal yang berlebihan dan impulsif** untuk memulihkan sensitivitas reseptor dopamin (terutama reseptor $\text{D}_2$).
 
@@ -70,7 +70,7 @@ Ini adalah metode "pengaturan ulang" yang lebih intensif. Selama 24 jam, kamu me
 - Bermeditasi atau sekadar melamun.
 - Merefleksikan tujuan hidup jangka panjang.
 
-#### C. The Dopamine Detox Weekend
+#### C. Dopamine Detox Weekend
 
 Dilakukan selama 2-3 hari, biasanya saat akhir pekan atau masa liburan. Tujuannya adalah untuk benar-benar memutus siklus adiksi terhadap stimulasi digital dan memberi ruang bagi *Prefrontal Cortex* untuk mengambil alih kendali.
 
@@ -78,11 +78,11 @@ Dilakukan selama 2-3 hari, biasanya saat akhir pekan atau masa liburan. Tujuanny
 
 ### 4. Langkah-Langkah Melakukan Reset yang Efektif
 
-Jika kamu memutuskan untuk melakukan *24-hour reset*, ikuti langkah-langkah praktis berikut:
+Jika kamu memutuskan untuk melakukan *The 24-Hour Reset*, ikuti langkah-langkah praktis berikut:
 
 1. **Persiapan Lingkungan:** Jauhkan perangkat digital dari jangkauan. Jika perlu, titipkan ponselmu pada teman atau simpan di laci yang terkunci.
 2. **Identifikasi Pemicu (*Triggers*):** Kenali perasaan apa yang membuatmu ingin mencari stimulasi. Apakah itu bosan, cemas, atau kesepian?
-3. **Rangkul Rasa Bosan:** Ini adalah bagian tersulit. Rasa bosan adalah tanda bahwa otakmu sedang berusaha melakukan kalibrasi ulang sensitivitas reseptor. Jangan melarikan diri darinya.
+3. **Rangkul Rasa Bosan:** Ini adalah bagian tersulit. Rasa bosan bisa jadi tanda bahwa otakmu sedang berusaha melakukan kalibrasi ulang sensitivitas reseptor. Jangan melarikan diri darinya.
 4. **Evaluasi Nilai (*Value Alignment*):** Gunakan waktu kosong ini untuk bertanya pada diri sendiri: *"Aktivitas mana yang benar-benar memberikan makna jangka panjang, dan mana yang hanya memberikan kesenangan sesaat?"*
 
 > **Pertanyaan Refleksi:** Kapan terakhir kali kamu benar-benar duduk diam selama 30 menit tanpa melakukan apa pun selain berpikir? Apa yang kamu rasakan saat itu?
@@ -97,7 +97,7 @@ Jika kamu memutuskan untuk melakukan *24-hour reset*, ikuti langkah-langkah prak
 - **Strategi Pengaturan Ulang:**
   - **Minggu 1:** Implementasi *No-Phone Zone* di meja belajar. Ponsel diletakkan di ruangan berbeda.
   - **Minggu 2:** Melakukan *Dopamine Fasting* pada hari Minggu penuh. Tidak ada internet dan tidak ada game.
-- **Hasil:** Pada hari Senin, Budi merasa "lapar" akan informasi. Karena otak tidak lagi terus menerima video pendek, membaca buku teks yang biasanya membosankan kini terasa jauh lebih bisa ditoleransi. Fokusnya meningkat karena ambang batas (*threshold*) dopaminnya telah kembali normal.
+- **Hasil:** Pada hari Senin, Budi merasa "lapar" akan informasi. Karena otak tidak lagi terus menerima video pendek, membaca buku teks yang biasanya membosankan kini terasa jauh lebih bisa ditoleransi. Fokusnya meningkat, kemungkinan karena ambang batas (*threshold*) dopaminnya mulai pulih.
 
 ---
 

@@ -22,7 +22,7 @@ Coba bayangkan seorang teman sekelas mengajakmu jalan berdua lewat aplikasi chat
 
 > Hmm, lihat nanti ya, minggu ini lagi sibuk banget.
 
-Niatnya mungkin halus. Masalahnya, kalimat itu bisa dibaca sebagai "belum sekarang", bukan "tidak". Dalam penelitian [Baumeister dan rekan (1993)](https://doi.org/10.1037/0022-3514.64.3.377) tentang cinta tak berbalas, orang yang perasaannya ditolak meyakini bahwa penolakan itu tidak pernah disampaikan secara pasti.
+Niatnya mungkin halus. Masalahnya, kalimat itu bisa dibaca sebagai "belum sekarang", bukan "tidak". Dalam penelitian [Baumeister dan rekan (1993)](https://doi.org/10.1037/0022-3514.64.3.377) tentang cinta tak berbalas, sebagian orang yang perasaannya ditolak meyakini bahwa penolakan itu tidak pernah disampaikan secara pasti.
 
 Penelitian itu tidak mengukur apakah jawaban samar membuat orang terus mendekat. Jadi anggap ini sebagai risiko, bukan hukum. Panduan praktis yang dibahas di bawah juga sama-sama meminta kamu menghindari janji atau "mungkin nanti" yang bisa memberi harapan palsu.
 
@@ -54,7 +54,7 @@ Tidak ada kalimat dalam contoh itu yang menjanjikan waktu lain. Bandingkan denga
 
 ### Desakan Setelah Kata Tidak
 
-Ada kalanya penolakan yang sudah jelas tetap tidak dihormati. [Cupach dan Spitzberg (2000)](https://doi.org/10.1891/0886-6708.15.4.357) menggambarkan pola yang mirip, yang mereka sebut *obsessive relational intrusion* (gangguan relasional obsesif), yaitu pengejaran dan pelanggaran privasi fisik atau simbolis yang berulang dan tidak diinginkan oleh orang lain, entah orang asing atau kenalan, yang menginginkan atau menganggap ada hubungan intim. Mereka mengelompokkannya ke dalam empat jenis:
+Ada kalanya penolakan yang sudah jelas tetap tidak dihormati. [Cupach dan Spitzberg (2000)](https://doi.org/10.1891/0886-6708.15.4.357) menggambarkan pola yang mirip, yang mereka sebut *obsessive relational intrusion* (gangguan relasional obsesif), yaitu pengejaran dan pelanggaran privasi fisik atau simbolis yang berulang dan tidak diinginkan, dilakukan oleh orang lain, entah orang asing atau kenalan, yang menginginkan atau menganggap ada hubungan intim. Mereka mengelompokkannya ke dalam empat jenis:
 
 - pengejaran (*pursuit*);
 - pelanggaran batas (*violation*);

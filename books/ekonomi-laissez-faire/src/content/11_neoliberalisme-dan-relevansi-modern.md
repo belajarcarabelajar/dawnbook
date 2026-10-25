@@ -6,7 +6,7 @@ Dalam bagian ini, kita akan mengevaluasi bagaimana prinsip-prinsip kebebasan pas
 
 ## 1. Apa Itu Neoliberalisme?
 
-Secara sederhana, **neoliberalisme** adalah kebangkitan kembali ide-ide ekonomi pasar bebas abad ke-19. Konsep ini tidak sebatas membiarkan pasar berjalan sendiri, melainkan sebuah rancangan terencana untuk membentuk masyarakat di mana **persaingan** menjadi pengatur utama aktivitas manusia.
+Secara sederhana, **neoliberalisme** adalah kebangkitan kembali ide-ide ekonomi pasar bebas abad ke-19. Konsep ini tidak sebatas membiarkan pasar berjalan sendiri, melainkan sebuah rancangan terencana untuk membentuk masyarakat tempat **persaingan** menjadi pengatur utama aktivitas manusia.
 
 > **Analogi Pembaruan Sistem Operasi (OS Update)**
 > Bayangkan **Laissez-faire** klasik adalah sistem operasi komputer versi 1.0 yang sederhana (biarkan komputer berjalan tanpa intervensi). **Neoliberalisme** adalah "OS 2.0". Sistem ini lebih kompleks, dirancang untuk jaringan global, dan secara aktif menghapus program pemerintah (seperti subsidi atau perlindungan pekerja) yang dianggap memperlambat kinerja sistem.
@@ -35,17 +35,17 @@ Margaret Thatcher (Inggris) dan Ronald Reagan (AS) merupakan tokoh utama neolibe
 
 ### Konsensus Washington (*Washington Consensus*)
 
-Ini adalah sekumpulan resep kebijakan ekonomi yang dipromosikan oleh IMF, Bank Dunia, dan Departemen Keuangan AS kepada negara-negara yang mengalami krisis ekonomi (termasuk Indonesia pasca-1998). Kebijakan ini menekankan disiplin fiskal dan privatisasi skala besar.
+Ini adalah sekumpulan resep kebijakan ekonomi yang dipromosikan oleh IMF, Bank Dunia, dan Departemen Keuangan AS kepada negara-negara yang mengalami krisis ekonomi (termasuk Indonesia pascakrisis 1997/1998). Kebijakan ini menekankan disiplin fiskal dan privatisasi skala besar.
 
 ## 4. Analisis Matematis Ketimpangan dan Efisiensi
 
-Dalam perspektif neoliberal, efisiensi sering diukur melalui pertumbuhan Produk Domestik Bruto ($\text{GDP}$). Namun, para pengkritik sering mengevaluasinya melalui **Koefisien Gini ($G$)**, yang mengukur tingkat ketimpangan pendapatan.
+Dalam perspektif neoliberal, efisiensi sering diukur melalui pertumbuhan Produk Domestik Bruto (PDB). Namun, para pengkritik sering mengevaluasinya melalui **Koefisien Gini ($G$)**, yang mengukur tingkat ketimpangan pendapatan.
 
 $$
 G = \frac{A}{A + B}
 $$
 
-Di mana $A$ adalah area antara garis kesetaraan sempurna dan kurva Lorenz. Dalam banyak ekonomi neoliberal, meskipun $\text{GDP}$ naik secara total, nilai $G$ sering kali meningkat (mendekati 1), yang menunjukkan bahwa kekayaan terkonsentrasi di tangan segelintir orang.
+Dalam rumus ini, $A$ adalah area antara garis kesetaraan sempurna dan kurva Lorenz, sedangkan $B$ adalah area di bawah kurva Lorenz. Dalam banyak ekonomi neoliberal, meskipun PDB naik secara total, nilai $G$ sering kali meningkat (mendekati 1), yang menunjukkan bahwa kekayaan terkonsentrasi di tangan segelintir orang.
 
 *Coba renungkan: Apakah pertumbuhan ekonomi yang sangat cepat bermanfaat jika hanya dirasakan oleh 1% penduduk?*
 
@@ -58,13 +58,13 @@ Bagaimana neoliberalisme bekerja di sekitar kita saat ini?
 Perusahaan seperti Grab, Uber, atau Gojek merupakan manifestasi neoliberalisme modern.
 
 - **Konsep:** Setiap individu diposisikan sebagai "pengusaha bagi dirinya sendiri."
-- **Realita:** Perusahaan menekan biaya dengan tidak menyediakan tunjangan kesehatan atau jaminan pensiun, serta memindahkan seluruh risiko kepada individu. Ini adalah bentuk murni dari fleksibilitas pasar tenaga kerja.
+- **Realitas:** Perusahaan menekan biaya dengan tidak menyediakan tunjangan kesehatan atau jaminan pensiun, serta memindahkan seluruh risiko kepada individu. Ini adalah bentuk murni dari fleksibilitas pasar tenaga kerja.
 
 ### Privatisasi Layanan Kesehatan
 
 Di beberapa negara, layanan kesehatan dikelola penuh oleh mekanisme pasar.
 
-- **Keuntungan:** Inovasi teknologi medis berkembang pesat disertai kompetisi harga antar rumah sakit.
+- **Keuntungan:** Inovasi teknologi medis berkembang pesat disertai kompetisi harga antarrumah sakit.
 - **Kerugian:** Akses menjadi terbatas bagi kelompok yang tidak mampu membayar premi asuransi berbiaya tinggi.
 
 ## 6. Tantangan dan Kritik di Abad ke-21
@@ -72,17 +72,17 @@ Di beberapa negara, layanan kesehatan dikelola penuh oleh mekanisme pasar.
 Saat ini, dominasi neoliberalisme mulai dipertanyakan kembali akibat beberapa fenomena:
 
 - **Krisis Finansial 2008:** Menunjukkan bahwa pasar finansial tanpa regulasi dapat memicu keruntuhan ekonomi global.
-- **Pandemi COVID-19:** Membuktikan bahwa dalam situasi darurat, peran negara yang kuat vital untuk menyediakan vaksin dan bantuan sosial.
+- **Pandemi COVID-19:** Membuktikan bahwa dalam situasi darurat, peran negara yang kuat sangat vital untuk menyediakan vaksin dan bantuan sosial.
 - **Perubahan Iklim:** Mekanisme pasar sering gagal menangani eksternalitas negatif seperti polusi. Emisi $\text{CO}_2$ tidak akan turun hanya mengandalkan "tangan tak terlihat" tanpa regulasi karbon yang tegas.
 
    $$\text{Eksternalitas Negatif} = \text{Biaya Sosial} > \text{Biaya Privat}$$
 
 ## 7. Transformasi Ekonomi Indonesia
 
-Indonesia sempat menerapkan prinsip neoliberalisme secara intensif pasca krisis 1997/1998 melalui perjanjian dengan IMF (*Letter of Intent*).
+Indonesia sempat menerapkan prinsip neoliberalisme secara intensif pascakrisis 1997/1998 melalui perjanjian dengan IMF (*Letter of Intent*).
 
-- **Langkah:** Privatisasi beberapa BUMN, penghapusan subsidi BBM secara bertahap, dan pembukaan keran investasi asing seluas-luasnya.
-- **Hasilnya:** Stabilitas makroekonomi berhasil dicapai dalam waktu singkat, namun memicu perdebatan panjang mengenai kedaulatan ekonomi dan ketimpangan sosial yang masih terasa hingga kini.
+- **Langkah:** Privatisasi beberapa BUMN, pengurangan subsidi BBM secara bertahap, dan pembukaan keran investasi asing seluas-luasnya.
+- **Hasilnya:** Stabilitas makroekonomi berhasil dicapai, tetapi memicu perdebatan panjang mengenai kedaulatan ekonomi dan ketimpangan sosial yang masih terasa hingga kini.
 
 ## Ringkasan untuk Pembelajar
 

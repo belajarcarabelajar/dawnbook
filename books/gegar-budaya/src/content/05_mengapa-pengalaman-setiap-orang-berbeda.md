@@ -10,7 +10,7 @@ $$
 I = f(D, P, E, S)
 $$
 
-Di mana:
+Keterangan:
 
 - $D$ = *Cultural Distance* (Jarak Budaya)
 - $P$ = *Personality* (Kepribadian)
@@ -19,14 +19,14 @@ Di mana:
 
 ## 1. Jarak Budaya (Cultural Distance)
 
-**Jarak Budaya** adalah sejauh mana perbedaan antara budaya asal seseorang dengan budaya tujuan. Semakin besar perbedaannya, semakin besar pula energi yang dibutuhkan untuk menjembataninya.
+**Jarak Budaya** adalah sejauh mana perbedaan antara budaya asal seseorang dan budaya tujuan. Semakin besar perbedaannya, semakin besar pula energi yang dibutuhkan untuk menjembataninya.
 
 **Komponen Jarak Budaya meliputi:**
 
 - **Bahasa:** Apakah kamu harus mempelajari alfabet baru atau sekadar aksen berbeda?
-- **Struktur Sosial:** Dari budaya kolektif (mengutamakan kelompok) ke individualis (mengutamakan diri sendiri).
+- **Struktur Sosial:** Dari budaya kolektivis (mengutamakan kelompok) ke individualis (mengutamakan diri sendiri).
 - **Agama dan Nilai:** Perbedaan pandangan moral, etika kerja, dan tabu sosial.
-- **Iklim dan Geografis:** Perpindahan dari daerah tropis ke negara dengan empat musim yang ekstrem bisa memicu stres fisik yang berat.
+- **Iklim dan Geografi:** Perpindahan dari daerah tropis ke negara dengan empat musim yang ekstrem bisa memicu stres fisik yang berat.
 
 > **Analogi:** Bayangkan kamu biasa mengendarai sepeda motor di jalanan pedesaan yang tenang. Pindah ke budaya dengan "jarak dekat" seperti pindah ke kota kecil tetangga. Namun, pindah ke budaya dengan "jarak jauh" seperti tiba-tiba harus mengemudikan pesawat jet tanpa instruksi yang jelas.
 
@@ -52,7 +52,7 @@ Dukungan sosial terbagi menjadi dua jenis utama:
 1. **Host National Support:** Teman dari warga lokal yang membantu kamu memahami "aturan main" di negara tersebut.
 2. **Expatriate Support:** Sesama perantau yang mengerti rasa rindu rumahmu.
 
-**Penting:** Terlalu banyak bergaul hanya dengan sesama orang dari negara asal (disebut sebagai *Expat Bubble*) mungkin terasa nyaman di awal, namun justru dapat **memperlambat** adaptasi jangka panjang dan memperpanjang masa krisis.
+**Penting:** Terlalu banyak bergaul hanya dengan sesama orang dari negara asal (disebut sebagai *Expat Bubble*) mungkin terasa nyaman di awal, tetapi justru dapat **memperlambat** adaptasi jangka panjang dan memperpanjang masa krisis.
 
 ## Profil Risiko Adaptasi
 

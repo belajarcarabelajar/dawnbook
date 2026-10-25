@@ -33,13 +33,13 @@ Suhu elektrokauter dapat berkisar antara $400^{\circ}\text{C}$ sampai $600^{\cir
 
 ## 4. Coblation (Controlled Ablation)
 
-*Coblation* (*Controlled Ablation*) kini semakin populer karena tidak menggunakan panas ekstrem untuk membakar jaringan. Teknik ini menyalurkan energi frekuensi radio melalui cairan saline untuk membentuk lapisan plasma dingin. Lapisan plasma inilah yang memutus ikatan molekul jaringan tonsil secara presisi pada suhu rendah, berkisar antara $40^{\circ}\text{C}$ sampai $70^{\circ}\text{C}$.
+*Coblation* (*Controlled Ablation*) kini semakin populer karena tidak menggunakan panas ekstrem untuk membakar jaringan. Teknik ini menyalurkan energi frekuensi radio melalui cairan *saline* untuk membentuk lapisan plasma dingin. Lapisan plasma inilah yang memutus ikatan molekul jaringan tonsil secara presisi pada suhu rendah, berkisar antara $40^{\circ}\text{C}$ sampai $70^{\circ}\text{C}$.
 
 Kelebihan utama *coblation* terletak pada minimnya kerusakan termal pada jaringan sehat di sekitarnya. Alhasil, pasien biasanya melaporkan tingkat nyeri pascaoperasi yang jauh lebih ringan dan dapat kembali beraktivitas normal dengan lebih cepat.
 
 ## 5. Harmonic Scalpel (Pisau Ultrasonik)
 
-*Harmonic scalpel* memotong jaringan tonsil dengan memanfaatkan getaran ultrasonik berkecepatan tinggi. Alat ini bekerja pada frekuensi $55.500\text{ Hz}$ untuk membelah jaringan secara mekanis sekaligus mengkoagulasi protein darah pada suhu berkisar $50^{\circ}\text{C}$ sampai $100^{\circ}\text{C}$.
+*Harmonic scalpel* memotong jaringan tonsil dengan memanfaatkan getaran ultrasonik berkecepatan tinggi. Alat ini bekerja pada frekuensi $55.500\text{ Hz}$ untuk membelah jaringan secara mekanis sekaligus mengoagulasi protein darah pada suhu berkisar $50^{\circ}\text{C}$ sampai $100^{\circ}\text{C}$.
 
 Keunggulan dari pisau ultrasonik ini adalah tingkat presisi pemotongan yang tinggi tanpa perlu mengalirkan arus listrik ke tubuh pasien, sehingga meminimalkan risiko stimulasi saraf yang tidak disengaja.
 
@@ -70,7 +70,7 @@ Penerapan teknologi ini disesuaikan dengan profil klinis masing-masing pasien. S
 
 Sebaliknya, pasien dewasa yang mengidap tonsilitis kronis berulang dengan riwayat abses peritonsil lebih membutuhkan diseksi tajam (*cold knife dissection*) atau elektrokauter bipolar. Jaringan parut (*fibrosis*) yang terbentuk akibat infeksi berulang sering kali melekatkan tonsil pada jaringan sekelilingnya, sehingga memerlukan diseksi total yang bersih di sepanjang batas kapsul tonsil.
 
-Secara umum, keputusan memilih instrumen bedah dipengaruhi oleh kondisi medis pasien, kelayakan fasilitas rumah sakit, serta kemahiran teknis dokter spesialis THT. Kompleksitas alat tercanggih sekalipun tetap bertumpu pada keahlian operator yang mengendalikannya.
+Secara umum, keputusan memilih instrumen bedah dipengaruhi oleh kondisi medis pasien, kelayakan fasilitas rumah sakit, serta kemahiran teknis dokter spesialis THT. Alat tercanggih sekalipun tetap bergantung pada keahlian operator yang mengendalikannya.
 
 ## Tidak Ada Teknik yang Mutlak Terbaik
 

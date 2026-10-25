@@ -12,10 +12,10 @@ Secara ontologis, eksistensialisme berfokus pada dinamika pengalaman partikular 
 
 ### 2. Riwayat Perkembangan Eksistensialisme
 
-Eksistensialisme berkembang secara bertahap melalui respon kritis terhadap sistem filsafat idealisme dan krisis sosio-historis peradaban modern:
+Eksistensialisme berkembang secara bertahap melalui respons kritis terhadap sistem filsafat idealisme dan krisis sosio-historis peradaban modern:
 
-- **Abad ke-19 (Pondasi Awal):** Søren Kierkegaard dan Friedrich Nietzsche menggugat hegemoni sistem filsafat spekulatif universal yang berupaya mereduksi keunikan individu ke dalam hukum abstrak. Pengalaman afektif subjektif seperti kecemasan (*Angst*), keputusasaan, dan kehendak individu diposisikan sebagai inti pemahaman realitas.
-- **Pasca Perang Dunia II (Puncak Formulasi):** Tragedi kehancuran massal meruntuhkan optimisme terhadap institusi tradisional, positivisme, dan determinisme sosial. Tokoh-tokoh seperti Jean-Paul Sartre dan Albert Camus memformulasikan pandangan bahwa dalam ketiadaan struktur makna objektif dari alam semesta, manusialah yang memikul mandat penuh untuk menciptakan makna eksistensialnya.
+- **Abad ke-19 (Fondasi Awal):** Søren Kierkegaard dan Friedrich Nietzsche menggugat hegemoni sistem filsafat spekulatif universal yang berupaya mereduksi keunikan individu ke dalam hukum abstrak. Pengalaman afektif subjektif seperti kecemasan (*Angst*), keputusasaan, dan kehendak individu diposisikan sebagai inti pemahaman realitas.
+- **Pasca-Perang Dunia II (Puncak Formulasi):** Tragedi kehancuran massal meruntuhkan optimisme terhadap institusi tradisional, positivisme, dan determinisme sosial. Tokoh-tokoh seperti Jean-Paul Sartre dan Albert Camus memformulasikan pandangan bahwa dalam ketiadaan struktur makna objektif dari alam semesta, manusialah yang memikul mandat penuh untuk menciptakan makna eksistensialnya.
 
 ### 3. Tokoh Kunci dan Pokok Pemikiran
 
@@ -45,7 +45,7 @@ Dalam kerangka ontologi eksistensial, disparitas kategoris antara benda mati (ob
 | **Urutan Ontologis** | Esensi Mendahului Eksistensi | Eksistensi Mendahului Esensi |
 | **Formulasi Notasi** | $\text{Esensi} \rightarrow \text{Produksi} \rightarrow \text{Eksistensi}$ | $\text{Eksistensi} \rightarrow \text{Pilihan} \rightarrow \text{Esensi}$ |
 | **Sumber Signifikasi** | Perancang Eksternal / Pembuat | Subjek Otonom Melalui Tindakan |
-| **Karakter Keberadaan** | Deterministik dan Pasif | Bebas, Sadar, dan Otentik |
+| **Karakter Keberadaan** | Deterministik dan Pasif | Bebas, Sadar, dan Berpotensi Otentik |
 
 Pada entitas objek seperti perkakas, konsepsi peruntukan dan tujuan telah dirancang mendahului proses penciptaannya. Sebaliknya, pada entitas manusia, kehadiran fisik mendahului definisi identitas apa pun, sehingga perumusan makna hidup sepenuhnya terbentuk melalui manifestasi tindakan konkret.
 

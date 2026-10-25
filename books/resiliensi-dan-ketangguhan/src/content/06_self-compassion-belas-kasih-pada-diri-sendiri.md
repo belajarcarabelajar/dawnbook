@@ -14,11 +14,11 @@ Menurut Dr. Kristin Neff, pionir dalam penelitian ini, self-compassion lebih dar
 
 Alih-alih menghakimi diri sendiri dengan keras ketika melakukan kesalahan, kita bersikap lembut dan memahami bahwa ketidaksempurnaan adalah bagian dari hidup.
 
-- **Analogi:** Bayangkan dirimu sebagai seorang pelatih atletik. Pelatih yang kejam mungkin membuat atletnya takut, tetapi pelatih yang mendukung (namun tegas) akan membuat atletnya berkembang lebih jauh tanpa merusak kesehatan mentalnya.
+- **Analogi:** Bayangkan dirimu sebagai seorang pelatih atletik. Pelatih yang kejam mungkin membuat atletnya takut, tetapi pelatih yang mendukung (tetapi tegas) akan membuat atletnya berkembang lebih jauh tanpa merusak kesehatan mentalnya.
 
 ### 2\. Common Humanity (Kemanusiaan Umum) vs. Isolation
 
-Saat kita gagal, seringkali muncul perasaan seolah-olah hanya kita satu-satunya orang yang menderita atau gagal. *Common humanity* menyadari bahwa penderitaan dan kegagalan adalah pengalaman kolektif manusia.
+Saat kita gagal, sering kali muncul perasaan seolah-olah hanya kita satu-satunya orang yang menderita atau gagal. *Common humanity* berarti menyadari bahwa penderitaan dan kegagalan adalah pengalaman kolektif manusia.
 
 > "Penderitaan bukan tanda bahwa ada yang salah dengan dirimu, tetapi bukti bahwa kamu adalah manusia."
 
@@ -28,9 +28,9 @@ Kita perlu mengenali bahwa kita sedang menderita tanpa melebih-lebihkannya. Kita
 
 ## Dampak Self-Compassion terhadap Pemulihan Mental
 
-Mengapa self-compassion penting bagi resiliensi? Secara biologis, ketika kita mengkritik diri sendiri dengan kejam, otak kita mengaktifkan sistem **"Threat Defense"** (Amigdala). Ini melepaskan hormon stres seperti kortisol.
+Mengapa self-compassion penting bagi resiliensi? Secara biologis, ketika kita mengkritik diri sendiri dengan kejam, otak kita mengaktifkan sistem **"Threat Defense"** (amigdala). Ini melepaskan hormon stres seperti kortisol.
 
-Sebaliknya, self-compassion mengaktifkan sistem **"Caregiving"** yang melepaskan **Oksitosin** dan **Endorfin**. Secara matematis, kita bisa melihat hubungan antara resiliensi ($\text{R}$) dan belas kasih ($\text{SC}$) sebagai berikut:
+Sebaliknya, self-compassion mengaktifkan sistem **"Caregiving"** yang melepaskan **oksitosin** dan **endorfin**. Secara matematis, kita bisa melihat hubungan antara resiliensi ($\text{R}$) dan belas kasih ($\text{SC}$) sebagai berikut:
 
 <div>
 $$
@@ -52,24 +52,24 @@ Banyak orang ragu untuk menerapkan self-compassion karena takut akan menjadi pri
 
 ## Latihan "Surat dari Sahabat Bijak"
 
-Ini adalah teknik kinestetik dan reflektif untuk melatih otot self-compassion-mu.
+Ini adalah teknik reflektif untuk melatih otot self-compassion-mu.
 
 **Langkah-langkah:**
 
 1. Pikirkan satu hal tentang dirimu yang sering membuatmu merasa tidak aman atau ingin kamu kritik (misalnya: berat badan, kegagalan karier, atau kesalahan dalam hubungan).
 2. Tuliskan perasaanmu mengenai hal tersebut di atas kertas.
-3. Sekarang, bayangkan seorang sahabat yang sangat bijaksana, mencintai, dan memahami dirimu sepenuhnya. Sahabat ini tahu segala kelemahanmu namun tetap menghargaimu.
+3. Sekarang, bayangkan seorang sahabat yang sangat bijaksana, mencintai, dan memahami dirimu sepenuhnya. Sahabat ini tahu segala kelemahanmu tetapi tetap menghargaimu.
 4. **Tulis surat untuk dirimu sendiri** dari perspektif sahabat tersebut. Apa yang akan dia katakan tentang kekuranganmu? Bagaimana dia akan menunjukkan empatinya?
 
 *Jika kamu tidak akan mengatakan kata-kata kasar seperti itu kepada orang yang kamu cintai, mengapa kamu merasa pantas mengatakannya kepada dirimu sendiri?*
 
 ## Menghadapi Kegagalan Profesional
 
-**Skenario:** Andi adalah seorang pengembang perangkat lunak yang secara tidak sengaja menghapus database utama perusahaan di hari Jumat sore. Sistem *down* selama 5 jam.
+**Skenario:** Andi adalah seorang pengembang perangkat lunak yang secara tidak sengaja menghapus database utama perusahaan pada hari Jumat sore. Sistem *down* selama 5 jam.
 
 **Respons Tanpa Self-Compassion:** Andi menghabiskan akhir pekannya dengan tidak makan, menyebut dirinya "beban perusahaan", dan merasa kariernya sudah tamat. Ia kembali bekerja pada hari Senin dengan kecemasan tinggi yang membuatnya melakukan lebih banyak kesalahan teknis kecil.
 
-**Respons With Self-Compassion:**
+**Respons Dengan Self-Compassion:**
 
 1. **Mindfulness:** "Saya merasa sangat malu dan takut sekarang. Ini adalah momen yang sangat sulit bagi saya."
 2. **Common Humanity:** "Setiap senior *developer* pasti pernah melakukan kesalahan teknis besar setidaknya sekali dalam karier mereka. Saya tidak sendirian."

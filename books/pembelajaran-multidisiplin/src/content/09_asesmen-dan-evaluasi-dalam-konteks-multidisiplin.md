@@ -45,9 +45,9 @@ Untuk menyusun rubrik terintegrasi yang baik, ada tiga karakteristik utama yang 
 
 | Kriteria | Sangat Baik (4) | Cukup (3) | Perlu Perbaikan (2) | Belum Tercapai (1) |
 | --- | --- | --- | --- | --- |
-| **Integrasi Konseptual Lintas Disiplin** | Mampu menghubungkan konsep dari 3+ disiplin secara harmonis untuk melahirkan pemahaman yang utuh. | Menghubungkan konsep dari 2-3 disiplin, namun masih ada bagian yang terputus. | Berupaya memadukan konsep, tetapi wawasan dari tiap disiplin masih terlihat terpisah. | Tidak menunjukkan adanya upaya menghubungkan konsep lintas disiplin. |
-| **Analisis Perspektif Ganda** | Menganalisis masalah dari berbagai sudut pandang disiplin ilmu secara mendalam. | Mengulas masalah dari beberapa perspektif, namun bahasannya kurang mendalam atau kurang menyeluruh. | Menyadari adanya sudut pandang yang berbeda, tetapi belum mampu menganalisis secara kritis. | Hanya bertumpu pada sudut pandang dari satu disiplin ilmu saja. |
-| **Sintesis Solusi Multidisiplin** | Melahirkan pemecahan masalah inovatif yang memadukan wawasan lintas bidang dengan efektif. | Merumuskan solusi yang berupaya menggabungkan wawasan, namun hasilnya kurang koheren. | Solusi didominasi oleh satu disiplin ilmu saja; perpaduan ilmu lain sangat minim. | Solusi terbatas pada satu disiplin ilmu dan mengabaikan bidang lainnya. |
+| **Integrasi Konseptual Lintas Disiplin** | Mampu menghubungkan konsep dari 3+ disiplin secara harmonis untuk melahirkan pemahaman yang utuh. | Menghubungkan konsep dari 2-3 disiplin, tetapi masih ada bagian yang terputus. | Berupaya memadukan konsep, tetapi wawasan dari tiap disiplin masih terlihat terpisah. | Tidak menunjukkan adanya upaya menghubungkan konsep lintas disiplin. |
+| **Analisis Perspektif Ganda** | Menganalisis masalah dari berbagai sudut pandang disiplin ilmu secara mendalam. | Mengulas masalah dari beberapa perspektif, tetapi bahasannya kurang mendalam atau kurang menyeluruh. | Menyadari adanya sudut pandang yang berbeda, tetapi belum mampu menganalisis secara kritis. | Hanya bertumpu pada sudut pandang dari satu disiplin ilmu saja. |
+| **Sintesis Solusi Multidisiplin** | Melahirkan pemecahan masalah inovatif yang memadukan wawasan lintas bidang dengan efektif. | Merumuskan solusi yang berupaya menggabungkan wawasan, tetapi hasilnya kurang koheren. | Solusi didominasi oleh satu disiplin ilmu saja; perpaduan ilmu lain sangat minim. | Solusi terbatas pada satu disiplin ilmu dan mengabaikan bidang lainnya. |
 
 Dalam praktiknya, pengembangan rubrik terintegrasi sebaiknya dilakukan secara kolaboratif oleh para pengajar dari berbagai disiplin ilmu agar seluruh perspektif terakomodasi secara adil.
 
@@ -73,9 +73,9 @@ Apa saja isi dari portofolio multidisiplin? Pada umumnya, dokumen ini memuat beb
 
 ### 5. Project-Based Evaluation (PBE)
 
-Project-Based Evaluation (PBE) atau evaluasi berbasis proyek merupakan pendekatan asesmen di mana peserta didik menyelesaikan proyek kompleks berdurasi panjang. Proyek ini harus relevan dengan dunia nyata dan mengharuskan mereka menerapkan pengetahuan serta keterampilan dari berbagai disiplin ilmu.
+Project-Based Evaluation (PBE) atau evaluasi berbasis proyek merupakan pendekatan asesmen ketika peserta didik menyelesaikan proyek kompleks berdurasi panjang. Proyek ini harus relevan dengan dunia nyata dan mengharuskan mereka menerapkan pengetahuan serta keterampilan dari berbagai disiplin ilmu.
 
-Karakteristik PBE lintas disiplin ini dicirikan oleh beberapa hal spesifik:
+PBE lintas disiplin dicirikan oleh beberapa hal spesifik:
 
 Pertama, tugas yang diberikan bersifat kompleks dan otentik. Proyek dirancang sedemikian rupa untuk menyerupai tantangan di masyarakat yang mustahil diselesaikan dengan satu kacamata keilmuan saja. Sebagai contoh, ketika menyelesaikan masalah pencemaran lingkungan perkotaan, peserta didik harus memadukan ilmu teknik sipil, ekologi, sosiologi, hingga analisis kebijakan publik.
 
@@ -105,7 +105,7 @@ Sebagai gambaran, contoh rubrik asesmen proyek multidisiplin berikut hanya mempe
 | :--- | :--- | :--- | :--- |
 | **Yang dinilai** | Seberapa baik ide dari berbagai disiplin dihubungkan | Orisinalitas dan efektivitas solusi multidisiplin | Kejelasan dan kemampuan mengartikulasikan ide multidisiplin |
 | **Level 4 (Sangat Baik)** | Menggabungkan tiga disiplin atau lebih secara kohesif | Solusi sangat inovatif, realistis, dan efektif lintas disiplin | Mengomunikasikan ide multidisiplin dengan sangat jelas kepada audiens beragam |
-| **Level 3 (Cukup)** | Menggabungkan dua sampai tiga disiplin dengan sedikit inkonsistensi | Solusi inovatif, namun mungkin ada keterbatasan realistis atau efektivitas | Mengomunikasikan ide multidisiplin dengan cukup jelas |
+| **Level 3 (Cukup)** | Menggabungkan dua sampai tiga disiplin dengan sedikit inkonsistensi | Solusi inovatif, namun mungkin kurang realistis atau efektif | Mengomunikasikan ide multidisiplin dengan cukup jelas |
 | **Level 2 (Perlu Perbaikan)** | Disiplin terpisah dengan sedikit upaya integrasi | Solusi standar dengan sedikit inovasi | Komunikasi kurang jelas atau sulit dipahami audiens beragam |
 | **Level 1 (Belum Tercapai)** | Tidak ada integrasi disiplin | Solusi tidak inovatif atau tidak realistis | Komunikasi tidak efektif |
 

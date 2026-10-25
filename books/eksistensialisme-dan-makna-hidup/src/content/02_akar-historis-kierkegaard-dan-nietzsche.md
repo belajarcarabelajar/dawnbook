@@ -1,10 +1,10 @@
 ## Akar Historis Kierkegaard dan Nietzsche
 
-Sebelum Jean-Paul Sartre mempopulerkan istilah eksistensialisme di kafe-kafe Paris pada abad ke-20, dua pemikir abad ke-19 telah meletakkan fondasinya. Meskipun mereka tidak pernah bertemu dan memiliki latar belakang yang sangat berbeda (yang satu seorang Kristen taat dan yang lainnya pengkritik keras agama), keduanya sepakat pada satu hal: **Individu adalah pusat dari kebenaran.**
+Sebelum Jean-Paul Sartre memopulerkan istilah eksistensialisme di kafe-kafe Paris pada abad ke-20, dua pemikir abad ke-19 telah meletakkan fondasinya. Meskipun mereka tidak pernah bertemu dan memiliki latar belakang yang sangat berbeda (yang satu seorang Kristen taat dan yang lainnya pengkritik keras agama), keduanya sepakat pada satu hal: **Individu adalah pusat dari kebenaran.**
 
 Mari kita telusuri bagaimana kegelisahan Søren Kierkegaard dan pemberontakan Friedrich Nietzsche membentuk cara kita memahami makna hidup hari ini.
 
-## 1. Søren Kierkegaard sebagai Bapak Eksistensialisme dan Kesatria Iman
+## 1. Søren Kierkegaard sebagai Bapak Eksistensialisme
 
 Søren Kierkegaard (1813–1855) adalah seorang filsuf Denmark yang merasa muak dengan filsafat sistematis zamannya yang mencoba menjelaskan segalanya secara logis. Bagi Kierkegaard, hidup bukanlah teka-teki logika untuk dipecahkan. Hidup adalah kenyataan yang mesti kamu jalani.
 
@@ -54,19 +54,19 @@ $$
 
 Nihilisme adalah kondisi ketika hidup terasa hampa, tanpa tujuan, arti, atau nilai bawaan.
 
-### Ubermensch
+### Übermensch
 
 Nietzsche tidak ingin manusia terpuruk dalam nihilisme. Sebagai penawarnya, dia menggagas konsep **Übermensch** (Manusia Unggul). Konsep ini merujuk pada sosok individu mandiri yang:
 
-- Mereka berani menciptakan nilai-nilainya sendiri saat fondasi lama runtuh.
+- Berani menciptakan nilai-nilainya sendiri saat fondasi lama runtuh.
 - Menghadapi penderitaan dengan sikap afirmatif terhadap kehidupan.
-- Keberanian untuk lepas dari "moralitas budak" atau mentalitas ikut-ikutan.
+- Berani lepas dari "moralitas budak" atau mentalitas ikut-ikutan.
 
 ### Kehendak untuk Berkuasa (Will to Power)
 
 Nietzsche percaya dorongan dasar manusia melampaui sekadar pertahanan hidup ala teori Darwin. Manusia selalu berhasrat untuk tumbuh, mengekspresikan diri, dan melampaui keterbatasan dirinya.
 
-> **Penting:** Dalam konteks ini, kehendak untuk berkuasa merujuk pada penguasaan atas diri sendiri (*self-mastery*), bukan dominasi untuk menindas orang lain.
+> **Penting:** Dalam konteks ini, kehendak untuk berkuasa dapat dipahami sebagai penguasaan atas diri sendiri (*self-mastery*), bukan semata-mata dominasi untuk menindas orang lain.
 
 ## Kierkegaard vs Nietzsche
 
@@ -98,7 +98,7 @@ Kedua akar eksistensialisme dalam bab ini bisa kamu rangkum menjadi dua cabang b
 ```mermaid
 flowchart TD
     accTitle: Akar eksistensialisme dari Kierkegaard dan Nietzsche
-    accDescr: Akar eksistensialisme bercabang dua. Cabang Kierkegaard yang religius memuat kecemasan sebagai pintu kebebasan, loncatan iman sebagai solusi absurditas, dan kebenaran adalah subjektivitas. Cabang Nietzsche yang sekuler memuat kematian Tuhan sebagai runtuhnya nilai lama, nihilisme sebagai tantangan yang harus diatasi, dan Ubermensch sebagai pencipta makna baru.
+    accDescr: Akar eksistensialisme bercabang dua. Cabang Kierkegaard yang religius memuat kecemasan sebagai pintu kebebasan, loncatan iman sebagai solusi absurditas, dan kebenaran adalah subjektivitas. Cabang Nietzsche yang sekuler memuat kematian Tuhan sebagai runtuhnya nilai lama, nihilisme sebagai tantangan yang harus diatasi, dan Übermensch sebagai pencipta makna baru.
     K["S. Kierkegaard (Religius)"]
     N["F. Nietzsche (Sekuler)"]
     K --> K1["Kecemasan = Pintu Kebebasan"]
@@ -106,7 +106,7 @@ flowchart TD
     K --> K3["“Kebenaran adalah Subjektivitas”"]
     N --> N1["Kematian Tuhan = Runtuhnya Nilai Lama"]
     N --> N2["Nihilisme = Tantangan yang Harus Diatasi"]
-    N --> N3["Ubermensch = Pencipta Makna Baru"]
+    N --> N3["Übermensch = Pencipta Makna Baru"]
     K1 ~~~ K2 ~~~ K3
     N1 ~~~ N2 ~~~ N3
 ```

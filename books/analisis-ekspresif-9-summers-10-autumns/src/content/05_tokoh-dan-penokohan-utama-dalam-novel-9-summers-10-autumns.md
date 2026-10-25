@@ -8,7 +8,7 @@ Dalam novel otobiografis *9 Summers 10 Autumns*, kekuatan narasi banyak dipengar
    Iwan mengenang rumah masa kecilnya sebagai rumah yang “dibangun dengan cinta dan kesederhanaan” (Hlm. 14). Bangunan yang kecil dan apa adanya itu melahirkan ruang yang besar di hati mereka untuk menerima hidup, sekecil apa pun kebahagiaan yang mereka terima.
 
 2. **Bapak (Abdul Hasim)**
-   Bapak adalah sosok kepala keluarga yang gigih, mandiri, dan pekerja keras. Beliau bekerja puluhan tahun sebagai sopir angkot dengan impian memiliki armada sendiri demi menaikkan derajat ekonomi keluarga:
+   Bapak adalah sosok kepala keluarga yang gigih, mandiri, dan pekerja keras. Beliau bekerja bertahun-tahun sebagai sopir angkot dengan impian memiliki mobil sendiri demi menaikkan derajat ekonomi keluarga:
    
    Setelah beberapa tahun menyopir, Bapak membeli mobil bekas seharga sekitar dua juta pada 1980 dari tabungan berpuluh-puluh tahun (Hlm. 26). Bagi keluarga, itu sukses yang cukup besar pada masa itu dan membanggakan, sebab Bapak tak perlu lagi menyetor sebagian penghasilannya kepada juragan.
 
@@ -28,4 +28,4 @@ Analisis komparatif terhadap perkembangan karakter tokoh Iwan menunjukkan kontra
 
 ### Menilik Tokoh di Sekitar Iwan
 
-Selain tokoh utama, kehadiran tokoh-tokoh pendukung di sekitar Iwan juga memberikan warna tersendiri dalam jalinan cerita. Pada bab selanjutnya, kita akan mengidentifikasi peran penting para tokoh pembantu tersebut.
+Selain tokoh utama, kehadiran tokoh-tokoh pendukung di sekitar Iwan juga memberikan warna tersendiri dalam jalinan cerita. Pada bab selanjutnya, kita akan mengidentifikasi peran penting para tokoh pendukung tersebut.

@@ -1,6 +1,6 @@
 ## Penyederhanaan Scope dengan Kata Kunci use
 
-Bayangkan kamu tinggal di sebuah kompleks perumahan yang besar. Setiap kali kamu ingin mengundang teman ke rumah, kamu harus memberikan alamat lengkap: **"Negara Indonesia, Provinsi DKI Jakarta, Kota Jakarta Selatan, Kecamatan Tebet, Jalan Gajah Mada Nomor 123"**.
+Bayangkan kamu tinggal di sebuah kompleks perumahan yang besar. Setiap kali kamu ingin mengundang teman ke rumah, kamu harus memberikan alamat lengkap: **"Negara Indonesia, Provinsi DKI Jakarta, Kota Jakarta Selatan, Kecamatan Tebet, Jalan Tebet Raya Nomor 123"**.
 
 Lama-lama, menuliskan alamat sepanjang itu di setiap surat undangan tentu melelahkan. Bukankah lebih mudah jika kamu cukup berkata, **"Datanglah ke Rumah Saya"**, dan semua orang di lingkungan tersebut sudah tahu maksudnya?
 
@@ -51,7 +51,7 @@ fn eat_at_restaurant() {
 }
 ```
 
-> **Penting:** Menambahkan `use` di bagian atas file akan berlaku untuk seluruh isi file tersebut dalam scope modul tersebut. Namun, perlu diingat bahwa `use` hanya berlaku untuk scope tempat ia didefinisikan.
+> **Penting:** Menambahkan `use` di bagian atas file akan berlaku untuk seluruh scope modul tersebut. Namun, perlu diingat bahwa `use` hanya berlaku untuk scope tempat ia didefinisikan.
 
 ## Konvensi Path yang Idiomatis (The Rust Way)
 

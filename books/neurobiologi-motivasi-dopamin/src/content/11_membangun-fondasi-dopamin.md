@@ -18,7 +18,7 @@ $$
 \text{L-Fenilalanin} \rightarrow \text{L-Tirosin} \rightarrow \text{L-DOPA} \rightarrow \text{Dopamin}
 $$
 
-Jika kadar Tirosin rendah, maka produksi dopamin akan terhambat, yang sering kali bermanifestasi sebagai kabut otak (*brain fog*), kelesuan, dan hilangnya minat pada tugas-tugas yang biasanya kamu sukai.
+Jika kadar tirosin rendah, maka produksi dopamin akan terhambat, yang sering kali bermanifestasi sebagai kabut otak (*brain fog*), kelesuan, dan hilangnya minat pada tugas-tugas yang biasanya kamu sukai.
 
 ### Sumber Nutrisi Utama
 
@@ -28,9 +28,9 @@ Untuk menjaga "pabrik" dopamin tetap beroperasi, pastikan diet kamu mengandung n
 | :--- | :--- | :--- |
 | **Protein Hewani & Nabati** | Daging sapi, ayam, ikan, telur, tempe, tahu | Sumber **L-Tirosin** utama untuk bahan baku dopamin |
 | **Kacang & Biji-bijian** | Almond, biji labu, kacang tanah | Menyediakan mikronutrisi pendukung metabolisme neuron |
-| **Buah-buahan Spesifik** | Pisang matang, alpukat | Mengandung prekursor tirosin alami yang mudah diserap |
+| **Buah-buahan Spesifik** | Pisang matang, alpukat | Mengandung sedikit tirosin alami |
 
-> **Penting:** Mengonsumsi protein di pagi hari terbukti secara klinis dapat meningkatkan kewaspadaan dan motivasi sepanjang hari karena memberikan suplai asam amino yang stabil untuk sintesis neurotransmiter.
+> **Penting:** Mengonsumsi protein di pagi hari diduga dapat meningkatkan kewaspadaan dan motivasi sepanjang hari karena memberikan suplai asam amino yang stabil untuk sintesis neurotransmiter.
 
 ## 2. Tidur
 
@@ -48,7 +48,7 @@ Saat kamu kurang tidur, masalah utamanya bukan hanya jumlah dopamin yang kamu mi
 2. **Pencarian Dopamin Murah:** Karena reseptor kamu kurang sensitif, otak kamu akan menuntut rangsangan yang lebih kuat (seperti gula, media sosial, atau kafein berlebih) hanya untuk merasa "normal".
 3. **Gangguan Homeostasis:** Kurangnya tidur merusak keseimbangan antara sistem *reward* dan sistem kendali impuls di *prefrontal cortex*.
 
-*Coba renungkan: Pernahkah kamu merasa jauh lebih sulit menolak godaan makanan tidak sehat saat kamu sedang mengantuk berat? Itu adalah hasil langsung dari disregulasi dopamin akibat kurang tidur.*
+*Coba renungkan: Pernahkah kamu merasa jauh lebih sulit menolak godaan makanan tidak sehat saat kamu sedang mengantuk berat? Salah satu penyebabnya adalah disregulasi dopamin akibat kurang tidur.*
 
 ## 3. Paparan Cahaya
 
@@ -76,7 +76,7 @@ Sebaliknya, paparan cahaya terang (terutama cahaya biru dari layar HP atau lampu
 
 Bagaimana kita menerapkan sains ini dalam kehidupan sehari-hari? Berikut adalah rutinitas yang dirancang untuk memaksimalkan sistem dopamin kamu secara alami:
 
-1. **The 10-Minute Morning Sun:** Dalam 30 menit setelah bangun tidur, keluar dari rumah tanpa kacamata hitam (kontak lensa atau kacamata biasa diperbolehkan). Biarkan cahaya matahari mengenai mata kamu selama 10–20 menit. Ini adalah pemicu dopamin alami yang tersedia secara gratis.
+1. **The Morning Sun:** Dalam 30 menit setelah bangun tidur, keluar dari rumah tanpa kacamata hitam (lensa kontak atau kacamata biasa diperbolehkan). Biarkan cahaya matahari mengenai mata kamu selama 10–20 menit. Ini adalah pemicu dopamin alami yang tersedia secara gratis.
 2. **High-Tyrosine Breakfast:** Mulailah hari dengan sarapan tinggi protein (seperti telur atau *protein shake*) daripada sarapan tinggi gula (sereal atau roti manis) untuk memastikan bahan baku dopamin tersedia sejak pagi.
 3. **The "No-Screen" Buffer:** Matikan atau redupkan lampu di rumah kamu 1 jam sebelum tidur. Hindari layar HP atau gunakan filter cahaya biru jika terpaksa. Ini melindungi sensitivitas reseptor dopamin kamu untuk keesokan harinya.
 4. **Hidrasi & Garam:** Dopamin membutuhkan lingkungan elektrolit yang stabil. Dehidrasi ringan sering kali disalahartikan sebagai kekurangan motivasi atau kelelahan mental.
@@ -87,9 +87,9 @@ Bagaimana kita menerapkan sains ini dalam kehidupan sehari-hari? Berikut adalah 
 | :--- | :--- | :--- |
 | **Pola Bangun & Layar** | Budi bangun jam 07.00 di kamar gelap, main Instagram 30 menit di bawah selimut. | Andi bangun jam 07.00, langsung jalan ke teras melihat langit 10 menit. |
 | **Menu Sarapan** | Donat dan kopi manis (gula tinggi). | Omelet telur (protein & tirosin tinggi). |
-| **Kondisi Biologis** | Cahaya biru malam menekan reseptor, lonjakan gula memicu *crash*. | Jam sirkadian terpicu, asam amino tersedia untuk sintesis. |
+| **Kondisi Biologis** | Tanpa cahaya pagi, jam sirkadian tidak terpicu, lonjakan gula memicu *crash*. | Jam sirkadian terpicu, asam amino tersedia untuk sintesis. |
 | **Hasil Sepanjang Hari** | Lonjakan dopamin singkat diikuti *crash* jam 10.00 pagi, lemas & terdistraksi. | Energi & fokus stabil hingga sore hari tanpa bergantung stimulan instan. |
 
 > **Insight Utama:** Motivasi bukanlah sesuatu yang kamu "temukan" di dalam pikiran, melainkan sesuatu yang kamu "bangun" melalui interaksi tubuh kamu dengan lingkungan fisik. Perbaiki biologinya, maka psikologinya akan mengikuti.
 
-*Setelah memahami bagaimana faktor eksternal ini memengaruhi mesin dopamin kamu, bagian selanjutnya akan membahas tentang **Neuroplastisitas**, yaitu bagaimana kita bisa melatih ulang sirkuit otak yang mungkin sudah terlanjur rusak akibat kebiasaan lama.*
+*Setelah memahami bagaimana faktor eksternal ini memengaruhi mesin dopamin kamu, bagian selanjutnya akan membahas tentang **Neuroplastisitas**, yaitu bagaimana kita bisa melatih ulang sirkuit otak yang mungkin sudah telanjur rusak akibat kebiasaan lama.*

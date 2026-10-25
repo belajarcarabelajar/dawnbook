@@ -18,7 +18,7 @@ Struktur ini didefinisikan di `<linux/sched.h>` dan berisi beberapa informasi pe
 
 - **State**: Menunjukkan status aktif proses saat ini (seperti berjalan, tidur, atau berhenti).
 - **PID (Process ID)**: Nomor identitas unik yang membedakan proses ini dengan proses lainnya.
-- **Parent & Children**: Hubungan hierarkis antar-proses dalam sistem.
+- **Parent & Children**: Hubungan hierarkis antarproses dalam sistem.
 - **CPU Affinity**: Pengaturan yang menentukan di CPU mana saja proses ini diperbolehkan berjalan.
 - **Files Open**: Daftar file yang sedang aktif diakses oleh proses tersebut.
 - **Memory Limits**: Batasan alokasi memori yang boleh digunakan oleh proses.
@@ -31,12 +31,12 @@ Proses di Linux tidak muncul begitu saja. Mereka lahir, bekerja, terkadang beris
 
 ### Transisi State Proses
 
-Kernel melacak status setiap tugas menggunakan flag dalam `task_struct`:
+Kernel melacak status setiap task menggunakan flag dalam `task_struct`:
 
 1. **TASK_RUNNING**: Proses sedang aktif dieksekusi oleh CPU atau berada di antrean *ready* untuk menunggu giliran.
 2. **TASK_INTERRUPTIBLE**: Status tidur sementara karena menunggu kejadian tertentu, seperti input dari *keyboard*. Status ini bisa diinterupsi oleh sinyal luar.
 3. **TASK_UNINTERRUPTIBLE**: Kondisi tidur yang tidak dapat diinterupsi sinyal, umumnya terjadi ketika proses sedang menunggu operasi I/O dari perangkat keras selesai.
-4. **EXIT_ZOMBIE**: Proses telah selesai berjalan, namun metadatanya tetap tertinggal di tabel proses karena induk (*parent*) belum membaca status keluarnya (*exit status*).
+4. **EXIT_ZOMBIE**: Proses telah selesai berjalan, tetapi metadatanya tetap tertinggal di tabel proses karena induk (*parent*) belum membaca status keluarnya (*exit status*).
 5. **EXIT_DEAD**: Fase final ketika seluruh resource task benar-benar dibersihkan oleh sistem.
 
 ### Mekanisme Fork dan Copy-on-Write (COW)
@@ -53,12 +53,12 @@ Mekanisme ini membuat pembuatan proses di Linux sangat cepat dan efisien dalam p
 
 ### Completely Fair Scheduler (CFS)
 
-Sejak kernel 2.6.23, Linux menggunakan **CFS** sebagai algoritma penjadwalan default. Berbeda dengan scheduler lama yang menggunakan "timeslice" (jatah waktu tetap), CFS berusaha memberikan keadilan yang sempurna dalam pembagian waktu proses.
+Sejak kernel 2.6.23 hingga 6.5, Linux menggunakan **CFS** sebagai algoritma penjadwalan default; mulai kernel 6.6, perannya digantikan oleh EEVDF. Berbeda dengan scheduler lama yang menggunakan "timeslice" (jatah waktu tetap), CFS berusaha memberikan keadilan yang sempurna dalam pembagian waktu proses.
 
 **Konsep vruntime (Virtual Runtime):** CFS melacak seberapa lama sebuah proses telah berjalan di CPU menggunakan variabel $\text{vruntime}$.
 
 - Proses yang memiliki $\text{vruntime}$ terkecil adalah yang paling "tidak adil" diperlakukan, sehingga ia mendapatkan giliran berikutnya.
-- Prioritas (disebut **nice value**) mempengaruhi seberapa cepat $\text{vruntime}$ sebuah proses bertambah:
+- Prioritas (disebut **nice value**) memengaruhi seberapa cepat $\text{vruntime}$ sebuah proses bertambah:
 
   <div>
   $$
@@ -129,9 +129,9 @@ int main() {
 | Konsep | Penjelasan Singkat |
 | --- | --- |
 | **`task_struct`** | Metadata terpusat yang menyimpan seluruh informasi tentang suatu proses. |
-| **context switching** | Proses menyimpan status CPU saat ini dan memuat status proses lain untuk multitasking. |
+| **context switching** | Mekanisme kernel untuk menyimpan status CPU saat ini dan memuat status proses lain demi multitasking. |
 | **preemption** | Kemampuan kernel untuk menghentikan proses berjalan demi mendahulukan proses dengan prioritas lebih tinggi. |
-| **CFS** | Algoritma scheduler default yang memastikan distribusi CPU yang adil berdasarkan $\text{vruntime}$. |
+| **CFS** | Algoritma scheduler default (hingga kernel 6.5) yang memastikan distribusi CPU yang adil berdasarkan $\text{vruntime}$. |
 | **zombie process** | Proses yang telah selesai dieksekusi tetapi entri datanya masih tertinggal karena induk belum membaca status keluarnya. |
 
 Manajemen proses yang efisien inilah yang mendasari keandalan Linux saat dijalankan di berbagai perangkat, mulai dari jam tangan pintar hingga superkomputer tercepat di dunia. Kegagalan scheduler dalam hitungan detik saja dapat membuat seluruh sistem terasa membeku akibat terhentinya pergantian tugas di CPU.

@@ -6,7 +6,7 @@ Inilah yang disebut dengan **State of Flow** (Kondisi Alir). Namun, flow bukan s
 
 ## 1\. Keseimbangan Antara Tantangan dan Keterampilan
 
-Ini adalah fondasi utama dari flow. Bayangkan sebuah grafik di mana sumbu $Y$ adalah tingkat tantangan dan sumbu $X$ adalah tingkat keterampilan kamu.
+Ini adalah fondasi utama dari flow. Bayangkan sebuah grafik yang sumbu $Y$ adalah tingkat tantangan dan sumbu $X$ adalah tingkat keterampilan kamu.
 
 - Jika **Tantangan > Keterampilan**: kamu akan mengalami kecemasan (*anxiety*).
 - Jika **Keterampilan > Tantangan**: kamu akan merasa bosan (*boredom*).
@@ -26,7 +26,7 @@ Kamu tahu persis apa yang harus dilakukan dari satu momen ke momen berikutnya. T
 
 Dalam pekerjaan kreatif, ini mungkin bukan berarti kamu tahu hasil akhirnya, tetapi kamu tahu bahwa langkah saat ini adalah "menulis kalimat berikutnya" atau "menggoreskan warna biru di sudut kanvas".
 
-## 4\. Umpan Balik Langsung (Unambiguous Feedback)
+## 4\. Umpan Balik yang Jelas dan Langsung (Immediate and Unambiguous Feedback)
 
 Saat berada dalam flow, kamu mendapatkan sinyal terus-menerus tentang keberhasilan tindakan kamu. Umpan balik ini tidak harus datang dari orang lain, melainkan dari aktivitas itu sendiri.
 
@@ -50,11 +50,11 @@ Secara paradoks, perasaan kendali ini muncul tanpa adanya usaha keras untuk meng
 Ini adalah salah satu elemen yang paling melegakan dari flow. Ego atau "suara kecil" di kepala yang sering mengkritik, merasa malu, atau khawatir tentang penilaian orang lain, tiba-tiba menjadi diam.
 
 - Kamu tidak lagi peduli apakah rambut kamu berantakan atau apakah kamu terlihat aneh.
-- Setelah pengalaman flow berakhir, biasanya diri (ego) akan muncul kembali dengan perasaan yang lebih kuat atau lebih berintegrasi.
+- Setelah pengalaman flow berakhir, biasanya diri (ego) akan muncul kembali dengan perasaan yang lebih kuat atau lebih terintegrasi.
 
 ## 8\. Distorsi Waktu (Transformation of Time)
 
-Waktu seolah-olah memiliki aturannya sendiri. Fenomena ini sering disebut sebagai *Chronostasis* dalam psikologi.
+Waktu seolah-olah memiliki aturannya sendiri. Csikszentmihalyi menyebut fenomena ini *transformation of time* (transformasi waktu).
 
 - **Akselerasi:** Jam-jam terasa seperti menit (paling umum terjadi).
 - **Deselerasi:** Detik-detik terasa melambat, sering dilaporkan oleh atlet atau penari saat melakukan gerakan teknis yang rumit (misalnya, peselancar di dalam ombak besar).
@@ -87,6 +87,8 @@ Mari kita lihat bagaimana sembilan elemen ini bekerja dalam satu skenario nyata:
 
 ## Ringkasan Karakteristik Flow
 
+Tabel berikut merangkum empat dari sembilan karakteristik tersebut.
+
 | Elemen | Deskripsi Singkat |
 | --- | --- |
 | **Keseimbangan** | Kesesuaian antara tingkat kesulitan dan kemampuan. |
@@ -94,4 +96,4 @@ Mari kita lihat bagaimana sembilan elemen ini bekerja dalam satu skenario nyata:
 | **Tanpa Ego** | Hilangnya rasa malu atau kekhawatiran sosial. |
 | **Autotelik** | Melakukan sesuatu karena kepuasan batin, bukan imbalan. |
 
-> **Poin Penting:** Tidak semua sembilan elemen harus hadir dengan intensitas yang sama agar seseorang disebut berada dalam flow, namun semakin banyak elemen yang hadir, semakin dalam (*deep flow*) kondisi tersebut dialami.
+> **Poin Penting:** Tidak semua dari sembilan elemen harus hadir dengan intensitas yang sama agar seseorang disebut berada dalam flow, tetapi semakin banyak elemen yang hadir, semakin dalam (*deep flow*) kondisi tersebut dialami.

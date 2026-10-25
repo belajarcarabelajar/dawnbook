@@ -1,6 +1,6 @@
-## Mengikat Diri dengan Deadline dan Rencana Jika-Maka
+## Mengikat Diri dengan Tenggat dan Rencana Jika-Maka
 
-Kapan terakhir kali sebuah tenggat membuatmu bekerja? Mungkin laporan yang baru terbuka malam sebelum dikumpulkan. Atau kamar yang akhirnya dibereskan lima belas menit sebelum tamu datang. Tugas itu sudah ada berhari-hari, dan tiba-tiba kamu bisa mengerjakannya dengan fokus yang aneh. Tugasnya tidak berubah. Yang berubah hanya jaraknya.
+Kapan terakhir kali sebuah tenggat membuatmu bekerja? Mungkin laporan yang baru dibuka malam sebelum dikumpulkan. Atau kamar yang akhirnya dibereskan lima belas menit sebelum tamu datang. Tugas itu sudah ada berhari-hari, dan tiba-tiba kamu bisa mengerjakannya dengan fokus yang aneh. Tugasnya tidak berubah. Yang berubah hanya jaraknya.
 
 Jawaban ilmiahnya ada di persamaan teori motivasi temporal yang sudah kita temui. Steel dan König (2006) menuliskan inti teorinya begini:
 
@@ -14,7 +14,7 @@ Itu sebabnya tenggat yang mepet tiba-tiba "bekerja". Ini kesimpulan yang diturun
 
 Laibson (1997) menunjukkan bahwa preferensi diskonto hiperbolik menghasilkan pilihan yang tidak konsisten secara dinamis. Diri yang menyusun rencana dan diri yang kelak harus menjalankannya ternyata menilai hal yang sama dengan timbangan berbeda. Konsekuensinya, ada motif untuk membatasi pilihan diri di masa depan, yang disebut komitmen. Modelnya membahas teknologi komitmen yang tidak sempurna, misalnya aset yang sulit dicairkan.
 
-O'Donoghue dan Rabin (1999) menambahkan pembedaan penting. Orang *naif* tidak sadar bahwa dirinya bias ke masa kini, sedangkan orang *canggih* (sophisticated) sadar. Menurut logika modelnya, hanya yang sadar yang punya alasan untuk memasang pengaman bagi dirinya. Orang naif merasa tidak perlu, karena yakin dirinya akan konsisten besok. Ini penalaran dari modelnya, bukan hasil pengukuran pada orang sungguhan. Makalah yang sama mencatat bahwa untuk aktivitas dengan biaya segera, bias masa kini yang kecil pun bisa sangat merugikan orang naif.
+O'Donoghue dan Rabin (1999) menambahkan pembedaan penting. Orang *naif* tidak sadar bahwa dirinya bias ke masa kini, sedangkan orang *canggih* (sophisticated) sadar. Menurut logika modelnya, hanya yang sadar yang punya alasan untuk memasang pengaman bagi dirinya. Orang naif merasa tidak perlu karena yakin dirinya akan konsisten besok. Ini penalaran dari modelnya, bukan hasil pengukuran pada orang sungguhan. Makalah yang sama mencatat bahwa untuk aktivitas dengan biaya segera, bias masa kini yang kecil pun bisa sangat merugikan orang naif.
 
 Maka langkah pertama mengikat diri adalah mengakui bahwa kamu termasuk orang yang bisa tergoda.
 
@@ -65,7 +65,7 @@ Dua alat ini bisa saling menguatkan. Tenggat memberi arah dan tekanan, rencana j
 ## Key Takeaways
 
 - Tenggat yang mepet terasa "bekerja" karena menurut persamaan Steel dan König (2006), jeda yang mengecil menaikkan dorongan. Ini penalaran dari teorinya, bukan hasil eksperimen.
-- Laibson (1997) dan O'Donoghue dan Rabin (1999) menjelaskan kenapa orang punya motif mengikat diri, dan kenapa mengenali bias sendiri adalah syaratnya.
+- Laibson (1997) serta O'Donoghue dan Rabin (1999) menjelaskan kenapa orang punya motif mengikat diri, dan kenapa mengenali bias sendiri adalah syaratnya.
 - Rencana jika-maka (Gollwitzer, 1999) punya efek sedang-ke-besar pada pencapaian tujuan dalam meta-analisis 94 pengujian (d = 0,65; Gollwitzer dan Sheeran, 2006).
 
 Namun semua alat ini bisa terasa seperti cambuk bila kamu memakainya sambil menghukum diri saat gagal.

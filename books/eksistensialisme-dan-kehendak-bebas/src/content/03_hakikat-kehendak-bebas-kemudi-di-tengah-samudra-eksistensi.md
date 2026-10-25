@@ -4,7 +4,7 @@ Kehendak bebas dalam eksistensialisme merupakan kapasitas radikal subjek untuk m
 
 ### 1. Kehendak Bebas Menghadapi Tiga Determinisme
 
-Dalam diskursus filsafat dan sains, kehendak bebas kerap dihadapkan secara biner dengan doktrin determinisme biologis, sosial, maupun teologis:
+Dalam diskursus filsafat dan sains, kehendak bebas kerap dihadapkan secara biner dengan doktrin determinisme fatalistik, struktural-sosial, maupun materialistik-biologis:
 
 - **Determinisme Fatalistik:** Doktrin yang memandang masa depan telah terdeterminasi secara mutlak oleh takdir atau kodrat transenden.
 - **Determinisme Struktural-Sosial:** Asumsi bahwa seluruh pilihan individu hanyalah produk pasif dari hegemoni norma, kelas sosial, dan kebudayaan.
@@ -23,7 +23,7 @@ Struktur eksistensi manusia dalam mengekspresikan kehendak bebas bergerak dalam 
 
 **Analogi Papan Catur**
 
-> Realitas faktisitas dianalogikan seperti papan catur beserta aturan mekanis pergerakan bidaknya. Seorang pecatur tidak dapat mengubah aturan dasar langkah kuda atau benteng. Namun, kedaulatan kehendak bebas terartikulasi pada pilihan kalkulasi strategis dalam menggerakkan bidak untuk merespons langkah lawan. Papan catur menyajikan batasan faktual, namun strategi lahir sepenuhnya dari transendensi sang pemain.
+> Realitas faktisitas dianalogikan seperti papan catur beserta aturan mekanis pergerakan bidaknya. Seorang pecatur tidak dapat mengubah aturan dasar langkah kuda atau benteng. Namun, kedaulatan kehendak bebas terartikulasi pada pilihan kalkulasi strategis dalam menggerakkan bidak untuk merespons langkah lawan. Papan catur menyajikan batasan faktual, tetapi strategi lahir sepenuhnya dari transendensi sang pemain.
 
 ### 3. Identitas Terbentuk dari Rangkaian Pilihan
 
@@ -35,7 +35,7 @@ $$
 $$
 </div>
 
-Di mana setiap $\text{Pilihan}\_i$ yang dieksekusi secara sadar dari rentang waktu $i=1$ hingga $n$ membentuk akumulasi esensi subjek. Dalam model ontologi eksistensialisme ateistik, tidak ada konstanta takdir bawaan yang membatasi kapasitas pemilihan tersebut.
+Dalam rumus tersebut, setiap $\text{Pilihan}\_i$ yang dieksekusi secara sadar dari rentang waktu $i=1$ hingga $n$ membentuk akumulasi esensi subjek. Dalam model ontologi eksistensialisme ateistik, tidak ada konstanta takdir bawaan yang membatasi kapasitas pemilihan tersebut.
 
 ### 4. Keniscayaan Memilih dan Paradoks Pelarian
 

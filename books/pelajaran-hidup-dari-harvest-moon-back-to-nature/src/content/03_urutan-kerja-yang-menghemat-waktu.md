@@ -40,7 +40,7 @@ Angkanya kecil, sekadar beberapa per sepuluh detik untuk mengaktifkan aturan tug
 
 Kandang ayam, kolam, dan pohon apel yang dikunjungi berurutan adalah versi ladang dari mengelompokkan tugas. Harimu bisa disusun dengan cara serupa. Balas semua pesan dalam satu waktu, jangan diselipkan di tengah pekerjaan lain. Kenali tenggat pukul limamu, entah jam kuliah, batas setor tugas, atau jam pulang kantor, lalu susun urutan mundur dari sana. Untuk pekerjaan yang paling butuh fokus, carilah tempat dan jam yang paling sedikit gangguannya, semacam ruangan tempat jammu seolah berhenti.
 
-Semua ini bukan supaya kamu bisa bekerja tanpa henti. Waktu yang dihemat di ladang justru disisakan untuk teman, festival, dan cinta sejati, yang sulit ditemukan kalau seharian kamu hanya bekerja di ladang (bab 9).
+Semua ini bukan supaya kamu bisa bekerja tanpa henti. Waktu yang dihemat di ladang justru disisakan untuk teman, festival, dan cinta sejati, yang sulit ditemukan kalau seharian kamu hanya bekerja di ladang (bab 9 dan 11).
 
 ### Benang Merah
 

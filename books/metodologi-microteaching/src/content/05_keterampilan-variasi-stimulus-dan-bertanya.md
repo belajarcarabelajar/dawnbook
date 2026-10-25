@@ -1,6 +1,6 @@
 ## Keterampilan Variasi Stimulus dan Bertanya
 
-Pernahkah kamu duduk di sebuah seminar di mana pembicaranya berbicara dengan nada datar selama dua jam tanpa bergerak sedikit pun dari podium? Kemungkinan besar, pikiran kamu mulai melayang ke daftar belanjaan atau apa yang akan kamu makan siang nanti.
+Pernahkah kamu duduk di sebuah seminar tempat pembicaranya berbicara dengan nada datar selama dua jam tanpa bergerak sedikit pun dari podium? Kemungkinan besar, pikiran kamu mulai melayang ke daftar belanjaan atau apa yang akan kamu makan siang nanti.
 
 Dalam dunia pendidikan, **monotoni menghambat pembelajaran.** Guru yang baik bukan hanya mereka yang menguasai materi, tetapi mereka yang mampu menjaga perhatian siswa. Di sinilah dua keterampilan dasar mengajar berperan: **Variasi Stimulus** dan **Keterampilan Bertanya**.
 
@@ -10,7 +10,7 @@ Variasi stimulus adalah upaya guru untuk mengubah perilaku dalam proses interaks
 
 ### Efek Radio vs. Konser Langsung
 
-Bayangkan mendengarkan radio dengan statis yang konstan; telinga kamu akan segera mengabaikannya. Namun, bayangkan sebuah konser musik di mana ada lampu sorot yang berpindah, dentuman bass yang tiba-tiba melambat, dan penyanyi yang berinteraksi dengan penonton. Variasi stimulus adalah "efek konser" dalam ruang kelas kamu.
+Bayangkan mendengarkan radio dengan statis yang konstan; telinga kamu akan segera mengabaikannya. Namun, bayangkan sebuah konser musik dengan lampu sorot yang berpindah, dentuman bass yang tiba-tiba melambat, dan penyanyi yang berinteraksi dengan penonton. Variasi stimulus adalah "efek konser" dalam ruang kelas kamu.
 
 ### Komponen Variasi Stimulus
 
@@ -21,10 +21,10 @@ Untuk menjadi pendidik yang dinamis, kamu perlu menguasai tiga dimensi variasi:
 Ini adalah perubahan perilaku guru secara personal saat menyampaikan materi:
 
 - **Variasi Suara (Voice Modulation):** Jangan bicara seperti robot. Ubah nada, kecepatan, dan volume suara. Gunakan nada rendah untuk hal-hal serius dan nada tinggi yang bersemangat untuk memotivasi.
-- **Pemberian Fokus (Focusing):** Gunakan verbal seperti, "Lihat bagian ini!" atau isyarat seperti mengetuk papan tulis.
+- **Pemberian Fokus (Focusing):** Gunakan ungkapan verbal seperti "Lihat bagian ini!" atau isyarat seperti mengetuk papan tulis.
 - **Kesenyapan (Pausing):** Jangan takut pada hening. Diam sejenak selama 3-5 detik setelah memberikan pernyataan penting dapat memberikan waktu bagi otak siswa untuk memproses informasi.
 - **Kontak Mata dan Mimik:** Tatap mata siswa secara bergantian (jangan hanya pada satu sisi kelas) dan gunakan ekspresi wajah yang sesuai dengan materi.
-- **Gerakan Badan dan Mimik:** Berpindah tempat dari depan kelas ke belakang atau ke samping (proximity) untuk memberikan kesan kedekatan.
+- **Gerakan Badan dan Perpindahan Posisi:** Berpindah tempat dari depan kelas ke belakang atau ke samping (proximity) untuk memberikan kesan kedekatan.
 
 #### B. Variasi Penggunaan Media dan Alat Bantu
 
@@ -39,7 +39,7 @@ Manusia memproses informasi melalui indra yang berbeda. Gunakan variasi:
 Jangan hanya menggunakan pola satu arah ($\text{Guru} \rightarrow \text{Siswa}$). Ciptakan pola:
 
 - **Guru - Siswa:** Tanya jawab klasikal.
-- **Siswa - Guru:** Siswa yang mengajukan inisiatif pertanyaan.
+- **Siswa - Guru:** Siswa berinisiatif mengajukan pertanyaan.
 - **Siswa - Siswa:** Diskusi kelompok atau kerja berpasangan.
 
 ## 2. Keterampilan Bertanya (Questioning Skills)
@@ -50,7 +50,7 @@ Josef Albers menulis dalam *Interaction of Color* (1963) bahwa mengajar yang bai
 
 ### Level Kognitif dalam Pertanyaan
 
-Gunakan taksonomi untuk memicu berpikir kritis. Jangan hanya bertanya pada level ingatan (C1), tetapi naikkan ke level analisis (C4) hingga evaluasi (C6).
+Gunakan taksonomi Bloom revisi untuk memicu berpikir kritis. Jangan hanya bertanya pada level ingatan (C1), tetapi naikkan ke level analisis (C4), evaluasi (C5), hingga mencipta (C6).
 
 $$
 \text{Kualitas Pembelajaran} \approx \sum_{n=1}^{i} \frac{\text{Kualitas Pertanyaan}}{\text{Jumlah Jawaban Ya/Tidak}}
@@ -70,7 +70,7 @@ $$
 - **Pelacakan (Probing):** Jika jawaban siswa kurang tepat atau kurang lengkap, jangan langsung disalahkan. Gunakan teknik pelacakan:
 	- *Klarifikasi:* "Bisa kamu jelaskan lagi apa yang dimaksud dengan...?"
 		- *Meminta Alasan:* "Mengapa kamu berpendapat demikian?"
-		- *Ketepatan:* "Bagaimana jika variabel $x$ kita ubah menjadi $y$?"
+		- *Perluasan:* "Bagaimana jika variabel $x$ kita ubah menjadi $y$?"
 - **Meningkatkan Tuntutan Kognitif:** Mengubah pertanyaan dari "Apa" menjadi "Bagaimana jika" atau "Apa hubungan antara A dan B".
 
 ## Guru Biologi Menjelaskan Ekosistem
@@ -78,7 +78,7 @@ $$
 **Skenario Penjelasan Ekosistem oleh Guru Biologi**
 
 1. **Variasi Stimulus (Gaya):** Guru memulai kelas dengan berdiri di tengah siswa (bukan di depan). Ia berbicara dengan nada misterius (Variasi Suara) tentang hutan hujan Amazon.
-2. **Variasi Stimulus (Media):** Guru menunjukkan sebuah botol berisi ekosistem mini (terrarium) agar siswa bisa melihat langsung (Media Taktil).
+2. **Variasi Stimulus (Media):** Guru menunjukkan sebuah botol berisi ekosistem mini (terrarium) agar siswa bisa melihat langsung (Media Visual).
 3. **Bertanya (Acuan):** "Kalian lihat ada uap air di dinding botol ini (Acuan). Mengapa hal itu bisa terjadi padahal kita tidak menyiramnya pagi ini? (Pertanyaan Analisis)."
 4. **Wait Time:** Guru diam selama 5 detik, memandang seluruh kelas dengan senyum (Kontak Mata).
 5. **Redirecting:** Budi menjawab "Penguapan, Pak." Guru tidak langsung membenarkan, tapi bertanya pada Susi: "Susi, apakah kamu setuju dengan Budi? Dari mana asal air yang menguap itu?"
@@ -90,6 +90,6 @@ $$
 - **Gunakan Gerakan yang Bermakna:** Jangan mondar-mandir tanpa tujuan seperti harimau dalam kandang. Berpindahlah saat transisi topik atau saat mendekati siswa yang menjawab.
 - **Hargai Setiap Jawaban:** Gunakan penguatan (reinforcement) verbal seperti "Ide bagus!", "Menarik sekali sudut pandangmu," untuk menjaga iklim kelas tetap positif.
 
-*Tantangan Praktik Mengajar: Apabila diminta mengajar selama 15 menit tanpa bantuan alat bantu visual, aspek variasi gaya mengajar manakah yang paling efektif dioptimalkan untuk menjaga konsentrasi seluruh siswa di kelas?*
+*Tantangan Praktik Mengajar: Apabila diminta mengajar selama 15 menit tanpa alat bantu visual, aspek variasi gaya mengajar manakah yang paling efektif dioptimalkan untuk menjaga konsentrasi seluruh siswa di kelas?*
 
 > **Poin Penting:** Variasi stimulus mencegah kebosanan (eksternal), sedangkan keterampilan bertanya memicu aktivitas kognitif (internal). Kombinasi keduanya menciptakan lingkungan belajar yang hidup.

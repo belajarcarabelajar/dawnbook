@@ -76,7 +76,7 @@ Langkah pertama adalah melakukan *sludge audit* untuk mengidentifikasi di mana p
 
 ## 5\. Contoh Kasus Sludge
 
-### Sludge pada Pendaftaran Universitas
+### Sludge pada Formulir Bantuan Keuangan Mahasiswa
 
 Di beberapa negara, formulir *financial aid* mahasiswa sangat rumit sehingga banyak anak dari keluarga prasejahtera menyerah sebelum menyelesaikannya. Hambatan ini menjadi *sludge* nyata yang menghalangi mobilitas sosial. Untuk mengatasinya, solusi *nudge* diterapkan dengan mengisi data secara otomatis (*pre-filling*) menggunakan data pajak yang sudah ada.
 
@@ -88,6 +88,6 @@ Penerapan *sludge* biasanya terlihat saat tombol "Terima Semua Cookies" dibuat s
 
 > **Penting:**
 > 
-> *Nudge* dirancang untuk membantu dengan mengurangi *friction* pada pilihan yang baik. Sebaliknya, *sludge* sengaja menambah *friction* untuk menghalangi keputusan yang merugikan organisasi. Oleh karena itu, *choice architect* yang etis harus selalu mengutamakan transparansi, *user welfare*, dan kemudahan untuk membatalkan pilihan (*easy out*).
+> *Nudge* dirancang untuk membantu dengan mengurangi *friction* pada pilihan yang baik. Sebaliknya, *sludge* sengaja menambah *friction* untuk menghalangi keputusan yang merugikan organisasi. Oleh karena itu, *choice architect* yang etis harus selalu mengutamakan transparansi, *user welfare*, dan kemudahan untuk membatalkan pilihan (*opt-out*).
 
-Etika dalam desain tidak hanya membahas estetika, tetapi juga tentang menghormati waktu, perhatian, dan kebebasan manusia yang berinteraksi dengan karya kita. Sebagai penutup, rancanglah sistem yang membuat orang merasa lebih cerdas dan lebih berdaya setelah menggunakannya, bukan merasa tertipu.
+Etika dalam desain tidak hanya tentang estetika, tetapi juga tentang menghormati waktu, perhatian, dan kebebasan manusia yang berinteraksi dengan karya kita. Sebagai penutup, rancanglah sistem yang membuat orang merasa lebih cerdas dan lebih berdaya setelah menggunakannya, bukan merasa tertipu.

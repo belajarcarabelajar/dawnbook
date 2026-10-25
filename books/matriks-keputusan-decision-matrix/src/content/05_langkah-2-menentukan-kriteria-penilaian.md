@@ -14,7 +14,7 @@ Kriteria penilaian merupakan standar atau parameter untuk mengevaluasi seberapa 
 
 Untuk menemukan kriteria yang tepat, hindari mengandalkan intuisi semata. Kamu bisa menggunakan pendekatan terstruktur berikut:
 
-Pertama, lakukan **analisis pemangku kepentingan (stakeholders)**. Cari tahu siapa saja yang terdampak oleh keputusan ini dan kumpulkan masukan mengenai hal-benar penting bagi mereka. Sebagai contoh, dalam keputusan bisnis, kriteria dapat bersumber dari tim keuangan (aspek biaya), tim operasional (kemudahan prosedur), dan pelanggan (kualitas produk atau layanan).
+Pertama, lakukan **analisis pemangku kepentingan (stakeholders)**. Cari tahu siapa saja yang terdampak oleh keputusan ini dan kumpulkan masukan mengenai hal-hal yang benar-benar penting bagi mereka. Sebagai contoh, dalam keputusan bisnis, kriteria dapat bersumber dari tim keuangan (aspek biaya), tim operasional (kemudahan prosedur), dan pelanggan (kualitas produk atau layanan).
 
 Selanjutnya, gunakan metode **brainstorming & mind mapping**. Tuliskan semua faktor potensial tanpa membatasinya terlebih dahulu. Setelah semua ide terkumpul, kelompokkan poin-poin yang memiliki kesamaan fungsi.
 
@@ -34,7 +34,7 @@ Sebagai contoh, hindari menggunakan kriteria "Kecepatan Prosesor" dan "Performa 
 
 Kriteria harus dapat dinilai secara objektif, baik melalui pendekatan kuantitatif maupun kualitatif.
 
-*   **Kuantitatif (berupa angka pasti):** Contohnya seperti biaya dalam Rupiah, waktu pengerjaan dalam satuan hari, atau kapasitas penyimpanan dalam Gigabyte.
+*   **Kuantitatif (berupa angka pasti):** Contohnya seperti biaya dalam rupiah, waktu pengerjaan dalam satuan hari, atau kapasitas penyimpanan dalam gigabita.
 *   **Kualitatif (berdasarkan skala persepsi):** Contohnya meliputi keindahan estetika, kemudahan penggunaan (*usability*), serta reputasi penyedia jasa (*vendor*).
 
 ### Karakteristik Kriteria yang Baik
@@ -66,7 +66,7 @@ Bayangkan kamu dan pasangan sedang berencana membeli rumah pertama. Saat ini, ad
 Berikut adalah contoh identifikasi kriteria penilaian yang bisa kamu buat:
 
 1. **Jarak ke Kantor:** $D \le 15$ km (Kriteria Independen).
-2. **Harga Rumah:** $P \le 1$ Miliar Rupiah (Kriteria Terukur).
+2. **Harga Rumah:** $P \le 1$ miliar rupiah (Kriteria Terukur).
 3. **Tingkat Keamanan Lingkungan:** Mengacu pada data statistik kriminalitas wilayah setempat (Kriteria Terukur).
 4. **Akses Transportasi Umum:** Jumlah stasiun atau halte terdekat dalam radius 1 km (Kriteria Terukur).
 

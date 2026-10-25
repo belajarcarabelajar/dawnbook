@@ -24,13 +24,13 @@ Dokter anestesi akan memulai proses induksi dengan memberikan obat tidur melalui
 
 Setelah pasien teranestesi dengan stabil, tim bedah akan mengatur posisi pasien untuk akses optimal ke tenggorokan.
 
-1. **Posisi Rose:** Pasien dibaringkan terlentang dengan bahu sedikit diganjal agar leher sedikit menengadah (ekstensi).
+1. **Posisi Rose:** Pasien dibaringkan telentang dengan bahu sedikit diganjal agar leher sedikit menengadah (ekstensi).
 2. **Pemasangan Mouth Gag (Pembuka Mulut):** Karena mulut harus tetap terbuka lebar, alat khusus bernama *McIvor* atau *Crowe-Davis mouth gag* dipasang. Alat ini menahan lidah ke bawah dan menjaga mulut tetap terbuka tanpa merusak gigi atau gusi.
 3. **Penerangan:** Dokter bedah akan menggunakan lampu kepala (*headlamp*) yang sangat terang untuk melihat jauh ke dalam orofaring (bagian belakang tenggorokan).
 
 ## 4. Proses Pengangkatan (Diseksi Tonsil)
 
-Inilah inti dari prosedur ini. Amandel terletak di dalam "kantong" yang disebut kapsul tonsil.
+Inilah inti dari prosedur ini. Amandel terletak di dalam "kantong" yang disebut fossa tonsil, sedangkan amandelnya sendiri dibungkus selaput yang disebut kapsul tonsil.
 
 Dokter bedah akan memegang tonsil menggunakan klem, menarik tonsil itu perlahan ke arah tengah, lalu memisahkannya dari jaringan otot di bawahnya dengan mengikuti garis kapsul tonsil. Proses ini membutuhkan ketelitian tinggi agar tonsil terangkat utuh tanpa mencederai otot tenggorokan yang berfungsi untuk menelan.
 
@@ -38,9 +38,9 @@ Tonsilektomi sebenarnya adalah salah satu operasi tertua di dunia. Bedanya, tekn
 
 ## 5. Hemostasis
 
-Area amandel kaya akan pembuluh darah kecil. Oleh karena itu, langkah paling penting setelah amandel diangkat adalah **Hemostasis** (penghentian pendarahan).
+Area amandel kaya akan pembuluh darah kecil. Oleh karena itu, langkah paling penting setelah amandel diangkat adalah **Hemostasis** (penghentian perdarahan).
 
-Karena area sekitar amandel dipenuhi banyak pembuluh darah kecil, dokter akan menghentikan pendarahan segera setelah amandel terangkat. Ada beberapa cara yang biasa digunakan, seperti memakai elektrokauter untuk menutup ujung pembuluh darah dengan panas listrik terkendali, mengikat pembuluh darah dengan benang bedah (ligasi), atau menekan area luka dengan kasa steril selama beberapa menit.
+Dokter akan menghentikan perdarahan segera setelah amandel terangkat. Ada beberapa cara yang biasa digunakan, seperti memakai elektrokauter untuk menutup ujung pembuluh darah dengan panas listrik terkendali, mengikat pembuluh darah dengan benang bedah (ligasi), atau menekan area luka dengan kasa steril selama beberapa menit.
 
 ## 6. Penyelesaian dan Pemulihan Awal
 
@@ -57,8 +57,8 @@ Mari kita lihat contoh nyata bagaimana tim bekerja secara sinkron:
 **Skenario:** Seorang anak berusia 7 tahun sedang menjalani tonsilektomi karena *Sleep Apnea* (henti napas saat tidur).
 
 - **Menit ke-0:** Tim melakukan *Time-Out*. "Pasien A, usia 7 tahun, rencana tonsilektomi bilateral."
-- **Menit ke-5:** Dokter Anestesi memberikan gas melalui masker bergambar karakter kartun. Pasien tertidur dalam hitungan detik.
-- **Menit ke-15:** Dokter Bedah telah memasang *mouth gag*. Dengan bantuan elektrokauter, tonsil kanan dipisahkan dari kapsulnya dalam waktu kurang dari 5 menit. Hampir tidak ada darah yang keluar.
+- **Menit ke-5:** Dokter Anestesi memberikan gas melalui masker bergambar karakter kartun. Pasien tertidur dalam waktu singkat.
+- **Menit ke-15:** Dokter Bedah telah memasang *mouth gag*. Dengan bantuan elektrokauter, tonsil kanan beserta kapsulnya dipisahkan dari otot di bawahnya dalam waktu kurang dari 5 menit. Hampir tidak ada darah yang keluar.
 - **Menit ke-25:** Kedua tonsil telah diangkat. Dokter Bedah memeriksa area "bed" (bekas tempat tonsil) dan tidak menemukan rembesan darah.
 - **Menit ke-30:** Pasien mulai menggerakkan jari tangan, tanda mulai terbangun. Ia kemudian dipindahkan ke ruang pemulihan dalam kondisi stabil.
 
@@ -68,9 +68,9 @@ Mari kita lihat contoh nyata bagaimana tim bekerja secara sinkron:
 | --- | --- | --- |
 | **Persiapan** | Monitor dipasang, verifikasi data. | 5-10 menit |
 | **Induksi** | Pasien dibuat tertidur (Anestesi). | 5-10 menit |
-| **Operasi** | Pengangkatan tonsil dan kontrol pendarahan. | 20-40 menit |
-| **Emergence** | Pasien dibangunkan dan selang napas dilepas. | 10 menit |
+| **Operasi** | Pengangkatan tonsil dan kontrol perdarahan. | 20-40 menit |
+| **Ekstubasi** | Pasien dibangunkan dan selang napas dilepas. | 10 menit |
 
-**Penting:** Durasi di tabel hanyalah perkiraan kasar, sehingga lama seluruh prosedur dari saat kamu masuk hingga keluar ruang operasi bisa berbeda pada tiap pasien, seperti terlihat pada contoh anak 7 tahun di atas. Kecepatan bukanlah tujuan utama; ketelitian dan penghentian pendarahan yang tuntas adalah prioritas tertinggi tim medis.
+**Penting:** Durasi di tabel hanyalah perkiraan kasar; lama seluruh prosedur dari saat kamu masuk hingga keluar ruang operasi bisa berbeda pada tiap pasien, seperti terlihat pada contoh anak 7 tahun di atas. Kecepatan bukanlah tujuan utama; ketelitian dan penghentian perdarahan yang tuntas adalah prioritas tertinggi tim medis.
 
 *Setelah tahap ini selesai, perjalananmu berlanjut ke ruang pemulihan (PACU), yang akan dibahas secara detail pada bagian selanjutnya dari materi ini.*

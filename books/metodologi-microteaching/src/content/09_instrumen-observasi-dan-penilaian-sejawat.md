@@ -1,8 +1,8 @@
 ## Instrumen Observasi dan Penilaian Sejawat
 
-Pernahkah kamu berdiri di depan kelas, merasa semuanya berjalan lancar, namun kemudian terkejut saat mengetahui siswa kamu sebenarnya kebingungan? Dalam *microteaching*, perasaan subjektif pengajar sering kali menipu. Di sinilah **Instrumen Observasi dan Penilaian Sejawat** berperan sebagai "kotak hitam" pesawat atau cermin yang tidak memihak.
+Pernahkah kamu berdiri di depan kelas, merasa semuanya berjalan lancar, tetapi kemudian terkejut saat mengetahui siswa kamu sebenarnya kebingungan? Dalam *microteaching*, perasaan subjektif pengajar sering kali menipu. Di sinilah **Instrumen Observasi dan Penilaian Sejawat** berperan sebagai "kotak hitam" pesawat atau cermin yang tidak memihak.
 
-Instrumen ini bukan sekadar lembaran kertas untuk memberi nilai, melainkan alat navigasi yang mengubah kesan abstrak menjadi data konkret. Tanpa instrumen yang jelas, umpan balik akan menjadi terlalu subjektif seperti, *"Saya rasa cara mengajarmu bagus,"* yang sayangnya tidak membantu pertumbuhan profesional secara spesifik.
+Instrumen ini bukan sekadar lembaran kertas untuk memberi nilai, melainkan alat navigasi yang mengubah kesan abstrak menjadi data konkret. Tanpa instrumen yang jelas, umpan balik akan menjadi terlalu subjektif, seperti *"Saya rasa cara mengajarmu bagus,"* yang sayangnya tidak membantu pertumbuhan profesional secara spesifik.
 
 ## 1. Peran Observasi dalam Microteaching
 
@@ -12,7 +12,7 @@ Dalam konteks *microteaching*, pengamat (biasanya rekan sejawat atau pembimbing)
 
 Data objektif menghilangkan bias personal. Bayangkan seorang pengamat yang secara pribadi menyukai gaya bicara kamu yang cepat. Tanpa instrumen, ia mungkin memberi nilai tinggi. Namun, dengan instrumen yang memiliki indikator **"Kecepatan bicara sesuai dengan daya tangkap siswa"**, ia terpaksa mencatat bahwa siswa model terlihat kesulitan mengikuti ritme kamu.
 
-> **Insight:** Observasi yang baik tidak mencari kesalahan, melainkan mencari kesenjangan antara apa yang direncanakan dalam RPP Mikro dengan apa yang sebenarnya terjadi di kelas.
+> **Insight:** Observasi yang baik tidak mencari kesalahan, melainkan mencari kesenjangan antara apa yang direncanakan dalam RPP Mikro dan apa yang sebenarnya terjadi di kelas.
 
 ## 2. Komponen Instrumen Observasi
 
@@ -20,11 +20,11 @@ Sebuah instrumen observasi yang efektif biasanya terdiri dari tiga komponen utam
 
 1. **Identitas:** Nama praktikan, topik materi, tanggal, dan nama pengamat.
 2. **Indikator Kinerja:** Daftar keterampilan spesifik yang sedang dilatih (misalnya: Keterampilan Membuka Pelajaran).
-3. **Skala Penilaian atau Kolom Komentar:** Tempat di mana data dicatat.
+3. **Skala Penilaian atau Kolom Komentar:** Tempat data dicatat.
 
 ### Juri MasterChef vs. Pengamat Mengajar
 
-Seorang juri memasak tidak hanya mengatakan "makanan ini enak". Mereka memiliki rubrik: *Presentasi, Kematangan Protein, Keseimbangan Rasa, dan Tekstur*. Jika salah satu kurang, mereka tahu persis di bagian mana kontestan harus memperbaiki diri. Instrumen observasi mengajar bekerja dengan cara yang persis sama.
+Juri memasak tidak hanya mengatakan "makanan ini enak". Mereka memiliki rubrik: *Presentasi, Kematangan Protein, Keseimbangan Rasa, dan Tekstur*. Jika salah satu kurang, mereka tahu persis di bagian mana kontestan harus memperbaiki diri. Instrumen observasi mengajar bekerja dengan cara yang persis sama.
 
 ## 3. Jenis-Jenis Format Penilaian
 
@@ -58,8 +58,8 @@ Berupa deskripsi kualitatif tentang peristiwa spesifik yang terjadi selama menga
 
 | Indikator | Skor 1 (Perlu Perbaikan) | Skor 2 (Cukup) | Skor 3 (Baik) | Skor 4 (Sangat Baik) |
 | --- | --- | --- | --- | --- |
-| **Kejelasan Pertanyaan** | Pertanyaan berbelit-belit dan membingungkan siswa. | Pertanyaan cukup jelas namun sering diulang-ulang. | Pertanyaan jelas dan langsung pada inti permasalahan. | Pertanyaan sangat jelas, padat, dan memicu pemikiran kritis. |
-| **Penyebaran** | Hanya bertanya pada satu siswa saja. | Bertanya pada beberapa siswa di depan saja. | Pertanyaan disebarkan ke berbagai sisi kelas. | Pertanyaan tersebar merata dan melibatkan siswa yang pasif. |
+| **Kejelasan Pertanyaan** | Pertanyaan berbelit-belit dan membingungkan siswa. | Pertanyaan cukup jelas tetapi sering diulang-ulang. | Pertanyaan jelas dan langsung pada inti permasalahan. | Pertanyaan sangat jelas, padat, dan memicu pemikiran kritis. |
+| **Penyebaran** | Hanya bertanya kepada satu siswa. | Bertanya pada beberapa siswa di depan saja. | Pertanyaan disebarkan ke berbagai sisi kelas. | Pertanyaan tersebar merata dan melibatkan siswa yang pasif. |
 
 ## 5. Menghitung Skor Objektif
 
@@ -87,7 +87,7 @@ Jika seorang calon guru mendapatkan total skor 15 dari maksimal 20: $\text{Nilai
 
 ## 7. Tips Bagi Pengamat (Sejawat)
 
-Menjadi pengamat bukan berarti menjadi kritikus yang kejam, namun juga bukan berarti menjadi teman yang "terlalu baik" sehingga menyembunyikan kelemahan.
+Menjadi pengamat bukan berarti menjadi kritikus yang kejam, tetapi juga bukan berarti menjadi teman yang "terlalu baik" sehingga menyembunyikan kelemahan.
 
 - **Fokus pada Indikator:** Jangan menilai kepribadian, nilailah perilaku mengajar yang tampak.
 - **Catat Waktu:** Menghubungkan kejadian dengan durasi (misal: "Guru berbicara sendiri selama 5 menit tanpa interaksi") efektif untuk refleksi.
@@ -95,4 +95,4 @@ Menjadi pengamat bukan berarti menjadi kritikus yang kejam, namun juga bukan ber
 
 > **Pesan Penting:** Instrumen observasi adalah alat bantu pertumbuhan. Data yang jujur dan akurat membantu rekan sejawat kamu menjadi pendidik yang lebih baik.
 
-*Langkah selanjutnya setelah data observasi ini terkumpul adalah menggunakannya sebagai bahan utama dalam **Analisis Refleksi Berbasis Video**, di mana praktikan akan mencocokkan catatan pengamat dengan rekaman visual dirinya sendiri.*
+*Langkah selanjutnya setelah data observasi ini terkumpul adalah menggunakannya sebagai bahan utama dalam **Analisis Refleksi Berbasis Video**, tempat praktikan akan mencocokkan catatan pengamat dengan rekaman visual dirinya sendiri.*

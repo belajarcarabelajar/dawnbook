@@ -8,7 +8,7 @@ Ini adalah hasil dari **Penargetan Perilaku (Behavioral Targeting)** yang bekerj
 
 Algoritma digital berfungsi seperti seorang pelayan restoran yang intuitif. Sebelum kamu memesan, ia sudah tahu bahwa kamu menyukai makanan pedas karena ia telah memperhatikan pilihan kamu selama berbulan-bulan.
 
-Dalam dunia digital, setiap klik, durasi tontonan, dan pencarian adalah sinyal psikologis. Penargetan perilaku memanfaatkan sinyal ini untuk menyajikan iklan pada saat **Reseptivitas Maksimal**, yaitu titik di mana pertahanan kognitif kamu paling rendah dan keinginan kamu paling tinggi.
+Dalam dunia digital, setiap klik, durasi tontonan, dan pencarian adalah sinyal psikologis. Penargetan perilaku memanfaatkan sinyal ini untuk menyajikan iklan pada saat **Reseptivitas Maksimal**, yaitu saat pertahanan kognitif kamu paling rendah dan keinginan kamu paling tinggi.
 
 > "Iklan yang paling efektif tidak terasa seperti iklan; ia terasa seperti solusi tepat waktu untuk masalah yang baru saja kamu sadari."
 
@@ -28,7 +28,7 @@ Semakin sering kita melihat sesuatu, semakin kita cenderung menyukainya.
 Pernah melihat tulisan *"Hanya tersisa 2 stok!"* atau *"Diskon berakhir dalam 10 menit"*?
 
 - **Cara Kerja**: Algoritma memantau perilaku "masuk keranjang tapi belum bayar".
-- **Dampak Psikologis**: Memicu rasa takut ketinggalan (**FOMO - Fear of Missing Out**). Hal ini memaksa otak emosional (sistem limbik) mengambil alih kendali dari otak rasional (prefrontal cortex).
+- **Dampak Psikologis**: Memicu rasa takut ketinggalan (**FOMO - Fear of Missing Out**). Hal ini dapat mendorong keputusan yang lebih emosional daripada rasional.
 
 ### C. Bias Konfirmasi (Confirmation Bias)
 
@@ -54,7 +54,7 @@ Algoritma sering menampilkan iklan yang mencerminkan "versi ideal" dari diri kit
 
 ## 4. Memetakan Probabilitas Konversi
 
-Secara matematis, algoritma menghitung kemungkinan seorang pengguna melakukan klik berdasarkan variabel psikologis.
+Secara matematis, algoritma menghitung kemungkinan seorang pengguna melakukan konversi berdasarkan variabel psikologis.
 
 Misalkan $P(C|B)$ adalah probabilitas konversi ($C$) mengingat perilaku pengguna tertentu ($B$). Algoritma bekerja untuk memaksimalkan nilai ini:
 
@@ -62,7 +62,7 @@ $$
 P(C|B) = \frac{P(B|C) \cdot P(C)}{P(B)}
 $$
 
-Di mana:
+Keterangan:
 
 - $P(B|C)$ adalah probabilitas perilaku $B$ muncul pada orang yang biasanya membeli.
 - $P(C)$ adalah probabilitas umum seseorang melakukan pembelian.
@@ -74,8 +74,8 @@ Semakin banyak data psikologis (minat, emosi, waktu aktif) yang dimasukkan ke da
 
 **Skenario Perjalanan Membeli Sepatu Lari**
 
-1. **Kesadaran (Awareness):** Budi mencari "cara mulai lari marathon" di Google. Algoritma mencatat minat pada "kesehatan" dan "marathon".
-2. **Pertimbangan (Consideration):** Budi mengunjungi situs sepatu lari namun tidak membeli karena harganya mahal (Hambatan Psikologis: *Pain of Paying*).
+1. **Kesadaran (Awareness):** Budi mencari "cara mulai lari maraton" di Google. Algoritma mencatat minat pada "kesehatan" dan "maraton".
+2. **Pertimbangan (Consideration):** Budi mengunjungi situs sepatu lari tetapi tidak membeli karena harganya mahal (Hambatan Psikologis: *Pain of Paying*).
 3. **Intervensi Algoritma:** Dua jam kemudian, Budi melihat iklan sepatu yang sama di Facebook dengan testimoni pelari profesional (Memicu: *Social Proof*).
 4. **Konversi (Conversion):** Keesokan harinya, muncul iklan dengan kode promo 10% yang berlaku hanya hari ini (Memicu: *Scarcity* dan mengurangi *Pain of Paying*).
 5. **Hasil:** Budi membeli. Iklan tersebut berhasil karena menyerang hambatan psikologis Budi di waktu yang tepat.
@@ -84,7 +84,7 @@ Semakin banyak data psikologis (minat, emosi, waktu aktif) yang dimasukkan ke da
 
 Ada garis tipis antara membantu konsumen menemukan apa yang mereka butuhkan dan memanipulasi kerentanan mereka.
 
-- **Dark Patterns:** Taktik antarmuka pengguna yang memaksa tindakan secara tidak sadar (misalnya, tombol "Batal" yang dibuat hampir tidak terlihat).
+- **Dark Patterns:** Taktik antarmuka pengguna yang menggiring pengguna melakukan tindakan tanpa disadari (misalnya, tombol "Batal" yang dibuat hampir tidak terlihat).
 - **Filter Bubbles:** Algoritma yang hanya menunjukkan apa yang kita sukai dapat memperkuat bias dan menutup perspektif baru.
 
 ## Eksperimen Kecil yang Bisa Kamu Coba
@@ -93,6 +93,6 @@ Untuk benar-benar memahami ini, cobalah eksperimen kecil:
 
 1. Buka satu situs belanja (misalnya, peralatan dapur yang mahal) dan masukkan ke keranjang tanpa membayar.
 2. Amati bagaimana iklan di media sosial kamu berubah dalam 24 jam ke depan.
-3. Identifikasi bias kognitif mana yang sedang mereka coba picu pada kamu: Apakah itu **Kelangkaan**? **Validasi Sosial**? atau **Paparan Semata**?
+3. Identifikasi bias kognitif mana yang sedang mereka coba picu pada kamu: Apakah itu **Kelangkaan**, **Validasi Sosial**, atau **Paparan Semata**?
 
 Dengan memahami mekanisme psikologis di balik layar, kita tidak hanya menjadi pemasar yang lebih cerdas, tetapi juga konsumen yang lebih sadar akan keputusan kita sendiri.

@@ -10,7 +10,7 @@ Salah satu ironi dari Laissez-faire adalah bahwa persaingan bebas cenderung meng
 
 ### Permainan Papan Monopoly
 
-Bayangkan kamu bermain papan permainan *Monopoly*. Pada awalnya, semua orang memiliki peluang yang sama. Namun, begitu satu pemain berhasil menguasai tanah-tanah strategis dan membangun hotel, pemain lain akan perlahan bangkrut karena harus membayar sewa yang mahal. Di akhir permainan, satu orang menguasai segalanya, dan permainan berakhir karena tidak ada lagi persaingan. Inilah yang dikhawatirkan kritikus: **Laissez-faire pada titik ekstremnya akan menghilangkan kompetisi yang menjadi penggeraknya sendiri.**
+Bayangkan kamu bermain permainan papan *Monopoly*. Pada awalnya, semua orang memiliki peluang yang sama. Namun, begitu satu pemain berhasil menguasai tanah-tanah strategis dan membangun hotel, pemain lain akan perlahan bangkrut karena harus membayar sewa yang mahal. Di akhir permainan, satu orang menguasai segalanya, dan permainan berakhir karena tidak ada lagi persaingan. Inilah yang dikhawatirkan kritikus: **Laissez-faire pada titik ekstremnya akan menghilangkan kompetisi yang menjadi penggeraknya sendiri.**
 
 **Dampak Negatif Monopoli:**
 
@@ -50,14 +50,14 @@ flowchart TD
 
 ## 3. Pengabaian Eksternalitas Negatif
 
-Dalam model Laissez-faire klasik, transaksi hanya melibatkan penjual dan pembeli. Sering kali ada pihak ketiga yang menanggung beban dari transaksi tersebut tanpa mendapatkan kompensasi. Inilah yang disebut sebagai **eksternalitas negatif**.
+Dalam model Laissez-faire klasik, transaksi dianggap hanya melibatkan penjual dan pembeli. Namun, sering kali ada pihak ketiga yang menanggung beban dari transaksi tersebut tanpa mendapatkan kompensasi. Inilah yang disebut sebagai **eksternalitas negatif**.
 
 ### Masalah Polusi
 
 Sebagai gambaran, sebuah pabrik mungkin memproduksi barang dengan harga murah dan efisien menurut hitungan pasar. Namun, jika pabrik tersebut membuang limbah ke sungai, masyarakat sekitar akan mengalami masalah kesehatan.
 
-- **Biaya Privat (*Marginal Private Cost* / MPC):** Biaya bahan baku dan tenaga kerja yang ditanggung produsen.
-- **Biaya Sosial (*Marginal Social Cost* / MSC):** Biaya pengobatan masyarakat dan kerusakan ekosistem yang ditanggung publik.
+- **Biaya Marginal Privat (*Marginal Private Cost* / MPC):** Biaya bahan baku dan tenaga kerja yang ditanggung produsen.
+- **Biaya Marginal Sosial (*Marginal Social Cost* / MSC):** Biaya pengobatan masyarakat dan kerusakan ekosistem yang ditanggung publik.
 
 Secara matematis, kegagalan pasar ini terjadi karena harga pasar $P$ tidak mencerminkan biaya sosial yang sebenarnya:
 
@@ -82,7 +82,7 @@ Tanpa campur tangan pemerintah melalui undang-undang ketenagakerjaan, hubungan a
 Salah satu contoh sejarah paling nyata dari kritik terhadap Laissez-faire adalah bangkitnya **Standard Oil** milik John D. Rockefeller di Amerika Serikat.
 
 - **Skenario:** Melalui praktik bisnis yang agresif dan kurangnya regulasi pemerintah saat itu, Standard Oil berhasil menguasai hampir **90% kilang minyak** di AS. Mereka menggunakan teknik *predatory pricing* (menurunkan harga secara ekstrem untuk membangkrutkan pesaing, lalu menaikkannya kembali setelah pesaing tumbang).
-- **Hasilnya:** Pemerintah AS akhirnya harus melakukan intervensi melalui *Sherman Antitrust Act* pada tahun 1890 dan memerintahkan pemecahan Standard Oil menjadi 34 perusahaan kecil pada tahun 1911. Kasus ini membuktikan bahwa pasar tidak selalu bisa menyembuhkan dirinya sendiri dari praktik monopoli.
+- **Hasilnya:** Pemerintah AS akhirnya harus melakukan intervensi melalui *Sherman Antitrust Act* pada tahun 1890, dan Mahkamah Agung AS memerintahkan pemecahan Standard Oil menjadi 34 perusahaan kecil pada tahun 1911. Kasus ini membuktikan bahwa pasar tidak selalu bisa menyembuhkan dirinya sendiri dari praktik monopoli.
 
 ## Ringkasan Argumen Kontra
 

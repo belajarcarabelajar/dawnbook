@@ -1,12 +1,12 @@
 ## Fondasi Teoretis Bahasa, Kekuasaan, dan Ideologi
 
-Teori di balik Analisis Wacana Kritis (AWK) bertumpu pada tiga konsep yang saling terkait: bahasa, kekuasaan menurut Foucault dan Gramsci, serta ideologi. Jika pada bab sebelumnya kerangka dasar AWK secara umum telah dibahas, sekarang pembahasan akan membedah "mesin" teoretis yang menggerakkannya. Dalam kriminologi, kejahatan bukan sekadar aksi fisik semata, melainkan sesuatu yang didefinisikan, diperdebatkan, dan dikonstruksi melalui bahasa dan media diskursif.
+Teori di balik Analisis Wacana Kritis (AWK) bertumpu pada tiga konsep yang saling terkait: bahasa, kekuasaan menurut Foucault dan Gramsci, serta ideologi. Jika pada bab sebelumnya kerangka dasar AWK secara umum telah dibahas, sekarang pembahasan akan membedah "mesin" teoretis yang menggerakkannya. Dalam kriminologi, kejahatan bukan sekadar aksi fisik, melainkan sesuatu yang didefinisikan, diperdebatkan, dan dikonstruksi melalui bahasa dan media diskursif.
 
 Mengapa seorang individu yang mencuri barang kebutuhan pokok dilabeli sebagai "kriminal", sementara korporasi yang membuang limbah beracun ke sungai sering kali hanya disebut mengalami "masalah administratif"? Jawabannya terletak pada hubungan yang rumit antara **Bahasa**, **Kekuasaan**, dan **Ideologi**.
 
 ### 1. Bahasa Bukan Sekadar Alat Komunikasi
 
-Dalam pandangan tradisional, bahasa dianggap sebagai cermin realitas, ia hanya memantulkan apa yang terjadi di dunia fisik. Namun, dalam AWK, bahasa dipahami sebagai **praktik sosial** (*social practice*) yang aktif membentuk kenyataan.
+Dalam pandangan tradisional, bahasa dianggap sebagai cermin realitas; ia hanya memantulkan apa yang terjadi di dunia fisik. Namun, dalam AWK, bahasa dipahami sebagai **praktik sosial** (*social practice*) yang aktif membentuk kenyataan.
 
 > **Wawasan Utama:** Bahasa tidak hanya mendeskripsikan dunia; bahasa secara aktif mengonstruksi dan membentuk realitas sosial.
 
@@ -42,7 +42,7 @@ Pihak yang memiliki otoritas untuk mendefinisikan istilah-istilah ini memegang k
 
 ### 3. Hegemoni Antonio Gramsci sebagai Kekuasaan melalui Persetujuan
 
-Jika Foucault menekankan penyebaran kekuasaan melalui wacana dan pengetahuan, Antonio Gramsci memperkenalkan konsep **Hegemoni**. Hegemoni adalah cara kelas penguasa mempertahankan dominasi dan kontrol sosial bukan melalui alat pemaksa fisik (seperti polisi atau militer), melainkan melalui **persetujuan spontan** (*spontaneous consent*) dari masyarakat yang dikuasai.
+Jika Foucault menekankan penyebaran kekuasaan melalui wacana dan pengetahuan, Antonio Gramsci memperkenalkan konsep **Hegemoni**. Hegemoni adalah cara kelas penguasa mempertahankan dominasi dan kontrol sosial tidak semata-mata melalui alat pemaksa fisik (seperti polisi atau militer), melainkan melalui **persetujuan spontan** (*spontaneous consent*) dari masyarakat yang dikuasai.
 
 #### Mekanisme Hegemoni dalam Kriminologi
 
@@ -73,7 +73,7 @@ Keterangan variabel:
 - $K$: Kepentingan Kekuasaan (*Power Interest*)
 - $L$: Legitimasi Sosial (*Social Legitimacy*)
 
-### 5. Analisis Narasi "Perang Terhadap Narkoba"
+### 5. Analisis Narasi "Perang terhadap Narkoba"
 
 Untuk memahami keterkaitan konsep-konsep di atas, lihat analisis terhadap narasi kebijakan kriminologi berikut:
 
@@ -82,7 +82,7 @@ Untuk memahami keterkaitan konsep-konsep di atas, lihat analisis terhadap narasi
 
 #### Bedah Analisis Wacana Kritis
 
-- **Bahasa (Metafora & Dehumanisasi):** Penggunaan peyoratif "sampah masyarakat" dan metafora "racun" mengonstruksi dehumanisasi terhadap penyalahguna narkoba. Narasi ini menghapus dimensi medis/kesehatan publik dan menggesernya menjadi masalah moralitas murni.
+- **Bahasa (Metafora & Dehumanisasi):** Penggunaan istilah peyoratif "sampah masyarakat" dan metafora "racun" mengonstruksi dehumanisasi terhadap penyalahguna narkoba. Narasi ini menghapus dimensi medis/kesehatan publik dan menggesernya menjadi masalah moralitas murni.
 - **Kekuasaan (Perspektif Foucault):** Pejabat publik menggunakan otoritas institusionalnya untuk menetapkan dikotomi tegas antara kelompok "kita" (masyarakat bermoral) dan "bukan kita" (kelompok marginal yang dibuang).
 - **Ideologi:** Pidato ini melegitimasi pendekatan represif (penjara dan hukuman berat) sebagai satu-satunya solusi yang dianggap rasional dan sah.
 - **Hegemoni:** Apabila publik menerima narasi ini tanpa mempertanyakan akar masalah sosial dan ketimpangan ekonomi di balik peredaran narkoba, maka hegemoni kekuasaan telah bekerja secara efektif.
@@ -96,7 +96,7 @@ Untuk memahami keterkaitan konsep-konsep di atas, lihat analisis terhadap narasi
 | **Hegemoni** | Dominasi sosial melalui konsensus nilai. | Menjadikan kebijakan kriminal tertentu dianggap sebagai satu-satunya standar normal. |
 | **Ideologi** | Kerangka berpikir yang sarat kepentingan. | Menyembunyikan agenda penguasa di balik narasi "kepentingan umum". |
 
-> **Pesan Utama:** Mempelajari AWK dalam kriminologi melatih kemampuan kritikal untuk tidak menerima secara polos apa yang tertera dalam dokumen hukum atau pemberitaan media kriminal. Analisis harus selalu mengajukan pertanyaan kunci: *Siapa yang diuntungkan oleh wacana ini? Dan suara siapa yang sedang dibungkam?*
+> **Pesan Utama:** Mempelajari AWK dalam kriminologi melatih kemampuan kritis untuk tidak menerima secara polos apa yang tertera dalam dokumen hukum atau pemberitaan media kriminal. Analisis harus selalu mengajukan pertanyaan kunci: *Siapa yang diuntungkan oleh wacana ini? Dan suara siapa yang sedang dibungkam?*
 
 > **Refleksi Media:** Saat membaca pemberitaan mengenai penangkapan demonstran, pencermatan terhadap pilihan kata media antara "aktivis" atau "perusuh" mengungkapkan bagaimana satu kata mampu mengubah konstruksi kekuasaan dalam persepsi publik.
 
@@ -109,8 +109,8 @@ Dalam kriminologi modern, bahasa dipahami sebagai manifestasi nyata dari perilak
 #### Pilar Utama Analisis Linguistik Forensik
 
 1. **Idiolek (Sidik Jari Bahasa):**
-   Setiap individu memiliki idiolek unik yang dipengaruhi oleh tingkat pendidikan, latar belakang sosial-ekonomi, dialek regional, usia, hingga profesi.
-   - **Pilihan Leksikal:** Penggunaan kosa kata spesifik (misalnya istilah teknis "peranti" versus "komputer").
+   Setiap individu memiliki idiolek unik yang dipengaruhi oleh tingkat pendidikan, latar belakang sosioekonomi, dialek regional, usia, hingga profesi.
+   - **Pilihan Leksikal:** Penggunaan kosakata spesifik (misalnya istilah teknis "peranti" versus "perangkat").
    - **Sintaksis:** Pola penyusunan struktur kalimat (kecenderungan ragam pasif versus aktif).
    - **Ortografi:** Kebiasaan penulisan, penggunaan tanda baca, dan pola singkatan.
 
@@ -125,15 +125,15 @@ Dalam kriminologi modern, bahasa dipahami sebagai manifestasi nyata dari perilak
 Untuk memperdalam pemahaman mengenai penggunaan bahasa sebagai alat bukti dalam kriminologi, berikut adalah analisis terhadap beberapa dinamika investigatif:
 
 #### A. Meniru Idiolek Orang Lain untuk Menjebak Korban Kejahatan Siber
-Ketika pelaku kejahatan siber mencoba meniru idiolek orang lain untuk menjebak korban, kebiasaan bawah sadar (seperti mikro-sintaksis, penempatan koma, serta frekuensi kata hubung) merupakan elemen yang paling sulit dipalsukan secara konsisten dalam jangka panjang.
+Ketika pelaku kejahatan siber mencoba meniru idiolek orang lain untuk menjebak korban, kebiasaan bawah sadar (seperti mikro-sintaksis, penempatan koma, serta frekuensi kata hubung) merupakan elemen yang cenderung sulit dipalsukan secara konsisten dalam jangka panjang.
 
 #### B. Evolusi Komunikasi Digital
 Pada era media sosial dan pesan instan, penggunaan teks pendek yang dipadu dengan simbol visual menghadirkan tantangan sekaligus peluang baru bagi ahli linguistik forensik dalam mengidentifikasi pola perilaku serta atribusi kepenulisan.
 
-#### C. Beda Komparatif Opini dan Pencemaran Nama Baik
+#### C. Perbedaan Opini dan Pencemaran Nama Baik
 Dalam kriminologi dan hukum pidana, analisis linguistik membedakan struktur pernyataan secara tegas:
 - **Pernyataan Evaluatif (Opini):** *"Layanan di toko ini sangat lambat dan tidak profesional."* (Fokus pada penilaian pengalaman subjektif atas kualitas layanan).
 - **Pernyataan Faktual Kriminal (Pencemaran/Fitnah):** *"Pemilik toko ini adalah seorang penipu yang sengaja mencuri uang pelanggan."* (Menuduhkan perbuatan pidana spesifik tanpa pembuktian hukum).
 
-#### D. Transkripsi dan Profiling Kriminologis
+#### D. Profil Kriminologis Berdasarkan Teks
 Apabila sebuah teks tuntutan tebusan memperlihatkan kontradiksi, misalnya penggunaan istilah medis tingkat tinggi yang dipadukan dengan kesalahan tata bahasa mendasar, profiler kriminologi dapat menyusun hipotesis mengenai latar belakang pendidikan terselubung atau upaya disimulasi yang dilakukan tersangka.

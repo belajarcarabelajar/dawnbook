@@ -6,7 +6,7 @@ Bagaimana sebuah ruang geografis membentuk batin manusia? Dalam novel *9 Summers
 
 Latar (*setting*) adalah elemen dasar dalam struktur naratif yang memberikan ruang, waktu, dan suasana bagi berjalannya peristiwa. Menurut teori sastra, latar memiliki fungsi mendasar untuk menciptakan efek realitas (*verisimilitude*) bagi pembaca, seolah-olah mereka ikut mengalami dan hidup di dalam peristiwa tersebut.
 
-Dalam novel otobiografis ini, Iwan Setyawan membangun kontras latar yang tajam antara Kota Batu, Malang (tempat kelahirannya) dengan New York City, Amerika Serikat (tempat ia meniti karir profesional). Berikut adalah analisis detail aspek-aspek latar tersebut:
+Dalam novel otobiografis ini, Iwan Setyawan membangun kontras latar yang tajam antara Kota Batu, Malang (tempat kelahirannya) dan New York City, Amerika Serikat (tempat ia meniti karier profesional). Berikut adalah analisis detail aspek-aspek latar tersebut:
 
 #### 1. Latar Spasial (Tempat)
 Latar tempat dalam novel ini terbagi menjadi dua tempat yang berlawanan:
@@ -14,7 +14,7 @@ Latar tempat dalam novel ini terbagi menjadi dua tempat yang berlawanan:
 *   **Batu, Malang (Jawa Timur)**
     Rumah mungil berukuran $6 \times 7$ meter di kaki Gunung Panderman menjadi pusat emosional cerita. Keterbatasan ruang fisik ini digambarkan lewat ukuran yang tepat dan nada yang hangat:
     > "Di rumah mungil berukuran 6 x 7 meter dan hampir tak berhalaman ini, kami bertujuh berbagi dua kamar tidur..." (Hlm. 8)
-    Latar Batu mempresentasikan kehidupan pedesaan/suburban yang sederhana, dikelilingi alam, dingin, namun penuh kehangatan sosial keluarga.
+    Latar Batu merepresentasikan kehidupan pedesaan/suburban yang sederhana, dikelilingi alam, dingin, namun penuh kehangatan sosial keluarga.
 *   **New York City (Amerika Serikat)**
     Sebuah kota megapolitan internasional yang digambarkan sebagai belantara beton (*concrete jungle*) yang dingin, impersonal, dan kompetitif. New York mewakili puncak pencapaian materi sekaligus kesepian bagi tokoh utama:
     > "Sembilan tahun di New York adalah masa pencarian identitas diri... Ini adalah perjuangan untuk menemukan jati diriku yang sebenarnya di tengah hiruk-pikuk kota paling kompetitif di dunia." (Hlm. 94)
@@ -46,13 +46,13 @@ Untuk memahami kontras spasial ini secara lebih terstruktur, berikut perbandinga
 | **Kondisi Geografis** | Pegunungan dingin di kaki Gunung Panderman, alami, tenang. | Kawasan Manhattan yang bising, padat, megah. |
 | **Interaksi Sosial** | Kolektif, hangat, didominasi ikatan erat keluarga. | Individualistis, transaksional, berjarak. |
 | **Status Ekonomi** | Kemiskinan kelas pekerja (anak sopir angkot). | Kemapanan kelas atas (direktur riset korporat). |
-| **Efek Psikologis** | Rasa aman (*belonging*) meskipun serba terbatas. | Kesepian eksistensial (*alienation*) di tengah kemewahan. |
+| **Efek Psikologis** | Rasa memiliki (*belonging*) meskipun serba terbatas. | Kesepian eksistensial (*alienation*) di tengah kemewahan. |
 
 Kontras ini menjadi sumber utama konflik batin tokoh Iwan. Keberadaannya di New York memicu kerinduan mendalam (*nostalgia*) terhadap Kota Batu, membuktikan bahwa identitas sejatinya tidak ditentukan oleh kemewahan Manhattan, melainkan oleh nilai-nilai kesederhanaan yang ia pelajari di kaki Gunung Panderman.
 
 ### Nilai Sosial Kemiskinan dan Kemakmuran
 
-*Bagaimana latar sosial kemiskinan di Kota Batu di tahun 1970-an membentuk cara pandang Iwan terhadap nilai sebuah materi atau uang ketika ia sudah hidup berkecukupan di New York? Apakah kemakmuran finansial melunturkan nilai-nilai moral kesederhanaan yang diajarkan oleh ibunya?*
+*Bagaimana latar sosial kemiskinan di Kota Batu pada tahun 1970-an membentuk cara pandang Iwan terhadap nilai sebuah materi atau uang ketika ia sudah hidup berkecukupan di New York? Apakah kemakmuran finansial melunturkan nilai-nilai moral kesederhanaan yang diajarkan oleh ibunya?*
 
 ### Pilihan Kata yang Membedakan Kedua Latar
 

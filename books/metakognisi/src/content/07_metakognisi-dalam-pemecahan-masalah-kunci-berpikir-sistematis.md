@@ -63,13 +63,13 @@ Ketika sedang menerapkan suatu strategi, selalu cermati bagaimana caramu mengeks
 Dengan metakognisi, kamu bisa sadar lebih cepat saat strategimu mulai melenceng atau menemui jalan buntu.
 
 - **Mengenali *dead ends*:** Kalau caramu tidak membawa hasil, jangan gengsi buat mengakuinya.
-- **Menganalisis penyebab hambatan:** Kenapa taktik ini gagal? Ada asumsi yang keliru, kah? Atau ada info penting yang terlewat?
+- **Menganalisis penyebab hambatan:** Kenapa taktik ini gagal? Adakah asumsi yang keliru? Atau ada info penting yang terlewat?
 - **Menyesuaikan atau mengubah strategi:** Dari hasil pantauan tadi, bisa jadi kamu perlu sedikit menggeser taktik atau bahkan ganti cara secara keseluruhan.
 
 **Penerapan dalam Pemrograman:** Saat melakukan *debugging* (mencari titik masalah pada kode program), *programmer* dengan kemampuan metakognitif biasanya akan:
 
 1. **Memantau:** Mengeksekusi kode baris demi baris menggunakan *debugger* untuk mengecek nilai variabel yang berjalan.
-2. **Bertanya diri:** "Kenapa nilai `x` ini beda dari ekspektasi?" atau "Kok fungsi ini malah nge-balikin `null`?"
+2. **Bertanya pada diri sendiri:** "Kenapa nilai `x` ini beda dari ekspektasi?" atau "Kok fungsi ini malah nge-balikin `null`?"
 3. **Mengidentifikasi hambatan:** Sadar bahwa ada blok `if` yang terlewat gara-gara logika kodenya kacau.
 4. **Menyesuaikan strategi:** Ketimbang mengulang baca kode dari atas, ia lebih memilih fokus membetulkan syarat di blok `if` tersebut dan mengetesnya kembali.
 
@@ -98,7 +98,7 @@ Tahap ini menguji proses berpikir tingkat tinggi.
 
 **Contoh dalam Bisnis:** Sebuah tim pemasaran baru saja merilis kampanye iklan digital berskala besar.
 
-1. **Evaluasi Solusi:** Mereka membedah deretan data dari klik sampai angka transaksi. Pertanyaannya, apakah kampanye ini balik modal (mencapai target *ROI*)?
+1. **Evaluasi Solusi:** Mereka membedah deretan data dari klik sampai angka transaksi. Pertanyaannya, apakah kampanye ini mencapai target *ROI*?
 2. **Refleksi Proses:**
 	- "Langkah kita bereksperimen dengan metode *A/B testing* di penulisan *headline* ternyata membuahkan hasil memuaskan." (Berhasil)
 		- "Sayangnya, waktu kita terbuang banyak buat ngurusin *visual* yang ternyata kurang menarik minat pasar. Harusnya riset audiens dikuatkan dari awal." (Area perbaikan)

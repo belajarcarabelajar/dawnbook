@@ -1,6 +1,6 @@
 ## Adaptasi Neurobiologis
 
-Pernahkah kamu bertanya-tanya mengapa potongan pizza pertama terasa nikmat, namun potongan kelima terasa biasa saja? Atau mengapa sebuah video game yang dulu membuat kamu terjaga semalaman, kini hanya membuat kamu merasa lelah dan bosan?
+Pernahkah kamu bertanya-tanya mengapa potongan pizza pertama terasa nikmat, tetapi potongan kelima terasa biasa saja? Atau mengapa sebuah video game yang dulu membuat kamu terjaga semalaman, kini hanya membuat kamu merasa lelah dan bosan?
 
 Penjelasannya ada pada salah satu mekanisme pertahanan otakmu: **Adaptasi Neurobiologis**. Di bagian ini, kita akan membedah bagaimana otak melakukan penyesuaian diri terhadap lonjakan dopamin dan mengapa hal ini menjadi alasan utama di balik hilangnya minat kita pada hal-hal yang dulunya sangat kita sukai.
 
@@ -33,7 +33,7 @@ $$
 S = D \times R
 $$
 
-Jika $D$ (dopamin) melonjak terlalu tinggi secara kronis, otak secara otomatis mengecilkan $R$ (reseptor) untuk menjaga agar efektivitas sinyal $S$ tetap berada dalam batas Kestabilan Basal normal.
+Jika $D$ (dopamin) melonjak terlalu tinggi secara kronis, otak secara otomatis mengecilkan $R$ (reseptor) untuk menjaga agar efektivitas sinyal $S$ tetap berada dalam batas garis basal normal.
 
 **Analogi Volume Radio:**
 Bayangkan kamu berada di dalam kamar dengan radio yang disetel pada volume maksimal (100). Suaranya memekakkan telinga. Karena kamu tidak bisa mematikan radionya, kamu memutuskan untuk memakai **penyumbat telinga (*earplugs*)**. Sekarang, musik tersebut terdengar pada level yang nyaman. Namun, masalah muncul saat radio kembali ke volume normal (20). Karena kamu masih memakai penyumbat telinga, kamu hampir tidak bisa mendengar musiknya sama sekali. Dunia terasa sunyi, hambar, dan membosankan.
@@ -42,7 +42,7 @@ Bayangkan kamu berada di dalam kamar dengan radio yang disetel pada volume maksi
 
 ### 3. Toleransi
 
-Dampak langsung dari *downregulation* adalah lahirnya **Toleransi**. Ini merupakan kondisi di mana kamu membutuhkan stimulus yang lebih besar, lebih sering, atau lebih intens hanya untuk mendapatkan tingkat kepuasan yang sama seperti saat pertama kali memulainya.
+Dampak langsung dari *downregulation* adalah lahirnya **Toleransi**. Ini merupakan kondisi ketika kamu membutuhkan stimulus yang lebih besar, lebih sering, atau lebih intens hanya untuk mendapatkan tingkat kepuasan yang sama seperti saat pertama kali memulainya.
 
 #### Siklus Toleransi Dopamin
 
@@ -62,7 +62,7 @@ Dampak langsung dari *downregulation* adalah lahirnya **Toleransi**. Ini merupak
 
 Ketika reseptor dopaminmu berkurang drastis, aktivitas sehari-hari yang biasanya memberikan kepuasan sederhana (seperti melihat matahari terbenam, mengobrol dengan teman, atau membaca buku) tidak lagi mampu memicu respons di otakmu.
 
-Kondisi ini dikenal sebagai **Anhedonia ringan**, suatu keadaan di mana spektrum emosimu terasa datar atau abu-abu.
+Kondisi ini dikenal sebagai **Anhedonia ringan**, suatu keadaan ketika spektrum emosimu terasa datar atau abu-abu.
 
 > **Catatan Penting:** Pada tahap ini, seseorang sering kali melakukan aktivitas berdopamin tinggi bukan lagi untuk merasa senang (*high*), melainkan hanya untuk merasa "normal" atau sekadar menghindari perasaan hampa.
 
@@ -73,9 +73,9 @@ Kondisi ini dikenal sebagai **Anhedonia ringan**, suatu keadaan di mana spektrum
 Mari kita amati bagaimana adaptasi neurobiologis bekerja dalam kehidupan sehari-hari melalui skenario menonton serial maraton (*binge-watching*).
 
 * **Episode 1–2:** Kamu merasa sangat antusias. *Plot twist* memberikan kejutan dopamin yang besar.
-* **Episode 3–6:** Kamu mulai merasa lelah, tetapi sulit untuk berhenti. Otak mulai melakukan *downregulation*. Kamu terus menonton karena takut kehilangan momentum sensasi dopamin tersebut.
+* **Episode 3–6:** Kamu mulai merasa lelah, tetapi sulit untuk berhenti. Kamu terus menonton karena takut kehilangan momentum sensasi dopamin tersebut.
 * **Episode 7–10:** Kamu menonton dengan kecepatan $1.5\times$ atau sambil membuka media sosial di ponsel. Ceritanya tidak lagi terasa mendalam.
-* **Pasca-Binge:** Setelah serial tamat, kamu merasakan kehampaan yang mendalam (*post-series depression*). Ini adalah hasil dari *baseline* dopaminmu yang merosot di bawah batas normal akibat reseptor yang berkurang.
+* **Pasca-Binge:** Setelah serial tamat, kamu merasakan kehampaan yang mendalam (*post-series depression*). Ini bisa jadi dampak dari garis basal dopaminmu yang merosot di bawah batas normal akibat reseptor yang berkurang.
 
 ---
 
@@ -91,4 +91,4 @@ Kabar baiknya, otak manusia memiliki sifat **neuroplastisitas**. Reseptor dopami
 
 > **Insight Utama:** Kebosanan bukanlah musuh, melainkan penanda biologis bahwa otakmu sedang memulihkan sensitivitas reseptornya. Jangan melarikan diri dari kebosanan dengan beralih ke stimulasi instan.
 
-*Pertanyaan Refleksi: Coba identifikasi satu aktivitas dalam hidupmu yang dulunya sangat menyenangkan tetapi kini terasa beban atau membosankan. Mungkinkah kamu telah membangun toleransi tinggi terhadap aktivitas tersebut?*
+*Pertanyaan Refleksi: Coba identifikasi satu aktivitas dalam hidupmu yang dulunya sangat menyenangkan tetapi kini terasa membebani atau membosankan. Mungkinkah kamu telah membangun toleransi tinggi terhadap aktivitas tersebut?*

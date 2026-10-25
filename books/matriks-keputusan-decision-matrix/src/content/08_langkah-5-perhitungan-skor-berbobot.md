@@ -6,7 +6,7 @@ Di sinilah inti dari matriks keputusan (decision matrix) bekerja. Setelah menent
 
 **Skor Berbobot (Weighted Score)** adalah hasil kali antara skor mentah yang diberikan pada suatu alternatif dengan bobot kepentingan kriteria tersebut.
 
-Mengapa kita tidak bisa hanya menjumlahkan skor mentah saja? Bayangkan kamu sedang memilih tempat tinggal baru. Kamu memberikan skor 10 untuk "Warna Cat Tembok" dan skor 5 untuk "Keamanan Lingkungan". Jika kamu hanya menjumlahkan kedua nilai tersebut begitu saja, warna cat akan terlihat seolah jauh lebih penting. Namun, dengan **pemberian bobot**, kita bisa memastikan bahwa nilai keamanan yang lebih tinggi tetap memberikan pengaruh lebih besar pada keputusan akhir daripada estetika warna cat semata.
+Mengapa kita tidak bisa hanya menjumlahkan skor mentah saja? Bayangkan kamu sedang memilih tempat tinggal baru. Kamu memberikan skor 10 untuk "Warna Cat Tembok" dan skor 5 untuk "Keamanan Lingkungan". Jika kamu hanya menjumlahkan kedua nilai tersebut begitu saja, warna cat akan terlihat seolah jauh lebih penting. Namun, dengan **pemberian bobot**, kita bisa memastikan bahwa keamanan, yang berbobot lebih tinggi, tetap memberikan pengaruh lebih besar pada keputusan akhir daripada estetika warna cat semata.
 
 > **Prinsip Utama:** Tanpa perhitungan skor berbobot, setiap kriteria dianggap memiliki tingkat kepentingan yang sama. Padahal, realitas pengambilan keputusan yang kompleks selalu melibatkan kriteria dengan prioritas yang berbeda.
 
@@ -60,16 +60,16 @@ flowchart TD
 Bayangkan kamu adalah juri dalam sebuah liga basket. Tugasmu adalah menentukan siapa pemain terbaik musim ini.
 
 - **Kriteria A:** Jumlah poin yang dicetak (Bobot: 0.7 - Sangat Penting)
-- **Kriteria B:** Gaya rambut pemain (Bobot: 0.1 - Kurang Penting)
+- **Kriteria B:** Gaya rambut pemain (Bobot: 0.3 - Kurang Penting)
 
-Pemain X mencetak banyak poin (Skor 9) tetapi gaya rambutnya biasa saja (Skor 4). Sebaliknya, Pemain Y hanya mencetak sedikit poin (Skor 3) namun memiliki gaya rambut yang sangat keren (Skor 10).
+Pemain X mencetak banyak poin (Skor 9) tetapi gaya rambutnya biasa saja (Skor 4). Sebaliknya, Pemain Y hanya mencetak sedikit poin (Skor 3) tetapi memiliki gaya rambut yang sangat keren (Skor 10).
 
 **Perhitungan:**
 - **Pemain X:**
 
   <div>
   $$
-  (9 \times 0.7) + (4 \times 0.1) = 6.3 + 0.4 = \mathbf{6.7}
+  (9 \times 0.7) + (4 \times 0.3) = 6.3 + 1.2 = \mathbf{7.5}
   $$
   </div>
 
@@ -77,7 +77,7 @@ Pemain X mencetak banyak poin (Skor 9) tetapi gaya rambutnya biasa saja (Skor 4)
 
   <div>
   $$
-  (3 \times 0.7) + (10 \times 0.1) = 2.1 + 1.0 = \mathbf{3.1}
+  (3 \times 0.7) + (10 \times 0.3) = 2.1 + 3.0 = \mathbf{5.1}
   $$
   </div>
 
@@ -97,15 +97,15 @@ Mari kita terapkan metode ini pada skenario bisnis nyata. Sebuah perusahaan seda
 | **Vendor A** | 8 | 6 | 9 | $(8 \times 0.5) + (6 \times 0.3) + (9 \times 0.2) = 4.0 + 1.8 + 1.8 = \mathbf{7.6}$ |
 | **Vendor B** | 6 | 9 | 7 | $(6 \times 0.5) + (9 \times 0.3) + (7 \times 0.2) = 3.0 + 2.7 + 1.4 = \mathbf{7.1}$ |
 
-**Hasil Akhir:** Vendor A terpilih sebagai pemenang meskipun harganya lebih mahal. Hal ini disebabkan karena Vendor A unggul pada kriteria keamanan yang memiliki bobot penilaian paling tinggi.
+**Hasil Akhir:** Vendor A terpilih sebagai pemenang meskipun harganya lebih mahal. Hal ini disebabkan oleh keunggulan Vendor A pada kriteria keamanan yang memiliki bobot penilaian paling tinggi.
 
 ### 6. Penggunaan di Dunia Nyata
 
 Metode perhitungan ini digunakan secara luas dalam berbagai bidang profesional:
 
 - **Manajemen Proyek:** Menentukan skala prioritas proyek untuk didanai terlebih dahulu menggunakan kombinasi ROI, risiko, dan urgensi.
-- **HRD (Recruitment):** Mempermudah penyaringan kandidat dengan mengalikan nilai tes teknis (yang berbobot tinggi) serta hasil wawancara perilaku.
+- **HRD (Recruitment):** Mempermudah penyaringan kandidat dengan menggabungkan skor berbobot dari nilai tes teknis (yang berbobot tinggi) dan hasil wawancara perilaku.
 - **Teknik (Engineering):** Membantu pemilihan material konstruksi terbaik dengan menyeimbangkan daya tahan, efisiensi biaya, serta kemudahan instalasi di lapangan.
 - **Pembelian Pribadi:** Memilih aset besar seperti mobil atau rumah baru dengan menyesuaikan kebutuhan fungsional terhadap anggaran yang tersedia.
 
-> **Catatan Penting:** Hasil dari perhitungan ini berfungsi sebagai alat bantu pembuat keputusan. Apabila selisih skor antar-alternatif sangat tipis (misalnya 7.6 vs 7.5), disarankan untuk melakukan analisis sensitivitas (*sensitivity analysis*) pada tahap berikutnya guna memastikan pilihanmu tetap kokoh.
+> **Catatan Penting:** Hasil dari perhitungan ini berfungsi sebagai alat bantu pembuat keputusan. Apabila selisih skor antaralternatif sangat tipis (misalnya 7.6 vs 7.5), disarankan untuk melakukan analisis sensitivitas (*sensitivity analysis*) pada tahap berikutnya guna memastikan pilihanmu tetap kokoh.

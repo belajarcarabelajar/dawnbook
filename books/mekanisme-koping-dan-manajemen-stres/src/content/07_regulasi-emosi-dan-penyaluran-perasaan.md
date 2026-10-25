@@ -6,9 +6,9 @@ Regulasi emosi (*emotion regulation*) memfokuskan perhatian pada pengelolaan aru
 
 ### 1. Prinsip "Name It to Tame It"
 
-Langkah awal mengelola emosi mendalam adalah menyadari keberadaannya. Dalam struktur otak, **Amigdala** (*amygdala*) berperan memicu respons emosional instingtif. Saat emosi kewalahan datang, Amigdala bekerja sangat aktif.
+Langkah awal mengelola emosi mendalam adalah menyadari keberadaannya. Dalam struktur otak, **amigdala** (*amygdala*) berperan memicu respons emosional instingtif. Saat emosi yang membuat kita kewalahan datang, amigdala bekerja sangat aktif.
 
-Penelitian neurosains menunjukkan bahwa saat seseorang memberi nama pada emosi yang dirasakan (*affect labeling*), aktivitas di Amigdala menurun, sementara aktivitas di **Prefrontal Cortex** (pusat kendali logika dan penalaran) meningkat.
+Penelitian neurosains menunjukkan bahwa saat seseorang memberi nama pada emosi yang dirasakan (*affect labeling*), aktivitas di amigdala menurun, sementara aktivitas di **korteks prefrontal** (pusat kendali logika dan penalaran) meningkat.
 
 > **Prinsip Utama:** Giving a name to a feeling is the first step toward regaining control. (Memberi nama pada perasaan adalah langkah awal mengambil kembali kendali atas diri kamu).
 
@@ -34,7 +34,7 @@ Menulis jurnal (*journaling*) merupakan salah satu mekanisme koping (*coping mec
    - "Satu beban yang terasa berat saat ini adalah..."
    - "Apa yang ingin saya sampaikan jika tidak ada konsekuensi negatif?"
 3. **Gratitude Journaling (Jurnal Syukur):**
-   Catat 3 hal kecil yang disyukuri setiap hari. Latihan ini melatih ulang fokus otak melalui proses restrukturisasi kognitif (*cognitive restructuring*).
+   Catat 3 hal kecil yang disyukuri setiap hari. Latihan ini melatih ulang fokus otak.
 
 **Penerapan Konsep dalam Alur Kerja:**
 
@@ -44,11 +44,11 @@ $$
 
 ### 3. Ekspresi Kreatif
 
-Ketika kata-kata belum mampu mewakili sesaknya perasaan, ekspresi kreatif hadir sebagai media penyaluran non-verbal (*catharsis*).
+Ketika kata-kata belum mampu mewakili sesaknya perasaan, ekspresi kreatif hadir sebagai media penyaluran nonverbal (*catharsis*).
 
-- **Seni Visual (Gambar & Warna):** Kamu tidak perlu menjadi seniman profesional. Menggunakan goresan warna gelap saat marah atau membuat garis tegas saat cemas merupakan bentuk pelepasan energi kinetik dan emosional.
+- **Seni Visual (Gambar & Warna):** Kamu tidak perlu menjadi seniman profesional. Menggunakan goresan warna gelap saat marah atau membuat garis tegas saat cemas merupakan bentuk pelepasan energi emosional.
 - **Musik dan Suara:** Mendengarkan musik yang selaras dengan suasana hati (lalu perlahan bertransisi ke tempo yang lebih tenang) membantu menyelaraskan detak jantung dan kestabilan emosi.
-- **Gerakan Tubuh (Ekspresi Kinestetik):** Menari, merobek kertas bekas, atau memukul bantal merupakan cara menyalurkan ketegangan emosional yang terkunci pada jaringan otot tubuh.
+- **Gerakan Tubuh (Ekspresi Kinestetik):** Menari atau merobek kertas bekas bisa menjadi cara menyalurkan ketegangan emosional.
 
 ### 4. Studi Kasus Penerapan Nyata
 
@@ -58,7 +58,7 @@ Andi baru saja menerima umpan balik negatif dari atasannya di hadapan rekan kerj
 **Langkah Penerapan Regulasi Emosi:**
 
 1. **Pause & Name:**
-   Andi melangkah ke kamar mandi, mengheningkan diri, menarik napas dalam tiga kali, dan berbisik: *"Saya merasa dipermalukan dan tidak dihargai."* (Langkah ini langsung meredam hiperaktivitas Amigdala).
+   Andi melangkah ke kamar mandi, menenangkan diri, menarik napas dalam tiga kali, dan berbisik: *"Saya merasa dipermalukan dan tidak dihargai."* (Langkah ini membantu meredam hiperaktivitas amigdala).
 2. **Journaling Kilat:**
    Andi membuka aplikasi catatan di ponsel dan menuliskan seluruh kejengkelannya selama 2 menit tanpa penyuntingan.
 3. **Channeling (Penyaluran Energi):**
@@ -72,7 +72,7 @@ Persiapkan strategi respons sebelum gelombang emosi meluap. Isilah tabel panduan
 
 | Kategori Penyaluran | Tindakan Nyata yang Akan Dilakukan |
 | :--- | :--- |
-| **Affect Labeling** | Berhenti sejenak dan menarik napas dalam 3 kali sebelum merespons ucapan lawan bicara. |
+| **Affect Labeling** | Berhenti sejenak, menarik napas dalam 3 kali, lalu menyebutkan nama emosi yang dirasakan sebelum merespons ucapan lawan bicara. |
 | **Journaling** | Menuliskan refleksi harian di buku catatan khusus selama 10 menit sebelum tidur. |
 | **Ekspresi Kreatif** | Mendengarkan *playlist* musik penenang atau menyusun *puzzle*. |
 | **Penyaluran Fisik** | Berjalan kaki tempo cepat selama 15 menit saat merasakan sensasi marah atau meledak. |

@@ -2,7 +2,7 @@
 
 Bayangkan kamu sedang duduk di depan papan catur, atau mungkin sedang berada di tengah negosiasi gaji yang alot. Apa kesamaan dari kedua situasi tersebut? Keduanya adalah **permainan**.
 
-Dalam dunia Teori Permainan, sebuah "permainan" bukan hanya sekadar hiburan, melainkan model matematis dari interaksi strategis. Agar sebuah situasi dapat dianalisis menggunakan teori permainan, ia harus memiliki tiga komponen fundamental yang sering disebut sebagai **"The Rules of the Game"**.
+Dalam dunia Teori Permainan, sebuah "permainan" bukan sekadar hiburan, melainkan model matematis dari interaksi strategis. Agar sebuah situasi dapat dianalisis menggunakan teori permainan, ia harus memiliki tiga komponen fundamental yang sering disebut sebagai **"The Rules of the Game"**.
 
 Tanpa ketiga elemen ini, kita hanya memiliki aksi acak tanpa tujuan. Tiga elemen mendasar tersebut adalah: **Pemain (Players)**, **Strategi (Strategies)**, dan **Hasil atau Imbalan (Payoffs)**.
 
@@ -23,10 +23,10 @@ Strategi adalah rencana aksi yang **lengkap** dan **menyeluruh**. Ini bukan seka
 - **Ruang Strategi:** Kumpulan semua strategi yang tersedia bagi pemain $i$ biasanya dilambangkan dengan $S\_i$.
 - **Contoh Sederhana:** Dalam permainan Gunting-Batu-Kertas, ruang strategi kamu adalah $S = \lbrace \text{Gunting}, \text{Batu}, \text{Kertas} \rbrace$.
 - **Strategi vs. Aksi:**
-  - **Aksi:** Langkah spesifik pada satu titik waktu (misal: "Saya memindahkan pion ke E4").
+  - **Aksi:** Langkah spesifik pada satu titik waktu (misal: "Saya memindahkan pion ke e4").
   - **Strategi:** Rencana total (misal: "Jika dia menggerakkan kuda, saya akan memindahkan menteri; jika dia menggerakkan pion, saya akan bertahan").
 
-*Jika kamu bermain catur, mampukah kamu menuliskan strategi yang benar-benar lengkap di atas kertas sebelum permainan dimulai? Secara teoritis bisa, namun secara praktis jumlah kombinasinya lebih banyak daripada atom di alam semesta!*
+*Jika kamu bermain catur, mampukah kamu menuliskan strategi yang benar-benar lengkap di atas kertas sebelum permainan dimulai? Secara teoretis bisa, tetapi secara praktis jumlah kombinasinya lebih banyak daripada atom di alam semesta!*
 
 ### 3. Hasil atau Imbalan (Payoffs)
 
@@ -41,7 +41,7 @@ Imbalan adalah nilai numerik yang diterima pemain di akhir permainan. Nilai ini 
 
 **Analogi Sederhana:** Bayangkan pemain sebagai **koki** (*Players*), strategi sebagai **resep** (*Strategies*), dan imbalan sebagai **rating bintang** dari juri (*Payoffs*). Rating yang diterima koki A tidak hanya tergantung pada bumbu yang dia pakai, tapi juga apakah koki B memasak hidangan yang lebih enak atau justru hidangan yang saling melengkapi.
 
-### Perang Harga Antar Toko
+### Perang Harga Antartoko
 
 Mari kita terapkan elemen-elemen di atas ke dalam skenario bisnis: **Toko A** dan **Toko B** menjual produk yang sama di jalan yang sama.
 

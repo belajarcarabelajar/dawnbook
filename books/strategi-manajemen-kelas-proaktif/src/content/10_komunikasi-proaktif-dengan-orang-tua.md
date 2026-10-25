@@ -6,7 +6,7 @@ Pernahkah kamu membayangkan komunikasi antara guru dan orang tua seperti sebuah 
 
 ## 1. Dari Reaktif ke Proaktif
 
-Kebanyakan model komunikasi tradisional bersifat **reaktif** , artinya, interaksi terjadi karena dipicu oleh peristiwa negatif. Dalam manajemen kelas proaktif, kita membalik logika ini.
+Kebanyakan model komunikasi tradisional bersifat **reaktif**, artinya, interaksi terjadi karena dipicu oleh peristiwa negatif. Dalam manajemen kelas proaktif, kita membalik logika ini.
 
 **Analogi Jembatan:** Bayangkan komunikasi adalah sebuah jembatan. Jika kamu baru mulai membangun jembatan saat badai (masalah siswa) datang, kemungkinan besar jembatan itu akan roboh. Namun, jika jembatan dibangun dengan kokoh saat cuaca cerah (sejak awal semester), jembatan itu akan mampu menahan beban saat krisis terjadi.
 
@@ -41,27 +41,27 @@ Salah satu tantangan manajemen kelas adalah ketika siswa memiliki "dua kepribadi
 
 1. **Penyamaan Ekspektasi:** Bagikan norma kelas yang telah dibuat bersama siswa kepada orang tua di awal semester.
 2. **Bahasa yang Seragam:** Jika di kelas kita menggunakan istilah "Gunakan Suara Level 2" untuk diskusi kelompok, ajarkan istilah ini kepada orang tua agar bisa digunakan saat anak belajar di rumah.
-3. **Jurnal Refleksi Bersama:** Gunakan buku penghubung atau aplikasi digital di mana guru dan orang tua bisa memberikan umpan balik mingguan tentang target perilaku tertentu.
+3. **Jurnal Refleksi Bersama:** Gunakan buku penghubung atau aplikasi digital tempat guru dan orang tua bisa memberikan umpan balik mingguan tentang target perilaku tertentu.
 
 > **Insight Penting:** Anak-anak merasa lebih aman dan cenderung berperilaku lebih baik ketika mereka tahu bahwa guru dan orang tua mereka "berbicara dalam bahasa yang sama" dan saling mendukung.
 
 ## 4. Saluran Komunikasi dan Teknologi
 
-Pilihlah media yang paling aksesibel bagi wali murid, namun tetap menjaga batasan profesional guru.
+Pilihlah media yang paling aksesibel bagi wali murid, tetapi tetap menjaga batasan profesional guru.
 
 - **Pesan Instan (WhatsApp/Telegram):** Efektif untuk informasi cepat, namun berisiko mengganggu waktu pribadi. Gunakan fitur *broadcast* atau grup satu arah untuk pengumuman umum.
-- **Aplikasi Manajemen Kelas (ClassDojo, Google Classroom):** Visual dan cocok untuk kinesthetic learners (melalui foto/video kegiatan).
-- **Panggilan Telepon "Sapaan Hangat":** Luangkan waktu 5 menit setiap sore untuk menelpon dua orang tua siswa (secara bergiliran) hanya untuk menanyakan kabar dan memuji satu hal positif dari anak mereka.
+- **Aplikasi Manajemen Kelas (ClassDojo, Google Classroom):** Visual (melalui foto/video kegiatan).
+- **Panggilan Telepon "Sapaan Hangat":** Luangkan waktu 5 menit setiap sore untuk menelepon dua orang tua siswa (secara bergiliran) hanya untuk menanyakan kabar dan memuji satu hal positif dari anak mereka.
 
-*Pertimbangkan hal berikut: Jika kamu memiliki 30 siswa, dan kamu menelpon 2 orang tua setiap hari, dalam 15 hari semua orang tua telah mendapatkan sapaan positif dari kamu. Apa dampaknya bagi iklim kelas kamu?*
+*Pertimbangkan hal berikut: Jika kamu memiliki 30 siswa, dan kamu menelepon 2 orang tua setiap hari, dalam 15 hari semua orang tua telah mendapatkan sapaan positif dari kamu. Apa dampaknya bagi iklim kelas kamu?*
 
 ## 5. Menangani Percakapan Sulit dengan Teknik Sandwich
 
-Tentu saja, komunikasi proaktif tidak berarti kita mengabaikan masalah. Saat masalah terjadi, gunakan **Metode Sandwich** untuk menjaga kolaborasi:
+Tentu saja, komunikasi proaktif tidak berarti kita mengabaikan masalah. Saat masalah terjadi, gunakan **Teknik Sandwich** untuk menjaga kolaborasi:
 
 1. **Roti Atas (Positif):** Mulai dengan kekuatan siswa atau tujuan bersama.
 2. **Isi (Masalah):** Sampaikan fakta perilaku yang perlu diperbaiki secara objektif (tanpa menghakimi).
-3. **Roti Bawah (Solusi & Optimisme):** Ajakan untuk bekerja sama mencari solusi.
+3. **Roti Bawah (Solusi & Optimisme):** Ajak orang tua bekerja sama mencari solusi.
 
 ### Contoh Pesan Sandwich
 
@@ -69,7 +69,7 @@ Tentu saja, komunikasi proaktif tidak berarti kita mengabaikan masalah. Saat mas
 
 > Kepada Ibu Maya,
 >
-> **Roti Atas:** Selamat siang Bu, saya ingin mengapresiasi semangat belajar Andi hari ini. Andi sangat aktif menjawab pertanyaan saat pelajaran Sains.
+> **Roti Atas:** Selamat siang, Bu. Saya ingin mengapresiasi semangat belajar Andi hari ini. Andi sangat aktif menjawab pertanyaan saat pelajaran Sains.
 >
 > **Isi:** Namun, saya memperhatikan Andi kesulitan mengontrol energinya saat sesi kerja mandiri, sehingga ia sering berjalan-jalan dan mengganggu teman di sekitarnya. Hal ini membuat tugasnya sering tidak selesai tepat waktu.
 >
@@ -79,7 +79,7 @@ Tentu saja, komunikasi proaktif tidak berarti kita mengabaikan masalah. Saat mas
 
 Bagaimana cara memulai sistem ini tanpa merasa kewalahan? Berikut adalah langkah praktisnya:
 
-- **Minggu 1: Pendataan & Sapaan Awal.** Kirimkan survei singkat kepada orang tua mengenai gaya belajar anak di rumah dan hobi mereka. Ini menunjukkan kamu peduli pada aspek personal siswa.
+- **Minggu 1: Pendataan & Sapaan Awal.** Kirimkan survei singkat kepada orang tua mengenai gaya belajar dan hobi anak di rumah. Ini menunjukkan kamu peduli pada aspek personal siswa.
 - **Minggu 2: Pengiriman "Sertifikat Digital".** Buatlah desain sederhana menggunakan aplikasi desain (seperti Canva) yang bertuliskan "Pahlawan Kebaikan Hari Ini" dan kirimkan ke orang tua siswa yang melakukan hal positif.
 - **Minggu 3: Konsultasi Terjadwal.** Tawarkan waktu 10 menit via Zoom atau telepon bagi orang tua yang ingin berdiskusi santai tentang perkembangan anak, bukan karena ada masalah.
 - **Minggu 4: Refleksi Bersama.** Bagikan ringkasan pencapaian kelas selama satu bulan kepada semua orang tua agar mereka merasa menjadi bagian dari komunitas yang sukses.

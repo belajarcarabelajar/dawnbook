@@ -10,7 +10,7 @@ Strategi berikut dirancang untuk **memperkuat sinapsis** dengan bekerja selaras 
 
 **Active Recall** (Pemanggilan Aktif) adalah praktik menguji diri sendiri untuk mengambil informasi dari memori, alih-alih sekadar membaca ulang atau meninjau materi secara pasif.
 
-- **Mekanisme Neuroplastisitas:** Saat kamu mencoba mengingat sesuatu tanpa melihat catatan, kamu sedang menstimulasi jalur saraf secara intens. Proses "kesulitan yang diinginkan" (*desirable difficulty*) ini memicu pelepasan neurotransmiter yang memperkuat koneksi sinaptik lebih kuat daripada input pasif.
+- **Mekanisme Neuroplastisitas:** Saat kamu mencoba mengingat sesuatu tanpa melihat catatan, kamu sedang menstimulasi jalur saraf secara intens. Proses "kesulitan yang diinginkan" (*desirable difficulty*) ini memicu pelepasan neurotransmiter yang memperkuat koneksi sinaptik lebih efektif daripada input pasif.
 - **Analogi:** Membaca ulang buku seperti melihat peta. *Active Recall* adalah mencoba menavigasi kota tanpa melihat peta tersebut. Hanya dengan mencoba navigasi sendiri, jalur di otak kamu benar-benar terbentuk.
 
 **Cara Melakukannya:**
@@ -25,8 +25,8 @@ Strategi berikut dirancang untuk **memperkuat sinapsis** dengan bekerja selaras 
 
 **Spaced Repetition** (Pengulangan Berjarak) adalah teknik mendistribusikan sesi belajar dalam interval waktu yang meningkat.
 
-- **Mekanisme Neuroplastisitas:** Otak kita secara biologis dirancang untuk melupakan informasi yang tidak dianggap vital. Dengan meninjau kembali materi tepat sebelum kamu hampir melupakannya, kamu memaksa otak untuk melakukan konsolidasi ulang memori secara lebih mendalam melalui proses yang disebut **Long-Term Potentiation (LTP)**.
-- **Rumus Matematika Kurva Melupakan:** Salah satu model eksponensial untuk kurva melupakan adalah $R = e^{-\frac{t}{S}}$ Di mana:
+- **Mekanisme Neuroplastisitas:** Otak kita secara biologis dirancang untuk melupakan informasi yang tidak dianggap vital. Dengan meninjau kembali materi tepat saat kamu hampir melupakannya, kamu memaksa otak untuk melakukan konsolidasi ulang memori secara lebih mendalam; salah satu mekanisme yang diduga terlibat adalah **Long-Term Potentiation (LTP)**.
+- **Rumus Matematika Kurva Melupakan:** Salah satu model eksponensial untuk kurva melupakan adalah $R = e^{-\frac{t}{S}}$ Dengan:
 	- $R$ adalah retensi (seberapa banyak kita ingat).
 		- $S$ adalah kekuatan memori (stabilitas).
 		- $t$ adalah waktu yang telah berlalu.
@@ -45,7 +45,7 @@ Kebanyakan orang belajar dengan cara *blocked practice* (belajar topik A sampai 
 - **Mekanisme Neuroplastisitas:** Saat kamu mencampur topik, otak kamu dipaksa untuk terus-menerus membedakan antara konsep-konsep yang serupa. Ini membangun fleksibilitas kognitif dan membantu otak mengenali pola yang lebih dalam.
 - **Analogi:** Seorang petenis yang berlatih dengan pukulan yang diacak (forehand, lalu backhand, lalu volley secara acak) akan jauh lebih siap menghadapi pertandingan nyata dibandingkan petenis yang hanya melakukan 100 kali forehand berturut-turut.
 
-*Analogi Ilusi Kemajuan: Belajar satu subjek selama berjam-jam sering memberikan rasa nyaman, namun rasa nyaman tersebut bisa jadi merupakan ilusi kemajuan kognitif. Rasa tertantang saat beralih antar topik justru menandakan bahwa sirkuit otak sedang aktif membentuk pola pemahaman baru.*
+*Ilusi Kemajuan: Belajar satu subjek selama berjam-jam sering memberikan rasa nyaman, tetapi rasa nyaman tersebut bisa jadi merupakan ilusi kemajuan kognitif. Rasa tertantang saat beralih antartopik justru menandakan bahwa sirkuit otak sedang aktif membentuk pola pemahaman baru.*
 
 ### Strategi Belajar Pemrograman
 
@@ -54,7 +54,7 @@ Mari kita lihat bagaimana teknik ini diterapkan dalam skenario nyata, misalnya b
 | Teknik | Penerapan Praktis |
 | --- | --- |
 | **Active Recall** | Alih-alih menonton tutorial video berulang kali, cobalah menulis kode dari awal tanpa melihat dokumentasi segera setelah kamu mempelajari konsep *Looping*. |
-| **Spaced Repetition** | Gunakan algoritma pengulangan untuk mengingat sintaks atau fungsi bawaan (*built-in functions*) setiap beberapa hari sekali. |
+| **Spaced Repetition** | Gunakan algoritma pengulangan untuk mengingat sintaks atau fungsi bawaan (*built-in functions*) dengan interval yang makin panjang. |
 | **Interleaving** | Dalam satu sesi latihan, kerjakan satu soal tentang *List*, lalu satu soal tentang *Dictionary*, kemudian satu soal tentang *Functions*. Jangan fokus pada satu jenis soal saja. |
 
 Berikut contoh aturan sederhana untuk menentukan kapan sebuah kartu belajar perlu di-review lagi. Angka pengalinya hanya ilustrasi.
@@ -65,7 +65,7 @@ Berikut contoh aturan sederhana untuk menentukan kapan sebuah kartu belajar perl
 | **Sulit** | Interval sekarang dikali 1,2 (waktu tunggu bertambah sedikit) |
 | **Lupa sama sekali** | Ulangi besok |
 
-### Mengoptimalkan Sesi Belajar kamu
+### Mengoptimalkan Sesi Belajar Kamu
 
 Untuk memastikan strategi di atas memicu neuroplastisitas yang maksimal, cermati elemen pendukung berikut:
 
@@ -81,4 +81,4 @@ Untuk memastikan strategi di atas memicu neuroplastisitas yang maksimal, cermati
 > 2. **Beri jeda waktu** (Spaced Repetition) daripada belajar sistem kebut semalam.
 > 3. **Campur materi kamu** (Interleaving) daripada belajar secara monoton.
 
-Dengan menerapkan teknik-teknik ini, kamu tidak hanya belajar lebih cepat, tetapi kamu sedang secara sadar mengubah struktur otak kamu untuk menjadi lebih efisien dan tangguh dalam memproses informasi baru.
+Dengan menerapkan teknik-teknik ini, kamu tidak hanya belajar lebih cepat, tetapi juga secara sadar mengubah struktur otak kamu untuk menjadi lebih efisien dan tangguh dalam memproses informasi baru.

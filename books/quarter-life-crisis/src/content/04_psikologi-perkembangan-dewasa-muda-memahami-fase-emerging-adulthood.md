@@ -2,11 +2,11 @@
 
 Pernahkah kamu merasa seperti mengendarai mobil di tengah kabut tebal tanpa peta, sementara semua orang di media sosial tampak sudah sampai di tujuan? Jika iya, kamu tidak sendirian. Apa yang kamu rasakan bukan cuma "galau" biasa; ada penjelasan ilmiah dan psikologis di baliknya.
 
-Dalam bagian ini, kita akan membedah apa yang sebenarnya terjadi di dalam kepala dan hatimu selama rentang usia 20 hingga 30 tahun. Kita akan mengeksplorasi mengapa fase ini membingungkan, namun juga menentukan bagi pembentukan dirimu di masa depan.
+Dalam bagian ini, kita akan membedah apa yang sebenarnya terjadi di dalam kepala dan hatimu selama rentang usia 20 hingga 30 tahun. Kita akan mengeksplorasi mengapa fase ini membingungkan, tetapi juga menentukan bagi pembentukan dirimu di masa depan.
 
 ## 1\. Mengenal 'Emerging Adulthood'
 
-Dahulu, psikologi membagi transisi hidup secara kaku: masa remaja lalu langsung masa dewasa. Namun, Psikolog **Jeffrey Jensen Arnett** menyadari adanya celah besar di antaranya yang ia sebut sebagai **Emerging Adulthood**, biasanya terjadi pada usia 18 hingga 29 tahun.
+Dahulu, psikologi membagi transisi hidup secara kaku: masa remaja lalu langsung masa dewasa. Namun, psikolog **Jeffrey Jensen Arnett** menyadari adanya celah besar di antaranya yang ia sebut sebagai **Emerging Adulthood**, biasanya terjadi pada usia 18 hingga 29 tahun.
 
 Arnett (2000) menggambarkannya sebagai masa ketika seseorang sudah bukan remaja lagi, tetapi belum sepenuhnya merasa menjadi orang dewasa.
 
@@ -14,7 +14,7 @@ Arnett mengidentifikasi lima fitur utama dari fase ini:
 
 1. **Eksplorasi Identitas (Identity Exploration)**: Mencoba berbagai kemungkinan dalam cinta dan pekerjaan.
 2. **Ketidakstabilan (Instability)**: Sering berpindah tempat tinggal, pekerjaan, atau pasangan.
-3. **Fokus pada Diri Sendiri (Self-focused)**: Masa di mana kamu memiliki kewajiban paling sedikit terhadap orang lain dan kebebasan terbesar untuk memutuskan apa yang kamu inginkan.
+3. **Fokus pada Diri Sendiri (Self-focused)**: Masa ketika kamu memiliki kewajiban paling sedikit terhadap orang lain dan kebebasan terbesar untuk memutuskan apa yang kamu inginkan.
 4. **Perasaan "Di Antara" (Feeling In-between)**: Merasa sudah dewasa dalam beberapa hal, tapi masih merasa seperti anak kecil dalam hal lain.
 5. **Usia Peluang (Age of Possibilities)**: Masa yang penuh dengan harapan dan peluang untuk mengubah arah hidup secara drastis.
 
@@ -22,13 +22,13 @@ Apakah kamu merasa lebih sering menjawab "Iya dan Tidak" secara bersamaan ketika
 
 ## 2\. Otak yang Masih 'Dalam Perbaikan'
 
-Seringkali kita menyalahkan kurangnya motivasi atau karakter yang lemah saat menghadapi *Quarter-Life Crisis*. Padahal, ada faktor biologis yang berpengaruh: **Otak manusia belum sepenuhnya matang hingga usia pertengahan 20-an.**
+Sering kali kita menyalahkan kurangnya motivasi atau karakter yang lemah saat menghadapi *Quarter-Life Crisis*. Padahal, ada faktor biologis yang berpengaruh: **Otak manusia belum sepenuhnya matang hingga usia pertengahan 20-an.**
 
 ### Prefrontal Cortex dan Amygdala
 
 Bagian otak yang bertanggung jawab atas perencanaan masa depan, pengendalian impuls, dan pengambilan keputusan logis disebut **Prefrontal Cortex (PFC)**.
 
-Bayangkan PFC sebagai CEO dari sebuah perusahaan. Pada usia 20-an, CEO ini masih dalam tahap "orientasi". Sementara itu, **Amygdala**, pusat emosi dan respon fight-or-flight, sudah bekerja dengan kekuatan penuh.
+Bayangkan PFC sebagai CEO dari sebuah perusahaan. Pada usia 20-an, CEO ini masih dalam tahap "orientasi". Sementara itu, **Amygdala**, pusat emosi dan respons fight-or-flight, sudah bekerja dengan kekuatan penuh.
 
 **Analogi "Situs Konstruksi":**
 
@@ -36,7 +36,7 @@ Bayangkan PFC sebagai CEO dari sebuah perusahaan. Pada usia 20-an, CEO ini masih
 
 ### Hormon Stres dan Ketidakpastian
 
-Ketidakpastian di usia 20-an memicu pelepasan hormon stres seperti **Kortisol**. Jika otak tidak memiliki "rem" yang kuat (karena PFC belum matang), kecemasan ini bisa terasa sangat berat. Secara matematis, kita bisa melihat keseimbangan respon emosional sebagai:
+Ketidakpastian di usia 20-an memicu pelepasan hormon stres seperti **Kortisol**. Jika otak tidak memiliki "rem" yang kuat (karena PFC belum matang), kecemasan ini bisa terasa sangat berat. Secara matematis, kita bisa melihat keseimbangan respons emosional sebagai:
 
 <div>
 $$
@@ -44,7 +44,7 @@ $$
 $$
 </div>
 
-Saat $\text{Kematangan}\_{\text{PFC}}$ masih rendah, $\text{R}\_{\text{emosi}}$ (respon emosional atau kecemasan) akan melonjak tinggi terhadap stimulus yang sama.
+Saat $\text{Kematangan}\_{\text{PFC}}$ masih rendah, $\text{R}\_{\text{emosi}}$ (respons emosional atau kecemasan) akan melonjak tinggi terhadap stimulus yang sama.
 
 ## 3\. Perkembangan Emosi
 
@@ -54,7 +54,7 @@ Di rentang usia 20-30 tahun, perkembangan emosi kita mengalami pergeseran dari "
 
 Menurut psikolog perkembangan Erik Erikson, tugas utama di masa dewasa awal adalah membangun hubungan yang intim dengan orang lain. Namun, sebelum bisa membangun hubungan yang sehat dengan orang lain, kamu harus memiliki identitas yang stabil.
 
-Ketidakpastian karier dan finansial seringkali menghambat proses ini, menciptakan perasaan **isolasi** karena kita merasa "tidak layak" atau "tertinggal" dibandingkan rekan sebaya.
+Ketidakpastian karier dan finansial sering kali menghambat proses ini, menciptakan perasaan **isolasi** karena kita merasa "tidak layak" atau "tertinggal" dibandingkan rekan sebaya.
 
 ### Regulasi Emosi di Tengah Krisis
 
@@ -78,11 +78,11 @@ Kamu memiliki tiga tawaran pekerjaan atau pilihan hidup, dan kamu merasa lumpuh 
 2. **Gunakan Teknik 'Micro-Decisions'**: Karena otak sulit memproses ketidakpastian jangka panjang, pecahlah keputusan besar menjadi langkah-langkah kecil 24 jam.
 	- *Hari ini: Hanya riset tentang perusahaan A.*
 		- *Besok: Hanya berbicara dengan satu teman yang bekerja di sana.*
-3. **Self-Compassion**: Gunakan dialog internal yang mendukung. Mengatakan "Saya sedang berproses" secara kimiawi menurunkan kadar kortisol dibandingkan mengatakan "Saya payah karena tidak tahu harus berbuat apa."
+3. **Self-Compassion**: Gunakan dialog internal yang mendukung. Mengatakan "Saya sedang berproses" cenderung lebih menenangkan dibandingkan mengatakan "Saya payah karena tidak tahu harus berbuat apa."
 
 ### Memutuskan Saat Emosi Sedang Tinggi
 
-Coba bayangkan cara otakmu menimbang pilihan sebagai sebuah percabangan. Selama PFC belum matang sepenuhnya, yaitu sampai sekitar pertengahan 20-an, amygdala sedang mendominasi dan emosi terasa sangat tinggi. Di kondisi ini, gunakan bantuan dari luar, seperti berdiskusi dengan mentor atau menulis jurnal (*journaling*), sebelum memutuskan. Kalau PFC sudah lebih matang, analisis logis tentang dampak jangka panjang dari tiap pilihan bisa berjalan lebih stabil. Pesannya sederhana: jangan membuat keputusan permanen saat kendali PFC-mu sedang lemah atau emosimu sedang tinggi.
+Coba bayangkan cara otakmu menimbang pilihan sebagai sebuah percabangan. Selama PFC belum matang sepenuhnya, yaitu sampai sekitar pertengahan 20-an, amygdala sedang mendominasi dan emosi terasa sangat tinggi. Dalam kondisi ini, gunakan bantuan dari luar, seperti berdiskusi dengan mentor atau menulis jurnal (*journaling*), sebelum memutuskan. Kalau PFC sudah lebih matang, analisis logis tentang dampak jangka panjang dari tiap pilihan bisa berjalan lebih stabil. Pesannya sederhana: jangan membuat keputusan permanen saat kendali PFC-mu sedang lemah atau emosimu sedang tinggi.
 
 Kedua jalan menuju keputusan itu tampak seperti ini.
 
@@ -104,7 +104,7 @@ Memahami psikologi perkembangan di balik Quarter-Life Crisis membantu kamu untuk
 
 **Poin-poin Penting untuk Diingat:**
 
-- **Ketidakpastian adalah normal**: Otakmu sedang dalam tahap *finetuning*.
+- **Ketidakpastian adalah normal**: Otakmu sedang dalam tahap *fine-tuning*.
 - **Emerging Adulthood adalah kesempatan**: Ini adalah waktu paling fleksibel dalam hidupmu untuk mencoba dan gagal.
 - **Biologi bukan takdir**: Meskipun otak belum matang sempurna, kamu bisa melatihnya melalui meditasi, refleksi, dan aksi nyata.
 

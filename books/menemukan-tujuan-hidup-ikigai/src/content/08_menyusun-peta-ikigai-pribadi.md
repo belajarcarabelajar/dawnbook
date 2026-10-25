@@ -1,6 +1,6 @@
 ## Menyusun Peta Ikigai Pribadi
 
-Setelah kamu menjelajahi dan mengidentifikasi setiap pilar Ikigai secara mendalam, kini saatnya memadukan penemuan-penemuan tersebut. Keempat pilar itu adalah apa yang kamu cintai, apa yang kamu kuasai, apa yang dibutuhkan dunia, dan apa yang dapat menghasilkan uang. Bagian ini akan membimbing langkah demi langkah untuk menyusun Peta Ikigai pribadi, sebuah kerangka kerja visual yang membantu merumuskan pernyataan Ikigai yang jelas.
+Setelah kamu menjelajahi dan mengidentifikasi setiap pilar Ikigai secara mendalam, kini saatnya memadukan penemuan-penemuan tersebut. Keempat pilar itu adalah apa yang kamu cintai, apa yang kamu kuasai, apa yang dibutuhkan dunia, dan apa yang dapat menghasilkan uang. Bagian ini akan membimbingmu langkah demi langkah untuk menyusun Peta Ikigai pribadi, sebuah kerangka kerja visual yang membantu merumuskan pernyataan Ikigai yang jelas.
 
 ### Mengapa Menyusun Peta Ikigai?
 
@@ -8,7 +8,7 @@ Menyusun peta Ikigai adalah sebuah proses sintesis. Proses ini merangkum pemaham
 
 ### Diagram Venn Ikigai
 
-Kerangka kerja yang paling umum untuk memvisualisasikan Ikigai adalah melalui Diagram Venn empat lingkaran yang saling tumpang tindih. Setiap lingkaran mewakili satu pilar, dan irisan antar lingkaran mengungkapkan area yang mengarah pada Ikigai kamu.
+Kerangka kerja yang paling umum untuk memvisualisasikan Ikigai adalah melalui Diagram Venn empat lingkaran yang saling tumpang tindih. Setiap lingkaran mewakili satu pilar, dan irisan antarlingkaran mengungkapkan area yang mengarah pada Ikigai kamu.
 
 > "Ikigai adalah perjalanan penemuan dan penyesuaian yang terus berjalan, tanpa garis akhir yang kaku."
 
@@ -38,7 +38,7 @@ Gambarlah Diagram Venn empat lingkaran kosong. Beri label setiap lingkaran denga
 - Lingkaran ketiga mewakili kebutuhan dunia.
 - Lingkaran keempat berisi hal yang bisa menghasilkan uang.
 
-Tuliskan poin-poin kunci dari langkah pertama ke dalam lingkaran yang sesuai agar interaksi antar elemen mulai terlihat.
+Tuliskan poin-poin kunci dari langkah pertama ke dalam lingkaran yang sesuai agar interaksi antarelemen mulai terlihat.
 
 #### 3. Identifikasi Area Persimpangan
 
@@ -56,7 +56,7 @@ Sementara itu, *Profession* muncul saat hal yang menghasilkan uang bertemu denga
 
 Setelah memetakan persimpangan dua lingkaran, arahkan perhatian ke pusat Diagram Venn, titik temu keempat lingkaran tersebut. Di sinilah letak Ikigai kamu.
 
-Cari benang merah dari keempat pilar dan area persimpangan. Temukan kegiatan, peran, atau tujuan yang mampu merangkul semua elemen ini. Jika kamu suka menulis, jago memecahkan masalah, dunia butuh inspirasi, dan konten tulisan bisa mendatangkan penghasilan, maka Ikigai kamu mungkin menggunakan tulisan untuk menginspirasi dan memecahkan masalah, yang juga memberdayakan secara finansial.
+Cari benang merah dari keempat pilar dan area persimpangan. Temukan kegiatan, peran, atau tujuan yang mampu merangkul semua elemen ini. Jika kamu suka menulis, jago memecahkan masalah, dunia butuh inspirasi, dan konten tulisan bisa mendatangkan penghasilan, maka Ikigai kamu mungkin adalah menggunakan tulisan untuk menginspirasi dan memecahkan masalah, yang juga memberdayakan secara finansial.
 
 #### 5. Rumuskan Pernyataan Ikigai Pribadi
 
@@ -68,11 +68,11 @@ Format ini bisa dipakai sebagai panduan dasar:
 Beberapa contoh pernyataan yang bisa dijadikan referensi:
 - "Ikigai saya adalah menciptakan solusi desain intuitif untuk mempermudah akses informasi bagi komunitas yang kurang terlayani, sambil membangun studio konsultasi UX yang berkelanjutan."
 - "Saya menemukan Ikigai dalam menginspirasi perubahan positif melalui tulisan untuk meningkatkan kesadaran lingkungan, yang juga mendukung karier saya sebagai penulis lepas."
-- "Ikigai saya adalah mengembangkan program pelatihan kepemimpinan untuk membantu generasi muda menemukan potensi mereka, dengan menjalankan kelas online berbayar."
+- "Ikigai saya adalah mengembangkan program pelatihan kepemimpinan untuk membantu generasi muda menemukan potensi mereka, dengan menjalankan kelas daring berbayar."
 
 ### Alat Tambahan untuk Memperjelas Ikigai
 
-Jika masih kesulitan memadukan elemen-elemen yang ada, cobalah memikirkan bagaimana *Passion* dapat melayani *Mission* kamu. Pertimbangkan juga peluang *Profession* mendukung *Vocation*. Lihat kembali kegiatan atau bidang apa yang paling sering muncul di berbagai daftar yang telah dibuat. Bayangkan jika kamu memiliki sumber daya dan waktu tak terbatas; kegiatan apa yang akan kamu lakukan untuk memenuhi keempat pilar tersebut.
+Jika masih kesulitan memadukan elemen-elemen yang ada, cobalah memikirkan bagaimana *Passion* dapat melayani *Mission* kamu. Pertimbangkan juga peluang *Profession* untuk mendukung *Vocation*. Lihat kembali kegiatan atau bidang apa yang paling sering muncul di berbagai daftar yang telah dibuat. Bayangkan jika kamu memiliki sumber daya dan waktu tak terbatas; kegiatan apa yang akan kamu lakukan untuk memenuhi keempat pilar tersebut.
 
 ### Membuat Peta Aksi Awal
 

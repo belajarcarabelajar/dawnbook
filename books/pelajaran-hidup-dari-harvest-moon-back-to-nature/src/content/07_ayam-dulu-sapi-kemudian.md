@@ -1,6 +1,6 @@
 ## Ayam Dulu, Sapi Kemudian
 
-Pada musim semi pertama, seekor sapi dari Yodel Farm berharga 6.000 G, empat kali lipat harga seekor ayam yang dijual di Poultry Farm. Dompetmu masih tipis, ladang belum bersih, dan setiap koin sudah punya tujuan. Melihat dua angka itu berdampingan, wajar kalau kamu tergoda untuk menahan semua belanja dan menabung demi sapi.
+Pada musim semi pertama, seekor sapi dari Yodel Ranch berharga 6.000 G, empat kali lipat harga seekor ayam yang dijual di Poultry Farm. Dompetmu masih tipis, ladang belum bersih, dan setiap koin sudah punya tujuan. Melihat dua angka itu berdampingan, wajar kalau kamu tergoda untuk menahan semua belanja dan menabung demi sapi.
 
 Panduan resmi Prima untuk *Harvest Moon: Back to Nature* menawarkan jalan yang lebih sabar. Ayam dulu, sapi menyusul begitu tabungan cukup, domba sesudahnya. Di musim semi tahun pertama, sapi dan domba memang belum terjangkau, dan sapi pertama baru terbeli sekitar musim panas atau gugur. Sebelum membeli hewan apa pun, buku itu mendahulukan tas yang lebih besar, seperti di bab 3. Bab ini meminjam urutan itu sebagai perumpamaan tentang mulai berinvestasi. Ini analogi dari sebuah gim, bukan nasihat investasi.
 

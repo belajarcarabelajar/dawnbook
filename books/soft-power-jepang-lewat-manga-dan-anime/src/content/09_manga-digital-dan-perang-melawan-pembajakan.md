@@ -39,7 +39,7 @@ Hukum memang bisa menutup satu situs. Masalahnya, prosesnya memakan waktu bertah
 
 ### Bab Gratis yang Terbit Serentak
 
-Di luar jalur hukum, penerbit juga menawarkan alternatif yang legal di tempat yang sama. Shueisha meluncurkan MANGA Plus pada Januari 2019, layanan yang sudah disinggung di bab 5. Bab baru terbit bersamaan dengan Jepang, bab pertama dan bab terbaru bisa dibaca gratis, dan sejak Agustus 2021 pembatasan wilayahnya dihapus.
+Di luar jalur hukum, penerbit juga menawarkan alternatif yang legal di tempat yang sama. Shueisha meluncurkan MANGA Plus pada Januari 2019, layanan yang sudah disinggung di bab 5. Bab baru terbit bersamaan dengan Jepang, tiga bab pertama dan tiga bab terbaru bisa dibaca gratis, dan sejak Agustus 2021 pembatasan wilayahnya dihapus.
 
 Bagi pembaca di luar Jepang, artinya sederhana. Ada pilihan resmi yang tersedia pada hari yang sama, tanpa bayar, dan legal. Pada 2025, Asahi Shimbun mencatat layanan ini dipakai sekitar 5,5 juta pengguna aktif bulanan, dengan sekitar 100 judul dalam sembilan bahasa.
 
@@ -47,7 +47,7 @@ Bagi pembaca di luar Jepang, artinya sederhana. Ada pilihan resmi yang tersedia 
 
 Strategi itu bertemu permintaan yang sedang tinggi. Di Amerika Serikat dan Kanada, ICv2 mencatat penjualan komik dan novel grafis mencapai 2,075 miliar dolar AS pada 2021, naik 62 persen, dengan manga sebagai salah satu pendorong terkuat. Di Prancis, data NielsenIQ-GfK menghitung 39,6 juta eksemplar manga terjual pada 2023, dan lebih dari separuh komik yang dibeli di sana adalah manga.
 
-Namun layar ponsel bukan milik manga sendirian. Pada 2019, [Japan Times](https://www.japantimes.co.jp/news/2019/05/05/business/tech/south-koreas-booming-webtoons-put-japans-print-manga-notice/) melaporkan bahwa *webtoon* Korea, komik digital yang dibaca lewat aplikasi, mulai menjadi ancaman serius bagi manga cetak Jepang. Laporan itu melihat pembaca muda yang tumbuh bersama ponsel beralih ke judul-judul berbasis aplikasi. Dari sudut ini, bab gratis di MANGA Plus juga menjadi cara agar manga tetap hadir di layar yang sama tempat pesaingnya bersaing.
+Namun layar ponsel bukan milik manga sendirian. Pada 2019, [Japan Times](https://www.japantimes.co.jp/news/2019/05/05/business/tech/south-koreas-booming-webtoons-put-japans-print-manga-notice/) melaporkan bahwa *webtoon* Korea, komik digital yang dibaca lewat aplikasi, mulai menjadi ancaman serius bagi manga cetak Jepang. Laporan itu melihat pembaca muda yang tumbuh bersama ponsel beralih ke judul-judul berbasis aplikasi. Dari sudut ini, bab gratis di MANGA Plus juga menjadi cara agar manga tetap hadir di layar yang sama tempat webtoon bersaing.
 
 ### Recap
 

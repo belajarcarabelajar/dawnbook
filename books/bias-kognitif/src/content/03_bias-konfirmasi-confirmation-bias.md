@@ -10,19 +10,19 @@ Bias konfirmasi adalah salah satu bias kognitif yang paling kuat. Ini adalah kec
 
 Otak kita tidak bekerja seperti hakim yang tidak memihak dalam mencari kebenaran. Sebaliknya, otak kita sering bertindak seperti **pengacara** yang hanya mencari bukti untuk memenangkan kasusnya. Ada tiga cara utama bagaimana bias ini beroperasi:
 
-### 1\. Pencarian Informasi yang Terpihak (Biased Search)
+### 1\. Pencarian Informasi yang Berpihak (Biased Search)
 
 Kita cenderung mencari bukti yang mendukung apa yang sudah kita percayai.
 
 - **Contoh:** Seseorang yang percaya bahwa "diet keto itu berbahaya" akan mengetik di Google: *"Efek samping buruk diet keto"*, alih-alih mengetik *"Manfaat dan risiko diet keto"*.
 
-### 2\. Penafsiran yang Terpihak (Biased Interpretation)
+### 2\. Penafsiran yang Berpihak (Biased Interpretation)
 
 Saat dihadapkan pada bukti yang ambigu, kita akan menafsirkannya sedemikian rupa agar sesuai dengan pandangan kita.
 
 - **Analogi:** Bayangkan dua orang menonton pertandingan sepak bola. Saat terjadi benturan keras, pendukung tim A akan melihatnya sebagai "pelanggaran berat", sementara pendukung tim B melihatnya sebagai "akting lawan". Informasi visualnya sama, namun penafsirannya berbeda total.
 
-### 3\. Ingatan yang Terpihak (Biased Memory)
+### 3\. Ingatan yang Berpihak (Biased Memory)
 
 Kita lebih mudah mengingat informasi yang mendukung keyakinan kita dan lebih cepat melupakan informasi yang menantangnya.
 
@@ -44,7 +44,7 @@ Seorang programmer yakin bahwa *bug* di aplikasinya disebabkan oleh masalah jari
 2. Dia mengabaikan pesan error di log *database* yang sebenarnya menunjukkan kesalahan sintaks.
 3. Dia menyimpulkan bahwa "jaringan memang sedang tidak stabil hari ini" meskipun datanya berkata lain.
 
-**Filter Rekomendasi yang Ikut Bias:** Seringkali, algoritma yang kita buat secara tidak sengaja mereplikasi bias kita sendiri.
+**Filter Rekomendasi yang Ikut Bias:** Sering kali, algoritma yang kita buat secara tidak sengaja mereplikasi bias kita sendiri.
 
 Misalnya, seorang pengguna yakin bahwa Teknologi A lebih baik dari Teknologi B. Algoritma rekomendasi yang bias hanya menampilkan apa yang disukai pengguna itu, yaitu berita tentang Teknologi A yang bernada positif:
 
@@ -66,7 +66,7 @@ Seorang investor yang sudah terlanjur membeli saham perusahaan X cenderung hanya
 
 Algoritma media sosial dirancang untuk menunjukkan konten yang kamu sukai. Jika kamu sering berinteraksi dengan konten politik tertentu, algoritma akan terus menyuapimu dengan pandangan serupa.
 
-> **Wawasan Penting:** Media sosial tidak hanya mencerminkan bias kita, mereka memperkuatnya dengan menciptakan "ruang gema" di mana suara-suara yang berbeda diredam.
+> **Wawasan Penting:** Media sosial tidak hanya mencerminkan bias kita, mereka memperkuatnya dengan menciptakan "ruang gema" tempat suara-suara yang berbeda diredam.
 
 ### 3\. Dunia Medis
 

@@ -45,7 +45,7 @@ Kalau kamu ingin mulai hari ini juga, empat langkah ini sudah cukup sebagai awal
 
 ### Pijakan Buku Ini
 
-Penjelasan dalam buku ini bersandar pada repositori publik [twitter/the-algorithm](https://github.com/twitter/the-algorithm), yang pertama kali dipublikasikan pada Maret 2023 dan terakhir diperbarui pada September 2025, repositori yang lebih baru [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) yang dibuat pada Januari 2026, serta halaman Pusat Bantuan X. Tidak satu pun dari kedua repositori itu memperlihatkan seluruh konfigurasi dan eksperimen yang aktif, dan nama menu pun bisa berbeda menurut perangkat, wilayah, dan versi aplikasi. Karena itu, yang kamu dapatkan di sini adalah kebiasaan membaca yang bisa diuji sendiri, bukan rumus untuk mengendalikan feed.
+Penjelasan dalam buku ini bersandar pada repositori publik [twitter/the-algorithm](https://github.com/twitter/the-algorithm), yang pertama kali dipublikasikan pada Maret 2023 dan terakhir diperbarui pada September 2025; repositori yang lebih baru [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) yang dibuat pada Januari 2026; serta halaman Pusat Bantuan X. Tidak satu pun dari kedua repositori itu memperlihatkan seluruh konfigurasi dan eksperimen yang aktif, dan nama menu pun bisa berbeda menurut perangkat, wilayah, dan versi aplikasi. Karena itu, yang kamu dapatkan di sini adalah kebiasaan membaca yang bisa diuji sendiri, bukan rumus untuk mengendalikan feed.
 
 ## Intisari
 

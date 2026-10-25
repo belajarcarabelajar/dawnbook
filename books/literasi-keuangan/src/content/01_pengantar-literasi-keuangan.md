@@ -12,7 +12,7 @@ Kamu perlu tahu konsep dasar seperti menabung, berutang, bunga, serta mengelola 
 
 > Mengetahui istilah keuangan saja tidak cukup. Literasi keuangan menuntut kamu untuk mempraktikkan keterampilan tersebut setiap hari.
 
-Menurut Otoritas Jasa Keuangan (OJK), literasi keuangan mengukur tingkat pengetahuan dan kesadaran masyarakat terhadap lembaga, produk, dan layanan finansial. Semakin tinggi tingkat pemahaman ini, semakin baik pula cara masyarakat merencanakan dan mengatur keuangan mereka.
+Menurut Otoritas Jasa Keuangan (OJK), literasi keuangan adalah pengetahuan, keterampilan, dan keyakinan yang memengaruhi sikap dan perilaku untuk meningkatkan kualitas pengambilan keputusan dan pengelolaan keuangan. Semakin tinggi tingkat literasi ini, semakin baik pula cara masyarakat merencanakan dan mengatur keuangan mereka.
 
 ## Mengapa Pemahaman Keuangan Sangat Penting?
 
@@ -43,9 +43,9 @@ Paham cara kerja uang memberikan banyak keuntungan buat kamu, di antaranya:
 6. **Mencapai Target Keuangan**: Entah itu dana darurat atau beli rumah, perencanaannya jadi lebih terarah.
 7. **Lebih Percaya Diri**: Paham soal keuangan bikin kamu nggak ragu lagi mengatur uang sendiri.
 
-## Ruang Lingkup Literasi Finansial
+## Ruang Lingkup Literasi Keuangan
 
-Hal ini mencakup banyak aspek kehidupan, mulai dari yang dasar sampai yang lumayan rumit:
+Literasi keuangan mencakup banyak aspek kehidupan, mulai dari yang dasar sampai yang lumayan rumit:
 
 - Tahu bedanya kebutuhan dengan keinginan.
 - Mengenali berbagai sumber pemasukan (aktif dan pasif).

@@ -49,8 +49,8 @@ Dimensi ini berkaitan dengan **sumber penyebab**.
 Gaya penjelasan tidak hanya berhenti di tataran teori, tetapi memiliki dampak nyata yang terukur pada kualitas hidup kita:
 
 1. **Kesehatan Fisik:** Berbagai penelitian menunjukkan bahwa orang dengan pola pikir optimis cenderung memiliki sistem imun yang lebih kuat dan risiko penyakit kardiovaskular yang lebih rendah.
-2. **Pencapaian:** Di bidang olahraga maupun penjualan (*sales*), individu yang optimis secara konsisten mampu mengungguli rekan mereka yang pesimis, terutama setelah menghadapi kekalahan atau penolakan.
-3. **Resiliensi terhadap Depresi:** Membiasakan diri untuk menjelaskan peristiwa buruk secara temporer dan spesifik terbukti efektif menurunkan risiko depresi klinis.
+2. **Pencapaian:** Di bidang olahraga maupun penjualan (*sales*), individu yang optimis cenderung mengungguli rekan mereka yang pesimis, terutama setelah menghadapi kekalahan atau penolakan.
+3. **Resiliensi terhadap Depresi:** Membiasakan diri untuk menjelaskan peristiwa buruk secara temporer dan spesifik dapat membantu menurunkan risiko depresi.
 
 Bayangkan jika kamu menghadapi kegagalan proyek hari ini. Kalimat apa yang pertama kali tebersit dalam pikiranmu? Apakah dialog internal tersebut memotivasimu untuk mencoba lagi esok hari?
 

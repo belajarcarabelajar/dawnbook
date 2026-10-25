@@ -27,7 +27,7 @@ Melalui lensa ekspresif, novel *9 Summers 10 Autumns* berfungsi sebagai media ka
 
 ### Membandingkan Biografi dan Fiksi
 
-Jika kita membandingkan data biografi asli Iwan Setyawan dengan representasi fiksi dalam bab-bab awal novel, kita dapat mengidentifikasi bagaimana penulis memproyeksikan memori masa kecilnya di Batu secara langsung ke dalam teks. Batu yang dingin dan agraris dikonstruksikan tidak hanya sebagai koordinat geografis, melainkan sebagai metafora bagi kehangatan batin keluarga yang melindungi mereka dari kemiskinan ekonomi. Kontras biografis ini terlihat jelas ketika kita membandingkannya dengan novel otobiografis lain seperti *Laskar Pelangi* karya Andrea Hirata, di mana kemiskinan Belitung digambarkan lewat perjuangan kolektif di sekolah dasar yang reyot, sedangkan dalam *9 Summers 10 Autumns*, perjuangan Iwan lebih difokuskan pada dinamika domestik rumah mungilnya.
+Jika kita membandingkan data biografi asli Iwan Setyawan dengan representasi fiksi dalam bab-bab awal novel, kita dapat mengidentifikasi bagaimana penulis memproyeksikan memori masa kecilnya di Batu secara langsung ke dalam teks. Batu yang dingin dan agraris dikonstruksikan tidak hanya sebagai koordinat geografis, melainkan sebagai metafora bagi kehangatan batin keluarga yang melindungi mereka dari kemiskinan ekonomi. Kontras biografis ini terlihat jelas ketika kita membandingkannya dengan novel otobiografis lain seperti *Laskar Pelangi* karya Andrea Hirata, tempat kemiskinan Belitung digambarkan lewat perjuangan kolektif di sekolah dasar yang reyot, sedangkan dalam *9 Summers 10 Autumns*, perjuangan Iwan lebih difokuskan pada dinamika domestik rumah mungilnya.
 
 ### Batas Antara Penulis dan Karya
 
@@ -35,4 +35,4 @@ Jika kita membandingkan data biografi asli Iwan Setyawan dengan representasi fik
 
 ### Merumuskan Arah Kajian
 
-Setelah meletakkan dasar teoritis mengenai kritik sastra ekspresif, kita membutuhkan rumusan yang lebih terarah untuk memandu analisis ini.
+Setelah meletakkan dasar teoretis mengenai kritik sastra ekspresif, kita membutuhkan rumusan yang lebih terarah untuk memandu analisis ini.

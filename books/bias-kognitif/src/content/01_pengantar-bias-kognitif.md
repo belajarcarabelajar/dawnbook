@@ -2,7 +2,7 @@
 
 Langkah pertama untuk memahami cara manusia mengambil keputusan adalah mengenal satu pola yang sering luput disadari: **cognitive bias**. Pernahkah kamu merasa sangat yakin akan sesuatu, namun kemudian menyadari bahwa kamu sepenuhnya salah? Atau pernahkah kamu bertanya-tanya mengapa orang-orang yang cerdas terkadang membuat keputusan yang tidak logis?
 
-Penyebabnya bukan karena kita kekurangan informasi atau kurang pintar, tetapi karena cara kerja alami otak kita.
+Penyebabnya bukan kekurangan informasi atau kurang pintar, melainkan cara kerja alami otak kita.
 
 ## Apa Itu Cognitive Bias?
 
@@ -10,7 +10,7 @@ Secara sederhana, **cognitive bias** adalah kesalahan sistematis dalam berpikir 
 
 > **Analogi Lensa Kamera:** Bayangkan otakmu adalah sebuah lensa kamera. Idealnya, lensa ini harus menangkap dunia apa adanya (objektif). Namun, setiap manusia lahir dengan "lensa yang sedikit retak" atau memiliki filter warna tertentu. Akibatnya, gambar yang dihasilkan oleh pikiran kita sering kali sedikit terdistorsi (terlalu terang di satu sisi, atau buram di sisi lainnya) tanpa kita sadari bahwa distorsi itu ada.
 
-Cognitive bias bertindak sebagai *rule of thumb* yang tidak tepat. Serumit apa pun cara kerjanya, otak kita memiliki keterbatasan dalam memproses informasi.
+Cognitive bias sering kali muncul dari *rule of thumb* yang diterapkan secara tidak tepat. Serumit apa pun cara kerjanya, otak kita memiliki keterbatasan dalam memproses informasi.
 
 ## Penelitian Kahneman dan Tversky
 
@@ -37,7 +37,7 @@ Jawabannya adalah **efisiensi dan kelangsungan hidup**. Otak manusia menyumbang 
 
 Di masa lalu, nenek moyang kita di savana Afrika tidak punya waktu untuk menganalisis statistik ketika mendengar semak-semak berdesir.
 
-- *Opsi A (Rasional):* Berhenti, menganalisis kecepatan angin, mencari jejak kaki, dan menghitung probabilitas apakah itu harimau atau hanya angin. (Hasil: jika itu harimau, kamu mati).
+- *Opsi A (Rasional):* Berhenti, menganalisis kecepatan angin, mencari jejak kaki, dan menghitung probabilitas apakah itu singa atau hanya angin. (Hasil: jika itu singa, kamu mati).
 - *Opsi B (Bias/Cepat):* Langsung berasumsi itu bahaya dan lari. (Hasil: kamu selamat, meskipun 99% kemungkinan itu hanya angin).
 
 ### 2. Information Overload (Kelebihan Informasi)
@@ -59,7 +59,7 @@ Cognitive bias terjadi ketika **System 1** mengambil alih tugas yang seharusnya 
 
 ## Bias dalam Wawancara Kerja
 
-**Memilih Kandidat Karyawan** Seorang manajer HR sedang mewawancarai dua kandidat.
+**Memilih Kandidat Karyawan:** Seorang manajer HR sedang mewawancarai dua kandidat.
 
 - **Kandidat A** datang dengan pakaian sangat rapi, tersenyum lebar, dan memiliki hobi yang sama dengan manajer tersebut (bermain tenis).
 - **Kandidat B** sedikit gugup, pakaiannya biasa saja, namun memiliki data performa kerja masa lalu yang jauh lebih unggul daripada Kandidat A.

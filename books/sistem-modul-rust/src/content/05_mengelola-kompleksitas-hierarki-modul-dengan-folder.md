@@ -55,7 +55,7 @@ fn main() {
 }
 ```
 
-#### 2. Menghubungkan Anak di Parent Modul (src/media.rs)
+#### 2. Menghubungkan Anak di Modul Induk (src/media.rs)
 
 File `media.rs` bertindak sebagai "jembatan" atau pintu masuk utama menuju submodul yang ada di dalam folder pendukungnya.
 
@@ -83,7 +83,7 @@ pub fn upload(filename: &str) {
 }
 ```
 
-### Hierarki yang Lebih Dalam (Cucu Modul)
+### Hierarki yang Lebih Dalam (Modul Cucu)
 
 Bagaimana jika modul `image` ternyata butuh submodul tambahan, misalnya `compression`? Caranya cukup dengan mengulangi pola yang sama.
 
@@ -105,7 +105,7 @@ pub mod compression; // Mencari file di media/image/compression.rs
 pub fn upload(name: &str) { ... }
 ```
 
-Struktur folder di komputermu sebenarnya membentuk pola sebuah "pohon" (tree). Sistem modul Rust mencerminkan struktur pohon ini secara identik.
+Struktur folder di komputermu sebenarnya membentuk pola sebuah "pohon" (tree). Sistem modul Rust umumnya mencerminkan struktur pohon ini.
 
 ### Pengembangan Game Engine
 

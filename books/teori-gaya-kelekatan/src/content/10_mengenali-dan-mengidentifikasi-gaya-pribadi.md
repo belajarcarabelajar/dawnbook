@@ -37,7 +37,7 @@ Amati juga reaksi kamu dalam situasi intim saat ini:
 
 Gaya kelekatan paling mudah terlihat saat kamu berada di bawah tekanan emosional. Mari gunakan skenario sederhana ini untuk melihat kecenderunganmu:
 
-**Skenario Pesan yang Tidak Dibalas:** *Kamu mengirim pesan penting kepada pasangan atau teman dekat. Pesan itu tidak dibalas selama enam jam, padahal status mereka terlihat sedang online.*
+**Skenario Pesan yang Tidak Dibalas:** *Kamu mengirim pesan penting kepada pasangan atau teman dekat. Pesan itu tidak dibalas selama enam jam, padahal status mereka terlihat sedang daring.*
 
 1. **Reaksi A:** "Mungkin dia sedang sibuk, aku tunggu saja." (Kecenderungan **Aman**)
 2. **Reaksi B:** Mulai panik, terus memeriksa ponsel, merasa bersalah, atau mengirim pesan beruntun demi memastikan mereka tidak marah. (Kecenderungan **Cemas**)
@@ -90,13 +90,13 @@ Gunakan pertanyaan-pertanyaan berikut sebagai bahan menulis di jurnal pribadi ka
 
 Gaya kelekatan tidak hanya memengaruhi hubungan romantis, tetapi juga terlihat dalam dinamika pekerjaan.
 
-**Budi dan Proyek Tim** Budi adalah manajer proyek yang kompeten. Namun, setiap kali menerima kritik membangun dari atasannya, dia merasa hancur secara emosional. Budi mulai bekerja lembur secara obsesif demi membuktikan kemampuannya. Di saat yang sama, timbul rasa kesal kepada sang atasan karena dianggap telah mengancam rasa amannya.
+**Budi dan Proyek Tim:** Budi adalah manajer proyek yang kompeten. Namun, setiap kali menerima kritik membangun dari atasannya, dia merasa hancur secara emosional. Budi mulai bekerja lembur secara obsesif demi membuktikan kemampuannya. Pada saat yang sama, timbul rasa kesal kepada sang atasan karena dianggap telah mengancam rasa amannya.
 
-**Analisis Pola:** Perilaku Budi menunjukkan gaya **Cemas-Preoccupied**. Kebutuhannya terhadap validasi luar sangat tinggi. Kritik baginya terasa seperti penolakan, memicu ketakutan mendalam akan ketidakmampuan diri. Pola ini sering kali berakar dari masa kecil ketika apresiasi hanya diberikan saat anak menunjukkan prestasi.
+**Analisis Pola:** Perilaku Budi menunjukkan gaya **Cemas (Anxious)**. Kebutuhannya terhadap validasi luar sangat tinggi. Kritik baginya terasa seperti penolakan, memicu ketakutan mendalam akan ketidakmampuan diri. Pola ini sering kali berakar dari masa kecil ketika apresiasi hanya diberikan saat anak menunjukkan prestasi.
 
 ## 7. Fleksibilitas dan Kesadaran
 
-Ingatlah bahwa gaya kelekatan bersifat **spektrum**, bukan kotak kaku. Kamu bisa saja merasa dominan aman, namun tetap memiliki kecenderungan menghindar dalam situasi konflik tertentu.
+Ingatlah bahwa gaya kelekatan bersifat **spektrum**, bukan kotak kaku. Kamu bisa saja merasa dominan aman, tetapi tetap memiliki kecenderungan menghindar dalam situasi konflik tertentu.
 
 **Langkah Selanjutnya:** Setelah mengenali pola dominanmu, hindari menghakimi diri sendiri. Menyadari pola tersebut sudah menjadi langkah awal menuju pemulihan.
 

@@ -38,14 +38,14 @@ Meskipun Italia adalah bagian dari Poros pimpinan Mussolini, mereka tetap diizin
 Selain pengucilan negara Poros, Piala Dunia 1950 juga diwarnai dengan ketegangan awal **Perang Dingin**.
 
 - **Blok Timur:** Negara-negara di bawah pengaruh Uni Soviet (seperti Cekoslowakia dan Hongaria) menolak berpartisipasi. Keputusan ini didasari alasan ideologis serta keengganan untuk bersaing dalam sistem "kapitalis" FIFA saat itu, bukan karena mereka terkena sanksi larangan bermain.
-- **Kasus India:** India mengundurkan diri, sering kali disebut karena FIFA melarang mereka bermain bertelanjang kaki. Namun, alasan geopolitik yang lebih dalam adalah biaya perjalanan yang sangat mahal dan prioritas domestik pasca-kemerdekaan dari Inggris.
+- **Kasus India:** India mengundurkan diri, sering kali disebut karena FIFA melarang mereka bermain bertelanjang kaki. Namun, alasan yang lebih mendasar adalah biaya perjalanan yang sangat mahal dan prioritas domestik pasca-kemerdekaan dari Inggris.
 
 ## 5. Sanksi Olahraga sebagai Instrumen Politik
 
 Pola pengucilan Jerman dan Jepang pada 1950 menjadi cetak biru bagi penggunaan **sanksi olahraga** di masa depan. Hingga hari ini, kita melihat mekanisme yang sama:
 
 - **Contoh Modern:** Pengucilan Rusia dari kualifikasi Piala Dunia 2022 akibat invasi ke Ukraina menjadi cerminan langsung dari apa yang dialami Jerman pada 1950.
-- **Fungsi:** Langkah pemboikotan semacam ini tidak hanya menghukum para atlet secara sepihak, tetapi juga menyampaikan pesan diplomatik yang kuat. Sebuah negara tidak dapat menikmati keistimewaan di panggung global selama mereka melanggar norma perdamaian internasional.
+- **Fungsi:** Langkah pengucilan semacam ini tidak hanya menghukum para atlet secara sepihak, tetapi juga menyampaikan pesan diplomatik yang kuat. Sebuah negara tidak dapat menikmati keistimewaan di panggung global selama mereka melanggar norma perdamaian internasional.
 
 ## Peta Partisipasi Piala Dunia 1950
 
@@ -63,6 +63,6 @@ Kondisi partisipasi pada 1950 dapat diringkas dalam tabel berikut. Selain negara
 
 ## Refleksi Sejarah
 
-Jika seandainya Jerman diizinkan ikut serta pada 1950, apakah menurut kamu sepak bola bisa mempercepat proses rekonsiliasi bangsa-bangsa di Eropa, atau justru memicu ketegangan baru karena luka perang yang belum pulih?
+Seandainya Jerman diizinkan ikut serta pada 1950, apakah menurut kamu sepak bola bisa mempercepat proses rekonsiliasi bangsa-bangsa di Eropa, atau justru memicu ketegangan baru karena luka perang yang belum pulih?
 
 > **Insight Penting:** Sepak bola sering kali dianggap sebagai "perang tanpa tembakan", istilah George Orwell. Namun, pada tahun 1950, sepak bola justru menjadi alat untuk memastikan bahwa mereka yang mengangkat senjata tidak diberikan panggung hingga perdamaian benar-benar terjamin.

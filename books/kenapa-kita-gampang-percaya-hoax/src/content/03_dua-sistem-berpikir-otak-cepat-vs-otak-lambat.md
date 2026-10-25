@@ -8,7 +8,7 @@ Kalau otakmu langsung menjawab **Rp1.000**, kamu baru saja mengalami sendiri apa
 
 ### Teori dua proses
 
-Psikolog dan peraih Nobel Daniel Kahneman, dalam bukunya *Thinking, Fast and Slow* (2011), memopulerkan gagasan bahwa cara kita berpikir bisa dibayangkan sebagai kerja dua sistem. Gagasan serupa juga dirumuskan secara akademis oleh Evans dan Stanovich (2013). Keduanya menyebutnya **dual-process theory**, teori dua proses.
+Psikolog dan peraih Nobel Daniel Kahneman, dalam bukunya *Thinking, Fast and Slow* (2011), memopulerkan gagasan bahwa cara kita berpikir bisa dibayangkan sebagai kerja dua sistem. Gagasan serupa juga dirumuskan secara akademis oleh Evans dan Stanovich (2013). Kerangka ini dikenal sebagai **dual-process theory**, teori dua proses.
 
 - **Sistem 1** bekerja cepat, otomatis, dan intuitif. Ia menyala tanpa kamu minta. Saat kamu mengenali wajah teman, membaca kata "kucing", atau merasa jijik melihat makanan basi, itu Sistem 1. Ia hemat energi dan nyaris tidak terasa capek.
 - **Sistem 2** bekerja lambat, analitis, dan penuh usaha. Ia yang kamu pakai saat mengalikan 17 dengan 24, memarkir mobil di celah sempit, atau mengevaluasi apakah sebuah argumen masuk akal. Sistem 2 butuh konsentrasi dan cepat lelah.
@@ -88,4 +88,4 @@ Jangan salah tangkap. Intuisi tidak selalu keliru. Sistem 1 yang terlatih bisa a
 - Riset menunjukkan kerentanan pada berita palsu lebih soal **kurang berpikir reflektif** daripada soal kecerdasan atau fanatisme; berpikir lebih dalam justru cenderung mengoreksi kepercayaan pada hoaks.
 - Intuisi tidak selalu salah. Yang berbahaya adalah tidak menyalakan otak lambat saat momen itu penting.
 
-Kalau Sistem 1 begitu sering keliru, kesalahannya ternyata bukan acak. Ia mengikuti pola-pola tertentu yang bisa diprediksi, jalan-jalan pintas mental yang punya nama dan cara kerjanya sendiri. Pintasan itulah yang kita bongkar di modul berikutnya: **Heuristik dan Bias Kognitif**.
+Kalau Sistem 1 begitu sering keliru, kesalahannya ternyata bukan acak. Ia mengikuti pola-pola tertentu yang bisa diprediksi, jalan-jalan pintas mental yang punya nama dan cara kerjanya sendiri. Pintasan itulah yang kita bongkar di bab 4: **Heuristik dan Bias Kognitif**.

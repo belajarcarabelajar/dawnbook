@@ -8,7 +8,7 @@ Guna memudahkan kamu dalam menelusuri penemuan ilmiah dan memperdalam studi lite
 
 ### Buku & Monograf Akademik Utama
 
-Beck, A. T. (1979). *Cognitive therapy of depression*. Guilford Press. [https://lccn.loc.gov/79019967](https://lccn.loc.gov/79019967)
+Beck, A. T., Rush, A. J., Shaw, B. F., & Emery, G. (1979). *Cognitive therapy of depression*. Guilford Press. [https://lccn.loc.gov/79019967](https://lccn.loc.gov/79019967)
 
 Cannon, W. B. (1932). *The wisdom of the body*. W. W. Norton & Company. [https://lccn.loc.gov/32026227](https://lccn.loc.gov/32026227)
 
@@ -40,7 +40,7 @@ Selye, H. (1956). *The stress of life*. McGraw-Hill. [https://lccn.loc.gov/56013
 
 Carver, C. S., Scheier, M. F., & Weintraub, J. K. (1989). Assessing coping strategies: A theoretically based approach. *Journal of Personality and Social Psychology*, 56(2), 267–283. [https://doi.org/10.1037/0022-3514.56.2.267](https://doi.org/10.1037/0022-3514.56.2.267)
 
-Chrousos, G. P. (2009). Stress and disorders of the stress system. *Nature Reviews Endocrinology*, 5(7), 374–381. [https://doi.org/10.1038/nrend.2009.106](https://doi.org/10.1038/nrend.2009.106)
+Chrousos, G. P. (2009). Stress and disorders of the stress system. *Nature Reviews Endocrinology*, 5(7), 374–381. [https://doi.org/10.1038/nrendo.2009.106](https://doi.org/10.1038/nrendo.2009.106)
 
 Cohen, S., & Wills, T. A. (1985). Stress, social support, and the buffering hypothesis. *Psychological Bulletin*, 98(2), 310–357. [https://doi.org/10.1037/0033-2909.98.2.310](https://doi.org/10.1037/0033-2909.98.2.310)
 

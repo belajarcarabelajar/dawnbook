@@ -2,7 +2,7 @@
 
 Pernahkah kamu bertanya-tanya mengapa seseorang rela menghabiskan waktu empat tahun di universitas dan membayar biaya kuliah yang mahal? Ia bisa saja langsung bekerja setelah lulus SMA dan menghasilkan uang.
 
-Dalam **Teori Modal Manusia** (*Human Capital Theory*), keputusan ini bukan sekadar mengejar gelar atau prestise sosial. Pendidikan dipandang sebagai sebuah **investasi**, persis seperti perusahaan yang membeli mesin baru untuk meningkatkan kapasitas produksi. Keputusan untuk melanjutkan pendidikan merupakan hasil kalkulasi rasional antara pengorbanan hari ini dengan potensi imbalan di masa depan.
+Dalam **Teori Modal Manusia** (*Human Capital Theory*), keputusan ini bukan sekadar mengejar gelar atau prestise sosial. Pendidikan dipandang sebagai sebuah **investasi**, persis seperti perusahaan yang membeli mesin baru untuk meningkatkan kapasitas produksi. Keputusan untuk melanjutkan pendidikan merupakan hasil kalkulasi rasional antara pengorbanan hari ini dan potensi imbalan di masa depan.
 
 ---
 
@@ -37,7 +37,7 @@ Biaya langsung mencakup seluruh pengeluaran riil yang keluar dari dompetmu:
 
 Biaya peluang merupakan komponen yang paling sering diabaikan, padahal nilainya kerap menjadi **biaya terbesar** dalam keputusan pendidikan. **Biaya peluang** (*opportunity cost*) adalah potensi pendapatan yang *seharusnya* kamu terima jika kamu memilih untuk bekerja penuh waktu daripada bersekolah.
 
-> **Analogi Persimpangan Jalan:** Bayangkan kamu berdiri di sebuah persimpangan. Jalan A menuju universitas selama 4 tahun. Jalan B menuju dunia kerja dengan gaji Rp 5.000.000 per bulan. Jika kamu memilih Jalan A, biayamu bukan hanya uang SPP kuliah, melainkan juga Rp 5.000.000 setiap bulan yang tidak pernah masuk ke rekening bankmu selama 4 tahun tersebut.
+> **Analogi Persimpangan Jalan:** Bayangkan kamu berdiri di sebuah persimpangan. Jalan A menuju universitas selama 4 tahun. Jalan B menuju dunia kerja dengan gaji Rp5.000.000 per bulan. Jika kamu memilih Jalan A, biayamu bukan hanya uang SPP kuliah, melainkan juga Rp5.000.000 setiap bulan yang tidak pernah masuk ke rekening bankmu selama 4 tahun tersebut.
 
 ---
 
@@ -45,7 +45,7 @@ Biaya peluang merupakan komponen yang paling sering diabaikan, padahal nilainya 
 
 Manfaat utama dari pendidikan dalam perspektif modal manusia adalah peningkatan produktivitas individu. Karena keterampilan dan pengetahuanmu meningkat, pemberi kerja bersedia membayarmu dengan tingkat kompensasi yang lebih tinggi.
 
-1. **Peningkatan Pendapatan (*Earning Differential*):** Selisih pendapatan antara lulusan universitas dengan lulusan SMA sepanjang masa kerja aktif.
+1. **Peningkatan Pendapatan (*Earning Differential*):** Selisih pendapatan antara lulusan universitas dan lulusan SMA sepanjang masa kerja aktif.
 2. **Stabilitas dan Keamanan Kerja:** Tenaga kerja terdidik cenderung memiliki risiko pengangguran yang lebih rendah selama krisis ekonomi.
 3. **Manfaat Non-Moneter:** Kepuasan kerja (*job satisfaction*), perluasan jaringan profesional (*networking*), serta kenaikan status sosial.
 
@@ -88,11 +88,11 @@ Mari bandingkan alur finansial dua lulusan SMA dengan pilihan jalur yang berbeda
 | Parameter Perbandingan | Andi (Langsung Bekerja) | Budi (Kuliah 4 Tahun) |
 | :--- | :--- | :--- |
 | **Pilihan Usia 18–22 Tahun** | Bekerja penuh waktu | Menempuh studi sarjana |
-| **Pendapatan Usia 18–22 Tahun** | Rp 40 Juta / tahun (Total: Rp 160 Juta) | Rp 0 / tahun |
-| **Biaya Langsung Studi** | Rp 0 | Rp 20 Juta / tahun (Total: Rp 80 Juta) |
-| **Total Investasi Pendidikan** | Rp 0 | **Rp 240 Juta** (Biaya Langsung + Biaya Peluang) |
-| **Gaji Pasca Usia 22 Tahun** | Rp 40 Juta / tahun | Rp 70 Juta / tahun |
-| **Selisih Pendapatan Tahunan** | Baseline (Rp 0) | **+ Rp 30 Juta / tahun** |
+| **Pendapatan Usia 18–22 Tahun** | Rp40 Juta / tahun (Total: Rp160 Juta) | Rp0 / tahun |
+| **Biaya Langsung Studi** | Rp0 | Rp20 Juta / tahun (Total: Rp80 Juta) |
+| **Total Investasi Pendidikan** | Rp0 | **Rp240 Juta** (Biaya Langsung + Biaya Peluang) |
+| **Gaji Pasca Usia 22 Tahun** | Rp40 Juta / tahun | Rp70 Juta / tahun |
+| **Selisih Pendapatan Tahunan** | Baseline (Rp0) | **+ Rp30 Juta / tahun** |
 
 Pada tahap awal, Andi tampak unggul secara finansial karena langsung memiliki tabungan. Namun, setelah usia 22 tahun, garis pendapatan Budi melampaui Andi. 
 
@@ -108,17 +108,17 @@ xychart
     bar [40, 0, 40, 70]
 ```
 
-Selisih gaji sebesar Rp 30 Juta per tahun ($70 - 40$) akan menutup total investasi sebesar Rp 240 Juta dalam waktu 8 tahun kerja. Titik temu ini menandai akhir dari masa balik modal (*payback period*) investasi pendidikan Budi.
+Selisih gaji sebesar Rp30 Juta per tahun ($70 - 40$) akan menutup total investasi sebesar Rp240 Juta dalam waktu 8 tahun kerja. Titik temu ini menandai akhir dari masa balik modal (*payback period*) investasi pendidikan Budi.
 
 ---
 
-### 6. Faktor yang Mempengaruhi Keputusan Investasi
+### 6. Faktor yang Memengaruhi Keputusan Investasi
 
 Beberapa variabel utama menentukan besarnya tingkat pengembalian (*rate of return*) investasi pendidikan:
 
-1. **Usia dan Horison Waktu ($T$):** Semakin muda seseorang saat menempuh pendidikan, semakin panjang sisa usia kerjanya untuk menikmati gaji tinggi. Hal ini menjelaskan mengapa investasi perguruan tinggi lebih umum dilakukan di usia muda.
+1. **Usia dan Horizon Waktu ($T$):** Semakin muda seseorang saat menempuh pendidikan, semakin panjang sisa usia kerjanya untuk menikmati gaji tinggi. Hal ini menjelaskan mengapa investasi perguruan tinggi lebih umum dilakukan di usia muda.
 2. **Besar Selisih Pendapatan (*Earning Differential*):** Semakin lebar jurang gaji antara lulusan SMA dan sarjana di pasar kerja, semakin tinggi insentif individu untuk kuliah.
-3. **Subsidized Education:** Jika pemerintah memberikan subsidi pendidikan yang menurunkan biaya langsung ($\text{C}\_t$), tingkat pengembalian investasi individu akan meningkat dan mendorong partisipasi pendidikan yang lebih luas.
+3. **Subsidi Pendidikan (*Subsidized Education*):** Jika pemerintah memberikan subsidi pendidikan yang menurunkan biaya langsung ($\text{C}\_t$), tingkat pengembalian investasi individu akan meningkat dan mendorong partisipasi pendidikan yang lebih luas.
 
 ---
 
@@ -126,14 +126,14 @@ Beberapa variabel utama menentukan besarnya tingkat pengembalian (*rate of retur
 
 Fenomena **Brain Drain** (perpindahan tenaga ahli ke luar negeri) dapat dijelaskan melalui analisis biaya-manfaat. Ketika individu telah mengeluarkan investasi besar untuk membangun modal manusia, mereka cenderung mencari pasar kerja yang menawarkan pengembalian tertinggi.
 
-Meskipun biaya migrasi awal cukup tinggi, perbedaan manfaat moneter ($\text{B}\_t$) yang besar di negara maju membuat kalkulasi $\text{NPV}$ tetap bernilai positif. Akibatnya, tenaga profesional seperti dokter dan insinyur terdorong untuk bermigrasi ke negara dengan standar kompensasi yang lebih tinggi.
+Meskipun biaya migrasi awal cukup tinggi, perbedaan manfaat moneter ($\text{B}\_t$) yang besar di negara maju dapat membuat kalkulasi $\text{NPV}$ tetap bernilai positif. Akibatnya, tenaga profesional seperti dokter dan insinyur terdorong untuk bermigrasi ke negara dengan standar kompensasi yang lebih tinggi.
 
 ---
 
 ### Checklist Evaluasi Diri
 
 - Apakah kamu sudah memperhitungkan biaya peluang (pendapatan yang hilang) sebelum mengambil gelar atau sertifikasi baru?
-- Seberapa panjang sisa horison waktu kerjamu untuk memanen tingkat pengembalian dari investasi pendidikan ini?
+- Seberapa panjang sisa horizon waktu kerjamu untuk memanen tingkat pengembalian dari investasi pendidikan ini?
 - Apakah peningkatan keterampilan yang kamu targetkan akan meningkatkan produktivitasmu secara nyata di pasar kerja?
 
 > **Pesan Utama:** Pendidikan bukan sekadar proses menimba ilmu, melainkan strategi mengelola alokasi waktu dan dana untuk mengoptimalkan akumulasi modal manusia sepanjang hidupmu.

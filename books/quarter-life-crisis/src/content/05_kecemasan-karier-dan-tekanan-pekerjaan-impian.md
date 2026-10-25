@@ -10,7 +10,7 @@ Sejak kecil, kita sering ditanya, *"Kalau besar mau jadi apa?"*. Pertanyaan ini 
 
 ### Mengapa Konsep Ini Berbahaya?
 
-Banyak dari kita terjebak dalam pemikiran bahwa jika kita belum menemukan "Pekerjaan Impian", maka kita telah gagal. Padahal, karier lebih mirip dengan **LEGO** daripada sebuah patung marmer yang sekali jadi. Karier dibangun balok demi balok, seringkali dengan bongkar pasang yang berantakan.
+Banyak dari kita terjebak dalam pemikiran bahwa jika kita belum menemukan "Pekerjaan Impian", maka kita telah gagal. Padahal, karier lebih mirip dengan **LEGO** daripada sebuah patung marmer yang sekali jadi. Karier dibangun balok demi balok, sering kali dengan bongkar pasang yang berantakan.
 
 **Analogi Restoran All-You-Can-Eat**
 
@@ -18,7 +18,7 @@ Banyak dari kita terjebak dalam pemikiran bahwa jika kita belum menemukan "Peker
 
 ## 2\. Memahami Sindrom Imposter (Imposter Syndrome)
 
-Pernahkah kamu duduk di meja kerja, menyelesaikan tugas dengan baik, namun merasa bahwa kamu hanyalah seorang "penipu" yang beruntung? Kamu merasa bahwa sebentar lagi rekan kerja atau atasan kamu akan menyadari bahwa kamu sebenarnya tidak kompeten.
+Pernahkah kamu duduk di meja kerja, menyelesaikan tugas dengan baik, tetapi merasa bahwa kamu hanyalah seorang "penipu" yang beruntung? Kamu merasa bahwa sebentar lagi rekan kerja atau atasan kamu akan menyadari bahwa kamu sebenarnya tidak kompeten.
 
 Itulah **Sindrom Imposter**. Di awal masa dewasa, fenomena ini menguat karena kita sedang bertransisi dari lingkungan akademis (yang terstruktur dengan nilai) ke dunia profesional (yang penuh ambiguitas).
 
@@ -32,7 +32,7 @@ Itulah **Sindrom Imposter**. Di awal masa dewasa, fenomena ini menguat karena ki
 
 ## 3\. Beban Ambisi dan Perbandingan Sosial
 
-Dalam ekonomi digital saat ini, ambisi seringkali menjadi beban. Kita tidak hanya ingin sukses, kita ingin sukses **secepat mungkin**.
+Dalam ekonomi digital saat ini, ambisi sering kali menjadi beban. Kita tidak hanya ingin sukses, kita ingin sukses **secepat mungkin**.
 
 ### Persamaan Ketidakbahagiaan Karier
 
@@ -46,7 +46,7 @@ Semakin tinggi ekspektasimu dan semakin sering kamu membandingkan diri dengan pe
 
 ## 4\. Menavigasi Ketidakpastian Jalur Karier
 
-Dunia kerja saat ini tidak lagi bersifat linear. Jika generasi orang tua kita mungkin bekerja di satu perusahaan selama 30 tahun, generasi saat ini mungkin akan berganti karier (bukan hanya pindah tempat kerja) sebanyak 3-5 kali seumur hidup.
+Dunia kerja saat ini tidak lagi bersifat linear. Jika generasi orang tua kita mungkin bekerja di satu perusahaan selama 30 tahun, generasi saat ini mungkin akan berganti karier (bukan hanya pindah tempat kerja) beberapa kali seumur hidup.
 
 ### Strategi Menghadapi Ketidakpastian
 
@@ -58,10 +58,10 @@ Dunia kerja saat ini tidak lagi bersifat linear. Jika generasi orang tua kita mu
 
 ### A. Insinyur Perangkat Lunak Muda (Technical Context)
 
-**Skenario:** Budi baru saja diterima di sebuah perusahaan teknologi besar (*Big Tech*). Setiap hari dia merasa cemas saat melakukan *code review*. Dia merasa kodingannya berantakan dibandingkan seniornya dan takut dipecat setiap kali ada *bug* yang muncul.
+**Skenario:** Budi baru enam bulan diterima di sebuah perusahaan teknologi besar (*Big Tech*). Setiap hari dia merasa cemas saat melakukan *code review*. Dia merasa kodingannya berantakan dibandingkan seniornya dan takut dipecat setiap kali ada *bug* yang muncul.
 
 - **Masalah:** Sindrom Imposter dan tekanan "Pekerjaan Impian".
-- **Solusi:** Budi perlu menyadari bahwa seniornya memiliki waktu 10.000 jam lebih banyak darinya. Dia harus mengubah pola pikirnya dari "Saya harus tahu segalanya" menjadi "Saya adalah mesin pembelajar".
+- **Solusi:** Budi perlu menyadari bahwa seniornya memiliki jam terbang lebih banyak darinya. Dia harus mengubah pola pikirnya dari "Saya harus tahu segalanya" menjadi "Saya adalah mesin pembelajar".
 
 ### B. Lulusan Komunikasi yang Menjadi Admin
 

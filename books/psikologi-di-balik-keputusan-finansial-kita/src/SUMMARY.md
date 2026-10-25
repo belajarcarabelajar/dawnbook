@@ -6,7 +6,7 @@
 - [Rasa Sakit Membayar](content/04_rasa-sakit-membayar.md)
 - [Bias Masa Kini](content/05_bias-masa-kini-masa-depan-selalu-kalah.md)
 - [Rasa Takut Kehilangan](content/06_rasa-takut-kehilangan.md)
-- [Menjual Pemenang, Mengikuti Pengalah](content/07_menjual-pemenang-mengikuti-pengalah.md)
+- [Menjual Pemenang, Menahan yang Kalah](content/07_menjual-pemenang-mengikuti-pengalah.md)
 - [Angka Pertama yang Menjadi Jangkar](content/08_angka-pertama-yang-membelenggu.md)
 - [Terlalu Percaya Diri](content/09_terlalu-percaya-diri-di-pasar.md)
 - [Ikut Arus](content/10_ikut-arus-fomo-dan-kekuatan-kerumunan.md)

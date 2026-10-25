@@ -1,6 +1,6 @@
 ## Pola Pikir Berkembang (Growth Mindset)
 
-Pernahkah kamu merasa bahwa bakat adalah sesuatu yang dibawa sejak lahir? Bahwa jika kamu tidak mahir dalam matematika atau seni sekarang, maka kamu tidak akan pernah bisa mahir selamanya? Pemikiran seperti ini adalah awal dari apa yang kita sebut sebagai hambatan mental.
+Pernahkah kamu merasa bahwa bakat adalah sesuatu yang dibawa sejak lahir? Bahwa jika kamu tidak mahir dalam matematika atau seni sekarang, maka kamu tidak akan pernah bisa mahir? Pemikiran seperti ini adalah awal dari apa yang kita sebut sebagai hambatan mental.
 
 Dalam perjalanan membangun resiliensi, **Pola Pikir Berkembang (Growth Mindset)** membuat kita terus maju meskipun berkali-kali gagal. Tanpa pola pikir ini, setiap kegagalan akan terasa seperti penilaian akhir atas harga diri kita.
 
@@ -34,19 +34,19 @@ Salah satu teknik sederhana untuk beralih ke pola pikir berkembang adalah dengan
 
 Kata "belum" memberi ruang bagi masa depan. Ia mengubah kegagalan dari sebuah kondisi permanen menjadi sebuah proses yang sedang berjalan.
 
-*Apa satu hal yang selama ini kamu katakan "Saya tidak bisa" pada diri sendiri? Coba tambahkan kata "belum" di akhir kalimat tersebut dan rasakan perbedaannya di pikiranmu.*
+*Apa satu hal yang selama ini kamu katakan "Saya tidak bisa" pada diri sendiri? Coba ganti kata "tidak" dengan "belum" dan rasakan perbedaannya di pikiranmu.*
 
 ### 4. Dasar Ilmiah Neuroplastisitas
 
-Mengapa kita yakin otak bisa berubah? Jawabannya adalah **Neuroplastisitas**. Otak manusia bisa beradaptasi. Setiap kali kita mempelajari sesuatu yang baru atau memecahkan masalah sulit, koneksi antar neuron (sinapsis) di otak kita menjadi lebih kuat.
+Mengapa kita yakin otak bisa berubah? Jawabannya adalah **Neuroplastisitas**. Otak manusia bisa beradaptasi. Setiap kali kita mempelajari sesuatu yang baru atau memecahkan masalah sulit, koneksi antarneuron (sinapsis) di otak kita menjadi lebih kuat.
 
-Secara matematis, pertumbuhan kemampuan kita tidak berjalan lurus (linear), tetapi bisa melonjak secara eksponensial jika kita konsisten. Jika $\text{P}$ adalah potensi dan $\text{t}$ adalah waktu dengan usaha yang tepat, maka:
+Sebagai ilustrasi sederhana (bukan model ilmiah yang baku), pertumbuhan kemampuan kita tidak selalu berjalan lurus (linear), tetapi bisa melonjak secara eksponensial jika kita konsisten. Jika $\text{P}$ adalah potensi dan $\text{t}$ adalah waktu dengan usaha yang tepat, maka:
 
 $$
 \text{P}(\text{t}) = \text{P}_0 \cdot e^{\text{k}\text{t}}
 $$
 
-Di mana:
+Keterangan:
 
 - $\text{P}_0$ adalah kemampuan awal.
 - $\text{k}$ adalah konstanta tingkat pembelajaran (seberapa terbuka kita pada umpan balik).
@@ -61,7 +61,7 @@ Mengubah pola pikir tidak terjadi semalam. Ini adalah proses "re-wiring" otakmu.
 1. **Kenali Suara "Fixed Mindset":** Saat kamu gagal dan mendengar suara internal berkata, *"Sudah kubilang kan kamu tidak berbakat,"* segera sadari bahwa itu adalah jebakan pola pikir tetap.
 2. **Balas dengan Suara "Growth Mindset":** Jawab suara tersebut dengan, *"Mungkin saya memang belum mahir sekarang, tapi saya bisa belajar dari kesalahan ini."*
 3. **Hargai Proses, Bukan Hanya Hasil:** Alih-alih memuji diri sendiri karena "pintar", pujilah diri sendiri karena "strategi yang tepat" atau "usaha yang gigih".
-4. **Cari Tantangan yang Tepat:** Keluar dari zona nyaman secara bertahap. Jika terlalu mudah, kamu tidak belajar; jika terlalu sulit, kamu bisa frustrasi. Cari "Sweet Spot" di mana kamu merasa sedikit kesulitan namun masih tertantang.
+4. **Cari Tantangan yang Tepat:** Keluar dari zona nyaman secara bertahap. Jika terlalu mudah, kamu tidak belajar; jika terlalu sulit, kamu bisa frustrasi. Cari "Sweet Spot" tempat kamu merasa sedikit kesulitan tetapi masih tertantang.
 
 ### 6. Penerapan Nyata & Skenario
 
@@ -69,17 +69,17 @@ Mengubah pola pikir tidak terjadi semalam. Ini adalah proses "re-wiring" otakmu.
 
 Seorang junior developer menghadapi *bug* yang tidak kunjung selesai selama dua hari.
 
-- **Respon Fixed:** "Mungkin saya bukan orang logika. Saya tidak cocok jadi programmer." (Menyerah dan frustrasi).
-- **Respon Growth:** "Bug ini menunjukkan ada konsep memori yang belum saya pahami. Ini adalah kesempatan untuk mendalami dokumentasi lebih jauh."
+- **Respons Fixed:** "Mungkin saya bukan orang logika. Saya tidak cocok jadi programmer." (Menyerah dan frustrasi).
+- **Respons Growth:** "Bug ini menunjukkan ada konsep memori yang belum saya pahami. Ini adalah kesempatan untuk mendalami dokumentasi lebih jauh."
 
 Respons growth ini bisa diulang sebagai sebuah siklus sampai berhasil: mencoba, gagal, menganalisis kesalahan (inilah momen *growth*), menyesuaikan strategi, lalu mencoba lagi dengan bekal pemahaman yang baru.
 
-#### Kepemimpinan di Kantor
+#### Dunia Kerja di Kantor
 
 Kamu menerima umpan balik negatif dari atasan mengenai presentasimu.
 
-- **Respon Fixed:** Merasa malu, menghindari atasan, dan menganggap atasan tidak menyukaimu secara pribadi.
-- **Respon Growth:** Mencatat poin-poin kekurangan, meminta saran spesifik untuk perbaikan, dan berlatih berbicara di depan cermin untuk presentasi berikutnya.
+- **Respons Fixed:** Merasa malu, menghindari atasan, dan menganggap atasan tidak menyukaimu secara pribadi.
+- **Respons Growth:** Mencatat poin-poin kekurangan, meminta saran spesifik untuk perbaikan, dan berlatih berbicara di depan cermin untuk presentasi berikutnya.
 
 ### 7. Latihan Membingkai Ulang Kegagalan
 

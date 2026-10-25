@@ -1,6 +1,6 @@
 ## Nietzsche dan Transformasi Nilai
 
-Friedrich Nietzsche adalah seorang filsuf sekaligus kritikus kebudayaan yang menggunakan "palu" sebagai alat berfilsafatnya. Jika bagian sebelumnya membahas bagaimana eksistensialisme berakar dari krisis nilai, di sini kita akan membahas krisis itu lebih dekat. Nietzsche tidak hanya mengamati runtuhnya nilai-nilai lama, ia merayakannya sebagai peluang bagi manusia untuk mencapai potensi tertingginya.
+Friedrich Nietzsche adalah seorang filsuf sekaligus kritikus kebudayaan yang menggunakan "palu" sebagai alat berfilsafatnya. Jika bagian sebelumnya membahas bagaimana eksistensialisme berakar dari krisis nilai, di sini kita akan membahas krisis itu lebih dekat. Nietzsche tidak hanya mengamati runtuhnya nilai-nilai lama, tetapi juga merayakannya sebagai peluang bagi manusia untuk mencapai potensi tertingginya.
 
 ## 1. "Tuhan Telah Mati"
 
@@ -8,7 +8,7 @@ Banyak yang menyalahartikan kutipan paling terkenal Nietzsche, *Gott ist tot* (T
 
 ### Apa Maknanya?
 
-Nietzsche melihat bahwa di akhir abad ke-19, ilmu pengetahuan dan rasionalitas telah mengikis fondasi kepercayaan agama dan metafisika tradisional. Masyarakat tidak lagi benar-benar hidup berdasarkan perintah Tuhan, meskipun mereka masih berpura-pura melakukannya.
+Nietzsche melihat bahwa pada akhir abad ke-19, ilmu pengetahuan dan rasionalitas telah mengikis fondasi kepercayaan agama dan metafisika tradisional. Masyarakat tidak lagi benar-benar hidup berdasarkan perintah Tuhan, meskipun mereka masih berpura-pura melakukannya.
 
 > "Tuhan telah mati. Tuhan tetap mati. Dan kita telah membunuhnya."
 
@@ -31,7 +31,7 @@ Untuk keluar dari nihilisme, Nietzsche menawarkan konsep revaluasi nilai. Ia men
 - **Moralitas Budak:** Nilai-nilai yang memuja kerendahhatian, kepatuhan, dan pengorbanan diri (sering diasosiasikan Nietzsche dengan institusi agama tradisional). Ini dianggap sebagai bentuk kebencian terhadap kekuatan hidup.
 - **Moralitas Tuan (*Master Morality*):** Nilai-nilai yang memuja kekuatan, kebangsawanan jiwa, kreativitas, dan penegasan diri.
 
-Nietzsche menyerukan kita untuk menjadi "Filsuf dengan Palu" guna menghancurkan berhala-berhala lama (ideologi yang membatasi potensi manusia) dan menciptakan nilai baru yang berasal dari dalam diri sendiri, bukan dari luar.
+Nietzsche menyerukan kepada kita untuk menjadi "Filsuf dengan Palu" guna menghancurkan berhala-berhala lama (ideologi yang membatasi potensi manusia) dan menciptakan nilai baru yang berasal dari dalam diri sendiri, bukan dari luar.
 
 ## 4. Menjadi *Übermensch*
 
@@ -67,7 +67,7 @@ Bayangkan seseorang bernama Budi. Selama 10 tahun, Budi bekerja sebagai akuntan 
 - **Kematian Tuhan** adalah hilangnya otoritas moral absolut di dunia modern.
 - **Nihilisme** adalah tantangan terbesar manusia; kita harus memilih untuk menjadi aktif atau pasif.
 - ***Übermensch*** adalah cita-cita manusia yang mampu menciptakan maknanya sendiri (menjadi "Anak Kecil" yang bermain dengan nilai-nilai).
-- ***Amor Fati*** (Cintai Takdirmu): Sebuah konsep pendukung di mana kita mencintai setiap detik kehidupan kita, termasuk penderitaannya, karena itulah yang membentuk kita.
+- ***Amor Fati*** (Cintai Takdirmu): Sebuah konsep pendukung yaitu kita mencintai setiap detik kehidupan kita, termasuk penderitaannya, karena itulah yang membentuk kita.
 
 > **Pesan Utama:** Jangan sekadar mengikuti nilai-nilai orang lain. Ciptakan nilaimu sendiri.
 

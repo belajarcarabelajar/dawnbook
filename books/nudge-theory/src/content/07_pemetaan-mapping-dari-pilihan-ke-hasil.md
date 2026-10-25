@@ -1,6 +1,6 @@
 ## Pemetaan (Mapping) dari Pilihan ke Hasil
 
-Pernahkah kamu berdiri di depan rak supermarket, menatap dua botol deterjen, dan mencoba mencari tahu mana yang lebih hemat? Satu botol berisi 1,5 liter seharga Rp45.000, sementara yang lain adalah paket isi ulang 800ml seharga Rp26.000 dengan promo "Beli 2 Gratis 1".
+Pernahkah kamu berdiri di depan rak supermarket, menatap dua botol deterjen, dan mencoba mencari tahu mana yang lebih hemat? Satu botol berisi 1,5 liter seharga Rp45.000, sementara yang lain adalah paket isi ulang 800 ml seharga Rp26.000 dengan promo "Beli 2 Gratis 1".
 
 Tiba-tiba, tugas sederhana membeli sabun cuci berubah menjadi soal hitungan yang membingungkan. Masalahnya, kita sering kali mahir melihat pilihan, tetapi buruk dalam memetakan pilihan tersebut ke hasil nyata yang akan dirasakan dalam keseharian.
 
@@ -8,7 +8,7 @@ Dalam Arsitektur Pilihan, **Pemetaan (Mapping)** adalah teknik untuk membantu or
 
 ### Apa itu Pemetaan (Mapping)?
 
-*Mapping* adalah proses mental di mana seseorang mencoba menjawab pertanyaan: *"Jika saya memilih opsi A, apa dampaknya bagi hidup saya nanti?"*
+*Mapping* adalah proses mental ketika seseorang mencoba menjawab pertanyaan: *"Jika saya memilih opsi A, apa dampaknya bagi hidup saya nanti?"*
 
 Arsitek pilihan yang baik menyadari bahwa manusia sering kali mengalami kesulitan dalam melakukan pemetaan ini karena beberapa alasan:
 
@@ -87,7 +87,7 @@ Dengan kopi seharga Rp40.000 per hari selama 20 tahun, hitungannya menjadi seper
 | Lama menabung ($n$) | 20 tahun |
 | Nilai tabungan setelah 20 tahun | sekitar Rp569.293.809 |
 
-Dari hasil itu, aplikasi bisa menampilkan kalimat yang langsung terasa: *"Berhenti membeli kopi seharga Rp40.000 setiap hari akan memberikanmu sekitar Rp569 juta dalam 20 tahun."*
+Dari hasil itu, aplikasi bisa menampilkan kalimat yang langsung terasa: *"Jika uang kopi Rp40.000 per hari kamu kumpulkan, setor setiap awal tahun, dan kembangkan dengan bunga 6% per tahun, dalam 20 tahun nilainya bisa mencapai sekitar Rp569 juta."*
 
 ### Mengapa Ini Penting?
 

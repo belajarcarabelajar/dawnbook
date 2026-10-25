@@ -1,6 +1,6 @@
 ## Kognisi Sosial dan Struktur Wacana menurut Teun van Dijk
 
-Pernahkah terlintas pertanyaan mengapa sebuah kebijakan keamanan yang ketat seringkali diterima dengan tangan terbuka oleh masyarakat? Padahal, kebijakan tersebut mungkin membatasi kebebasan sipil. Jawabannya seringkali tidak terletak pada fakta-fakta statistik kejahatan, melainkan pada bagaimana pesan tersebut dikonstruksi dalam pikiran publik.
+Pernahkah terlintas pertanyaan mengapa sebuah kebijakan keamanan yang ketat sering kali diterima dengan tangan terbuka oleh masyarakat? Padahal, kebijakan tersebut mungkin membatasi kebebasan sipil. Jawabannya sering kali tidak terletak pada fakta-fakta statistik kejahatan, melainkan pada bagaimana pesan tersebut dikonstruksi dalam pikiran publik.
 
 Dalam kerangka Analisis Wacana Kritis (AWK), **Teun van Dijk** menawarkan perspektif yang unik dengan memasukkan elemen "jembatan" yang hilang dalam analisis bahasa tradisional: **Kognisi Sosial**.
 
@@ -20,25 +20,25 @@ $$
 - **Kognisi Sosial (Social Cognition):** Representasi mental, skema, dan prasangka yang dimiliki oleh anggota kelompok (misalnya, ketakutan kolektif terhadap orang asing).
 - **Masyarakat (Society):** Struktur kekuasaan dan institusi (misalnya, kepolisian, kementerian hukum, atau media massa).
 
-> **Wawasan Penting:** Kekuasaan (*power*) tidak hanya bekerja dengan memaksa tubuh manusia, tetapi dengan mengelola pikiran mereka melalui wacana. Jika elit dapat mengontrol apa yang orang pikirkan tentang kejahatan, mereka dapat mengontrol bagaimana orang tersebut akan bertindak.
+> **Wawasan Penting:** Kekuasaan (*power*) tidak hanya bekerja dengan memaksa tubuh manusia, tetapi juga dengan mengelola pikiran mereka melalui wacana. Jika elite dapat mengontrol apa yang orang pikirkan tentang kejahatan, mereka dapat mengontrol bagaimana orang tersebut akan bertindak.
 
 ## 2. Struktur Wacana
 
 Van Dijk membagi analisis teks ke dalam tiga tingkatan hierarkis yang membantu kita melihat bagaimana manipulasi isu keamanan dilakukan secara halus:
 
-### A. Makro-struktur (Tematik)
+### A. Makrostruktur (Tematik)
 
-Ini adalah "inti" atau topik utama dari sebuah wacana. Dalam kriminologi, elit sering memilih topik yang membangkitkan urgensi.
+Ini adalah "inti" atau topik utama dari sebuah wacana. Dalam kriminologi, elite sering memilih topik yang membangkitkan urgensi.
 
 - *Contoh:* Menetapkan topik "Kota dalam Keadaan Bahaya" di halaman depan surat kabar selama seminggu berturut-turut.
 
-### B. Super-struktur (Skematik)
+### B. Superstruktur (Skematik)
 
-Bagaimana bagian-bagian wacana disusun. Struktur ini biasanya mengikuti alur: **Pendahuluan $\rightarrow$ Masalah $\rightarrow$ Solusi (yang diinginkan elit).**
+Bagaimana bagian-bagian wacana disusun. Struktur ini biasanya mengikuti alur: **Pendahuluan $\rightarrow$ Masalah $\rightarrow$ Solusi (yang diinginkan elite).**
 
 - *Analogi:* Seperti sebuah skrip film, jika penonton sudah disuguhi adegan "masalah" yang mengerikan di awal, mereka akan menerima "solusi" apa pun di akhir, meski solusi itu drastis.
 
-### C. Mikro-struktur (Makna Lokal)
+### C. Mikrostruktur (Makna Lokal)
 
 Di sinilah detail bahasa berperan. Ini mencakup:
 
@@ -48,9 +48,9 @@ Di sinilah detail bahasa berperan. Ini mencakup:
 
 ## 3. Kognisi Sosial di Dalam Kepala Kita
 
-Mengapa masyarakat percaya pada narasi elit? Van Dijk menjelaskan melalui konsep **Model Mental**.
+Mengapa masyarakat percaya pada narasi elite? Van Dijk menjelaskan melalui konsep **Model Mental**.
 
-Setiap kali membaca berita kriminal, otak tidak hanya menyerap kata-kata, tetapi mencocokkannya dengan pengalaman masa lalu dan nilai-nilai kelompok. Elit kekuasaan memanipulasi hal ini dengan menciptakan **Skema Kelompok**.
+Setiap kali membaca berita kriminal, otak tidak hanya menyerap kata-kata, tetapi juga mencocokkannya dengan pengalaman masa lalu dan nilai-nilai kelompok. Elite kekuasaan memanipulasi hal ini dengan menciptakan **Skema Kelompok**.
 
 ### Strategi "Ideological Square" (Persegi Ideologi)
 
@@ -65,13 +65,13 @@ Ini adalah teknik kognitif yang paling sering digunakan dalam wacana keamanan da
 
 ## 4. Manipulasi Wacana dalam Isu Keamanan
 
-Elit kekuasaan (politisi, petinggi penegak hukum, pemilik media) memiliki akses istimewa terhadap wacana. Van Dijk menyebutnya sebagai **Akses Diskursif**.
+Elite kekuasaan (politisi, petinggi penegak hukum, pemilik media) memiliki akses istimewa terhadap wacana. Van Dijk menyebutnya sebagai **Akses Diskursif**.
 
 > **Bahan Refleksi:** Siapa yang lebih sering diwawancarai oleh media saat terjadi kerusuhan? Warga yang memprotes ketidakadilan, atau pejabat yang berbicara tentang "ketertiban umum"?
 
 ### Cara Kerja Manipulasi
 
-1. **Praanggapan (Presupposition):** Menyisipkan asumsi yang tidak perlu diperdebatkan lagi.
+1. **Praanggapan (Presupposition):** Menyisipkan asumsi seolah-olah tidak perlu diperdebatkan lagi.
    - *Kalimat:* "Bagaimana cara terbaik untuk menumpas terorisme di kota ini?"
    - *Analisis:* Kalimat ini memaksakan asumsi bahwa "terorisme sudah ada di kota ini", bahkan sebelum bukti kuat disajikan.
 2. **Generalisasi:** Mengambil satu kasus kriminal dan menjadikannya representasi seluruh kelompok atau etnis tertentu.
@@ -102,15 +102,13 @@ Amati potongan berita fiktif di bawah ini dan identifikasi strukturnya menggunak
 
 ## 7. Linguistik Forensik untuk Pembuktian Hukum
 
-Linguistik forensik adalah cabang ilmu bahasa terapan yang menggunakan analisis bahasa untuk kepentingan hukum dan investigasi kriminal. Seorang detektif dalam konteks ini tidak hanya mencari sidik jari pada benda fisik, melainkan **"sidik jari linguistik"** yang tertinggal dalam susunan kalimat, pilihan kata, hingga tanda baca.
-
 Dalam kriminologi, bahasa dianggap sebagai manifestasi perilaku. Berikut adalah beberapa pilar utama bagaimana kata-kata menjadi alat bukti:
 
 ### A. Idiolek Unik Setiap Individu
 
-Sama seperti sidik jari atau DNA, setiap individu memiliki **idiolek**. Idiolek adalah gaya bahasa unik yang dimiliki individu, yang dipengaruhi oleh latar belakang pendidikan, dialek regional, usia, hingga profesi.
+Setiap individu memiliki **idiolek**. Idiolek adalah gaya bahasa unik yang dimiliki individu, yang dipengaruhi oleh latar belakang pendidikan, dialek regional, usia, hingga profesi.
 
-- **Pilihan Leksikal:** Penggunaan pilihan kata tertentu seperti "komputer" dibanding "peranti".
+- **Pilihan Leksikal:** Penggunaan pilihan kata tertentu seperti "perangkat" dibanding "peranti".
 - **Sintaksis:** Struktur kalimat yang cenderung menggunakan bentuk pasif atau aktif.
 - **Ortografi:** Cara penggunaan tanda baca atau singkatan (misalnya "yg" dibanding "yang", atau penggunaan tanda seru).
 
@@ -129,18 +127,18 @@ Dalam kriminologi, membedakan antara **ancaman nyata** dan sekadar **luapan emos
 
 Untuk memahami bagaimana kriminolog menggunakan bahasa sebagai alat bukti, berikut beberapa skenario dan analisis kritis yang relevan:
 
-1. **Tantangan Manipulasi Gaya Bahasa:** Jika seseorang mencoba meniru gaya menulis orang lain untuk menjebak mereka dalam sebuah kasus kejahatan siber, elemen bahasa yang paling sulit dipalsukan secara konsisten adalah kebiasaan bawah sadar seperti penempatan koma atau penggunaan kata hubung.
-2. **Evolusi Digital:** Di era media sosial dan pesan instan, teks seringkali singkat dan kaya simbol. Peneliti linguistik forensik memanfaatkan variasi penggunaan tanda baca dan pola pengetikan untuk mengidentifikasi pelaku.
+1. **Tantangan Manipulasi Gaya Bahasa:** Jika seseorang mencoba meniru gaya menulis orang lain untuk menjebak mereka dalam sebuah kasus kejahatan siber, elemen bahasa yang cenderung sulit dipalsukan secara konsisten adalah kebiasaan bawah sadar seperti penempatan koma atau penggunaan kata hubung.
+2. **Evolusi Digital:** Di era media sosial dan pesan instan, teks sering kali singkat dan kaya simbol. Peneliti linguistik forensik memanfaatkan variasi penggunaan tanda baca dan pola pengetikan untuk mengidentifikasi pelaku.
 3. **Batas Antara Opini dan Pencemaran Nama Baik:**
    > *Perbandingan Contoh:*
    > - Pernyataan A: "Layanan di toko ini sangat lambat dan tidak profesional."
    > - Pernyataan B: "Pemilik toko ini adalah seorang penipu yang sengaja mencuri uang pelanggan."
    
-   Pernyataan A merupakan penilaian subjektif terhadap kualitas layanan (opini), sedangkan Pernyataan B memuat tuduhan tindakan pidana yang spesifik tanpa pembuktian hukum (pencemaran nama baik).
-4. **Hubungan dengan Profiling Kriminal:** Jika sebuah surat tuntutan tebusan menggunakan istilah medis yang spesifik namun dengan tata bahasa yang berantakan, profil kriminologi yang dapat disusun menunjuk pada latar belakang tersangka yang memiliki pengetahuan teknis/medis tetapi mencoba mengaburkan identitas melalui penyimpangan tata bahasa.
+   Pernyataan A merupakan penilaian subjektif terhadap kualitas layanan (opini), sedangkan Pernyataan B memuat tuduhan tindak pidana yang spesifik tanpa pembuktian hukum (pencemaran nama baik).
+4. **Hubungan dengan Profiling Kriminal:** Jika sebuah surat tuntutan tebusan menggunakan istilah medis yang spesifik, tetapi dengan tata bahasa yang berantakan, profil kriminologi yang dapat disusun menunjuk pada latar belakang tersangka yang memiliki pengetahuan teknis/medis tetapi mencoba mengaburkan identitas melalui penyimpangan tata bahasa.
 
 ## Benang Merah Pendekatan Van Dijk
 
-Pendekatan Teun van Dijk mengingatkan bahwa kriminologi bukan hanya tentang apa yang terjadi di jalanan, tetapi tentang apa yang terjadi di dalam ruang redaksi, ruang sidang, dan podium politik. Dengan memahami bagaimana wacana memengaruhi kognisi sosial, pemelajar dapat lebih kritis terhadap narasi "keamanan" yang seringkali digunakan untuk melegitimasi kontrol sosial yang berlebihan.
+Pendekatan Teun van Dijk mengingatkan bahwa kriminologi bukan hanya tentang apa yang terjadi di jalanan, tetapi tentang apa yang terjadi di dalam ruang redaksi, ruang sidang, dan podium politik. Dengan memahami bagaimana wacana memengaruhi kognisi sosial, pemelajar dapat lebih kritis terhadap narasi "keamanan" yang sering kali digunakan untuk melegitimasi kontrol sosial yang berlebihan.
 
 > **Pesan Utama:** Barangsiapa mengendalikan wacana, ia mengendalikan cara masyarakat mendefinisikan apa itu kejahatan dan siapa yang layak dihukum.

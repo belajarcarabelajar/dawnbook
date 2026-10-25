@@ -16,7 +16,7 @@ Tidak ada satu pun metrik itu bernama "benar". Algoritma tidak punya cara menila
 
 > Sebuah kebohongan yang membuat orang berang akan dibagikan lebih cepat daripada sebuah koreksi yang membosankan. Algoritma membaca kemarahan itu sebagai "konten bagus", lalu menyodorkannya ke lebih banyak orang.
 
-Jadi bukan algoritma sengaja menyebar hoaks. Algoritma hanya mengejar sinyal engagement, dan kebetulan hoaks yang menyentak emosi memancarkan sinyal itu paling kuat. Kejujuran kalah bukan karena dilarang, tapi karena dia jarang seheboh kebohongan.
+Jadi, bukan berarti algoritma sengaja menyebarkan hoaks. Algoritma hanya mengejar sinyal engagement, dan kebetulan hoaks yang menyentak emosi memancarkan sinyal itu paling kuat. Kejujuran kalah bukan karena dilarang, tapi karena dia jarang seheboh kebohongan.
 
 ### Filter bubble dan dunia yang dipangkas untukmu
 
@@ -28,9 +28,9 @@ Personalisasi ini memberi makan bias konfirmasi. Kalau kamu cenderung mencari ya
 
 ### Ruang gema
 
-Kalau filter bubble soal apa yang **disaring untukmu**, ruang gema (**echo chamber**) soal **siapa yang mengelilingimu**. Ketika jaringan sosialmu homogen, orang-orang dengan pandangan serupa, klaim yang sama akan dipantulkan berulang kali dari berbagai arah.
+Kalau filter bubble soal apa yang **disaring untukmu**, ruang gema (**echo chamber**) soal **siapa yang mengelilingimu**. Ketika jaringan sosialmu homogen (berisi orang-orang dengan pandangan serupa), klaim yang sama akan dipantulkan berulang kali dari berbagai arah.
 
-Ingat kembali dua mekanisme dari bab sebelumnya:
+Ingat kembali dua mekanisme dari bab-bab sebelumnya:
 
 | Mekanisme | Apa yang terjadi di ruang gema |
 |---|---|
@@ -73,6 +73,6 @@ Ada orang yang benar-benar mencari nafkah dari memproduksi kebohongan viral. Bag
 
 ## Poin Kunci
 
-Ekosistem digital bukan wadah netral. Algoritma rekomendasi mengejar engagement, bukan kebenaran, sehingga konten yang memicu emosi diuntungkan. Filter bubble menyaring pandangan berbeda dari layarmu, sementara ruang gema memantulkan klaim yang sama berulang kali sampai efek kebenaran ilusi dan bias konfirmasi menguat. Tapi jujurlah: penelitian menunjukkan pilihan pribadi kita sering menyaring lebih banyak daripada algoritma. Manusia dan mesin saling menguatkan, bukan salah satu saja. Ditambah kecepatan berbagi, grup tertutup, bot, dan ekonomi perhatian yang membuat hoaks murah sekaligus menguntungkan, lingkungan ini praktis dirancang untuk menyuburkan keyakinan yang keliru.
+Ekosistem digital bukan wadah netral. Algoritma rekomendasi mengejar engagement, bukan kebenaran, sehingga konten yang memicu emosi diuntungkan. Filter bubble menyaring pandangan berbeda dari layarmu, sementara ruang gema memantulkan klaim yang sama berulang kali sampai efek kebenaran ilusi dan bias konfirmasi menguat. Tapi jujurlah: penelitian menunjukkan pilihan pribadi kita sering menyaring lebih banyak daripada algoritma. Manusia dan mesin saling menguatkan, bukan salah satu saja. Ditambah kecepatan berbagi, grup tertutup, bot, dan ekonomi perhatian yang membuat hoaks murah sekaligus menguntungkan, lingkungan ini praktis menjadi lahan subur bagi keyakinan yang keliru.
 
-Sampai di sini kita sudah memahami pikiran kita dan lingkungan yang membentuknya. Modul berikutnya, **Efek Pengaruh Berkelanjutan**, akan menutup satu pertanyaan yang mengganggu: kalaupun sebuah hoaks akhirnya dibantah dan kamu menerima bantahan itu, kenapa jejaknya masih tertinggal di kepalamu?
+Sampai di sini kita sudah memahami pikiran kita dan lingkungan yang membentuknya. Bab 9, **Efek Pengaruh Berkelanjutan**, akan menutup satu pertanyaan yang mengganggu: kalaupun sebuah hoaks akhirnya dibantah dan kamu menerima bantahan itu, kenapa jejaknya masih tertinggal di kepalamu?

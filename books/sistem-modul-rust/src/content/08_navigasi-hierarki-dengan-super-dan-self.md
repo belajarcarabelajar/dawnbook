@@ -42,7 +42,7 @@ fn main() {
 
 ### 2. Memahami Keyword super
 
-Keyword **`super`** memungkinkan kita untuk mengakses item yang berada di parent module. Ini berguna ketika kamu mengorganisasi kode dalam submodule yang dalam, namun tetap perlu berinteraksi dengan fungsi atau data structure yang didefinisikan satu tingkat di atasnya.
+Keyword **`super`** memungkinkan kita untuk mengakses item yang berada di parent module. Ini berguna ketika kamu mengorganisasi kode dalam submodule yang dalam, tetapi tetap perlu berinteraksi dengan fungsi atau data structure yang didefinisikan satu tingkat di atasnya.
 
 #### "Lantai Atas"
 
@@ -91,7 +91,7 @@ Berikut perbedaan penggunaannya dalam struktur modul:
 | **Relatif (`self`)** | `self::masak` | Untuk menegaskan pemanggilan item di dalam scope modul yang sama. |
 | **Relatif (`super`)** | `super::masak` | Saat mengakses item yang berada tepat satu tingkat di atas (parent module). |
 
-Jika kamu menulis kode di dalam modul yang dalam, mana yang lebih mudah dikelola jika suatu saat nama crate-mu berubah: absolute path atau relative path?
+Jika kamu menulis kode di dalam modul yang dalam, mana yang lebih mudah dikelola jika suatu saat modul tersebut dipindahkan ke lokasi lain dalam hierarki: absolute path atau relative path?
 
 ### 4. Unit Testing
 
@@ -99,7 +99,7 @@ Salah satu penggunaan `super` yang paling umum dan standar di dunia nyata adalah
 
 #### Modul Kalkulator
 
-Tanpa `super`, modul `tests` tidak akan bisa mengakses fungsi yang ingin diuji karena fungsi tersebut berada di luar scope modul `tests`.
+Tanpa `super` (atau absolute path), modul `tests` tidak bisa langsung mengakses fungsi yang ingin diuji karena fungsi tersebut berada di luar scope modul `tests`.
 
 ```rust
 pub fn tambah(a: i32, b: i32) -> i32 {
@@ -122,7 +122,7 @@ mod tests {
 
 ### 5. Kombinasi Navigasi Kompleks
 
-Kita juga bisa menggabungkan navigasi ini untuk mencapai target spesifik. Misalnya, `super::self` (meskipun jarang digunakan karena redundant dengan `super`) atau masuk kembali ke submodule lain dari parent module:
+Kita juga bisa menggabungkan navigasi ini untuk mencapai target spesifik. Misalnya, masuk kembali ke submodule lain dari parent module:
 
 ```rust
 mod ruang_tamu {

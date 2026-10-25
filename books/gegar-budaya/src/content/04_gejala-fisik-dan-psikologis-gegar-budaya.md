@@ -6,11 +6,11 @@ Gegar budaya lebih dari sekadar "perasaan asing". Ini adalah reaksi sistemik yan
 
 ## 1. Gejala Psikologis
 
-Gejala psikologis sering kali menjadi tanda pertama yang muncul, namun paling sulit diidentifikasi karena sifatnya yang subjektif.
+Gejala psikologis sering kali menjadi tanda pertama yang muncul, tetapi paling sulit diidentifikasi karena sifatnya yang subjektif.
 
 ### Kecemasan dan Ketegangan yang Menetap
 
-Individu sering merasakan kecemasan yang tidak beralasan (*free-floating anxiety*). Kamu mungkin merasa gugup saat harus keluar rumah, takut melakukan kesalahan sosial, atau merasa diawasi oleh orang-orang di sekitar.
+Individu sering merasakan kecemasan tanpa sumber yang jelas (*free-floating anxiety*). Kamu mungkin merasa gugup saat harus keluar rumah, takut melakukan kesalahan sosial, atau merasa diawasi oleh orang-orang di sekitar.
 
 ### Iritabilitas (Mudah Tersinggung)
 
@@ -28,7 +28,7 @@ Ketika pikiran stres, tubuh akan mengirimkan sinyal peringatan. Gejala fisik ini
 
 ### Gangguan Tidur (Insomnia atau Hipersomnia)
 
-Gegar budaya mengganggu ritme sirkadian kita, bukan hanya karena perbedaan zona waktu (jet lag), tetapi karena beban pikiran.
+Gegar budaya mengganggu ritme sirkadian kita, bukan hanya karena perbedaan zona waktu (jet lag), tetapi juga karena beban pikiran.
 
 - **Insomnia:** Kesulitan tidur karena otak terus berputar memikirkan interaksi sosial di siang hari.
 - **Hipersomnia:** Keinginan untuk tidur sepanjang waktu sebagai bentuk pelarian dari realitas yang melelahkan.
@@ -80,11 +80,11 @@ $$
 $$
 </div>
 
-Dalam kondisi itu, $E\_{\text{sisa}}$ menjadi negatif. Inilah titik di mana gejala fisik dan psikologis mulai muncul sebagai "alarm" sistem.
+Dalam kondisi itu, $E\_{\text{sisa}}$ menjadi negatif. Inilah titik ketika gejala fisik dan psikologis mulai muncul sebagai "alarm" sistem.
 
 ## Kisah Budi di Jerman
 
-**Kisah Budi di Jerman** Budi baru pindah ke Berlin untuk bekerja. Pada bulan kedua, ia mulai sering mengalami sakit kepala hebat setiap sore. Ia juga merasa marah ketika kasir supermarket menegurnya karena tidak menyusun belanjaan dengan cepat. Budi mengira ia sakit fisik, namun setelah berkonsultasi, ia menyadari bahwa ia mengalami gejala gegar budaya. Tubuhnya bereaksi terhadap stres karena terus-menerus harus menerjemahkan bahasa Jerman dan memahami etika antrean yang ketat.
+**Kisah Budi di Jerman** Budi baru pindah ke Berlin untuk bekerja. Pada bulan kedua, ia mulai sering mengalami sakit kepala hebat setiap sore. Ia juga merasa marah ketika kasir supermarket menegurnya karena tidak menyusun belanjaan dengan cepat. Budi mengira ia sakit fisik, tetapi setelah berkonsultasi, ia menyadari bahwa ia mengalami gejala gegar budaya. Tubuhnya bereaksi terhadap stres karena terus-menerus harus menerjemahkan bahasa Jerman dan memahami etika antrean yang ketat.
 
 **Apa yang dialami Budi?**
 
@@ -107,7 +107,7 @@ Jika kamu menjawab "Ya" pada sebagian besar pertanyaan di atas, kemungkinan besa
 | Kategori | Gejala Umum |
 | --- | --- |
 | **Psikologis** | Kecemasan, mudah marah, merasa terisolasi, rindu rumah yang ekstrem, depresi ringan. |
-| **Fisik** | Sakit kepala, gangguan pencernaan, insomnia, kelelahan kronis, alergi yang tiba-tiba muncul. |
+| **Fisik** | Sakit kepala, gangguan pencernaan, insomnia, kelelahan berlebih, ketegangan otot. |
 | **Perilaku** | Menarik diri dari pergaulan, makan berlebihan atau tidak mau makan, ketergantungan pada komunitas sesama perantau. |
 
 > **Insight:** Mengenali gejala-gejala ini adalah langkah pertama. Dengan mengetahui bahwa rasa lelah atau amarah kamu adalah bagian dari proses adaptasi yang normal, kamu dapat berhenti menyalahkan diri sendiri dan mulai memberikan ruang bagi tubuh kamu untuk beristirahat.

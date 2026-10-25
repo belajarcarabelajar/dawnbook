@@ -6,7 +6,7 @@ Itulah jebakannya. Di *Harvest Moon: Back to Nature*, tidak ada satu tindakan be
 
 ### Pelukan, Obrolan, dan Sikat
 
-Tiap hewan punya ritualnya sendiri. Anjing cukup diangkat dan dipeluk, dan karena tidak perlu diberi makan, ia hanya meminta sedikit waktumu. Kuda juga bebas dari urusan pakan, tetapi ingin diajak bicara dan disikat. Sapi meminta paket lengkap: diajak bicara, disikat, lalu diperah. Domba cukup disapa dan disikat, begitu juga anak sapi, yang sebaiknya didatangi setiap hari supaya mulai menyukaimu. Ayam cukup diberi makan, dan sayangnya tumbuh lebih cepat kalau kamu menggendongnya.
+Tiap hewan punya ritualnya sendiri. Anjing cukup diangkat dan dipeluk, dan karena tidak perlu diberi makan, ia hanya meminta sedikit waktumu. Kuda juga bebas dari urusan pakan, tetapi ingin diajak bicara dan disikat. Sapi meminta paket lengkap: diajak bicara, disikat, lalu diperah. Domba cukup disapa dan disikat, begitu juga anak sapi, yang sebaiknya didatangi setiap hari supaya mulai menyukaimu. Ayam cukup diberi makan, dan rasa sayangnya tumbuh lebih cepat kalau kamu menggendongnya.
 
 Semua itu harian, dan tidak ada yang terasa mendesak. Ditulis sebagai daftar, tugasnya terlihat sepele, dan justru karena sepele, ritual ini paling mudah dilewatkan pada hari ketika pekerjaan ladang sedang menumpuk.
 
@@ -14,13 +14,13 @@ Semua itu harian, dan tidak ada yang terasa mendesak. Ditulis sebagai daftar, tu
 
 Rutinitas itu bukan hiasan. Panduan resmi Prima untuk gim ini menjelaskan bahwa banyaknya susu dari seekor sapi bergantung pada rasa sayangnya kepadamu. Ukuran wol ditentukan suasana hati dan kasih sayang domba, begitu pula mutu telur ayam. Ayam yang lupa diberi makan tidak bertelur, dan saat ia bertelur lagi, mutunya ikut turun karena hatinya sudah merosot.
 
-Rasa sayang juga tidak bisa dikejar dalam semalam. Di tahun pertama, sapi dan domba milikmu belum bisa menang festival, sebab penilaiannya bertumpu pada kasih sayang, dan kasih sayang butuh waktu. Untuk domba, hadiah festival diperkirakan baru terjangkau di tahun kedua. Hasil besar di kandang adalah tumpukan dari hari-hari biasa yang kelihatannya tidak menghasilkan apa-apa.
+Rasa sayang juga tidak bisa dikejar dalam semalam. Di tahun pertama, sapi dan domba milikmu belum bisa memenangi festival, sebab penilaiannya bertumpu pada kasih sayang, dan kasih sayang butuh waktu. Untuk domba, hadiah festival diperkirakan baru terjangkau di tahun kedua. Hasil besar di kandang adalah tumpukan dari hari-hari biasa yang kelihatannya tidak menghasilkan apa-apa.
 
 ### Obat yang Mungkin Tak Pernah Kamu Beli
 
 Hewan di gim ini bisa sakit. Sapi jatuh sakit kalau tidak diberi makan secara teratur atau dibiarkan kehujanan, dan selama sakit ia tidak menghasilkan susu. Domba yang sakit berhenti menumbuhkan wol dan tidak boleh ikut festival domba. Selama sakit, keduanya juga tidak bisa dibuat bunting.
 
-Obatnya tersedia di Poultry Farm atau Yodel Farm seharga 1.000 G. Namun buku strategi yang sama menambahkan bahwa hewan yang dirawat dengan baik, oleh pemilik yang rajin mengecek ramalan cuaca, kemungkinan besar tidak akan pernah sakit. Pilihannya jadi sederhana: seribu G di kemudian hari, atau sedikit waktu setiap pagi untuk memberi makan dan memasukkan hewan sebelum hujan turun.
+Obatnya tersedia di Poultry Farm atau Yodel Ranch seharga 1.000 G. Namun buku strategi yang sama menambahkan bahwa hewan yang dirawat dengan baik, oleh pemilik yang rajin mengecek ramalan cuaca, kemungkinan besar tidak akan pernah sakit. Pilihannya jadi sederhana: seribu G di kemudian hari, atau sedikit waktu setiap pagi untuk memberi makan dan memasukkan hewan sebelum hujan turun.
 
 ### Masukkan Semua Hewan Sebelum Badai
 

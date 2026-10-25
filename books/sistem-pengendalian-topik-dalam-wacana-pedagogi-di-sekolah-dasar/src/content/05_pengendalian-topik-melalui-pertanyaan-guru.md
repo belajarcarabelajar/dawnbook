@@ -2,13 +2,13 @@
 
 Dalam wacana pedagogi di sekolah dasar, pertanyaan guru memegang peranan utama sebagai alat pengarah alur pembicaraan di kelas. Ketika mengajar, guru kerap melontarkan pertanyaan pada awal gerakan wacana untuk membuka topik baru, membelokkan arah pembahasan, atau menguji pemahaman siswa. Cara ini menjadi mekanisme pengendalian topik paling dominan yang menentukan kapan siswa boleh berbicara dan materi apa yang harus dibahas.
 
-Namun, pengajuan pertanyaan oleh guru tidak selalu menghasilkan tanggapan cepat dari siswa. Terdapat dinamika antara jenis pertanyaan yang diajukan dengan kesiapan siswa dalam memberikan jawaban.
+Namun, pengajuan pertanyaan oleh guru tidak selalu menghasilkan tanggapan cepat dari siswa. Terdapat dinamika antara jenis pertanyaan yang diajukan dan kesiapan siswa dalam memberikan jawaban.
 
 ---
 
 ### Dinamika Respons Siswa terhadap Pertanyaan Guru
 
-Dalam analisis wacana kelas yang dilakukan Marliana (2017), pertanyaan yang diajukan guru untuk mengendalikan topik baru ternyata lebih sering tidak langsung mendapat jawaban dari siswa pada kesempatan pertama daripada langsung dijawab. Guru sering kali harus mengulang pertanyaan, menyederhanakan kalimat, atau bahkan menjawab pertanyaannya sendiri karena ruang kelas yang hening.
+Dalam analisis wacana kelas yang dilakukan Marliana (2017), pertanyaan yang diajukan guru untuk mengendalikan topik baru ternyata lebih sering tidak langsung dijawab siswa pada kesempatan pertama daripada langsung dijawab. Guru sering kali harus mengulang pertanyaan, menyederhanakan kalimat, atau bahkan menjawab pertanyaannya sendiri karena ruang kelas yang hening.
 
 Tabel berikut menunjukkan distribusi frekuensi respons siswa terhadap strategi pengendalian topik melalui pertanyaan guru:
 

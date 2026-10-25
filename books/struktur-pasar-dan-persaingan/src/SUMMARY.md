@@ -10,7 +10,7 @@
 - [Teori Permainan (Game Theory) dalam Oligopoli](content/08_teori-permainan-game-theory-dalam-oligopoli-seni-berstrategi-di-pasar-yang-sempit.md)
 - [Hambatan Masuk dan Keluar Pasar](content/09_hambatan-masuk-dan-keluar-pasar-sang-penjaga-gerbang-ekonomi.md)
 - [Efisiensi Ekonomi dan Kesejahteraan](content/10_efisiensi-ekonomi-dan-kesejahteraan-menimbang-keadilan-dan-kinerja-pasar.md)
-- [Peran Pemerintah dan Kebijakan Anti-Monopoli](content/11_peran-pemerintah-dan-kebijakan-anti-monopoli-wasit-dalam-pertandingan-ekonomi.md)
+- [Peran Pemerintah dan Kebijakan Antimonopoli](content/11_peran-pemerintah-dan-kebijakan-anti-monopoli-wasit-dalam-pertandingan-ekonomi.md)
 - [Struktur Pasar di Era Ekonomi Digital](content/12_struktur-pasar-di-era-ekonomi-digital.md)
 - [Referensi](content/13_referensi.md)
 

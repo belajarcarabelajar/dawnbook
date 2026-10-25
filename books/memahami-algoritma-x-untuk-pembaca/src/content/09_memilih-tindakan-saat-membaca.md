@@ -19,7 +19,7 @@ Nama dan letak menu bisa berbeda menurut perangkat, wilayah, dan versi aplikasi,
 
 ### Batas yang Perlu Kamu Pegang
 
-Tabel di atas adalah alat bantu memutuskan, bukan simulator feed dan bukan taksiran bobot. Ia tidak bisa memberitahumu bahwa satu like akan menambah sekian post serupa besok pagi. Repositori lama twitter/the-algorithm (pembaruan September 2025) maupun repositori baru [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) bukan salinan lengkap sistem produksi: konfigurasi per permintaan, model yang sudah dilatih, data pengguna, dan banyak eksperimen yang sedang berjalan berada di luar jangkauan pembaca. README repositori baru pun mengingatkan bahwa bobot di kode mengalikan peluang suatu tindakan yang diprediksi model, bukan poin yang ditambahkan setiap kali kamu menekan tombol.
+Tabel di atas adalah alat bantu memutuskan, bukan simulator feed dan bukan taksiran bobot. Ia tidak bisa memberitahumu bahwa satu like akan menambah sekian post serupa besok pagi. Baik repositori lama twitter/the-algorithm (pembaruan September 2025) maupun repositori baru [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) bukan salinan lengkap sistem produksi: konfigurasi per permintaan, model yang sudah dilatih, data pengguna, dan banyak eksperimen yang sedang berjalan berada di luar jangkauan pembaca. README repositori baru pun mengingatkan bahwa bobot di kode mengalikan peluang suatu tindakan yang diprediksi model, bukan poin yang ditambahkan setiap kali kamu menekan tombol.
 
 Artinya, tidak ada orang yang bisa menghitung dampak satu tindakanmu terhadap feed-mu dari kode publik. Yang bisa kamu lakukan adalah memilih tindakan yang sesuai dengan niatmu saat itu, lalu menilai hasilnya dari bacaanmu sendiri.
 

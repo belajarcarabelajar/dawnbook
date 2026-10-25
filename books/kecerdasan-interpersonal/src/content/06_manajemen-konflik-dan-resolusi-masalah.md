@@ -4,7 +4,7 @@ Dalam perjalanan karier seorang profesional T-shaped, konflik bukanlah tanda keg
 
 ## 1. Memahami Konflik
 
-Bayangkan sebuah mesin. Tanpa gesekan antara ban dan jalan, mobil tidak akan pernah bisa melaju. Sebaliknya, jika gesekan terlalu besar tanpa pelumas, mesin akan cepat aus dan terbakar.
+Bayangkan sebuah mobil. Tanpa gesekan antara ban dan jalan, mobil tidak akan pernah bisa melaju. Sebaliknya, jika gesekan terlalu besar tanpa pelumas, mesin akan cepat aus dan terbakar.
 
 Dalam dinamika organisasi, konflik memegang peran seperti gesekan tersebut.
 
@@ -84,6 +84,6 @@ Inovasi sering kali lahir dari *creative abrasion*, istilah yang dipopulerkan ol
 - **Gunakan *I-Statements* (Pernyataan "Saya").** Misalnya, katakan "Saya khawatir dengan stabilitas sistem jika kita mengambil langkah ini," alih-alih menyerang dengan kalimat, "Kamu membuat sistem ini tidak stabil."
 - **Hindari asumsi sepihak.** Biasakan bertanya untuk mengklarifikasi: "Tolong bantu aku memahami sudut pandangmu mengenai pilihan teknologi ini."
 - **Terapkan *cool-off period*.** Jika diskusi mulai memanas secara emosional, mintalah jeda selama 10 hingga 15 menit. Tensi emosi yang tinggi secara ilmiah menurunkan kemampuan berpikir logis seseorang.
-- **Dokumentasikan hasil kesepakatan.** Tuliskan poin-poin keputusan akhir secara tertulis demi menghindari kesalahpahaman atau konflik serupa terulang kembali di kemudian hari.
+- **Dokumentasikan hasil kesepakatan.** Tuliskan poin-poin keputusan akhir untuk mencegah kesalahpahaman atau terulangnya konflik serupa di kemudian hari.
 
 Konflik yang dibiarkan berlarut-larut akan menumpuk bagaikan *technical debt* dalam relasi tim. Menyelesaikan perbedaan pendapat dengan cepat, terbuka, dan profesional penting untuk menjaga *psychological safety* di lingkungan kerja, sehingga setiap anggota tim merasa aman untuk terus berinovasi.

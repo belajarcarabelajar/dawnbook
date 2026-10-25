@@ -6,7 +6,7 @@
 - [Kekuatan Karakter dan Kebajikan (VIA Strengths)](content/04_kekuatan-karakter-dan-kebajikan-via-strengths.md)
 - [Konsep Flow](content/05_konsep-flow-pengalaman-optimal.md)
 - [Growth Mindset](content/06_growth-mindset-rahasia-di-balik-potensi-tanpa-batas.md)
-- [Resiliensi dan Pertumbuhan Pasca Trauma](content/07_resiliensi-dan-pertumbuhan-pasca-trauma-seni-menemukan-kekuatan-dalam-retakan.md)
+- [Resiliensi dan Pertumbuhan Pascatrauma](content/07_resiliensi-dan-pertumbuhan-pasca-trauma-seni-menemukan-kekuatan-dalam-retakan.md)
 - [Kekuatan Rasa Syukur (Gratitude)](content/08_kekuatan-rasa-syukur-gratitude.md)
 - [Optimisme dan Gaya Penjelasan](content/09_optimisme-dan-gaya-penjelasan-seni-berbicara-pada-diri-sendiri.md)
 - [Hubungan Sosial yang Positif](content/10_hubungan-sosial-yang-positif-jembatan-menuju-kesejahteraan.md)

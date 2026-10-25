@@ -28,7 +28,7 @@ Ada tiga fase utama yang terus berputar dalam pembelajaran regulasi diri, dan ke
    Di tahap ini, kamu perlu menganalisis materi dan mematok target spesifik. Pengalaman sebelumnya berpengaruh di sini. Misalnya, kamu sadar bahwa cara terbaik untuk menghafal istilah baru adalah memakai *flashcard*, lalu kamu memutuskan kapan waktu yang tepat untuk menggunakannya. Tingkat kepercayaan dirimu terhadap materi tersebut juga mulai terbentuk di fase ini.
 
 2. **Fase Pelaksanaan dan Pemantauan (Performance)**
-   Saat strategi yang sudah disusun mulai dieksekusi, kamu juga harus memantau perkembangannya secara bersamaan. Di sinilah regulasi metakognitif bekerja. Kamu mungkin bertanya-tanya, "Apakah materinya sudah benar-benar paham, atau cuma sekadar hafal di luar kepala?". Kalau ternyata cara yang dipakai tidak membuahkan hasil, kamu langsung menyesuaikan strategi agar tidak membuang waktu.
+   Saat strategi yang sudah disusun mulai dieksekusi, kamu juga harus memantau perkembangannya secara bersamaan. Di sinilah regulasi metakognitif bekerja. Kamu mungkin bertanya-tanya, "Apakah aku sudah benar-benar paham materinya, atau cuma sekadar hafal di luar kepala?". Kalau ternyata cara yang dipakai tidak membuahkan hasil, kamu langsung menyesuaikan strategi agar tidak membuang waktu.
 
 3. **Fase Evaluasi Diri (Self-Reflection)**
    Begitu sesi belajar selesai, saatnya melihat kembali proses yang baru saja dilewati. Kamu mengevaluasi apa yang menyebabkan sebuah metode berhasil atau gagal, termasuk bagaimana emosi yang muncul saat itu. Hasil pemikiran ini nantinya dipakai sebagai bekal utama untuk merencanakan fase berikutnya.
@@ -39,11 +39,11 @@ Belajar bukan hanya soal memasukkan informasi ke otak, tapi juga mengatur kondis
 
 ### 1. Regulasi Lingkungan
 
-Sadar atau tidak, tempat di mana kamu berada memengaruhi tingkat fokus. Beberapa langkah nyata bisa dilakukan untuk menciptakan kondisi yang lebih baik:
+Sadar atau tidak, tempat kamu berada memengaruhi tingkat fokus. Beberapa langkah nyata bisa dilakukan untuk menciptakan kondisi yang lebih baik:
 
 - Mencari lokasi yang paling tenang, misalnya pergi ke perpustakaan kalau memang butuh konsentrasi ekstra ketimbang memaksakan diri di kafe yang ramai.
 - Menyesuaikan jadwal dengan jam produktif tubuh. Ada yang lebih cepat menangkap materi rumit di pagi hari, sementara yang lain lebih suka belajar malam.
-- Mematikan sementara semua notifikasi dari ponsel atau memberitahu orang rumah kalau kamu butuh waktu sendiri tanpa gangguan selama beberapa jam ke depan.
+- Mematikan sementara semua notifikasi dari ponsel atau memberi tahu orang rumah kalau kamu butuh waktu sendiri tanpa gangguan selama beberapa jam ke depan.
 - Mencari referensi tambahan yang memang relevan, entah lewat buku, bertanya pada tutor, atau menonton video penjelasan.
 
 ### 2. Pengelolaan Emosi dan Motivasi
@@ -59,7 +59,7 @@ Rasa bosan, frustrasi, maupun cemas pasti akan muncul di tengah proses belajar. 
 
 Penguasaan regulasi diri yang dibarengi kesadaran metakognitif akan memengaruhi bagaimana seseorang menyerap ilmu. Mereka cenderung lebih mandiri dan tidak selalu menunggu disuapi instruksi dari luar, karena sudah tahu persis rute mana yang harus diambil untuk menguasai materi baru.
 
-Dorongan untuk terus belajar muncul secara alami lantaran mereka memegang kendali atas prosesnya sendiri. Ketika dihadapkan pada kebuntuan, mereka bisa cepat beradaptasi mencari metode lain agar waktu belajarnya tetap efisien. Kemampuan mengatur proses belajar seperti ini bermanfaat di luar urusan sekolah atau kuliah, termasuk di urusan karir maupun kehidupan sehari-hari.
+Dorongan untuk terus belajar muncul secara alami lantaran mereka memegang kendali atas prosesnya sendiri. Ketika dihadapkan pada kebuntuan, mereka bisa cepat beradaptasi mencari metode lain agar waktu belajarnya tetap efisien. Kemampuan mengatur proses belajar seperti ini bermanfaat di luar urusan sekolah atau kuliah, termasuk di urusan karier maupun kehidupan sehari-hari.
 
 ## Mencoba Strategi Praktis
 
@@ -70,5 +70,5 @@ Ada beberapa pendekatan nyata yang bisa langsung kamu coba untuk melatih kemampu
 - Susun peta atau gambaran kasar mengenai langkah-langkah yang akan diambil sebelum benar-benar membuka buku. Mengetahui potensi hambatan dari awal membantu persiapan.
 - Biasakan membandingkan hasil kerjamu dengan standar yang lebih baik untuk mencari tahu sendiri bagian mana yang perlu diperbaiki.
 - Coba terapkan teknik Pomodoro (fokus penuh selama 25 menit, diselingi istirahat 5 menit) supaya otak punya jeda untuk memproses informasi tanpa keburu lelah.
-- Rapikan meja sebelum memulai dan pastikan lampu cukup terang. Ruangan yang berantakan diam-diam membebani beban kognitif.
+- Rapikan meja sebelum memulai dan pastikan lampu cukup terang. Ruangan yang berantakan diam-diam menambah beban kognitif.
 - Kalau tiba-tiba muncul rasa cemas berlebih jelang ujian, coba ubah sudut pandangmu. Anggap saja detak jantung yang kencang itu sebagai pertanda bahwa tubuhmu sedang memompa energi agar lebih siap menghadapi soal.

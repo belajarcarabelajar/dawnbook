@@ -8,19 +8,19 @@ Meskipun kita tidak bisa mengubah apa yang terjadi pada masa kecil, kita bisa me
 
 **Earned Security** adalah kondisi ketika seseorang yang tumbuh dengan pengasuhan tidak konsisten, mengabaikan, atau bahkan traumatis, berhasil mengembangkan pola hubungan yang sehat dan aman di masa dewasa.
 
-**Insight Penting:** Perbedaan antara individu yang "Aman Sejak Lahir" (Continuous Secure) dan "Aman yang Diperoleh" (Earned Secure) bukan terletak pada sejarah masa lalu mereka, tetapi pada cara mereka memahami dan memaknai sejarah tersebut.
+**Insight Penting:** Perbedaan antara individu yang "Aman Berkelanjutan" (Continuous Secure) dan "Aman yang Diperoleh" (Earned Secure) bukan terletak pada sejarah masa lalu mereka, tetapi pada cara mereka memahami dan memaknai sejarah tersebut.
 
 ### Seni Kintsugi
 
-Bayangkan sebuah keramik yang pecah. Seseorang dengan *Earned Security* mirip dengan **Kintsugi**, yaitu seni Jepang memperbaiki keramik pecah menggunakan emas cair. Alih-alih menyembunyikan retakannya, guratan emas tersebut justru membuat keramik lebih kuat dan indah. Retakan atau luka masa lalu itu tetap ada, tetapi tidak lagi mendefinisikan kerapuhan; ia justru menjadi simbol ketangguhan.
+Bayangkan sebuah keramik yang pecah. Seseorang dengan *Earned Security* mirip dengan **Kintsugi**, yaitu seni Jepang memperbaiki keramik pecah menggunakan pernis (urushi) yang dicampur atau ditaburi bubuk emas. Alih-alih menyembunyikan retakannya, guratan emas tersebut justru membuat keramik tampak lebih indah. Retakan atau luka masa lalu itu tetap ada, tetapi tidak lagi mendefinisikan kerapuhan; ia justru menjadi simbol ketangguhan.
 
 ## Narasi yang Koheren (Coherent Narrative)
 
-Penelitian oleh Mary Main menemukan bahwa faktor pembeda terbesar bagi orang dewasa untuk mencapai kelekatan aman bukan pada tingkat "kesempurnaan" masa kecil mereka, tetapi pada kemampuan menceritakan kisah hidup secara **koheren**.
+Penelitian oleh Mary Main menemukan bahwa faktor pembeda terbesar bagi orang dewasa untuk mencapai kelekatan aman bukan terletak pada tingkat "kesempurnaan" masa kecil mereka, melainkan pada kemampuan menceritakan kisah hidup secara **koheren**.
 
 **Apa itu narasi yang koheren?** Ini adalah kemampuan menjelaskan pengalaman masa lalu (baik yang menyenangkan maupun yang menyakitkan) dengan cara yang logis, jujur, dan terintegrasi.
 
-* **Narasi Tidak Koheren:** "Orang tua saya hebat. (Lalu menceritakan saat ditinggalkan sendirian selama berhari-hari). Tapi ya, mereka baik-baik saja, saya tidak mau membahasnya lagi." (Menunjukkan adanya penyangkalan atau pemutusan emosi secara sadar).
+* **Narasi Tidak Koheren:** "Orang tua saya hebat. (Lalu menceritakan saat ditinggalkan sendirian selama berhari-hari). Tapi ya, mereka baik-baik saja, saya tidak mau membahasnya lagi." (Menunjukkan adanya penyangkalan atau pemutusan emosi).
 * **Narasi Koheren (Earned Secure):** "Ibu saya sangat sibuk dan sering tidak hadir secara emosional. Hal itu membuat saya merasa kesepian sewaktu kecil. Namun, sekarang saya mengerti bahwa dia juga berjuang dengan depresinya sendiri. Dari sana, saya belajar untuk memberikan keamanan bagi diri sendiri yang tidak saya dapatkan darinya."
 
 ## Pilar Menuju Kelekatan Aman
@@ -94,7 +94,7 @@ Berikut adalah beberapa pilar penting dalam membangun koneksi yang dalam:
 
 1. **Mendengarkan Secara Aktif (Active Listening):** Hal ini melibatkan pemahaman emosi di balik kata-kata yang terucap, bukan hanya mendengarkan suara. Fokuslah sepenuhnya pada lawan bicara tanpa terdistraksi memikirkan tanggapan kamu selanjutnya.
 2. **Kerentanan (Vulnerability):** Menurut peneliti Brené Brown, kerentanan adalah jembatan menuju koneksi. Ini berarti berani menunjukkan sisi asli kamu (termasuk ketakutan dan kegagalan) bukan hanya sisi "sempurna" yang ingin kamu tampilkan.
-3. **Konsistensi dan Kehadiran:** Hubungan yang kuat dibangun melalui momen-momen kecil yang konsisten terkumpul. Kehadiran nyata saat dibutuhkan lebih berharga daripada hadiah materi yang mahal.
+3. **Konsistensi dan Kehadiran:** Hubungan yang kuat dibangun melalui momen-momen kecil yang terkumpul secara konsisten. Kehadiran nyata saat dibutuhkan lebih berharga daripada hadiah materi yang mahal.
 4. **Empati di Atas Simpati:** Simpati adalah merasa kasihan pada seseorang, sedangkan empati adalah usaha untuk ikut merasakan apa yang sedang mereka alami.
 
 "Koneksi adalah energi yang tercipta di antara orang-orang ketika mereka merasa dilihat, didengar, dan dihargai," tulis Brené Brown dalam *The Gifts of Imperfection* (2010).

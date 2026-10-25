@@ -24,13 +24,13 @@ Untuk menciptakan sistem yang tangguh, *choice architect* menggunakan beberapa t
 *Forcing function* adalah elemen desain yang mengharuskan pengguna melakukan suatu tindakan tertentu sebelum mereka dapat melanjutkan ke tahap berikutnya. Ini adalah cara paling efektif untuk mencegah kesalahan fatal.
 
 - **Contoh Klasik:** Di masa lalu, banyak orang meninggalkan kartu di ATM. Solusinya? Mesin ATM modern tidak akan mengeluarkan uangmu sebelum kamu mengambil kartu terlebih dahulu. Dengan menjadikan pengambilan kartu sebagai syarat mendapatkan uang, tingkat kehilangan kartu menurun drastis.
-- **Analogi:** Seperti kunci mobil modern yang tidak bisa dikunci dari luar jika sensor mendeteksi kunci masih berada di dalam kabin.
+- **Analogi:** Seperti pintu mobil modern yang tidak bisa dikunci dari luar jika sensor mendeteksi kunci masih berada di dalam kabin.
 
 ### 2. Sinyal Peringatan (*Alert*) dan *Feedback*
 
 Sistem harus memberikan tanda yang jelas jika sesuatu yang tidak diinginkan akan terjadi.
 
-- **Peringatan Visual & Auditorial:** Sensor parkir mobil yang berbunyi semakin cepat saat mendekati objek adalah cara sistem "mengantisipasi" bahwa pengemudi mungkin tidak melihat jarak dengan akurat.
+- **Peringatan Visual & Auditif:** Sensor parkir mobil yang berbunyi semakin cepat saat mendekati objek adalah cara sistem "mengantisipasi" bahwa pengemudi mungkin tidak melihat jarak dengan akurat.
 
 ### 3. Kelenturan Format (*Input Flexibility*)
 

@@ -27,7 +27,7 @@ Eufemisme adalah penggunaan kata-kata yang lebih halus atau kurang ofensif untuk
   - "Penyesuaian harga" sebagai pengganti "Kenaikan harga".
   - "Kerusakan kolateral" sebagai pengganti "Kematian warga sipil".
 
-### B. Disfemisme (Penyasaran)
+### B. Disfemisme (Pengasaran)
 
 Kebalikan dari eufemisme, disfemisme menggunakan kata-kata yang lebih kasar atau negatif untuk merendahkan sesuatu atau seseorang.
 
@@ -45,7 +45,7 @@ Retorika adalah seni persuasi. Namun, jika tidak digunakan dengan integritas, re
 
 ### 1. Kata-Kata Musang (Weasel Words)
 
-Ini adalah kata-kata yang tampak memberikan klaim yang kuat, namun sebenarnya memberikan jalan keluar bagi pembicara untuk mengelak.
+Ini adalah kata-kata yang tampak memberikan klaim yang kuat, tetapi sebenarnya memberikan jalan keluar bagi pembicara untuk mengelak.
 
 - **Contoh:** "Banyak orang mengatakan bahwa...", "Mungkin saja ini adalah solusi terbaik...", "Penelitian menunjukkan bahwa secara umum..."
 - **Masalah Logika:** Siapa "banyak orang" itu? Apa bukti pastinya? Kata-kata ini menciptakan kesan otoritas tanpa memberikan bukti konkret.
@@ -55,7 +55,7 @@ Ini adalah kata-kata yang tampak memberikan klaim yang kuat, namun sebenarnya me
 Pertanyaan yang di dalamnya sudah terselip asumsi yang belum tentu benar.
 
 - **Contoh:** "Apakah kamu sudah berhenti menyebarkan berita bohong?"
-- **Masalah Logika:** Jika kamu menjawab "Ya", berarti kamu mengakui pernah menyebarkan hoaks. Jika menjawab "Tidak", berarti kamu masih menyebarkannya. Pertanyaan ini menjebak lawan bicara dalam premis yang salah.
+- **Masalah Logika:** Jika kamu menjawab "Ya", berarti kamu mengakui pernah menyebarkan hoaks. Jika menjawab "Tidak", berarti kamu masih menyebarkannya. Pertanyaan ini menjebak lawan bicara dalam asumsi yang belum tentu benar.
 
 ### 3. Bahasa Emotif (Slanting)
 
@@ -86,7 +86,7 @@ Secara emosional, sulit untuk membantah karena siapa yang ingin dibilang tidak m
 
 Sebuah produk makanan ringan melabeli kemasannya dengan tulisan: *"Hanya mengandung bahan-bahan alami."*
 
-- **Analisis:** Kata "Alami" sering digunakan sebagai eufemisme untuk "Sehat". Padahal, gula, garam, dan lemak jenuh juga merupakan bahan alami. Di sini, retorika digunakan untuk menyembunyikan fakta bahwa produk tersebut mungkin tidak sehat.
+- **Analisis:** Kata "Alami" sering digunakan untuk menimbulkan konotasi "Sehat". Padahal, gula, garam, dan lemak jenuh juga merupakan bahan alami. Di sini, retorika digunakan untuk menyembunyikan fakta bahwa produk tersebut mungkin tidak sehat.
 
 ### Debat Politik
 
@@ -102,6 +102,6 @@ Dalam kehidupan sehari-hari, media sosial sering menggunakan bahasa tertentu unt
 
 1. **Menerjemahkan ke Bahasa Netral:** Saat mendengar kalimat yang emotif, coba tulis kembali kalimat tersebut dengan kata-kata yang paling netral dan faktual. Periksa apakah argumennya masih masuk akal.
 2. **Mencari Definisi Operasional:** Jika seseorang menggunakan kata abstrak seperti "Keadilan" atau "Kemerdekaan", tanyakan: "Apa definisi spesifikmu mengenai hal ini dalam konteks sekarang?"
-3. **Memisahkan Fakta dari Kata Sifat:** Singkirkan semua kata sifat (indah, buruk, luar biasa, busuk) dan lihat apa yang tersisa. Jika yang tersisa tidak ada, maka pernyataan tersebut bukanlah argumen, melainkan sekadar retorika.
+3. **Memisahkan Fakta dari Kata Sifat:** Singkirkan semua kata sifat (indah, buruk, luar biasa, busuk) dan lihat apa yang tersisa. Jika tidak ada yang tersisa, maka pernyataan tersebut bukanlah argumen, melainkan sekadar retorika.
 
 Kemampuan berpikir kritis bukan berarti menghentikan penggunaan bahasa yang indah atau retorika. Tujuannya adalah agar kita bisa menjadi konsumen informasi yang sadar, yang mampu membedakan keindahan kata dari kebenaran logika.

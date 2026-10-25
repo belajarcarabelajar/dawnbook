@@ -6,7 +6,7 @@ Di bab ini, kita akan membedah bagaimana webtoon menjadi sumber ide baru. Kita j
 
 ### 1. Webtoon dan Strategi OSMU
 
-Webtoon tidak hanya berfungsi sebagai komik digital biasa, tetapi juga menjadi *storyboard* yang sudah teruji popularitasnya. Fenomena *One Source Multi-Use* (OSMU) kini menjadi strategi utama di mana satu *intellectual property* (IP) dikembangkan ke berbagai format media.
+Webtoon tidak hanya berfungsi sebagai komik digital biasa, tetapi juga menjadi *storyboard* yang sudah teruji popularitasnya. Fenomena *One Source Multi-Use* (OSMU) kini menjadi strategi utama, yakni satu *intellectual property* (IP) dikembangkan ke berbagai format media.
 
 #### Mengapa Adaptasi Webtoon Begitu Populer?
 
@@ -24,14 +24,14 @@ Webtoon tidak hanya berfungsi sebagai komik digital biasa, tetapi juga menjadi *
 
 ### 2. Eksplorasi Genre Gelap
 
-Selama puluhan tahun, K-Drama dibatasi oleh aturan sensor televisi penyiaran yang ketat, seperti larangan menampilkan darah berlebih atau senjata tajam tanpa sensor. Kehadiran platform OTT (*over-the-top*) membuat batasan tersebut tidak lagi berlaku.
+Selama puluhan tahun, K-Drama dibatasi oleh aturan sensor televisi penyiaran yang ketat, seperti larangan menampilkan darah berlebih atau senjata tajam tanpa sensor. Kehadiran platform OTT (*over-the-top*) membuat batasan tersebut jauh lebih longgar.
 
-#### A. Horor dan Zombie (Fenomena "K-Zombie")
+#### A. Horor dan Zombi (Fenomena "K-Zombi")
 
-Korea Selatan sukses menyegarkan genre zombie global lewat serial *Kingdom*.
+Korea Selatan sukses menyegarkan genre zombi global lewat serial *Kingdom*.
 
 - **Inovasi cerita.** Mengawinkan latar sejarah Dinasti Joseon dengan elemen *medical horror* yang mencekam.
-- Karakteristik zombie versi Korea juga khas: mereka bergerak cepat dengan gestur tubuh yang artistik berkat keterlibatan koreografer tari profesional.
+- Karakteristik zombi versi Korea juga khas: mereka bergerak cepat dengan gestur tubuh yang artistik berkat keterlibatan koreografer tari profesional.
 
 #### B. Dystopian Thriller dan Kritik Sosial
 
@@ -44,7 +44,7 @@ Serial seperti *Squid Game* tidak hanya menyajikan ketegangan instan, tetapi jug
 
 Eksperimen lintas genre ini menuntut kemajuan teknologi produksi. Penggunaan *virtual production* dan CGI tingkat tinggi kini telah bergeser menjadi standar baru di industri.
 
-Ketika sebuah cerita tidak lagi dibatasi oleh realitas fisik, kreator bebas menggambarkan dunia rekaan mereka. Hal ini terlihat nyata pada proyek *sci-fi* seperti *The Silent Sea* atau *Hellbound*.
+Ketika sebuah cerita tidak lagi dibatasi oleh realitas fisik, kreator bebas menggambarkan dunia rekaan mereka. Hal ini terlihat nyata pada proyek *sci-fi* seperti *The Silent Sea* atau fantasi gelap seperti *Hellbound*.
 
 **Formula Kesuksesan Eksperimen Genre:**
 
@@ -73,9 +73,9 @@ Saat menilai kelayakan proyek drama selanjutnya, data sebuah webtoon dapat diran
 | Target penonton | Gen Z dan Milenial |
 | Format yang disarankan | Serial terbatas 8 episode |
 
-*Keterangan: Hasil sentiment analysis sebesar 0,85 menunjukkan respons pembaca yang positif, menjadikannya kandidat kuat untuk masuk ke tahap produksi.*
+*Keterangan: Skor sentiment analysis sebesar 0,85 menunjukkan respons pembaca yang positif, menjadikannya kandidat kuat untuk masuk ke tahap produksi.*
 
-### 5. Dampak Terhadap Ekosistem K-Drama
+### 5. Dampak terhadap Ekosistem K-Drama
 
 Pergeseran ini membawa pengaruh besar bagi para aktor dan kru produksi:
 

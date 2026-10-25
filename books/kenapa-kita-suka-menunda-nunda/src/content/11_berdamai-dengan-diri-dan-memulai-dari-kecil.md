@@ -2,7 +2,7 @@
 
 Tas olahraga itu masih tergeletak di sudut kamar, belum tersentuh sejak Senin pagi, dan hari ini sudah Jumat sore. Kamu meliriknya sekilas, lalu di kepalamu sebuah suara mulai bicara: "Dasar aku. Selalu begini. Kenapa sih nggak bisa seperti orang lain?" Suara itu terdengar seperti kejujuran, bahkan seperti motivasi. Kalau malam ini kamu cukup keras pada diri sendiri, bukankah besok kamu pasti berubah?
 
-Bab-bab sebelumnya memberi alasan untuk meragukan hitungan itu. Menunda digerakkan oleh tugas yang terasa tidak enak dan oleh upaya meredakan mood saat ini. Kalau begitu, setiap lapis rasa bersalah yang kamu tumpuk justru menambah hal tidak enak yang ingin dihindari. Bab terakhir ini melihat apa kata riset tentang sikap terhadap diri sendiri, intervensi apa yang pernah diuji, dan satu protokol kecil untuk dicoba besok pagi.
+Bab-bab sebelumnya memberi alasan untuk meragukan hitungan itu. Menunda digerakkan oleh tugas yang terasa tidak enak dan oleh upaya meredakan *mood* saat ini. Kalau begitu, setiap lapis rasa bersalah yang kamu tumpuk justru menambah hal tidak enak yang ingin dihindari. Bab terakhir ini melihat apa kata riset tentang sikap terhadap diri sendiri, intervensi apa yang pernah diuji, dan satu protokol kecil untuk dicoba besok pagi.
 
 ### Kaitan welas diri dengan stres
 
@@ -31,9 +31,9 @@ Bagian ini **saran praktis dari penulis**, disusun dari bab-bab sebelumnya. Ia b
 | Kaitkan langkah itu dengan isyarat jika-maka | Bab 10: rencana jika-maka (Gollwitzer dan Sheeran, 2006) | "Jika aku selesai sarapan, maka aku membuka berkasnya" |
 | Tulis aksi pertama untuk esok hari | Bab 4: diri masa depan terasa seperti orang lain (Pronin dkk., 2008) | Catatan di layar: "Besok, 08.00, buka tabel dua" |
 
-Buktinya untuk langkah ketiga sudah kita bahas di bab 10 (Gollwitzer dan Sheeran, 2006): efek sedang ke besar pada pencapaian tujuan secara umum, bukan khusus tentang penundaan. Pakai itu sebagai alasan untuk mencoba, bukan sebagai janji.
+Bukti untuk langkah ketiga sudah kita bahas di bab 10 (Gollwitzer dan Sheeran, 2006): efek sedang ke besar pada pencapaian tujuan secara umum, bukan khusus tentang penundaan. Pakai itu sebagai alasan untuk mencoba, bukan sebagai janji.
 
-Langkah keempat sengaja dibuat konkret. Menulis aksi esok hari membuat diri masa depan punya tugas yang jelas: tidak ada keputusan yang harus diambil di pagi yang masih mengantuk, hanya perintah yang sudah kamu siapkan semalam. Dan kalau kamu tetap gagal besok, kembalilah ke bagian pertama bab ini: catat, maafkan, kecilkan lagi. Kalau menunda terus disertai tekanan batin yang menetap, bicara dengan psikolog atau konselor adalah langkah yang masuk akal.
+Langkah keempat sengaja dibuat konkret. Menulis aksi esok hari membuat diri masa depan punya tugas yang jelas: tidak ada keputusan yang harus diambil di pagi yang masih mengantuk, hanya perintah yang sudah kamu siapkan semalam. Dan kalau kamu tetap gagal besok, kembalilah ke prinsip bab ini: catat, maafkan, kecilkan lagi. Kalau menunda terus disertai tekanan batin yang menetap, bicara dengan psikolog atau konselor adalah langkah yang masuk akal.
 
 ## Penutup
 

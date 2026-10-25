@@ -12,13 +12,13 @@ Ia menulis sebuah postulat yang kini dikenal sebagai **Hukum Hebb**:
 
 > "Ketika akson dari sel A cukup dekat untuk merangsang sel B dan secara berulang atau terus-menerus ikut serta dalam memicu sel B, maka terjadi suatu proses pertumbuhan atau perubahan metabolisme pada satu atau kedua sel tersebut, sehingga efisiensi sel A dalam memicu sel B meningkat."
 
-Dalam bahasa yang lebih populer dan mudah diingat, ahli neurosains Carla Shatz merangkumnya menjadi: **"Neurons that fire together, wire together."** (Neuron yang menyala bersama, akan terhubung bersama).
+Dalam bahasa yang lebih populer dan mudah diingat, ahli neurosains Carla Shatz merangkumnya menjadi: **"Neurons that fire together, wire together."** (Neuron yang menyala bersama akan terhubung bersama).
 
 ## 2\. Jalan Setapak di Hutan Belantara
 
 Bayangkan otak kamu adalah sebuah hutan belantara yang lebat. Saat kamu mempelajari sesuatu yang baru, itu seperti kamu mencoba berjalan menembus semak belukar dari titik A ke titik B.
 
-1. **Percobaan Pertama:** Sulit. kamu harus menebas ranting dan menginjak rumput tinggi. Jalurnya hampir tidak terlihat setelah kamu lewat.
+1. **Percobaan Pertama:** Sulit. Kamu harus menebas ranting dan menginjak rumput tinggi. Jalurnya hampir tidak terlihat setelah kamu lewat.
 2. **Repetisi:** Jika kamu melewati jalur yang sama berkali-kali setiap hari, rumput akan mulai mati dan tanah akan mengeras.
 3. **Jalur Permanen:** Lama-kelamaan, jalur tersebut menjadi jalan setapak yang jelas. Sekarang, kamu tidak perlu lagi berpikir keras atau berjuang; kaki kamu secara alami akan mengikuti jalur tersebut.
 
@@ -36,7 +36,7 @@ $$
 $$
 </div>
 
-Di mana:
+Keterangan:
 
 - $\Delta w\_{ij}$ adalah perubahan kekuatan (bobot) koneksi antara neuron $i$ dan $j$.
 - $\eta$ adalah laju pembelajaran (*learning rate*).
@@ -50,10 +50,10 @@ Di mana:
 
 Mari kita lihat bagaimana proses ini terjadi dalam skenario nyata, misalnya saat belajar kata baru dalam bahasa asing (Contoh: "Apple" = "Apel").
 
-1. **Aktivasi Ganda:** Saat kamu melihat gambar apel (Neuron Visual) dan mendengar kata "Apel" (Neuron Auditoris) secara bersamaan, kedua kelompok neuron ini menyala (*fire*) pada waktu yang sama.
-2. **Sinyal Kimiawi:** Pelepasan neurotransmiter yang berulang menciptakan kondisi kimiawi di celah sinapsis yang memicu reseptor khusus (seperti reseptor NMDA) untuk terbuka.
+1. **Aktivasi Ganda:** Saat kamu melihat gambar apel (Neuron Visual) dan mendengar kata "Apple" (Neuron Auditoris) secara bersamaan, kedua kelompok neuron ini menyala (*fire*) pada waktu yang sama.
+2. **Sinyal Kimiawi:** Pelepasan neurotransmiter yang berulang menciptakan kondisi kimiawi di celah sinapsis yang ikut memicu reseptor khusus (seperti reseptor NMDA) untuk terbuka.
 3. **Perubahan Struktural:** Otak mulai mengirimkan protein untuk memperkuat sinapsis tersebut. Ibarat membangun jembatan permanen menggantikan tali tambang yang rapuh.
-4. **Asosiasi:** Setelah koneksi "terpatri" (*wired*), hanya dengan melihat gambar apel, otak kamu akan secara otomatis memicu neuron kata "Apel" tanpa perlu usaha sadar yang besar.
+4. **Asosiasi:** Setelah koneksi "terpatri" (*wired*), hanya dengan melihat gambar apel, otak kamu akan secara otomatis memicu neuron kata "Apple" tanpa perlu usaha sadar yang besar.
 
 Keempat langkah tadi bisa kamu bayangkan sebagai satu rantai berurutan seperti berikut.
 
@@ -63,7 +63,7 @@ flowchart LR
     accDescr: Empat langkah berurutan saat belajar kata baru, dari aktivasi ganda neuron visual dan auditoris, sinyal kimiawi yang membuka reseptor seperti NMDA, perubahan struktural yang memperkuat sinapsis, sampai asosiasi otomatis.
     A["Aktivasi ganda (neuron visual dan auditoris menyala bersamaan)"] --> B["Sinyal kimiawi (reseptor seperti NMDA terbuka)"]
     B --> C["Perubahan struktural (protein memperkuat sinapsis)"]
-    C --> D["Asosiasi (gambar apel otomatis memicu kata “Apel”)"]
+    C --> D["Asosiasi (gambar apel otomatis memicu kata “Apple”)"]
 ```
 
 *Pertanyaan Reflektif: Apabila prinsip "Fire Together, Wire Together" mendasari proses belajar, dampak apakah yang terjadi ketika suatu jalur saraf tidak lagi diaktifkan secara berkala? (Petunjuk: Prinsip "Use it or lose it").*
@@ -72,7 +72,7 @@ flowchart LR
 
 ### A. Membentuk Kebiasaan (Habit Stacking)
 
-Prinsip Hebbian menjelaskan mengapa teknik *Habit Stacking* efektif. Jika kamu ingin membangun kebiasaan minum air putih (kebiasaan baru/neuron A) tepat setelah kamu menyikat gigi (kebiasaan lama/neuron B), kamu memaksa kedua sirkuit ini untuk *fire together*. Akhirnya, menyikat gigi akan menjadi pemicu otomatis bagi rasa haus akan air putih.
+Prinsip Hebbian menjelaskan mengapa teknik *Habit Stacking* efektif. Jika kamu ingin membangun kebiasaan minum air putih (kebiasaan baru/neuron B) tepat setelah kamu menyikat gigi (kebiasaan lama/neuron A), kamu memaksa kedua sirkuit ini untuk *fire together*. Akhirnya, menyikat gigi akan menjadi pemicu otomatis untuk minum air putih.
 
 ### B. Terapi Rehabilitasi
 
@@ -82,7 +82,7 @@ Pasien stroke sering menggunakan prinsip ini untuk memulihkan fungsi gerak. Deng
 
 Saat pertama kali bermain *game*, koordinasi antara mata dan tangan terasa lambat. Namun, karena input visual dan respons motorik terjadi berulang kali secara sinkron, sinapsis di sirkuit tersebut menguat (LTP), sehingga reaksi kamu menjadi lebih cepat.
 
-> **Insight Penting:** Neuroplastisitas melalui prinsip Hebbian adalah pisau bermata dua. Ia bisa memperkuat kebiasaan baik, namun ia juga yang bertanggung jawab memperkuat sirkuit kecanduan atau pola pikir negatif jika dilakukan berulang kali.
+> **Insight Penting:** Neuroplastisitas melalui prinsip Hebbian adalah pisau bermata dua. Ia bisa memperkuat kebiasaan baik, tetapi ia juga yang bertanggung jawab memperkuat sirkuit kecanduan atau pola pikir negatif jika dilakukan berulang kali.
 
 ## 6\. Ringkasan Prinsip Hebbian
 
@@ -90,6 +90,6 @@ Untuk memastikan pemahaman kamu, ingatlah poin-poin utama berikut:
 
 - **Asosiasi adalah Kunci:** Otak belajar dengan menghubungkan informasi baru dengan informasi yang sudah ada melalui aktivitas yang bersamaan.
 - **Repetisi vs. Intensitas:** Semakin sering atau semakin kuat dua neuron menyala bersama, semakin permanen koneksi yang terbentuk.
-- **Fondasi Memori:** Tanpa prinsip Hebbian, kita tidak akan bisa menyimpan informasi jangka panjang.
+- **Fondasi Memori:** Prinsip Hebbian adalah salah satu mekanisme penyimpanan informasi jangka panjang.
 
 *Latihan Mandiri: Coba pilih satu keterampilan kecil yang ingin kamu kuasai. Bagaimana kamu bisa menerapkan prinsip "Fire Together, Wire Together" untuk mempercepat proses belajar tersebut mulai hari ini?*

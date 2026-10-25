@@ -2,11 +2,11 @@
 
 Bayangkan otak kamu adalah sebuah ruangan yang terus dijejali dengan barang-barang selama bertahun-tahun. Sebagian mungkin berguna, tapi lebih banyak berupa tumpukan majalah lama, kabel kusut, dan pernak-pernik yang tak pernah disentuh. Digital Declutter bertugas mengosongkan seluruh ruangan tersebut, mengecat ulang dindingnya, lalu hanya memasukkan barang yang benar-benar kamu butuhkan dan sukai.
 
-Cal Newport mempopulerkan metode ini untuk menghentikan kebiasaan digital yang adiktif dan membantu kita membangun kembali hubungan yang waras dengan teknologi.
+Cal Newport memopulerkan metode ini untuk menghentikan kebiasaan digital yang adiktif dan membantu kita membangun kembali hubungan yang waras dengan teknologi.
 
 ## Apa Itu Digital Declutter?
 
-Proses ini merupakan *reset* sistem selama 30 hari di mana kamu berhenti sejenak dari berbagai aktivitas digital opsional. Tujuannya sederhana: mencari tahu teknologi mana yang memberi nilai nyata untuk hidupmu, dan mana yang sekadar mencuri perhatian.
+Proses ini merupakan *reset* sistem selama 30 hari ketika kamu berhenti sejenak dari berbagai aktivitas digital opsional. Tujuannya sederhana: mencari tahu teknologi mana yang memberi nilai nyata untuk hidupmu, dan mana yang sekadar mencuri perhatian.
 
 ## 1. Menentukan Aturan Main 
 
@@ -28,7 +28,7 @@ Alasan seperti "takut ketinggalan berita terkini" atau sekadar pelarian saat bos
 
 ## 2. Masa Puasa 30 Hari
 
-Setelah menyusun daftar larangan, jalani komitmen ini selama 30 hari penuh. Waktu sepanjang ini dibutuhkan oleh otak untuk melepaskan diri dari siklus dopamin instan akibat notifikasi.
+Setelah menyusun daftar larangan, jalani komitmen ini selama 30 hari penuh. Waktu sepanjang ini memberi otak kesempatan untuk melepaskan diri dari siklus dopamin instan akibat notifikasi.
 
 Fase yang biasa dialami:
 - **Minggu Pertama:** Kamu mungkin sering merasa gelisah, tangan refleks merogoh saku karena sindrom *phantom vibration*, dan dilanda kebosanan parah.
@@ -39,7 +39,7 @@ Cobalah ingat, kapan terakhir kali kamu duduk santai selama 15 menit penuh tanpa
 
 ## 3. Menyaring Kembali Teknologi
 
-Tahap ini menentukan keberhasilan *declutter*. Saat masa puasa berakhir, tahan keinginan untuk langsung mengunduh semua aplikasi lama. Kamu wajib memakai filter ketat terhadap teknologi apapun yang ingin diaktifkan kembali.
+Tahap ini menentukan keberhasilan *declutter*. Saat masa puasa berakhir, tahan keinginan untuk langsung mengunduh semua aplikasi lama. Kamu wajib memakai filter ketat terhadap teknologi apa pun yang ingin diaktifkan kembali.
 
 Gunakan rumus nilai berikut untuk mengevaluasi setiap alat:
 
@@ -86,4 +86,4 @@ Andi, seorang desainer grafis, mengeluh energi kreatifnya ludes karena terlalu l
 
 Awalnya ia membuat aturan ketat dengan menghapus Twitter, Instagram, dan Netflix. Ia hanya menyisakan Slack untuk kantor dan WhatsApp khusus keluarga. Memasuki minggu pertama puasanya, ia merasa tertinggal tren desain terkini. Namun di minggu ketiga, kebiasaan lamanya menggambar di buku sketsa justru muncul kembali. 
 
-Setelah genap sebulan, ia mengambil keputusan untuk membuang Twitter selamanya. Instagram tetap dipertahankan, namun dibatasi hanya lewat desktop setiap hari Jumat selama 30 menit demi keperluan riset desain. Hasilnya, fokus Andi perlahan pulih dan produktivitas kerjanya ikut membaik.
+Setelah genap sebulan, ia mengambil keputusan untuk membuang Twitter selamanya. Instagram diaktifkan kembali, tetapi dibatasi hanya lewat desktop setiap hari Jumat selama 30 menit demi keperluan riset desain. Hasilnya, fokus Andi perlahan pulih dan produktivitas kerjanya ikut membaik.

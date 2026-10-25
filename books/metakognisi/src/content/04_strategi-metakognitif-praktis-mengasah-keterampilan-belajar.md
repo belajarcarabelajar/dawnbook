@@ -20,7 +20,7 @@ Punya tujuan itu langkah awal yang penting saat merencanakan sesuatu. Kalau tuju
 - **R**elevant (Relevan): Tujuan ini harus nyambung sama kebutuhanmu dalam jangka panjang. Buat apa belajar ini?
   - *Contoh kurang pas:* "Aku mau ngafalin bahasa Latin, padahal kuliah jurusan IT."
   - *Contoh lebih baik:* "Aku perlu paham dasar-dasar Python karena semester depan ada kelas analisis data."
-- **T**ime-bound (Ada Batas Waktu): Tujuannya harus punya batas tenggat yang pasti.
+- **T**ime-bound (Ada Batas Waktu): Tujuannya harus punya tenggat yang pasti.
   - *Contoh kurang pas:* "Kapan-kapan aku tulis draf esainya deh."
   - *Contoh lebih baik:* "Hari Jumat jam 5 sore draf pertama esai harus sudah jadi."
 
@@ -45,7 +45,7 @@ Kamu bisa pakai cara ini di berbagai tahap:
 
 - **Setelah selesai:**
   - "Poin penting apa aja yang aku dapet hari ini?"
-  - "Masih ada pertanyaan yang ganjal nggak?"
+  - "Masih ada pertanyaan yang mengganjal nggak?"
   - "Bisa dipakai buat apa ilmu yang barusan aku pelajari?"
 
 Saat kamu rajin nanya ke diri sendiri, posisimu berubah dari sekadar 'nampung' informasi jadi pembelajar yang aktif. Kamu jadi lebih cepat sadar kalau ada materi yang belum dikuasai, sekaligus bisa nentuin langkah selanjutnya yang pas.
@@ -84,7 +84,7 @@ Dikasih tugas gede biasanya bikin kita malas duluan karena kelihatan ribet bange
 Langkah-langkah praktisnya:
 
 1. **Pahami dulu apa target akhirnya.** Kamu harus tahu wujud akhir dari tugas ini. Misalnya nulis esai 2000 kata soal AI di dunia kerja.
-2. **Pecah jadi tugas-tugas kecil.** Jangan langsung mikir "nulis esai". Pecah jadi: cari referensi jurnal, bikin kerangka tulisan, nulis pendahuluan, nulis isi argumen satu per satu, sampai ngerapihin daftar pustaka.
+2. **Pecah jadi tugas-tugas kecil.** Jangan langsung mikir "nulis esai". Pecah jadi: cari referensi jurnal, bikin kerangka tulisan, nulis pendahuluan, nulis isi argumen satu per satu, sampai ngerapiin daftar pustaka.
 3. **Kira-kira butuh waktu berapa lama.** Kasih estimasi waktu untuk masing-masing tugas kecil tadi. Ini ngebantu mengatur ritme kerjamu.
 4. **Urutkan mana yang harus duluan.** Jelas nggak mungkin nulis isi kalau risetnya belum jalan. Susun urutannya, mana yang bisa dikerjain barengan dan mana yang harus nunggu kerjaan lain beres.
 5. **Pasang target kecil-kecilan.** Bikin target simpel, misal: "Sore ini aku harus dapet 5 sumber jurnal utama yang bisa dipakai."

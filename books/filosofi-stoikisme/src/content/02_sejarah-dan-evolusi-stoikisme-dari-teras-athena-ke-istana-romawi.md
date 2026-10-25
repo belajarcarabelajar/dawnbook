@@ -6,11 +6,11 @@ Stoikisme bukanlah filsafat yang lahir di menara gading yang terisolasi. Ia lahi
 
 ## 1\. Zeno dari Citium
 
-Bayangkan kamu adalah seorang pedagang kain ungu yang kaya raya. Tiba-tiba, kapal kamu karam. Seluruh harta benda kamu tenggelam ke dasar laut Mediterania. kamu terdampar di kota asing tanpa sepeser uang pun. Apa yang kamu lakukan?
+Bayangkan kamu adalah seorang pedagang kain ungu yang kaya raya. Tiba-tiba, kapal kamu karam. Seluruh harta benda kamu tenggelam ke dasar laut Mediterania. Kamu terdampar di kota asing tanpa sepeser uang pun. Apa yang kamu lakukan?
 
-Inilah yang terjadi pada **Zeno dari Citium** sekitar tahun 300 SM. Alih-alih meratap, Zeno pergi ke sebuah toko buku di Athena, membaca tentang Socrates, dan bertanya kepada penjual buku di mana dia bisa menemukan orang-orang hebat seperti itu.
+Inilah yang terjadi pada **Zeno dari Citium**. Alih-alih meratap, Zeno pergi ke sebuah toko buku di Athena, membaca tentang Socrates, dan bertanya kepada penjual buku di mana dia bisa menemukan orang-orang hebat seperti itu.
 
-Zeno kemudian belajar di bawah asuhan berbagai guru filsafat (seperti kaum Sinis), namun ia akhirnya mengembangkan pemikirannya sendiri. Ia mulai mengajar di sebuah tempat umum yang disebut **Stoa Poikile** (Teras Berwarna).
+Zeno kemudian belajar di bawah asuhan berbagai guru filsafat (seperti kaum Sinis), tetapi ia akhirnya mengembangkan pemikirannya sendiri. Ia mulai mengajar di sebuah tempat umum yang disebut **Stoa Poikile** (Teras Berwarna).
 
 > **Pelajaran Penting:** Nama "Stoikisme" berasal dari kata *Stoa* (teras/serambi). Berbeda dengan sekolah filsafat lain yang tertutup, Stoikisme diajarkan di ruang publik. Ini menunjukkan bahwa filsafat ini adalah untuk **semua orang**, bukan hanya kaum elit akademis.
 
@@ -36,7 +36,7 @@ Pada masa ini, Stoikisme mulai menyebar ke Roma. Para filsuf mulai melunakkan be
 
 ### C. Stoa Akhir / Stoa Romawi (Abad ke-1 - ke-2 M)
 
-Inilah era yang paling kita kenal sekarang. Pada periode ini, diskusi teoritis tentang logika dan fisika mulai berkurang, digantikan oleh fokus penuh pada **Etika** dan **pengembangan karakter**.
+Inilah era yang paling kita kenal sekarang. Pada periode ini, diskusi teoretis tentang logika dan fisika mulai berkurang, digantikan oleh fokus penuh pada **Etika** dan **pengembangan karakter**.
 
 - Di sini kita menemukan tiga tokoh utama: **Seneca** (negarawan), **Epictetus** (mantan budak), dan **Marcus Aurelius** (kaisar).
 
@@ -73,12 +73,12 @@ Salah satu bukti dari evolusi Stoikisme adalah bagaimana ia bisa merangkul spekt
 | Tokoh | Latar Belakang | Fokus Pemikiran |
 | --- | --- | --- |
 | **Epictetus** | Seorang budak yang fisiknya cacat. | Kebebasan batin adalah satu-satunya kebebasan sejati. |
-| **Seneca** | Penasihat kaisar dan orang terkaya di Roma. | Bagaimana menggunakan kekayaan tanpa menjadi budaknya. |
+| **Seneca** | Penasihat kaisar dan salah satu orang terkaya di Roma. | Bagaimana menggunakan kekayaan tanpa menjadi budaknya. |
 | **Marcus Aurelius** | Orang paling berkuasa di dunia (Kaisar). | Menjaga kerendahan hati dan integritas di tengah kekuasaan absolut. |
 
 *Pertanyaan Filosofis: Jika sebuah filsafat mampu memberikan kedamaian batin yang sama bagi seorang budak maupun seorang kaisar, bukankah itu menunjukkan adanya kebenaran fundamental di dalamnya?*
 
-## 5\. Stoikisme dalam Sejarah
+## 5\. Pelajaran Sejarah Stoikisme untuk Masa Kini
 
 Bagaimana sejarah Stoikisme ini membantu kita di dunia modern?
 
@@ -89,8 +89,8 @@ Bagaimana sejarah Stoikisme ini membantu kita di dunia modern?
 
 ## Pengaruh Stoikisme Setelah Romawi
 
-Stoikisme tidak mati bersama runtuhnya Kekaisaran Romawi. Ia "berhibernasi" dalam tulisan-tulisan para Bapa Gereja, muncul kembali di era Renaissance, memengaruhi para pemikir Pencerahan, dan kini populer kembali di era digital melalui terapi kognitif perilaku (CBT) dan gerakan pengembangan diri.
+Stoikisme tidak mati bersama runtuhnya Kekaisaran Romawi. Ia "berhibernasi" dalam tulisan-tulisan para Bapa Gereja, muncul kembali di era Renaisans, memengaruhi para pemikir Pencerahan, dan kini populer kembali di era digital melalui terapi kognitif perilaku (CBT) dan gerakan pengembangan diri.
 
 Evolusi Stoikisme menunjukkan satu hal: **Selama manusia masih menghadapi penderitaan, ketidakpastian, dan kematian, prinsip-prinsip yang diajarkan di Teras Berwarna Athena akan selalu relevan.**
 
-> **Insight:** Stoikisme bukanlah tentang menjadi orang yang tidak punya perasaan, melainkan tentang membangun ketangguhan sejarah dalam diri kita agar tidak hancur oleh kesulitan hidup yang tidak terelakkan.
+> **Insight:** Stoikisme bukanlah tentang menjadi orang yang tidak punya perasaan, melainkan tentang membangun ketangguhan batin dalam diri kita agar tidak hancur oleh kesulitan hidup yang tidak terelakkan.

@@ -1,6 +1,6 @@
 ## Mekanika Gaya Angkat (Lift)
 
-Sering kali muncul pertanyaan mengenai bagaimana sebuah pesawat besi berbobot ratusan ton dapat melayang di udara yang tampak kosong. Penjelasannya ada pada interaksi fisika antara fluida udara, geometri penampang sayap, dan kecepatan gerak. Mekanisme dasarnya bernama **Gaya Angkat (*Lift*)**, yaitu gaya aerodinamika yang melawan gaya gravitasi dan memungkinkan penerbangan berlangsung secara stabil.
+Sering kali muncul pertanyaan mengenai bagaimana sebuah pesawat berbobot ratusan ton dapat melayang di udara yang tampak kosong. Penjelasannya ada pada interaksi fisika antara fluida udara, geometri penampang sayap, dan kecepatan gerak. Mekanisme dasarnya bernama **Gaya Angkat (*Lift*)**, yaitu gaya aerodinamika yang melawan gaya gravitasi dan memungkinkan penerbangan berlangsung secara stabil.
 
 ### 1. Gaya Angkat dari Perbedaan Tekanan
 
@@ -10,7 +10,7 @@ Ketika aliran udara bertemu dengan airfoil yang bergerak maju, aliran tersebut t
 
 #### Aliran di Pipa yang Menyempit
 
-> Bayangkan aliran fluida yang mengalir melalui penyempitan saluran pipa. Ketika luas penampang menyempit, fluida dipaksa menambah kecepatannya untuk menjaga laju aliran massa tetap konstan. Fenomena serupa terjadi di atas permukaan atas airfoil, di mana kelengkungan geometri menciptakan percepatan aliran lokal.
+> Bayangkan aliran fluida yang mengalir melalui penyempitan saluran pipa. Ketika luas penampang menyempit, fluida dipaksa menambah kecepatannya untuk menjaga laju aliran massa tetap konstan. Fenomena serupa terjadi di atas permukaan atas airfoil, tempat kelengkungan geometri menciptakan percepatan aliran lokal.
 
 ### 2. Bernoulli dan Newton
 
@@ -18,7 +18,7 @@ Dalam literatur aerodinamika klasik, mekanisme pembangkitan gaya angkat kerap di
 
 #### A. Prinsip Bernoulli (Perspektif Distribusi Tekanan)
 
-Prinsip Bernoulli untuk aliran fluida tak termampatkan (*incompressible*) dan tanpa viskositas (*inviscid*) menyatakan bahwa peningkatan kecepatan fluida di sepanjang garis arus berbanding terbalik dengan tekanan statisnya.
+Prinsip Bernoulli untuk aliran fluida tak termampatkan (*incompressible*) dan tanpa viskositas (*inviscid*) menyatakan bahwa peningkatan kecepatan fluida di sepanjang garis arus diiringi penurunan tekanan statisnya.
 
 Secara matematis, hubungan kekekalan energi mekanik aliran dinyatakan dalam Persamaan Bernoulli:
 
@@ -32,7 +32,7 @@ Keterangan parameter:
 - $\rho$: Massa jenis fluida ($\text{kg/m}^3$)
 - $v$: Kecepatan aliran fluida ($\text{m/s}$)
 
-**Mekanisme Fisis:** Kecepatan aliran udara di atas permukaan airfoil lebih tinggi daripada permukaan bawah ($v_{\text{atas}} > v_{\text{bawah}}$). Sesuai persamaan Bernoulli, kondisi ini menghasilkan tekanan statis di permukaan atas yang lebih rendah daripada permukaan bawah ($P_{\text{atas}} < P_{\text{bawah}}$). Integrasi perbedaan tekanan netral ($\Delta P = P_{\text{bawah}} - P_{\text{atas}}$) di seluruh luasan sayap menghasilkan gaya angkat total ke arah atas.
+**Mekanisme Fisis:** Kecepatan aliran udara di atas permukaan airfoil lebih tinggi daripada permukaan bawah ($v_{\text{atas}} > v_{\text{bawah}}$). Sesuai persamaan Bernoulli, kondisi ini menghasilkan tekanan statis di permukaan atas yang lebih rendah daripada permukaan bawah ($P_{\text{atas}} < P_{\text{bawah}}$). Integrasi perbedaan tekanan neto ($\Delta P = P_{\text{bawah}} - P_{\text{atas}}$) di seluruh luasan sayap menghasilkan gaya angkat total ke arah atas.
 
 #### B. Hukum Ketiga Newton (Perspektif Kekekalan Momentum)
 
@@ -42,7 +42,7 @@ Hukum Ketiga Newton menyatakan bahwa setiap aksi gaya menghasilkan reaksi gaya y
 
 ### 3. Persamaan Gaya Angkat (*The Lift Equation*)
 
-Untuk mengkuantifikasi besaran gaya angkat yang dihasilkan oleh suatu sistem aerodinamika, perancang menggunakan persamaan aerodinamika standar:
+Untuk menguantifikasi besaran gaya angkat yang dihasilkan oleh suatu sistem aerodinamika, perancang menggunakan persamaan aerodinamika standar:
 
 $$
 L = \frac{1}{2} \rho v^2 S C_L
@@ -51,16 +51,16 @@ $$
 Keterangan variabel:
 
 - $L$ (*Lift*): Gaya angkat total yang dihasilkan ($\text{Newton}$)
-- $\rho$ (*Density*): Massa jenis udara ambient ($\text{kg/m}^3$)
+- $\rho$ (*Density*): Massa jenis udara sekitar ($\text{kg/m}^3$)
 - $v$ (*Velocity*): Kecepatan relatif wahana terhadap aliran udara bebas ($\text{m/s}$)
 - $S$ (*Surface Area*): Luas proyeksi planform sayap ($\text{m}^2$)
 - $C_L$ (*Coefficient of Lift*): Koefisien gaya angkat tanpa dimensi (*dimensionless coefficient*) yang ditentukan oleh geometri airfoil dan sudut serang
 
-Perlu diperhatikan bahwa kecepatan berbanding kuadrat ($v^2$) terhadap gaya angkat. Penggandaan kecepatan terbang akan melipatgandakan gaya angkat hingga empat kali lipat pada kondisi parameter lainnya tetap.
+Perlu diperhatikan bahwa gaya angkat berbanding lurus dengan kuadrat kecepatan ($v^2$). Penggandaan kecepatan terbang akan melipatgandakan gaya angkat hingga empat kali lipat pada kondisi parameter lainnya tetap.
 
 ### 4. Pengaruh Sudut Serang (*Angle of Attack*)
 
-**Sudut Serang (*Angle of Attack*/$\text{AoA}$ atau $\alpha$)** didefinisikan sebagai sudut geometris antara garis chord (*chord line*, garis lurus yang menghubungkan *leading edge* ke *trailing edge*) dengan vektor kecepatan aliran udara relatif (*relative wind*).
+**Sudut Serang (*Angle of Attack*/$\text{AoA}$ atau $\alpha$)** didefinisikan sebagai sudut geometris antara garis kord (*chord line*, garis lurus yang menghubungkan *leading edge* ke *trailing edge*) dengan vektor kecepatan aliran udara relatif (*relative wind*).
 
 #### Hubungan $\text{AoA}$ dan Koefisien Angkat ($C_L$)
 
@@ -106,9 +106,9 @@ Dengan data tersebut, sayap drone menghasilkan gaya angkat sebesar $120\text{ N}
 Pada fase lepas landas (*take-off*), pesawat membutuhkan gaya angkat yang melampaui bobot totalnya ($L > W$) dari kondisi awal diam di landasan pacu. Langkah operasional yang dilakukan meliputi:
 
 1. **Akselerasi Kecepatan ($v$):** Mesin pendorong menghasilkan daya dorong penuh (*maximum thrust*) guna mempercepat laju pesawat, memanfaatkan peningkatan kuadratik pada suku $v^2$ dalam persamaan gaya angkat.
-2. **Rotasi Geometris (Peningkatan $\text{AoA}$):** Setelah mencapai kecepatan keputusan rotasi ($V_r$), kemudi elevon atau elevator digerakkan untuk menaikkan hidung pesawat (*pitch up*). Gerakan rotasi ini menaikkan sudut serang ($\alpha$), yang secara instan melipatgandakan nilai $C_L$.
+2. **Rotasi Geometris (Peningkatan $\text{AoA}$):** Setelah mencapai kecepatan rotasi ($V_r$), kemudi elevon atau elevator digerakkan untuk menaikkan hidung pesawat (*pitch up*). Gerakan rotasi ini menaikkan sudut serang ($\alpha$), yang meningkatkan nilai $C_L$.
 
-Perpaduan kecepatan dinamis yang tinggi dan nilai $C_L$ yang optimal menghasilkan gaya angkat total ($L$) yang mengatasi berat total wahana ($W = m \cdot g$), sehingga pesawat mengudara secara mulus.
+Perpaduan tekanan dinamis yang tinggi dan nilai $C_L$ yang optimal menghasilkan gaya angkat total ($L$) yang mengatasi berat total wahana ($W = m \cdot g$), sehingga pesawat mengudara secara mulus.
 
 > **Rangkuman Konseptual:** Pembangkitan gaya angkat bukan semata-mata berasal dari bentuk profil sayap, melainkan integrasi dinamis antara percepatan fluida, perbedaan gradien tekanan, defleksi momentum aliran udara ke bawah (*downwash*), serta orientasi sudut serang terhadap vektor kecepatan relatif.
 
@@ -117,7 +117,7 @@ Perpaduan kecepatan dinamis yang tinggi dan nilai $C_L$ yang optimal menghasilka
 Eksperimen sederhana dapat dilakukan menggunakan selembar kertas tipis:
 
 1. Pegang kedua sudut sisi pendek kertas dengan kedua tangan di dekat bibir bawah hingga lembaran kertas menjuntai melengkung ke bawah.
-2. Berikan hembusan napas mendatar yang kuat tepat di atas permukaan cembung kertas.
+2. Berikan embusan napas mendatar yang kuat tepat di atas permukaan cembung kertas.
 3. Lembaran kertas akan teramati terangkat naik secara seketika.
 
 **Penjelasan Fisis:** Aliran udara berkecepatan tinggi tepat di atas kertas menciptakan zona tekanan statis rendah, sedangkan udara diam di bawah permukaan kertas mempertahankan tekanan atmosfer standar yang lebih tinggi. Gradien tekanan positif ke arah atas ini mendorong lembaran kertas terangkat, merefleksikan prinsip dasar yang menopang penerbangan pesawat berbadan lebar.

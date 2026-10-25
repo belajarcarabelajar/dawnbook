@@ -1,4 +1,4 @@
-## Pengorganisasian dan Hirarki Interaksi Kelas
+## Pengorganisasian dan Hierarki Interaksi Kelas
 
 Dalam ruang kelas, percakapan antara guru dan siswa tidak berlangsung secara acak. Setiap tuturan yang terucap memiliki struktur berlapis yang tertata rapi. Model hierarki wacana yang dirumuskan oleh Sinclair dan Coulthard (1975) memberikan pijakan penting untuk memahami bagaimana interaksi di dalam kelas diorganisasikan, mulai dari tingkat paling luas hingga unit komunikasi terkecil.
 
@@ -12,7 +12,7 @@ Dalam ruang kelas, percakapan antara guru dan siswa tidak berlangsung secara aca
 Sinclair dan Coulthard membagi struktur percakapan kelas menjadi lima tingkatan hierarkis. Setiap tingkatan yang lebih tinggi dibentuk oleh unit-unit di tingkat bawahnya:
 
 1. **Pelajaran (*Lesson*)**: Unit wacana tertinggi yang mencakup keseluruhan jam tatap muka di kelas, mulai dari pembukaan hingga penutupan.
-2. **Transaksi (*Transaction*)**: Sub-kegiatan di dalam pelajaran yang fokus pada satu pokok bahasan atau materi tertentu. Suatu transaksi biasanya ditandai oleh pergeseran topik.
+2. **Transaksi (*Transaction*)**: Subkegiatan di dalam pelajaran yang fokus pada satu pokok bahasan atau materi tertentu. Suatu transaksi biasanya ditandai oleh pergeseran topik.
 3. **Pertukaran (*Exchange*)**: Unit dasar interaksi timbal balik antara penutur (biasanya guru) dan mitra tutur (siswa).
 4. **Gerakan (*Move*)**: Kontribusi individual dalam satu pertukaran, seperti memberi inisiasi, memberikan jawaban, atau mengevaluasi respons.
 5. **Tindak Tutur (*Act*)**: Unit komunikasi terkecil berupa klausa atau kalimat yang memiliki fungsi pragmatis spesifik, seperti menyapa, bertanya, menegaskan, atau memuji.
@@ -33,7 +33,7 @@ flowchart TD
 
 ### Pola Pemulai-Respons-Komentar (IRF Pattern)
 
-Di tingkat pertukaran (*exchange*), interaksi pembelajaran di sekolah dasar paling sering mengikuti pola tiga langkah, yaitu **Pemulai (*Initiation*)**, **Respons (*Response*)**, dan **Komentar (*Feedback/Evaluation*)** atau disingkat pola IRF.
+Di tingkat pertukaran (*exchange*), interaksi pembelajaran di sekolah dasar paling sering mengikuti pola tiga langkah, yaitu **Pemulai (*Initiation*)**, **Respons (*Response*)**, dan **Komentar (*Feedback/Follow-up*)** atau disingkat pola IRF.
 
 - **Pemulai (*Initiation*)**: Langkah pembuka yang didominasi guru untuk mengenalkan topik baru atau mengajukan pertanyaan.
 - **Respons (*Response*)**: Tanggapan atau jawaban dari siswa terhadap inisiasi guru.

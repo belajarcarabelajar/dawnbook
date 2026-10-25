@@ -2,7 +2,7 @@
 
 Bab-bab sebelumnya telah membawa kamu memahami apa itu *flow* dan bagaimana mekanisme biologis di balik kondisi ini bekerja. Sekarang kita melihat apa yang sedang dipersiapkan oleh sains dan teknologi di bidang ini.
 
-Dahulu, masuk ke kondisi *flow* dianggap sebagai sebuah "keberuntungan" atau hasil dari latihan disiplin selama bertahun-tahun. Namun, hari ini kita sedang memasuki era **"Flow on Demand"** - sebuah masa di mana kondisi alir bukan lagi sekadar kebetulan, melainkan sesuatu yang bisa dirancang, diinduksi, dan dioptimalkan secara presisi.
+Dahulu, masuk ke kondisi *flow* dianggap sebagai sebuah "keberuntungan" atau hasil dari latihan disiplin selama bertahun-tahun. Namun, hari ini kita sedang memasuki era **"Flow on Demand"** - sebuah masa ketika kondisi alir bukan lagi sekadar kebetulan, melainkan sesuatu yang bisa dirancang, diinduksi, dan dioptimalkan secara presisi.
 
 ## 1\. Teknologi Induksi Flow
 
@@ -16,7 +16,7 @@ Teknologi BCI masa depan memungkinkan komputer untuk membaca aktivitas elektrik 
 
 ### B. Stimulasi Otak Non-Invasif
 
-Penggunaan **tDCS (transcranial Direct Current Stimulation)** atau **tACS (transcranial Alternating Current Stimulation)** sedang diteliti untuk menginduksi *Transient Hypofrontality* - kondisi di mana bagian korteks prefrontal "beristirahat" sejenak agar kreativitas dan insting mengambil alih.
+Penggunaan **tDCS (transcranial Direct Current Stimulation)** atau **tACS (transcranial Alternating Current Stimulation)** sedang diteliti untuk menginduksi *Transient Hypofrontality* - kondisi ketika bagian korteks prefrontal "beristirahat" sejenak agar kreativitas dan insting mengambil alih.
 
 - *Analogi:* Bayangkan otak kamu seperti sebuah orkestra. tDCS bertindak seperti konduktor yang meminta bagian "analisis kritis" (yang sering membuat kita ragu) untuk bermain lebih pelan, sehingga melodi "intuisi" bisa terdengar lebih nyaring.
 
@@ -28,12 +28,12 @@ Di masa depan, jam tangan pintar atau cincin pintar tidak hanya menghitung langk
 
 ## 2\. Dynamic Difficulty Adjustment (DDA) dalam Desain Game Modern
 
-Industri game adalah pelopor dalam penerapan teori *flow*. Namun, masa depannya terletak pada **Hiper-personalisasi**.
+Industri game adalah pelopor dalam penerapan teori *flow*. Namun, masa depannya terletak pada **Hiperpersonalisasi**.
 
 Pernahkah kamu merasa sebuah game tiba-tiba menjadi terlalu sulit atau justru terlalu membosankan? Riset masa depan berfokus pada algoritma **Dynamic Difficulty Adjustment (DDA)** yang didukung oleh AI.
 
 - **Skenario:** Jika AI mendeteksi kamu mulai sering melakukan kesalahan (indikasi *Anxiety*), ia tidak akan sekadar mengurangi nyawa musuh, melainkan mengubah tata letak level secara *procedural* agar sesuai dengan gaya bermain kamu.
-- **Real-world Application:** Game seperti *Left 4 Dead* telah menggunakan "AI Director", namun masa depan akan melibatkan pengenalan emosi melalui kamera wajah atau sensor detak jantung pemain untuk memastikan pemain tetap berada dalam keseimbangan matematis:
+- **Real-world Application:** Game seperti *Left 4 Dead* telah menggunakan "AI Director", tetapi masa depan akan melibatkan pengenalan emosi melalui kamera wajah atau sensor detak jantung pemain untuk memastikan pemain tetap berada dalam keseimbangan matematis:
    $$\frac{\text{Tantangan}}{\text{Keterampilan}} \approx 1$$
 
 Jika rasio ini menjauh dari angka 1, pengalaman *flow* akan hilang. AI masa depan bertugas menjaga rasio ini tetap stabil secara dinamis setiap detiknya.
@@ -48,7 +48,7 @@ Materi pelajaran akan dipecah menjadi unit-unit kecil yang memiliki struktur sep
 
 ### Lingkungan Belajar Imersif (VR/AR)
 
-Dengan **Virtual Reality (VR)**, seorang siswa sejarah tidak lagi membaca tentang Roma Kuno; mereka "berada" di sana.
+Dengan **Virtual Reality (VR)**, seorang siswa sejarah tidak lagi membaca tentang Roma Kuno; ia "berada" di sana.
 
 > **Penting:** Imersi total dalam VR meminimalkan gangguan eksternal (distraksi), yang merupakan musuh utama *flow*. Saat seluruh bidang pandang dan pendengaran kamu terkunci pada satu tugas, ambang batas untuk masuk ke kondisi alir menjadi jauh lebih rendah.
 
@@ -58,11 +58,11 @@ Bayangkan sebuah ruang kerja masa depan yang disebut **"Flow Hub"**. Ini bukan s
 
 **Skenario Penggunaan:**
 
-1. **Masuk:** kamu duduk di kursi kerja kamu. Sensor di kursi mengukur postur dan detak jantung kamu.
+1. **Masuk:** Kamu duduk di kursi kerja kamu. Sensor di kursi mengukur postur dan detak jantung kamu.
 2. **Kalibrasi:** Komputer melihat jadwal kamu dan tingkat kelelahan kamu pagi itu melalui data tidur dari *wearable* kamu.
-3. **Induksi:** Lampu di meja kamu berubah menjadi warna biru lembut, dan *noise-canceling headphones* kamu memutar frekuensi *binaural beats* yang disesuaikan untuk memicu gelombang otak *Gamma*.
+3. **Induksi:** Lampu di meja kamu berubah menjadi warna biru lembut, dan *noise-canceling headphones* kamu memutar frekuensi *binaural beats* yang disesuaikan untuk memicu gelombang otak *Alpha* atau *Theta*.
 4. **Eksekusi:** Selama 90 menit, semua notifikasi dari ponsel dan email diblokir secara total oleh sistem karena sensor mendeteksi kamu telah masuk ke kondisi *flow*.
-5. **Pemulihan:** Setelah tugas selesai, sistem mendeteksi penurunan efisiensi dan memaksa kamu melakukan istirahat aktif dengan panduan pernapasan.
+5. **Pemulihan:** Setelah tugas selesai atau saat sistem mendeteksi penurunan efisiensi, sistem memaksa kamu melakukan istirahat aktif dengan panduan pernapasan.
 
 ## 5\. Tantangan dan Etika di Masa Depan
 
@@ -74,8 +74,8 @@ Meskipun terdengar menjanjikan, riset masa depan juga menghadapi dilema etis yan
 
 ## Flow sebagai Literasi Baru
 
-Masa depan riset *state of flow* tidak lagi memandang kondisi ini sebagai sesuatu yang mistis. Kita sedang bergerak menuju dunia di mana **kemampuan untuk masuk ke dalam flow dianggap sebagai literasi dasar**, sama pentingnya dengan membaca atau berhitung.
+Masa depan riset *state of flow* tidak lagi memandang kondisi ini sebagai sesuatu yang mistis. Kita sedang bergerak menuju dunia tempat **kemampuan untuk masuk ke dalam flow dianggap sebagai literasi dasar**, sama pentingnya dengan membaca atau berhitung.
 
 Dengan bantuan AI, neurosains, dan desain yang cerdas, kita tidak hanya akan bekerja lebih cepat, tetapi juga lebih bahagia, karena kita menghabiskan lebih banyak waktu dalam kondisi saat kesadaran diri menghilang dan keahlian kita berada di puncaknya.
 
-> "Masa depan bukan tentang bekerja lebih keras, tetapi tentang hidup lebih banyak dalam aliran (flow)."
+> "Masa depan bukan tentang bekerja lebih keras, tetapi tentang hidup lebih banyak dalam alir (flow)."

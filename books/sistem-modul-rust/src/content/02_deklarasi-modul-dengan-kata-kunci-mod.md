@@ -1,6 +1,6 @@
 ## Deklarasi Modul dengan Kata Kunci 'mod'
 
-Kata kunci `mod` digunakan untuk membuat ruang lingkup baru yang mengelompokkan kode terkait agar tetap terstruktur. Modul berfungsi mirip seperti bab dan sub-bab pada buku, memisahkan bagian-bagian tulisan agar kode tetap rapi dan mudah ditelusuri.
+Kata kunci `mod` digunakan untuk membuat ruang lingkup baru yang mengelompokkan kode terkait agar tetap terstruktur. Modul berfungsi seperti bab dan sub-bab pada buku, memisahkan bagian-bagian tulisan agar kode tetap rapi dan mudah ditelusuri.
 
 ## Apa itu Modul?
 
@@ -12,7 +12,7 @@ Fokus pembahasan kali ini adalah *inline modules*, yaitu modul yang dideklarasik
 
 Menyimpan ratusan file secara berserakan di desktop tentu tidak rapi. Folder seperti "Pekerjaan" atau "Kuliah" dibuat untuk mengelompokkannya secara spesifik:
 - Folder berfungsi sebagai modul (`mod`).
-- Berkas di dalamnya berfungsi sebagai elemen kode (`fn`, `struct`, dll.).
+- File di dalamnya berfungsi sebagai elemen kode (`fn`, `struct`, dll.).
 
 ## Sintaks Dasar mod
 
@@ -30,11 +30,11 @@ mod manajemen_dapur {
 }
 ```
 
-Secara default, semua elemen di dalam modul bersifat privat. Fungsi `cuci_piring` dan `masak_nasi` tidak bisa dipanggil dari luar modul `manajemen_dapur` tanpa izin akses khusus.
+Secara default, semua item di dalam modul bersifat privat. Fungsi `cuci_piring` dan `masak_nasi` tidak bisa dipanggil dari luar modul `manajemen_dapur` tanpa ditandai dengan kata kunci `pub`.
 
-## Mengelompokkan Berbagai Tipe Data
+## Mengelompokkan Berbagai Item
 
-Modul dapat berisi hampir semua tipe data Rust untuk menjaga kerapian struktur proyek.
+Modul dapat berisi berbagai item Rust untuk menjaga kerapian struktur proyek.
 
 ### Modul untuk Entitas Data
 
@@ -86,7 +86,7 @@ mod depan_restoran {
 }
 ```
 
-Pada struktur ini, `depan_restoran` bertindak sebagai modul utama, sedangkan `pelayanan` dan `kasir` merupakan sub-modul di dalamnya. Jalur akses fungsi di dalam sub-modul ditulis menggunakan tanda `::`, contohnya `depan_restoran::pelayanan::ambil_pesanan()` jika fungsi tersebut bersifat publik.
+Pada struktur ini, `depan_restoran` bertindak sebagai modul utama, sedangkan `pelayanan` dan `kasir` merupakan sub-modul di dalamnya. Jalur akses fungsi di dalam sub-modul ditulis menggunakan tanda `::`, contohnya `depan_restoran::pelayanan::ambil_pesanan()` jika modul `pelayanan` dan fungsi tersebut bersifat publik.
 
 ## Kasus Penggunaan Nyata
 
@@ -132,4 +132,4 @@ Penerapan `mod` mendukung pemisahan tanggung jawab. Tim pengembang dapat fokus p
 
 - **Gunakan nama deskriptif**: Pilih nama modul berdasarkan kegunaannya, bukan cara kerjanya. Sebagai contoh, `mod autentikasi` lebih baik dibandingkan `mod fungsi_login`.
 - **Batasi kedalaman sub-modul**: Usahakan tingkat kedalaman hierarki tidak lebih dari 3 atau 4 tingkat agar penulisan jalur pemanggilannya tidak terlalu panjang.
-- **Manfaatkan untuk pengujian**: Pengujian unit di Rust umumnya diletakkan di dalam modul yang sama dengan kode utama menggunakan deklarasi `mod tests`.
+- **Manfaatkan untuk pengujian**: Pengujian unit di Rust umumnya diletakkan di file yang sama dengan kode utama, di dalam sub-modul `mod tests`.

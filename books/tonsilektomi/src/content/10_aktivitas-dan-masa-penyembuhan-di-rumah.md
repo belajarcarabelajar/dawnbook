@@ -71,7 +71,7 @@ Mari kita lihat bagaimana proses pemulihan berjalan pada Andi, seorang anak beru
 
 Pada tiga hari pertama, Andi hanya menghabiskan waktunya dengan beristirahat di tempat tidur sambil menonton film favoritnya. Sang ibu terus mengingatkan Andi untuk meminum seteguk air setiap 15 menit agar tenggorokan tidak mengering. 
 
-Memasuki hari ke-6, Andi mulai merasa sangat lapar dan ingin bermain sepeda di luar rumah. Namun, ibunya segera melarang karena masa ini merupakan waktu di mana keropeng amandel mulai terkelupas dan rawan berdarah. Sebagai gantinya, Andi diberikan es krim kesukaannya agar tenang di rumah.
+Memasuki hari ke-6, Andi mulai merasa sangat lapar dan ingin bermain sepeda di luar rumah. Namun, ibunya segera melarang karena masa ini merupakan waktu ketika keropeng amandel mulai terkelupas dan rawan berdarah. Sebagai gantinya, Andi diberikan es krim kesukaannya agar tenang di rumah.
 
 Pada hari ke-11, rasa nyeri Andi sudah sangat mereda sehingga ia mulai bisa menelan roti lunak dengan nyaman. Akhirnya, pada hari ke-14, dokter memberikan izin bagi Andi untuk kembali bersekolah, meski ia belum boleh mengikuti pelajaran olahraga selama satu minggu ke depan.
 
@@ -79,7 +79,7 @@ Pada hari ke-11, rasa nyeri Andi sudah sangat mereda sehingga ia mulai bisa mene
 
 Untuk mempermudah pemantauan, berikut beberapa hal penting yang harus dipastikan selama masa pemulihan:
 
-* **Istirahat total** minimal selama 48 jam pertama pascaoperasi.
+* **Istirahat total** minimal selama 3 hari pertama pascaoperasi.
 * **Jaga kepala tetap tinggi** saat berbaring atau tidur untuk meminimalisasi pembengkakan.
 * **Hidrasi konstan:** Selalu sediakan air putih di dekat tempat tidur dan minumlah sedikit demi sedikit secara berkala.
 * **Stop aktivitas fisik berat** selama dua minggu penuh, terutama yang membutuhkan banyak tenaga.

@@ -1,6 +1,6 @@
 ## Pertolongan Pertama Psikologis
 
-Bayangkan situasi darurat di lokasi kecelakaan massal atau sesaat setelah gempa bumi besar mengguncang. Di antara puing-puing reruntuhan, terlihat seorang penyintas yang secara fisik tidak mengalami luka terbuka parah, namun tubuhnya mematung, gemetaran hebat, dan pandangan matanya kosong. Langkah apa yang paling tepat untuk diambil dalam detik-detik awal krisis tersebut?
+Bayangkan situasi darurat di lokasi kecelakaan massal atau sesaat setelah gempa bumi besar mengguncang. Di antara puing-puing reruntuhan, terlihat seorang penyintas yang secara fisik tidak mengalami luka terbuka parah, tetapi tubuhnya mematung, gemetaran hebat, dan pandangan matanya kosong. Langkah apa yang paling tepat untuk diambil dalam detik-detik awal krisis tersebut?
 
 Sama seperti luka fisik yang membutuhkan perban dan pembersihan antiseptik segera untuk mencegah infeksi sistemik, luka emosional akut akibat bencana membutuhkan intervensi awal yang terstruktur, yaitu **Pertolongan Pertama Psikologis** (*Psychological First Aid* atau PFA). PFA bukanlah terapi psikologis jangka panjang ataupun sesi konseling klinis mendalam; PFA berfungsi sebagai "perban mental" yang dirancang untuk menstabilkan kondisi emosional, mengurangi kepanikan akut, dan memulihkan rasa aman dasar.
 
@@ -18,8 +18,8 @@ Untuk menjaga keselamatan psikologis penyintas dan integritas penolong, penting 
 
 - **Bukan Terapi Klinis:** PFA tidak bertujuan mengobati gangguan kejiwaan mendalam atau menggantikan psikoterapi formal.
 - **Bukan Diagnosis Psikiatris:** Penolong tidak melakukan asesmen patologis atau melabeli kondisi penyintas dengan diagnosis medis tertentu.
-- **Bukan *Psychological Debriefing*:** PFA tidak memaksa penyintas merekonstruksi alur kejadian traumatis secara kronologis, karena pemaksaan narasi trauma pada fase akut terbukti meningkatkan risiko retraumatisasi.
-- **Dapat Dilakukan oleh Non-Profesional:** PFA dirancang agar dapat dipelajari dan diterapkan oleh relawan lapangan, petugas tanggap darurat, maupun masyarakat umum setelah melalui pelatihan terstandar.
+- **Bukan *Psychological Debriefing*:** PFA tidak memaksa penyintas merekonstruksi alur kejadian traumatis secara kronologis, karena pemaksaan narasi trauma pada fase akut dapat meningkatkan risiko retraumatisasi.
+- **Bukan Hanya untuk Profesional:** PFA dirancang agar dapat dipelajari dan diterapkan oleh relawan lapangan, petugas tanggap darurat, maupun masyarakat umum setelah melalui pelatihan terstandar.
 
 ---
 
@@ -55,7 +55,7 @@ Organisasi Kesehatan Dunia (*World Health Organization* / WHO) merumuskan tiga p
 
 ### Protokol Delapan Langkah Implementasi PFA
 
-Standar internasional yang dikembangkan oleh *National Center for PTSD* (NCTSN) merinci delapan komponen operasional dalam implementasi PFA:
+Standar internasional yang dikembangkan oleh *National Child Traumatic Stress Network* (NCTSN) dan *National Center for PTSD* merinci delapan komponen operasional dalam implementasi PFA:
 
 #### 1. Kontak dan Keterlibatan (*Contact and Engagement*)
 Membangun relasi awal secara empatik tanpa mengintimidasi atau melanggar ruang personal penyintas:
@@ -63,7 +63,7 @@ Membangun relasi awal secara empatik tanpa mengintimidasi atau melanggar ruang p
 - **Etika:** Gunakan intonasi suara yang tenang, bersahabat, dan nada yang rendah. Pertahankan jarak fisik yang sopan dan hindari kontak fisik tanpa persetujuan verbal.
 
 #### 2. Keamanan dan Kenyamanan (*Safety and Comfort*)
-Menyediakan lingkungan fisik dan psikologis yang kondusif guna meredakan respon stres fisiologis:
+Menyediakan lingkungan fisik dan psikologis yang kondusif guna meredakan respons stres fisiologis:
 - **Tindakan Fisik:** Jauhkan penyintas dari pusat kebisingan, kerumunan panik, atau pemandangan puing-puing traumatik. Sediakan selimut, minuman hangat, atau tempat duduk yang nyaman.
 - **Kenyamanan Informasi:** Bagikan pembaruan situasi yang telah terverifikasi oleh otoritas terkait untuk mengurangi ketidakpastian (*uncertainty reduction*).
 
@@ -85,7 +85,7 @@ Bencana sering kali menghancurkan jejaring sosial primer. Memulihkan kontak anta
 - **Fasilitasi Relasi:** Membantu pencarian anggota keluarga yang terpisah melalui posko *tracing*, atau menghubungkan penyintas tunggal dengan kelompok komunitas yang suportif di penampungan.
 
 #### 7. Psikoedukasi Koping (*Information on Coping*)
-Memberikan pemahaman mendasar mengenai respon stres akut agar individu tidak merasa dirinya mengalami gangguan mental:
+Memberikan pemahaman mendasar mengenai respons stres akut agar individu tidak merasa dirinya mengalami gangguan mental:
 - **Normalisasi Reaksi:** Jelaskan secara lugas bahwa rasa cemas, sulit tidur, mimpi buruk, atau gemetaran merupakan reaksi normal dari tubuh dan pikiran manusia terhadap situasi yang ekstrem.
 
 #### 8. Penghubung Layanan Terpadu (*Linkage with Collaborative Services*)
@@ -104,9 +104,9 @@ D \approx \frac{S}{R}
 $$
 </div>
 
-Ketika bencana alam berskala masif meningkatkan beban stresor ($S$) secara drastis, tingkat distres ($D$) akan melonjak tinggi jika nilai sumber daya ($R$) bernilai minim.
+Ketika bencana alam berskala masif meningkatkan beban stresor ($S$) secara drastis, tingkat distres ($D$) akan melonjak tinggi jika sumber daya ($R$) bernilai minim.
 
-Melalui intervensi PFA di fase akut, kapasitas sumber daya psikososial ($R$) dilipatgandakan melalui rasa aman, keterhubungan sosial, dan pemenuhan kebutuhan dasar. Peningkatan penyebut ($R$) tersebut secara langsung menekan indeks distres ($D$), sehingga mencegah berkembangnya gangguan stres pascatrauma (*Post-Traumatic Stress Disorder* / PTSD) kronis.
+Melalui intervensi PFA di fase akut, kapasitas sumber daya psikososial ($R$) dilipatgandakan melalui rasa aman, keterhubungan sosial, dan pemenuhan kebutuhan dasar. Peningkatan penyebut ($R$) tersebut secara langsung menekan indeks distres ($D$), sehingga membantu menurunkan risiko berkembangnya gangguan stres pascatrauma (*Post-Traumatic Stress Disorder* / PTSD) kronis.
 
 ---
 
@@ -120,11 +120,11 @@ Seorang relawan bertugas di tenda pengungsian darurat beberapa jam pascakebakara
 1. **Pendekatan Non-Konfrontatif:**
    Relawan mendekat perlahan dari samping dengan postur tubuh membungkuk atau berjongkok agar pandangan mata berada sejajar dengan posisi duduk penyintas.
 2. **Inisiasi Kontak Empatik:**
-   *"Selamat siang Ibu, saya relawan dari tim penanggulangan bencana. Tenda di sini agak ramai, bolehkah saya duduk di sebelah Ibu untuk menemani sebentar?"*
+   *"Selamat siang, Ibu. Saya relawan dari tim penanggulangan bencana. Tenda di sini agak ramai, bolehkah saya duduk di sebelah Ibu untuk menemani sebentar?"*
 3. **Penyediaan Bantuan Praktis:**
    Menyodorkan segelas air mineral hangat tanpa memaksa penyintas untuk langsung berbicara. Memberikan penegasan kehadiran: *"Saya siap mendampingi jika Ibu membutuhkan bantuan untuk menghubungi keluarga atau memerlukan kebutuhan lain."*
 4. **Stabilisasi Sensori (*Grounding*):**
-   Saat penyintas mulai menangis tersengal-sengal, relawan membimbing stabilisasi fisik: *"Ibu, mari kita tarik napas dalam bersama-sama melalui hidung, hembuskan perlahan melalui mulut. Rasakan kedua telapak kaki Ibu menapak dengan kuat di atas tanah."*
+   Saat penyintas mulai menangis tersengal-sengal, relawan membimbing stabilisasi fisik: *"Ibu, mari kita tarik napas dalam bersama-sama melalui hidung, embuskan perlahan melalui mulut. Rasakan kedua telapak kaki Ibu menapak dengan kuat di atas tanah."*
 
 ---
 
@@ -135,7 +135,7 @@ Seorang relawan bertugas di tenda pengungsian darurat beberapa jam pascakebakara
 | **Kehadiran dan Sikap** | Menjadi pendengar aktif yang sabar, hadir secara utuh, dan menjaga kontak mata wajar. | Memotong pembicaraan, memeriksa ponsel saat penyintas bicara, atau tampak tergesa-gesa. |
 | **Kepastian Informasi** | Menyampaikan fakta yang sudah terverifikasi secara jujur dan transparan. | Memberikan janji palsu yang tidak realistis (misalnya: *"Semua pasti akan baik-baik saja besok"*). |
 | **Penghormatan Narasi** | Membiarkan penyintas bercerita sesuai kesiapan emosionalnya masing-masing. | Memaksa penyintas menceritakan ulang detik-detik trauma secara mendalam dan kronologis. |
-| **Validasi Emosi** | Memvalidasi bahwa tangisan, kemarahan, dan ketakutan adalah respon yang wajar. | Menghakimi atau menggurui (misalnya: *"Ibu seharusnya bersyukur kios tetangga ludes semua"*). |
+| **Validasi Emosi** | Memvalidasi bahwa tangisan, kemarahan, dan ketakutan adalah respons yang wajar. | Menghakimi atau menggurui (misalnya: *"Ibu seharusnya bersyukur kios tetangga ludes semua"*). |
 | **Kemandirian** | Mengajak penyintas mengambil keputusan kecil secara mandiri (misalnya memilih jenis makanan). | Mengambil alih seluruh keputusan hidup penyintas sehingga memicu perasaan tidak berdaya. |
 
 ---

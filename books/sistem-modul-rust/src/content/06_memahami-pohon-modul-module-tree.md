@@ -19,7 +19,7 @@ Bayangkan sebuah sistem file pada komputer:
 
 ## 1. Absolute Paths
 
-Absolute Path adalah cara merujuk ke sebuah item dengan memulai dari crate root atau **crate**. Di Rust, Absolute Path selalu dimulai dengan kata kunci `crate`.
+Absolute Path adalah cara merujuk ke sebuah item dengan memulai dari crate root atau **crate**. Di Rust, Absolute Path ke item di crate yang sama dimulai dengan kata kunci `crate`.
 
 Gunakan Absolute Path ketika kamu ingin merujuk ke suatu item yang letaknya jauh dalam hierarki module, atau ketika kamu ingin pemanggilan tersebut tetap valid meskipun kamu memindahkan kode pemanggilnya ke module lain.
 
@@ -38,11 +38,11 @@ fn sajikan_makanan() {
 }
 ```
 
-Path di atas dimulai dari `crate`, yang merupakan entry point dari program kamu.
+Path di atas dimulai dari `crate`, yang merujuk ke crate root (akar module tree).
 
 ## 2. Relative Paths
 
-Relative Path memulai pencarian dari module di mana kode tersebut ditulis. Path ini bisa dimulai dengan:
+Relative Path memulai pencarian dari module tempat kode tersebut ditulis. Path ini bisa dimulai dengan:
 
 1. Nama item atau module yang berada di tingkat yang sama.
 2. `self`: Merujuk ke module saat ini (mirip dengan `./` di terminal).
@@ -50,7 +50,7 @@ Relative Path memulai pencarian dari module di mana kode tersebut ditulis. Path 
 
 ### Menggunakan Nama Langsung
 
-Jika kamu memanggil function yang berada di module yang sama atau submodulenya, kamu bisa langsung menyebut namanya.
+Jika kamu memanggil function yang berada di module yang sama, kamu bisa langsung menyebut namanya.
 
 ```rust
 mod ruang_makan {
@@ -65,7 +65,7 @@ mod ruang_makan {
 
 ### Menggunakan super
 
-Kata kunci `super` berguna untuk mengakses item yang berada tepat satu tingkat di atas module saat ini. Ini membantu mengurangi pengulangan jika kamu memindahkan seluruh submodule ke parent module yang berbeda.
+Kata kunci `super` berguna untuk mengakses item yang berada tepat satu tingkat di atas module saat ini. Ini memudahkan jika kamu memindahkan module beserta parent-nya ke lokasi lain, karena path `super` tetap valid.
 
 ```rust
 fn umumkan_pesanan() {}
@@ -159,5 +159,5 @@ mod tests {
 
 **Rumus Sederhana:**
 
-- Gunakan `crate` jika kamu ingin path yang **kokoh** dan tidak berubah meski file dipindah.
+- Gunakan `crate` jika kamu ingin path yang **kokoh** dan tetap valid meski kode pemanggilnya dipindah.
 - Gunakan `super` jika kamu ingin path yang **fleksibel** mengikuti hubungan antara parent module dan child module.

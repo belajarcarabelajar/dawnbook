@@ -18,7 +18,7 @@ Ada beberapa mekanisme psikologis yang membuat kita sulit melepaskan "biaya tert
 
 ### A. Keengganan Merugi (Loss Aversion)
 
-Manusia secara alami lebih takut kehilangan sesuatu daripada keinginan untuk mendapatkan sesuatu dengan nilai yang sama. Berhenti dari proyek yang gagal terasa seperti "mengakui kekalahan" atau "membuang uang", sementara terus melanjutkannya memberikan harapan palsu bahwa kita bisa "impas".
+Manusia secara alami lebih takut kehilangan sesuatu daripada ingin mendapatkan sesuatu dengan nilai yang sama. Berhenti dari proyek yang gagal terasa seperti "mengakui kekalahan" atau "membuang uang", sementara terus melanjutkannya memberikan harapan palsu bahwa kita bisa "impas".
 
 Secara matematis, dalam teori prospek, utilitas kerugian ($U$) dirasakan lebih dalam daripada keuntungan: $|U(-x)| > U(x)$. Artinya, rasa sakit kehilangan Rp1.000.000 lebih kuat daripada rasa senang mendapatkan Rp1.000.000.
 
@@ -32,9 +32,9 @@ Tidak ada orang yang ingin terlihat sebagai "orang yang mudah menyerah" atau pli
 
 ## 3. Concorde Effect
 
-Sunk Cost Fallacy sering disebut juga sebagai **Concorde Effect**. Pada tahun 1950-an hingga 1970-an, pemerintah Inggris dan Prancis bekerja sama membangun pesawat supersonik bernama Concorde.
+Sunk Cost Fallacy sering disebut juga sebagai **Concorde Effect**. Pada tahun 1960-an hingga 1970-an, pemerintah Inggris dan Prancis bekerja sama membangun pesawat supersonik bernama Concorde.
 
-Di tengah jalan, mereka menyadari bahwa pesawat ini tidak akan pernah menguntungkan secara ekonomi karena biaya operasional yang sangat tinggi dan kapasitas penumpang yang terbatas. Namun, alih-alih menghentikan proyek tersebut, kedua negara terus mengucurkan dana miliaran dolar hanya karena mereka sudah terlanjur berinvestasi terlalu banyak. Mereka tidak ingin kehilangan muka di panggung internasional.
+Di tengah jalan, mereka menyadari bahwa pesawat ini tidak akan pernah menguntungkan secara ekonomi karena biaya operasional yang sangat tinggi dan kapasitas penumpang yang terbatas. Namun, alih-alih menghentikan proyek tersebut, kedua negara terus mengucurkan dana miliaran dolar hanya karena mereka sudah telanjur berinvestasi terlalu banyak. Mereka tidak ingin kehilangan muka di panggung internasional.
 
 *Hasilnya?* Mereka kehilangan jauh lebih banyak uang daripada jika mereka berhenti lebih awal.
 
@@ -106,7 +106,7 @@ Banyak orang bertahan dalam hubungan yang beracun (*toxic*) hanya karena mereka 
 
 ### Dalam Pendidikan dan Karier
 
-Seorang mahasiswa tetap melanjutkan jurusan yang tidak ia sukai hingga lulus hanya karena "sudah semester 6". Meskipun gelar tersebut mungkin tidak akan pernah ia gunakan di masa depan.
+Seorang mahasiswa tetap melanjutkan jurusan yang tidak ia sukai hingga lulus hanya karena "sudah semester 6", meskipun gelar tersebut mungkin tidak akan pernah ia gunakan di masa depan.
 
 ## 6. Teknik Mitigasi Sunk Cost Fallacy
 
@@ -117,6 +117,6 @@ Untuk melawan Sunk Cost Fallacy, kamu perlu melatih cara berpikir objektif:
 3. **Gunakan Penasihat Luar:** Orang luar yang tidak memiliki ikatan emosional dengan investasi kamu akan lebih mudah melihat bahwa suatu proyek sudah tidak layak dilanjutkan.
 4. **Tetapkan Batas Berhenti (Stop-Loss):** Sebelum memulai sesuatu, tentukan di titik mana kamu akan berhenti jika target tidak tercapai.
 
-*Coba ingat-ingat satu hal dalam hidup kamu saat ini yang tetap kamu lakukan hanya karena kamu 'sudah terlanjur'. Jika kamu berhenti sekarang, peluang baru apa yang bisa kamu kejar?*
+*Coba ingat-ingat satu hal dalam hidup kamu saat ini yang tetap kamu lakukan hanya karena kamu 'sudah telanjur'. Jika kamu berhenti sekarang, peluang baru apa yang bisa kamu kejar?*
 
 > **Pesan Penting:** Menyerah pada hal yang salah bukanlah sebuah kegagalan. Ini adalah langkah cerdas untuk memberikan ruang bagi hal yang benar.

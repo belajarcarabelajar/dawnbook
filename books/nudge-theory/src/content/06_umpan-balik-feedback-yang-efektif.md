@@ -61,7 +61,7 @@ Setiap kali pengguna mengetik satu karakter, total poinnya (0 sampai 4) langsung
 | 1 | Lemah | Jingga |
 | 2 | Cukup | Kuning |
 | 3 | Kuat | Hijau muda |
-| 4 | Sangat Aman | Hijau |
+| 4 | Sangat Kuat | Hijau |
 
 Sebagai *nudge*, pesan petunjuk ikut muncul. Jika poinnya kurang dari 3, pengguna melihat "Tips: Tambahkan simbol atau angka agar lebih aman." Jika 3 atau lebih, muncul "Kerja bagus! Kata sandi kamu sulit ditebak."
 
@@ -91,7 +91,7 @@ E = T - C
 $$
 </div>
 
-Tujuan dari Arsitektur Pilihan melalui *feedback* adalah membuat nilai $E$ mendekati nol sesegera mungkin. Jika umpan balik terlambat diberikan, maka koreksi yang dilakukan pengguna cenderung berlebihan (*overshoot*), yang dalam psikologi sering disebut sebagai reaksi yang tidak stabil.
+Tujuan dari arsitektur pilihan melalui *feedback* adalah membuat nilai $E$ mendekati nol sesegera mungkin. Jika umpan balik terlambat diberikan, maka koreksi yang dilakukan pengguna cenderung berlebihan (*overshoot*), yang membuat reaksinya tidak stabil.
 
 Sebagai contoh, jika air pancuran (*shower*) membutuhkan waktu 30 detik untuk menyesuaikan suhu, kamu cenderung terus memutar keran ke arah panas karena tidak merasakan perubahan suhu secara instan. Begitu air tiba-tiba menjadi sangat panas, kamu akan terkejut dan memutarnya terlalu jauh ke arah dingin. Kamu pun terjebak dalam siklus koreksi yang berlebihan akibat umpan balik yang terlambat.
 

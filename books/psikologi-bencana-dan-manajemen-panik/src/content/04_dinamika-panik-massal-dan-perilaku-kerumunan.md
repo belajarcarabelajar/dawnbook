@@ -17,7 +17,7 @@ Penularan emosi (*emotional contagion*) adalah proses psikologis ketika ekspresi
 Secara neurobiologis dan psikologis, proses ini melibatkan dua mekanisme utama:
 
 - **Mimikri Nonverbal:** Secara bawah sadar, manusia meniru ekspresi wajah, postur tubuh, serta intonasi suara orang lain di dekatnya.
-- **Umpan Balik Aferen (*Afferent Feedback*):** Saat meniru ekspresi ketakutan orang lain, sistem saraf pusat menerima sinyal internal bahwa ancaman nyata sedang berlangsung, sehingga memicu sekresi hormon adrenalin secara masif.
+- **Umpan Balik Aferen (*Afferent Feedback*):** Saat meniru ekspresi ketakutan orang lain, sistem saraf pusat menerima sinyal internal bahwa ancaman nyata sedang berlangsung, sehingga turut memicu sekresi hormon adrenalin.
 
 > **Pesan Penting:** Dinamika afektif di dalam kerumunan menular jauh lebih cepat daripada transmisi informasi faktual. Ketakutan merupakan fenomena psikososial yang dapat menyebar luas tanpa memerlukan kontak fisik langsung.
 
@@ -34,7 +34,7 @@ Dalam situasi darurat, fenomena ini digerakkan oleh dua determinan utama:
 
 #### Model Probabilitas Panik
 
-Secara konseptual, probabilitas suatu individu untuk terpicu berlari mengikuti kerumunan dapat diekspresikan melalui relasi proporsional:
+Secara konseptual, probabilitas seorang individu untuk terpicu berlari mengikuti kerumunan dapat diekspresikan melalui relasi proporsional:
 
 <div>
 $$
@@ -55,7 +55,7 @@ Fenomena peniruan gerak ini kerap teramati dalam kehidupan sehari-hari, misalnya
 
 ### 3. Deindividuasi
 
-Ketika seseorang melebur ke dalam kerumunan yang padat, mereka rentan mengalami **deindividuasi**, yaitu penurunan tingkat kesadaran diri (*self-awareness*) dan hilangnya evaluasi moral individual.
+Ketika seseorang melebur ke dalam kerumunan yang padat, ia rentan mengalami **deindividuasi**, yaitu penurunan tingkat kesadaran diri (*self-awareness*) dan hilangnya evaluasi moral individual.
 
 **Karakteristik Deindividuasi dalam Panik Massal:**
 
@@ -80,10 +80,10 @@ Petugas tanggap darurat dan pemangku kendali lapangan berfungsi sebagai penstabi
 
 Kepanikan massal sering kali berubah menjadi bencana fisik berupa desakan mematikan (*crowd crush*) akibat penyempitan koridor.
 
-- **Prinsip Fluiditas Kerumunan:** Pergerakan massa padat memiliki karakteristik dinamis menyerupai aliran fluida. Ketika hambatan muncul di titik penyempitan (*bottleneck*), tekanan mekanis di belakangnya terakumulasi secara eksponensial.
+- **Prinsip Fluiditas Kerumunan:** Pergerakan massa padat memiliki karakteristik dinamis menyerupai aliran fluida. Ketika hambatan muncul di titik penyempitan (*bottleneck*), tekanan mekanis di belakangnya terakumulasi dengan cepat.
 - **Tindakan Teknis:** Membuka seluruh pintu darurat secara maksimal serta memberlakukan sistem pergerakan satu arah guna mencegah arus manusia saling bertabrakan.
 
-#### C. Diseminasi Informasi Akurat dan Real-Time
+#### C. Diseminasi Informasi Akurat dan *Real-Time*
 
 Ambiguitas situasi merupakan katalis utama yang melipatgandakan kepanikan.
 
@@ -99,7 +99,7 @@ Ambiguitas situasi merupakan katalis utama yang melipatgandakan kepanikan.
 
 1. **Isolasi Titik Pemicu Panik:** Petugas keamanan segera mengidentifikasi dan mendekati individu yang berteriak paling histeris untuk ditenangkan secara personal, mengingat histeria satu orang dapat memicu penularan afektif ke ratusan orang di sekitarnya.
 2. **Kepemimpinan Visual (*Visual Leadership*):** Petugas berdiri di titik elevasi yang lebih tinggi (seperti podium informasi atau panggung rendah) mengenakan rompi reflektif bersinyal terang. Keberadaan figur pemandu visual memberi fokus baru bagi massa yang terdeindividuasi untuk mematuhi arahan manusia ketimbang sekadar mengikuti dorongan kerumunan.
-3. **Fragmentasi Aliran Massa:** Memecah konsentrasi kerumunan besar ke beberapa koridor darurat alternatif. Pendekatan ini mereduksi tekanan hidrolik massa serta melumpuhkan kekuatan pendorong perilaku kawanan.
+3. **Fragmentasi Aliran Massa:** Memecah konsentrasi kerumunan besar ke beberapa koridor darurat alternatif. Pendekatan ini mereduksi tekanan mekanis massa serta melumpuhkan kekuatan pendorong perilaku kawanan.
 
 ---
 
@@ -107,8 +107,8 @@ Ambiguitas situasi merupakan katalis utama yang melipatgandakan kepanikan.
 
 | Fenomena Psikologis | Manifestasi di Lapangan | Intervensi Taktis |
 | :--- | :--- | :--- |
-| **Penularan Emosi** (*Emotional Contagion*) | Histeris massal, teriakan, dan tangisan yang meluas cepat. | Tampilkan figur otoritas dengan ketenangan vokal yang kontras dan instruktif. |
+| **Penularan Emosi** (*Emotional Contagion*) | Histeria massal, teriakan, dan tangisan yang meluas cepat. | Tampilkan figur otoritas dengan ketenangan vokal yang kontras dan instruktif. |
 | **Perilaku Kawanan** (*Herd Behavior*) | Penumpukan massa secara destruktif pada satu pintu keluar. | Lakukan pengalihan aktif ke rute alternatif yang lebih lengang. |
-| **Deindividuasi** | Aksi dorong tanpa empati dan hilangnya kontrol moral. | Gunakan kontak mata langsung atau sapaan personal (misalnya: *"Petugas butuh bantuan bapak berbaju biru untuk membuka pintu darurat ini"*). |
+| **Deindividuasi** | Aksi dorong tanpa empati dan hilangnya kontrol moral. | Gunakan kontak mata langsung atau sapaan personal (misalnya: *"Petugas butuh bantuan Bapak berbaju biru untuk membuka pintu darurat ini"*). |
 
 > **Prinsip Utama:** Dalam kerumunan massa yang panik, kapasitas analisis individual cenderung menurun dan digantikan oleh kecenderungan mengikuti dorongan kolektif. Tanggung jawab manajemen krisis adalah memastikan bahwa arah yang diikuti oleh massa bukan ketakutan buta, melainkan panduan terstruktur yang menyelamatkan kehidupan.

@@ -11,7 +11,7 @@ Sebelum pembedahan dimulai, tim medis wajib memastikan organ-organ tubuhmu berad
 Beberapa tes yang biasanya diminta meliputi:
 
 - **Darah Lengkap (Complete Blood Count):** Dokter memeriksa kadar Hemoglobin $\text{Hb}$, Hematokrit $\text{Ht}$, dan sel darah putih (Leukosit). Tujuannya untuk mendeteksi dini jika ada infeksi aktif atau kondisi anemia.
-- **Profil Koagulasi:** Pemeriksaan penting untuk meminimalkan risiko perdarahan selama operasi. Parameter yang dicek meliputi *Prothrombin Time* $\text{PT}$, *Activated Partial Thromboplastin Time* $\text{APTT}$, serta *International Normalized Ratio* $\text{INR}$.
+- **Profil Koagulasi:** Pemeriksaan penting untuk menilai risiko perdarahan selama operasi. Parameter yang dicek meliputi *Prothrombin Time* $\text{PT}$, *Activated Partial Thromboplastin Time* $\text{APTT}$, serta *International Normalized Ratio* $\text{INR}$.
 - **Fungsi Ginjal & Elektrolit:** Langkah ini memastikan cairan tubuh seimbang agar proses pembiusan berjalan lancar.
 
 > **Pesan Penting:** Jika kamu memiliki riwayat keluarga dengan gangguan pembekuan darah atau sering mengalami memar tanpa sebab, segera informasikan kepada dokter bedahmu pada tahap ini.
@@ -37,7 +37,7 @@ Ketika tubuh berada di bawah pengaruh obat bius total, refleks alami seperti men
 **Panduan Umum Puasa (NPO - *Nil Per Os*):**
 
 - **6-8 Jam Sebelum Operasi:** Mulai hentikan konsumsi segala bentuk makanan padat seperti nasi, roti, atau daging.
-- **4 Jam Sebelum Operasi:** Jangan meminum susu, kopi dengan krimer, atau jus buah yang berserat.
+- **6 Jam Sebelum Operasi:** Jangan meminum susu, kopi dengan krimer, atau jus buah yang berserat.
 - **2 Jam Sebelum Operasi:** Batas terakhir untuk minum cairan jernih. Setelah ini, lambung harus benar-benar kosong.
 
 ## 4. Persiapan Fisik dan Obat-obatan
@@ -45,11 +45,11 @@ Ketika tubuh berada di bawah pengaruh obat bius total, refleks alami seperti men
 Demi menekan risiko komplikasi medis, terdapat instruksi pemakaian obat yang harus kamu jalankan beberapa hari sebelum jadwal operasi:
 
 - **Hentikan Obat Pengencer Darah:** Kamu harus menghindari obat sejenis Aspirin, Ibuprofen, serta suplemen minyak ikan atau Vitamin E selama 7 hingga 10 hari sebelum operasi. Jenis obat ini berpotensi memicu perdarahan berlebih.
-- **Waspadai Gejala Flu atau Demam:** Apabila tiba-tiba terserang batuk berdahak, demam tinggi, atau pilek menjelang hari H, segera hubungi pihak rumah sakit. Operasi terkadang perlu dijadwal ulang demi menjaga keselamatan jalan napasmu.
+- **Waspadai Gejala Flu atau Demam:** Apabila tiba-tiba terserang batuk berdahak, demam tinggi, atau pilek menjelang hari H, segera hubungi pihak rumah sakit. Operasi terkadang perlu dijadwalkan ulang demi menjaga keselamatan jalan napasmu.
 
 ## 5. Persiapan Mental
 
-Kesiapan mental memiliki pengaruh yang sama besarnya dengan kesiapan fisik dalam menunjang pemulihan. Pendekatan pengelolaan stres ini disesuaikan berdasarkan kategori usia pasien:
+Kesiapan mental memiliki pengaruh yang sama besarnya dengan kesiapan fisik dalam menunjang pemulihan. Pendekatan pengelolaan stres ini disesuaikan dengan kategori usia pasien:
 
 ### Untuk Anak-anak
 
@@ -60,7 +60,7 @@ Gunakan pendekatan kejujuran yang lembut. Jangan katakan "hanya pergi jalan-jala
 
 ### Untuk Dewasa
 
-- **Membaca Informasi Prosedur:** Memahami proses operasi secara medis (seperti membaca buku ini) terbukti membantu menurunkan kadar kortisol (hormon stres).
+- **Membaca Informasi Prosedur:** Memahami proses operasi secara medis (seperti membaca buku ini) dapat membantu mengurangi kecemasan.
 - **Mempersiapkan Pendamping:** Pastikan ada anggota keluarga atau teman dewasa yang siap mengantar pulang dan menemanimu di rumah selama minimal 24 jam pertama pascaoperasi.
 
 ## Persiapan "Budi" 24 Jam Sebelum Operasi

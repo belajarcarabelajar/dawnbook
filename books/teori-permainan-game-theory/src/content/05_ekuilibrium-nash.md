@@ -6,7 +6,7 @@ Dalam bagian ini, kita akan membongkar apa itu Ekuilibrium Nash, mengapa ia dise
 
 ### 1. Apa Itu Ekuilibrium Nash?
 
-Bayangkan kamu dan seorang teman sedang bermain. **Ekuilibrium Nash** adalah sebuah situasi di mana tidak ada satu pun pemain yang dapat meningkatkan keuntungannya dengan mengubah strateginya sendirian, sementara pemain lain tetap pada pilihan mereka.
+Bayangkan kamu dan seorang teman sedang bermain. **Ekuilibrium Nash** adalah sebuah situasi ketika tidak ada satu pun pemain yang dapat meningkatkan keuntungannya dengan mengubah strateginya sendirian, sementara pemain lain tetap pada pilihan mereka.
 
 **Analogi Sederhana Pertemuan di Mal**
 
@@ -17,7 +17,7 @@ Kamu dan temanmu berencana bertemu di sebuah mal besar yang memiliki dua pintu m
 
 Jika saat ini kalian berdua berada di **Pintu Utara**, apakah kamu ingin pindah ke Selatan sendirian? Tidak, karena kamu justru tidak akan bertemu temanmu. Begitu juga temanmu. Karena tidak ada yang mau pindah secara sepihak, posisi "Keduanya di Pintu Utara" adalah sebuah **Ekuilibrium Nash**.
 
-> **Wawasan Penting:** Ekuilibrium Nash bukanlah tentang hasil yang "paling adil" atau "paling menguntungkan secara total", melainkan tentang **stabilitas**. Ini adalah titik di mana setiap pemain berkata, "Mengingat apa yang dilakukan lawan saya, saya sudah melakukan yang terbaik yang saya bisa."
+> **Wawasan Penting:** Ekuilibrium Nash bukanlah tentang hasil yang "paling adil" atau "paling menguntungkan secara total", melainkan tentang **stabilitas**. Ini adalah titik tempat setiap pemain berkata, "Mengingat apa yang dilakukan lawan saya, saya sudah melakukan yang terbaik yang saya bisa."
 
 ### 2. Definisi Formal
 
@@ -39,7 +39,7 @@ Artinya, hasil ($u\_i$) yang didapat pemain $i$ dengan strategi $s\_i^{\ast}$ ad
 
 ### 3. Cara Menemukan Ekuilibrium Nash dalam Matriks
 
-Untuk mencari ekuilibrium dalam permainan simultan (pemain memilih di waktu yang sama), kita menggunakan metode **"Best Response" (Respon Terbaik)**. Mari kita lihat contoh kompetisi antara dua perusahaan, Perusahaan A dan Perusahaan B, yang memutuskan untuk memasang iklan atau tidak.
+Untuk mencari ekuilibrium dalam permainan simultan (pemain memilih di waktu yang sama), kita menggunakan metode **"Best Response" (Respons Terbaik)**. Mari kita lihat contoh kompetisi antara dua perusahaan, Perusahaan A dan Perusahaan B, yang memutuskan untuk memasang iklan atau tidak.
 
 | Perusahaan A \ B | Pasang Iklan | Tidak Iklan |
 | --- | --- | --- |
@@ -50,12 +50,12 @@ Untuk mencari ekuilibrium dalam permainan simultan (pemain memilih di waktu yang
 
 **Langkah-langkah Analisis:**
 
-1. **Jika Perusahaan B Pasang Iklan:** Respon terbaik Perusahaan A adalah **Pasang Iklan** (10 lebih baik daripada 5). *Kita tandai angka 10.*
-2. **Jika Perusahaan B Tidak Iklan:** Respon terbaik Perusahaan A adalah **Pasang Iklan** (20 lebih baik daripada 15). *Kita tandai angka 20.*
-3. **Jika Perusahaan A Pasang Iklan:** Respon terbaik Perusahaan B adalah **Pasang Iklan** (10 lebih baik daripada 5). *Kita tandai angka 10 (milik B).*
-4. **Jika Perusahaan A Tidak Iklan:** Respon terbaik Perusahaan B adalah **Pasang Iklan** (20 lebih baik daripada 15). *Kita tandai angka 20 (milik B).*
+1. **Jika Perusahaan B Pasang Iklan:** Respons terbaik Perusahaan A adalah **Pasang Iklan** (10 lebih baik daripada 5). *Kita tandai angka 10.*
+2. **Jika Perusahaan B Tidak Iklan:** Respons terbaik Perusahaan A adalah **Pasang Iklan** (20 lebih baik daripada 15). *Kita tandai angka 20.*
+3. **Jika Perusahaan A Pasang Iklan:** Respons terbaik Perusahaan B adalah **Pasang Iklan** (10 lebih baik daripada 5). *Kita tandai angka 10 (milik B).*
+4. **Jika Perusahaan A Tidak Iklan:** Respons terbaik Perusahaan B adalah **Pasang Iklan** (20 lebih baik daripada 15). *Kita tandai angka 20 (milik B).*
 
-**Hasil:** Kotak di mana kedua pemain memberikan respon terbaiknya adalah **(Pasang Iklan, Pasang Iklan)** dengan payoff **(10, 10)**. Inilah Ekuilibrium Nash-nya.
+**Hasil:** Kotak tempat kedua pemain memberikan respons terbaiknya adalah **(Pasang Iklan, Pasang Iklan)** dengan payoff **(10, 10)**. Inilah Ekuilibrium Nash-nya.
 
 *Coba renungkan: Apakah (10, 10) adalah hasil terbaik bagi kedua perusahaan? Secara kolektif, (15, 15) lebih baik. Namun, dalam Ekuilibrium Nash, godaan untuk mendapatkan 20 membuat posisi (15, 15) tidak stabil.*
 
@@ -63,7 +63,7 @@ Untuk mencari ekuilibrium dalam permainan simultan (pemain memilih di waktu yang
 
 #### A. Bisa Lebih dari Satu (Multiple Equilibria)
 
-Dalam beberapa kasus, sebuah permainan bisa memiliki lebih dari satu titik keseimbangan. Contoh klasiknya adalah **"Battle of the Sexes"** (Pertempuran Pilihan), di mana sepasang kekasih ingin pergi bersama tapi punya selera berbeda (satu ingin nonton bola, satu ingin nonton konser). Jika mereka bersama-sama di bola atau bersama-sama di konser, keduanya adalah Ekuilibrium Nash.
+Dalam beberapa kasus, sebuah permainan bisa memiliki lebih dari satu titik ekuilibrium. Contoh klasiknya adalah **"Battle of the Sexes"** (Pertempuran Pilihan), ketika sepasang kekasih ingin pergi bersama tapi punya selera berbeda (satu ingin nonton bola, satu ingin nonton konser). Jika mereka bersama-sama di bola atau bersama-sama di konser, keduanya adalah Ekuilibrium Nash.
 
 #### B. Tidak Selalu Efisien (Pareto Optimal)
 
@@ -93,9 +93,9 @@ Pernahkah kamu bertanya-tanya mengapa gerai Alfamart dan Indomaret sering kali b
 
 ### 6. Rangkuman Singkat
 
-- **Ekuilibrium Nash** adalah kondisi stabil di mana tidak ada pemain yang untung jika mengubah strategi sendirian.
+- **Ekuilibrium Nash** adalah kondisi stabil ketika tidak ada pemain yang untung jika mengubah strategi sendirian.
 - Ini mencerminkan pemikiran: "Saya melakukan yang terbaik berdasarkan apa yang kamu lakukan, dan kamu melakukan yang terbaik berdasarkan apa yang saya lakukan."
 - **Metode Pencarian:** Gunakan *best response* untuk setiap kemungkinan pilihan lawan dalam matriks hasil.
 - **Penting:** Ekuilibrium Nash tidak menjamin kebahagiaan maksimal, ia hanya menjamin stabilitas rasional.
 
-> **Renungan:** Dalam hidup, kita sering terjebak dalam Ekuilibrium Nash yang buruk (seperti kemacetan lalu lintas di mana semua orang ingin mengambil jalur tercepat secara egois). Menurut kamu, apa cara terbaik untuk memecahkan ekuilibrium yang buruk dan berpindah ke hasil yang lebih menguntungkan semua orang? *(Petunjuk: Jawabannya sering kali melibatkan komunikasi atau regulasi!)*
+> **Renungan:** Dalam hidup, kita sering terjebak dalam Ekuilibrium Nash yang buruk (seperti kemacetan lalu lintas ketika semua orang ingin mengambil jalur tercepat secara egois). Menurut kamu, apa cara terbaik untuk memecahkan ekuilibrium yang buruk dan berpindah ke hasil yang lebih menguntungkan semua orang? *(Petunjuk: Jawabannya sering kali melibatkan komunikasi atau regulasi!)*

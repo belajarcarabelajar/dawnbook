@@ -28,13 +28,13 @@ xychart
     bar [2.65, 1.72]
 ```
 
-> Kepercayaan diri itu seperti garam. Sedikit membuat semuanya lebih baik, dan berlebih membuat seluruh hidangan tidak bisa dimakan, sementara si masak terus menambah karena merasa masih kurang.
+> Kepercayaan diri itu seperti garam. Sedikit membuat semuanya lebih baik, dan berlebih membuat seluruh hidangan tidak bisa dimakan, sementara si juru masak terus menambah karena merasa masih kurang.
 
 ### Menyadari dirimu sedang terlalu yakin
 
 Bagian yang tidak nyaman: kelebihan percaya diri hampir tidak terasa dari dalam. Ia terasa seperti kompetensi. Untuk itu lebih berguna memantau perilakunya, bukan perasaannya. Beberapa sinyal perilaku yang dekat dengan temuan riset: kamu memindahkan posisi jauh lebih sering daripada rencana awalmu, kamu membuka aplikasi investasi setiap jam sementara strategimu semestinya jangka panjang, dan setiap keuntungan kamu atribusikan pada kemampuan sementara setiap kerugian kamu atribusikan pada sial atau pasar yang gila. Pola terakhir ini paling sulit dikenali, karena ia memelihara kepercayaan berlebih di tengah bukti yang bertolak belakang.
 
-Jawaban dari temuan Barber dan Odean memang membosankan, dan itu justru kekuatannya: kurangi frekuensi. Setiap keputusan dagang harus melewati senggang satu malam dan satu pertanyaan sederhana, "kalau saya tidak sudah memegang posisi ini, apakah saya akan membelinya hari ini dengan harga ini?" Kalau jawabannya ragu, biaya terbesar yang kamu hemat adalah biaya dari keputusan yang tidak perlu. Bagi kebanyakan orang yang bukan profesional, pasivitas yang disiplin ternyata strategi yang lebih jujur daripada aktivitas yang merasa pintar.
+Jawaban dari temuan Barber dan Odean memang membosankan, dan itu justru kekuatannya: kurangi frekuensi. Setiap keputusan dagang harus melewati senggang satu malam dan satu pertanyaan sederhana, "kalau saya belum memegang posisi ini, apakah saya akan membelinya hari ini dengan harga ini?" Kalau jawabannya ragu, biaya terbesar yang kamu hemat adalah biaya dari keputusan yang tidak perlu. Bagi kebanyakan orang yang bukan profesional, pasivitas yang disiplin ternyata strategi yang lebih jujur daripada aktivitas yang merasa pintar.
 
 ## Poin Penting
 

@@ -12,7 +12,7 @@ Inilah **Efek Jangkar (Anchoring Effect)**, salah satu bias kognitif yang paling
 
 ### Kapal dan Jangkarnya
 
-Bayangkan sebuah kapal di tengah laut yang menurunkan jangkar. Kapal tersebut masih bisa bergerak tertiup angin atau arus, tetapi pergerakannya akan terbatas pada radius tertentu di sekitar titik jangkar tersebut dijatuhkan.
+Bayangkan sebuah kapal di tengah laut yang menurunkan jangkar. Kapal tersebut masih bisa bergerak tertiup angin atau arus, tetapi pergerakannya akan terbatas pada radius tertentu di sekitar titik tempat jangkar tersebut dijatuhkan.
 
 Sama halnya dengan pikiran kita: ketika kita diberi sebuah angka (jangkar), estimasi atau keputusan kita mungkin berubah, tetapi jarang sekali kita bisa "berlayar" jauh meninggalkan pengaruh angka awal tersebut.
 
@@ -26,8 +26,8 @@ Dua tokoh pionir psikologi kognitif, **Amos Tversky** dan **Daniel Kahneman**, m
 
 **Hasilnya:**
 
-- Kelompok yang melihat angka **10** memberikan estimasi rata-rata sekitar **25%**.
-- Kelompok yang melihat angka **65** memberikan estimasi rata-rata sekitar **45%**.
+- Kelompok yang melihat angka **10** memberikan estimasi median sekitar **25%**.
+- Kelompok yang melihat angka **65** memberikan estimasi median sekitar **45%**.
 
 Meskipun partisipan tahu bahwa angka dari roda tersebut sepenuhnya acak dan tidak ada hubungannya dengan geografi politik, otak mereka secara tidak sadar menggunakan angka tersebut sebagai titik awal untuk menebak.
 
@@ -41,7 +41,7 @@ Ketika kita mendapatkan jangkar, kita mulai berpikir dari angka tersebut dan per
 
 ### 2\. Aksesibilitas Selektif (Selective Accessibility)
 
-Saat kamu terpapar pada sebuah jangkar, otak kamu secara otomatis mencari informasi atau memori yang mendukung mengapa angka tersebut bisa jadi benar. Jika kamu melihat harga rumah Rp5 Miliar, otak kamu akan mulai mencari alasan mengapa rumah itu layak seharga tersebut (lokasi, fasilitas, dsb.), yang akhirnya memperkuat pengaruh jangkar tersebut.
+Saat kamu terpapar pada sebuah jangkar, otak kamu secara otomatis mencari informasi atau memori yang mendukung mengapa angka tersebut bisa jadi benar. Jika kamu melihat harga rumah Rp5 miliar, otak kamu akan mulai mencari alasan mengapa rumah itu layak seharga tersebut (lokasi, fasilitas, dsb.), yang akhirnya memperkuat pengaruh jangkar tersebut.
 
 ## Matematika di Balik Estimasi
 
@@ -53,8 +53,8 @@ Mari kita lihat bagaimana urutan informasi memengaruhi hasil perhitungan mental 
 
 Secara matematis, hasilnya sama: $40.320$. Namun, karena waktu terbatas:
 
-- **Kelompok A** (dimulai dengan angka kecil) memberikan rata-rata estimasi: **512**.
-- **Kelompok B** (dimulai dengan angka besar) memberikan rata-rata estimasi: **2.250**.
+- **Kelompok A** (dimulai dengan angka kecil) memberikan estimasi median: **512**.
+- **Kelompok B** (dimulai dengan angka besar) memberikan estimasi median: **2.250**.
 
 *\*Bagaimana urutan informasi yang kamu terima di pagi hari (misalnya berita buruk vs berita baik) dapat menjangkarkan suasana hati kamu sepanjang sisa hari tersebut?\**
 
@@ -64,11 +64,11 @@ Efek Jangkar tidak hanya ada di teori laboratorium; ia adalah alat praktis yang 
 
 ### 1\. Strategi Penetapan Harga (Pricing)
 
-Pernahkah kamu melihat menu restoran di mana terdapat satu botol anggur seharga Rp3.000.000? Restoran tersebut mungkin tidak berharap banyak orang membelinya. Kehadiran harga tersebut berfungsi sebagai **jangkar**. Ketika kamu melihat botol kedua seharga Rp800.000, harga tersebut tiba-tiba terasa "murah" dan masuk akal, padahal tanpa jangkar pertama, Rp800.000 mungkin terasa sangat mahal.
+Pernahkah kamu melihat menu restoran yang memuat satu botol anggur seharga Rp3.000.000? Restoran tersebut mungkin tidak berharap banyak orang membelinya. Kehadiran harga tersebut berfungsi sebagai **jangkar**. Ketika kamu melihat botol kedua seharga Rp800.000, harga tersebut tiba-tiba terasa "murah" dan masuk akal, padahal tanpa jangkar pertama, Rp800.000 mungkin terasa sangat mahal.
 
 ### 2\. Negosiasi Gaji
 
-Dalam dunia profesional, siapa pun yang menyebutkan angka pertama kali biasanya memegang kendali. Jika seorang kandidat meminta gaji Rp15 Juta, negosiasi akan berkisar di angka tersebut. Jika perusahaan yang membuka dengan angka Rp10 Juta, akan jauh lebih sulit bagi kandidat untuk menaikkannya ke angka Rp15 Juta.
+Dalam dunia profesional, siapa pun yang menyebutkan angka pertama kali biasanya memegang kendali. Jika seorang kandidat meminta gaji Rp15 juta, negosiasi akan berkisar di angka tersebut. Jika perusahaan membuka dengan angka Rp10 juta, akan jauh lebih sulit bagi kandidat untuk menaikkannya ke angka Rp15 juta.
 
 ### 3\. Batas Pembelian (Purchase Limits)
 
@@ -80,9 +80,9 @@ Toko grosir sering menggunakan tanda: *"Maksimal 12 kaleng per orang"*. Jangkar 
 
 **Aksi Efek Jangkar:**
 
-1. Harga Rp2 Miliar sekarang menjadi jangkar di kepala kamu.
+1. Harga Rp2 miliar sekarang menjadi jangkar di kepala kamu.
 2. Kamu melakukan inspeksi dan menemukan beberapa kerusakan kecil.
-3. Kamu merasa telah melakukan negosiasi yang hebat ketika berhasil menawar harga turun menjadi **Rp1.850.000.000** (Hemat Rp150 Juta!).
+3. Kamu merasa telah melakukan negosiasi yang hebat ketika berhasil menawar harga turun menjadi **Rp1.850.000.000** (Hemat Rp150 juta!).
 
 **Realita yang Terlupakan:** Sebenarnya, nilai pasar rumah tersebut hanya **Rp1.700.000.000**. Penjual sengaja memasang harga tinggi (jangkar tinggi) agar saat kamu menawar, kamu merasa menang, padahal kamu tetap membayar di atas harga pasar. Kamu terjebak membandingkan harga beli dengan *jangkar penawaran*, bukan dengan *nilai intrinsik* rumah tersebut.
 

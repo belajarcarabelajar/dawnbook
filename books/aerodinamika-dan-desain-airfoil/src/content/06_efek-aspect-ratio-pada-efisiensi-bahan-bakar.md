@@ -1,12 +1,12 @@
 ## Efek Aspect Ratio pada Efisiensi Bahan Bakar
 
-Pernahkah kamu melihat perbedaan mencolok antara sayap pesawat jet tempur yang pendek dan kokoh dengan sayap pesawat layang (*glider*)? Sayap glider itu sangat panjang dan ramping. Fenomena serupa juga terlihat pada pesawat komersial modern seperti Boeing 787 Dreamliner yang memiliki bentang sayap tampak lebih lentur dan panjang dibandingkan pesawat generasi sebelumnya.
+Pernahkah kamu melihat perbedaan mencolok antara sayap pesawat jet tempur yang pendek dan kokoh dengan sayap pesawat layang (*glider*)? Sayap glider itu sangat panjang dan ramping. Fenomena serupa juga terlihat pada pesawat komersial modern seperti Boeing 787 Dreamliner yang memiliki sayap yang tampak lebih lentur dan panjang dibandingkan pesawat generasi sebelumnya.
 
 Perbedaan tersebut bukan sekadar aspek estetika, melainkan cerminan salah satu parameter penting dalam desain aerodinamika pesawat: *Aspect Ratio* ($\text{AR}$). Rasio dimensi sayap ini menjadi faktor penentu dalam meminimalkan gaya hambat (*drag*) dan menghemat konsumsi bahan bakar.
 
 ### 1. Definisi dan Formulasi Aspect Ratio
 
-Secara fundamental, *Aspect Ratio* ($\text{AR}$) merupakan perbandingan antara rentang sayap (*wingspan*) dengan lebar rata-rata kord sayap (*mean aerodynamic chord*). Karena bentuk geometri sayap pesawat pada umumnya tidak berbentuk persegi panjang murni (melainkan meruncing atau *tapered*, serta menyapu ke belakang atau *swept*), perumusan standar $\text{AR}$ didefinisikan sebagai:
+Secara fundamental, *Aspect Ratio* ($\text{AR}$) merupakan perbandingan antara bentang sayap (*wingspan*) dengan lebar rata-rata kord sayap. Karena bentuk geometri sayap pesawat pada umumnya tidak berbentuk persegi panjang murni (melainkan meruncing atau *tapered*, serta menyapu ke belakang atau *swept*), perumusan standar $\text{AR}$ didefinisikan sebagai:
 
 $$
 \text{AR} = \frac{b^2}{S}
@@ -14,7 +14,7 @@ $$
 
 Keterangan parameter:
 
-- $b$ = Rentang sayap (*wingspan*) dari ujung ke ujung ($\text{m}$).
+- $b$ = Bentang sayap (*wingspan*) dari ujung ke ujung ($\text{m}$).
 - $S$ = Luas total permukaan sayap (*wing area*) ($\text{m}^2$).
 
 **Analogi Fisika:** Bayangkan kegiatan mendayung di permukaan air. Ketika pendayung menggunakan bilah dayung yang pendek dan sangat lebar, turbulensi air yang kuat terbentuk di sepanjang tepi bilah dayung. Sebaliknya, ketika menggunakan bilah dayung yang panjang dan ramping, transfer momentum ke air berlangsung jauh lebih teratur dengan pusaran tepi yang minimal. *Aspect Ratio* bekerja dengan prinsip fluida serupa di media udara.
@@ -38,7 +38,7 @@ Keterangan parameter:
 - $C_{D,i}$ = Koefisien gaya hambat induksi (*induced drag coefficient*).
 - $C_L$ = Koefisien gaya angkat (*lift coefficient*).
 - $\text{AR}$ = *Aspect Ratio*.
-- $e$ = Faktor efisiensi Oswald (efisiensi distribusi rentang, berkisar antara $0{,}7$ hingga $0{,}9$).
+- $e$ = Faktor efisiensi Oswald (efisiensi distribusi bentang, berkisar antara $0{,}7$ hingga $0{,}9$).
 
 > **Analisis Kritis:** Karena variabel $\text{AR}$ berada pada posisi penyebut, peningkatan nilai $\text{AR}$ akan memperkecil nilai $C_{D,i}$ secara proporsional berbanding terbalik.
 
@@ -46,9 +46,9 @@ Keterangan parameter:
 
 Efisiensi jelajah pesawat udara berbanding lurus dengan rasio gaya angkat terhadap gaya hambat (*Lift-to-Drag Ratio*, $L/D$). Semakin tinggi nilai $L/D$, semakin kecil gaya dorong (*thrust*) yang diperlukan mesin untuk mempertahankan terbang jelajah.
 
-1. **Peredaman Intensitas Vortex:** Pada sayap yang memiliki rentang panjang dan ramping ($\text{AR}$ tinggi), jarak antarujung sayap semakin jauh dari garis tengah badan pesawat, sehingga proporsi luas permukaan sayap yang terpapar gangguan *downwash* menjadi jauh lebih kecil dibandingkan luas sayap total.
-2. **Dominasi pada Fase Jelajah:** Pada fase terbang jelajah (*cruise*), *induced drag* menyumbang sekitar $30\text{\%}$ hingga $40\text{\%}$ dari total gaya hambat aerodinamika pesawat. Peningkatan $\text{AR}$ secara langsung memangkas porsi hambatan terbesar ini.
-3. **Penurunan Konsumsi Bahan Bakar Spesifik:** Berkurangnya total gaya hambat memungkinkan mesin beroperasi pada tingkat dorongan lebih rendah, menurunkan konsumsi bahan bakar spesifik (*Specific Fuel Consumption* / $\text{SFC}$) secara berkelanjutan.
+1. **Peredaman Intensitas Vortex:** Pada sayap yang memiliki bentang panjang dan ramping ($\text{AR}$ tinggi), ujung sayap terletak semakin jauh dari garis tengah badan pesawat, sehingga proporsi luas permukaan sayap yang terpapar gangguan *downwash* menjadi jauh lebih kecil dibandingkan luas sayap total.
+2. **Dominasi pada Fase Jelajah:** Pada fase terbang jelajah (*cruise*), *induced drag* menyumbang sekitar $30\text{\%}$ hingga $40\text{\%}$ dari total gaya hambat aerodinamika pesawat. Peningkatan $\text{AR}$ secara langsung memangkas porsi hambatan ini.
+3. **Penurunan Konsumsi Bahan Bakar Spesifik:** Berkurangnya total gaya hambat memungkinkan mesin beroperasi pada tingkat dorongan lebih rendah, menurunkan konsumsi bahan bakar secara berkelanjutan.
 
 *Sebagai gambaran, peningkatan efisiensi aerodinamika sebesar $1\text{\%}$ melalui optimasi $\text{AR}$ berpotensi menghemat jutaan liter bahan bakar per tahun untuk operasional maskapai penerbangan komersial.*
 
@@ -58,7 +58,7 @@ Meskipun $\text{AR}$ tinggi menawarkan keunggulan aerodinamis yang nyata, desain
 
 #### Tantangan Beban dan Momen Lengkung
 
-Sayap dengan rentang yang semakin panjang menghasilkan momen lengkung (*bending moment*) yang jauh lebih besar pada pangkal sayap (*wing root*).
+Sayap dengan bentang yang semakin panjang menghasilkan momen lentur (*bending moment*) yang jauh lebih besar pada pangkal sayap (*wing root*).
 
 - Struktur internal sayap harus diperkuat dengan material yang lebih tebal dan kokoh, yang berakibat pada penambahan massa kosong pesawat (*operating empty weight*).
 - Jika penalti bobot struktur melampaui penghematan bahan bakar yang diperoleh dari penurunan *drag*, efisiensi total sistem justru menurun.
@@ -83,10 +83,10 @@ Sebaliknya, pesawat tempur dirancang dengan $\text{AR}$ rendah (berkisar antara 
 
 Bandingkan dua konfigurasi sayap dengan luas referensi yang identik ($S = 100\text{ m}^2$):
 
-1. **Konfigurasi A (Bentang Pendek / Kord Lebar):** Rentang sayap $b = 20\text{ m}$.
+1. **Konfigurasi A (Bentang Pendek / Kord Lebar):** Bentang sayap $b = 20\text{ m}$.
    $$\text{AR}_A = \frac{20^2}{100} = 4$$
 
-2. **Konfigurasi B (Bentang Panjang / Ramping):** Rentang sayap $b = 40\text{ m}$.
+2. **Konfigurasi B (Bentang Panjang / Ramping):** Bentang sayap $b = 40\text{ m}$.
    $$\text{AR}_B = \frac{40^2}{100} = 16$$
 
 Dengan asumsi kedua pesawat beroperasi pada koefisien gaya angkat yang sama ($C_L$) dan faktor efisiensi Oswald identik ($e$), rasio koefisien *induced drag* adalah:

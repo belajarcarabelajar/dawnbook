@@ -6,7 +6,7 @@ Berikut adalah daftar referensi dan karya ilmiah utama yang dapat kamu pelajari 
 2. **Binmore, K.** (2007). [*Playing for Real: A Text on Game Theory*](https://doi.org/10.1093/acprof:oso/9780195300574.001.0001). Oxford: Oxford University Press.
 3. **Fudenberg, D., & Tirole, J.** (1991). [*Game Theory*](https://mitpress.mit.edu/9780262061414/game-theory/). Cambridge, MA: MIT Press.
 4. **Gibbons, R.** (1992). [*Game Theory for Applied Economists*](https://press.princeton.edu/books/paperback/9780691003955/game-theory-for-applied-economists). Princeton: Princeton University Press.
-5. **Harsanyi, J. C.** (1967). [*Games with Incomplete Information Played by "Bayesian" Players, I-III*](https://doi.org/10.1287/mnsc.14.3.159). *Management Science*, 14(3), 159-182.
+5. **Harsanyi, J. C.** (1967). [*Games with Incomplete Information Played by "Bayesian" Players, I-III Part I. The Basic Model*](https://doi.org/10.1287/mnsc.14.3.159). *Management Science*, 14(3), 159-182.
 6. **Kreps, D. M., & Wilson, R.** (1982). [*Sequential Equilibria*](https://doi.org/10.2307/1912767). *Econometrica*, 50(4), 863-894.
 7. **Maynard Smith, J.** (1982). [*Evolution and the Theory of Games*](https://doi.org/10.1017/CBO9780511806292). Cambridge: Cambridge University Press.
 8. **Nash, J. F.** (1950). [*Equilibrium Points in N-Person Games*](https://doi.org/10.1073/pnas.36.1.48). *Proceedings of the National Academy of Sciences*, 36(1), 48-49.

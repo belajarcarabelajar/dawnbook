@@ -10,6 +10,6 @@
 - [Tahap Operasional Formal](content/08_tahap-operasional-formal-gerbang-menuju-pemikiran-tanpa-batas.md)
 - [Peran Lingkungan Fisik dalam Perkembangan](content/09_peran-lingkungan-fisik-dalam-perkembangan.md)
 - [Implikasi Teori Piaget dalam Strategi Pembelajaran](content/10_implikasi-teori-piaget-dalam-strategi-pembelajaran.md)
-- [Kritik Terhadap Teori Piaget](content/11_kritik-terhadap-teori-piaget.md)
+- [Kritik terhadap Teori Piaget](content/11_kritik-terhadap-teori-piaget.md)
 - [Ringkasan dan Sintesis Perkembangan Anak](content/12_ringkasan-dan-sintesis-perkembangan-anak.md)
 - [Referensi](content/13_referensi.md)

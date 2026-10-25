@@ -2,7 +2,7 @@
 
 Bayangkan kamu sedang membangun sebuah rumah. Kamu memiliki bahan bangunan yang bagus (premis), tetapi jika kamu menyusunnya dengan teknik yang salah, rumah tersebut akan roboh saat diterjang angin. **Sesat pikir** atau *logical fallacy* adalah cacat dalam logika argumen yang menyebabkan kesimpulan tidak didukung secara sah oleh premisnya.
 
-Sesat pikir sering kali terdengar meyakinkan. Mereka seperti "ilusi optik" bagi pikiran kita, tampak benar pada pandangan pertama, namun akan terlihat keliru jika kita memperhatikannya lebih dekat.
+Sesat pikir sering kali terdengar meyakinkan. Sesat pikir ibarat "ilusi optik" bagi pikiran kita, tampak benar pada pandangan pertama, tetapi akan terlihat keliru jika kita memperhatikannya lebih dekat.
 
 > **Sesat pikir bukan sekadar kesalahan fakta, melainkan kesalahan dalam "rantai penalaran" yang menghubungkan fakta dengan kesimpulan.**
 
@@ -32,7 +32,7 @@ Mari kita lihat skenario percakapan berikut:
 * **A:** *"Menurut saya, anggaran militer sebaiknya dialihkan sebagian untuk sektor pendidikan."*
 * **B:** *"Oh, jadi kamu ingin membiarkan negara kita tanpa pertahanan sama sekali dan membiarkan musuh menjajah kita dengan mudah?"*
 
-Mengapa tanggapan B salah? Karena B sama sekali tidak mendebat usulan A yang sebenarnya (yaitu pengalihan sebagian anggaran). Sebaliknya, B menciptakan sebuah "boneka jerami" berupa kondisi negara tanpa pertahanan sama sekali, lalu menyerang boneka buatan itu agar argumennya tampak menang.
+Mengapa tanggapan B salah? Karena B sama sekali tidak mendebat usulan A yang sebenarnya (yaitu pengalihan sebagian anggaran). Sebaliknya, B menciptakan sebuah "manusia jerami" berupa kondisi negara tanpa pertahanan sama sekali, lalu menyerang manusia jerami itu agar argumennya tampak menang.
 
 ### 3. Slippery Slope (Lereng Licin)
 
@@ -50,7 +50,7 @@ Menyajikan hanya dua pilihan ekstrem, padahal sebenarnya ada banyak pilihan lain
 
 Contoh yang sering kita temui: *"Kamu tidak mendukung kebijakan ini? Berarti kamu musuh negara!"*
 
-Argumen ini keliru karena mengabaikan kenyataan bahwa seseorang bisa saja tidak menyetujui satu kebijakan spesifik, namun tetap mencintai negaranya. Pilihan yang tersedia tidak sesederhana hitam atau putih.
+Argumen ini keliru karena mengabaikan kenyataan bahwa seseorang bisa saja tidak menyetujui satu kebijakan spesifik, tetapi tetap mencintai negaranya. Pilihan yang tersedia tidak sesederhana hitam atau putih.
 
 ### 5. Appeal to Authority (Otoritas Semu)
 
@@ -97,16 +97,16 @@ Jika kamu menyadari lawan bicaramu menggunakan sesat pikir, jangan terpancing em
 
 * **Kenali Polanya:** Langkah pertama adalah menyadari jenis sesat pikir yang sedang dihadapi (misalnya mendeteksi taktik *strawman*).
 * **Kembalikan ke Topik Utama:** Tunjukkan kekeliruan tersebut dengan tenang dan sopan agar pembahasan tidak melenceng.
-  * *Contoh tanggapan:* "Saya rasa kamu salah memahami maksud saya. Saya tidak mengusulkan pemotongan anggaran secara keseluruhan, melainkan mendiskusikan efisiensinya. Mari kita fokus kembali pada data biaya perolehan pelanggan."
-* **Tanyakan Hubungan Logisnya:** Jika lawan bicara menggunakan argumen lereng licin (*slippery slope*), minta mereka membuktikan hubungan sebab-akibat antar langkah yang diklaim.
+  * *Contoh tanggapan:* "Saya rasa kamu salah memahami maksud saya. Saya tidak mengusulkan pemotongan anggaran, melainkan mendiskusikan efisiensinya. Mari kita fokus kembali pada data biaya perolehan pelanggan."
+* **Tanyakan Hubungan Logisnya:** Jika lawan bicara menggunakan argumen lereng licin (*slippery slope*), minta mereka membuktikan hubungan sebab-akibat antarlangkah yang diklaim.
   * *Contoh tanggapan:* "Apa bukti konkret yang menunjukkan bahwa peninjauan efisiensi ini akan langsung memicu kebangkrutan dalam waktu enam bulan?"
 
 ## Latihan Mandiri
 
-Untuk mengasah kepekaanmu, amatilah satu sesi diskusi atau perdebatan di ruang publik (seperti media sosial atau berita televisi). Petakan sesat pikir yang terjadi dengan menjawab pertanyaan berikut:
+Untuk mengasah kepekaanmu, amatilah satu sesi diskusi atau perdebatan di ruang publik (seperti media sosial atau berita televisi). Petakan sesat pikir yang terjadi dengan mengerjakan langkah-langkah berikut:
 
 1. Identifikasi apakah ada pihak yang menyerang pribadi lawan bicara, bukan substansi argumennya.
 2. Temukan klaim yang digelembungkan hingga terasa berlebihan atau tidak rasional.
-3. Rancang versi perbaikan argumen tersebut agar terbebas dari bias logika.
+3. Rancang versi perbaikan argumen tersebut agar terbebas dari sesat pikir.
 
 > **Catatan Penting:** Memahami jenis-jenis sesat pikir bukan bertujuan agar kamu bisa memenangkan perdebatan dengan melabeli orang lain secara sembarangan. Tujuan utamanya adalah agar kamu bisa **berpikir lebih jernih** serta mampu menyusun argumen kokoh yang berpijak pada kebenaran, bukan pada manipulasi.

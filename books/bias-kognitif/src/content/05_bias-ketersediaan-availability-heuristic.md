@@ -6,7 +6,7 @@ Inilah yang disebut **Bias Ketersediaan (*Availability Heuristic*)**. Ini adalah
 
 ## 1\. Apa itu Bias Ketersediaan?
 
-Bias Ketersediaan adalah kecenderungan kognitif di mana seseorang mengandalkan informasi yang paling cepat muncul di pikiran saat mengevaluasi topik, konsep, atau keputusan tertentu.
+Bias Ketersediaan adalah kecenderungan kognitif ketika seseorang mengandalkan informasi yang paling cepat muncul di pikiran saat mengevaluasi topik, konsep, atau keputusan tertentu.
 
 Konsep ini pertama kali diperkenalkan oleh psikolog **Amos Tversky** dan **Daniel Kahneman** pada tahun 1973. Mereka menemukan bahwa manusia sering kali menggunakan "kemudahan pemanggilan memori" sebagai pengganti (proxy) untuk menghitung probabilitas yang sebenarnya.
 
@@ -78,7 +78,7 @@ Seorang dokter yang baru saja mendiagnosis tiga pasien berturut-turut dengan pen
 
 ### Dalam Keuangan & Investasi
 
-Ketika pasar saham sedang naik (*bull market*) dan media penuh dengan cerita "orang kaya mendadak dari kripto", orang-orang berbondong-bondong membeli karena informasi tersebut sangat tersedia di pikiran mereka, seringkali mengabaikan risiko kerugian.
+Ketika pasar saham sedang naik (*bull market*) dan media penuh dengan cerita "orang kaya mendadak dari kripto", orang-orang berbondong-bondong membeli karena informasi tersebut sangat tersedia di pikiran mereka, sering kali mengabaikan risiko kerugian.
 
 ## 6\. Cara Mengidentifikasi Bias Ketersediaan
 
@@ -88,6 +88,6 @@ Untuk mengetahui apakah kamu sedang terjebak dalam bias ini, ajukan pertanyaan r
 2. **"Jika kejadian ini tidak dramatis/viral, apakah saya akan tetap menganggapnya sepenting ini?"**
 3. **"Informasi apa yang TIDAK saya miliki saat ini?"** (Ingat: yang tidak terlihat biasanya justru yang paling penting).
 
-**Important:** Bias Ketersediaan adalah mekanisme pertahanan otak untuk menghemat energi. Menyadari keberadaannya bukan berarti kita bisa menghilangkannya sepenuhnya, tetapi kita bisa belajar untuk berhenti sejenak dan mencari data objektif sebelum mengambil keputusan besar.
+**Penting:** Bias Ketersediaan adalah pintasan mental otak untuk menghemat energi. Menyadari keberadaannya bukan berarti kita bisa menghilangkannya sepenuhnya, tetapi kita bisa belajar untuk berhenti sejenak dan mencari data objektif sebelum mengambil keputusan besar.
 
 > **Insight Utama:** Kemudahan kamu mengingat sesuatu bukanlah indikator akurat tentang seberapa sering atau seberapa mungkin hal itu terjadi di dunia nyata. Jangan biarkan ingatan yang paling mencolok menutupi kenyataan yang tidak terlihat.

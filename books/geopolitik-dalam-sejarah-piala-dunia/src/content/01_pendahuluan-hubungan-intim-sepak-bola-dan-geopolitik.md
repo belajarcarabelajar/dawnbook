@@ -6,7 +6,7 @@ Sejak peluit pertama dibunyikan di Uruguay pada tahun 1930, Piala Dunia FIFA ber
 
 ## Kekuatan Lunak Piala Dunia
 
-Dalam esai "The Sporting Spirit" (1945), George Orwell menyebut olahraga yang dipertandingkan dengan serius sebagai "perang tanpa tembakan". Sudut pandang ini sangat relevan dalam geopolitik, di mana Piala Dunia menjadi instrumen kekuatan lunak (*soft power*) yang efektif. Berbeda dari kekuatan militer atau ekonomi (*hard power*) yang sifatnya memaksa, *soft power* bekerja dengan cara memikat dan memengaruhi masyarakat global lewat budaya, nilai, serta olahraga.
+Dalam esai "The Sporting Spirit" (1945), George Orwell menyebut olahraga yang dipertandingkan dengan serius sebagai "perang tanpa tembakan". Sudut pandang ini sangat relevan dalam geopolitik, tempat Piala Dunia menjadi instrumen kekuatan lunak (*soft power*) yang efektif. Berbeda dari kekuatan militer atau ekonomi (*hard power*) yang sifatnya memaksa, *soft power* bekerja dengan cara memikat dan memengaruhi masyarakat global lewat budaya, nilai, serta olahraga.
 
 ### Mengapa Geopolitik Melekat pada Piala Dunia?
 
@@ -14,7 +14,7 @@ Ada tiga alasan mendasar mengapa sepak bola dan geopolitik selalu berjalan berir
 
 1. **Legitimasi Internasional**. Ketika suatu negara berhasil menggelar atau memenangkan Piala Dunia, mereka langsung mendapat pengakuan luas di panggung global.
 2. **Simbol Pemersatu Bangsa**. Tim nasional sering kali menjadi satu-satunya kekuatan yang bisa menyatukan masyarakat yang terfragmentasi, melampaui sekat kelas sosial atau etnis.
-3. Ajang ini menjadi sarana **diplomasi publik** yang efektif, memberi kesempatan bagi tuan rumah untuk memoles citra mereka di mata dunia melalui upaya penjenamaan nasional (*nation branding*).
+3. **Diplomasi Publik**. Ajang ini menjadi sarana yang efektif, memberi kesempatan bagi tuan rumah untuk memoles citra mereka di mata dunia melalui upaya penjenamaan nasional (*nation branding*).
 
 ## Analogi Papan Catur
 
@@ -45,17 +45,17 @@ Rezim otoriter sepanjang sejarah menyadari bahwa sorotan kamera dunia sepanjang 
 
 ## Alasan Negara Membiayai Piala Dunia
 
-Kamu mungkin bertanya-tanya: *Mengapa sebuah negara bersedia menggelontorkan biaya hingga ratusan triliun rupiah hanya untuk menyelenggarakan turnamen sepanjang satu bulan?*
+Kamu mungkin bertanya-tanya: *Mengapa sebuah negara bersedia menggelontorkan biaya hingga ratusan, bahkan ribuan, triliun rupiah hanya untuk menyelenggarakan turnamen sepanjang satu bulan?*
 
-Di atas kertas, investasi besar-besaran ini jarang menghasilkan keuntungan finansial langsung yang impas, di mana nilai $\text{ROI} < 1$. Namun, nilai geopolitik yang didapatkan jauh melampaui angka-angka tersebut:
+Di atas kertas, investasi besar-besaran ini jarang menghasilkan keuntungan finansial langsung yang impas, dengan nilai $\text{ROI} < 1$. Namun, nilai geopolitik yang didapatkan jauh melampaui angka-angka tersebut:
 
-- **Percepatan Infrastruktur**. Proyek besar seperti pembangunan bandara baru, jaringan transportasi massal, dan sistem komunikasi modern yang biasanya butuh waktu puluhan tahun kini diselesaikan hanya dalam hitungan tahun demi mengejar tenggat turnamen.
+- **Percepatan Infrastruktur**. Proyek besar seperti pembangunan bandara baru, jaringan transportasi massal, dan sistem komunikasi modern yang biasanya butuh waktu puluhan tahun dapat diselesaikan hanya dalam hitungan tahun demi mengejar tenggat turnamen.
 - **Posisi di Kancah Global**. Bagi kekuatan ekonomi baru (*emerging powers*), menyelenggarakan Piala Dunia bagaikan mengirim pesan tegas kepada dunia luar bahwa mereka adalah negara stabil yang siap diajak bekerja sama.
 - **Solidaritas Sosial**. Keberhasilan turnamen menumbuhkan rasa bangga kolektif di kalangan warga negara, yang secara tidak langsung dapat memperkuat stabilitas politik domestik.
 
 ## Rumus Pengaruh Geopolitik
 
-Dalam analisis geopolitik sepak bola, kita sering melihat korelasi antara posisi tim nasional dengan tingkat pengaruh negara tersebut. Mari kita lihat variabel sederhana dalam mengukur pengaruh global berikut:
+Dalam analisis geopolitik sepak bola, kita sering melihat korelasi antara posisi tim nasional dan tingkat pengaruh negara tersebut. Mari kita lihat variabel sederhana dalam mengukur pengaruh global berikut:
 
 <div>
 $$
@@ -63,10 +63,10 @@ P_{\text{geopolitik}} = f(K_{\text{ekonomi}}, I_{\text{budaya}}, S_{\text{olahra
 $$
 </div>
 
-Di mana:
+Keterangan:
 
 - $P$: Pengaruh Total
-- $K$: Kapasitas Ekonomi (GDP)
+- $K$: Kapasitas Ekonomi (PDB)
 - $I$: Instrumen Budaya
 - $S$: Keberhasilan atau pengaruh dalam olahraga, termasuk sepak bola
 
@@ -86,6 +86,6 @@ Bagaimana jika FIFA mengumumkan bahwa semua pertandingan sepak bola internasiona
 
 - Olahraga ini bekerja sebagai instrumen kekuatan lunak (*soft power*) yang ampuh.
 - Piala Dunia bertindak sebagai panggung diplomasi internasional sekaligus sarana mempromosikan citra positif negara.
-- Hubungan keduanya berjalan secara simbiotis, di mana dunia politik membutuhkan basis massa sepak bola, sedangkan sepak bola sendiri memerlukan sokongan infrastruktur dari pemerintah.
+- Hubungan sepak bola dan politik berjalan secara simbiotis, yaitu dunia politik membutuhkan basis massa sepak bola, sedangkan sepak bola sendiri memerlukan sokongan infrastruktur dari pemerintah.
 
 Sejarah dunia tidak hanya tercatat di buku, tetapi juga di stadion-stadion sepak bola.

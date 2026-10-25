@@ -11,7 +11,7 @@ Bayangkan kamu sedang membangun sebuah perpustakaan besar. Jika kamu hanya menum
 Salah satu praktik terbaik yang sering digunakan dalam library Rust populer seperti `serde` atau `tokio` adalah menyembunyikan kompleksitas internal dan menyajikan antarmuka (API) yang bersih kepada pengguna.
 
 ### Masalah
-Struktur folder internal kamu mungkin dalam karena mengikuti logika pengembangan: `src/auth/providers/oauth2/google.rs`
+Struktur folder internal kamu mungkin bersarang dalam karena mengikuti logika pengembangan: `src/auth/providers/oauth2/google.rs`
 
 ### Solusi
 Gunakan re-exporting untuk memotong jalur bagi pengguna luar.
@@ -61,7 +61,7 @@ Jangan ragu memecah modul. File yang mencapai lebih dari 500 baris kode biasanya
 Jika kamu memiliki modul `database.rs`, hindari memasukkan logika validasi email di sana.
 
 **Manfaatkan `pub(crate)`**
-Gunakan visibilitas `pub(crate)` jika ingin fungsi bisa diakses oleh modul lain di dalam crate yang sama, namun tetap tersembunyi dari pengguna luar.
+Gunakan visibilitas `pub(crate)` jika ingin fungsi bisa diakses oleh modul lain di dalam crate yang sama, tetapi tetap tersembunyi dari pengguna luar.
 
 ```rust
 pub(crate) fn internal_setup() {
@@ -96,7 +96,7 @@ Untuk pengujian yang mensimulasikan pengguna luar, gunakan folder `tests/` di ro
 
 ## 5. Menghindari Ketergantungan Melingkar (Circular Dependencies)
 
-Rust melarang Modul A mengimpor Modul B jika Modul B juga mengimpor Modul A secara langsung. Larangan ini mendeteksi *code smell* yang menandakan desain kurang optimal.
+Modul A yang mengimpor Modul B sementara Modul B juga mengimpor Modul A secara langsung sering menjadi *code smell* yang menandakan desain kurang optimal.
 
 **Gunakan Trait (Abstraksi)**
 Kamu bisa membuat *trait* di modul ketiga yang nantinya diimplementasikan oleh kedua modul yang saling membutuhkan.
@@ -106,12 +106,12 @@ Pindahkan fungsi atau struktur data yang dibutuhkan oleh kedua modul ke modul ba
 
 ## Penerapan pada Sistem E-Commerce
 
-Mari kita lihat bagaimana pola ini diterapkan pada skenario nyata pembuatan sistem pembayaran dengan metode `CreditCard`, `PayPal`, dan `Stripe`.
+Mari kita lihat bagaimana pola ini diterapkan pada skenario nyata pembuatan sistem pembayaran dengan metode `CreditCard` dan `PayPal`.
 
 **Pola Penerapan:**
 - Pertama, buat modul `payments` sebagai pintu masuk utama (fasad).
 - Kedua, sembunyikan detail implementasi masing-masing penyedia dalam sub-modul privat.
-- Ketiga, ekspos hanya satu interface (*trait*) ke publik untuk digunakan modul lain.
+- Ketiga, ekspos interface (*trait*) beserta tipe penyedia yang diperlukan ke publik untuk digunakan modul lain.
 
 ```rust
 // src/payments/mod.rs

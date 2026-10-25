@@ -4,7 +4,7 @@ Di sini kita fokus pada pilar pertama dari Ikigai: **Apa yang Kamu Cintai** (*Wh
 
 ## Mengapa Pilar Ini Penting?
 
-Pilar "Apa yang Kamu Cintai" berfungsi sebagai pemberi makna. Tanpa gairah ini, rutinitas bisa terasa kosong walaupun kamu ahli melakukannya atau mendapat bayaran tinggi. Saat kamu menjalani sesuatu yang dicintai, biasanya muncul energi karena kamu tidak merasa seperti sedang dipaksa bekerja. Ada kepuasan batin yang muncul tanpa perlu menunggu pujian atau imbalan dari luar. Selain itu, kamu akan lebih mudah masuk ke dalam fase *flow state*, di mana waktu seolah berlalu begitu saja karena perhatianmu tersita sepenuhnya oleh aktivitas tersebut.
+Pilar "Apa yang Kamu Cintai" berfungsi sebagai pemberi makna. Tanpa gairah ini, rutinitas bisa terasa kosong walaupun kamu ahli melakukannya atau mendapat bayaran tinggi. Saat kamu menjalani sesuatu yang dicintai, biasanya muncul energi karena kamu tidak merasa seperti sedang dipaksa bekerja. Ada kepuasan batin yang muncul tanpa perlu menunggu pujian atau imbalan dari luar. Selain itu, kamu akan lebih mudah masuk ke dalam fase *flow state*, ketika waktu seolah berlalu begitu saja karena perhatianmu tersita sepenuhnya oleh aktivitas tersebut.
 
 > **Catatan:** Fokuslah murni pada perasaan senang dan ketertarikan pribadimu. Abaikan sejenak pertanyaan tentang seberapa jago kamu di bidang itu atau apakah hal tersebut bisa menghasilkan uang.
 
@@ -14,7 +14,7 @@ Mari kita bedah beberapa sudut pandang untuk membantumu mengenali hal yang benar
 
 ### Mengingat Masa Lalu
 
-Seringkali minat alami kita tertutup oleh berbagai tuntutan hidup setelah dewasa. Cobalah menggali kembali masa-masa ketika kamu masih kecil atau remaja. Ingat-ingat aktivitas apa saja yang sanggup membuatmu lupa waktu, mulai dari membaca cerita fantasi, merakit LEGO, menggambar, bermain dengan hewan peliharaan, hingga sibuk memecahkan teka-teki rumit. 
+Sering kali minat alami kita tertutup oleh berbagai tuntutan hidup setelah dewasa. Cobalah menggali kembali masa-masa ketika kamu masih kecil atau remaja. Ingat-ingat aktivitas apa saja yang sanggup membuatmu lupa waktu, mulai dari membaca cerita fantasi, merakit LEGO, menggambar, bermain dengan hewan peliharaan, hingga sibuk memecahkan teka-teki rumit. 
 
 Tuliskan kegiatan atau hobi di rentang usia 5 hingga 18 tahun yang paling membekas. Setelah daftarnya selesai, coba bedah lebih dalam. Tanyakan pada dirimu sendiri apa elemen spesifik yang paling kamu nikmati. Misalnya, jika kamu suka membaca buku, apakah karena kamu senang mempelajari hal baru, atau karena kamu suka sensasi tersedot ke dunia fantasi?
 
@@ -26,7 +26,7 @@ Langkah lain yang cukup membantu adalah membuat daftar berisi beberapa hal yang 
 
 ### Mengeksplorasi Minat Baru
 
-Kadang ada keinginan terpendam yang belum sempat kamu eksekusi karena berbagai keraguan. Bayangkan sebuah kondisi di mana uang, waktu, dan rasa takut sama sekali bukan hambatan. Biarkan pikiranmu bebas merancang hal-hal yang selalu ingin kamu coba, misalnya mengikuti kelas fotografi, naik gunung, belajar instrumen musik, atau menjadi relawan. 
+Kadang ada keinginan terpendam yang belum sempat kamu eksekusi karena berbagai keraguan. Bayangkan sebuah kondisi ketika uang, waktu, dan rasa takut sama sekali bukan hambatan. Biarkan pikiranmu bebas merancang hal-hal yang selalu ingin kamu coba, misalnya mengikuti kelas fotografi, naik gunung, belajar instrumen musik, atau menjadi relawan. 
 
 Bila perlu, reka ulang bagaimana skenario "satu hari yang sempurna" versi dirimu berjalan. Rinci aktivitasmu mulai dari membuka mata di pagi hari hingga kembali tidur. Rangkaian rutinitas ideal ini biasanya menyimpan petunjuk kuat tentang preferensi dan minat terbesarmu.
 

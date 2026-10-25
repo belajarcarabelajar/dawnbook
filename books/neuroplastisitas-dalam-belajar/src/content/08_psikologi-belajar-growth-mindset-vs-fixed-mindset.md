@@ -1,8 +1,8 @@
 ## Psikologi Belajar Growth Mindset vs Fixed Mindset
 
-Pernahkah kamu bertanya-tanya mengapa ada dua orang dengan tingkat kecerdasan yang sama, namun mencapai hasil yang sangat berbeda dalam hidup mereka? Atau mengapa ada siswa yang langsung menyerah saat menghadapi soal matematika yang sulit, sementara siswa lainnya justru terlihat semakin bersemangat?
+Pernahkah kamu bertanya-tanya mengapa ada dua orang dengan tingkat kecerdasan yang sama, tetapi mencapai hasil yang sangat berbeda dalam hidup mereka? Atau mengapa ada siswa yang langsung menyerah saat menghadapi soal matematika yang sulit, sementara siswa lainnya justru terlihat semakin bersemangat?
 
-Jawabannya seringkali bukan terletak pada **apa** yang mereka ketahui, melainkan pada **bagaimana** mereka memandang kemampuan mereka sendiri. Pandangan itu dijelaskan oleh konsep *Growth Mindset* dan *Fixed Mindset* dalam psikologi belajar, yang dipopulerkan oleh Prof. Carol Dweck dari Stanford University.
+Jawabannya sering kali bukan terletak pada **apa** yang mereka ketahui, melainkan pada **bagaimana** mereka memandang kemampuan mereka sendiri. Pandangan itu dijelaskan oleh konsep *Growth Mindset* dan *Fixed Mindset* dalam psikologi belajar, yang dipopulerkan oleh Prof. Carol Dweck dari Stanford University.
 
 ## 1\. Penelitian Carol Dweck
 
@@ -26,7 +26,7 @@ Individu dengan *Fixed Mindset* percaya bahwa kecerdasan, bakat, dan kemampuan a
 
 ### B. Growth Mindset (Pola Pikir Berkembang)
 
-Sebaliknya, individu dengan *Growth Mindset* percaya bahwa kemampuan dasar dapat dikembangkan melalui kerja keras, strategi yang baik, dan masukan dari orang lain. Meskipun setiap orang berbeda dalam hal bakat awal dan minat, semua orang bisa tumbuh melalui aplikasi dan pengalaman.
+Sebaliknya, individu dengan *Growth Mindset* percaya bahwa kemampuan dasar dapat dikembangkan melalui kerja keras, strategi yang baik, dan masukan dari orang lain. Meskipun setiap orang berbeda dalam hal bakat awal dan minat, semua orang bisa tumbuh melalui upaya dan pengalaman.
 
 - **Keyakinan Utama:** "Saya belum bisa melakukan ini, tapi saya bisa mempelajarinya."
 - **Tujuan Utama:** Belajar dan berkembang, bukan sekadar mendapatkan nilai A atau pujian.
@@ -69,7 +69,7 @@ Bayangkan Budi dan Iwan mengambil mata kuliah "Struktur Data". Keduanya mendapat
 - **Budi (Fixed Mindset):** Budi berpikir, "Mungkin saya memang bukan tipe orang IT." Dia mulai bolos kuliah karena merasa usahanya akan sia-sia. Baginya, nilai D adalah vonis permanen atas kapasitas otaknya.
 - **Iwan (Growth Mindset):** Iwan berpikir, "Wah, ternyata cara belajar saya yang kemarin belum efektif untuk materi ini." Dia mendatangi dosen, bertanya bagian mana yang salah, dan menambah jam latihan kodingnya. Iwan melihat nilai D sebagai data, bukan sebagai identitas.
 
-**Hasil Akhir:** Di akhir semester, Iwan mungkin tidak hanya mendapatkan nilai lebih baik, tetapi sirkuit sarafnya benar-benar telah beradaptasi untuk berpikir secara logis, sementara Budi tetap berada di tempat yang sama dengan keyakinan yang membatasi dirinya.
+**Hasil Akhir:** Di akhir semester, Iwan mungkin tidak hanya mendapatkan nilai lebih baik, tetapi sirkuit sarafnya ikut beradaptasi untuk berpikir secara logis, sementara Budi tetap berada di tempat yang sama dengan keyakinan yang membatasi dirinya.
 
 ## 7\. Strategi Mengembangkan Growth Mindset
 

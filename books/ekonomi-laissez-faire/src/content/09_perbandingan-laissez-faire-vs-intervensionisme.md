@@ -8,14 +8,14 @@ Mari kita bedah perbedaan antara membiarkan pasar bebas bekerja secara alami den
 
 Untuk memahami perbedaan ini, bayangkan sebuah ekosistem.
 
-- **Laissez-faire** menganggap ekonomi seperti **hutan belantara**. Pohon-pohon (bisnis) tumbuh, bersaing mendapatkan sinar matahari, dan hewan-hewan (konsumen) mencari makan. Tidak ada yang mengatur siapa makan apa, namun secara alami, hutan tersebut mencapai keseimbangan ekologisnya sendiri.
+- **Laissez-faire** menganggap ekonomi seperti **hutan belantara**. Pohon-pohon (bisnis) tumbuh, bersaing mendapatkan sinar matahari, dan hewan-hewan (konsumen) mencari makan. Tidak ada yang mengatur siapa makan apa, tetapi secara alami, hutan tersebut mencapai keseimbangan ekologisnya sendiri.
 - **Intervensionisme** menganggap ekonomi seperti **taman kota**. Tanpa tukang kebun (pemerintah) yang memangkas rumput, menyiram tanaman saat kemarau, dan mencabut gulma (monopoli), taman tersebut akan menjadi berantakan, tidak efisien, dan tidak bisa dinikmati oleh semua warga.
 
 > **Intisari:** Laissez-faire mengutamakan **kebebasan negatif** (kebebasan dari gangguan), sementara intervensionisme mengutamakan **kesejahteraan kolektif** dan stabilitas.
 
 ## 2. Tabel Komparatif Laissez-faire vs. Intervensionisme
 
-| Fitur | Ekonomi Laissez-faire | Ekonomi Intervensionis (Campuran) |
+| Fitur | Ekonomi Laissez-faire | Ekonomi Intervensionis |
 | --- | --- | --- |
 | **Pendorong Utama** | Mekanisme harga dan kepentingan pribadi. | Kebijakan publik dan kebutuhan sosial. |
 | **Peran Pemerintah** | "Penjaga Malam" (Hukum & Keamanan). | Regulator, penyedia layanan, dan penstabil. |
@@ -31,7 +31,7 @@ Salah satu bentuk intervensionisme yang paling berpengaruh adalah **Keynesianism
 
    $$Y = C + I + G + (X - M)$$
 
-Di mana:
+Dengan:
 
 - $C$: Konsumsi rumah tangga
 - $I$: Investasi
@@ -40,7 +40,7 @@ Di mana:
 
 *Bayangkan situasi ini: Jika perusahaan takut berinvestasi ($I$) dan masyarakat berhenti belanja ($C$), siapa lagi yang bisa menggerakkan ekonomi selain pemerintah ($G$)?*
 
-## 4. Mekanisme Respon Terhadap Krisis
+## 4. Mekanisme Respons terhadap Krisis
 
 Mari kita lihat bagaimana kedua sistem ini bereaksi terhadap masalah ekonomi:
 
@@ -85,7 +85,7 @@ Di dunia nyata, hampir tidak ada negara yang 100% Laissez-faire atau 100% Interv
 
 > **Prinsip:** "Pasar jika memungkinkan, negara jika diperlukan."
 
-## 6. Respon Pandemi COVID-19
+## 6. Respons Pandemi COVID-19
 
 Selama pandemi global 2020-2022, perdebatan ini muncul ke permukaan secara nyata:
 

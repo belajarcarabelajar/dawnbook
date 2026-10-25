@@ -2,7 +2,7 @@
 
 Pernahkah kamu heran bagaimana ribuan produk, mulai dari kopi pagi hingga ponsel pintar di saku kamu, bisa tersedia tepat waktu dalam jumlah yang pas? Semua itu terjadi tanpa ada satu pun direktur pusat yang memerintahkan produksinya.
 
-Jawabannya ada pada konsep **The Invisible Hand** (Tangan Tak Terlihat). Metafora ini dicetuskan oleh **Adam Smith**. Konsep ini menjelaskan bagaimana interaksi individu yang mengejar kepentingan pribadi secara alami dapat menghasilkan tatanan ekonomi yang stabil dan memberi manfaat bagi masyarakat luas.
+Jawabannya ada pada konsep **The Invisible Hand** (Tangan Tak Terlihat). Metafora ini dikaitkan dengan **Adam Smith**. Konsep ini menjelaskan bagaimana interaksi individu yang mengejar kepentingan pribadi secara alami dapat menghasilkan tatanan ekonomi yang stabil dan memberi manfaat bagi masyarakat luas.
 
 ### 1. Kepentingan Pribadi sebagai Penggerak
 
@@ -29,7 +29,7 @@ Tangan tak terlihat bukanlah kekuatan gaib, melainkan kombinasi dari dua kekuata
 
 Dalam sistem Laissez-faire, harga adalah bahasa yang digunakan pasar untuk berkomunikasi.
 
-- Jika sebuah barang langka namun banyak dicari, harga akan **naik**.
+- Jika sebuah barang langka tetapi banyak dicari, harga akan **naik**.
 - Harga yang tinggi ini memberi sinyal kepada produsen: *"Ayo buat lebih banyak, ada peluang keuntungan di sini!"*
 - Ketika pasokan bertambah, harga perlahan akan **turun** kembali ke titik keseimbangan.
 
@@ -53,7 +53,7 @@ Mengapa saat ini banyak perusahaan beralih memproduksi kendaraan listrik? Bukan 
 
 ### 3. Keseimbangan Pasar (Market Equilibrium)
 
-Secara teknis, *The Invisible Hand* bekerja untuk mencapai titik keseimbangan, yaitu situasi di mana jumlah barang yang ditawarkan ($Q_s$) sama dengan jumlah barang yang diminta ($Q_d$).
+Secara teknis, *The Invisible Hand* bekerja untuk mencapai titik keseimbangan, yaitu situasi ketika jumlah barang yang ditawarkan ($Q_s$) sama dengan jumlah barang yang diminta ($Q_d$).
 
 Persamaan matematika ekonomi sederhana:
 
@@ -73,20 +73,20 @@ Kondisi penyesuaian harga di pasar ditunjukkan pada tabel berikut:
 
 ### 4. Manfaat bagi Kesejahteraan Publik
 
-Tindakan individu yang mengejar keuntungan pribadi dapat terdorong menjadi kebaikan publik melalui tiga saluran utama:
+Tindakan individu yang mengejar keuntungan pribadi dapat menghasilkan kebaikan publik melalui tiga saluran utama:
 
 1. **Inovasi Berkelanjutan:** Untuk mengalahkan pesaing, perusahaan terus memunculkan inovasi. Hasilnya adalah teknologi yang lebih baik bagi konsumen.
-2. **Efisiensi Produksi:** Produsen dipaksa meminimalkan pemborosan agar dapat menjual barang lebih murah namun tetap memperoleh keuntungan.
+2. **Efisiensi Produksi:** Produsen dipaksa meminimalkan pemborosan agar dapat menjual barang lebih murah tetapi tetap memperoleh keuntungan.
 3. **Kedaulatan Konsumen:** Di pasar bebas, konsumen menentukan arah pasar. Melalui pilihan pembelian mereka, konsumen menentukan perusahaan mana yang layak bertahan dan mana yang harus keluar dari pasar.
 
-### 5. Pasar Smartphone
+### 5. Pasar Ponsel Pintar
 
-Mari kita lihat industri smartphone sebagai contoh nyata dari konsep *The Invisible Hand*.
+Mari kita lihat industri ponsel pintar sebagai contoh nyata dari konsep *The Invisible Hand*.
 
 - **Skenario Awal:** Dahulu, ponsel pintar adalah barang mewah berharga sangat mahal dengan fitur terbatas.
 - **Kepentingan Pribadi:** Perusahaan seperti Samsung, Apple, dan Xiaomi ingin mendominasi pasar dan meraup keuntungan.
 - **Persaingan:** Demi menarik pembeli, mereka berlomba memberikan kamera terbaik, baterai paling awet, dan harga yang masuk akal.
-- **Dampak Bagi Publik:** Sekarang, hampir semua orang memiliki akses ke komputer saku berkinerja tinggi dengan harga yang jauh lebih terjangkau dibanding belasan tahun lalu.
+- **Dampak bagi Publik:** Sekarang, hampir semua orang memiliki akses ke komputer saku berkinerja tinggi dengan harga yang jauh lebih terjangkau dibanding belasan tahun lalu.
 
 Mekanisme "Tangan Tak Terlihat" inilah yang memaksa produsen beradaptasi jika ingin terus bertahan di pasar.
 

@@ -8,9 +8,9 @@ Bagian penutup ini tidak memperkenalkan topik baru yang harus dicerna dari nol. 
 
 Sepanjang buku ini kamu sudah mengumpulkan banyak potongan. Mari kita rakit menjadi satu urutan yang masuk akal, karena urutan itu sendiri adalah strateginya.
 
-Mulai dari pemahaman. Kamu tahu sekarang bahwa kebiasaan adalah loop: pemicu, rutinitas, imbalan. Kamu tahu loop itu tersimpan rapi di basal ganglia, berjalan sebagai satu "chunk" aksi yang terkompilasi, dan mengendalikan sekitar 43 persen perilaku harian dalam salah satu studi Wood, Quinn dan Kashy, sering kali sambil kepalamu memikirkan hal lain sama sekali. Kamu juga tahu dari Gardner bahwa kebiasaan itu bekerja sebagai proses pemicuan impuls: konteks memicu, impuls muncul. Artinya, kegagalanmu selama ini bukan kelemahan karakter, melainkan mesin otomatis yang bekerja sebagaimana dirancang.
+Mulai dari pemahaman. Kamu tahu sekarang bahwa kebiasaan adalah loop: pemicu, rutinitas, imbalan. Kamu tahu loop itu tersimpan rapi di basal ganglia, berjalan sebagai satu "chunk" aksi yang terkompilasi, dan mengendalikan sekitar 43 persen perilaku harian dalam salah satu studi Wood, Quinn, dan Kashy, sering kali sambil kepalamu memikirkan hal lain sama sekali. Kamu juga tahu dari Gardner bahwa kebiasaan itu bekerja sebagai proses pemicuan impuls: konteks memicu, impuls muncul. Artinya, kegagalanmu selama ini bukan kelemahan karakter, melainkan mesin otomatis yang bekerja sebagaimana dirancang.
 
-Lalu pengelolaan. Kamu tahu bahwa menghambat impuls dengan kekuatan kemauan itu mahal secara kognitif, dan bahwa niat sekuat apa pun hanya berdampak kecil pada perilaku, temuan Webb dan Sheeran yang kita bedah di bab awal. Karena itu yang kamu kelola bukan kekuatan kemauan, melainkan hal-hal di sekitarnya: konteks dan lingkungan yang memancing, friction yang kamu pasang atau kamu lepas, jadwal pelaksanaan yang kamu rinci lewat rencana "jika situasi Y, maka aku akan melakukan X" yang terbukti berdampak medium-besar dalam meta-analisis Gollwitzer dan Sheeran, serta momen mulai yang kamu pilih dengan sadar, entah itu Senin, awal tahun, atau titik perubahan hidup yang membuka jendela perubahan.
+Lalu pengelolaan. Kamu tahu bahwa menghambat impuls dengan kekuatan kemauan itu mahal secara kognitif, dan bahwa niat sekuat apa pun hanya berdampak kecil hingga sedang pada perilaku, temuan Webb dan Sheeran yang kita bedah di bab awal. Karena itu yang kamu kelola bukan kekuatan kemauan, melainkan hal-hal di sekitarnya: konteks dan lingkungan yang memancing, friction yang kamu pasang atau kamu lepas, jadwal pelaksanaan yang kamu rinci lewat rencana "jika situasi Y, maka aku akan melakukan X" yang terbukti berdampak medium-besar dalam meta-analisis Gollwitzer dan Sheeran, serta momen mulai yang kamu pilih dengan sadar, entah itu Senin, awal tahun, atau titik perubahan hidup yang membuka jendela perubahan.
 
 Kemudian penggantian. Kamu tahu kebiasaan lama tidak bisa dihapus dari otak, tapi bisa ditaklukkan lewat aturan emas Duhigg: pertahankan pemicu dan imbalannya, ganti rutinitasnya. Dan kamu tahu waktu itu bukan mitos 21 hari, melainkan kurva asimtotik dengan median 66 hari dan rentang yang lebar.
 
@@ -18,7 +18,7 @@ Semua itu adalah tatanan teknis yang utuh. Tapi ada satu pertanyaan yang belum t
 
 ### Setiap aksi adalah satu suara
 
-Jawabannya, menurut James Clear, bukan soal disiplin yang lebih besar, melainkan soal identitas. Kebanyakan orang mencoba mengubah perilaku dengan bertanya "apa yang harus aku lakukan". Padahal ada lapisan yang lebih dalam: "siapa orang yang aku yakini diriku".
+Jawabannya, menurut James Clear, bukan soal disiplin yang lebih besar, melainkan soal identitas. Kebanyakan orang mencoba mengubah perilaku dengan bertanya "apa yang harus aku lakukan". Padahal ada lapisan yang lebih dalam: "siapa orang yang aku yakini sebagai diriku".
 
 Clear menyebutnya identity-based habits, dan metaforanya sederhana tapi tajam: setiap aksi kecil yang kamu lakukan adalah satu suara untuk jenis orang yang kamu inginkan. Membaca satu halaman adalah satu suara untuk menjadi pembaca. Satu sesi olahraga singkat adalah satu suara untuk menjadi orang yang peduli pada tubuhnya. Menutup aplikasi yang membuang waktumu adalah satu suara untuk menjadi orang yang memegang kendali atas perhatiannya.
 
@@ -34,7 +34,7 @@ Lally dan timnya menemukan rentang waktu pembentukan kebiasaan dari 18 sampai 25
 
 Dan kalau ada hari kamu gagal sama sekali, ingat temuan yang sama: melewatkan satu kesempatan tidak berpengaruh material pada proses pembentukan kebiasaan. Kurvanya naik pelan-pelan menuju titik jenuh, dan satu titik data yang hilang tidak menghapus jejak semua titik sebelumnya. Gagal satu hari bukan berarti kembali ke nol. Yang membahayakan bukan satu hari kosong, melainkan cerita buruk yang kamu tulis tentang dirimu sendiri setelah hari kosong itu. Kini kamu tahu buktinya, jadi kamu boleh menolak cerita itu.
 
-Satu lagi. Momen perubahan hidup akan datang lagi di hidupmu, entah pindah kota, pekerjaan baru, atau babak kehidupan yang tidak kamu rencanakan. Verplanken dan Roy membuktikan bahwa intervensi perubahan perilaku paling efektif justru di momen-momen seperti itu, saat kebiasaan lama kehilangan pijakannya. Kali ini, saat momen itu datang, kamu tidak akan melewatkannya dengan polos. Kamu tahu namanya, kamu tahu kenapa dia bekerja, dan kamu tahu cara memakainya sebelum jendelanya menutup lagi.
+Satu lagi. Momen perubahan hidup akan datang lagi di hidupmu, entah pindah kota, pekerjaan baru, atau babak kehidupan yang tidak kamu rencanakan. Verplanken dan Roy menemukan bukti bahwa intervensi perubahan perilaku cenderung lebih efektif di momen-momen seperti itu, saat kebiasaan lama kehilangan pijakannya. Kali ini, saat momen itu datang, kamu tidak akan melewatkannya dengan polos. Kamu tahu namanya, kamu tahu kenapa dia bekerja, dan kamu tahu cara memakainya sebelum jendelanya menutup lagi.
 
 ## Penutup
 

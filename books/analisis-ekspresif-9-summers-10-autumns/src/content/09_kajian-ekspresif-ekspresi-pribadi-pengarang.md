@@ -8,7 +8,7 @@ Pendekatan ekspresif memandang karya sastra sebagai ungkapan langsung dari kejiw
 
 > “Di New York aku bukan siapa-siapa. Aku bukan direktur sebuah perusahaan riset terkemuka di dunia. Aku adalah Iwan dari Batu. Aku kembali menjadi anak sopir angkot yang berjuang untuk bertahan di kota paling kompetitif di dunia.” (Hlm. 3)
 
-Kota megapolitan tersebut memaksanya menanggalkan kenyamanan karir sebelumnya dan berjuang menempa jati dirinya kembali dari awal:
+Kota megapolitan tersebut memaksanya menanggalkan kenyamanan karier sebelumnya dan berjuang menempa jati dirinya kembali dari awal:
 
 > “Sembilan tahun di New York adalah masa pencarian identitas diri. Aku harus melupakan kenyamanan yang kudapatkan di Jakarta dan mulai dari nol lagi di kota ini. Ini adalah perjuangan untuk menemukan jati diriku yang sebenarnya.” (Hlm. 94)
 
@@ -16,7 +16,7 @@ Ekspresi pribadi ini memperlihatkan bagaimana novel berfungsi sebagai wadah kata
 
 ### Novel sebagai Katarsis Emosional
 
-Penyejajaran antara rekam jejak autobiografis Iwan Setyawan dan teks novel memperlihatkan keakuratan pendekatan ekspresif. Pengalaman kejiwaan riil berupa kerinduan mendalam pada kampung halaman dan perasaan terasing di perantauan diekspresikan secara jujur dalam novel melalui narasi batin tokoh 'Aku': *'Di New York aku bukan siapa-siapa... Aku adalah Iwan dari Batu'* (Hlm. 3). Penyejajaran ini mengonfirmasi bahwa penulisan novel ini berfungsi sebagai media katarsis emosional bagi pengarang untuk menyalurkan beban emosionalnya selama menetap di New York.
+Penyejajaran antara rekam jejak autobiografis Iwan Setyawan dan teks novel memperlihatkan relevansi pendekatan ekspresif. Pengalaman kejiwaan riil berupa kerinduan mendalam pada kampung halaman dan perasaan terasing di perantauan diekspresikan secara jujur dalam novel melalui narasi batin tokoh 'Aku': “Di New York aku bukan siapa-siapa... Aku adalah Iwan dari Batu” (Hlm. 3). Penyejajaran ini menunjukkan bahwa penulisan novel ini berfungsi sebagai media katarsis emosional bagi pengarang untuk menyalurkan beban emosionalnya selama menetap di New York.
 
 ### Dari Emosi Pribadi ke Kekuatan Iman di Perantauan
 

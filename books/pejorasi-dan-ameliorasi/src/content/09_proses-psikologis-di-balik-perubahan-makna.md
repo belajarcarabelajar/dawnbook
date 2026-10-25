@@ -2,7 +2,7 @@
 
 Perubahan makna kata berakar pada dinamika kognitif otak manusia yang menghubungkan konsep linguistik dengan rekaman emosi dan pengalaman sosial.
 
-Kerap muncul pertanyaan mengenai alasan sebuah kata yang dahulu terdengar wajar tiba-tiba terasa menyakitkan atau merendahkan. Sebaliknya, terdapat pula istilah yang dahulu dianggap tabu namun kini menjadi sebutan terhormat.
+Kerap muncul pertanyaan mengenai alasan sebuah kata yang dahulu terdengar wajar tiba-tiba terasa menyakitkan atau merendahkan. Sebaliknya, terdapat pula istilah yang dahulu dianggap tabu tetapi kini menjadi sebutan terhormat.
 
 Pergeseran makna seperti **ameliorasi** (peningkatan nilai rasa) dan **pejorasi** (penurunan nilai rasa) berawal dari kerja kognitif di dalam benak manusia. Bahasa bukan sekadar kumpulan definisi kamus, melainkan sistem dinamis yang bergantung pada psikologi massa serta persepsi individu.
 
@@ -23,11 +23,11 @@ Konsep pengondisian klasik (*classical conditioning*) yang dipopulerkan oleh Iva
 
 <div>
 $$
-\text{Kata (Stimulus)} + \text{Konteks Sosial (Respons)} \rightarrow \text{Makna Baru}
+\text{Kata (Stimulus)} + \text{Konteks Sosial} \rightarrow \text{Makna Baru}
 $$
 </div>
 
-Ketika sebuah kata (stimulus) secara ajek dipasangkan dengan situasi yang tidak menyenangkan (respons negatif), lambat laun kata itu sendiri memicu impresi negatif pada pendengar.
+Ketika sebuah kata (stimulus) secara ajek dipasangkan dengan situasi yang tidak menyenangkan, lambat laun kata itu sendiri memicu impresi negatif pada pendengar.
 
 | Pola Perubahan | Kata Asal | Konteks Pengondisian | Hasil Pergeseran |
 | :--- | :--- | :--- | :--- |
@@ -65,7 +65,7 @@ Ketika mayoritas masyarakat memandang penggunaan kata tertentu sebagai bentuk pe
 Dalam komunikasi profesional dan strategis, pemahaman atas psikologi perubahan semantik menjadi dasar penjenamaan (*branding*). Praktisi komunikasi merancang pilihan kata secara cermat demi menghindari asosiasi pejoratif yang tidak disengaja.
 
 **Skenario Penjenamaan Produk:**
-Sebuah produsen pangan tidak akan mencantumkan label "Sisa Olahan Daging", karena kata *sisa* memicu skema mental terkait limbah dan kualitas rendah (pejorasi). Sebaliknya, label yang dipilih adalah "Daging Olahan Pilihan" atau "Daging Olahan Premium" (ameliorasi) guna mengaktifkan asosiasi mutu tinggi dan eksklusivitas.
+Sebuah perusahaan pangan tidak akan mencantumkan label "Sisa Olahan Daging", karena kata *sisa* memicu skema mental terkait limbah dan kualitas rendah (berkonotasi pejoratif). Sebaliknya, label yang dipilih adalah "Daging Olahan Pilihan" atau "Daging Olahan Premium" (berkonotasi positif) guna mengaktifkan asosiasi mutu tinggi dan eksklusivitas.
 
 Pilihan kata dalam konteks formal mengikuti logika yang sama. Dari setiap pasangan berikut, kata yang cenderung dipilih adalah yang bernilai rasa lebih positif (*betina* lazim dipakai untuk hewan, sehingga terasa merendahkan bila dipakai untuk manusia):
 

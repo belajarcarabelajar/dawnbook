@@ -2,7 +2,7 @@
 
 Pernahkah kamu merasa tetap lelah meskipun sudah menghabiskan waktu berjam-jam bersantai sambil *scrolling* media sosial? Atau mungkin kamu merasa sulit untuk memikirkan ide orisinal karena kepalamu sudah penuh dengan pendapat orang lain dari podcast atau Twitter?
 
-Dalam filosofi **Digital Minimalisme**, masalah utamanya terletak pada hilangnya **Solitude** (kesendirian). Kita hidup di era di mana untuk pertama kalinya dalam sejarah manusia, kita bisa benar-benar terbebas dari kesendirian selama 24 jam penuh. Kebebasan dari kesendirian ini ternyata membawa harga yang mahal bagi kesehatan mental dan kejernihan berpikir kita.
+Dalam filosofi **Digital Minimalisme**, masalah utamanya terletak pada hilangnya **Solitude** (kesendirian). Kita hidup di era ketika untuk pertama kalinya dalam sejarah manusia, kita bisa benar-benar terbebas dari kesendirian selama 24 jam penuh. Kebebasan dari kesendirian ini ternyata membawa harga yang mahal bagi kesehatan mental dan kejernihan berpikir kita.
 
 ## Apa Itu 'Solitude' (Kesendirian)?
 
@@ -35,19 +35,19 @@ Ketika kita terus-menerus terpapar pada "input dari otak lain", kita kehilangan 
 Otak membutuhkan waktu untuk mengonsolidasikan informasi. Tanpa waktu refleksi, informasi hanya akan menumpuk menjadi tumpukan fakta yang tidak terorganisir, gagal menjadi kebijaksanaan atau pemahaman mendalam.
 
 ### Ide Orisinal yang Sulit Muncul
-Kreativitas seringkali muncul dari kondisi *Default Mode Network* (DMN) di otak,sebuah jaringan yang aktif justru saat kita sedang melamun. Input digital yang konstan memaksa otak tetap berada dalam mode reaktif, sehingga ide orisinal sulit muncul.
+Kreativitas sering kali muncul dari kondisi *Default Mode Network* (DMN) di otak, sebuah jaringan yang aktif justru saat kita sedang melamun. Input digital yang konstan memaksa otak tetap berada dalam mode reaktif, sehingga ide orisinal sulit muncul.
 
 ### Kerentanan Emosional
-Refleksi adalah cara kita memproses emosi kompleks. Saat menutupi kecemasan dengan distraksi digital, emosi tersebut tidak hilang. Mereka hanya terpendam dan bisa muncul kembali dalam bentuk stres kronis atau kelelahan mental (*burnout*).
+Refleksi adalah cara kita memproses emosi kompleks. Saat menutupi kecemasan dengan distraksi digital, emosi tersebut tidak hilang. Emosi itu hanya terpendam dan bisa muncul kembali dalam bentuk stres kronis atau kelelahan mental (*burnout*).
 
-*Bahan Renungan: Kapan terakhir kali seseorang meluangkan waktu 10 menit duduk tenang tanpa gangguan perangkat digital, lalu mendengarkan arus pikiran sendiri?*
+*Bahan Renungan: Kapan terakhir kali kamu meluangkan waktu 10 menit duduk tenang tanpa gangguan perangkat digital, lalu mendengarkan arus pikiran sendiri?*
 
 ## Manfaat Mengembalikan Tradisi Refleksi
 
 Menjauhkan diri dari kebisingan digital memberikan ruang bagi diri sendiri untuk tumbuh. 
 
 - Kamu akan mulai mengenali suara hati sendiri dan membedakan keinginan tulus dari sekadar tren yang didorong algoritma.
-- Masalah yang terlihat rumit seringkali menemukan solusinya saat berjalan kaki tanpa ponsel karena pikiran bawah sadar bekerja paling efektif saat tidak diganggu.
+- Masalah yang terlihat rumit sering kali menemukan solusinya saat berjalan kaki tanpa ponsel karena pikiran bawah sadar bekerja paling efektif saat tidak diganggu.
 - Ironisnya, kemampuan menikmati kesendirian justru meningkatkan kualitas interaksi dengan orang lain. Kita berhenti mencari validasi instan dan lebih menghargai kehadiran yang bermakna.
 
 ## Melatih Kesendirian
@@ -61,7 +61,7 @@ Cobalah berjalan kaki selama 15-20 menit di lingkungan sekitar. Syaratnya mutlak
 Menulis mengubah pikiran abstrak menjadi bentuk fisik. Tuliskan tiga hal yang mengganggu pikiranmu hari ini beserta satu hal yang kamu pelajari tentang dirimu sendiri.
 
 ### Menetapkan "Zona Bebas Input"
-Tentukan waktu atau tempat tertentu di mana tidak boleh ada input digital sama sekali. Misalnya, larangan membawa ponsel ke meja makan, atau aturan tidak membuka media sosial sebelum jam 9 pagi.
+Tentukan waktu atau tempat tertentu yang tidak boleh dimasuki input digital sama sekali. Misalnya, larangan membawa ponsel ke meja makan, atau aturan tidak membuka media sosial sebelum jam 9 pagi.
 
 ## Budi dan Sari Menghadapi Stres yang Sama
 

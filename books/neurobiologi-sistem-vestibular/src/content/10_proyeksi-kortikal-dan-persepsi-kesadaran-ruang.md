@@ -1,19 +1,19 @@
 ## Proyeksi Kortikal dan Persepsi Kesadaran Ruang
 
-Pernahkah seseorang terbangun tengah malam di ruangan gelap gulita, namun masih tahu persis arah "atas" dan posisi tubuh terhadap tempat tidur? Atau bayangkan ketika seseorang berada di dalam lift yang bergerak sangat halus; meskipun mata tidak melihat perubahan pemandangan di luar, tubuh tetap dapat "merasakan" pergerakan naik atau turun.
+Pernahkah seseorang terbangun tengah malam di ruangan gelap gulita, tetapi masih tahu persis arah "atas" dan posisi tubuh terhadap tempat tidur? Atau bayangkan ketika seseorang berada di dalam lift yang bergerak sangat halus; meskipun mata tidak melihat perubahan pemandangan di luar, tubuh tetap dapat "merasakan" pergerakan naik atau turun.
 
 Kesadaran spasial ini bukanlah kebetulan, melainkan hasil kerja integratif **proyeksi kortikal** sistem vestibular. Jika bagian sistem vestibular sebelumnya (seperti refleks vestibulo-okular dan kontrol postur) bekerja secara otomatis di bawah sadar, proyeksi kortikal merupakan gerbang utama yang memungkinkan manusia secara sadar memahami pergerakan diri (*self-motion*) dan orientasi dalam ruang tiga dimensi.
 
-### 1. Peran Thalamus
+### 1. Peran Talamus
 
-Sebelum informasi dari telinga dalam mencapai kesadaran di korteks serebri, sinyal saraf harus melewati stasiun relai utama otak, yaitu **Thalamus**.
+Sebelum informasi dari telinga dalam mencapai kesadaran di korteks serebri, sinyal saraf harus melewati stasiun relai utama otak, yaitu **Talamus**.
 
-Informasi yang berasal dari nukleus vestibularis di batang otak tidak langsung diproyeksikan ke korteks. Sinyal ini berjalan naik melalui jalur *lemniscus medialis* menuju kompleks nukleus di thalamus, terutama:
+Informasi yang berasal dari nukleus vestibularis di batang otak tidak langsung diproyeksikan ke korteks. Sinyal ini berjalan naik melalui jalur *lemniscus medialis* menuju kompleks nukleus di talamus, terutama:
 
 - **Ventral Postero-Lateral (VPL) Nucleus:** Mengintegrasikan sinyal vestibular dengan informasi somatosensorik (sentuhan dan posisi sendi).
 - **Ventral Postero-Inferior (VPI) Nucleus:** Berperan sebagai pusat relai utama khusus untuk meneruskan sinyal vestibular menuju area korteks.
 
-> **Analogi Sederhana:** Thalamus dapat diibaratkan sebagai **meja resepsionis** di sebuah gedung pertemuan. Sebelum para tamu (sinyal saraf) memasuki ruangan khusus (korteks), resepsionis memverifikasi data dan menentukan ruangan tujuan yang tepat agar pemrosesan informasi berlangsung teratur tanpa kekacauan sinyal.
+> **Analogi Sederhana:** Talamus dapat diibaratkan sebagai **meja resepsionis** di sebuah gedung pertemuan. Sebelum para tamu (sinyal saraf) memasuki ruangan khusus (korteks), resepsionis memverifikasi data dan menentukan ruangan tujuan yang tepat agar pemrosesan informasi berlangsung teratur tanpa kekacauan sinyal.
 
 ### 2. Jaringan Korteks Vestibular
 
@@ -21,10 +21,10 @@ Berbeda dengan sistem penglihatan yang memiliki pusat primer terpusat seperti Ko
 
 #### A. PIVC (Posterior Insular Vestibular Cortex)
 
-PIVC merupakan area inti (*core region*) dari persepsi vestibular. Terletak di bagian posterior insula dan operkulum parietal, area ini menerima input masif dari thalamus.
+PIVC merupakan area inti (*core region*) dari persepsi vestibular. Terletak di bagian posterior insula dan operkulum parietal, area ini menerima input masif dari talamus.
 
 - **Fungsi:** Mengintegrasikan gerakan kepala dengan persepsi vertikalitas gravitasi (menentukan orientasi tegak lurus sejati terhadap bumi).
-- **Signifikansi Klinis:** Gangguan pada area PIVC (misalnya akibat lesi iskemik atau stroke) dapat menyebabkan ilusi disorientasi parah, di mana penderita merasa lingkungan visual miring hingga 90 derajat.
+- **Signifikansi Klinis:** Gangguan pada area PIVC (misalnya akibat lesi iskemik atau stroke) dapat menyebabkan ilusi disorientasi parah, sehingga penderita merasa lingkungan visual miring.
 
 #### B. Area 2v dan 3a (Korteks Somatosensorik)
 
@@ -58,22 +58,22 @@ Keterangan parameter:
 - $\vec{I}_{\text{vis}}$: Komponen input aliran optik dan petunjuk visual (*visual cues*).
 - $\vec{I}_{\text{prop}}$: Komponen input proprioseptif dari reseptor otot, tendon, dan sendi.
 
-> **Wawasan Kunci:** Kesadaran ruang merupakan hasil konstruksi aktif sistem saraf pusat. Otak tidak sekadar menerima stimulus fisik secara pasif, melainkan menyusun representasi realitas berdasarkan konsensus berbagai modalitas sensorik. Apabila terjadi diskrepansi atau ketidaksesuaian antar-sinyal sensorik (seperti pada mabuk perjalanan atau *motion sickness*), sistem saraf akan memicu respons disorientasi dan vertigo.
+> **Wawasan Kunci:** Kesadaran ruang merupakan hasil konstruksi aktif sistem saraf pusat. Otak tidak sekadar menerima stimulus fisik secara pasif, melainkan menyusun representasi realitas berdasarkan konsensus berbagai modalitas sensorik. Apabila terjadi diskrepansi atau ketidaksesuaian antarsinyal sensorik (seperti pada mabuk perjalanan atau *motion sickness*), sistem saraf akan memicu respons disorientasi dan vertigo.
 
-### 4. Navigasi Spasial dan Memori (Hippocampus)
+### 4. Navigasi Spasial dan Memori (Hipokampus)
 
 Proyeksi vestibular meluas hingga ke **Hipokampus** dan **Korteks Entorhinal**, yang mendasari kemampuan navigasi spasial dan pembentukan peta kognitif lingkungan.
 
 - **Place Cells:** Populasi neuron piramidal di hipokampus yang aktif secara selektif ketika individu berada pada lokasi spesifik dalam suatu lingkungan.
 - **Head Direction Cells:** Neuron di korteks entorhinal dan talamus dorsal yang berfungsi layaknya kompas internal, menembakkan potensial aksi sesuai arah hadap kepala dalam bidang horizontal.
 
-Sinyal vestibular memberikan input kinematik kontinu untuk mekanisme pembaruan jalur (*path integration*). Tanpa integritas sinyal telinga dalam, kompas internal pada sirkuit saraf kehilangan acuan arah yang stabil, sehingga navigasi mandiri menjadi sangat terganggu.
+Sinyal vestibular memberikan input kinematik kontinu untuk mekanisme integrasi jalur (*path integration*). Tanpa integritas sinyal telinga dalam, kompas internal pada sirkuit saraf kehilangan acuan arah yang stabil, sehingga navigasi mandiri menjadi sangat terganggu.
 
 ### 5. Aplikasi Dunia Nyata dan Fenomena Klinis
 
 #### Disorientasi Spasial pada Penerbangan
 
-Dalam kondisi visibilitas nol (seperti penerbangan instrumen di dalam kabut atau awan tebal), penerbang rentan mengalami ilusi vestibular yang membahayakan (*spatial disorientation*). Tanpa rujukan visual eksternal, gaya inersia manuver pesawat dapat menipu reseptor otolit dan kanalis semisirkularis. Salah satu contoh fatal adalah ilusi putaran kuburan (*The Graveyard Spin*), di mana penerbang merasa pesawat sedang terbang lurus mendaki padahal badan pesawat sedang berputar menukik tajam ke arah bumi. Fenomena ini menunjukkan bahwa persepsi kortikal memerlukan verifikasi visual yang konsisten untuk menginterpretasikan medan gravitasi secara akurat.
+Dalam kondisi visibilitas nol (seperti penerbangan instrumen di dalam kabut atau awan tebal), penerbang rentan mengalami ilusi vestibular yang membahayakan (*spatial disorientation*). Tanpa rujukan visual eksternal, gaya inersia manuver pesawat dapat menipu reseptor otolit dan kanalis semisirkularis. Salah satu contoh fatal adalah ilusi putaran kuburan (*The Graveyard Spin*), yaitu penerbang merasa pesawat sedang terbang lurus padahal badan pesawat sedang berputar menukik tajam ke arah bumi. Fenomena ini menunjukkan bahwa persepsi kortikal memerlukan verifikasi visual yang konsisten untuk menginterpretasikan medan gravitasi secara akurat.
 
 #### Virtual Reality (VR) Sickness
 

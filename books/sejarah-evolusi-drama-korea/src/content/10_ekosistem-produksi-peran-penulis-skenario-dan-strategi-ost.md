@@ -10,15 +10,15 @@ Di industri film Hollywood, sutradara kerap dianggap sebagai pengambil keputusan
 
 ### Mengapa Penulis Begitu Dominan?
 
-Dalam ekosistem produksi di Korea Selatan, naskah berfungsi sebagai blueprint menyeluruh, bukan sekadar rangkuman dialog biasa. Penulis skenario tingkat atas (biasa disebut *star writer*) memiliki pengaruh besar dalam berbagai aspek produksi:
+Dalam ekosistem produksi di Korea Selatan, naskah berfungsi sebagai *blueprint* menyeluruh, bukan sekadar rangkuman dialog biasa. Penulis skenario tingkat atas (biasa disebut *star writer*) memiliki pengaruh besar dalam berbagai aspek produksi:
 
 - **Pemilihan Pemain (*Casting*):** Banyak penulis menulis karakter dengan membayangkan aktor tertentu untuk memainkannya sejak awal.
 - **Menentukan Sutradara:** Penulis dengan nama besar berhak memilih sutradara yang dirasa cocok untuk menggarap naskah mereka.
-- **Perubahan Alur Cerita Secara Real-Time:** Dengan adanya sistem kejar tayang (*live-shooting*), penulis dapat segera menyesuaikan cerita berdasarkan respons pemirsa di media sosial.
+- **Perubahan Alur Cerita secara *Real-Time*:** Dengan adanya sistem kejar tayang (*live-shooting*), penulis dapat segera menyesuaikan cerita berdasarkan respons pemirsa di media sosial.
 
-> **Insight Penting:** Di Korea Selatan, penonton sering kali memilih tontonan berdasarkan reputasi penulisnya, bukan hanya deretan bintang yang bermain. Nama besar seperti Kim Eun-sook atau Park Ji-eun menjadi jaminan perolehan *rating* yang tinggi.
+> **Insight Penting:** Di Korea Selatan, penonton sering kali memilih tontonan berdasarkan reputasi penulisnya, bukan hanya deretan bintang yang bermain. Nama besar seperti Kim Eun-sook atau Park Ji-eun kerap dikaitkan dengan perolehan *rating* yang tinggi.
 
-### Penulis Sebagai Kepala Juru Masak
+### Penulis sebagai Kepala Juru Masak
 
 Bayangkan sebuah restoran mewah. Sutradara bertugas layaknya pramusaji yang menyajikan hidangan dan menata ruangan, sementara aktor menjadi bahan-bahan masakannya. Namun, penulis skenario adalah kepala juru masak (*chef de cuisine*) yang meracik formula rasa. Tanpa resep yang kuat, bahan berkualitas tinggi sekalipun akan terasa hambar.
 
@@ -27,7 +27,7 @@ Bayangkan sebuah restoran mewah. Sutradara bertugas layaknya pramusaji yang meny
 | Nama Penulis | Karya Terkenal | Karakteristik Tulisan |
 | --- | --- | --- |
 | **Kim Eun-sook** | *Goblin, Descendants of the Sun* | Dialog puitis yang cerdas (*witty*), dibalut romansa komedi yang megah. |
-| **Noh Hee-kyung** | *Our Blues, It's Okay That's Love* | Sentuhan humanisme yang peka, berfokus pada pemulihan luka batin dan kesehatan mental. |
+| **Noh Hee-kyung** | *Our Blues*, *It's Okay, That's Love* | Sentuhan humanisme yang peka, berfokus pada pemulihan luka batin dan kesehatan mental. |
 | **Park Ji-eun** | *Crash Landing on You, My Love from the Star* | Premis cerita yang unik (seperti kisah cinta dengan tentara Korea Utara atau alien) yang dikemas dengan humor segar. |
 
 ## 2. Strategi OST sebagai Instrumen Emosional
@@ -42,7 +42,7 @@ K-Drama kerap menerapkan taktik mengulang satu lagu tema tertentu pada momen-mom
 
 1. **Peluncuran Berkala (Part-by-Part):** Lagu tema tidak dirilis sekaligus dalam satu album utuh. Pihak produksi merilisnya lagu per lagu setiap minggu (Part 1, Part 2, dan seterusnya) untuk menjaga eksistensi drama di tangga musik digital.
 2. **Kolaborasi dengan Vokalis Ternama:** Mengundang penyanyi spesialis OST seperti Gummy, Lyn, atau Davichi hampir selalu berhasil mendongkrak lagu tersebut ke puncak popularitas.
-3. **Penyelarasan Lirik Cerita:** Lirik lagu sengaja ditulis untuk mewakili isi hati karakter yang tidak terucap lewat dialog langsung.
+3. **Penyelarasan Lirik dengan Cerita:** Lirik lagu sengaja ditulis untuk mewakili isi hati karakter yang tidak terucap lewat dialog langsung.
 
 Kekuatan identitas audio ini terbukti saat nada pembuka atau petikan gitar dari drama yang sudah lama tamat masih sanggup membangkitkan perasaan yang sama pada pendengarnya.
 
@@ -62,13 +62,13 @@ $$
 $$
 </div>
 
-Jika salah satu elemen di atas tidak terpenuhi, rasa dari cerita tersebut akan terasa kurang lengkap. Penulis skenario menjaga alur logika serta kedalaman emosi tetap stabil, sedangkan pengarah musik memastikan penonton larut sepenuhnya dalam atmosfer yang dibangun.
+Jika salah satu elemen di atas tidak terpenuhi, cerita tersebut akan terasa kurang lengkap. Penulis skenario menjaga alur logika serta kedalaman emosi tetap stabil, sedangkan pengarah musik memastikan penonton larut sepenuhnya dalam atmosfer yang dibangun.
 
 ## 4. Aplikasi Nyata dan Studi Kasus
 
 ### "Goblin" (*Guardian: The Lonely and Great God*) <!-- heading-colon-ok: judul internasional karya Guardian: The Lonely and Great God dikutip apa adanya -->
 
-- **Racikan Kim Eun-sook:** Penulis meracik ulang legenda rakyat tentang *Dokkaebi* (leluhur gaib) ke dalam latar modern, menjadi mitologi urban yang baru.
+- **Racikan Kim Eun-sook:** Penulis meracik ulang legenda rakyat tentang *Dokkaebi* (makhluk gaib) ke dalam latar modern, menjadi mitologi urban yang baru.
 - **Daya Pikat Lagu Pengiring:** Kolaborasi Chanyeol dan Punch dalam *Stay With Me* menyajikan paduan rap dan vokal yang membekas di ingatan. Lagu ini populer di YouTube dan menjadi identitas audio-visual yang langsung mengingatkan orang pada drama tersebut.
 
 ### "Hospital Playlist"
@@ -81,7 +81,7 @@ Jika salah satu elemen di atas tidak terpenuhi, rasa dari cerita tersebut akan t
 Bagi kamu yang ingin memahami ekosistem ini secara mendalam, berikut adalah poin-poin kuncinya:
 
 - **Naskah adalah Penentu Arah:** Dalam ekosistem televisi Korea, posisi penulis sangat dihormati karena merekalah pemilik asli dari semesta cerita (*Script is King*).
-- **OST Sebagai Identitas dan Pundi Bisnis:** Lagu tema dikembangkan untuk membangun citra drama sekaligus menjadi sumber pendapatan lewat pemutaran di berbagai platform musik digital.
+- **OST sebagai Identitas dan Pundi Bisnis:** Lagu tema dikembangkan untuk membangun citra drama sekaligus menjadi sumber pendapatan lewat pemutaran di berbagai platform musik digital.
 - **Penggemar Setia Penulis Skenario:** Di Korea, penulis andalan memiliki barisan penggemar setia yang siap mengikuti karya terbarunya, sama seperti loyalitas fans kepada aktor ternama.
 
 Keberhasilan global K-Drama saat ini lahir dari kombinasi antara kekuatan cerita dan strategi audio yang digarap serius. Keduanya saling mendukung untuk menciptakan tontonan yang melekat kuat di ingatan pemirsa.

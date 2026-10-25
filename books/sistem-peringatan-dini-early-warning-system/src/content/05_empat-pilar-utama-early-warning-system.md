@@ -1,6 +1,6 @@
 ## Empat Pilar Utama Early Warning System
 
-Memahami **empat pilar early warning system** membantu kamu melihat mengapa sistem peringatan dini tidak bisa direduksi menjadi sensor dan sirene saja. Banyak kegagalan EWS bukan karena teknologi tidak ada, tapi karena satu pilar dibiarkan lemah sementara pilar lain diperkuat berlebihan. Daftar periksa yang disiapkan sekretariat Konferensi Internasional Ketiga tentang Peringatan Dini (EWC III, Bonn, 2006), dengan masukan dari UN/ISDR, menyusun EWS *people-centred* di atas empat elemen: pengetahuan risiko, layanan pemantauan dan peringatan, komunikasi dan diseminasi peringatan, serta kemampuan respons masyarakat.
+Memahami **empat pilar early warning system** membantu kamu melihat mengapa sistem peringatan dini tidak bisa direduksi menjadi sensor dan sirene saja. Banyak kegagalan EWS bukan karena teknologi tidak ada, tapi karena satu pilar dibiarkan lemah sementara pilar lain diperkuat berlebihan. Daftar periksa yang disiapkan sekretariat Konferensi Internasional Ketiga tentang Peringatan Dini (EWC III, Bonn, 2006), dengan masukan dari UN/ISDR, menyusun EWS *people-centred* di atas empat elemen: pengetahuan risiko, layanan pemantauan dan peringatan, komunikasi dan diseminasi peringatan, serta kapasitas respons masyarakat.
 
 > Sistem peringatan dini yang lengkap dan efektif terdiri atas empat elemen yang saling terkait, mulai dari pengetahuan tentang bahaya dan kerentanan hingga kesiapsiagaan dan kapasitas untuk merespons. Kelemahan atau kegagalan pada satu bagian dapat mengakibatkan kegagalan seluruh sistem.
 > - UN/ISDR, *Developing Early Warning Systems: A Key Checklist* (EWC III, 2006)
@@ -37,7 +37,7 @@ Karakteristik layanan yang kuat:
 * **Redundansi**. Satu sensor mati tidak boleh membuat sistem buta.
 * **Validasi silang** untuk menekan *false alarm*.
 
-*InaTEWS* mengintegrasi data seismik, buoy, dan tide gauge untuk estimasi tinggi gelombang tsunami. Untuk banjir, sistem di DAS Bengawan Solo memakai radar dan model hidrologi untuk prediksi 6 sampai 12 jam sebelumnya. Kelemahan sering ada pada pemeliharaan: baterai tidak diganti atau jaringan putus.
+*InaTEWS* mengintegrasikan data seismik, buoy, dan tide gauge untuk estimasi tinggi gelombang tsunami. Untuk banjir, sistem di DAS Bengawan Solo memakai radar dan model hidrologi untuk prediksi 6 sampai 12 jam sebelumnya. Kelemahan sering ada pada pemeliharaan: baterai tidak diganti atau jaringan putus.
 
 ### 3. Diseminasi dan Komunikasi (*Dissemination and Communication*)
 
@@ -50,7 +50,7 @@ Elemen kunci:
 * **Bahasa dan format lokal**. Gunakan bahasa daerah dan simbol visual untuk wilayah literasi terbatas.
 * **Kepercayaan sumber**. Warga lebih patuh pada kepala desa atau relawan yang dikenal.
 
-Di Filipina, peringatan siklon dari PAGASA disederhanakan menjadi kode warna per dusun dan disebar via radio dan kentongan. Model serupa ada di lereng Merapi, di mana HT dan kentongan menjadi cadangan saat listrik padam. Ukur keberhasilan bukan dari jumlah SMS terkirim, tapi dari *waktu tiba pesan* dan *persentase warga yang tahu tindakan yang harus dilakukan*.
+Di Filipina, peringatan siklon dari PAGASA disederhanakan menjadi kode warna per dusun dan disebar via radio. Model serupa ada di lereng Merapi, tempat HT dan kentongan menjadi cadangan saat listrik padam. Ukur keberhasilan bukan dari jumlah SMS terkirim, tapi dari *waktu tiba pesan* dan *persentase warga yang tahu tindakan yang harus dilakukan*.
 
 ### 4. Kapasitas Respons (*Response Capability*)
 
@@ -63,7 +63,7 @@ Komponen utama:
 * **Edukasi dan simulasi rutin**. Tanpa latihan, waktu evakuasi bisa dua kali lebih lama.
 * **Pendataan kelompok rentan** dengan daftar *by name by address* di level RT.
 
-Di Kamaishi, Jepang, siswa selamat tinggi saat tsunami 2011 karena program *Tsunami Tendenko* yang melatih evakuasi mandiri. Di Indonesia, Desa Tangguh Bencana yang berlatih tiap 6 bulan mencatat waktu evakuasi lebih cepat. Pilar ini sering dianggap tugas BPBD saja, padahal tanpa partisipasi warga, rencana di kertas tidak berjalan saat sirene berbunyi malam hari.
+Di Kamaishi, Jepang, tingkat keselamatan siswa tinggi saat tsunami 2011 karena program *Tsunami Tendenko* yang melatih evakuasi mandiri. Di Indonesia, Desa Tangguh Bencana yang berlatih tiap 6 bulan mencatat waktu evakuasi lebih cepat. Pilar ini sering dianggap tugas BPBD saja, padahal tanpa partisipasi warga, rencana di kertas tidak berjalan saat sirene berbunyi malam hari.
 
 ### Umpan Balik Antarpilar
 
@@ -82,7 +82,7 @@ flowchart TD
     P4 -->|"pelajaran untuk peta"| P1
 ```
 
-Bayangkan banjir bandang di DAS kecil. Jika pilar 1 tidak mencatat permukiman baru di sempadan sungai, pilar 2 tidak akan memasang sensor di hulu itu. Jika pilar 3 hanya pakai satu aplikasi ponsel, warga tanpa ponsel tidak terjangkau. Jika pilar 4 lemah karena jalur evakuasi tertutup longsor kecil yang tidak pernah disimulasikan, korban tetap jatuh. Karena itu perkuat pilar terlemah dahulu, bukan menambah sensor canggih saat jalur belum jelas.
+Bayangkan banjir bandang di DAS kecil. Jika pilar 1 tidak mencatat permukiman baru di sempadan sungai, pilar 2 tidak akan memasang sensor di hulu DAS itu. Jika pilar 3 hanya pakai satu aplikasi ponsel, warga tanpa ponsel tidak terjangkau. Jika pilar 4 lemah karena jalur evakuasi tertutup longsor kecil yang tidak pernah disimulasikan, korban tetap jatuh. Karena itu perkuat pilar terlemah dahulu, bukan menambah sensor canggih saat jalur belum jelas.
 
 #### Tabel Indikator Kematangan Tiap Pilar
 
@@ -99,4 +99,4 @@ Gunakan tabel berikut sebagai *checklist* cepat. Beri skor 1 sampai 4 untuk tiap
 | **4. Response Capability** | Jalur evakuasi bertanda | Foto + peta jalur | Rambu di semua jalur |
 | **4. Response Capability** | Simulasi partisipatif | Berita acara | 1 simulasi per 6 bulan |
 
-Saat kamu mengisi tabel ini bersama BPBD dan perwakilan warga, kesenjangan antar pilar langsung terlihat. Dengan begitu **empat pilar early warning system** tidak berhenti sebagai konsep, tapi menjadi sistem yang memberi waktu menyelamatkan nyawa.
+Saat kamu mengisi tabel ini bersama BPBD dan perwakilan warga, kesenjangan antarpilar langsung terlihat. Dengan begitu **empat pilar early warning system** tidak berhenti sebagai konsep, tapi menjadi sistem yang memberi waktu menyelamatkan nyawa.

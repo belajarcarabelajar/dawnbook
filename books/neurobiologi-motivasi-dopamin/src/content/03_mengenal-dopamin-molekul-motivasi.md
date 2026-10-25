@@ -11,7 +11,7 @@ Namun, neurosains modern memberi gambaran yang berbeda. Dopamin sebenarnya bukan
 Untuk memahami bedanya pengejaran dan rasa nikmat, bayangkan kamu sedang sangat lapar lalu melihat kotak pizza hangat yang baru saja diantarkan ke meja:
 
 1. **Saat kamu mencium aromanya dan berjalan mendekat:** Pada momen inilah dopamin di otakmu melonjak drastis. Neurotransmiter ini menciptakan dorongan kuat: *"Aku harus mengambil sepotong sekarang!"*
-2. **Saat kamu menggigit dan mengunyah pizza tersebut:** Kadar dopamin justru mulai menurun. Sensasi nikmat dan lezat yang kamu rasakan saat mengunyah sebenarnya diperankan oleh sistem **opioid endogen** dan **endorfin**, bukan dopamin.
+2. **Saat kamu menggigit dan mengunyah pizza tersebut:** Kadar dopamin justru mulai menurun. Sensasi nikmat dan lezat yang kamu rasakan saat mengunyah sebenarnya diperantarai oleh sistem **opioid endogen** (termasuk **endorfin**), bukan dopamin.
 
 | Dimensi | Dopamin (*Wanting*) | Opioid & Endorfin (*Liking*) |
 | :--- | :--- | :--- |
@@ -22,7 +22,7 @@ Untuk memahami bedanya pengejaran dan rasa nikmat, bayangkan kamu sedang sangat 
 
 > **Insight Utama:** Dopamin mengatur sirkuit *wanting* (menginginkan), sedangkan molekul kimiawi lain seperti opioid endogen mengatur sirkuit *liking* (menyukai).
 
-*Pernahkah kamu merasa sangat bersemangat saat memesan barang secara online, namun ketika paketnya tiba dan dibuka, rasa antusias itu mendadak menguap begitu saja? Itu contoh bahwa dopamin bekerja pada proses antisipasi, bukan pada kepemilikan.*
+*Pernahkah kamu merasa sangat bersemangat saat memesan barang secara online, tetapi ketika paketnya tiba dan dibuka, rasa antusias itu mendadak menguap begitu saja? Itu contoh bahwa dopamin bekerja pada proses antisipasi, bukan pada kepemilikan.*
 
 ---
 
@@ -56,7 +56,7 @@ Untuk memvisualisasikan kerja dopamin secara konkret, bayangkan analogi klasik k
 
 Tanpa dopamin, keledai tersebut mungkin merasa lapar dan melihat wortel di depannya, tetapi ia sama sekali tidak memiliki impuls motorik untuk melangkah maju. 
 
-Dalam eksperimen neurosains laboratorium, tikus yang kadar dopamin di otaknya dihilangkan secara total (*dopamine-depleted*) tetap bisa menikmati cairan gula yang diteteskan langsung ke mulutnya (*liking* masih utuh). Namun, tikus-tikus tersebut akan mati kelaparan karena tidak memiliki motivasi sama sekali untuk melangkah beberapa sentimeter demi mengambil makanan (*wanting* lumpuh total).
+Dalam eksperimen neurosains laboratorium, tikus yang kadar dopamin di otaknya dikurangi hampir seluruhnya (*dopamine-depleted*) tetap bisa menikmati cairan gula yang diteteskan langsung ke mulutnya (*liking* masih utuh). Namun, tikus-tikus tersebut akan mati kelaparan karena tidak memiliki motivasi sama sekali untuk melangkah beberapa sentimeter demi mengambil makanan (*wanting* lumpuh total).
 
 ---
 
@@ -73,7 +73,7 @@ Sering kali kamu menunda pekerjaan bukan karena tugas itu terlalu sulit, melaink
 **Solusi Praktis:** Pecah tugas besar menjadi langkah-langkah mikro. Setiap kali kamu menyelesaikan satu langkah kecil, otak menerima sinyal kemajuan (*progress signal*) yang melepaskan dopamin dalam jumlah pas, memberikan energi untuk menyelesaikan langkah berikutnya.
 
 ### 3. Olahraga dan Kondisi Aliran (*Flow State*)
-Saat kamu mulai melangkah untuk berolahraga, dopamin dilepaskan sebagai antisipasi terhadap rasa bugar serta pencapaian target. Lonjakan awal ini membantu kamu menembus hambatan awal hingga mencapai *flow state* di mana tindakan terasa mengalir alami.
+Saat kamu mulai melangkah untuk berolahraga, dopamin dilepaskan sebagai antisipasi terhadap rasa bugar serta pencapaian target. Lonjakan awal ini membantu kamu menembus hambatan awal hingga mencapai *flow state* ketika tindakan terasa mengalir alami.
 
 ---
 
@@ -85,11 +85,11 @@ Oleh karena itu, dopamin dirancang untuk **tidak pernah terpuaskan secara perman
 
 ### Ringkasan Poin Kunci
 
-- **Dopamin adalah Bahan Bakar Pendorong:** Ia memberi energi dan dorongan untuk bergerak menuju target, bukan sekadar penikmat hasil.
+- **Dopamin adalah Bahan Bakar Pendorong:** Ia memberi energi dan dorongan untuk bergerak menuju target, bukan penikmat hasil.
 - **Puncak Dopamin Ada pada Antisipasi:** Pelepasan dopamin tertinggi terjadi tepat *sebelum* imbalan diperoleh.
 - **Hindari Stimulasi Tanpa Pengejaran:** Mengincar kenikmatan instan tanpa usaha pengejaran (seperti perjudian atau stimulasi digital berlebih) dapat merusak kepekaan sirkuit motivasi alamiah kamu.
 
-> Rasa senang tidak hanya muncul saat tujuan tercapai, melainkan di sepanjang usaha untuk mencapainya.
+> Rasa senang tidak hanya muncul saat tujuan tercapai, tetapi juga di sepanjang usaha untuk mencapainya.
 
 ---
 

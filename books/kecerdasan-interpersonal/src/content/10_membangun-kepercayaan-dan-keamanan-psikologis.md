@@ -1,8 +1,8 @@
 ## Membangun Kepercayaan dan Keamanan Psikologis
 
-Bayangkan sebuah tim akrobat sirkus yang sedang melakukan atraksi *trapeze* di ketinggian 20 meter. Mengapa mereka berani melompat dan bersalto di udara tanpa ragu? Jawabannya bukan karena mereka tidak takut jatuh, melainkan karena ada jaring pengaman di bawah mereka. Latihan ribuan jam memang penting, tetapi jaring itulah yang memberi mereka keyakinan untuk mencoba gerakan ekstrem. Jika terjatuh, jaring tersebut siap menangkap mereka dari benturan fatal.
+Bayangkan sebuah tim akrobat sirkus yang sedang melakukan atraksi *trapeze* di ketinggian 20 meter. Mengapa mereka berani melompat dan bersalto di udara tanpa ragu? Jawabannya bukan karena mereka tidak takut jatuh, melainkan karena ada jaring pengaman di bawah mereka. Latihan ribuan jam memang penting, tetapi jaring itulah yang memberi mereka keyakinan untuk mencoba gerakan ekstrem. Jika terjatuh, jaring tersebut siap menangkap dan melindungi mereka dari benturan fatal.
 
-Dalam dunia profesional, **Psychological Safety** bertindak sebagai jaring pengaman ini. Ini adalah ruang kerja di mana setiap orang merasa aman mengambil risiko interpersonal (seperti mengakui kesalahan atau mengusulkan ide eksperimental) tanpa takut dipermalukan atau dihukum.
+Dalam dunia profesional, **Psychological Safety** bertindak sebagai jaring pengaman ini. Ini adalah ruang kerja tempat setiap orang merasa aman mengambil risiko interpersonal (seperti mengakui kesalahan atau mengusulkan ide eksperimental) tanpa takut dipermalukan atau dihukum.
 
 ## 1. Trust vs. Psychological Safety
 
@@ -33,7 +33,7 @@ Jika orientasi diri ($S$) kamu terlalu dominan, tingkat kepercayaan ($T$) akan t
 
 Menurut Timothy R. Clark, *psychological safety* berkembang secara bertahap melalui empat tingkatan yang berurutan. Sebuah tim harus membangun fondasi dari tingkat terendah sebelum bisa mencapai fase inovasi:
 
-1.  **Inclusion Safety**: Tahap awal di mana kamu merasa diterima seutuhnya sebagai bagian dari tim tanpa memandang latar belakang pribadi. Keberadaanmu dihargai, bukan cuma hasil kerjamu.
+1.  **Inclusion Safety**: Tahap awal saat kamu merasa diterima seutuhnya sebagai bagian dari tim tanpa memandang latar belakang pribadi. Keberadaanmu dihargai, bukan cuma hasil kerjamu.
 2.  **Learner Safety**: Memberikan kebebasan untuk bertanya, bereksperimen, memberikan masukan, dan melakukan kesalahan kecil selama proses belajar tanpa takut dicap tidak kompeten.
 3.  **Contributor Safety**: Timbulnya rasa percaya diri untuk menggunakan keahlian pribadi dalam menghasilkan karya nyata, didukung oleh otonomi penuh dari tim.
 4.  **Challenger Safety**: Tingkat tertinggi yang memungkinkan kamu menantang status quo, memberikan masukan kritis terhadap ide atasan, atau menyuarakan kekhawatiran tanpa bayang-bayang pembalasan maupun risiko karier.
@@ -70,7 +70,7 @@ Kurangi tekanan dengan memandang tugas sebagai eksperimen, terutama pada proyek 
 Ketika terjadi kesalahan operasional, arahkan fokus evaluasi pada kelemahan sistem, bukan kesalahan individu.
 
 *   **Pendekatan Kurang Tepat**: "Siapa yang menulis baris kode bermasalah ini?"
-*   **Pendekatan Lebih Baik**: "Langkah apa yang terlewat dalam alur kerja kita sehingga kesalahan pengetikan ini bisa lolos ke tahap produksi?"
+*   **Pendekatan Lebih Baik**: "Langkah apa yang terlewat dalam alur kerja kita sehingga kode bermasalah ini bisa lolos ke tahap produksi?"
 
 ### D. Undang Partisipasi Aktif secara Spesifik
 
@@ -92,7 +92,7 @@ Saat terjadi gangguan sistem akibat peluncuran fitur baru, respons pertama pemim
 
 Menghadapi masalah yang sama, sang manajer memilih mengumpulkan tim dan berdiskusi dengan tenang: *"Mari kita bedah alur tinjauan kode kita agar celah seperti ini bisa kita cegah bersama ke depannya. Apa pelajaran utama yang bisa kita ambil?"*
 
-*   **Dampaknya**: Tim merasa memiliki dukungan penuh. Tanpa diminta, mereka mencari solusi pembenahan secara kolaboratif, bahkan merancang sistem deteksi dini agar masalah serupa tidak terulang kembali.
+*   **Dampaknya**: Tim merasa memiliki dukungan penuh. Tanpa diminta, mereka mencari solusi pembenahan secara kolaboratif, bahkan merancang sistem deteksi dini agar masalah serupa tidak terulang.
 
 ## 5. Mengukur Psychological Safety dalam Tim
 

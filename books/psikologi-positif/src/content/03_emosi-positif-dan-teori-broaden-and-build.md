@@ -1,6 +1,6 @@
 ## Emosi Positif dan Teori Broaden-and-Build
 
-Selama berabad-abad, kajian psikologi tradisional cenderung terfokus pada emosi negatif seperti ketakutan, kemarahan, dan kesedihan. Secara evolusioner, hal ini masuk akal: jika ada ancaman seperti harimau di depanmu, rasa takut akan langsung memfokuskan seluruh perhatianmu pada satu tujuan, yaitu **bertahan hidup**. Namun, pernahkah kamu bertanya-tanya mengapa kita memiliki emosi positif seperti rasa ingin tahu, sukacita, atau ketenangan? Apakah emosi tersebut sekadar dampak menyenangkan setelah kita berhasil meraih sesuatu?
+Selama puluhan tahun, kajian psikologi tradisional cenderung terfokus pada emosi negatif seperti ketakutan, kemarahan, dan kesedihan. Secara evolusioner, hal ini masuk akal: jika ada ancaman seperti harimau di depanmu, rasa takut akan langsung memfokuskan seluruh perhatianmu pada satu tujuan, yaitu **bertahan hidup**. Namun, pernahkah kamu bertanya-tanya mengapa kita memiliki emosi positif seperti rasa ingin tahu, sukacita, atau ketenangan? Apakah emosi tersebut sekadar dampak menyenangkan setelah kita berhasil meraih sesuatu?
 
 Barbara Fredrickson, seorang peneliti psikologi positif, menjawabnya melalui **Teori Broaden-and-Build**.
 
@@ -33,7 +33,7 @@ Di bawah pengaruh emosi positif, cara kerja otak kita mengalami perubahan pentin
 
 ## 3. Membangun (Build)
 
-Efek pelebaran (*broaden*) dari emosi positif memang bersifat sementara, namun dampak jangka panjangnya bertahan lama. Di sinilah fase membangun (*build*) terjadi. Eksplorasi dan kreativitas yang muncul saat pikiran meluas membantu kita mengumpulkan **sumber daya pribadi yang tahan lama**.
+Efek pelebaran (*broaden*) dari emosi positif memang bersifat sementara, tetapi dampak jangka panjangnya bertahan lama. Di sinilah fase membangun (*build*) terjadi. Eksplorasi dan kreativitas yang muncul saat pikiran meluas membantu kita mengumpulkan **sumber daya pribadi yang tahan lama**.
 
 Fredrickson membagi sumber daya ini ke dalam empat kategori utama:
 
@@ -50,11 +50,11 @@ R_{\text{total}} = \int_{t_0}^{t_n} E_{\text{pos}}(t) \ dt
 $$
 </div>
 
-Di mana $R$ melambangkan total Sumber Daya pribadi yang terbangun, sedangkan $E\_{\text{pos}}$ melambangkan intensitas serta frekuensi emosi positif sepanjang rentang waktu tertentu.
+Dalam persamaan ini, $R$ melambangkan total sumber daya pribadi yang terbangun, sedangkan $E\_{\text{pos}}$ melambangkan intensitas serta frekuensi emosi positif sepanjang rentang waktu tertentu.
 
 ## 4. Efek Spiral ke Atas (The Upward Spiral)
 
-Konsep lain dari teori ini adalah **Spiral ke Atas (The Upward Spiral)**. Berbeda dengan depresi yang kerap membentuk spiral ke bawah (di mana satu pikiran buruk memicu emosi negatif yang lebih dalam), emosi positif justru menciptakan momentum pertumbuhan yang berkelanjutan.
+Konsep lain dari teori ini adalah **Spiral ke Atas (The Upward Spiral)**. Berbeda dengan depresi yang kerap membentuk spiral ke bawah (saat satu pikiran buruk memicu emosi negatif yang lebih dalam), emosi positif justru menciptakan momentum pertumbuhan yang berkelanjutan.
 
 - **Langkah awal**: Kamu merasakan emosi positif seperti rasa syukur.
 - **Perluasan kesadaran**: Pikiranmu mulai meluas (*broaden*), membuatmu lebih peka terhadap peluang untuk berbuat baik atau membantu sesama.
@@ -94,20 +94,20 @@ Bagaimana cara menerapkan Teori Broaden-and-Build ini? Ingat bahwa tujuannya buk
 
 - **Tantangan**: Tim kerja terjebak dalam kebuntuan proyek yang rumit. Suasana menjadi tegang dan penuh tekanan.
 - **Penerapan teori**: Sebelum masuk ke agenda inti atau *brainstorming*, ajak setiap anggota membagikan satu pencapaian kecil yang menyenangkan minggu ini, atau buat sesi cair singkat untuk memicu tawa.
-- **Hasil akhir**: Efek emosi positif ini meluaskan cara pandang anggota tim. Hambatan stres terbuka, sehingga ide-ide kreatif yang tersumbat bisa mengalir kembali.
+- **Hasil akhir**: Efek emosi positif ini meluaskan cara pandang anggota tim. Hambatan akibat stres mencair sehingga ide-ide kreatif yang tersumbat bisa mengalir kembali.
 
 ### Skenario Pengembangan Diri
 
-Kamu bisa melatih teknik **micro-moments of connectivity**. Kamu tidak membutuhkan liburan mewah hanya untuk menghadirkan emosi positif di dalam diri.
+Kamu bisa melatih diri menciptakan momen-momen kecil emosi positif. Kamu tidak membutuhkan liburan mewah hanya untuk menghadirkan emosi positif di dalam diri.
 
 - Nikmati aroma kopi hangat di pagi hari dengan penuh kesadaran (memicu ketenangan).
 - Berikan senyuman tulus kepada kasir minimarket saat membayar (membangun koneksi sosial).
 - Luangkan waktu lima menit untuk membaca artikel di luar bidang keahlianmu (merangsang minat).
 
-**Poin Penting:** Berbagai penelitian menunjukkan adanya ambang batas rasio antara emosi positif dan negatif (dikenal sebagai *Losada Ratio*, meski angkanya masih terus didiskusikan). Poin utamanya tetap sama: untuk berkembang (*flourish*), kita membutuhkan frekuensi emosi positif yang jauh lebih sering dibandingkan emosi negatif.
+**Poin Penting:** Pernah diajukan ambang batas rasio antara emosi positif dan negatif (dikenal sebagai *Losada Ratio*), tetapi dasar matematisnya kemudian dibantah dan angkanya masih terus didiskusikan. Poin utamanya tetap sama menurut teori broaden-and-build dari Fredrickson: emosi positif memperluas cara kita berpikir dan bertindak, lalu dari situ membangun sumber daya untuk berkembang (*flourish*).
 
 ## Ringkasan untuk Refleksi
 
 Emosi positif tidak hanya berfungsi sebagai hadiah setelah target tercapai. Emosi ini adalah **bahan bakar** utama yang memampukan kita mencapai target tersebut. Dengan meluangkan waktu secara sengaja untuk merasakan sukacita, minat, dan ketenangan, kita sedang berinvestasi pada 'tabungan' sumber daya pribadi demi menghadapi tantangan di masa mendatang.
 
-*Pertanyaan untukmu: Sumber daya pribadi apa (baik fisik, intelektual, sosial, maupun psikologis) yang paling ingin kamu bangun minggu ini? Serta emosi positif apa yang bisa membantumu meluaskannya?*
+*Pertanyaan untukmu: Sumber daya pribadi apa (baik fisik, intelektual, sosial, maupun psikologis) yang paling ingin kamu bangun minggu ini, serta emosi positif apa yang bisa membantumu meluaskannya?*

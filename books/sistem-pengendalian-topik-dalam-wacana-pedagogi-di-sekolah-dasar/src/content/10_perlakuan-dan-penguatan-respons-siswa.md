@@ -10,7 +10,7 @@ Ketika kamu mengamati suasana pembelajaran di sekolah dasar, perlakuan respons i
 
 Dalam wacana pedagogi sekolah dasar yang diteliti Marliana (2017), perlakuan dan penguatan terhadap respons siswa terbagi menjadi dua bentuk utama, yaitu pemberian pujian dan pengulangan jawaban siswa.
 
-| Bentuk Penguatan | Bentuk Ujaran / Tindakan | Fungsi Wacana Utama | Dampak Terhadap Siswa |
+| Bentuk Penguatan | Bentuk Ujaran / Tindakan | Fungsi Wacana Utama | Dampak terhadap Siswa |
 | :--- | :--- | :--- | :--- |
 | **Pujian (Verbal & Nonverbal)** | Ujaran seperti *"Bagus"*, *"Pintar"*, *"Betul"*, *"Terima kasih"*, atau tindakan tepuk tangan. | Memberikan pengakuan (*recognition*), mengonfirmasi kebenaran jawaban, dan menutup pertukaran topik. | Meningkatkan rasa percaya diri siswa dan memvalidasi kontribusi mereka dalam diskusi. |
 | **Pengulangan Jawaban (Repetisi)** | Mengulang kata atau frasa yang baru saja diucapkan oleh siswa. | Memperjelas jawaban bagi seluruh kelas, menegaskan poin penting, serta menandai transisi ke pertanyaan berikutnya. | Membantu siswa lain mendengar jawaban dengan jelas dan memberikan rasa kepastian. |
@@ -44,7 +44,7 @@ Untuk memahami bagaimana penguatan respons berfungsi, amati contoh ilustrasi per
 | 1 | Umpan Balik (*Follow-up*) | G | *"Bagus! Tepat sekali."* |
 | 2 | Pemulai (*Initiating*) | G | *"Nah, sekarang siapa yang tahu proses pembuatan makanan itu disebut apa?"* |
 
-Pada contoh di atas, ujaran *"Bagus! Tepat sekali"* pada pertukaran 1 berfungsi sebagai penguatan positif sekaligus penutup (*evaluative move*). Begitu penguatan diberikan, guru langsung mengambil alih giliran bicara (*turn-taking*) untuk memulai topik turunan pada pertukaran 2.
+Pada contoh di atas, ujaran *"Bagus! Tepat sekali"* pada pertukaran 1 berfungsi sebagai penguatan positif sekaligus penutup pertukaran (*follow-up move*). Begitu penguatan diberikan, guru langsung mengambil alih giliran bicara (*turn-taking*) untuk memulai topik turunan pada pertukaran 2.
 
 #### Perlakuan Respons Melalui Pengulangan Jawaban
 
@@ -55,18 +55,18 @@ Pada contoh di atas, ujaran *"Bagus! Tepat sekali"* pada pertukaran 1 berfungsi 
 | 1 | Umpan Balik (*Follow-up*) | G | *"Kambing. Ya, betul kambing."* |
 | 2 | Pemulai (*Initiating*) | G | *"Selain kambing, hewan apa lagi yang makan rumput?"* |
 
-Dalam interaksi ini, pengulangan kata *"Kambing"* oleh guru memastikan seluruh kelas mendengar jawaban S2 dengan tegas. Pengulangan tersebut menutup pertukaran pertama dan membuka kesempatan untuk pertanyaan berikutnya.
+Dalam interaksi ini, pengulangan kata *"Kambing"* oleh guru memastikan seluruh kelas mendengar jawaban S2 dengan jelas. Pengulangan tersebut menutup pertukaran pertama dan membuka kesempatan untuk pertanyaan berikutnya.
 
 ---
 
 > ### Panduan Pedagogis untuk Mengoptimalkan Penguatan Respons
 >
 > 1. **Variasikan Bentuk Penguatan:** Kombinasikan pujian verbal dengan penguatan nonverbal (seperti senyuman atau anggukan) untuk menciptakan suasana kelas yang hangat.
-> 2. **Berikan Umpan Balik Spesifik:** Hindari hanya mengucapkan *"Bagus"*, tetapi jelaskan aspek mana dari jawaban siswa yang sudah tepat.
-> 3. **Gunakan Repetisi Secara Efektif:** Ulangi jawaban siswa untuk menegaskan konsep kunci, namun berikan pula kesempatan bagi siswa lain untuk menanggapi jawaban temannya agar interaksi tidak selalu berpusat pada guru.
+> 2. **Berikan Umpan Balik Spesifik:** Jangan hanya mengucapkan *"Bagus"*, tetapi jelaskan aspek mana dari jawaban siswa yang sudah tepat.
+> 3. **Gunakan Repetisi Secara Efektif:** Ulangi jawaban siswa untuk menegaskan konsep kunci, tetapi berikan pula kesempatan bagi siswa lain untuk menanggapi jawaban temannya agar interaksi tidak selalu berpusat pada guru.
 
 ---
 
 ### Menakar Penguatan dari Guru
 1. **Refleksi Utama**: Apakah bentuk interaksi yang dijelaskan pada bab ini mencerminkan dinamika kelas yang inklusif atau didominasi oleh pendidik?
-2. **Penerapan Praktis**: Bagaimana strategi komunikasi dalam bab mefasilitasi partisipasi aktif siswa?
+2. **Penerapan Praktis**: Bagaimana strategi komunikasi yang dibahas di sini memfasilitasi partisipasi aktif siswa?

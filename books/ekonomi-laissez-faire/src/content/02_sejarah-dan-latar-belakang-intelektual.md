@@ -1,8 +1,8 @@
 ## Sejarah dan Latar Belakang Intelektual
 
-Untuk memahami mengapa sistem **Laissez-faire** begitu dominan dalam pemikiran ekonomi modern, kita harus kembali ke abad ke-18. Ini adalah masa di mana dunia sedang berubah, beralih dari kekuasaan monarki yang absolut menuju zaman pencerahan intelektual.
+Untuk memahami mengapa sistem **Laissez-faire** begitu berpengaruh dalam pemikiran ekonomi modern, kita harus kembali ke abad ke-18. Ini adalah masa ketika dunia sedang berubah, beralih dari kekuasaan monarki yang absolut menuju zaman pencerahan intelektual.
 
-Ide bahwa pemerintah harus "lepas tangan" tidak muncul begitu saja. Ia lahir sebagai penentangan intelektual terhadap sistem **Merkantilisme** yang mengekang, di mana negara mengontrol setiap aspek perdagangan demi menimbun emas dan perak.
+Ide bahwa pemerintah harus "lepas tangan" tidak muncul begitu saja. Ia lahir sebagai penentangan intelektual terhadap sistem **Merkantilisme** yang mengekang, dengan negara mengontrol setiap aspek perdagangan demi menimbun emas dan perak.
 
 ## 1. Kaum Fisiokrat Prancis
 
@@ -24,7 +24,7 @@ Quesnay, sebagai seorang dokter, melihat ekonomi seperti sistem peredaran darah 
 
 Fisiokrat merintis gagasan ini, lalu **Adam Smith** menyusunnya menjadi sistem yang utuh. Melalui bukunya, *An Inquiry into the Nature and Causes of the Wealth of Nations*, Smith mengubah arah pemikiran ekonomi.
 
-Smith setuju dengan Fisiokrat mengenai kebebasan pasar, namun ia memiliki pandangan yang jauh lebih luas dan praktis mengenai sumber kekayaan.
+Smith setuju dengan Fisiokrat mengenai kebebasan pasar, tetapi ia memiliki pandangan yang jauh lebih luas dan praktis mengenai sumber kekayaan.
 
 ### Pergeseran Paradigma
 
@@ -36,20 +36,20 @@ Berbeda dengan Fisiokrat yang mengagungkan tanah, Smith berpendapat bahwa **tena
 
 > "Bukan dari kemurahan hati tukang daging, pembuat bir, atau tukang roti kita mengharapkan makan malam kita, tetapi dari perhatian mereka terhadap kepentingan mereka sendiri." - Adam Smith
 
-## 3. Evolusi Pemikiran dari Tanah ke Modal
+## 3. Evolusi Pemikiran dari Tanah ke Tenaga Kerja
 
 Mari kita lihat perbedaan mendasar antara kedua tonggak sejarah ini untuk melihat bagaimana pemikiran Laissez-faire berkembang:
 
 | Karakteristik | Kaum Fisiokrat (Prancis) | Adam Smith (Skotlandia) |
 | --- | --- | --- |
 | **Sumber Kekayaan** | Tanah dan Pertanian | Tenaga Kerja dan Produktivitas |
-| **Fokus Utama** | Menentang aturan feodal dan pajak tanah | Menentang Merkantilisme dan Monopoli |
+| **Fokus Utama** | Menentang aturan feodal dan pajak yang rumit | Menentang Merkantilisme dan Monopoli |
 | **Pandangan Industri** | Dianggap "steril" atau tidak produktif | Dianggap sebagai penggerak kemajuan |
 | **Slogan Utama** | *Laissez-faire* (Biarkan mereka berbuat) | *The Invisible Hand* (Tangan Tak Terlihat) |
 
 ## 4. Runtuhnya Merkantilisme
 
-Pada abad ke-18, Inggris dan Prancis menerapkan aturan ketat seperti **Navigation Acts**, yang memaksa koloni hanya boleh berdagang dengan negara induk menggunakan kapal negara tersebut.
+Pada abad ke-18, Inggris menerapkan aturan ketat seperti **Navigation Acts**, yang memaksa koloni hanya boleh berdagang dengan negara induk menggunakan kapal negara tersebut.
 
 **Skenario:** Bayangkan seorang petani di Amerika tahun 1750 yang ingin menjual tembakau ke Belanda karena harga di sana lebih tinggi. Di bawah sistem Merkantilisme, ia dilarang keras melakukannya dan dipaksa menjual ke Inggris dengan harga murah.
 
@@ -59,11 +59,11 @@ Intelektual Laissez-faire berargumen bahwa praktik ini merugikan semua orang:
 - Konsumen di Belanda tidak mendapat barang.
 - Ekonomi global menjadi tidak efisien.
 
-Ketika ide Adam Smith mulai diadopsi, negara-negara mulai menghapus tarif dan hambatan dagang ini, yang kemudian memicu lonjakan perdagangan global dan mendorong **Revolusi Industri**.
+Ketika ide Adam Smith mulai diadopsi, negara-negara mulai menghapus tarif dan hambatan dagang ini, yang kemudian memicu lonjakan perdagangan global dan sejalan dengan berkembangnya **Revolusi Industri**.
 
 ## 5. Hubungan Intelektual dengan Masa Kini
 
-Meskipun teori-teori ini ditulis ratusan tahun lalu, logika di baliknya tetap relevan. Saat ini, ketika kita berdebat tentang apakah pemerintah harus mengatur harga tiket pesawat atau membatasi ekspor mineral mentah, kita sebenarnya sedang mengulangi perdebatan yang sama yang dimulai oleh Quesnay and Smith.
+Meskipun teori-teori ini ditulis ratusan tahun lalu, logika di baliknya tetap relevan. Saat ini, ketika kita berdebat tentang apakah pemerintah harus mengatur harga tiket pesawat atau membatasi ekspor mineral mentah, kita sebenarnya sedang mengulangi perdebatan yang sama yang dimulai oleh Quesnay dan Smith.
 
 **Catatan Penting:** Laissez-faire dalam konteks sejarah tidak berarti "anarki". Para pemikir awal ini tetap mengakui bahwa hukum harus ada untuk melindungi hak milik dan memastikan kontrak dijalankan. Mereka hanya ingin agar pemerintah tidak menjadi pemain dalam permainan ekonomi, melainkan bertindak sebagai wasit.
 

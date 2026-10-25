@@ -1,12 +1,12 @@
 ## Monitoring dan Refleksi Iklim Kelas
 
-Bayangkan kamu adalah seorang kapten kapal yang sedang melintasi samudra luas. kamu telah menetapkan rute (prosedur), mengatur awak kapal (norma), dan memastikan mesin bekerja dengan baik (keterlibatan aktif). Namun, tanpa melihat kompas, radar, atau mendengarkan laporan dari kru, bagaimana kamu tahu bahwa kapal tetap berada di jalur yang benar?
+Bayangkan kamu adalah seorang kapten kapal yang sedang melintasi samudra luas. Kamu telah menetapkan rute (prosedur), mengatur awak kapal (norma), dan memastikan mesin bekerja dengan baik (keterlibatan aktif). Namun, tanpa melihat kompas, radar, atau mendengarkan laporan dari kru, bagaimana kamu tahu bahwa kapal tetap berada di jalur yang benar?
 
 Dalam manajemen kelas proaktif, **Monitoring dan Refleksi** adalah instrumen navigasi kamu. Tanpanya, strategi yang kamu terapkan hanyalah tebakan. Bagian ini akan membahas bagaimana kamu dapat menggunakan data objektif dan suara siswa untuk memperbaiki suasana belajar secara terus-menerus.
 
 ## 1. Memahami "Iklim Kelas"
 
-Iklim kelas adalah kualitas sosial, emosional, dan fisik dari kehidupan sekolah. Ini bukan hanya tentang apakah siswa "tenang", tetapi tentang apakah mereka merasa aman, dihargai, dan tertantang untuk belajar.
+Iklim kelas adalah kualitas sosial, emosional, dan fisik dari kehidupan di dalam kelas. Ini bukan hanya tentang apakah siswa "tenang", tetapi tentang apakah mereka merasa aman, dihargai, dan tertantang untuk belajar.
 
 > **Wawasan:** Iklim kelas yang positif bersifat "menular". Ketika sistem monitoring menunjukkan adanya retakan kecil dalam iklim tersebut, intervensi dini dapat mencegah "badai" perilaku di masa depan.
 
@@ -16,12 +16,12 @@ Refleksi dimulai dari diri sendiri. Sebagai manajer kelas, kamu perlu melihat ke
 
 ### Metrik Evaluasi Mandiri
 
-kamu dapat menggunakan skala 1-5 ($1 = \text{Sangat Jarang}$, $5 = \text{Sangat Konsisten}$) untuk menilai poin-poin berikut setiap akhir pekan:
+Kamu dapat menggunakan skala 1-5 ($1 = \text{Sangat Jarang}$, $5 = \text{Sangat Konsisten}$) untuk menilai poin-poin berikut setiap akhir pekan:
 
 1. **Rasio Interaksi Positif:** Apakah saya memberikan setidaknya 4 pujian untuk setiap 1 koreksi perilaku?
 2. **Kepatuhan Prosedur:** Apakah saya memulai dan mengakhiri pelajaran tepat waktu sesuai rutinitas yang disepakati?
 3. **Withitness (Kewaspadaan):** Seberapa sering saya menyadari gangguan kecil sebelum menjadi besar?
-4. **Respon Emosional:** Apakah saya tetap tenang saat menghadapi tantangan perilaku hari ini?
+4. **Respons Emosional:** Apakah saya tetap tenang saat menghadapi tantangan perilaku hari ini?
 
 **Tabel Sederhana Refleksi Mingguan:**
 
@@ -37,7 +37,7 @@ Siswa adalah "konsumen" utama dari manajemen kelas kamu. Mereka merasakan langsu
 ### Teknik Pengumpulan Umpan Balik
 
 - **Survei Anonim Berkala:** Gunakan formulir singkat setiap bulan.
-	- *Contoh pertanyaan:* "Apa satu hal yang membuatmu merasa sulit fokus di kelas minggu ini?" atau "Apakah kamu merasa aturan kelas kita adil?"
+	- *Contoh pertanyaan:* "Apa satu hal yang membuatmu merasa sulit fokus di kelas bulan ini?" atau "Apakah kamu merasa aturan kelas kita adil?"
 - **Exit Tickets (Tiket Keluar):** Sebelum pulang, siswa menuliskan satu hal yang mereka sukai dari cara kelas berjalan hari itu dan satu hal yang ingin mereka ubah.
 - **Metode "Stop, Start, Continue":**
 	- **Stop:** Apa yang harus guru berhenti lakukan karena menghambat belajar?

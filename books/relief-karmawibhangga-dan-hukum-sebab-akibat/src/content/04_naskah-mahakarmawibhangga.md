@@ -1,6 +1,6 @@
 ## Naskah Mahakarmawibhangga
 
-Pernahkah kamu membayangkan bagaimana para pemahat di abad ke-8 dapat menciptakan 160 panel relief yang konsisten? Semua panel itu menceritakan hukum sebab-akibat yang kompleks. Mereka tidak bekerja hanya berdasarkan imajinasi semata. Ada sebuah "skenario" atau panduan tertulis yang menjadi acuan utama mereka. Panduan itu adalah naskah **Mahakarmawibhangga**.
+Pernahkah kamu membayangkan bagaimana para pemahat di abad ke-8 dapat menciptakan 160 panel relief yang konsisten? Semua panel itu menceritakan hukum sebab-akibat yang kompleks. Mereka tidak bekerja hanya berdasarkan imajinasi. Ada sebuah "skenario" atau panduan tertulis yang menjadi acuan utama mereka. Panduan itu adalah naskah **Mahakarmawibhangga**.
 
 Dalam bagian ini, kita akan membedah naskah Sanskerta kuno ini, bukan hanya sebagai karya sastra, tetapi sebagai cetak biru yang memungkinkan pesan moral Borobudur tersampaikan secara visual.
 
@@ -36,7 +36,7 @@ Jika naskah ini adalah sebuah kode komputer, ia akan terbaca seperti struktur "j
 
 ## 3. Penemuan Hubungan Teks dan Relief
 
-Selama berabad-abad, identitas naskah yang menjadi sumber relief di kaki tersembunyi Borobudur tidak diketahui. Barulah pada tahun **1922**, seorang orientalis Prancis bernama **Sylvain Lévi** berhasil mengidentifikasinya.
+Selama berabad-abad, identitas naskah yang menjadi sumber relief di kaki tersembunyi Borobudur tidak diketahui. Barulah seorang orientalis Prancis bernama **Sylvain Lévi** berhasil mengidentifikasinya.
 
 Lévi menemukan sebuah naskah Sanskerta di Nepal yang isinya identik dengan apa yang terpahat di relief Borobudur. Penemuan ini penting karena:
 
@@ -50,7 +50,7 @@ Mengubah naskah filosofis menjadi gambar di batu bukanlah tugas mudah. Para pema
 | Unsur dalam Naskah | Manifestasi Visual pada Relief |
 | --- | --- |
 | **Konsep Abstrak** (misal: "Kikir") | Digambarkan dengan adegan seseorang yang menyembunyikan makanan saat orang lain lapar. |
-| **Konsep Waktu** (kehidupan mendatang) | Digambarkan melalui pembagian panel, seringkali satu panel menunjukkan perbuatan dan panel berikutnya (atau bagian panel yang sama) menunjukkan hasilnya di alam lain. |
+| **Konsep Waktu** (kehidupan mendatang) | Digambarkan melalui pembagian panel, sering kali satu panel menunjukkan perbuatan dan panel berikutnya (atau bagian panel yang sama) menunjukkan hasilnya di alam lain. |
 | **Alam Keberadaan** | Digambarkan dengan latar belakang yang berbeda: awan untuk surga, api atau penyiksaan untuk neraka. |
 
 ## 5. Mengapa Menggunakan Naskah Ini?
@@ -59,7 +59,7 @@ Pemilihan Mahakarmawibhangga sebagai sumber utama di kaki Borobudur memiliki tuj
 
 1. **Pendidikan Dasar**: Borobudur dirancang sebagai sarana ziarah edukatif. Hukum karma adalah fondasi dasar etika Buddhis bagi masyarakat awam sebelum mereka mempelajari tingkatan spiritual yang lebih tinggi di relief bagian atas.
 2. **Universalitas**: Cerita dalam naskah ini bersifat membumi. Ia berbicara tentang kehidupan sehari-hari: cara makan, hubungan keluarga, cara berdagang, dan etika sosial.
-3. **Standarisasi Ajaran**: Dengan merujuk pada teks Sanskerta yang diakui secara internasional (pada masa itu), Borobudur menegaskan posisinya sebagai pusat pembelajaran agama yang otentik.
+3. **Standardisasi Ajaran**: Dengan merujuk pada teks Sanskerta yang diakui secara internasional (pada masa itu), Borobudur menegaskan posisinya sebagai pusat pembelajaran agama yang otentik.
 
 ## 6. Contoh Implementasi Naskah pada Relief
 
@@ -69,13 +69,13 @@ Mari kita lihat bagaimana satu baris teks diterjemahkan menjadi pahatan:
 
 > *"Sepuluh perbuatan yang menyebabkan seseorang berumur panjang: menjauhi pembunuhan, menganjurkan orang lain untuk tidak membunuh, memuji tindakan tidak membunuh..."*
 
-**Implementasi Visual (Relief):** Pemahat tidak hanya menggambar orang diam, melainkan sebuah adegan dinamis di mana seseorang sedang membebaskan burung dari sangkar (melepas nyawa/ *fangshen*) atau tabib yang sedang mengobati pasien dengan penuh kasih sayang.
+**Implementasi Visual (Relief):** Pemahat tidak hanya menggambar orang diam, melainkan sebuah adegan dinamis ketika seseorang sedang membebaskan burung dari sangkar atau tabib yang sedang mengobati pasien dengan penuh kasih sayang.
 
 ## Skenario Film dan Spesifikasi Teknis
 
-Dalam dunia modern, peran Mahakarmawibhangga bagi Borobudur mirip dengan **Script** dalam pembuatan film atau **Detailed Engineering Design (DED)** dalam proyek konstruksi.
+Dalam dunia modern, peran Mahakarmawibhangga bagi Borobudur mirip dengan **skenario** dalam pembuatan film atau **Detailed Engineering Design (DED)** dalam proyek konstruksi.
 
 - **Film**: Seorang sutradara tidak bisa membuat film tanpa skenario. Skenario memberikan instruksi dialog dan emosi, sama seperti naskah memberikan instruksi narasi moral bagi pemahat.
-- **Arsitektur**: Sebelum membangun gedung, ada dokumen spesifikasi teknis. Mahakarmawibhangga adalah "spesifikasi teknis moral" agar pesan yang disampaikan oleh 160 pemahat berbeda tetap konsisten dan tidak melenceng dari ajaran agama.
+- **Arsitektur**: Sebelum membangun gedung, ada dokumen spesifikasi teknis. Mahakarmawibhangga adalah "spesifikasi teknis moral" agar pesan yang disampaikan oleh banyak pemahat berbeda tetap konsisten dan tidak melenceng dari ajaran agama.
 
-> **Pesan Inti:** Naskah Mahakarmawibhangga membuktikan bahwa Borobudur bukan sekadar tumpukan batu yang indah, melainkan sebuah **literasi visual** yang terorganisir, di mana setiap pahatan memiliki dasar hukum tekstual yang kuat dan sistematis.
+> **Pesan Inti:** Naskah Mahakarmawibhangga membuktikan bahwa Borobudur bukan sekadar tumpukan batu yang indah, melainkan sebuah **literasi visual** yang terorganisir, dengan setiap pahatan memiliki dasar hukum tekstual yang kuat dan sistematis.

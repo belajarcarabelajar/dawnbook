@@ -1,6 +1,6 @@
 ## Referensi
 
-Daftar pustaka berikut memuat buku teks seminal, monograf ilmiah, dan artikel jurnal telaah sejawat (*peer-reviewed*). Sumber-sumber inilah yang menjadi landasan teoritis serta rujukan neurobiologis di dalam buku ini:
+Daftar pustaka berikut memuat buku teks seminal, monograf ilmiah, dan artikel jurnal telaah sejawat (*peer-reviewed*). Sumber-sumber inilah yang menjadi landasan teoretis serta rujukan neurobiologis di dalam buku ini:
 
 1. Angelaki, D. E., & Cullen, K. E. (2008). [Vestibular system: the many facets of a multimodal sense](https://doi.org/10.1146/annurev.neuro.31.060407.125555). *Annual Review of Neuroscience*, 31, 125–150. https://doi.org/10.1146/annurev.neuro.31.060407.125555
 

@@ -1,12 +1,12 @@
 ## Kesatuan Karakter dan Integritas
 
-Bayangkan sebuah orkestra simfoni. Kamu mungkin memiliki seorang pemain biola yang mahir, seorang peniup oboe yang jenius, dan seorang perkusionis yang andal. Namun, jika masing-masing dari mereka bermain sesuai kehendak hati tanpa mempedulikan satu sama lain, yang dihasilkan adalah kebisingan.
+Bayangkan sebuah orkestra simfoni. Kamu mungkin memiliki seorang pemain biola yang mahir, seorang peniup oboe yang jenius, dan seorang perkusionis yang andal. Namun, jika masing-masing dari mereka bermain sesuai kehendak hati tanpa memedulikan satu sama lain, yang dihasilkan adalah kebisingan.
 
 Begitu pula dengan karakter manusia dalam **Etika Kebajikan**. Kebajikan-kebajikan seperti keberanian, kejujuran, dan keadilan tidak bisa berdiri sendiri sebagai unit-unit yang terpisah. Mereka harus bekerja sama dalam sebuah harmoni yang utuh. Inilah yang kita sebut sebagai **Kesatuan Karakter** dan **Integritas**.
 
 ## 1. Kesatuan Kebajikan
 
-Dalam pandangan Aristotelian, keutamaan-keutamaan itu saling mengimplikasikan satu sama lain. Seseorang tidak bisa benar-benar memiliki satu kebajikan besar tanpa memiliki kebajikan lainnya. Konsep ini sering disebut sebagai *Unity of the Virtues* (Kesatuan Kebajikan).
+Dalam pandangan Aristotelian, kebajikan-kebajikan itu saling mengimplikasikan satu sama lain. Seseorang tidak bisa benar-benar memiliki satu kebajikan besar tanpa memiliki kebajikan lainnya. Konsep ini sering disebut sebagai *Unity of the Virtues* (Kesatuan Kebajikan).
 
 Mengapa demikian? Mari kita lihat sebuah skenario:
 
@@ -25,7 +25,7 @@ Dalam contoh di atas, "keberanian" tanpa "kebijaksanaan" merupakan sebuah cacat 
 
 Kata **Integritas** berasal dari bahasa Latin *integer*, yang berarti "utuh", "lengkap", atau "tidak terbagi". Dalam konteks karakter, integritas adalah kualitas yang memastikan bahwa seluruh aspek diri kita (pikiran, perkataan, dan tindakan) selaras dengan nilai-nilai moral yang kita anut.
 
-Integritas adalah kondisi di mana semua kebajikan kita terintegrasi secara kokoh.
+Integritas adalah kondisi ketika semua kebajikan kita terintegrasi secara kokoh.
 
 ### Struktur Bangunan
 
@@ -35,9 +35,9 @@ Pikirkan karaktermu sebagai sebuah gedung. Kebajikan (Keberanian, Keadilan, dan 
 
 Jika kita kembali ke analogi orkestra, maka **Phronesis** (Kebijaksanaan Praktis) adalah sang konduktor. Phronesis-lah yang menentukan kapan keberanian harus lebih dominan, atau kapan kelembutan hati harus mengambil peran utama.
 
-Seseorang yang memiliki integritas tinggi selalu melibatkan *Phronesis* untuk menjaga keseimbangan antar-kebajikan. Integritas memastikan tidak ada kebocoran moral di satu sisi saat kita mencoba menjadi baik di sisi yang lain.
+Seseorang yang memiliki integritas tinggi selalu melibatkan *Phronesis* untuk menjaga keseimbangan antarkebajikan. Integritas memastikan tidak ada kebocoran moral di satu sisi saat kita mencoba menjadi baik di sisi yang lain.
 
-Karena itu, sebuah tindakan baru layak disebut berintegritas bila kebijaksanaan, keberanian, dan keadilan sama-sama terpenuhi dan saling menguatkan pada saat yang sama. Bila satu saja absen, tindakan itu menjadi tidak seimbang, dan karakter secara keseluruhan kehilangan integritasnya.
+Karena itu, sebuah tindakan baru layak disebut berintegritas bila kebijaksanaan, keberanian, dan keadilan sama-sama terpenuhi dan saling menguatkan pada saat yang sama. Bila satu saja absen, tindakan itu menjadi tidak seimbang.
 
 > "Seseorang yang memiliki integritas tidak memiliki 'wajah' yang berbeda-beda untuk situasi yang berbeda. Mereka adalah pribadi yang sama di ruang rapat, di meja makan keluarga, maupun saat sendirian."
 
@@ -45,7 +45,7 @@ Karena itu, sebuah tindakan baru layak disebut berintegritas bila kebijaksanaan,
 
 Di dunia profesional, kesatuan karakter adalah hal yang membedakan seorang ahli yang kompeten dengan seorang pemimpin yang berintegritas.
 
-Sebagai contoh di perusahaan, seorang manajer mungkin memiliki kebajikan "Efisiensi". Namun, jika ia tidak memiliki "Keadilan" terhadap bawahannya, integritasnya sebagai pemimpin hancur. Karyawan akan melihatnya sebagai orang yang ambisius namun tidak adil.
+Sebagai contoh di perusahaan, seorang manajer mungkin memiliki kecakapan "Efisiensi". Namun, jika ia tidak memiliki "Keadilan" terhadap bawahannya, integritasnya sebagai pemimpin hancur. Karyawan akan melihatnya sebagai orang yang ambisius namun tidak adil.
 
 Dalam kehidupan pribadi, seseorang yang jujur di tempat kerja tetapi tidak setia dalam hubungan personal menunjukkan kurangnya kesatuan karakter. Dalam Etika Kebajikan, orang tersebut belum benar-benar memiliki kebajikan "Kejujuran", karena kebajikan sejati harus meresap ke seluruh aspek kehidupan (bersifat *dispositional*).
 

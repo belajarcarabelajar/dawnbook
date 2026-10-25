@@ -4,7 +4,7 @@ Pernahkah kamu merasa seolah-olah sedang berlari di atas treadmill yang kecepata
 
 ### 1. Memisahkan "Penting" dari "Mendesak"
 
-Sering kali, stres muncul bukan terjadi karena kita memiliki terlalu banyak hal untuk dikerjakan, tetapi karena kita mencoba menyelesaikan semuanya sekaligus tanpa urutan yang jelas.
+Sering kali, stres muncul bukan karena kita memiliki terlalu banyak hal untuk dikerjakan, tetapi karena kita mencoba menyelesaikan semuanya sekaligus tanpa urutan yang jelas.
 
 #### Toples Kehidupan
 
@@ -32,16 +32,16 @@ Banyak orang sulit mendelegasikan tugas karena merasa "kalau bukan saya yang ker
 2. **Pilih Orang yang Tepat:** Sesuaikan tugas dengan keahlian mereka.
 3. **Berikan Instruksi Jelas:** Jelaskan hasil akhir yang diinginkan, bukan hanya metodenya.
 4. **Berikan Otoritas:** Jangan hanya memberi tugas, beri mereka wewenang untuk mengambil keputusan kecil.
-5. **Monitor, Jangan Mikro-manajemen:** Periksa progres secara berkala tanpa "napas di pundak" mereka.
+5. **Monitor, Jangan Mikromanajemen:** Periksa progres secara berkala tanpa "napas di pundak" mereka.
 
 ### 3. Berkata "Tidak"
 
 Berkata "tidak" sering kali terasa tidak sopan atau egois. Namun, secara psikologis, setiap kali kamu berkata "ya" pada permintaan orang lain yang tidak sesuai prioritas kamu, kamu sebenarnya sedang berkata "tidak" pada diri sendiri, keluarga, atau waktu istirahat kamu.
 
-**Rumus Berkata "Tidak" yang Sopan namun Tegas:**
+**Rumus Berkata "Tidak" yang Sopan tetapi Tegas:**
 
 - **Afirmasi + Penolakan + Alternatif (Opsional)**
-- *Contoh:* "Terima kasih sudah memikirkan saya untuk proyek ini (Afirmasi), namun saat ini kapasitas saya sudah penuh hingga akhir bulan (Penolakan). Mungkin saya bisa membantu di kuartal depan? (Alternatif)."
+- *Contoh:* "Terima kasih sudah memikirkan saya untuk proyek ini (Afirmasi), tetapi saat ini kapasitas saya sudah penuh hingga akhir bulan (Penolakan). Mungkin saya bisa membantu di kuartal depan? (Alternatif)."
 
 ### 4. Penetapan Batasan (*Boundaries*)
 
@@ -50,7 +50,7 @@ Batasan atau *boundaries* adalah garis imajiner yang kita buat untuk melindungi 
 #### Jenis-jenis Batasan
 
 - **Batasan Waktu:** Menentukan kapan kamu bekerja dan kapan kamu beristirahat. Contoh: "Saya tidak mengecek email setelah jam 7 malam."
-- **Batasan Emosional:** Membedakan antara masalah orang lain dan emosi kamu sendiri. Kamu bisa empati tanpa harus ikut "tenggelam" dalam drama orang lain.
+- **Batasan Emosional:** Membedakan antara masalah orang lain dan emosi kamu sendiri. Kamu bisa berempati tanpa harus ikut "tenggelam" dalam drama orang lain.
 - **Batasan Fisik:** Menyangkut ruang pribadi dan kenyamanan sentuhan fisik.
 
 **Penting:** Batasan bukanlah tembok untuk mengisolasi diri, melainkan **gerbang** yang memungkinkan hal-hal baik masuk dan menahan hal-hal buruk tetap di luar.
@@ -71,9 +71,9 @@ Keluarga atau teman sering meminta bantuan mendadak di waktu kamu seharusnya ber
 
 ### 6. Latihan Mandiri (Kinestetik & Reflektif)
 
-Mari kita praktikkkan manajemen waktu dengan pendekatan matematis sederhana untuk melihat beban stres kamu:
+Mari kita praktikkan manajemen waktu dengan pendekatan matematis sederhana untuk melihat beban stres kamu:
 
-Biarkan $T$ adalah total waktu yang tersedia (24 jam). Biarkan $W_w$ adalah waktu wajib (tidur, makan, transportasi). Biarkan $W_k$ adalah waktu kerja/tugas. Biarkan $W_i$ adalah waktu istirahat/hobi.
+Misalkan $T$ adalah total waktu yang tersedia (24 jam). Misalkan $W_w$ adalah waktu wajib (tidur, makan, transportasi). Misalkan $W_k$ adalah waktu kerja/tugas. Misalkan $W_i$ adalah waktu istirahat/hobi.
 
 $$
 T - (W_w + W_k) \geq W_i
@@ -86,6 +86,6 @@ Jika hasilnya negatif, berarti kamu sedang mengalami **defisit waktu** yang akan
 1. Ambil selembar kertas.
 2. Tuliskan 3 hal yang akan kamu katakan **TIDAK** mulai minggu ini.
 3. Tuliskan 1 tugas yang bisa kamu **DELEGASIKAN** kepada rekan kerja atau anggota keluarga.
-4. Tentukan 1 "Jam Terlarang" di mana kamu sama sekali tidak menyentuh gawai (Contoh: Jam 21.00 - 06.00).
+4. Tentukan 1 "Jam Terlarang" saat kamu sama sekali tidak menyentuh gawai (Contoh: Jam 21.00 - 06.00).
 
 > Jika kamu terus memberikan 100% energi kamu untuk orang lain tanpa sisa, apa yang akan terjadi ketika kamu sendiri membutuhkan energi tersebut untuk menghadapi krisis pribadi? Keseimbangan bukanlah hasil akhir, melainkan proses harian dalam memilih apa yang layak mendapatkan perhatian kamu.

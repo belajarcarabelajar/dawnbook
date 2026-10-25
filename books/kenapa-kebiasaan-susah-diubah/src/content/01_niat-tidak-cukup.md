@@ -10,13 +10,13 @@ Kalau kamu sering berada di lingkaran seperti itu, buku ini ditulis untuk menjaw
 
 Kegagalan berulang seperti di atas sering dicatat sebagai soal karakter: kurang disiplin, kurang kuat, terlalu banyak alasan. Padahal kalau bukti riset diletakkan di atas meja, ceritanya jauh lebih teknis sekaligus jauh lebih memaafkan. Niat dan kebiasaan adalah dua sistem yang berjalan di jalur berbeda. Niat butuh perhatian, pertimbangan, dan tenaga. Kebiasaan tidak menyentuh ketiganya.
 
-Psikolog Wendy Wood bersama David Rünger (2016) merangkum temuan psikologi kebiasaan dalam gambaran yang sederhana: kebiasaan adalah **respons otomatis yang dipicu konteks**, terbentuk dari pengulangan yang dulu memberi imbalan. Kata kuncinya **konteks**. Kasurmu, ponsel di tangan, jam menunjuk segini, cahaya kamar redup: situasi ini sudah ratusan kali diikuti sensasi menyenangkan dari layar. Begitu situasi serupa muncul lagi, tubuhmu tahu persis apa yang biasanya terjadi selanjutnya, dan ia menjalankannya sebelum niat malam tadi sempat bicara.
+Psikolog Wendy Wood bersama David Rünger (2016) merangkum temuan psikologi kebiasaan dalam gambaran yang sederhana: kebiasaan adalah **respons otomatis yang dipicu konteks**, terbentuk dari pengulangan yang dulu memberi imbalan. Kata kuncinya **konteks**. Kasurmu, ponsel di tangan, jam menunjuk segini, cahaya kamar redup: situasi ini sudah ratusan kali diikuti sensasi menyenangkan dari layar. Begitu situasi serupa muncul lagi, tubuhmu tahu persis apa yang biasanya terjadi selanjutnya, dan ia menjalankannya sebelum niat sore tadi sempat bicara.
 
 > Ibaratnya kamu jalan pulang dari tempat yang biasa. Kakimu bergerak, badan berbelok di pertigaan yang biasa, dan tiba-tiba kamu sudah berdiri di depan pintu, sementara kepalamu sepanjang jalan sibuk memikirkan makan malam atau tagihan. Kakimu tidak menunggu keputusanmu. Rutenya sudah tercetak dalam dirimu.
 
-Karena itu pula niat selalu kalah waktu. Pada momen pemicu tiba, niatmu sedang lelah, sedang sibuk, atau sedang tidak ada sama sekali, sedangkan kebiasaan selalu hadir tepat waktu tanpa perlu diminta.
+Karena itu pula niat selalu kalah waktu. Saat momen pemicu tiba, niatmu sedang lelah, sedang sibuk, atau sedang tidak ada sama sekali, sedangkan kebiasaan selalu hadir tepat waktu tanpa perlu diminta.
 
-### Separuh hari hidupmu berjalan sendiri
+### Hampir separuh hari hidupmu berjalan sendiri
 
 Mungkin kamu menyangka masalah ini hanya menyangkut begadang, camilan tengah malam, atau membuka media sosial tanpa sadar. Skalanya jauh lebih besar.
 
@@ -28,11 +28,11 @@ Kalau porsi sebesar itu berjalan autopilot, konsekuensinya jelas. Kualitas hidup
 
 Refleks pertama kebanyakan orang adalah menganggap kebiasaan buruk sebagai musuh yang harus dimusnahkan. Berhenti total, tanpa ampun, mulai hari ini. Sikap itu terasa heroik, tapi ia bertumpu pada asumsi yang keliru: bahwa mesin otomatis di dalam diri bisa dihapus dengan satu keputusan.
 
-Riset yang dirangkum Wood dan Rünger (2016) menunjukkan sebaliknya. Asosiasi antara konteks dan respons yang sudah tertanam tidak lenyap begitu kita berjanji. Yang bisa dilakukan justru lebih cerdas: mengelola konteks agar pemicu jarang muncul, mengatur imbalan, dan menyusun rencana sebelum momentum datang. Bukan melawan mesin dengan tenaga, tapi mengambil alih kemudi lewat desain.
+Riset yang dirangkum Wood dan Rünger (2016) menunjukkan sebaliknya. Asosiasi antara konteks dan respons yang sudah tertanam tidak lenyap begitu kita berjanji. Yang bisa dilakukan justru lebih cerdas: mengelola konteks agar pemicu jarang muncul, mengatur imbalan, dan menyusun rencana sebelum momen pemicu datang. Bukan melawan mesin dengan tenaga, tapi mengambil alih kemudi lewat desain.
 
 Perbedaan dua sikap ini akan menentukan hasil hampir semua usaha perubahanmu. Orang yang berharap niat mengalahkan mesin akan berulang kali kecewa, bukan karena dia lemah, tapi karena dia membawa alat yang salah ke pekerjaan yang salah. Orang yang memahami cara mesin bekerja mendapat keuntungan ganda: kebiasaan buruk bisa dikelola sampai kehilangan cengkeramannya, dan kebiasaan baik bisa dipasang agar bekerja untukmu, bukan melawanmu.
 
-Buku ini menempuh perjalanan itu langkah demi langkah. Kita mulai dengan membongkar anatomi mesin, sebuah siklus sederhana yang menghubungkan pemicu, rutinitas, dan imbalan. Dari sana kita melirik ke dalam otak untuk melihat di mana mesin itu benar-benar beroperasi, menguji kenapa niat sekuat apa pun kerap gugur di tengah jalan, dan mencari tahu berapa lama sesungguhnya kebiasaan baru butuh waktu untuk menempel. Paruh berikutnya lebih praktis: memilih momen perubahan yang paling menguntungkan, menyusun rencana berbentuk jika-maka, mengganti rutinitas tanpa membongkar seluruh mesin, sampai membongkar mitos populer yang selama ini hanya membuat usahamu gagal sebelum mulai. Sepanjang buku ini, satu gagasan menjadi benang merah: kamu tidak perlu menjadi orang yang jauh lebih kuat, kamu hanya perlu menjadi arsitek yang paham mesinnya.
+Buku ini menempuh perjalanan itu langkah demi langkah. Kita mulai dengan membongkar anatomi mesin, sebuah siklus sederhana yang menghubungkan pemicu, rutinitas, dan imbalan. Dari sana kita melirik ke dalam otak untuk melihat di mana mesin itu benar-benar beroperasi, menguji kenapa niat sekuat apa pun kerap gugur di tengah jalan, dan mencari tahu berapa lama sesungguhnya waktu yang dibutuhkan kebiasaan baru untuk menempel. Paruh berikutnya lebih praktis: memilih momen perubahan yang paling menguntungkan, menyusun rencana berbentuk jika-maka, mengganti rutinitas tanpa membongkar seluruh mesin, sampai membongkar mitos populer yang selama ini hanya membuat usahamu gagal sebelum mulai. Sepanjang buku ini, satu gagasan menjadi benang merah: kamu tidak perlu menjadi orang yang jauh lebih kuat, kamu hanya perlu menjadi arsitek yang paham mesinnya.
 
 ## Poin Kunci
 

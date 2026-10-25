@@ -2,7 +2,7 @@
 
 Bayangkan kamu duduk di sebuah ruangan kecil. Di depan kamu, ada sebuah piring berisi satu butir marshmallow yang manis dan empuk. Seorang peneliti masuk dan memberi tahu kamu: "Saya harus keluar sebentar. Jika marshmallow ini masih ada di piring saat saya kembali, saya akan memberimu satu lagi. Jadi, kamu akan punya dua."
 
-Inilah inti dari **Delayed Gratification**: kemampuan untuk menolak godaan kesenangan instan demi mendapatkan imbalan yang jauh lebih besar di masa depan. Dalam modul ini, kita akan mempelajari bagaimana melatih "otot" otak kita untuk menahan impulsivitas.
+Inilah inti dari **Delayed Gratification**: kemampuan untuk menolak godaan kesenangan instan demi mendapatkan imbalan yang jauh lebih besar di masa depan. Di bagian ini, kita akan mempelajari bagaimana melatih "otot" otak kita untuk menahan impulsivitas.
 
 ## PFC vs. Sistem Limbik
 
@@ -19,7 +19,7 @@ Bayangkan PFC sebagai seorang **Penunggang** kecil yang duduk di atas seekor **G
 
 ## Temporal Discounting
 
-Mengapa otak kita cenderung memilih hal yang buruk bagi kita dalam jangka panjang? Fenomena ini disebut **Temporal Discounting** (Penyusutan Nilai Seiring Waktu). Otak secara otomatis menurunkan nilai sebuah imbalan jika imbalan tersebut datangnya lama.
+Mengapa otak kita cenderung memilih hal yang buruk bagi kita dalam jangka panjang? Fenomena ini disebut **Temporal Discounting** (Penyusutan Nilai Seiring Waktu). Otak secara otomatis menurunkan nilai sebuah imbalan jika imbalan tersebut baru akan diterima lama kemudian.
 
 Secara matematis, nilai subjektif dari sebuah hadiah ($V$) dapat dirumuskan sebagai berikut:
 
@@ -27,7 +27,7 @@ $$
 V = \frac{A}{1 + kD}
 $$
 
-Dimana:
+Keterangan:
 
 - $V$: Nilai subjektif saat ini (seberapa besar kamu menginginkannya sekarang).
 - $A$: Jumlah hadiah sebenarnya (*Amount*).
@@ -44,13 +44,13 @@ Sama seperti otot, PFC bisa diperkuat melalui latihan yang konsisten. Berikut ad
 
 Jika kamu merasakan dorongan kuat untuk melakukan sesuatu yang impulsif (membeli barang tidak perlu, makan camilan tidak sehat, mengecek ponsel), katakan pada diri sendiri: *"Boleh, tapi tunggu 10 menit."*
 
-- **Mengapa ini berhasil?** Jeda ini memaksa PFC untuk "bangun" dan mengevaluasi situasi sebelum Sistem Limbik mengambil alih sepenuhnya. Seringkali, setelah 10 menit, intensitas keinginan tersebut akan menurun drastis.
+- **Mengapa ini berhasil?** Jeda ini memaksa PFC untuk "bangun" dan mengevaluasi situasi sebelum Sistem Limbik mengambil alih sepenuhnya. Sering kali, setelah 10 menit, intensitas keinginan tersebut akan menurun drastis.
 
 ### 2. Implementasi Niat (If-Then Planning)
 
 Buatlah skenario otomatis untuk menghadapi godaan.
 
-- *Format:* "Jika [Situasi Terjadi], Maka [Tindakan Saya]."
+- *Format:* "Jika [Situasi Terjadi], maka [Tindakan Saya]."
 - *Contoh:* "Jika saya merasa bosan saat belajar dan ingin membuka Instagram, maka saya akan berdiri dan minum segelas air putih terlebih dahulu."
 
 ### 3. Visualisasi "Diri Masa Depan" (Future-Self Bridging)
@@ -63,8 +63,8 @@ Penelitian menunjukkan bahwa orang yang merasa "terkoneksi" dengan diri mereka d
 
 Gunakan bahasa yang menunjukkan kendali, bukan keterbatasan.
 
-- Katakan: *"Saya tidak makan gorengan"* (Identitas, memperkuat PFC).
-- Jangan katakan: *"Saya tidak bisa makan gorengan"* (Larangan, memicu stres pada Sistem Limbik).
+- Katakan: *"Saya tidak makan gorengan"* (Identitas).
+- Jangan katakan: *"Saya tidak bisa makan gorengan"* (Larangan).
 
 ## Membangun Kesuksesan Jangka Panjang
 
@@ -72,9 +72,9 @@ Mari kita lihat bagaimana prinsip ini diterapkan dalam berbagai skenario kehidup
 
 | Skenario | Kesenangan Instan (Limbik) | Kepuasan Tertunda (PFC) | Hasil Jangka Panjang |
 | --- | --- | --- | --- |
-| **Keuangan** | Belanja barang mewah saat diskon. | Menabung & Investasi saham/reksadana. | Kebebasan finansial & ketenangan di hari tua. |
+| **Keuangan** | Belanja barang mewah saat diskon. | Menabung & investasi saham/reksadana. | Kebebasan finansial & ketenangan di hari tua. |
 | **Kesehatan** | Tidur larut malam menonton serial. | Tidur tepat waktu & bangun pagi untuk olahraga. | Energi tinggi, fokus tajam, dan umur panjang. |
-| **Karir/Studi** | Menunda tugas dengan *scrolling* TikTok. | Mengerjakan tugas tersulit di pagi hari. | Reputasi profesional & penguasaan *skill* baru. |
+| **Karier/Studi** | Menunda tugas dengan *scrolling* TikTok. | Mengerjakan tugas tersulit di pagi hari. | Reputasi profesional & penguasaan *skill* baru. |
 
 ## Hadiah Kecil di Tengah Jalan
 
@@ -82,7 +82,7 @@ Salah satu cara terbaik untuk bertahan dalam *delayed gratification* adalah deng
 
 *Apakah kamu pernah merasa sangat puas setelah menyelesaikan lari pagi yang melelahkan?*
 
-Itu adalah **Dopamin yang sehat**. Alih-alih mendapatkan dopamin dari konsumsi (menonton, makan), mulailah mencari dopamin dari **pencapaian kecil** (*milestones*).
+Sebagian rasa itu terkait dengan **dopamin yang sehat**. Alih-alih mendapatkan dopamin dari konsumsi (menonton, makan), mulailah mencari dopamin dari **pencapaian kecil** (*milestones*).
 
 > **Pesan Utama:** Disiplin bukanlah tentang menyiksa diri sendiri. Disiplin adalah tentang memberikan diri kamu di masa depan apa yang paling ia butuhkan, bukan apa yang kamu inginkan saat ini.
 

@@ -4,19 +4,19 @@ Apa sebenarnya yang menopang Ikigai, dan bagaimana kita bisa masuk lebih dalam k
 
 ## 1\. Apa yang Kamu Cintai
 
-Pilar pertama ini adalah tentang hal-hal yang membangkitkan gairah, kegembiraan, dan rasa puas dalam dirimu. Aktivitas yang kamu lakukan karena murni kesenangan, tanpa merasa terbebani, bahkan jika kamu tidak dibayar untuk itu.
+Pilar pertama ini adalah tentang hal-hal yang membangkitkan gairah, kegembiraan, dan rasa puas dalam dirimu. Ini adalah aktivitas yang kamu lakukan murni karena kesenangan, tanpa merasa terbebani, bahkan jika kamu tidak dibayar untuk itu.
 
-**Definisi:** 'Apa yang Kamu Cintai' merujuk pada minat, hobi, dan kegiatan yang memberikanmu energi, inspirasi, dan rasa bahagia yang tulus. Ini adalah area di mana kamu merasa paling hidup dan termotivasi.
+**Definisi:** 'Apa yang Kamu Cintai' merujuk pada minat, hobi, dan kegiatan yang memberikanmu energi, inspirasi, dan rasa bahagia yang tulus. Ini adalah area tempat kamu merasa paling hidup dan termotivasi.
 
 **Karakteristik:**
-Aktivitas yang kamu cintai biasanya memiliki beberapa tanda. Kamu melakukannya murni untuk kesenangan (ketidakmementingan diri), bukan karena kewajiban atau imbalan. Sering kali, kamu masuk ke dalam keadaan mengalir (*flow state*), kehilangan jejak waktu karena sepenuhnya tenggelam dalam prosesnya. Kegiatan ini menjadi sumber energi; setelah melakukannya, kamu merasa lebih segar dan bersemangat, bukan kelelahan. Gairah ini otentik, sesuatu yang akan terus kamu kerjakan meskipun tidak ada orang lain yang memperhatikan atau menghargainya.
+Aktivitas yang kamu cintai biasanya memiliki beberapa tanda. Kamu melakukannya murni untuk kesenangan (motivasi intrinsik), bukan karena kewajiban atau imbalan. Sering kali, kamu masuk ke dalam keadaan mengalir (*flow state*), kehilangan jejak waktu karena sepenuhnya tenggelam dalam prosesnya. Kegiatan ini menjadi sumber energi; setelah melakukannya, kamu merasa lebih segar dan bersemangat, bukan kelelahan. Gairah ini autentik, sesuatu yang akan terus kamu kerjakan meskipun tidak ada orang lain yang memperhatikan atau menghargainya.
 
 **Contoh:**
 Sebagai contoh, seseorang yang mencintai musik bisa menghabiskan berjam-jam bermain gitar, menulis lagu, atau mendengarkan berbagai genre tanpa merasa bosan. Musik adalah sumber kegembiraan dan ekspresi diri baginya. Bagi pecinta alam, ketenangan mungkin ditemukan saat mendaki gunung, berkebun, atau sekadar menghabiskan waktu di taman. Sementara itu, seorang penulis amatir mungkin senang menulis cerita pendek, puisi, atau jurnal pribadi, meskipun tulisannya tidak pernah diterbitkan atau dibaca orang lain. Proses menulis itu sendiri sudah menjadi kebahagiaan baginya.
 
 ## 2\. Apa yang Kamu Kuasai
 
-Pilar kedua berpusat pada bakat, keterampilan, dan kemampuan yang kamu miliki. Pilar ini menyoroti kompetensi dan penguasaanmu. Ini mencakup hal-hal yang dapat kamu kerjakan dengan baik, sekaligus membuatmu senang melakukannya dan selalu ingin meningkatkannya. Pilar ini beririsan dengan 'Apa yang Kamu Cintai' namun lebih menonjolkan aspek penguasaan keterampilan.
+Pilar kedua berpusat pada bakat, keterampilan, dan kemampuan yang kamu miliki. Pilar ini menyoroti kompetensi dan penguasaanmu. Ini mencakup hal-hal yang dapat kamu kerjakan dengan baik, sekaligus membuatmu senang melakukannya dan selalu ingin meningkatkannya. Pilar ini beririsan dengan 'Apa yang Kamu Cintai', tetapi lebih menonjolkan aspek penguasaan keterampilan.
 
 **Definisi:** 'Apa yang Kamu Kuasai' merupakan perpaduan antara bakat alami dan keahlian yang telah kamu kembangkan melalui pendidikan, pelatihan, pengalaman, maupun praktik langsung. Di sinilah kamu memiliki keunggulan yang diakui.
 

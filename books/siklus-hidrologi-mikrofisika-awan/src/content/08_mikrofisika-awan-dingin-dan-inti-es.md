@@ -4,7 +4,7 @@ Mikrofisika awan dingin (*cold clouds*) membahas kondisi atmosfer ketika air dap
 
 ### 1. Air Superdingin (Supercooled Water)
 
-Fakta mendasar dalam meteorologi fisik menunjukkan bahwa uap air murni tidak serta-merta membeku tepat pada suhu $0^\circ\text{C}$. Di atmosfer bebas, tetesan air murni dapat tetap berfase cair hingga suhu mendekati $-40^\circ\text{C}$. Kondisi cair metastabil ini dikenal sebagai **air superdingin** (*supercooled water*).
+Fakta mendasar dalam meteorologi fisik menunjukkan bahwa air murni tidak serta-merta membeku tepat pada suhu $0^\circ\text{C}$. Di atmosfer bebas, tetesan air murni dapat tetap berfase cair hingga suhu mendekati $-40^\circ\text{C}$. Kondisi cair metastabil ini dikenal sebagai **air superdingin** (*supercooled water*).
 
 Pembentukan kristal es memerlukan penyusunan molekul-molekul $\text{H}_2\text{O}$ ke dalam struktur kisi kristal heksagonal yang sangat teratur. Tanpa keberadaan pemicu awal atau templat kisi (*substrate template*), molekul air yang bergerak acak akibat energi termal mengalami hambatan kinetik untuk menyusun kisi kristal secara spontan hanya karena penurunan suhu.
 
@@ -66,13 +66,13 @@ $$
 
 ### 5. Simetri dan Geometri Kristal Es Heksagonal
 
-Molekul air ($\text{H}_2\text{O}$) membentuk ikatan hidrogen yang mencapai tingkat kestabilan termodinamika maksimum dalam struktur **kisi heksagonal** (simetri lipat enam). Karakteristik kristalografi ini menyebabkan kepingan salju dan kristal es alami selalu tumbuh berkembang dengan cabang berorientasi enam sisi.
+Molekul air ($\text{H}_2\text{O}$) membentuk ikatan hidrogen yang mencapai tingkat kestabilan termodinamika maksimum dalam struktur **kisi heksagonal** (simetri lipat enam). Karakteristik kristalografi ini menyebabkan kepingan salju dan kristal es alami biasanya tumbuh berkembang dengan cabang berorientasi enam sisi.
 
-> **Catatan Kristalografi:** Jika ditemukan penggambaran kepingan salju yang memiliki 5 atau 8 cabang pada ilustrasi dekoratif, hal tersebut merupakan ketidaksesuaian dengan prinsip fisika atmosfer. Fisika ikatan molekul air memastikan bahwa pertumbuhan kristal es di alam selalu mempertahankan simetri heksagonal.
+> **Catatan Kristalografi:** Jika ditemukan penggambaran kepingan salju yang memiliki 5 atau 8 cabang pada ilustrasi dekoratif, hal tersebut merupakan ketidaksesuaian dengan prinsip fisika atmosfer. Fisika ikatan molekul air menyebabkan pertumbuhan kristal es di alam pada umumnya mempertahankan simetri heksagonal.
 
 ### Penyemaian Inti Es Buatan
 
-Pemahaman mengenai dinamika $\text{IN}$ melandasi penerapan teknologi modifikasi cuaca berbasis penyemaian awan (*cloud seeding*). Ketika awan campuran mengandung air superdingin melimpah namun kekurangan $\text{IN}$ alami, agen penyemai buatan diintroduksikan ke dalam massa awan.
+Pemahaman mengenai dinamika $\text{IN}$ melandasi penerapan teknologi modifikasi cuaca berbasis penyemaian awan (*cloud seeding*). Ketika awan campuran mengandung air superdingin melimpah tetapi kekurangan $\text{IN}$ alami, agen penyemai buatan diintroduksikan ke dalam massa awan.
 
 - **Bahan Penyemai:** Perak Iodida ($\text{AgI}$).
 - **Prinsip Kerja $\text{AgI}$:** Struktur kristalografi $\text{AgI}$ memiliki konstanta kisi yang hampir identik dengan kristal es murni.
@@ -87,6 +87,6 @@ Pemahaman mengenai dinamika $\text{IN}$ melandasi penerapan teknologi modifikasi
 | **Lokasi Awan Utama** | Awan Cirrus elevasi tinggi | Awan fase campuran (*Mixed-phase*) |
 | **Kelimpahan Pemicu** | Tak terbatas (tergantung air) | Sangat terbatas / Langka di atmosfer |
 
-> **Pesan Penting:** Tanpa keberadaan partikel $\text{IN}$ yang langka di troposfer, awan di wilayah beriklim sedang dan dingin akan tetap berada dalam fase kabut air superdingin metastabil tanpa mampu menghasilkan presipitasi. Partikel inti es menjadi pemicu utama yang mengawali siklus pembentukan hujan es dan salju di bumi.
+> **Pesan Penting:** Tanpa keberadaan partikel $\text{IN}$ yang langka di troposfer, awan di wilayah beriklim sedang dan dingin cenderung tetap berada dalam fase air superdingin metastabil dan sulit menghasilkan presipitasi. Partikel inti es menjadi pemicu utama yang mengawali siklus pembentukan hujan es dan salju di Bumi.
 
-Pada pembahasan berikutnya, analisis difokuskan pada bagaimana kristal es yang baru terbentuk mampu menyerap uap air secara mendadak dari tetesan air superdingin di sekitarnya hingga tumbuh menjadi partikel presipitasi besar melalui **Proses Bergeron-Findeisen**.
+Pada pembahasan berikutnya, analisis difokuskan pada bagaimana kristal es yang baru terbentuk mampu menyerap uap air yang berasal dari penguapan tetesan air superdingin di sekitarnya hingga tumbuh menjadi partikel presipitasi besar melalui **Proses Bergeron-Findeisen**.

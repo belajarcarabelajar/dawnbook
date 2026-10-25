@@ -1,6 +1,6 @@
 ## Referensi
 
-Daftar pustaka di bawah ini mencakup berbagai literatur ilmiah, buku akademik, dan artikel jurnal *peer-reviewed* yang menjadi landasan teoritis buku ini. Referensi ini difokuskan pada bidang *developmental psychology*, khususnya mengenai fase *Emerging Adulthood*, dinamika *Quarter-Life Crisis*, *resilience*, dan *mental health* pada *young adults*.
+Daftar pustaka di bawah ini mencakup berbagai literatur ilmiah, buku akademik, dan artikel jurnal *peer-reviewed* yang menjadi landasan teoretis buku ini. Referensi ini difokuskan pada bidang *developmental psychology*, khususnya mengenai fase *Emerging Adulthood*, dinamika *Quarter-Life Crisis*, *resilience*, dan *mental health* pada *young adults*.
 
 ---
 

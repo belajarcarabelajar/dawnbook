@@ -32,7 +32,7 @@ Tidak ada determinisme biologis absolut, kodrat metafisik bawaan, atau takdir ek
 
 ### 2. Ontologi Sartre tentang *En-soi* versus *Pour-soi*
 
-Sartre membagi struktur ontologis realitas menjadi dua kategori fundamental kesadaran:
+Sartre membagi struktur ontologis realitas menjadi dua kategori fundamental keberadaan:
 
 - ***Être-en-soi* (Ada-dalam-diri):** Modus keberadaan objek material yang bersifat pejal, statis, dan identik dengan dirinya sendiri. Objek ini tidak memiliki kesadaran reflektif dan tidak mampu melampaui kondisi faktualnya.
 - ***Être-pour-soi* (Ada-untuk-diri):** Modus keberadaan kesadaran manusia yang bercirikan negasi, kebebasan, dan intensionalitas. Kesadaran manusia senantiasa berjarak dengan kondisi saat ini (*nihilation*) dan memiliki kapasitas untuk memproyeksikan diri ke masa depan.

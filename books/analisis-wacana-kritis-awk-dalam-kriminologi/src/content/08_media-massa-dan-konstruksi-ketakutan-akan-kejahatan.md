@@ -1,6 +1,6 @@
 ## Media Massa dan Konstruksi Ketakutan akan Kejahatan
 
-Pernahkah kamu takut berjalan sendirian di malam hari setelah menonton berita pembegalan, padahal secara statistik lingkungan sekitar termasuk aman? Itulah kekuatan media massa. Media tidak sekadar memberikan jendela untuk melihat dunia; ia sering kali menjadi arsitek yang membangun persepsi publik tentang apa yang "aman" dan siapa yang "berbahaya".
+Pernahkah kamu takut berjalan sendirian pada malam hari setelah menonton berita pembegalan, padahal secara statistik lingkungan sekitar termasuk aman? Itulah kekuatan media massa. Media tidak sekadar memberikan jendela untuk melihat dunia; ia sering kali menjadi arsitek yang membangun persepsi publik tentang apa yang "aman" dan siapa yang "berbahaya".
 
 Dalam bab ini, kita akan membedah bagaimana wacana media massa mengonstruksi ketakutan akan kejahatan (*fear of crime*) melalui lensa **Analisis Wacana Kritis (AWK)**. Kita akan melihat bagaimana pilihan kata, sudut pandang berita, dan pengulangan narasi dapat menciptakan kepanikan moral yang melampaui realitas objektif.
 
@@ -23,7 +23,7 @@ Media massa bekerja berdasarkan nilai berita (*news values*). Kejahatan yang ber
 
 ### 2. Mekanisme Kepanikan Moral (*Moral Panic*)
 
-Istilah **Kepanikan Moral** (*Moral Panic*) pertama kali dipopulerkan oleh sosiolog Stanley Cohen. Dalam konteks kriminologi, kepanikan moral adalah kondisi ketika sebuah kelompok atau aktivitas didefinisikan sebagai ancaman nyata terhadap nilai-nilai dasar dan keselamatan masyarakat.
+Istilah **Kepanikan Moral** (*Moral Panic*) dipopulerkan oleh sosiolog Stanley Cohen. Dalam konteks kriminologi, kepanikan moral adalah kondisi ketika sebuah kelompok atau aktivitas didefinisikan sebagai ancaman nyata terhadap nilai-nilai dasar dan keselamatan masyarakat.
 
 #### Tahapan Konstruksi Kepanikan Moral dalam Wacana
 
@@ -73,7 +73,7 @@ Analisis Wacana Kritis (AWK) membantu membongkar bagaimana bahasa digunakan untu
 | **Metafora Perang** | Istilah militeristik untuk melegitimasi tindakan represif aparat. | "Perang melawan narkoba", "operasi pembersihan jalanan". |
 | **Pilihan Kata (*Lexical Choice*)** | Pemilihan diksi berbias moral sebelum proses hukum membuktikan kesalahan. | "Segerombolan berandalan berkerumun" vs "sekelompok pemuda berkumpul". |
 
-> **Refleksi Kritis:** Ketika membaca berita tentang dua individu yang melakukan tindakan serupa, namun satu pihak disebut "oknum" sementara pihak lain diposisikan sebagai "penjahat kambuhan", persepsi publik terhadap kedua pelaku tersebut dibentuk secara sengaja oleh pilihan kata media.
+> **Refleksi Kritis:** Ketika dua individu melakukan tindakan serupa, tetapi media menyebut satu pihak "oknum" dan pihak lain "penjahat kambuhan", persepsi publik terhadap kedua pelaku tersebut dibentuk oleh pilihan kata media.
 
 ---
 
@@ -89,7 +89,7 @@ Mari terapkan kerangka AWK dalam analisis skenario pemberitaan tentang kasus "Be
 
 1. **Diksi "Darurat" & "Sadis"**: Menciptakan rasa urgensi tinggi dan ketakutan kolektif.
 2. **Ideologi Punitif**: Mendorong pendekatan penghukuman keras. Frasa *"Rakyat yang bertindak"* secara implisit melegitimasi aksi main hakim sendiri (*vigilantism*).
-3. **Stereotipisasi**: Kata *"Komplotan Bandit"* membangun citra organisasi kriminal yang terstruktur dan berbahaya, mengabaikan fakta bahwa pelaku mungkin individu yang terdesak faktor sosio-ekonomi.
+3. **Stereotipisasi**: Frasa *"Komplotan Bandit"* membangun citra organisasi kriminal yang terstruktur dan berbahaya, mengabaikan fakta bahwa pelaku mungkin individu yang terdesak faktor sosioekonomi.
 
 #### Kata Kunci Ancaman di Tajuk Berita Kriminal
 
@@ -111,7 +111,7 @@ Dalam contoh kecil ini, keenam kata kunci masing-masing muncul satu kali. Hitung
 Ketakutan yang dikonstruksi secara masif oleh media massa memiliki dampak konkret pada ranah kebijakan hukum dan dinamika sosial:
 
 - **Populisme Punitif (*Punitive Populism*)**: Pembuat kebijakan sering merespons ketakutan publik yang diciptakan media dengan mengesahkan regulasi yang lebih represif dan berfokus pada pembalasan (*retributive*), meskipun langkah tersebut tidak mereduksi kriminalitas secara substantif.
-- **Stigmatisasi Permanen**: Kelompok marjinal (seperti etnis minoritas atau masyarakat miskin kota) mengalami diskriminasi berulang karena penampilan visual mereka kerap diasosiasikan dengan "stereotip kriminal" di media massa.
+- **Stigmatisasi Permanen**: Kelompok marginal (seperti etnis minoritas atau masyarakat miskin kota) mengalami diskriminasi berulang karena penampilan visual mereka kerap diasosiasikan dengan "stereotip kriminal" di media massa.
 
 > **Pesan Utama:** Tugas Analisis Wacana Kritis bukan untuk meniadakan keberadaan kejahatan, melainkan untuk mempertanyakan *mengapa* kejahatan tertentu diberitakan dengan cara tertentu, dan *siapa* yang diuntungkan dari kepanikan moral yang muncul.
 
@@ -119,12 +119,10 @@ Ketakutan yang dikonstruksi secara masif oleh media massa memiliki dampak konkre
 
 ### 6. Melacak Jejak Teks lewat Linguistik Forensik
 
-Linguistik forensik merupakan cabang ilmu bahasa terapan yang memanfaatkan analisis linguistik untuk kepentingan investigasi kriminal dan pembuktian hukum. Seorang ahli linguistik forensik bekerja melacak **"sidik jari linguistik"** yang tertinggal dalam struktur kalimat, pilihan kata, hingga pola tanda baca.
-
 #### Pilar Utama Pembuktian Linguistik Forensik
 
 1. **Idiolek (Sidik Jari Bahasa)**: Setiap individu memiliki gaya bahasa unik (*idiolect*) yang dipengaruhi oleh latar belakang pendidikan, dialek geografis, usia, dan profesi.
-   - *Pilihan Leksikal*: Penggunaan kosakata spesifik (misalnya kata "komputer" versus "peranti").
+   - *Pilihan Leksikal*: Penggunaan kosakata spesifik (misalnya kata "perangkat" versus "peranti").
    - *Sintaksis*: Kecenderungan penggunaan struktur kalimat aktif versus pasif.
    - *Ortografi*: Kebiasaan penggunaan tanda baca, pemenggalan kata, atau tata cara penyingkatan kata.
 2. **Atribusi Kepenulisan (*Authorship Attribution*)**: Teknik menentukan identitas penulis asli pada dokumen anonim (seperti surat ancaman, pesan teror, atau dokumen surat palsu) dengan membandingkan teks bukti terhadap sampel pembanding.
@@ -132,12 +130,12 @@ Linguistik forensik merupakan cabang ilmu bahasa terapan yang memanfaatkan anali
 
 #### Analisis Skenario dan Refleksi Linguistik Forensik
 
-- **Tantangan Manipulasi Gaya Bahasa**: Ketika seseorang mencoba meniru gaya penulisan pihak lain dalam kejahatan siber, elemen bahasa yang paling sulit dipalsukan secara konsisten adalah kebiasaan bawah sadar, seperti pola penempatan koma, struktur klausa, dan frekuensi kata hubung.
+- **Tantangan Manipulasi Gaya Bahasa**: Ketika seseorang mencoba meniru gaya penulisan pihak lain dalam kejahatan siber, elemen bahasa yang cenderung sulit dipalsukan secara konsisten adalah kebiasaan bawah sadar, seperti pola penempatan koma, struktur klausa, dan frekuensi kata hubung.
 - **Dinamika Era Digital**: Pada era media sosial dan perpesanan instan yang didominasi teks pendek serta tanda visual, analisis jejak kebiasaan ketik (*typing habits*) dan konteks penggunaan simbol menjadi instrumen penting dalam analisis identifikasi.
 - **Diferensiasi Opini vs. Pencemaran Nama Baik**:
   - *Pernyataan A:* "Layanan di toko ini sangat lambat dan tidak profesional." $\rightarrow$ Merupakan penilaian subjektif atas pengalaman layanan (kritik).
   - *Pernyataan B:* "Pemilik toko ini adalah seorang penipu yang sengaja mencuri uang pelanggan." $\rightarrow$ Mengandung tuduhan faktual tanpa pembuktian hukum (pencemaran nama baik).
-- **Profil Kriminal Lewat Teks**: Penggunaan istilah teknis medis yang presisi tetapi dikombinasikan dengan tata bahasa yang tidak teratur dalam surat tebusan mengindikasikan tersangka yang memiliki latar belakang pendidikan atau profesi medis tertentu, namun mencoba menyamarkan identitasnya melalui manipulasi tata bahasa.
+- **Profil Kriminal Lewat Teks**: Penggunaan istilah teknis medis yang presisi tetapi dikombinasikan dengan tata bahasa yang tidak teratur dalam surat tebusan dapat mengindikasikan tersangka yang memiliki latar belakang pendidikan atau profesi medis tertentu, tetapi mencoba menyamarkan identitasnya melalui manipulasi tata bahasa.
 
 ---
 
@@ -145,5 +143,5 @@ Linguistik forensik merupakan cabang ilmu bahasa terapan yang memanfaatkan anali
 
 1. Pilihlah satu laporan berita kriminal pada portal berita *online* hari ini.
 2. Identifikasi kata sifat (*adjektiva*) yang digunakan untuk mendeskripsikan pelaku maupun tindakan kejahatan tersebut.
-3. Analisis apakah berita tersebut menyertakan latar belakang sosial-ekonomi kejahatan, atau hanya berfokus pada aspek kekerasan secara sensasional.
+3. Analisis apakah berita tersebut menyertakan latar belakang sosioekonomi kejahatan, atau hanya berfokus pada aspek kekerasan secara sensasional.
 4. *Renungkan:* Apakah setelah membaca berita tersebut, timbul persepsi bahwa lingkungan sekitar menjadi lebih tidak aman dari kenyataan aktual?

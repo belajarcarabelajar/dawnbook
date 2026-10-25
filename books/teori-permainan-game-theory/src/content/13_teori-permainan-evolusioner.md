@@ -1,6 +1,6 @@
 ## Teori Permainan Evolusioner
 
-Biologi molekuler, perilaku hewan, dan matematika strategis bertemu dalam satu cabang teori permainan. Jika sebelumnya kita membahas bagaimana manusia yang "rasional" mengambil keputusan, kali ini kita akan membuang asumsi "rasionalitas" tersebut.
+Biologi evolusioner, perilaku hewan, dan matematika strategis bertemu dalam satu cabang teori permainan. Jika sebelumnya kita membahas bagaimana manusia yang "rasional" mengambil keputusan, kali ini kita akan membuang asumsi "rasionalitas" tersebut.
 
 Dalam **Teori Permainan Evolusioner (Evolutionary Game Theory - EGT)**, kita tidak bertanya "Apa yang akan dipikirkan pemain?", melainkan "Strategi mana yang akan bertahan hidup dan mendominasi populasi?"
 
@@ -16,9 +16,9 @@ Di sini, konsep-konsep kunci berubah:
 
 > **Analogi Strategi sebagai Warisan:** Bayangkan sebuah strategi adalah sebuah "resep masakan" yang tertanam dalam DNA. Jika resep itu membuat kamu kenyang dan panjang umur, kamu akan memiliki banyak anak dan mewariskan resep tersebut kepada mereka. Seiring waktu, seluruh populasi akan memasak dengan resep yang sama.
 
-### 2. Evolutionary Stable Strategy (ESS) sebagai Konsep Utama
+### 2. Evolutionarily Stable Strategy (ESS) sebagai Konsep Utama
 
-Konsep utama dalam EGT dikembangkan oleh **John Maynard Smith** dan **George R. Price**, yang dikenal sebagai **Evolutionary Stable Strategy (ESS)**.
+Konsep utama dalam EGT dikembangkan oleh **John Maynard Smith** dan **George R. Price**, yang dikenal sebagai **Evolutionarily Stable Strategy (ESS)**.
 
 **Definisi:** Sebuah strategi dikatakan ESS jika, apabila strategi tersebut telah diadopsi oleh sebagian besar anggota populasi, tidak ada strategi "mutan" (alternatif) yang dapat masuk (menginvasi) populasi tersebut melalui seleksi alam.
 
@@ -48,7 +48,7 @@ Ada dua strategi:
 **Analisis Skenario:**
 
 - **Jika $V > C$:** Menjadi Elang selalu menguntungkan. Strategi Elang adalah ESS.
-- **Jika $V < C$:** (Biaya cedera lebih besar dari nilai sumber daya). Menjadi Elang murni bukan lagi ESS, karena jika semua orang jadi Elang, semua orang terluka parah. Populasi akan mencapai keseimbangan di mana ada persentase tertentu Elang dan Merpati.
+- **Jika $V < C$:** (Biaya cedera lebih besar dari nilai sumber daya). Menjadi Elang murni bukan lagi ESS, karena jika semua orang jadi Elang, semua orang terluka parah. Populasi akan mencapai keseimbangan ketika ada persentase tertentu Elang dan Merpati.
 
 ### 4. Dinamika Replikator (Replicator Dynamics)
 
@@ -60,7 +60,7 @@ $$
 \dot{x}_i = x_i [f_i(x) - \phi(x)]
 $$
 
-Di mana:
+Keterangan:
 
 - $f_i(x)$ adalah kebugaran dari strategi $i$.
 - $\phi(x)$ adalah rata-rata kebugaran seluruh populasi.
@@ -71,15 +71,15 @@ Di mana:
 
 #### A. Rasio Jenis Kelamin (Sex Ratio)
 
-Mengapa di hampir semua spesies mamalia jumlah jantan dan betina mendekati 50:50? Ronald Fisher menggunakan logika EGT untuk menjelaskan bahwa jika salah satu jenis kelamin menjadi langka, individu yang menghasilkan jenis kelamin langka tersebut akan memiliki keuntungan evolusioner yang besar, hingga akhirnya rasio kembali seimbang.
+Mengapa di hampir semua spesies mamalia jumlah jantan dan betina mendekati 50:50? Ronald Fisher menggunakan logika yang sejalan dengan EGT untuk menjelaskan bahwa jika salah satu jenis kelamin menjadi langka, individu yang menghasilkan jenis kelamin langka tersebut akan memiliki keuntungan evolusioner yang besar, hingga akhirnya rasio kembali seimbang.
 
 #### B. Altruisme pada Hewan (Timbal Balik)
 
-Mengapa kelelawar vampir berbagi darah dengan temannya yang kelaparan? Secara individu, ini merugikan. Namun, dengan EGT, kita melihat bahwa strategi "Berbagi dengan yang pernah berbagi denganku" (Tit-for-Tat) adalah ESS yang mencegah kepunahan kelompok saat sumber daya sulit didapat.
+Mengapa kelelawar vampir berbagi darah dengan temannya yang kelaparan? Secara individu, ini merugikan. Namun, dengan EGT, kita melihat bahwa strategi "Berbagi dengan yang pernah berbagi denganku" (Tit-for-Tat) bisa bersifat stabil, sehingga perilaku berbagi dapat bertahan saat sumber daya sulit didapat.
 
 #### C. Resistensi Antibiotik
 
-Dalam medis, dokter menggunakan EGT untuk memahami bagaimana bakteri "bertarung" melawan antibiotik. Bakteri yang memiliki mutasi resistensi memiliki biaya energi lebih tinggi untuk bereproduksi. Jika penggunaan antibiotik dikurangi secara strategis, bakteri normal yang lebih cepat bereproduksi dapat "mengalahkan" bakteri resisten dalam kompetisi populasi.
+Dalam bidang medis, dokter menggunakan EGT untuk memahami bagaimana bakteri "bertarung" melawan antibiotik. Bakteri yang memiliki mutasi resistensi memiliki biaya energi lebih tinggi untuk bereproduksi. Jika penggunaan antibiotik dikurangi secara strategis, bakteri normal yang lebih cepat bereproduksi dapat "mengalahkan" bakteri resisten dalam kompetisi populasi.
 
 ### 6. Populasi Elang dan Merpati dari Generasi ke Generasi
 
@@ -128,8 +128,8 @@ Teori Permainan Evolusioner mengajarkan kita bahwa perilaku yang tampak "tidak l
 
 **Hal yang Perlu Diingat:**
 
-- **ESS** adalah kondisi di mana populasi kebal terhadap "serangan" strategi asing.
+- **ESS** adalah kondisi ketika populasi kebal terhadap "serangan" strategi asing.
 - **Kebugaran (Fitness)** adalah mata uang utama, bukan uang atau kepuasan pribadi.
-- **Konflik dan Kerjasama** adalah hasil dari interaksi berulang selama jutaan tahun yang tertanam dalam mekanisme biologis.
+- **Konflik dan Kerja Sama** adalah hasil dari interaksi berulang selama jutaan tahun yang tertanam dalam mekanisme biologis.
 
 *Latihan Refleksi: Dapatkah kamu memikirkan norma sosial manusia yang mungkin merupakan sebuah ESS? Misalnya, mengapa kita mengantre? Apakah mengantre adalah strategi yang lebih stabil daripada berebut jika semua orang melakukannya?*

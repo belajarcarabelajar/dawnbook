@@ -12,7 +12,7 @@ Sebelum memperbaiki sesuatu, kamu butuh peta. Mengidentifikasi kecerdasan domina
 
 ### 1\. Analisis "Kondisi Flow"
 
-Amati baik-baik saat-saat di mana kamu merasa kehilangan jejak waktu karena terlalu asyik dengan suatu aktivitas. Jika itu terjadi ketika berdebat atau merangkai kata, kamu mungkin sangat kuat di **Linguistik**. Namun, apabila momen tersebut muncul saat memecahkan teka-teki logika atau menyusun data mentah menjadi pola yang terbaca, besar kemungkinan kamu dominan di **Logis-Matematis**.
+Amati baik-baik saat-saat ketika kamu merasa kehilangan jejak waktu karena terlalu asyik dengan suatu aktivitas. Jika itu terjadi ketika berdebat atau merangkai kata, kamu mungkin sangat kuat di **Linguistik**. Namun, apabila momen tersebut muncul saat memecahkan teka-teki logika atau menyusun data mentah menjadi pola yang terbaca, besar kemungkinan kamu dominan di **Logis-Matematis**.
 
 ### 2\. Inventarisasi Jejak Masa Lalu
 
@@ -36,11 +36,11 @@ Kamu bisa melatih otot bahasa dengan rutinitas sederhana seperti menulis jurnal 
 
 - Mulailah bermain permainan yang menuntut strategi seperti catur atau menyelesaikan teka-teki Sudoku di waktu luang.
 - Biasakan melakukan perhitungan manual, misalnya menghitung perkiraan total belanjaan di kepala sebelum sampai di depan kasir.
-- Pahami matematika pertumbuhannya: Jika $I$ adalah Intensitas latihan dan $K$ adalah Konsistensi, maka Kemajuan ($P$) dapat dirumuskan sebagai: $P = I \times K^2$. Konsistensi jauh lebih berdampak ketimbang latihan ekstrem yang jarang dilakukan.
+- Sebagai ilustrasi sederhana: Jika $I$ adalah Intensitas latihan dan $K$ adalah Konsistensi, maka Kemajuan ($P$) dapat dirumuskan sebagai: $P = I \times K^2$. Konsistensi jauh lebih berdampak ketimbang latihan ekstrem yang jarang dilakukan.
 
 ### 3\. Kecerdasan Spasial-Visual (Gambar/Ruang)
 
-Salah satu cara terbaik melatih kecerdasan ini adalah dengan membiasakan pembuatan *Mind Map* untuk menggantikan catatan teks yang kaku. Selain itu, latih orientasi ruangmu dengan mencoba bepergian ke tempat baru tanpa bantuan GPS, cukup dengan memelajari peta fisik sebelum berangkat dan mengandalkan ingatan visual.
+Salah satu cara terbaik melatih kecerdasan ini adalah dengan membiasakan pembuatan *Mind Map* untuk menggantikan catatan teks yang kaku. Selain itu, latih orientasi ruangmu dengan mencoba bepergian ke tempat baru tanpa bantuan GPS, cukup dengan mempelajari peta fisik sebelum berangkat dan mengandalkan ingatan visual.
 
 ### 4\. Kecerdasan Kinestetik (Tubuh)
 
@@ -58,11 +58,11 @@ Tantang telingamu dengan mendengarkan genre musik yang benar-benar asing, lalu c
 
 ### 7\. Kecerdasan Intrapersonal (Diri Sendiri)
 
-Sisihkan waktu 10 menit setiap pagi untuk duduk diam, bermeditasi, atau sekadar melakukan refleksi internal. Saat menetapkan tujuan jangka pendek, lakukan evaluasi yang keras namun jujur mengenai alasan sesungguhnya mengapa kamu berhasil atau gagal mencapainya.
+Sisihkan waktu 10 menit setiap pagi untuk duduk diam, bermeditasi, atau sekadar melakukan refleksi internal. Saat menetapkan tujuan jangka pendek, lakukan evaluasi yang keras tetapi jujur mengenai alasan sesungguhnya mengapa kamu berhasil atau gagal mencapainya.
 
 ### 8\. Kecerdasan Naturalis (Alam)
 
-Bawa sepotong alam ke dalam keseharianmu dengan memelihara tanaman di area rumah lewat metode *urban farming*. Sesekali, luangkan waktu di taman kota untuk mengobservasi sekeliling, cobalah mengklasifikasikan jenis burung atau pohon yang kamu temui berdasarkan ciri-ciri fisiknya.
+Bawa sepotong alam ke dalam keseharianmu dengan memelihara tanaman di area rumah lewat metode *urban farming*. Sesekali, luangkan waktu di taman kota untuk mengobservasi sekeliling. Cobalah mengklasifikasikan jenis burung atau pohon yang kamu temui berdasarkan ciri-ciri fisiknya.
 
 ### 9\. Kecerdasan Eksistensial (Makna)
 
@@ -72,19 +72,19 @@ Bawa sepotong alam ke dalam keseharianmu dengan memelihara tanaman di area rumah
 
 ## Skenario Pengembangan Karier di Dunia Nyata
 
-Mari bayangkan seorang **Insinyur Perangkat Lunak** yang memiliki kecerdasan **Logis-Matematis** tinggi, namun selalu keteteran setiap kali harus memimpin rapat atau mengelola tim karena lemah di ranah **Interpersonal** dan **Linguistik**.
+Mari bayangkan seorang **Insinyur Perangkat Lunak** yang memiliki kecerdasan **Logis-Matematis** tinggi, tetapi selalu keteteran setiap kali harus memimpin rapat atau mengelola tim karena lemah di ranah **Interpersonal** dan **Linguistik**.
 
 Alih-alih menyerah pada kelemahan tersebut, ia bisa menerapkan strategi penyeimbang:
 
 1. **Menjembatani Pemahaman:** Ia menggunakan pola pikir logisnya untuk memahami struktur komunikasi. Alih-alih melihat manajemen konflik sebagai drama emosional yang memusingkan, ia memperlakukannya layaknya "algoritma" dengan input dan output yang bisa diprediksi dan diselesaikan.
 2. **Latihan Terukur:** Ia dengan sengaja menjadwalkan sesi satu-lawan-satu (1-on-1) mingguan murni sebagai arena berlatih mendengarkan aktif dan merangkai umpan balik yang jelas.
-3. **Visualisasi Pesan:** Untuk menutupi kecanggungan verbal, ia mengandalkan *flowchart* atau diagram arsitektur ketika harus menjelaskan arah proyek kepada tim, memastikan visi teknisnya tersampaikan tanpa bias.
+3. **Visualisasi Pesan:** Untuk menutupi kecanggungan verbal, ia mengandalkan *flowchart* atau diagram arsitektur ketika harus menjelaskan arah proyek kepada tim, memastikan visi teknisnya tersampaikan tanpa salah tafsir.
 
 Pendekatan taktis ini tidak hanya mempertahankannya sebagai pemrogram andal, tetapi juga mengubahnya perlahan menjadi pemimpin teknis yang dihormati karena kecerdasannya kini saling menopang.
 
 ## Menjadi Pribadi yang Polimatis
 
-Satu hal yang harus diingat: kamu sama sekali tidak dituntut untuk menjadi master di kesembilan kecerdasan tersebut. Cukup fokus pada dua arah utama.
+Satu hal yang harus diingat: kamu sama sekali tidak dituntut untuk menjadi master di semua kecerdasan tersebut. Cukup fokus pada dua arah utama.
 
 Pertama, asah terus kekuatan utamamu. Maksimalkan kecerdasan dominan yang kamu miliki agar menjadi keunggulan kompetitif. Kedua, tambal titik lemah yang menghambat. Kembangkan secukupnya kecerdasan yang selama ini menjadi batu sandungan utama dalam keseharian atau kariermu.
 

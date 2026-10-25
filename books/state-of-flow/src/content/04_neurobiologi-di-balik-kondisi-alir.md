@@ -9,7 +9,7 @@ Memahami neurobiologi flow bukan hanya soal memuaskan rasa ingin tahu ilmiah. De
 Banyak orang mengira bahwa saat berada dalam kondisi flow, otak kita bekerja lebih keras dan menyalakan lebih banyak area. Kenyataannya justru **sebaliknya**. Fenomena ini dikenal sebagai **Transient Hypofrontality**.
 
 - **Transient** berarti sementara.
-- **Hypo** berarti lambat atau berkurang.
+- **Hypo** berarti di bawah normal atau berkurang.
 - **Frontality** merujuk pada *Prefrontal Cortex* (PFC).
 
 PFC adalah "CEO" otak kita - bagian yang bertanggung jawab atas fungsi eksekutif, perencanaan kompleks, pemikiran logis, dan yang paling penting: **kesadaran diri (self-consciousness)**.
@@ -28,7 +28,7 @@ Saat kamu masuk ke dalam flow, otak melakukan efisiensi energi. Ia menonaktifkan
 
 ## 2\. Lima Neurotransmiter Utama
 
-Kondisi flow adalah satu-satunya saat di mana otak manusia melepaskan lima bahan kimia "pembangkit gairah" secara bersamaan. Steven Kotler, seorang pakar flow, menyebutnya sebagai **The Performance Cocktail**.
+Menurut Steven Kotler, seorang pakar flow, kondisi flow ditandai oleh pelepasan lima bahan kimia "pembangkit gairah" secara bersamaan. Ia menyebutnya sebagai **The Performance Cocktail**.
 
 | Neurotransmiter | Peran dalam Flow | Efek yang Dirasakan |
 | --- | --- | --- |
@@ -60,13 +60,13 @@ Mari kita lihat bagaimana mekanisme neurobiologis ini bekerja dalam skenario nya
 
 ### Programmer Menghadapi Bug Kompleks
 
-- **Mekanisme:** Saat dia mulai fokus, **Norepinefrin** membantunya memblokir gangguan suara sekitar. Begitu dia masuk lebih dalam, **Transient Hypofrontality** mematikan rasa lapar dan lelahnya.
-- **Hasil:** Dia menulis ribuan baris kode dengan presisi tinggi tanpa merasa terbebani secara mental.
+- **Mekanisme:** Saat dia mulai fokus, **Norepinefrin** membantunya memblokir gangguan suara sekitar. Begitu dia masuk lebih dalam, **Transient Hypofrontality** membuatnya kurang menyadari rasa lapar dan lelahnya.
+- **Hasil:** Dia menelusuri dan memperbaiki bug itu dengan presisi tinggi tanpa merasa terbebani secara mental.
 
 ### Atlet Basket di Menit Terakhir
 
-- **Mekanisme:** **Endorfin** menutupi rasa sakit di ototnya. **Anandamide** membantunya memprediksi gerakan lawan secara intuitif (pemikiran lateral).
-- **Hasil:** Dia melakukan gerakan yang belum pernah dia latih secara sadar, namun terasa sangat tepat pada saat itu.
+- **Mekanisme:** **Endorfin** menutupi rasa sakit di ototnya. **Anandamide** membantunya menemukan gerakan kreatif yang tidak terduga (pemikiran lateral).
+- **Hasil:** Dia melakukan gerakan yang belum pernah dia latih secara sadar, tetapi terasa sangat tepat pada saat itu.
 
 ## 5\. Proses Neurobiologis Flow
 
@@ -74,8 +74,8 @@ Mari kita lihat bagaimana mekanisme neurobiologis ini bekerja dalam skenario nya
 2. **Transisi:** Otak berpindah dari gelombang $\text{Beta}$ ke $\text{Alpha}$.
 3. **Puncak (Flow State):**
 	- **Transient Hypofrontality** aktif (PFC melambat).
-		- **Anandamide** & **Endorfin** membanjiri sistem.
-		- Gelombang otak berada di batas $\text{Alpha-Theta}$.
+	- **Anandamide** & **Endorfin** membanjiri sistem.
+	- Gelombang otak berada di batas $\text{Alpha-Theta}$.
 4. **Pemulihan:** **Serotonin** dilepaskan untuk menenangkan sistem saraf setelah aktivitas selesai.
 
 Urutan keempat tahap itu dapat kamu telusuri pada bagan berikut.

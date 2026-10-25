@@ -1,14 +1,14 @@
 ## Bias Retrospeksi (Hindsight Bias)
 
-Pernahkah kamu menonton pertandingan sepak bola di mana tim favorit kamu kalah, lalu teman kamu berkata seolah sudah tahu hasilnya? *"Sudah kuduga mereka bakal kalah, taktiknya saja sudah salah sejak awal."* Padahal, sebelum pertandingan dimulai, teman kamu tersebut sangat yakin timnya akan menang.
+Pernahkah kamu menonton pertandingan sepak bola ketika tim favorit kamu kalah, lalu teman kamu berkata seolah sudah tahu hasilnya? *"Sudah kuduga mereka bakal kalah, taktiknya saja sudah salah sejak awal."* Padahal, sebelum pertandingan dimulai, teman kamu tersebut sangat yakin tim itu akan menang.
 
 Inilah yang disebut dengan **Bias Retrospeksi** atau *Hindsight Bias*. Fenomena ini sering dijuluki sebagai efek **"I-knew-it-all-along"** (Saya-sudah-tahu-sejak-awal).
 
 ## Apa Itu Bias Retrospeksi?
 
-**Bias Retrospeksi** adalah kecenderungan kognitif di mana seseorang melihat suatu peristiwa yang telah terjadi sebagai sesuatu yang jauh lebih mudah diprediksi daripada kenyataan yang sebenarnya saat peristiwa itu belum terjadi.
+**Bias Retrospeksi** adalah kecenderungan kognitif ketika seseorang melihat suatu peristiwa yang telah terjadi sebagai sesuatu yang jauh lebih mudah diprediksi daripada kenyataan yang sebenarnya saat peristiwa itu belum terjadi.
 
-Begitu kita mengetahui hasil dari sebuah peristiwa, otak kita cenderung "menulis ulang" ingatan kita seolah-olah kita telah memperkirakan hasil tersebut dengan akurat. Hal ini menciptakan ilusi bahwa dunia ini lebih teratur dan dapat diprediksi daripada kenyataan yang sebenarnya yang penuh dengan ketidakpastian.
+Begitu kita mengetahui hasil dari sebuah peristiwa, otak kita cenderung "menulis ulang" ingatan kita seolah-olah kita telah memperkirakan hasil tersebut dengan akurat. Hal ini menciptakan ilusi bahwa dunia ini lebih teratur dan dapat diprediksi daripada kenyataan sebenarnya yang penuh dengan ketidakpastian.
 
 ### Otak Pencari Pola
 
@@ -30,7 +30,7 @@ Bayangkan kamu sedang mengendarai mobil di tengah kabut tebal (**Masa Depan**). 
 
 Setelah kamu melewati persimpangan dan kabut menipis, kamu melihat ke kaca spion (**Masa Lalu**). Dari spion, jalan yang baru saja kamu lalui terlihat sangat jelas dan lurus. Kamu kemudian berpikir, *"Kenapa tadi aku bingung ya? Padahal jalannya jelas sekali!"*
 
-Kamu lupa bahwa saat kamu berada di titik tersebut, pandangan kamu terhalang kabut. **Bias retrospeksi adalah kondisi di mana kita menilai keputusan kita di tengah kabut menggunakan kejernihan pandangan yang kita miliki setelah kabut itu hilang.**
+Kamu lupa bahwa saat kamu berada di titik tersebut, pandangan kamu terhalang kabut. **Bias retrospeksi adalah kondisi ketika kita menilai keputusan kita di tengah kabut menggunakan kejernihan pandangan yang kita miliki setelah kabut itu hilang.**
 
 ## Dampak dalam Pengambilan Keputusan
 
@@ -61,7 +61,7 @@ Dalam statistik, kita bisa melihat fenomena ini sebagai perubahan pada probabili
 - **Sebelum kejadian:** $P(A) = 0.5$ (kamu menganggap kemungkinannya 50:50).
 - **Setelah kejadian (Peristiwa A benar-benar terjadi):** Ingatan kamu secara retrospektif mengubah nilai tersebut menjadi $P(A) \approx 0.9$.
 
-Secara matematis, bias ini dapat dinyatakan sebagai kegagalan dalam mempertahankan distribusi probabilitas awal setelah data baru (hasil akhir) diterima.
+Secara matematis, bias ini dapat dinyatakan sebagai kegagalan mengingat probabilitas awal dengan benar setelah hasil akhir diketahui.
 
 ## Cara Memitigasi Bias Retrospeksi
 

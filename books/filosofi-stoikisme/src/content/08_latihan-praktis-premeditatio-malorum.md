@@ -1,16 +1,16 @@
 ## Latihan Praktis Premeditatio Malorum
 
-Bayangkan kamu sedang merencanakan liburan impian ke pantai. kamu sudah membayangkan sinar matahari yang hangat, suara ombak yang menenangkan, dan es kelapa muda di tangan. Namun, begitu kamu tiba di bandara, penerbangan dibatalkan, koper kamu hilang, dan hujan badai diprediksi akan berlangsung seminggu penuh.
+Bayangkan kamu sedang merencanakan liburan impian ke pantai. Kamu sudah membayangkan sinar matahari yang hangat, suara ombak yang menenangkan, dan es kelapa muda di tangan. Namun, begitu kamu tiba di bandara, penerbangan dibatalkan, koper kamu hilang, dan hujan badai diprediksi akan berlangsung seminggu penuh.
 
 Bagi kebanyakan orang, ini adalah resep untuk kemarahan dan frustrasi. Namun bagi seorang Stoik, skenario ini sudah "dimainkan" di dalam kepala mereka jauh sebelum mereka berangkat. Inilah inti dari **Premeditatio Malorum**.
 
 ## Apa itu Premeditatio Malorum?
 
-Secara etimologi, *Premeditatio Malorum* berasal dari bahasa Latin yang berarti **"pra-meditasi atas kemalangan"**. Ini adalah latihan mental di mana kita secara sengaja membayangkan rintangan, kesulitan, atau tragedi yang mungkin terjadi di masa depan.
+Secara etimologi, *Premeditatio Malorum* berasal dari bahasa Latin yang berarti **"pra-meditasi atas kemalangan"**. Ini adalah latihan mental ketika kita secara sengaja membayangkan rintangan, kesulitan, atau tragedi yang mungkin terjadi di masa depan.
 
-**Latihan Pemadam Kebakaran**
+**Latihan Evakuasi Kebakaran**
 
-> Mengapa gedung-gedung melakukan latihan evakuasi kebakaran padahal tidak ada api? Karena ketika api benar-benar muncul, kepanikan adalah musuh terbesar. Latihan memungkinkan tubuh dan pikiran bergerak secara otomatis dan tenang. *Premeditatio Malorum* adalah latihan pemadam kebakaran untuk jiwa kamu.
+> Mengapa gedung-gedung melakukan latihan evakuasi kebakaran padahal tidak ada api? Karena ketika api benar-benar muncul, kepanikan adalah musuh terbesar. Latihan memungkinkan tubuh dan pikiran bergerak secara otomatis dan tenang. *Premeditatio Malorum* adalah latihan evakuasi kebakaran untuk jiwa kamu.
 
 Latihan ini bukan tentang menjadi pesimis atau menyebarkan aura negatif. Sebaliknya, ini adalah alat untuk membangun **resiliensi psikologis** dan menghargai apa yang kita miliki saat ini sebelum hal itu hilang.
 
@@ -32,7 +32,7 @@ Sebagai manusia, kita sangat cepat terbiasa dengan hal-hal baik. Mobil baru, pro
 
 ## Panduan Langkah-Demi-Langkah Latihan
 
-kamu bisa melakukan latihan ini setiap pagi (sebagai persiapan hari) atau secara berkala untuk hal-hal besar dalam hidup.
+Kamu bisa melakukan latihan ini setiap pagi (sebagai persiapan hari) atau secara berkala untuk hal-hal besar dalam hidup.
 
 ### 1\. Pilih Skenario
 
@@ -88,7 +88,7 @@ Misalnya, koneksi internet kamu mati saat presentasi. Itu kejadian negatif, jadi
 
 ### A. Presentasi Bisnis
 
-**Latihan:** Bayangkan proyektor rusak, audiens tidak tertarik, atau kamu lupa poin utama. **Hasil:** kamu akan menyiapkan salinan cetak materi (solusi praktis) dan mental kamu tetap stabil jika seseorang melontarkan pertanyaan sulit.
+**Latihan:** Bayangkan proyektor rusak, audiens tidak tertarik, atau kamu lupa poin utama. **Hasil:** Kamu akan menyiapkan salinan cetak materi (solusi praktis) dan mental kamu tetap stabil jika seseorang melontarkan pertanyaan sulit.
 
 ### B. Hubungan Asmara
 
@@ -98,18 +98,18 @@ Misalnya, koneksi internet kamu mati saat presentasi. Itu kejadian negatif, jadi
 
 **Latihan:** Bayangkan antrean panjang, kursi yang tidak nyaman, dan tangisan bayi di sebelah kamu. **Hasil:** Saat itu benar-benar terjadi, kamu akan tersenyum dan berpikir, *"Ah, persis seperti yang saya bayangkan,"* dan ketenangan kamu tetap terjaga.
 
-## Visualisasi Negatif vs. Kecemasan (Anxiety)
+## Premeditatio Malorum vs. Kecemasan (Anxiety)
 
 Banyak orang salah paham dan menganggap latihan ini sama dengan rasa cemas. Mari kita bedakan:
 
 | Karakteristik | Kecemasan (Anxiety) | Premeditatio Malorum |
 | --- | --- | --- |
-| **Kontrol** | Pikiran liar yang mengendalikan kamu. | kamu yang mengendalikan pikiran secara sadar. |
+| **Kontrol** | Pikiran liar yang mengendalikan kamu. | Kamu yang mengendalikan pikiran secara sadar. |
 | **Tujuan** | Ketakutan yang melumpuhkan. | Persiapan yang memberdayakan. |
 | **Waktu** | Terus-menerus dan menguras energi. | Terjadwal, singkat, dan terarah. |
 | **Hasil Akhir** | Kepanikan dan keputusasaan. | Ketenangan dan rencana aksi. |
 
-## Refleksi Untuk kamu
+## Refleksi untuk Kamu
 
 *Pikirkan satu hal yang paling kamu takuti terjadi minggu ini. Cobalah duduk tenang selama 2 menit, bayangkan hal itu benar-benar terjadi, dan lihatlah bagaimana karakter terbaik kamu (sabar, berani, atau bijaksana) bisa merespons situasi tersebut.*
 

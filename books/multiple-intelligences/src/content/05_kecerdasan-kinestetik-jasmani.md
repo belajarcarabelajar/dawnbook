@@ -10,7 +10,7 @@ Kecerdasan Kinestetik-Jasmani adalah kemampuan menggunakan tubuh secara keseluru
 
 > **Inti dari kecerdasan ini terletak pada sinkronisasi pikiran dan tubuh.** Orang yang memilikinya sebetulnya sedang 'berpikir melalui tubuh', alih-alih cuma menggerakkan anggota badannya.
 
-Keterampilan fisik ini terbagi menjadi dua spektrum utama. Pertama, keterampilan motorik kasar (*gross motor skills*) yang mengandalkan otot-otot besar untuk aktivitas beban seperti berlari dan melompat. Di sisi lain, ada keterampilan motorik halus (*fine motor skills*) yang presisi, berpusat pada otot-otot kecil di tangan dan jari. Keterampilan halus inilah yang diandalkan saat menjahit, mengukir kayu, atau melakukan prosedur medis.
+Keterampilan fisik ini terbagi menjadi dua spektrum utama. Pertama, keterampilan motorik kasar (*gross motor skills*) yang mengandalkan otot-otot besar untuk aktivitas seperti berlari dan melompat. Di sisi lain, ada keterampilan motorik halus (*fine motor skills*) yang presisi, berpusat pada otot-otot kecil di tangan dan jari. Keterampilan halus inilah yang diandalkan saat menjahit, mengukir kayu, atau melakukan prosedur medis.
 
 ## Koordinasi Otak dan Otot
 
@@ -44,7 +44,7 @@ Atlet tersebut tentu tidak perlu mencoret-coret rumus di atas kertas saat bertan
 
 Penguasaan kecerdasan kinestetik sering kali menjadi penentu utama di berbagai profesi teknis, dan tidak melulu identik dengan olahraga. 
 
-Bagi dokter bedah saraf, kontrol *fine motor skills* mutlak diperlukan. Geseran instrumen bedah yang meleset satu milimeter saja bisa berakibat fatal, sehingga mereka sangat bergantung pada kepekaan taktil untuk menakar resistensi jaringan organ. Begitu juga dengan pengrajin arloji mekanik yang mengamankan komponen seukuran butiran pasir ke dalam mesin jam; koordinasi presisi tangan mereka adalah pusat dari keahlian teknis tersebut.
+Bagi dokter bedah saraf, kontrol *fine motor skills* mutlak diperlukan. Geseran instrumen bedah yang meleset satu milimeter saja bisa berakibat fatal, sehingga mereka sangat bergantung pada kepekaan taktil untuk menakar resistensi jaringan organ. Begitu juga dengan perajin arloji mekanik yang mengamankan komponen seukuran butiran pasir ke dalam mesin jam; koordinasi presisi tangan mereka adalah pusat dari keahlian teknis tersebut.
 
 Di ranah seni pertunjukan, aktor fisik dan pemain pantomim mengeksploitasi kontrol otot untuk mendefinisikan objek yang wujudnya sama sekali tidak ada di panggung. Sementara di sektor industri, teknisi mesin senior kerap mampu melacak sumber kerusakan komponen hanya dari merasakan pola getaran atau menyentuh poros mesin yang berputar tidak seimbang.
 
@@ -54,7 +54,7 @@ Meningkatkan kecerdasan fisik bisa dilakukan lewat latihan pembongkaran pola ger
 
 Mulai dari observasi sederhana, misalnya saat kamu memperhatikan cara tuangan susu seorang barista saat membuat pola *latte art*. Setelah itu, cobalah memvisualisasikan bagaimana otot-otot lengan dan pergelangan tangan kamu bergerak mengikuti lintasan tuangan tersebut. 
 
-Sebagai langkah awal, eksekusi gerakan imajiner itu dengan sangat lambat (sekitar 10% dari kecepatan normal) sambil memastikan transisi sendi terasa mulus. Kecepatan ini bisa dinaikkan sedikit demi sedikit seiring terbangunnya memori otot di tangan kamu.
+Sebagai langkah awal, eksekusi gerakan imajiner itu dengan sangat lambat (sekitar 10% dari kecepatan normal) sambil memastikan transisi sendi terasa mulus. Kecepatan ini bisa dinaikkan sedikit demi sedikit seiring terbangunnya ingatan otot di tangan kamu.
 
 Sering kali kita tidak sadar bahwa *muscle memory* ini sangat dominan dalam keseharian. Misalnya saat mengetik PIN ATM, banyak orang lebih mengingat pola pergerakan jemari di atas tombol *keypad* dibanding deretan angka kombinasinya itu sendiri.
 
@@ -87,6 +87,6 @@ Dengan angka ilustrasi yang sama, anggap lengan mulai dari posisi 0 dan sasarann
 
 Dalam contoh ini, gerakan berhenti ketika sisa jarak tidak lebih dari 0,01. Dengan aturan ini, batas itu baru terlewati pada langkah ke-66, saat sisa jaraknya tinggal sekitar 0,0096 dan lengan berada di posisi sekitar 9,99. Langkah awal besar, langkah akhir sangat kecil.
 
-Perlambatan bertahap ini bekerja persis seperti sistem saraf saat kamu mengulurkan tangan mengambil sebuah gelas. Menjelang jari bersentuhan dengan permukaan kaca, kecepatan tangan otomatis turun drastis demi menghindari benturan kasar. Efek perlambatan atau *damping* ini memastikan objek dikendalikan dengan akurat.
+Perlambatan bertahap ini bekerja mirip sistem saraf saat kamu mengulurkan tangan mengambil sebuah gelas. Menjelang jari bersentuhan dengan permukaan kaca, kecepatan tangan otomatis turun drastis demi menghindari benturan kasar. Efek perlambatan atau *damping* ini memastikan objek dikendalikan dengan akurat.
 
 Kecerdasan fisik pada akhirnya membuktikan bahwa tubuh bekerja menyatu dengan proses analisis ruang. Keterampilan motorik inilah yang mengubah rancangan teoretis menjadi benda nyata.

@@ -22,14 +22,14 @@ Bayangkan kamu terbiasa menyetir di sisi kiri jalan, lalu pindah ke negara yang 
 
 Pada titik ini, individu biasanya menunjukkan perubahan perilaku dan mental yang nyata:
 
-1. **Penerimaan Terhadap Paradoks:** Kamu mulai memahami bahwa budaya lokal memiliki logika tersendiri. Kamu mungkin tetap tidak setuju dengan nilai tertentu, tetapi kamu bisa menerimanya sebagai bagian dari realitas tanpa merasa marah.
+1. **Penerimaan terhadap Paradoks:** Kamu mulai memahami bahwa budaya lokal memiliki logika tersendiri. Kamu mungkin tetap tidak setuju dengan nilai tertentu, tetapi kamu bisa menerimanya sebagai bagian dari realitas tanpa merasa marah.
 2. **Kemampuan Navigasi Sosial:** Kamu mengerti nuansa bahasa (slang, sarkasme, atau eufemisme) dan norma tidak tertulis. Kamu tahu kapan harus tawar-menawar, kapan harus mengantre, dan bagaimana cara menyapa orang dengan tepat sesuai konteksnya.
 3. **Kembalinya Rasa Humor:** Salah satu indikator terkuat adaptasi adalah kemampuan untuk menertawakan diri sendiri atas kesalahan budaya yang pernah dibuat. Humor memerlukan pemahaman konteks yang dalam; jika kamu bisa bercanda dengan orang lokal, kamu telah beradaptasi.
 4. **Stabilitas Emosional:** Fluktuasi suasana hati yang ekstrem berkurang. Tingkat kecemasan menurun karena lingkungan baru bukan lagi sebuah "teka-teki" yang harus dipecahkan setiap hari.
 
 ## Efisiensi Energi dalam Adaptasi
 
-Secara psikologis, adaptasi dapat digambarkan dengan model efisiensi energi. Pada awal kedatangan, input energi mental yang kamu keluarkan sangat besar namun output fungsionalnya kecil. Di tahap ini, rumusnya berbalik:
+Secara psikologis, adaptasi dapat digambarkan dengan model efisiensi energi. Pada awal kedatangan, input energi mental yang kamu keluarkan sangat besar tetapi output fungsionalnya kecil. Di tahap ini, rumusnya berbalik:
 
 $$
 \text{E}_{\text{fisiensi}} = \frac{\text{Output (Fungsi Sosial)}}{\text{Input (Usaha Mental)}}
@@ -49,7 +49,7 @@ Maya adalah seorang profesional dari Indonesia yang pindah ke Berlin.
 
 ## Strategi Mempertahankan Fase Adaptasi
 
-Mencapai fase ini adalah prestasi besar, namun perawatan mental tetap diperlukan agar tidak merosot kembali saat menghadapi stresor baru:
+Mencapai fase ini adalah prestasi besar, tetapi perawatan mental tetap diperlukan agar tidak merosot kembali saat menghadapi stresor baru:
 
 - **Teruslah Menjadi Pelajar:** Budaya bersifat dinamis. Tetaplah terbuka terhadap perubahan-perubahan kecil di lingkungan sekitar.
 - **Jaga Jaringan Sosial Campuran:** Memiliki teman lokal membantu integrasi, sementara memiliki teman sesama ekspatriat memberikan ruang untuk berbagi perasaan yang hanya dipahami oleh orang asing.
@@ -63,12 +63,12 @@ Banyak orang takut bahwa beradaptasi berarti kehilangan jati diri. Penting untuk
 | Fitur | Adaptasi (Adjustment) | Asimilasi |
 | --- | --- | --- |
 | **Identitas** | Mempertahankan budaya asal sambil mahir di budaya baru. | Melepaskan budaya asal untuk sepenuhnya menjadi bagian dari budaya baru. |
-| **Fleksibilitas** | Mampu berpindah kode (code-switching) antar budaya. | Hanya menggunakan satu kode budaya. |
-| **Hasil** | Menjadi individu yang bicultural (dwibudaya). | Menjadi individu yang monostruktural. |
+| **Fleksibilitas** | Mampu berpindah kode (*code-switching*) antarbudaya. | Hanya menggunakan satu kode budaya. |
+| **Hasil** | Menjadi individu yang *bicultural* (dwibudaya). | Menjadi individu yang monokultural. |
 
 > **Penting:** Tahap Adaptasi dalam Gegar Budaya tidak menuntut kamu untuk "menjadi" orang lain, tetapi mendorong kamu menjadi versi diri yang lebih luas dan mampu berfungsi di berbagai spektrum budaya.
 
-## Apakah Kamu Sudah Di Sini?
+## Apakah Kamu Sudah di Sini?
 
 Coba jawab pertanyaan berikut untuk mengetahui posisi kamu:
 

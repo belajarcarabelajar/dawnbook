@@ -1,8 +1,8 @@
 ## Aerodinamika Kecepatan Tinggi dan Transonik
 
-Aerodinamika kecepatan tinggi dan transonik termasuk topik yang penting sekaligus menantang dalam rekayasa kedirgantaraan modern. Pada kecepatan rendah (subsonik tak mampumampat), udara mengalir di sekitar permukaan sayap dengan variasi kerapatan massa yang dapat diabaikan. Namun, ketika kecepatan terbang meningkat mendekati kecepatan suara, kompresibilitas udara menjadi dominan dan dinamika fluida berubah secara drastis.
+Aerodinamika kecepatan tinggi dan transonik termasuk topik yang penting sekaligus menantang dalam rekayasa kedirgantaraan modern. Pada kecepatan rendah (subsonik tak mampu mampat), udara mengalir di sekitar permukaan sayap dengan variasi kerapatan massa yang dapat diabaikan. Namun, ketika kecepatan terbang meningkat mendekati kecepatan suara, kompresibilitas udara menjadi dominan dan dinamika fluida berubah secara drastis.
 
-Perilaku fluida pada kecepatan tinggi dapat dianalogikan dengan interaksi mekanik pada media air. Ketika seseorang menggerakkan tangan perlahan di dalam kolam renang, partikel air dengan mudah berpindah dan mengalir mengitari tangan. Sebaliknya, jika tangan digerakkan secara mendadak dengan kecepatan sangat tinggi untuk memukul permukaan air, fluida memberikan resistansi balik yang sangat keras. Fenomena serupa dialami oleh wahana terbang saat mendekati ambang batas kecepatan suara, di mana gangguan tekanan merambat dengan kecepatan yang sebanding dengan kecepatan gerak pesawat itu sendiri.
+Perilaku fluida pada kecepatan tinggi dapat dianalogikan dengan interaksi mekanik pada media air. Ketika seseorang menggerakkan tangan perlahan di dalam kolam renang, partikel air dengan mudah berpindah dan mengalir mengitari tangan. Sebaliknya, jika tangan digerakkan secara mendadak dengan kecepatan sangat tinggi untuk memukul permukaan air, fluida memberikan resistansi balik yang sangat keras. Fenomena serupa dialami oleh wahana terbang saat mendekati ambang batas kecepatan suara, tempat gangguan tekanan merambat dengan kecepatan yang setara dengan kecepatan gerak pesawat itu sendiri.
 
 ### 1. Angka Mach dan Rezim Aliran
 
@@ -19,7 +19,7 @@ Rezim aliran udara secara umum diklasifikasikan ke dalam empat domain utama:
 - **Subsonik ($M < 0{,}75$):** Kecepatan aliran di seluruh medan di sekitar airfoil berada di bawah kecepatan suara lokal, sehingga efek kompresibilitas relatif kecil dan gangguan tekanan merambat ke segala arah mendahului pesawat.
 - **Transonik ($0{,}75 \le M \le 1{,}2$):** Medan aliran merupakan kombinasi kompleks antara zona subsonik dan zona supersonik lokal di atas permukaan sayap, disertai pembentukan gelombang kejut.
 - **Supersonik ($1{,}2 < M < 5{,}0$):** Seluruh medan aliran di sekitar badan pesawat melampaui kecepatan suara lokal ($M > 1$), menghasilkan sistem gelombang kejut haluan (*bow shock*) atau gelombang kejut miring (*oblique shock*).
-- **Hipersonik ($M > 5{,}0$):** Aliran berkecepatan ekstrem di mana efek termal berkecepatan tinggi, disosiasi molekuler udara, dan interaksi lapisan batas menjadi sangat dominan.
+- **Hipersonik ($M > 5{,}0$):** Aliran berkecepatan ekstrem tempat efek termal berkecepatan tinggi, disosiasi molekuler udara, dan interaksi lapisan batas menjadi sangat dominan.
 
 Rezim transonik memiliki kompleksitas aerodinamika tertinggi karena pesawat mengalami perubahan drastis pada distribusi gaya angkat (*lift*), pusat tekanan (*center of pressure*), dan gaya hambat (*drag*).
 
@@ -29,7 +29,7 @@ Ketika pesawat terbang pada kecepatan subsonik rendah, gelombang tekanan akustik
 
 #### Mekanisme Pembentukan Gelombang Kejut Lokal
 
-Meskipun badan pesawat terbang pada kecepatan jelajah subsonik bebas (misalnya $M_\infty = 0{,}80$), aliran udara yang melintasi kelengkungan permukaan atas (*extrados*) airfoil akan berakselerasi melebihi kecepatan aliran bebas. Kecepatan aliran bebas terendah di mana kecepatan lokal pada titik tertentu di permukaan sayap tepat mencapai $M = 1{,}0$ didefinisikan sebagai **Angka Mach Kritis** ($M_{\text{crit}}$).
+Meskipun badan pesawat terbang pada kecepatan jelajah subsonik bebas (misalnya $M_\infty = 0{,}80$), aliran udara yang melintasi kelengkungan permukaan atas (*extrados*) airfoil akan berakselerasi melebihi kecepatan aliran bebas. Kecepatan aliran bebas terendah yang membuat kecepatan lokal pada titik tertentu di permukaan sayap tepat mencapai $M = 1{,}0$ didefinisikan sebagai **Angka Mach Kritis** ($M_{\text{crit}}$).
 
 Setelah kecepatan jelajah melampaui $M_{\text{crit}}$, kantung supersonik lokal ($M > 1{,}0$) terbentuk di atas permukaan sayap. Aliran supersonik lokal ini pada akhirnya harus melambat kembali ke kecepatan subsonik saat mendekati tepi belakang (*trailing edge*). Transisi perlambatan mendadak dari rezim supersonik ke subsonik ini dimediasi oleh gelombang kejut normal (*normal shock wave*).
 
@@ -43,7 +43,7 @@ Setelah kecepatan jelajah melampaui $M_{\text{crit}}$, kantung supersonik lokal 
 
 Pada awal era pengembangan pesawat jet tempur dan komersial, peningkatan hambatan aerodinamika yang sangat tajam saat mendekati kecepatan suara sering diidentifikasikan secara populer sebagai "tembok suara". Dalam konteks aerodinamika kuantitatif, fenomena ini disebut **Drag Divergence**.
 
-**Angka Mach Divergensi Hambatan** ($M_{\text{dd}}$) adalah nilai angka Mach aliran bebas di mana koefisien gaya hambat total ($C_d$) mulai mengalami kenaikan eksponensial yang sangat curam (secara konvensional didefinisikan saat $\frac{dC_d}{dM} \ge 0{,}10$).
+**Angka Mach Divergensi Hambatan** ($M_{\text{dd}}$) adalah nilai angka Mach aliran bebas yang membuat koefisien gaya hambat total ($C_d$) mulai mengalami kenaikan eksponensial yang sangat curam (secara konvensional didefinisikan saat $\frac{dC_d}{dM} \ge 0{,}10$).
 
 Koefisien gaya hambat total pada rezim transonik dirumuskan sebagai:
 
@@ -51,7 +51,7 @@ $$
 C_d = C_{d,0} + C_{d,i} + \Delta C_{d,\text{wave}}
 $$
 
-Di mana:
+Dengan:
 - $C_{d,0}$ adalah koefisien hambat parasitik (gesekan permukaan dan bentuk).
 - $C_{d,i}$ adalah koefisien hambat terinduksi (*induced drag*).
 - $\Delta C_{d,\text{wave}}$ adalah koefisien **hambat gelombang** (*wave drag*), yaitu komponen hambatan tambahan yang dihasilkan oleh disipasi entropi melintasi gelombang kejut dan separasi aliran terinduksi kejut.
@@ -66,13 +66,13 @@ Untuk mempertahankan efisiensi aerodinamika pesawat jet komersial modern yang be
 
 Dibandingkan dengan profil airfoil konvensional (seperti seri NACA 6-digit), airfoil superkritis memiliki tiga ciri geometris yang sangat distingtif:
 
-1. **Permukaan Atas yang Relatif Datar (*Flattened Upper Surface*):** Mengurangi kelengkungan kurvatur di bagian atas untuk membatasi percepatan aliran udara berlebih, sehingga menunda pembentukan kantung supersonik lokal dan memperlemah intensitas gelombang kejut.
-2. **Radius Tepi Depan yang Lebih Besar (*Blunt Leading Edge*):** Menghasilkan distribusi gradien tekanan yang lebih seragam dan meminimalkan puncak hisap (*suction peak*) tajam di dekat tepi depan.
-3. **Kelengkungan Tajam di Tepi Belakang Bawah (*Cambered Aft Section*):** Menyediakan hisapan dan gaya angkat tambahan di bagian belakang (*rear loading*) untuk menggantikan gaya angkat yang berkurang akibat bagian atas yang didatarkan.
+1. **Permukaan Atas yang Relatif Datar (*Flattened Upper Surface*):** Mengurangi kelengkungan kurvatur di bagian atas untuk membatasi percepatan aliran udara berlebih, sehingga memperlemah intensitas gelombang kejut.
+2. **Radius Tepi Depan yang Lebih Besar (*Blunt Leading Edge*):** Menghasilkan distribusi gradien tekanan yang lebih seragam dan meminimalkan puncak isap (*suction peak*) tajam di dekat tepi depan.
+3. **Kelengkungan Tajam di Tepi Belakang Bawah (*Cambered Aft Section*):** Menyediakan isapan dan gaya angkat tambahan di bagian belakang (*rear loading*) untuk menggantikan gaya angkat yang berkurang akibat bagian atas yang didatarkan.
 
 #### Keunggulan Aerodinamika
 
-- **Peningkatan Nilai $M_{\text{crit}}$ dan $M_{\text{dd}}$:** Menunda kemunculan gelombang kejut ke angka Mach penerbangan yang lebih tinggi, memungkinkan pesawat terbang lebih cepat dengan konsumsi bahan bakar yang tetap ekonomis.
+- **Peningkatan Nilai $M_{\text{dd}}$:** Menunda kemunculan gelombang kejut ke angka Mach penerbangan yang lebih tinggi, memungkinkan pesawat terbang lebih cepat dengan konsumsi bahan bakar yang tetap ekonomis.
 - **Pelemahan Kekuatan Gelombang Kejut:** Mengubah gelombang kejut yang semula kuat dan tegak menjadi sistem gelombang yang jauh lebih lemah dengan lonjakan entropi minimal, mereduksi $\Delta C_{d,\text{wave}}$ secara signifikan.
 - **Kapasitas Ketebalan Sayap Lebih Besar:** Geometri superkritis memungkinkan penggunaan penampang sayap yang lebih tebal pada angka Mach yang sama. Ketebalan sayap tambahan ini memberikan ruang internal yang lebih besar untuk volume tangki bahan bakar serta memperkuat integritas struktural sayap dengan bobot yang lebih ringan.
 
@@ -80,7 +80,7 @@ Dibandingkan dengan profil airfoil konvensional (seperti seri NACA 6-digit), air
 
 Selain rekayasa profil airfoil superkritis, strategi aerodinamika terpenting untuk menghadapi rezim transonik adalah penerapan **sayap sapu** (*swept wing*), yaitu memiringkan bidang sayap ke arah belakang dengan sudut sapu $\Lambda$ (*sweep angle*).
 
-Prinsip fisika di balik sayap sapu didasarkan pada konsep bahwa respons aerodinamika airfoil 2D hanya ditentukan oleh komponen kecepatan aliran udara yang tegak lurus terhadap garis seperempat tali sayap (*quarter-chord line*). Komponen kecepatan yang sejajar dengan rentang sayap (*spanwise component*) diasumsikan tidak memengaruhi distribusi tekanan profil secara signifikan.
+Prinsip fisika di balik sayap sapu didasarkan pada konsep bahwa respons aerodinamika airfoil 2D hanya ditentukan oleh komponen kecepatan aliran udara yang tegak lurus terhadap garis seperempat kord (*quarter-chord line*). Komponen kecepatan yang sejajar dengan bentang sayap (*spanwise component*) diasumsikan tidak memengaruhi distribusi tekanan profil secara signifikan.
 
 Dengan memberikan sudut sapuan $\Lambda$, angka Mach efektif ($M_{\text{eff}}$) yang dirasakan langsung oleh profil sayap berkurang menjadi:
 
@@ -94,7 +94,7 @@ $$
 M_{\text{eff}} = 0{,}80 \cdot \cos(30^\circ) \approx 0{,}80 \cdot 0{,}8660 = 0{,}6928
 $$
 
-Meskipun pesawat secara keseluruhan melaju pada $M_\infty = 0{,}80$ (mendekati batas transonik), penampang sayap secara aerodinamis hanya merasakan aliran udara efektif sebesar $M_{\text{eff}} \approx 0{,}69$, yang berada sepenuhnya di dalam domain subsonik aman di bawah $M_{\text{crit}}$. Strategi ini menjadi fondasi rekayasa bagi hampir seluruh pesawat angkut jet komersial dan militer modern.
+Meskipun pesawat secara keseluruhan melaju pada $M_\infty = 0{,}80$ (sudah berada di dalam rezim transonik), penampang sayap secara aerodinamis hanya merasakan aliran udara efektif sebesar $M_{\text{eff}} \approx 0{,}69$, yang berada sepenuhnya di dalam domain subsonik aman di bawah $M_{\text{crit}}$. Strategi ini menjadi fondasi rekayasa bagi hampir seluruh pesawat angkut jet komersial dan militer modern.
 
 ### Ringkasan Konsep Kunci
 

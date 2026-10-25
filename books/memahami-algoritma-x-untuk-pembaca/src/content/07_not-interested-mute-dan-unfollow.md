@@ -67,7 +67,7 @@ Kalau X masih memakai mekanisme serupa, potongan skor itu menipis dari minggu ke
 
 ### Repositori Baru Menyaring Lebih Dulu
 
-Repositori xai-org/x-algorithm memakai urutan yang berbeda. Akun yang kamu block dan mute, serta kata kunci yang kamu bisukan, disaring sebelum tahap penilaian, sehingga post semacam itu tidak ikut dinilai. Di tahap penilaian, prediksi bahwa kamu akan menekan not interested, mute, block, atau report diberi bobot negatif. Angka bobotnya sudah dibahas di bab 6.
+Repositori xai-org/x-algorithm memakai urutan yang berbeda. Akun yang kamu block dan mute, serta kata kunci yang kamu bisukan, disaring sebelum tahap penilaian, sehingga post semacam itu tidak ikut dinilai. Di tahap penilaian, prediksi bahwa kamu akan menekan Not interested, mute, block, atau report diberi bobot negatif. Angka bobotnya sudah dibahas di bab 6.
 
 ### Batas Jangka Panjang dengan Satu Akun
 

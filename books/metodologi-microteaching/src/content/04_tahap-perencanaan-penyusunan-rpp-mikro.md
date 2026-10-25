@@ -2,15 +2,15 @@
 
 Perencanaan adalah tahap yang paling penting dalam siklus *microteaching*. Jika diibaratkan sebuah perjalanan, Rencana Pelaksanaan Pembelajaran (RPP) Mikro adalah **peta navigasi** kamu. Tanpa peta yang jelas, waktu 10-15 menit yang kamu miliki akan habis begitu saja tanpa mencapai tujuan pembelajaran yang diinginkan.
 
-Dalam modul ini, kita akan membedah cara menyusun RPP yang "ramping" namun tetap "berotot", artinya, ringkas secara administratif namun kuat secara substansi pedagogis.
+Dalam modul ini, kita akan membedah cara menyusun RPP yang "ramping" tetapi tetap "berotot", artinya, ringkas secara administratif tetapi kuat secara substansi pedagogis.
 
 ## 1. Filosofi "Less is More"
 
-Berbeda dengan RPP normal yang dirancang untuk satu jam pelajaran (45-90 menit), RPP Mikro dirancang untuk **cakupan yang kecil**. Kamu tidak sedang mencoba mengajarkan seluruh bab, melainkan satu fragmen kecil dari konsep atau satu keterampilan spesifik.
+Berbeda dengan RPP normal yang dirancang untuk satu pertemuan (45-90 menit), RPP Mikro dirancang untuk **cakupan yang kecil**. Kamu tidak sedang mencoba mengajarkan seluruh bab, melainkan satu fragmen kecil dari konsep atau satu keterampilan spesifik.
 
 > "Kualitas pengajaran mikro tidak ditentukan oleh seberapa banyak materi yang kamu sampaikan, melainkan seberapa efektif satu keterampilan dasar mengajar dipraktikkan dalam fragmen materi tersebut."
 
-**Analogi:** Bayangkan RPP biasa adalah sebuah **jamuan makan malam lengkap** (dari makanan pembuka hingga penutup). Sementara itu, RPP Mikro adalah sebuah **canapé atau camilan gourmet**, kecil, sekali makan, namun rasanya lengkap dan tersaji rapi.
+**Analogi:** Bayangkan RPP biasa adalah sebuah **jamuan makan malam lengkap** (dari makanan pembuka hingga penutup). Sementara itu, RPP Mikro adalah sebuah **canapé atau camilan gourmet**, kecil, sekali makan, tetapi rasanya lengkap dan tersaji rapi.
 
 ## 2. Komponen Esensial RPP Mikro
 
@@ -20,12 +20,12 @@ Meskipun ringkas, RPP Mikro harus memiliki struktur yang logis. Berikut adalah k
 
 Bagian ini menentukan parameter simulasi kamu.
 
-- **Mata Pelajaran & Topik:** Pilih satu sub-topik yang spesifik.
+- **Mata Pelajaran & Topik:** Pilih satu subtopik yang spesifik.
 - **Target Audiens:** Teman sejawat yang berperan sebagai siswa (misal: Siswa SMP Kelas VII).
 - **Alokasi Waktu:** Umumnya 10 - 15 menit.
 - **Fokus KDM (Keterampilan Dasar Mengajar):** Tentukan satu atau dua keterampilan yang ingin kamu asah (misal: Keterampilan Bertanya dan Memberi Penguatan).
 
-### B. Tujuan Pembelajaran (Smart & Micro)
+### B. Tujuan Pembelajaran (SMART & Mikro)
 
 Gunakan prinsip **SMART** (*Specific, Measurable, Achievable, Relevant, Time-bound*). Karena waktunya singkat, batasi hanya pada 1 atau 2 indikator pencapaian saja.
 
@@ -59,7 +59,7 @@ Jika total waktu adalah $\text{T}\_{\text{total}} = 15$ menit, maka pembagian id
 
 ## 4. Langkah-Langkah Menyusun RPP Mikro
 
-Mari kita ikuti prosedur langkah-demi-langkah ini untuk memastikan tidak ada yang terlewat:
+Mari kita ikuti prosedur langkah demi langkah ini untuk memastikan tidak ada yang terlewat:
 
 1. **Isolasi Konsep:** Pilih satu konsep terkecil dari materi. Jika materinya adalah "Ekosistem", jangan ajarkan seluruh ekosistem. Cukup ambil "Komponen Biotik dan Abiotik".
 2. **Pilih Media yang 'Instan':** Gunakan alat peraga yang tidak memerlukan waktu lama untuk disiapkan di depan kelas.
@@ -79,12 +79,12 @@ Mari kita ikuti prosedur langkah-demi-langkah ini untuk memastikan tidak ada yan
 | Waktu | Tahapan | Aktivitas Guru (KDM Terintegrasi) |
 | --- | --- | --- |
 | 0-2' | Pendahuluan | Menunjukkan segelas air dan telur. **(Variasi Stimulus)**. Bertanya: "Mengapa telur ini tenggelam?" |
-| 2-8' | Inti | Menjelaskan konsep gaya apung menggunakan rumus $F\_a = \rho \cdot g \cdot V\_{\text{bf}}$. Mendemonstrasikan penambahan garam ke air. **(Keterampilan Menjelaskan)**. |
-| 8-10' | Penutup | Meminta satu siswa menyimpulkan hubungan massa jenis zat cair dengan posisi benda. Memberikan apresiasi. |
+| 2-9' | Inti | Menjelaskan konsep gaya apung menggunakan rumus $F\_a = \rho \cdot g \cdot V\_{\text{bf}}$. Mendemonstrasikan penambahan garam ke air. **(Keterampilan Menjelaskan)**. |
+| 9-10' | Penutup | Meminta satu siswa menyimpulkan hubungan massa jenis zat cair dengan posisi benda. Memberikan apresiasi. |
 
 ## 6. Mengapa Perencanaan Mikro itu Penting?
 
-Dalam dunia nyata, guru sering kali menghadapi situasi di mana mereka hanya memiliki waktu sedikit untuk menjelaskan konsep yang kompleks, misalnya saat melakukan pengayaan atau memberikan penjelasan singkat di sela-sela ujian.
+Dalam dunia nyata, guru sering kali menghadapi situasi ketika mereka hanya memiliki waktu sedikit untuk menjelaskan konsep yang kompleks, misalnya saat melakukan pengayaan atau memberikan penjelasan singkat di sela-sela ujian.
 
 **Skenario Nyata:** Seorang pelatih di perusahaan teknologi (*Corporate Trainer*) hanya memiliki waktu 15 menit saat *stand-up meeting* untuk menjelaskan fitur baru sebuah aplikasi kepada tim pengembang. Dengan menggunakan prinsip RPP Mikro, pelatih tersebut dapat:
 
@@ -100,4 +100,4 @@ Dalam dunia nyata, guru sering kali menghadapi situasi di mana mereka hanya memi
 > - **Detail pada Langkah, Bukan Materi:** RPP harus mendetailkan *apa yang dilakukan guru dan siswa*, bukan sekadar menyalin isi buku teks ke dalam modul.
 > - **Siapkan Rencana Cadangan (Buffer):** Jika siswa model merespons lebih cepat dari dugaan, siapkan satu pertanyaan tantangan tambahan.
 
-*Refleksi:* *Setelah menyusun draft RPP kamu, cobalah baca keras-keras bagian instruksi kamu. Apakah kalimat kamu sudah efektif, atau masih banyak "umm" dan "anu" yang bisa membuang durasi berharga kamu?*
+*Refleksi:* *Setelah menyusun draf RPP kamu, cobalah baca keras-keras bagian instruksi kamu. Apakah kalimat kamu sudah efektif, atau masih banyak "umm" dan "anu" yang bisa membuang durasi berharga kamu?*

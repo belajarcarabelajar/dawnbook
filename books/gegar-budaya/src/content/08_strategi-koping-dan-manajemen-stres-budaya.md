@@ -1,6 +1,6 @@
 ## Strategi Koping dan Manajemen Stres Budaya
 
-Berada di lingkungan baru seringkali terasa seperti mencoba menjalankan perangkat lunak terbaru pada perangkat keras lama. Ada jeda, kesalahan sistem, dan terkadang sistem mati total (crash). Dalam konteks budaya, "crash" ini dikenal sebagai stres akulturatif.
+Berada di lingkungan baru sering kali terasa seperti mencoba menjalankan perangkat lunak terbaru pada perangkat keras lama. Ada jeda, kesalahan sistem, dan terkadang sistem mati total (crash). Dalam konteks budaya, "crash" ini dikenal sebagai stres akulturatif.
 
 Strategi koping adalah kumpulan teknik dan mekanisme yang kita gunakan untuk mengelola tuntutan internal maupun eksternal yang dianggap membebani sumber daya pribadi kita. Di bagian ini, kita akan mempelajari bagaimana mengubah tekanan budaya menjadi proses pertumbuhan yang terstruktur.
 
@@ -12,7 +12,7 @@ $$
 S = \frac{P \times D}{R + S_p}
 $$
 
-Di mana:
+Keterangan:
 
 - $S$: Tingkat Stres (Stress)
 - $P$: Tekanan Lingkungan (Pressure)
@@ -38,7 +38,7 @@ Koping kognitif melibatkan perubahan cara kamu memproses informasi tentang buday
 Menghadapi gegar budaya membutuhkan ketahanan emosional. Berikut adalah teknik praktis untuk menjaga kesehatan mental:
 
 - **Penerimaan (Radical Acceptance):** Terimalah bahwa merasa bingung, sedih, atau marah adalah bagian normal dari proses. Jangan menekan emosi tersebut.
-- **Self-Compassion (Welas Asih Diri):** Berbicaralah pada diri sendiri seperti kamu berbicara pada sahabat yang sedang kesulitan.
+- **Self-Compassion (Welas Asih Diri):** Berbicaralah kepada diri sendiri seperti kamu berbicara kepada sahabat yang sedang kesulitan.
 - **Teknik Grounding 5-4-3-2-1:** Saat merasa kewalahan oleh hiruk-pikuk lingkungan asing, fokuslah pada:
   1. 5 benda yang bisa kamu **lihat**.
   2. 4 benda yang bisa kamu **sentuh**.
@@ -56,7 +56,7 @@ Manusia adalah makhluk sosial. Di lingkungan baru, jaringan sosial adalah "banta
 
 1. **Lapis Lokal (The Local Guides):** Berteman dengan penduduk asli. Mereka bisa membantu kamu memahami norma yang tak tertulis.
 2. **Lapis Senasib (The Expat Community):** Orang-orang yang juga sedang beradaptasi. Mereka memberikan validasi bahwa perasaan kamu normal.
-3. **Lapis Akar (Home Connection):** Keluarga dan teman di negara asal. Mereka adalah pengingat identitas asli kamu, namun jangan sampai terlalu bergantung hingga menghambat sosialisasi lokal.
+3. **Lapis Akar (Home Connection):** Keluarga dan teman di negara asal. Mereka adalah pengingat identitas asli kamu, tetapi jangan sampai terlalu bergantung hingga menghambat sosialisasi lokal.
 
 **Tips Membangun Koneksi:**
 
@@ -64,13 +64,13 @@ Manusia adalah makhluk sosial. Di lingkungan baru, jaringan sosial adalah "banta
 - Gunakan aplikasi pertemuan komunitas (seperti Meetup atau komunitas lokal di media sosial).
 - Jangan takut untuk menjadi orang pertama yang menyapa.
 
-### 5. Efek Jangkar (The Anchor Effect)
+### 5. Jangkar Rutinitas
 
-Stres budaya seringkali termanifestasi dalam gejala fisik. Untuk melawannya, buatlah "Jangkar Rutinitas".
+Stres budaya sering kali termanifestasi dalam gejala fisik. Untuk melawannya, buatlah "Jangkar Rutinitas".
 
 - **Ritual Pagi:** Lakukan hal yang sama setiap pagi, di mana pun kamu berada (misalnya: menyeduh kopi yang sama, melakukan peregangan 10 menit). Rutinitas memberikan rasa kendali (sense of control).
 - **Nutrisi dan Tidur:** Otak yang kekurangan tidur jauh lebih rentan terhadap kecemasan. Pastikan asupan magnesium dan vitamin B kompleks cukup untuk membantu sistem saraf.
-- **Aktivitas Fisik:** Olahraga melepaskan endorfin yang secara alami menurunkan hormon kortisol (hormon stres).
+- **Aktivitas Fisik:** Olahraga melepaskan endorfin dan membantu menjaga stabilitas biologis selama transisi.
 
 ### Sari Menghadapi Stres Akulturatif
 
@@ -92,7 +92,7 @@ Sari adalah seorang profesional dari Indonesia yang pindah ke Tokyo. Pada bulan 
 | Jenis Koping | Teknik Utama | Tujuan |
 | --- | --- | --- |
 | **Kognitif** | Reframing, Riset Budaya | Mengubah persepsi ancaman menjadi tantangan. |
-| **Emosional** | Mindfulness, Jurnal, Grounding | Mengatur respon emosional terhadap stres. |
+| **Emosional** | Mindfulness, Jurnal, Grounding | Mengatur respons emosional terhadap stres. |
 | **Sosial** | Networking, Komunitas | Mengurangi isolasi dan mendapatkan informasi praktis. |
 | **Fisik** | Rutinitas, Olahraga, Nutrisi | Menjaga stabilitas biologis selama transisi. |
 

@@ -10,7 +10,7 @@ Kita bisa mengibaratkan kecerdasan ini sebagai "radar sosial". Jika kecerdasan i
 
 Satu miskonsepsi yang sering muncul adalah menyamakan kecerdasan ini dengan ekstroversi. Padahal, seorang introvert pun bisa memiliki radar sosial yang tajam jika ia telaten membaca emosi orang lain dengan akurat dan meresponsnya secara pas.
 
-Membangun kecerdasan ini membutuhkan beberapa elemen yang saling menopang. Pertama, ada sensitivitas sosial yang membantu kamu menangkap isyarat non-verbal seperti ekspresi wajah, nada suara, dan gerak tubuh $\text{gesture}$. Kemudian, kamu memerlukan empati kognitif dan afektif agar bisa merasakan apa yang dialami orang lain sambil melihat dunia dari kacamata mereka. Kemampuan ini pada gilirannya membuka jalan bagi resolusi konflik, di mana kamu bisa mengambil peran sebagai penengah untuk merumuskan jalan keluar bersama. Pada tingkat lanjut, kecerdasan ini memunculkan kemampuan kepemimpinan yang menggerakkan orang lain menuju tujuan tanpa paksaan.
+Membangun kecerdasan ini membutuhkan beberapa elemen yang saling menopang. Pertama, ada sensitivitas sosial yang membantu kamu menangkap isyarat nonverbal seperti ekspresi wajah, nada suara, dan gerak tubuh $\text{gesture}$. Kemudian, kamu memerlukan empati kognitif dan afektif agar bisa merasakan apa yang dialami orang lain sambil melihat dunia dari kacamata mereka. Kemampuan ini pada gilirannya membuka jalan bagi resolusi konflik, ketika kamu bisa mengambil peran sebagai penengah untuk merumuskan jalan keluar bersama. Pada tingkat lanjut, kecerdasan ini memunculkan kemampuan kepemimpinan yang menggerakkan orang lain menuju tujuan tanpa paksaan.
 
 ## Tanda-tanda Kecerdasan Interpersonal
 
@@ -18,7 +18,7 @@ Mengenali individu dengan kecerdasan interpersonal tinggi sebenarnya cukup mudah
 
 Orang-orang ini biasanya sangat menikmati kolaborasi, merasa lebih hidup saat bekerja dalam tim. Selain itu, mereka sangat adaptif dalam berkomunikasi. Gaya bicara mereka bisa berubah secara alami tergantung apakah lawan bicaranya adalah anak kecil, pejabat, atau rekan sejawat.
 
-Pernahkah kamu merasa yakin bahwa seseorang sedang berbohong meskipun kata-katanya terdengar sangat manis? Pada momen itu, radar sosialmu sedang bekerja menangkap celah ketidaksinkronan antara apa yang diucapkan dengan bahasa tubuh yang ditampilkan.
+Pernahkah kamu merasa yakin bahwa seseorang sedang berbohong meskipun kata-katanya terdengar sangat manis? Pada momen itu, radar sosialmu mungkin sedang bekerja menangkap celah ketidaksinkronan antara apa yang diucapkan dan bahasa tubuh yang ditampilkan.
 
 ## Mekanisme Interaksi Sosial
 
@@ -30,7 +30,7 @@ $$
 $$
 </div>
 
-Fase observasi melibatkan pengumpulan data mentah, seperti menangkap frekuensi nada suara $f$ atau detail ekspresi wajah $e$. Data ini kemudian masuk ke fase interpretasi untuk diberi makna, apakah lawan bicara sedang sedih, atau mungkin sekadar lelah? Berdasarkan makna tersebut, muncul sebuah respons berupa tindakan yang diambil untuk membawa situasi ke arah yang lebih baik.
+Fase observasi melibatkan pengumpulan data mentah, seperti menangkap frekuensi nada suara $f$ atau detail ekspresi wajah $e$. Data ini kemudian masuk ke fase interpretasi untuk diberi makna: apakah lawan bicara sedang sedih atau mungkin sekadar lelah? Berdasarkan makna tersebut, muncul sebuah respons berupa tindakan yang diambil untuk membawa situasi ke arah yang lebih baik.
 
 ## Implementasi dalam Kehidupan Sehari-hari
 
@@ -67,7 +67,7 @@ Dalam realitasnya, percabangan semacam ini dijalankan oleh otak kita dalam hitun
 
 Kecerdasan ini bukanlah atribut bawaan yang statis. Kamu bisa melatihnya agar menjadi lebih responsif seiring waktu.
 
-Langkah pertama adalah membiasakan diri mendengar secara aktif. Ketika seseorang berbicara, tahan dorongan untuk meracik jawaban di dalam kepala. Berikan fokus utuh pada cerita mereka. Di saat yang sama, kamu bisa memperkaya perbendaharaan visualmu dengan mempelajari makna bahasa tubuh. Mengamati perubahan postur atau arah pandangan bisa memberikan petunjuk ekstra tentang apa yang sebenarnya sedang terjadi.
+Langkah pertama adalah membiasakan diri mendengarkan secara aktif. Ketika seseorang berbicara, tahan dorongan untuk meracik jawaban di dalam kepala. Berikan fokus utuh pada cerita mereka. Pada saat yang sama, kamu bisa memperkaya perbendaharaan visualmu dengan mempelajari makna bahasa tubuh. Mengamati perubahan postur atau arah pandangan bisa memberikan petunjuk ekstra tentang apa yang sebenarnya sedang terjadi.
 
 Melibatkan diri dalam kegiatan kerja sukarela juga merupakan cara jitu untuk melatih radar sosial. Berada di lingkungan baru akan memaksamu berinteraksi dengan individu dari berbagai latar belakang, mengasah kemampuan adaptasi komunikasi. Setelah melewati sebuah pertemuan yang sarat dinamika, luangkan waktu sejenak untuk meninjau kembali apa yang terjadi. Pertimbangkan apakah respons yang kamu berikan sudah cukup membantu meredakan suasana atau justru memancing masalah baru.
 

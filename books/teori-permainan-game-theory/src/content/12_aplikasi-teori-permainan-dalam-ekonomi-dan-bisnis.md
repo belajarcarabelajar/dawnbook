@@ -1,21 +1,21 @@
 ## Aplikasi Teori Permainan dalam Ekonomi dan Bisnis
 
-Pernahkah kamu bertanya-tanya mengapa perusahaan besar seperti Samsung dan Apple selalu meluncurkan produk di waktu yang hampir bersamaan? Atau mengapa harga tiket pesawat bisa berubah secara drastis hanya dalam hitungan jam? Dalam ekonomi, kesuksesan sebuah bisnis tidak hanya ditentukan oleh keputusannya sendiri, tetapi juga oleh bagaimana keputusan tersebut berinteraksi dengan langkah para pesaingnya.
+Pernahkah kamu bertanya-tanya mengapa perusahaan besar seperti Samsung dan Apple harus memperhitungkan langkah pesaing sebelum meluncurkan produk? Atau mengapa harga tiket pesawat bisa berubah secara drastis hanya dalam hitungan jam? Dalam ekonomi, kesuksesan sebuah bisnis tidak hanya ditentukan oleh keputusannya sendiri, tetapi juga oleh bagaimana keputusan tersebut berinteraksi dengan langkah para pesaingnya.
 
 Dalam bagian ini, kita akan melihat bagaimana Teori Permainan membantu memahami persaingan pasar, dinamika harga, dan cara kerja sistem lelang.
 
 ## 1. Persaingan di Pasar Oligopoli
 
-Oligopoli adalah struktur pasar di mana hanya ada sedikit perusahaan yang mendominasi. Karena pemainnya sedikit, setiap tindakan satu perusahaan akan sangat memengaruhi perusahaan lain. Ini adalah bentuk nyata dari **interdependensi strategis**.
+Oligopoli adalah struktur pasar tempat hanya ada sedikit perusahaan yang mendominasi. Karena pemainnya sedikit, setiap tindakan satu perusahaan akan sangat memengaruhi perusahaan lain. Ini adalah bentuk nyata dari **interdependensi strategis**.
 
 Ada dua model klasik dalam Teori Permainan yang menjelaskan perilaku ini:
 
 ### A. Model Cournot (Persaingan Kuantitas)
 
-Bayangkan dua produsen minyak, A dan B. Dalam model ini, mereka bersaing dengan menentukan **berapa banyak jumlah (kuantitas) barang** yang akan diproduksi.
+Bayangkan dua produsen minyak, A dan B. Dalam model ini, mereka bersaing dengan menentukan **berapa banyak (kuantitas) barang** yang akan diproduksi.
 
 - **Logika Permainan:** Jika Perusahaan A memproduksi terlalu banyak, harga pasar akan jatuh, merugikan kedua pihak. Jika mereka memproduksi terlalu sedikit, mereka kehilangan potensi keuntungan.
-- **Hasil:** Keduanya akan mencapai titik keseimbangan di mana masing-masing perusahaan memilih jumlah produksi optimal dengan asumsi jumlah produksi lawan tetap.
+- **Hasil:** Keduanya akan mencapai titik keseimbangan tempat masing-masing perusahaan memilih jumlah produksi optimal dengan asumsi jumlah produksi lawan tetap.
 - **Matematika Sederhana:** Jika total kuantitas adalah $Q = q_1 + q_2$, maka harga $P$ adalah fungsi dari $Q$, yaitu $P(Q)$. Profit masing-masing perusahaan adalah:
 
   $$
@@ -65,15 +65,15 @@ Lelang adalah salah satu aplikasi Teori Permainan, digunakan mulai dari menjual 
 
 ### Fenomena "The Winner's Curse" (Kutukan Pemenang)
 
-Dalam lelang di mana nilai barang tidak pasti (misalnya hak pengeboran minyak), pemenang sering kali adalah orang yang paling melebih-lebihkan nilai barang tersebut. Akibatnya, pemenang lelang seringkali justru menjadi pihak yang merugi karena membayar terlalu mahal.
+Dalam lelang ketika nilai barang tidak pasti (misalnya hak pengeboran minyak), pemenang sering kali adalah orang yang paling melebih-lebihkan nilai barang tersebut. Akibatnya, pemenang lelang sering kali justru menjadi pihak yang merugi karena membayar terlalu mahal.
 
 ## Bagaimana Google Mendapatkan Uang?
 
-Setiap kali kamu mencari sesuatu di Google, terjadi lelang Teori Permainan dalam hitungan milidetik. Google menggunakan variasi dari **Lelang Vickrey** untuk menentukan iklan mana yang muncul di atas.
+Setiap kali kamu mencari sesuatu di Google, terjadi sebuah lelang dalam hitungan milidetik. Google menggunakan variasi dari **Lelang Vickrey** untuk menentukan iklan mana yang muncul di atas.
 
 - **Skenario:** Ada 3 slot iklan dan 5 perusahaan yang menawar.
 - **Mekanisme:** Google tidak hanya melihat siapa yang menawar paling tinggi (bid), tapi juga kualitas iklan tersebut. Namun, poin pentingnya adalah pengiklan biasanya hanya membayar sedikit di atas tawaran pesaing di bawahnya.
-- **Manfaat:** Ini mendorong pengiklan untuk memberikan penawaran yang jujur berdasarkan nilai klik bagi bisnis mereka, menciptakan ekosistem yang stabil dan menguntungkan bagi Google maupun pengiklan.
+- **Manfaat:** Ini menciptakan ekosistem yang stabil dan menguntungkan bagi Google maupun pengiklan.
 
 ## Tiga Langkah Memetakan Persaingan
 

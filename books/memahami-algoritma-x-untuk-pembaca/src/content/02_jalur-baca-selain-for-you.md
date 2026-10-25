@@ -55,7 +55,7 @@ Following dan List memberimu kendali lebih langsung atas kumpulan penulis, tetap
 
 - For You hanyalah salah satu jalur, dan karena X membuka kembali tab terakhir yang kamu pakai, kebiasaan mudah mengunci pilihanmu.
 - X Help hanya menyebut Following berisi post dari akun yang kamu ikuti; urutan terbaru dan penempatan iklan di Following serta Lists berasal dari README Home Mixer di repositori lama.
-- List memberi kendali atas sumber, bisa dibuat Private, dan bisa disematkan di samping tab Home, sedangkan Search menjawab pertanyaan lewat filter pencarian lanjutan.
+- List memberi kendali atas sumber, bisa dibuat Private, dan bisa disematkan di samping tab For You dan Following, sedangkan Search menjawab pertanyaan lewat filter pencarian lanjutan.
 - Trends dipengaruhi minat, engagement, dan lokasi, jadi bukan ukuran penting atau benarnya sebuah kabar.
 
 Setelah tahu ada banyak pintu masuk, saatnya mengintip mesin For You dari dekat dengan mengikuti perjalanan sebuah post, dari saat ia diterbitkan sampai mendarat di layarmu.

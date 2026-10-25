@@ -2,21 +2,21 @@
 
 Satu pertanyaan besar tentang *Quarter-Life Crisis* (QLC) masih menunggu jawaban, yaitu dari mana sebenarnya krisis di usia 20-an ini datang. Jika pada bagian sebelumnya kita telah mendefinisikan apa itu QLC dan mengenali gejalanya, sekarang saatnya kita membedah "mesin" di baliknya. Mengapa krisis ini terjadi? Mengapa generasi sekarang tampaknya lebih rentan merasakannya dibandingkan generasi sebelumnya?
 
-Kita akan menganalisis tiga pilar utama yang menjadi pemicu krisis ini: **tekanan ekspektasi sosial**, **gegar budaya transisi dunia kerja**, dan **pergeseran peran interpersonal**.
+Kita akan menganalisis tiga pilar utama yang menjadi pemicu krisis ini: **beban ekspektasi sosial**, **transisi dari bangku kuliah ke dunia kerja**, dan **pergeseran peran dalam hubungan interpersonal**.
 
 ## 1\. Beban Ekspektasi Sosial
 
-Banyak dari kita tumbuh dengan sebuah "skrip kehidupan" yang tidak tertulis namun sangat terasa tekanannya. Skrip ini mendikte bahwa pada usia tertentu, kita harus mencapai titik-titik pencapaian (*milestones*) tertentu.
+Banyak dari kita tumbuh dengan sebuah "skrip kehidupan" yang tidak tertulis tetapi sangat terasa tekanannya. Skrip ini mendikte bahwa pada usia tertentu, kita harus mencapai titik-titik pencapaian (*milestones*) tertentu.
 
 ### Rumus Ketidakbahagiaan
 
-Secara matematis, krisis ini sering muncul dari kesenjangan yang lebar antara realita dan ekspektasi. Kita bisa merumuskannya sebagai berikut:
+Secara matematis, krisis ini sering muncul dari kesenjangan yang lebar antara realitas dan ekspektasi. Kita bisa merumuskannya sebagai berikut:
 
 $$
-\text{Krisis} = \text{Ekspektasi}(\text{Ideal}) - \text{Realita}(\text{Aktual})
+\text{Krisis} = \text{Ekspektasi}(\text{Ideal}) - \text{Realitas}(\text{Aktual})
 $$
 
-Semakin besar nilai $\text{Ekspektasi}$ yang dibebankan oleh masyarakat (orang tua, tetangga, norma sosial) tanpa diiringi oleh $\text{Realita}$ yang mendukung, maka intensitas $\text{Krisis}$ akan semakin tinggi.
+Semakin besar nilai $\text{Ekspektasi}$ yang dibebankan oleh masyarakat (orang tua, tetangga, norma sosial) tanpa diiringi oleh $\text{Realitas}$ yang mendukung, maka intensitas $\text{Krisis}$ akan semakin tinggi.
 
 ### Faktor-faktor Ekspektasi Sosial
 
@@ -32,7 +32,7 @@ Transisi dari dunia pendidikan ke dunia profesional adalah lompatan besar dalam 
 
 ### Mengapa Transisi Ini Menyakitkan?
 
-1. **Hilangnya Struktur (Loss of Structure):** Di dunia pendidikan, jalurnya jelas: belajar $\rightarrow$ ujian $\rightarrow$ naik kelas. Di dunia nyata, tidak ada kurikulum. Kamu bisa bekerja keras namun tidak mendapatkan "nilai A". Ketidakpastian ini memicu kecemasan.
+1. **Hilangnya Struktur (Loss of Structure):** Di dunia pendidikan, jalurnya jelas: belajar $\rightarrow$ ujian $\rightarrow$ naik kelas. Di dunia nyata, tidak ada kurikulum. Kamu bisa bekerja keras tetapi tidak mendapatkan "nilai A". Ketidakpastian ini memicu kecemasan.
 2. **Paradoks Pilihan (The Paradox of Choice):** Saat kuliah, pilihanmu terbatas pada mata kuliah. Saat lulus, dunia menawarkan ribuan jalan. Bukannya merasa bebas, banyaknya pilihan sering membuat kita lumpuh karena takut mengambil keputusan yang salah (*Analysis Paralysis*).
 3. **Kesenjangan Keterampilan:** Apa yang dipelajari di bangku formal sering tidak relevan dengan kebutuhan industri, sehingga muncul perasaan tidak kompeten.
 
@@ -44,7 +44,7 @@ Memasuki usia 20-an, dinamika hubungan dengan orang-orang di sekitar kita mengal
 
 ### A. Hubungan dengan Orang Tua
 
-Terjadi pergeseran peran dari "anak yang dilindungi" menjadi "dewasa yang setara". Muncul konflik batin antara keinginan untuk mandiri sepenuhnya dengan kebutuhan (atau kewajiban) untuk tetap berbakti. Di banyak budaya, fenomena *Sandwich Generation* mulai muncul, di mana anak muda merasa harus menanggung beban finansial orang tua saat mereka sendiri belum stabil.
+Terjadi pergeseran peran dari "anak yang dilindungi" menjadi "dewasa yang setara". Muncul konflik batin antara keinginan untuk mandiri sepenuhnya dan kebutuhan (atau kewajiban) untuk tetap berbakti. Di banyak budaya, fenomena *Sandwich Generation* mulai muncul, yaitu kondisi ketika seseorang merasa harus menanggung beban finansial orang tua sekaligus anaknya saat dirinya sendiri belum stabil.
 
 ### B. Persahabatan dari Kuantitas ke Kualitas
 
@@ -61,7 +61,7 @@ Pertanyaan "Kapan nikah?" kini telah bergeser dari basa-basi biasa menjadi beban
 **Analisis Penyebab:**
 
 - **Ekspektasi Sosial:** Budi merasa harus selalu "terbaik" karena label lulusan terbaik.
-- **Transisi Kerja:** Budi kaget karena kerja kerasnya di kantor tidak langsung membuahkan pujian instan seperti saat di kampus.
+- **Transisi Kerja:** Budi kaget karena kerja kerasnya di kantor tidak langsung membuahkan pujian seperti saat di kampus.
 - **Hubungan:** Budi merasa terisolasi karena kehilangan struktur dukungan sosial dari lingkungan kampusnya.
 
 ## Refleksi Diri

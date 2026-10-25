@@ -1,10 +1,10 @@
 ## Memahami Pathe
 
-Dalam terminologi Stoik, emosi yang merusak disebut sebagai **Pathe** (jamak: *pathê*). Kata ini secara etimologis berakar dari bahasa Yunani yang berarti "penderitaan" atau "sesuatu yang menimpa".
+Dalam terminologi Stoik, emosi yang merusak disebut sebagai **Pathe** (jamak dari *pathos*). Kata ini secara etimologis berakar dari bahasa Yunani yang berarti "penderitaan" atau "sesuatu yang menimpa".
 
-Bagi kaum Stoik, emosi negatif seperti kemarahan yang meluap-luap, kecemasan yang melumpuhkan, atau kegembiraan yang euforik dan dangkal, dianggap sebagai **gangguan akal sehat**. Emosi-emosi ini bukanlah sesuatu yang datang dari luar, melainkan hasil dari penilaian internal yang keliru terhadap realitas.
+Bagi kaum Stoik, emosi negatif seperti kemarahan yang meluap-luap, kecemasan yang melumpuhkan, atau kegembiraan yang euforik dan dangkal dianggap sebagai **gangguan akal sehat**. Emosi-emosi ini bukanlah sesuatu yang datang dari luar, melainkan hasil dari penilaian internal yang keliru terhadap realitas.
 
-> "Manusia tidak terganggu oleh hal-hal yang terjadi, tetapi oleh pendapat mereka tentang hal-hal tersebut." , **Epictetus**
+> "Manusia tidak terganggu oleh hal-hal yang terjadi, tetapi oleh pendapat mereka tentang hal-hal tersebut." - **Epictetus**
 
 ## Anatomi Emosi
 
@@ -18,7 +18,7 @@ $$
 
 Mari kita bedah komponennya:
 
-1. **Kesan (Phantasia/Impression):** Ini adalah data mentah yang masuk ke panca indra kita. Contoh: Seseorang memotong jalur kamu saat berkendara.
+1. **Kesan (Phantasia/Impression):** Ini adalah data mentah yang masuk ke pancaindra kita. Contoh: Seseorang memotong jalur kamu saat berkendara.
 2. **Persetujuan (Sunkatathesis/Assent):** Di sinilah letak kendali kita. Kita memberikan "stempel setuju" pada penilaian bahwa kejadian tersebut "buruk" atau "menghina".
 3. **Emosi (Pathe):** Jika kita menyetujui bahwa kejadian itu buruk dan kita harus bereaksi, maka muncullah kemarahan.
 
@@ -51,9 +51,9 @@ Stoikisme mengklasifikasikan emosi destruktif ke dalam empat kategori besar yang
 
 Untuk tidak diperbudak oleh nafsu impulsif, kita perlu menerapkan teknik identifikasi dan transformasi berikut:
 
-### 1\. Menunda Respon (Cognitive Distancing)
+### 1\. Menunda Respons (Cognitive Distancing)
 
-Saat emosi mulai memuncak, jangan langsung bertindak. Stoik menyarankan untuk memberi jarak antara kesan dan respon.
+Saat emosi mulai memuncak, jangan langsung bertindak. Stoik menyarankan untuk memberi jarak antara kesan dan respons.
 
 - **Latihan:** Katakan pada emosi kamu, *"Tunggu sebentar, biarkan aku memeriksa siapa kamu dan apa yang kamu wakili."*
 
@@ -61,7 +61,7 @@ Saat emosi mulai memuncak, jangan langsung bertindak. Stoik menyarankan untuk me
 
 Lihatlah hal-hal sebagaimana adanya, tanpa label nilai yang kita tempelkan.
 
-- **Analogi:** Marcus Aurelius sering mempraktikkan ini. Baginya, anggur mahal hanyalah sari buah busuk, dan jubah ungu kaisar hanyalah bulu domba yang dicelupkan ke dalam darah kerang.
+- **Analogi:** Marcus Aurelius sering mempraktikkan ini. Baginya, anggur mahal hanyalah sedikit sari buah anggur, dan jubah ungu kaisar hanyalah bulu domba yang dicelupkan ke dalam darah kerang.
 - **Aplikasi:** Jika kamu menginginkan gadget terbaru (Lust), katakan: *"Ini hanya tumpukan kaca, silikon, dan plastik yang akan usang dalam dua tahun."*
 
 ### 3\. Menguji Persetujuan

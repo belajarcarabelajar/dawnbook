@@ -12,7 +12,7 @@ Dalam psikologi, hal ini sering dikaitkan dengan hilangnya **isyarat-isyarat akr
 
 ### Sepatu Baru yang Sempit
 
-Mencoba budaya baru di fase ini seperti memakai sepatu baru yang cantik (Fase Bulan Madu). Awalnya kamu bangga memakainya. Namun, setelah berjalan beberapa kilometer, sepatu itu mulai membuat kaki lecet. Kamu mulai merasa perih, tidak nyaman, dan ingin sekali melepasnya untuk kembali memakai sandal jepit lama yang sudah usang namun nyaman di rumah.
+Mencoba budaya baru seperti memakai sepatu baru yang cantik (Fase Bulan Madu). Awalnya kamu bangga memakainya. Namun, setelah berjalan beberapa kilometer, sepatu itu mulai membuat kaki lecet. Kamu mulai merasa perih, tidak nyaman, dan ingin sekali melepasnya untuk kembali memakai sandal jepit lama yang sudah usang namun nyaman di rumah.
 
 ## 2. Frustrasi, Kebingungan, dan Homesickness
 
@@ -45,22 +45,22 @@ $$
 T = \frac{D \times C}{S}
 $$
 
-Di mana:
+Dengan:
 
 - $T$ (Tension/Ketegangan): Tingkat stres yang dirasakan.
 - $D$ (Difference/Perbedaan): Seberapa jauh perbedaan budaya asal dengan budaya baru.
 - $C$ (Complexity/Kompleksitas): Kerumitan tugas sehari-hari di tempat baru.
 - $S$ (Support/Dukungan): Jaringan dukungan sosial dan mekanisme koping yang dimiliki.
 
-Jika perbedaan budaya ($D$) sangat besar, namun dukungan sosialmu ($S$) mendekati nol, maka ketegangan ($T$) akan meningkat tajam.
+Jika perbedaan budaya ($D$) sangat besar, tetapi dukungan sosialmu ($S$) mendekati nol, maka ketegangan ($T$) akan meningkat tajam.
 
 ## 4. "Hari Buruk di Berlin"
 
 Andi adalah seorang mahasiswa Indonesia yang baru dua bulan berada di Jerman.
 
 - **Minggu 1-4 (Bulan Madu):** Andi sangat senang melihat keteraturan kereta dan arsitektur kota.
-- **Minggu 8 (Krisis):** Suatu hari, Andi ditegur dengan keras oleh orang asing karena berdiri di jalur sepeda tanpa sengaja. Di saat yang sama, dia kesulitan memahami surat kontrak apartemennya. Sore harinya, dia mencoba mencari bumbu instan Indonesia namun tidak menemukan yang pas.
-- **Respon Andi:** Dia kembali ke kamar, mengunci pintu, dan menghabiskan malam dengan melakukan *video call* berjam-jam ke rumah sambil menangis. Dia mulai berpikir bahwa orang lokal sangat kasar dan dia tidak cocok tinggal di sana.
+- **Minggu 8 (Krisis):** Suatu hari, Andi ditegur dengan keras oleh orang asing karena berdiri di jalur sepeda tanpa sengaja. Di saat yang sama, dia kesulitan memahami surat kontrak apartemennya. Sore harinya, dia mencoba mencari bumbu instan Indonesia tetapi tidak menemukan yang pas.
+- **Respons Andi:** Dia kembali ke kamar, mengunci pintu, dan menghabiskan malam dengan melakukan *video call* berjam-jam ke rumah sambil menangis. Dia mulai berpikir bahwa orang lokal sangat kasar dan dia tidak cocok tinggal di sana.
 
 **Analisis:** Andi sedang berada di puncak Fase Krisis. Perasaan "tertolak" oleh lingkungan membuatnya menarik diri dan melakukan glorifikasi terhadap kenyamanan di rumah.
 
@@ -79,7 +79,7 @@ Beberapa bentuk penolakan dalam fase ini:
 Jika kamu atau rekanmu sedang mengalami hal ini, langkah pertama adalah **kesadaran (awareness)**.
 
 - **Validasi Perasaan:** Sadarilah bahwa merasa marah atau sedih adalah bagian normal dari proses "pendewasaan" budaya. Kamu tidak sedang gagal; kamu sedang bertumbuh.
-- **Identifikasi Pemicu:** Apakah kamu marah karena orangnya, atau karena kamu lelah bahasa? Seringkali, kelelahan linguistik ($\text{Linguistic Fatigue}$) disalahartikan sebagai kebencian terhadap budaya.
+- **Identifikasi Pemicu:** Apakah kamu marah karena orangnya, atau karena kamu lelah bahasa? Sering kali, kelelahan linguistik ($\text{Linguistic Fatigue}$) disalahartikan sebagai kebencian terhadap budaya.
 - **Kurangi Perbandingan:** Berhenti menggunakan kata "harusnya". Budaya baru tidak "salah", ia hanya "berbeda".
 
 **Penting:** Jangan mengambil keputusan besar di fase ini. Banyak orang memutuskan untuk berhenti kuliah atau berhenti bekerja dan pulang ke negara asal saat berada di puncak fase krisis. Ingatlah bahwa ini adalah kondisi emosional yang bersifat sementara.

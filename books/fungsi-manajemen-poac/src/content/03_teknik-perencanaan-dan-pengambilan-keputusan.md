@@ -12,7 +12,7 @@ Banyak rencana gagal bukan karena kurangnya semangat, tetapi karena target yang 
 
 - **S - Specific (Spesifik):** Target harus jelas tanpa menyisakan ruang untuk ambiguitas. Kamu perlu memperjelas apa yang ingin dicapai serta siapa saja pihak yang terlibat di dalamnya.
 - **M - Measurable (Terukur):** Pencapaian wajib memiliki indikator atau angka numerik yang jelas. Tanpa alat ukur yang tepat, performa sulit untuk dikendalikan dan dievaluasi.
-- **A - Achievable (Dapat Dicapai):** Sasaran harus menantang namun tetap realistis. Target pertumbuhan penjualan hingga 1000% dalam waktu singkat justru berisiko mematahkan semangat tim karena dinilai mustahil terwujud.
+- **A - Achievable (Dapat Dicapai):** Sasaran harus menantang, tetapi tetap realistis. Target pertumbuhan penjualan hingga 1000% dalam waktu singkat justru berisiko mematahkan semangat tim karena dinilai mustahil terwujud.
 - **R - Relevant (Relevan):** Menyelaraskan target dengan arah dan misi besar organisasi.
 - **T - Time-bound (Tenggat Waktu):** Adanya batas waktu penyelesaian yang tegas untuk mencegah penundaan pekerjaan.
 
@@ -66,7 +66,7 @@ flowchart TD
 
 ## 4. Mengambil Keputusan di Tengah Ketidakpastian
 
-Dunia nyata jauh lebih kompleks daripada model matematika. Manajer seringkali harus mengambil keputusan dengan informasi yang tidak lengkap atau kondisi pasar yang fluktuatif. Kondisi ini disebut **Decision Making under Uncertainty**.
+Dunia nyata jauh lebih kompleks daripada model matematika. Manajer sering kali harus mengambil keputusan dengan informasi yang tidak lengkap atau kondisi pasar yang fluktuatif. Kondisi ini disebut **Decision Making under Uncertainty**.
 
 ### Konsep Penting
 
@@ -86,14 +86,15 @@ Sebagai contoh, keputusan cepat yang diambil di bawah tekanan waktu dengan data 
 1. **Analisis SWOT:**
    - *Kekuatan (Strength):* Pasokan biji kopi lokal kualitas premium yang diperoleh langsung dari petani.
    - *Ancaman (Threat):* Merek besar dengan dukungan modal pemasaran raksasa.
-   - *Strategi:* Menggunakan kekuatan kualitas produk lokal untuk memanfaatkan tren kebanggaan produk dalam negeri (*Local Pride*) di kalangan generasi muda.
+   - *Peluang (Opportunity):* Tren kebanggaan produk dalam negeri (*Local Pride*) di kalangan generasi muda.
+   - *Strategi:* Menggunakan kekuatan kualitas produk lokal untuk memanfaatkan peluang tersebut.
 2. **SMART Goal:** "Membuka 3 gerai baru di pusat perbelanjaan Jakarta Pusat dengan target *Break Even Point* (BEP) dalam 14 bulan."
 3. **Pengambilan Keputusan:** Manajer menggunakan pembobotan untuk memilih lokasi.
    - **Kriteria Penilaian:** Harga sewa memiliki bobot 40%, sedangkan kepadatan pengunjung memiliki bobot 60%.
-     - **Mall A:** Menawarkan sewa murah (nilai 8), namun kepadatan pengunjung tergolong sedang (nilai 6).
-     - **Mall B:** Harga sewa tergolong mahal (nilai 4), tetapi tingkat kunjungan sangat padat (nilai 9).
+     - **Mal A:** Menawarkan sewa murah (nilai 8), tetapi kepadatan pengunjung tergolong sedang (nilai 6).
+     - **Mal B:** Harga sewa tergolong mahal (nilai 4), tetapi tingkat kunjungan sangat padat (nilai 9).
    - **Perhitungan Skor:**
-     - Skor Mall A:
+     - Skor Mal A:
 
        <div>
        $$
@@ -101,7 +102,7 @@ Sebagai contoh, keputusan cepat yang diambil di bawah tekanan waktu dengan data 
        $$
        </div>
 
-     - Skor Mall B:
+     - Skor Mal B:
 
        <div>
        $$
@@ -109,7 +110,7 @@ Sebagai contoh, keputusan cepat yang diambil di bawah tekanan waktu dengan data 
        $$
        </div>
 
-   - **Keputusan Akhir:** Mall B dipilih karena menghasilkan skor total tertinggi, meskipun biaya sewanya lebih mahal.
+   - **Keputusan Akhir:** Mal B dipilih karena menghasilkan skor total tertinggi, meskipun biaya sewanya lebih mahal.
 
 ## Rangkuman Intisari
 
@@ -117,7 +118,7 @@ Sebagai contoh, keputusan cepat yang diambil di bawah tekanan waktu dengan data 
 | --- | --- | --- |
 | **SMART** | Klarifikasi Tujuan | Spesifisitas dan Batasan Waktu |
 | **SWOT** | Pemetaan Strategis | Lingkungan Internal & Eksternal |
-| **Matriks Keputusan** | Pemilihan Alternatif | Objektivitas dan Pembobotan Data |
+| **Model Pengambilan Keputusan Rasional** | Pemilihan Alternatif | Objektivitas dan Pembobotan Data |
 | **Bounded Rationality** | Manajemen Realitas | Pengambilan keputusan yang praktis & cepat |
 
 > **Pesan Penting:** Perencanaan yang matang tidak bertujuan untuk menghilangkan risiko sepenuhnya (karena itu mustahil), tetapi memastikan bahwa saat tantangan datang, kita telah memegang peta untuk menghadapinya.

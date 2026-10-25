@@ -1,7 +1,7 @@
 # Summary
 
 - [Pengantar Pembelajaran Multidisiplin](content/01_pengantar-pembelajaran-multidisiplin.md)
-- [Membedakan Multidisiplin, Interdisiplin, dan Transdisiplin](content/02_membedakan-multidisiplin-interdisiplin-dan-transdisiplin.md)
+- [Membedakan Multidisiplin, Interdisipliner, dan Transdisiplin](content/02_membedakan-multidisiplin-interdisiplin-dan-transdisiplin.md)
 - [Manfaat dan Keunggulan Pembelajaran Multidisiplin](content/03_manfaat-dan-keunggulan-pembelajaran-multidisiplin.md)
 - [Tantangan dan Hambatan dalam Pembelajaran Multidisiplin](content/04_tantangan-dan-hambatan-dalam-pembelajaran-multidisiplin.md)
 - [Strategi Efektif untuk Mengimplementasikan Pembelajaran Multidisiplin](content/05_strategi-efektif-mengimplementasikan-pembelajaran-multidisiplin.md)

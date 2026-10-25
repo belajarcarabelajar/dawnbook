@@ -10,7 +10,7 @@ Angka di pembuka berasal dari [Freedman dan rekan (2019)](https://doi.org/10.117
 
 Pertemanan ternyata juga tidak luput. Di studi kedua mereka, dengan 747 peserta, 38,6% pernah di-*ghosting* oleh teman, dan 31,7% pernah melakukannya kepada teman.
 
-Penelitian yang sama juga melihat keyakinan orang tentang hubungan. Keyakinan *destiny* (secara kasar, anggapan bahwa hubungan ditentukan takdir) yang lebih kuat berjalan seiring dengan sikap lebih menerima dan lebih sering memakai *ghosting*. Keyakinan *growth* (secara kasar, anggapan bahwa hubungan bisa bertumbuh) berjalan seiring dengan sebaliknya. Semua data ini laporan diri peserta, jadi bacalah sebagai gambaran, bukan ukuran pasti.
+Penelitian yang sama juga melihat keyakinan orang tentang hubungan. Keyakinan *destiny* (secara kasar, anggapan bahwa hubungan ditentukan takdir) yang lebih kuat berjalan seiring dengan sikap lebih menerima dan lebih sering memakai *ghosting*. Keyakinan *growth* (secara kasar, anggapan bahwa hubungan bisa bertumbuh) berjalan seiring dengan pola yang sebaliknya. Semua data ini laporan diri peserta, jadi bacalah sebagai gambaran, bukan ukuran pasti.
 
 ### Dua Peran Ghosting yang Sama-sama Dialami
 

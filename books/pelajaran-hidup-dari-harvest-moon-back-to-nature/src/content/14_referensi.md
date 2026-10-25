@@ -8,7 +8,7 @@ McBride, D., dan Cassady, D. (2000). [*Harvest Moon: Back to Nature: Prima's off
 
 Wikipedia. (t.t.). [Harvest Moon: Back to Nature](https://en.wikipedia.org/wiki/Harvest_Moon:_Back_to_Nature). Diakses 23 Oktober 2026.
 
-Marvelous. (t.t.). [*Bokujō Monogatari Hābesuto Mūn*](https://www.bokumono.com/sub/harvest.php). Situs resmi seri Bokujo Monogatari. Diakses 23 Oktober 2026.
+Marvelous. (t.t.). [*Bokujō Monogatari Hābesuto Mūn*](https://www.bokumono.com/sub/harvest.php). Situs resmi seri Bokujō Monogatari. Diakses 23 Oktober 2026.
 
 Sheffield, B. (2007, 3 Desember). [Harvest man: Yasuhiro Wada's gentle world](https://www.gamedeveloper.com/business/harvest-man-yasuhiro-wada-s-gentle-world). *Gamasutra*.
 
@@ -26,7 +26,7 @@ Van Dongen, H. P. A., Maislin, G., Mullington, J. M., dan Dinges, D. F. (2003). 
 
 Pega, F., Náfrádi, B., Momen, N. C., Ujita, Y., Streicher, K. N., Prüss-Üstün, A. M., dkk. (2021). [Global, regional, and national burdens of ischemic heart disease and stroke attributable to exposure to long working hours for 194 countries, 2000-2016: A systematic analysis from the WHO/ILO Joint Estimates of the Work-related Burden of Disease and Injury](https://doi.org/10.1016/j.envint.2021.106595). *Environment International, 154*, 106595.
 
-World Health Organization. (2021, 17 Mei). [Long working hours increasing deaths from heart disease and stroke: WHO, ILO](https://www.who.int/news/item/17-05-2021-long-working-hours-increasing-deaths-from-heart-disease-and-stroke-who-ilo). Siaran berita.
+World Health Organization. (2021, 17 Mei). [Long working hours increasing deaths from heart disease and stroke: WHO, ILO](https://www.who.int/news/item/17-05-2021-long-working-hours-increasing-deaths-from-heart-disease-and-stroke-who-ilo). Siaran pers.
 
 Rubinstein, J. S., Meyer, D. E., dan Evans, J. E. (2001). [Executive control of cognitive processes in task switching](https://doi.org/10.1037/0096-1523.27.4.763). *Journal of Experimental Psychology: Human Perception and Performance, 27*(4), 763-797.
 

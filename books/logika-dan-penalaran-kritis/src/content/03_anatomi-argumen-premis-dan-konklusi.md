@@ -24,7 +24,7 @@ $$
 $$
 </div>
 
-> **Catatan:** Sebuah argumen yang kuat adalah argumen di mana jika semua premisnya benar, maka konklusinya sangat sulit (atau tidak mungkin) untuk salah.
+> **Catatan:** Sebuah argumen yang kuat adalah argumen yang jika semua premisnya benar, maka konklusinya sangat sulit (atau tidak mungkin) untuk salah.
 
 ## 2\. Mengidentifikasi Indikator Argumen
 
@@ -72,16 +72,16 @@ Untuk menguji kekuatan sebuah argumen, para pemikir kritis sering menggunakan "B
 
 Seorang manajer TI ingin meyakinkan perusahaan untuk beralih ke *cloud computing*.
 
-**Argumen dalam narasi:** "Kita harus segera pindah ke sistem cloud karena biaya perawatannya lebih murah 30% dibanding server fisik. Selain itu, tim kita yang bekerja remote butuh akses data kapan saja, dan cloud memungkinkan hal itu."
+**Argumen dalam narasi:** "Kita harus segera pindah ke sistem *cloud* karena biaya perawatannya lebih murah 30% dibanding server fisik. Selain itu, tim kita yang bekerja *remote* butuh akses data kapan saja, dan *cloud* memungkinkan hal itu."
 
 **Argumen dalam Bentuk Standar:**
 
-- **Premis 1:** Sistem cloud memiliki biaya perawatan 30% lebih murah daripada server fisik. (Fakta)
-- **Premis 2:** Tim remote membutuhkan akses data setiap saat secara fleksibel. (Kebutuhan/Fakta Lapangan)
-- **Premis 3:** Cloud computing memfasilitasi akses data jarak jauh secara real-time. (Fakta Teknis)
-- **Konklusi:** Perusahaan harus segera beralih ke sistem cloud. (Tindakan yang diusulkan)
+- **Premis 1:** Sistem *cloud* memiliki biaya perawatan 30% lebih murah daripada server fisik. (Fakta)
+- **Premis 2:** Tim *remote* membutuhkan akses data setiap saat secara fleksibel. (Kebutuhan/Fakta Lapangan)
+- **Premis 3:** *Cloud computing* memfasilitasi akses data jarak jauh secara *real-time*. (Fakta Teknis)
+- **Konklusi:** Perusahaan harus segera beralih ke sistem *cloud*. (Tindakan yang diusulkan)
 
-Konklusi ini bertumpu pada ketiga premis sekaligus. Jika satu saja gugur, misalnya biaya perawatan cloud ternyata tidak lebih murah, argumen untuk pindah menjadi tidak cukup kuat dan perusahaan punya alasan untuk tetap memakai sistem lama.
+Konklusi ini bertumpu pada ketiga premis sekaligus. Jika satu saja gugur, misalnya biaya perawatan *cloud* ternyata tidak lebih murah, argumen untuk pindah menjadi tidak cukup kuat.
 
 ## 5\. Latihan Mandiri
 

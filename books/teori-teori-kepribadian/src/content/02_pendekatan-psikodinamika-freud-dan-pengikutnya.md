@@ -10,7 +10,7 @@ Seorang ahli saraf Austria, Sigmund Freud (1856-1939), dikenal sebagai bapak psi
 
 Freud melihat bahwa kepribadian ditopang oleh tiga elemen yang terus berinteraksi. Dinamika di antara ketiganya sering kali memicu konflik internal yang akhirnya memengaruhi apa yang kita lakukan.
 
-**Id** adalah satu-satunya elemen yang sudah ada semenjak kita lahir dan bekerja sepenuhnya di alam bawah sadar. Id beroperasi menggunakan prinsip kesenangan (*pleasure principle*), yang menuntut pemuasan secara instan. Di dalamnya berisi sumber energi psikis (*libido*) dan dorongan mendasar seperti lapar dan kebutuhan seksual. Sifatnya murni impulsif, irasional, dan mementingkan keinginan sendiri. 
+**Id** adalah satu-satunya elemen yang sudah ada semenjak kita lahir dan bekerja sepenuhnya di alam bawah sadar. Id beroperasi menggunakan prinsip kesenangan (*pleasure principle*), yang menuntut pemuasan secara instan. Di dalamnya terdapat sumber energi psikis (*libido*) dan dorongan mendasar seperti lapar dan kebutuhan seksual. Sifatnya murni impulsif, irasional, dan mementingkan keinginan sendiri. 
 
 **Ego** lalu berkembang untuk menjadi jembatan antara Id, realitas, dan moralitas. Karena berpegang pada prinsip realitas (*reality principle*), Ego mencoba menemukan cara memuaskan keinginan impulsif Id melalui jalur yang lebih logis dan masih bisa diterima secara sosial. Ego inilah yang menunda hasrat impulsif demi menunggu waktu yang tepat. Sebagai contoh, saat Id menuntut kamu memakan seluruh isi kue sekarang juga, Ego akan turun tangan mempertimbangkan konsekuensinya dan menyarankan untuk cukup mengambil sepotong saja sehabis makan malam.
 
@@ -22,7 +22,7 @@ Freud beranggapan bahwa masa kanak-kanak dibagi menjadi beberapa tahap, dan pada
 
 1. **Tahap Oral (0-1 tahun):** Fokus erotis pada mulut melalui kegiatan mengisap, menggigit, atau mengunyah. Konflik utamanya ada pada proses penyapihan dari ASI. Fiksasi oral bisa berujung pada kebiasaan merokok, makan berlebihan, sikap pasif, atau justru menjadi sangat sarkastik saat dewasa.
 2. **Tahap Anal (1-3 tahun):** Pengendalian buang air besar menjadi fokus erotis. Latihan *toilet training* memunculkan konflik antara kontrol dan pelepasan. Fiksasi memunculkan karakter *anal-retentive* (terlalu rapi, kaku, keras kepala) atau sebaliknya menjadi *anal-expulsive* (berantakan, ceroboh, pemboros).
-3. **Tahap Falik (3-6 tahun):** Rasa ingin tahu terhadap anatomi tubuh dan alat kelamin berkembang. Anak laki-laki bisa mengalami *Oedipus complex* (ikatan kuat pada ibu, bersaing dengan ayah, diikuti kecemasan *castration anxiety*). Di sisi lain, anak perempuan mengalami *Electra complex* (rasa tertarik pada ayah, diiringi perasaan *penis envy*). Fiksasi di tahap ini memicu kebingungan identitas, sikap narsistik, atau dorongan seduktif yang berlebihan.
+3. **Tahap Falik (3-6 tahun):** Rasa ingin tahu terhadap anatomi tubuh dan alat kelamin berkembang. Anak laki-laki bisa mengalami *Oedipus complex* (ikatan kuat pada ibu, bersaing dengan ayah, diikuti kecemasan *castration anxiety*). Di sisi lain, anak perempuan mengalami apa yang kemudian disebut Jung sebagai *Electra complex* (rasa tertarik pada ayah, diiringi perasaan *penis envy*). Fiksasi di tahap ini memicu kebingungan identitas, sikap narsistik, atau dorongan seduktif yang berlebihan.
 4. **Tahap Latensi (6 tahun - pubertas):** Dorongan seksual diredam dan dialihkan ke arah pertemanan sesama jenis, kegiatan sosial, dan penyelesaian tugas akademik.
 5. **Tahap Genital (Pubertas ke atas):** Minat seksual mulai matang dan terarah pada menjalin hubungan intim yang lebih nyata. Bila krisis pada masa lalu tuntas, individu siap menjalani kehidupan asmara yang sehat dan lebih seimbang.
 
@@ -48,17 +48,17 @@ Saat Ego kewalahan menangani konflik kuat antara Id, realitas, dan Superego, mun
 
 ### Psikologi Analitis Carl Jung
 
-Sebagai salah satu kerabat kerja terdekat Freud, Carl Jung (1875-1961) pada akhirnya membangun jalannya sendiri yang disebut Psikologi Analitis. Ia tidak sependapat dengan dominasi unsur seksual dan membatasi alam bawah sadar sekadar pada ranah pengalaman pribadi.
+Sebagai salah satu kerabat kerja terdekat Freud, Carl Jung (1875-1961) pada akhirnya membangun jalannya sendiri yang disebut Psikologi Analitis. Ia tidak sependapat dengan dominasi unsur seksual dan dengan pembatasan alam bawah sadar sekadar pada ranah pengalaman pribadi.
 
 Konsep-konsep sentral Jung meliputi:
 
-**Collective Unconscious:** Ini merupakan gagasan khas Jung. Ia mengklaim ada sebuah lapisan terdalam alam bawah sadar yang diwariskan antar generasi, berisikan rekam jejak memori serta warisan pengalaman leluhur seluruh manusia.
+**Collective Unconscious:** Ini merupakan gagasan khas Jung. Ia mengklaim ada sebuah lapisan terdalam alam bawah sadar yang diwariskan antargenerasi, berisikan rekam jejak memori serta warisan pengalaman leluhur seluruh manusia.
 
 **Archetypes:** Berupa pola universal di dalam *collective unconscious* yang tanpa sadar memengaruhi cara kita bertindak. Ada *Persona*, yaitu sisi diri yang kita tampilkan selayaknya topeng di depan umum. Lalu ada *Shadow* yang berisi insting dan nafsu gelap. Jung juga menyebut *Anima* (sisi feminin dalam batin pria) dan *Animus* (sisi maskulin dalam batin wanita). Pada akhirnya, ada *Self* yang menyatukan seluruh komponen tersebut.
 
 **Introversion dan Extraversion:** Alih-alih digunakan sekadar sebagai label kepribadian sehari-hari, Jung menempatkannya sebagai arah energi psikis. *Introversion* berarti energi ditarik masuk memikirkan dunia internal, sementara *extraversion* berarti energi diarahkan menuju dunia eksternal.
 
-**Fungsi Psikologis:** Untuk mempersepsikan situasi, kita kerap menggunakan kombinasi berbagai alat. Mulai dari *Thinking* (mengandalkan logika), *Feeling* (penilaian emosional), *Sensing* (persepsi panca indra), dan *Intuition* (melihat lewat firasat tak kasat mata).
+**Fungsi Psikologis:** Untuk mempersepsikan dan menilai situasi, kita kerap menggunakan kombinasi berbagai alat, yaitu *Thinking* (mengandalkan logika), *Feeling* (penilaian emosional), *Sensing* (persepsi pancaindra), dan *Intuition* (melihat lewat firasat tak kasat mata).
 
 **Individuation:** Jung meyakini bahwa target seumur hidup manusia adalah proses memadukan segala sisi sadar dan tidak sadar ini untuk menjadi individu yang utuh.
 
@@ -86,7 +86,7 @@ Tiap transisi ditandai dengan krisis dari dua kutub yang berlawanan. Melaluinya 
 - Masuk ke lingkungan sekolah 6-12 tahun (**Industry vs. Inferiority**), anak harus menghadapi tantangan merangkai kompetensi baru. Jika berhasil, timbullah rasa percaya pada kemampuan diri sendiri.
 - Titik rentan remaja 12-18 tahun berkutat pada pencarian **Identity vs. Role Confusion**. Mereka dituntut mengeksplorasi berbagai peran demi menghasilkan kesetiaan pada nilai yang mereka percaya (*fidelity*).
 - Dewasa muda usia 18-40 tahun menuntut manusia membangun ikatan yang intim, **Intimacy vs. Isolation**. Fokus utama ada pada keberanian membuka batasan diri, yang pada akhirnya membuahkan cinta kasih (*love*).
-- Paruh baya usia 40-65 tahun (**Generativity vs. Stagnation**) sering menjadi masa evaluasi di mana orang mempertanyakan kontribusi mereka untuk generasi ke depan, membangun jaring pengasuhan dan perhatian (*care*).
+- Paruh baya usia 40-65 tahun (**Generativity vs. Stagnation**) sering menjadi masa evaluasi ketika orang mempertanyakan kontribusi mereka untuk generasi ke depan, membangun jaring pengasuhan dan perhatian (*care*).
 - Pada usia 65 tahun ke atas (**Ego Integrity vs. Despair**), lansia akan memutar kembali memori hidup mereka. Mereka bisa merasa lega dan merengkuh kebijaksanaan (*wisdom*), atau tenggelam dalam amarah dan keputusasaan atas hal-hal yang tidak bisa diubah.
 
 Urutan delapan krisis tersebut dapat kamu lihat sekilas pada bagan berikut.

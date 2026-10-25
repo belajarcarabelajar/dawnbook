@@ -1,6 +1,6 @@
 ## Referensi
 
-Daftar pustaka berikut memuat buku teks kanonikal, monograf ilmiah, laporan teknis historis NACA/NASA, dan artikel jurnal rujukan utama. Karya-karya ini menjadi landasan teoritis serta metodologis dalam bidang aerodinamika, mekanika fluida, dan perancangan airfoil. Seluruh tautan terverifikasi dan mengarah langsung ke repositori resmi, pangkalan data penerbit ilmiah, atau pengenal objek digital (DOI).
+Daftar pustaka berikut memuat buku teks kanonikal, monograf ilmiah, laporan teknis historis NACA/NASA, dan artikel jurnal rujukan utama. Karya-karya ini menjadi landasan teoretis serta metodologis dalam bidang aerodinamika, mekanika fluida, dan perancangan airfoil. Seluruh tautan terverifikasi dan mengarah langsung ke repositori resmi, pangkalan data penerbit ilmiah, atau pengenal objek digital (DOI).
 
 ### Buku Teks Fundamental dan Teori Aerodinamika Klasik
 

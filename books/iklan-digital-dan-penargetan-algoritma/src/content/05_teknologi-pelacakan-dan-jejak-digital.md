@@ -61,12 +61,12 @@ Artinya, peramban diminta memuat gambar berukuran $1 \times 1$ piksel yang disem
 
 Di dunia *mobile* (aplikasi ponsel), cookie tidak bekerja seefektif di browser web. Sebagai gantinya, industri menggunakan **Device Identifiers**.
 
-Setiap perangkat seluler memiliki ID unik yang digunakan oleh pengiklan untuk mengenali pengguna secara konsisten melintasi berbagai aplikasi.
+Setiap perangkat seluler memiliki ID unik yang dapat digunakan oleh pengiklan untuk mengenali pengguna secara konsisten melintasi berbagai aplikasi.
 
 - **IDFA (Identifier for Advertisers):** Digunakan oleh perangkat Apple (iOS).
 - **AAID (Android Advertising ID):** Digunakan oleh perangkat Android.
 
-> **Penting:** Berbeda dengan nama aslimu, ID ini bersifat anonim (berupa rangkaian angka dan huruf panjang). Namun, karena ID ini tetap sama, pengiklan dapat membangun profil minat yang sangat akurat tentang siapa "pemilik" ID tersebut berdasarkan aplikasi yang diunduh dan digunakan.
+> **Penting:** Berbeda dengan nama aslimu, ID ini bersifat anonim (berupa rangkaian angka dan huruf panjang). Namun, karena ID ini umumnya tetap sama, pengiklan dapat membangun profil minat yang sangat akurat tentang siapa "pemilik" ID tersebut berdasarkan aplikasi yang diunduh dan digunakan.
 
 ### 4. Browser Fingerprinting
 
@@ -89,7 +89,7 @@ Mari kita lihat bagaimana teknologi ini bekerja bersama dalam sebuah skenario ny
 1. **Langkah 1:** Andi mencari "tenda camping" di situs petualangan. Situs tersebut menanamkan **First-Party Cookie** agar Andi tidak perlu mencari ulang. Namun, di situs itu juga ada **Tracking Pixel** milik platform iklan media sosial.
 2. **Langkah 2:** Pixel tersebut melaporkan ke server iklan bahwa "Pengguna dengan Sidik Jari X baru saja melihat tenda model A".
 3. **Langkah 3:** Andi menutup situs tersebut dan membuka aplikasi Instagram di ponselnya. Instagram mengenali **Device ID** Andi yang sudah terhubung dengan profil minat "Outdoor".
-4. **Langkah 4:** Melalui sistem lelang cepat (RTB), iklan tenda model A yang dilihat Andi tadi langsung muncul di *feed* Andi.
+4. **Langkah 4:** Melalui sistem lelang cepat, iklan tenda model A yang dilihat Andi tadi langsung muncul di *feed* Andi.
 
 ### Perbandingan Empat Teknologi Pelacakan
 
@@ -100,4 +100,4 @@ Mari kita lihat bagaimana teknologi ini bekerja bersama dalam sebuah skenario ny
 | **Device ID** | String Alfanumerik | Sistem Operasi HP | Melacak pengguna antar aplikasi mobile. |
 | **Fingerprinting** | Profil Teknis | Server (Metadata) | Melacak tanpa perlu menyimpan file lokal. |
 
-Pelacakan digital adalah pondasi yang memungkinkan iklan menjadi sangat relevan. Namun, ini juga menciptakan "jejak kaki digital" yang permanen. Memahami teknologi ini adalah langkah pertama untuk menjadi konsumen digital yang lebih sadar dan berdaya dalam mengelola privasi pribadi.
+Pelacakan digital adalah fondasi yang memungkinkan iklan menjadi sangat relevan. Namun, ini juga menciptakan "jejak kaki digital" yang permanen. Memahami teknologi ini adalah langkah pertama untuk menjadi konsumen digital yang lebih sadar dan berdaya dalam mengelola privasi pribadi.

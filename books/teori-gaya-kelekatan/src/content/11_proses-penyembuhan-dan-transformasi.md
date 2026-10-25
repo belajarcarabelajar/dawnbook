@@ -19,7 +19,7 @@ Bayangkan dirimu seperti sebuah rumah tua yang memiliki fondasi yang retak karen
 Caranya bisa dimulai dengan:
 
 - **Memvalidasi emosi sendiri**: Alih-alih mengabaikan rasa takut atau cemas, cobalah berbicara ramah pada diri sendiri, misalnya: *"Aku mengerti mengapa kamu merasa takut saat ini. Perasaanmu sangat wajar, dan aku akan selalu menemanimu."*
-- **Membangun konsistensi tindakan**: Mulailah dengan rutinitas perawatan diri yang sederhana namun konsisten, guna membuktikan kepada dirimu sendiri bahwa kamu adalah sosok yang bisa diandalkan.
+- **Membangun konsistensi tindakan**: Mulailah dengan rutinitas perawatan diri yang sederhana tetapi konsisten, guna membuktikan kepada dirimu sendiri bahwa kamu adalah sosok yang bisa diandalkan.
 
 ## 2. Menantang Narasi Negatif (Cognitive Reframing)
 
@@ -40,7 +40,7 @@ $$
 Contoh penerapannya dalam kehidupan sehari-hari:
 
 - **Pikiran Otomatis**: *"Dia tidak membalas pesanku selama dua jam, dia pasti sudah bosan denganku."*
-- **Bukti Penantang**: *"Dia sedang sibuk bekerja siang ini. Lagipula, kemarin dia bilang sangat menikmati waktu kebersamaan kami."*
+- **Bukti Penantang**: *"Dia sedang sibuk bekerja siang ini. Lagi pula, kemarin dia bilang sangat menikmati waktu kebersamaan kami."*
 - **Narasi Baru**: *"Keterlambatan membalas pesan tidak menentukan harga diriku maupun stabilitas hubungan kami."*
 
 ## 3. Membangun Batasan yang Sehat (Boundaries)
@@ -57,11 +57,11 @@ Batasan yang sehat bekerja layaknya pagar dengan gerbang yang bisa dikunci. Kamu
 2. **Gunakan komunikasi yang lugas**: Sampaikan keinginanmu dengan fokus pada perasaanmu sendiri. Sebagai contoh: *"Aku merasa kewalahan jika kita langsung membahas masalah berat begitu aku pulang kerja. Bisakah kita membicarakannya setelah makan malam?"*
 3. **Tegakkan konsekuensi**: Batasan yang tidak disertai dengan konsekuensi nyata hanyalah sebatas saran yang mudah diabaikan.
 
-Banyak orang merasa bersalah saat menolak permintaan orang lain atau berkata tidak. Rasa bersalah ini sebenarnya merupakan sisa-sisa dari pola kelekatan lama, di mana kamu merasa harus selalu mengalah dan mengabaikan kenyamanan pribadi demi mempertahankan keharmonisan hubungan.
+Banyak orang merasa bersalah saat menolak permintaan orang lain atau berkata tidak. Rasa bersalah ini sebenarnya merupakan sisa-sisa dari pola kelekatan lama, ketika kamu merasa harus selalu mengalah dan mengabaikan kenyamanan pribadi demi mempertahankan keharmonisan hubungan.
 
 ## 4. Regulasi Emosi
 
-Karena gaya kelekatan berakar pada aspek neurobiologis, pemulihannya perlu melibatkan tubuh secara langsung. Ketika kamu merasa terpicu (*triggered*), sistem sarafmu otomatis masuk ke mode *fight-or-flight* (lawan atau lari).
+Karena gaya kelekatan juga melibatkan aspek neurobiologis, pemulihannya perlu melibatkan tubuh secara langsung. Ketika kamu merasa terpicu (*triggered*), sistem sarafmu otomatis masuk ke mode *fight-or-flight* (lawan atau lari).
 
 ### Teknik "Grounding" 5-4-3-2-1
 

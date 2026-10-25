@@ -14,7 +14,7 @@ Bagi Sartre, manusia bukan sekadar apa yang ia bayangkan tentang dirinya, melain
 
 ### 2. Konsepsi *Mauvaise Foi* (Iktikad Buruk)
 
-Kebalikan dari otentisitas adalah iktikad buruk (*mauvaise foi* / *bad faith*), yakni kondisi penipuan diri (*self-deception*) di mana kesadaran berpura-pura tidak memiliki pilihan demi menghindari beban kecemasan (*Angst*) yang inheren dalam kebebasan.
+Kebalikan dari otentisitas adalah iktikad buruk (*mauvaise foi* / *bad faith*), yakni kondisi penipuan diri (*self-deception*) ketika kesadaran berpura-pura tidak memiliki pilihan demi menghindari beban kecemasan (*Angst*) yang inheren dalam kebebasan.
 
 Ketiadaan fondasi metafisik absolut kerap memicu disorientasi eksistensial. Sebagai mekanisme pertahanan psikologis, individu kerap mengadopsi narasi bahwa tindakannya sepenuhnya didikte oleh determinisme situasi atau keharusan peran sosial.
 
@@ -56,9 +56,9 @@ $$
 
 ### 4. Membandingkan Sikap Otentik dan Iktikad Buruk
 
-| Parameter Evaluasi | Sikap Otentisitas | Modus Iktikad Buruk (*Mauvaise Foi*) |
+| Parameter Evaluasi | Sikap Otentik | Modus Iktikad Buruk (*Mauvaise Foi*) |
 | :--- | :--- | :--- |
-| **Respon terhadap Kebebasan** | Merangkul kebebasan dan memikul risiko pilihan | Menolak kebebasan demi kenyamanan kepatuhan |
+| **Respons terhadap Kebebasan** | Merangkul kebebasan dan memikul risiko pilihan | Menolak kebebasan demi kenyamanan kepatuhan |
 | **Konstruksi Identitas** | Membentuk esensi melalui praksis tindakan sadar | Membekukan diri ke dalam peran dan label statis |
 | **Perlakuan atas Faktisitas** | Menjadikan batasan objektif sebagai titik tolak | Menjadikan batasan objektif sebagai alibi kepasrahan |
 | **Akuntabilitas Moral** | Mengakui kedaulatan pilihan subjek | Menyalahkan determinisme lingkungan dan takdir |

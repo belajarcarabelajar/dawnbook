@@ -6,13 +6,13 @@ Ketangguhan bukan berarti kamu tidak pernah merasa lelah atau stres; ketangguhan
 
 ### 1. Biologi Stres
 
-Stres seringkali dianggap sebagai musuh, padahal secara biologis, stres adalah mekanisme pertahanan hidup. Saat menghadapi tantangan, tubuh kita mengaktifkan *Sympathetic Nervous System* (sistem saraf simpatik) yang melepaskan hormon **Kortisol** dan **Adrenalin**.
+Stres sering kali dianggap sebagai musuh, padahal secara biologis, stres adalah mekanisme pertahanan hidup. Saat menghadapi tantangan, tubuh kita mengaktifkan *Sympathetic Nervous System* (sistem saraf simpatik) yang melepaskan hormon **kortisol** dan **adrenalin**.
 
 Dalam dosis kecil, ini disebut sebagai **Eustress** (stres positif) yang membantu kita tetap fokus dan waspada. Namun, jika terjadi terus-menerus, ia berubah menjadi **Distress** yang merusak sel tubuh dan menurunkan fungsi kognitif.
 
-> **Insight:** Resiliensi tidak dibangun dengan menghindari stres, tetapi dengan memperpendek durasi respons stres and mempercepat aktivasi *Parasympathetic Nervous System* (sistem saraf parasimpatik) yang bertanggung jawab untuk *rest and digest* (istirahat dan cerna).
+> **Insight:** Resiliensi tidak dibangun dengan menghindari stres, tetapi dengan memperpendek durasi respons stres dan mempercepat aktivasi *Parasympathetic Nervous System* (sistem saraf parasimpatik) yang bertanggung jawab untuk *rest and digest* (istirahat dan cerna).
 
-*Kapan terakhir kali kamu merasa stres namun justru merasa produktif? Dan kapan stres tersebut mulai terasa melumpuhkan?*
+*Kapan terakhir kali kamu merasa stres tetapi justru merasa produktif? Dan kapan stres tersebut mulai terasa melumpuhkan?*
 
 ### 2. Teknik "Grounding" dan Pernapasan
 
@@ -41,11 +41,11 @@ Teknik ini memaksa otakmu kembali ke saat ini (*present moment*) dan menghentika
 
 ### 3. Lebih dari Sekadar Tidur
 
-Banyak orang mengira bahwa istirahat hanyalah tidur. Namun, pemulihan energi mencakup beberapa dimensi. Dr. Saundra Dalton-Smith mengidentifikasi bahwa manusia membutuhkan setidaknya tiga jenis istirahat utama untuk menjaga resiliensi:
+Banyak orang mengira bahwa istirahat hanyalah tidur. Namun, pemulihan energi mencakup beberapa dimensi. Dr. Saundra Dalton-Smith mengidentifikasi bahwa manusia membutuhkan tujuh jenis istirahat untuk menjaga resiliensi, tiga di antaranya:
 
 - **Istirahat Mental:** Melakukan "Brain Dump" (menuliskan semua beban pikiran di kertas) sebelum tidur agar otak tidak terus memproses informasi di malam hari.
-- **Istirahat Sensorik:** Mematikan semua layar (HP, Laptop) dan menjauh dari kebisingan selama minimal 30 menit sehari untuk menetralisir rangsangan berlebih.
-- **Istirahat Emosional:** Memiliki ruang di mana kamu bisa menjadi diri sendiri secara autentik tanpa harus "berakting" kuat di depan orang lain.
+- **Istirahat Sensorik:** Mematikan semua layar (HP, laptop) dan menjauh dari kebisingan selama minimal 30 menit sehari untuk menetralkan rangsangan berlebih.
+- **Istirahat Emosional:** Memiliki ruang tempat kamu bisa menjadi diri sendiri secara autentik tanpa harus "berakting" kuat di depan orang lain.
 
 **Penting:** Kualitas tidur tetap menjadi fondasi utama. Gunakan rumus $10-3-2-1-0$ untuk higiene tidur yang optimal:
 
@@ -53,7 +53,7 @@ Banyak orang mengira bahwa istirahat hanyalah tidur. Namun, pemulihan energi men
 - **3 jam sebelum tidur:** Tidak ada makanan berat atau alkohol.
 - **2 jam sebelum tidur:** Berhenti bekerja.
 - **1 jam sebelum tidur:** Tidak ada waktu layar (*blue light*).
-- **0:** Berapa kali kamu menekan tombol *snooze* di pagi hari.
+- **0:** Tidak menekan tombol *snooze* di pagi hari.
 
 ### 4. Mindfulness dalam Keseharian
 
@@ -67,7 +67,7 @@ Mindfulness bukan berarti duduk diam selama berjam-jam dalam meditasi. Mindfulne
 
 - **Pendekatan Kurang Tepat:** Bekerja 18 jam nonstop, mengonsumsi 5 cangkir kopi, dan tidur hanya 3 jam. Hasilnya: Kesalahan fatal di jam-jam terakhir karena kelelahan kognitif.
 - **Pendekatan Resilien (Strategi Pemulihan Energi):**
-	1. **Metode Pomodoro:** Bekerja 50 menit, istirahat 10 menit (Istirahat Mental).
+	1. **Metode Pomodoro:** Bekerja 25 menit, istirahat 5 menit (Istirahat Mental).
 	2. **Strategic Nap:** Tidur siang selama 20 menit untuk menyegarkan memori kognitif.
 	3. **High-Protein Fuel:** Memilih makanan yang menjaga stabilitas gula darah, bukan lonjakan gula dari camilan manis.
 

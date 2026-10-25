@@ -22,7 +22,7 @@ Untuk memahami bagaimana heuristik bekerja, kita perlu melihat model **Sistem 1 
 - **Sistem 1 (Cepat & Intuitif):** Beroperasi secara otomatis, sangat cepat, tanpa usaha sadar, dan emosional. Heuristik tinggal di sini.
 - **Sistem 2 (Lambat & Analitis):** Membutuhkan perhatian penuh, usaha mental yang berat, dan logika. Ini adalah mode "berpikir kritis".
 
-Karena Sistem 2 mengonsumsi banyak energi (glukosa), otak cenderung mendelegasikan sebanyak mungkin tugas ke Sistem 1.
+Karena Sistem 2 menuntut banyak usaha mental, otak cenderung mendelegasikan sebanyak mungkin tugas ke Sistem 1.
 
 **Analogi Baterai Smartphone:** Pikirkan Sistem 2 sebagai aplikasi berat yang menguras baterai (seperti game 3D), sedangkan Sistem 1 adalah fungsi dasar telepon. Untuk menghemat baterai sepanjang hari, smartphone kamu akan berusaha mematikan aplikasi berat dan menjalankan fungsi-fungsi sederhana saja.
 
@@ -40,7 +40,7 @@ Ketika kita dihadapkan pada pertanyaan yang kompleks (Atribut Target), otak kita
 
 Secara matematis, kita bisa memahaminya sebagai fungsi penyederhanaan: $f(x)\_{\text{kompleks}} \approx g(x)\_{\text{sederhana}}$
 
-Di mana $g(x)$ memberikan jawaban yang "cukup baik" untuk situasi sehari-hari, tetapi secara statistik bisa sangat meleset dari $f(x)$.
+Dalam hal ini, $g(x)$ memberikan jawaban yang "cukup baik" untuk situasi sehari-hari, tetapi secara statistik bisa sangat meleset dari $f(x)$.
 
 ## 4\. Dari Heuristik Menuju Bias
 
@@ -48,9 +48,9 @@ Heuristik menjadi **Bias Kognitif** ketika jalan pintas tersebut menyebabkan kes
 
 Jika heuristik adalah "alat", maka bias adalah "cacat produksi" yang muncul akibat penggunaan alat tersebut di situasi yang salah. Ada tiga alasan utama mengapa heuristik bisa menyesatkan:
 
-1. **Akurasi vs. Kecepatan:** Kita seringkali lebih memprioritaskan "selesai" daripada "tepat".
-2. **Keterbatasan Data:** Heuristik hanya bekerja berdasarkan informasi yang ada di ingatan jangka pendek atau yang paling mencolok secara emosional.
-3. **Konteks yang Tidak Relevan:** Menggunakan insting "lawan atau lari" di zaman purba untuk mengambil keputusan finansial modern di pasar saham.
+1. **Akurasi vs. Kecepatan:** Kita sering kali lebih memprioritaskan "selesai" daripada "tepat".
+2. **Keterbatasan Data:** Heuristik hanya bekerja berdasarkan informasi yang mudah diingat atau yang paling mencolok secara emosional.
+3. **Konteks yang Tidak Relevan:** Menggunakan insting "lawan atau lari" dari zaman purba untuk mengambil keputusan finansial modern di pasar saham.
 
 ## 5\. Heuristik dalam Dunia Teknik & Bisnis
 
@@ -68,13 +68,13 @@ Secara umum, perbedaan antara jalan pintas dan analisis mendalam bisa diringkas 
 
 Meskipun kita tidak bisa menghapus heuristik dari otak kita, kita bisa belajar untuk melakukan "intervensi manual".
 
-- **Identifikasi Momen Penting:** Gunakan Sistem 2 hanya pada keputusan yang memiliki dampak besar (karir, keuangan, hubungan). Jangan habiskan energi untuk memilih menu makan siang.
-- **Gunakan "Checklist":** Checklist adalah cara paksa untuk menarik otak dari mode heuristik (Sistem 1) ke mode prosedural (Sistem 2).
+- **Identifikasi Momen Penting:** Gunakan Sistem 2 hanya pada keputusan yang memiliki dampak besar (karier, keuangan, hubungan). Jangan habiskan energi untuk memilih menu makan siang.
+- **Gunakan "Checklist":** Checklist adalah cara paksa untuk menarik otak dari mode heuristik (Sistem 1) ke mode analitis (Sistem 2).
 - **Pre-Mortem:** Sebelum mengambil keputusan, bayangkan di masa depan keputusan itu gagal total. Tanyakan, "Apa yang menyebabkannya?". Ini memaksa otak mencari data yang biasanya diabaikan oleh heuristik.
 
 ## Kapan Perlu Berpikir Lebih Dalam
 
-Heuristik adalah alat efisiensi yang memungkinkan manusia berfungsi di dunia yang penuh informasi. Tanpa mereka, kita akan lumpuh oleh analisis. Namun, dengan memahami bahwa "jalan pintas" ini ada, kita bisa lebih waspada kapan harus menginjak rem dan mulai berpikir lebih dalam sebelum mengambil kesimpulan.
+Heuristik adalah alat efisiensi yang memungkinkan manusia berfungsi di dunia yang penuh informasi. Tanpa heuristik, kita akan lumpuh oleh analisis. Namun, dengan memahami bahwa "jalan pintas" ini ada, kita bisa lebih waspada kapan harus menginjak rem dan mulai berpikir lebih dalam sebelum mengambil kesimpulan.
 
 *Coba ingat satu keputusan besar yang kamu ambil dalam seminggu terakhir. Apakah kamu benar-benar menganalisis semua data, ataukah kamu hanya mengikuti "perasaan" (yang sebenarnya adalah substitusi atribut)?*
 

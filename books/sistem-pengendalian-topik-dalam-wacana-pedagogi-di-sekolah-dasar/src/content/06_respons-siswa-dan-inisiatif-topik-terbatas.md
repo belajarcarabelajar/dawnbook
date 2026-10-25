@@ -14,7 +14,7 @@ Tabel berikut menggambarkan distribusi dan pola inisiatif pembukaan topik oleh s
 | **Teks 7 (Menanam Ubi Kayu)** | *Bu* |
 | **Teks 9 (Memerankan Naskah Drama)** | *Pak* |
 
-> **Catatan Pedagogis**: Penggunaan kata sapaan oleh siswa merupakan satu-satunya sarana formal yang dianggap sopan oleh siswa untuk memutus alur wacana guru. Namun, frekuensi penggunaan yang kecil menegaskan bahwa otoritas pembukaan topik masih sepenuhnya dipegang oleh guru.
+> **Catatan Pedagogis**: Penggunaan kata sapaan oleh siswa merupakan sarana formal utama yang dianggap sopan oleh siswa untuk memutus alur wacana guru. Namun, frekuensi penggunaan yang kecil menegaskan bahwa otoritas pembukaan topik masih didominasi oleh guru.
 
 ### Dinamika Kata Sapaan dan Pemanggilan Berulang
 
@@ -30,7 +30,7 @@ Lihat petikan interaksi pada pementasan naskah drama (Teks 9) berikut:
 
 *(Dikutip dan diolah dari Kutipan Teks 9, Memerankan Naskah Drama, dalam Marliana, 2017)*
 
-Pada contoh di atas, siswa S2 perlu memanggil *"Pak, pak, bapak"* hingga tiga kali untuk memastikan guru mengalihkan perhatian dan merespons pertanyaannya. Jika kamu mengamati interaksi kelas, pemanggilan berulang ini menunjukkan adanya kecemasan siswa akan diabaikan oleh guru.
+Pada contoh di atas, siswa S2 perlu memanggil *"Pak, pak, bapak"* hingga tiga kali untuk memastikan guru mengalihkan perhatian dan merespons pertanyaannya. Jika kamu mengamati interaksi kelas, pemanggilan berulang ini menunjukkan upaya siswa agar tidak diabaikan oleh guru.
 
 ### Fenomena Pengabaian Respons dan Ketimpangan Otoritas
 

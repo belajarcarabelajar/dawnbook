@@ -20,7 +20,7 @@ Anggap *utility* sebagai seberapa kuat tarikan sebuah tugas terasa bagimu saat i
 - **T - t**: jeda waktu sampai hadiah atau hasilnya benar-benar kamu terima.
 - **Z**: konstanta agar hasil hitungan tidak meledak ketika jeda mendekati nol.
 
-Pembilang berisi hal yang menarikmu maju, penyebut berisi hal yang menggerus tarikan itu karena hasilnya terlalu jauh. Persamaan ini juga punya fitur keempat yang tidak kita bahas rinci di sini: kerugian dan keuntungan diperlakukan dengan fungsi yang berbeda.
+Pembilang berisi hal yang menarikmu maju, penyebut berisi hal yang menggerus tarikan itu karena hasilnya terlalu jauh. Persamaan ini juga punya fitur lain yang tidak kita bahas rinci di sini: kerugian dan keuntungan diperlakukan dengan fungsi yang berbeda.
 
 Kamu mungkin pernah menemukan versi populer: Motivation = (Expectancy x Value) / (Impulsiveness x Delay). Anggap itu penyederhanaan yang beredar luas, bukan rumus dari makalah Steel dan König. Bentuk aslinya memakai penyebut Z + Gamma(T - t), dan perbedaan itu tidak sepele bagi siapa pun yang ingin mengutipnya dengan benar.
 
@@ -35,7 +35,7 @@ Empat unsur tadi bisa dibaca sebagai tuas. Contoh di kolom kanan adalah ilustras
 | Impulsivitas (Gamma) | Dorongan melemah, karena penundaan lebih terasa | Dorongan menguat | Notifikasi ponsel mudah menyeretmu dari pekerjaan ke hiburan |
 | Jeda (T - t) | Dorongan melemah | Dorongan menguat | Hasil baru tampak berbulan-bulan lagi, jadi tidak terasa mendesak |
 
-Dua tuas pertama bekerja di pembilang, dua tuas terakhir di penyebut. Satu tuas yang jatuh ke nol bisa meruntuhkan seluruh hasil. Kalau kamu sama sekali tidak percaya usahamu akan berguna, nilai setinggi apa pun tidak banyak menolong.
+Dua tuas pertama bekerja di pembilang, dua tuas terakhir di penyebut. Satu tuas di pembilang yang jatuh ke nol bisa meruntuhkan seluruh hasil. Kalau kamu sama sekali tidak percaya usahamu akan berguna, nilai setinggi apa pun tidak banyak menolong.
 
 ### Kenapa tenggat menarik motivasi
 

@@ -23,8 +23,8 @@ Peneliti AWK memiliki komitmen etis untuk **emansipasi**, yaitu upaya membebaska
 | **Definisi Objektivitas** | Bebas dari bias personal | Transparansi posisi & ketepatan bukti tekstual |
 | **Tujuan Akhir** | Deskripsi dan eksplanasi fenomena | Transformasi sosial dan praksis penegakan hukum |
 
-> **Analogi Pendaki dan Peta**
-> Bayangkan sebuah hutan (sistem hukum) di mana jalan setapak hanya dibuat untuk kendaraan besar (penguasa), sementara pejalan kaki (kaum marginal) harus bersusah payah di semak belukar. Peneliti tradisional mungkin hanya memetakan jalan tersebut. Peneliti AWK akan bertanya: *"Siapa yang membuat jalan ini? Mengapa pejalan kaki diabaikan? Dan di mana trotoar harus dibangun?"*
+> **Analogi Hutan dan Jalan Setapak**
+> Bayangkan sebuah hutan (sistem hukum) tempat jalan setapak hanya dibuat untuk kendaraan besar (penguasa), sementara pejalan kaki (kaum marginal) harus bersusah payah di semak belukar. Peneliti tradisional mungkin hanya memetakan jalan tersebut. Peneliti AWK akan bertanya: *"Siapa yang membuat jalan ini? Mengapa pejalan kaki diabaikan? Dan di mana trotoar harus dibangun?"*
 
 #### Komitmen terhadap Subjek Penelitian
 
@@ -57,7 +57,7 @@ AWK tidak berhenti pada laporan penelitian. Tujuan akhirnya adalah **Praksis**, 
 
 Hasil analisis wacana dapat digunakan untuk mendorong perubahan konkret dalam sistem peradilan pidana melalui:
 
-1. **Litigasi Strategis:** Menggunakan temuan AWK sebagai saksi ahli di persidangan untuk menunjukkan adanya bias bahasa dalam berita acara pemeriksaan (BAP).
+1. **Litigasi Strategis:** Menyampaikan temuan AWK sebagai saksi ahli di persidangan untuk menunjukkan adanya bias bahasa dalam berita acara pemeriksaan (BAP).
 2. **Perubahan Kebijakan (*Policy Brief*):** Menyarankan penghapusan istilah-istilah stigmatis dalam undang-undang yang mengkriminalisasi kelompok rentan.
 3. **Edukasi Publik:** Mengubah cara media massa membingkai isu kejahatan agar tidak menciptakan kepanikan moral.
 
@@ -71,7 +71,7 @@ I = (A \times K) + P
 $$
 </div>
 
-Di mana:
+Keterangan:
 
 * $I$: $\text{Impact}$ (Dampak Reformasi)
 * $A$: $\text{Accuracy}$ (Akurasi Analisis Linguistik)
@@ -122,8 +122,6 @@ Pada akhirnya, tujuan kriminologi kritis bukan hanya memahami dunia, tetapi meng
 
 ### 6. Linguistik Forensik dan Sidik Jari Linguistik
 
-Linguistik forensik adalah cabang ilmu bahasa terapan yang menggunakan analisis bahasa untuk kepentingan hukum dan investigasi kriminal. Seorang peneliti tidak sekadar mencari sidik jari pada benda fisik, melainkan **sidik jari linguistik** yang tertinggal dalam susunan kalimat, pilihan kata, hingga tanda baca.
-
 Dalam kriminologi, bahasa dianggap sebagai manifestasi perilaku. Berikut adalah pilar utama bagaimana kata-kata menjadi alat bukti:
 
 #### 1. Idiolek dan Ciri Tulisan Individu
@@ -152,7 +150,7 @@ Dalam kriminologi, pembedaan antara ancaman nyata dan luapan emosi dilakukan den
 Dalam praktik kriminologi dan analisis hukum, penerapan linguistik forensik diuji melalui berbagai dinamika pembuktian:
 
 #### A. Kebiasaan Bawah Sadar yang Sulit Dipalsukan
-Saat pelaku kejahatan siber mencoba meniru gaya penulisan individu lain, elemen bahasa yang paling sulit dipalsukan secara konsisten adalah kebiasaan bawah sadar (*unconscious linguistic habits*), seperti frekuensi penempatan koma, penggunaan kata hubung, dan pola mikrosintaksis.
+Saat pelaku kejahatan siber mencoba meniru gaya penulisan individu lain, elemen bahasa yang cenderung sulit dipalsukan secara konsisten adalah kebiasaan bawah sadar (*unconscious linguistic habits*), seperti frekuensi penempatan koma, penggunaan kata hubung, dan pola mikrosintaksis.
 
 #### B. Dinamika Teks Digital
 Di era media sosial dan pesan instan, pesan sering kali singkat dan memuat simbol visual non-verbal. Peneliti linguistik forensik memanfaatkan pola konsistensi pemakaian simbol visual dan variasi ejaan non-standar sebagai indikator identifikasi tambahan.
@@ -170,6 +168,6 @@ Kombinasi penggunaan istilah teknis medis yang presisi dengan tata bahasa yang t
 
 ### Yang Perlu Kamu Ingat tentang Etika AWK
 
-Etika dalam Analisis Wacana Kritis bukan sekadar tentang mengisi formulir persetujuan penelitian (*informed consent*). Etika adalah tentang **keberanian moral** untuk menunjukkan bahasa yang melindungi ketidakadilan. Sebagai peneliti kriminologi, kata-kata adalah alat advokasi untuk mengurangi stigma dan mendorong sistem hukum yang lebih manusiawi dan berkeadilan.
+Etika dalam Analisis Wacana Kritis bukan sekadar tentang mengisi formulir persetujuan penelitian (*informed consent*). Etika adalah tentang **keberanian moral** untuk menunjukkan bahasa yang melindungi ketidakadilan. Bagi peneliti kriminologi, kata-kata adalah alat advokasi untuk mengurangi stigma dan mendorong sistem hukum yang lebih manusiawi dan berkeadilan.
 
 Peneliti perlu terus memeriksa dan berefleksi mengenai siapa yang diuntungkan dari penyusunan narasi serta penulisan hasil penelitian yang dihasilkan.

@@ -4,18 +4,18 @@ Proses pergeseran makna amelioratif mengangkat nilai rasa kata menjadi lebih ter
 
 Sejumlah kosakata yang pada masa lampau dianggap biasa atau bernilai rasa rendah, seiring berjalannya waktu memperoleh penghormatan khusus dan dilembagakan dalam ranah resmi. Perkembangan ini dapat ditelusuri melalui beberapa studi kasus utama berikut.
 
-### 1. Perjalanan Kata 'Wanita' dari Sansekerta ke Status Sosial
+### 1. Perjalanan Kata 'Wanita' dari Sanskerta ke Status Sosial
 
 Salah satu contoh klasik ameliorasi dalam bahasa Indonesia tampak pada penggunaan kata **wanita**. Untuk memahami peningkatan nilai rasanya, kata ini perlu diperbandingkan dengan kata **perempuan**.
 
-**Latar Belakang Sejarah:** Secara etimologis, kata *wanita* diserap dari bahasa Sansekerta *vanita*, yang bermakna "yang diinginkan" atau "dicintai". Sementara itu, kata *perempuan* berakar dari kata dasar *empu*, yang bermakna "tuan", "orang yang pandai", "kepala", atau "pemilik".
+**Latar Belakang Sejarah:** Secara etimologis, kata *wanita* diserap dari bahasa Sanskerta *vanita*, yang bermakna "yang diinginkan" atau "dicintai". Sementara itu, kata *perempuan* berakar dari kata dasar *empu*, yang bermakna "tuan", "orang yang pandai", "kepala", atau "pemilik".
 
 Kendati secara etimologis kata *perempuan* memiliki landasan makna yang kuat (seperti pada bentuk *puan* atau *mampu*), dinamika sosiopolitik pada masa Orde Baru melahirkan pergeseran nilai rasa:
 
 - **Perempuan** pada masa itu kerap diasosiasikan dengan gerakan politik tertentu dan dipersepsikan terlalu menitikberatkan aspek biologis.
 - **Wanita** diangkat sebagai kosakata resmi yang dinilai lebih halus, anggun, dan berkelas, sehingga diprioritaskan dalam tata persuratan formal, organisasi kemasyarakatan, dan forum kenegaraan.
 
-> **Catatan Historis:** Ameliorasi kerap digerakkan oleh kebijakan politik institusional dan konvensi kesopanan pada zamannya. Pembentukan organisasi kenegaraan seperti Kongres Wanita Indonesia (KOWANI) memperkokoh posisi amelioratif kata tersebut pada era kepemimpinan terkait.
+> **Catatan Historis:** Ameliorasi kerap digerakkan oleh kebijakan politik institusional dan konvensi kesopanan pada zamannya. Keberadaan organisasi seperti Kongres Wanita Indonesia (KOWANI) turut memperkokoh posisi amelioratif kata tersebut.
 
 ### 2. Kata 'Pramuniaga' sebagai Eufemisme yang Melembaga
 
@@ -27,7 +27,7 @@ Guna mengangkat harkat profesi tersebut, disusunlah istilah serapan **pramuniaga
 
 ### 3. Istilah Berprefiks 'Tuna-'
 
-Dalam sistem tata bahasa Indonesia, pemanfaatan prefiks **tuna-** (serapan bahasa Jawa Kuno/Sansekerta yang bermakna rugi, kekurangan, atau tidak memiliki) merupakan contoh ameliorasi berskala luas yang berlandaskan empati sosial dan penghormatan kemanusiaan.
+Dalam sistem tata bahasa Indonesia, pemanfaatan prefiks **tuna-** (serapan bahasa Jawa Kuno/Sanskerta yang bermakna rugi, kekurangan, atau tidak memiliki) merupakan contoh ameliorasi berskala luas yang berlandaskan empati sosial dan penghormatan kemanusiaan.
 
 | Kosakata Lama (Netral/Kasar) | Kosakata Baru (Amelioratif) | Perubahan Nilai Rasa |
 | :--- | :--- | :--- |
@@ -43,8 +43,8 @@ Perubahan istilah di atas ditetapkan secara terencana oleh lembaga bahasa dan pe
 
 Dalam ranah percakapan santai sehari-hari, kedua kata ini mungkin digunakan secara bergantian. Namun, dalam laras bahasa formal dan tulisan resmi, **istri** menempati posisi amelioratif yang mapan.
 
-- **Bini:** Tergolong ragam nonformal atau vernakular yang bernuansa percakapan akrab, namun terasa kurang pantas bila dipakai dalam forum resmi kenegaraan.
-- **Istri:** Diserap dari bahasa Sansekerta *stri*, memberikan nilai rasa yang terhormat, anggun, dan berkesan sah secara hukum tata negara maupun keagamaan.
+- **Bini:** Tergolong ragam nonformal atau vernakular yang bernuansa percakapan akrab, tetapi terasa kurang pantas bila dipakai dalam forum resmi kenegaraan.
+- **Istri:** Diserap dari bahasa Sanskerta *stri*, memberikan nilai rasa yang terhormat, anggun, dan berkesan sah secara hukum maupun agama.
 
 Perbedaan nilai rasa ini menunjukkan bahwa pemilihan kosakata tidak hanya bertumpu pada kesamaan arti referensial, melainkan juga menuntut kesesuaian derajat kesantunan dengan laras sosial tempat tuturan berlangsung.
 

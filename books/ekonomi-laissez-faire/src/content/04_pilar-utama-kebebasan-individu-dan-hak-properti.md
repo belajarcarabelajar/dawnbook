@@ -72,12 +72,12 @@ Jika salah satu pilar ini runtuh, misalnya ketika pemerintah tiba-tiba membatasi
 
 Di era modern, prinsip Laissez-faire tentang hak properti meluas ke dunia digital.
 
-**Skenario Pengembangan Software Open Source vs. Komersial**
+**Skenario Software Komersial dan Ekosistem Freelance**
 
-- **Software Komersial:** Perusahaan seperti Microsoft atau Adobe sangat bergantung pada hak kekayaan intelektual (sebuah bentuk hak properti). Keamanan hukum bahwa kode mereka tidak boleh dibajak memungkinkan mereka menginvestasikan miliaran dolar untuk riset dan pengembangan.
-- **Ekosistem Freelance:** Platform seperti Upwork atau Fiverr adalah perwujudan modern dari kebebasan berkontrak. Individu dari Indonesia bisa membuat kontrak kerja dengan perusahaan di Amerika Serikat. Keberhasilan sistem ini bergantung pada kepastian bahwa kontrak akan dibayar dan hasil kerja (properti intelektual) akan berpindah tangan secara sah.
+- **Software Komersial:** Perusahaan seperti Microsoft atau Adobe sangat bergantung pada hak kekayaan intelektual (sebuah bentuk hak properti). Kepastian hukum bahwa kode mereka tidak boleh dibajak memungkinkan mereka menginvestasikan miliaran dolar untuk riset dan pengembangan.
+- **Ekosistem Freelance:** Platform seperti Upwork atau Fiverr adalah perwujudan modern dari kebebasan berkontrak. Individu dari Indonesia bisa membuat kontrak kerja dengan perusahaan di Amerika Serikat. Keberhasilan sistem ini bergantung pada kepastian bahwa pekerjaan akan dibayar sesuai kontrak dan hasil kerja (kekayaan intelektual) akan berpindah tangan secara sah.
 
-**Contoh Kasus:** Negara-negara yang memiliki indeks perlindungan hak properti yang kuat (seperti Singapura atau Swiss) secara konsisten menunjukkan tingkat inovasi dan pendapatan per kapita yang jauh lebih tinggi dibandingkan negara dengan perlindungan properti yang lemah. Hal ini membuktikan bahwa ketika individu merasa aman dengan apa yang mereka miliki, mereka menjadi jauh lebih produktif.
+**Contoh Kasus:** Negara-negara yang memiliki indeks perlindungan hak properti yang kuat (seperti Singapura atau Swiss) secara konsisten menunjukkan tingkat inovasi dan pendapatan per kapita yang jauh lebih tinggi dibandingkan negara dengan perlindungan properti yang lemah. Hal ini menunjukkan adanya keterkaitan antara rasa aman atas kepemilikan dan produktivitas.
 
 ### Rangkuman Visual untuk Pembelajaran
 
@@ -86,4 +86,4 @@ Di era modern, prinsip Laissez-faire tentang hak properti meluas ke dunia digita
 | **Hak Properti** | Kepemilikan eksklusif & perlindungan aset | Mendorong investasi jangka panjang dan perawatan sumber daya. |
 | **Kebebasan Berkontrak** | Pertukaran sukarela tanpa paksaan | Menciptakan harga yang efisien dan alokasi sumber daya yang optimal. |
 
-> **Insight Penutup:** Kebebasan individu dalam Laissez-faire bukan berarti kebebasan untuk melakukan segalanya (anarki), melainkan kebebasan untuk bertindak di dalam ruang lingkup kepemilikan sendiri dan melalui kesepakatan damai dengan orang lain. Inilah yang oleh para ekonom dianggap sebagai "koordinasi tanpa komando."
+> **Insight Penutup:** Kebebasan individu dalam Laissez-faire bukan berarti kebebasan untuk melakukan segalanya (anarki), melainkan kebebasan untuk bertindak di dalam ruang lingkup kepemilikan sendiri dan melalui kesepakatan damai dengan orang lain. Inilah yang oleh sebagian ekonom dianggap sebagai "koordinasi tanpa komando."

@@ -4,7 +4,7 @@ Mari mulai perjalanan mengenali filosofi Jepang tentang menemukan makna: Ikigai.
 
 ### Apa Itu Ikigai?
 
-Ikigai (生き甲斐) adalah konsep yang secara harfiah dapat diterjemahkan sebagai "alasan keberadaan" atau "alasan bangun di pagi hari". Filosofi ini berpusat pada penemuan tujuan yang membuat kamu merasa hidup layak dijalani. Alih-alih berfokus pada kebahagiaan sesaat, Ikigai menuntun kita pada kepuasan batin lewat apa yang kita kerjakan.
+Ikigai (生き甲斐) adalah konsep yang sering diartikan sebagai "alasan keberadaan" atau "alasan bangun di pagi hari". Filosofi ini berpusat pada penemuan tujuan yang membuat kamu merasa hidup layak dijalani. Alih-alih berfokus pada kebahagiaan sesaat, Ikigai menuntun kita pada kepuasan batin lewat apa yang kita kerjakan.
 
 > Ikigai sangat erat kaitannya dengan *mengapa* kamu melakukan suatu hal, serta bagaimana hal tersebut menghubungkanmu dengan dunia di sekitar.
 
@@ -18,11 +18,11 @@ Pola pikir ini sudah melekat dalam budaya Jepang. Bukti paling terkenal ada di O
 
 ### Relevansi Ikigai di Dunia Modern
 
-Di tengah rutinitas serba cepat, banyak orang merasa hampa walau sudah mencapai target materi. Di sinilah Ikigai bisa berperan sebagai penangkal *burnout*. Menyelaraskan pekerjaan dengan hasrat dan prinsip pribadi terbukti efektif menekan rasa lelah emosional. 
+Di tengah rutinitas serba cepat, banyak orang merasa hampa walau sudah mencapai target materi. Di sinilah Ikigai bisa berperan sebagai penangkal *burnout*. Menyelaraskan pekerjaan dengan hasrat dan prinsip pribadi dapat membantu menekan rasa lelah emosional. 
 
-Selain itu, orang yang memiliki pegangan tujuan biasanya lebih stabil secara mental. Tingkat stres lebih terkendali karena mereka tahu persis ke mana akan melangkah. Ikigai turut mendorong kita untuk hadir seutuhnya, entah saat sedang bekerja keras di kantor, menyalurkan hobi, maupun ketika menghabiskan waktu bersama orang terdekat.
+Selain itu, orang yang memiliki pegangan tujuan biasanya lebih stabil secara mental. Tingkat stres lebih terkendali karena mereka tahu persis ke mana akan melangkah. Ikigai turut mendorong kita untuk hadir seutuhnya, baik saat sedang bekerja keras di kantor, menyalurkan hobi, maupun ketika menghabiskan waktu bersama orang terdekat.
 
-### Pengaruhnya Terhadap Kesejahteraan Pribadi
+### Pengaruhnya terhadap Kesejahteraan Pribadi
 
 Mengenali Ikigai bermanfaat bagi dirimu dalam jangka panjang. Penerapan konsep ini sanggup mengubah cara kamu menghadapi rutinitas yang membosankan.
 

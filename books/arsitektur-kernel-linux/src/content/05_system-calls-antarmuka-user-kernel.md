@@ -21,11 +21,11 @@ Untuk melindungi sistem, CPU modern mendukung setidaknya dua mode operasi:
 
 Ketika sebuah aplikasi memanggil system call, terjadi peralihan mode (mode switch) dari User Mode ke Kernel Mode secara terkontrol.
 
-Sebagai gambaran, jika aplikasi pemutar video dapat menulis data secara langsung ke penyimpanan (disk) tanpa melalui kernel, risiko kerusakan data (data corruption) akan sangat tinggi karena tidak ada koordinasi antar-proses.
+Sebagai gambaran, jika aplikasi pemutar video dapat menulis data secara langsung ke penyimpanan (disk) tanpa melalui kernel, risiko kerusakan data (data corruption) akan sangat tinggi karena tidak ada koordinasi antarproses.
 
 ## Bagaimana System Call Bekerja? (Mekanisme Teknis)
 
-Proses pemanggilan system call melibatkan koordinasi antara software and hardware:
+Proses pemanggilan system call melibatkan koordinasi antara software dan hardware:
 
 ### 1. Penyiapan Parameter
 
@@ -119,8 +119,8 @@ Linux memiliki ratusan system call (sekitar 300 hingga 400 lebih, tergantung ver
 1. **Kontrol Proses (Process Control):** Digunakan untuk membuat proses baru dengan `fork()`, menghentikan proses dengan `exit()`, atau memuat program baru menggunakan `exec()`.
 2. **Manajemen File (File Management):** Operasi dasar berkas seperti membuka file (`open()`), membaca isi (`read()`), menulis data (`write()`), serta menutup file (`close()`).
 3. **Manajemen Perangkat (Device Management):** Mengelola hardware melalui fungsi seperti `ioctl()` untuk konfigurasi khusus, serta `read()` dan `write()` untuk transfer data perangkat.
-4. **Informasi Sistem (Information Maintenance):** Meminta data dari kernel, seperti mendapatkan ID proses aktif dengan `getpid()`, mengatur timer (`alarm()`), atau menunda eksekusi (`sleep()`).
-5. **Komunikasi (Communication):** Digunakan untuk komunikasi antar-proses (IPC), misalnya membuat saluran pipa data (`pipe()`), mengalokasikan memori bersama (`shmget()`), atau membuka koneksi jaringan (`socket()`).
+4. **Informasi Sistem (Information Maintenance):** Meminta data dari kernel, seperti mendapatkan ID proses aktif dengan `getpid()`, mengatur timer (`alarm()`), atau menunda eksekusi (`nanosleep()`).
+5. **Komunikasi (Communication):** Digunakan untuk komunikasi antarproses (IPC), misalnya membuat saluran pipa data (`pipe()`), mengalokasikan memori bersama (`shmget()`), atau membuka koneksi jaringan (`socket()`).
 
 ## Menggunakan strace untuk Menganalisis System Call
 
@@ -145,7 +145,7 @@ write(1, "file1.txt  file2.jpg  folder1\n", 30) = 30
 exit_group(0)                           = ?
 ```
 
-- `openat`: Digunakan untuk membuka berkas atau direktori (dalam contoh ini, memuat pustaka sistem `/etc/ld.so.cache`).
+- `openat`: Digunakan untuk membuka berkas atau direktori (dalam contoh ini, berkas cache pustaka `/etc/ld.so.cache`).
 - `write`: Mengirimkan output teks (daftar berkas) ke `stdout` (layar).
 - `exit_group`: Menghentikan seluruh thread dalam proses dan keluar dari program.
 

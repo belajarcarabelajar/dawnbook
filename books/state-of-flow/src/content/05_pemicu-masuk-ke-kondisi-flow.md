@@ -10,7 +10,7 @@ Secara biologis, pemicu flow bekerja dengan cara membanjiri sistem saraf kita de
 
 > **Analogi:** Jika Kondisi Flow adalah sebuah stasiun radio, maka Pemicu adalah tombol "tuning" yang membantu kamu menemukan frekuensi yang tepat sehingga suara musik terdengar jernih tanpa statis/gangguan.
 
-Terdapat sekitar 22 pemicu flow yang diidentifikasi oleh para peneliti (seperti Steven Kotler dari *Flow Research Collective*). Kita dapat mengategorikannya menjadi empat kelompok utama: **Internal, Eksternal, Kreatif, dan Sosial.**
+Terdapat sekitar 22 pemicu flow yang diidentifikasi oleh para peneliti (seperti Steven Kotler dari *Flow Research Collective*). Kita dapat mengategorikannya ke dalam beberapa kelompok. Tiga di antaranya dibahas berikut: **Internal, Eksternal, dan Sosial.**
 
 ## 1\. Pemicu Internal (Psikologis)
 
@@ -36,17 +36,13 @@ Flow membutuhkan koreksi real-time. Jika kamu tahu saat itu juga apakah tindakan
 
 ### D. Keseimbangan Tantangan vs Keterampilan
 
-Ini adalah syarat pokok flow. Tugas tersebut tidak boleh terlalu mudah (membosankan) dan tidak boleh terlalu sulit (membuat cemas). Rasio idealnya sering disebut sebagai **The 4% Rule**: tugas tersebut harus sekitar 4% di atas tingkat kemampuan kamu saat ini.
-
-$$
-\text{Tingkat Kesulitan} \approx \text{Kemampuan} + 4 \text{\%}
-$$
+Ini adalah syarat pokok flow. Tugas tersebut tidak boleh terlalu mudah (membosankan) dan tidak boleh terlalu sulit (membuat cemas). Tugas yang ideal berada sedikit di atas tingkat kemampuan kamu saat ini, cukup menantang untuk menarik perhatian tanpa membuat kamu cemas.
 
 ## 2\. Pemicu Eksternal (Lingkungan)
 
 Pemicu ini berkaitan dengan kualitas lingkungan di sekitar kamu yang dapat memaksa perhatian masuk ke saat ini.
 
-### A. Risiko yang Diperhitungkan (High Stakes)
+### A. Risiko Tinggi (High Stakes)
 
 Otak manusia berevolusi untuk memperhatikan bahaya. Risiko fisik, mental, atau bahkan sosial (seperti berbicara di depan umum) akan memicu pelepasan adrenalin yang mendorong kita masuk ke dalam flow.
 
@@ -62,10 +58,10 @@ Ini adalah keterlibatan seluruh indra. Bukan hanya berpikir, tapi merasakan. Pem
 
 ## 3\. Pemicu Sosial (Group Flow)
 
-Flow tidak hanya terjadi secara individu. Pernahkah kamu berada dalam tim di mana semua orang tampak bisa membaca pikiran satu sama lain? Itu disebut **Group Flow**.
+Flow tidak hanya terjadi secara individu. Pernahkah kamu berada dalam tim tempat semua orang tampak bisa membaca pikiran satu sama lain? Itu disebut **Group Flow**.
 
 1. **Konsentrasi Kelompok:** Seluruh anggota tim fokus pada satu tujuan kolektif.
-2. **Komunikasi Terbuka:** Umpan balik yang jujur dan cepat antar anggota.
+2. **Komunikasi Terbuka:** Umpan balik yang jujur dan cepat antaranggota.
 3. **Partisipasi yang Setara:** Setiap anggota tim memiliki keterampilan yang relevan dan berkontribusi secara nyata.
 4. **Rasa Kontrol:** Anggota tim merasa memiliki otonomi atas tugas mereka di dalam kelompok.
 
@@ -86,6 +82,6 @@ Untuk memudahkan kamu masuk ke dalam flow, kamu bisa merancang ritual sebelum be
 1. **Siapkan Ruang (Lingkungan):** Bersihkan meja, gunakan headphone *noise-canceling*.
 2. **Tentukan Target Kecil (Tujuan Jelas):** Tuliskan satu hal spesifik yang akan diselesaikan.
 3. **Tingkatkan Pertaruhan (Risiko):** Gunakan teknik seperti *Pomodoro* dengan waktu yang ketat, atau berjanjilah pada rekan kerja untuk menunjukkan hasil dalam satu jam.
-4. **Hilangkan Distorsi:** Letakkan ponsel di ruangan lain.
+4. **Hilangkan Distraksi:** Letakkan ponsel di ruangan lain.
 
 > **Ingat:** Flow bukanlah sesuatu yang bisa kamu "paksa", tetapi sesuatu yang bisa kamu "undang". Dengan menyiapkan pemicu-pemicu di atas, kamu memudahkan pikiran kamu untuk masuk ke dalam kondisi performa puncak tersebut.

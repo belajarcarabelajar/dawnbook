@@ -12,7 +12,7 @@ Dalam analogi ini:
 
 - **Aplikasi (Laptopmu):** Hanya mengenali satu jenis colokan standar.
 - **File System Fisik (Negara tujuan):** Masing-masing memiliki spesifikasi lubang colokan yang berbeda (seperti ext4, NTFS, atau XFS).
-- **VFS (Adaptor Universal):** Bertindak sebagai perantara. Kamu cukup menghubungkan kabel charger ke adaptor ini, dan adaptorlah yang menangani detail teknis koneksi ke stopkontak setempat.
+- **VFS (Adaptor Universal):** Bertindak sebagai perantara. Kamu cukup menghubungkan kabel pengisi daya ke adaptor ini, dan adaptorlah yang menangani detail teknis koneksi ke stopkontak setempat.
 
 > **Insight:** VFS mewujudkan prinsip "Everything is a file" di Linux. Berkat lapisan ini, perangkat keras, network socket, dan data di dalam disk terlihat seperti file biasa bagi aplikasi.
 
@@ -25,7 +25,7 @@ VFS bekerja dengan pendekatan pemrograman berorientasi objek (meskipun ditulis d
 Struktur ini menyimpan metadata tentang file system yang sedang di-mount. Superblock bertindak seperti kartu identitas dari suatu partisi penyimpanan.
 
 - **Informasi yang disimpan:** Ukuran blok, tipe file system, status mount, serta pointer ke root directory.
-- **Operasi utama:** Menulis ulang superblock ke disk (`write_super`) dan melepaskan kaitan mount (`put_super`).
+- **Operasi utama:** Menyinkronkan data file system ke disk (`sync_fs`) dan melepaskan kaitan mount (`put_super`).
 
 ### B. Inode Object (Index Node)
 
@@ -36,7 +36,7 @@ Struktur ini menyimpan informasi metadata mengenai suatu file spesifik. Satu hal
 
 ### C. Dentry Object (Directory Entry)
 
-Dentry bertindak menghubungkan nama file dengan nomor inode terkait.
+Dentry bertindak sebagai penghubung antara nama file dan nomor inode terkait.
 
 - **Cara kerja:** Ketika kamu mengetik alamat file seperti `/home/user/dokumen.txt`, VFS menggunakan objek dentry untuk menyusuri path tersebut dengan cepat. Kernel juga menyimpan *dentry cache* di RAM agar pencarian path yang sama berikutnya tidak perlu mengakses disk fisik kembali.
 
@@ -55,10 +55,10 @@ Mari kita amati apa yang terjadi ketika suatu aplikasi memanggil operasi `read()
 2. **System Call:** Panggilan fungsi tersebut masuk ke kernel space melalui system call.
 3. **Lapisan VFS:** VFS memeriksa file descriptor (`fd`) untuk mencocokkannya dengan **File Object** yang sesuai di memori.
 4. **Pointer Fungsi:** VFS merujuk pada tabel operasi file (`file_operations`) di dalam File Object, lalu memanggil fungsi pembacaan spesifik untuk file system tersebut.
-5. **Implementasi File System:** Jika file berada di partisi **ext4**, fungsi `ext4_file_read()` akan dipanggil. Jika file berada di direktori jaringan **NFS**, fungsi pembacaan jaringanlah yang dijalankan.
+5. **Implementasi File System:** Jika file berada di partisi **ext4**, fungsi `ext4_file_read_iter()` akan dipanggil. Jika file berada di direktori jaringan **NFS**, fungsi pembacaan jaringanlah yang dijalankan.
 6. **Perangkat Keras:** Data dibaca dari media penyimpanan fisik, kemudian diserahkan kembali ke user space.
 
-*Bagaimana jika Linux tidak memiliki VFS? Tanpa lapisan ini, setiap kali ada file system baru (seperti Apple APFS atau Microsoft ReFS), kita harus memodifikasi kode program dan mengompilasi ulang semua aplikasi, mulai dari teks editor hingga web browser, agar bisa mengenali format penyimpanan baru tersebut.*
+*Bagaimana jika Linux tidak memiliki VFS? Tanpa lapisan ini, setiap kali ada file system baru (seperti Apple APFS atau Microsoft ReFS), kita harus memodifikasi kode program dan mengompilasi ulang semua aplikasi, mulai dari editor teks hingga web browser, agar bisa mengenali format penyimpanan baru tersebut.*
 
 ## 4. Struktur file_operations dalam Kode
 
@@ -77,7 +77,7 @@ struct file_operations {
 };
 ```
 
-Sebagai ilustrasi, ketika kamu membuat file system kustom bernama "MyFS", kamu cukup mendefinisikan operasinya seperti ini:
+Sebagai ilustrasi, ketika kamu membuat file system kustom bernama "MyFS", kamu mulai dengan mendefinisikan operasinya seperti ini:
 
 ```c
 static const struct file_operations myfs_fops = {
@@ -87,7 +87,7 @@ static const struct file_operations myfs_fops = {
 };
 ```
 
-VFS secara otomatis akan mengenali dan menggunakan "MyFS" selama fungsi-fungsi di atas terdaftar dengan benar.
+VFS baru dapat menggunakan "MyFS" setelah file system itu didaftarkan lewat `register_filesystem()` dan fungsi-fungsi di atas terpasang dengan benar.
 
 ## 5. Kasus Penggunaan Praktis dan Implementasi Nyata
 
@@ -99,7 +99,7 @@ VFS memungkinkan pembuatan file system virtual. Pada direktori `/proc`, kamu aka
 
 ### B. Network File System (NFS)
 
-Dengan VFS, kamu dapat menempelkan (*mount*) direktori dari server jarak jauh ke dalam sistem lokal. Aplikasi membaca folder jarak jauh ini dengan cara yang persis sama dengan membaca hard drive lokal, karena perbedaan protokol jaringan telah disembunyikan di balik antarmuka VFS.
+Dengan VFS, kamu dapat menempelkan (*mount*) direktori dari server jarak jauh ke dalam sistem lokal. Aplikasi membaca direktori jarak jauh ini dengan cara yang persis sama dengan membaca hard drive lokal, karena perbedaan protokol jaringan telah disembunyikan di balik antarmuka VFS.
 
 ### C. Abstraksi Storage Modern
 

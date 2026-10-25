@@ -8,7 +8,7 @@ Akumulasi pengetahuan, keterampilan, dan kesehatan kolektif (yang dikenal sebaga
 
 ### 1. Paradigma Pertumbuhan yang Bergeser dari Eksogen ke Endogen
 
-Untuk memahami peran modal manusia terhadap perekonomian, kita perlu menelusuri evolusi pemikiran ekonomi modern. Pergeseran dua model itu bisa kamu ikuti pada bagan ini.
+Untuk memahami peran modal manusia terhadap perekonomian, kita perlu menelusuri evolusi pemikiran ekonomi modern. Pergeseran dari model eksogen ke model endogen bisa kamu ikuti pada bagan ini.
 
 ```mermaid
 flowchart TD
@@ -104,7 +104,7 @@ Namun, Korea Selatan menerapkan strategi transformasi berbasis pengetahuan:
 
 1. **Investasi Pendidikan Bertahap:** Pemerintah memprioritaskan penuntasan pendidikan dasar secara universal, dilanjutkan dengan ekspansi pendidikan menengah dan perguruan tinggi teknik.
 2. **Kesesuaian Pendidikan dan Industri:** Kurikulum vokasi dirancang bersama sektor manufaktur untuk memastikan keterampilan lulusan sesuai kebutuhan pasar kerja.
-3. **Hasil Jangka Panjang:** Dalam kurun empat dekade, Korea Selatan bertransformasi menjadi pusat teknologi dan manufaktur global (menghasilkan konglomerasi seperti Samsung, LG, dan Hyundai). Sebaliknya, Ghana yang terlambat mengumpulkan **Human Capital** mengalami pertumbuhan yang lebih lambat dan rentan terhadap fluktuasi harga komoditas dunia.
+3. **Hasil Jangka Panjang:** Dalam kurun empat dekade, Korea Selatan bertransformasi menjadi pusat teknologi dan manufaktur global (dengan konglomerasi seperti Samsung, LG, dan Hyundai). Sebaliknya, Ghana yang terlambat mengumpulkan **Human Capital** mengalami pertumbuhan yang lebih lambat dan rentan terhadap fluktuasi harga komoditas dunia.
 
 #### Perbandingan Historis Pembangunan
 
@@ -115,7 +115,7 @@ Namun, Korea Selatan menerapkan strategi transformasi berbasis pengetahuan:
 | **Fokus Kebijakan** | Riset, industri manufaktur, & pelatihan kerja | Ekspor bahan mentah |
 | **Struktur Ekonomi Saat Ini** | Perekonomian berbasis inovasi & teknologi tinggi | Perekonomian yang masih bergantung pada komoditas |
 
-> **Pelajaran Utama:** Modal fisik dan sumber daya alam dapat menyusut atau habis, namun *Human Capital* yang melekat pada masyarakat menciptakan resiliensi dan inovasi yang berkelanjutan.
+> **Pelajaran Utama:** Modal fisik dan sumber daya alam dapat menyusut atau habis, tetapi *Human Capital* yang melekat pada masyarakat menciptakan resiliensi dan inovasi yang berkelanjutan.
 
 ---
 
@@ -138,17 +138,17 @@ flowchart LR
 4. **Ekspansi Penerimaan Negara:** Pertumbuhan PDB meningkatkan pendapatan pajak daerah dan nasional, yang kemudian dialokasikan kembali untuk mendanai riset serta fasilitas publik.
 
 > **Refleksi Kritis tentang Alokasi Modal Manusia vs *Brain Drain***
-> Ketika sebuah negara mendanai pendidikan tinggi bagi warganya namun gagal menyediakan lapangan kerja yang relevan, risiko terjadinya *Brain Drain* (migrasi tenaga terampil ke luar negeri) akan meningkat. Fenomena ini menunjukkan bahwa akumulasi *Human Capital* harus diimbangi dengan penyerapan pasar kerja agar memberi dampak optimal bagi perekonomian domestik.
+> Ketika sebuah negara mendanai pendidikan tinggi bagi warganya, tetapi gagal menyediakan lapangan kerja yang relevan, risiko terjadinya *Brain Drain* (migrasi tenaga terampil ke luar negeri) akan meningkat. Fenomena ini menunjukkan bahwa akumulasi *Human Capital* harus diimbangi dengan penyerapan pasar kerja agar memberi dampak optimal bagi perekonomian domestik.
 
 ---
 
-### 6. Tantangan Dalam Mengoptimalkan Modal Manusia
+### 6. Tantangan dalam Mengoptimalkan Modal Manusia
 
 Meskipun **Human Capital** menjadi pendorong utama pertumbuhan jangka panjang, terdapat beberapa tantangan struktural yang harus diatasi:
 
 - **Ketidaksesuaian Keterampilan (*Skill Mismatch*):** Ketidakselarasan antara spesifikasi lulusan lembaga pendidikan dengan kebutuhan industri nyata, seperti berlebihnya lulusan teori dasar dibandingkan praktisi analisis data dan teknik.
 - **Depresiasi Pengetahuan (*Knowledge Obsolescence*):** Keterampilan yang tidak diperbarui secara berkala akan kehilangan nilainya akibat laju otomasi dan kecerdasan buatan (AI).
-- **Modal Kesehatan (*Health Capital*):** Produktivitas tidak hanya ditentukan oleh tingkat pendidikan, tetapi juga oleh status kesehatan populasi. Tenaga kerja yang berpendidikan tinggi namun memiliki masalah kesehatan kronis tidak dapat bekerja secara optimal.
+- **Modal Kesehatan (*Health Capital*):** Produktivitas tidak hanya ditentukan oleh tingkat pendidikan, tetapi juga oleh status kesehatan populasi. Tenaga kerja yang berpendidikan tinggi tetapi memiliki masalah kesehatan kronis tidak dapat bekerja secara optimal.
 
 > **Poin Penting:** Pertumbuhan ekonomi jangka panjang tidak ditentukan oleh penambahan jam kerja fisik (*labor intensity*), melainkan oleh peningkatan kapasitas pemecahan masalah dan inovasi (*Human Capital intensity*).
 

@@ -6,9 +6,9 @@ Inilah esensi dari **Actuating** (Penggerakan). Jika Planning dan Organizing ada
 
 ## 1. Apa Itu Actuating?
 
-**Actuating** adalah fungsi manajemen yang berfokus pada pengimplementasian rencana menjadi tindakan nyata. Ini adalah fase di mana manajer mulai membimbing, mengarahkan, dan mendorong seluruh anggota organisasi agar mereka bekerja secara efektif dan efisien demi mencapai tujuan yang telah ditetapkan.
+**Actuating** adalah fungsi manajemen yang berfokus pada pengimplementasian rencana menjadi tindakan nyata. Ini adalah fase ketika manajer mulai membimbing, mengarahkan, dan mendorong seluruh anggota organisasi agar mereka bekerja secara efektif dan efisien demi mencapai tujuan yang telah ditetapkan.
 
-Dalam literatur manajemen, Actuating sering juga disebut sebagai *Directing* (Pengarahan), *Leading* (Kepemimpinan), atau *Influencing* (Mempengaruhi).
+Dalam literatur manajemen, Actuating sering juga disebut sebagai *Directing* (Pengarahan), *Leading* (Kepemimpinan), atau *Influencing* (Memengaruhi).
 
 > **Intisari Actuating:** Rencana sehebat apa pun tidak akan memiliki nilai jika tidak dieksekusi. Actuating adalah fungsi yang membuat organisasi bergerak.
 
@@ -30,15 +30,15 @@ Banyak ahli menyebut Actuating sebagai fungsi yang paling penting karena berhubu
 
 **Fungsi Actuating meliputi:**
 1. Mengubah niat menjadi tindakan nyata melalui inisiasi aksi (**Initiating Action**).
-2. **Mengintegrasikan Upaya:** Upaya antar-departemen diselaraskan agar tidak bekerja berlawanan arah.
+2. **Mengintegrasikan Upaya:** Upaya antardepartemen diselaraskan agar tidak bekerja berlawanan arah.
 3. Memberikan instruksi yang jelas agar staf memahami tanggung jawab mereka tanpa kebingungan.
 4. Menciptakan harmoni yang menyelaraskan tujuan pribadi karyawan dengan target organisasi.
 
-Sebagai contoh, ketika seluruh anggota tim memahami tugas masing-masing namun tidak mengetahui kapan harus memulai atau kepada siapa harus bertanya, situasi tersebut menandakan adanya kegagalan dalam fungsi actuating.
+Sebagai contoh, ketika seluruh anggota tim memahami tugas masing-masing, tetapi tidak mengetahui kapan harus memulai atau kepada siapa harus bertanya, situasi tersebut menandakan adanya kegagalan dalam fungsi actuating.
 
 ## 3. Elemen Kunci dalam Menggerakkan Organisasi
 
-Untuk menggerakkan roda organisasi secara efektif, seorang manajer harus menjalankan beberapa sub-fungsi berikut:
+Untuk menggerakkan roda organisasi secara efektif, seorang manajer harus menjalankan beberapa subfungsi berikut:
 
 ### A. Pemberian Instruksi (Commanding)
 
@@ -61,8 +61,8 @@ Melakukan pengamatan langsung saat pekerjaan sedang berlangsung. Tujuannya bukan
 Agar fungsi penggerakan tidak menimbulkan konflik, ada beberapa prinsip yang harus dipegang teguh:
 
 1. **Prinsip Mengarah pada Tujuan:** Menghubungkan setiap instruksi secara langsung dengan visi besar organisasi.
-2. Menghindari kebingungan instruksi melalui **Kesatuan Perintah (Unity of Command)**, di mana karyawan idealnya hanya menerima arahan dari satu atasan langsung.
-3. **Harmonisasi Antara Tujuan Individu dan Organisasi:** Karyawan akan bergerak lebih cepat jika mereka merasa bahwa kesuksesan perusahaan sejalan dengan perkembangan karier mereka.
+2. Menghindari kebingungan instruksi melalui **Kesatuan Perintah (Unity of Command)**, yaitu karyawan idealnya hanya menerima arahan dari satu atasan langsung.
+3. **Harmonisasi antara Tujuan Individu dan Organisasi:** Karyawan akan bergerak lebih cepat jika mereka merasa bahwa kesuksesan perusahaan sejalan dengan perkembangan karier mereka.
 4. Membuka komunikasi dua arah: manajer tidak hanya memberikan perintah, tetapi juga aktif mendengarkan kendala nyata di lapangan.
 
 ## 5. Actuating Seperti Mesin Mobil

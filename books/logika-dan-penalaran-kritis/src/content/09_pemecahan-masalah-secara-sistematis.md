@@ -6,7 +6,7 @@ Pemecahan masalah secara sistematis adalah kemampuan untuk membedah tantangan ya
 
 ### 1. Mendefinisikan Masalah
 
-Langkah pertama adalah memahami apa sebenarnya masalahnya. Seringkali kita terjebak menangani **gejala** (symptoms), bukan **akar penyebab** (root cause).
+Langkah pertama adalah memahami apa sebenarnya masalahnya. Sering kali kita terjebak menangani **gejala** (symptoms), bukan **akar penyebab** (root cause).
 
 **Analogi:** Jika kamu pergi ke dokter karena sakit kepala (gejala), dokter yang baik tidak hanya memberi kamu obat pereda nyeri. Ia akan mencari tahu apakah sakit kepala itu karena kurang tidur, dehidrasi, atau infeksi (akar penyebab).
 
@@ -33,11 +33,11 @@ Setelah masalah didefinisikan, kita harus menggali lebih dalam. Salah satu metod
 4. **Mengapa** fitur tersebut tidak dioptimalkan? Karena pengembang terburu-buru mengejar tenggat waktu.
 5. **Mengapa** mereka terburu-buru? Karena tidak ada alokasi waktu untuk tahap *performance testing* dalam jadwal proyek (**Akar Masalah**).
 
-Jika kita hanya menyalakan ulang server tanpa menyentuh akar masalahnya, gangguan yang sama pasti akan terulang kembali di kemudian hari.
+Jika kita hanya menyalakan ulang server tanpa menyentuh akar masalahnya, gangguan yang sama kemungkinan besar akan terulang di kemudian hari.
 
 ### 3. Menghasilkan Alternatif Solusi
 
-Pada tahap ini, tujuannya adalah memproduksi gagasan sebanyak-banyaknya terlebih dahulu. Gunakan berpikir divergen untuk mengeksplorasi berbagai kemungkinan.
+Pada tahap ini, tujuannya adalah memproduksi gagasan sebanyak-banyaknya terlebih dahulu. Gunakan cara berpikir divergen untuk mengeksplorasi berbagai kemungkinan.
 
 - **Brainstorming**: Menampung seluruh ide yang muncul tanpa perlu dihakimi atau dinilai terlebih dahulu.
 - **Brainwriting**: Coba tuliskan gagasan secara mandiri sebelum didiskusikan bersama kelompok demi menghindari jebakan *groupthink*.
@@ -45,9 +45,9 @@ Pada tahap ini, tujuannya adalah memproduksi gagasan sebanyak-banyaknya terlebih
 
 ### 4. Memilih Solusi yang Paling Rasional
 
-Setelah memiliki daftar alternatif, saatnya menggunakan berpikir konvergen. Kita memerlukan kriteria yang objektif untuk memilih. Salah satu alatnya adalah **Matriks Keputusan (Decision Matrix)**.
+Setelah memiliki daftar alternatif, saatnya menggunakan cara berpikir konvergen. Kita memerlukan kriteria yang objektif untuk memilih. Salah satu alatnya adalah **Matriks Keputusan (Decision Matrix)**.
 
-Misalkan kamu harus memilih antara 3 solusi perangkat lunak (A, B, dan C) dengan kriteria: Biaya, Kemudahan Penggunaan, dan Fitur.
+Misalkan kamu harus memilih antara 2 solusi perangkat lunak (A dan B) dengan kriteria: Biaya, Kemudahan Penggunaan, dan Fitur.
 
 Kita dapat memberikan bobot ($w$) pada setiap kriteria sehingga total bobot adalah 1.0 (atau 100%). Total Skor ($S$) untuk setiap alternatif dapat dihitung dengan rumus:
 
@@ -57,7 +57,7 @@ S = \sum_{i=1}^{n} (w_i \times r_i)
 $$
 </div>
 
-Dimana:
+Dengan:
 
 - $w\_i$ = Bobot kriteria ke-$i$
 - $r\_i$ = Rating solusi untuk kriteria ke-$i$
@@ -80,18 +80,18 @@ Solusi hanyalah sebuah teori sampai ia dieksekusi. Gunakan siklus **PDCA (Plan-D
 1. **Plan**: Rencanakan langkah-langkah implementasi.
 2. **Do**: Jalankan rencana dalam skala kecil (pilot project).
 3. **Check**: Evaluasi hasilnya. Apakah sesuai dengan metrik keberhasilan yang ditetapkan di awal?
-4. **Act**: Jika berhasil, standarisasi solusi tersebut. Jika gagal, kembali ke langkah awal.
+4. **Act**: Jika berhasil, standardisasi solusi tersebut. Jika gagal, kembali ke langkah awal.
 
 Langkah Act menjadi titik cabang yang menentukan arah siklus berikutnya.
 
 ```mermaid
 flowchart TD
     accTitle: Siklus PDCA untuk implementasi solusi
-    accDescr: Plan merencanakan langkah implementasi, Do menjalankan rencana dalam skala kecil, Check mengevaluasi hasil terhadap metrik keberhasilan, lalu Act menstandarisasi solusi jika berhasil atau kembali ke Plan jika gagal.
+    accDescr: Plan merencanakan langkah implementasi, Do menjalankan rencana dalam skala kecil, Check mengevaluasi hasil terhadap metrik keberhasilan, lalu Act melakukan standardisasi solusi jika berhasil atau kembali ke Plan jika gagal.
     P["Plan: rencanakan langkah implementasi"] --> D["Do: jalankan rencana dalam skala kecil (pilot project)"]
     D --> C["Check: evaluasi hasil terhadap metrik keberhasilan"]
     C --> A{"Act: berhasil?"}
-    A -->|"berhasil"| S["Standarisasi solusi"]
+    A -->|"berhasil"| S["Standardisasi solusi"]
     A -->|"gagal"| P
 ```
 
@@ -101,14 +101,14 @@ Bayangkan kamu adalah seorang *Site Reliability Engineer* (SRE). Situs web perus
 
 **Langkah Sistematis:**
 
-1. **Definisi**: Latensi meningkat dari 200ms ke 2000ms untuk pengguna di Asia Tenggara sejak jam 08.00 pagi.
+1. **Definisi**: Latensi meningkat dari 200 ms ke 2000 ms untuk pengguna di Asia Tenggara sejak pukul 08.00.
 2. **Analisis**: Menggunakan log trafik, ditemukan bahwa *Content Delivery Network* (CDN) di wilayah tersebut gagal mengarahkan trafik dengan benar.
 3. **Alternatif**:
    - **Opsi A**: Menunggu hingga penyedia layanan CDN berhasil mengatasi kendala di jaringan mereka.
    - **Opsi B**: Membelokkan trafik secara manual ke server pusat yang berlokasi di Amerika Serikat. Meskipun latensinya lebih tinggi, opsi ini cenderung lebih stabil.
    - **Opsi C**: Mengalihkan rute trafik ke penyedia CDN cadangan yang siap pakai.
 4. **Keputusan**: Menggunakan Matriks Keputusan, opsi C dipilih karena menyeimbangkan kecepatan pemulihan dan pengalaman pengguna.
-5. **Implementasi**: Mengubah konfigurasi DNS. **Evaluasi**: Latensi turun kembali ke 300ms.
+5. **Implementasi**: Mengubah konfigurasi DNS. **Evaluasi**: Latensi turun ke 300 ms.
 
 ### Rangkuman Langkah Logis
 

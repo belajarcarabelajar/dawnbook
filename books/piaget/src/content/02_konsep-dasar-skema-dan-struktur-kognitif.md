@@ -4,7 +4,7 @@ Teori Jean Piaget bertumpu pada satu pertanyaan mendasar: bagaimana anak-anak me
 
 ## 1. Apa itu Skema?
 
-Bayangkan kamu masuk ke perpustakaan besar. Kamu pasti mengandalkan sistem kategori seperti fiksi, sejarah, dan sains untuk mencari buku. Piaget meminjam konsep serupa. **Skema** adalah unit dasar pengarsipan mental. Kita memakainya untuk mengorganisir informasi yang masuk.
+Bayangkan kamu masuk ke perpustakaan besar. Kamu pasti mengandalkan sistem kategori seperti fiksi, sejarah, dan sains untuk mencari buku. Piaget meminjam konsep serupa. **Skema** adalah unit dasar pengarsipan mental. Kita memakainya untuk mengorganisasi informasi yang masuk.
 
 > **Definisi:** Skema adalah representasi mental dari tindakan atau pikiran terorganisir untuk memahami lingkungan sekitar.
 
@@ -28,7 +28,7 @@ Contohnya skema "menggenggam". Di kepala bayi, sebuah mainan cuma berarti benda 
 
 ### B. Skema Mental (Kognitif)
 Saat anak beranjak besar, skema mulai beralih dari sekadar tindakan fisik menjadi representasi di kepala. Anak bisa memikirkan suatu benda tanpa perlu melihat atau menyentuhnya langsung.
-Contohnya konsep keadilan. Keadilan tidak memiliki wujud fisik. Konsep ini sepenuhnya berupa struktur berpikir tentang bagaimana manusia harus saling memperlakukan satu sama lain.
+Contohnya konsep keadilan. Keadilan tidak memiliki wujud fisik. Konsep ini sepenuhnya berupa struktur berpikir tentang bagaimana manusia harus saling memperlakukan.
 
 ## 3. Struktur Kognitif
 
@@ -67,6 +67,6 @@ Memahami skema punya dampak praktis di kehidupan:
 | --- | --- | --- |
 | **Skema** | Satuan terkecil pengetahuan. | Folder komputer. |
 | **Struktur Kognitif** | Kumpulan skema yang terorganisir. | Sistem Operasi (OS). |
-| **Organisasi** | Proses otak merapikan skema jadi sistem logis. | Merapikan file ke sub-folder. |
+| **Organisasi** | Proses otak merapikan skema jadi sistem logis. | Merapikan file ke subfolder. |
 
 Pernah mencoba belajar hal yang sangat asing, seperti bahasa pemrograman baru? Saat pertama mulai, otak kamu pasti sibuk mencari pola lama yang sekiranya mirip untuk dijadikan pijakan. Proses meraba-raba itulah wujud asli skema kamu yang sedang bekerja keras. Tanpa kemampuan pengarsipan mental ini, semua kejadian di sekitar kita hanya akan terasa membingungkan tanpa arti yang jelas.

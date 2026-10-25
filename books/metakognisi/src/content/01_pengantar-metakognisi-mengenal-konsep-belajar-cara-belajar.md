@@ -4,7 +4,7 @@ Bagian ini membahas sebuah konsep dasar dalam pembelajaran yang dinamakan metako
 
 ## Membedah Metakognisi
 
-Kalau diartikan secara harfiah, **metakognisi** sering disebut sebagai "berpikir tentang bagaimana kita berpikir" (*thinking about thinking*). John Flavell, seorang psikolog, pertama kali menggunakan istilah ini di tahun 1976.
+Kalau diartikan secara harfiah, **metakognisi** sering disebut sebagai "berpikir tentang bagaimana kita berpikir" (*thinking about thinking*). John Flavell, seorang psikolog, pertama kali menggunakan istilah ini pada tahun 1976.
 
 > Metakognisi adalah kemampuan seseorang untuk menyadari, mengendalikan, dan mengevaluasi alur pikirannya sendiri ketika sedang belajar.
 
@@ -34,7 +34,6 @@ Saat kamu sudah mulai terbiasa memantau cara kerja kognisimu sendiri, perlahan-l
 - Kamu jadi lebih luwes saat menghadapi jalan buntu dalam memecahkan soal atau masalah.
 - Secara umum, pemahaman materi dan performa akademik akan membaik seiring berjalannya waktu.
 - Rasa cemas atau stres sebelum tes biasanya menurun karena kamu memegang kendali atas persiapan yang sudah dilakukan.
-- Membantu melatih kecerdasan cair (*fluid intelligence*), yaitu kemampuan alami untuk memusatkan fokus dan mengolah hal baru.
 
 Pada dasarnya, metakognisi tidak lantas mengubahmu menjadi jenius dalam semalam. Praktik ini lebih ditujukan untuk membantumu memaksimalkan kapasitas otak dan potensi belajar yang sebenarnya sudah ada sejak awal.
 

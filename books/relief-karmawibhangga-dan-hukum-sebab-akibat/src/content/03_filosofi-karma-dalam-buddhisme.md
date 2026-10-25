@@ -6,7 +6,7 @@ Sebelum kita membedah isi dari naskah *Mahakarmawibhangga* atau teknik pemahatan
 
 ## 1. Karma sebagai Aksi, Bukan Nasib
 
-Dalam bahasa Sansekerta, **Karma** (atau *Kamma* dalam bahasa Pali) secara harfiah berarti **"perbuatan"** atau **"tindakan"**. Banyak orang salah kaprah menganggap karma sebagai "nasib buruk" atau "hukuman". Namun, dalam Buddhisme, Karma adalah hukum kausalitas (sebab-akibat) yang impersonal.
+Dalam bahasa Sanskerta, **Karma** (atau *Kamma* dalam bahasa Pali) secara harfiah berarti **"perbuatan"** atau **"tindakan"**. Banyak orang salah kaprah menganggap karma sebagai "nasib buruk" atau "hukuman". Namun, dalam Buddhisme, Karma adalah hukum kausalitas (sebab-akibat) yang impersonal.
 
 > **Insight Utama:** Karma bukanlah sistem penghargaan dan hukuman dari "Tuhan" atau kekuatan eksternal. Karma adalah hukum alam yang bekerja secara otomatis, seperti hukum gravitasi. Jika kamu menjatuhkan gelas, gelas itu pecah karena hukum fisika, bukan karena gravitasi sedang marah kepadamu.
 
@@ -14,7 +14,7 @@ Dalam bahasa Sansekerta, **Karma** (atau *Kamma* dalam bahasa Pali) secara harfi
 
 Sesuatu disebut sebagai "Karma" jika dan hanya jika terdapat **Cetana** atau niat/kehendak di baliknya. Buddha bersabda: *"Cetanāhaṃ bhikkhave kammaṃ vadāmi"* (O, para bhikkhu, kehendaklah yang kunamakan Karma).
 
-- **Contoh:** Jika kamu secara tidak sengaja menginjak semut saat berjalan tanpa ada niat membunuh, itu bukan merupakan Karma buruk yang berat. Namun, jika kamu sengaja menginjaknya karena merasa terganggu, niat itulah yang menciptakan benih Karma.
+- **Contoh:** Jika kamu secara tidak sengaja menginjak semut saat berjalan tanpa ada niat membunuh, itu bukan merupakan Karma. Namun, jika kamu sengaja menginjaknya karena merasa terganggu, niat itulah yang menciptakan benih Karma.
 
 ## 2. Mekanisme Sebab-Akibat (Hetu & Phala)
 
@@ -62,17 +62,17 @@ Tindakan yang berakar pada:
 
 ## 4. Waktu Pematangan Karma (Vipaka)
 
-Salah satu alasan mengapa banyak orang meragukan hukum karma adalah karena hasilnya seringkali tidak langsung terlihat. Dalam filosofi yang melandasi Karmawibhangga, hasil perbuatan (*Vipaka*) bisa muncul dalam tiga waktu:
+Salah satu alasan mengapa banyak orang meragukan hukum karma adalah karena hasilnya sering kali tidak langsung terlihat. Dalam filosofi yang melandasi Karmawibhangga, hasil perbuatan (*Vipaka*) bisa muncul dalam tiga waktu:
 
 1. **Ditthadhamma-vedaniya Kamma:** Matang dalam kehidupan saat ini juga.
 2. **Upapajja-vedaniya Kamma:** Matang pada kehidupan berikutnya segera setelah meninggal.
 3. **Aparapariya-vedaniya Kamma:** Matang di kehidupan-kehidupan yang jauh di masa depan ketika kondisinya memungkinkan.
 
-Hal ini menjelaskan mengapa pada relief Karmawibhangga, satu panel seringkali dibagi menjadi dua bagian: **sisi kiri** menunjukkan perbuatan manusia, dan **sisi kanan** menunjukkan hasil yang mereka terima (baik di dunia ini maupun di alam lain).
+Hal ini dapat menjelaskan mengapa pada relief Karmawibhangga, satu panel sering kali dibagi menjadi dua bagian: **sisi kiri** menunjukkan perbuatan manusia, dan **sisi kanan** menunjukkan hasil yang mereka terima (baik di dunia ini maupun di alam lain).
 
 ## 5. Hubungan Karma dengan Samsara
 
-Hukum Karma adalah bahan bakar dari roda **Samsara** (siklus kelahiran dan kematian yang berulang). Selama seseorang masih memiliki niat yang didasari oleh ego atau keinginan, benih karma akan terus tercipta, yang menyebabkan ia terus terlahir kembali di berbagai alam kehidupan.
+Hukum Karma adalah bahan bakar dari roda **Samsara** (siklus kelahiran dan kematian yang berulang). Selama seseorang masih memiliki niat yang didasari oleh ego atau keinginan, benih Karma akan terus tercipta, yang menyebabkan ia terus terlahir kembali di berbagai alam kehidupan.
 
 Sang Buddha merangkum hukum ini dengan perumpamaan benih dalam *Samyutta Nikaya* (jilid I, hlm. 227), yang dikutip Sayadaw U Thittila dalam *What Kamma Is* (1996):
 

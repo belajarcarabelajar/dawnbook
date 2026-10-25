@@ -11,11 +11,11 @@ Bayangkan kamu bekerja di perpustakaan besar tanpa rak, tanpa kategori, dan tanp
 Kondisi serupa terjadi dalam pemrograman. Seiring bertambahnya fitur aplikasi, codebase akan menghadapi beberapa tantangan utama:
 
 - **Namespace Pollution dan Naming Collisions**
-  Ketika proyek membesar, bentrokan nama fungsi sangat mungkin terjadi. Misalnya, fungsi `tambah()` pada modul kalkulator akan bertabrakan dengan fungsi `tambah()` untuk operasi database jika keduanya dideklarasikan di ruang lingkup global yang sama.
+  Ketika proyek membesar, bentrokan nama fungsi sangat mungkin terjadi. Misalnya, fungsi `tambah()` pada module kalkulator akan bertabrakan dengan fungsi `tambah()` untuk operasi database jika keduanya dideklarasikan di ruang lingkup global yang sama.
 - **Readability**
   Membaca dan melacak alur logika di dalam satu file berisi ribuan baris melelahkan dan membuang waktu.
 - **Privacy dan Encapsulation**
-  Idealnya, tidak semua komponen kode bebas diakses dari mana saja. Logika internal yang sensitif harus disembunyikan agar terhindar dari modifikasi yang tidak disengaja oleh modul lain.
+  Idealnya, tidak semua komponen kode bebas diakses dari mana saja. Logika internal yang sensitif harus disembunyikan agar terhindar dari modifikasi yang tidak disengaja oleh module lain.
 
 > **Insight:** Module system tidak sekadar merapikan struktur file, tetapi juga mengatur **scope** dan **privacy** kode kamu.
 
@@ -27,11 +27,11 @@ Sebagai gambaran praktis, kita bisa menggunakan analogi sebuah **kota** untuk me
 
 Jika dianalogikan sebagai kota, maka **package** adalah **batas teritorial kota** tersebut. Package merupakan proyek Cargo yang kamu bangun, lengkap dengan file `Cargo.toml` sebagai cetak biru (*blueprint*) aturan pembangunannya serta daftar *dependencies* eksternal yang diperlukan.
 
-Dalam satu package, kamu bisa menyimpan satu atau lebih crate, dengan syarat minimal terdapat satu crate (baik berupa library maupun binary).
+Dalam satu package, kamu bisa menyimpan satu atau lebih crate, dengan syarat minimal terdapat satu crate (baik berupa library maupun binary) dan paling banyak satu library crate.
 
 ### 2. Crate
 
-**Crate** adalah blok bangunan utama di dalam kota tersebut, yaitu unit terkecil dari kode yang dapat dikompilasi langsung oleh compiler Rust. 
+**Crate** adalah gedung di dalam kota tersebut, yaitu unit terkecil dari kode yang dapat dikompilasi langsung oleh compiler Rust. 
 
 Crate terbagi menjadi dua jenis:
 - **Binary Crate** menghasilkan program yang bisa langsung dijalankan karena memiliki fungsi `main`. File utamanya berada di `src/main.rs`.
@@ -112,6 +112,6 @@ Tabel berikut mempermudah pemahaman mengenai hubungan antarkonsep di atas:
 | **Module** | Ruang di dalam gedung | Mengelompokkan kode dan mengatur scope serta privacy |
 | **Path** | Rute navigasi (path) | Cara memanggil suatu item (contoh: `crate::math::add`) |
 
-Pembahasan berikutnya akan membahas aspek teknis penggunaan kata kunci `mod` untuk mendeklarasikan module, serta mekanisme kontrol akses guna melindungi data internal.
+Pembahasan berikutnya mencakup aspek teknis penggunaan kata kunci `mod` untuk mendeklarasikan module, serta mekanisme kontrol akses guna melindungi data internal.
 
 Memikirkan rancangan module tree sejak awal merupakan langkah awal yang penting sebelum kamu menuliskan baris kode pertama pada software project yang akan dibangun.

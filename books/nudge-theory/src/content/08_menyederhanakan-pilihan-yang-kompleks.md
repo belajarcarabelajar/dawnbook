@@ -8,7 +8,7 @@ Inilah inti dari tantangan dalam **Arsitektur Pilihan**: Terkadang, memberikan l
 
 Secara intuitif, kita berpikir bahwa semakin banyak pilihan, semakin bebas kita. Namun, secara psikologis, otak kita memiliki kapasitas pemrosesan yang terbatas.
 
-> **Insight:** "More is less." Semakin banyak pilihan yang tersedia, semakin besar usaha kognitif yang diperlukan untuk mengevaluasinya, yang sering kali berujung pada penundaan keputusan atau ketidakpuasan pasca-pembelian.
+> **Insight:** "More is less." Semakin banyak pilihan yang tersedia, semakin besar usaha kognitif yang diperlukan untuk mengevaluasinya, yang sering kali berujung pada penundaan keputusan atau ketidakpuasan pascapembelian.
 
 Secara matematis, jika kita memiliki $n$ pilihan dan setiap pilihan memiliki $a$ atribut (seperti harga, kualitas, warna, fitur), maka total informasi yang harus diproses adalah:
 
@@ -39,7 +39,7 @@ Setelah kategori dibuat, langkah berikutnya adalah membantu pengguna menyingkirk
 Teori yang dikemukakan oleh Amos Tversky menyatakan bahwa manusia sering memilih dengan mengeliminasi opsi yang tidak memenuhi kriteria minimum satu per satu.
 
 **Contoh di Dunia Nyata:** Pembeli laptop biasanya tidak membandingkan semua spesifikasi secara bersamaan. Mereka cenderung melakukan penyaringan bertahap:
-- Pertama, membatasi harga agar tidak melebihi Rp 10 juta.
+- Pertama, membatasi harga agar tidak melebihi Rp10 juta.
 - Kedua, menyaring merek dengan hanya melirik pilihan dari merek A atau B.
 - Ketiga, menyeleksi bobot laptop agar di bawah 1,5 kg supaya ringan saat dibawa bepergian.
 
@@ -68,7 +68,7 @@ Sering kali, kompleksitas tidak melulu muncul dari banyaknya pilihan yang disaji
 
 Di Amerika Serikat, banyak karyawan bingung memilih dari 50+ pilihan investasi untuk dana pensiun mereka. Arsitek pilihan menyederhanakannya dengan menawarkan **"Target-Date Funds"**. Alih-alih memilih instrumen saham/obligasi sendiri, karyawan cukup memilih tahun kapan mereka berencana pensiun (misal: "Pensiun 2050"). Sistem secara otomatis mengelola kompleksitas di baliknya.
 
-### B. E-commerce (Amazon/Netflix)
+### B. Platform Digital (Amazon/Netflix)
 
 Sistem rekomendasi adalah salah satu wujud penyederhanaan pilihan yang efektif. Alih-alih membiarkanmu bingung mencari di antara jutaan item, algoritma akan menyodorkan saran: *"Karena kamu menonton X, kamu mungkin menyukai Y."* Hal ini mengubah proses pencarian yang melelahkan menjadi proses pengenalan yang jauh lebih mudah.
 

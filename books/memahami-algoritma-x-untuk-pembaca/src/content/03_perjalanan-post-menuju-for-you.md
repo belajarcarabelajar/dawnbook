@@ -30,7 +30,7 @@ Di luar daftar itu, pola follow dan interaksi bisa diolah menjadi representasi m
 
 - **Candidate sourcing**: mengambil sekumpulan calon post sebelum memilih yang akan ditampilkan.
 - **Feature**: informasi yang dipakai model, misalnya hubungan pengguna, konteks post, atau riwayat aktivitas.
-- **Feature hydration**: melengkapi kandidat dengan feature yang diambil dari layanan lain.
+- **Feature hydration**: melengkapi kandidat dengan fitur yang diambil dari layanan lain.
 - **Ranking**: memberi skor untuk menentukan prioritas kandidat.
 - **Rescoring**: menyesuaikan skor, misalnya agar satu penulis tidak memenuhi layar.
 - **Filtering**: mengeluarkan atau membatasi kandidat berdasarkan aturan tertentu.

@@ -9,10 +9,10 @@ Mengelola stres bukan proyek sekali jalan, tetapi sebuah gaya hidup. Ibarat mera
 Untuk memastikan stres tidak menumpuk menjadi beban kronis, kamu memerlukan sebuah protokol pribadi yang adaptif. Kita bisa merumuskannya dalam sebuah persamaan sederhana:
 
 $$
-\text{Ketahanan (Resilience)} = \frac{\text{Sumber Daya Internal} + \text{Dukungan Eksternal}}{\text{Beban Stressor}}
+\text{Ketahanan (Resilience)} = \frac{\text{Sumber Daya Internal} + \text{Dukungan Eksternal}}{\text{Beban Stresor}}
 $$
 
-Jika beban stressor meningkat, sumber daya dan dukungan kamu harus ditingkatkan agar sistem tidak runtuh.
+Jika beban stresor meningkat, sumber daya dan dukungan kamu harus ditingkatkan agar sistem tidak runtuh.
 
 #### Langkah-Langkah Membangun Rencana Jangka Panjang
 
@@ -20,13 +20,13 @@ Jika beban stressor meningkat, sumber daya dan dukungan kamu harus ditingkatkan 
 2. **Integrasi Ritual Mikro**: Jangan menunggu liburan panjang untuk pulih. Masukkan teknik pernapasan atau *grounding* dalam jadwal harian (misalnya 5 menit setelah makan siang).
 3. **Evaluasi Diri Berkala**: Gunakan skala 1-10 untuk menilai tingkat stres kamu setiap pagi. Jika angka menunjukkan $>7$ selama tiga hari berturut-turut, itu adalah sinyal untuk mengaktifkan mode pemulihan ekstra.
 
-> **Penting:** Konsistensi lebih berharga daripada intensitas. Melakukan meditasi 5 menit setiap hari lebih efektif bagi otak daripada meditasi 2 jam namun hanya dilakukan sebulan sekali.
+> **Penting:** Konsistensi lebih berharga daripada intensitas. Melakukan meditasi 5 menit setiap hari lebih efektif bagi otak daripada meditasi 2 jam tetapi hanya dilakukan sebulan sekali.
 
 ---
 
 ### 2. Mengenali "Red Flags"
 
-Ada titik di mana mekanisme koping mandiri tidak lagi cukup. Ini bukan tanda kelemahan, tetapi sinyal bahwa tantangan yang kamu hadapi memerlukan keahlian khusus.
+Ada titik saat mekanisme koping mandiri tidak lagi cukup. Ini bukan tanda kelemahan, tetapi sinyal bahwa tantangan yang kamu hadapi memerlukan keahlian khusus.
 
 > **Analogi Kesehatan:** Jika kaki kamu patah, kamu tidak akan mencoba menyembuhkannya hanya dengan berpikir positif. Kamu pasti pergi ke dokter spesialis bedah tulang. Kesehatan mental bekerja dengan prinsip yang persis sama.
 
@@ -36,7 +36,7 @@ Ada titik di mana mekanisme koping mandiri tidak lagi cukup. Ini bukan tanda kel
 - **Durasi**: Gejala kecemasan, kesedihan mendalam, atau keputusasaan berlangsung lebih dari **2 minggu** berturut-turut.
 - **Gejala Fisik yang Tidak Terjelaskan**: Sakit kepala kronis, gangguan pencernaan, atau nyeri otot yang tidak kunjung sembuh meski sudah diobati secara medis.
 - **Mekanisme Koping Maladaptif**: Mulai mengandalkan alkohol, obat-obatan terlarang, atau perilaku berisiko untuk melarikan diri dari perasaan.
-- **Pikiran untuk Menyakiti Diri**: Adanya pikiran atau dorongan untuk mengakhiri hidup atau menyakiti diri sendiri (Ini adalah kondisi darurat).
+- **Pikiran untuk Menyakiti Diri**: Adanya pikiran atau dorongan untuk mengakhiri hidup atau menyakiti diri sendiri (ini adalah kondisi darurat).
 
 ---
 
@@ -52,7 +52,7 @@ Sering kali orang ragu mencari bantuan karena bingung harus pergi ke mana. Berik
 
 #### Bagaimana Memilih yang Tepat?
 
-Secara umum, kamu bisa memulai dengan mengunjungi **Psikolog**. Jika dalam prosesnya ditemukan ketidakseimbangan kimiawi di otak yang memerlukan bantuan medis, psikolog akan merujuk kamu ke **Psikiater**.
+Secara umum, kamu bisa memulai dengan mengunjungi **Psikolog**. Jika dalam prosesnya ditemukan kondisi yang memerlukan bantuan medis, psikolog akan merujuk kamu ke **Psikiater**.
 
 ---
 

@@ -24,7 +24,7 @@ Semakin banyak gangguan ($d$), semakin kecil peluang kamu untuk "hanyut" dalam p
 
 ## 2\. Mitos Multitasking
 
-Banyak orang bangga bisa melakukan *multitasking*, namun secara neurobiologis, otak manusia tidak dirancang untuk memproses dua tugas kognitif berat secara bersamaan. Yang sebenarnya terjadi adalah **Task Switching** (berpindah tugas dengan cepat).
+Banyak orang bangga bisa melakukan *multitasking*, tetapi secara neurobiologis, otak manusia tidak dirancang untuk memproses dua tugas kognitif berat secara bersamaan. Yang sebenarnya terjadi adalah **Task Switching** (berpindah tugas dengan cepat).
 
 Dalam konteks rekayasa perangkat lunak atau sistem operasi, bayangkan otak kamu seperti CPU yang melakukan *context switching*. Setiap kali berpindah, ada data yang harus disimpan (RAM) dan data baru yang harus dimuat. Kalau kamu hanya menulis kode dalam satu sesi, konteksnya cukup dimuat sekali. Kalau kamu menulis kode, membalas chat WhatsApp, kembali ke kode, lalu mengecek email, konteks itu dimuat dan disimpan berulang kali, dan setiap kalinya menghabiskan energi serta waktu.
 
@@ -52,9 +52,9 @@ Kondisi fisik tempat kamu bekerja memainkan peran besar. Lingkungan yang tidak m
 
 ## 5\. Kurangnya Kejelasan Tujuan (Ambiguity)
 
-Salah satu pemicu utama *flow* adalah **tujuan yang jelas** dan **umpan balik segera**. Jika kamu memulai pekerjaan tanpa tahu apa hasil akhir yang diinginkan, otak kamu akan terus menerus menggunakan energi untuk bertanya "Apa selanjutnya?".
+Salah satu pemicu utama *flow* adalah **tujuan yang jelas** dan **umpan balik segera**. Jika kamu memulai pekerjaan tanpa tahu apa hasil akhir yang diinginkan, otak kamu akan terus-menerus menggunakan energi untuk bertanya "Apa selanjutnya?".
 
-Ketidakpastian ini menciptakan gesekan mental. Dalam psikologi, ini disebut sebagai **Cognitive Friction**. Tanpa struktur yang jelas, pikiran akan cenderung melantur (*mind-wandering*), yang merupakan antitesis dari kondisi alir.
+Ketidakpastian ini menciptakan gesekan mental. Ini bisa disebut sebagai **Cognitive Friction**. Tanpa struktur yang jelas, pikiran akan cenderung melantur (*mind-wandering*), yang merupakan antitesis dari kondisi alir.
 
 ## Audit "Flow Killer"
 
@@ -80,7 +80,7 @@ Mari kita terapkan ini dalam skenario profesional. Bayangkan seorang desainer gr
 | --- | --- | --- |
 | **Notifikasi Digital** | Memecah perhatian & memicu dopamine loop. | Mode pesawat atau aplikasi pemblokir gangguan. |
 | **Multitasking** | Meningkatkan beban kognitif & sisa perhatian. | Fokus pada satu tugas tunggal (Single-tasking). |
-| **Stres Tinggi** | Mengaktifkan respon "Fight or Flight". | Latihan pernapasan atau memecah tugas menjadi lebih kecil. |
-| **Interupsi Fisik** | Memutus momentum mental. | Mengatur batasan fisik (misalnya: memakai headphone sebagai tanda jangan diganggu). |
+| **Stres Tinggi** | Mengaktifkan respons "Fight or Flight". | Latihan pernapasan atau memecah tugas menjadi lebih kecil. |
+| **Interupsi Sosial** | Memutus momentum mental. | Mengatur batasan fisik (misalnya: memakai headphone sebagai tanda jangan diganggu). |
 
-> **Insight Berharga:** Menghilangkan penghambat seringkali lebih efektif daripada mencoba memaksa diri untuk fokus. Menyingkirkan rintangan adalah strategi yang jauh lebih andal daripada mengandalkan kekuatan kehendak semata - tugas utama kamu adalah membersihkan 'paku-paku' di lintasan mental kamu.
+> **Insight Berharga:** Menghilangkan penghambat sering kali lebih efektif daripada mencoba memaksa diri untuk fokus. Menyingkirkan rintangan adalah strategi yang jauh lebih andal daripada mengandalkan kekuatan kehendak semata - tugas utama kamu adalah membersihkan 'paku-paku' di lintasan mental kamu.

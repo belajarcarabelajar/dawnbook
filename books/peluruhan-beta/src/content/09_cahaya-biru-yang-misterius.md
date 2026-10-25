@@ -1,8 +1,8 @@
 ## Cahaya Biru Radiasi Cherenkov
 
-Pernahkah terlihat foto kolam pendingin reaktor nuklir yang memancarkan pendaran cahaya biru neon yang cantik namun terkesan berbahaya? Cahaya itu bukan sekadar efek lampu hias, melainkan sebuah fenomena fisika yang disebut **Radiasi Cherenkov**.
+Pernahkah terlihat foto kolam pendingin reaktor nuklir yang memancarkan pendaran cahaya biru neon yang cantik tetapi terkesan berbahaya? Cahaya itu bukan sekadar efek lampu hias, melainkan sebuah fenomena fisika yang disebut **Radiasi Cherenkov**.
 
-Dalam bagian ini, kita akan mempelajari bagaimana elektron berkecepatan tinggi yang dihasilkan dari **peluruhan beta** menimbulkan pendaran biru ini saat mereka melintasi medium seperti air.
+Dalam bagian ini, kita akan mempelajari bagaimana elektron berkecepatan tinggi yang terutama dihasilkan dari **peluruhan beta** menimbulkan pendaran biru ini saat mereka melintasi medium seperti air.
 
 ### 1. Batas Kecepatan dalam Medium
 
@@ -16,7 +16,7 @@ v_{\text{light}} = \frac{c}{n}
 $$
 </div>
 
-Di dalam air, indeks biasnya sekitar $1.33$, yang berarti cahaya hanya bergerak sekitar $0.75c$ (75% dari kecepatan maksimumnya). Di sinilah celah bagi partikel lain muncul. Partikel beta (elektron) yang dipancarkan dari peluruhan inti radioaktif seringkali memiliki energi yang sangat tinggi sehingga mereka bergerak lebih cepat daripada cahaya di dalam air tersebut, meskipun tetap lebih lambat daripada $c$ di ruang hampa.
+Di dalam air, indeks biasnya sekitar $1.33$, yang berarti cahaya hanya bergerak sekitar $0.75c$ (75% dari kecepatan maksimumnya). Di sinilah celah bagi partikel lain muncul. Partikel beta (elektron) yang dipancarkan dari peluruhan inti radioaktif sering kali memiliki energi yang sangat tinggi sehingga mereka bergerak lebih cepat daripada cahaya di dalam air tersebut, meskipun tetap lebih lambat daripada $c$ di ruang hampa.
 
 > **Insight Utama:** Radiasi Cherenkov terjadi ketika sebuah partikel bermuatan (seperti elektron beta) bergerak melewati medium dielektrik dengan kecepatan yang melebihi kecepatan cahaya di dalam medium tersebut.
 
@@ -39,7 +39,7 @@ Bagaimana pergerakan elektron ini berubah menjadi cahaya biru yang bisa kita lih
    - Jika partikel bergerak **lambat**, gelombang cahaya yang dilepaskan molekul-molekul ini saling meniadakan.
    - Jika partikel bergerak **lebih cepat dari cahaya di medium tersebut**, gelombang-gelombang cahaya ini saling menguatkan (interferensi konstruktif) dan membentuk front gelombang koheren yang merambat pada sudut tertentu.
 
-Sudut pancaran radiasi ($\theta$) dapat dihitung dengan persamaan: $\cos \theta = \frac{1}{n\beta}$ Di mana:
+Sudut pancaran radiasi ($\theta$) dapat dihitung dengan persamaan: $\cos \theta = \frac{1}{n\beta}$, dengan:
 
 - $n$ adalah indeks bias medium.
 - $\beta$ adalah rasio kecepatan partikel terhadap kecepatan cahaya di ruang hampa ($v/c$).
@@ -66,9 +66,9 @@ Semakin pendek panjang gelombangnya (semakin tinggi frekuensinya), semakin banya
 Radiasi Cherenkov bukan sekadar tontonan visual; ia memiliki kegunaan praktis dalam sains dan keamanan:
 
 - **Pemantauan Reaktor Nuklir:** Pendaran biru di kolam bahan bakar bekas adalah indikator visual langsung bahwa material tersebut masih sangat radioaktif (mengalami peluruhan beta aktif). Jika cahaya biru meredup, itu menandakan aktivitas radioaktif telah menurun.
-- **Detektor Neutrino (Super-Kamiokande):** Di Jepang, terdapat tangki air raksasa di bawah tanah untuk mendeteksi neutrino. Ketika neutrino menabrak molekul air, ia menghasilkan elektron atau muon berkecepatan tinggi yang memicu radiasi Cherenkov. Sensor cahaya (PMT) menangkap pendaran ini untuk mempelajari neutrino tersebut.
-- **Terapi Radiasi:** Dalam medis, radiasi Cherenkov dapat digunakan untuk memverifikasi apakah dosis radiasi yang ditembakkan ke tubuh pasien sudah tepat mengenai target tumor dengan memantau cahaya yang dihasilkan di dalam jaringan tubuh.
+- **Detektor Neutrino (Super-Kamiokande):** Di Jepang, terdapat tangki air raksasa di bawah tanah untuk mendeteksi neutrino. Ketika neutrino menabrak molekul air, ia menghasilkan elektron atau muon berkecepatan tinggi yang memicu radiasi Cherenkov. Sensor cahaya (photomultiplier tube atau PMT) menangkap pendaran ini untuk mempelajari neutrino tersebut.
+- **Terapi Radiasi:** Dalam bidang medis, radiasi Cherenkov dapat digunakan untuk memverifikasi apakah dosis radiasi yang ditembakkan ke tubuh pasien sudah tepat mengenai target tumor dengan memantau cahaya yang dihasilkan di dalam jaringan tubuh.
 
-**Pikirkan tentang ini:** *Jika seseorang berada di ruang hampa udara, mungkinkah terlihat radiasi Cherenkov? Ingat kembali syarat utama terjadinya fenomena ini: adanya medium di mana cahaya bisa dilampaui.*
+**Pikirkan tentang ini:** *Jika seseorang berada di ruang hampa udara, mungkinkah terlihat radiasi Cherenkov? Ingat kembali syarat utama terjadinya fenomena ini: adanya medium tempat cahaya bisa dilampaui.*
 
-> **Kesimpulan Singkat:** Radiasi Cherenkov adalah tanda peluruhan beta yang bisa dilihat. Elektron yang berlari lebih cepat dari cahaya di dalam air menciptakan gelombang kejut optik, menghasilkan pendaran biru yang membuat proses nuklir yang biasanya tak kasat mata bisa terlihat.
+> **Kesimpulan Singkat:** Radiasi Cherenkov adalah tanda utama peluruhan beta yang bisa dilihat. Elektron yang berlari lebih cepat dari cahaya di dalam air menciptakan gelombang kejut optik, menghasilkan pendaran biru yang membuat proses nuklir yang biasanya tak kasat mata bisa terlihat.

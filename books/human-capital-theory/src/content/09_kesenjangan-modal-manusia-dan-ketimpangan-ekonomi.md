@@ -1,6 +1,6 @@
 ## Kesenjangan Modal Manusia dan Ketimpangan Ekonomi
 
-Bayangkan sebuah perlombaan lari di mana satu peserta memulai dari garis start yang bersih dan memakai sepatu lari mutakhir. Peserta lainnya harus memulai 100 meter di belakang dengan kaki telanjang. Dalam ekonomi, "garis start" ini adalah **Modal Manusia (Human Capital)**.
+Bayangkan sebuah perlombaan lari yang salah satu pesertanya memulai dari garis start yang bersih dan memakai sepatu lari mutakhir. Peserta lainnya harus memulai 100 meter di belakang dengan kaki telanjang. Dalam ekonomi, "garis start" ini adalah **Modal Manusia (Human Capital)**.
 
 Kesenjangan modal manusia bukan hanya perbedaan angka di atas kertas. Hal ini menjadi akar penyebab melebarnya jurang antara kelompok mampu dan kurang mampu, serta terkonsentrasinya kesejahteraan di wilayah tertentu saja.
 
@@ -15,7 +15,7 @@ Kesenjangan modal manusia terjadi ketika individu atau kelompok tidak memiliki k
 Bayangkan dua orang anak dengan potensi kecerdasan yang sama.
 
 - **Anak A** tumbuh di lingkungan dengan perpustakaan lengkap, akses internet cepat, dan nutrisi protein tinggi.
-- **Anak B** tumbuh di daerah terpencil tanpa buku, koneksi internet yang putus-putus, dan mengalami malnutrisi (stunting).
+- **Anak B** tumbuh di daerah terpencil tanpa buku, koneksi internet yang putus-putus, dan mengalami malnutrisi (berisiko stunting).
 
 Meskipun keduanya memiliki "kapasitas otak" awal yang sama, **investasi** yang masuk ke dalam diri mereka berbeda jauh. Saat mereka memasuki pasar kerja, Anak A akan memiliki "harga jual" (upah) yang jauh lebih tinggi daripada Anak B.
 
@@ -29,7 +29,7 @@ Meskipun keduanya memiliki "kapasitas otak" awal yang sama, **investasi** yang m
 
 Masalah utama dalam kesenjangan modal manusia saat ini tidak lagi sebatas "apakah anak sekolah atau tidak", melainkan **"apa yang mereka dapatkan di sekolah"**.
 
-- **Disparitas Kualitas:** Siswa di sekolah elit kota besar memiliki akses ke laboratorium STEM dan guru bersertifikasi internasional, sementara siswa di pelosok belajar di bangunan yang kurang layak dengan jumlah tenaga pengajar yang terbatas.
+- **Disparitas Kualitas:** Siswa di sekolah elite kota besar memiliki akses ke laboratorium STEM dan guru bersertifikasi internasional, sementara siswa di pelosok belajar di bangunan yang kurang layak dengan jumlah tenaga pengajar yang terbatas.
 - **The Digital Divide (Kesenjangan Digital):** Di era ekonomi pengetahuan, penguasaan teknologi menjadi syarat penting. Ketidakmampuan mengakses perangkat digital menciptakan kelas sosial baru: mereka yang "cakap digital" dan mereka yang "terasing secara teknologi".
 
 ### Representasi Matematis Ketimpangan Pendapatan
@@ -42,7 +42,7 @@ Y = f(H, L, K)
 $$
 </div>
 
-Di mana $H$ dipengaruhi oleh lamanya sekolah ($s$) dan kualitas pendidikan ($q$):
+Dalam hal ini, $H$ dipengaruhi oleh lamanya sekolah ($s$) dan kualitas pendidikan ($q$):
 
 <div>
 $$
@@ -67,13 +67,13 @@ Dampaknya bagi wilayah asal:
 
 1. Kehilangan tenaga kerja paling produktif.
 2. Menurunnya insentif bagi perusahaan untuk berinvestasi di daerah tersebut karena kurangnya talenta.
-3. Melebarnya kesenjangan PDB antar wilayah.
+3. Melebarnya kesenjangan PDB antarwilayah.
 
 ## 5. Pewarisan Modal Manusia Antargenerasi
 
 Kesenjangan modal manusia cenderung bersifat turun-temurun. Orang tua yang memiliki modal manusia tinggi tidak hanya mewariskan uang, tetapi juga **Cultural Capital** (Modal Budaya).
 
-Mengapa anak dari keluarga profesional cenderung menjadi profesional juga? Hal ini terjadi bukan hanya karena faktor finansial, melainkan juga karena keterpaparan terhadap kosakata kompleks, cara berpikir kritis, dan jaringan sosial (*social networking*) sejak dini.
+Mengapa anak dari keluarga profesional cenderung menjadi profesional juga? Hal ini terjadi bukan hanya karena faktor finansial, melainkan juga karena keterpaparan terhadap kosakata kompleks, cara berpikir kritis, dan jaringan sosial (*social network*) sejak dini.
 
 > **Poin Penting:** Tanpa intervensi kebijakan yang tepat, modal manusia akan mengelompok (*cluster*) pada kelas sosial tertentu dan memperkaku struktur masyarakat, sehingga mobilitas vertikal menjadi terbatas.
 
@@ -98,7 +98,7 @@ Di wilayah yang hanya bergantung pada komoditas mentah tanpa investasi pada pend
 Pandemi COVID-19 memberikan gambaran nyata bagaimana kesenjangan modal manusia dapat melebar dalam waktu singkat:
 
 1. **Siswa Mampu:** Melakukan pembelajaran daring dengan laptop pribadi, koneksi internet serat optik, serta pendampingan dari orang tua berpendidikan.
-2. **Siswa Kurang Mampu:** Mengalami *learning loss* (kehilangan kemampuan belajar) akibat keterbatasan perangkat, sinyal yang tidak memadai, atau keharusan membantu perekonomian keluarga.
+2. **Siswa Kurang Mampu:** Mengalami *learning loss* (kehilangan capaian belajar) akibat keterbatasan perangkat, sinyal yang tidak memadai, atau keharusan membantu perekonomian keluarga.
 
 Para ekonom memperkirakan bahwa *learning loss* ini berdampak pada penurunan pendapatan masa depan bagi generasi dari keluarga kurang mampu sebesar:
 
@@ -108,6 +108,6 @@ $$
 $$
 </div>
 
-Di mana $r$ merupakan tingkat diskonto (*discount rate*) masa depan. Persamaan ini menunjukkan bahwa ketimpangan akumulasi modal manusia hari ini dapat memperbesar ketimpangan ekonomi jangka panjang.
+Dalam persamaan tersebut, $r$ merupakan tingkat diskonto (*discount rate*) masa depan. Persamaan ini menunjukkan bahwa ketimpangan akumulasi modal manusia hari ini dapat memperbesar ketimpangan ekonomi jangka panjang.
 
 *Refleksi untuk kamu:* Jika modal manusia menentukan kesejahteraan, apakah menurut kamu memberikan beasiswa saja sudah cukup untuk menghapus ketimpangan? Ataukah kita perlu memperbaiki infrastruktur kesehatan sejak bayi masih dalam kandungan untuk menciptakan kesetaraan kesempatan yang nyata?

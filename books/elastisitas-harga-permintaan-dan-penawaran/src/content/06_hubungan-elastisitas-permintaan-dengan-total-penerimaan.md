@@ -9,15 +9,15 @@ $$
 \text{TR} = P \times Q
 $$
 
-Di mana:
+Keterangan:
 - $\text{TR}$ = Total Revenue (Total Penerimaan)
 - $P$ = Price (Harga per unit)
 - $Q$ = Quantity (Jumlah unit yang terjual)
-> **Insight Penting:** Perubahan dalam $\text{TR}$ bergantung pada mana yang lebih dominan: **kenaikan harga ($P$)** atau **penurunan jumlah permintaan ($Q$)**. Hukum permintaan menyatakan bahwa jika $P$ naik, $Q$ pasti turun. Elastisitas memberi tahu kita *seberapa besar* penurunan $Q$ tersebut.
+> **Insight Penting:** Perubahan dalam $\text{TR}$ bergantung pada mana yang lebih dominan: **kenaikan harga ($P$)** atau **penurunan jumlah yang diminta ($Q$)**. Hukum permintaan menyatakan bahwa jika $P$ naik, $Q$ turun. Elastisitas memberi tahu kita *seberapa besar* penurunan $Q$ tersebut.
 ### 2. Elastisitas vs. Total Revenue
 Efek perubahan harga terhadap total penerimaan akan berbeda-beda tergantung pada derajat elastisitas barang tersebut.
 #### A. Permintaan Elastis
-Pada kondisi ini, konsumen sangat sensitif terhadap perubahan harga. Perubahan harga yang sedikit saja akan memicu perubahan jumlah permintaan yang jauh lebih besar.
+Pada kondisi ini, konsumen sangat sensitif terhadap perubahan harga. Perubahan harga yang sedikit saja akan memicu perubahan jumlah yang diminta yang jauh lebih besar.
 - **Jika Harga Turun:** Persentase kenaikan jumlah yang diminta ($Q$) lebih besar daripada persentase penurunan harga ($P$). Hasilnya, **Total Revenue akan naik**.
 - **Jika Harga Naik:** Persentase penurunan jumlah yang diminta ($Q$) lebih besar daripada persentase kenaikan harga ($P$). Hasilnya, **Total Revenue akan turun**.
 **Analogi:** Bayangkan kamu menjual es jeruk di pasar yang memiliki 20 penjual es jeruk lainnya. Jika kamu menaikkan harga sedikit saja, pelanggan akan langsung pindah ke penjual sebelah. Pendapatan kamu akan anjlok.
@@ -27,11 +27,11 @@ Di sini, konsumen tidak terlalu sensitif terhadap perubahan harga. Biasanya ini 
 - **Jika Harga Naik:** Persentase penurunan jumlah yang diminta ($Q$) lebih kecil daripada persentase kenaikan harga ($P$). Hasilnya, **Total Revenue akan naik**.
 **Analogi:** Bayangkan kamu adalah satu-satunya penyedia air bersih di sebuah desa terpencil. Jika kamu menaikkan harga, orang-orang mungkin akan sedikit lebih hemat, tetapi mereka masih harus membeli air dari kamu karena membutuhkannya untuk bertahan hidup.
 #### C. Permintaan Elastis Uniter
-Kondisi ini jarang terjadi di dunia nyata secara sempurna, namun penting secara teoretis.
+Kondisi ini jarang terjadi di dunia nyata secara sempurna, tetapi penting secara teoretis.
 - **Jika Harga Naik atau Turun:** Persentase perubahan harga ($P$) sama persis dengan persentase perubahan jumlah yang diminta ($Q$). Hasilnya, **Total Revenue tetap sama (konstan)**.
 ### 3. Ringkasan Strategi untuk Produsen
 Tabel strategi di bawah ini memudahkan pengambilan keputusan:
-| Perubahan Harga | Permintaan Elastis ($E_d > 1$) | Permintaan Inelastis ($E_d < 1$) | Permintaan Uniter ($E_d = 1$) |
+| Perubahan Harga | Permintaan Elastis ($E_d > 1$) | Permintaan Inelastis ($E_d < 1$) | Permintaan Elastis Uniter ($E_d = 1$) |
 | --- | --- | --- | --- |
 | **Harga Naik ($\uparrow$)** | $\text{TR}$ Turun ($\downarrow$) | $\text{TR}$ Naik ($\uparrow$) | $\text{TR}$ Tetap |
 | **Harga Turun ($\downarrow$)** | $\text{TR}$ Naik ($\uparrow$) | $\text{TR}$ Turun ($\downarrow$) | $\text{TR}$ Tetap |
@@ -39,7 +39,7 @@ Sebagai contoh, jika seseorang menjadi manajer pemasaran produk garam dapur, men
 ### 4. Kurva Total Revenue
 Jika kita memplot hubungan ini dalam sebuah grafik, kurva Total Revenue biasanya berbentuk seperti huruf "U" terbalik (parabola).
 1. **Bagian Atas (Elastis):** Saat harga masih tinggi, permintaan berada di wilayah elastis. Menurunkan harga akan meningkatkan $\text{TR}$.
-2. **Titik Puncak (Unitary):** Total Revenue mencapai titik **maksimum** tepat ketika elastisitas permintaan sama dengan satu ($E_d = 1$).
+2. **Titik Puncak (Elastis Uniter):** Total Revenue mencapai titik **maksimum** tepat ketika elastisitas permintaan sama dengan satu ($E_d = 1$).
 3. **Bagian Bawah (Inelastis):** Setelah melewati titik puncak, jika harga terus diturunkan, permintaan masuk ke wilayah inelastis. Menurunkan harga lebih lanjut justru akan mengurangi $\text{TR}$.
 
    $$

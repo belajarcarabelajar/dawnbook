@@ -33,9 +33,9 @@ Tidak semua dominasi diciptakan sama. Dalam teori permainan, kita membedakan ked
 
 #### A. Strategi Dominan Ketat (Strictly Dominant)
 
-Strategi ini **selalu memberikan hasil yang lebih besar** daripada strategi lainnya. Tidak ada satu pun kondisi di mana strategi lain bisa menyamai atau melampaui hasilnya.
+Strategi ini **selalu memberikan hasil yang lebih besar** daripada strategi lainnya. Tidak ada satu pun kondisi ketika strategi lain bisa menyamai atau melampaui hasilnya.
 
-> **Pesan Penting:** Jika seorang pemain memiliki strategi dominan ketat, seorang pemain yang rasional **pasti** akan memilihnya.
+> **Pesan Penting:** Jika seorang pemain yang rasional memiliki strategi dominan ketat, ia **pasti** akan memilihnya.
 
 #### B. Strategi Dominan Lemah (Weakly Dominant)
 
@@ -45,7 +45,7 @@ $$
 u_i(s_i^*, s_{-i}) \geq u_i(s_i, s_{-i})
 $$
 
-*Sebagai ilustrasi: Dalam dunia investasi, jika ada instrumen yang memberikan bunga 5% dengan risiko nol, dan instrumen lain memberikan bunga 5% tapi dengan risiko tinggi, mana yang akan kamu pilih? Instrumen tanpa risiko adalah strategi dominan lemah.*
+*Ini bukan contoh dominasi lemah. Dalam dunia investasi, jika ada instrumen yang memberikan bunga 5% dengan risiko nol, dan instrumen lain memberikan bunga 5% tapi dengan risiko tinggi, mana yang akan kamu pilih? Kedua instrumen memberi hasil yang sama, jadi tidak ada yang lebih baik dari yang lain.*
 
 ### 3. Strategi yang Didominasi (Dominated Strategies)
 
@@ -63,7 +63,7 @@ Ini adalah teknik detektif dalam teori permainan. **Iterated Elimination of Stri
 2. Lihat dari perspektif Pemain 2: Dengan sisa strategi yang ada, adakah strategi yang selalu memberikan hasil lebih buruk? Jika ada, hapus kolom tersebut.
 3. Ulangi proses ini sampai tidak ada lagi strategi yang bisa dieliminasi.
 
-#### Contoh Matriks (Game Iklan)
+#### Contoh Matriks (Permainan Iklan)
 
 Dua perusahaan, A dan B, memutuskan apakah akan beriklan (I) atau tidak (TI).
 
@@ -89,11 +89,11 @@ Dua supermarket besar yang berdekatan sering kali terjebak dalam strategi domina
 
 #### B. Perlombaan Senjata (Arms Race)
 
-Dalam politik internasional, dua negara mungkin merasa bahwa membangun senjata nuklir adalah strategi dominan. Jika lawan membangun senjata, kamu harus membangunnya agar tidak kalah. Jika lawan tidak membangun, kamu membangunnya agar menjadi lebih kuat. Inilah yang menjelaskan mengapa eliminasi strategi yang didominasi bisa mengarah pada hasil yang tidak optimal secara kolektif (tragedi bersama).
+Dalam politik internasional, dua negara mungkin merasa bahwa membangun senjata nuklir adalah strategi dominan. Jika lawan membangun senjata, kamu harus membangunnya agar tidak kalah. Jika lawan tidak membangun, kamu membangunnya agar menjadi lebih kuat. Inilah yang menjelaskan mengapa eliminasi strategi yang didominasi bisa mengarah pada hasil yang tidak optimal secara kolektif.
 
 #### C. Sistem Lelang
 
-Dalam lelang tertutup (Vickrey Auction), menawar sesuai dengan nilai asli barang bagi kamu (true valuation) adalah strategi dominan lemah. Kamu tidak akan pernah rugi dengan menawar sesuai nilai asli, karena menawar lebih tinggi bisa membuat kamu membayar lebih mahal dari nilai barang, dan menawar lebih rendah hanya memperkecil peluang menang tanpa mengubah harga yang harus dibayar.
+Dalam lelang tertutup harga kedua (Vickrey Auction), menawar sesuai dengan nilai asli barang bagi kamu (true valuation) adalah strategi dominan lemah. Kamu tidak akan pernah rugi dengan menawar sesuai nilai asli, karena menawar lebih tinggi bisa membuat kamu membayar lebih mahal dari nilai barang, dan menawar lebih rendah hanya memperkecil peluang menang tanpa mengubah harga yang harus dibayar.
 
 ### 6. Kesimpulan & Refleksi
 

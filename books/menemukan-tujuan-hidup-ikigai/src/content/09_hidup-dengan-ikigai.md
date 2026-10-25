@@ -8,7 +8,7 @@ Menyatukan Ikigai dalam keseharian berarti kamu mulai hidup dengan arah yang jel
 
 ### Di Lingkungan Kerja
 
-Pekerjaan adalah salah satu area utama di mana Ikigai bisa memberikan dampak besar. Apa pun profesi kamu, selalu ada celah untuk menemukan makna.
+Pekerjaan adalah salah satu area utama tempat Ikigai bisa memberikan dampak besar. Apa pun profesi kamu, selalu ada celah untuk menemukan makna.
 
 #### 1\. Mencari Makna dalam Pekerjaan Saat Ini
 
@@ -20,7 +20,7 @@ Selain itu, cobalah bergeser dari melihat daftar tugas menjadi berfokus pada dam
 
 #### 2\. Menyelaraskan Tugas dengan Nilai-nilai Ikigai
 
-Sebisa mungkin, tarik benang merah antara tugas harian dengan elemen Ikigai kamu. Jika ada ruang untuk memilih, ambil proyek yang selaras dengan *passion* atau keterampilan yang ingin dikembangkan.
+Sebisa mungkin, tarik benang merah antara tugas harian dan elemen Ikigai kamu. Jika ada ruang untuk memilih, ambil proyek yang selaras dengan *passion* atau keterampilan yang ingin dikembangkan.
 
 Kamu juga bisa mengajukan diri untuk memimpin inisiatif internal di tempat kerja. Menjadi mentor untuk karyawan baru, bergabung dalam kepanitiaan sosial, atau sekadar merancang sistem kerja yang lebih efektif bisa menjadi ruang ekspresi nilai pribadimu. Manfaatkan setiap peluang pelatihan untuk menajamkan kemampuan yang relevan.
 
@@ -34,7 +34,7 @@ Kehidupan pribadi, termasuk hobi, dinamika hubungan, dan cara menghabiskan waktu
 
 #### 1\. Hobi dan Minat
 
-Hobi adalah saluran ekspresi Ikigai yang otentik. Sediakan waktu khusus secara sengaja untuk aktivitas yang kamu "Cintai" dan "Kuasai" agar energimu terisi kembali. Pertimbangkan juga untuk menghubungkan minat tersebut dengan "Apa yang Dibutuhkan Dunia." Kegiatan seperti membuat kerajinan, berkebun, atau menulis bisa diarahkan untuk donasi atau berbagi pengetahuan. Jangan ragu bereksplorasi; hal-hal baru sering kali menyingkap sisi Ikigai yang belum terpetakan.
+Hobi adalah saluran ekspresi Ikigai yang autentik. Sediakan waktu khusus secara sengaja untuk aktivitas yang kamu "Cintai" dan "Kuasai" agar energimu terisi kembali. Pertimbangkan juga untuk menghubungkan minat tersebut dengan "Apa yang Dibutuhkan Dunia." Kegiatan seperti membuat kerajinan, berkebun, atau menulis bisa diarahkan untuk donasi atau berbagi pengetahuan. Jangan ragu bereksplorasi; hal-hal baru sering kali menyingkap sisi Ikigai yang belum terpetakan.
 
 #### 2\. Hubungan dan Kontribusi Sosial
 
@@ -52,7 +52,7 @@ Perjalanan menyusuri Ikigai jarang terbebas dari hambatan. Wajar jika kamu mengh
 
 ### Tantangan yang Sering Muncul
 
-Momen keraguan kerap datang, terutama ketika hasil dari pilihan hidupmu belum langsung terlihat. Tekanan sosial dan ekspektasi dari keluarga atau lingkungan juga bisa berbenturan dengan panggilan Ikigai kamu. Selain itu, mengejar *passion* terkadang menghadirkan kendala finansial, memicu dilema antara mencari kepuasan batin atau memenuhi kebutuhan praktis.
+Momen keraguan kerap datang, terutama ketika hasil dari pilihan hidupmu belum langsung terlihat. Tekanan sosial dan ekspektasi dari keluarga atau lingkungan juga bisa berbenturan dengan panggilan Ikigai kamu. Selain itu, mengejar *passion* terkadang menghadirkan kendala finansial, memicu dilema antara mencari kepuasan batin dan memenuhi kebutuhan praktis.
 
 Kesibukan modern sering membuat waktu dan energi habis sebelum kamu sempat menyentuh aktivitas bermakna. Seiring berjalannya waktu, prioritas hidup juga bisa bergeser dan membuat Ikigai lamamu terasa kurang relevan. Belum lagi risiko kemunduran atau kegagalan yang dapat menurunkan semangat di tengah jalan.
 

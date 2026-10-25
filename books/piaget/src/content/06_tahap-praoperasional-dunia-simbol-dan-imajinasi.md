@@ -1,6 +1,6 @@
 ## Tahap Praoperasional
 
-Selesai dengan fase sensorimotor yang serba fisik, anak masuk ke **Tahap Praoperasional**. Di usia ini, kemampuan berimajinasi mulai muncul. Mereka bisa membayangkan benda yang tidak ada di depan mata. Tapi ingat, namanya saja "pra-operasional", jadi jangan harap mereka sudah bisa berpikir secara logis.
+Selesai dengan fase sensorimotor yang serba fisik, anak masuk ke **Tahap Praoperasional**. Di usia ini, kemampuan berimajinasi mulai muncul. Mereka bisa membayangkan benda yang tidak ada di depan mata. Tapi ingat, namanya saja "praoperasional", jadi jangan harap mereka sudah bisa berpikir secara logis.
 
 ## 1\. Munculnya Fungsi Simbolik
 
@@ -20,7 +20,7 @@ Walau sudah pandai bicara, struktur berpikir mereka masih kaku.
 
 ### A. Egosentrisme
 
-Egosentrisme di sini bukan berarti sombong atau egois dalam arti moral, melainkan ketidakmampuan secara kognitif untuk membedakan antara perspektif diri sendiri dengan perspektif orang lain.
+Egosentrisme di sini bukan berarti sombong atau egois dalam arti moral, melainkan ketidakmampuan secara kognitif untuk membedakan antara perspektif diri sendiri dan perspektif orang lain.
 
 - **Eksperimen Tiga Gunung:** Piaget menunjukkan model tiga gunung yang berbeda pada anak. Saat ditanya apa yang dilihat oleh boneka yang duduk di sisi lain gunung, anak usia praoperasional cenderung menjawab berdasarkan apa yang *mereka* lihat, bukan apa yang dilihat boneka tersebut.
 - **Contoh Nyata:** Pernahkah kamu melihat balita "bersembunyi" dengan cara menutup matanya sendiri? Mereka berpikir, *"Jika aku tidak bisa melihat ayah, maka ayah tidak bisa melihatku."*
@@ -77,17 +77,17 @@ Sering geregetan melihat anak yang tidak logis? Pahami batasan umur ini supaya k
 
 - **Gunakan Alat Peraga Visual:** Karena mereka sulit berpikir abstrak, gunakan benda nyata. Mengajar berhitung lebih efektif dengan apel nyata daripada angka di papan tulis.
 - **Hands-on Experience:** Biarkan mereka bermain dengan air, pasir, dan tanah liat untuk perlahan membangun pemahaman tentang bentuk dan volume.
-- **Sederhanakan Instruksi:** Berikan instruksi satu per satu karena kemampuan mereka memproses urutan langkah (operasional) masih terbatas.
+- **Sederhanakan Instruksi:** Berikan instruksi satu per satu karena kemampuan mereka memproses urutan langkah masih terbatas.
 - **Hargai Imajinasi:** Jangan mengoreksi animisme mereka secara kasar. Alih-alih berkata "Batu itu benda mati," gunakan imajinasi itu untuk membangun empati (misal: "Mari kita letakkan batu ini pelan-pelan agar dia tidak sakit").
 
 ## Roti Lapis Budi di Meja Makan
 
-**Skenario:** Ibu memotong roti lapis Budi menjadi dua bagian, sementara roti lapis kakaknya (yang sudah usia 8 tahun) tidak dipotong. Budi menangis kegirangan dan berkata, "Asyik! Rotiku lebih banyak dari punya Kakak!"
+**Skenario:** Ibu memotong roti lapis Budi menjadi dua bagian, sementara roti lapis kakaknya (yang sudah berusia 8 tahun) tidak dipotong. Budi menangis kegirangan dan berkata, "Asyik! Rotiku lebih banyak dari punya Kakak!"
 
 **Analisis Piaget:**
 
 - Budi menunjukkan **kurangnya konservasi jumlah**. Baginya, dua potong lebih banyak daripada satu potong, meskipun total massa rotinya sama.
-- Budi mengalami **Centration**, di mana ia hanya fokus pada jumlah potongan, bukan ukuran total roti.
-- Ibunya tidak perlu berdebat logis dengan Budi. Mengapa? Karena secara struktur kognitif, otak Budi memang belum mampu memproses hukum kekekalan massa.
+- Budi mengalami **Centration**, ketika ia hanya fokus pada jumlah potongan, bukan ukuran total roti.
+- Ibunya tidak perlu berdebat logis dengan Budi. Mengapa? Karena secara struktur kognitif, otak Budi memang belum mampu memahami konservasi jumlah.
 
-Jadi, kalau melihat anak umur 4 tahun menyuapi biskuit ke gambar kucing di buku cerita, tidak perlu heran. Itu sangat wajar. Kombinasi animisme dan fungsi simbolik memang sering memunculkan adegan imajinatif sekaligus kocak seperti itu.
+Jadi, kalau melihat anak umur 4 tahun menyuapkan biskuit ke gambar kucing di buku cerita, tidak perlu heran. Itu sangat wajar. Kombinasi animisme dan fungsi simbolik memang sering memunculkan adegan imajinatif sekaligus kocak seperti itu.

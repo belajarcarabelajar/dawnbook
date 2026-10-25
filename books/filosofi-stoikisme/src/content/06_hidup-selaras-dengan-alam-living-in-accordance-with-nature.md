@@ -26,7 +26,7 @@ Bagi seorang Stoik, kata "Alam" (*Phusis*) merujuk pada dua hal yang harus disel
 
 Ini adalah hukum fisik dan takdir yang mengatur dunia. Kita hidup selaras dengan alam semesta ketika kita menerima realitas apa adanya, tanpa mengeluh.
 
-> "Jangan menuntut agar hal-hal terjadi seperti yang kamu inginkan, tetapi inginkanlah agar hal-hal itu terjadi sebagaimana mestinya, maka kamu akan sejahtera." , **Epictetus**
+> "Jangan menuntut agar hal-hal terjadi seperti yang kamu inginkan, tetapi inginkanlah agar hal-hal itu terjadi sebagaimana adanya, maka kamu akan sejahtera." - **Epictetus**
 
 ### B. Alam Manusia (Human Nature)
 
@@ -45,7 +45,7 @@ Salah satu analogi paling terkenal dari tokoh Stoik awal (Zeno atau Chrysippus) 
 2. Tali melambangkan keterikatan kita pada takdir tersebut.
 3. Anjing tersebut memiliki dua pilihan:
 	- **Pilihan A:** Berlari mengikuti gerobak dengan sukarela. Ia tetap ditarik, tetapi ia bergerak dengan anggun dan tanpa rasa sakit.
-		- **Pilihan B:** Melawan, menggonggong, dan mencoba diam di tempat. Hasilnya? Ia tetap akan terseret oleh gerobak tersebut, namun dengan luka-luka dan penderitaan.
+		- **Pilihan B:** Melawan, menggonggong, dan mencoba diam di tempat. Hasilnya? Ia tetap akan terseret oleh gerobak tersebut, tetapi dengan luka-luka dan penderitaan.
 
 *Dalam hidup kamu, momen apa yang terasa seperti kamu sedang "menolak terseret gerobak" dan akhirnya menyakiti diri sendiri?*
 
@@ -75,8 +75,8 @@ Bagaimana cara menerapkan prinsip "Hidup Selaras dengan Alam" saat ini? Berikut 
 
 ### 1\. Menghadapi Kemacetan
 
-- **Melawan Alam:** Marah-marah, memukul setir, dan stres karena "seharusnya tidak macet". kamu sedang melawan hukum sebab-akibat (banyak kendaraan di ruang terbatas = macet).
-- **Selaras dengan Alam:** Mengakui bahwa kemacetan adalah bagian dari realitas saat ini. kamu menggunakan nalar untuk tetap tenang (karena marah tidak akan menghilangkan mobil di depan kamu) dan menggunakan waktu tersebut untuk mendengarkan *audiobook* atau merenung.
+- **Melawan Alam:** Marah-marah, memukul setir, dan stres karena "seharusnya tidak macet". Kamu sedang melawan hukum sebab-akibat (banyak kendaraan di ruang terbatas = macet).
+- **Selaras dengan Alam:** Mengakui bahwa kemacetan adalah bagian dari realitas saat ini. Kamu menggunakan nalar untuk tetap tenang (karena marah tidak akan menghilangkan mobil di depan kamu) dan menggunakan waktu tersebut untuk mendengarkan *audiobook* atau merenung.
 
 ### 2\. Proses Penuaan
 
@@ -86,7 +86,7 @@ Bagaimana cara menerapkan prinsip "Hidup Selaras dengan Alam" saat ini? Berikut 
 ### 3\. Kegagalan dalam Pekerjaan
 
 - **Melawan Alam:** Merasa semesta tidak adil dan terus-menerus bertanya "Mengapa saya?".
-- **Selaras dengan Alam:** Menyadari bahwa dalam sistem besar (ekonomi, dinamika kantor), kegagalan adalah kemungkinan yang logis. kamu mengevaluasi dengan nalar apa yang bisa dipelajari dan bergerak maju sesuai dengan peran kamu sebagai makhluk yang tangguh.
+- **Selaras dengan Alam:** Menyadari bahwa dalam sistem besar (ekonomi, dinamika kantor), kegagalan adalah kemungkinan yang logis. Kamu mengevaluasi dengan nalar apa yang bisa dipelajari dan bergerak maju sesuai dengan peran kamu sebagai makhluk yang tangguh.
 
 ## 6\. Peta Respons Stoik
 
@@ -101,6 +101,6 @@ Misalnya, hujan deras turun saat kamu akan piknik. Hujan termasuk kategori unive
 
 ## Ringkasan untuk Diingat
 
-> **Poin Utama:** Hidup selaras dengan alam bukanlah kepasifan. Ini adalah **penerimaan aktif**. Kita menerima apa yang terjadi di dunia luar sebagai bagian dari rencana besar yang rasional (*Logos*), namun kita tetap aktif menggunakan nalar kita untuk bertindak dengan bijak, adil, dan berani di dalam dunia tersebut.
+> **Poin Utama:** Hidup selaras dengan alam bukanlah kepasifan. Ini adalah **penerimaan aktif**. Kita menerima apa yang terjadi di dunia luar sebagai bagian dari rencana besar yang rasional (*Logos*), tetapi kita tetap aktif menggunakan nalar kita untuk bertindak dengan bijak, adil, dan berani di dalam dunia tersebut.
 
 **Pikirkan ini sebagai tantangan:** Hari ini, ketika sesuatu tidak berjalan sesuai rencana kamu, berhentilah sejenak. Katakan pada diri sendiri: *"Ini adalah bagian dari jalannya alam semesta. Bagaimana saya bisa menggunakan nalar saya untuk meresponsnya dengan harmonis?"*

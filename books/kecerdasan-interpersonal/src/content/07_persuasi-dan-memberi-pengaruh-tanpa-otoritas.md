@@ -83,7 +83,7 @@ Gunakan teknik **"Feel, Felt, Found"**:
 Sebelum mengajukan gagasan kepada orang lain, pastikan hal-hal berikut:
 
 - Hubungan baik sudah terjalin sebelumnya (*reciprocity* / *liking*).
-- Penjelasan fokus pada manfaat bagi lawan bicara, bukan kepentingan pribadi (*framing*).
+- Penjelasan berfokus pada manfaat bagi lawan bicara, bukan kepentingan pribadi (*framing*).
 - Data pendukung atau bukti sosial sudah siap saji (*logos* / *social proof*).
 - "Mata uang" yang ditawarkan sesuai dengan apa yang dihargai oleh penerima ide (*exchange model*).
 

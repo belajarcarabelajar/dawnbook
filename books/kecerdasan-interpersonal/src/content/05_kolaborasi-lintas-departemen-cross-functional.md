@@ -1,14 +1,14 @@
 ## Kolaborasi Lintas Departemen (Cross-Functional)
 
-Pernahkah kamu berada dalam sebuah proyek di mana tim developer merasa desainer meminta hal-hal yang tidak mungkin secara teknis? Dalam proyek itu, tim marketing merasa produknya terlalu kaku dan tidak menarik. Selamat, kamu sedang menyaksikan fenomena **organizational silos** (silo organisasi).
+Pernahkah kamu berada dalam sebuah proyek tempat tim developer merasa desainer meminta hal-hal yang tidak mungkin secara teknis? Dalam proyek itu, tim marketing merasa produknya terlalu kaku dan tidak menarik. Selamat, kamu sedang menyaksikan fenomena **organizational silos** (silo organisasi).
 
-Kolaborasi lintas departemen membutuhkan lebih dari sekadar bekerja di gedung yang sama atau bergabung dalam grup komunikasi digital yang sama. Intinya adalah menyelaraskan berbagai perspektif dan prioritas kerja untuk mencapai satu target bersama. Bagi seorang *T-shaped professional*, kemampuanmu untuk menjadi jembatan (*bridge*) antar-departemen adalah aset yang berharga.
+Kolaborasi lintas departemen membutuhkan lebih dari sekadar bekerja di gedung yang sama atau bergabung dalam grup komunikasi digital yang sama. Intinya adalah menyelaraskan berbagai perspektif dan prioritas kerja untuk mencapai satu target bersama. Bagi seorang *T-shaped professional*, kemampuanmu untuk menjadi jembatan (*bridge*) antardepartemen adalah aset yang berharga.
 
 ## 1. Memahami Fenomena Silo
 
 Silo organisasi terjadi ketika departemen-departemen di dalam perusahaan beroperasi secara independen tanpa berbagi informasi atau tujuan dengan departemen lain.
 
-> **Analogi Sederhana:** Bayangkan proses membangun sebuah rumah. Jika instalatur pipa hanya memikirkan aliran air, arsitek hanya peduli pada estetika visual, dan kontraktor utama hanya fokus pada pemangkasan biaya, hasilnya bisa ditebak. Kamu mungkin berakhir dengan rumah yang indah secara visual namun tanpa air yang mengalir, atau bangunan murah yang rentan roboh.
+> **Analogi Sederhana:** Bayangkan proses membangun sebuah rumah. Jika instalatur pipa hanya memikirkan aliran air, arsitek hanya peduli pada estetika visual, dan kontraktor utama hanya fokus pada pemangkasan biaya, hasilnya bisa ditebak. Kamu mungkin berakhir dengan rumah yang indah secara visual, tetapi tanpa air yang mengalir, atau bangunan murah yang rentan roboh.
 
 ### Mengapa Silo Bisa Terjadi?
 
@@ -24,7 +24,7 @@ Untuk berkolaborasi secara produktif, kamu harus memahami apa yang menggerakkan 
 | --- | --- | --- |
 | **Teknis (IT/Eng)** | Keamanan, Skalabilitas, Efisiensi | "Apakah sistem baru ini dapat diintegrasikan tanpa merusak arsitektur lama?" |
 | **Kreatif (Design/Copy)** | User Experience (UX), Estetika, Kedekatan Emosional | "Apakah alur ini memberikan pengalaman yang menyenangkan bagi pengguna?" |
-| **Bisnis (Sales/Mkt)** | Revenue (ROI), Time to Market, Market Share | "Kapan fitur ini siap diluncurkan untuk menangkap peluang pasar?" |
+| **Bisnis (Sales/Mkt)** | Revenue, ROI, Time to Market, Market Share | "Kapan fitur ini siap diluncurkan untuk menangkap peluang pasar?" |
 
 ## 3. Strategi Praktis Kolaborasi Cross-Functional
 

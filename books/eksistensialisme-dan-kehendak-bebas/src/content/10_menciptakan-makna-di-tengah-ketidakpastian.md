@@ -10,14 +10,14 @@ Sartre berpendapat bahwa hidup tidak membawa makna yang sudah ditetapkan sebelum
 
 #### Membangun di Tepi Pantai
 
-Keberadaan manusia dapat dianalogikan seperti mendirikan struktur di tepi pantai yang senantiasa diterpa gelombang pasang surut. Karakter kefanaan struktur tersebut tidak mereduksi nilai dari tindakan pembangunannya. Justru dalam ketiadaan perintah kosmis dan kesadaran akan kefanaan itulah, kehendak untuk terus berkarya memperoleh signifikansi estetis dan martabat moral.
+Keberadaan manusia dapat dianalogikan dengan mendirikan struktur di tepi pantai yang senantiasa diterpa gelombang pasang surut. Karakter kefanaan struktur tersebut tidak mereduksi nilai dari tindakan pembangunannya. Justru dalam ketiadaan perintah kosmis dan kesadaran akan kefanaan itulah, kehendak untuk terus berkarya memperoleh signifikansi estetis dan martabat moral.
 
 ### 2. Metodologi Formulasi Proyek Eksistensial (*Le Projet*)
 
 Penciptaan makna bukanlah perenungan pasif yang solipsistik, melainkan praksis keterlibatan aktif (*engagement*). Formulasi pembentukan proyek eksistensial bertumpu pada tiga tahapan konseptual:
 
 #### a. Audit Nilai Otentik
-Mendekonstruksi tujuan-tujuan palsu yang diadopsi dari konformitas sosial, ekspektasi keluarga, atau hegemoni budaya populer (*mauvaise foi*).
+Mendekonstruksi tujuan-tujuan palsu (*mauvaise foi*) yang diadopsi dari konformitas sosial, ekspektasi keluarga, atau hegemoni budaya populer.
 
 #### b. Pemodelan Logika Pembentukan Makna
 Secara teoretis, artikulasi kebermaknaan hidup merupakan fungsi dari integrasi nilai otonom dan realisasi praksis yang dipadukan dengan penerimaan atas kontingensi realitas:
@@ -48,8 +48,8 @@ Ketika subjek menghadapi krisis kehampaan di hadapan kesunyian alam semesta, pen
 ### 4. Membangun Ulang Diri Setelah Krisis
 
 Ketika seorang individu mengalami disrupsi struktural dalam kehidupannya (seperti kegagalan karier atau kehilangan peran sosial), respons eksistensial membedakan antara keterpurukan pasif dan regenerasi otonom:
-- **Respon Pasif:** Mengidentifikasikan esensi diri secara kaku dengan status fungsional masa lalu, sehingga kehilangan peran sosial dianggap sebagai kehancuran eksistensi.
-- **Respon Eksistensial Otentik:** Menyadari bahwa peran masa lalu hanyalah faktisitas historis. Subjek menggunakan ruang kebebasan baru untuk merumuskan ulang proyek eksistensialnya melalui praksis yang selaras dengan nilai-nilai otentik.
+- **Respons Pasif:** Mengidentifikasikan esensi diri secara kaku dengan status fungsional masa lalu, sehingga kehilangan peran sosial dianggap sebagai kehancuran eksistensi.
+- **Respons Eksistensial Otentik:** Menyadari bahwa peran masa lalu hanyalah faktisitas historis. Subjek menggunakan ruang kebebasan baru untuk merumuskan ulang proyek eksistensialnya melalui praksis yang selaras dengan nilai-nilai otentik.
 
 ### 5. Makna Dibentuk, Bukan Ditemukan
 

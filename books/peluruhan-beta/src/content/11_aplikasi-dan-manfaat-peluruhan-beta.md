@@ -8,21 +8,21 @@ Mari kita jelajahi bagaimana partikel kecil berkecepatan tinggi ini bekerja untu
 
 ## 1. Bidang Medis
 
-Dalam dunia medis, peluruhan beta dimanfaatkan karena sifatnya yang setengah kuat. Partikel beta cukup kuat untuk merusak DNA sel kanker, namun jangkauannya di dalam jaringan tubuh sangat terbatas (hanya beberapa milimeter). Hal ini memungkinkan dokter untuk melakukan serangan lokal tanpa merusak organ sehat di sekitarnya.
+Dalam dunia medis, peluruhan beta dimanfaatkan karena sifatnya yang setengah kuat. Partikel beta cukup kuat untuk merusak DNA sel kanker, tetapi jangkauannya di dalam jaringan tubuh sangat terbatas (hanya beberapa milimeter). Hal ini memungkinkan dokter untuk melakukan serangan lokal tanpa merusak organ sehat di sekitarnya.
 
-#### Brachytherapy (Brakiterapi)
+### Brakiterapi
 
-Brakiterapi adalah jenis pengobatan kanker di mana sumber radioaktif diletakkan langsung di dalam atau di dekat tumor.
+Brakiterapi adalah jenis pengobatan kanker ketika sumber radioaktif diletakkan langsung di dalam atau di dekat tumor.
 
-- **Cara Kerja:** Dokter memasukkan benih radioaktif kecil (seperti isotop **Strontium-90** atau **Phosphorus-32**) ke lokasi tumor.
-- **Keunggulan:** Karena partikel beta hanya bisa menembus jarak pendek, radiasi tersebut akan terkonsentrasi sepenuhnya pada sel tumor. Ini berbeda dengan radiasi eksternal yang harus melewati kulit dan jaringan sehat sebelum mencapai target.
+- **Cara Kerja:** Dokter memasukkan benih radioaktif kecil (seperti isotop **Strontium-90** atau **Fosfor-32**) ke lokasi tumor.
+- **Keunggulan:** Karena partikel beta hanya bisa menembus jarak pendek, radiasi tersebut sebagian besar akan terkonsentrasi pada sel tumor. Ini berbeda dengan radiasi eksternal yang harus melewati kulit dan jaringan sehat sebelum mencapai target.
 - **Contoh Kasus:** Pengobatan kanker mata (choroidal melanoma) atau pencegahan penyempitan kembali pembuluh darah setelah pemasangan ring jantung (stent).
 
-#### Radioisotop sebagai Tracer (Pelacak)
+### Radioisotop sebagai Tracer (Pelacak)
 
 Selain pengobatan, peluruhan beta juga digunakan untuk diagnosis. Isotop seperti **Iodin-131** digunakan untuk mengevaluasi fungsi kelenjar tiroid.
 
-- **Proses:** Pasien meminum larutan yang mengandung sedikit Iodin-131. Kelenjar tiroid akan menyerap iodin tersebut. Karena Iodin-131 meluruh melalui pancaran beta minus:
+- **Proses:** Pasien meminum larutan yang mengandung sedikit Iodin-131. Kelenjar tiroid akan menyerap iodin tersebut. Iodin-131 meluruh melalui pancaran beta minus:
 
 <div>
 $$
@@ -30,7 +30,7 @@ $$
 $$
 </div>
 
-Alat pemindai dapat melacak distribusi isotop tersebut untuk mendeteksi adanya keabnormalan.
+Alat pemindai dapat melacak distribusi isotop tersebut melalui sinar gamma yang menyertai peluruhannya untuk mendeteksi adanya keabnormalan.
 
 > **Penting:** Sifat jarak pendek partikel beta adalah kunci keamanan dalam brakiterapi. Hal ini memastikan bahwa dosis radiasi yang mematikan bagi sel kanker tidak menyebar ke seluruh tubuh pasien.
 
@@ -60,7 +60,7 @@ Salah satu aplikasi peluruhan beta yang paling terkenal adalah **Penanggalan Rad
 
 #### Siklus Karbon-14
 
-Di atmosfer bumi, sinar kosmik mengubah nitrogen menjadi isotop radioaktif **Karbon-14** (${}^{14}\text{C}$). Isotop ini tidak stabil dan akan kembali menjadi Nitrogen melalui peluruhan beta minus:
+Di atmosfer bumi, sinar kosmik mengubah nitrogen menjadi isotop radioaktif **Karbon-14** (${}^{14}\text{C}$). Isotop ini tidak stabil dan akan kembali menjadi nitrogen melalui peluruhan beta minus:
 
 <div>
 $$
@@ -91,9 +91,9 @@ Bayangkan ${}^{14}\text{C}$ sebagai butiran pasir di bagian atas jam pasir. Begi
 
 *Studi Kasus Penanggalan Radiokarbon: Apabila ditemukan fosil kayu dengan konsentrasi ${}^{14}\text{C}$ sebesar seperempat dari jumlah normal organisme hidup, berapakah estimasi usia fosil tersebut? (Petunjuk: Satu periode waktu paruh mengurangi konsentrasi menjadi separuhnya).*
 
-### Sensor Asap Modern
+### Detektor Ionisasi dan Kromatografi Gas
 
-Beberapa jenis sensor asap (smoke detector) menggunakan prinsip ionisasi yang mirip dengan aplikasi beta, meskipun lebih sering menggunakan partikel alfa. Namun, dalam aplikasi industri khusus, peluruhan beta digunakan dalam **kromatografi gas** untuk mendeteksi polutan di udara atau residu pestisida pada makanan. Elektron dari peluruhan beta menabrak molekul udara dan menciptakan arus listrik; jika ada molekul polutan yang lewat, arus tersebut akan berubah, memicu alarm atau pencatatan data.
+Beberapa jenis sensor asap (smoke detector) menggunakan prinsip ionisasi yang mirip dengan aplikasi beta, meskipun lebih sering menggunakan partikel alfa. Namun, dalam aplikasi industri khusus, peluruhan beta digunakan dalam **kromatografi gas** untuk mendeteksi polutan di udara atau residu pestisida pada makanan. Elektron dari peluruhan beta menabrak molekul gas di dalam detektor dan menciptakan arus listrik; jika ada molekul polutan yang lewat dan menangkap elektron, arus tersebut menurun dan tercatat sebagai sinyal.
 
 ### Isotop dan Fungsinya per Bidang
 
@@ -101,6 +101,6 @@ Beberapa jenis sensor asap (smoke detector) menggunakan prinsip ionisasi yang mi
 | --- | --- | --- | --- |
 | **Medis** | ${}^{90}\text{Sr}$, ${}^{32}\text{P}$, ${}^{131}\text{I}$ | Terapi kanker & Diagnosis | Jangkauan pendek (lokalisasi energi) |
 | **Industri** | ${}^{90}\text{Sr}$, ${}^{85}\text{Kr}$ | Pengukuran ketebalan | Daya tembus yang sensitif terhadap massa jenis |
-| **Sains** | ${}^{14}\text{C}$ | Penanggalan Arkeologi | Laju peluruhan beta yang konstan (Waktu paruh) |
+| **Arkeologi** | ${}^{14}\text{C}$ | Penanggalan Arkeologi | Laju peluruhan beta yang konstan (Waktu paruh) |
 
 > **Insight Penting:** Aplikasi peluruhan beta menunjukkan bahwa radiasi bukan sekadar bahaya yang harus dihindari, melainkan alat yang presisi. Kuncinya terletak pada pemahaman kita terhadap daya tembus dan waktu paruh isotop tersebut.

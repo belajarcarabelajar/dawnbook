@@ -18,7 +18,7 @@ Hambatan masuk dapat dikategorikan menjadi beberapa kelompok utama, seperti hamb
 
 ### A. Ekonomi Skala (Economies of Scale)
 
-Ini adalah keunggulan biaya yang dinikmati perusahaan besar karena memproduksi dalam skala masal. Perusahaan besar sanggup menekan **Biaya Rata-rata $\text{AC}$** hingga titik minimum.
+Ini adalah keunggulan biaya yang dinikmati perusahaan besar karena memproduksi dalam skala massal. Perusahaan besar sanggup menekan **Biaya Rata-rata $\text{AC}$** hingga titik minimum.
 
 Secara matematis, biaya rata-rata dirumuskan sebagai:
 
@@ -26,13 +26,13 @@ $$
 \text{AC} = \frac{\text{TC}}{Q}
 $$
 
-Di mana $\text{TC}$ adalah total biaya (*Total Cost*) dan $Q$ adalah jumlah output. Perusahaan baru dengan tingkat produksi $Q$ yang kecil memikul $\text{AC}$ jauh lebih tinggi dibandingkan pemain lama, sehingga sulit bersaing dari segi harga.
+Dalam rumus ini, $\text{TC}$ adalah total biaya (*Total Cost*) dan $Q$ adalah jumlah output. Perusahaan baru dengan tingkat produksi $Q$ yang kecil memikul $\text{AC}$ jauh lebih tinggi dibandingkan pemain lama, sehingga sulit bersaing dari segi harga.
 
 ### B. Persyaratan Modal yang Besar
 
 Beberapa industri memerlukan investasi awal yang sangat tinggi.
 
-- **Contoh:** Membangun pabrik semikonduktor atau kilang minyak membutuhkan dana triliunan Rupiah sebelum produk pertama dihasilkan. Hambatan modal ini membatasi calon pesaing sejak tahap awal.
+- **Contoh:** Membangun pabrik semikonduktor atau kilang minyak membutuhkan dana triliunan rupiah sebelum produk pertama dihasilkan. Hambatan modal ini membatasi calon pesaing sejak tahap awal.
 
 ### C. Keunggulan Biaya Mutlak
 
@@ -46,7 +46,7 @@ Pemain lama mungkin memiliki akses eksklusif ke sumber daya yang tidak dimiliki 
 
 Pemerintah juga dapat membatasi jumlah pemain lewat aturan resmi:
 
-- **Paten:** Perlindungan hak cipta atas penemuan teknologi atau produk (banyak dijumpai pada industri farmasi).
+- **Paten:** Hak eksklusif atas penemuan teknologi atau produk (banyak dijumpai pada industri farmasi).
 - **Lisensi dan Izin Operasional:** Persyaratan izin ketat seperti pada industri perbankan atau penyiaran.
 - **Standar Teknis dan Lingkungan:** Regulasi keselamatan dan penanganan limbah yang membutuhkan biaya sertifikasi tinggi.
 
@@ -56,7 +56,7 @@ Pelanggan sering kali memiliki loyalitas emosional pada merek yang sudah dikenal
 
 ## 3. Hambatan Keluar
 
-Banyak orang mengira keluar dari pasar itu mudah (tinggal tutup toko). Namun dalam industri berat, keluar dari pasar bisa menimbulkan kerugian besar.
+Banyak orang mengira keluar dari pasar itu mudah (tinggal tutup toko). Namun, dalam industri berat, keluar dari pasar bisa menimbulkan kerugian besar.
 
 - **Aset Spesialisasi Tinggi:** Mesin khusus yang tidak memiliki nilai jual kembali karena tidak ada pasar barang bekasnya.
 - **Biaya Keluar Tetap (*Fixed Costs of Exit*):** Kewajiban pesangon karyawan dalam jumlah besar atau biaya pembongkaran fasilitas sesuai regulasi lingkungan.
@@ -77,8 +77,8 @@ Mari kita lihat bagaimana hambatan ini bekerja dalam satu industri nyata:
 | Jenis Hambatan | Implementasi dalam Industri Farmasi |
 | --- | --- |
 | **Paten (Legal)** | Perusahaan pemegang paten obat baru mendapatkan hak eksklusif selama 20 tahun. |
-| **R&D (Modal)** | Biaya riset satu jenis obat dapat mencapai miliaran Dolar dengan risiko kegagalan tinggi. |
-| **Regulasi (Pemerintah)** | Wajib melewati berbagai tahap uji klinis dari lembaga pengawas seperti BPOM atau FDA. |
+| **R&D (Modal)** | Biaya riset satu jenis obat dapat mencapai miliaran dolar dengan risiko kegagalan tinggi. |
+| **Regulasi (Pemerintah)** | Wajib melewati berbagai tahap uji klinis sesuai ketentuan lembaga pengawas seperti BPOM atau FDA. |
 | **Ekonomi Skala (Biaya)** | Perusahaan besar seperti Pfizer memiliki saluran distribusi global dengan biaya per unit jauh lebih murah dibanding laboratorium kecil. |
 
 **Skenario:** Jika sebuah perusahaan kecil ingin menyaingi obat yang sudah terkenal, mereka harus mengalokasikan biaya riset tinggi, menunggu paten habis, melewati uji klinis yang rumit, dan menggeser kepercayaan konsumen terhadap merek lama. Alasan inilah yang membuat harga obat sering kali bertahan tinggi dalam durasi yang panjang.
@@ -88,4 +88,4 @@ Mari kita lihat bagaimana hambatan ini bekerja dalam satu industri nyata:
 1. **Hambatan Rendah:** Mendorong terciptanya **Persaingan Sempurna** atau **Persaingan Monopolistik**. Laba ekonomis cenderung menjadi nol dalam jangka panjang karena pesaing mudah masuk.
 2. **Hambatan Tinggi:** Mendorong terciptanya **Oligopoli** atau **Monopoli**. Perusahaan dapat mempertahankan laba di atas normal dalam jangka panjang karena hambatan di industri itu cukup tinggi untuk menahan pendatang baru.
 
-> **Pesan Utama:** Hambatan masuk melindungi margin laba sekaligus mendorong efisiensi dan inovasi. Tanpa garansi paten (hambatan masuk legal), perusahaan tentu enggan menginvestasikan dana besar demi meriset penemuan medis baru.
+> **Pesan Utama:** Hambatan masuk melindungi margin laba sekaligus dapat mendorong inovasi. Tanpa garansi paten (hambatan masuk legal), perusahaan tentu enggan menginvestasikan dana besar demi meriset penemuan medis baru.

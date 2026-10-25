@@ -1,6 +1,6 @@
 ## Referensi
 
-Berikut adalah daftar referensi ilmiah dan buku rujukan yang digunakan untuk mendukung materi dalam buku ini. Semua referensi disusun menggunakan format APA Style Edisi Ke-7.
+Berikut adalah daftar referensi ilmiah dan buku rujukan yang digunakan untuk mendukung materi dalam buku ini. Semua referensi disusun menggunakan format APA Style edisi ke-7.
 
 ### Buku Rujukan
 

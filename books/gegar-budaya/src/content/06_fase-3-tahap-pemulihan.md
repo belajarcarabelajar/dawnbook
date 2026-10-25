@@ -32,7 +32,7 @@ $$
 \frac{dC}{dt} > 0
 $$
 
-Di mana perubahan kenyamanan terhadap waktu menjadi positif, menandakan pertumbuhan kemampuan adaptasi.
+Artinya, perubahan kenyamanan terhadap waktu menjadi positif, yang menandakan pertumbuhan kemampuan adaptasi.
 
 ## 3. Tiga Area Pemulihan
 
@@ -76,8 +76,8 @@ Tanpa melewati tahap pemulihan secara sehat, seseorang berisiko terjebak dalam "
 
 ## 6. Latihan Refleksi
 
-Jika kamu saat ini sedang berada di lingkungan baru, coba identifikasi satu hal yang tiga bulan lalu terasa sulit atau menjengkelkan, namun sekarang terasa biasa saja atau bahkan masuk akal.
+Jika kamu saat ini sedang berada di lingkungan baru, coba identifikasi satu hal yang tiga bulan lalu terasa sulit atau menjengkelkan, tetapi sekarang terasa biasa saja atau bahkan masuk akal.
 
 **Itulah tanda kamu sedang berada di Fase Pemulihan.**
 
-**Ringkasan:** Tahap Pemulihan adalah masa transisi di mana individu berhenti melawan arus dan mulai belajar cara berenang mengikuti arus budaya lokal. Ini adalah fase pertumbuhan yang penuh dengan pembelajaran aktif, peningkatan kepercayaan diri, dan pemahaman yang lebih dalam tentang dunia serta diri sendiri.
+**Ringkasan:** Tahap Pemulihan adalah masa transisi ketika individu berhenti melawan arus dan mulai belajar cara berenang mengikuti arus budaya lokal. Ini adalah fase pertumbuhan yang penuh dengan pembelajaran aktif, peningkatan kepercayaan diri, dan pemahaman yang lebih dalam tentang dunia serta diri sendiri.

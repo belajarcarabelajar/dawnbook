@@ -28,15 +28,15 @@ Gangguan digital adalah "biaya tersembunyi" dalam pekerjaan. Setiap kali kamu be
 
 ### Strategi Praktis Mengurangi Gangguan
 
-Untuk meminimalkan gangguan, mulailah dengan mengatur jadwal otomatis pada sistem operasi atau aplikasi kerja agar masuk ke mode *Do Not Disturb* pada jam-jam sibuk. Daripada membalas pesan secara langsung saat masuk, tetapkan jendela waktu tertentu, misalnya pagi, siang, dan sore, khusus untuk memproses email dan obrolan. Di luar urusan komunikasi, pastikan juga desktop kamu bersih dari tab browser yang berserakan. Lingkungan digital yang berantakan sama melelahkannya dengan meja fisik yang penuh tumpukan kertas.
+Untuk meminimalkan gangguan, mulailah dengan mengatur jadwal otomatis pada sistem operasi atau aplikasi kerja agar masuk ke mode *Do Not Disturb* pada jam-jam sibuk. Daripada membalas pesan secara langsung saat masuk, tetapkan jendela waktu tertentu, misalnya pagi, siang, dan sore, khusus untuk memproses email dan obrolan. Di luar urusan komunikasi, pastikan juga desktop kamu bersih dari tab peramban yang berserakan. Lingkungan digital yang berantakan sama melelahkannya dengan meja fisik yang penuh tumpukan kertas.
 
 *Audit Ruang Kerja Digital: Berapa banyak tab peramban web yang terbuka di layar perangkat saat ini? Berapa banyak di antaranya yang benar-benar relevan dengan tugas yang sedang dikerjakan?*
 
 ## 3\. Teknologi yang Mempercepat Tugas Repetitif
 
-Digital minimalis tidak anti-teknologi. Mereka justru memanfaatkan alat bantu digital untuk mempercepat tugas-tugas repetitif sehingga tersisa lebih banyak waktu untuk *Deep Work*.
+Digital minimalis tidak antiteknologi. Mereka justru memanfaatkan alat bantu digital untuk mempercepat tugas-tugas repetitif sehingga tersisa lebih banyak waktu untuk *Deep Work*.
 
-### Otomasi untuk Efisiensi
+### Otomatisasi untuk Efisiensi
 
 Jika kamu mendapati dirimu melakukan hal yang sama berulang kali (misalnya, memindahkan data dari email ke spreadsheet), sudah saatnya beralih ke alat otomatisasi.
 
@@ -60,9 +60,9 @@ Anggaplah kalender kamu sebagai ruang fisik; jika sebuah tugas tidak masuk ke da
 
 Mari kita lihat skenario tim pengembang perangkat lunak yang menerapkan digital minimalisme. Awalnya, mereka terjebak dalam siklus rapat yang molor, rentetan notifikasi Slack tentang *bug* sepele, dan tumpukan email tanpa henti. Dampaknya, semua orang merasa lelah sementara perkembangan fitur utama jalan di tempat. 
 
-Mereka kemudian melakukan penyesuaian drastis dengan memberlakukan *Quiet Hours* dari pukul 09:00 hingga 12:00. Tidak ada rapat, dan tidak ada tuntutan untuk merespons pesan dengan cepat. Diskusi harian dialihkan ke platform dokumentasi terstruktur seperti Notion atau Jira untuk menghindari thread yang berantakan. Selain itu, notifikasi sistem difilter dengan ketat sehingga hanya insiden darurat yang boleh mengganggu, sementara laporan lainnya dikirim ke saluran terpisah yang cukup diperiksa satu kali sehari.
+Mereka kemudian melakukan penyesuaian drastis dengan memberlakukan *Quiet Hours* dari pukul 09:00 hingga 12:00. Tidak ada rapat, dan tidak ada tuntutan untuk merespons pesan dengan cepat. Diskusi harian dialihkan ke platform terstruktur seperti Notion atau Jira untuk menghindari thread yang berantakan. Selain itu, notifikasi sistem difilter dengan ketat sehingga hanya insiden darurat yang boleh mengganggu, sementara laporan lainnya dikirim ke saluran terpisah yang cukup diperiksa satu kali sehari.
 
-Perubahan tersebut meningkatkan kecepatan pengembangan secara nyata, karena para pengembang mendapatkan kembali ruang berpikir tanpa interupsi untuk memecahkan berbagai algoritma kompleks. Tingkat stres tim pun berangsur mereda karena mereka tidak lagi terbebani keharusan untuk selalu siaga memantau layar.
+Perubahan tersebut meningkatkan kecepatan pengembangan secara nyata, karena para pengembang mendapatkan kembali ruang berpikir tanpa interupsi untuk memecahkan berbagai masalah algoritma kompleks. Tingkat stres tim pun berangsur mereda karena mereka tidak lagi terbebani keharusan untuk selalu siaga memantau layar.
 
 ## Kualitas di Atas Kuantitas
 

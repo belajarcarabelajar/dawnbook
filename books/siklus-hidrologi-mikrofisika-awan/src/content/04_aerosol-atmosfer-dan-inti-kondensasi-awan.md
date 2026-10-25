@@ -6,7 +6,7 @@ Dalam bab ini, kita akan mempelajari partikel mikroskopis yang disebut **Aerosol
 
 ### 1. Apa itu Aerosol Atmosfer?
 
-Secara teknis, **aerosol** adalah suspensi partikel padat atau cair dalam medium gas (udara). Di atmosfer, aerosol bukan hanya polusi kendaraan, melainkan komponen alami dan esensial dari sistem cuaca bumi.
+Secara teknis, **aerosol** adalah suspensi partikel padat atau cair dalam medium gas (udara). Di atmosfer, aerosol bukan hanya polusi kendaraan, melainkan komponen alami dan esensial dari sistem cuaca Bumi.
 
 #### Klasifikasi Berdasarkan Sumber
 
@@ -40,11 +40,11 @@ Mengapa udara di pegunungan terasa lebih segar? Salah satu alasannya adalah kons
 
 Tidak semua aerosol dapat menjadi $\text{CCN}$. Hanya sebagian partikel yang memiliki kemampuan memicu kondensasi pada tingkat kejenuhan air di atmosfer (biasanya sedikit di atas 100%).
 
-#### Hidroskopisitas
+#### Higroskopisitas
 
-Kunci utama sebuah aerosol menjadi $\text{CCN}$ adalah sifat **hidroskopis** (kemampuan menyerap air).
+Kunci utama sebuah aerosol menjadi $\text{CCN}$ adalah sifat **higroskopis** (kemampuan menyerap air).
 
-- **Partikel Hidroskopis:** Contohnya garam ($\text{NaCl}$) dan asam sulfat ($\text{H}_2\text{SO}_4$). Partikel ini menyerap air dengan cepat dan memulai kondensasi sebelum udara mencapai kejenuhan 100%.
+- **Partikel Higroskopis:** Contohnya garam ($\text{NaCl}$) dan asam sulfat ($\text{H}_2\text{SO}_4$). Partikel ini menyerap air dengan cepat dan memulai kondensasi begitu udara mencapai kejenuhan sedikit di atas 100%.
 - **Partikel Hidrofobik:** Contohnya minyak atau jelaga. Partikel ini menolak air dan sulit menjadi $\text{CCN}$ kecuali jika dilapisi oleh senyawa kimia lain di atmosfer.
 
 #### Hubungan Ukuran dan Kelarutan
@@ -62,7 +62,7 @@ $$
 
 ### 4. Distribusi Ukuran Aerosol
 
-Dalam meteorologi komputasi, **Distribusi Junge** sering digunakan untuk memodelkan jumlah aerosol berdasarkan ukurannya. Bentuk sederhananya berupa hukum pangkat:
+**Distribusi Junge** sering digunakan untuk memodelkan jumlah aerosol berdasarkan ukurannya. Bentuk sederhananya berupa hukum pangkat:
 
 <div>
 $$
@@ -81,7 +81,7 @@ Di sini $N$ adalah konsentrasi relatif partikel, $r$ adalah radius partikel dala
 
 Dengan $\beta = 3$, setiap kali radius naik sepuluh kali lipat, konsentrasinya turun seribu kali lipat.
 
-*Interpretasi:* Pola ini menunjukkan bahwa atmosfer dipenuhi oleh jutaan partikel sangat kecil (*Aitken nuclei*), namun hanya sedikit partikel berukuran besar yang tersedia. Partikel berukuran sedang hingga besar inilah yang paling sering menjadi inti kondensasi bagi pembentukan awan.
+*Interpretasi:* Pola ini menunjukkan bahwa atmosfer dipenuhi oleh jutaan partikel sangat kecil (*Aitken nuclei*), tetapi hanya sedikit partikel berukuran besar yang tersedia. Partikel berukuran sedang hingga besar inilah yang paling sering menjadi inti kondensasi bagi pembentukan awan.
 
 ### 5. Peran CCN di Lapangan
 
@@ -92,13 +92,13 @@ Dengan $\beta = 3$, setiap kali radius naik sepuluh kali lipat, konsentrasinya t
 
 #### Penambahan CCN Buatan
 
-Upaya modifikasi cuaca dilakukan dengan menembakkan **Perak Iodida ($\text{AgI}$)** atau garam higroskopis ke dalam awan. Tujuannya adalah menambah jumlah $\text{CCN}$ (atau inti es, $\text{INP}$) secara buatan agar uap air memiliki permukaan untuk berkondensasi dan jatuh sebagai hujan di daerah terpencil atau wilayah terdampak kekeringan.
+Upaya modifikasi cuaca dilakukan dengan menembakkan **Perak Iodida ($\text{AgI}$)** atau garam higroskopis ke dalam awan. Tujuannya adalah menambah jumlah $\text{CCN}$ (dari garam higroskopis) atau inti es, $\text{INP}$ (dari perak iodida), secara buatan agar uap air memiliki permukaan untuk berkondensasi dan jatuh sebagai hujan di daerah terpencil atau wilayah terdampak kekeringan.
 
 ### Aerosol Pemicu Tetesan Awan
 
 - **Aerosol** adalah partikel padat atau cair yang melayang di atmosfer.
-- **$\text{CCN}$** (*Cloud Condensation Nuclei*) merupakan kelompok aerosol hidroskopis yang mampu memicu pembentukan tetesan awan.
-- **Sifat Hidroskopis** dan **Ukuran Partikel** adalah dua faktor penentu utama efektivitas aerosol sebagai $\text{CCN}$.
-- **Aktivitas Manusia** melalui emisi polutan dapat mengubah mikrostruktur awan, meningkatkan albedo awan namun dapat menunda proses presipitasi alami.
+- **$\text{CCN}$** (*Cloud Condensation Nuclei*) merupakan kelompok aerosol higroskopis yang mampu memicu pembentukan tetesan awan.
+- **Sifat Higroskopis** dan **Ukuran Partikel** adalah dua faktor penentu utama efektivitas aerosol sebagai $\text{CCN}$.
+- **Aktivitas Manusia** melalui emisi polutan dapat mengubah mikrostruktur awan, meningkatkan albedo awan tetapi dapat menunda proses presipitasi alami.
 
-> **Kesimpulan:** Awan terbentuk dari interaksi antara uap air yang mendingin dan partikel aerosol mikroskopis di atmosfer. Tanpa adanya aerosol sebagai inti kondensasi, presipitasi dalam siklus hidrologi bumi tidak dapat berlangsung secara efisien.
+> **Kesimpulan:** Awan terbentuk dari interaksi antara uap air yang mendingin dan partikel aerosol mikroskopis di atmosfer. Tanpa adanya aerosol sebagai inti kondensasi, presipitasi dalam siklus hidrologi Bumi tidak dapat berlangsung secara efisien.

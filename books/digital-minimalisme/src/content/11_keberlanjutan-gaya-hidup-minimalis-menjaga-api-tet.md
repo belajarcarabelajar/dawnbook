@@ -8,7 +8,7 @@ Banyak orang terjebak dalam siklus "diet digital". Mereka membuang banyak aplika
 
 Bayangkan minimalisme digital seperti mengurus kebun. Mencabut rumput liar sekali saja tanpa membuat batasan fisik yang jelas atau merawatnya rutin hanya akan membiarkan rumput itu tumbuh kembali lebat.
 
-> **Pesan Penting:** Keinginan untuk terus terkoneksi adalah insting biologis yang kuat. Mustahil melawan algoritma rancangan perusahaan besar hanya bermodalkan "niat".
+> **Pesan Penting:** Keinginan untuk terus terkoneksi adalah dorongan sosial yang kuat. Mustahil melawan algoritma rancangan perusahaan besar hanya bermodalkan "niat".
 
 Kita wajib beralih dari pendekatan yang mengandalkan motivasi menjadi pendekatan sistematis agar bisa bertahan lama.
 
@@ -26,7 +26,7 @@ Lakukan evaluasi menyeluruh pada ekosistem alat digital kamu setiap tiga bulan. 
 
 ## 3\. Matriks Keputusan
 
-Industri teknologi akan terus merilis gadget atau aplikasi inovatif. Gunakan **Matriks Nilai Minimalis** ini untuk menilai apakah alat baru layak kamu pakai.
+Industri teknologi akan terus merilis gawai atau aplikasi inovatif. Gunakan **Matriks Nilai Minimalis** ini untuk menilai apakah alat baru layak kamu pakai.
 
 <div>
 $$
@@ -34,7 +34,7 @@ V = \frac{U \times N}{C}
 $$
 </div>
 
-Di mana:
+Keterangan:
 
 - $V$ = *Value* (Nilai keseluruhan)
 - $U$ = *Utility* (Fungsi alat tersebut untuk mendukung tujuan personal kamu)
@@ -47,11 +47,11 @@ Di mana:
 
 Hampir semua minimalis digital akan menjumpai masa-masa kambuh. Ada kalanya kamu menghabiskan 3 jam menonton video pendek atau mengunduh ulang aplikasi media sosial.
 
-Langkah pertama adalah berhenti menyalahkan diri sendiri. Rasa bersalah justru kerap memancing lebih banyak konsumsi digital sebagai bentuk pelarian emosional. Kemudian, cari tahu pemicunya: apakah kamu sedang stres, bosan, atau kesepian? Terakhir, terapkan jeda total selama 24 jam penuh untuk menormalkan kembali sistem dopamin otak kamu.
+Langkah pertama adalah berhenti menyalahkan diri sendiri. Rasa bersalah justru kerap memancing lebih banyak konsumsi digital sebagai bentuk pelarian emosional. Kemudian, cari tahu pemicunya: apakah kamu sedang stres, bosan, atau kesepian? Terakhir, terapkan jeda total selama 24 jam penuh untuk memutus kebiasaan dan menenangkan diri.
 
 ## 5\. "The Minimalism Guard Rail"
 
-Kamu bisa memanfaatkan automasi dasar untuk memastikan sistem berjalan lancar. 
+Kamu bisa memanfaatkan otomatisasi dasar untuk memastikan sistem berjalan lancar. 
 
 ### "The Weekend Lockdown"
 
@@ -67,9 +67,9 @@ Pada hari-hari lainnya, aplikasi bisa diakses sesuai jadwal.
 
 **Budi, seorang Manajer Proyek.** Sesudah melakukan *digital declutter*, masalah utama Budi ternyata komunikasi kerja di WhatsApp yang terus-menerus tanpa jeda.
 
-Ia merancang sistem keberlanjutan baru dengan memberi tahu timnya bahwa ia hanya membaca dan membalas pesan instan pada jam 10:00, 14:00, dan 16:00. Jadwal ini ia pajang di status profil. Untuk mengalihkan dorongan mengecek ponsel di malam hari, Budi mengambil kelas pertukangan kayu. 
+Ia merancang sistem keberlanjutan baru dengan memberi tahu timnya bahwa ia hanya membaca dan membalas pesan instan pada pukul 10.00, 14.00, dan 16.00. Jadwal ini ia pajang di status profil. Untuk mengalihkan dorongan mengecek ponsel di malam hari, Budi mengambil kelas pertukangan kayu. 
 
-Setelah setahun, Budi tak lagi merasa cemas karena ketinggalan informasi. Hasil kerja kerasnya (*Deep Work*) justru membuat ia mendapatkan promosi kerja.
+Setelah setahun, Budi tak lagi merasa cemas karena ketinggalan informasi. Hasil kerja fokusnya (*Deep Work*) justru membuat ia mendapatkan promosi kerja.
 
 ## Menyesuaikan Peran Teknologi
 

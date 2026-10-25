@@ -18,7 +18,7 @@ T + N = H
 $$
 </div>
 
-Di mana:
+Keterangan:
 
 - $T$ adalah **Tindakan** (Action)
 - $N$ adalah **Niat/Kehendak** (Intention/Cetana)
@@ -46,15 +46,15 @@ Sifat ini digambarkan melalui ketenangan seseorang saat menghadapi situasi sulit
 
 Menghormati mereka yang patut dihormati, orang tua, guru, dan para bijak, adalah poin penting dalam struktur sosial Jawa Kuno.
 
-- **Visualisasi Relief:** Carilah adegan di mana tokoh-tokoh melakukan sikap *anjali* (menyembah dengan menangkupkan kedua telapak tangan) di depan orang tua atau brahmana.
+- **Visualisasi Relief:** Carilah adegan ketika tokoh-tokoh melakukan sikap *anjali* (menyembah dengan menangkupkan kedua telapak tangan) di depan orang tua atau brahmana.
 - **Buah Manis:** Kelahiran di keluarga yang terhormat, mendapatkan kedudukan tinggi dalam masyarakat, dan memiliki pengaruh yang baik bagi orang lain.
 
 ## 3. Cara Membaca Panel Kebajikan
 
-Relief Karmawibhangga seringkali menggunakan teknik **Komposisi Sinkronis**, di mana sebab dan akibat diletakkan dalam satu bingkai panel namun dipisahkan oleh elemen pembatas tipis (seperti pohon atau bangunan).
+Relief Karmawibhangga sering kali menggunakan teknik **Komposisi Sinkronis**, dengan sebab dan akibat diletakkan dalam satu bingkai panel tetapi dipisahkan oleh elemen pembatas tipis (seperti pohon atau bangunan).
 
 1. **Sisi Kiri (Sebab):** Menampilkan aksi kebajikan. Misalnya, seorang bangsawan memberikan pakaian kepada rakyat jelata.
-2. **Sisi Kanan (Akibat):** Menampilkan hasil dari aksi tersebut. Seringkali digambarkan tokoh tersebut berada di lingkungan yang indah (mirip taman surga) atau dikelilingi oleh harta benda (simbol *Kalpataru* atau pohon pengabul keinginan).
+2. **Sisi Kanan (Akibat):** Menampilkan hasil dari aksi tersebut. Sering kali digambarkan tokoh tersebut berada di lingkungan yang indah (mirip taman surga) atau dikelilingi oleh harta benda (simbol *Kalpataru* atau pohon pengabul keinginan).
 
 ## 4. Etika dalam Tindakan
 
@@ -70,7 +70,7 @@ Meskipun relief ini dibuat pada abad ke-8, pesan moralnya tetap relevan dalam ke
 
 Bayangkan sebuah panel relief yang menceritakan tentang **Dharma**, seorang petani sederhana.
 
-> Dalam satu adegan, Dharma melihat seorang musafir yang kehausan. Alih-alih mengabaikannya, ia memberikan satu-satunya kendi air yang ia miliki. Di panel berikutnya, digambarkan musim kemarau melanda desa tersebut, namun ladang milik Dharma entah bagaimana tetap mendapatkan aliran air yang cukup, sementara penduduk lain membantunya sebagai rasa terima kasih atas kebaikannya selama ini.
+> Dalam satu adegan, Dharma melihat seorang musafir yang kehausan. Alih-alih mengabaikannya, ia memberikan satu-satunya kendi air yang ia miliki. Di panel berikutnya, digambarkan musim kemarau melanda desa tersebut, tetapi ladang milik Dharma tetap mendapatkan aliran air yang cukup karena penduduk lain membantunya sebagai rasa terima kasih atas kebaikannya selama ini.
 
 Ini mengilustrasikan bahwa karma bukan hanya tentang "kehidupan nanti", tetapi juga tentang bagaimana perbuatan baik kita menciptakan lingkungan yang suportif bagi diri kita sendiri di masa kini.
 

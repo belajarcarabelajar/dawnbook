@@ -17,7 +17,7 @@ Pada titik ini, CPU masih berada dalam mode terbatas. Begitu kernel selesai dimu
 File kernel `vmlinuz` biasanya disimpan dalam keadaan terkompresi untuk menghemat ruang penyimpanan. Oleh karena itu, langkah pertama kernel saat berjalan adalah melakukan dekompresi mandiri.
 
 - **Tahap Low-level**: Menyiapkan lingkungan eksekusi awal menggunakan kode assembly (seperti `head.S`).
-- **Dekompresi**: Rutinitas dekompresi mengekstrak image kernel yang sebenarnya ke dalam memori.
+- **Dekompresi**: Rutin dekompresi mengekstrak image kernel yang sebenarnya ke dalam memori.
 - Pesan `Uncompressing Linux... Ok, booting the kernel` menandakan bahwa proses ekstraksi ini sedang berlangsung.
 
 ## 3. Fungsi start_kernel()
@@ -32,7 +32,7 @@ Beberapa langkah utama di dalam `start_kernel()` meliputi:
 4. **Scheduler (`sched_init`)**: Menginisialisasi *scheduler* utama agar sistem dapat mendukung multitasking.
 5. Fungsi `time_init()` akan mengalibrasi *system clock* untuk menjaga sinkronisasi waktu internal.
 
-Sebagai ilustrasi, jika kernel gagal melakukan inisialisasi *memory management*, setiap aplikasi akan saling tumpang tindih di dalam RAM, memicu kegagalan sistem secara instan.
+Sebagai ilustrasi, jika kernel gagal melakukan inisialisasi *memory management*, kegagalan sistem terjadi secara instan, bahkan sebelum aplikasi apa pun sempat dijalankan.
 
 ## 4. Mounting Root File System dan Initramfs
 
@@ -41,8 +41,8 @@ Sebelum kernel dapat menjalankan program apa pun, akses ke *file system* mutlak 
 Untuk mengatasi kendala tersebut, Linux memanfaatkan **initramfs**:
 
 - **Initramfs** merupakan *file system* minimal yang dimuat langsung ke RAM oleh bootloader.
-- Kernel menggunakan lingkungan sementara ini untuk memuat driver esensial, seperti driver NVMe atau RAID.
-- Setelah driver penyimpanan aktif, kernel menjalankan **switch root** untuk memindahkan direktori root (`/`) ke partisi *file system* utama di harddisk (misalnya ext4 atau xfs).
+- Lingkungan sementara ini dipakai untuk memuat driver esensial, seperti driver NVMe atau RAID.
+- Setelah driver penyimpanan aktif, program init di dalam initramfs menjalankan **switch root** untuk memindahkan direktori root (`/`) ke partisi *file system* utama di hard disk (misalnya ext4 atau XFS).
 
 ## 5. Pembuatan PID 1
 
@@ -63,7 +63,7 @@ Sebagai administrator sistem atau pengembang kernel, kamu perlu memantau proses 
 
 ### Membaca Log Menggunakan Perintah dmesg
 
-Kamu bisa membaca log tersebut melalui perintah:
+Kamu bisa membaca log kernel melalui perintah:
 
 ```bash
 dmesg | less
@@ -123,7 +123,7 @@ $$
 $$
 </div>
 
-Pada kode sumber kernel, jika panggilan `kernel_execve` gagal mengeksekusi `init`, sistem akan langsung menghentikan seluruh aktivitas. Kondisi kegagalan fatal inilah yang disebut sebagai **kernel panic**.
+Pada kode sumber kernel, jika panggilan `kernel_execve` gagal mengeksekusi semua kandidat `init`, sistem akan menghentikan seluruh aktivitas. Kondisi kegagalan fatal inilah yang disebut sebagai **kernel panic**.
 
 Kejadian kernel panic yang ditandai dengan layar hitam dan pesan error saat proses boot biasanya disebabkan oleh kegagalan kernel dalam melakukan switch root atau adanya kerusakan pada struktur file system.
 

@@ -4,7 +4,7 @@ Kebanyakan orang tidak mendengarkan dengan niat untuk memahami; mereka mendengar
 
 ## 1. Mendengar untuk Memahami vs. Mendengar untuk Menjawab
 
-Sering kali kita terjebak dalam fenomena *autobiographical listening*, di mana kita menyaring pesan orang lain melalui kacamata pengalaman kita sendiri. Kita cenderung mengevaluasi, menyelidiki, memberi saran, atau menafsirkan sebelum benar-benar menangkap esensi pesan tersebut.
+Sering kali kita terjebak dalam fenomena *autobiographical listening*, saat kita menyaring pesan orang lain melalui kacamata pengalaman kita sendiri. Kita cenderung mengevaluasi, menyelidiki, memberi saran, atau menafsirkan sebelum benar-benar menangkap esensi pesan tersebut.
 
 **Analoginya:** Bayangkan komunikasi sebagai frekuensi radio. Jika kamu hanya fokus memancarkan sinyal (menjawab), kamu tidak akan pernah bisa menerima siaran dari stasiun lain. Mendengar aktif adalah proses menyetel antenamu agar tepat berada pada frekuensi yang sama dengan lawan bicara.
 
@@ -18,7 +18,7 @@ E = \frac{P \times \text{Pem}}{G}
 $$
 </div>
 
-Di mana $P$ mewakili pesan yang dikirim, $\text{Pem}$ adalah pemahaman penerima, dan $G$ mewakili gangguan seperti asumsi, interupsi, atau ego.
+Dalam rumus ini, $P$ mewakili pesan yang dikirim, $\text{Pem}$ adalah pemahaman penerima, dan $G$ mewakili gangguan seperti asumsi, interupsi, atau ego.
 
 Semakin besar gangguan $G$ yang kita bawa saat mendengar, semakin kecil efektivitas komunikasi kita.
 
@@ -28,7 +28,7 @@ Untuk menjadi pendengar yang efektif, kamu perlu melibatkan seluruh aspek diri. 
 
 ### A. Mendengar dengan Mata (Observasi)
 
-Hanya sekitar 7% dari komunikasi manusia yang bersifat verbal. Sisanya dikomunikasikan lewat nada suara dan bahasa tubuh. Sebagai pendengar yang baik, penting untuk memperhatikan jeda bicara lawan bicara serta mengamati ekspresi mikro wajah yang kerap kali bertolak belakang dengan kata-kata yang diucapkan.
+Pada pesan tentang perasaan atau sikap, hanya sekitar 7% yang bersifat verbal. Sisanya dikomunikasikan lewat nada suara dan bahasa tubuh. Sebagai pendengar yang baik, penting untuk memperhatikan jeda bicara lawan bicara serta mengamati ekspresi mikro wajah yang kerap kali bertolak belakang dengan kata-kata yang diucapkan.
 
 ### B. Memberikan Tanda Kehadiran (*Encouragers*)
 
@@ -50,7 +50,7 @@ Dalam struktur organisasi, setiap departemen memiliki "bahasa" dan "prioritas" y
 
 **Analogi Gajah dan Orang Buta:** Ingatkah kamu cerita tentang beberapa orang buta yang menyentuh bagian berbeda dari seekor gajah? Satu memegang belalai dan mengira itu ular, yang lain memegang kaki dan mengira itu pohon. Empati dalam konteks profesional adalah kemampuan untuk melangkah mundur dan melihat "seluruh gajah" tersebut melalui mata departemen lain.
 
-### Cara Membangun Empati Antar Tim
+### Cara Membangun Empati Antartim
 
 * **Gunakan lensa mereka**: Cobalah bertanya, *"Indikator kinerja utama (KPI) apa yang ingin mereka kejar?"* sebelum kamu telanjur mengkritik permintaan dari divisi lain.
 * **Validasi emosi, bukan sekadar logika**: Akui rasa frustrasi mereka jika ada kendala mendadak. Contohnya: *"Saya mengerti perubahan mendadak ini sangat mengganggu jadwal padat tim desain."*
@@ -73,7 +73,7 @@ Bayangkan saat kamu merasa kesal karena permintaan teknis kepada tim IT terasa l
 
 - **PM:** "Saya dengar kamu khawatir soal stabilitas sistem jika kita memaksakan rilis ini dalam dua minggu. Bisa bantu saya paham bagian mana yang paling berisiko?" (*Restating* & *Clarifying*)
 - **Engineer:** "Masalahnya di integrasi API pihak ketiga yang belum stabil. Jika dipaksakan, user akan mengalami error saat checkout."
-- **PM:** "Jadi risiko utamanya adalah di proses checkout. Mengingat target pasar kita sangat menentukan di akhir bulan, apakah ada versi minimal (MVP) yang bisa kita rilis tanpa menyentuh modul checkout tersebut?" *(Hasil: Solusi kolaboratif yang menghargai kedua perspektif)*
+- **PM:** "Jadi risiko utamanya adalah di proses checkout. Mengingat momentum pasar kita sangat menentukan di akhir bulan, apakah ada versi minimal (MVP) yang bisa kita rilis tanpa menyentuh modul checkout tersebut?" *(Hasil: Solusi kolaboratif yang menghargai kedua perspektif)*
 
 ## 5. Latihan Mandiri dengan Aturan *The 80/20 Listening Rule*
 

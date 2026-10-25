@@ -4,15 +4,15 @@ Kita sudah memahami berbagai jenis bias yang sering menjebak pikiran, dan dari s
 
 Kabar baiknya, meskipun kita tidak bisa menghapus bias sepenuhnya (karena itu adalah bagian dari evolusi otak), kita bisa melakukan **mitigasi** dan **debiasing**. Bayangkan cognitive bias seperti ilusi optik; meskipun mata kamu tetap melihat garis yang sama panjangnya sebagai berbeda, dengan menggunakan penggaris, kamu bisa tahu kenyataan yang sebenarnya dan bertindak berdasarkan data tersebut, bukan berdasarkan ilusi tersebut.
 
-## 1\. Mengaktifkan Sistem 2
+## 1\. Mengaktifkan System 2
 
-Dalam psikologi kognitif, Daniel Kahneman memperkenalkan konsep **System 1** (cepat, otomatis, emosional) dan **System 2** (lambat, logis, penuh usaha). Cognitive bias mayoritas bersarang di System 1.
+Dalam psikologi kognitif, Daniel Kahneman memopulerkan konsep **System 1** (cepat, otomatis, emosional) dan **System 2** (lambat, logis, penuh usaha). Cognitive bias mayoritas bersarang di System 1.
 
-> **Insight Utama:** Inti dari teknik debiasing adalah memaksa otak kita untuk beralih dari System 1 yang instinktif ke System 2 yang analitis.
+> **Insight Utama:** Inti dari teknik debiasing adalah memaksa otak kita untuk beralih dari System 1 yang instingtif ke System 2 yang analitis.
 
 ### Pilot dan Autopilot
 
-Bayangkan kamu sedang menerbangkan pesawat. Kebanyakan waktu, pesawat berada dalam mode *autopilot* (System 1) yang efisien. Namun, saat cuaca buruk atau mendarat, pilot harus mengambil alih kendali secara manual (System 2). Debiasing adalah momen di mana kamu memutuskan untuk mematikan *autopilot* karena kamu tahu sensor pesawat mungkin terganggu oleh awan bias.
+Bayangkan kamu sedang menerbangkan pesawat. Sebagian besar waktu, pesawat berada dalam mode *autopilot* (System 1) yang efisien. Namun, saat cuaca buruk atau mendarat, pilot harus mengambil alih kendali secara manual (System 2). Debiasing adalah momen ketika kamu memutuskan untuk mematikan *autopilot* karena kamu tahu sensor pesawat mungkin terganggu oleh awan bias.
 
 ## 2\. Strategi Berpikir Kritis Individual
 
@@ -58,11 +58,11 @@ Dalam organisasi, tunjuk satu orang atau kelompok kecil yang tugas utamanya adal
 
 Sangat sulit melihat bias dalam diri sendiri, namun sangat mudah melihatnya pada orang lain.
 
-- **Teknik:** Gunakan "Peer Review" or mintalah rekan kerja untuk memeriksa keputusan kamu secara anonim tanpa memberitahu mereka apa preferensi kamu di awal.
+- **Teknik:** Gunakan "Peer Review" atau mintalah rekan kerja untuk memeriksa keputusan kamu secara anonim tanpa memberi tahu mereka apa preferensi kamu di awal.
 
 ## 4\. Mitigasi dalam Rekrutmen Karyawan
 
-Mari kita lihat bagaimana teknik mitigasi digunakan dalam skenario nyata untuk melawan **Halo Effect** dan **Group Bias**.
+Mari kita lihat bagaimana teknik mitigasi digunakan dalam skenario nyata untuk melawan **Halo Effect** dan **Similarity Bias**.
 
 **Skenario:** Sebuah perusahaan rintisan (startup) sedang mencari Manajer Pemasaran.
 
@@ -95,7 +95,7 @@ Untuk melatih aspek **kinestetik** (belajar dengan melakukan), cobalah latihan b
 1. **Cari Satu Berita:** Pilih berita yang sangat kamu setujui (politik, sosial, atau teknologi).
 2. **Lakukan Pencarian Terbalik:** Cari artikel dari sumber kredibel yang memiliki argumen 180 derajat berbeda dengan kamu.
 3. **Tuliskan Tiga Poin Kuat Mereka:** Tanpa membela diri, tuliskan tiga alasan mengapa argumen lawan tersebut masuk akal secara logika.
-4. **Rasakan Sensasinya:** Amati rasa tidak nyaman di dada atau kepala kamu saat melakukan ini. Itu adalah tanda System 2 kamu sedang bekerja keras melawan bias.
+4. **Rasakan Sensasinya:** Amati rasa tidak nyaman di dada atau kepala kamu saat melakukan ini. Itu bisa menjadi tanda System 2 kamu sedang bekerja keras melawan bias.
 
 ## Kesimpulan Mitigasi
 

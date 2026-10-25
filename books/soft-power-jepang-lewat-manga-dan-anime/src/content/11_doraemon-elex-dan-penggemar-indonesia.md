@@ -16,7 +16,7 @@ Kalau televisi membuka pintu, toko bukulah yang menahannya agar tidak tertutup l
 
 Ceritanya datang dari Ratna Sari, editor Elex, yang berbincang dengan detikHot pada 2013. Elex membeli lisensi *Candy Candy* pada 1991, lalu menyusul *Kungfu Boy*, Doraemon, dan *Dragon Ball*. Jadi Elex lebih tepat disebut salah satu pelopor manga berlisensi, bukan penerbit manga pertama di negeri ini. Rajawali Grafitti Press sudah menerbitkan sejumlah judul manga pada 1980-an, kemungkinan besar tanpa lisensi.
 
-Kata "berlisensi" itu bukan urusan teknis kecil. Dengan lisensi, uang dari komik yang kamu beli mengalir kembali ke pemegang hak di Jepang.
+Kata "berlisensi" itu bukan urusan teknis kecil. Dengan lisensi, sebagian uang dari komik yang kamu beli mengalir kembali ke pemegang hak di Jepang.
 
 ### Dari Rasa Akrab ke Ruang Kelas
 

@@ -1,6 +1,6 @@
 ## Masa Depan AWK dalam Kriminologi Digital
 
-Dunia kriminologi tidak lagi hanya berpijak pada ruang interogasi fisik atau lembaran koran cetak. Kita telah memasuki era di mana kejahatan, kontrol sosial, dan konstruksi tentang "siapa yang berbahaya" diproduksi melalui baris kode dan interaksi di media sosial. Analisis Wacana Kritis (AWK) kini menghadapi tantangan sekaligus peluang baru: **Kriminologi Digital**.
+Dunia kriminologi tidak lagi hanya berpijak pada ruang interogasi fisik atau lembaran koran cetak. Kita telah memasuki era ketika kejahatan, kontrol sosial, dan konstruksi tentang "siapa yang berbahaya" diproduksi melalui baris kode dan interaksi di media sosial. Analisis Wacana Kritis (AWK) kini menghadapi tantangan sekaligus peluang baru: **Kriminologi Digital**.
 
 Dalam bab ini, pemelajar akan mengeksplorasi bagaimana AWK beradaptasi untuk membongkar relasi kuasa yang tersembunyi di balik layar gawai, algoritma yang tidak terlihat, dan sistem pengawasan yang semakin canggih.
 
@@ -16,7 +16,7 @@ Tradisionalnya, AWK menganalisis teks yang statis seperti pidato, berita cetak, 
 | Dimensi | Kriminologi Wacana Tradisional | Kriminologi Wacana Digital |
 | :--- | :--- | :--- |
 | **Sifat Media** | Statis, cetak, searah | Dinamis, digital, interaktif |
-| **Kecepatan Penyebaran** | Terjadwal (harian/mingguan) | Real-time / instan (*viral*) |
+| **Kecepatan Penyebaran** | Terjadwal (harian/mingguan) | *Real-time* / instan (*viral*) |
 | **Aktor Utama** | Media arus utama, pejabat negara | Algoritma, warganet, akun anonim, *bot* |
 | **Bentuk Pengawasan** | Fisik, institusional, terpusat | Algoritmik, *panopticon* digital, terdistribusi |
 
@@ -78,21 +78,19 @@ Hitungan kecil ini sudah memperlihatkan satu wilayah yang disebut berulang bersa
 
 Masa depan AWK dalam kriminologi digital juga membawa sejumlah tantangan etis mendasar:
 
-1. **Anonimitas vs. Akuntabilitas:** Bagaimana menganalisis wacana dari akun anonim atau *bot* yang sengaja diciptakan untuk menyebar kebencian (*astroturfing*)?
-2. **Ruang Gema (*Filter Bubbles* / *Echo Chambers*):** Bagaimana AWK dapat memberikan kritik yang efektif jika audiens yang dituju terjebak dalam ruang gema yang hanya memperkuat keyakinan mereka sendiri?
-3. **Rekayasa Media (*Deepfakes*) dan Pasca-Kebenaran (*Post-Truth*):** Dalam dunia di mana bukti visual dapat dimanipulasi, AWK harus melampaui teks dan gambar untuk mempertanyakan otoritas dari sumber informasi itu sendiri.
+1. **Anonimitas vs. Akuntabilitas:** Bagaimana menganalisis wacana dari akun anonim atau *bot* yang sengaja diciptakan untuk menyebar kebencian?
+2. **Ruang Gema (*Echo Chambers*):** Bagaimana AWK dapat memberikan kritik yang efektif jika audiens yang dituju terjebak dalam ruang gema yang hanya memperkuat keyakinan mereka sendiri?
+3. **Rekayasa Media (*Deepfakes*) dan Pasca-Kebenaran (*Post-Truth*):** Dalam dunia tempat bukti visual dapat dimanipulasi, AWK harus melampaui teks dan gambar untuk mempertanyakan otoritas dari sumber informasi itu sendiri.
 
 ### 6. Pilar Pembuktian Linguistik Forensik
-
-Linguistik forensik adalah cabang ilmu bahasa terapan yang menggunakan analisis bahasa untuk kepentingan hukum dan investigasi kriminal. Seorang peneliti atau investigator tidak hanya mencari sidik jari pada benda fisik, melainkan **"sidik jari linguistik"** yang tertinggal dalam susunan kalimat, pilihan kata, hingga tanda baca.
 
 Dalam kriminologi, bahasa dianggap sebagai manifestasi perilaku. Berikut adalah pilar utama bagaimana kata-kata menjadi alat bukti:
 
 #### 6.1 Idiolek dan Kebiasaan Berbahasa
 
-Sama seperti sidik jari atau DNA, setiap individu memiliki **idiolek**. Idiolek adalah gaya bahasa unik yang dimiliki individu, yang dipengaruhi oleh latar belakang pendidikan, dialek regional, usia, hingga profesi.
+Setiap individu memiliki **idiolek**. Idiolek adalah gaya bahasa unik yang dimiliki individu, yang dipengaruhi oleh latar belakang pendidikan, dialek regional, usia, hingga profesi.
 
-- **Pilihan Leksikal:** Penentuan penggunaan istilah (misalnya kata "komputer" versus "peranti").
+- **Pilihan Leksikal:** Penentuan penggunaan istilah (misalnya kata "perangkat" versus "peranti").
 - **Sintaksis:** Struktur kalimat yang dominan, seperti kecenderungan penggunaan kalimat pasif atau aktif.
 - **Ortografi:** Pola penggunaan tanda baca atau singkatan (misalnya "yg" versus "yang", atau penggunaan tanda seru yang berlebihan).
 

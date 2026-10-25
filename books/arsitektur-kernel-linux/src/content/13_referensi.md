@@ -14,9 +14,9 @@ Love, R. (2010). *Linux kernel development* (3rd ed.). Addison-Wesley Profession
 
 Mauerer, W. (2008). *Professional Linux kernel architecture*. Wiley Publishing. [https://www.wiley.com/en-us/Professional+Linux+Kernel+Architecture-p-9780470343432](https://www.wiley.com/en-us/Professional+Linux+Kernel+Architecture-p-9780470343432)
 
-Tanenbaum, A. S., & Bos, H. (2014). *Modern operating systems* (4th ed.). Pearson Education. [https://openlibrary.org/books/OL25620855M](https://openlibrary.org/books/OL25620855M)
-
 Silberschatz, A., Galvin, P. B., & Gagne, G. (2018). *Operating system concepts* (10th ed.). John Wiley & Sons. [https://www.wiley.com/en-us/shop/general-end-user-computing/operating-system-concepts-10th-edition-p-9781119320913](https://www.wiley.com/en-us/shop/general-end-user-computing/operating-system-concepts-10th-edition-p-9781119320913)
+
+Tanenbaum, A. S., & Bos, H. (2014). *Modern operating systems* (4th ed.). Pearson Education. [https://openlibrary.org/books/OL25620855M](https://openlibrary.org/books/OL25620855M)
 
 ---
 
@@ -42,7 +42,7 @@ McKenney, P. E. (2004). Exploiting deferred destruction: An analysis of read-cop
 
 Mogul, J. C., & Ramakrishnan, K. K. (1997). Eliminating receive livelock in an interrupt-driven kernel. *ACM Transactions on Computer Systems, 15*(3), 217-252. [https://doi.org/10.1145/263326.263335](https://doi.org/10.1145/263326.263335)
 
-Molnar, I. (2007). Completely Fair Scheduler. *Linux kernel mailing list*. [https://www.kernel.org/doc/html/latest/scheduler/sched-design-CFS.html](https://www.kernel.org/doc/html/latest/scheduler/sched-design-CFS.html)
+Molnar, I. (2007). CFS Scheduler. *Linux kernel documentation*. [https://www.kernel.org/doc/html/latest/scheduler/sched-design-CFS.html](https://www.kernel.org/doc/html/latest/scheduler/sched-design-CFS.html)
 
 Pohly, D., McLaughlin, S., McDaniel, P., & Butler, K. (2012). Hi-Fi: Collecting high-fidelity whole-system provenance. *Proceedings of the 28th Annual Computer Security Applications Conference*, 259-268. [https://doi.org/10.1145/2420950.2420989](https://doi.org/10.1145/2420950.2420989)
 

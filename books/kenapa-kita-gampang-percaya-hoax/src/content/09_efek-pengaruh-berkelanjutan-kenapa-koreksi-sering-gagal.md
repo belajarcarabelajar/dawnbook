@@ -6,7 +6,7 @@ Itu bukan karena kamu bodoh atau tidak menyimak. Itu adalah salah satu temuan pa
 
 ### Apa itu efek pengaruh berkelanjutan
 
-Efek pengaruh berkelanjutan, atau *continued influence effect*, adalah kecenderungan informasi yang salah untuk terus memengaruhi ingatan dan penalaran kita, bahkan setelah informasi itu dikoreksi dengan jelas dan kita menerima koreksinya (Lewandowsky dkk., 2012). Kita bukan cuma "sulit melupakan" info salah. Kita terus memakainya untuk menyimpulkan sesuatu, tanpa sadar, meski di lain sisi kita tahu itu sudah diralat.
+Efek pengaruh berkelanjutan, atau *continued influence effect*, adalah kecenderungan informasi yang salah untuk terus memengaruhi ingatan dan penalaran kita, bahkan setelah informasi itu dikoreksi dengan jelas dan kita menerima koreksinya (Lewandowsky dkk., 2012). Kita bukan cuma "sulit melupakan" info salah. Kita terus memakainya untuk menyimpulkan sesuatu, tanpa sadar, meski di sisi lain kita tahu itu sudah diralat.
 
 Riset ini penting karena membantah asumsi yang kelihatan masuk akal: bahwa kalau kita mengoreksi hoaks, maka hoaks itu selesai. Ternyata tidak sesederhana itu. Koreksi jarang menghapus jejak info salah sampai bersih. Ia lebih sering hanya menumpuk di atasnya.
 
@@ -53,7 +53,7 @@ Ringkasnya:
 
 ### Kenapa ini mengarah ke pencegahan
 
-Semua ini menegaskan satu hal yang agak tidak enak: mengoreksi hoaks setelah tersebar itu sulit, mahal secara usaha, dan tidak pernah sepenuhnya bersih. Jejak info salah cenderung tertinggal walau sudah kamu lakukan dengan benar.
+Semua ini menegaskan satu hal yang agak tidak enak: mengoreksi hoaks setelah tersebar itu sulit, mahal secara usaha, dan tidak pernah sepenuhnya bersih. Jejak info salah cenderung tertinggal walau koreksinya sudah kamu lakukan dengan benar.
 
 Karena itulah, ada pendekatan lain yang makin banyak dilirik: mencegah sebelum orang telanjur percaya. Alih-alih memadamkan api yang sudah menyala, kita membangun daya tahan lebih awal, supaya hoaks tidak mudah menempel sejak awal. Pendekatan ini disebut **prebunking**, dan kita akan membahasnya tersendiri di Bab 11.
 
@@ -61,4 +61,4 @@ Karena itulah, ada pendekatan lain yang makin banyak dilirik: mencegah sebelum o
 
 Efek pengaruh berkelanjutan menjelaskan kenapa hoaks masih memengaruhi cara kita berpikir walau sudah diralat: koreksi meninggalkan lubang dalam model mental kita, dan otak lebih suka mengisi lubang itu dengan cerita lama yang utuh daripada membiarkannya kosong. Ditambah lagi, mengulang mitos saat mengoreksi bisa membuatnya terasa makin akrab dan makin dipercaya. Kabar baiknya, kekhawatiran lama soal *backfire effect* ternyata dibesar-besarkan: koreksi umumnya membantu, jadi jangan takut mengoreksi. Yang penting adalah caranya: pimpin dengan fakta, beri peringatan sebelum menyebut mitos, sebut mitos sekali saja, jelaskan kenapa ia salah, dan sediakan penjelasan alternatif yang mengisi lubang.
 
-Karena koreksi setelah kejadian tidak pernah sepenuhnya bersih, pertahanan perlu dibangun sebelum hoaks datang. Dan pertahanan itu dimulai dari keterampilan dasar yang akan kita masuki di modul berikutnya: **Literasi Digital dan Berpikir Kritis**.
+Karena koreksi setelah kejadian tidak pernah sepenuhnya bersih, pertahanan perlu dibangun sebelum hoaks datang. Dan pertahanan itu dimulai dari keterampilan dasar yang akan kita masuki di bab 10: **Literasi Digital dan Berpikir Kritis**.

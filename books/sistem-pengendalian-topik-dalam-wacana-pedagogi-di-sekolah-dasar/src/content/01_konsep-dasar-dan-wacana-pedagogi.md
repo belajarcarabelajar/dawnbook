@@ -26,9 +26,9 @@ Pada praktiknya, guru sekolah dasar memegang posisi sentral dalam mengendalikan 
 
 ---
 
-### Struktur Hirarki Wacana Pedagogi
+### Struktur Hierarki Wacana Pedagogi
 
-Interaksi di dalam kelas memiliki tingkatan atau hirarki yang teratur. Berdasarkan kajian analisis wacana pedagogi, struktur komunikasi guru dan siswa di sekolah dasar terbagi ke dalam lima tingkatan berjenjang:
+Interaksi di dalam kelas memiliki tingkatan atau hierarki yang teratur. Berdasarkan kajian analisis wacana pedagogi, struktur komunikasi guru dan siswa di sekolah dasar terbagi ke dalam lima tingkatan berjenjang:
 
 | Tingkatan Wacana | Istilah Teknis | Deskripsi dan Fungsi dalam Kelas |
 | :--- | :--- | :--- |
@@ -38,7 +38,7 @@ Interaksi di dalam kelas memiliki tingkatan atau hirarki yang teratur. Berdasark
 | **Gerakan** | *Move* | Tindakan komunikatif tunggal yang dilakukan oleh pembicara (misalnya: mengajukan pertanyaan, memberikan jawaban, atau memberi instruksi). |
 | **Tindak** | *Act* | Unit bahasa terkecil dalam wacana (misalnya: kata sapaan, penanda transisi, atau konfirmasi singkat). |
 
-Hirarki ini menunjukkan bahwa setiap ucapan kecil seorang guru atau siswa sebenarnya merupakan bagian dari struktur wacana yang lebih besar.
+Hierarki ini menunjukkan bahwa setiap ucapan kecil seorang guru atau siswa sebenarnya merupakan bagian dari struktur wacana yang lebih besar.
 
 ---
 
@@ -74,10 +74,10 @@ Untuk membangun suasana kelas yang lebih interaktif dan inklusif, kamu dapat mem
 
 | Aspek Interaksi | Wacana Berpusat pada Guru | Wacana Dialogis dan Inklusif |
 | :--- | :--- | :--- |
-| **Inisiatif Topik** | Sepenuhnya ditentukan oleh guru. | Siswa diberi ruang mengajukan pertanyaan dan ide baru. |
-| **Pola Pertukaran** | Didominasi struktur Inisiasi-Respons-Evaluasi (IRE). | Mengembangkan diskusi multi-arah antar-siswa. |
+| **Inisiasi Topik** | Sepenuhnya ditentukan oleh guru. | Siswa diberi ruang mengajukan pertanyaan dan ide baru. |
+| **Pola Pertukaran** | Didominasi struktur Inisiasi-Respons-Evaluasi (IRE). | Mengembangkan diskusi multiarah antarsiswa. |
 | **Perlakuan Respons** | Jawaban di luar kunci langsung diabaikan/disalahkan. | Jawaban tak terduga dijadikan bahan eksplorasi bersama. |
-| **Peran Siswa** | Penerima pasif dan penyawab pertanyaan. | Co-constructor (pembangun bersama) pengetahuan. |
+| **Peran Siswa** | Penerima pasif dan penjawab pertanyaan. | Co-constructor (pembangun bersama) pengetahuan. |
 
 ---
 
@@ -86,7 +86,7 @@ Untuk membangun suasana kelas yang lebih interaktif dan inklusif, kamu dapat mem
 #### Konsep Pokok Wacana Pedagogi
 1. Wacana pedagogi adalah sistem komunikasi terstruktur di kelas yang dirancang untuk mencapai tujuan pembelajaran di sekolah dasar.
 2. Sistem pengendalian topik mengatur siapa yang memulai, mengarahkan, mengalihkan, dan mengesahkan gagasan dalam interaksi kelas.
-3. Struktur wacana kelas terbagi secara hirarkis dari unit terbesar hingga terkecil: *Pelajaran* -> *Transaksi* -> *Pertukaran* -> *Gerakan* -> *Tindak*.
+3. Struktur wacana kelas terbagi secara hierarkis dari unit terbesar hingga terkecil: *Pelajaran* -> *Transaksi* -> *Pertukaran* -> *Gerakan* -> *Tindak*.
 4. Guru mengendalikan topik melalui pertanyaan, kata sapaan, pemarkah transisi, pengabaian respons, dan penguatan respons.
 
 #### Pertanyaan Refleksi

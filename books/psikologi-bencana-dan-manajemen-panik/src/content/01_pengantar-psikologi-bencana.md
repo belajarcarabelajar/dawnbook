@@ -2,7 +2,7 @@
 
 Bayangkan sebuah pusat perbelanjaan yang padat. Tiba-tiba, bumi berguncang hebat. Lampu padam seketika, denting kaca pecah terdengar di segala penjuru, dan sirene darurat meraung. Dalam hitungan detik, lingkungan yang awalnya aman berubah menjadi zona bahaya ekstrem. Dalam situasi seperti ini, faktor apa yang menentukan siapa yang berhasil menyelamatkan diri dan siapa yang terjebak? Apakah semata-mata kekuatan fisik atau kecepatan berlari?
 
-Sejarah penanganan bencana dan riset empiris membuktikan bahwa dalam banyak kasus, **psikologi manusia** (cara otak memproses rasa takut dan mengambil keputusan krusial di bawah tekanan luar biasa) merupakan faktor penentu utama antara hidup dan mati.
+Sejarah penanganan bencana dan riset empiris menunjukkan bahwa dalam banyak kasus, **psikologi manusia** (cara otak memproses rasa takut dan mengambil keputusan krusial di bawah tekanan luar biasa) merupakan faktor penentu utama antara hidup dan mati.
 
 ---
 
@@ -24,7 +24,7 @@ Jika sistem operasi mengalami kegagalan kognitif (*crash* atau *freezing*) akiba
 
 Psikologi bencana beroperasi secara berkesinambungan di seluruh tahapan krisis melalui spektrum **Siklus Manajemen Bencana**:
 
-1. **Fase Pra-Bencana (Mitigasi dan Kesiapsiagaan):**
+1. **Fase Prabencana (Mitigasi dan Kesiapsiagaan):**
    - Menganalisis alasan psikologis mengapa masyarakat kerap mengabaikan peringatan dini (*normalcy bias* atau penyangkalan).
    - Membangun kesiapsiagaan mental terstruktur agar masyarakat tidak mengalami disorientasi ketika ancaman tiba.
 
@@ -33,9 +33,9 @@ Psikologi bencana beroperasi secara berkesinambungan di seluruh tahapan krisis m
    - Mengurai fenomena pembekuan kognitif (*cognitive freezing*) saat bahaya mengancam.
    - Menyusun strategi komunikasi krisis yang adaptif terhadap kapasitas kognitif korban.
 
-3. **Fase Pasca-Bencana (Pemulihan dan Rekonstruksi Mental):**
+3. **Fase Pascabencana (Pemulihan dan Rekonstruksi Mental):**
    - Memberikan Pertolongan Pertama Psikologis (*Psychological First Aid* / PFA).
-   - Melakukan asesmen dan intervensi dini terhadap Gangguan Stres Pasca-Trauma (*Post-Traumatic Stress Disorder* / PTSD).
+   - Melakukan asesmen dan intervensi dini terhadap Gangguan Stres Pascatrauma (*Post-Traumatic Stress Disorder* / PTSD).
    - Membangun kembali resiliensi psikososial komunitas yang terdampak.
 
 ---
@@ -58,7 +58,7 @@ Jika $\text{Waktu Reaksi Psikologis}$ membengkak akibat kepanikan atau ketidakma
 
 #### B. Pencegahan Perilaku Kerumunan yang Destruktif
 
-Ketakutan memiliki sifat penularan emosi (*emotional contagion*) yang sangat cepat. Ketika satu individu berlari membabi buta sambil berteriak histeris di tengah kerumunan, hal itu dapat memicu gelombang panik massal yang berujung pada desak-desakan maut (*stampede*). Pemahaman terhadap psikologi kerumunan membantu pengelola fasilitas dan petugas evakuasi dalam memandu massa dengan pendekatan yang tenang dan terarah.
+Ketakutan memiliki sifat penularan emosi (*emotional contagion*) yang sangat cepat. Ketika satu individu berlari membabi buta sambil berteriak histeris di tengah kerumunan, hal itu dapat memicu gelombang panik massal yang memperbesar risiko desak-desakan maut (*stampede*). Pemahaman terhadap psikologi kerumunan membantu pengelola fasilitas dan petugas evakuasi dalam memandu massa dengan pendekatan yang tenang dan terarah.
 
 #### C. Efektivitas Komunikasi Krisis
 

@@ -11,8 +11,8 @@ Peluruhan Beta Plus, yang juga dikenal sebagai **emisi positron**, terjadi pada 
 **Konsep Dasar:** Sebuah proton ($p$) di dalam inti atom meluruh menjadi tiga hal:
 
 1. **Neutron ($n$):** Tetap berada di dalam inti.
-2. **Positron ($e^+$ atau $\beta^+$):** "Saudara kembar" elektron namun bermuatan positif (antimateri elektron). Partikel ini dipancarkan keluar dari inti.
-3. **Neutrino Elektron ($\nu_e$):** Partikel tanpa massa diam yang membawa pergi sebagian energi.
+2. **Positron ($e^+$ atau $\beta^+$):** "Saudara kembar" elektron tetapi bermuatan positif (antimateri elektron). Partikel ini dipancarkan keluar dari inti.
+3. **Neutrino Elektron ($\nu_e$):** Partikel bermassa sangat kecil yang membawa pergi sebagian energi.
 
 > **Analogi Sederhana:** Bayangkan sebuah bus (inti atom) yang terlalu penuh dengan penumpang berbaju merah (proton) sehingga suasana menjadi panas karena gaya tolak-menolak. Untuk menstabilkan suasana, salah satu penumpang berbaju merah melepas jaket merahnya (muatan positif) dan berubah menjadi penumpang berbaju biru (neutron) yang lebih tenang. Jaket merah tersebut dilempar keluar jendela bus sebagai **positron**.
 
@@ -36,7 +36,7 @@ $$
 - **Nomor Atom ($Z$):** Berkurang 1 (karena satu proton hilang berganti menjadi neutron).
 - **Identitas Unsur:** Berubah (karena jumlah proton menentukan jenis unsur).
 
-### 3. Syarat Energi yang Tidak Semua Atom Penuhi
+### 3. Syarat Energi yang Tidak Dipenuhi Semua Atom
 
 Berbeda dengan peluruhan Beta Minus, peluruhan Beta Plus membutuhkan ongkos energi yang lebih besar. Mengapa? Karena massa sebuah neutron sebenarnya lebih besar daripada massa sebuah proton.
 
@@ -72,13 +72,13 @@ Pengetahuan tentang peluruhan $\beta^+$ bukan sekadar teori fisika kuantum yang 
 
 **Skenario Penggunaan:**
 
-1. Pasien disuntik dengan cairan radioaktif (tracer) yang mengalami peluruhan $\beta^+$, biasanya Fluorine-18 (${}^{18}\text{F}$).
-2. Tracer ini menempel pada sel-sel kanker yang sangat aktif mengonsumsi glukosa.
+1. Pasien disuntik dengan cairan radioaktif (tracer) yang mengalami peluruhan $\beta^+$, biasanya Fluorin-18 (${}^{18}\text{F}$).
+2. Tracer ini lebih banyak diserap oleh sel-sel kanker yang sangat aktif mengonsumsi glukosa.
 3. Di dalam tubuh, ${}^{18}\text{F}$ meluruh dan memancarkan **positron**.
 4. Positron bertemu elektron dalam tubuh, terjadi **anihilasi**, dan memancarkan sinar gamma.
 5. Detektor di sekeliling pasien menangkap sinar gamma ini untuk memetakan lokasi kanker dalam bentuk gambar 3D.
 
-### 6. Contoh Perhitungan Sederhana
+### 6. Contoh Peluruhan Sederhana
 
 Mari kita lihat peluruhan Karbon-11 menjadi Boron-11:
 

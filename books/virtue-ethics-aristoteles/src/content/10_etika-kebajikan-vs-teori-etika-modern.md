@@ -8,9 +8,9 @@ Mari kita bedah perbandingannya untuk memahami mengapa pendekatan berbasis karak
 
 ### 1. Tiga Pilar Etika
 
-Ada tiga pilar utama dalam peta filsafat moral. Etika Kebajikan (Virtue Ethics) menitikberatkan pada karakter dan integritas pelaku. Deontologi (Kantianism) berfokus pada kewajiban serta kepatuhan terhadap aturan moral universal. Terakhir, Utilitarianisme (Konsekuensialisme) melihat hasil akhir atau konsekuensi dari suatu tindakan.
+Ada tiga pilar utama dalam peta filsafat moral. Etika Kebajikan (Virtue Ethics) menitikberatkan pada karakter dan integritas pelaku. Deontologi (misalnya etika Kant) berfokus pada kewajiban serta kepatuhan terhadap aturan moral universal. Terakhir, Utilitarianisme (salah satu bentuk Konsekuensialisme) melihat hasil akhir atau konsekuensi dari suatu tindakan.
 
-Bayangkan etika sebagai perjalanan berkendara. Deontologi adalah mematuhi rambu lalu lintas karena itu adalah hukum, tanpa peduli jalanan sepi atau ramai. Utilitarianisme adalah memilih rute tercepat agar semua penumpang sampai di tujuan dengan bahagia dan efisien. Etika Kebajikan adalah menjadi pengemudi yang terampil, waspada, dan bijaksana, sehingga dalam situasi darurat sekalipun ia tahu cara bertindak yang benar secara instingtif.
+Bayangkan etika sebagai perjalanan berkendara. Deontologi adalah mematuhi rambu lalu lintas karena itu adalah hukum, tanpa peduli jalanan sepi atau ramai. Utilitarianisme adalah memilih rute tercepat agar semua penumpang sampai di tujuan dengan bahagia dan efisien. Etika Kebajikan adalah menjadi pengemudi yang terampil, waspada, dan bijaksana, sehingga dalam situasi darurat sekalipun ia tahu cara bertindak yang benar secara spontan.
 
 ### 2. Perbandingan Karakteristik Utama
 
@@ -24,13 +24,13 @@ Tabel berikut menunjukkan perbedaan mendasar di antara ketiganya:
 
 ### 3. Etika Kebajikan vs Deontologi
 
-Menurut Immanuel Kant, moralitas adalah tentang kepatuhan pada Imperatif Kategoris, di mana kita bertindak berdasarkan prinsip yang bisa dijadikan hukum universal. Dalam pandangan Deontologi, jika berbohong itu salah, maka tindakan itu selalu salah meskipun untuk menyelamatkan nyawa, karena niat dan ketaatan pada aturan adalah yang utama.
+Menurut Immanuel Kant, moralitas adalah tentang kepatuhan pada Imperatif Kategoris, yaitu kita bertindak berdasarkan prinsip yang bisa dijadikan hukum universal. Dalam pandangan Deontologi, jika berbohong itu salah, maka tindakan itu selalu salah meskipun untuk menyelamatkan nyawa, karena niat dan ketaatan pada aturan adalah yang utama.
 
-Berbeda dengan aturan kaku tersebut, Etika Kebajikan memprioritaskan sifat kejujuran. Orang dengan kebajikan ini akan tahu kapan harus bicara jujur dan bagaimana menyampaikannya secara bijaksana melalui penerapan kemampuan rasional praktis (*Phronesis*). Deontologi ibarat memberikan buku instruksi, sementara Etika Kebajikan menyediakan kompas moral di dalam diri.
+Berbeda dengan aturan kaku tersebut, Etika Kebajikan memprioritaskan sifat kejujuran. Orang dengan kebajikan ini akan tahu kapan harus bicara jujur dan bagaimana menyampaikannya secara bijaksana melalui penerapan kebijaksanaan praktis (*Phronesis*). Deontologi ibarat memberikan buku instruksi, sementara Etika Kebajikan menyediakan kompas moral di dalam diri.
 
 ### 4. Etika Kebajikan vs Utilitarianisme
 
-Utilitarianisme menggunakan logika untuk mengukur moralitas, di mana kebaikan dihitung dari total kebahagiaan dikurangi penderitaan:
+Utilitarianisme menggunakan logika untuk mengukur moralitas, yaitu kebaikan dihitung dari total kebahagiaan dikurangi penderitaan:
 
 <div>
 $$
@@ -58,7 +58,7 @@ Sebagai contoh, bayangkan seorang manajer menemukan produk perusahaannya memilik
 
 Pendekatan Utilitarian akan menghitung kerugian finansial perusahaan dan membandingkannya dengan kekecewaan pelanggan. Keputusan untuk diam bisa diambil jika kerugian finansial dinilai jauh lebih besar. 
 
-Pendekatan Deontologi akan merujuk langsung pada aturan industri yang melarang penipuan, sehingga pelaporan wajib dilakukan tanpa mempedulikan konsekuensi finansial. 
+Pendekatan Deontologi akan merujuk langsung pada kewajiban moral untuk tidak menipu, sehingga pelaporan wajib dilakukan tanpa memedulikan konsekuensi finansial. 
 
 Sementara itu, penganut Etika Kebajikan akan mempertanyakan apakah seorang pemimpin berintegritas pantas menyembunyikan informasi tersebut. Keputusan akhirnya akan lahir dari komitmen kuat untuk menjaga keutamaan kejujuran dan tanggung jawab profesional.
 

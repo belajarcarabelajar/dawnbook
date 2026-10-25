@@ -6,7 +6,7 @@ Itulah **Kecerdasan Spasial**. Ini tidak hanya sebatas kemampuan menggambar. Ini
 
 ## 1\. Memahami Esensi Kecerdasan Spasial
 
-Kecerdasan Spasial-Visual merupakan salah satu elemen dalam Teori Kecerdasan Majemuk Howard Gardner. Kemampuan ini didefinisikan sebagai keahlian mempersepsikan dunia visual-spasial secara akurat serta melakukan transformasi pada persepsi tersebut.
+Kecerdasan Spasial merupakan salah satu elemen dalam Teori Kecerdasan Majemuk Howard Gardner. Kemampuan ini didefinisikan sebagai keahlian mempersepsikan dunia visual-spasial secara akurat serta melakukan transformasi pada persepsi tersebut.
 
 Individu dengan kemampuan ini seolah memiliki mata batin yang tajam. Mereka dapat melihat objek, mempertimbangkan sudut pandang berbeda, dan membayangkan interaksi objek tersebut dengan ruang di sekitarnya. Terdapat dua komponen utama yang menopangnya. Pertama adalah persepsi akurat, yaitu kemampuan mengenali bentuk, garis, warna, dan hubungan antarruang dengan presisi tinggi. Komponen kedua berupa transformasi mental, yakni keahlian memanipulasi gambar di dalam kepala tanpa perlu melihat wujud fisiknya secara langsung, seperti merotasi objek 3D dalam pikiran.
 
@@ -26,11 +26,11 @@ $$
 $$
 </div>
 
-Orang dengan spasial yang baik mampu memproyeksikan posisi titik tersebut dalam ruang hampa secara mental.
+Orang dengan kecerdasan spasial yang baik mampu memproyeksikan posisi titik tersebut dalam ruang tiga dimensi secara mental.
 
 ## 3\. Karakteristik Individu Visual-Spasial
 
-Seseorang dengan kecerdasan spasial yang dominan biasanya menunjukkan navigasi yang tangguh. Mereka jarang tersesat dan memiliki peta mental yang kuat terhadap lingkungan sekitar. Saat mendengar sebuah konsep, mereka lebih suka memvisualisasikannya alih-alih sekadar mengingat rentetan kata. Mereka juga sangat menyukai aktivitas bongkar pasang, mulai dari puzzle, mainan konstruksi, hingga penyusunan struktur rumit. Selain itu, ada kepekaan tajam terhadap detail, seperti tata letak furnitur yang sedikit bergeser atau kombinasi warna yang kurang harmonis.
+Seseorang dengan kecerdasan spasial yang dominan biasanya menunjukkan navigasi yang tangguh. Mereka jarang tersesat dan memiliki peta mental yang kuat terhadap lingkungan sekitar. Saat mendengar sebuah konsep, mereka lebih suka memvisualisasikannya alih-alih sekadar mengingat rentetan kata. Mereka juga sangat menyukai aktivitas bongkar pasang, mulai dari *puzzle*, mainan konstruksi, hingga penyusunan struktur rumit. Selain itu, ada kepekaan tajam terhadap detail, seperti tata letak furnitur yang sedikit bergeser atau kombinasi warna yang kurang harmonis.
 
 Kecenderungan ini juga sangat terlihat ketika mereka mencoba mengingat rute perjalanan. Mereka jauh lebih mudah mengingat patokan visual seperti gedung biru yang besar dibandingkan instruksi jarak dalam satuan meter.
 
@@ -66,8 +66,8 @@ Sudut $u$ bergerak dari $0$ sampai $2\pi$, sedangkan sudut $v$ bergerak dari $0$
 
 ## 6\. Peneliti yang Tersesat di Hutan
 
-Bayangkan seorang peneliti terjebak di hutan lebat tanpa bantuan sistem navigasi digital. Pada tahap awal, ia memperhatikan pola lumut di pepohonan yang menunjukkan arah utara serta mengevaluasi kemiringan tanah. Selanjutnya, proses transformasi mental terjadi ketika ia membayangkan peta topografi yang sempat dibacanya di kamp, lalu memadukan situasi aktual di depannya dengan peta di dalam ingatannya. Berdasarkan perhitungan visual tersebut, ia merancang jalur alternatif melingkari bukit untuk mencapai sumber air terdekat.
+Bayangkan seorang peneliti terjebak di hutan lebat tanpa bantuan sistem navigasi digital. Pada tahap awal, ia memperhatikan pola lumut di pepohonan serta mengevaluasi kemiringan tanah. Selanjutnya, proses transformasi mental terjadi ketika ia membayangkan peta topografi yang sempat dibacanya di kamp, lalu memadukan situasi aktual di depannya dengan peta di dalam ingatannya. Berdasarkan perhitungan visual tersebut, ia merancang jalur alternatif melingkari bukit untuk mencapai sumber air terdekat.
 
 ## 7\. Mengasah Kapasitas Spasial
 
-Kecerdasan Spasial menunjukkan bahwa kemampuan kognitif memiliki dimensi bentuk dan ruang. Ini bukan bakat bawaan yang tidak bisa diubah, melainkan lebih mirip dengan otot. Semakin sering kamu membayangkan objek dari berbagai sudut, merotasi susunan furnitur kamar di dalam bayangan, atau menumpahkan ide ke dalam sketsa, semakin terlatih pula kapasitas ruang tersebut.
+Kecerdasan Spasial menunjukkan bahwa kemampuan kognitif memiliki dimensi bentuk dan ruang. Ini bukan bakat bawaan yang tidak bisa diubah, melainkan lebih mirip dengan otot. Semakin sering kamu membayangkan objek dari berbagai sudut, merotasi susunan furnitur kamar di dalam bayangan, atau menumpahkan ide ke dalam sketsa, semakin terlatih pula kapasitas spasialmu.

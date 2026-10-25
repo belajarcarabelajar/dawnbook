@@ -4,13 +4,13 @@ Kisah hidup Iwan Setyawan dalam *9 Summers 10 Autumns* dapat dibaca lebih dari s
 
 ### Sintesis Akhir Kajian
 
-Keseluruhan unsur intrinsik dalam novel "9 Summers 10 Autumns" saling berkaitan membangun makna utuh cerita. Penggunaan alur campuran dengan sudut pandang persona pertama memberikan gambaran mengenai latar kehidupan tokoh utama di Kota Batu yang sarat akan keprihatinan dan kehidupannya ketika berada di New York yang berbeda jauh dengan kota asalnya. Hal ini membuat ikatan antara pembaca dan novel terhubung dengan emosi yang mengiringinya. Penokohan yang diceritakan oleh penulis dibalut dengan gaya bahasa puitis mempertegas tema karya ini: pendidikan sebagai tangga perubahan sosial dan kekuatan cinta keluarga.
+Keseluruhan unsur intrinsik dalam novel "9 Summers 10 Autumns" saling berkaitan membangun makna utuh cerita. Penggunaan alur campuran dengan sudut pandang persona pertama memberikan gambaran mengenai latar kehidupan tokoh utama di Kota Batu yang sarat akan keprihatinan dan kehidupannya ketika berada di New York yang berbeda jauh dengan kota asalnya. Hal ini membuat pembaca terhubung secara emosional dengan novel. Penokohan yang diceritakan oleh penulis dan dibalut dengan gaya bahasa puitis mempertegas tema karya ini: pendidikan sebagai tangga perubahan sosial dan kekuatan cinta keluarga.
 
 Melalui pendekatan ekspresif, terungkap bahwa novel ini merupakan hasil otentik perjalanan hidup Iwan Setyawan di tengah kondisi sulit. Kisah ini dituangkan berdasarkan latar belakang keluarga, kondisi sosial, masa kecil, dan latar belakang bidang akademiknya.
 
-### Rekomendasi Penelitian Selanjutnya
+### Saran
 
-Pembaca diharapkan tidak hanya menikmati keindahan karya sastra dalam novel ini, tetapi juga berusaha mengimplementasikan nilai-nilai yang menjadi pesan yang disampaikan oleh pengarang, yaitu kerja keras, pantang menyerah, tekun, dan memperjuangkan pendidikan untuk masa depan. Kisah dalam novel ini membuktikan bahwa keterbatasan material bukanlah penghalang untuk memperjuangkan masa depan, tetapi sebagai tantangan yang harus ditaklukkan dengan perjuangan dan kerja keras.
+Pembaca diharapkan tidak hanya menikmati keindahan karya sastra dalam novel ini, tetapi juga berusaha mengimplementasikan nilai-nilai yang menjadi pesan yang disampaikan oleh pengarang, yaitu kerja keras, pantang menyerah, tekun, dan memperjuangkan pendidikan untuk masa depan. Kisah dalam novel ini membuktikan bahwa keterbatasan material bukanlah penghalang untuk memperjuangkan masa depan, melainkan tantangan yang harus ditaklukkan dengan perjuangan dan kerja keras.
 
 Penelitian selanjutnya diharapkan dapat mengkaji karya ini menggunakan pendekatan yang berbeda, seperti pendekatan sosiologi sastra atau psikologi sastra agar memperkaya keilmuan mengenai analisis novel "9 Summers 10 Autumns".
 
@@ -22,9 +22,9 @@ Dengan berakhirnya kajian ini, kita berharap dapat membuka wawasan baru bagi pen
 
 Aini, A. N., Puspitoningrum, E., Sujarwoko, & Sardjono. (2022). Analisis Aspek Struktural Dalam Novel Ayah Karya Andrea Hirata. WACANA: Jurnal Bahasa, Seni, Dan Pengajaran, 6(2), 94–99. [https://doi.org/10.29407/jbsp.v6i2.19198](https://doi.org/10.29407/jbsp.v6i2.19198)
 
-Bagaskara, M. (2024). Nilai-nilai Pendidikan Moral dalam Novel 9 Summer 10 Autumns Karya Iwan Setyawan. Universitas Islam Negeriprofesor Kiai Haji Saifuddin Zuhri Purwokerto. [https://repository.uinsaizu.ac.id/23735/](https://repository.uinsaizu.ac.id/23735/)
+Bagaskara, M. (2024). Nilai-nilai Pendidikan Moral dalam Novel 9 Summer 10 Autumns Karya Iwan Setyawan. Universitas Islam Negeri Profesor Kiai Haji Saifuddin Zuhri Purwokerto. [https://repository.uinsaizu.ac.id/23735/](https://repository.uinsaizu.ac.id/23735/)
 
-Fitri, H., Oktaviani, N., & Rahmawati, D. (2024). Analisis Pendekatan Ekspresif pada Novel Rahasia Salinemkarya Brilliant Yotenega dan Wisnu Suryaning Adji. Saka Bahasa: Jurnal Sastra, Bahasa, Pendidikan, Dan Budaya, 1(2), 105–129. [https://doi.org/10.23960/sakabahasa.v1i4.399](https://doi.org/10.23960/sakabahasa.v1i4.399)
+Fitri, H., Oktaviani, N., & Rahmawati, D. (2024). Analisis Pendekatan Ekspresif pada Novel Rahasia Salinem Karya Brilliant Yotenega dan Wisnu Suryaning Adji. Saka Bahasa: Jurnal Sastra, Bahasa, Pendidikan, Dan Budaya, 1(2), 105–129. [https://doi.org/10.23960/sakabahasa.v1i4.399](https://doi.org/10.23960/sakabahasa.v1i4.399)
 
 Hasanah, M., Julia, V., NH, L. Q. Z., & Suryani. (2025). Analisis Latar dalam Cerpen “Celoteh Ismail” Karya Komala Sutha pada Media Indonesia Tahun 2022. Jurnal Didactique Bahasa Indonesia, 6(1), 25–36. [https://doi.org/10.52333/didactique.v6i1.1072](https://doi.org/10.52333/didactique.v6i1.1072)
 
@@ -36,7 +36,7 @@ Kusuma, I. D., Herani, A. D., Utari, R., Zahra, A., Diningrum, M. A., & Seviana,
 
 Meitridwiastiti, A. A. A. (2022). Penggunaan Gaya Bahasa dalam Novel Laut Bercerita Karya Leila S. Chudori. Paramasastra: Jurnal Ilmiah Bahasa Sastra Dan Pembelajarannya, 9(2), 211–226. [https://doi.org/10.26740/paramasastra.v9n2.p211-226](https://doi.org/10.26740/paramasastra.v9n2.p211-226)
 
-Mutia. (2024). Analisis Puisi “ Peringatan” Karya Wiji Thukul melalui Pendekatan Objektif. Journal of Language and Literature Education (JoLaLE), 1(4), 255–263. [https://doi.org/10.70248/jolale.v1i4.1551](https://doi.org/10.70248/jolale.v1i4.1551)
+Mutia. (2024). Analisis Puisi “Peringatan” Karya Wiji Thukul melalui Pendekatan Objektif. Journal of Language and Literature Education (JoLaLE), 1(4), 255–263. [https://doi.org/10.70248/jolale.v1i4.1551](https://doi.org/10.70248/jolale.v1i4.1551)
 
 Putri, W. S., Rasyimah, & Safriandi. (2024). Analisis Tokoh dan Penokohan Tokoh Utama dalam Novel Not Me Karya Caaay_. KANDE: Jurnal Ilmiah Pendidikan Bahasa Dan Sastra Indonesia, 4(2), 215. [https://doi.org/10.29103/jk.v4i2.13445](https://doi.org/10.29103/jk.v4i2.13445)
 
@@ -46,6 +46,6 @@ Setyawan, I. (2013). 9 Summers 10 Autumns (M. Yulistianti, Ed.). PT Gramedia Pus
 
 Sihombing, E. L. (2026). Analisis Novel “Satu Per Tiga” Karya Ryandi Rachman dengan Pendekatan Ekspresif. Jurnal Ilmiah Nusantara (JINU), 3(2), 506–512. [https://ejurnal.kampusakademik.co.id/index.php/jinu/article/view/8774](https://ejurnal.kampusakademik.co.id/index.php/jinu/article/view/8774)
 
-Supriyanto, A., Astuti, C. W., & Munifah, S. (2023). Analisis Struktural Novel Tempat Paling Sunyi Karya Arafat Nu. LEKSIS: Jurnal Pendidikan Bahasa Dan Sastra Indonesia, 3(1). [https://jurnal.stkippgriponorogo.ac.id/index.php/Leksis/article/view/240](https://jurnal.stkippgriponorogo.ac.id/index.php/Leksis/article/view/240)
+Supriyanto, A., Astuti, C. W., & Munifah, S. (2023). Analisis Struktural Novel Tempat Paling Sunyi Karya Arafat Nur. LEKSIS: Jurnal Pendidikan Bahasa Dan Sastra Indonesia, 3(1). [https://jurnal.stkippgriponorogo.ac.id/index.php/Leksis/article/view/240](https://jurnal.stkippgriponorogo.ac.id/index.php/Leksis/article/view/240)
 
 Thene, R. M., Robot, M., & Djokaho, M. P. E. (2025). Analisis Sturktur Alur dalam Novel “Sang Guru” Karya Gerson Poyk. Optimisme: Jurnal Bahasa, Sastra, Dan Budaya, 6(1). [https://ejurnal.undana.ac.id/index.php/optimisme/article/view/22275](https://ejurnal.undana.ac.id/index.php/optimisme/article/view/22275)

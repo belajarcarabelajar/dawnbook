@@ -13,7 +13,7 @@ Target yang jelas membantu kamu dalam beberapa hal:
 
 ## Kerangka Tujuan SMART
 
-Kerangka SMART memastikan tujuan kamu ambisius namun tetap masuk akal. 
+Kerangka SMART memastikan tujuan kamu ambisius, tetapi tetap masuk akal. 
 
 Konsep SMART terdiri dari:
 - **Specific** (Spesifik)
@@ -28,13 +28,13 @@ Contoh: "Saya ingin menabung untuk DP rumah."
 
 ### 2. Terukur (Measurable)
 Kamu harus tahu kapan target tercapai lewat angka yang pasti.
-Contoh: "Saya ingin menabung Rp 150.000.000 untuk DP rumah." 
+Contoh: "Saya ingin menabung Rp150.000.000 untuk DP rumah." 
 Angka ini menjadi tolok ukur kesuksesan.
 
 ### 3. Bisa Dicapai (Achievable)
 Target harus realistis sesuai sumber daya kamu. 
-Jika penghasilan bulanan Rp 5.000.000, menabung Rp 150.000.000 dalam tiga bulan tentu mustahil.
-Contoh rasional: "Menabung Rp 3.000.000 per bulan untuk mencapai Rp 150.000.000." Pastikan porsi ini tidak mengganggu kebutuhan pokok.
+Jika penghasilan bulanan Rp5.000.000, menabung Rp150.000.000 dalam tiga bulan tentu mustahil.
+Contoh rasional: "Menabung Rp3.125.000 per bulan untuk mencapai Rp150.000.000." Pastikan porsi ini tidak mengganggu kebutuhan pokok.
 
 ### 4. Relevan (Relevant)
 Target harus sejalan dengan kebutuhan hidup kamu. Jangan memaksakan diri membeli properti jika kamu lebih nyaman menyewa apartemen.
@@ -42,17 +42,17 @@ Contoh relevan: "Menabung untuk DP rumah karena saya butuh kepastian tempat ting
 
 ### 5. Batas Waktu (Time-bound)
 Berikan tenggat waktu agar kamu tetap konsisten.
-Contoh: "Menabung Rp 150.000.000 untuk DP rumah dalam waktu 4 tahun (sebelum November 2029)."
+Contoh: "Menabung Rp150.000.000 untuk DP rumah dalam waktu 4 tahun (sebelum November 2029)."
 
 **Contoh Target SMART yang Lengkap:**
-"Saya ingin mengumpulkan DP rumah di Jakarta sebesar Rp 150.000.000. Caranya dengan menabung Rp 3.125.000 tiap bulan selama 4 tahun ke depan."
+"Saya ingin mengumpulkan DP rumah di Jakarta sebesar Rp150.000.000. Caranya dengan menabung Rp3.125.000 tiap bulan selama 4 tahun ke depan."
 
 ## Strategi Eksekusi
 
 Punya target saja tidak cukup. Kamu butuh langkah strategis untuk mewujudkannya.
 
 **Pecah Rencana Jadi Langkah Kecil**
-Bagi nominal besar menjadi target bulanan. Angka Rp 3.125.000 per bulan terasa lebih masuk akal dibanding memikirkan total Rp 150.000.000.
+Bagi nominal besar menjadi target bulanan. Angka Rp3.125.000 per bulan terasa lebih masuk akal dibanding memikirkan total Rp150.000.000.
 
 **Susun Anggaran Pengeluaran**
 Cek kembali pos pengeluaran bulanan. Cari anggaran hiburan atau konsumsi yang bisa dialihkan ke pos tabungan.
@@ -100,12 +100,12 @@ Penyesuaian target membuktikan kamu fleksibel dan realistis mengelola risiko hid
 Berikut beberapa contoh nyata cara merancang target SMART.
 
 **1. Dana Darurat**
-"Saya butuh dana darurat Rp 30.000.000. Saya akan menyisihkan Rp 2.500.000 per bulan selama 12 bulan (target selesai November 2026)."
+"Saya butuh dana darurat Rp30.000.000. Saya akan menyisihkan Rp2.500.000 per bulan selama 12 bulan (target selesai November 2026)."
 
 **2. Pendidikan Anak**
-"Saya ingin menyiapkan Rp 200.000.000 untuk uang pangkal kuliah anak 15 tahun lagi. Saya akan investasi rutin Rp 1.000.000 per bulan di instrumen berpotensi imbal hasil 8%."
+"Saya ingin menyiapkan Rp200.000.000 untuk uang pangkal kuliah anak 15 tahun lagi. Saya akan investasi rutin Rp1.000.000 per bulan di instrumen berpotensi imbal hasil 8%."
 
 **3. Liburan ke Luar Negeri**
-"Saya butuh Rp 25.000.000 untuk liburan ke Jepang pada Oktober 2027. Saya akan menabung Rp 1.000.000 tiap bulan mulai dari sekarang selama 25 bulan."
+"Saya butuh Rp25.000.000 untuk liburan ke Jepang pada Oktober 2027. Saya akan menabung Rp1.000.000 tiap bulan mulai dari sekarang selama 25 bulan."
 
 Memulai kebiasaan menabung memang tidak mudah. Lewat perencanaan detail ini, kamu punya rencana yang jelas untuk sampai ke tujuan.

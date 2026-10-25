@@ -2,7 +2,7 @@
 
 ### Mengapa Studi Kasus Itu Penting?
 
-Teori tanpa praktik hanyalah informasi, namun praktik tanpa teori adalah spekulasi. Setelah mempelajari setiap komponen **Planning, Organizing, Actuating, dan Controlling (POAC)**, mari kita lihat bagaimana sistem manajemen ini bekerja di dunia nyata.
+Teori tanpa praktik hanyalah informasi, tetapi praktik tanpa teori adalah spekulasi. Setelah mempelajari setiap komponen **Planning, Organizing, Actuating, dan Controlling (POAC)**, mari kita lihat bagaimana sistem manajemen ini bekerja di dunia nyata.
 
 Salah satu analogi untuk POAC adalah sebuah **orkestra**. *Planning* adalah partitur musiknya, *Organizing* adalah pembagian instrumen dan pemainnya, *Actuating* adalah aba-aba sang konduktor saat musik mulai dimainkan, dan *Controlling* adalah pendengaran tajam konduktor untuk memastikan tidak ada nada yang sumbang.
 
@@ -10,7 +10,7 @@ Dalam bagian ini, kita akan membedah dua perusahaan besar (satu global dan satu 
 
 ## 1. Transformasi Apple Inc. (Era Steve Jobs & Tim Cook)
 
-Apple adalah contoh nyata bagaimana implementasi POAC dijalankan dengan disiplin tinggi namun tetap inovatif. Mari kita bedah bagaimana mereka menggunakan kerangka kerja ini untuk bangkit dari ambang kebangkrutan di tahun 1997 menjadi perusahaan bernilai triliunan dolar.
+Apple adalah contoh nyata bagaimana implementasi POAC dijalankan dengan disiplin tinggi, tetapi tetap inovatif. Mari kita bedah bagaimana mereka menggunakan kerangka kerja ini untuk bangkit dari ambang kebangkrutan di tahun 1997 menjadi perusahaan bernilai triliunan dolar.
 
 ### A. Planning lewat Fokus dan Diferensiasi
 
@@ -18,7 +18,7 @@ Saat Steve Jobs kembali ke Apple pada tahun 1997, langkah pertama yang ia lakuka
 
 - **Visi:** Apple berfokus pada menyederhanakan teknologi rumit agar mudah dipahami pengguna awam.
 - **Strategi:** Memangkas portofolio produk dan berfokus hanya pada empat kategori utama (desktop dan laptop untuk pasar profesional serta konsumen biasa).
-- **Target jangka panjang:** Membangun ekosistem terintegrasi yang mengunci pengguna dalam layanan terpadu seperti iCloud, iPhone, dan Mac.
+- **Target jangka panjang:** Membangun ekosistem terintegrasi yang mengunci pengguna dalam perangkat dan layanan terpadu seperti Mac, iPhone, dan iCloud.
 
 ### B. Organizing lewat Struktur Berbasis Keahlian
 
@@ -64,7 +64,7 @@ Gojek menunjukkan bagaimana fungsi POAC diterapkan secara dinamis dalam lingkung
 
 Gojek menggunakan algoritma canggih untuk melakukan pengawasan.
 
-- **Pemantauan real-time:** Algoritma sistem terus mendeteksi pergerakan driver aktif dan lonjakan permintaan di area tertentu untuk menyesuaikan tarif secara dinamis.
+- **Pemantauan real-time:** Algoritma sistem terus mendeteksi pergerakan mitra pengemudi aktif dan lonjakan permintaan di area tertentu untuk menyesuaikan tarif secara dinamis.
 - **Mekanisme evaluasi otomatis:** Mitra pengemudi yang terus-menerus menerima rating buruk akan mendapatkan peringatan sistem secara otomatis hingga penangguhan akun demi menjaga standar layanan.
 
 ## Implementasi POAC dalam Skala Kecil
@@ -78,7 +78,7 @@ Kamu tidak perlu menjadi CEO Apple untuk menerapkan ini. Bayangkan kamu sedang m
 | **Planning** | Menetapkan target penjualan 100 roti/hari dan menentukan menu unggulan. |
 | **Organizing** | Si A bertugas memproduksi roti, si B mengurus pemasaran media sosial, si C mencatat keuangan. |
 | **Actuating** | Pemilik toko memberikan arahan cara menyapa pelanggan yang ramah dan memberi bonus jika target mingguan tercapai. |
-| **Controlling** | Setiap sore, pemilik mencek sisa stok bahan baku dan mencocokkan jumlah roti yang terjual dengan uang di kasir. |
+| **Controlling** | Setiap sore, pemilik mengecek sisa stok bahan baku dan mencocokkan jumlah roti yang terjual dengan uang di kasir. |
 
 ## Hasil POAC yang Baik vs Buruk
 

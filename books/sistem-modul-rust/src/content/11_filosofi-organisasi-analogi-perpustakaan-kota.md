@@ -10,7 +10,7 @@ Pada proyek berskala kecil, kamu mungkin hanya membutuhkan satu rak buku. Semua 
 
 Ketika koleksi buku bertambah banyak, kamu mulai mengelompokkannya ke dalam beberapa rak berdasarkan kategori fiksi, sejarah, atau sains. Ini setara dengan memisahkan kode ke beberapa file `.rs` yang berbeda.
 
-Pada skala profesional, kamu membutuhkan ruangan-ruangan terpisah, label petunjuk di setiap lorong, dan meja informasi di depan. Pengunjung bisa mencari informasi melalui pustakawan di meja depan tanpa perlu masuk mengacak-ngacak gudang penyimpanan. Struktur inilah yang ingin kita bangun dalam organisasi kode Rust.
+Pada skala profesional, kamu membutuhkan ruangan-ruangan terpisah, label petunjuk di setiap lorong, dan meja informasi di depan. Pengunjung bisa mencari informasi melalui pustakawan di meja depan tanpa perlu masuk mengacak-acak gudang penyimpanan. Struktur inilah yang ingin kita bangun dalam organisasi kode Rust.
 
 ## 1. Menjaga main.rs dan lib.rs Tetap Ramping
 
@@ -60,7 +60,7 @@ src/
 Rust menerapkan pembatasan akses yang ketat secara default. Manfaatkan fitur ini untuk merancang arsitektur yang aman:
 
 * Hindari penggunaan kata kunci `pub` kecuali fungsi atau struct tersebut memang dirancang untuk diekspos ke luar modul.
-* Gunakan `pub(crate)` jika kamu ingin suatu komponen bisa diakses bebas di dalam project kamu sendiri, tetapi tetap tersembunyi dari pengguna luar yang mengimpor library milikmu.
+* Gunakan `pub(crate)` jika kamu ingin suatu komponen bisa diakses bebas di dalam proyek kamu sendiri, tetapi tetap tersembunyi dari pengguna luar yang mengimpor library milikmu.
 
 ```rust
 pub struct PublicUser;      // Terlihat oleh semua orang (publik)
@@ -93,7 +93,7 @@ use crate::shipping::DHLProvider;
 Rust memisahkan pengujian menjadi dua kategori utama agar kode rapi dan terorganisasi:
 
 1. **Unit Tests**: Letakkan langsung di file yang sama dengan kode yang diuji. Tulis di bagian paling bawah di dalam modul `mod tests` dengan penanda atribut `#[cfg(test)]`. Hal ini dilakukan karena unit test di Rust diizinkan mengakses fungsi internal yang bersifat privat, sehingga kamu bisa menguji logika internal dengan mudah tanpa harus mengeksposnya secara publik.
-2. **Integration Tests**: Tempatkan di folder khusus bernama `tests/` pada root proyek (sejajar dengan folder `src`). Folder ini akan diperlakukan sebagai crate terpisah oleh Cargo, sehingga hanya bisa menguji API publik dari library milikmu.
+2. **Integration Tests**: Tempatkan di folder khusus bernama `tests/` pada root proyek (sejajar dengan folder `src`). Setiap file yang langsung ada di folder ini akan dikompilasi sebagai crate terpisah oleh Cargo, sehingga hanya bisa menguji API publik dari library milikmu.
 
 ## Struktur Proyek E-Commerce
 
@@ -136,7 +136,7 @@ pub use crate::products::store::ProductStore;
 
 | Prinsip | Deskripsi |
 | --- | --- |
-| **Separation of Concerns** | `main.rs` menangani eksekusi utama, sedangkan `lib.rs` memuat logika bisnis. |
+| **Separation of Concerns** | `main.rs` menangani eksekusi utama, sedangkan `lib.rs` menjadi pusat koordinasi modul yang memuat logika bisnis. |
 | **Encapsulation** | Jaga visibilitas seketat mungkin, batasi penggunaan modifier `pub`. |
 | **Flat API** | Manfaatkan `pub use` agar pengguna tidak perlu menelusuri struktur folder yang dalam. |
 | **Modular Testing** | Terapkan atribut `#[cfg(test)]` agar kode pengujian tidak membebani ukuran biner produksi. |

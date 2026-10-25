@@ -14,7 +14,7 @@ Motivasi menghubungkan **persepsi** (apa yang kita lihat dan rasakan) dengan **a
 
 Bayangkan tubuh kamu sebagai sebuah mobil:
 
-| Komponen Mobil | Komponen Biologis Otak | Peran dalam Tindakan |
+| Komponen Mobil | Komponen Biologis | Peran dalam Tindakan |
 | :--- | :--- | :--- |
 | **Mesin** | Energi Fisik & Otot | Sumber tenaga untuk bergerak |
 | **Bahan Bakar** | Metabolisme & Glukosa | Penyedia daya seluler |
@@ -39,7 +39,7 @@ Proses dorongan bertindak ini biasanya mengikuti alur tiga tahap:
 Meskipun terlihat abstrak, otak kita sebenarnya melakukan perhitungan kuantitatif dalam setiap pengambilan keputusan. Secara sederhana, dorongan untuk bertindak dapat dirumuskan sebagai berikut:
 
 $$
-V = \frac{R \times p}{1 + D \times t} - C
+V = \frac{R \times p}{1 + k \times D} - C
 $$
 
 Keterangan variabel dalam rumus motivasi biologis:
@@ -48,9 +48,9 @@ Keterangan variabel dalam rumus motivasi biologis:
 | :---: | :--- | :--- |
 | $V$ | **Value** | Nilai total atau kekuatan dorongan untuk bertindak |
 | $R$ | **Reward** | Besarnya imbalan yang diharapkan |
-| $p$ | **Probability** | Peluang atau tingkat kebenaran keberhasilan |
+| $p$ | **Probability** | Peluang atau tingkat kemungkinan keberhasilan |
 | $D$ | **Delay** | Jangka waktu penundaan hingga imbalan diterima |
-| $t$ | **Time** | Durasi waktu yang dibutuhkan |
+| $k$ | **Konstanta impulsivitas** | Seberapa tidak sabar kamu menunggu imbalan |
 | $C$ | **Cost** | Usaha, tingkat kesulitan, atau energi yang harus dikeluarkan |
 
 Jika nilai $V$ positif dan cukup tinggi, otak melepaskan neurotransmiter (terutama dopamin) yang mendorong kamu untuk mengambil tindakan.
@@ -67,7 +67,7 @@ Memahami mekanisme di balik motivasi akan mengubah cara kamu memandang diri send
 
 ## Mengelola Inersia Mental
 
-Dalam dunia fisika dan teknik, kita mengenal konsep **inersia**, yaitu kecenderungan benda diam untuk tetap diam. Untuk menggerakkan benda yang diam, diperlukan energi awal yang lebih besar daripada mempertahankan gerakannya. Hal yang sama berlaku pada otak manusia.
+Dalam dunia fisika dan teknik, kita mengenal konsep **inersia**, yaitu kecenderungan benda diam untuk tetap diam. Menggerakkan benda yang diam biasanya terasa lebih berat daripada mempertahankan gerakannya. Hal yang sama berlaku pada otak manusia.
 
 ### Aturan 2 Menit
 
@@ -82,7 +82,7 @@ Bayangkan kamu menghadapi tugas berat seperti menulis esai atau laporan. Otak ka
 ## Ringkasan Bab Ini
 
 - **Motivasi adalah proses biologis**, berbasis mekanisme saraf dan bukan sekadar keteguhan mental.
-- **Otak berfungsi sebagai mesin prediksi** yang terus menerus menghitung kelayakan suatu tindakan berdasarkan nisbah imbalan dan usaha.
+- **Otak berfungsi sebagai mesin prediksi** yang terus-menerus menghitung kelayakan suatu tindakan berdasarkan nisbah imbalan dan usaha.
 - **Dopamin** adalah molekul utama yang mendorong tindakan.
 - Memahami formulasi motivasi biologis membantu kamu mengubah kebiasaan sendiri untuk mengatasi penundaan pekerjaan.
 

@@ -8,7 +8,7 @@ Utang pada dasarnya adalah kewajiban membayar sejumlah uang kepada pihak lain se
 
 ### 1.1 Utang Produktif
 
-Utang produktif bertujuan untuk menghasilkan uang atau menambah aset bersih di masa depan. Pinjaman jenis ini berpotensi memberikan timbal balik yang lebih tinggi ketimbang bunga yang dibebankan.
+Utang produktif bertujuan untuk menghasilkan uang atau menambah aset bersih di masa depan. Pinjaman jenis ini berpotensi memberikan imbal hasil yang lebih tinggi ketimbang bunga yang dibebankan.
 
 **Ciri-ciri Utama:**
 * Dipakai untuk beli aset yang nilainya bisa naik.
@@ -60,7 +60,7 @@ Ditagih debt collector atau sekadar mikirin saldo minus bisa bikin stres. Beban 
 
 ### 2.4 Pola "Gali Lubang Tutup Lubang"
 
-Bahaya terbesar muncul saat kamu harus cari pinjaman baru buat menambal cicilan bulan ini. Terlebih jika terjebak jerat pinjol ilegal yang menjanjikan kemudahan namun bunganya tinggi.
+Bahaya terbesar muncul saat kamu harus cari pinjaman baru buat menambal cicilan bulan ini. Terlebih jika terjebak jerat pinjol ilegal yang menjanjikan kemudahan, tetapi bunganya tinggi.
 
 ## 3. Strategi Efektif Mengurangi Beban Utang
 
@@ -82,7 +82,7 @@ Terdapat dua pendekatan utama untuk melunasi tumpukan utang.
 
 **Metode Bola Salju (Debt Snowball)**
 Cara ini bagus kalau kamu butuh kemenangan-kemenangan kecil biar tetap semangat.
-Urutkan utang dari nominal paling kecil. Bayar sebatas batas minimum untuk semua tagihan, tapi genjot bayar penuh utang yang sisa nominalnya paling sedikit. Saat satu utang lunas, alihkan anggaran cicilannya ke utang terkecil berikutnya. Terus ulangi.
+Urutkan utang dari nominal paling kecil. Bayar sebatas minimum untuk semua tagihan, tapi genjot bayar penuh utang yang sisa nominalnya paling sedikit. Saat satu utang lunas, alihkan anggaran cicilannya ke utang terkecil berikutnya. Terus ulangi.
 
 **Metode Longsoran (Debt Avalanche)**
 Fokus cara ini adalah menekan kerugian dari bunga yang membengkak.
@@ -120,7 +120,7 @@ Manajemen utang bertumpu pada rutinitas dan pengendalian diri.
 
 * **Pegang Kendali Anggaran:** Biasakan membuat pos-pos pengeluaran setiap awal bulan. Sisihkan langsung persentase tertentu buat melunasi cicilan.
 * **Jangan Cuma Bayar Minimum:** Kalau ada rezeki nomplok, setorkan buat menekan jumlah utang pokok. Bayar minimum cuma bikin senang pihak bank.
-* **Ukur Diri Sebelum Mengkredit:** Sebelum apply cicilan baru, tanya diri sendiri: Mampukah saya bayar bulanannya tanpa mengorbankan porsi beras dan token listrik?
+* **Ukur Diri Sebelum Mengambil Kredit:** Sebelum apply cicilan baru, tanya diri sendiri: Mampukah saya bayar bulanannya tanpa mengorbankan porsi beras dan token listrik?
 * **Terus Melek Finansial:** Ilmu keuangan pribadi itu akan selalu berkembang. Jangan malas mencari referensi soal cara mengelola dompet.
 
 Punya utang itu wajar dan bukan aib. Cara kamu menyikapinya yang membedakan apakah finansialmu aman atau bermasalah. Dikelola dengan benar, utang malah bisa mempercepat pencapaian aset finansialmu.

@@ -1,8 +1,8 @@
 ## Pendekatan Kognitif
 
-Pendekatan kognitif dalam kepribadian menyoroti bagaimana proses berpikir, interpretasi, dan konstruksi pribadi memengaruhi cara individu memahami dunia. Pengaruh yang sama berlaku pada cara ia bertindak di dalamnya. Alih-alih melihat kepribadian sebagai kumpulan sifat atau hasil pengkondisian, pendekatan ini menekankan peran aktif pikiran dalam membentuk realitas subjektif seseorang beserta kepribadiannya. Manusia dipandang layaknya seorang ilmuwan yang terus-menerus menguji dan merevisi berbagai hipotesis tentang dunia demi merancang prediksi atas kejadian di masa depan.
+Pendekatan kognitif dalam kepribadian menyoroti bagaimana proses berpikir, interpretasi, dan konstruksi pribadi memengaruhi cara individu memahami dunia. Pengaruh yang sama berlaku pada cara ia bertindak di dalamnya. Alih-alih melihat kepribadian sebagai kumpulan sifat atau hasil pengondisian, pendekatan ini menekankan peran aktif pikiran dalam membentuk realitas subjektif seseorang beserta kepribadiannya. Manusia dipandang layaknya seorang ilmuwan yang terus-menerus menguji dan merevisi berbagai hipotesis tentang dunia demi merancang prediksi atas kejadian di masa depan.
 
-Pendekatan ini berlawanan arus dengan behaviorisme yang terpaku pada mekanisme stimulus-respons, maupun psikodinamika yang mengutamakan dorongan alam bawah sadar. Dalam psikologi kognitif, tingkah laku seseorang banyak diarahkan oleh persepsi serta pemahamannya atas kondisi lingkungan sekitar demi mencapai target belajarnya.
+Pendekatan ini berlawanan arus, baik dengan behaviorisme yang terpaku pada mekanisme stimulus-respons maupun dengan psikodinamika yang mengutamakan dorongan alam bawah sadar. Dalam psikologi kognitif, tingkah laku seseorang banyak diarahkan oleh persepsi serta pemahamannya atas kondisi lingkungan sekitar demi mencapai tujuannya.
 
 ### Teori Konstruksi Personal George Kelly
 
@@ -11,7 +11,7 @@ George Kelly (1905–1967) adalah seorang psikolog Amerika yang merumuskan Perso
 **Konsep Utama:**
 
 1. **Manusia sebagai Ilmuwan:** Setiap individu secara sadar dan aktif berusaha membongkar pola dari rangkaian kejadian di hidup mereka. Bukannya membiarkan informasi lewat begitu saja, setiap orang selalu sibuk membangun sekaligus merombak ulang teori mengenai aturan main dunia di sekelilingnya.
-2. **Personal Constructs:** Rangkaian skema interpretatif yang dipakai untuk memilah dan menafsirkan pengalaman sehari-hari. Sebuah konstruk berwujud nilai dikotomis, misalnya "bijak vs ceroboh" atau "kooperatif vs egois". Tidak mungkin seseorang menganut nilai yang saling membantah di dalam satu bingkai konstruksi yang sama. Bentuk akhir dari setiap konstruk ini selalu unik karena dibentuk dari pengalaman hidup perorangan.
+2. **Personal Constructs:** Rangkaian skema interpretatif yang dipakai untuk memilah dan menafsirkan pengalaman sehari-hari. Sebuah konstruk berwujud nilai dikotomis, misalnya "bijak vs ceroboh" atau "kooperatif vs egois". Seseorang biasanya tidak menganut nilai yang saling membantah di dalam satu bingkai konstruksi yang sama. Bentuk akhir dari setiap konstruk ini selalu unik karena dibentuk dari pengalaman hidup perorangan.
 3. **Constructive Alternativism:** Keyakinan dasar bahwa manusia tidak pernah terikat sepenuhnya pada konstruksinya sendiri. Selalu ada keleluasaan untuk menimbang, menyingkirkan, atau beralih ke konstruksi lain. Realitas ini menunjukkan bahwa batas-batas sistem pemaknaan kita akan terus melebar seiring datangnya benturan fakta-fakta baru yang menggoyahkan asumsi lama.
 
 **Bagaimana Konstruk Berfungsi:**
@@ -25,7 +25,7 @@ George Kelly (1905–1967) adalah seorang psikolog Amerika yang merumuskan Perso
 
 **Pemanfaatan Praktis:**
 
-Pemikiran Kelly ini punya wujud terapan langsung di ruang praktik konseling. Seorang konselor akan memandu klien membongkar *personal constructs* merugikan yang menghalangi kemajuan hidup mereka. Penilaian spesifik seperti Repertory Grid Test (Rep Test) diciptakan untuk memetakan bagaimana klien memproyeksikan pandangan mereka terhadap figur-figur penting di sekelilingnya.
+Pemikiran Kelly ini punya wujud terapan langsung di ruang praktik konseling. Seorang konselor akan memandu klien membongkar *personal constructs* merugikan yang menghalangi kemajuan hidup mereka. Penilaian spesifik seperti Role Construct Repertory Test (Rep Test) diciptakan untuk memetakan bagaimana klien memproyeksikan pandangan mereka terhadap figur-figur penting di sekelilingnya.
 
 ### Cognitive-Affective Personality System (CAPS)
 
@@ -37,18 +37,18 @@ Mischel sempat melayangkan kritik pada gagasan *trait theory* (teori sifat) klas
 
 **Konsep Utama:**
 
-1. **Sistem Stabil Unit Kognitif-Afektif:** Tubuh kepribadian diibaratkan sebagai jaringan hidup dari gabungan aneka unit kognitif-afektif. Aspek-aspek fisiologis yang membaur dengan dimensi psikologis ini memastikan terjadinya relasi yang ajek antara manusia dengan lingkungannya.
+1. **Sistem Stabil Unit Kognitif-Afektif:** Tubuh kepribadian diibaratkan sebagai jaringan hidup dari gabungan aneka unit kognitif-afektif. Aspek-aspek fisiologis yang membaur dengan dimensi psikologis ini memungkinkan terjadinya relasi yang ajek antara manusia dengan lingkungannya.
 2. **Konteks Spesifik:** Gonta-ganti reaksi pada berbagai ruang situasi sama sekali bukan bentuk kekacauan. Gerakan bervariasi itu merujuk pada rentetan pola reaksi tetap milik masing-masing orang.
 3. **Cognitive-Affective Units (CAU):** Proses manusia dalam mengolah informasi dari dunia luar ditata oleh lima cabang CAU berikut:
   - **Encoding Strategies:** Format dan filter kognitif sewaktu menjabarkan citra diri, figur lain, beserta pemicu eksternal yang lalu lalang.
   - **Competencies and Self-Regulatory Strategies:** Melibatkan volume kapasitas intelijensi, skema citra personal, parameter pencapaian personal, dan rancangan sistem mitigasi atas perbuatannya sendiri.
-  - **Expectancies and Beliefs:** Kalkulasi mengenai besaran peluang imbalan atau hukuman pasca dikeluarkannya suatu tindakan sosial.
+  - **Expectancies and Beliefs:** Kalkulasi mengenai besaran peluang imbalan atau hukuman setelah dilakukannya suatu tindakan sosial.
   - **Goals and Values:** Rumpun nilai utama dan garis akhir dari sasaran hidup yang mengikat keputusan-keputusan kecil agar tidak tercerai-berai.
   - **Affective Responses:** Reaksi jasmani yang menyertai perasaan atau emosi. Elemen afeksi ini bekerja saling tindih bersama target sasaran maupun nilai-nilai pedoman untuk mengeksekusi suatu perilaku.
 
 **"If...Then..." Signatures of Personality:**
 
-Dalam CAPS, pola tindakan yang ajek dari waktu ke waktu terwujud dalam formula: "Jika dihadapkan pada A, jatuhkan respons X; namun jika diubah menjadi B, pindah ke mode Y". Perilaku yang tampak gampang sekali berganti, dan perpindahan antar mode ini saling direkatkan oleh pola yang disebut *personality signature*. Misalnya, ada figur yang otomatis menaikkan intonasi suara saat ide kerjanya dikritik, tetapi seketika menjadi figur yang sabar dan empati tatkala menangani keluarganya.
+Dalam CAPS, pola tindakan yang ajek dari waktu ke waktu terwujud dalam formula: "Jika dihadapkan pada A, jatuhkan respons X; namun jika diubah menjadi B, pindah ke mode Y". Perilaku tampak gampang sekali berganti, tetapi perpindahan antarmode ini direkatkan oleh pola yang disebut *personality signature*. Misalnya, ada figur yang otomatis menaikkan intonasi suara saat ide kerjanya dikritik, tetapi seketika menjadi figur yang sabar dan berempati tatkala menangani keluarganya.
 
 **Implikasi:**
 
@@ -56,7 +56,7 @@ Teori CAPS menjahit dua kutub yang terkesan saling menolak: kestabilan kepribadi
 
 **Studi Kasus:**
 
-Bayangkan seorang manajer lapangan yang vokal, menekan tenggat waktu secara keras, serta mendominasi perdebatan dengan klien korporat. Akan tetapi, begitu kakinya menginjak halaman rumah menjemput anak sekolah, ritmenya melambat total, menuruti semua usulan rekreasi dari keluarganya tanpa adu argumen. Dari pandangan CAPS, perbedaan tajam ini bukanlah inkonsistensi. Pertemuan antara ambisi profesional (*goals*) memenangkan tender berbenturan keras dengan antisipasi perihal perdamaian domestik (*expectancies*). Dua situasi yang berbeda itu menghasilkan tanda tangan psikologis: "Jika berada di atas podium otoritas, tekan pedal; jika di dalam wilayah pengasuhan, rem semuanya."
+Bayangkan seorang manajer lapangan yang vokal, menekan tenggat waktu secara keras, serta mendominasi perdebatan dengan klien korporat. Akan tetapi, begitu kakinya menginjak halaman rumah sepulang menjemput anak sekolah, ritmenya melambat total, menuruti semua usulan rekreasi dari keluarganya tanpa adu argumen. Dari pandangan CAPS, perbedaan tajam ini bukanlah inkonsistensi. Situasi kerja mengaktifkan tujuan profesional (*goals*) untuk memenangkan tender, sedangkan situasi rumah mengaktifkan harapan (*expectancies*) akan keharmonisan keluarga. Dua situasi yang berbeda itu menghasilkan tanda tangan psikologis: "Jika berada di atas podium otoritas, tekan pedal; jika di dalam wilayah pengasuhan, rem semuanya."
 
 ### Perbandingan Kelly dan Mischel
 
@@ -71,4 +71,4 @@ Eksplorasi di ranah kognitif semacam ini menelurkan sederet penerapan teknis:
 
 - **Cognitive Behavioral Therapy (CBT):** Gagasan kognitif ini menjadi pijakan bagi para praktisi dalam menelusuri pikiran otomatis. Kerangka ini menjelaskan bagaimana interpretasi keliru bisa merongrong suasana emosional pasien kecemasan kronis.
 - **Membongkar Bias Kognitif:** Paradigma kognitif menjelaskan mengapa lima saksi kecelakaan dari titik pantau yang sama berpeluang memberikan lima narasi yang jauh berbeda tanpa satu pun berniat mengarang.
-- **Lingkungan Akademik dan Manajerial:** Sudut pandang ini relevan diterapkan sewaktu merancang buku panduan budaya perusahaan atau taktik edukasi tenaga pendidik. Fakta teknis mengenai sebuah peristiwa seringkali tidak lagi sepenting interpretasi yang terbentuk di kepala para pendengarnya.
+- **Lingkungan Akademik dan Manajerial:** Sudut pandang ini relevan diterapkan sewaktu merancang buku panduan budaya perusahaan atau taktik edukasi tenaga pendidik. Fakta teknis mengenai sebuah peristiwa sering kali tidak lagi sepenting interpretasi yang terbentuk di kepala para pendengarnya.

@@ -10,8 +10,8 @@ Banyak orang mengandalkan "firasat" atau *gut feeling*. Meskipun intuisi terkada
 
 **Mengapa Matriks Lebih Unggul dari Intuisi?**
 
-- **Menghilangkan Bias Kognitif:** Otak kita secara alami cenderung mengingat informasi yang paling baru atau yang paling membekas secara emosional (bias ketersediaan). Dengan matriks, kamu dipaksa untuk melihat setiap data secara objektif.
-- **Give Structure to Chaos:** Saat pikiran dipenuhi oleh berbagai variabel seperti biaya, kualitas, waktu, dan risiko, kamu akan lebih mudah terkena *decision fatigue* (kelelahan mengambil keputusan). Struktur baris dan kolom membantu menguraikan variabel tersebut secara teratur.
+- **Mengurangi Bias Kognitif:** Otak kita secara alami cenderung mengingat informasi yang paling baru atau yang paling membekas secara emosional (bias ketersediaan). Dengan matriks, kamu terdorong untuk melihat setiap data secara lebih objektif.
+- **Memberi Struktur pada Kekacauan:** Saat pikiran dipenuhi oleh berbagai variabel seperti biaya, kualitas, waktu, dan risiko, kamu akan lebih mudah terkena *decision fatigue* (kelelahan mengambil keputusan). Struktur baris dan kolom membantu menguraikan variabel tersebut secara teratur.
 
 > **Analogi Kompas vs. Perasaan:** Mengandalkan intuisi dalam bisnis seperti mencoba berlayar di tengah kabut tebal hanya dengan mengandalkan insting arah. Matriks keputusan bertindak sebagai **kompas dan peta** yang menunjukkan arah berdasarkan data konkret, sehingga kamu tidak lagi meraba-raba arah di tengah ketidakpastian.
 
@@ -22,26 +22,26 @@ Di dalam tim atau organisasi, keputusan jarang sekali diambil secara sepihak. Ka
 **Keunggulan dalam Transparansi:**
 
 - **Jejak Keputusan yang Jelas:** Matriks menyediakan bukti visual tentang bagaimana sebuah kesimpulan dicapai. Jika di kemudian hari ada yang mempertanyakan keputusan tersebut, kamu cukup menunjukkan lembar matriks yang sudah diisi.
-- **Membangun Kesepakatan Tim:** Saat setiap anggota tim ikut menentukan bobot kriteria, mereka merasa dilibatkan dalam keputusan tersebut. Hal ini mengalihkan perdebatan tanpa arah menjadi diskusi yang fokus pada data.
+- **Membangun Kesepakatan Tim:** Saat setiap anggota tim ikut menentukan bobot kriteria, mereka merasa dilibatkan dalam keputusan tersebut. Hal ini mengubah perdebatan tanpa arah menjadi diskusi yang fokus pada data.
 
 Banyak orang merasa kesal ketika keputusan penting diambil secara mendadak tanpa alasan yang jelas. Matriks keputusan meminimalkan rasa frustrasi ini dengan membuat alur berpikir menjadi transparan (*visible thinking*).
 
 ### 3. Efisiensi dalam Menangani Banyak Variabel
 
-Daya tarik utama dari matriks keputusan adalah kemampuannya melakukan analisis terhadap banyak variabel secara bersamaan (*multitasking*). Secara matematis, proses ini bertujuan mengoptimalkan fungsi dari beberapa variabel sekaligus:
+Daya tarik utama dari matriks keputusan adalah kemampuannya melakukan analisis terhadap banyak variabel secara bersamaan. Secara matematis, proses ini bertujuan mengoptimalkan fungsi dari beberapa variabel sekaligus:
 
 $$
 \text{Total Skor} = \sum_{i=1}^{n} (W_i \times S_i)
 $$
 
-Di mana:
+Keterangan:
 
 - $W_i$ adalah bobot kepentingan kriteria ke-$i$.
 - $S_i$ adalah skor alternatif pada kriteria ke-$i$.
 
 **Kemampuan Menangani Kompleksitas:**
 
-- **Perbandingan yang Berbeda (*Apple to Orange*):** Bagaimana kamu membandingkan "Harga" (dalam Rupiah) dengan "Kenyamanan" (skala subjektif)? Matriks mempermudah proses normalisasi agar berbagai variabel berbeda tersebut dapat diukur dalam satu skor total yang seragam.
+- **Perbandingan yang Berbeda (*Apples to Oranges*):** Bagaimana kamu membandingkan "Harga" (dalam Rupiah) dengan "Kenyamanan" (skala subjektif)? Matriks mempermudah proses normalisasi agar berbagai variabel berbeda tersebut dapat diukur dalam satu skor total yang seragam.
 - **Skalabilitas:** Baik kamu membandingkan 2 pilihan atau 20 pilihan dengan belasan kriteria, struktur analisisnya tetap konsisten dan rapi.
 
 ### 4. Efisiensi Waktu dan Sumber Daya

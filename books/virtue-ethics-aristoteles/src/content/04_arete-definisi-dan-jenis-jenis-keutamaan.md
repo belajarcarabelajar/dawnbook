@@ -14,13 +14,13 @@ Arete berarti menjadi versi terbaik dari sesuatu sesuai dengan fungsinya (*ergon
 
 Bagi manusia, Arete berarti **keunggulan dalam menggunakan akal budi (rasio)** untuk menjalani hidup. Jika fungsi unik manusia adalah berpikir dan bertindak secara rasional, maka Arete adalah kualitas yang memungkinkan manusia melakukan hal tersebut dengan baik.
 
-## 2\. Keutamaan Intelektual vs. Moral
+## 2\. Kebajikan Intelektual vs. Moral
 
 Aristoteles membagi Arete menjadi dua kategori besar berdasarkan dua bagian jiwa manusia: bagian yang berpikir (intelektual) dan bagian yang merasakan atau berkeinginan (karakter/moral).
 
 ### A. Kebajikan Intelektual (Dianoetic Virtues)
 
-Kebajikan ini berkaitan dengan kemampuan berpikir dan pencarian kebenaran. Kebajikan intelektual diperoleh terutama melalui **pengajaran, studi, dan pengalaman waktu**.
+Kebajikan ini berkaitan dengan kemampuan berpikir dan pencarian kebenaran. Kebajikan intelektual diperoleh terutama melalui **pengajaran, studi, serta pengalaman dan waktu**.
 
 Beberapa contoh utama kebajikan intelektual:
 
@@ -30,11 +30,11 @@ Beberapa contoh utama kebajikan intelektual:
 
 Pernahkah kamu bertemu seseorang yang sangat pintar secara akademis tetapi sering mengambil keputusan hidup yang buruk? Hal ini menunjukkan bahwa ia mungkin memiliki Sophia yang tinggi, namun rendah dalam Phronesis.
 
-### B. Kebajikan Moral (Ethicai Virtues)
+### B. Kebajikan Moral (Ethical Virtues)
 
 Kebajikan ini berkaitan dengan karakter, perasaan, dan tindakan kita sehari-hari dalam berinteraksi dengan orang lain. Berbeda dengan kebajikan intelektual, kebajikan moral tidak bisa dipelajari hanya dari buku; ia diperoleh melalui **habituasi (pembiasaan)**.
 
-Contoh utama kebajikan moral (Keutamaan Kardinal):
+Contoh utama kebajikan moral:
 
 1. **Keberanian (Courage):** Kemampuan mengelola rasa takut dan kepercayaan diri di tengah bahaya.
 2. **Pengendalian Diri (Temperance):** Kemampuan mengelola keinginan jasmani dan nafsu.
@@ -58,7 +58,7 @@ Bagaimana kita menerapkan konsep Arete dalam kehidupan sehari-hari? Mari kita li
 
 Seorang pengembang yang memiliki Arete akan menunjukkan dua jenis keunggulan:
 
-1. **Keunggulan Intelektual (Techne & Sophia):** Ia menulis kode yang bersih, efisien, bebas bug, dan mampu memecahkan masalah logika yang rumit. Ia terus belajar teknologi terbaru.
+1. **Keunggulan Intelektual (Techne):** Ia menulis kode yang bersih, efisien, bebas bug, dan mampu memecahkan masalah logika yang rumit. Ia terus belajar teknologi terbaru.
 2. **Keunggulan Moral (Karakter):** Ia jujur ketika membuat kesalahan dalam kode, ia berani menyuarakan kekhawatiran tentang privasi data pengguna meskipun ditekan oleh atasan (Keberanian), dan ia membantu rekan tim yang kesulitan (Kemurahan Hati).
 
 **Pesan Kunci:** Seseorang yang hanya mahir coding (intelektual) tapi manipulatif (moral) bukanlah manusia yang unggul secara utuh menurut perspektif Arete.
@@ -67,7 +67,7 @@ Seorang pengembang yang memiliki Arete akan menunjukkan dua jenis keunggulan:
 
 | Jenis Kebajikan | Fokus Utama | Cara Memperoleh | Contoh |
 | --- | --- | --- | --- |
-| **Intelektual** | Kebenaran & Rasio | Pengajaran & Studi | Matematika, Pengetahuan, *Phronesis* |
+| **Intelektual** | Kebenaran & Rasio | Pengajaran & Studi | *Sophia*, *Techne*, *Phronesis* |
 | **Moral** | Tindakan & Karakter | Latihan & Kebiasaan | Keberanian, Kejujuran, Keadilan |
 
 Will Durant memadatkan pembagian ini menjadi satu gagasan saat menulis tentang Aristoteles: kita adalah apa yang kita kerjakan berulang kali, sehingga keunggulan merupakan kebiasaan, bukan tindakan sesaat. Kalimat dari *The Story of Philosophy* (1926) itu kerap dikutip seolah milik Aristoteles sendiri.

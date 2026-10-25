@@ -6,9 +6,9 @@ Siklus hidrologi melingkupi sirkulasi air yang berlangsung secara konstan dan te
 
 ### 1. Sistem Tertutup dan Dinamis
 
-Secara global, siklus hidrologi merupakan sebuah sistem tertutup. Artinya, jumlah total massa air di Bumi tidak bertambah maupun berkurang secara nyata dari waktu ke waktu. Air hanya berpindah tempat antar-reservoir dan mengalami perubahan fase fisik.
+Secara global, siklus hidrologi merupakan sebuah sistem tertutup. Artinya, jumlah total massa air di Bumi tidak bertambah maupun berkurang secara nyata dari waktu ke waktu. Air hanya berpindah tempat antarreservoir dan mengalami perubahan fase fisik.
 
-> **Wawasan Penting:** Air yang kita minum hari ini merupakan molekul air yang sama dengan yang pernah mengalir di Bumi jutaan tahun lalu. Bumi tidak menciptakan air baru, melainkan terus memutar sirkulasi molekul air yang sudah ada secara berkelanjutan.
+> **Wawasan Penting:** Air yang kita minum hari ini merupakan molekul air yang sama dengan yang pernah mengalir di Bumi jutaan tahun lalu. Bumi hampir tidak menciptakan air baru, melainkan terus memutar sirkulasi molekul air yang sudah ada secara berkelanjutan.
 
 #### Penggerak Utama (*The Engines*)
 
@@ -39,7 +39,7 @@ Dalam skala luas, proses penguapan dari tanah/perairan (evaporasi) dan penguapan
 
 #### C. Presipitasi (Curah Hujan dan Salju)
 
-Presipitasi terjadi ketika uap air di atmosfer mendingin, berkondensasi, dan jatuh kembali ke permukaan Bumi akibat dorongan gaya gravitasi. Presipitasi dapat berwujud hujan air, salju, maupun es batu (*hail*).
+Presipitasi terjadi ketika uap air di atmosfer mendingin, berkondensasi, dan jatuh kembali ke permukaan Bumi akibat dorongan gaya gravitasi. Presipitasi dapat berwujud hujan air, salju, maupun hujan es (*hail*).
 
 - **Skala Waktu Tinggal:** Secara rata-rata, sebuah molekul air menghabiskan waktu tinggal (*residence time*) sekitar 9 hari di atmosfer sebelum kembali jatuh ke permukaan Bumi sebagai presipitasi.
 
@@ -98,7 +98,7 @@ Jika seluruh uap air yang melayang di atmosfer mendadak mengembun dan jatuh seba
 Studi mengenai siklus hidrologi global memberikan fondasi penting bagi berbagai sektor kehidupan masyarakat:
 
 1. **Ketahanan Pangan:** Sektor pertanian bergantung pada dinamika antara evapotranspirasi dan presipitasi untuk merencanakan kalender tanam serta mengelola irigasi.
-2. **Manajemen Bencana Alam:** Perubahan pada siklus hidrologi akibat peningkatan suhu global mempercepat laju evaporasi, yang dapat memicu kekeringan di satu wilayah sekaligus banjir bandang di wilayah lain.
+2. **Manajemen Bencana Alam:** Peningkatan suhu global mempercepat laju evaporasi sehingga mengubah siklus hidrologi, yang dapat memicu kekeringan di satu wilayah sekaligus banjir bandang di wilayah lain.
 3. **Pemanfaatan Energi Terbarukan:** Pembangkit Listrik Tenaga Air (PLTA) mengandalkan kestabilan pola presipitasi dan debit aliran sungai secara berkelanjutan.
 
 #### Hutan yang Mengatur Hujan
@@ -111,7 +111,7 @@ Siklus hidrologi global merupakan interaksi yang terus berlangsung antara massa 
 
 > **Poin Utama Bab Ini:**
 > 
-> - Siklus hidrologi merupakan sistem tertutup dengan massa air yang mengekalkan hukum kesetimbangan.
+> - Siklus hidrologi merupakan sistem tertutup dengan massa air yang mengikuti hukum kekekalan massa.
 > - Radiasi matahari bertindak sebagai penyedia energi utama, sedangkan gravitasi mengarahkan pergerakan massa air.
 > - Evapotranspirasi memindahkan air ke atmosfer; presipitasi mengembalikan air ke permukaan.
 > - Kesetimbangan air global dijaga melalui pertukaran volume air secara berkelanjutan antara daratan, atmosfer, dan samudra.

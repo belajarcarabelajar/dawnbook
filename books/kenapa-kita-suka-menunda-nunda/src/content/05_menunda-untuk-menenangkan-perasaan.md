@@ -6,7 +6,7 @@ Kita semua pernah membuka kulkas padahal tidak lapar, hanya karena ada email pen
 
 Penundaan sering dianggap urusan jadwal: kurang disiplin, kurang rapi mengatur waktu. Tinjauan teoretis Sirois dan Pychyl (2013) menawarkan sudut lain. Mereka memandang penundaan sebagai kegagalan regulasi diri yang digerakkan oleh perbaikan *mood* jangka pendek. Saat sebuah tugas mengundang rasa tidak enak, kita mengutamakan merasa lebih baik sekarang, dan biayanya ditanggung **diri masa depan**. Perlu dicatat, makalah ini tinjauan teoretis, bukan studi empiris, jadi ia menyodorkan kerangka berpikir, bukan angka.
 
-Kerangka yang sama menjadi benang merah buku suntingan Sirois dan Pychyl (2016), *Procrastination, Health, and Well-Being*. Buku itu memandang penundaan sebagai kegagalan mengatur keadaan emosi, bukan terutama soal manajemen waktu, dan membahas kaitannya dengan kesehatan mental dan fisik. Artinya, kalender yang rapi dan aplikasi pengingat sering tidak menolong. Yang mengganggu bukan jadwalnya, melainkan perasaan saat kamu membuka tugasnya.
+Kerangka yang sama menjadi benang merah buku suntingan Sirois dan Pychyl (2016), *Procrastination, Health, and Well-Being*. Buku itu memandang penundaan sebagai kegagalan mengatur keadaan emosi, bukan terutama soal manajemen waktu, dan membahas kaitannya dengan kesehatan mental dan fisik. Artinya, kalender yang rapi dan aplikasi pengingat saja sering belum cukup. Yang mengganggu bukan jadwalnya, melainkan perasaan saat kamu membuka tugasnya.
 
 ### Siklus menghindar yang terus berulang
 
@@ -42,9 +42,9 @@ Tabel berikut hanya ilustrasi buatan penulis untuk memperlihatkan bagaimana ling
 
 ### Perasaan tidak enak bisa dilatih
 
-Kabar baiknya datang dari Eckert dan rekan (2016), yang melaporkan tiga studi. Pada studi pertama (lintas-bagian), keterampilan regulasi emosi berkaitan dengan penundaan, dengan kemampuan menoleransi emosi aversif sebagai penengah. Studi kedua (*cross-lagged*) menunjukkan bahwa kemampuan mengubah emosi aversif mengurangi penundaan berikutnya, sedangkan penundaan juga memengaruhi kemampuan menoleransi emosi aversif berikutnya. Jadi arah pengaruhnya tampak berputar, selaras dengan lingkaran tadi.
+Kabar baiknya datang dari Eckert dan rekan (2016), yang melaporkan tiga studi. Pada studi pertama (potong lintang), keterampilan regulasi emosi berkaitan dengan penundaan, dengan kemampuan menoleransi emosi aversif sebagai penengah. Studi kedua (*cross-lagged*) menunjukkan bahwa kemampuan mengubah emosi aversif mengurangi penundaan berikutnya, sedangkan penundaan juga memengaruhi kemampuan menoleransi emosi aversif berikutnya. Jadi arah pengaruhnya tampak berputar, selaras dengan lingkaran tadi.
 
-Studi ketiga berupa uji acak terkontrol (RCT) dua lengan: pelatihan sistematis keterampilan *menoleransi* dan *mengubah* emosi aversif mengurangi penundaan. Abstrak studi ini tidak menyebut ukuran sampel maupun ukuran efek, jadi jangan membayangkan hasilnya lebih besar atau lebih kecil dari yang sebenarnya. Pesan pokoknya cukup jelas: bila yang bermasalah adalah cara kita menghadapi perasaan, melatih cara itu ikut menolong.
+Studi ketiga berupa uji acak terkontrol (RCT) dua lengan: pelatihan sistematis keterampilan *menoleransi* dan *mengubah* emosi aversif mengurangi penundaan. Abstrak studi ini tidak menyebut ukuran sampel maupun ukuran efek, jadi jangan membayangkan hasilnya lebih besar atau lebih kecil daripada yang sebenarnya. Pesan pokoknya cukup jelas: bila yang bermasalah adalah cara kita menghadapi perasaan, melatih cara itu ikut menolong.
 
 ### Saat stres menumpuk
 

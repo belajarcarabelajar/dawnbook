@@ -1,6 +1,6 @@
 ## Referensi
 
-Daftar berikut menyajikan buku teks klasik dan artikel jurnal terakreditasi yang menjadi landasan pembahasan fungsi manajemen POAC. Literatur ilmiah ini memberi pijakan teoritis serta praktis bagi Planning, Organizing, Actuating, dan Controlling. Seluruh rujukan disusun berdasarkan urutan abjad dengan mengikuti pedoman penulisan APA Style Edisi Ketujuh.
+Daftar berikut menyajikan buku teks klasik dan artikel jurnal terakreditasi yang menjadi landasan pembahasan fungsi manajemen POAC. Literatur ilmiah ini memberi pijakan teoretis serta praktis bagi Planning, Organizing, Actuating, dan Controlling. Seluruh rujukan disusun berdasarkan urutan abjad dengan mengikuti pedoman penulisan APA Style Edisi Ketujuh.
 
 Amalia, G. A. F., Rahma, F. A. N., Kuswarian, T. C., & Kusumaningrum, H. (2025). POAC dalam transformasi manajemen sekolah: Dari teori ke praktik. *Harmoni Pendidikan: Jurnal Ilmu Pendidikan*, *2*(1), 133-147. [https://doi.org/10.62383/hardik.v2i1.1024](https://doi.org/10.62383/hardik.v2i1.1024)
 
@@ -14,7 +14,7 @@ Faiz, M., Suciamy, R., Zaskia, S., & Kusumaningrum, H. (2024). Implementasi POAC
 
 Fayol, H. (1949). *General and industrial management* (C. Storrs, Trans.). Sir Isaac Pitman & Sons. (Karya asli diterbitkan tahun 1916) [https://openlibrary.org/books/OL48601498M](https://openlibrary.org/books/OL48601498M)
 
-Hasibuan, M. S. P. (2016). *Manajemen: Dasar, pengertian, dan masalah* (Edisi revisi). Bumi Aksara. [https://elibrary.utnd.ac.id/index.php?p=show_detail&id=5300](https://elibrary.utnd.ac.id/index.php?p=show_detail&id=5300)
+Hasibuan, M. S. P. (2016). *Manajemen: Dasar, pengertian, dan masalah* (edisi revisi). Bumi Aksara. [https://elibrary.utnd.ac.id/index.php?p=show_detail&id=5300](https://elibrary.utnd.ac.id/index.php?p=show_detail&id=5300)
 
 Hutabarat, M. Y., Elvida, E., Muharif, R., & Agustiar, A. (2025). Analysis of the influence of management functions POAC in improving the performance of PT Socfindo. *Serambi Journal of Agricultural Technology*, *7*(1), 58-65. [https://doi.org/10.32672/sjat.v7i1.9320](https://doi.org/10.32672/sjat.v7i1.9320)
 

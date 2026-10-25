@@ -6,7 +6,7 @@ Kalau kamu pernah mengalami hal seperti ini, kamu tidak sendirian. Dan kalau kam
 
 ### Paradoks yang aneh
 
-Kita hidup di masa dengan akses informasi paling melimpah sepanjang sejarah manusia. Jawaban dari hampir semua pertanyaan ada dalam genggaman, tinggal ketik beberapa kata. Ensiklopedia, jurnal, arsip berita, semuanya bisa dibuka gratis dari kasur. Secara teori, ini seharusnya jadi zaman paling cerdas.
+Kita hidup di masa dengan akses informasi paling melimpah sepanjang sejarah manusia. Jawaban dari hampir semua pertanyaan ada dalam genggaman, tinggal ketik beberapa kata. Ensiklopedia, jurnal, arsip berita, banyak di antaranya bisa dibuka gratis dari kasur. Secara teori, ini seharusnya jadi zaman paling cerdas.
 
 Tapi kenyataannya, justru di zaman inilah kabar bohong menyebar dengan mudah. Semakin banyak informasi tersedia, semakin gampang pula kita tersesat di dalamnya. Inilah paradoks yang jadi titik awal buku ini: **melimpahnya akses tidak otomatis membuat kita lebih akurat**. Kadang malah sebaliknya.
 
@@ -59,9 +59,9 @@ Tujuannya satu: membangun **ketahanan informasi**. Bukan supaya kamu curiga pada
 ## Ringkasan
 
 - Kabar bohong menyebar lebih cepat, lebih jauh, dan lebih dalam dibanding kabar benar, dan yang menyebarkan sering kali manusia biasa, bukan robot.
-- Melimpahnya akses informasi tidak otomatis membuat kita lebih akurat, ini paradoks era digital.
+- Melimpahnya akses informasi tidak otomatis membuat kita lebih akurat; ini paradoks era digital.
 - Percaya hoaks bukan soal pintar atau bodoh, tapi soal cara kerja otak yang bertemu dengan lingkungan digital yang licin.
 - Hoaks, misinformasi, dan disinformasi berbeda terutama pada niat penyebarnya.
 - Target buku ini adalah membangun ketahanan informasi lewat pemahaman, bukan lewat rasa curiga berlebihan.
 
-Sebelum bicara soal otak dan bias, kita perlu mengenal dulu "musuhnya" secara utuh, dan itu yang akan kita lakukan di modul berikutnya: Anatomi Hoaks.
+Sebelum bicara soal otak dan bias, kita perlu mengenal dulu "musuhnya" secara utuh, dan itu yang akan kita lakukan di bab 2: Anatomi Hoaks.

@@ -1,6 +1,6 @@
 ## Memahami Bias Kognitif
 
-Pernahkah kamu merasa sangat yakin akan sesuatu, namun belakangan menyadari bahwa kamu hanya melihat apa yang ingin kamu lihat? Atau pernahkah kamu membeli barang yang sebenarnya mahal hanya karena label "diskon 50%" membuat harganya terlihat murah?
+Pernahkah kamu merasa sangat yakin akan sesuatu, tetapi belakangan menyadari bahwa kamu hanya melihat apa yang ingin kamu lihat? Atau pernahkah kamu membeli barang yang sebenarnya mahal hanya karena label "diskon 50%" membuat harganya terlihat murah?
 
 Gejala seperti ini disebut **bias kognitif**. Jika *logical fallacies* (sesat pikir) adalah kesalahan dalam struktur argumen luar, maka bias kognitif adalah "bug" atau kesalahan sistematis dalam perangkat lunak otak kita sendiri.
 
@@ -10,13 +10,13 @@ Gejala seperti ini disebut **bias kognitif**. Jika *logical fallacies* (sesat pi
 
 > **Ilusi Optik Mental** Bayangkan bias kognitif seperti ilusi optik. Meskipun matamu melihat dua garis memiliki panjang yang berbeda, penggaris membuktikan keduanya sama. Bias kognitif bekerja dengan cara yang sama: meskipun logika berkata A, "perasaan" atau insting kita bersikeras memilih B.
 
-Otak kita berevolusi untuk bertahan hidup di alam liar, di mana keputusan cepat lebih penting daripada keputusan yang akurat secara statistik. Namun, di dunia modern yang kompleks, jalan pintas ini sering kali justru menyesatkan kita.
+Otak kita berevolusi untuk bertahan hidup di alam liar, tempat keputusan cepat lebih penting daripada keputusan yang akurat secara statistik. Namun, di dunia modern yang kompleks, jalan pintas ini sering kali justru menyesatkan kita.
 
 ### Dua Sistem Berpikir
 
 Menurut pemenang Nobel Daniel Kahneman, otak kita beroperasi dalam dua sistem:
 
-1. **Sistem 1 (Cepat):** Intuitif, emosional, dan otomatis. Inilah tempat di mana sebagian besar bias terjadi.
+1. **Sistem 1 (Cepat):** Intuitif, emosional, dan otomatis. Inilah tempat sebagian besar bias terjadi.
 2. **Sistem 2 (Lambat):** Logis, penuh perhitungan, dan membutuhkan usaha. Ini adalah sistem yang kita gunakan untuk berpikir kritis.
 
 Bias kognitif terjadi ketika Sistem 1 mengambil alih situasi yang seharusnya dianalisis oleh Sistem 2.
@@ -33,7 +33,7 @@ Kita tidak bertindak seperti hakim yang objektif, melainkan seperti pengacara ya
 
 Rina sangat yakin bahwa investasi saham A akan naik tajam. Ia hanya mengikuti grup diskusi yang memuji saham tersebut dan memblokir akun-akun yang memberikan analisis risiko (bearish). Saat harga saham mulai turun, ia menganggapnya sebagai "gejolak sementara" daripada sinyal peringatan yang valid.
 
-Sebagai contoh, banyak orang melakukan *unfollow* pada teman di media sosial hanya karena perbedaan pandangan politik. Tindakan ini sering kali bukan untuk mencari kebenaran, melainkan untuk melindungi bias konfirmasi agar merasa selalu benar.
+Sebagai contoh, banyak orang melakukan *unfollow* pada teman di media sosial hanya karena perbedaan pandangan politik. Tindakan ini sering kali bukan untuk mencari kebenaran, melainkan untuk melindungi keyakinan yang sudah ada agar merasa selalu benar, sebuah wujud bias konfirmasi.
 
 ### 2. Efek Jangkar (Anchoring Effect)
 
@@ -63,12 +63,12 @@ Jika $\text{Harga Jangkar}$ sangat tinggi, maka $\text{Nilai yang Dirasakan}$ ak
 Selain dua di atas, terdapat beberapa bias lain yang sering memengaruhi penalaran kritis kita:
 
 - **Availability Heuristic (Heuristik Ketersediaan):** Menilai kemungkinan sesuatu berdasarkan seberapa mudah contohnya muncul di pikiran. Kita lebih takut naik pesawat daripada mobil karena kecelakaan pesawat lebih dramatis dan sering diberitakan, padahal secara statistik mobil jauh lebih berbahaya.
-- **Dunning-Kruger Effect:** Kondisi di mana orang yang memiliki kompetensi rendah justru merasa sangat ahli karena mereka tidak memiliki pengetahuan yang cukup untuk menyadari kekurangan mereka.
+- **Dunning-Kruger Effect:** Kondisi ketika orang yang memiliki kompetensi rendah cenderung melebih-lebihkan kemampuan mereka karena mereka tidak memiliki pengetahuan yang cukup untuk menyadari kekurangan mereka.
 - **Sunk Cost Fallacy:** Terus melakukan sesuatu karena kita sudah menginvestasikan waktu, uang, atau tenaga di sana, meskipun secara logika menghentikannya adalah pilihan terbaik.
 
 ### Bias dalam Kehidupan Profesional
 
-Memahami bias kognitif bukan sekadar teori, pemahaman ini berguna langsung dalam pekerjaan:
+Memahami bias kognitif bukan sekadar teori; pemahaman ini berguna langsung dalam pekerjaan:
 
 #### 1. Dalam Negosiasi Bisnis
 

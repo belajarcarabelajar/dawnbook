@@ -1,6 +1,6 @@
 ## Pengantar Sistem Peringatan Dini
 
-Sistem peringatan dini adalah rangkaian kemampuan yang membantu kamu mengenali ancaman sebelum dampak meluas dan mengambil keputusan cepat. Tujuannya adalah menyelamatkan nyawa. Di Indonesia, pemahaman tentang sistem peringatan dini bukan pilihan tambahan, melainkan kebutuhan harian, karena posisi negara berada di pertemuan tiga lempeng tektonik dan di dalam cincin api pasifik. Dari gempa bumi, tsunami, erupsi gunung api, banjir, longsor, sampai kekeringan, hampir semua jenis bencana dapat terjadi di sini.
+Sistem peringatan dini adalah rangkaian kemampuan yang membantu kamu mengenali ancaman sebelum dampak meluas dan mengambil keputusan cepat. Tujuannya adalah menyelamatkan nyawa. Di Indonesia, pemahaman tentang sistem peringatan dini bukan pilihan tambahan, melainkan kebutuhan harian, karena posisi negara berada di pertemuan tiga lempeng tektonik dan di dalam Cincin Api Pasifik. Dari gempa bumi, tsunami, erupsi gunung api, banjir, longsor, sampai kekeringan, hampir semua jenis bencana dapat terjadi di sini.
 
 Pertanyaan yang sering muncul: *apa itu sistem peringatan dini dan apa bedanya dengan prakiraan cuaca?* Prakiraan memberi tahu apa yang mungkin terjadi, sementara sistem peringatan dini menghubungkan prakiraan dengan tindakan nyata. Ia memadukan pemantauan, analisis, komunikasi, dan kesiapsiagaan dalam satu alur yang teruji.
 
@@ -29,7 +29,7 @@ Banyak orang menyamakan *advisory*, *watch*, dan *warning*. Padahal tingkatannya
 
 Indonesia duduk di *Ring of Fire*, pertemuan Lempeng Indo-Australia, Eurasia, dan Pasifik, dengan 127 gunung api aktif dan zona megathrust di selatan Jawa dan Sumatera. Curah hujan tropis menambah risiko hidrometeorologi. Pesisir barat Sumatera rawan tsunami, lereng Merapi rawan aliran piroklastik, Jakarta dan Semarang rawan banjir rob.
 
-Data Badan Nasional Penanggulangan Bencana (BNPB) menegaskan urgensi. Sepanjang 2023, BNPB mencatat lebih dari 5.400 kejadian bencana, didominasi banjir dan longsor. Tahun 2021 dan 2022 menunjukkan pola serupa. Tren sepuluh tahun terakhir memperlihatkan frekuensi hidrometeorologi naik. Jeda antar kejadian memendek, jadi tanpa sistem peringatan dini yang andal, korban dan kerugian akan terus bertambah.
+Data Badan Nasional Penanggulangan Bencana (BNPB) menegaskan urgensi. Sepanjang 2023, BNPB mencatat lebih dari 5.400 kejadian bencana, didominasi banjir dan longsor. Tahun 2021 dan 2022 menunjukkan pola serupa. Tren sepuluh tahun terakhir memperlihatkan frekuensi hidrometeorologi naik. Jeda antarkejadian memendek, jadi tanpa sistem peringatan dini yang andal, korban dan kerugian akan terus bertambah.
 
 Di wilayah dengan waktu rambat tsunami 20 sampai 40 menit, telat lima menit saja dapat menghapus peluang evakuasi. Di daerah aliran sungai padat, peringatan banjir yang telat satu jam membuat pompa tidak sempat aktif.
 
@@ -53,7 +53,7 @@ Maknanya praktis. Kamu tidak selalu dapat mengecilkan ancaman, tetapi dapat menu
 
 ### Waktu Respons Penentu Keselamatan
 
-Kegagalan peringatan sering bukan karena data tidak ada, melainkan waktu respons tidak cukup. Waktu yang kamu miliki terdiri dari deteksi, diseminasi, dan reaksi. Hubungannya dapat ditulis sebagai berikut:
+Kegagalan peringatan sering bukan karena data tidak ada, melainkan waktu respons tidak cukup. Waktu respons terdiri atas deteksi, diseminasi, dan reaksi. Hubungannya dapat ditulis sebagai berikut:
 
 <div>
 $$
@@ -90,7 +90,7 @@ Setiap bab ditutup dengan tindakan kecil untuk kamu coba minggu ini.
 
 **Apakah sistem peringatan dini dapat mencegah bencana?** Tidak. Fenomena alam tetap terjadi. Yang dapat dicegah adalah jatuhnya korban dan membengkaknya kerugian lewat evakuasi dini.
 
-**Mengapa peringatan terkadang meleset?** Karena ketidakpastian data, ambang batas sensitif, dan gangguan komunikasi. Sistem yang baik mengurangi meleset lewat kalibrasi dan evaluasi.
+**Mengapa peringatan terkadang meleset?** Karena ketidakpastian data, ambang batas sensitif, dan gangguan komunikasi. Sistem yang baik mengurangi peluang meleset lewat kalibrasi dan evaluasi.
 
 **Apa yang dapat kamu lakukan hari ini?** Kenali sumber resmi di wilayah kamu, simpan dua saluran cadangan, hafalkan rute evakuasi terdekat, dan ajak satu anggota keluarga untuk gladi sepuluh menit.
 

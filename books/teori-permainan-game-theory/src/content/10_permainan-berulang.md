@@ -1,6 +1,6 @@
 ## Permainan Berulang (Repeated Games)
 
-Dalam modul sebelumnya, kita telah mempelajari **Dilema Tahanan (Prisoner's Dilemma)** di mana dua pihak sering kali berakhir dengan hasil buruk. Hal itu terjadi karena mereka tidak bisa saling percaya dalam satu kali interaksi. Namun, dalam kehidupan nyata, kita jarang berinteraksi dengan orang lain hanya sekali. Kita bertemu rekan bisnis yang sama, berbelanja di toko yang sama, dan bekerja dengan tim yang sama selama bertahun-tahun.
+Dalam modul sebelumnya, kita telah mempelajari **Dilema Tahanan (Prisoner's Dilemma)** ketika dua pihak sering kali berakhir dengan hasil buruk. Hal itu terjadi karena mereka tidak bisa saling percaya dalam satu kali interaksi. Namun, dalam kehidupan nyata, kita jarang berinteraksi dengan orang lain hanya sekali. Kita bertemu rekan bisnis yang sama, berbelanja di toko yang sama, dan bekerja dengan tim yang sama selama bertahun-tahun.
 
 **Permainan Berulang (Repeated Games)** adalah cabang dari teori permainan yang mempelajari bagaimana perilaku manusia berubah ketika interaksi terjadi berkali-kali. Di sini, dimensi waktu dan masa depan menjadi faktor penentu keputusan kita.
 
@@ -83,7 +83,7 @@ Ini adalah strategi yang jauh lebih ekstrem:
 - Bekerja sama selama lawan bekerja sama.
 - Jika lawan berbuat curang **satu kali saja**, maka kamu akan berbuat curang selamanya sebagai hukuman.
 
-Bandingkan dengan diagram berikut, di mana satu kecurangan lawan mengunci kamu di keadaan curang tanpa jalan kembali.
+Bandingkan dengan diagram berikut, ketika satu kecurangan lawan mengunci kamu di keadaan curang tanpa jalan kembali.
 
 ```mermaid
 stateDiagram-v2
@@ -100,7 +100,7 @@ stateDiagram-v2
 
 ## 4. Teorema Folk (The Folk Theorem)
 
-Dalam teori permainan, **Teorema Folk** menyatakan bahwa dalam permainan berulang tak terbatas, hampir semua hasil yang saling menguntungkan (di mana setiap pemain mendapatkan lebih dari yang mereka dapatkan jika mereka saling menjatuhkan) dapat dicapai sebagai Ekuilibrium Nash, asalkan pemain cukup sabar ($\delta$ cukup tinggi).
+Dalam teori permainan, **Teorema Folk** menyatakan bahwa dalam permainan berulang tak terbatas, hampir semua hasil yang saling menguntungkan (yaitu setiap pemain mendapatkan lebih dari yang mereka dapatkan jika mereka saling menjatuhkan) dapat dicapai sebagai Ekuilibrium Nash, asalkan pemain cukup sabar ($\delta$ cukup tinggi).
 
 Ini menjelaskan mengapa di komunitas kecil atau pasar tradisional, orang-orang cenderung jujur. Mereka terikat dalam "permainan" yang tidak diketahui kapan berakhirnya, sehingga menjaga keharmonisan jauh lebih menguntungkan daripada keuntungan sesaat dari menipu.
 
@@ -125,7 +125,7 @@ Di ronde 3 kamu tertinggal 6 lawan 11 karena dicurangi. Di ronde 4 kamu membalas
 
 ### Perang Harga di Industri Maskapai
 
-Dua maskapai penerbangan mungkin tergoda untuk menurunkan harga tiket secara drastis untuk merebut pelanggan. Namun, karena mereka berkompetisi setiap hari (permainan berulang), mereka tahu jika satu maskapai menurunkan harga, yang lain akan membalas. Akhirnya, keduanya akan rugi. Hasilnya? Harga seringkali stabil di level tinggi karena adanya kesadaran akan "pembalasan" di masa depan.
+Dua maskapai penerbangan mungkin tergoda untuk menurunkan harga tiket secara drastis untuk merebut pelanggan. Namun, karena mereka berkompetisi setiap hari (permainan berulang), mereka tahu jika satu maskapai menurunkan harga, yang lain akan membalas. Akhirnya, keduanya akan rugi. Hasilnya? Harga sering kali stabil di level tinggi karena adanya kesadaran akan "pembalasan" di masa depan.
 
 ### Perjanjian Internasional
 
@@ -133,7 +133,7 @@ Negara-negara mematuhi perjanjian pengurangan emisi atau nuklir bukan karena ada
 
 ### Langganan (Subscription Services)
 
-Perusahaan seperti Netflix atau Spotify memperlakukan kamu dalam konteks permainan berulang. Mereka bersedia merugi di bulan pertama (free trial) demi membangun hubungan jangka panjang di mana kamu terus membayar iuran bulanan selama bertahun-tahun.
+Perusahaan seperti Netflix atau Spotify memperlakukan kamu dalam konteks permainan berulang. Mereka pernah bersedia merugi di bulan pertama (free trial) demi membangun hubungan jangka panjang ketika kamu terus membayar iuran bulanan selama bertahun-tahun.
 
 ## Kesimpulan
 

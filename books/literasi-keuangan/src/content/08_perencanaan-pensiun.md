@@ -16,7 +16,7 @@ Beberapa alasan mengapa persiapan awal ini penting:
 
 ## Cara Menghitung Kebutuhan Dana Pensiun
 
-Langkah pertama yang harus dilakukan adalah memproyeksikan target dana pensiun. Angka ini tidak harus presisi, namun cukup sebagai panduan dasar.
+Langkah pertama yang harus dilakukan adalah memproyeksikan target dana pensiun. Angka ini tidak harus presisi, tetapi cukup sebagai panduan dasar.
 
 Faktor utama yang memengaruhi perhitungan:
 
@@ -32,14 +32,14 @@ Untuk mendapatkan gambaran awal, kamu bisa menggunakan dua pendekatan ini:
 
 **Pendekatan Rasio Pendapatan**
 Targetkan 70-80% dari penghasilan terakhir kamu sebagai dana tahunan masa pensiun.
-- Contoh: Pendapatan terakhir kamu Rp 120 juta/tahun. Maka kebutuhan dana saat pensiun sekitar Rp 84 juta sampai Rp 96 juta per tahun.
+- Contoh: Pendapatan terakhir kamu Rp120 juta/tahun. Maka kebutuhan dana saat pensiun sekitar Rp84 juta sampai Rp96 juta per tahun.
 
 **Pendekatan Estimasi Pengeluaran**
 Hitung rata-rata pengeluaran bulanan saat ini, lalu sesuaikan dengan proyeksi masa depan.
-- Pengeluaran bulanan: Rp 7.000.000
-- Dikurangi pos yang hilang (seperti cicilan lunas): -Rp 2.000.000
-- Ditambah pos baru (kesehatan/hiburan): +Rp 1.500.000
-- Total kebutuhan baru: Rp 6.500.000 per bulan (Rp 78.000.000 per tahun).
+- Pengeluaran bulanan: Rp7.000.000
+- Dikurangi pos yang hilang (seperti cicilan lunas): -Rp2.000.000
+- Ditambah pos baru (kesehatan/hiburan): +Rp1.500.000
+- Total kebutuhan baru: Rp6.500.000 per bulan (Rp78.000.000 per tahun).
 
 Gunakan kalkulator finansial online untuk memasukkan variabel inflasi agar hasilnya lebih akurat.
 
@@ -49,7 +49,7 @@ Ada berbagai program dan instrumen yang tersedia di Indonesia untuk membantu men
 
 ### Program Pemerintah
 **BPJS Ketenagakerjaan (JHT dan JP)**
-- **Jaminan Hari Tua (JHT):** Tabungan yang bisa ditarik penuh di usia 56 tahun. Setoran berasal dari potongan gaji dan subsidi perusahaan.
+- **Jaminan Hari Tua (JHT):** Tabungan yang bisa ditarik penuh di usia 56 tahun. Setoran berasal dari potongan gaji dan iuran perusahaan.
 - **Jaminan Pensiun (JP):** Skema pemberian manfaat bulanan seumur hidup jika memenuhi syarat masa iuran minimal 15 tahun.
 Program ini wajib diikuti jika kamu adalah pekerja formal.
 
@@ -58,7 +58,7 @@ Program ini wajib diikuti jika kamu adalah pekerja formal.
 DPLK adalah program pensiun mandiri yang ditawarkan oleh bank atau asuransi. Fleksibilitas penyetoran dan opsi investasinya beragam. Profil risikonya juga bisa disesuaikan dengan kebutuhan kamu.
 
 **Dana Pensiun Pemberi Kerja (DPPK)**
-Banyak perusahaan memiliki fasilitas pengelolaan pensiun untuk karyawan internalnya. Program ini dibagi menjadi DPIP (Iuran Pasti) dan DPMP (Manfaat Pasti). Cek ke divisi HRD apakah perusahaan kamu menawarkan fasilitas ini.
+Banyak perusahaan memiliki fasilitas pengelolaan pensiun untuk karyawan internalnya. Program ini dibagi menjadi PPIP (Iuran Pasti) dan PPMP (Manfaat Pasti). Cek ke divisi HRD apakah perusahaan kamu menawarkan fasilitas ini.
 
 ### Investasi Mandiri
 Kamu juga dapat membentuk dana pensiun sendiri melalui instrumen investasi jangka panjang:
@@ -76,6 +76,6 @@ Keberhasilan menyiapkan pensiun ditentukan oleh kedisiplinan mengelola portofoli
 - **Sebar Risiko (Diversifikasi):** Pecah modal kamu ke beberapa jenis aset. Jika salah satu aset turun nilainya, aset lain bisa menyeimbangkan kerugian tersebut.
 - **Atur Ulang Portofolio (Rebalancing):** Evaluasi performa investasi setiap tahun. Jual aset yang proporsinya terlalu besar dan beli aset yang alokasinya masih kurang.
 - **Waspada Biaya Siluman:** Selalu cermati biaya admin, biaya manajemen reksa dana, hingga tarif pajak penarikan. Biaya kecil akan menumpuk jadi beban besar.
-- **Naikkan Target Tabungan:** Begitu gaji atau pendapatan usaha kamu naik, otomatis persentase tabungan pensiun juga harus bertambah.
+- **Naikkan Target Tabungan:** Begitu gaji atau pendapatan usaha kamu naik, persentase tabungan pensiun juga harus bertambah.
 
 Mengatur keuangan untuk pensiun adalah proses panjang yang butuh konsistensi. Kombinasi instrumen keuangan yang tepat dan disiplin berinvestasi akan membantu kamu menikmati masa tua dengan tenang.

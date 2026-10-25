@@ -24,15 +24,15 @@ Jika Anscombe yang memulai, Alasdair MacIntyre adalah sosok yang membangunnya ke
 
 #### Hipotesis Malapetaka
 
-MacIntyre membuka bukunya dengan cerita fiksi ilmiah: bayangkan sebuah dunia di mana ilmu pengetahuan hancur akibat bencana. Orang-orang hanya memiliki fragmen alat laboratorium dan menghafal istilah sains tanpa benar-benar paham cara menggunakannya.
+MacIntyre membuka bukunya dengan cerita fiksi ilmiah: bayangkan sebuah dunia ketika ilmu pengetahuan hancur akibat bencana. Orang-orang hanya memiliki fragmen alat laboratorium dan menghafal istilah sains tanpa benar-benar paham cara menggunakannya.
 
 Menurutnya, kondisi moralitas modern persis seperti itu. Kita fasih menggunakan kata-kata seperti "baik", "adil", dan "benar", tetapi kita telah kehilangan konteks sejarah maupun filosofis yang memberi makna pada kata-kata tersebut. Perdebatan moral modern pada akhirnya sering kali berujung pada argumen emosional tanpa penyelesaian.
 
 #### Kembali ke Narasi dan Praktik
 
-Untuk menghidupkan kembali kebajikan, MacIntyre memperkenalkan gagasan mengenai "Praktik" dan "Kesatuan Naratif". Ia menekankan bahwa kebajikan tidak pernah dipelajari di ruang hampa; ia senantiasa tumbuh dalam aktivitas sosial yang memiliki standar keunggulan internal. Sebagai contoh, dalam permainan catur, kemenangan hanyalah pencapaian eksternal, sementara kemampuan berpikir strategis adalah keunggulan internal yang secara perlahan membangun karakter pemainnya.
+Untuk menghidupkan kembali kebajikan, MacIntyre memperkenalkan gagasan mengenai "Praktik" dan "Kesatuan Naratif". Ia menekankan bahwa kebajikan tidak pernah dipelajari di ruang hampa; ia senantiasa tumbuh dalam aktivitas sosial yang memiliki standar keunggulan internal. Sebagai contoh, dalam permainan catur, hadiah, uang, atau ketenaran hanyalah barang eksternal, sementara kemampuan berpikir strategis adalah keunggulan internal yang secara perlahan membangun karakter pemainnya.
 
-Selain itu, MacIntyre memandang hidup manusia sebagai sebuah cerita naratif yang berkelanjutan, tanpa terputus oleh rentetan kejadian acak. Sebuah tindakan hanya akan terasa maknanya jika diletakkan dalam konteks perjalanan menuju tujuan akhir yang ingin dicapai.
+Selain itu, MacIntyre memandang hidup manusia sebagai sebuah narasi yang utuh dan berkesinambungan, bukan sekadar rentetan kejadian acak yang terputus-putus. Sebuah tindakan hanya akan terasa maknanya jika diletakkan dalam konteks perjalanan menuju tujuan akhir yang ingin dicapai.
 
 ### 3\. Mengapa Etika Kebajikan Kembali Relevan?
 
@@ -53,7 +53,7 @@ Di dunia yang serba kompleks ini, aturan yang terlalu kaku kerap kali menemui ke
 
 Kebangkitan etika kebajikan ini terasa di ranah praktik, misalnya dalam profesi kedokteran. Bayangkan skenario seorang dokter yang harus menyampaikan diagnosis berat kepada pasien penderita penyakit terminal.
 
-Jika berpegang teguh pada pendekatan berbasis aturan, sang dokter mungkin sekadar menyampaikan hasil rekam medis secara kaku atas nama prosedur. Di sisi lain, dokter dengan pola pikir utilitarian mungkin akan sibuk menimbang apakah memberitahu kebenaran justru memperburuk kondisi psikologis pasien, sehingga ia memanipulasi informasi demi "kebaikan yang lebih besar".
+Jika berpegang teguh pada pendekatan berbasis aturan, sang dokter mungkin sekadar menyampaikan hasil rekam medis secara kaku atas nama prosedur. Di sisi lain, dokter dengan pola pikir utilitarian mungkin akan sibuk menimbang apakah memberi tahu kebenaran justru memperburuk kondisi psikologis pasien, sehingga ia memanipulasi informasi demi "kebaikan yang lebih besar".
 
 Namun, dokter yang mempraktikkan etika kebajikan akan berpikir dengan cara yang berbeda. Ia bertanya pada dirinya sendiri mengenai bagaimana seharusnya sikap seorang tenaga medis yang memiliki kebijaksanaan (*Phronesis*) dan kelembutan hati. Keunggulan moralnya tidak berhenti pada resep yang ia tulis. Karakter tersebut terlihat dalam kemampuannya menempatkan kejujuran profesional bersisian dengan empati kemanusiaan.
 

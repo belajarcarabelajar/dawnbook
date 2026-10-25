@@ -118,7 +118,7 @@ mod rahasia_perusahaan {
 
 ### Merancang API Library
 
-Saat membangun sebuah library (misalnya library pengolah gambar), kamu mungkin memiliki ratusan fungsi untuk manipulasi pixel. Namun, kamu tentu tidak ingin pengguna library-mu pusing dengan detail teknis tersebut.
+Saat membangun sebuah library (misalnya library pengolah gambar), kamu mungkin memiliki ratusan fungsi untuk manipulasi piksel. Namun, kamu tentu tidak ingin pengguna library-mu pusing dengan detail teknis tersebut.
 
 **Skenario Penerapan:**
 
@@ -133,7 +133,7 @@ Untuk mempermudah ingatanmu, gunakan tabel referensi cepat ini:
 
 | Elemen | Status Default | Jika Diberi `pub` |
 | --- | --- | --- |
-| **Modul** | Privat | Terlihat oleh modul induk |
+| **Modul** | Privat | Bisa diakses dari tempat yang bisa melihat modul induknya |
 | **Fungsi** | Privat | Bisa dipanggil dari tempat yang bisa melihat modulnya |
 | **Struct** | Privat | Struct-nya terlihat, tapi field-nya tetap privat |
 | **Field Struct** | Privat | Bisa dibaca/tulis dari luar |

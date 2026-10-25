@@ -2,7 +2,7 @@
 
 Dalam kerangka Teori Modal Manusia (*Human Capital Theory*), pengembangan keterampilan tidak berhenti setelah seseorang menyelesaikan pendidikan formal. Sebagian besar akumulasi modal manusia justru terjadi saat seseorang melangkah ke dunia kerja melalui **Pelatihan di Tempat Kerja (On-the-Job Training/OJT)**.
 
-Jika pendidikan formal meletakkan fondasi pengetahuan dasar, maka pelatihan di tempat kerja adalah mekanisme yang mengasah keterampilan teoritis menjadi produktivitas nyata. Namun, tidak semua bentuk pelatihan memiliki sifat dan konsekuensi ekonomi yang sama. Mengapa perusahaan bersedia mendanai kursus bahasa Inggris atau pemrograman untuk karyawannya, tetapi enggan membiayai sekolah pilot atau gelar akademik lanjut? Mengapa jenis keterampilan tertentu membuat gaji kamu naik di mana saja, sementara keterampilan lain hanya dihargai di kantor kamu saat ini?
+Jika pendidikan formal meletakkan fondasi pengetahuan dasar, maka pelatihan di tempat kerja adalah mekanisme yang mengasah keterampilan teoretis menjadi produktivitas nyata. Namun, tidak semua bentuk pelatihan memiliki sifat dan konsekuensi ekonomi yang sama. Mengapa perusahaan bersedia mendanai pelatihan sistem internalnya, tetapi enggan membiayai kursus bahasa Inggris, sekolah pilot, atau gelar akademik lanjut? Mengapa jenis keterampilan tertentu membuat gaji kamu naik di mana saja, sementara keterampilan lain hanya dihargai di kantor kamu saat ini?
 
 Jawabannya terletak pada pembedaan mendasar antara **Pelatihan Umum (General Training)** dan **Pelatihan Spesifik (Specific Training)**.
 
@@ -10,11 +10,11 @@ Jawabannya terletak pada pembedaan mendasar antara **Pelatihan Umum (General Tra
 
 Dalam ekonomi tenaga kerja, pelatihan dipandang sebagai **investasi modal manusia**. Sama seperti pembelian peralatan pabrik atau teknologi baru, pengeluaran untuk pelatihan membutuhkan pengorbanan biaya saat ini (berupa alokasi dana, waktu produktif, dan tenaga) demi memperoleh imbalan di masa depan (peningkatan produktivitas, *output*, serta potensi upah yang lebih tinggi).
 
-Gary Becker, ekonom peraih Hadiah Nobel, memformulasikan perbedaan mendasar investasi ini berdasarkan tingkat keteralihannya (*transferability*) antar-perusahaan.
+Gary Becker, ekonom peraih Hadiah Nobel, memformulasikan perbedaan mendasar investasi ini berdasarkan tingkat keteralihannya (*transferability*) antarperusahaan.
 
 ### 2. Pelatihan Umum (General Training)
 
-**Pelatihan Umum (*General Training*)** merujuk pada jenis pelatihan yang meningkatkan produktivitas marginal pekerja secara setara di berbagai perusahaan pasar kerja, bukan hanya di perusahaan yang memberikan pelatihan tersebut.
+**Pelatihan Umum (*General Training*)** merujuk pada jenis pelatihan yang meningkatkan produktivitas marginal pekerja secara setara di berbagai perusahaan di pasar kerja, bukan hanya di perusahaan yang memberikan pelatihan tersebut.
 
 #### Karakteristik Utama
 - **Tingkat Keteralihan Tinggi (*High Transferability*):** Keterampilan yang diperoleh dapat diterapkan dengan efisiensi sama di banyak pemberi kerja lain.
@@ -26,14 +26,14 @@ Gary Becker, ekonom peraih Hadiah Nobel, memformulasikan perbedaan mendasar inve
 - Kemampuan bahasa asing (seperti TOEFL, IELTS, atau JLPT).
 - Keterampilan dasar mengemudi atau pengoperasian kendaraan operasional.
 
-> **Analogi Pisau Lipat Multi-Fungsi**  
-> Pelatihan Umum ibarat memberikan sebuah pisau lipat serbaguna kepada seorang pekerja. Pisau tersebut memiliki fungsi yang persis sama bermanfaatnya di mana pun pekerja itu berada. Karena alat ini berguna di tempat lain, pekerja memiliki fleksibilitas untuk berpindah ke organisasi lain yang bersedia menawarkan kompensasi lebih tinggi.
+> **Analogi Pisau Lipat Multifungsi**  
+> Pelatihan Umum ibarat memberikan sebuah pisau lipat serbaguna kepada seorang pekerja. Pisau tersebut sama bermanfaatnya di mana pun pekerja itu berada. Karena alat ini berguna di tempat lain, pekerja memiliki fleksibilitas untuk berpindah ke organisasi lain yang bersedia menawarkan kompensasi lebih tinggi.
 
-#### Implikasi Terhadap Upah dan Pembiayaan
+#### Implikasi terhadap Upah dan Pembiayaan
 Dalam pasar persaingan sempurna, **perusahaan tidak memiliki insentif untuk menanggung biaya pelatihan umum**. Jika perusahaan membiayai pelatihan umum dan tetap membayar gaji lama, pekerja akan segera menerima tawaran dari perusahaan pesaing yang bersedia membayar upah setara nilai produktivitas barunya. Apabila perusahaan menaikkan gaji pekerja sekaligus menanggung biaya pelatihan, perusahaan akan mengalami kerugian bersih (*net loss*).
 
 - **Pihak yang Menanggung Biaya:** Pekerja menanggung biaya pelatihan, biasanya secara tidak langsung melalui penerimaan upah yang lebih rendah selama masa pelatihan berlangsung.
-- **Dampak Terhadap Pola Upah:** Setelah masa pelatihan selesai, upah pekerja akan naik menyesuaikan dengan nilai produktivitas marginal pasar (*Value of Marginal Product* / $\text{VMP}$) yang baru.
+- **Dampak terhadap Pola Upah:** Setelah masa pelatihan selesai, upah pekerja akan naik menyesuaikan dengan nilai produktivitas marginal pasar (*Value of Marginal Product* / $\text{VMP}$) yang baru.
 
 ### 3. Pelatihan Spesifik (Specific Training)
 
@@ -41,29 +41,29 @@ Dalam pasar persaingan sempurna, **perusahaan tidak memiliki insentif untuk mena
 
 #### Karakteristik Utama
 - **Sifat Idiosinkratik (*Firm-Specific/Idiosyncratic*):** Terikat erat pada sistem internal, perangkat kustom, atau budaya operasional perusahaan tertentu.
-- **Ketergantungan Timbal Balik (*Mutual Interdependence*):** Menciptakan keterikatan ekonomi antara perusahaan dan pekerja, di mana pemutusan hubungan kerja membawa kerugian bagi kedua belah pihak.
+- **Ketergantungan Timbal Balik (*Mutual Interdependence*):** Menciptakan keterikatan ekonomi antara perusahaan dan pekerja, sehingga pemutusan hubungan kerja membawa kerugian bagi kedua belah pihak.
 
 #### Contoh Nyata
 - Pelatihan penggunaan sistem perangkat lunak internal kustom yang dikembangkan khusus untuk operasional Perusahaan X.
 - Pemahaman mendalam atas prosedur pengarsipan dan birokrasi unik organisasi tertentu.
 - Penguasaan teknik perawatan mesin rakitan khusus yang tidak lagi diproduksi secara massal.
-- Navigasi struktur sosial dan matriks koordinasi antar-departemen di perusahaan spesifik.
+- Navigasi struktur sosial dan matriks koordinasi antardepartemen di perusahaan spesifik.
 
 > **Analogi Kunci Duplikat Pintu Rumah**  
-> Pelatihan Spesifik ibarat membuat kunci duplikat yang hanya bisa membuka satu pintu rumah tertentu. Kunci tersebut bernilai tinggi bagi penghuni rumah itu, namun tidak memiliki kegunaan sama sekali bagi rumah tetangga. Jika kamu berpindah tempat, kunci tersebut menjadi sepotong logam tanpa nilai ekonomis.
+> Pelatihan Spesifik ibarat membuat kunci duplikat yang hanya bisa membuka satu pintu rumah tertentu. Kunci tersebut bernilai tinggi bagi penghuni rumah itu, tetapi tidak memiliki kegunaan sama sekali bagi rumah tetangga. Jika kamu berpindah tempat, kunci tersebut menjadi sepotong logam tanpa nilai ekonomis.
 
-#### Implikasi Terhadap Upah dan Pembiayaan
+#### Implikasi terhadap Upah dan Pembiayaan
 Karena keahlian ini tidak laku di tempat lain, pekerja tidak bisa mengancam untuk pindah ke pesaing demi upah lebih tinggi. Sebaliknya, perusahaan juga tidak bisa sembarangan memotong gaji atau memecat pekerja, karena biaya melatih pengganti dari nol sangat tinggi. Oleh sebab itu, timbul **Model Investasi Bersama (*Shared Investment Model*)**:
 
 - **Pihak yang Menanggung Biaya:** Perusahaan dan pekerja berbagi biaya pelatihan. Perusahaan menanggung sebagian besar pengeluaran langsung, sementara pekerja menerima upah yang sedikit di bawah produktivitas aslinya selama pelatihan.
-- **Dampak Terhadap Pola Upah:** Setelah pelatihan, upah pekerja berada di atas nilai tawaran pasar luar (sehingga mencegah *turnover*), tetapi di bawah nilai produktivitas penuhnya di perusahaan tersebut (memungkinkan perusahaan memperoleh tingkat pengembalian atas investasinya).
+- **Dampak terhadap Pola Upah:** Setelah pelatihan, upah pekerja berada di atas nilai tawaran pasar luar (sehingga mencegah *turnover*), tetapi di bawah nilai produktivitas penuhnya di perusahaan tersebut (memungkinkan perusahaan memperoleh tingkat pengembalian atas investasinya).
 
 ### 4. Pemodelan Upah dan Produktivitas dalam Dinamika Ekonomi
 
 Secara matematis, hubungan antara Produktivitas Marginal ($\text{VMP}$), Upah Pekerja ($W$), dan Biaya Pelatihan ($C$) dapat dirumuskan melalui alokasi struktur pembiayaan pada setiap fase:
 
 #### Pemodelan Pelatihan Umum
-Pada pelatihan umum, pekerja menanggung biaya pelatihan melalui pemotongan upah di periode pelatihan, lalu menikmati hasil penuh di periode pasca-pelatihan:
+Pada pelatihan umum, pekerja menanggung biaya pelatihan melalui pemotongan upah di periode pelatihan, lalu menikmati hasil penuh di periode pascapelatihan:
 
 <div>
 $$
@@ -94,13 +94,13 @@ Pada pelatihan spesifik, terjadi pembagian biaya dan keuntungan (*cost and retur
 
 <div>
 $$
-\text{Fase Pelatihan (Periode 1)} : \text{W}_1 > \text{VMP}_1
+\text{Fase Pelatihan (Periode 1)} : \text{VMP}_1 - C \lt \text{W}_1 \lt \text{VMP}_1
 $$
 </div>
 
 <div>
 $$
-\quad (\text{Perusahaan menanggung porsi biaya } C)
+\quad (\text{Perusahaan dan pekerja berbagi biaya } C)
 $$
 </div>
 
@@ -112,7 +112,7 @@ $$
 
 <div>
 $$
-\quad (\text{Upah di atas pasar, namun di bawah produktivitas penuh})
+\quad (\text{Upah di atas pasar, tetapi di bawah produktivitas penuh})
 $$
 </div>
 
@@ -125,29 +125,29 @@ $$
 | **Risiko Pembajakan (*Poaching*)** | Tinggi (Kompetitor dapat merekrut tanpa biaya) | Rendah (Keterampilan tidak bernilai bagi kompetitor) |
 | **Kecenderungan Pekerja untuk *Resign*** | Tinggi (Memiliki banyak opsi luar dengan upah tinggi) | Rendah (Upah luar lebih rendah dibanding kompensasi saat ini) |
 | **Kecenderungan Perusahaan melakukan PHK** | Standar (Mengikuti fluktuasi permintaan pasar) | Rendah (Perusahaan kehilangan modal investasi yang ditanam) |
-| **Dampak Terhadap Retensi Tenaga Kerja** | Netral / Menurunkan keterikatan | Meningkatkan stabilitas dan retensi jangka panjang |
+| **Dampak terhadap Retensi Tenaga Kerja** | Netral / Menurunkan keterikatan | Meningkatkan stabilitas dan retensi jangka panjang |
 
 ### 5. Aplikasi Praktis dan Implikasi Manajerial
 
 #### Perusahaan Teknologi dan Pengembangan Perangkat Lunak
 Sebuah perusahaan teknologi yang sedang berkembang memberikan program pelatihan intensif yang mencakup dua ranah:
 1. **Bahasa Pemrograman Python dan Arsitektur Cloud (Pelatihan Umum):** Meningkatkan nilai pasar insinyur perangkat lunak secara luas. Jika perusahaan mengalami krisis, karyawan memiliki mobilitas tinggi untuk berpindah pekerjaan.
-2. **Arsitektur Data Internal dan Prosedur Keamanan Proprietary (Pelatihan Spesifik):** Hanya berguna di lingkungan infrastruktur perusahaan tersebut. Pengetahuan ini menjaga kelancaran sistem internal, namun tidak menambah nilai tawar langsung di perusahaan lain.
+2. **Arsitektur Data Internal dan Prosedur Keamanan Proprietary (Pelatihan Spesifik):** Hanya berguna di lingkungan infrastruktur perusahaan tersebut. Pengetahuan ini menjaga kelancaran sistem internal, tetapi tidak menambah nilai tawar langsung di perusahaan lain.
 
 #### Strategi Retensi dengan Program Management Trainee
 Banyak korporasi besar merancang program *Management Trainee* (MT) dengan kombinasi kurikulum yang sengaja ditimbang ke arah pelatihan spesifik.
 
 Melalui pemahaman atas budaya perusahaan, jejaring internal, serta metodologi kerja spesifik, organisasi berhasil menciptakan *lock-in effect* yang halus. Karyawan merasa efektif dan dihargai di dalam organisasi tersebut, tetapi menghadapi *switching cost* yang besar jika memilih pindah ke pesaing karena keahlian khusus mereka tidak dapat dipindahkan secara utuh.
 
-### 6. Pertimbangan Strategis Pertumbuhan Karir dan Organisasi
+### 6. Pertimbangan Strategis Pertumbuhan Karier dan Organisasi
 
 Memahami dinamika antara pelatihan umum dan spesifik memberikan sudut pandang taktis bagi pekerja maupun pengambil keputusan organisasi dalam mengelola modal manusia.
 
-> **Wawasan Kunci tentang Keamanan Karir vs Keamanan Kerja**  
-> Pelatihan spesifik memberikan **keamanan kerja (*job security*)** karena perusahaan enggan melepaskan pekerja yang telah menyerap investasi internal bernilai tinggi. Sebaliknya, pelatihan umum memberikan **keamanan karir (*career security*)** karena keterampilan kamu tidak bergantung pada keberlangsungan satu perusahaan tertentu untuk mempertahankan nilai ekonomis di pasar kerja.
+> **Wawasan Kunci tentang Keamanan Karier vs Keamanan Kerja**  
+> Pelatihan spesifik memberikan **keamanan kerja (*job security*)** karena perusahaan enggan melepaskan pekerja yang telah menyerap investasi internal bernilai tinggi. Sebaliknya, pelatihan umum memberikan **keamanan karier (*career security*)** karena keterampilan kamu tidak bergantung pada keberlangsungan satu perusahaan tertentu untuk mempertahankan nilai ekonomis di pasar kerja.
 
 Pertanyaan strategis bagi setiap individu dan manajer:
-- Bagi pekerja: Bagaimana kamu menyeimbangkan alokasi waktu untuk menguasai keahlian umum yang meningkatkan portofolio karir, sambil tetap mempelajari keahlian spesifik yang menjamin posisi kamu di tempat kerja saat ini?
+- Bagi pekerja: Bagaimana kamu menyeimbangkan alokasi waktu untuk menguasai keahlian umum yang meningkatkan portofolio karier, sambil tetap mempelajari keahlian spesifik yang menjamin posisi kamu di tempat kerja saat ini?
 - Bagi manajer: Bagaimana organisasi kamu merancang struktur kompensasi dan pelatihan agar investasi keterampilan umum tidak hilang akibat pembajakan tenaga kerja oleh kompetitor?
 
 ### Kesimpulan

@@ -43,7 +43,7 @@ Membangun sistem dukungan tidak diukur dari kuantitas pengikut di media sosial, 
 Gunakan teknik **"Lingkaran Dukungan"** (*Support Circles*) untuk memetakan siapa saja yang ada di hidupmu:
 
 * **Lingkaran Inti:** Keluarga dekat atau sahabat karib yang memahami kondisi terdalammu.
-* **Lingkaran Menengah:** Teman kerja atau komunitas hobi yang sering berinteraksi.
+* **Lingkaran Menengah:** Teman kerja atau anggota komunitas hobi yang sering berinteraksi denganmu.
 * **Lingkaran Luar:** Kenalan profesional atau anggota komunitas luas.
 
 #### B. Langkah-Langkah Memperkuat Koneksi

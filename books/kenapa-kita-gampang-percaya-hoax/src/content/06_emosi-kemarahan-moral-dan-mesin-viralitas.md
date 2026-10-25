@@ -1,6 +1,6 @@
 ## Emosi, Kemarahan Moral, dan Viralitas
 
-Coba ingat kapan terakhir kamu membagikan sesuatu di media sosial hampir tanpa berpikir. Kemungkinan besar itu bukan artikel netral yang datar, tapi sesuatu yang memancing perasaanmu: ketidakadilan, perilaku menjijikkan, ancaman, atau kabar yang bikin berdecak kagum. Emosi mendorong penyebaran, dan pembuat hoaks tahu cara memanfaatkannya. Kalau modul sebelumnya soal jalan pintas berpikir, modul ini masuk ke sisi yang lebih panas: bagaimana perasaan, bukan fakta, sering menentukan apa yang kita sebarkan.
+Coba ingat kapan terakhir kamu membagikan sesuatu di media sosial hampir tanpa berpikir. Kemungkinan besar itu bukan artikel netral yang datar, tapi sesuatu yang memancing perasaanmu: ketidakadilan, perilaku menjijikkan, ancaman, atau kabar yang bikin berdecak kagum. Emosi mendorong penyebaran, dan pembuat hoaks tahu cara memanfaatkannya. Kalau bab sebelumnya soal jalan pintas berpikir, bab ini masuk ke sisi yang lebih panas: bagaimana perasaan, bukan fakta, sering menentukan apa yang kita sebarkan.
 
 ### Konten beremosi tinggi lebih gampang menyebar
 
@@ -37,16 +37,16 @@ Kenapa emosi bisa mendahului pikiran? Otak kita punya sistem yang bereaksi cepat
 
 ### Kenapa ini penting untuk memahami hoaks
 
-Judul dan narasi hoaks nyaris selalu dirancang emosional: **menakut-nakuti** (bahaya yang mengintai keluargamu), **membangkitkan amarah** (kelompok tertentu digambarkan keterlaluan), atau **memancing jijik** (gambaran yang membuatmu muak). Ini bukan kebetulan: konten beremosi tinggi lebih mudah menyebar dan kemarahan moral bentuk paling ampuh, jadi ketika seseorang ingin sesuatu viral, membingkainya sebagai pelanggaran moral yang bikin marah adalah strategi yang masuk akal.
+Judul dan narasi hoaks nyaris selalu dirancang emosional: **menakut-nakuti** (bahaya yang mengintai keluargamu), **membangkitkan amarah** (kelompok tertentu digambarkan keterlaluan), atau **memancing jijik** (gambaran yang membuatmu muak). Ini bukan kebetulan: konten beremosi tinggi lebih mudah menyebar dan kemarahan moral adalah bentuk yang paling ampuh, jadi ketika seseorang ingin sesuatu viral, membingkainya sebagai pelanggaran moral yang bikin marah adalah strategi yang masuk akal.
 
 Kabar baiknya, memahami mekanisme ini memberimu keunggulan. Lain kali sebuah konten membuatmu langsung ingin membagikan karena marah atau muak, dorongan kuat itu justru bisa jadi tanda: bukan bahwa konten itu pasti palsu, tapi bahwa penalaranmu sedang paling mudah dilewati.
 
 ## Yang Perlu Kamu Ingat
 
 - Konten yang membangkitkan emosi kuat (marah, jijik, takut, kagum) lebih mudah dibagikan; yang paling menggerakkan bukan positif-negatifnya, tapi seberapa besar emosi itu mendorong kita bertindak.
-- **Kemarahan moral** adalah campuran marah dan jijik atas pelanggaran moral. Ia mengundang banyak keterlibatan, sehingga algoritma ikut memperkuatnya lewat penularan moral (Brady 2017; Crockett 2017).
+- **Kemarahan moral** adalah campuran marah dan jijik atas pelanggaran moral. Ia mengundang banyak keterlibatan, sehingga algoritma ikut memperkuatnya lewat penularan moral (Brady dkk., 2017; Crockett, 2017).
 - Misinformasi cenderung memancing lebih banyak amarah dibanding sumber tepercaya, dan orang bahkan membagikan konten pemicu amarah tanpa membacanya dulu.
 - Kadang kita membagikan bukan karena yakin itu benar, tapi untuk mengekspresikan sikap dan identitas. Itu sebabnya ajakan "cek dulu akurasinya" sering kurang mempan untuk konten pemancing amarah.
 - Reaksi emosional bisa menyala lebih dulu daripada nalar, dan hoaks sengaja dirancang untuk memanfaatkan celah itu.
 
-Sampai di sini kita sudah melihat bahwa emosi mendorong kita membagikan, dan bahwa kita kadang membagikan untuk menunjukkan siapa kita. Pertanyaan berikutnya: kenapa kita ngotot mempertahankan keyakinan yang mendukung kelompok kita, bahkan ketika buktinya lemah? Di modul berikutnya kita masuk ke **Penalaran Termotivasi dan Identitas Kelompok**, tempat berpikir bukan lagi soal mencari kebenaran, tapi soal membela pihak sendiri.
+Sampai di sini kita sudah melihat bahwa emosi mendorong kita membagikan, dan bahwa kita kadang membagikan untuk menunjukkan siapa kita. Pertanyaan berikutnya: kenapa kita ngotot mempertahankan keyakinan yang mendukung kelompok kita, bahkan ketika buktinya lemah? Di bab 7 kita masuk ke **Penalaran Termotivasi dan Identitas Kelompok**, tempat berpikir bukan lagi soal mencari kebenaran, tapi soal membela pihak sendiri.

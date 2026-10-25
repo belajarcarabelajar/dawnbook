@@ -2,7 +2,7 @@
 
 Bagi banyak orang saat ini, Stoikisme mungkin terdengar seperti sekumpulan kutipan motivasi untuk tetap tenang di bawah tekanan. Namun, bagi para filosof kuno di Stoa, ini adalah sebuah sistem ilmu pengetahuan yang terstruktur. Mereka tidak melihat filsafat sebagai hobi akhir pekan, melainkan sebagai kurikulum menyeluruh untuk memahami realitas dan menguasai seni hidup.
 
-Untuk memahami Stoikisme secara utuh, kita harus melihat "Tiga Pilar" yang membangun pondasinya: **Logika**, **Fisika**, dan **Etika**.
+Untuk memahami Stoikisme secara utuh, kita harus melihat "Tiga Pilar" yang membangun fondasinya: **Logika**, **Fisika**, dan **Etika**.
 
 ## Taman Stoik
 
@@ -44,18 +44,18 @@ Stoik percaya bahwa alam semesta tidak kacau, melainkan diatur oleh rasionalitas
 Dalam pandangan Fisika Stoik:
 
 - Segala sesuatu terjadi karena sebab-akibat (determinisme).
-- Manusia adalah bagian kecil dari keseluruhan besar (kosmopolitanisme).
-- Materi dan energi digerakkan oleh prinsip aktif yang cerdas.
+- Manusia adalah bagian kecil dari keseluruhan besar (kosmos sebagai satu kesatuan).
+- Materi digerakkan oleh prinsip aktif yang cerdas.
 
 ### Persamaan Keseimbangan Alam
 
-Jika kita memodelkan hubungan antara bagian dan keseluruhan, para Stoik melihatnya sebagai harmoni. Secara metaforis, jika $U$ adalah Universe dan $p$ adalah bagian kecil (manusia), maka: $U = \sum\_{i=1}^{n} p\_i$ Di mana setiap $p$ harus berfungsi sesuai dengan fungsinya agar $U$ tetap stabil. Jika satu bagian melawan hukum alam, ia hanya akan menyakiti dirinya sendiri tanpa bisa mengubah hukum tersebut.
+Jika kita memodelkan hubungan antara bagian dan keseluruhan, para Stoik melihatnya sebagai harmoni. Secara metaforis, jika $U$ adalah alam semesta dan $p$ adalah bagian kecil (manusia), maka: $U = \sum\_{i=1}^{n} p\_i$. Setiap $p$ harus berfungsi sesuai dengan perannya agar $U$ tetap stabil. Jika satu bagian melawan hukum alam, ia hanya akan menyakiti dirinya sendiri tanpa bisa mengubah hukum tersebut.
 
 ## 3\. Etika
 
 Inilah puncak dari filsafat Stoik. **Etika** adalah jawaban atas pertanyaan: *"Bagaimana saya harus hidup?"*
 
-Setelah kita memiliki **Logika** untuk berpikir jernih dan **Fisika** untuk memahami cara kerja dunia, kita menggunakan pengetahuan itu untuk bertindak. Etika Stoik berpusat pada satu tujuan: **Eudaimonia** (kebahagiaan yang bermuara dari ketenangan batin dan karakter yang luhur).
+Setelah kita memiliki **Logika** untuk berpikir jernih dan **Fisika** untuk memahami cara kerja dunia, kita menggunakan pengetahuan itu untuk bertindak. Etika Stoik berpusat pada satu tujuan: **Eudaimonia** (kebahagiaan yang bersumber dari ketenangan batin dan karakter yang luhur).
 
 ### Hidup Selaras dengan Alam
 
@@ -72,10 +72,10 @@ Etika Stoik memerintahkan kita untuk "Hidup sesuai dengan alam." Artinya:
 Mari kita lihat bagaimana ketiga pilar ini bekerja dalam skenario nyata ketika kamu gagal dalam sebuah proyek besar di kantor:
 
 1. **Gunakan Logika:**
-	- *Kesan:* "Aku payah, karirku hancur."
+	- *Kesan:* "Aku payah, karierku hancur."
 		- *Analisis:* Apakah ini benar? Tidak. Faktanya hanyalah "Proyek X tidak mencapai target Y." Logika membantu kamu menolak penilaian emosional yang berlebihan.
 2. **Gunakan Fisika:**
-	- *Pemahaman:* Sadari bahwa ada faktor eksternal (ekonomi, keputusan klien, waktu) yang merupakan bagian dari hukum sebab-akibat di alam semesta. kamu adalah bagian dari sistem yang kompleks, dan kegagalan adalah bagian alami dari proses pertumbuhan.
+	- *Pemahaman:* Sadari bahwa ada faktor eksternal (ekonomi, keputusan klien, waktu) yang merupakan bagian dari hukum sebab-akibat di alam semesta. Kamu adalah bagian dari sistem yang kompleks, dan kegagalan adalah bagian alami dari proses pertumbuhan.
 3. **Gunakan Etika:**
 	- *Tindakan:* Apa yang bisa dilakukan sekarang? Bertindak dengan integritas. Akui kesalahan, pelajari apa yang bisa diperbaiki, dan tetap bekerja dengan tekun. Fokus pada karakter kamu (kebajikan), bukan pada bonus yang hilang.
 

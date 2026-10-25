@@ -14,11 +14,11 @@ SSO terbagi menjadi dua divisi utama yang bekerja saling melengkapi seperti peda
 2. **Sistem Saraf Parasimpatik (*Parasympathetic Nervous System* - Rem):** Mengaktifkan respons *rest-and-digest* (istirahat dan cerna).
 
 > [!NOTE]
-> **Homeostasis:** Keseimbangan antara sistem simpatik dan parasimpatik disebut *homeostasis*. Saat stres melanda, keseimbangan ini bergeser ke arah sistem simpatik.
+> **Homeostasis:** Keseimbangan antara sistem simpatik dan parasimpatik membantu tubuh menjaga *homeostasis*, yaitu proses mempertahankan kondisi internal yang relatif stabil. Saat stres melanda, keseimbangan ini bergeser ke arah sistem simpatik.
 
 ### 2. Sistem Saraf Simpatik
 
-Ketika otak kamu (khususnya bagian bernama *amygdala*) mendeteksi ancaman, ia mengirimkan sinyal bahaya ke *hipotalamus*. Hipotalamus kemudian mengaktifkan sistem saraf simpatik.
+Ketika otak kamu (khususnya bagian bernama *amigdala*) mendeteksi ancaman, ia mengirimkan sinyal bahaya ke *hipotalamus*. Hipotalamus kemudian mengaktifkan sistem saraf simpatik.
 
 #### Apa yang Terjadi pada Tubuh?
 
@@ -61,7 +61,7 @@ Untuk memahami mengapa kita merasa stres di dunia modern, mari gunakan analogi b
 
 Sistem *fight-or-flight* kamu bekerja seperti sebuah **alarm kebakaran**. Di zaman purba, alarm ini berbunyi karena ada api nyata (seperti ancaman predator). Namun di dunia modern, sistem saraf kita sering kali terlalu sensitif. Alarm tersebut berbunyi keras hanya karena asap dari roti panggang (seperti email dari atasan, kemacetan lalu lintas, atau notifikasi media sosial).
 
-**Masalah utamanya:** Tubuh kamu tidak bisa membedakan antara ancaman fisik yang membahayakan nyawa dengan tekanan psikologis. Keduanya memicu reaksi kimia yang sama kuatnya.
+**Masalah utamanya:** Tubuh kamu tidak bisa membedakan antara ancaman fisik yang membahayakan nyawa dan tekanan psikologis. Keduanya memicu reaksi kimia yang sama kuatnya.
 
 ### 5. *Freeze* (Membeku)
 
@@ -77,7 +77,7 @@ Mari kita lihat bagaimana sistem ini bekerja dalam situasi sehari-hari:
 
 1. **Pemicu:** Kamu melihat atasan kamu mengerutkan kening.
 2. **Aktivasi Simpatik:** Jantung mulai berdebar kencang ($120\text{ bpm}$). Kamu merasa gerah karena aliran darah dialihkan ke otot, dan suaramu mungkin sedikit gemetar akibat ketegangan otot pita suara.
-3. **Respon Otak:** Karena tidak ada bahaya fisik langsung untuk dilawan, akumulasi energi ini berubah menjadi rasa cemas atau gerakan gelisah (seperti kaki yang bergoyang-goyang).
+3. **Respons Otak:** Karena tidak ada bahaya fisik langsung untuk dilawan, akumulasi energi ini berubah menjadi rasa cemas atau gerakan gelisah (seperti kaki yang bergoyang-goyang).
 4. **Pemulihan:** Setelah presentasi selesai dan kamu duduk kembali, kamu menarik napas panjang. Di sinilah saraf *vagus* (bagian utama sistem parasimpatik) mulai mengirim sinyal ke jantung untuk memperlambat detaknya.
 
 ### Ringkasan Perbandingan
@@ -88,7 +88,7 @@ Mari kita lihat bagaimana sistem ini bekerja dalam situasi sehari-hari:
 | **Detak Jantung** | Meningkat ($\uparrow$) | Menurun ($\downarrow$) |
 | **Pupil Mata** | Melebar | Mengecil |
 | **Pencernaan** | Terhambat | Aktif kembali |
-| **Hormon Utama** | Adrenalin & Kortisol | Asetilkolin |
+| **Zat Kimia Utama** | Adrenalin & Kortisol | Asetilkolin (neurotransmiter) |
 
 > [!TIP]
 > **Pesan Penting:** Memahami bahwa reaksi tubuh kamu adalah proses biologis otomatis dapat membantu kamu merasa lebih tenang dan terkendali. Saat jantung berdebar karena stres, ingatkan diri kamu: *"Tubuhku sedang menyiapkan energi untuk menghadapi tantangan, bukan menandakan bahaya nyata."*

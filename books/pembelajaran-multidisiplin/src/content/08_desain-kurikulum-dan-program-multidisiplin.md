@@ -14,7 +14,7 @@ Berikut adalah prinsip utama yang memandu proses ini:
 - **Integrasi Substantif**
   Upaya ini menuntut lebih dari sekadar menumpuk mata kuliah dari berbagai disiplin. Hubungan dan sintesis yang bermakna antardisiplin ilmu harus dibangun secara terarah, sehingga pemahaman yang terbentuk jauh lebih kaya dibanding jika masing-masing bidang dipelajari secara terpisah.
 
-Keseimbangan antara keluasan cakupan disiplin dan kedalaman pemahaman di setiap bidang juga harus dijaga. Kurikulum sebaiknya tidak terlalu dangkal, namun juga tidak boleh terlalu spesifik hanya pada satu area.
+Keseimbangan antara keluasan cakupan disiplin dan kedalaman pemahaman di setiap bidang juga harus dijaga. Kurikulum sebaiknya tidak terlalu dangkal, tetapi juga tidak boleh terlalu spesifik hanya pada satu area.
 
 Selain itu, fleksibilitas diperlukan untuk mengadopsi perkembangan baru dalam ilmu pengetahuan dan teknologi serta kebutuhan peserta didik yang dinamis. Semua ini hanya bisa terwujud melalui kolaborasi erat antarfakultas atau departemen, baik dalam perancangan, pengajaran, maupun evaluasi hasil belajar.
 
@@ -30,7 +30,7 @@ Pertama, tujuan tersebut harus **menekankan integrasi**. Sebagai contoh, peserta
 
 Selain itu, tujuan pembelajaran juga perlu:
 - **Mendorong Pemikiran Kritis Lintas Disiplin:** Misalnya dengan mengevaluasi teori dan metode dari berbagai disiplin untuk mengembangkan kerangka kerja analitis yang baru.
-- **Mengembangkan Keterampilan Komunikasi:** Memampukan mahasiswa untuk berkomunikasi secara efektif dengan profesional dari latar belakang disiplin yang berbeda.
+- **Mengembangkan Keterampilan Komunikasi:** Memampukan peserta didik untuk berkomunikasi secara efektif dengan profesional dari latar belakang disiplin yang berbeda.
 
 #### 2.2. Pemilihan Konten yang Relevan
 
@@ -51,7 +51,7 @@ Struktur program adalah kerangka kurikulum yang mengatur kapan dan bagaimana pes
 - **Model Mata Kuliah Inti Multidisiplin:** Menggunakan rangkaian mata kuliah wajib yang dirancang khusus untuk mengintegrasikan berbagai bidang, seperti seminar interdisipliner atau proyek berbasis masalah.
 - **Model Jalur atau Spesialisasi:** Peserta didik mempelajari dasar-dasar beberapa disiplin terlebih dahulu, kemudian memilih jalur spesialisasi yang menggabungkan dua atau lebih bidang studi.
 
-Model lainnya adalah **Pembelajaran Berbasis Proyek atau Penelitian**, di mana sebagian besar proses belajar berlangsung lewat proyek besar lintas disiplin seperti tugas akhir (proyek capstone). Selain itu, terdapat **Model Ko-Kurikuler** yang mengintegrasikan pembelajaran lewat kegiatan luar kelas seperti lokakarya, klub studi, atau program magang.
+Model lainnya adalah **Pembelajaran Berbasis Proyek atau Penelitian**, dengan sebagian besar proses belajar berlangsung lewat proyek besar lintas disiplin seperti tugas akhir (proyek capstone). Selain itu, terdapat **Model Ko-Kurikuler** yang mengintegrasikan pembelajaran lewat kegiatan luar kelas seperti lokakarya, klub studi, atau program magang.
 
 **Contoh Struktur Program Sederhana:**
 
@@ -73,7 +73,7 @@ Untuk mendukung integrasi ilmu, metode pengajaran harus memfasilitasi kerja sama
 - **Pembelajaran Berbasis Proyek (PBP):** Peserta didik mengerjakan proyek kompleks yang membutuhkan sintesis pengetahuan dan keterampilan dari berbagai bidang. Pendekatan ini merupakan salah satu cara paling efektif dalam membangun kemampuan integrasi.
 - **Pembelajaran Berbasis Masalah (PBM):** Mahasiswa dihadapkan pada masalah nyata tanpa solusi tunggal, sehingga mereka terdorong menggunakan sudut pandang lintas disiplin.
 
-Di samping itu, pengajar dapat memanfaatkan **Studi Kasus** untuk menganalisis bagaimana berbagai disiplin berinteraksi dalam situasi riil. **Seminar Kolaboratif** juga bermanfaat sebagai ruang diskusi bagi mahasiswa untuk membandingkan berbagai perspektif dengan panduan dari para ahli dari berbagai bidang. Terakhir, metode **Co-Teaching atau Team Teaching**, di mana dua atau lebih pengajar dari latar belakang berbeda berkolaborasi di kelas, bisa secara langsung mencontohkan bagaimana integrasi ilmu dipraktikkan.
+Di samping itu, pengajar dapat memanfaatkan **Studi Kasus** untuk menganalisis bagaimana berbagai disiplin berinteraksi dalam situasi riil. **Seminar Kolaboratif** juga bermanfaat sebagai ruang diskusi bagi mahasiswa untuk membandingkan berbagai perspektif dengan panduan dari para ahli dari berbagai bidang. Terakhir, metode **Co-Teaching atau Team Teaching**, yaitu dua atau lebih pengajar dari latar belakang berbeda berkolaborasi di kelas, bisa secara langsung mencontohkan bagaimana integrasi ilmu dipraktikkan.
 
 ##### 2.4.2. Metode Penilaian yang Mendukung Integrasi
 

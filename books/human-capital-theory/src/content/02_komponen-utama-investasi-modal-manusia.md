@@ -16,7 +16,7 @@ Secara ekonomi, pendidikan formal meningkatkan **produktivitas marjinal** (*marg
 
 > **Definisi Utama:** Pendidikan bukan hanya tentang mengisi tempat penampungan informasi, melainkan membangun kemampuan produktif yang dipakai sepanjang masa kerja seseorang.
 
-**Analogi:** Pendidikan formal ibarat membangun **pondasi gedung pencakar langit**. Semakin dalam dan kuat pondasinya (tingkat pendidikan), semakin tinggi struktur yang bisa dibangun di atasnya (karir dan pendapatan) tanpa risiko runtuh.
+**Analogi:** Pendidikan formal ibarat membangun **fondasi gedung pencakar langit**. Semakin dalam dan kuat fondasinya (tingkat pendidikan), semakin tinggi struktur yang bisa dibangun di atasnya (karier dan pendapatan) tanpa risiko runtuh.
 
 **Poin Penting dalam Pendidikan Formal:**
 
@@ -32,7 +32,7 @@ Jika pendidikan formal memberikan kerangka teori dan pengetahuan umum, **pelatih
 
 #### Mengasah Keterampilan Spesifik
 
-Seorang lulusan teknik mesin memahami teori termodinamika dari pendidikan perguruan tinggi, namun ia memerlukan pelatihan khusus untuk mengoperasikan mesin CNC tertentu di pabrik otomotif.
+Seorang lulusan teknik mesin memahami teori termodinamika dari pendidikan perguruan tinggi, tetapi ia memerlukan pelatihan khusus untuk mengoperasikan mesin CNC tertentu di pabrik otomotif.
 
 Pernahkah kamu merasa bahwa pengetahuan akademis di sekolah atau kampus terasa berbeda dari tuntutan tugas harian di kantor? Celah praktis inilah yang diisi oleh pelatihan di tempat kerja.
 
@@ -78,13 +78,13 @@ Dalam analisis Teori Modal Manusia, **migrasi tenaga kerja** (*Labor Migration*)
 
 #### Geografi dan Penilaian Nilai Ekonomi
 
-Lokasi geografis berpengaruh langsung terhadap imbal hasil keterampilan. Seseorang yang memiliki keahlian tinggi sebagai pengembang perangkat lunak (*software engineer*), namun tinggal di wilayah tanpa infrastruktur internet atau industri teknologi, akan mendapati modal manusianya terperangkap dan diharga di bawah potensi sebenarnya.
+Lokasi geografis berpengaruh langsung terhadap imbal hasil keterampilan. Seseorang yang memiliki keahlian tinggi sebagai pengembang perangkat lunak (*software engineer*), tetapi tinggal di wilayah tanpa infrastruktur internet atau industri teknologi, akan mendapati modal manusianya terperangkap dan dihargai di bawah potensi sebenarnya.
 
 **Struktur Biaya dan Manfaat Migrasi:**
 
 - **Biaya Langsung (*Direct Costs*):** Tiket transportasi, biaya pengangkutan barang, dan akomodasi relokasi.
 - **Biaya Psikologis (*Psychic Costs*):** Dampak emosional akibat berpisah dari keluarga, teman, serta lingkungan budaya lama.
-- **Manfaat Ekonomi (*Economic Benefits*):** Diferensiasi tingkat upah ($W$) di lokasi baru dibandingkan lokasi lama.
+- **Manfaat Ekonomi (*Economic Benefits*):** Selisih tingkat upah ($W$) di lokasi baru dibandingkan lokasi lama.
 
 Persamaan nilai bersih investasi migrasi (*Net Present Value of Migration*):
 
@@ -145,8 +145,8 @@ Berdasarkan perhitungan tersebut, modal investasi dapat kembali (*Break-Even Poi
 | Komponen Investasi | Bentuk & Mekanisme | Output Utama | Implikasi Ekonomis |
 | :--- | :--- | :--- | :--- |
 | **Pendidikan Formal** | Sekolah dasar hingga perguruan tinggi (*Higher Education*) | Keterampilan kognitif dasar, penalaran analitis, dan gelar akademik | Meningkatkan produktivitas marjinal dan memberikan sinyal (*Signaling*) ke pasar kerja |
-| **Pelatihan Kerja (*On-the-Job Training*)** | Kursus teknis, magang, dan sertifikasi spesialis | Keahlian praktis spesifik (*Firm-Specific*) dan ketrampilan terapan | Memangkas durasi pengerjaan, meningkatkan efisiensi operasional, serta adaptasi teknologi |
-| **Perawatan Kesehatan (*Health Capital*)** | Nutrisi seimbang, pola hidup aktif, dan keperawatan medis | Ketahanan fisik, vitalitas mental, dan masa hidup produktif | Meminimalkan rate depresiasi modal manusia ($\delta$) serta menekan *absenteeism* |
+| **Pelatihan Kerja (*On-the-Job Training*)** | Kursus teknis, magang, dan sertifikasi spesialis | Keahlian praktis spesifik (*Firm-Specific*) dan keterampilan terapan | Memangkas durasi pengerjaan, meningkatkan efisiensi operasional, serta adaptasi teknologi |
+| **Perawatan Kesehatan (*Health Capital*)** | Nutrisi seimbang, pola hidup aktif, dan layanan medis | Ketahanan fisik, vitalitas mental, dan masa hidup produktif | Menahan dampak laju depresiasi modal manusia ($\delta$) serta menekan *absenteeism* |
 | **Migrasi Tenaga Kerja (*Labor Migration*)** | Relokasi geografis ke wilayah industri atau pusat pertumbuhan | Mobilitas spasial dan alokasi pasar kerja optimal | Memaksimalkan nilai imbal hasil upah ($\text{Net Gain} > 0$) sesuai kapasitas penuh |
 
 ---
@@ -156,7 +156,7 @@ Berdasarkan perhitungan tersebut, modal investasi dapat kembali (*Break-Even Poi
 - **Pendidikan Formal:** Membangun kerangka berpikir analitis dan fondasi kognitif jangka panjang.
 - **Pelatihan Teknis:** Mempertajam spesialisasi dan adaptabilitas terhadap dinamika industri.
 - **Perawatan Kesehatan:** Menjaga kebugaran fisik dan mental guna menahan laju depresiasi kemampuan kerja.
-- **Migrasi Geografis:** Memastikan aset modal manusia ditempatkan pada pasar kerja yang memberikan imbalan paling optimal.
+- **Migrasi Tenaga Kerja:** Memastikan aset modal manusia ditempatkan pada pasar kerja yang memberikan imbalan paling optimal.
 
 > **Catatan Sintesis:** Investasi modal manusia bersifat akumulatif dan saling melengkapi. Pendidikan dasar yang solid mempermudah penyerapan pelatihan teknis; fisik yang bugar memperpanjang periode imbal hasil investasi pendidikan; serta kesediaan pindah lokasi memastikan seluruh akumulasi modal tersebut memperoleh imbalan (*Rate of Return*) maksimal di pasar kerja.
 

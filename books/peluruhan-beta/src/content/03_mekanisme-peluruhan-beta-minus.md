@@ -1,6 +1,6 @@
 ## Mekanisme Peluruhan Beta Minus (β−)
 
-Pernahkah terbayang sebuah atom yang tiba-tiba berubah identitasnya? Dalam dunia fisika nuklir, ini bukan sekadar imajinasi. Peluruhan Beta Minus ($\beta^-$) adalah proses di mana sebuah inti atom melakukan transmutasi untuk mencapai kestabilan.
+Pernahkah terbayang sebuah atom yang tiba-tiba berubah identitasnya? Dalam dunia fisika nuklir, ini bukan sekadar imajinasi. Peluruhan Beta Minus ($\beta^-$) adalah proses ketika sebuah inti atom melakukan transmutasi untuk mencapai kestabilan.
 
 Mari kita lihat bagaimana sebuah neutron yang tampak tenang di dalam inti atom bisa berubah menjadi proton dan memancarkan partikel berenergi tinggi.
 
@@ -32,7 +32,7 @@ Dalam peluruhan $\beta^-$, satu quark **down** di dalam neutron berubah menjadi 
 
 Secara matematis, proses dasar ini dapat dituliskan sebagai: $n \rightarrow p + e^- + \bar{\nu}_e$
 
-Di mana:
+Dengan:
 
 - $n$ adalah neutron
 - $p$ adalah proton
@@ -49,13 +49,13 @@ $$
 $$
 </div>
 
-*Latihan Konseptual: Apabila sebuah atom Karbon ($Z = 6$) mengalami peluruhan beta minus, unsur apakah yang terbentuk dari proses transmutasi ini? (Petunjuk: Periksa nomor atom $Z = 7$ pada tabel periodik).*
+*Latihan Konseptual: Apabila sebuah atom karbon ($Z = 6$) mengalami peluruhan beta minus, unsur apakah yang terbentuk dari proses transmutasi ini? (Petunjuk: Periksa nomor atom $Z = 7$ pada tabel periodik).*
 
 ## Mengapa Antineutrino Harus Ada?
 
 Sebelum tahun 1930-an, para ilmuwan bingung karena energi yang dilepaskan dalam peluruhan beta tampak hilang (tidak sesuai dengan hukum kekekalan energi). Wolfgang Pauli kemudian mengusulkan keberadaan partikel ketiga yang membawa sisa energi tersebut.
 
-Partikel ini disebut **Antineutrino**. Ia tidak membawa muatan listrik dan memiliki massa yang sangat kecil sehingga bisa menembus bumi tanpa menabrak satu atom pun! Inilah alasan mengapa partikel beta (elektron) yang kita deteksi memiliki spektrum energi yang bervariasi, bukan satu angka tetap.
+Partikel ini disebut **antineutrino**. Ia tidak membawa muatan listrik dan memiliki massa yang sangat kecil sehingga hampir selalu bisa menembus bumi tanpa menabrak satu atom pun! Inilah alasan mengapa partikel beta (elektron) yang kita deteksi memiliki spektrum energi yang bervariasi, bukan satu angka tetap.
 
 ## Peluruhan Karbon-14
 
@@ -70,7 +70,7 @@ $$
 1. **Induk**: Karbon-14 memiliki 6 proton dan 8 neutron (tidak stabil).
 2. **Proses**: Satu neutron berubah menjadi proton.
 3. **Anak**: Menjadi Nitrogen-14 (7 proton, 7 neutron) yang stabil.
-4. **Hasil samping**: Sebuah elektron terpental keluar dengan kecepatan mendekati kecepatan cahaya.
+4. **Hasil samping**: Sebuah elektron terpental keluar dengan kecepatan sangat tinggi.
 
 ## Kegunaan Peluruhan Beta Minus
 
@@ -78,7 +78,7 @@ Mekanisme peluruhan $\beta^-$ bukan sekadar teori fisika; ia memiliki kegunaan p
 
 - **Penanggalan Radiokarbon**: Mengukur sisa Karbon-14 pada fosil atau artefak kayu untuk menentukan usia mereka hingga puluhan ribu tahun.
 - **Pengukur Ketebalan Industri**: Partikel beta digunakan di pabrik kertas atau plastik. Sensor mendeteksi berapa banyak elektron yang bisa menembus lembaran; jika terlalu sedikit yang lolos, berarti lembaran tersebut terlalu tebal.
-- **Terapi Medis (Brachytherapy)**: Isotop pemancar beta seperti Strontium-90 digunakan untuk mengobati kanker tertentu atau mencegah pertumbuhan jaringan yang tidak diinginkan setelah operasi jantung.
+- **Terapi Medis (Brakiterapi)**: Isotop pemancar beta seperti Strontium-90 digunakan untuk mengobati kanker tertentu atau mencegah pertumbuhan jaringan yang tidak diinginkan setelah pemasangan ring jantung (stent).
 
 ## Ringkasan Singkat
 

@@ -1,6 +1,6 @@
 ## Representasi Permainan lewat Matriks dan Pohon
 
-Dalam Teori Permainan, cara kita menyajikan sebuah masalah menentukan seberapa mudah kita dapat menyelesaikannya. Bayangkan kamu sedang mencoba menjelaskan strategi bisnis yang kompleks atau taktik dalam sebuah olahraga. Jika kamu menjelaskannya hanya dengan kata-kata, risiko terjadinya salah paham besar.
+Dalam Teori Permainan, cara kita menyajikan sebuah masalah menentukan seberapa mudah kita dapat menyelesaikannya. Bayangkan kamu sedang mencoba menjelaskan strategi bisnis yang kompleks atau taktik dalam sebuah olahraga. Jika kamu menjelaskannya hanya dengan kata-kata, risiko terjadinya salah paham menjadi besar.
 
 Representasi visual dan matematis berfungsi sebagai "cetak biru" yang mengubah narasi interaksi sosial atau ekonomi menjadi model yang dapat dihitung dan dianalisis. Terdapat dua format utama yang digunakan oleh para pakar: **Bentuk Normal (Matriks)** dan **Bentuk Ekstensif (Pohon)**.
 
@@ -18,7 +18,7 @@ Sebuah permainan dalam bentuk normal terdiri dari tiga elemen dasar ($N, S, P$):
 
 ### Matriks Payoff
 
-Dalam permainan dua pemain, kita menggunakan tabel (bi-matriks). Pemain 1 biasanya ditempatkan di baris (Row Player), dan Pemain 2 ditempatkan di kolom (Column Player).
+Dalam permainan dua pemain, kita menggunakan tabel (bimatriks). Pemain 1 biasanya ditempatkan di baris (Row Player), dan Pemain 2 ditempatkan di kolom (Column Player).
 
 **Permainan Koordinasi (Battle of the Sexes)** Dua orang ingin bertemu, pilihannya adalah menonton Pertunjukan A atau Pertunjukan B. Mereka lebih suka bersama daripada sendiri.
 
@@ -31,13 +31,13 @@ Dalam permainan dua pemain, kita menggunakan tabel (bi-matriks). Pemain 1 biasan
 
 ## 2. Bentuk Ekstensif (Extensive Form)
 
-Bentuk Ekstensif menggunakan diagram **Pohon Permainan (Game Tree)**. Representasi ini jauh lebih kuat untuk menggambarkan **permainan sekuensial**, di mana pemain bergerak secara bergantian dan dapat melihat (atau tidak melihat) langkah sebelumnya.
+Bentuk Ekstensif menggunakan diagram **Pohon Permainan (Game Tree)**. Representasi ini jauh lebih kuat untuk menggambarkan **permainan sekuensial**, ketika pemain bergerak secara bergantian dan dapat melihat (atau tidak melihat) langkah sebelumnya.
 
 ### Komponen Utama
 
-- **Simpul (Nodes):** Titik di mana seorang pemain harus membuat keputusan.
+- **Simpul (Nodes):** Titik tempat seorang pemain harus membuat keputusan.
 - **Cabang (Edges/Branches):** Mewakili tindakan atau pilihan yang diambil.
-- **Simpul Terminal (Terminal Nodes):** Titik akhir permainan di mana hasil (payoff) diberikan.
+- **Simpul Terminal (Terminal Nodes):** Titik akhir permainan tempat hasil (payoff) diberikan.
 - **Himpunan Informasi (Information Sets):** Menunjukkan apakah pemain mengetahui posisi mereka saat ini di dalam pohon tersebut.
 
 ### Keunggulan Bentuk Ekstensif
@@ -53,7 +53,7 @@ Bentuk ini memungkinkan kita memodelkan konsep waktu dan informasi:
 
 ## 3. Kapan Menggunakan Matriks vs. Pohon?
 
-Meskipun setiap permainan bentuk ekstensif dapat dikonversi menjadi bentuk normal, namun tidak selalu efisien untuk dilakukan.
+Meskipun setiap permainan bentuk ekstensif dapat dikonversi menjadi bentuk normal, konversi itu tidak selalu efisien untuk dilakukan.
 
 | Karakteristik | Bentuk Normal (Matriks) | Bentuk Ekstensif (Pohon) |
 | --- | --- | --- |
@@ -69,7 +69,7 @@ Bayangkan sebuah skenario bisnis: **Perusahaan A** (Pendatang Baru) memutuskan a
 1. **Jika A Masuk:** Perusahaan B bisa memilih untuk "Bertarung" (perang harga) atau "Akomodasi".
 2. **Jika A Tetap Keluar:** Perusahaan B tetap menjadi monopoli.
 
-**Dalam Bentuk Ekstensif:** Awalnya ada satu titik (Perusahaan A). Dua cabang keluar: "Masuk" dan "Tetap Keluar". Jika "Masuk", muncul titik baru (Perusahaan B) dengan dua cabang: "Bertarung" atau "Akomodasi".
+**Dalam Bentuk Ekstensif:** Awalnya ada satu simpul keputusan (Perusahaan A). Dua cabang keluar: "Masuk" dan "Tetap Keluar". Jika "Masuk", muncul simpul baru (Perusahaan B) dengan dua cabang: "Bertarung" atau "Akomodasi".
 
 **Dalam Bentuk Normal:** Kita bisa memodelkannya sebagai matriks, tetapi kita akan kehilangan nuansa bahwa Perusahaan B baru bertindak *setelah* melihat langkah Perusahaan A.
 
@@ -82,4 +82,4 @@ Bayangkan sebuah skenario bisnis: **Perusahaan A** (Pendatang Baru) memutuskan a
 
 > **Poin Penting:** Meskipun visualisasinya berbeda, tujuan akhirnya sama: memetakan setiap kemungkinan pilihan ke sebuah nilai hasil tertentu sehingga kita dapat memprediksi perilaku manusia atau sistem secara rasional.
 
-**Langkah Selanjutnya:** Setelah memahami bagaimana sebuah permainan "digambar", pada bagian selanjutnya kita akan mempelajari bagaimana pemain memilih strategi terbaik mereka melalui konsep **Strategi Dominan**, di mana kita mulai mencari tahu siapa yang akan menang dan mengapa.
+**Langkah Selanjutnya:** Setelah memahami bagaimana sebuah permainan "digambar", pada bagian selanjutnya kita akan mempelajari bagaimana pemain memilih strategi terbaik mereka melalui konsep **Strategi Dominan**, ketika kita mulai mencari tahu siapa yang akan menang dan mengapa.

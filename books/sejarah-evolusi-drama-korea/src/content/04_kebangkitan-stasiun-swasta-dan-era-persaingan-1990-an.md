@@ -1,10 +1,10 @@
 ## Kebangkitan Stasiun Swasta dan Era Persaingan (1990-an)
 
-Pada 1990-an, lahirnya stasiun swasta pertama memicu persaingan rating yang mengubah cara drama Korea diproduksi. Jika tahun 1970-an dan 1980-an adalah masa pertumbuhan, maka **tahun 1990-an adalah masa ketika industri televisi Korea Selatan berkembang cepat**. Ini adalah periode ketika K-Drama mulai bertransformasi dari hiburan layar kaca domestik menjadi produk industri yang kompetitif, provokatif, dan berani secara estetika.
+Pada 1990-an, lahirnya stasiun swasta memicu persaingan rating yang mengubah cara drama Korea diproduksi. Jika tahun 1970-an dan 1980-an adalah masa pertumbuhan, maka **tahun 1990-an adalah masa ketika industri televisi Korea Selatan berkembang cepat**. Ini adalah periode ketika K-Drama mulai bertransformasi dari hiburan layar kaca domestik menjadi produk industri yang kompetitif, provokatif, dan berani secara estetika.
 
 ### 1. Munculnya SBS dan Runtuhnya Duopoli
 
-Hingga akhir 1980-an, pemirsa Korea Selatan hanya memiliki dua pilihan utama: **KBS** (milik pemerintah) dan **MBC** (semi-publik). Namun, pada tahun 1990 (siaran dimulai penuh tahun 1991), lahirlah **SBS (Seoul Broadcasting System)** sebagai stasiun televisi swasta komersial pertama.
+Hingga akhir 1980-an, pemirsa Korea Selatan hanya memiliki dua pilihan utama: **KBS** (milik pemerintah) dan **MBC** (semi-publik). Namun, pada tahun 1990 (siaran dimulai penuh tahun 1991), lahirlah **SBS (Seoul Broadcasting System)** sebagai stasiun televisi swasta komersial.
 
 **Apa dampaknya?**
 
@@ -22,7 +22,7 @@ Jika kita harus menunjuk satu drama yang mendefinisikan era 90-an, jawabannya ad
 
 1. **Keberanian Politik:** Untuk pertama kalinya, cuplikan nyata dan dramatisasi **Pembantaian Gwangju 1980** ditampilkan secara berani di layar kaca, padahal topik ini sensitif dan tabu selama rezim militer sebelumnya.
 2. **Skala produksi besar** pada zamannya, yang menghasilkan kualitas sinematografi setara film bioskop.
-3. **Dampak sosialnya** terlihat dari raihan rating yang menyentuh **64.5%**. Muncul seloroh populer kala itu bahwa jalanan Seoul mendadak lengang karena semua orang bergegas pulang untuk menonton kelanjutan kisahnya.
+3. **Dampak sosialnya** terlihat dari raihan rating yang menyentuh **64,5%**. Muncul seloroh populer kala itu bahwa jalanan Seoul mendadak lengang karena semua orang bergegas pulang untuk menonton kelanjutan kisahnya.
 
 Fenomena saat seluruh negeri seolah berhenti beraktivitas demi menyaksikan drama ini menegaskan bahwa *Sandglass* telah tumbuh melampaui fungsi hiburan biasa dan menjadi cermin sejarah bagi bangsanya.
 
@@ -36,7 +36,7 @@ Selain drama sejarah yang berat, 1990-an juga melahirkan tren **"Urban Trendy Dr
 
 ### 4. Perubahan Teknis dan Estetika
 
-Persaingan antar stasiun TV memicu kemajuan teknis yang nyata dalam produksi:
+Persaingan antarstasiun TV memicu kemajuan teknis yang nyata dalam produksi:
 
 | Aspek | Era Sebelumnya (1980-an) | Era Persaingan (1990-an) |
 | --- | --- | --- |
@@ -53,7 +53,7 @@ Memahami era 1990-an membantu kita menghargai standar tinggi K-Drama saat ini. T
 
 ### Ringkasan Poin Penting
 
-- Kehadiran stasiun swasta **SBS** meruntuhkan monopoli televisi publik dan memicu persaingan komersial yang sengit.
+- Kehadiran stasiun swasta **SBS** meruntuhkan duopoli televisi publik dan memicu persaingan komersial yang sengit.
 - Lewat penayangan **Sandglass (1995)**, drama terbukti mampu menjadi sarana kritik sosial dan pemulihan trauma sejarah.
 - **Urban Trendy Drama** merefleksikan keinginan generasi muda Korea untuk hidup secara modern dan bebas.
 - **Peningkatan aspek teknis** terlihat dari peralihan syuting studio ke lokasi luar ruangan, investasi pada lagu tema (OST), serta sinematografi berkualitas sinema.

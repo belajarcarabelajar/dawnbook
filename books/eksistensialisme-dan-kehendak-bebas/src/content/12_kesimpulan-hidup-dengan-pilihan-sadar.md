@@ -8,7 +8,7 @@ Eksistensialisme hadir sebagai filsafat pembebasan yang mengonversi disorientasi
 
 - **Eksistensi Mendahului Esensi (*Jean-Paul Sartre*):** Manusia tidak dibekali cetak biru kodrati bawaan; identitas dan makna hidup dibentuk secara berkelanjutan melalui kumulasi tindakan nyata.
 - **Pemberontakan terhadap Absurditas (*Albert Camus*):** Ketiadaan makna objektif dari alam semesta direspons bukan dengan keputusasaan bunuh diri, melainkan dengan afirmasi hidup dan perlawanan sadar.
-- **Penaklukkan Diri dan Transvaluasi Nilai (*Friedrich Nietzsche*):** Keberanian untuk membongkar moralitas konvensional yang melemahkan daya hidup menuju penciptaan nilai-nilai baru yang mengafirmasi eksistensi (*Amor Fati*).
+- **Penaklukan Diri dan Transvaluasi Nilai (*Friedrich Nietzsche*):** Keberanian untuk membongkar moralitas konvensional yang melemahkan daya hidup menuju penciptaan nilai-nilai baru yang mengafirmasi eksistensi (*Amor Fati*).
 - **Kecemasan sebagai Kompas Kebebasan (*Søren Kierkegaard*):** Pengakuan bahwa kecemasan eksistensial (*Angst*) adalah bukti ontologis atas luasnya ruang kemungkinan yang terbuka bagi kehendak bebas.
 
 ### 2. Empat Gagasan dan Tokohnya
@@ -17,7 +17,7 @@ Eksistensialisme hadir sebagai filsafat pembebasan yang mengonversi disorientasi
 | :--- | :--- | :--- | :--- |
 | **Primasi Eksistensi** | Jean-Paul Sartre | Ketiadaan esensi bawaan | Mendefinisikan jati diri melalui aksi konkret |
 | **Pemberontakan Absurd** | Albert Camus | Ketegangan hasrat dan realitas | Merayakan eksistensi di tengah ketidakpastian |
-| **Kehendak Berkuasa** | Friedrich Nietzsche | Penaklukkan kelemahan internal | Menciptakan nilai moral secara otonom |
+| **Kehendak Berkuasa** | Friedrich Nietzsche | Penaklukan kelemahan internal | Menciptakan nilai moral secara otonom |
 | **Kecemasan (*Angst*)** | Søren Kierkegaard | Kesadaran akan kemungkinan | Menjadikan kecemasan sebagai katalis keputusan |
 
 ### 3. Merangkul Kebebasan Meski Cemas

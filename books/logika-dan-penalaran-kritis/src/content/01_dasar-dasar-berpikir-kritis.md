@@ -6,7 +6,7 @@ Langkah pertama untuk mengasah ketajaman pikiran kamu adalah memahami apa sebena
 
 Sering kali, orang salah mengira bahwa "berpikir kritis" berarti "suka mengkritik" atau mencari kesalahan orang lain. Padahal, maknanya berbeda.
 
-Berpikir kritis adalah proses intelektual yang aktif dan disiplin untuk mengonsep, menerapkan, menganalisis, mensintesis, serta mengevaluasi informasi. Informasi ini bisa diperoleh dari pengamatan, pengalaman, refleksi, penalaran, atau komunikasi, yang kemudian menjadi panduan untuk menentukan keyakinan dan tindakan.
+Berpikir kritis adalah proses intelektual yang aktif dan disiplin untuk mengonsep, menerapkan, menganalisis, menyintesis, serta mengevaluasi informasi. Informasi ini bisa diperoleh dari pengamatan, pengalaman, refleksi, penalaran, atau komunikasi, yang kemudian menjadi panduan untuk menentukan keyakinan dan tindakan.
 
 > **Esensi:** Berpikir kritis adalah kegiatan "berpikir tentang cara kita berpikir" (*metakognisi*). Tujuannya adalah memperbaiki kualitas pemikiran agar lebih jernih, akurat, dan berlandaskan bukti.
 
@@ -53,7 +53,7 @@ Skeptis bukan berarti menolak percaya pada apa pun, melainkan menunda penilaian 
 
 ### 5. Ketelitian dan Akurasi
 
-Pemikir kritis selalu menghindari generalisasi yang bias. Alih-alih langsung menyimpulkan "semua orang membenci aturan ini," mereka akan bertanya secara terperinci, "siapa saja yang berkeberatan? Berapa persentase dari total kelompok tersebut?"
+Pemikir kritis selalu menghindari generalisasi yang bias. Alih-alih langsung menyimpulkan "semua orang membenci aturan ini," mereka akan bertanya secara terperinci, "Siapa saja yang berkeberatan? Berapa persentase dari total kelompok tersebut?"
 
 ## Penerapan Nyata di Media Sosial
 

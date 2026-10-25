@@ -1,6 +1,6 @@
 ## Apa itu Tonsilektomi?
 
-Pernahkah kamu membayangkan prosedur medis yang sudah ribuan tahun dilakukan manusia, namun tetap termasuk operasi paling umum di dunia medis modern? Itulah **Tonsilektomi**.
+Pernahkah kamu membayangkan prosedur medis yang sudah ribuan tahun dilakukan manusia, tetapi tetap termasuk operasi paling umum di dunia medis modern? Itulah **Tonsilektomi**.
 
 Secara harfiah, Tonsilektomi berasal dari dua kata: *"Tonsil"* (amandel) dan *"Ektomi"* (pembuangan/pengangkatan). Dalam dunia medis, ini adalah prosedur pembedahan untuk mengangkat sepasang jaringan limfoid yang terletak di belakang tenggorokanmu.
 
@@ -20,11 +20,11 @@ Tonsilektomi punya sejarah yang panjang. Teknik yang kita gunakan hari ini jauh 
 
 Catatan pertama mengenai tonsilektomi ditemukan dalam literatur Hindu sekitar tahun 1000 SM. Namun, deskripsi paling terkenal berasal dari **Cornelius Celsus** pada tahun 50 M di Romawi.
 
-Pada masa kuno tersebut, amandel dipisahkan dari jaringan sekitarnya menggunakan kuku jari tangan atau pengait besi sebelum akhirnya dipotong. Tanpa adanya pembiusan (anestesi) serta alat pembeku darah yang memadai, tindakan ini menjadi prosedur dengan risiko pendarahan sangat tinggi.
+Pada masa kuno tersebut, amandel dipisahkan dari jaringan sekitarnya menggunakan kuku jari tangan atau pengait besi sebelum akhirnya dipotong. Tanpa adanya pembiusan (anestesi) serta alat pembeku darah yang memadai, tindakan ini menjadi prosedur dengan risiko perdarahan sangat tinggi.
 
 ### 2. Era Abad Pertengahan hingga Abad ke-19
 
-Muncul alat yang disebut *Tonsillotome* or *Guillotine* amandel. Alat ini bekerja mirip alat pemotong cerutu yang menjepit dan memotong amandel dalam waktu singkat. Walaupun durasi tindakan menjadi lebih cepat, risiko pendarahan pascaoperasi tetap saja tinggi.
+Muncul alat yang disebut *Tonsillotome* atau *Guillotine* amandel. Alat ini bekerja mirip alat pemotong cerutu yang menjepit dan memotong amandel dalam waktu singkat. Walaupun durasi tindakan menjadi lebih cepat, risiko perdarahan pascaoperasi tetap saja tinggi.
 
 ### 3. Era Modern
 
@@ -32,7 +32,7 @@ Memasuki abad ke-20 dan ke-21, fokus pembedahan bergeser dari sekadar mengangkat
 
 Beberapa metode modern yang sering digunakan antara lain:
 - **Metode Pisau Dingin (Cold Knife):** Teknik klasik menggunakan pisau bedah baja standar. Metode ini masih menjadi pilihan utama karena tidak menghasilkan panas, sehingga jaringan di sekitar amandel bebas dari kerusakan termal.
-- **Elektrokauter (Hot Dissection):** Teknik ini menggunakan energi panas untuk memotong amandel sekaligus menyumbat pembuluh darah guna mencegah pendarahan.
+- **Elektrokauter (Hot Dissection):** Teknik ini menggunakan energi panas untuk memotong amandel sekaligus menyumbat pembuluh darah guna mencegah perdarahan.
 - **Coblation (Cold Ablation) yang lebih modern:** Teknologi radiofrekuensi ini memutus ikatan molekul jaringan pada suhu rendah, berkisar antara $40^\circ \text{C}$ hingga $70^\circ \text{C}$, guna memperingan rasa nyeri pascaoperasi jika dibandingkan dengan pembedahan panas konvensional.
 
 ## Mengapa Prosedur Ini Penting?
@@ -47,17 +47,17 @@ Dalam praktik klinis, tonsilektomi sering kali merupakan solusi akhir untuk masa
 | --- | --- | --- |
 | **Anestesi** | Tidak ada/alkohol | Anestesi Umum (Pasien tertidur total) |
 | **Alat** | Jari atau pengait besi | Plasma/Radiofrekuensi |
-| **Kontrol Pendarahan** | Cuka atau tekanan manual | Kauterisasi instan |
+| **Kontrol Perdarahan** | Cuka atau tekanan manual | Kauterisasi instan |
 | **Masa Pemulihan** | Sangat lama & berisiko infeksi | 7-14 hari dengan manajemen nyeri |
 
-Sebagai bagian dari sistem pertahanan tubuh, pengangkatan amandel tidak akan melumpuhkan kekebalan tubuhmu. Tubuh masih memiliki ratusan kelenjar getah bening serta jaringan limfoid lain di area tenggorokan (seperti adenoid dan tonsil lingual) yang tetap aktif menjaga sistem imun.
+Karena amandel hanyalah sebagian dari sistem pertahanan tubuh, pengangkatannya tidak akan melumpuhkan kekebalan tubuhmu. Tubuh masih memiliki ratusan kelenjar getah bening serta jaringan limfoid lain di area tenggorokan (seperti adenoid dan tonsil lingual) yang tetap aktif menjaga sistem imun.
 
 ## Komponen Utama dalam Prosedur Tonsilektomi
 
 Meskipun detail teknis akan dibahas pada bagian selanjutnya, secara umum tonsilektomi melibatkan tiga komponen utama:
 
 - **Akses:** Dokter akan membuka mulut pasien lebar-lebar dengan bantuan alat penahan khusus (retraktor), tanpa menyisakan luka sayatan di bagian luar leher atau wajah.
-- **Diseksi:** Langkah pemisahan amandel dari selaput pembungkus (kapsul) yang menempel erat pada otot tenggorokan.
-- **Hemostasis:** Proses menghentikan pendarahan di area bekas amandel. Bagian ini penting karena daerah tenggorokan memiliki banyak sekali pembuluh darah.
+- **Diseksi:** Langkah pemisahan amandel beserta selaput pembungkusnya (kapsul) dari otot tenggorokan tempatnya menempel.
+- **Hemostasis:** Proses menghentikan perdarahan di area bekas amandel. Bagian ini penting karena daerah tenggorokan memiliki banyak sekali pembuluh darah.
 
 > **Pesan Penting:** Meskipun tonsilektomi adalah prosedur rutin, ia tetaplah sebuah tindakan bedah mayor yang memerlukan keahlian dokter spesialis Telinga, Hidung, dan Tenggorok (THT). Kemajuan teknik medis saat ini bertujuan utama untuk meminimalkan rasa nyeri dan mempercepat proses pemulihan hingga kamu bisa kembali menikmati makanan favorit setelah operasi.

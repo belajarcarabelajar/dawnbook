@@ -18,7 +18,7 @@ Bayangkan seorang kakak yang ingin adiknya membereskan kamar. Ia bisa mengancam,
 
 Di artikel tahun 1990 itu, Jepang tidak tampil sebagai contoh sukses. Nye menilai *soft power* Jepang terbatas karena budayanya berorientasi ke dalam. Ekonominya besar, tetapi budayanya belum cukup keluar untuk memikat orang di negeri lain.
 
-Penilaian itu layak kamu bawa sepanjang buku ini. Daya tarik budaya bukan sifat bawaan sebuah bangsa. Ia bisa tumbuh, bisa juga tertahan, tergantung seberapa jauh budaya itu mau keluar dan dipakai orang lain.
+Penilaian itu layak kamu bawa sepanjang buku ini. Daya tarik budaya bukan sifat bawaan sebuah bangsa. Ia bisa tumbuh, bisa juga tertahan, bergantung pada seberapa jauh budaya itu mau keluar dan dipakai orang lain.
 
 ### Gross National Cool Versi McGray
 
@@ -42,6 +42,6 @@ Negeri yang dulu dinilai Nye kurang memikat secara budaya kini menjual cerita da
 
 ### Intisari
 
-Tiga suara membingkai buku ini. Nye memberi nama pada kekuatan yang bekerja lewat daya tarik, lalu pada 1990 meragukan Jepang mampu memakainya karena budayanya menghadap ke dalam. McGray, dua belas tahun kemudian, melihat adidaya budaya yang tumbuh di tengah ekonomi yang lesu. Iwabuchi mengingatkan bahwa semua itu berakar pada diplomasi pascaperang di Asia Tenggara dan masih berjalan satu arah. Angka hari ini menunjukkan seberapa jauh perubahannya: lebih dari separuh pasar anime datang dari luar negeri, dan ekspor konten sudah melampaui semikonduktor.
+Tiga suara membingkai buku ini. Nye memberi nama pada kekuatan yang bekerja lewat daya tarik, lalu pada 1990 meragukan Jepang mampu memakainya karena budayanya menghadap ke dalam. McGray, dua belas tahun kemudian, melihat adidaya budaya yang tumbuh di tengah ekonomi yang lesu. Iwabuchi mengingatkan bahwa semua itu berakar pada diplomasi pascaperang di Asia Tenggara dan masih berjalan satu arah. Angka hari ini menunjukkan seberapa jauh perubahannya: lebih dari separuh pasar anime datang dari luar negeri, dan pasar luar negeri untuk konten sudah melampaui ekspor semikonduktor.
 
 Jalan anime sendiri bermula dari sesuatu yang jauh lebih kecil, yaitu serial televisi berdurasi setengah jam tentang seorang bocah robot.

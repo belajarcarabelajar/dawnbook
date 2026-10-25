@@ -1,6 +1,6 @@
 ## Diplomasi Pop Kementerian Luar Negeri
 
-Pada 19 Maret 2008, di kantor Kementerian Luar Negeri Jepang, seekor kucing robot biru menerima jabatan yang terdengar ganjil bagi diplomat mana pun. Jabatannya Duta Anime, yang melantiknya Menteri Luar Negeri Masahiko Koumura, dan kucing itu tentu saja Doraemon.
+Pada 19 Maret 2008, di kantor Kementerian Luar Negeri Jepang, seekor kucing robot biru menerima jabatan yang terdengar ganjil bagi diplomat mana pun. Jabatannya Duta Anime, pelantiknya Menteri Luar Negeri Masahiko Koumura, dan kucing itu tentu saja Doraemon.
 
 Kementerian yang sehari-hari mengurus kedutaan dan perundingan tidak sampai ke titik itu dalam semalam. Jalannya bisa kamu telusuri mundur sampai ke sebuah pidato dua tahun sebelumnya, dan di ujungnya menunggu kritik akademis yang patut didengar.
 
@@ -22,7 +22,7 @@ Yang membuatnya unik adalah penyelenggaranya. Hadiah ini tidak diurus penerbit, 
 
 ### Doraemon Diangkat Jadi Duta Anime
 
-Usulan kedua berbelok di tengah jalan. Ketika Koumura melantik Doraemon sebagai *Anime Ambassador* pada 2008, sebuah peristiwa yang tercatat dalam siaran pers kementerian dan Buku Biru Diplomatik 2009, yang diangkat bukan seniman muda seperti gagasan Aso, melainkan tokoh kartun.
+Usulan kedua berbelok di tengah jalan. Ketika Koumura melantik Doraemon sebagai Duta Anime pada 2008, yang diangkat bukan seniman muda seperti gagasan Aso, melainkan tokoh kartun. Peristiwa itu tercatat dalam siaran pers kementerian dan Buku Biru Diplomatik 2009.
 
 Pilihan itu sejalan dengan pidato Aso, yang sudah menyebut Doraemon sebagai tokoh yang membuat robot terasa bersahabat. Tokoh fiksi juga punya kelebihan praktis. Ia tidak menua, tidak lelah berkeliling, dan tidak mungkin salah bicara di depan wartawan. Dengan melantik seekor kucing robot, kementerian mengakui secara terbuka bahwa wajah Jepang di luar negeri ikut dibentuk oleh tokoh kartun.
 

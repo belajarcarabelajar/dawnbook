@@ -6,7 +6,7 @@ Begitu pula dengan moralitas dalam Etika Kebajikan. Menjadi orang baik itu layak
 
 ## 1\. Apa itu Habituasi?
 
-Habituasi berasal dari kata Yunani *ethos* (kebiasaan), yang merupakan akar kata dari "etika". Aristoteles berpendapat bahwa kebajikan moral tidak muncul dalam diri kita secara alami. Kita memiliki kapasitas alami untuk menerimanya dan menyempurnakannya melalui kebiasaan.
+Gagasan habituasi berpangkal pada kata Yunani *ethos* (kebiasaan), yang menurut Aristoteles menjadi asal kata "etika". Aristoteles berpendapat bahwa kebajikan moral tidak muncul dalam diri kita secara alami. Kita memiliki kapasitas alami untuk menerimanya dan menyempurnakannya melalui kebiasaan.
 
 > "Kita adalah apa yang kita lakukan berulang kali. Oleh karena itu, keunggulan bukanlah sebuah tindakan, melainkan sebuah kebiasaan." - **Will Durant**, *The Story of Philosophy* (1926)
 
@@ -16,7 +16,7 @@ Dalam konteks etika, habituasi adalah proses melakukan tindakan-tindakan baik se
 
 ### Perbedaan Kebiasaan Mekanis vs. Kebiasaan Moral
 
-Kita perlu membedakan kebiasaan seperti mengikat tali sepatu yang bersifat mekanis, dengan kebiasaan moral. Kebiasaan mekanis dilakukan tanpa berpikir panjang dan tidak melibatkan emosi atau kecerdasan secara mendalam. Sebaliknya, habituasi moral membutuhkan kesadaran, pilihan yang disengaja, serta perasaan yang selaras. Kita tidak asal "terbiasa" jujur. Kita terus-menerus "memilih" untuk jujur sampai nilai tersebut mengakar menjadi karakter utama kita.
+Kita perlu membedakan kebiasaan mekanis, seperti mengikat tali sepatu, dengan kebiasaan moral. Kebiasaan mekanis dilakukan tanpa berpikir panjang dan tidak melibatkan emosi atau kecerdasan secara mendalam. Sebaliknya, habituasi moral membutuhkan kesadaran, pilihan yang disengaja, serta perasaan yang selaras. Kita tidak asal "terbiasa" jujur. Kita terus-menerus "memilih" untuk jujur sampai nilai tersebut mengakar menjadi karakter utama kita.
 
 ## 2\. Dari Tindakan Menuju Hexis (Disposisi Karakter)
 
@@ -26,7 +26,7 @@ Hexis adalah kondisi mental atau fisik yang menetap, sebuah disposisi karakter. 
 
 ### Proses Transformasi
 
-Transformasi karakter berawal dari tahap pemula, di mana kita melakukan tindakan baik seperti berbagi karena menaati aturan atau disuruh orang lain. Rasanya masih berat dan dipaksakan. Setelah itu, kita masuk ke tahap latihan dengan mengulangi tindakan tersebut di berbagai situasi menantang secara konsisten. Pada akhirnya, tindakan baik tersebut berubah menjadi spontan, menetap, dan memunculkan kepuasan batin tersendiri saat kita melakukannya. Tahap akhir inilah yang disebut karakter sejati (hexis).
+Transformasi karakter berawal dari tahap pemula, ketika kita melakukan tindakan baik seperti berbagi karena menaati aturan atau disuruh orang lain. Rasanya masih berat dan dipaksakan. Setelah itu, kita masuk ke tahap latihan dengan mengulangi tindakan tersebut di berbagai situasi menantang secara konsisten. Pada akhirnya, tindakan baik tersebut berubah menjadi spontan, menetap, dan memunculkan kepuasan batin tersendiri saat kita melakukannya. Tahap akhir inilah yang disebut karakter sejati (hexis).
 
 Ketiga tahap tersebut bisa kamu lihat berurutan pada bagan berikut.
 
@@ -71,14 +71,14 @@ Habituasi berlaku untuk individu, sekaligus dapat diterapkan dalam lingkup komun
 
 Sebagai contoh, ada karyawan baru di sebuah perusahaan. Pada minggu pertama, ia melihat rekan-rekannya jujur melaporkan setiap pengeluaran, lalu ia ikut-ikutan mematuhi aturan main. Masuk bulan keenam, ia terbiasa mencatat transaksi dengan teliti tanpa perlu ditegur atasan. Setelah dua tahun berjalan, kejujuran sudah menjadi hexis. Sekalipun ada celah untuk memanipulasi data tanpa ketahuan, ia enggan melakukannya karena ia sudah utuh menjadi pribadi yang jujur.
 
-Hal yang sama berlaku pada aspek lain, seperti kesehatan dan empati. Membiasakan diri untuk olahraga rutin awalnya mungkin terasa seperti beban berat, namun seiring berjalannya waktu, tubuh akan merasa ada yang kurang jika sehari saja absen bergerak. Begitu pula halnya dengan empati. Melatih telinga untuk mendengar tanpa memotong ucapan orang lain pelan-pelan akan membentuk gaya komunikasi yang hangat dan natural.
+Hal yang sama berlaku pada aspek lain, seperti kesehatan dan empati. Membiasakan diri berolahraga rutin awalnya mungkin terasa seperti beban berat, namun seiring berjalannya waktu, tubuh akan merasa ada yang kurang jika sehari saja absen bergerak. Begitu pula halnya dengan empati. Melatih telinga untuk mendengar tanpa memotong ucapan orang lain pelan-pelan akan membentuk gaya komunikasi yang hangat dan natural.
 
 ## 6\. Tantangan dalam Habituasi
 
-Membentuk karakter tentu ada rintangannya. Ada resistensi awal di mana melakukan hal baik terasa menguras tenaga dan pikiran, yang sering disebut sebagai *ego depletion*. Kondisi lingkungan juga menentukan arah habituasi. Jika kita berada di tempat yang menoleransi pelanggaran kecil secara terus-menerus, karakter yang terbangun otomatis akan menjadi buruk. Sama seperti latihan musik dengan postur yang salah akan merusak teknik selamanya, kesalahan moral yang dibiarkan berulang tanpa dikoreksi akan melahirkan kebiasaan buruk (*vice*).
+Pembentukan karakter tentu memiliki rintangan. Ada resistensi awal ketika melakukan hal baik terasa menguras tenaga dan pikiran. Kondisi lingkungan juga menentukan arah habituasi. Jika kita berada di tempat yang menoleransi pelanggaran kecil secara terus-menerus, karakter yang terbangun otomatis akan menjadi buruk. Sama seperti latihan musik dengan postur yang salah akan membentuk teknik yang buruk, kesalahan moral yang dibiarkan berulang tanpa dikoreksi akan melahirkan cacat moral (*vice*).
 
 > **Penting:** Karakter bisa bergerak ke dua arah. Membiasakan diri pada tindakan baik akan menghasilkan kebajikan (*virtue*), sedangkan membiasakan diri pada hal buruk akan melahirkan cacat moral (*vice*).
 
 ## Karakter Terbentuk dari Pilihan Kecil
 
-Habituasi berfungsi sebagai jembatan yang menghubungkan antara sekadar **mengetahui** apa yang baik dan **menjadi** orang baik seutuhnya. Karakter bukanlah bawaan yang sudah jadi sejak kita lahir. Karakter adalah karya pahatan yang kita ukir setiap hari melalui rentetan pilihan-pilihan kecil yang konsisten.
+Habituasi berfungsi sebagai jembatan yang menghubungkan sekadar **mengetahui** apa yang baik dengan **menjadi** orang baik seutuhnya. Karakter bukanlah bawaan yang sudah jadi sejak kita lahir. Karakter adalah karya pahatan yang kita ukir setiap hari melalui rentetan pilihan-pilihan kecil yang konsisten.

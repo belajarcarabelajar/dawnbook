@@ -16,7 +16,7 @@ Luangkan waktu setiap tiga bulan untuk mengevaluasi isi perangkat kamu. Tanyakan
 
 Banyak orang menyerah di tengah jalan karena kuatnya **tekanan sosial**. Membiarkan pesan tidak berbalas selama lima menit kini sering dicap sebagai sikap acuh tak acuh.
 
-Untuk meredam ekspektasi ini, sampaikan batasan kamu secara terbuka. Kamu bisa memanfaatkan fitur pesan otomatis untuk memberitahu bahwa kamu hanya memeriksa aplikasi *chat* pada jam tertentu (misalnya pukul 10 pagi dan 4 sore) dan menyarankan panggilan telepon jika ada kondisi darurat. Terapkan juga *slow communication*. Kebiasaan membalas pesan lebih lambat perlahan akan melatih orang-orang di sekitarmu untuk tidak mengharapkan respons instan dari kamu.
+Untuk meredam ekspektasi ini, sampaikan batasan kamu secara terbuka. Kamu bisa memanfaatkan fitur pesan otomatis untuk memberi tahu bahwa kamu hanya memeriksa aplikasi *chat* pada jam tertentu (misalnya pukul 10 pagi dan 4 sore) dan menyarankan panggilan telepon jika ada kondisi darurat. Terapkan juga *slow communication*. Kebiasaan membalas pesan lebih lambat perlahan akan melatih orang-orang di sekitarmu untuk tidak mengharapkan respons instan dari kamu.
 
 Saat obrolan kelompok sedang ramai membahas drama media sosial terbaru yang terlewatkan, kamu tak perlu cemas didera FOMO (*Fear of Missing Out*). Tanyakan saja secara langsung, "Aku lagi nggak buka Twitter nih, cerita intinya dong." Pendekatan santai ini memberimu intisari cerita langsung dari teman, menghindarkan kamu dari jebakan algoritma berjam-jam, sembari tetap menjaga interaksi yang hangat.
 
@@ -50,7 +50,7 @@ Tantangan lainnya adalah belajar berdamai dengan rasa bosan. Sering kali tangan 
 
 ## Tabel Pemeliharaan
 
-Tabel ini merangkum langkah praktis untuk menjaga ritme minimalisme digital:
+Tabel ini merangkum langkah praktis untuk menjaga ritme digital minimalisme:
 
 | Frekuensi | Aktivitas | Tujuan |
 | --- | --- | --- |

@@ -1,6 +1,6 @@
 ## Verifikasi Fakta dan Inokulasi
 
-Sepanjang buku ini kamu sudah melihat kenapa otak kita gampang tergelincir: bias kognitif, emosi yang dibajak, dan gema ruang media sosial. Ada pula motif orang yang sengaja menyebar kebohongan. Bab terakhir ini tidak lagi soal "kenapa", melainkan soal "lalu apa". Kabar baiknya, percaya hoaks bukan takdir. Kita akan bahas dua lapis pertahanan: yang reaktif, memeriksa sesuatu yang sudah terlanjur sampai ke tanganmu, dan yang preventif, "memvaksin" pikiranmu supaya lebih tahan sejak awal.
+Sepanjang buku ini kamu sudah melihat kenapa otak kita gampang tergelincir: bias kognitif, emosi yang dibajak, dan ruang gema media sosial. Ada pula motif orang yang sengaja menyebar kebohongan. Bab terakhir ini tidak lagi soal "kenapa", melainkan soal "lalu apa". Kabar baiknya, percaya hoaks bukan takdir. Kita akan bahas dua lapis pertahanan: yang reaktif, memeriksa sesuatu yang sudah telanjur sampai ke tanganmu, dan yang preventif, "memvaksin" pikiranmu supaya lebih tahan sejak awal.
 
 ### Teknik verifikasi praktis
 
@@ -27,7 +27,7 @@ Kalau sebuah video memicu emosi kuat tapi sumber aslinya kabur, itu justru alasa
 
 #### 4. Cek tautan dan domain
 
-Banyak hoaks disebar lewat situs yang menyamar jadi media resmi. Periksa alamat domainnya. Ejaan yang dipelesetkan, akhiran aneh, atau sub-domain panjang yang berpura-pura jadi merek terkenal adalah tanda bahaya. Tautan pemendek yang menyembunyikan alamat asli juga patut dicurigai.
+Banyak hoaks disebar lewat situs yang menyamar jadi media resmi. Periksa alamat domainnya. Ejaan yang dipelesetkan, akhiran aneh, atau subdomain panjang yang berpura-pura jadi merek terkenal adalah tanda bahaya. Tautan pemendek yang menyembunyikan alamat asli juga patut dicurigai.
 
 ### Dorongan akurasi untuk berhenti sejenak sebelum membagikan
 
@@ -43,7 +43,7 @@ Jadikan itu kebiasaan. Kamu tidak perlu jadi detektif untuk setiap unggahan, cuk
 
 Semua teknik di atas bersifat reaktif: kamu bertindak setelah hoaks datang. Bagaimana kalau kita bisa membuat pikiran lebih tahan sebelum hoaks itu tiba? Di sinilah inokulasi psikologis masuk.
 
-Idenya berasal dari William McGuire pada 1961 dan dikembangkan peneliti seperti Sander van der Linden dan Jon Roozenbeek. Analoginya adalah vaksin: memasukkan versi lemah suatu patogen sehingga tubuh belajar mengenalinya dan membangun antibodi, sehingga siap saat virus sungguhan datang. Inokulasi psikologis bekerja dengan cara sama, lewat dua komponen:
+Idenya berasal dari William McGuire pada 1961 dan dikembangkan peneliti seperti Sander van der Linden dan Jon Roozenbeek. Analoginya adalah vaksin: memasukkan versi lemah suatu patogen sehingga tubuh belajar mengenalinya dan membangun antibodi, lalu siap saat virus sungguhan datang. Inokulasi psikologis bekerja dengan cara sama, lewat dua komponen:
 
 1. **Peringatan (forewarning).** Kamu diberi tahu lebih dulu bahwa kamu bisa jadi sasaran manipulasi. Kesadaran ini saja sudah menaikkan pertahananmu.
 2. **Paparan dosis lemah.** Kamu ditunjukkan contoh kecil teknik manipulasi berikut bantahannya. Otakmu belajar mengenali polanya, sehingga terbentuk semacam "antibodi mental".
@@ -77,4 +77,4 @@ Lapis individu paling bisa kamu kendalikan hari ini. Lapis sosial mengingatkan b
 
 ## Penutup
 
-Percaya hoaks itu manusiawi. Otak kita dirancang untuk mengambil jalan pintas, dan dunia informasi hari ini memanfaatkannya. Tapi manusiawi bukan berarti tak berdaya. Kamu punya alat reaktif: cek ke pemeriksa fakta, telusuri gambar dan video, waspadai tautan mencurigakan. Kamu punya kebiasaan preventif: berhenti sejenak dan bertanya apakah sesuatu itu akurat sebelum membagikannya. Dan kamu punya inokulasi psikologis: dengan mengenali teknik manipulasi, pikiranmu membangun antibodi yang bekerja lintas topik dan lintas ideologi. Kejernihan berpikir bukan bakat, melainkan keterampilan yang bisa dilatih. Untuk mendalami setiap gagasan dan riset yang disinggung sepanjang buku ini, silakan lanjut ke daftar Referensi di halaman berikutnya.
+Percaya hoaks itu manusiawi. Otak kita dirancang untuk mengambil jalan pintas, dan dunia informasi hari ini memanfaatkannya. Tapi manusiawi bukan berarti tak berdaya. Kamu punya alat reaktif: cek ke pemeriksa fakta, telusuri gambar dan video, waspadai tautan mencurigakan. Kamu punya kebiasaan sederhana: berhenti sejenak dan bertanya apakah sesuatu itu akurat sebelum membagikannya. Dan kamu punya inokulasi psikologis: dengan mengenali teknik manipulasi, pikiranmu membangun antibodi yang bekerja lintas topik dan lintas ideologi. Kejernihan berpikir bukan bakat, melainkan keterampilan yang bisa dilatih. Untuk mendalami setiap gagasan dan riset yang disinggung sepanjang buku ini, silakan lanjut ke daftar Referensi di halaman berikutnya.

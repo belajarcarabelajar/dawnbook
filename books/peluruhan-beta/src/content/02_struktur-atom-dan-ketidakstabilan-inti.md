@@ -10,8 +10,8 @@ Inti atom bukanlah sekumpulan partikel yang diam. Di dalamnya terdapat dua jenis
 
 Keadaan di dalam inti atom ditentukan oleh tarik-ulur antara dua gaya fundamental:
 
-1. **Gaya Nuklir Kuat (Strong Nuclear Force):** Seperti lem yang kuat namun memiliki jangkauan sangat pendek. Gaya ini merekatkan proton dan neutron agar tetap bersatu.
-2. **Gaya Elektromagnetik (Gaya Coulomb):** Gaya tolak-menolak antar sesama proton karena muatan positifnya yang sejenis.
+1. **Gaya Nuklir Kuat (Strong Nuclear Force):** Seperti lem yang kuat tetapi memiliki jangkauan sangat pendek. Gaya ini merekatkan proton dan neutron agar tetap bersatu.
+2. **Gaya Elektromagnetik (Gaya Coulomb):** Gaya tolak-menolak antarproton karena muatan positifnya yang sejenis.
 
 > **Analogi Sederhana:** Bayangkan inti atom adalah sebuah ruangan kecil yang penuh dengan magnet-magnet kuat yang saling menolak (proton). Agar ruangan itu tidak meledak, kita membutuhkan perekat khusus (neutron) yang memberikan gaya tarik tambahan tanpa menambah gaya tolak.
 
@@ -21,14 +21,14 @@ Kestabilan sebuah atom tidak ditentukan oleh seberapa banyak jumlah proton atau 
 
 #### A. Atom Ringan ($Z \le 20$)
 
-Untuk atom-atom kecil seperti Karbon atau Oksigen, jumlah proton yang sedikit membuat gaya tolak Coulomb tidak terlalu besar. Oleh karena itu, inti akan stabil jika jumlah neutron hampir sama dengan jumlah proton.
+Untuk atom-atom kecil seperti karbon atau oksigen, jumlah proton yang sedikit membuat gaya tolak Coulomb tidak terlalu besar. Oleh karena itu, inti akan stabil jika jumlah neutron hampir sama dengan jumlah proton.
 
 - **Kondisi Ideal:** $\frac{N}{Z} \approx 1$
 - *Contoh:* Karbon-12 ($6p, 6n$) memiliki rasio $1.0$ dan sangat stabil.
 
 #### B. Atom Berat ($Z > 20$)
 
-Seiring bertambahnya jumlah proton, gaya tolak elektrostatik meningkat secara drastis. Untuk mengimbanginya, atom membutuhkan ekstra neutron sebagai penyangga. Akibatnya, rasio N/Z yang stabil pada atom berat bergeser menjadi lebih besar.
+Seiring bertambahnya jumlah proton, gaya tolak elektrostatik meningkat secara drastis. Untuk mengimbanginya, atom membutuhkan neutron tambahan sebagai penyangga. Akibatnya, rasio N/Z yang stabil pada atom berat bergeser menjadi lebih besar.
 
 - **Kondisi Ideal:** $\frac{N}{Z}$ meningkat hingga mendekati $1.5$
 - *Contoh:* Timbal-208 ($82p, 126n$) memiliki rasio $\approx 1.54$.
@@ -47,7 +47,7 @@ Peluruhan beta adalah cara inti memperbaiki rasio N/Z yang menyimpang:
 1. **Kelebihan Neutron (Di atas pita kestabilan):** Rasio N/Z terlalu tinggi. Inti ingin mengubah neutron menjadi proton untuk menurunkan rasio tersebut. Inilah pemicu **Peluruhan Beta Minus ($\beta^-$)**.
 2. **Kekurangan Neutron/Kelebihan Proton (Di bawah pita kestabilan):** Rasio N/Z terlalu rendah. Inti ingin mengubah proton menjadi neutron untuk meningkatkan rasio tersebut. Inilah pemicu **Peluruhan Beta Plus ($\beta^+$)** atau **Penangkapan Elektron**.
 
-*Analogi Keseimbangan Subatomik: Ibarat sebuah kapal, rasio N/Z adalah muatan penyimbangnya. Jika muatan terlalu berat di salah satu sisi, kapal menjadi tidak stabil. Peluruhan beta merupakan mekanisme memindahkan atau menyeimbangkan muatan tersebut agar kestabilan inti tercapai kembali.*
+*Analogi Keseimbangan Subatomik: Ibarat sebuah kapal, rasio N/Z adalah muatan penyeimbangnya. Jika muatan terlalu berat di salah satu sisi, kapal menjadi tidak stabil. Peluruhan beta merupakan mekanisme memindahkan atau menyeimbangkan muatan tersebut agar kestabilan inti tercapai kembali.*
 
 ### 4. Matematika Ketidakstabilan
 
@@ -55,7 +55,7 @@ Kita dapat menyatakan kondisi ini dengan persamaan sederhana. Misalkan sebuah in
 
 Ketidakstabilan terjadi jika: $\frac{A - Z}{Z} \neq \text{Rasio Stabil}$
 
-Untuk isotop berat, energi pengikat rata-rata per nukleon ($\text{BE}/A$) juga memainkan peran. Jika perubahan melalui peluruhan beta menghasilkan inti baru dengan energi ikat yang lebih tinggi (lebih negatif/stabil), maka proses tersebut secara termodinamika akan terjadi secara spontan.
+Untuk isotop berat, energi ikat rata-rata per nukleon ($\text{BE}/A$) juga memainkan peran. Jika perubahan melalui peluruhan beta menghasilkan inti baru dengan energi ikat yang lebih tinggi (lebih stabil), maka proses tersebut secara termodinamika akan terjadi secara spontan.
 
 ### 5. Karbon-14 dalam Arkeologi
 
@@ -64,7 +64,7 @@ Salah satu contoh paling nyata dari ketidakstabilan akibat rasio N/Z adalah **Ka
 - **Struktur:** Karbon normal (C-12) memiliki $6p$ dan $6n$ ($N/Z = 1$). Karbon-14 memiliki $6p$ dan $8n$ ($N/Z = 1.33$).
 - **Ketidakstabilan:** Bagi atom seringan karbon, rasio $1.33$ terlalu tinggi (terlalu banyak neutron).
 - **Proses:** C-14 meluruh secara beta minus menjadi Nitrogen-14 ($7p, 7n$, $N/Z = 1$).
-- **Manfaat:** Karena kita tahu laju peluruhan C-14 yang tidak stabil ini, para arkeolog dapat menghitung umur fosil purba dengan mengukur sisa C-14 yang ada di dalamnya.
+- **Manfaat:** Karena kita tahu laju peluruhan C-14 yang tidak stabil ini, para arkeolog dapat menghitung umur bahan organik kuno dengan mengukur sisa C-14 yang ada di dalamnya.
 
 ### Kondisi Inti dan Jenis Peluruhannya
 

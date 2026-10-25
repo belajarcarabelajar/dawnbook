@@ -4,7 +4,7 @@ Gaji kamu naik cukup besar tahun ini. Kamu menghitung ulang tabungan, menandai t
 
 Lalu sebuah kabar kecil datang dari obrolan santai di teras: tetangga sebelah ternyata mendapat kenaikan yang lebih besar lagi. Angkamu tidak berkurang satu rupiah pun, tapi begitu mendengar itu, rasa senang yang tadi menguap begitu saja, tinggal sisa yang sulit dijelaskan: kenapa dia bisa lebih?
 
-Tidak ada yang mencuri uangmu. Yang berubah hanyalah posisimu di papan skor yang tidak pernah kamu minta untuk diikuti. Bab sebelumnya ditutup dengan catatan bahwa separuh jawaban ada di relasi antar manusia. Bab ini mulai dari yang paling dekat sekaligus paling licin efeknya: tetangga sebelah.
+Tidak ada yang mencuri uangmu. Yang berubah hanyalah posisimu di papan skor yang tidak pernah kamu minta untuk diikuti. Bab sebelumnya ditutup dengan catatan bahwa separuh jawaban ada di relasi antarmanusia. Bab ini mulai dari yang paling dekat sekaligus paling licin efeknya: tetangga sebelah.
 
 ### Tetangga yang lebih kaya
 
@@ -18,7 +18,7 @@ Paling menggigit: kenaikan penghasilan tetangga sekitar 10 persen diperkirakan m
 
 ### Perbandingan bukan penyakit moral
 
-Sebelum kamu menyimpulkan dirimu iri hati dan gagal bersyukur, tarik napas. Membandingkan diri bukan kegagalan karakter, ia peralatan bawaan otak yang dipakai puluhan ribu tahun. Nenek moyang kita hidup dalam kelompok kecil, dan posisi di dalam kelompok menentukan akses terhadap makanan, pasangan, dan perlindungan.
+Sebelum kamu menyimpulkan dirimu iri hati dan gagal bersyukur, tarik napas. Membandingkan diri bukan kegagalan karakter, melainkan peralatan bawaan otak yang dipakai puluhan ribu tahun. Nenek moyang kita hidup dalam kelompok kecil, dan posisi di dalam kelompok menentukan akses terhadap makanan, pasangan, dan perlindungan.
 
 Masalahnya, alat yang dirancang untuk mengukur satu gang kini dipakai untuk mengukur ribuan orang.
 
@@ -48,9 +48,9 @@ Karena itu pula, keputusan finansial yang rasional di atas kertas bisa kalah ole
 
 ### Mengambil kembali kendali
 
-Kalau perbandingan itu bawaan, apakah kita tinggal pasrah? Tidak sepenuhnya. Kamu tidak bisa mematikan mesinnya, tapi kamu bisa mengelola bahan yang masuk ke dalamnya. Tiga pilihan berikut bukan resep wajib, anggap eksperimen yang bisa dicoba satu per satu.
+Kalau perbandingan itu bawaan, apakah kita tinggal pasrah? Tidak sepenuhnya. Kamu tidak bisa mematikan mesinnya, tapi kamu bisa mengelola bahan yang masuk ke dalamnya. Tiga pilihan berikut bukan resep wajib; anggap eksperimen yang bisa dicoba satu per satu.
 
-Pertama, kurangi paparan pemicu. Kamu tidak pernah diminta membandingkan hidupmu dengan tiga ratus orang sekaligus, tapi itulah yang terjadi setiap kali membuka guliran. Coba audit kecil: akun mana yang selalu meninggalkan rasa kurang? Bisa di-unfollow, disembunyikan, atau diberi batas waktu. Ini bukan menghindar dari kenyataan, hanya memangkas noise dari papan skormu.
+Pertama, kurangi paparan pemicu. Kamu tidak pernah diminta membandingkan hidupmu dengan ribuan orang sekaligus, tapi itulah yang terjadi setiap kali membuka guliran. Coba audit kecil: akun mana yang selalu meninggalkan rasa kurang? Bisa di-*unfollow*, disembunyikan, atau diberi batas waktu. Ini bukan menghindar dari kenyataan, hanya memangkas *noise* dari papan skormu.
 
 Kedua, pilih pembanding yang sehat. Mesin perbandingan akan bekerja dengan pembanding apa pun, jadi beri ia bahan yang lebih adil. Bandingkan dirimu dengan orang yang konteksnya sejajar: usia karier dan titik awal yang mirip. Pembanding sehat bukan yang membuatmu kalah terus, tapi yang membuatmu melihat jarak yang masih bisa ditempuh.
 

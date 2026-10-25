@@ -18,7 +18,7 @@ Hofstede, G. (2001). *Culture's consequences: Comparing values, behaviors, insti
 
 Hofstede, G., Hofstede, G. J., & Minkov, M. (2010). *Cultures and organizations: Software of the mind* (3rd ed.). McGraw-Hill Education. [https://www.mheducation.com/highered/mhp/product/cultures-organizations-software-mind-third-edition.html](https://www.mheducation.com/highered/mhp/product/cultures-organizations-software-mind-third-edition.html)
 
-Lysgaard, S. (1955). Adjustment of Norwegian grantees in the United States. *International Social Science Bulletin*, *7*, 45-51. [https://unesdoc.unesco.org/ark:/48223/pf0000033837](https://unesdoc.unesco.org/ark:/48223/pf0000033837)
+Lysgaard, S. (1955). Adjustment in a foreign society: Norwegian Fulbright grantees visiting the United States. *International Social Science Bulletin*, *7*, 45-51. [https://unesdoc.unesco.org/ark:/48223/pf0000033837](https://unesdoc.unesco.org/ark:/48223/pf0000033837)
 
 Matsumoto, D., & Juang, L. (2016). *Culture and psychology* (6th ed.). Cengage Learning. [https://www.cengage.com/c/culture-and-psychology-6e-matsumoto-juang/9781305648951/](https://www.cengage.com/c/culture-and-psychology-6e-matsumoto-juang/9781305648951/)
 
@@ -26,7 +26,7 @@ Oberg, K. (1960). Cultural shock: Adjustment to new cultural environments. *Prac
 
 Quote Investigator. (2025, 25 September). *Quote origin: The world is a book, and those who do not travel read only one page*. [https://quoteinvestigator.com/2025/09/25/world-book/](https://quoteinvestigator.com/2025/09/25/world-book/)
 
-Sussman, N. M. (2000). The dynamic nature of cultural identity after global transitions: The Cultural Transitions Model. *Personality and Social Psychology Review*, *4*(4), 355-373. [https://doi.org/10.1207/S15327957PSPR0404_5](https://doi.org/10.1207/S15327957PSPR0404_5)
+Sussman, N. M. (2000). The dynamic nature of cultural identity throughout cultural transitions: Why home is not so sweet. *Personality and Social Psychology Review*, *4*(4), 355-373. [https://doi.org/10.1207/S15327957PSPR0404_5](https://doi.org/10.1207/S15327957PSPR0404_5)
 
 Thomas, D. C., & Inkson, K. (2017). *Cultural intelligence: Surviving and thriving in the global village* (3rd ed.). Berrett-Koehler Publishers. [https://openlibrary.org/works/OL16071753W](https://openlibrary.org/works/OL16071753W)
 

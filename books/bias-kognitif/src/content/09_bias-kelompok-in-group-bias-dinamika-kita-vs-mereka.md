@@ -1,6 +1,6 @@
 ## Bias Kelompok (In-group Bias)
 
-Pernahkah kamu merasa lebih akrab dengan seseorang hanya karena ia mendukung tim sepak bola yang sama atau lulus dari universitas yang sama? Atau bahkan sekadar karena kalian memakai merek ponsel yang sama? Perasaan instan bahwa "orang ini adalah bagian dari saya" adalah inti dari **Bias Kelompok** atau *In-group Bias*.
+Pernahkah kamu merasa lebih akrab dengan seseorang hanya karena ia mendukung tim sepak bola yang sama atau lulus dari universitas yang sama? Atau bahkan sekadar karena kalian memakai merek ponsel yang sama? Perasaan instan bahwa "orang ini adalah bagian dari kita" adalah inti dari **Bias Kelompok** atau *In-group Bias*.
 
 Secara sederhana, **Bias Kelompok** adalah kecenderungan psikologis manusia untuk memberikan perlakuan istimewa, penilaian lebih positif, dan dukungan lebih besar kepada anggota kelompoknya sendiri (*in-group*) dibandingkan dengan orang-orang di luar kelompoknya (*out-group*).
 
@@ -14,12 +14,12 @@ Ribuan tahun lalu, nenek moyang kita hidup dalam suku-suku kecil. Mempercayai an
 
 ### 2\. Teori Identitas Sosial (Social Identity Theory)
 
-Dikembangkan oleh Henri Tajfel pada tahun 1970-an, teori ini menyatakan bahwa sebagian dari harga diri kita berasal dari kelompok di mana kita bergabung.
+Dikembangkan oleh Henri Tajfel dan John Turner pada tahun 1970-an, teori ini menyatakan bahwa sebagian dari harga diri kita berasal dari kelompok tempat kita bergabung.
 
 - Jika kelompok kita terlihat hebat, kita merasa hebat.
 - Untuk membuat kelompok kita terlihat lebih hebat, kita cenderung meremehkan kelompok lain.
 
-> **Analogi "Jersey Mental":** Bayangkan kamu sedang berjalan di bandara luar negeri dan melihat seseorang memakai kaos dengan logo kota kelahiran kamu. Meskipun kamu tidak kenal orang tersebut, kamu merasa ada koneksi instan. Kamu secara otomatis memakaikan "jersey" yang sama padanya dalam pikiran kamu, memberikan dia status "teman" secara cuma-cuma.
+> **Analogi "Jersey Mental":** Bayangkan kamu sedang berjalan di bandara luar negeri dan melihat seseorang memakai kaus dengan logo kota kelahiran kamu. Meskipun kamu tidak kenal orang tersebut, kamu merasa ada koneksi instan. Kamu secara otomatis memakaikan "jersey" yang sama padanya dalam pikiran kamu, memberikan dia status "teman" secara cuma-cuma.
 
 ## Manifestasi Bias Kelompok
 
@@ -65,7 +65,7 @@ Dalam dunia teknik, sering terjadi gesekan antara tim *Developer* (yang membuat 
 
 ### 2\. Fenomena "Not Invented Here" (NIH)
 
-Banyak perusahaan besar menolak menggunakan teknologi bagus yang diciptakan oleh perusahaan lain atau komunitas *open-source*. Mereka lebih memilih membuat versi sendiri yang lebih buruk hanya karena "bukan kita yang membuatnya". Ini adalah bentuk *In-group Bias* di level korporasi.
+Banyak perusahaan besar menolak menggunakan teknologi bagus yang diciptakan oleh perusahaan lain atau komunitas *open-source*. Mereka lebih memilih membuat versi sendiri, yang sering kali lebih buruk, hanya karena "bukan kita yang membuatnya". Ini adalah bentuk *In-group Bias* di level korporasi.
 
 Saat menyeleksi ide, pola pikir bias kelompok itu sederhana: ide dari anggota tim sendiri langsung disambut sebagai "ide brilian, mari kita eksekusi", sedangkan ide dari pihak lain "perlu ditinjau ulang", yang dalam praktiknya berarti dicari-cari kesalahannya.
 

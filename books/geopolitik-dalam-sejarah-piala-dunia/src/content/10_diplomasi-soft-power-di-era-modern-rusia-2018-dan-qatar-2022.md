@@ -56,7 +56,7 @@ Qatar menghadapi penolakan dan kritik keras terkait beberapa hal:
 
 ### Tata Kelola Turnamen yang Rapi
 
-Pemerintah Qatar menjawab segala kritik tersebut dengan menunjukkan tata kelola turnamen yang rapi. Mereka membangun kota baru (Lusail), jaringan metro, serta merancang jarak antardua stadion yang dekat sehingga memudahkan mobilisasi penonton sepanjang kejuaraan berlangsung.
+Pemerintah Qatar menjawab segala kritik tersebut dengan menunjukkan tata kelola turnamen yang rapi. Mereka membangun kota baru (Lusail), jaringan metro, serta merancang jarak antarstadion yang dekat sehingga memudahkan mobilisasi penonton sepanjang kejuaraan berlangsung.
 
 > **Wawasan:** Qatar tidak berusaha meniru gaya hidup Barat. Mereka memanfaatkan Piala Dunia untuk membuktikan bahwa negara Arab sanggup menyelenggarakan turnamen global modern tanpa harus menanggalkan nilai-nilai tradisional dan budaya mereka.
 
@@ -75,7 +75,7 @@ Strategi kekuatan lunak ini kini meluas ke berbagai bidang kehidupan, tidak lagi
 
 1. **Promosi Pariwisata Daerah**: Sebuah kota menyelenggarakan festival musik internasional untuk mengalihkan perhatian publik dari masalah polusi atau kriminalitas tinggi demi menarik wisatawan.
 2. **Pencitraan Perusahaan (Greenwashing)**: Perusahaan energi fosil besar mendanai maraton ramah lingkungan guna meredam kritik atas dampak emisi karbon yang mereka hasilkan.
-3. **Diplomasi Digital**: Pemerintah memanfatkan jasa pembuat konten di media sosial untuk menyebarkan keindahan lanskap negara, menyamarkan ketegangan politik yang sebenarnya sedang terjadi.
+3. **Diplomasi Digital**: Pemerintah memanfaatkan jasa pembuat konten di media sosial untuk menyebarkan keindahan lanskap negara, menyamarkan ketegangan politik yang sebenarnya sedang terjadi.
 
 ## 6. Rangkuman Teknis
 
@@ -83,7 +83,7 @@ Dalam analisis geopolitik modern, keberhasilan suatu negara dalam menyelenggarak
 
 | Metrik | Rusia 2018 | Qatar 2022 |
 | --- | --- | --- |
-| **Tujuan Utama** | Re-integrasi ke komunitas global. | Keamanan nasional dan diversifikasi ekonomi. |
+| **Tujuan Utama** | Reintegrasi ke komunitas global. | Keamanan nasional dan diversifikasi ekonomi. |
 | **Narasi Utama** | "Russia is open and friendly". | "Arab excellence and tradition". |
 | **Hambatan** | Sanksi Barat dan isu hooliganisme. | Isu HAM dan perbedaan budaya. |
 | **Warisan (Legacy)** | Infrastruktur kota-kota provinsi. | Hub transportasi global dan "Qatar Vision 2030". |

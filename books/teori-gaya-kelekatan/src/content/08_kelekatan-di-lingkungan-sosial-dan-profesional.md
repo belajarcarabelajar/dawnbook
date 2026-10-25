@@ -28,13 +28,13 @@ Mereka yang memiliki gaya ini sering kali membawa ketakutan akan penolakan ke da
 
 Bagi individu ini, kemandirian adalah prioritas utama:
 
-* **Penyendiri (The Lone Wolf):** Lebih suka mengerjakan tugas secara individual dan merasa kolaborasi tim sebagai gangguan atau ancaman terhadap otonomi mereka.
+* **Penyendiri (The Lone Wolf):** Lebih suka mengerjakan tugas secara individual dan menganggap kolaborasi tim sebagai gangguan atau ancaman terhadap otonomi mereka.
 * **Menghindari Konflik:** Menarik diri atau bersikap dingin secara profesional alih-alih menyelesaikan perselisihan.
 * **Menyimpan Informasi:** Sering kali menyimpan informasi penting untuk diri sendiri agar tetap memiliki kontrol.
 
 ## 2. Gaya Kepemimpinan dan Otoritas
 
-Gaya kelekatan seorang pemimpin menentukan iklim psikologis bagi seluruh tim atau organisasi.
+Gaya kelekatan seorang pemimpin dapat memengaruhi iklim psikologis bagi seluruh tim atau organisasi.
 
 | **Gaya Kelekatan** | **Gaya Kepemimpinan** | **Dampak pada Anggota Tim** |
 | --- | --- | --- |
@@ -42,7 +42,7 @@ Gaya kelekatan seorang pemimpin menentukan iklim psikologis bagi seluruh tim ata
 | **Anxious** | *Micromanaging* dan butuh persetujuan terus-menerus. | Tim merasa tercekik dan kurang percaya diri. |
 | **Avoidant** | *Hands-off* yang ekstrem, dingin, dan tidak tersedia secara emosional. | Tim merasa bingung dan kurang mendapatkan arahan atau dukungan. |
 
-Seorang pemimpin yang aman mampu menciptakan **Keamanan Psikologis (Psychological Safety)**. Ini adalah kondisi di mana anggota tim merasa berani berbicara tanpa takut dipermalukan atau dihukum.
+Seorang pemimpin yang aman mampu menciptakan **Keamanan Psikologis (Psychological Safety)**. Ini adalah kondisi ketika anggota tim merasa berani berbicara tanpa takut dipermalukan atau dihukum.
 
 ## 3. Interaksi dengan Teman Sebaya dan Networking
 
@@ -66,7 +66,7 @@ Bayangkan sebuah tim sedang menghadapi tenggat waktu (deadline) yang ketat dan t
 
 Jika kamu ingin meningkatkan efektivitas profesional berdasarkan teori ini, pertimbangkan langkah-langkah berikut:
 
-* **Untuk Tipe Cemas:** Latihlah untuk melakukan "cek fakta" sebelum bereaksi secara emosional terhadap email atau komentar rekan kerja. Gunakan formula:
+* **Untuk Tipe Cemas:** Berlatihlah melakukan "cek fakta" sebelum bereaksi secara emosional terhadap email atau komentar rekan kerja. Gunakan formula:
 
   <div>
   $$

@@ -6,7 +6,7 @@ Bagian ini memperlihatkan bagaimana bahasa bukan sekadar alat untuk melaporkan p
 
 ### 1. Kejahatan sebagai Produk Budaya, Bukan Fakta Alamiah
 
-Bayangkan ketika melihat tanaman liar di tengah taman bunga yang tertata rapi. Apakah tanaman itu secara biologis adalah "hama"? Tidak. Secara biologis, ia hanyalah tumbuhan. Ia menjadi "hama" hanya karena manusia memutuskan bahwa ia tumbuh di tempat yang salah dan mengganggu estetika taman tersebut.
+Bayangkan ketika melihat tanaman liar di tengah taman bunga yang tertata rapi. Apakah tanaman itu secara biologis adalah "gulma"? Tidak. Secara biologis, ia hanyalah tumbuhan. Ia menjadi "gulma" hanya karena manusia memutuskan bahwa ia tumbuh di tempat yang salah dan mengganggu estetika taman tersebut.
 
 Begitu pula dengan kejahatan.
 
@@ -14,7 +14,7 @@ Begitu pula dengan kejahatan.
 
 Dalam pandangan AWK, sebuah tindakan (seperti mengonsumsi zat tertentu atau mengambil milik orang lain) hanya menjadi "kejahatan" ketika narasi dominan dalam masyarakat, melalui hukum dan diskursus publik, melabelinya demikian.
 
-- **Dinamika Statis vs. Dinamis:** Definisi kejahatan selalu berubah. Sebagai contoh, lihat pergeseran status hukum merokok di ruang publik atau penggunaan ganja untuk medis di berbagai belahan dunia. Apa yang kemarin dianggap "kriminal" bisa menjadi "legal" hari ini, tergantung pada siapa yang memegang kendali atas narasi tersebut.
+- **Dinamika Definisi:** Definisi kejahatan selalu berubah. Sebagai contoh, lihat pergeseran status hukum merokok di ruang publik atau penggunaan ganja untuk medis di berbagai belahan dunia. Apa yang kemarin dianggap "kriminal" bisa menjadi "legal" hari ini, tergantung pada siapa yang memegang kendali atas narasi tersebut.
 
 ### 2. Membedah Konstruksi Identitas "Sang Penjahat"
 
@@ -27,11 +27,11 @@ AWK menganalisis bagaimana bahasa menciptakan dikotomi antara "Kita" (masyarakat
    - *Contoh:* "Pembersihan hama masyarakat" atau "Virus kriminalitas yang menjangkiti kota."
 3. **Patologisasi:** Menggambarkan penjahat sebagai orang yang "sakit" atau "tidak normal" secara mental, sehingga masyarakat merasa berhak melakukan intervensi atau pengasingan tanpa perlu mempertanyakan ketidakadilan sosial di baliknya.
 
-> **Refleksi Kritis:** Pernahkah kita menyadari bahwa kata "penjahat" jarang digunakan untuk korporasi yang merusak lingkungan, namun cepat digunakan untuk pemuda yang mencuri ponsel? Mengapa konstruksi bahasanya berbeda?
+> **Refleksi Kritis:** Pernahkah kita menyadari bahwa kata "penjahat" jarang digunakan untuk korporasi yang merusak lingkungan, tetapi cepat digunakan untuk pemuda yang mencuri ponsel? Mengapa konstruksi bahasanya berbeda?
 
 ### 3. Narasi Dominan dan Hegemoni Definisi
 
-Siapa yang berhak menentukan apa itu kejahatan? Dalam perspektif AWK, kelompok yang memiliki kekuasaan (elit politik, pemilik media, penegak hukum) memiliki kemampuan untuk memaksakan definisi mereka tentang kejahatan ke seluruh masyarakat.
+Siapa yang berhak menentukan apa itu kejahatan? Dalam perspektif AWK, kelompok yang memiliki kekuasaan (elite politik, pemilik media, penegak hukum) memiliki kemampuan untuk memaksakan definisi mereka tentang kejahatan ke seluruh masyarakat.
 
 #### Formula Konstruksi Sosial
 
@@ -58,7 +58,7 @@ Teks dan ideologi yang diproduksi secara masif oleh kelompok dominan akan memben
 | **Kejahatan Jalanan (*Street Crime*)** | Menggunakan bahasa yang penuh ketakutan, urgensi, dan ancaman fisik. | Ditujukan pada individu pelaku. | Sangat tinggi (*pelabelan kriminal*). |
 | **Kejahatan Kerah Putih (*White-Collar Crime*)** | Menggunakan bahasa teknis, administratif, atau "kekhilafan prosedur". | Dialihkan dari individu ke sistem. | Rendah (mengurangi stigma "penjahat"). |
 
-### 4. Narasi Perang Terhadap Narkoba
+### 4. Narasi Perang terhadap Narkoba
 
 Mari lihat bagaimana narasi mengonstruksi realitas melalui contoh *"War on Drugs"*.
 
@@ -85,14 +85,12 @@ Untuk memahami bagaimana konstruksi wacana bekerja secara praktis, cobalah langk
 
 ### 6. Jejak Teks dalam Linguistik Forensik
 
-Linguistik forensik adalah cabang ilmu bahasa terapan yang menggunakan analisis bahasa untuk kepentingan hukum dan investigasi kriminal. Seorang analis forensik bekerja seperti detektif yang tidak hanya mencari sidik jari fisik, melainkan **"sidik jari linguistik"** yang tertinggal dalam susunan kalimat, pilihan kata, hingga tanda baca.
-
 Dalam kriminologi, bahasa dianggap sebagai manifestasi perilaku. Berikut adalah pilar utama bagaimana kata-kata menjadi alat bukti:
 
 #### Pilar Utama Linguistik Forensik
 
-1. **Idiolek (Sidik Jari Kata):** Sama seperti sidik jari atau DNA, setiap individu memiliki idiolek unik yang dipengaruhi oleh latar belakang pendidikan, dialek regional, usia, hingga profesi.
-   - **Pilihan Leksikal:** Penggunaan kata spesifik (misalnya kata "komputer" versus "peranti").
+1. **Idiolek (Sidik Jari Kata):** Setiap individu memiliki idiolek unik yang dipengaruhi oleh latar belakang pendidikan, dialek regional, usia, hingga profesi.
+   - **Pilihan Leksikal:** Penggunaan kata spesifik (misalnya kata "perangkat" versus "peranti").
    - **Sintaksis:** Struktur kalimat yang dominan (cenderung menggunakan kalimat pasif atau aktif).
    - **Ortografi:** Kebiasaan penggunaan tanda baca, huruf kapital, atau bentuk singkatan.
 2. **Atribusi Kepenulisan (*Authorship Attribution*):** Teknik menentukan penulis asli dari sebuah teks anonim (seperti surat ancaman, pesan teror, atau dokumen palsu) dengan membandingkan teks bukti terhadap teks pembanding dari tersangka.
@@ -102,10 +100,10 @@ Dalam kriminologi, bahasa dianggap sebagai manifestasi perilaku. Berikut adalah 
 
 | No | Fokus Analisis | Penjelasan & Tantangan Kriminologis |
 | :--- | :--- | :--- |
-| 1 | **Tantangan Manipulasi Gaya Bahasa** | Ketika seseorang mencoba meniru gaya menulis orang lain untuk menjebak mereka dalam kejahatan siber, kebiasaan bawah sadar seperti penempatan koma, struktur klausa, dan kata hubung merupakan elemen yang paling sulit dipalsukan secara konsisten. |
+| 1 | **Tantangan Manipulasi Gaya Bahasa** | Ketika seseorang mencoba meniru gaya menulis orang lain untuk menjebak mereka dalam kejahatan siber, kebiasaan bawah sadar seperti penempatan koma, struktur klausa, dan kata hubung merupakan elemen yang cenderung sulit dipalsukan secara konsisten. |
 | 2 | **Evolusi Digital & Teks Pendek** | Di era media sosial (WhatsApp, X/Twitter), pesan singkat dan simbol komunikasi visual mengharuskan ahli linguistik forensik menganalisis pola ortografi mikro dan kebiasaan sintaksis yang sangat spesifik. |
-| 3 | **Opini vs. Pencemaran Nama Baik** | Dalam analisis hukum, terdapat perbedaan mendasar antara kritik fasilitas (misal: *"Layanan di toko ini sangat lambat"*) dengan tuduhan kriminal personal (misal: *"Pemilik toko ini adalah penipu"*). AWK membedakan evaluasi kualitas layanan dari tuduhan tindak pidana. |
-| 4 | **Profiling Kriminal Teksual** | Jika sebuah surat tebusan menggunakan istilah medis yang sangat spesifik tetapi memiliki tata bahasa yang tidak teratur, kriminolog dapat menyusun profil tersangka sebagai individu dengan latar belakang pendidikan atau profesi medis tertentu yang mencoba menyamarkan identitasnya. |
+| 3 | **Opini vs. Pencemaran Nama Baik** | Dalam analisis hukum, terdapat perbedaan mendasar antara kritik fasilitas (misal: *"Layanan di toko ini sangat lambat"*) dengan tuduhan kriminal personal (misal: *"Pemilik toko ini adalah penipu"*). Linguistik forensik membedakan evaluasi kualitas layanan dari tuduhan tindak pidana. |
+| 4 | **Profiling Kriminal Tekstual** | Jika sebuah surat tebusan menggunakan istilah medis yang sangat spesifik tetapi memiliki tata bahasa yang tidak teratur, kriminolog dapat menyusun profil tersangka sebagai individu dengan latar belakang pendidikan atau profesi medis tertentu yang mencoba menyamarkan identitasnya. |
 
 ### Intisari Konstruksi Sosial Kejahatan
 

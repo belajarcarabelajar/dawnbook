@@ -6,7 +6,7 @@ Dalam situasi ini, satu-satunya cara untuk tidak bisa dikalahkan secara konsiste
 
 ### 1. Mengapa Strategi Murni Terkadang Gagal?
 
-Dalam bab sebelumnya, kita mempelajari **Strategi Murni** (*Pure Strategies*), di mana seorang pemain memilih satu tindakan spesifik dengan kepastian 100%. Namun, dalam banyak permainan kompetitif, terutama yang bersifat *zero-sum* (keuntungan satu pihak adalah kerugian pihak lain), Ekuilibrium Nash dalam strategi murni sering kali tidak ditemukan.
+Dalam bab sebelumnya, kita mempelajari **Strategi Murni** (*Pure Strategies*), ketika seorang pemain memilih satu tindakan spesifik dengan kepastian 100%. Namun, dalam banyak permainan kompetitif, terutama yang bersifat *zero-sum* (keuntungan satu pihak adalah kerugian pihak lain), Ekuilibrium Nash dalam strategi murni sering kali tidak ditemukan.
 
 **Analogi Penjaga Gawang vs. Penendang Penalti**  
 Seorang penendang penalti (*Striker*) bisa menendang ke kiri atau ke kanan. Seorang kiper bisa melompat ke kiri atau ke kanan.
@@ -14,12 +14,13 @@ Seorang penendang penalti (*Striker*) bisa menendang ke kiri atau ke kanan. Seor
 - Jika kiper tahu striker akan menendang ke kiri, kiper akan melompat ke kiri.
 - Jika striker tahu kiper akan melompat ke kiri, striker akan menendang ke kanan.
 - Jika kiper tahu striker akan menendang ke kanan, kiper akan melompat ke kanan.
+- Jika striker tahu kiper akan melompat ke kanan, striker akan menendang ke kiri.
 
 Tidak ada titik "diam" di sini. Setiap kali satu pemain menetapkan satu pilihan pasti, pemain lain memiliki insentif untuk mengubah pilihannya. Inilah saat kita membutuhkan **Strategi Campuran**.
 
 ### 2. Definisi Strategi Campuran
 
-**Strategi Campuran** adalah sebuah strategi di mana pemain menetapkan **probabilitas** untuk setiap strategi murni yang tersedia. Bukannya memilih satu aksi secara permanen, pemain "mengocok" pilihan mereka berdasarkan distribusi peluang tertentu.
+**Strategi Campuran** adalah sebuah strategi ketika pemain menetapkan **probabilitas** untuk setiap strategi murni yang tersedia. Bukannya memilih satu aksi secara permanen, pemain "mengocok" pilihan mereka berdasarkan distribusi peluang tertentu.
 
 > **Definisi Formal:** Jika seorang pemain memiliki strategi murni $S_1, S_2, \dots, S_n$, maka strategi campuran adalah vektor probabilitas $P = (p_1, p_2, \dots, p_n)$ sedemikian sehingga:
 >
@@ -87,7 +88,7 @@ Strategi campuran bukan sekadar teori matematika, melainkan alat pertahanan dan 
 
 #### A. Keamanan Siber dan Audit
 
-Bayangkan tim IT yang harus memeriksa peladen (*server*) dari serangan. Jika mereka selalu memeriksa peladen yang sama pada jam yang sama, peretas akan menyerang peladen lain.
+Bayangkan tim IT yang harus melindungi peladen (*server*) dari serangan. Jika mereka selalu memeriksa peladen yang sama pada jam yang sama, peretas akan menyerang peladen lain.
 
 - **Aplikasi:** Auditor pajak atau petugas keamanan bandara menggunakan algoritma strategi campuran untuk menentukan jadwal inspeksi secara acak sehingga pelaku kejahatan tidak bisa menemukan celah waktu atau lokasi yang aman.
 
@@ -106,7 +107,7 @@ Polisi lalu lintas tidak bisa berjaga di setiap sudut jalan setiap saat. Dengan 
 | Aspek | Strategi Murni | Strategi Campuran |
 | --- | --- | --- |
 | **Kepastian** | Deterministik (Pasti) | Probabilistik (Peluang) |
-| **Kapan Digunakan** | Saat ada satu pilihan terbaik yang stabil | Saat tidak ada ekuilibrium tunggal/perlu mengejutkan lawan |
+| **Kapan Digunakan** | Saat ada satu pilihan terbaik yang stabil | Saat tidak ada ekuilibrium strategi murni/perlu mengejutkan lawan |
 | **Tujuan Utama** | Memaksimalkan hasil langsung | Mencegah eksploitasi oleh lawan |
 | **Contoh** | Membeli barang termurah | Menentukan rute patroli keamanan |
 

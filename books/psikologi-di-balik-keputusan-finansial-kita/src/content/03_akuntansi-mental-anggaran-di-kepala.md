@@ -2,15 +2,15 @@
 
 Bonus Rp500.000 dan gaji Rp500.000 punya nilai tukar yang sama, tapi hampir semua orang memperlakukannya seolah-olah dua jenis uang yang berbeda.
 
-Lihat saja apa yang terjadi di kepalamu. Gaji langsung terbelah menjadi tugas-tugas: sebagian untuk tagihan, sebagian untuk belanja bulanan, sisanya disisihkan dengan hati-hati. Bonus diperlakukan lain. Ia terasa seperti hadiah, seperti uang yang boleh dibelanjakan tanpa banyak perhitungan, entah untuk sepatu yang lama diinginkan atau makan enak bersama teman. Padahal coba pikir sejenak: angkanya sama, tukarannya sama, kegunaannya sama. Kalau kedua lembar itu diletakkan berdampingan, tidak ada yang membedakan keduanya. Yang berbeda hanya satu hal: label yang menempel di kepalamu.
+Lihat saja apa yang terjadi di kepalamu. Gaji langsung terbelah menjadi tugas-tugas: sebagian untuk tagihan, sebagian untuk belanja bulanan, sisanya disisihkan dengan hati-hati. Bonus diperlakukan lain. Ia terasa seperti hadiah, seperti uang yang boleh dibelanjakan tanpa banyak perhitungan, entah untuk sepatu yang lama diinginkan atau makan enak bersama teman. Padahal coba pikir sejenak: angkanya sama, nilai tukarnya sama, kegunaannya sama. Kalau kedua lembar itu diletakkan berdampingan, tidak ada yang membedakan keduanya. Yang berbeda hanya satu hal: label yang menempel di kepalamu.
 
-Ekonom Richard Thaler menyebut kebiasaan ini akuntansi mental, dan dalam papernya "Mental Accounting Matters" (1999) ia membahasnya secara rinci. Menurut teori ekonomi, semua uang itu sama dan saling bisa dipertukarkan. Menurut kepala kita, setiap uang punya label.
+Ekonom Richard Thaler menyebut kebiasaan ini akuntansi mental, dan dalam papernya "Mental Accounting Matters" (1999) ia membahasnya secara rinci. Menurut teori ekonomi, semua uang itu sama dan bisa saling dipertukarkan. Menurut kepala kita, setiap uang punya label.
 
 ### Laci-laci di dalam kepala
 
-Akuntansi mental bukan sekadar gaya bicara. Thaler menunjukkan bahwa ia bekerja lewat tiga komponen yang saling menyambung. Pertama, cara hasil-hasil ekonomi dipersepsikan dan dievaluasi: untung dan rugi tidak pernah dicatat apa adanya, melainkan lewat kerangka yang sedang kita pegang. Kedua, penugasan aktivitas ke akun tertentu: belanja mingguan dilampirkan ke anggaran makan, liburan dilampirkan ke pos tabungan liburan. Ketiga, seberapa sering akun-akun itu ditinjau ulang, persoalan yang dalam literatur disebut choice bracketing: seberapa luas beberapa keputusan digabungkan dalam satu kali evaluasi.
+Akuntansi mental bukan sekadar gaya bicara. Thaler menunjukkan bahwa ia bekerja lewat tiga komponen yang saling menyambung. Pertama, cara hasil-hasil ekonomi dipersepsikan dan dievaluasi: untung dan rugi tidak pernah dicatat apa adanya, melainkan lewat kerangka yang sedang kita pegang. Kedua, penugasan aktivitas ke akun tertentu: belanja mingguan dimasukkan ke anggaran makan, liburan dimasukkan ke pos tabungan liburan. Ketiga, seberapa sering akun-akun itu ditinjau ulang, persoalan yang dalam literatur disebut choice bracketing: seberapa luas beberapa keputusan digabungkan dalam satu kali evaluasi.
 
-Semua itu terdengar seperti pembukuan yang rapi, tapi Thaler menegaskan bahwa setiap komponen akuntansi mental melanggar prinsip dasar ekonomi bernama fungibility: anggapan bahwa uang saling bisa menggantikan, sehingga satu rupiah di dompet nilainya sama dengan satu rupiah di saku belakang. Dalam lembar pembukuan, anggapan itu berlaku. Dalam kepala, labellah yang menentukan.
+Semua itu terdengar seperti pembukuan yang rapi, tapi Thaler menegaskan bahwa setiap komponen akuntansi mental melanggar prinsip dasar ekonomi bernama fungibility: anggapan bahwa uang bisa saling menggantikan, sehingga satu rupiah di dompet nilainya sama dengan satu rupiah di saku belakang. Dalam lembar pembukuan, anggapan itu berlaku. Dalam kepala, labellah yang menentukan.
 
 > Ibaratnya, kepalamu memakai sistem arsip berwarna. Uang makan masuk map biru, uang liburan masuk map kuning, bonus masuk map hijau bertuliskan "kejutan". Isinya sama-sama lembaran rupiah, tapi begitu map biru kosong, kamu enggan menyentuh map kuning, meski di mata bank semua itu hanya satu saldo yang sama.
 
@@ -28,7 +28,7 @@ Lapis ketiga inilah yang menjawab paradoks di pembuka bab. Gaji masuk kategori r
 
 Seberapa jauh label bisa menipu, terukur rapi dalam eksperimen klasik Tversky dan Kahneman (1981). Bayangkan kamu hendak menonton pementasan teater dan tiketnya seharga 10 dolar. Sesampainya di pintu masuk, kamu sadar dompetmu kehilangan 10 dolar. Apakah kamu tetap membeli tiket? Ketika pertanyaan ini dilemparkan kepada partisipan, 88 persen menjawab tetap membeli.
 
-Sekarang skenarionya diganti sedikit. Kali ini tiket sudah kamu beli di muka, dan di pintu masuk tiket itu hilang, tak bisa dicari. Apakah kamu membeli tiket kedua? Hanya 46 persen yang bersedia.
+Sekarang skenarionya diganti sedikit. Kali ini tiket sudah kamu beli di muka, dan di pintu masuk tiket itu hilang, tak bisa ditemukan. Apakah kamu membeli tiket kedua? Hanya 46 persen yang bersedia.
 
 Padahal kalau dihitung dingin, kedua situasi identik: kamu kehilangan nilai 10 dolar dan butuh 10 dolar lagi untuk menonton. Bedanya hanya letak pencatatannya. Kehilangan uang tunai dicatat ke akun umum, tidak menyentuh akun pertunjukan, sehingga menonton masih terasa 10 dolar. Kehilangan tiket langsung dibukukan ke akun pertunjukan yang sama, sehingga satu pementasan terasa harganya 20 dolar, dan bagi banyak orang itu sudah melampaui batas. Angka yang sama, laci yang berbeda, keputusan yang terbalik.
 
@@ -40,7 +40,7 @@ Sisi lain dari sistem yang sama bekerja dengan arah yang menarik. Thaler menutup
 
 ## Intisari
 
-- Akuntansi mental membuat kepala melabeli uang ke laci-laci berbeda, dan setiap komponen akuntansi mental melanggar fungibility, prinsip bahwa uang saling bisa dipertukarkan (Thaler, 1999).
+- Akuntansi mental membuat kepala melabeli uang ke laci-laci berbeda, dan setiap komponen akuntansi mental melanggar fungibility, prinsip bahwa uang bisa saling dipertukarkan (Thaler, 1999).
 - Bonus terasa bebas dibelanjakan karena masuk kategori windfall, sementara gaji masuk kategori reguler yang penuh kewajiban.
 - Dalam eksperimen tiket teater Tversky dan Kahneman (1981), 88 persen masih mau membeli tiket setelah kehilangan 10 dolar tunai, tapi hanya 46 persen setelah kehilangan tiketnya, karena tiket kedua dibukukan ke akun pertunjukan yang sama.
 

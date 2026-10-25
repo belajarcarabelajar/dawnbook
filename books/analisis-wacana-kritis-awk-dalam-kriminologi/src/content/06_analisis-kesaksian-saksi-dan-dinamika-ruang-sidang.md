@@ -33,7 +33,7 @@ Bahasa dalam interogasi sering kali dirancang untuk membatasi ruang gerak lingui
 
 ### 2. Retorika Ruang Sidang
 
-Ruang sidang adalah sebuah panggung di mana pengacara dan jaksa bertindak sebagai sutradara narasi. Setiap pilihan kata bertujuan untuk memengaruhi persepsi hakim atau juri.
+Ruang sidang adalah sebuah panggung tempat pengacara dan jaksa bertindak sebagai sutradara narasi. Setiap pilihan kata bertujuan untuk memengaruhi persepsi hakim atau juri.
 
 #### Pertanyaan Retoris dan Efek Psikologis
 
@@ -53,20 +53,20 @@ Pilihan kata dapat mengubah interpretasi fakta yang sama. Lihat perbedaan beriku
 | **"Menabrak"** | Ada kecepatan dan niat/kelalaian |
 | **"Menghancurkan"** | Kecepatan tinggi, dampak fatal |
 
-Dalam AWK, analisis menyoroti bagaimana jaksa mungkin menggunakan kata **"membantai"** untuk membangkitkan emosi, sementara pengacara bela diri menggunakan kata **"insiden tragis"** untuk menetralisir tanggung jawab moral kliennya.
+Dalam AWK, analisis menyoroti bagaimana jaksa mungkin menggunakan kata **"membantai"** untuk membangkitkan emosi, sementara pengacara pembela menggunakan frasa **"insiden tragis"** untuk menetralkan tanggung jawab moral kliennya.
 
 ---
 
-### 3. De-kredibilitas Saksi melalui Analisis Linguistik
+### 3. Pendiskreditan Saksi melalui Analisis Linguistik
 
 Salah satu dinamika penting adalah bagaimana pengacara mencoba meruntuhkan kesaksian melalui strategi bahasa.
 
-#### Strategi *Silence and Speech*
+#### Strategi Repetisi dan Kontrol Modalitas
 
 Sering kali, saksi dibuat merasa terpojok atau tidak konsisten melalui teknik:
 
 - **Repetisi:** Menanyakan hal yang sama berulang kali dengan sedikit variasi untuk mencari celah inkonsistensi.
-- **Kontrol Modalitas:** Memaksa saksi beralih dari pernyataan kemungkinan (*"Saya rasa..."*, *"Sepertinya..."*) ke pernyataan pasti (*"Ya"* atau *"Tidak"*). Jika saksi ragu, kredibilitasnya jatuh. Jika saksi pasti namun ternyata salah sedikit saja, saksi dianggap berbohong.
+- **Kontrol Modalitas:** Memaksa saksi beralih dari pernyataan kemungkinan (*"Saya rasa..."*, *"Sepertinya..."*) ke pernyataan pasti (*"Ya"* atau *"Tidak"*). Jika saksi ragu, kredibilitasnya jatuh. Jika saksi pasti, tetapi ternyata salah sedikit saja, saksi dianggap berbohong.
 
 > **Refleksi Linguistik:** Pernahkah seseorang merasa terpojok oleh pertanyaan pihak lain bukan karena merasa salah, melainkan karena cara pertanyaan itu disusun membuat jawaban jujur terdengar mencurigakan?
 
@@ -74,7 +74,7 @@ Sering kali, saksi dibuat merasa terpojok atau tidak konsisten melalui teknik:
 
 ### 4. Analisis Kasus Kekerasan Seksual
 
-Mari melihat bagaimana manipulasi bahasa terjadi dalam skenario nyata persidangan kekerasan seksual, di mana sering terjadi **"Victim Blaming"** melalui wacana.
+Mari melihat bagaimana manipulasi bahasa terjadi dalam skenario persidangan kekerasan seksual, tempat sering terjadi **"Victim Blaming"** melalui wacana.
 
 **Skenario:** Seorang saksi korban ditanya oleh pengacara terdakwa:
 
@@ -98,21 +98,19 @@ K = \frac{\sum C}{P}
 $$
 </div>
 
-Di mana jika tekanan diskursif ($P$) melalui pertanyaan retoris dan intimidasi verbal meningkat, maka nilai kredibilitas ($K$) yang dirasakan oleh pendengar (hakim/juri) akan cenderung menurun, terlepas dari fakta objektif yang ada.
+Artinya, jika tekanan diskursif ($P$) melalui pertanyaan retoris dan intimidasi verbal meningkat, maka nilai kredibilitas ($K$) yang dirasakan oleh pendengar (hakim/juri) akan cenderung menurun, terlepas dari fakta objektif yang ada.
 
 ---
 
 ### 6. Unsur Pembuktian Linguistik Forensik
 
-Linguistik forensik adalah cabang ilmu bahasa terapan yang menggunakan analisis bahasa untuk kepentingan hukum dan investigasi kriminal. Bayangkan seorang detektif yang tidak mencari sidik jari pada benda fisik, melainkan **"sidik jari linguistik"** yang tertinggal dalam susunan kalimat, pilihan kata, hingga tanda baca.
-
 Dalam kriminologi, bahasa dianggap sebagai manifestasi perilaku. Berikut adalah beberapa pilar utama bagaimana kata-kata menjadi alat bukti:
 
 #### Idiolek sebagai Gaya Bahasa Unik
 
-Sama seperti sidik jari atau DNA, setiap orang memiliki **idiolek**. Idiolek adalah gaya bahasa unik yang dimiliki individu, yang dipengaruhi oleh latar belakang pendidikan, dialek regional, usia, hingga profesi.
+Setiap orang memiliki **idiolek**. Idiolek adalah gaya bahasa unik yang dimiliki individu, yang dipengaruhi oleh latar belakang pendidikan, dialek regional, usia, hingga profesi.
 
-- **Pilihan Leksikal:** Apakah penulis menggunakan kata "komputer" atau "peranti"?
+- **Pilihan Leksikal:** Apakah penulis menggunakan kata "perangkat" atau "peranti"?
 - **Sintaksis:** Bagaimana struktur kalimatnya? Apakah cenderung menggunakan kalimat pasif atau aktif?
 - **Ortografi:** Bagaimana penulis menggunakan tanda baca atau singkatan (misal: "yg" vs "yang", penggunaan tanda seru yang berlebihan).
 
@@ -145,7 +143,7 @@ Untuk memahami bagaimana seorang kriminolog menggunakan bahasa sebagai alat bukt
    
    Perbedaan struktur bahasa antara pernyataan A dan B dapat dianalisis dari sudut pandang hukum berdasarkan derajat faktualitas, tuduhan pidana, dan bukti objektif.
 
-4. **Hubungan dengan Profiling Kriminal:** Jika sebuah surat tuntutan tebusan menggunakan istilah medis yang spesifik namun dengan tata bahasa yang tidak terstruktur, profil kriminologi seperti apa yang bisa disusun mengenai latar belakang tersangka?
+4. **Hubungan dengan Profiling Kriminal:** Jika sebuah surat tuntutan tebusan menggunakan istilah medis yang spesifik, tetapi dengan tata bahasa yang tidak terstruktur, profil kriminologi seperti apa yang bisa disusun mengenai latar belakang tersangka?
 
 Linguistik forensik bukan hanya tentang apa yang dikatakan, melainkan bagaimana hal itu dikatakan dan apa yang tersirat di balik struktur tersebut.
 
@@ -157,9 +155,9 @@ Dinamika ruang sidang membuktikan bahwa hukum tidak hanya tentang apa yang terja
 
 **Poin Utama untuk Diingat:**
 
-- **Interogasi** adalah ruang kontrol di mana pertanyaan sering kali membawa asumsi kesalahan (presuposisi).
+- **Interogasi** adalah ruang kontrol tempat pertanyaan sering kali membawa asumsi kesalahan (presuposisi).
 - **Diksi** menentukan berat ringannya persepsi terhadap sebuah tindakan kriminal.
-- **Ruang Sidang** adalah arena di mana kredibilitas dibangun atau dihancurkan melalui manipulasi modalitas bahasa.
+- **Ruang Sidang** adalah arena tempat kredibilitas dibangun atau dihancurkan melalui manipulasi modalitas bahasa.
 - **Linguistik Forensik** memanfaatkan idiolek dan sintaksis untuk mengidentifikasi kepenulisan dokumen kriminal.
 
 > **Wawasan Penting:** Dalam hukum, "kebenaran" sering kali bukan merupakan apa yang benar-benar terjadi, melainkan narasi yang paling sulit untuk dibantah secara linguistik.

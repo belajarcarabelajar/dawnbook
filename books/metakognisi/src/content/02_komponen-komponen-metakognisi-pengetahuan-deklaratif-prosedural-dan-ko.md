@@ -1,18 +1,18 @@
 ## Komponen-Komponen Metakognisi
 
-Metakognisi sering disebut sebagai "berpikir tentang berpikir". Sebenarnya, ini adalah kemampuan dasar yang membuat kita sadar, mampu mengontrol, sekaligus mengevaluasi cara kita sendiri dalam memproses informasi. Istilah ini pertama kali dikenalkan oleh John Flavell pada tahun 1976. Kalau kita mau membedah metakognisi lebih dalam, ada tiga komponen utama yang membentuk kesadaran metakognitif: pengetahuan deklaratif, prosedural, dan kondisional. Ketiga hal inilah yang nantinya menentukan seberapa efektif cara belajar seseorang.
+Metakognisi sering disebut sebagai "berpikir tentang berpikir". Sebenarnya, ini adalah kemampuan dasar yang membuat kita sadar, mampu mengontrol, sekaligus mengevaluasi cara kita sendiri dalam memproses informasi. Istilah ini pertama kali dikenalkan oleh John Flavell pada tahun 1976. Kalau kita mau membedah metakognisi lebih dalam, ada tiga komponen utama pengetahuan metakognitif: pengetahuan deklaratif, prosedural, dan kondisional. Ketiga hal inilah yang nantinya menentukan seberapa efektif cara belajar seseorang.
 
 ## 1. Pengetahuan Deklaratif
 
 Pengetahuan deklaratif adalah aspek "apa" dari metakognisi. Bagian ini berfokus pada pemahaman tentang fakta, konsep, dan informasi yang kamu miliki. Ini juga termasuk seberapa jauh kamu mengenali diri sendiri sebagai seorang pembelajar. Pengetahuan semacam ini sifatnya eksplisit, artinya kamu bisa mengungkapkannya secara langsung lewat kata-kata atau tulisan.
 
 Apa saja yang masuk ke dalam pengetahuan deklaratif?
-- **Mengenali diri sendiri:** Kamu paham apa saja kelebihan dan kekuranganmu saat belajar. Kamu juga tahu gaya belajar apa yang paling pas buatmu, termasuk apa yang biasanya memicu motivasimu.
+- **Mengenali diri sendiri:** Kamu paham apa saja kelebihan dan kekuranganmu saat belajar. Kamu juga tahu cara belajar apa yang paling pas buatmu, termasuk apa yang biasanya memicu motivasimu.
 - **Mengenali tugas:** Kamu bisa menilai karakteristik sebuah tugas. Misalnya, seberapa sulit tugas itu, apa saja yang dibutuhkan untuk menyelesaikannya, dan sumber daya apa yang harus kamu siapkan.
 - **Mengenali strategi:** Kamu tahu ada banyak strategi belajar di luar sana, paham kenapa sebuah strategi bisa berhasil, dan bisa membedakan satu strategi dengan yang lainnya.
 
 Contoh sederhananya begini:
-- Kamu sadar bahwa kamu lebih cepat menangkap materi kalau pakai *mind map* karena kamu tipe visual.
+- Kamu sadar bahwa kamu lebih cepat menangkap materi kalau pakai *mind map*.
 - Seorang mahasiswa tahu betul bahwa menghadapi ujian pilihan ganda butuh pendekatan yang beda dibanding soal esai.
 - Kamu paham kalau bikin jadwal belajar yang teratur itu ampuh buat membantu mengingat materi lebih lama.
 
@@ -27,7 +27,7 @@ Elemen yang ada di dalam pengetahuan prosedural meliputi:
 
 Contoh penerapan prosedural:
 - Kamu tahu *bagaimana* cara bikin ringkasan yang bagus dari satu bab buku tebal, yaitu dengan memisahkan ide pokok dari kalimat pendukungnya.
-- Seorang programmer tahu persis *langkah-langkah* melakukan *debugging* saat kodenya error.
+- Seorang programmer tahu persis *langkah-langkah* melakukan *debugging* saat kodenya *error*.
 - Kamu tahu *bagaimana* cara menghitung momentum dalam fisika menggunakan rumus berikut:
 
   <div>
@@ -47,14 +47,14 @@ Cakupan pengetahuan kondisional:
 
 Contoh pengetahuan kondisional:
 - Kamu tahu *kapan* harus murni menghafal (seperti mengingat tanggal sejarah) dan *kapan* harus benar-benar memahami konsep (seperti saat belajar logika matematika).
-- Seorang peneliti paham *mengapa* metode kualitatif lebih cocok dipakai untuk mengamati fenomena sosial, sedangkan metode kuantitatif lebih pas buat mengukur data angka.
+- Seorang peneliti paham *mengapa* metode kualitatif lebih cocok dipakai untuk memahami pengalaman dan persepsi di balik fenomena sosial, sedangkan metode kuantitatif lebih pas buat mengukur data angka.
 - Saat ujian dengan waktu mepet, kamu sadar bahwa strategi eliminasi jawaban yang salah jauh lebih masuk akal dibanding mencoba mencari satu jawaban yang benar dari awal.
 
 ## Bagaimana Ketiga Komponen Ini Bekerja Sama
 
 Ketiganya tidak berjalan sendiri-sendiri. Mereka saling melengkapi untuk membentuk kesadaran metakognitif yang utuh. 
 
-Pengetahuan deklaratif memberi gambaran tentang apa saja "amunisi" yang kamu punya. Setelah itu, pengetahuan prosedural menerjemahkan informasi tadi menjadi tindakan nyata. Terakhir, pengetahuan kondisional bertindak semacam manajer yang memutuskan kapan dan mengapa amunisi tersebut harus dikeluarkan.
+Pengetahuan deklaratif memberi gambaran tentang apa saja "amunisi" yang kamu punya. Setelah itu, pengetahuan prosedural menerjemahkan informasi tadi menjadi tindakan nyata. Terakhir, pengetahuan kondisional bertindak sebagai semacam manajer yang memutuskan kapan dan mengapa amunisi tersebut harus dikeluarkan.
 
 > **Catatan:** Pengetahuan deklaratif sering kali menjadi pijakan awal sebelum seseorang menguasai kemampuan prosedural. Keduanya kemudian disempurnakan oleh pengetahuan kondisional yang memastikan proses belajar berjalan efektif sesuai situasi.
 
@@ -76,8 +76,8 @@ Biar lebih jelas, mari kita lihat skenario seorang mahasiswa yang sedang bersiap
 	- Ia terbiasa menulis poin-poin ringkasan dari tiap era.
 
 3. **Pengetahuan Kondisional ("Kapan & Mengapa"):**
-	- Ia memutuskan *kapan* harus memakai kartu *flash*: khusus untuk menghafal tanggal dan nama. Ia paham *mengapa* ini penting, karena gaya belajarnya butuh pengulangan yang rapi.
-	- Ia tahu *kapan* harus melihat *timeline*: saat butuh memahami hubungan sebab-akibat antar peristiwa sejarah, *karena* ini membantu melihat benang merahnya.
+	- Ia memutuskan *kapan* harus memakai kartu *flash*: khusus untuk menghafal tanggal dan nama. Ia paham *mengapa* ini penting, karena hafalan butuh pengulangan yang rapi.
+	- Ia tahu *kapan* harus melihat *timeline*: saat butuh memahami hubungan sebab-akibat antarperistiwa sejarah, *karena* ini membantu melihat benang merahnya.
 	- Terakhir, ia paham *kapan* dan *mengapa* harus membaca ulang materi: khusus untuk topik yang masih belum ia kuasai penuh, agar pemahamannya utuh dan tidak sekadar hafal mati.
 
 Lewat interaksi ketiga komponen inilah proses belajarnya jadi jauh lebih terarah dan nggak membuang waktu.

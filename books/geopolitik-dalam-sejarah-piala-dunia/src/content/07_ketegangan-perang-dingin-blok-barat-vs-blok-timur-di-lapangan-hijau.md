@@ -2,15 +2,15 @@
 
 Selama periode 1947 hingga 1991, Piala Dunia FIFA menjadi medan persaingan politik yang sengit. Di sana berlangsung "perang tanpa tembakan", meminjam istilah George Orwell, antara dua ideologi besar: **Kapitalisme (Blok Barat)** yang dipimpin Amerika Serikat dan **Komunisme (Blok Timur)** yang dipimpin Uni Soviet.
 
-Dalam bab ini, kita akan membedah bagaimana lapangan hijau menjadi instrumen validasi ideologi, di mana setiap gol dianggap sebagai kemenangan sistem politik.
+Dalam bab ini, kita akan membedah bagaimana lapangan hijau menjadi instrumen validasi ideologi, tempat setiap gol dianggap sebagai kemenangan sistem politik.
 
 ### Sepak Bola sebagai Bukti Keunggulan Ideologi
 
-Bagi negara-negara Blok Timur, olahraga adalah alat negara. Berbeda dengan pemain di Barat yang seringkali merupakan profesional murni dalam klub swasta, atlet dari Uni Soviet, Hungaria, atau Jerman Timur sering disebut sebagai **"Amatir Negara"**.
+Bagi negara-negara Blok Timur, olahraga adalah alat negara. Berbeda dengan pemain di Barat yang sering kali merupakan profesional murni dalam klub swasta, atlet dari Uni Soviet, Hungaria, atau Jerman Timur sering disebut sebagai **"Amatir Negara"**.
 
-> **Analogi:** Jika Blok Barat menganggap sepak bola sebagai pasar bebas bakat di mana individu bersinar, maka Blok Timur menganggapnya sebagai mesin pabrik yang presisi, di mana kolektivitas dan disiplin fisik adalah bukti keunggulan manajemen sosialis.
+> **Analogi:** Jika Blok Barat menganggap sepak bola sebagai pasar bebas bakat tempat individu bersinar, maka Blok Timur menganggapnya sebagai mesin pabrik yang presisi, tempat kolektivitas dan disiplin fisik adalah bukti keunggulan manajemen sosialis.
 
-Upaya ini berfokus pada dua hal. Pertama, legitimasi sistem. Kemenangan di Piala Dunia membuktikan bahwa rakyat di bawah bendera komunisme lebih sehat, tangguh, dan terorganisir dibandingkan masyarakat Barat yang dicap dekaden. Kedua, propaganda domestik. Skor pertandingan dipajang sebagai berita utama surat kabar guna mengalihkan perhatian dari kesulitan ekonomi di dalam negeri.
+Upaya ini berfokus pada dua hal. Pertama, legitimasi sistem. Kemenangan di Piala Dunia dianggap membuktikan bahwa rakyat di bawah bendera komunisme lebih sehat, tangguh, dan terorganisir dibandingkan masyarakat Barat yang dicap dekaden. Kedua, propaganda domestik. Skor pertandingan dipajang sebagai berita utama surat kabar guna mengalihkan perhatian dari kesulitan ekonomi di dalam negeri.
 
 ### Jerman Barat vs Jerman Timur 1974
 
@@ -22,9 +22,9 @@ Pertemuan bersejarah ini berlangsung di Hamburg. Secara mengejutkan, Jerman Timu
 
 Kemenangan dalam satu laga kerap dipaksakan menjadi bukti keunggulan sistem pemerintahan, meski di lapangan aspek taktik dan keberuntungan jauh lebih menentukan.
 
-### Boikot Terselubung dan "Pertandingan Hantu" 1974
+### Boikot Terselubung dan "Pertandingan Hantu" 1973
 
-Ketegangan Perang Dingin seringkali berujung pada penolakan untuk bermain, yang dalam bahasa diplomasi disebut sebagai boikot. Kasus paling dramatis melibatkan **Uni Soviet vs Chile** pada kualifikasi Piala Dunia 1974.
+Ketegangan Perang Dingin sering kali berujung pada penolakan untuk bermain, yang dalam bahasa diplomasi disebut sebagai boikot. Kasus paling dramatis melibatkan **Uni Soviet vs Chile** pada kualifikasi Piala Dunia 1974.
 
 **Kronologi Konflik:**
 
@@ -47,7 +47,7 @@ Guna mencegah insiden serupa, tim-tim Blok Timur yang bertanding di negara Barat
 | **Status Pemain** | Profesional Komersial | Pegawai Negeri / Anggota Militer |
 | **Tujuan Utama** | Hiburan & Keuntungan Bisnis | Prestise Negara & Bukti Ideologi |
 | **Gaya Permainan** | Berfokus pada Kreativitas Individu | Berfokus pada Sistem dan Fisik |
-| **Dukungan Dana** | Sponsor Swasta & Penjualan Tiket | Anggaran Pendapatan Negara (APN) |
+| **Dukungan Dana** | Sponsor Swasta & Penjualan Tiket | Anggaran Negara |
 
 ### Dampak yang Masih Terasa
 
@@ -63,4 +63,4 @@ $$
 
 Dalam rumus di atas, sepak bola digunakan sebagai variabel untuk mengubah persepsi dunia tanpa perlu melakukan agresi militer. Kemenangan di lapangan hijau adalah "kemenangan moral" bagi rakyat yang meyakini ideologi tertentu.
 
-> **Penting:** Perang Dingin mengajarkan kita bahwa sepak bola tidak pernah benar-benar netral. Setiap kali seorang pemain mencium lambang di jerseynya di depan jutaan penonton global, ia sedang mengirimkan pesan tentang identitas, kedaulatan, dan seringkali, posisi politik negaranya di peta dunia.
+> **Penting:** Perang Dingin mengajarkan kita bahwa sepak bola tidak pernah benar-benar netral. Setiap kali seorang pemain mencium lambang di jerseinya di depan jutaan penonton global, ia sedang mengirimkan pesan tentang identitas, kedaulatan, dan sering kali, posisi politik negaranya di peta dunia.

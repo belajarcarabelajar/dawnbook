@@ -18,7 +18,7 @@ Kassian Cephas (1845-1912) bukan sekadar fotografer biasa. Ia adalah fotografer 
 
 Ketika kaki asli Borobudur ditemukan, para arkeolog menghadapi dilema besar. Membiarkan kaki itu terbuka akan membahayakan stabilitas struktur seluruh candi (risiko longsor atau runtuh). Namun, menutupnya kembali tanpa dokumentasi berarti menghilangkan data sejarah yang penting.
 
-Keputusannya adalah: **Buka sejenak, dokumentasikan seluruhnya, lalu tutup selamanya.**
+Keputusannya adalah **buka sejenak, dokumentasikan seluruhnya, lalu tutup selamanya.**
 
 ### Kendala Teknis Pemotretan
 
@@ -53,9 +53,9 @@ Mendokumentasikan hampir $200 \text{ m}^2$ karya seni pahat di bawah tanah adala
 
 Hasil kerja Cephas diterbitkan dalam buku karya Isaac Groneman pada tahun 1895. Foto-foto ini menjadi "peta jalan" bagi para ahli epigrafi, sejarawan seni, dan biksu untuk memahami pesan moral di balik Karmawibhangga.
 
-### Pengaruhnya Terhadap Restorasi
+### Pengaruhnya terhadap Restorasi
 
-Tanpa foto Cephas, upaya restorasi Borobudur oleh Theodoor van Erp (1907-1911) dan restorasi besar UNESCO (1973-1983) tidak akan memiliki referensi visual yang akurat mengenai kondisi asli kaki candi sebelum tertutup tekanan tanah dan waktu.
+Tanpa foto Cephas, upaya restorasi Borobudur oleh Theodoor van Erp (1907-1911) dan restorasi besar UNESCO (1973-1983) tidak akan memiliki referensi visual yang akurat mengenai kondisi asli kaki candi sebelum ditutup kembali dengan susunan batu kaki tambahan.
 
 Tahun-tahun yang tersebar di bab ini bisa kamu lihat berurutan pada linimasa berikut.
 

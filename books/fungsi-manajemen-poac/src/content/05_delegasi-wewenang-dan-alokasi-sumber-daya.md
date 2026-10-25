@@ -2,7 +2,7 @@
 
 Organisasi yang sudah punya visi jelas (Planning) dan struktur kokoh (Organizing) masuk ke langkah penting berikutnya: menentukan siapa melakukan apa. Langkah ini sekaligus menetapkan dengan alat apa mereka bekerja dan seberapa besar tanggung jawab yang mereka emban. Di sinilah prinsip **Delegasi Wewenang** dan **Alokasi Sumber Daya** menghubungkan rencana di atas kertas dengan aksi nyata di lapangan.
 
-## 1. Prinsip "The Right Man on the Right Place"
+## 1. Prinsip "The Right Man in the Right Place"
 
 Inti dari efektivitas manajemen adalah penempatan orang yang tepat pada posisi yang tepat. Bayangkan sebuah tim sepak bola; kamu tidak akan menempatkan seorang pencetak gol andal di posisi penjaga gawang, bukan? Begitu pula dalam organisasi.
 
@@ -43,24 +43,24 @@ Aspek ini melibatkan pendistribusian anggaran ke berbagai departemen. Untuk meto
 
 ### B. Sumber Daya Fisik dan Teknologi
 
-Meliputi mesin, perangkat lunak, ruang kantor, hingga bahan baku. Langkah utamanya adalah memastikan tidak ada aset yang menganggur (*idle assets*). Sebagai contoh, jika tim desain membutuhkan komputer berspesifikasi tinggi, memberikan laptop standar kantor kepada mereka justru akan menghambat produktivitas dan membuang waktu.
+Meliputi mesin, perangkat lunak, ruang kantor, hingga bahan baku. Langkah utamanya adalah memastikan tidak ada aset yang menganggur (*idle assets*) dan setiap aset sesuai dengan kebutuhan penggunanya. Sebagai contoh, jika tim desain membutuhkan komputer berspesifikasi tinggi, memberikan laptop standar kantor kepada mereka justru akan menghambat produktivitas dan membuang waktu.
 
 ### C. Sumber Daya Manusia (Waktu & Tenaga)
 
-Aspek ini tidak hanya menyangkut jumlah personel, tetapi juga pengelolaan waktu mereka secara efisien. Pengalokasian waktu (*time allocation*) yang tepat sangat diperlukan untuk memastikan anggota tim tidak mengalami kelelahan ekstrem (*burnout*) akibat beban kerja yang timpang antar-departemen.
+Aspek ini tidak hanya menyangkut jumlah personel, tetapi juga pengelolaan waktu mereka secara efisien. Pengalokasian waktu (*time allocation*) yang tepat sangat diperlukan untuk memastikan anggota tim tidak mengalami kelelahan ekstrem (*burnout*) akibat beban kerja yang timpang antardepartemen.
 
 ## 4. Peluncuran Fitur Flash Sale
 
 Mari kita lihat bagaimana prinsip ini bekerja di sebuah perusahaan rintisan (*startup*) *e-commerce* yang sedang berkembang dengan kasus peluncuran fitur "Flash Sale" baru.
 
 Dalam skenario ini, penerapan ketiga prinsip tersebut terlihat sebagai berikut:
-- **The Right Man on the Right Place:** Manajer menunjuk pengembang senior yang ahli dalam menangani trafik tinggi (*high-traffic backend*) untuk memimpin tim teknis. Di saat yang sama, desainer UI/UX yang memahami psikologi konsumen ditugaskan merancang antarmuka.
+- **The Right Man in the Right Place:** Manajer menunjuk pengembang senior yang ahli dalam menangani trafik tinggi (*high-traffic backend*) untuk memimpin tim teknis. Di saat yang sama, desainer UI/UX yang memahami psikologi konsumen ditugaskan merancang antarmuka.
 - **Delegasi Wewenang:** Agar keputusan bisa diambil dengan cepat tanpa birokrasi berbelit-belit, CEO memberikan wewenang penuh kepada Manajer Proyek untuk menyetujui biaya lembur tim hingga batas nominal tertentu.
 - **Alokasi Sumber Daya:** Perusahaan mengalokasikan sumber daya secara taktis. Di sisi finansial, 40% anggaran pemasaran bulan ini dialihkan khusus untuk promosi fitur baru. Di sisi infrastruktur fisik, perusahaan menyewa kapasitas server tambahan (*cloud capacity*) untuk mengantisipasi lonjakan pengunjung saat promo berlangsung.
 
 ## 5. Hambatan dalam Delegasi dan Alokasi
 
-Meskipun terlihat mudah di atas kertas, praktiknya sering kali sulit karena faktor manusia:
+Meskipun terlihat mudah di atas kertas, praktiknya sering kali sulit karena faktor manusia dan keterbatasan sumber daya:
 - **Ketakutan akan Kegagalan:** Atasan merasa khawatir jika tugas diberikan kepada anggota tim, hasilnya tidak sesuai harapan atau kurang sempurna.
 - **Tantangan Kepercayaan:** Beberapa manajer merasa mereka harus menangani segala hal sendiri agar hasilnya memuaskan, yang sering kali berujung pada pengawasan berlebih (*micromanagement*).
 - **Keterbatasan Sumber Daya:** Keinginan ekspansi sering kali tidak sejalan dengan ketersediaan dana dan fasilitas yang ada.

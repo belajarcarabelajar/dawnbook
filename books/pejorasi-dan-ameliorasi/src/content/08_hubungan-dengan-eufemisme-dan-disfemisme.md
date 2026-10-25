@@ -6,14 +6,14 @@ Di sinilah batas konseptual antara **ameliorasi/pejorasi** dan **eufemisme/disfe
 
 ### Mengenal Eufemisme dan Disfemisme
 
-Sebelum menelaah komparasi keduanya, penting untuk memahami batasan dari kedua piranti gaya bahasa tersebut:
+Sebelum membandingkan kedua pasangan konsep tersebut, penting untuk memahami batasan eufemisme dan disfemisme sebagai piranti gaya bahasa:
 
 #### Eufemisme
 
 Eufemisme adalah pemanfaatan kata atau ungkapan yang lebih halus, sopan, atau berkonotasi netral guna menggantikan bentuk leksikal yang dirasa kasar, menyinggung, tabu, atau menimbulkan ketidaknyamanan psikologis.
 
 - **Tujuan Pemanfaatan:** Menjaga keharmonisan sosial, menghormati mitra tutur, serta meredam ketegangan emosional akibat topik pembicaraan yang sensitif.
-- **Contoh Kasus:** Pemakaian frasa *dirumahkan* untuk menggantikan istilah *dipecat* atau *pemutusan hubungan kerja (PHK)* secara sepihak.
+- **Contoh Kasus:** Pemakaian kata *dirumahkan* untuk menghaluskan istilah *dipecat*.
 
 #### Disfemisme
 
@@ -49,9 +49,9 @@ Kendati berbeda ranah, terdapat relasi berkesinambungan antara gaya bahasa dan e
 
 Tahapan transmisi tersebut berlangsung melalui proses bertingkat:
 
-1. **Fase Eufemisme:** Frasa *tunanetra* diperkenalkan untuk menghaluskan kata *buta* dalam interaksi publik.
+1. **Fase Eufemisme:** Kata *tunanetra* diperkenalkan untuk menghaluskan kata *buta* dalam interaksi publik.
 2. **Fase Konsolidasi:** Masyarakat tutur secara bertahap membatasi pemakaian kata *buta* karena dinilai terlalu lugas dan kurang empatik.
-3. **Fase Ameliorasi:** Secara leksikal dalam tata bahasa, frasa *tunanetra* resmi memperoleh kedudukan yang lebih tinggi dan terhormat secara permanen dibandingkan kata asalnya.
+3. **Fase Ameliorasi:** Secara leksikal, kata *tunanetra* resmi memperoleh kedudukan yang lebih tinggi dan terhormat secara permanen dibandingkan kata *buta* yang digantikannya.
 
 Dinamika serupa berlaku pada pejorasi. Sebuah disfemisme yang dilancarkan secara masif untuk melabeli kelompok sosial tertentu dapat mengubah leksem yang semula netral menjadi berkonotasi peyoratif secara permanen.
 
@@ -75,7 +75,7 @@ Dalam perdebatan sengit di media sosial, seorang pengguna dapat menyebut gagasan
 
 #### Disfemisme yang Menjadi Pejorasi
 
-Kata **"Oknum"**. Pada mulanya, leksem *oknum* bermakna netral yang merujuk pada "pribadi", "unsur", atau "perseorangan" (sebagaimana akar kata teologisnya). Namun, tatkala frasa *ada oknum yang terlibat* diucapkan dalam wacana berita hukum, masyarakat secara spontan memahaminya sebagai perujuk pelaku kejahatan atau pelanggar aturan.
+Contohnya adalah kata **"oknum"**. Pada mulanya, leksem *oknum* bermakna netral yang merujuk pada "pribadi", "unsur", atau "perseorangan" (sebagaimana akar kata teologisnya). Namun, tatkala frasa *ada oknum yang terlibat* diucapkan dalam wacana berita hukum, masyarakat secara spontan memahaminya sebagai perujuk pelaku kejahatan atau pelanggar aturan.
 
 - **Analisis Linguistik:** Kasus ini bukan lagi sekadar penerapan disfemisme pragmatis, melainkan telah berkembang menjadi **pejorasi** penuh. Konotasi negatifnya telah terlembagakan secara mantap dalam leksikon bahasa Indonesia kontemporer.
 

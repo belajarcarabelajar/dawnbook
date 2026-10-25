@@ -37,7 +37,7 @@ Dua tersangka, Andi dan Budi, ditangkap atas dugaan kejahatan. Polisi tidak memi
 
 ### 3. Perang Harga vs. Kolusi
 
-Dilema narapidana dapat diterapkan langsung pada pasar oligopoli dengan mengganti "Narapidana" menjadi "Perusahaan A" dan "Perusahaan B". Pilihan strategis mereka adalah menetapkan **Harga Tinggi** (bekerja sama/kolusi) atau **Harga Rendah** (berkhianat/perang harga).
+Dilema narapidana dapat diterapkan langsung pada pasar oligopoli dengan mengganti "Narapidana" dengan "Perusahaan A" dan "Perusahaan B". Pilihan strategis mereka adalah menetapkan **Harga Tinggi** (bekerja sama/kolusi) atau **Harga Rendah** (berkhianat/perang harga).
 
 #### Matriks Imbalan (Payoff Matrix)
 
@@ -50,7 +50,7 @@ Asumsikan estimasi keuntungan dihitung dalam miliaran rupiah:
 
 *Analisis Matriks Imbalan:*
 
-1. **Kolusi (Harga Tinggi - Harga Tinggi):** Kedua perusahaan sepakat menjaga harga tetap tinggi. Keduanya meraih keuntungan maksimal, yaitu $\text{Keuntungan}\_{\text{A}} = 100$ dan $\text{Keuntungan}\_{\text{B}} = 100$.
+1. **Kolusi (Harga Tinggi - Harga Tinggi):** Kedua perusahaan sepakat menjaga harga tetap tinggi. Keduanya meraih keuntungan gabungan tertinggi, yaitu $\text{Keuntungan}\_{\text{A}} = 100$ dan $\text{Keuntungan}\_{\text{B}} = 100$.
 2. **Insentif untuk Berkhianat:** Jika Perusahaan A secara diam-diam memotong harga sementara Perusahaan B tetap bertahan pada harga tinggi, Perusahaan A akan merebut mayoritas pelanggan dan keuntungannya melonjak ke $\text{Keuntungan}\_{\text{A}} = 150$.
 3. **Keseimbangan Nash (Nash Equilibrium):** Karena dorongan menghindari risiko dikhianati atau keinginan mengejar untung sepihak, kedua perusahaan akhirnya sama-sama menurunkan harga. Mereka sampai pada titik $(50, 50)$.
 
@@ -68,8 +68,8 @@ Ketika perusahaan-perusahaan di pasar oligopoli menyadari bahwa kerja sama memba
 **Mengapa Kolusi Sering Kali Gagal?**
 
 1. **Kecurangan Internal:** Selalu ada insentif bagi salah satu anggota untuk memotong harga sedikit di bawah kesepakatan demi meraih pangsa pasar yang lebih besar.
-2. **Hukum Anti-Monopoli:** Di banyak negara, kesepakatan penetapan harga (*price fixing*) secara tegas dilarang oleh hukum.
-3. **Hambatan Masuk:** Keuntungan kartel yang terlampau tinggi akan memicu perusahaan baru untuk menerobos masuk ke pasar.
+2. **Hukum Antimonopoli:** Di banyak negara, kesepakatan penetapan harga (*price fixing*) secara tegas dilarang oleh hukum.
+3. **Masuknya Pesaing Baru:** Keuntungan kartel yang terlampau tinggi akan memicu perusahaan baru untuk menerobos masuk ke pasar.
 
 ### 5. Strategi "Tit-for-Tat" (Balas Dendam Setimpal)
 
@@ -106,7 +106,7 @@ Dinamika persaingan di industri telekomunikasi (seperti Telkomsel, XL, dan Indos
 - **Reaksi Pasar:** Pesaing membalas dengan menghadirkan paket promo yang setara atau lebih agresif.
 - **Dampak Akhir:** Konsumen diuntungkan oleh harga yang terjangkau, tetapi profitabilitas industri secara keseluruhan mengalami penurunan.
 
-Saat ini, operator seluler cenderung menjaga harga paket data pada kisaran yang relatif setara. Mereka telah mencapai titik keseimbangan di mana setiap pemain enggan menurunkan harga secara drastis karena menyadari bahwa tindakan tersebut akan langsung direspon oleh pesaing.
+Saat ini, operator seluler cenderung menjaga harga paket data pada kisaran yang relatif setara. Mereka telah mencapai titik keseimbangan ketika setiap pemain enggan menurunkan harga secara drastis karena menyadari bahwa tindakan tersebut akan langsung direspons oleh pesaing.
 
 ### Inti Teori Permainan dalam Oligopoli
 

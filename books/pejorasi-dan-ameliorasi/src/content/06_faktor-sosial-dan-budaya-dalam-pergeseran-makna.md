@@ -1,8 +1,8 @@
 ## Faktor Sosial dan Budaya dalam Pergeseran Makna
 
-Pergeseran nilai rasa kata dalam semantik selalu dipengaruhi transformasi norma sosial, perkembangan budaya, dan dinamika struktur kekuasaan masyarakat. Perubahan nilai rasa, baik ameliorasi maupun pejorasi, tidak berlangsung terpisah dari masyarakat, melainkan bertumpu pada cara pandang kolektif yang terus berevolusi seiring berjalannya waktu.
+Pergeseran nilai rasa kata dalam semantik banyak dipengaruhi transformasi norma sosial, perkembangan budaya, dan dinamika struktur kekuasaan masyarakat. Perubahan nilai rasa, baik ameliorasi maupun pejorasi, tidak berlangsung terpisah dari masyarakat, melainkan bertumpu pada cara pandang kolektif yang terus berevolusi seiring berjalannya waktu.
 
-Sering kali muncul fenomena saat sebuah kata yang pada masa lampau terdengar wajar, kini dihindari karena dinilai kurang sopan. Sebaliknya, kata yang dahulu berkedudukan rendah kini dapat bergeser menjadi sebutan terhormat karena adanya perubahan apresiasi kultural.
+Sering kali muncul fenomena saat sebuah kata yang pada masa lampau terdengar wajar kini dihindari karena dinilai kurang sopan. Sebaliknya, kata yang dahulu berkedudukan rendah kini dapat bergeser menjadi sebutan terhormat karena adanya perubahan apresiasi kultural.
 
 ### Norma Sosial dan Perubahan Standar Kesopanan
 
@@ -68,7 +68,7 @@ Bandingkan dampak psikologis dan sosial dari dua rumusan pengumuman internal per
 
 * **Pendekatan Kasar (Pejoratif):**  
   *"Perusahaan memutuskan untuk memecat sejumlah pembantu operasional gudang."*  
-  Diksi *memecat* dan *pembantu* memicu stigma negatif serta menurunkan moralitas kerja.
+  Diksi *memecat* dan *pembantu* memicu stigma negatif serta menurunkan moral kerja.
 * **Pendekatan Santun (Eufemistis):**  
   *"Perusahaan melakukan penyesuaian alokasi terhadap staf pendukung operasional gudang."*  
   Diksi *penyesuaian alokasi* dan *staf pendukung* menyampaikan informasi manajerial secara objektif tanpa merendahkan martabat personel terkait.

@@ -15,7 +15,7 @@ Untuk memahami perbedaan peran keduanya, bayangkan sebuah gedung apartemen:
 
 ## 2. Namespaces Mengisolasi Pandangan
 
-Namespaces membungkus resource system global ke dalam abstraksi yang membuatnya tampak eksklusif bagi proses di dalamnya. Saat ini, ada beberapa jenis namespace utama di Kernel Linux:
+Namespaces membungkus resource sistem global ke dalam abstraksi yang membuatnya tampak eksklusif bagi proses di dalamnya. Saat ini, ada beberapa jenis namespace utama di Kernel Linux:
 
 ### A. PID Namespace (Process ID)
 
@@ -39,7 +39,7 @@ Mengisolasi mount point dari file system. Proses hanya bisa melihat struktur dir
 
 Jenis yang paling penting untuk keamanan. Ini memungkinkan sebuah proses memiliki hak akses `root` di dalam namespace, tetapi hanya menjadi non-privileged user di host system.
 
-- Sebagai ilustrasi, bayangkan jika aplikasimu diretas. Dengan User Namespace, peretas yang mendapatkan akses "root" di dalam container tetap tidak memiliki kekuatan untuk merusak host kernel.
+- Sebagai ilustrasi, bayangkan jika aplikasimu diretas. Dengan User Namespace, peretas yang mendapatkan akses "root" di dalam container tidak otomatis memiliki hak root di host system.
 
 ### E. UTS Namespace
 
@@ -47,13 +47,13 @@ Memungkinkan isolasi hostname dan domain name.
 
 ## 3. Control Groups Membatasi Resource
 
-Jika Namespaces mencegah proses mengintip tetangganya, Cgroups mencegah proses menggunakan seluruh memori atau CPU system. Cgroups bekerja melalui mekanisme **Controllers**.
+Jika Namespaces mencegah proses mengintip tetangganya, Cgroups mencegah proses menggunakan seluruh memori atau CPU sistem. Cgroups bekerja melalui mekanisme **Controllers**.
 
 ### Controller Utama dalam Cgroups
 
-1. **Memory Controller:** Membatasi alokasi RAM. Ketika proses melewati batas tersebut, kernel akan menghentikannya (lewat OOM killer) demi menjaga kestabilan system.
+1. **Memory Controller:** Membatasi alokasi RAM. Ketika proses melewati batas tersebut, kernel akan menghentikannya (lewat OOM killer) demi menjaga kestabilan sistem.
 2. **CPU Controller:** Mengatur pembagian waktu CPU untuk sekelompok proses.
-3. **BlkIO Controller:** Membatasi bandwidth saat mengakses disk (Input/Output).
+3. **IO Controller:** Membatasi bandwidth saat mengakses disk (Input/Output).
 4. **PIDs Controller:** Membatasi jumlah maksimal proses baru yang bisa dibuat untuk mencegah *fork bomb*.
 
 ### Rumus Pembagian CPU Sederhana
@@ -66,7 +66,7 @@ $$
 $$
 </div>
 
-Dengan Cgroups, kernel memastikan distribusi ini ditepati dengan presisi milidetik.
+Dengan Cgroups, kernel membagi waktu CPU secara proporsional sesuai bobot tersebut ketika terjadi perebutan CPU.
 
 ## 4. Praktik Langsung
 
@@ -115,7 +115,7 @@ Skenario: Kamu menjalankan sebuah aplikasi microservice berbasis Node.js.
 2. **Docker Engine** membuat direktori di **Cgroups** untuk membatasi RAM aplikasi tersebut agar tidak mengganggu database yang berjalan di sebelahnya.
 3. **Kernel Linux** bertindak sebagai polisi yang menegakkan aturan isolasi dan pembatasan tersebut secara real-time.
 
-> **Penting:** Tanpa kedua fitur ini, biaya menjalankan cloud computing akan sangat mahal karena setiap aplikasi harus berjalan di atas Virtual Machine (VM) yang berat dan memakan banyak kernel resource.
+> **Penting:** Tanpa kedua fitur ini, biaya menjalankan cloud computing akan sangat mahal karena setiap aplikasi harus berjalan di atas Virtual Machine (VM) yang berat.
 
 ## 6. Cgroups v1 vs Cgroups v2
 
@@ -131,6 +131,6 @@ Kernel Linux terus berkembang. Saat ini, industri sedang beralih ke **Cgroups v2
 | **Namespaces** | Isolasi Pandangan | Mencegah akses data atau proses antarlingkungan |
 | **Cgroups** | Resource Management | Mencegah serangan *Denial of Service* (DoS) lokal |
 
-Perlu dicatat bahwa jika sebuah proses di dalam container berhasil mengeksploitasi kernel bug, Namespaces tidak selalu dapat melindunginya. Oleh karena itu, keamanan kernel dirancang sebagai pertahanan berlapis, di mana Namespaces dan Cgroups bekerja bersama fitur lain seperti seccomp dan AppArmor untuk menjaga integritas sistem.
+Perlu dicatat bahwa jika sebuah proses di dalam container berhasil mengeksploitasi kernel bug, Namespaces tidak selalu dapat melindungi host system. Oleh karena itu, keamanan kernel dirancang sebagai pertahanan berlapis, di mana Namespaces dan Cgroups bekerja bersama fitur lain seperti seccomp dan AppArmor untuk menjaga integritas sistem.
 
 Dengan memahami Namespaces dan Cgroups, kamu kini memahami fondasi dari infrastruktur cloud modern. Pemahaman ini membuatmu tidak hanya menjadi pengguna container biasa, tetapi juga seseorang yang mengerti cara kerja kernel dalam menjaga ketertiban di tengah ribuan proses yang berjalan bersamaan.

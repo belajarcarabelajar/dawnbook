@@ -34,8 +34,8 @@ Untuk menjaga kejernihan berpikir di tengah banjir informasi, gunakan kerangka k
 
 1. **S (Stop):** Saat kamu merasakan emosi yang kuat (marah, takut, sangat setuju), **berhentilah**. Emosi yang kuat adalah tanda bahwa nalar kritismu mudah terabaikan.
 2. **I (Investigate the Source):** Siapa yang membuat konten ini? Apakah mereka ahli di bidangnya? Apakah mereka memiliki agenda terselubung?
-3. **F (Find Better Coverage):** Cari sumber lain. Apakah media arus utama yang kredibel memberitakannya? Jika hanya satu akun anonim yang menyebarkannya, kemungkinan besar itu adalah hoaks.
-4. **T (Trace Back to the Original Context):** Seringkali kutipan atau video dipotong untuk mengubah maknanya. Carilah versi lengkapnya untuk melihat konteks sebenarnya.
+3. **F (Find Better Coverage):** Cari sumber lain. Apakah media arus utama yang kredibel memberitakannya? Jika hanya satu akun anonim yang menyebarkannya, informasi itu patut dicurigai dan belum dapat dipercaya.
+4. **T (Trace Back to the Original Context):** Sering kali kutipan atau video dipotong untuk mengubah maknanya. Carilah versi lengkapnya untuk melihat konteks sebenarnya.
 
 ## 4. Teknik Membaca Lateral (Lateral Reading)
 
@@ -53,8 +53,8 @@ Sebagai analogi sederhana, kita tentu lebih percaya pada sebuah restoran bukan k
 
 Dalam logika digital, jarang sekali sesuatu bersifat $100\text{\%}$ benar atau $0\text{\%}$ salah. Kita bisa menggunakan pendekatan probabilistik sederhana. Misalkan:
 
-- $P(H)$ adalah peluang sebuah informasi adalah hoaks.
-- Jika informasi tersebut mengandung kata-kata bombastis (e.g., "SEBARKAN SEBELUM DIHAPUS!!!"), maka nilai $P(H)$ meningkat.
+- $P(H)$ adalah peluang bahwa sebuah informasi merupakan hoaks.
+- Jika informasi tersebut mengandung kata-kata bombastis (misalnya, "SEBARKAN SEBELUM DIHAPUS!!!"), maka nilai $P(H)$ meningkat.
 
 Secara matematis, kita bisa melihat kredibilitas sumber ($K$) sebagai fungsi dari rekam jejak ($R$) dan transparansi ($T$): $K \approx \frac{R + T}{2}$
 
@@ -67,7 +67,7 @@ Jika rekam jejaknya sering menyebarkan berita palsu, maka meskipun tampilannya t
 **Langkah Kritis:**
 
 1. **Cek Artefak Visual:** Amati area mulut dan mata. Apakah gerakannya sinkron dengan suara? Apakah ada kedipan yang tidak alami?
-2. **Analisis Metadata:** Gunakan alat seperti *Google Reverse Image Search* pada tangkapan layar video tersebut untuk melihat kapan video itu pertama kali muncul di internet.
+2. **Penelusuran Gambar Terbalik:** Gunakan alat seperti *Google Reverse Image Search* pada tangkapan layar video tersebut untuk melihat kapan video itu pertama kali muncul di internet.
 3. **Gunakan Logika "Terlalu Indah untuk Menjadi Nyata":** Jika informasi tersebut sangat memuaskan biasmu (misalnya: lawan politikmu melakukan kesalahan fatal), justru di situlah kamu harus paling curiga.
 
 Untuk informasi apa pun, bukan hanya video, urutan penyaringannya bisa diringkas menjadi empat pemeriksaan:
@@ -83,9 +83,9 @@ Untuk tetap menjadi pemikir kritis, kamu perlu menjaga kesehatan mental digitalm
 
 - **Batasi Konsumsi:** Jangan biarkan gulir tanpa batas (*infinite scroll*) menghabiskan energi mentalmu. Kita butuh waktu jeda untuk berpikir jernih tanpa gangguan layar.
 - **Diversifikasi Asupan:** Secara sengaja, ikuti akun atau bacalah media yang memiliki sudut pandang berbeda denganmu. Langkah sederhana ini membantu memecahkan "Gelembung Filter".
-- **Verifikasi Sebelum Berbagi:** Jadilah bagian dari solusi, bukan menambah polusi informasi di ruang digital.
+- **Verifikasi Sebelum Berbagi:** Jadilah bagian dari solusi, bukan bagian dari polusi informasi di ruang digital.
 	> **Catatan Penting:** Bertanggung jawab atas apa yang kamu bagikan adalah bagian dari etika digital.
 
 **Kesimpulan Bagian Ini:** Berpikir kritis di era digital bukanlah tentang menjadi orang yang skeptis terhadap segala hal hingga menjadi sinis. Sebaliknya, ini adalah tentang menjadi **kurator informasi** yang cerdas. Dengan memahami cara kerja algoritma, mengenali emosi kita sendiri, dan menggunakan teknik verifikasi yang tepat, kita dapat menavigasi banjir informasi ini dengan pikiran yang jernih.
 
-Melakukan verifikasi mandiri terhadap berita yang awalnya kita percayai memang menuntut kerendahan hati intelektual, namun langkah itulah yang menjaga kejernihan berpikir.
+Melakukan verifikasi mandiri terhadap berita yang awalnya kita percayai memang menuntut kerendahan hati intelektual, tetapi langkah itulah yang menjaga kejernihan berpikir.

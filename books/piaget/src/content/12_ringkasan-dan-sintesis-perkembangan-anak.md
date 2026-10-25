@@ -2,7 +2,7 @@
 
 
 
-Piaget memandang anak bukan sebagai wadah kosong yang menunggu diisi, melainkan sebagai **"Ilmuwan Kecil"** yang secara aktif membangun dunianya sendiri. Bab ini akan mensintesis bagaimana perjalanan dari gerakan refleks seorang bayi bertransformasi menjadi pemikiran sistematis seorang ilmuwan atau filsuf.
+Piaget memandang anak bukan sebagai wadah kosong yang menunggu diisi, melainkan sebagai **"Ilmuwan Kecil"** yang secara aktif membangun dunianya sendiri. Bab ini akan menyintesis bagaimana perjalanan dari gerakan refleks seorang bayi bertransformasi menjadi pemikiran sistematis seorang ilmuwan atau filsuf.
 
 ## 1\. Benang Merah Perkembangan
 
@@ -30,11 +30,11 @@ Perkembangan kognitif bersifat **invariant**, artinya setiap anak melewati uruta
 | Tahap | Fokus Utama | Capaian Kunci | Transformasi Berpikir |
 | --- | --- | --- | --- |
 | **Sensorimotor** (0-2 thn) | Tindakan Fisik | Objek Permanen | Dari refleks otomatis menjadi tindakan bertujuan. |
-| **Praoperasional** (2-7 thn) | Simbol & Bahasa | Fungsi Simbolik | Pikiran bersifat intuitif, namun masih terikat egosentrisme. |
+| **Praoperasional** (2-7 thn) | Simbol & Bahasa | Fungsi Simbolik | Pikiran bersifat intuitif, tetapi masih terikat egosentrisme. |
 | **Operasional Konkret** (7-11 thn) | Logika Objek Nyata | Konservasi & Klasifikasi | Mampu berpikir logis selama objeknya terlihat/fisik. |
 | **Operasional Formal** (11+ thn) | Abstraksi & Hipotesis | Penalaran Deduktif | Pikiran menjadi sistematis, idealis, dan mampu berteori. |
 
-> **Memorable Insight:** Perkembangan kognitif adalah proses **desentralisasi**. Anak mulai dari kondisi sangat egosentris (hanya memahami dunia dari sudut pandang sendiri) menuju kemampuan untuk melihat dunia dari berbagai perspektif dan prinsip abstrak yang universal.
+> **Wawasan Penting:** Perkembangan kognitif adalah proses **desentrasi**. Anak mulai dari kondisi sangat egosentris (hanya memahami dunia dari sudut pandang sendiri) menuju kemampuan untuk melihat dunia dari berbagai perspektif dan prinsip abstrak yang universal.
 
 ## 3\. Evolusi Operasi Mental
 
@@ -57,13 +57,13 @@ Memahami sintesis ini mengubah cara kita berinteraksi dengan anak-anak di berbag
 ### Tips Praktis untuk Pendidik & Orang Tua
 
 - **Hormati Kesiapan (Readiness):** Jangan memaksakan konsep abstrak (seperti aljabar murni) kepada anak yang masih berada di tahap operasional konkret.
-- **Gunakan Ketidakseimbangan (Disonansi):** Berikan tantangan yang sedikit di atas kemampuan mereka saat ini untuk memicu proses akomodasi.
+- **Gunakan Ketidakseimbangan (Disekuilibrium):** Berikan tantangan yang sedikit di atas kemampuan mereka saat ini untuk memicu proses akomodasi.
 - **Belajar Lewat Tindakan:** Ingatlah bahwa pengetahuan dibangun melalui aktivitas, bukan sekadar transmisi verbal.
 
 ## 5\. Refleksi Akhir
 
 Teori Piaget memberikan kita kacamata untuk melihat bahwa setiap "kesalahan" logika anak sebenarnya adalah jendela menuju cara berpikir mereka yang unik. Saat seorang balita bersikeras bahwa bulan mengikuti mereka saat berjalan, itu bukan kebodohan, melainkan cerminan dari tahap perkembangan kognitif mereka.
 
-*Bahan Refleksi: Sebagai seorang pendidik, bagaimana seorang guru akan menyesuaikan cara menjelaskan sebuah kesalahan kepada siswa setelah memahami bahwa kesalahan tersebut merupakan bagian alami dari proses adaptasi kognitif mereka?*
+*Bahan Refleksi: Sebagai seorang pendidik, bagaimana kamu akan menyesuaikan cara menjelaskan sebuah kesalahan kepada siswa setelah memahami bahwa kesalahan tersebut merupakan bagian alami dari proses adaptasi kognitif mereka?*
 
 > **Poin Utama:** Perjalanan kognitif adalah transformasi dari **organisme biologis yang bereaksi** menjadi **pemikir rasional yang beraksi** terhadap dunia dengan logika dan sistematisasi.

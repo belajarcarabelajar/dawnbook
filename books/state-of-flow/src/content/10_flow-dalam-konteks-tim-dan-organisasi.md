@@ -1,8 +1,8 @@
 ## Flow dalam Konteks Tim dan Organisasi
 
-Bayangkan sebuah band jazz yang sedang berimprovisasi di atas panggung. Tanpa partitur yang kaku, setiap pemain menanggapi nada dari pemain lain secara instan. Tidak ada yang mendominasi, namun musik yang dihasilkan terdengar harmonis dan jauh lebih indah daripada jika mereka bermain sendiri-sendiri. Itulah yang kita sebut sebagai **Group Flow** (Aliran Kelompok).
+Bayangkan sebuah band jazz yang sedang berimprovisasi di atas panggung. Tanpa partitur yang kaku, setiap pemain menanggapi nada dari pemain lain secara instan. Tidak ada yang mendominasi, tetapi musik yang dihasilkan terdengar harmonis dan jauh lebih indah daripada jika mereka bermain sendiri-sendiri. Itulah yang kita sebut sebagai **Group Flow** (Alir Kelompok).
 
-Dalam konteks organisasi, *Group Flow* adalah kondisi di mana sebuah tim bekerja selaras, ide-ide mengalir lancar, dan produktivitas tim melampaui kemampuan anggotanya secara sendiri-sendiri.
+Dalam konteks organisasi, *Group Flow* adalah kondisi ketika sebuah tim bekerja selaras, ide-ide mengalir lancar, dan produktivitas tim melampaui kemampuan anggotanya secara sendiri-sendiri.
 
 ## Apa itu Group Flow?
 
@@ -23,7 +23,7 @@ Untuk menciptakan kondisi ini, organisasi tidak bisa hanya "berharap" itu terjad
 5. **Blending Egos (Penyatuan Ego):** Tidak ada tempat bagi "bintang" tunggal. Kesuksesan tim adalah identitas utama.
 6. **Equal Participation (Partisipasi Setara):** Setiap anggota memiliki peran yang penting. Flow jarang terjadi jika satu orang mendominasi pembicaraan sementara yang lain pasif.
 7. **Familiarity (Keakraban):** Anggota tim perlu memahami gaya komunikasi, kelebihan, dan kelemahan satu sama lain agar dapat memprediksi langkah selanjutnya.
-8. **Constant Communication (Komunikasi Terus-menerus):** Feedback harus terjadi secara *real-time*, bukan menunggu evaluasi tahunan.
+8. **Constant Communication (Komunikasi Terus-menerus):** Umpan balik harus terjadi secara *real-time*, bukan menunggu evaluasi tahunan.
 9. **The "Yes, And" Rule (Pola Pikir Improvisasi):** Mengambil ide rekan dan membangunnya lebih lanjut, bukan langsung menolaknya.
 10. **Shared Risk (Risiko Bersama):** Kegagalan atau keberhasilan ditanggung bersama, menciptakan rasa urgensi dan solidaritas.
 
@@ -33,11 +33,11 @@ Di tingkat organisasi, struktur dapat mendukung atau justru menghambat *Group Fl
 
 $$\text{Sinergi} = \sum (\text{Keahlian} \times \text{Komunikasi}) - \text{Gesekan (Friction)}$$
 
-Di mana **Gesekan** mencakup birokrasi, politik kantor, dan alat yang tidak memadai.
+Keterangan: **Gesekan** mencakup birokrasi, politik kantor, dan alat yang tidak memadai.
 
 ### 1\. Psychological Safety (Keamanan Psikologis)
 
-Tanpa rasa aman untuk berbuat salah, anggota tim akan bersikap defensif. Kondisi defensif adalah musuh utama *flow* karena mengaktifkan amygdala (respon takut) di otak, yang mematikan fungsi kreatif di *prefrontal cortex*.
+Tanpa rasa aman untuk berbuat salah, anggota tim akan bersikap defensif. Kondisi defensif adalah musuh utama *flow* karena mengaktifkan amygdala (respons takut) di otak, yang dapat menekan fungsi kreatif di *prefrontal cortex*.
 
 ### 2\. Tantangan yang Seimbang (The Challenge-Skill Balance)
 
@@ -51,17 +51,17 @@ Dalam dunia engineering atau pengembangan produk, kita bisa menggunakan otomatis
 
 ### Otomatisasi Feedback
 
-Seringkali flow tim terputus karena harus menunggu persetujuan manual atau integrasi kode yang rumit. Menggunakan CI/CD (Continuous Integration/Continuous Deployment) membantu menjaga momentum.
+Sering kali flow tim terputus karena harus menunggu persetujuan manual atau integrasi kode yang rumit. Menggunakan CI/CD (Continuous Integration/Continuous Deployment) membantu menjaga momentum.
 
-Contoh sederhananya adalah notifikasi otomatis. Bayangkan begitu satu tugas selesai, alat kolaborasi seperti Slack atau Discord langsung mengabari tim bahwa tugas itu berhasil dan tim bisa lanjut ke tahap berikutnya. Umpan balik instan seperti ini menjaga tim tetap dalam kondisi alir tanpa ada yang perlu bertanya, "Apakah ini sudah selesai?"
+Contoh sederhananya adalah notifikasi otomatis. Bayangkan begitu satu tugas selesai, alat kolaborasi seperti Slack atau Discord langsung mengabari tim bahwa tugas itu berhasil dan tim bisa lanjut ke tahap berikutnya. Umpan balik instan seperti ini menjaga tim tetap dalam kondisi flow tanpa ada yang perlu bertanya, "Apakah ini sudah selesai?"
 
 ## Tim Medis Darurat (ER)
 
-Dalam unit gawat darurat, *Group Flow* bukan sekadar konsep semata - ini adalah pembeda antara hidup dan mati. Saat pasien kritis datang:
+Dalam unit gawat darurat, *Group Flow* bukan sekadar konsep - ini adalah pembeda antara hidup dan mati. Saat pasien kritis datang:
 
 - Setiap dokter dan perawat tahu peran masing-masing tanpa harus diberi perintah mendetail setiap detiknya.
-- Mereka menggunakan komunikasi verbal yang singkat dan jelas (Loop Closing Communication).
-- **Contoh:** Perawat berkata "10mg Epinefrin masuk", Dokter mengangguk (konfirmasi).
+- Mereka menggunakan komunikasi verbal yang singkat dan jelas (Closed-Loop Communication).
+- **Contoh:** Perawat berkata "1 mg epinefrin masuk", Dokter menjawab, "1 mg epinefrin masuk, dikonfirmasi".
 - Ada kesamaan visi yang mendesak: menyelamatkan nyawa. Di sini, ego hilang, dan yang ada hanyalah satu "organisme" yang bekerja untuk satu tujuan.
 
 ## Refleksi untuk kamu

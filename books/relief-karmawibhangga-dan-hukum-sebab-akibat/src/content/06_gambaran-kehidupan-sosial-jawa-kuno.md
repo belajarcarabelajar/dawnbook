@@ -1,6 +1,6 @@
 ## Gambaran Kehidupan Sosial Jawa Kuno
 
-Relief Karmawibhangga pada dasarnya adalah "buku pedoman moral" tentang hukum sebab-akibat, yang dipahatkan di 160 panel. Namun, bagi para arkeolog dan sejarawan, panel-panel ini adalah sebuah **kapsul waktu visual**. Para pemahat Borobudur tidak hanya menggambarkan surga dan neraka, tetapi mereka memotret realitas sosial, gaya hidup, dan suasana lingkungan Jawa pada masa Wangsa Shailendra (sekitar tahun 750-850 M).
+Relief Karmawibhangga pada dasarnya adalah "buku pedoman moral" tentang hukum sebab-akibat, yang dipahatkan di 160 panel. Namun, bagi para arkeolog dan sejarawan, panel-panel ini adalah sebuah **kapsul waktu visual**. Para pemahat Borobudur tidak hanya menggambarkan surga dan neraka, tetapi juga memotret realitas sosial, gaya hidup, dan suasana lingkungan Jawa pada masa Wangsa Shailendra (sekitar tahun 750-850 M).
 
 Bayangkan relief ini sebagai sebuah "umpan Instagram" dari masa lalu. Melalui detail pahatan yang halus, kita bisa melihat apa yang mereka pakai, bagaimana bentuk rumah mereka, hingga bagaimana mereka berinteraksi satu sama lain lebih dari seribu tahun yang lalu.
 
@@ -20,7 +20,7 @@ Relief Karmawibhangga menggambarkan perhiasan secara rinci. Kita dapat menemukan
 - **Kelat Bahu (Keyura):** Hiasan yang melingkar di lengan atas.
 - **Gelang (Kankana):** Dipakai di pergelangan tangan dan kaki.
 - **Anting-anting (Kundala):** Berbagai bentuk, dari yang bulat besar hingga yang menggantung.
-- **Kalung (Hara):** Seringkali terdiri dari beberapa untaian manik-manik atau logam mulia.
+- **Kalung (Hara):** Sering kali terdiri dari beberapa untaian manik-manik atau logam mulia.
 
 > **Wawasan Penting:** Kekayaan detail ini menunjukkan bahwa pada abad ke-8, masyarakat Jawa sudah memiliki keahlian metalurgi (pengolahan logam) yang maju untuk menciptakan perhiasan yang rumit dan estetis.
 
@@ -38,7 +38,7 @@ Hampir semua rumah tinggal yang digambarkan dalam relief berbentuk **rumah pangg
 
 ### Detail Konstruksi
 
-- **Atap:** Berbentuk limasan atau pelana dengan material alami seperti ijuk atau rumbia. Beberapa ujung atap memiliki hiasan yang disebut *kala* atau ornamen flora.
+- **Atap:** Berbentuk limasan atau pelana dengan material alami seperti ijuk atau rumbia. Beberapa ujung atap memiliki hiasan berupa ornamen flora.
 - **Lumbung Padi:** Sering muncul dalam relief sebagai bangunan kecil terpisah dengan empat tiang dan pembatas bulat di bagian atas tiang (untuk mencegah tikus naik).
 
 ## 3. Adat Istiadat dan Aktivitas Keseharian
@@ -47,7 +47,7 @@ Relief ini merekam kehidupan sosial sehari-hari, mulai dari suasana pasar hingga
 
 ### Kehidupan Pasar dan Perdagangan
 
-Dalam beberapa panel, terlihat aktivitas jual beli. Terdapat penggambaran timbangan, kantong uang, dan interaksi tawar-menawar. Ini membuktikan bahwa ekonomi Jawa masa itu sudah berbasis moneter dan memiliki sistem pasar yang teratur.
+Dalam beberapa panel, terlihat aktivitas jual beli. Terdapat penggambaran timbangan, kantong uang, dan interaksi tawar-menawar. Ini menunjukkan bahwa ekonomi Jawa masa itu sudah mengenal alat tukar dan memiliki sistem pasar yang teratur.
 
 ### Seni Pertunjukan dan Hiburan
 
