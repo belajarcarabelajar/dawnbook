@@ -1,6 +1,6 @@
 ## Konflik Timur Tengah dan Pengusiran Israel dari Konfederasi Asia
 
-Sepak bola sering kali dianggap "bahasa universal", namun sejarah menunjukkan politik kerap membatasi jangkauannya. Perjalanan Tim Nasional Israel adalah salah satu contohnya dalam sejarah geopolitik sepak bola.
+Sepak bola sering kali dianggap "bahasa universal", tetapi sejarah menunjukkan politik kerap membatasi jangkauannya. Perjalanan Tim Nasional Israel adalah salah satu contohnya dalam sejarah geopolitik sepak bola.
 
 Bagaimana mungkin sebuah negara yang secara geografis terletak di Asia harus bertanding memperebutkan tiket Piala Dunia melawan negara-negara seperti Inggris, Spanyol, dan Jerman di Eropa? Jawabannya ada pada ruang-ruang diplomasi dan konflik bersenjata di Timur Tengah, bukan di atas rumput hijau.
 

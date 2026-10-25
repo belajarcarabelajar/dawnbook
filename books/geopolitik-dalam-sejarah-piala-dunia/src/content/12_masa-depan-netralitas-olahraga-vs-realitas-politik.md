@@ -14,7 +14,7 @@ $$
 
 Pada **Era Legitimasi Ideologi (1930 - 1970-an)**, negara-negara memanfaatkan Piala Dunia untuk memamerkan keunggulan sistem politik mereka, baik itu fasisme, komunisme, maupun kediktatoran militer. Kemenangan di lapangan hijau dianggap sebagai legitimasi mutlak.
 
-Kemudian masuk ke **Era Eksklusi dan Boikot (1960 - 1990-an)**. Politik menjadi senjata moral di mana FIFA dipaksa mengambil sikap, seperti saat mengisolasi Afrika Selatan karena kebijakan Apartheid serta gelombang boikot dari negara-negara Afrika yang menuntut keterwakilan yang adil.
+Kemudian masuk ke **Era Eksklusi dan Boikot (1960 - 1990-an)**. Politik menjadi senjata moral tempat FIFA dipaksa mengambil sikap, seperti saat mengisolasi Afrika Selatan karena kebijakan Apartheid serta gelombang boikot dari negara-negara Afrika yang menuntut keterwakilan yang adil.
 
 Di **Era Soft Power dan Branding (2000-an - Sekarang)**, fokus bergeser dari dominasi ideologis ke pencucian citra (*sportswashing*) dan pembangunan citra negara (*nation branding*). Daya tarik budaya dan pengaruh ekonomi kini menjadi instrumen utama.
 
@@ -36,12 +36,12 @@ timeline
 
 FIFA selalu memegang prinsip **Netralitas Politik**. Dalam aturan resminya, mereka melarang intervensi pemerintah dalam urusan federasi sepak bola nasional dan melarang simbol-simbol politik di lapangan.
 
-**Wasit di Tengah Tawuran** Bayangkan FIFA sebagai seorang wasit di tengah pertandingan di mana para penonton dan pemain mulai saling lempar kursi karena masalah di luar stadion. Sang wasit bersikeras bahwa "permainan harus berlanjut" dan "saya hanya peduli pada bola," namun pada titik tertentu, asap gas air mata dari luar akan masuk ke lapangan dan membuat pertandingan mustahil dilanjutkan tanpa mengambil sikap.
+**Wasit di Tengah Tawuran** Bayangkan FIFA sebagai seorang wasit di tengah pertandingan tempat para penonton dan pemain mulai saling lempar kursi karena masalah di luar stadion. Sang wasit bersikeras bahwa "permainan harus berlanjut" dan "saya hanya peduli pada bola," tetapi pada titik tertentu, asap gas air mata dari luar akan masuk ke lapangan dan membuat pertandingan mustahil dilanjutkan tanpa mengambil sikap.
 
 **Tantangan Utama FIFA di Masa Depan:**
 
 - **Polarisasi Global**: Ketegangan geopolitik antara Blok Barat dan kekuatan baru seperti aliansi BRICS kerap menjepit posisi FIFA. Organisasi ini harus memilih antara menjatuhkan sanksi (seperti dalam konflik Rusia-Ukraina) atau mempertahankan asas inklusivitas global.
-- Banyak pihak mengkritik adanya **standar ganda** dalam kebijakan FIFA. Mereka dinilai bertindak tegas pada konflik tertentu, namun menutup mata terhadap pelanggaran di tempat lain demi mengamankan sponsor atau menjamin stabilitas turnamen.
+- Banyak pihak mengkritik adanya **standar ganda** dalam kebijakan FIFA. Mereka dinilai bertindak tegas pada konflik tertentu, tetapi menutup mata terhadap pelanggaran di tempat lain demi mengamankan sponsor atau menjamin stabilitas turnamen.
 - **Aktivisme Pemain**: Pemain generasi baru kini jauh lebih vokal menyuarakan isu-isu sosial seperti hak-hak LGBTQ+, keadilan bagi buruh migran, dan krisis iklim. FIFA menghadapi risiko boikot moral dari penggemar muda jika terus berupaya membungkam suara mereka.
 
 Dalam lanskap geopolitik modern, netralitas sering kali dianggap sebagai keberpihakan pada status quo. Sikap diam atau enggan memihak justru sering kali ditafsirkan sebagai pernyataan politik tersendiri.
@@ -59,7 +59,7 @@ Piala Dunia 2026 (AS, Kanada, Meksiko) dan 2030 (Maroko, Spanyol, Portugal, deng
 
 #### 2\. Kebangkitan Kekuatan Ekonomi Baru
 
-Kekuatan finansial dari negara-negara Teluk atau Asia Timur akan terus menantang dominasi tradisional Eropa dan Amerika Latin. Uang sering kali meredakan gesekan politik, namun juga memicu debat tentang etika dalam olahraga.
+Kekuatan finansial dari negara-negara Teluk atau Asia Timur akan terus menantang dominasi tradisional Eropa dan Amerika Latin. Uang sering kali meredakan gesekan politik, tetapi juga memicu debat tentang etika dalam olahraga.
 
 Jika sebuah negara dengan catatan HAM yang buruk menawarkan infrastruktur terbaik dan dana besar, apakah integritas olahraga harus dikorbankan demi kelangsungan finansial turnamen?
 

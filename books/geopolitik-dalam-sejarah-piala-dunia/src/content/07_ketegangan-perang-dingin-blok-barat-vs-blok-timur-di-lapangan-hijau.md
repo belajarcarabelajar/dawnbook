@@ -2,13 +2,13 @@
 
 Selama periode 1947 hingga 1991, Piala Dunia FIFA menjadi medan persaingan politik yang sengit. Di sana berlangsung "perang tanpa tembakan", meminjam istilah George Orwell, antara dua ideologi besar: **Kapitalisme (Blok Barat)** yang dipimpin Amerika Serikat dan **Komunisme (Blok Timur)** yang dipimpin Uni Soviet.
 
-Dalam bab ini, kita akan membedah bagaimana lapangan hijau menjadi instrumen validasi ideologi, di mana setiap gol dianggap sebagai kemenangan sistem politik.
+Dalam bab ini, kita akan membedah bagaimana lapangan hijau menjadi instrumen validasi ideologi, tempat setiap gol dianggap sebagai kemenangan sistem politik.
 
 ### Sepak Bola sebagai Bukti Keunggulan Ideologi
 
 Bagi negara-negara Blok Timur, olahraga adalah alat negara. Berbeda dengan pemain di Barat yang sering kali merupakan profesional murni dalam klub swasta, atlet dari Uni Soviet, Hungaria, atau Jerman Timur sering disebut sebagai **"Amatir Negara"**.
 
-> **Analogi:** Jika Blok Barat menganggap sepak bola sebagai pasar bebas bakat di mana individu bersinar, maka Blok Timur menganggapnya sebagai mesin pabrik yang presisi, di mana kolektivitas dan disiplin fisik adalah bukti keunggulan manajemen sosialis.
+> **Analogi:** Jika Blok Barat menganggap sepak bola sebagai pasar bebas bakat tempat individu bersinar, maka Blok Timur menganggapnya sebagai mesin pabrik yang presisi, tempat kolektivitas dan disiplin fisik adalah bukti keunggulan manajemen sosialis.
 
 Upaya ini berfokus pada dua hal. Pertama, legitimasi sistem. Kemenangan di Piala Dunia dianggap membuktikan bahwa rakyat di bawah bendera komunisme lebih sehat, tangguh, dan terorganisir dibandingkan masyarakat Barat yang dicap dekaden. Kedua, propaganda domestik. Skor pertandingan dipajang sebagai berita utama surat kabar guna mengalihkan perhatian dari kesulitan ekonomi di dalam negeri.
 

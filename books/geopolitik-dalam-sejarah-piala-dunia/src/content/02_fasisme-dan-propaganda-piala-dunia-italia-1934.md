@@ -73,6 +73,6 @@ Piala Dunia 1934 mengajarkan kita bahwa sepak bola tidak pernah steril dari poli
 
 Meskipun Italia memang memiliki tim yang hebat secara teknis di bawah Vittorio Pozzo, bayang-bayang manipulasi politik dan tekanan rezim tetap menjadi noda yang tak terpisahkan dari trofi pertama *Azzurri* tersebut.
 
-> **Insight:** Olahraga memiliki kekuatan untuk menyatukan, namun di tangan yang salah, ia juga memiliki kekuatan untuk memanipulasi kebenaran dalam skala global.
+> **Insight:** Olahraga memiliki kekuatan untuk menyatukan, tetapi di tangan yang salah, ia juga memiliki kekuatan untuk memanipulasi kebenaran dalam skala global.
 
 Apakah menurutmu sebuah prestasi olahraga tetap bernilai jika diraih di bawah tekanan politik yang represif?

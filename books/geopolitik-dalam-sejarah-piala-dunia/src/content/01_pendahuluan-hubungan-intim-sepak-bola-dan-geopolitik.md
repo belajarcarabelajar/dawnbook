@@ -6,7 +6,7 @@ Sejak peluit pertama dibunyikan di Uruguay pada tahun 1930, Piala Dunia FIFA ber
 
 ## Kekuatan Lunak Piala Dunia
 
-Dalam esai "The Sporting Spirit" (1945), George Orwell menyebut olahraga yang dipertandingkan dengan serius sebagai "perang tanpa tembakan". Sudut pandang ini sangat relevan dalam geopolitik, di mana Piala Dunia menjadi instrumen kekuatan lunak (*soft power*) yang efektif. Berbeda dari kekuatan militer atau ekonomi (*hard power*) yang sifatnya memaksa, *soft power* bekerja dengan cara memikat dan memengaruhi masyarakat global lewat budaya, nilai, serta olahraga.
+Dalam esai "The Sporting Spirit" (1945), George Orwell menyebut olahraga yang dipertandingkan dengan serius sebagai "perang tanpa tembakan". Sudut pandang ini sangat relevan dalam geopolitik, tempat Piala Dunia menjadi instrumen kekuatan lunak (*soft power*) yang efektif. Berbeda dari kekuatan militer atau ekonomi (*hard power*) yang sifatnya memaksa, *soft power* bekerja dengan cara memikat dan memengaruhi masyarakat global lewat budaya, nilai, serta olahraga.
 
 ### Mengapa Geopolitik Melekat pada Piala Dunia?
 
@@ -47,7 +47,7 @@ Rezim otoriter sepanjang sejarah menyadari bahwa sorotan kamera dunia sepanjang 
 
 Kamu mungkin bertanya-tanya: *Mengapa sebuah negara bersedia menggelontorkan biaya hingga ratusan, bahkan ribuan, triliun rupiah hanya untuk menyelenggarakan turnamen sepanjang satu bulan?*
 
-Di atas kertas, investasi besar-besaran ini jarang menghasilkan keuntungan finansial langsung yang impas, di mana nilai $\text{ROI} < 1$. Namun, nilai geopolitik yang didapatkan jauh melampaui angka-angka tersebut:
+Di atas kertas, investasi besar-besaran ini jarang menghasilkan keuntungan finansial langsung yang impas, dengan nilai $\text{ROI} < 1$. Namun, nilai geopolitik yang didapatkan jauh melampaui angka-angka tersebut:
 
 - **Percepatan Infrastruktur**. Proyek besar seperti pembangunan bandara baru, jaringan transportasi massal, dan sistem komunikasi modern yang biasanya butuh waktu puluhan tahun dapat diselesaikan hanya dalam hitungan tahun demi mengejar tenggat turnamen.
 - **Posisi di Kancah Global**. Bagi kekuatan ekonomi baru (*emerging powers*), menyelenggarakan Piala Dunia bagaikan mengirim pesan tegas kepada dunia luar bahwa mereka adalah negara stabil yang siap diajak bekerja sama.
@@ -63,7 +63,7 @@ P_{\text{geopolitik}} = f(K_{\text{ekonomi}}, I_{\text{budaya}}, S_{\text{olahra
 $$
 </div>
 
-Di mana:
+Keterangan:
 
 - $P$: Pengaruh Total
 - $K$: Kapasitas Ekonomi (PDB)
@@ -86,6 +86,6 @@ Bagaimana jika FIFA mengumumkan bahwa semua pertandingan sepak bola internasiona
 
 - Olahraga ini bekerja sebagai instrumen kekuatan lunak (*soft power*) yang ampuh.
 - Piala Dunia bertindak sebagai panggung diplomasi internasional sekaligus sarana mempromosikan citra positif negara.
-- Hubungan sepak bola dan politik berjalan secara simbiotis, di mana dunia politik membutuhkan basis massa sepak bola, sedangkan sepak bola sendiri memerlukan sokongan infrastruktur dari pemerintah.
+- Hubungan sepak bola dan politik berjalan secara simbiotis, yaitu dunia politik membutuhkan basis massa sepak bola, sedangkan sepak bola sendiri memerlukan sokongan infrastruktur dari pemerintah.
 
 Sejarah dunia tidak hanya tercatat di buku, tetapi juga di stadion-stadion sepak bola.
