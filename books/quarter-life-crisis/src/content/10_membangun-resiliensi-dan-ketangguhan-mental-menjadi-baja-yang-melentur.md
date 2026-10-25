@@ -47,31 +47,27 @@ Banyak orang gagal membangun resiliensi karena bersikap terlalu kejam pada diri 
 
 - Bayangkan kamu sedang berbicara dengan sahabat yang sedang terpuruk. Apakah kamu akan memaki mereka? Tentu tidak. Terapkan kebaikan yang sama pada dirimu sendiri.
 
-#### C. Menemukan Locus of Control yang Sehat
+#### C. Menemukan Lokus Kendali yang Sehat
 
 Pahami perbedaan antara hal-hal yang bisa kamu kendalikan dan yang di luar kendalimu.
 
 - **Internal (bisa dikendalikan):** Upayamu, responsmu, rutinitas pagimu.
 - **Eksternal (di luar kendali):** Kondisi ekonomi, keputusan rekruter, opini orang lain di media sosial.
 
-### 4. Teknik Reframing
+### 4. Raka dan Startup yang Gagal
 
-Reframing adalah teknik kognitif untuk mengubah sudut pandang kita dalam melihat suatu keadaan.
-
-### 5. Andi dan Startup yang Gagal
-
-**Cerita Singkat:** Andi (25 tahun) merasa hancur setelah proyek startup yang ia bangun selama dua tahun gagal total. Ia merasa kehilangan identitas dan malu bertemu teman-temannya.
+**Cerita Singkat:** Raka (25 tahun) merasa hancur setelah proyek startup yang ia bangun selama dua tahun gagal total. Ia merasa kehilangan identitas dan malu bertemu teman-temannya.
 
 **Bagaimana Resiliensi Diterapkan:**
 
-1. **Penerimaan (Acceptance):** Andi mengakui rasa sedihnya tanpa menghakimi diri sendiri. Ia tidak berpura-pura semuanya baik-baik saja.
+1. **Penerimaan (Acceptance):** Raka mengakui rasa sedihnya tanpa menghakimi diri sendiri. Ia tidak berpura-pura semuanya baik-baik saja.
 2. **Analisis Objektif:** Alih-alih melabeli diri sebagai "orang gagal", ia menganalisis secara objektif penyebab proyeknya berhenti (misalnya riset pasar yang kurang matang, bukan karena ia tidak berbakat).
-3. **Tindakan Kecil (Micro-Action):** Andi tidak terburu-buru membangun bisnis baru. Ia mengambil langkah kecil: mengikuti kursus sertifikasi untuk meningkatkan keahlian yang dirasa masih kurang.
+3. **Tindakan Kecil (Micro-Action):** Raka tidak terburu-buru membangun bisnis baru. Ia mengambil langkah kecil: mengikuti kursus sertifikasi untuk meningkatkan keahlian yang dirasa masih kurang.
 4. **Membangun Relasi (Networking):** Ia mulai berdiskusi dengan mentor tentang kegagalan tersebut. Dari sana, ia menyadari bahwa hampir semua orang sukses pernah melewati fase serupa.
 
-**Hasil:** Enam bulan kemudian, Andi tidak hanya berhasil bangkit, tetapi juga mendapatkan posisi manajerial di perusahaan besar. Pengalaman kegagalan tersebut memberinya sudut pandang unik dalam mengelola risiko.
+**Hasil:** Enam bulan kemudian, Raka tidak hanya berhasil bangkit, tetapi juga mendapatkan posisi manajerial di perusahaan besar. Pengalaman kegagalan tersebut memberinya sudut pandang unik dalam mengelola risiko.
 
-### 6. Membangun "Tas Darurat Mental"
+### 5. Membangun "Tas Darurat Mental"
 
 Sebagai langkah praktis, buatlah daftar (digital atau fisik) yang berisi hal-hal berikut untuk digunakan saat situasi terasa sangat berat:
 

@@ -42,7 +42,7 @@ Dibandingkan 40 tahun lalu, orang dewasa muda saat ini membutuhkan waktu lebih l
 
 ## Kisah Maya
 
-> Maya adalah seorang lulusan Desain Grafis berusia 24 tahun yang bekerja di sebuah agensi periklanan ternama. Secara objektif, Maya "berhasil". Namun, setiap hari Minggu sore, ia merasakan sesak di dada (biasa disebut *Sunday Scaries*).
+> Maya adalah seorang akuntan berusia 26 tahun yang bekerja di sebuah perusahaan ternama. Secara objektif, Maya "berhasil". Namun, setiap hari Minggu sore, ia merasakan sesak di dada (biasa disebut *Sunday Scaries*).
 > 
 > Ia merasa terjebak dalam rutinitas yang tidak bermakna. Saat melihat teman kuliahnya di media sosial sedang mendaki gunung di Nepal, atau teman lainnya yang baru saja promosi jabatan, Maya merasa dirinya gagal. Ia mulai bertanya: *"Apakah ini hidup yang aku inginkan sampai 40 tahun ke depan? Siapa aku sebenarnya di luar pekerjaan ini?"*
 

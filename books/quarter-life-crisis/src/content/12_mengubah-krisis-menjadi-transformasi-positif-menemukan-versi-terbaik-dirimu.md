@@ -53,7 +53,7 @@ Transformasi tidak harus berarti berhenti dari pekerjaan secara mendadak atau pi
 
 ## Kisah Transformasi Maya
 
-> **Skenario:** Maya (26 tahun) bekerja di bank ternama dengan gaji stabil, tetapi ia merasa hampa dan sering menangis saat pulang kerja. Ia merasa terjebak karena "semua orang menganggapnya sukses".
+> **Skenario:** Maya (26 tahun) bekerja sebagai akuntan di bank ternama dengan gaji stabil, tetapi ia merasa hampa dan sering menangis saat pulang kerja. Ia merasa terjebak karena "semua orang menganggapnya sukses".
 > 
 > **Proses Transformasi:**
 > 

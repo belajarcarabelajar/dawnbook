@@ -58,7 +58,7 @@ Dunia kerja saat ini tidak lagi bersifat linear. Jika generasi orang tua kita mu
 
 ### A. Insinyur Perangkat Lunak Muda (Technical Context)
 
-**Skenario:** Budi baru saja diterima di sebuah perusahaan teknologi besar (*Big Tech*). Setiap hari dia merasa cemas saat melakukan *code review*. Dia merasa kodingannya berantakan dibandingkan seniornya dan takut dipecat setiap kali ada *bug* yang muncul.
+**Skenario:** Budi baru enam bulan diterima di sebuah perusahaan teknologi besar (*Big Tech*). Setiap hari dia merasa cemas saat melakukan *code review*. Dia merasa kodingannya berantakan dibandingkan seniornya dan takut dipecat setiap kali ada *bug* yang muncul.
 
 - **Masalah:** Sindrom Imposter dan tekanan "Pekerjaan Impian".
 - **Solusi:** Budi perlu menyadari bahwa seniornya memiliki jam terbang lebih banyak darinya. Dia harus mengubah pola pikirnya dari "Saya harus tahu segalanya" menjadi "Saya adalah mesin pembelajar".
