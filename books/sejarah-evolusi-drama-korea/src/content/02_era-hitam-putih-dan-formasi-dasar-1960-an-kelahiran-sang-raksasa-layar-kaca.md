@@ -46,7 +46,7 @@ Alur cerita drama era 1960-an belum sekompleks kisah ketegangan (*thriller*) pol
 
 ## 4. Munculnya Kompetisi TBC dan MBC
 
-KBS memang memelopori industri ini, namun pertengahan hingga akhir dekade 1960-an ditandai oleh kemunculan stasiun televisi swasta yang membawa kompetisi.
+KBS memang memelopori industri ini, tetapi pertengahan hingga akhir dekade 1960-an ditandai oleh kemunculan stasiun televisi swasta yang membawa kompetisi.
 
 * **TBC (Tongyang Broadcasting Company)** yang diluncurkan pada 1964 segera memantapkan posisinya sebagai pionir drama harian (*daily drama* atau *il-il deurama*).
 * Stasiun **MBC (Munhwa Broadcasting Corporation)** mulai mengudara pada 1969 dengan membawa teknik penceritaan yang dinamis.

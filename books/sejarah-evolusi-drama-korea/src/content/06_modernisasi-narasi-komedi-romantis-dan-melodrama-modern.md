@@ -1,6 +1,6 @@
 ## Modernisasi Narasi Komedi Romantis dan Melodrama Modern
 
-Perkembangan pertelevisian Korea Selatan mencapai titik balik estetika yang menarik. Berbeda dengan era sebelumnya yang didominasi melodrama penuh air mata dan konflik kelas sosial yang berat, periode modernisasi melahirkan tren baru yang dikenal sebagai *trendy drama*. Pada era ini, fokus narasi bergeser dari sekadar bertahan hidup ke arah penggambaran gaya hidup perkotaan, estetika visual yang modis, serta dinamika hubungan yang terasa lebih ringan namun tetap menyentuh emosi.
+Perkembangan pertelevisian Korea Selatan mencapai titik balik estetika yang menarik. Berbeda dengan era sebelumnya yang didominasi melodrama penuh air mata dan konflik kelas sosial yang berat, periode modernisasi melahirkan tren baru yang dikenal sebagai *trendy drama*. Pada era ini, fokus narasi bergeser dari sekadar bertahan hidup ke arah penggambaran gaya hidup perkotaan, estetika visual yang modis, serta dinamika hubungan yang terasa lebih ringan tetapi tetap menyentuh emosi.
 
 ## Dari Melodrama Sedih ke Komedi Romantis dan Gaya Hidup
 
@@ -46,7 +46,7 @@ Sebagai ilustrasi, dalam drama yang menampilkan sosok CEO muda, setelan jas *cus
 
 | Tropes Klasik | Modernisasi Narasi |
 | :--- | :--- |
-| *Cinderella & Prince Charming* | Tokoh perempuan yang mandiri secara finansial namun memiliki luka emosional masa lalu. |
+| *Cinderella & Prince Charming* | Tokoh perempuan yang mandiri secara finansial tetapi memiliki luka emosional masa lalu. |
 | *Enemies-to-Lovers* | Hubungan yang diwarnai dialog sarkastik, humor segar, dan *power play* yang seimbang. |
 | *Love Triangle* | Konflik yang berfokus pada pendewasaan diri masing-masing karakter, bukan sekadar persaingan memperebutkan hati. |
 

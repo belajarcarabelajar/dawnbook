@@ -8,7 +8,7 @@ Masuknya pemain global seperti Netflix, yang kemudian diikuti oleh Disney+, Appl
 
 Tahun 2016 adalah tahun penting ketika Netflix secara resmi meluncurkan layanannya di Korea Selatan. Awalnya, platform ini hanya berperan sebagai perpustakaan konten. Namun, segalanya berubah ketika mereka mulai berinvestasi dalam **Original Content**.
 
-**Analogi Sederhana:** Bayangkan K-Drama di televisi konvensional seperti sebuah **restoran prasmanan hotel** yang memiliki aturan berpakaian ketat dan menu yang harus disukai semua orang (anak-anak hingga lansia). Sedangkan platform OTT adalah **restoran fine-dining eksklusif** di mana koki bebas bereksperimen dengan rasa yang tajam, berani, dan terkadang ekstrem, khusus untuk pelanggan yang mencari pengalaman unik.
+**Analogi Sederhana:** Bayangkan K-Drama di televisi konvensional seperti sebuah **restoran prasmanan hotel** yang memiliki aturan berpakaian ketat dan menu yang harus disukai semua orang (anak-anak hingga lansia). Sedangkan platform OTT adalah **restoran fine-dining eksklusif** tempat koki bebas bereksperimen dengan rasa yang tajam, berani, dan terkadang ekstrem, khusus untuk pelanggan yang mencari pengalaman unik.
 
 > "Lebih dari sekadar tempat penayangan baru, platform OTT memberi penulis ruang bereksperimen di luar batasan rating penyiaran."
 
@@ -39,7 +39,7 @@ $$
 $$
 </div>
 
-Di mana:
+Keterangan:
 - $\text{K}\_s$: Kualitas Sinematik
 - $\text{D}\_g$: Distribusi Global
 - $\text{K}\_k$: Kebebasan Kreatif
@@ -79,6 +79,6 @@ Penonton baru yang riwayatnya berisi *thriller* bertema gelap, misalnya, akan di
 
 Meskipun membawa banyak dampak positif, revolusi ini juga menghadirkan tantangan:
 
-Tantangan terbesar yang muncul adalah kesenjangan anggaran, di mana stasiun TV lokal kesulitan menandingi dana besar dari platform OTT. Selain itu, kepemilikan kekayaan intelektual (IP rights) kerap dikuasai sepenuhnya oleh platform global. Akibatnya, rumah produksi lokal tidak mendapatkan bagian royalti tambahan meskipun karyanya sukses besar di tingkat internasional, seperti yang dialami tim produksi *Squid Game* pada musim pertamanya.
+Tantangan terbesar yang muncul adalah kesenjangan anggaran, yakni stasiun TV lokal kesulitan menandingi dana besar dari platform OTT. Selain itu, kepemilikan kekayaan intelektual (IP rights) kerap dikuasai sepenuhnya oleh platform global. Akibatnya, rumah produksi lokal tidak mendapatkan bagian royalti tambahan meskipun karyanya sukses besar di tingkat internasional, seperti yang dialami tim produksi *Squid Game* pada musim pertamanya.
 
 > **Poin Penting:** Revolusi OTT telah mengubah K-Drama dari sekadar "produk regional Asia" menjadi "konsumsi global utama" yang sejajar dengan produksi Hollywood. Kebebasan dari sensor telah melahirkan genre-genre baru yang lebih berani dan jujur dalam memotret realitas sosial. Namun, perkembangan ini memicu diskusi mengenai apakah K-Drama mampu mempertahankan jati diri khasnya di tengah pengaruh gaya produksi global.

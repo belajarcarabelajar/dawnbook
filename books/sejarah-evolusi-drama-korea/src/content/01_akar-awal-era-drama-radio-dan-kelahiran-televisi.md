@@ -6,7 +6,7 @@ Bagian ini akan membawa kamu menelusuri perkembangan drama audio dari tahun 1920
 
 ## 1. Kelahiran Drama Radio (1920-an - 1940-an)
 
-Bayangkan sebuah masa di mana tidak ada layar untuk ditatap. Satu-satunya jendela menuju dunia luar adalah sebuah kotak kayu besar yang mengeluarkan suara statis. Inilah era drama radio, sebuah medium yang menuntut pendengarnya menjadi "sutradara" bagi imajinasi mereka sendiri.
+Bayangkan sebuah masa ketika tidak ada layar untuk ditatap. Satu-satunya jendela menuju dunia luar adalah sebuah kotak kayu besar yang mengeluarkan suara statis. Inilah era drama radio, sebuah medium yang menuntut pendengarnya menjadi "sutradara" bagi imajinasi mereka sendiri.
 
 ### Masa Penjajahan dan JODK
 
@@ -23,7 +23,7 @@ Setelah kemerdekaan pada tahun 1945 dan berakhirnya Perang Korea (1950–1953), 
 
 ### Fenomena "Cheongsilhongsil"
 
-Pada tahun 1956, drama radio berjudul **"Cheongsilhongsil"** (Benang Biru, Benang Merah) menjadi hit besar. Karya ini menciptakan standar baru bagi elemen-elemen khas K-Drama modern: kisah melodrama cinta yang rumit dan penuh air mata membuat pendengar terikat secara emosional. Pada masa itu, orang-orang rela berkerumun di sekitar satu-satunya radio di desa demi menyimak kelanjutan cerita. Kepopuleran ini juga melahirkan fenomena baru, di mana para pengisi suara (*voice actor*) menjadi selebritas di Korea bahkan sebelum wajah mereka dikenal publik.
+Pada tahun 1956, drama radio berjudul **"Cheongsilhongsil"** (Benang Biru, Benang Merah) menjadi hit besar. Karya ini menciptakan standar baru bagi elemen-elemen khas K-Drama modern: kisah melodrama cinta yang rumit dan penuh air mata membuat pendengar terikat secara emosional. Pada masa itu, orang-orang rela berkerumun di sekitar satu-satunya radio di desa demi menyimak kelanjutan cerita. Kepopuleran ini juga melahirkan fenomena baru, yakni para pengisi suara (*voice actor*) menjadi selebritas di Korea bahkan sebelum wajah mereka dikenal publik.
 
 ## 3. Kelahiran Televisi (1956 - 1959)
 
@@ -37,7 +37,7 @@ Siaran perdana stasiun ini menampilkan drama televisi pertama Korea berjudul *Th
 
 ### Tantangan Ekonomi
 
-Pada masa itu, televisi adalah barang mewah, di mana harga satu unitnya bisa setara dengan harga rumah kecil. Jumlah unit televisi di seluruh Seoul saat itu diperkirakan hanya sekitar 300 unit. Akibatnya, banyak orang menonton televisi di tempat umum atau di rumah tetangga yang lebih kaya. Keterbatasan kepemilikan ini melahirkan tradisi komunal menonton bersama, yang nantinya ikut membentuk eratnya budaya menonton bersama di Korea.
+Pada masa itu, televisi adalah barang mewah, yang harga satu unitnya bisa setara dengan harga rumah kecil. Jumlah unit televisi di seluruh Seoul saat itu diperkirakan hanya sekitar 300 unit. Akibatnya, banyak orang menonton televisi di tempat umum atau di rumah tetangga yang lebih kaya. Keterbatasan kepemilikan ini melahirkan tradisi komunal menonton bersama, yang nantinya ikut membentuk eratnya budaya menonton bersama di Korea.
 
 Tonggak-tonggak dari siaran radio pertama sampai televisi pertama itu bisa kamu lihat ringkas pada garis waktu berikut.
 
@@ -74,7 +74,7 @@ Meskipun medianya berbeda, banyak unsur drama radio terbawa ke dalam drama telev
 
 Memahami akar awal ini membantu kita memahami mengapa K-Drama modern sangat ahli dalam dua hal: **Dialog Emosional** dan **Musik Latar (OST)**.
 
-Dalam industri modern, teknik *cliffhanger* yang sering digunakan penulis skenario papan atas seperti Kim Eun-sook sebenarnya berakar dari sandiwara radio tahun 1950-an. Saat itu, ketegangan di akhir siaran dibuat sedemikian rupa agar pendengar kembali menyalakan radio mereka keesokan harinya. Begitu pula dengan dominasi musik latar atau *original soundtrack* (OST) dramatis dalam drakor saat ini. Kepekaan audio tersebut merupakan bentuk evolusi langsung dari metode era radio, di mana suasana emosional harus dibangun sepenuhnya lewat suara tanpa bantuan elemen visual.
+Dalam industri modern, teknik *cliffhanger* yang sering digunakan penulis skenario papan atas seperti Kim Eun-sook sebenarnya berakar dari sandiwara radio tahun 1950-an. Saat itu, ketegangan di akhir siaran dibuat sedemikian rupa agar pendengar kembali menyalakan radio mereka keesokan harinya. Begitu pula dengan dominasi musik latar atau *original soundtrack* (OST) dramatis dalam drakor saat ini. Kepekaan audio tersebut merupakan bentuk evolusi langsung dari metode era radio, ketika suasana emosional harus dibangun sepenuhnya lewat suara tanpa bantuan elemen visual.
 
 ## Warisan Kreatif Siaran Langsung
 

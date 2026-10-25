@@ -1,6 +1,6 @@
 ## Referensi
 
-Daftar pustaka ini berisi literatur ilmiah, buku, dan artikel jurnal akademik yang menjadi basis teoretis untuk memahami drama Korea (K-drama). Fokusnya adalah sejarah, evolusi, dan perkembangannya di panggung global. Semua entri disusun secara alfabetis berdasarkan nama belakang penulis sesuai dengan pedoman APA Style (edisi ke-7).
+Daftar pustaka ini berisi literatur ilmiah, buku, dan artikel jurnal akademik yang menjadi basis teoretis untuk memahami drama Korea (K-Drama). Fokusnya adalah sejarah, evolusi, dan perkembangannya di panggung global. Semua entri disusun secara alfabetis berdasarkan nama belakang penulis sesuai dengan pedoman APA Style (edisi ke-7).
 
 Chua, B. H., & Iwabuchi, K. (Ed.). (2008). *East Asian pop culture: Analysing the Korean wave*. Hong Kong University Press. [https://doi.org/10.5790/hongkong/9789622098923.001.0001](https://doi.org/10.5790/hongkong/9789622098923.001.0001)
 
