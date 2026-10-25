@@ -6,15 +6,15 @@ Berikut adalah rujukan akademis dan literatur fundamental yang digunakan dalam p
 
 Acemoglu, D., & Autor, D. (2011). Skills, tasks and technologies: Implications for employment and earnings. Dalam O. Ashenfelter & D. Card (Red.), *Handbook of Labor Economics* (Vol. 4, hlm. 1043-1171). Elsevier. [https://doi.org/10.1016/S0169-7218(11)02410-5](https://doi.org/10.1016/S0169-7218(11)02410-5)
 
-Acemoglu, D., & Robinson, J. A. (2012). *Why nations fail: The origins of power, prosperity, and poverty*. Crown Currency.
+Acemoglu, D., & Robinson, J. A. (2012). *Why nations fail: The origins of power, prosperity, and poverty*. Crown Currency. [https://www.penguinrandomhouse.com/books/205014/why-nations-fail-by-daron-acemoglu-and-james-a-robinson/](https://www.penguinrandomhouse.com/books/205014/why-nations-fail-by-daron-acemoglu-and-james-a-robinson/)
 
 Arrow, K. J. (1962). The economic implications of learning by doing. *The Review of Economic Studies*, 29(3), 155-173. [https://doi.org/10.2307/2295952](https://doi.org/10.2307/2295952)
 
 Becker, G. S. (1962). Investment in human capital: A theoretical analysis. *Journal of Political Economy*, 70(5, Part 2), 9-49. [https://doi.org/10.1086/258724](https://doi.org/10.1086/258724)
 
-Becker, G. S. (1964). *Human capital: A theoretical and empirical analysis, with special reference to education*. National Bureau of Economic Research.
+Becker, G. S. (1964). *Human capital: A theoretical and empirical analysis, with special reference to education*. National Bureau of Economic Research. [https://www.nber.org/books-and-chapters/human-capital-theoretical-and-empirical-analysis-special-reference-education-first-edition](https://www.nber.org/books-and-chapters/human-capital-theoretical-and-empirical-analysis-special-reference-education-first-edition)
 
-Becker, G. S. (1993). *Human capital: A theoretical and empirical analysis, with special reference to education* (Edisi ke-3). The University of Chicago Press.
+Becker, G. S. (1993). *Human capital: A theoretical and empirical analysis, with special reference to education* (Edisi ke-3). The University of Chicago Press. [https://press.uchicago.edu/ucp/books/book/chicago/H/bo3684031.html](https://press.uchicago.edu/ucp/books/book/chicago/H/bo3684031.html)
 
 Ben-Porath, Y. (1967). The production of human capital and the life cycle of earnings. *Journal of Political Economy*, 75(4, Part 1), 352-365. [https://doi.org/10.1086/259291](https://doi.org/10.1086/259291)
 
@@ -34,7 +34,7 @@ Lucas, R. E. (1988). On the mechanics of economic development. *Journal of Monet
 
 Mincer, J. (1958). Investment in human capital and personal income distribution. *Journal of Political Economy*, 66(4), 281-302. [https://doi.org/10.1086/258055](https://doi.org/10.1086/258055)
 
-Mincer, J. (1974). *Schooling, experience, and earnings*. National Bureau of Economic Research.
+Mincer, J. (1974). *Schooling, experience, and earnings*. National Bureau of Economic Research. [https://www.nber.org/books-and-chapters/schooling-experience-and-earnings](https://www.nber.org/books-and-chapters/schooling-experience-and-earnings)
 
 Nelson, R. R., & Phelps, E. S. (1966). Investment in humans, technological diffusion, and economic growth. *The American Economic Review*, 56(1/2), 69-75. [https://www.jstor.org/stable/1821269](https://www.jstor.org/stable/1821269)
 
@@ -48,6 +48,6 @@ Romer, P. M. (1990). Endogenous technological change. *Journal of Political Econ
 
 Schultz, T. W. (1961). Investment in human capital. *The American Economic Review*, 51(1), 1-17. [https://www.jstor.org/stable/1818907](https://www.jstor.org/stable/1818907)
 
-Schultz, T. W. (1971). *Investment in human capital: The role of education and of research*. Free Press.
+Schultz, T. W. (1971). *Investment in human capital: The role of education and of research*. Free Press. [https://lccn.loc.gov/77122273](https://lccn.loc.gov/77122273)
 
 Spence, M. (1973). Job market signaling. *The Quarterly Journal of Economics*, 87(3), 355-374. [https://doi.org/10.2307/1882010](https://doi.org/10.2307/1882010)
