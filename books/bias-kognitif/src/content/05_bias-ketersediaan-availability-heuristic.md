@@ -6,7 +6,7 @@ Inilah yang disebut **Bias Ketersediaan (*Availability Heuristic*)**. Ini adalah
 
 ## 1\. Apa itu Bias Ketersediaan?
 
-Bias Ketersediaan adalah kecenderungan kognitif di mana seseorang mengandalkan informasi yang paling cepat muncul di pikiran saat mengevaluasi topik, konsep, atau keputusan tertentu.
+Bias Ketersediaan adalah kecenderungan kognitif ketika seseorang mengandalkan informasi yang paling cepat muncul di pikiran saat mengevaluasi topik, konsep, atau keputusan tertentu.
 
 Konsep ini pertama kali diperkenalkan oleh psikolog **Amos Tversky** dan **Daniel Kahneman** pada tahun 1973. Mereka menemukan bahwa manusia sering kali menggunakan "kemudahan pemanggilan memori" sebagai pengganti (proxy) untuk menghitung probabilitas yang sebenarnya.
 

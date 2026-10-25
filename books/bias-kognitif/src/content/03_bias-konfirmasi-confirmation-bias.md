@@ -66,7 +66,7 @@ Seorang investor yang sudah terlanjur membeli saham perusahaan X cenderung hanya
 
 Algoritma media sosial dirancang untuk menunjukkan konten yang kamu sukai. Jika kamu sering berinteraksi dengan konten politik tertentu, algoritma akan terus menyuapimu dengan pandangan serupa.
 
-> **Wawasan Penting:** Media sosial tidak hanya mencerminkan bias kita, mereka memperkuatnya dengan menciptakan "ruang gema" di mana suara-suara yang berbeda diredam.
+> **Wawasan Penting:** Media sosial tidak hanya mencerminkan bias kita, mereka memperkuatnya dengan menciptakan "ruang gema" tempat suara-suara yang berbeda diredam.
 
 ### 3\. Dunia Medis
 

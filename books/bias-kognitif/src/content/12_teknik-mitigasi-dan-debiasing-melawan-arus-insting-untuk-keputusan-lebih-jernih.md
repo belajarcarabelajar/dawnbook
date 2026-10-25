@@ -12,7 +12,7 @@ Dalam psikologi kognitif, Daniel Kahneman memopulerkan konsep **System 1** (cepa
 
 ### Pilot dan Autopilot
 
-Bayangkan kamu sedang menerbangkan pesawat. Sebagian besar waktu, pesawat berada dalam mode *autopilot* (System 1) yang efisien. Namun, saat cuaca buruk atau mendarat, pilot harus mengambil alih kendali secara manual (System 2). Debiasing adalah momen di mana kamu memutuskan untuk mematikan *autopilot* karena kamu tahu sensor pesawat mungkin terganggu oleh awan bias.
+Bayangkan kamu sedang menerbangkan pesawat. Sebagian besar waktu, pesawat berada dalam mode *autopilot* (System 1) yang efisien. Namun, saat cuaca buruk atau mendarat, pilot harus mengambil alih kendali secara manual (System 2). Debiasing adalah momen ketika kamu memutuskan untuk mematikan *autopilot* karena kamu tahu sensor pesawat mungkin terganggu oleh awan bias.
 
 ## 2\. Strategi Berpikir Kritis Individual
 

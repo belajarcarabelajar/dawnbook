@@ -6,7 +6,7 @@ Jika ya, kamu sedang mengalami salah satu bias kognitif yang paling kuat dalam i
 
 ## 1. Apa Itu Efek Halo?
 
-**Efek Halo** adalah bias kognitif di mana kesan keseluruhan kita terhadap seseorang ("Dia orang baik") memengaruhi perasaan dan pemikiran kita tentang karakter spesifik mereka ("Dia pasti sangat cerdas").
+**Efek Halo** adalah bias kognitif ketika kesan keseluruhan kita terhadap seseorang ("Dia orang baik") memengaruhi perasaan dan pemikiran kita tentang karakter spesifik mereka ("Dia pasti sangat cerdas").
 
 Istilah ini pertama kali dicetuskan oleh psikolog **Edward Thorndike** pada tahun 1920 setelah melakukan penelitian pada perwira militer. Ia menemukan bahwa ketika bawahan memiliki satu kualitas positif yang menonjol (seperti postur tubuh yang tegap), atasan cenderung menilai mereka tinggi dalam kategori lain seperti kepemimpinan, loyalitas, dan kecerdasan, meskipun tidak ada bukti nyata untuk itu.
 

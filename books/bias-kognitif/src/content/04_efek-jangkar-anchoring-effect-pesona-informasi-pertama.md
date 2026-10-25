@@ -64,7 +64,7 @@ Efek Jangkar tidak hanya ada di teori laboratorium; ia adalah alat praktis yang 
 
 ### 1\. Strategi Penetapan Harga (Pricing)
 
-Pernahkah kamu melihat menu restoran di mana terdapat satu botol anggur seharga Rp3.000.000? Restoran tersebut mungkin tidak berharap banyak orang membelinya. Kehadiran harga tersebut berfungsi sebagai **jangkar**. Ketika kamu melihat botol kedua seharga Rp800.000, harga tersebut tiba-tiba terasa "murah" dan masuk akal, padahal tanpa jangkar pertama, Rp800.000 mungkin terasa sangat mahal.
+Pernahkah kamu melihat menu restoran yang memuat satu botol anggur seharga Rp3.000.000? Restoran tersebut mungkin tidak berharap banyak orang membelinya. Kehadiran harga tersebut berfungsi sebagai **jangkar**. Ketika kamu melihat botol kedua seharga Rp800.000, harga tersebut tiba-tiba terasa "murah" dan masuk akal, padahal tanpa jangkar pertama, Rp800.000 mungkin terasa sangat mahal.
 
 ### 2\. Negosiasi Gaji
 

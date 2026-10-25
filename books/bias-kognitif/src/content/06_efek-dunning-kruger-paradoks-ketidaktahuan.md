@@ -2,11 +2,11 @@
 
 Pernahkah kamu bertemu orang yang baru mempelajari dasar-dasar investasi kripto atau strategi sepak bola, namun berbicara seolah ia ahli tingkat dunia? Atau sebaliknya, pernahkah kamu melihat seorang ahli yang sangat kompeten justru merasa bahwa kemampuan mereka "biasa-biasa saja"?
 
-Inilah **Dunning-Kruger Effect**, sebuah fenomena di mana orang yang kemampuannya rendah di suatu bidang cenderung menilai dirinya lebih ahli daripada kenyataannya.
+Inilah **Dunning-Kruger Effect**, sebuah fenomena ketika orang yang kemampuannya rendah di suatu bidang cenderung menilai dirinya lebih ahli daripada kenyataannya.
 
 ## 1\. Apa Itu Dunning-Kruger Effect?
 
-**Dunning-Kruger Effect** adalah cognitive bias di mana orang dengan tingkat kemampuan atau pengetahuan yang rendah dalam tugas tertentu cenderung **menilai terlalu tinggi** kemampuan mereka sendiri. Sebaliknya, mereka yang sangat kompeten cenderung **meremehkan** kemampuan mereka karena menganggap tugas tersebut mudah bagi orang lain juga.
+**Dunning-Kruger Effect** adalah cognitive bias ketika orang dengan tingkat kemampuan atau pengetahuan yang rendah dalam tugas tertentu cenderung **menilai terlalu tinggi** kemampuan mereka sendiri. Sebaliknya, mereka yang sangat kompeten cenderung **meremehkan** kemampuan mereka karena menganggap tugas tersebut mudah bagi orang lain juga.
 
 Fenomena ini pertama kali dipelajari secara formal oleh psikolog sosial **David Dunning** dan **Justin Kruger** pada tahun 1999 di Universitas Cornell.
 
@@ -55,7 +55,7 @@ Ini adalah kisah klasik yang menginspirasi Dunning dan Kruger. Pada tahun 1995, 
 
 Ketika polisi menangkapnya, dia terkejut dan bergumam: *"Tapi saya sudah memakai jusnya!"*
 
-**Logikanya:** Wheeler tahu bahwa jus lemon bisa digunakan sebagai tinta rahasia yang tidak terlihat. Dia berasumsi bahwa dengan membasuh wajahnya dengan jus lemon, wajahnya akan menjadi tidak terlihat oleh kamera. Dia sangat yakin dengan "teorinya" sehingga dia tidak merasa perlu memakai penutup wajah. Inilah contoh ekstrem di mana ketidaktahuan total disertai dengan kepercayaan diri yang absolut.
+**Logikanya:** Wheeler tahu bahwa jus lemon bisa digunakan sebagai tinta rahasia yang tidak terlihat. Dia berasumsi bahwa dengan membasuh wajahnya dengan jus lemon, wajahnya akan menjadi tidak terlihat oleh kamera. Dia sangat yakin dengan "teorinya" sehingga dia tidak merasa perlu memakai penutup wajah. Inilah contoh ekstrem ketika ketidaktahuan total disertai dengan kepercayaan diri yang absolut.
 
 ## 4\. Dunning-Kruger Effect di Dunia Engineering & Teknologi
 
