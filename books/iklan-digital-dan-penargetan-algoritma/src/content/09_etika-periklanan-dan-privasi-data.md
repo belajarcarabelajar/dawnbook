@@ -71,7 +71,7 @@ $$
 
 Sering kali terdapat *trade-off*: $\uparrow P\implies\downarrow V$
 
-Tujuan dari etika periklanan modern adalah mencari titik optimal di mana $P$ cukup tinggi untuk memberikan nilai, namun $V$ tidak turun di bawah ambang batas hak asasi manusia.
+Tujuan dari etika periklanan modern adalah mencari titik optimal tempat $P$ cukup tinggi untuk memberikan nilai, tetapi $V$ tidak turun di bawah ambang batas hak asasi manusia.
 
 ## Tanggung Jawab Bersama
 

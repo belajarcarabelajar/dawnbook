@@ -4,7 +4,7 @@ Berikut adalah daftar referensi akademis, regulasi hukum, standar industri, sert
 
 ### Regulasi dan Perundang-undangan
 
-1. **Republik Indonesia.** (2022). [*Undang-Undang Nomor 27 Tahun 2022 tentang Pelindungan Data Pribadi (UU PDP)*](https://peraturan.bpk.go.id/Details/228225/uu-no-27-tahun-2022). Lembaran Negara Republik Indonesia Tahun 2022 Nomor 207. Jakarta.
+1. **Republik Indonesia.** (2022). [*Undang-Undang Nomor 27 Tahun 2022 tentang Pelindungan Data Pribadi (UU PDP)*](https://peraturan.bpk.go.id/Details/228225/uu-no-27-tahun-2022). Lembaran Negara Republik Indonesia Tahun 2022 Nomor 196. Jakarta.
 2. **Republik Indonesia.** (2024). [*Undang-Undang Nomor 1 Tahun 2024 tentang Perubahan Kedua atas UU ITE*](https://peraturan.bpk.go.id/Details/276536/uu-no-1-tahun-2024). Lembaran Negara Republik Indonesia. Jakarta.
 3. **European Union.** (2016). [*Regulation (EU) 2016/679 of the European Parliament and of the Council (General Data Protection Regulation - GDPR)*](https://eur-lex.europa.eu/eli/reg/2016/679/oj). Official Journal of the European Union, L 119/1.
 4. **European Union.** (2022). [*Regulation (EU) 2022/2065 of the European Parliament and of the Council (Digital Services Act - DSA)*](https://eur-lex.europa.eu/eli/reg/2022/2065/oj). Official Journal of the European Union, L 277/1.

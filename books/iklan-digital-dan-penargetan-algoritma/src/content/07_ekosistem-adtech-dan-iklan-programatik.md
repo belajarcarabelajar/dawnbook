@@ -97,7 +97,7 @@ Pesan yang dikirim oleh SSP atau Ad Exchange kepada DSP untuk meminta penawaran 
 
 Tidak semua iklan dibeli melalui lelang terbuka (RTB). Ada beberapa metode lain:
 
-- **Open Auction (RTB):** Pasar terbuka di mana siapa saja bisa menawar. Mirip pasar loak yang sangat efisien.
+- **Open Auction (RTB):** Pasar terbuka tempat siapa saja bisa menawar. Mirip pasar loak yang sangat efisien.
 - **Private Marketplace (PMP):** Lelang eksklusif yang hanya bisa diikuti oleh pengiklan undangan. Biasanya untuk situs web premium.
 - **Programmatic Direct:** Pembelian ruang iklan secara otomatis tanpa lelang, dengan harga yang sudah disepakati di depan (seperti memesan meja di restoran).
 

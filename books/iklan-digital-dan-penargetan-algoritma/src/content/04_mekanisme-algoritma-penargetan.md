@@ -10,7 +10,7 @@ Algoritma tidak memahami "minat" atau "hobi" dalam bentuk kata-kata seperti manu
 
 Setiap tindakan yang kamu lakukan (durasi menonton video, tombol yang diklik, hingga kecepatan *scrolling*) diberi bobot numerik.
 
-> **Analogi:** Bayangkan sebuah perpustakaan raksasa di mana setiap pengunjung memiliki "peta koordinat" unik. Jika kamu sering mengunjungi rak buku teknologi dan fiksi ilmiah, koordinat kamu akan bergeser ke arah area "Geek". Algoritma adalah navigator yang memetakan posisi kamu di peta ini secara real-time.
+> **Analogi:** Bayangkan sebuah perpustakaan raksasa tempat setiap pengunjung memiliki "peta koordinat" unik. Jika kamu sering mengunjungi rak buku teknologi dan fiksi ilmiah, koordinat kamu akan bergeser ke arah area "Geek". Algoritma adalah navigator yang memetakan posisi kamu di peta ini secara real-time.
 
 Secara matematis, profil kamu bisa direpresentasikan sebagai vektor $n$-dimensi:
 
@@ -36,11 +36,11 @@ Logika ini bekerja berdasarkan prinsip: *"Orang yang memiliki minat yang sama di
 Logika ini fokus pada properti dari item yang kamu konsumsi.
 
 - **Cara kerja:** Jika kamu sering menonton video tentang "Resep Rendang", algoritma akan mencari konten lain dengan metadata serupa (misal: "Masakan Padang", "Tips Daging Empuk").
-- **Kekuatan:** Sangat efektif untuk pengguna baru yang belum memiliki banyak interaksi sosial namun sudah menunjukkan minat spesifik.
+- **Kekuatan:** Sangat efektif untuk pengguna baru yang belum memiliki banyak interaksi sosial tetapi sudah menunjukkan minat spesifik.
 
 #### C. Lookalike Modeling (Pemodelan Serupa)
 
-Ini adalah teknik lanjutan di mana pengiklan memberikan data pelanggan terbaik mereka, dan algoritma mencari "kloningan" perilaku dari pengguna lain di platform tersebut.
+Ini adalah teknik lanjutan ketika pengiklan memberikan data pelanggan terbaik mereka, dan algoritma mencari "kloningan" perilaku dari pengguna lain di platform tersebut.
 
 ### 3. Pemrosesan Real-Time dan Latensi Rendah
 

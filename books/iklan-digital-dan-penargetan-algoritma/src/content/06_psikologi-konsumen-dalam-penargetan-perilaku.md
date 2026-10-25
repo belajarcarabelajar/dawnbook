@@ -75,7 +75,7 @@ Semakin banyak data psikologis (minat, emosi, waktu aktif) yang dimasukkan ke da
 **Skenario Perjalanan Membeli Sepatu Lari**
 
 1. **Kesadaran (Awareness):** Budi mencari "cara mulai lari maraton" di Google. Algoritma mencatat minat pada "kesehatan" dan "maraton".
-2. **Pertimbangan (Consideration):** Budi mengunjungi situs sepatu lari namun tidak membeli karena harganya mahal (Hambatan Psikologis: *Pain of Paying*).
+2. **Pertimbangan (Consideration):** Budi mengunjungi situs sepatu lari tetapi tidak membeli karena harganya mahal (Hambatan Psikologis: *Pain of Paying*).
 3. **Intervensi Algoritma:** Dua jam kemudian, Budi melihat iklan sepatu yang sama di Facebook dengan testimoni pelari profesional (Memicu: *Social Proof*).
 4. **Konversi (Conversion):** Keesokan harinya, muncul iklan dengan kode promo 10% yang berlaku hanya hari ini (Memicu: *Scarcity* dan mengurangi *Pain of Paying*).
 5. **Hasil:** Budi membeli. Iklan tersebut berhasil karena menyerang hambatan psikologis Budi di waktu yang tepat.

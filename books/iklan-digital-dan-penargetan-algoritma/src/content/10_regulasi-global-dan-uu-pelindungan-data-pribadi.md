@@ -6,7 +6,7 @@ Di bagian ini, kita akan membedah "sabuk pengaman" dan "rambu-rambu" hukum yang 
 
 ## 1. Dari Periklanan Tanpa Aturan ke Regulasi Ketat
 
-Dahulu, dunia periklanan digital sering dianggap sebagai *Wild West*, wilayah tanpa hukum di mana data pribadi dipanen secara masif tanpa izin. Namun, kesadaran akan privasi mengubah keadaan itu.
+Dahulu, dunia periklanan digital sering dianggap sebagai *Wild West*, wilayah tanpa hukum tempat data pribadi dipanen secara masif tanpa izin. Namun, kesadaran akan privasi mengubah keadaan itu.
 
 > **Insight Utama:** Privasi bukan lagi sekadar fitur tambahan, melainkan hak asasi manusia yang kini dilindungi oleh undang-undang yang memiliki sanksi finansial sangat berat.
 
@@ -64,7 +64,7 @@ Regulasi ini mengubah cara kerja *AdTech* (Advertising Technology) secara fundam
 
 Mari kita lihat bagaimana sebuah perusahaan *e-commerce* lokal harus bertindak agar tidak melanggar hukum saat menjalankan kampanye iklan.
 
-**Skenario:** "TokoCepat", sebuah platform belanja online, ingin menggunakan algoritma untuk menargetkan pengguna yang sering mencari produk bayi namun belum melakukan pembelian.
+**Skenario:** "TokoCepat", sebuah platform belanja online, ingin menggunakan algoritma untuk menargetkan pengguna yang sering mencari produk bayi tetapi belum melakukan pembelian.
 
 **Langkah Kepatuhan (Compliance):**
 

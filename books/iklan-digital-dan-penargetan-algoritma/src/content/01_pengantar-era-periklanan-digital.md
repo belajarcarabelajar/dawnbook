@@ -36,7 +36,7 @@ Google meluncurkan **AdWords** (sekarang Google Ads) pada tahun 2000. Ini mengus
 
 ### 4\. Era Media Sosial (Sekarang)
 
-Dengan munculnya Facebook, Instagram, dan TikTok, iklan tidak lagi hanya berdasarkan *apa yang kamu cari*, tetapi juga *siapa kamu*, *apa minat kamu*, dan *bagaimana perilaku kamu*. Kita telah masuk ke ekosistem yang sangat dinamis di mana konten iklan dibuat secara otomatis untuk menyesuaikan dengan selera individu.
+Dengan munculnya Facebook, Instagram, dan TikTok, iklan tidak lagi hanya berdasarkan *apa yang kamu cari*, tetapi juga *siapa kamu*, *apa minat kamu*, dan *bagaimana perilaku kamu*. Kita telah masuk ke ekosistem yang sangat dinamis tempat konten iklan dibuat secara otomatis untuk menyesuaikan dengan selera individu.
 
 Keempat era tadi bisa kamu lihat sekaligus dalam lini masa berikut.
 
