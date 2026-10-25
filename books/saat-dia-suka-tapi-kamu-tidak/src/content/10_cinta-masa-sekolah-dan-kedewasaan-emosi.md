@@ -16,7 +16,7 @@ Untuk memahaminya, Collins menyebut lima ciri yang perlu dicermati:
 - kualitas hubungan (*quality*)
 - proses kognitif dan emosional (*cognitive and emotional processes*)
 
-Daftar itu menunjukkan bahwa hubungan romantis remaja punya banyak sisi yang layak dipelajari. Tafsiran buku ini, debar di dada saat menunggu balasan kertas terlipat pun tidak perlu diremehkan, baik oleh orang lain maupun oleh dirimu sendiri sekarang.
+Daftar itu menunjukkan bahwa hubungan romantis remaja punya banyak sisi yang layak dipelajari. Menurut tafsiran buku ini, debar di dada saat menunggu balasan kertas terlipat pun tidak perlu diremehkan, baik oleh orang lain maupun oleh dirimu sendiri sekarang.
 
 ### Seberapa Banyak Remaja Terlibat Asmara
 

@@ -8,7 +8,7 @@ Bab ini tidak langsung memberi jawaban. Tujuannya lebih sederhana: menunjukkan b
 
 ### Lima Bentuk Cinta Bertepuk Sebelah Tangan
 
-Istilah yang dipakai para peneliti adalah *unrequited love*, yaitu cinta yang tidak berbalas. Dalam penelitian [Bringle dan rekan (2013)](https://doi.org/10.1177/2158244013492160), istilah ini mencakup beberapa jenis pengalaman: naksir orang terkenal, misalnya seorang bintang, naksir seseorang yang ada di sekitar kita, mengejar seseorang, merindukan orang yang dulu pernah menjadi kekasih, dan cinta yang tidak setara (*unequal love*). Naksir seseorang di sekitar kita pernah dialami 63% peserta, sedangkan naksir orang terkenal 48%.
+Istilah yang dipakai para peneliti adalah *unrequited love*, yaitu cinta yang tidak berbalas. Dalam penelitian [Bringle dan rekan (2013)](https://doi.org/10.1177/2158244013492160), istilah ini mencakup beberapa jenis pengalaman: naksir orang terkenal (misalnya seorang bintang), naksir seseorang yang ada di sekitar kita, mengejar seseorang, merindukan orang yang dulu pernah menjadi kekasih, dan cinta yang tidak setara (*unequal love*). Naksir seseorang di sekitar kita pernah dialami 63% peserta, sedangkan naksir orang terkenal 48%.
 
 Jenis-jenis ini menarik karena memperlihatkan bahwa cinta tak berbalas tidak selalu berupa drama besar. Rasa naksir pada seorang bintang masuk ke dalamnya. Begitu juga rasa pada teman satu kelompok yang tidak pernah kamu ungkapkan. Semuanya punya satu kesamaan: perasaan itu tidak bertemu dengan perasaan yang sama dari pihak lain.
 
@@ -49,7 +49,7 @@ Buku ini ditulis terutama untuk kamu yang sedang disukai seseorang, tetapi tidak
 - **Bab 8** membahas menghilang tanpa kabar (*ghosting*) sebagai cara mengakhiri.
 - **Bab 9** berpindah ke sisi orang yang tidak dipilih.
 - **Bab 10** membahas cinta di usia sekolah dan kedewasaan emosi.
-- **Bab 11** membahas pelecehan yang terlanjur dianggap biasa.
+- **Bab 11** membahas pelecehan yang telanjur dianggap biasa.
 - **Bab 12** menutup buku dengan mencari orang yang sejalan dengan nilai-nilaimu.
 
 Kamu boleh membaca berurutan atau langsung melompat ke bab yang paling dekat dengan situasimu.

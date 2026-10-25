@@ -54,7 +54,7 @@ Tidak ada kalimat dalam contoh itu yang menjanjikan waktu lain. Bandingkan denga
 
 ### Desakan Setelah Kata Tidak
 
-Ada kalanya penolakan yang sudah jelas tetap tidak dihormati. [Cupach dan Spitzberg (2000)](https://doi.org/10.1891/0886-6708.15.4.357) menggambarkan pola yang mirip, yang mereka sebut *obsessive relational intrusion* (gangguan relasional obsesif), yaitu pengejaran dan pelanggaran privasi fisik atau simbolis yang berulang dan tidak diinginkan oleh orang lain, entah orang asing atau kenalan, yang menginginkan atau menganggap ada hubungan intim. Mereka mengelompokkannya ke dalam empat jenis:
+Ada kalanya penolakan yang sudah jelas tetap tidak dihormati. [Cupach dan Spitzberg (2000)](https://doi.org/10.1891/0886-6708.15.4.357) menggambarkan pola yang mirip, yang mereka sebut *obsessive relational intrusion* (gangguan relasional obsesif), yaitu pengejaran dan pelanggaran privasi fisik atau simbolis yang berulang dan tidak diinginkan, dilakukan oleh orang lain, entah orang asing atau kenalan, yang menginginkan atau menganggap ada hubungan intim. Mereka mengelompokkannya ke dalam empat jenis:
 
 - pengejaran (*pursuit*);
 - pelanggaran batas (*violation*);

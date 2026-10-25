@@ -8,7 +8,7 @@ Di bab 2 kita melihat teori tentang mengapa ketertarikan kadang datang secara ti
 
 [Zhao dan Epley (2021)](https://doi.org/10.1037/pspa0000277) menjalankan sembilan eksperimen tentang pujian. Dalam ringkasan penelitian mereka, orang yang memberi pujian meremehkan seberapa senang penerimanya nanti, sekaligus melebih-lebihkan seberapa canggung penerima itu akan merasa.
 
-Naskah penulisnya memberi contoh dari eksperimen pertama: pemberi pujian menebak rasa canggung penerima di skor 3,46, padahal penerima sendiri melaporkan 2,06. Naskah yang sama mencatat bahwa membaca pujian tidak membuat penerima merasa lebih canggung dibanding kelompok kontrol.
+Naskah Zhao dan Epley memberi contoh dari eksperimen pertama: pemberi pujian menebak rasa canggung penerima di skor 3,46, padahal penerima sendiri melaporkan 2,06. Naskah yang sama mencatat bahwa membaca pujian tidak membuat penerima merasa lebih canggung dibanding kelompok kontrol.
 
 [Boothby dan Bohns (2021)](https://doi.org/10.1177/0146167220949003) menemukan pola yang mirip dalam lima studi. Pemberi pujian meremehkan seberapa positif perasaan penerima, dan melebih-lebihkan seberapa terganggu serta tidak nyaman penerima akan merasa. Kekeliruan ini tetap ada bahkan ketika mereka menengok ke belakang, setelah pujian itu disampaikan.
 

@@ -1,6 +1,6 @@
 ## Ramah Tidak Sama dengan Tertarik
 
-Senyum yang sama bisa dibaca dengan dua cara, bagimu sekadar sopan, bagi orang lain seperti tanda bahwa kamu tertarik. Bayangkan seorang rekan satu kelompok tugas yang selalu kamu sapa dengan hangat. Kamu menanyakan kabarnya, tertawa mendengar leluconnya, dan membalas pesannya di aplikasi chat tanpa menunggu lama. Bagimu itu biasa, karena memang begitu caramu memperlakukan orang. Lalu suatu hari dia mengaku mengira kamu punya perasaan yang sama.
+Senyum yang sama bisa dibaca dengan dua cara: bagimu sekadar sopan, bagi orang lain seperti tanda bahwa kamu tertarik. Bayangkan seorang rekan satu kelompok tugas yang selalu kamu sapa dengan hangat. Kamu menanyakan kabarnya, tertawa mendengar leluconnya, dan membalas pesannya di aplikasi chat tanpa menunggu lama. Bagimu itu biasa, karena memang begitu caramu memperlakukan orang. Lalu suatu hari dia mengaku mengira kamu punya perasaan yang sama.
 
 Di bab ini kita melihat apa kata penelitian tentang *flirting*, atau tebar pesona. Gayanya bermacam-macam, alasannya juga bermacam-macam, dan keramahan pun bisa dibaca keliru. Tujuannya bukan membuatmu curiga pada setiap senyum, melainkan memahami mengapa sinyal yang sama bisa sampai dengan arti yang berbeda.
 
@@ -64,8 +64,8 @@ Misalnya, seorang rekan kerja paruh waktu sering mengirim stiker lucu dan memuji
 
 ### Benang Merah
 
-- Ada lima gaya tebar pesona: fisik, tradisional, tulus, sopan, dan jenaka, dan beberapa di antaranya tampak dalam perilaku yang berbeda.
-- Dalam satu penelitian laboratorium lama, penilai laki-laki menganggap lawan bicara perempuan lebih menggoda daripada penilaian perempuan, sehingga kemungkinan keramahan terbaca lebih jauh patut dipertimbangkan.
+- Ada lima gaya tebar pesona: fisik, tradisional, tulus, sopan, dan jenaka. Beberapa di antaranya tampak dalam perilaku yang berbeda.
+- Dalam satu penelitian laboratorium lama, penilai laki-laki menganggap lawan bicara perempuan lebih menggoda daripada penilai perempuan, sehingga kemungkinan keramahan terbaca lebih jauh patut dipertimbangkan.
 - Ramah bukan janji, dan salah baca bisa terjadi dari dua arah.
 
 Sinyal tanpa kata memang mudah disalahpahami. Lalu bagaimana kalau ketertarikan itu sudah berubah menjadi kata-kata, misalnya pujian yang datang bertubi-tubi?
