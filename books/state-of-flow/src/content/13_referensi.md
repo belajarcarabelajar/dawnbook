@@ -6,11 +6,11 @@ Daftar referensi berikut memuat seluruh sumber ilmiah - baik artikel jurnal *pee
 
 ### Karya Foundational Teori Flow
 
-Csikszentmihalyi, M. (1975). *Beyond boredom and anxiety: Experiencing flow in work and play*. Jossey-Bass.
+Csikszentmihalyi, M. (1975). *Beyond boredom and anxiety: Experiencing flow in work and play*. Jossey-Bass. [https://lccn.loc.gov/76007234](https://lccn.loc.gov/76007234)
 
-Csikszentmihalyi, M. (1990). *Flow: The psychology of optimal experience*. Harper & Row.
+Csikszentmihalyi, M. (1990). *Flow: The psychology of optimal experience*. Harper & Row. [https://lccn.loc.gov/89045645](https://lccn.loc.gov/89045645)
 
-Csikszentmihalyi, M. (1997). *Finding flow: The psychology of engagement with everyday life*. BasicBooks.
+Csikszentmihalyi, M. (1997). *Finding flow: The psychology of engagement with everyday life*. BasicBooks. [https://lccn.loc.gov/97002008](https://lccn.loc.gov/97002008)
 
 Seligman, M. E. P., & Csikszentmihalyi, M. (2000). Positive psychology: An introduction. *American Psychologist*, *55*(1), 5–14. [https://doi.org/10.1037/0003-066X.55.1.5](https://doi.org/10.1037/0003-066X.55.1.5)
 
@@ -56,7 +56,7 @@ Norsworthy, C., Jackson, B., & Dimmock, J. A. (2021). Advancing our understandin
 
 ### Group Flow & Kreativitas Kolaboratif
 
-Sawyer, R. K. (2007). *Group genius: The creative power of collaboration*. Basic Books.
+Sawyer, R. K. (2007). *Group genius: The creative power of collaboration*. Basic Books. [https://lccn.loc.gov/2007008007](https://lccn.loc.gov/2007008007)
 
 Sawyer, R. K. (2009). Distributed creativity: How collective creations emerge from collaboration. *Psychology of Aesthetics, Creativity, and the Arts*, *3*(2), 81–92. [https://doi.org/10.1037/a0013282](https://doi.org/10.1037/a0013282)
 
