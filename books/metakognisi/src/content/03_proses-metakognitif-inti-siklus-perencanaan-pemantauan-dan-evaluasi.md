@@ -14,8 +14,8 @@ Perencanaan metakognitif merupakan langkah awal untuk menetapkan tujuan, mencari
 
 - **Menetapkan Tujuan Belajar:** Menentukan apa yang ingin dicapai dari sesi belajar atau tugas tertentu. Tujuan harus spesifik, terukur, dapat dicapai, relevan, dan terikat waktu (SMART).
 	- *Contoh:* Alih-alih "Saya mau belajar Biologi," tujuannya bisa diubah menjadi "Saya akan mampu menjelaskan proses fotosintesis dan respirasi seluler secara tepat dalam 30 menit ke depan."
-- **Memilih Strategi Pembelajaran:** Memilih pendekatan atau metode belajar yang paling tepat untuk mencapai tujuan yang telah ditetapkan, berdasarkan sifat materi dan gaya belajar pribadi.
-	- *Contoh:* Untuk menghafal istilah, kamu mungkin akan memakai *flashcards*. Sedangkan untuk membongkar konsep kompleks, kamu bisa merencanakan sesi membaca ulang sambil menyusun peta konsep.
+- **Memilih Strategi Pembelajaran:** Memilih pendekatan atau metode belajar yang paling tepat untuk mencapai tujuan yang telah ditetapkan, berdasarkan sifat materi.
+	- *Contoh:* Untuk menghafal istilah, kamu mungkin akan memakai *flashcards*. Adapun untuk membongkar konsep kompleks, kamu bisa merencanakan sesi membaca ulang sambil menyusun peta konsep.
 - **Mengaktifkan Pengetahuan Awal:** Menghubungkan informasi baru dengan apa yang sudah kamu ketahui sebelumnya. Tujuannya mengaitkan yang baru dengan yang lama sehingga pemahaman menjadi lebih solid.
 	- *Contoh:* Sebelum menggali materi tentang revolusi industri, kamu mungkin perlu mengingat-ingat lagi kondisi sosial di era sebelumnya.
 - **Mengalokasikan Sumber Daya:** Memperkirakan waktu, tenaga, dan alat yang dibutuhkan. Faktor ini mencakup manajemen waktu serta pemilihan lingkungan belajar yang nyaman.
@@ -23,11 +23,11 @@ Perencanaan metakognitif merupakan langkah awal untuk menetapkan tujuan, mencari
 
 ## 2\. Pemantauan (Monitoring)
 
-Memasuki fase pemantauan, orang yang belajar mulai mengamati sekaligus mengatur kemajuan saat sedang mengeksekusi tugas. Semacam "pemeriksaan *real-time*" agar kamu tetap berada di jalur yang benar.
+Memasuki fase pemantauan, pembelajar mulai mengamati sekaligus mengatur kemajuan saat sedang mengeksekusi tugas. Fase ini semacam "pemeriksaan *real-time*" agar kamu tetap berada di jalur yang benar.
 
 ### Apa itu Pemantauan Metakognitif?
 
-Secara sederhana, pemantauan metakognitif berarti kamu sadar penuh dalam mengawasi tingkat pemahaman sendiri saat belajar. Fase ini mencakup evaluasi kemajuan, pencarian titik kesulitan, hingga penyesuaian strategi di tengah jalan.
+Secara sederhana, pemantauan metakognitif berarti kamu sadar penuh dalam mengawasi tingkat pemahaman sendiri saat belajar. Fase ini mencakup penilaian kemajuan, pencarian titik kesulitan, hingga penyesuaian strategi di tengah jalan.
 
 ### Elemen Kunci Pemantauan
 
@@ -103,7 +103,7 @@ Sekarang kita bisa melihat cara kerja siklus metakognitif lewat skenario praktis
 		- **Identifikasi Kesulitan:** Kamu sadar betapa seringnya matamu kembali melirik contekan kode *online*, yang jadi pertanda bahwa materinya belum sepenuhnya melekat.
 		- **Penyesuaian:** Akhirnya kamu memutuskan untuk menambah satu hari ekstra khusus demi mendalami *loop* serta fungsi. Kamu memutar ulang berbagai video tutorial dan menyusun catatan ringkas versi sendiri. Menulis baris komentar di setiap blok kode juga mulai menjadi kebiasaan baru.
 3. **Evaluasi:**
-	- Pada minggu kedua, kamu mencoba membuat skrip pengubah nama *file* massal. Programnya berjalan sukses, meski menghabiskan waktu lebih panjang dari ekspektasi dan harus bolak-balik mencari referensi *online* untuk mengelola eror.
+	- Pada minggu kedua, kamu mencoba membuat skrip pengubah nama *file* massal. Programnya berjalan sukses, meski menghabiskan waktu lebih panjang dari ekspektasi dan harus bolak-balik mencari referensi *online* untuk menangani kesalahan.
 		- **Efektivitas Strategi:** "Kursus *Coursera* memberikan dasar yang baik, tetapi soal latihannya tidak cukup menantang. Buku itu terlalu padat. Mencari tutorial video terbukti membantu."
 		- **Hasil Belajar:** "Saya bisa menulis skrip dasar, jadi tujuan tercapai sebagian. Namun, saya masih perlu meningkatkan pemahaman tentang penanganan kesalahan dan struktur data yang lebih kompleks."
 		- **Analisis Kesalahan:** "Kesulitan saya datang dari kurangnya latihan langsung dengan masalah yang lebih kompleks dan kurangnya waktu untuk benar-benar menginternalisasi konsep dasar sebelum beralih ke topik berikutnya."

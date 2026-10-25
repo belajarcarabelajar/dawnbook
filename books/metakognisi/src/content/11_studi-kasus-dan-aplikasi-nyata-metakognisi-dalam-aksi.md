@@ -6,20 +6,20 @@ Mari kita lihat beberapa contoh praktis saat pola pikir ini diterapkan dalam ber
 
 ## 1. Mengatasi Nilai yang Macet
 
-**Skenario Awal:** Seorang mahasiswa bernama Ardi sedang pusing menghadapi kelas statistika. Padahal dia sudah sering membaca materi dan belajar hingga larut malam, tetapi nilai ujiannya terus-terusan berada di bawah rata-rata. Perasaannya mulai frustrasi karena merasa jerih payahnya menguap begitu saja.
+**Skenario Awal:** Seorang mahasiswa bernama Ardi sedang pusing menghadapi kelas statistika. Padahal dia sudah sering membaca materi dan belajar hingga larut malam, tetapi nilai ujiannya terus-terusan berada di bawah rata-rata. Ia mulai frustrasi karena merasa jerih payahnya menguap begitu saja.
 
 **Penerapan Metakognisi:** Ardi akhirnya sadar bahwa ada yang salah dengan metode belajarnya. Ia pun merombak caranya belajar menggunakan tahapan metakognisi:
 
 1. **Perencanaan (Planning):**
-	- Ardi berhenti hanya membaca buku secara pasif. Ia mulai memetakan topik statistika yang menurutnya paling sulit, lalu memecahnya jadi target harian. Misalnya, target hari Selasa adalah "memahami konsep probabilitas bersyarat", lalu hari Rabu khusus untuk "mengerjakan 5 soal regresi linear".
-		- Ia juga memikirkan *bagaimana* cara belajarnya. Buku teks ternyata membosankan baginya, jadi ia beralih mencari video visualisasi di YouTube, mencoba latihan mandiri, lalu menggambar mind map sederhana agar konsep-konsep tersebut lebih nyambung di kepalanya.
+	- Ardi berhenti hanya membaca buku secara pasif. Ia mulai memetakan topik statistika yang menurutnya paling sulit, lalu memecahnya jadi target harian. Misalnya, target hari Selasa adalah "memahami konsep probabilitas bersyarat", lalu hari Rabu khusus untuk "mengerjakan lima soal regresi linear".
+		- Ia juga memikirkan *bagaimana* cara belajarnya. Buku teks ternyata membosankan baginya, jadi ia beralih mencari video visualisasi di YouTube, mencoba latihan mandiri, lalu menggambar *mind map* sederhana agar konsep-konsep tersebut lebih nyambung di kepalanya.
 2. **Pemantauan (Monitoring):**
 	- Saat sedang belajar, Ardi rajin mengecek pemahamannya sendiri. Usai menonton satu video materi, ia akan diam sejenak dan bertanya: "Apakah aku paham maksudnya? Bisakah aku menjelaskannya lagi tanpa melihat catatan?"
 		- Kalau ternyata masih bingung, ia akan segera mencari tahu di mana persisnya bagian yang *nyangkut*. Ia lalu mencari tutorial lain atau berdiskusi dengan temannya yang lebih paham.
-		- Ardi juga mulai mengamati di jam berapa ia paling gampang fokus, lalu menyesuaikan jadwal belajarnya pada jam-jam tersebut.
+		- Ardi juga mulai mengamati pada jam berapa ia paling gampang fokus, lalu menyesuaikan jadwal belajarnya pada jam-jam tersebut.
 3. **Evaluasi (Evaluating):**
 	- Selesai mengerjakan soal latihan, Ardi akan membedah di mana letak kesalahannya. Ia tidak sekadar mencocokkan jawaban benar atau salah, tapi benar-benar mencari tahu *kenapa* logikanya bisa keliru.
-		- Kebiasaan ini membantunya menyesuaikan strategi untuk materi statistika yang lebih rumit di minggu berikutnya.
+		- Kebiasaan ini membantunya menyesuaikan strategi untuk materi statistika yang lebih rumit pada minggu berikutnya.
 
 **Hasil dan Pembelajaran:** Cara belajar Ardi tidak lagi membabi buta. Nilai ujiannya mulai merangkak naik dan stabil. Ia tidak cuma hafal rumus statistika, tapi juga menemukan ritme belajar yang cocok untuk dirinya. Rasa cemas saat ujian pun turun karena ia tahu betul sejauh mana persiapan yang sudah dilakukan.
 
@@ -50,16 +50,16 @@ Mari kita lihat beberapa contoh praktis saat pola pikir ini diterapkan dalam ber
 
 1. **Perencanaan (Goal Setting & Resource Allocation):**
 	- Budi mematok target realistis: "Dalam tiga bulan, aku harus bisa membuat purwarupa aplikasi web dengan Rust."
-		- Ia mengumpulkan dokumentasi resmi dan beberapa modul latihan, lalu memblokir waktu 1 jam setiap pagi khusus untuk *coding* Rust.
+		- Ia mengumpulkan dokumentasi resmi dan beberapa modul latihan, lalu memblokir waktu satu jam setiap pagi khusus untuk *coding* Rust.
 		- Karena sudah punya dasar logika pemrograman, ia memusatkan perhatiannya pada apa yang membedakan Rust dari bahasa yang selama ini ia pakai.
 2. **Pemantauan (Self-Correction & Progress Tracking):**
 	- Saat masuk ke topik *ownership* dan *borrowing* di Rust yang terkenal rumit, Budi memantau seberapa cepat ia kelelahan.
 		- Saat *compiler* menolak kodenya, ia tidak asal mencoba-coba perbaikan. Ia merenungkan alur logikanya, membaca ulang pesan erornya secara detail, dan membuat *pseudocode* agar kerangka berpikirnya rapi kembali.
 3. **Evaluasi (Performance Review & Strategy Refinement):**
 	- Setiap hari Minggu, Budi mengevaluasi rutinitasnya. Apakah jatah waktu bacanya terlalu banyak dibanding waktu praktik langsung?
-		- Ia kemudian mencoba mengubah komposisinya, mengurangi jam menonton tutorial dan lebih banyak melakukan *hands-on coding*.
+		- Ia kemudian mencoba mengubah komposisinya, mengurangi jam membaca serta menonton tutorial dan lebih banyak melakukan *hands-on coding*.
 
-**Pencapaian:** Budi berhasil memenuhi tenggat waktu 3 bulan dengan merilis aplikasi sederhana. Ia menyadari bahwa cara terbaik untuk beradaptasi dengan teknologi baru bukanlah dengan menghafal sintaks, tapi memahami pola pikir bahasa tersebut. Ia jadi punya pola yang jelas saat nanti harus mempelajari hal lain.
+**Pencapaian:** Budi berhasil memenuhi tenggat waktu tiga bulan dengan merilis aplikasi sederhana. Ia menyadari bahwa cara terbaik untuk beradaptasi dengan teknologi baru bukanlah dengan menghafal sintaks, tapi memahami pola pikir bahasa tersebut. Ia jadi punya pola yang jelas saat nanti harus mempelajari hal lain.
 
 ## 4. Menengahi Ego dalam Kerja Tim
 
@@ -77,10 +77,10 @@ Mari kita lihat beberapa contoh praktis saat pola pikir ini diterapkan dalam ber
 	- Setelah kampanye berhasil dirilis, sesi evaluasi tidak hanya membahas angka penjualan produk, tetapi juga membahas cara mereka bekerja sama.
 		- Bu Citra menanyakan cara komunikasi seperti apa yang sebaiknya dipertahankan dan kebiasaan apa yang membuat energi tim terkuras sia-sia.
 
-**Perbaikan dan Kesuksesan:** Aturan *pause* dan merangkum ucapan lawan bicara ini membuat perdebatan lebih tenang. Masing-masing anggota belajar menahan diri untuk tidak langsung bereaksi. Proyek kampanye selesai tepat waktu, dan setiap orang pulang dengan perasaan lebih dihargai.
+**Perbaikan dan Kesuksesan:** Aturan jeda dan merangkum ucapan lawan bicara ini membuat perdebatan lebih tenang. Masing-masing anggota belajar menahan diri untuk tidak langsung bereaksi. Proyek kampanye selesai tepat waktu, dan setiap orang pulang dengan perasaan lebih dihargai.
 
 ## Kesadaran Diri di Kelas, Kantor, dan Rumah
 
-Semua cerita di atas membuktikan bahwa metakognisi bisa dipraktikkan secara langsung. Baik di ruang kelas, meja rapat kantor, atau sekadar saat mencoba hobi baru di rumah, kesadaran memantau diri sendiri membuat kita tidak gampang panik saat situasi tidak berjalan sesuai rencana. Kamu punya kendali atas cara berpikirmu, sehingga masalah pelik pelan-pelan bisa diurai satu per satu.
+Semua cerita di atas menunjukkan bahwa metakognisi bisa dipraktikkan secara langsung. Baik di ruang kelas, meja rapat kantor, atau sekadar saat mencoba hobi baru di rumah, kesadaran memantau diri sendiri membuat kita tidak gampang panik saat situasi tidak berjalan sesuai rencana. Kamu punya kendali atas cara berpikirmu, sehingga masalah pelik pelan-pelan bisa diurai satu per satu.
 
 > Proses berpikir bukanlah bawaan lahir yang tidak bisa diubah. Kamu bisa membentuk cara berpikirmu sendiri dengan terus merawat dan melatih kesadaran diri.

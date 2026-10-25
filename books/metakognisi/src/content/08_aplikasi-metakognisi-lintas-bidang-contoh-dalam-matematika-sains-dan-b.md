@@ -1,6 +1,6 @@
 ## Aplikasi Metakognisi Lintas Bidang
 
-Metakognisi tidak hanya berlaku untuk satu mata pelajaran saja. Prinsipnya bisa dipakai di hampir semua disiplin ilmu untuk membantu kita memahami materi dengan lebih baik. Di bawah ini, kita akan melihat contoh penerapan metakognisi dalam matematika, sains, pemrograman, hingga bahasa.
+Metakognisi tidak hanya berlaku untuk satu mata pelajaran. Prinsipnya bisa dipakai di hampir semua disiplin ilmu untuk membantu kita memahami materi dengan lebih baik. Di bawah ini, kita akan melihat contoh penerapan metakognisi dalam matematika, sains, pemrograman, hingga bahasa.
 
 ### Metakognisi dalam Matematika
 
@@ -44,7 +44,7 @@ Di bidang sains, metakognisi membantu kita berpikir lebih terstruktur saat meran
 		- Kamu bisa pakai pendekatan terstruktur untuk mengeceknya:
 		- **Mengecek baris:** Coba bayangkan dan jalankan logika kodenya baris demi baris di kepalamu.
 		- **Memasang penanda:** Taruh `print()` atau `console.log()` di beberapa titik buat melihat apakah nilainya sesuai ekspektasi.
-		- **Membandingkan output:** Cari tahu mulai dari baris mana output programnya mulai menyimpang.
+		- **Membandingkan output:** Cari tahu dari baris mana output programnya mulai menyimpang.
 		- **Contoh di Pemrograman:** Misalkan program yang menghitung rata-rata dari sekumpulan angka memberi hasil yang meleset. Kamu tidak perlu langsung pusing. Pasang penanda untuk mengecek jumlah total yang terkumpul dan berapa banyak angka yang ikut dihitung, lalu pelan-pelan perbaiki bagian yang keliru.
 
 ### Memahami Bahasa dan Teks Bacaan
@@ -59,9 +59,9 @@ Waktu belajar bahasa baru atau membaca teks panjang, metakognisi membuatmu lebih
 		- *Tips:* Tarik napas sebentar dan coba ceritakan ulang inti bacaannya di dalam hati.
 		- **Contoh:** Waktu baca buku cerita, kamu mungkin sambil mikir, "Kenapa ya karakter ini berbuat begitu?". Kalau ceritanya tiba-tiba melompat, kamu bisa balik lagi baca dialog sebelumnya biar jalan ceritanya nyambung.
 2. **Membuat Tulisan yang Enak Dibaca:**
-	- **Persiapan:** Jangan langsung ngetik. Bikin oret-oretan kasar dulu soal poin-poin yang mau dibahas. Tanya ke dirimu: "Siapa sih yang bakal baca tulisan ini?"
+	- **Persiapan:** Jangan langsung ngetik. Bikin coret-coretan kasar dulu soal poin-poin yang mau dibahas. Tanya ke dirimu: "Siapa sih yang bakal baca tulisan ini?"
 		- **Waktu nulis:** Cek alurnya. "Ini dari paragraf atas ke bawah nyambung nggak ya?" atau "Kalimat ini terlalu bertele-tele deh."
-		- **Pasca nulis:** Tinggalkan tulisanmu sebentar. Nanti baca lagi saat kepalamu sudah fresh.
+		- **Pascanulis:** Tinggalkan tulisanmu sebentar. Nanti baca lagi saat kepalamu sudah fresh.
 		- Coba rasakan alurnya: "Apakah tujuan teks ini sudah tersampaikan dengan baik?" atau "Masih ada kalimat yang terasa janggal?". Kadang kamu juga perlu memoles tata bahasanya supaya lebih nyaman dibaca orang lain.
 		- **Contoh praktis:** Setelah bikin draf artikel, kamu merasa ada bagian yang agak membosankan. Kamu lalu mengubah susunan kalimatnya dan merapikan paragraf supaya lebih enak diikuti dari awal sampai akhir.
 3. **Memperkaya Kosakata:**

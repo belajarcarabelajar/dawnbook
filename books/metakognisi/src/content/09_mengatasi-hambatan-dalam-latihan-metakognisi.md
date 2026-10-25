@@ -30,7 +30,7 @@ Kebiasaan belajar yang pasif dan kurang efektif sering jadi penghalang. Metakogn
 Bias kognitif adalah pola pikir yang kadang membuat kita mengambil kesimpulan keliru atau kurang logis. Beberapa bias ini bisa mengganggu cara kerja metakognisi.
 
 - **Bias yang sering muncul:**
-    - **Efek Dunning-Kruger:** Orang yang belum terlalu ahli di suatu bidang sering merasa kemampuannya tinggi, sementara yang aslinya jago malah sering meragukan diri sendiri. Ini membuat penilaian diri jadi tidak akurat.
+    - **Efek Dunning-Kruger:** Orang yang belum terlalu ahli di suatu bidang sering merasa kemampuannya tinggi, sementara yang aslinya jago cenderung meremehkan posisinya dibandingkan orang lain. Ini membuat penilaian diri jadi tidak akurat.
     - **Bias Konfirmasi (Confirmation Bias):** Kecenderungan mencari atau mempercayai informasi yang hanya mendukung keyakinan awal. Akibatnya, kamu jadi malas mencoba strategi belajar yang baru.
     - **Overconfidence:** Terlalu percaya diri sama perkiraan sendiri. Karena merasa sudah tahu segalanya, kamu merasa tidak perlu lagi mengevaluasi proses belajar.
     - **Ilusi Kefasihan (Illusion of Fluency):** Merasa sudah paham materi hanya karena teksnya gampang dibaca atau karena sudah dibaca berulang-ulang, padahal aslinya belum menempel di kepala.
@@ -74,7 +74,7 @@ Untuk mengatasi tantangan di atas, kamu butuh pendekatan yang tepat. Berikut ini
 1. **Praktikkan Active Learning**
    Tinggalkan kebiasaan sekadar membaca materi berulang kali. Ganti dengan metode *active recall*, membuat rangkuman memakai bahasa sendiri, menjelaskan materi ke teman, atau memperbanyak latihan soal. Contoh gampangnya: selesai membaca satu paragraf, tutup bukunya lalu coba tulis ulang ide utamanya dari ingatan.
 2. **Gunakan Spaced Repetition**
-   Sebarkan waktu belajarmu ke dalam beberapa sesi di hari yang berbeda. Jangan ditumpuk semalaman sebelum ujian. Retensi ingatan jangka panjang bakal lebih bagus kalau kamu mereview materi secara bertahap, misal hari ini, tiga hari lagi, lalu seminggu kemudian.
+   Sebarkan waktu belajarmu ke dalam beberapa sesi di hari yang berbeda. Jangan ditumpuk semalaman sebelum ujian. Retensi ingatan jangka panjang bakal lebih bagus kalau kamu meninjau ulang materi secara bertahap, misal hari ini, tiga hari lagi, lalu seminggu kemudian.
 3. **Coba Teknik Pomodoro**
    Fokus belajar selama rentang waktu tertentu (misalnya 25 menit) lalu diselingi istirahat pendek (5 menit). Cara ini lumayan efektif untuk menjaga konsentrasi dan mencegah otak cepat lelah. Pas jam istirahat, hindari memikirkan hal-hal yang berat.
 4. **Lakukan Refleksi Setelah Belajar**
@@ -83,7 +83,7 @@ Untuk mengatasi tantangan di atas, kamu butuh pendekatan yang tepat. Berikut ini
 ### Menghindari Bias Kognitif
 
 1. **Pahami Jenis Bias**
-   Kenali berbagai macam bias kognitif yang ada supaya kamu lebih peka saat pikiranmu mulai terpengaruh. Menyadari kalau diri kita bisa saja bias adalah langkah pertama untuk menetralisirnya.
+   Kenali berbagai macam bias kognitif yang ada supaya kamu lebih peka saat pikiranmu mulai terpengaruh. Menyadari kalau diri kita bisa saja bias adalah langkah pertama untuk menetralkannya.
 2. **Minta Feedback Orang Lain**
    Jangan hanya mengandalkan penilaian pribadi. Minta bantuan teman atau mentor untuk mengomentari pemahamanmu. Saat mengerjakan soal latihan, jangan cuma mengecek benar atau salah di kunci jawaban, tapi cari tahu juga alasan kenapa jawabanmu bisa meleset.
 3. **Tantang Asumsi Sendiri**
@@ -113,7 +113,7 @@ Untuk mengatasi tantangan di atas, kamu butuh pendekatan yang tepat. Berikut ini
    - **Selama:** "Sudah mulai paham belum? Strategi ini beneran efektif atau tidak? Ada yang perlu diganti?"
    - **Sesudah:** "Sudah mencapai target belum? Dapat ilmu apa saja hari ini? Apa yang harus diperbaiki untuk besok?"
 3. **Buat Mind Map**
-   *Mind map* cukup membantu untuk melihat hubungan antar konsep. Visualisasi semacam ini bisa membongkar pola pikirmu saat menstrukturkan sebuah pemahaman baru.
+   *Mind map* cukup membantu untuk melihat hubungan antarkonsep. Visualisasi semacam ini bisa membongkar pola pikirmu saat menstrukturkan sebuah pemahaman baru.
 4. **Diskusi Bareng Teman**
    Mengobrol tentang proses belajar masing-masing dengan teman sebaya bisa membuka wawasan. Terkadang, mendengar pengalaman orang lain membuat kita lebih sadar akan kebiasaan diri sendiri.
 
@@ -125,7 +125,7 @@ Biar lebih tergambar, coba kita lihat skenario ini. Amir sering menunda tugas ya
 
 **Bagaimana Proses Metakognisinya?**
 
-- **Perencanaan:** Amir mulai sadar kalau alasannya sering menunda adalah karena dia merasa tugasnya terlalu besar dan membebani. Dia juga sering bingung harus mencicil dari mana.
+- **Perencanaan:** Amir mulai sadar kalau dia sering menunda karena merasa tugasnya terlalu besar dan membebani. Dia juga sering bingung harus mencicil dari mana.
 - **Pemantauan:** Waktu akhirnya mulai mengerjakan, Amir sadar kalau banyak waktu terbuang hanya karena dia tidak punya struktur kerja yang jelas. Ujung-ujungnya dia malah stres sendiri.
 - **Evaluasi:** Tiap kali esainya selesai (biasanya mepet *deadline*), dia kepikiran, "Sebenarnya hasilnya bisa jauh lebih bagus kalau aku mengerjakannya tidak dadakan dan punya rencana yang jelas."
 
@@ -136,7 +136,7 @@ Biar lebih tergambar, coba kita lihat skenario ini. Amir sering menunda tugas ya
    - Melakukan riset ringan (1 jam).
    - Menyusun kerangka tulisan (2 jam).
    - Menulis bagian intro (1 jam).
-   - Menulis isi (masing-masing 1,5 jam per poin).
+   - Menulis isi (1,5 jam per poin).
    - Review dan perbaikan akhir.
 2. **Menggunakan Pomodoro:** Dia menerapkan teknik Pomodoro buat mengerjakan tiap langkah kecil itu. Fokus 25 menit, lalu istirahat 5 menit. Efeknya, beban kerja terasa lebih ringan dan dia lebih gampang menemukan ritme menulisnya.
 3. **Jurnal Reflektif:** Selesai menulis, dia mencatat apa yang dirasakan. Misalnya, "Ternyata menulis intro itu bagian yang paling menguras otak, tapi untungnya beres juga. Mungkin *next time* mending aku membaca referensi intro dulu biar gampang dapat ide."

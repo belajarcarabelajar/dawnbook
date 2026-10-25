@@ -39,7 +39,7 @@ Jurnal belajar adalah alat sederhana untuk melacak progres belajar dan emosi kam
 
 - Membantu menganalisis dan mencari jalan keluar pas mentok belajar sesuatu.
 - Bikin kita lebih antusias dan terlibat dalam prosesnya.
-- Membantu mengenali gaya belajar yang paling cocok.
+- Membantu mengenali strategi belajar yang paling cocok.
 - Memberikan gambaran progres yang sudah dicapai.
 - Membantu mengatur jadwal dan melatih kebiasaan menulis.
 
@@ -83,7 +83,7 @@ Mind map itu sifatnya visual dan ngebantu kalau kamu mau menata informasi yang b
 ### Cara Menggunakan Mind Map untuk Perencanaan
 
 1. **Tentukan Tujuan Utama:** Tulis target belajar atau masalah yang mau diselesaikan di bagian tengah mind map. Misalnya, "Paham Konsep X" atau "Beresin Proyek Y".
-2. **Cabang Utama (Aspek Kognitif):** Bikin cabang-cabang yang isinya bagian penting dari rencanamu. Contoh:
+2. **Cabang Utama (Aspek Metakognitif):** Bikin cabang-cabang yang isinya bagian penting dari rencanamu. Contoh:
 	- **Tujuan Belajar:** Aku mau capai apa?
 		- **Pengetahuan Awal:** Aku udah tahu apa aja soal ini? (Pengetahuan deklaratif)
 		- **Strategi:** Nanti aku mau belajar atau ngerjainnya pakai cara apa? (Pengetahuan prosedural)

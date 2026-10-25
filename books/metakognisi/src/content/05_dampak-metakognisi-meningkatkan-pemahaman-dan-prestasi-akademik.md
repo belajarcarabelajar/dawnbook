@@ -1,6 +1,6 @@
 ## Dampak Metakognisi
 
-Metakognisi, atau "berpikir tentang berpikir", merupakan kemampuan yang berpengaruh pada proses belajar kamu. Punya kesadaran metakognitif bikin kamu sadar soal *apa* yang sedang dipelajari, *bagaimana* proses belajarnya berjalan, dan *kapan* atau *mengapa* sebuah strategi lebih cocok dipakai. Kemampuan ini berhubungan langsung dengan tingkat pemahaman materi, seberapa awet ingatanmu, keahlian memecahkan masalah, nilai akademik, hingga menurunkan rasa cemas saat belajar.
+Metakognisi, atau "berpikir tentang berpikir", merupakan kemampuan yang berpengaruh pada proses belajar kamu. Punya kesadaran metakognitif bikin kamu sadar soal *apa* yang sedang dipelajari, *bagaimana* proses belajarnya berjalan, dan *kapan* atau *mengapa* sebuah strategi lebih cocok dipakai. Kemampuan ini berhubungan langsung dengan tingkat pemahaman materi, seberapa awet ingatanmu, keahlian memecahkan masalah, nilai akademik, hingga tingkat kecemasan saat belajar.
 
 ## 1\. Peningkatan Pemahaman Materi
 
@@ -8,7 +8,7 @@ Kesadaran metakognitif bikin kita terbiasa memantau pemahaman saat lagi belajar.
 
 - **Pemantauan Diri (Self-Monitoring):** Saat baca buku atau dengar penjelasan, orang dengan metakognisi terlatih bakal refleks mengecek apakah mereka paham atau cuma pura-pura paham. Kalau ada yang buram, mereka akan berhenti sebentar buat mengulang atau cari sumber lain.
 - **Identifikasi Celah Pengetahuan:** Metakognisi ngebantu kamu membedakan mana yang sudah dikuasai dan mana yang masih abu-abu. Jadinya, waktu belajarmu bisa difokuskan ke area yang emang butuh perhatian ekstra.
-- **Penerapan Strategi yang Pas:** Kalau kamu kenal gaya belajarmu sendiri dan tahu persis tugasnya menuntut apa, otomatis kamu bisa pilih strategi yang paling mengena. Misalnya bikin peta konsep buat membayangkan alur sejarah, atau pakai *flashcard* untuk hapalan.
+- **Penerapan Strategi yang Pas:** Kalau kamu kenal cara belajarmu sendiri dan tahu persis tugasnya menuntut apa, otomatis kamu bisa pilih strategi yang paling mengena. Misalnya bikin peta konsep buat membayangkan alur sejarah, atau pakai *flashcard* untuk hafalan.
 
 > **Contoh:** Seorang mahasiswa kedokteran yang lagi belajar anatomi tidak cuma asal hafal nama tulang. Dia bakal mikir, "Hubungan tulang ini sama tulang di sebelahnya apa ya? Apa fungsi utamanya? Bisa nggak gue jelasin ulang tanpa ngintip buku?" Kalau ternyata mandek, dia mungkin beralih menggambar sketsa atau nyari video 3D biar lebih jelas.
 
@@ -17,7 +17,7 @@ Kesadaran metakognitif bikin kita terbiasa memantau pemahaman saat lagi belajar.
 Manfaatnya tidak berhenti sampai di pemahaman materi saja. Metakognisi bantu perkuat retensi. Ingatan jadi lebih awet dalam jangka panjang. Kamu tidak perlu lagi buang waktu mengulang bacaan yang sama berkali-kali.
 
 - **Menata Informasi:** Informasi yang baru masuk akan langsung dikaitkan ke pengetahuan lama di otak. Koneksi ini bikin memorinya nempel lebih kuat dan mudah dipanggil lagi saat ujian.
-- **Elaborasi dan Refleksi:** Duduk diam dan merenungkan materi yang baru dibaca, lalu dihubungkan sama pengalaman sehari-hari. Aktivitas simpel seperti mikirin pertanyaan, merangkum ulang pakai bahasa sendiri, atau debat sama teman bisa bikin informasi lebih bertahan di memori jangka panjang.
+- **Elaborasi dan Refleksi:** Duduk diam dan merenungkan materi yang baru dibaca, lalu menghubungkannya dengan pengalaman sehari-hari. Aktivitas simpel seperti mikirin pertanyaan, merangkum ulang pakai bahasa sendiri, atau debat sama teman bisa bikin informasi lebih bertahan di memori jangka panjang.
 - **Latihan Pemanggilan Kembali (Retrieval Practice):** Metakognisi bakal memancing kamu buat lebih sering mencoba mengingat sesuatu tanpa ngintip buku (*self-quizzing*). Ini memaksa otak bekerja sedikit lebih keras, tapi efeknya ampuh buat ngelatih memori.
 
 ## 3\. Peningkatan Kemampuan Memecahkan Masalah
