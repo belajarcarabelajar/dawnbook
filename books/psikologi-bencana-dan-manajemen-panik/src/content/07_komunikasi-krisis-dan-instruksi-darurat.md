@@ -27,7 +27,7 @@ Untuk memandu massa yang sedang panik, petugas tanggap darurat harus memproyeksi
 
 1. **Frekuensi Nada (*Pitch*):** Gunakan register nada rendah (bariton). Secara psikoakustik, nada rendah diasosiasikan oleh otak manusia dengan ketenangan, kendali, dan kepemimpinan. Sebaliknya, nada suara melengking atau tinggi sering kali dipersepsikan sebagai sinyal histeria yang menular ke massa.
 2. **Tempo Artikulasi (*Pacing*):** Berbicaralah dengan tempo lebih lambat daripada percakapan normal. Sisipkan jeda terukur di antara kalimat agar memori kerja pendengar memiliki interval waktu yang cukup untuk mencerna dan mengeksekusi instruksi.
-3. **Proyeksi Volume (*Volume*):** Suara harus cukup lantang untuk menembus kebisingan latar belakang melalui proyeksi diafragma, namun tetap berada dalam artikulasi yang stabil tanpa terdengar gemetar.
+3. **Proyeksi Volume (*Volume*):** Suara harus cukup lantang untuk menembus kebisingan latar belakang melalui proyeksi diafragma, tetapi tetap berada dalam artikulasi yang stabil tanpa terdengar gemetar.
 
 Praktik vokal standar dapat diamati pada protokol komunikasi darurat awak kabin penerbangan komersial saat turbulensi parah. Intonasi yang datar, ritmis, dan terukur menjaga sistem saraf penumpang agar tidak beralih ke mode panik kolektif.
 

@@ -35,7 +35,7 @@ Melalui pernapasan taktis dengan ritme terkontrol, individu merangsang **Saraf V
 
 #### Latihan Metode Kotak (Box Breathing)
 
-Protokol ini menggunakan ritme seimbang dengan rasio waktu \\( 4 - 4 - 4 - 4 \\) detik:
+Protokol ini menggunakan ritme seimbang dengan rasio waktu $4 - 4 - 4 - 4$ detik:
 
 Putaran empat tahap metode kotak tampak pada bagan berikut.
 
@@ -154,6 +154,6 @@ Untuk memastikan kesiapan refleks fisiologis saat krisis terjadi, berikut matrik
 
 | Dimensi Regulasi | Parameter Evaluasi | Target Kinerja Minimum |
 | :--- | :--- | :--- |
-| **Kapasitas Vagal** | Eksekusi otomatis *Box Breathing* saat ritme napas meningkat. | Mampu menstabilkan ritme pernapasan dalam \\( 4 \\) siklus pertama. |
-| **Kecepatan Reorientasi** | Pemetaan lima objek visual dan taktil di lingkungan baru. | Selesai dalam durasi kurang dari \\( 10 \\) detik tanpa keraguan. |
-| **Disiplin Kognitif** | Penggantian narasi katastrofik dengan kalimat komando fungsional. | Terbentuknya rumusan aksi tunggal dalam waktu \\( 3 \\) detik pascakejutan. |
+| **Kapasitas Vagal** | Eksekusi otomatis *Box Breathing* saat ritme napas meningkat. | Mampu menstabilkan ritme pernapasan dalam $4$ siklus pertama. |
+| **Kecepatan Reorientasi** | Pemetaan lima objek visual dan taktil di lingkungan baru. | Selesai dalam durasi kurang dari $10$ detik tanpa keraguan. |
+| **Disiplin Kognitif** | Penggantian narasi katastrofik dengan kalimat komando fungsional. | Terbentuknya rumusan aksi tunggal dalam waktu $3$ detik pascakejutan. |

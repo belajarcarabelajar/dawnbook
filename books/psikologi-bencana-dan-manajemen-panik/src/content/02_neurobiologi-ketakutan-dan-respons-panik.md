@@ -108,7 +108,7 @@ Perbandingan respons antara warga sipil tanpa pelatihan (Subjek A) dan personel 
 | :--- | :--- | :--- |
 | **Amigdala** | Detektor ancaman instan dan pemicu alarm darurat tubuh | Memulai reaksi defensif otomatis tanpa pertimbangan panjang |
 | **Korteks Prefrontal ($\text{PFC}$)** | Evaluasi kognitif, inhibisi amigdala, dan perencanaan taktis | Mengembalikan rasionalitas serta memilah keputusan evakuasi |
-| **Poros $\text{HPA}$ (Kortisol)** | Pengaturan homeostasis energi dan respons stres neuroendokrin | Menjaga stamina biologis, namun memicu disorientasi jika berlebihan |
+| **Poros $\text{HPA}$ (Kortisol)** | Pengaturan homeostasis energi dan respons stres neuroendokrin | Menjaga stamina biologis, tetapi memicu disorientasi jika berlebihan |
 | **Sistem Simpatik** | Akselerasi metabolisme, frekuensi jantung, dan tonus otot | Menyiapkan kapasitas lokomotor untuk konfrontasi atau evakuasi |
 | **Sistem Parasimpatik** | Deselerasi detak jantung dan stabilisasi kondisi fisiologis | Menjadi target intervensi teknik pernapasan untuk meredam panik |
 

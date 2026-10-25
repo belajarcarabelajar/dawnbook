@@ -24,7 +24,7 @@ Jika sistem operasi mengalami kegagalan kognitif (*crash* atau *freezing*) akiba
 
 Psikologi bencana beroperasi secara berkesinambungan di seluruh tahapan krisis melalui spektrum **Siklus Manajemen Bencana**:
 
-1. **Fase Pra-Bencana (Mitigasi dan Kesiapsiagaan):**
+1. **Fase Prabencana (Mitigasi dan Kesiapsiagaan):**
    - Menganalisis alasan psikologis mengapa masyarakat kerap mengabaikan peringatan dini (*normalcy bias* atau penyangkalan).
    - Membangun kesiapsiagaan mental terstruktur agar masyarakat tidak mengalami disorientasi ketika ancaman tiba.
 
@@ -33,9 +33,9 @@ Psikologi bencana beroperasi secara berkesinambungan di seluruh tahapan krisis m
    - Mengurai fenomena pembekuan kognitif (*cognitive freezing*) saat bahaya mengancam.
    - Menyusun strategi komunikasi krisis yang adaptif terhadap kapasitas kognitif korban.
 
-3. **Fase Pasca-Bencana (Pemulihan dan Rekonstruksi Mental):**
+3. **Fase Pascabencana (Pemulihan dan Rekonstruksi Mental):**
    - Memberikan Pertolongan Pertama Psikologis (*Psychological First Aid* / PFA).
-   - Melakukan asesmen dan intervensi dini terhadap Gangguan Stres Pasca-Trauma (*Post-Traumatic Stress Disorder* / PTSD).
+   - Melakukan asesmen dan intervensi dini terhadap Gangguan Stres Pascatrauma (*Post-Traumatic Stress Disorder* / PTSD).
    - Membangun kembali resiliensi psikososial komunitas yang terdampak.
 
 ---

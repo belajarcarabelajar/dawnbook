@@ -1,6 +1,6 @@
 ## Dampak Psikologis Jangka Panjang dan PTSD
 
-Bencana alam atau krisis berskala masif sering kali diibaratkan seperti ledakan di tengah danau yang tenang. Gelombang fisik yang menghancurkan mungkin mereda dengan cepat, namun riak di permukaan air akan terus bergerak hingga ke tepian yang jauh, lama setelah ledakan itu berhenti.
+Bencana alam atau krisis berskala masif sering kali diibaratkan seperti ledakan di tengah danau yang tenang. Gelombang fisik yang menghancurkan mungkin mereda dengan cepat, tetapi riak di permukaan air akan terus bergerak hingga ke tepian yang jauh, lama setelah ledakan itu berhenti.
 
 Dalam psikologi bencana, pemulihan infrastruktur fisik sebuah wilayah sering kali berlangsung jauh lebih cepat dibandingkan pemulihan kondisi mental para penghuninya. Bab ini mengkaji bagaimana riak psikologis pascakrisis bermanifestasi menjadi trauma kronis, khususnya *Post-Traumatic Stress Disorder* (PTSD), serta membedah lintasan pemulihan psikologis jangka panjang.
 
@@ -47,7 +47,7 @@ Pemulihan psikososial pascabencana bukanlah proses linier yang bergerak stabil k
 1. **Fase Heroik (*Heroic Phase*):** Berlangsung segera setelah bencana melanda. Ditandai oleh ledakan energi altruistik tinggi, tindakan penyelamatan spontan, dan dorongan solidaritas untuk mempertahankan hidup sesama anggota komunitas.
 2. **Fase Bulan Madu (*Honeymoon Phase*):** Terjadi dalam rentang beberapa minggu pertama. Muncul optimisme kolektif yang didorong oleh kedatangan bantuan logistik, liputan media massa yang intens, serta janji rekonstruksi dari otoritas.
 3. **Fase Kekecewaan (*Disillusionment Phase*):** Terjadi antara bulan ke-6 hingga tahun ke-2. Realitas pemulihan yang lambat mulai memicu keputusasaan. Bantuan eksternal menyusut drastis, kelelahan fisik dan mental mencapai titik kulminasi, konflik interpersonal meningkat, dan pada fase inilah manifestasi PTSD serta depresi berat paling banyak meletup.
-4. **Fase Rekonstruksi (*Reconstruction Phase*):** Fase jangka panjang di mana individu dan komunitas mulai menata ulang fondasi kehidupan, memulihkan kemandirian ekonomi, serta mengintegrasikan narasi trauma sebagai bagian dari sejarah hidup yang dapat ditoleransi.
+4. **Fase Rekonstruksi (*Reconstruction Phase*):** Fase jangka panjang ketika individu dan komunitas mulai menata ulang fondasi kehidupan, memulihkan kemandirian ekonomi, serta mengintegrasikan narasi trauma sebagai bagian dari sejarah hidup yang dapat ditoleransi.
 
 Urutan keempat fase itu beserta rentang waktunya dapat kamu telusuri pada garis waktu berikut.
 

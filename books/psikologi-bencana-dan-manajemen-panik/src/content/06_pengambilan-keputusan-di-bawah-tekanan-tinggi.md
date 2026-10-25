@@ -12,7 +12,7 @@ Saat tingkat stres melonjak drastis, kapasitas pemrosesan kognitif mengalami pen
 
 Penyempitan atensi ini terjadi secara fisik maupun kognitif. Atensi seseorang menyempit dan hanya terpaku pada satu objek atau masalah tunggal (misalnya: pintu utama yang terkunci rapat) sehingga gagal menyadari alternatif jalan keluar lain di sekelilingnya (misalnya: jendela darurat yang terbuka lebar).
 
-- **Analogi Analitis:** Ibarat melintasi hutan belantara pekat dengan senter sorot yang berdiameter sangat sempit. Sorotan cahaya terfokus sepenuhnya pada ular berbisa di atas tanah (ancaman langsung), namun karena sempitnya sudut pandang, keberadaan jembatan evakuasi tepat di sebelah rintangan tersebut luput dari pengamatan.
+- **Analogi Analitis:** Ibarat melintasi hutan belantara pekat dengan senter sorot yang berdiameter sangat sempit. Sorotan cahaya terfokus sepenuhnya pada ular berbisa di atas tanah (ancaman langsung), tetapi karena sempitnya sudut pandang, keberadaan jembatan evakuasi tepat di sebelah rintangan tersebut luput dari pengamatan.
 
 ### Bias Informasi dalam Krisis
 

@@ -1,6 +1,6 @@
 ## Pertolongan Pertama Psikologis
 
-Bayangkan situasi darurat di lokasi kecelakaan massal atau sesaat setelah gempa bumi besar mengguncang. Di antara puing-puing reruntuhan, terlihat seorang penyintas yang secara fisik tidak mengalami luka terbuka parah, namun tubuhnya mematung, gemetaran hebat, dan pandangan matanya kosong. Langkah apa yang paling tepat untuk diambil dalam detik-detik awal krisis tersebut?
+Bayangkan situasi darurat di lokasi kecelakaan massal atau sesaat setelah gempa bumi besar mengguncang. Di antara puing-puing reruntuhan, terlihat seorang penyintas yang secara fisik tidak mengalami luka terbuka parah, tetapi tubuhnya mematung, gemetaran hebat, dan pandangan matanya kosong. Langkah apa yang paling tepat untuk diambil dalam detik-detik awal krisis tersebut?
 
 Sama seperti luka fisik yang membutuhkan perban dan pembersihan antiseptik segera untuk mencegah infeksi sistemik, luka emosional akut akibat bencana membutuhkan intervensi awal yang terstruktur, yaitu **Pertolongan Pertama Psikologis** (*Psychological First Aid* atau PFA). PFA bukanlah terapi psikologis jangka panjang ataupun sesi konseling klinis mendalam; PFA berfungsi sebagai "perban mental" yang dirancang untuk menstabilkan kondisi emosional, mengurangi kepanikan akut, dan memulihkan rasa aman dasar.
 
