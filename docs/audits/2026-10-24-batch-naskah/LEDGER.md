@@ -241,3 +241,18 @@ Setiap keputusan di bawah diambil dari pilihan yang direkomendasikan, kecuali di
 - ekonomi-laissez-faire, Quesnay: teks 1758 dipertahankan. URL marxists.org berlabel 1759 tidak diganti.
 - aerodinamika-dan-desain-airfoil: konvensi sumbu momen dibiarkan sesuai keputusan pemilik.
 - pembelajaran-multidisiplin: nama file bab 02 masih mengandung "interdisiplin".
+
+## Tahap 5: sisa Tahap 4
+
+- tonsilektomi bab 08 baris 52: klaim nyeri hari kelima yang tidak didukung Lavy diganti dengan pola kurva Lavy. Kalimat tentang lapisan pelindung dihapus karena hanya mendukung klaim itu.
+- state-of-flow bab 05: rumus "Tingkat Kesulitan ≈ Kemampuan + 4%" dihapus, sama dengan keputusan untuk bab 09. Kalimat prosa "The 4% Rule" (baris 39) masih memuat angka 4% tanpa sumber dan belum diubah. Perlu keputusan pemilik.
+- analisis-wacana-kritis: klaim "paling sulit dipalsukan" dilunakkan menjadi "cenderung sulit dipalsukan" di bab 01, 03, 05, 08, 10, dan 12, sama dengan bab 02 (perluasan dari keputusan pemilik yang awalnya hanya bab 02).
+- psikologi-positif: tidak ada sumber terverifikasi yang memuat angka 5:1. Losada dan Heaphy 2004 yang dikutip Brown et al. 2013 memberi sekitar 5,6 (kutipan sekunder, halaman penerbit diblokir). Teks dibiarkan sekitar 5:1. Pilihan: ubah ke sekitar 5,6:1 dengan kutipan Losada dan Heaphy 2004, atau biarkan dengan hedge sekarang.
+
+### Masih terbuka setelah Tahap 5
+
+- state-of-flow bab 04 baris 39 (prosa "The 4% Rule"): keputusan pemilik diperlukan.
+- psikologi-positif: pilihan 5,6:1 di atas.
+- pembelajaran-multidisiplin: nama file bab 02 masih mengandung "interdisiplin" (mengubah URL).
+- siklus-hidrologi: dua kasus "bumi" huruf kecil (permukaan, di bumi) dibiarkan, perlu konfirmasi.
+- Merge, deploy, seed `db/seed.sql`, dan `diagrams:render --prune` belum dilakukan. Menunggu keputusanmu.
