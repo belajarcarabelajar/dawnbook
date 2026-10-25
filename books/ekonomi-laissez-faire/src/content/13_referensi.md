@@ -48,6 +48,6 @@ Stiglitz, J. E. (2002). *Globalization and its discontents*. W. W. Norton & Comp
 
 Thoreau, H. D. (1849). *On the duty of civil disobedience*. Project Gutenberg. [https://www.gutenberg.org/files/71/71-h/71-h.htm](https://www.gutenberg.org/files/71/71-h/71-h.htm)
 
-Turgot, A. R. J. (1766). *Réflexions sur la formation et la distribution des richesses*. Éphémérides du citoyen. [https://oll.libertyfund.org/titles/turgot-reflections-on-the-formation-and-distribution-of-riches](https://oll.libertyfund.org/titles/turgot-reflections-on-the-formation-and-distribution-of-riches)
+Turgot, A. R. J. (1766). *Réflexions sur la formation et la distribution des richesses*. Éphémérides du citoyen. Ditulis pada 1766, lalu dimuat bersambung dalam Éphémérides du citoyen pada 1769 sampai 1770. [https://oll.libertyfund.org/titles/turgot-reflections-on-the-formation-and-distribution-of-riches](https://oll.libertyfund.org/titles/turgot-reflections-on-the-formation-and-distribution-of-riches)
 
 Viner, J. (1927). Adam Smith and laissez faire. *Journal of Political Economy*, 35(2), 198–232. [https://doi.org/10.1086/253837](https://doi.org/10.1086/253837)
