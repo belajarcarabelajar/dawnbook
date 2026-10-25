@@ -32,7 +32,7 @@ Tantangan terbesar dalam memimpin para spesialis (seperti *software engineer*, *
 - **Menghubungkan Titik-Titik (Connecting the Dots):** Kamu perlu menunjukkan bagaimana kontribusi seorang *UI designer* secara langsung mempermudah pekerjaan harian tim operasional di lapangan.
 - **Menumbuhkan Kepemilikan Bersama:** Biasakan memakai frasa "produk kita" alih-alih memisahkannya menjadi "kode mereka" atau "desain kalian".
 
-Kita sering menemui rapat di mana sesama tenaga ahli berdebat sengit mengenai detail teknis yang sebenarnya kurang relevan bagi tujuan akhir proyek. Di sinilah peran kamu untuk menengahi dengan empati, mengembalikan fokus mereka ke visi besar yang ingin dicapai.
+Kita sering menemui rapat tempat sesama tenaga ahli berdebat sengit mengenai detail teknis yang sebenarnya kurang relevan bagi tujuan akhir proyek. Di sinilah peran kamu untuk menengahi dengan empati, mengembalikan fokus mereka ke visi besar yang ingin dicapai.
 
 ## 3. Strategi Memimpin Inisiatif Kolaboratif
 

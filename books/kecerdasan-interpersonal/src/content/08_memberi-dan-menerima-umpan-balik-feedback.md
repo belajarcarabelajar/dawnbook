@@ -34,7 +34,7 @@ Model SBI membantu karena berfokus pada fakta objektif, bukan pada penilaian kar
 Konsep yang dipopulerkan oleh Kim Scott ini menjelaskan bahwa *feedback* terbaik lahir dari irisan antara **Care Personally** (peduli secara personal) dan **Challenge Directly** (menantang secara langsung).
 
 * Jika kamu menantang seseorang tanpa menunjukkan kepedulian nyata, tindakanmu jatuh pada kategori **Obnoxious Aggression** (agresi yang mengganggu). Masukanmu terdengar seperti serangan pribadi.
-* Sebaliknya, jika kamu sangat peduli namun tidak berani menantang kesalahannya, kamu terjebak dalam **Ruinous Empathy** (empati yang merusak). Kamu membiarkan rekan kerjamu terus melakukan kesalahan hanya karena merasa sungkan atau tidak enak hati.
+* Sebaliknya, jika kamu sangat peduli, tetapi tidak berani menantang kesalahannya, kamu terjebak dalam **Ruinous Empathy** (empati yang merusak). Kamu membiarkan rekan kerjamu terus melakukan kesalahan hanya karena merasa sungkan atau tidak enak hati.
 
 ## 3. Menerima Feedback secara Terbuka
 

@@ -4,7 +4,7 @@ Kebanyakan orang tidak mendengarkan dengan niat untuk memahami; mereka mendengar
 
 ## 1. Mendengar untuk Memahami vs. Mendengar untuk Menjawab
 
-Sering kali kita terjebak dalam fenomena *autobiographical listening*, di mana kita menyaring pesan orang lain melalui kacamata pengalaman kita sendiri. Kita cenderung mengevaluasi, menyelidiki, memberi saran, atau menafsirkan sebelum benar-benar menangkap esensi pesan tersebut.
+Sering kali kita terjebak dalam fenomena *autobiographical listening*, saat kita menyaring pesan orang lain melalui kacamata pengalaman kita sendiri. Kita cenderung mengevaluasi, menyelidiki, memberi saran, atau menafsirkan sebelum benar-benar menangkap esensi pesan tersebut.
 
 **Analoginya:** Bayangkan komunikasi sebagai frekuensi radio. Jika kamu hanya fokus memancarkan sinyal (menjawab), kamu tidak akan pernah bisa menerima siaran dari stasiun lain. Mendengar aktif adalah proses menyetel antenamu agar tepat berada pada frekuensi yang sama dengan lawan bicara.
 

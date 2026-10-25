@@ -2,7 +2,7 @@
 
 - [Fondasi Kecerdasan Interpersonal](content/01_fondasi-kecerdasan-interpersonal.md)
 - [Mendengar Aktif dan Empati](content/02_seni-mendengar-aktif-dan-empati.md)
-- [Komunikasi Verbal dan Non-Verbal yang Efektif](content/03_komunikasi-verbal-dan-non-verbal-yang-efektif.md)
+- [Komunikasi Verbal dan Nonverbal yang Efektif](content/03_komunikasi-verbal-dan-non-verbal-yang-efektif.md)
 - [Memahami Berbagai Gaya Kerja dan Kepribadian](content/04_memahami-berbagai-gaya-kerja-dan-kepribadian.md)
 - [Kolaborasi Lintas Departemen (Cross-Functional)](content/05_kolaborasi-lintas-departemen-cross-functional.md)
 - [Manajemen Konflik dan Resolusi Masalah](content/06_manajemen-konflik-dan-resolusi-masalah.md)

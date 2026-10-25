@@ -2,7 +2,7 @@
 
 Bayangkan kamu sedang berjalan di koridor kantor yang gelap. Kamu tidak bisa melihat ekspresi wajah rekan kerja, tidak bisa mendengar nada suara mereka, dan hanya bisa mengandalkan secarik memo yang mereka selipkan di bawah pintu. Inilah analogi tantangan utama dalam **komunikasi digital**.
 
-Ketika interaksi fisik ditiadakan, sebagian besar petunjuk komunikasi non-verbal (seperti kerutan dahi, senyuman tipis, bahasa tubuh, hingga intonasi suara) ikut hilang. Di sinilah pentingnya memiliki **Kecerdasan Interpersonal Digital**. Ini adalah kemampuan untuk membangun koneksi, rasa percaya, dan pemahaman yang jernih meskipun dibatasi oleh layar perangkat digital.
+Ketika interaksi fisik ditiadakan, sebagian besar petunjuk komunikasi nonverbal (seperti kerutan dahi, senyuman tipis, bahasa tubuh, hingga intonasi suara) ikut hilang. Di sinilah pentingnya memiliki **Kecerdasan Interpersonal Digital**. Ini adalah kemampuan untuk membangun koneksi, rasa percaya, dan pemahaman yang jernih meskipun dibatasi oleh layar perangkat digital.
 
 ## 1. Memahami Digital Body Language
 

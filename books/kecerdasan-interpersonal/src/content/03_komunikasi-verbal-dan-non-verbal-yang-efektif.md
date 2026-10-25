@@ -1,6 +1,6 @@
-## Komunikasi Verbal dan Non-Verbal yang Efektif
+## Komunikasi Verbal dan Nonverbal yang Efektif
 
-Pernahkah kamu mengirim pesan teks yang disalahpahami sebagai kemarahan oleh temanmu, padahal kamu hanya sedang terburu-buru? Atau mungkin kamu pernah mendengarkan presentasi di mana pembicaranya memiliki data yang kuat, namun suaranya yang monoton membuat audiens tertidur?
+Pernahkah kamu mengirim pesan teks yang disalahpahami sebagai kemarahan oleh temanmu, padahal kamu hanya sedang terburu-buru? Atau mungkin kamu pernah mendengarkan presentasi yang pembicaranya memiliki data yang kuat, tetapi suaranya yang monoton membuat audiens tertidur?
 
 Dalam profil **T-shaped professional**, kemampuan teknismu adalah garis vertikal yang mendalam, sedangkan **kemampuan komunikasi** adalah garis horizontal yang memungkinkan keahlian tersebut menjangkau dan memengaruhi orang lain. Komunikasi yang efektif berfokus pada cara pesan diterima dan dipahami oleh lawan bicara, tidak hanya terbatas pada kata-kata yang diucapkan.
 
@@ -8,7 +8,7 @@ Dalam profil **T-shaped professional**, kemampuan teknismu adalah garis vertikal
 
 Bayangkan komunikasi sebagai sebuah sinyal radio. Jika pemancar (kamu) mengirimkan sinyal yang lemah atau terganggu oleh *noise*, maka penerima akan mendapatkan pesan yang penuh derau dan tidak jelas.
 
-Dalam penyampaian perasaan atau sikap, Albert Mehrabian merumuskan model 7-38-55 yang membagi pesan ke dalam tiga elemen dasar: kata-kata verbal menyumbang sekitar 7%, aspek vokal seperti nada dan kecepatan bicara memiliki porsi 38%, sedangkan bahasa tubuh dan ekspresi non-verbal mendominasi hingga 55%.
+Dalam penyampaian perasaan atau sikap, Albert Mehrabian merumuskan model 7-38-55 yang membagi pesan ke dalam tiga elemen dasar: kata-kata verbal menyumbang sekitar 7%, aspek vokal seperti nada dan kecepatan bicara memiliki porsi 38%, sedangkan bahasa tubuh dan ekspresi nonverbal mendominasi hingga 55%.
 
 > **Insight Utama:** Jika kata-katamu mengatakan "Saya senang membantu kamu," tetapi wajahmu cemberut dan nada suaramu ketus, orang akan lebih memercayai bahasa tubuhmu daripada kata-katamu. Fenomena ini disebut sebagai **inkongruensi** (*incongruence*).
 
@@ -38,9 +38,9 @@ Melatih vokal berarti melatih dinamika suara. Beberapa aspek yang perlu diperhat
 2. **Mengatur tempo bicara**: Bicara yang terlalu cepat sering kali mencerminkan rasa gugup, sementara tempo yang terlalu lambat berisiko membuat lawan bicara bosan. Gunakan jeda (*pausing*) secara sengaja agar pendengar memiliki waktu untuk mencerna poin-poin penting.
 3. **Volume suara**: Sesuaikan volume dengan ukuran ruangan dan jumlah audiens. Menjaga volume tetap stabil dan jelas menunjukkan keyakinan diri.
 
-## 4. Komunikasi Non-Verbal
+## 4. Komunikasi Nonverbal
 
-Bahasa tubuh sering kali bersifat bawah sadar, namun dampaknya besar terhadap persepsi orang lain terhadapmu.
+Bahasa tubuh sering kali bersifat bawah sadar, tetapi dampaknya besar terhadap persepsi orang lain terhadapmu.
 
 Beberapa aspek bahasa tubuh berikut bisa kamu latih untuk mendukung pesan verbalmu:
 
@@ -55,7 +55,7 @@ Distorsi terjadi ketika ada kesenjangan antara apa yang dikatakan dan apa yang d
 
 ### Formula Dampak Komunikasi
 
-Misalkan $I$ adalah Dampak (*Impact*), $V$ adalah Verbal, $P$ adalah Paraverbal (Vokal), dan $B$ adalah *Body Language* (Non-verbal). Dampak maksimal tercapai saat ketiganya selaras:
+Misalkan $I$ adalah Dampak (*Impact*), $V$ adalah Verbal, $P$ adalah Paraverbal (Vokal), dan $B$ adalah *Body Language* (Nonverbal). Dampak maksimal tercapai saat ketiganya selaras:
 
 <div>
 $$
@@ -74,10 +74,10 @@ Bayangkan kamu adalah seorang pemimpin tim teknis yang harus menjelaskan kepada 
 - **Pendekatan Salah**: Menghindari kontak mata, berbicara dengan nada rendah dan bergumam, menggunakan kata-kata yang menyalahkan pihak lain.
 - **Pendekatan Efektif**:
 	- **Verbal**: "Kami mengidentifikasi hambatan teknis pada integrasi API yang membutuhkan waktu 3 hari tambahan untuk memastikan keamanan data." (Jelas dan fokus pada solusi).
-	- **Vokal**: Nada suara tenang, serius, namun stabil. Tidak terdengar panik.
-	- **Non-Verbal**: Menatap mata lawan bicara, tubuh condong sedikit ke depan (menunjukkan kesungguhan), tangan berada di atas meja (transparansi).
+	- **Vokal**: Nada suara tenang, serius, tetapi stabil. Tidak terdengar panik.
+	- **Nonverbal**: Menatap mata lawan bicara, tubuh condong sedikit ke depan (menunjukkan kesungguhan), tangan berada di atas meja (transparansi).
 
-Manajer mungkin tidak senang dengan penundaan tersebut, namun mereka akan merasa yakin dengan profesionalisme dan kendalimu atas situasi tersebut.
+Manajer mungkin tidak senang dengan penundaan tersebut, tetapi mereka akan merasa yakin dengan profesionalisme dan kendalimu atas situasi tersebut.
 
 ## Tips Praktis untuk Melatih Diri
 

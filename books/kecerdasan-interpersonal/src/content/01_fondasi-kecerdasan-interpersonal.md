@@ -61,7 +61,7 @@ Di dalam lingkungan organisasi, kecerdasan interpersonal menjadi fondasi karena 
    Seorang teknisi yang memiliki kecerdasan ini akan memahami mengapa tim pemasaran meminta format data yang lebih sederhana. Ini terjadi karena perbedaan tujuan akhir yang harus dicapai masing-masing tim, bukan karena kurangnya kecerdasan.
    
 2. **Katalisator Inovasi**  
-   Inovasi lahir dari tabrakan berbagai perspektif. Hubungan interpersonal yang baik menciptakan ruang diskusi yang aman, di mana perbedaan pendapat tidak akan merusak hubungan personal.
+   Inovasi lahir dari tabrakan berbagai perspektif. Hubungan interpersonal yang baik menciptakan ruang diskusi yang aman, tempat perbedaan pendapat tidak akan merusak hubungan personal.
    
 3. **Efisiensi Operasional**  
    Komunikasi yang buruk sering menjadi biang keladi rapat yang bertele-tele atau kesalahpahaman dalam bertukar pesan. Kecerdasan interpersonal hadir untuk memangkas gesekan (*friction*) sosial tersebut, sehingga alur kerja menjadi lebih lancar.

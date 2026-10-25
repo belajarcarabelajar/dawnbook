@@ -33,7 +33,7 @@ Jika orientasi diri ($S$) kamu terlalu dominan, tingkat kepercayaan ($T$) akan t
 
 Menurut Timothy R. Clark, *psychological safety* berkembang secara bertahap melalui empat tingkatan yang berurutan. Sebuah tim harus membangun fondasi dari tingkat terendah sebelum bisa mencapai fase inovasi:
 
-1.  **Inclusion Safety**: Tahap awal di mana kamu merasa diterima seutuhnya sebagai bagian dari tim tanpa memandang latar belakang pribadi. Keberadaanmu dihargai, bukan cuma hasil kerjamu.
+1.  **Inclusion Safety**: Tahap awal saat kamu merasa diterima seutuhnya sebagai bagian dari tim tanpa memandang latar belakang pribadi. Keberadaanmu dihargai, bukan cuma hasil kerjamu.
 2.  **Learner Safety**: Memberikan kebebasan untuk bertanya, bereksperimen, memberikan masukan, dan melakukan kesalahan kecil selama proses belajar tanpa takut dicap tidak kompeten.
 3.  **Contributor Safety**: Timbulnya rasa percaya diri untuk menggunakan keahlian pribadi dalam menghasilkan karya nyata, didukung oleh otonomi penuh dari tim.
 4.  **Challenger Safety**: Tingkat tertinggi yang memungkinkan kamu menantang status quo, memberikan masukan kritis terhadap ide atasan, atau menyuarakan kekhawatiran tanpa bayang-bayang pembalasan maupun risiko karier.

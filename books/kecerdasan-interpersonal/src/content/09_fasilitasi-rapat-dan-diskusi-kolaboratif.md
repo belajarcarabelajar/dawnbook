@@ -1,6 +1,6 @@
 ## Fasilitasi Rapat dan Diskusi Kolaboratif
 
-Pernahkah kamu terjebak dalam rapat yang berlangsung berjam-jam tanpa hasil jelas? Atau berada dalam diskusi di mana hanya satu-dua orang mendominasi pembicaraan, sementara ide-ide lainnya tidak pernah tersampaikan?
+Pernahkah kamu terjebak dalam rapat yang berlangsung berjam-jam tanpa hasil jelas? Atau berada dalam diskusi tempat hanya satu-dua orang mendominasi pembicaraan, sementara ide-ide lainnya tidak pernah tersampaikan?
 
 Dalam kerja seorang *T-shaped professional*, rapat adalah sarana kolaborasi, sedangkan fasilitasi membuat rapat itu berjalan. Tanpa fasilitasi yang mumpuni, rapat akan macet atau tidak berfungsi. Materi ini akan membekali kamu dengan teknik mengelola pertemuan agar lebih produktif, inklusif, dan menghasilkan keputusan konkret.
 
