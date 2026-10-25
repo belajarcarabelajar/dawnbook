@@ -267,3 +267,9 @@ Setiap keputusan di bawah diambil dari pilihan yang direkomendasikan, kecuali di
   - Data indeks GSC (`docs/*.json`) masih mencatat URL lama.
   - Nama file tidak dipakai di isi bab, jadi kebenaran teks tidak terpengaruh.
   - Pilihan: (a) biarkan nama file dengan "interdisiplin" dan tulis catatan di ledger, atau (b) ganti nama dan tambahkan `_redirects` dulu. Belum diputuskan.
+
+## Tahap 7: penutupan item terbuka
+
+- state-of-flow bab 05: prosa "The 4% Rule" dihapus angkanya. Pencarian menemukan 4% hanya di blog dan buku populer (dinisbatkan ke Steven Kotler), tanpa studi. Kalimat sekarang menyatakan tantangan sedikit di atas kemampuan, tanpa angka.
+- pembelajaran-multidisiplin bab 02: nama file tidak diganti. Penggantian mengubah URL dan memutus progres pembaca tanpa pengalihan, dan repo belum punya `_redirects`. Kalau nama file akan diganti, tambahkan pengalihan dan regenerasi `db/seed.sql` lebih dulu.
+- Tidak ada item terbuka lain di ledger ini.
