@@ -38,10 +38,10 @@ Banyak orang sulit mendelegasikan tugas karena merasa "kalau bukan saya yang ker
 
 Berkata "tidak" sering kali terasa tidak sopan atau egois. Namun, secara psikologis, setiap kali kamu berkata "ya" pada permintaan orang lain yang tidak sesuai prioritas kamu, kamu sebenarnya sedang berkata "tidak" pada diri sendiri, keluarga, atau waktu istirahat kamu.
 
-**Rumus Berkata "Tidak" yang Sopan namun Tegas:**
+**Rumus Berkata "Tidak" yang Sopan tetapi Tegas:**
 
 - **Afirmasi + Penolakan + Alternatif (Opsional)**
-- *Contoh:* "Terima kasih sudah memikirkan saya untuk proyek ini (Afirmasi), namun saat ini kapasitas saya sudah penuh hingga akhir bulan (Penolakan). Mungkin saya bisa membantu di kuartal depan? (Alternatif)."
+- *Contoh:* "Terima kasih sudah memikirkan saya untuk proyek ini (Afirmasi), tetapi saat ini kapasitas saya sudah penuh hingga akhir bulan (Penolakan). Mungkin saya bisa membantu di kuartal depan? (Alternatif)."
 
 ### 4. Penetapan Batasan (*Boundaries*)
 

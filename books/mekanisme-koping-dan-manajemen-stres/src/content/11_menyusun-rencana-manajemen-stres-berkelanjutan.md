@@ -9,7 +9,7 @@ Mengelola stres bukan proyek sekali jalan, tetapi sebuah gaya hidup. Ibarat mera
 Untuk memastikan stres tidak menumpuk menjadi beban kronis, kamu memerlukan sebuah protokol pribadi yang adaptif. Kita bisa merumuskannya dalam sebuah persamaan sederhana:
 
 $$
-\text{Ketahanan (Resilience)} = \frac{\text{Sumber Daya Internal} + \text{Dukungan Eksternal}}{\text{Beban Stressor}}
+\text{Ketahanan (Resilience)} = \frac{\text{Sumber Daya Internal} + \text{Dukungan Eksternal}}{\text{Beban Stresor}}
 $$
 
 Jika beban stresor meningkat, sumber daya dan dukungan kamu harus ditingkatkan agar sistem tidak runtuh.
@@ -20,13 +20,13 @@ Jika beban stresor meningkat, sumber daya dan dukungan kamu harus ditingkatkan a
 2. **Integrasi Ritual Mikro**: Jangan menunggu liburan panjang untuk pulih. Masukkan teknik pernapasan atau *grounding* dalam jadwal harian (misalnya 5 menit setelah makan siang).
 3. **Evaluasi Diri Berkala**: Gunakan skala 1-10 untuk menilai tingkat stres kamu setiap pagi. Jika angka menunjukkan $>7$ selama tiga hari berturut-turut, itu adalah sinyal untuk mengaktifkan mode pemulihan ekstra.
 
-> **Penting:** Konsistensi lebih berharga daripada intensitas. Melakukan meditasi 5 menit setiap hari lebih efektif bagi otak daripada meditasi 2 jam namun hanya dilakukan sebulan sekali.
+> **Penting:** Konsistensi lebih berharga daripada intensitas. Melakukan meditasi 5 menit setiap hari lebih efektif bagi otak daripada meditasi 2 jam tetapi hanya dilakukan sebulan sekali.
 
 ---
 
 ### 2. Mengenali "Red Flags"
 
-Ada titik di mana mekanisme koping mandiri tidak lagi cukup. Ini bukan tanda kelemahan, tetapi sinyal bahwa tantangan yang kamu hadapi memerlukan keahlian khusus.
+Ada titik saat mekanisme koping mandiri tidak lagi cukup. Ini bukan tanda kelemahan, tetapi sinyal bahwa tantangan yang kamu hadapi memerlukan keahlian khusus.
 
 > **Analogi Kesehatan:** Jika kaki kamu patah, kamu tidak akan mencoba menyembuhkannya hanya dengan berpikir positif. Kamu pasti pergi ke dokter spesialis bedah tulang. Kesehatan mental bekerja dengan prinsip yang persis sama.
 

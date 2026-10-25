@@ -6,9 +6,9 @@ Regulasi emosi (*emotion regulation*) memfokuskan perhatian pada pengelolaan aru
 
 ### 1. Prinsip "Name It to Tame It"
 
-Langkah awal mengelola emosi mendalam adalah menyadari keberadaannya. Dalam struktur otak, **Amigdala** (*amygdala*) berperan memicu respons emosional instingtif. Saat emosi yang membuat kita kewalahan datang, Amigdala bekerja sangat aktif.
+Langkah awal mengelola emosi mendalam adalah menyadari keberadaannya. Dalam struktur otak, **amigdala** (*amygdala*) berperan memicu respons emosional instingtif. Saat emosi yang membuat kita kewalahan datang, amigdala bekerja sangat aktif.
 
-Penelitian neurosains menunjukkan bahwa saat seseorang memberi nama pada emosi yang dirasakan (*affect labeling*), aktivitas di Amigdala menurun, sementara aktivitas di **Prefrontal Cortex** (pusat kendali logika dan penalaran) meningkat.
+Penelitian neurosains menunjukkan bahwa saat seseorang memberi nama pada emosi yang dirasakan (*affect labeling*), aktivitas di amigdala menurun, sementara aktivitas di **korteks prefrontal** (pusat kendali logika dan penalaran) meningkat.
 
 > **Prinsip Utama:** Giving a name to a feeling is the first step toward regaining control. (Memberi nama pada perasaan adalah langkah awal mengambil kembali kendali atas diri kamu).
 
@@ -58,7 +58,7 @@ Andi baru saja menerima umpan balik negatif dari atasannya di hadapan rekan kerj
 **Langkah Penerapan Regulasi Emosi:**
 
 1. **Pause & Name:**
-   Andi melangkah ke kamar mandi, menenangkan diri, menarik napas dalam tiga kali, dan berbisik: *"Saya merasa dipermalukan dan tidak dihargai."* (Langkah ini membantu meredam hiperaktivitas Amigdala).
+   Andi melangkah ke kamar mandi, menenangkan diri, menarik napas dalam tiga kali, dan berbisik: *"Saya merasa dipermalukan dan tidak dihargai."* (Langkah ini membantu meredam hiperaktivitas amigdala).
 2. **Journaling Kilat:**
    Andi membuka aplikasi catatan di ponsel dan menuliskan seluruh kejengkelannya selama 2 menit tanpa penyuntingan.
 3. **Channeling (Penyaluran Energi):**

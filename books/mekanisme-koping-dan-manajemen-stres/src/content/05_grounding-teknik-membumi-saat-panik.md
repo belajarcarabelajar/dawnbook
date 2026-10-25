@@ -8,7 +8,7 @@ Pernahkah kamu merasa seolah-olah pikiranmu "melayang", atau terjebak dalam kece
 
 Bayangkan otak kamu sebagai sebuah sirkuit listrik. Saat stres atau panik memuncak, terjadi beban berlebih (*overload*) pada sistem saraf. Tanpa adanya kabel arde (*grounding*) untuk menyalurkan energi berlebih tersebut ke tanah, sirkuit bisa mengalami gangguan.
 
-Secara biologis, saat panik menyerang, bagian otak yang bernama **Amigdala** (pusat emosi) bekerja terlalu aktif, sementara **Prefrontal Cortex** (pusat logika) mengalami penurunan aktivitas. *Grounding* membantu otak mengaktifkan kembali fungsi logis dengan mengalihkan perhatian pada rangsangan sensorik yang nyata.
+Secara biologis, saat panik menyerang, bagian otak yang bernama **amigdala** (pusat emosi) bekerja terlalu aktif, sementara **korteks prefrontal** (pusat logika) mengalami penurunan aktivitas. *Grounding* membantu otak mengaktifkan kembali fungsi logis dengan mengalihkan perhatian pada rangsangan sensorik yang nyata.
 
 Efektivitas *grounding* dalam meredakan kecemasan dapat digambarkan secara konseptual melalui penurunan tingkat kecemasan:
 
@@ -60,7 +60,7 @@ Jika panik terasa sangat kuat, manfaatkan sensasi fisik yang kontras. Ambil sebu
 Pilih satu kategori (seperti jenis hewan, nama kota, merek mobil, atau buah-buahan). Sebutkan sebanyak mungkin anggota kategori tersebut di dalam hati atau bersuara.
 
 - **Contoh:** "Kucing, Anjing, Gajah, Jerapah, Zebra..."
-- Prosedur ini mengaktifkan kembali area Prefrontal Cortex yang sempat menurun fungsinya saat panik.
+- Prosedur ini mengaktifkan kembali area korteks prefrontal yang sempat menurun fungsinya saat panik.
 
 #### 3. Penekanan Tubuh (Stomping)
 
@@ -83,7 +83,7 @@ Budi sedang menunggu gilirannya untuk berbicara di depan pimpinan. Tiba-tiba jan
 
 1. **Sensasi Fisik:** Budi menekan kedua telapak kakinya erat-erat ke lantai. Ia meresapi kerasnya lantai di bawah sepatunya.
 2. **Sensorik 5-4-3-2-1:** Ia memperhatikan 5 warna berbeda di dinding ruangan. Ia merasakan tekstur pulpen di tangannya (4). Ia mendengarkan dengung lembut proyektor (3). Ia menghirup aroma minyak kayu putih di pergelangan tangannya (2). Ia merasakan sisa rasa teh hangat di lidahnya (1).
-3. **Hasil:** Dalam kurun waktu $t \le 2 \text{ menit}$, ritme jantung Budi mulai stabil. Rasa gugup tetap ada, namun ia tidak lagi merasa terpisah dari realitas dan mampu menyampaikan presentasinya.
+3. **Hasil:** Dalam kurun waktu $t \le 2 \text{ menit}$, ritme jantung Budi mulai stabil. Rasa gugup tetap ada, tetapi ia tidak lagi merasa terpisah dari realitas dan mampu menyampaikan presentasinya.
 
 ### Panduan Praktik Grounding
 
@@ -94,4 +94,4 @@ Budi sedang menunggu gilirannya untuk berbicara di depan pimpinan. Tiba-tiba jan
 > [!IMPORTANT]
 > **Pertolongan Pertama Kesehatan Mental:** Teknik *grounding* berfungsi sebagai langkah awal meredakan serangan panik. Apabila kamu mengalami serangan panik yang berulang dan mengganggu aktivitas harian, pertimbangkan untuk berkonsultasi dengan profesional kesehatan mental (psikolog atau psikiater).
 
-> "Pikiranmu bisa mengembara ke mana saja, namun tubuhmu selalu berada di sini. Kembalilah meresapi keberadaan tubuhmu."
+> "Pikiranmu bisa mengembara ke mana saja, tetapi tubuhmu selalu berada di sini. Kembalilah meresapi keberadaan tubuhmu."

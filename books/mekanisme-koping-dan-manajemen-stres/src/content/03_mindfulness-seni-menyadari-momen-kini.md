@@ -19,9 +19,9 @@ Bayangkan pikiranmu adalah sebuah stasiun kereta api yang sangat sibuk. Setiap k
 
 ### Mengapa Mindfulness Berhasil? (Perspektif Sains)
 
-Mindfulness tidak hanya berkaitan dengan aspek spiritual; ia memiliki dasar biologis yang kuat. Saat kita stres, bagian otak bernama **Amygdala** (pusat emosi/takut) menjadi sangat aktif.
+Mindfulness tidak hanya berkaitan dengan aspek spiritual; ia memiliki dasar biologis yang kuat. Saat kita stres, bagian otak bernama **amigdala** (*amygdala*, pusat emosi/takut) menjadi sangat aktif.
 
-Melalui praktik mindfulness yang konsisten, kita melatih **Prefrontal Cortex** (pusat logika dan kendali diri) untuk mengambil alih kendali. Secara matematis, tingkat stres $S$ dapat dianggap berbanding terbalik dengan tingkat kesadaran saat ini $C$ dan penerimaan $A$:
+Melalui praktik mindfulness yang konsisten, kita melatih **korteks prefrontal** (*prefrontal cortex*, pusat logika dan kendali diri) untuk mengambil alih kendali. Secara matematis, tingkat stres $S$ dapat dianggap berbanding terbalik dengan tingkat kesadaran saat ini $C$ dan penerimaan $A$:
 
 $$
 S \approx \frac{1}{C \times A}

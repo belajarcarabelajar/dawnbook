@@ -15,7 +15,7 @@ Dalam istilah psikologis, stres sering dilihat sebagai ketidakseimbangan antara 
 Untuk memahaminya lebih dalam, kita bisa melihat stres melalui persamaan sederhana berikut:
 
 $$
-\text{Stres} = \frac{\text{Tuntutan (Stressor)}}{\text{Sumber Daya (Koping)}}
+\text{Stres} = \frac{\text{Tuntutan (Stresor)}}{\text{Sumber Daya (Koping)}}
 $$
 
 Jika **Tuntutan** lebih besar daripada **Sumber Daya** yang kamu miliki, maka tingkat stres akan meningkat. Sebaliknya, dengan memperkuat sumber daya (mekanisme koping), beban stres akan terasa lebih ringan.
@@ -70,7 +70,7 @@ Mari kita lihat bagaimana perbedaan koping memengaruhi hasil akhir dalam situasi
 - **Kasus Andi (Distress & Koping Maladaptif):** Andi merasa panik. Ia menghabiskan 3 jam pertama untuk mengeluh di media sosial dan makan makanan tidak sehat secara berlebihan (*emotional eating*) untuk menenangkan diri. Akibatnya, ia semakin lelah, waktu tersisa sedikit, dan hasil kerjanya buruk.
 - **Kasus Budi (Eustress & Koping Adaptif):** Budi merasa tertantang. Ia mengambil napas dalam-dalam, membagi tugas besar menjadi 3 bagian kecil, dan memutuskan untuk fokus penuh selama 1 jam lalu istirahat 5 menit. Budi melihat ini sebagai kesempatan untuk membuktikan kemampuannya. Ia menyelesaikan tugas tepat waktu dengan rasa bangga.
 
-**Pelajaran:** Situasinya identik, namun persepsi (*eustress* vs *distress*) dan mekanisme koping yang dipilih membuat hasil akhirnya berbeda total.
+**Pelajaran:** Situasinya identik, tetapi persepsi (*eustress* vs *distress*) dan mekanisme koping yang dipilih membuat hasil akhirnya berbeda total.
 
 ### Langkah Selanjutnya
 

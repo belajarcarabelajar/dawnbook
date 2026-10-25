@@ -8,7 +8,7 @@ Pernahkah kamu merasa bahwa satu kegagalan kecil berarti seluruh hidup kamu hanc
 
 ### 1. Memahami Distorsi Kognitif
 
-Sebelum kita bisa mengubah pikiran, kita harus mengenali pola pikir yang salah atau bias. Dalam psikologi, ini disebut **Distorsi Kognitif** (*cognitive distortions*). Ini adalah pintasan mental yang diambil otak kita saat berada di bawah tekanan, namun sering kali justru memperburuk stres.
+Sebelum kita bisa mengubah pikiran, kita harus mengenali pola pikir yang salah atau bias. Dalam psikologi, ini disebut **Distorsi Kognitif** (*cognitive distortions*). Ini adalah pintasan mental yang diambil otak kita saat berada di bawah tekanan, tetapi sering kali justru memperburuk stres.
 
 Berikut adalah beberapa "perangkap pikiran" yang paling umum:
 

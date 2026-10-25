@@ -18,7 +18,7 @@ SSO terbagi menjadi dua divisi utama yang bekerja saling melengkapi seperti peda
 
 ### 2. Sistem Saraf Simpatik
 
-Ketika otak kamu (khususnya bagian bernama *amygdala*) mendeteksi ancaman, ia mengirimkan sinyal bahaya ke *hipotalamus*. Hipotalamus kemudian mengaktifkan sistem saraf simpatik.
+Ketika otak kamu (khususnya bagian bernama *amigdala*) mendeteksi ancaman, ia mengirimkan sinyal bahaya ke *hipotalamus*. Hipotalamus kemudian mengaktifkan sistem saraf simpatik.
 
 #### Apa yang Terjadi pada Tubuh?
 
