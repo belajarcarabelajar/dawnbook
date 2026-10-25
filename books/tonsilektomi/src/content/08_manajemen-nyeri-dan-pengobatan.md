@@ -46,7 +46,7 @@ Selain obat medis, kamu juga bisa mempercepat pemulihan dengan beberapa langkah 
 Proses pemulihan setelah operasi ini sering kali naik-turun, tidak selalu membaik secara instan hari demi hari.
 
 1. Pada hari pertama dan kedua, nyeri biasanya sudah cukup terasa. Pada banyak anak kecil, justru di hari-hari inilah nyeri paling berat.
-2. Sekitar hari ke-5 hingga ke-8, nyeri bisa naik lagi saat lapisan fibrin (keropeng putih) di bekas luka mulai mengelupas, termasuk pada anak-anak. Pada orang dewasa, nyeri bisa paling berat di sekitar hari ke-3 hingga ke-7, sedangkan pada pasien di atas sepuluh tahun nyeri cenderung bertahan hingga sekitar hari ke-9 sebelum mereda.
+2. Pada anak sepuluh tahun ke bawah, nyeri biasanya memuncak di hari kedua, lalu menurun hingga sekitar separuh dari puncaknya pada hari keenam. Pada pasien di atas sepuluh tahun, nyeri cenderung bertahan hingga sekitar hari ke-9 sebelum mereda.
 3. Setelah melewati hari ke-10, rasa tidak nyaman tersebut biasanya akan berkurang secara drastis dalam waktu singkat.
 
 Jika kamu merasa nyeri bertambah parah pada hari kelima, jangan cemas. Itu umumnya pertanda alami bahwa lapisan pelindung lama mulai mengelupas untuk memberi ruang bagi jaringan baru yang sedang tumbuh, bukan tanda kondisi tubuhmu memburuk.
