@@ -4,7 +4,7 @@ Sistem peringatan dini tidak akan efektif bila berhenti pada sensor dan sirene t
 
 ### Pergeseran Menuju Community-Based Early Warning System
 
-Pendekatan konvensional yang bersifat *top-down* sering mengalami *last mile gap*. Informasi dari pusat peringatan sampai ke kabupaten, namun gagal dipahami atau dipercaya warga. *Community-based early warning system* menjawab kesenjangan tersebut dengan empat prinsip: partisipasi, desentralisasi, pemahaman konteks lokal, dan keberlanjutan.
+Pendekatan konvensional yang bersifat *top-down* sering mengalami *last mile gap*. Informasi dari pusat peringatan sampai ke kabupaten, tetapi gagal dipahami atau dipercaya warga. *Community-based early warning system* menjawab kesenjangan tersebut dengan empat prinsip: partisipasi, desentralisasi, pemahaman konteks lokal, dan keberlanjutan.
 
 Dalam model ini, komunitas terlibat sejak pemetaan risiko. Warga mengidentifikasi daerah rawan banjir, jalur longsor, dan lokasi warga rentan melalui pemetaan partisipatif. Hasil tersebut dipadukan dengan data teknis BMKG, BNPB, atau BPBD untuk menyusun peta evakuasi yang realistis. Komunitas juga menentukan alat peringatan yang sesuai, mulai dari kentongan hingga pengeras suara masjid, sehingga peringatan terasa familier.
 

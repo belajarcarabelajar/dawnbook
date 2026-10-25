@@ -32,7 +32,7 @@ Perang Dunia II mempercepat kebutuhan peringatan dini:
 * **1950-an:** Pembentukan WMO 1950 mendorong standardisasi observasi cuaca via radio tiap tiga jam.
 * **1960-an:** Satelit *TIROS-1* 1960 membuka era penginderaan jarak jauh, siklon dapat dipantau sebelum mencapai darat.
 * **1970-an:** Telemetri muka air sungai otomatis di Jepang dan Amerika Serikat via kabel telepon.
-* **1980-an:** Jaringan seismograf global diperluas, waktu deteksi gempa turun menjadi beberapa menit, namun diseminasi masih via radio dan televisi.
+* **1980-an:** Jaringan seismograf global diperluas, waktu deteksi gempa turun menjadi beberapa menit, tetapi diseminasi masih via radio dan televisi.
 
 Akurasi naik, tetapi rantai informasi masih panjang.
 

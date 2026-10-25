@@ -12,9 +12,9 @@ Prinsip dasar pengukuran kecepatan gelombang seismik dapat ditulis sebagai
 
 \\[ v = \frac{d}{t} \\]
 
-di mana \\( v \\) adalah kecepatan gelombang, \\( d \\) jarak, dan \\( t \\) waktu tempuh. Dari selisih waktu tiba gelombang P dan S di beberapa stasiun, sistem menghitung lokasi dan kedalaman gempa.
+dengan \\( v \\) adalah kecepatan gelombang, \\( d \\) jarak, dan \\( t \\) waktu tempuh. Dari selisih waktu tiba gelombang P dan S di beberapa stasiun, sistem menghitung lokasi dan kedalaman gempa.
 
-Selain seismometer, jaringan GPS CORS mengukur pergeseran lempeng dalam orde milimeter per tahun. Data ini penting untuk memetakan daerah yang terkunci dan berpotensi menghasilkan gempa besar.
+Selain seismometer, jaringan GPS CORS mengukur pergeseran lempeng. Data ini penting untuk memetakan daerah yang terkunci dan berpotensi menghasilkan gempa besar.
 
 > "Seismometer tidak memprediksi gempa, ia memberi tahu kita dengan sangat cepat bahwa gempa baru saja terjadi sehingga peringatan tsunami masih mungkin dikeluarkan."
 
@@ -41,7 +41,7 @@ Laju hujan dari radar diturunkan melalui hubungan empiris
 
 \\[ Z = a R^{b} \\]
 
-di mana \\( Z \\) adalah reflektivitas radar dan \\( R \\) laju hujan, dengan \\( a \\) dan \\( b \\) konstanta kalibrasi.
+dengan \\( Z \\) adalah reflektivitas radar dan \\( R \\) laju hujan, dengan \\( a \\) dan \\( b \\) konstanta kalibrasi.
 
 Di darat, Automatic Weather Station (AWS) dan Automatic Rain Gauge (ARG) merekam hujan lokal yang kemudian diasimilasi ke model numerik WRF untuk prakiraan 3 harian.
 
@@ -51,4 +51,4 @@ Inovasi terbaru adalah sensor murah berbasis IoT: sensor tinggi muka air berbasi
 
 Tantangan utama bukan pada kecanggihan alat, melainkan pada perawatan, kalibrasi, dan keberlanjutan daya di lokasi terpencil. Sensor yang mati karena baterai habis sama berbahayanya dengan tidak ada sensor sama sekali. Oleh karena itu, setiap pemasangan harus disertai skema pemeliharaan dan redundansi komunikasi.
 
-Sebagai penutup, teknologi tidak menggantikan kearifan. Sensor memberi angka, namun keputusan evakuasi tetap membutuhkan konteks lokal dan kepercayaan komunitas.
+Sebagai penutup, teknologi tidak menggantikan kearifan. Sensor memberi angka, tetapi keputusan evakuasi tetap membutuhkan konteks lokal dan kepercayaan komunitas.

@@ -50,7 +50,7 @@ Elemen kunci:
 * **Bahasa dan format lokal**. Gunakan bahasa daerah dan simbol visual untuk wilayah literasi terbatas.
 * **Kepercayaan sumber**. Warga lebih patuh pada kepala desa atau relawan yang dikenal.
 
-Di Filipina, peringatan siklon dari PAGASA disederhanakan menjadi kode warna per dusun dan disebar via radio. Model serupa ada di lereng Merapi, di mana HT dan kentongan menjadi cadangan saat listrik padam. Ukur keberhasilan bukan dari jumlah SMS terkirim, tapi dari *waktu tiba pesan* dan *persentase warga yang tahu tindakan yang harus dilakukan*.
+Di Filipina, peringatan siklon dari PAGASA disederhanakan menjadi kode warna per dusun dan disebar via radio. Model serupa ada di lereng Merapi, tempat HT dan kentongan menjadi cadangan saat listrik padam. Ukur keberhasilan bukan dari jumlah SMS terkirim, tapi dari *waktu tiba pesan* dan *persentase warga yang tahu tindakan yang harus dilakukan*.
 
 ### 4. Kapasitas Respons (*Response Capability*)
 
