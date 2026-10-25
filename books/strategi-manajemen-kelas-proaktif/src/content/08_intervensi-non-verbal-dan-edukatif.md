@@ -4,7 +4,7 @@ Pernahkah kamu sedang menjelaskan bagian materi yang penting, tepat saat siswa m
 
 Seketika, momentum itu hilang. Alur berpikir kelas terputus, dan kamu butuh waktu ekstra untuk mengembalikan fokus mereka. Inilah yang kita sebut sebagai "biaya gangguan" (*interruptive cost*).
 
-Intervensi non-verbal adalah solusi untuk meminimalisir biaya tersebut. Tujuannya sederhana: **menghentikan gangguan ringan sambil menjaga alur pembelajaran tetap mengalir.**
+Intervensi non-verbal adalah solusi untuk meminimalkan biaya tersebut. Tujuannya sederhana: **menghentikan gangguan ringan sambil menjaga alur pembelajaran tetap mengalir.**
 
 ### Konduktor Orkestra di Kelas
 
@@ -12,7 +12,7 @@ Bayangkan seorang konduktor orkestra. Saat seorang pemain biola sedikit melencen
 
 Dalam manajemen kelas, kamu adalah konduktornya. Intervensi non-verbal memungkinkan kamu melakukan koreksi tanpa harus menjadi "polisi" yang menghentikan pelajaran.
 
-### Hirarki Intervensi Rendah Gangguan (Low-Profile Intervention)
+### Hierarki Intervensi Rendah Gangguan (Low-Profile Intervention)
 
 Kita menggunakan pendekatan progresif. Mulailah dari yang paling halus sebelum bergerak ke intervensi yang lebih kentara.
 
@@ -28,7 +28,7 @@ Kontak mata adalah alat yang kuat namun sering diremehkan.
 Siswa cenderung berperilaku lebih baik saat guru berada di dekat mereka.
 
 - **Mengajar Sambil Berjalan:** Jangan terpaku di depan kelas. Bergeraklah ke arah siswa yang mulai terdistraksi sambil tetap melanjutkan penjelasan kamu.
-- **Kehadiran Fisik:** Berdiri di samping meja siswa yang mengobrol seringkali cukup untuk membuat mereka berhenti tanpa kamu perlu mengucapkan sepatah kata.
+- **Kehadiran Fisik:** Berdiri di samping meja siswa yang mengobrol sering kali cukup untuk membuat mereka berhenti tanpa kamu perlu mengucapkan sepatah kata.
 
 #### 3. Sinyal Tangan dan Gestur
 
@@ -64,7 +64,7 @@ Mari kita lihat perbandingan antara pendekatan reaktif tradisional dan intervens
 | --- | --- |
 | **Guru berhenti bicara.** "Rian! Bisa diam tidak? Hargai saya yang sedang menjelaskan!" | **Guru terus menjelaskan.** Sambil berkata "Jika jari-jarinya 7, maka...", guru berjalan perlahan menuju meja Rian. |
 | **Dampak:** Alur kelas berhenti. Siswa lain terdistraksi. Rian merasa malu dan mungkin membantah, memicu konflik. | **Dampak:** Rian berhenti bicara karena guru berada tepat di sampingnya. Alur penjelasan terjaga. |
-| **Hasil:** Waktu terbuang 2-3 menit. | **Hasil:** Waktu terbuang 0 menit. |
+| **Hasil:** Waktu terbuang 2-3 menit. | **Hasil:** Hampir tidak ada waktu yang terbuang. |
 
 ### Menjaga Alur Pembelajaran (The Continuity Principle)
 
@@ -89,8 +89,8 @@ Berikut adalah langkah-langkah praktis yang bisa kamu terapkan mulai besok:
 
 1. **Tetapkan Sinyal Non-Verbal:** Di awal semester, beri tahu siswa: *"Jika saya mengetuk meja kalian, itu tandanya kalian harus kembali fokus. Jika saya mengangkat tangan, itu tandanya saya butuh perhatian penuh tanpa suara."*
 2. **Gunakan Alat Bantu Visual:** Gunakan lampu lalu lintas (gambar merah, kuning, hijau) di papan tulis untuk menunjukkan level kebisingan yang diperbolehkan. Tunjuk ke arah warna tersebut tanpa bicara jika kelas mulai bising.
-3. **Latihan "Scan" 5 Menit:** Setiap 5 menit, paksa diri kamu untuk berhenti melihat buku atau papan tulis, dan pindai seluruh mata siswa di kelas.
+3. **Latihan "Scan" 5 Menit:** Setiap 5 menit, paksa diri kamu untuk berhenti melihat buku atau papan tulis, dan pindai wajah seluruh siswa di kelas.
 
 *Pertimbangkan hal berikut: Jika kamu bisa menghentikan gangguan tanpa mengeluarkan satu kata pun, berapa banyak energi dan emosi yang bisa kamu simpan hingga jam terakhir sekolah?*
 
-**Pesan Penting:** Intervensi non-verbal bukan tentang intimidasi, melainkan tentang **efisiensi dan rasa hormat**. Dengan meminimalisir teguran publik, kamu membangun hubungan yang lebih aman dan profesional dengan siswa kamu.
+**Pesan Penting:** Intervensi non-verbal bukan tentang intimidasi, melainkan tentang **efisiensi dan rasa hormat**. Dengan meminimalkan teguran publik, kamu membangun hubungan yang lebih aman dan profesional dengan siswa kamu.

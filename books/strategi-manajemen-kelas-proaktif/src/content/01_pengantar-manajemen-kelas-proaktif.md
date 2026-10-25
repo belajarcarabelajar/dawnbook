@@ -6,7 +6,7 @@ Apakah ini hanya mimpi? Tentu tidak. Inilah yang menjadi inti dari **Manajemen K
 
 ## 1. Dari "Pemadam Kebakaran" Menjadi "Arsitek"
 
-Kebanyakan guru pemula terjebak dalam peran sebagai **pemadam kebakaran**. Mereka berkeliling kelas hanya untuk memadamkan "api" perilaku buruk yang muncul secara tiba-tiba. Pendekatan ini melelahkan, membuat stres, dan seringkali tidak efektif dalam jangka panjang.
+Kebanyakan guru pemula terjebak dalam peran sebagai **pemadam kebakaran**. Mereka berkeliling kelas hanya untuk memadamkan "api" perilaku buruk yang muncul secara tiba-tiba. Pendekatan ini melelahkan, membuat stres, dan sering kali tidak efektif dalam jangka panjang.
 
 **Manajemen Kelas Proaktif** menggeser peran kamu dari pemadam kebakaran menjadi seorang **Arsitek Lingkungan Belajar**.
 
@@ -23,7 +23,7 @@ Secara filosofis, pendekatan ini berakar pada keyakinan bahwa:
 Bayangkan kamu sedang membangun sebuah gedung.
 
 - **Pendekatan Reaktif** adalah membiarkan gedung dibangun sembarangan, lalu sibuk memadamkan api saat terjadi korsleting listrik.
-- **Pendekatan Proaktif** adalah memasang sistem kabel yang standar, alarm asap, dan jalur evakuasi sejak awal. kamu memastikan "kebakaran" kecil sekalipun tidak akan menghanguskan seluruh gedung.
+- **Pendekatan Proaktif** adalah memasang sistem kabel yang standar, alarm asap, dan jalur evakuasi sejak awal. Kamu memastikan "kebakaran" kecil sekalipun tidak akan menghanguskan seluruh gedung.
 
 ## 2. Proaktif vs. Reaktif
 
@@ -34,7 +34,7 @@ Untuk memahami manajemen proaktif, kita harus melihat perbandingannya dengan man
 | **Fokus Utama** | Menanggapi masalah setelah terjadi. | Mencegah masalah sebelum terjadi. |
 | **Tujuan** | Kepatuhan melalui konsekuensi/hukuman. | Keterlibatan melalui struktur dan hubungan. |
 | **Suasana Kelas** | Tegang, tidak terduga, dan penuh interupsi. | Tenang, terorganisir, dan mengalir. |
-| **Respon Guru** | Emosional dan mendadak. | Terencana dan terukur. |
+| **Respons Guru** | Emosional dan mendadak. | Terencana dan terukur. |
 | **Pandangan terhadap Siswa** | Siswa dianggap sebagai sumber masalah. | Siswa dianggap sebagai mitra dalam belajar. |
 
 *Pertimbangkan hal berikut: Coba ingat kembali pengalaman mengajar kamu dalam seminggu terakhir. Berapa persen waktu kamu dihabiskan untuk "memadamkan api" perilaku dan berapa persen untuk benar-benar mengajar?*
@@ -65,7 +65,7 @@ Mengapa kamu harus meluangkan waktu ekstra di awal tahun ajaran untuk merancang 
 1. **Meningkatkan Waktu Belajar Efektif (Academic Learning Time):** Setiap menit yang tidak digunakan untuk mendisiplinkan siswa adalah menit tambahan untuk eksplorasi materi.
 2. **Mengurangi Burnout Guru:** Guru yang proaktif merasa lebih memegang kendali dan memiliki tingkat stres yang lebih rendah karena mereka tidak terus-menerus berada dalam mode "siaga darurat".
 3. **Membangun Kemandirian Siswa:** Dalam lingkungan yang proaktif, siswa tahu persis apa yang diharapkan dari mereka. Ini membantu mereka mengembangkan keterampilan regulasi diri.
-4. **Keamanan Psikologis:** Siswa merasa lebih aman di kelas yang prediktif (mudah ditebak). Ketika siswa merasa aman, amigdala mereka tetap tenang, memberi ruang bagi korteks prefrontal untuk berpikir kritis.
+4. **Keamanan Psikologis:** Siswa merasa lebih aman di kelas yang dapat diprediksi (mudah ditebak). Ketika siswa merasa aman, amigdala mereka tetap tenang, memberi ruang bagi korteks prefrontal untuk berpikir kritis.
 
 ## 5. Transisi Kelas Menuju Area Diskusi
 
@@ -77,7 +77,7 @@ Mari kita lihat perbedaan penerapan kedua pendekatan ini dalam situasi nyata.
 
 **Pendekatan Proaktif:**
 
-1. **Persiapan:** Sebelum menyuruh siswa bergerak, Guru memberikan instruksi jelas: *"Dalam hitungan tiga, kita akan pindah ke karpet. Siapa yang ingat cara berjalan 'ninja' yang tidak bersuara?"*
+1. **Persiapan:** Sebelum menyuruh siswa bergerak, guru memberikan instruksi jelas: *"Dalam hitungan tiga, kita akan pindah ke karpet. Siapa yang ingat cara berjalan 'ninja' yang tidak bersuara?"*
 2. **Visualisasi:** Guru menunjukkan area karpet yang sudah ditandai nomor.
 3. **Prosedur:** Guru memberikan aba-aba langkah demi langkah. *"Baris pertama silakan berdiri... jalan dengan tenang... duduk."*
 4. **Hasil:** Transisi selesai dalam 45 detik tanpa ketegangan.
@@ -92,6 +92,6 @@ Sebelum kita menyelami detail teknis pada bagian-bagian selanjutnya, mulailah de
 
 **Penting:** Manajemen kelas proaktif bukanlah tentang menjadi "guru yang kaku". Sebaliknya, struktur yang jelas memberikan kebebasan bagi siswa untuk berkreasi dalam batas-batas yang aman dan produktif.
 
-> **Insight Utama:** Manajemen kelas yang baik seringkali tidak terlihat. Ketika seorang guru proaktif, kelas tampak berjalan secara otomatis, seolah-olah "tidak ada manajemen" yang terjadi.
+> **Insight Utama:** Manajemen kelas yang baik sering kali tidak terlihat. Ketika seorang guru proaktif, kelas tampak berjalan secara otomatis, seolah-olah "tidak ada manajemen" yang terjadi.
 
-*Pada bagian selanjutnya, kita akan membedah bagaimana pengaturan lingkungan fisik kelas secara geometris dapat mempengaruhi perilaku siswa secara psikologis. Siap untuk menjadi Arsitek Kelas kamu?*
+*Pada bagian selanjutnya, kita akan membedah bagaimana pengaturan lingkungan fisik kelas secara geometris dapat memengaruhi perilaku siswa secara psikologis. Siap untuk menjadi Arsitek Kelas kamu?*

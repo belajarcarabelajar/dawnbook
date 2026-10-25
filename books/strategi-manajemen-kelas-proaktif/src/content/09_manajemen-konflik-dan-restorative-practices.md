@@ -1,6 +1,6 @@
 ## Manajemen Konflik dan Restorative Practices
 
-Konflik di dalam kelas seringkali dianggap sebagai gangguan yang harus segera "dihilangkan" dengan hukuman. Namun, dalam manajemen kelas proaktif, konflik dipandang sebagai **peluang pembelajaran sosial-emosional**. *Restorative Practices* (Praktik Restoratif) adalah sebuah pergeseran paradigma dari bertanya "Aturan apa yang dilanggar?" menjadi "Siapa yang dirugikan dan bagaimana kita memperbaikinya?"
+Konflik di dalam kelas sering kali dianggap sebagai gangguan yang harus segera "dihilangkan" dengan hukuman. Namun, dalam manajemen kelas proaktif, konflik dipandang sebagai **peluang pembelajaran sosial-emosional**. *Restorative Practices* (Praktik Restoratif) adalah sebuah pergeseran paradigma dari bertanya "Aturan apa yang dilanggar?" menjadi "Siapa yang dirugikan dan bagaimana kita memperbaikinya?"
 
 Tujuan utama kita bukan sekadar menghentikan keributan, melainkan memulihkan hubungan dan memastikan setiap individu belajar bertanggung jawab atas tindakan mereka.
 
@@ -52,14 +52,14 @@ Ini adalah bentuk paling sederhana, yaitu mengungkapkan perasaan kamu atau dampa
 
 #### B. Diskusi Restoratif Impromptu
 
-Percakapan singkat di koridor atau di pojok kelas segera setelah konflik ringan terjadi, menggunakan "Lima Pertanyaan Ajaib" di atas.
+Percakapan singkat di koridor atau di pojok kelas segera setelah konflik ringan terjadi, menggunakan "Lima Pertanyaan Restoratif" di atas.
 
 #### C. Lingkaran Restoratif (Restorative Circles)
 
 Pertemuan seluruh atau sebagian kelas untuk membahas masalah yang berdampak luas.
 
 - **Check-in Circle:** Membangun koneksi sebelum ada masalah.
-- **Problem-Solving Circle:** Digunakan ketika ada ketegangan antar kelompok di kelas.
+- **Problem-Solving Circle:** Digunakan ketika ada ketegangan antarkelompok di kelas.
 
 #### D. Konferensi Formal
 
@@ -67,7 +67,7 @@ Pertemuan terstruktur yang melibatkan siswa, guru, dan kadang orang tua untuk ma
 
 ### 4. Implementasi Langkah demi Langkah
 
-Jika terjadi konflik antar dua siswa (misal: Siswa A mengejek Siswa B hingga Siswa B menangis), ikuti alur ini:
+Jika terjadi konflik antara dua siswa (misal: Siswa A mengejek Siswa B hingga Siswa B menangis), ikuti alur ini:
 
 1. **Regulasi Emosi:** Pastikan kedua pihak sudah tenang. Kita tidak bisa berdiskusi secara restoratif saat otak sedang dalam mode "fight or flight".
 2. **Berbagi Perspektif:** Biarkan masing-masing bercerita tanpa interupsi. Gunakan pertanyaan restoratif.
@@ -81,7 +81,7 @@ Jika terjadi konflik antar dua siswa (misal: Siswa A mengejek Siswa B hingga Sis
 	  </div>
 
 4. **Kesepakatan Perbaikan (Restitution):** Biarkan siswa mengusulkan cara memperbaiki keadaan.
-	- *Bukan sekadar minta maaf:* "Minta maaf" seringkali hanya kata-kata. "Memperbaiki" bisa berarti menghapus coretan, mengganti barang yang rusak, atau melakukan tindakan baik untuk menebus kesalahan.
+	- *Bukan sekadar minta maaf:* "Minta maaf" sering kali hanya kata-kata. "Memperbaiki" bisa berarti menghapus coretan, mengganti barang yang rusak, atau melakukan tindakan baik untuk menebus kesalahan.
 5. **Tindak Lanjut:** Periksa beberapa hari kemudian apakah hubungan mereka sudah membaik.
 
 Urutan kelima langkah tersebut dapat kamu ikuti pada bagan di bawah.

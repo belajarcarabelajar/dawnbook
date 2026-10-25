@@ -8,7 +8,7 @@ Bayangkan sebuah kelas seperti sebuah konser musik. Jika penonton hanya duduk di
 
 ## 1. Memahami Hubungan Antara Keterlibatan dan Perilaku
 
-Dalam manajemen kelas, terdapat sebuah korelasi kuat antara tingkat partisipasi dengan probabilitas terjadinya gangguan. Kita dapat menggambarkannya dalam sebuah model sederhana:
+Dalam manajemen kelas, terdapat sebuah korelasi kuat antara tingkat partisipasi dan probabilitas terjadinya gangguan. Kita dapat menggambarkannya dalam sebuah model sederhana:
 
 <div>
 $$
@@ -16,7 +16,7 @@ P(G) = \frac{1}{E \times K}
 $$
 </div>
 
-Di mana:
+Keterangan:
 
 - $P(G)$ adalah Probabilitas Gangguan.
 - $E$ adalah *Engagement* (Keterlibatan).
@@ -26,7 +26,7 @@ Semakin tinggi keterlibatan siswa, semakin rendah peluang terjadinya perilaku ya
 
 ## 2. Teknik Partisipasi Total (Total Participation Techniques)
 
-Seringkali guru terjebak dalam pola interaksi "satu-ke-satu" (Guru bertanya, satu siswa menjawab, tiga puluh lainnya pasif). Untuk meminimalisir peluang distraksi, kita perlu menggunakan teknik yang melibatkan seluruh siswa secara simultan.
+Sering kali guru terjebak dalam pola interaksi "satu-ke-satu" (Guru bertanya, satu siswa menjawab, tiga puluh lainnya pasif). Untuk meminimalkan peluang distraksi, kita perlu menggunakan teknik yang melibatkan seluruh siswa secara simultan.
 
 ### A. Think-Pair-Share (Berpikir-Berpasangan-Berbagi)
 
@@ -108,7 +108,7 @@ Agar keterlibatan bersifat inklusif, gunakan pendekatan yang mengakomodasi berba
 | Gaya Belajar | Teknik Keterlibatan |
 | --- | --- |
 | **Visual** | Penggunaan peta konsep, infografis, dan video simulasi. |
-| **Auditori** | Diskusi panel, debat socratic, dan merekam penjelasan verbal. |
+| **Auditori** | Diskusi panel, debat Sokratik, dan merekam penjelasan verbal. |
 | **Kinestetik** | *Gallery Walk* (berjalan keliling kelas untuk mengamati karya teman), simulasi fisik, dan penggunaan alat peraga. |
 | **Membaca/Menulis** | Jurnal refleksi, membuat anotasi pada teks, dan menulis surat dari perspektif tokoh sejarah. |
 

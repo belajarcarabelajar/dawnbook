@@ -31,7 +31,7 @@ Kumpulkan semua ide dan kelompokkan ke dalam tema besar. Biasanya, ide-ide siswa
 3. Hormat terhadap lingkungan/barang.
 4. Hormat terhadap diri sendiri.
 
-### 3. Mengubah Nilai Menjadi Perilaku Konkrit
+### 3. Mengubah Nilai Menjadi Perilaku Konkret
 
 Nilai "Saling Menghormati" terlalu abstrak bagi beberapa siswa. Kita perlu menurunkannya menjadi perilaku yang bisa diamati. Gunakan rumus sederhana ini:
 
@@ -55,7 +55,7 @@ Agar kontrak sosial tidak hanya menjadi hiasan dinding, ia harus diintegrasikan 
 ### Strategi Visual dan Auditif
 
 - **Poster Kontrak Sosial:** Pajang di tempat yang paling mudah dilihat. Gunakan ikon atau gambar untuk siswa yang lebih muda.
-- **Bahasa Isyarat Kesepakatan:** Gunakan sinyal tangan non-verbal yang disepakati untuk mengingatkan norma tanpa memutus alur penjelasan (misal: mengangkat dua jari untuk mengingatkan agar kembali fokus).
+- **Bahasa Isyarat Kesepakatan:** Gunakan sinyal tangan nonverbal yang disepakati untuk mengingatkan norma tanpa memutus alur penjelasan (misal: mengangkat dua jari untuk mengingatkan agar kembali fokus).
 
 ### Logika Konsekuensi vs. Hukuman
 
@@ -103,6 +103,6 @@ Sebagai contoh, kontrak yang sudah jadi bisa disusun dengan rapi dalam tiga bagi
 | Berbicara bergantian | Menghargai ide setiap orang |
 | Mengembalikan barang pada tempatnya | Memudahkan pengguna berikutnya |
 
-**Akuntabilitas:** diskusi restoratif jika terjadi ketidakkonsistenan.
+**Akuntabilitas:** diskusi restoratif jika terjadi pelanggaran kesepakatan.
 
 *Pikirkan tentang ini: Jika besok pagi kamu masuk ke kelas dan semua aturan tertulis di dinding menghilang, apakah siswa kamu tetap akan berperilaku baik karena mereka menghargai komunitasnya, atau kelas akan menjadi kacau? Jawaban kamu menentukan seberapa kuat norma yang telah kamu bangun.*
