@@ -1,6 +1,6 @@
 ## Pengantar Perubahan Makna Kata
 
-Perubahan makna kata mencerminkan perubahan masyarakat melalui pergeseran nilai rasa, fungsi sosial, dan konteks penggunaan bahasa dari masa ke masa. Fenomena ini terlihat jelas ketika kata "bapak", yang mulanya bermakna hubungan kekerabatan biologis, meluas menjadi sebutan penghormatan bagi pria yang lebih tua atau berkedudukan tinggi. Demikian pula kata "pelayan" yang dalam konteks niaga modern kerap digantikan oleh istilah "pramuniaga" demi memberikan kesan yang lebih profesional.
+Perubahan makna kata mencerminkan perubahan masyarakat melalui pergeseran nilai rasa, fungsi sosial, dan konteks penggunaan bahasa dari masa ke masa. Fenomena ini terlihat jelas ketika kata "bapak", yang mulanya bermakna hubungan kekerabatan biologis, meluas menjadi sebutan penghormatan bagi pria yang lebih tua atau berkedudukan tinggi. Demikian pula kata "pelayan toko" yang dalam konteks niaga modern kerap digantikan oleh istilah "pramuniaga" demi memberikan kesan yang lebih profesional.
 
 Semantik sebagai cabang linguistik membedah bagaimana bahasa bekerja bukan sebagai struktur yang kaku, melainkan sebagai sistem dinamis yang terus bertransformasi seiring perkembangan masyarakat penuturnya.
 
@@ -18,7 +18,7 @@ Hubungan antara simbol kebahasaan dan referen bersifat arbitrer atau manasuka. T
 
 ### Hakikat Perubahan Makna
 
-Perubahan makna merupakan proses evolusi semantis pada kosakata, sehingga makna yang dipahami pada era kontemporer dapat berbeda jauh dari makna aslinya pada masa lampau. Kajian terhadap fenomena ini ditinjau secara diakronis, yakni menelusuri perkembangan bahasa dalam lintasan waktu historis yang panjang.
+Perubahan makna merupakan proses evolusi semantis pada kosakata, sehingga makna yang dipahami pada era kontemporer dapat berbeda jauh dari makna aslinya pada masa lampau. Fenomena ini dikaji secara diakronis, yakni menelusuri perkembangan bahasa dalam lintasan waktu historis yang panjang.
 
 #### Analogi Nilai Tukar Kata
 

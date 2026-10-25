@@ -10,7 +10,7 @@ Bahasa memiliki fleksibilitas tinggi yang memungkinkan struktur dan maknanya dia
 
 > Rekayasa bahasa merupakan upaya sistematis untuk merekonstruksi asosiasi emosional dan kognitif masyarakat terhadap kata tertentu demi melayani kepentingan ideologis atau politis.
 
-Bahasa dapat dianalogikan seperti lensa penyaring visual. Melalui penggantian lensa tersebut, fenomena yang sama dapat ditampilkan lebih menarik dan dapat diterima (ameliorasi) atau digambarkan penuh ancaman dan penolakan (pejorasi), tanpa mengubah fakta material yang mendasarinya.
+Bahasa dapat dianalogikan dengan lensa penyaring visual. Melalui penggantian lensa tersebut, fenomena yang sama dapat ditampilkan lebih menarik dan dapat diterima (ameliorasi) atau digambarkan penuh ancaman dan penolakan (pejorasi), tanpa mengubah fakta material yang mendasarinya.
 
 #### Model Relasi Pergeseran Makna Politis
 
@@ -37,7 +37,7 @@ Dalam wacana kekuasaan, ameliorasi diterapkan untuk membungkus kenyataan sosioek
 | **Kenaikan Harga** | Penyesuaian Harga | Memberi impresi prosedur teknis yang wajar, terukur, dan berimbang. |
 | **Pemutusan Hubungan Kerja (PHK)** | Dirumahkan | Mengurangi beban psikologis kehilangan mata pencaharian menjadi status jeda sementara. |
 | **Keluarga Miskin** | Keluarga Prasejahtera | Mengalihkan fokus dari kegagalan struktural menuju fase persiapan kesejahteraan. |
-| **Penggusuran** | Penataan Pemukiman | Menghapus konotasi kekerasan ruang dan menampilkan kesan perbaikan tata kota. |
+| **Penggusuran** | Penataan Permukiman | Menghapus konotasi kekerasan ruang dan menampilkan kesan perbaikan tata kota. |
 
 Perubahan sebutan dari kata 'miskin' menjadi 'prasejahtera' tidak serta-merta meningkatkan daya beli masyarakat. Perubahan leksikal ini lebih berperan dalam menata kenyamanan psikologis penutur dan audiens ketika mendiskusikan ketimpangan ekonomi.
 
@@ -51,7 +51,7 @@ Mekanisme operasional pejorasi dalam wacana kekuasaan mencakup:
 2. **Generalisasi Semantik:** Memperluas cakupan istilah pejoratif ke seluruh anggota kelompok tanpa pembedaan.
 3. **Dehumanisasi:** Memakai leksikon yang merendahkan martabat kemanusiaan agar tindakan represif dipandang lumrah.
 
-Sebagai contoh historis, kata "aktivis" atau "mahasiswa kritis" dalam periode politik tertentu pernah diberi muatan makna negatif sebagai "pengacau ketertiban" atau "antikeberlanjutan". Pemaknaan ulang ini mempermudah aparatur negara meredam kritik publik atas dasar pemeliharaan ketertiban umum.
+Sebagai contoh historis, kata "aktivis" atau "mahasiswa kritis" dalam periode politik tertentu pernah diberi muatan makna negatif sebagai "pengacau ketertiban". Pemaknaan ulang ini mempermudah aparatur negara meredam kritik publik atas dasar pemeliharaan ketertiban umum.
 
 ### 4. Analisis Wacana Media Massa
 

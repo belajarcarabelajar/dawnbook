@@ -19,7 +19,7 @@ Pelacakan sejarah leksikal bertumpu pada metodologi ilmiah yang sistematis untuk
 Langkah awal dalam kajian diakronis berfokus pada penemuan bukti tertulis tertua melalui sumber-sumber primer:
 
 - **Prasasti dan Manuskrip Klasik:** Mengidentifikasi penggunaan leksikon dalam teks kuno, seperti naskah *Adiparwa* pada era Jawa Kuno atau *Hikayat Raja-Raja Pasai* dalam tradisi Melayu Klasik.
-- **Kamus Etimologi:** Memetakan akar kata ke rumpun bahasa proto, seperti Sanskerta, Arab, Portugis, Belanda, atau Austronesia.
+- **Kamus Etimologi:** Memetakan akar kata ke bahasa sumber atau rumpun bahasanya, seperti Sanskerta, Arab, Portugis, Belanda, atau Austronesia.
 
 #### B. Perbandingan Konteks Lintas Abad (Kontekstualisasi)
 

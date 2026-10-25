@@ -34,7 +34,7 @@ Perubahan nilai rasa leksikal selalu berpijak pada dinamika sosiokultural masyar
 
 ### 3. Perbandingan Ameliorasi dan Eufemisme
 
-Ameliorasi dan eufemisme sama-sama berkenaan dengan kehalusan berbahasa, namun keduanya memiliki perbedaan mendasar dari sudut pandang linguistik historis:
+Ameliorasi dan eufemisme sama-sama berkenaan dengan kehalusan berbahasa, tetapi keduanya memiliki perbedaan mendasar dari sudut pandang linguistik historis:
 
 | Dimensi | Ameliorasi | Eufemisme |
 | :--- | :--- | :--- |

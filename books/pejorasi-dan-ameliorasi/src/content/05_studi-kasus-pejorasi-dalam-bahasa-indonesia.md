@@ -10,11 +10,11 @@ Kata **"oknum"** merupakan contoh klasik dari pejorasi dalam bahasa Indonesia mo
 
 #### Asal-Usul dan Makna Asli
 
-Dalam Kamus Besar Bahasa Indonesia (KBBI), lema *oknum* memiliki makna dasar yang sepenuhnya netral:
+Dalam Kamus Besar Bahasa Indonesia (KBBI), lema *oknum* memiliki makna dasar yang netral, sedangkan makna ketiganya bernilai kurang baik:
 
-1. Penyelenggara (dalam konteks teologi tertentu).
+1. Penyebut diri Tuhan dalam agama Katolik.
 2. Orang seorang; perseorangan; pribadi.
-3. Anasir atau unsur pembentuk.
+3. Orang atau anasir (dengan arti yang kurang baik).
 
 Secara teknis linguistik, *oknum* merujuk pada unit individu. Pada konteks dokumen hukum lama dan literatur formal, kata ini digunakan secara murni untuk menyebut pribadi tanpa muatan prasangka buruk.
 
@@ -45,7 +45,7 @@ Setelah era kemerdekaan Indonesia, narasi resmi negara dan pemberitaan surat kab
 
 #### Makna Saat Ini
 
-Penggunaan kata *gerombolan* pada masa kini bermuatan peyoratif kuat dan dipandang sebagai bentuk delegitimasi terhadap kelompok tertentu.
+Penggunaan kata *gerombolan* pada masa kini bermuatan pejoratif kuat dan dipandang sebagai bentuk delegitimasi terhadap kelompok tertentu.
 
 * **Kelompok:** Bermakna netral hingga positif, mengindikasikan struktur yang tertata.
 * **Gerombolan:** Bermakna pejoratif, mencerminkan kawanan kacau, berbahaya, liar, atau tidak sah.
@@ -60,7 +60,7 @@ Di samping kata *oknum* dan *gerombolan*, beberapa leksikon lain dalam bahasa In
 | :--- | :--- | :--- |
 | **Kaki Tangan** | Pembantu tepercaya atau asisten yang sangat diandalkan (netral). | Orang yang membantu pihak lain melakukan kejahatan (komplotan kriminal). |
 | **Antek** | Pengikut setia atau anak buah (netral). | Pengikut yang menjadi kepanjangan tangan pihak musuh atau asing (sangat negatif). |
-| **Bini** | Kata formal dan wajar untuk menyebut pasangan wanita (istri). | Dianggap kasar atau bernilai rasa rendah dibandingkan sebutan *istri*. |
+| **Bini** | Kata yang wajar untuk menyebut pasangan wanita (istri). | Dianggap kasar atau bernilai rasa rendah dibandingkan sebutan *istri*. |
 
 ### Penerapan Praktis dalam Komunikasi
 

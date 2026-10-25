@@ -31,7 +31,7 @@ Keterangan parameter:
 
 ### 2. Dinamika Semantik di Era Digital
 
-Pada era pra-internet, evolusi makna kata umumnya memerlukan proses diakronis yang berlangsung puluhan hingga ratusan tahun. Sebaliknya, ekosistem digital mempercepat pergeseran semantik hingga dapat berlangsung dalam hitungan bulan atau pekan.
+Pada era prainternet, evolusi makna kata umumnya memerlukan proses diakronis yang berlangsung puluhan hingga ratusan tahun. Sebaliknya, ekosistem digital mempercepat pergeseran semantik hingga dapat berlangsung dalam hitungan bulan atau pekan.
 
 #### Fenomena Algospeak dan Eufemisme Algoritmik
 
@@ -63,11 +63,11 @@ Algoritma pemrosesan bahasa alami (*Natural Language Processing*) yang bertugas 
 
 Kelompok marjinal diproyeksikan akan semakin aktif mengambil alih istilah pejoratif yang semula digunakan untuk mendiskreditkan mereka, lalu mentransformasikannya menjadi lambang solidaritas dan emansipasi (ameliorasi strategis).
 
-*Pertanyaan Reflektif: Apakah terdapat leksikon yang saat ini berkonotasi pejoratif, namun berpotensi mengalami ameliorasi menjadi istilah populer dan prestisius pada dekade mendatang?*
+*Pertanyaan Reflektif: Apakah terdapat kata yang saat ini berkonotasi pejoratif, namun berpotensi mengalami ameliorasi menjadi istilah populer dan prestisius pada dekade mendatang?*
 
 ### 4. Penerapan dalam Rekayasa Pemrosesan Bahasa Alami
 
-Dalam bidang data science dan komputasi linguistik, pemahaman mengenai dinamika pejorasi dan ameliorasi memegang peranan penting dalam perancangan model analisis sentimen yang akurat.
+Dalam bidang *data science* dan komputasi linguistik, pemahaman mengenai dinamika pejorasi dan ameliorasi memegang peranan penting dalam perancangan model analisis sentimen yang akurat.
 
 Sebagai ilustrasi yang disederhanakan, ambil lema seperti *anjay* yang memiliki polaritas ganda tergantung konteks. Nilai rasanya dapat ditebak dari kata kunci lain yang muncul dalam kalimat yang sama:
 

@@ -28,7 +28,7 @@ Keterangan:
 
 ### 2. Kendaraan yang Berkarat
 
-Untuk memahami mekanisme pejorasi, proses ini dapat dianalogikan seperti kendaraan baru yang baru keluar dari pabrik. Pada fase awal, kendaraan tersebut berkilau, bernilai ekonomis tinggi, dan dipandang sebagai simbol prestise (makna asal yang netral atau positif). Namun seiring berjalannya waktu, kendaraan tersebut tidak terawat, digunakan mengangkut limbah secara terus-menerus, hingga akhirnya berkarat dan berakhir di tempat pembuangan rongsokan.
+Untuk memahami mekanisme pejorasi, proses ini dapat dianalogikan seperti kendaraan baru yang baru keluar dari pabrik. Pada fase awal, kendaraan tersebut berkilau, bernilai ekonomis tinggi, dan dipandang sebagai simbol prestise (makna asal yang netral atau positif). Namun, seiring berjalannya waktu, kendaraan tersebut tidak terawat, digunakan mengangkut limbah secara terus-menerus, hingga akhirnya berkarat dan berakhir di tempat pembuangan rongsokan.
 
 Setelah mengalami korosi, pandangan publik terhadap objek tersebut berubah total dari simbol kemewahan menjadi barang buangan (makna pejoratif). Kosakata dalam bahasa manusia mengalami lintasan serupa; kata dapat berkarat akibat akumulasi asosiasi sosial dan frekuensi pemakaian dalam konteks yang merendahkan.
 
@@ -38,20 +38,20 @@ Pejorasi tidak terjadi secara instan, melainkan berlangsung bertahap dalam kurun
 
 1. **Asosiasi Kontekstual Negatif**: Leksem yang terus-menerus dilekatkan pada kondisi buruk, pelaku kriminal, atau kelompok yang dimarjinalkan akan menyerap stigma lingkungan tersebut.
 2. **Pergeseran Standar Etika dan Nilai Sosial**: Nilai kesopanan masyarakat yang berkembang membuat istilah-istilah yang dahulu lumrah dinilai terlalu vulgar atau melanggar kesantunan.
-3. **Penggunaan Sarkasme dan Ironi**: Pemakaian kata-kata bernada positif secara berulang untuk menyindir atau mengejek lambat laun melunturkan makna aslinya hingga hanya menyisakan nuansa peyoratif.
+3. **Penggunaan Sarkasme dan Ironi**: Pemakaian kata-kata bernada positif secara berulang untuk menyindir atau mengejek lambat laun melunturkan makna aslinya hingga hanya menyisakan nuansa pejoratif.
 
 ### 4. Karakteristik Leksem yang Mengalami Pejorasi
 
-Identifikasi terhadap leksem yang telah terdegradasi secara semantik dapat dikenali melalui beberapa indikator linguistik:
+Leksem yang telah terdegradasi secara semantik dapat dikenali melalui beberapa indikator linguistik:
 
-- **Pergeseran Konotasi Tanpa Mengubah Denotasi Dasar**: Definisi objektif dalam kamus kerap masih merujuk pada referen yang sama, namun muatan emotif yang menyertainya telah berubah menjadi negatif.
+- **Pergeseran Konotasi Tanpa Mengubah Denotasi Dasar**: Definisi objektif dalam kamus kerap masih merujuk pada referen yang sama, tetapi muatan emotif yang menyertainya telah berubah menjadi negatif.
 - **Transisi Menjadi Bahan Umpatan atau Olok-Olok**: Leksem mulai kerap difungsikan sebagai label stigmatisasi dalam percakapan informal.
 - **Penyusutan Ranah Formal**: Kata yang mengalami pejorasi perlahan ditinggalkan dalam forum resmi, naskah akademik, dan pidato kenegaraan karena dinilai mencederai asas kesantunan berbahasa.
 
 | Leksem | Nilai Rasa Historis | Makna Pejoratif Saat Ini | Ranah Penggunaan Modern |
 | :--- | :--- | :--- | :--- |
 | **Gerombolan** | Netral (sekadar kawanan atau rombongan) | Negatif (kelompok perusuh atau pengacau) | Dihindari untuk kelompok resmi |
-| **Bunting** | Netral (kondisi mengandung bagi makhluk hidup) | Kasar/Peyoratif jika ditujukan pada manusia | Terbatas untuk fauna atau ragam kasar |
+| **Bunting** | Netral (kondisi mengandung bagi makhluk hidup) | Kasar/Pejoratif jika ditujukan pada manusia | Terbatas untuk fauna atau ragam kasar |
 | **Kroni** | Netral (sahabat karib atau kawan dekat) | Negatif (rekanan dalam persekongkolan korupsi) | Diskursus politik dan hukum |
 | **Oknum** | Terhormat (pribadi dalam teologi/person) | Negatif (pelaku pelanggaran dalam institusi) | Berita kriminal dan penegakan hukum |
 
