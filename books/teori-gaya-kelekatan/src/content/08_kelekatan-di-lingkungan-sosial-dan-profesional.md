@@ -42,7 +42,7 @@ Gaya kelekatan seorang pemimpin dapat memengaruhi iklim psikologis bagi seluruh 
 | **Anxious** | *Micromanaging* dan butuh persetujuan terus-menerus. | Tim merasa tercekik dan kurang percaya diri. |
 | **Avoidant** | *Hands-off* yang ekstrem, dingin, dan tidak tersedia secara emosional. | Tim merasa bingung dan kurang mendapatkan arahan atau dukungan. |
 
-Seorang pemimpin yang aman mampu menciptakan **Keamanan Psikologis (Psychological Safety)**. Ini adalah kondisi di mana anggota tim merasa berani berbicara tanpa takut dipermalukan atau dihukum.
+Seorang pemimpin yang aman mampu menciptakan **Keamanan Psikologis (Psychological Safety)**. Ini adalah kondisi ketika anggota tim merasa berani berbicara tanpa takut dipermalukan atau dihukum.
 
 ## 3. Interaksi dengan Teman Sebaya dan Networking
 

@@ -37,7 +37,7 @@ Amati juga reaksi kamu dalam situasi intim saat ini:
 
 Gaya kelekatan paling mudah terlihat saat kamu berada di bawah tekanan emosional. Mari gunakan skenario sederhana ini untuk melihat kecenderunganmu:
 
-**Skenario Pesan yang Tidak Dibalas:** *Kamu mengirim pesan penting kepada pasangan atau teman dekat. Pesan itu tidak dibalas selama enam jam, padahal status mereka terlihat sedang online.*
+**Skenario Pesan yang Tidak Dibalas:** *Kamu mengirim pesan penting kepada pasangan atau teman dekat. Pesan itu tidak dibalas selama enam jam, padahal status mereka terlihat sedang daring.*
 
 1. **Reaksi A:** "Mungkin dia sedang sibuk, aku tunggu saja." (Kecenderungan **Aman**)
 2. **Reaksi B:** Mulai panik, terus memeriksa ponsel, merasa bersalah, atau mengirim pesan beruntun demi memastikan mereka tidak marah. (Kecenderungan **Cemas**)
@@ -96,7 +96,7 @@ Gaya kelekatan tidak hanya memengaruhi hubungan romantis, tetapi juga terlihat d
 
 ## 7. Fleksibilitas dan Kesadaran
 
-Ingatlah bahwa gaya kelekatan bersifat **spektrum**, bukan kotak kaku. Kamu bisa saja merasa dominan aman, namun tetap memiliki kecenderungan menghindar dalam situasi konflik tertentu.
+Ingatlah bahwa gaya kelekatan bersifat **spektrum**, bukan kotak kaku. Kamu bisa saja merasa dominan aman, tetapi tetap memiliki kecenderungan menghindar dalam situasi konflik tertentu.
 
 **Langkah Selanjutnya:** Setelah mengenali pola dominanmu, hindari menghakimi diri sendiri. Menyadari pola tersebut sudah menjadi langkah awal menuju pemulihan.
 

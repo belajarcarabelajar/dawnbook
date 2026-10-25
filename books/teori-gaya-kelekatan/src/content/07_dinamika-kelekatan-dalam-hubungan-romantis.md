@@ -15,7 +15,7 @@ Sebuah fenomena menarik dalam psikologi hubungan adalah kecenderungan individu d
 
 ### Termostat Emosional
 
-Bayangkan sebuah ruangan dengan dua orang dan satu termostat. Si Cemas merasa kedinginan dan terus menaikkan suhu untuk mencari kedekatan, sementara Si Menghindar merasa kepanasan dan terus membuka jendela untuk mencari ruang. Keduanya bertindak berdasarkan insting bertahan hidup, namun tindakan mereka justru membuat pihak lain merasa tidak nyaman.
+Bayangkan sebuah ruangan dengan dua orang dan satu termostat. Si Cemas merasa kedinginan dan terus menaikkan suhu untuk mencari kedekatan, sementara Si Menghindar merasa kepanasan dan terus membuka jendela untuk mencari ruang. Keduanya bertindak berdasarkan insting bertahan hidup, tetapi tindakan mereka justru membuat pihak lain merasa tidak nyaman.
 
 ## 2. Siklus Pengejar-Penghindar (The Pursuer-Distancer Cycle)
 
@@ -79,7 +79,7 @@ Keduanya sama-sama menjaga jarak aman demi melindungi diri dari keintiman. Risik
 
 ### C. Cemas + Cemas (Saling Menuntut Kepastian)
 
-Hubungan antara dua orang yang sama-sama cemas biasanya dipenuhi dengan gairah yang tinggi, namun juga diwarnai banyak drama.
+Hubungan antara dua orang yang sama-sama cemas biasanya dipenuhi dengan gairah yang tinggi, tetapi juga diwarnai banyak drama.
 
 Kedua belah pihak terus-menerus menuntut kepastian dan validasi dari pasangannya. Pola ini rentan memicu kelelahan mental akibat fluktuasi emosi yang ekstrem dan pasang surut konflik yang melelahkan.
 

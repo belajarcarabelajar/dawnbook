@@ -1,6 +1,6 @@
 ## Gaya Kelekatan Menghindar (Dismissive-Avoidant)
 
-Pernahkah kamu bertemu seseorang yang tampak sangat mandiri, namun seketika menarik diri saat hubungan mulai terasa terlalu serius? Atau mungkin kamu sendiri merasa bahwa emosi orang lain sering kali terasa menyesakkan dan membebani?
+Pernahkah kamu bertemu seseorang yang tampak sangat mandiri, tetapi seketika menarik diri saat hubungan mulai terasa terlalu serius? Atau mungkin kamu sendiri merasa bahwa emosi orang lain sering kali terasa menyesakkan dan membebani?
 
 Dalam spektrum teori kelekatan, tipe **Dismissive-Avoidant** (Menghindar-Menolak) sering dijuluki sebagai "Si Serigala Penyendiri" (*The Lone Wolf*). Mereka yang memiliki gaya ini membangun benteng tinggi di sekeliling dunia emosional mereka. Langkah ini diambil bukan karena mereka tidak mampu mencintai, tetapi sebagai mekanisme pertahanan yang sudah terbentuk sejak kecil.
 
@@ -29,7 +29,7 @@ Secara tidak sadar, anak tersebut mengambil kesimpulan logis: menunjukkan perasa
 Mereka yang memiliki gaya *Dismissive-Avoidant* menunjukkan beberapa ciri khas untuk membatasi kedekatan emosional:
 
 * **Sangat Menghargai Otonomi**: Rasa tidak nyaman akan muncul ketika mereka merasa terjebak atau ruang geraknya mulai dibatasi oleh pasangan atau teman dekat.
-* **Penekanan Emosi**: Di luar, mereka tampak tenang dan selalu rasional, namun sebenarnya ini adalah mekanisme otomatis untuk menekan perasaan yang bergejolak.
+* **Penekanan Emosi**: Di luar, mereka tampak tenang dan selalu rasional, tetapi sebenarnya ini adalah mekanisme otomatis untuk menekan perasaan yang bergejolak.
 * **Menghindari Keintiman Mendalam**: Mereka tidak masalah bergaul, tetapi saat obrolan menyentuh ranah pribadi, mereka akan segera mengalihkan topik atau menarik diri secara halus.
 * **Ketergantungan Dianggap Kelemahan**: Mengandalkan orang lain atau membiarkan orang lain mengandalkan mereka dipandang sebagai tanda ketidakberdayaan.
 
@@ -62,7 +62,7 @@ Dalam eksperimen *Strange Situation*, saat bayi dengan gaya menghindar ditinggal
 
 **Skenario:** Di kantor, Maya dikenal sebagai pekerja yang sangat kompeten tetapi selalu menolak untuk bekerja dalam tim atau menghadiri acara sosial kantor. Saat diberikan umpan balik emosional atau dukungan oleh atasannya, Maya merasa canggung dan justru merasa diremehkan.
 
-* **Analisis:** Maya memandang bantuan atau kolaborasi sebagai ancaman terhadap kompetensi individunya. Dia lebih suka bekerja dalam isolasi di mana dia memegang kendali penuh.
+* **Analisis:** Maya memandang bantuan atau kolaborasi sebagai ancaman terhadap kompetensi individunya. Dia lebih suka bekerja dalam isolasi tempat dia memegang kendali penuh.
 
 ## Refleksi dan Ruang Tumbuh
 

@@ -2,11 +2,11 @@
 
 Salah satu gaya kelekatan yang paling kompleks dan menantang secara emosional kini menjadi pokok pembahasan kita. Jika gaya kelekatan cemas membuat seseorang "mengejar" dan gaya menghindar membuat seseorang "menjauh", gaya **Takut-Menghindar (Fearful-Avoidant)** (yang dalam literatur klinis sering dikaitkan dengan **Disorganized Attachment**) adalah kombinasi membingungkan dari keduanya.
 
-Bayangkan kamu sedang berdiri di depan pintu rumah yang hangat saat badai salju, namun setiap kali kamu menyentuh gagang pintunya, kamu merasa tanganmu terbakar. Itulah inti dari dunia emosional individu dengan gaya *Fearful-Avoidant*.
+Bayangkan kamu sedang berdiri di depan pintu rumah yang hangat saat badai salju, tetapi setiap kali kamu menyentuh gagang pintunya, kamu merasa tanganmu terbakar. Itulah inti dari dunia emosional individu dengan gaya *Fearful-Avoidant*.
 
 ## 1. Paradoks "Mendekat tapi Takut"
 
-Individu dengan gaya kelekatan ini hidup dalam konflik internal yang konstan. Mereka memiliki keinginan yang mendalam untuk koneksi emosional dan keintiman (seperti gaya *Anxious*), namun pada saat yang sama, mereka memiliki rasa tidak percaya yang ekstrem terhadap orang lain dan ketakutan akan disakiti (seperti gaya *Dismissive-Avoidant*).
+Individu dengan gaya kelekatan ini hidup dalam konflik internal yang konstan. Mereka memiliki keinginan yang mendalam untuk koneksi emosional dan keintiman (seperti gaya *Anxious*), tetapi pada saat yang sama, mereka memiliki rasa tidak percaya yang ekstrem terhadap orang lain dan ketakutan akan disakiti (seperti gaya *Dismissive-Avoidant*).
 
 ### Karakteristik Utama
 
@@ -48,7 +48,7 @@ Karena latar belakang mereka, mereka sering kesulitan menenangkan diri sendiri (
 
 Bagian dari diri mereka mahir membaca mikro-ekspresi atau perubahan nada suara pasangan.
 
-* *Contoh:* Pasangan hanya menghela napas karena lelah bekerja, namun individu *Fearful-Avoidant* mungkin mengartikannya sebagai "Dia sedang marah padaku dan pasti akan memutusiku."
+* *Contoh:* Pasangan hanya menghela napas karena lelah bekerja, tetapi individu *Fearful-Avoidant* mungkin mengartikannya sebagai "Dia sedang marah padaku dan pasti akan memutusiku."
 
 ## 4. Kaktus yang Merindukan Air
 

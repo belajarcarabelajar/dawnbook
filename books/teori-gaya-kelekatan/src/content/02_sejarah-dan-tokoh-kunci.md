@@ -68,7 +68,7 @@ Melalui eksperimen ini, Ainsworth awalnya mengidentifikasi tiga pola perilaku ut
 
 | **Gaya Kelekatan** | **Reaksi Saat Ibu Pergi** | **Reaksi Saat Ibu Kembali (Reuni)** |
 | --- | --- | --- |
-| **Secure (Aman)** | Menangis atau merasa terganggu, namun masih bisa ditenangkan. | Langsung mendekati ibu, mencari kontak fisik, dan cepat tenang kembali. |
+| **Secure (Aman)** | Menangis atau merasa terganggu, tetapi masih bisa ditenangkan. | Langsung mendekati ibu, mencari kontak fisik, dan cepat tenang kembali. |
 | **Anxious-Ambivalent (Cemas)** | Sangat histeris dan menunjukkan kecemasan yang ekstrem. | Mendekati ibu tetapi menunjukkan kemarahan (memukul atau menolak) dan sulit ditenangkan. |
 | **Avoidant (Menghindar)** | Tampak tidak peduli atau tidak terpengaruh secara fisik. | Mengabaikan atau menghindari kontak dengan ibu saat ia kembali. |
 

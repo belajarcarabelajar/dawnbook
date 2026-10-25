@@ -19,7 +19,7 @@ Bayangkan dirimu seperti sebuah rumah tua yang memiliki fondasi yang retak karen
 Caranya bisa dimulai dengan:
 
 - **Memvalidasi emosi sendiri**: Alih-alih mengabaikan rasa takut atau cemas, cobalah berbicara ramah pada diri sendiri, misalnya: *"Aku mengerti mengapa kamu merasa takut saat ini. Perasaanmu sangat wajar, dan aku akan selalu menemanimu."*
-- **Membangun konsistensi tindakan**: Mulailah dengan rutinitas perawatan diri yang sederhana namun konsisten, guna membuktikan kepada dirimu sendiri bahwa kamu adalah sosok yang bisa diandalkan.
+- **Membangun konsistensi tindakan**: Mulailah dengan rutinitas perawatan diri yang sederhana tetapi konsisten, guna membuktikan kepada dirimu sendiri bahwa kamu adalah sosok yang bisa diandalkan.
 
 ## 2. Menantang Narasi Negatif (Cognitive Reframing)
 
@@ -57,7 +57,7 @@ Batasan yang sehat bekerja layaknya pagar dengan gerbang yang bisa dikunci. Kamu
 2. **Gunakan komunikasi yang lugas**: Sampaikan keinginanmu dengan fokus pada perasaanmu sendiri. Sebagai contoh: *"Aku merasa kewalahan jika kita langsung membahas masalah berat begitu aku pulang kerja. Bisakah kita membicarakannya setelah makan malam?"*
 3. **Tegakkan konsekuensi**: Batasan yang tidak disertai dengan konsekuensi nyata hanyalah sebatas saran yang mudah diabaikan.
 
-Banyak orang merasa bersalah saat menolak permintaan orang lain atau berkata tidak. Rasa bersalah ini sebenarnya merupakan sisa-sisa dari pola kelekatan lama, di mana kamu merasa harus selalu mengalah dan mengabaikan kenyamanan pribadi demi mempertahankan keharmonisan hubungan.
+Banyak orang merasa bersalah saat menolak permintaan orang lain atau berkata tidak. Rasa bersalah ini sebenarnya merupakan sisa-sisa dari pola kelekatan lama, ketika kamu merasa harus selalu mengalah dan mengabaikan kenyamanan pribadi demi mempertahankan keharmonisan hubungan.
 
 ## 4. Regulasi Emosi
 
