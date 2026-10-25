@@ -1,6 +1,6 @@
 ## Literasi Digital dan Berpikir Kritis
 
-Sampai di sini kamu sudah tahu banyak soal kenapa kita gampang percaya hoax. Otak kita hemat energi dan lebih suka jalan cepat (Bab 3). Kita menerima apa yang cocok dengan keyakinan dan menolak yang tidak (Bab 4). Emosi mendahului nalar, dan berita yang bikin marah menyebar paling kencang (Bab 7). Semua itu bukan kesalahan pribadi kamu, itu cara kerja bawaan manusia.
+Sampai di sini kamu sudah tahu banyak soal kenapa kita gampang percaya hoax. Otak kita hemat energi dan lebih suka jalan cepat (Bab 3). Kita menerima apa yang cocok dengan keyakinan dan menolak yang tidak (Bab 4). Emosi mendahului nalar, dan berita yang bikin marah menyebar paling kencang (Bab 6). Semua itu bukan kesalahan pribadi kamu, itu cara kerja bawaan manusia.
 
 Kabar baiknya: cara kerja bawaan bisa dilatih ulang. Bab ini adalah bab pertahanan pertama. Bukan soal jadi orang paling pintar di grup, tapi soal punya kebiasaan kecil yang membuat kamu tidak gampang ditipu.
 

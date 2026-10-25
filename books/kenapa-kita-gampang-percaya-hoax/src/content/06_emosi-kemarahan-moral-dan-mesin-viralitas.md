@@ -1,6 +1,6 @@
 ## Emosi, Kemarahan Moral, dan Viralitas
 
-Coba ingat kapan terakhir kamu membagikan sesuatu di media sosial hampir tanpa berpikir. Kemungkinan besar itu bukan artikel netral yang datar, tapi sesuatu yang memancing perasaanmu: ketidakadilan, perilaku menjijikkan, ancaman, atau kabar yang bikin berdecak kagum. Emosi mendorong penyebaran, dan pembuat hoaks tahu cara memanfaatkannya. Kalau modul sebelumnya soal jalan pintas berpikir, modul ini masuk ke sisi yang lebih panas: bagaimana perasaan, bukan fakta, sering menentukan apa yang kita sebarkan.
+Coba ingat kapan terakhir kamu membagikan sesuatu di media sosial hampir tanpa berpikir. Kemungkinan besar itu bukan artikel netral yang datar, tapi sesuatu yang memancing perasaanmu: ketidakadilan, perilaku menjijikkan, ancaman, atau kabar yang bikin berdecak kagum. Emosi mendorong penyebaran, dan pembuat hoaks tahu cara memanfaatkannya. Kalau bab sebelumnya soal jalan pintas berpikir, bab ini masuk ke sisi yang lebih panas: bagaimana perasaan, bukan fakta, sering menentukan apa yang kita sebarkan.
 
 ### Konten beremosi tinggi lebih gampang menyebar
 
@@ -49,4 +49,4 @@ Kabar baiknya, memahami mekanisme ini memberimu keunggulan. Lain kali sebuah kon
 - Kadang kita membagikan bukan karena yakin itu benar, tapi untuk mengekspresikan sikap dan identitas. Itu sebabnya ajakan "cek dulu akurasinya" sering kurang mempan untuk konten pemancing amarah.
 - Reaksi emosional bisa menyala lebih dulu daripada nalar, dan hoaks sengaja dirancang untuk memanfaatkan celah itu.
 
-Sampai di sini kita sudah melihat bahwa emosi mendorong kita membagikan, dan bahwa kita kadang membagikan untuk menunjukkan siapa kita. Pertanyaan berikutnya: kenapa kita ngotot mempertahankan keyakinan yang mendukung kelompok kita, bahkan ketika buktinya lemah? Di modul berikutnya kita masuk ke **Penalaran Termotivasi dan Identitas Kelompok**, tempat berpikir bukan lagi soal mencari kebenaran, tapi soal membela pihak sendiri.
+Sampai di sini kita sudah melihat bahwa emosi mendorong kita membagikan, dan bahwa kita kadang membagikan untuk menunjukkan siapa kita. Pertanyaan berikutnya: kenapa kita ngotot mempertahankan keyakinan yang mendukung kelompok kita, bahkan ketika buktinya lemah? Di bab 7 kita masuk ke **Penalaran Termotivasi dan Identitas Kelompok**, tempat berpikir bukan lagi soal mencari kebenaran, tapi soal membela pihak sendiri.
