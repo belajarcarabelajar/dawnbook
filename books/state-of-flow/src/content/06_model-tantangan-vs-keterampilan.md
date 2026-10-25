@@ -1,6 +1,6 @@
 ## Model Tantangan vs Keterampilan
 
-Pernahkah kamu begitu tenggelam dalam sebuah tugas sehingga waktu seakan berhenti, namun di lain waktu merasa sangat frustrasi hingga ingin menyerah? Ada pula saat kamu merasa sangat bosan hingga mengantuk. Perbedaan perasaan ini bukan terjadi secara acak. Hal ini ditentukan oleh hubungan matematis dan psikologis antara seberapa sulit tugas tersebut (**Tantangan**) dan seberapa hebat kamu dalam melakukannya (**Keterampilan**).
+Pernahkah kamu begitu tenggelam dalam sebuah tugas sehingga waktu seakan berhenti, tetapi di lain waktu merasa sangat frustrasi hingga ingin menyerah? Ada pula saat kamu merasa sangat bosan hingga mengantuk. Perbedaan perasaan ini bukan terjadi secara acak. Hal ini ditentukan oleh hubungan matematis dan psikologis antara seberapa sulit tugas tersebut (**Tantangan**) dan seberapa hebat kamu dalam melakukannya (**Keterampilan**).
 
 Mihaly Csikszentmihalyi, bapak dari konsep *Flow*, memetakan hubungan ini ke dalam sebuah model grafis yang menjadi fondasi utama dalam memahami bagaimana kita bisa mencapai performa puncak.
 
@@ -15,7 +15,7 @@ Di sepanjang garis diagonal tempat tantangan dan keterampilan seimbang, terdapat
 
 ### Prinsip Keseimbangan
 
-Secara matematis, kondisi *Flow* dapat digambarkan sebagai fungsi di mana tantangan selaras dengan kemampuan:
+Secara matematis, kondisi *Flow* dapat digambarkan sebagai fungsi ketika tantangan selaras dengan kemampuan:
 
 $$\text{Flow} \approx \text{Tantangan} = \text{Keterampilan}$$
 
@@ -39,7 +39,7 @@ Terjadi ketika $\text{Keterampilan} > \text{Tantangan}$. Bayangkan seorang ahli 
 
 ### C. Saluran Alir (Flow Channel)
 
-Terjadi ketika $\text{Tantangan} \approx \text{Keterampilan}$. Tugas tersebut cukup sulit untuk membuat kamu tetap waspada dan fokus, namun cukup bisa dilakukan sehingga kamu merasa memiliki kendali.
+Terjadi ketika $\text{Tantangan} \approx \text{Keterampilan}$. Tugas tersebut cukup sulit untuk membuat kamu tetap waspada dan fokus, tetapi cukup bisa dilakukan sehingga kamu merasa memiliki kendali.
 
 ## 3\. Delapan Spektrum Pengalaman (The Experience Fluctuation Model)
 
@@ -48,13 +48,13 @@ Seiring berkembangnya riset, Csikszentmihalyi memperhalus model ini menjadi 8 ko
 | Kondisi | Tantangan | Keterampilan | Deskripsi |
 | --- | --- | --- | --- |
 | **Flow** | Tinggi | Tinggi | Fokus penuh, kebahagiaan mendalam, performa puncak. |
-| **Control** | Menengah | Tinggi | Merasa nyaman, namun kurang ada elemen risiko untuk memicu *flow*. |
+| **Control** | Menengah | Tinggi | Merasa nyaman, tetapi kurang ada elemen risiko untuk memicu *flow*. |
 | **Relaxation** | Rendah | Tinggi | Santai, tidak menuntut tenaga mental, sering kali pasif. |
 | **Boredom** | Rendah | Menengah | Kurang minat, merasa terjebak dalam rutinitas. |
 | **Apathy** | Rendah | Rendah | Kondisi paling negatif; tidak peduli, tidak ada gairah (misal: menonton TV tanpa tujuan). |
 | **Worry** | Menengah | Rendah | Merasa tidak mampu menghadapi situasi yang agak sulit. |
 | **Anxiety** | Tinggi | Rendah | Stres berat karena tuntutan yang terlalu besar. |
-| **Arousal** | Tinggi | Menengah | Tertarik dan fokus, namun masih butuh peningkatan skill untuk mencapai *flow*. |
+| **Arousal** | Tinggi | Menengah | Tertarik dan fokus, tetapi masih butuh peningkatan skill untuk mencapai *flow*. |
 
 Delapan kondisi dalam tabel itu bisa kamu letakkan pada grafik dua sumbu, dengan keterampilan di sumbu mendatar dan tantangan di sumbu tegak.
 

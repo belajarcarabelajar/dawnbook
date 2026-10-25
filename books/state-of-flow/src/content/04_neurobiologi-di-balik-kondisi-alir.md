@@ -66,7 +66,7 @@ Mari kita lihat bagaimana mekanisme neurobiologis ini bekerja dalam skenario nya
 ### Atlet Basket di Menit Terakhir
 
 - **Mekanisme:** **Endorfin** menutupi rasa sakit di ototnya. **Anandamide** membantunya menemukan gerakan kreatif yang tidak terduga (pemikiran lateral).
-- **Hasil:** Dia melakukan gerakan yang belum pernah dia latih secara sadar, namun terasa sangat tepat pada saat itu.
+- **Hasil:** Dia melakukan gerakan yang belum pernah dia latih secara sadar, tetapi terasa sangat tepat pada saat itu.
 
 ## 5\. Proses Neurobiologis Flow
 

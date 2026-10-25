@@ -55,7 +55,7 @@ Dengan:
 
 ### "The Crunch" di Industri Kreatif
 
-Dalam industri pengembangan video game atau film, terdapat istilah **"The Crunch"**. Ini adalah periode di mana karyawan bekerja dalam kondisi flow yang dipaksakan selama berbulan-bulan untuk mengejar tenggat waktu.
+Dalam industri pengembangan video game atau film, terdapat istilah **"The Crunch"**. Ini adalah periode ketika karyawan bekerja dalam kondisi flow yang dipaksakan selama berbulan-bulan untuk mengejar tenggat waktu.
 
 - **Skenario:** Seorang desainer grafis sangat mencintai pekerjaannya dan sering berada dalam flow. Perusahaannya memanfaatkan ini dengan memberikan beban kerja berlebih.
 - **Hasilnya:** Meskipun output-nya tinggi dalam jangka pendek, desainer tersebut akhirnya mengalami depresi dan penurunan kreativitas yang berkepanjangan karena ia tidak pernah "keluar" dari mode kerja. Flow yang tadinya menjadi sumber kebahagiaan berubah menjadi beban.

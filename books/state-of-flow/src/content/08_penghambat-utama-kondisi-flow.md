@@ -24,7 +24,7 @@ Semakin banyak gangguan ($d$), semakin kecil peluang kamu untuk "hanyut" dalam p
 
 ## 2\. Mitos Multitasking
 
-Banyak orang bangga bisa melakukan *multitasking*, namun secara neurobiologis, otak manusia tidak dirancang untuk memproses dua tugas kognitif berat secara bersamaan. Yang sebenarnya terjadi adalah **Task Switching** (berpindah tugas dengan cepat).
+Banyak orang bangga bisa melakukan *multitasking*, tetapi secara neurobiologis, otak manusia tidak dirancang untuk memproses dua tugas kognitif berat secara bersamaan. Yang sebenarnya terjadi adalah **Task Switching** (berpindah tugas dengan cepat).
 
 Dalam konteks rekayasa perangkat lunak atau sistem operasi, bayangkan otak kamu seperti CPU yang melakukan *context switching*. Setiap kali berpindah, ada data yang harus disimpan (RAM) dan data baru yang harus dimuat. Kalau kamu hanya menulis kode dalam satu sesi, konteksnya cukup dimuat sekali. Kalau kamu menulis kode, membalas chat WhatsApp, kembali ke kode, lalu mengecek email, konteks itu dimuat dan disimpan berulang kali, dan setiap kalinya menghabiskan energi serta waktu.
 

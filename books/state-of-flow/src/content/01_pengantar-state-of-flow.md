@@ -6,11 +6,11 @@ Selamat, kamu telah mengalami apa yang oleh para psikolog disebut sebagai **Stat
 
 ## Apa Itu State of Flow?
 
-Secara sederhana, **Flow** adalah kondisi mental di mana seseorang tenggelam sepenuhnya dalam apa yang sedang ia lakukan. Ini bukan sekadar konsentrasi biasa; ini adalah **hanyut secara total**.
+Secara sederhana, **Flow** adalah kondisi mental ketika seseorang tenggelam sepenuhnya dalam apa yang sedang ia lakukan. Ini bukan sekadar konsentrasi biasa; ini adalah **hanyut secara total**.
 
-Bayangkan sebuah sungai yang mengalir deras namun tenang. Airnya tidak dipaksa untuk bergerak; ia mengikuti gravitasi dan kontur tanah. Begitu pula manusia dalam kondisi *flow*: energi mental kita terarah sepenuhnya pada satu titik, sehingga pikiran dan tindakan berjalan seiring.
+Bayangkan sebuah sungai yang mengalir deras tetapi tenang. Airnya tidak dipaksa untuk bergerak; ia mengikuti gravitasi dan kontur tanah. Begitu pula manusia dalam kondisi *flow*: energi mental kita terarah sepenuhnya pada satu titik, sehingga pikiran dan tindakan berjalan seiring.
 
-> **Definisi Inti:** *Flow* adalah kondisi kesadaran yang optimal di mana kita merasakan yang terbaik dan memberikan performa terbaik kita.
+> **Definisi Inti:** *Flow* adalah kondisi kesadaran yang optimal ketika kita merasakan yang terbaik dan memberikan performa terbaik kita.
 
 ### Dirigen Orkestra
 
@@ -48,7 +48,7 @@ Ini adalah fenomena yang paling sering dilaporkan. Waktu bisa terasa melambat (s
 
 Kondisi ini tidak eksklusif untuk seniman atau atlet elit. *Flow* adalah kemampuan universal manusia yang dapat diaplikasikan di mana saja:
 
-- **Dunia Pemrograman (Coding):** Seorang *programmer* masuk ke dalam "the zone" di mana ribuan baris kode terasa seperti bahasa ibu, dan struktur logika aplikasi terbangun dengan sendirinya di dalam pikiran.
+- **Dunia Pemrograman (Coding):** Seorang *programmer* masuk ke dalam "the zone" tempat ribuan baris kode terasa seperti bahasa ibu, dan struktur logika aplikasi terbangun dengan sendirinya di dalam pikiran.
 - **Dunia Medis:** Seorang ahli bedah yang melakukan operasi rumit selama 10 jam sering kali melaporkan tidak merasa haus atau lapar sedikit pun hingga operasi selesai.
 - **Pekerjaan Kreatif:** Penulis yang merasa karakternya "berbicara sendiri" dan jemarinya hanya sekadar mengikuti apa yang ingin disampaikan oleh cerita tersebut.
 - **Kehidupan Sehari-hari:** Memasak resep baru, berkebun, atau bahkan melakukan percakapan yang mendalam dengan sahabat bisa menjadi pintu masuk menuju *flow*.

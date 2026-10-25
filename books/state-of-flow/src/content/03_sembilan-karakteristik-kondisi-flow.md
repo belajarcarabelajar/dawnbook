@@ -6,7 +6,7 @@ Inilah yang disebut dengan **State of Flow** (Kondisi Alir). Namun, flow bukan s
 
 ## 1\. Keseimbangan Antara Tantangan dan Keterampilan
 
-Ini adalah fondasi utama dari flow. Bayangkan sebuah grafik di mana sumbu $Y$ adalah tingkat tantangan dan sumbu $X$ adalah tingkat keterampilan kamu.
+Ini adalah fondasi utama dari flow. Bayangkan sebuah grafik yang sumbu $Y$ adalah tingkat tantangan dan sumbu $X$ adalah tingkat keterampilan kamu.
 
 - Jika **Tantangan > Keterampilan**: kamu akan mengalami kecemasan (*anxiety*).
 - Jika **Keterampilan > Tantangan**: kamu akan merasa bosan (*boredom*).
@@ -96,4 +96,4 @@ Tabel berikut merangkum empat dari sembilan karakteristik tersebut.
 | **Tanpa Ego** | Hilangnya rasa malu atau kekhawatiran sosial. |
 | **Autotelik** | Melakukan sesuatu karena kepuasan batin, bukan imbalan. |
 
-> **Poin Penting:** Tidak semua dari sembilan elemen harus hadir dengan intensitas yang sama agar seseorang disebut berada dalam flow, namun semakin banyak elemen yang hadir, semakin dalam (*deep flow*) kondisi tersebut dialami.
+> **Poin Penting:** Tidak semua dari sembilan elemen harus hadir dengan intensitas yang sama agar seseorang disebut berada dalam flow, tetapi semakin banyak elemen yang hadir, semakin dalam (*deep flow*) kondisi tersebut dialami.

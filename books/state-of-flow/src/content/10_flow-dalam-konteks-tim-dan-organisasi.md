@@ -2,7 +2,7 @@
 
 Bayangkan sebuah band jazz yang sedang berimprovisasi di atas panggung. Tanpa partitur yang kaku, setiap pemain menanggapi nada dari pemain lain secara instan. Tidak ada yang mendominasi, tetapi musik yang dihasilkan terdengar harmonis dan jauh lebih indah daripada jika mereka bermain sendiri-sendiri. Itulah yang kita sebut sebagai **Group Flow** (Aliran Kelompok).
 
-Dalam konteks organisasi, *Group Flow* adalah kondisi di mana sebuah tim bekerja selaras, ide-ide mengalir lancar, dan produktivitas tim melampaui kemampuan anggotanya secara sendiri-sendiri.
+Dalam konteks organisasi, *Group Flow* adalah kondisi ketika sebuah tim bekerja selaras, ide-ide mengalir lancar, dan produktivitas tim melampaui kemampuan anggotanya secara sendiri-sendiri.
 
 ## Apa itu Group Flow?
 
@@ -33,7 +33,7 @@ Di tingkat organisasi, struktur dapat mendukung atau justru menghambat *Group Fl
 
 $$\text{Sinergi} = \sum (\text{Keahlian} \times \text{Komunikasi}) - \text{Gesekan (Friction)}$$
 
-Di mana **Gesekan** mencakup birokrasi, politik kantor, dan alat yang tidak memadai.
+Keterangan: **Gesekan** mencakup birokrasi, politik kantor, dan alat yang tidak memadai.
 
 ### 1\. Psychological Safety (Keamanan Psikologis)
 

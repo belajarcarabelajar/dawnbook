@@ -2,7 +2,7 @@
 
 Bab-bab sebelumnya telah membawa kamu memahami apa itu *flow* dan bagaimana mekanisme biologis di balik kondisi ini bekerja. Sekarang kita melihat apa yang sedang dipersiapkan oleh sains dan teknologi di bidang ini.
 
-Dahulu, masuk ke kondisi *flow* dianggap sebagai sebuah "keberuntungan" atau hasil dari latihan disiplin selama bertahun-tahun. Namun, hari ini kita sedang memasuki era **"Flow on Demand"** - sebuah masa di mana kondisi alir bukan lagi sekadar kebetulan, melainkan sesuatu yang bisa dirancang, diinduksi, dan dioptimalkan secara presisi.
+Dahulu, masuk ke kondisi *flow* dianggap sebagai sebuah "keberuntungan" atau hasil dari latihan disiplin selama bertahun-tahun. Namun, hari ini kita sedang memasuki era **"Flow on Demand"** - sebuah masa ketika kondisi alir bukan lagi sekadar kebetulan, melainkan sesuatu yang bisa dirancang, diinduksi, dan dioptimalkan secara presisi.
 
 ## 1\. Teknologi Induksi Flow
 
@@ -16,7 +16,7 @@ Teknologi BCI masa depan memungkinkan komputer untuk membaca aktivitas elektrik 
 
 ### B. Stimulasi Otak Non-Invasif
 
-Penggunaan **tDCS (transcranial Direct Current Stimulation)** atau **tACS (transcranial Alternating Current Stimulation)** sedang diteliti untuk menginduksi *Transient Hypofrontality* - kondisi di mana bagian korteks prefrontal "beristirahat" sejenak agar kreativitas dan insting mengambil alih.
+Penggunaan **tDCS (transcranial Direct Current Stimulation)** atau **tACS (transcranial Alternating Current Stimulation)** sedang diteliti untuk menginduksi *Transient Hypofrontality* - kondisi ketika bagian korteks prefrontal "beristirahat" sejenak agar kreativitas dan insting mengambil alih.
 
 - *Analogi:* Bayangkan otak kamu seperti sebuah orkestra. tDCS bertindak seperti konduktor yang meminta bagian "analisis kritis" (yang sering membuat kita ragu) untuk bermain lebih pelan, sehingga melodi "intuisi" bisa terdengar lebih nyaring.
 
@@ -33,7 +33,7 @@ Industri game adalah pelopor dalam penerapan teori *flow*. Namun, masa depannya 
 Pernahkah kamu merasa sebuah game tiba-tiba menjadi terlalu sulit atau justru terlalu membosankan? Riset masa depan berfokus pada algoritma **Dynamic Difficulty Adjustment (DDA)** yang didukung oleh AI.
 
 - **Skenario:** Jika AI mendeteksi kamu mulai sering melakukan kesalahan (indikasi *Anxiety*), ia tidak akan sekadar mengurangi nyawa musuh, melainkan mengubah tata letak level secara *procedural* agar sesuai dengan gaya bermain kamu.
-- **Real-world Application:** Game seperti *Left 4 Dead* telah menggunakan "AI Director", namun masa depan akan melibatkan pengenalan emosi melalui kamera wajah atau sensor detak jantung pemain untuk memastikan pemain tetap berada dalam keseimbangan matematis:
+- **Real-world Application:** Game seperti *Left 4 Dead* telah menggunakan "AI Director", tetapi masa depan akan melibatkan pengenalan emosi melalui kamera wajah atau sensor detak jantung pemain untuk memastikan pemain tetap berada dalam keseimbangan matematis:
    $$\frac{\text{Tantangan}}{\text{Keterampilan}} \approx 1$$
 
 Jika rasio ini menjauh dari angka 1, pengalaman *flow* akan hilang. AI masa depan bertugas menjaga rasio ini tetap stabil secara dinamis setiap detiknya.
@@ -74,7 +74,7 @@ Meskipun terdengar menjanjikan, riset masa depan juga menghadapi dilema etis yan
 
 ## Flow sebagai Literasi Baru
 
-Masa depan riset *state of flow* tidak lagi memandang kondisi ini sebagai sesuatu yang mistis. Kita sedang bergerak menuju dunia di mana **kemampuan untuk masuk ke dalam flow dianggap sebagai literasi dasar**, sama pentingnya dengan membaca atau berhitung.
+Masa depan riset *state of flow* tidak lagi memandang kondisi ini sebagai sesuatu yang mistis. Kita sedang bergerak menuju dunia tempat **kemampuan untuk masuk ke dalam flow dianggap sebagai literasi dasar**, sama pentingnya dengan membaca atau berhitung.
 
 Dengan bantuan AI, neurosains, dan desain yang cerdas, kita tidak hanya akan bekerja lebih cepat, tetapi juga lebih bahagia, karena kita menghabiskan lebih banyak waktu dalam kondisi saat kesadaran diri menghilang dan keahlian kita berada di puncaknya.
 

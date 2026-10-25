@@ -62,7 +62,7 @@ Ini adalah keterlibatan seluruh indra. Bukan hanya berpikir, tapi merasakan. Pem
 
 ## 3\. Pemicu Sosial (Group Flow)
 
-Flow tidak hanya terjadi secara individu. Pernahkah kamu berada dalam tim di mana semua orang tampak bisa membaca pikiran satu sama lain? Itu disebut **Group Flow**.
+Flow tidak hanya terjadi secara individu. Pernahkah kamu berada dalam tim tempat semua orang tampak bisa membaca pikiran satu sama lain? Itu disebut **Group Flow**.
 
 1. **Konsentrasi Kelompok:** Seluruh anggota tim fokus pada satu tujuan kolektif.
 2. **Komunikasi Terbuka:** Umpan balik yang jujur dan cepat antaranggota.

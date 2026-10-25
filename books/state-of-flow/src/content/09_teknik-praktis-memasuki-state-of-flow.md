@@ -14,7 +14,7 @@ Bayangkan meja kerja kamu sebagai sebuah kokpit pesawat tempur. Setiap elemen ha
 
 - **Minimalisme Visual:** Bersihkan segala sesuatu yang tidak relevan dengan tugas saat ini dari pandangan mata.
 - **Isyarat Sensorik (Sauh):** Gunakan aroma tertentu (misalnya kopi atau minyak esensial) atau jenis musik tertentu yang hanya kamu dengarkan saat bekerja mendalam. Ini menciptakan asosiasi saraf: *"Aroma ini = Waktunya Flow."*
-- **Pencahayaan:** Pastikan pencahayaan cukup namun tidak menyilaukan. Cahaya alami sangat disarankan untuk menjaga ritme sirkadian.
+- **Pencahayaan:** Pastikan pencahayaan cukup tetapi tidak menyilaukan. Cahaya alami sangat disarankan untuk menjaga ritme sirkadian.
 
 ### B. Lingkungan Digital
 
@@ -29,7 +29,7 @@ Sama seperti atlet profesional yang melakukan pemanasan sebelum bertanding, kamu
 
 **Contoh Ritual 10 Menit:**
 
-1. **Menit 1-3 (Hidrasi & Nutrisi):** Minum segelas air putih. Otak yang terhidrasi bekerja $15\text{\%}$ lebih cepat.
+1. **Menit 1-3 (Hidrasi & Nutrisi):** Minum segelas air putih.
 2. **Menit 4-6 (Klarifikasi Micro-Goal):** Tuliskan satu hasil akhir yang sangat spesifik untuk sesi ini.
 	- *Buruk:* "Mengerjakan laporan."
 		- *Baik:* "Menyelesaikan 3 paragraf bagian analisis data."
@@ -57,7 +57,7 @@ $$
 $$
 </div>
 
-Jika tugas terlalu mudah, kamu akan bosan ($\text{Flow} \rightarrow \text{Boredom}$). Jika terlalu sulit, kamu akan cemas ($\text{Flow} \rightarrow \text{Anxiety}$). Carilah tugas yang sedikit di atas kemampuan kamu saat ini - area di mana kamu merasa tertantang tapi tetap mampu mengendalikan situasi.
+Jika tugas terlalu mudah, kamu akan bosan ($\text{Flow} \rightarrow \text{Boredom}$). Jika terlalu sulit, kamu akan cemas ($\text{Flow} \rightarrow \text{Anxiety}$). Carilah tugas yang sedikit di atas kemampuan kamu saat ini - area tempat kamu merasa tertantang tapi tetap mampu mengendalikan situasi.
 
 ## 4\. Latihan Mental Harian
 
