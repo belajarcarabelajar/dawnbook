@@ -16,7 +16,7 @@ Dalam aerodinamika, terdapat tiga variabel utama udara yang menjadi perhatian:
 2. **Kecepatan ($v$):** Seberapa cepat partikel udara berpindah.
 3. **Kerapatan atau Densitas ($\rho$):** Seberapa padat molekul udara di suatu ruang.
 
-> **Wawasan Penting:** Udara mungkin terasa "kosong", namun fluida ini memiliki massa. Bayangkan situasi saat seseorang berenang di kolam raksasa yang berisi molekul udara; setiap gerakan akan memindahkan molekul-molekul tersebut.
+> **Wawasan Penting:** Udara mungkin terasa "kosong", tetapi fluida ini memiliki massa. Bayangkan situasi saat seseorang berenang di kolam raksasa yang berisi molekul udara; setiap gerakan akan memindahkan molekul-molekul tersebut.
 
 ## 2. Prinsip Bernoulli
 

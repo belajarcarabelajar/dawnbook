@@ -1,6 +1,6 @@
 ## Boundary Layer dan Separasi Aliran
 
-Permukaan sayap pesawat umumnya dibuat sangat halus, namun di area tertentu sengaja dipasangi tonjolan atau sirip kecil. Begitu pula pada bola golf yang memiliki permukaan berlesung pipit (*dimples*) alih-alih mulus sempurna. Penjelasan di balik fenomena ini berakar pada konsep lapisan batas (*boundary layer*) dan separasi aliran (*flow separation*).
+Permukaan sayap pesawat umumnya dibuat sangat halus, tetapi di area tertentu sengaja dipasangi tonjolan atau sirip kecil. Begitu pula pada bola golf yang memiliki permukaan berlesung pipit (*dimples*) alih-alih mulus sempurna. Penjelasan di balik fenomena ini berakar pada konsep lapisan batas (*boundary layer*) dan separasi aliran (*flow separation*).
 
 Bagian ini membahas bagaimana fluida berinteraksi langsung dengan permukaan benda padat serta bagaimana interaksi berskala mikro tersebut menentukan karakteristik gaya angkat dan timbulnya fenomena kehilangan daya angkat (*stall*).
 
@@ -8,7 +8,7 @@ Bagian ini membahas bagaimana fluida berinteraksi langsung dengan permukaan bend
 
 Sebagai analogi fluida viskos, madu yang dituangkan ke atas permukaan sendok memiliki lapisan yang menempel langsung tanpa bergerak, sementara lapisan di atasnya mengalir perlahan. Udara yang mengalir di atas permukaan sayap menunjukkan perilaku serupa akibat viskositas.
 
-Lapisan batas (*boundary layer*) adalah lapisan fluida tipis tepat di atas permukaan benda di mana pengaruh gaya gesek viskos (*viscous shear stress*) sangat dominan terhadap dinamika aliran.
+Lapisan batas (*boundary layer*) adalah lapisan fluida tipis tepat di atas permukaan benda tempat pengaruh gaya gesek viskos (*viscous shear stress*) sangat dominan terhadap dinamika aliran.
 
 #### Kondisi Tanpa Slip (No-Slip Condition)
 
@@ -20,7 +20,7 @@ $$
 
 Semakin jauh jarak vertikal ($y$) dari permukaan, kecepatan lokal $u(y)$ meningkat secara gradual hingga mendekati kecepatan aliran bebas (*freestream velocity*, $U_{\infty}$).
 
-Ketebalan lapisan batas, yang dilambangkan dengan $\delta$, didefinisikan secara konvensional sebagai jarak tegak lurus dari dinding di mana kecepatan lokal mencapai 99% dari kecepatan aliran bebas:
+Ketebalan lapisan batas, yang dilambangkan dengan $\delta$, didefinisikan secara konvensional sebagai jarak tegak lurus dari dinding tempat kecepatan lokal mencapai 99% dari kecepatan aliran bebas:
 
 $$
 u(\delta) = 0{,}99 U_{\infty}
@@ -34,7 +34,7 @@ Distribusi kecepatan dan transisi fluida di dalam lapisan batas terbagi ke dalam
 
 Aliran laminar bergerak dalam lapisan-lapisan fluida sejajar yang teratur dan mulus tanpa pertukaran massa makroskopis antarlapisan.
 
-- **Karakteristik:** Gaya hambat gesek permukaan (*skin friction drag*) sangat rendah, namun struktur alirannya rentan terhadap gangguan eksternal.
+- **Karakteristik:** Gaya hambat gesek permukaan (*skin friction drag*) sangat rendah, tetapi struktur alirannya rentan terhadap gangguan eksternal.
 - **Lokasi:** Terbentuk mulai dari tepi depan (*leading edge*) airfoil tempat lapisan batas masih sangat tipis.
 
 #### B. Aliran Turbulen

@@ -67,7 +67,7 @@ y^+ = \frac{y u_\tau}{\nu}
 $$
 </div>
 
-Di mana:
+Dengan:
 
 <div>
 $$
@@ -90,7 +90,7 @@ Proses analisis aerodinamika numerik terstruktur dalam tiga tahapan utama:
 
 1. **Pra-Pemrosesan (Pre-Processing)**:
    - Pembuatan dan pembersihan geometri airfoil atau sayap 3D.
-   - Pembangunan domain fluida (*farfield domain*) berjarak 20 hingga 50 panjang *chord* ($c$) dari bodi untuk meminimalkan gangguan batas domain.
+   - Pembangunan domain fluida (*farfield domain*) berjarak 20 hingga 50 panjang kord ($c$) dari bodi untuk meminimalkan gangguan batas domain.
    - Pembangkitan kisi komputasi (*meshing*), baik terstruktur (*structured hexahedral*), tak terstruktur (*unstructured tetrahedral/polyhedral*), maupun hibrida (*prism layers* pada dinding).
    - Pengaturan kondisi batas (*boundary conditions*): *Velocity Inlet*, *Pressure Outlet*, dan *No-Slip Wall* pada permukaan airfoil.
 2. **Penyelesaian Numerik (Solving)**:
@@ -129,7 +129,7 @@ Agar data dari model berskala (misalnya model skala $1:10$) dapat diekstrapolasi
    $$
    </div>
 
-Di mana $v$ adalah kecepatan aliran bebas, $c$ adalah panjang *chord*, dan $a$ adalah kecepatan rambat suara lokal ($a = \sqrt{\gamma R T}$).
+Dengan $v$ adalah kecepatan aliran bebas, $c$ adalah panjang kord, dan $a$ adalah kecepatan rambat suara lokal ($a = \sqrt{\gamma R T}$).
 
 Jika pengujian model skala kecil dilakukan di udara atmosfer biasa, mencapai bilangan Reynolds yang setara dengan pesawat asli menuntut peningkatan kecepatan fluida atau peningkatan densitas fluida (misalnya menggunakan terowongan angin bertekanan tinggi atau terowongan angin kriogenik nitrogen cair seperti *National Transonic Facility* di NASA).
 
@@ -137,7 +137,7 @@ Jika pengujian model skala kecil dilakukan di udara atmosfer biasa, mencapai bil
 
 Pengujian terowongan angin modern mengandalkan instrumentasi presisi tinggi:
 
-- **Timbangan Aerodinamika (Internal/External Strain-Gauge Balance)**: Sensor multi-sumbu berbasis *strain gauge* atau piezoelektrik untuk mengukur 3 gaya ($L, D, Y$) dan 3 momen ($M, N, L$) secara simultan.
+- **Timbangan Aerodinamika (Internal/External Strain-Gauge Balance)**: Sensor multi-sumbu berbasis *strain gauge* atau piezoelektrik untuk mengukur 3 gaya ($L, D, Y$) dan 3 momen (momen guling $\ell$, angguk $M$, dan oleng $N$) secara simultan.
 - **Transduser Tekanan dan Tap Tekanan (Pressure Taps)**: Lubang-lubang mikro berdiameter kurang dari 1 mm yang dihubungkan ke modul sensor elektronik untuk memetakan distribusi tekanan permukaan secara *real-time*.
 - **Visualisasi Aliran**:
   - *Tufts* (benang halus): Menunjukkan arah lokal aliran dan mendeteksi stall/separasi.
@@ -171,7 +171,7 @@ C_l = \int_{0}^{1} (C_{p,l} - C_{p,u}) \ d\left(\frac{x}{c}\right)
 $$
 </div>
 
-Di mana koefisien tekanan tak berdimensi didefinisikan sebagai:
+Koefisien tekanan tak berdimensi didefinisikan sebagai:
 
 <div>
 $$
@@ -186,7 +186,7 @@ Dalam praktik, nilai $C\_p$ hanya diketahui pada titik-titik diskret di sepanjan
 3. Rata-rata itu dikalikan lebar piasnya.
 4. Semua hasil itu dijumlahkan menjadi $C\_l$.
 
-Pada sudut serang moderat, permukaan atas umumnya mengalami hisapan ($C\_p$ bernilai negatif) dan permukaan bawah mengalami tekanan positif, sehingga selisih itu bernilai positif dan menghasilkan gaya angkat.
+Pada sudut serang moderat, permukaan atas umumnya mengalami isapan ($C\_p$ bernilai negatif) dan permukaan bawah mengalami tekanan positif, sehingga selisih itu bernilai positif dan menghasilkan gaya angkat.
 
 ---
 
@@ -207,4 +207,4 @@ Pada perancangan pesawat modern seperti Airbus A350 dan Boeing 787, bentuk kelen
 3. **Keserupaan Eksperimental**: Pengujian terowongan angin memerlukan kesamaan bilangan tak berdimensi, khususnya bilangan Reynolds ($\text{Re}$) dan bilangan Mach ($\text{Ma}$), agar data model skala representatif terhadap kondisi penerbangan nyata.
 4. **Integrasi Tekanan**: Performa aerodinamika terukur dari integrasi distribusi koefisien tekanan permukaan ($C\_p$) dan tegangan geser dinding ($\tau\_w$).
 
-> **Prinsip Rekayasa:** Semua model komputasi merupakan penyederhanaan realitas, namun model yang dikalibrasi dan divalidasi dengan benar menjadi fondasi keselamatan serta efisiensi rekayasa penerbangan modern. Statistikawan George Box merumuskan gagasan dasarnya dengan ringkas: "pada dasarnya, semua model salah, tetapi sebagian berguna" (Box dan Draper, 1987, hlm. 424).
+> **Prinsip Rekayasa:** Semua model komputasi merupakan penyederhanaan realitas, tetapi model yang dikalibrasi dan divalidasi dengan benar menjadi fondasi keselamatan serta efisiensi rekayasa penerbangan modern. Statistikawan George Box merumuskan gagasan dasarnya dengan ringkas: "pada dasarnya, semua model salah, tetapi sebagian berguna" (Box dan Draper, 1987, hlm. 424).

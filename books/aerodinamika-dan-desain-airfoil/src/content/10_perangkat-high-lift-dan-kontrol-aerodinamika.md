@@ -13,7 +13,7 @@ L = \frac{1}{2} \rho v^2 S C_L
 $$
 
 Keterangan parameter:
-- $\rho$ menyatakan densitas udara ambient ($\text{kg/m}^3$).
+- $\rho$ menyatakan densitas udara sekitar ($\text{kg/m}^3$).
 - $v$ menyatakan kecepatan terbang relatif terhadap massa udara ($\text{m/s}$).
 - $S$ menyatakan luas referensi permukaan sayap ($\text{m}^2$).
 - $C_L$ menyatakan koefisien gaya angkat (*lift coefficient*).
@@ -38,7 +38,7 @@ Perangkat *leading edge* berlokasi di bagian depan sayap dan berfungsi mengondis
 - **Efek Aerodinamika:** Injeksi energi menunda terjadinya separasi aliran (*flow separation*), memungkinkan sayap beroperasi pada sudut serang kritis ($\alpha_{\text{stall}}$) yang jauh lebih besar tanpa mengalami *stall*.
 
 #### Slots
-*Slots* memiliki fungsi fisik yang identik dengan *slats*, namun berupa celah tetap (*fixed slot*) yang terpasang permanen pada struktur sayap. Struktur ini umum diaplikasikan pada pesawat latih ringan atau pesawat komuter berkecepatan rendah (STOL - *Short Take-Off and Landing*) demi keandalan mekanis tanpa beban aktuator tambahan.
+*Slots* memiliki fungsi fisik yang identik dengan *slats*, tetapi berupa celah tetap (*fixed slot*) yang terpasang permanen pada struktur sayap. Struktur ini umum diaplikasikan pada pesawat latih ringan atau pesawat komuter berkecepatan rendah (STOL - *Short Take-Off and Landing*) demi keandalan mekanis tanpa beban aktuator tambahan.
 
 ### 3. Varian Flaps di Tepi Belakang
 
@@ -75,7 +75,7 @@ Pengaruh integrasi masing-masing perangkat terhadap kurva performa $C_L \text{--
 Dalam praktik operasional penerbangan, pengaturan perangkat *high-lift* disesuaikan dengan trade-off antara gaya angkat dan gaya hambat:
 
 #### Fase Lepas Landas (Take-off)
-Pada fase lepas landas, pesawat membutuhkan gaya angkat tambahan yang memadai namun dengan penalti gaya hambat minimal demi menjamin gradien tanjak (*climb gradient*) positif:
+Pada fase lepas landas, pesawat membutuhkan gaya angkat tambahan yang memadai tetapi dengan penalti gaya hambat minimal demi menjamin gradien tanjak (*climb gradient*) positif:
 - **Pengaturan:** Menggunakan defleksi flap rendah hingga moderat (misalnya Flaps 1, 5, atau 15) bersama bilah *slats* posisi intermediate.
 - **Tujuan:** Memaksimalkan rasio $L/D$ agar pesawat mampu terangkat dari landasan pada kecepatan aman serta tetap memiliki akselerasi dorongan mesin (*thrust margin*) yang memadai.
 

@@ -8,7 +8,7 @@ Bab ini membedah bagaimana distribusi tekanan pada sayap menciptakan momen yang 
 
 Bayangkan ketika memegang selembar papan tipis di luar jendela mobil yang sedang melaju. Telapak tangan akan merasakan satu titik lokasi tempat resultan tekanan udara bekerja. Dalam aerodinamika, titik ini dinamakan **Center of Pressure ($\text{CP}$)**.
 
-**Definisi:** Pusat Tekanan (*Center of Pressure*) adalah titik pada garis tali busur (*chord line*) profil airfoil tempat resultan total distribusi gaya aerodinamika (gaya angkat dan gaya hambat) bekerja. Pada titik $\text{CP}$, jumlah momen resultan aerodinamika bernilai nol:
+**Definisi:** Pusat Tekanan (*Center of Pressure*) adalah titik pada garis kord (*chord line*) profil airfoil tempat resultan total distribusi gaya aerodinamika (gaya angkat dan gaya hambat) bekerja. Pada titik $\text{CP}$, jumlah momen resultan aerodinamika bernilai nol:
 
 $$
 M_{\text{CP}} = 0
@@ -33,7 +33,7 @@ $$
 
 #### Karakteristik dan Lokasi $\text{AC}$
 
-Berdasarkan teori airfoil tipis (*thin airfoil theory*) untuk aliran subsonik inkompresibel, posisi $\text{AC}$ terletak pada jarak sekitar $25\text{\%}$ panjang tali busur (*quarter-chord point*) diukur dari tepi depan (*leading edge*):
+Berdasarkan teori airfoil tipis (*thin airfoil theory*) untuk aliran subsonik inkompresibel, posisi $\text{AC}$ terletak pada jarak sekitar $25\text{\%}$ panjang kord (*quarter-chord point*) diukur dari tepi depan (*leading edge*):
 
 $$
 x_{\text{ac}} \approx 0{,}25c
@@ -52,11 +52,11 @@ Stabilitas statis longitudinal (*longitudinal static stability*) adalah kecender
 
 #### Kriteria Kestabilan Statis
 
-Kriteria utama agar pesawat stabil secara statis mensyaratkan bahwa: **Pusat Massa (*Center of Gravity* - $\text{CG}$) harus berada di depan Pusat Aerodinamika total pesawat (*Neutral Point* / $\text{AC}$).**
+Kriteria utama agar pesawat stabil secara statis mensyaratkan bahwa: **Pusat Massa (*Center of Gravity* - $\text{CG}$) harus berada di depan titik netral pesawat (*Neutral Point* / $\text{NP}$).**
 
-1. **Stabil (*Statically Stable*):** Posisi $\text{CG}$ berada di depan $\text{AC}$. Ketika embusan angin mendadak mendongakkan hidung pesawat (peningkatan $\text{AoA}$), gaya angkat tambahan yang timbul di belakang $\text{CG}$ akan menghasilkan momen pemulih hidung turun (*restoring nose-down moment*), sehingga pesawat kembali ke orientasi setimbang.
-2. **Netral (*Neutrally Stable*):** Posisi $\text{CG}$ berhimpit tepat pada $\text{AC}$ (titik netral atau *Neutral Point*). Pesawat mempertahankan sikap sudut baru tanpa menghasilkan momen pemulih maupun momen yang memperbesar simpangan.
-3. **Tidak Stabil (*Statically Unstable*):** Posisi $\text{CG}$ berada di belakang $\text{AC}$. Gangguan kecil yang menaikkan sudut serang akan menghasilkan momen yang memperbesar dongakan hidung (*pitch-up divergence*), memicu kondisi membahayakan hingga kehilangan gaya angkat (*stall*).
+1. **Stabil (*Statically Stable*):** Posisi $\text{CG}$ berada di depan $\text{NP}$. Ketika embusan angin mendadak mendongakkan hidung pesawat (peningkatan $\text{AoA}$), gaya angkat tambahan yang timbul di belakang $\text{CG}$ akan menghasilkan momen pemulih hidung turun (*restoring nose-down moment*), sehingga pesawat kembali ke orientasi setimbang.
+2. **Netral (*Neutrally Stable*):** Posisi $\text{CG}$ berhimpit tepat pada $\text{NP}$ (*Neutral Point*). Pesawat mempertahankan sikap sudut baru tanpa menghasilkan momen pemulih maupun momen yang memperbesar simpangan.
+3. **Tidak Stabil (*Statically Unstable*):** Posisi $\text{CG}$ berada di belakang $\text{NP}$. Gangguan kecil yang menaikkan sudut serang akan menghasilkan momen yang memperbesar dongakan hidung (*pitch-up divergence*), memicu kondisi membahayakan hingga kehilangan gaya angkat (*stall*).
 
 ### 4. Peran Penyeimbang Horizontal (*Horizontal Stabilizer*)
 
@@ -90,8 +90,8 @@ Pemahaman posisi $\text{CP}$, $\text{AC}$, dan $\text{CG}$ merupakan pertimbanga
 
 Pada armada kargo berbadan lebar seperti Boeing 747-8F, pengaturan penempatan palet kargo wajib diperhitungkan secara presisi:
 
-- Jika muatan berat diletakkan terlalu jauh ke belakang sehingga $\text{CG}$ mendekati atau melampaui $\text{AC}$, stabilitas statis berkurang drastis (*aft CG limit*). Pesawat menjadi sangat sensitif terhadap input kendali dan rentan mengalami *stall* saat lepas landas.
-- Jika muatan berat terkonsentrasi terlalu jauh ke depan sehingga $\text{CG}$ berada jauh di depan $\text{AC}$ (*forward CG limit*), momen menunduk menjadi sangat besar. Hal ini menuntut defleksi kendali kemudi tukik (*elevator*) maksimal, yang dapat menghabiskan otoritas kendali saat fase pendaratan (*flare*).
+- Jika muatan berat diletakkan terlalu jauh ke belakang sehingga $\text{CG}$ mendekati atau melampaui $\text{NP}$, stabilitas statis berkurang drastis (*aft CG limit*). Pesawat menjadi sangat sensitif terhadap input kendali dan rentan mengalami *stall* saat lepas landas.
+- Jika muatan berat terkonsentrasi terlalu jauh ke depan sehingga $\text{CG}$ berada jauh di depan $\text{NP}$ (*forward CG limit*), momen menunduk menjadi sangat besar. Hal ini menuntut defleksi kendali kemudi tukik (*elevator*) maksimal, yang dapat menghabiskan otoritas kendali saat fase pendaratan (*flare*).
 
 #### Pesawat Tempur Manuver Tinggi
 
@@ -101,10 +101,10 @@ Pesawat tempur modern generasi ke-4 dan ke-5 (seperti F-16 Fighting Falcon atau 
 
 | Konsep | Lokasi Utama | Sifat Perilaku | Peran Utama dalam Desain |
 | --- | --- | --- | --- |
-| **Center of Pressure ($\text{CP}$)** | Bergeser ($30\text{\%} - 50\text{\%}$ tali busur) | Dinamis terhadap $\text{AoA}$ | Titik tangkap riil resultan gaya aerodinamika. |
-| **Aerodynamic Center ($\text{AC}$)** | Tetap ($\approx 25\text{\%}$ tali busur) | Statis terhadap $\text{AoA}$ linear | Titik referensi analisis momen dan stabilitas sayap. |
+| **Center of Pressure ($\text{CP}$)** | Bergeser ($30\text{\%} - 50\text{\%}$ kord) | Dinamis terhadap $\text{AoA}$ | Titik tangkap riil resultan gaya aerodinamika. |
+| **Aerodynamic Center ($\text{AC}$)** | Tetap ($\approx 25\text{\%}$ kord) | Statis terhadap $\text{AoA}$ linear | Titik referensi analisis momen dan stabilitas sayap. |
 | **Center of Gravity ($\text{CG}$)** | Ditentukan distribusi massa | Variabel sesuai konfigurasi muatan | Parameter penentu kriteria stabilitas statis pesawat. |
 
-> **Catatan Kunci:** Jarak tanpa dimensi antara $\text{CG}$ dan titik netral total pesawat disebut sebagai **Static Margin** ($\text{SM}$). Semakin besar nilai $\text{SM}$, semakin stabil pesawat secara statis, namun semakin besar gaya kendali yang dibutuhkan untuk mengubah orientasi terbang.
+> **Catatan Kunci:** Jarak tanpa dimensi antara $\text{CG}$ dan titik netral total pesawat disebut sebagai **Static Margin** ($\text{SM}$). Semakin besar nilai $\text{SM}$, semakin stabil pesawat secara statis, tetapi semakin besar gaya kendali yang dibutuhkan untuk mengubah orientasi terbang.
 
 *Refleksi Konseptual: Bayangkan perancangan sebuah pesawat kertas sederhana. Ketika klip kertas ditambahkan pada bagian moncong depan, posisi $\text{CG}$ bergeser maju menjauhi $\text{AC}$. Fenomena ini mendemonstrasikan bagaimana penambahan kestabilan statis mengembalikan pesawat ke lintasan terbang lurus setelah mengalami gangguan embusan udara.*

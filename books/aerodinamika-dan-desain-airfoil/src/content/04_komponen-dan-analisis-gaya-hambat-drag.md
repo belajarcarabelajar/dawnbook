@@ -31,7 +31,7 @@ Gaya hambat total yang dialami wahana terbang merupakan akumulasi dari beberapa 
 
 1. **Form Drag (Pressure Drag):** Hambatan akibat distribusi perbedaan tekanan antara bagian depan dan belakang benda. Pemisahan aliran (*flow separation*) di sisi hilir menciptakan zona olakan bertekanan rendah yang menarik benda ke arah belakang.
 2. **Skin Friction Drag (Gesekan Kulit):** Hambatan yang timbul akibat viskositas fluida. Friksi geser antara lapisan batas (*boundary layer*) fluida dan kekasaran mikroskopis permukaan wahana menghasilkan tegangan geser dinding (*wall shear stress*).
-3. **Interference Drag (Hambat Interferensi):** Terjadi akibat percampuran dan interferensi gradien kecepatan dari dua aliran fluida di titik pertemuan antarkomponen, seperti sambungan akar sayap dengan badan pesawat (*wing-fuselage junction*).
+3. **Interference Drag (Hambat Interferensi):** Terjadi akibat percampuran dan interferensi gradien kecepatan dari dua aliran fluida di titik pertemuan antarkomponen, seperti sambungan pangkal sayap dengan badan pesawat (*wing-fuselage junction*).
 
 #### B. Induced Drag (Hambat Induksi)
 

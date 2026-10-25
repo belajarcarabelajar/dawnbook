@@ -45,7 +45,7 @@ $$
 
 1. **Blended Winglets:** Memiliki transisi kurva lengkung yang mulus (*smooth radius*) antara permukaan sayap utama dan sirip vertikal (misalnya pada Boeing 737-800). Bentuk lengkungan kontinu ini meminimalkan hambatan interferensi (*interference drag*) pada titik pertemuan struktur.
 2. **Sharklets:** Varian winglet berukuran besar dengan kurva khas yang dikembangkan untuk lini Airbus (seperti keluarga A320neo), dirancang untuk mengoptimalkan distribusi gaya angkat bentang sayap.
-3. **Raked Wingtips:** Ujung sayap dengan sudut sapuan ke belakang (*sweepback*) yang lebih tajam dibanding sayap utama (seperti pada Boeing 777-300ER dan Boeing 787 Dreamliner). Desain ini memperpanjang *effective aspect ratio* tanpa menimbulkan penambahan beban momen tekuk sebesar sirip vertikal penuh.
+3. **Raked Wingtips:** Ujung sayap dengan sudut sapuan ke belakang (*sweepback*) yang lebih tajam dibanding sayap utama (seperti pada Boeing 777-300ER dan Boeing 787 Dreamliner). Desain ini memperpanjang *effective aspect ratio* tanpa menimbulkan penambahan beban momen lentur sebesar sirip vertikal penuh.
 4. **Split Scimitar Winglets:** Desain winglet tingkat lanjut yang menggabungkan sirip ke atas berbentuk bilah pedang (*scimitar*) dengan sirip ventral ke arah bawah, membagi sirkulasi vorteks menjadi beberapa inti yang lebih kecil dan lebih cepat meluruh.
 
 ### 3. Analisis Teknis dan Formulasi Matematika
@@ -69,14 +69,14 @@ Melalui penambahan winglet, nilai penyebut $\pi \cdot \text{AR} \cdot e$ meningk
 
 - Penurunan total gaya hambat (*total drag*) jelajah berkisar antara $3\text{\%}$ hingga $5\text{\%}$.
 - Penghematan konsumsi bahan bakar hingga ratusan ribu liter per armada per tahun.
-- Peningkatan laju tanjak (*climb gradient*) dan perluasan jangkauan jelajah (*payload-range capability*).
+- Peningkatan gradien tanjak (*climb gradient*) dan perluasan jangkauan jelajah (*payload-range capability*).
 
 ### 4. Kompromi Rekayasa Struktural dan Aerodinamika
 
 Penerapan winglet menuntut analisis kompromi (*trade-off analysis*) yang ketat antara keuntungan aerodinamis dan penalti struktural:
 
 - **Pertambahan Massa Struktural:** Pemasangan struktur winglet dan penguat internal menambah bobot kosong pesawat (*Operating Empty Weight* / $\text{OEW}$).
-- **Peningkatan Momen Tekuk Akar Sayap (*Wing Root Bending Moment*):** Gaya angkat lateral yang dihasilkan winglet menggeser titik tangkap resultan gaya angkat ke arah luar bentang (*outboard*), meningkatkan momen tekuk pada akar sayap sehingga memerlukan perkuatan spar utama.
+- **Peningkatan Momen Lentur Pangkal Sayap (*Wing Root Bending Moment*):** Gaya angkat lateral yang dihasilkan winglet menggeser titik tangkap resultan gaya angkat ke arah luar bentang (*outboard*), meningkatkan momen lentur pada pangkal sayap sehingga memerlukan perkuatan spar utama.
 - **Hambatan Gesek Kulit (*Skin Friction Drag*):** Penambahan luas permukaan basah (*wetted area*) sedikit meningkatkan kontribusi hambatan parasit.
 
 Perancang aerodinamika mengandalkan komputasi dinamika fluida (*Computational Fluid Dynamics* / $\text{CFD}$) dan uji terowongan angin untuk memastikan bahwa penurunan hambatan induksi jauh melampaui penalti hambatan parasit dan beban massa struktural.
@@ -100,9 +100,9 @@ Ketika sebuah maskapai penerbangan melakukan modifikasi *retrofit* dengan memasa
 
 | Konfigurasi Wingtip | Mekanisme Utama | Keunggulan Utama | Karakteristik Beban Struktural |
 | :--- | :--- | :--- | :--- |
-| **Sayap Planar Standar** | Sirkulasi vorteks bebas di ujung sayap | Sederhana dan ringan secara struktural | Beban momen tekuk akar sayap minimum |
+| **Sayap Planar Standar** | Sirkulasi vorteks bebas di ujung sayap | Sederhana dan ringan secara struktural | Beban momen lentur pangkal sayap minimum |
 | **Blended Winglet** | Transisi radius lengkung mulus | Reduksi $C_{D,i}$ tinggi, interferensi minimal | Peningkatan momen lentur sayap moderat |
-| **Raked Wingtip** | Penambahan sudut sapuan dan perpanjangan bentang | Distribusi beban angkat optimal pada jelajah tinggi | Penambahan momen tekuk lebih rendah dibanding sirip vertikal |
+| **Raked Wingtip** | Penambahan sudut sapuan dan perpanjangan bentang | Distribusi beban angkat optimal pada jelajah tinggi | Penambahan momen lentur lebih rendah dibanding sirip vertikal |
 | **Split Scimitar Winglet** | Sirip ganda atas dan bawah | Efisiensi reduksi vorteks maksimum | Memerlukan perkuatan struktur ujung dan spar |
 
 **Prinsip Kunci:**

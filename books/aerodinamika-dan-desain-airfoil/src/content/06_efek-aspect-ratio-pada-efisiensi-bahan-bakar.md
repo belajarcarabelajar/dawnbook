@@ -48,7 +48,7 @@ Efisiensi jelajah pesawat udara berbanding lurus dengan rasio gaya angkat terhad
 
 1. **Peredaman Intensitas Vortex:** Pada sayap yang memiliki bentang panjang dan ramping ($\text{AR}$ tinggi), ujung sayap terletak semakin jauh dari garis tengah badan pesawat, sehingga proporsi luas permukaan sayap yang terpapar gangguan *downwash* menjadi jauh lebih kecil dibandingkan luas sayap total.
 2. **Dominasi pada Fase Jelajah:** Pada fase terbang jelajah (*cruise*), *induced drag* menyumbang sekitar $30\text{\%}$ hingga $40\text{\%}$ dari total gaya hambat aerodinamika pesawat. Peningkatan $\text{AR}$ secara langsung memangkas porsi hambatan ini.
-3. **Penurunan Konsumsi Bahan Bakar Spesifik:** Berkurangnya total gaya hambat memungkinkan mesin beroperasi pada tingkat dorongan lebih rendah, menurunkan konsumsi bahan bakar spesifik (*Specific Fuel Consumption* / $\text{SFC}$) secara berkelanjutan.
+3. **Penurunan Konsumsi Bahan Bakar Spesifik:** Berkurangnya total gaya hambat memungkinkan mesin beroperasi pada tingkat dorongan lebih rendah, menurunkan konsumsi bahan bakar secara berkelanjutan.
 
 *Sebagai gambaran, peningkatan efisiensi aerodinamika sebesar $1\text{\%}$ melalui optimasi $\text{AR}$ berpotensi menghemat jutaan liter bahan bakar per tahun untuk operasional maskapai penerbangan komersial.*
 
@@ -58,7 +58,7 @@ Meskipun $\text{AR}$ tinggi menawarkan keunggulan aerodinamis yang nyata, desain
 
 #### Tantangan Beban dan Momen Lengkung
 
-Sayap dengan bentang yang semakin panjang menghasilkan momen lengkung (*bending moment*) yang jauh lebih besar pada pangkal sayap (*wing root*).
+Sayap dengan bentang yang semakin panjang menghasilkan momen lentur (*bending moment*) yang jauh lebih besar pada pangkal sayap (*wing root*).
 
 - Struktur internal sayap harus diperkuat dengan material yang lebih tebal dan kokoh, yang berakibat pada penambahan massa kosong pesawat (*operating empty weight*).
 - Jika penalti bobot struktur melampaui penghematan bahan bakar yang diperoleh dari penurunan *drag*, efisiensi total sistem justru menurun.

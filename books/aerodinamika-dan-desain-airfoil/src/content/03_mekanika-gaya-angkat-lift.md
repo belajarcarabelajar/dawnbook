@@ -10,7 +10,7 @@ Ketika aliran udara bertemu dengan airfoil yang bergerak maju, aliran tersebut t
 
 #### Aliran di Pipa yang Menyempit
 
-> Bayangkan aliran fluida yang mengalir melalui penyempitan saluran pipa. Ketika luas penampang menyempit, fluida dipaksa menambah kecepatannya untuk menjaga laju aliran massa tetap konstan. Fenomena serupa terjadi di atas permukaan atas airfoil, di mana kelengkungan geometri menciptakan percepatan aliran lokal.
+> Bayangkan aliran fluida yang mengalir melalui penyempitan saluran pipa. Ketika luas penampang menyempit, fluida dipaksa menambah kecepatannya untuk menjaga laju aliran massa tetap konstan. Fenomena serupa terjadi di atas permukaan atas airfoil, tempat kelengkungan geometri menciptakan percepatan aliran lokal.
 
 ### 2. Bernoulli dan Newton
 
@@ -51,7 +51,7 @@ $$
 Keterangan variabel:
 
 - $L$ (*Lift*): Gaya angkat total yang dihasilkan ($\text{Newton}$)
-- $\rho$ (*Density*): Massa jenis udara ambient ($\text{kg/m}^3$)
+- $\rho$ (*Density*): Massa jenis udara sekitar ($\text{kg/m}^3$)
 - $v$ (*Velocity*): Kecepatan relatif wahana terhadap aliran udara bebas ($\text{m/s}$)
 - $S$ (*Surface Area*): Luas proyeksi planform sayap ($\text{m}^2$)
 - $C_L$ (*Coefficient of Lift*): Koefisien gaya angkat tanpa dimensi (*dimensionless coefficient*) yang ditentukan oleh geometri airfoil dan sudut serang
@@ -60,7 +60,7 @@ Perlu diperhatikan bahwa gaya angkat berbanding lurus dengan kuadrat kecepatan (
 
 ### 4. Pengaruh Sudut Serang (*Angle of Attack*)
 
-**Sudut Serang (*Angle of Attack*/$\text{AoA}$ atau $\alpha$)** didefinisikan sebagai sudut geometris antara garis chord (*chord line*, garis lurus yang menghubungkan *leading edge* ke *trailing edge*) dengan vektor kecepatan aliran udara relatif (*relative wind*).
+**Sudut Serang (*Angle of Attack*/$\text{AoA}$ atau $\alpha$)** didefinisikan sebagai sudut geometris antara garis kord (*chord line*, garis lurus yang menghubungkan *leading edge* ke *trailing edge*) dengan vektor kecepatan aliran udara relatif (*relative wind*).
 
 #### Hubungan $\text{AoA}$ dan Koefisien Angkat ($C_L$)
 
