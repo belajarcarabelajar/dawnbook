@@ -32,7 +32,7 @@ $$
 $$
 </div>
 
-Jika stimulus yang diterima tidak mencapai ambang batas ini, pesan tidak akan dikirim. Inilah mengapa fokus sangat penting dalam belajar; tanpa atensi yang cukup, sinyal listrik tidak akan cukup kuat untuk memicu perubahan permanen.
+Jika stimulus yang diterima tidak mencapai ambang batas ini, pesan tidak akan dikirim. Inilah mengapa fokus sangat penting dalam belajar; tanpa atensi yang cukup, sinyal listrik mungkin tidak cukup kuat untuk memicu perubahan yang bertahan lama.
 
 ## 3\. Sinapsis
 
@@ -42,7 +42,7 @@ Antara terminal akson satu neuron dengan dendrit neuron lainnya, ternyata **tida
 
 Karena sinyal listrik tidak bisa "melompati" celah kosong, otak mengubah bahasa listrik menjadi bahasa kimiawi:
 
-1. **Pelepasan Neurotransmitter:** Saat sinyal listrik mencapai terminal akson, ia memicu pelepasan molekul kimia yang disebut **neurotransmitter** yang tersimpan dalam kantung kecil (vesikel).
+1. **Pelepasan Neurotransmitter:** Saat sinyal listrik mencapai terminal akson, ia memicu pelepasan molekul kimia yang disebut **neurotransmitter** yang tersimpan dalam kantong kecil (vesikel).
 2. **Menyeberangi Celah:** Neurotransmitter ini berenang menyeberangi celah sinapsis (jaraknya hanya sekitar 20-40 nanometer).
 3. **Interaksi Reseptor:** Molekul tersebut menempel pada **reseptor** di dendrit neuron penerima, seperti kunci yang masuk ke dalam gembok.
 4. **Efek Lanjutan:** Jika kunci tersebut pas, neuron penerima akan membangkitkan sinyal listrik baru, dan pesan pun berlanjut.
@@ -53,13 +53,13 @@ Karena sinyal listrik tidak bisa "melompati" celah kosong, otak mengubah bahasa 
 
 Tidak semua pesan kimiawi itu sama. Dalam konteks pembelajaran, ada beberapa aktor utama:
 
-- **Glutamat:** Neurotransmitter "gas" atau eksitatori yang paling utama. Ia bertanggung jawab atas penguatan koneksi antar saraf. Rumus kimianya adalah $C\_5H\_9NO\_4$.
+- **Glutamat:** Neurotransmitter "gas" atau eksitatori yang paling utama. Ia bertanggung jawab atas penguatan koneksi antarsaraf. Rumus kimianya adalah $C\_5H\_9NO\_4$.
 - **GABA:** Neurotransmitter "rem" atau inhibitori. Berfungsi menenangkan otak agar tidak terjadi kelebihan informasi (*overload*).
-- **Dopamin:** Hormon "hadiah" (*reward*). Saat kamu berhasil memecahkan soal sulit, dopamin dilepaskan, membuat otak menandai aktivitas tersebut sebagai sesuatu yang penting untuk diingat.
+- **Dopamin:** Neurotransmitter "hadiah" (*reward*). Saat kamu berhasil memecahkan soal sulit, dopamin dilepaskan, membuat otak menandai aktivitas tersebut sebagai sesuatu yang penting untuk diingat.
 
 ## 5\. Mengapa Belajar Itu Melelahkan?
 
-Pernahkah kamu merasa lelah secara fisik setelah belajar intensif selama dua jam? Itu bukan perasaan kamu saja. Secara biologis, proses pengiriman pesan di sinapsis membutuhkan energi (ATP) yang besar.
+Pernahkah kamu merasa lelah secara fisik setelah belajar intensif selama dua jam? Itu bukan perasaan kamu saja. Secara biologis, proses pengiriman pesan di sinapsis membutuhkan energi (ATP) yang besar, dan itu diduga ikut berperan.
 
 ### Belajar Instrumen Musik
 
@@ -73,20 +73,20 @@ Saat pertama kali memetik gitar, sinapsis di area motorik otak kamu masih "longg
 Untuk membantu pemahaman visual, ikuti alur informasi berikut:
 
 1. **Input:** Mata melihat rumus matematika $a^2 + b^2 = c^2$.
-2. **Respon Neuron:** Neuron di korteks visual menangkap pola tersebut.
+2. **Respons Neuron:** Neuron di korteks visual menangkap pola tersebut.
 3. **Transmisi:** Sinyal listrik menjalar sepanjang akson yang bermielin.
 4. **Loncatan Sinapsis:** Glutamat dilepaskan di celah sinapsis menuju neuron di area memori (hipokampus).
-5. **Output:** kamu memahami konsep dan mampu menuliskannya kembali.
+5. **Output:** Kamu memahami konsep dan mampu menuliskannya kembali.
 
 ### Pikirkan tentang ini
 
 *Jika setiap kali kamu mempelajari hal baru, terjadi perubahan fisik berupa penguatan sinapsis di otak kamu, apakah kamu sekarang melihat diri kamu sebagai sosok yang "statis" atau sosok yang terus "terpahat" oleh pengalaman?*
 
-> **Insight Terpenting:** Pembelajaran bukan sekadar memasukkan data ke dalam gudang penyimpanan. Pembelajaran adalah **perubahan anatomi**. kamu secara harfiah sedang mengubah struktur biologis otak kamu setiap kali kamu berusaha memahami sesuatu yang baru.
+> **Insight Terpenting:** Pembelajaran bukan sekadar memasukkan data ke dalam gudang penyimpanan. Pembelajaran adalah **perubahan anatomi**. Kamu secara harfiah sedang mengubah struktur biologis otak kamu setiap kali kamu berusaha memahami sesuatu yang baru.
 
 ## Intisari
 
 - **Neuron** adalah sel penyampai pesan dengan bagian utama: Dendrit, Soma, Akson, dan Mielin.
-- **Sinapsis** adalah titik komunikasi antar neuron yang menggunakan bahan kimia (**neurotransmitter**).
+- **Sinapsis** adalah titik komunikasi antarneuron yang menggunakan bahan kimia (**neurotransmitter**).
 - **Belajar** secara biologis berarti memperkuat sinapsis dan meningkatkan kecepatan transmisi sinyal melalui mielinisasi.
 - **Fokus dan Pengulangan** adalah pemicu utama agar proses biokimia ini terjadi secara permanen.

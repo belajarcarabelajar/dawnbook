@@ -1,20 +1,20 @@
 ## Masa Depan Pendidikan Berbasis Neurosains
 
-Bayangkan sebuah sekolah yang kurikulumnya tidak kaku, melainkan beradaptasi seiring perkembangan sirkuit saraf setiap siswanya. Kita tidak lagi berada di era di mana "satu ukuran cocok untuk semua." Berkat pemahaman tentang **neuroplastisitas**, pendidikan sedang menuju perubahan besar.
+Bayangkan sebuah sekolah yang kurikulumnya tidak kaku, melainkan beradaptasi seiring perkembangan sirkuit saraf setiap siswanya. Kita tidak lagi berada di era ketika "satu ukuran cocok untuk semua." Berkat pemahaman tentang **neuroplastisitas**, pendidikan sedang menuju perubahan besar.
 
 Materi ini akan merangkum perjalanan kita memahami otak dan memproyeksikan bagaimana pengetahuan tersebut akan mengubah ruang kelas, kebijakan pendidikan, dan metode pengajaran di seluruh dunia.
 
 ## 1\. Meninggalkan Model Pabrik dalam Pendidikan
 
-Selama lebih dari seabad, sistem pendidikan global mengadopsi model industrial: siswa diproses secara linear berdasarkan usia kronologis, bukan kesiapan kognitif. Neurosains mengubah ini dengan analogi yang lebih akurat.
+Selama lebih dari seabad, sistem pendidikan global mengadopsi model industrial: siswa diproses secara linear berdasarkan usia kronologis, bukan kesiapan kognitif. Neurosains menawarkan analogi yang lebih akurat.
 
-> **Taman Saraf** Jika pendidikan lama adalah **pabrik perakitan**, maka pendidikan berbasis neurosains adalah **perkebunan saraf**. Guru bukan lagi buruh pabrik yang memasang "onderdil" informasi, melainkan seorang ahli botani saraf yang menyediakan nutrisi, stimulasi, dan lingkungan yang tepat agar setiap "pohon" saraf siswa dapat tumbuh sesuai potensinya yang unik.
+> **Taman Saraf** Jika pendidikan lama adalah **pabrik perakitan**, maka pendidikan berbasis neurosains adalah **taman saraf**. Guru bukan lagi buruh pabrik yang memasang "onderdil" informasi, melainkan seorang ahli botani saraf yang menyediakan nutrisi, stimulasi, dan lingkungan yang tepat agar setiap "pohon" saraf siswa dapat tumbuh sesuai potensinya yang unik.
 
 ### Transformasi Kurikulum Masa Depan
 
 Pendidikan masa depan akan beralih dari penguasaan materi statis menuju pengembangan **kapasitas saraf**. Fokusnya adalah:
 
-1. **Fleksibilitas Kognitif:** Melatih otak untuk beralih antar konsep dengan cepat.
+1. **Fleksibilitas Kognitif:** Melatih otak untuk beralih antarkonsep dengan cepat.
 2. **Regulasi Emosi:** Memahami bahwa sistem limbik (emosi) yang tenang adalah syarat mutlak bagi prefrontal cortex (logika) untuk bekerja.
 3. **Metakognisi:** Mengajarkan siswa untuk memahami bagaimana otak mereka belajar, sehingga mereka bisa menjadi arsitek bagi pertumbuhan saraf mereka sendiri.
 
@@ -22,7 +22,7 @@ Pendidikan masa depan akan beralih dari penguasaan materi statis menuju pengemba
 
 Salah satu aplikasi paling nyata dari neuroplastisitas di masa depan adalah **Adaptive Learning Systems**. Sistem ini menggunakan algoritma untuk memantau kecepatan pemrosesan informasi seorang siswa dan menyesuaikan tingkat kesulitan secara *real-time*.
 
-Dalam konteks teknis, kita bisa melihat ini sebagai fungsi optimasi untuk menjaga siswa tetap dalam **Zone of Proximal Development** (ZPD), di mana tantangan cukup sulit untuk memicu plastisitas, tetapi tidak terlalu sulit hingga menyebabkan stres kronis yang menghambat sinapsis.
+Dalam konteks teknis, kita bisa melihat ini sebagai fungsi optimasi untuk menjaga siswa tetap dalam **Zone of Proximal Development** (ZPD), yaitu kondisi ketika tantangan cukup sulit untuk memicu plastisitas, tetapi tidak terlalu sulit hingga menyebabkan stres kronis yang menghambat sinapsis.
 
 ### Cara Sistem Adaptif Mengatur Beban Belajar
 
@@ -41,7 +41,7 @@ Di masa depan, peran guru tidak akan digantikan oleh teknologi, melainkan bertra
 - **Pemanfaatan Mirror Neurons:** Guru akan fokus pada pemodelan perilaku dan empati, memanfaatkan sistem sel saraf cermin siswa untuk mempercepat pembelajaran keterampilan sosial dan motorik.
 - **Optimalisasi Neurotransmiter:** Guru akan merancang aktivitas yang memicu pelepasan **Dopamin** (melalui rasa ingin tahu dan *reward*) dan **Norepinefrin** (melalui tantangan yang sehat) untuk memastikan otak dalam kondisi paling plastis.
 
-*Pertimbangan Praktik Pedagogis: Memahami bahwa setiap dorongan positif mampu memperkuat jalur saraf resiliensi di otak siswa akan memberikan kesadaran baru tentang pentingnya artikulasi komunikasi di dalam kelas.*
+*Pertimbangan Praktik Pedagogis: Memahami bahwa setiap dorongan positif mampu memperkuat jalur saraf resiliensi di otak siswa akan memberikan kesadaran baru tentang pentingnya cara berkomunikasi di dalam kelas.*
 
 ## 4\. Pertumbuhan vs. Skor sebagai Metrik Keberhasilan Baru
 
@@ -55,7 +55,7 @@ $$
 $$
 </div>
 
-Di mana:
+Keterangan:
 
 - $\eta$ adalah laju belajar (learning rate) yang dipengaruhi faktor gaya hidup (tidur, nutrisi).
 - **Stimulus** adalah materi pembelajaran.

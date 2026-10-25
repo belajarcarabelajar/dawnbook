@@ -11,12 +11,12 @@ Ketika kamu membuat kesalahan, misalnya salah menjawab soal matematika atau sala
 - **ERN (Error-Related Negativity):** Ini adalah respons "Ups!" otomatis. Sinyal ini muncul hanya dalam hitungan milidetik setelah kesalahan terjadi. Ini adalah alarm bawah sadar yang mendeteksi konflik antara apa yang kamu harapkan dan apa yang sebenarnya terjadi.
 - **Pe (Error Positivity):** Ini adalah sinyal kesadaran. Sinyal ini mencerminkan perhatian yang diarahkan pada kesalahan dan upaya otak untuk memproses apa yang salah agar tidak terulang kembali.
 
-**Perbedaan Berbasis Mindset:** Penelitian oleh Dr. Jason Moser menunjukkan perbedaan yang mencolok pada kedua sinyal ini:
+**Perbedaan Berbasis Mindset:** Penelitian oleh Dr. Jason Moser menunjukkan perbedaan yang mencolok pada sinyal Pe:
 
 - Individu dengan **Growth Mindset** memiliki sinyal **Pe yang jauh lebih kuat**. Otak mereka memberikan perhatian lebih besar pada kesalahan. Mereka tidak mengabaikan kegagalan; sebaliknya, mereka memakai kesalahan tersebut untuk belajar.
 - Individu dengan **Fixed Mindset** cenderung memiliki sinyal Pe yang lemah. Otak mereka mencoba "menutup mata" terhadap kesalahan karena menganggap kesalahan sebagai ancaman terhadap identitas cerdas mereka.
 
-> **Insight Penting:** Pertumbuhan otak tidak terjadi saat kamu melakukan segalanya dengan benar, tetapi justru terjadi saat kamu melakukan kesalahan dan otak kamu bekerja keras untuk memperbaikinya.
+> **Insight Penting:** Pertumbuhan otak tidak hanya terjadi saat kamu melakukan segalanya dengan benar, tetapi juga saat kamu melakukan kesalahan dan otak kamu bekerja keras untuk memperbaikinya.
 
 ### 2\. Peran ACC dalam Ketangguhan (Resilience)
 
@@ -31,7 +31,7 @@ Dalam konteks Growth Mindset, ACC terhubung lebih kuat dengan **Prefrontal Corte
 
 ### 3\. Dopamin dan Tantangan
 
-Mindset juga mengubah cara otak memproses **Dopamin**, neurotransmiter yang sering diasosiasikan dengan hadiah (*reward*).
+Mindset diduga juga mengubah cara otak memproses **Dopamin**, neurotransmiter yang sering diasosiasikan dengan hadiah (*reward*).
 
 - Pada **Fixed Mindset**, dopamin hanya dilepaskan saat mencapai hasil akhir (mendapat nilai A, menang lomba). Jika gagal, sistem dopamin "anjlok", menyebabkan demotivasi.
 - Pada **Growth Mindset**, otak mulai melepaskan dopamin selama **proses berjuang**. Otak belajar untuk menikmati sensasi "sulit" karena ia mengasosiasikan kesulitan dengan pertumbuhan saraf.
@@ -45,7 +45,7 @@ Bagaimana pengetahuan ini diterapkan dalam kehidupan sehari-hari? Mari kita liha
 **Mempelajari Bahasa Pemrograman Baru** Seorang pemula mencoba menulis kode dan terus-menerus mendapatkan pesan *error*.
 
 - **Respons Otak Fixed Mindset:** Amigdala (pusat rasa takut) aktif. Muncul pikiran "Saya bukan orang IT". Sinyal Pe rendah. Ia menutup laptop. Tidak ada perubahan saraf yang terjadi.
-- **Respons Otak Growth Mindset:** ACC mendeteksi kesalahan, namun karena ia yakin otaknya bisa berkembang, ia memicu PFC untuk menganalisis kode tersebut. Sinyal Pe tinggi. Saat ia menemukan letak titik koma yang kurang, otak melepaskan dopamin. Jalur saraf untuk logika pemrograman pun menguat.
+- **Respons Otak Growth Mindset:** ACC mendeteksi kesalahan, namun karena si pemula yakin otaknya bisa berkembang, PFC terpicu untuk menganalisis kode tersebut. Sinyal Pe tinggi. Saat ia menemukan letak titik koma yang kurang, otak melepaskan dopamin. Jalur saraf untuk logika pemrograman pun menguat.
 
 Kedua respons itu berangkat dari pesan error yang sama, lalu bercabang seperti yang kamu lihat di sini.
 
@@ -77,4 +77,4 @@ flowchart TD
 
 *Refleksi Proses Belajar: Jika hari ini tidak ada kekeliruan atau tantangan dalam proses belajar, akankah jaringan otak terdorong untuk melakukan adaptasi fisik secara optimal?*
 
-> **Kesimpulan:** Mindset bukan sekadar motivasi. Ia adalah **saklar biologis**. Dengan meyakini bahwa otak dapat berubah, kamu sebenarnya sedang menurunkan ambang batas kimiawi bagi neuron-neuron kamu untuk membentuk koneksi baru. kamu tidak hanya belajar lebih baik; kamu secara fisik sedang membangun otak yang lebih tangguh.
+> **Kesimpulan:** Mindset bukan sekadar motivasi. Ia adalah **sakelar biologis**. Dengan meyakini bahwa otak dapat berubah, kamu mungkin sedang menurunkan ambang batas kimiawi bagi neuron-neuron kamu untuk membentuk koneksi baru. Kamu tidak hanya belajar lebih baik; kamu secara fisik sedang membangun otak yang lebih tangguh.

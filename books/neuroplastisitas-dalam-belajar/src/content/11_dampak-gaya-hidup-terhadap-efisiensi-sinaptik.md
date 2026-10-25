@@ -8,14 +8,14 @@ Dalam bab ini, kita akan mengeksplorasi bagaimana rutinitas harian, apa yang kam
 
 Sebelum kita membahas aktivitas spesifik, kita harus mengenal aktor utamanya: **Brain-Derived Neurotrophic Factor (BDNF)**.
 
-Bayangkan otak kamu adalah sebuah taman. Agar tanaman (neuron) dapat tumbuh kuat dan jembatan antar tanaman (sinapsis) terbentuk dengan kokoh, kamu memerlukan pupuk berkualitas tinggi. BDNF adalah pupuk alami tersebut.
+Bayangkan otak kamu adalah sebuah taman. Agar tanaman (neuron) dapat tumbuh kuat dan jembatan antartanaman (sinapsis) terbentuk dengan kokoh, kamu memerlukan pupuk berkualitas tinggi. BDNF adalah pupuk alami tersebut.
 
 **Apa peran utama BDNF?**
 
 - **Neuroproteksi:** Menjaga neuron yang sudah ada agar tidak mati.
 - **Neurogenesis:** Mendukung kelahiran neuron baru di hipokampus (pusat memori).
-- **Sinaptogenesis:** Mempercepat pembentukan koneksi baru antar sel saraf.
-- **LTP (Long-Term Potentiation):** Memperkuat sinyal antar sinapsis sehingga proses belajar menjadi permanen.
+- **Sinaptogenesis:** Mempercepat pembentukan koneksi baru antarsel saraf.
+- **LTP (Long-Term Potentiation):** Memperkuat sinyal di sinapsis sehingga hasil belajar bertahan lama.
 
 > **Insight Penting:** Tanpa kadar BDNF yang cukup, otak kita menjadi kaku. Kita mungkin belajar keras, tetapi sinapsis kita sulit untuk "mengunci" informasi tersebut karena kurangnya dukungan protein ini.
 
@@ -37,7 +37,7 @@ $$
 
 - **Skenario:** Seorang mahasiswa harus menghafal materi ujian yang sulit.
 - **Strategi:** Alih-alih belajar 4 jam nonstop, ia melakukan olahraga intensitas sedang selama 20 menit *sebelum* membuka buku.
-- **Hasilnya:** Olahraga tersebut memicu lonjakan BDNF, menempatkan otak dalam kondisi "siap serap". Sinapsis menjadi lebih fleksibel dan siap untuk membentuk koneksi baru (Long-Term Potentiation).
+- **Hasilnya:** Olahraga tersebut memicu lonjakan BDNF, menempatkan otak dalam kondisi "siap serap". Sinapsis menjadi lebih fleksibel dan siap diperkuat melalui Long-Term Potentiation.
 
 ## 3\. Sistem Pembersihan dan Konsolidasi saat Tidur
 
@@ -45,7 +45,7 @@ Jika olahraga adalah proses "menanam", maka tidur adalah proses "merawat dan mer
 
 ### A. Sistem Glimfatik (Pembersihan Otak)
 
-Selama kita tidur nyenyak, ruang antar neuron melebar, memungkinkan cairan serebrospinal membasuh otak dan membuang sisa-sisa metabolisme seperti protein *beta-amyloid*. Bayangkan ini seperti petugas kebersihan yang membersihkan lorong-lorong pabrik setelah jam kerja selesai agar besok bisa beroperasi dengan efisien.
+Selama kita tidur nyenyak, ruang antarneuron melebar, memungkinkan cairan serebrospinal membasuh otak dan membuang sisa-sisa metabolisme seperti protein *beta-amyloid*. Bayangkan ini seperti petugas kebersihan yang membersihkan lorong-lorong pabrik setelah jam kerja selesai agar besok bisa beroperasi dengan efisien.
 
 ### B. Konsolidasi Memori dan Pruning
 
@@ -54,7 +54,7 @@ Selama fase tidur REM dan *Slow Wave Sleep*, otak melakukan dua hal:
 1. **Replay:** Memutar ulang pola penembakan saraf yang terjadi saat belajar di siang hari, memperkuat sinapsis tersebut.
 2. **Pruning (Pemangkasan):** Menghapus koneksi-koneksi lemah yang dianggap tidak penting agar otak tidak mengalami *overload* energi.
 
-*Refleksi Konsolidasi Memori: Fenomena lupa materi pasca begadang terjadi karena tanpa durasi tidur yang memadai, celah sinapsis mengalami kejenuhan dan kehilangan kesempatan mengonsolidasikan informasi dari memori jangka pendek ke jangka panjang.*
+*Refleksi Konsolidasi Memori: Fenomena lupa materi setelah begadang terjadi karena tanpa durasi tidur yang memadai, sinapsis mengalami kejenuhan dan kehilangan kesempatan mengonsolidasikan informasi dari memori jangka pendek ke jangka panjang.*
 
 ## 4\. Nutrisi sebagai Bahan Baku Struktur Saraf
 
@@ -67,11 +67,11 @@ Otak adalah organ yang paling lapar energi, menghabiskan sekitar 20% dari total 
 		- DHA membantu menjaga fleksibilitas membran sinapsis sehingga neurotransmiter dapat diterima dengan lebih efisien.
 2. **Polifenol (Antioksidan):**
 	- Ditemukan dalam blueberry, cokelat hitam, dan teh hijau.
-		- Membantu melindungi neuron dari stres oksidatif dan telah terbukti meningkatkan level BDNF.
+		- Membantu melindungi neuron dari stres oksidatif dan diduga meningkatkan level BDNF.
 3. **Indeks Glikemik Rendah:**
 	- Otak membutuhkan suplai glukosa yang stabil. Lonjakan gula darah yang drastis (dari makanan manis) diikuti dengan penurunan tajam dapat menyebabkan kabut otak (*brain fog*) dan mengganggu fokus.
 
-## 5\. Hubungan Antar Faktor (Sinergi Gaya Hidup)
+## 5\. Hubungan Antarfaktor (Sinergi Gaya Hidup)
 
 Ketiga faktor ini tidak bekerja secara terpisah, melainkan saling memperkuat dalam sebuah ekosistem pembelajaran.
 
@@ -86,9 +86,9 @@ Ketiga faktor ini tidak bekerja secara terpisah, melainkan saling memperkuat dal
 Untuk memaksimalkan kapasitas belajar kamu berdasarkan sains neuroplastisitas, terapkan langkah-langkah berikut:
 
 1. **Gerak Aktif:** Lakukan aktivitas fisik minimal 150 menit per minggu. Gunakan sesi olahraga singkat (10 menit) di sela-sela waktu belajar.
-2. **Prioritas Tidur:** Targetkan 7-9 jam tidur. Hindari layar biru menjelang tidur.
+2. **Prioritas Tidur:** Targetkan 7-9 jam tidur. Hindari cahaya biru dari layar menjelang tidur.
 3. **Diet Cerdas:** Konsumsi lemak sehat (ikan, kacang-kacangan, alpukat) dan kurangi gula rafinasi untuk menjaga stabilitas energi otak.
 
-> **Pesan Utama:** Otak kamu bukan hanya perangkat lunak yang bisa di- *update* dengan informasi, tapi juga perangkat keras yang kualitasnya bergantung pada cara kamu merawat tubuh. Efisiensi sinaptik adalah hasil dari sinergi antara apa yang kamu pelajari dan bagaimana kamu hidup.
+> **Pesan Utama:** Otak kamu bukan hanya perangkat lunak yang bisa di-*update* dengan informasi, tapi juga perangkat keras yang kualitasnya bergantung pada cara kamu merawat tubuh. Efisiensi sinaptik adalah hasil dari sinergi antara apa yang kamu pelajari dan bagaimana kamu hidup.
 
-*Mari refleksi sejenak: Dari tiga pilar di atas (tidur, nutrisi, olahraga), manakah yang saat ini menjadi penghambat terbesar dalam proses belajar kamu? Langkah kecil apa yang bisa kamu ambil hari ini untuk memperbaikinya?*
+*Mari berefleksi sejenak: Dari tiga pilar di atas (tidur, nutrisi, olahraga), manakah yang saat ini menjadi penghambat terbesar dalam proses belajar kamu? Langkah kecil apa yang bisa kamu ambil hari ini untuk memperbaikinya?*

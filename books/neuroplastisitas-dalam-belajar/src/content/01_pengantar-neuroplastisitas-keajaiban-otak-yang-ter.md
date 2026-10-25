@@ -1,6 +1,6 @@
 ## Pengantar Neuroplastisitas
 
-**Neuroplastisitas** adalah salah satu temuan penting dalam sains modern, dan perjalanan kamu memahaminya dimulai dari halaman ini. Selama berabad-abad, manusia percaya bahwa otak kita adalah sebuah "mesin" yang sudah dipasang mati (hardwired) sejak lahir atau masa kanak-kanak. Namun, sains terbaru memberitahu kita hal yang jauh lebih optimis: otak kamu adalah sebuah organ yang dinamis, hidup, dan terus berubah.
+**Neuroplastisitas** adalah salah satu temuan penting dalam sains modern, dan perjalanan kamu memahaminya dimulai dari halaman ini. Selama berabad-abad, manusia percaya bahwa otak kita adalah sebuah "mesin" yang sudah dipasang mati (hardwired) sejak lahir atau masa kanak-kanak. Namun, sains terbaru memberi tahu kita hal yang jauh lebih optimis: otak kamu adalah sebuah organ yang dinamis, hidup, dan terus berubah.
 
 Materi ini akan membawa kamu memahami apa itu neuroplastisitas dan bagaimana sudut pandang dunia medis berubah dari melihat otak sebagai benda statis menjadi sesuatu yang adaptif.
 
@@ -11,7 +11,7 @@ Secara etimologis, kata **Neuroplastisitas** berasal dari dua kata:
 1. **Neuro**: Merujuk pada neuron, yaitu sel-sel saraf yang merupakan blok bangunan dasar otak dan sistem saraf kita.
 2. **Plastisitas**: Berasal dari kata Yunani *plastos*, yang berarti "dapat dibentuk" atau "mudah ditempa" (seperti plastik atau tanah liat).
 
-> **Definisi:** Neuroplastisitas adalah kemampuan otak untuk mengorganisir ulang dirinya sendiri dengan membentuk koneksi saraf baru sepanjang hidup. Proses ini memungkinkan sel-sel saraf (neuron) di otak untuk merespons situasi baru atau perubahan di lingkungan.
+> **Definisi:** Neuroplastisitas adalah kemampuan otak untuk mengorganisasi ulang dirinya sendiri dengan membentuk koneksi saraf baru sepanjang hidup. Proses ini memungkinkan sel-sel saraf (neuron) di otak untuk merespons situasi baru atau perubahan di lingkungan.
 
 Sederhananya, neuroplastisitas adalah alasan mengapa kita bisa belajar keterampilan baru, melupakan kebiasaan lama, dan pulih dari cedera otak. Otak kamu hari ini secara fisik berbeda dengan otak kamu kemarin, karena pengalaman yang kamu lalui telah "memahat" sirkuit saraf yang baru.
 
@@ -54,7 +54,7 @@ Bayangkan otak kamu adalah sebuah hutan lebat yang belum terjamah.
 Meskipun detail biologisnya akan dibahas di bagian selanjutnya, secara prinsip ada dua cara utama otak berubah:
 
 1. **Perubahan Fungsional**: Kemampuan otak untuk memindahkan fungsi dari area yang rusak ke area yang tidak rusak.
-2. **Perubahan Struktural**: Kemampuan otak untuk secara fisik mengubah struktur strukturnya sebagai hasil dari pembelajaran (misalnya, area otak tertentu menjadi lebih tebal karena sering dilatih).
+2. **Perubahan Struktural**: Kemampuan otak untuk secara fisik mengubah strukturnya sebagai hasil dari pembelajaran (misalnya, area otak tertentu menjadi lebih tebal karena sering dilatih).
 
 Dalam bahasa matematis sederhana, kita bisa melihat perubahan ini sebagai fungsi dari atensi dan repetisi:
 
