@@ -82,7 +82,7 @@ Pasien stroke sering menggunakan prinsip ini untuk memulihkan fungsi gerak. Deng
 
 Saat pertama kali bermain *game*, koordinasi antara mata dan tangan terasa lambat. Namun, karena input visual dan respons motorik terjadi berulang kali secara sinkron, sinapsis di sirkuit tersebut menguat (LTP), sehingga reaksi kamu menjadi lebih cepat.
 
-> **Insight Penting:** Neuroplastisitas melalui prinsip Hebbian adalah pisau bermata dua. Ia bisa memperkuat kebiasaan baik, namun ia juga yang bertanggung jawab memperkuat sirkuit kecanduan atau pola pikir negatif jika dilakukan berulang kali.
+> **Insight Penting:** Neuroplastisitas melalui prinsip Hebbian adalah pisau bermata dua. Ia bisa memperkuat kebiasaan baik, tetapi ia juga yang bertanggung jawab memperkuat sirkuit kecanduan atau pola pikir negatif jika dilakukan berulang kali.
 
 ## 6\. Ringkasan Prinsip Hebbian
 

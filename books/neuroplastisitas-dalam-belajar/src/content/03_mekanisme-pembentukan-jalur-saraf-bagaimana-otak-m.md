@@ -2,7 +2,7 @@
 
 ## Mekanisme Pembentukan Jalur Saraf
 
-Pernahkah kamu membayangkan otak kamu sebagai sebuah kota yang sibuk namun belum memiliki peta jalan yang tetap? Setiap kali kamu mempelajari kata baru dalam bahasa asing atau mencoba teknik melakukan *dribble* bola basket, kota tersebut mulai membangun jalan setapak baru. Jika kamu terus melakukannya, jalan setapak itu berubah menjadi jalan raya yang lebar dan cepat.
+Pernahkah kamu membayangkan otak kamu sebagai sebuah kota yang sibuk tetapi belum memiliki peta jalan yang tetap? Setiap kali kamu mempelajari kata baru dalam bahasa asing atau mencoba teknik melakukan *dribble* bola basket, kota tersebut mulai membangun jalan setapak baru. Jika kamu terus melakukannya, jalan setapak itu berubah menjadi jalan raya yang lebar dan cepat.
 
 Mekanisme ini bukan sekadar kiasan; ini adalah proses biologis nyata yang disebut **neuroplastisitas struktural**. Mari kita bedah bagaimana otak kita secara fisik berubah bentuk saat kita belajar.
 
@@ -18,16 +18,16 @@ Proses ini terjadi dalam beberapa tahap:
 
 > **Insight Memorable:** Otak kita tidak lahir dengan kabel yang sudah terpasang mati. Sirkuit kita terbentuk melalui setiap pengalaman yang kita pilih untuk ditekuni.
 
-### 2\. Myelinasi Mempercepat Sinyal Saraf
+### 2\. Mielinisasi Mempercepat Sinyal Saraf
 
-Setelah koneksi atau jalur saraf terbentuk, jalur tersebut awalnya masih lambat dan rapuh. Di sinilah peran **myelin** masuk.
+Setelah koneksi atau jalur saraf terbentuk, jalur tersebut awalnya masih lambat dan rapuh. Di sinilah peran **mielin** masuk.
 
-Myelin adalah lapisan lemak yang membungkus akson, berfungsi mirip dengan isolator pada kabel listrik. Proses pembungkusannya disebut **Myelinasi**.
+Mielin adalah lapisan lemak yang membungkus akson, berfungsi mirip dengan isolator pada kabel listrik. Proses pembungkusannya disebut **Mielinisasi**.
 
-- **Jalur Tanpa Myelin:** Pesan bergerak seperti orang yang berjalan kaki di atas tanah berlumpur. Lambat dan melelahkan.
-- **Jalur Dengan Myelin:** Pesan bergerak seperti mobil balap di jalan tol yang mulus. Myelin memungkinkan sinyal elektrik meloncat dengan kecepatan tinggi dari celah ke celah yang disebut *Nodes of Ranvier*.
+- **Jalur Tanpa Mielin:** Pesan bergerak seperti orang yang berjalan kaki di atas tanah berlumpur. Lambat dan melelahkan.
+- **Jalur Dengan Mielin:** Pesan bergerak seperti mobil balap di jalan tol yang mulus. Mielin memungkinkan sinyal elektrik meloncat dengan kecepatan tinggi dari celah ke celah yang disebut *Nodes of Ranvier*.
 
-**Analogi Kehidupan Nyata:** Bayangkan kamu sedang belajar bermain gitar. Awalnya, jari kamu terasa kaku dan lambat (jalur saraf belum bermyelin). Setelah berlatih berminggu-minggu, jari kamu bergerak secara otomatis dengan cepat. Itu adalah hasil dari lapisan myelin yang semakin menebal pada jalur saraf khusus "bermain gitar" kamu.
+**Analogi Kehidupan Nyata:** Bayangkan kamu sedang belajar bermain gitar. Awalnya, jari kamu terasa kaku dan lambat (jalur saraf belum bermielin). Setelah berlatih berminggu-minggu, jari kamu bergerak secara otomatis dengan cepat. Itu adalah hasil dari lapisan mielin yang semakin menebal pada jalur saraf khusus "bermain gitar" kamu.
 
 ### 3\. Synaptic Pruning
 
@@ -38,7 +38,7 @@ Otak memiliki prinsip ekonomi yang ketat: *"Gunakan atau Hilangkan"* (*Use it or
 - Koneksi yang jarang digunakan akan dianggap sebagai "sampah" atau beban energi.
 - Otak akan memutus koneksi tersebut agar energi bisa dialirkan ke jalur yang lebih sering digunakan.
 
-*Fenomena Pemangkasan Sinapsis: Seseorang yang pernah mahir bermain catur saat kecil namun berhenti selama 10 tahun akan merasa canggung saat memainkannya kembali. Hal ini terjadi karena otak secara alami memangkas jalur saraf yang jarang diaktifkan demi efisiensi energi bagi aktivitas harian saat ini.*
+*Fenomena Pemangkasan Sinapsis: Seseorang yang pernah mahir bermain catur saat kecil tetapi berhenti selama 10 tahun akan merasa canggung saat memainkannya kembali. Hal ini terjadi karena otak secara alami memangkas jalur saraf yang jarang diaktifkan demi efisiensi energi bagi aktivitas harian saat ini.*
 
 ### 4\. Reorganisasi Kortikal
 
@@ -48,14 +48,14 @@ Ketika kita mempelajari keterampilan baru secara intensif, otak melakukan **reor
 
 ### Kapan Sebuah Jalur Saraf Bertahan?
 
-Dalam gambaran yang disederhanakan, setiap pengulangan memperkuat sinapsis, dan penguatannya makin besar ketika kamu benar-benar fokus. Pengulangan yang konsisten juga menebalkan lapisan myelin pada jalur tersebut. Jalur saraf dianggap terbentuk dan bertahan bila penguatannya melewati semacam ambang. Penguatan sinapsis yang bertahan lama itu dikenal sebagai *Long-Term Potentiation* (LTP). Kalau belum melewati ambang itu, jalurnya tetap lemah dan rentan ikut dipangkas.
+Dalam gambaran yang disederhanakan, setiap pengulangan memperkuat sinapsis, dan penguatannya makin besar ketika kamu benar-benar fokus. Pengulangan yang konsisten juga menebalkan lapisan mielin pada jalur tersebut. Jalur saraf dianggap terbentuk dan bertahan bila penguatannya melewati semacam ambang. Penguatan sinapsis yang bertahan lama itu dikenal sebagai *Long-Term Potentiation* (LTP). Kalau belum melewati ambang itu, jalurnya tetap lemah dan rentan ikut dipangkas.
 
 ### Bagaimana Mempercepat Pembentukan Jalur Saraf?
 
 Memahami biologi ini memberi kita strategi nyata untuk belajar lebih efektif:
 
 - **Deep Work (Fokus Tinggi):** Fokus yang tajam memicu pelepasan neurokimia yang berfungsi seperti "lem" untuk sinapsis baru. Tanpa fokus, *growth cones* kesulitan menemukan targetnya.
-- **Repetisi Berjarak (Spaced Repetition):** Pengulangan berkala memberikan sinyal kepada otak bahwa jalur ini "penting", sehingga memicu proses Myelinasi yang lebih tebal.
+- **Repetisi Berjarak (Spaced Repetition):** Pengulangan berkala memberikan sinyal kepada otak bahwa jalur ini "penting", sehingga memicu proses Mielinisasi yang lebih tebal.
 - **Tidur yang Cukup:** Proses fisik pembentukan protein sinapsis dan pembersihan jalur saraf yang tidak perlu (pruning) terjadi secara maksimal saat kita tidur nyenyak.
 
 **Pesan Utama:** Otak kamu adalah organ yang plastis. Setiap kali kamu menantang diri sendiri untuk mempelajari sesuatu yang sulit, kamu sedang mendorong neuron kamu untuk melakukan "jabat tangan" baru dan membangun jalan tol informasi.

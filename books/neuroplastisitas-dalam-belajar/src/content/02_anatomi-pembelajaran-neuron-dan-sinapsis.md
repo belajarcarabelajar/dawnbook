@@ -65,7 +65,7 @@ Pernahkah kamu merasa lelah secara fisik setelah belajar intensif selama dua jam
 
 Saat pertama kali memetik gitar, sinapsis di area motorik otak kamu masih "longgar". Sinyal kimiawi sering tersendat atau tidak sampai ke tujuan dengan tepat. Akibatnya, jari kamu terasa kaku.
 
-- **Latihan Hari ke-1:** Neuron mencoba membangun jalur. Sinyal listrik $Na^+$ dan $K^+$ bekerja keras, neurotransmitter dilepaskan namun reseptor belum peka.
+- **Latihan Hari ke-1:** Neuron mencoba membangun jalur. Sinyal listrik $Na^+$ dan $K^+$ bekerja keras, neurotransmitter dilepaskan tetapi reseptor belum peka.
 - **Latihan Hari ke-30:** Melalui pengulangan, struktur fisik sinapsis berubah. Jumlah reseptor meningkat, dan selubung mielin menebal. Sinyal kini mengalir lebih cepat. Inilah yang kita sebut sebagai "memori otot".
 
 ## 6\. Visualisasi Sederhana Jalur Saraf

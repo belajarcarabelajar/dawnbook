@@ -45,7 +45,7 @@ Bagaimana pengetahuan ini diterapkan dalam kehidupan sehari-hari? Mari kita liha
 **Mempelajari Bahasa Pemrograman Baru** Seorang pemula mencoba menulis kode dan terus-menerus mendapatkan pesan *error*.
 
 - **Respons Otak Fixed Mindset:** Amigdala (pusat rasa takut) aktif. Muncul pikiran "Saya bukan orang IT". Sinyal Pe rendah. Ia menutup laptop. Tidak ada perubahan saraf yang terjadi.
-- **Respons Otak Growth Mindset:** ACC mendeteksi kesalahan, namun karena si pemula yakin otaknya bisa berkembang, PFC terpicu untuk menganalisis kode tersebut. Sinyal Pe tinggi. Saat ia menemukan letak titik koma yang kurang, otak melepaskan dopamin. Jalur saraf untuk logika pemrograman pun menguat.
+- **Respons Otak Growth Mindset:** ACC mendeteksi kesalahan, tetapi karena si pemula yakin otaknya bisa berkembang, PFC terpicu untuk menganalisis kode tersebut. Sinyal Pe tinggi. Saat ia menemukan letak titik koma yang kurang, otak melepaskan dopamin. Jalur saraf untuk logika pemrograman pun menguat.
 
 Kedua respons itu berangkat dari pesan error yang sama, lalu bercabang seperti yang kamu lihat di sini.
 

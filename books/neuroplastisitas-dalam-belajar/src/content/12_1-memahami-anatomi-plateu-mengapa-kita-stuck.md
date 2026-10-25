@@ -1,6 +1,6 @@
 ## Anatomi Plateau
 
-Pernahkah kamu merasa sudah belajar berjam-jam, berlatih setiap hari, namun kemampuan kamu seolah jalan di tempat? Dalam dunia psikologi belajar, fenomena ini disebut sebagai **Learning Plateau** (Dataran Tinggi Belajar).
+Pernahkah kamu merasa sudah belajar berjam-jam, berlatih setiap hari, tetapi kemampuan kamu seolah jalan di tempat? Dalam dunia psikologi belajar, fenomena ini disebut sebagai **Learning Plateau** (Dataran Tinggi Belajar).
 
 Meskipun membuat frustrasi, kabar baiknya adalah dari sudut pandang neuroplastisitas, plateau bukanlah tanda bahwa kamu berhenti belajar. Sebaliknya, itu adalah fase penting ketika otak kamu sedang melakukan "pemeliharaan sistem" di balik layar.
 
@@ -11,9 +11,9 @@ Secara biologis, saat kita mempelajari keterampilan baru, otak membentuk jalur s
 Mengapa ini terjadi?
 
 - **Konsolidasi Sinaptik:** Otak membutuhkan waktu untuk memperkuat koneksi yang sudah ada (misalnya melalui penguatan sinaptik dan mielinisasi akson) sebelum bisa menambahkan kompleksitas baru.
-- **Otomatisasi Berlebih:** Kita sering terjebak dalam "zona nyaman kognitif" di mana kita mengulangi apa yang sudah kita bisa tanpa memberikan tantangan yang cukup untuk memicu perubahan saraf.
+- **Otomatisasi Berlebih:** Kita sering terjebak dalam "zona nyaman kognitif" tempat kita mengulangi apa yang sudah kita bisa tanpa memberikan tantangan yang cukup untuk memicu perubahan saraf.
 
-> **Insight:** Plateau adalah fase di mana otak sedang mengubah pengetahuan jangka pendek yang rapuh menjadi struktur saraf yang permanen dan efisien.
+> **Insight:** Plateau adalah fase ketika otak sedang mengubah pengetahuan jangka pendek yang rapuh menjadi struktur saraf yang permanen dan efisien.
 
 ## 2\. Kegagalan sebagai Sinyal Kalibrasi Otak
 
@@ -50,7 +50,7 @@ Dalam penelitian NIH oleh Buch dan rekan (2021), relawan berlatih mengetik sebua
 
 ## 4\. Hubungan Fokus dan Error
 
-Kita bisa memodelkan efisiensi belajar ($L$) sebagai fungsi dari Fokus ($f$) dan Sinyal Kesalahan yang disadari ($E$):
+Kita bisa memodelkan efisiensi belajar ($L$) sebagai fungsi dari Fokus ($f$) dan Sinyal Kesalahan yang disadari ($\Delta E$):
 
 <div>
 $$
@@ -58,7 +58,7 @@ L \approx f \times \Delta E
 $$
 </div>
 
-Di mana:
+Keterangan:
 
 - $f$ adalah atensi yang terpusat.
 - $\Delta E$ adalah perbedaan antara hasil yang diharapkan dan hasil nyata (error signal).

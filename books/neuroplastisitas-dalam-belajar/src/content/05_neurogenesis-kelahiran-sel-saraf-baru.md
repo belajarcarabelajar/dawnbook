@@ -16,9 +16,9 @@ Meskipun terjadi secara terbatas di otak dewasa dibandingkan saat masa perkemban
 
 ### Lokasi Neurogenesis di Otak
 
-Di otak manusia dewasa, neurogenesis terutama terjadi di dua lokasi utama, namun yang paling relevan dengan proses belajar dan memori adalah **Hippocampus**, tepatnya di area yang disebut *Gyrus Dentatus*.
+Di otak manusia dewasa, neurogenesis terutama terjadi di dua lokasi utama, tetapi yang paling relevan dengan proses belajar dan memori adalah **Hipokampus**, tepatnya di area yang disebut *Gyrus Dentatus*.
 
-**Perpustakaan yang Terus Bertumbuh** Bayangkan Hippocampus sebagai sebuah gudang logistik atau pusat sortir di sebuah perpustakaan besar. Tugasnya adalah menerima buku-buku baru (informasi), mengategorikannya, dan mengirimkannya ke rak yang tepat (memori jangka panjang di korteks).
+**Perpustakaan yang Terus Bertumbuh** Bayangkan Hipokampus sebagai sebuah gudang logistik atau pusat sortir di sebuah perpustakaan besar. Tugasnya adalah menerima buku-buku baru (informasi), mengategorikannya, dan mengirimkannya ke rak yang tepat (memori jangka panjang di korteks).
 
 - **Tanpa Neurogenesis:** Gudang tersebut akan penuh sesak, petugasnya kelelahan, dan buku-buku baru akan berserakan tanpa teratur.
 - **Dengan Neurogenesis:** Otak terus mendatangkan "karyawan baru" (neuron baru) untuk membantu memproses arus informasi yang terus masuk.
@@ -39,10 +39,10 @@ Setiap neuron baru menambah kapasitas "bandwidth" otak untuk menyerap informasi 
 
 ### Neurogenesis dan Regulasi Emosi
 
-Neurogenesis tidak hanya membuat kita cerdas, tetapi juga menjaga kesehatan mental kita. Hippocampus memiliki hubungan erat dengan sistem limbik, jaringan yang berperan penting dalam emosi.
+Neurogenesis tidak hanya membuat kita cerdas, tetapi juga menjaga kesehatan mental kita. Hipokampus memiliki hubungan erat dengan sistem limbik, jaringan yang berperan penting dalam emosi.
 
 - **Resiliensi terhadap Stres:** Penelitian menunjukkan bahwa tingkat neurogenesis yang tinggi berkorelasi dengan kemampuan seseorang untuk pulih dari stres psikologis.
-- **Kaitan dengan Depresi:** Banyak ilmuwan menemukan bahwa penderita depresi klinis sering kali mengalami penyusutan volume hippocampus. Obat-obatan antidepresan dan aktivitas fisik bekerja (sebagian) dengan cara memicu kembali kelahiran neuron baru di area ini.
+- **Kaitan dengan Depresi:** Banyak ilmuwan menemukan bahwa penderita depresi klinis sering kali mengalami penyusutan volume hipokampus. Obat-obatan antidepresan dan aktivitas fisik bekerja (sebagian) dengan cara memicu kembali kelahiran neuron baru di area ini.
 
 *Indikator Regenerasi Otak: Sensasi pikiran yang terasa lebih jernih serta suasana hati yang membaik setelah mempelajari hal baru atau berolahraga mungkin menandakan bahwa jaringan otak sedang melakukan regenerasi.*
 
@@ -51,7 +51,7 @@ Neurogenesis tidak hanya membuat kita cerdas, tetapi juga menjaga kesehatan ment
 Proses ini tidak terjadi dalam sekejap. Ini adalah perjalanan perkembangan yang sistematis:
 
 1. **Proliferasi:** Sel punca membelah diri untuk menciptakan sel progenitor.
-2. **Migrasi:** Sel baru berpindah ke lokasi di mana mereka dibutuhkan.
+2. **Migrasi:** Sel baru berpindah ke lokasi tempat mereka dibutuhkan.
 3. **Diferensiasi:** Sel tersebut memilih identitasnya (menjadi neuron, bukan jenis sel otak lainnya).
 4. **Integrasi Sinaptik:** Neuron baru mulai menumbuhkan dendrit dan akson untuk "berjabat tangan" dengan neuron lama.
 
@@ -81,7 +81,7 @@ Salah satu bukti paling terkenal tentang plastisitas otak orang dewasa adalah st
 
 **Hasil penelitian menunjukkan:**
 
-- Hasil pemindaian MRI memperlihatkan volume materi abu-abu di hippocampus posterior sopir taksi lebih besar dibandingkan kelompok pembanding yang tidak menyetir taksi, dan volume itu berkorelasi dengan lamanya mereka menjadi sopir taksi.
+- Hasil pemindaian MRI memperlihatkan volume materi abu-abu di hipokampus posterior sopir taksi lebih besar dibandingkan kelompok pembanding yang tidak menyetir taksi, dan volume itu berkorelasi dengan lamanya mereka menjadi sopir taksi.
 - Studi ini mengukur volume, bukan kelahiran sel. Para penelitinya sendiri menyebut neurogenesis hanya sebagai salah satu mekanisme yang mungkin mendasari perubahan itu, karena data MRI tidak bisa menunjukkannya secara langsung.
 
 ### Bagaimana Memacu Kelahiran Neuron Baru?
@@ -90,7 +90,7 @@ Meskipun mekanisme mendalam akan dibahas di bagian selanjutnya, kamu bisa mulai 
 
 - **Novelty (Kebaruan):** Otak cenderung melahirkan lebih sedikit neuron baru jika kamu hanya melakukan rutinitas yang sama. Pelajari instrumen musik baru, bahasa baru, atau rute pulang yang berbeda untuk memberikan stimulus.
 - **Aerobic Exercise:** Aktivitas fisik yang meningkatkan detak jantung adalah pemicu utama produksi BDNF.
-- **Kendalikan Kortisol:** Stres kronis melepaskan hormon kortisol yang bertindak seperti "racun tanaman" bagi neurogenesis di hippocampus.
+- **Kendalikan Kortisol:** Stres kronis melepaskan hormon kortisol yang bertindak seperti "racun tanaman" bagi neurogenesis di hipokampus.
 
 **Penting:**
 

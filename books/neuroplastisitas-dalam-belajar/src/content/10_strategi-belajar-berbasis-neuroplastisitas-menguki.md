@@ -26,7 +26,7 @@ Strategi berikut dirancang untuk **memperkuat sinapsis** dengan bekerja selaras 
 **Spaced Repetition** (Pengulangan Berjarak) adalah teknik mendistribusikan sesi belajar dalam interval waktu yang meningkat.
 
 - **Mekanisme Neuroplastisitas:** Otak kita secara biologis dirancang untuk melupakan informasi yang tidak dianggap vital. Dengan meninjau kembali materi tepat saat kamu hampir melupakannya, kamu memaksa otak untuk melakukan konsolidasi ulang memori secara lebih mendalam; salah satu mekanisme yang diduga terlibat adalah **Long-Term Potentiation (LTP)**.
-- **Rumus Matematika Kurva Melupakan:** Salah satu model eksponensial untuk kurva melupakan adalah $R = e^{-\frac{t}{S}}$ Di mana:
+- **Rumus Matematika Kurva Melupakan:** Salah satu model eksponensial untuk kurva melupakan adalah $R = e^{-\frac{t}{S}}$ Dengan:
 	- $R$ adalah retensi (seberapa banyak kita ingat).
 		- $S$ adalah kekuatan memori (stabilitas).
 		- $t$ adalah waktu yang telah berlalu.
@@ -45,7 +45,7 @@ Kebanyakan orang belajar dengan cara *blocked practice* (belajar topik A sampai 
 - **Mekanisme Neuroplastisitas:** Saat kamu mencampur topik, otak kamu dipaksa untuk terus-menerus membedakan antara konsep-konsep yang serupa. Ini membangun fleksibilitas kognitif dan membantu otak mengenali pola yang lebih dalam.
 - **Analogi:** Seorang petenis yang berlatih dengan pukulan yang diacak (forehand, lalu backhand, lalu volley secara acak) akan jauh lebih siap menghadapi pertandingan nyata dibandingkan petenis yang hanya melakukan 100 kali forehand berturut-turut.
 
-*Ilusi Kemajuan: Belajar satu subjek selama berjam-jam sering memberikan rasa nyaman, namun rasa nyaman tersebut bisa jadi merupakan ilusi kemajuan kognitif. Rasa tertantang saat beralih antar topik justru menandakan bahwa sirkuit otak sedang aktif membentuk pola pemahaman baru.*
+*Ilusi Kemajuan: Belajar satu subjek selama berjam-jam sering memberikan rasa nyaman, tetapi rasa nyaman tersebut bisa jadi merupakan ilusi kemajuan kognitif. Rasa tertantang saat beralih antartopik justru menandakan bahwa sirkuit otak sedang aktif membentuk pola pemahaman baru.*
 
 ### Strategi Belajar Pemrograman
 
