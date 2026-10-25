@@ -60,7 +60,7 @@ Ditagih debt collector atau sekadar mikirin saldo minus bisa bikin stres. Beban 
 
 ### 2.4 Pola "Gali Lubang Tutup Lubang"
 
-Bahaya terbesar muncul saat kamu harus cari pinjaman baru buat menambal cicilan bulan ini. Terlebih jika terjebak jerat pinjol ilegal yang menjanjikan kemudahan namun bunganya tinggi.
+Bahaya terbesar muncul saat kamu harus cari pinjaman baru buat menambal cicilan bulan ini. Terlebih jika terjebak jerat pinjol ilegal yang menjanjikan kemudahan, tetapi bunganya tinggi.
 
 ## 3. Strategi Efektif Mengurangi Beban Utang
 

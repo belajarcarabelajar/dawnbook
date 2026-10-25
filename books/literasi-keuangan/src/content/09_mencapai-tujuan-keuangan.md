@@ -13,7 +13,7 @@ Target yang jelas membantu kamu dalam beberapa hal:
 
 ## Kerangka Tujuan SMART
 
-Kerangka SMART memastikan tujuan kamu ambisius namun tetap masuk akal. 
+Kerangka SMART memastikan tujuan kamu ambisius, tetapi tetap masuk akal. 
 
 Konsep SMART terdiri dari:
 - **Specific** (Spesifik)

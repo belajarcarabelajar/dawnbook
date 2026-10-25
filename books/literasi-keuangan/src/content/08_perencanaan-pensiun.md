@@ -16,7 +16,7 @@ Beberapa alasan mengapa persiapan awal ini penting:
 
 ## Cara Menghitung Kebutuhan Dana Pensiun
 
-Langkah pertama yang harus dilakukan adalah memproyeksikan target dana pensiun. Angka ini tidak harus presisi, namun cukup sebagai panduan dasar.
+Langkah pertama yang harus dilakukan adalah memproyeksikan target dana pensiun. Angka ini tidak harus presisi, tetapi cukup sebagai panduan dasar.
 
 Faktor utama yang memengaruhi perhitungan:
 

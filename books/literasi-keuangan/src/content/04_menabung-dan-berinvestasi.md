@@ -73,7 +73,7 @@ Surat utang yang dirilis oleh negara atau perusahaan swasta. Posisimu adalah mem
 - **Risiko Terukur:** Surat berharga dari pemerintah tergolong minim risiko karena dijamin undang-undang. Sementara itu, risiko obligasi korporasi bergantung pada kondisi keuangan perusahaannya.
 
 ### 3. Reksa Dana
-Wadah investasi di mana dana kamu akan dihimpun dengan uang investor lain, lalu dikelola langsung oleh ahlinya yang disebut Manajer Investasi (MI).
+Wadah investasi tempat dana kamu akan dihimpun dengan uang investor lain, lalu dikelola langsung oleh ahlinya yang disebut Manajer Investasi (MI).
 - **Ramah Pemula:** Kamu tidak dituntut melakukan riset emiten secara mendalam. Portofolio sepenuhnya diurus oleh pengelola.
 - **Diversifikasi Tersebar:** Modalnya disebar ke puluhan atau ratusan aset berbeda sehingga risikonya tertahan kalau ada pasar yang ambruk.
 - **Bisa Modal Kecil:** Banyak reksa dana yang menetapkan pembelian awal serendah Rp10.000 saja.
