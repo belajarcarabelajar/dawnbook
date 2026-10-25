@@ -28,7 +28,7 @@ Di masa depan, jam tangan pintar atau cincin pintar tidak hanya menghitung langk
 
 ## 2\. Dynamic Difficulty Adjustment (DDA) dalam Desain Game Modern
 
-Industri game adalah pelopor dalam penerapan teori *flow*. Namun, masa depannya terletak pada **Hiper-personalisasi**.
+Industri game adalah pelopor dalam penerapan teori *flow*. Namun, masa depannya terletak pada **Hiperpersonalisasi**.
 
 Pernahkah kamu merasa sebuah game tiba-tiba menjadi terlalu sulit atau justru terlalu membosankan? Riset masa depan berfokus pada algoritma **Dynamic Difficulty Adjustment (DDA)** yang didukung oleh AI.
 
@@ -48,7 +48,7 @@ Materi pelajaran akan dipecah menjadi unit-unit kecil yang memiliki struktur sep
 
 ### Lingkungan Belajar Imersif (VR/AR)
 
-Dengan **Virtual Reality (VR)**, seorang siswa sejarah tidak lagi membaca tentang Roma Kuno; mereka "berada" di sana.
+Dengan **Virtual Reality (VR)**, seorang siswa sejarah tidak lagi membaca tentang Roma Kuno; ia "berada" di sana.
 
 > **Penting:** Imersi total dalam VR meminimalkan gangguan eksternal (distraksi), yang merupakan musuh utama *flow*. Saat seluruh bidang pandang dan pendengaran kamu terkunci pada satu tugas, ambang batas untuk masuk ke kondisi alir menjadi jauh lebih rendah.
 
@@ -58,11 +58,11 @@ Bayangkan sebuah ruang kerja masa depan yang disebut **"Flow Hub"**. Ini bukan s
 
 **Skenario Penggunaan:**
 
-1. **Masuk:** kamu duduk di kursi kerja kamu. Sensor di kursi mengukur postur dan detak jantung kamu.
+1. **Masuk:** Kamu duduk di kursi kerja kamu. Sensor di kursi mengukur postur dan detak jantung kamu.
 2. **Kalibrasi:** Komputer melihat jadwal kamu dan tingkat kelelahan kamu pagi itu melalui data tidur dari *wearable* kamu.
-3. **Induksi:** Lampu di meja kamu berubah menjadi warna biru lembut, dan *noise-canceling headphones* kamu memutar frekuensi *binaural beats* yang disesuaikan untuk memicu gelombang otak *Gamma*.
+3. **Induksi:** Lampu di meja kamu berubah menjadi warna biru lembut, dan *noise-canceling headphones* kamu memutar frekuensi *binaural beats* yang disesuaikan untuk memicu gelombang otak *Alpha* atau *Theta*.
 4. **Eksekusi:** Selama 90 menit, semua notifikasi dari ponsel dan email diblokir secara total oleh sistem karena sensor mendeteksi kamu telah masuk ke kondisi *flow*.
-5. **Pemulihan:** Setelah tugas selesai, sistem mendeteksi penurunan efisiensi dan memaksa kamu melakukan istirahat aktif dengan panduan pernapasan.
+5. **Pemulihan:** Setelah tugas selesai atau saat sistem mendeteksi penurunan efisiensi, sistem memaksa kamu melakukan istirahat aktif dengan panduan pernapasan.
 
 ## 5\. Tantangan dan Etika di Masa Depan
 

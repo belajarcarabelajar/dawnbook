@@ -19,7 +19,7 @@ Secara neurobiologis, saat kamu berada dalam kondisi flow, otak melepaskan "kokt
 
 Kondisi flow bersifat **bebas nilai (value-neutral)**. Artinya, otak tidak membedakan apakah kamu sedang menulis novel yang menginspirasi atau sedang melakukan aktivitas yang merugikan.
 
-- **Perjudian:** Industri kasino modern mendesain mesin slot sedemikian rupa agar pemain masuk ke dalam kondisi "mesin zone" (sebuah bentuk flow yang menghipnotis). Pemain kehilangan kesadaran waktu dan uang demi mempertahankan aliran permainan.
+- **Perjudian:** Industri kasino modern mendesain mesin slot sedemikian rupa agar pemain masuk ke dalam kondisi "machine zone" (sebuah bentuk flow yang menghipnotis). Pemain kehilangan kesadaran waktu dan uang demi mempertahankan aliran permainan.
 - **Cybercrime/Hacking:** Seorang peretas bisa berada dalam kondisi flow selama berjam-jam saat membobol sistem keamanan. Fokus yang tajam dan hilangnya kesadaran diri membuat mereka tidak mempertimbangkan konsekuensi etis atau hukum dari tindakannya.
 - **Video Game Addiction:** Banyak pengembang game menggunakan elemen *flow triggers* untuk membuat pemain terus terikat (engagement), yang jika tidak dibatasi, dapat menyebabkan pengabaian terhadap pendidikan atau pekerjaan.
 
@@ -30,7 +30,7 @@ Karakteristik utama flow adalah **distorsi waktu** dan **hilangnya kesadaran dir
 #### Dampak Fisik dan Sosial
 
 1. **Kesehatan Fisik:** Seseorang yang sedang flow sering mengabaikan sinyal lapar, haus, atau kelelahan.
-	- *Contoh:* Seorang programmer yang tidak beranjak dari kursi selama 12 jam bisa mengalami dehidrasi kronis atau cedera regangan berulang (RSI).
+	- *Contoh:* Seorang programmer yang tidak beranjak dari kursi selama 12 jam bisa mengalami dehidrasi atau cedera regangan berulang (RSI).
 2. **Isolasi Sosial:** Karena flow membutuhkan fokus tunggal yang mendalam, interaksi dengan orang lain dianggap sebagai gangguan. Ini bisa merusak hubungan dengan keluarga atau pasangan jika tidak dikomunikasikan dengan baik.
 3. **Burnout (Kelelahan Hebat):** Menguras sumber daya kognitif secara terus-menerus tanpa fase pemulihan yang cukup akan menyebabkan kelelahan mental yang parah.
 
@@ -44,7 +44,7 @@ S = \frac{F \times R}{C}
 $$
 </div>
 
-Dimana:
+Dengan:
 
 - $S$: *Sustainability* (Keberlanjutan produktivitas)
 - $F$: *Flow Intensity* (Intensitas flow)
@@ -58,7 +58,7 @@ Dimana:
 Dalam industri pengembangan video game atau film, terdapat istilah **"The Crunch"**. Ini adalah periode di mana karyawan bekerja dalam kondisi flow yang dipaksakan selama berbulan-bulan untuk mengejar tenggat waktu.
 
 - **Skenario:** Seorang desainer grafis sangat mencintai pekerjaannya dan sering berada dalam flow. Perusahaannya memanfaatkan ini dengan memberikan beban kerja berlebih.
-- **Hasilnya:** Meskipun output-nya tinggi dalam jangka pendek, desainer tersebut akhirnya mengalami depresi dan penurunan kreativitas secara permanen karena ia tidak pernah "keluar" dari mode kerja. Flow yang tadinya menjadi sumber kebahagiaan berubah menjadi beban.
+- **Hasilnya:** Meskipun output-nya tinggi dalam jangka pendek, desainer tersebut akhirnya mengalami depresi dan penurunan kreativitas yang berkepanjangan karena ia tidak pernah "keluar" dari mode kerja. Flow yang tadinya menjadi sumber kebahagiaan berubah menjadi beban.
 
 ### Strategi Menjaga Keseimbangan (Mencegah Sisi Gelap)
 
@@ -70,6 +70,6 @@ Bagaimana cara kita menikmati manfaat flow tanpa jatuh ke dalam risikonya? Berik
 4. **Audit Etika dan Nilai:** Pastikan aktivitas yang membuat kamu flow sejalan dengan nilai-nilai moral dan tujuan hidup jangka panjang kamu.
 5. **Sosialisasi Terjadwal:** Jangan biarkan hobi atau pekerjaan yang memicu flow membuat kamu terisolasi. Jadwalkan waktu khusus untuk interaksi sosial yang tidak boleh diganggu oleh kegiatan flow tersebut.
 
-*Adiksi terhadap flow bukan sekadar risiko teoritis - ia adalah perangkap nyata yang bisa membuat kamu melupakan janji penting, mengabaikan orang-orang terdekat, dan pada akhirnya kehilangan kendali atas aktivitas yang seharusnya kamu kendalikan.*
+*Adiksi terhadap flow bukan sekadar risiko teoretis - ia adalah perangkap nyata yang bisa membuat kamu melupakan janji penting, mengabaikan orang-orang terdekat, dan pada akhirnya kehilangan kendali atas aktivitas yang seharusnya kamu kendalikan.*
 
 > **Insight Memorable:** Flow adalah pelayan yang baik, tetapi tuan yang kejam. Gunakan ia untuk meningkatkan kualitas hidup kamu, bukan untuk menggantikan kehidupan kamu.

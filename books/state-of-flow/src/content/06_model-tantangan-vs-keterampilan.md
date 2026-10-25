@@ -11,7 +11,7 @@ Inti dari model ini adalah keseimbangan dinamis. Bayangkan sebuah grafik dua sum
 - **Sumbu Y (Vertikal):** Tingkat Tantangan (*Challenge Level*)
 - **Sumbu X (Horizontal):** Tingkat Keterampilan (*Skill Level*)
 
-Di tengah-tengah pertemuan kedua sumbu ini, terdapat sebuah koridor sempit yang disebut sebagai **Flow Channel** (Saluran Alir).
+Di sepanjang garis diagonal tempat tantangan dan keterampilan seimbang, terdapat sebuah koridor sempit yang disebut sebagai **Flow Channel** (Saluran Alir).
 
 ### Prinsip Keseimbangan
 
@@ -27,7 +27,7 @@ Untuk memahami model ini secara praktis, mari kita bagi grafik tersebut menjadi 
 
 ### A. Wilayah Kecemasan (Anxiety)
 
-Terjadi ketika $\text{Tantangan} > \text{Keterampilan}$. Jika kamu diberikan tugas yang jauh melampaui kemampuan saat ini (misalnya: diminta memimpin operasi bedah jantung padahal kamu baru mahasiswa kedokteran tahun pertama), kamu tidak akan masuk ke kondisi *flow*. Sebaliknya, sistem saraf kamu akan memicu respon stres.
+Terjadi ketika $\text{Tantangan} > \text{Keterampilan}$. Jika kamu diberikan tugas yang jauh melampaui kemampuan saat ini (misalnya: diminta memimpin operasi bedah jantung padahal kamu baru mahasiswa kedokteran tahun pertama), kamu tidak akan masuk ke kondisi *flow*. Sebaliknya, sistem saraf kamu akan memicu respons stres.
 
 - **Gejala:** Panik, berkeringat dingin, pikiran buntu, dan keinginan untuk melarikan diri (*avoidance*).
 
@@ -37,7 +37,7 @@ Terjadi ketika $\text{Keterampilan} > \text{Tantangan}$. Bayangkan seorang ahli 
 
 - **Gejala:** Kantuk, perhatian yang mudah teralihkan, merasa waktu berjalan sangat lambat, dan kurangnya motivasi.
 
-### C. Saluran Flow (Flow Channel)
+### C. Saluran Alir (Flow Channel)
 
 Terjadi ketika $\text{Tantangan} \approx \text{Keterampilan}$. Tugas tersebut cukup sulit untuk membuat kamu tetap waspada dan fokus, namun cukup bisa dilakukan sehingga kamu merasa memiliki kendali.
 
@@ -49,7 +49,7 @@ Seiring berkembangnya riset, Csikszentmihalyi memperhalus model ini menjadi 8 ko
 | --- | --- | --- | --- |
 | **Flow** | Tinggi | Tinggi | Fokus penuh, kebahagiaan mendalam, performa puncak. |
 | **Control** | Menengah | Tinggi | Merasa nyaman, namun kurang ada elemen risiko untuk memicu *flow*. |
-| **Relaxation** | Rendah | Tinggi | Santai, tidak menuntut tenaga mental, seringkali pasif. |
+| **Relaxation** | Rendah | Tinggi | Santai, tidak menuntut tenaga mental, sering kali pasif. |
 | **Boredom** | Rendah | Menengah | Kurang minat, merasa terjebak dalam rutinitas. |
 | **Apathy** | Rendah | Rendah | Kondisi paling negatif; tidak peduli, tidak ada gairah (misal: menonton TV tanpa tujuan). |
 | **Worry** | Menengah | Rendah | Merasa tidak mampu menghadapi situasi yang agak sulit. |

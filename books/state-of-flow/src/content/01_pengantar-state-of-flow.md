@@ -1,6 +1,6 @@
 ## Pengantar State of Flow
 
-Pernahkah kamu melakukan sesuatu, misalnya melukis, menulis kode, bermain gim, atau berolahraga, lalu sadar waktu telah berlalu berjam-jam dalam sekejap? Di saat itu, gangguan di sekitar seolah sirna, rasa lelah tidak terasa, dan setiap tindakan kamu mengalir ke tindakan berikutnya tanpa perlu berpikir keras.
+Pernahkah kamu melakukan sesuatu, misalnya melukis, menulis kode, bermain gim, atau berolahraga, lalu sadar waktu telah berlalu berjam-jam dalam sekejap? Pada saat itu, gangguan di sekitar seolah sirna, rasa lelah tidak terasa, dan setiap tindakan kamu mengalir ke tindakan berikutnya tanpa perlu berpikir keras.
 
 Selamat, kamu telah mengalami apa yang oleh para psikolog disebut sebagai **State of Flow** (Kondisi Alir).
 
@@ -62,8 +62,8 @@ Memahami dan melatih diri untuk masuk ke dalam kondisi *flow* bukan hanya tentan
 **Poin Utama untuk Diingat:**
 
 - **Flow** adalah kondisi keterlibatan penuh dalam sebuah tugas.
-- Ini adalah inti dari **Psikologi Positif** yang meningkatkan kualitas hidup.
-- Kondisi ini mengubah persepsi kita terhadap **waktu, diri sendiri, dan usaha**.
+- Ini adalah salah satu konsep utama dalam **Psikologi Positif** yang meningkatkan kualitas hidup.
+- Kondisi ini mengubah **fokus, kesadaran diri, dan persepsi waktu** kita.
 - Siapa pun bisa mencapai *state of flow* dengan **tantangan dan keterampilan** yang tepat.
 
 *Setelah memahami apa itu flow secara garis besar, bagian selanjutnya akan membawa kita kembali ke masa lalu untuk melihat bagaimana konsep ini ditemukan dan dirumuskan secara ilmiah oleh pionirnya.*

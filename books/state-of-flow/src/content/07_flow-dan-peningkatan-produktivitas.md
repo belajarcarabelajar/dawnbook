@@ -8,7 +8,7 @@ Dalam bagian ini, kita akan membedah bagaimana kondisi mental ini bukan sekadar 
 
 Banyak orang menganggap produktivitas hanya soal bekerja lebih keras atau lebih lama. Namun, penelitian menunjukkan bahwa *kualitas* kondisi mental saat bekerja jauh lebih menentukan daripada jumlah jam yang dihabiskan.
 
-Menurut riset yang dilakukan oleh **McKinsey & Company** selama sepuluh tahun terhadap para eksekutif puncak, ditemukan bahwa mereka yang berada dalam kondisi flow **500% lebih produktif** dibandingkan saat mereka berada dalam kondisi mental biasa.
+Menurut riset yang dilakukan oleh **McKinsey & Company** selama sepuluh tahun terhadap para eksekutif puncak, ditemukan bahwa mereka yang berada dalam kondisi flow mengaku **500% lebih produktif** dibandingkan saat mereka berada dalam kondisi mental biasa.
 
 **Mari kita visualisasikan dengan logika matematika sederhana:**
 
@@ -18,13 +18,13 @@ Jika produktivitas normal kamu adalah $P$, maka produktivitas dalam kondisi flow
 
 ### 2\. Mengapa Flow Meningkatkan Efisiensi?
 
-Mengapa kita menjadi jauh lebih cepat saat berada dalam kondisi alir? Jawabannya terletak pada bagaimana otak mengalokasikan energinya secara optimal.
+Mengapa kita menjadi jauh lebih cepat saat berada dalam kondisi flow? Jawabannya terletak pada bagaimana otak mengalokasikan energinya secara optimal.
 
 #### A. Eliminasi "Mental Friction" (Gesekan Mental)
 
-Dalam kondisi biasa, otak kita dipenuhi dengan gangguan internal: keraguan diri, perencanaan makan malam, atau kekhawatiran tentang email yang belum dibalas. Ini disebut sebagai **Cognitive Load** atau beban kognitif yang tidak perlu. Saat flow, fenomena **Transient Hypofrontality** (penonaktifan sementara bagian otak prefrontal) membuat suara-suara kritis ini diam.
+Dalam kondisi biasa, otak kita dipenuhi dengan gangguan internal: keraguan diri, perencanaan makan malam, atau kekhawatiran tentang email yang belum dibalas. Ini disebut sebagai **Cognitive Load** atau beban kognitif yang tidak perlu. Saat flow, fenomena **Transient Hypofrontality** (penurunan aktivitas sementara pada korteks prefrontal) membuat suara-suara kritis ini diam.
 
-> **Pesan Utama:** Flow menghilangkan hambatan internal, sehingga 100% energi otak difokuskan pada penyelesaian tugas.
+> **Pesan Utama:** Flow menghilangkan hambatan internal, sehingga lebih banyak sumber daya mental dapat difokuskan pada penyelesaian tugas.
 
 #### B. Pemrosesan Informasi yang Lebih Cepat
 
@@ -32,7 +32,7 @@ Dalam flow, koneksi saraf menjadi lebih efisien. Otak mulai mengenali pola denga
 
 #### C. Pengurangan Kelelahan Mental
 
-Meskipun intensitasnya tinggi, flow seringkali terasa "tanpa usaha" (*effortless*). Karena tubuh melepaskan koktail neurotransmiter seperti dopamin dan norepinefrin, kamu tidak merasa lelah selama proses berlangsung. Kamu baru merasakan lelah setelah keluar dari kondisi tersebut.
+Meskipun intensitasnya tinggi, flow sering kali terasa "tanpa usaha" (*effortless*). Karena tubuh melepaskan koktail neurotransmiter seperti dopamin dan norepinefrin, kamu tidak merasa lelah selama proses berlangsung. Kamu baru merasakan lelah setelah keluar dari kondisi tersebut.
 
 ### 3\. Kualitas dan Kreativitas Hasil Kerja
 
@@ -71,7 +71,7 @@ Bekerja dalam **kondisi flow** adalah seperti mengaktifkan sistem *turbocharger*
 #### Penulisan Kreatif atau Laporan
 
 - **Tanpa Flow:** Menatap layar kosong selama satu jam, menulis satu paragraf, menghapusnya, dan merasa lelah secara mental.
-- **Dalam Flow:** Kata-kata seolah "tumpah" dari pikiran ke jari-jari. Penulis tidak lagi memikirkan tata bahasa secara kaku, melainkan fokus pada penyampaian narasi. Laporan 2000 kata selesai dalam sekali duduk dengan struktur yang logis.
+- **Dalam Flow:** Kata-kata seolah "tumpah" dari pikiran ke jari-jari. Penulis tidak lagi memikirkan tata bahasa secara kaku, melainkan fokus pada penyampaian narasi. Laporan 2.000 kata selesai dalam sekali duduk dengan struktur yang logis.
 
 ### 7\. Strategi Implementasi
 

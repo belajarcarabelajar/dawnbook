@@ -32,7 +32,7 @@ Dietrich, A. (2004). Neurocognitive mechanisms underlying the experience of flow
 
 van der Linden, D., Tops, M., & Bakker, A. B. (2021). The neuroscience of the flow state: Involvement of the locus coeruleus norepinephrine system. *Frontiers in Psychology*, *12*, Article 645498. [https://doi.org/10.3389/fpsyg.2021.645498](https://doi.org/10.3389/fpsyg.2021.645498)
 
-Kotler, S., Mannino, M., & Kelso, S. (2022). First few seconds for flow: A comprehensive proposal of the neurobiology and neurodynamics of state onset. *Neuroscience and Biobehavioral Reviews*, *143*, Article 104956. [https://doi.org/10.1016/j.neubiorev.2022.104956](https://doi.org/10.1016/j.neubiorev.2022.104956)
+Kotler, S., Mannino, M., Kelso, S., & Huskey, R. (2022). First few seconds for flow: A comprehensive proposal of the neurobiology and neurodynamics of state onset. *Neuroscience and Biobehavioral Reviews*, *143*, Article 104956. [https://doi.org/10.1016/j.neubiorev.2022.104956](https://doi.org/10.1016/j.neubiorev.2022.104956)
 
 ---
 
@@ -58,13 +58,13 @@ Norsworthy, C., Jackson, B., & Dimmock, J. A. (2021). Advancing our understandin
 
 Sawyer, R. K. (2007). *Group genius: The creative power of collaboration*. Basic Books. [https://lccn.loc.gov/2007008007](https://lccn.loc.gov/2007008007)
 
-Sawyer, R. K. (2009). Distributed creativity: How collective creations emerge from collaboration. *Psychology of Aesthetics, Creativity, and the Arts*, *3*(2), 81–92. [https://doi.org/10.1037/a0013282](https://doi.org/10.1037/a0013282)
+Sawyer, R. K., & DeZutter, S. (2009). Distributed creativity: How collective creations emerge from collaboration. *Psychology of Aesthetics, Creativity, and the Arts*, *3*(2), 81–92. [https://doi.org/10.1037/a0013282](https://doi.org/10.1037/a0013282)
 
 ---
 
 ### Sisi Gelap Flow
 
-Partington, S., Partington, E., & Olivier, S. (2009). The dark side of flow: A qualitative study of dependence in big wave surfing. *International Journal of Sport and Exercise Psychology*, *7*(2), 170–180. [https://doi.org/10.1080/1612197X.2009.9671908](https://doi.org/10.1080/1612197X.2009.9671908)
+Partington, S., Partington, E., & Olivier, S. (2009). The dark side of flow: A qualitative study of dependence in big wave surfing. *The Sport Psychologist*, *23*(2), 170–185. [https://doi.org/10.1123/tsp.23.2.170](https://doi.org/10.1123/tsp.23.2.170)
 
 ---
 

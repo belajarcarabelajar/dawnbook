@@ -1,6 +1,6 @@
 ## Teknik Praktis Memasuki State of Flow
 
-Mengetahui apa itu *Flow* secara teori adalah satu hal, namun mampu memasukinya secara sengaja adalah keahlian yang berbeda. Jika teori adalah peta, maka latihan praktis adalah otot yang kamu gunakan untuk mendaki gunung tersebut.
+Mengetahui apa itu *Flow* secara teori adalah satu hal, tetapi mampu memasukinya secara sengaja adalah keahlian yang berbeda. Jika teori adalah peta, maka latihan praktis adalah otot yang kamu gunakan untuk mendaki gunung tersebut.
 
 Bagian ini dirancang untuk membekali kamu dengan "peralatan" mental dan fisik agar *State of Flow* bukan lagi sebuah kebetulan yang jarang terjadi, melainkan sebuah kondisi yang bisa kamu masuki dengan sengaja.
 
@@ -45,7 +45,7 @@ Untuk mempermudah transisi ke *Flow*, kamu bisa menggunakan beberapa teknik beri
 
 ### The 5-Minute Rule
 
-Seringkali bagian tersulit dari *Flow* adalah memulainya. Katakan pada diri sendiri: *"Saya hanya akan melakukan tugas ini selama 5 menit. Jika setelah 5 menit saya ingin berhenti, saya boleh berhenti."* **Mengapa ini berhasil?** Karena *Flow* seringkali muncul segera setelah kita melampaui hambatan inisiasi. Begitu momentum terbentuk, otak akan cenderung ingin melanjutkan.
+Sering kali bagian tersulit dari *Flow* adalah memulainya. Katakan pada diri sendiri: *"Saya hanya akan melakukan tugas ini selama 5 menit. Jika setelah 5 menit saya ingin berhenti, saya boleh berhenti."* **Mengapa ini berhasil?** Karena *Flow* sering kali muncul segera setelah kita melampaui hambatan inisiasi. Begitu momentum terbentuk, otak akan cenderung ingin melanjutkan.
 
 ### Menemukan "Zona Goldilocks"
 
@@ -61,14 +61,14 @@ Jika tugas terlalu mudah, kamu akan bosan ($\text{Flow} \rightarrow \text{Boredo
 
 ## 4\. Latihan Mental Harian
 
-kamu tidak bisa mengharapkan fokus yang tajam jika sepanjang hari kamu membiarkan perhatian kamu terpecah. Latih "otot fokus" kamu dengan:
+Kamu tidak bisa mengharapkan fokus yang tajam jika sepanjang hari kamu membiarkan perhatian kamu terpecah. Latih "otot fokus" kamu dengan:
 
 - **Single-Tasking:** Berlatihlah melakukan satu hal pada satu waktu, bahkan untuk hal sepele seperti makan atau berjalan. Jangan gunakan ponsel saat sedang makan.
 - **Meditasi Fokus (Anapanasati):** Fokus pada napas selama 10 menit setiap pagi. Setiap kali pikiran melantur (dan itu pasti terjadi), bawa kembali dengan lembut ke napas. Ini adalah latihan "menangkap" perhatian yang terdistraksi.
 
 ## 5\. Alur Kerja Seorang Programmer
 
-Mari kita lihat bagaimana teknik ini diterapkan dalam dunia nyata melalui perumpamaan teknis.
+Mari kita lihat bagaimana teknik ini diterapkan dalam dunia nyata melalui contoh kasus teknis.
 
 ### Pemrograman (Software Engineering)
 
@@ -91,7 +91,7 @@ Gunakan checklist ini sebelum kamu memulai tugas penting:
 - **Fisik:** Apakah saya sudah minum cukup air dan tidak merasa lapar yang mengganggu?
 - **Digital:** Apakah ponsel sudah dalam mode "Jangan Ganggu" dan diletakkan di ruangan lain?
 - **Kejelasan:** Apakah saya tahu persis apa yang harus selesai dalam 60 menit ke depan?
-- **Tantangan:** Apakah tugas ini cukup menantang (tidak terlalu mudah, tidak terlalu mustahil)?
+- **Tantangan:** Apakah tugas ini cukup menantang (tidak terlalu mudah, tidak terlalu sulit)?
 - **Sauh:** Apakah ritual pembuka (musik/pernapasan) sudah dilakukan?
 
 > "Flow bukan tentang bekerja lebih keras, tetapi tentang bekerja lebih lancar dengan menyingkirkan hambatan antara niat dan tindakan."
