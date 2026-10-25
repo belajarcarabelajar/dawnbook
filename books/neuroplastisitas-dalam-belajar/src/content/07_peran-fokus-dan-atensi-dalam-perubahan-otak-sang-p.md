@@ -76,8 +76,8 @@ Bayangkan dua orang, Budi dan Siti, sedang belajar fungsi `if-else` dalam Python
 
 Untuk melibatkan sistem neuromodulator kamu, cobalah langkah-langkah kinestetik dan kognitif berikut:
 
-1. **The 90-Second Focus:** Sebelum belajar, cobalah menatap satu titik di tembok atau layar selama 60-90 detik tanpa mengalihkan pandangan. Ini secara fisik memicu pelepasan epinefrin dan menyiapkan sirkuit atensi kamu.
-2. **Eliminasi Interupsi:** Singkirkan semua pemicu atensi eksternal (ponsel, tab browser yang tidak relevan). Setiap kali kamu "beralih" fokus, kamu membuang tumpukan asetilkolin yang sudah susah payah dikumpulkan.
+1. **The 90-Second Focus:** Sebelum belajar, cobalah menatap satu titik di tembok atau layar selama 60-90 detik tanpa mengalihkan pandangan.
+2. **Eliminasi Interupsi:** Singkirkan semua pemicu atensi eksternal (ponsel, tab browser yang tidak relevan) supaya fokus kamu tidak terus "beralih".
 3. **Pelibatan Emosi:** Ingatkan diri kamu mengapa materi ini penting. Kepentingan atau urgensi meningkatkan pelepasan dopamin dan norepinefrin, yang mempercepat plastisitas.
 
 > **Pesan Memorable:** Atensi adalah alat bedah bagi otak kamu. Semakin tajam atensinya, semakin presisi perubahan saraf yang dihasilkan.

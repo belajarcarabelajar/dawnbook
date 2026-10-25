@@ -26,12 +26,12 @@ Strategi berikut dirancang untuk **memperkuat sinapsis** dengan bekerja selaras 
 **Spaced Repetition** (Pengulangan Berjarak) adalah teknik mendistribusikan sesi belajar dalam interval waktu yang meningkat.
 
 - **Mekanisme Neuroplastisitas:** Otak kita secara biologis dirancang untuk melupakan informasi yang tidak dianggap vital. Dengan meninjau kembali materi tepat sebelum kamu hampir melupakannya, kamu memaksa otak untuk melakukan konsolidasi ulang memori secara lebih mendalam melalui proses yang disebut **Long-Term Potentiation (LTP)**.
-- **Rumus Matematika Kurva Melupakan (Hermann Ebbinghaus):** $R = e^{-\frac{t}{S}}$ Di mana:
+- **Rumus Matematika Kurva Melupakan:** Model eksponensial yang lazim dipakai untuk kurva melupakan Hermann Ebbinghaus adalah $R = e^{-\frac{t}{S}}$ Di mana:
 	- $R$ adalah retensi (seberapa banyak kita ingat).
 		- $S$ adalah kekuatan memori (stabilitas).
 		- $t$ adalah waktu yang telah berlalu.
 
-**Jadwal Ideal untuk Pengulangan:**
+**Contoh Jadwal Pengulangan:**
 
 1. **Review 1:** 24 jam setelah belajar pertama kali.
 2. **Review 2:** 3 hari kemudian.
@@ -70,8 +70,8 @@ Berikut contoh aturan sederhana untuk menentukan kapan sebuah kartu belajar perl
 Untuk memastikan strategi di atas memicu neuroplastisitas yang maksimal, cermati elemen pendukung berikut:
 
 1. **Fokus Intens (Deep Work):** Tanpa atensi penuh, neuromodulator seperti asetilkolin tidak akan dilepaskan, dan perubahan fisik pada sinapsis tidak akan terjadi.
-2. **Kesalahan sebagai Sinyal:** Saat kamu melakukan kesalahan dalam *Active Recall*, otak kamu melepaskan epinefrin yang meningkatkan kewaspadaan. **Jangan frustrasi; kesalahan adalah katalisator biologis untuk perubahan saraf.**
-3. **Batas Durasi:** Belajarlah dalam sesi 90 menit (ritme ultradian), kemudian berikan waktu bagi otak untuk melakukan "pembersihan" data.
+2. **Kesalahan sebagai Sinyal:** Saat kamu melakukan kesalahan dalam *Active Recall*, **jangan frustrasi**. Kesalahan itu menandai bagian yang belum kamu kuasai.
+3. **Batas Durasi:** Belajarlah dalam sesi sekitar 90 menit, kemudian beri dirimu waktu istirahat.
 
 ### Ringkasan Strategi
 
