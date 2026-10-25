@@ -8,7 +8,7 @@ Pembelajaran multidisiplin merangsang dan meningkatkan kreativitas. Ketika kamu 
 
 > *Kreativitas sering kali muncul di persimpangan ide-ide yang beragam. Semakin banyak "persimpangan" yang kamu miliki, semakin besar potensi inovasi.*
 
-Penelitian menunjukkan bahwa pelajar yang terbiasa dengan pendekatan multidisiplin cenderung memiliki tingkat kreativitas lebih tinggi dibandingkan mereka yang belajar secara monodisiplin. Hal ini terjadi karena keterlibatan dalam berbagai disiplin ilmu merangsang daya imajinasi serta keberanian dalam berinovasi.
+Sebagian penelitian menunjukkan bahwa pelajar yang terbiasa dengan pendekatan multidisiplin cenderung memiliki tingkat kreativitas lebih tinggi dibandingkan mereka yang belajar secara monodisiplin. Hal ini mungkin terjadi karena keterlibatan dalam berbagai disiplin ilmu merangsang daya imajinasi serta keberanian dalam berinovasi.
 
 ### 2. Kemampuan Pemecahan Masalah yang Lebih Holistik
 

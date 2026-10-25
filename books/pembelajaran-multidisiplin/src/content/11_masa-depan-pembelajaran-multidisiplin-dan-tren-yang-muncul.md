@@ -52,7 +52,7 @@ Perubahan teknologi dan digitalisasi mengubah cara kita bekerja, berinteraksi, d
 
 #### 3.2 Keterampilan Multidisiplin sebagai Keunggulan Kompetitif
 
-Program belajar yang kontekstual dan terhubung dengan industri berperan penting dalam mencetak lulusan yang siap bersaing. Dunia kerja masa kini membutuhkan profesional yang memiliki satu keahlian mendalam (*T-shaped skills*), namun juga memahami bidang-bidang lain di sekitarnya.
+Program belajar yang kontekstual dan terhubung dengan industri berperan penting dalam mencetak lulusan yang siap bersaing. Dunia kerja masa kini membutuhkan profesional yang memiliki satu keahlian mendalam (*T-shaped skills*), tetapi juga memahami bidang-bidang lain di sekitarnya.
 
 > **Contoh Nyata:** Sebagai contoh, seorang praktisi IT yang paham dasar-dasar bisnis akan lebih tajam dalam merancang sistem yang laku di pasar. Begitu juga seorang insinyur sipil yang melek ekologi akan lebih piawai merancang infrastruktur ramah lingkungan.
 

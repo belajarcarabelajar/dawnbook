@@ -81,7 +81,7 @@ Masalah sosial jarang sekali berdiri sendiri. Karena memiliki keterkaitan erat d
 
 Pada tahun 1990, Jerry Sternin bersama Monique Sternin mengemban misi dari pemerintah Vietnam untuk mengatasi problem gizi buruk anak. Alih-alih mendatangkan bantuan pangan instan dari luar, mereka menerapkan konsep *Positive Deviance*. Pendekatan ini berfokus mencari keluarga miskin di komunitas setempat yang anak-anaknya justru tumbuh sehat dan bebas dari gizi buruk, yaitu mereka yang menunjukkan perilaku "menyimpang secara positif".
 
-Setelah diamati, keluarga-keluarga ini ternyata mempraktikkan kebiasaan makan unik yang berbeda dengan warga lain, seperti menambahkan udang rawa, kepiting sawah, atau daun ubi ke dalam porsi makan anak, serta memberikan makanan dalam porsi kecil namun sering. Melalui transfer pengetahuan antarwarga, praktik lokal ini kemudian diadopsi secara luas oleh komunitas setempat. Metode pemecahan masalah yang berakar pada kearifan lokal ini sukses menurunkan angka malnutrisi secara berkelanjutan karena selaras dengan kemampuan dan budaya masyarakat.
+Setelah diamati, keluarga-keluarga ini ternyata mempraktikkan kebiasaan makan unik yang berbeda dengan warga lain, seperti menambahkan udang rawa, kepiting sawah, atau daun ubi ke dalam porsi makan anak, serta memberikan makanan dalam porsi kecil tetapi sering. Melalui transfer pengetahuan antarwarga, praktik lokal ini kemudian diadopsi secara luas oleh komunitas setempat. Metode pemecahan masalah yang berakar pada kearifan lokal ini sukses menurunkan angka malnutrisi secara berkelanjutan karena selaras dengan kemampuan dan budaya masyarakat.
 
 #### b. Grameen Bank dan Inovasi Microfinance
 

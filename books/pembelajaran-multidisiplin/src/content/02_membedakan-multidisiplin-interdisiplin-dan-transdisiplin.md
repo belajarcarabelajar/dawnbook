@@ -13,14 +13,14 @@ Tingkat integrasi dalam pendekatan ini tergolong rendah karena tidak ada pelebur
 Bagaimana contohnya di lapangan?
 
 *   **Climate Change Studies**
-    Bayangkan sebuah tim riset yang terdiri dari ahli meteorologi, ahli lingkungan, ekonom, dan sosiolog. Ahli meteorologi mengamati pergeseran cuaca, ahli lingkungan mengkaji kerusakan ekosistem, ekonom menghitung kerugian finansial, dan sosiolog mewawancarai masyarakat yang terdampak. Mereka menulis laporan terpisah yang kemudian disatukan dalam satu bundel dokumen. Hasil akhirnya memberikan gambaran yang lebih utuh, namun analisis utamanya tetap berdiri sendiri sesuai keahlian masing-masing.
+    Bayangkan sebuah tim riset yang terdiri atas ahli meteorologi, ahli lingkungan, ekonom, dan sosiolog. Ahli meteorologi mengamati pergeseran cuaca, ahli lingkungan mengkaji kerusakan ekosistem, ekonom menghitung kerugian finansial, dan sosiolog mewawancarai masyarakat yang terdampak. Mereka menulis laporan terpisah yang kemudian disatukan dalam satu bundel dokumen. Hasil akhirnya memberikan gambaran yang lebih utuh, tetapi analisis utamanya tetap berdiri sendiri sesuai keahlian masing-masing.
     
 *   **Public Policy Development**
     Ketika pemerintah merancang undang-undang baru, ahli hukum memeriksa kesesuaian konstitusi, ekonom menghitung beban anggaran, dan ilmuwan politik mengukur stabilitas sosial. Masing-masing menyumbang analisis berharga tanpa perlu memodifikasi metodologi dasar keilmuan mereka.
 
 ### 2. Interdisciplinary (Interdisiplin)
 
-Pendekatan **interdisciplinary** melangkah lebih jauh dengan membangun interaksi aktif antarberbagai disiplin ilmu. Di sini, fokus utamanya adalah mengintegrasikan konsep, metode, dan analisis secara bersamaan. Terjadi transfer dan percampuran sudut pandang, meskipun belum melebur seutuhnya. Pendekatan ini bersifat interaktif dan integratif secara parsial, di mana komunikasi berjalan intensif mulai dari perumusan masalah, pengumpulan data, hingga penarikan kesimpulan.
+Pendekatan **interdisciplinary** melangkah lebih jauh dengan membangun interaksi aktif antarberbagai disiplin ilmu. Di sini, fokus utamanya adalah mengintegrasikan konsep, metode, dan analisis secara bersamaan. Terjadi transfer dan percampuran sudut pandang, meskipun belum melebur seutuhnya. Pendekatan ini bersifat interaktif dan integratif secara parsial, dengan komunikasi berjalan intensif mulai dari perumusan masalah, pengumpulan data, hingga penarikan kesimpulan.
 
 Tingkat integrasinya berada di level sedang. Setiap bidang saling meminjam dan mengadaptasi teori atau metode dari bidang lain untuk melahirkan kerangka kerja baru. Tujuannya adalah memecahkan *complex problems* lewat penyatuan ilmu, melahirkan pemahaman baru serta solusi inovatif yang tidak mungkin dicapai jika bekerja sendiri-sendiri.
 
@@ -59,7 +59,7 @@ Guna memudahkan kamu memetakan perbedaan ketiganya, cermati tabel perbandingan r
 | --- | --- | --- | --- |
 | **Pendekatan** | *Additive*; bekerja secara paralel. | *Interactive*; terjadi transfer dan percampuran. | *Holistic*; integrasi penuh dan transformatif. |
 | **Integration Level** | Rendah; tidak ada interaksi mendalam antardisiplin. | Sedang; ada interaksi dan adaptasi konsep/metode. | Tinggi; peleburan disiplin untuk paradigma baru. |
-| **Disciplinary Boundaries** | Tetap dipertahankan dengan ketat. | Sedikit melampaui, namun masih bisa dikenali. | Melebur sepenuhnya dan melibatkan *non-academic actors*. |
+| **Disciplinary Boundaries** | Tetap dipertahankan dengan ketat. | Sedikit melampaui, tetapi masih bisa dikenali. | Melebur sepenuhnya dan melibatkan *non-academic actors*. |
 | **Primary Focus** | Memperkaya sudut pandang dengan berbagai perspektif. | Memadukan pengetahuan demi pemahaman yang lebih menyeluruh. | Memecahkan masalah nyata dan menghasilkan solusi praktis. |
 | **Outcomes** | Kumpulan perspektif yang bervariasi. | Sintesis baru, melahirkan metode atau teori baru. | Pengetahuan transformatif dan solusi terapan berkelanjutan. |
 | **Metaphor** | *Orchestra* (tiap instrumen memainkan bagiannya sendiri). | *Jazz Ensemble* (instrumen saling menyahut dan berimprovisasi). | *Fusion Cuisine* (bahan dan teknik rasa menyatu melahirkan hidangan baru). |

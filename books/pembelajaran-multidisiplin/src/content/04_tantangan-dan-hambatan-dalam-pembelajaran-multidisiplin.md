@@ -18,7 +18,7 @@ Setiap disiplin ilmu memiliki "bahasanya" sendiri, termasuk terminologi, jargon,
 
 Ambiguitas konseptual menjadi salah satu ganjalan utama. Kata atau frasa yang sama dapat memiliki makna yang sangat berbeda di berbagai bidang. Sebagai contoh, istilah "model" dalam ilmu komputer merujuk pada representasi matematis atau algoritmik, sementara dalam dunia mode, "model" adalah orang yang memperagakan pakaian. Ketidakjelasan ini dapat dengan mudah memicu kebingungan dan miskomunikasi.
 
-Akibatnya, hambatan komunikasi pun muncul. Pengajar atau mahasiswa yang terbiasa dengan satu disiplin mungkin kesulitan memahami atau mengartikulasikan ide-ide memakai istilah dari disiplin lain, sehingga menghambat kolaborasi yang efektif. Hal ini juga berimbas pada penulisan laporan atau presentasi multidisiplin, di mana menyusun bahasa yang mudah dipahami oleh audiens berlatar belakang beragam tanpa harus terus-menerus mendefinisikan istilah baru adalah pekerjaan yang menantang.
+Akibatnya, hambatan komunikasi pun muncul. Pengajar atau mahasiswa yang terbiasa dengan satu disiplin mungkin kesulitan memahami atau mengartikulasikan ide-ide memakai istilah dari disiplin lain, sehingga menghambat kolaborasi yang efektif. Hal ini juga berimbas pada penulisan laporan atau presentasi multidisiplin, dalam hal ini menyusun bahasa yang mudah dipahami oleh audiens berlatar belakang beragam tanpa harus terus-menerus mendefinisikan istilah baru adalah pekerjaan yang menantang.
 
 > **Penting:** Menjembatani perbedaan terminologi memerlukan upaya sadar untuk menciptakan "kosakata bersama" atau glosarium yang menjelaskan konsep kunci dari setiap disiplin dalam konteks proyek multidisiplin.
 
@@ -28,7 +28,7 @@ Individu sering kali mengembangkan bias terhadap disiplin ilmu mereka sendiri. H
 
 Bias ini sering kali muncul dalam bentuk anggapan implisit bahwa "disiplin saya adalah yang terbaik". Pengajar maupun mahasiswa mungkin secara tidak sadar menganggap pendekatan, metodologi, atau kerangka kerja dari bidangnya sendiri jauh lebih unggul atau relevan dibanding bidang lain.
 
-Dampaknya, mereka menjadi enggan mengadopsi perspektif baru. Resistensi ini memicu terciptanya "silo mentality" di mana masing-masing disiplin memilih bekerja sendiri-sendiri secara terpisah. Dalam kerja tim, bias ini juga bisa berujung pada penilaian yang tidak adil, di mana kontribusi anggota dari disiplin lain dinilai sebelah mata, sehingga merusak motivasi dan efektivitas tim secara keseluruhan.
+Dampaknya, mereka menjadi enggan mengadopsi perspektif baru. Resistensi ini memicu terciptanya "silo mentality" dengan masing-masing disiplin memilih bekerja sendiri-sendiri secara terpisah. Dalam kerja tim, bias ini juga bisa berujung pada penilaian yang tidak adil, dengan kontribusi anggota dari disiplin lain dinilai sebelah mata, sehingga merusak motivasi dan efektivitas tim secara keseluruhan.
 
 ### 4. Resistensi terhadap Perubahan
 
@@ -53,12 +53,12 @@ Tanpa adanya pembagian peran yang jelas sejak awal, tumpang tindih pekerjaan ata
 
 #### Skenario di Dunia Nyata
 
-Sebagai gambaran konkret, bayangkan sebuah tim yang terdiri dari ahli lingkungan, insinyur perangkat lunak, dan sosiolog yang berkolaborasi dalam proyek "Smart City" untuk memantau tingkat polusi udara.
+Sebagai gambaran konkret, bayangkan sebuah tim yang terdiri atas ahli lingkungan, insinyur perangkat lunak, dan sosiolog yang berkolaborasi dalam proyek "Smart City" untuk memantau tingkat polusi udara.
 
 Dalam aspek **integrasi materi**, ahli lingkungan fokus pada model penyebaran polutan dan dampaknya terhadap kesehatan, insinyur perangkat lunak merancang sistem sensor serta arsitektur database, sedangkan sosiolog memetakan respons masyarakat dan kebijakan publik. Menyatukan ketiga sudut pandang ini menjadi satu solusi utuh adalah proses yang menuntut pemahaman lintas bidang yang mendalam.
 
 Masalah **terminologi** juga sering muncul. Bagi ahli lingkungan, "data" berarti hasil pengukuran kadar partikulat di udara. Bagi insinyur, "data" adalah baris-baris informasi dalam database. Sementara bagi sosiolog, "data" berupa hasil wawancara dan survei kualitatif masyarakat.
 
-Selain itu, **bias disipliner** bisa memicu konflik ketika insinyur cenderung mengecilkan faktor sosial kemasyarakatan, sementara sosiolog merasa intervensi teknologi semata tidak akan mampu memecahkan masalah mendasar. Semua ini masih ditambah tantangan **koordinasi tim**, di mana menyinkronkan jadwal rapat di antara insinyur yang dikejar tenggat waktu perilisan kode dengan ahli lingkungan yang sibuk mengambil sampel di lapangan sering kali menjadi hambatan tersendiri.
+Selain itu, **bias disipliner** bisa memicu konflik ketika insinyur cenderung mengecilkan faktor sosial kemasyarakatan, sementara sosiolog merasa intervensi teknologi semata tidak akan mampu memecahkan masalah mendasar. Semua ini masih ditambah tantangan **koordinasi tim**, dalam hal ini menyinkronkan jadwal rapat di antara insinyur yang dikejar tenggat waktu perilisan kode dengan ahli lingkungan yang sibuk mengambil sampel di lapangan sering kali menjadi hambatan tersendiri.
 
 Mengidentifikasi serta secara proaktif mencari jalan keluar bagi tantangan-tantangan tersebut menjadi penentu utama dalam menyukseskan program pembelajaran multidisiplin.

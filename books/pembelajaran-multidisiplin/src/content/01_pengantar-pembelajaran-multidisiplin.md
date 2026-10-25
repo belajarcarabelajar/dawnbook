@@ -10,14 +10,14 @@ Secara lebih spesifik:
 
 - **Melibatkan beberapa disiplin ilmu:** Pendekatan multidisiplin melibatkan minimal dua disiplin akademik untuk menyelesaikan suatu masalah tertentu secara bersama-sama, baik melalui pendidikan, penelitian, maupun pengabdian pada masyarakat.
 - **Memperkaya perspektif:** Topik pembelajaran diperkaya dengan menggabungkan perspektif dari berbagai disiplin ilmu.
-- **Bersifat aditif:** Dalam konteks multidisiplin, disiplin-disiplin ilmu bekerja secara paralel pada aspek-aspek berbeda dari suatu topik tanpa harus meleburkan batasan masing-masing disiplin. Komunikasi antardisiplin dapat terjadi, namun kolaborasi mungkin lebih terbatas dibandingkan pendekatan lain seperti interdisipliner. Ahli dari masing-masing bidang tetap berada dalam disiplinnya saat menggabungkan perspektif.
+- **Bersifat aditif:** Dalam konteks multidisiplin, disiplin-disiplin ilmu bekerja secara paralel pada aspek-aspek berbeda dari suatu topik tanpa harus meleburkan batasan masing-masing disiplin. Komunikasi antardisiplin dapat terjadi, tetapi kolaborasi mungkin lebih terbatas dibandingkan pendekatan lain seperti interdisipliner. Ahli dari masing-masing bidang tetap berada dalam disiplinnya saat menggabungkan perspektif.
 
 > **Bahan Pertimbangan:** Bagaimana membedakan antara "menggabungkan perspektif" dan "mengintegrasikan" perspektif dari berbagai disiplin ilmu? Perbedaan ini menjadi dasar untuk memahami nuansa antara multidisiplin dan interdisiplin yang akan dibahas lebih lanjut di bagian lain.
 
 **Contoh Kasus Multidisiplin:**
 
-- Studi tentang perubahan iklim yang melibatkan ahli meteorologi, ahli lingkungan, ahli ekonomi, dan ahli sosial, di mana masing-masing menyumbangkan analisis dari sudut pandang disiplinnya.
-- Pengembangan teknologi medis yang melibatkan ahli biologi, ahli kedokteran, ahli teknik, dan ahli etika. Ahli-ahli ini bekerja sama untuk mencapai tujuan akhir, namun tetap dengan kerangka kerja disiplin ilmu mereka masing-masing.
+- Studi tentang perubahan iklim yang melibatkan ahli meteorologi, ahli lingkungan, ahli ekonomi, dan ahli sosial, yang masing-masing menyumbangkan analisis dari sudut pandang disiplinnya.
+- Pengembangan teknologi medis yang melibatkan ahli biologi, ahli kedokteran, ahli teknik, dan ahli etika. Ahli-ahli ini bekerja sama untuk mencapai tujuan akhir, tetapi tetap dengan kerangka kerja disiplin ilmu mereka masing-masing.
 - Sebuah proyek sejarah tentang Perang Dunia II dapat menggabungkan geografi (menjelajahi medan perang), seni (menganalisis propaganda), dan ekonomi (menyelidiki dampak ekonomi perang) untuk memahami peristiwa tersebut dari berbagai dimensi.
 
 ### Sejarah Singkat Perkembangan Pembelajaran Multidisiplin
@@ -26,7 +26,7 @@ Konsep "disiplin" sebagai cabang ilmu pengetahuan yang diajarkan dan diteliti su
 
 Awalnya, pendekatan monodisipliner (fokus pada satu disiplin ilmu) mendominasi penelitian dan pendidikan, terutama hingga abad ke-19. Namun, seiring dengan peningkatan kompleksitas masalah sosial, ekonomi, dan lingkungan, keterbatasan pendekatan tunggal menjadi semakin disadari.
 
-Perkembangan nyata menuju pendekatan multidisiplin mulai terlihat sejak abad ke-20. Dalam kajian sejarah, misalnya, sejarah baru menunjukkan pergeseran dari kajian politik yang kaku menuju studi yang lebih bersifat *social scientific*, berorientasi pada masalah, dan menggunakan pendekatan interdisipliner/multidisipliner. Peningkatan interaksi antardisiplin ilmu, terutama di era globalisasi, menjadikan pendekatan multidisiplin sebagai pilihan yang populer dalam kegiatan ilmiah untuk mencari solusi terhadap masalah kompleks yang tidak dapat diatasi oleh satu disiplin saja.
+Perkembangan nyata menuju pendekatan multidisiplin mulai terlihat sejak abad ke-20. Dalam kajian sejarah, misalnya, sejarah baru menunjukkan pergeseran dari kajian politik yang kaku menuju studi yang lebih bersifat *social scientific*, berorientasi pada masalah, dan menggunakan pendekatan interdisipliner/multidisiplin. Peningkatan interaksi antardisiplin ilmu, terutama di era globalisasi, menjadikan pendekatan multidisiplin sebagai pilihan yang populer dalam kegiatan ilmiah untuk mencari solusi terhadap masalah kompleks yang tidak dapat diatasi oleh satu disiplin saja.
 
 Garis waktu di bawah ini merangkum tahapan perkembangan itu menurut era, bukan tanggal pasti.
 

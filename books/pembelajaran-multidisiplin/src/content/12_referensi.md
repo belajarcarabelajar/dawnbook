@@ -6,7 +6,7 @@ Choi, B. C. K., & Pak, A. W. P. (2006). Multidisciplinarity, interdisciplinarity
 
 Drake, S. M., & Burns, R. C. (2004). *Meeting standards through integrated curriculum*. Association for Supervision and Curriculum Development. [https://eric.ed.gov/?id=ED490654](https://eric.ed.gov/?id=ED490654)
 
-Ivanitskaya, L., Clark, D., Montgomery, G., & Primeau, R. (2002). Interdisciplinary learning: Process and outcomes. *Innovative Higher Education*, *27*(2), 95–111. [https://doi.org/10.1023/A:1021106913683](https://doi.org/10.1023/A:1021106913683)
+Ivanitskaya, L., Clark, D., Montgomery, G., & Primeau, R. (2002). Interdisciplinary learning: Process and outcomes. *Innovative Higher Education*, *27*(2), 95–111. [https://doi.org/10.1023/A:1021105309984](https://doi.org/10.1023/A:1021105309984)
 
 Lafifa, F., Rosana, D., Suyanta, S., Nurohman, S., & Astuti, S. R. D. (2023). Integrated STEM approach to improve 21st century skills in Indonesia: A systematic review. *International Journal of STEM Education for Sustainability*, *3*(2), 252–267. [https://doi.org/10.53889/ijses.v3i2.219](https://doi.org/10.53889/ijses.v3i2.219)
 
