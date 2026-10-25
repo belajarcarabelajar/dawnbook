@@ -18,7 +18,7 @@ Inilah kenapa penghapusan tidak termasuk pilihan otak. Yang bisa dikontrol, menu
 
 "Mungkin asosiasinya tidak bisa dihapus, tapi saya bisa menahannya saat terpicu." Pikiran itu masuk akal, dan memang sebagian bisa dilakukan. Tapi perlu kamu tahu harganya.
 
-Dalam tinjauan terhadap 136 studi empiris, Gardner (2015) menjelaskan kebiasaan sebagai jalur impulsif: begitu stimulus muncul, asosiasi yang sudah dipelajari langsung memicu impuls untuk bertindak, jauh sebelum penalaran sempat bicara. Jalur reflektif yang membawa niatmu tetap ada, dan kebiasaan memang bisa dihambat oleh jalur itu. Tapi penghambatan itu bukan gratis. Ia menghabiskan sumber daya regulasi diri, dan sumber daya itu terbatas, ikut terkuras oleh lelah, stres, dan sekadar banyaknya keputusan yang kamu buat sepanjang hari.
+Dalam tinjauan terhadap 136 studi empiris, Gardner (2015) menjelaskan kebiasaan sebagai jalur impulsif: begitu stimulus muncul, asosiasi yang sudah dipelajari langsung memicu impuls untuk bertindak, jauh sebelum penalaran sempat bicara. Jalur reflektif yang membawa niatmu tetap ada, dan kebiasaan memang bisa dihambat oleh jalur itu. Tapi penghambatan itu bukan gratis. Ia menghabiskan sumber daya regulasi diri, yang bisa ikut menipis saat kamu lelah atau stres.
 
 Artinya, menahan kebiasaan setelah terpicu adalah perang yang sistemnya tidak adil. Di satu sisi ada refleks yang berjalan instan dan gratis. Di sisi lain ada usaha sadar yang butuh energi dan perhatian. Kamu bisa menang beberapa ronde, tapi kalau pertarungannya dijadwalkan setiap malam jam sepuluh, kamu tahu ronde mana yang paling sering kalah.
 
