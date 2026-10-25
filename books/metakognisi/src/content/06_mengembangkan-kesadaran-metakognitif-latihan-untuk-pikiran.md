@@ -94,7 +94,7 @@ Mind map itu sifatnya visual dan ngebantu kalau kamu mau menata informasi yang b
 	- **Strategi:**
 		- Baca buku bab X (metode)
 		- Tonton video tutorial (visual)
-		- Buat ringkasan dengan kata-katamu sendiri, seolah menjelaskannya kepada orang awam (aktif)
+		- Buat ringkasan dengan kata-katamu sendiri (aktif)
 		- Latih soal-soal di halaman Y
 	- **Potensi Hambatan:**
 		- Konsep sulit (Solusi: cari penjelasan lain, bertanya ke orang yang paham)
