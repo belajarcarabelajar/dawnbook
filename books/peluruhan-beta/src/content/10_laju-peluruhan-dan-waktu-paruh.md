@@ -38,7 +38,7 @@ N(t) = N_0 e^{-\lambda t}
 $$
 </div>
 
-Di mana:
+Dengan:
 
 - $N(t)$ = Jumlah inti yang tersisa pada waktu $t$.
 - $N_0$ = Jumlah inti mula-mula (saat $t = 0$).

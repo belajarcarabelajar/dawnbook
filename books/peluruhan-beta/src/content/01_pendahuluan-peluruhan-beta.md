@@ -2,11 +2,11 @@
 
 Pernahkah terbayang sebuah timbangan yang terus-menerus bergoyang karena beban di sisi kiri dan kanan tidak sama? Di dunia atom, ketidakseimbangan ini sering terjadi di dalam inti atom. Untuk mencapai ketenangan atau stabilitas, inti atom tersebut harus melakukan sesuatu. Salah satu cara yang paling menarik adalah dengan melakukan **Peluruhan Beta**.
 
-Peluruhan beta bukan sekadar radiasi biasa; ini adalah proses transmutasi atau perubahan wujud di mana satu unsur kimia berubah menjadi unsur kimia lainnya. Ini adalah bukti bahwa atom bukanlah sesuatu yang statis, melainkan dinamis dan selalu mencari titik kestabilan.
+Peluruhan beta bukan sekadar radiasi biasa; ini adalah proses transmutasi atau perubahan wujud ketika satu unsur kimia berubah menjadi unsur kimia lainnya. Ini adalah bukti bahwa atom bukanlah sesuatu yang statis, melainkan dinamis dan selalu mencari titik kestabilan.
 
 ## Apa Itu Peluruhan Beta?
 
-Secara sederhana, **peluruhan beta** adalah jenis peluruhan radioaktif di mana sebuah inti atom yang tidak stabil memancarkan **partikel beta** (elektron atau positron berkecepatan tinggi).
+Secara sederhana, **peluruhan beta** adalah jenis peluruhan radioaktif ketika sebuah inti atom yang tidak stabil memancarkan **partikel beta** (elektron atau positron berkecepatan tinggi).
 
 Berbeda dengan peluruhan alfa yang mengeluarkan paket besar berupa inti helium (${}^4_2\text{He}$), peluruhan beta jauh lebih ringan dan lincah. Proses ini terjadi ketika perbandingan antara jumlah proton dan neutron di dalam inti tidak ideal.
 
@@ -25,7 +25,7 @@ Melalui proses pemotongan dan penyesuaian ini, inti atom mencapai konfigurasi ya
 
 ## Mengenal Partikel Beta
 
-Partikel beta bukanlah sesuatu yang asing. Sebenarnya, mereka adalah teman lama kita dalam fisika, namun muncul dari tempat yang tidak terduga (yaitu dari *dalam* inti atom, bukan dari kulit atom). Ada dua jenis partikel beta:
+Partikel beta bukanlah sesuatu yang asing. Sebenarnya, mereka adalah teman lama kita dalam fisika, tetapi muncul dari tempat yang tidak terduga (yaitu dari *dalam* inti atom, bukan dari kulit atom). Ada dua jenis partikel beta:
 
 1. **Beta Minus ($\beta^-$):** Ini adalah elektron biasa ($e^-$) yang bergerak dengan energi sangat tinggi.
 2. **Beta Plus ($\beta^+$):** Ini disebut **positron** ($e^+$), yang merupakan antimateri dari elektron. Ia memiliki massa yang sama dengan elektron tetapi bermuatan positif.
@@ -38,7 +38,7 @@ $$
 $$
 </div>
 
-*Di mana $X$ adalah inti induk, $Y$ adalah inti anak, $e^-$ adalah partikel beta, dan $\bar{\nu}_e$ adalah antineutrino (partikel hantu yang akan kita bahas di bagian selanjutnya).*
+*Dengan $X$ adalah inti induk, $Y$ adalah inti anak, $e^-$ adalah partikel beta, dan $\bar{\nu}_e$ adalah antineutrino (partikel hantu yang akan kita bahas di bagian selanjutnya).*
 
 ## Melepas Kelebihan Energi Inti
 

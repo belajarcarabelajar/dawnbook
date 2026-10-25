@@ -11,7 +11,7 @@ Peluruhan Beta Plus, yang juga dikenal sebagai **emisi positron**, terjadi pada 
 **Konsep Dasar:** Sebuah proton ($p$) di dalam inti atom meluruh menjadi tiga hal:
 
 1. **Neutron ($n$):** Tetap berada di dalam inti.
-2. **Positron ($e^+$ atau $\beta^+$):** "Saudara kembar" elektron namun bermuatan positif (antimateri elektron). Partikel ini dipancarkan keluar dari inti.
+2. **Positron ($e^+$ atau $\beta^+$):** "Saudara kembar" elektron tetapi bermuatan positif (antimateri elektron). Partikel ini dipancarkan keluar dari inti.
 3. **Neutrino Elektron ($\nu_e$):** Partikel bermassa sangat kecil yang membawa pergi sebagian energi.
 
 > **Analogi Sederhana:** Bayangkan sebuah bus (inti atom) yang terlalu penuh dengan penumpang berbaju merah (proton) sehingga suasana menjadi panas karena gaya tolak-menolak. Untuk menstabilkan suasana, salah satu penumpang berbaju merah melepas jaket merahnya (muatan positif) dan berubah menjadi penumpang berbaju biru (neutron) yang lebih tenang. Jaket merah tersebut dilempar keluar jendela bus sebagai **positron**.

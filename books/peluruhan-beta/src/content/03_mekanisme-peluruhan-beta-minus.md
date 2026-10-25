@@ -1,6 +1,6 @@
 ## Mekanisme Peluruhan Beta Minus (β−)
 
-Pernahkah terbayang sebuah atom yang tiba-tiba berubah identitasnya? Dalam dunia fisika nuklir, ini bukan sekadar imajinasi. Peluruhan Beta Minus ($\beta^-$) adalah proses di mana sebuah inti atom melakukan transmutasi untuk mencapai kestabilan.
+Pernahkah terbayang sebuah atom yang tiba-tiba berubah identitasnya? Dalam dunia fisika nuklir, ini bukan sekadar imajinasi. Peluruhan Beta Minus ($\beta^-$) adalah proses ketika sebuah inti atom melakukan transmutasi untuk mencapai kestabilan.
 
 Mari kita lihat bagaimana sebuah neutron yang tampak tenang di dalam inti atom bisa berubah menjadi proton dan memancarkan partikel berenergi tinggi.
 

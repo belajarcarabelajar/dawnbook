@@ -1,10 +1,10 @@
 ## Fenomena Penangkapan Elektron (Electron Capture)
 
-Di antara proses peluruhan beta, ada satu fenomena yang cukup unik, dan keunikannya baru terlihat jelas bila dibandingkan dengan proses sebelumnya. Jika sebelumnya kita membahas bagaimana inti atom membuang sesuatu (seperti elektron atau positron) untuk mencapai kestabilan, kali ini kita akan melihat fenomena di mana inti atom justru mengambil sesuatu dari lingkungannya sendiri. Fenomena ini disebut **Penangkapan Elektron (Electron Capture)**.
+Di antara proses peluruhan beta, ada satu fenomena yang cukup unik, dan keunikannya baru terlihat jelas bila dibandingkan dengan proses sebelumnya. Jika sebelumnya kita membahas bagaimana inti atom membuang sesuatu (seperti elektron atau positron) untuk mencapai kestabilan, kali ini kita akan melihat fenomena ketika inti atom justru mengambil sesuatu dari lingkungannya sendiri. Fenomena ini disebut **Penangkapan Elektron (Electron Capture)**.
 
 ### Apa itu Penangkapan Elektron?
 
-**Penangkapan Elektron (EC)** adalah proses peluruhan radioaktif di mana inti atom yang kaya akan proton menyerap satu elektron dari kulit atom bagian dalam (biasanya kulit K atau L).
+**Penangkapan Elektron (EC)** adalah proses peluruhan radioaktif ketika inti atom yang kaya akan proton menyerap satu elektron dari kulit atom bagian dalam (biasanya kulit K atau L).
 
 Berbeda dengan peluruhan Beta Plus ($\beta^+$) yang memancarkan positron, pada penangkapan elektron, sebuah proton di dalam inti bergabung dengan elektron yang ditangkap tersebut untuk berubah menjadi neutron.
 

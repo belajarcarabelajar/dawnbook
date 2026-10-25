@@ -8,11 +8,11 @@ Mari kita jelajahi bagaimana partikel kecil berkecepatan tinggi ini bekerja untu
 
 ## 1. Bidang Medis
 
-Dalam dunia medis, peluruhan beta dimanfaatkan karena sifatnya yang setengah kuat. Partikel beta cukup kuat untuk merusak DNA sel kanker, namun jangkauannya di dalam jaringan tubuh sangat terbatas (hanya beberapa milimeter). Hal ini memungkinkan dokter untuk melakukan serangan lokal tanpa merusak organ sehat di sekitarnya.
+Dalam dunia medis, peluruhan beta dimanfaatkan karena sifatnya yang setengah kuat. Partikel beta cukup kuat untuk merusak DNA sel kanker, tetapi jangkauannya di dalam jaringan tubuh sangat terbatas (hanya beberapa milimeter). Hal ini memungkinkan dokter untuk melakukan serangan lokal tanpa merusak organ sehat di sekitarnya.
 
 #### Brachytherapy (Brakiterapi)
 
-Brakiterapi adalah jenis pengobatan kanker di mana sumber radioaktif diletakkan langsung di dalam atau di dekat tumor.
+Brakiterapi adalah jenis pengobatan kanker ketika sumber radioaktif diletakkan langsung di dalam atau di dekat tumor.
 
 - **Cara Kerja:** Dokter memasukkan benih radioaktif kecil (seperti isotop **Strontium-90** atau **Fosfor-32**) ke lokasi tumor.
 - **Keunggulan:** Karena partikel beta hanya bisa menembus jarak pendek, radiasi tersebut sebagian besar akan terkonsentrasi pada sel tumor. Ini berbeda dengan radiasi eksternal yang harus melewati kulit dan jaringan sehat sebelum mencapai target.

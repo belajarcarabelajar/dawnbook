@@ -79,4 +79,4 @@ Dalam dunia nyata, pemahaman tentang spektrum kontinu ini penting dalam **Dosime
 
 *Coba renungkan: Jika kita berhasil menciptakan alat pendeteksi yang bisa menangkap elektron dan neutrino secara bersamaan dalam sebuah peluruhan beta, apakah kita akan melihat spektrum garis kembali untuk total energi keduanya? Mengapa demikian?*
 
-> **Kesimpulan Penting:** Spektrum energi kontinu pada peluruhan beta adalah bukti tidak langsung namun kuat akan keberadaan **neutrino**. Tanpa distribusi energi yang kontinu ini, kita mungkin tidak akan pernah menyadari adanya neutrino.
+> **Kesimpulan Penting:** Spektrum energi kontinu pada peluruhan beta adalah bukti tidak langsung tetapi kuat akan keberadaan **neutrino**. Tanpa distribusi energi yang kontinu ini, kita mungkin tidak akan pernah menyadari adanya neutrino.

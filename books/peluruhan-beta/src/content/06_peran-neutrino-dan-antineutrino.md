@@ -1,6 +1,6 @@
 ## Peran Neutrino dan Antineutrino
 
-Pernahkah terbayang sebuah partikel yang bisa menembus dinding beton setebal satu tahun cahaya hampir tanpa menyentuh satu atom pun? Itulah gambaran **Neutrino** dan **Antineutrino**. Dalam bab ini, kita akan menelusuri jejak partikel hantu yang kehadirannya sempat dianggap sebagai solusi putus asa namun akhirnya berhasil dideteksi.
+Pernahkah terbayang sebuah partikel yang bisa menembus dinding beton setebal satu tahun cahaya hampir tanpa menyentuh satu atom pun? Itulah gambaran **Neutrino** dan **Antineutrino**. Dalam bab ini, kita akan menelusuri jejak partikel hantu yang kehadirannya sempat dianggap sebagai solusi putus asa tetapi akhirnya berhasil dideteksi.
 
 ### 1. Krisis Hukum Kekekalan
 
@@ -19,14 +19,14 @@ Pada tahun 1930, **Wolfgang Pauli** menulis surat terkenal kepada rekan-rekannya
 
 > "Saya telah menemukan sebuah jalan keluar yang putus asa untuk menyelamatkan hukum kekekalan energi. ... Untuk sementara, saya tidak berani menerbitkan apa pun tentang gagasan ini." - **Wolfgang Pauli**, surat 4 Desember 1930
 
-Pauli menyebutnya neutron, namun setelah James Chadwick menemukan partikel berat di inti atom yang sekarang kita kenal sebagai neutron, **Enrico Fermi** mengubah nama partikel kecil Pauli menjadi **Neutrino** (bahasa Italia untuk si kecil yang netral).
+Pauli menyebutnya neutron, tetapi setelah James Chadwick menemukan partikel berat di inti atom yang sekarang kita kenal sebagai neutron, **Enrico Fermi** mengubah nama partikel kecil Pauli menjadi **Neutrino** (bahasa Italia untuk si kecil yang netral).
 
 ### 3. Karakteristik Neutrino
 
 Neutrino ($\nu$) dan antineutrino ($\bar{\nu}$) adalah anggota keluarga **lepton**. Mereka memiliki karakteristik unik yang membuat mereka hampir mustahil untuk dideteksi:
 
 - **Muatan Listrik Nol:** Karena tidak bermuatan, mereka tidak berinteraksi dengan gaya elektromagnetik. Mereka tidak tertarik atau ditolak oleh proton atau elektron.
-- **Massa Sangat Kecil:** Selama puluhan tahun dianggap nol, namun eksperimen terbaru menunjukkan massa mereka sangat kecil (kurang dari $1 \text{ eV}/c^2$, atau sepermiliar massa proton).
+- **Massa Sangat Kecil:** Selama puluhan tahun dianggap nol, tetapi eksperimen terbaru menunjukkan massa mereka sangat kecil (kurang dari $1 \text{ eV}/c^2$, atau sepermiliar massa proton).
 - **Interaksi Lemah:** Mereka hanya berinteraksi melalui **Gaya Nuklir Lemah** dan gravitasi. Inilah alasan mengapa mereka bisa menembus bumi secara utuh tanpa hambatan.
 - **Spin $\frac{1}{2}$:** Mereka adalah fermion yang mengikuti prinsip eksklusi Pauli.
 

@@ -10,7 +10,7 @@ Inti atom bukanlah sekumpulan partikel yang diam. Di dalamnya terdapat dua jenis
 
 Keadaan di dalam inti atom ditentukan oleh tarik-ulur antara dua gaya fundamental:
 
-1. **Gaya Nuklir Kuat (Strong Nuclear Force):** Seperti lem yang kuat namun memiliki jangkauan sangat pendek. Gaya ini merekatkan proton dan neutron agar tetap bersatu.
+1. **Gaya Nuklir Kuat (Strong Nuclear Force):** Seperti lem yang kuat tetapi memiliki jangkauan sangat pendek. Gaya ini merekatkan proton dan neutron agar tetap bersatu.
 2. **Gaya Elektromagnetik (Gaya Coulomb):** Gaya tolak-menolak antarproton karena muatan positifnya yang sejenis.
 
 > **Analogi Sederhana:** Bayangkan inti atom adalah sebuah ruangan kecil yang penuh dengan magnet-magnet kuat yang saling menolak (proton). Agar ruangan itu tidak meledak, kita membutuhkan perekat khusus (neutron) yang memberikan gaya tarik tambahan tanpa menambah gaya tolak.

@@ -6,7 +6,7 @@ Berbeda dengan partikel alfa yang berat atau sinar gamma yang sangat menembus, p
 
 ### 1. Karakteristik Daya Tembus Partikel Beta
 
-Partikel beta (baik elektron $\beta^-$ maupun positron $\beta^+$) adalah partikel bermuatan yang bergerak dengan kecepatan sangat tinggi. Karena massanya yang jauh lebih kecil dibandingkan partikel alfa, partikel beta memiliki kemampuan menembus materi yang lebih besar, namun tetap jauh di bawah sinar gamma.
+Partikel beta (baik elektron $\beta^-$ maupun positron $\beta^+$) adalah partikel bermuatan yang bergerak dengan kecepatan sangat tinggi. Karena massanya yang jauh lebih kecil dibandingkan partikel alfa, partikel beta memiliki kemampuan menembus materi yang lebih besar, tetapi tetap jauh di bawah sinar gamma.
 
 Sebagai perbandingan sederhana:
 
@@ -14,7 +14,7 @@ Sebagai perbandingan sederhana:
 - **Partikel Beta:** Dapat menembus kertas dan masuk ke dalam jaringan kulit hingga beberapa milimeter atau sentimeter, tergantung energinya.
 - **Sinar Gamma/Sinar-X:** Memerlukan timbal tebal atau beton untuk dihentikan.
 
-> **Analogi Sederhana:** Bayangkan partikel alfa sebagai sebuah bola bowling yang besar namun lambat (mudah dihentikan oleh rintangan kecil), sedangkan partikel beta adalah peluru senapan angin yang kecil dan cepat. Peluru ini bisa menembus papan kayu tipis, namun akan terhenti jika mengenai dinding plastik yang cukup tebal.
+> **Analogi Sederhana:** Bayangkan partikel alfa sebagai sebuah bola bowling yang besar tetapi lambat (mudah dihentikan oleh rintangan kecil), sedangkan partikel beta adalah peluru senapan angin yang kecil dan cepat. Peluru ini bisa menembus papan kayu tipis, tetapi akan terhenti jika mengenai dinding plastik yang cukup tebal.
 
 ### 2. Bahaya Paparan Radiasi Beta
 
