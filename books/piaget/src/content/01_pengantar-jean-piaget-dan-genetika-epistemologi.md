@@ -6,14 +6,14 @@ Sebelum mempelajari tahapan-tahapan rumit dalam perkembangan anak, kenali dulu s
 
 Jean Piaget (1896–1980) adalah seorang pemikir asal Swiss yang sudah menunjukkan kecerdasannya sejak dini. Latar belakang pendidikannya bukanlah psikologi, melainkan **Biologi**.
 
-- **Mulai Sejak Kecil:** Pada usia 10 tahun, Piaget menerbitkan artikel ilmiah pertamanya tentang burung pipit albino.
-- **Latar Belakang Biologi:** Ia meraih gelar doktor dalam bidang malakologi (studi tentang moluska/siput). Pengalaman ini sangat penting karena ia melihat bagaimana siput beradaptasi secara fisik dengan lingkungannya. Ia kemudian berpikir: *Bukankah pikiran manusia juga melakukan hal yang sama?*
+- **Mulai Sejak Kecil:** Saat berusia sekitar 10 atau 11 tahun, Piaget menerbitkan artikel ilmiah pertamanya tentang burung pipit albino.
+- **Latar Belakang Biologi:** Ia meraih gelar doktor ilmu alam (1918), dengan disertasi tentang moluska (siput). Pengalaman ini sangat penting karena ia melihat bagaimana siput beradaptasi secara fisik dengan lingkungannya. Ia kemudian berpikir: *Bukankah pikiran manusia juga melakukan hal yang sama?*
 
 > **Wawasan Penting:** Piaget memandang kecerdasan bukan sebagai angka (IQ), melainkan sebagai bentuk **adaptasi biologis** yang memungkinkan manusia bertahan hidup dan berfungsi dalam lingkungannya.
 
 ## 2\. Dari Tes IQ ke Pola Pikir
 
-Pada tahun 1920-an, Piaget bekerja di laboratorium Theodore Simon di Paris, membantu menstandarisasi tes kecerdasan (IQ). Di sinilah ia memperhatikan satu pola.
+Sekitar 1919-1921, Piaget bekerja di sekolah yang didirikan Alfred Binet di Paris, di bawah Théodore Simon, membantu menstandarkan tes penalaran. Di sinilah ia memperhatikan satu pola.
 
 Ia menyadari bahwa anak-anak pada usia yang sama cenderung memberikan **jawaban salah yang serupa**. Baginya, kesalahan ini bukanlah tanda kebodohan, melainkan bukti bahwa anak-anak memiliki **logika yang berbeda** dengan orang dewasa.
 

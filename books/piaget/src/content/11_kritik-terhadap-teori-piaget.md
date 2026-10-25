@@ -12,7 +12,7 @@ Mengkritik Piaget bukan berarti membuang teorinya sama sekali. Tujuannya adalah 
 
 Banyak yang menganggap Piaget terlalu lambat dalam mematok kapan anak menguasai kemampuan tertentu.
 
-- **Objek Permanen:** Menurut Piaget, anak baru paham konsep ini di usia 8-9 bulan. Faktanya berbeda. Lewat metode *preferential looking*, bayi 3-4 bulan saja sudah kaget kalau ada objek yang tiba-tiba "menghilang" secara tak wajar.
+- **Objek Permanen:** Menurut Piaget, anak baru paham konsep ini di usia 8-12 bulan. Faktanya berbeda. Lewat eksperimen, bayi 3-4 bulan saja sudah kaget kalau ada objek yang tiba-tiba "menghilang" secara tak wajar.
 - **Egosentrisme:** Eksperimen "Tiga Gunung" ala Piaget ternyata terlalu rumit bagi anak. Coba buat tugasnya lebih sederhana. Misalnya, menyembunyikan boneka dari kejaran polisi mainan. Dengan cara ini, anak 3 tahun pun terbukti bisa melihat dari sudut pandang orang lain.
 
 ### B. Masalah "Tahapan" yang Kaku
@@ -71,7 +71,7 @@ Kita sudah tahu bahwa perkembangan kognitif anak tidak selalu sejajar di semua m
 
 Ide-ide Neo-Piagetian menyadarkan kita untuk tidak memborbardir anak dengan informasi baru secara bertubi-tubi.
 
-- **Aplikasi:** Kalau kapasitas memori kerja anak mentok di 3-4 informasi saja, guru harus memecah instruksi besar.
+- **Aplikasi:** Kalau memori kerja anak hanya bisa menampung sedikit informasi sekaligus, guru harus memecah instruksi besar.
 - **Contoh:**
 
   <div>
