@@ -104,7 +104,7 @@ Kamu bisa melatih diri menciptakan momen-momen kecil emosi positif. Kamu tidak m
 - Berikan senyuman tulus kepada kasir minimarket saat membayar (membangun koneksi sosial).
 - Luangkan waktu lima menit untuk membaca artikel di luar bidang keahlianmu (merangsang minat).
 
-**Poin Penting:** Pernah diajukan ambang batas rasio antara emosi positif dan negatif (dikenal sebagai *Losada Ratio*), tetapi dasar matematisnya kemudian dibantah dan angkanya masih terus didiskusikan. Poin utamanya tetap sama: untuk berkembang (*flourish*), kita membutuhkan frekuensi emosi positif yang jauh lebih tinggi dibandingkan emosi negatif.
+**Poin Penting:** Pernah diajukan ambang batas rasio antara emosi positif dan negatif (dikenal sebagai *Losada Ratio*), tetapi dasar matematisnya kemudian dibantah dan angkanya masih terus didiskusikan. Poin utamanya tetap sama menurut teori broaden-and-build dari Fredrickson: emosi positif memperluas cara kita berpikir dan bertindak, lalu dari situ membangun sumber daya untuk berkembang (*flourish*).
 
 ## Ringkasan untuk Refleksi
 

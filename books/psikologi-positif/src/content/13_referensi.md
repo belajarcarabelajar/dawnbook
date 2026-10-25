@@ -3,6 +3,7 @@
 Berikut adalah daftar literatur ilmiah dan buku acuan akademis yang mendasari materi dalam buku ini. Jika kamu ingin mendalami lebih lanjut konsep-konsep Positive Psychology seperti model PERMA, teori Broaden-and-Build, VIA Character Strengths, konsep Flow, Growth Mindset, Resilience, Gratitude, Optimism, Positive Relationships, serta Meaning in Life, kamu dapat merujuk pada sumber-sumber tepercaya berikut:
 
 *   Abuhamdeh, S. (2020). Investigating the “flow” experience: Key conceptual and operational issues. *Frontiers in Psychology*, *11*, 158. <https://doi.org/10.3389/fpsyg.2020.00158>
+*   Brown, N. J. L., Sokal, A. D., & Friedman, H. L. (2013). The complex dynamics of wishful thinking: The critical positivity ratio. *American Psychologist*, *68*(9), 801–813. <https://doi.org/10.1037/a0032850>
 *   Carver, C. S., Scheier, M. F., & Segerstrom, S. C. (2010). Optimism. *Clinical Psychology Review*, *30*(7), 879–889. <https://doi.org/10.1016/j.cpr.2010.01.006>
 *   Csikszentmihalyi, M. (1990). *Flow: The psychology of optimal experience*. Harper & Row. <https://lccn.loc.gov/89045645>
 *   Dweck, C. S. (2016). *Mindset: The new psychology of success* (Updated ed.). Ballantine Books. <https://www.penguinrandomhouse.com/books/44330/mindset-by-carol-s-dweck-phd/>
@@ -10,6 +11,7 @@ Berikut adalah daftar literatur ilmiah dan buku acuan akademis yang mendasari ma
 *   Frankl, V. E. (2006). *Man’s search for meaning*. Beacon Press. <https://www.beacon.org/Mans-Search-for-Meaning-P2354.aspx>
 *   Fredrickson, B. L. (2001). The role of positive emotions in positive psychology: The broaden-and-build theory of positive emotions. *American Psychologist*, *56*(3), 218–226. <https://doi.org/10.1037/0003-066X.56.3.218>
 *   Gable, S. L., Reis, H. T., Impett, E. A., & Asher, E. R. (2004). What do you do when things go right? The intrapersonal and interpersonal benefits of sharing positive events. *Journal of Personality and Social Psychology*, *87*(2), 228–245. <https://doi.org/10.1037/0022-3514.87.2.228>
+*   Losada, M., & Heaphy, E. (2004). The role of positivity and connectivity in the performance of business teams. *American Behavioral Scientist*, *47*(6), 740–765. <https://doi.org/10.1177/0002764203260208>
 *   Masten, A. S. (2001). Ordinary magic: Resilience processes in development. *American Psychologist*, *56*(3), 227–238. <https://doi.org/10.1037/0003-066X.56.3.227>
 *   Peterson, C., & Seligman, M. E. P. (2004). *Character strengths and virtues: A handbook and classification*. Oxford University Press; American Psychological Association. <https://global.oup.com/academic/product/character-strengths-and-virtues-9780195167016>
 *   Seligman, M. E. P. (2011). *Flourish: A visionary new understanding of happiness and well-being*. Free Press. <https://lccn.loc.gov/2010033642>
