@@ -6,7 +6,7 @@ Dua situasi itu adalah realitas finansial fase *Quarter-Life Crisis*. Di bagian 
 
 ## 1. Realitas Biaya Hidup
 
-Salah satu pemicu utama stres di usia dewasa muda adalah **gap antara ekspektasi gaya hidup dan kenyataan daya beli**. Secara matematis, kita menghadapi tantangan yang disebut inflasi gaya hidup dan inflasi ekonomi riil.
+Salah satu pemicu utama stres di usia dewasa muda adalah **kesenjangan antara ekspektasi gaya hidup dan kenyataan daya beli**. Secara ekonomi, kita menghadapi tantangan yang disebut inflasi gaya hidup dan inflasi ekonomi riil.
 
 ### Konsep Inflasi dan Daya Beli
 
@@ -30,7 +30,7 @@ $$
 
 ## 2. Godaan Berutang
 
-Di tengah tekanan ekonomi, akses terhadap kredit menjadi pedang bermata dua. Bagi dewasa muda, godaan untuk menutup celah finansial dengan utang seringkali menjadi awal dari krisis yang lebih dalam.
+Di tengah tekanan ekonomi, akses terhadap kredit menjadi pedang bermata dua. Bagi dewasa muda, godaan untuk menutup celah finansial dengan utang sering kali menjadi awal dari krisis yang lebih dalam.
 
 ### Mengenal Utang Produktif vs Konsumtif
 
@@ -39,7 +39,7 @@ Tidak semua utang itu buruk, namun dalam *Quarter-Life Crisis*, banyak yang terj
 - **Paylater & Pinjol (Pinjaman Online):** Kemudahan akses membuat banyak individu terjebak dalam bunga majemuk yang memberatkan.
 	- *Rumus Bunga Majemuk:* $A = P(1 + r)^n$
 		- Artinya, jika kamu menunda pembayaran, utangmu tumbuh secara eksponensial, bukan linear.
-- **Studi Kasus Singkat:** Rina (24 tahun) menggunakan fitur *Paylater* untuk membeli ponsel baru seharga Rp10.000.000 dengan bunga 3% per bulan. Jika ia hanya membayar minimum, dalam satu tahun ia bisa membayar hampir 1,5 kali lipat dari harga asli. Tekanan untuk melunasi ini seringkali memicu kecemasan setiap kali notifikasi jatuh tempo muncul.
+- **Studi Kasus Singkat:** Rina (24 tahun) menggunakan fitur *Paylater* untuk membeli ponsel baru seharga Rp10.000.000 dengan bunga 3% per bulan. Jika ia hanya membayar minimum, dalam satu tahun ia bisa membayar hampir 1,5 kali lipat dari harga asli. Tekanan untuk melunasi ini sering kali memicu kecemasan setiap kali notifikasi jatuh tempo muncul.
 
 ## 3. "Money Anxiety" dan Ketidakpastian Global
 
@@ -51,7 +51,7 @@ Tekanan ekonomi berdampak langsung pada beban mental, bukan hanya terlihat dari 
 2. **Rasa Bersalah Berlebih:** Merasa berdosa setelah membeli barang yang sebenarnya dibutuhkan.
 3. **Vigilansi Finansial:** Terus-menerus mengecek saldo bank dengan perasaan cemas.
 
-> **Important:** Stres ekonomi global (resesi, perubahan iklim, ketidakstabilan politik) menciptakan perasaan bahwa "berusaha keras pun tidak akan cukup". Ini bisa memicu sikap apatis atau *burnout* finansial.
+> **Penting:** Stres ekonomi global (resesi, perubahan iklim, ketidakstabilan politik) menciptakan perasaan bahwa "berusaha keras pun tidak akan cukup". Ini bisa memicu sikap apatis atau *burnout* finansial.
 
 ## 4. Langkah Membangun Kemandirian Finansial
 
@@ -84,7 +84,7 @@ Target awal bukanlah kekayaan, melainkan **ketenangan pikiran**. Memiliki dana d
 
 ### C. Literasi Investasi
 
-Mulailah belajar tentang instrumen yang melawan inflasi, seperti Reksadana atau Emas. Ingat, investasi terbaik saat kamu berusia 20-an adalah **investasi pada keahlian diri sendiri** (human capital) untuk meningkatkan daya tawar di pasar kerja.
+Mulailah belajar tentang instrumen yang melawan inflasi, seperti reksa dana atau emas. Ingat, investasi terbaik saat kamu berusia 20-an adalah **investasi pada keahlian diri sendiri** (human capital) untuk meningkatkan daya tawar di pasar kerja.
 
 ## Menghadapi Kenaikan Biaya Hidup
 
@@ -101,11 +101,11 @@ Jumlah itu hanya untuk mempertahankan standar hidup yang **sama**.
 **Tindakan yang Bisa Diambil:**
 
 1. **Audit Langganan:** Hapus aplikasi atau layanan yang tidak digunakan lebih dari 3 bulan.
-2. **Negosiasi Gaji/Cari Side Hustle:** Karena biaya hidup naik secara matematis, maka pendapatan kamu juga harus tumbuh secara matematis.
-3. **Financial Fasting:** Tetapkan satu minggu dalam sebulan di mana kamu hanya mengeluarkan uang untuk hal-hal yang benar-benar esensial.
+2. **Negosiasi Gaji/Cari Side Hustle:** Karena biaya hidup naik secara matematis, pendapatan kamu juga harus tumbuh setidaknya secepat laju inflasi.
+3. **Financial Fasting:** Tetapkan satu minggu dalam sebulan ketika kamu hanya mengeluarkan uang untuk hal-hal yang benar-benar esensial.
 
 ## Mandiri Bukan Berarti Sendirian
 
-Kemandirian finansial di masa *Quarter-Life Crisis* bukan soal menjadi kaya dalam semalam, tetapi tentang keberanian **mengambil kendali atas hidupmu**. Tekanan ekonomi memang nyata dan seringkali tidak adil secara sistemik, namun dengan pemahaman yang baik tentang arus kas dan pengelolaan mental yang sehat, kamu bisa melewati fase ini dengan lebih tangguh.
+Kemandirian finansial di masa *Quarter-Life Crisis* bukan soal menjadi kaya dalam semalam, tetapi tentang keberanian **mengambil kendali atas hidupmu**. Tekanan ekonomi memang nyata dan sering kali tidak adil secara sistemik, namun dengan pemahaman yang baik tentang arus kas dan pengelolaan mental yang sehat, kamu bisa melewati fase ini dengan lebih tangguh.
 
 *Refleksi: Apa satu pengeluaran kecil yang jika kamu hentikan hari ini, akan memberikan rasa lega secara psikologis karena kamu merasa memegang kendali kembali?*

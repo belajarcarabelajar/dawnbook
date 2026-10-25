@@ -2,7 +2,7 @@
 
 Pernahkah kamu terbangun di tengah malam, menatap langit-langit kamar, dan tiba-tiba dihantam pertanyaan: *"Siapa saya sebenarnya? Apakah hidup yang saya jalani ini benar-benar keinginan saya, atau sekadar mengikuti naskah yang ditulis orang lain?"*
 
-Pertanyaan seperti itu menyentuh inti dari *Quarter-Life Crisis*. Di fase ini, krisis identitas lebih dari sekadar kebingungan remaja tentang gaya rambut atau selera musik; ini tentang **menyusun ulang siapa dirimu**. Kamu berada di persimpangan jalan di mana peta yang diberikan oleh orang tua, sekolah, dan masyarakat tidak lagi akurat untuk menjalani kehidupan dewasa.
+Pertanyaan seperti itu menyentuh inti dari *Quarter-Life Crisis*. Di fase ini, krisis identitas lebih dari sekadar kebingungan remaja tentang gaya rambut atau selera musik; ini tentang **menyusun ulang siapa dirimu**. Kamu berada di persimpangan jalan, tempat peta yang diberikan oleh orang tua, sekolah, dan masyarakat tidak lagi akurat untuk menjalani kehidupan dewasa.
 
 ### 1. Memahami Paradoks Pilihan
 
@@ -14,7 +14,7 @@ Dalam psikologi, ini disebut **The Paradox of Choice**. Semakin banyak pilihan h
 
 > "Kebebasan tanpa tujuan adalah jenis penjara yang berbeda."
 
-### 2. Identitas Inti vs. Identitas Sosial
+### 2. Identitas Otentik vs. Identitas Proyeksi
 
 Krisis identitas terjadi ketika ada jarak yang lebar antara **Identitas Proyeksi** (apa yang kamu tunjukkan pada dunia) dan **Identitas Otentik** (apa yang benar-benar kamu rasakan).
 
@@ -35,15 +35,15 @@ Jika pembaginya (ekspektasi sosial) terlalu besar, maka nilai kepuasan hidupmu a
 
 Viktor Frankl, seorang psikiater dan penyintas Holocaust, menyatakan dalam bukunya *Man's Search for Meaning* bahwa motivasi utama manusia bukanlah kesenangan, melainkan **pencarian makna**.
 
-Dalam konteks *Quarter-Life Crisis*, kita sering terjebak mencari "kebahagiaan" (yang bersifat sementara) daripada "makna" (yang bersifat jangka panjang). Makna hidup tidak serta-merta ditemukan seperti harta karun, tetapi **dikonstruksi** melalui tiga cara:
+Dalam konteks *Quarter-Life Crisis*, kita sering terjebak mencari "kebahagiaan" (yang bersifat sementara) daripada "makna" (yang bersifat jangka panjang). Menurut Frankl, makna hidup tidak diciptakan, tetapi **ditemukan** melalui tiga cara:
 
 1. **Pencapaian atau Karya:** Melalui apa yang kita kerjakan atau ciptakan.
 2. **Pengalaman atau Pertemuan:** Melalui mencintai seseorang atau merasakan keindahan (seni, alam).
-3. **Sikap Terhadap Penderitaan:** Bagaimana kita merespons situasi yang tidak bisa kita ubah.
+3. **Sikap terhadap Penderitaan:** Bagaimana kita merespons situasi yang tidak bisa kita ubah.
 
 ### 4. Menemukan "Ikigai" Kamu
 
-Salah satu cara untuk menjawab pertanyaan eksistensial adalah dengan memetakan irisan antara kebutuhan dunia dan kapasitas diri. Konsep Jepang **Ikigai** (Alasan untuk Bangun di Pagi Hari) adalah alat yang berguna.
+Salah satu cara untuk menjawab pertanyaan eksistensial adalah dengan memetakan irisan antara kebutuhan dunia dan kapasitas diri. Konsep Jepang **Ikigai** (Alasan untuk Bangun di Pagi Hari), yang di luar Jepang sering digambarkan dengan diagram empat lingkaran, adalah alat yang berguna.
 
 | Lingkaran | Pertanyaan Kunci |
 | --- | --- |
@@ -62,7 +62,7 @@ Salah satu cara untuk menjawab pertanyaan eksistensial adalah dengan memetakan i
 
 ### 5. Maya Menata Ulang Identitasnya
 
-**Maya (26 tahun)** Maya adalah seorang akuntan di firma ternama. Secara finansial, dia stabil. Namun, setiap pagi dia merasa sesak napas saat hendak berangkat kerja. Dia merasa "bukan dirinya sendiri."
+**Maya (26 tahun)** adalah seorang akuntan di firma ternama. Secara finansial, dia stabil. Namun, setiap pagi dia merasa sesak napas saat hendak berangkat kerja. Dia merasa "bukan dirinya sendiri."
 
 **Langkah Navigasi Identitas Maya:**
 
@@ -85,6 +85,6 @@ Jika kamu merasa tersesat, cobalah langkah-langkah berikut:
   $$
   </div>
 
-  Jangan takut salah pilih. Pilihan yang "salah" seringkali memberikan data yang paling akurat tentang siapa kamu sebenarnya.
+  Jangan takut salah pilih. Pilihan yang "salah" sering kali memberikan data yang paling akurat tentang siapa kamu sebenarnya.
 
 > **Pesan Penting:** Krisis identitas bukan tanda kegagalan atau gangguan mental; ini adalah sinyal bahwa kamu menolak untuk hidup dalam kepura-puraan. Anggaplah krisis ini sebagai undangan untuk mengenal dirimu kembali, tetapi kali ini dengan syarat dan ketentuan dari kamu sendiri.

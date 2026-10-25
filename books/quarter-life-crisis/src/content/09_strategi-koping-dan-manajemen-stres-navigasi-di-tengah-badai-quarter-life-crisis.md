@@ -18,7 +18,7 @@ Jika pembilang (tekanan) jauh lebih besar daripada penyebut (sumber daya), krisi
 
 ## 2. Praktik Mindfulness
 
-Kecemasan QLC sering kali bersifat **antisipatoris** ,kita takut akan masa depan yang belum terjadi. Mindfulness adalah teknik untuk menarik kesadaran kembali ke saat ini (*the present moment*).
+Kecemasan QLC sering kali bersifat **antisipatoris**: kita takut akan masa depan yang belum terjadi. Mindfulness adalah teknik untuk menarik kesadaran kembali ke saat ini (*the present moment*).
 
 ### Teknik Grounding 5-4-3-2-1
 
@@ -32,11 +32,11 @@ Saat kamu merasa serangan cemas datang karena memikirkan "nanti umur 30 aku jadi
 
 ### Box Breathing
 
-Ini adalah teknik yang digunakan oleh atlet dan pasukan khusus untuk menenangkan sistem saraf parasimpatis:
+Ini adalah teknik yang digunakan oleh atlet dan pasukan khusus untuk menenangkan sistem saraf:
 
 1. Tarik napas (4 detik)
 2. Tahan napas (4 detik)
-3. Hembuskan napas (4 detik)
+3. Embuskan napas (4 detik)
 4. Tahan kosong (4 detik) *Ulangi 4 kali.*
 
 > **Insight:** Melalui mindfulness, kita melatih diri untuk menjadi pengamat yang tenang terhadap pikiran buruk tanpa harus tenggelam di dalamnya, alih-alih berusaha melenyapkannya.
@@ -59,7 +59,7 @@ Mengatakan tidak adalah sebuah keterampilan. Gunakan rumus: **"Terima kasih atas
 
 ## 4. Manajemen Energi, Bukan Hanya Manajemen Waktu
 
-Banyak anak muda terjebak dalam *productivity porn* ,berusaha mengatur waktu sedemikian rupa hingga setiap detik harus menghasilkan uang atau prestasi. Namun, waktu bersifat terbatas (24 jam), sedangkan energi bisa diperbarui.
+Banyak anak muda terjebak dalam *productivity porn*: berusaha mengatur waktu sedemikian rupa hingga setiap detik harus menghasilkan uang atau prestasi. Namun, waktu bersifat terbatas (24 jam), sedangkan energi bisa diperbarui.
 
 **Empat Kuadran Energi:**
 
@@ -86,6 +86,6 @@ Menulis membantu kita melihat pola pikir kita dari perspektif luar. Cobalah menj
 2. Apakah hal itu berada di bawah kendaliku atau di luar kendaliku?
 3. Satu hal kecil apa yang bisa kulakukan besok untuk merawat diriku sendiri?
 
-**Penting:** Coping strategy tidak bekerja secara instan untuk melenyapkan masalah dalam semalam. Anggap ini sebagai otot yang harus terus dilatih. Semakin sering kamu mempraktikkannya, semakin tangguh kamu menghadapi ketidakpastian khas Quarter-Life Crisis.
+**Penting:** Coping Strategy tidak bekerja secara instan untuk melenyapkan masalah dalam semalam. Anggap ini sebagai otot yang harus terus dilatih. Semakin sering kamu mempraktikkannya, semakin tangguh kamu menghadapi ketidakpastian khas Quarter-Life Crisis.
 
 > "Kamu tidak bisa menghentikan ombak, tetapi kamu bisa belajar berselancar." Kalimat ini aslinya keterangan pada poster Swami Satchidananda yang sedang berselancar, yang dikutip Jon Kabat-Zinn dalam *Wherever You Go, There You Are* (1994).

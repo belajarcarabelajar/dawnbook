@@ -1,8 +1,8 @@
 ## Kapan Harus Mencari Bantuan Profesional?
 
-Memasuki usia 20-an sering kali terasa seperti mengemudikan kapal di tengah badai. Adalah hal yang wajar jika kamu merasa goyah, bingung, atau cemas. Namun, ada titik di mana "goyahan" tersebut bukan hanya respons terhadap ombak besar. Bisa jadi, itu tanda bahwa kapalmu mulai bocor secara struktural.
+Memasuki usia 20-an sering kali terasa seperti mengemudikan kapal di tengah badai. Wajar jika kamu merasa goyah, bingung, atau cemas. Namun, ada titik di mana "goyahan" tersebut bukan hanya respons terhadap ombak besar. Bisa jadi, itu tanda bahwa kapalmu mulai bocor secara struktural.
 
-Dalam bagian ini, kita akan belajar membedakan antara **kecemasan transisi** (yang merupakan bagian alami dari pertumbuhan) dengan **gejala gangguan kesehatan mental** yang memerlukan intervensi profesional.
+Dalam bagian ini, kita akan belajar membedakan antara **kecemasan transisi** (yang merupakan bagian alami dari pertumbuhan) dan **gejala gangguan kesehatan mental** yang memerlukan intervensi profesional.
 
 ## 1\. Lampu Indikator pada Dasbor Mobil
 
@@ -20,13 +20,13 @@ Penting untuk memahami bahwa *Quarter-Life Crisis* (QLC) adalah fase perkembanga
 | Aspek | Kecemasan Transisi (Normal) | Gangguan Klinis (Perlu Bantuan) |
 | --- | --- | --- |
 | **Pemicu** | Jelas (misal: gagal wawancara kerja, putus cinta). | Sering kali muncul tanpa pemicu jelas atau menetap meski masalah selesai. |
-| **Durasi** | Datang dan pergi; membaik saat ada kabar baik. | Menetap hampir setiap hari selama lebih dari 2 minggu hingga berbulan-bulan. |
+| **Durasi** | Datang dan pergi; membaik saat ada kabar baik. | Menetap hampir setiap hari selama minimal dua minggu hingga berbulan-bulan. |
 | **Intensitas** | Mengganggu kenyamanan tetapi tetap bisa berfungsi. | Melumpuhkan; membuatmu tidak mampu melakukan tugas dasar. |
 | **Kendali** | Masih bisa ditenangkan dengan hobi atau teman. | Terasa di luar kendali; teknik *self-help* tidak lagi mempan. |
 
 ## 3\. Parameter Durasi, Intensitas, dan Fungsi
 
-Untuk menentukan apakah kamu memerlukan psikolog atau psikiater, gunakan rumus sederhana ini untuk mengevaluasi kondisimu:
+Untuk menentukan apakah kamu memerlukan bantuan profesional, gunakan rumus sederhana ini untuk mengevaluasi kondisimu:
 
 $$
 \\text{Status} = D(\\text{Durasi}) + I(\\text{Intensitas}) + F(\\text{Fungsi})
@@ -56,11 +56,11 @@ Ini adalah indikator terpenting. Apakah kondisi mentalmu menghambatmu dalam:
 
 Jika kamu mengalami salah satu dari hal berikut, segera jadwalkan pertemuan dengan profesional kesehatan mental (Psikolog atau Psikiater):
 
-- **Pikiran untuk Menyakiti Diri Sendiri:** Munculnya ide atau rencana untuk mengakhiri hidup atau menyakiti diri sendiri (*self-harm*).
+- **Pikiran untuk Menyakiti Diri Sendiri:** Munculnya ide atau rencana untuk mengakhiri hidup atau menyakiti diri sendiri (*self-harm*). Jika keselamatanmu terasa terancam, segera hubungi layanan darurat atau datang ke IGD rumah sakit terdekat tanpa menunggu jadwal konsultasi.
 - **Anhedonia Total:** Kehilangan minat sepenuhnya pada hal-hal yang dulunya sangat kamu cintai (misal: hobi yang dulu sangat menyenangkan kini terasa hambar).
 - **Gejala Psikotik:** Mendengar suara-suara atau melihat hal yang tidak dilihat orang lain, atau merasa sangat paranoid tanpa alasan yang jelas.
 - **Penyalahgunaan Zat:** Menggunakan alkohol atau obat-obatan sebagai satu-satunya cara untuk "mematikan" rasa sakit emosional.
-- **Kelelahan Ekstrem:** Merasa lelah secara fisik meski sudah tidur cukup, atau merasa berat hanya untuk sekadar bangun dari tempat tidur.
+- **Kelelahan Ekstrem:** Merasa lelah secara fisik meski sudah tidur cukup, atau merasa berat untuk sekadar bangun dari tempat tidur.
 
 ## 5\. Kapan Mereka Memutuskan Mencari Bantuan?
 
@@ -68,7 +68,7 @@ Jika kamu mengalami salah satu dari hal berikut, segera jadwalkan pertemuan deng
 
 Rina merasa bingung dengan kariernya. Ia sering menangis setelah pulang kerja karena merasa tidak kompeten. Namun, ia masih bisa bersosialisasi di akhir pekan, makan dengan teratur, dan bisa tidur nyenyak setelah curhat dengan sahabatnya.
 
-- **Analisis:** Rina mengalami **Kecemasan Transisi**. Ia mungkin butuh mentor atau *career coach*, namun belum mendesak butuh terapi klinis kecuali kondisinya memburuk.
+- **Analisis:** Rina mengalami **Kecemasan Transisi**. Ia mungkin butuh mentor atau *career coach*, tetapi belum mendesak butuh terapi klinis kecuali kondisinya memburuk.
 
 ### B. Budi (26 tahun)
 
@@ -81,7 +81,7 @@ Budi merasa "kosong". Ia berhenti membalas pesan teman-temannya selama sebulan. 
 Sering kali, orang ragu mencari bantuan karena bingung harus ke mana. Berikut adalah panduan singkatnya:
 
 1. **Psikolog Klinis:** Ahli dalam terapi bicara (psikoterapi). Cocok untuk membantu kamu mengubah pola pikir, mengelola emosi, dan mencari akar masalah perilaku.
-2. **Psikiater:** Dokter medis spesialis jiwa. Mereka dapat meresepkan obat jika terjadi ketidakseimbangan kimiawi di otak yang membuatmu sulit berfungsi (seperti depresi berat atau gangguan kecemasan parah).
+2. **Psikiater:** Dokter medis spesialis jiwa. Mereka dapat meresepkan obat jika gangguan yang kamu alami membuatmu sulit berfungsi (seperti depresi berat atau gangguan kecemasan parah).
 3. **Konselor:** Biasanya fokus pada masalah spesifik seperti masalah hubungan atau karier.
 
 > **Langkah Praktis:** Jika kamu bingung, mulailah dengan menemui **Psikolog Klinis**. Jika mereka menilai kamu memerlukan bantuan medis (obat-obatan), mereka akan merujukmu ke Psikiater.

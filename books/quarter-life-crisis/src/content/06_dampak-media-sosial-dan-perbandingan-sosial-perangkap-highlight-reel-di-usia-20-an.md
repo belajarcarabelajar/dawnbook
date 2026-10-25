@@ -6,7 +6,7 @@ Beginilah *Quarter-Life Crisis* tampil di era digital. Media sosial telah mengub
 
 ### 1\. Mekanisme Social Comparison
 
-Manusia secara alami adalah makhluk sosial yang cenderung mengevaluasi dirinya dengan membandingkan diri dengan orang lain. Teori **Social Comparison** (Leon Festinger, 1954) menjelaskan bahwa kita melakukan ini untuk membangun identitas diri. Namun, di era media sosial, perbandingan ini menjadi tidak seimbang.
+Manusia secara alami adalah makhluk sosial yang cenderung mengevaluasi dirinya dengan membandingkan diri dengan orang lain. Teori **Social Comparison** (Leon Festinger, 1954) menjelaskan bahwa kita melakukan ini untuk menilai kemampuan dan pendapat kita sendiri. Namun, di era media sosial, perbandingan ini menjadi tidak seimbang.
 
 Ada dua jenis social comparison:
 
@@ -42,15 +42,15 @@ Semakin tinggi ekspektasi yang kita bangun dari melihat kurasi kehidupan orang l
 Media sosial adalah platform **curation**, bukan dokumentasi. Pengguna secara selektif memilih momen terbaik untuk ditampilkan. Hal ini menciptakan distorsi yang disebut sebagai *Availability Bias*, kecenderungan otak kita untuk menganggap informasi yang paling mudah diingat (foto liburan mewah, berita sukses) sebagai gambaran umum dari realitas.
 
 - **Validation Algorithm:** Kita mengejar *likes* dan *comments* sebagai indikator kesuksesan sosial. Saat angka tersebut rendah, kita merasa nilai diri kita juga rendah.
-- **Filter dan Edit:** Penggunaan filter tidak hanya pada wajah, tapi pada narasi hidup. Kegagalan jarang sekali "diposting", sehingga dunia digital tampak seperti kompetisi untuk menjadi sempurna.
+- **Filter dan Edit:** Penggunaan filter tidak hanya pada wajah, tetapi juga pada narasi hidup. Kegagalan jarang sekali "diposting", sehingga dunia digital tampak seperti kompetisi untuk menjadi sempurna.
 
-*Coba ingat-ingat kembali unggahan terakhir kamu. Apakah kamu menampilkan kesulitan yang kamu alami saat mengambil foto tersebut, atau hanya hasil akhirnya yang tampak sempurna? Jika kamu melakukannya, kemungkinan besar orang lain juga melakukan hal yang sama.*
+*Coba ingat-ingat kembali unggahan terakhir kamu. Apakah kamu menampilkan kesulitan yang kamu alami saat mengambil foto tersebut, atau hanya hasil akhirnya yang tampak sempurna? Jika kamu hanya menampilkan hasil akhirnya, kemungkinan besar orang lain juga melakukan hal yang sama.*
 
-### 4\. Dampak Psikologis Dewasa Muda
+### 4\. Dampak Psikologis pada Dewasa Muda
 
-**Dilema Maya** Maya adalah seorang lulusan baru yang bekerja di sebuah *startup*. Pekerjaannya stabil, namun gajinya standar. Suatu malam, ia melihat unggahan teman kuliahnya yang sedang *business trip* ke Jepang dengan fasilitas kelas satu. Seketika, Maya merasa pekerjaannya tidak berarti. Ia mulai meragukan pilihannya, merasa depresi, dan menghabiskan sisa malamnya dengan mencari lowongan kerja yang sebenarnya tidak ia butuhkan hanya karena rasa cemas "tertinggal".
+**Dilema Maya** Maya adalah seorang lulusan baru yang bekerja di sebuah *startup*. Pekerjaannya stabil, tetapi gajinya standar. Suatu malam, ia melihat unggahan teman kuliahnya yang sedang *business trip* ke Jepang dengan fasilitas kelas satu. Seketika, Maya merasa pekerjaannya tidak berarti. Ia mulai meragukan pilihannya, merasa depresi, dan menghabiskan sisa malamnya dengan mencari lowongan kerja yang sebenarnya tidak ia butuhkan hanya karena rasa cemas "tertinggal".
 
-**Dampak nyata dari perilaku Maya meliputi:**
+**Dampak nyata dari perbandingan sosial seperti yang dialami Maya meliputi:**
 
 - **Decision Paralysis:** Terlalu banyak melihat pilihan hidup orang lain membuat kita sulit menentukan jalan sendiri.
 - **Emotional Burnout:** Kelelahan karena terus-menerus mencoba "mengejar" standar orang lain.
@@ -78,7 +78,7 @@ Belajarlah untuk menikmati momen di mana kamu *tidak* terlibat dalam segala hal.
 
 ### Kesimpulan untuk Bagian Ini
 
-Media sosial adalah alat, namun di usia 20-an, alat ini sering kali menjadi cermin yang retak. Ia menunjukkan versi diri kita yang tidak utuh dan versi orang lain yang terlalu indah. Mengenali bahwa apa yang kamu lihat di layar hanyalah sebagian kecil dari kebenaran adalah langkah pertama untuk meredakan *Quarter-Life Crisis*.
+Media sosial adalah alat, tetapi di usia 20-an, alat ini sering kali menjadi cermin yang retak. Ia menunjukkan versi diri kita yang tidak utuh dan versi orang lain yang terlalu indah. Mengenali bahwa apa yang kamu lihat di layar hanyalah sebagian kecil dari kebenaran adalah langkah pertama untuk meredakan *Quarter-Life Crisis*.
 
 **Penting:**
 

@@ -2,7 +2,7 @@
 
 Satu pertanyaan besar tentang *Quarter-Life Crisis* (QLC) masih menunggu jawaban, yaitu dari mana sebenarnya krisis di usia 20-an ini datang. Jika pada bagian sebelumnya kita telah mendefinisikan apa itu QLC dan mengenali gejalanya, sekarang saatnya kita membedah "mesin" di baliknya. Mengapa krisis ini terjadi? Mengapa generasi sekarang tampaknya lebih rentan merasakannya dibandingkan generasi sebelumnya?
 
-Kita akan menganalisis tiga pilar utama yang menjadi pemicu krisis ini: **tekanan ekspektasi sosial**, **gegar budaya transisi dunia kerja**, dan **pergeseran peran interpersonal**.
+Kita akan menganalisis tiga pilar utama yang menjadi pemicu krisis ini: **beban ekspektasi sosial**, **transisi dari bangku kuliah ke dunia kerja**, dan **pergeseran peran dalam hubungan interpersonal**.
 
 ## 1\. Beban Ekspektasi Sosial
 
@@ -10,7 +10,7 @@ Banyak dari kita tumbuh dengan sebuah "skrip kehidupan" yang tidak tertulis namu
 
 ### Rumus Ketidakbahagiaan
 
-Secara matematis, krisis ini sering muncul dari kesenjangan yang lebar antara realita dan ekspektasi. Kita bisa merumuskannya sebagai berikut:
+Secara matematis, krisis ini sering muncul dari kesenjangan yang lebar antara realitas dan ekspektasi. Kita bisa merumuskannya sebagai berikut:
 
 $$
 \text{Krisis} = \text{Ekspektasi}(\text{Ideal}) - \text{Realita}(\text{Aktual})
@@ -44,7 +44,7 @@ Memasuki usia 20-an, dinamika hubungan dengan orang-orang di sekitar kita mengal
 
 ### A. Hubungan dengan Orang Tua
 
-Terjadi pergeseran peran dari "anak yang dilindungi" menjadi "dewasa yang setara". Muncul konflik batin antara keinginan untuk mandiri sepenuhnya dengan kebutuhan (atau kewajiban) untuk tetap berbakti. Di banyak budaya, fenomena *Sandwich Generation* mulai muncul, di mana anak muda merasa harus menanggung beban finansial orang tua saat mereka sendiri belum stabil.
+Terjadi pergeseran peran dari "anak yang dilindungi" menjadi "dewasa yang setara". Muncul konflik batin antara keinginan untuk mandiri sepenuhnya dan kebutuhan (atau kewajiban) untuk tetap berbakti. Di banyak budaya, fenomena *Sandwich Generation* mulai muncul, yaitu kondisi ketika seseorang merasa harus menanggung beban finansial orang tua sekaligus anaknya saat dirinya sendiri belum stabil.
 
 ### B. Persahabatan dari Kuantitas ke Kualitas
 
@@ -61,7 +61,7 @@ Pertanyaan "Kapan nikah?" kini telah bergeser dari basa-basi biasa menjadi beban
 **Analisis Penyebab:**
 
 - **Ekspektasi Sosial:** Budi merasa harus selalu "terbaik" karena label lulusan terbaik.
-- **Transisi Kerja:** Budi kaget karena kerja kerasnya di kantor tidak langsung membuahkan pujian instan seperti saat di kampus.
+- **Transisi Kerja:** Budi kaget karena kerja kerasnya di kantor tidak langsung membuahkan pujian seperti saat di kampus.
 - **Hubungan:** Budi merasa terisolasi karena kehilangan struktur dukungan sosial dari lingkungan kampusnya.
 
 ## Refleksi Diri

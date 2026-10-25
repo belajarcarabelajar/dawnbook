@@ -1,6 +1,6 @@
 ## Membangun Resiliensi dan Ketangguhan Mental
 
-Pernahkah kamu memperhatikan sebuah bola tenis dan sebuah telur yang dijatuhkan ke lantai? Telur akan hancur berkeping-keping saat menghadapi benturan, sementara bola tenis akan memantul kembali, bahkan terkadang lebih tinggi dari posisi awalnya.
+Pernahkah kamu memperhatikan sebuah bola tenis dan sebuah telur yang dijatuhkan ke lantai? Telur akan hancur berkeping-keping saat menghadapi benturan, sementara bola tenis akan memantul kembali.
 
 Dalam menghadapi **Quarter-Life Crisis**, kita sering kali merasa seperti telur, rapuh dan mudah retak di bawah tekanan ekspektasi dan ketidakpastian. Namun, kapasitas mental manusia sebenarnya dirancang untuk menjadi seperti bola tenis. Inilah yang kita sebut sebagai **Resiliensi**.
 
@@ -8,7 +8,7 @@ Resiliensi bukan hanya soal kemampuan "tahan banting" atau menahan beban tanpa m
 
 ### 1. Apa yang Membentuk Resiliensi
 
-Resiliensi tidak muncul dengan sendirinya. Resiliensi merupakan "otot mental" yang dibangun lewat perpaduan pola pikir, regulasi emosi, dan tindakan konsisten. Secara ilmiah, resiliensi dapat digambarkan melalui persamaan sederhana:
+Resiliensi tidak muncul dengan sendirinya. Resiliensi merupakan "otot mental" yang dibangun lewat perpaduan pola pikir, regulasi emosi, dan tindakan konsisten. Sebagai ilustrasi, resiliensi dapat digambarkan melalui persamaan sederhana:
 
 $$
 \text{Resiliensi} = \frac{\text{Pola Pikir Adaptif} + \text{Dukungan Sosial}}{\text{Tingkat Tekanan}}
@@ -39,7 +39,7 @@ Berikut langkah nyata untuk membangun ketangguhan mental di masa krisis usia 20-
 Konsep dari Carol Dweck ini menekankan bahwa kecerdasan dan kemampuan bukanlah bawaan lahir yang bersifat tetap.
 
 - **Ubah "Aku gagal" menjadi "Aku sedang belajar."**
-- **Gunakan kata "belum":** "Aku *belum* menguasai karier ini," bukan "Aku *tidak bisa* melakukan pekerjaan ini."
+- **Gunakan kata "belum":** "Aku *belum* menguasai pekerjaan ini," bukan "Aku *tidak bisa* melakukan pekerjaan ini."
 
 #### B. Mempraktikkan Self-Compassion (Welas Asih Diri)
 
@@ -66,7 +66,7 @@ Reframing adalah teknik kognitif untuk mengubah sudut pandang kita dalam melihat
 
 1. **Penerimaan (Acceptance):** Andi mengakui rasa sedihnya tanpa menghakimi diri sendiri. Ia tidak berpura-pura semuanya baik-baik saja.
 2. **Analisis Objektif:** Alih-alih melabeli diri sebagai "orang gagal", ia menganalisis secara objektif penyebab proyeknya berhenti (misalnya riset pasar yang kurang matang, bukan karena ia tidak berbakat).
-3. **Tindakan Kecil (Micro-Action):** Andi tidak langsung terburu-buru membangun bisnis baru. Ia mengambil langkah kecil: mengikuti kursus sertifikasi untuk meningkatkan keahlian yang dirasa masih kurang.
+3. **Tindakan Kecil (Micro-Action):** Andi tidak terburu-buru membangun bisnis baru. Ia mengambil langkah kecil: mengikuti kursus sertifikasi untuk meningkatkan keahlian yang dirasa masih kurang.
 4. **Membangun Relasi (Networking):** Ia mulai berdiskusi dengan mentor tentang kegagalan tersebut. Dari sana, ia menyadari bahwa hampir semua orang sukses pernah melewati fase serupa.
 
 **Hasil:** Enam bulan kemudian, Andi tidak hanya berhasil bangkit, tetapi juga mendapatkan posisi manajerial di perusahaan besar. Pengalaman kegagalan tersebut memberinya sudut pandang unik dalam mengelola risiko.
@@ -75,7 +75,7 @@ Reframing adalah teknik kognitif untuk mengubah sudut pandang kita dalam melihat
 
 Sebagai langkah praktis, buatlah daftar (digital atau fisik) yang berisi hal-hal berikut untuk digunakan saat situasi terasa sangat berat:
 
-1. **Daftar Kemenangan Kecil:** Tuliskan 3 pencapaian yang pernah kamu selesaikan meskipun sulit (misalnya: lulus skripsi atau berani berbicara di depan umum).
+1. **Daftar Kemenangan Kecil:** Tuliskan 3 pencapaian yang pernah kamu selesaikan meskipun sulit (misalnya: menyelesaikan skripsi atau berani berbicara di depan umum).
 2. **Pikiran Jangkar (Anchor Thought):** Satu kalimat yang bisa menenangkanmu (misalnya: *"Ini juga akan berlalu"* atau *"Aku memiliki kemampuan untuk belajar dari situasi ini"*).
 3. **Dukungan Sosial (Social Support):** Catat 3 nama orang terdekat yang bisa kamu hubungi untuk sekadar didengarkan tanpa dihakimi.
 

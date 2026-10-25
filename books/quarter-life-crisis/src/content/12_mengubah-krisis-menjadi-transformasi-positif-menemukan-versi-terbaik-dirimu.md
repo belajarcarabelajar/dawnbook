@@ -33,7 +33,7 @@ T = (K + S) \times B
 $$
 </div>
 
-Di mana:
+Dengan:
 
 - $T$ = Transformasi Positif
 - $K$ = Self-Awareness (Kesadaran Diri)
@@ -49,7 +49,7 @@ Di mana:
 Transformasi tidak harus berarti berhenti dari pekerjaan secara mendadak atau pindah ke luar negeri tanpa rencana. Transformasi yang berkelanjutan sering kali dimulai dari **eksperimen mikro**.
 
 1. **Curiosity over Passion (Rasa Ingin Tahu di atas Minat):** Jangan terbebani mencari "panggilan jiwa". Mulailah dengan apa yang membuatmu penasaran. Ambil kursus singkat, bergabung dengan komunitas, atau mulai proyek sampingan.
-2. **Fail Fast, Learn Fast:** Gunakan metode *prototyping*. Jika kamu penasaran dengan dunia desain, cobalah mengerjakan satu proyek kecil. Jika tidak suka, kamu tidak gagal, kamu baru saja berhasil mengeliminasi pilihan yang tidak cocok.
+2. **Fail Fast, Learn Fast:** Gunakan metode *prototyping*. Jika kamu penasaran dengan dunia desain, cobalah mengerjakan satu proyek kecil. Jika tidak suka, kamu tidak gagal; kamu baru saja berhasil mengeliminasi pilihan yang tidak cocok.
 
 ## Kisah Transformasi Maya
 
@@ -69,7 +69,7 @@ Hidup autentik adalah hasil akhir dari transformasi ini. Ini adalah kondisi di m
 ### Karakteristik Hidup yang Autentik
 
 - **Berani Berkata Tidak:** Kamu menolak peluang atau ajakan yang tidak sesuai dengan nilai-nilaimu tanpa merasa bersalah.
-- **Penerimaan Terhadap Ketidaksempurnaan:** Kamu berhenti mengejar standar "hidup sempurna" versi orang lain.
+- **Penerimaan terhadap Ketidaksempurnaan:** Kamu berhenti mengejar standar "hidup sempurna" versi orang lain.
 - **Koneksi yang Bermakna:** Kamu mulai menarik orang-orang yang mendukung versi barumu, bukan yang hanya menyukai versi lamamu.
 
 > "Krisis adalah cara hidup memberitahumu bahwa ada sesuatu yang lebih besar menantimu, jika saja kamu cukup berani untuk melepaskan apa yang sudah tidak lagi berguna bagimu."
