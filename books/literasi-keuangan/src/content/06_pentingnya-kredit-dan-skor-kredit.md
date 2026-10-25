@@ -34,7 +34,7 @@ Proses persetujuan dana umumnya melewati alur berikut:
 
 ## Posisi Penting SLIK OJK di Indonesia
 
-Skor kredit adalah angka rapor dari perilaku pembayaran utang kamu selama ini. Bank melihat rapor ini untuk menimbang seberapa berisiko meminjamkan uang kepada seorang nasabah. Sistem pelaporan di Indonesia sekarang sudah tersentralisasi.
+Skor kredit ibarat rapor dari perilaku pembayaran utang kamu selama ini. Bank melihat rapor ini untuk menimbang seberapa berisiko meminjamkan uang kepada seorang nasabah. Sistem pelaporan di Indonesia sekarang sudah tersentralisasi.
 
 > **Catatan:** Data rekam jejak cicilan perorangan maupun perusahaan tersimpan dalam Sistem Layanan Informasi Keuangan (SLIK) yang diawasi OJK. Istilah lamanya sering disebut BI Checking.
 
@@ -75,8 +75,8 @@ Sebaliknya, kalau riwayat kamu ada di kategori buruk:
 
 ## Penentu Tinggi Rendahnya Skor
 
-Ada beberapa elemen dasar yang membentuk algoritma nilai skor kredit kamu:
-- **Catatan Pembayaran:** Ini penyumbang nilai paling besar. Selalu bayar tepat waktu menunjukkan karakter yang bertanggung jawab. Telat bayar akan langsung memangkas poin.
+SLIK sendiri mencatat status kolektibilitas, bukan rumus skor. Model penilaian skor yang umum dipakai biasanya menimbang beberapa elemen berikut:
+- **Catatan Pembayaran:** Selalu bayar tepat waktu menunjukkan karakter yang bertanggung jawab. Telat bayar akan langsung memangkas poin.
 - **Rasio Pemakaian:** Seberapa banyak saldo yang dipakai dibanding total plafon yang ada. Sering memakai limit sampai mentok bisa dinilai sebagai kebiasaan terlalu mengandalkan utang.
 - **Umur Riwayat:** Makin lama kamu punya akun kredit yang aktif dan sehat, makin gampang bank membaca konsistensi pembayaranmu.
 - **Variasi Fasilitas:** Memiliki campuran antara cicilan tetap (seperti KPR) dan fasilitas *revolving* (kartu kredit) menunjukkan kemampuan mengatur beban yang beragam.
@@ -93,7 +93,7 @@ Punya catatan finansial yang bersih dan positif adalah aset jangka panjang.
 
 ### Menjaga Skor Tetap Baik
 - Biasakan melunasi tagihan beberapa hari sebelum tenggat waktu. Menyalakan fitur debet otomatis dari rekening gaji akan membantu.
-- Jaga tingkat pemakaian limit kartu di bawah 30 persen. Umpamanya plafon kartu kamu 10 juta, usahakan total gesekan bulan itu tidak melampaui 3 juta.
+- Sebagai aturan praktis yang sering dipakai, jaga tingkat pemakaian limit kartu di bawah 30 persen. Umpamanya plafon kartu kamu 10 juta, usahakan total gesekan bulan itu tidak melampaui 3 juta.
 - Jangan iseng menekan tombol *apply* di berbagai aplikasi pinjol sekaligus.
 - Kalau punya kartu kredit lama yang jarang dipakai tapi bebas iuran tahunan, biarkan saja tetap aktif. Usia kartu tersebut membantu menyokong skor kamu.
 - Sempatkan mengecek laporan SLIK sendiri setidaknya setahun sekali melalui idebku.ojk.go.id. Pastikan tidak ada data tagihan nyasar atas nama kamu.
