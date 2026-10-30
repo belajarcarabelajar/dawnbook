@@ -1,7 +1,7 @@
 ---
 schema: ultra-plan/v1
 plan_id: 2026-10-30-dawnbook-typecheck
-status: Approved
+status: InProgress
 version: 1
 runner_contract: true
 skill: "super-ultra-code-plan (loaded through the Skill tool from ~/.claude/skills/super-ultra-code-plan/SKILL.md)"
@@ -73,6 +73,70 @@ tasks:
       - cmd: "bun ~/vivera/scripts/check-copy-rules.mjs --diff origin/main"
         expect_exit: 0
         retry: 0
+  - id: FU1
+    depends_on: [T4]
+    impacts: ["@types/bun 1.4.4 types for every Bun-side file - bun run typecheck", "scripts/broadcast-old-books.ts fetch default (runs from the live timer) - bun test tests/scripts/broadcast-old-books.test.ts tests/scripts/broadcast"]
+    files: { create: [], modify: [package.json, bun.lock, scripts/broadcast-old-books.ts], test: [tests/scripts/broadcast-old-books.test.ts] }
+    idempotency_key: "FU1:types-bun-144"
+    skip_if: "sh -c \"! node_modules/.bin/tsc -p tsconfig.json | rg -q '^(scripts|tests/scripts)/'\""
+    verify_exit: 0
+    run:
+      - cmd: "sh -c \"! node_modules/.bin/tsc -p tsconfig.json | rg -q '^(scripts|tests/scripts)/'\""
+        expect_exit: 0
+        retry: 0
+      - cmd: "bun test tests/scripts/broadcast tests/scripts/broadcast-old-books.test.ts tests/scripts/announce-new-books.test.ts tests/scripts/audit-full-gsc-index.test.ts"
+        expect_exit: 0
+        retry: 1
+  - id: FU2
+    depends_on: [T4]
+    impacts: ["Pages Functions source (type-only imports, erased at build) - node_modules/.bin/tsc -p functions/tsconfig.json"]
+    files: { create: [], modify: [], test: [] }
+    idempotency_key: "FU2:functions-type-imports"
+    skip_if: "sh -c \"! node_modules/.bin/tsc -p tsconfig.json | rg -q '^functions/'\" && node_modules/.bin/tsc -p functions/tsconfig.json"
+    verify_exit: 0
+    run:
+      - cmd: "sh -c \"! node_modules/.bin/tsc -p tsconfig.json | rg -q '^functions/'\""
+        expect_exit: 0
+        retry: 0
+      - cmd: "node_modules/.bin/tsc -p functions/tsconfig.json"
+        expect_exit: 0
+        retry: 0
+  - id: FU3
+    depends_on: [FU2]
+    impacts: ["tests/functions and tests/helpers mocks - bun test tests/functions tests/helpers"]
+    files: { create: [], modify: [], test: [] }
+    idempotency_key: "FU3:tests-functions"
+    skip_if: "sh -c \"! node_modules/.bin/tsc -p tsconfig.json | rg -q '^tests/(functions|helpers)/'\""
+    verify_exit: 0
+    run:
+      - cmd: "sh -c \"! node_modules/.bin/tsc -p tsconfig.json | rg -q '^tests/(functions|helpers)/'\""
+        expect_exit: 0
+        retry: 0
+      - cmd: "bun test tests/functions"
+        expect_exit: 0
+        retry: 1
+  - id: FU4
+    depends_on: [FU2]
+    impacts: ["tests/admin, tests/books and the other test folders - bun test tests/admin tests/books"]
+    files: { create: [], modify: [], test: [] }
+    idempotency_key: "FU4:tests-other"
+    skip_if: "sh -c \"! node_modules/.bin/tsc -p tsconfig.json | rg -q '^tests/(admin|books|builder|db|fixtures)/|^tests/[^/]+[.]ts'\""
+    verify_exit: 0
+    run:
+      - cmd: "sh -c \"! node_modules/.bin/tsc -p tsconfig.json | rg -q '^tests/(admin|books|builder|db|fixtures)/|^tests/[^/]+[.]ts'\""
+        expect_exit: 0
+        retry: 0
+  - id: FU5
+    depends_on: [FU1, FU2, FU3, FU4]
+    impacts: ["root tsconfig include widened to tests/**/*.ts; GEMINI.md section 19 wording - bun run typecheck"]
+    files: { create: [], modify: [tsconfig.json, GEMINI.md], test: [] }
+    idempotency_key: "FU5:widen-include"
+    skip_if: "bun run typecheck"
+    verify_exit: 0
+    run:
+      - cmd: "bun run typecheck"
+        expect_exit: 0
+        retry: 0
 ---
 # Dawnbook Typecheck Implementation Plan
 
@@ -105,6 +169,14 @@ flowchart TD
     T2 --> T4["T4: GEMINI.md section 19, backlog"]
     T3 --> T4
     T4 --> V["Verify: typecheck exit 0, targeted tests, copy rules"]
+    T4 --> FU1["FU1: @types/bun 1.4.4, scripts and tests/scripts"]
+    T4 --> FU2["FU2: functions type imports"]
+    FU2 --> FU3["FU3: tests/functions and tests/helpers"]
+    FU2 --> FU4["FU4: tests/admin, tests/books, other tests"]
+    FU1 --> FU5["FU5: include tests/**, docs"]
+    FU2 --> FU5
+    FU3 --> FU5
+    FU4 --> FU5
 ```
 
 **Reasoning Lenses:** Investigative (the measurements above); Computational (two programs, one per runtime); Critical (a type fix must not change behaviour; the one real bug is named); Test-first (the typecheck itself is the RED and GREEN signal, plus the targeted tests of every touched script).
@@ -134,7 +206,7 @@ flowchart TD
 
 **Definition of Done:** AC1 to AC5 with exit codes, PR merged by the owner.
 
-**Plan Status & Version:** Approved, version 1.
+**Plan Status & Version:** InProgress, version 1 (follow-ups FU1 to FU5 chosen at the session-close sweep, 2026-10-30).
 
 **Reproducibility:** `bun install --frozen-lockfile` then `bun run typecheck`.
 
@@ -193,6 +265,26 @@ flowchart TD
 - [x] Step 3: Run: `bun run typecheck` exit 0 and copy rules exit 0.
 - [x] Step 4: Commit (parent), open the PR.
 
+### Task FU1: @types/bun 1.4.4 (follow-up)
+
+Measured after `bun add -d --exact @types/bun@1.4.4`: 11 errors in the current scope (8 `as typeof fetch` casts in `tests/scripts/`, 2 in the `fetch` default of `scripts/broadcast-old-books.ts`, the now-unused `@ts-expect-error` in `render-diagrams.test.ts`). Fix the casts at the mock boundary, use `deps.fetch ?? fetch` for the default, drop the directive.
+
+### Task FU2: Type imports in functions/ (follow-up)
+
+Bun tests import Pages Functions code, so the Bun program needs `PagesFunction`, `D1Database` and friends: add `import type` lines from `@cloudflare/workers-types` to each file under `functions/` that uses them (same pattern as T2); `functions/tsconfig.json` must stay at exit 0.
+
+### Task FU3: tests/functions and tests/helpers (follow-up)
+
+Type the `fetch` and env mocks (`as unknown as typeof fetch`, typed env objects) so both folders are clean; `bun test tests/functions` stays green.
+
+### Task FU4: tests/admin, tests/books and the rest (follow-up)
+
+Same patterns for the remaining test folders and root test files.
+
+### Task FU5: Widen the root config (follow-up)
+
+`tsconfig.json` includes `tests/**/*.ts`; GEMINI.md section 19 says `tests/` instead of `tests/scripts/`; `bun run typecheck` exit 0; mutation check repeated in a test file.
+
 ## Execution Notes
 
 - **Real RED (T1, after the install):** `bun run typecheck` exit 2 with 9 errors, not the 18 of the scratch measurement: the scratch config had put the Workers types on its type roots, which produced the 12 `unknown` JSON errors. The 9: `D1Database` in `functions/lib/auth.ts` and `rate-limit.ts` (pulled into the Bun program by `scripts/gc-rate-limits.ts`, `scripts/check-d1-rate-limit.ts`, `scripts/lib/pr-safety.ts`), `opentype.js` without types, the missing `reason`, the hook timeout argument, and the two dead imports of `test-mock.ts`. `functions/tsconfig.json` alone exited 0.
@@ -203,9 +295,7 @@ flowchart TD
 
 ## Follow-up Backlog
 
-- `tests/functions/`, `tests/books/` and the other test folders: 61 errors (measured 2026-10-30), mostly Workers globals (`PagesFunction`, `D1Database`) in Bun tests. defer: needs a typing approach for Workers code inside Bun tests, upgrade-trigger: the next change to those tests.
 - `tests/scripts/test-post.js`, `test-sw.js` and `test_gsc_batch_indexing_ping.py` look like scratch files too (not run by `bun test`); defer: owner decision, upgrade-trigger: the next cleanup of `tests/scripts/`.
-- `@types/bun` 1.2.2 is behind the 1.4.4 runtime; bumping it raised the Bun-side count to 45. defer: separate change, upgrade-trigger: a Bun API used by the scripts is missing from the 1.2.2 types.
 
 ## Approval
 
