@@ -6,6 +6,7 @@
  *   DELETE /api/books/:slug — Delete a book by slug (requires admin auth)
  */
 
+import type { PagesFunction } from "../../lib/pages-function";
 import { verifySession, type Env as AuthEnv } from "../../lib/auth";
 import { type BookRow } from "../../lib/db";
 import { enforceRateLimit } from "../../lib/rate-limit";

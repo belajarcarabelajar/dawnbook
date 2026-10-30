@@ -10,6 +10,8 @@
  * No PII: donor names are never returned, only tier counts.
  */
 
+import type { D1Database } from "@cloudflare/workers-types";
+import type { PagesFunction } from "../lib/pages-function";
 import { Env } from "../lib/auth";
 import { BUILT_TOTAL_CHAPTERS, BUILT_CONTRIBUTORS } from "../lib/built-stats";
 

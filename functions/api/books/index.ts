@@ -6,6 +6,7 @@
  *   POST /api/books     — Create/publish a book (requires Clerk auth)
  */
 
+import type { PagesFunction } from "../../lib/pages-function";
 import { Env, verifySession } from "../../lib/auth";
 import { getBooks } from "../../lib/db";
 import { enforceRateLimit } from "../../lib/rate-limit";

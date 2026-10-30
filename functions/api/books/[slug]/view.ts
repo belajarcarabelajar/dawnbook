@@ -5,6 +5,8 @@
  *   POST /api/books/:slug/view — Increment view count
  */
 
+import type { D1Database } from "@cloudflare/workers-types";
+import type { PagesFunction } from "../../../lib/pages-function";
 import { enforceRateLimit } from "../../../lib/rate-limit";
 
 interface Env {

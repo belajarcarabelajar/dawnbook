@@ -87,7 +87,7 @@ describe("audit-full-gsc-index script", () => {
           }),
           { status: 200, headers: { "Content-Type": "application/json" } },
         );
-      }) as typeof global.fetch;
+      }) as unknown as typeof global.fetch;
 
       const result = await inspectUrl(token, inspectionUrl, siteUrl);
 
@@ -108,7 +108,7 @@ describe("audit-full-gsc-index script", () => {
           }),
           { status: 403, headers: { "Content-Type": "application/json" } },
         );
-      }) as typeof global.fetch;
+      }) as unknown as typeof global.fetch;
 
       const result = await inspectUrl(token, inspectionUrl, siteUrl);
 
@@ -126,7 +126,7 @@ describe("audit-full-gsc-index script", () => {
           status: 200,
           headers: { "Content-Type": "application/json" },
         });
-      }) as typeof global.fetch;
+      }) as unknown as typeof global.fetch;
 
       const result = await inspectUrl(token, inspectionUrl, siteUrl);
 
@@ -141,7 +141,7 @@ describe("audit-full-gsc-index script", () => {
     it("should handle catch block when fetch throws network error", async () => {
       global.fetch = (async () => {
         throw new Error("Network connectivity lost");
-      }) as typeof global.fetch;
+      }) as unknown as typeof global.fetch;
 
       const result = await inspectUrl(token, inspectionUrl, siteUrl);
 
@@ -187,7 +187,7 @@ describe("audit-full-gsc-index script", () => {
           }),
           { status: 400 },
         );
-      }) as typeof global.fetch;
+      }) as unknown as typeof global.fetch;
 
       expect(
         getAccessTokenFromRefreshToken(

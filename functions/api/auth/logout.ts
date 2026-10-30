@@ -8,6 +8,7 @@
  * the cookie is missing or already invalid, returns 204 anyway.
  */
 
+import type { PagesFunction } from "../../lib/pages-function";
 import { deleteSession } from "../../lib/db";
 import { extractSessionId } from "../../lib/auth";
 import { enforceRateLimit } from "../../lib/rate-limit";

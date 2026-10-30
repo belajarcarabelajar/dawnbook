@@ -13,7 +13,7 @@ const serviceExists = existsSync(servicePath);
 
   test("fetchBooks returns mapped books on success", async () => {
     const originalFetch = global.fetch;
-    global.fetch = async () => new Response(JSON.stringify({ books: [{ slug: "test", title: "Test Book" }] }));
+    global.fetch = (async () => new Response(JSON.stringify({ books: [{ slug: "test", title: "Test Book" }] }))) as unknown as typeof fetch;
 
     try {
       const books = await BookService.fetchBooks();
@@ -25,7 +25,7 @@ const serviceExists = existsSync(servicePath);
 
   test("fetchBooks throws on non-ok response", async () => {
     const originalFetch = global.fetch;
-    global.fetch = async () => new Response("Not Found", { status: 404 });
+    global.fetch = (async () => new Response("Not Found", { status: 404 })) as unknown as typeof fetch;
 
     try {
       await expect(BookService.fetchBooks()).rejects.toThrow("Failed to fetch books: 404");
@@ -36,7 +36,7 @@ const serviceExists = existsSync(servicePath);
   test("fetchBooks throws on network error", async () => {
     const originalFetch = global.fetch;
     const networkError = new TypeError("Failed to fetch");
-    global.fetch = async () => { throw networkError; };
+    global.fetch = (async () => { throw networkError; }) as unknown as typeof fetch;
 
     try {
       await expect(BookService.fetchBooks()).rejects.toThrow("Failed to fetch");
@@ -48,7 +48,7 @@ const serviceExists = existsSync(servicePath);
 
   test("fetchBook returns book on success", async () => {
     const originalFetch = global.fetch;
-    global.fetch = async () => new Response(JSON.stringify({ book: { slug: "test", title: "Test Book", content_md: "Some content" } }));
+    global.fetch = (async () => new Response(JSON.stringify({ book: { slug: "test", title: "Test Book", content_md: "Some content" } }))) as unknown as typeof fetch;
 
     try {
       const book = await BookService.fetchBook("test");
@@ -60,7 +60,7 @@ const serviceExists = existsSync(servicePath);
 
   test("fetchBook throws on non-ok response", async () => {
     const originalFetch = global.fetch;
-    global.fetch = async () => new Response("Not Found", { status: 404 });
+    global.fetch = (async () => new Response("Not Found", { status: 404 })) as unknown as typeof fetch;
 
     try {
       await expect(BookService.fetchBook("test")).rejects.toThrow("Failed to fetch book: 404");
@@ -71,8 +71,8 @@ const serviceExists = existsSync(servicePath);
 
   test("deleteBook returns success message on 200", async () => {
     const originalFetch = global.fetch;
-    global.fetch = async () =>
-      new Response(JSON.stringify({ success: true, message: "Book deleted" }), { status: 200 });
+    global.fetch = (async () =>
+      new Response(JSON.stringify({ success: true, message: "Book deleted" }), { status: 200 })) as unknown as typeof fetch;
 
     try {
       const result = await BookService.deleteBook("foo");
@@ -84,7 +84,7 @@ const serviceExists = existsSync(servicePath);
 
   test("deleteBook returns friendly message on 401", async () => {
     const originalFetch = global.fetch;
-    global.fetch = async () => new Response(JSON.stringify({ error: "Unauthorized" }), { status: 401 });
+    global.fetch = (async () => new Response(JSON.stringify({ error: "Unauthorized" }), { status: 401 })) as unknown as typeof fetch;
 
     try {
       const result = await BookService.deleteBook("foo");
@@ -97,7 +97,7 @@ const serviceExists = existsSync(servicePath);
 
   test("deleteBook returns friendly message on 403", async () => {
     const originalFetch = global.fetch;
-    global.fetch = async () => new Response(JSON.stringify({ error: "Forbidden" }), { status: 403 });
+    global.fetch = (async () => new Response(JSON.stringify({ error: "Forbidden" }), { status: 403 })) as unknown as typeof fetch;
 
     try {
       const result = await BookService.deleteBook("foo");
@@ -110,8 +110,8 @@ const serviceExists = existsSync(servicePath);
 
   test("deleteBook handles generic 500 response with JSON error", async () => {
     const originalFetch = global.fetch;
-    global.fetch = async () =>
-      new Response(JSON.stringify({ error: "DB deletion error" }), { status: 500 });
+    global.fetch = (async () =>
+      new Response(JSON.stringify({ error: "DB deletion error" }), { status: 500 })) as unknown as typeof fetch;
 
     try {
       const result = await BookService.deleteBook("foo");
@@ -124,9 +124,9 @@ const serviceExists = existsSync(servicePath);
 
   test("deleteBook handles network failure exception gracefully", async () => {
     const originalFetch = global.fetch;
-    global.fetch = async () => {
+    global.fetch = (async () => {
       throw new TypeError("Failed to fetch");
-    };
+    }) as unknown as typeof fetch;
 
     try {
       const result = await BookService.deleteBook("foo");
@@ -140,10 +140,10 @@ const serviceExists = existsSync(servicePath);
   test("publishChapter does NOT include an Authorization header (cookie-based auth)", async () => {
     const originalFetch = global.fetch;
     let captured: RequestInit | undefined;
-    global.fetch = async (_url, init) => {
+    global.fetch = (async (_url: RequestInfo | URL, init?: RequestInit) => {
       captured = init;
       return new Response(JSON.stringify({ success: true, message: "Published" }), { status: 200 });
-    };
+    }) as unknown as typeof fetch;
 
     try {
       await BookService.publishChapter({
@@ -163,17 +163,17 @@ const serviceExists = existsSync(servicePath);
   test("publishChapter handles 401, 403, and 500 errors appropriately", async () => {
     const originalFetch = global.fetch;
     try {
-      global.fetch = async () => new Response("Unauth", { status: 401 });
+      global.fetch = (async () => new Response("Unauth", { status: 401 })) as unknown as typeof fetch;
       let res = await BookService.publishChapter({ bookSlug: "x", chapterTitle: "t", markdownContent: "c" });
       expect(res.success).toBe(false);
       expect(res.message).toMatch(/sign in/i);
 
-      global.fetch = async () => new Response("Forbidden", { status: 403 });
+      global.fetch = (async () => new Response("Forbidden", { status: 403 })) as unknown as typeof fetch;
       res = await BookService.publishChapter({ bookSlug: "x", chapterTitle: "t", markdownContent: "c" });
       expect(res.success).toBe(false);
       expect(res.message).toMatch(/admin/i);
 
-      global.fetch = async () => new Response(JSON.stringify({ error: "Server error" }), { status: 500 });
+      global.fetch = (async () => new Response(JSON.stringify({ error: "Server error" }), { status: 500 })) as unknown as typeof fetch;
       res = await BookService.publishChapter({ bookSlug: "x", chapterTitle: "t", markdownContent: "c" });
       expect(res.success).toBe(false);
       expect(res.message).toBe("Server error");
@@ -184,9 +184,9 @@ const serviceExists = existsSync(servicePath);
 
   test("publishChapter handles network error exception gracefully", async () => {
     const originalFetch = global.fetch;
-    global.fetch = async () => {
+    global.fetch = (async () => {
       throw new Error("Network timeout");
-    };
+    }) as unknown as typeof fetch;
 
     try {
       const res = await BookService.publishChapter({ bookSlug: "x", chapterTitle: "t", markdownContent: "c" });

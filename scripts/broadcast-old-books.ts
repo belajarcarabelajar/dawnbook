@@ -130,7 +130,7 @@ export async function main(argv: string[], deps: MainDeps = {}): Promise<number>
   const rootDir = deps.rootDir ?? process.cwd();
   const stateDir = deps.stateDir ?? DEFAULT_STATE_DIR;
   const now = deps.now ?? Date.now;
-  const fetchImpl = deps.fetch ?? ((url, init) => fetch(url, init));
+  const fetchImpl = deps.fetch ?? fetch;
   const log = deps.log ?? console.log;
   const rawNotify = deps.notify ?? desktopNotify;
   const notify = (text: string) => {

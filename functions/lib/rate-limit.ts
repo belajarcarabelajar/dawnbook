@@ -20,6 +20,8 @@
  *    clients can back off and observability tools can read the quota.
  */
 
+import type { D1Database } from "@cloudflare/workers-types";
+
 export interface RateLimitOptions {
   /** Namespace for the counter, e.g. "auth/callback". Keeps routes isolated. */
   route: string;

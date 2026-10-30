@@ -13,6 +13,7 @@
  * shown a meaningful message; we never echo the raw error to the client.
  */
 
+import type { PagesFunction } from "../../lib/pages-function";
 import {
   exchangeCode,
   fetchUserInfo,
