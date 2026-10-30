@@ -7,6 +7,8 @@
  * Telegram call, so a crash or an unclear reply turns into a pause that a human
  * resolves with `resume --sent` or `resume --not-sent`, never into a duplicate.
  * With `dryRun` the run writes no state, sends no notification and posts nothing.
+ * A link check that gets no HTTP answer at all (the network is not up yet after
+ * a resume) is tried once more after NETWORK_RETRY_MS; the send is never retried.
  */
 import { sendMessage } from "../announce-new-books";
 import {
@@ -21,6 +23,9 @@ import {
 
 export const WINDOW_FIRST_HOUR = 19;
 export const WINDOW_LAST_HOUR = 21;
+export const NETWORK_RETRY_MS = 30_000;
+// 20 s link check, 30 s wait, 20 s link check and 20 s send stay under the
+// unit's TimeoutStartSec=120.
 const LINK_TIMEOUT_MS = 20_000;
 
 export interface RunDeps {
@@ -31,6 +36,7 @@ export interface RunDeps {
   notify: (text: string) => void;
   log: (text: string) => void;
   dryRun?: boolean;
+  sleep?: (ms: number) => Promise<void>;
 }
 
 function messageOf(err: unknown): string {
@@ -42,10 +48,17 @@ function nextItem(state: BroadcastState): QueueItem | undefined {
   return state.queue.find((q) => !sent.has(q.slug));
 }
 
-async function linkStatus(fetchImpl: typeof fetch, url: string): Promise<number | string> {
+async function linkStatus(deps: RunDeps, say: (text: string) => void, url: string): Promise<number | string> {
+  const get = () =>
+    deps.fetch(url, { method: "GET", redirect: "manual", signal: AbortSignal.timeout(LINK_TIMEOUT_MS) });
   try {
-    const res = await fetchImpl(url, { method: "GET", redirect: "manual", signal: AbortSignal.timeout(LINK_TIMEOUT_MS) });
-    return res.status;
+    return (await get()).status;
+  } catch (err) {
+    say(`link check failed (${messageOf(err)}); retrying once in ${NETWORK_RETRY_MS / 1000} s`);
+  }
+  await (deps.sleep ?? ((ms: number) => new Promise<void>((done) => setTimeout(done, ms))))(NETWORK_RETRY_MS);
+  try {
+    return (await get()).status;
   } catch (err) {
     return messageOf(err);
   }
@@ -128,7 +141,7 @@ async function guardedRun(deps: RunDeps, say: (text: string) => void, secret: { 
   }
   secret.token = token;
 
-  const status = await linkStatus(deps.fetch, item.url);
+  const status = await linkStatus(deps, say, item.url);
   if (status !== 200) {
     alert(`Dawnbook broadcast: tautan ${item.slug} membalas ${status}, tidak dikirim.`);
     return 1;
