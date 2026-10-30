@@ -4,7 +4,7 @@ import { mkdtemp, rm, writeFile, readFile } from "node:fs/promises";
 import { join } from "node:path";
 import { tmpdir } from "node:os";
 import { runOnce, applyResume, describeStatus } from "../../../scripts/broadcast/run";
-import { writeState, readState, STATE_FILE, LOCK_FILE, type BroadcastState, type QueueItem } from "../../../scripts/broadcast/state";
+import { acquireLock, writeState, readState, STATE_FILE, type BroadcastState, type QueueItem } from "../../../scripts/broadcast/state";
 
 const TOKEN = "123456:fake-token";
 const CHAT = "-1001234567890";
@@ -153,7 +153,9 @@ describe("runOnce send", () => {
 
   test("releases the lock afterwards", async () => {
     await run(AT_1900);
-    expect(existsSync(join(stateDir, LOCK_FILE))).toBe(false);
+    const release = acquireLock(stateDir);
+    expect(typeof release).toBe("function");
+    release!();
   });
 
   test("a second run on the same WIB day sends nothing", async () => {
@@ -199,11 +201,22 @@ describe("runOnce brakes", () => {
     const r = await run(AT_2000);
     expect([r.code, r.calls.length]).toEqual([1, 0]);
     const state = await readState(stateDir);
-    expect(state?.paused).toEqual({ reason: "status kirim tidak pasti", at: "2026-10-30T13:00:00.000Z", attempt: "buku-a" });
+    expect(state?.paused).toEqual({ reason: "status kirim tidak pasti", at: "2026-10-29T12:00:00.000Z", attempt: "buku-a" });
     expect(state?.inFlight).toBeNull();
     expect(r.notes).toEqual([
       "Dawnbook broadcast di-pause: status kirim buku-a tidak pasti. Cek grup, lalu resume --sent atau --not-sent.",
     ]);
+  });
+
+  test("resume --sent after a leftover inFlight does not block the next WIB day", async () => {
+    await writeState(stateDir, baseState({ inFlight: { slug: "buku-a", at: "2026-10-30T12:00:00.000Z" } }));
+    expect((await run(NEXT_DAY_1900)).code).toBe(1);
+    const resumed = applyResume((await readState(stateDir))!, "sent", "2026-10-31T12:30:00.000Z") as BroadcastState;
+    expect(resumed.sent).toEqual([{ slug: "buku-a", at: "2026-10-30T12:00:00.000Z", messageId: null }]);
+    await writeState(stateDir, resumed);
+    const r = await run(Date.UTC(2026, 9, 31, 13, 0));
+    expect([r.code, r.posts.length]).toEqual([0, 1]);
+    expect((await readState(stateDir))?.sent.map((s) => s.slug)).toEqual(["buku-a", "buku-b"]);
   });
 
   test("a link answering 404 is not sent", async () => {
@@ -284,12 +297,12 @@ describe("runOnce brakes", () => {
     expect([r.code, r.calls.length]).toEqual([0, 0]);
   });
 
-  test("a lock held by a live pid sends nothing and stays", async () => {
+  test("a held lock sends nothing", async () => {
     await writeState(stateDir, baseState());
-    await writeFile(join(stateDir, LOCK_FILE), `${process.pid}\n`);
+    const held = acquireLock(stateDir)!;
     const r = await run(AT_1900);
+    held();
     expect([r.code, r.calls.length]).toEqual([0, 0]);
-    expect((await readFile(join(stateDir, LOCK_FILE), "utf8")).trim()).toBe(String(process.pid));
   });
 
   test("an unexpected error notifies and returns 1", async () => {

@@ -95,7 +95,7 @@ async function guardedRun(deps: RunDeps, say: (text: string) => void, secret: { 
   }
   if (state.inFlight) {
     const slug = state.inFlight.slug;
-    await save({ ...state, inFlight: null, paused: { reason: "status kirim tidak pasti", at: nowIso(), attempt: slug } });
+    await save({ ...state, inFlight: null, paused: { reason: "status kirim tidak pasti", at: state.inFlight.at, attempt: slug } });
     alert(`Dawnbook broadcast di-pause: status kirim ${slug} tidak pasti. Cek grup, lalu resume --sent atau --not-sent.`);
     return 1;
   }

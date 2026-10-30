@@ -4,7 +4,7 @@ import { mkdtemp, rm, writeFile, mkdir, readFile, utimes } from "node:fs/promise
 import { join } from "node:path";
 import { tmpdir } from "node:os";
 import { main } from "../../scripts/broadcast-old-books";
-import { readState, writeState, STATE_FILE, LOCK_FILE } from "../../scripts/broadcast/state";
+import { acquireLock, readState, writeState, STATE_FILE } from "../../scripts/broadcast/state";
 
 // 10.00 WIB, outside the 19.00 to 21.59 window.
 const NOW = Date.UTC(2026, 9, 30, 3, 0);
@@ -192,9 +192,10 @@ describe("pause and resume", () => {
   });
 
   test("pause returns 1 while a run holds the lock", async () => {
-    await writeFile(join(stateDir, LOCK_FILE), `${process.pid}\n`);
+    const held = acquireLock(stateDir)!;
     const before = await stateText();
     const r = await cli(["pause"]);
+    held();
     expect(r.code).toBe(1);
     expect(r.logs).toEqual(["a run is in progress, try again"]);
     expect(await stateText()).toBe(before);

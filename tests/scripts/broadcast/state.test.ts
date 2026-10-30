@@ -105,51 +105,62 @@ describe("writeState", () => {
 });
 
 describe("acquireLock", () => {
-  const alive = () => true;
-  const dead = () => false;
+  const STATE_TS = join(import.meta.dir, "..", "..", "..", "scripts", "broadcast", "state.ts");
 
-  test("takes a free lock and writes the pid into it", () => {
-    const release = acquireLock(root, 4242, alive);
+  test("takes a free lock", () => {
+    const release = acquireLock(root);
     expect(typeof release).toBe("function");
-    expect(readFileSync(join(root, LOCK_FILE), "utf8").trim()).toBe("4242");
+    release!();
   });
 
   test("creates a missing folder with mode 700", async () => {
     const dir = join(root, "state");
-    expect(acquireLock(dir, 4242, alive)).not.toBeNull();
+    const release = acquireLock(dir);
+    expect(release).not.toBeNull();
     expect((await stat(dir)).mode & 0o777).toBe(0o700);
-  });
-
-  test("returns null while the holder is alive", () => {
-    acquireLock(root, 4242, alive);
-    expect(acquireLock(root, 5555, alive)).toBeNull();
-    expect(readFileSync(join(root, LOCK_FILE), "utf8").trim()).toBe("4242");
-  });
-
-  test("takes over a stale lock whose holder is dead", () => {
-    acquireLock(root, 4242, alive);
-    const release = acquireLock(root, 5555, dead);
-    expect(typeof release).toBe("function");
-    expect(readFileSync(join(root, LOCK_FILE), "utf8").trim()).toBe("5555");
-  });
-
-  test("takes over a lock with garbage content", async () => {
-    await writeFile(join(root, LOCK_FILE), "bukan-pid\n");
-    const release = acquireLock(root, 5555, alive);
-    expect(typeof release).toBe("function");
-    expect(readFileSync(join(root, LOCK_FILE), "utf8").trim()).toBe("5555");
-  });
-
-  test("release removes the lock file", () => {
-    const release = acquireLock(root, 4242, alive);
     release!();
-    expect(existsSync(join(root, LOCK_FILE))).toBe(false);
   });
 
-  test("release ignores a lock file that is already gone", async () => {
-    const release = acquireLock(root, 4242, alive);
-    await rm(join(root, LOCK_FILE));
-    expect(() => release!()).not.toThrow();
+  test("refuses a second lock while the first is held", () => {
+    const first = acquireLock(root);
+    expect(acquireLock(root)).toBeNull();
+    first!();
+  });
+
+  test("takes the lock again after release", () => {
+    acquireLock(root)!();
+    const again = acquireLock(root);
+    expect(typeof again).toBe("function");
+    again!();
+  });
+
+  test("takes a lock file naming a live pid that nobody holds", async () => {
+    await writeFile(join(root, LOCK_FILE), `${process.pid}\n`);
+    const release = acquireLock(root);
+    expect(typeof release).toBe("function");
+    release!();
+  });
+
+  test("a holder that exits without releasing does not block", () => {
+    const script = `import { acquireLock } from ${JSON.stringify(STATE_TS)};\n` +
+      `console.log(acquireLock(${JSON.stringify(root)}) ? "held" : "busy");`;
+    const child = Bun.spawnSync([process.execPath, "-e", script]);
+    expect(child.stdout.toString().trim()).toBe("held");
+    const release = acquireLock(root);
+    expect(typeof release).toBe("function");
+    release!();
+  });
+
+  test("release twice does not throw", () => {
+    const release = acquireLock(root)!;
+    release();
+    expect(() => release()).not.toThrow();
+  });
+
+  test("keeps the lock file with a pid line after release", () => {
+    acquireLock(root)!();
+    expect(existsSync(join(root, LOCK_FILE))).toBe(true);
+    expect(readFileSync(join(root, LOCK_FILE), "utf8")).toBe(`${process.pid}\n`);
   });
 });
 
@@ -190,6 +201,31 @@ describe("readTelegramEnv", () => {
     );
     expect(Object.keys(env).sort()).toEqual(["token"]);
     expect(env.token).toBe("123456:fake-token");
+  });
+
+  test("drops an inline comment after an unquoted value", async () => {
+    const env = await envFrom("TELEGRAM_BOT_TOKEN=123456:fake-token # note\n");
+    expect(env.token).toBe("123456:fake-token");
+  });
+
+  test("drops an inline comment after a quoted value", async () => {
+    const env = await envFrom('TELEGRAM_BOT_TOKEN="123456:fake-token" # note\n');
+    expect(env.token).toBe("123456:fake-token");
+  });
+
+  test("treats a value that is only a comment as missing", async () => {
+    const env = await envFrom("TELEGRAM_BOT_TOKEN= # belum diisi\n");
+    expect(env.token).toBeUndefined();
+  });
+
+  test("keeps a hash that starts an unquoted value", async () => {
+    const env = await envFrom("DAWNBOOK_TELEGRAM_CHAT_ID=#1\n");
+    expect(env.chatId).toBe("#1");
+  });
+
+  test("keeps a hash inside quotes", async () => {
+    const env = await envFrom('DAWNBOOK_TELEGRAM_CHAT_ID="-100#1"\n');
+    expect(env.chatId).toBe("-100#1");
   });
 
   test("treats an empty value as missing", async () => {

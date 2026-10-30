@@ -3,10 +3,12 @@
  * timer posts one old Dawnbook book a day to the Telegram group.
  *
  * Holds the state file (`state.json`, written atomically, mode 600 in a mode
- * 700 folder), the pid lock that keeps two runs apart, the reader for the two
- * Telegram values in the env file, and the WIB clock that decides the window.
+ * 700 folder), the run lock (a kernel `flock` on `run.lock`, released when the
+ * holding process exits, even after a crash), the reader for the two Telegram
+ * values in the env file, and the WIB clock that decides the window.
  */
-import { chmodSync, closeSync, mkdirSync, openSync, readFileSync, unlinkSync, writeSync } from "node:fs";
+import { dlopen, FFIType } from "bun:ffi";
+import { chmodSync, closeSync, ftruncateSync, mkdirSync, openSync, writeSync } from "node:fs";
 import { open, readFile, rename } from "node:fs/promises";
 import { homedir } from "node:os";
 import { join } from "node:path";
@@ -72,63 +74,36 @@ export async function writeState(dir: string, state: BroadcastState): Promise<vo
   await rename(tmp, join(dir, STATE_FILE));
 }
 
-function defaultIsAlive(pid: number): boolean {
-  try {
-    process.kill(pid, 0);
-    return true;
-  } catch (err) {
-    return errorCode(err) === "EPERM";
-  }
+const LOCK_EX_NB = 6;
+const LOCK_UN = 8;
+let flockSymbol: ((fd: number, operation: number) => number) | null = null;
+
+// Loaded on first use so importing this module never opens libc.
+function flock(fd: number, operation: number): number {
+  flockSymbol ??= dlopen("libc.so.6", {
+    flock: { args: [FFIType.i32, FFIType.i32], returns: FFIType.i32 },
+  }).symbols.flock as (fd: number, operation: number) => number;
+  return flockSymbol(fd, operation);
 }
 
-function createLock(path: string, pid: number): boolean {
-  let fd: number;
-  try {
-    fd = openSync(path, "wx", 0o600);
-  } catch (err) {
-    if (errorCode(err) === "EEXIST") return false;
-    throw err;
-  }
-  try {
-    writeSync(fd, `${pid}\n`);
-  } finally {
-    closeSync(fd);
-  }
-  return true;
-}
-
-function removeLock(path: string): void {
-  try {
-    unlinkSync(path);
-  } catch (err) {
-    if (errorCode(err) !== "ENOENT") throw err;
-  }
-}
-
-function holderIsAlive(path: string, isAlive: (pid: number) => boolean): boolean {
-  let text: string;
-  try {
-    text = readFileSync(path, "utf8").trim();
-  } catch {
-    return false;
-  }
-  if (!/^\d+$/.test(text) || Number(text) <= 0) return false;
-  return isAlive(Number(text));
-}
-
-export function acquireLock(
-  dir: string,
-  pid: number = process.pid,
-  isAlive: (pid: number) => boolean = defaultIsAlive,
-): (() => void) | null {
+// The file is never deleted: a new inode would let a second run lock it while
+// the first still holds the old one. The pid inside is for people only.
+export function acquireLock(dir: string): (() => void) | null {
   ensurePrivateDir(dir);
-  const path = join(dir, LOCK_FILE);
-  if (!createLock(path, pid)) {
-    if (holderIsAlive(path, isAlive)) return null;
-    removeLock(path);
-    if (!createLock(path, pid)) return null;
+  const fd = openSync(join(dir, LOCK_FILE), "a+", 0o600);
+  if (flock(fd, LOCK_EX_NB) !== 0) {
+    closeSync(fd);
+    return null;
   }
-  return () => removeLock(path);
+  ftruncateSync(fd, 0);
+  writeSync(fd, `${process.pid}\n`, 0);
+  let held = true;
+  return () => {
+    if (!held) return;
+    held = false;
+    flock(fd, LOCK_UN);
+    closeSync(fd);
+  };
 }
 
 const ENV_KEYS: Record<string, "token" | "chatId"> = {
@@ -148,11 +123,9 @@ export async function readTelegramEnv(path: string): Promise<{ token?: string; c
   for (const line of text.split(/\r?\n/)) {
     const match = /^\s*(?:export\s+)?([A-Za-z_][A-Za-z0-9_]*)=(.*)$/.exec(line);
     if (!match || !Object.hasOwn(ENV_KEYS, match[1])) continue;
-    let value = match[2].trim();
-    const quote = value[0];
-    if (value.length >= 2 && (quote === '"' || quote === "'") && value.endsWith(quote)) {
-      value = value.slice(1, -1);
-    }
+    const raw = match[2].trim();
+    const quoted = /^(["'])(.*?)\1(?:\s+#.*)?$/.exec(raw);
+    const value = quoted ? quoted[2] : match[2].replace(/\s+#.*$/, "").trim();
     const key = ENV_KEYS[match[1]];
     if (value === "") delete result[key];
     else result[key] = value;
