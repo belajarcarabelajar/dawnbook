@@ -59,7 +59,7 @@ async function cli(argv: string[], over: Deps = {}) {
     fetch: (async (url: string | URL | Request) => {
       calls.push(url.toString());
       throw new Error("fetch must not be called in this test");
-    }) as typeof fetch,
+    }) as unknown as typeof fetch,
     notify: (text) => notes.push(text),
     log: (text) => logs.push(text),
     ...over,
@@ -120,7 +120,7 @@ describe("init", () => {
   });
 
   test("returns 1 when the live manifest does not answer 200", async () => {
-    const fetchDown = (async () => new Response("down", { status: 503 })) as typeof fetch;
+    const fetchDown = (async () => new Response("down", { status: 503 })) as unknown as typeof fetch;
     const r = await cli(["init", "--dry-run"], { fetch: fetchDown });
     expect(r.code).toBe(1);
   });

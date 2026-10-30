@@ -227,7 +227,7 @@ describe("main", () => {
       env: { TELEGRAM_BOT_TOKEN: TOKEN, DAWNBOOK_TELEGRAM_CHAT_ID: CHAT },
       fetch: (async (url: string | URL | Request) => {
         throw new Error(`Unable to connect to ${url.toString()}`);
-      }) as typeof fetch,
+      }) as unknown as typeof fetch,
       log,
     });
     expect(code).toBe(1);
