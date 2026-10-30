@@ -127,6 +127,7 @@ describe.skipIf(skipRender)("renderBooks", () => {
   beforeAll(async () => {
     seed = makeRoot();
     first = await renderBooks(seed);
+    // @ts-expect-error @types/bun 1.2.2 lacks the hook timeout argument that the Bun 1.4.4 runtime accepts.
   }, 60_000);
 
   it("renders each distinct diagram once on the first run and writes one file per key", () => {
