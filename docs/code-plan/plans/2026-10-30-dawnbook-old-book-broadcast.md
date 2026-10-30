@@ -1,7 +1,7 @@
 ---
 schema: ultra-plan/v1
 plan_id: 2026-10-30-dawnbook-old-book-broadcast
-status: Draft
+status: Approved
 version: 1
 runner_contract: true
 skill: "super-ultra-code-plan (loaded through the Skill tool from ~/.claude/skills/super-ultra-code-plan/SKILL.md)"
@@ -206,7 +206,7 @@ flowchart TD
 
 **Definition of Done:** T1 to T5 green with exit codes recorded, PR merged by the owner, T6 state initialised after the owner approved the printed list, T7 timer enabled after the risk gate, first run seen in the journal and in the group, plan closed through the debt sweep.
 
-**Plan Status & Version:** Draft, version 1.
+**Plan Status & Version:** Approved, version 1.
 
 **Reproducibility:** Bun 1.4.4; tests inject the clock, `fetch`, notifier, env file and a temporary state folder (`mkdtemp` under `os.tmpdir()`), so they need no network, no real `~/.local/state`, and no Telegram.
 
@@ -499,3 +499,11 @@ flowchart TD
 - [ ] Step 5: `systemctl --user list-timers dawnbook-broadcast.timer` shows the next trigger at 19.00, 20.00 or 21.00 WIB.
 - [ ] Step 6: Commit and tag `~/AGENTS.md` in `~/.local/share/home-bak.git` (section 8.5, tag `AGENTS.md.bak-20261030-dawnbook-broadcast`), add one line to section 8 naming the timer, GEMINI.md section 28, the kill switch and the revert, then `python3 -I ~/.claude/hooks/agents-md-check.py` exits 0.
 - [ ] Step 7: After the first trigger in the window: `journalctl --user -u dawnbook-broadcast --since today` shows one `sent` line, `status` shows `Terkirim 1/<n>`, and the owner confirms the post in the group.
+
+## Approval
+
+| Gate | Answer | Date |
+|---|---|---|
+| `Intent` | Locked | 2026-10-30 |
+| `Spec` | Approve | 2026-10-30 |
+| `Plan` | Approve | 2026-10-30 |
