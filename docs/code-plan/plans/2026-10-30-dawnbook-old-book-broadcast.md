@@ -214,11 +214,11 @@ flowchart TD
 
 **Privacy & Data Governance:** the only data stored are public book slugs, titles, links, timestamps and Telegram message ids, in a user-private file outside the public repository.
 
-**Dependencies & Supply Chain:** no new package. `notify-send` (`/usr/bin/notify-send`), `systemd-analyze` and `systemctl` come from the installed system.
+**Dependencies & Supply Chain:** no new package. The lock calls `flock(2)` from the system libc through `bun:ffi`, which is built into Bun. `notify-send` (`/usr/bin/notify-send`), `systemd-analyze` and `systemctl` come from the installed system.
 
 **UX States:** desktop notification texts (Indonesian, short): not initialised, paused with reason, link not reachable, finished. CLI `status` prints sent count, next title, and pause reason.
 
-**Persistent State & Artifact Storage:** `~/.local/state/dawnbook-broadcast/state.json` (schema under T2), its temporary sibling during writes, and `run.lock` while a run holds the lock.
+**Persistent State & Artifact Storage:** `~/.local/state/dawnbook-broadcast/state.json` (schema under T2), its temporary sibling during writes, and `run.lock`, which stays on disk and is locked with `flock(2)` only while a command holds it.
 
 **Entity & Sourcing Verification:** Telegram `messages.sendMessage` error table fetched 2026-10-30 (`SCHEDULE_BOT_NOT_ALLOWED`); Bot API `sendMessage` returns `result.message_id` (already used shape `{ ok, result }` in the announcer tests).
 
@@ -264,11 +264,11 @@ flowchart TD
 
 **Test Data & Determinism:** fake `fetch` replying `{ ok: true, result: { message_id: 42 } }` and `{ ok: false, description: "Bad Request: chat not found <token>" }`.
 
-- [ ] Step 1: Write the failing tests `sendMessage returns the message id` (expects 42) and `sendMessage redacts the token on failure` in a new `describe("sendMessage")`.
-- [ ] Step 2: Run: verify fail | cmd: `bun test tests/scripts/announce-new-books.test.ts -t 'sendMessage returns the message id'` | expect: exit 1 | retry: 0 | on_fail: n/a (failure is expected here)
-- [ ] Step 3: Export `sendMessage` and return the message id.
-- [ ] Step 4: Run: verify pass | cmd: `bun test tests/scripts/announce-new-books.test.ts` | expect: exit 0, 0 failures | retry: 1 | on_fail: mark T1 FAILED, halt T4 and T5
-- [ ] Step 5: Commit (parent): `git add scripts/announce-new-books.ts tests/scripts/announce-new-books.test.ts && git commit -m "refactor(announce): share sendMessage and return the message id"`
+- [x] Step 1: Write the failing tests `sendMessage returns the message id` (expects 42) and `sendMessage redacts the token on failure` in a new `describe("sendMessage")`.
+- [x] Step 2: Run: verify fail | cmd: `bun test tests/scripts/announce-new-books.test.ts -t 'sendMessage returns the message id'` | expect: exit 1 | retry: 0 | on_fail: n/a (failure is expected here)
+- [x] Step 3: Export `sendMessage` and return the message id.
+- [x] Step 4: Run: verify pass | cmd: `bun test tests/scripts/announce-new-books.test.ts` | expect: exit 0, 0 failures | retry: 1 | on_fail: mark T1 FAILED, halt T4 and T5
+- [x] Step 5: Commit (parent): `git add scripts/announce-new-books.ts tests/scripts/announce-new-books.test.ts && git commit -m "refactor(announce): share sendMessage and return the message id"`
 
 ### Task T2: State, lock, env and WIB clock
 
@@ -297,13 +297,13 @@ flowchart TD
   export const LOCK_FILE = "run.lock";
   export async function readState(dir: string): Promise<BroadcastState | null>;
   export async function writeState(dir: string, state: BroadcastState): Promise<void>;
-  export function acquireLock(dir: string, pid?: number, isAlive?: (pid: number) => boolean): (() => void) | null;
+  export function acquireLock(dir: string): (() => void) | null;
   export async function readTelegramEnv(path: string): Promise<{ token?: string; chatId?: string }>;
   export function wibClock(nowMs: number): { date: string; hour: number };
   ```
 - `readState`: `null` when the file is missing; throws on invalid JSON, `version !== 1`, or a missing array field.
 - `writeState`: creates the folder with mode 700 if missing, writes `state.json.tmp` with mode 600, `fsync`, renames over `state.json`.
-- `acquireLock`: creates `run.lock` with flag `wx` holding the pid and returns a release function that removes it; when the file exists and its pid is alive, returns `null`; when its pid is dead or unreadable, replaces it and returns a release function.
+- `acquireLock`: takes a kernel `flock(2)` (`LOCK_EX | LOCK_NB`, through `bun:ffi`) on `run.lock`, writes the pid for information, and returns a release function (unlock and close); returns `null` while another open file description holds it. The kernel releases the lock when the holding process exits, so there is no stale lock; the file is never deleted. Revised after the independent review (findings F1 and F2): the first version was a pid file whose stale takeover could hand the lock to two processes and whose pid check could be fooled by pid reuse after a power-off.
 - `readTelegramEnv`: reads the file, accepts `KEY=value`, `export KEY=value`, and single or double quotes around the value, and returns only `TELEGRAM_BOT_TOKEN` (as `token`) and `DAWNBOOK_TELEGRAM_CHAT_ID` (as `chatId`); a missing file returns `{}`.
 - `wibClock`: the date (`YYYY-MM-DD`) and hour (0 to 23) in `Asia/Jakarta` through `Intl.DateTimeFormat`, independent of `process.env.TZ`.
 
@@ -313,7 +313,7 @@ flowchart TD
 
 **Edge Cases & Failure Behavior:** a malformed state is an error, never treated as empty; a stale lock from a crashed run does not block forever.
 
-**Deliberate Shortcuts & Deferrals:** the lock is a pid file, not `flock(2)`: `defer: two runs on one laptop (timer and a manual run), upgrade-trigger: the tool runs on a shared host or from several users`.
+**Deliberate Shortcuts & Deferrals:** None (the pid-file shortcut of version 1 was replaced by `flock(2)` after the review).
 
 **Dependencies & Risks:** none.
 
@@ -323,11 +323,11 @@ flowchart TD
 
 **Test Data & Determinism:** temporary folders from `mkdtemp`; `wibClock` cases: `Date.UTC(2026, 9, 30, 11, 59)` gives `2026-10-30` hour 18, `Date.UTC(2026, 9, 30, 12, 0)` hour 19, `Date.UTC(2026, 9, 30, 16, 59)` hour 23, `Date.UTC(2026, 9, 30, 17, 0)` gives `2026-10-31` hour 0; run once with `process.env.TZ = "UTC"` and once with `"America/New_York"`. Mode checks with `stat(...).mode & 0o777`. A state containing a token-shaped string is not produced by any helper (asserted in T4).
 
-- [ ] Step 1: Write the failing tests for each function above.
-- [ ] Step 2: Run: verify fail | cmd: `bun test tests/scripts/broadcast/state.test.ts` | expect: exit 1 | retry: 0 | on_fail: n/a
-- [ ] Step 3: Implement `scripts/broadcast/state.ts`.
-- [ ] Step 4: Run: verify pass | cmd: `bun test tests/scripts/broadcast/state.test.ts` | expect: exit 0 | retry: 1 | on_fail: mark T2 FAILED, halt T3, T4, T5
-- [ ] Step 5: Commit (parent): `git add scripts/broadcast/state.ts tests/scripts/broadcast/state.test.ts && git commit -m "feat(broadcast): add the state, lock, env and WIB clock helpers"`
+- [x] Step 1: Write the failing tests for each function above.
+- [x] Step 2: Run: verify fail | cmd: `bun test tests/scripts/broadcast/state.test.ts` | expect: exit 1 | retry: 0 | on_fail: n/a
+- [x] Step 3: Implement `scripts/broadcast/state.ts`.
+- [x] Step 4: Run: verify pass | cmd: `bun test tests/scripts/broadcast/state.test.ts` | expect: exit 0 | retry: 1 | on_fail: mark T2 FAILED, halt T3, T4, T5
+- [x] Step 5: Commit (parent): `git add scripts/broadcast/state.ts tests/scripts/broadcast/state.test.ts && git commit -m "feat(broadcast): add the state, lock, env and WIB clock helpers"`
 
 ### Task T3: Frozen queue
 
@@ -365,11 +365,11 @@ flowchart TD
 
 **Test Data & Determinism:** fixture books written like `writeBook` in `tests/scripts/announce-new-books.test.ts`; `releaseMs` injected as a map (`{ a: 3, b: 1, c: OLD_BOOK_CUTOFF_MS, d: 1 }` gives order `b, d, a` and drops `c`).
 
-- [ ] Step 1: Write failing tests (order and ties, cutoff exclusion, text equals `formatAnnouncement`, empty manifest, missing book, zero date).
-- [ ] Step 2: Run: verify fail | cmd: `bun test tests/scripts/broadcast/queue.test.ts` | expect: exit 1 | retry: 0 | on_fail: n/a
-- [ ] Step 3: Implement `scripts/broadcast/queue.ts`.
-- [ ] Step 4: Run: verify pass | cmd: `bun test tests/scripts/broadcast/queue.test.ts` | expect: exit 0 | retry: 1 | on_fail: mark T3 FAILED, halt T5
-- [ ] Step 5: Commit (parent): `git add scripts/broadcast/queue.ts tests/scripts/broadcast/queue.test.ts && git commit -m "feat(broadcast): build the frozen old-book queue"`
+- [x] Step 1: Write failing tests (order and ties, cutoff exclusion, text equals `formatAnnouncement`, empty manifest, missing book, zero date).
+- [x] Step 2: Run: verify fail | cmd: `bun test tests/scripts/broadcast/queue.test.ts` | expect: exit 1 | retry: 0 | on_fail: n/a
+- [x] Step 3: Implement `scripts/broadcast/queue.ts`.
+- [x] Step 4: Run: verify pass | cmd: `bun test tests/scripts/broadcast/queue.test.ts` | expect: exit 0 | retry: 1 | on_fail: mark T3 FAILED, halt T5
+- [x] Step 5: Commit (parent): `git add scripts/broadcast/queue.ts tests/scripts/broadcast/queue.test.ts && git commit -m "feat(broadcast): build the frozen old-book queue"`
 
 ### Task T4: One guarded run
 
@@ -416,11 +416,11 @@ flowchart TD
 
 **Test Data & Determinism:** `now` fixed per case: 18.59 WIB (`Date.UTC(2026, 9, 30, 11, 59)`), 19.00, 21.59, 22.00 WIB; a second run at 20.00 after a send at 19.00; fake `fetch` routing link GETs to 200, 404 or 301 and Telegram POSTs to ok, `{ ok: false }`, or a thrown `AbortError`; env file fixtures with and without the keys; a held lock from a live pid.
 
-- [ ] Step 1: Write failing tests, one per brake and per `applyResume` branch.
-- [ ] Step 2: Run: verify fail | cmd: `bun test tests/scripts/broadcast/run.test.ts` | expect: exit 1 | retry: 0 | on_fail: n/a
-- [ ] Step 3: Implement `scripts/broadcast/run.ts`.
-- [ ] Step 4: Run: verify pass | cmd: `bun test tests/scripts/broadcast/run.test.ts` | expect: exit 0 | retry: 1 | on_fail: mark T4 FAILED, halt T5
-- [ ] Step 5: Commit (parent): `git add scripts/broadcast/run.ts tests/scripts/broadcast/run.test.ts && git commit -m "feat(broadcast): send one old book per run behind the brakes"`
+- [x] Step 1: Write failing tests, one per brake and per `applyResume` branch.
+- [x] Step 2: Run: verify fail | cmd: `bun test tests/scripts/broadcast/run.test.ts` | expect: exit 1 | retry: 0 | on_fail: n/a
+- [x] Step 3: Implement `scripts/broadcast/run.ts`.
+- [x] Step 4: Run: verify pass | cmd: `bun test tests/scripts/broadcast/run.test.ts` | expect: exit 0 | retry: 1 | on_fail: mark T4 FAILED, halt T5
+- [x] Step 5: Commit (parent): `git add scripts/broadcast/run.ts tests/scripts/broadcast/run.test.ts && git commit -m "feat(broadcast): send one old book per run behind the brakes"`
 
 ### Task T5: CLI, systemd units and docs
 
@@ -461,15 +461,15 @@ flowchart TD
 
 **Test Data & Determinism:** temporary root with `release-dates.json` and fixture books, a manifest file, injected deps; no network.
 
-- [ ] Step 1: Write failing CLI tests (init dry-run writes nothing, init writes and refuses a second time, status with and without state, pause, resume flags, usage exit 2, missing `release-dates.json` exit 2).
-- [ ] Step 2: Run: verify fail | cmd: `bun test tests/scripts/broadcast-old-books.test.ts` | expect: exit 1 | retry: 0 | on_fail: n/a
-- [ ] Step 3: Implement the CLI, write both units, add the GEMINI.md part.
-- [ ] Step 4: Run: verify pass | cmd: `bun test tests/scripts/broadcast-old-books.test.ts tests/scripts/broadcast tests/scripts/announce-new-books.test.ts` | expect: exit 0 | retry: 1 | on_fail: mark T5 FAILED
-- [ ] Step 5: Run: units valid | cmd: `systemd-analyze --user verify scripts/systemd/dawnbook-broadcast.service scripts/systemd/dawnbook-broadcast.timer` | expect: exit 0 | retry: 0 | on_fail: fix the unit, rerun
-- [ ] Step 6: Run: calendar | cmd: `systemd-analyze calendar --iterations=3 '*-*-* 19,20,21:00:00 Asia/Jakarta'` | expect: exit 0 | retry: 0 | on_fail: fix the expression
-- [ ] Step 7: Run: copy rules | cmd: `bun ~/vivera/scripts/check-copy-rules.mjs --diff origin/main` | expect: exit 0 | retry: 0 | on_fail: fix the flagged lines
-- [ ] Step 8: Commit (parent): `git add scripts/broadcast-old-books.ts tests/scripts/broadcast-old-books.test.ts scripts/systemd/dawnbook-broadcast.service scripts/systemd/dawnbook-broadcast.timer GEMINI.md && git commit -m "feat(broadcast): add the old-book broadcast CLI, systemd units and docs"`
-- [ ] Step 9: Open the PR through the PR registry (`sucp-verify-deliver`), body linking this plan with `Refs #<issue>`.
+- [x] Step 1: Write failing CLI tests (init dry-run writes nothing, init writes and refuses a second time, status with and without state, pause, resume flags, usage exit 2, missing `release-dates.json` exit 2).
+- [x] Step 2: Run: verify fail | cmd: `bun test tests/scripts/broadcast-old-books.test.ts` | expect: exit 1 | retry: 0 | on_fail: n/a
+- [x] Step 3: Implement the CLI, write both units, add the GEMINI.md part.
+- [x] Step 4: Run: verify pass | cmd: `bun test tests/scripts/broadcast-old-books.test.ts tests/scripts/broadcast tests/scripts/announce-new-books.test.ts` | expect: exit 0 | retry: 1 | on_fail: mark T5 FAILED
+- [x] Step 5: Run: units valid | cmd: `systemd-analyze --user verify scripts/systemd/dawnbook-broadcast.service scripts/systemd/dawnbook-broadcast.timer` | expect: exit 0 | retry: 0 | on_fail: fix the unit, rerun
+- [x] Step 6: Run: calendar | cmd: `systemd-analyze calendar --iterations=3 '*-*-* 19,20,21:00:00 Asia/Jakarta'` | expect: exit 0 | retry: 0 | on_fail: fix the expression
+- [x] Step 7: Run: copy rules | cmd: `bun ~/vivera/scripts/check-copy-rules.mjs --diff origin/main` | expect: exit 0 | retry: 0 | on_fail: fix the flagged lines
+- [x] Step 8: Commit (parent): `git add scripts/broadcast-old-books.ts tests/scripts/broadcast-old-books.test.ts scripts/systemd/dawnbook-broadcast.service scripts/systemd/dawnbook-broadcast.timer GEMINI.md && git commit -m "feat(broadcast): add the old-book broadcast CLI, systemd units and docs"`
+- [x] Step 9: Open the PR through the PR registry (`sucp-verify-deliver`), body linking this plan with `Refs #<issue>`.
 
 ### Task T6: Initialise the state (after merge)
 
@@ -499,6 +499,18 @@ flowchart TD
 - [ ] Step 5: `systemctl --user list-timers dawnbook-broadcast.timer` shows the next trigger at 19.00, 20.00 or 21.00 WIB.
 - [ ] Step 6: Commit and tag `~/AGENTS.md` in `~/.local/share/home-bak.git` (section 8.5, tag `AGENTS.md.bak-20261030-dawnbook-broadcast`), add one line to section 8 naming the timer, GEMINI.md section 28, the kill switch and the revert, then `python3 -I ~/.claude/hooks/agents-md-check.py` exits 0.
 - [ ] Step 7: After the first trigger in the window: `journalctl --user -u dawnbook-broadcast --since today` shows one `sent` line, `status` shows `Terkirim 1/<n>`, and the owner confirms the post in the group.
+
+## Execution Notes
+
+- **Fan-out:** wave 1 T1 (chef) and T2 (hoggy); wave 2 T3 (chef) and T4 (hoggy), plus T5b (nappy: systemd units and the GEMINI.md block), which needed only the CLI interface fixed in this plan; wave 3 T5a (hoggy: the CLI and its tests). Every chunk was RED first, audited by the parent (diff and a fresh test run) and committed by the parent by explicit path.
+- **Runner evidence (2026-10-30, from the worktree root):** `bun ~/vivera/scripts/ultra-plan-runner.mjs docs/code-plan/plans/2026-10-30-dawnbook-old-book-broadcast.md --execute` exit 0: T1 to T5 `SKIPPED-IDEMPOTENT` (their `skip_if` test commands exit 0), T6 and T7 `NEEDS-AGENT` (post-merge rollout), Error Ledger empty. Run from another directory, the runner resolves the declared paths against that directory and reports false precondition failures.
+- **Smoke check (read-only):** `init --dry-run` against a snapshot of the live manifest queued 59 books, oldest `piaget`, newest `saat-dia-suka-tapi-kamu-tidak`, and wrote no state.
+- **Independent review (staid), verdict correct, findings:**
+  - F1 (P2) the pid-file lock's stale takeover could give two processes the lock (reproduced): fixed with `flock(2)`.
+  - F2 (P2) pid reuse after a power-off could make every run exit 0 silently: fixed by the same change.
+  - F3 (P3) `resume --sent` after a leftover in-flight pause recorded the detection time: the pause now keeps the in-flight time.
+  - F4 (P3) an unquoted inline comment in the env file was read into the value: stripped.
+  - F5 (P3) a run made up right after resume can start before the network is up and send a spurious "link" notification without using up the day: left for the debt sweep.
 
 ## Approval
 
