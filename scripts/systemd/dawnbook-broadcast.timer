@@ -1,0 +1,18 @@
+# Dawnbook old-book Telegram broadcast timer (GEMINI.md section 28,
+# "Old-book broadcast"). Install and revert: see the header of
+# dawnbook-broadcast.service in this folder.
+#
+# Persistent=true makes up a trigger missed while the laptop slept; the
+# script's own 19.00 to 21.59 WIB window is what stops a late post.
+
+[Unit]
+Description=Dawnbook old-book Telegram broadcast at 19.00, 20.00 and 21.00 WIB
+
+[Timer]
+OnCalendar=*-*-* 19,20,21:00:00 Asia/Jakarta
+Persistent=true
+AccuracySec=1min
+Unit=dawnbook-broadcast.service
+
+[Install]
+WantedBy=timers.target

@@ -1,0 +1,21 @@
+# Dawnbook old-book Telegram broadcast: one run of
+# `scripts/broadcast-old-books.ts run`, which posts at most one old book to the
+# Dawnbook Telegram group (GEMINI.md section 28, "Old-book broadcast").
+# Started by dawnbook-broadcast.timer; the brakes live in the script.
+#
+# Install (enabling the timer is a separate owner decision):
+#   cp ~/Proyek/dawnbook/scripts/systemd/dawnbook-broadcast.service ~/Proyek/dawnbook/scripts/systemd/dawnbook-broadcast.timer ~/.config/systemd/user/ && systemctl --user daemon-reload && systemctl --user enable --now dawnbook-broadcast.timer
+#
+# Revert (the state in ~/.local/state/dawnbook-broadcast/ is removed separately):
+#   systemctl --user disable --now dawnbook-broadcast.timer && rm ~/.config/systemd/user/dawnbook-broadcast.service ~/.config/systemd/user/dawnbook-broadcast.timer && systemctl --user daemon-reload
+#
+# Logs: journalctl --user -u dawnbook-broadcast
+
+[Unit]
+Description=Dawnbook old-book Telegram broadcast (one run)
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/Proyek/dawnbook
+ExecStart=%h/.bun/bin/bun run scripts/broadcast-old-books.ts run
+TimeoutStartSec=120

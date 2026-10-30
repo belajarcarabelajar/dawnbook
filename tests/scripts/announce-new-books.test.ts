@@ -8,6 +8,7 @@ import {
   readBookInfo,
   chapterUrl,
   main,
+  sendMessage,
   MAX_ANNOUNCEMENTS,
   SITE_URL,
 } from "../../scripts/announce-new-books";
@@ -262,5 +263,34 @@ describe("main", () => {
   test("rejects an unknown flag", async () => {
     const code = await main(["--sluggg", "x"], { rootDir: root, env: {}, fetch: fakeFetch([]), log });
     expect(code).toBe(2);
+  });
+});
+
+describe("sendMessage", () => {
+  test("sendMessage returns the message id", async () => {
+    const calls: Call[] = [];
+    const id = await sendMessage(TOKEN, CHAT, "halo", fakeFetch(calls, { ok: true, result: { message_id: 42 } }));
+    expect(id).toBe(42);
+    expect(calls).toHaveLength(1);
+    expect(calls[0].url).toBe(`https://api.telegram.org/bot${TOKEN}/sendMessage`);
+    expect(calls[0].body).toEqual({ chat_id: CHAT, text: "halo" });
+  });
+
+  test("sendMessage returns null without a message id", async () => {
+    const id = await sendMessage(TOKEN, CHAT, "halo", fakeFetch([], { ok: true, result: {} }));
+    expect(id).toBeNull();
+  });
+
+  test("sendMessage redacts the token on failure", async () => {
+    const reply = { ok: false, description: `Bad Request: ${TOKEN}` };
+    let message = "";
+    try {
+      await sendMessage(TOKEN, CHAT, "halo", fakeFetch([], reply));
+    } catch (err) {
+      message = (err as Error).message;
+    }
+    expect(message).not.toBe("");
+    expect(message).not.toContain(TOKEN);
+    expect(message).toContain("<token>");
   });
 });
