@@ -1,6 +1,6 @@
 # Spec: Telegram broadcast of old Dawnbook books
 
-- **Status:** Draft
+- **Status:** Approved (`Spec` gate, 2026-10-30)
 - **Date:** 2026-10-30
 - **Path:** Architectural (a new self-running job that posts to an external group with a bot credential)
 - **Related:** GEMINI.md section 28 (new-book announcement, PR #170); audit in this session, summarised under Further Notes
@@ -114,4 +114,4 @@ flowchart LR
 | `Selesai` | Stop and notify | 2026-10-30 |
 | `Intent` | Locked | 2026-10-30 |
 | `Section 1`, `Section 2`, `Section 3` | Approved | 2026-10-30 |
-| `Spec` | pending | |
+| `Spec` | Approve | 2026-10-30 |
