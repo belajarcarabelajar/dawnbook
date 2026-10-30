@@ -38,9 +38,12 @@ function baseState(over: Partial<BroadcastState> = {}): BroadcastState {
 }
 
 type Call = { url: string; method: string; redirect?: string; body?: any };
-interface Fake { link?: number | "throw"; telegram?: "ok" | "fail" | "timeout"; onPost?: () => void }
+type LinkAnswer = number | "throw";
+interface Fake { link?: LinkAnswer | LinkAnswer[]; telegram?: "ok" | "fail" | "timeout"; onPost?: () => void }
 
 function fakeFetch(calls: Call[], fake: Fake) {
+  const answers = Array.isArray(fake.link) ? fake.link : [fake.link ?? 200];
+  let gets = 0;
   return (async (input: string | URL | Request, init?: RequestInit) => {
     const url = input.toString();
     const body = init?.body ? JSON.parse(String(init.body)) : undefined;
@@ -53,9 +56,9 @@ function fakeFetch(calls: Call[], fake: Fake) {
       }
       return new Response(JSON.stringify({ ok: true, result: { message_id: 7 } }), { status: 200 });
     }
-    if (fake.link === "throw") throw new TypeError("fetch failed");
-    const status = fake.link ?? 200;
-    return new Response(status === 200 ? "ok" : null, { status });
+    const answer = answers[Math.min(gets++, answers.length - 1)];
+    if (answer === "throw") throw new TypeError("fetch failed");
+    return new Response(answer === 200 ? "ok" : null, { status: answer });
   }) as typeof fetch;
 }
 
@@ -78,6 +81,7 @@ async function run(now: number, fake: Fake & { dryRun?: boolean } = {}) {
   const calls: Call[] = [];
   const notes: string[] = [];
   const logs: string[] = [];
+  const sleeps: number[] = [];
   const code = await runOnce({
     stateDir,
     envFile,
@@ -86,8 +90,12 @@ async function run(now: number, fake: Fake & { dryRun?: boolean } = {}) {
     notify: (text) => notes.push(text),
     log: (text) => logs.push(text),
     dryRun: fake.dryRun,
+    sleep: async (ms) => {
+      sleeps.push(ms);
+    },
   });
-  return { code, calls, notes, logs, posts: calls.filter((c) => c.method === "POST") };
+  const gets = calls.filter((c) => c.method === "GET");
+  return { code, calls, notes, logs, sleeps, gets, posts: calls.filter((c) => c.method === "POST") };
 }
 
 const stateText = () => readFile(join(stateDir, STATE_FILE), "utf8");
@@ -244,6 +252,35 @@ describe("runOnce brakes", () => {
     expect(r.notes).toEqual(["Dawnbook broadcast: tautan buku-a membalas fetch failed, tidak dikirim."]);
   });
 
+  test("retries the link check once after a network error", async () => {
+    await writeState(stateDir, baseState());
+    const r = await run(AT_1900, { link: ["throw", 200] });
+    expect([r.code, r.gets.length, r.posts.length]).toEqual([0, 2, 1]);
+    expect(r.sleeps).toEqual([30000]);
+    expect((await readState(stateDir))?.sent.map((s) => s.slug)).toEqual(["buku-a"]);
+  });
+
+  test("a network error twice is not sent", async () => {
+    await writeState(stateDir, baseState());
+    const before = await stateText();
+    const r = await run(AT_1900, { link: "throw" });
+    expect([r.code, r.notes.length, r.gets.length, r.posts.length]).toEqual([1, 1, 2, 0]);
+    expect(r.sleeps).toEqual([30000]);
+    expect(await stateText()).toBe(before);
+  });
+
+  test("a link answering 404 is not retried", async () => {
+    await writeState(stateDir, baseState());
+    const r = await run(AT_1900, { link: [404, 200] });
+    expect([r.code, r.gets.length, r.sleeps.length]).toEqual([1, 1, 0]);
+  });
+
+  test("a link answering 500 is not retried", async () => {
+    await writeState(stateDir, baseState());
+    const r = await run(AT_1900, { link: [500, 200] });
+    expect([r.code, r.gets.length, r.sleeps.length]).toEqual([1, 1, 0]);
+  });
+
   test("a Telegram 400 pauses with the attempt", async () => {
     await writeState(stateDir, baseState());
     const r = await run(AT_1900, { telegram: "fail" });
@@ -321,6 +358,13 @@ describe("runOnce dry run", () => {
     expect([r.code, r.notes.length, r.posts.length]).toEqual([0, 0, 0]);
     expect(await stateText()).toBe(before);
     expect(r.logs.join("\n")).toContain(A.text);
+  });
+
+  test("retries the link check once after a network error in dry run too", async () => {
+    await writeState(stateDir, baseState());
+    const r = await run(AT_1900, { link: ["throw", 200], dryRun: true });
+    expect([r.code, r.gets.length, r.posts.length, r.notes.length]).toEqual([0, 2, 0, 0]);
+    expect(r.sleeps).toEqual([30000]);
   });
 
   test("a leftover inFlight is not written as a pause", async () => {
