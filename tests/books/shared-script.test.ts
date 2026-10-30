@@ -72,7 +72,7 @@ describe("Shared Script Client-Side Logic Execution", () => {
   test("hides documentElement when page is gated and free_chapter_viewed is not set", async () => {
     const { mockDoc } = setupMockWindow("/books/my-book/chapter-2.html");
 
-    global.fetch = mock(async () => new Response(JSON.stringify({ id: "user_1" }), { status: 200 }));
+    global.fetch = mock(async () => new Response(JSON.stringify({ id: "user_1" }), { status: 200 })) as unknown as typeof fetch;
 
     // Execute script
     Function(scriptContent)();
@@ -84,7 +84,7 @@ describe("Shared Script Client-Side Logic Execution", () => {
   test("does NOT hide documentElement when page is root index.html", async () => {
     const { mockDoc } = setupMockWindow("/books/my-book/index.html");
 
-    global.fetch = mock(async () => new Response(JSON.stringify(null), { status: 401 }));
+    global.fetch = mock(async () => new Response(JSON.stringify(null), { status: 401 })) as unknown as typeof fetch;
 
     Function(scriptContent)();
 
@@ -102,7 +102,7 @@ describe("Shared Script Client-Side Logic Execution", () => {
         return new Response(JSON.stringify(null), { status: 401 });
       }
       return new Response("OK");
-    });
+    }) as unknown as typeof fetch;
 
     Function(scriptContent)();
 
@@ -129,7 +129,7 @@ describe("Shared Script Client-Side Logic Execution", () => {
         return new Response(JSON.stringify({ completed_paths: [] }), { status: 200 });
       }
       return new Response("{}");
-    });
+    }) as unknown as typeof fetch;
 
     Function(scriptContent)();
 
@@ -153,7 +153,7 @@ describe("Shared Script Client-Side Logic Execution", () => {
         return new Response(JSON.stringify({ completed_paths: ["/books/my-book/chapter-1.html"] }));
       }
       return new Response(JSON.stringify({ completed_paths: [] }));
-    });
+    }) as unknown as typeof fetch;
 
     Function(scriptContent)();
 
@@ -185,7 +185,7 @@ describe("Shared Script Client-Side Logic Execution", () => {
         return new Response(JSON.stringify({ completed_paths: [] }));
       }
       return new Response(JSON.stringify({ completed_paths: [] }));
-    });
+    }) as unknown as typeof fetch;
 
     Function(scriptContent)();
 
@@ -215,7 +215,7 @@ describe("Shared Script Client-Side Logic Execution", () => {
         }));
       }
       return new Response("{}");
-    });
+    }) as unknown as typeof fetch;
 
     Function(scriptContent)();
 
