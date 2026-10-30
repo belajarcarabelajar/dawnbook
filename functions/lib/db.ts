@@ -11,6 +11,8 @@
  * failure (e.g. surface a 500).
  */
 
+import type { D1Database } from "@cloudflare/workers-types";
+
 export interface BookRow {
   id: string;
   slug: string;

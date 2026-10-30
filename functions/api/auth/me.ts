@@ -7,6 +7,7 @@
  * Used by the admin SPA to bootstrap the auth context.
  */
 
+import type { PagesFunction } from "../../lib/pages-function";
 import { getSessionWithUser } from "../../lib/db";
 import { extractSessionId } from "../../lib/auth";
 import type { Env } from "../../lib/auth";

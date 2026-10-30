@@ -16,6 +16,7 @@
  *   404 { error: "User not found" } when the target user_id does not exist
  */
 
+import type { PagesFunction } from "../../../lib/pages-function";
 import { verifySession, type Env } from "../../../lib/auth";
 import { setDonationBadge, getUserById } from "../../../lib/db";
 import { enforceRateLimit } from "../../../lib/rate-limit";

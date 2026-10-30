@@ -6,6 +6,7 @@
  *   POST /api/progress — Save last read path
  */
 
+import type { PagesFunction } from "../lib/pages-function";
 import { Env, verifySession } from "../lib/auth";
 import { enforceRateLimit } from "../lib/rate-limit";
 

@@ -15,6 +15,7 @@
  *   - Public responses keep their original cache headers.
  */
 
+import type { PagesFunction } from "./lib/pages-function";
 import { verifySession, type Env as AuthEnv } from "./lib/auth";
 import { isPublicPath } from "./lib/gating";
 import { isVerifiedBotRequest } from "./lib/bot-verify";

@@ -12,6 +12,7 @@
  *                            Must be a same-origin path; falls back to "/".
  */
 
+import type { PagesFunction } from "../../lib/pages-function";
 import { buildAuthUrl, randomState, safeRedirectPath } from "../../lib/oauth";
 import { verifyTurnstileToken } from "../../lib/turnstile";
 import { enforceRateLimit } from "../../lib/rate-limit";
