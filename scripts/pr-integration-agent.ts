@@ -303,6 +303,7 @@ async function processOnePr(pr: any, strategy: string, dryRun: boolean): Promise
     status: "Merged",
     conflict: "No",
     resolutionMethod: strategy,
+    reason: "",
     hash,
     timestamp: new Date().toISOString(),
   };

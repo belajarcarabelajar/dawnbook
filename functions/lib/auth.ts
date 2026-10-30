@@ -16,6 +16,8 @@
  * `verifySession`.
  */
 
+import type { D1Database } from "@cloudflare/workers-types";
+
 export interface Env {
   DB: D1Database;
   GOOGLE_CLIENT_ID: string;
