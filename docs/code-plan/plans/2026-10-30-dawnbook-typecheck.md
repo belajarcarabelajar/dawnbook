@@ -1,7 +1,7 @@
 ---
 schema: ultra-plan/v1
 plan_id: 2026-10-30-dawnbook-typecheck
-status: Draft
+status: Approved
 version: 1
 runner_contract: true
 skill: "super-ultra-code-plan (loaded through the Skill tool from ~/.claude/skills/super-ultra-code-plan/SKILL.md)"
@@ -134,7 +134,7 @@ flowchart TD
 
 **Definition of Done:** AC1 to AC5 with exit codes, PR merged by the owner.
 
-**Plan Status & Version:** Draft, version 1.
+**Plan Status & Version:** Approved, version 1.
 
 **Reproducibility:** `bun install --frozen-lockfile` then `bun run typecheck`.
 
@@ -204,4 +204,4 @@ flowchart TD
 |---|---|---|
 | `Cakupan` | A: core first | 2026-10-30 |
 | `test-mock` | delete | 2026-10-30 |
-| `Design` | pending | |
+| `Design` | Approve (Bounded: also Gate 2) | 2026-10-30 |
