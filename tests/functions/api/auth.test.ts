@@ -78,7 +78,7 @@ describe("/api/auth/login", () => {
 
   test("redirects to /sign-in?error=bot_detected when Turnstile token verification fails", async () => {
     const originalFetch = global.fetch;
-    global.fetch = async () => new Response(JSON.stringify({ success: false }), { status: 200 });
+    global.fetch = (async () => new Response(JSON.stringify({ success: false }), { status: 200 })) as unknown as typeof fetch;
 
     try {
       const env = createMockEnv({ ...ENV_OVERRIDES, TURNSTILE_SECRET: "mock_secret", TURNSTILE_SITE_KEY: "mock_site_key" }) as unknown as Env;
@@ -99,7 +99,7 @@ describe("/api/auth/login", () => {
 
   test("proceeds to OAuth redirect when Turnstile token verification succeeds", async () => {
     const originalFetch = global.fetch;
-    global.fetch = async () => new Response(JSON.stringify({ success: true }), { status: 200 });
+    global.fetch = (async () => new Response(JSON.stringify({ success: true }), { status: 200 })) as unknown as typeof fetch;
 
     try {
       const env = createMockEnv({ ...ENV_OVERRIDES, TURNSTILE_SECRET: "mock_secret", TURNSTILE_SITE_KEY: "mock_site_key" }) as unknown as Env;
@@ -121,10 +121,10 @@ describe("/api/auth/login", () => {
     // handler must skip verification (fail-open) unless both are configured.
     let fetchCalled = false;
     const originalFetch = global.fetch;
-    global.fetch = async () => {
+    global.fetch = (async () => {
       fetchCalled = true;
       return new Response(JSON.stringify({ success: false }), { status: 200 });
-    };
+    }) as unknown as typeof fetch;
 
     try {
       const env = createMockEnv({ ...ENV_OVERRIDES, TURNSTILE_SECRET: "mock_secret" }) as unknown as Env;
@@ -273,7 +273,7 @@ describe("/api/auth/callback", () => {
   test("redirects with error=google_exchange and clears cookies when Google code exchange throws error", async () => {
     const originalFetch = global.fetch;
     const consoleSpy = spyOn(console, "error").mockImplementation(() => {});
-    global.fetch = async () => new Response("exchange failed", { status: 400 });
+    global.fetch = (async () => new Response("exchange failed", { status: 400 })) as unknown as typeof fetch;
 
     try {
       const env = createMockEnv(ENV_OVERRIDES) as unknown as Env;
@@ -297,7 +297,7 @@ describe("/api/auth/callback", () => {
     const originalFetch = global.fetch;
     const consoleSpy = spyOn(console, "error").mockImplementation(() => {});
 
-    global.fetch = async (input: RequestInfo | URL) => {
+    global.fetch = (async (input: RequestInfo | URL) => {
       const urlStr = typeof input === "string" ? input : input instanceof URL ? input.toString() : input.url;
       if (urlStr.includes("oauth2.googleapis.com/token")) {
         return new Response(JSON.stringify({ access_token: "mock_token", expires_in: 3600, token_type: "Bearer" }), {
@@ -307,7 +307,7 @@ describe("/api/auth/callback", () => {
       }
       // Userinfo endpoint failure
       return new Response("Unauthorized profile request", { status: 401 });
-    };
+    }) as unknown as typeof fetch;
 
     try {
       const env = createMockEnv(ENV_OVERRIDES) as unknown as Env;

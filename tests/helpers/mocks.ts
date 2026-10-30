@@ -1,4 +1,6 @@
 import { mock } from "bun:test";
+import type { D1Database } from "@cloudflare/workers-types";
+import type { Env } from "../../functions/lib/auth";
 
 /**
  * In-memory D1 mock. Each `prepare(sql).bind(...).first()` or `.run()` call
@@ -72,7 +74,7 @@ export const createMockD1Database = (key: string): D1Database => {
 // Deprecated: only used for older tests that haven't migrated to createMockEnv
 export const mockD1Database: D1Database = createMockD1Database("global_mock_d1");
 
-export const createMockEnv = (overrides: Partial<{ DB: D1Database; GOOGLE_CLIENT_ID: string; GOOGLE_CLIENT_SECRET: string }> = {}) => {
+export const createMockEnv = (overrides: Partial<Env> = {}) => {
   const envKey = Math.random().toString(36).slice(2);
   const dbMock = createMockD1Database(envKey);
   const env: any = {

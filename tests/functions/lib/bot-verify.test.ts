@@ -163,9 +163,9 @@ describe("isVerifiedBotRequest", () => {
     });
     let dnsCalls = 0;
     __setDnsFetcherForTests(
-      mock(async (input: RequestInfo | URL, init?: RequestInit) => {
+      mock(async (input: RequestInfo | URL) => {
         dnsCalls++;
-        return responder(input, init);
+        return responder(input);
       })
     );
 

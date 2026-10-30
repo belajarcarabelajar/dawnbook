@@ -24,7 +24,7 @@ describe("functions/lib/oauth.ts unit tests", () => {
   });
 
   test("exchangeCode throws Error on non-2xx HTTP response from Google token endpoint", async () => {
-    global.fetch = async () => new Response("invalid_grant", { status: 400 });
+    global.fetch = (async () => new Response("invalid_grant", { status: 400 })) as unknown as typeof fetch;
 
     expect(
       exchangeCode({
@@ -37,11 +37,11 @@ describe("functions/lib/oauth.ts unit tests", () => {
   });
 
   test("exchangeCode returns token payload on 200 OK", async () => {
-    global.fetch = async () =>
+    global.fetch = (async () =>
       new Response(JSON.stringify({ access_token: "access_123", expires_in: 3600, token_type: "Bearer" }), {
         status: 200,
         headers: { "Content-Type": "application/json" },
-      });
+      })) as unknown as typeof fetch;
 
     const res = await exchangeCode({
       code: "valid_code",
@@ -53,14 +53,14 @@ describe("functions/lib/oauth.ts unit tests", () => {
   });
 
   test("fetchUserInfo throws Error on non-2xx HTTP response from Google userinfo endpoint", async () => {
-    global.fetch = async () => new Response("Unauthorized", { status: 401 });
+    global.fetch = (async () => new Response("Unauthorized", { status: 401 })) as unknown as typeof fetch;
 
     expect(fetchUserInfo("bad_token")).rejects.toThrow("Google userinfo failed: 401 Unauthorized");
   });
 
   test("fetchUserInfo throws Error when mandatory fields (sub, email) are missing", async () => {
-    global.fetch = async () =>
-      new Response(JSON.stringify({ name: "User Without Sub Or Email" }), { status: 200 });
+    global.fetch = (async () =>
+      new Response(JSON.stringify({ name: "User Without Sub Or Email" }), { status: 200 })) as unknown as typeof fetch;
 
     expect(fetchUserInfo("token")).rejects.toThrow("Google userinfo missing required fields (sub, email)");
   });
