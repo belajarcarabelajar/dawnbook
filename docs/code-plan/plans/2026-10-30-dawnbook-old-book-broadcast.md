@@ -1,7 +1,7 @@
 ---
 schema: ultra-plan/v1
 plan_id: 2026-10-30-dawnbook-old-book-broadcast
-status: Approved
+status: InProgress
 version: 1
 runner_contract: true
 skill: "super-ultra-code-plan (loaded through the Skill tool from ~/.claude/skills/super-ultra-code-plan/SKILL.md)"
@@ -107,6 +107,20 @@ tasks:
     files: { create: [], modify: [], test: [] }
     idempotency_key: "T7:timer-enabled"
     skip_if: "systemctl --user is-enabled dawnbook-broadcast.timer"
+  - id: FU1
+    depends_on: [T5]
+    impacts: ["the link check before every send in runOnce - bun test tests/scripts/broadcast/run.test.ts"]
+    files: { create: [], modify: [scripts/broadcast/run.ts, tests/scripts/broadcast/run.test.ts], test: [tests/scripts/broadcast/run.test.ts] }
+    idempotency_key: "FU1:network-retry"
+    skip_if: "bun test tests/scripts/broadcast/run.test.ts -t 'retries the link check once after a network error'"
+    verify_exit: 0
+    run:
+      - cmd: "bun test tests/scripts/broadcast/run.test.ts -t 'retries the link check once after a network error'"
+        expect_exit: 1
+        retry: 0
+      - cmd: "bun test tests/scripts/broadcast tests/scripts/broadcast-old-books.test.ts tests/scripts/announce-new-books.test.ts"
+        expect_exit: 0
+        retry: 1
 ---
 # Old-Book Telegram Broadcast Implementation Plan
 
@@ -148,6 +162,7 @@ flowchart TD
     T6 --> R{{"Gate: risky, enable the timer"}}
     R --> T7
     T7 --> V["Verify: journal and the group show one post"]
+    T5 --> FU1["FU1: retry the link check once after a network error"]
     V --> C(["Complete"])
 ```
 
@@ -206,7 +221,7 @@ flowchart TD
 
 **Definition of Done:** T1 to T5 green with exit codes recorded, PR merged by the owner, T6 state initialised after the owner approved the printed list, T7 timer enabled after the risk gate, first run seen in the journal and in the group, plan closed through the debt sweep.
 
-**Plan Status & Version:** Approved, version 1.
+**Plan Status & Version:** InProgress, version 1 (follow-up FU1 from the session-close debt sweep).
 
 **Reproducibility:** Bun 1.4.4; tests inject the clock, `fetch`, notifier, env file and a temporary state folder (`mkdtemp` under `os.tmpdir()`), so they need no network, no real `~/.local/state`, and no Telegram.
 
@@ -500,6 +515,27 @@ flowchart TD
 - [ ] Step 6: Commit and tag `~/AGENTS.md` in `~/.local/share/home-bak.git` (section 8.5, tag `AGENTS.md.bak-20261030-dawnbook-broadcast`), add one line to section 8 naming the timer, GEMINI.md section 28, the kill switch and the revert, then `python3 -I ~/.claude/hooks/agents-md-check.py` exits 0.
 - [ ] Step 7: After the first trigger in the window: `journalctl --user -u dawnbook-broadcast --since today` shows one `sent` line, `status` shows `Terkirim 1/<n>`, and the owner confirms the post in the group.
 
+### Task FU1: Retry the link check once after a network error (follow-up)
+
+**Files:**
+- Modify: `scripts/broadcast/run.ts`
+- Modify: `tests/scripts/broadcast/run.test.ts`
+
+**Interfaces:**
+- Produces: `RunDeps.sleep?: (ms: number) => Promise<void>` (default `setTimeout`), `export const NETWORK_RETRY_MS = 30_000`.
+
+**Behavior & Acceptance:** review finding F5. When the link GET throws (no HTTP response, for example right after the laptop resumes and the network is not up yet), the run waits `NETWORK_RETRY_MS` and tries the GET exactly once more; an HTTP response of any status is never retried, and the Telegram POST is never retried. A second failure keeps the existing behaviour (notify, exit 1, state unchanged). Worst case 20 + 30 + 20 + 20 seconds stays under `TimeoutStartSec=120`.
+
+**Deliberate Shortcuts & Deferrals:** None.
+
+**Test Data & Determinism:** an injected `sleep` that records its argument and resolves at once; fake fetch throwing `TypeError("fetch failed")`.
+
+- [x] Step 1: Write the failing tests (network error then 200 sends; network error twice notifies; 404 and 500 are not retried).
+- [x] Step 2: Run: verify fail | cmd: `bun test tests/scripts/broadcast/run.test.ts -t 'retries the link check once after a network error'` | expect: exit 1 | retry: 0 | on_fail: n/a
+- [x] Step 3: Implement the single retry in `scripts/broadcast/run.ts`.
+- [x] Step 4: Run: verify pass | cmd: `bun test tests/scripts/broadcast tests/scripts/broadcast-old-books.test.ts tests/scripts/announce-new-books.test.ts` | expect: exit 0 | retry: 1 | on_fail: mark FU1 FAILED
+- [x] Step 5: Commit (parent) on the follow-up session branch `2026-10-30-dawnbook-old-book-broadcast/old-book-broadcast-f5`.
+
 ## Execution Notes
 
 - **Fan-out:** wave 1 T1 (chef) and T2 (hoggy); wave 2 T3 (chef) and T4 (hoggy), plus T5b (nappy: systemd units and the GEMINI.md block), which needed only the CLI interface fixed in this plan; wave 3 T5a (hoggy: the CLI and its tests). Every chunk was RED first, audited by the parent (diff and a fresh test run) and committed by the parent by explicit path.
@@ -511,6 +547,19 @@ flowchart TD
   - F3 (P3) `resume --sent` after a leftover in-flight pause recorded the detection time: the pause now keeps the in-flight time.
   - F4 (P3) an unquoted inline comment in the env file was read into the value: stripped.
   - F5 (P3) a run made up right after resume can start before the network is up and send a spurious "link" notification without using up the day: left for the debt sweep.
+
+## Closeout status
+
+- 2026-10-30, owner answer at the `Close plan` gate: keep it open. `bun ~/vivera/scripts/plan-closeout.mjs --readiness docs/code-plan/plans/2026-10-30-dawnbook-old-book-broadcast.md` gave `NOT-READY` (exit 1): T1 to T7 `DONE` by their `skip_if`, but the T6 and T7 step boxes were unticked and T7 step 7 (the first 19.00 WIB run seen in `journalctl --user -u dawnbook-broadcast` and in the group) had not happened yet.
+- Done outside the repository on 2026-10-30, with evidence in the session: `init` from `main` 49e58b9e (59 books, `status` `Terkirim 0/59`, folder 700 and file 600, the token absent from `state.json` with a positive control), timer enabled at 14.40 WIB with the next trigger at 19.00 WIB, `~/AGENTS.md` section 8.9 added (tag `AGENTS.md.bak-20261030-dawnbook-broadcast`, `agents-md-check.py` exit 0), and one test notification sent through `systemd-run --user` (`notify-send` exit 0).
+- Reopen trigger: after the first evening run, read `bun run scripts/broadcast-old-books.ts status` and the journal, tick T6 and T7 with that evidence, and mark the plan `Complete` in the next dawnbook PR.
+
+## Follow-up Backlog
+
+- `~/AGENTS.md` is 70,156 characters, over the 67k limit of its section 0 (it was 69,853 before this session's one-line addition), so its compaction procedure is due. defer: outside this repository, needs its own session, upgrade-trigger: the next session that edits `~/AGENTS.md`.
+- `~/vivera/scripts/plan-publish.mjs` does not recognise `wt-new` worktrees under `/mnt/belajarcarabelajar/<repo>-wt/`, so every publish from them needs a temporary `PLAN_PUBLISH_CONFIG`. defer: vivera change, upgrade-trigger: a third session hits it.
+- Dawnbook has no TypeScript compiler or `typecheck` script, so type errors surface only where `bun test` executes code. defer: adding `typescript` is a supply-chain change, upgrade-trigger: a type error reaches `main`.
+- What happens after all 59 books are sent (stop, repeat, or something else) is the owner's decision when the done notification arrives. defer: no code change until then, upgrade-trigger: the done notification.
 
 ## Approval
 
