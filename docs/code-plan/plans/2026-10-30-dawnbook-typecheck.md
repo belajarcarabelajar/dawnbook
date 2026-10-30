@@ -1,7 +1,7 @@
 ---
 schema: ultra-plan/v1
 plan_id: 2026-10-30-dawnbook-typecheck
-status: InProgress
+status: Complete
 version: 1
 runner_contract: true
 skill: "super-ultra-code-plan (loaded through the Skill tool from ~/.claude/skills/super-ultra-code-plan/SKILL.md)"
@@ -206,7 +206,7 @@ flowchart TD
 
 **Definition of Done:** AC1 to AC5 with exit codes, PR merged by the owner.
 
-**Plan Status & Version:** InProgress, version 1 (follow-ups FU1 to FU5 chosen at the session-close sweep, 2026-10-30).
+**Plan Status & Version:** Complete, version 1 (follow-ups FU1 to FU5 chosen at the session-close sweep and landed, 2026-10-30).
 
 **Reproducibility:** `bun install --frozen-lockfile` then `bun run typecheck`.
 
@@ -293,8 +293,12 @@ Same patterns for the remaining test folders and root test files.
 - **Same-class peers (A39):** other non-test files in `tests/scripts/`: `test-auth-speed.ts` is an intentional probe (its header says so) and typechecks; `test-post.js`, `test-sw.js` and `test_gsc_batch_indexing_ping.py` are outside the typecheck and were left untouched for the owner to judge.
 - **Evidence:** `bun run typecheck` exit 0; mutation in `scripts/` exit 2 and in `functions/` exit 2, both restored to exit 0; `bun test tests/functions/lib tests/scripts/pr-safety.test.ts tests/scripts/pr-integration-agent.test.ts tests/scripts/og-cards.test.ts` exit 0 (98 pass); `bun test tests/scripts/render-diagrams.test.ts` exit 0 (12 pass).
 
+- **Follow-ups FU1 to FU5 (2026-10-30):** with `@types/bun` 1.4.4 the real count was 11 in the old scope and 96 across all tests (the earlier 45 was again a scratch-config artifact). FU2 found that the module-imported official `PagesFunction` carries the package's own `Request`/`Response`, which Bun's globals do not match (42 new errors), so `functions/lib/pages-function.ts` restates its shape on the global classes; positive and negative probes confirmed it is not `any` in either program. FU3 widened `createMockEnv` to `Partial<Env>` (the old narrow copy lacked `TURNSTILE_SECRET`, a real key read by `functions/api/auth/login.ts:56`) and dropped an argument the bot-verify DNS responder ignored. Evidence: `bun run typecheck` exit 0 over `scripts/`, every folder of `tests/` and `functions/`; a type error injected in `tests/functions/lib/db.test.ts` gives exit 2, restored exit 0; `bun test tests/functions tests/helpers` exit 0 (192 pass); `bun test tests/admin tests/books/shared-script.test.ts` exit 0 (12 pass, 13 skip); runner `--execute` exit 0 with T1 to T4 and FU1 to FU5 `SKIPPED-IDEMPOTENT`; readiness `READY` (exit 0).
+- **Stale test found (FU4):** `tests/admin/book-service.test.ts` wraps all 13 tests in `describe.skip` when `apps/admin/src/services/book-service.ts` is missing; commit `8fd6b0d9` removed the admin dashboard, so the file always skips and tests nothing. Reported to the owner.
+
 ## Follow-up Backlog
 
+- `tests/admin/book-service.test.ts` always skips (its module was removed in `8fd6b0d9`); delete or rewrite it. defer: owner decision, upgrade-trigger: the next cleanup of `tests/`.
 - `tests/scripts/test-post.js`, `test-sw.js` and `test_gsc_batch_indexing_ping.py` look like scratch files too (not run by `bun test`); defer: owner decision, upgrade-trigger: the next cleanup of `tests/scripts/`.
 
 ## Approval
@@ -304,3 +308,5 @@ Same patterns for the remaining test folders and root test files.
 | `Cakupan` | A: core first | 2026-10-30 |
 | `test-mock` | delete | 2026-10-30 |
 | `Design` | Approve (Bounded: also Gate 2) | 2026-10-30 |
+| `Follow-ups` | @types/bun 1.4.4 and the remaining test folders (FU1 to FU5) | 2026-10-30 |
+| `Close plan` | Mark Complete; readiness READY (exit 0) after the follow-ups landed | 2026-10-30 |
