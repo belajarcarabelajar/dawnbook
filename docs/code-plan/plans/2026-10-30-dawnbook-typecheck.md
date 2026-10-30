@@ -193,9 +193,18 @@ flowchart TD
 - [ ] Step 3: Run: `bun run typecheck` exit 0 and copy rules exit 0.
 - [ ] Step 4: Commit (parent), open the PR.
 
+## Execution Notes
+
+- **Real RED (T1, after the install):** `bun run typecheck` exit 2 with 9 errors, not the 18 of the scratch measurement: the scratch config had put the Workers types on its type roots, which produced the 12 `unknown` JSON errors. The 9: `D1Database` in `functions/lib/auth.ts` and `rate-limit.ts` (pulled into the Bun program by `scripts/gc-rate-limits.ts`, `scripts/check-d1-rate-limit.ts`, `scripts/lib/pr-safety.ts`), `opentype.js` without types, the missing `reason`, the hook timeout argument, and the two dead imports of `test-mock.ts`. `functions/tsconfig.json` alone exited 0.
+- **Fixes:** type-only `import type { D1Database } from "@cloudflare/workers-types"` (its `index.ts` exports the class as a module, so no Workers globals enter the Bun program); `scripts/og/opentype.d.ts` typed to opentype.js 1.3.4's source; `reason: ""` like the sibling branches; a reasoned `@ts-expect-error` for the hook timeout.
+- **Deleting `test-mock.ts`:** `git rm` is denied by `Bash(git rm *)` in `~/.claude/settings.json`; the owner chose the `~/AGENTS.md` 3.2 path (move to `~/.cache/tmp/`, `rm` there, `git add` stages the deletion).
+- **Same-class peers (A39):** other non-test files in `tests/scripts/`: `test-auth-speed.ts` is an intentional probe (its header says so) and typechecks; `test-post.js`, `test-sw.js` and `test_gsc_batch_indexing_ping.py` are outside the typecheck and were left untouched for the owner to judge.
+- **Evidence:** `bun run typecheck` exit 0; mutation in `scripts/` exit 2 and in `functions/` exit 2, both restored to exit 0; `bun test tests/functions/lib tests/scripts/pr-safety.test.ts tests/scripts/pr-integration-agent.test.ts tests/scripts/og-cards.test.ts` exit 0 (98 pass); `bun test tests/scripts/render-diagrams.test.ts` exit 0 (12 pass).
+
 ## Follow-up Backlog
 
 - `tests/functions/`, `tests/books/` and the other test folders: 61 errors (measured 2026-10-30), mostly Workers globals (`PagesFunction`, `D1Database`) in Bun tests. defer: needs a typing approach for Workers code inside Bun tests, upgrade-trigger: the next change to those tests.
+- `tests/scripts/test-post.js`, `test-sw.js` and `test_gsc_batch_indexing_ping.py` look like scratch files too (not run by `bun test`); defer: owner decision, upgrade-trigger: the next cleanup of `tests/scripts/`.
 - `@types/bun` 1.2.2 is behind the 1.4.4 runtime; bumping it raised the Bun-side count to 45. defer: separate change, upgrade-trigger: a Bun API used by the scripts is missing from the 1.2.2 types.
 
 ## Approval
