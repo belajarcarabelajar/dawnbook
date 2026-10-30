@@ -77,12 +77,12 @@ export async function readBookInfo(rootDir: string, slug: string): Promise<BookI
   };
 }
 
-async function sendMessage(
+export async function sendMessage(
   token: string,
   chatId: string,
   text: string,
   fetchImpl: typeof fetch,
-): Promise<void> {
+): Promise<number | null> {
   const redact = (s: string) => s.split(token).join("<token>");
   let res: Response;
   try {
@@ -95,10 +95,16 @@ async function sendMessage(
   } catch (err) {
     throw new Error(redact(err instanceof Error ? err.message : String(err)));
   }
-  const body = (await res.json().catch(() => ({}))) as { ok?: boolean; description?: string };
+  const body = (await res.json().catch(() => ({}))) as {
+    ok?: boolean;
+    description?: string;
+    result?: { message_id?: unknown };
+  };
   if (!res.ok || !body.ok) {
     throw new Error(redact(`Telegram ${res.status}: ${body.description ?? "no description"}`));
   }
+  const id = body.result?.message_id;
+  return typeof id === "number" ? id : null;
 }
 
 interface Options {
