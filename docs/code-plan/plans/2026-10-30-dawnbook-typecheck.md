@@ -162,36 +162,36 @@ flowchart TD
 
 **Files:** Create `tsconfig.json`, `functions/tsconfig.json`; Modify `package.json`, `bun.lock`.
 
-- [ ] Step 1: `cd /mnt/belajarcarabelajar/dawnbook-wt/typecheck && bun add -d --exact typescript@5.9.3 @cloudflare/workers-types@5.20261011.1`
-- [ ] Step 2: Write `tsconfig.json` (target and lib ESNext plus DOM, `module` Preserve, `moduleResolution` bundler, `types: ["bun"]`, strict, `noEmit`, `skipLibCheck`, `allowImportingTsExtensions`, `resolveJsonModule`, `esModuleInterop`; include `scripts/**/*.ts`, `tests/scripts/**/*.ts`) and `functions/tsconfig.json` (same options with `types: ["@cloudflare/workers-types"]` and lib ESNext only; include `**/*.ts`).
-- [ ] Step 3: Add `"typecheck": "tsc -p tsconfig.json && tsc -p functions/tsconfig.json"` to `package.json`.
-- [ ] Step 4: Run: RED | cmd: `bun run typecheck` | expect: exit 1 with the errors listed in Task T2 and Task T3 | retry: 0 | on_fail: if it exits 0, the configs do not cover the measured files; fix the includes.
-- [ ] Step 5: Commit (parent) by explicit path.
+- [x] Step 1: `cd /mnt/belajarcarabelajar/dawnbook-wt/typecheck && bun add -d --exact typescript@5.9.3 @cloudflare/workers-types@5.20261011.1`
+- [x] Step 2: Write `tsconfig.json` (target and lib ESNext plus DOM, `module` Preserve, `moduleResolution` bundler, `types: ["bun"]`, strict, `noEmit`, `skipLibCheck`, `allowImportingTsExtensions`, `resolveJsonModule`, `esModuleInterop`; include `scripts/**/*.ts`, `tests/scripts/**/*.ts`) and `functions/tsconfig.json` (same options with `types: ["@cloudflare/workers-types"]` and lib ESNext only; include `**/*.ts`).
+- [x] Step 3: Add `"typecheck": "tsc -p tsconfig.json && tsc -p functions/tsconfig.json"` to `package.json`.
+- [x] Step 4: Run: RED | cmd: `bun run typecheck` | expect: exit 1 with the errors listed in Task T2 and Task T3 | retry: 0 | on_fail: if it exits 0, the configs do not cover the measured files; fix the includes.
+- [x] Step 5: Commit (parent) by explicit path.
 
 ### Task T2: Fix the scripts/ errors
 
 **Files (measured):** `scripts/audit-full-gsc-index.ts` (8 `unknown` JSON results), `scripts/seo-request-reindex.ts` (4), `scripts/check-d1-rate-limit.ts` (1 implicit any), `scripts/og/cards.ts` (no declaration for `opentype.js`: add a minimal local declaration next to it), `scripts/pr-integration-agent.ts` (missing `reason` on the merged result: a real bug, add `reason: ""` as its other result objects do), plus whatever else T1's RED run reports under `scripts/` or `functions/`.
 
-- [ ] Step 1: Fix each error with the smallest typed change at its boundary (a declared shape for parsed JSON, a parameter type, a module declaration).
-- [ ] Step 2: Run: `bun test` on the touched scripts' existing tests | expect: exit 0.
-- [ ] Step 3: Run: `bun run typecheck` | expect: no error under `scripts/` or `functions/`.
-- [ ] Step 4: Commit (parent).
+- [x] Step 1: Fix each error with the smallest typed change at its boundary (a declared shape for parsed JSON, a parameter type, a module declaration).
+- [x] Step 2: Run: `bun test` on the touched scripts' existing tests | expect: exit 0.
+- [x] Step 3: Run: `bun run typecheck` | expect: no error under `scripts/` or `functions/`.
+- [x] Step 4: Commit (parent).
 
 ### Task T3: Fix tests/scripts and delete the dead file
 
 **Files:** `tests/scripts/render-diagrams.test.ts` (`beforeAll(fn, 60_000)`: Bun 1.4.4 accepts the timeout, the pinned `@types/bun` 1.2.2 does not; keep the timeout with a reasoned `@ts-expect-error`), delete `tests/scripts/test-mock.ts`.
 
-- [ ] Step 1: Apply both changes.
-- [ ] Step 2: Run: `bun test tests/scripts/render-diagrams.test.ts` | expect: exit 0.
-- [ ] Step 3: Run: `rg -n test-mock --glob '!node_modules' .` | expect: no hit outside this plan.
-- [ ] Step 4: Commit (parent).
+- [x] Step 1: Apply both changes.
+- [x] Step 2: Run: `bun test tests/scripts/render-diagrams.test.ts` | expect: exit 0.
+- [x] Step 3: Run: `rg -n test-mock --glob '!node_modules' .` | expect: no hit outside this plan.
+- [x] Step 4: Commit (parent).
 
 ### Task T4: Docs and verification
 
-- [ ] Step 1: GEMINI.md section 19: add `bun run typecheck` to the local checks run before a merge.
-- [ ] Step 2: Mutation check: add a deliberate type error to a scratch copy step (for example `const n: number = "x";` appended to a file under `scripts/`), run `bun run typecheck` (expect non-zero), restore with `git checkout -- <file>`, run it again (expect 0).
-- [ ] Step 3: Run: `bun run typecheck` exit 0 and copy rules exit 0.
-- [ ] Step 4: Commit (parent), open the PR.
+- [x] Step 1: GEMINI.md section 19: add `bun run typecheck` to the local checks run before a merge.
+- [x] Step 2: Mutation check: add a deliberate type error to a scratch copy step (for example `const n: number = "x";` appended to a file under `scripts/`), run `bun run typecheck` (expect non-zero), restore with `git checkout -- <file>`, run it again (expect 0).
+- [x] Step 3: Run: `bun run typecheck` exit 0 and copy rules exit 0.
+- [x] Step 4: Commit (parent), open the PR.
 
 ## Execution Notes
 
