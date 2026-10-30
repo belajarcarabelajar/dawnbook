@@ -556,10 +556,10 @@ flowchart TD
 
 ## Follow-up Backlog
 
-- `~/AGENTS.md` is 70,156 characters, over the 67k limit of its section 0 (it was 69,853 before this session's one-line addition), so its compaction procedure is due. defer: outside this repository, needs its own session, upgrade-trigger: the next session that edits `~/AGENTS.md`.
+- Done 2026-10-30: `~/AGENTS.md` compacted to 66,279 bytes (66,063 characters), under the 67k limit; baseline tag `AGENTS.md.bak-20261030-compact`, independent review "essence preserved".
 - `~/vivera/scripts/plan-publish.mjs` does not recognise `wt-new` worktrees under `/mnt/belajarcarabelajar/<repo>-wt/`, so every publish from them needs a temporary `PLAN_PUBLISH_CONFIG`. defer: vivera change, upgrade-trigger: a third session hits it.
 - Dawnbook has no TypeScript compiler or `typecheck` script, so type errors surface only where `bun test` executes code. defer: adding `typescript` is a supply-chain change, upgrade-trigger: a type error reaches `main`.
-- What happens after all 59 books are sent (stop, repeat, or something else) is the owner's decision when the done notification arrives. defer: no code change until then, upgrade-trigger: the done notification.
+- Decided 2026-10-30 by the owner (asked before the list runs out): when all 59 old books are sent, the broadcast stops (the existing done notification and stop stay) and the group follows only the ongoing new-book announcements. No repeat, no rotation, no code change.
 
 ## Approval
 

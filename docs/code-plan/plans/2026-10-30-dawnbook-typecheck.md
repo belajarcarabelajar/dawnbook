@@ -298,8 +298,7 @@ Same patterns for the remaining test folders and root test files.
 
 ## Follow-up Backlog
 
-- `tests/admin/book-service.test.ts` always skips (its module was removed in `8fd6b0d9`); delete or rewrite it. defer: owner decision, upgrade-trigger: the next cleanup of `tests/`.
-- `tests/scripts/test-post.js`, `test-sw.js` and `test_gsc_batch_indexing_ping.py` look like scratch files too (not run by `bun test`); defer: owner decision, upgrade-trigger: the next cleanup of `tests/scripts/`.
+- Done 2026-10-30 (owner: delete): `tests/admin/book-service.test.ts` (always skipped since `8fd6b0d9`), `tests/scripts/test-post.js` and `tests/scripts/test-sw.js` (scratch scripts never run) deleted in the `dead-tests` session PR. `tests/scripts/test_gsc_batch_indexing_ping.py` stays: `tests/scripts/gsc-batch-indexing-ping.test.ts` uses it.
 
 ## Approval
 
