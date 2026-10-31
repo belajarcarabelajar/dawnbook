@@ -1,7 +1,7 @@
 ---
 schema: ultra-plan/v1
 plan_id: 2026-10-25-dawnbook-quote-fixes
-status: Approved
+status: Complete
 version: 1
 runner_contract: true
 skill: "super-ultra-code-plan (loaded through the Skill tool from ~/.claude/skills/super-ultra-code-plan/SKILL.md)"
@@ -146,3 +146,4 @@ Same class as the fixes, not done in this plan:
 ## Closeout status
 
 - 2026-10-25: readiness NEEDS-HUMAN (exit 3) before the PR; owner decision (Close plan gate): keep it open. Reopen after the PR is merged and the deploy, D1 seed and GSC reindex decisions are made.
+- Decision 2026-10-31 (owner, batch closeout of merged plans): `Complete`. All registry sessions merged (`quote-fixes`); previous status `Approved`; task step boxes open: 0 of 0. `--readiness` was not run (owner's batch decision).

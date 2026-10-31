@@ -1,7 +1,7 @@
 ---
 schema: ultra-plan/v1
 plan_id: 2026-10-24-dawnbook-harvest-moon-voice
-status: Approved
+status: Complete
 version: 1
 runner_contract: true
 skill: "super-ultra-code-plan (loaded through the Skill tool from ~/.claude/skills/super-ultra-code-plan/SKILL.md)"
@@ -261,3 +261,4 @@ Decision (AskUserQuestion 2026-10-24, Close plan): Keep it open.
 - Verdict: `bun ~/vivera/scripts/plan-closeout.mjs --readiness docs/code-plan/plans/2026-10-24-dawnbook-harvest-moon-voice.md` exit 3, NEEDS-HUMAN: 0 open NOW follow-ups, 0 open step boxes, every task UNPROVEN because of the `false` sentinel.
 - Done: PR #187 merged (24331ff), deployed (4d30072f), D1 seeded, live text checked.
 - Reopen trigger: when the owner has read the live chapters and confirms the voice, mark this plan Complete in the next dawnbook PR.
+- Decision 2026-10-31 (owner, batch closeout of merged plans): `Complete`. All registry sessions merged (`dawnbook-harvest-moon-voice`); previous status `Approved`; task step boxes open: 0 of 0. `--readiness` was not run (owner's batch decision).
