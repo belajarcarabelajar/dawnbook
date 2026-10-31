@@ -725,3 +725,7 @@ Chunk C48-C56 pada manifest. Sama dengan T3; verifikasi pada `run[]` T8. Catatan
 - Learning ledger: `docs/code-plan/artifacts/2026-10-11-heading-colon-cleanup-learning-ledger.md`.
 - Graphify: `graphify update .` di repo dawnbook, lalu `bun run graphify:sync` dari vivera (dengan `--root`), dan `--check`.
 - `bun scripts/plan-issue-sync.mjs <plan.md>` terakhir setelah plan `Complete`.
+
+## Closeout status
+
+- Decision 2026-10-31 (owner, batch closeout of merged plans): kept open. All registry sessions merged (`dawnbook-heading-colon-cleanup`), but 73 of 73 task step boxes are open, so completion is not recorded from evidence. Reopen trigger: tick the steps from evidence (`plan-mark-done --from <runner.log>`) or an owner review, then ask `Close plan` again.
