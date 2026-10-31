@@ -1,7 +1,7 @@
 ---
 schema: ultra-plan/v1
 plan_id: 2026-10-16-dawnbook-diagrams-retrofit-rf3
-status: Verification
+status: Complete
 version: 1
 runner_contract: true
 skill: "super-ultra-code-plan (first file found in the chain: /home/belajarcarabelajar/vivera/Super Ultra Code Plan Implementation.md)"
@@ -345,3 +345,4 @@ flowchart TD
 
 - Status: Verification (S2-S4 done)
 - Resume: PR #157 open; Close plan reopens in the RF4 PR.
+- Decision 2026-10-31 (owner, batch closeout of merged plans): `Complete`. All registry sessions merged (`dawnbook-diagrams-retrofit-3`); previous status `Verification`; task step boxes open: 0 of 32. `--readiness` was not run (owner's batch decision).

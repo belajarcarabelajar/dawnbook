@@ -1,7 +1,7 @@
 ---
 schema: ultra-plan/v1
 plan_id: 2026-10-24-dawnbook-attribution-fixes
-status: Approved
+status: Complete
 version: 1
 runner_contract: true
 skill: "super-ultra-code-plan (loaded through the Skill tool from ~/.claude/skills/super-ultra-code-plan/SKILL.md)"
@@ -437,3 +437,4 @@ All nine items re-checked. Items 1 to 7 and 9 still hold on main (line numbers u
 
 - 2026-10-24: `bun ~/vivera/scripts/plan-closeout.mjs --readiness` = NEEDS-HUMAN (exit 3): 0 open step boxes, every task UNPROVEN (no `skip_if`), X1 open. Owner decision (Close plan gate): keep it open. Reopen the question after PRs #206, #207 and #208 are merged in that order and the deploy, D1 seed and reindex decisions are made.
 - 2026-10-25, after merges, deploy, D1 seed and reindex: readiness still NEEDS-HUMAN (exit 3): 0 open boxes, every task UNPROVEN. Owner decision (Close plan gate, second time): keep it open. Owner decision on the quotation audit: fix the findings in a new plan (`2026-10-25-dawnbook-quote-fixes`), which takes over backlog item 8; reopen this plan's closeout when that plan is approved.
+- Decision 2026-10-31 (owner, batch closeout of merged plans): `Complete`. All registry sessions merged (`attribution-notices`, `attribution-book-fixes`, `attribution-referensi`, `attribution-closeout`); previous status `Approved`; task step boxes open: 0 of 0. `--readiness` was not run (owner's batch decision).

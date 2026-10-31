@@ -1,7 +1,7 @@
 ---
 schema: ultra-plan/v1
 plan_id: 2026-10-25-dawnbook-later-backlog
-status: Approved
+status: Complete
 version: 1
 runner_contract: true
 skill: "super-ultra-code-plan (loaded through the Skill tool from ~/.claude/skills/super-ultra-code-plan/SKILL.md)"
@@ -145,3 +145,4 @@ One PR through `pr-registry open`; merge asked alone with `--match-head-commit`;
 
 - 2026-10-25, before the merge of PR #211: `bun ~/vivera/scripts/plan-closeout.mjs --readiness` = NEEDS-HUMAN (exit 3): every task step box ticked, every task UNPROVEN (no `skip_if`), X1 open. Owner decision (Close plan gate): keep it open. Reopen after the merge, deploy, D1 seed and GSC reindex; the status flip ships in the next session's PR together with the DOI-repair plan.
 - Owner follow-up: the placeholder author name was also removed from the body of merged PR #206 (gh pr edit, 2026-10-25). Git history is left unchanged (rewriting `main` would need a force push).
+- Decision 2026-10-31 (owner, batch closeout of merged plans): `Complete`. All registry sessions merged (`later-fixes`); previous status `Approved`; task step boxes open: 0 of 0. `--readiness` was not run (owner's batch decision).

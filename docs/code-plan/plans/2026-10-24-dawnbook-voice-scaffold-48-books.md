@@ -1,7 +1,7 @@
 ---
 schema: ultra-plan/v1
 plan_id: 2026-10-24-dawnbook-voice-scaffold-48-books
-status: Approved
+status: Complete
 version: 1
 runner_contract: true
 skill: "super-ultra-code-plan (loaded through the Skill tool from ~/.claude/skills/super-ultra-code-plan/SKILL.md)"
@@ -171,3 +171,4 @@ One PR for all 48 books through pr-registry, one commit per book; merge, deploy,
 - Readiness (`bun scripts/plan-closeout.mjs --readiness`, 2026-10-24): NEEDS-HUMAN; 0 open step boxes, 0 other open boxes; W1-W4, G1, V1 and D1 have no `skip_if`, so their proof is the evidence on the checklist lines.
 - Owner decision 2026-10-24 (AskUserQuestion "Close plan"): Keep it open. Reopen trigger: the owner confirms the cleaned books read well live.
 - Follow-ups chosen the same day: a crutch-word cap with all chapters over it fixed (plan 2026-10-24-dawnbook-voice-crutch-cap, issue #198, in progress); near-miss scaffold measurement (done, three caps folded into that plan); a plan for the `check-book-structure` failures (being drafted as plan 2026-10-24-dawnbook-structure-fixes).
+- Decision 2026-10-31 (owner, batch closeout of merged plans): `Complete`. All registry sessions merged (`dawnbook-voice-scaffold-48`, `dawnbook-voice-scaffold-closeout`); previous status `Approved`; task step boxes open: 0 of 0. `--readiness` was not run (owner's batch decision).

@@ -1,7 +1,7 @@
 ---
 schema: ultra-plan/v1
 plan_id: 2026-10-16-dawnbook-diagrams-retrofit-rf6
-status: Verification
+status: Complete
 version: 1
 runner_contract: true
 skill: "super-ultra-code-plan (first file found in the chain: /home/belajarcarabelajar/vivera/Super Ultra Code Plan Implementation.md)"
@@ -403,3 +403,4 @@ Acceptance: EWS ch12 Realita values 0.98, 0.35 and 0.72 are either sourced (BMKG
 
 - Status: Verification (S0, S2-S4 done)
 - Resume: PR #161 waits for the `Merge` gate; this is the last retrofit session, so its merge evidence stays as an untracked file in the main checkout for the next session to commit.
+- Decision 2026-10-31 (owner, batch closeout of merged plans): `Complete`. All registry sessions merged (`dawnbook-diagrams-retrofit-6`); previous status `Verification`; task step boxes open: 0 of 33. `--readiness` was not run (owner's batch decision).

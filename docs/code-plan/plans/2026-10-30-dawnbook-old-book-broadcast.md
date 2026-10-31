@@ -568,3 +568,4 @@ flowchart TD
 | `Intent` | Locked | 2026-10-30 |
 | `Spec` | Approve | 2026-10-30 |
 | `Plan` | Approve | 2026-10-30 |
+- Decision 2026-10-31 (owner, batch closeout of merged plans): kept open. All registry sessions merged (`old-book-broadcast`, `old-book-broadcast-f5`), but 11 of 45 task step boxes are open, so completion is not recorded from evidence. Reopen trigger: tick the steps from evidence (`plan-mark-done --from <runner.log>`) or an owner review, then ask `Close plan` again.

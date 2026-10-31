@@ -1,7 +1,7 @@
 ---
 schema: ultra-plan/v1
 plan_id: 2026-10-25-dawnbook-audit-fixes
-status: Approved
+status: Complete
 version: 1
 runner_contract: true
 skill: "super-ultra-code-plan (loaded through the Skill tool from ~/.claude/skills/super-ultra-code-plan/SKILL.md)"
@@ -227,3 +227,7 @@ Push with an explicit refspec (the local branch tracks nothing), open one PR wit
 ## Backlog (LATER)
 
 Decisions marked `backlog` in the ledger: glossary-wide choices (for example "namun" or "tetapi", "Sistem 2" or "System 2"), claims that need a source, formulas, code fences, and the observations in the session notes. The DOI findings that agents noticed outside the audit belong to the existing DOI-repair backlog entry.
+
+## Closeout status
+
+- Decision 2026-10-31 (owner, batch closeout of merged plans): `Complete`. All registry sessions merged (`audit-fixes`); previous status `Approved`; task step boxes open: 0 of 0. `--readiness` was not run (owner's batch decision).

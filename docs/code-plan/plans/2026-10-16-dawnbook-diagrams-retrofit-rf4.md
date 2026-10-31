@@ -1,7 +1,7 @@
 ---
 schema: ultra-plan/v1
 plan_id: 2026-10-16-dawnbook-diagrams-retrofit-rf4
-status: Verification
+status: Complete
 version: 1
 runner_contract: true
 skill: "super-ultra-code-plan (first file found in the chain: /home/belajarcarabelajar/vivera/Super Ultra Code Plan Implementation.md)"
@@ -410,3 +410,4 @@ Acceptance: `check-heading-colons.ts` reports a bold sub-title with a colon insi
 
 - Status: Verification (S0, S2-S4 done)
 - Resume: PR #158 open; Close plan reopens in the RF5 PR.
+- Decision 2026-10-31 (owner, batch closeout of merged plans): `Complete`. All registry sessions merged (`dawnbook-diagrams-retrofit-4`); previous status `Verification`; task step boxes open: 0 of 36. `--readiness` was not run (owner's batch decision).
