@@ -31,7 +31,7 @@ Penelitian itu tidak mengukur apakah jawaban samar membuat orang terus mendekat.
 Panduan di [Verywell Mind](https://www.verywellmind.com/how-to-reject-someone-nicely-8648281), yang ditinjau seorang konselor, memberi beberapa pegangan untuk menolak dengan baik:
 
 - Bersikap baik sekaligus langsung ke inti.
-- Hindari harapan palsu, klise, dan "mungkin nanti", termasuk kalimat "bukan kamu, tapi aku".
+- Hindari harapan palsu, klise, dan "mungkin nanti", termasuk kalimat "bukan kamu, tapi aku". <!-- voice-ok: klise yang dikutip sebagai contoh -->
 - Pakai kalimat yang berpusat pada dirimu ("aku merasa ...", "aku tidak ...").
 - Ucapkan terima kasih, lalu buat pesannya singkat.
 - Ingat bahwa "tidak" bisa menjadi kalimat yang utuh, seperti dikutip dari seorang psikolog di panduan itu. Menurut saran buku ini, kamu tidak wajib memberi alasan panjang.

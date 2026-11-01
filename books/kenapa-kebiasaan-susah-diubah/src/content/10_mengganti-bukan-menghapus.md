@@ -1,4 +1,4 @@
-## Mengganti, Bukan Menghapus
+## Mengganti Kebiasaan Lama
 
 Bayangkan seseorang yang sudah bertahun-tahun menggigit kukunya. Gigitannya sudah sampai merusak kuku, dan tangannya sering ia sembunyikan. Orang semacam ini biasanya sudah mencoba segala cara, dari teguran sendiri dan cat pahit di kuku sampai janji tiap awal bulan. Semuanya gagal, bertahun-tahun lamanya.
 

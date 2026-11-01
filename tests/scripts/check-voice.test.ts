@@ -288,10 +288,10 @@ describe("runVoiceGate (build step)", () => {
   });
 });
 
-describe("contrast framing (GEMINI.md section 29 item 9), edition-2026 premium books only", () => {
+describe("contrast framing (GEMINI.md section 29 item 9), every checked book", () => {
   const SANDWICH = "Itu temuan awal yang bukan jaminan tetapi petunjuk.";
   const TRAILING = "Itu temuan awal, bukan jaminan.";
-  const CONTRAST = { contrastFraming: true };
+  const CONTRAST = {};
 
   test("bukan ... tetapi/tapi/melainkan/namun in one sentence is flagged, case-insensitive", () => {
     expect(voiceViolations("05_x.md", SANDWICH, CONTRAST)).toEqual(["contrast framing (bukan ..., tetapi) x1 (max 0)"]);
@@ -312,8 +312,25 @@ describe("contrast framing (GEMINI.md section 29 item 9), edition-2026 premium b
     expect(voiceViolations("05_x.md", "Cara ini belum diuji pada mahasiswa dan bukan untuk anak kecil.", CONTRAST)).toEqual([]);
   });
 
-  test("without the option (free books) both patterns pass", () => {
-    expect(voiceViolations("05_x.md", `${SANDWICH} ${TRAILING}`)).toEqual([]);
+  test("free books are checked too, without any option", () => {
+    expect(voiceViolations("05_x.md", `${SANDWICH}\n\n${TRAILING}`)).toEqual([
+      "contrast framing (bukan ..., tetapi) x1 (max 0)",
+      "trailing ', bukan' x1 (max 0)",
+    ]);
+  });
+
+  test("a tag question ending in , bukan? passes", () => {
+    expect(voiceViolations("05_x.md", "Rasanya akrab, bukan? Ucapan itu terasa hangat.")).toEqual([]);
+    expect(voiceViolations("05_x.md", "Kamu mencintai tanah air, bukan ?")).toEqual([]);
+  });
+
+  test("a fenced code block (a mermaid diagram) is not counted", () => {
+    const fence = '```mermaid\nflowchart TD\n    B --> C["Gali kepentingan, bukan sekadar posisi"]\n    accDescr: Ringkasan, bukan temuan, tetapi penalaran.\n```';
+    expect(voiceViolations("05_x.md", `Teks biasa.\n\n${fence}\n`)).toEqual([]);
+  });
+
+  test("a chapter heading with , Bukan is flagged like prose", () => {
+    expect(voiceViolations("05_x.md", "## Membeli Pengalaman, Bukan Barang\n\nTeks.")).toEqual(["trailing ', bukan' x1 (max 0)"]);
   });
 
   test("a blockquote line is a quoted template and is not counted", () => {
@@ -326,7 +343,7 @@ describe("contrast framing (GEMINI.md section 29 item 9), edition-2026 premium b
     expect(voiceViolations("05_x.md", `${TRAILING} <!-- voice-ok: kutipan sumber -->`, CONTRAST)).toEqual([]);
   });
 
-  test("runVoiceGate flags the edition-2026 premium book and passes the same text in a free book", () => {
+  test("runVoiceGate flags free and edition-2026 books and skips verbatim premium books", () => {
     setPremiumRegistryForTest({
       revisi: { products: ["P-x"], productUrl: "https://example.com/p", edition: 2026 },
       verbatim: { products: ["P-y"], productUrl: "https://example.com/q" },
@@ -339,11 +356,16 @@ describe("contrast framing (GEMINI.md section 29 item 9), edition-2026 premium b
     });
     expect(runVoiceGate(lib)).toEqual({
       ok: false,
-      problems: ["revisi/01_a.md: contrast framing (bukan ..., tetapi) x1 (max 0)", "revisi/01_a.md: trailing ', bukan' x1 (max 0)"],
+      problems: [
+        "gratis/01_a.md: contrast framing (bukan ..., tetapi) x1 (max 0)",
+        "gratis/01_a.md: trailing ', bukan' x1 (max 0)",
+        "revisi/01_a.md: contrast framing (bukan ..., tetapi) x1 (max 0)",
+        "revisi/01_a.md: trailing ', bukan' x1 (max 0)",
+      ],
     });
   });
 
-  test("the CLI flags a registered edition-2026 book and passes a free one", () => {
+  test("the CLI flags a registered edition-2026 book and a free one", () => {
     const revised = Object.entries(loadPremiumRegistry()).find(([, e]) => e.edition === 2026)?.[0];
     expect(revised).toBeDefined();
     const lib = makeDir({
@@ -354,7 +376,7 @@ describe("contrast framing (GEMINI.md section 29 item 9), edition-2026 premium b
     expect(flagged.exitCode).toBe(1);
     expect(flagged.stdout).toContain("01_a.md: trailing ', bukan' x1 (max 0)");
     const free = runCli(["--books-dir", lib, "gratis"]);
-    expect(free.exitCode).toBe(0);
-    expect(free.stdout).toContain("gratis: 1 chapters, 0 problems");
+    expect(free.exitCode).toBe(1);
+    expect(free.stdout).toContain("gratis: 1 chapters, 1 problems");
   });
 });

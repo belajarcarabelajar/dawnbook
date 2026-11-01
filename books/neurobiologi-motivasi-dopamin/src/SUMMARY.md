@@ -2,7 +2,7 @@
 
 - [Mengapa Kita Melakukan Apa yang Kita Lakukan?](content/01_mengapa-kita-melakukan-apa-yang-kita-lakukan.md)
 - [Anatomi Sistem Reward Otak](content/02_anatomi-sistem-reward-otak.md)
-- [Mengenal Dopamin sebagai Molekul Motivasi, Bukan Kesenangan](content/03_mengenal-dopamin-molekul-motivasi.md)
+- [Mengenal Dopamin sebagai Molekul Motivasi](content/03_mengenal-dopamin-molekul-motivasi.md)
 - [Dopamin Tonik vs. Fasik](content/04_dopamin-tonik-vs-fasik.md)
 - [Reward Prediction Error](content/05_reward-prediction-error.md)
 - [Jebakan Kesenangan Instan di Era Digital](content/06_jebakan-kesenangan-instan-di-era-digital.md)

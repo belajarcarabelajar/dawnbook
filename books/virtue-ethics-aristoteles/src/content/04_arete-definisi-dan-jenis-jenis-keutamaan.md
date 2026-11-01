@@ -46,7 +46,7 @@ Contoh utama kebajikan moral:
 Dalam Etika Kebajikan, kedua jenis Arete ini tidak bisa dipisahkan. Mereka bekerja seperti perangkat keras (*hardware*) dan perangkat lunak (*software*) pada komputer.
 
 - **Kebajikan Moral** memberikan dorongan untuk melakukan hal yang benar (misalnya, "Saya ingin bersikap adil").
-- **Kebajikan Intelektual (khususnya Phronesis)** memberikan panduan teknis tentang bagaimana melakukan hal tersebut dalam situasi yang rumit (misalnya, "Dalam situasi ini, tindakan adil yang tepat adalah X, bukan Y").
+- **Kebajikan Intelektual (khususnya Phronesis)** memberikan panduan teknis tentang bagaimana melakukan hal tersebut dalam situasi yang rumit (misalnya, "Dalam situasi ini, tindakan adil yang tepat adalah X").
 
 Tanpa kebajikan intelektual, niat baik kita bisa menjadi bumerang. Tanpa kebajikan moral, kecerdasan kita bisa digunakan untuk tujuan yang jahat.
 
