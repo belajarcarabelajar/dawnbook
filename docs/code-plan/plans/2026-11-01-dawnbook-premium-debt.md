@@ -1,7 +1,7 @@
 ---
 schema: ultra-plan/v1
 plan_id: 2026-11-01-dawnbook-premium-debt
-status: Draft
+status: Approved
 version: 1
 runner_contract: true
 defaults:
@@ -216,7 +216,7 @@ flowchart TD
 
 **Definition of Done:** AC-1 to AC-9 with evidence; reviews approve; owner live test.
 
-**Plan Status & Version:** Draft, version 1.
+**Plan Status & Version:** Approved 2026-11-01 (`Plan` gate: Approve + fan out), version 1.
 
 **Reproducibility:** shared fixture `tests/fixtures/sso/token.json` (Dawnbook) copied byte for byte into the bcb test.
 
