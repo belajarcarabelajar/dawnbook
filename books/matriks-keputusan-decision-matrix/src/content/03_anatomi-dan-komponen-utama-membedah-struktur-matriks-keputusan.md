@@ -1,6 +1,6 @@
 ## Anatomi dan Komponen Utama Matriks Keputusan
 
-Pernahkah kamu merasa kewalahan saat harus memilih di antara beberapa opsi yang sama-sama menarik? Bayangkan kamu sedang berdiri di depan rak laptop. Ada yang baterainya tahan lama tetapi berat, ada yang sangat ringan tetapi mahal, dan ada yang performanya tinggi tetapi desainnya biasa saja. Pikiran kita sering kali macet karena mencoba memproses semua variabel ini secara bersamaan. Di sinilah **matriks keputusan** (*decision matrix*) membantu: alat ini menstrukturkan pilihan berdasarkan berbagai **kriteria penilaian** untuk menghasilkan **skor berbobot** yang lebih sistematis dan transparan.
+Pernahkah kamu merasa kewalahan saat harus memilih di antara beberapa opsi yang sama-sama menarik? Bayangkan kamu sedang berdiri di depan rak laptop. Ada yang baterainya tahan lama tetapi berat, ada yang sangat ringan tetapi mahal, dan ada yang performanya tinggi tetapi desainnya biasa saja. Pikiran kita sering kali macet karena mencoba memproses semua variabel ini secara bersamaan. Di sinilah **matriks keputusan** (*decision matrix*) membantu. Alat ini menstrukturkan pilihan berdasarkan berbagai **kriteria penilaian** untuk menghasilkan **skor berbobot** yang lebih sistematis dan transparan.
 
 Untuk menguasai metode ini, mari kita bedah anatomi dan komponen utamanya terlebih dahulu.
 
@@ -17,7 +17,7 @@ Sebagai analogi sederhana, jika kamu sedang membangun tim sepak bola, pilihan al
 
 **Alternatif** adalah daftar opsi atau solusi yang sedang kamu pertimbangkan dalam pengambilan keputusan. Di dalam struktur matriks, alternatif ini diposisikan pada kolom pertama di setiap baris.
 
-Setiap alternatif harus bersifat *comparable* (sebanding). Sebagai contoh, kamu tidak bisa menyejajarkan keputusan "membeli mobil baru" dengan "memilih menu makan siang" dalam satu matriks yang sama. Jika sedang mengevaluasi lokasi kantor baru, pilihan alternatifnya bisa berupa: *Lokasi A (Sudirman)*, *Lokasi B (BSD)*, atau *Lokasi C (Kemang)*.
+Setiap alternatif harus bersifat *comparable* (sebanding). Sebagai contoh, kamu tidak bisa menyejajarkan keputusan "membeli mobil baru" dengan "memilih menu makan siang" dalam satu matriks yang sama. Jika sedang mengevaluasi lokasi kantor baru, pilihan alternatifnya bisa berupa *Lokasi A (Sudirman)*, *Lokasi B (BSD)*, atau *Lokasi C (Kemang)*.
 
 ### 2. Kriteria Penilaian
 
@@ -49,7 +49,7 @@ Kamu bisa menggunakan skala penilaian yang konsisten, misalnya 1–5 atau 1–10
 
 ### Skor Berbobot (*Weighted Score*)
 
-Bagian ini merupakan inti analisis dari matriks keputusan. Untuk mendapatkan hasil yang adil, kita tidak menjumlahkan skor mentah begitu saja, melainkan mengalikan skor setiap alternatif dengan bobot masing-masing kriteria terlebih dahulu sebelum dijumlahkan.
+Bagian ini merupakan inti analisis dari matriks keputusan. Untuk mendapatkan hasil yang adil, kita mengalikan skor setiap alternatif dengan bobot masing-masing kriteria terlebih dahulu, baru kemudian menjumlahkannya.
 
 **Rumus Dasar:**
 
@@ -88,7 +88,7 @@ Mari kita lihat penerapannya pada skenario nyata. Bayangkan seorang manajer HR i
   - Citra memiliki kemampuan *coding* yang sangat baik (skor 5), tetapi ekspektasi gajinya sangat tinggi sehingga mendapat skor terendah untuk kriteria gaji (skor 1).
   - Andi memiliki kemampuan *coding* standar (skor 3), tetapi sangat kooperatif dalam tim (skor 5) dan ekspektasi gajinya masuk akal (skor 4).
 
-Dengan menggunakan struktur *decision matrix* ini, manajer HR tidak hanya terpaku pada siapa yang paling mahir pemrograman, melainkan dapat menemukan kandidat yang paling sesuai dengan kebutuhan organisasi secara menyeluruh.
+Dengan menggunakan struktur *decision matrix* ini, kemahiran pemrograman menjadi satu kriteria di antara kriteria lain, sehingga manajer HR dapat menemukan kandidat yang paling sesuai dengan kebutuhan organisasi secara menyeluruh.
 
 ### Matriks Tiga Vendor yang Sudah Terisi
 
@@ -100,7 +100,7 @@ Agar semua komponen tadi terlihat bekerja bersama, berikut satu matriks yang sud
 | **Vendor B** | 6 | 9 | 7 | (6 × 0,4) + (9 × 0,4) + (7 × 0,2) = **7,4** |
 | **Vendor C** | 9 | 6 | 6 | (9 × 0,4) + (6 × 0,4) + (6 × 0,2) = **7,2** |
 
-Vendor A keluar sebagai pilihan teratas. Lihat Vendor C: skornya pada kriteria Harga paling tinggi (9), tetapi total skor berbobotnya justru paling rendah (7,2).
+Vendor A keluar sebagai pilihan teratas. Vendor C memegang skor Harga paling tinggi (9), tetapi total skor berbobotnya justru paling rendah (7,2).
 
 ### Ringkasan Komponen
 
@@ -113,4 +113,4 @@ Untuk mengingat kembali struktur dasar yang telah kita bedah:
 
 ### Pesan Utama
 
-Struktur matriks keputusan tidak bertujuan menghilangkan intuisimu, tetapi dirancang untuk mendisiplinkan cara berpikirmu. Dengan membedah keputusan menjadi komponen-komponen terukur ini, kamu bisa melihat dengan jelas mengapa satu opsi lebih unggul dibandingkan dengan opsi lainnya.
+Struktur matriks keputusan dirancang untuk mendisiplinkan cara berpikirmu. Intuisimu tidak perlu dibuang. Dengan membedah keputusan menjadi komponen-komponen terukur ini, kamu bisa melihat dengan jelas mengapa satu opsi lebih unggul dibandingkan dengan opsi lainnya.

@@ -1,6 +1,6 @@
 ## Persiapan Teknis dan Lingkungan Simulasi
 
-Bayangkan seorang sutradara film sebelum memulai syuting. Ia tidak hanya mengandalkan kemampuan akting para aktornya, tetapi juga memastikan tata cahaya tepat, mikrofon berfungsi, dan set ruangan mendukung suasana cerita. Begitu pula dengan **Microteaching**.
+Bayangkan seorang sutradara film sebelum memulai syuting. Selain mengandalkan kemampuan akting para aktornya, ia memastikan tata cahaya tepat, mikrofon berfungsi, dan set ruangan mendukung suasana cerita. Begitu pula dengan **Microteaching**.
 
 Meskipun fokus utamanya adalah melatih keterampilan mengajar kamu, performa tersebut akan terhambat jika lingkungan fisik dan teknisnya berantakan. Persiapan teknis adalah "fondasi" yang memungkinkan "bangunan" instruksional kamu berdiri tegak.
 
@@ -19,7 +19,7 @@ Dalam *microteaching*, jumlah siswa biasanya terbatas (5-10 orang). Oleh karena 
 - **Pencahayaan:** Pastikan sumber cahaya tidak berada di belakang guru (backlight) agar ekspresi wajah kamu terlihat jelas oleh siswa dan kamera.
 - **Akustik:** Pilih ruangan yang minim gema dan kebisingan luar agar suara kamu terdengar jernih tanpa harus berteriak.
 
-> **Pesan Penting:** Tata letak bukan hanya soal estetika, tapi soal **aksesibilitas**. Pastikan kamu bisa berpindah dari papan tulis ke area siswa dalam 2-3 langkah tanpa tersandung kabel atau kaki meja.
+> **Pesan Penting:** Tata letak juga menyangkut **aksesibilitas**. Pastikan kamu bisa berpindah dari papan tulis ke area siswa dalam 2-3 langkah tanpa tersandung kabel atau kaki meja.
 
 ### 2. Pemilihan dan Penempatan Media Pembelajaran
 
@@ -27,7 +27,7 @@ Media pembelajaran dalam *microteaching* harus dipilih berdasarkan prinsip **efi
 
 #### Kriteria Pemilihan Media yang Relevan
 
-1. **Instan:** Media harus siap digunakan dalam hitungan detik (contoh: *slide* sudah di-load, alat peraga sudah di meja).
+1. **Instan:** Media harus siap digunakan dalam hitungan detik (misalnya *slide* sudah di-load dan alat peraga sudah di meja).
 2. **Keterbacaan:** Jika menggunakan media visual, pastikan teks dapat dibaca dari sudut paling belakang ruangan.
 3. **Multisensori:** Gunakan kombinasi media untuk mengakomodasi gaya belajar:
 	- **Visual:** Slide, poster, atau gambar.
@@ -69,15 +69,15 @@ Sebelum kamu berteriak "Action!" atau mulai mengajar, gunakan daftar periksa ber
 
 Persiapan teknis *microteaching* mirip dengan **"Mise en Place"** dalam dunia kuliner profesional. Sebelum kompor dinyalakan, koki sudah memotong bawang, menyiapkan bumbu dalam wadah kecil, dan menajamkan pisau.
 
-Jika koki baru memotong bawang saat api sudah panas, masakan akan gosong. Begitu pula dalam mengajar: jika kamu baru mencari spidol atau memperbaiki kabel HDMI saat waktu simulasi berjalan, "makanan" (materi pelajaran) kamu tidak akan tersaji dengan baik kepada siswa.
+Jika koki baru memotong bawang saat api sudah panas, masakan akan gosong. Begitu pula dalam mengajar. Jika kamu baru mencari spidol atau memperbaiki kabel HDMI saat waktu simulasi berjalan, "makanan" (materi pelajaran) kamu tidak akan tersaji dengan baik kepada siswa.
 
 ### Menyiapkan Simulasi Hukum Newton
 
 **Skenario:** Kamu akan mengajar topik "Hukum Newton" selama 10 menit untuk kelas 8 SMP.
 
 1. **Persiapan Layout:** Kamu mengatur kursi membentuk setengah lingkaran agar semua siswa bisa melihat demonstrasi kelereng di atas meja.
-2. **Persiapan Media:** Kamu sudah menyiapkan selembar kertas dan sebuah kelereng. Kamu meletakkannya di meja depan, bukan di dalam tas, agar bisa langsung diambil saat dibutuhkan.
-3. **Persiapan Siswa:** Kamu membisiki salah satu siswa: *"Nanti saat saya tanya kenapa kelereng berhenti, tolong jawab karena permukaannya kasar ya."* Ini memastikan alur logika pembelajaran tetap terjaga dalam waktu yang singkat.
+2. **Persiapan Media:** Kamu sudah menyiapkan selembar kertas dan sebuah kelereng. Kamu meletakkannya di meja depan agar bisa langsung diambil saat dibutuhkan.
+3. **Persiapan Siswa:** Kamu membisiki salah satu siswa, *"Nanti saat saya tanya kenapa kelereng berhenti, tolong jawab karena permukaannya kasar ya."* Ini memastikan alur logika pembelajaran tetap terjaga dalam waktu yang singkat.
 4. **Eksekusi:** Karena semua sudah siap, kamu memulai dengan percaya diri tanpa terganggu oleh hal-hal teknis yang sepele.
 
 > **Insight:** Kegagalan dalam persiapan teknis sering kali dianggap sebagai kegagalan kompetensi mengajar oleh pengamat, padahal itu hanyalah masalah manajemen logistik. **Siapkan lingkungan kamu agar kelas lebih mudah dikelola.**

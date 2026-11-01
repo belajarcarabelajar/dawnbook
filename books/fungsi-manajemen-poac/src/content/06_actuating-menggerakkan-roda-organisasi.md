@@ -46,7 +46,7 @@ Manajer harus mampu memberikan perintah atau instruksi yang jelas, singkat, dan 
 
 ### B. Pengarahan (Directing)
 
-Pengarahan lebih dari sekadar memberi perintah; langkah ini mencakup penjelasan mengenai latar belakang suatu keputusan dan standar kualitas yang diharapkan.
+Pengarahan mencakup pemberian perintah beserta penjelasan mengenai latar belakang suatu keputusan dan standar kualitas yang diharapkan.
 
 ### C. Bimbingan (Guidance)
 
@@ -54,7 +54,7 @@ Manajer berperan sebagai mentor. Jika karyawan mengalami kendala teknis atau men
 
 ### D. Supervisi (Supervising)
 
-Melakukan pengamatan langsung saat pekerjaan sedang berlangsung. Tujuannya bukan untuk mencari kesalahan (itu tugas *Controlling*), melainkan untuk memastikan bahwa proses berjalan sesuai prosedur sejak awal.
+Melakukan pengamatan langsung saat pekerjaan sedang berlangsung. Tujuannya adalah memastikan bahwa proses berjalan sesuai prosedur sejak awal. Urusan mencari kesalahan menjadi tugas *Controlling*.
 
 ## 4. Prinsip-Prinsip Actuating yang Efektif
 
@@ -63,7 +63,7 @@ Agar fungsi penggerakan tidak menimbulkan konflik, ada beberapa prinsip yang har
 1. **Prinsip Mengarah pada Tujuan:** Menghubungkan setiap instruksi secara langsung dengan visi besar organisasi.
 2. Menghindari kebingungan instruksi melalui **Kesatuan Perintah (Unity of Command)**, yaitu karyawan idealnya hanya menerima arahan dari satu atasan langsung.
 3. **Harmonisasi antara Tujuan Individu dan Organisasi:** Karyawan akan bergerak lebih cepat jika mereka merasa bahwa kesuksesan perusahaan sejalan dengan perkembangan karier mereka.
-4. Membuka komunikasi dua arah: manajer tidak hanya memberikan perintah, tetapi juga aktif mendengarkan kendala nyata di lapangan.
+4. Membuka komunikasi dua arah, sehingga manajer memberikan perintah sekaligus aktif mendengarkan kendala nyata di lapangan.
 
 ## 5. Actuating Seperti Mesin Mobil
 
@@ -92,8 +92,8 @@ Menggerakkan manusia tidak semudah menekan tombol. Beberapa tantangan yang serin
 
 - Munculnya **Resistensi terhadap Perubahan** karena anggota tim merasa nyaman dengan kebiasaan lama dan enggan mengikuti prosedur baru.
 - **Masalah Komunikasi:** Informasi dari manajer sering kali mengalami distorsi sehingga ditangkap secara berbeda oleh bawahan.
-- Kebutuhan untuk menghadapi berbagai tipe kepribadian: sebagian staf memerlukan dorongan tegas, sementara yang lain lebih responsif terhadap pendekatan personal.
+- Kebutuhan untuk menghadapi berbagai tipe kepribadian, karena sebagian staf memerlukan dorongan tegas, sementara yang lain lebih responsif terhadap pendekatan personal.
 
-> Keberhasilan Actuating sangat bergantung pada kemampuan hubungan antarpribadi seorang manajer. Di sinilah aspek seni dalam manajemen lebih dominan daripada sekadar aspek sains.
+> Keberhasilan Actuating sangat bergantung pada kemampuan hubungan antarpribadi seorang manajer. Di sinilah aspek seni dalam manajemen lebih dominan daripada aspek sains.
 
-*Catatan: Topik mengenai bagaimana gaya kepemimpinan tertentu dan teknik motivasi spesifik digunakan untuk mendukung fungsi Actuating ini akan dibahas secara mendalam pada bagian selanjutnya: **Kepemimpinan dan Motivasi dalam Pelaksanaan**.*
+*Catatan: Topik mengenai bagaimana gaya kepemimpinan tertentu dan teknik motivasi spesifik digunakan untuk mendukung fungsi Actuating ini akan dibahas secara mendalam pada bagian selanjutnya, **Kepemimpinan dan Motivasi dalam Pelaksanaan**.*

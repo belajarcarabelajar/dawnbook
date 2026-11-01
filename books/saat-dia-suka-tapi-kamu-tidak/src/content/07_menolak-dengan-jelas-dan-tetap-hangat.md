@@ -12,9 +12,9 @@ Penolakan perasaan mirip rambu itu. Kalau pesannya terbaca jelas, orang lain bis
 - *Ostracism* (pengucilan), yaitu mendiamkan atau mengabaikan orang itu.
 - *Ambiguous rejection* (penolakan samar), yaitu memberi jawaban yang tidak jelas.
 
-Teori ini memprediksi bahwa kebutuhan kedua pihak lebih terjaga kalau penolak memakai komunikasi verbal yang jelas dan eksplisit. Orang yang ditolak diperkirakan tidak terlalu sakit hati, sementara penolak diperkirakan menghadapi lebih sedikit serangan balik dan beban emosi. Perlu dicatat, ini prediksi dari sebuah tulisan teori, bukan hasil yang sudah dibuktikan lewat data.
+Teori ini memprediksi bahwa kebutuhan kedua pihak lebih terjaga kalau penolak memakai komunikasi verbal yang jelas dan eksplisit. Orang yang ditolak diperkirakan tidak terlalu sakit hati, sementara penolak diperkirakan menghadapi lebih sedikit serangan balik dan beban emosi. Perlu dicatat, ini prediksi dari sebuah tulisan teori dan belum dibuktikan lewat data.
 
-Contoh penolakan eksplisit dalam tulisan itu kira-kira berbunyi begini: aku senang ngobrol sama kamu, tapi aku tidak mau pergi makan siang bersamamu. Kalimatnya sederhana, sopan, dan tidak menyisakan teka-teki.
+Contoh penolakan eksplisit dalam tulisan itu kira-kira berbunyi "aku senang ngobrol sama kamu, tapi aku tidak mau pergi makan siang bersamamu." Kalimatnya sederhana, sopan, dan tidak menyisakan teka-teki.
 
 ### Jawaban Samar yang Membuat Harapan Bertahan
 
@@ -22,9 +22,9 @@ Coba bayangkan seorang teman sekelas mengajakmu jalan berdua lewat aplikasi chat
 
 > Hmm, lihat nanti ya, minggu ini lagi sibuk banget.
 
-Niatnya mungkin halus. Masalahnya, kalimat itu bisa dibaca sebagai "belum sekarang", bukan "tidak". Dalam penelitian [Baumeister dan rekan (1993)](https://doi.org/10.1037/0022-3514.64.3.377) tentang cinta tak berbalas, sebagian orang yang perasaannya ditolak meyakini bahwa penolakan itu tidak pernah disampaikan secara pasti.
+Niatnya mungkin halus. Masalahnya, yang terbaca dari kalimat itu adalah "belum sekarang". Dalam penelitian [Baumeister dan rekan (1993)](https://doi.org/10.1037/0022-3514.64.3.377) tentang cinta tak berbalas, sebagian orang yang perasaannya ditolak meyakini bahwa penolakan itu tidak pernah disampaikan secara pasti.
 
-Penelitian itu tidak mengukur apakah jawaban samar membuat orang terus mendekat. Jadi anggap ini sebagai risiko, bukan hukum. Panduan praktis yang dibahas di bawah juga sama-sama meminta kamu menghindari janji atau "mungkin nanti" yang bisa memberi harapan palsu.
+Penelitian itu tidak mengukur apakah jawaban samar membuat orang terus mendekat. Jadi anggap ini sebagai risiko yang mungkin terjadi. Panduan praktis yang dibahas di bawah juga sama-sama meminta kamu menghindari janji atau "mungkin nanti" yang bisa memberi harapan palsu.
 
 ### Prinsip Penolakan yang Baik Hati
 
@@ -34,9 +34,9 @@ Panduan di [Verywell Mind](https://www.verywellmind.com/how-to-reject-someone-ni
 - Hindari harapan palsu, klise, dan "mungkin nanti", termasuk kalimat "bukan kamu, tapi aku".
 - Pakai kalimat yang berpusat pada dirimu ("aku merasa ...", "aku tidak ...").
 - Ucapkan terima kasih, lalu buat pesannya singkat.
-- Ingat bahwa "tidak" bisa menjadi kalimat yang utuh, seperti dikutip dari seorang psikolog di panduan itu. Saran buku ini: kamu tidak wajib memberi alasan panjang.
+- Ingat bahwa "tidak" bisa menjadi kalimat yang utuh, seperti dikutip dari seorang psikolog di panduan itu. Menurut saran buku ini, kamu tidak wajib memberi alasan panjang.
 
-Menurut psikolog yang diwawancarai [Klikdokter](https://www.klikdokter.com/psikologi/relationship/cara-menolak-cinta-dengan-halus-menurut-psikolog), ada empat hal yang membantu: tunjukkan penghargaan, beri pujian yang tulus, bicara jujur, dan terima bahwa orang itu akan merasa sakit hati. Psikolog itu juga mengingatkan agar kamu tidak memberi janji yang membuat orang menunggu tanpa kepastian. Kamu boleh menawarkan tetap berteman supaya jelas bahwa yang kamu tolak adalah hubungan romantis, bukan pertemanannya. Saran buku ini, tawaran itu sebaiknya hanya kamu ucapkan kalau memang kamu maksudkan.
+Menurut psikolog yang diwawancarai [Klikdokter](https://www.klikdokter.com/psikologi/relationship/cara-menolak-cinta-dengan-halus-menurut-psikolog), ada empat hal yang membantu. Tunjukkan penghargaan, beri pujian yang tulus, bicara jujur, dan terima bahwa orang itu akan merasa sakit hati. Psikolog itu juga mengingatkan agar kamu tidak memberi janji yang membuat orang menunggu tanpa kepastian. Kamu boleh menawarkan tetap berteman supaya jelas bahwa penolakanmu hanya berlaku untuk hubungan romantis. Saran buku ini, tawaran itu sebaiknya hanya kamu ucapkan kalau memang kamu maksudkan.
 
 ### Contoh Kalimat Penolakan di Chat
 
@@ -50,7 +50,7 @@ Berikut beberapa contoh rekaan yang bisa kamu ubah sesuai gaya bicaramu. Semuany
 
 > Aku masih mau berteman kayak biasa, tapi untuk hubungan romantis, jawabanku tidak.
 
-Tidak ada kalimat dalam contoh itu yang menjanjikan waktu lain. Bandingkan dengan contoh samar di atas, yang menunda jawaban dan bukan memberikannya.
+Tidak ada kalimat dalam contoh itu yang menjanjikan waktu lain. Contoh samar di atas hanya menunda jawaban.
 
 ### Desakan Setelah Kata Tidak
 

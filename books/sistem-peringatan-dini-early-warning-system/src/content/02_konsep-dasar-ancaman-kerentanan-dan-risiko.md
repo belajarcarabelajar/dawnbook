@@ -1,16 +1,16 @@
 ## Konsep Dasar Ancaman, Kerentanan, dan Risiko Bencana
 
-Memahami *ancaman, kerentanan, dan risiko bencana* sebagai satu kesatuan membantu kamu melihat bencana bukan sebagai kejadian acak. Bencana adalah hasil pertemuan antara bahaya dan kondisi masyarakat yang terpapar. Banyak orang mengira gempa atau banjir otomatis berarti bencana, padahal tanpa manusia dan aset yang rentan, peristiwa itu hanya fenomena alam. Bab ini mengurai empat pilar dari kerangka UNDRR, rumus risiko, dan contoh nyata di Indonesia.
+Memahami *ancaman, kerentanan, dan risiko bencana* sebagai satu kesatuan membantu kamu melihat apa yang sebenarnya membentuk sebuah bencana. Bencana adalah hasil pertemuan antara bahaya dan kondisi masyarakat yang terpapar. Banyak orang mengira gempa atau banjir otomatis berarti bencana, padahal tanpa manusia dan aset yang rentan, peristiwa itu hanya fenomena alam. Bab ini mengurai empat pilar dari kerangka UNDRR, rumus risiko, dan contoh nyata di Indonesia.
 
 ### Mengapa Empat Pilar Ini Penting
 
-Kerangka risiko modern bertumpu pada empat komponen: *ancaman*, *keterpaparan*, *kerentanan*, dan *kapasitas*. Risiko hanya muncul ketika keempatnya bertemu dalam ruang dan waktu yang sama. Jika ancaman, keterpaparan, atau kerentanan nol, risiko ikut nol.
+Kerangka risiko modern bertumpu pada empat komponen, yaitu *ancaman*, *keterpaparan*, *kerentanan*, dan *kapasitas*. Risiko hanya muncul ketika keempatnya bertemu dalam ruang dan waktu yang sama. Jika ancaman, keterpaparan, atau kerentanan nol, risiko ikut nol.
 
 > **Definisi UNDRR:** *Ancaman* adalah proses, fenomena, atau aktivitas manusia yang dapat menyebabkan hilangnya nyawa, cedera, kerusakan properti, gangguan sosial ekonomi, atau degradasi lingkungan. *Kerentanan* adalah kondisi yang ditentukan oleh faktor fisik, sosial, ekonomi, dan lingkungan yang meningkatkan kepekaan terhadap dampak ancaman. *Keterpaparan* adalah keberadaan orang, aset, dan sistem di lokasi yang berpotensi terkena ancaman. *Kapasitas* adalah kombinasi kekuatan dan sumber daya yang tersedia untuk mengelola risiko.
 
 ### Ancaman (Hazard)
 
-Ancaman menggambarkan *potensi*, bukan kepastian. Sesar aktif di bawah laut adalah ancaman, begitu pula tumpahan bahan kimia di kawasan industri. Ancaman belum menjadi bencana sampai bertemu elemen yang rentan dan terpapar.
+Ancaman menggambarkan *potensi* yang belum tentu terjadi. Sesar aktif di bawah laut adalah ancaman, begitu pula tumpahan bahan kimia di kawasan industri. Ancaman belum menjadi bencana sampai bertemu elemen yang rentan dan terpapar.
 
 Karakter ancaman meliputi lokasi, intensitas seperti magnitudo atau tinggi banjir, frekuensi, durasi, dan probabilitas periode ulang. Contoh di Indonesia meliputi gempa megathrust di Sumatra, letusan Gunung Merapi, banjir di daerah aliran sungai Ciliwung, dan kekeringan di Nusa Tenggara Timur.
 
@@ -50,7 +50,7 @@ Model yang lebih lengkap memasukkan keterpaparan dan kapasitas:
 
 \\[ \text{Risiko} = \frac{\text{Ancaman} \times \text{Kerentanan} \times \text{Keterpaparan}}{\text{Kapasitas}} \\]
 
-Rumus ini adalah kerangka berpikir, bukan kalkulator angka tunggal. Jika \\( \text{Keterpaparan} = 0 \\) maka \\( \text{Risiko} = 0 \\) meski ancaman besar. Jika \\( \text{Kerentanan} \\) tinggi maka risiko melonjak bahkan pada ancaman sedang. Jika \\( \text{Kapasitas} \\) naik maka risiko turun tanpa harus menghilangkan ancaman seperti gempa.
+Pakailah rumus ini sebagai kerangka berpikir. Hasilnya tidak berupa satu angka pasti. Jika \\( \text{Keterpaparan} = 0 \\) maka \\( \text{Risiko} = 0 \\) meski ancaman besar. Jika \\( \text{Kerentanan} \\) tinggi maka risiko melonjak bahkan pada ancaman sedang. Jika \\( \text{Kapasitas} \\) naik maka risiko turun tanpa harus menghilangkan ancaman seperti gempa.
 
 Untuk analisis kuantitatif, pendekatan probabilistik sering dipakai: \\[ \text{Risiko} = \text{Probabilitas Ancaman} \times \text{Konsekuensi} \\]
 

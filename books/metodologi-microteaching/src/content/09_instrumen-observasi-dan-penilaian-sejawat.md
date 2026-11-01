@@ -2,7 +2,7 @@
 
 Pernahkah kamu berdiri di depan kelas, merasa semuanya berjalan lancar, tetapi kemudian terkejut saat mengetahui siswa kamu sebenarnya kebingungan? Dalam *microteaching*, perasaan subjektif pengajar sering kali menipu. Di sinilah **Instrumen Observasi dan Penilaian Sejawat** berperan sebagai "kotak hitam" pesawat atau cermin yang tidak memihak.
 
-Instrumen ini bukan sekadar lembaran kertas untuk memberi nilai, melainkan alat navigasi yang mengubah kesan abstrak menjadi data konkret. Tanpa instrumen yang jelas, umpan balik akan menjadi terlalu subjektif, seperti *"Saya rasa cara mengajarmu bagus,"* yang sayangnya tidak membantu pertumbuhan profesional secara spesifik.
+Instrumen ini bekerja sebagai alat navigasi yang mengubah kesan abstrak menjadi data konkret. Tanpa instrumen yang jelas, umpan balik akan menjadi terlalu subjektif, seperti *"Saya rasa cara mengajarmu bagus,"* yang sayangnya tidak membantu pertumbuhan profesional secara spesifik.
 
 ## 1. Peran Observasi dalam Microteaching
 
@@ -12,19 +12,19 @@ Dalam konteks *microteaching*, pengamat (biasanya rekan sejawat atau pembimbing)
 
 Data objektif menghilangkan bias personal. Bayangkan seorang pengamat yang secara pribadi menyukai gaya bicara kamu yang cepat. Tanpa instrumen, ia mungkin memberi nilai tinggi. Namun, dengan instrumen yang memiliki indikator **"Kecepatan bicara sesuai dengan daya tangkap siswa"**, ia terpaksa mencatat bahwa siswa model terlihat kesulitan mengikuti ritme kamu.
 
-> **Insight:** Observasi yang baik tidak mencari kesalahan, melainkan mencari kesenjangan antara apa yang direncanakan dalam RPP Mikro dan apa yang sebenarnya terjadi di kelas.
+> **Insight:** Observasi yang baik mencari kesenjangan antara apa yang direncanakan dalam RPP Mikro dan apa yang sebenarnya terjadi di kelas.
 
 ## 2. Komponen Instrumen Observasi
 
 Sebuah instrumen observasi yang efektif biasanya terdiri dari tiga komponen utama:
 
 1. **Identitas:** Nama praktikan, topik materi, tanggal, dan nama pengamat.
-2. **Indikator Kinerja:** Daftar keterampilan spesifik yang sedang dilatih (misalnya: Keterampilan Membuka Pelajaran).
+2. **Indikator Kinerja:** Daftar keterampilan spesifik yang sedang dilatih (misalnya Keterampilan Membuka Pelajaran).
 3. **Skala Penilaian atau Kolom Komentar:** Tempat data dicatat.
 
 ### Juri MasterChef vs. Pengamat Mengajar
 
-Juri memasak tidak hanya mengatakan "makanan ini enak". Mereka memiliki rubrik: *Presentasi, Kematangan Protein, Keseimbangan Rasa, dan Tekstur*. Jika salah satu kurang, mereka tahu persis di bagian mana kontestan harus memperbaiki diri. Instrumen observasi mengajar bekerja dengan cara yang persis sama.
+Juri memasak menilai dengan rubrik yang memuat *Presentasi, Kematangan Protein, Keseimbangan Rasa, dan Tekstur*. Jika salah satu kurang, mereka tahu persis di bagian mana kontestan harus memperbaiki diri. Instrumen observasi mengajar bekerja dengan cara yang persis sama.
 
 ## 3. Jenis-Jenis Format Penilaian
 
@@ -69,7 +69,7 @@ $$
 \text{Nilai Akhir} = \left( \frac{\sum \text{Skor yang Diperoleh}}{\sum \text{Skor Maksimal}} \right) \times 100
 $$
 
-Jika seorang calon guru mendapatkan total skor 15 dari maksimal 20: $\text{Nilai} = \frac{15}{20} \times 100 = 75$
+Jika seorang calon guru mendapatkan total skor 15 dari maksimal 20, hitungannya menjadi $\text{Nilai} = \frac{15}{20} \times 100 = 75$
 
 *Analisis Kompetensi Penilaian: Apakah skor kuantitatif 75 sudah memadai untuk mengonfirmasi kompetensi mengajar? Ataukah terdapat indikator prasyarat mutlak (seperti penguasaan materi) yang jika bernilai rendah akan menggugurkan indikator lainnya?*
 
@@ -80,17 +80,17 @@ Jika seorang calon guru mendapatkan total skor 15 dari maksimal 20: $\text{Nilai
 **Proses yang Terjadi:**
 
 1. **Pra-Observasi:** Andi memberi tahu Budi, *"Tolong fokus pada gerakan tubuh dan kontak mata saya, karena saya merasa sering terpaku di depan papan tulis."*
-2. **Saat Observasi:** Budi tidak hanya memberi nilai, tapi mencatat: *"Menit ke-1 sampai ke-7, Andi berdiri di pojok kiri. Menit ke-8 baru mulai berjalan ke arah siswa."*
+2. **Saat Observasi:** Budi memberi nilai sekaligus mencatat *"Menit ke-1 sampai ke-7, Andi berdiri di pojok kiri. Menit ke-8 baru mulai berjalan ke arah siswa."*
 3. **Pasca-Observasi:** Budi menunjukkan instrumen tersebut. Andi melihat data objektif bahwa ia memang "terpaku" di satu titik selama 70% durasi mengajar.
 
-**Hasil:** Andi tidak merasa tersinggung karena ada **bukti data**, bukan sekadar opini Budi.
+**Hasil:** Andi tidak merasa tersinggung karena masukan Budi bersandar pada **bukti data**.
 
 ## 7. Tips Bagi Pengamat (Sejawat)
 
-Menjadi pengamat bukan berarti menjadi kritikus yang kejam, tetapi juga bukan berarti menjadi teman yang "terlalu baik" sehingga menyembunyikan kelemahan.
+Pengamat yang baik bersikap jujur tanpa menjadi kritikus yang kejam, dan ia tidak menyembunyikan kelemahan rekannya demi menjadi teman yang "terlalu baik".
 
 - **Fokus pada Indikator:** Jangan menilai kepribadian, nilailah perilaku mengajar yang tampak.
-- **Catat Waktu:** Menghubungkan kejadian dengan durasi (misal: "Guru berbicara sendiri selama 5 menit tanpa interaksi") efektif untuk refleksi.
+- **Catat Waktu:** Menghubungkan kejadian dengan durasi (misalnya "Guru berbicara sendiri selama 5 menit tanpa interaksi") efektif untuk refleksi.
 - **Hindari "Halo Effect":** Jangan memberikan nilai tinggi pada semua aspek hanya karena guru tersebut sangat menguasai materi, padahal manajemen kelasnya buruk.
 
 > **Pesan Penting:** Instrumen observasi adalah alat bantu pertumbuhan. Data yang jujur dan akurat membantu rekan sejawat kamu menjadi pendidik yang lebih baik.

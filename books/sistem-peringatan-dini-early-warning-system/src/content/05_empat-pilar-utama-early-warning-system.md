@@ -1,6 +1,6 @@
 ## Empat Pilar Utama Early Warning System
 
-Memahami **empat pilar early warning system** membantu kamu melihat mengapa sistem peringatan dini tidak bisa direduksi menjadi sensor dan sirene saja. Banyak kegagalan EWS bukan karena teknologi tidak ada, tapi karena satu pilar dibiarkan lemah sementara pilar lain diperkuat berlebihan. Daftar periksa yang disiapkan sekretariat Konferensi Internasional Ketiga tentang Peringatan Dini (EWC III, Bonn, 2006), dengan masukan dari UN/ISDR, menyusun EWS *people-centred* di atas empat elemen: pengetahuan risiko, layanan pemantauan dan peringatan, komunikasi dan diseminasi peringatan, serta kapasitas respons masyarakat.
+Memahami **empat pilar early warning system** membantu kamu melihat mengapa sistem peringatan dini tidak bisa direduksi menjadi sensor dan sirene saja. Banyak kegagalan EWS terjadi saat teknologinya sudah tersedia. Penyebabnya, satu pilar dibiarkan lemah sementara pilar lain diperkuat berlebihan. Daftar periksa yang disiapkan sekretariat Konferensi Internasional Ketiga tentang Peringatan Dini (EWC III, Bonn, 2006), dengan masukan dari UN/ISDR, menyusun EWS *people-centred* di atas empat elemen, mulai dari pengetahuan risiko, layanan pemantauan dan peringatan, komunikasi dan diseminasi peringatan, sampai kapasitas respons masyarakat.
 
 > Sistem peringatan dini yang lengkap dan efektif terdiri atas empat elemen yang saling terkait, mulai dari pengetahuan tentang bahaya dan kerentanan hingga kesiapsiagaan dan kapasitas untuk merespons. Kelemahan atau kegagalan pada satu bagian dapat mengakibatkan kegagalan seluruh sistem.
 > - UN/ISDR, *Developing Early Warning Systems: A Key Checklist* (EWC III, 2006)
@@ -18,7 +18,7 @@ Pilar pertama adalah fondasi. Pengetahuan risiko menggabung *bahaya*, *kerentana
 Langkah praktis:
 
 * **Inventarisasi bahaya** berbasis data historis seperti katalog gempa 50 tahun.
-* **Analisis kerentanan spesifik lokasi**. Di pesisir, kerentanan ditentukan elevasi dan akses jalan, bukan hanya jarak dari pantai.
+* **Analisis kerentanan spesifik lokasi**. Di pesisir, jarak dari pantai belum cukup untuk menilai kerentanan. Elevasi dan akses jalan ikut menentukannya.
 * **Pemetaan paparan** untuk sekolah, puskesmas, dan permukiman padat.
 * **Pembaruan berkala**, karena urbanisasi dapat mengubah peta risiko dalam 5 sampai 10 tahun.
 
@@ -28,7 +28,7 @@ Di Jepang, peta risiko tsunami berbasis skenario megathrust menentukan penempata
 
 Pilar kedua adalah sistem saraf EWS. Tugasnya mendeteksi anomali dan memutuskan kapan peringatan dikeluarkan.
 
-Fungsinya terbagi dua: *monitoring* kontinu dan *forecasting* prediktif. Monitoring mengumpulkan data real time dari seismometer, tide gauge, atau radar cuaca. Forecasting mengolahnya menjadi prakiraan dengan *lead time* cukup untuk bertindak.
+Ada dua fungsi di sini, *monitoring* kontinu dan *forecasting* prediktif. Monitoring mengumpulkan data real time dari seismometer, tide gauge, atau radar cuaca. Forecasting mengolahnya menjadi prakiraan dengan *lead time* cukup untuk bertindak.
 
 Karakteristik layanan yang kuat:
 
@@ -37,7 +37,7 @@ Karakteristik layanan yang kuat:
 * **Redundansi**. Satu sensor mati tidak boleh membuat sistem buta.
 * **Validasi silang** untuk menekan *false alarm*.
 
-*InaTEWS* mengintegrasikan data seismik, buoy, dan tide gauge untuk estimasi tinggi gelombang tsunami. Untuk banjir, sistem di DAS Bengawan Solo memakai radar dan model hidrologi untuk prediksi 6 sampai 12 jam sebelumnya. Kelemahan sering ada pada pemeliharaan: baterai tidak diganti atau jaringan putus.
+*InaTEWS* mengintegrasikan data seismik, buoy, dan tide gauge untuk estimasi tinggi gelombang tsunami. Untuk banjir, sistem di DAS Bengawan Solo memakai radar dan model hidrologi untuk prediksi 6 sampai 12 jam sebelumnya. Kelemahan sering ada pada pemeliharaan, misalnya baterai tidak diganti atau jaringan putus.
 
 ### 3. Diseminasi dan Komunikasi (*Dissemination and Communication*)
 
@@ -50,7 +50,7 @@ Elemen kunci:
 * **Bahasa dan format lokal**. Gunakan bahasa daerah dan simbol visual untuk wilayah literasi terbatas.
 * **Kepercayaan sumber**. Warga lebih patuh pada kepala desa atau relawan yang dikenal.
 
-Di Filipina, peringatan siklon dari PAGASA disederhanakan menjadi kode warna per dusun dan disebar via radio. Model serupa ada di lereng Merapi, tempat HT dan kentongan menjadi cadangan saat listrik padam. Ukur keberhasilan bukan dari jumlah SMS terkirim, tapi dari *waktu tiba pesan* dan *persentase warga yang tahu tindakan yang harus dilakukan*.
+Di Filipina, peringatan siklon dari PAGASA disederhanakan menjadi kode warna per dusun dan disebar via radio. Model serupa ada di lereng Merapi, tempat HT dan kentongan menjadi cadangan saat listrik padam. Ukur keberhasilan dari *waktu tiba pesan* dan *persentase warga yang tahu tindakan yang harus dilakukan*. Jumlah SMS terkirim belum menunjukkan hal itu.
 
 ### 4. Kapasitas Respons (*Response Capability*)
 
@@ -67,7 +67,7 @@ Di Kamaishi, Jepang, tingkat keselamatan siswa tinggi saat tsunami 2011 karena p
 
 ### Umpan Balik Antarpilar
 
-Keempat pilar bukan urutan linear, tapi *loop* umpan balik. Pengetahuan risiko mengarahkan penempatan sensor. Data monitoring memperkaya peta risiko. Diseminasi yang efektif meningkatkan kepatuhan evakuasi, dan pengalaman evakuasi memberi pelajaran untuk memperbaiki pesan dan peta.
+Keempat pilar membentuk *loop* umpan balik. Pengetahuan risiko mengarahkan penempatan sensor. Data monitoring memperkaya peta risiko. Diseminasi yang efektif meningkatkan kepatuhan evakuasi, dan pengalaman evakuasi memberi pelajaran untuk memperbaiki pesan dan peta.
 
 Arah umpan balik antarpilar itu tergambar pada skema berikut.
 
@@ -82,7 +82,7 @@ flowchart TD
     P4 -->|"pelajaran untuk peta"| P1
 ```
 
-Bayangkan banjir bandang di DAS kecil. Jika pilar 1 tidak mencatat permukiman baru di sempadan sungai, pilar 2 tidak akan memasang sensor di hulu DAS itu. Jika pilar 3 hanya pakai satu aplikasi ponsel, warga tanpa ponsel tidak terjangkau. Jika pilar 4 lemah karena jalur evakuasi tertutup longsor kecil yang tidak pernah disimulasikan, korban tetap jatuh. Karena itu perkuat pilar terlemah dahulu, bukan menambah sensor canggih saat jalur belum jelas.
+Bayangkan banjir bandang di DAS kecil. Jika pilar 1 tidak mencatat permukiman baru di sempadan sungai, pilar 2 tidak akan memasang sensor di hulu DAS itu. Jika pilar 3 hanya pakai satu aplikasi ponsel, warga tanpa ponsel tidak terjangkau. Jika pilar 4 lemah karena jalur evakuasi tertutup longsor kecil yang tidak pernah disimulasikan, korban tetap jatuh. Karena itu perkuat pilar terlemah dahulu, dan tunda penambahan sensor canggih selama jalur belum jelas.
 
 #### Tabel Indikator Kematangan Tiap Pilar
 
@@ -99,4 +99,4 @@ Gunakan tabel berikut sebagai *checklist* cepat. Beri skor 1 sampai 4 untuk tiap
 | **4. Response Capability** | Jalur evakuasi bertanda | Foto + peta jalur | Rambu di semua jalur |
 | **4. Response Capability** | Simulasi partisipatif | Berita acara | 1 simulasi per 6 bulan |
 
-Saat kamu mengisi tabel ini bersama BPBD dan perwakilan warga, kesenjangan antarpilar langsung terlihat. Dengan begitu **empat pilar early warning system** tidak berhenti sebagai konsep, tapi menjadi sistem yang memberi waktu menyelamatkan nyawa.
+Saat kamu mengisi tabel ini bersama BPBD dan perwakilan warga, kesenjangan antarpilar langsung terlihat. Dengan begitu **empat pilar early warning system** hidup sebagai sistem yang memberi waktu menyelamatkan nyawa.

@@ -10,13 +10,13 @@ Mereka yang menonjol di area ini cenderung memandang dunia sebagai teka-teki yan
 
 Selain itu, ada semacam dorongan alamiah untuk mengklasifikasi sesuatu. Informasi yang masuk tak dibiarkan menumpuk berantakan; semuanya langsung dipilah ke dalam skema atau hierarki logis. Ciri lainnya adalah kegemaran bereksperimen. Mereka suka mengotak-atik variabel, merangkai tebakan kausalitas langsung di lapangan demi membuktikan hipotesis, dan betah menelusuri data kuantitatif dalam jumlah besar. Cara mereka merespons klaim juga kentara sekuensial. Mereka otomatis sangsi menghadapi rentetan informasi yang pijakan logikanya rapuh.
 
-> **Analogi:** Coba bayangkan cara kerja detektif semacam Sherlock Holmes. Saat ia masuk ke sebuah ruangan, ia tidak sekadar memandang perabotan. Ruangan itu langsung terbaca sebagai urutan kejadian. Noda tanah di ujung sepatu dikaitkan dengan rute jalan tertentu, hingga tersusun sebuah rentetan kronologi utuh. Realitas bagi pikiran analitis adalah rantai sebab dan akibat yang terus menyambung.
+> **Analogi:** Coba bayangkan cara kerja detektif semacam Sherlock Holmes. Saat ia masuk ke sebuah ruangan, perabotan di sana langsung terbaca sebagai urutan kejadian. Noda tanah di ujung sepatu dikaitkan dengan rute jalan tertentu, hingga tersusun sebuah rentetan kronologi utuh. Realitas bagi pikiran analitis adalah rantai sebab dan akibat yang terus menyambung.
 
 ### 2. Induksi dan Deduksi
 
 Dua dasar penalaran matematis adalah deduksi dan induksi.
 
-**Penalaran Deduktif (Top-Down)** adalah cara menarik kesimpulan spesifik dari premis universal. Di sinilah kepastian logika diuji. Aturannya ketat: Jika $A = B$ dan $B = C$, mutlak berlaku $A = C$. Pola ini sering dicontohkan lewat silogisme klasik. Kita berangkat dari kepastian seperti "Semua manusia pada akhirnya akan mati." Ketika dihadapkan pada fakta "Socrates adalah manusia," hasil turunannya tak bisa digeser: Socrates pasti mati.
+**Penalaran Deduktif (Top-Down)** adalah cara menarik kesimpulan spesifik dari premis universal. Di sinilah kepastian logika diuji. Aturannya ketat. Jika $A = B$ dan $B = C$, mutlak berlaku $A = C$. Pola ini sering dicontohkan lewat silogisme klasik. Kita berangkat dari kepastian seperti "Semua manusia pada akhirnya akan mati." Ketika dihadapkan pada fakta "Socrates adalah manusia," hasil turunannya tak bisa digeser lagi. Socrates pasti mati.
 
 Di sisi lain, **Penalaran Induktif (Bottom-Up)** merangkai kejadian-kejadian parsial demi mencetak dalil umum. Kita merekam pengamatan harian, misalnya kenyataan bahwa matahari muncul dari balik ufuk timur sejak hari-hari sebelumnya. Dari akumulasi fenomena terpisah itu, ditariklah dalil umum bahwa secara konstan matahari terbit di arah timur.
 
@@ -63,13 +63,13 @@ Daya pikir ini dipakai jauh di luar ujian kalkulus. Ia menopang berbagai bidang 
 
 Di bidang ekonomi dan keuangan, instrumen kuantitatif dipakai untuk membaca tren bursa serta memetakan probabilitas risiko berdasarkan rasio dan statistik. Profesi pengolahan data memakai cara serupa; jutaan data mentah dirangkum jadi panduan langkah, seperti melacak persebaran epidemi berdasarkan kepadatan dan laju mobilitas harian penduduk.
 
-Bidang peradilan juga menuntut kemampuan ini. Praktisi hukum bertugas menyusun fakta yang tersebar di tumpukan berkas menjadi argumen yang saling mengikat dan tahan terhadap bantahan logis. Terakhir, di rekayasa sipil, kekokohan struktur besar seperti jembatan bergantung pada perhitungan ekuilibrium beban tegangan: $\sum F\_x = 0$, $\sum F\_y = 0$, dan $\sum M = 0$.
+Bidang peradilan juga menuntut kemampuan ini. Praktisi hukum bertugas menyusun fakta yang tersebar di tumpukan berkas menjadi argumen yang saling mengikat dan tahan terhadap bantahan logis. Terakhir, di rekayasa sipil, kekokohan struktur besar seperti jembatan bergantung pada perhitungan ekuilibrium beban tegangan berupa $\sum F\_x = 0$, $\sum F\_y = 0$, dan $\sum M = 0$.
 
 ### 6. Menjaga Kelincahan Penalaran
 
 Ada beragam cara santai untuk menjaga kelincahan penalaran. Mengamati pola deret angka bisa menjadi permulaan yang bagus.
 
-Coba lihat deret ini: $2, 6, 12, 20, 30, \dots$
+Coba lihat deret $2, 6, 12, 20, 30, \dots$
 Polanya terlihat dari selisih antarangka. Dari $2$ ke $6$ selisihnya $4$. Ke $12$ selisihnya $6$, lalu $8$, kemudian $10$. Selisih itu terus bertambah dua satuan. Jadi selisih berikutnya adalah $12$. Menambahkannya ke angka terakhir, $30$, menghasilkan $42$.
 
-Landasan logis-matematis tidak dimaksudkan sekadar melatih manusia berhitung secepat kalkulator saku. Intinya adalah kebiasaan mengajukan pertanyaan kritis, yaitu keinginan untuk menelisik **"Mengapa gejalanya begini?"** sebelum merunut satu per satu bukti penopangnya dengan sabar dan presisi.
+Pada intinya, landasan logis-matematis melatih kebiasaan mengajukan pertanyaan kritis, yaitu keinginan untuk menelisik **"Mengapa gejalanya begini?"** sebelum merunut satu per satu bukti penopangnya dengan sabar dan presisi.

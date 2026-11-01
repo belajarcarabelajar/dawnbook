@@ -32,7 +32,7 @@ Hingga saat ini, belum ada tes kecerdasan majemuk yang diakui secara universal d
 
 ## 3\. Respons Gardner dan Evolusi Pemikiran
 
-Howard Gardner tidak tinggal diam terhadap kritik tersebut. Ia melakukan beberapa klarifikasi penting yang mendefinisikan ulang teori ini di era modern. Ia menekankan bahwa kecerdasan adalah sebuah potensi biopsikologis untuk memproses informasi. Ini berarti kecerdasan merepresentasikan kapasitas saraf yang bisa diaktifkan oleh budaya atau lingkungan, lepas dari sekadar angka skor tes.
+Howard Gardner tidak tinggal diam terhadap kritik tersebut. Ia melakukan beberapa klarifikasi penting yang mendefinisikan ulang teori ini di era modern. Ia menekankan bahwa kecerdasan adalah sebuah potensi biopsikologis untuk memproses informasi. Ini berarti kecerdasan merepresentasikan kapasitas saraf yang bisa diaktifkan oleh budaya atau lingkungan.
 
 Gardner juga sering merasa keberatan apabila teorinya disamakan dengan gaya belajar. Menurutnya, kecerdasan adalah kemampuan memecahkan masalah, sementara gaya belajar adalah cara pendekatan yang disukai seseorang terhadap materi. Melabeli anak sebagai "pembelajar visual" justru berisiko membatasi eksplorasi potensi mereka di area lain.
 
@@ -42,7 +42,7 @@ Dunia telah banyak berubah sejak 1983. Teori Kecerdasan Majemuk memiliki peran d
 
 ### A. Neurodiversity (Keanekaragaman Saraf)
 
-Teori MI menjadi fondasi bagi gerakan inklusi. Fokusnya beralih pada bagaimana otak yang berbeda, termasuk individu dengan autisme atau ADHD, memiliki profil kecerdasan unik yang dapat berkontribusi pada masyarakat, bukannya sekadar mengotak-ngotakkan siapa yang pintar.
+Teori MI menjadi fondasi bagi gerakan inklusi. Fokusnya beralih pada bagaimana otak yang berbeda, termasuk individu dengan autisme atau ADHD, memiliki profil kecerdasan unik yang dapat berkontribusi pada masyarakat.
 
 ### B. Kecerdasan Majemuk dan Kecerdasan Buatan (AI)
 
@@ -56,7 +56,7 @@ Dengan bantuan pemrosesan data berskala besar, masa depan pendidikan memungkinka
 
 Sebuah sekolah dasar di Jakarta menerapkan kurikulum berbasis Kecerdasan Majemuk secara utuh. Namun, saat ujian terstandar yang mengandalkan kemampuan logis-matematis dan linguistik tiba, peringkat sekolah tersebut menurun drastis dibandingkan sekolah tradisional.
 
-Secara evaluatif, sekolah tersebut berhasil memfasilitasi bakat seni dan sosial siswanya. Sayangnya, mereka kurang berhasil memenuhi tuntutan standar sistem pendidikan yang masih berpusat pada parameter konvensional. Solusinya, sekolah tidak perlu membuang teori MI. Mereka dapat melakukan *bridge mapping*, yaitu menggunakan kekuatan kecerdasan dominan siswa, misalnya kecerdasan spasial, sebagai jembatan untuk membantu siswa menguasai materi yang diujikan seperti geometri.
+Secara evaluatif, sekolah tersebut berhasil memfasilitasi bakat seni dan sosial siswanya. Sayangnya, mereka kurang berhasil memenuhi tuntutan standar sistem pendidikan yang masih berpusat pada parameter konvensional. Solusinya, sekolah dapat mempertahankan teori MI sambil melakukan *bridge mapping*, yaitu menggunakan kekuatan kecerdasan dominan siswa, misalnya kecerdasan spasial, sebagai jembatan untuk membantu siswa menguasai materi yang diujikan seperti geometri.
 
 ## Ringkasan Evaluatif
 

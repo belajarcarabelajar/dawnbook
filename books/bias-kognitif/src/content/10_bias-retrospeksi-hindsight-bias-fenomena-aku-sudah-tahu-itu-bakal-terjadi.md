@@ -14,13 +14,13 @@ Begitu kita mengetahui hasil dari sebuah peristiwa, otak kita cenderung "menulis
 
 Otak manusia adalah mesin pencari pola. Ketika sesuatu terjadi, otak kita segera mencari penjelasan logis mengapa hal itu terjadi. Begitu penjelasan ditemukan, ingatan kita tentang ketidakpastian yang kita rasakan di masa lalu akan terhapus dan digantikan oleh narasi baru yang "masuk akal".
 
-> **Pesan Penting:** Bias retrospeksi tidak berarti kita berbohong kepada orang lain. Perilaku ini terjadi karena otak kita secara tidak sadar menipu diri sendiri mengenai kapasitas prediksi di masa lalu.
+> **Pesan Penting:** Dalam bias retrospeksi, otak kita secara tidak sadar menipu diri sendiri mengenai kapasitas prediksi di masa lalu. Orang yang mengalaminya tidak sedang berbohong kepada orang lain.
 
 ## Tiga Tingkatan Bias Retrospeksi
 
 Menurut penelitian psikologi, bias ini terjadi dalam tiga lapisan yang semakin mendalam:
 
-1. **Distorsi Memori (Memory Distortion):** Kita salah mengingat prediksi kita sebelumnya (misal: "Dulu aku bilang dia bakal putus," padahal sebenarnya kamu ragu-ragu).
+1. **Distorsi Memori (Memory Distortion):** Kita salah mengingat prediksi kita sebelumnya (misalnya berkata "Dulu aku bilang dia bakal putus," padahal sebenarnya kamu ragu-ragu).
 2. **Keniscayaan (Inevitability):** Kita percaya bahwa peristiwa itu *pasti* terjadi karena urutan kejadiannya terlihat sangat logis setelah semua fakta terungkap.
 3. **Kemampuan Prediksi (Predictability):** Kita secara pribadi percaya bahwa kita *bisa* atau *seharusnya* memprediksi peristiwa tersebut.
 
@@ -69,7 +69,7 @@ Bagaimana cara kita melihat dunia dengan lebih objektif?
 
 1. **Gunakan Jurnal Keputusan (Decision Journal):** Saat kamu membuat keputusan besar, tuliskan alasan kamu, apa yang kamu ketahui saat itu, dan apa ekspektasi kamu. Saat hasilnya keluar, baca kembali catatan tersebut untuk melihat seberapa jauh prediksi asli kamu dari kenyataan.
 2. **Pertimbangkan Alternatif (Consider the Opposite):** Secara aktif bayangkan hasil yang *tidak* terjadi. Tanyakan pada diri sendiri, *"Jika hasil yang berbeda terjadi, alasan apa yang akan saya gunakan untuk menjelaskannya?"*
-3. **Analisis Proses, Bukan Hasil:** Nilailah kualitas sebuah keputusan berdasarkan informasi yang tersedia pada saat keputusan itu dibuat, bukan berdasarkan apakah hasilnya bagus atau buruk.
+3. **Nilai Prosesnya:** Nilailah kualitas sebuah keputusan berdasarkan informasi yang tersedia pada saat keputusan itu dibuat. Bagus atau buruknya hasil tidak menjadi ukuran.
 
 *Coba ingat kembali satu kegagalan besar dalam hidup kamu. Apakah kamu benar-benar bisa memprediksinya saat itu, ataukah kamu hanya merasa bisa memprediksinya sekarang karena kamu sudah tahu hasilnya?*
 

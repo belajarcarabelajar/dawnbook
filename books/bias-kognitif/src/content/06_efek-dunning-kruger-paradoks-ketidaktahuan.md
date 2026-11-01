@@ -23,7 +23,7 @@ Orang yang tidak kompeten sering kali kekurangan dua hal sekaligus:
 
 ## 2\. Grafik Perjalanan Pengetahuan
 
-Untuk memahami Dunning-Kruger Effect, bayangkan sebuah grafik dengan dua sumbu: **Kepercayaan Diri** (Confidence) di sumbu $y$ dan **Kompetensi** (Knowledge/Experience) di sumbu $x$.
+Untuk memahami Dunning-Kruger Effect, bayangkan sebuah grafik dengan **Kepercayaan Diri** (Confidence) di sumbu $y$ dan **Kompetensi** (Knowledge/Experience) di sumbu $x$.
 
 $$
 \text{Kepercayaan Diri} = f(\text{Kompetensi})
@@ -53,7 +53,7 @@ flowchart TD
 
 Ini adalah kisah klasik yang menginspirasi Dunning dan Kruger. Pada tahun 1995, seorang pria bernama McArthur Wheeler merampok dua bank di Pittsburgh tanpa topeng. Dia justru tersenyum ke arah kamera CCTV.
 
-Ketika polisi menangkapnya, dia terkejut dan bergumam: *"Tapi saya sudah memakai jusnya!"*
+Ketika polisi menangkapnya, dia terkejut dan bergumam, *"Tapi saya sudah memakai jusnya!"*
 
 **Logikanya:** Wheeler tahu bahwa jus lemon bisa digunakan sebagai tinta rahasia yang tidak terlihat. Dia berasumsi bahwa dengan membasuh wajahnya dengan jus lemon, wajahnya akan menjadi tidak terlihat oleh kamera. Dia sangat yakin dengan "teorinya" sehingga dia tidak merasa perlu memakai penutup wajah. Inilah contoh ekstrem ketika ketidaktahuan total disertai dengan kepercayaan diri yang absolut.
 
@@ -84,7 +84,7 @@ Meskipun kita semua rentan terhadap bias ini, ada langkah-langkah untuk meminima
 
 - **Terus Belajar dan Bertanya:** Semakin banyak kamu tahu, semakin kamu sadar akan apa yang belum kamu ketahui.
 - **Cari Umpan Balik (Feedback):** Mintalah kritik jujur dari orang-orang yang lebih ahli dari kamu. Jangan membela diri saat diberi masukan.
-- **Gunakan "Pikiran Pemula" (Beginner's Mind):** Dekati setiap topik dengan rasa ingin tahu, bukan dengan niat untuk membuktikan bahwa kamu sudah tahu.
+- **Gunakan "Pikiran Pemula" (Beginner's Mind):** Dekati setiap topik dengan rasa ingin tahu, dan lepaskan niat untuk membuktikan bahwa kamu sudah tahu.
 - **Audit Diri Sendiri:** Tanyakan, *"Apa bukti objektif bahwa saya ahli dalam hal ini?"* Jika buktinya hanya perasaanmu sendiri, kamu mungkin sedang berada di Puncak Gunung Kebodohan.
 
 **Pesan Utama:**

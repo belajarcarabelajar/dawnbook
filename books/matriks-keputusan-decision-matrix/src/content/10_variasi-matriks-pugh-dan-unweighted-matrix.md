@@ -1,6 +1,6 @@
 ## Variasi Matriks Pugh dan Unweighted Matrix
 
-Setelah memahami anatomi dasar dan cara menghitung bobot dalam matriks keputusan, mungkin kamu bertanya: apakah setiap keputusan butuh bobot yang rumit? Jawabannya adalah tidak.
+Setelah memahami anatomi dasar dan cara menghitung bobot dalam matriks keputusan, mungkin kamu bertanya, apakah setiap keputusan butuh bobot yang rumit? Jawabannya adalah tidak.
 
 Dalam dunia pengambilan keputusan profesional, kita mengenal berbagai variasi matriks yang disesuaikan dengan tingkat kompleksitas masalah dan ketersediaan data. Dua variasi yang paling sering digunakan selain Matriks Keputusan Berbobot (*weighted decision matrix*) adalah **unweighted matrix** dan **Matriks Pugh**.
 
@@ -47,7 +47,7 @@ Setiap alternatif dibandingkan dengan datum pada tiap kriteria menggunakan simbo
 
 #### Contoh Visual Sederhana
 
-Jika kamu ingin mengganti perangkat lunak manajemen proyek (datum: Software Lama):
+Jika kamu ingin mengganti perangkat lunak manajemen proyek, software lama menjadi datumnya:
 
 | Kriteria | Software A | Software B | Datum (Lama) |
 | --- | --- | --- | --- |
@@ -58,7 +58,7 @@ Jika kamu ingin mengganti perangkat lunak manajemen proyek (datum: Software Lama
 | **Total (-) / Minus** | 1 | 0 | - |
 | **Skor Net** | **+1** | **+2** | - |
 
-*Analogi: Bayangkan kamu sedang mencoba sepatu baru. Kamu tidak memberikan skor 85 untuk kenyamanannya, melainkan merasakannya sambil berpikir, "Sepatu ini jauh lebih empuk (+) daripada sepatu lamaku, tapi talinya lebih susah diikat (-)."*
+*Analogi: Bayangkan kamu sedang mencoba sepatu baru. Kamu merasakannya sambil berpikir, "Sepatu ini jauh lebih empuk (+) daripada sepatu lamaku, tapi talinya lebih susah diikat (-)." Skor seperti 85 untuk kenyamanannya tidak kamu berikan.*
 
 #### Keunggulan Matriks Pugh
 
@@ -81,14 +81,14 @@ Jika kamu ingin mengganti perangkat lunak manajemen proyek (datum: Software Lama
 
 1. **Tahap 1 (Menggunakan Unweighted Matrix)**: Tim memiliki 10 kandidat bahasa. Mereka menggunakan unweighted matrix dengan kriteria "Populasi Developer", "Kecepatan Eksekusi", dan "Dokumentasi". Tujuannya hanya untuk menyaring menjadi 3 besar secara cepat.
 2. **Tahap 2 (Menggunakan Matriks Pugh)**: Dari 3 besar tersebut, mereka membandingkannya dengan bahasa pemrograman yang mereka gunakan sekarang (**datum**).
-   - *Sebagai bahan refleksi: Apakah bahasa baru ini benar-benar memberikan nilai tambah (+) yang nyata dibandingkan bahasa yang kita gunakan sekarang, atau kita hanya mengikuti tren?*
+   - *Sebagai bahan refleksi, apakah bahasa baru ini benar-benar memberikan nilai tambah (+) yang nyata dibandingkan bahasa yang kita gunakan sekarang, atau kita hanya mengikuti tren?*
 3. **Tahap 3 (Keputusan Akhir)**: Jika hasil Matriks Pugh menunjukkan persaingan ketat, tim akan beralih ke **Matriks Keputusan Berbobot** (yang telah dibahas di bagian sebelumnya) untuk menghitung secara lebih akurat dampak finansial dan teknis jangka panjang.
 
 ### Tips Implementasi untuk Berbagai Tipe Pembelajar
 
 - **Pembelajar Visual**: Coba gunakan kode warna saat mengisi Matriks Pugh. Menggunakan warna hijau untuk (+), merah untuk (-), dan kuning untuk (S) membantu kamu mengenali alternatif terbaik dengan cepat lewat pola warna.
 - **Pembelajar Kinestetik**: Saat berdiskusi dengan tim, manfaatkan *post-it notes* di papan tulis. Secara fisik, memindahkan alternatif dengan banyak nilai minus (-) ke bagian bawah papan memperkuat proses eliminasi dalam pikiran.
-- **Pembelajar Auditori**: Ucapkan perbandingannya secara lantang sewaktu mengisi matriks. Sebagai contoh: *"Sistem baru ini lebih hemat memori dibanding sistem lama, jadi kita beri nilai Plus."*
+- **Pembelajar Auditori**: Ucapkan perbandingannya secara lantang sewaktu mengisi matriks. Misalnya, *"Sistem baru ini lebih hemat memori dibanding sistem lama, jadi kita beri nilai Plus."*
 
 > [!NOTE]
-> **Wawasan Penting:** Tidak ada satu matriks yang paling benar. Sering kali, keputusan yang baik dicapai dengan memakai variasi matriks secara bertahap: mulai dari yang sederhana (unweighted) untuk menyaring, hingga yang mendalam (Weighted) untuk menetapkan pilihan terbaik.
+> **Wawasan Penting:** Tidak ada satu matriks yang paling benar. Sering kali, keputusan yang baik dicapai dengan memakai variasi matriks secara bertahap, mulai dari yang sederhana (unweighted) untuk menyaring, hingga yang mendalam (Weighted) untuk menetapkan pilihan terbaik.

@@ -2,7 +2,7 @@
 
 Pernahkah kamu heran mengapa kita sering kali mengabaikan diskon besar di akhir bulan, tetapi langsung bereaksi pada label merah "Sisa 1 Barang!"? Atau mengapa kita tetap menggunakan listrik secara boros padahal kita tahu tagihannya akan mahal di akhir bulan?
 
-Jawabannya terletak pada **Salience** (keterlihatan/kemencolokan) dan bagaimana **Struktur Insentif** dirancang. Dalam Arsitektur Pilihan, memberikan insentif saja tidak cukup. Insentif tersebut harus cukup menonjol agar ditangkap oleh **Sistem 1** kita yang intuitif dan cepat.
+Jawabannya terletak pada **Salience** (keterlihatan/kemencolokan) dan bagaimana **Struktur Insentif** dirancang. Dalam Arsitektur Pilihan, insentif harus cukup menonjol agar ditangkap oleh **Sistem 1** kita yang intuitif dan cepat.
 
 ## 1. Memahami Salience
 
@@ -44,7 +44,7 @@ Untuk membuat sebuah pilihan atau konsekuensi menjadi lebih menonjol, arsitek pi
 
 1. **Penyajian Visual (Vividness).** Menggunakan warna mencolok, ukuran kontras, atau gambar emosional untuk menarik perhatian secara instan.
 2. **Menyederhanakan Informasi.** Kita perlu menyingkirkan detail yang tidak perlu (*noise*) agar fokus tertuju pada satu angka atau dampak paling utama.
-3. **Umpan Balik Seketika (Real-Time Feedback).** Informasi penting sebaiknya disodorkan tepat saat keputusan diambil, bukan sebulan setelahnya ketika efeknya sudah terlambat.
+3. **Umpan Balik Seketika (Real-Time Feedback).** Informasi penting sebaiknya disodorkan tepat saat keputusan diambil. Sebulan kemudian, efeknya sudah terlambat.
 
 ### Mengubah Insentif Menjadi Salient
 
@@ -91,7 +91,7 @@ Tujuanmu adalah membuat pengemudi berkendara lebih hemat energi. Jika kamu hanya
 
 ## 6. Mengamati Sekitar
 
-Coba buka salah satu aplikasi kesehatan atau keuangan di ponselmu. Lihat bagaimana mereka menyajikan data: apakah berupa deretan angka kecil yang membosankan, atau grafik mencolok yang langsung memperingatkanmu saat melampaui batas? Amati elemen mana yang paling berhasil memicu tindakanmu.
+Coba buka salah satu aplikasi kesehatan atau keuangan di ponselmu. Lihat bagaimana mereka menyajikan data. Apakah berupa deretan angka kecil yang membosankan, atau grafik mencolok yang langsung memperingatkanmu saat melampaui batas? Amati elemen mana yang paling berhasil memicu tindakanmu.
 
 > **Pesan Utama:** Jika kamu ingin mendorong suatu tindakan, buatlah manfaatnya terlihat mencolok secara instan. Sebaliknya, jika ingin mencegah tindakan tersebut, buat hambatan atau biayanya tampak menonjol dan nyata di depan mata.
 

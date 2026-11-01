@@ -1,6 +1,6 @@
 ## Akar Filosofis Aristoteles
 
-Jika kita berbicara tentang karakter dan moralitas, kita tidak bisa mengabaikan sosok yang meletakkan batu pertama dari fondasi ini: **Aristoteles**.
+Jika kita berbicara tentang karakter dan moralitas, kita tidak bisa mengabaikan **Aristoteles**, sosok yang meletakkan batu pertama dari fondasi ini.
 
 Dalam bagian ini, kita akan membahas karya utamanya, *Nicomachean Ethics*, dan memahami mengapa perspektifnya mengubah cara manusia memandang kebaikan selama lebih dari dua milenium.
 
@@ -8,13 +8,13 @@ Dalam bagian ini, kita akan membahas karya utamanya, *Nicomachean Ethics*, dan m
 
 Bayangkan kamu sedang melihat seorang pengukir kayu yang sangat mahir. Apakah dia menjadi mahir karena dia menghafal buku panduan tentang cara memahat? Ataukah karena dia telah melatih tangannya, matanya, dan seleranya selama bertahun-tahun hingga kemampuan itu menjadi bagian dari dirinya?
 
-Aristoteles percaya bahwa menjadi "orang baik" mirip dengan menjadi pengukir mahir tersebut. Moralitas bukanlah tentang mengikuti daftar panjang aturan "Jangan lakukan ini" atau "Lakukan itu". Sebaliknya, moralitas adalah tentang **menjadi jenis orang tertentu**.
+Aristoteles percaya bahwa menjadi "orang baik" mirip dengan menjadi pengukir mahir tersebut. Baginya, moralitas adalah soal **menjadi jenis orang tertentu**. Daftar panjang aturan "Jangan lakukan ini" atau "Lakukan itu" tidak menjadi pusatnya.
 
 ### Nicomachean Ethics
 
 Karya utama Aristoteles tentang etika disebut *Ethica Nicomachea* (Nicomachean Ethics). Nama ini diambil dari putranya (atau ayahnya), Nicomachus.
 
-Dalam buku ini, Aristoteles tidak bertanya, *"Apa kewajiban saya?"* melainkan bertanya:
+Dalam buku ini, Aristoteles mengajukan dua pertanyaan yang berangkat dari tujuan hidup, jauh dari soal *"Apa kewajiban saya?"*:
 
 > "Apa tujuan akhir dari hidup manusia (Telos)?" dan "Karakter seperti apa yang harus saya miliki untuk mencapainya?"
 
@@ -63,13 +63,13 @@ Dalam dunia kerja atau organisasi saat ini, kita sering terjebak pada KPI (Key P
 
 **Skenario:** Seorang manajer menghadapi situasi ketika ia bisa memanipulasi laporan untuk mendapatkan bonus tim (mengikuti aturan "mencapai target"), atau jujur meskipun bonus tersebut hilang (mengikuti kebajikan kejujuran).
 
-- **Perspektif Aristoteles:** Jika manajer tersebut memilih jujur, ia tidak hanya melakukan "hal yang benar", tetapi ia sedang **memperkuat otot kejujurannya**. Di masa depan, kejujuran akan menjadi sifat alaminya (karakter), bukan lagi sebuah beban keputusan yang sulit.
+- **Perspektif Aristoteles:** Jika manajer tersebut memilih jujur, ia melakukan "hal yang benar" sekaligus **memperkuat otot kejujurannya**. Di masa depan, kejujuran akan menjadi sifat alaminya (karakter), dan keputusan seperti ini tidak lagi terasa sebagai beban yang sulit.
 
 ### Rangkuman Akar Filosofis
 
 - **Karya Utama:** *Nicomachean Ethics* sebagai fondasi utama.
 - **Telos:** Manusia memiliki tujuan hidup, yaitu hidup sesuai dengan akal budi yang unggul.
-- **Fokus Karakter:** Moralitas bukan tentang "apa yang boleh dilakukan", tapi tentang "siapa saya seharusnya".
+- **Fokus Karakter:** Moralitas berangkat dari pertanyaan "siapa saya seharusnya".
 - **Proses:** Kebajikan dipelajari lewat praktik dan pembiasaan, seperti halnya keterampilan (techne).
 
 > "Kita adalah apa yang kita kerjakan berulang kali. Maka, keunggulan bukanlah sebuah tindakan, melainkan sebuah kebiasaan." - Will Durant, *The Story of Philosophy* (1926), dalam ringkasannya atas ajaran Aristoteles tentang pembiasaan

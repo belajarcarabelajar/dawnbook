@@ -1,12 +1,12 @@
 ## Mengantisipasi Kesalahan (Expect Error)
 
-Bayangkan kamu baru saja selesai menarik uang di mesin ATM. Di tengah hiruk-pikuk kota dan pikiran yang sudah melayang ke agenda berikutnya, kamu mengambil uang tunai, memasukkannya ke dompet, dan langsung pergi. Tak lama kemudian, kamu menyadari masalahnya: **Kartu ATM-mu tertinggal di mesin.**
+Bayangkan kamu baru saja selesai menarik uang di mesin ATM. Di tengah hiruk-pikuk kota dan pikiran yang sudah melayang ke agenda berikutnya, kamu mengambil uang tunai, memasukkannya ke dompet, dan langsung pergi. Tak lama kemudian, kamu sadar **kartu ATM-mu tertinggal di mesin.**
 
-Skenario di atas adalah contoh klasik dari kegagalan desain yang tidak mengantisipasi kesalahan manusia. Dalam *Choice Architecture* (arsitektur pilihan), seorang *choice architect* (arsitek pilihan) tidak akan berasumsi bahwa pengguna akan selalu fokus dan rasional. Sebaliknya, mereka akan **berasumsi bahwa manusia pasti akan melakukan kesalahan** dan merancang sistem yang toleran terhadap kekeliruan tersebut.
+Skenario di atas adalah contoh klasik dari kegagalan desain yang tidak mengantisipasi kesalahan manusia. Dalam *Choice Architecture* (arsitektur pilihan), seorang *choice architect* (arsitek pilihan) **berasumsi bahwa manusia pasti akan melakukan kesalahan** dan merancang sistem yang toleran terhadap kekeliruan tersebut. Ia tidak mengandalkan pengguna untuk selalu fokus dan rasional.
 
 ## Mengapa Kita Melakukan Kesalahan?
 
-Manusia bukanlah *Econs* (makhluk fiktif yang selalu logis dan teliti). Kita adalah *Humans* yang dipandu oleh *System 1* (Sistem 1) yang cepat, impulsif, dan sering kali kurang memperhatikan detail teknis.
+*Econs* hanyalah makhluk fiktif yang selalu logis dan teliti. Kita adalah *Humans* yang dipandu oleh *System 1* (Sistem 1) yang cepat, impulsif, dan sering kali kurang memperhatikan detail teknis.
 
 Kesalahan sering terjadi karena adanya *Post-Completion Error*. Ini adalah kecenderungan otak kita untuk menganggap suatu tugas telah selesai setelah tujuan utama tercapai, sehingga kita melupakan langkah-langkah kecil setelahnya.
 
@@ -50,11 +50,11 @@ Misalnya, pipa oksigen memiliki bentuk konektor yang berbeda dengan pipa cairan 
 
 Pernahkah kamu menulis email yang menyebutkan "Saya lampirkan dokumen...", lalu menekan tombol kirim tanpa benar-benar melampirkan file?
 
-**Nudge pada Gmail:** Sistem mendeteksi kata "lampirkan" atau "attachment" di badan email. Jika kamu menekan *send* tanpa file, muncul kotak dialog: *"Kamu menyebutkan lampiran tetapi tidak ada file yang dilampirkan. Kirim saja?"* Ini adalah penerapan *Choice Architecture* yang mengantisipasi kelalaian *System 1* manusia.
+**Nudge pada Gmail:** Sistem mendeteksi kata "lampirkan" atau "attachment" di badan email. Jika kamu menekan *send* tanpa file, muncul kotak dialog berbunyi *"Kamu menyebutkan lampiran tetapi tidak ada file yang dilampirkan. Kirim saja?"* Ini adalah penerapan *Choice Architecture* yang mengantisipasi kelalaian *System 1* manusia.
 
 ## *Anticipatory Validation* di Kolom Email
 
-Di formulir daring, prinsip *Expect Error* bisa diwujudkan dengan validasi yang proaktif: isian diperiksa secara *real-time* saat pengguna masih mengetik, sehingga kesalahan pengiriman formulir dicegah sebelum terjadi. Contohnya pada kolom alamat email, dua mekanisme bekerja bersama:
+Di formulir daring, prinsip *Expect Error* bisa diwujudkan dengan validasi yang proaktif. Isian diperiksa secara *real-time* saat pengguna masih mengetik, sehingga kesalahan pengiriman formulir dicegah sebelum terjadi. Contohnya pada kolom alamat email, dua mekanisme bekerja bersama:
 
 | Mekanisme | Pemicu | Yang dilihat pengguna |
 | --- | --- | --- |
@@ -81,6 +81,6 @@ Ini berarti ada **23% kemungkinan terjadi kesalahan** secara keseluruhan. Dengan
 
 ## Desain yang Pemaaf
 
-Mengantisipasi kesalahan bukan berarti menganggap pengguna bodoh. Sebaliknya, ini adalah bentuk **empati dalam desain**. Dengan memahami keterbatasan kognitif manusia, kita dapat membangun lingkungan yang tidak hanya lebih aman, tetapi juga lebih nyaman digunakan.
+Mengantisipasi kesalahan adalah bentuk **empati dalam desain**. Desainer yang melakukannya tidak sedang menganggap pengguna bodoh. Dengan memahami keterbatasan kognitif manusia, kita dapat membangun lingkungan yang lebih aman sekaligus lebih nyaman digunakan.
 
 > **Penting:** *Choice Architecture* yang baik haruslah pemaaf. Kesalahan adalah bagian dari sifat manusia; desain yang buruk adalah desain yang membiarkan kesalahan tersebut berakibat serius.

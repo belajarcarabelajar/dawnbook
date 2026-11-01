@@ -1,6 +1,6 @@
 ## Karakteristik dan Prinsip Pembelajaran Mikro
 
-Filosofi dan sejarah *microteaching* sudah kita pahami, jadi sekarang saatnya melihat intinya: cara kerja pembelajaran mikro. Mengapa metode ini dianggap sebagai cara paling efektif untuk melatih calon guru? Jawabannya terletak pada satu kata kunci: **Penyederhanaan**.
+Filosofi dan sejarah *microteaching* sudah kita pahami, jadi sekarang saatnya melihat cara kerja pembelajaran mikro. Mengapa metode ini dianggap sebagai cara paling efektif untuk melatih calon guru? Kata kuncinya adalah **Penyederhanaan**.
 
 Bayangkan seorang calon pilot. Sebelum ia dipercaya menerbangkan pesawat komersial dengan 300 penumpang melintasi samudra, ia harus menghabiskan ratusan jam di dalam sebuah **Flight Simulator**. Di sana, variabel cuaca, kontrol mesin, dan navigasi bisa diatur dan disederhanakan.
 
@@ -8,14 +8,14 @@ Bayangkan seorang calon pilot. Sebelum ia dipercaya menerbangkan pesawat komersi
 
 ### 1. Konsep Penyederhanaan
 
-Pembelajaran mikro bukan sekadar mengajar dalam durasi pendek, melainkan sebuah desain instruksional yang sengaja diperkecil skalanya (*scaled-down teaching*). Ada tiga aspek utama dalam penyederhanaan ini:
+Pembelajaran mikro adalah sebuah desain instruksional yang sengaja diperkecil skalanya (*scaled-down teaching*), dan durasi yang pendek hanya salah satu bagiannya. Ada tiga aspek utama dalam penyederhanaan ini:
 
 #### A. Pembatasan Jumlah Siswa
 
 Dalam kelas normal, kamu mungkin menghadapi 30 hingga 40 siswa dengan berbagai karakter. Dalam *microteaching*, jumlah ini dipangkas secara drastis.
 
 - **Skala:** Biasanya hanya terdiri dari **5 hingga 10 orang** siswa (sering kali diperankan oleh teman sejawat atau *peer teaching*).
-- **Tujuan:** Mengurangi beban pengelolaan kelas (*classroom management*). Dengan jumlah siswa yang sedikit, kamu bisa lebih fokus pada bagaimana kamu mengajar, bukan bagaimana kamu menertibkan kelas.
+- **Tujuan:** Mengurangi beban pengelolaan kelas (*classroom management*). Dengan jumlah siswa yang sedikit, kamu bisa mencurahkan perhatian pada cara kamu mengajar karena beban menertibkan kelas ikut mengecil.
 
 #### B. Pembatasan Durasi Waktu
 
@@ -38,15 +38,15 @@ Agar proses simulasi ini bermakna, terdapat beberapa prinsip yang harus dipegang
 1. **Prinsip Fokus (Keterampilan Tunggal):** Konsentrasi penuh pada satu jenis keterampilan dasar mengajar. Jangan mencoba memperbaiki semua hal dalam satu sesi.
 2. **Prinsip Umpan Balik (Feedback):** Hasil dari pengajaran mikro harus segera didiskusikan. Tanpa umpan balik yang objektif (baik dari dosen pembimbing, rekan sejawat, maupun rekaman video), latihan ini kehilangan maknanya.
 3. **Prinsip Penguasaan (Mastery):** Latihan dilakukan hingga keterampilan tersebut benar-benar dikuasai. Jika sesi pertama belum berhasil, maka dilakukan siklus ulang (*re-teaching*).
-4. **Prinsip Observasi Objektif:** Penilaian didasarkan pada data yang terlihat selama praktik, bukan berdasarkan asumsi atau perasaan subjektif pengamat.
+4. **Prinsip Observasi Objektif:** Penilaian didasarkan pada data yang terlihat selama praktik. Asumsi atau perasaan subjektif pengamat tidak ikut dihitung.
 
-> **Insight Penting:** Pembelajaran mikro adalah lingkungan yang "aman untuk gagal". Di sini, kesalahan bukan merupakan kegagalan, melainkan data untuk perbaikan sebelum kamu terjun ke sekolah yang sebenarnya.
+> **Insight Penting:** Pembelajaran mikro adalah lingkungan yang "aman untuk gagal". Di sini, kesalahan diperlakukan sebagai data untuk perbaikan sebelum kamu terjun ke sekolah yang sebenarnya.
 
 ### 3. Latihan Dasar Pemain Basket
 
 Untuk memahami mengapa kita harus memecah-mecah keterampilan mengajar, mari gunakan analogi olahraga.
 
-Pemain basket profesional tidak hanya berlatih dengan cara bertanding 5-lawan-5 setiap hari. Mereka melakukan **Drill Spesifik**:
+Di luar pertandingan 5-lawan-5, pemain basket profesional menjalani **Drill Spesifik** seperti ini:
 
 - Selama 1 jam hanya berlatih *free throw*.
 - Selama 1 jam berikutnya hanya berlatih *dribbling* zigzag.
@@ -66,7 +66,7 @@ Mari kita lihat bagaimana karakteristik ini diterapkan dalam sebuah skenario nya
 	- **Siswa:** 6 orang teman sekelas Sarah.
 	- **Waktu:** 12 menit.
 	- **Target:** Sarah ingin melatih "Variasi Stimulus" (mengubah nada suara, berpindah posisi di kelas, dan menggunakan media visual secara bergantian).
-- **Proses:** Selama 12 menit, Sarah tidak terlalu mengkhawatirkan apakah seluruh materi fotosintesis selesai dibahas secara mendalam. Fokus utamanya adalah memastikan ia tidak berdiri mematung di depan kelas dan suaranya tidak monoton.
+- **Proses:** Selama 12 menit, fokus utama Sarah adalah memastikan ia tidak berdiri mematung di depan kelas dan suaranya tidak monoton. Apakah seluruh materi fotosintesis selesai dibahas secara mendalam tidak terlalu ia khawatirkan.
 - **Hasil:** Setelah 12 menit, rekan-rekannya memberikan catatan: *"Sarah sudah berpindah posisi dengan baik, tetapi nada suaranya di menit ke-8 mulai datar saat menjelaskan klorofil."* Inilah umpan balik yang spesifik dan berguna.
 
 ### 5. Mengapa Penyederhanaan Itu Efektif?
@@ -79,6 +79,6 @@ $$
 
 Jika $\text{Kompleksitas Variabel}$ terlalu tinggi (30 siswa, 90 menit, semua keterampilan), maka $\text{Kapasitas Fokus}$ kita akan pecah. Dengan mengecilkan pembilang (penyederhanaan), kita meningkatkan kualitas fokus pada setiap detail kecil yang sering terabaikan.
 
-*Simulasi Komparatif:* *Saat mengasah kemampuan berbicara di depan umum, manakah metode yang lebih efektif: Berpidato langsung di hadapan 1.000 pendengar selama satu jam, atau berlatih di depan 5 rekan sejawat selama 5 menit secara berulang dengan fokus khusus pada kontak mata?*
+*Simulasi Komparatif:* *Saat mengasah kemampuan berbicara di depan umum, manakah metode yang lebih efektif, berpidato langsung di hadapan 1.000 pendengar selama satu jam atau berlatih di depan 5 rekan sejawat selama 5 menit secara berulang dengan fokus khusus pada kontak mata?*
 
-**Kesimpulan:** Karakteristik utama pembelajaran mikro adalah **penyederhanaan**. Dengan membatasi jumlah siswa, durasi waktu, dan fokus keterampilan, kita menciptakan laboratorium yang terkontrol untuk mengasah kompetensi pedagogik. Sebelum kamu melangkah ke bagian "Keterampilan Dasar Mengajar", pastikan kamu telah merangkul konsep penyederhanaan ini sebagai kekuatan, bukan kekurangan.
+**Kesimpulan:** Karakteristik utama pembelajaran mikro adalah **penyederhanaan**. Dengan membatasi jumlah siswa, durasi waktu, dan fokus keterampilan, kita menciptakan laboratorium yang terkontrol untuk mengasah kompetensi pedagogik. Sebelum kamu melangkah ke bagian "Keterampilan Dasar Mengajar", pastikan kamu telah merangkul konsep penyederhanaan ini sebagai kekuatan.

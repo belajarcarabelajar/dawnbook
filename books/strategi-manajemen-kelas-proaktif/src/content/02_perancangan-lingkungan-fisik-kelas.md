@@ -2,7 +2,7 @@
 
 Bayangkan kamu masuk ke sebuah restoran. Jika meja-meja disusun terlalu rapat, kamu akan merasa sesak. Jika pelayan sulit menjangkau meja kamu karena terhalang dekorasi, layanan akan lambat. Sebaliknya, restoran yang dirancang dengan baik membuat aliran pergerakan terasa alami dan suasana menjadi nyaman.
 
-Sama halnya dengan ruang kelas. Lingkungan fisik bukan sekadar "dekorasi", melainkan **instrumen manajemen proaktif**. Lingkungan yang dirancang dengan cerdas dapat mengurangi gangguan perilaku bahkan sebelum kamu mengucapkan sepatah kata pun.
+Sama halnya dengan ruang kelas. Lingkungan fisiknya bekerja sebagai **instrumen manajemen proaktif**. Lingkungan yang dirancang dengan cerdas dapat mengurangi gangguan perilaku bahkan sebelum kamu mengucapkan sepatah kata pun.
 
 ## 1. Filosofi "Ruang sebagai Guru Ketiga"
 
@@ -18,9 +18,9 @@ Dalam dunia pendidikan, terdapat konsep dari pendekatan Reggio Emilia bahwa ling
 
 ## 2. Strategi Pengaturan Tata Letak Meja
 
-Tidak ada satu ukuran untuk semua. Tata letak meja harus mengikuti **tujuan instruksional** kamu, bukan sebaliknya.
+Tidak ada satu ukuran untuk semua. Tata letak meja harus mengikuti **tujuan instruksional** kamu.
 
-*Pertimbangkan hal berikut: Jika besok kamu akan mengadakan debat kelas, tata letak mana yang paling mendukung tujuan tersebut? Jika lusa adalah ujian akhir, apakah kamu akan tetap menggunakan tata letak yang sama?*
+*Jika besok kamu akan mengadakan debat kelas, tata letak mana yang paling mendukung tujuan tersebut? Jika lusa adalah ujian akhir, apakah kamu akan tetap menggunakan tata letak yang sama?*
 
 ## 3. Mengoptimalkan Aliran Pergerakan (Traffic Flow)
 
@@ -28,7 +28,7 @@ Gangguan sering terjadi saat siswa bergerak (transisi). Misalnya, saat mengambil
 
 ### Rumus Efisiensi Ruang
 
-Dalam teknik industri, kita bisa membayangkan efisiensi pergerakan ($E$) sebagai fungsi dari jarak ($d$) dan hambatan ($o$): $E \propto \frac{1}{\sum (d \cdot o)}$ *Semakin besar jarak dan hambatan, semakin rendah efisiensi dan semakin tinggi peluang terjadinya kekacauan.*
+Dalam teknik industri, kita bisa membayangkan efisiensi pergerakan ($E$) sebagai fungsi dari jarak ($d$) dan hambatan ($o$), yang bisa ditulis $E \propto \frac{1}{\sum (d \cdot o)}$. *Semakin besar jarak dan hambatan, semakin rendah efisiensi dan semakin tinggi peluang terjadinya kekacauan.*
 
 **Langkah Praktis:**
 
@@ -42,7 +42,7 @@ Manajemen kelas proaktif bertujuan agar siswa tidak selalu bergantung pada guru 
 
 - **Pemberian Label:** Gunakan label pada setiap kotak penyimpanan. Jika memungkinkan, gunakan gambar untuk siswa yang lebih muda.
 - **Stasiun Mandiri:** Buat satu area tempat siswa bisa mengambil pensil, kertas, atau pelubang kertas tanpa harus meminta izin.
-- **Visual Pengingat:** Letakkan instruksi prosedur (misal: "Cara Mengumpulkan Tugas") tepat di atas kotak pengumpulan.
+- **Visual Pengingat:** Letakkan instruksi prosedur (misalnya "Cara Mengumpulkan Tugas") tepat di atas kotak pengumpulan.
 
 **Real-world Application:**
 
@@ -50,7 +50,7 @@ Manajemen kelas proaktif bertujuan agar siswa tidak selalu bergantung pada guru 
 
 ## 5. Meminimalkan Distraksi Sensorik
 
-Lingkungan fisik bukan hanya tentang apa yang bisa disentuh, tapi juga apa yang dirasakan.
+Lingkungan fisik mencakup apa yang bisa disentuh sekaligus apa yang dirasakan.
 
 - **Dinding Kelas:** Jangan penuhi setiap inci dinding dengan poster. Siswa dengan ADHD atau autisme bisa mengalami *sensory overload*. Sisakan 20-30% ruang dinding tetap kosong (putih/netral).
 - **Pencahayaan:** Jika memungkinkan, gunakan cahaya alami. Cahaya lampu fluoresen yang terlalu terang dapat memicu kecemasan pada beberapa siswa.
@@ -62,7 +62,7 @@ Lingkungan fisik bukan hanya tentang apa yang bisa disentuh, tapi juga apa yang 
 
 **Solusi Proaktif (Perancangan Fisik):**
 
-1. Ibu Sari memindahkan kotak pengumpulan tugas ke **tengah-tengah jalur utama** kelas, bukan di mejanya.
+1. Ibu Sari memindahkan kotak pengumpulan tugas dari mejanya ke **tengah-tengah jalur utama** kelas.
 2. Ia membuat **tiga kotak berbeda** berdasarkan kelompok warna meja siswa.
 3. Ia mengatur meja menjadi bentuk **Stadium** agar ia bisa melihat siapa yang sedang bergerak dan memberikan sinyal nonverbal jika ada yang mulai gaduh.
 
@@ -76,6 +76,6 @@ Lingkungan fisik bukan hanya tentang apa yang bisa disentuh, tapi juga apa yang 
 - Apakah ada area khusus untuk siswa yang butuh ketenangan ekstra?
 - Jika saya adalah seorang siswa yang duduk di baris paling belakang, apakah saya bisa melihat papan tulis dengan jelas tanpa terhalang?
 
-> **Pesan Memorable:** "Tata letak kelas kamu adalah cetak biru dari perilaku yang kamu harapkan. Rancanglah untuk kesuksesan, bukan untuk kenyamanan penyimpanan semata."
+> **Pesan Memorable:** "Tata letak kelas kamu adalah cetak biru dari perilaku yang kamu harapkan. Rancanglah untuk kesuksesan, dan jangan menata ruang hanya demi kemudahan menyimpan barang."
 
 *Selanjutnya, kita akan membahas bagaimana mengisi ruang yang sudah dirancang ini dengan **Norma dan Kontrak Sosial** agar interaksi di dalamnya harmonis.*

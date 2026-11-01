@@ -1,6 +1,6 @@
 ## Kebangkitan Etika Kebajikan Kontemporer
 
-Selama berabad-abad, dunia filsafat moral didominasi oleh dua teori: **Deontologi** (yang berfokus pada kewajiban dan aturan) dan **Utilitarianisme**. Teori kedua itu berfokus pada konsekuensi dan hasil akhir. Namun, pada pertengahan abad ke-20, muncul sebuah kegelisahan. Para filsuf mulai merasa bahwa etika modern telah kehilangan sesuatu yang mendasar: manusia itu sendiri.
+Selama berabad-abad, dunia filsafat moral didominasi oleh dua teori, **Deontologi** (yang berfokus pada kewajiban dan aturan) dan **Utilitarianisme**. Teori kedua itu berfokus pada konsekuensi dan hasil akhir. Namun, pada pertengahan abad ke-20, muncul sebuah kegelisahan. Para filsuf mulai merasa bahwa etika modern telah kehilangan sesuatu yang paling mendasar, yakni manusia itu sendiri.
 
 Bagian ini mengeksplorasi bagaimana tradisi Aristotelian yang sempat "tertidur" bangkit kembali melalui pemikiran tokoh-tokoh seperti Elizabeth Anscombe dan Alasdair MacIntyre.
 
@@ -24,21 +24,21 @@ Jika Anscombe yang memulai, Alasdair MacIntyre adalah sosok yang membangunnya ke
 
 #### Hipotesis Malapetaka
 
-MacIntyre membuka bukunya dengan cerita fiksi ilmiah: bayangkan sebuah dunia ketika ilmu pengetahuan hancur akibat bencana. Orang-orang hanya memiliki fragmen alat laboratorium dan menghafal istilah sains tanpa benar-benar paham cara menggunakannya.
+MacIntyre membuka bukunya dengan cerita fiksi ilmiah tentang sebuah dunia ketika ilmu pengetahuan hancur akibat bencana. Orang-orang hanya memiliki fragmen alat laboratorium dan menghafal istilah sains tanpa benar-benar paham cara menggunakannya.
 
 Menurutnya, kondisi moralitas modern persis seperti itu. Kita fasih menggunakan kata-kata seperti "baik", "adil", dan "benar", tetapi kita telah kehilangan konteks sejarah maupun filosofis yang memberi makna pada kata-kata tersebut. Perdebatan moral modern pada akhirnya sering kali berujung pada argumen emosional tanpa penyelesaian.
 
 #### Kembali ke Narasi dan Praktik
 
-Untuk menghidupkan kembali kebajikan, MacIntyre memperkenalkan gagasan mengenai "Praktik" dan "Kesatuan Naratif". Ia menekankan bahwa kebajikan tidak pernah dipelajari di ruang hampa; ia senantiasa tumbuh dalam aktivitas sosial yang memiliki standar keunggulan internal. Sebagai contoh, dalam permainan catur, hadiah, uang, atau ketenaran hanyalah barang eksternal, sementara kemampuan berpikir strategis adalah keunggulan internal yang secara perlahan membangun karakter pemainnya.
+Untuk menghidupkan kembali kebajikan, MacIntyre memperkenalkan gagasan mengenai "Praktik" dan "Kesatuan Naratif". Ia menekankan bahwa kebajikan senantiasa tumbuh dalam aktivitas sosial yang memiliki standar keunggulan internal. Sebagai contoh, dalam permainan catur, hadiah, uang, atau ketenaran hanyalah barang eksternal, sementara kemampuan berpikir strategis adalah keunggulan internal yang secara perlahan membangun karakter pemainnya.
 
-Selain itu, MacIntyre memandang hidup manusia sebagai sebuah narasi yang utuh dan berkesinambungan, bukan sekadar rentetan kejadian acak yang terputus-putus. Sebuah tindakan hanya akan terasa maknanya jika diletakkan dalam konteks perjalanan menuju tujuan akhir yang ingin dicapai.
+Selain itu, MacIntyre memandang hidup manusia sebagai sebuah narasi yang utuh dan berkesinambungan. Sebuah tindakan hanya akan terasa maknanya jika diletakkan dalam konteks perjalanan menuju tujuan akhir yang ingin dicapai.
 
 ### 3\. Mengapa Etika Kebajikan Kembali Relevan?
 
 Alasan utama pemikiran kuno ini kembali mendapat tempat adalah kemampuannya menawarkan perspektif yang sering terabaikan oleh teori moral lainnya, terutama menyangkut peran emosi. Jika Deontologi ala Kant menuntut tindakan yang murni berlandaskan kewajiban logis tanpa melibatkan perasaan, etika kebajikan justru memandang emosi yang selaras, seperti rasa belas kasih, sebagai komponen tak terpisahkan dari karakter yang matang.
 
-Di dunia yang serba kompleks ini, aturan yang terlalu kaku kerap kali menemui kebuntuan. Etika kebajikan hadir lebih sebagai "kompas" karakter, alih-alih "peta" panduan yang membatasi. Pendekatan ini memungkinkan seseorang memiliki fleksibilitas di berbagai situasi sekaligus menjaga keutuhan dirinya, karena fokus utamanya adalah membentuk individu yang pikiran, emosi, dan tindakannya saling selaras.
+Di dunia yang serba kompleks ini, aturan yang terlalu kaku kerap kali menemui kebuntuan. Etika kebajikan hadir sebagai "kompas" karakter yang menunjukkan arah tanpa membatasi langkah. Pendekatan ini memungkinkan seseorang memiliki fleksibilitas di berbagai situasi sekaligus menjaga keutuhan dirinya, karena fokus utamanya adalah membentuk individu yang pikiran, emosi, dan tindakannya saling selaras.
 
 ### 4\. Perbandingan Paradigma
 
@@ -55,6 +55,6 @@ Kebangkitan etika kebajikan ini terasa di ranah praktik, misalnya dalam profesi 
 
 Jika berpegang teguh pada pendekatan berbasis aturan, sang dokter mungkin sekadar menyampaikan hasil rekam medis secara kaku atas nama prosedur. Di sisi lain, dokter dengan pola pikir utilitarian mungkin akan sibuk menimbang apakah memberi tahu kebenaran justru memperburuk kondisi psikologis pasien, sehingga ia memanipulasi informasi demi "kebaikan yang lebih besar".
 
-Namun, dokter yang mempraktikkan etika kebajikan akan berpikir dengan cara yang berbeda. Ia bertanya pada dirinya sendiri mengenai bagaimana seharusnya sikap seorang tenaga medis yang memiliki kebijaksanaan (*Phronesis*) dan kelembutan hati. Keunggulan moralnya tidak berhenti pada resep yang ia tulis. Karakter tersebut terlihat dalam kemampuannya menempatkan kejujuran profesional bersisian dengan empati kemanusiaan.
+Namun, dokter yang mempraktikkan etika kebajikan akan berpikir dengan cara yang berbeda. Ia bertanya pada dirinya sendiri mengenai bagaimana seharusnya sikap seorang tenaga medis yang memiliki kebijaksanaan (*Phronesis*) dan kelembutan hati. Keunggulan moralnya terlihat dalam kemampuannya menempatkan kejujuran profesional bersisian dengan empati kemanusiaan.
 
-Pada akhirnya, kebangkitan etika kebajikan kontemporer mengembalikan perhatian kita pada manusia itu sendiri. Membentuk karakter agar hidup menjadi lebih bermakna adalah proses seumur hidup. Moralitas tidak lagi dilihat sebagai upaya melelahkan untuk terus menjadi pengawas bagi diri sendiri, tetapi sebagai perjalanan untuk mewujudkan potensi terbaik sebagai seorang manusia.
+Pada akhirnya, kebangkitan etika kebajikan kontemporer mengembalikan perhatian kita pada manusia itu sendiri. Membentuk karakter agar hidup menjadi lebih bermakna adalah proses seumur hidup. Dalam cara pandang ini, moralitas menjadi perjalanan untuk mewujudkan potensi terbaik sebagai seorang manusia, dan kita berhenti memperlakukannya sebagai upaya melelahkan untuk terus mengawasi diri sendiri.

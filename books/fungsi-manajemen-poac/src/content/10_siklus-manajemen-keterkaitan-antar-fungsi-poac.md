@@ -2,7 +2,7 @@
 
 Setelah kita membedah satu per satu fungsi manajemen dari *Planning* hingga *Controlling*, mungkin muncul sebuah pertanyaan di benakmu. *Apakah fungsi-fungsi ini berjalan secara terpisah?* Jawabannya adalah **tidak**.
 
-Bayangkan sebuah orkestra simfoni. Pemain biola, peniup trompet, dan dirigen tidak bekerja sendiri-sendiri tanpa koordinasi. Musik terdengar padu karena para pemain bermain serempak. Begitu pula dalam organisasi, POAC bekerja sebagai fungsi-fungsi yang saling bergantung, bukan daftar tugas terpisah yang selesai lalu dilupakan.
+Bayangkan sebuah orkestra simfoni. Pemain biola, peniup trompet, dan dirigen bekerja dalam satu koordinasi, dan musik terdengar padu karena para pemain bermain serempak. Begitu pula dalam organisasi, POAC bekerja sebagai fungsi-fungsi yang saling bergantung. Tidak ada fungsi yang selesai lalu dilupakan.
 
 ## 1. POAC sebagai Satu Kesatuan Sistemik
 
@@ -87,7 +87,7 @@ Jika salah satu fungsi hilang atau lemah, organisasi akan mengalami "penyakit" m
 
 ## Yang Perlu Kamu Ingat
 
-Siklus POAC adalah sebuah **lingkaran yang dinamis**. Keberhasilan seorang manajer dinilai dari kemampuannya menyatukan keempat fungsi tersebut agar berjalan selaras, bukan dari pelaksanaan fungsi secara terisolasi. Dengan memahami keterkaitan ini, organisasi tidak hanya mencapai tujuan jangka pendek, tetapi juga memiliki daya tahan (resiliensi) untuk terus tumbuh di tengah perubahan.
+Siklus POAC adalah sebuah **lingkaran yang dinamis**. Keberhasilan seorang manajer dinilai dari kemampuannya menyatukan keempat fungsi tersebut agar berjalan selaras. Dengan memahami keterkaitan ini, organisasi mencapai tujuan jangka pendek sekaligus memiliki daya tahan (resiliensi) untuk terus tumbuh di tengah perubahan.
 
 **Poin Utama untuk Diingat:**
 

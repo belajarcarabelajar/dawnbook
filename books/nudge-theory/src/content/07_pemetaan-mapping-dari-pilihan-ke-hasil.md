@@ -8,7 +8,7 @@ Dalam Arsitektur Pilihan, **Pemetaan (Mapping)** adalah teknik untuk membantu or
 
 ### Apa itu Pemetaan (Mapping)?
 
-*Mapping* adalah proses mental ketika seseorang mencoba menjawab pertanyaan: *"Jika saya memilih opsi A, apa dampaknya bagi hidup saya nanti?"*
+*Mapping* adalah proses mental ketika seseorang mencoba menjawab pertanyaan *"Jika saya memilih opsi A, apa dampaknya bagi hidup saya nanti?"*
 
 Arsitek pilihan yang baik menyadari bahwa manusia sering kali mengalami kesulitan dalam melakukan pemetaan ini karena beberapa alasan:
 
@@ -27,7 +27,7 @@ Untuk membantu pengguna melakukan pemetaan yang lebih baik, kita bisa menggunaka
 Alih-alih menyajikan data mentah, sajikan data dalam unit yang dipahami oleh "Sistem 1" (instingtif) manusia.
 
 - **Spesifikasi Kamera:** Daripada hanya menulis "Kamera 20 Megapiksel", tunjukkan bahwa kamera ini "bisa mencetak foto seukuran poster (60x90 cm) dengan hasil sangat tajam."
-- **Konsumsi Energi:** Dibandingkan memajang label "Lampu 10 Watt", lebih baik gunakan kalimat: "Hanya menghabiskan sekitar Rp5.000 per bulan jika kamu menyalakannya selama 12 jam sehari."
+- **Konsumsi Energi:** Dibandingkan memajang label "Lampu 10 Watt", lebih baik gunakan kalimat seperti "Hanya menghabiskan sekitar Rp5.000 per bulan jika kamu menyalakannya selama 12 jam sehari."
 
 #### 2. Menggunakan Skala Perbandingan yang Familiar
 
@@ -45,7 +45,7 @@ $$
 $$
 </div>
 
-Dalam rumus bunga majemuk di atas, otak kita kesulitan membayangkan bagaimana tingkat bunga $r$ dan jangka waktu $n$ bekerja secara eksponensial. Untuk menjembatani celah pemahaman ini, seorang arsitek pilihan bisa menyajikan grafik interaktif atau visualisasi sederhana. Contohnya, menunjukkan kalimat konkret: "Jika kamu menabung Rp500.000 per bulan mulai sekarang, kamu bisa mengumpulkan uang muka rumah dalam waktu 10 tahun."
+Dalam rumus bunga majemuk di atas, otak kita kesulitan membayangkan bagaimana tingkat bunga $r$ dan jangka waktu $n$ bekerja secara eksponensial. Untuk menjembatani celah pemahaman ini, seorang arsitek pilihan bisa menyajikan grafik interaktif atau visualisasi sederhana. Contohnya, ia bisa menuliskan kalimat konkret "Jika kamu menabung Rp500.000 per bulan mulai sekarang, kamu bisa mengumpulkan uang muka rumah dalam waktu 10 tahun."
 
 ### Memilih Skema Asuransi Kesehatan
 
@@ -57,7 +57,7 @@ Bayangkan seorang karyawan harus memilih antara tiga paket asuransi:
 
 Banyak orang kebingungan mengambil keputusan karena tidak bisa memprediksi seberapa sering mereka akan sakit di tahun depan. Akibat pemetaan yang kabur ini, mereka kerap terjebak memilih opsi paling murah yang berisiko memicu kebangkrutan saat jatuh sakit, atau malah mengambil opsi termahal yang membuang-buang uang ketika tubuh mereka tetap sehat.
 
-**Solusi Nudge (Mapping):** Perusahaan menyediakan alat bantu berupa "Kalkulator Riwayat Medis". Sistem ini secara otomatis memproyeksikan pengeluaran kesehatan dari rekam medis tahun lalu ke dalam ketiga paket yang tersedia, lalu menampilkan estimasi konkret: *"Berdasarkan pola pengobatanmu tahun lalu, kamu akan menghemat Rp2.500.000 jika memilih Paket B."*
+**Solusi Nudge (Mapping):** Perusahaan menyediakan alat bantu berupa "Kalkulator Riwayat Medis". Sistem ini secara otomatis memproyeksikan pengeluaran kesehatan dari rekam medis tahun lalu ke dalam ketiga paket yang tersedia, lalu menampilkan estimasi konkret, misalnya *"Berdasarkan pola pengobatanmu tahun lalu, kamu akan menghemat Rp2.500.000 jika memilih Paket B."*
 
 ### Dashboard Kendaraan Listrik
 
@@ -87,11 +87,11 @@ Dengan kopi seharga Rp40.000 per hari selama 20 tahun, hitungannya menjadi seper
 | Lama menabung ($n$) | 20 tahun |
 | Nilai tabungan setelah 20 tahun | sekitar Rp569.293.809 |
 
-Dari hasil itu, aplikasi bisa menampilkan kalimat yang langsung terasa: *"Jika uang kopi Rp40.000 per hari kamu kumpulkan, setor setiap awal tahun, dan kembangkan dengan bunga 6% per tahun, dalam 20 tahun nilainya bisa mencapai sekitar Rp569 juta."*
+Dari hasil itu, aplikasi bisa menampilkan kalimat yang langsung terasa, yaitu *"Jika uang kopi Rp40.000 per hari kamu kumpulkan, setor setiap awal tahun, dan kembangkan dengan bunga 6% per tahun, dalam 20 tahun nilainya bisa mencapai sekitar Rp569 juta."*
 
 ### Mengapa Ini Penting?
 
-Tanpa pemetaan yang baik, kebebasan memilih (*liberty*) menjadi tidak berarti. Seseorang mungkin memiliki 100 pilihan, tetapi jika mereka tidak tahu apa hasil dari pilihan-pilihan tersebut, mereka sebenarnya sedang menebak, bukan memilih.
+Tanpa pemetaan yang baik, kebebasan memilih (*liberty*) menjadi tidak berarti. Seseorang mungkin memiliki 100 pilihan, tetapi jika mereka tidak tahu apa hasil dari pilihan-pilihan tersebut, mereka sebenarnya sedang menebak.
 
 Banyak orang menyesali pembelian langganan (*subscription*) karena gagal memetakan seberapa sering mereka benar-benar menggunakan layanan tersebut dibandingkan dengan biaya yang dikeluarkan.
 

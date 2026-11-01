@@ -6,7 +6,7 @@ Di bab ini, kita akan membedah bagaimana webtoon menjadi sumber ide baru. Kita j
 
 ### 1. Webtoon dan Strategi OSMU
 
-Webtoon tidak hanya berfungsi sebagai komik digital biasa, tetapi juga menjadi *storyboard* yang sudah teruji popularitasnya. Fenomena *One Source Multi-Use* (OSMU) kini menjadi strategi utama, yakni satu *intellectual property* (IP) dikembangkan ke berbagai format media.
+Bagi industri drama, webtoon berfungsi sebagai *storyboard* yang sudah teruji popularitasnya. Fenomena *One Source Multi-Use* (OSMU) kini menjadi strategi utama, yakni satu *intellectual property* (IP) dikembangkan ke berbagai format media.
 
 #### Mengapa Adaptasi Webtoon Begitu Populer?
 
@@ -31,11 +31,11 @@ Selama puluhan tahun, K-Drama dibatasi oleh aturan sensor televisi penyiaran yan
 Korea Selatan sukses menyegarkan genre zombi global lewat serial *Kingdom*.
 
 - **Inovasi cerita.** Mengawinkan latar sejarah Dinasti Joseon dengan elemen *medical horror* yang mencekam.
-- Karakteristik zombi versi Korea juga khas: mereka bergerak cepat dengan gestur tubuh yang artistik berkat keterlibatan koreografer tari profesional.
+- Zombi versi Korea juga punya ciri khas, yaitu gerakan cepat dengan gestur tubuh yang artistik berkat keterlibatan koreografer tari profesional.
 
 #### B. Dystopian Thriller dan Kritik Sosial
 
-Serial seperti *Squid Game* tidak hanya menyajikan ketegangan instan, tetapi juga menyuarakan kritik tajam terhadap sistem kapitalisme.
+Serial seperti *Squid Game* membungkus kritik tajam terhadap sistem kapitalisme di dalam ketegangan instan.
 
 - **Kontras visual.** Penggunaan warna-warna pastel yang cerah kontras dengan adegan kekerasan brutal, menciptakan efek psikologis bagi penonton.
 - Di kancah global, drama ini membuktikan bahwa permainan tradisional anak-anak Korea yang lokal bisa beresonansi secara universal ketika dibenturkan dengan isu kesenjangan sosial.

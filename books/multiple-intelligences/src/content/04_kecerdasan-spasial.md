@@ -2,7 +2,7 @@
 
 Pernahkah kamu bertanya-tanya bagaimana seorang arsitek bisa membayangkan sebuah gedung pencakar langit hanya dari selembar kertas kosong? Atau bagaimana seorang pilot dapat menemukan jalan di tengah gumpalan awan tebal tanpa kehilangan arah?
 
-Itulah **Kecerdasan Spasial**. Ini tidak hanya sebatas kemampuan menggambar. Ini berkaitan erat dengan kapasitas otak manusia untuk memahami, memproses, dan mengolah ruang di dalam pikiran.
+Itulah **Kecerdasan Spasial**, yang cakupannya lebih luas daripada kemampuan menggambar. Kecerdasan ini berkaitan erat dengan kapasitas otak manusia untuk memahami, memproses, dan mengolah ruang di dalam pikiran.
 
 ## 1\. Memahami Esensi Kecerdasan Spasial
 
@@ -12,7 +12,7 @@ Individu dengan kemampuan ini seolah memiliki mata batin yang tajam. Mereka dapa
 
 ## 2\. Bagaimana Kecerdasan Spasial Bekerja?
 
-Kecerdasan ini melibatkan pengolahan informasi dalam tiga dimensi: $x, y, \text{dan } z$. 
+Kecerdasan ini melibatkan pengolahan informasi dalam tiga dimensi $x, y, \text{dan } z$. 
 
 **Analogi Kanvas Internal**
 
@@ -30,7 +30,7 @@ Orang dengan kecerdasan spasial yang baik mampu memproyeksikan posisi titik ters
 
 ## 3\. Karakteristik Individu Visual-Spasial
 
-Seseorang dengan kecerdasan spasial yang dominan biasanya menunjukkan navigasi yang tangguh. Mereka jarang tersesat dan memiliki peta mental yang kuat terhadap lingkungan sekitar. Saat mendengar sebuah konsep, mereka lebih suka memvisualisasikannya alih-alih sekadar mengingat rentetan kata. Mereka juga sangat menyukai aktivitas bongkar pasang, mulai dari *puzzle*, mainan konstruksi, hingga penyusunan struktur rumit. Selain itu, ada kepekaan tajam terhadap detail, seperti tata letak furnitur yang sedikit bergeser atau kombinasi warna yang kurang harmonis.
+Seseorang dengan kecerdasan spasial yang dominan biasanya menunjukkan navigasi yang tangguh. Mereka jarang tersesat dan memiliki peta mental yang kuat terhadap lingkungan sekitar. Saat mendengar sebuah konsep, mereka lebih suka memvisualisasikannya ketimbang mengingat rentetan kata. Mereka juga sangat menyukai aktivitas bongkar pasang, mulai dari *puzzle*, mainan konstruksi, hingga penyusunan struktur rumit. Selain itu, ada kepekaan tajam terhadap detail, seperti tata letak furnitur yang sedikit bergeser atau kombinasi warna yang kurang harmonis.
 
 Kecenderungan ini juga sangat terlihat ketika mereka mencoba mengingat rute perjalanan. Mereka jauh lebih mudah mengingat patokan visual seperti gedung biru yang besar dibandingkan instruksi jarak dalam satuan meter.
 
@@ -70,4 +70,4 @@ Bayangkan seorang peneliti terjebak di hutan lebat tanpa bantuan sistem navigasi
 
 ## 7\. Mengasah Kapasitas Spasial
 
-Kecerdasan Spasial menunjukkan bahwa kemampuan kognitif memiliki dimensi bentuk dan ruang. Ini bukan bakat bawaan yang tidak bisa diubah, melainkan lebih mirip dengan otot. Semakin sering kamu membayangkan objek dari berbagai sudut, merotasi susunan furnitur kamar di dalam bayangan, atau menumpahkan ide ke dalam sketsa, semakin terlatih pula kapasitas spasialmu.
+Kecerdasan Spasial menunjukkan bahwa kemampuan kognitif memiliki dimensi bentuk dan ruang. Kemampuan ini bisa diubah dan lebih mirip dengan otot. Semakin sering kamu membayangkan objek dari berbagai sudut, merotasi susunan furnitur kamar di dalam bayangan, atau menumpahkan ide ke dalam sketsa, semakin terlatih pula kapasitas spasialmu.

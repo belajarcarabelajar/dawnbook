@@ -1,6 +1,6 @@
 ## Menghindari Bias dan Kesalahan Umum dalam Matriks Keputusan
 
-Matriks keputusan sering kali dianggap sebagai alat bantu objektif karena menggunakan perhitungan matematis. Namun, ada satu hal penting yang perlu kamu pahami: **matriks keputusan hanya seakurat data dan kejujuran orang yang menyusun kriteria penilaian serta skor berbobot di dalamnya.**
+Matriks keputusan sering kali dianggap sebagai alat bantu objektif karena menggunakan perhitungan matematis. Namun, perlu kamu pahami bahwa **matriks keputusan hanya seakurat data dan kejujuran orang yang menyusun kriteria penilaian serta skor berbobot di dalamnya.**
 
 Jika kamu memasukkan data yang bias atau penilaian subjektif secara berlebihan ke dalam matriks, hasil akhirnya tetaplah keputusan buruk yang dibungkus format tabel profesional (prinsip *Garbage In, Garbage Out*).
 
@@ -84,7 +84,7 @@ Dalam rumus tersebut, $n$ adalah jumlah penilai.
 
 ### Lakukan Pre-Mortem
 
-Sebelum finalisasi, tanyakan pada diri sendiri: *"Jika keputusan ini ternyata salah di masa depan, apa alasan utamanya?"* Sering kali, jawaban dari pertanyaan ini akan menunjukkan kriteria yang kamu abaikan atau skor yang kamu manipulasi secara tidak sadar.
+Sebelum finalisasi, tanyakan pada diri sendiri, *"Jika keputusan ini ternyata salah di masa depan, apa alasan utamanya?"* Sering kali, jawaban dari pertanyaan ini akan menunjukkan kriteria yang kamu abaikan atau skor yang kamu manipulasi secara tidak sadar.
 
 ## 4. Jebakan dalam Pemilihan Software
 
@@ -94,7 +94,7 @@ Sebelum finalisasi, tanyakan pada diri sendiri: *"Jika keputusan ini ternyata sa
 - **Hasil:** TechPlus menang di matriks.
 - **Konsekuensi:** Enam bulan kemudian, perusahaan kesulitan karena software tersebut tidak bisa terhubung dengan sistem akuntansi mereka.
 
-Pernahkah kamu membuat matriks keputusan hanya untuk melegitimasi pilihan yang sebenarnya sudah kamu ambil sejak awal? Jika ya, kamu tidak sedang melakukan analisis, tetapi sekadar mencari pembenaran.
+Pernahkah kamu membuat matriks keputusan hanya untuk melegitimasi pilihan yang sebenarnya sudah kamu ambil sejak awal? Jika ya, kamu sedang mencari pembenaran untuk pilihan itu.
 
 ## Daftar Periksa Anti-Bias
 
@@ -106,4 +106,4 @@ Pernahkah kamu membuat matriks keputusan hanya untuk melegitimasi pilihan yang s
 | **Validasi** | Minta pihak ketiga yang netral untuk meninjau pemberian skormu. |
 | **Sensitivitas** | Coba ubah sedikit bobot kriteria. Jika pemenangnya langsung berubah drastis, keputusanmu mungkin terlalu rapuh. |
 
-> Matriks keputusan bertujuan mendisiplinkan intuisi, bukan menghilangkannya.
+> Matriks keputusan bertugas mendisiplinkan intuisi yang sudah kamu miliki.

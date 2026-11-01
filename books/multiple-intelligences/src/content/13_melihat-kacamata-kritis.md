@@ -28,11 +28,11 @@ Banyak kritikus berpendapat bahwa Gardner gagal menjelaskan mengapa faktor $g$ i
 
 Perdebatan mengenai istilah juga menjadi sorotan. Banyak ahli psikologi kognitif, termasuk George Miller, berpendapat bahwa Gardner sebenarnya menempelkan label "kecerdasan" (*intelligence*) pada apa yang selama ini kita sebut "bakat" (*talent*) atau "kepribadian" (*personality*).
 
-Jika seseorang mahir menari, masyarakat biasanya menyebutnya punya bakat kinestetik. Saat Gardner menyebutnya "Cerdas Kinestetik", para pengkritik mempertanyakan letak perbedaan antara kecerdasan dan keterampilan fisik. Ada kekhawatiran soal inflasi istilah: ketika segalanya disebut sebagai kecerdasan, makna asli kata tersebut yang berkaitan dengan pemrosesan kognitif dan pemecahan masalah abstrak bisa memudar.
+Jika seseorang mahir menari, masyarakat biasanya menyebutnya punya bakat kinestetik. Saat Gardner menyebutnya "Cerdas Kinestetik", para pengkritik mempertanyakan letak perbedaan antara kecerdasan dan keterampilan fisik. Ada kekhawatiran soal inflasi istilah. Ketika segalanya disebut sebagai kecerdasan, makna asli kata tersebut yang berkaitan dengan pemrosesan kognitif dan pemecahan masalah abstrak bisa memudar.
 
 ## 3. Perspektif Psikologi Kognitif dan Neurosains
 
-Dalam tinjauan terhadap literatur *Multiple Intelligences*, psikolog Lynn Waterhouse menemukan batasan dari sisi neurosains. Hingga saat ini, penelitian belum menemukan area-area spesifik di otak yang terisolasi sepenuhnya dan sesuai dengan delapan kecerdasan Gardner. Otak manusia bekerja secara integratif, bukan sebagai modul-modul kaku yang terpisah seperti laci lemari.
+Dalam tinjauan terhadap literatur *Multiple Intelligences*, psikolog Lynn Waterhouse menemukan batasan dari sisi neurosains. Hingga saat ini, penelitian belum menemukan area-area spesifik di otak yang terisolasi sepenuhnya dan sesuai dengan delapan kecerdasan Gardner. Otak manusia bekerja secara integratif. Bagian-bagiannya tidak terpisah kaku seperti laci lemari.
 
 Selain itu, muncul kebingungan di lapangan dengan konsep Gaya Belajar (*Learning Styles* seperti visual, auditori, atau kinestetik). Gardner sendiri menolak gagasan Gaya Belajar tersebut. Namun, teorinya sering disalahpahami oleh praktisi pendidikan untuk membenarkan metode pengajaran tertentu tanpa dasar bukti empiris, misalnya memaksa pengajaran matematika lewat tarian semata untuk memfasilitasi murid kinestetik.
 

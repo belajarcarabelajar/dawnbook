@@ -6,7 +6,7 @@ Jika bagian sebelumnya membahas *apa* itu perencanaan, bagian ini membahas aspek
 
 ## 1. Metode SMART Goals
 
-Banyak rencana gagal bukan karena kurangnya semangat, tetapi karena target yang ditetapkan terlalu kabur. Mengatakan "kita harus sukses tahun ini" memang berniat baik, tetapi itu belum bisa disebut rencana kerja. Di sinilah metode **SMART** hadir untuk memandu penetapan sasaran secara terarah.
+Banyak rencana gagal karena target yang ditetapkan terlalu kabur. Kalimat "kita harus sukses tahun ini" memang berniat baik, tetapi belum bisa disebut rencana kerja. Di sinilah metode **SMART** hadir untuk memandu penetapan sasaran secara terarah.
 
 ### Komponen SMART
 
@@ -23,7 +23,7 @@ Banyak rencana gagal bukan karena kurangnya semangat, tetapi karena target yang 
 
 ## 2. Analisis SWOT
 
-Sebelum melangkah, seorang manajer harus memahami posisi organisasinya dibandingkan lingkungan sekitar. **Analisis SWOT** adalah alat diagnostik yang membagi faktor-faktor menjadi dua dimensi: Internal (Kekuatan & Kelemahan) dan Eksternal (Peluang & Ancaman).
+Sebelum melangkah, seorang manajer harus memahami posisi organisasinya dibandingkan lingkungan sekitar. **Analisis SWOT** adalah alat diagnostik yang memilah faktor-faktor ke dalam dimensi Internal (Kekuatan & Kelemahan) dan dimensi Eksternal (Peluang & Ancaman).
 
 ### Matriks SWOT
 
@@ -32,15 +32,15 @@ Sebelum melangkah, seorang manajer harus memahami posisi organisasinya dibanding
 3. **Opportunities (Peluang):** Situasi eksternal yang menguntungkan dan dapat dieksploitasi untuk berkembang. Sebagai contoh, adanya perubahan kebijakan pemerintah yang memihak industri lokal.
 4. **Threats (Ancaman):** Berbagai tantangan dari luar yang berpotensi mengganggu stabilitas bisnis, seperti kehadiran kompetitor baru dengan strategi harga yang jauh lebih murah.
 
-> **Insight:** Analisis SWOT tidak boleh berhenti sebagai daftar di atas kertas. Manajer yang cerdas menggunakan matriks ini untuk merumuskan langkah strategis: memadukan kekuatan internal guna menangkap peluang pasar, serta mengoreksi kelemahan untuk meminimalkan dampak ancaman dari luar.
+> **Insight:** Manajer yang cerdas memakai matriks SWOT untuk merumuskan langkah strategis, dengan memadukan kekuatan internal guna menangkap peluang pasar, serta mengoreksi kelemahan untuk meminimalkan dampak ancaman dari luar.
 
 ## 3. Proses Pengambilan Keputusan Rasional
 
-Mengambil keputusan adalah tugas inti seorang manajer. Keputusan yang baik tidak lahir dari firasat semata, tetapi didasarkan pada proses logis yang terstruktur dalam **Model Pengambilan Keputusan Rasional**.
+Mengambil keputusan adalah tugas inti seorang manajer. Keputusan yang baik didasarkan pada proses logis yang terstruktur dalam **Model Pengambilan Keputusan Rasional**.
 
 ### Langkah-langkah Rasional
 
-1. **Identifikasi Masalah:** Menemukan akar permasalahan yang sebenarnya, bukan sekadar melihat gejala permukaan.
+1. **Identifikasi Masalah:** Menemukan akar permasalahan yang sebenarnya di balik gejala yang tampak di permukaan.
 2. **Menentukan Kriteria Keputusan:** Menetapkan faktor-faktor penting yang memengaruhi hasil, seperti biaya, standar kualitas, serta waktu pengerjaan.
 3. **Pembobotan Kriteria:** Menilai tingkat kepentingan masing-masing faktor karena tidak semua hal memiliki prioritas yang setara. Di sini, manajer dapat menggunakan rumus matematis:
    $$\text{Total Skor} = \sum_{i=1}^{n} (\text{Bobot}_i \times \text{Nilai}_i)$$
@@ -70,7 +70,7 @@ Dunia nyata jauh lebih kompleks daripada model matematika. Manajer sering kali h
 
 ### Konsep Penting
 
-- **Bounded Rationality (Rasionalitas Terbatas):** Gagasan dari Herbert Simon yang menjelaskan bahwa keterbatasan waktu dan kemampuan berpikir membuat manusia jarang menghasilkan keputusan yang benar-benar optimal. Sebaliknya, kita cenderung memilih opsi yang dirasa cukup memuaskan (*satisficing*).
+- **Bounded Rationality (Rasionalitas Terbatas):** Gagasan dari Herbert Simon yang menjelaskan bahwa keterbatasan waktu dan kemampuan berpikir membuat manusia cenderung memilih opsi yang dirasa cukup memuaskan (*satisficing*) dan jarang menghasilkan keputusan yang benar-benar optimal.
 - **Intuisi yang Terdidik:** Kemampuan ini melampaui tebakan biasa karena bersumber dari pengenalan pola bawah sadar yang terbentuk lewat pengalaman bertahun-tahun di lapangan.
 - **Analisis Probabilitas:** Pemanfaatan data statistik untuk mengukur dan memperkirakan risiko. Salah satu caranya adalah menghitung nilai harapan atau $\text{EV}$ (*Expected Value*) dengan rumus:
    $$\text{EV} = \sum (\text{Probabilitas} \times \text{Hasil})$$
@@ -121,4 +121,4 @@ Sebagai contoh, keputusan cepat yang diambil di bawah tekanan waktu dengan data 
 | **Model Pengambilan Keputusan Rasional** | Pemilihan Alternatif | Objektivitas dan Pembobotan Data |
 | **Bounded Rationality** | Manajemen Realitas | Pengambilan keputusan yang praktis & cepat |
 
-> **Pesan Penting:** Perencanaan yang matang tidak bertujuan untuk menghilangkan risiko sepenuhnya (karena itu mustahil), tetapi memastikan bahwa saat tantangan datang, kita telah memegang peta untuk menghadapinya.
+> **Pesan Penting:** Risiko mustahil dihilangkan sepenuhnya. Perencanaan yang matang memastikan bahwa saat tantangan datang, kita telah memegang peta untuk menghadapinya.

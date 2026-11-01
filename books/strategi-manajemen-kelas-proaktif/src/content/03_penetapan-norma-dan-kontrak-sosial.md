@@ -1,26 +1,26 @@
 ## Penetapan Norma dan Kontrak Sosial
 
-Bayangkan kamu sedang membangun sebuah rumah. Aturan kelas yang dibuat sepihak oleh guru ibarat instruksi kaku dari seorang mandor yang tidak pernah menempati rumah tersebut. Sebaliknya, **Kontrak Sosial** adalah desain arsitektur yang dirancang bersama oleh seluruh penghuninya. Ketika siswa merasa memiliki "saham" dalam menentukan bagaimana kelas berjalan, mereka tidak lagi sekadar menaati aturan karena takut dihukum, melainkan karena mereka menghargai kesepakatan yang mereka buat sendiri.
+Bayangkan kamu sedang membangun sebuah rumah. Aturan kelas yang dibuat sepihak oleh guru ibarat instruksi kaku dari seorang mandor yang tidak pernah menempati rumah tersebut. Sebaliknya, **Kontrak Sosial** adalah desain arsitektur yang dirancang bersama oleh seluruh penghuninya. Ketika siswa merasa memiliki "saham" dalam menentukan bagaimana kelas berjalan, mereka menaati aturan karena menghargai kesepakatan yang mereka buat sendiri. Rasa takut dihukum tidak lagi menjadi satu-satunya alasan.
 
 ## 1. Dari Kepatuhan Menuju Komitmen
 
 Banyak guru terjebak dalam paradigma pembuatan "Daftar Larangan" (Rules). Namun, dalam manajemen kelas proaktif, kita bergeser dari **Aturan** ke **Norma**.
 
-- **Aturan (Rules):** Bersifat top-down, fokus pada perilaku negatif, dan biasanya diikuti karena takut akan konsekuensi. Contoh: "Jangan berisik."
-- **Norma (Norms):** Bersifat kolaboratif, fokus pada nilai-nilai positif, dan diikuti karena rasa tanggung jawab sosial. Contoh: "Kita mendengarkan saat orang lain berbicara agar semua merasa dihargai."
+- **Aturan (Rules):** Bersifat top-down, fokus pada perilaku negatif, dan biasanya diikuti karena takut akan konsekuensi. Contohnya, "Jangan berisik."
+- **Norma (Norms):** Bersifat kolaboratif, fokus pada nilai-nilai positif, dan diikuti karena rasa tanggung jawab sosial. Misalnya, "Kita mendengarkan saat orang lain berbicara agar semua merasa dihargai."
 
 > **Insight:** Kepatuhan (compliance) bersifat sementara dan hanya muncul saat ada pengawasan. Komitmen (commitment) bersifat menetap dan muncul dari dalam diri (intrinsik).
 
 ## 2. Proses Pembentukan Kontrak Sosial
 
-Melibatkan siswa dalam pembuatan aturan bukan berarti memberikan kendali penuh tanpa arah. Ini adalah proses fasilitasi yang terstruktur. Berikut adalah langkah-langkahnya:
+Melibatkan siswa dalam pembuatan aturan adalah proses fasilitasi yang terstruktur, dan guru yang memegang arahnya. Berikut adalah langkah-langkahnya:
 
 ### 1. Eksplorasi Nilai (The "Why")
 
 Mulailah dengan pertanyaan reflektif. Mintalah siswa membayangkan kelas impian mereka.
 
 - *Pikirkan tentang ini:* "Seperti apa suasana kelas yang membuatmu merasa aman dan semangat untuk belajar?"
-- *Aktivitas:* Gunakan *sticky notes* (visual & kinestetik). Setiap siswa menuliskan satu kata sifat (misal: "Ramah", "Tenang", "Seru").
+- *Aktivitas:* Gunakan *sticky notes* (visual & kinestetik). Setiap siswa menuliskan satu kata sifat (misalnya "Ramah", "Tenang", "Seru").
 
 ### 2. Kategorisasi dan Sintesis
 
@@ -46,20 +46,20 @@ $$
 
 ### 4. Konsensus dan Penandatanganan
 
-Setelah draf disepakati, buatlah dokumen fisik yang menarik. Ini bukan sekadar kertas, ini adalah **Kontrak Sosial**. Mintalah setiap siswa (dan guru!) menandatanganinya. Penandatanganan secara fisik melibatkan aspek psikologis yang kuat terhadap komitmen.
+Setelah draf disepakati, buatlah dokumen fisik yang menarik. Lembar itulah **Kontrak Sosial** kelas kamu. Mintalah setiap siswa (dan guru!) menandatanganinya. Penandatanganan secara fisik melibatkan aspek psikologis yang kuat terhadap komitmen.
 
 ## 3. Implementasi Berbasis Nilai Bersama
 
-Agar kontrak sosial tidak hanya menjadi hiasan dinding, ia harus diintegrasikan dalam interaksi harian.
+Supaya kontrak sosial benar-benar hidup dan tidak berakhir sebagai hiasan dinding, ia harus diintegrasikan dalam interaksi harian.
 
 ### Strategi Visual dan Auditif
 
 - **Poster Kontrak Sosial:** Pajang di tempat yang paling mudah dilihat. Gunakan ikon atau gambar untuk siswa yang lebih muda.
-- **Bahasa Isyarat Kesepakatan:** Gunakan sinyal tangan nonverbal yang disepakati untuk mengingatkan norma tanpa memutus alur penjelasan (misal: mengangkat dua jari untuk mengingatkan agar kembali fokus).
+- **Bahasa Isyarat Kesepakatan:** Gunakan sinyal tangan nonverbal yang disepakati untuk mengingatkan norma tanpa memutus alur penjelasan (misalnya mengangkat dua jari untuk mengingatkan agar kembali fokus).
 
 ### Logika Konsekuensi vs. Hukuman
 
-Dalam kontrak sosial, jika terjadi pelanggaran, kita tidak menggunakan "hukuman" yang memalukan, melainkan "konsekuensi logis" yang mendidik.
+Dalam kontrak sosial, jika terjadi pelanggaran, kita memakai "konsekuensi logis" yang mendidik dan menjauhi "hukuman" yang memalukan.
 
 | Pelanggaran | Hukuman (Hindari) | Konsekuensi Logis (Terapkan) |
 | --- | --- | --- |
@@ -87,14 +87,14 @@ Guru menggunakan pendekatan profesional seperti kontrak kerja di perusahaan tekn
 
 Kontrak sosial bersifat dinamis (living document). Ia harus ditinjau secara berkala.
 
-1. **Refleksi Mingguan:** Luangkan 5 menit di hari Jumat untuk bertanya: *"Norma mana yang sudah kita jalankan dengan sangat baik minggu ini? Mana yang masih perlu kita perbaiki?"*
+1. **Refleksi Mingguan:** Luangkan 5 menit di hari Jumat untuk bertanya, *"Norma mana yang sudah kita jalankan dengan sangat baik minggu ini? Mana yang masih perlu kita perbaiki?"*
 2. **Modifikasi:** Jika ada norma yang dirasa sudah tidak relevan atau ada masalah baru yang muncul, ajak siswa untuk merevisi kontrak tersebut.
 
-> **Pesan Penting:** Guru bukan polisi dari kontrak ini, melainkan penjaga gawang bersama. Jika guru melanggar (misalnya datang terlambat), guru juga harus bersedia menerima konsekuensi yang telah disepakati. Ini membangun **kepercayaan** dan **integritas**.
+> **Pesan Penting:** Guru adalah salah satu penjaga gawang kontrak ini, bersama seluruh siswa. Jika guru melanggar (misalnya datang terlambat), guru juga harus bersedia menerima konsekuensi yang telah disepakati. Ini membangun **kepercayaan** dan **integritas**.
 
 ## 6. Contoh Isi Kontrak Sosial
 
-Sebagai contoh, kontrak yang sudah jadi bisa disusun dengan rapi dalam tiga bagian: nilai inti, kesepakatan beserta alasannya, dan cara menjaga akuntabilitas. Susunan yang sama juga bisa kamu simpan di platform manajemen kelas digital (seperti Google Classroom atau Notion).
+Sebagai contoh, kontrak yang sudah jadi bisa disusun dengan rapi dalam tiga bagian, mulai dari nilai inti, kesepakatan beserta alasannya, sampai cara menjaga akuntabilitas. Susunan yang sama juga bisa kamu simpan di platform manajemen kelas digital (seperti Google Classroom atau Notion).
 
 **Nilai inti:** Saling Menghargai
 
@@ -105,4 +105,4 @@ Sebagai contoh, kontrak yang sudah jadi bisa disusun dengan rapi dalam tiga bagi
 
 **Akuntabilitas:** diskusi restoratif jika terjadi pelanggaran kesepakatan.
 
-*Pikirkan tentang ini: Jika besok pagi kamu masuk ke kelas dan semua aturan tertulis di dinding menghilang, apakah siswa kamu tetap akan berperilaku baik karena mereka menghargai komunitasnya, atau kelas akan menjadi kacau? Jawaban kamu menentukan seberapa kuat norma yang telah kamu bangun.*
+*Jika besok pagi kamu masuk ke kelas dan semua aturan tertulis di dinding menghilang, apakah siswa kamu tetap akan berperilaku baik karena mereka menghargai komunitasnya, atau kelas akan menjadi kacau? Jawaban kamu menentukan seberapa kuat norma yang telah kamu bangun.*

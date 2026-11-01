@@ -53,7 +53,7 @@ Meskipun menyusun matriks membutuhkan waktu lebih di awal, metode ini menghemat 
 
 ### Pemilihan Vendor IT
 
-Bayangkan sebuah tim kerja ingin memilih penyedia layanan *cloud hosting*. Ada tiga variabel utama yang harus dinilai: **Harga**, **Keamanan Data**, dan **Layanan Pelanggan**.
+Bayangkan sebuah tim kerja ingin memilih penyedia layanan *cloud hosting*. Tiga variabel utama yang harus dinilai adalah **Harga**, **Keamanan Data**, dan **Layanan Pelanggan**.
 
 - **Secara Intuitif:** Tim mungkin memilih vendor yang paling populer atau yang tim pemasarannya paling ramah.
 - **Dengan Matriks Keputusan:**
@@ -75,6 +75,6 @@ Untuk memudahkanmu mengingat, berikut adalah ringkasan manfaat matriks keputusan
 | **Klarifikasi** | Membantu memecah masalah kompleks menjadi bagian-bagian kecil yang lebih mudah dikelola. |
 | **Komunikasi** | Memudahkan penyampaian logika keputusan kepada tim atau atasan. |
 
-**Catatan Penting:** Matriks keputusan bukanlah pengganti pemikiran kritis, melainkan alat bantu untuk mempertajam analisis. Hasil akhir matriks tetap bergantung pada kejujuranmu dalam memberikan penilaian serta keakuratan kriteria yang ditentukan.
+**Catatan Penting:** Matriks keputusan adalah alat bantu untuk mempertajam analisis. Pemikiran kritisnya masih harus datang darimu. Hasil akhir matriks tetap bergantung pada kejujuranmu dalam memberikan penilaian serta keakuratan kriteria yang ditentukan.
 
 Setelah memahami manfaatnya, bagaimana kamu bisa langsung mulai menerapkannya?

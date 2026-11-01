@@ -12,7 +12,7 @@ Individu dengan kecerdasan naturalis yang tinggi memiliki kepekaan lebih terhada
 
 ### Perpustakaan Organisme dan Fenomena Alam
 
-> Bayangkan otak seorang naturalis seperti sebuah perpustakaan yang isinya berupa katalog organisme dan fenomena alam, alih-alih deretan buku biasa. Saat orang lain hanya melihat "hutan hijau yang rimbun", seorang naturalis melihat rak-rak yang terorganisir: kategori pohon *Dipterocarpaceae*, strata kanopi, kelembapan tanah, hingga jejak hewan di permukaan tanah. Mereka tidak sekadar melihat, mereka **membaca** alam.
+> Bayangkan otak seorang naturalis seperti sebuah perpustakaan yang isinya berupa katalog organisme dan fenomena alam. Saat orang lain hanya melihat "hutan hijau yang rimbun", seorang naturalis melihat rak-rak yang terorganisir, mulai dari kategori pohon *Dipterocarpaceae*, strata kanopi, dan kelembapan tanah sampai jejak hewan di permukaan tanah. Mereka **membaca** alam.
 
 ## Karakteristik Utama Kecerdasan Naturalis
 
@@ -50,7 +50,7 @@ Bahkan dalam arsitektur modern, pendekatan desain berkelanjutan sangat bergantun
 
 ## Menyelidiki Populasi Burung yang Anjlok
 
-Sebagai contoh, bayangkan sebuah tim peneliti yang ditugaskan ke pedalaman Kalimantan untuk menyelidiki anjloknya populasi spesies burung tertentu. Seorang peneliti dengan kecerdasan naturalis tidak akan sekadar memelototi data statistik di atas kertas. Ia akan masuk ke dalam hutan dan mulai mengamati keadaan sekitarnya.
+Sebagai contoh, bayangkan sebuah tim peneliti yang ditugaskan ke pedalaman Kalimantan untuk menyelidiki anjloknya populasi spesies burung tertentu. Selain membaca data statistik di atas kertas, seorang peneliti dengan kecerdasan naturalis akan masuk ke dalam hutan dan mulai mengamati keadaan sekitarnya.
 
 Mungkin ia menyadari perubahan frekuensi dengungan serangga di pagi hari. Atau ia memperhatikan ada spesies tanaman invasif baru yang mulai mencekik tajuk pohon tempat burung bersarang. Ia bahkan bisa mencatat tingkat kekeruhan air sungai yang berbeda sesaat sesudah hujan gerimis. Melalui observasi berlapis ini, ia mampu menyimpulkan bahwa perubahan iklim mikro di lantai hutan (akibat pembukaan lahan di kejauhan) telah menggeser siklus menetas serangga yang menjadi pakan utama burung tersebut. Kemampuan inilah yang disebut sebagai menyambungkan titik-titik dalam sebuah ekosistem.
 

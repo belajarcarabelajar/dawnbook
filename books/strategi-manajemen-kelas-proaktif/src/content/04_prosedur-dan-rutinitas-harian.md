@@ -2,14 +2,14 @@
 
 Pernahkah kamu memperhatikan bagaimana kru *pit stop* Formula 1 bekerja? Hanya dalam hitungan detik, ban diganti, bahan bakar diisi (pada era tertentu), dan mobil kembali melaju. Tidak ada instruksi yang diteriakkan di tengah kebisingan; setiap orang tahu persis apa yang harus dilakukan, kapan melakukannya, dan bagaimana melakukannya.
 
-Dalam manajemen kelas proaktif, **Prosedur dan Rutinitas Harian** adalah "kru pit stop" kamu. Tujuannya bukan untuk menciptakan lingkungan yang kaku seperti militer, melainkan untuk mengotomatiskan hal-hal teknis sehingga energi kognitif guru dan siswa dapat sepenuhnya difokuskan pada satu hal: **Pembelajaran**.
+Dalam manajemen kelas proaktif, **Prosedur dan Rutinitas Harian** adalah "kru pit stop" kamu. Tujuannya mengotomatiskan hal-hal teknis sehingga energi kognitif guru dan siswa dapat sepenuhnya difokuskan pada **pembelajaran**. Kelas yang punya prosedur tidak harus kaku seperti militer.
 
 ## 1. Aturan vs. Prosedur
 
 Sering kali kita mencampuradukkan aturan dan prosedur. Memahami perbedaannya adalah langkah pertama menuju kelas yang efisien.
 
-- **Aturan (Rules):** Berkaitan dengan perilaku dan nilai moral (contoh: "Saling menghormati"). Aturan biasanya memiliki konsekuensi jika dilanggar.
-- **Prosedur (Procedures):** Berkaitan dengan *bagaimana* sesuatu dilakukan (contoh: "Cara mengumpulkan tugas"). Prosedur tidak memiliki konsekuensi hukuman, melainkan membutuhkan **latihan ulang** jika belum berjalan lancar.
+- **Aturan (Rules):** Berkaitan dengan perilaku dan nilai moral, misalnya "Saling menghormati". Aturan biasanya memiliki konsekuensi jika dilanggar.
+- **Prosedur (Procedures):** Berkaitan dengan *bagaimana* sesuatu dilakukan, seperti "Cara mengumpulkan tugas". Prosedur yang belum berjalan lancar membutuhkan **latihan ulang**, tanpa konsekuensi hukuman.
 
 > "Prosedur adalah cara kita melakukan sesuatu agar kelas berjalan lancar. Rutinitas adalah prosedur yang telah menjadi kebiasaan otomatis bagi siswa."
 
@@ -96,7 +96,7 @@ Mengumumkan prosedur satu kali tidaklah cukup. Prosedur harus diajarkan layaknya
 2. **Rehearse (Latih):** Praktikkan prosedur tersebut. "Mari kita coba mengumpulkan buku dalam 20 detik. Siap? Mulai!"
 3. **Reinforce (Perkuat):** Berikan umpan balik positif. "Saya melihat meja kelompok B sudah bersih dalam 15 detik. Kerja bagus!"
 
-*Pertimbangkan hal berikut: Jika sebuah prosedur gagal, tanyakan pada diri sendiri: "Apakah saya sudah melatih mereka dengan cukup, atau saya hanya memberi tahu mereka?"*
+*Jika sebuah prosedur gagal, tanyakan pada diri sendiri, "Apakah saya sudah melatih mereka dengan cukup, atau saya hanya memberi tahu mereka?"*
 
 ## Transisi Kelas 5 SD yang Gaduh
 
@@ -119,4 +119,4 @@ Pastikan kamu memiliki prosedur untuk hal-hal berikut:
 - Apa yang dilakukan jika tugas sudah selesai lebih awal (aktivitas pengayaan).
 - Membereskan kelas dan persiapan pulang.
 
-Dengan rutinitas yang kuat, kamu tidak lagi menjadi "polisi lalu lintas" di kelas, melainkan pemimpin yang menjaga pembelajaran berjalan teratur.
+Dengan rutinitas yang kuat, kamu bisa memimpin kelas dan menjaga pembelajaran berjalan teratur tanpa harus menjadi "polisi lalu lintas".

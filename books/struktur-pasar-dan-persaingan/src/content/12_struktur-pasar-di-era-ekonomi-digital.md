@@ -6,15 +6,15 @@ Di era digital, pasar telah berkembang dari tempat transaksi fisik menjadi ekosi
 
 ## 1. Pergeseran dari Pasar Linear ke Pasar Platform (Multi-sided Markets)
 
-Dalam struktur tradisional, kita sering mengenal **Rantai Nilai Linear**: Perusahaan membeli bahan baku, memproduksi barang, dan menjualnya kepada konsumen. Namun, ekonomi digital memperkenalkan model **Platform**.
+Dalam struktur tradisional, kita sering mengenal **Rantai Nilai Linear**, ketika perusahaan membeli bahan baku, memproduksi barang, lalu menjualnya kepada konsumen. Namun, ekonomi digital memperkenalkan model **Platform**.
 
 Platform digital bertindak sebagai perantara yang menghubungkan dua atau lebih kelompok partisipan yang berbeda (misalnya, pengemudi dan penumpang, atau penjual dan pembeli).
 
-> **Insight Utama:** Dalam pasar platform, nilai produk bertambah seiring banyaknya pengguna yang bergabung, tidak hanya ditentukan oleh fitur atau kualitas fisik produk itu sendiri.
+> **Insight Utama:** Dalam pasar platform, fitur dan kualitas fisik hanya sebagian dari nilai sebuah produk. Nilainya juga bertambah seiring banyaknya pengguna yang bergabung.
 
 ### Pasar Malam vs. Supermarket
 
-Bayangkan sebuah supermarket tradisional yang berjalan secara linear. Pengelola membeli stok barang, memajangnya di rak, lalu kamu membelinya. Sekarang bayangkan "Pasar Malam Digital" (platform). Penyelenggara pasar malam tidak menjual barang secara langsung, melainkan menyediakan lahan, penerangan, dan keamanan agar pedagang serta pembeli dapat berinteraksi. Semakin ramai pembeli yang berkunjung, semakin banyak pedagang yang berminat menyewa lapak, dan berlaku pula sebaliknya.
+Bayangkan sebuah supermarket tradisional yang berjalan secara linear. Pengelola membeli stok barang, memajangnya di rak, lalu kamu membelinya. Sekarang bayangkan "Pasar Malam Digital" (platform). Penyelenggara pasar malam menyediakan lahan, penerangan, dan keamanan agar pedagang serta pembeli dapat berinteraksi, tanpa menjual barang secara langsung. Semakin ramai pembeli yang berkunjung, semakin banyak pedagang yang berminat menyewa lapak, dan berlaku pula sebaliknya.
 
 ## 2. Network Effects (Efek Jaringan)
 
@@ -22,7 +22,7 @@ Mengapa Facebook, WhatsApp, atau Gojek sulit dikalahkan? Jawabannya adalah **Efe
 
 ### A. Efek Jaringan Langsung (Direct Network Effects)
 
-Terjadi ketika nilai produk meningkat seiring bertambahnya pengguna dalam kategori yang sama. *Contoh:* Telepon atau WhatsApp. Jika hanya kamu yang punya WhatsApp, aplikasi itu tidak berguna. Namun, jika seluruh teman kamu memakainya, nilainya menjadi sangat tinggi.
+Terjadi ketika nilai produk meningkat seiring bertambahnya pengguna dalam kategori yang sama, seperti telepon atau WhatsApp. Jika hanya kamu yang punya WhatsApp, aplikasi itu tidak berguna. Namun, jika seluruh teman kamu memakainya, nilainya menjadi sangat tinggi.
 
 Secara matematis, fenomena ini digambarkan dengan **Hukum Metcalfe**:
 
@@ -30,11 +30,11 @@ $$
 V \propto n^2
 $$
 
-Dalam rumus tersebut, $V$ adalah nilai jaringan dan $n$ adalah jumlah pengguna. Jika jumlah pengguna berlipat ganda, nilai jaringan naik empat kali lipat (tumbuh secara kuadratik), bukan linear.
+Dalam rumus tersebut, $V$ adalah nilai jaringan dan $n$ adalah jumlah pengguna. Jika jumlah pengguna berlipat ganda, nilai jaringan naik empat kali lipat karena pertumbuhannya kuadratik.
 
 ### B. Efek Jaringan Tidak Langsung (Indirect Network Effects)
 
-Terjadi ketika peningkatan jumlah pengguna di satu sisi platform meningkatkan nilai bagi pengguna di sisi lain. *Contoh:* Semakin banyak pengguna Android (sisi A), semakin banyak pengembang aplikasi (sisi B) yang ingin membuat aplikasi untuk Android. Hal ini, pada gilirannya, membuat Android semakin menarik bagi pengguna.
+Terjadi ketika peningkatan jumlah pengguna di satu sisi platform meningkatkan nilai bagi pengguna di sisi lain. Ambil contoh Android. Semakin banyak pengguna Android (sisi A), semakin banyak pengembang aplikasi (sisi B) yang ingin membuat aplikasi untuk Android. Hal ini, pada gilirannya, membuat Android semakin menarik bagi pengguna.
 
 ## 3. Biaya Marginal Nol $\text{MC} \approx 0$
 
@@ -56,7 +56,7 @@ Karena kombinasi efek jaringan dan biaya marginal yang rendah, pasar digital cen
 Beberapa faktor yang mendorong hal ini:
 
 1. **Biaya Berpindah (Switching Costs):** Pengguna enggan berpindah dari Spotify ke platform lain karena daftar putar (*playlist*) mereka sudah tersimpan rapi di sana.
-2. **Lock-in Effect:** Ketergantungan pada ekosistem (misalnya: menggunakan iPhone, Mac, dan iCloud secara bersamaan).
+2. **Lock-in Effect:** Ketergantungan pada ekosistem (misalnya menggunakan iPhone, Mac, dan iCloud secara bersamaan).
 3. **Kekuasaan Data:** Semakin banyak data yang dimiliki perusahaan, semakin baik algoritma mereka, yang membuat layanan mereka semakin unggul dibandingkan pesaing baru.
 
 Sebagai contoh, ketika seseorang mencoba berpindah dari Google ke mesin pencari lain selama seminggu, hambatan utama yang dirasakan adalah rasa terbiasa dengan hasil pencarian dan integrasi akun mereka yang sudah terkunci pada ekosistem tersebut.
@@ -97,4 +97,4 @@ Ketika jumlah pengguna hanya naik 2 kali lipat, nilai jaringannya naik 4 kali li
 | **Persaingan** | Berdasarkan Harga & Kualitas | Berdasarkan Efek Jaringan & Lock-in |
 | **Skala** | Terbatas oleh kapasitas fisik | Tidak terbatas kapasitas fisik (Global) |
 
-> **Pesan Penting:** Di era digital, persaingan sering kali bukan terjadi *di dalam* pasar, melainkan persaingan *untuk menguasai* pasar itu sendiri. Siapa yang berhasil membangun jaringan terbesar dengan data paling akurat, biasanya dialah yang akan mendominasi.
+> **Pesan Penting:** Di era digital, persaingan sering kali berlangsung *untuk menguasai* pasar itu sendiri. Siapa yang berhasil membangun jaringan terbesar dengan data paling akurat, biasanya dialah yang akan mendominasi.

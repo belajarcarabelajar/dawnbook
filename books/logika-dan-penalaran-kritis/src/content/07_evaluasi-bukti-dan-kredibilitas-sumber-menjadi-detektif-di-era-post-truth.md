@@ -2,7 +2,7 @@
 
 Bayangkan kamu adalah seorang detektif yang berdiri di depan tumpukan berkas kasus. Beberapa berkas berisi kesaksian saksi mata yang jujur, tetapi yang lain berisi rumor tak berdasar atau bahkan kebohongan yang disengaja. Di era informasi digital ini, kita semua adalah detektif tersebut. Setiap hari, kita menerima banyak potongan data, berita, dan klaim.
 
-Kemampuan untuk **mengevaluasi bukti** dan **menilai kredibilitas sumber** bukan lagi sekadar keterampilan akademis, melainkan kebutuhan sehari-hari untuk menjaga penalaran kita.
+Kemampuan untuk **mengevaluasi bukti** dan **menilai kredibilitas sumber** kini menjadi kebutuhan sehari-hari untuk menjaga penalaran kita.
 
 ## 1. Memahami Bukti
 
@@ -15,7 +15,7 @@ Bukti adalah segala sesuatu yang digunakan untuk mendukung atau membuktikan suat
 3. **Experimental Evidence (Bukti Eksperimental):** Hasil dari uji coba terkontrol yang dapat direplikasi.
 4. **Meta-Analysis dan Systematic Review:** Puncak hierarki bukti ilmiah, ketika banyak studi dikumpulkan dan dianalisis secara kolektif.
 
-> **Prinsip Utama:** *"Absence of evidence is not evidence of absence"* (Ketiadaan bukti bukanlah bukti dari ketiadaan). Hanya karena belum ada bukti bahwa sesuatu itu ada atau benar, bukan berarti hal tersebut pasti tidak ada atau salah.
+> **Prinsip Utama:** *"Absence of evidence is not evidence of absence"* (Ketiadaan bukti bukanlah bukti dari ketiadaan). Belum adanya bukti bahwa sesuatu itu ada atau benar tidak membuktikan bahwa hal tersebut pasti tidak ada atau salah.
 
 ### Validitas dan Reliabilitas
 
@@ -24,7 +24,7 @@ Untuk menilai bukti secara teknis, kita menggunakan dua parameter utama:
 - **Validity (Validitas):** Apakah data tersebut benar-benar mengukur apa yang seharusnya diukur?
 - **Reliability (Reliabilitas):** Jika pengukuran diulang dalam kondisi yang sama, apakah hasilnya konsisten?
 
-Dalam statistik, kita sering melihat nilai signifikansi untuk menentukan apakah bukti tersebut kuat secara matematis: $p < 0.05$. Artinya, jika sebenarnya tidak ada efek (hipotesis nol benar), peluang memperoleh hasil seekstrem ini atau yang lebih ekstrem adalah kurang dari 5%.
+Dalam statistik, kita sering melihat nilai signifikansi $p < 0.05$ untuk menentukan apakah bukti tersebut kuat secara matematis. Artinya, jika sebenarnya tidak ada efek (hipotesis nol benar), peluang memperoleh hasil seekstrem ini atau yang lebih ekstrem adalah kurang dari 5%.
 
 ## 2. Kredibilitas Sumber dan Metode CRAAP
 
@@ -52,13 +52,13 @@ Mengapa informasi ini dibuat? Untuk mengedukasi, menghibur, membujuk, atau menju
 
 ## 3. Teknik Pemeriksaan Fakta (Fact-Checking)
 
-Selain menilai sumbernya, kita harus memeriksa isi dari informasi tersebut. Berikut adalah teknik yang digunakan oleh *fact-checker* profesional:
+Selain menilai sumbernya, kita harus memeriksa isi dari informasi tersebut. Berikut adalah teknik yang digunakan oleh *fact-checker* profesional.
 
 ### A. Lateral Reading
 
-Alih-alih menghabiskan waktu berjam-jam di satu situs untuk mencari tahu apakah situs itu kredibel, terapkan teknik **lateral reading** dengan membuka tab baru untuk mencari tahu apa yang dikatakan sumber luar tentang situs tersebut.
+Untuk menilai apakah sebuah situs kredibel, terapkan teknik **lateral reading**. Buka tab baru dan cari tahu apa yang dikatakan sumber luar tentang situs tersebut, tanpa menghabiskan waktu berjam-jam di situs itu sendiri.
 
-Sebagai analogi, jangan bertanya pada seorang penjual apakah barangnya bagus. Tanyalah pada tetangganya atau pelanggan lainnya.
+Sebagai analogi, kalau ingin tahu apakah barang seorang penjual bagus, tanyalah tetangganya atau pelanggan lainnya.
 
 ### B. Metode SIFT
 
@@ -89,7 +89,7 @@ Dalam pengembangan AI, bukti (data) mesti dievaluasi untuk menghindari bias. Jik
 
 **Klaim:** "Menghirup uap air garam bisa membunuh virus X."
 
-- **Evaluasi Bukti:** Cari di Google Scholar atau situs kesehatan resmi (WHO/Kemenkes). Apakah ada jurnal medis yang mendukung? (Hasil: Tidak ada).
+- **Evaluasi Bukti:** Cari di Google Scholar atau situs kesehatan resmi (WHO/Kemenkes). Apakah ada jurnal medis yang mendukung? (Hasil pencarian nihil.)
 - **Kredibilitas Sumber:** Siapa yang mengirim? Apakah ada nama dokter atau institusi yang bisa diverifikasi? Sering kali pesan ini menggunakan otoritas palsu ("Dokter dari RS Ternama").
 
 ### Laporan Keuangan Perusahaan
@@ -101,6 +101,6 @@ Dalam pengembangan AI, bukti (data) mesti dievaluasi untuk menghindari bias. Jik
 
 ## Poin Kunci
 
-Evaluasi bukti adalah tentang **skeptisisme yang sehat**, bukan sinisme. Sinisme berarti tidak percaya pada apa pun, sedangkan skeptisisme berarti menunda keyakinan sampai ada bukti yang memadai.
+Evaluasi bukti bertumpu pada **skeptisisme yang sehat**, yang berarti menunda keyakinan sampai ada bukti yang memadai. Sinisme berbeda, karena orang yang sinis tidak percaya pada apa pun.
 
-> **Pesan Penutup:** Di dunia yang penuh dengan "deepfake" dan misinformasi, yang menentukan bukan seberapa banyak informasi yang kamu lihat, melainkan seberapa kritis kamu menilainya.
+> **Pesan Penutup:** Di dunia yang penuh dengan "deepfake" dan misinformasi, nilailah setiap informasi yang kamu lihat dengan kritis, sebanyak apa pun informasi itu.

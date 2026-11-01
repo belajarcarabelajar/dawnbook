@@ -2,13 +2,13 @@
 
 Ada kalimat yang isinya sepenuhnya baik, tetapi setelah mendengarnya kamu ingin cepat-cepat pergi dari percakapan itu. "Kamu kelihatan beda hari ini, cocok banget," kata seorang teman sekelas sambil tersenyum. Tidak ada yang salah dengan kalimat itu. Namun, rasa kikuknya bertahan lama setelah percakapan selesai.
 
-Di bab 2 kita melihat teori tentang mengapa ketertarikan kadang datang secara tidak langsung, terbungkus kalimat yang bisa dimaknai lebih dari satu arah. Pujian bisa menjadi salah satu bungkus seperti itu. Bab ini membahas dua hal: apa kata riset tentang pujian di antara orang yang saling kenal, dan bagaimana kamu bisa menerima pujian tanpa merasa terikat oleh maksud yang mungkin ada di baliknya.
+Di bab 2 kita melihat teori tentang mengapa ketertarikan kadang datang secara tidak langsung, terbungkus kalimat yang bisa dimaknai lebih dari satu arah. Pujian bisa menjadi salah satu bungkus seperti itu. Bab ini membahas apa kata riset tentang pujian di antara orang yang saling kenal, lalu bagaimana kamu bisa menerima pujian tanpa merasa terikat oleh maksud yang mungkin ada di baliknya.
 
 ### Tebakan Keliru Si Pemberi Pujian
 
 [Zhao dan Epley (2021)](https://doi.org/10.1037/pspa0000277) menjalankan sembilan eksperimen tentang pujian. Dalam ringkasan penelitian mereka, orang yang memberi pujian meremehkan seberapa senang penerimanya nanti, sekaligus melebih-lebihkan seberapa canggung penerima itu akan merasa.
 
-Naskah Zhao dan Epley memberi contoh dari eksperimen pertama: pemberi pujian menebak rasa canggung penerima di skor 3,46, padahal penerima sendiri melaporkan 2,06. Naskah yang sama mencatat bahwa membaca pujian tidak membuat penerima merasa lebih canggung dibanding kelompok kontrol.
+Naskah Zhao dan Epley memberi contoh dari eksperimen pertama. Di sana pemberi pujian menebak rasa canggung penerima di skor 3,46, padahal penerima sendiri melaporkan 2,06. Naskah yang sama mencatat bahwa membaca pujian tidak membuat penerima merasa lebih canggung dibanding kelompok kontrol.
 
 [Boothby dan Bohns (2021)](https://doi.org/10.1177/0146167220949003) menemukan pola yang mirip dalam lima studi. Pemberi pujian meremehkan seberapa positif perasaan penerima, dan melebih-lebihkan seberapa terganggu serta tidak nyaman penerima akan merasa. Kekeliruan ini tetap ada bahkan ketika mereka menengok ke belakang, setelah pujian itu disampaikan.
 
@@ -18,7 +18,7 @@ Jadi, dalam dua penelitian ini, rasa canggung yang dibayangkan pemberi lebih bes
 
 Kenapa pemberi bisa salah menebak? [Boothby dan Bohns](https://doi.org/10.1177/0146167220949003) menjawab bahwa kekeliruan itu bersumber dari kecemasan pemberi sendiri tentang kecakapannya.
 
-Judul makalah [Zhao dan Epley](https://doi.org/10.1037/pspa0000277) menyebut akibatnya: meremehkan dampak positif pujian menjadi penghalang untuk mengungkapkannya. Kemungkinan, orang menahan pujian karena membayangkan suasana jadi kikuk, padahal penerimanya cenderung lebih senang daripada yang dibayangkan.
+Menurut judul makalah [Zhao dan Epley](https://doi.org/10.1037/pspa0000277), meremehkan dampak positif pujian menjadi penghalang untuk mengungkapkannya. Kemungkinan, orang menahan pujian karena membayangkan suasana jadi kikuk, padahal penerimanya cenderung lebih senang daripada yang dibayangkan.
 
 Boothby dan Bohns juga melaporkan bahwa pemberi pujian merasa lebih baik setelah benar-benar menyampaikannya.
 
@@ -26,15 +26,15 @@ Kalau kamu berada di posisi penerima, temuan ini memberi sudut pandang lain. Ora
 
 ### Batas Temuan Riset Pujian
 
-Sebelum membawa temuan ini ke situasimu, ada batas yang perlu kamu pegang. Peserta penelitian Zhao dan Epley sudah saling kenal: teman, anggota keluarga, atau pasangan. Pujian di antara mereka hidup di dalam hubungan yang sudah ada.
+Sebelum membawa temuan ini ke situasimu, ada batas yang perlu kamu pegang. Peserta penelitian Zhao dan Epley sudah saling kenal sebagai teman, anggota keluarga, atau pasangan. Pujian di antara mereka hidup di dalam hubungan yang sudah ada.
 
-Pujian dari seseorang yang menyukaimu, padahal kamu tidak menyukainya dengan cara yang sama, bisa membawa beban yang berbeda. Kalimatnya mungkin bukan sekadar pujian, tetapi juga pembuka. Riset di atas tidak mengukur situasi seperti itu. Jadi, kalau buku ini memakai temuan tersebut untuk pengagum yang tidak kamu harapkan, itu adalah tafsiran buku ini, bukan hasil penelitian.
+Pujian dari seseorang yang menyukaimu, padahal kamu tidak menyukainya dengan cara yang sama, bisa membawa beban yang berbeda. Kalimatnya mungkin sekaligus menjadi pembuka. Riset di atas tidak mengukur situasi seperti itu. Jadi, kalau buku ini memakai temuan tersebut untuk pengagum yang tidak kamu harapkan, itu adalah tafsiran buku ini.
 
-Yang masih bisa dipegang dengan hati-hati: dalam kedua penelitian itu, rasa canggung yang dibayangkan pemberi pujian lebih besar daripada yang dilaporkan penerima.
+Dengan hati-hati, satu hal masih bisa dipegang. Dalam kedua penelitian itu, rasa canggung yang dibayangkan pemberi pujian lebih besar daripada yang dilaporkan penerima.
 
 ### Menerima Pujian Cukup dengan Terima Kasih
 
-Bagian berikut adalah saran, bukan temuan riset. Cara paling sederhana menerima pujian adalah ucapan terima kasih yang pendek.
+Bagian berikut adalah saran buku ini, tanpa dasar temuan riset. Cara paling sederhana menerima pujian adalah ucapan terima kasih yang pendek.
 
 - "Terima kasih, aku senang dengarnya."
 - "Wah, makasih ya."
@@ -44,7 +44,7 @@ Kamu tidak perlu membantah pujian itu ("Ah, biasa saja kok"), menjelaskan panjan
 
 ### Rasa Syukur Tanpa Utang Perasaan
 
-Menerima pujian tidak sama dengan menerima tawaran. Kamu bisa menghargai kalimat baik seseorang tanpa merasa berutang apa pun kepadanya: tidak berutang waktu, tidak berutang balasan perasaan, dan tidak berutang penjelasan.
+Menerima pujian tidak sama dengan menerima tawaran. Kamu bisa menghargai kalimat baik seseorang tanpa merasa berutang apa pun kepadanya, baik waktu, balasan perasaan, maupun penjelasan.
 
 Kamu mungkin merasa bersalah karena berpikir, "Dia sudah baik padaku, masa aku dingin?" Rasa terima kasih dan rasa tertarik adalah dua hal yang terpisah. Kamu boleh tulus berterima kasih, lalu tetap tidak ingin hubungan itu bergerak ke arah romantis. Keduanya tidak saling membatalkan.
 
@@ -63,7 +63,7 @@ Pujian yang tulus boleh kamu nikmati. Yang perlu kamu jaga hanyalah agar penerim
 ### Poin Penting
 
 - Dalam penelitian Zhao dan Epley serta Boothby dan Bohns, pemberi pujian meremehkan rasa senang penerima dan melebih-lebihkan rasa canggungnya.
-- Peserta penelitian Zhao dan Epley sudah saling kenal, jadi menerapkannya pada pengagum yang tidak kamu harapkan adalah tafsiran, bukan temuan.
+- Peserta penelitian Zhao dan Epley sudah saling kenal, jadi menerapkannya pada pengagum yang tidak kamu harapkan masih sebatas tafsiran.
 - Terima kasih yang singkat sudah cukup, dan saat pujian datang bersama ajakan, jawab ajakannya secara terpisah dan jelas.
 
 Semua contoh di bab ini terjadi di antara orang yang pernah kamu temui langsung. Bagaimana jika pujian dan perhatian datang dari seseorang yang hanya kamu kenal lewat layar?

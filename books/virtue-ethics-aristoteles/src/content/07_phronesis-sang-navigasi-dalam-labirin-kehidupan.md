@@ -23,7 +23,7 @@ Seorang anak berumur 10 tahun bisa saja menjadi jenius matematika karena penguas
 
 ## 2\. Komponen Utama Phronesis
 
-Niat baik saja tidak cukup untuk melahirkan *Phronesis*. Kebijaksanaan praktis ini dibangun dari beberapa elemen yang saling terkait. Semuanya berawal dari **Empeiria** atau pengalaman. Phronesis tidak muncul dalam semalam; ia tumbuh seiring waktu ketika kita belajar dari benturan-benturan, kesalahan masa lalu, maupun keberhasilan kita.
+Niat baik saja tidak cukup untuk melahirkan *Phronesis*. Kebijaksanaan praktis ini dibangun dari beberapa elemen yang saling terkait. Semuanya berawal dari **Empeiria** atau pengalaman. Phronesis tumbuh perlahan seiring waktu ketika kita belajar dari benturan-benturan, kesalahan masa lalu, maupun keberhasilan kita.
 
 Pengalaman ini kemudian memicu **Pemahaman Konteks**. Orang yang bijak secara praktis mampu melihat detail kecil yang sering terlewatkan dalam suatu situasi. Mereka mempertimbangkan siapa saja yang terlibat, risiko yang ada, dan dampak jangka panjang dari sebuah tindakan. 
 
@@ -31,7 +31,7 @@ Selanjutnya adalah proses **Bouleusis** (deliberasi). Ini adalah fase ketika ses
 
 ## 3\. Phronesis Menentukan Jalan Tengah
 
-Meskipun Doktrin Jalan Tengah memberikan panduan teoretis, menemukan letak pasti titik tengah itu di lapangan adalah urusan lain. Titik tengah etis sama sekali bukan rata-rata matematika yang kaku.
+Meskipun Doktrin Jalan Tengah memberikan panduan teoretis, menemukan letak pasti titik tengah itu di lapangan adalah urusan lain. Rata-rata matematika yang kaku tidak akan menemukan titik tengah etis.
 
 <div>
 $$
@@ -43,13 +43,13 @@ Keseimbangan moral bersifat dinamis dan berubah-ubah sesuai konteks. Di sinilah 
 
 Ambil contoh keberanian. Di medan perang, keberanian berarti maju menghadapi musuh secara fisik. Tapi di lingkungan kantor, keberanian bisa berwujud keputusan seorang saksi mata yang melaporkan kasus korupsi. *Phronesis* memandu kamu membaca situasi, kapan harus mengambil langkah berani yang frontal dan kapan strategi lain lebih aman sekaligus efektif.
 
-Hal yang sama berlaku pada kejujuran. *Phronesis* membantu kamu menyortir bagaimana dan kapan sebuah kebenaran harus disampaikan. Tujuannya adalah memastikan kebaikan benar-benar terwujud, alih-alih sekadar melempar fakta yang justru merusak keadaan tanpa membawa perbaikan nyata.
+Hal yang sama berlaku pada kejujuran. *Phronesis* membantu kamu menyortir bagaimana dan kapan sebuah kebenaran harus disampaikan. Tujuannya adalah memastikan kebaikan benar-benar terwujud. Fakta yang dilempar begitu saja bisa merusak keadaan tanpa membawa perbaikan nyata.
 
 ## 4\. Cara Kerja Phronesis dalam Pengambilan Keputusan
 
 Mengambil keputusan menggunakan *Phronesis* melibatkan serangkaian langkah yang terus berulang bagai siklus. Tahap pertama dimulai dari **persepsi** (kemampuan melihat suatu situasi setajam mungkin tanpa terdistorsi oleh bias pribadi).
 
-Setelah realitasnya terbaca, kita masuk ke tahap **integrasi keutamaan**. Di sini kita memanggil nilai-nilai moral relevan yang sudah kita miliki, entah itu keadilan, kasih sayang, atau integritas. Nilai-nilai ini kemudian dibenturkan dengan **analisis konteks**. Kita mulai menelusuri detail spesifik: tindakan apa yang paling pas untuk orang tertentu ini, di detik ini juga, dan dengan alasan yang mendasarinya.
+Setelah realitasnya terbaca, kita masuk ke tahap **integrasi keutamaan**. Di sini kita memanggil nilai-nilai moral relevan yang sudah kita miliki, entah itu keadilan, kasih sayang, atau integritas. Nilai-nilai ini kemudian dibenturkan dengan **analisis konteks**. Kita mulai menelusuri detail spesifik, misalnya tindakan apa yang paling pas untuk orang tertentu ini, di detik ini juga, beserta alasan yang mendasarinya.
 
 Puncaknya adalah **Prohairesis** atau pengambilan keputusan. Tindakan dieksekusi dengan kesadaran penuh atas segala konsekuensinya. Proses ini tidak lantas berhenti setelah tindakan dilakukan. Tahap akhir yang tak kalah penting adalah **evaluasi**, ketika kita belajar dari hasil akhirnya untuk terus mengasah *Phronesis* kita di kemudian hari.
 
@@ -70,11 +70,11 @@ flowchart TD
 
 Mari lihat bagaimana konsep ini diterapkan di dunia nyata. Bayangkan seorang manajer yang mendapati karyawan terbaiknya mengalami penurunan performa drastis akibat masalah keluarga yang pelik. Di atas kertas, aturan perusahaan mewajibkan turunnya Surat Peringatan (SP) untuk setiap penurunan target.
 
-Jika bertindak tanpa *Phronesis*, manajer itu akan langsung menerbitkan SP layaknya mesin birokrasi kaku. Namun dengan *Phronesis*, ia mengukur tujuan jangka panjang: mempertahankan talenta yang sudah terbukti kualitasnya dan membangun loyalitas tim. Sang manajer mungkin akan memilih memberikan cuti pendek atau akses konseling, sembari tetap menyepakati target pemulihan di bulan berikutnya. Langkah ini menyeimbangkan keadilan bagi jalannya perusahaan dengan belas kasih terhadap individu.
+Jika bertindak tanpa *Phronesis*, manajer itu akan langsung menerbitkan SP layaknya mesin birokrasi kaku. Namun dengan *Phronesis*, ia mengukur tujuan jangka panjang, yaitu mempertahankan talenta yang sudah terbukti kualitasnya dan membangun loyalitas tim. Sang manajer mungkin akan memilih memberikan cuti pendek atau akses konseling, sembari tetap menyepakati target pemulihan di bulan berikutnya. Langkah ini menyeimbangkan keadilan bagi jalannya perusahaan dengan belas kasih terhadap individu.
 
 Contoh lain bisa kita temukan di ranah pengembangan produk. Seorang *engineer* menemukan celah keamanan minor pada perangkat lunak bernilai jutaan dolar yang dijadwalkan rilis keesokan harinya. Tanpa *Phronesis*, ia mungkin akan tutup mata karena menganggapnya sepele, atau sebaliknya, panik dan meminta pembatalan sepihak tanpa rencana mitigasi.
 
-Sebaliknya, *engineer* yang mempraktikkan *Phronesis* akan menelaah risiko secara teknis maupun etis. Ia menimbang-nimbang: apakah celah ini dapat membahayakan data pengguna secara fatal? Jika jawabannya ya, ia akan tegas meminta penundaan rilis. Namun jika risikonya minimal dan terisolasi, ia mungkin menyetujui peluncuran sambil menyiapkan *patch* keamanan susulan, didampingi komunikasi yang transparan ke para pemangku kepentingan.
+Sebaliknya, *engineer* yang mempraktikkan *Phronesis* akan menelaah risiko secara teknis maupun etis. Ia menimbang-nimbang apakah celah ini dapat membahayakan data pengguna secara fatal. Jika jawabannya ya, ia akan tegas meminta penundaan rilis. Namun jika risikonya minimal dan terisolasi, ia mungkin menyetujui peluncuran sambil menyiapkan *patch* keamanan susulan, didampingi komunikasi yang transparan ke para pemangku kepentingan.
 
 ## 6\. Mengapa Phronesis Penting di Era Modern?
 
@@ -82,4 +82,4 @@ Kita hidup di dunia yang semakin diatur oleh algoritma otomatis dan lapis-lapis 
 
 Aturan tertulis memang mampu menciptakan koridor batasan, namun *Phronesis*-lah yang memberikan kejelasan arah. Sering kali kita menjumpai orang yang berniat baik namun berakhir memperburuk keadaan karena mereka patuh secara buta pada prosedur baku tanpa membaca kondisi riil di lapangan.
 
-Pada akhirnya, *Phronesis* berfungsi sebagai jembatan yang menghubungkan karakter di dalam diri kita dengan eksekusi tindakan di luar. Rutin mengasah kebijaksanaan praktis mencegah kita jatuh menjadi sekadar pihak yang pandai berteori tentang kebaikan. Lebih dari itu, ia membentuk kita menjadi individu yang tangguh dalam menghidupkan nilai-nilai kebajikan tersebut di tengah peliknya realitas sehari-hari.
+Pada akhirnya, *Phronesis* berfungsi sebagai jembatan yang menghubungkan karakter di dalam diri kita dengan eksekusi tindakan di luar. Rutin mengasah kebijaksanaan praktis membentuk kita menjadi individu yang tangguh dalam menghidupkan nilai-nilai kebajikan di tengah peliknya realitas sehari-hari, sehingga kebaikan yang kita pahami benar-benar hadir dalam tindakan.

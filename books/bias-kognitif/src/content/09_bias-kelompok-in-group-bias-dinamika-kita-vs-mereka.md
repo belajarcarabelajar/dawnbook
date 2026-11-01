@@ -6,7 +6,7 @@ Secara sederhana, **Bias Kelompok** adalah kecenderungan psikologis manusia untu
 
 ## Mengapa Otak Kita "Pilih Kasih"?
 
-Akar dari bias ini sebenarnya berasal dari dorongan biologis dan psikologis untuk bertahan hidup serta mencari identitas, bukan hanya karena rasa benci kepada pihak luar.
+Akar dari bias ini sebenarnya berasal dari dorongan biologis dan psikologis untuk bertahan hidup serta mencari identitas. Rasa benci kepada pihak luar tidak cukup untuk menjelaskannya.
 
 ### 1\. Evolusi dan Kelangsungan Hidup
 
@@ -67,13 +67,13 @@ Dalam dunia teknik, sering terjadi gesekan antara tim *Developer* (yang membuat 
 
 Banyak perusahaan besar menolak menggunakan teknologi bagus yang diciptakan oleh perusahaan lain atau komunitas *open-source*. Mereka lebih memilih membuat versi sendiri, yang sering kali lebih buruk, hanya karena "bukan kita yang membuatnya". Ini adalah bentuk *In-group Bias* di level korporasi.
 
-Saat menyeleksi ide, pola pikir bias kelompok itu sederhana: ide dari anggota tim sendiri langsung disambut sebagai "ide brilian, mari kita eksekusi", sedangkan ide dari pihak lain "perlu ditinjau ulang", yang dalam praktiknya berarti dicari-cari kesalahannya.
+Saat menyeleksi ide, pola pikir bias kelompok bekerja dengan sederhana. Ide dari anggota tim sendiri langsung disambut sebagai "ide brilian, mari kita eksekusi", sedangkan ide dari pihak lain "perlu ditinjau ulang", yang dalam praktiknya berarti dicari-cari kesalahannya.
 
 ## Cara Mengenali dan Mengurangi Bias Kelompok
 
 Meskipun bias ini bersifat instingtif, kita bisa melatih otak untuk lebih objektif:
 
-1. **Dekategorisasi:** Cobalah melihat orang sebagai individu, bukan sebagai label (misal: jangan lihat "si orang akuntansi", tapi lihat "Budi yang hobi fotografi").
+1. **Dekategorisasi:** Cobalah melihat orang sebagai individu dan lepaskan labelnya. Misalnya, saat pikiranmu menyebut "si orang akuntansi", ganti dengan "Budi yang hobi fotografi".
 2. **Tujuan Superordinat:** Kerjakan proyek bersama kelompok lain yang mengharuskan kerja sama untuk mencapai target yang lebih besar. Saat kita berjuang demi tujuan yang sama, "mereka" menjadi "kita".
 3. **Latihan Empati Kognitif:** Tanyakan pada diri sendiri, *"Jika ide ini diusulkan oleh sahabat saya, apakah saya akan tetap menolaknya?"*
 
@@ -81,4 +81,4 @@ Meskipun bias ini bersifat instingtif, kita bisa melatih otak untuk lebih objekt
 
 *Coba ingat kembali saat terakhir kali kamu merasa kesal dengan sebuah kelompok (bisa jadi kelompok politik, pendukung klub bola, atau departemen lain di kantor). Apakah kekesalan kamu didasarkan pada data objektif, ataukah itu hanya cara otak kamu untuk merasa lebih bangga dengan kelompok kamu sendiri?*
 
-> **Pesan Utama:** Menyadari adanya Bias Kelompok bukan berarti kita tidak boleh bangga dengan identitas kita. Namun, objektivitas dimulai saat kita menyadari bahwa "jersey" yang kita pakai tidak membuat kita lebih benar daripada mereka yang memakai warna berbeda.
+> **Pesan Utama:** Bangga dengan identitas sendiri itu wajar. Objektivitas dimulai saat kita menyadari bahwa "jersey" yang kita pakai tidak membuat kita lebih benar daripada mereka yang memakai warna berbeda.

@@ -2,52 +2,52 @@
 
 Kehilangan uang Rp500.000 terasa lebih berat daripada rasa senang saat kamu menang atau menemukan uang dengan jumlah yang sama persis.
 
-Coba lakukan eksperimen pikir sederhana. Pagi tadi dompetmu hilang, dan di dalamnya ada Rp500.000. Sorenya, kamu menemukan Rp500.000 di kantong jaket lama yang jarang kamu pakai. Secara hitungan, hari ini kamu impas: satu rugi, satu untung, sama besar, saling menghapus. Tetapi rasanya tidak begitu. Rasa gembira karena uang temuan biasanya menguap sebelum malam, sementara kesal karena dompet hilang bisa bertahan sampai kamu tidur. Matematika menyatakan impas, perasaanmu menyimpulkan rugi.
+Coba lakukan eksperimen pikir sederhana. Pagi tadi dompetmu hilang, dan di dalamnya ada Rp500.000. Sorenya, kamu menemukan Rp500.000 di kantong jaket lama yang jarang kamu pakai. Secara hitungan, hari ini kamu impas karena satu rugi dan satu untung yang sama besar saling menghapus. Tetapi rasanya tidak begitu. Rasa gembira karena uang temuan biasanya menguap sebelum malam, sementara kesal karena dompet hilang bisa bertahan sampai kamu tidur. Matematika menyatakan impas, perasaanmu menyimpulkan rugi.
 
-Ketimpangan seperti ini bukan keunikan pribadimu, dan bukan pula tanda kamu pelit atau terlalu emosional. Ia salah satu temuan paling kokoh dalam psikologi pengambilan keputusan, dan pintu masuknya adalah sebuah teori tentang cara manusia memilih ketika hasilnya berisiko.
+Ketimpangan seperti ini dialami banyak orang, dan tidak menandakan kamu pelit atau terlalu emosional. Ia salah satu temuan paling kokoh dalam psikologi pengambilan keputusan, dan pintu masuknya adalah sebuah teori tentang cara manusia memilih ketika hasilnya berisiko.
 
 ### Fungsi nilai yang miring
 
-Tahun 1979, Daniel Kahneman dan Amos Tversky menerbitkan "Prospect Theory: An Analysis of Decision under Risk" di jurnal Econometrica. Makalah ini adalah kritik terbuka terhadap teori utilitas harapan, kerangka klasik yang menggambarkan manusia sebagai penimbang yang tenang: peluang dikalikan nilai hasil, semua opsi dijumlahkan, lalu yang tertimbang paling berat dipilih.
+Tahun 1979, Daniel Kahneman dan Amos Tversky menerbitkan "Prospect Theory: An Analysis of Decision under Risk" di jurnal Econometrica. Makalah ini adalah kritik terbuka terhadap teori utilitas harapan, kerangka klasik yang menggambarkan manusia sebagai penimbang yang tenang. Peluang dikalikan nilai hasil, semua opsi dijumlahkan, lalu yang tertimbang paling berat dipilih.
 
-Kahneman dan Tversky menunjukkan bahwa manusia sungguhan tidak menimbang seperti itu. Dari serangkaian eksperimen pilihan berisiko, mereka menyusun gambar pengganti bernama fungsi nilai: satu garis yang menggambarkan seberapa besar kenikmatan dan kesakitan yang lahir dari perubahan kekayaan. Garis itu naik untuk keuntungan dan turun untuk kerugian, sesuatu yang tidak mengejutkan. Yang mengejutkan adalah bentuknya: sisi yang turun terbukti secara umum jauh lebih curam daripada sisi yang naik.
+Kahneman dan Tversky menunjukkan bahwa manusia sungguhan tidak menimbang seperti itu. Dari serangkaian eksperimen pilihan berisiko, mereka menyusun gambar pengganti bernama fungsi nilai, sebuah garis yang menggambarkan seberapa besar kenikmatan dan kesakitan yang lahir dari perubahan kekayaan. Garis itu naik untuk keuntungan dan turun untuk kerugian, sesuatu yang tidak mengejutkan. Bentuknyalah yang mengejutkan. Sisi yang turun terbukti secara umum jauh lebih curam daripada sisi yang naik.
 
 > Bayangkan lembah dengan dua lereng. Lereng keuntungan landai, jadi mendaki Rp500.000 terasa seperti jalan pagi yang santai. Lereng kerugian terjal, jadi melorot Rp500.000 terasa seperti menuruni lereng yang curam. Ketinggianmu sama persis, rasanya berbeda. Timbangan di kepala memang tidak pernah seimbang, dan beratnya selalu condong ke sisi yang kita takuti.
 
-Kurva itu juga melengkung, artinya dua perubahan yang besarnya sama tidak selalu terasa sama. Kehilangan Rp100.000 pertama terasa lebih berat daripada Rp100.000 berikutnya ketika kerugianmu sudah membesar. Tetapi jangan sampai pesannya dimaknai terbalik. Melandai bukan berarti setara: sepanjang bagian yang melandai itu, lereng kerugian tetap lebih curam daripada lereng keuntungan.
+Kurva itu juga melengkung, artinya dua perubahan yang besarnya sama tidak selalu terasa sama. Kehilangan Rp100.000 pertama terasa lebih berat daripada Rp100.000 berikutnya ketika kerugianmu sudah membesar. Tetapi jangan sampai pesannya dimaknai terbalik. Lereng yang melandai tidak lantas menjadi setara. Sepanjang bagian yang melandai itu, lereng kerugian tetap lebih curam daripada lereng keuntungan.
 
 ### Efek kepastian
 
-Temuan kedua dari makalah 1979 itu diberi nama **certainty effect**, efek kepastian. Intinya satu kalimat: manusia memberi bobot terlalu kecil pada hasil yang kejadiannya hanya mungkin, dibandingkan pada hasil yang diperoleh dengan pasti. Hasil berpeluang 90 persen dihargai kurang dari sembilan puluh persen nilainya, sementara kepastian 100 persen terasa jauh lebih berharga daripada nilai sebenarnya.
+Temuan kedua dari makalah 1979 itu diberi nama **certainty effect**, efek kepastian. Intinya bisa dirangkum dalam satu kalimat. Manusia memberi bobot terlalu kecil pada hasil yang kejadiannya hanya mungkin, dibandingkan pada hasil yang diperoleh dengan pasti. Hasil berpeluang 90 persen dihargai kurang dari sembilan puluh persen nilainya, sementara kepastian 100 persen terasa jauh lebih berharga daripada nilai sebenarnya.
 
-Efek kepastian mendorong dua kebiasaan yang tampak bertolak belakang padahal berakar pada satu pohon. Ketika hasilnya keuntungan, kita menjadi penghindar risiko. Kamu lebih memilih mengambil Rp800.000 yang pasti daripada peluang 50 persen membawa pulang Rp2 juta, meskipun hitungan peluang menyodorkan harapan yang lebih besar. Kepastian bekerja seperti magnet: ia menyeret keputusanmu ke arahnya tanpa banyak bertanya.
+Efek kepastian mendorong dua kebiasaan yang tampak bertolak belakang padahal berakar pada satu pohon. Ketika hasilnya keuntungan, kita menjadi penghindar risiko. Kamu lebih memilih mengambil Rp800.000 yang pasti daripada peluang 50 persen membawa pulang Rp2 juta, meskipun hitungan peluang menyodorkan harapan yang lebih besar. Kepastian bekerja seperti magnet yang menyeret keputusanmu ke arahnya tanpa banyak bertanya.
 
 Ketika hasilnya kerugian, magnet yang sama menarik ke arah sebaliknya.
 
 ### Efek refleksi
 
-Lakukan satu trik sederhana: balikkan tanda semua pilihanmu. Untung jadi rugi, rugi jadi untung. Kahneman dan Tversky menyebut gejala ini **reflection effect**, dan menemukan polanya dengan konsisten: preferensi yang terbentuk di dunia keuntungan terbalik urutannya ketika dipantulkan ke dunia kerugian. Penghindaran risiko di wilayah untung umumnya berpasangan dengan pencarian risiko di wilayah rugi.
+Coba balikkan tanda semua pilihanmu. Untung jadi rugi, rugi jadi untung. Kahneman dan Tversky menyebut gejala ini **reflection effect**, dan menemukan polanya dengan konsisten. Preferensi yang terbentuk di dunia keuntungan terbalik urutannya ketika dipantulkan ke dunia kerugian. Penghindaran risiko di wilayah untung umumnya berpasangan dengan pencarian risiko di wilayah rugi.
 
 Contohnya persis seperti cermin. Di soal untung tadi, kamu memilih kepastian Rp800.000. Di soal rugi yang strukturnya identik, pasti rugi Rp800.000 melawan peluang 50 persen rugi Rp2 juta atau selamat tanpa rugi, kebanyakan orang justru menolak kepastian dan memilih melempar dadu. Angkanya sama, hanya tandanya dibalik, tetapi pilihannya berlawanan.
 
-Refleksi ini menjelaskan perilaku harian yang dulu terasa janggal. Orang yang memilih aman dengan deposito berbunga kecil adalah orang yang sama yang enggan menjual barang bekas di bawah harga beli, sekalipun barang itu menumpuk dan tak pernah dipakai, karena menahannya terasa seperti masih menyimpan peluang lolos dari kerugian. Kita berhati-hati ketika menghadapi untung, lalu berani mengambil risiko ketika menghadapi rugi. Bukan karakter yang berubah, melainkan lembah tempat kita berdiri.
+Refleksi ini menjelaskan perilaku harian yang dulu terasa janggal. Orang yang memilih aman dengan deposito berbunga kecil adalah orang yang sama yang enggan menjual barang bekas di bawah harga beli, sekalipun barang itu menumpuk dan tak pernah dipakai, karena menahannya terasa seperti masih menyimpan peluang lolos dari kerugian. Kita berhati-hati ketika menghadapi untung, lalu berani mengambil risiko ketika menghadapi rugi. Yang berganti hanyalah lembah tempat kita berdiri.
 
 ### Koefisien loss aversion
 
-Seberapa curam lereng kerugian itu? Tahun 1992, Tversky dan Kahneman menerbitkan "Advances in Prospect Theory" di Journal of Risk and Uncertainty, versi teori yang lebih matang dan siap diukur. Di sana mereka mengestimasi parameter yang menangkap ketimpangan ini, yang mereka lambangkan dengan lambda: **koefisien loss aversion**. Estimasi Tversky dan Kahneman (1992) menempatkan nilainya di angka 2,25.
+Seberapa curam lereng kerugian itu? Tahun 1992, Tversky dan Kahneman menerbitkan "Advances in Prospect Theory" di Journal of Risk and Uncertainty, versi teori yang lebih matang dan siap diukur. Di sana mereka mengestimasi parameter yang menangkap ketimpangan ini, **koefisien loss aversion**, yang mereka lambangkan dengan lambda. Estimasi Tversky dan Kahneman (1992) menempatkan nilainya di angka 2,25.
 
-Artinya sederhana: kerugian harus diganjar keuntungan kira-kira dua kali lipat besarnya agar rasa sakitnya bisa dilunasi oleh rasa senang. Rugi Rp500.000 tidak bisa ditutup oleh untung Rp500.000 di atas kertas perasaan; butuh sekitar dua kali lipatnya supaya neraca emosimu kembali nol.
+Artinya, kerugian harus diganjar keuntungan kira-kira dua kali lipat besarnya agar rasa sakitnya bisa dilunasi oleh rasa senang. Rugi Rp500.000 tidak bisa ditutup oleh untung Rp500.000 di atas kertas perasaan; butuh sekitar dua kali lipatnya supaya neraca emosimu kembali nol.
 
 Di sini perlu kejujuran ilmiah. Riset modern yang mengulang pengukuran dan merangkum banyak studi cenderung menemukan angka yang lebih rendah, sekitar 1,5. Mungkin kita tidak sepeka dua kali lipat yang dulu dihitung, mungkin hanya sepeka satu setengah kali. Tetapi perbedaan besarnya tidak menyentuh arah kesimpulannya. Lereng kerugian selalu lebih curam, dan kerugian selalu terasa lebih berat daripada keuntungan yang setara.
 
 ### Langkah menghadapi rasa takut rugi
 
-Mengetahui bahwa kepalamu memakai timbangan yang miring bukan kabar buruk, melainkan peralatan. Pertama, kenali momen condongnya. Setiap kali kata "rugi" muncul di meja keputusan, anggap itu alarm untuk memperlambat diri: rasa panikmu lebih keras dari yang seharusnya, jadi jangan biarkan volumenya menentukan keputusanmu. Kedua, awasi dua sisi magnet kepastian sekaligus. Saat menang, kamu cenderung lari dari risiko yang sebenarnya layak diambil; saat kalah, kamu tergoda menggandakan taruhan hanya agar tidak perlu mengakui rugi. Keduanya lahir dari akar yang sama, jadi keduanya layak dijaga dengan curiga yang sama. Ketiga, ubah satuan pengukuranmu. Sakit kerugian paling keras ketika kamu menatap satu transaksi dalam isolasi; taruh keputusan itu dalam gambaran kekayaan total hidupmu, dan pertanyaannya berubah dari "apakah aku rugi di sini" menjadi "apakah langkah ini baik untuk keseluruhan hidup keuanganku".
+Pengetahuan bahwa kepalamu memakai timbangan yang miring bisa kamu pakai sebagai peralatan. Pertama, kenali momen condongnya. Setiap kali kata "rugi" muncul di meja keputusan, anggap itu alarm untuk memperlambat diri. Rasa panikmu lebih keras dari yang seharusnya, jadi jangan biarkan volumenya menentukan keputusanmu. Kedua, awasi dua sisi magnet kepastian sekaligus. Saat menang, kamu cenderung lari dari risiko yang sebenarnya layak diambil; saat kalah, kamu tergoda menggandakan taruhan hanya agar tidak perlu mengakui rugi. Keduanya lahir dari akar yang sama, jadi keduanya layak dijaga dengan curiga yang sama. Ketiga, ubah satuan pengukuranmu. Sakit kerugian paling keras ketika kamu menatap satu transaksi dalam isolasi; taruh keputusan itu dalam gambaran kekayaan total hidupmu, dan pertanyaannya berubah dari "apakah aku rugi di sini" menjadi "apakah langkah ini baik untuk keseluruhan hidup keuanganku".
 
 ## Kesimpulan Bab
 
 - Fungsi nilai Kahneman dan Tversky (1979) lebih curam di sisi kerugian daripada di sisi keuntungan; Tversky dan Kahneman (1992) mengestimasi koefisiennya 2,25, riset modern cenderung menemukan sekitar 1,5, dan arahnya sama.
-- Kepastian bekerja sebagai magnet: orang berhati-hati di wilayah untung dan berani berjudi di wilayah rugi, meskipun angkanya identik.
+- Kepastian bekerja sebagai magnet. Orang berhati-hati di wilayah untung dan berani berjudi di wilayah rugi, meskipun angkanya identik.
 - Saat kata "rugi" muncul, perlambat diri, jaga kedua sisi magnet kepastian, dan timbang keputusan dalam gambaran kekayaan total.
 
 Rasa takut kehilangan tidak berhenti di eksperimen pikir. Contoh yang paling jelas ada di bursa, tempat banyak orang buru-buru menjual yang untung sambil menahan yang rugi bertahun-tahun.

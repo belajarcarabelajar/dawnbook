@@ -12,13 +12,13 @@ Secara teoretis, pasar sering kali gagal mencapai alokasi sumber daya yang optim
 - **Mendorong Inovasi:** Persaingan memaksa perusahaan untuk terus berinovasi. Jika sebuah perusahaan merasa aman tanpa pesaing, mereka cenderung malas untuk meningkatkan kualitas produk.
 - **Alokasi Sumber Daya yang Adil:** Mencegah penumpukan kekayaan dan kekuasaan ekonomi hanya pada segelintir orang atau kelompok (konglomerasi).
 
-> **Wawasan Penting:** Kebijakan antimonopoli hadir untuk melindungi proses persaingan, bukan untuk membendung pertumbuhan perusahaan besar.
+> **Wawasan Penting:** Kebijakan antimonopoli hadir untuk melindungi proses persaingan. Perusahaan besar masih boleh bertumbuh.
 
 ### 2. UU No. 5 Tahun 1999
 
 Di Indonesia, instrumen hukum utama untuk mengatur hal ini adalah **Undang-Undang Nomor 5 Tahun 1999** tentang Larangan Praktik Monopoli dan Persaingan Usaha Tidak Sehat.
 
-Pemerintah tidak bekerja sendirian; mereka membentuk lembaga independen yang disebut **KPPU (Komisi Pengawas Persaingan Usaha)**.
+Untuk menegakkannya, pemerintah membentuk lembaga independen yang disebut **KPPU (Komisi Pengawas Persaingan Usaha)**.
 
 **Tugas Utama KPPU:**
 
@@ -78,9 +78,9 @@ Uni Eropa sering kali mendenda perusahaan teknologi besar (seperti Google atau M
 
 ### 6. Dilema Regulasi pada Monopoli Alami
 
-Tidak semua monopoli merugikan. Ada yang disebut **Monopoli Alami (Natural Monopoly)**, yaitu industri tempat biaya investasi awalnya sangat besar sehingga lebih efisien jika hanya dikelola oleh satu perusahaan (misal: PLN untuk listrik atau PDAM untuk air).
+Tidak semua monopoli merugikan. Ada yang disebut **Monopoli Alami (Natural Monopoly)**, yaitu industri tempat biaya investasi awalnya sangat besar sehingga lebih efisien jika hanya dikelola oleh satu perusahaan (misalnya PLN untuk listrik atau PDAM untuk air).
 
-Dalam kasus ini, pemerintah tidak membubarkan monopolinya, melainkan **meregulasi harganya**.
+Dalam kasus ini, pemerintah membiarkan monopolinya berdiri dan **meregulasi harganya**.
 
 **Pendekatan Regulasi Harga:**
 

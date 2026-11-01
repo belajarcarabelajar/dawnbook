@@ -2,7 +2,7 @@
 
 Kita sudah memahami berbagai jenis bias yang sering menjebak pikiran, dan dari situ muncul sebuah pertanyaan mendasar. *Jika otak kita secara alami dirancang untuk memiliki bias, apakah kita bisa memperbaikinya?*
 
-Kabar baiknya, meskipun kita tidak bisa menghapus bias sepenuhnya (karena itu adalah bagian dari evolusi otak), kita bisa melakukan **mitigasi** dan **debiasing**. Bayangkan cognitive bias seperti ilusi optik; meskipun mata kamu tetap melihat garis yang sama panjangnya sebagai berbeda, dengan menggunakan penggaris, kamu bisa tahu kenyataan yang sebenarnya dan bertindak berdasarkan data tersebut, bukan berdasarkan ilusi tersebut.
+Kabar baiknya, meskipun kita tidak bisa menghapus bias sepenuhnya (karena itu adalah bagian dari evolusi otak), kita bisa melakukan **mitigasi** dan **debiasing**. Bayangkan cognitive bias seperti ilusi optik; meskipun mata kamu tetap melihat garis yang sama panjangnya sebagai berbeda, dengan menggunakan penggaris, kamu bisa tahu kenyataan yang sebenarnya dan bertindak berdasarkan data tersebut.
 
 ## 1\. Mengaktifkan System 2
 
@@ -22,7 +22,7 @@ Berikut adalah teknik yang bisa kamu terapkan secara mandiri saat dihadapkan pad
 
 Ini adalah teknik paling sederhana namun kuat untuk melawan **Confirmation Bias**.
 
-- **Cara Kerja:** Setiap kali kamu yakin akan suatu hal, tanyakan pada diri sendiri: *"Sebutkan tiga alasan mengapa keyakinan saya ini mungkin salah?"* atau *"Jika data yang ada menunjukkan hasil sebaliknya, apa penjelasannya?"*
+- **Cara Kerja:** Setiap kali kamu yakin akan suatu hal, tanyakan pada dirimu, *"Sebutkan tiga alasan mengapa keyakinan saya ini mungkin salah?"* atau *"Jika data yang ada menunjukkan hasil sebaliknya, apa penjelasannya?"*
 - **Tujuan:** Memaksa otak mencari informasi yang bertentangan dengan hipotesis awal.
 
 ### B. Pre-mortem (Analisis Pasca-Kematian Sebelum Kejadian)
@@ -37,7 +37,7 @@ Teknik ini sering digunakan dalam manajemen proyek untuk melawan **Optimism Bias
 Emosi sering kali memperkuat bias. Dengan menjaga jarak, kita menjadi lebih objektif.
 
 - Bayangkan jika sahabat kamu berada dalam situasi yang sama persis dengan kamu sekarang, saran apa yang akan kamu berikan kepadanya?
-- Menggunakan sudut pandang orang ketiga (misal: menyebut nama sendiri saat berpikir) terbukti secara ilmiah membantu menurunkan beban emosional dalam pengambilan keputusan.
+- Menggunakan sudut pandang orang ketiga (seperti menyebut nama sendiri saat berpikir) terbukti secara ilmiah membantu menurunkan beban emosional dalam pengambilan keputusan.
 
 ## 3\. Strategi Prosedural dan Struktural
 
@@ -45,7 +45,7 @@ Terkadang, kemauan saja tidak cukup. Kita butuh "pagar" dalam sistem kerja kita.
 
 ### A. Penggunaan Checklist (Daftar Periksa)
 
-Dalam dunia medis dan penerbangan, checklist bukan hanya alat pengingat, tapi alat mitigasi bias. Checklist memaksa kita melewati langkah-langkah yang mungkin ingin dilewati oleh System 1 yang terburu-buru.
+Dalam dunia medis dan penerbangan, checklist berfungsi sebagai alat pengingat sekaligus alat mitigasi bias. Checklist memaksa kita melewati langkah-langkah yang mungkin ingin dilewati oleh System 1 yang terburu-buru.
 
 ### B. Red Teaming (Tim Merah)
 
@@ -99,6 +99,6 @@ Untuk melatih aspek **kinestetik** (belajar dengan melakukan), cobalah latihan b
 
 ## Kesimpulan Mitigasi
 
-Mitigasi bias bukan tentang menjadi sempurna atau tidak pernah salah. Mitigasi adalah tentang **kerendahan hati intelektual**, yaitu menyadari bahwa kacamata yang kita gunakan untuk melihat dunia mungkin memiliki sedikit noda, dan kita butuh alat bantu untuk membersihkannya secara berkala.
+Mitigasi bias berpijak pada **kerendahan hati intelektual**, yaitu menyadari bahwa kacamata yang kita gunakan untuk melihat dunia mungkin memiliki sedikit noda, dan kita butuh alat bantu untuk membersihkannya secara berkala.
 
-> **Pesan Penting:** "Langkah pertama dalam debiasing bukan tentang mengetahui apa yang salah dengan pikiran orang lain, melainkan memiliki keberanian untuk bertanya: 'Bagaimana jika saya yang salah?'"
+> **Pesan Penting:** "Langkah pertama dalam debiasing adalah keberanian untuk bertanya, 'Bagaimana jika saya yang salah?'"

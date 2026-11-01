@@ -1,18 +1,18 @@
 ## Analisis Sensitivitas dan Validasi Hasil
 
-Setelah kamu menyusun **matriks keputusan** (*decision matrix*), angka-angka telah dijumlahkan dan menghasilkan pemenang yang jelas. Namun, muncul sebuah keraguan: *"Bagaimana jika estimasi biayaku sedikit meleset?"* atau *"Apakah pilihan ini tetap yang terbaik jika prioritas kecepatan pengerjaan tiba-tiba menjadi lebih penting?"*
+Setelah kamu menyusun **matriks keputusan** (*decision matrix*), angka-angka telah dijumlahkan dan menghasilkan pemenang yang jelas. Namun, muncul sebuah keraguan. *"Bagaimana jika estimasi biayaku sedikit meleset?"* atau *"Apakah pilihan ini tetap yang terbaik jika prioritas kecepatan pengerjaan tiba-tiba menjadi lebih penting?"*
 
 Inilah saatnya masuk ke tahap **analisis sensitivitas dan validasi**. Jika matriks keputusan adalah sebuah bangunan, maka analisis sensitivitas adalah "uji gempa" untuk memastikan bangunan tersebut tidak roboh hanya karena sedikit guncangan pada variabelnya.
 
 ### 1. Apa Itu Analisis Sensitivitas?
 
-**Analisis sensitivitas** adalah teknik untuk menentukan bagaimana hasil dari sebuah model (dalam hal ini, peringkat alternatif) berubah ketika input (bobot kriteria atau skor penilaian) divariasikan. Tujuannya bukan mengubah keputusan secara sembarangan, tetapi melihat seberapa tangguh (*robust*) keputusan tersebut.
+**Analisis sensitivitas** adalah teknik untuk menentukan bagaimana hasil dari sebuah model (dalam hal ini, peringkat alternatif) berubah ketika input (bobot kriteria atau skor penilaian) divariasikan. Tujuannya adalah melihat seberapa tangguh (*robust*) keputusan tersebut.
 
 *   **Keputusan Tangguh:** Peringkat pertama tetap tidak bergeser walaupun ada perubahan kecil pada bobot atau skor.
 *   **Keputusan Sensitif:** Hanya butuh sedikit pergeseran pada satu variabel untuk langsung mengubah pemenang utamanya.
 
 > **Analogi Sup Asin**
-> Bayangkan kamu sedang membuat sup. Analisis sensitivitas adalah proses bertanya: "Jika aku menambahkan satu sendok teh garam lagi, apakah sup ini masih enak, atau malah tidak bisa dimakan?" Jika rasanya tetap enak, resepmu "tangguh". Jika sedikit tambahan garam saja merusak segalanya, resepmu sangat "sensitif".
+> Bayangkan kamu sedang membuat sup. Analisis sensitivitas adalah proses bertanya, "Jika aku menambahkan satu sendok teh garam lagi, apakah sup ini masih enak, atau malah tidak bisa dimakan?" Jika rasanya tetap enak, resepmu "tangguh". Jika sedikit tambahan garam saja merusak segalanya, resepmu sangat "sensitif".
 
 ### 2. Mengapa Analisis Ini Sangat Penting?
 
@@ -58,7 +58,7 @@ Setelah menguji sensitivitas matriks, lakukan validasi akhir dengan memeriksa ti
 
 ### 5. Pemilihan Lokasi Gudang Baru
 
-Sebuah perusahaan logistik sedang memilih antara dua opsi: **Lokasi A** (dekat pusat kota, harga sewa mahal) dan **Lokasi B** (jauh dari kota, harga sewa murah).
+Sebuah perusahaan logistik sedang memilih antara **Lokasi A** (dekat pusat kota, harga sewa mahal) dan **Lokasi B** (jauh dari kota, harga sewa murah).
 
 Hasil awal matriks menunjukkan **Lokasi A** unggul tipis karena kriteria "Waktu Pengiriman" diberi bobot tinggi (50%).
 
@@ -81,6 +81,6 @@ Dengan bobot yang seimbang, kedua vendor seri di 7,0, jadi belum ada yang memimp
 
 ### Membaca Hasil Uji Sensitivitas
 
-> **Catatan Penting:** Analisis sensitivitas bukan bertujuan mencari jawaban yang paling "benar", melainkan memahami **risiko** di balik keputusan yang kamu pilih.
+> **Catatan Penting:** Analisis sensitivitas bertujuan memahami **risiko** di balik keputusan yang kamu pilih.
 
 Jika hasil keputusanmu tidak berubah meskipun kamu menggeser bobot kriteria sebesar $\pm 10-20 \text{\%}$, kamu bisa percaya diri dengan pilihan tersebut. Namun, jika perubahan kecil langsung mengacaukan peringkat alternatif, luangkan waktu kembali ke tahap pengumpulan data untuk memastikan angka-angkamu seakurat mungkin sebelum melangkah lebih jauh.

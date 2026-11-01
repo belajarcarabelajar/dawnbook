@@ -1,8 +1,8 @@
 ## Arete
 
-Tujuan akhir manusia sudah kita pahami sebagai *Eudaimonia* (kebahagiaan yang bermakna), dan kini muncul pertanyaan besar: *Bagaimana cara kita mencapainya?*
+Tujuan akhir manusia sudah kita pahami sebagai *Eudaimonia* (kebahagiaan yang bermakna), dan kini muncul pertanyaan besar, *bagaimana cara kita mencapainya?*
 
-Jawaban dari tradisi klasik, khususnya Aristoteles, terletak pada satu kata kunci: **Arete**.
+Tradisi klasik, khususnya Aristoteles, menjawabnya dengan satu kata kunci, **Arete**.
 
 ## 1\. Apa itu Arete? Memahami Konsep "Keunggulan"
 
@@ -16,7 +16,7 @@ Bagi manusia, Arete berarti **keunggulan dalam menggunakan akal budi (rasio)** u
 
 ## 2\. Kebajikan Intelektual vs. Moral
 
-Aristoteles membagi Arete menjadi dua kategori besar berdasarkan dua bagian jiwa manusia: bagian yang berpikir (intelektual) dan bagian yang merasakan atau berkeinginan (karakter/moral).
+Aristoteles membagi Arete menjadi dua kategori besar berdasarkan dua bagian jiwa manusia, yaitu bagian yang berpikir (intelektual) dan bagian yang merasakan atau berkeinginan (karakter/moral).
 
 ### A. Kebajikan Intelektual (Dianoetic Virtues)
 
@@ -32,7 +32,7 @@ Pernahkah kamu bertemu seseorang yang sangat pintar secara akademis tetapi serin
 
 ### B. Kebajikan Moral (Ethical Virtues)
 
-Kebajikan ini berkaitan dengan karakter, perasaan, dan tindakan kita sehari-hari dalam berinteraksi dengan orang lain. Berbeda dengan kebajikan intelektual, kebajikan moral tidak bisa dipelajari hanya dari buku; ia diperoleh melalui **habituasi (pembiasaan)**.
+Kebajikan ini berkaitan dengan karakter, perasaan, dan tindakan kita sehari-hari dalam berinteraksi dengan orang lain. Berbeda dengan kebajikan intelektual, kebajikan moral diperoleh melalui **habituasi (pembiasaan)**. Membaca buku saja tidak cukup untuk memilikinya.
 
 Contoh utama kebajikan moral:
 
@@ -45,8 +45,8 @@ Contoh utama kebajikan moral:
 
 Dalam Etika Kebajikan, kedua jenis Arete ini tidak bisa dipisahkan. Mereka bekerja seperti perangkat keras (*hardware*) dan perangkat lunak (*software*) pada komputer.
 
-- **Kebajikan Moral** memberikan dorongan untuk melakukan hal yang benar (misalnya: "Saya ingin bersikap adil").
-- **Kebajikan Intelektual (khususnya Phronesis)** memberikan panduan teknis tentang bagaimana melakukan hal tersebut dalam situasi yang rumit (misalnya: "Dalam situasi ini, tindakan adil yang tepat adalah X, bukan Y").
+- **Kebajikan Moral** memberikan dorongan untuk melakukan hal yang benar (misalnya, "Saya ingin bersikap adil").
+- **Kebajikan Intelektual (khususnya Phronesis)** memberikan panduan teknis tentang bagaimana melakukan hal tersebut dalam situasi yang rumit (misalnya, "Dalam situasi ini, tindakan adil yang tepat adalah X, bukan Y").
 
 Tanpa kebajikan intelektual, niat baik kita bisa menjadi bumerang. Tanpa kebajikan moral, kecerdasan kita bisa digunakan untuk tujuan yang jahat.
 
@@ -61,7 +61,7 @@ Seorang pengembang yang memiliki Arete akan menunjukkan dua jenis keunggulan:
 1. **Keunggulan Intelektual (Techne):** Ia menulis kode yang bersih, efisien, bebas bug, dan mampu memecahkan masalah logika yang rumit. Ia terus belajar teknologi terbaru.
 2. **Keunggulan Moral (Karakter):** Ia jujur ketika membuat kesalahan dalam kode, ia berani menyuarakan kekhawatiran tentang privasi data pengguna meskipun ditekan oleh atasan (Keberanian), dan ia membantu rekan tim yang kesulitan (Kemurahan Hati).
 
-**Pesan Kunci:** Seseorang yang hanya mahir coding (intelektual) tapi manipulatif (moral) bukanlah manusia yang unggul secara utuh menurut perspektif Arete.
+**Pesan Kunci:** Menurut perspektif Arete, seseorang yang hanya mahir coding (intelektual) tapi manipulatif (moral) tidak unggul secara utuh sebagai manusia.
 
 ## 5\. Ringkasan Visual
 
@@ -70,6 +70,6 @@ Seorang pengembang yang memiliki Arete akan menunjukkan dua jenis keunggulan:
 | **Intelektual** | Kebenaran & Rasio | Pengajaran & Studi | *Sophia*, *Techne*, *Phronesis* |
 | **Moral** | Tindakan & Karakter | Latihan & Kebiasaan | Keberanian, Kejujuran, Keadilan |
 
-Will Durant memadatkan pembagian ini menjadi satu gagasan saat menulis tentang Aristoteles: kita adalah apa yang kita kerjakan berulang kali, sehingga keunggulan merupakan kebiasaan, bukan tindakan sesaat. Kalimat dari *The Story of Philosophy* (1926) itu kerap dikutip seolah milik Aristoteles sendiri.
+Will Durant memadatkan pembagian ini menjadi satu gagasan saat menulis tentang Aristoteles. Menurutnya, kita adalah apa yang kita kerjakan berulang kali, sehingga keunggulan merupakan kebiasaan. Kalimat dari *The Story of Philosophy* (1926) itu kerap dikutip seolah milik Aristoteles sendiri.
 
-*Catatan: Pembahasan mengenai bagaimana tepatnya kita membentuk kebiasaan-kebiasaan baik ini akan dibahas secara mendalam pada bagian selanjutnya: **Habituasi**.*
+*Catatan: Pembahasan mengenai bagaimana tepatnya kita membentuk kebiasaan-kebiasaan baik ini akan dibahas secara mendalam pada bagian selanjutnya tentang **Habituasi**.*

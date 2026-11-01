@@ -1,6 +1,6 @@
 ## Identifikasi Keterampilan Dasar Mengajar (KDM)
 
-Mengajar bukan sekadar berdiri di depan kelas dan berbicara. Mengajar adalah sebuah seni sekaligus sains yang memerlukan penguasaan berbagai keterampilan spesifik. Bayangkan seorang koki profesional; ia tidak hanya tahu cara memasak, tetapi ia mahir memotong sayur, mengatur suhu api, meracik bumbu, hingga menyajikan hidangan dengan estetik.
+Mengajar adalah sebuah seni sekaligus sains yang memerlukan penguasaan berbagai keterampilan spesifik. Bayangkan seorang koki profesional. Ia mahir memotong sayur, mengatur suhu api, meracik bumbu, hingga menyajikan hidangan dengan estetik.
 
 Dalam dunia pendidikan, "pisau" dan "suhu api" tersebut adalah **Keterampilan Dasar Mengajar (KDM)**. Tanpa penguasaan KDM, materi yang bagus sekalipun mungkin tidak akan sampai ke benak siswa dengan efektif.
 
@@ -37,7 +37,7 @@ Menjelaskan adalah penyajian informasi secara lisan yang diorganisir secara sist
 
 ## 3. Keterampilan Bertanya
 
-Bertanya adalah instrumen utama dalam interaksi belajar-mengajar. Guru yang baik tidak hanya memberikan jawaban, tetapi memicu pertanyaan.
+Bertanya adalah instrumen utama dalam interaksi belajar-mengajar. Guru yang baik pandai memicu pertanyaan.
 
 - **Pertanyaan Dasar:** Fokus pada pemahaman fakta (Apa, Siapa, Di mana).
 - **Pertanyaan Lanjut:** Fokus pada kemampuan analisis, sintesis, dan evaluasi (Mengapa, Bagaimana jika...).
@@ -63,7 +63,7 @@ Kebosanan adalah musuh utama dalam belajar. Variasi dilakukan untuk menjaga agar
 
 ## 6. Keterampilan Membimbing Diskusi Kelompok Kecil
 
-Diskusi kelompok kecil memungkinkan siswa untuk berbagi informasi dan memecahkan masalah bersama. Peran guru di sini adalah sebagai **fasilitator**, bukan pendominasi.
+Diskusi kelompok kecil memungkinkan siswa untuk berbagi informasi dan memecahkan masalah bersama. Peran guru di sini adalah sebagai **fasilitator**. Ia menahan diri agar tidak mendominasi diskusi.
 
 **Langkah-langkah:**
 
@@ -99,7 +99,7 @@ flowchart TD
 
 ## 8. Keterampilan Menutup Pelajaran
 
-Menutup pelajaran bukan sekadar mengakhiri waktu, tetapi memberikan gambaran menyeluruh tentang apa yang telah dipelajari.
+Menutup pelajaran berarti memberikan gambaran menyeluruh tentang apa yang telah dipelajari.
 
 **Komponen Utama:**
 
@@ -132,9 +132,9 @@ Mari kita lihat bagaimana KDM ini bekerja secara terintegrasi dalam skenario nya
 
 ## Kesimpulan untuk Refleksi
 
-Keterampilan Dasar Mengajar bukanlah bakat lahiriah, melainkan kompetensi yang bisa dilatih melalui praktik terus-menerus dalam *Microteaching*. Kedelapan keterampilan ini saling melengkapi dan tidak berdiri sendiri.
+Keterampilan Dasar Mengajar adalah kompetensi yang bisa dilatih melalui praktik terus-menerus dalam *Microteaching*, sehingga kamu tidak perlu menunggu bakat lahiriah. Kedelapan keterampilan ini saling melengkapi dan tidak berdiri sendiri.
 
-*Coba renungkan: Dari kedelapan keterampilan di atas, mana yang menurut kamu paling menantang untuk dikuasai? Apakah itu menjaga ketenangan kelas (pengelolaan) atau memberikan pertanyaan yang memancing berpikir kritis?*
+*Dari kedelapan keterampilan di atas, mana yang menurut kamu paling menantang untuk dikuasai? Apakah itu menjaga ketenangan kelas (pengelolaan) atau memberikan pertanyaan yang memancing berpikir kritis?*
 
 **Poin Utama untuk Diingat:**
 

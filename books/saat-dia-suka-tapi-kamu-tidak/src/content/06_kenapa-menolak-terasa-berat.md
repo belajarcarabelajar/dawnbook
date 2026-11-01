@@ -20,9 +20,9 @@ Sisi yang lain, yaitu orang yang ditolak, punya ceritanya sendiri. Kita akan men
 
 Coba tanyakan pada dirimu, "Kalau ada orang yang tidak cocok denganku mengajak kencan, apakah aku akan menolak?" Mungkin kamu langsung menjawab ya. Penelitian [Joel, Teper, dan MacDonald (2014)](https://doi.org/10.1177/0956797614552828) menunjukkan bahwa jawaban itu bisa berubah ketika situasinya sungguhan.
 
-Dalam dua studi, orang lajang menghadapi ajakan dari calon kencan yang tidak menarik bagi mereka (studi pertama) atau yang tidak sesuai dengan preferensi mereka (studi kedua). Peserta yang percaya situasinya nyata secara signifikan kurang bersedia menolak calon yang tidak cocok itu dibandingkan peserta yang menganggap situasinya hanya hipotetis. Judul makalahnya sendiri merangkum temuan ini: orang melebih-lebihkan kesediaan mereka untuk menolak.
+Dalam dua studi, orang lajang menghadapi ajakan dari calon kencan yang tidak menarik bagi mereka (studi pertama) atau yang tidak sesuai dengan preferensi mereka (studi kedua). Peserta yang percaya situasinya nyata secara signifikan kurang bersedia menolak calon yang tidak cocok itu dibandingkan peserta yang menganggap situasinya hanya hipotetis. Judul makalahnya sendiri merangkum temuan ini, karena menyebut bahwa orang melebih-lebihkan kesediaan mereka untuk menolak.
 
-Apa yang menjelaskan selisih itu? Sebagian dijelaskan oleh *other-focused motives* (motif yang berpusat pada orang lain). Peserta yang hanya membayangkan situasi itu memperkirakan dorongan untuk tidak menyakiti perasaan orang lain lebih kecil daripada dorongan yang benar-benar dirasakan peserta dalam situasi nyata. Kata "sebagian" di sini penting, karena itu bukan satu-satunya penjelasan.
+Apa yang menjelaskan selisih itu? Sebagian dijelaskan oleh *other-focused motives* (motif yang berpusat pada orang lain). Peserta yang hanya membayangkan situasi itu memperkirakan dorongan untuk tidak menyakiti perasaan orang lain lebih kecil daripada dorongan yang benar-benar dirasakan peserta dalam situasi nyata. Kata "sebagian" di sini penting, karena motif itu belum menjelaskan seluruh selisihnya.
 
 [Siaran pers ScienceDaily](https://www.sciencedaily.com/releases/2014/11/141121141234.htm) tentang penelitian ini, yang terbit 25 November 2014, merangkumnya dengan kutipan yang terasa akrab (terjemahan bebas): "ketika benar-benar berhadapan dengan calon kencan, kita tidak suka menolak seseorang dan membuatnya merasa tidak enak, dan hal itu belum tentu kita perkirakan ketika membayangkan membuat pilihan semacam ini."
 
@@ -40,7 +40,7 @@ Studi kedua dalam penelitian yang sama menemukan bahwa alasan yang berkaitan den
 - harapan tentang masa depan hubungan di antara keduanya,
 - siapa yang akan disalahkan atas penolakan itu.
 
-Kekhawatiran pertama terdengar mirip dengan temuan Joel dan rekan tentang kepedulian pada perasaan orang lain. Penolak tidak hanya memikirkan dirinya sendiri, tetapi juga orang di depannya dan hubungan yang mungkin masih harus dijalani, misalnya karena kalian akan terus bertemu di kelas yang sama. Bab 7 nanti menyinggung soal alasan ini secara singkat.
+Kekhawatiran pertama terdengar mirip dengan temuan Joel dan rekan tentang kepedulian pada perasaan orang lain. Penolak ikut memikirkan orang di depannya dan hubungan yang mungkin masih harus dijalani, misalnya karena kalian akan terus bertemu di kelas yang sama. Bab 7 nanti menyinggung soal alasan ini secara singkat.
 
 ### Mengenali Rasa yang Membuatmu Ingin Mengiyakan
 

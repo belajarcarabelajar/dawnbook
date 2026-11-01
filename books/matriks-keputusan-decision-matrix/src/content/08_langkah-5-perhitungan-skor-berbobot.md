@@ -59,8 +59,8 @@ flowchart TD
 
 Bayangkan kamu adalah juri dalam sebuah liga basket. Tugasmu adalah menentukan siapa pemain terbaik musim ini.
 
-- **Kriteria A:** Jumlah poin yang dicetak (Bobot: 0.7 - Sangat Penting)
-- **Kriteria B:** Gaya rambut pemain (Bobot: 0.3 - Kurang Penting)
+- **Kriteria A:** Jumlah poin yang dicetak (bobot 0.7, sangat penting)
+- **Kriteria B:** Gaya rambut pemain (bobot 0.3, kurang penting)
 
 Pemain X mencetak banyak poin (Skor 9) tetapi gaya rambutnya biasa saja (Skor 4). Sebaliknya, Pemain Y hanya mencetak sedikit poin (Skor 3) tetapi memiliki gaya rambut yang sangat keren (Skor 10).
 

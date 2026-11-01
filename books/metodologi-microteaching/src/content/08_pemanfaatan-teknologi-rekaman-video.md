@@ -2,7 +2,7 @@
 
 Pernahkah kamu merasa sudah mengajar dengan maksimal, tetapi saat menerima umpan balik, ada hal-hal yang sama sekali tidak kamu sadari? Mungkin kamu terlalu sering membelakangi siswa saat menulis di papan tulis, atau mungkin ada kata "oke" yang terus berulang sebagai *filler word*.
 
-Di sinilah peran **Teknologi Rekaman Video** masuk. Dalam metodologi microteaching, video bukan sekadar dokumentasi administratif, melainkan instrumen observasi yang merekam apa adanya. Video menangkap detail yang terlewat oleh mata manusia dan memungkinkan kita untuk "keluar dari diri sendiri" guna melihat performa kita secara objektif.
+Di sinilah peran **Teknologi Rekaman Video** masuk. Dalam metodologi microteaching, video berfungsi sebagai instrumen observasi yang merekam apa adanya. Video menangkap detail yang terlewat oleh mata manusia dan memungkinkan kita untuk "keluar dari diri sendiri" guna melihat performa kita secara objektif.
 
 ## 1. Urgensi Rekaman Video dalam Microteaching
 
@@ -30,7 +30,7 @@ Gunakan prinsip **Rule of Thirds** untuk menempatkan subjek. Dalam microteaching
 
 ### B. Pencahayaan (Lighting)
 
-Pastikan sumber cahaya utama berada di **depan** atau **samping** guru, bukan di belakang (*backlight*). Jika sumber cahaya berada di belakang guru (seperti jendela besar), wajah guru akan terlihat gelap (siluet), sehingga ekspresi tidak terbaca.
+Pastikan sumber cahaya utama berada di **depan** atau **samping** guru. Cahaya dari belakang (*backlight*), misalnya dari jendela besar, membuat wajah guru terlihat gelap seperti siluet sehingga ekspresinya tidak terbaca.
 
 ### C. Kualitas Audio (Suara)
 
@@ -56,7 +56,7 @@ Agar hasil rekaman tidak menumpuk tanpa arah, ikuti standardisasi dokumentasi be
 
 ### Penamaan File (Naming Convention)
 
-Gunakan format yang konsisten untuk memudahkan pencarian di masa depan: `TANGGAL_NAMA_KDM_SESI.mp4` Contoh: `20231025_BudiSantoso_KeterampilanBertanya_Siklus1.mp4`
+Gunakan format nama yang konsisten seperti `TANGGAL_NAMA_KDM_SESI.mp4` agar file mudah dicari di masa depan, misalnya `20231025_BudiSantoso_KeterampilanBertanya_Siklus1.mp4`.
 
 ### Resolusi dan Format
 
@@ -90,4 +90,4 @@ Penting untuk diingat bahwa rekaman video melibatkan privasi orang lain (siswa m
 
 *Eksperimen Observasi Visual:* *Ketika sebuah rekaman video simulasi mengajar diputar tanpa audio, sejauh manakah gestur tubuh dan ekspresi wajah pengajar dapat menyampaikan pesan pembelajaran secara efektif?*
 
-> **Poin Kunci:** Rekaman video dalam microteaching bukan tentang membuat "film yang indah", melainkan tentang menangkap "proses yang nyata" demi perbaikan berkelanjutan.
+> **Poin Kunci:** Rekaman video dalam microteaching ada untuk menangkap "proses yang nyata" demi perbaikan berkelanjutan.

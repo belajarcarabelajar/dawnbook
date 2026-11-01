@@ -2,7 +2,7 @@
 
 Bayangkan otak kita adalah seorang hakim di dalam ruang sidang yang sangat sibuk. Setiap hari, ribuan kasus (keputusan) masuk ke meja hijau tersebut. Karena beban kerjanya berat, sang hakim sering kali mengambil "jalan pintas" untuk memberikan vonis cepat tanpa memeriksa seluruh bukti secara mendalam.
 
-Inilah realitas pengambilan keputusan manusia. Bias kognitif lebih dari sekadar istilah psikologi di buku teks. Ia membentuk sejarah, meruntuhkan bisnis bernilai miliaran dolar, dan memengaruhi cara kita menyukai atau membenci orang lain.
+Inilah realitas pengambilan keputusan manusia. Bias kognitif membentuk sejarah, meruntuhkan bisnis bernilai miliaran dolar, dan memengaruhi cara kita menyukai atau membenci orang lain.
 
 ## 1. Dunia Bisnis
 
@@ -88,12 +88,12 @@ Mari kita lihat bagaimana berbagai bias berkumpul dalam satu ruangan rapat:
 
 ## Tiga Kerugian Akibat Bias
 
-Dampak bias dalam pengambilan keputusan lebih dari sekadar "salah pilih". Dampak sebenarnya adalah **distorsi realitas**. Ketika kita membiarkan bias memegang kendali:
+Pada dasarnya, bias dalam pengambilan keputusan menimbulkan **distorsi realitas**. Ketika kita membiarkan bias memegang kendali:
 
 1. Kita kehilangan peluang (efisiensi ekonomi menurun).
 2. Kita menciptakan ketidakadilan (diskriminasi sosial meningkat).
 3. Kita merusak hubungan (empati berkurang).
 
-> **Insight:** Mengakui bahwa kamu memiliki bias adalah langkah pertama menuju kebijaksanaan. Keputusan yang baik tidak lahir karena kita bebas dari bias, tetapi karena kita sadar dan terus mengoreksinya.
+> **Insight:** Mengakui bahwa kamu memiliki bias adalah langkah pertama menuju kebijaksanaan. Keputusan yang baik lahir dari kesadaran akan bias dan kemauan untuk terus mengoreksinya.
 
 *Selanjutnya, kita akan mempelajari teknik praktis untuk melawan bias-bias ini dalam bab "Teknik Mitigasi dan Debiasing".*

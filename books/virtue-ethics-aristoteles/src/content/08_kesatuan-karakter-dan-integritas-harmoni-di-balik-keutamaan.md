@@ -2,7 +2,7 @@
 
 Bayangkan sebuah orkestra simfoni. Kamu mungkin memiliki seorang pemain biola yang mahir, seorang peniup oboe yang jenius, dan seorang perkusionis yang andal. Namun, jika masing-masing dari mereka bermain sesuai kehendak hati tanpa memedulikan satu sama lain, yang dihasilkan adalah kebisingan.
 
-Begitu pula dengan karakter manusia dalam **Etika Kebajikan**. Kebajikan-kebajikan seperti keberanian, kejujuran, dan keadilan tidak bisa berdiri sendiri sebagai unit-unit yang terpisah. Mereka harus bekerja sama dalam sebuah harmoni yang utuh. Inilah yang kita sebut sebagai **Kesatuan Karakter** dan **Integritas**.
+Begitu pula dengan karakter manusia dalam **Etika Kebajikan**. Kebajikan-kebajikan seperti keberanian, kejujuran, dan keadilan harus bekerja sama dalam sebuah harmoni yang utuh. Inilah yang kita sebut sebagai **Kesatuan Karakter** dan **Integritas**.
 
 ## 1. Kesatuan Kebajikan
 
@@ -13,7 +13,7 @@ Mengapa demikian? Mari kita lihat sebuah skenario:
 > **Skenario Si Pemberani yang Ceroboh**
 > Bayangkan seseorang yang sangat "berani" dalam menghadapi bahaya, tetapi ia tidak memiliki "kebijaksanaan praktis" (*Phronesis*) dan "pengendalian diri" (*Temperance*). Tanpa kedua hal itu, keberaniannya akan berubah menjadi kenekatan yang bodoh yang justru membahayakan diri sendiri dan orang lain.
 
-Dalam contoh di atas, "keberanian" tanpa "kebijaksanaan" merupakan sebuah cacat karakter, bukan kebajikan sejati. Kebajikan membutuhkan dukungan dari kebajikan lainnya agar tetap berada di "Jalan Tengah" (*The Golden Mean*).
+Dalam contoh di atas, "keberanian" tanpa "kebijaksanaan" merupakan sebuah cacat karakter. Kebajikan membutuhkan dukungan dari kebajikan lainnya agar tetap berada di "Jalan Tengah" (*The Golden Mean*).
 
 ### Mengapa Kebajikan Saling Terkait?
 
@@ -49,7 +49,7 @@ Sebagai contoh di perusahaan, seorang manajer mungkin memiliki kecakapan "Efisie
 
 Dalam kehidupan pribadi, seseorang yang jujur di tempat kerja tetapi tidak setia dalam hubungan personal menunjukkan kurangnya kesatuan karakter. Dalam Etika Kebajikan, orang tersebut belum benar-benar memiliki kebajikan "Kejujuran", karena kebajikan sejati harus meresap ke seluruh aspek kehidupan (bersifat *dispositional*).
 
-Integritas tidak berarti menjadi sempurna tanpa kesalahan. Integritas berarti memiliki komitmen untuk terus menyelaraskan bagian-bagian diri kita yang terpecah menuju satu kesatuan tujuan moral yang utuh.
+Integritas berarti memiliki komitmen untuk terus menyelaraskan bagian-bagian diri kita yang terpecah menuju satu kesatuan tujuan moral yang utuh. Kesalahan masih bisa terjadi di sepanjang jalan itu.
 
 ## Rumus Simbolis Eudaimonia
 

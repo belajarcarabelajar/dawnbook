@@ -1,6 +1,6 @@
 ## Matriks Keputusan (Decision Matrix)
 
-Dalam dunia profesional maupun pribadi, kita sering terjebak dalam **Paradox of Choice**: makin banyak pilihan, makin sulit memutuskan dengan bijak. Di sinilah **Matriks Keputusan (Decision Matrix)** membantu mengurai keraguan menjadi penilaian berangka. Menggunakan matriks keputusan membantu memetakan kriteria penilaian secara sistematis dan menghasilkan skor berbobot yang andal untuk setiap opsi.
+Dalam dunia profesional maupun pribadi, kita sering terjebak dalam **Paradox of Choice**, yaitu makin banyak pilihan, makin sulit memutuskan dengan bijak. Di sinilah **Matriks Keputusan (Decision Matrix)** membantu mengurai keraguan menjadi penilaian berangka. Menggunakan matriks keputusan membantu memetakan kriteria penilaian secara sistematis dan menghasilkan skor berbobot yang andal untuk setiap opsi.
 
 ## Memahami Matriks Keputusan
 
@@ -76,7 +76,7 @@ Berikut adalah tampilan sederhana dari apa yang akan kamu pelajari di bagian-bag
 
 ## Kesimpulan Awal
 
-Matriks keputusan merupakan instrumen disiplin berpikir, bukan sekadar coretan tabel angka. Dengan mengonversi intuisi subjektif menjadi data terukur, peluang kamu untuk mengambil langkah terbaik yang dapat dipertanggungjawabkan akan lebih besar.
+Di balik tabel angkanya, matriks keputusan adalah instrumen disiplin berpikir. Dengan mengonversi intuisi subjektif menjadi data terukur, peluang kamu untuk mengambil langkah terbaik yang dapat dipertanggungjawabkan akan lebih besar.
 
 Sebelum melangkah lebih jauh, coba tengok kembali satu keputusan besar yang pernah kamu ambil dalam satu tahun terakhir. Seandainya kamu menggunakan matriks ini kala itu, apakah keputusan yang kamu ambil akan tetap sama?
 

@@ -1,6 +1,6 @@
 ## Eksistensialisme Feminis
 
-Eksistensialisme feminis menelusuri cara masyarakat membentuk arti menjadi perempuan, dan cara seseorang merebut kembali kendali atas dirinya. Jika sebelumnya kita telah membahas bagaimana Jean-Paul Sartre menekankan bahwa "eksistensi mendahului esensi," maka **Simone de Beauvoir** membawa prinsip ini ke dalam realitas yang spesifik dan personal: **pengalaman hidup sebagai seorang perempuan.**
+Eksistensialisme feminis menelusuri cara masyarakat membentuk arti menjadi perempuan, dan cara seseorang merebut kembali kendali atas dirinya. Jika sebelumnya kita telah membahas bagaimana Jean-Paul Sartre menekankan bahwa "eksistensi mendahului esensi," maka **Simone de Beauvoir** membawa prinsip ini ke dalam **pengalaman hidup sebagai seorang perempuan**, sebuah realitas yang spesifik dan personal.
 
 Filsafat ini membedah bagaimana konstruksi sosial membentuk identitas gender, sekaligus menawarkan cara bagi kita untuk merebut kembali kendali atas diri sendiri.
 
@@ -15,13 +15,13 @@ Melalui argumen ini, Beauvoir menegaskan bahwa tidak ada "esensi feminin" yang m
 - **Seks (Biologis)** merujuk pada fakta anatomi tubuh, seperti kromosom $\text{XY}$ atau $\text{XX}$. Ini merupakan bagian dari faktisitas (*facticity*) diri kita (sesuatu yang sudah terberi sejak lahir dan tidak bisa kita ubah begitu saja).
 - **Gender (Sosial)** adalah kostum sosial yang dipasang masyarakat ke atas tubuh kita. Ini mencakup peran, ekspektasi perilaku, dan identitas yang dibebankan kepada seseorang berdasarkan jenis kelamin biologisnya.
 
-**Analogi Aktor dan Naskah:** Bayangkan kamu lahir di atas panggung teater. Begitu melangkah keluar, sutradara, yang mewakili masyarakat, langsung menyodorkan naskah dan kostum tertentu kepadamu karena penampilan fisikmu dianggap cocok untuk peran pendukung. Eksistensialisme feminis mengajakmu menyadari bahwa naskah tersebut bukanlah dirimu yang asli. Itu hanyalah peran buatan orang lain yang dipaksakan untuk kamu mainkan.
+**Analogi Aktor dan Naskah:** Bayangkan kamu lahir di atas panggung teater. Begitu melangkah keluar, sutradara, yang mewakili masyarakat, langsung menyodorkan naskah dan kostum tertentu kepadamu karena penampilan fisikmu dianggap cocok untuk peran pendukung. Eksistensialisme feminis mengajakmu menyadari bahwa naskah tersebut hanyalah peran buatan orang lain yang dipaksakan untuk kamu mainkan.
 
 ### 2. Konsep "Sang Liyan" (The Other)
 
 Sumbangsih pemikiran Beauvoir yang berpengaruh adalah analisisnya tentang perempuan sebagai **"Sang Liyan"** (The Other).
 
-Sepanjang sejarah peradaban dan struktur sosial, laki-laki hampir selalu ditempatkan sebagai **Subjek**: pusat dunia, tolok ukur kemanusiaan, dan pemilik kehendak bebas yang mutlak. Sebaliknya, perempuan diletakkan sebagai **Objek** yang eksistensinya didefinisikan hanya lewat hubungannya dengan laki-laki, entah sebagai pendamping, ibu, atau anak perempuan.
+Sepanjang sejarah peradaban dan struktur sosial, laki-laki hampir selalu ditempatkan sebagai **Subjek** yang menjadi pusat dunia, tolok ukur kemanusiaan, dan pemilik kehendak bebas yang mutlak. Sebaliknya, perempuan diletakkan sebagai **Objek** yang eksistensinya didefinisikan hanya lewat hubungannya dengan laki-laki, entah sebagai pendamping, ibu, atau anak perempuan.
 
 - **Subjek** adalah agen yang mandiri, aktif bergerak, dan memiliki kekuasaan penuh untuk menentukan arah hidupnya sendiri.
 - **Objek (The Other)** diposisikan sebagai pihak yang pasif. Eksistensinya didefinisikan oleh sudut pandang luar, bahkan sering kali dianggap sebagai penyimpangan dari norma standar yang diwakili oleh laki-laki.
@@ -47,13 +47,13 @@ Bagaimana seorang perempuan (atau individu mana pun yang terbelenggu konstruksi 
 
 ### 5. Skenario Kehidupan Modern
 
-Mari kita lihat bagaimana teori ini bekerja dalam praktik sehari-hari:
+Mari kita lihat bagaimana teori ini bekerja dalam praktik sehari-hari.
 
 **Pilihan Karier vs. Ekspektasi Keluarga** Sinta adalah seorang insinyur mesin yang berbakat (Transendensi). Namun, keluarganya terus menekankan bahwa ia harus segera menikah dan berhenti bekerja lembur karena "perempuan seharusnya di rumah menjaga keharmonisan" (Imanensi).
 
 Dalam sudut pandang Beauvoir, andai Sinta menyerah pada tekanan keluarga hanya demi mematuhi apa yang ia yakini sebagai "kodrat perempuan," ia sesungguhnya sedang terjebak dalam *Bad Faith* atau keyakinan buruk.
 
-Sebagai gantinya, tindakan eksistensial yang autentik menuntut Sinta untuk menyadari bahwa identitas gendernya tidak mendikte jalan hidupnya. Ia memegang kedaulatan penuh untuk mendefinisikan dirinya sendiri. Kebebasan Sinta terwujud saat ia berani memilih dan menekuni proyek hidupnya secara mandiri, melampaui sekat-sekat ekspektasi yang dipasang oleh masyarakat.
+Sebagai gantinya, tindakan eksistensial yang autentik menuntut Sinta untuk menyadari bahwa ia memegang kedaulatan penuh untuk mendefinisikan dirinya sendiri. Identitas gendernya tidak mendikte jalan hidupnya. Kebebasan Sinta terwujud saat ia berani memilih dan menekuni proyek hidupnya secara mandiri, melampaui sekat-sekat ekspektasi yang dipasang oleh masyarakat.
 
 ### Strategi Hidup Autentik
 
@@ -64,6 +64,6 @@ Untuk hidup secara autentik dalam kerangka eksistensialisme feminis, kamu bisa m
 3. **Bangun Proyek Transendensi:** Temukan kegiatan atau karya yang melampaui rutinitas harian dan memberi ruang bagimu untuk berkembang secara bebas.
 4. **Pupuk Solidaritas:** Ingatlah bahwa kebebasanmu terikat erat dengan kebebasan orang di sekitarmu. Tidak ada kebebasan sejati selama kita masih membiarkan sistem sosial mengobjekkan sesama manusia.
 
-> **Insight Utama:** Kebebasan sejati tidak diukur dari seberapa mirip kita dengan laki-laki, tetapi dari hak yang sama untuk merumuskan makna keberadaan kita sendiri tanpa dibatasi oleh anatomi tubuh.
+> **Insight Utama:** Kebebasan sejati diukur dari hak yang sama untuk merumuskan makna keberadaan kita sendiri tanpa dibatasi oleh anatomi tubuh. Kemiripan dengan laki-laki tidak menjadi ukurannya.
 
 Sebagai langkah awal untuk menemukan kebebasan eksistensialmu, cobalah mengurai satu hal dalam keseharianmu yang selama ini kamu anggap wajib dilakukan hanya karena tuntutan gender atau status sosial. Jika label tersebut dilepas sepenuhnya, apakah kamu akan tetap memilih untuk melakukannya? Jawaban jujurmu atas pertanyaan ini bisa menjadi langkah pertama menuju kehidupan yang lebih autentik.

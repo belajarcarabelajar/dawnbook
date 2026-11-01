@@ -1,20 +1,20 @@
 ## Anatomi Argumen
 
-Dalam kehidupan sehari-hari, kita sering mendengar kata "argumen". Sayangnya, banyak orang mengartikan argumen sebagai sebuah pertengkaran atau debat kusir yang penuh emosi. Dalam dunia penalaran kritis, **argumen** memiliki makna yang jauh lebih spesifik: argumen adalah sekumpulan pernyataan yang disusun sedemikian rupa untuk membuktikan kebenaran suatu gagasan.
+Dalam kehidupan sehari-hari, kita sering mendengar kata "argumen". Sayangnya, banyak orang mengartikan argumen sebagai sebuah pertengkaran atau debat kusir yang penuh emosi. Dalam dunia penalaran kritis, **argumen** memiliki makna yang jauh lebih spesifik, yaitu sekumpulan pernyataan yang disusun sedemikian rupa untuk membuktikan kebenaran suatu gagasan.
 
 Bayangkan sebuah argumen sebagai sebuah bangunan. Agar bangunan tersebut kokoh, ia membutuhkan fondasi yang kuat dan struktur yang saling mengunci. Jika fondasinya rapuh, maka seluruh bangunan akan runtuh, seindah apa pun tampilannya.
 
 ## 1\. Komponen Dasar Argumen
 
-Sebuah argumen yang lengkap minimal terdiri dari dua bagian utama: **Premis** dan **Konklusi**. Tanpa salah satunya, kamu tidak sedang berargumen; kamu mungkin hanya sedang memberikan pernyataan atau mengungkapkan perasaan.
+Sebuah argumen yang lengkap minimal terdiri dari **Premis** dan **Konklusi**. Tanpa salah satunya, yang kamu sampaikan mungkin hanya pernyataan atau ungkapan perasaan.
 
 ### A. Premis (Fondasi)
 
-Premis adalah pernyataan yang memberikan alasan, bukti, atau data untuk mendukung klaim yang kamu buat. Premis menjawab pertanyaan: *"Mengapa saya harus percaya pada pernyataanmu?"*
+Premis adalah pernyataan yang memberikan alasan, bukti, atau data untuk mendukung klaim yang kamu buat. Premis menjawab pertanyaan *"Mengapa saya harus percaya pada pernyataanmu?"*
 
 ### B. Konklusi (Atap/Tujuan)
 
-Konklusi adalah pernyataan akhir yang ingin kamu buktikan. Ini adalah inti dari pesanmu. Konklusi menjawab pertanyaan: *"Apa poin utama yang ingin kamu sampaikan?"*
+Konklusi adalah pernyataan akhir yang ingin kamu buktikan. Ini adalah inti dari pesanmu. Konklusi menjawab pertanyaan lain, *"Apa poin utama yang ingin kamu sampaikan?"*
 
 Secara matematis sederhana, struktur argumen dapat digambarkan sebagai berikut:
 
@@ -54,7 +54,7 @@ Gunakan kata-kata ini untuk menemukan kesimpulan:
 
 ## 3\. Membedakan Pernyataan Fakta dan Opini
 
-Sebelum menyusun argumen yang kuat, kita harus mampu membedakan bahan baku penyusunnya: Fakta dan Opini.
+Sebelum menyusun argumen yang kuat, kita harus mampu membedakan fakta dari opini, dua bahan baku penyusunnya.
 
 | Karakteristik | Fakta | Opini |
 | --- | --- | --- |
@@ -101,4 +101,4 @@ Sebagai latihan tambahan, cobalah amati satu iklan di televisi atau media sosial
 
 Memahami anatomi argumen adalah langkah pertama untuk menjadi seorang pemikir kritis yang tidak mudah dimanipulasi. Dengan mampu memisahkan premis dari konklusi, dan fakta dari opini, kamu bisa melihat kerangka berpikir seseorang dengan lebih jernih.
 
-**Ingat:** Argumen yang baik bukan tentang siapa yang paling keras suaranya, melainkan siapa yang memiliki premis paling solid dan hubungan logika yang paling runtut menuju konklusinya.
+**Ingat:** Kerasnya suara tidak membuat sebuah argumen jadi baik. Argumen yang baik punya premis paling solid dan hubungan logika yang paling runtut menuju konklusinya.

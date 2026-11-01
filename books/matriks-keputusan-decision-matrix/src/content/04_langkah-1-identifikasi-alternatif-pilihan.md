@@ -1,10 +1,10 @@
 ## Identifikasi Alternatif Pilihan
 
-Bayangkan kamu berdiri di depan sebuah mesin penjual otomatis (*vending machine*). Sebelum kamu memasukkan koin, matamu memindai seluruh rak untuk melihat pilihan yang tersedia: kopi, teh, soda, atau air mineral. Dalam konteks **matriks keputusan** (*decision matrix*), proses memindai rak ini setara dengan langkah pertama, yaitu **Identifikasi Alternatif**.
+Bayangkan kamu berdiri di depan sebuah mesin penjual otomatis (*vending machine*). Sebelum kamu memasukkan koin, matamu memindai seluruh rak untuk melihat pilihan yang tersedia, mulai dari kopi, teh, soda, sampai air mineral. Dalam konteks **matriks keputusan** (*decision matrix*), proses memindai rak ini setara dengan langkah pertama, yaitu **Identifikasi Alternatif**.
 
 ### Apa Itu Alternatif Pilihan?
 
-Dalam konteks matriks keputusan, **Alternatif** adalah berbagai opsi, solusi, atau kandidat yang bersaing untuk dipilih. Jika tujuanmu adalah "Membeli Laptop Baru", maka alternatifnya adalah merek dan model laptop yang berbeda (misalnya: MacBook Air, Dell XPS, atau ThinkPad).
+Dalam konteks matriks keputusan, **Alternatif** adalah berbagai opsi, solusi, atau kandidat yang bersaing untuk dipilih. Jika tujuanmu adalah "Membeli Laptop Baru", maka alternatifnya adalah merek dan model laptop yang berbeda (misalnya MacBook Air, Dell XPS, atau ThinkPad).
 
 > **Catatan Penting:** Kualitas keputusanmu sangat bergantung pada kualitas daftar alternatif yang kamu susun. Jika pilihan terbaik tidak masuk ke dalam daftarmu sejak awal, perhitungan secanggih apa pun tidak akan menghasilkan solusi terbaik.
 
@@ -24,7 +24,7 @@ Untuk mendapatkan daftar yang solid, kamu perlu menggabungkan kreativitas dengan
 
 Pada tahap awal, jangan terlalu kritis. Tuliskan semua kemungkinan yang muncul di benakmu atau timmu. Gunakan teknik *mind mapping* untuk memperluas daftar kemungkinan.
 
-- *Coba tanyakan pada diri sendiri: apakah ada cara radikal untuk menyelesaikan masalah ini yang belum pernah dicoba sebelumnya?*
+- *Coba tanyakan pada diri sendiri, apakah ada cara radikal untuk menyelesaikan masalah ini yang belum pernah dicoba sebelumnya?*
 
 #### 2. Riset dan *Benchmarking*
 
@@ -32,7 +32,7 @@ Lihat apa yang dilakukan pihak lain atau kompetitor dalam situasi serupa. Jika i
 
 #### 3. Batasan (*Constraints*)
 
-Identifikasi batas-batas yang tidak bisa dilanggar. Jika anggaranmu maksimal Rp10 juta, maka opsi seharga Rp20 juta bukan lagi alternatif, melainkan sekadar angan-angan.
+Identifikasi batas-batas yang tidak bisa dilanggar. Jika anggaranmu maksimal Rp10 juta, maka opsi seharga Rp20 juta keluar dari daftar alternatif dan tinggal menjadi angan-angan.
 
 $$
 \text{Anggaran} \leq \text{Rp10.000.000}
@@ -54,7 +54,7 @@ Gunakan prinsip ini untuk memastikan daftarmu efisien:
 Gunakan tes ini untuk membuang opsi yang tidak relevan sejak awal:
 
 - Apakah opsi ini menabrak hukum atau regulasi yang berlaku?
-- Kendala waktu: Apakah secara teknis tidak mungkin diimplementasikan dalam tenggat yang ditentukan?
+- Apakah secara teknis tidak mungkin diimplementasikan dalam tenggat waktu yang ditentukan?
 - Bagaimana dengan biaya operasionalnya? Apakah akan terlalu memberatkan keuangan kita?
 
 ### Contoh Kasus

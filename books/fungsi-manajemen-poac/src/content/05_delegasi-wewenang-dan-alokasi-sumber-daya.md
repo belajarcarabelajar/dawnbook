@@ -1,6 +1,6 @@
 ## Delegasi Wewenang dan Alokasi Sumber Daya
 
-Organisasi yang sudah punya visi jelas (Planning) dan struktur kokoh (Organizing) masuk ke langkah penting berikutnya: menentukan siapa melakukan apa. Langkah ini sekaligus menetapkan dengan alat apa mereka bekerja dan seberapa besar tanggung jawab yang mereka emban. Di sinilah prinsip **Delegasi Wewenang** dan **Alokasi Sumber Daya** menghubungkan rencana di atas kertas dengan aksi nyata di lapangan.
+Setelah punya visi jelas (Planning) dan struktur kokoh (Organizing), organisasi melangkah ke tahap berikutnya dengan menentukan siapa melakukan apa. Langkah ini sekaligus menetapkan dengan alat apa mereka bekerja dan seberapa besar tanggung jawab yang mereka emban. Di sinilah prinsip **Delegasi Wewenang** dan **Alokasi Sumber Daya** menghubungkan rencana di atas kertas dengan aksi nyata di lapangan.
 
 ## 1. Prinsip "The Right Man in the Right Place"
 
@@ -8,7 +8,7 @@ Inti dari efektivitas manajemen adalah penempatan orang yang tepat pada posisi y
 
 ### Menyelaraskan Kompetensi dengan Kebutuhan
 
-Prinsip ini tidak hanya berfokus pada mempekerjakan individu yang cerdas, tetapi lebih mengutamakan keselarasan atau kesesuaian (*fit*) antara orang tersebut dengan tugas dan budayanya. Keselarasan ini dapat ditinjau dari dua aspek utama:
+Prinsip ini mengutamakan keselarasan atau kesesuaian (*fit*) antara seseorang dengan tugas dan budayanya, di samping kecerdasannya. Keselarasan ini dapat ditinjau dari dua aspek utama:
 
 1. **Kemampuan Teknis (Hard Skills):** Penilaian terhadap sertifikasi, latar belakang pendidikan, atau pengalaman teknis yang dibutuhkan untuk menyelesaikan pekerjaan.
 2. **Kecocokan Budaya dan Karakter (Soft Skills):** Penyelarasan nilai-nilai pribadi individu dengan visi perusahaan. Sebagai contoh, seorang pekerja yang sangat kreatif mungkin akan merasa tertekan jika ditempatkan di bagian kepatuhan (*compliance*) yang kaku.
@@ -31,7 +31,7 @@ Sebagai contoh, kamu tidak bisa meminta seseorang bertanggung jawab atas sebuah 
 
 ### Rumus Keseimbangan Delegasi
 
-Secara konseptual, hubungan ini dapat digambarkan sebagai berikut: $\text{Wewenang} \approx \text{Tanggung Jawab}$. Jika $\text{Wewenang} > \text{Tanggung Jawab}$, ada risiko penyalahgunaan kekuasaan. Jika $\text{Wewenang} < \text{Tanggung Jawab}$, akan terjadi frustrasi dan inefisiensi.
+Secara konseptual, hubungan ini dapat digambarkan sebagai $\text{Wewenang} \approx \text{Tanggung Jawab}$. Jika $\text{Wewenang} > \text{Tanggung Jawab}$, ada risiko penyalahgunaan kekuasaan. Jika $\text{Wewenang} < \text{Tanggung Jawab}$, akan terjadi frustrasi dan inefisiensi.
 
 ## 3. Alokasi Sumber Daya
 
@@ -47,7 +47,7 @@ Meliputi mesin, perangkat lunak, ruang kantor, hingga bahan baku. Langkah utaman
 
 ### C. Sumber Daya Manusia (Waktu & Tenaga)
 
-Aspek ini tidak hanya menyangkut jumlah personel, tetapi juga pengelolaan waktu mereka secara efisien. Pengalokasian waktu (*time allocation*) yang tepat sangat diperlukan untuk memastikan anggota tim tidak mengalami kelelahan ekstrem (*burnout*) akibat beban kerja yang timpang antardepartemen.
+Aspek ini menyangkut jumlah personel sekaligus pengelolaan waktu mereka secara efisien. Pengalokasian waktu (*time allocation*) yang tepat sangat diperlukan untuk memastikan anggota tim tidak mengalami kelelahan ekstrem (*burnout*) akibat beban kerja yang timpang antardepartemen.
 
 ## 4. Peluncuran Fitur Flash Sale
 
@@ -65,4 +65,4 @@ Meskipun terlihat mudah di atas kertas, praktiknya sering kali sulit karena fakt
 - **Tantangan Kepercayaan:** Beberapa manajer merasa mereka harus menangani segala hal sendiri agar hasilnya memuaskan, yang sering kali berujung pada pengawasan berlebih (*micromanagement*).
 - **Keterbatasan Sumber Daya:** Keinginan ekspansi sering kali tidak sejalan dengan ketersediaan dana dan fasilitas yang ada.
 
-> **Pesan Utama:** Delegasi tidak sama dengan lepas tangan. Melalui delegasi, manajer memberdayakan orang lain agar skala organisasi dapat tumbuh melampaui keterbatasan kapasitas pribadi.
+> **Pesan Utama:** Melalui delegasi, manajer memberdayakan orang lain agar skala organisasi dapat tumbuh melampaui keterbatasan kapasitas pribadi. Manajer yang mendelegasikan tugas tidak lantas lepas tangan.

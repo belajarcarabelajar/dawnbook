@@ -2,15 +2,15 @@
 
 Bonus Rp500.000 dan gaji Rp500.000 punya nilai tukar yang sama, tapi hampir semua orang memperlakukannya seolah-olah dua jenis uang yang berbeda.
 
-Lihat saja apa yang terjadi di kepalamu. Gaji langsung terbelah menjadi tugas-tugas: sebagian untuk tagihan, sebagian untuk belanja bulanan, sisanya disisihkan dengan hati-hati. Bonus diperlakukan lain. Ia terasa seperti hadiah, seperti uang yang boleh dibelanjakan tanpa banyak perhitungan, entah untuk sepatu yang lama diinginkan atau makan enak bersama teman. Padahal coba pikir sejenak: angkanya sama, nilai tukarnya sama, kegunaannya sama. Kalau kedua lembar itu diletakkan berdampingan, tidak ada yang membedakan keduanya. Yang berbeda hanya satu hal: label yang menempel di kepalamu.
+Lihat saja apa yang terjadi di kepalamu. Gaji langsung dibagi-bagi. Sebagian untuk tagihan, sebagian untuk belanja bulanan, sisanya disisihkan dengan hati-hati. Bonus diperlakukan lain. Ia terasa seperti hadiah, seperti uang yang boleh dibelanjakan tanpa banyak perhitungan, entah untuk sepatu yang lama diinginkan atau makan enak bersama teman. Padahal coba pikir sejenak. Angkanya sama, nilai tukarnya sama, kegunaannya sama. Kalau kedua lembar itu diletakkan berdampingan, tidak ada yang membedakan keduanya. Perbedaannya hanya ada pada label yang menempel di kepalamu.
 
 Ekonom Richard Thaler menyebut kebiasaan ini akuntansi mental, dan dalam papernya "Mental Accounting Matters" (1999) ia membahasnya secara rinci. Menurut teori ekonomi, semua uang itu sama dan bisa saling dipertukarkan. Menurut kepala kita, setiap uang punya label.
 
 ### Laci-laci di dalam kepala
 
-Akuntansi mental bukan sekadar gaya bicara. Thaler menunjukkan bahwa ia bekerja lewat tiga komponen yang saling menyambung. Pertama, cara hasil-hasil ekonomi dipersepsikan dan dievaluasi: untung dan rugi tidak pernah dicatat apa adanya, melainkan lewat kerangka yang sedang kita pegang. Kedua, penugasan aktivitas ke akun tertentu: belanja mingguan dimasukkan ke anggaran makan, liburan dimasukkan ke pos tabungan liburan. Ketiga, seberapa sering akun-akun itu ditinjau ulang, persoalan yang dalam literatur disebut choice bracketing: seberapa luas beberapa keputusan digabungkan dalam satu kali evaluasi.
+Thaler menunjukkan bahwa akuntansi mental bekerja lewat tiga komponen yang saling menyambung. Pertama, cara hasil-hasil ekonomi dipersepsikan dan dievaluasi. Untung dan rugi selalu dicatat lewat kerangka yang sedang kita pegang. Kedua, penugasan aktivitas ke akun tertentu, misalnya belanja mingguan ke anggaran makan dan liburan ke pos tabungan liburan. Ketiga, seberapa sering akun-akun itu ditinjau ulang, persoalan yang dalam literatur disebut choice bracketing, yaitu seberapa luas beberapa keputusan digabungkan dalam satu kali evaluasi.
 
-Semua itu terdengar seperti pembukuan yang rapi, tapi Thaler menegaskan bahwa setiap komponen akuntansi mental melanggar prinsip dasar ekonomi bernama fungibility: anggapan bahwa uang bisa saling menggantikan, sehingga satu rupiah di dompet nilainya sama dengan satu rupiah di saku belakang. Dalam lembar pembukuan, anggapan itu berlaku. Dalam kepala, labellah yang menentukan.
+Semua itu terdengar seperti pembukuan yang rapi, tapi Thaler menegaskan bahwa setiap komponen akuntansi mental melanggar prinsip dasar ekonomi bernama fungibility. Prinsip ini menganggap uang bisa saling menggantikan, sehingga satu rupiah di dompet nilainya sama dengan satu rupiah di saku belakang. Dalam lembar pembukuan, anggapan itu berlaku. Dalam kepala, labellah yang menentukan.
 
 > Ibaratnya, kepalamu memakai sistem arsip berwarna. Uang makan masuk map biru, uang liburan masuk map kuning, bonus masuk map hijau bertuliskan "kejutan". Isinya sama-sama lembaran rupiah, tapi begitu map biru kosong, kamu enggan menyentuh map kuning, meski di mata bank semua itu hanya satu saldo yang sama.
 
@@ -22,7 +22,7 @@ Kalau diteliti lebih dekat, Thaler mencatat bahwa uang diberi label dalam tiga l
 - Kekayaan dialokasikan ke dalam akun-akun, misalnya rekening, dana pensiun, dan "dana hujan" untuk hari-hari buruk.
 - Penghasilan dipilah ke dalam kategori, misalnya reguler atau windfall, uang yang datang teratur dibanding uang kejutan.
 
-Lapis ketiga inilah yang menjawab paradoks di pembuka bab. Gaji masuk kategori reguler, penuh kewajiban yang sudah antre menunggu. Bonus masuk kategori windfall, uang kejutan yang belum ditagih siapa pun. Jumlahnya sama, akunnya berbeda, maka perlakuannya ikut berbeda. Dan label semacam ini bekerja diam-diam tapi kuat: uang pos makan tidak biasa dicomot untuk sepatu, tabungan pensiun nyaris tak pernah dipakai liburan, dan uang kejutan sering habis paling cepat justru karena tidak ada yang menagihnya.
+Lapis ketiga inilah yang menjawab paradoks di pembuka bab. Gaji masuk kategori reguler, penuh kewajiban yang sudah antre menunggu. Bonus masuk kategori windfall, uang kejutan yang belum ditagih siapa pun. Jumlahnya sama, akunnya berbeda, maka perlakuannya ikut berbeda. Label semacam ini bekerja diam-diam tapi kuat. Uang pos makan tidak biasa dicomot untuk sepatu, tabungan pensiun nyaris tak pernah dipakai liburan, dan uang kejutan sering habis paling cepat karena tidak ada yang menagihnya.
 
 ### Dua puluh dolar yang terasa lebih mahal
 
@@ -30,13 +30,13 @@ Seberapa jauh label bisa menipu, terukur rapi dalam eksperimen klasik Tversky da
 
 Sekarang skenarionya diganti sedikit. Kali ini tiket sudah kamu beli di muka, dan di pintu masuk tiket itu hilang, tak bisa ditemukan. Apakah kamu membeli tiket kedua? Hanya 46 persen yang bersedia.
 
-Padahal kalau dihitung dingin, kedua situasi identik: kamu kehilangan nilai 10 dolar dan butuh 10 dolar lagi untuk menonton. Bedanya hanya letak pencatatannya. Kehilangan uang tunai dicatat ke akun umum, tidak menyentuh akun pertunjukan, sehingga menonton masih terasa 10 dolar. Kehilangan tiket langsung dibukukan ke akun pertunjukan yang sama, sehingga satu pementasan terasa harganya 20 dolar, dan bagi banyak orang itu sudah melampaui batas. Angka yang sama, laci yang berbeda, keputusan yang terbalik.
+Padahal kalau dihitung dingin, kedua situasi identik. Dalam keduanya kamu kehilangan nilai 10 dolar dan butuh 10 dolar lagi untuk menonton. Bedanya hanya letak pencatatannya. Kehilangan uang tunai dicatat ke akun umum, tidak menyentuh akun pertunjukan, sehingga menonton masih terasa 10 dolar. Kehilangan tiket langsung dibukukan ke akun pertunjukan yang sama, sehingga satu pementasan terasa harganya 20 dolar, dan bagi banyak orang itu sudah melampaui batas. Angka yang sama, laci yang berbeda, keputusan yang terbalik.
 
 ### Saat kepala menolak mencatat kerugian
 
-Pembukuan ini sering menelan biaya. Thaler mengilustrasikannya lewat contoh pertandingan basket saat badai. Seseorang membeli tiket jauh-jauh hari, lalu di hari pertandingan badai turun, jalan licin, dan perjalanan berat. Banyak orang nekat berangkat, bukan karena pertandingannya begitu penting, melainkan karena tiket yang sudah dibayar tidak tega dibiarkan hangus. Padahal uang itu selesai sejak pembayaran dilakukan. Ekonom menyebutnya sunk cost, biaya yang sudah tenggelam dan seharusnya tidak lagi dihitung dalam keputusan apa pun. Akun di kepala berpendapat sebaliknya: asal tidak tercatat rugi, badai pun dihadapi.
+Pembukuan ini sering menelan biaya. Thaler mengilustrasikannya lewat contoh pertandingan basket saat badai. Seseorang membeli tiket jauh-jauh hari, lalu di hari pertandingan badai turun, jalan licin, dan perjalanan berat. Banyak orang nekat berangkat karena tidak tega membiarkan tiket yang sudah dibayar hangus. Padahal uang itu selesai sejak pembayaran dilakukan. Ekonom menyebutnya sunk cost, biaya yang sudah tenggelam dan seharusnya tidak lagi dihitung dalam keputusan apa pun. Akun di kepala berpendapat sebaliknya. Asal tidak tercatat rugi, badai pun dihadapi.
 
-Sisi lain dari sistem yang sama bekerja dengan arah yang menarik. Thaler menutup rangkaian ini dengan sebuah pengakuan: mungkin alat pemisah terbaik adalah kartu kredit. Ia memisahkan momen menikmati barang dari momen kehilangan uang. Barang dibawa pulang hari ini, tagihan menyusul beberapa pekan kemudian, dan selama kedua momen itu terpisah, akun-akun di kepala tidak pernah mencatat keduanya bersamaan.
+Sisi lain dari sistem yang sama bekerja dengan arah yang menarik. Thaler menutup rangkaian ini dengan pengakuan bahwa alat pemisah terbaik mungkin adalah kartu kredit. Ia memisahkan momen menikmati barang dari momen kehilangan uang. Barang dibawa pulang hari ini, tagihan menyusul beberapa pekan kemudian, dan selama kedua momen itu terpisah, akun-akun di kepala tidak pernah mencatat keduanya bersamaan.
 
 ## Intisari
 
@@ -44,4 +44,4 @@ Sisi lain dari sistem yang sama bekerja dengan arah yang menarik. Thaler menutup
 - Bonus terasa bebas dibelanjakan karena masuk kategori windfall, sementara gaji masuk kategori reguler yang penuh kewajiban.
 - Dalam eksperimen tiket teater Tversky dan Kahneman (1981), 88 persen masih mau membeli tiket setelah kehilangan 10 dolar tunai, tapi hanya 46 persen setelah kehilangan tiketnya, karena tiket kedua dibukukan ke akun pertunjukan yang sama.
 
-Kalau begitu, satu pertanyaan tersisa: kenapa kartu itu terasa lebih murah, dan uang tunai terasa lebih berat? Jawabannya ada pada momen ketika uang benar-benar berpindah tangan.
+Kalau begitu, tinggal satu pertanyaan. Kenapa kartu itu terasa lebih murah, dan uang tunai terasa lebih berat? Jawabannya ada pada momen ketika uang benar-benar berpindah tangan.

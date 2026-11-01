@@ -2,7 +2,7 @@
 
 Pernahkah kamu duduk di dalam bioskop, menyadari bahwa film yang kamu tonton sangat buruk dan membosankan, namun kamu tetap bertahan hingga akhir? Semua itu hanya karena "sayang tiketnya sudah dibeli". Atau mungkin, kamu terus memperbaiki mobil tua yang terus-menerus mogok karena kamu sudah menghabiskan jutaan rupiah untuk servis sebelumnya?
 
-Jika ya, kamu sedang terjebak dalam salah satu bias kognitif yang paling umum dan merusak secara finansial maupun emosional: **Kekeliruan Biaya Tertanam (Sunk Cost Fallacy).**
+Jika ya, kamu sedang terjebak dalam **Kekeliruan Biaya Tertanam (Sunk Cost Fallacy)**, salah satu bias kognitif yang paling umum dan merusak secara finansial maupun emosional.
 
 ## 1. Apa Itu Sunk Cost Fallacy?
 
@@ -10,7 +10,7 @@ Jika ya, kamu sedang terjebak dalam salah satu bias kognitif yang paling umum da
 
 Dalam ekonomi, **Sunk Cost** (Biaya Tertanam) adalah biaya yang sudah terjadi dan tidak dapat dipulihkan kembali. Secara logika, biaya ini tidak boleh memengaruhi keputusan kita di masa depan. Namun, otak manusia sering kali gagal memisahkan investasi masa lalu dari potensi keuntungan masa depan.
 
-> **Insight Utama:** Keputusan yang rasional seharusnya hanya didasarkan pada biaya dan manfaat di masa depan, bukan pada apa yang telah hilang di masa lalu.
+> **Insight Utama:** Keputusan yang rasional seharusnya hanya didasarkan pada biaya dan manfaat di masa depan. Apa yang telah hilang di masa lalu tidak ikut dihitung.
 
 ## 2. Mengapa Otak Kita Terjebak?
 
@@ -20,7 +20,7 @@ Ada beberapa mekanisme psikologis yang membuat kita sulit melepaskan "biaya tert
 
 Manusia secara alami lebih takut kehilangan sesuatu daripada ingin mendapatkan sesuatu dengan nilai yang sama. Berhenti dari proyek yang gagal terasa seperti "mengakui kekalahan" atau "membuang uang", sementara terus melanjutkannya memberikan harapan palsu bahwa kita bisa "impas".
 
-Secara matematis, dalam teori prospek, utilitas kerugian ($U$) dirasakan lebih dalam daripada keuntungan: $|U(-x)| > U(x)$. Artinya, rasa sakit kehilangan Rp1.000.000 lebih kuat daripada rasa senang mendapatkan Rp1.000.000.
+Secara matematis, dalam teori prospek, utilitas kerugian ($U$) dirasakan lebih dalam daripada keuntungan, atau $|U(-x)| > U(x)$. Artinya, rasa sakit kehilangan Rp1.000.000 lebih kuat daripada rasa senang mendapatkan Rp1.000.000.
 
 ### B. Menghindari Penyesalan
 
@@ -82,7 +82,7 @@ flowchart TD
     C -->|"tidak"| E["HENTIKAN, kamu hanya akan membuang lebih banyak sumber daya"]
 ```
 
-Contohnya, dengan angka ilustrasi: sebuah proyek aplikasi sudah menghabiskan Rp100 juta, tetapi butuh Rp50 juta lagi untuk selesai, padahal pasarnya sudah hilang sehingga aplikasi itu hanya bernilai Rp30 juta.
+Sebagai contoh dengan angka ilustrasi, sebuah proyek aplikasi sudah menghabiskan Rp100 juta, tetapi butuh Rp50 juta lagi untuk selesai, padahal pasarnya sudah hilang sehingga aplikasi itu hanya bernilai Rp30 juta.
 
 | Komponen | Nilai |
 | --- | --- |
@@ -112,11 +112,11 @@ Seorang mahasiswa tetap melanjutkan jurusan yang tidak ia sukai hingga lulus han
 
 Untuk melawan Sunk Cost Fallacy, kamu perlu melatih cara berpikir objektif:
 
-1. **Abaikan Masa Lalu:** Saat mengambil keputusan, tanyakan pada diri sendiri: *"Jika saya baru memulai hari ini tanpa ada beban masa lalu, apakah saya akan memilih jalan ini?"*
+1. **Abaikan Masa Lalu:** Saat mengambil keputusan, tanyakan pada diri sendiri, *"Jika saya baru memulai hari ini tanpa ada beban masa lalu, apakah saya akan memilih jalan ini?"*
 2. **Fokus pada Biaya Peluang (Opportunity Cost):** Sadarilah bahwa setiap rupiah atau jam yang kamu habiskan untuk proyek yang gagal adalah sumber daya yang bisa kamu gunakan untuk proyek lain yang lebih menjanjikan.
 3. **Gunakan Penasihat Luar:** Orang luar yang tidak memiliki ikatan emosional dengan investasi kamu akan lebih mudah melihat bahwa suatu proyek sudah tidak layak dilanjutkan.
 4. **Tetapkan Batas Berhenti (Stop-Loss):** Sebelum memulai sesuatu, tentukan di titik mana kamu akan berhenti jika target tidak tercapai.
 
 *Coba ingat-ingat satu hal dalam hidup kamu saat ini yang tetap kamu lakukan hanya karena kamu 'sudah telanjur'. Jika kamu berhenti sekarang, peluang baru apa yang bisa kamu kejar?*
 
-> **Pesan Penting:** Menyerah pada hal yang salah bukanlah sebuah kegagalan. Ini adalah langkah cerdas untuk memberikan ruang bagi hal yang benar.
+> **Pesan Penting:** Menyerah pada hal yang salah adalah langkah cerdas untuk memberikan ruang bagi hal yang benar.

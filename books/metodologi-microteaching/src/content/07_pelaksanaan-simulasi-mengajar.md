@@ -2,7 +2,7 @@
 
 Inti metodologi microteaching ada pada **eksekusi**, tahap yang datang setelah persiapan dan perencanaan di bagian sebelumnya. Di sinilah teori bertemu dengan praktik.
 
-Bayangkan simulasi mengajar seperti sebuah pertunjukan teater pendek. Kamu hanya memiliki waktu singkat dan audiens yang terbatas, tetapi harus menyampaikan pesan yang mendalam. Keberhasilan kamu tidak hanya ditentukan oleh apa yang kamu katakan, tetapi juga oleh bagaimana kamu mengatakannya, bagaimana tubuh kamu bergerak, dan bagaimana kamu memakai waktu yang tersedia.
+Bayangkan simulasi mengajar seperti sebuah pertunjukan teater pendek. Kamu hanya memiliki waktu singkat dan audiens yang terbatas, tetapi harus menyampaikan pesan yang mendalam. Keberhasilan kamu ditentukan oleh apa yang kamu katakan, bagaimana kamu mengatakannya, bagaimana tubuh kamu bergerak, dan bagaimana kamu memakai waktu yang tersedia.
 
 ## 1. Kendali Suara
 
@@ -10,9 +10,9 @@ Suara adalah alat kerja utama seorang guru. Dalam microteaching, yang ruangannya
 
 ### A. Volume dan Proyeksi
 
-Volume bukan berarti berteriak. Proyeksi adalah kemampuan mengirimkan suara ke bagian paling belakang ruangan tanpa kehilangan kejelasan.
+Proyeksi adalah kemampuan mengirimkan suara ke bagian paling belakang ruangan tanpa kehilangan kejelasan, dan untuk itu kamu tidak perlu berteriak.
 
-- **Tip:** Bayangkan kamu sedang berbicara dengan seseorang yang duduk di baris paling belakang, bukan hanya yang di depan meja kamu.
+- **Tip:** Bayangkan lawan bicaramu adalah seseorang yang duduk di baris paling belakang.
 
 ### B. Intonasi dan Variasi Nada
 
@@ -43,7 +43,7 @@ Jangan hanya menatap langit-langit, lantai, atau papan tulis.
 
 ### B. Gestur dan Gerakan Tangan
 
-Tangan kamu harus membantu menjelaskan konsep, bukan menjadi gangguan.
+Tangan kamu harus membantu menjelaskan konsep.
 
 - **Terbuka:** Gunakan telapak tangan terbuka untuk mempersilakan siswa menjawab (menunjukkan keterbukaan).
 - **Hindari:** Memasukkan tangan ke saku, menyilangkan tangan di dada, atau memegang spidol dengan gelisah.
@@ -75,7 +75,7 @@ Dalam microteaching, waktu biasanya dibatasi antara **10 hingga 15 menit**. Meng
 Wajar jika kamu merasa gugup saat simulasi, apalagi jika diobservasi oleh rekan sejawat atau dosen.
 
 - **Teknik Pernapasan:** Gunakan pernapasan diafragma sebelum masuk kelas. Tarik napas 4 hitungan, tahan 4 hitungan, buang 4 hitungan.
-- **Mindset:** Anggap rekan sejawat kamu benar-benar sebagai siswa yang butuh ilmu, bukan sebagai pengamat yang mencari kesalahan.
+- **Mindset:** Anggap rekan sejawat kamu benar-benar sebagai siswa yang butuh ilmu, lalu lepaskan bayangan tentang pengamat yang mencari kesalahan.
 - **Simulasi Mental:** Bayangkan skenario mengajar kamu dari awal sampai akhir di dalam pikiran sebelum benar-benar melakukannya.
 
 ## Simulasi Hukum Newton 12 Menit

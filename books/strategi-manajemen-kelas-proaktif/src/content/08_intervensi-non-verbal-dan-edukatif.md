@@ -4,11 +4,11 @@ Pernahkah kamu sedang menjelaskan bagian materi yang penting, tepat saat siswa m
 
 Seketika, momentum itu hilang. Alur berpikir kelas terputus, dan kamu butuh waktu ekstra untuk mengembalikan fokus mereka. Inilah yang kita sebut sebagai "biaya gangguan" (*interruptive cost*).
 
-Intervensi nonverbal adalah solusi untuk meminimalkan biaya tersebut. Tujuannya sederhana: **menghentikan gangguan ringan sambil menjaga alur pembelajaran tetap mengalir.**
+Intervensi nonverbal adalah solusi untuk meminimalkan biaya tersebut. Tujuannya **menghentikan gangguan ringan sambil menjaga alur pembelajaran tetap mengalir.**
 
 ### Konduktor Orkestra di Kelas
 
-Bayangkan seorang konduktor orkestra. Saat seorang pemain biola sedikit melenceng dari tempo, konduktor tidak menghentikan seluruh musik dan berteriak. Sebaliknya, ia memberikan tatapan tajam, isyarat tangan kecil, atau condong ke arah pemain tersebut. Musik terus berjalan, dan masalah terselesaikan.
+Bayangkan seorang konduktor orkestra. Saat seorang pemain biola sedikit melenceng dari tempo, konduktor cukup memberikan tatapan tajam, isyarat tangan kecil, atau condong ke arah pemain tersebut. Musik terus berjalan, dan masalah terselesaikan.
 
 Dalam manajemen kelas, kamu adalah konduktornya. Intervensi nonverbal memungkinkan kamu melakukan koreksi tanpa harus menjadi "polisi" yang menghentikan pelajaran.
 
@@ -20,7 +20,7 @@ Kita menggunakan pendekatan progresif. Mulailah dari yang paling halus sebelum b
 
 Kontak mata adalah alat yang kuat tetapi sering diremehkan.
 
-- **Teknik Radar:** Lakukan pemindaian (*scanning*) rutin 360 derajat. Saat melihat gangguan ringan (misal: siswa melamun), buat kontak mata selama 3-5 detik.
+- **Teknik Radar:** Lakukan pemindaian (*scanning*) rutin 360 derajat. Saat melihat gangguan ringan (misalnya siswa melamun), buat kontak mata selama 3-5 detik.
 - **Ekspresi Netral-Serius:** Gunakan ekspresi yang menunjukkan kamu sadar akan perilaku mereka, tetapi tetap tenang. Hindari ekspresi marah yang berlebihan karena dapat memicu konfrontasi.
 
 #### 2. Kontrol Kedekatan (Proximity Control)
@@ -52,7 +52,7 @@ Alih-alih menegur dari depan kelas (yang membuat siswa merasa dipermalukan dan c
 
 #### Teknik Catatan Kecil (The Post-it Method)
 
-Jika kamu tidak ingin menghentikan pembicaraan sama sekali, bawalah tumpukan *sticky notes*. Tuliskan instruksi singkat (misal: "Halaman 42, kerjakan nomor 1") dan tempelkan di meja siswa yang tidak fokus sambil kamu terus mengajar.
+Jika kamu tidak ingin menghentikan pembicaraan sama sekali, bawalah tumpukan *sticky notes*. Tuliskan instruksi singkat (misalnya "Halaman 42, kerjakan nomor 1") dan tempelkan di meja siswa yang tidak fokus sambil kamu terus mengajar.
 
 ### Pendekatan Reaktif vs. Proaktif
 
@@ -87,10 +87,10 @@ Semakin kecil $D$ (durasi interupsi), semakin tinggi efisiensi manajemen kelas k
 
 Berikut adalah langkah-langkah praktis yang bisa kamu terapkan mulai besok:
 
-1. **Tetapkan Sinyal Nonverbal:** Di awal semester, beri tahu siswa: *"Jika saya mengetuk meja kalian, itu tandanya kalian harus kembali fokus. Jika saya mengangkat tangan, itu tandanya saya butuh perhatian penuh tanpa suara."*
+1. **Tetapkan Sinyal Nonverbal:** Di awal semester, beri tahu siswa, *"Jika saya mengetuk meja kalian, itu tandanya kalian harus kembali fokus. Jika saya mengangkat tangan, itu tandanya saya butuh perhatian penuh tanpa suara."*
 2. **Gunakan Alat Bantu Visual:** Gunakan lampu lalu lintas (gambar merah, kuning, hijau) di papan tulis untuk menunjukkan level kebisingan yang diperbolehkan. Tunjuk ke arah warna tersebut tanpa bicara jika kelas mulai bising.
 3. **Latihan "Scan" 5 Menit:** Setiap 5 menit, paksa diri kamu untuk berhenti melihat buku atau papan tulis, dan pindai wajah seluruh siswa di kelas.
 
-*Pertimbangkan hal berikut: Jika kamu bisa menghentikan gangguan tanpa mengeluarkan satu kata pun, berapa banyak energi dan emosi yang bisa kamu simpan hingga jam terakhir sekolah?*
+*Jika kamu bisa menghentikan gangguan tanpa mengeluarkan satu kata pun, berapa banyak energi dan emosi yang bisa kamu simpan hingga jam terakhir sekolah?*
 
-**Pesan Penting:** Intervensi nonverbal bukan tentang intimidasi, melainkan tentang **efisiensi dan rasa hormat**. Dengan meminimalkan teguran publik, kamu membangun hubungan yang lebih aman dan profesional dengan siswa kamu.
+**Pesan Penting:** Intervensi nonverbal bertumpu pada **efisiensi dan rasa hormat**, tanpa intimidasi. Dengan meminimalkan teguran publik, kamu membangun hubungan yang lebih aman dan profesional dengan siswa kamu.

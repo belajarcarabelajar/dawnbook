@@ -14,7 +14,7 @@ Otak kita tidak bekerja seperti hakim yang tidak memihak dalam mencari kebenaran
 
 Kita cenderung mencari bukti yang mendukung apa yang sudah kita percayai.
 
-- **Contoh:** Seseorang yang percaya bahwa "diet keto itu berbahaya" akan mengetik di Google: *"Efek samping buruk diet keto"*, alih-alih mengetik *"Manfaat dan risiko diet keto"*.
+- **Contoh:** Seseorang yang percaya bahwa "diet keto itu berbahaya" akan mengetik *"Efek samping buruk diet keto"* di Google, alih-alih mengetik *"Manfaat dan risiko diet keto"*.
 
 ### 2\. Penafsiran yang Berpihak (Biased Interpretation)
 
@@ -26,7 +26,7 @@ Saat dihadapkan pada bukti yang ambigu, kita akan menafsirkannya sedemikian rupa
 
 Kita lebih mudah mengingat informasi yang mendukung keyakinan kita dan lebih cepat melupakan informasi yang menantangnya.
 
-- **Penting:** Ini bukan berarti kita berbohong secara sengaja; otak kita secara otomatis melakukan filter terhadap informasi yang menyebabkan ketidaknyamanan mental.
+- **Penting:** Semua ini terjadi tanpa niat berbohong. Otak kita secara otomatis menyaring informasi yang menyebabkan ketidaknyamanan mental.
 
 ## Mengapa Otak Kita Melakukannya?
 
@@ -66,7 +66,7 @@ Seorang investor yang sudah terlanjur membeli saham perusahaan X cenderung hanya
 
 Algoritma media sosial dirancang untuk menunjukkan konten yang kamu sukai. Jika kamu sering berinteraksi dengan konten politik tertentu, algoritma akan terus menyuapimu dengan pandangan serupa.
 
-> **Wawasan Penting:** Media sosial tidak hanya mencerminkan bias kita, mereka memperkuatnya dengan menciptakan "ruang gema" tempat suara-suara yang berbeda diredam.
+> **Wawasan Penting:** Media sosial mencerminkan bias kita sekaligus memperkuatnya dengan menciptakan "ruang gema" tempat suara-suara yang berbeda diredam.
 
 ### 3\. Dunia Medis
 
@@ -74,7 +74,7 @@ Seorang dokter mungkin secara tidak sadar membentuk diagnosis awal dalam beberap
 
 ## Latihan Refleksi
 
-*Pikirkan sebuah topik yang kamu sangat yakini (misalnya: pola makan tertentu, pandangan politik, atau merek smartphone favorit).*
+*Pikirkan sebuah topik yang kamu sangat yakini (misalnya pola makan tertentu, pandangan politik, atau merek smartphone favorit).*
 
 1. *Kapan terakhir kali kamu secara sengaja mencari argumen dari pihak yang berseberangan denganmu?*
 2. *Apakah kamu membaca argumen tersebut untuk memahaminya, atau hanya untuk mencari celah agar bisa membantahnya?*
@@ -83,8 +83,8 @@ Seorang dokter mungkin secara tidak sadar membentuk diagnosis awal dalam beberap
 
 Meskipun kita tidak bisa menghapus bias ini sepenuhnya (karena ini adalah bagian dari "hardware" otak kita), kita bisa memitigasi dampaknya:
 
-- **Mainkan "Devil's Advocate":** Saat kamu mengambil keputusan, tanyakan pada diri sendiri: *"Jika keputusan ini salah, apa saja alasannya?"*
+- **Mainkan "Devil's Advocate":** Saat kamu mengambil keputusan, tanyakan pada diri sendiri, *"Jika keputusan ini salah, apa saja alasannya?"*
 - **Cari Diskonfirmasi:** Alih-alih mencari bukti yang mendukung, cobalah untuk membuktikan bahwa dirimu **salah**. Inilah dasar dari metode ilmiah.
 - **Perluas Sumber Informasi:** Ikuti orang-orang atau baca media yang memiliki sudut pandang berbeda denganmu secara sadar.
 
-> **Ingat:** Pikiran yang matang tidak diukur dari seberapa banyak bukti yang kita kumpulkan untuk merasa benar, tetapi dari keberanian untuk mengakui bahwa kita bisa saja keliru.
+> **Ingat:** Pikiran yang matang terlihat dari keberanian untuk mengakui bahwa kita bisa saja keliru, sebanyak apa pun bukti yang sudah kita kumpulkan untuk merasa benar.

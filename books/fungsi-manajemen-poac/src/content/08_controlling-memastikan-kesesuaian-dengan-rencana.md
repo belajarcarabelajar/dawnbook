@@ -4,7 +4,7 @@ Bayangkan kamu sedang mengendarai mobil menuju sebuah kota yang belum pernah kam
 
 Di sinilah peran **Controlling** atau Pengawasan.
 
-Fungsi pengawasan tidak bertujuan mencari-cari kesalahan karyawan. Peran utamanya adalah sebagai sistem navigasi yang mengarahkan organisasi untuk memastikan bahwa aktivitas aktual sesuai dengan rencana yang telah ditetapkan.
+Fungsi pengawasan berperan sebagai sistem navigasi yang mengarahkan organisasi untuk memastikan bahwa aktivitas aktual sesuai dengan rencana yang telah ditetapkan.
 
 ## 1\. Apa Itu Controlling?
 
@@ -14,7 +14,7 @@ Secara formal, **Controlling** adalah proses pemantauan aktivitas untuk memastik
 
 ## 2\. Tiga Langkah Utama Pengawasan
 
-Proses pengawasan tidak terjadi secara acak. Terdapat alur logis yang harus diikuti manajer untuk memastikan organisasi tetap berada di jalur yang benar.
+Proses pengawasan mengikuti alur logis yang harus dijalankan manajer untuk memastikan organisasi tetap berada di jalur yang benar.
 
 ### A. Penetapan Standar Kinerja (Establishing Standards)
 
@@ -58,7 +58,7 @@ $$
 $$
 </div>
 
-**Prinsip Pengecualian (Management by Exception):** Manajer tidak perlu memeriksa setiap detail kecil. Manajer cukup memusatkan perhatian pada penyimpangan yang bernilai besar. Jika target penjualan adalah 100 unit dan kamu menjual 99 unit, itu mungkin bukan masalah besar. Namun, jika kamu hanya menjual 50 unit, ini adalah indikasi masalah serius yang membutuhkan perhatian segera.
+**Prinsip Pengecualian (Management by Exception):** Manajer cukup memusatkan perhatian pada penyimpangan yang bernilai besar. Jika target penjualan adalah 100 unit dan kamu menjual 99 unit, selisih itu mungkin bukan masalah besar. Penjualan yang hanya mencapai 50 unit adalah indikasi masalah serius yang membutuhkan perhatian segera.
 
 Seluruh alur pengawasan di atas, dari sasaran Planning sampai prinsip pengecualian, terangkum dalam bagan ini.
 
@@ -85,11 +85,11 @@ Untuk memahami *Controlling*, bayangkan sebuah termostat di ruangan ber-AC:
 
 ## 4\. Karakteristik Sistem Pengawasan yang Efektif
 
-Agar pengawasan tidak terasa mengekang, tetapi tetap efektif, sistem tersebut harus memenuhi kriteria berikut:
+Agar pengawasan efektif tanpa terasa mengekang, sistem tersebut harus memenuhi kriteria berikut:
 
 - **Akurat:** Menjamin data yang diperoleh benar-benar valid serta dapat dipercaya sepenuhnya.
 - **Tepat Waktu:** Informasi penting harus sampai ke tangan manajer sebelum masalah telanjur membesar.
-- **Objektif:** Penilaian bersandar pada fakta aktual, bukan subjektivitas atau perasaan pribadi.
+- **Objektif:** Penilaian bersandar pada fakta aktual dan bebas dari subjektivitas atau perasaan pribadi.
 - **Fleksibel:** Sistem harus mampu menyesuaikan diri dengan cepat saat terjadi perubahan rencana atau gejolak pasar secara mendadak.
 
 ## 5\. Manajemen Restoran Cepat Saji
@@ -113,4 +113,4 @@ Dalam dunia rekayasa perangkat lunak, *Controlling* sering dilakukan melalui das
 - **Pengukuran:** Menggunakan alat pemantau seperti Prometheus atau Grafana untuk melacak status server.
 - **Perbandingan:** Sistem pemantau mengirimkan notifikasi peringatan (Alert) jika uptime turun di bawah standar, lalu mencatat kejadian itu sebagai insiden. Selama uptime masih memenuhi standar, sistem cukup terus memantau.
 
-**Penting:** Ingatlah bahwa tujuan akhir dari pengawasan adalah untuk belajar, bukan untuk menghukum. Hasil dari tahap perbandingan ini akan menjadi masukan (feedback) berharga untuk siklus manajemen berikutnya. Jika target tidak tercapai, apakah standarnya yang terlalu tinggi? Ataukah pelaksanaannya yang perlu diperbaiki?
+**Penting:** Ingatlah bahwa tujuan akhir dari pengawasan adalah belajar. Hasil dari tahap perbandingan ini akan menjadi masukan (feedback) berharga untuk siklus manajemen berikutnya. Jika target tidak tercapai, apakah standarnya yang terlalu tinggi? Ataukah pelaksanaannya yang perlu diperbaiki?

@@ -22,7 +22,7 @@ P(\text{peristiwa}) \approx \text{Kemudahan Retrieval (Pemanggilan Memori)}
 $$
 </div>
 
-Padahal, kenyataannya: $P(\text{peristiwa}) = \frac{\text{Jumlah Kejadian}}{\text{Total Peluang}}$
+Padahal, probabilitas yang sebenarnya dihitung dengan $P(\text{peristiwa}) = \frac{\text{Jumlah Kejadian}}{\text{Total Peluang}}$
 
 ## 2\. Mengapa Ini Terjadi? (Analogi Perpustakaan Pikiran)
 
@@ -31,12 +31,12 @@ Bayangkan pikiran kamu adalah sebuah **perpustakaan besar**.
 - Buku-buku (informasi) yang baru saja dikembalikan atau yang memiliki sampul sangat mencolok (emosional/vivid) diletakkan di meja paling depan.
 - Buku-buku yang membosankan atau sudah lama tidak dibaca disimpan di gudang bawah tanah yang gelap.
 
-Saat seseorang bertanya, "Buku apa yang paling populer?", kamu cenderung mengambil buku yang ada di meja depan karena itulah yang paling mudah dijangkau, bukan karena buku itu yang paling banyak dibaca oleh semua orang dalam sejarah perpustakaan tersebut.
+Saat seseorang bertanya, "Buku apa yang paling populer?", kamu cenderung mengambil buku yang ada di meja depan karena itulah yang paling mudah dijangkau, walaupun belum tentu buku itu yang paling banyak dibaca oleh semua orang dalam sejarah perpustakaan tersebut.
 
 ### Faktor-faktor yang Memicu "Kemudahan Mengingat"
 
-1. **Kebaruan (*Recency*)**: Peristiwa yang baru saja terjadi (misal: berita tadi pagi) lebih mudah diingat daripada peristiwa tahun lalu.
-2. **Dramatisasi & Visualisasi (*Vividness*)**: Kejadian yang traumatis, dramatis, atau sangat visual (misal: ledakan) lebih membekas daripada statistik angka yang kering.
+1. **Kebaruan (*Recency*)**: Peristiwa yang baru saja terjadi (misalnya berita tadi pagi) lebih mudah diingat daripada peristiwa tahun lalu.
+2. **Dramatisasi & Visualisasi (*Vividness*)**: Kejadian yang traumatis, dramatis, atau sangat visual (seperti ledakan) lebih membekas daripada statistik angka yang kering.
 3. **Paparan Media**: Topik yang terus-menerus diberitakan membuat kita merasa hal tersebut terjadi di mana-mana.
 
 ## 3\. Contoh Skenario & Realita Statistik
@@ -55,7 +55,7 @@ Mari kita bandingkan persepsi manusia akibat bias ini dengan fakta lapangan:
 
 Dalam dunia data science atau kecerdasan buatan, bias ketersediaan mirip dengan masalah **Sampling Bias**. Jika sebuah model AI dilatih hanya dengan data yang "mudah tersedia" (misalnya data dari pengguna internet yang aktif saja), maka model tersebut akan memiliki bias yang sama dengan manusia.
 
-Tabel berikut membandingkan frekuensi nyata empat peristiwa dengan seberapa sering peristiwa itu muncul di media, yang memengaruhi seberapa mudah ia tersedia di memori kita. Angkanya ilustrasi dengan skala fiktif, bukan data sungguhan:
+Tabel berikut membandingkan frekuensi nyata empat peristiwa dengan seberapa sering peristiwa itu muncul di media, yang memengaruhi seberapa mudah ia tersedia di memori kita. Angkanya hanya ilustrasi dengan skala fiktif dan tidak berasal dari data sungguhan:
 
 | Peristiwa | Frekuensi Nyata (Statistik) | Paparan Media (Ketersediaan di Memori) |
 | --- | --- | --- |
@@ -70,7 +70,7 @@ Berita yang dramatis mendapat porsi lebih. Kecelakaan pesawat dan serangan hiu, 
 
 ### Dalam Dunia Bisnis & Marketing
 
-Manajer sering kali mengevaluasi kinerja karyawan berdasarkan proyek **paling akhir** yang mereka kerjakan (efek kebaruan), bukan keseluruhan kinerja selama setahun. Inilah mengapa banyak karyawan bekerja sangat keras tepat sebelum evaluasi tahunan.
+Manajer sering kali mengevaluasi kinerja karyawan berdasarkan proyek **paling akhir** yang mereka kerjakan (efek kebaruan) dan mengabaikan keseluruhan kinerja selama setahun. Inilah mengapa banyak karyawan bekerja sangat keras tepat sebelum evaluasi tahunan.
 
 ### Dalam Dunia Kesehatan
 
@@ -86,8 +86,8 @@ Untuk mengetahui apakah kamu sedang terjebak dalam bias ini, ajukan pertanyaan r
 
 1. **"Apakah saya menilai ini berdasarkan data statistik, atau hanya karena saya baru saja mendengar ceritanya?"**
 2. **"Jika kejadian ini tidak dramatis/viral, apakah saya akan tetap menganggapnya sepenting ini?"**
-3. **"Informasi apa yang TIDAK saya miliki saat ini?"** (Ingat: yang tidak terlihat biasanya justru yang paling penting).
+3. **"Informasi apa yang TIDAK saya miliki saat ini?"** (Ingatlah bahwa yang tidak terlihat biasanya justru yang paling penting.)
 
-**Penting:** Bias Ketersediaan adalah pintasan mental otak untuk menghemat energi. Menyadari keberadaannya bukan berarti kita bisa menghilangkannya sepenuhnya, tetapi kita bisa belajar untuk berhenti sejenak dan mencari data objektif sebelum mengambil keputusan besar.
+**Penting:** Bias Ketersediaan adalah pintasan mental otak untuk menghemat energi. Menyadari keberadaannya belum cukup untuk menghilangkannya sepenuhnya. Meski begitu, kita bisa belajar untuk berhenti sejenak dan mencari data objektif sebelum mengambil keputusan besar.
 
-> **Insight Utama:** Kemudahan kamu mengingat sesuatu bukanlah indikator akurat tentang seberapa sering atau seberapa mungkin hal itu terjadi di dunia nyata. Jangan biarkan ingatan yang paling mencolok menutupi kenyataan yang tidak terlihat.
+> **Insight Utama:** Kemudahan kamu mengingat sesuatu tidak menunjukkan secara akurat seberapa sering atau seberapa mungkin hal itu terjadi di dunia nyata. Jangan biarkan ingatan yang paling mencolok menutupi kenyataan yang tidak terlihat.

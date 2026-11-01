@@ -2,7 +2,7 @@
 
 Bayangkan kamu berdiri di depan rak selai di sebuah supermarket besar. Di depanmu ada 24 jenis selai yang berbeda. Kamu merasa bingung, menghabiskan waktu lama hanya untuk membaca label, dan akhirnya memutuskan tidak membeli apa pun karena lelah memilih. Keesokan harinya, kamu pergi ke toko kecil yang hanya menyediakan 6 jenis selai. Kamu melihat satu yang menarik, mengambilnya, dan keluar dalam waktu dua menit dengan perasaan puas.
 
-Inilah inti dari tantangan dalam **Arsitektur Pilihan**: Terkadang, memberikan lebih banyak pilihan justru membuat orang lebih sulit menentukan keputusan, atau bahkan membuat mereka berhenti memilih sama sekali. Fenomena ini dikenal sebagai **Choice Overload** (Kelebihan Pilihan).
+Inilah inti tantangan dalam **Arsitektur Pilihan**. Terkadang, memberikan lebih banyak pilihan justru membuat orang lebih sulit menentukan keputusan, atau bahkan membuat mereka berhenti memilih sama sekali. Fenomena ini dikenal sebagai **Choice Overload** (Kelebihan Pilihan).
 
 ## 1. Memahami Fenomena "Choice Overload"
 
@@ -38,7 +38,7 @@ Setelah kategori dibuat, langkah berikutnya adalah membantu pengguna menyingkirk
 
 Teori yang dikemukakan oleh Amos Tversky menyatakan bahwa manusia sering memilih dengan mengeliminasi opsi yang tidak memenuhi kriteria minimum satu per satu.
 
-**Contoh di Dunia Nyata:** Pembeli laptop biasanya tidak membandingkan semua spesifikasi secara bersamaan. Mereka cenderung melakukan penyaringan bertahap:
+**Contoh di Dunia Nyata:** Pembeli laptop cenderung menyaring spesifikasi secara bertahap, satu kriteria demi satu kriteria:
 - Pertama, membatasi harga agar tidak melebihi Rp10 juta.
 - Kedua, menyaring merek dengan hanya melirik pilihan dari merek A atau B.
 - Ketiga, menyeleksi bobot laptop agar di bawah 1,5 kg supaya ringan saat dibawa bepergian.
@@ -52,7 +52,7 @@ Teori yang dikemukakan oleh Amos Tversky menyatakan bahwa manusia sering memilih
 
 ## 4. Mengurangi Jumlah Atribut (Information Slimming)
 
-Sering kali, kompleksitas tidak melulu muncul dari banyaknya pilihan yang disajikan, melainkan dari jumlah informasi yang harus dibaca pada setiap pilihan tersebut.
+Kompleksitas sering kali juga datang dari jumlah informasi yang harus dibaca pada setiap pilihan, selain dari banyaknya pilihan yang disajikan.
 
 **Teknik Penyederhanaan Informasi:**
 - **Hierarki Informasi.** Letakkan informasi paling penting seperti harga dan manfaat utama di bagian atas. Detail teknis yang rumit bisa disembunyikan di balik tombol "Lihat Selengkapnya".
@@ -66,21 +66,21 @@ Sering kali, kompleksitas tidak melulu muncul dari banyaknya pilihan yang disaji
 
 ### A. Industri Keuangan (Dana Pensiun)
 
-Di Amerika Serikat, banyak karyawan bingung memilih dari 50+ pilihan investasi untuk dana pensiun mereka. Arsitek pilihan menyederhanakannya dengan menawarkan **"Target-Date Funds"**. Alih-alih memilih instrumen saham/obligasi sendiri, karyawan cukup memilih tahun kapan mereka berencana pensiun (misal: "Pensiun 2050"). Sistem secara otomatis mengelola kompleksitas di baliknya.
+Di Amerika Serikat, banyak karyawan bingung memilih dari 50+ pilihan investasi untuk dana pensiun mereka. Arsitek pilihan menyederhanakannya dengan menawarkan **"Target-Date Funds"**. Alih-alih memilih instrumen saham/obligasi sendiri, karyawan cukup memilih tahun kapan mereka berencana pensiun (misalnya "Pensiun 2050"). Sistem secara otomatis mengelola kompleksitas di baliknya.
 
 ### B. Platform Digital (Amazon/Netflix)
 
-Sistem rekomendasi adalah salah satu wujud penyederhanaan pilihan yang efektif. Alih-alih membiarkanmu bingung mencari di antara jutaan item, algoritma akan menyodorkan saran: *"Karena kamu menonton X, kamu mungkin menyukai Y."* Hal ini mengubah proses pencarian yang melelahkan menjadi proses pengenalan yang jauh lebih mudah.
+Sistem rekomendasi adalah salah satu wujud penyederhanaan pilihan yang efektif. Supaya kamu tidak bingung mencari di antara jutaan item, algoritma menyodorkan saran seperti *"Karena kamu menonton X, kamu mungkin menyukai Y."* Hal ini mengubah proses pencarian yang melelahkan menjadi proses pengenalan yang jauh lebih mudah.
 
 ### C. Menu Restoran
 
-Restoran mewah sering kali membatasi menu mereka, misalnya hanya menawarkan 3 jenis hidangan pembuka. Hal ini dilakukan bukan karena keterbatasan koki, melainkan untuk membangun kesan eksklusif sekaligus mempermudah pelanggan menikmati suasana tanpa terbebani oleh proses memilih hidangan.
+Restoran mewah sering kali membatasi menu mereka, misalnya hanya menawarkan 3 jenis hidangan pembuka. Pembatasan ini membangun kesan eksklusif sekaligus mempermudah pelanggan menikmati suasana tanpa terbebani oleh proses memilih hidangan.
 
 ## 6. Ringkasan Strategi
 
 Untuk menyederhanakan pilihan yang kompleks bagi pengguna, ikuti langkah-langkah berikut:
 - **Batasi opsi yang langsung terlihat.** Menyajikan 3 hingga 7 pilihan di awal jauh lebih aman untuk mencegah kebingungan kognitif.
-- **Kelompokkan secara intuitif.** Gunakan kategori yang sesuai dengan sudut pandang pengguna, bukan berdasarkan proses produksi internal perusahaan.
+- **Kelompokkan secara intuitif.** Gunakan kategori yang sesuai dengan sudut pandang pengguna. Hindari pengelompokan berdasarkan proses produksi internal perusahaan.
 - **Sediakan penyaring (filter) yang mudah digunakan.** Ini mempermudah pengguna menyingkirkan pilihan yang tidak sesuai kriteria mereka dengan cepat.
 - **Beri label penanda khusus.** Menampilkan rekomendasi atau pilihan terpopuler memberi panduan sosial yang mengurangi kekhawatiran salah pilih.
 - **Terapkan pengungkapan bertahap (progressive disclosure).** Sajikan informasi secara bertahap dan hanya tampilkan detail mendalam saat pengguna memintanya.

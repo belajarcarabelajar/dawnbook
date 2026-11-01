@@ -4,7 +4,7 @@ Perkembangan pertelevisian Korea Selatan mencapai titik balik estetika yang mena
 
 ## Dari Melodrama Sedih ke Komedi Romantis dan Gaya Hidup
 
-Modernisasi drama Korea bermula ketika para produser menyadari bahwa pemirsa tidak hanya ingin larut dalam kesedihan karakter, tetapi juga ingin meniru gaya hidup mereka. Hal ini memicu integrasi yang kuat antara kisah romansa dan representasi tren modern.
+Modernisasi drama Korea bermula ketika para produser menyadari bahwa pemirsa ingin meniru gaya hidup karakter, di samping larut dalam kesedihan mereka. Hal ini memicu integrasi yang kuat antara kisah romansa dan representasi tren modern.
 
 ### Transformasi Melodrama
 
@@ -22,11 +22,11 @@ $$
 
 Persamaan ini menggambarkan bagaimana dua karakter dengan kepribadian bertolak belakang $O$ dipertemukan dalam situasi penuh ketegangan $T$, lalu daya tarik $A$ di antara keduanya pada akhirnya menghasilkan *chemistry*.
 
-> **Insight:** Evolusi cerita ini tidak menghilangkan konflik emosional, tetapi mengemasnya melalui dialog yang cerdas (*witty*) serta situasi sehari-hari yang dekat (*relatable*) dengan kehidupan masyarakat urban.
+> **Insight:** Evolusi cerita ini mempertahankan konflik emosional dan mengemasnya melalui dialog yang cerdas (*witty*) serta situasi sehari-hari yang dekat (*relatable*) dengan kehidupan masyarakat urban.
 
 ## Standar Visual Setara Film Layar Lebar
 
-Pada fase ini, industri drama Korea mulai menerapkan standar visual yang menyerupai film layar lebar. Kamera tidak lagi diposisikan sebagai alat dokumentasi statis, melainkan medium penuturan cerita yang aktif.
+Pada fase ini, industri drama Korea mulai menerapkan standar visual yang menyerupai film layar lebar. Kamera kini menjadi medium penuturan cerita yang aktif.
 
 ### Teknik Visual Ikonik
 
@@ -40,7 +40,7 @@ Pernahkah kamu memperhatikan bagaimana butiran salju atau kelopak bunga sakura t
 
 Dalam drama modern, pakaian yang dikenakan karakter memegang peran penting yang setara dengan naskah. Karakter utama kerap diposisikan sebagai *trendsetter*. Melalui busana, sutradara menyampaikan perkembangan karakter (*storytelling through fashion*), seperti perubahan status sosial yang tercermin dari gaya berpakaian mereka. Pengaruh visual ini memicu fenomena *sold out*, yakni ketika produk fesyen atau kosmetik yang dipakai oleh aktor langsung habis terjual di pasaran sesaat setelah episode ditayangkan.
 
-Sebagai ilustrasi, dalam drama yang menampilkan sosok CEO muda, setelan jas *custom-fit* tidak sekadar memamerkan kekayaan. Pilihan pakaian tersebut secara visual membangun wibawa, otoritas, dan ketegasan karakter tanpa memerlukan dialog penjelasan yang panjang lebar.
+Sebagai ilustrasi, dalam drama yang menampilkan sosok CEO muda, setelan jas *custom-fit* memamerkan kekayaan sekaligus membangun wibawa, otoritas, dan ketegasan karakter secara visual tanpa memerlukan dialog penjelasan yang panjang lebar.
 
 ## Pembaruan Tropes Klasik
 
@@ -48,7 +48,7 @@ Sebagai ilustrasi, dalam drama yang menampilkan sosok CEO muda, setelan jas *cus
 | :--- | :--- |
 | *Cinderella & Prince Charming* | Tokoh perempuan yang mandiri secara finansial tetapi memiliki luka emosional masa lalu. |
 | *Enemies-to-Lovers* | Hubungan yang diwarnai dialog sarkastik, humor segar, dan *power play* yang seimbang. |
-| *Love Triangle* | Konflik yang berfokus pada pendewasaan diri masing-masing karakter, bukan sekadar persaingan memperebutkan hati. |
+| *Love Triangle* | Konflik yang berfokus pada pendewasaan diri masing-masing karakter di balik persaingan memperebutkan hati. |
 
 ## Menciptakan Mood dalam Produksi
 
@@ -71,4 +71,4 @@ Modernisasi narasi ini membuktikan bahwa genre yang sering dianggap ringan seper
 
 ## Penutup
 
-Modernisasi cerita melalui genre *romantic comedy* dan melodrama modern lebih dari sekadar pergeseran tema; ini adalah perubahan identitas visual televisi. Dengan mengutamakan sinematografi dan fesyen, drama Korea berhasil bertransformasi dari hiburan layar kaca menjadi representasi dan inspirasi gaya hidup modern.
+Modernisasi cerita melalui genre *romantic comedy* dan melodrama modern menggeser tema sekaligus mengubah identitas visual televisi. Dengan mengutamakan sinematografi dan fesyen, drama Korea berhasil bertransformasi dari hiburan layar kaca menjadi representasi dan inspirasi gaya hidup modern.

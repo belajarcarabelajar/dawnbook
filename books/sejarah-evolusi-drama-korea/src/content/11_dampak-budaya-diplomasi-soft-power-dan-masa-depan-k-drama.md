@@ -8,11 +8,11 @@ Kita akan melihat bagaimana sebuah serial televisi bisa menjadi alat pengaruh po
 
 Pernahkah kamu bertanya-tanya mengapa tiba-tiba banyak orang di seluruh dunia ingin belajar bahasa Korea, memakai produk kecantikan Korea, atau mencicipi *tteokbokki*? Inilah yang disebut dengan *soft power*.
 
-> **Definisi:** *Soft power* adalah kemampuan suatu negara untuk memengaruhi pihak lain melalui daya tarik budaya, nilai-nilai politik, dan kebijakan luar negeri, alih-alih menggunakan paksaan militer atau ekonomi (*hard power*).
+> **Definisi:** *Soft power* adalah kemampuan suatu negara untuk memengaruhi pihak lain melalui daya tarik budaya, nilai-nilai politik, dan kebijakan luar negeri, tanpa menggunakan paksaan militer atau ekonomi (*hard power*).
 
 ### Magnet vs. Palu
 
-Bayangkan sebuah negara ingin memperluas pengaruhnya. *Hard power* bekerja seperti **palu**; kekuatan ini memaksa orang untuk patuh melalui tekanan. Sebaliknya, *soft power* bekerja seperti **magnet**. K-Drama adalah magnet tersebut; alih-alih memaksa kamu menyukai Korea, magnet ini membuatmu ingin menjadi bagian dari dunia tersebut secara sukarela.
+Bayangkan sebuah negara ingin memperluas pengaruhnya. *Hard power* bekerja seperti **palu**; kekuatan ini memaksa orang untuk patuh melalui tekanan. Sebaliknya, *soft power* bekerja seperti **magnet**. K-Drama adalah magnet tersebut. Ia membuatmu ingin menjadi bagian dari dunia itu secara sukarela.
 
 **Dampak Diplomasi Nyata:**
 
@@ -38,7 +38,7 @@ Kita sedang berada di awal perubahan teknologi yang akan mengubah cara produksi 
 
 ### A. Artificial Intelligence (AI) dalam Produksi
 
-Penerapan AI di balik layar kini bukan lagi sebuah fiksi ilmiah. Teknologi *deepfake* dan *de-aging*, misalnya, telah memungkinkan aktor senior untuk memerankan versi muda mereka sendiri dalam adegan kilas balik (*flashback*) secara mulus. Di sisi penulisan, perangkat AI mulai digunakan untuk menganalisis preferensi pemirsa dan memberikan saran alur cerita yang paling memikat algoritma platform *streaming*. Selain itu, kehadiran *AI dubbing* (sulih suara berbasis kecerdasan buatan) mampu meniru suara asli aktor dan menerjemahkannya ke berbagai bahasa dengan emosi yang tetap terjaga, memangkas batasan bahasa tanpa merusak kualitas seni peran.
+Penerapan AI di balik layar kini sudah menjadi kenyataan. Teknologi *deepfake* dan *de-aging*, misalnya, telah memungkinkan aktor senior untuk memerankan versi muda mereka sendiri dalam adegan kilas balik (*flashback*) secara mulus. Di sisi penulisan, perangkat AI mulai digunakan untuk menganalisis preferensi pemirsa dan memberikan saran alur cerita yang paling memikat algoritma platform *streaming*. Selain itu, kehadiran *AI dubbing* (sulih suara berbasis kecerdasan buatan) mampu meniru suara asli aktor dan menerjemahkannya ke berbagai bahasa dengan emosi yang tetap terjaga, memangkas batasan bahasa tanpa merusak kualitas seni peran.
 
 ### B. Produksi Virtual (*Virtual Production Sets*)
 
@@ -64,6 +64,6 @@ Salah satunya adalah benturan antara orisinalitas dengan algoritma. Jika proses 
 
 K-Drama telah bertransformasi dari hiburan domestik menjadi instrumen *soft power* global yang mampu menggerakkan perekonomian dan diplomasi internasional. Dengan masuknya teknologi AI dan metaverse, kita akan menyaksikan era baru ketika pengalaman menonton menjadi lebih imersif, personal, dan melampaui sekat-sekat geografis.
 
-> **Pesan Utama:** Masa depan K-Drama bertumpu pada bagaimana kemajuan teknologi dapat memperkuat nilai kemanusiaan dan narasi universal, alih-alih mengaburkan esensi cerita yang selama ini menjadi kekuatan utama drama Korea.
+> **Pesan Utama:** Masa depan K-Drama bertumpu pada bagaimana kemajuan teknologi dapat memperkuat nilai kemanusiaan dan narasi universal sambil menjaga esensi cerita yang selama ini menjadi kekuatan utama drama Korea.
 
 Pada akhirnya, inovasi teknologi hanyalah sarana penunjang. Keberhasilan K-Drama untuk terus menarik pemirsa global akan selalu bersandar pada kemampuannya menyentuh emosi penonton.

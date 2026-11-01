@@ -2,7 +2,7 @@
 
 Pernahkah kamu merasa bahwa hidup yang kamu jalani sekarang hanyalah sebuah pertunjukan? Bahwa kamu sedang memainkan peran sebagai "anak yang berbakti", "karyawan yang teladan", atau "pasangan yang sempurna", sementara di dalam hati, kamu merasa asing dengan semua itu?
 
-Dalam perjalanan memahami eksistensialisme, kita sampai pada salah satu persimpangan yang menentukan: **Apakah kita hidup secara autentik, atau kita sedang terjebak dalam *Bad Faith* (Keyakinan Buruk)?**
+Dalam perjalanan memahami eksistensialisme, kita sampai pada salah satu persimpangan yang menentukan. **Apakah kita hidup secara autentik, atau kita sedang terjebak dalam *Bad Faith* (Keyakinan Buruk)?**
 
 ### 1. Memahami Bad Faith (Mauvaise Foi)
 
@@ -22,7 +22,7 @@ Masalahnya muncul saat dia mencoba meyakinkan dirinya sendiri bahwa identitasnya
 
 Untuk memahami mengapa kita sering terjebak dalam *bad faith*, kita perlu melihat dua dimensi manusia. Pertama adalah faktisitas (*facticity*), yang mencakup fakta objektif tentang diri kita seperti tempat lahir, tinggi badan, masa lalu, dan lingkungan sosial. Kedua adalah transendensi (*transcendence*), yaitu kemampuan kita untuk melampaui fakta-fakta tersebut melalui pilihan, imajinasi, dan rancangan masa depan.
 
-Sikap *bad faith* muncul ketika kita timpang dalam memandang keduanya. Misalnya, ketika kita hanya mengakui faktisitas: *"Saya memang pemalas dari sananya, tidak bisa berubah."* Di sini kita menolak kebebasan dan transendensi diri. Sebaliknya, *bad faith* juga terjadi jika kita hanya memeluk transendensi secara buta: *"Saya bisa menjadi apa saja tanpa memedulikan kenyataan fisik atau masa lalu."* Tindakan ini menyangkal realitas faktisitas kita.
+Sikap *bad faith* muncul ketika kita timpang dalam memandang keduanya. Misalnya, ketika kita hanya mengakui faktisitas lalu berkata, *"Saya memang pemalas dari sananya, tidak bisa berubah."* Di sini kita menolak kebebasan dan transendensi diri. Sebaliknya, *bad faith* juga terjadi jika kita hanya memeluk transendensi secara buta dan yakin bahwa *"Saya bisa menjadi apa saja tanpa memedulikan kenyataan fisik atau masa lalu."* Tindakan ini menyangkal realitas faktisitas kita.
 
 **Keseimbangan Autentik:** $\text{Diri} = \text{Faktisitas} + \text{Transendensi}$
 
@@ -30,9 +30,9 @@ Hidup yang jujur berarti mengakui fakta tentang siapa kita (faktisitas) sambil t
 
 ### 3. Apa itu Autentisitas?
 
-Autentisitas bukan tentang mencari "jati diri sejati" yang tersembunyi di dalam hati. Bagi eksistensialis, tidak ada "jati diri" yang sudah jadi sejak lahir. Autentisitas adalah proses terus-menerus dalam mengambil tanggung jawab penuh atas pilihan-pilihan kita.
+Bagi eksistensialis, autentisitas adalah proses terus-menerus dalam mengambil tanggung jawab penuh atas pilihan-pilihan kita. Tidak ada "jati diri sejati" yang sudah jadi sejak lahir dan tersembunyi di dalam hati.
 
-Menjadi autentik menuntut kita untuk berhenti berlindung di balik alasan "karena orang lain melakukannya" atau "karena memang aturannya begitu". Kita harus menyadari bahwa nilai-nilai yang kita pegang adalah hasil pilihan sendiri, bukan sekadar warisan buta dari lingkungan. Pada akhirnya, ini adalah keberanian untuk mengakui kebebasan diri sendiri, meskipun kesadaran itu memicu rasa cemas (*Angst*).
+Menjadi autentik menuntut kita untuk berhenti berlindung di balik alasan "karena orang lain melakukannya" atau "karena memang aturannya begitu". Kita harus menyadari bahwa nilai-nilai yang kita pegang adalah hasil pilihan sendiri. Pada akhirnya, ini adalah keberanian untuk mengakui kebebasan diri sendiri, meskipun kesadaran itu memicu rasa cemas (*Angst*).
 
 Bayangkan jika semua aturan sosial dihilangkan besok pagi. Nilai-nilai mana yang akan tetap kamu pegang teguh? Jawaban itulah yang mendekati dirimu yang autentik.
 
@@ -44,7 +44,7 @@ Budi memilih bekerja sebagai akuntan karena keinginan orang tuanya yang mendamba
 
 Dalam kondisi *bad faith*, Budi akan mengeluh, *"Saya terpaksa melakukan ini demi orang tua, saya tidak punya pilihan lain."* Dengan berkata demikian, ia memperlakukan dirinya sendiri seolah-olah benda mati yang tidak memiliki kehendak bebas.
 
-Sebaliknya, jika ia memilih bersikap autentik, Budi akan jujur pada dirinya sendiri: *"Saya memilih bertahan sebagai akuntan karena saya takut menghadapi ketidakpastian finansial jika keluar. Ini keputusan saya, dan saya memegang tanggung jawab penuh atas rasa tidak bahagia ini atau keputusan apa pun yang akan saya ambil selanjutnya."*
+Sebaliknya, jika ia memilih bersikap autentik, Budi akan jujur pada dirinya sendiri dan berkata, *"Saya memilih bertahan sebagai akuntan karena saya takut menghadapi ketidakpastian finansial jika keluar. Ini keputusan saya, dan saya memegang tanggung jawab penuh atas rasa tidak bahagia ini atau keputusan apa pun yang akan saya ambil selanjutnya."*
 
 #### Media Sosial dan Citra Diri
 
@@ -52,13 +52,13 @@ Di era digital, jebakan peran di media sosial kuat. Seseorang terjebak dalam *ba
 
 ### 5. Langkah Praktis Menuju Hidup yang Autentik
 
-1. **Petakan Keharusanmu:** Coba catat hal-hal dalam hidup yang selama ini terasa sebagai beban kewajiban. Tanyakan kembali secara kritis: apakah hal itu benar-benar mutlak harus dilakukan, atau sebenarnya itu adalah pilihan yang kamu ambil demi menghindari konflik?
+1. **Petakan Keharusanmu:** Coba catat hal-hal dalam hidup yang selama ini terasa sebagai beban kewajiban. Tanyakan kembali secara kritis, apakah hal itu benar-benar mutlak harus dilakukan, atau sebenarnya itu adalah pilihan yang kamu ambil demi menghindari konflik?
 2. **Ubah Bahasamu:** Latihlah diri untuk mengganti keluhan *"Saya terpaksa..."* menjadi *"Saya memilih untuk... karena..."*. Pergeseran kecil ini mengembalikan kendali (*agency*) ke dalam dirimu.
 3. **Peluk Rasa Cemas:** Sadarilah bahwa kebingungan atau kecemasan yang muncul saat menyadari kebebasan adalah hal yang wajar. Eksistensialisme melihat kecemasan ini sebagai alarm bahwa kamu mulai berhenti sekadar mengikuti kebiasaan orang banyak.
 4. **Uji Nilai Personal:** Renungkan apakah kamu melakukan sesuatu karena benar-benar meyakini kebenarannya, atau sekadar ingin terlihat baik di mata orang lain.
 
 ### Menulis Narasi Sendiri
 
-Autentisitas bukan sebuah garis akhir yang bisa sekali dicapai lalu selesai, melainkan bagaimana cara kita berjalan setiap hari. Wajar jika kita kadang terpeleset kembali ke dalam *bad faith* karena itu adalah zona nyaman kita. Namun, dengan menyadari batasan di antara keduanya, kita perlahan bisa menanggalkan topeng sosial dan mulai menulis sendiri kisah hidup kita.
+Autentisitas adalah cara kita berjalan setiap hari, sebuah perjalanan tanpa garis akhir. Wajar jika kita kadang terpeleset kembali ke dalam *bad faith* karena itu adalah zona nyaman kita. Namun, dengan menyadari batasan di antara keduanya, kita perlahan bisa menanggalkan topeng sosial dan mulai menulis sendiri kisah hidup kita.
 
-Perlu diingat bahwa menjadi autentik tidak sama dengan bersikap egois atau antisosial. Ini adalah tindakan berani untuk berpijak pada keyakinan batin yang telah kamu uji sendiri, bukan sekadar hanyut mengikuti arus massa tanpa berpikir.
+Menjadi autentik adalah tindakan berani untuk berpijak pada keyakinan batin yang telah kamu uji sendiri, tanpa hanyut mengikuti arus massa. Sikap ini tidak sama dengan egois atau antisosial.

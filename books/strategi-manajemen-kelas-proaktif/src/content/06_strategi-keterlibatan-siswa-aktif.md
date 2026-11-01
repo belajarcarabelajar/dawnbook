@@ -4,7 +4,7 @@ Pernahkah kamu memperhatikan bahwa gangguan perilaku di kelas paling sering terj
 
 Bayangkan sebuah kelas seperti sebuah konser musik. Jika penonton hanya duduk diam mendengarkan simfoni yang panjang tanpa jeda, pikiran mereka akan mulai melayang, mereka mungkin mulai berbisik dengan tetangganya, atau mengecek ponsel mereka. Namun, jika konduktor mengajak penonton untuk bertepuk tangan mengikuti irama atau menyanyikan bagian refrain, perhatian mereka akan kembali sepenuhnya ke panggung.
 
-**Strategi Keterlibatan Siswa Aktif** adalah instrumen utama dalam manajemen kelas proaktif. Filosofinya sederhana: *Siswa yang sibuk belajar secara bermakna tidak memiliki waktu untuk mengganggu.*
+**Strategi Keterlibatan Siswa Aktif** adalah instrumen utama dalam manajemen kelas proaktif. Filosofinya sederhana. *Siswa yang sibuk belajar secara bermakna tidak memiliki waktu untuk mengganggu.*
 
 ## 1. Memahami Hubungan Antara Keterlibatan dan Perilaku
 
@@ -22,7 +22,7 @@ Keterangan:
 - $E$ adalah *Engagement* (Keterlibatan).
 - $K$ adalah Kejelasan Instruksi.
 
-Semakin tinggi keterlibatan siswa, semakin rendah peluang terjadinya perilaku yang menyimpang. Strategi ini bukan sekadar tentang membuat siswa "sibuk", melainkan membuat mereka **terkoneksi secara kognitif dan emosional** dengan materi pelajaran.
+Semakin tinggi keterlibatan siswa, semakin rendah peluang terjadinya perilaku yang menyimpang. Strategi ini bertujuan membuat siswa **terkoneksi secara kognitif dan emosional** dengan materi pelajaran. Membuat mereka sekadar "sibuk" belum cukup.
 
 ## 2. Teknik Partisipasi Total (Total Participation Techniques)
 
@@ -57,9 +57,9 @@ Pembelajaran aktif sering kali melibatkan kerja kelompok. Namun, tanpa struktur 
 1. Siswa dalam kelompok (4 orang) diberi nomor 1 sampai 4.
 2. Guru mengajukan pertanyaan atau tugas.
 3. Kelompok bekerja sama untuk memastikan *setiap anggota* memahami jawabannya.
-4. Guru memanggil satu nomor secara acak (misal: "Nomor 3!"). Semua siswa dengan nomor 3 harus berdiri dan siap menjawab mewakili kelompoknya.
+4. Guru memanggil satu nomor secara acak (misalnya "Nomor 3!"). Semua siswa dengan nomor 3 harus berdiri dan siap menjawab mewakili kelompoknya.
 
-*Pertimbangkan hal berikut: Bagaimana perasaan siswa jika mereka tahu bahwa keberhasilan kelompok bergantung pada kesiapan setiap individu? Hal ini menciptakan akuntabilitas individu dalam konteks sosial.*
+*Bagaimana perasaan siswa jika mereka tahu bahwa keberhasilan kelompok bergantung pada kesiapan setiap individu? Hal ini menciptakan akuntabilitas individu dalam konteks sosial.*
 
 ## 4. Pacing dan Variasi Instruksional
 
@@ -86,7 +86,7 @@ $$
 </div>
 
 - **Jawaban benar:** siswa langsung mendapat pesan yang menyebut skornya dan mengajak lanjut, misalnya *"Hebat! Lanjut ke tantangan berikutnya!"* Hadiah instan seperti ini menjaga motivasi.
-- **Jawaban salah:** siswa tidak mendapat skor, tetapi menerima umpan balik konstruktif yang tidak menjatuhkan, misalnya *"Coba lagi! Ingat konsep X yang baru kita bahas."*
+- **Jawaban salah:** siswa mendapat nol poin dan menerima umpan balik konstruktif yang tidak menjatuhkan, misalnya *"Coba lagi! Ingat konsep X yang baru kita bahas."*
 
 ## 6. Kelas Sejarah Ibu Ratna
 
@@ -103,7 +103,7 @@ $$
 
 ## 7. Strategi untuk Berbagai Gaya Belajar
 
-Agar keterlibatan bersifat inklusif, gunakan pendekatan yang mengakomodasi berbagai preferensi belajar. Anggap tabel ini sebagai variasi cara menyajikan materi, bukan pencocokan gaya, sebab [tinjauan Pashler dkk. (2008)](https://doi.org/10.1111/j.1539-6053.2009.01038.x) menyimpulkan bahwa belum ada bukti yang memadai untuk menjadikan penilaian gaya belajar bagian dari praktik pendidikan umum:
+Agar keterlibatan bersifat inklusif, gunakan pendekatan yang mengakomodasi berbagai preferensi belajar. Anggap tabel ini sebagai variasi cara menyajikan materi. Jangan memakainya untuk mencocokkan siswa dengan gaya tertentu, sebab [tinjauan Pashler dkk. (2008)](https://doi.org/10.1111/j.1539-6053.2009.01038.x) menyimpulkan bahwa belum ada bukti yang memadai untuk menjadikan penilaian gaya belajar bagian dari praktik pendidikan umum:
 
 | Gaya Belajar | Teknik Keterlibatan |
 | --- | --- |
@@ -114,8 +114,8 @@ Agar keterlibatan bersifat inklusif, gunakan pendekatan yang mengakomodasi berba
 
 ## Keterlibatan adalah Pencegahan
 
-Keterlibatan siswa aktif bukan hanya tentang metode mengajar, tetapi tentang menghargai martabat intelektual siswa. Ketika kita memberikan tanggung jawab kepada siswa untuk menjadi partisipan aktif dalam pembelajaran mereka sendiri, kita membangun lingkungan kelas yang penuh rasa hormat dan minim konflik.
+Di balik setiap metode keterlibatan aktif, ada penghargaan terhadap martabat intelektual siswa. Ketika kita memberikan tanggung jawab kepada siswa untuk menjadi partisipan aktif dalam pembelajaran mereka sendiri, kita membangun lingkungan kelas yang penuh rasa hormat dan minim konflik.
 
-> **Pesan Utama:** Manajemen kelas yang baik bukanlah tentang mengendalikan perilaku siswa, melainkan tentang menciptakan lingkungan belajar yang menarik sehingga perilaku buruk menjadi pilihan yang kurang menarik bagi mereka.
+> **Pesan Utama:** Manajemen kelas yang baik menciptakan lingkungan belajar yang menarik, sehingga perilaku buruk menjadi pilihan yang kurang menarik bagi siswa.
 
-*Coba pikirkan: Dari materi yang kamu ajarkan minggu depan, bagian mana yang biasanya paling membosankan bagi siswa? Teknik partisipasi mana yang bisa kamu sisipkan di bagian tersebut untuk menjaga fokus mereka?*
+*Coba pikirkan materi yang kamu ajarkan minggu depan. Bagian mana yang biasanya paling membosankan bagi siswa? Teknik partisipasi mana yang bisa kamu sisipkan di bagian tersebut untuk menjaga fokus mereka?*
