@@ -117,6 +117,11 @@ export function hasEncodedEscape(decoded: string): boolean {
 export function isPublicPath(pathname: string): boolean {
   const decoded = canonicalPath(decodeURIComponent(pathname));
   if (hasEncodedEscape(decoded)) return false;
+  // A decoded "%2F..%2F" climbs out of a free chapter into a gated one while
+  // the prefix rules below still see "01".
+  if (decoded.split("/").some((segment) => segment === "." || segment === "..")) {
+    return false;
+  }
 
   // 1. Admin SPA routes are gated
   if (decoded === "/admin" || decoded.startsWith("/admin/")) {
@@ -168,6 +173,19 @@ export function isPublicPath(pathname: string): boolean {
   }
 
   return true;
+}
+
+/**
+ * AI training and answer crawlers. A verified one still gets no bypass on
+ * gated chapters: being a real OpenAI or Anthropic IP proves who is asking,
+ * not that the book may leave the paywall.
+ */
+const AI_CRAWLER_PATTERN =
+  /GPTBot|ChatGPT-User|OAI-SearchBot|ClaudeBot|Claude-Web|Claude-User|anthropic-ai|PerplexityBot|Perplexity-User|CCBot|Bytespider|Applebot-Extended|meta-externalagent|Amazonbot/i;
+
+export function isAiCrawler(userAgent: string | null): boolean {
+  if (!userAgent) return false;
+  return AI_CRAWLER_PATTERN.test(userAgent);
 }
 
 /**
