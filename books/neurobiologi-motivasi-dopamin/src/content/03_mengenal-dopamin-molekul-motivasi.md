@@ -1,4 +1,4 @@
-## Mengenal Dopamin sebagai Molekul Motivasi, Bukan Kesenangan
+## Mengenal Dopamin sebagai Molekul Motivasi
 
 Selama puluhan tahun, dopamin sering kali disalahpahami oleh publik. Media populer kerap menjuluki dopamin sebagai "molekul kesenangan" (*pleasure chemical*). Kamu mungkin sering mendengar seseorang berkata, "Aku sedang dapat *dopamine hit*" saat mereka menikmati cokelat manis atau melihat jumlah *like* bertambah di media sosial.
 

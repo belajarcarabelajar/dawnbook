@@ -8,7 +8,7 @@
 - [Uang Itu Relatif](content/06_uang-itu-relatif-tetangga-status-dan-perbandingan.md)
 - [Adaptasi Hedonis](content/07_adaptasi-hedonis-nikmat-yang-selalu-mengendur.md)
 - [Kelangkaan Finansial](content/08_kelangkaan-finansial-kurang-uang-menyita-pikiran.md)
-- [Membeli Pengalaman, Bukan Barang](content/09_membeli-pengalaman-bukan-barang.md)
+- [Membeli Pengalaman](content/09_membeli-pengalaman-bukan-barang.md)
 - [Membeli Kebaikan dan Membeli Waktu](content/10_membeli-kebaikan-dan-membeli-waktu.md)
 - [Materialisme](content/11_materialisme-harga-dari-mengejar-harta.md)
 - [Referensi](content/12_referensi.md)

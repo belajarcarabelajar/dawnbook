@@ -52,7 +52,7 @@ Proses ini tidak terjadi dalam sekejap. Ini adalah perjalanan perkembangan yang 
 
 1. **Proliferasi:** Sel punca membelah diri untuk menciptakan sel progenitor.
 2. **Migrasi:** Sel baru berpindah ke lokasi tempat mereka dibutuhkan.
-3. **Diferensiasi:** Sel tersebut memilih identitasnya (menjadi neuron, bukan jenis sel otak lainnya).
+3. **Diferensiasi:** Sel tersebut memilih identitasnya dan menjadi neuron.
 4. **Integrasi Sinaptik:** Neuron baru mulai menumbuhkan dendrit dan akson untuk "berjabat tangan" dengan neuron lama.
 
 Perjalanan dari sel punca sampai neuron yang siap bekerja tergambar pada bagan di bawah ini.

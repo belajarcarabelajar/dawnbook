@@ -129,7 +129,7 @@ describe("book pelajaran-hidup-dari-harvest-moon-back-to-nature", () => {
       "stock connector x2 (max 0)",
       "bab berikutnya x1 (max 0)",
     ]);
-    const cooked = "Si petani berhenti sebentar dan mengusap kening. Kamu tahu artinya: sudah waktunya istirahat, bukan menebas satu tunggul lagi.";
+    const cooked = "Si petani berhenti sebentar dan mengusap kening. Kamu tahu artinya: sudah waktunya istirahat sebelum menebas satu tunggul lagi.";
     expect(voiceViolations("05_x.md", cooked)).toEqual([]);
     expect(voiceViolations("01_x.md", "panduan panduan panduan panduan")).toEqual([]);
     expect(voiceViolations("01_x.md", "panduan panduan panduan panduan panduan")).toEqual(["panduan x5 (max 4)"]);

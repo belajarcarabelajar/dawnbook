@@ -1,7 +1,7 @@
 ---
 schema: ultra-plan/v1
 plan_id: 2026-11-02-free-books-contrast-sweep
-status: Approved
+status: Complete
 version: 1
 runner_contract: true
 defaults:
@@ -149,11 +149,11 @@ flowchart TD
 
 ## Acceptance Criteria
 
-- [ ] AC-1: in every swept book, no "bukan" contrast framing remains; each remaining "bukan" is a plain negation, quoted text or form text, listed with its reason in the wave PR.
-- [ ] AC-2: in every swept book, no colon inside a paragraph or list item reveals, explains or lists; the remaining colons are keep cases (references, definition labels, list lead-ins, sample sentences, titles, links, code, times, ratios).
-- [ ] AC-3: facts, links, hedges, evidence levels and diagrams are unchanged in meaning; no chapter opener exceeds 155 characters; `check:voice`, `check:structure`, `check:headings`, the repeated-headings check and `check:diagrams` exit 0.
-- [ ] AC-4: each wave is live after an owner-approved deploy and D1 seed, with probes showing the changed text on a sample page per book.
-- [ ] AC-5: after wave 4, `check-voice` refuses both patterns in every book (T5), proven RED then GREEN.
+- [x] AC-1: in every swept book, no "bukan" contrast framing remains; each remaining "bukan" is a plain negation, quoted text or form text, listed with its reason in the wave PR.
+- [x] AC-2: in every swept book, no colon inside a paragraph or list item reveals, explains or lists; the remaining colons are keep cases (references, definition labels, list lead-ins, sample sentences, titles, links, code, times, ratios).
+- [x] AC-3: facts, links, hedges, evidence levels and diagrams are unchanged in meaning; no chapter opener exceeds 155 characters; `check:voice`, `check:structure`, `check:headings`, the repeated-headings check and `check:diagrams` exit 0.
+- [x] AC-4: each wave is live after an owner-approved deploy and D1 seed, with probes showing the changed text on a sample page per book.
+- [x] AC-5: after wave 4, `check-voice` refuses both patterns in every book (T5), proven RED then GREEN.
 
 **Traceability:**
 
@@ -167,35 +167,48 @@ flowchart TD
 
 ## Task T1: Wave 1
 
-- [ ] Step 1: Dispatch the wave-1 writers with the premium brief and their chapter scopes.
-- [ ] Step 2: Coordinator pass (recount, judgement calls, drift), then the gates | expect: exit 0.
-- [ ] Step 3: Pull request, then merge, deploy and D1 seed, each after its own owner question; live probes.
+- [x] Step 1: Dispatch the wave-1 writers with the premium brief and their chapter scopes.
+- [x] Step 2: Coordinator pass (recount, judgement calls, drift), then the gates | expect: exit 0.
+- [x] Step 3: Pull request, then merge, deploy and D1 seed, each after its own owner question; live probes.
 
 ## Task T2: Wave 2
 
-- [ ] Step 1: Dispatch the wave-2 writers.
-- [ ] Step 2: Coordinator pass and gates | expect: exit 0.
-- [ ] Step 3: Pull request, merge, deploy, D1 seed and probes, each asked separately.
+- [x] Step 1: Dispatch the wave-2 writers.
+- [x] Step 2: Coordinator pass and gates | expect: exit 0.
+- [x] Step 3: Pull request, merge, deploy, D1 seed and probes, each asked separately.
 
 ## Task T3: Wave 3
 
-- [ ] Step 1: Dispatch the wave-3 writers.
-- [ ] Step 2: Coordinator pass and gates | expect: exit 0.
-- [ ] Step 3: Pull request, merge, deploy, D1 seed and probes, each asked separately.
+- [x] Step 1: Dispatch the wave-3 writers.
+- [x] Step 2: Coordinator pass and gates | expect: exit 0.
+- [x] Step 3: Pull request, merge, deploy, D1 seed and probes, each asked separately.
 
 ## Task T4: Wave 4
 
-- [ ] Step 1: Dispatch the wave-4 writers; the Harvest Moon book keeps its own guard test green.
-- [ ] Step 2: Coordinator pass and gates | expect: exit 0.
-- [ ] Step 3: Pull request, merge, deploy, D1 seed and probes, each asked separately.
+- [x] Step 1: Dispatch the wave-4 writers; the Harvest Moon book keeps its own guard test green.
+- [x] Step 2: Coordinator pass and gates | expect: exit 0.
+- [x] Step 3: Pull request, merge, deploy, D1 seed and probes, each asked separately.
 
 ## Task T5: Guard for all books
 
 The edition-2026 guard from plan 2026-11-01-premium-pdf-visual is extended to every book: drop the edition condition in `scripts/check-voice.ts`, keep the blockquote and `voice-ok` exceptions.
 
-- [ ] Step 1: Write the failing test (a free book with each pattern fails).
-- [ ] Step 2: Run `timeout 120 bun test tests/scripts/check-voice.test.ts` | expect: exit 1.
-- [ ] Step 3: Implement, then run the test, `bun run check:voice` and `bun run typecheck` | expect: exit 0.
+- [x] Step 1: Write the failing test (a free book with each pattern fails).
+- [x] Step 2: Run `timeout 120 bun test tests/scripts/check-voice.test.ts` | expect: exit 1.
+- [x] Step 3: Implement, then run the test, `bun run check:voice` and `bun run typecheck` | expect: exit 0.
+
+## Evidence (2026-11-02)
+
+- AC-1, AC-2: wave PRs #248, #249, #250, #251 list the recounts and every kept "bukan" with its reason; after T5 the all-books guard reports 0 contrast hits (`bun run check:voice` exit 0).
+- AC-3: gates exit 0 in every wave PR and again in the T5 PR (voice, structure, headings, repeated headings, diagrams; `bun test tests/books/` 150 pass, 0 fail; full build exit 0).
+- AC-4: waves 1 to 4 deployed and seeded (deploy exit 0, `migrate-to-d1` exit 0 each). Live probe of chapter 1 of every swept book: the rewritten text is live in 57 of 60; in the other 3, chapter 1 had no probeable change and the later chapters are gated. The T5 title renames go live with the next deploy.
+- AC-5: `tests/scripts/check-voice.test.ts` 6 fail before the change, 48 pass after; the CLI and gate tests now flag a free book.
+
+## Closeout (2026-11-02)
+
+- `bun scripts/plan-closeout.mjs --readiness docs/code-plan/plans/2026-11-02-free-books-contrast-sweep.md`: NEEDS-HUMAN (0 open step boxes, 0 other open boxes, 0 open NOW follow-ups; T1 to T5 UNPROVEN because each `skip_if` is the `false` sentinel). The owner answered `Mark Complete` on 2026-11-02 with the evidence above.
+- `bun scripts/plan-cost.mjs --plan 2026-11-02-free-books-contrast-sweep`: about USD 512.73 (estimate; the session also claimed another plan, so part of it is shared).
+- Follow-ups chosen by the owner, each in its own PR: math fixes (siklus-hidrologi chapter 11 dew-point formula, `\( \)` delimiters in pejorasi chapter 05 and hoax chapter 03, `$$` blocks without `<div>`), the Pashler link year, and the English passages in tonsilektomi chapter 09.
 
 ## Risks and rollback
 

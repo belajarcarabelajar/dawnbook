@@ -1,4 +1,4 @@
-## Membeli Pengalaman, Bukan Barang
+## Membeli Pengalaman
 
 Ingat gadget terakhir yang kamu beli? Tiga hari pertama kamu memeluknya ke mana-mana, cari casing yang pas, pamer ke grup keluarga. Hari kesepuluh dia tergeletak di meja, layar penuh notifikasi yang kamu abaikan. Setahun kemudian statusnya berubah menjadi penghuni lemari yang berdebu.
 

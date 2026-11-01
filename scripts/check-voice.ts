@@ -1,6 +1,6 @@
 import fs from "node:fs";
 import path from "node:path";
-import { contentGateExemptSlugs, loadPremiumRegistry } from "../functions/lib/premium";
+import { contentGateExemptSlugs } from "../functions/lib/premium";
 
 // Voice guard (GEMINI.md section 29): caps per chapter on the scaffolds that make a chapter read like a
 // report on its sources. A green run is necessary, not sufficient; reviewers still judge the voice.
@@ -24,8 +24,6 @@ export interface SourceWordCap {
 
 export interface VoiceOptions {
   sourceWord?: SourceWordCap;
-  // Item 9 of section 29 (owner, 2026-11-02). Only edition-2026 premium books are swept so far.
-  contrastFraming?: boolean;
 }
 
 export interface VoiceResult {
@@ -62,7 +60,8 @@ export const VOICE_CAPS: VoiceCap[] = [
   },
 ];
 
-// Blockquotes in the revised premium books are quoted templates, not the author's prose.
+// Item 9 of section 29 (owner, 2026-11-02), checked in every book since the 2026-11-02 sweep.
+// Blockquotes are quoted templates, code blocks hold diagrams, and ", bukan?" is a tag question.
 const BLOCKQUOTE_LINE = /^[ \t]*>.*$/gm;
 
 export const CONTRAST_CAPS: VoiceCap[] = [
@@ -71,8 +70,9 @@ export const CONTRAST_CAPS: VoiceCap[] = [
     pattern: /\bbukan\b[^.!?]{0,160}?\b(tetapi|tapi|melainkan|namun)\b/gi,
     max: 0,
     except: [BLOCKQUOTE_LINE],
+    proseOnly: true,
   },
-  { label: "trailing ', bukan'", pattern: /,\s+bukan\b/gi, max: 0, except: [BLOCKQUOTE_LINE] },
+  { label: "trailing ', bukan'", pattern: /,\s+bukan\b(?!\s*\?)/gi, max: 0, except: [BLOCKQUOTE_LINE], proseOnly: true },
 ];
 
 const FENCE = /^```[^\n]*\n[\s\S]*?^```[ \t]*$/gm;
@@ -95,7 +95,7 @@ function escapeRegExp(s: string): string {
 }
 
 function capsFor(file: string, options: VoiceOptions = {}): VoiceCap[] {
-  const base = options.contrastFraming ? [...VOICE_CAPS, ...CONTRAST_CAPS] : VOICE_CAPS;
+  const base = [...VOICE_CAPS, ...CONTRAST_CAPS];
   const sw = options.sourceWord;
   if (!sw) return base;
   const max = file.startsWith("01_") && sw.firstChapterMax !== undefined ? sw.firstChapterMax : sw.max;
@@ -104,8 +104,7 @@ function capsFor(file: string, options: VoiceOptions = {}): VoiceCap[] {
 }
 
 function optionsFor(slug: string): VoiceOptions | undefined {
-  if (loadPremiumRegistry()[slug]?.edition !== 2026) return BOOK_VOICE_CONFIG[slug];
-  return { ...BOOK_VOICE_CONFIG[slug], contrastFraming: true };
+  return BOOK_VOICE_CONFIG[slug];
 }
 
 // A line that quotes a source verbatim (a classroom transcript, a cited title) may keep a flagged
