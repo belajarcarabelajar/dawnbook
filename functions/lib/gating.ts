@@ -95,7 +95,10 @@ const PUBLIC_PATH_PREFIXES = ["/api/", "/sign-in", "/sign-up"];
  * @returns true if the path should be served without edge-level auth redirection
  */
 export function isPublicPath(pathname: string): boolean {
-  const decoded = decodeURIComponent(pathname);
+  // Runs of "/" are collapsed after decoding because the static layer serves
+  // "/books/x//page" (and "%2F") as the same file, so every rule below must
+  // see the canonical path or a doubled slash slips past the book rules.
+  const decoded = decodeURIComponent(pathname).replace(/\/{2,}/g, "/");
 
   // 1. Admin SPA routes are gated
   if (decoded === "/admin" || decoded.startsWith("/admin/")) {

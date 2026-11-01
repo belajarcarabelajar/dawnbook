@@ -82,3 +82,31 @@ describe("isPublicPath searchindex gating", () => {
     expect(isPublicPath("/books/x/searcher-1f2e3d4c.js")).toBe(true);
   });
 });
+
+describe("isPublicPath double slash canonicalisation", () => {
+  test("double slash before searchindex is not public", () => {
+    expect(isPublicPath("/books/x//searchindex.js")).toBe(false);
+    expect(isPublicPath("/books/x//searchindex-a2c06330.js")).toBe(false);
+  });
+
+  test("double slash from an encoded %2F before searchindex is not public", () => {
+    // Without decoding, "%2Fsearchindex.js" would not look like the index at all.
+    expect(isPublicPath("/books/x/%2Fsearchindex.js")).toBe(false);
+  });
+
+  test("double slash at the start of a searchindex path is not public", () => {
+    expect(isPublicPath("//books/x/searchindex.js")).toBe(false);
+  });
+
+  test("double slash does not open chapter 2", () => {
+    expect(isPublicPath("/books/x//02_a.html")).toBe(false);
+    expect(isPublicPath("//books/x/content/02_a.html")).toBe(false);
+  });
+
+  test("double slash keeps public pages public", () => {
+    expect(isPublicPath("/books/x//01_a.html")).toBe(true);
+    expect(isPublicPath("//index.html")).toBe(true);
+    expect(isPublicPath("//")).toBe(true);
+    expect(isPublicPath("/")).toBe(true);
+  });
+});

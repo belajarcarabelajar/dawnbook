@@ -402,4 +402,20 @@ describe("Cloudflare Pages Edge Middleware (functions/_middleware.ts)", () => {
     expect(response.status).toBe(401);
     expect(next).not.toHaveBeenCalled();
   });
+  test("anonymous HTML request for a double slash searchindex path redirects 302", async () => {
+    const env = createMockEnv();
+    setQueryHandler(env, "SELECT", () => []);
+
+    const req = mockRequest("https://example.com/books/x//searchindex-a.js", {
+      headers: { Accept: "text/html,application/xhtml+xml" },
+    });
+
+    const next = mock(async () => new Response("window.search = {}"));
+    const context = { request: req, env: env, next };
+
+    const response = await onRequest(context as any);
+    expect(response.status).toBe(302);
+    expect(response.headers.get("Location")).toContain("/sign-in");
+    expect(next).not.toHaveBeenCalled();
+  });
 });
