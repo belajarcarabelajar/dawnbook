@@ -131,7 +131,13 @@ export const onRequestGet: PagesFunction<Env> = async (context) => {
         env.DB,
         userInfo.email.trim().toLowerCase(),
       );
-      if (byEmail && byEmail.google_sub.startsWith(BCB_SUB_PREFIX)) {
+      // Linking hands over a store account, so only an address Google has
+      // verified may claim it; strict `=== true` refuses a missing or string flag.
+      if (
+        byEmail &&
+        byEmail.google_sub.startsWith(BCB_SUB_PREFIX) &&
+        userInfo.email_verified === true
+      ) {
         fresh = await linkGoogleSub(env.DB, byEmail.id, userInfo.sub, {
           name: userInfo.name ?? null,
           picture: userInfo.picture ?? null,

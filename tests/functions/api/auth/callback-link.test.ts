@@ -42,7 +42,7 @@ function createSqliteD1() {
 const STATE_HEX = "d".repeat(32);
 const BASE_URL = "https://example.com/api/auth/callback";
 
-type GoogleProfile = { sub: string; email: string; name?: string; picture?: string };
+type GoogleProfile = { sub: string; email: string; email_verified?: unknown; name?: string; picture?: string };
 
 function installGoogleFetch(profile: GoogleProfile): () => void {
   const original = global.fetch;
@@ -159,6 +159,29 @@ describe("/api/auth/callback account linking", () => {
     expect(rows[0].last_login_at).not.toBe("2026-01-01T00:00:00.000Z");
     expect(sessions(sqlite)).toEqual([{ id: sessionCookie(res), user_id: "u_toko" }]);
   });
+
+  for (const [label, emailVerified] of [
+    ["false", false],
+    ["missing", undefined],
+    ["the string \"true\"", "true"],
+  ] as const) {
+    test(`email_verified ${label}: store user is not linked, account_conflict, no session`, async () => {
+      const { sqlite, db } = createSqliteD1();
+      insertUser(sqlite, { id: "u_toko", google_sub: "bcb:pembeli@contoh.id", email: "pembeli@contoh.id" });
+      const before = users(sqlite);
+      restoreFetch = installGoogleFetch({ sub: "g-penyerang", email: "pembeli@contoh.id", email_verified: emailVerified });
+
+      const res = await callGoogleCallback({ DB: db, GOOGLE_CLIENT_ID: "id", GOOGLE_CLIENT_SECRET: "secret" });
+
+      expect(res.status).toBe(302);
+      const loc = new URL(res.headers.get("Location")!);
+      expect(loc.pathname).toBe("/sign-in");
+      expect(loc.searchParams.get("error")).toBe("account_conflict");
+      expect(sessionCookie(res)).toBeNull();
+      expect(sessions(sqlite)).toEqual([]);
+      expect(users(sqlite)).toEqual(before);
+    });
+  }
 
   test("email held by another Google sub is refused with account_conflict and no session", async () => {
     const { sqlite, db } = createSqliteD1();
