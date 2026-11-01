@@ -62,3 +62,51 @@ describe("isPublicPath — book content gating", () => {
     expect(isPublicPath("/books/piaget/content/02_konsep.html")).toBe(false);
   });
 });
+
+describe("isPublicPath searchindex gating", () => {
+  test("hashed searchindex js under a book is not public", () => {
+    expect(isPublicPath("/books/x/searchindex-a2c06330.js")).toBe(false);
+  });
+
+  test("plain searchindex.js and searchindex.json under a book are not public", () => {
+    expect(isPublicPath("/books/x/searchindex.js")).toBe(false);
+    expect(isPublicPath("/books/x/searchindex.json")).toBe(false);
+  });
+
+  test("percent-encoded searchindex path is still not public", () => {
+    expect(isPublicPath("/books/x/%73earchindex-a2c06330.js")).toBe(false);
+  });
+
+  test("other book js stays public next to the gated searchindex", () => {
+    expect(isPublicPath("/books/x/book-609e4cb8.js")).toBe(true);
+    expect(isPublicPath("/books/x/searcher-1f2e3d4c.js")).toBe(true);
+  });
+});
+
+describe("isPublicPath double slash canonicalisation", () => {
+  test("double slash before searchindex is not public", () => {
+    expect(isPublicPath("/books/x//searchindex.js")).toBe(false);
+    expect(isPublicPath("/books/x//searchindex-a2c06330.js")).toBe(false);
+  });
+
+  test("double slash from an encoded %2F before searchindex is not public", () => {
+    // Without decoding, "%2Fsearchindex.js" would not look like the index at all.
+    expect(isPublicPath("/books/x/%2Fsearchindex.js")).toBe(false);
+  });
+
+  test("double slash at the start of a searchindex path is not public", () => {
+    expect(isPublicPath("//books/x/searchindex.js")).toBe(false);
+  });
+
+  test("double slash does not open chapter 2", () => {
+    expect(isPublicPath("/books/x//02_a.html")).toBe(false);
+    expect(isPublicPath("//books/x/content/02_a.html")).toBe(false);
+  });
+
+  test("double slash keeps public pages public", () => {
+    expect(isPublicPath("/books/x//01_a.html")).toBe(true);
+    expect(isPublicPath("//index.html")).toBe(true);
+    expect(isPublicPath("//")).toBe(true);
+    expect(isPublicPath("/")).toBe(true);
+  });
+});

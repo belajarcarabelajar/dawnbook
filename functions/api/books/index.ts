@@ -41,13 +41,14 @@ function errorResponse(message: string, status: number): Response {
  */
 async function handleGetBooks(env: Env, request: Request): Promise<Response> {
   const url = new URL(request.url);
-  const includeContent = url.searchParams.get("content") === "true";
   const statusFilter = url.searchParams.get("status");
   const subjectLabel = url.searchParams.get("subject_label");
   const sortBy = url.searchParams.get("sort_by") || "newest";
 
   const session = await verifySession(request, env);
   const isAdmin = session?.role === "admin";
+  // content=true would dump every book's full text; only admins may ask.
+  const includeContent = isAdmin && url.searchParams.get("content") === "true";
 
   const books = await getBooks(env.DB, {
     includeContent,

@@ -10,7 +10,8 @@
  * Policy:
  *   - Hub pages (/, /about.html, /contribute.html) are always public.
  *   - Admin SPA (/admin/*) is always public at the edge (the admin UI gates it via /api/auth/me).
- *   - All static assets (CSS, JS, fonts, images, manifest, _redirects, _headers) are public.
+ *   - All static assets (CSS, JS, fonts, images, manifest, _redirects, _headers) are public,
+ *     except a book's mdBook search index (/books/<slug>/searchindex*), which is gated.
  *   - Sign-in pages (/sign-in*, /sign-up*) are public.
  *   - API routes (/api/*) are public at the edge (individual handlers enforce their own auth).
  *   - Book index/root (/books/<slug>/ and /books/<slug>/index.html) is public preview.
@@ -94,7 +95,10 @@ const PUBLIC_PATH_PREFIXES = ["/api/", "/sign-in", "/sign-up"];
  * @returns true if the path should be served without edge-level auth redirection
  */
 export function isPublicPath(pathname: string): boolean {
-  const decoded = decodeURIComponent(pathname);
+  // Runs of "/" are collapsed after decoding because the static layer serves
+  // "/books/x//page" (and "%2F") as the same file, so every rule below must
+  // see the canonical path or a doubled slash slips past the book rules.
+  const decoded = decodeURIComponent(pathname).replace(/\/{2,}/g, "/");
 
   // 1. Admin SPA routes are gated
   if (decoded === "/admin" || decoded.startsWith("/admin/")) {
@@ -111,7 +115,13 @@ export function isPublicPath(pathname: string): boolean {
     if (decoded.startsWith(prefix)) return true;
   }
 
-  // 4. Static assets (by extension)
+  // 4. The mdBook search index holds the full text of every chapter, so it
+  // must be checked before the extension rule would make it a public .js/.json.
+  if (/^\/books\/[^\/]+\/searchindex/i.test(decoded)) {
+    return false;
+  }
+
+  // 5. Static assets (by extension)
   const dotIdx = decoded.lastIndexOf(".");
   if (dotIdx !== -1) {
     const ext = decoded.slice(dotIdx).toLowerCase();
@@ -120,7 +130,7 @@ export function isPublicPath(pathname: string): boolean {
     }
   }
 
-  // 5. Book routes (/books/<slug>/...)
+  // 6. Book routes (/books/<slug>/...)
   const bookMatch = decoded.match(/^\/books\/([^\/]+)\/(.*)$/);
   if (bookMatch) {
     let page = bookMatch[2];

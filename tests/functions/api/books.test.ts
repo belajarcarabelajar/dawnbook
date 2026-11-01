@@ -13,6 +13,70 @@ mock.module("../../../functions/lib/auth", () => {
 import { onRequest } from "../../../functions/api/books/index";
 import { createMockEnv, mockRequest, setQueryHandler } from "../../helpers/mocks";
 
+// Mirrors D1 column selection, so a row only carries the columns the SQL names
+// and a test can see whether the handler asked for content_md at all.
+function selectColumns(sql: string, row: Record<string, unknown>) {
+  const upper = sql.toUpperCase();
+  const cols = sql
+    .slice(upper.indexOf("SELECT") + "SELECT".length, upper.indexOf(" FROM "))
+    .split(",")
+    .map((c) => c.trim());
+  return Object.fromEntries(cols.filter((c) => c in row).map((c) => [c, row[c]]));
+}
+
+const FULL_ROW = {
+  id: "b1",
+  slug: "b1",
+  title: "Book One",
+  status: "published",
+  content_md: "# Full book text",
+  created_at: "2026-01-01T00:00:00.000Z",
+  updated_at: "2026-01-01T00:00:00.000Z",
+  subject_label: null,
+  view_count: 0,
+};
+
+async function listBooksAs(session: unknown, query: string) {
+  mockSession = session;
+  const env = createMockEnv();
+  setQueryHandler(env, "SELECT", (sql) => [selectColumns(sql, FULL_ROW)]);
+  const req = mockRequest(`https://example.com/api/books${query}`, { method: "GET" });
+  const res = await onRequest({ request: req, env } as any);
+  return { status: res.status, books: (await res.json()).books as Record<string, unknown>[] };
+}
+
+describe("API: /api/books content_md access", () => {
+  beforeEach(() => {
+    mockSession = null;
+  });
+
+  test("GET ?content=true omits content_md for anonymous callers", async () => {
+    const { status, books } = await listBooksAs(null, "?content=true");
+    expect(status).toBe(200);
+    expect(books).toHaveLength(1);
+    expect(books[0].slug).toBe("b1");
+    expect(Object.keys(books[0])).not.toContain("content_md");
+  });
+
+  test("GET ?content=true omits content_md for reader sessions", async () => {
+    const { status, books } = await listBooksAs({ sub: "reader_1", role: "reader" }, "?content=true");
+    expect(status).toBe(200);
+    expect(books[0].slug).toBe("b1");
+    expect(Object.keys(books[0])).not.toContain("content_md");
+  });
+
+  test("GET ?content=true returns content_md to admins", async () => {
+    const { status, books } = await listBooksAs({ sub: "admin_1", role: "admin" }, "?content=true");
+    expect(status).toBe(200);
+    expect(books[0].content_md).toBe("# Full book text");
+  });
+
+  test("GET ?content=false omits content_md even for admins", async () => {
+    const { books } = await listBooksAs({ sub: "admin_1", role: "admin" }, "?content=false");
+    expect(Object.keys(books[0])).not.toContain("content_md");
+  });
+});
+
 describe("API: /api/books", () => {
   beforeEach(() => {
     mockSession = null;
