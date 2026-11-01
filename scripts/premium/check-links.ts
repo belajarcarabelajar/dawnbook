@@ -8,7 +8,9 @@
  * A link is dead when its final status is 400 or more, when it times out or fails after one
  * retry, or when it redirects to another host that looks like a parked domain or a gambling
  * site (expired domains of old references often end up there and still answer 200).
- * Exit codes: 0 no dead link, 1 at least one dead link, 2 usage error.
+ * A final 401, 403 or 429 is reported as unverified instead: many publishers refuse scripted
+ * requests, so those links need a check by other means (a person or a fetch tool).
+ * Exit codes: 0 no dead link (unverified links allowed), 1 at least one dead link, 2 usage error.
  */
 import fs from "node:fs";
 import path from "node:path";
@@ -23,6 +25,7 @@ export interface DeadLink {
   line: number;
   url: string;
   reason: string;
+  kind: "dead" | "unverified";
 }
 
 export interface CheckLinksOptions {
@@ -32,8 +35,8 @@ export interface CheckLinksOptions {
 
 const DEFAULT_TIMEOUT_MS = 15_000;
 const DEFAULT_CONCURRENCY = 8;
-// Statuses some servers send to HEAD only, so the link is asked again with GET.
-const RETRY_WITH_GET = new Set([403, 405, 501]);
+// Statuses a server sends to refuse a scripted request rather than to say the page is gone.
+const UNVERIFIED_STATUSES = new Set([401, 403, 429]);
 
 // Matched anywhere in the host.
 const DENY_HOST_WORDS = ["togel", "slot", "gacor", "4d.", "pos4d", "permen4d", "judi", "casino", "parking"];
@@ -88,11 +91,17 @@ export function extractLinks(text: string): { line: number; url: string }[] {
       // Blank the target so the bare-URL scan below does not report it a second time.
       rest = rest.slice(0, j) + " ".repeat(end - j) + rest.slice(end);
     }
-    for (const m of rest.matchAll(/https?:\/\/[^\s<>"'`]+/gi)) {
+    // "[" and "]" end a bare URL, so a URL used as link text stops before the "](" of its target.
+    for (const m of rest.matchAll(/https?:\/\/[^\s<>"'`[\]]+/gi)) {
       found.push({ at: m.index, url: trimUrl(m[0]) });
     }
     found.sort((a, b) => a.at - b.at);
-    for (const f of found) out.push({ line: i + 1, url: f.url });
+    const seen = new Set<string>();
+    for (const f of found) {
+      if (seen.has(f.url)) continue;
+      seen.add(f.url);
+      out.push({ line: i + 1, url: f.url });
+    }
   });
   return out;
 }
@@ -130,14 +139,19 @@ async function attempt(fetchFn: FetchLike, url: string, method: string, timeoutM
   }
 }
 
-/** Returns the reason a URL is dead, or null when it is alive. */
-async function probe(fetchFn: FetchLike, url: string, timeoutMs: number): Promise<string | null> {
+type Verdict = { reason: string; kind: DeadLink["kind"] };
+
+/** Returns why a URL is dead or unverified, or null when it is alive. */
+async function probe(fetchFn: FetchLike, url: string, timeoutMs: number): Promise<Verdict | null> {
   let result = await attempt(fetchFn, url, "HEAD", timeoutMs);
-  if ("error" in result || RETRY_WITH_GET.has(result.status)) {
+  // Many servers answer HEAD with 404, 405 or 406 while GET returns the page.
+  if ("error" in result || result.status >= 400) {
     result = await attempt(fetchFn, url, "GET", timeoutMs);
   }
-  if ("error" in result) return result.error;
-  if (result.status >= 400) return `HTTP ${result.status}`;
+  if ("error" in result) return { reason: result.error, kind: "dead" };
+  if (result.status >= 400) {
+    return { reason: `HTTP ${result.status}`, kind: UNVERIFIED_STATUSES.has(result.status) ? "unverified" : "dead" };
+  }
   let from: string;
   let to: string;
   try {
@@ -146,7 +160,7 @@ async function probe(fetchFn: FetchLike, url: string, timeoutMs: number): Promis
   } catch {
     return null;
   }
-  if (to !== from && deniedHost(to)) return `redirected to denylisted host ${to}`;
+  if (to !== from && deniedHost(to)) return { reason: `redirected to denylisted host ${to}`, kind: "dead" };
   return null;
 }
 
@@ -163,7 +177,7 @@ export async function checkLinks(dir: string, fetchFn: FetchLike, opts: CheckLin
   }
 
   const urls = [...occurrences.keys()];
-  const reasons = new Map<string, string>();
+  const reasons = new Map<string, Verdict>();
   let next = 0;
   const worker = async () => {
     while (next < urls.length) {
@@ -176,8 +190,8 @@ export async function checkLinks(dir: string, fetchFn: FetchLike, opts: CheckLin
   await Promise.all(Array.from({ length: Math.min(concurrency, urls.length) }, worker));
 
   const dead: DeadLink[] = [];
-  for (const [url, reason] of reasons) {
-    for (const { file, line } of occurrences.get(url) ?? []) dead.push({ file, line, url, reason });
+  for (const [url, { reason, kind }] of reasons) {
+    for (const { file, line } of occurrences.get(url) ?? []) dead.push({ file, line, url, reason, kind });
   }
   return dead.sort((a, b) => a.file.localeCompare(b.file) || a.line - b.line || a.url.localeCompare(b.url));
 }
@@ -195,9 +209,12 @@ async function main(argv: string[]): Promise<number> {
     console.error("usage: bun run scripts/premium/check-links.ts <dir>");
     return 2;
   }
-  const dead = await checkLinks(dir, realFetch);
+  const found = await checkLinks(dir, realFetch);
+  const dead = found.filter((d) => d.kind === "dead");
+  const unverified = found.filter((d) => d.kind === "unverified");
   for (const d of dead) console.log(`${d.file}:${d.line} ${d.url} ${d.reason}`);
-  console.log(`${dead.length} dead link${dead.length === 1 ? "" : "s"}`);
+  for (const d of unverified) console.log(`unverified ${d.file}:${d.line} ${d.url} ${d.reason}`);
+  console.log(`${dead.length} dead link${dead.length === 1 ? "" : "s"}, ${unverified.length} unverified`);
   return dead.length > 0 ? 1 : 0;
 }
 

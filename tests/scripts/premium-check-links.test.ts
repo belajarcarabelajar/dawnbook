@@ -46,6 +46,19 @@ describe("extractLinks", () => {
       { line: 3, url: "https://en.wikipedia.org/wiki/Spacing_(psychology)" },
     ]);
   });
+
+  test("a URL used as the link text of the same URL is reported once, without the closing bracket", () => {
+    const text = "Penulis. (2024). *Judul*. [https://doi.org/10.1/abc](https://doi.org/10.1/abc)";
+    expect(extractLinks(text)).toEqual([{ line: 1, url: "https://doi.org/10.1/abc" }]);
+  });
+
+  test("a URL as link text of a different target yields both URLs, clean", () => {
+    const text = "[https://a.example/x](https://b.example/y)";
+    expect(extractLinks(text)).toEqual([
+      { line: 1, url: "https://a.example/x" },
+      { line: 1, url: "https://b.example/y" },
+    ]);
+  });
 });
 
 describe("checkLinks", () => {
@@ -100,6 +113,38 @@ describe("checkLinks", () => {
     });
     expect(await checkLinks(dir, fn, { timeoutMs: 30 })).toEqual([]);
     expect(calls.map((c) => c.method)).toEqual(["HEAD", "GET"]);
+  });
+
+  test("any HEAD status of 400 or more is asked again with GET, and a live GET keeps the link alive", async () => {
+    const dir = path.join(ROOT, "books-head404");
+    write("books-head404/b.md", "https://headless.example/a\nhttps://picky.example/b\n");
+    const { fn, calls } = fakeFetch({
+      "https://headless.example/a": { HEAD: { status: 404 }, GET: { status: 200 } },
+      "https://picky.example/b": { HEAD: { status: 406 }, GET: { status: 200 } },
+    });
+    expect(await checkLinks(dir, fn, { timeoutMs: 30 })).toEqual([]);
+    expect(calls.map((c) => `${c.method} ${c.url}`).sort()).toEqual([
+      "GET https://headless.example/a",
+      "GET https://picky.example/b",
+      "HEAD https://headless.example/a",
+      "HEAD https://picky.example/b",
+    ]);
+  });
+
+  test("401, 403 and 429 after GET are unverified, not dead; 404 and 410 stay dead", async () => {
+    const dir = path.join(ROOT, "books-blocked");
+    write("books-blocked/b.md", ["https://s401.example/", "https://s403.example/", "https://s429.example/", "https://s404.example/", "https://s410.example/"].join("\n"));
+    const routes: Routes = {};
+    for (const s of [401, 403, 429, 404, 410]) routes[`https://s${s}.example/`] = { HEAD: { status: s }, GET: { status: s } };
+    const { fn } = fakeFetch(routes);
+    const rows = (await checkLinks(dir, fn, { timeoutMs: 30 })).map((d) => [d.url, d.kind]);
+    expect(rows).toEqual([
+      ["https://s401.example/", "unverified"],
+      ["https://s403.example/", "unverified"],
+      ["https://s429.example/", "unverified"],
+      ["https://s404.example/", "dead"],
+      ["https://s410.example/", "dead"],
+    ]);
   });
 
   test("keeps at most 8 requests in flight", async () => {
