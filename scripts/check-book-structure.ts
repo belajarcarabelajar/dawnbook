@@ -22,6 +22,7 @@ const URL = /https?:\/\/(?:[^\s()|>\]]|\([^\s()|>\]]*\))+/gi;
 // Inline link target (one level of balanced parentheses, optional quoted title) or an href value.
 const LINK_TARGET = /\]\(\s*((?:[^\s()]|\([^\s()]*\))+)(?:\s+(?:"[^"]*"|'[^']*'))?\s*\)|\bhref\s*=\s*(?:"([^"]*)"|'([^']*)')/gi;
 const ABSOLUTE_HTTP = /^https?:\/\//i;
+const MAILTO = /^mailto:[^\s@]+@[^\s@]+\.[^\s@]+$/i;
 const IMAGE_FILE = /\.(png|jpe?g|gif|webp|svg|avif)$/i;
 
 export function extractUrls(md: string): string[] {
@@ -47,11 +48,11 @@ export function extractLinkTargets(md: string): string[] {
   return [...seen];
 }
 
-// A target is fine when it is an absolute http(s) URL, an in-page anchor, a site-root link to another
+// A target is fine when it is an absolute http(s) URL, a mailto: address, an in-page anchor, a site-root link to another
 // book that exists, or a relative link to a chapter of the book (mdBook rewrites .md links to .html,
 // so either extension names a source file), or a relative link to an image file inside the book's src/.
 function linkTargetOk(target: string, chapterDir: string, srcDir: string, booksDir: string): boolean {
-  if (ABSOLUTE_HTTP.test(target) || target.startsWith("#")) return true;
+  if (ABSOLUTE_HTTP.test(target) || target.startsWith("#") || MAILTO.test(target)) return true;
   const slug = /^\/books\/([a-z0-9-]+)\//.exec(target)?.[1];
   if (slug) return fs.existsSync(path.join(booksDir, slug, "book.toml"));
   if (target.startsWith("/") || /^[a-z][a-z0-9+.-]*:/i.test(target)) return false;

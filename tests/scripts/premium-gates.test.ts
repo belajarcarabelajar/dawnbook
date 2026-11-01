@@ -120,3 +120,28 @@ describe("images in free books", () => {
     ]);
   });
 });
+
+describe("link schemes", () => {
+  // Kept outside ROOT/books so the library-wide gate tests above never see this book.
+  function linkBook(body: string): string {
+    const dir = path.join(ROOT, "links", "tautan");
+    fs.rmSync(dir, { recursive: true, force: true });
+    fs.mkdirSync(path.join(dir, "src/content"), { recursive: true });
+    fs.writeFileSync(path.join(dir, "src/SUMMARY.md"), "# Summary\n\n- [Bab Tautan](content/01_satu.md)\n");
+    fs.writeFileSync(
+      path.join(dir, "src/content/01_satu.md"),
+      `## Bab Tautan\n\nBab ini berisi teks sintetis yang cukup panjang untuk menjadi pembuka yang wajar bagi pembaca uji coba ini.\n\n${body}\n`,
+    );
+    return dir;
+  }
+
+  test("a mailto link with a plausible address passes", () => {
+    expect(checkBookStructure(linkBook("Tulis ke [redaksi](mailto:redaksi@contoh.id).")).problems).toEqual([]);
+  });
+
+  test("javascript, file, data and a mailto without an address still fail", () => {
+    const targets = ["javascript:alert(1)", "file:///etc/passwd", "data:text/html,x", "mailto:redaksi"];
+    const { problems } = checkBookStructure(linkBook(targets.map((t) => `[x](${t})`).join("\n\n")));
+    expect(problems.map((p) => /link target "([^"]*)"/.exec(p)?.[1])).toEqual(targets);
+  });
+});
