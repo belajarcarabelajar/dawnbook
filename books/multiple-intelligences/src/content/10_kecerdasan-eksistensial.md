@@ -1,6 +1,6 @@
 ## Kecerdasan Eksistensial
 
-Pernahkah kamu menatap langit malam yang penuh bintang, merasa sangat kecil, lalu bertanya dalam hati: *Mengapa kita ada di sini?* Atau, *apa yang terjadi setelah hidup berakhir?*
+Pernahkah kamu menatap langit malam yang penuh bintang, merasa sangat kecil, lalu bertanya dalam hati, *Mengapa kita ada di sini?* Atau, *apa yang terjadi setelah hidup berakhir?*
 
 Pertanyaan-pertanyaan ini merupakan bentuk dorongan dari apa yang Howard Gardner sebut sebagai kecerdasan eksistensial. Sebagai kandidat kecerdasan kesembilan dalam teorinya, kecerdasan ini menggambarkan kapasitas manusia untuk memikirkan hal-hal di luar jangkauan pancaindra.
 
@@ -16,7 +16,7 @@ Sebagai perbandingan, kecerdasan intrapersonal bekerja mirip mikroskop yang mema
 
 Individu yang menonjol dalam area ini sering memperlihatkan tanda-tanda khas sejak usia dini. Mereka punya minat tinggi terhadap masalah metafisika, penasaran pada realitas yang tak kasat mata, kehidupan, hingga kematian.
 
-Cara pandang mereka cenderung holistik. Alih-alih terperangkap pada hal-hal kecil, mereka melihat gambaran besar tentang bagaimana alam dan peradaban saling terhubung di tingkat makro. Sudut pandang ini menumbuhkan kepedulian mendalam terhadap masalah kemanusiaan, keberlanjutan bumi, dan etika masa depan.
+Cara pandang mereka cenderung holistik. Mereka melihat gambaran besar tentang bagaimana alam dan peradaban saling terhubung di tingkat makro. Sudut pandang ini menumbuhkan kepedulian mendalam terhadap masalah kemanusiaan, keberlanjutan bumi, dan etika masa depan.
 
 Satu hal yang menarik adalah mereka tidak mudah gentar oleh ambiguitas. Saat berhadapan dengan pertanyaan tanpa jawaban absolut, mereka merasa damai. Dorongan mencari makna ini sering bermuara pada upaya transendensi, entah lewat kajian filsafat, praktik meditasi, atau penjelajahan wacana eksistensial untuk melihat lebih jauh dari rutinitas harian.
 
@@ -26,7 +26,7 @@ Kecerdasan ini beroperasi melampaui data empiris sederhana. Berbeda dengan ilmu 
 
 Pola pikir ini mendorong orang mempertanyakan asal muasal segalanya, dari mana kita berasal, hingga bagaimana alam semesta terbentuk. Ada pula pencarian tentang tujuan hidup yang membedah apakah kehidupan manusia memiliki arah objektif di dunia ini, serta apa yang menanti setelah kesadaran berhenti akibat kematian.
 
-Pertanyaan seputar konektivitas lintas waktu juga sering mengemuka: sejauh mana tindakan hari ini memengaruhi arah peradaban ratusan tahun ke depan. Rutinitas berulang bisa terasa amat hampa bagi mereka jika gagal disandarkan pada sebuah nilai yang lebih tinggi.
+Pertanyaan seputar konektivitas lintas waktu juga sering mengemuka, misalnya sejauh mana tindakan hari ini memengaruhi arah peradaban ratusan tahun ke depan. Rutinitas berulang bisa terasa amat hampa bagi mereka jika gagal disandarkan pada sebuah nilai yang lebih tinggi.
 
 ## Batas-Batas dengan Kecerdasan Lain
 
@@ -42,11 +42,11 @@ Pemilihan istilah "eksistensial" yang diajukan oleh Gardner dilandasi oleh alasa
 
 ## Peran Nyata di Tengah Masyarakat
 
-Pemikiran eksistensial jelas lebih dari sekadar melamun tanpa arah. Di dunia nyata, kepekaan ini mengisi celah pengawasan moral di dunia kerja.
+Di dunia nyata, kepekaan eksistensial mengisi celah pengawasan moral di dunia kerja.
 
-Dalam disiplin ilmu bioetika, para pemikir eksistensial menimbang batas etis saat teknologi rekayasa genetika atau kecerdasan buatan dikembangkan. Mereka melontarkan pertanyaan mendasar: *"Hanya karena kita secara teknis mampu membuat inovasi $x$, apakah inovasi itu sejalan dengan esensi moral kemanusiaan?"*
+Dalam disiplin ilmu bioetika, para pemikir eksistensial menimbang batas etis saat teknologi rekayasa genetika atau kecerdasan buatan dikembangkan. Mereka melontarkan pertanyaan mendasar seperti *"Hanya karena kita secara teknis mampu membuat inovasi $x$, apakah inovasi itu sejalan dengan esensi moral kemanusiaan?"*
 
-Di ranah kepemimpinan, visi masa depan tidak berhenti pada perburuan laba, tetapi menjawab mengapa sebuah organisasi perlu ada. Ilmuwan besar sering kali mengandalkan intuisi eksistensial untuk membayangkan hal-hal di luar batas kerja laboratorium mereka.
+Di ranah kepemimpinan, visi masa depan menjawab mengapa sebuah organisasi perlu ada. Ilmuwan besar sering kali mengandalkan intuisi eksistensial untuk membayangkan hal-hal di luar batas kerja laboratorium mereka.
 
 Sebagai bayangan, anggaplah sebuah tim sedang meracik algoritma media sosial yang dirancang demi mendongkrak interaksi pengguna. Seseorang dengan kecerdasan eksistensial akan mempertanyakan apakah algoritma tersebut pada akhirnya memanipulasi kejiwaan publik demi mengejar pertumbuhan angka semata.
 
@@ -66,6 +66,6 @@ N = 10^{22} \text{ hingga } 10^{24} \text{ bintang}
 $$
 </div>
 
-Bagi kecerdasan eksistensial, angka sebesar itu memicu *awe* atau perasaan takjub, bukan sekadar catatan statistik. Besarnya kosmos itu mengingatkan betapa berharganya kehidupan.
+Bagi kecerdasan eksistensial, angka sebesar itu memicu *awe* atau perasaan takjub. Besarnya kosmos itu mengingatkan betapa berharganya kehidupan.
 
 Menghadapi hal yang belum kita ketahui tak selamanya mengundang rasa takut; nalar eksistensial mengubah rasa takut itu menjadi pencarian makna tentang tempat kita di semesta.

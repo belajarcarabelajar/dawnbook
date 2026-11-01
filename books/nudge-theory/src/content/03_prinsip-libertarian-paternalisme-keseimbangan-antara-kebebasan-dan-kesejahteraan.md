@@ -45,7 +45,7 @@ Tiga kondisi yang bisa kita bandingkan:
 Untuk dikategorikan sebagai tindakan Libertarian Paternalisme, sebuah intervensi harus memenuhi kriteria berikut:
 
 1. **Tidak ada larangan (*no bans*)**. Semua pilihan yang legal harus tetap tersedia. Jika kamu memutuskan untuk menyantap cokelat yang tinggi gula, opsi itu tidak boleh dilarang.
-2. **Tanpa insentif ekonomi yang besar**. Pendekatan *nudge* tidak bermain di area denda besar atau hadiah uang. Kebijakan yang mengubah harga secara drastis (seperti pajak gula yang sangat tinggi) masuk dalam ranah ekonomi klasik, bukan *nudge* murni.
+2. **Tanpa insentif ekonomi yang besar**. Pendekatan *nudge* tidak bermain di area denda besar atau hadiah uang. Kebijakan yang mengubah harga secara drastis (seperti pajak gula yang sangat tinggi) tidak tergolong *nudge* murni karena sudah masuk ranah ekonomi klasik.
 3. **Mudah dihindari (*low cost of opt-out*)**. Keluar dari sistem atau mengabaikan anjuran harus sangat mudah, misalnya cukup dengan satu klik atau langkah sederhana. Jika proses pembatalannya berbelit-belit, sifat libertarian itu hilang.
 
 *Jika sebuah kafetaria menaruh buah di depan dan menyembunyikan gorengan di sudut, apakah itu melanggar kebebasanmu? Kamu tetap bisa membeli gorengan, hanya saja kamu harus berjalan sedikit lebih jauh.*
@@ -67,7 +67,7 @@ Tingkat kepesertaan karyawan melonjak drastis karena sebagian besar orang cender
 
 ### Tantangan dan Batasan
 
-Meskipun terdengar ideal, prinsip ini sering diperdebatkan. Beberapa kritikus bertanya: *"Siapa yang berhak menentukan apa yang 'lebih baik' bagi orang lain?"*
+Meskipun terdengar ideal, prinsip ini sering diperdebatkan. Beberapa kritikus mempertanyakan siapa yang berhak menentukan apa yang "lebih baik" bagi orang lain.
 
 Untuk menjawab ini, arsitek pilihan harus bertindak secara transparan. Tujuan utamanya adalah mendampingi individu agar mencapai apa yang sebenarnya mereka inginkan (seperti ingin lebih sehat, hemat, atau produktif) tanpa memanipulasi mereka secara terselubung.
 
@@ -85,4 +85,4 @@ Prinsip Libertarian Paternalisme mengajarkan kita bahwa lingkungan tidak pernah 
 
 Daripada membiarkan arsitektur tersebut terbentuk secara acak dan mungkin merugikan, kita bisa mendesainnya secara sadar untuk mendukung keputusan yang lebih baik, tanpa pernah merampas hak individu untuk mengatakan "tidak".
 
-> **Pesan Utama:** Desainlah untuk membimbing, bukan untuk mendikte. Jadikan jalan menuju kebaikan sebagai jalan yang paling mudah untuk ditempuh.
+> **Pesan Utama:** Desainlah untuk membimbing orang tanpa mendikte mereka. Jadikan jalan menuju kebaikan sebagai jalan yang paling mudah untuk ditempuh.

@@ -2,7 +2,7 @@
 
 Setelah mempelajari teori-teori besar mulai dari Aristoteles hingga kebijaksanaan praktis (*Phronesis*), satu pertanyaan besar masih tersisa. **"Bagaimana cara saya menerapkan semua ini saat bangun tidur besok pagi?"**
 
-Etika kebajikan bukanlah sebuah buku resep yang memberikan instruksi kaku, melainkan sebuah seni hidup. Jika etika modern sering bertanya, "Apa yang harus saya lakukan dalam situasi ini?", etika kebajikan bertanya, **"Pribadi seperti apa yang ingin saya bentuk melalui tindakan ini?"**
+Etika kebajikan adalah seni hidup yang tidak memberikan instruksi kaku seperti buku resep. Jika etika modern sering bertanya, "Apa yang harus saya lakukan dalam situasi ini?", etika kebajikan bertanya, **"Pribadi seperti apa yang ingin saya bentuk melalui tindakan ini?"**
 
 Berikut adalah panduan praktis untuk mengubah konsep-konsep filosofis tersebut menjadi kualitas hidup yang nyata.
 
@@ -12,7 +12,7 @@ Sebelum mendaki gunung, kamu harus tahu di mana posisi kamu sekarang. Dalam etik
 
 **Analogi:** Bayangkan karakter kamu seperti sebuah instrumen musik yang senarnya mungkin terlalu kendur (kekurangan/defisiensi) atau terlalu kencang (kelebihan/ekses). Kamu perlu menyetemnya agar menghasilkan nada yang harmonis.
 
-- **Latihan:** Pilih satu kebajikan (misalnya: Keberanian).
+- **Latihan:** Pilih satu kebajikan (misalnya Keberanian).
 - **Identifikasi Ekstrem:**
   - Defisiensi: Pengecut (takut mengambil risiko sekecil apa pun).
   - Ekses: Nekat (mengambil risiko tanpa perhitungan).
@@ -20,7 +20,7 @@ Sebelum mendaki gunung, kamu harus tahu di mana posisi kamu sekarang. Dalam etik
 
 ### 2. Strategi "Micro-Virtues"
 
-Karakter tidak dibangun dalam satu malam melalui satu keputusan heroik. Karakter adalah akumulasi dari ribuan tindakan kecil yang diulang. Kita bisa merumuskannya secara sederhana:
+Karakter terbangun sedikit demi sedikit dari ribuan tindakan kecil yang diulang. Kita bisa merumuskannya secara sederhana:
 
 <div>
 $$
@@ -32,7 +32,7 @@ Dalam rumus ini, $n$ adalah jumlah pengulangan dalam waktu $t$. Semakin besar $n
 
 #### Cara Melatihnya
 
-1. **Pilih Satu Fokus:** Jangan mencoba menjadi sempurna dalam segala hal sekaligus. Pilih satu kebajikan per bulan (misalnya: Kesabaran).
+1. **Pilih Satu Fokus:** Jangan mencoba menjadi sempurna dalam segala hal sekaligus. Pilih satu kebajikan per bulan (misalnya Kesabaran).
 2. **Cari Pemicu (Cue):** Saat kamu merasa kesal karena antrean panjang atau internet lambat, lihat itu sebagai "Gym Mental".
 3. **Lakukan Tindakan Kecil:** Alih-alih mengeluh, ambil napas dalam dan berikan senyum kepada petugas. Ini adalah satu unit $\text{Tindakan}$ yang menambah skor $\text{Karakter}$ kamu.
 
@@ -44,7 +44,7 @@ Dalam situasi yang rumit, aturan sering kali gagal. Di sinilah **Kebijaksanaan P
 
 - **Aturan Kaku (Deontologi):** "Harus jujur, katakan itu buruk." (Mungkin menyakiti perasaan secara tidak perlu).
 - **Etika Kebajikan:** Gunakan *Phronesis*. Tujuannya adalah membantu teman tumbuh (Kebajikan: Kebaikan hati + Kejujuran).
-- **Tindakan:** Berikan umpan balik yang jujur namun membangun, fokus pada bagian yang bisa diperbaiki daripada sekadar mengkritik.
+- **Tindakan:** Berikan umpan balik yang jujur namun membangun, dengan fokus pada bagian yang bisa diperbaiki.
 
 > **Catatan:** Kebajikan adalah melakukan hal yang tepat, kepada orang yang tepat, pada waktu yang tepat, dengan cara yang tepat, dan untuk alasan yang tepat.
 
@@ -70,13 +70,13 @@ Bagaimana etika kebajikan menjawab tantangan modern seperti media sosial?
 
 ### 5. Membangun Komunitas Kebajikan
 
-Kamu tidak bisa menjadi bajik sendirian di ruang hampa. Karakter kita dipengaruhi oleh siapa yang kita ajak berinteraksi.
+Menjadi bajik membutuhkan orang lain, karena karakter kita dipengaruhi oleh siapa yang kita ajak berinteraksi.
 
 - **Cari Role Model:** Siapa orang dalam hidup kamu yang memanifestasikan kebajikan yang ingin kamu miliki? Pelajari cara mereka bereaksi terhadap tekanan.
 - **Kontribusi Sosial:** Gunakan kebajikan kamu untuk melayani orang lain. *Eudaimonia* (kebahagiaan sejati) sering kali ditemukan saat kita melampaui kepentingan diri sendiri dan berkontribusi pada kesejahteraan *Polis* (komunitas) kita.
 
-**Penting:** Ingatlah bahwa tujuan akhir dari semua latihan ini bukanlah untuk menjadi orang yang "merasa paling suci", melainkan untuk mencapai kondisi **Flourishing**, sebuah keadaan ketika kamu hidup sepenuhnya sesuai dengan potensi terbaik kemanusiaan kamu.
+**Penting:** Ingatlah bahwa tujuan akhir dari semua latihan ini adalah mencapai kondisi **Flourishing**, sebuah keadaan ketika kamu hidup sepenuhnya sesuai dengan potensi terbaik kemanusiaan kamu. Latihan ini tidak dimaksudkan untuk membuatmu "merasa paling suci".
 
-Seluruh latihan di bab ini bertumpu pada pengamatan yang dirumuskan Will Durant ketika meringkas etika Aristoteles dalam *The Story of Philosophy* (1926): kita adalah apa yang kita kerjakan berulang kali, dan keunggulan lahir dari kebiasaan, bukan dari satu tindakan.
+Seluruh latihan di bab ini bertumpu pada pengamatan yang dirumuskan Will Durant ketika meringkas etika Aristoteles dalam *The Story of Philosophy* (1926). Durant menyebut kita sebagai apa yang kita kerjakan berulang kali dan menempatkan keunggulan pada kebiasaan.
 
 **Langkah Kamu Selanjutnya:** Identifikasi satu situasi yang biasanya membuat kamu kehilangan kendali (marah, malas, atau tidak jujur). Besok, ketika situasi itu muncul, berhentilah selama 5 detik. Gunakan 5 detik itu untuk memilih tindakan yang mencerminkan "Versi Terbaik" diri kamu. Itulah langkah pertama menuju hidup yang berkualitas.

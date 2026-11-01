@@ -1,6 +1,6 @@
 ## Kecerdasan Interpersonal
 
-Bayangkan kamu berada dalam sebuah ruangan yang penuh dengan orang-orang yang sedang berdebat panas. Di tengah kekacauan itu, ada satu orang yang mampu masuk, mendengarkan tanpa memotong, membaca bahasa tubuh setiap individu, dan dalam beberapa menit berhasil meredakan ketegangan serta membuat semua orang setuju pada sebuah solusi. Orang tersebut tidak berhenti pada kepandaian merangkai kata. Ia sebenarnya sedang mempraktikkan kecerdasan interpersonal yang tinggi.
+Bayangkan kamu berada dalam sebuah ruangan yang penuh dengan orang-orang yang sedang berdebat panas. Di tengah kekacauan itu, ada satu orang yang mampu masuk, mendengarkan tanpa memotong, membaca bahasa tubuh setiap individu, dan dalam beberapa menit berhasil meredakan ketegangan serta membuat semua orang setuju pada sebuah solusi. Orang tersebut sedang mempraktikkan kecerdasan interpersonal yang tinggi.
 
 Howard Gardner menempatkan kecerdasan interpersonal sebagai kapasitas untuk memahami dan menjalin hubungan yang efektif dengan orang lain. Ini mencakup kemampuan merasakan perbedaan dalam suasana hati, temperamen, motivasi, hingga niat tersembunyi.
 
@@ -30,15 +30,15 @@ $$
 $$
 </div>
 
-Fase observasi melibatkan pengumpulan data mentah, seperti menangkap frekuensi nada suara $f$ atau detail ekspresi wajah $e$. Data ini kemudian masuk ke fase interpretasi untuk diberi makna: apakah lawan bicara sedang sedih atau mungkin sekadar lelah? Berdasarkan makna tersebut, muncul sebuah respons berupa tindakan yang diambil untuk membawa situasi ke arah yang lebih baik.
+Fase observasi melibatkan pengumpulan data mentah, seperti menangkap frekuensi nada suara $f$ atau detail ekspresi wajah $e$. Data ini kemudian masuk ke fase interpretasi untuk diberi makna. Apakah lawan bicara sedang sedih, atau mungkin sekadar lelah? Berdasarkan makna tersebut, muncul sebuah respons berupa tindakan yang diambil untuk membawa situasi ke arah yang lebih baik.
 
 ## Implementasi dalam Kehidupan Sehari-hari
 
 Kapasitas ini menjadi keunggulan yang bernilai di hampir setiap bidang. Mari kita lihat bagaimana wujudnya di lapangan.
 
-Dalam dunia manajemen, seorang pemimpin dengan kecerdasan interpersonal tidak akan mengandalkan tangan besi. Ia lebih memilih persuasi, memahami bahwa setiap anggota tim punya dorongan yang berbeda. Ia tahu ada anggota yang menyukai pujian terbuka, sementara yang lain lebih menghargai ruang untuk menyelesaikan tantangan teknis dalam ketenangan.
+Dalam dunia manajemen, seorang pemimpin dengan kecerdasan interpersonal mengandalkan persuasi. Ia memahami bahwa setiap anggota tim punya dorongan yang berbeda. Ia tahu ada anggota yang menyukai pujian terbuka, sementara yang lain lebih menghargai ruang untuk menyelesaikan tantangan teknis dalam ketenangan.
 
-Di arena negosiasi atau penjualan, praktisi yang ulung tidak sibuk memaparkan spesifikasi produk. Mereka berfokus menggali masalah yang dialami klien dan menawarkan solusi. Teknik menyamakan frekuensi komunikasi sering digunakan untuk membangun rasa percaya sejak menit-menit awal percakapan.
+Di arena negosiasi atau penjualan, praktisi yang ulung berfokus menggali masalah yang dialami klien dan menawarkan solusi. Teknik menyamakan frekuensi komunikasi sering digunakan untuk membangun rasa percaya sejak menit-menit awal percakapan.
 
 Hal serupa berlaku di bidang pendidikan. Guru yang efektif menggunakan sensitivitas sosialnya untuk mendeteksi rasa frustrasi siswa, bahkan ketika siswa tersebut tidak mengatakan apa-apa. Lewat empati, sang guru kemudian menciptakan ruang yang aman bagi siswanya untuk perlahan-lahan berkembang.
 
@@ -65,7 +65,7 @@ Dalam realitasnya, percabangan semacam ini dijalankan oleh otak kita dalam hitun
 
 ## Melatih Kecerdasan Interpersonal
 
-Kecerdasan ini bukanlah atribut bawaan yang statis. Kamu bisa melatihnya agar menjadi lebih responsif seiring waktu.
+Kecerdasan ini bisa kamu latih agar menjadi lebih responsif seiring waktu.
 
 Langkah pertama adalah membiasakan diri mendengarkan secara aktif. Ketika seseorang berbicara, tahan dorongan untuk meracik jawaban di dalam kepala. Berikan fokus utuh pada cerita mereka. Pada saat yang sama, kamu bisa memperkaya perbendaharaan visualmu dengan mempelajari makna bahasa tubuh. Mengamati perubahan postur atau arah pandangan bisa memberikan petunjuk ekstra tentang apa yang sebenarnya sedang terjadi.
 

@@ -1,6 +1,6 @@
 ## Kebebasan Radikal dan Beban Tanggung Jawab
 
-Kebebasan radikal berarti kamu memikul sendiri tanggung jawab atas setiap pilihan, karena tidak ada buku petunjuk yang menentukan siapa kamu. Jika sebelumnya kita telah memahami bahwa kita lahir tanpa "buku petunjuk" (eksistensi mendahului esensi), sekarang kita akan menghadapi konsekuensi yang logis sekaligus menakutkan dari kenyataan tersebut: **Kebebasan Radikal**.
+Kebebasan radikal berarti kamu memikul sendiri tanggung jawab atas setiap pilihan, karena tidak ada buku petunjuk yang menentukan siapa kamu. Jika sebelumnya kita telah memahami bahwa kita lahir tanpa "buku petunjuk" (eksistensi mendahului esensi), sekarang saatnya menghadapi **kebebasan radikal**, konsekuensi yang logis sekaligus menakutkan dari kenyataan tersebut.
 
 Pernahkah kamu merasa lumpuh saat harus mengambil keputusan besar? Atau merasa bersalah saat menyadari bahwa hidupmu saat ini adalah hasil dari pilihan-pilihanmu sendiri? Itulah rasanya berhadapan dengan kebebasan radikal.
 
@@ -28,15 +28,15 @@ Dalam eksistensialisme, tidak ada tempat untuk bersembunyi di balik alasan-alasa
 
 Sartre berargumen bahwa setiap tindakan adalah **pilihan sadar**. Jika kamu mengikuti perintah atasan yang korup, kamu sebenarnya *memilih* untuk patuh demi keamanan finansial atau rasa aman. Kebebasan itu radikal karena ia merambah hingga ke akar keberadaan kita.
 
-Berkata "Aku tidak punya pilihan lain" sering kali hanyalah cara kita menghindari beratnya tanggung jawab, bukan kenyataan yang sebenarnya.
+Berkata "Aku tidak punya pilihan lain" sering kali hanyalah cara kita menghindari beratnya tanggung jawab.
 
 ## 3\. Memilih untuk Semua Orang
 
-Menurut kaum eksistensialis, ketika seseorang memilih, ia tidak hanya memilih untuk dirinya sendiri, tetapi ia seolah-olah menetapkan standar bagi **seluruh umat manusia**.
+Menurut kaum eksistensialis, ketika seseorang memilih untuk dirinya sendiri, ia seolah-olah ikut menetapkan standar bagi **seluruh umat manusia**.
 
-Jika kita menggunakan logika formal untuk menggambarkan tanggung jawab ini: Misalkan $P$ adalah pilihan individu dan $V$ adalah nilai kemanusiaan universal, maka: $P \implies V$ *(Setiap pilihan individu menyiratkan sebuah nilai bagi semua orang)*
+Tanggung jawab ini bisa digambarkan dengan logika formal. Misalkan $P$ adalah pilihan individu dan $V$ adalah nilai kemanusiaan universal, maka berlaku $P \implies V$ *(Setiap pilihan individu menyiratkan sebuah nilai bagi semua orang)*
 
-Ketika kamu memilih untuk menjadi orang yang jujur dalam bisnis, kamu seolah-olah menyatakan bahwa: *"Inilah cara yang seharusnya dilakukan oleh semua manusia."* Itulah sebabnya setiap keputusan kita membawa beban moral yang besar. Lewat tindakan sehari-hari, kita ikut membentuk gambaran tentang manusia yang seharusnya.
+Ketika kamu memilih untuk menjadi orang yang jujur dalam bisnis, kamu seolah-olah menyatakan, *"Inilah cara yang seharusnya dilakukan oleh semua manusia."* Itulah sebabnya setiap keputusan kita membawa beban moral yang besar. Lewat tindakan sehari-hari, kita ikut membentuk gambaran tentang manusia yang seharusnya.
 
 ## 4\. Dilema Sang Murid (Sartre)
 
@@ -48,7 +48,7 @@ Sartre menceritakan kisah seorang muridnya pada masa Perang Dunia II. Murid ini 
 **Analisis:**
 
 - Tidak ada doktrin agama atau moral yang bisa memberikan jawaban pasti. Jika ia memilih negara, ia mengorbankan ibunya. Jika ia memilih ibunya, ia mengorbankan negaranya.
-- Poin Sartre: Tidak ada "tanda" di dunia ini yang bisa membantunya. Murid itu harus memilih sendiri. Dan dengan memilih, ia **menciptakan nilainya sendiri**.
+- Menurut Sartre, tidak ada "tanda" di dunia ini yang bisa membantunya. Murid itu harus memilih sendiri. Dan dengan memilih, ia **menciptakan nilainya sendiri**.
 - Kebebasan radikal berarti kamu adalah pencipta hukum moral bagi dirimu sendiri di tengah situasi yang ambigu.
 
 ## 5\. Kebebasan di Era Modern
@@ -62,7 +62,7 @@ Banyak orang merasa terjebak dalam pekerjaan yang mereka benci karena "tuntutan 
 Setiap produk yang kita beli adalah suara (vote) untuk jenis dunia yang kita inginkan.
 
 - Membeli produk dari perusahaan yang mengeksploitasi pekerja adalah pilihan radikal untuk mendukung sistem tersebut.
-- Tanggung jawab kita bukan hanya pada "saya ingin barang ini", tapi "saya memvalidasi cara barang ini dibuat untuk semua orang".
+- Tanggung jawab kita mencakup "saya ingin barang ini" sekaligus "saya memvalidasi cara barang ini dibuat untuk semua orang".
 
 ### C. Kesehatan Mental
 
@@ -72,9 +72,9 @@ Memahami kebebasan radikal bisa membantu seseorang keluar dari mentalitas korban
 
 Untuk membantumu mengingat, berikut adalah poin-poin kunci dari kebebasan radikal:
 
-- **Kebebasan adalah Esensi Diri:** Kamu tidak hanya *memiliki* kebebasan; kamu adalah kebebasan itu sendiri.
+- **Kebebasan adalah Esensi Diri:** Kamu adalah kebebasan itu sendiri.
 - **Ketiadaan Determinisme:** Takdir, faktor biologis, atau pengaruh lingkungan tidak bisa sepenuhnya mendikte pilihanmu.
 - **Konsekuensi Moral:** Setiap pilihan individu memproyeksikan nilai yang dianggap berharga bagi seluruh umat manusia.
 - **Angst (Kecemasan):** Kecemasan eksistensial ini muncul saat menyadari sepenuhnya bahwa masa depan berada di tanganmu sendiri.
 
-> **Pesan Penting:** Jangan melihat beban tanggung jawab ini sebagai alasan untuk takut melangkah. Sebaliknya, lihatlah ini sebagai tanda bahwa kamu sendiri yang menulis naskah hidupmu.
+> **Pesan Penting:** Beban tanggung jawab ini menandakan bahwa kamu sendiri yang menulis naskah hidupmu, jadi ia tidak perlu membuatmu takut melangkah.

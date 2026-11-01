@@ -1,6 +1,6 @@
 ## Pengantar Manajemen Kelas Proaktif
 
-Manajemen kelas proaktif berfokus pada persiapan yang mencegah gangguan sebelum muncul, bukan pada teguran setelah gangguan terjadi. Bayangkan sebuah ruang kelas tempat kamu tidak perlu berteriak untuk mendapatkan perhatian, tidak perlu terus-menerus menginterupsi pelajaran untuk menegur siswa, dan setiap menit yang kamu habiskan benar-benar digunakan untuk mengajar.
+Manajemen kelas proaktif berfokus pada persiapan yang mencegah gangguan sebelum muncul. Bayangkan sebuah ruang kelas tempat kamu tidak perlu berteriak untuk mendapatkan perhatian, tidak perlu terus-menerus menginterupsi pelajaran untuk menegur siswa, dan setiap menit yang kamu habiskan benar-benar digunakan untuk mengajar.
 
 Apakah ini hanya mimpi? Tentu tidak. Inilah yang menjadi inti dari **Manajemen Kelas Proaktif**.
 
@@ -10,7 +10,7 @@ Kebanyakan guru pemula terjebak dalam peran sebagai **pemadam kebakaran**. Merek
 
 **Manajemen Kelas Proaktif** menggeser peran kamu dari pemadam kebakaran menjadi seorang **Arsitek Lingkungan Belajar**.
 
-> "Tujuan utama manajemen kelas proaktif bukanlah untuk mengontrol siswa, melainkan untuk menciptakan lingkungan tempat siswa memilih untuk belajar dan bekerja sama."
+> "Tujuan utama manajemen kelas proaktif adalah menciptakan lingkungan tempat siswa memilih untuk belajar dan bekerja sama."
 
 Secara filosofis, pendekatan ini berakar pada keyakinan bahwa:
 
@@ -37,7 +37,7 @@ Untuk memahami manajemen proaktif, kita harus melihat perbandingannya dengan man
 | **Respons Guru** | Emosional dan mendadak. | Terencana dan terukur. |
 | **Pandangan terhadap Siswa** | Siswa dianggap sebagai sumber masalah. | Siswa dianggap sebagai mitra dalam belajar. |
 
-*Pertimbangkan hal berikut: Coba ingat kembali pengalaman mengajar kamu dalam seminggu terakhir. Berapa persen waktu kamu dihabiskan untuk "memadamkan api" perilaku dan berapa persen untuk benar-benar mengajar?*
+*Coba ingat kembali pengalaman mengajar kamu dalam seminggu terakhir. Berapa persen waktu kamu dihabiskan untuk "memadamkan api" perilaku dan berapa persen untuk benar-benar mengajar?*
 
 ## 3. Rumus Keberhasilan Kelas Proaktif
 
@@ -60,7 +60,7 @@ Jika salah satu variabel ini bernilai nol, maka potensi gangguan perilaku akan m
 
 ## 4. Manfaat Jangka Panjang bagi Guru dan Siswa
 
-Mengapa kamu harus meluangkan waktu ekstra di awal tahun ajaran untuk merancang strategi proaktif? Manfaatnya melampaui sekadar kelas yang tenang:
+Mengapa kamu harus meluangkan waktu ekstra di awal tahun ajaran untuk merancang strategi proaktif? Kelas yang tenang baru manfaat pertamanya. Dalam jangka panjang, hasilnya terasa di empat hal berikut:
 
 1. **Meningkatkan Waktu Belajar Efektif (Academic Learning Time):** Setiap menit yang tidak digunakan untuk mendisiplinkan siswa adalah menit tambahan untuk eksplorasi materi.
 2. **Mengurangi Burnout Guru:** Guru yang proaktif merasa lebih memegang kendali dan memiliki tingkat stres yang lebih rendah karena mereka tidak terus-menerus berada dalam mode "siaga darurat".
@@ -77,7 +77,7 @@ Mari kita lihat perbedaan penerapan kedua pendekatan ini dalam situasi nyata.
 
 **Pendekatan Proaktif:**
 
-1. **Persiapan:** Sebelum menyuruh siswa bergerak, guru memberikan instruksi jelas: *"Dalam hitungan tiga, kita akan pindah ke karpet. Siapa yang ingat cara berjalan 'ninja' yang tidak bersuara?"*
+1. **Persiapan:** Sebelum menyuruh siswa bergerak, guru memberikan instruksi yang jelas. *"Dalam hitungan tiga, kita akan pindah ke karpet. Siapa yang ingat cara berjalan 'ninja' yang tidak bersuara?"*
 2. **Visualisasi:** Guru menunjukkan area karpet yang sudah ditandai nomor.
 3. **Prosedur:** Guru memberikan aba-aba langkah demi langkah. *"Baris pertama silakan berdiri... jalan dengan tenang... duduk."*
 4. **Hasil:** Transisi selesai dalam 45 detik tanpa ketegangan.
@@ -86,11 +86,11 @@ Mari kita lihat perbedaan penerapan kedua pendekatan ini dalam situasi nyata.
 
 Sebelum kita menyelami detail teknis pada bagian-bagian selanjutnya, mulailah dengan mengubah pola pikir (mindset) kamu:
 
-- **Antisipasi:** Pikirkan bagian mana dari pelajaran kamu yang biasanya paling kacau (misalnya: saat membagikan alat tulis).
+- **Antisipasi:** Pikirkan bagian mana dari pelajaran kamu yang biasanya paling kacau (misalnya saat membagikan alat tulis).
 - **Standardisasi:** Buat prosedur sederhana untuk bagian kacau tersebut.
 - **Komunikasi:** Sampaikan prosedur tersebut kepada siswa bahkan sebelum masalah muncul.
 
-**Penting:** Manajemen kelas proaktif bukanlah tentang menjadi "guru yang kaku". Sebaliknya, struktur yang jelas memberikan kebebasan bagi siswa untuk berkreasi dalam batas-batas yang aman dan produktif.
+**Penting:** Struktur yang jelas memberikan kebebasan bagi siswa untuk berkreasi dalam batas-batas yang aman dan produktif. Jadi, bersikap proaktif tidak membuat kamu menjadi "guru yang kaku".
 
 > **Insight Utama:** Manajemen kelas yang baik sering kali tidak terlihat. Ketika seorang guru proaktif, kelas tampak berjalan secara otomatis, seolah-olah "tidak ada manajemen" yang terjadi.
 

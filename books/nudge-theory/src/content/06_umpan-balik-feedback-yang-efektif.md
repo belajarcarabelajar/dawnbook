@@ -2,7 +2,7 @@
 
 Pernahkah kamu mencoba mengetik di keyboard yang tidak mengeluarkan suara atau tidak memberikan sensasi getar saat ditekan? Atau pernahkah kamu mengisi daya ponsel, tetapi lampu indikatornya tidak menyala? Kamu pasti bingung, ragu, dan akhirnya menekan tombol berulang kali dengan kesal.
 
-Itulah yang terjadi tanpa **umpan balik (feedback)**. Dalam arsitektur pilihan, umpan balik langsung memberi tahu kita dampak nyata dari sebuah tindakan. Tanpa umpan balik, kita seperti menyetir dengan mata tertutup: terus melaju tanpa tahu apakah kita berada di jalur yang benar atau justru sedang mengarah ke jurang.
+Itulah yang terjadi tanpa **umpan balik (feedback)**. Dalam arsitektur pilihan, umpan balik langsung memberi tahu kita dampak nyata dari sebuah tindakan. Tanpa umpan balik, kita seperti menyetir dengan mata tertutup, terus melaju tanpa tahu apakah kita berada di jalur yang benar atau justru sedang mengarah ke jurang.
 
 ## 1\. Mengapa Umpan Balik Begitu Penting?
 
@@ -12,7 +12,7 @@ Sebagai contoh, ketika seseorang gemar mengonsumsi makanan tidak sehat, dampak b
 
 Jeda waktu ini membuat Sistem 1 (instingtif) kita cenderung mengabaikan risiko. Di sinilah umpan balik berperan memperpendek jarak antara tindakan dan konsekuensi, sehingga Sistem 2 (reflektif) bisa segera mengambil alih kendali.
 
-> **Insight Penting:** Umpan balik yang baik bertugas memandu pengguna menyelaraskan tindakan mereka berikutnya, bukan hanya mengabarkan apa yang sudah terjadi.
+> **Insight Penting:** Umpan balik yang baik mengabarkan apa yang sudah terjadi sekaligus memandu pengguna menyelaraskan tindakan mereka berikutnya.
 
 ## 2\. Karakteristik Feedback yang Menggerakkan Perubahan
 
@@ -28,7 +28,7 @@ Umpan balik harus menonjol dan mudah dipahami tanpa menguras daya pikir. Contohn
 
 ### C. Dapat Ditindaklanjuti (Actionable)
 
-Umpan balik harus menyajikan petunjuk konkret, bukan sekadar data mentah. Misalnya, daripada hanya menampilkan peringatan "pemakaian listrik tinggi", sistem yang baik akan memunculkan petunjuk: "Kamu menggunakan listrik 20% lebih banyak dari biasanya. Matikan AC di ruang tamu untuk menghemat."
+Umpan balik harus menyajikan petunjuk konkret yang bisa langsung dikerjakan. Misalnya, selain menampilkan peringatan "pemakaian listrik tinggi", sistem yang baik akan memunculkan petunjuk seperti "Kamu menggunakan listrik 20% lebih banyak dari biasanya. Matikan AC di ruang tamu untuk menghemat."
 
 ## 3\. Efek Cermin
 

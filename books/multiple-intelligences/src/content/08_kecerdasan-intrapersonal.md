@@ -1,16 +1,16 @@
 ## Kecerdasan Intrapersonal
 
-Bayangkan kamu memiliki sebuah kompas internal. Kompas ini tidak menunjukkan arah utara atau selatan, melainkan menunjukkan siapa kamu sebenarnya, apa yang kamu rasakan, dan ke mana arah hidup yang paling sesuai dengan nilai-nilaimu. Itulah inti dari Kecerdasan Intrapersonal.
+Bayangkan kamu memiliki sebuah kompas internal. Kompas ini menunjukkan siapa kamu sebenarnya, apa yang kamu rasakan, dan ke mana arah hidup yang paling sesuai dengan nilai-nilaimu. Itulah inti dari Kecerdasan Intrapersonal.
 
 Jika Kecerdasan Interpersonal berfokus pada memahami orang lain, Kecerdasan Intrapersonal terarah ke dalam, yakni kemampuan untuk memahami diri sendiri. Howard Gardner mendefinisikan kecerdasan ini sebagai kemampuan untuk membangun model mental yang akurat dan nyata tentang diri sendiri.
 
 ## 1. Membangun Model Mental Diri
 
-Kecerdasan intrapersonal adalah proses kognitif aktif untuk memetakan isi batin kita, bukan sekadar kebiasaan melamun. Ada tiga pilar utama dalam membangun model mental ini:
+Kecerdasan intrapersonal adalah proses kognitif aktif untuk memetakan isi batin kita. Ada tiga pilar utama dalam membangun model mental ini:
 
 ### A. Pengenalan Emosi (Emotional Literacy)
 
-Kemampuan untuk mengidentifikasi perasaan saat perasaan itu muncul. Orang dengan kecerdasan intrapersonal tinggi tidak berhenti pada pernyataan "Saya sedang sedih." Mereka mampu membedakan dengan lebih spesifik apakah perasaan itu berupa kesepian, kekecewaan, atau rasa bersalah.
+Kemampuan untuk mengidentifikasi perasaan saat perasaan itu muncul. Saat merasa "Saya sedang sedih", orang dengan kecerdasan intrapersonal tinggi mampu membedakan dengan lebih spesifik apakah perasaan itu berupa kesepian, kekecewaan, atau rasa bersalah.
 
 ### B. Pemahaman Nilai (Values)
 
@@ -18,7 +18,7 @@ Daftar prinsip yang menjadi pegangan hidup. Ketika seseorang sangat memahami nil
 
 ### C. Tujuan Hidup (Purpose)
 
-Kapasitas untuk menetapkan target yang selaras dengan kemampuan dan keinginan terdalam, alih-alih ikut-ikutan tren yang sedang ramai.
+Kapasitas untuk menetapkan target yang selaras dengan kemampuan dan keinginan terdalam, tanpa ikut-ikutan tren yang sedang ramai.
 
 ## 2. Navigasi GPS vs. Kompas Manual
 
@@ -35,7 +35,7 @@ Individu yang menonjol dalam kecerdasan ini biasanya menunjukkan beberapa ciri:
 - **Introspektif:** Sering merenungkan pengalaman yang terjadi dan mengambil pelajaran dari kesalahan pribadi.
 - **Mandiri:** Motivasi dirinya tumbuh kuat dari dalam, tidak selalu bergantung pada tepuk tangan atau validasi eksternal.
 - **Resilien:** Pemahaman mendalam tentang kekuatan dan kelemahan pribadi membuat mereka lebih cepat bangkit setelah jatuh.
-- **Suka Menyendiri (Solitude):** Menghargai waktu sendirian untuk memproses pikiran dan mengisi ulang energi, bukan karena antisosial.
+- **Suka Menyendiri (Solitude):** Menghargai waktu sendirian untuk memproses pikiran dan mengisi ulang energi. Kebiasaan ini tidak berarti mereka antisosial.
 
 ## 4. Algoritma Pengambilan Keputusan
 

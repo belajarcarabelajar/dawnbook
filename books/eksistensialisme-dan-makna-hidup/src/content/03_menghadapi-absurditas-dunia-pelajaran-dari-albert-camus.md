@@ -4,7 +4,7 @@ Pernahkah kamu berdiri di bawah langit malam yang luas, menatap ribuan bintang, 
 
 Pertanyaan semacam ini digeluti oleh **Albert Camus**.
 
-Dalam bagian ini, kita akan menjelajahi salah satu konsep paling provokatif dalam filsafat eksistensial: **Absurditas**. Kita akan belajar mengapa dunia yang tidak peduli justru bisa menjadi kunci menuju kebebasan sejati.
+Dalam bagian ini, kita akan menjelajahi **Absurditas**, salah satu konsep paling provokatif dalam filsafat eksistensial. Kita akan belajar mengapa dunia yang tidak peduli bisa menjadi kunci menuju kebebasan sejati.
 
 ## 1\. Apa Itu Absurditas?
 
@@ -26,25 +26,25 @@ $$
 $$
 </div>
 
-> **Definisi Utama:** Absurditas bukanlah sifat dari dunia itu sendiri, dan bukan pula sifat dari manusia. Absurditas adalah **hubungan** atau "perceraian" antara pikiran manusia yang merindukan kejelasan dengan dunia yang membisu dan tidak logis.
+> **Definisi Utama:** Absurditas adalah **hubungan** atau "perceraian" antara pikiran manusia yang merindukan kejelasan dengan dunia yang membisu dan tidak logis. Dunia sendirian tidak absurd, begitu pula manusia.
 
 ### Teriakan di Lembah
 
-Bayangkan kamu berada di sebuah lembah raksasa. Kamu berteriak sekuat tenaga, "Apa arti hidupku?!" Kamu mengharapkan gema yang bijaksana atau jawaban dari Tuhan. Namun, yang kamu terima hanyalah keheningan total. Lembah itu tidak membenci kamu; ia hanya tidak peduli. Perasaan hampa yang muncul saat teriakanmu tidak terjawab itulah yang disebut Camus sebagai **Momen Absurd**.
+Bayangkan kamu berada di sebuah lembah raksasa. Kamu berteriak sekuat tenaga, "Apa arti hidupku?!" Kamu mengharapkan gema yang bijaksana atau jawaban dari Tuhan. Namun, yang kamu terima hanyalah keheningan total. Lembah itu sekadar tidak peduli padamu. Perasaan hampa yang muncul saat teriakanmu tidak terjawab itulah yang disebut Camus sebagai **Momen Absurd**.
 
 ## 2\. Mitos Sisyphus
 
 Untuk menjelaskan teorinya, Camus menggunakan mitologi Yunani tentang **Sisyphus**. Karena menipu para dewa, Sisyphus dihukum untuk selamanya mendorong batu besar ke puncak gunung. Setiap kali ia sampai di puncak, batu itu akan menggelinding kembali ke bawah karena beratnya sendiri, dan Sisyphus harus memulai lagi dari awal.
 
-Camus melihat Sisyphus sebagai representasi dari kehidupan manusia modern: bangun pagi, bekerja, makan, lalu tidur (Senin, Selasa, Rabu, Kamis, Jumat...). Kita membangun sesuatu yang pada akhirnya akan hancur oleh waktu. Banyak orang merasakan hal yang sama, mendorong "batu" kewajiban mereka setiap hari tanpa akhir yang jelas.
+Camus melihat Sisyphus sebagai representasi dari kehidupan manusia modern yang berputar dari bangun pagi, bekerja, makan, lalu tidur (Senin, Selasa, Rabu, Kamis, Jumat...). Kita membangun sesuatu yang pada akhirnya akan hancur oleh waktu. Banyak orang merasakan hal yang sama, mendorong "batu" kewajiban mereka setiap hari tanpa akhir yang jelas.
 
 ## 3\. Tiga Respons terhadap Absurditas
 
-Ketika seseorang menyadari bahwa hidup ini absurd, Camus berpendapat ada tiga jalan yang bisa diambil:
+Ketika seseorang menyadari bahwa hidup ini absurd, Camus berpendapat ada tiga jalan yang bisa diambil.
 
 ### A. Bunuh Diri Fisik (Physical Suicide)
 
-Seseorang memutuskan bahwa hidup tidak layak dijalani karena tidak memiliki makna. Camus menolak ini. Baginya, bunuh diri bukanlah jalan keluar, tetapi sebuah kekalahan total dalam menghadapi absurditas.
+Seseorang memutuskan bahwa hidup tidak layak dijalani karena tidak memiliki makna. Camus menolak ini. Baginya, bunuh diri adalah kekalahan total dalam menghadapi absurditas.
 
 ### B. Bunuh Diri Filosofis (Philosophical Suicide)
 
@@ -54,7 +54,7 @@ Ini adalah kondisi ketika seseorang mencoba "melarikan diri" dari absurditas den
 
 Inilah jalan sang pahlawan. Kita mengakui bahwa hidup ini tidak memiliki makna yang melekat (inheren), tetapi kita tetap memilih untuk hidup dengan penuh semangat.
 
-> **Insight:** Bagi Camus, pemberontakan adalah cara hidup: terus sadar akan absurditas tanpa menyerah kepadanya, lalu menjalani hidup sepenuhnya.
+> **Insight:** Bagi Camus, pemberontakan adalah cara hidup yang terus sadar akan absurditas tanpa menyerah kepadanya, lalu menjalani hidup sepenuhnya.
 
 Ketiga jalan itu, beserta sikap Camus terhadap masing-masing, bisa kamu lihat sekaligus di sini.
 
@@ -72,7 +72,7 @@ flowchart LR
 
 ## 4\. Cara Menghadapi Absurditas dalam Praktik
 
-Bagaimana kita menerapkan pemikiran Camus dalam kehidupan sehari-hari? Camus menawarkan tiga konsekuensi dari menerima absurditas:
+Bagaimana kita menerapkan pemikiran Camus dalam kehidupan sehari-hari? Camus menawarkan tiga konsekuensi dari menerima absurditas.
 
 Pertama, **Pemberontakan (Rebellion)**. Kita tidak boleh menyerah pada nasib. Meskipun kematian menanti dan alam semesta membisu, kita melawan dengan terus berkarya serta mencari kebahagiaan.
 
@@ -93,7 +93,7 @@ Camus menutup esainya, *The Myth of Sisyphus*, dengan kalimat yang terkenal:
 
 > "Perjuangan itu sendiri menuju puncak sudah cukup untuk mengisi hati manusia. Kita harus membayangkan Sisyphus bahagia."
 
-Sisyphus bahagia bukan karena ia suka mendorong batu, tetapi karena ia sadar bahwa batu itu adalah miliknya, nasibnya adalah keputusannya, dan ia lebih kuat daripada batu tersebut selama ia tidak menyerah pada keputusasaan.
+Sisyphus bahagia karena ia sadar bahwa batu itu adalah miliknya, nasibnya adalah keputusannya, dan ia lebih kuat daripada batu tersebut selama ia tidak menyerah pada keputusasaan. Kebahagiaannya tidak datang dari rasa suka mendorong batu.
 
 ### Empat Konsep Absurditas Camus
 

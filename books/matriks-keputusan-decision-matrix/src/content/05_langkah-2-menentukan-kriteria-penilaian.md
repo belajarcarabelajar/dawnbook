@@ -8,7 +8,7 @@ Menetapkan kriteria penilaian adalah langkah yang menentukan. Jika kriteria yang
 
 Kriteria penilaian merupakan standar atau parameter untuk mengevaluasi seberapa baik suatu alternatif memenuhi tujuanmu. Kriteria berfungsi sebagai penyaring untuk membedakan pilihan yang biasa dengan pilihan terbaik.
 
-> **Poin Penting:** Kriteria yang baik tidak hanya mencakup hal-hal yang kamu inginkan, tetapi harus didasarkan pada apa yang benar-benar dibutuhkan agar keputusan tersebut berhasil.
+> **Poin Penting:** Hal-hal yang kamu inginkan boleh masuk, tetapi kriteria yang baik harus berpijak pada apa yang benar-benar dibutuhkan agar keputusan tersebut berhasil.
 
 ### Teknik Mengidentifikasi Faktor Kunci
 
@@ -72,4 +72,4 @@ Berikut adalah contoh identifikasi kriteria penilaian yang bisa kamu buat:
 
 Dengan menentukan kriteria sejak awal, kamu mengunci logika berpikir sebelum faktor emosional memengaruhi penilaian objektif.
 
-Setelah kriteria ini ditetapkan dengan jelas dan dipastikan tidak ada parameter yang tumpang tindih, kamu siap melangkah ke tahap berikutnya: **Pemberian Bobot pada Kriteria**. Di tahap tersebut, kamu akan menentukan mana kriteria yang memiliki prioritas paling tinggi bagimu.
+Setelah kriteria ini ditetapkan dengan jelas dan dipastikan tidak ada parameter yang tumpang tindih, kamu siap melangkah ke tahap **Pemberian Bobot pada Kriteria**. Di tahap tersebut, kamu akan menentukan mana kriteria yang memiliki prioritas paling tinggi bagimu.

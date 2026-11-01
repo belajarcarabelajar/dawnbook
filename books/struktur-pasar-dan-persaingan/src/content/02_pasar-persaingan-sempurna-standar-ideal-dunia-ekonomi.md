@@ -48,7 +48,7 @@ $$
 2. **Average Revenue (AR):** $\frac{\text{TR}}{Q} = \frac{P \cdot Q}{Q} = P$
 3. **Marginal Revenue (MR):** Tambahan pendapatan dari menjual satu unit tambahan. Karena harga tetap, maka $\text{MR}$ selalu sama dengan $P$.
 
-> **Insight Penting:** Di pasar ini, satu-satunya keputusan yang bisa diambil oleh manajer perusahaan adalah **berapa banyak $Q$ yang harus diproduksi**, bukan pada harga berapa barang tersebut akan dijual.
+> **Insight Penting:** Di pasar ini, harga jual sudah ditentukan pasar, sehingga satu-satunya keputusan yang bisa diambil oleh manajer perusahaan adalah **berapa banyak $Q$ yang harus diproduksi**.
 
 ## 3. Apakah Benar-Benar Ada di Dunia Nyata?
 
@@ -79,7 +79,7 @@ Perdagangan mata uang global mendekati persaingan sempurna.
 ## 5. Ringkasan Konsep untuk Pembelajar Visual & Kinestetik
 
 - **Visualisasi Kurva:** Bayangkan grafik dengan garis lurus horizontal setinggi harga pasar. Itulah "ruang gerak" kamu sebagai penjual. Kamu tidak bisa naik ke atas garis itu.
-- **Refleksi Diri:** *Amati saat kamu membeli pulsa atau kuota data di marketplace. Meskipun ada banyak penjual, harganya cenderung sangat mirip (berdekatan). Apakah ini mendekati persaingan sempurna? Mengapa atau mengapa tidak? (Petunjuk: Pertimbangkan faktor branding dan kepercayaan toko).*
+- **Refleksi Diri:** *Amati saat kamu membeli pulsa atau kuota data di marketplace. Meskipun ada banyak penjual, harganya cenderung sangat mirip (berdekatan). Apakah ini mendekati persaingan sempurna? Mengapa atau mengapa tidak? Sebagai petunjuk, pertimbangkan faktor branding dan kepercayaan toko.*
 
 > **Kesimpulan:** Pasar Persaingan Sempurna adalah model pembanding dalam ekonomi. Meskipun jarang ditemukan dalam bentuk murninya, memahami model ini membantu kita melihat bagaimana persaingan yang sehat dapat menekan harga dan menguntungkan masyarakat secara luas.
 

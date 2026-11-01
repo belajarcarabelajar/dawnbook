@@ -2,7 +2,7 @@
 
 Dalam dunia pengembangan perangkat lunak, terdapat istilah "Beta Testing" dan "Patching" untuk menemukan dan memperbaiki *bug*. Dalam dunia pendidikan, khususnya *microteaching*, proses ini disebut dengan **Re-teaching** (Mengajar Kembali).
 
-Siklus ini bukan sekadar mengulang apa yang sudah dilakukan, melainkan sebuah upaya sadar untuk memperbaiki "celah" atau "error" yang ditemukan pada praktik pertama. Inilah tahap ketika pertumbuhan kompetensi pedagogik terjadi secara nyata.
+Siklus ini adalah upaya sadar untuk memperbaiki "celah" atau "error" yang ditemukan pada praktik pertama. Inilah tahap ketika pertumbuhan kompetensi pedagogik terjadi secara nyata.
 
 ## Apa itu Siklus Re-teaching?
 
@@ -12,7 +12,7 @@ Siklus ini bukan sekadar mengulang apa yang sudah dilakukan, melainkan sebuah up
 
 ## Tahapan Melakukan Re-teaching yang Efektif
 
-Proses re-teaching tidak dimulai saat kamu berdiri di depan kelas lagi, melainkan dimulai segera setelah sesi umpan balik berakhir. Berikut adalah langkah-langkah sistematisnya:
+Proses re-teaching dimulai segera setelah sesi umpan balik berakhir, jauh sebelum kamu berdiri di depan kelas lagi. Berikut adalah langkah-langkah sistematisnya:
 
 ### 1. Analisis Celah (Gap Analysis)
 
@@ -67,12 +67,12 @@ Bayangkan kamu sedang mengasah pisau. Sesi pertama adalah saat kamu menyadari ba
 
 ## Re-teaching Materi Sumpah Pemuda
 
-**Skenario:** Seorang calon guru sejarah mengajar tentang "Sumpah Pemuda". Pada sesi pertama, siswa terlihat mengantuk karena guru hanya membacakan teks dari buku selama 10 menit. Umpan balik dari supervisor adalah: *"Kurang melibatkan siswa dan stimulasi visual minim."*
+**Skenario:** Seorang calon guru sejarah mengajar tentang "Sumpah Pemuda". Pada sesi pertama, siswa terlihat mengantuk karena guru hanya membacakan teks dari buku selama 10 menit. Supervisor memberi umpan balik *"Kurang melibatkan siswa dan stimulasi visual minim."*
 
 **Langkah Re-teaching:**
 
 1. **Revisi RPP:** Guru menyisipkan kegiatan "Analisis Dokumen" singkat. Guru membagikan salinan teks Sumpah Pemuda yang terlihat "kuno".
-2. **Perubahan Teknik:** Guru mengganti metode ceramah menjadi teknik bertanya: *"Jika kalian berada di kongres itu, kata apa yang akan kalian tambahkan?"*
+2. **Perubahan Teknik:** Guru mengganti metode ceramah dengan teknik bertanya dan melontarkan pertanyaan *"Jika kalian berada di kongres itu, kata apa yang akan kalian tambahkan?"*
 3. **Hasil:** Pada sesi kedua, suasana kelas lebih hidup karena ada interaksi fisik dengan media dan pertanyaan pemantik yang menantang imajinasi.
 
 ## Mengapa Re-teaching Penting?
@@ -83,6 +83,6 @@ Bayangkan kamu sedang mengasah pisau. Sesi pertama adalah saat kamu menyadari ba
 
 **Penting:**
 
-> Jangan menganggap re-teaching sebagai hukuman karena gagal di sesi pertama. Sebaliknya, anggaplah ini sebagai kesempatan berlatih di laboratorium, tempat kamu diizinkan untuk "salah" agar bisa menjadi "benar" di kelas yang sesungguhnya nanti.
+> Anggaplah re-teaching sebagai kesempatan berlatih di laboratorium, tempat kamu diizinkan untuk "salah" agar bisa menjadi "benar" di kelas yang sesungguhnya nanti.
 
 *Refleksi untuk kamu:* *Setelah menerima umpan balik yang tajam, apakah kamu merasa defensif atau justru merasa terbantu? Bagaimana perasaan tersebut memengaruhi kualitas revisi RPP yang kamu buat?*

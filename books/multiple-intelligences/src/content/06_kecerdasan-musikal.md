@@ -1,8 +1,8 @@
 ## Kecerdasan Musikal
 
-Pernahkah kamu berjalan di tengah kota yang bising, tetapi alih-alih merasa terganggu, kamu justru mendengar musik? Suara klakson mobil yang bersahutan membentuk ritme tertentu, desis angin di antara gedung menciptakan harmoni, dan langkah kaki pejalan kaki menjadi ketukan drum yang konstan. Jika kamu sering mengalami hal ini, kamu mungkin memiliki kecerdasan musikal yang tinggi.
+Pernahkah kamu berjalan di tengah kota yang bising lalu mendengar musik di dalamnya? Suara klakson mobil yang bersahutan membentuk ritme tertentu, desis angin di antara gedung menciptakan harmoni, dan langkah kaki pejalan kaki menjadi ketukan drum yang konstan. Jika kamu sering mengalami hal ini, kamu mungkin memiliki kecerdasan musikal yang tinggi.
 
-Dalam teori Kecerdasan Majemuk Howard Gardner, kecerdasan musikal tidak terbatas pada penguasaan alat musik atau olah vokal. Kapasitas ini mencakup kemampuan berpikir dalam bentuk suara, ritme, dan melodi, serta kemampuan mengekspresikan emosi maupun ide melalui bentuk-bentuk musikal.
+Dalam teori Kecerdasan Majemuk Howard Gardner, kecerdasan musikal mencakup lebih dari penguasaan alat musik atau olah vokal. Di dalamnya ada kemampuan berpikir dalam bentuk suara, ritme, dan melodi, serta kemampuan mengekspresikan emosi maupun ide melalui bentuk-bentuk musikal.
 
 ## 1. Membedah Komponen Kecerdasan Musikal
 
@@ -34,7 +34,7 @@ Ini adalah kemampuan membedakan karakteristik suara. Kamu bisa mengenali suara t
 
 ## 2. Cara Kerja Pikiran Musikal
 
-Bagi individu dengan kecerdasan ini, musik adalah bahasa primer. Mereka tidak hanya "mendengar" musik, tetapi juga memproses informasi melalui jalur tersebut. Orang dengan kecerdasan musikal tinggi sering memanfaatkan pola auditori untuk mengingat informasi. Menghafal nomor telepon kadang dilakukan dengan mengubahnya menjadi rangkaian nada atau ritme tertentu.
+Bagi individu dengan kecerdasan ini, musik adalah bahasa primer. Mereka mendengar musik sekaligus memproses informasi melalui jalur tersebut. Orang dengan kecerdasan musikal tinggi sering memanfaatkan pola auditori untuk mengingat informasi. Menghafal nomor telepon kadang dilakukan dengan mengubahnya menjadi rangkaian nada atau ritme tertentu.
 
 Pikiran musikal sangat sensitif terhadap pola. Saat mendengar sebuah lagu, otak mereka secara otomatis mendekonstruksi struktur lagu tersebut. Mereka bisa memprediksi ke mana arah melodi selanjutnya berbekal pemahaman intuitif tentang teori harmoni.
 

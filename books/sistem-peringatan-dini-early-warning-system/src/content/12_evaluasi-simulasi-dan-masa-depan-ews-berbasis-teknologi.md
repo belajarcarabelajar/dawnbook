@@ -2,7 +2,7 @@
 
 Masa depan sistem peringatan dini ditentukan oleh seberapa jujur kita mengevaluasi kinerja masa lalu dan seberapa berani kita mengadopsi teknologi baru. Evaluasi tanpa data adalah opini, teknologi tanpa evaluasi adalah spekulasi. Bab ini mengajak kamu melihat sisi pengukuran dan proyeksi ke depan.
 
-Pertanyaan panduan: *bagaimana kita tahu bahwa sistem peringatan dini kita benar-benar bekerja dan apa yang akan mengubahnya dalam sepuluh tahun ke depan?*
+Bab ini berangkat dari pertanyaan *bagaimana kita tahu bahwa sistem peringatan dini kita benar-benar bekerja dan apa yang akan mengubahnya dalam sepuluh tahun ke depan?*
 
 ### 1. POD, FAR, dan Lead Time
 
@@ -33,7 +33,7 @@ dengan \\( \text{Hit} \\) adalah kejadian yang berhasil diperingatkan, \\( \text
 | Waktu terbit peringatan tsunami pertama | 3 sampai 5 menit | 5 menit (sejak proyek IDRIP teruji maksimum 3 menit) | Menurut BMKG (2025), sudah dalam rentang patokan |
 | POD banjir | >0,8 | 0,72 | Keterbatasan radar di timur |
 
-Kolom Target kinerja berisi patokan ilustratif untuk melatih kamu membaca metrik, bukan target resmi Kerangka Sendai. Tujuh target global Sendai (A sampai G) berbicara tentang korban jiwa, warga terdampak, kerugian, kerusakan infrastruktur, strategi, kerja sama, dan akses peringatan dini, tanpa ambang POD, FAR, atau batas menit. Angka POD dan FAR pada kolom Ilustrasi kondisi Indonesia beserta catatannya juga ilustratif, karena tidak ditemukan laporan BMKG atau kajian terbitan yang memuat nilai tersebut. Hanya angka waktu terbit yang bersumber, yaitu dari BMKG. Sebelumnya BMKG memberikan peringatan dini dalam 5 menit dan sejak proyek IDRIP menyatakan peringatan teruji maksimum 3 menit.
+Kolom Target kinerja berisi patokan ilustratif untuk melatih kamu membaca metrik dan tidak berasal dari target resmi Kerangka Sendai. Tujuh target global Sendai (A sampai G) berbicara tentang korban jiwa, warga terdampak, kerugian, kerusakan infrastruktur, strategi, kerja sama, dan akses peringatan dini, tanpa ambang POD, FAR, atau batas menit. Angka POD dan FAR pada kolom Ilustrasi kondisi Indonesia beserta catatannya juga ilustratif, karena tidak ditemukan laporan BMKG atau kajian terbitan yang memuat nilai tersebut. Hanya angka waktu terbit yang bersumber, yaitu dari BMKG. Sebelumnya BMKG memberikan peringatan dini dalam 5 menit dan sejak proyek IDRIP menyatakan peringatan teruji maksimum 3 menit.
 
 ### 2. Simulasi Tabletop hingga Full Scale
 
@@ -55,8 +55,8 @@ Tiga perkembangan teknologi akan mengubah EWS:
 
 **Digital twin kota.** Replika virtual kota yang mensimulasikan banjir atau tsunami secara real time memungkinkan kamu melihat dampak skenario sebelum terjadi dan menguji jalur evakuasi alternatif di layar.
 
-Peringatan personal melalui cell broadcast yang menargetkan ponsel di area terdampak spesifik, bukan seluruh provinsi, akan mengurangi kelelahan peringatan dan meningkatkan kepatuhan.
+Peringatan personal melalui cell broadcast yang hanya menargetkan ponsel di area terdampak spesifik akan mengurangi kelelahan peringatan dan meningkatkan kepatuhan.
 
 ### 4. Target 2030 bagi Indonesia
 
-Target Kerangka Sendai G adalah meningkatkan ketersediaan dan akses masyarakat terhadap sistem peringatan dini multiancaman pada 2030. Untuk Indonesia, ini berarti memperluas cakupan ke wilayah timur, memastikan perawatan sensor berkelanjutan, dan memperkuat literasi warga agar teknologi diterima bukan ditakuti. Masa depan EWS bukan sekadar alat lebih canggih, melainkan ekosistem tempat data, regulasi, komunitas, dan teknologi saling menguatkan.
+Target Kerangka Sendai G adalah meningkatkan ketersediaan dan akses masyarakat terhadap sistem peringatan dini multiancaman pada 2030. Untuk Indonesia, ini berarti memperluas cakupan ke wilayah timur, memastikan perawatan sensor berkelanjutan, dan memperkuat literasi warga agar teknologi diterima warga tanpa rasa takut. Masa depan EWS terletak pada ekosistem tempat data, regulasi, komunitas, dan teknologi saling menguatkan.

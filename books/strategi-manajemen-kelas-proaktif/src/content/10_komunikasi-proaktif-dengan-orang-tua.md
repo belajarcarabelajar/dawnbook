@@ -2,7 +2,7 @@
 
 Pernahkah kamu membayangkan komunikasi antara guru dan orang tua seperti sebuah rekening bank emosional? Jika kita hanya menghubungi orang tua saat ada masalah (pelanggaran disiplin atau nilai anjlok), itu sama saja dengan melakukan "penarikan" terus-menerus tanpa pernah melakukan "setoran". Akibatnya, hubungan menjadi defisit dan penuh ketegangan.
 
-**Komunikasi Proaktif** adalah strategi melakukan "setoran" emosional secara konsisten melalui pelaporan perkembangan positif dan kolaborasi yang berkelanjutan. Tujuannya sederhana: memastikan bahwa pesan yang diterima siswa di sekolah selaras dengan pesan yang diterima di rumah.
+**Komunikasi Proaktif** adalah strategi melakukan "setoran" emosional secara konsisten melalui pelaporan perkembangan positif dan kolaborasi yang berkelanjutan. Tujuannya sederhana. Pesan yang diterima siswa di sekolah perlu selaras dengan pesan yang diterima di rumah.
 
 ## 1. Dari Reaktif ke Proaktif
 
@@ -35,7 +35,7 @@ Untuk setiap satu laporan negatif atau korektif, pastikan kamu telah memberikan 
 
 ## 3. Menciptakan Konsistensi Perilaku Sekolah vs Rumah
 
-Salah satu tantangan manajemen kelas adalah ketika siswa memiliki "dua kepribadian": sangat patuh di sekolah tetapi tidak terkendali di rumah, atau sebaliknya. Komunikasi proaktif bertujuan menyelaraskan **kontrak sosial** di kedua lingkungan.
+Salah satu tantangan manajemen kelas adalah ketika siswa memiliki "dua kepribadian", yaitu sangat patuh di sekolah tetapi tidak terkendali di rumah, atau sebaliknya. Komunikasi proaktif bertujuan menyelaraskan **kontrak sosial** di kedua lingkungan.
 
 ### Langkah Kolaborasi Berkelanjutan
 
@@ -53,7 +53,7 @@ Pilihlah media yang paling aksesibel bagi wali murid, tetapi tetap menjaga batas
 - **Aplikasi Manajemen Kelas (ClassDojo, Google Classroom):** Visual (melalui foto/video kegiatan).
 - **Panggilan Telepon "Sapaan Hangat":** Luangkan waktu 5 menit setiap sore untuk menelepon dua orang tua siswa (secara bergiliran) hanya untuk menanyakan kabar dan memuji satu hal positif dari anak mereka.
 
-*Pertimbangkan hal berikut: Jika kamu memiliki 30 siswa, dan kamu menelepon 2 orang tua setiap hari, dalam 15 hari semua orang tua telah mendapatkan sapaan positif dari kamu. Apa dampaknya bagi iklim kelas kamu?*
+*Jika kamu memiliki 30 siswa, dan kamu menelepon 2 orang tua setiap hari, dalam 15 hari semua orang tua telah mendapatkan sapaan positif dari kamu. Apa dampaknya bagi iklim kelas kamu?*
 
 ## 5. Menangani Percakapan Sulit dengan Teknik Sandwich
 
@@ -81,11 +81,11 @@ Bagaimana cara memulai sistem ini tanpa merasa kewalahan? Berikut adalah langkah
 
 - **Minggu 1: Pendataan & Sapaan Awal.** Kirimkan survei singkat kepada orang tua mengenai gaya belajar dan hobi anak di rumah. Ini menunjukkan kamu peduli pada aspek personal siswa.
 - **Minggu 2: Pengiriman "Sertifikat Digital".** Buatlah desain sederhana menggunakan aplikasi desain (seperti Canva) yang bertuliskan "Pahlawan Kebaikan Hari Ini" dan kirimkan ke orang tua siswa yang melakukan hal positif.
-- **Minggu 3: Konsultasi Terjadwal.** Tawarkan waktu 10 menit via Zoom atau telepon bagi orang tua yang ingin berdiskusi santai tentang perkembangan anak, bukan karena ada masalah.
+- **Minggu 3: Konsultasi Terjadwal.** Tawarkan waktu 10 menit via Zoom atau telepon bagi orang tua yang ingin berdiskusi santai tentang perkembangan anak di saat tidak ada masalah.
 - **Minggu 4: Refleksi Bersama.** Bagikan ringkasan pencapaian kelas selama satu bulan kepada semua orang tua agar mereka merasa menjadi bagian dari komunitas yang sukses.
 
 ## Kesimpulan
 
-Komunikasi proaktif bukan sekadar memberi laporan, melainkan membangun **kemitraan strategis**. Ketika orang tua merasa dihargai dan dilibatkan dalam aspek-aspek positif, mereka akan menjadi pendukung kamu dalam menegakkan disiplin dan motivasi belajar siswa.
+Setiap laporan dalam komunikasi proaktif ikut membangun **kemitraan strategis** dengan orang tua. Ketika orang tua merasa dihargai dan dilibatkan dalam aspek-aspek positif, mereka akan menjadi pendukung kamu dalam menegakkan disiplin dan motivasi belajar siswa.
 
-> *Ingatlah: tugas guru tidak berhenti pada mengajar siswa, tetapi menjangkau orang-orang di sekitar siswa tersebut, terutama orang tuanya.*
+> *Ingatlah, tugas guru berlanjut setelah mengajar siswa dan menjangkau orang-orang di sekitarnya, terutama orang tuanya.*

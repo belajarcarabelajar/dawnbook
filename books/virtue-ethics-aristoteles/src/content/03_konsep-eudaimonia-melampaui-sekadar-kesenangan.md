@@ -6,7 +6,7 @@ Kontras antara dua pengalaman inilah yang menjadi pintu masuk untuk menggali Eud
 
 ## 1. Etimologi Eudaimonia
 
-Secara kebahasaan, **Eudaimonia** tersusun dari dua kata Yunani Kuno: **Eu** yang diartikan "baik", dan **Daimon** yang merujuk pada "spirit" atau "diri batiniah". Secara harfiah, Eudaimonia menggambarkan kondisi hidup yang selaras bersama "spirit baik" di dalam diri. Dalam kerangka Etika Kebajikan, pembahasan tidak berhenti pada sensasi emosi sesaat; ia berfokus pada kualitas dan arah tujuan hidup kita.
+Secara kebahasaan, **Eudaimonia** tersusun dari dua kata Yunani Kuno, yaitu **Eu** yang diartikan "baik", dan **Daimon** yang merujuk pada "spirit" atau "diri batiniah". Secara harfiah, Eudaimonia menggambarkan kondisi hidup yang selaras bersama "spirit baik" di dalam diri. Dalam kerangka Etika Kebajikan, pembahasannya berfokus pada kualitas dan arah tujuan hidup kita.
 
 > **Wawasan Penting:** Istilah ini lebih akurat direpresentasikan sebagai **"Human Flourishing"** (Keberkembangan Manusia) atau **"Kesejahteraan yang Bermakna"**. Ini merujuk pada kehidupan yang secara utuh dijalani dengan mengerahkan dan mewujudkan kapasitas terbaik sebagai manusia.
 
@@ -21,11 +21,11 @@ Untuk memahami kedalaman Eudaimonia, kita perlu memetakan perbedaannya dengan **
 | **Sumber** | Stimulasi eksternal (hiburan, belanja, makanan). | Dinamika internal (penempaan karakter, penciptaan karya). |
 | **Tujuan** | Meraih kepuasan fisik dan menghindari rasa tidak nyaman. | Menggapai makna hidup dan keunggulan diri (*Arete*). |
 
-Bayangkan jika teknologi mampu menciptakan simulasi realitas virtual yang menyuntikkan sensasi kenikmatan ke otakmu tanpa henti seumur hidup, sementara tubuh fisikmu hanya berbaring pasif. Jika tawaran itu terasa hampa, itu adalah sinyal dari intuisimu. Kualitas hidup manusia menuntut interaksi dan pencapaian otentik, menjauh dari kepuasan saraf belaka.
+Bayangkan jika teknologi mampu menciptakan simulasi realitas virtual yang menyuntikkan sensasi kenikmatan ke otakmu tanpa henti seumur hidup, sementara tubuh fisikmu hanya berbaring pasif. Jika tawaran itu terasa hampa, itu adalah sinyal dari intuisimu. Kualitas hidup manusia menuntut interaksi dan pencapaian otentik. Kepuasan saraf belaka tidak cukup untuk mengisinya.
 
 ## 3. Analogi Benih Pohon Ek
 
-Ambil contoh sebutir benih pohon ek. Pemenuhan kualitas hidup bagi benih tersebut tidak akan tercapai jika ia disimpan rapi di dalam kotak perhiasan demi menjaganya dari cuaca buruk. Tuntutan alamiahnya mengharuskan benih itu menghadapi tekanan lingkungan: menumbuhkan akar yang mencengkeram tanah, memaksa batang menembus permukaan bumi, hingga melebarkan dedaunan rimbun untuk menangkap sinar matahari.
+Ambil contoh sebutir benih pohon ek. Pemenuhan kualitas hidup bagi benih tersebut tidak akan tercapai jika ia disimpan rapi di dalam kotak perhiasan demi menjaganya dari cuaca buruk. Tuntutan alamiahnya mengharuskan benih itu menghadapi tekanan lingkungan, mulai dari menumbuhkan akar yang mencengkeram tanah dan memaksa batang menembus permukaan bumi, sampai melebarkan dedaunan rimbun untuk menangkap sinar matahari.
 
 Saat benih itu tumbuh menjadi pohon ek yang besar, barulah ia menyentuh Eudaimonia. Pohon itu berkembang penuh (*flourishing*) selaras dengan kodrat alamiahnya.
 
@@ -53,17 +53,17 @@ Walau tumpuan utamanya berada pada penempaan karakter, Aristoteles merumuskan pr
 
 Faktor pendukung selanjutnya meliputi **Kesehatan Fisik** dan **Kecukupan Materi**. Ketahanan tubuh dan stabilitas finansial akan membebaskan keseharian dari perjuangan memenuhi kebutuhan dasar, membuka peluang luas bagi kita untuk meringankan beban orang lain. Terakhir, struktur batin kita sebagai makhluk yang selalu berjejaring (*Zoon Politikon*) menempatkan **Hubungan Sosial** pada posisi esensial. Eudaimonia hadir dalam interaksi sosial dan kerja sama komunal; ia mustahil tumbuh dalam ruang hampa.
 
-Bagi para penelaah Etika Kebajikan, akumulasi aset atau kebugaran otot tidak pernah berdiri sebagai garis akhir. Semua sarana itu melayani pembentukan karakter yang unggul.
+Bagi para penelaah Etika Kebajikan, akumulasi aset atau kebugaran otot hanyalah sarana yang melayani pembentukan karakter yang unggul.
 
 ## 6. Eudaimonia di Pekerjaan dan Pertemanan
 
 Sebagai bahan renungan di ranah profesional, bayangkan sosok arsitek perangkat lunak yang mengeruk untung besar dengan membangun sistem algoritma untuk aplikasi penipuan digital. Kekayaan mengelilinginya, namun rutinitasnya membuat nuraninya makin hampa. Jika ia memutuskan beralih merancang sistem peringatan dini bencana alam (kendati dengan kompensasi yang lebih kecil), ia mulai mendekati Eudaimonia. Kapasitas intelektualnya (Akal Budi) digunakan untuk memastikan hadirnya manfaat konkret bagi masyarakat (Kebajikan).
 
-Dalam kerangka hubungan interpersonal, dorongan mencari pertemanan tak jarang kandas di tahap pelarian akhir pekan semata. Filosofi eudaimonik mendorong standar yang lebih matang: kita merawat lingkaran sahabat berlandaskan penghargaan mendalam atas integritas intelektual, yaitu setiap individu bersedia mengambil peran aktif menolong satu sama lain bangkit dari keterpurukan.
+Dalam kerangka hubungan interpersonal, dorongan mencari pertemanan tak jarang kandas di tahap pelarian akhir pekan semata. Filosofi eudaimonik mendorong standar yang lebih matang. Kita merawat lingkaran sahabat berlandaskan penghargaan mendalam atas integritas intelektual, yaitu setiap individu bersedia mengambil peran aktif menolong satu sama lain bangkit dari keterpurukan.
 
 ## 7. Kesejahteraan yang Terus Tumbuh
 
-Filosofi Eudaimonia menilai pencapaian manusia secara terus-menerus. Kesejahteraan ditempatkan sebagai proses dinamis yang mewajibkan pertumbuhan berkelanjutan. Kesadaran terhadap orientasi akhir kehidupan (*Telos*) menuntut kita menata ulang target: setiap jam bekerja maupun ilmu yang diserap idealnya difokuskan untuk membentuk diri yang utuh.
+Filosofi Eudaimonia menilai pencapaian manusia secara terus-menerus. Kesejahteraan ditempatkan sebagai proses dinamis yang mewajibkan pertumbuhan berkelanjutan. Kesadaran terhadap orientasi akhir kehidupan (*Telos*) menuntut kita menata ulang target sehingga setiap jam bekerja maupun ilmu yang diserap idealnya difokuskan untuk membentuk diri yang utuh.
 
 Secara objektif, merayakan tumpukan harta hasil memeras hak orang lain membuat seseorang tidak layak mencapai Eudaimonia, sebab kemenangannya dibangun dengan mengorbankan nilai kemanusiaannya sendiri.
 

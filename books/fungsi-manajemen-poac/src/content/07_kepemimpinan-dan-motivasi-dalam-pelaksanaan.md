@@ -6,7 +6,7 @@ Tanpa kepemimpinan yang efektif dan motivasi yang kuat, sumber daya organisasi a
 
 ## 1. Gaya Kepemimpinan
 
-Kepemimpinan bertumpu pada pengaruh yang diberikan, bukan pada jabatan yang disandang. Setiap manajer memiliki cara tersendiri dalam mengarahkan timnya. Dibandingkan mencari satu gaya yang sempurna untuk segala situasi, pemimpin yang cakap akan menyesuaikan pendekatannya dengan kondisi tim (Kepemimpinan Situasional).
+Kepemimpinan bertumpu pada pengaruh yang diberikan. Setiap manajer memiliki cara tersendiri dalam mengarahkan timnya, dan pemimpin yang cakap akan menyesuaikan pendekatannya dengan kondisi tim (Kepemimpinan Situasional).
 
 Berikut adalah beberapa gaya kepemimpinan yang umum diterapkan dalam organisasi:
 
@@ -22,7 +22,7 @@ Melalui gaya ini, manajer memberikan kebebasan penuh kepada anggota tim untuk me
 ### D. Gaya Transformasional
 Pemimpin transformasional menginspirasi tim untuk melampaui target pribadi demi mencapai visi bersama yang lebih besar. Melalui karisma, dorongan intelektual, dan perhatian personal kepada setiap anggota, gaya ini mampu mengubah budaya kerja menjadi jauh lebih positif dalam jangka panjang.
 
-> **Catatan Penting:** Pemimpin yang baik memastikan semua orang di belakangnya memahami arah tujuan dan alasan mereka melangkah ke sana, bukan hanya menonjolkan diri di posisi terdepan.
+> **Catatan Penting:** Pemimpin yang baik memastikan semua orang di belakangnya memahami arah tujuan dan alasan mereka melangkah ke sana.
 
 ## 2. Teknik Komunikasi Efektif
 
@@ -77,7 +77,7 @@ Sebuah tim pengembang sedang berkejaran dengan tenggat waktu penyelesaian aplika
 Berikut adalah langkah pelaksanaan (*actuating*) yang bisa diambil oleh seorang manajer untuk memulihkan situasi:
 
 1. **Gaya Kepemimpinan:** Manajer menerapkan gaya demokratis-transformasional. Dia mengumpulkan tim untuk menegaskan kembali visi besar dari proyek tersebut, yaitu bagaimana aplikasi ini akan mempermudah hidup banyak orang nantinya.
-2. **Komunikasi:** Dibanding mengadakan rapat-rapat panjang yang melelahkan, manajer memantau kemajuan pekerjaan menggunakan papan Kanban digital. Dia juga meluangkan waktu untuk berdialog secara personal guna mendengar keluh kesah anggota tim.
+2. **Komunikasi:** Manajer memantau kemajuan pekerjaan menggunakan papan Kanban digital, tanpa rapat-rapat panjang yang melelahkan. Dia juga meluangkan waktu untuk berdialog secara personal guna mendengar keluh kesah anggota tim.
 3. **Motivasi:**
    - **Apresiasi:** Manajer memberikan pujian terbuka atas bagian kode yang diselesaikan dengan rapi.
    - **Insentif:** Manajer menawarkan kompensasi berupa cuti tambahan atau bonus begitu proyek selesai demi menjaga nilai imbalan (*valence*) yang tinggi.
@@ -86,7 +86,7 @@ Berikut adalah langkah pelaksanaan (*actuating*) yang bisa diambil oleh seorang 
 ## 5. Tips Praktis Meningkatkan Produktivitas Melalui Hubungan Manusiawi
 
 - **Apresiasi secara Terbuka, Koreksi secara Tertutup:** Berikan pujian di depan umum untuk membangun moral, tetapi lakukan teguran atau masukan kritis di ruang pribadi guna menjaga harga diri karyawan.
-- **Delegasikan Wewenang, Bukan Hanya Tugas:** Berikan kepercayaan penuh kepada anggota tim untuk mengelola subproyek tertentu agar menumbuhkan rasa kepemilikan (*sense of ownership*) yang kuat.
+- **Delegasikan Wewenang Beserta Tugasnya:** Berikan kepercayaan penuh kepada anggota tim untuk mengelola subproyek tertentu agar menumbuhkan rasa kepemilikan (*sense of ownership*) yang kuat.
 - **Jadilah Teladan Nyata:** Jangan mengharapkan anggota tim datang tepat waktu jika kamu sendiri sering terlambat.
 
 > **Kesimpulan:** Kepemimpinan dan motivasi dalam tahap *Actuating* berfokus pada aspek kemanusiaan. Ketika karyawan merasa didengar, dihargai, dan memiliki tujuan yang jelas, produktivitas tinggi akan terbentuk secara alami tanpa perlu dipaksakan.

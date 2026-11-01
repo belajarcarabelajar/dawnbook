@@ -23,7 +23,7 @@ Setelah kemerdekaan pada tahun 1945 dan berakhirnya Perang Korea (1950–1953), 
 
 ### Fenomena "Cheongsilhongsil"
 
-Pada tahun 1956, drama radio berjudul **"Cheongsilhongsil"** (Benang Biru, Benang Merah) menjadi hit besar. Karya ini menciptakan standar baru bagi elemen-elemen khas K-Drama modern: kisah melodrama cinta yang rumit dan penuh air mata membuat pendengar terikat secara emosional. Pada masa itu, orang-orang rela berkerumun di sekitar satu-satunya radio di desa demi menyimak kelanjutan cerita. Kepopuleran ini juga melahirkan fenomena baru, yakni para pengisi suara (*voice actor*) menjadi selebritas di Korea bahkan sebelum wajah mereka dikenal publik.
+Pada tahun 1956, drama radio berjudul **"Cheongsilhongsil"** (Benang Biru, Benang Merah) menjadi hit besar. Karya ini menciptakan standar baru bagi elemen-elemen khas K-Drama modern, seperti kisah melodrama cinta yang rumit dan penuh air mata yang membuat pendengar terikat secara emosional. Pada masa itu, orang-orang rela berkerumun di sekitar satu-satunya radio di desa demi menyimak kelanjutan cerita. Kepopuleran ini juga melahirkan fenomena baru, yakni para pengisi suara (*voice actor*) menjadi selebritas di Korea bahkan sebelum wajah mereka dikenal publik.
 
 ## 3. Kelahiran Televisi (1956 - 1959)
 
@@ -68,11 +68,11 @@ Berikut adalah perbedaan mendasar dalam produksi drama pada masa transisi terseb
 Meskipun medianya berbeda, banyak unsur drama radio terbawa ke dalam drama televisi pertama. Ada beberapa pola kesinambungan utama yang patut dicatat:
 - Format narasi yang episodik (bersambung) telah dikembangkan secara matang di radio sebelum diadopsi oleh stasiun televisi.
 - Karena keterbatasan visual pada kamera awal, naskah drama televisi pertama sangat bergantung pada dialog yang kuat dan puitis, sebuah warisan langsung dari era radio.
-- Banyak aktor drama televisi generasi pertama merupakan mantan pengisi suara radio. Mereka harus belajar cara mengekspresikan karakter menggunakan bahasa tubuh, bukan lagi sekadar mengandalkan vokal.
+- Banyak aktor drama televisi generasi pertama merupakan mantan pengisi suara radio. Mereka yang terbiasa mengandalkan vokal harus belajar cara mengekspresikan karakter menggunakan bahasa tubuh.
 
 ## Mengapa Sejarah Ini Penting Sekarang?
 
-Memahami akar awal ini membantu kita memahami mengapa K-Drama modern sangat ahli dalam dua hal: **Dialog Emosional** dan **Musik Latar (OST)**.
+Memahami akar awal ini membantu kita memahami mengapa K-Drama modern sangat ahli dalam **Dialog Emosional** dan **Musik Latar (OST)**.
 
 Dalam industri modern, teknik *cliffhanger* yang sering digunakan penulis skenario papan atas seperti Kim Eun-sook sebenarnya berakar dari sandiwara radio tahun 1950-an. Saat itu, ketegangan di akhir siaran dibuat sedemikian rupa agar pendengar kembali menyalakan radio mereka keesokan harinya. Begitu pula dengan dominasi musik latar atau *original soundtrack* (OST) dramatis dalam drakor saat ini. Kepekaan audio tersebut merupakan bentuk evolusi langsung dari metode era radio, ketika suasana emosional harus dibangun sepenuhnya lewat suara tanpa bantuan elemen visual.
 
@@ -80,4 +80,4 @@ Dalam industri modern, teknik *cliffhanger* yang sering digunakan penulis skenar
 
 Tuntutan siaran langsung pada akhir tahun 1950-an membentuk etos kerja yang keras di kalangan kru dan aktor televisi Korea. Tanpa kesempatan untuk melakukan rekaman ulang, proses latihan dilakukan berulang kali dengan disiplin yang ketat. Di sisi lain, antusiasme masyarakat yang besar terhadap cerita-cerita melodrama, meskipun di tengah keterbatasan ekonomi pascaperang, membuktikan bahwa kebutuhan akan narasi dan hiburan telah menjadi bagian penting dari ketahanan sosial mereka.
 
-> **Catatan Sejarah:** Kelahiran drama Korea tidak diawali oleh kemewahan. Industri ini tumbuh dari berbagai keterbatasan. Dari keterbatasan visual era radio, lahir kekuatan imajinasi pendengar. Dari keterbatasan teknis televisi awal, lahir kedisiplinan tinggi dalam siaran langsung. Kombinasi faktor-faktor ini menjadi fondasi industri hiburan Korea Selatan di masa depan.
+> **Catatan Sejarah:** Industri drama Korea tumbuh dari berbagai keterbatasan. Dari keterbatasan visual era radio, lahir kekuatan imajinasi pendengar. Dari keterbatasan teknis televisi awal, lahir kedisiplinan tinggi dalam siaran langsung. Kombinasi faktor-faktor ini menjadi fondasi industri hiburan Korea Selatan di masa depan.

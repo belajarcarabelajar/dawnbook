@@ -34,10 +34,10 @@ Seiring dengan kemajuan pesat ekonomi Korea Selatan yang dikenal sebagai *Miracl
 
 ### Potret Realitas Sosial
 
-Latar cerita K-Drama tidak lagi melulu berkutat di wilayah pedesaan atau lingkungan keluarga tradisional. Konflik cerita mulai bergeser ke area perkotaan yang dinamis:
+Latar dan konflik cerita K-Drama mulai bergeser dari wilayah pedesaan atau lingkungan keluarga tradisional ke area perkotaan yang dinamis:
 - Gedung perkantoran bertingkat yang mencerminkan ambisi kelas menengah baru dalam meniti karier.
 - Kompleks apartemen padat penduduk yang menggambarkan gesekan sosial masyarakat perkotaan.
-- Lahirnya drama detektif seperti ***Chief Inspector* (Susa Banjang)** yang mengudara sepanjang tahun 1971 hingga 1989. Serial ini tidak hanya berfokus pada pengejaran pelaku kriminal, tetapi juga menyajikan potret kemiskinan dan ketimpangan sosial yang membayangi kemajuan kota besar.
+- Lahirnya drama detektif seperti ***Chief Inspector* (Susa Banjang)** yang mengudara sepanjang tahun 1971 hingga 1989. Di sela kisah pengejaran pelaku kriminal, serial ini menyajikan potret kemiskinan dan ketimpangan sosial yang membayangi kemajuan kota besar.
 
 ## 4. Persaingan Ketat KBS vs MBC
 
@@ -46,7 +46,7 @@ Tahun 1980 juga ditandai dengan reorganisasi media secara besar-besaran oleh pem
 | Aspek | Perkembangan di Era 1980-an |
 | --- | --- |
 | **Format** | Munculnya format *miniseries* (10–24 episode) yang lebih dinamis. |
-| **Target Audiens** | Mulai menargetkan penonton muda dan wanita karier, tidak lagi terbatas pada ibu rumah tangga. |
+| **Target Audiens** | Mulai menargetkan penonton muda dan wanita karier di samping ibu rumah tangga. |
 | **Kualitas Skenario** | Penulis skenario mulai mendapatkan apresiasi tinggi sebagai arsitek utama di balik kesuksesan drama. |
 
 ## Dampak Jangka Panjang bagi Industri Modern

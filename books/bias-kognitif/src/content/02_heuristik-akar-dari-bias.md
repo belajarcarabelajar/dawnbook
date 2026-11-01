@@ -5,7 +5,7 @@ Bayangkan kamu sedang berada di supermarket yang sangat luas untuk membeli sebun
 1. Menelusuri setiap lorong satu per satu, memeriksa setiap rak dari ujung ke ujung secara sistematis (Metode Algoritma).
 2. Langsung berjalan ke arah papan petunjuk bertuliskan "Kebutuhan Dapur" atau "Bumbu Masak" (Metode Heuristik).
 
-Mana yang kamu pilih? Hampir pasti kamu memilih cara kedua. Mengapa? Karena otak kita dirancang untuk menjadi **efisien**, bukan sempurna. Inilah inti dari **Heuristik**.
+Mana yang kamu pilih? Hampir pasti kamu memilih cara kedua. Mengapa? Karena otak kita dirancang untuk bekerja **efisien**, walaupun hasilnya tidak sempurna. Inilah inti dari **Heuristik**.
 
 ## 1\. Apa Itu Heuristik?
 
@@ -13,7 +13,7 @@ Mana yang kamu pilih? Hampir pasti kamu memilih cara kedua. Mengapa? Karena otak
 
 Istilah ini berasal dari bahasa Yunani *heuriskein* yang berarti "menemukan". Dalam psikologi kognitif, heuristik dipandang sebagai mekanisme bertahan hidup yang penting. Jika setiap keputusan kecil (seperti memilih warna kaus kaki atau cara menghindari lubang di jalan) harus dipikirkan secara mendalam, otak kita akan mengalami *burnout* dalam hitungan jam.
 
-> **Pesan Kunci:** Heuristik bukanlah sebuah kesalahan. Heuristik adalah alat efisiensi. Namun, efisiensi sering kali mengorbankan akurasi.
+> **Pesan Kunci:** Heuristik adalah alat efisiensi, dan efisiensi sering kali mengorbankan akurasi.
 
 ## 2\. Mengapa Otak Kita "Malas"? (Teori Sistem Ganda)
 
@@ -38,7 +38,7 @@ Ketika kita dihadapkan pada pertanyaan yang kompleks (Atribut Target), otak kita
 | "Apakah kandidat ini akan menjadi manajer yang hebat?" | "Seberapa percaya diri dan ramah kandidat ini saat wawancara?" |
 | "Seberapa sering terjadi kecelakaan pesawat tahun ini?" | "Seberapa mudah saya mengingat berita kecelakaan pesawat baru-baru ini?" |
 
-Secara matematis, kita bisa memahaminya sebagai fungsi penyederhanaan: $f(x)\_{\text{kompleks}} \approx g(x)\_{\text{sederhana}}$
+Secara matematis, kita bisa memahaminya sebagai fungsi penyederhanaan, yaitu $f(x)\_{\text{kompleks}} \approx g(x)\_{\text{sederhana}}$
 
 Dalam hal ini, $g(x)$ memberikan jawaban yang "cukup baik" untuk situasi sehari-hari, tetapi secara statistik bisa sangat meleset dari $f(x)$.
 
@@ -58,11 +58,11 @@ Jika heuristik adalah "alat", maka bias adalah "cacat produksi" yang muncul akib
 
 Seorang Senior Developer diminta memberikan estimasi waktu untuk fitur baru yang belum pernah dibuat sebelumnya.
 
-- **Proses Heuristik:** Ia mengingat fitur yang "mirip" yang ia kerjakan bulan lalu (hanya butuh 3 hari). Otaknya melakukan substitusi: "Seberapa sulit fitur baru ini?" diganti dengan "Seberapa lama saya mengerjakan hal serupa terakhir kali?".
+- **Proses Heuristik:** Ia mengingat fitur yang "mirip" yang ia kerjakan bulan lalu (hanya butuh 3 hari). Lewat substitusi, otaknya mengganti pertanyaan "Seberapa sulit fitur baru ini?" dengan "Seberapa lama saya mengerjakan hal serupa terakhir kali?".
 - **Kesalahan (Bias):** Ia gagal memperhitungkan kompleksitas integrasi database baru atau potensi bug (ini disebut *Planning Fallacy*).
 - **Hasil:** Proyek molor karena ia menggunakan jalan pintas ingatan alih-alih melakukan analisis teknis mendalam.
 
-Secara umum, perbedaan antara jalan pintas dan analisis mendalam bisa diringkas begini. Jalur heuristik (Sistem 1) cukup dipicu oleh rasa suka pada sebuah opsi, lalu opsi itu langsung dieksekusi: cepat dan hanya butuh sedikit energi. Jalur analitis (Sistem 2) jauh lebih berat, karena setiap data harus divalidasi secara statistik dan risiko jangka panjangnya dihitung lebih dulu.
+Secara umum, perbedaan antara jalan pintas dan analisis mendalam bisa diringkas begini. Jalur heuristik (Sistem 1) cukup dipicu oleh rasa suka pada sebuah opsi, lalu opsi itu langsung dieksekusi. Jalur ini cepat dan hanya butuh sedikit energi. Jalur analitis (Sistem 2) jauh lebih berat, karena setiap data harus divalidasi secara statistik dan risiko jangka panjangnya dihitung lebih dulu.
 
 ## 6\. Cara Mengatasi Bias Heuristik
 

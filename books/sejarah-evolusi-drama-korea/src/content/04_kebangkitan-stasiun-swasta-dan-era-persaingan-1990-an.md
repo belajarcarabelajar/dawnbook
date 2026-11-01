@@ -4,7 +4,7 @@ Pada 1990-an, lahirnya stasiun swasta memicu persaingan rating yang mengubah car
 
 ### 1. Munculnya SBS dan Runtuhnya Duopoli
 
-Hingga akhir 1980-an, pemirsa Korea Selatan hanya memiliki dua pilihan utama: **KBS** (milik pemerintah) dan **MBC** (semi-publik). Namun, pada tahun 1990 (siaran dimulai penuh tahun 1991), lahirlah **SBS (Seoul Broadcasting System)** sebagai stasiun televisi swasta komersial.
+Hingga akhir 1980-an, pemirsa Korea Selatan hanya memiliki dua pilihan utama, yaitu **KBS** (milik pemerintah) dan **MBC** (semi-publik). Namun, pada tahun 1990 (siaran dimulai penuh tahun 1991), lahirlah **SBS (Seoul Broadcasting System)** sebagai stasiun televisi swasta komersial.
 
 **Apa dampaknya?**
 
@@ -16,7 +16,7 @@ Hingga akhir 1980-an, pemirsa Korea Selatan hanya memiliki dua pilihan utama: **
 
 ### 2. Sandglass (1995) dan Dampak Sosiopolitiknya
 
-Jika kita harus menunjuk satu drama yang mendefinisikan era 90-an, jawabannya adalah **Sandglass (Moraesigye)**. Drama ini tumbuh menjadi fenomena sosiopolitik yang nyata, melampaui fungsinya sebagai tontonan biasa.
+Jika kita harus menunjuk satu drama yang mendefinisikan era 90-an, jawabannya adalah **Sandglass (Moraesigye)**. Drama ini tumbuh menjadi fenomena sosiopolitik yang nyata.
 
 **Mengapa Sandglass begitu ikonik?**
 
@@ -24,7 +24,7 @@ Jika kita harus menunjuk satu drama yang mendefinisikan era 90-an, jawabannya ad
 2. **Skala produksi besar** pada zamannya, yang menghasilkan kualitas sinematografi setara film bioskop.
 3. **Dampak sosialnya** terlihat dari raihan rating yang menyentuh **64,5%**. Muncul seloroh populer kala itu bahwa jalanan Seoul mendadak lengang karena semua orang bergegas pulang untuk menonton kelanjutan kisahnya.
 
-Fenomena saat seluruh negeri seolah berhenti beraktivitas demi menyaksikan drama ini menegaskan bahwa *Sandglass* telah tumbuh melampaui fungsi hiburan biasa dan menjadi cermin sejarah bagi bangsanya.
+Fenomena saat seluruh negeri seolah berhenti beraktivitas demi menyaksikan drama ini menegaskan bahwa *Sandglass* telah menjadi cermin sejarah bagi bangsanya.
 
 ### 3. Evolusi Narasi Menuju Urban Modern
 
@@ -49,7 +49,7 @@ Persaingan antarstasiun TV memicu kemajuan teknis yang nyata dalam produksi:
 
 Memahami era 1990-an membantu kita menghargai standar tinggi K-Drama saat ini. Tanpa kompetisi sengit yang dipicu oleh SBS dan keberanian *Sandglass* dalam mendobrak batas sensor, K-Drama mungkin masih akan terjebak dalam format opera sabun keluarga yang monoton.
 
-**Skenario Penerapan:** Jika kamu seorang pembuat konten atau pengusaha, pelajaran dari era 1990-an Korea adalah: alih-alih menjadi musuh, kompetisi justru bertindak sebagai katalisator untuk meningkatkan kualitas. Ketika SBS menantang status quo, seluruh industri terangkat. Dalam kariermu, hadirnya kompetitor baru seharusnya memicumu untuk melakukan inovasi teknis dan mencari "narasi baru" yang belum pernah disentuh orang lain.
+**Skenario Penerapan:** Jika kamu seorang pembuat konten atau pengusaha, era 1990-an Korea mengajarkan bahwa kompetisi bertindak sebagai katalisator untuk meningkatkan kualitas. Ketika SBS menantang status quo, seluruh industri terangkat. Dalam kariermu, hadirnya kompetitor baru seharusnya memicumu untuk melakukan inovasi teknis dan mencari "narasi baru" yang belum pernah disentuh orang lain.
 
 ### Ringkasan Poin Penting
 

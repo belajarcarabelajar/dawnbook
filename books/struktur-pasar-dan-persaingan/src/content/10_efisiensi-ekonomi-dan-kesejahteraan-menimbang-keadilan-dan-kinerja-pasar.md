@@ -1,6 +1,6 @@
 ## Efisiensi Ekonomi dan Kesejahteraan
 
-Di bab-bab sebelumnya, kamu telah melihat perusahaan yang tunduk pada harga pasar hingga yang berkuasa menentukan harga sendiri. Namun, pertanyaan besarnya: **Manakah dari struktur pasar ini yang paling menguntungkan bagi masyarakat?**
+Di bab-bab sebelumnya, kamu telah melihat perusahaan yang tunduk pada harga pasar hingga yang berkuasa menentukan harga sendiri. Kini tiba pertanyaan besarnya. **Manakah dari struktur pasar ini yang paling menguntungkan bagi masyarakat?**
 
 Bagian ini membedah konsep "efisiensi" sebagai ukuran seberapa baik sebuah pasar melayani kepentingan bersama melalui alokasi sumber daya dan distribusi kesejahteraan.
 
@@ -73,7 +73,7 @@ $$
 
 Di sebuah kota, layanan air minum awalnya dikelola oleh pemerintah dengan harga terjangkau mendekati $P = \text{MC}$ untuk memaksimalkan efisiensi alokatif. Namun, akibat ketiadaan kompetisi, biaya operasional membengkak sehingga timbul inefisiensi produktif.
 
-Pemerintah kemudian melakukan privatisasi dan memberikan hak monopoli kepada perusahaan swasta. Hasilnya:
+Pemerintah kemudian melakukan privatisasi dan memberikan hak monopoli kepada perusahaan swasta, dengan tiga akibat berikut.
 
 1. **Efisiensi Produktif Meningkat:** Perusahaan swasta memangkas pemborosan untuk menekan biaya operasional.
 2. **Efisiensi Alokatif Menurun:** Perusahaan menaikkan harga di atas biaya marjinal demi memaksimalkan laba.

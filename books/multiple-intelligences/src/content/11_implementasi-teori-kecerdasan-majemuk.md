@@ -1,8 +1,8 @@
 ## Implementasi Teori Kecerdasan Majemuk
 
-Menerapkan Teori Kecerdasan Majemuk (Multiple Intelligences/MI) tidak berarti guru harus menyiapkan delapan pelajaran berbeda untuk setiap pertemuan. Konsep ini lebih menekankan penyediaan "pintu masuk" yang beragam ke dalam satu materi yang sama.
+Menerapkan Teori Kecerdasan Majemuk (Multiple Intelligences/MI) berarti menyediakan "pintu masuk" yang beragam ke dalam satu materi yang sama. Guru tidak perlu menyiapkan delapan pelajaran berbeda untuk setiap pertemuan.
 
-Semangatnya adalah menghargai perbedaan cara manusia belajar. Tujuannya bukan mengotak-ngotakkan siswa, melainkan membuka lebih banyak jalan bagi mereka untuk memahami dunia.
+Semangatnya adalah menghargai perbedaan cara manusia belajar. Tujuannya membuka lebih banyak jalan bagi siswa untuk memahami dunia, tanpa mengotak-ngotakkan mereka.
 
 ## 1. Menentukan Titik Masuk (Entry Points)
 
@@ -43,7 +43,7 @@ Bagi profil interpersonal, metode pembelajaran kooperatif, pengajaran sejawat (*
 
 ## 3. Penilaian Otentik
 
-Menerapkan beragam metode pengajaran mengharuskan adanya variasi dalam bentuk evaluasi, tidak lagi terbatas pada format pilihan ganda. Penilaian semestinya bersifat otentik dan mampu mencerminkan kemampuan di dunia nyata.
+Menerapkan beragam metode pengajaran mengharuskan adanya variasi dalam bentuk evaluasi di luar format pilihan ganda. Penilaian semestinya bersifat otentik dan mampu mencerminkan kemampuan di dunia nyata.
 
 Rubrik penilaian yang terukur sangat diperlukan agar standar kompetensi tetap terjaga, meskipun bentuk tugas yang dikumpulkan bervariasi (misalnya satu siswa menyerahkan esai sementara rekannya membuat video).
 
@@ -91,4 +91,4 @@ Mengubah cara pandang dan kebiasaan mengajar tentu membawa tantangan tersendiri.
 
 Kolaborasi dengan pengajar mata pelajaran lain sering kali membuka jalan keluar baru; contohnya guru seni mendampingi guru sains untuk menggarap proyek visualisasi. Lingkungan kelas pun dapat disesuaikan secara bertahap dengan menciptakan ruang-ruang tematik, seperti Pojok Baca, Pojok Teka-teki, atau Pojok Observasi Alam yang merangsang rasa ingin tahu.
 
-> **Insight:** Implementasi MI adalah upaya mendesain ruang pembelajaran yang "bermakna" bagi setiap siswa yang unik, alih-alih sekadar mengubah kelas menjadi ajang "hiburan".
+> **Insight:** Implementasi MI adalah upaya mendesain ruang pembelajaran yang "bermakna" bagi setiap siswa yang unik. Mengubah kelas menjadi ajang "hiburan" belum memenuhi tujuan itu.

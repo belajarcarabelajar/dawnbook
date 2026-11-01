@@ -2,7 +2,7 @@
 
 Banyak industri modern yang kamu temui sehari-hari dikuasai oleh beberapa perusahaan besar. Pernahkah kamu memperhatikan bahwa ketika sebuah operator seluler memberikan promo kuota besar-besaran, operator lain biasanya akan segera menyusul dengan penawaran serupa? Atau mengapa harga tiket pesawat untuk rute yang sama di maskapai yang berbeda sering kali hampir identik?
 
-Fenomena ini bukanlah kebetulan. Ini adalah dinamika unik dari **Pasar Oligopoli**, sebuah struktur pasar tempat segelintir perusahaan besar memegang kendali, dan setiap langkah yang diambil oleh satu perusahaan akan berdampak pada pesaingnya.
+Kedua kejadian itu lahir dari dinamika unik **Pasar Oligopoli**, sebuah struktur pasar tempat segelintir perusahaan besar memegang kendali, dan setiap langkah yang diambil oleh satu perusahaan akan berdampak pada pesaingnya.
 
 ## Apa Itu Pasar Oligopoli?
 
@@ -19,11 +19,11 @@ Secara etimologis, "Oligopoli" berasal dari bahasa Yunani, *oligos* yang berarti
 
 Bayangkan kamu sedang bermain catur. Setiap kali kamu menggerakkan satu bidak, kamu harus memikirkan bagaimana lawan kamu akan bereaksi. Di pasar oligopoli, perusahaan tidak bisa menetapkan harga atau strategi pemasaran secara terisolasi.
 
-> **Insight Penting:** Dalam pasar persaingan sempurna, perusahaan adalah *price taker* (penerima harga). Namun dalam oligopoli, perusahaan adalah pemain strategis. Mereka harus selalu bertanya: *"Jika saya menaikkan harga, apakah pesaing saya akan ikut naik? Jika saya banting harga, apakah mereka akan memulai perang harga?"*
+> **Insight Penting:** Dalam pasar persaingan sempurna, perusahaan adalah *price taker* (penerima harga). Namun dalam oligopoli, perusahaan adalah pemain strategis. Mereka harus selalu bertanya, *"Jika saya menaikkan harga, apakah pesaing saya akan ikut naik? Jika saya banting harga, apakah mereka akan memulai perang harga?"*
 
 ### "The Rowing Boat" (Perahu Dayung)
 
-Bayangkan tiga orang besar berada dalam satu perahu dayung kecil. Jika satu orang tiba-tiba berdiri atau menggoyangkan perahu, dua orang lainnya akan langsung merasakan guncangannya dan harus menyesuaikan posisi mereka agar perahu tidak terbalik. Inilah **interdependensi**. Tidak ada tindakan yang bersifat pribadi; setiap gerakan adalah aksi yang memicu reaksi.
+Bayangkan tiga orang besar berada dalam satu perahu dayung kecil. Jika satu orang tiba-tiba berdiri atau menggoyangkan perahu, dua orang lainnya akan langsung merasakan guncangannya dan harus menyesuaikan posisi mereka agar perahu tidak terbalik. Inilah **interdependensi**. Setiap gerakan adalah aksi yang memicu reaksi.
 
 ## Kurva Permintaan Patah (Kinked Demand Curve)
 
@@ -38,8 +38,8 @@ Model ini berasumsi adanya asimetri dalam reaksi pesaing:
 
 Jika $P$ adalah harga dan $Q$ adalah kuantitas, maka profil elastisitasnya berubah pada titik harga saat ini $P^*$:
 
-- Untuk $P > P^*$, permintaan bersifat **Elastis**: $\text{\%} \Delta Q > \text{\%} \Delta P$
-- Untuk $P < P^*$, permintaan bersifat **Inelastis**: $\text{\%} \Delta Q < \text{\%} \Delta P$
+- Untuk $P > P^*$, permintaan bersifat **Elastis**, dengan $\text{\%} \Delta Q > \text{\%} \Delta P$
+- Untuk $P < P^*$, permintaan bersifat **Inelastis**, dengan $\text{\%} \Delta Q < \text{\%} \Delta P$
 
 > **Catatan Strategis:** Dalam pasar oligopoli, perang harga sering kali menjadi strategi *lose-lose* (mati bersama) karena menurunkan margin keuntungan seluruh pemain tanpa mengubah pangsa pasar secara berarti.
 
@@ -49,7 +49,7 @@ Karena perang harga berisiko dan bisa menggerus margin keuntungan semua pemain, 
 
 ### Bentuk-bentuk Persaingan Non-Harga
 
-- **Diferensiasi Produk:** Menambahkan fitur unik yang tidak dimiliki pesaing (misalnya: teknologi kamera pada smartphone).
+- **Diferensiasi Produk:** Menambahkan fitur unik yang tidak dimiliki pesaing (misalnya teknologi kamera pada smartphone).
 - **Branding dan Iklan:** Membangun citra bahwa produk mereka "lebih keren" atau "lebih premium".
 - **Layanan Purna Jual:** Garansi yang lebih lama atau pusat servis yang tersebar luas.
 - **Program Loyalitas (*loyalty program*):** Kartu member atau poin *reward* untuk mengunci konsumen agar tidak berpindah ke merek lain.
@@ -78,4 +78,4 @@ Inilah alasan mengapa maskapai lebih suka bersaing lewat layanan, ketepatan wakt
 | **Iklan Masif** | Menjadi alat utama untuk mempertahankan pangsa pasar. |
 | **Hambatan Masuk** | Melindungi keuntungan jangka panjang dari pemain baru. |
 
-> **Pesan Utama:** Dalam oligopoli, keberhasilan kamu ditentukan bukan hanya oleh seberapa baik kamu mengelola perusahaan sendiri, melainkan juga seberapa cerdas kamu memprediksi dan merespons langkah pesaing. Permainan strategi ini terjadi setiap hari di rak supermarket, layar ponsel, dan SPBU.
+> **Pesan Utama:** Dalam oligopoli, keberhasilan kamu bergantung pada cara kamu mengelola perusahaan sendiri dan pada kecermatanmu memprediksi serta merespons langkah pesaing. Permainan strategi ini terjadi setiap hari di rak supermarket, layar ponsel, dan SPBU.

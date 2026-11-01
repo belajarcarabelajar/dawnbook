@@ -2,7 +2,7 @@
 
 Bayangkan sebuah masa ketika televisi masih menjadi barang baru yang langka. Benda elektronik di sudut ruangan ini mampu mengumpulkan seluruh warga desa di dalam satu rumah yang cukup beruntung untuk memilikinya. Seperti itulah suasana Korea Selatan pada dekade 1960-an. Setelah melewati masa transisi dari media radio, televisi mulai mengambil alih peran sebagai penutur cerita utama bangsa.
 
-Pada dekade ini, K-Drama tidak lahir dari sinematografi mewah atau aktor berhonor tinggi. Sebaliknya, industri ini dirintis dari studio-studio sempit dengan teknologi serba terbatas, visual hitam putih, serta semangat kolektif untuk membangun kembali identitas nasional pascaperang.
+Pada dekade ini, K-Drama dirintis dari studio-studio sempit dengan teknologi serba terbatas, visual hitam putih, serta semangat kolektif untuk membangun kembali identitas nasional pascaperang.
 
 ## 1. Kelahiran KBS dan Siaran Nasional
 

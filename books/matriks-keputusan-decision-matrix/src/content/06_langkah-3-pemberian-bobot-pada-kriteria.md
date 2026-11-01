@@ -1,6 +1,6 @@
 ## Pemberian Bobot pada Kriteria
 
-Setelah alternatif dan kriteria kamu tetapkan, masuklah ke tahap yang paling menentukan objektivitas analisismu: **Pemberian Bobot (Weighting)**.
+Setelah alternatif dan kriteria kamu tetapkan, masuklah ke **Pemberian Bobot (Weighting)**, tahap yang paling menentukan objektivitas analisismu.
 
 Dalam pembuatan **matriks keputusan (decision matrix)**, tidak semua **kriteria penilaian** diciptakan sama. Jika kamu sedang memilih mobil, mungkin aspek keamanan jauh lebih penting bagimu daripada warna eksterior. Pemberian bobot adalah cara kita memberikan nilai numerik pada tingkat kepentingan tersebut agar keputusan akhir menghasilkan **skor berbobot** yang mencerminkan prioritasmu yang sebenarnya.
 
@@ -21,7 +21,7 @@ Metode ini paling populer karena intuitif. Kamu mendistribusikan total 100% ke s
 - **Aturan Main:** Semua nilai bobot yang didistribusikan harus berjumlah tepat 100% atau 1,0.
 - **Kelebihan utama:** Mudah divisualisasikan serta langsung memberikan gambaran mengenai porsi kepentingan masing-masing kriteria.
 
-**Contoh Matematis:** Jika kamu memiliki 3 kriteria: Harga, Kualitas, dan Desain.
+**Contoh Matematis:** Misalkan kamu memiliki 3 kriteria, yaitu Harga, Kualitas, dan Desain.
 
 - Harga: $0.5$ (atau setara dengan $50 \text{\%}$ dari total prioritas)
 - Kualitas produk: $0.3$ (mengambil porsi $30 \text{\%}$)
@@ -87,4 +87,4 @@ pie showData
   - *Evaluasi kembali:* Apakah bobot ini didasarkan pada kebutuhan objektif yang nyata, atau hanya trik agar pilihan yang disukai secara emosional keluar sebagai pemenang?
 - **Kriteria yang Tumpang Tindih:** Ketika dua kriteria terlalu mirip, aspek yang sama akan terhitung dua kali dan mendistorsi nilai bobot sesungguhnya. Selalu pastikan kriteria penilaian bersifat independen satu sama lain.
 
-Nilai bobot bukanlah angka statis yang berlaku selamanya, melainkan cerminan dari strategi yang sedang berjalan. Sebagai contoh, di tahun ini prioritas utama mungkin terletak pada pertumbuhan sehingga kriteria tersebut mendapat bobot $60 \text{\%}$. Namun, ketika situasi ekonomi berubah menantang, efisiensi biaya bisa bergeser menjadi prioritas utama. Perubahan seperti ini wajar, asalkan kamu tetap konsisten dan objektif selama sesi pengambilan keputusan berlangsung.
+Nilai bobot mencerminkan strategi yang sedang berjalan, sehingga angkanya bisa berubah dari waktu ke waktu. Sebagai contoh, di tahun ini prioritas utama mungkin terletak pada pertumbuhan sehingga kriteria tersebut mendapat bobot $60 \text{\%}$. Namun, ketika situasi ekonomi berubah menantang, efisiensi biaya bisa bergeser menjadi prioritas utama. Perubahan seperti ini wajar, asalkan kamu tetap konsisten dan objektif selama sesi pengambilan keputusan berlangsung.

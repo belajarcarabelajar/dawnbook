@@ -2,7 +2,7 @@
 
 Pernahkah kamu bertemu seseorang yang sangat menawan secara fisik dan secara otomatis berasumsi bahwa mereka juga cerdas, baik hati, dan jujur? Atau sebaliknya, pernahkah kamu melihat seseorang yang berpakaian sangat berantakan dan langsung menyimpulkan bahwa mereka malas atau tidak kompeten di tempat kerja?
 
-Jika ya, kamu sedang mengalami salah satu bias kognitif yang paling kuat dalam interaksi manusia: **Efek Halo (Halo Effect)** dan **Efek Tanduk (Horns Effect)**.
+Jika ya, kamu sedang mengalami **Efek Halo (Halo Effect)** dan **Efek Tanduk (Horns Effect)**. Keduanya termasuk bias kognitif yang paling kuat dalam interaksi manusia.
 
 ## 1. Apa Itu Efek Halo?
 
@@ -28,7 +28,7 @@ Jika Efek Halo memberikan "lingkaran cahaya" malaikat pada seseorang, **Efek Tan
 
 Secara psikologis, kedua bias ini berakar pada kebutuhan kita akan **konsistensi kognitif**. Kita ingin dunia kita masuk akal dan konsisten. Jika kita menyukai seseorang, rasanya aneh (secara mental) jika mereka memiliki sifat buruk. Jadi, otak kita "menghaluskan" ketidakkonsistenan tersebut.
 
-Dalam matematika persepsi, kita bisa memodelkannya secara sederhana sebagai berikut: Jika $\text{Kesan Umum} > 0$ (Positif), maka: $\forall \text{Sifat}\_{i} \rightarrow \text{Persepsi}(\text{Sifat}\_{i}) = \text{Positif}$
+Dalam matematika persepsi, kita bisa memodelkannya secara sederhana. Jika $\text{Kesan Umum} > 0$ (Positif), maka $\forall \text{Sifat}\_{i} \rightarrow \text{Persepsi}(\text{Sifat}\_{i}) = \text{Positif}$
 
 Dan sebaliknya jika $\text{Kesan Umum} < 0$ (Negatif).
 
@@ -65,9 +65,9 @@ Kedua orang ini melakukan kesalahan yang identik, namun interpretasi tim terhada
 
 Meskipun sulit untuk sepenuhnya menghilangkan bias ini karena sudah "terprogram" dalam evolusi kita, kita bisa memitigasinya dengan langkah-langkah praktis:
 
-1. **Evaluasi Terpisah**: Jika kamu seorang manajer, nilai kinerja karyawan berdasarkan metrik yang jelas dan terpisah (misal: kehadiran, kualitas kode, kerja sama tim) alih-alih memberikan nilai umum.
-2. **Aturan "Kesan Kedua"**: Secara sadar tantang kesan pertama kamu. Tanyakan pada diri sendiri: *"Jika orang ini tidak semenarik ini, apakah saya akan tetap setuju dengan argumennya?"*
-3. **Gunakan Data, Bukan Perasaan**: Dalam pengambilan keputusan penting (seperti investasi atau perekrutan), buatlah daftar kriteria objektif sebelum bertemu dengan orangnya.
+1. **Evaluasi Terpisah**: Jika kamu seorang manajer, nilai kinerja karyawan berdasarkan metrik yang jelas dan terpisah (misalnya kehadiran, kualitas kode, kerja sama tim) alih-alih memberikan nilai umum.
+2. **Aturan "Kesan Kedua"**: Secara sadar tantang kesan pertama kamu. Tanyakan pada diri sendiri, *"Jika orang ini tidak semenarik ini, apakah saya akan tetap setuju dengan argumennya?"*
+3. **Andalkan Data Objektif**: Dalam pengambilan keputusan penting (seperti investasi atau perekrutan), buatlah daftar kriteria objektif sebelum bertemu dengan orangnya.
 
 **Penting: Kesadaran adalah langkah pertama. Hanya dengan mengetahui bahwa "lingkaran cahaya" atau "tanduk" itu ada, kita bisa mulai melihat orang lain dengan lebih objektif, apa adanya.**
 

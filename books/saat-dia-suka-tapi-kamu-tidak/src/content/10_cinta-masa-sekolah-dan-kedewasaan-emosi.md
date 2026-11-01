@@ -22,19 +22,19 @@ Daftar itu menunjukkan bahwa hubungan romantis remaja punya banyak sisi yang lay
 
 Menurut ulasan [Meier dan Allen (2009)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4201847/), yang mengutip data studi *Add Health* tentang remaja di Amerika Serikat, sekitar seperempat anak berusia 12 tahun melaporkan keterlibatan romantis. Pada usia 18 tahun, angkanya hampir 75 persen.
 
-Data ini berasal dari Amerika Serikat, jadi tidak bisa langsung dipindahkan ke sekolah di sekitarmu. Meski begitu, angka itu mengingatkan bahwa dalam data tersebut, keterlibatan romantis di usia sekolah bukan pengalaman segelintir orang. Data itu tidak mengukur perasaan sepihak, tetapi tafsiran buku ini: kalau dulu kamu merasa aneh karena terus memikirkan seseorang, kamu tidak sedang mengalami sesuatu yang ganjil.
+Data ini berasal dari Amerika Serikat, jadi tidak bisa langsung dipindahkan ke sekolah di sekitarmu. Meski begitu, angka itu mengingatkan bahwa dalam data tersebut, keterlibatan romantis di usia sekolah dialami banyak remaja. Data itu tidak mengukur perasaan sepihak. Menurut tafsiran buku ini, kalau dulu kamu merasa aneh karena terus memikirkan seseorang, kamu tidak sedang mengalami sesuatu yang ganjil.
 
 ### Otak Remaja yang Masih Bertumbuh
 
 [Casey dan rekan (2008)](https://doi.org/10.1196/annals.1440.010) menggambarkan masa remaja sebagai masa ketika kepekaan terhadap imbalan (*incentive*) dan suasana sosial-emosional meningkat, sementara kendali atas dorongan hati masih relatif belum matang. Menurut mereka, sistem limbik (*limbic system*) tampak sudah berkembang pada masa remaja, sedangkan sistem kendali berkembang lambat dan bertahap hingga dewasa muda. Korteks prefrontal (*prefrontal cortex*) disebut sebagai salah satu bagian otak yang paling akhir matang.
 
-Namun, para penulis juga memberi peringatan penting. Fungsi korteks prefrontal yang belum matang saja tidak cukup untuk menjelaskan perilaku remaja. Jadi, temuan ini bukan alasan untuk menyalahkan otak atas setiap pilihan di masa sekolah, dan bukan pula vonis bahwa remaja tidak bisa berpikir jernih.
+Namun, para penulis juga memberi peringatan penting. Fungsi korteks prefrontal yang belum matang saja tidak cukup untuk menjelaskan perilaku remaja. Jadi, temuan ini tidak bisa dipakai untuk menyalahkan otak atas setiap pilihan di masa sekolah, dan tidak pula membuktikan bahwa remaja tidak bisa berpikir jernih.
 
 ### Jadwal Tumbuh Otak yang Tidak Serempak
 
 Ulasan [Steinberg (2005)](https://doi.org/10.1016/j.tics.2004.12.005) menyampaikan gagasan yang mirip. Sistem otak, perilaku, dan kognitif matang menurut jadwal yang berbeda-beda. Dalam keterangan gambar artikelnya, celah antarjadwal itu disebut sebagai masa yang diduga (*speculated*) membuat remaja lebih rentan terhadap masalah dalam mengatur perasaan dan perilaku.
 
-Kata kuncinya adalah diduga. Steinberg tidak menyajikannya sebagai kepastian, dan bab ini juga tidak. Kalau dipakai dengan hati-hati, gambaran ini cukup menenangkan: perasaan yang dulu terasa begitu besar muncul di masa ketika banyak hal dalam diri sedang tumbuh dengan kecepatan berbeda.
+Kata kuncinya adalah diduga. Steinberg tidak menyajikannya sebagai kepastian, dan bab ini juga tidak. Kalau dipakai dengan hati-hati, gambaran ini cukup menenangkan, karena perasaan yang dulu terasa begitu besar muncul di masa ketika banyak hal dalam diri sedang tumbuh dengan kecepatan berbeda.
 
 ### Menengok Kembali Kenangan Sekolah
 
@@ -48,12 +48,12 @@ Penelitian di atas tidak menjelaskan satu per satu adegan itu, dan buku ini tida
 
 ### Kedewasaan Emosi yang Tidak Memaksa
 
-Bagian ini bukan temuan penelitian, melainkan ajakan untuk bercermin. Salah satu cara memahami kedewasaan emosi adalah belajar bahwa perasaan, pilihan, dan prioritas tidak bisa dipaksakan kepada siapa pun.
+Bagian ini mengajakmu bercermin. Isinya pandangan buku ini sendiri. Salah satu cara memahami kedewasaan emosi adalah belajar bahwa perasaan, pilihan, dan prioritas tidak bisa dipaksakan kepada siapa pun.
 
 - Perasaanmu nyata dan layak dihargai, tetapi tidak mewajibkan orang lain membalasnya.
 - Pilihan orang lain, termasuk pilihan untuk tidak menyukaimu, adalah haknya.
 - Prioritas tiap orang berbeda. Seseorang bisa sedang memusatkan perhatian pada sekolah, keluarga, atau dirinya sendiri.
-- Hal yang sama berlaku sebaliknya: kamu juga tidak wajib membalas perasaan siapa pun.
+- Begitu pula sebaliknya, kamu juga tidak wajib membalas perasaan siapa pun.
 
 Pelajaran ini jarang datang sekaligus. Bagi sebagian orang, ia baru terasa setelah beberapa kali patah hati atau beberapa kali bingung menolak. Kalau kamu bisa menengok dirimu yang dulu tanpa mengejek, itu sudah termasuk bagian dari proses tumbuh.
 

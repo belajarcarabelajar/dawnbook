@@ -1,6 +1,6 @@
 ## Pengantar Etika Kebajikan
 
-Etika kebajikan menilai moralitas dari karakter orang yang bertindak, sebuah cara pandang yang dasarnya diletakkan oleh Aristoteles. Jika biasanya kita belajar tentang etika sebagai daftar "boleh" dan "tidak boleh", atau "dosa" dan "pahala", maka **Etika Kebajikan (Virtue Ethics)** mengajak kamu melihat ke arah yang berbeda: ke dalam diri kamu sendiri.
+Etika kebajikan menilai moralitas dari karakter orang yang bertindak, sebuah cara pandang yang dasarnya diletakkan oleh Aristoteles. Jika biasanya kita belajar tentang etika sebagai daftar "boleh" dan "tidak boleh", atau "dosa" dan "pahala", maka **Etika Kebajikan (Virtue Ethics)** mengajak kamu melihat ke arah yang berbeda, yaitu ke dalam diri kamu sendiri.
 
 Alih-alih berfokus pada tindakan spesifik atau aturan yang kaku, etika kebajikan menyoroti pentingnya **karakter**. Pertanyaan mendasarnya sudah bergeser dari *"Apa yang harus saya lakukan?"* menjadi *"Orang seperti apakah saya seharusnya?"*
 
@@ -12,9 +12,9 @@ Etika Kebajikan adalah salah satu dari tiga pendekatan besar dalam etika normati
 2. **Utilitarianisme** (Konsekuensialisme) adalah atap yang mengukur hasil akhir.
 3. **Etika Kebajikan** adalah jiwa atau karakter dari orang yang mendiami bangunan tersebut.
 
-Dalam pandangan ini, menjadi orang baik tidak cuma diukur dari seberapa patuh kamu pada hukum. Menjadi baik bermakna memiliki **disposisi batin** (kecenderungan) untuk melakukan hal yang benar, pada waktu yang tepat, dengan cara yang tepat, serta dengan motivasi yang jujur.
+Dalam pandangan ini, ukuran orang baik jauh lebih luas daripada seberapa patuh kamu pada hukum. Menjadi baik bermakna memiliki **disposisi batin** (kecenderungan) untuk melakukan hal yang benar, pada waktu yang tepat, dengan cara yang tepat, serta dengan motivasi yang jujur.
 
-Kalimat "kita adalah apa yang kita kerjakan berulang kali" sering beredar sebagai ucapan Aristoteles. Penulisnya sebenarnya Will Durant, yang meringkas etika Aristoteles dalam *The Story of Philosophy* (1926): keunggulan adalah kebiasaan, bukan satu tindakan.
+Kalimat "kita adalah apa yang kita kerjakan berulang kali" sering beredar sebagai ucapan Aristoteles. Penulisnya sebenarnya Will Durant, yang meringkas etika Aristoteles dalam *The Story of Philosophy* (1926). Dalam ringkasan itu, keunggulan lahir dari kebiasaan yang diulang.
 
 ### Karakter vs. Aturan
 
@@ -58,7 +58,7 @@ Sebaliknya, **Pribadi Berkebajikan** akan menerapkan **Phronesis** (Kebijaksanaa
 
 ### Mengapa Ini Penting bagi Kamu?
 
-Di era modern yang serba terburu-buru, Etika Kebajikan menawarkan sebuah proses bertumbuh, dibanding sekadar menyodorkan jawaban instan.
+Di era modern yang serba terburu-buru, Etika Kebajikan mengajakmu menjalani proses bertumbuh yang tidak bisa diringkas menjadi jawaban instan.
 
 Secara sederhana, gagasan ini dapat digambarkan sebagai berikut:
 

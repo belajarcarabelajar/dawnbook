@@ -24,7 +24,7 @@ Saat Steve Jobs kembali ke Apple pada tahun 1997, langkah pertama yang ia lakuka
 
 Berbeda dengan perusahaan besar lainnya yang menggunakan struktur divisional (berdasarkan produk), Apple menggunakan **struktur fungsional**.
 
-- **Keahlian di atas segalanya:** Para pemimpin divisi wajib menguasai aspek teknis bidang mereka. Sebagai contoh, kepala desain harus merupakan desainer terbaik, tidak hanya bertindak sebagai administrator.
+- **Keahlian di atas segalanya:** Para pemimpin divisi wajib menguasai aspek teknis bidang mereka. Sebagai contoh, kepala desain harus merupakan desainer terbaik.
 - **Kolaborasi lintas fungsi:** Tim-tim kecil dibentuk dengan fokus spesifik guna menjaga kerahasiaan sekaligus mempercepat pengembangan produk.
 
 ### C. Actuating lewat Kepemimpinan dan Komunikasi
@@ -103,7 +103,7 @@ Sebagai contoh rekaan, target penjualan 1.000 unit dan yang sudah terjual 850 un
 
 ## Fungsi POAC Saling Bergantung
 
-Dari Apple dan Gojek, kita belajar bahwa POAC bukanlah proses yang sekali jadi.
+Dari Apple dan Gojek, kita belajar bahwa POAC adalah proses yang dijalankan terus-menerus.
 
 - **Planning** memberikan peta.
 - **Organizing** memberikan kendaraan.
@@ -112,4 +112,4 @@ Dari Apple dan Gojek, kita belajar bahwa POAC bukanlah proses yang sekali jadi.
 
 Kegagalan dalam satu fungsi akan melumpuhkan fungsi lainnya. Jika rencana bagus (*Planning*) tapi pengorganisasian buruk (*Organizing*), maka sumber daya akan terbuang percuma. Jika pengawasan lemah (*Controlling*), perusahaan bisa bangkrut tanpa menyadari di mana letak kesalahannya.
 
-> **Insight Penting:** Kesuksesan organisasi ditentukan oleh kedisiplinan dalam menjalankan siklus POAC secara konsisten, bukan hanya bersandar pada kehebatan ide awal.
+> **Insight Penting:** Ide awal yang hebat baru berbuah kesuksesan ketika organisasi disiplin menjalankan siklus POAC secara konsisten.

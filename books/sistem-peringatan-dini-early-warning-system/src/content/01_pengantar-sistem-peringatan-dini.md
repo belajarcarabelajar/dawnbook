@@ -1,10 +1,10 @@
 ## Pengantar Sistem Peringatan Dini
 
-Sistem peringatan dini adalah rangkaian kemampuan yang membantu kamu mengenali ancaman sebelum dampak meluas dan mengambil keputusan cepat. Tujuannya adalah menyelamatkan nyawa. Di Indonesia, pemahaman tentang sistem peringatan dini bukan pilihan tambahan, melainkan kebutuhan harian, karena posisi negara berada di pertemuan tiga lempeng tektonik dan di dalam Cincin Api Pasifik. Dari gempa bumi, tsunami, erupsi gunung api, banjir, longsor, sampai kekeringan, hampir semua jenis bencana dapat terjadi di sini.
+Sistem peringatan dini adalah rangkaian kemampuan yang membantu kamu mengenali ancaman sebelum dampak meluas dan mengambil keputusan cepat. Tujuannya adalah menyelamatkan nyawa. Di Indonesia, pemahaman tentang sistem peringatan dini adalah kebutuhan harian, karena posisi negara berada di pertemuan tiga lempeng tektonik dan di dalam Cincin Api Pasifik. Dari gempa bumi, tsunami, erupsi gunung api, banjir, longsor, sampai kekeringan, hampir semua jenis bencana dapat terjadi di sini.
 
-Pertanyaan yang sering muncul: *apa itu sistem peringatan dini dan apa bedanya dengan prakiraan cuaca?* Prakiraan memberi tahu apa yang mungkin terjadi, sementara sistem peringatan dini menghubungkan prakiraan dengan tindakan nyata. Ia memadukan pemantauan, analisis, komunikasi, dan kesiapsiagaan dalam satu alur yang teruji.
+Pertanyaan yang sering muncul adalah *apa itu sistem peringatan dini dan apa bedanya dengan prakiraan cuaca?* Prakiraan memberi tahu apa yang mungkin terjadi, sementara sistem peringatan dini menghubungkan prakiraan dengan tindakan nyata. Ia memadukan pemantauan, analisis, komunikasi, dan kesiapsiagaan dalam satu alur yang teruji.
 
-> Sistem peringatan dini yang efektif bukan tentang teknologi paling mahal, melainkan tentang orang terakhir di desa yang menerima info tepat waktu dan tahu apa yang harus dilakukan.
+> Sistem peringatan dini yang efektif diukur dari orang terakhir di desa yang menerima info tepat waktu dan tahu apa yang harus dilakukan, berapa pun harga teknologinya.
 
 Buku ini membantu kamu melihat gambaran besar tersebut tanpa jargon berlebih, mulai dari cara kerja peringatan sampai contoh penerapan di Indonesia.
 
@@ -53,7 +53,7 @@ Maknanya praktis. Kamu tidak selalu dapat mengecilkan ancaman, tetapi dapat menu
 
 ### Waktu Respons Penentu Keselamatan
 
-Kegagalan peringatan sering bukan karena data tidak ada, melainkan waktu respons tidak cukup. Waktu respons terdiri atas deteksi, diseminasi, dan reaksi. Hubungannya dapat ditulis sebagai berikut:
+Peringatan sering gagal karena waktu respons tidak cukup, walaupun datanya sudah ada. Waktu respons terdiri atas deteksi, diseminasi, dan reaksi. Hubungannya dapat ditulis sebagai berikut:
 
 <div>
 $$
@@ -61,7 +61,7 @@ T_{\text{respon}} = T_{\text{deteksi}} + T_{\text{diseminasi}} + T_{\text{reaksi
 $$
 </div>
 
-Jika satu komponen membengkak, total waktu melewati jendela aman. Deteksi cepat tidak berguna bila diseminasi macet karena jaringan padat, atau warga ragu akibat peringatan palsu sebelumnya. Perbaikan sering bukan menambah sensor, melainkan memangkas \\( T_{\text{diseminasi}} \\) dengan jalur redundan dan memangkas \\( T_{\text{reaksi}} \\) dengan latihan.
+Jika satu komponen membengkak, total waktu melewati jendela aman. Deteksi cepat tidak berguna bila diseminasi macet karena jaringan padat, atau warga ragu akibat peringatan palsu sebelumnya. Sering kali perbaikannya cukup dengan memangkas \\( T_{\text{diseminasi}} \\) lewat jalur redundan dan memangkas \\( T_{\text{reaksi}} \\) lewat latihan, tanpa menambah sensor.
 
 | Jenis Ancaman | Sensor Utama | Waktu Rambat Khas | Saluran Diseminasi yang Sering Dipakai |
 |---|---|---|---|
@@ -74,7 +74,7 @@ Ancaman cepat butuh pesan pendek dan imperatif, ancaman lambat dapat memuat peta
 
 ### Tujuan Buku Ini untuk Kamu
 
-Buku ini tidak mencetak kamu menjadi teknisi sensor. Tujuannya praktis: membantu kamu membaca sistem peringatan dini sebagai warga, relawan, guru, atau pengambil keputusan di kelurahan.
+Tujuan buku ini praktis, yaitu membantu kamu membaca sistem peringatan dini sebagai warga, relawan, guru, atau pengambil keputusan di kelurahan.
 
 1. Memberi kerangka utuh dari pemantauan sampai evakuasi, supaya kamu dapat menilai kelengkapan sistem di lingkungan kamu.
 2. Mengenalkan teknologi pemantauan dan pemodelan dengan bahasa membumi, termasuk batasannya.

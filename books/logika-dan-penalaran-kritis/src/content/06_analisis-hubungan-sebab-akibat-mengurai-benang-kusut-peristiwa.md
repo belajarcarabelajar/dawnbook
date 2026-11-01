@@ -9,7 +9,7 @@ Memahami kausalitas (hubungan sebab-akibat) secara tepat menjadi dasar untuk men
 Langkah awal untuk melatih ketajaman berpikir adalah memisahkan antara **korelasi** dan **kausalitas**. Dua konsep ini sering disamakan, padahal maknanya berbeda:
 
 * **Korelasi** merujuk pada hubungan statistik ketika dua variabel cenderung bergerak bersamaan. Misalnya, jika variabel $A$ meningkat, variabel $B$ juga ikut naik (korelasi positif), atau sebaliknya (korelasi negatif). Namun, gerakan bersama ini tidak menjamin adanya hubungan sebab-akibat.
-* **Kausalitas**, di sisi lain, menuntut adanya hubungan nyata, baik langsung maupun melalui perantara: satu peristiwa (sebab) memicu peristiwa lain (akibat).
+* **Kausalitas**, di sisi lain, menuntut hubungan nyata ketika satu peristiwa (sebab) memicu peristiwa lain (akibat), baik secara langsung maupun melalui perantara.
 
 > **Analogi Sederhana:** Bayangkan kamu membaca data bahwa kebakaran yang didatangi banyak petugas pemadam selalu disertai kerugian material yang tinggi. Apakah itu berarti keberadaan petugas pemadam memicu kerugian? Jelas tidak. Keduanya tampak berhubungan karena dipengaruhi oleh variabel ketiga (*confounding variable*), yaitu **skala kebakaran**. Kebakaran hebat pasti membutuhkan lebih banyak petugas sekaligus melahirkan kerugian yang lebih besar.
 
@@ -58,7 +58,7 @@ Jika kamu hanya mengganti sekring tanpa membenahi jadwal pemeliharaan berkala, m
 
 ### B. Feedback Loop (Lingkar Umpan Balik)
 
-Ada kalanya hubungan bersifat melingkar: $A$ memicu $B$, lalu $B$ berbalik memperkuat $A$. Contoh klasik dalam ekonomi makro: 
+Ada kalanya hubungan bersifat melingkar, ketika $A$ memicu $B$, lalu $B$ berbalik memperkuat $A$. Contoh klasik dalam ekonomi makro: 
 
 <div>
 $$
@@ -93,7 +93,7 @@ Dalam menarik kesimpulan, ada beberapa kesalahan berpikir (*logical fallacies*) 
 * **Reverse Causality (Kausalitas Terbalik):** Kesalahan ketika kita mengira $A \rightarrow B$, padahal arah aslinya adalah $B \rightarrow A$.
   Sebagai contoh, apakah seseorang menjadi optimis karena ia sukses, atau justru sikap optimis itulah yang membawanya menuju kesuksesan?
 * **The Third Variable Problem:** Kondisi ketika ada faktor ketiga (variabel tersembunyi) yang mengendalikan kedua variabel utama.
-  Misalnya, statistik menunjukkan lonjakan penjualan es krim berjalan beriringan dengan naiknya frekuensi serangan hiu di pantai. Faktor sebenarnya bukanlah es krim yang mengundang hiu, melainkan musim panas: suhu yang terik mendorong orang membeli es krim sekaligus menarik minat mereka untuk berenang di laut.
+  Misalnya, statistik menunjukkan lonjakan penjualan es krim berjalan beriringan dengan naiknya frekuensi serangan hiu di pantai. Es krim tidak mengundang hiu. Faktor sebenarnya adalah musim panas, karena suhu yang terik mendorong orang membeli es krim sekaligus menarik minat mereka untuk berenang di laut.
 * **Post Hoc Ergo Propter Hoc:** Asumsi keliru bahwa karena peristiwa $X$ terjadi setelah peristiwa $Y$, maka $Y$ pasti merupakan penyebab dari $X$. Hubungan berurutan secara waktu tidak otomatis berarti hubungan sebab-akibat.
 
 ## 5. Skenario Aplikasi Praktis
@@ -102,7 +102,7 @@ Dalam menarik kesimpulan, ada beberapa kesalahan berpikir (*logical fallacies*) 
 
 Dalam dunia rekayasa perangkat lunak, seorang *engineer* sering memanfaatkan metode **"The 5 Whys"** untuk melacak akar masalah (*root cause*) dari kegagalan sistem. Dalam pelacakan itu, ia tetap harus memisahkan korelasi dari sebab yang terbukti.
 
-Misalnya, sebuah server selalu mati setiap pukul 00.00, dan pada jam yang sama pembaruan (*update*) otomatis juga berjalan. Sejauh ini, yang ditemukan baru korelasi. Dari sana, *engineer* menyusun hipotesis kausal: pembaruan otomatis memakan memori terlalu besar (sebab) sehingga server *crash* (akibat). Hipotesis itu baru menguat jika catatan galat (*error log*) memuat pesan bahwa batas memori terlampaui. Jika pesan itu ada, akar masalahnya kemungkinan besar ditemukan dan proses pembaruannya perlu dioptimalkan. Jika tidak ada, yang tersisa hanyalah korelasi, sedangkan hubungan sebab-akibatnya belum terkonfirmasi.
+Misalnya, sebuah server selalu mati setiap pukul 00.00, dan pada jam yang sama pembaruan (*update*) otomatis juga berjalan. Sejauh ini, yang ditemukan baru korelasi. Dari sana, *engineer* menyusun hipotesis kausal bahwa pembaruan otomatis memakan memori terlalu besar (sebab) sehingga server *crash* (akibat). Hipotesis itu baru menguat jika catatan galat (*error log*) memuat pesan bahwa batas memori terlampaui. Jika pesan itu ada, akar masalahnya kemungkinan besar ditemukan dan proses pembaruannya perlu dioptimalkan. Jika tidak ada, yang tersisa hanyalah korelasi, sedangkan hubungan sebab-akibatnya belum terkonfirmasi.
 
 ### Formulasi Kebijakan Publik
 
@@ -114,7 +114,7 @@ Saat kamu mengevaluasi suatu klaim atau peristiwa, gunakan panduan berikut untuk
 
 1. **Evaluasi kemungkinan kebetulan:** Periksa apakah hubungan tersebut didukung oleh data statistik yang memadai atau sekadar kejadian acak yang terjadi bersamaan.
 2. **Identifikasi variabel ketiga:** Selidiki apakah ada faktor eksternal tersembunyi yang menjadi pemicu sesungguhnya bagi kedua variabel.
-3. **Validasi urutan temporal:** Pastikan kembali variabel sebab terjadi mendahului akibat, bukan sebaliknya.
+3. **Validasi urutan temporal:** Pastikan kembali variabel sebab benar-benar terjadi lebih dulu daripada akibatnya.
 4. **Gunakan Analisis Kontrafaktual (*Counterfactual*):** Tanyakan pada diri sendiri, "Jika $A$ tidak pernah terjadi, apakah $B$ akan tetap muncul?" Apabila jawabannya ya, kemungkinan besar $A$ bukan penyebab utama dari $B$.
 
 Mengetahui *apa* yang terjadi membekali kita dengan informasi. Mengetahui *mengapa* hal itu terjadi memberi kita pengetahuan. Namun, untuk bernalar kritis, kamu perlu membedakan dengan jeli mana penyebab nyata dan mana korelasi semu.

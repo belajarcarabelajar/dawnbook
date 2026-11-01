@@ -1,6 +1,6 @@
 ## Logika Deduktif vs Induktif
 
-Sherlock Holmes sering berkata: setelah kamu menyingkirkan hal-hal yang mustahil, apa pun yang tersisa, betapapun tidak mungkinnya, pastilah kebenaran. Kalimat ini adalah intisari dari penalaran logika. Namun, dalam kehidupan sehari-hari, kita tidak selalu berurusan dengan kepastian mutlak; sering kali kita berhadapan dengan kemungkinan.
+Sherlock Holmes sering berkata, setelah kamu menyingkirkan hal-hal yang mustahil, apa pun yang tersisa, betapapun tidak mungkinnya, pastilah kebenaran. Kalimat ini adalah intisari dari penalaran logika. Namun, dalam kehidupan sehari-hari, kita tidak selalu berurusan dengan kepastian mutlak; sering kali kita berhadapan dengan kemungkinan.
 
 Di sinilah peran penting memahami perbedaan antara **Logika Deduktif** dan **Logika Induktif**. Memahami keduanya membantu kamu membangun argumen yang kokoh dan membuat keputusan yang tepat.
 
@@ -48,10 +48,10 @@ Berbeda dengan deduksi, penalaran induktif adalah pendekatan **"Bottom-Up"** (da
 
 ### Karakteristik Utama
 
-Kesimpulan dalam penalaran induktif tidak pernah bersifat mutlak 100%. Sebaliknya, ia bersifat **probabilistik** (berdasarkan peluang). Kita berbicara tentang seberapa "kuat" atau "lemah" sebuah argumen, bukan benar atau salah secara mutlak.
+Kesimpulan dalam penalaran induktif tidak pernah bersifat mutlak 100%. Sebaliknya, ia bersifat **probabilistik** (berdasarkan peluang). Karena itu, argumen induktif dinilai dari seberapa "kuat" atau "lemah" ia.
 
 > **Analogi Ramalan Cuaca**
-> Kamu melihat awan mendung gelap (Observasi 1), merasakan angin kencang (Observasi 2), dan melihat aplikasi cuaca menunjukkan kelembapan tinggi (Observasi 3). Kamu menyimpulkan: "Kemungkinan besar akan hujan." Ini adalah induksi. Apakah pasti hujan? Tidak selalu, tapi sangat mungkin.
+> Kamu melihat awan mendung gelap (Observasi 1), merasakan angin kencang (Observasi 2), dan melihat aplikasi cuaca menunjukkan kelembapan tinggi (Observasi 3). Dari situ kamu menyimpulkan bahwa kemungkinan besar akan hujan. Ini adalah induksi. Apakah pasti hujan? Belum tentu, walau peluangnya besar.
 
 ### Jenis-Jenis Induksi
 
@@ -80,7 +80,7 @@ Dalam dunia teknik dan sains, kedua logika ini digunakan secara bergantian dalam
 Seorang Software Engineer menggunakan kedua logika ini untuk memperbaiki *bug*:
 
 1. **Proses Induktif (Menemukan Pola)**
-   Kamu mengamati perilaku sistem: *"Setiap kali pengguna mengklik tombol 'Simpan' saat koneksi internet lambat, aplikasi crash. Saya sudah mencoba lima kali dan polanya selalu sama."* Dari pengamatan ini, kamu menarik hipotesis induktif bahwa masalahnya terletak pada penanganan timeout koneksi.
+   Kamu mengamati perilaku sistem dan mencatat, *"Setiap kali pengguna mengklik tombol 'Simpan' saat koneksi internet lambat, aplikasi crash. Saya sudah mencoba lima kali dan polanya selalu sama."* Dari pengamatan ini, kamu menarik hipotesis induktif bahwa masalahnya terletak pada penanganan timeout koneksi.
    
 2. **Proses Deduktif (Menguji Hipotesis)**
    Setelah menemukan pola tersebut, kamu menyusun premis deduktif untuk memvalidasi masalah:
@@ -93,7 +93,7 @@ Seorang Software Engineer menggunakan kedua logika ini untuk memperbaiki *bug*:
 Saat memeriksa hak akses, sebuah aplikasi juga menarik kesimpulan deduktif dari satu aturan umum dan data penggunanya. Misalnya, Budi masuk dengan peran editor:
 
 - **Premis Mayor**: Hanya pengguna berperan admin yang mendapat akses.
-- **Premis Minor**: Budi berperan editor, bukan admin.
+- **Premis Minor**: Budi berperan editor, dan editor tidak termasuk admin.
 - **Konklusi**: Jadi, akses Budi ditolak.
 
 ## 5\. Kekuatan dan Keterbatasan
@@ -102,10 +102,10 @@ Setiap metode penalaran memiliki keunggulan dan batasannya masing-masing dalam m
 
 ### Deduksi
 
-Metode deduktif kuat karena menawarkan kepastian, sehingga menjadi dasar matematika dan logika formal. Namun, ia memiliki keterbatasan: deduksi tidak menghasilkan pengetahuan baru, melainkan hanya mengungkap apa yang sudah tersirat di dalam premis-premisnya. Jika premis awalmu salah, kesimpulannya tidak lagi terjamin benar.
+Metode deduktif kuat karena menawarkan kepastian, sehingga menjadi dasar matematika dan logika formal. Kelemahannya, deduksi tidak menghasilkan pengetahuan baru. Ia hanya mengungkap apa yang sudah tersirat di dalam premis-premisnya. Jika premis awalmu salah, kesimpulannya tidak lagi terjamin benar.
 
 ### Induksi
 
 Di sisi lain, kelebihan utama penalaran induktif adalah kemampuannya membantu kita belajar dari pengalaman praktis dan membuat prediksi tentang masa depan, yang menjadi dasar riset ilmiah serta algoritma *machine learning*. Keterbatasannya terletak pada ketiadaan kepastian mutlak, karena selalu ada risiko fenomena *Black Swan* (Angsa Hitam). Kamu bisa saja mengamati ribuan angsa berwarna putih dan menyimpulkan bahwa semua angsa di dunia berwarna putih, sampai suatu hari seekor angsa hitam muncul dan membatalkan seluruh generalisasimu.
 
-Dalam kehidupan sehari-hari, sebagian besar keputusan kita diambil menggunakan logika induktif. Ketika melangkah keluar rumah atau memilih rute jalan, kita sering kali mengandalkan probabilitas berdasarkan pengalaman masa lalu, alih-alih kepastian mutlak.
+Dalam kehidupan sehari-hari, sebagian besar keputusan kita diambil menggunakan logika induktif. Ketika melangkah keluar rumah atau memilih rute jalan, kita sering kali mengandalkan probabilitas berdasarkan pengalaman masa lalu tanpa memegang kepastian mutlak.

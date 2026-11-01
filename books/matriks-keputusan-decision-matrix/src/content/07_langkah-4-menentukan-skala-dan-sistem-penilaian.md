@@ -55,7 +55,7 @@ Mari kita lihat contoh penerapan rubrik penilaian ketika kamu memilih laptop bar
 | **5** | Sangat Baik | Tahan lebih dari 12 jam |
 
 > [!IMPORTANT]
-> Pastikan arah penilaian selalu konsisten: **skor yang lebih tinggi harus selalu merepresentasikan kondisi yang lebih baik**. 
+> Pastikan arah penilaian selalu konsisten. **Skor yang lebih tinggi harus selalu merepresentasikan kondisi yang lebih baik**. 
 > 
 > Sebagai contoh, pada kriteria "Biaya", harga yang mahal tentu berdampak buruk bagi keuanganmu. Oleh karena itu, harga yang paling murah harus mendapatkan skor 5, sedangkan harga yang paling mahal mendapatkan skor 1.
 

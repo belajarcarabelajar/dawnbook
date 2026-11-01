@@ -10,7 +10,7 @@ Apakah ditolak benar-benar terasa sakit, atau itu hanya kiasan? Pertanyaan itu m
 
 Hasilnya, bagian otak bernama *anterior cingulate cortex* (korteks singulat anterior) lebih aktif saat peserta dikucilkan dibandingkan saat diikutsertakan. Makin aktif bagian itu, makin tinggi rasa tertekan yang dilaporkan peserta sendiri. Sebaliknya, aktivitas *right ventral prefrontal cortex* (korteks prefrontal ventral kanan) berhubungan dengan rasa tertekan yang lebih rendah.
 
-Penelitian ini memakai permainan sederhana, bukan kisah cinta, jadi ia tidak menakar seberapa sakit ditolak gebetan. Namun ia memberi alasan untuk tidak menertawakan orang yang bilang "sakit" setelah diabaikan. Rasa itu tidak bisa diremehkan begitu saja.
+Penelitian ini memakai permainan sederhana, jadi ia tidak menakar seberapa sakit ditolak gebetan. Namun ia memberi alasan untuk tidak menertawakan orang yang bilang "sakit" setelah diabaikan. Rasa itu tidak bisa diremehkan begitu saja.
 
 ### Empat Kebutuhan yang Terguncang
 
@@ -35,7 +35,7 @@ Williams dan Nida juga membagi pengalaman dikucilkan ke dalam tiga tahap:
 
 Siapa yang mengucilkan dan apa alasannya hanya sedikit berpengaruh pada rasa sakit di tahap segera. Siapa dan mengapa baru lebih berperan di tahap menimbang. Jadi wajar kalau kamu tetap merasa perih walaupun kamu tahu dia punya alasan yang masuk akal.
 
-Bagaimana dengan tahap ketiga? Dalam tulisan sebelumnya, [Williams (2009)](https://doi.org/10.1016/S0065-2601(08)00406-1) menulis bahwa paparan pengucilan yang berkepanjangan pada akhirnya mengarah pada rasa pasrah, keterasingan, ketidakberdayaan, dan depresi. Ini bukan ramalan untuk setiap orang yang pernah ditolak, melainkan catatan bahwa diabaikan terus-menerus dalam waktu lama bukan perkara kecil.
+Bagaimana dengan tahap ketiga? Dalam tulisan sebelumnya, [Williams (2009)](https://doi.org/10.1016/S0065-2601(08)00406-1) menulis bahwa paparan pengucilan yang berkepanjangan pada akhirnya mengarah pada rasa pasrah, keterasingan, ketidakberdayaan, dan depresi. Tulisan itu tidak meramalkan nasib setiap orang yang pernah ditolak. Ia mengingatkan bahwa diabaikan terus-menerus dalam waktu lama adalah perkara serius.
 
 Kalau dirangkum dalam satu gambar, perjalanan dari tahap segera sampai tahap jangka panjang terlihat seperti ini.
 
@@ -57,11 +57,11 @@ Penelitian [Baumeister, Wotman, dan Stillwell (1993)](https://doi.org/10.1037/00
 
 Mereka juga menyusun cerita tentang apa yang terjadi, dan cerita itu disusun untuk membangun kembali harga diri. Di mata mereka, orang yang menolak tampak tidak konsisten dan misterius. Tambahkan temuan di bab 7 tentang penolakan yang terasa tidak pernah disampaikan dengan tegas, dan kamu bisa membayangkan berapa banyak pertanyaan yang tersisa di sisi ini.
 
-Pemahaman ini berguna dari dua arah. Kalau kamu yang menolak, kamu jadi tahu bahwa sikap yang menurutmu wajar bisa terbaca membingungkan dari seberang. Kalau kamu yang pernah berharap, kamu boleh mengakui bahwa ceritamu sendiri mungkin ikut disusun untuk melindungi harga diri. Itu manusiawi, bukan aib.
+Pemahaman ini berguna dari dua arah. Kalau kamu yang menolak, kamu jadi tahu bahwa sikap yang menurutmu wajar bisa terbaca membingungkan dari seberang. Kalau kamu yang pernah berharap, kamu boleh mengakui bahwa ceritamu sendiri mungkin ikut disusun untuk melindungi harga diri. Hal itu manusiawi dan tidak perlu membuatmu malu.
 
 ### Langkah Mundur yang Menjaga Harga Diri
 
-Bagian ini saran buku ini, bukan temuan Williams dan Nida. Karena yang terguncang adalah empat kebutuhan tadi, tahap menimbang bisa kamu pakai untuk menguatkannya lagi. Beberapa pegangan yang bisa kamu coba:
+Saran di bagian ini datang dari buku ini sendiri, di luar temuan Williams dan Nida. Karena yang terguncang adalah empat kebutuhan tadi, tahap menimbang bisa kamu pakai untuk menguatkannya lagi. Beberapa pegangan yang bisa kamu coba:
 
 - **Hormati pilihannya.** Perasaanmu nyata, dan keputusannya juga nyata. Tidak membalas perasaan adalah hak dia, sama seperti menyukai adalah hakmu.
 - **Mundur ketika balasan berhenti.** Kalau pesan-pesanmu tidak lagi dijawab, berhentilah mengirim. Keputusan untuk berhenti ada di tanganmu, dan itu cara kecil untuk mengambil kembali rasa kendali.
@@ -69,12 +69,12 @@ Bagian ini saran buku ini, bukan temuan Williams dan Nida. Karena yang terguncan
 - **Isi lagi harga dirimu.** Kemampuan, minat, dan kebaikan yang kamu tunjukkan kepada orang lain tetap milikmu, apa pun jawabannya.
 - **Beri arti pada hari-harimu.** Kegiatan kecil yang bermakna bagimu membuat hari tidak habis untuk menunggu.
 
-Langkah-langkah ini bukan resep yang menjamin rasa sakit hilang dalam waktu tertentu. Kalau rasa berat itu bertahan lama dan mulai mengganggu keseharianmu, bercerita kepada orang yang kamu percaya atau kepada tenaga profesional adalah langkah yang wajar.
+Langkah-langkah ini tidak menjamin rasa sakit hilang dalam waktu tertentu. Kalau rasa berat itu bertahan lama dan mulai mengganggu keseharianmu, bercerita kepada orang yang kamu percaya atau kepada tenaga profesional adalah langkah yang wajar.
 
 ### Recap
 
 - Menurut Williams dan Nida, pada tahap awal pengucilan mengancam empat kebutuhan, yaitu rasa memiliki, harga diri, kendali, dan keberadaan yang bermakna.
-- Tahapnya ada tiga, yaitu segera, menimbang, dan jangka panjang. Konteks lebih berperan di tahap menimbang, dan paparan yang berkepanjangan dapat mengarah pada rasa pasrah, walau itu bukan ramalan untuk setiap orang.
+- Tahapnya ada tiga, yaitu segera, menimbang, dan jangka panjang. Konteks lebih berperan di tahap menimbang, dan paparan yang berkepanjangan dapat mengarah pada rasa pasrah, walau hal itu tidak berlaku sebagai ramalan untuk setiap orang.
 - Menghormati pilihannya, mundur ketika balasan berhenti, serta membangun lagi rasa memiliki dan harga diri di tempat lain adalah langkah yang bisa kamu ambil.
 
-Perasaan seperti ini tidak hanya muncul di usia dewasa. Kadang ia sudah hadir di masa seragam sekolah, ketika naksir seseorang bisa terasa sebagai hal yang paling penting.
+Perasaan seperti ini bisa muncul jauh sebelum usia dewasa. Kadang ia sudah hadir di masa seragam sekolah, ketika naksir seseorang bisa terasa sebagai hal yang paling penting.

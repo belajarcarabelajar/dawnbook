@@ -17,7 +17,7 @@ Kata "Monopoli" berasal dari bahasa Yunani, *monos* (satu) dan *polein* (menjual
 
 ## 2. Mengapa Monopoli Bisa Terbentuk?
 
-Monopoli tidak muncul secara kebetulan. Ada penyebab struktural mengapa satu perusahaan dapat mendominasi tanpa gangguan pesaing. Penyebab ini dibagi menjadi dua kategori besar:
+Setiap monopoli punya penyebab struktural yang membuat satu perusahaan dapat mendominasi tanpa gangguan pesaing. Penyebab ini dibagi menjadi dua kategori besar:
 
 ### A. Monopoli Alami (*Natural Monopoly*)
 
@@ -78,7 +78,7 @@ dengan $P$ sebagai harga jual dan $Q$ sebagai jumlah barang yang terjual.
 | 60 | 50 | 3.000 | 1.500 | 1.500 |
 | 40 | 70 | 2.800 | 2.100 | 700 |
 
-Laba tertinggi, yaitu 1.500, justru muncul pada harga 60, bukan pada harga tertinggi 100. Perlu diingat, tabel ini hanya membandingkan empat pilihan. Titik yang benar-benar optimal tetap ditemukan lewat syarat $\text{MR} = \text{MC}$.
+Laba tertinggi, yaitu 1.500, muncul pada harga 60. Harga tertinggi 100 hanya menghasilkan laba 700. Perlu diingat, tabel ini hanya membandingkan empat pilihan. Titik yang benar-benar optimal tetap ditemukan lewat syarat $\text{MR} = \text{MC}$.
 
 ## 5. PLN dan Inovasi Farmasi
 

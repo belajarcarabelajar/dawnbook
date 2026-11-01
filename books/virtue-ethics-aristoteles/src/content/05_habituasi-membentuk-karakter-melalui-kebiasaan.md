@@ -10,13 +10,13 @@ Gagasan habituasi berpangkal pada kata Yunani *ethos* (kebiasaan), yang menurut 
 
 > "Kita adalah apa yang kita lakukan berulang kali. Oleh karena itu, keunggulan bukanlah sebuah tindakan, melainkan sebuah kebiasaan." - **Will Durant**, *The Story of Philosophy* (1926)
 
-Kalimat di atas bukan tulisan Aristoteles, melainkan rangkuman Durant atas Buku II *Nicomachean Ethics*, tempat Aristoteles menjelaskan bahwa keutamaan terbentuk lewat tindakan yang dibiasakan.
+Kalimat di atas adalah rangkuman Durant atas Buku II *Nicomachean Ethics*, tempat Aristoteles menjelaskan bahwa keutamaan terbentuk lewat tindakan yang dibiasakan. Aristoteles sendiri tidak menulis kalimat itu.
 
 Dalam konteks etika, habituasi adalah proses melakukan tindakan-tindakan baik secara konsisten sehingga tindakan tersebut menjadi bagian dari identitas kita.
 
 ### Perbedaan Kebiasaan Mekanis vs. Kebiasaan Moral
 
-Kita perlu membedakan kebiasaan mekanis, seperti mengikat tali sepatu, dengan kebiasaan moral. Kebiasaan mekanis dilakukan tanpa berpikir panjang dan tidak melibatkan emosi atau kecerdasan secara mendalam. Sebaliknya, habituasi moral membutuhkan kesadaran, pilihan yang disengaja, serta perasaan yang selaras. Kita tidak asal "terbiasa" jujur. Kita terus-menerus "memilih" untuk jujur sampai nilai tersebut mengakar menjadi karakter utama kita.
+Kita perlu membedakan kebiasaan mekanis, seperti mengikat tali sepatu, dengan kebiasaan moral. Kebiasaan mekanis dilakukan tanpa berpikir panjang dan tidak melibatkan emosi atau kecerdasan secara mendalam. Sebaliknya, habituasi moral membutuhkan kesadaran, pilihan yang disengaja, serta perasaan yang selaras. Kejujuran tumbuh karena kita terus-menerus "memilih" untuk jujur sampai nilai tersebut mengakar menjadi karakter utama kita.
 
 ## 2\. Dari Tindakan Menuju Hexis (Disposisi Karakter)
 
@@ -81,4 +81,4 @@ Pembentukan karakter tentu memiliki rintangan. Ada resistensi awal ketika melaku
 
 ## Karakter Terbentuk dari Pilihan Kecil
 
-Habituasi berfungsi sebagai jembatan yang menghubungkan sekadar **mengetahui** apa yang baik dengan **menjadi** orang baik seutuhnya. Karakter bukanlah bawaan yang sudah jadi sejak kita lahir. Karakter adalah karya pahatan yang kita ukir setiap hari melalui rentetan pilihan-pilihan kecil yang konsisten.
+Habituasi berfungsi sebagai jembatan yang menghubungkan sekadar **mengetahui** apa yang baik dengan **menjadi** orang baik seutuhnya. Karakter adalah karya pahatan yang kita ukir setiap hari melalui rentetan pilihan-pilihan kecil yang konsisten.

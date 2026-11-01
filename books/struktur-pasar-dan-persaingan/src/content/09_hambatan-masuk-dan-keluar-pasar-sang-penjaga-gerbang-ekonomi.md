@@ -67,8 +67,8 @@ Banyak orang mengira keluar dari pasar itu mudah (tinggal tutup toko). Namun, da
 
 Guna memperjelas gambaran, bayangkan dua skenario berikut:
 
-- **Pasar Persaingan Sempurna** ibarat **Pasar Tradisional**: Siapa pun bisa menggelar dagangan dengan modal kecil (hambatan masuk rendah) dan bebas pergi kapan saja bila jualan tidak laku (hambatan keluar rendah).
-- **Pasar Berhambatan Tinggi** ibarat **Laboratorium Nuklir**: Kamu membutuhkan izin khusus, investasi besar, serta sertifikasi keahlian untuk bisa masuk (hambatan masuk tinggi). Saat ingin keluar pun, kamu tidak bisa asal menutup pintu karena pembersihan limbah radioaktif memerlukan biaya sangat besar (hambatan keluar tinggi).
+- **Pasar Persaingan Sempurna** ibarat **Pasar Tradisional**. Siapa pun bisa menggelar dagangan dengan modal kecil (hambatan masuk rendah) dan bebas pergi kapan saja bila jualan tidak laku (hambatan keluar rendah).
+- **Pasar Berhambatan Tinggi** ibarat **Laboratorium Nuklir**, tempat kamu membutuhkan izin khusus, investasi besar, serta sertifikasi keahlian untuk bisa masuk (hambatan masuk tinggi). Saat ingin keluar pun, kamu tidak bisa asal menutup pintu karena pembersihan limbah radioaktif memerlukan biaya sangat besar (hambatan keluar tinggi).
 
 ## 5. Hambatan Pasar pada Industri Farmasi
 

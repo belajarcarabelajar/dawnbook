@@ -1,6 +1,6 @@
 ## Dasar-Dasar Berpikir Kritis
 
-Langkah pertama untuk mengasah ketajaman pikiran kamu adalah memahami apa sebenarnya berpikir kritis itu dan mengapa ia penting. Di era ketika informasi mengalir lebih cepat daripada kemampuan kita untuk memprosesnya, berpikir kritis bukan lagi sekadar keterampilan akademik, melainkan sebuah **mekanisme pertahanan diri**.
+Langkah pertama untuk mengasah ketajaman pikiran kamu adalah memahami apa sebenarnya berpikir kritis itu dan mengapa ia penting. Di era ketika informasi mengalir lebih cepat daripada kemampuan kita untuk memprosesnya, berpikir kritis sudah menjadi **mekanisme pertahanan diri**.
 
 ## Apa Itu Berpikir Kritis?
 
@@ -15,7 +15,7 @@ Berpikir kritis adalah proses intelektual yang aktif dan disiplin untuk mengonse
 Bayangkan pikiran kamu adalah seorang penambang emas. Setiap hari, arus informasi dari internet, berita, hingga percakapan sehari-hari membawa tumpukan pasir dan lumpur ke hadapan kamu.
 
 - **Berpikir Biasa:** Menerima seluruh tumpukan lumpur dan menyimpannya di dalam gudang pikiran tanpa menyaringnya.
-- **Berpikir Kritis:** Menggunakan "ayakan" untuk memisahkan lumpur tidak berguna dari butiran emas berharga. Kamu tidak menolak semua informasi, tetapi juga tidak menerima apa pun begitu saja tanpa penyaringan ketat.
+- **Berpikir Kritis:** Menggunakan "ayakan" untuk memisahkan lumpur tidak berguna dari butiran emas berharga. Ada informasi yang kamu simpan dan ada yang kamu buang, dan semuanya lewat penyaringan ketat lebih dulu.
 
 ## Mengapa Berpikir Kritis Penting di Era Modern?
 
@@ -28,7 +28,7 @@ Dahulu, tantangan utama kita adalah mencari **akses** informasi. Sekarang, tanta
 
 ## Ciri-Ciri Pemikir Kritis
 
-Menjadi pemikir kritis tidak menuntut kamu memiliki IQ jenius. Hal ini lebih berkaitan dengan **sikap** dan **kebiasaan mental** sehari-hari:
+Menjadi pemikir kritis tidak menuntut kamu memiliki IQ jenius. Hal ini lebih berkaitan dengan **sikap** dan **kebiasaan mental** sehari-hari.
 
 ### 1. Rasa Ingin Tahu yang Kuat
 
@@ -49,17 +49,17 @@ Pemikir kritis mampu mendengarkan argumen yang berseberangan dengan keyakinan pr
 
 ### 4. Skeptisisme yang Sehat
 
-Skeptis bukan berarti menolak percaya pada apa pun, melainkan menunda penilaian sebelum ada bukti memadai. Pola pikir ini menggunakan prinsip logika dasar: jika $P \rightarrow Q$ (jika ada asap, maka ada api), pemikir kritis akan memastikan terlebih dahulu apakah itu benar-benar asap atau sekadar kabut sebelum menyimpulkan adanya api.
+Orang yang skeptis tetap bisa percaya. Ia menunda penilaian sampai ada bukti memadai. Pola pikir ini memakai prinsip logika dasar $P \rightarrow Q$ (jika ada asap, maka ada api). Sebelum menyimpulkan adanya api, pemikir kritis akan memastikan terlebih dahulu apakah itu benar-benar asap atau sekadar kabut.
 
 ### 5. Ketelitian dan Akurasi
 
-Pemikir kritis selalu menghindari generalisasi yang bias. Alih-alih langsung menyimpulkan "semua orang membenci aturan ini," mereka akan bertanya secara terperinci, "Siapa saja yang berkeberatan? Berapa persentase dari total kelompok tersebut?"
+Pemikir kritis selalu menghindari generalisasi yang bias. Sebelum menyimpulkan "semua orang membenci aturan ini," mereka akan bertanya secara terperinci, "Siapa saja yang berkeberatan? Berapa persentase dari total kelompok tersebut?"
 
 ## Penerapan Nyata di Media Sosial
 
 Mari kita lihat bagaimana proses berpikir kritis bekerja dalam situasi sehari-hari.
 
-**Skenario:** Kamu melihat unggahan media sosial yang viral dengan judul mencolok: *"Penelitian Terbaru: Minum Kopi 5 Kali Sehari Meningkatkan Kecerdasan Hingga 50%!"*
+**Skenario:** Kamu melihat unggahan media sosial yang viral dengan judul mencolok, *"Penelitian Terbaru: Minum Kopi 5 Kali Sehari Meningkatkan Kecerdasan Hingga 50%!"*
 
 **Tanggapan Tanpa Berpikir Kritis:** Langsung memercayainya karena judulnya menarik, membagikannya ke grup obrolan keluarga, lalu mulai mengonsumsi kopi secara berlebihan.
 
@@ -72,8 +72,8 @@ Mari kita lihat bagaimana proses berpikir kritis bekerja dalam situasi sehari-ha
 
 ## Evaluasi Mandiri Keyakinan Kita
 
-Sebagian besar keyakinan yang kita pegang erat sering kali bukan hasil evaluasi mandiri, melainkan bentukan dari opini lingkungan sekitar. Menguji kembali keyakinan-keyakinan tersebut dengan bukti yang sahih merupakan langkah awal yang sehat untuk membangun kemandirian berpikir.
+Sebagian besar keyakinan yang kita pegang erat sering kali terbentuk dari opini lingkungan sekitar, tanpa pernah kita evaluasi sendiri. Menguji kembali keyakinan-keyakinan tersebut dengan bukti yang sahih merupakan langkah awal yang sehat untuk membangun kemandirian berpikir.
 
-> "Tujuan dari berpikir kritis adalah untuk mencapai kebenaran, bukan untuk memenangkan perdebatan."
+> "Tujuan dari berpikir kritis adalah untuk mencapai kebenaran."
 
 Keyakinan mana yang selama ini kamu pegang tanpa pernah kamu uji dengan bukti?

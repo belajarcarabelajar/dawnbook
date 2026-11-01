@@ -1,8 +1,8 @@
 ## Peran Penulis Skenario dan Strategi OST dalam Ekosistem Produksi
 
-Pernahkah kamu bertanya-tanya mengapa drama Korea bisa membuatmu tertawa terbahak-bahak di satu detik, lalu menangis tersedu-sedu di detik berikutnya? Jawabannya ada pada cara kerja tim di balik layar, bukan hanya pada penampilan para aktornya.
+Pernahkah kamu bertanya-tanya mengapa drama Korea bisa membuatmu tertawa terbahak-bahak di satu detik, lalu menangis tersedu-sedu di detik berikutnya? Selain penampilan para aktornya, jawabannya ada pada cara kerja tim di balik layar.
 
-Dalam bagian ini, kita akan membedah dua pilar utama yang membentuk identitas K-Drama: kekuasaan penulis skenario (*star writer*) yang dominan dan strategi OST (*Original Soundtrack*) yang dirancang secara psikologis untuk mengikat emosi penonton.
+Dalam bagian ini, kita akan membedah dua pilar utama yang membentuk identitas K-Drama, yaitu kekuasaan penulis skenario (*star writer*) yang dominan dan strategi OST (*Original Soundtrack*) yang dirancang secara psikologis untuk mengikat emosi penonton.
 
 ## 1. Dominasi Penulis Skenario (Star Writer)
 
@@ -10,13 +10,13 @@ Di industri film Hollywood, sutradara kerap dianggap sebagai pengambil keputusan
 
 ### Mengapa Penulis Begitu Dominan?
 
-Dalam ekosistem produksi di Korea Selatan, naskah berfungsi sebagai *blueprint* menyeluruh, bukan sekadar rangkuman dialog biasa. Penulis skenario tingkat atas (biasa disebut *star writer*) memiliki pengaruh besar dalam berbagai aspek produksi:
+Dalam ekosistem produksi di Korea Selatan, naskah berfungsi sebagai *blueprint* menyeluruh. Penulis skenario tingkat atas (biasa disebut *star writer*) memiliki pengaruh besar dalam berbagai aspek produksi:
 
 - **Pemilihan Pemain (*Casting*):** Banyak penulis menulis karakter dengan membayangkan aktor tertentu untuk memainkannya sejak awal.
 - **Menentukan Sutradara:** Penulis dengan nama besar berhak memilih sutradara yang dirasa cocok untuk menggarap naskah mereka.
 - **Perubahan Alur Cerita secara *Real-Time*:** Dengan adanya sistem kejar tayang (*live-shooting*), penulis dapat segera menyesuaikan cerita berdasarkan respons pemirsa di media sosial.
 
-> **Insight Penting:** Di Korea Selatan, penonton sering kali memilih tontonan berdasarkan reputasi penulisnya, bukan hanya deretan bintang yang bermain. Nama besar seperti Kim Eun-sook atau Park Ji-eun kerap dikaitkan dengan perolehan *rating* yang tinggi.
+> **Insight Penting:** Di Korea Selatan, penonton sering kali memilih tontonan berdasarkan reputasi penulisnya, selain deretan bintang yang bermain. Nama besar seperti Kim Eun-sook atau Park Ji-eun kerap dikaitkan dengan perolehan *rating* yang tinggi.
 
 ### Penulis sebagai Kepala Juru Masak
 
@@ -32,7 +32,7 @@ Bayangkan sebuah restoran mewah. Sutradara bertugas layaknya pramusaji yang meny
 
 ## 2. Strategi OST sebagai Instrumen Emosional
 
-Jika penulis skenario membangun kerangka cerita, lagu tema (*Original Soundtrack* atau OST) berfungsi membangun suasananya. Musik dalam K-Drama dirancang sebagai instrumen emosional yang efektif, melampaui peran musik latar biasa.
+Jika penulis skenario membangun kerangka cerita, lagu tema (*Original Soundtrack* atau OST) berfungsi membangun suasananya. Musik dalam K-Drama dirancang sebagai instrumen emosional yang efektif.
 
 ### Pendekatan Pavlovian dalam OST
 
@@ -40,7 +40,7 @@ K-Drama kerap menerapkan taktik mengulang satu lagu tema tertentu pada momen-mom
 
 ### Strategi Produksi dan Pemasaran Lagu Tema
 
-1. **Peluncuran Berkala (Part-by-Part):** Lagu tema tidak dirilis sekaligus dalam satu album utuh. Pihak produksi merilisnya lagu per lagu setiap minggu (Part 1, Part 2, dan seterusnya) untuk menjaga eksistensi drama di tangga musik digital.
+1. **Peluncuran Berkala (Part-by-Part):** Pihak produksi merilis lagu tema satu per satu setiap minggu (Part 1, Part 2, dan seterusnya) untuk menjaga eksistensi drama di tangga musik digital.
 2. **Kolaborasi dengan Vokalis Ternama:** Mengundang penyanyi spesialis OST seperti Gummy, Lyn, atau Davichi hampir selalu berhasil mendongkrak lagu tersebut ke puncak popularitas.
 3. **Penyelarasan Lirik dengan Cerita:** Lirik lagu sengaja ditulis untuk mewakili isi hati karakter yang tidak terucap lewat dialog langsung.
 
@@ -74,7 +74,7 @@ Jika salah satu elemen di atas tidak terpenuhi, cerita tersebut akan terasa kura
 ### "Hospital Playlist"
 
 - **Konsep Bermusik Lee Woo-jung:** Penulis meleburkan lagu-lagu lama yang terkenal langsung ke dalam jalan cerita, dengan cara melatih para pemeran utama agar benar-benar bisa membawakan aransemen musik tersebut sebagai sebuah band.
-- **Pencapaian Emosional:** Lagu-lagu lama yang dinyanyikan ulang ini tidak sekadar menghiasi latar belakang, melainkan menjadi motor penggerak cerita yang membuat penonton merasa seperti ikut tumbuh bersama persahabatan mereka.
+- **Pencapaian Emosional:** Lagu-lagu lama yang dinyanyikan ulang ini menjadi motor penggerak cerita yang membuat penonton merasa seperti ikut tumbuh bersama persahabatan mereka.
 
 ## 5. Ringkasan Strategis
 

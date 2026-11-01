@@ -2,19 +2,19 @@
 
 Dalam siklus *microteaching*, tahap pemberian umpan balik (*feedback*) adalah momen yang paling penting. Jika simulasi mengajar adalah "panggung" untuk mencoba, maka umpan balik adalah "cermin" yang jujur. Tanpa umpan balik yang tepat, seorang calon guru mungkin akan terus mengulangi kesalahan yang sama tanpa menyadarinya.
 
-Materi ini akan membahas bagaimana memberikan dan menerima kritik dengan cara yang memberdayakan, bukan menjatuhkan, guna memastikan setiap sesi *microteaching* menghasilkan peningkatan kompetensi yang nyata.
+Materi ini akan membahas bagaimana memberikan dan menerima kritik dengan cara yang memberdayakan guna memastikan setiap sesi *microteaching* menghasilkan peningkatan kompetensi yang nyata.
 
-### 1. Umpan Balik Bukan Penghakiman
+### 1. Umpan Balik yang Menunjukkan Arah
 
 Bayangkan kamu sedang belajar memanah. Jika kamu menutup mata setelah melepaskan anak panah, kamu tidak akan pernah tahu apakah kamu perlu menggeser busur ke kiri atau ke kanan. Umpan balik dalam *microteaching* berfungsi seperti instruktur panah yang mengatakan, *"Anak panahmu jatuh 5 cm di sebelah kanan sasaran karena posisi bahumu terlalu tegang."*
 
 **Poin Penting:**
 
-- **Objektif:** Berdasarkan data yang terlihat (video atau catatan observasi), bukan asumsi pribadi.
+- **Objektif:** Bertumpu pada data yang terlihat, seperti video atau catatan observasi.
 - **Spesifik:** Menghindari kata-kata umum seperti "Bagus" atau "Kurang oke".
 - **Berorientasi Solusi:** Fokus pada apa yang bisa diperbaiki di masa depan.
 
-Ken Blanchard gemar mengulang ungkapan yang ia sebut berasal dari rekannya, Rick Tate: "Umpan balik adalah sarapan para juara." Dalam dunia pendidikan, umpan balik adalah nutrisi utama untuk pertumbuhan profesionalisme.
+Ken Blanchard gemar mengulang ungkapan "Umpan balik adalah sarapan para juara", yang ia sebut berasal dari rekannya, Rick Tate. Dalam dunia pendidikan, umpan balik adalah nutrisi utama untuk pertumbuhan profesionalisme.
 
 ### 2. Etika Memberikan Umpan Balik
 
@@ -22,7 +22,7 @@ Memberikan kritik kepada rekan sejawat membutuhkan empati dan teknik komunikasi 
 
 #### A. Gunakan Prinsip "I-Message"
 
-Alih-alih mengatakan *"Kamu kurang jelas saat menjelaskan,"* yang terdengar seperti serangan personal, gunakanlah: *"Saya merasa kesulitan menangkap poin utama pada bagian penjelasan karena temponya sedikit cepat."* Dengan cara ini, kamu berbicara tentang **pengalaman pengamat**, bukan **karakter pengajar**.
+Kalimat *"Kamu kurang jelas saat menjelaskan"* terdengar seperti serangan personal. Coba ganti dengan *"Saya merasa kesulitan menangkap poin utama pada bagian penjelasan karena temponya sedikit cepat."* Kalimat kedua berbicara tentang **pengalaman pengamat**, sehingga **karakter pengajar** tidak ikut dinilai.
 
 #### B. Teknik Sandwich (Pujian - Kritik - Harapan)
 
@@ -34,7 +34,7 @@ Ini adalah teknik klasik tetapi efektif untuk menjaga motivasi:
 
 #### C. Fokus pada Perilaku yang Dapat Diubah
 
-Jangan mengkritik hal-hal yang bersifat permanen atau di luar kendali (seperti aksen bicara alami), tetapi fokuslah pada keterampilan teknis seperti:
+Hal yang bersifat permanen atau di luar kendali, seperti aksen bicara alami, sebaiknya tidak dikritik. Arahkan masukan pada keterampilan teknis seperti:
 
 - Variasi suara (intonasi).
 - Penggunaan media pembelajaran.
@@ -55,8 +55,8 @@ Agar umpan balik tidak bias, gunakan model **SBI (Situation, Behavior, Impact)**
 Menerima kritik sering kali memicu reaksi *fight-or-flight* di otak kita. Sebagai calon guru profesional, kamu perlu melatih **Growth Mindset**.
 
 - **Dengarkan secara Aktif:** Jangan memotong penjelasan pemberi umpan balik untuk membela diri.
-- **Klarifikasi, Bukan Justifikasi:** Jika ada yang kurang jelas, tanyalah: *"Bisa berikan contoh di bagian mana saya melakukan hal tersebut?"* daripada mengatakan *"Saya melakukan itu karena..."*
-- **Pisahkan Identitas dari Kinerja:** Jika cara mengajar kamu dikritik, bukan berarti kamu adalah orang yang gagal. Itu hanya berarti ada satu *skill* yang perlu diasah.
+- **Bertanya untuk Klarifikasi:** Jika ada yang kurang jelas, ajukan pertanyaan seperti *"Bisa berikan contoh di bagian mana saya melakukan hal tersebut?"* Tahan dulu keinginan untuk membela diri dengan *"Saya melakukan itu karena..."*
+- **Pisahkan Identitas dari Kinerja:** Kritik atas cara mengajar kamu hanya menunjukkan satu *skill* yang perlu diasah, jadi tidak ada alasan menganggap dirimu orang yang gagal.
 
 *Refleksi Lingkungan Simulasi:* *Menerima evaluasi perbaikan di lingkungan simulasi jauh lebih konstruktif dibandingkan harus menghadapi kendala pengelolaan kelas secara mendadak di hadapan 40 siswa nyata.*
 
@@ -64,7 +64,7 @@ Menerima kritik sering kali memicu reaksi *fight-or-flight* di otak kita. Sebaga
 
 **Skenario:** Seorang rekan (Andi) baru saja selesai melakukan praktik keterampilan membuka pelajaran. Andi terlihat sangat gugup, suaranya kecil, dan dia lupa menyampaikan tujuan pembelajaran.
 
-**Contoh Umpan Balik yang BURUK:** *"Andi, kamu tadi kelihatannya grogi banget ya? Suaranya nggak kedengeran sampai belakang. Terus tadi tujuannya juga nggak disebutin. Lain kali lebih berani ya."* (Dampak: Andi merasa diadili dan malu).
+**Contoh Umpan Balik yang BURUK:** *"Andi, kamu tadi kelihatannya grogi banget ya? Suaranya nggak kedengeran sampai belakang. Terus tadi tujuannya juga nggak disebutin. Lain kali lebih berani ya."* (Dampaknya, Andi merasa diadili dan malu.)
 
 **Contoh Umpan Balik KONSTRUKTIF (Model SBI + Sandwich):** *"Andi, saya sangat suka cara kamu memberikan senyuman di awal kelas, itu membuat suasana jadi ramah (Positif). Namun, saat masuk ke materi inti, volume suara kamu agak menurun sehingga saya yang duduk di belakang sulit mendengar instruksimu (Situation & Behavior). Hal ini membuat saya sedikit bingung apa yang harus dikerjakan (Impact). Untuk sesi re-teaching nanti, mungkin kamu bisa mencoba mengambil napas dalam sebelum mulai dan menuliskan poin tujuan pembelajaran di papan tulis agar tidak terlewat (Saran/Solusi)."*
 
@@ -75,10 +75,10 @@ Setelah menerima umpan balik, lakukan langkah-langkah berikut:
 1. **Catat:** Tulis poin-poin utama dalam jurnal refleksi.
 2. **Prioritaskan:** Pilih 2-3 hal yang paling berdampak untuk diperbaiki segera.
 3. **Rencanakan:** Bagaimana cara memperbaikinya di sesi *re-teaching*?
-	- Contoh: Jika umpan baliknya adalah "kurang interaksi", maka rencananya adalah "menyiapkan 3 pertanyaan terbuka untuk siswa".
+	- Misalnya, jika umpan baliknya adalah "kurang interaksi", rencananya adalah "menyiapkan 3 pertanyaan terbuka untuk siswa".
 
 ### Dialog yang Mendorong Perubahan
 
-Umpan balik konstruktif adalah sebuah **dialog**, bukan **monolog**. Di dalam *microteaching*, keberhasilan seorang pengajar bukan diukur dari seberapa sempurna penampilannya, melainkan dari seberapa besar perubahan positif yang ia lakukan setelah menerima masukan dari rekan dan pembimbingnya.
+Umpan balik konstruktif adalah sebuah **dialog** antara pengamat dan pengajar. Di dalam *microteaching*, keberhasilan seorang pengajar diukur dari seberapa besar perubahan positif yang ia lakukan setelah menerima masukan dari rekan dan pembimbingnya.
 
 > **Pesan Utama:** Berikan umpan balik yang ingin kamu terima, dan terimalah umpan balik sebagai bahan untuk memperbaiki cara mengajar kamu.

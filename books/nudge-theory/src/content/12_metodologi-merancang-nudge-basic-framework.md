@@ -1,10 +1,10 @@
 ## Metodologi Merancang Nudge (BASIC Framework)
 
-Teori kini bertemu dengan praktik. Setelah memahami Sistem 1 dan Sistem 2, kekuatan *defaults*, hingga etika desain, langkah berikutnya adalah: **bagaimana cara merancang sebuah *nudge* secara sistematis?**
+Teori kini bertemu dengan praktik. Setelah memahami Sistem 1 dan Sistem 2, kekuatan *defaults*, hingga etika desain, kita sampai pada pertanyaan berikutnya. **Bagaimana cara merancang sebuah *nudge* secara sistematis?**
 
 Merancang intervensi perilaku tidak bisa mengandalkan tebakan atau insting semata. Agar menghasilkan perubahan yang efektif sekaligus etis, diperlukan kerangka kerja yang terstruktur. Di tingkat internasional, salah satu metodologi yang paling populer dan dikembangkan oleh OECD adalah **BASIC Framework**.
 
-BASIC merupakan akronim dari lima tahapan utama: **B**ehaviour (Perilaku), **A**nalysis (Analisis), **S**trategy (Strategi), **I**ntervention (Intervensi), dan **C**hange (Perubahan). Mari kita bedah penerapannya.
+BASIC merupakan akronim dari lima tahapan utama, yaitu **B**ehaviour (Perilaku), **A**nalysis (Analisis), **S**trategy (Strategi), **I**ntervention (Intervensi), dan **C**hange (Perubahan). Mari kita bedah penerapannya.
 
 Sebelum membedahnya satu per satu, diagram berikut memperlihatkan urutan kelima tahapan tersebut.
 
@@ -20,9 +20,9 @@ flowchart TD
 
 ## 1. Behaviour (Perilaku)
 
-Langkah pertama dimulai dengan mendefinisikan masalah dalam bentuk **perilaku nyata**, bukan langsung melompat mencari solusi. Kesalahan umum pembuat kebijakan atau manajer adalah menetapkan tujuan yang terlalu abstrak.
+Langkah pertama dimulai dengan mendefinisikan masalah dalam bentuk **perilaku nyata** sebelum mencari solusi. Kesalahan umum pembuat kebijakan atau manajer adalah menetapkan tujuan yang terlalu abstrak.
 
-> **Insight:** Tujuan seperti "meningkatkan kesadaran lingkungan" bukanlah bentuk perilaku. Sebaliknya, "membuang botol plastik bekas ke tempat sampah berlabel khusus" adalah bentuk perilaku nyata.
+> **Insight:** "Membuang botol plastik bekas ke tempat sampah berlabel khusus" adalah bentuk perilaku nyata. Tujuan seperti "meningkatkan kesadaran lingkungan" masih terlalu abstrak untuk disebut perilaku.
 
 Untuk memulai perancangan, jawablah beberapa poin berikut:
 
@@ -46,7 +46,7 @@ Sebagai contoh, seseorang mungkin ingin mulai berolahraga tetapi mengurungkan ni
 
 ## 3. Strategy (Strategi)
 
-Ketika hambatan utama telah teridentifikasi, kita bisa menentukan strategi *nudge* yang paling sesuai. Kita tidak perlu memakai semua teknik sekaligus, melainkan memilih yang paling relevan dengan temuan analisis sebelumnya.
+Ketika hambatan utama telah teridentifikasi, kita bisa menentukan strategi *nudge* yang paling sesuai. Cukup pilih teknik yang paling relevan dengan temuan analisis sebelumnya.
 
 | Jika hambatannya adalah... | Strateginya bisa berupa... |
 | --- | --- |
@@ -55,7 +55,7 @@ Ketika hambatan utama telah teridentifikasi, kita bisa menentukan strategi *nudg
 | Orang tidak tahu apa yang dilakukan orang lain | **Social Norms** (Norma Sosial). |
 | Manfaat terasa terlalu jauh di masa depan | **Reward Substitution** (Insentif jangka pendek). |
 
-Pada tahap ini, kita merumuskan hipotesis kerja: *"Jika kita mengubah [X], maka orang akan cenderung melakukan [Y] karena [Z]."*
+Pada tahap ini, kita merumuskan hipotesis kerja dengan pola *"Jika kita mengubah [X], maka orang akan cenderung melakukan [Y] karena [Z]."*
 
 ## 4. Intervention (Intervensi) dan Pengujian
 
@@ -83,14 +83,14 @@ Langkah-langkah yang dijalankan dalam tahap ini meliputi:
 Berikut adalah contoh bagaimana BASIC Framework diterapkan dalam skenario ilustratif:
 
 - **Behaviour (Perilaku):** Menargetkan pemilik kendaraan bermotor yang menunggak pajak agar segera menyelesaikan kewajibannya.
-- **Analysis (Analisis):** Hasil evaluasi menunjukkan bahwa sebagian besar penunggak bukan terkendala faktor finansial. Mereka cenderung menunda karena lupa, menganggap alur birokrasi rumit, atau merasa wajar menunggak sebab berasumsi banyak orang lain melakukan hal serupa.
-- **Strategy (Strategi):** Memanfaatkan prinsip norma sosial (*Social Norms*) dan penonjolan informasi (*Salience*). Surat tagihan dimodifikasi dengan menyelipkan kalimat informatif: *"9 dari 10 warga di lingkunganmu membayar pajak tepat waktu."*
+- **Analysis (Analisis):** Hasil evaluasi menunjukkan bahwa sebagian besar penunggak sebenarnya mampu membayar dan cenderung menunda karena lupa, menganggap alur birokrasi rumit, atau merasa wajar menunggak sebab berasumsi banyak orang lain melakukan hal serupa.
+- **Strategy (Strategi):** Memanfaatkan prinsip norma sosial (*Social Norms*) dan penonjolan informasi (*Salience*). Surat tagihan dimodifikasi dengan menyelipkan kalimat informatif *"9 dari 10 warga di lingkunganmu membayar pajak tepat waktu."*
 - **Intervention (Intervensi):** Menguji pesan baru tersebut kepada kelompok sampel berisi 5.000 warga. Setengah dari kelompok menerima surat pemberitahuan standar, sementara setengah sisanya menerima surat dengan tambahan pesan norma sosial.
 - **Change (Perubahan):** Terjadi kenaikan pembayaran pajak sebesar 15% pada kelompok eksperimen yang menerima pesan baru. Karena terbukti berhasil, intervensi ini kemudian diintegrasikan ke dalam kebijakan pemungutan pajak daerah.
 
 ## Praktik Mandiri Merancang Nudge Sederhana
 
-Kamu bisa mencoba menerapkan kerangka BASIC untuk menyelesaikan masalah kecil di sekitarmu, misalnya: **mendorong rekan kerja agar bersedia mencuci piring mereka sendiri di kantor.**
+Kamu bisa mencoba menerapkan kerangka BASIC untuk menyelesaikan masalah kecil di sekitarmu, misalnya **mendorong rekan kerja agar bersedia mencuci piring mereka sendiri di kantor.**
 
 1. **Behaviour (Perilaku):** Menetapkan target konkret agar setiap orang langsung mencuci gelas atau piringnya setelah selesai makan dan minum.
 2. **Analysis (Analisis):** Cari tahu apa hambatan utamanya. Apakah letak sabun terlalu jauh, ataukah tumpukan piring kotor milik orang lain di wastafel membuat rekan kerja malas mencuci piringnya sendiri?

@@ -26,7 +26,7 @@ Untuk membedakan apakah sebuah desain bersifat etis atau manipulatif, kita dapat
 
 1. **Transparansi:** *Nudge* tidak boleh menipu. Pengguna harus bisa melihat bahwa mereka sedang diarahkan.
 2. **Kemudahan Opt-out:** Mengabaikan *nudge* tersebut haruslah semudah mengikutinya, misalnya hanya butuh satu klik atau gerakan minimal.
-3. **Kesejahteraan Pengguna:** Harus ada alasan kuat untuk percaya bahwa perilaku yang didorong akan meningkatkan *user welfare* orang yang diarahkan, bukan organisasi yang merancangnya.
+3. **Kesejahteraan Pengguna:** Harus ada alasan kuat untuk percaya bahwa perilaku yang didorong akan meningkatkan *user welfare* orang yang diarahkan itu sendiri.
 
 ### Perbandingan Visual
 
@@ -50,7 +50,7 @@ Dalam desain UI/UX, *sludge* sering bermanifestasi sebagai *dark patterns*. Ini 
 Gambaran *Roach Motel* yang lebih lengkap adalah proses menghapus akun yang sengaja dirancang untuk menghambat penggunanya:
 
 1. Muncul peringatan "Apakah kamu yakin?"
-2. Setelah pengguna mengiyakan, muncul pesan kedua: "Kami akan merindukanmu. Kamu akan kehilangan semua poin!"
+2. Setelah pengguna mengiyakan, muncul pesan kedua yang berbunyi "Kami akan merindukanmu. Kamu akan kehilangan semua poin!"
 3. Pengguna dialihkan ke halaman survei.
 4. Email verifikasi baru dikirim setelah jeda 24 jam.
 
@@ -66,11 +66,11 @@ Apakah kamu merasa nyaman jika strategi desain yang kamu gunakan dipublikasikan 
 
 ### B. Menghormati Otonomi
 
-*Choice architecture* yang baik memperkuat otonomi individu, bukan melemahkannya. Jika kamu memaksa seseorang melalui proses yang membingungkan untuk mencapai apa yang mereka inginkan, kamu telah melanggar prinsip *libertarian paternalism*.
+*Choice architecture* yang baik memperkuat otonomi individu. Jika kamu memaksa seseorang melalui proses yang membingungkan untuk mencapai apa yang mereka inginkan, kamu telah melanggar prinsip *libertarian paternalism*.
 
 ### C. Mengurangi Sludge dalam Organisasi
 
-Etika tidak hanya tentang menghindari hal buruk, tetapi juga aktif memperbaiki sistem.
+Etika mencakup dua hal, yaitu menghindari hal buruk dan aktif memperbaiki sistem.
 
 Langkah pertama adalah melakukan *sludge audit* untuk mengidentifikasi di mana pelanggan atau karyawanmu mengalami hambatan yang tidak perlu, seperti formulir panjang atau birokrasi berbelit-belit. Selain itu, buatlah *default option* yang membantu dengan memastikan pilihan standar selalu menjadi opsi paling aman dan menguntungkan bagi pengguna awam.
 
@@ -82,7 +82,7 @@ Di beberapa negara, formulir *financial aid* mahasiswa sangat rumit sehingga ban
 
 ### Sludge vs Nudge dalam Privasi Data
 
-Penerapan *sludge* biasanya terlihat saat tombol "Terima Semua Cookies" dibuat sangat mencolok, sementara opsi menolak disembunyikan di balik berlapis-lapis menu. Sebaliknya, *nudge* yang etis akan menyajikan dua pilihan dengan bobot visual yang seimbang sejak awal: "Terima Semua" dan "Atur Preferensi Saya".
+Penerapan *sludge* biasanya terlihat saat tombol "Terima Semua Cookies" dibuat sangat mencolok, sementara opsi menolak disembunyikan di balik berlapis-lapis menu. Sebaliknya, *nudge* yang etis akan menyajikan pilihan "Terima Semua" dan "Atur Preferensi Saya" dengan bobot visual yang seimbang sejak awal.
 
 ## Inti Perbedaan Nudge dan Sludge
 
@@ -90,4 +90,4 @@ Penerapan *sludge* biasanya terlihat saat tombol "Terima Semua Cookies" dibuat s
 > 
 > *Nudge* dirancang untuk membantu dengan mengurangi *friction* pada pilihan yang baik. Sebaliknya, *sludge* sengaja menambah *friction* untuk menghalangi keputusan yang merugikan organisasi. Oleh karena itu, *choice architect* yang etis harus selalu mengutamakan transparansi, *user welfare*, dan kemudahan untuk membatalkan pilihan (*opt-out*).
 
-Etika dalam desain tidak hanya tentang estetika, tetapi juga tentang menghormati waktu, perhatian, dan kebebasan manusia yang berinteraksi dengan karya kita. Sebagai penutup, rancanglah sistem yang membuat orang merasa lebih cerdas dan lebih berdaya setelah menggunakannya, bukan merasa tertipu.
+Desain yang etis memperhatikan estetika sekaligus menghormati waktu, perhatian, dan kebebasan manusia yang berinteraksi dengan karya kita. Sebagai penutup, rancanglah sistem yang membuat orang merasa lebih cerdas dan lebih berdaya setelah menggunakannya.

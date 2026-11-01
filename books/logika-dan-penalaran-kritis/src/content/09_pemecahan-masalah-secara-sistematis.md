@@ -1,14 +1,14 @@
 ## Pemecahan Masalah secara Sistematis
 
-Menghadapi masalah besar sering kali terasa seperti mencoba mengurai benang kusut. Kebanyakan orang bereaksi secara impulsif atau emosional saat menemui hambatan. Namun, dalam kerangka **Logika dan Penalaran Kritis**, pemecahan masalah bukanlah tentang tebak-tebakan, melainkan tentang sebuah **proses algoritmis yang disiplin**.
+Menghadapi masalah besar sering kali terasa seperti mencoba mengurai benang kusut. Kebanyakan orang bereaksi secara impulsif atau emosional saat menemui hambatan. Namun, dalam kerangka **Logika dan Penalaran Kritis**, pemecahan masalah adalah sebuah **proses algoritmis yang disiplin**.
 
 Pemecahan masalah secara sistematis adalah kemampuan untuk membedah tantangan yang kompleks menjadi bagian-bagian kecil yang dapat dikelola, lalu menerapkan logika untuk menemukan solusi yang paling efektif dan rasional.
 
 ### 1. Mendefinisikan Masalah
 
-Langkah pertama adalah memahami apa sebenarnya masalahnya. Sering kali kita terjebak menangani **gejala** (symptoms), bukan **akar penyebab** (root cause).
+Langkah pertama adalah memahami apa sebenarnya masalahnya. Sering kali kita terjebak menangani **gejala** (symptoms) dan melupakan **akar penyebab** (root cause).
 
-**Analogi:** Jika kamu pergi ke dokter karena sakit kepala (gejala), dokter yang baik tidak hanya memberi kamu obat pereda nyeri. Ia akan mencari tahu apakah sakit kepala itu karena kurang tidur, dehidrasi, atau infeksi (akar penyebab).
+**Analogi:** Jika kamu pergi ke dokter karena sakit kepala (gejala), selain memberimu obat pereda nyeri, dokter yang baik akan mencari tahu apakah sakit kepala itu karena kurang tidur, dehidrasi, atau infeksi (akar penyebab).
 
 Untuk mendefinisikan masalah secara sistematis, gunakan teknik **5W1H**:
 
@@ -19,7 +19,7 @@ Untuk mendefinisikan masalah secara sistematis, gunakan teknik **5W1H**:
 - **Why**: Mengapa situasi ini harus segera diselesaikan dan tidak boleh dibiarkan?
 - **How**: Bagaimana alur kronologis hingga masalah tersebut bisa terbentuk?
 
-> **Penting:** Hindari mendefinisikan masalah dalam bentuk solusi yang terselubung. Misalnya, daripada mengatakan "Masalah kita adalah kurangnya staf," lebih baik katakan "Masalah kita adalah waktu pemrosesan pesanan yang melebihi standar 24 jam."
+> **Penting:** Hindari mendefinisikan masalah dalam bentuk solusi yang terselubung. Misalnya, kalimat "Masalah kita adalah kurangnya staf" sudah menyelipkan solusi. Rumuskan masalahnya sebagai "Masalah kita adalah waktu pemrosesan pesanan yang melebihi standar 24 jam."
 
 ### 2. Analisis Akar Masalah (Root Cause Analysis)
 
@@ -47,7 +47,7 @@ Pada tahap ini, tujuannya adalah memproduksi gagasan sebanyak-banyaknya terlebih
 
 Setelah memiliki daftar alternatif, saatnya menggunakan cara berpikir konvergen. Kita memerlukan kriteria yang objektif untuk memilih. Salah satu alatnya adalah **Matriks Keputusan (Decision Matrix)**.
 
-Misalkan kamu harus memilih antara 2 solusi perangkat lunak (A dan B) dengan kriteria: Biaya, Kemudahan Penggunaan, dan Fitur.
+Misalkan kamu harus memilih antara 2 solusi perangkat lunak (A dan B) dengan kriteria biaya, kemudahan penggunaan, dan fitur.
 
 Kita dapat memberikan bobot ($w$) pada setiap kriteria sehingga total bobot adalah 1.0 (atau 100%). Total Skor ($S$) untuk setiap alternatif dapat dihitung dengan rumus:
 
@@ -112,10 +112,10 @@ Bayangkan kamu adalah seorang *Site Reliability Engineer* (SRE). Situs web perus
 
 ### Rangkuman Langkah Logis
 
-1. **Identifikasi**: Jangan terkecoh oleh gejala permukaan; temukan akar masalahnya.
+1. **Identifikasi**: Telusuri gejala permukaan sampai kamu menemukan akar masalahnya.
 2. **Analisis**: Bedah data secara mendalam dengan bantuan pertanyaan kritis seperti *5 Whys*.
 3. **Kreasi**: Hasilkan opsi solusi sebanyak mungkin tanpa membatasi diri di awal.
 4. **Seleksi**: Timbang pilihan menggunakan matriks keputusan yang memiliki kriteria objektif.
 5. **Verifikasi**: Uji coba rencana tersebut dan evaluasi berdasarkan hasil riil di lapangan.
 
-> **Insight Memorable:** Pemecahan masalah yang sistematis bukan berarti menghilangkan intuisi, melainkan memberikan struktur agar intuisi kita tidak terjebak dalam bias kognitif yang menyesatkan.
+> **Insight Memorable:** Pemecahan masalah yang sistematis memberi intuisi sebuah struktur agar ia tidak terjebak dalam bias kognitif yang menyesatkan.

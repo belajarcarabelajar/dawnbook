@@ -2,11 +2,11 @@
 
 Pada awal tahun 2000-an, drama televisi Korea Selatan mulai ditonton luas di berbagai negara Asia, dari Jepang sampai Asia Tenggara. Fenomena inilah yang kita kenal sebagai **Hallyu** (Korean Wave).
 
-Pada bagian ini, kita akan membedah bagaimana dua "pilar" utama, yaitu *Winter Sonata* dan *Jewel in the Palace*, tidak hanya menjadi tontonan populer, tetapi juga menjadi instrumen diplomatik dan ekonomi yang mengubah citra Korea Selatan di mata dunia.
+Pada bagian ini, kita akan membedah bagaimana dua "pilar" utama, yaitu *Winter Sonata* dan *Jewel in the Palace*, tumbuh dari tontonan populer menjadi instrumen diplomatik dan ekonomi yang mengubah citra Korea Selatan di mata dunia.
 
 ## 1. Mengapa Hallyu Populer di Asia?
 
-Sebelum kita masuk ke judul-judul spesifik, mari kita gunakan sebuah analogi. Bayangkan K-Drama di awal 2000-an seperti sebuah "Jembatan Emosional". Di saat Barat menawarkan aksi yang meledak-ledak dan nilai-nilai individualisme, K-Drama menawarkan sesuatu yang akrab bagi masyarakat Asia: **Nilai-nilai Konfusianisme**, kesetiaan keluarga, dan romansa yang murni (sering kali tanpa kontak fisik yang berlebihan).
+Sebelum kita masuk ke judul-judul spesifik, mari kita gunakan sebuah analogi. Bayangkan K-Drama di awal 2000-an seperti sebuah "Jembatan Emosional". Di saat Barat menawarkan aksi yang meledak-ledak dan nilai-nilai individualisme, K-Drama menawarkan hal-hal yang akrab bagi masyarakat Asia, seperti **Nilai-nilai Konfusianisme**, kesetiaan keluarga, dan romansa yang murni (sering kali tanpa kontak fisik yang berlebihan).
 
 ### Faktor Kunci Keberhasilan
 
@@ -16,7 +16,7 @@ Sebelum kita masuk ke judul-judul spesifik, mari kita gunakan sebuah analogi. Ba
 
 ## 2. Winter Sonata dan Penonton Jepang (2002)
 
-Jika ada satu drama yang bertanggung jawab mengubah hubungan diplomatik Korea dan Jepang melalui budaya, itu adalah *Winter Sonata*. Drama ini lebih dari sekadar kisah cinta segitiga dan amnesia; ia merupakan fenomena sosiologis yang nyata.
+Jika ada satu drama yang bertanggung jawab mengubah hubungan diplomatik Korea dan Jepang melalui budaya, itu adalah *Winter Sonata*. Di balik kisah cinta segitiga dan amnesia, drama ini merupakan fenomena sosiologis yang nyata.
 
 ### "Yonsama Syndrome" di Jepang
 
@@ -71,7 +71,7 @@ Di Asia Tenggara, khususnya Indonesia, awal 2000-an ditandai dengan pergeseran d
 
 ## K-Drama sebagai "Soft Power"
 
-Pengetahuan tentang Gelombang Hallyu Pertama ini lebih dari sekadar sejarah hiburan; pengetahuan ini membantu kita memahami **soft power**.
+Pengetahuan tentang Gelombang Hallyu Pertama ini membantu kita memahami **soft power**.
 
 **Skenario Penggunaan:** Bayangkan kamu adalah seorang konsultan pemasaran atau diplomat. Kamu belajar dari Hallyu bahwa:
 
@@ -80,7 +80,7 @@ Pengetahuan tentang Gelombang Hallyu Pertama ini lebih dari sekadar sejarah hibu
 
 ### Contoh Praktis
 
-Saat ini, banyak negara (termasuk Indonesia dengan "Indo-pop" atau Thailand dengan drama BL-nya) mencoba mereplikasi formula Hallyu Pertama: **Produksi yang berkualitas tinggi + Nilai lokal yang universal + Dukungan penuh pemerintah.**
+Saat ini, banyak negara (termasuk Indonesia dengan "Indo-pop" atau Thailand dengan drama BL-nya) mencoba mereplikasi formula Hallyu Pertama yang memadukan **produksi berkualitas tinggi, nilai lokal yang universal, dan dukungan penuh pemerintah**.
 
 ## Dua Drama Utama Gelombang Pertama
 
@@ -89,4 +89,4 @@ Saat ini, banyak negara (termasuk Indonesia dengan "Indo-pop" atau Thailand deng
 | **Winter Sonata** | Romansa Melodramatis | Jepang, Asia Timur | Pariwisata, Hubungan Diplomatik |
 | **Jewel in the Palace** | Sejarah & Kuliner | Seluruh Dunia (Global) | Budaya Makan, Kedokteran Tradisional |
 
-> **Key Takeaway:** Gelombang Hallyu Pertama membuktikan bahwa bahasa bukanlah hambatan jika emosi yang disampaikan bersifat universal. Inilah fondasi yang memungkinkan K-Drama nantinya berkembang menjadi tontonan global di era digital.
+> **Key Takeaway:** Gelombang Hallyu Pertama membuktikan bahwa emosi yang universal mampu melintasi batas bahasa. Inilah fondasi yang memungkinkan K-Drama nantinya berkembang menjadi tontonan global di era digital.

@@ -13,26 +13,26 @@ Pasar persaingan monopolistik adalah struktur pasar tempat terdapat **banyak pro
 #### Karakteristik Utama
 
 1. **Banyak Penjual (Large Number of Sellers):** Tidak sebanyak persaingan sempurna, tetapi cukup banyak sehingga tindakan satu perusahaan tidak secara drastis memengaruhi pesaingnya secara langsung.
-2. **Diferensiasi Produk:** Ini adalah ciri paling utama. Produk dibedakan melalui kualitas, desain, lokasi, atau merek. Produk-produk ini adalah **substitusi dekat** (close substitutes), tetapi bukan **substitusi sempurna**.
+2. **Diferensiasi Produk:** Ini adalah ciri paling utama. Produk dibedakan melalui kualitas, desain, lokasi, atau merek. Produk-produk ini adalah **substitusi dekat** (close substitutes) yang tidak sampai menjadi **substitusi sempurna**.
 3. **Kebebasan Masuk dan Keluar (Low Barriers to Entry):** Perusahaan baru cukup mudah untuk masuk ke industri jika mereka melihat ada peluang keuntungan, meski tidak semudah di pasar persaingan sempurna.
 4. **Kekuatan Menentukan Harga yang Terbatas:** Karena produknya unik, perusahaan memiliki sedikit kendali atas harga (price maker skala kecil). Namun, jika harga terlalu mahal, konsumen akan dengan mudah pindah ke merek lain.
 
 ### Diferensiasi Produk
 
-Dalam pasar ini, produsen tidak ingin bersaing hanya lewat harga. Mengapa? Karena perang harga hanya akan menghabiskan keuntungan semua orang. Sebaliknya, mereka melakukan **diferensiasi**.
+Dalam pasar ini, produsen memilih bersaing lewat **diferensiasi**. Perang harga hanya akan menghabiskan keuntungan semua orang.
 
 Diferensiasi dapat terjadi melalui beberapa cara:
 
-- **Diferensiasi Fisik:** Perbedaan fitur, desain, atau bahan baku. (Contoh: Sepatu lari dengan teknologi *foam* yang berbeda).
+- **Diferensiasi Fisik:** Perbedaan fitur, desain, atau bahan baku, seperti sepatu lari dengan teknologi *foam* yang berbeda.
 - **Diferensiasi Lokasi:** Toko kelontong yang lebih dekat dengan rumah kamu bisa mematok harga sedikit lebih mahal daripada supermarket besar karena faktor kenyamanan.
 - **Diferensiasi Layanan:** Restoran dengan pelayanan ramah dan cepat vs. restoran *self-service*.
-- **Diferensiasi Citra (Branding):** Menggunakan logo, selebriti, atau nilai tertentu (misalnya: produk ramah lingkungan).
+- **Diferensiasi Citra (Branding):** Menggunakan logo, selebriti, atau nilai tertentu, misalnya produk ramah lingkungan.
 
-*Coba tanyakan pada dirimu: apakah kamu membeli kopi di kafe tertentu karena rasa kopinya benar-benar berbeda, atau karena suasana tempatnya yang nyaman untuk bekerja?*
+*Coba tanyakan pada dirimu, apakah kamu membeli kopi di kafe tertentu karena rasa kopinya benar-benar berbeda, atau karena suasana tempatnya yang nyaman untuk bekerja?*
 
 ### Peran Utama Branding dan Iklan
 
-Dalam pasar persaingan monopolistik, fungsi iklan melampaui sekadar hiasan: iklan adalah **alat bersaing yang utama**.
+Dalam pasar persaingan monopolistik, iklan adalah **alat bersaing yang utama**.
 
 #### Mengapa Iklan Sangat Penting?
 
@@ -73,7 +73,7 @@ Industri perawatan kulit (*skin care*) adalah contoh yang jelas dari persaingan 
 
 ### Kunci Tampil Beda di Pasar Monopolistik
 
-Bagi seorang pengusaha di pasar persaingan monopolistik, kunci keberhasilan terletak pada **kemampuan untuk tampil beda**, bukan sekadar mengandalkan efisiensi biaya.
+Bagi seorang pengusaha di pasar persaingan monopolistik, kunci keberhasilan terletak pada **kemampuan untuk tampil beda**. Mengandalkan efisiensi biaya saja tidak cukup.
 
 > **Insight Penting:** Di pasar ini, persepsi konsumen sering kali lebih menentukan daripada kualitas produk itu sendiri. Jika kamu bisa meyakinkan konsumen bahwa produk kamu memberikan nilai tambah yang tidak dimiliki orang lain, kamu memiliki keleluasaan lebih untuk menetapkan harga.
 

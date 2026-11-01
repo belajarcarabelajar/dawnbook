@@ -1,6 +1,6 @@
 ## Tindakan Korektif dan Evaluasi Kinerja
 
-Bayangkan kamu sedang mengendarai mobil dengan bantuan GPS menuju sebuah lokasi yang belum pernah kamu kunjungi. Di tengah jalan, kamu mengambil belokan yang salah. Apa yang dilakukan GPS? Ia tidak hanya diam, ia akan berkata, *"Recalculating..."* dan memberikan rute baru untuk membawa kamu kembali ke jalur yang benar.
+Bayangkan kamu sedang mengendarai mobil dengan bantuan GPS menuju sebuah lokasi yang belum pernah kamu kunjungi. Di tengah jalan, kamu mengambil belokan yang salah. Apa yang dilakukan GPS? Ia akan berkata, *"Recalculating..."* lalu memberikan rute baru untuk membawa kamu kembali ke jalur yang benar.
 
 Dalam manajemen, **Tindakan Korektif dan Evaluasi Kinerja** adalah fungsi "GPS" tersebut. Jika fungsi *Controlling* sebelumnya adalah tentang mendeteksi adanya simpangan, maka bagian ini adalah tentang bagaimana kita memperbaiki arah dan memastikan organisasi tetap sampai di tujuan.
 
@@ -23,11 +23,11 @@ Ada dua jenis varians yang perlu diperhatikan:
 1. **Varians Positif ($A > S$):** Terjadi saat hasil melampaui target. Kondisi ini menjadi kesempatan untuk mengevaluasi apakah target awal terlalu rendah, atau ada metode kerja baru yang sangat efektif yang perlu disebarluaskan ke bagian lain.
 2. **Varians Negatif ($A < S$):** Terjadi saat hasil berada di bawah target. Situasi ini membutuhkan tindakan cepat guna menemukan hambatan utama.
 
-> **Insight Penting:** Evaluasi kinerja yang efektif tidak mencari siapa yang salah, tetapi mencari apa yang salah dan bagaimana memperbaikinya.
+> **Insight Penting:** Evaluasi kinerja yang efektif menelusuri apa yang salah dan bagaimana memperbaikinya, tanpa sibuk menunjuk siapa yang salah.
 
 ## 2. Langkah-Langkah Tindakan Korektif
 
-Ketika evaluasi menunjukkan adanya masalah, manajer tidak boleh bereaksi secara emosional. Diperlukan pendekatan terstruktur:
+Ketika evaluasi menunjukkan adanya masalah, manajer perlu menahan reaksi emosional dan menanganinya dengan pendekatan terstruktur.
 
 ### A. Analisis Akar Masalah (Root Cause Analysis)
 
@@ -48,7 +48,7 @@ Tindakan korektif dapat dibagi menjadi dua pendekatan utama:
 
 ### C. Penyesuaian Standar
 
-Dalam beberapa kasus, penyimpangan terjadi akibat penetapan standar yang kurang realistis, bukan karena penurunan kinerja tim. Jika analisis menunjukkan bahwa standar tersebut mustahil dicapai akibat perubahan kondisi pasar, maka standar atau rencana $S$ perlu disesuaikan agar tetap relevan.
+Dalam beberapa kasus, sumber penyimpangan ada pada standar yang kurang realistis, sementara kinerja tim sendiri tidak menurun. Jika analisis menunjukkan bahwa standar tersebut mustahil dicapai akibat perubahan kondisi pasar, maka standar atau rencana $S$ perlu disesuaikan agar tetap relevan.
 
 ## 3. Audit Internal
 
@@ -58,7 +58,7 @@ Fungsi audit internal adalah memastikan kepatuhan terhadap prosedur, efektivitas
 
 ## 4. Umpan Balik untuk Perbaikan Berkelanjutan (Continuous Improvement)
 
-Tindakan korektif menjadi awal bagi siklus manajemen baru, bukan akhir dari proses pengendalian. Konsep ini sejalan dengan filosofi **Kaizen** atau perbaikan yang terus-menerus.
+Tindakan korektif menjadi awal bagi siklus manajemen baru. Konsep ini sejalan dengan filosofi **Kaizen** atau perbaikan yang terus-menerus.
 
 Dalam manajemen modern, siklus **PDCA (Plan-Do-Check-Act)** digunakan sebagai panduan:
 
@@ -106,10 +106,10 @@ Misalnya, hasil produksi hari ini 940 unit:
 | Varians ($A - S$) | -60 unit |
 | Varians relatif | -6% |
 
-Penyimpangan 6% sudah melewati toleransi 5%, sehingga statusnya masuk tingkat ketiga pada tabel status: tindakan korektif diperlukan dan *root cause analysis* perlu segera dilakukan.
+Penyimpangan 6% sudah melewati toleransi 5%, sehingga statusnya masuk tingkat ketiga pada tabel status. Artinya, tindakan korektif diperlukan dan *root cause analysis* perlu segera dilakukan.
 
 ## Belajar dari Kesalahan
 
-Tindakan korektif dan evaluasi bertujuan untuk membangun ketahanan (*resilience*), bukan untuk menghukum kegagalan. Organisasi yang hebat tidak terhindar dari kesalahan, tetapi mereka mampu belajar dengan cepat dari kesalahan tersebut melalui evaluasi yang jujur serta tindakan korektif yang tepat sasaran.
+Tindakan korektif dan evaluasi bertujuan untuk membangun ketahanan (*resilience*). Organisasi yang hebat juga pernah salah langkah, dan mereka mampu belajar dengan cepat dari kesalahan tersebut melalui evaluasi yang jujur serta tindakan korektif yang tepat sasaran.
 
 > **Poin Utama:** Tindakan korektif menjadikan hambatan sebagai bahan perbaikan untuk mencapai efisiensi yang lebih tinggi. Tanpa adanya tindakan korektif, organisasi rentan mengulangi kesalahan yang sama secara terus-menerus.

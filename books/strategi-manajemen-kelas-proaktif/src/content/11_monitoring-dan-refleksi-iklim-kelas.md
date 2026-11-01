@@ -6,7 +6,7 @@ Dalam manajemen kelas proaktif, **Monitoring dan Refleksi** adalah instrumen nav
 
 ## 1. Memahami "Iklim Kelas"
 
-Iklim kelas adalah kualitas sosial, emosional, dan fisik dari kehidupan di dalam kelas. Ini bukan hanya tentang apakah siswa "tenang", tetapi tentang apakah mereka merasa aman, dihargai, dan tertantang untuk belajar.
+Iklim kelas adalah kualitas sosial, emosional, dan fisik dari kehidupan di dalam kelas. Ukurannya adalah apakah siswa merasa aman, dihargai, dan tertantang untuk belajar, di samping apakah mereka "tenang".
 
 > **Wawasan:** Iklim kelas yang positif bersifat "menular". Ketika sistem monitoring menunjukkan adanya retakan kecil dalam iklim tersebut, intervensi dini dapat mencegah "badai" perilaku di masa depan.
 
@@ -32,7 +32,7 @@ Kamu dapat menggunakan skala 1-5 ($1 = \text{Sangat Jarang}$, $5 = \text{Sangat 
 
 ## 3. Mendengarkan Suara Siswa
 
-Siswa adalah "konsumen" utama dari manajemen kelas kamu. Mereka merasakan langsung efektivitas strategi yang kamu terapkan. Mengumpulkan umpan balik dari mereka bukan berarti menyerahkan kendali kelas, melainkan membangun kemitraan.
+Siswa adalah "konsumen" utama dari manajemen kelas kamu. Mereka merasakan langsung efektivitas strategi yang kamu terapkan. Mengumpulkan umpan balik dari mereka membangun kemitraan tanpa menyerahkan kendali kelas.
 
 ### Teknik Pengumpulan Umpan Balik
 
@@ -44,7 +44,7 @@ Siswa adalah "konsumen" utama dari manajemen kelas kamu. Mereka merasakan langsu
 		- **Start:** Apa yang harus guru mulai lakukan untuk membantu kelas lebih tertib?
 		- **Continue:** Apa yang sudah bagus dan harus dipertahankan?
 
-*Pertimbangkan hal berikut: Jika kamu takut mendengar jawaban siswa, itu mungkin tanda bahwa kamu perlu mendengarnya.*
+*Jika kamu takut mendengar jawaban siswa, itu mungkin tanda bahwa kamu perlu mendengarnya.*
 
 ## 4. Analisis Data dan Perbaikan Berkelanjutan
 
@@ -66,7 +66,7 @@ Jika hasil monitoring menunjukkan skor $E$ rendah, periksa variabel mana yang be
 
 1. **Collect (Kumpulkan):** Ambil data dari lembar observasi atau survei siswa.
 2. **Analyze (Analisis):** Cari pola. Apakah gangguan selalu terjadi di hari Kamis jam terakhir?
-3. **Adjust (Sesuaikan):** Ubah satu variabel (misal: mengubah tempat duduk atau memperpendek durasi ceramah).
+3. **Adjust (Sesuaikan):** Ubah satu variabel (misalnya mengubah tempat duduk atau memperpendek durasi ceramah).
 4. **Re-evaluate (Evaluasi Ulang):** Lihat hasilnya dalam dua minggu ke depan.
 
 Sebagai siklus, keempat langkah itu bisa kamu bayangkan berputar seperti ini.
@@ -98,10 +98,10 @@ flowchart LR
 
 Untuk memastikan proses monitoring ini inklusif bagi semua gaya belajar:
 
-- **Visual:** Gunakan grafik batang untuk menunjukkan kepada siswa kemajuan target perilaku kelas mereka (misal: "Minggu ini kita berhasil mencapai 90% tepat waktu masuk kelas!").
+- **Visual:** Gunakan grafik batang untuk menunjukkan kepada siswa kemajuan target perilaku kelas mereka (misalnya "Minggu ini kita berhasil mencapai 90% tepat waktu masuk kelas!").
 - **Auditori:** Lakukan diskusi lingkaran (circle time) singkat di hari Jumat untuk merefleksikan apa yang dirasakan kelas secara lisan.
 - **Kinestetik:** Gunakan "Kotak Saran Fisik" atau sistem voting menggunakan kelereng dalam toples untuk mengukur kepuasan siswa terhadap sebuah aktivitas.
 
-> **Pesan Utama:** Monitoring dan refleksi bukan tentang mencari kesalahan diri sendiri, melainkan tentang komitmen untuk menjadi lebih baik setiap harinya demi pertumbuhan siswa kamu.
+> **Pesan Utama:** Monitoring dan refleksi adalah komitmen untuk menjadi lebih baik setiap harinya demi pertumbuhan siswa kamu.
 
-*Pikirkan sejenak: Jika hari ini kamu menjadi siswa di kelas kamu sendiri, bagian mana dari manajemen kelas kamu yang akan membuat kamu merasa paling didukung, dan bagian mana yang akan membuat kamu frustrasi?*
+*Coba bayangkan hari ini kamu menjadi siswa di kelas kamu sendiri. Bagian mana dari manajemen kelas kamu yang akan membuat kamu merasa paling didukung, dan bagian mana yang akan membuat kamu frustrasi?*

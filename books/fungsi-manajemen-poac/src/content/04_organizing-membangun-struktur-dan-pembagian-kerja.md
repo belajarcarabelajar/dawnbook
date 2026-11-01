@@ -8,7 +8,7 @@ Jika *Planning* adalah sebuah cetak biru (blueprint) sebuah gedung, maka *Organi
 
 Pengorganisasian adalah proses mengatur dan mengalokasikan sumber daya manusia serta sumber daya lainnya agar rencana yang telah dibuat dapat dilaksanakan secara efektif.
 
-> **Insight Utama:** Struktur organisasi tidak hanya berfungsi sebagai bagan yang dipajang di dinding kantor, tetapi berperan sebagai sistem saraf yang menentukan aliran informasi dan proses pengambilan keputusan.
+> **Insight Utama:** Struktur organisasi berperan sebagai sistem saraf yang menentukan aliran informasi dan proses pengambilan keputusan.
 
 ### Dapur Restoran Besar
 
@@ -74,7 +74,7 @@ Agar aktivitas selaras dengan rencana, manajer harus mengikuti alur sistematis:
 
 ## 5. Transformasi Perusahaan Teknologi
 
-**Skenario:** Sebuah startup bernama "TechSolve" awalnya memiliki struktur **Flat** yang 20 karyawannya semuanya melapor langsung ke CEO. Seiring pertumbuhan mencapai 100 karyawan, terjadi kekacauan: CEO kelelahan karena harus menyetujui setiap pengeluaran kecil, dan proyek sering terlambat karena komunikasi yang tidak teratur.
+**Skenario:** Sebuah startup bernama "TechSolve" awalnya memiliki struktur **Flat** yang 20 karyawannya semuanya melapor langsung ke CEO. Seiring pertumbuhan mencapai 100 karyawan, keadaan berubah kacau. CEO kelelahan karena harus menyetujui setiap pengeluaran kecil, dan proyek sering terlambat karena komunikasi yang tidak teratur.
 
 **Solusi Organizing:**
 
@@ -86,6 +86,6 @@ Agar aktivitas selaras dengan rencana, manajer harus mengikuti alur sistematis:
 
 ## Benang Merah
 
-Organizing adalah tentang menciptakan **keteraturan di tengah kompleksitas**. Dengan struktur yang tepat, setiap individu tahu di mana posisi mereka, apa yang diharapkan dari mereka, dan kepada siapa mereka harus meminta bantuan. Struktur yang baik tidak bersifat kaku, melainkan harus mampu beradaptasi dengan perubahan rencana dan tantangan pasar.
+Organizing adalah tentang menciptakan **keteraturan di tengah kompleksitas**. Dengan struktur yang tepat, setiap individu tahu di mana posisi mereka, apa yang diharapkan dari mereka, dan kepada siapa mereka harus meminta bantuan. Struktur yang baik harus mampu beradaptasi dengan perubahan rencana dan tantangan pasar.
 
 > **Pelajaran Berharga:** Struktur yang buruk akan menghambat orang-orang baik, tetapi struktur yang tepat akan memberikan ruang bagi orang-orang biasa untuk menghasilkan kinerja yang tinggi.

@@ -1,18 +1,18 @@
 ## Studi Kasus di Bidang Kesehatan, Keuangan, dan Lingkungan
 
-Setelah memahami berbagai teori dan prinsip dalam arsitektur pilihan, sekarang saatnya kita melihat bagaimana teori-teori tersebut bekerja di dunia nyata. Arsitektur pilihan lebih dari sekadar eksperimen laboratorium. Penerapannya telah mengubah kebijakan berbagai negara, membantu menyelamatkan ribuan nyawa, serta mempermudah jutaan orang dalam mengelola masa depan mereka.
+Setelah memahami berbagai teori dan prinsip dalam arsitektur pilihan, sekarang saatnya kita melihat bagaimana teori-teori tersebut bekerja di dunia nyata. Penerapan arsitektur pilihan telah mengubah kebijakan berbagai negara, membantu menyelamatkan ribuan nyawa, serta mempermudah jutaan orang dalam mengelola masa depan mereka.
 
 Bagian ini akan membedah tiga bidang utama tempat penerapan *Nudge Theory* telah membawa perubahan besar.
 
 ## 1\. Donor Organ di Sektor Kesehatan
 
-Salah satu contoh klasik yang memperlihatkan kekuatan arsitektur pilihan adalah pendaftaran donor organ. Masalahnya sederhana: banyak orang menyatakan dukungan terhadap donor organ, tetapi hanya sebagian kecil yang benar-benar mendaftar.
+Salah satu contoh klasik yang memperlihatkan kekuatan arsitektur pilihan adalah pendaftaran donor organ. Banyak orang menyatakan dukungan terhadap donor organ, tetapi hanya sebagian kecil yang benar-benar mendaftar.
 
 ### Opt-in vs. Opt-out di Jerman dan Austria
 
 Di Eropa, terdapat perbedaan drastis dalam tingkat partisipasi donor organ antarnegara yang secara budaya mirip. Sebagai contoh, di Jerman, tingkat partisipasi hanya sekitar $12\text{\%}$, sementara di negara tetangganya, Austria, tingkat partisipasinya mencapai hampir $99\text{\%}$.
 
-Perbedaan ekstrem ini terjadi karena desain **Pilihan Standar (Defaults)**, bukan karena perbedaan tingkat moralitas penduduk:
+Perbedaan ekstrem ini terjadi karena desain **Pilihan Standar (Defaults)**. Perbedaan tingkat moralitas penduduk tidak menjadi penyebabnya. Begini cara kerja kedua desain itu:
 
 - **Jerman (Opt-in):** Pilihan standar (*default*) menetapkan bahwa setiap orang secara otomatis berstatus bukan donor. Untuk berpartisipasi, warga harus secara aktif mencentang kotak khusus atau mengisi formulir pendaftaran. Hal ini membutuhkan tindakan nyata.
 - **Austria (Opt-out):** Kebalikannya, status donor adalah pilihan standar untuk setiap warga negara. Siapa saja yang keberatan harus secara sadar memilih keluar dengan mencentang kolom penolakan.
@@ -101,6 +101,6 @@ Bayangkan kamu adalah seorang manajer fasilitas di sebuah gedung perkantoran bes
 
 **Analogi:**
 
-> Arsitektur pilihan dianalogikan seperti membangun jalur sepeda yang landai dan rindang. Kamu tidak melarang orang mengendarai mobil, tetapi kamu membuat pilihan bersepeda menjadi begitu mudah, aman, dan menyenangkan sehingga orang-orang secara sukarela beralih.
+> Arsitektur pilihan dianalogikan seperti membangun jalur sepeda yang landai dan rindang. Kamu membuat pilihan bersepeda begitu mudah, aman, dan menyenangkan sehingga orang-orang secara sukarela beralih, sementara mobil masih boleh dikendarai.
 
 Setiap domain penerapan ini menimbulkan pertanyaan etis tersendiri mengenai sejauh mana pemerintah atau lembaga dapat mengarahkan pilihan individu. Batasan antara dorongan yang membantu (nudge) dan hambatan yang merugikan (sludge) akan dibahas lebih mendalam pada bagian selanjutnya.

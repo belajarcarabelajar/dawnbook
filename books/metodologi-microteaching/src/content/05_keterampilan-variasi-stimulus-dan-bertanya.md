@@ -2,7 +2,7 @@
 
 Pernahkah kamu duduk di sebuah seminar tempat pembicaranya berbicara dengan nada datar selama dua jam tanpa bergerak sedikit pun dari podium? Kemungkinan besar, pikiran kamu mulai melayang ke daftar belanjaan atau apa yang akan kamu makan siang nanti.
 
-Dalam dunia pendidikan, **monotoni menghambat pembelajaran.** Guru yang baik bukan hanya mereka yang menguasai materi, tetapi mereka yang mampu menjaga perhatian siswa. Di sinilah dua keterampilan dasar mengajar berperan: **Variasi Stimulus** dan **Keterampilan Bertanya**.
+Dalam dunia pendidikan, **monotoni menghambat pembelajaran.** Guru yang baik menguasai materi sekaligus mampu menjaga perhatian siswa. Dua keterampilan dasar mengajar berperan di sini, yaitu **Variasi Stimulus** dan **Keterampilan Bertanya**.
 
 ## 1. Keterampilan Mengadakan Variasi Stimulus
 
@@ -36,7 +36,7 @@ Manusia memproses informasi melalui indra yang berbeda. Gunakan variasi:
 
 #### C. Variasi Pola Interaksi
 
-Jangan hanya menggunakan pola satu arah ($\text{Guru} \rightarrow \text{Siswa}$). Ciptakan pola:
+Selain pola satu arah ($\text{Guru} \rightarrow \text{Siswa}$), ciptakan juga pola berikut:
 
 - **Guru - Siswa:** Tanya jawab klasikal.
 - **Siswa - Guru:** Siswa berinisiatif mengajukan pertanyaan.
@@ -44,13 +44,13 @@ Jangan hanya menggunakan pola satu arah ($\text{Guru} \rightarrow \text{Siswa}$)
 
 ## 2. Keterampilan Bertanya (Questioning Skills)
 
-Jika variasi stimulus adalah cara kita menjaga siswa tetap terjaga, maka **bertanya** adalah cara kita memastikan otak mereka bekerja. Bertanya bukan sekadar meminta jawaban, melainkan alat untuk menuntun proses berpikir.
+Jika variasi stimulus adalah cara kita menjaga siswa tetap terjaga, maka **bertanya** adalah cara kita memastikan otak mereka bekerja. Dengan bertanya, kamu menuntun proses berpikir mereka.
 
 Josef Albers menulis dalam *Interaction of Color* (1963) bahwa mengajar yang baik lebih banyak berupa memberi pertanyaan yang tepat daripada memberi jawaban yang benar.
 
 ### Level Kognitif dalam Pertanyaan
 
-Gunakan taksonomi Bloom revisi untuk memicu berpikir kritis. Jangan hanya bertanya pada level ingatan (C1), tetapi naikkan ke level analisis (C4), evaluasi (C5), hingga mencipta (C6).
+Gunakan taksonomi Bloom revisi untuk memicu berpikir kritis. Mulailah dari level ingatan (C1), lalu naikkan ke level analisis (C4), evaluasi (C5), hingga mencipta (C6).
 
 $$
 \text{Kualitas Pembelajaran} \approx \sum_{n=1}^{i} \frac{\text{Kualitas Pertanyaan}}{\text{Jumlah Jawaban Ya/Tidak}}
@@ -62,7 +62,7 @@ $$
 2. **Pemberian Acuan (Structuring):** Berikan informasi singkat sebelum bertanya.
 	- *Contoh:* "Setelah kita melihat grafik kenaikan suhu global ini, menurutmu apa dampaknya bagi petani di desa kita?"
 3. **Pemindahan Giliran (Redirecting):** Lempar pertanyaan yang sama ke siswa lain untuk memperkaya perspektif.
-4. **Penyebaran (Distribution):** Jangan hanya bertanya pada "si pintar" di baris depan. Sebar pertanyaan ke seluruh penjuru kelas.
+4. **Penyebaran (Distribution):** Sebar pertanyaan ke seluruh penjuru kelas agar "si pintar" di baris depan tidak menjawab sendirian.
 5. **Waktu Tunggu (Wait Time):** Berikan waktu 3-7 detik setelah pertanyaan diajukan sebelum menunjuk siswa. Ini memberi kesempatan bagi siswa yang lambat memproses untuk ikut berpikir.
 
 ### Teknik Bertanya Lanjut (Untuk Berpikir Kritis)
@@ -77,12 +77,12 @@ $$
 
 **Skenario Penjelasan Ekosistem oleh Guru Biologi**
 
-1. **Variasi Stimulus (Gaya):** Guru memulai kelas dengan berdiri di tengah siswa (bukan di depan). Ia berbicara dengan nada misterius (Variasi Suara) tentang hutan hujan Amazon.
+1. **Variasi Stimulus (Gaya):** Guru memulai kelas dengan berdiri di tengah-tengah siswa. Ia berbicara dengan nada misterius (Variasi Suara) tentang hutan hujan Amazon.
 2. **Variasi Stimulus (Media):** Guru menunjukkan sebuah botol berisi ekosistem mini (terrarium) agar siswa bisa melihat langsung (Media Visual).
 3. **Bertanya (Acuan):** "Kalian lihat ada uap air di dinding botol ini (Acuan). Mengapa hal itu bisa terjadi padahal kita tidak menyiramnya pagi ini? (Pertanyaan Analisis)."
 4. **Wait Time:** Guru diam selama 5 detik, memandang seluruh kelas dengan senyum (Kontak Mata).
-5. **Redirecting:** Budi menjawab "Penguapan, Pak." Guru tidak langsung membenarkan, tapi bertanya pada Susi: "Susi, apakah kamu setuju dengan Budi? Dari mana asal air yang menguap itu?"
-6. **Probing:** Susi ragu-ragu. Guru memancing: "Lihat daun-daun itu, apakah tumbuhan juga mengeluarkan air?"
+5. **Redirecting:** Budi menjawab "Penguapan, Pak." Guru menunda pembenaran dan beralih bertanya pada Susi, "Susi, apakah kamu setuju dengan Budi? Dari mana asal air yang menguap itu?"
+6. **Probing:** Susi ragu-ragu. Guru memancing dengan pertanyaan, "Lihat daun-daun itu, apakah tumbuhan juga mengeluarkan air?"
 
 ## Tips untuk Calon Pendidik (Microteaching Context)
 

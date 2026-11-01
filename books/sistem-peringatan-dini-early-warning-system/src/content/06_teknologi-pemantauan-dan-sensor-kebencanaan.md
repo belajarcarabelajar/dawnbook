@@ -1,8 +1,8 @@
 ## Teknologi Pemantauan dan Sensor Kebencanaan
 
-Teknologi pemantauan dan sensor adalah mata dan telinga sistem peringatan dini. Tanpa sensor yang andal, peringatan hanya akan menjadi dugaan, bukan keputusan berbasis data. Kamu akan melihat bagaimana Indonesia merangkai jaringan sensor dari dasar laut hingga atmosfer untuk menangkap tanda bahaya sedini mungkin.
+Teknologi pemantauan dan sensor adalah mata dan telinga sistem peringatan dini. Tanpa sensor yang andal, peringatan hanya akan menjadi dugaan. Kamu akan melihat bagaimana Indonesia merangkai jaringan sensor dari dasar laut hingga atmosfer untuk menangkap tanda bahaya sedini mungkin.
 
-Pertanyaan awal yang relevan: *alat apa yang sebenarnya mendeteksi gempa, tsunami, atau banjir sebelum manusia merasakannya?* Jawaban terletak pada kombinasi fisika gelombang, radar, dan sistem satelit.
+Coba mulai dari pertanyaan *alat apa yang sebenarnya mendeteksi gempa, tsunami, atau banjir sebelum manusia merasakannya?* Jawaban terletak pada kombinasi fisika gelombang, radar, dan sistem satelit.
 
 ### 1. Sensor Seismik dan Geodesi
 
@@ -16,7 +16,7 @@ dengan \\( v \\) adalah kecepatan gelombang, \\( d \\) jarak, dan \\( t \\) wakt
 
 Selain seismometer, jaringan GPS CORS mengukur pergeseran lempeng. Data ini penting untuk memetakan daerah yang terkunci dan berpotensi menghasilkan gempa besar.
 
-> "Seismometer tidak memprediksi gempa, ia memberi tahu kita dengan sangat cepat bahwa gempa baru saja terjadi sehingga peringatan tsunami masih mungkin dikeluarkan."
+> "Seismometer memberi tahu kita dengan sangat cepat bahwa gempa baru saja terjadi sehingga peringatan tsunami masih mungkin dikeluarkan. Alat ini tidak memprediksi gempa."
 
 ### 2. Sensor Tsunami dan Muka Air Laut
 
@@ -47,8 +47,8 @@ Di darat, Automatic Weather Station (AWS) dan Automatic Rain Gauge (ARG) merekam
 
 ### 4. Internet of Things dan Sensor Komunitas
 
-Inovasi terbaru adalah sensor murah berbasis IoT: sensor tinggi muka air berbasis ultrasonik di sungai, sensor longsor berbasis inklinometer, dan pemancar LoRa yang mengirim data tanpa jaringan seluler. Sensor ini dapat dipasang warga bersama BPBD dengan biaya sepersepuluh sistem konvensional.
+Inovasi terbaru adalah sensor murah berbasis IoT, seperti sensor tinggi muka air berbasis ultrasonik di sungai, sensor longsor berbasis inklinometer, dan pemancar LoRa yang mengirim data tanpa jaringan seluler. Sensor ini dapat dipasang warga bersama BPBD dengan biaya sepersepuluh sistem konvensional.
 
-Tantangan utama bukan pada kecanggihan alat, melainkan pada perawatan, kalibrasi, dan keberlanjutan daya di lokasi terpencil. Sensor yang mati karena baterai habis sama berbahayanya dengan tidak ada sensor sama sekali. Oleh karena itu, setiap pemasangan harus disertai skema pemeliharaan dan redundansi komunikasi.
+Tantangan utamanya ada pada perawatan, kalibrasi, dan keberlanjutan daya di lokasi terpencil. Sensor yang mati karena baterai habis sama berbahayanya dengan tidak ada sensor sama sekali. Oleh karena itu, setiap pemasangan harus disertai skema pemeliharaan dan redundansi komunikasi.
 
 Sebagai penutup, teknologi tidak menggantikan kearifan. Sensor memberi angka, tetapi keputusan evakuasi tetap membutuhkan konteks lokal dan kepercayaan komunitas.

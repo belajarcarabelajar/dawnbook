@@ -45,7 +45,7 @@ P(\text{Donor} \mid \text{Opt-out}) \approx 0.99 \gg P(\text{Donor} \mid \text{O
 $$
 </div>
 
-Perbedaan tingkat persetujuan yang kontras ini terjadi karena kekuatan pilihan standar (default), bukan karena tingkat kepedulian sosial masyarakat di negara-negara tersebut berbeda.
+Perbedaan tingkat persetujuan yang kontras ini terjadi karena kekuatan pilihan standar (default). Selisih itu tidak muncul karena masyarakat di negara-negara tersebut berbeda tingkat kepedulian sosialnya.
 
 ## 4\. Implementasi dalam Dunia Digital & Engineering
 
@@ -63,7 +63,7 @@ Pengguna yang mengirim formulir tanpa menyentuh kotak itu berarti mengikuti *def
 
 - [ ] Saya setuju untuk membagikan data penggunaan anonim untuk peningkatan layanan.
 
-**Dampaknya:** Membuat kotak tercentang sejak awal mengubah "biaya kognitif" pengguna. Untuk menolak, mereka harus melakukan klik tambahan. Dalam skala jutaan pengguna, satu klik ini bisa meningkatkan tingkat persetujuan berbagi data hingga puluhan persen.
+Kotak yang tercentang sejak awal mengubah "biaya kognitif" pengguna. Untuk menolak, mereka harus melakukan klik tambahan. Dalam skala jutaan pengguna, satu klik ini bisa meningkatkan tingkat persetujuan berbagi data hingga puluhan persen.
 
 ## 5\. Penggunaan Praktis Pilihan Standar
 
@@ -79,7 +79,7 @@ Karena *default* berpengaruh besar, arsitek pilihan memikul tanggung jawab moral
 
 **Prinsip Desain Default yang Baik:**
 
-1. **Fokus pada Manfaat Pengguna:** Pilihan standar harus berorientasi pada kebaikan mayoritas pengguna, bukan demi keuntungan sepihak perusahaan.
+1. **Fokus pada Manfaat Pengguna:** Pilihan standar harus berorientasi pada kebaikan mayoritas pengguna. Keuntungan sepihak perusahaan tidak boleh menjadi dasarnya.
 2. **Kemudahan untuk Membatalkan:** Proses mengubah pilihan standar harus dirancang sesederhana mungkin, misalnya cukup dengan satu atau dua klik.
 3. **Transparansi Informasi:** Hindari menyembunyikan pengaturan default dalam teks berukuran kecil atau di halaman yang sulit diakses.
 

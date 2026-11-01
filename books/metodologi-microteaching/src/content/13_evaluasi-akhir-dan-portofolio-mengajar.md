@@ -2,13 +2,13 @@
 
 Kamu telah melewati berbagai siklus latihan, mulai dari kegugupan di simulasi pertama hingga keberhasilan di tahap *re-teaching*. Namun, perjalanan microteaching tidak berhenti saat kamu meletakkan kapur atau mematikan proyektor. Tahap ini adalah tahap penting untuk merangkum seluruh pengalaman latihan menjadi gambaran perkembangan profesional kamu.
 
-**Evaluasi Akhir** bukan sekadar nilai angka, melainkan proses merangkum pengalaman. Sementara itu, **Portofolio Mengajar** adalah bukti bahwa kamu telah berkembang dari seseorang yang memahami teori menjadi pendidik yang mampu mengeksekusi keterampilan di lapangan.
+**Evaluasi Akhir** adalah proses merangkum pengalaman. Sementara itu, **Portofolio Mengajar** adalah bukti bahwa kamu telah berkembang dari seseorang yang memahami teori menjadi pendidik yang mampu mengeksekusi keterampilan di lapangan.
 
 ## 1. Filosofi Evaluasi Akhir dalam Microteaching
 
-Dalam microteaching, evaluasi akhir menggunakan pendekatan **asesmen berkelanjutan** (*continuous assessment*). Kita tidak hanya melihat performa terakhir, tetapi melihat jarak (gap) yang telah berhasil kamu lalui.
+Dalam microteaching, evaluasi akhir menggunakan pendekatan **asesmen berkelanjutan** (*continuous assessment*). Performa terakhir dibaca bersama jarak (gap) yang telah berhasil kamu lalui.
 
-Analogi yang tepat adalah seorang atlet lari. Evaluasi akhir bukan hanya tentang seberapa cepat dia di garis *finish*, tetapi bagaimana dia memperbaiki teknik startnya, bagaimana dia mengatur napas di tengah lintasan, dan bagaimana dia bangkit setelah terjatuh di latihan kedua.
+Analogi yang tepat adalah seorang atlet lari. Evaluasi akhirnya melihat kecepatan dia di garis *finish*, juga cara dia memperbaiki teknik startnya, mengatur napas di tengah lintasan, dan bangkit setelah terjatuh di latihan kedua.
 
 ### Metrik Keberhasilan Pedagogik
 
@@ -48,22 +48,22 @@ Kamu dapat menyusunnya secara kronologis atau berdasarkan kategori keterampilan.
 
 ## 3. Menganalisis Perkembangan Kompetensi Berkelanjutan
 
-Tujuan utama dari bagian ini adalah menyimpulkan siklus menjadi laporan perkembangan. Kamu harus mampu menjawab pertanyaan: *"Seberapa jauh saya telah melangkah?"*
+Tujuan utama dari bagian ini adalah menyimpulkan siklus menjadi laporan perkembangan. Kamu harus mampu menjawab pertanyaan *"Seberapa jauh saya telah melangkah?"*
 
 ### Menggunakan Analisis SWOT Pedagogik
 
 Setelah menyelesaikan seluruh rangkaian microteaching, lakukan analisis SWOT terhadap diri kamu sendiri:
 
-- **Strengths (Kekuatan)**: Keterampilan dasar mengajar mana yang paling kamu kuasai? (Misal: Variasi stimulus atau keterampilan bertanya).
-- **Weaknesses (Kelemahan)**: Area mana yang masih terasa berat? (Misal: Manajemen waktu atau menutup pelajaran).
+- **Strengths (Kekuatan)**: Keterampilan dasar mengajar mana yang paling kamu kuasai? (Misalnya variasi stimulus atau keterampilan bertanya.)
+- **Weaknesses (Kelemahan)**: Area mana yang masih terasa berat? (Contohnya manajemen waktu atau menutup pelajaran.)
 - **Opportunities (Peluang)**: Teknologi atau metode apa yang ingin kamu pelajari lebih lanjut untuk menutupi kelemahan?
 - **Threats (Ancaman)**: Kondisi kelas nyata seperti apa yang mungkin menguji keterampilan kamu nanti?
 
-> **Insight Penting:** Jangan takut menunjukkan kegagalan dalam portofolio kamu. Seorang pendidik yang hebat tidak dinilai dari ketiadaan kesalahan, tetapi dari kemampuannya untuk mendeteksi kesalahan tersebut dan memperbaikinya secara sadar.
+> **Insight Penting:** Jangan takut menunjukkan kegagalan dalam portofolio kamu. Seorang pendidik yang hebat dinilai dari kemampuannya untuk mendeteksi kesalahan tersebut dan memperbaikinya secara sadar.
 
 ## 4. Kegunaan Portofolio di Dunia Kerja
 
-Bagaimana evaluasi akhir ini berguna di dunia nyata? Portofolio bukan hanya untuk syarat kelulusan mata kuliah.
+Bagaimana evaluasi akhir ini berguna di dunia nyata? Selain memenuhi syarat kelulusan mata kuliah, portofolio punya beberapa kegunaan lain.
 
 ### Skenario Penggunaan Portofolio
 
@@ -73,7 +73,7 @@ Bagaimana evaluasi akhir ini berguna di dunia nyata? Portofolio bukan hanya untu
 
 ### Contoh Implementasi dalam Laporan Akhir
 
-Dalam laporan kamu, alih-alih menulis *"Saya sudah bisa mengajar dengan baik"*, gunakan pendekatan berbasis data:
+Kalimat seperti *"Saya sudah bisa mengajar dengan baik"* terlalu umum untuk laporan kamu. Gunakan pendekatan berbasis data seperti contoh berikut:
 
 > "Pada siklus pertama, frekuensi saya memberikan penguatan (*reinforcement*) hanya 2 kali dalam 10 menit. Setelah melakukan refleksi berbasis video, pada siklus kedua saya berhasil meningkatkan frekuensi penguatan menjadi 6 kali dengan variasi verbal dan nonverbal, yang berdampak pada peningkatan partisipasi siswa model sebesar 40%."
 
@@ -86,11 +86,11 @@ Sebagai penutup dari seluruh rangkaian Microteaching, kamu wajib menyusun **Renc
 **Langkah penyusunan RTL:**
 
 1. **Identifikasi 2 keterampilan** yang masih perlu diasah.
-2. **Tentukan target waktu** (misal: "Dalam 3 bulan ke depan...").
-3. **Pilih strategi** (misal: "Saya akan mengikuti workshop pengelolaan kelas" atau "Saya akan rutin merekam latihan mandiri di rumah").
+2. **Tentukan target waktu** (misalnya "Dalam 3 bulan ke depan...").
+3. **Pilih strategi** (contohnya "Saya akan mengikuti workshop pengelolaan kelas" atau "Saya akan rutin merekam latihan mandiri di rumah").
 
 ## Bekal Awal Seorang Guru
 
-Evaluasi Akhir dan Portofolio Mengajar adalah momen ketika kamu berhenti sejenak untuk melihat ke belakang, agar kamu bisa berlari lebih cepat ke depan. Microteaching bukan sekadar simulasi singkat; ia adalah bekal awal kamu sebagai guru profesional. Dengan mendokumentasikan setiap prosesnya, kamu sedang menyusun catatan kompetensi yang bisa terus kamu kembangkan.
+Evaluasi Akhir dan Portofolio Mengajar adalah momen ketika kamu berhenti sejenak untuk melihat ke belakang, agar kamu bisa berlari lebih cepat ke depan. Simulasi singkat dalam microteaching menjadi bekal awal kamu sebagai guru profesional. Dengan mendokumentasikan setiap prosesnya, kamu sedang menyusun catatan kompetensi yang bisa terus kamu kembangkan.
 
 Joseph Joubert menulis dalam *Pensées*, "Mengajar adalah belajar dua kali." Mendokumentasikan proses belajar itu adalah cara terbaik untuk memastikan kita tidak pernah berhenti bertumbuh.

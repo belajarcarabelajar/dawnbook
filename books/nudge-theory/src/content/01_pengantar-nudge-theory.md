@@ -1,6 +1,6 @@
 ## Pengantar Nudge Theory
 
-Setiap pilihan yang kamu ambil hadir dalam lingkungan yang sudah dirancang, dan rancangan itu punya nama: **Arsitektur Pilihan** (*Choice Architecture*). Pernahkah kamu merasa bahwa keputusan yang kamu buat (seperti memilih menu makan siang, mengeklik tombol "Beli Sekarang", atau menentukan rute pulang) adalah hasil murni dari kehendak bebasmu?
+Setiap pilihan yang kamu ambil hadir dalam lingkungan yang sudah dirancang, dan rancangan itu dinamai **Arsitektur Pilihan** (*Choice Architecture*). Pernahkah kamu merasa bahwa keputusan yang kamu buat (seperti memilih menu makan siang, mengeklik tombol "Beli Sekarang", atau menentukan rute pulang) adalah hasil murni dari kehendak bebasmu?
 
 Kenyataannya, setiap keputusan yang kita ambil selalu terjadi di dalam sebuah wadah atau lingkungan yang telah dirancang. Cara pilihan-pilihan tersebut disajikan kepadamu sangat memengaruhi apa yang akhirnya kamu pilih. Inilah inti dari Arsitektur Pilihan.
 
@@ -26,7 +26,7 @@ Bayangkan kamu adalah seorang manajer kantin di sekolah besar. Kamu ingin para s
 1. **Skenario A:** Kamu meletakkan buah-buahan di bagian awal barisan makanan dan sejajar dengan mata, sementara keripik kentang ditaruh di rak paling bawah yang sulit dijangkau.
 2. **Skenario B:** Kamu meletakkan keripik kentang tepat di dekat kasir karena area tersebut paling sering dilewati, sementara buah-buahan disembunyikan di pojok belakang.
 
-Meskipun pilihan menu yang ditawarkan sama persis (siswa bebas memilih apa saja), Skenario A cenderung mendongkrak konsumsi buah. Di sini, peranmu melampaui penjual makanan biasa; kamu adalah seorang **Arsitek Pilihan**. Kamu tidak melarang keripik, tetapi memberikan dorongan (*nudge*) halus agar siswa memilih makanan yang lebih sehat.
+Meskipun pilihan menu yang ditawarkan sama persis (siswa bebas memilih apa saja), Skenario A cenderung mendongkrak konsumsi buah. Di sini, peranmu melampaui penjual makanan biasa; kamu adalah seorang **Arsitek Pilihan**. Keripik masih dijual, dan kamu memberikan dorongan (*nudge*) halus agar siswa memilih makanan yang lebih sehat.
 
 ## Lingkungan Fisik vs. Digital
 

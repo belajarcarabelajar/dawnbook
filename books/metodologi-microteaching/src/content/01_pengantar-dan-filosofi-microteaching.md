@@ -1,22 +1,22 @@
 ## Pengantar dan Filosofi Microteaching
 
-Langkah pertama kamu untuk menjadi pendidik yang inspiratif dan kompeten dimulai dari fondasi metodenya, bukan dari teknik mengajar. Sebelum kita masuk ke teknis penyusunan rencana pembelajaran atau teknik bertanya, kita perlu memahami fondasi utama dari metode yang kini dipakai dalam pendidikan guru di seluruh dunia: **Microteaching** (Pembelajaran Mikro).
+Langkah pertama kamu untuk menjadi pendidik yang inspiratif dan kompeten dimulai dari fondasi metodenya. Sebelum kita masuk ke teknis penyusunan rencana pembelajaran atau teknik bertanya, kita perlu memahami fondasi utama dari metode yang kini dipakai dalam pendidikan guru di seluruh dunia. Namanya **Microteaching** (Pembelajaran Mikro).
 
 ## Apa itu Microteaching?
 
-Secara etimologi, *micro* berarti kecil atau terbatas, dan *teaching* berarti mengajar. Namun, microteaching bukan sekadar "mengajar dalam skala kecil".
+Secara etimologi, *micro* berarti kecil atau terbatas, dan *teaching* berarti mengajar. Namun, arti microteaching tidak berhenti pada "mengajar dalam skala kecil".
 
 **Microteaching adalah sebuah metode latihan penampilan mengajar yang dirancang secara isolatif dan terkontrol untuk menguasai keterampilan dasar mengajar tertentu.**
 
 Bayangkan seorang calon pilot. Sebelum ia dipercaya menerbangkan pesawat komersial dengan ratusan penumpang, ia harus menghabiskan ratusan jam di dalam sebuah **Flight Simulator**. Di sana, ia bisa berlatih lepas landas, menghadapi cuaca buruk, hingga mendarat darurat tanpa risiko kecelakaan nyata.
 
-> **Microteaching adalah "Flight Simulator" bagi guru.** Ia menyediakan ruang aman tempat kesalahan bukan merupakan kegagalan, melainkan data berharga untuk perbaikan.
+> **Microteaching adalah "Flight Simulator" bagi guru.** Ia menyediakan ruang aman tempat setiap kesalahan menjadi data berharga untuk perbaikan.
 
 Dalam microteaching, kompleksitas pengajaran di kelas yang sebenarnya dikurangi secara signifikan:
 
 - **Jumlah siswa:** Biasanya hanya 5-10 orang (umumnya teman sejawat/peer-teaching).
 - **Waktu:** Dibatasi sekitar 10-15 menit.
-- **Fokus:** Hanya melatih satu atau dua keterampilan spesifik (misalnya: hanya cara membuka pelajaran atau cara memberikan penguatan).
+- **Fokus:** Hanya melatih satu atau dua keterampilan spesifik (misalnya hanya cara membuka pelajaran atau cara memberikan penguatan).
 
 ## Dari Stanford ke Seluruh Dunia
 
@@ -80,20 +80,20 @@ flowchart LR
     C --> D["Re-plan & Re-teach (Revisi & Praktik Ulang)"]
 ```
 
-*Pikirkan tentang ini: Jika seorang atlet profesional berlatih ribuan kali hanya untuk satu gerakan smash atau tendangan penalti, bukankah seorang pendidik juga butuh latihan yang sama intensnya?*
+*Coba renungkan sejenak. Jika seorang atlet profesional berlatih ribuan kali hanya untuk satu gerakan smash atau tendangan penalti, bukankah seorang pendidik juga butuh latihan yang sama intensnya?*
 
 ## Contoh dari Calon Guru dan Guru Profesional
 
-Microteaching tidak hanya untuk mahasiswa. Guru profesional pun menggunakannya untuk beradaptasi dengan kurikulum baru atau teknologi baru.
+Guru profesional juga menggunakan microteaching untuk beradaptasi dengan kurikulum baru atau teknologi baru.
 
-**Calon Pendidik (Pre-service):** Seorang mahasiswa keguruan merasa sangat pemalu. Melalui microteaching, ia fokus pada satu keterampilan: **Keterampilan Variasi Stimulus**. Ia berlatih menggerakkan tangan, mengubah nada suara, dan berpindah posisi berdiri. Setelah 3 kali sesi simulasi, ia mulai merasa nyaman dengan bahasa tubuhnya sendiri sebelum terjun ke sekolah formal.
+**Calon Pendidik (Pre-service):** Seorang mahasiswa keguruan merasa sangat pemalu. Melalui microteaching, ia hanya fokus pada satu keterampilan, yaitu **Keterampilan Variasi Stimulus**. Ia berlatih menggerakkan tangan, mengubah nada suara, dan berpindah posisi berdiri. Setelah 3 kali sesi simulasi, ia mulai merasa nyaman dengan bahasa tubuhnya sendiri sebelum terjun ke sekolah formal.
 
 **Guru Profesional (In-service):** Seorang guru senior yang terbiasa mengajar ceramah konvensional ingin beralih ke metode *Problem-Based Learning*. Ia melakukan sesi microteaching di depan rekan sejawatnya untuk mendapatkan masukan apakah instruksi masalah yang ia berikan sudah cukup menantang dan jelas bagi siswa masa kini.
 
 ## Filosofi Utama Microteaching
 
-Filosofi utama microteaching adalah **"Simple to Complex"**. Kita tidak belajar mengendarai mobil langsung di jalan tol; kita mulai dari lapangan kosong. Dengan menyederhanakan situasi mengajar, kita memberikan kesempatan bagi otak dan tubuh kita untuk membentuk "muscle memory" dalam mengajar.
+Filosofi utama microteaching adalah **"Simple to Complex"**. Orang belajar mengendarai mobil di lapangan kosong dulu, baru kemudian di jalan tol. Dengan menyederhanakan situasi mengajar, kita memberikan kesempatan bagi otak dan tubuh kita untuk membentuk "muscle memory" dalam mengajar.
 
-> **Pesan Utama:** Microteaching bukan tentang menjadi sempurna dalam satu kali coba. Ini tentang kesediaan untuk diamati, dikritik, dan kemauan untuk terus memperbaiki diri demi memberikan yang terbaik bagi peserta didik.
+> **Pesan Utama:** Microteaching meminta kesediaan untuk diamati, dikritik, dan terus memperbaiki diri demi memberikan yang terbaik bagi peserta didik. Hasil yang sempurna dalam satu kali coba tidak termasuk tuntutannya.
 
-*Pertanyaan Refleksi:* *Jika kamu diminta memilih satu saja keterampilan mengajar yang menurut kamu paling sulit (misalnya: membuka pelajaran, bertanya, atau menutup pelajaran), manakah yang ingin kamu latih pertama kali di laboratorium microteaching? Mengapa?*
+*Pertanyaan Refleksi:* *Jika kamu diminta memilih satu saja keterampilan mengajar yang menurut kamu paling sulit (misalnya membuka pelajaran, bertanya, atau menutup pelajaran), manakah yang ingin kamu latih pertama kali di laboratorium microteaching? Mengapa?*

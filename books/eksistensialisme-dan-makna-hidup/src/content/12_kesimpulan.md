@@ -1,12 +1,12 @@
 ## Kesimpulan
 
-Kita telah menempuh perjalanan panjang melalui pemikiran eksistensialisme, dari krisis nilai hingga beban kebebasan yang radikal. Dari sana, kita menyusuri pencarian makna di tengah penderitaan. Sekarang, kita tiba di titik akhir: **bagaimana kita menyatukan semua potongan puzzle ini untuk menjalani hidup hari ini?**
+Kita telah menempuh perjalanan panjang melalui pemikiran eksistensialisme, dari krisis nilai hingga beban kebebasan yang radikal. Dari sana, kita menyusuri pencarian makna di tengah penderitaan. Sekarang, di titik akhir, tinggal satu pertanyaan, yakni **bagaimana kita menyatukan semua potongan puzzle ini untuk menjalani hidup hari ini?**
 
-Eksistensialisme tidak mengajarkan keputusasaan. Filsafat ini justru mengundang kita untuk merayakan kefanaan hidup. Jika hidup ini abadi, setiap momen tidak akan memiliki nilai karena kita selalu punya "esok" yang tak terbatas. Namun, justru karena hidup ini terbatas, setiap detiknya menjadi berharga.
+Eksistensialisme mengundang kita untuk merayakan kefanaan hidup. Jika hidup ini abadi, setiap momen tidak akan memiliki nilai karena kita selalu punya "esok" yang tak terbatas. Namun, justru karena hidup ini terbatas, setiap detiknya menjadi berharga.
 
 ### 1. Nilai dari Kefanaan
 
-Bayangkan hidupmu sebagai sebuah jam pasir. Kita sering kali merasa cemas melihat butiran pasir yang jatuh ke bawah, menyadari bahwa jumlah di atas semakin sedikit. Namun, eksistensialisme mengajak kita untuk berhenti meratapi pasir yang hilang dan mulai memperhatikan aliran pasir tersebut saat ia melewati celah sempit: **momen saat ini.**
+Bayangkan hidupmu sebagai sebuah jam pasir. Kita sering kali merasa cemas melihat butiran pasir yang jatuh ke bawah, menyadari bahwa jumlah di atas semakin sedikit. Namun, eksistensialisme mengajak kita untuk berhenti meratapi pasir yang hilang dan mulai memperhatikan aliran pasir tersebut saat ia melewati celah sempit yang bernama **momen saat ini.**
 
 > **Pesan Penting:** Kefanaan (finitude) memberi nilai pada eksistensi. Tanpa kematian, kehidupan hanyalah repetisi tanpa makna.
 
@@ -22,10 +22,10 @@ Jika waktu $T$ mendekati tak terhingga ($\infty$), maka nilai $V$ dari satu mome
 
 ### 2. Merangkul Ketidakpastian sebagai Kebebasan
 
-Banyak dari kita menghabiskan banyak tenaga untuk mencari kepastian: kepastian karier, kepastian hubungan, hingga kepastian masa depan. Eksistensialisme mengajarkan bahwa **ketidakpastian adalah ruang bagi kebebasan.**
+Banyak dari kita menghabiskan banyak tenaga untuk mencari kepastian dalam karier, hubungan, hingga masa depan. Eksistensialisme mengajarkan bahwa **ketidakpastian adalah ruang bagi kebebasan.**
 
-- **Ketidakpastian sebagai Kemungkinan:** Ketika masa depan tidak pasti, kamu memegang kendali penuh untuk menulis skenariomu sendiri, alih-alih menjadi robot yang sekadar mengikuti naskah yang sudah jadi.
-- **Keberanian Menghadapi Kecemasan:** Kierkegaard menyebut kecemasan sebagai rasa pusing akibat kebebasan. Alih-alih melarikan diri, kita perlu belajar beradaptasi dan terus bergerak maju dalam ketidakpastian.
+- **Ketidakpastian sebagai Kemungkinan:** Ketika masa depan tidak pasti, kamu memegang kendali penuh untuk menulis skenariomu sendiri tanpa harus menjadi robot yang mengikuti naskah yang sudah jadi.
+- **Keberanian Menghadapi Kecemasan:** Kierkegaard menyebut kecemasan sebagai rasa pusing akibat kebebasan. Kita perlu belajar beradaptasi dan terus bergerak maju dalam ketidakpastian, tanpa melarikan diri darinya.
 
 Ketika kita mengetahui akhir dari setiap cerita secara pasti, rasa penasaran dan gairah untuk menjalani hidup akan sirna.
 
@@ -55,7 +55,7 @@ Dalam **Perspektif Eksistensial**, tidak ada jawaban "benar" yang tertulis di lu
 
 ### 5. Menjadi "Übermensch" di Dunia Modern
 
-Di akhir buku ini, fokus kita bergeser. Kita tidak lagi mencari "makna hidup" yang tersembunyi di suatu tempat, tetapi belajar menjadi pencipta makna itu sendiri. Kita diajak untuk menjadi *Übermensch* dalam keseharian kita, yaitu sosok yang berani merombak nilai-nilai lama yang usang dan menetapkan prinsip hidupnya sendiri.
+Di akhir buku ini, fokus kita bergeser. Kita berhenti mencari "makna hidup" yang tersembunyi di suatu tempat dan belajar menjadi pencipta makna itu sendiri. Kita diajak untuk menjadi *Übermensch* dalam keseharian kita, yaitu sosok yang berani merombak nilai-nilai lama yang usang dan menetapkan prinsip hidupnya sendiri.
 
 > "Manusia adalah seutas tali yang terbentang antara hewan dan Übermensch: seutas tali di atas jurang." - Friedrich Nietzsche
 
@@ -65,9 +65,9 @@ Tanggung jawab kita adalah berjalan di atas tali tersebut dengan kepala tegak.
 
 Hidup ini absurd, tidak memiliki manual instruksi, dan pasti akan berakhir. Namun, kemenangan kita ada dalam keabsurdan itu. Dengan menerima bahwa kita tidak memiliki esensi yang ditentukan sebelumnya, kita bebas untuk menjadi apa saja.
 
-- **Hadapi kesunyian semesta:** Alih-alih takut pada keheningan dunia, isilah ruang kosong tersebut dengan tindakan dan suaramu sendiri.
+- **Hadapi kesunyian semesta:** Isilah ruang kosong dalam keheningan dunia dengan tindakan dan suaramu sendiri, tanpa rasa takut.
 - **Jadikan kematian sebagai pengingat:** Kesadaran akan akhir kehidupan justru memicu kita untuk menjalani hari ini dengan lebih bermakna dan intens.
 
-Rayakanlah keberadaanmu. Hidup ini layak dirayakan bukan karena kemudahan atau kepastiannya, tetapi karena ia sepenuhnya menjadi milikmu untuk diciptakan.
+Rayakanlah keberadaanmu. Hidup ini layak dirayakan karena ia sepenuhnya menjadi milikmu untuk diciptakan.
 
-Sebagai langkah akhir, cobalah lakukan satu hal hari ini semata-mata karena kamu secara sadar memilihnya sebagai bentuk ekspresi diri yang paling jujur, bukan karena tuntutan atau norma sosial. Itulah awal dari perayaan hidup yang sesungguhnya.
+Sebagai langkah akhir, cobalah lakukan satu hal hari ini semata-mata karena kamu secara sadar memilihnya sebagai bentuk ekspresi diri yang paling jujur, lepas dari tuntutan atau norma sosial. Itulah awal dari perayaan hidup yang sesungguhnya.

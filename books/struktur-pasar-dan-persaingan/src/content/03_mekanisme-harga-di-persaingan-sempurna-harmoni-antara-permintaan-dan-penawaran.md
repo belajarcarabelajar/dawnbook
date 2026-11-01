@@ -6,7 +6,7 @@ Dalam bagian ini, kita akan membedah bagaimana interaksi jutaan keputusan indivi
 
 ## 1. Pembentukan Harga oleh Kekuatan Kolektif Pasar
 
-Dalam Pasar Persaingan Sempurna, harga tidak ditentukan oleh satu perusahaan seperti monopoli, melainkan oleh **kekuatan pasar secara keseluruhan** (permintaan pasar dan penawaran pasar).
+Dalam Pasar Persaingan Sempurna, harga ditentukan oleh **kekuatan pasar secara keseluruhan** (permintaan pasar dan penawaran pasar). Satu perusahaan saja tidak bisa mengendalikannya seperti pada monopoli.
 
 ### Pasar Ibarat Timbangan
 

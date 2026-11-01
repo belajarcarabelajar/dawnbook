@@ -18,13 +18,13 @@ Setiap rencana besar dimulai dari dua pernyataan dasar yang menjadi penunjuk ara
 
 #### A. Visi (The "Where")
 
-Visi adalah gambaran masa depan yang ideal. Ia bersifat jangka panjang, inspiratif, dan menjawab pertanyaan: *"Ingin menjadi seperti apa organisasi kita di masa depan?"*
+Visi adalah gambaran masa depan yang ideal. Ia bersifat jangka panjang, inspiratif, dan menjawab pertanyaan *"Ingin menjadi seperti apa organisasi kita di masa depan?"*
 
 - **Contoh:** "Menjadi perusahaan penyedia energi terbarukan nomor satu di Asia Tenggara pada tahun 2040."
 
 #### B. Misi (The "How")
 
-Misi adalah alasan mengapa organisasi itu ada. Ia menjelaskan bisnis inti organisasi, target pasar, dan nilai-nilai yang diusung. Misi menjawab pertanyaan: *"Apa yang kita lakukan hari ini untuk mewujudkan visi tersebut?"*
+Misi adalah alasan mengapa organisasi itu ada. Ia menjelaskan bisnis inti organisasi, target pasar, dan nilai-nilai yang diusung. Misi menjawab pertanyaan *"Apa yang kita lakukan hari ini untuk mewujudkan visi tersebut?"*
 
 - **Contoh:** "Menyediakan teknologi panel surya yang terjangkau bagi rumah tangga dan industri melalui inovasi berkelanjutan."
 
@@ -99,4 +99,4 @@ Mari kita lihat bagaimana Planning bekerja pada sebuah perusahaan startup fiktif
 
 Planning merupakan langkah pertama yang mendasar dalam kerangka POAC. Tanpa perencanaan yang matang, fungsi *Organizing, Actuating,* dan *Controlling* akan kehilangan pijakan. Perencanaan yang terarah membantu mengurangi dampak ketidakpastian, meminimalkan pemborosan sumber daya, dan menetapkan standar dasar untuk proses pengawasan nanti.
 
-> **Penting:** Perencanaan yang baik tidak dirancang secara kaku. Rencana tersebut harus fleksibel untuk beradaptasi dengan dinamika di lapangan, tetapi tetap terarah pada pencapaian visi utama.
+> **Penting:** Perencanaan yang baik harus cukup lentur untuk beradaptasi dengan dinamika di lapangan sambil tetap terarah pada pencapaian visi utama.

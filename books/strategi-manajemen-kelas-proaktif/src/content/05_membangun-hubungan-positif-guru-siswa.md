@@ -1,8 +1,8 @@
 ## Membangun Hubungan Positif Guru-Siswa
 
-Pernahkah kamu bertanya-tanya mengapa seorang siswa bersedia bekerja ekstra keras untuk satu guru, tetapi tampak sangat tidak peduli di kelas guru lainnya? Jawabannya biasanya tidak terletak pada materi pelajaran, melainkan pada **kualitas hubungan** di antara mereka.
+Pernahkah kamu bertanya-tanya mengapa seorang siswa bersedia bekerja ekstra keras untuk satu guru, tetapi tampak sangat tidak peduli di kelas guru lainnya? Jawabannya biasanya ada pada **kualitas hubungan** di antara mereka.
 
-Dalam kerangka Manajemen Kelas Proaktif, hubungan positif bukanlah sekadar "sikap ramah". Ini adalah strategi teknis yang menciptakan fondasi emosional agar instruksi akademik dapat diterima dengan optimal. Tanpa hubungan yang kuat, aturan kelas hanyalah sekumpulan paksaan yang menunggu untuk dilanggar.
+Dalam kerangka Manajemen Kelas Proaktif, hubungan positif adalah strategi teknis yang menciptakan fondasi emosional agar instruksi akademik dapat diterima dengan optimal. Tanpa hubungan yang kuat, aturan kelas hanyalah sekumpulan paksaan yang menunggu untuk dilanggar.
 
 ## 1. Mengenal Karakteristik Individu lewat Profil Siswa
 
@@ -22,15 +22,15 @@ Jangan hanya mengandalkan ingatan. Gunakan pendekatan sistematis untuk memetakan
 
 ## 2. Membangun Kepercayaan Melalui Kehadiran Otentik
 
-Kepercayaan (*Trust*) tidak diberikan secara cuma-cuma; ia dibangun melalui konsistensi dan empati. Siswa perlu merasa bahwa kamu adalah orang dewasa yang dapat diandalkan dan peduli pada keberhasilan mereka.
+Kepercayaan (*Trust*) dibangun melalui konsistensi dan empati. Siswa perlu merasa bahwa kamu adalah orang dewasa yang dapat diandalkan dan peduli pada keberhasilan mereka.
 
 ### Komponen Utama Kepercayaan
 
 1. **Konsistensi**: Bersikaplah dapat diprediksi. Jika kamu berkata akan membantu mereka di jam istirahat, hadirilah.
-2. **Kerentanan Terukur**: Jangan takut mengakui kesalahan. Jika kamu salah menulis rumus di papan tulis, akui dengan santai. Ini menunjukkan bahwa belajar adalah proses, bukan kesempurnaan.
+2. **Kerentanan Terukur**: Jangan takut mengakui kesalahan. Jika kamu salah menulis rumus di papan tulis, akui dengan santai. Ini menunjukkan bahwa belajar adalah proses yang boleh diwarnai kesalahan.
 3. **Mendengarkan Aktif**: Saat siswa berbicara, berikan perhatian penuh. Gunakan teknik *mirroring* (mengulang kembali inti pembicaraan mereka) untuk menunjukkan pemahaman.
 
-*Pertimbangkan hal berikut: Apakah kamu lebih sering berbicara "kepada" siswa atau berbicara "dengan" siswa? Pergeseran preposisi ini mengubah seluruh dinamika kekuasaan di kelas.*
+*Apakah kamu lebih sering berbicara "kepada" siswa atau berbicara "dengan" siswa? Pergeseran preposisi ini mengubah seluruh dinamika kekuasaan di kelas.*
 
 ## 3. Menciptakan Iklim Emosional yang Aman
 
@@ -71,16 +71,16 @@ Hubungan positif adalah "pelumas" bagi disiplin kelas. Saat hubungan sudah kuat,
 
 **Kasus**: Budi, seorang siswa yang biasanya aktif, tiba-tiba menelungkupkan kepala di meja dan menolak mengerjakan tugas.
 
-- **Pendekatan Reaktif (Tanpa Hubungan)**: "Budi, duduk tegak dan kerjakan tugasmu atau nilaimu Ibu kurangi!" (Hasil: Budi semakin defensif atau membangkang).
+- **Pendekatan Reaktif (Tanpa Hubungan)**: "Budi, duduk tegak dan kerjakan tugasmu atau nilaimu Ibu kurangi!" Akibatnya, Budi semakin defensif atau membangkang.
 - **Pendekatan Proaktif (Berbasis Hubungan)**:
 	1. Dekati Budi dengan suara rendah (privasi).
 		2. Gunakan sentuhan ringan di bahu (jika sesuai budaya).
-		3. Tanyakan: *"Budi, kamu tidak seperti biasanya hari ini. Ada yang bisa Ibu bantu supaya kamu merasa lebih siap belajar?"*
-		4. Berikan pilihan: *"Mau istirahat 2 menit dulu atau kita kerjakan satu soal pertama bersama-sama?"*
+		3. Tanyakan, *"Budi, kamu tidak seperti biasanya hari ini. Ada yang bisa Ibu bantu supaya kamu merasa lebih siap belajar?"*
+		4. Berikan pilihan, misalnya *"Mau istirahat 2 menit dulu atau kita kerjakan satu soal pertama bersama-sama?"*
 
 ## Lembar Profil Interaksi
 
-Untuk memastikan kamu membangun hubungan secara merata (tidak hanya pada siswa yang populer atau yang paling bermasalah), gunakan format pelacakan sederhana seperti di bawah ini:
+Untuk memastikan hubunganmu menjangkau semua siswa, selain yang populer atau yang paling bermasalah, gunakan format pelacakan sederhana seperti di bawah ini:
 
 | Siswa | Minat | Kekuatan | Cara menjalin hubungan |
 | --- | --- | --- | --- |

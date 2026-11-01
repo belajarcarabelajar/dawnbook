@@ -1,18 +1,18 @@
 ## Akar Historis Kierkegaard dan Nietzsche
 
-Sebelum Jean-Paul Sartre memopulerkan istilah eksistensialisme di kafe-kafe Paris pada abad ke-20, dua pemikir abad ke-19 telah meletakkan fondasinya. Meskipun mereka tidak pernah bertemu dan memiliki latar belakang yang sangat berbeda (yang satu seorang Kristen taat dan yang lainnya pengkritik keras agama), keduanya sepakat pada satu hal: **Individu adalah pusat dari kebenaran.**
+Sebelum Jean-Paul Sartre memopulerkan istilah eksistensialisme di kafe-kafe Paris pada abad ke-20, dua pemikir abad ke-19 telah meletakkan fondasinya. Meskipun mereka tidak pernah bertemu dan memiliki latar belakang yang sangat berbeda (yang satu seorang Kristen taat dan yang lainnya pengkritik keras agama), keduanya sepakat bahwa **individu adalah pusat dari kebenaran.**
 
 Mari kita telusuri bagaimana kegelisahan Søren Kierkegaard dan pemberontakan Friedrich Nietzsche membentuk cara kita memahami makna hidup hari ini.
 
 ## 1. Søren Kierkegaard sebagai Bapak Eksistensialisme
 
-Søren Kierkegaard (1813–1855) adalah seorang filsuf Denmark yang merasa muak dengan filsafat sistematis zamannya yang mencoba menjelaskan segalanya secara logis. Bagi Kierkegaard, hidup bukanlah teka-teki logika untuk dipecahkan. Hidup adalah kenyataan yang mesti kamu jalani.
+Søren Kierkegaard (1813–1855) adalah seorang filsuf Denmark yang merasa muak dengan filsafat sistematis zamannya yang mencoba menjelaskan segalanya secara logis. Bagi Kierkegaard, hidup adalah kenyataan yang mesti kamu jalani, lebih dari teka-teki logika yang menunggu dipecahkan.
 
 ### Kecemasan (Angst) sebagai "Pusing karena Kebebasan"
 
 Kierkegaard memperkenalkan konsep *Angst* atau kecemasan. Berbeda dengan rasa takut yang memiliki objek spesifik seperti laba-laba, kecemasan bersifat abstrak.
 
-> **Analogi Jurang:** Bayangkan kamu berdiri di tepi tebing yang sangat tinggi. Kamu merasakan pusing. Menurut Kierkegaard, pening itu tidak sekadar dipicu ketakutan akan ketinggian. Kamu pusing karena menyadari bahwa kamu punya kuasa untuk melompat. Di situlah kecemasan lahir: kesadaran penuh atas kebebasan mutlak yang kamu miliki.
+> **Analogi Jurang:** Bayangkan kamu berdiri di tepi tebing yang sangat tinggi. Kamu merasakan pusing. Menurut Kierkegaard, pening itu datang dari rasa takut akan ketinggian dan juga dari kesadaran bahwa kamu punya kuasa untuk melompat. Kecemasan lahir dari kesadaran penuh atas kebebasan mutlak yang kamu miliki itu.
 
 ### Tiga Tahap Eksistensi
 
@@ -34,7 +34,7 @@ flowchart LR
 
 ### Kebenaran adalah Subjektivitas
 
-Kierkegaard meyakini kebenaran terpenting tidak bersifat objektif seperti rumus matematika $2 + 2 = 4$. Kebenaran sejati bersifat subjektif, yaitu nilai yang kamu yakini secara personal dan membuatmu rela hidup atau mati untuk mempertahankannya.
+Kierkegaard meyakini kebenaran terpenting berbeda sifatnya dari rumus matematika $2 + 2 = 4$ yang objektif. Kebenaran sejati bersifat subjektif, yaitu nilai yang kamu yakini secara personal dan membuatmu rela hidup atau mati untuk mempertahankannya.
 
 ## 2. Kematian Tuhan dan Kelahiran Nilai Baru menurut Friedrich Nietzsche
 
@@ -42,7 +42,7 @@ Jika Kierkegaard mencari makna di dalam Tuhan, Friedrich Nietzsche (1844–1900)
 
 ### "Tuhan Sudah Mati" (Gott ist tot)
 
-Pernyataan Nietzsche ini populer sekaligus paling sering disalahpahami. Dia tidak bermaksud mengumumkan kematian sosok supranatural. Nietzsche ingin menunjukkan bahwa kepercayaan pada Tuhan telah kehilangan perannya sebagai poros moral dan kebudayaan masyarakat modern.
+Pernyataan Nietzsche ini populer sekaligus paling sering disalahpahami. Nietzsche ingin menunjukkan bahwa kepercayaan pada Tuhan telah kehilangan perannya sebagai poros moral dan kebudayaan masyarakat modern. Ia tidak sedang mengumumkan kematian sosok supranatural.
 
 **Konsekuensi Logis:** Jika Tuhan yang menjadi sumber nilai absolut hilang, nihilisme akan membayangi manusia:
 
@@ -66,7 +66,7 @@ Nietzsche tidak ingin manusia terpuruk dalam nihilisme. Sebagai penawarnya, dia 
 
 Nietzsche percaya dorongan dasar manusia melampaui sekadar pertahanan hidup ala teori Darwin. Manusia selalu berhasrat untuk tumbuh, mengekspresikan diri, dan melampaui keterbatasan dirinya.
 
-> **Penting:** Dalam konteks ini, kehendak untuk berkuasa dapat dipahami sebagai penguasaan atas diri sendiri (*self-mastery*), bukan semata-mata dominasi untuk menindas orang lain.
+> **Penting:** Dalam konteks ini, kehendak untuk berkuasa dapat dipahami sebagai penguasaan atas diri sendiri (*self-mastery*). Maknanya lebih luas daripada dominasi untuk menindas orang lain.
 
 ## Kierkegaard vs Nietzsche
 
@@ -79,9 +79,9 @@ Nietzsche percaya dorongan dasar manusia melampaui sekadar pertahanan hidup ala 
 
 ## Mengapa Mereka Relevan Sekarang?
 
-Gagasan kedua pemikir ini bukan sekadar warisan masa lalu. Kita bisa memanfaatkannya sebagai panduan praktis untuk menghadapi dunia modern:
+Warisan kedua pemikir ini masih bisa kita manfaatkan sebagai panduan praktis untuk menghadapi dunia modern:
 
-- **Menjinakkan FOMO (Fear of Missing Out)**: Gagasan Kierkegaard tentang kecemasan mengingatkan kita bahwa bingung memilih arah adalah tanda kebebasan yang nyata. Alih-alih cemas dan menghindar, kita ditantang mengambil keputusan secara utuh.
+- **Menjinakkan FOMO (Fear of Missing Out)**: Gagasan Kierkegaard tentang kecemasan mengingatkan kita bahwa bingung memilih arah adalah tanda kebebasan yang nyata. Kita ditantang mengambil keputusan secara utuh, tanpa menghindar karena cemas.
 - **Navigasi Krisis Makna di Era Digital**: Nietzsche menawarkan jalan keluar dari kehampaan modern lewat konsep *Übermensch*. Kita didorong menolak arus tren media sosial secara buta, lalu merumuskan sendiri prinsip hidup yang berharga, misalnya memprioritaskan integritas dibanding popularitas.
 
 ### Karier vs Panggilan
@@ -89,7 +89,7 @@ Gagasan kedua pemikir ini bukan sekadar warisan masa lalu. Kita bisa memanfaatka
 Bayangkan Budi, seorang akuntan sukses yang merasa hampa.
 
 - **Secara Kierkegaardian:** Budi mungkin berada di tahap etis. Ia harus melakukan "loncatan" untuk menemukan apa yang secara subjektif bermakna baginya, mungkin sebuah panggilan spiritual atau pengabdian yang melampaui logika karier.
-- **Secara Nietzschean:** Budi harus sadar bahwa "makna" tidak akan turun dari langit. Ia harus menggunakan kehendak untuk berkuasanya untuk mendefinisikan ulang siapa dirinya, mungkin dengan menciptakan karya seni atau membangun sistem baru yang mencerminkan nilai pribadinya, bukan nilai perusahaan.
+- **Secara Nietzschean:** Budi harus sadar bahwa "makna" tidak akan turun dari langit. Ia harus menggunakan kehendak untuk berkuasanya untuk mendefinisikan ulang siapa dirinya, mungkin dengan menciptakan karya seni atau membangun sistem baru yang lahir dari nilai pribadinya sendiri.
 
 ## Dua Cabang Akar Eksistensialisme
 

@@ -1,8 +1,8 @@
 ## Diam sebagai Jawaban
 
-Dalam sebuah studi di Amerika Serikat, sekitar seperempat peserta mengaku pernah ditinggal menghilang oleh pasangan romantisnya. Pola ini punya nama yang mungkin sudah sering kamu dengar, yaitu *ghosting* (menghilang tanpa kabar): pesan tidak lagi dibalas, dan penjelasan tidak pernah datang.
+Dalam sebuah studi di Amerika Serikat, sekitar seperempat peserta mengaku pernah ditinggal menghilang oleh pasangan romantisnya. Pola ini punya nama yang mungkin sudah sering kamu dengar, yaitu *ghosting* (menghilang tanpa kabar). Pesan tidak lagi dibalas, dan penjelasan tidak pernah datang.
 
-Bab ini membahas diam sebagai cara mengakhiri kontak. Seberapa sering hal itu terjadi, bagaimana rasanya bagi kedua pihak, dan kapan diam justru pilihan yang wajar. Satu catatan sejak awal: hampir semua studi di bab ini meneliti berakhirnya hubungan, bukan ketertarikan sepihak yang baru tumbuh. Jadi ketika temuan itu dipakai untuk situasi "dia suka, kamu tidak", itu adalah penarikan kesimpulan buku ini, bukan hasil langsung para peneliti.
+Bab ini membahas diam sebagai cara mengakhiri kontak. Seberapa sering hal itu terjadi, bagaimana rasanya bagi kedua pihak, dan kapan diam justru pilihan yang wajar. Sejak awal perlu dicatat bahwa hampir semua studi di bab ini meneliti berakhirnya hubungan. Ketertarikan sepihak yang baru tumbuh hampir tidak tersentuh. Jadi ketika temuan itu dipakai untuk situasi "dia suka, kamu tidak", kesimpulannya ditarik oleh buku ini sendiri.
 
 ### Seberapa Sering Orang Menghilang Tanpa Kabar
 
@@ -10,17 +10,17 @@ Angka di pembuka berasal dari [Freedman dan rekan (2019)](https://doi.org/10.117
 
 Pertemanan ternyata juga tidak luput. Di studi kedua mereka, dengan 747 peserta, 38,6% pernah di-*ghosting* oleh teman, dan 31,7% pernah melakukannya kepada teman.
 
-Penelitian yang sama juga melihat keyakinan orang tentang hubungan. Keyakinan *destiny* (secara kasar, anggapan bahwa hubungan ditentukan takdir) yang lebih kuat berjalan seiring dengan sikap lebih menerima dan lebih sering memakai *ghosting*. Keyakinan *growth* (secara kasar, anggapan bahwa hubungan bisa bertumbuh) berjalan seiring dengan pola yang sebaliknya. Semua data ini laporan diri peserta, jadi bacalah sebagai gambaran, bukan ukuran pasti.
+Penelitian yang sama juga melihat keyakinan orang tentang hubungan. Keyakinan *destiny* (secara kasar, anggapan bahwa hubungan ditentukan takdir) yang lebih kuat berjalan seiring dengan sikap lebih menerima dan lebih sering memakai *ghosting*. Keyakinan *growth* (secara kasar, anggapan bahwa hubungan bisa bertumbuh) berjalan seiring dengan pola yang sebaliknya. Semua data ini laporan diri peserta, jadi angkanya belum bisa menjadi ukuran pasti.
 
 ### Dua Peran Ghosting yang Sama-sama Dialami
 
-Dalam studi kualitatif [LeFebvre dan rekan (2019)](https://doi.org/10.1177/0276236618820519) terhadap 99 orang dewasa muda, sebagian besar peserta pernah berada di kedua posisi: pernah menghilang, pernah juga ditinggal menghilang. Judul penelitian itu menyebut *ghosting* sebagai strategi "menghilang" untuk mengakhiri hubungan secara digital.
+Dalam studi kualitatif [LeFebvre dan rekan (2019)](https://doi.org/10.1177/0276236618820519) terhadap 99 orang dewasa muda, sebagian besar peserta pernah berada di kedua posisi, sebagai orang yang menghilang dan sebagai orang yang ditinggal menghilang. Judul penelitian itu menyebut *ghosting* sebagai strategi "menghilang" untuk mengakhiri hubungan secara digital.
 
 Temuan ini membantu kamu melihat persoalan dengan lebih jernih. Membicarakan *ghosting* tidak sama dengan membagi orang menjadi pelaku dan korban, karena dalam studi itu sebagian besar peserta pernah merasakan keduanya.
 
 ### Siapa yang Lebih Terluka oleh Ghosting
 
-[Koessler, Kohut, dan Campbell (2019)](https://doi.org/10.1525/collabra.230) membandingkan cara-cara orang mengakhiri hubungan. Beberapa temuannya:
+[Koessler, Kohut, dan Campbell (2019)](https://doi.org/10.1525/collabra.230) membandingkan cara-cara orang mengakhiri hubungan. Beberapa temuannya tercantum di bawah ini.
 
 - Hubungan yang berakhir lewat *ghosting* cenderung lebih singkat dan komitmennya lebih rendah.
 - Pihak yang ditinggalkan merasakan tekanan dan emosi negatif lebih besar daripada pihak yang mengakhiri.
@@ -53,7 +53,7 @@ Ringkasan [Powell dan Freedman (2024)](https://www.ncfr.org/ncfr-report/summer-2
 
 ### Kapan Diam Masuk Akal
 
-Bagian ini adalah panduan, bukan temuan penelitian. Diam bisa menjadi pilihan yang wajar kalau kamu merasa tidak aman, atau kalau seseorang terus mendesak setelah kamu menolak dengan jelas. Di bab 7 sudah dibahas bahwa kamu boleh bersikap lebih tegas dalam kondisi itu, dan kebiasaan menjaga keselamatan di bab 5 tetap berlaku.
+Bagian ini adalah panduan dari buku ini sendiri. Penelitian di atas tidak mengujinya. Diam bisa menjadi pilihan yang wajar kalau kamu merasa tidak aman, atau kalau seseorang terus mendesak setelah kamu menolak dengan jelas. Di bab 7 sudah dibahas bahwa kamu boleh bersikap lebih tegas dalam kondisi itu, dan kebiasaan menjaga keselamatan di bab 5 tetap berlaku.
 
 Kalau kamu merasa aman, penolakan singkat yang jelas sering kali lebih baik daripada membiarkan orang menggantung. Misalnya, seorang kenalan dari komunitas baca terus mengirim pesan di aplikasi chat. Satu kalimat seperti "Terima kasih sudah perhatian, tapi aku tidak punya perasaan yang sama" memberinya kepastian yang tidak bisa diberikan oleh diam.
 

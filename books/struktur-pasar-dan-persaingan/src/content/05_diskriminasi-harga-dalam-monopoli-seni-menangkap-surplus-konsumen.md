@@ -6,7 +6,7 @@ Dalam bagian ini, kita akan membahas bagaimana perusahaan dengan kekuatan pasar 
 
 ## 1. Apa Itu Diskriminasi Harga?
 
-**Diskriminasi harga** adalah praktik menjual barang atau jasa yang sama kepada konsumen yang berbeda dengan harga yang berbeda, dan perbedaan harga tersebut bukan disebabkan oleh perbedaan biaya produksi.
+**Diskriminasi harga** adalah praktik menjual barang atau jasa yang sama kepada konsumen yang berbeda dengan harga yang berbeda, dan perbedaan harga tersebut tidak disebabkan oleh perbedaan biaya produksi.
 
 > **Analogi Penjahit**  
 > Bayangkan seorang penjahit yang mampu mengetahui tingkat kemauan membayar setiap pelanggannya. Ketika seorang miliarder masuk, penjahit tahu orang tersebut bersedia membayar Rp10.000.000 untuk sebuah jas. Saat seorang mahasiswa masuk, penjahit tahu ia hanya mampu membayar Rp1.000.000. Si penjahit membuat dua jas yang identik tetapi menagih masing-masing pembeli sesuai kemauan membayar maksimal mereka. Itulah inti dari diskriminasi harga.
@@ -48,8 +48,8 @@ Harga dibedakan berdasarkan jumlah atau unit yang dikonsumsi. Ini sering disebut
 Ini adalah jenis yang paling umum. Harga dibedakan berdasarkan karakteristik kelompok tertentu yang memiliki elastisitas berbeda.
 
 - **Rumus Logika:**
-  - Kelompok dengan permintaan **Inelastis** (tidak sensitif harga, misal: pelancong bisnis) $\rightarrow$ **Harga Lebih Tinggi**.
-  - Kelompok dengan permintaan **Elastis** (sangat sensitif harga, misal: mahasiswa) $\rightarrow$ **Harga Lebih Rendah**.
+  - Kelompok dengan permintaan **Inelastis** (tidak sensitif harga, misalnya pelancong bisnis) $\rightarrow$ **Harga Lebih Tinggi**.
+  - Kelompok dengan permintaan **Elastis** (sangat sensitif harga, seperti mahasiswa) $\rightarrow$ **Harga Lebih Rendah**.
 
 > **Contoh Kasus:** Harga tiket bioskop di hari kerja sering kali lebih murah daripada akhir pekan. Biaya operasional bioskop tidak berubah, tetapi penonton hari kerja biasanya lebih sensitif terhadap harga (elastis) dibandingkan penonton akhir pekan.
 

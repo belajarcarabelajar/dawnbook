@@ -8,7 +8,7 @@ Gejala seperti ini disebut **bias kognitif**. Jika *logical fallacies* (sesat pi
 
 **Bias kognitif** adalah kecenderungan psikologis yang menyebabkan penyimpangan dalam pertimbangan dan pengambilan keputusan. Ini adalah jalan pintas mental (*heuristik*) yang digunakan otak untuk memproses informasi dengan cepat.
 
-> **Ilusi Optik Mental** Bayangkan bias kognitif seperti ilusi optik. Meskipun matamu melihat dua garis memiliki panjang yang berbeda, penggaris membuktikan keduanya sama. Bias kognitif bekerja dengan cara yang sama: meskipun logika berkata A, "perasaan" atau insting kita bersikeras memilih B.
+> **Ilusi Optik Mental** Bayangkan bias kognitif seperti ilusi optik. Meskipun matamu melihat dua garis memiliki panjang yang berbeda, penggaris membuktikan keduanya sama. Bias kognitif bekerja dengan cara yang sama. Meskipun logika berkata A, "perasaan" atau insting kita bersikeras memilih B.
 
 Otak kita berevolusi untuk bertahan hidup di alam liar, tempat keputusan cepat lebih penting daripada keputusan yang akurat secara statistik. Namun, di dunia modern yang kompleks, jalan pintas ini sering kali justru menyesatkan kita.
 
@@ -27,13 +27,13 @@ Bias kognitif terjadi ketika Sistem 1 mengambil alih situasi yang seharusnya dia
 
 #### Bagaimana Ini Bekerja?
 
-Kita tidak bertindak seperti hakim yang objektif, melainkan seperti pengacara yang membela satu sisi. Jika kita percaya bahwa "Kopi itu sehat", kita akan dengan semangat membaca artikel tentang manfaat antioksidan dalam kopi dan melewati berita tentang efek kafein terhadap kecemasan.
+Kita bertindak seperti pengacara yang hanya membela satu sisi. Jika kita percaya bahwa "Kopi itu sehat", kita akan dengan semangat membaca artikel tentang manfaat antioksidan dalam kopi dan melewati berita tentang efek kafein terhadap kecemasan.
 
 #### Rina dan Saham A
 
 Rina sangat yakin bahwa investasi saham A akan naik tajam. Ia hanya mengikuti grup diskusi yang memuji saham tersebut dan memblokir akun-akun yang memberikan analisis risiko (bearish). Saat harga saham mulai turun, ia menganggapnya sebagai "gejolak sementara" daripada sinyal peringatan yang valid.
 
-Sebagai contoh, banyak orang melakukan *unfollow* pada teman di media sosial hanya karena perbedaan pandangan politik. Tindakan ini sering kali bukan untuk mencari kebenaran, melainkan untuk melindungi keyakinan yang sudah ada agar merasa selalu benar, sebuah wujud bias konfirmasi.
+Sebagai contoh, banyak orang melakukan *unfollow* pada teman di media sosial hanya karena perbedaan pandangan politik. Tindakan ini sering kali bertujuan melindungi keyakinan yang sudah ada agar merasa selalu benar, sebuah wujud bias konfirmasi.
 
 ### 2. Efek Jangkar (Anchoring Effect)
 
@@ -68,7 +68,7 @@ Selain dua di atas, terdapat beberapa bias lain yang sering memengaruhi penalara
 
 ### Bias dalam Kehidupan Profesional
 
-Memahami bias kognitif bukan sekadar teori; pemahaman ini berguna langsung dalam pekerjaan:
+Pemahaman tentang bias kognitif berguna langsung dalam pekerjaan.
 
 #### 1. Dalam Negosiasi Bisnis
 
@@ -82,7 +82,7 @@ Pewawancara sering kali terkena bias konfirmasi. Jika dalam 5 menit pertama mere
 
 Seorang programmer mungkin terkena bias konfirmasi saat melakukan *debugging*. Mereka yakin letak kesalahannya ada di modul A, sehingga mereka terus memeriksa modul A berkali-kali dan mengabaikan kemungkinan bahwa masalah sebenarnya ada di modul B yang sederhana.
 
-Berpikir kritis di sini berarti sengaja menguji skenario yang bisa membuktikan dugaan mereka salah. Programmer yang yakin sebuah input selalu bernilai positif, misalnya, perlu mencoba memasukkan angka negatif, bukan hanya mengulang uji yang pasti lolos.
+Berpikir kritis di sini berarti sengaja menguji skenario yang bisa membuktikan dugaan mereka salah. Programmer yang yakin sebuah input selalu bernilai positif, misalnya, perlu mencoba memasukkan angka negatif selain mengulang uji yang pasti lolos.
 
 ### Cara Memitigasi Bias Kognitif
 
@@ -93,4 +93,4 @@ Kita tidak bisa menghilangkan bias sepenuhnya karena itu sudah terprogram di ota
 3. **Data Sebelum Opini:** Sebelum melihat harga atau opini orang lain, tentukan standar atau nilaimu sendiri berdasarkan data mentah.
 4. **Cek Lingkunganmu:** Apakah kamu dikelilingi oleh "ruang gema" (*echo chamber*) yang hanya memvalidasi pendapatmu? Carilah perspektif yang berbeda secara aktif.
 
-> **Poin Utama:** Langkah pertama dalam berpikir kritis bukan meragukan orang lain, tetapi berani meragukan pikiran kita sendiri. Kesadaran bahwa otak kita bisa "berbohong" adalah titik awalnya.
+> **Poin Utama:** Langkah pertama dalam berpikir kritis adalah berani meragukan pikiran kita sendiri, sebelum meragukan orang lain. Kesadaran bahwa otak kita bisa "berbohong" adalah titik awalnya.

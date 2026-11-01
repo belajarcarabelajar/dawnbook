@@ -6,7 +6,7 @@ Bayangkan kamu masuk ke sebuah pasar tradisional. Di sana, puluhan pedagang menj
 
 ## Apa Itu Struktur Pasar?
 
-**Struktur pasar** adalah karakteristik organisasi pasar yang memengaruhi sifat kompetisi dan penentuan harga. Konsep ini mencakup aturan main yang menentukan bagaimana pembeli dan penjual berinteraksi, tidak terbatas pada lokasi fisik semata.
+**Struktur pasar** adalah karakteristik organisasi pasar yang memengaruhi sifat kompetisi dan penentuan harga. Cakupannya lebih luas daripada lokasi fisik, karena konsep ini memuat aturan main yang menentukan bagaimana pembeli dan penjual berinteraksi.
 
 > "Struktur pasar menentukan seberapa besar kekuatan yang dimiliki perusahaan untuk mengendalikan harga produk yang mereka jual."
 
@@ -32,8 +32,8 @@ Jumlah pelaku pasar menentukan tingkat persaingan.
 
 Apakah produk yang dijual identik atau unik?
 
-- **Produk Homogen:** Produk yang identik (misalnya: emas murni, beras). Konsumen tidak peduli membeli dari siapa selama harganya murah.
-- **Produk Terdiferensiasi:** Produk yang memiliki perbedaan unik baik secara fungsi, kualitas, maupun citra (misalnya: sepatu Nike vs Adidas).
+- **Produk Homogen:** Produk yang identik, misalnya emas murni dan beras. Konsumen tidak peduli membeli dari siapa selama harganya murah.
+- **Produk Terdiferensiasi:** Produk yang memiliki perbedaan unik baik secara fungsi, kualitas, maupun citra, seperti sepatu Nike dan Adidas.
 
 ### 3. Hambatan Masuk dan Keluar (Barriers to Entry)
 
@@ -57,11 +57,11 @@ Struktur pasar sering divisualisasikan sebagai sebuah spektrum, bergerak dari ti
 | **Hambatan Masuk** | Tidak Ada | Rendah | Tinggi | Sangat Tinggi |
 | **Kekuatan Harga** | Tidak Ada (*Price Taker*) | Kecil | Besar | Sangat Besar (*Price Maker*) |
 
-> **Catatan Penting:** Dalam Persaingan Sempurna, harga ditentukan oleh pasar melalui rumus keseimbangan $P = D = S$. Sedangkan dalam Monopoli, perusahaan dapat menetapkan harga $P$ di atas biaya marginal $\text{MC}$: $P > \text{MC}$.
+> **Catatan Penting:** Dalam Persaingan Sempurna, harga ditentukan oleh pasar melalui rumus keseimbangan $P = D = S$. Sedangkan dalam Monopoli, perusahaan dapat menetapkan harga $P$ di atas biaya marginal $\text{MC}$, sehingga $P > \text{MC}$.
 
 ## Mengapa Struktur Pasar Itu Penting?
 
-Memahami struktur pasar bukan hanya teori akademis. Hal ini memiliki dampak langsung pada:
+Struktur pasar berdampak langsung pada tiga hal berikut.
 
 1. **Harga yang Kita Bayar:** Semakin sedikit persaingan, biasanya harga akan semakin mahal.
 2. **Inovasi:** Perusahaan dalam pasar oligopoli sering kali berinovasi lebih cepat untuk mengalahkan pesaing mereka.
@@ -85,4 +85,4 @@ Mari kita terapkan klasifikasi ini pada evolusi transportasi:
 
 > **Insight:** Semakin mirip sebuah produk dengan produk pesaingnya, dan semakin mudah perusahaan baru masuk ke pasar, maka keuntungan ekonomi dalam jangka panjang akan cenderung mendekati nol $\text{Laba} = 0$.
 
-Setelah memahami dasar-dasar ini, di bagian selanjutnya kita akan membedah lebih dalam mengenai pasar yang dianggap paling ideal oleh para ekonom: **Pasar Persaingan Sempurna**.
+Setelah memahami dasar-dasar ini, di bagian selanjutnya kita akan membedah lebih dalam **Pasar Persaingan Sempurna**, pasar yang dianggap paling ideal oleh para ekonom.

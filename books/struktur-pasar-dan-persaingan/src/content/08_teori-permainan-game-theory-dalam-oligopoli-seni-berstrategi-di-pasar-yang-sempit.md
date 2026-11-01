@@ -6,14 +6,14 @@ Untuk memahami bagaimana perusahaan-perusahaan besar ini bersaing dan berinterak
 
 ### 1. Apa Itu Teori Permainan?
 
-Bayangkan kamu sedang bermain catur. Kamu tidak hanya memikirkan langkahmu sendiri, tetapi juga harus menebak apa yang akan dilakukan lawan jika kamu menggerakkan bidak tertentu.
+Bayangkan kamu sedang bermain catur. Setiap kali memikirkan langkahmu sendiri, kamu juga harus menebak apa yang akan dilakukan lawan jika kamu menggerakkan bidak tertentu.
 
 > **Teori Permainan** adalah studi tentang bagaimana individu atau organisasi membuat keputusan strategis ketika hasil dari keputusan tersebut bergantung pada tindakan orang lain.
 
 Dalam konteks oligopoli, ada tiga elemen kunci dalam sebuah "permainan":
 
 1. **Pemain (Players):** Perusahaan-perusahaan yang beroperasi di dalam pasar.
-2. **Strategi (Strategies):** Pilihan tindakan yang tersedia (misalnya: menaikkan harga, menurunkan harga, atau mempertahankan harga).
+2. **Strategi (Strategies):** Pilihan tindakan yang tersedia (misalnya menaikkan harga, menurunkan harga, atau mempertahankan harga).
 3. **Hasil/Imbalan (Payoffs):** Keuntungan atau kerugian yang diperoleh setelah seluruh pemain menentukan keputusan mereka.
 
 ### 2. Dilema Narapidana (The Prisoner's Dilemma)

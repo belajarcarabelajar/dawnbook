@@ -6,7 +6,7 @@ Di sinilah **Penalaran Etis** berperan. Jika logika adalah mesin yang menggerakk
 
 ### 1\. Apa itu Penalaran Etis?
 
-Penalaran etis bukan sekadar mengikuti "perasaan" atau "intuisi." Ini adalah proses sistematis untuk menentukan mana yang benar dan salah melalui integrasi antara **prinsip logika** dan **nilai-nilai moral**.
+Penalaran etis adalah proses sistematis untuk menentukan mana yang benar dan salah melalui integrasi antara **prinsip logika** dan **nilai-nilai moral**.
 
 Dalam bab-bab sebelumnya, kita telah mempelajari bagaimana membangun argumen yang valid. Dalam penalaran etis, kita menggunakan struktur argumen tersebut, tetapi premis yang kita gunakan melibatkan nilai-nilai (seperti keadilan, kejujuran, atau kesejahteraan).
 
@@ -35,17 +35,17 @@ Untuk membantu kita bernalar secara objektif, para filsuf telah mengembangkan be
 Fokus pada hasil akhir. Keputusan yang terbaik adalah yang menghasilkan "kebaikan terbesar untuk jumlah orang terbanyak."
 
 - **Analogi:** Seperti memilih menu makanan untuk acara kantor; kamu memilih yang disukai mayoritas orang, meski ada satu-dua orang yang kurang puas.
-- **Rumus Sederhana:** Jika $U$ adalah utilitas (kebahagiaan/manfaat), maka pilih tindakan $A$ yang memenuhi: $\sum U(A) > \sum U(B)$
+- **Rumus Sederhana:** Jika $U$ adalah utilitas (kebahagiaan/manfaat), maka pilih tindakan $A$ yang memenuhi $\sum U(A) > \sum U(B)$.
 
 #### B. Deontologi (Berdasarkan Kewajiban)
 
-Fokus pada aturan dan kewajiban moral, terlepas dari hasilnya. Sesuatu dianggap benar jika ia mematuhi prinsip universal (misalnya: jangan berbohong, jangan mencuri).
+Fokus pada aturan dan kewajiban moral, terlepas dari hasilnya. Sesuatu dianggap benar jika ia mematuhi prinsip universal (misalnya jangan berbohong dan jangan mencuri).
 
-- **Analogi:** Seperti mematuhi lampu merah di jalan yang sangat sepi di tengah malam. Kamu berhenti bukan karena takut tabrakan, tapi karena itu adalah aturan yang harus dipatuhi.
+- **Analogi:** Seperti mematuhi lampu merah di jalan yang sangat sepi di tengah malam. Kamu berhenti karena itu adalah aturan yang harus dipatuhi, dan rasa takut tabrakan tidak ikut menentukan.
 
 #### C. Etika Kebajikan (Berdasarkan Karakter)
 
-Fokus pada menjadi orang seperti apa kita jika mengambil keputusan tersebut. Alih-alih bertanya "Apa yang harus saya lakukan?", kita bertanya "Apa yang akan dilakukan oleh orang yang jujur/berani/adil dalam situasi ini?"
+Fokus pada menjadi orang seperti apa kita jika mengambil keputusan tersebut. Pertanyaan "Apa yang harus saya lakukan?" diganti dengan "Apa yang akan dilakukan oleh orang yang jujur/berani/adil dalam situasi ini?"
 
 ### 4\. Menghadapi Dilema Etika yang Kompleks
 
@@ -85,11 +85,11 @@ Di bidang teknologi saat ini, penalaran etis menjadi persoalan yang nyata.
 Sering kali, saat menghadapi masalah moral, kita terjebak dalam kesalahan logika:
 
 - **Relativisme Ekstrem:** "Etika itu kan subjektif, terserah masing-masing orang." (Ini berbahaya karena menghentikan diskusi kritis dan akuntabilitas).
-- **Ad Hominem:** Menolak argumen etis seseorang hanya karena kita tidak menyukai karakter orang tersebut, bukan karena argumennya salah.
+- **Ad Hominem:** Menolak argumen etis seseorang hanya karena kita tidak menyukai karakter orang tersebut, tanpa menunjukkan di mana argumennya salah.
 - **Slippery Slope:** "Jika kita mengizinkan karyawan bekerja dari rumah satu hari saja, maka besok tidak akan ada yang mau ke kantor lagi dan perusahaan akan hancur."
 
 > **Pesan Penting:** Penalaran etis yang kuat membutuhkan kejujuran intelektual untuk mengakui bias kita sendiri sebelum menghakimi orang lain.
 
 ### Yang Perlu Kamu Ingat
 
-Penalaran etis bukan tentang menjadi "paling suci," melainkan tentang menjadi **paling sadar**. Dengan menggabungkan logika dan pertimbangan nilai, kita bisa mengambil keputusan yang tidak hanya cerdas secara strategis, tetapi juga bertanggung jawab secara moral.
+Tujuan penalaran etis adalah menjadi **paling sadar**. Dengan menggabungkan logika dan pertimbangan nilai, kita bisa mengambil keputusan yang cerdas secara strategis sekaligus bertanggung jawab secara moral.

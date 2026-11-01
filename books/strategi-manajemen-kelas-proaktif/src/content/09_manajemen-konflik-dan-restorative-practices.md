@@ -2,7 +2,7 @@
 
 Konflik di dalam kelas sering kali dianggap sebagai gangguan yang harus segera "dihilangkan" dengan hukuman. Namun, dalam manajemen kelas proaktif, konflik dipandang sebagai **peluang pembelajaran sosial-emosional**. *Restorative Practices* (Praktik Restoratif) adalah sebuah pergeseran paradigma dari bertanya "Aturan apa yang dilanggar?" menjadi "Siapa yang dirugikan dan bagaimana kita memperbaikinya?"
 
-Tujuan utama kita bukan sekadar menghentikan keributan, melainkan memulihkan hubungan dan memastikan setiap individu belajar bertanggung jawab atas tindakan mereka.
+Tujuan utama kita adalah memulihkan hubungan dan memastikan setiap individu belajar bertanggung jawab atas tindakan mereka.
 
 ### 1. Punitive vs. Restorative
 
@@ -20,11 +20,11 @@ Sebelum kita masuk ke teknik, kita harus memahami perbedaan mendasar antara pend
 
 ### 2. Lima Pertanyaan Restoratif
 
-Salah satu alat utama dalam manajemen konflik adalah serangkaian pertanyaan terbuka yang mengarahkan siswa pada refleksi, bukan pembelaan diri.
+Salah satu alat utama dalam manajemen konflik adalah serangkaian pertanyaan terbuka yang mengajak siswa merefleksikan diri tanpa sibuk membela diri.
 
 **Untuk Pelaku (lima pertanyaan):**
 
-1. Apa yang terjadi? (Fokus pada kronologi, bukan alasan).
+1. Apa yang terjadi? (Fokus pada kronologi, tanpa menggali alasan.)
 2. Apa yang kamu pikirkan saat kejadian itu?
 3. Siapa saja yang terkena dampak dari tindakanmu?
 4. Dengan cara apa mereka terkena dampaknya?
@@ -37,7 +37,7 @@ Salah satu alat utama dalam manajemen konflik adalah serangkaian pertanyaan terb
 3. Apa hal tersulit bagi kamu dari kejadian ini?
 4. Apa yang kamu perlukan agar merasa lebih baik dan keadaan menjadi benar?
 
-*Pertimbangkan hal berikut: Pernahkah kamu bertanya "Mengapa kamu melakukannya?" kepada siswa yang sedang emosi? Biasanya mereka akan menjawab "Tidak tahu" atau memberikan alasan defensif. Pertanyaan "Apa yang terjadi?" lebih efektif untuk membuka dialog.*
+*Pernahkah kamu bertanya "Mengapa kamu melakukannya?" kepada siswa yang sedang emosi? Biasanya mereka akan menjawab "Tidak tahu" atau memberikan alasan defensif. Pertanyaan "Apa yang terjadi?" lebih efektif untuk membuka dialog.*
 
 ### 3. Komponen Utama Restorative Practices
 
@@ -67,7 +67,7 @@ Pertemuan terstruktur yang melibatkan siswa, guru, dan kadang orang tua untuk ma
 
 ### 4. Implementasi Langkah demi Langkah
 
-Jika terjadi konflik antara dua siswa (misal: Siswa A mengejek Siswa B hingga Siswa B menangis), ikuti alur ini:
+Jika terjadi konflik antara dua siswa (misalnya Siswa A mengejek Siswa B hingga Siswa B menangis), ikuti alur ini:
 
 1. **Regulasi Emosi:** Pastikan kedua pihak sudah tenang. Kita tidak bisa berdiskusi secara restoratif saat otak sedang dalam mode "fight or flight".
 2. **Berbagi Perspektif:** Biarkan masing-masing bercerita tanpa interupsi. Gunakan pertanyaan restoratif.
@@ -81,7 +81,7 @@ Jika terjadi konflik antara dua siswa (misal: Siswa A mengejek Siswa B hingga Si
 	  </div>
 
 4. **Kesepakatan Perbaikan (Restitution):** Biarkan siswa mengusulkan cara memperbaiki keadaan.
-	- *Bukan sekadar minta maaf:* "Minta maaf" sering kali hanya kata-kata. "Memperbaiki" bisa berarti menghapus coretan, mengganti barang yang rusak, atau melakukan tindakan baik untuk menebus kesalahan.
+	- *Perbaikan nyata:* "Minta maaf" sering kali hanya kata-kata. "Memperbaiki" bisa berarti menghapus coretan, mengganti barang yang rusak, atau melakukan tindakan baik untuk menebus kesalahan.
 5. **Tindak Lanjut:** Periksa beberapa hari kemudian apakah hubungan mereka sudah membaik.
 
 Urutan kelima langkah tersebut dapat kamu ikuti pada bagan di bawah.
@@ -106,7 +106,7 @@ flowchart TD
 
 - **Guru ke Budi:** "Budi, saat karya Siti rusak, apa yang kamu rasakan? Apa yang bisa kamu lakukan untuk membantu Siti menyelesaikan tugasnya kembali?"
 - **Guru ke Siti:** "Siti, saya paham kamu marah karena karyamu rusak. Tapi saat kamu mendorong Budi, apa risikonya bagi keselamatan kelas kita?"
-- **Solusi Bersama:** Budi setuju membantu Siti mengelem bagian yang rusak selama jam istirahat, dan Siti setuju untuk menggunakan kata-kata (bukan tangan) jika dia merasa marah di masa depan.
+- **Solusi Bersama:** Budi setuju membantu Siti mengelem bagian yang rusak selama jam istirahat, dan Siti setuju untuk memakai kata-kata, tanpa main tangan, jika dia merasa marah di masa depan.
 
 ### 6. Manfaat Jangka Panjang (Social-Emotional Learning)
 
@@ -117,6 +117,6 @@ Dengan menerapkan manajemen konflik ini, kamu sedang mengajarkan kurikulum terse
 - **Kesadaran Sosial:** Siswa belajar melihat perspektif orang lain.
 - **Keterampilan Relasi:** Siswa belajar menyelesaikan masalah secara konstruktif.
 
-> **Penting:** Restorative Practices bukanlah tentang bersikap "lembek" pada siswa. Sebaliknya, ini menuntut tanggung jawab yang jauh lebih besar daripada sekadar menjalani hukuman diam di pojokan. Siswa harus berhadapan langsung dengan dampak tindakan mereka dan bekerja keras untuk memperbaikinya.
+> **Penting:** Restorative Practices menuntut tanggung jawab yang jauh lebih besar daripada menjalani hukuman diam di pojokan. Siswa harus berhadapan langsung dengan dampak tindakan mereka dan bekerja keras untuk memperbaikinya. Karena itu, pendekatan ini tidak bisa disebut "lembek" pada siswa.
 
-*Refleksi untuk kamu: Strategi mana yang paling sulit untuk kamu terapkan: menahan diri untuk tidak langsung menghukum, atau membimbing siswa menemukan cara mereka sendiri untuk memperbaiki kesalahan?*
+*Strategi mana yang paling sulit kamu terapkan? Menahan diri untuk tidak langsung menghukum, atau membimbing siswa menemukan cara mereka sendiri untuk memperbaiki kesalahan?*

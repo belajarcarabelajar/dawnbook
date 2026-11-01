@@ -42,7 +42,7 @@ Dunia sepakat teknologi saja tidak cukup tanpa tata kelola.
 
 #### Hyogo Framework for Action 2005-2015
 
-Setelah tsunami Samudra Hindia 2004, 168 negara berkumpul di Kobe dan melahirkan **Hyogo Framework for Action (HFA)**. HFA menempatkan *early warning* sebagai prioritas kedua dari lima aksi. Pesan utamanya, peringatan dini harus *berpusat pada manusia*. Kamu tidak hanya memasang sensor, tetapi memastikan warga paham apa yang harus dilakukan saat alarm berbunyi.
+Setelah tsunami Samudra Hindia 2004, 168 negara berkumpul di Kobe dan melahirkan **Hyogo Framework for Action (HFA)**. HFA menempatkan *early warning* sebagai prioritas kedua dari lima aksi. Pesan utamanya, peringatan dini harus *berpusat pada manusia*. Selain memasang sensor, kamu perlu memastikan warga paham apa yang harus dilakukan saat alarm berbunyi.
 
 #### Sendai Framework 2015-2030 dan Target G
 
@@ -61,7 +61,7 @@ Daftar periksa *Developing Early Warning Systems: A Key Checklist* (UN/ISDR, 200
 3.  ***Dissemination and communication***, penyebaran pesan yang *jelas, konsisten, dan dapat dipahami* lewat banyak kanal.
 4.  ***Response capability***, kapasitas komunitas untuk bertindak, termasuk jalur evakuasi dan latihan rutin.
 
-Jika satu pilar lemah, seluruh sistem lumpuh. Banyak kegagalan ada pada komunikasi dan respons, bukan deteksi.
+Jika satu pilar lemah, seluruh sistem lumpuh. Banyak kegagalan berawal dari komunikasi dan respons yang lemah.
 
 ### Tsunami 2004 dan Lahirnya InaTEWS
 
@@ -86,7 +86,7 @@ Perkembangan 2010-an hingga kini memperhalus keempat pilar sekaligus.
 
 **Cell broadcast dan aplikasi** mengubah diseminasi dari *pull* menjadi *push*. Pesan muncul di layar bahkan saat jaringan sibuk karena memakai kanal terpisah dari SMS. Sensor banjir *LoRaWAN* di Jakarta membuat peringatan granular hingga kelurahan.
 
-Tren selanjutnya adalah **impact-based forecasting**, bukan hanya *“hujan 100 mm”* tetapi *“hujan 100 mm akan merendam 3 kelurahan sedalam 40 sampai 80 cm dalam 2 jam”*.
+Tren selanjutnya adalah **impact-based forecasting**. Pesan *“hujan 100 mm”* dilengkapi dengan dampaknya, misalnya *“hujan 100 mm akan merendam 3 kelurahan sedalam 40 sampai 80 cm dalam 2 jam”*.
 
 ### Tabel Timeline Evolusi EWS 1940-2024
 
@@ -101,4 +101,4 @@ Tren selanjutnya adalah **impact-based forecasting**, bukan hanya *“hujan 100 
 
 ### Apa Artinya bagi Kamu
 
-Sejarah menunjukkan pola berulang. Kentongan gagal jika warga tidak sepakat arti bunyi, sirene gagal jika warga tidak tahu rute evakuasi, dan aplikasi gagal jika baterai habis saat gempa. Ketika kamu mengevaluasi EWS, tanyakan: *apakah risiko sudah dipahami, apakah pesan sampai dalam bahasa yang dimengerti, dan apakah warga sudah berlatih*. Jika ya, teknologi apa pun dari kentongan hingga satelit akan memberi kamu waktu untuk selamat.
+Sejarah menunjukkan pola berulang. Kentongan gagal jika warga tidak sepakat arti bunyi, sirene gagal jika warga tidak tahu rute evakuasi, dan aplikasi gagal jika baterai habis saat gempa. Ketika kamu mengevaluasi EWS, tanyakan *apakah risiko sudah dipahami, apakah pesan sampai dalam bahasa yang dimengerti, dan apakah warga sudah berlatih*. Jika ya, teknologi apa pun dari kentongan hingga satelit akan memberi kamu waktu untuk selamat.

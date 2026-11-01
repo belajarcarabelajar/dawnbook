@@ -14,7 +14,7 @@ Inilah **Efek Jangkar (Anchoring Effect)**, salah satu bias kognitif yang paling
 
 Bayangkan sebuah kapal di tengah laut yang menurunkan jangkar. Kapal tersebut masih bisa bergerak tertiup angin atau arus, tetapi pergerakannya akan terbatas pada radius tertentu di sekitar titik tempat jangkar tersebut dijatuhkan.
 
-Sama halnya dengan pikiran kita: ketika kita diberi sebuah angka (jangkar), estimasi atau keputusan kita mungkin berubah, tetapi jarang sekali kita bisa "berlayar" jauh meninggalkan pengaruh angka awal tersebut.
+Pikiran kita bekerja dengan cara yang sama. Ketika kita diberi sebuah angka (jangkar), estimasi atau keputusan kita mungkin berubah, tetapi jarang sekali kita bisa "berlayar" jauh meninggalkan pengaruh angka awal tersebut.
 
 ## Eksperimen Roda Angka
 
@@ -22,9 +22,9 @@ Dua tokoh pionir psikologi kognitif, **Amos Tversky** dan **Daniel Kahneman**, m
 
 1. Mereka memutar sebuah "Roda Keberuntungan" (seperti roda *roulette*) yang diberi angka 1 hingga 100 di depan partisipan.
 2. Namun, roda tersebut telah dimanipulasi agar berhenti hanya di angka **10** atau **65**.
-3. Setelah roda berhenti, partisipan ditanya: "Berapakah persentase negara-negara Afrika di PBB?"
+3. Setelah roda berhenti, partisipan ditanya, "Berapakah persentase negara-negara Afrika di PBB?"
 
-**Hasilnya:**
+Estimasi median kedua kelompok berbeda jauh.
 
 - Kelompok yang melihat angka **10** memberikan estimasi median sekitar **25%**.
 - Kelompok yang melihat angka **65** memberikan estimasi median sekitar **45%**.
@@ -51,16 +51,16 @@ Mari kita lihat bagaimana urutan informasi memengaruhi hasil perhitungan mental 
 
 **Kelompok B:** $8 \times 7 \times 6 \times 5 \times 4 \times 3 \times 2 \times 1$
 
-Secara matematis, hasilnya sama: $40.320$. Namun, karena waktu terbatas:
+Secara matematis, hasil keduanya sama, yaitu $40.320$. Namun, karena waktu terbatas:
 
-- **Kelompok A** (dimulai dengan angka kecil) memberikan estimasi median: **512**.
-- **Kelompok B** (dimulai dengan angka besar) memberikan estimasi median: **2.250**.
+- **Kelompok A** (dimulai dengan angka kecil) memberikan estimasi median **512**.
+- **Kelompok B** (dimulai dengan angka besar) memberikan estimasi median **2.250**.
 
 *\*Bagaimana urutan informasi yang kamu terima di pagi hari (misalnya berita buruk vs berita baik) dapat menjangkarkan suasana hati kamu sepanjang sisa hari tersebut?\**
 
 ## Jangkar di Menu Restoran, Negosiasi Gaji, dan Toko Grosir
 
-Efek Jangkar tidak hanya ada di teori laboratorium; ia adalah alat praktis yang digunakan setiap hari dalam berbagai industri.
+Di luar laboratorium, Efek Jangkar adalah alat praktis yang digunakan setiap hari dalam berbagai industri.
 
 ### 1\. Strategi Penetapan Harga (Pricing)
 
@@ -72,7 +72,7 @@ Dalam dunia profesional, siapa pun yang menyebutkan angka pertama kali biasanya 
 
 ### 3\. Batas Pembelian (Purchase Limits)
 
-Toko grosir sering menggunakan tanda: *"Maksimal 12 kaleng per orang"*. Jangkar angka "12" membuat konsumen secara tidak sadar berpikir untuk membeli lebih banyak daripada jika tanda tersebut tidak ada, karena otak menjangkarkan jumlah konsumsi pada angka maksimum tersebut.
+Toko grosir sering menggunakan tanda seperti *"Maksimal 12 kaleng per orang"*. Jangkar angka "12" membuat konsumen secara tidak sadar berpikir untuk membeli lebih banyak daripada jika tanda tersebut tidak ada, karena otak menjangkarkan jumlah konsumsi pada angka maksimum tersebut.
 
 ## Jual Beli Properti
 
@@ -84,7 +84,7 @@ Toko grosir sering menggunakan tanda: *"Maksimal 12 kaleng per orang"*. Jangkar 
 2. Kamu melakukan inspeksi dan menemukan beberapa kerusakan kecil.
 3. Kamu merasa telah melakukan negosiasi yang hebat ketika berhasil menawar harga turun menjadi **Rp1.850.000.000** (Hemat Rp150 juta!).
 
-**Realita yang Terlupakan:** Sebenarnya, nilai pasar rumah tersebut hanya **Rp1.700.000.000**. Penjual sengaja memasang harga tinggi (jangkar tinggi) agar saat kamu menawar, kamu merasa menang, padahal kamu tetap membayar di atas harga pasar. Kamu terjebak membandingkan harga beli dengan *jangkar penawaran*, bukan dengan *nilai intrinsik* rumah tersebut.
+**Realita yang Terlupakan:** Sebenarnya, nilai pasar rumah tersebut hanya **Rp1.700.000.000**. Penjual sengaja memasang harga tinggi (jangkar tinggi) agar saat kamu menawar, kamu merasa menang, padahal kamu tetap membayar di atas harga pasar. Kamu terjebak membandingkan harga beli dengan *jangkar penawaran* dan lupa pada *nilai intrinsik* rumah tersebut.
 
 ## Cara Memitigasi Efek Jangkar
 
@@ -93,6 +93,6 @@ Meskipun sulit untuk sepenuhnya menghilangkan bias ini (karena terjadi di bawah 
 - **Lakukan Riset Independen:** Sebelum masuk ke dalam situasi negosiasi atau pembelian, kumpulkan data dari berbagai sumber agar kamu memiliki jangkar internal yang kuat berdasarkan fakta.
 - **Tetapkan Angka Ideal dan Batas Berhenti:** Tentukan angka yang kamu inginkan *sebelum* mendengar penawaran dari pihak lain.
 - **Gunakan Strategi "Counter-Anchoring":** Jika pihak lawan memberikan angka yang ekstrem, jangan merespons dengan angka yang dekat dengan itu. Alihkan pembicaraan atau minta mereka menjustifikasi angka tersebut sebelum kamu memberikan tawaran balik yang didasarkan pada riset kamu.
-- **Berpikir dalam Rentang:** Alih-alih satu angka pasti, pikirkan dalam rentang nilai (misalnya: "Gaji untuk posisi ini biasanya antara $X$ sampai $Y$ ").
+- **Berpikir dalam Rentang:** Alih-alih satu angka pasti, pikirkan dalam rentang nilai (misalnya "Gaji untuk posisi ini biasanya antara $X$ sampai $Y$ ").
 
-**Pesan Penting:** Kesadaran adalah langkah pertama. Saat kamu melihat sebuah angka di label harga atau dalam diskusi, tanyakan pada diri sendiri: *"Apakah saya menyukai angka ini karena memang bernilai demikian, atau hanya karena ini adalah angka pertama yang saya lihat?"*
+**Pesan Penting:** Kesadaran adalah langkah pertama. Saat kamu melihat sebuah angka di label harga atau dalam diskusi, tanyakan pada diri sendiri, *"Apakah saya menyukai angka ini karena memang bernilai demikian, atau hanya karena ini adalah angka pertama yang saya lihat?"*

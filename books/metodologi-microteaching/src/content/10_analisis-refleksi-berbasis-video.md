@@ -2,37 +2,37 @@
 
 Pernahkah kamu merasa sebuah sesi mengajar berjalan lancar, tetapi ketika melihat hasil ujian siswa, ternyata banyak yang tidak paham? Atau sebaliknya, kamu merasa gugup dan kacau, tetapi siswa justru merasa terbantu? Fenomena ini disebut dengan **kesenjangan persepsi**.
 
-Dalam metodologi microteaching, video bukan sekadar dokumentasi, melainkan sebuah "cermin jujur" yang memungkinkan kita melihat realitas di lapangan tanpa bias memori. Analisis refleksi berbasis video adalah proses sistematis untuk membedah kinerja mengajar kita sendiri guna menemukan celah antara apa yang kita rencanakan (das sollen) dengan apa yang sebenarnya terjadi (das sein).
+Dalam metodologi microteaching, video menjadi "cermin jujur" yang memungkinkan kita melihat realitas di lapangan tanpa bias memori. Analisis refleksi berbasis video adalah proses sistematis untuk membedah kinerja mengajar kita sendiri guna menemukan celah antara apa yang kita rencanakan (das sollen) dengan apa yang sebenarnya terjadi (das sein).
 
 ## Mengapa Harus Video?
 
-Bayangkan seorang atlet lari Olimpiade. Setelah perlombaan, ia tidak hanya mengandalkan perasaannya tentang seberapa cepat ia berlari. Ia akan duduk bersama pelatihnya dan menonton rekaman *slow-motion* untuk melihat sudut pendaratan kaki, posisi bahu, dan efisiensi napasnya.
+Bayangkan seorang atlet lari Olimpiade. Setelah perlombaan, perasaannya tentang seberapa cepat ia berlari belum cukup sebagai pegangan, jadi ia duduk bersama pelatihnya dan menonton rekaman *slow-motion* untuk melihat sudut pendaratan kaki, posisi bahu, dan efisiensi napasnya.
 
 Sebagai pendidik, kamu adalah "atlet instruksional". Mengandalkan ingatan saja tidak cukup karena saat mengajar, otak kita terlalu sibuk mengelola kelas sehingga sering melewatkan detail-detail kecil. Video memungkinkan kita menghentikan rekaman dan memeriksa setiap bagian interaksi pembelajaran dengan teliti.
 
 ## Prosedur Langkah-Demi-Langkah Refleksi Diri
 
-Melakukan refleksi bukan sekadar menonton video sambil minum kopi. Diperlukan prosedur yang terstruktur agar analisis menjadi objektif:
+Agar analisisnya objektif, refleksi perlu mengikuti prosedur yang terstruktur berikut.
 
 ### 1. Tahap Persiapan Mental (Detasemen Diri)
 
 Sebelum menekan tombol *play*, lepaskan ego kamu. Sangat wajar jika kamu merasa aneh atau tidak nyaman mendengar suara sendiri atau melihat ekspresi wajah sendiri di layar.
 
-> **Insight:** Fokuslah pada peran kamu sebagai "pengamat profesional", bukan sebagai "kritikus diri" yang kejam. Lihatlah sosok di video tersebut sebagai orang lain yang sedang kamu bantu untuk berkembang.
+> **Insight:** Fokuslah pada peran kamu sebagai "pengamat profesional" dan lepaskan dorongan untuk menjadi "kritikus diri" yang kejam. Lihatlah sosok di video tersebut sebagai orang lain yang sedang kamu bantu untuk berkembang.
 
 ### 2. Kesan Menyeluruh (Holistik)
 
 Tonton video dari awal hingga akhir tanpa berhenti. Jangan mencatat dulu. Gunakan fase ini untuk merasakan alur dan "energi" kelas.
 
-- *Pikirkan tentang ini: Bagaimana suasana perasaan (mood) yang terbangun di kelas tersebut? Apakah tampak membosankan, tegang, atau menyenangkan?*
+- *Tanyakan pada dirimu, bagaimana suasana perasaan (mood) yang terbangun di kelas tersebut? Apakah tampak membosankan, tegang, atau menyenangkan?*
 
 ### 3. Analisis Terfokus (Kodifikasi)
 
 Tonton kembali dengan membawa instrumen observasi atau RPP (Rencana Pelaksanaan Pembelajaran) kamu. Gunakan teknik **Stop-and-Note**:
 
-- Hentikan video setiap kali kamu menemukan momen penting (misal: saat memberikan pertanyaan).
+- Hentikan video setiap kali kamu menemukan momen penting (misalnya saat memberikan pertanyaan).
 - Catat penanda waktu (time-stamp).
-- Gunakan rumus sederhana untuk melihat manajemen waktu: $\Delta T = T_{\text{aktual}} - T_{\text{rencana}}$. Jika $\Delta T$ bernilai positif besar pada bagian pembukaan, kamu mungkin kehilangan waktu terlalu banyak untuk basa-basi.
+- Untuk melihat manajemen waktu, hitung selisihnya dengan rumus sederhana $\Delta T = T_{\text{aktual}} - T_{\text{rencana}}$. Jika $\Delta T$ bernilai positif besar pada bagian pembukaan, kamu mungkin kehilangan waktu terlalu banyak untuk basa-basi.
 
 ### 4. Identifikasi Celah antara Rencana dan Pelaksanaan
 
@@ -81,6 +81,6 @@ Kamu dapat menggunakan daftar periksa berikut saat menonton video kamu:
 2. **Menit ke-07:00 (Penyampaian):** Apakah ada siswa yang terlihat mulai kehilangan fokus? Apa yang saya lakukan saat itu?
 3. **Menit ke-12:00 (Penutup):** Apakah saya memberikan penguatan atau sekadar membubarkan kelas?
 
-> **Penting:** Hasil akhir dari analisis refleksi bukanlah daftar kesalahan, melainkan sebuah **Rencana Aksi Perbaikan** untuk siklus mengajar berikutnya.
+> **Penting:** Analisis refleksi berujung pada sebuah **Rencana Aksi Perbaikan** untuk siklus mengajar berikutnya.
 
-*Setelah kamu menyelesaikan analisis refleksi ini, langkah selanjutnya bukan hanya menyimpan catatan tersebut di laci. Kamu perlu mengomunikasikannya dengan rekan sejawat untuk mendapatkan perspektif luar. Hal ini akan dibahas lebih mendalam pada bagian selanjutnya: **Pemberian Umpan Balik Konstruktif**.*
+*Setelah analisis refleksi ini selesai, jangan biarkan catatanmu tersimpan di laci. Bicarakan dengan rekan sejawat untuk mendapatkan perspektif luar, hal yang dibahas lebih mendalam pada bagian **Pemberian Umpan Balik Konstruktif**.*

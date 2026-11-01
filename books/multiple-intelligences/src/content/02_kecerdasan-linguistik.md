@@ -40,7 +40,7 @@ Semakin kaya kosakata dan penguasaan konteks, semakin efisien pula komunikasinya
 
 ## Penerapan Lintas Profesi
 
-Kemahiran berbahasa tak semata-mata dimonopoli penulis fiksi. Dalam lanskap profesional modern, kecerdasan ini mewujud dalam banyak bentuk. Di meja hukum, seorang pengacara membedah ratusan halaman dokumen untuk menemukan satu celah argumentasi, lalu menyusun nota pembelaan yang menyasar nalar dan empati hakim.
+Dalam lanskap profesional modern, kemahiran berbahasa mewujud dalam banyak bentuk. Di meja hukum, seorang pengacara membedah ratusan halaman dokumen untuk menemukan satu celah argumentasi, lalu menyusun nota pembelaan yang menyasar nalar dan empati hakim.
 
 Dalam lingkup pemasaran atau *copywriting*, pilihan kata adalah alat utama. Mengganti satu frasa di kalimat pembuka iklan bisa mendongkrak penjualan. Ini menunjukkan bahwa pragmatik bahasa dapat berpengaruh besar dalam mengarahkan tindakan audiens.
 

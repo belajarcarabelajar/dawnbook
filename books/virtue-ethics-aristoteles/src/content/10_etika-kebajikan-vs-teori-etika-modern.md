@@ -1,6 +1,6 @@
 ## Etika Kebajikan vs Teori Etika Modern
 
-Pernahkah kamu terjebak dalam dilema moral dan bertanya pada diri sendiri: *"Apa yang seharusnya saya lakukan?"*
+Pernahkah kamu terjebak dalam dilema moral dan bertanya pada diri sendiri, *"Apa yang seharusnya saya lakukan?"*
 
 Dalam dunia filsafat moral, jawaban atas pertanyaan itu bergantung pada "kacamata" etika mana yang kamu pakai. Teori etika modern pada umumnya, seperti Deontologi dan Utilitarianisme, berfokus pada tindakan itu sendiri atau hasil akhirnya. Namun, Etika Kebajikan mengambil arah yang berbeda. Pendekatan ini menggeser fokus dari 'Apa yang harus saya lakukan?' menjadi **'Saya ingin menjadi orang yang seperti apa?'**
 
@@ -46,7 +46,7 @@ Etika Kebajikan menolak kalkulasi tersebut. Tindakan yang secara moral buruk tid
 
 Teori modern sering dikritik karena terlalu mekanis. Etika Kebajikan menawarkan nuansa yang lebih manusiawi.
 
-Dalam Deontologi, emosi sering dianggap sebagai pengganggu kewajiban. Dalam Etika Kebajikan, emosi justru menjadi bagian tak terpisahkan dari karakter. Orang baik tidak hanya melakukan kebaikan, dia juga merasa senang saat melakukannya.
+Dalam Deontologi, emosi sering dianggap sebagai pengganggu kewajiban. Dalam Etika Kebajikan, emosi justru menjadi bagian tak terpisahkan dari karakter. Orang baik melakukan kebaikan dan merasa senang saat melakukannya.
 
 Pendekatan ini juga mengakui bahwa kehidupan itu rumit. Tindakan berani di medan perang tentu berbeda dengan keberanian di ruang rapat. Kebijaksanaan praktis memungkinkan penyesuaian diri dengan berbagai situasi tanpa kehilangan integritas.
 
@@ -68,6 +68,6 @@ Para pendukung teori modern sering mengkritik Etika Kebajikan karena dianggap ku
 
 Meskipun teori modern membantu kita mengambil keputusan secara lebih pasti, Etika Kebajikan menyentuh aspek motivasi terdalam mengenai alasan kita ingin menjadi orang baik sejak awal.
 
-### Bukan Soal Siapa yang Paling Benar
+### Peran Masing-Masing Teori
 
-Membandingkan Etika Kebajikan dengan teori modern bukan tentang mencari siapa yang paling benar. Deontologi menjaga kita tetap pada jalur melalui aturan yang adil, sementara Utilitarianisme mengingatkan kita untuk mempertimbangkan dampak suatu tindakan terhadap orang lain. Di sisi lain, Etika Kebajikan memastikan bahwa kita memiliki fondasi karakter yang matang untuk menjalankan aturan-aturan tersebut secara bijaksana dan didorong oleh motivasi yang tepat. Tanpa karakter, aturan akan menjadi beban belaka dan hasil akhir hanya sekumpulan angka tanpa makna.
+Setiap teori dalam perbandingan ini punya perannya sendiri. Deontologi menjaga kita tetap pada jalur melalui aturan yang adil, sementara Utilitarianisme mengingatkan kita untuk mempertimbangkan dampak suatu tindakan terhadap orang lain. Di sisi lain, Etika Kebajikan memastikan bahwa kita memiliki fondasi karakter yang matang untuk menjalankan aturan-aturan tersebut secara bijaksana dan didorong oleh motivasi yang tepat. Tanpa karakter, aturan akan menjadi beban belaka dan hasil akhir hanya sekumpulan angka tanpa makna.
