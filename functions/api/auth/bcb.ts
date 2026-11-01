@@ -3,7 +3,7 @@
  *
  * GET /api/auth/bcb?t=<token>&next=<path>&s=<state>
  *
- * Store hand-off from belajarcarabelajar.com. The `bcb_sso_state` cookie set by
+ * Store hand-off from belajarcarabelajar.com. The `__Host-bcb_sso_state` cookie set by
  * /api/auth/bcb/start must equal `s` before the token is even read; then it
  * verifies the signed token
  * (functions/lib/bcb-sso.ts), burns its nonce, finds or creates the user by
@@ -32,7 +32,7 @@ const SESSION_TTL_SECONDS = 60 * 60 * 24 * 30; // 30 days
 // Outlives SSO_MAX_AGE_S, so a token cannot be replayed after its nonce row
 // is garbage-collected.
 const NONCE_TTL_SECONDS = 600;
-const CLEAR_STATE_COOKIE = `${BCB_SSO_STATE_COOKIE}=; Path=/api/auth/bcb; Max-Age=0; HttpOnly; Secure; SameSite=Lax`;
+const CLEAR_STATE_COOKIE = `${BCB_SSO_STATE_COOKIE}=; Path=/; Max-Age=0; HttpOnly; Secure; SameSite=Lax`;
 
 function stateCookie(request: Request): string | null {
   for (const part of (request.headers.get("Cookie") ?? "").split(";")) {

@@ -3,8 +3,8 @@
  *
  * GET /api/auth/bcb/start?next=<path>
  *
- * Starts the store hand-off: sets a random state in the `bcb_sso_state`
- * cookie (scoped to /api/auth/bcb) and redirects to the store with the same
+ * Starts the store hand-off: sets a random state in the `__Host-bcb_sso_state`
+ * cookie and redirects to the store with the same
  * state as `s`. /api/auth/bcb accepts a token only when the cookie and `s`
  * match, so a victim who opens a link carrying someone else's token cannot be
  * signed in to that account (login CSRF).
@@ -13,7 +13,9 @@
 import type { PagesFunction } from "../../../lib/pages-function";
 import { safeRedirectPath } from "../../../lib/oauth";
 
-export const BCB_SSO_STATE_COOKIE = "bcb_sso_state";
+// The __Host- prefix makes browsers refuse a copy set with Domain= by a sibling
+// subdomain of belajarcarabelajar.com; it requires Path=/ and no Domain.
+export const BCB_SSO_STATE_COOKIE = "__Host-bcb_sso_state";
 export const BCB_SSO_STATE_RE = /^[A-Za-z0-9_-]{43}$/;
 const STORE_SIGN_IN_URL = "https://belajarcarabelajar.com/masuk-dawnbook";
 const STATE_MAX_AGE_S = 600;
@@ -40,7 +42,7 @@ export async function handleBcbStart(request: Request): Promise<Response> {
     headers: {
       Location: `${STORE_SIGN_IN_URL}?next=${encodeURIComponent(next)}&s=${state}`,
       "Cache-Control": "no-store",
-      "Set-Cookie": `${BCB_SSO_STATE_COOKIE}=${state}; Path=/api/auth/bcb; Max-Age=${STATE_MAX_AGE_S}; HttpOnly; Secure; SameSite=Lax`,
+      "Set-Cookie": `${BCB_SSO_STATE_COOKIE}=${state}; Path=/; Max-Age=${STATE_MAX_AGE_S}; HttpOnly; Secure; SameSite=Lax`,
     },
   });
 }

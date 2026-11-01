@@ -56,13 +56,13 @@ async function tokenFor(opts: { secret?: string; exp?: number; nonce?: string } 
 // 43 base64url characters, the shape /api/auth/bcb/start issues.
 const STATE = "S".repeat(21) + "-_" + "t".repeat(20);
 const OTHER_STATE = "O".repeat(43);
-const CLEAR_STATE = "bcb_sso_state=; Path=/api/auth/bcb; Max-Age=0; HttpOnly; Secure; SameSite=Lax";
+const CLEAR_STATE = "__Host-bcb_sso_state=; Path=/; Max-Age=0; HttpOnly; Secure; SameSite=Lax";
 
 function ssoRequest(
   token: string,
   next?: string,
   method = "GET",
-  state: { cookie?: string | null; s?: string | null } = {},
+  state: { cookie?: string | null; s?: string | null; cookieName?: string } = {},
 ): Request {
   const cookie = state.cookie === undefined ? STATE : state.cookie;
   const s = state.s === undefined ? STATE : state.s;
@@ -71,7 +71,7 @@ function ssoRequest(
   if (next !== undefined) url.searchParams.set("next", next);
   if (s !== null) url.searchParams.set("s", s);
   const headers: Record<string, string> = { "CF-Connecting-IP": "203.0.113.9", "User-Agent": "uji-agen" };
-  if (cookie !== null) headers.Cookie = `dawnbook_lang=id; bcb_sso_state=${cookie}`;
+  if (cookie !== null) headers.Cookie = `dawnbook_lang=id; ${state.cookieName ?? "__Host-bcb_sso_state"}=${cookie}`;
   return new Request(url, { method, headers });
 }
 
@@ -219,7 +219,7 @@ describe("/api/auth/bcb store hand-off", () => {
     const { db } = createSqliteD1();
     const token = await tokenFor();
     const req = new Request(`https://example.com/api/auth/bcb?t=${token}&next=%2F%09%2Fevil.com&s=${STATE}`, {
-      headers: { Cookie: `bcb_sso_state=${STATE}` },
+      headers: { Cookie: `__Host-bcb_sso_state=${STATE}` },
     });
     const res = await handleBcbSso(req, { DB: db, BCB_SSO_SECRET: fixture.secret } as any, NOW);
     expect(res.status).toBe(302);
@@ -268,6 +268,8 @@ describe("/api/auth/bcb store hand-off", () => {
     ["cookie and s that differ", { s: OTHER_STATE }],
     ["malformed s equal to the cookie", { cookie: "pendek", s: "pendek" }],
     ["s with a character outside base64url", { cookie: STATE.slice(0, 42) + "=", s: STATE.slice(0, 42) + "=" }],
+    // A sibling subdomain can set an unprefixed Domain cookie; only the __Host- one counts.
+    ["only the old unprefixed cookie name", { cookieName: "bcb_sso_state" }],
   ] as const) {
     test(`valid token with ${name} is refused before the nonce is burned`, async () => {
       const { sqlite, db } = createSqliteD1();

@@ -11,7 +11,7 @@ function startRequest(next: string | null, method = "GET"): Request {
 
 function stateCookie(res: Response): string {
   const header = res.headers.get("Set-Cookie") ?? "";
-  const match = header.match(/^bcb_sso_state=([^;]*);/);
+  const match = header.match(/^__Host-bcb_sso_state=([^;]*);/);
   expect(match).not.toBeNull();
   return match![1];
 }
@@ -25,7 +25,7 @@ describe("/api/auth/bcb/start store hand-off launcher", () => {
     const state = stateCookie(res);
     expect(state).toMatch(STATE_RE);
     expect(res.headers.get("Set-Cookie")).toBe(
-      `bcb_sso_state=${state}; Path=/api/auth/bcb; Max-Age=600; HttpOnly; Secure; SameSite=Lax`,
+      `__Host-bcb_sso_state=${state}; Path=/; Max-Age=600; HttpOnly; Secure; SameSite=Lax`,
     );
     expect(res.headers.get("Location")).toBe(
       "https://belajarcarabelajar.com/masuk-dawnbook?next=%2Fbooks%2Fbuku-a%2Fcontent%2F02_x.html%3Fa%3D1%26b%3D2" +
