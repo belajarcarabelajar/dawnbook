@@ -46,7 +46,7 @@ Cermati contoh transkripsi wacana kelas berikut yang membahas topik alat komunik
 
 Pada transkrip di atas, setiap pertukaran selalu dipicu oleh pertanyaan guru. Pada gerakan 096, guru mengarahkan fokus kelas pada prosedur penggunaan telepon. Setelah siswa menjawab pada gerakan 097, guru tidak membiarkan siswa mengembangkan topik secara bebas. Guru langsung memegang kendali kembali pada gerakan 098 dan 100 dengan mengajukan pertanyaan urutan berikutnya.
 
-Di akhir pertukaran (gerakan 102 dan 103), guru memberikan konfirmasi dalam dua bentuk: pertama menggunakan bentuk baku ("ditekan"), lalu mengesahkan istilah yang dipakai siswa ("dipencet").
+Di akhir pertukaran (gerakan 102 dan 103), guru memberikan konfirmasi dua kali. Mula-mula ia memakai bentuk baku ("ditekan"), lalu mengesahkan istilah yang dipakai siswa ("dipencet").
 
 ---
 
@@ -55,7 +55,7 @@ Di akhir pertukaran (gerakan 102 dan 103), guru memberikan konfirmasi dalam dua 
 Tingginya angka pertanyaan yang tidak direspons secara langsung memberikan pelajaran bagi praktik mengajar di sekolah dasar. Jika kamu mengendalikan seluruh topik melalui pertanyaan tertutup yang kaku, siswa akan merasa takut salah dan memilih diam.
 
 > **Catatan Strategi Pertanyaan Guru:**
-> Pengendalian topik yang efektif bukan berarti mendominasi percakapan dengan pertanyaan beruntun. Sebagai pendidik, kamu perlu memberikan waktu tunggu (*wait time*) yang cukup agar siswa dapat memproses pertanyaan dan berani menyampaikan tanggapan tanpa merasa diinterogasi.
+> Topik bisa dikendalikan dengan efektif tanpa mendominasi percakapan lewat pertanyaan beruntun. Sebagai pendidik, kamu perlu memberikan waktu tunggu (*wait time*) yang cukup agar siswa dapat memproses pertanyaan dan berani menyampaikan tanggapan tanpa merasa diinterogasi.
 
 Beberapa langkah yang dapat kamu terapkan untuk memperbaiki dinamika pertanyaan di kelas meliputi:
 

@@ -2,13 +2,13 @@
 
 Bayangkan kamu terbangun di planet asing tanpa peta, bahasa, atau pemahaman cara kerja benda. Itulah kondisi bayi yang baru lahir.
 
-Pada tahap **Sensorimotor**, bayi tidak "berpikir" menggunakan simbol atau bahasa. Mereka memahami dunia lewat koordinasi pengalaman sensorik (melihat, mendengar) dengan tindakan motorik (menggapai, mengisap). Pengetahuan mereka benar-benar hasil dari aksi fisik.
+Pada tahap **Sensorimotor**, bayi memahami dunia lewat koordinasi pengalaman sensorik (melihat, mendengar) dengan tindakan motorik (menggapai, mengisap). Simbol dan bahasa belum menjadi alat "berpikir" mereka. Pengetahuan mereka benar-benar hasil dari aksi fisik.
 
 ## 1\. Belajar Melalui Aksi
 
 Istilah "Sensorimotor" berasal dari kata **Sensori** (indra) dan **Motorik** (gerakan). Di dua tahun pertama kehidupan, kecerdasan anak murni berbentuk tindakan praktis.
 
-> **Insight:** Bagi bayi, "memahami" bola bukan berarti tahu kata "bola", tapi tahu benda itu bisa digenggam, diputar, dan membal kalau dijatuhkan.
+> **Insight:** Bagi bayi, "memahami" bola berarti tahu benda itu bisa digenggam, diputar, dan membal kalau dijatuhkan. Kata "bola" belum ikut di dalamnya.
 
 ### Memahami Dunia lewat Jari dan Lidah
 
@@ -45,9 +45,9 @@ Fase penting ketika **tindakan mulai disengaja**. Bayi mulai menggabungkan beber
 
 ### V. Reaksi Sirkular Tersier (12 - 18 Bulan)
 
-Bayi bertingkah seperti ilmuwan kecil. Mereka tidak sekadar mengulang gerakan, tapi mulai **bereksperimen dengan variasi**.
+Bayi bertingkah seperti ilmuwan kecil. Gerakan yang mereka ulang mulai diberi **variasi**, seolah sedang bereksperimen.
 
-- **Contoh:** Bukannya cuma menjatuhkan sendok, bayi mencoba menjatuhkannya dari ketinggian atau arah yang berbeda untuk melihat reaksi yang muncul.
+- **Contoh:** Bayi mencoba menjatuhkan sendok dari ketinggian atau arah yang berbeda-beda untuk melihat reaksi yang muncul.
 
 ### VI. Internalisasi Skema (18 - 24 Bulan)
 
@@ -84,7 +84,7 @@ $$
 
 Paham cara kerja sensorimotor membuat kita bisa memberi stimulasi yang pas:
 
-1. **Cilukba:** Bukan sekadar lucu-lucuan. Ini latihan kognitif untuk menguji objek permanen. Bayi memproses konsep "hilang" dan "muncul kembali".
+1. **Cilukba:** Di balik lucunya, permainan ini adalah latihan kognitif untuk menguji objek permanen. Bayi memproses konsep "hilang" dan "muncul kembali".
 2. **Ruang Eksplorasi:** Bayi belajar lewat gerak fisik. Menyiapkan area aman untuk mereka merangkak, menyentuh berbagai tekstur, dan memanipulasi benda adalah "sekolah" bagi mereka.
 3. **Sebab-Akibat:** Mainan yang mengeluarkan bunyi kalau ditekan sangat memperkuat pemahaman mereka soal hubungan sebab-akibat.
 
@@ -99,6 +99,6 @@ Paham cara kerja sensorimotor membuat kita bisa memberi stimulasi yang pas:
 | **Sirkular Tersier** | 12-18 bln | Eksperimen | Menjatuhkan sendok untuk melihat jatuhnya. |
 | **Internalisasi** | 18-24 bln | Simbol mental | Berpura-pura menyuapi boneka. |
 
-Pernah melihat bayi terus-terusan menjatuhkan mainan dari kursi makan meski sudah kamu ambil berkali-kali? Dia tidak sedang rewel atau nakal. Dia sedang melakukan eksperimen gravitasi dan jarak (Reaksi Sirkular Tersier). 
+Pernah melihat bayi terus-terusan menjatuhkan mainan dari kursi makan meski sudah kamu ambil berkali-kali? Dia sedang melakukan eksperimen gravitasi dan jarak (Reaksi Sirkular Tersier), jadi tak perlu buru-buru menyebutnya rewel atau nakal.
 
 Pemahaman dasar bahwa objek itu nyata dan permanen menjadi salah satu fondasi bagi anak untuk belajar bahasa dan simbol abstrak.

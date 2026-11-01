@@ -90,7 +90,7 @@ Untuk mengubah dinamika hubungan, langkah pertama yang harus dilakukan adalah be
 ### Strategi untuk Si Cemas
 
 1. **Latih Self-Soothing:** Saat rasa panik mulai melanda, cobalah menenangkan diri sendiri terlebih dahulu sebelum menuntut penjelasan dari pasangan.
-2. **Beri Ruang untuk Bernapas:** Sadari bahwa keputusan pasangan untuk menarik diri biasanya terjadi karena mereka merasa kewalahan (*overwhelmed*), bukan karena rasa sayangnya telah hilang.
+2. **Beri Ruang untuk Bernapas:** Sadari bahwa keputusan pasangan untuk menarik diri biasanya terjadi karena mereka merasa kewalahan (*overwhelmed*), sementara rasa sayangnya masih ada.
 3. **Fokus pada Perasaan Sendiri (*I-Statement*):** Sampaikan perasaanmu secara jujur tanpa menyudutkan. Misalnya, *"Aku merasa kesepian saat kita jarang mengobrol,"* alih-alih menuduh dengan *"Kamu selalu mengabaikanku!"*
 
 ### Strategi untuk Si Menghindar
@@ -101,6 +101,6 @@ Untuk mengubah dinamika hubungan, langkah pertama yang harus dilakukan adalah be
 
 ## Dinamika Kelekatan Bukan Takdir
 
-Dinamika kelekatan dalam hubungan romantis bukanlah sebuah takdir yang tidak bisa diubah. Dengan memahami bahwa reaksi defensif pasangan sebenarnya berakar dari luka masa lalu, kita dapat menumbuhkan empati yang lebih dalam.
+Dinamika kelekatan dalam hubungan romantis bisa diubah. Dengan memahami bahwa reaksi defensif pasangan sebenarnya berakar dari luka masa lalu, kita dapat menumbuhkan empati yang lebih dalam.
 
-Mengenali peran kita dalam "tarian" hubungan ini - apakah kita cenderung mengejar atau menghindar - adalah langkah penting untuk mengubah pola tersebut. Kesadaran inilah yang memungkinkan perubahan. Begitu kamu memahami pola kelekatan ini, kamu tidak lagi menjadi korban dari reaksi otomatis diri sendiri, melainkan mulai memegang kendali untuk membangun hubungan yang lebih sehat.
+Mengenali peran kita dalam "tarian" hubungan ini - apakah kita cenderung mengejar atau menghindar - adalah langkah penting untuk mengubah pola tersebut. Kesadaran inilah yang memungkinkan perubahan. Begitu kamu memahami pola kelekatan ini, kamu mulai memegang kendali atas reaksi otomatis diri sendiri dan bisa membangun hubungan yang lebih sehat.

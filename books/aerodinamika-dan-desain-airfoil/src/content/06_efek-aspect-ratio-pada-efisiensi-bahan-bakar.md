@@ -2,11 +2,11 @@
 
 Pernahkah kamu melihat perbedaan mencolok antara sayap pesawat jet tempur yang pendek dan kokoh dengan sayap pesawat layang (*glider*)? Sayap glider itu sangat panjang dan ramping. Fenomena serupa juga terlihat pada pesawat komersial modern seperti Boeing 787 Dreamliner yang memiliki sayap yang tampak lebih lentur dan panjang dibandingkan pesawat generasi sebelumnya.
 
-Perbedaan tersebut bukan sekadar aspek estetika, melainkan cerminan salah satu parameter penting dalam desain aerodinamika pesawat: *Aspect Ratio* ($\text{AR}$). Rasio dimensi sayap ini menjadi faktor penentu dalam meminimalkan gaya hambat (*drag*) dan menghemat konsumsi bahan bakar.
+Perbedaan tersebut mencerminkan salah satu parameter penting dalam desain aerodinamika pesawat, yaitu *Aspect Ratio* ($\text{AR}$). Rasio dimensi sayap ini menjadi faktor penentu dalam meminimalkan gaya hambat (*drag*) dan menghemat konsumsi bahan bakar.
 
 ### 1. Definisi dan Formulasi Aspect Ratio
 
-Secara fundamental, *Aspect Ratio* ($\text{AR}$) merupakan perbandingan antara bentang sayap (*wingspan*) dengan lebar rata-rata kord sayap. Karena bentuk geometri sayap pesawat pada umumnya tidak berbentuk persegi panjang murni (melainkan meruncing atau *tapered*, serta menyapu ke belakang atau *swept*), perumusan standar $\text{AR}$ didefinisikan sebagai:
+Secara fundamental, *Aspect Ratio* ($\text{AR}$) merupakan perbandingan antara bentang sayap (*wingspan*) dengan lebar rata-rata kord sayap. Karena sayap pesawat pada umumnya meruncing (*tapered*) serta menyapu ke belakang (*swept*), perumusan standar $\text{AR}$ didefinisikan sebagai:
 
 $$
 \text{AR} = \frac{b^2}{S}

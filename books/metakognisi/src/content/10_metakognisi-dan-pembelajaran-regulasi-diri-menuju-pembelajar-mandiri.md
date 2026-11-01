@@ -6,7 +6,7 @@ Proses belajar ibarat perjalanan panjang, dan kemampuanmu mengendalikan arahnya 
 
 Melalui pembelajaran regulasi diri, seseorang secara aktif menetapkan target belajarnya sendiri. Mereka kemudian memantau serta mengatur cara berpikir, tingkat motivasi, dan perilaku yang disesuaikan dengan kondisi lingkungan sekitarnya. Orang yang mampu meregulasi dirinya pada dasarnya sedang membangun sistem belajarnya sendiri secara mandiri.
 
-Karena itu, pembelajaran regulasi diri lebih dari sekadar menguasai teknik belajar biasa. Ia adalah pola pikir dasar untuk menghadapi berbagai macam tantangan intelektual.
+Karena itu, pembelajaran regulasi diri pada dasarnya adalah pola pikir untuk menghadapi berbagai macam tantangan intelektual.
 
 ## Metakognisi Mendasari Regulasi Diri
 
@@ -35,7 +35,7 @@ Ada tiga fase utama yang terus berputar dalam pembelajaran regulasi diri, dan ke
 
 ## Pengaturan Lingkungan dan Mengelola Emosi
 
-Belajar bukan hanya soal memasukkan informasi ke otak, tapi juga mengatur kondisi fisik dan suasana hati agar tetap mendukung proses tersebut.
+Selama memasukkan informasi ke otak, kamu juga perlu mengatur kondisi fisik dan suasana hati agar tetap mendukung proses tersebut.
 
 ### 1. Regulasi Lingkungan
 

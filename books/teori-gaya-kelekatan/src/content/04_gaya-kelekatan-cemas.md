@@ -35,7 +35,7 @@ Saat mendeteksi ancaman dalam hubungan (misalnya, saat pasangan tidak membalas c
 
 ### Perilaku Protes (Protest Behaviors)
 
-Untuk meredakan kecemasan tersebut, mereka sering melakukan perilaku protes, yaitu tindakan yang dirancang untuk mendapatkan kembali perhatian pasangan. Contohnya:
+Untuk meredakan kecemasan tersebut, mereka sering melakukan perilaku protes, yaitu tindakan yang dirancang untuk mendapatkan kembali perhatian pasangan, seperti beberapa contoh berikut.
 
 1. **Menghubungi berulang kali:** Menelepon terus-menerus atau membombardir dengan chat.
 2. **Aksi diam atau menarik diri** dengan harapan pasangan akan mencari mereka demi membuktikan rasa cintanya.
@@ -55,7 +55,7 @@ Mari kita lihat bagaimana gaya kelekatan cemas bekerja dalam situasi sehari-hari
 * **Pukul 13.00:** "Dia pasti mulai bosan denganku. Jangan-jangan dia lagi asyik mengobrol dengan rekan kerjanya?"
 * **Pukul 14.00:** Karena kecemasannya terus naik, Santi akhirnya mengirim pesan lagi: "Kamu kok cuek banget sih? Kalau mau putus bilang aja!"
 
-**Analisis:** Kecemasan Santi memuncak karena pikirannya menafsirkan "tidak dibalas" sebagai tanda bahwa Budi akan meninggalkannya. Pesan bernada marah yang dikirim pada pukul 14.00 sebenarnya bukan karena Santi membenci Budi, melainkan sebuah bentuk kepanikan agar Budi segera merespons dan meyakinkan Santi bahwa hubungan mereka baik-baik saja.
+**Analisis:** Kecemasan Santi memuncak karena pikirannya menafsirkan "tidak dibalas" sebagai tanda bahwa Budi akan meninggalkannya. Pesan bernada marah yang dikirim pada pukul 14.00 lahir dari kepanikan, karena Santi ingin Budi segera merespons dan meyakinkannya bahwa hubungan mereka baik-baik saja. Santi tidak sedang membenci Budi.
 
 ## Tantangan dan Kekuatan
 
@@ -82,6 +82,6 @@ Meskipun sering merasa lelah dengan kecemasan sendiri, orang dengan gaya kelekat
 
   Saat keyakinan diri rendah, gangguan kecil saja dalam hubungan sudah bisa memicu kepanikan besar.
 
-**Catatan Penting:** Gaya kelekatan cemas bukanlah penyakit mental atau cacat karakter. Ini adalah cara adaptif yang dipelajari otak sejak kecil agar bisa bertahan dalam lingkungan yang tidak konsisten. Langkah awal untuk berubah adalah menyadari kapan alarm cemasmu mulai menyala, meskipun sebenarnya tidak ada bahaya yang nyata.
+**Catatan Penting:** Gaya kelekatan cemas adalah cara adaptif yang dipelajari otak sejak kecil agar bisa bertahan dalam lingkungan yang tidak konsisten. Gaya ini tidak tergolong penyakit mental dan tidak menandakan cacat karakter. Langkah awal untuk berubah adalah menyadari kapan alarm cemasmu mulai menyala, meskipun sebenarnya tidak ada bahaya yang nyata.
 
 Kepekaan terhadap perubahan perasaan pasangan dan kehangatan dalam memberi kasih sayang, dua kekuatan di tabel tadi, baru menjadi kelebihan ketika kecemasan itu berhasil kamu kelola.

@@ -1,6 +1,6 @@
 ## Peran Teknologi dalam Mendukung Pembelajaran Multidisiplin
 
-Pembelajaran multidisiplin menggabungkan perspektif, konsep, dan metodologi berbagai disiplin ilmu untuk memahami fenomena atau memecahkan masalah. Di era digital saat ini, teknologi modern telah berkembang melampaui fungsi alat bantu dasar. Kini, teknologi bertindak sebagai fasilitator utama yang memungkinkan integrasi pengetahuan yang lebih mendalam dan efektif. Dengan teknologi, batas-batas disipliner menjadi lebih lentur, mempermudah kolaborasi, visualisasi, simulasi, dan akses informasi yang sebelumnya sulit dijangkau.
+Pembelajaran multidisiplin menggabungkan perspektif, konsep, dan metodologi berbagai disiplin ilmu untuk memahami fenomena atau memecahkan masalah. Di era digital saat ini, teknologi modern bertindak sebagai fasilitator utama yang memungkinkan integrasi pengetahuan yang lebih mendalam dan efektif. Dengan teknologi, batas-batas disipliner menjadi lebih lentur, mempermudah kolaborasi, visualisasi, simulasi, dan akses informasi yang sebelumnya sulit dijangkau.
 
 > **Poin Utama:** Teknologi berperan sebagai jembatan yang menghubungkan berbagai disiplin ilmu, menjadikan proses belajar lintas disiplin lebih dinamis, interaktif, dan relevan dengan tantangan nyata.
 
@@ -39,7 +39,7 @@ Sebagai contoh, kita bisa menggabungkan data curah hujan (meteorologi) dengan da
 | 2021 | 1.300 | 45 | 90 |
 | 2022 | 1.600 | 55 | 110 |
 
-Jika ketiga deret ini digambar sebagai grafik garis dalam satu bidang, terlihat bahwa ketiganya naik dan turun pada tahun yang sama: paling rendah pada 2019 dan paling tinggi pada 2020. Melalui visualisasi terintegrasi seperti ini, seorang ekonom dan agronom dapat berkolaborasi lebih erat untuk mengambil keputusan berbasis data yang akurat.
+Jika ketiga deret ini digambar sebagai grafik garis dalam satu bidang, terlihat bahwa ketiganya naik dan turun pada tahun yang sama, dengan titik terendah pada 2019 dan titik tertinggi pada 2020. Melalui visualisasi terintegrasi seperti ini, seorang ekonom dan agronom dapat berkolaborasi lebih erat untuk mengambil keputusan berbasis data yang akurat.
 
 ### Simulasi Interaktif
 
@@ -98,6 +98,6 @@ Mari kita lihat contoh sederhana bagaimana AI menggunakan pemrosesan teks dasar 
 | Ilmu material | "Pengembangan material komposit baru melibatkan nanoteknologi dan sifat mekanik polimer." | pengembangan, material, komposit, baru, melibatkan, nanoteknologi, sifat, mekanik, polimer |
 | Muncul di keduanya | - | tidak ada |
 
-Hasil langkah terakhir justru kosong: tidak ada satu kata pun yang sama di kedua daftar. Dalam contoh ini, penyaringan istilah yang sesederhana ini belum menemukan titik temu antara biologi dan ilmu material. Sistem AI yang matang akan menggunakan pemahaman semantik yang jauh lebih dalam untuk memetakan hubungan tersebut secara otomatis.
+Langkah terakhir justru tidak menghasilkan apa pun. Tidak ada satu kata pun yang sama di kedua daftar. Dalam contoh ini, penyaringan istilah yang sesederhana ini belum menemukan titik temu antara biologi dan ilmu material. Sistem AI yang matang akan menggunakan pemahaman semantik yang jauh lebih dalam untuk memetakan hubungan tersebut secara otomatis.
 
 Dalam skala yang lebih luas, teknologi seperti **IBM Watson Health** pernah menggunakan AI untuk menyintesis data klinis dengan literatur riset medis guna memandu dokter mengambil tindakan medis. Demikian pula dengan platform pembelajaran modern yang memanfaatkan AI untuk memetakan minat dan menyusun rekomendasi mata kuliah yang saling melengkapi bagi penggunanya.

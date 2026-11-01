@@ -1,6 +1,6 @@
 ## Mencapai Kelekatan Aman yang Diperoleh (Earned Security)
 
-Pernahkah kamu merasa bahwa gaya kelekatan kamu (apakah itu cemas, menghindar, atau disorganisasi) adalah "vonis seumur hidup"? Kabar baiknya: **ilmu psikologi membuktikan bahwa masa lalu tidak harus mendikte masa depanmu.**
+Pernahkah kamu merasa bahwa gaya kelekatan kamu (apakah itu cemas, menghindar, atau disorganisasi) adalah "vonis seumur hidup"? Kabar baiknya, **ilmu psikologi membuktikan bahwa masa lalu tidak harus mendikte masa depanmu.**
 
 Meskipun kita tidak bisa mengubah apa yang terjadi pada masa kecil, kita bisa mengubah cara meresponsnya di masa dewasa. Inilah yang disebut dengan **Earned Secure Attachment** atau Kelekatan Aman yang Diperoleh.
 
@@ -8,7 +8,7 @@ Meskipun kita tidak bisa mengubah apa yang terjadi pada masa kecil, kita bisa me
 
 **Earned Security** adalah kondisi ketika seseorang yang tumbuh dengan pengasuhan tidak konsisten, mengabaikan, atau bahkan traumatis, berhasil mengembangkan pola hubungan yang sehat dan aman di masa dewasa.
 
-**Insight Penting:** Perbedaan antara individu yang "Aman Berkelanjutan" (Continuous Secure) dan "Aman yang Diperoleh" (Earned Secure) bukan terletak pada sejarah masa lalu mereka, tetapi pada cara mereka memahami dan memaknai sejarah tersebut.
+**Insight Penting:** Yang membedakan individu "Aman Berkelanjutan" (Continuous Secure) dari "Aman yang Diperoleh" (Earned Secure) adalah cara mereka memahami dan memaknai sejarah masa lalu mereka. Sejarah itu sendiri tidak menjadi pembedanya.
 
 ### Seni Kintsugi
 
@@ -16,7 +16,7 @@ Bayangkan sebuah keramik yang pecah. Seseorang dengan *Earned Security* mirip de
 
 ## Narasi yang Koheren (Coherent Narrative)
 
-Penelitian oleh Mary Main menemukan bahwa faktor pembeda terbesar bagi orang dewasa untuk mencapai kelekatan aman bukan terletak pada tingkat "kesempurnaan" masa kecil mereka, melainkan pada kemampuan menceritakan kisah hidup secara **koheren**.
+Penelitian oleh Mary Main menemukan bahwa kemampuan menceritakan kisah hidup secara **koheren** lebih membedakan orang dewasa yang mencapai kelekatan aman daripada tingkat "kesempurnaan" masa kecil mereka.
 
 **Apa itu narasi yang koheren?** Ini adalah kemampuan menjelaskan pengalaman masa lalu (baik yang menyenangkan maupun yang menyakitkan) dengan cara yang logis, jujur, dan terintegrasi.
 
@@ -25,13 +25,13 @@ Penelitian oleh Mary Main menemukan bahwa faktor pembeda terbesar bagi orang dew
 
 ## Pilar Menuju Kelekatan Aman
 
-Mencapai *Earned Security* bukanlah peristiwa yang terjadi dalam semalam, tetapi sebuah proses transformasi bertahap yang melibatkan tiga pilar utama:
+*Earned Security* dicapai lewat proses transformasi bertahap yang melibatkan tiga pilar utama.
 
 ### 1. Kesadaran Diri dan Metakognisi
 
 Metakognisi adalah kemampuan untuk "berpikir tentang cara kita berpikir." Langkah ini melibatkan pengenalan yang mendalam terhadap pemicu (*triggers*) yang kamu miliki.
 
-* **Contoh:** Saat pasangan tidak membalas pesan, alih-alih langsung panik (gaya Cemas) atau menarik diri (gaya Menghindar), kamu menyadari: *"Ini adalah luka lama saya yang sedang aktif. Saya merasa terancam bukan karena dia tidak peduli, tetapi karena situasi ini memicu ingatan akan pengabaian di masa lalu."*
+* **Contoh:** Saat pasangan tidak membalas pesan, alih-alih langsung panik (gaya Cemas) atau menarik diri (gaya Menghindar), kamu menyadari: *"Ini adalah luka lama saya yang sedang aktif. Situasi ini memicu ingatan akan pengabaian di masa lalu, dan itulah yang membuat saya merasa terancam. Rasa terancam ini tidak berarti dia tidak peduli."*
 
 ### 2. Hubungan Korektif (Corrective Emotional Experiences)
 
@@ -63,8 +63,8 @@ Jika selama puluhan tahun jalur ketakutan akan penolakan sudah terbentuk seperti
 1. **Inventarisasi Pemicu:** Tuliskan tiga hal yang biasanya membuat kamu merasa tidak aman dalam hubungan, lalu identifikasi reaksi otomatis kamu.
 2. **Menamai Perasaan:** Saat merasa terpicu, katakan pada diri sendiri: *"Aku sedang merasa [Emosi], dan perasaan ini valid, tetapi reaksi otomatis [Reaksi] mungkin tidak membantu untuk saat ini."*
 3. **Latih Keterbukaan (Vulnerability):** Cobalah sampaikan kebutuhan kamu secara jujur tanpa nada menyalahkan.
-   * *Bukan:* "Kamu selalu cuek!"
-   * *Tetapi:* "Aku merasa agak cemas hari ini, bolehkah aku minta waktu sebentar untuk mengobrol?"
+   * *Hindari:* "Kamu selalu cuek!"
+   * *Coba:* "Aku merasa agak cemas hari ini, bolehkah aku minta waktu sebentar untuk mengobrol?"
 
 ## Transformasi Sari
 
@@ -76,13 +76,13 @@ Jika selama puluhan tahun jalur ketakutan akan penolakan sudah terbentuk seperti
 
 ## Menjadi Earned Secure Tanpa Harus Sempurna
 
-Menjadi *Earned Secure* bukan berarti kamu harus menjadi orang sempurna yang terbebas dari masalah. Ini menandakan bahwa kamu bertransformasi menjadi individu yang:
+Menjadi *Earned Secure* menandakan bahwa kamu bertransformasi menjadi individu dengan ciri-ciri berikut, tanpa harus sempurna atau terbebas dari masalah.
 
 * Memiliki kemampuan menenangkan diri secara mandiri di bawah tekanan.
 * Berkomunikasi secara transparan mengenai kebutuhan emosional dan batasan diri.
 * Mampu memberikan dukungan tulus bagi orang lain tanpa mengorbankan jati diri sendiri.
 
-**Pesan untukmu:** Keamanan emosional bukanlah sesuatu yang hanya dimiliki orang-orang beruntung. Ini adalah keterampilan yang dapat dipelajari, diperjuangkan, dan akhirnya dimiliki. Masa lalu membentuk titik awalmu, tetapi langkah selanjutnya ada di tanganmu.
+**Pesan untukmu:** Keamanan emosional adalah keterampilan yang dapat dipelajari, diperjuangkan, dan akhirnya dimiliki. Orang-orang beruntung tidak memonopolinya. Masa lalu membentuk titik awalmu, tetapi langkah selanjutnya ada di tanganmu.
 
 ## Keterampilan Sosial untuk Hubungan yang Bermakna
 
@@ -92,8 +92,8 @@ Berikut adalah beberapa pilar penting dalam membangun koneksi yang dalam:
 
 ### Pilar Penting Koneksi yang Dalam
 
-1. **Mendengarkan Secara Aktif (Active Listening):** Hal ini melibatkan pemahaman emosi di balik kata-kata yang terucap, bukan hanya mendengarkan suara. Fokuslah sepenuhnya pada lawan bicara tanpa terdistraksi memikirkan tanggapan kamu selanjutnya.
-2. **Kerentanan (Vulnerability):** Menurut peneliti Brené Brown, kerentanan adalah jembatan menuju koneksi. Ini berarti berani menunjukkan sisi asli kamu (termasuk ketakutan dan kegagalan) bukan hanya sisi "sempurna" yang ingin kamu tampilkan.
+1. **Mendengarkan Secara Aktif (Active Listening):** Selain mendengarkan suara, kamu berusaha memahami emosi di balik kata-kata yang terucap. Fokuslah sepenuhnya pada lawan bicara tanpa terdistraksi memikirkan tanggapan kamu selanjutnya.
+2. **Kerentanan (Vulnerability):** Menurut peneliti Brené Brown, kerentanan adalah jembatan menuju koneksi. Ini berarti berani menunjukkan sisi asli kamu, termasuk ketakutan dan kegagalan, di samping sisi "sempurna" yang ingin kamu tampilkan.
 3. **Konsistensi dan Kehadiran:** Hubungan yang kuat dibangun melalui momen-momen kecil yang terkumpul secara konsisten. Kehadiran nyata saat dibutuhkan lebih berharga daripada hadiah materi yang mahal.
 4. **Empati di Atas Simpati:** Simpati adalah merasa kasihan pada seseorang, sedangkan empati adalah usaha untuk ikut merasakan apa yang sedang mereka alami.
 

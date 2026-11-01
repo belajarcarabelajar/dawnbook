@@ -1,6 +1,6 @@
 ## Implementasi Eksistensialisme di Era Modern
 
-Implementasi eksistensialisme di era kontemporer menuntut ketahanan kritis subjek dalam menavigasi determinisme algoritma dan tekanan konformitas digital. Di tengah pesatnya perkembangan teknologi informasi, ancaman terhadap kedaulatan kehendak bebas tidak lagi berwujud koersi fisik langsung, melainkan hadir melalui kurasi data perilaku, optimasi keterlibatan algoritmis, dan standardisasi persepsi sosial.
+Implementasi eksistensialisme di era kontemporer menuntut ketahanan kritis subjek dalam menavigasi determinisme algoritma dan tekanan konformitas digital. Di tengah pesatnya perkembangan teknologi informasi, ancaman terhadap kedaulatan kehendak bebas hadir melalui kurasi data perilaku, optimasi keterlibatan algoritmis, dan standardisasi persepsi sosial, menggantikan koersi fisik langsung.
 
 ### 1. "Tatapan" Sartre (*Le Regard*) di Era Algoritma
 
@@ -11,7 +11,7 @@ Konsepsi Jean-Paul Sartre mengenai tatapan orang lain (*le regard*) menyingkap b
 
 Dalam kerangka eksistensialis, reklamasi otonomi digital diwujudkan melalui:
 1. **Tanggung Jawab Radikal atas Atensi:** Menyadari bahwa setiap interaksi digital merupakan pilihan kehendak sadar yang membentuk esensi diri.
-2. **Askesis Digital sebagai Tindakan Emansipatoris:** Membatasi paparan stimulus digital bukan sekadar manajemen produktivitas teknis, melainkan praksis pembebasan kesadaran dari status objek tatapan massa.
+2. **Askesis Digital sebagai Tindakan Emansipatoris:** Membatasi paparan stimulus digital merupakan praksis pembebasan kesadaran dari status objek tatapan massa, lebih luas dari urusan manajemen produktivitas teknis.
 
 ### 2. Identitas yang Disamakan dengan Pekerjaan
 
@@ -19,9 +19,9 @@ Masyarakat industri dan pasca-industri kerap menjebak individu ke dalam reduksio
 
 #### Manusia Lebih dari Pekerjaannya
 
-Prinsip ontologis bahwa $\text{Eksistensi} > \text{Esensi}$ menegaskan bahwa manusia mendahului segala kategori profesi. Pekerjaan adalah salah satu sarana ekspresi praksis kebebasan, bukan sangkar ontologis yang mendefinisikan totalitas martabat individu.
+Prinsip ontologis bahwa $\text{Eksistensi} > \text{Esensi}$ menegaskan bahwa manusia mendahului segala kategori profesi. Pekerjaan adalah salah satu sarana ekspresi praksis kebebasan. Totalitas martabat individu tidak ditentukan olehnya.
 
-Ketika seseorang memandang profesinya sebagai peran instrumental belaka dan menolak menjadikan dirinya budak atas ekspektasi korporasi yang destruktif, langkah tersebut mencerminkan penegasan otentisitas: subjek menegaskan bahwa kedaulatan eksistensialnya melampaui utilitas fungsional pasar kerja.
+Ketika seseorang memandang profesinya sebagai peran instrumental belaka dan menolak menjadikan dirinya budak atas ekspektasi korporasi yang destruktif, langkah tersebut mencerminkan penegasan otentisitas. Lewat langkah itu, subjek menegaskan bahwa kedaulatan eksistensialnya melampaui utilitas fungsional pasar kerja.
 
 ### 3. Kritik atas Narasi Normalisasi Sosial
 
@@ -45,4 +45,4 @@ Eksistensialisme memandang adopsi tanpa telaah kritis atas siklus ini sebagai be
 
 ### 5. Tetap Menjadi Subjek di Era Digital
 
-Penerapan eksistensialisme dalam realitas kontemporer bukanlah seruan untuk mengasingkan diri dari teknologi, melainkan ajakan untuk mengubah disposisi kesadaran. Kebebasan sejati di era digital terartikulasi tatkala manusia berani mempertahankan kedudukannya sebagai subjek pencipta makna di hadapan arus kebisingan informasi yang terus berusaha mereduksi dirinya menjadi sekadar objek kalkulasi data.
+Penerapan eksistensialisme dalam realitas kontemporer mengajak kita mengubah disposisi kesadaran tanpa harus mengasingkan diri dari teknologi. Kebebasan sejati di era digital terartikulasi tatkala manusia berani mempertahankan kedudukannya sebagai subjek pencipta makna di hadapan arus kebisingan informasi yang terus berusaha mereduksi dirinya menjadi sekadar objek kalkulasi data.

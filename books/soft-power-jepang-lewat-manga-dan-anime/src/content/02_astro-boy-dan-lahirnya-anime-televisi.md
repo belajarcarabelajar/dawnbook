@@ -16,7 +16,7 @@ Penonton membalas kerja itu. Pada puncaknya, rating serial ini mencapai 40,7 per
 
 Serial setengah jam setiap pekan butuh biaya, dan di titik ini sebatang cokelat masuk ke dalam cerita. Halaman penerbit buku Marc Steinberg mencatat bahwa produsen cokelat Meiji Seika mensponsori *Astro Boy* dan memasarkan produknya bersama sang tokoh, misalnya lewat stiker yang dibagikan bersama cokelat. Anak-anak tidak lagi hanya menonton Atom. Mereka mengumpulkannya. Tokoh yang tadinya hanya hidup setengah jam sepekan kini ikut pulang ke rumah bersama sebatang cokelat.
 
-Steinberg, peneliti media yang menulis *Anime's Media Mix* (2012), menganggap momen ini penting. *Media mix*, istilah Jepang untuk apa yang di Barat disebut konvergensi media, ia anggap mulai menyala pada 1 Januari 1963 bersama *Astro Boy*. Dalam bacaannya, pemasaran cokelat itu mengubah Atom menjadi waralaba tokoh: sosok yang hidup di layar, di kemasan, dan di saku anak-anak sekaligus.
+Steinberg, peneliti media yang menulis *Anime's Media Mix* (2012), menganggap momen ini penting. *Media mix*, istilah Jepang untuk apa yang di Barat disebut konvergensi media, ia anggap mulai menyala pada 1 Januari 1963 bersama *Astro Boy*. Dalam bacaannya, pemasaran cokelat itu mengubah Atom menjadi waralaba tokoh, sosok yang hidup di layar, di kemasan, dan di saku anak-anak sekaligus.
 
 Steinberg juga menarik garis dari Atom ke waralaba yang datang belakangan, seperti Pokémon, Doraemon, dan Hello Kitty. Pelajarannya sederhana. Tokoh bisa menjadi aset yang bernilai lebih tinggi daripada tayangannya sendiri, karena ia bisa dijual berkali-kali dalam bentuk yang berbeda.
 
@@ -26,7 +26,7 @@ Ekspor tidak menunggu lama. Pada 1963, tahun yang sama dengan penayangan perdana
 
 Fred Ladd, yang menangani versi bahasa Inggrisnya, dalam dua tahun berikutnya menyiapkan 104 episode berbahasa Inggris. Namun Atom tidak tampil di jaringan nasional NBC. Serial itu dipasarkan NBC Enterprises secara sindikasi ke stasiun TV AS mulai September 1963. Artinya, stasiun lokal membeli hak tayang satu per satu, dan Atom muncul di sekitar 50 stasiun di banyak kota tanpa harus bergantung pada satu jaringan nasional.
 
-Amerika pun bukan satu-satunya tujuan: serial ini juga tayang di Tiongkok dan Eropa. Sejak awal, anime televisi dibuat untuk penonton Jepang tetapi dijual juga ke luar negeri.
+Di luar Amerika, serial ini juga tayang di Tiongkok dan Eropa. Sejak awal, anime televisi dibuat untuk penonton Jepang tetapi dijual juga ke luar negeri.
 
 ### Robot Ramah dalam Pidato Diplomasi
 

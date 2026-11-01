@@ -23,7 +23,7 @@ Keterangan parameter:
 
 ### 2. Klasifikasi Gaya Hambat
 
-Gaya hambat total yang dialami wahana terbang merupakan akumulasi dari beberapa mekanisme fisis yang berbeda. Berdasarkan sumber kemunculannya, gaya hambat diklasifikasikan menjadi dua kategori utama: **Gaya Hambat Parasit** (*Parasite Drag*) dan **Gaya Hambat Induksi** (*Induced Drag*).
+Gaya hambat total yang dialami wahana terbang merupakan akumulasi dari beberapa mekanisme fisis yang berbeda. Berdasarkan sumber kemunculannya, gaya hambat diklasifikasikan menjadi dua kategori utama, yaitu **Gaya Hambat Parasit** (*Parasite Drag*) dan **Gaya Hambat Induksi** (*Induced Drag*).
 
 #### A. Parasite Drag (Hambat Parasit)
 

@@ -1,12 +1,12 @@
 ## Gaya Kelekatan Aman (Secure Attachment)
 
-Kalau perkembangan psikologis diibaratkan bangunan, gaya kelekatan aman (secure attachment) adalah fondasinya, dasar bagi kesehatan emosional manusia. Individu dengan gaya ini tidak sekadar bertahan hidup dalam hubungan; mereka bertumbuh subur (thrive).
+Kalau perkembangan psikologis diibaratkan bangunan, gaya kelekatan aman (secure attachment) adalah fondasinya, dasar bagi kesehatan emosional manusia. Dalam hubungan, individu dengan gaya ini bertumbuh subur (thrive).
 
 Di bab ini, kita akan membedah mengapa sebagian orang bisa merasa tenang saat sendirian, tetapi tetap hangat ketika bersama orang lain, serta pola asuh yang membentuk ketenangan tersebut.
 
 ## 1. Apa Itu Gaya Kelekatan Aman?
 
-Gaya kelekatan aman adalah pola hubungan ketika seseorang merasa nyaman dengan keintiman emosional sekaligus mandiri secara personal. Mereka tidak memiliki ketakutan berlebih akan ditinggalkan, tetapi juga tidak merasa sesak ketika harus dekat dengan orang lain.
+Gaya kelekatan aman adalah pola hubungan ketika seseorang merasa nyaman dengan keintiman emosional sekaligus mandiri secara personal. Mereka tidak memiliki ketakutan berlebih akan ditinggalkan, dan tidak pula merasa sesak ketika harus dekat dengan orang lain.
 
 **Intinya:** Individu dengan kelekatan aman memiliki pandangan positif terhadap diri sendiri ("Saya layak dicintai") dan pandangan positif terhadap orang lain ("Orang lain secara umum dapat diandalkan dan baik").
 
@@ -19,7 +19,7 @@ Bayangkan sebuah kapal. Seorang individu dengan kelekatan aman adalah kapal yang
 
 ## 2. Pola Asuh Responsif
 
-Kelekatan aman tidak terjadi secara kebetulan. Ini adalah hasil dari ribuan interaksi kecil antara bayi dan pengasuh utamanya (biasanya orang tua). Kata kuncinya adalah responsivitas yang konsisten.
+Kelekatan aman tumbuh dari ribuan interaksi kecil antara bayi dan pengasuh utamanya (biasanya orang tua). Kata kuncinya adalah responsivitas yang konsisten.
 
 ### Bagaimana Ia Terbentuk?
 
@@ -29,7 +29,7 @@ Ketika seorang bayi menangis karena lapar, takut, atau sekadar ingin dipeluk, or
 2. **Menafsirkan (Interpret):** Memahami apakah tangisan itu berarti lapar, popok basah, atau rasa bosan.
 3. **Merespons (Respond):** Memberikan bantuan dengan tepat waktu dan penuh kasih sayang.
 
-**Penting:** Menjadi orang tua yang membangun kelekatan aman bukan berarti harus "sempurna" setiap saat. Penelitian menunjukkan bahwa pengasuh hanya perlu selaras (attuned) sekitar 30-40% dari seluruh waktu interaksi, asalkan mereka mampu melakukan reparasi (perbaikan hubungan) saat terjadi miskomunikasi.
+**Penting:** Orang tua yang membangun kelekatan aman tidak harus "sempurna" setiap saat. Penelitian menunjukkan bahwa pengasuh hanya perlu selaras (attuned) sekitar 30-40% dari seluruh waktu interaksi, asalkan mereka mampu melakukan reparasi (perbaikan hubungan) saat terjadi miskomunikasi.
 
 Mungkin kamu ingat momen di masa kecil ketika kamu merasa didengar dan dimengerti oleh orang tua saat sedang sedih. Momen hangat seperti itulah yang menyusun fondasi kelekatan aman.
 
@@ -56,7 +56,7 @@ Orang dewasa dengan *Secure Attachment* biasanya menunjukkan ciri:
 
 ## 4. Kelekatan Aman dalam Angka (Logika Sederhana)
 
-Dalam sudut pandang psikologis, kita bisa menggambarkan keamanan emosional sebagai keseimbangan antara dua hal: Kedekatan ($K$) dan Kemandirian ($M$).
+Dalam sudut pandang psikologis, kita bisa menggambarkan keamanan emosional sebagai keseimbangan antara Kedekatan ($K$) dan Kemandirian ($M$).
 
 $$
 \\text{Keamanan Emosional} = K \\approx M
@@ -78,14 +78,14 @@ Mari kita lihat bagaimana gaya kelekatan aman bekerja dalam situasi konflik nyat
 
 **Situasi:** Mendapat kritik tajam dari atasan saat presentasi.
 
-* **Respons Individu Aman:** Mereka memisahkan performa kerja dari harga diri. Mereka berpikir, *"Kritik ini tentang presentasi saya, bukan tentang nilai saya sebagai manusia."* Mereka mampu menerima masukan tanpa bersikap defensif dan meminta bimbingan lebih lanjut jika diperlukan.
+* **Respons Individu Aman:** Mereka memisahkan performa kerja dari harga diri. Mereka berpikir, *"Kritik ini menyangkut presentasi saya, dan nilai saya sebagai manusia tidak ikut dipertaruhkan."* Mereka mampu menerima masukan tanpa bersikap defensif dan meminta bimbingan lebih lanjut jika diperlukan.
 
 ## 6. Tabel Karakteristik Gaya Aman
 
 | **Aspek** | **Manifestasi Gaya Aman** |
 | --- | --- |
 | **Harga Diri** | Tinggi dan stabil; tidak bergantung pada validasi eksternal. |
-| **Resolusi Konflik** | Fokus pada solusi, bukan memenangkan argumen. |
+| **Resolusi Konflik** | Fokus pada solusi, tanpa berambisi memenangkan argumen. |
 | **Keintiman** | Menikmati kedekatan fisik dan emosional. |
 | **Kemandirian** | Nyaman melakukan aktivitas sendiri tanpa rasa cemas. |
 | **Pandangan Hidup** | Optimis namun realistis tentang hubungan manusia. |

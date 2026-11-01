@@ -38,9 +38,9 @@ Jika nutrisi adalah tentang "bahan bakar", maka tidur adalah tentang "pemelihara
 
 ### Masalah Reseptor $D_2$
 
-Saat kamu kurang tidur, masalah utamanya bukan hanya jumlah dopamin yang kamu miliki, melainkan **sensitivitas reseptornya**. Penelitian menunjukkan bahwa satu malam saja kurang tidur dapat menyebabkan penurunan drastis pada ketersediaan reseptor dopamin tipe $D_2$ di otak.
+Saat kamu kurang tidur, **sensitivitas reseptor** ikut menjadi masalah utama, di samping jumlah dopamin yang kamu miliki. Penelitian menunjukkan bahwa satu malam saja kurang tidur dapat menyebabkan penurunan drastis pada ketersediaan reseptor dopamin tipe $D_2$ di otak.
 
-> **Analogi:** Bayangkan dopamin adalah sinyal Wi-Fi dan reseptor adalah antena di ponsel kamu. Kurang tidur tidak selalu mematikan router Wi-Fi, tetapi mematahkan antena ponsel kamu. Sinyalnya ada, tetapi otak kamu tidak bisa menangkapnya.
+> **Analogi:** Bayangkan dopamin adalah sinyal Wi-Fi dan reseptor adalah antena di ponsel kamu. Kurang tidur ibarat mematahkan antena ponsel kamu, walau router Wi-Fi-nya belum tentu mati. Sinyalnya ada, hanya saja otak kamu tidak bisa menangkapnya.
 
 ### Tiga Dampak Kurang Tidur
 
@@ -48,11 +48,11 @@ Saat kamu kurang tidur, masalah utamanya bukan hanya jumlah dopamin yang kamu mi
 2. **Pencarian Dopamin Murah:** Karena reseptor kamu kurang sensitif, otak kamu akan menuntut rangsangan yang lebih kuat (seperti gula, media sosial, atau kafein berlebih) hanya untuk merasa "normal".
 3. **Gangguan Homeostasis:** Kurangnya tidur merusak keseimbangan antara sistem *reward* dan sistem kendali impuls di *prefrontal cortex*.
 
-*Coba renungkan: Pernahkah kamu merasa jauh lebih sulit menolak godaan makanan tidak sehat saat kamu sedang mengantuk berat? Salah satu penyebabnya adalah disregulasi dopamin akibat kurang tidur.*
+*Pernahkah kamu merasa jauh lebih sulit menolak godaan makanan tidak sehat saat kamu sedang mengantuk berat? Salah satu penyebabnya adalah disregulasi dopamin akibat kurang tidur.*
 
 ## 3. Paparan Cahaya
 
-Neurosains modern menunjukkan bahwa cahaya matahari berpengaruh kuat terhadap kimia otak kita. Cahaya bukan hanya untuk melihat, melainkan sinyal biologis yang mengatur ritme sirkadian.
+Neurosains modern menunjukkan bahwa cahaya matahari berpengaruh kuat terhadap kimia otak kita. Selain membuat kita bisa melihat, cahaya juga menjadi sinyal biologis yang mengatur ritme sirkadian.
 
 ### Cahaya Matahari Pagi (View Sunlight Early)
 
@@ -90,6 +90,6 @@ Bagaimana kita menerapkan sains ini dalam kehidupan sehari-hari? Berikut adalah 
 | **Kondisi Biologis** | Tanpa cahaya pagi, jam sirkadian tidak terpicu, lonjakan gula memicu *crash*. | Jam sirkadian terpicu, asam amino tersedia untuk sintesis. |
 | **Hasil Sepanjang Hari** | Lonjakan dopamin singkat diikuti *crash* jam 10.00 pagi, lemas & terdistraksi. | Energi & fokus stabil hingga sore hari tanpa bergantung stimulan instan. |
 
-> **Insight Utama:** Motivasi bukanlah sesuatu yang kamu "temukan" di dalam pikiran, melainkan sesuatu yang kamu "bangun" melalui interaksi tubuh kamu dengan lingkungan fisik. Perbaiki biologinya, maka psikologinya akan mengikuti.
+> **Insight Utama:** Motivasi kamu "bangun" melalui interaksi tubuh kamu dengan lingkungan fisik. Ia tidak tersimpan di dalam pikiran untuk sekadar "ditemukan". Perbaiki biologinya, maka psikologinya akan mengikuti.
 
 *Setelah memahami bagaimana faktor eksternal ini memengaruhi mesin dopamin kamu, bagian selanjutnya akan membahas tentang **Neuroplastisitas**, yaitu bagaimana kita bisa melatih ulang sirkuit otak yang mungkin sudah telanjur rusak akibat kebiasaan lama.*

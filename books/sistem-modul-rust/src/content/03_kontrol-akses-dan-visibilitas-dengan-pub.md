@@ -1,6 +1,6 @@
 ## Kontrol Akses dan Visibilitas dengan pub
 
-Dalam pemrograman, tidak semua hal harus diketahui oleh semua orang. Bayangkan sebuah restoran: kamu sebagai pelanggan diizinkan untuk melihat menu dan memesan makanan di kasir, tetapi kamu tidak diizinkan masuk ke dapur untuk melihat bumbu rahasia atau bagaimana koki mengelola inventaris bahan makanan.
+Dalam pemrograman, tidak semua hal harus diketahui oleh semua orang. Bayangkan kamu makan di sebuah restoran. Sebagai pelanggan, kamu diizinkan melihat menu dan memesan makanan di kasir, tetapi kamu tidak diizinkan masuk ke dapur untuk melihat bumbu rahasia atau bagaimana koki mengelola inventaris bahan makanan.
 
 Di Rust, prinsip ini diterapkan secara ketat melalui sistem **Privacy by Default** (Privasi secara Default). Secara standar, semua elemen di Rust (baik itu fungsi, struct, enum, maupun modul) berstatus **privat**.
 
@@ -95,7 +95,7 @@ fn main() {
 }
 ```
 
-*Alasan di balik keputusan desain ini cukup praktis: enum sering dipakai untuk pencocokan pola (*pattern matching*). Jika variannya disembunyikan, pengguna luar tidak akan bisa melakukan pencocokan dengan efektif.*
+*Keputusan desain ini punya alasan praktis. Enum sering dipakai untuk pencocokan pola (*pattern matching*). Jika variannya disembunyikan, pengguna luar tidak akan bisa melakukan pencocokan dengan efektif.*
 
 ### Kontrol Visibilitas yang Lebih Spesifik
 

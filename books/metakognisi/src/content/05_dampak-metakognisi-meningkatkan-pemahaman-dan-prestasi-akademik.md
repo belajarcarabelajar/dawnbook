@@ -4,17 +4,17 @@ Metakognisi, atau "berpikir tentang berpikir", merupakan kemampuan yang berpenga
 
 ## 1\. Peningkatan Pemahaman Materi
 
-Kesadaran metakognitif bikin kita terbiasa memantau pemahaman saat lagi belajar. Artinya, kamu tidak sekadar baca atau dengar informasi begitu saja. Sesekali kamu bakal bertanya pada diri sendiri apakah materi tersebut benar-benar sudah dipahami.
+Kesadaran metakognitif bikin kita terbiasa memantau pemahaman saat lagi belajar. Artinya, sambil membaca atau mendengar informasi, sesekali kamu bakal bertanya pada diri sendiri apakah materi tersebut benar-benar sudah dipahami.
 
 - **Pemantauan Diri (Self-Monitoring):** Saat baca buku atau dengar penjelasan, orang dengan metakognisi terlatih bakal refleks mengecek apakah mereka paham atau cuma pura-pura paham. Kalau ada yang buram, mereka akan berhenti sebentar buat mengulang atau cari sumber lain.
 - **Identifikasi Celah Pengetahuan:** Metakognisi ngebantu kamu membedakan mana yang sudah dikuasai dan mana yang masih abu-abu. Jadinya, waktu belajarmu bisa difokuskan ke area yang emang butuh perhatian ekstra.
 - **Penerapan Strategi yang Pas:** Kalau kamu kenal cara belajarmu sendiri dan tahu persis tugasnya menuntut apa, otomatis kamu bisa pilih strategi yang paling mengena. Misalnya bikin peta konsep buat membayangkan alur sejarah, atau pakai *flashcard* untuk hafalan.
 
-> **Contoh:** Seorang mahasiswa kedokteran yang lagi belajar anatomi tidak cuma asal hafal nama tulang. Dia bakal mikir, "Hubungan tulang ini sama tulang di sebelahnya apa ya? Apa fungsi utamanya? Bisa nggak gue jelasin ulang tanpa ngintip buku?" Kalau ternyata mandek, dia mungkin beralih menggambar sketsa atau nyari video 3D biar lebih jelas.
+> **Contoh:** Sambil menghafal nama tulang, seorang mahasiswa kedokteran yang lagi belajar anatomi bakal mikir, "Hubungan tulang ini sama tulang di sebelahnya apa ya? Apa fungsi utamanya? Bisa nggak gue jelasin ulang tanpa ngintip buku?" Kalau ternyata mandek, dia mungkin beralih menggambar sketsa atau nyari video 3D biar lebih jelas.
 
 ## 2\. Retensi Informasi Jangka Panjang
 
-Manfaatnya tidak berhenti sampai di pemahaman materi saja. Metakognisi bantu perkuat retensi. Ingatan jadi lebih awet dalam jangka panjang. Kamu tidak perlu lagi buang waktu mengulang bacaan yang sama berkali-kali.
+Metakognisi juga bantu perkuat retensi. Ingatan jadi lebih awet dalam jangka panjang. Kamu tidak perlu lagi buang waktu mengulang bacaan yang sama berkali-kali.
 
 - **Menata Informasi:** Informasi yang baru masuk akan langsung dikaitkan ke pengetahuan lama di otak. Koneksi ini bikin memorinya nempel lebih kuat dan mudah dipanggil lagi saat ujian.
 - **Elaborasi dan Refleksi:** Duduk diam dan merenungkan materi yang baru dibaca, lalu menghubungkannya dengan pengalaman sehari-hari. Aktivitas simpel seperti mikirin pertanyaan, merangkum ulang pakai bahasa sendiri, atau debat sama teman bisa bikin informasi lebih bertahan di memori jangka panjang.
@@ -25,8 +25,8 @@ Manfaatnya tidak berhenti sampai di pemahaman materi saja. Metakognisi bantu per
 Untuk urusan memecahkan masalah, metakognisi sering jadi fondasinya. Orang yang terbiasa mengevaluasi pikirannya sendiri akan mendekati masalah dengan lebih terstruktur. Mereka tahu cara merencanakan strategi, mengukur sejauh mana kemajuannya, dan menilai hasil kerjanya sendiri.
 
 - **Persiapan Strategi:** Sebelum langsung terjun mencoba, biasanya ada jeda untuk merencanakan langkah. Ada pertanyaan seperti, "Akar masalahnya di mana sih? Pakai cara apa yang paling rasional? Gue punya referensi apa saja untuk nyelesaiin ini?"
-- **Pemantauan Proses:** Saat lagi asyik ngerjain, mereka tidak asal jalan. Tetap ada evaluasi berjalan, nanya ke diri sendiri: "Strateginya mulai membuahkan hasil nggak ya? Jangan-jangan ada hitungan yang kelewat?"
-- **Evaluasi Akhir:** Ketika solusinya sudah ketemu, mereka tidak langsung gembira dan berhenti. Solusi itu dicek ulang, dipikirkan alternatif yang lebih hemat waktu, dan dicari tahu pelajaran apa yang bisa dipetik.
+- **Pemantauan Proses:** Saat lagi asyik ngerjain, mereka terus mengevaluasi jalannya pekerjaan dengan nanya ke diri sendiri, "Strateginya mulai membuahkan hasil nggak ya? Jangan-jangan ada hitungan yang kelewat?"
+- **Evaluasi Akhir:** Ketika solusinya sudah ketemu, mereka mengecek ulang solusi itu, memikirkan alternatif yang lebih hemat waktu, dan mencari tahu pelajaran apa yang bisa dipetik.
 - **Berpikir Kritis:** Membiasakan diri memilah informasi dan mengambil keputusan dengan lebih berhati-hati, yang jadi komponen wajib saat memecahkan masalah yang sulit.
 
 > **Contoh kasus soal matematika:**  
@@ -50,4 +50,4 @@ Rasa cemas sering muncul gara-gara merasa persiapan kurang, minder dengan kemamp
 - **Ekspektasi yang Realistis:** Metakognisi bikin kamu jujur sama kapasitas sendiri. Ini mencegah timbulnya rasa kecewa berlebih gara-gara menaruh target awal terlalu tinggi.
 - **Membantu Regulasi Emosi:** Meski tidak menargetkan emosi secara langsung, punya rencana yang terstruktur itu bikin pikiran lebih tenang. Sebagai bonus, metakognisi juga bisa membantu menekan dorongan suka menunda-nunda pekerjaan yang sering jadi pemicu utama stres saat *deadline*.
 
-Penting untuk diingat kalau metakognisi tidak otomatis membuat materi susah jadi gampang. Kesulitan tetap akan ada. Bedanya, kamu dibekali alat bantu mental untuk mengelola rasa bingung dan menata ulang rencana secara mandiri. Intinya kita mau mengatur otak biar bekerja lebih efisien, tanpa memaksanya lembur terus-terusan.
+Penting untuk diingat kalau metakognisi tidak otomatis membuat materi susah jadi gampang. Ia membekalimu alat bantu mental untuk mengelola rasa bingung dan menata ulang rencana secara mandiri. Intinya kita mau mengatur otak biar bekerja lebih efisien, tanpa memaksanya lembur terus-terusan.

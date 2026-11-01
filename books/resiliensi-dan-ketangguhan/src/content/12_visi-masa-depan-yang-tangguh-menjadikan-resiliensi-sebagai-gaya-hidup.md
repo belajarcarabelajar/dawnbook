@@ -2,13 +2,13 @@
 
 Ini adalah bab terakhir dalam perjalananmu membangun resiliensi. Jika bagian-bagian sebelumnya telah membekalimu dengan "alat" dan "teknik" untuk menghadapi badai, bagian ini akan membantumu membangun **peta navigasi jangka panjang**.
 
-Membangun visi masa depan yang tangguh bukan berarti menciptakan rencana kaku yang menuntut segala sesuatunya berjalan sempurna. Sebaliknya, ini adalah tentang merancang hidup yang memiliki struktur kuat namun cukup fleksibel untuk menyesuaikan diri dengan ketidakpastian.
+Membangun visi masa depan yang tangguh berarti merancang hidup yang memiliki struktur kuat namun cukup fleksibel untuk menyesuaikan diri dengan ketidakpastian. Rencana kaku yang menuntut segala sesuatunya berjalan sempurna tidak cocok untuk tujuan itu.
 
 ## 1\. Dari Reaktif Menuju Proaktif
 
 Banyak orang menganggap resiliensi seperti "ban serep" yang hanya digunakan saat keadaan darurat. Namun, untuk benar-benar tangguh, kita harus mengubah paradigma tersebut.
 
-> **Insight:** Resiliensi tidak hanya berarti kemampuan untuk "pulih" (bounce back), tetapi juga kemampuan untuk "melompat maju" (bounce forward) dan beradaptasi secara berkelanjutan.
+> **Insight:** Resiliensi mencakup kemampuan untuk "pulih" (bounce back), "melompat maju" (bounce forward), dan beradaptasi secara berkelanjutan.
 
 Dalam matematika pertumbuhan, kita bisa menggambarkan hubungan antara tantangan ($\text{T}$) dan kapasitas resiliensi ($\text{C}$) terhadap hasil pertumbuhan ($\text{G}$) sebagai berikut:
 
@@ -26,20 +26,20 @@ Pohon ek kuat dan keras, tetapi ia bisa tumbang dalam badai besar karena ia kaku
 
 ## 2\. Strategi Perencanaan Jangka Panjang di Tengah Ketidakpastian
 
-Bagaimana kita merencanakan masa depan ketika dunia terus berubah? Jawabannya bukan dengan prediksi yang presisi, melainkan dengan **Scenario Planning** (Perencanaan Skenario).
+Bagaimana kita merencanakan masa depan ketika dunia terus berubah? Jawabannya ada pada **Scenario Planning** (Perencanaan Skenario), yang tidak bergantung pada prediksi yang presisi.
 
 ### Identifikasi "True North" (Nilai Inti)
 
 Visi yang tangguh berakar pada nilai-nilai yang tidak berubah meskipun situasi berubah.
 
-- *Coba renungkan:* Jika pekerjaan atau status sosialmu hilang besok, nilai apa yang tetap mendefinisikan siapa dirimu? (Contoh: Integritas, Kreativitas, Pengabdian).
+- *Coba renungkan:* Jika pekerjaan atau status sosialmu hilang besok, nilai apa yang tetap mendefinisikan siapa dirimu? (misalnya integritas, kreativitas, atau pengabdian).
 
 ### Teknik "Pre-Mortem"
 
 Alih-alih hanya membayangkan kesuksesan, lakukan latihan mental ini:
 
 1. Bayangkan rencana jangka panjangmu gagal total dalam dua tahun ke depan.
-2. Tanyakan: "Apa yang mungkin menyebabkan kegagalan tersebut?"
+2. Tanyakan, "Apa yang mungkin menyebabkan kegagalan tersebut?"
 3. Bangun sistem mitigasi sekarang untuk risiko-risiko tersebut.
 
 ### Portofolio Keterampilan yang Adaptif
@@ -65,7 +65,7 @@ Resiliensi membutuhkan bahan bakar. Visi masa depanmu harus mencakup "Maintenanc
 
 Terkadang, terus-menerus menjadi kuat itu melelahkan. Gaya hidup tangguh mengakui adanya fase istirahat.
 
-- **Penting:** Resiliensi bukan berarti produktivitas tanpa henti. Mengetahui kapan harus berhenti sejenak adalah bentuk ketangguhan.
+- **Penting:** Mengetahui kapan harus berhenti sejenak adalah bentuk ketangguhan.
 
 ## 4\. Penerapan Visi Resiliensi
 
@@ -90,12 +90,12 @@ Bayangkan Budi, seorang manajer yang divisinya tiba-tiba ditutup karena otomatis
 
 ## 5\. Menanamkan Resiliensi dalam Lingkungan (Social Integration)
 
-Ketangguhan masa depanmu tidak hanya bergantung pada dirimu sendiri, tetapi juga pada lingkungan yang kamu bangun.
+Ketangguhan masa depanmu bergantung pada dirimu sendiri dan pada lingkungan yang kamu bangun.
 
 1. **Menjadi Mentor:** Mengajarkan resiliensi kepada orang lain akan memperkuat pemahamanmu sendiri.
 2. **Membangun Budaya Tangguh:** Di tempat kerja atau keluarga, dorong keterbukaan tentang kegagalan dan fokus pada solusi daripada menyalahkan.
 
-Saat tekanan datang, yang menopangmu biasanya bukan harapan, melainkan kebiasaan dan sistem yang sudah kamu bangun.
+Saat tekanan datang, yang biasanya menopangmu adalah kebiasaan dan sistem yang sudah kamu bangun.
 
 ## Hidup yang "Antifragile"
 
@@ -103,4 +103,4 @@ Sebagai penutup dari seluruh topik ini, tujuannya adalah menjadi **Antifragile**
 
 *Refleksi Akhir:* *Tutup mata sejenak dan bayangkan dirimu 5 tahun dari sekarang. Kamu telah melewati berbagai tantangan yang belum kamu ketahui saat ini. Lihatlah betapa tenangnya dirimu di masa depan itu, karena kamu tahu bahwa apa pun yang terjadi, kamu memiliki sistem, nilai, dan kekuatan batin untuk menghadapinya. Itulah visi masa depanmu yang tangguh.*
 
-**Selamat membangun masa depan yang tidak hanya bertahan, tetapi menjadi lebih kuat di tengah ketidakpastian.**
+**Selamat membangun masa depan yang makin kuat di tengah ketidakpastian.**

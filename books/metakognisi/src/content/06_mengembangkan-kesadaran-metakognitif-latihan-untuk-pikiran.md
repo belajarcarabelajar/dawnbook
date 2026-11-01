@@ -49,7 +49,7 @@ Refleksi pasca-tugas itu intinya mengevaluasi lagi apa yang baru saja kamu pelaj
 
 ### Langkah-langkah Melakukan Refleksi Pasca-Tugas
 
-1. **Deskripsikan Tugas dan Hasilnya:** Tuliskan singkat tugas yang baru saja selesai dan apa hasilnya (misal: nilai ujian, atau sekadar berhasil paham materi).
+1. **Deskripsikan Tugas dan Hasilnya:** Tuliskan singkat tugas yang baru saja selesai dan apa hasilnya (misalnya nilai ujian, atau sekadar berhasil paham materi).
 2. **Analisis Proses:**
 	- Cara apa yang kamu pakai buat menyelesaikan tugas ini?
 		- Mana yang berjalan lancar? Kenapa?
@@ -83,7 +83,7 @@ Mind map itu sifatnya visual dan ngebantu kalau kamu mau menata informasi yang b
 ### Cara Menggunakan Mind Map untuk Perencanaan
 
 1. **Tentukan Tujuan Utama:** Tulis target belajar atau masalah yang mau diselesaikan di bagian tengah mind map. Misalnya, "Paham Konsep X" atau "Beresin Proyek Y".
-2. **Cabang Utama (Aspek Metakognitif):** Bikin cabang-cabang yang isinya bagian penting dari rencanamu. Contoh:
+2. **Cabang Utama (Aspek Metakognitif):** Bikin cabang-cabang yang isinya bagian penting dari rencanamu, misalnya seperti berikut.
 	- **Tujuan Belajar:** Aku mau capai apa?
 		- **Pengetahuan Awal:** Aku udah tahu apa aja soal ini? (Pengetahuan deklaratif)
 		- **Strategi:** Nanti aku mau belajar atau ngerjainnya pakai cara apa? (Pengetahuan prosedural)
@@ -165,7 +165,7 @@ Ngobrol dan diskusi bareng teman itu ngasih pengaruh gede buat mendalami suatu m
 1. **Tujuan Jelas:** Sebelum mulai, sepakati dulu target diskusinya. Mau bahas konsep yang susah, ngevaluasi strategi belajar buat PR kelompok, atau cuma sekadar bagi-bagi pengalaman?
 2. **Lingkungan yang Aman:** Bikin suasana jadi senyaman mungkin supaya semua orang berani cerita soal kegagalan atau kebingungan tanpa takut di-judge.
 3. **Pertanyaan Pemicu Reflektif:** Siapkan pertanyaan yang mancing teman-teman buat introspeksi dan menganalisis proses belajarnya.
-4. **Fokus pada Proses, Bukan Cuma Hasil:** Ajak kelompok buat ngebahas *gimana* mereka bisa dapat jawaban atau pemahaman itu, bukan sekadar bahas *apa* kunci jawabannya.
+4. **Fokus pada Proses:** Ajak kelompok buat ngebahas *gimana* mereka bisa dapat jawaban atau pemahaman itu. Membahas kunci jawabannya saja belum cukup.
 
 ### Contoh Pertanyaan untuk Diskusi Kelompok Reflektif
 

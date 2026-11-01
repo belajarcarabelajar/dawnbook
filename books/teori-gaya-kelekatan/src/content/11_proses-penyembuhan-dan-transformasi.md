@@ -2,7 +2,7 @@
 
 Setelah mengenali luka dan pola kelekatan dari masa lalu, langkah berikutnya adalah belajar menyembuhkan luka tersebut dan mengubah arah hidupmu.
 
-Penyembuhan kelekatan tidak bertujuan mengubah masa lalu yang mustahil untuk diputar kembali. Fokus utamanya adalah mengubah bagaimana peristiwa masa lalu tersebut memengaruhi kehidupanmu saat ini. Melalui langkah ini, kamu diajak bertransisi dari *Insecure Attachment* (kelekatan tidak aman) menuju *Earned Security* (keamanan yang dibangun secara sadar).
+Masa lalu mustahil diputar kembali, jadi penyembuhan kelekatan berfokus mengubah cara peristiwa masa lalu tersebut memengaruhi kehidupanmu saat ini. Melalui langkah ini, kamu diajak bertransisi dari *Insecure Attachment* (kelekatan tidak aman) menuju *Earned Security* (keamanan yang dibangun secara sadar).
 
 ## 1. Menghadapi dan Memproses Luka Masa Lalu
 
@@ -16,9 +16,9 @@ Bayangkan dirimu seperti sebuah rumah tua yang memiliki fondasi yang retak karen
 
 *Reparenting* adalah sebuah metode untuk memberikan perhatian, kasih sayang, dan batasan sehat kepada dirimu yang sekarang (hal-hal yang mungkin tidak kamu dapatkan dari pengasuhmu saat kecil dahulu).
 
-Caranya bisa dimulai dengan:
+Kamu bisa memulainya dengan dua langkah berikut.
 
-- **Memvalidasi emosi sendiri**: Alih-alih mengabaikan rasa takut atau cemas, cobalah berbicara ramah pada diri sendiri, misalnya: *"Aku mengerti mengapa kamu merasa takut saat ini. Perasaanmu sangat wajar, dan aku akan selalu menemanimu."*
+- **Memvalidasi emosi sendiri**: Alih-alih mengabaikan rasa takut atau cemas, cobalah berbicara ramah pada diri sendiri, misalnya dengan berkata, *"Aku mengerti mengapa kamu merasa takut saat ini. Perasaanmu sangat wajar, dan aku akan selalu menemanimu."*
 - **Membangun konsistensi tindakan**: Mulailah dengan rutinitas perawatan diri yang sederhana tetapi konsisten, guna membuktikan kepada dirimu sendiri bahwa kamu adalah sosok yang bisa diandalkan.
 
 ## 2. Menantang Narasi Negatif (Cognitive Reframing)
@@ -45,7 +45,7 @@ Contoh penerapannya dalam kehidupan sehari-hari:
 
 ## 3. Membangun Batasan yang Sehat (Boundaries)
 
-Batasan dibuat bukan untuk menjauhkan orang lain, melainkan untuk menjaga agar kamu tetap utuh saat berinteraksi dengan mereka.
+Batasan menjaga dirimu tetap utuh saat berinteraksi dengan orang lain, tanpa harus menjauhkan mereka.
 
 ### Pagar dan Gerbang
 
@@ -54,7 +54,7 @@ Batasan yang sehat bekerja layaknya pagar dengan gerbang yang bisa dikunci. Kamu
 ### Prinsip Membangun Batasan
 
 1. **Kenali batas kemampuanmu**: Cari tahu hal-hal apa saja yang membuatmu merasa terkuras, lelah, atau tidak dihargai.
-2. **Gunakan komunikasi yang lugas**: Sampaikan keinginanmu dengan fokus pada perasaanmu sendiri. Sebagai contoh: *"Aku merasa kewalahan jika kita langsung membahas masalah berat begitu aku pulang kerja. Bisakah kita membicarakannya setelah makan malam?"*
+2. **Gunakan komunikasi yang lugas**: Sampaikan keinginanmu dengan fokus pada perasaanmu sendiri, misalnya *"Aku merasa kewalahan jika kita langsung membahas masalah berat begitu aku pulang kerja. Bisakah kita membicarakannya setelah makan malam?"*
 3. **Tegakkan konsekuensi**: Batasan yang tidak disertai dengan konsekuensi nyata hanyalah sebatas saran yang mudah diabaikan.
 
 Banyak orang merasa bersalah saat menolak permintaan orang lain atau berkata tidak. Rasa bersalah ini sebenarnya merupakan sisa-sisa dari pola kelekatan lama, ketika kamu merasa harus selalu mengalah dan mengabaikan kenyamanan pribadi demi mempertahankan keharmonisan hubungan.
@@ -73,7 +73,7 @@ Salah satu cara meredakannya adalah dengan metode *grounding* 5-4-3-2-1 untuk me
 - Hirup dan kenali **2** aroma berbeda di udara sekitar.
 - Rasakan **1** cita rasa yang tertinggal di lidahmu.
 
-Latihan sederhana ini mengirimkan sinyal penenang ke amigdala (bagian otak yang memproses rasa takut) bahwa kamu saat ini berada dalam kondisi aman, bukan sedang terancam seperti di masa lalu.
+Latihan sederhana ini mengirimkan sinyal penenang ke amigdala (bagian otak yang memproses rasa takut) bahwa kamu saat ini berada dalam kondisi aman. Ancaman yang dulu kamu rasakan tidak sedang terjadi.
 
 ## Ketika Budi Pergi Mendaki Sendirian
 
@@ -94,9 +94,9 @@ Santi akan menangis secara histeris, menuduh Budi sudah tidak menyayanginya lagi
 
 ## Langkah Menuju Kemandirian Emosional
 
-Penyembuhan adalah proses yang dinamis dan berliku, bukan sebuah garis lurus. Adakalanya kamu mungkin tidak sengaja terjatuh kembali ke pola reaksi yang lama. Hal itu wajar. Fokus utama kita bukanlah mencapai kesempurnaan, melainkan membangun kesadaran (*awareness*) yang terus bertumbuh.
+Penyembuhan adalah proses yang dinamis dan berliku. Adakalanya kamu mungkin tidak sengaja terjatuh kembali ke pola reaksi yang lama. Hal itu wajar. Fokus utama kita adalah membangun kesadaran (*awareness*) yang terus bertumbuh, dan kesempurnaan tidak termasuk di dalamnya.
 
-Perlu diingat bahwa pulih bukan berarti kamu tidak akan pernah lagi merasakan kecemasan atau keinginan untuk menarik diri. Pulih berarti kamu kini memiliki pemahaman dan alat bantu untuk mengelola emosi tersebut, sehingga tidak sampai merusak hubungan yang tengah kamu bangun.
+Perlu diingat bahwa orang yang sudah pulih masih bisa merasakan kecemasan atau keinginan untuk menarik diri. Bedanya, kini kamu memiliki pemahaman dan alat bantu untuk mengelola emosi tersebut, sehingga tidak sampai merusak hubungan yang tengah kamu bangun.
 
 ### Membuat Kontrak Keamanan Mandiri
 

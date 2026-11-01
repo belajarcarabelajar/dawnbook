@@ -1,6 +1,6 @@
 ## Manfaat dan Keunggulan Pembelajaran Multidisiplin
 
-Pembelajaran multidisiplin merupakan pendekatan yang mengintegrasikan berbagai disiplin ilmu untuk memahami sekaligus memecahkan masalah kompleks. Pendekatan ini tidak sekadar mengajarkan subjek secara terpisah. Di sini, fokus utamanya adalah menemukan benang merah yang menghubungkan berbagai bidang tersebut. Di era modern yang saling terhubung, banyak tantangan nyata tidak dapat diselesaikan hanya dengan mengandalkan satu disiplin ilmu saja. Oleh karena itu, cara belajar ini membawa banyak keuntungan nyata bagi kita guna menghadapi tantangan global yang terus berkembang.
+Pembelajaran multidisiplin merupakan pendekatan yang mengintegrasikan berbagai disiplin ilmu untuk memahami sekaligus memecahkan masalah kompleks. Fokus utamanya adalah menemukan benang merah yang menghubungkan berbagai bidang tersebut. Di era modern yang saling terhubung, banyak tantangan nyata tidak dapat diselesaikan hanya dengan mengandalkan satu disiplin ilmu saja. Oleh karena itu, cara belajar ini membawa banyak keuntungan nyata bagi kita guna menghadapi tantangan global yang terus berkembang.
 
 ### 1. Peningkatan Kreativitas
 

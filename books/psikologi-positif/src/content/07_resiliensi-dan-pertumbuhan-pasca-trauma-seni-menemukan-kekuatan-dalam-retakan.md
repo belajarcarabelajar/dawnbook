@@ -2,7 +2,7 @@
 
 Kehidupan tidak selalu berjalan mulus. Kadang-kadang, datang masalah berat yang membuat diri terasa goyah. Psikologi Positif memandang krisis ini dari sudut pandang yang berbeda. Alih-alih hanya berfokus pada upaya bertahan hidup, kita didorong untuk memanfaatkan tekanan tersebut agar bisa bertransformasi menjadi pribadi yang lebih tangguh dan bijaksana.
 
-Bagian ini membahas dua konsep penting: **Resiliensi** (kemampuan untuk bangkit kembali) dan **Post-Traumatic Growth** (kemampuan untuk tumbuh melampaui kondisi sebelum krisis).
+Bagian ini membahas dua konsep penting, yaitu **Resiliensi** (kemampuan untuk bangkit kembali) dan **Post-Traumatic Growth** (kemampuan untuk tumbuh melampaui kondisi sebelum krisis).
 
 ### 1. Memahami Resiliensi
 
@@ -12,7 +12,7 @@ Bagian ini membahas dua konsep penting: **Resiliensi** (kemampuan untuk bangkit 
 
 #### Mengapa Resiliensi Penting?
 
-Memiliki resiliensi bukan berarti kebal dari rasa sakit, kesedihan, atau kecemasan. Mereka yang resilien tetap merasakan emosi negatif tersebut. Perbedaannya terletak pada kemampuan mereka mengelola rasa sakit itu, sehingga tidak sampai melumpuhkan fungsi hidup sehari-hari.
+Mereka yang resilien tetap merasakan rasa sakit, kesedihan, atau kecemasan. Perbedaannya terletak pada kemampuan mereka mengelola rasa sakit itu, sehingga tidak sampai melumpuhkan fungsi hidup sehari-hari.
 
 Beberapa faktor kunci yang membentuk resiliensi seseorang antara lain:
 - **Hubungan sosial yang suportif**: Dukungan dan empati dari orang-orang terdekat menjadi sandaran utama saat masa sulit datang.
@@ -24,7 +24,7 @@ Beberapa faktor kunci yang membentuk resiliensi seseorang antara lain:
 
 Jika resiliensi berfokus pada pemulihan kembali ke kondisi awal, maka **Post-Traumatic Growth (PTG)** melangkah lebih jauh. Konsep ini menggambarkan perubahan psikologis positif yang dialami seseorang setelah berjuang melewati krisis hidup yang berat.
 
-> **Seni Kintsugi**: Tradisi Jepang ini memperbaiki keramik pecah dengan menyambungnya menggunakan pernis emas. Hasil secara visual membuat keramik tidak hanya utuh kembali, melainkan tampak lebih indah dan bernilai justru karena garis-garis retakan emas yang berkilau. Begitu pula dengan luka batin manusia yang bertransformasi.
+> **Seni Kintsugi**: Tradisi Jepang ini memperbaiki keramik pecah dengan menyambungnya menggunakan pernis emas. Keramik itu utuh kembali dan tampak lebih indah serta bernilai berkat garis-garis retakan emas yang berkilau. Begitu pula dengan luka batin manusia yang bertransformasi.
 
 #### Lima Domain Pertumbuhan (Tedeschi & Calhoun)
 
@@ -37,7 +37,7 @@ Penelitian oleh Tedeschi dan Calhoun menunjukkan ada lima area utama tempat sese
 
 ### 3. Proses Kognitif dari Trauma Menuju Pertumbuhan
 
-Trauma itu sendiri tidak otomatis membuat seseorang tumbuh. Pertumbuhan terjadi melalui **cara individu memproses dan memaknai trauma tersebut.**
+Pertumbuhan setelah trauma terjadi melalui **cara individu memproses dan memaknai trauma tersebut.** Tanpa proses itu, trauma tidak otomatis membuat seseorang tumbuh.
 
 Secara matematis, pertumbuhan psikologis dapat digambarkan secara sederhana sebagai interaksi antara tantangan dan refleksi:
 
@@ -45,7 +45,6 @@ $$
 \text{PTG} = \text{Tantangan Berat} \times \text{Pemrosesan Kognitif Deliberat}
 $$
 
-Penjelasannya:
 - **Tantangan Berat** mewakili peristiwa luar biasa yang merobohkan asumsi dasar kita tentang dunia.
 - **Pemrosesan Kognitif Deliberat** merupakan upaya sadar untuk memikirkan makna kejadian tersebut. Ini berbeda dengan *rumination* (perenungan berulang) yang buntu dan tanpa solusi.
 
@@ -67,7 +66,7 @@ Hindari kecenderungan menarik diri dari pergaulan. Sebagai makhluk sosial, berba
 
 ### 5. Studi Kasus Real-World
 
-Mari kita bandingkan dua cara merespons skenario yang sama: **kehilangan pekerjaan secara tiba-tiba**.
+Mari kita bandingkan dua cara merespons **kehilangan pekerjaan secara tiba-tiba**.
 - **Respons tanpa resiliensi**: Seseorang langsung merasa dunianya runtuh, menyalahkan diri sendiri sepenuhnya, serta menutup diri dari lingkungan sosial karena malu. Hal ini sering kali berujung pada depresi yang berlarut-larut.
 - **Respons yang resilien**: Seseorang tetap merasakan kesedihan dan kecemasan yang wajar. Namun, setelah emosinya mereda, ia mulai menghubungi relasi profesionalnya, mempelajari keahlian baru yang relevan, serta memanfaatkan momen ini untuk mengevaluasi arah kariernya.
 - **Wujud nyata PTG**: Setahun berselang, ia berhasil merintis usaha mandiri yang selaras dengan minat terbesarnya. Ia menyadari bahwa meski kehilangan pekerjaan awalnya sangat menyakitkan, peristiwa tersebut rupanya mendorongnya tumbuh menjadi pribadi mandiri.
@@ -81,6 +80,6 @@ Coba ingat kembali satu tantangan berat yang pernah kamu lewati dalam dua atau t
 
 **Pesan Penting:**
 
-> Menjadi resilien tidak berarti kamu dilarang terjatuh. Resiliensi adalah keberanian untuk bangkit berdiri, sekali lagi, setelah setiap kali kamu terjatuh. Pertumbuhan pascatrauma menunjukkan bahwa kita mampu menata kembali hidup setelah krisis menjadi sesuatu yang lebih berharga.
+> Resiliensi adalah keberanian untuk bangkit berdiri, sekali lagi, setelah setiap kali kamu terjatuh. Pertumbuhan pascatrauma menunjukkan bahwa kita mampu menata kembali hidup setelah krisis menjadi sesuatu yang lebih berharga.
 
 *Jika semua kesulitan dalam hidupmu adalah guru, pelajaran paling berharga apa yang telah mereka ajarkan kepadamu sejauh ini?*

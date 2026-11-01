@@ -2,15 +2,15 @@
 
 Pernahkah kamu bertanya-tanya mengapa dua orang yang menghadapi kegagalan serupa bisa menunjukkan reaksi yang bertolak belakang? Yang satu mungkin merasa dunianya runtuh dan memutuskan untuk berhenti mencoba, sementara yang lain melihatnya sebagai hambatan kecil lalu segera bangkit kembali.
 
-Perbedaan ini tidak ditentukan oleh peristiwa itu sendiri, tetapi oleh cara mereka menafsirkan kejadian tersebut dalam pikiran masing-masing. Inilah esensi dari **Gaya Penjelasan (*Explanatory Style*)**, sebuah konsep kognitif dalam psikologi positif yang dipelopori oleh Martin Seligman.
+Perbedaan ini ditentukan oleh cara mereka menafsirkan kejadian tersebut dalam pikiran masing-masing. Inilah esensi dari **Gaya Penjelasan (*Explanatory Style*)**, sebuah konsep kognitif dalam psikologi positif yang dipelopori oleh Martin Seligman.
 
 ### Apa Itu Gaya Penjelasan?
 
 Gaya penjelasan merupakan pola kognitif saat kamu menginterpretasikan penyebab dari berbagai peristiwa dalam hidupmu. Pola ini menjadi kacamata yang kamu gunakan untuk memandang dunia.
 
-> **Insight:** Optimisme tidak berarti mengabaikan masalah atau menutup mata dengan berpikir positif tanpa dasar. Ini adalah pendekatan realistis dan terampil dalam memproses setiap kemunduran.
+> **Insight:** Optimisme adalah pendekatan realistis dan terampil dalam memproses setiap kemunduran, tanpa mengabaikan masalah atau berpikir positif tanpa dasar.
 
-Seligman menemukan bahwa gaya penjelasan kita terbentuk dari tiga dimensi utama yang dikenal sebagai **The 3 Ps**: **Permanence** (Permanensi), **Pervasiveness** (Pervasivitas), dan **Personalization** (Personalisasi).
+Seligman menemukan bahwa gaya penjelasan kita terbentuk dari tiga dimensi utama yang dikenal sebagai **The 3 Ps**, yaitu **Permanence** (Permanensi), **Pervasiveness** (Pervasivitas), dan **Personalization** (Personalisasi).
 
 ### Tiga Dimensi Gaya Penjelasan (3P)
 
@@ -46,7 +46,7 @@ Dimensi ini berkaitan dengan **sumber penyebab**.
 
 ### Mengapa Ini Penting? (Dampak Nyata)
 
-Gaya penjelasan tidak hanya berhenti di tataran teori, tetapi memiliki dampak nyata yang terukur pada kualitas hidup kita:
+Gaya penjelasan memiliki dampak nyata yang terukur pada kualitas hidup kita:
 
 1. **Kesehatan Fisik:** Berbagai penelitian menunjukkan bahwa orang dengan pola pikir optimis cenderung memiliki sistem imun yang lebih kuat dan risiko penyakit kardiovaskular yang lebih rendah.
 2. **Pencapaian:** Di bidang olahraga maupun penjualan (*sales*), individu yang optimis cenderung mengungguli rekan mereka yang pesimis, terutama setelah menghadapi kekalahan atau penolakan.
@@ -93,8 +93,8 @@ Seorang mahasiswa mendapat nilai D pada tugas pertamanya.
 
 ### Awan vs. Langit
 
-Bayangkan kemunduran atau peristiwa buruk sebagai awan mendung. Seseorang yang pesimis menganggap awan tersebut sebagai keseluruhan langit: gelap gulita, membentang tanpa batas, dan abadi. Sebaliknya, orang yang optimis menyadari bahwa diri mereka adalah langit itu sendiri, sedangkan awan hitam hanyalah fenomena cuaca yang melintas sementara. Awan itu mungkin pekat, tetapi memiliki batas ruang lingkup yang jelas dan pasti akan bergeser ditiup angin.
+Bayangkan kemunduran atau peristiwa buruk sebagai awan mendung. Seseorang yang pesimis menganggap awan tersebut sebagai keseluruhan langit yang gelap gulita, membentang tanpa batas, dan abadi. Sebaliknya, orang yang optimis menyadari bahwa diri mereka adalah langit itu sendiri, sedangkan awan hitam hanyalah fenomena cuaca yang melintas sementara. Awan itu mungkin pekat, tetapi memiliki batas ruang lingkup yang jelas dan pasti akan bergeser ditiup angin.
 
-> **Important:** Optimisme yang sehat tidak berarti kamu melepaskan rasa tanggung jawab. Ini adalah cara memberi dirimu ruang bernapas yang cukup agar dapat bertindak secara efektif, alih-alih lumpuh dalam keputusasaan.
+> **Important:** Optimisme yang sehat memberi dirimu ruang bernapas yang cukup agar dapat bertindak secara efektif dan tidak lumpuh dalam keputusasaan. Rasa tanggung jawabmu tetap utuh.
 
-*Coba praktikkan: Esok hari, ketika ada hal tidak menyenangkan terjadi, ambillah jeda sejenak. Sadari apakah kamu sedang menerapkan pola pikir "3P" yang cenderung pesimis, lalu gunakan tahap sanggahan (*disputation*) untuk menantang asumsi tersebut.*
+*Coba praktikkan esok hari. Ketika ada hal tidak menyenangkan terjadi, ambillah jeda sejenak. Sadari apakah kamu sedang menerapkan pola pikir "3P" yang cenderung pesimis, lalu gunakan tahap sanggahan (*disputation*) untuk menantang asumsi tersebut.*

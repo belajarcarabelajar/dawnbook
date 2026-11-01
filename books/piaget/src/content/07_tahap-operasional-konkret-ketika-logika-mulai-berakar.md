@@ -2,7 +2,7 @@
 
 Di tahap ini, dunia anak yang tadinya penuh "sihir" dan tebak-tebakan intuisi pelan-pelan berubah jadi lebih logis dan teratur. Kalau di fase praoperasional mereka yakin banget bulan ngikutin ke mana pun mereka pergi, sekarang di **Tahap Operasional Konkret**, mereka mulai sadar kalau ada hukum alam yang mengatur benda-benda fisik.
 
-Anak usia 7-11 tahun mengalami perubahan penting dalam cara berpikir mereka. Mereka nggak lagi gampang ketipu sama wujud luar benda. Mereka mulai pakai **operasi mental**, tindakan di dalam pikiran buat menyusun ulang informasi biar lebih masuk akal.
+Anak usia 7-11 tahun mengalami perubahan penting dalam cara berpikir mereka. Wujud luar benda nggak lagi gampang menipu mereka, karena mereka mulai pakai **operasi mental**, tindakan di dalam pikiran buat menyusun ulang informasi biar lebih masuk akal.
 
 ## 1. Dari Intuisi ke Logika Konkret
 
@@ -10,7 +10,7 @@ Kuncinya ada di kata **"Konkret"**. Iya, mereka memang udah bisa mikir logis, ta
 
 ### "Si Detektif Cilik"
 
-Coba bayangkan mereka ini kayak detektif pemula. Nggak cuma modal tebak-tebak buah manggis atau firasat doang, mereka udah mulai cari bukti, ngukur ini-itu, dan nyambungin petunjuk. Tapi ya itu tadi, detektif cilik ini cuma bisa bongkar kasus kalau barang buktinya beneran ada di depan mata. Suruh mereka mikirin kasus khayalan tanpa bukti fisik? Dijamin mentok.
+Coba bayangkan mereka ini kayak detektif pemula. Selain modal tebak-tebak buah manggis atau firasat, mereka udah mulai cari bukti, ngukur ini-itu, dan nyambungin petunjuk. Tapi ya itu tadi, detektif cilik ini cuma bisa bongkar kasus kalau barang buktinya beneran ada di depan mata. Suruh mereka mikirin kasus khayalan tanpa bukti fisik? Dijamin mentok.
 
 ## 2. Pencapaian Kognitif Utama
 
@@ -30,7 +30,7 @@ Pemahaman bahwa jumlah, massa, atau volume suatu benda itu tetap sama biarpun be
 
 Anak-anak sekarang udah bisa ngelompokin barang berdasarkan kesamaan cirinya dan paham tingkatan hierarki.
 
-- **Inklusi Kelas:** Kasih mereka 10 bunga mawar dan 5 melati, terus tanya "Mana yang lebih banyak, bunga mawar atau bunga?". Anak praoperasional biasanya jawab "mawar". Tapi anak operasional konkret udah ngerti logikanya: $\text{Mawar} + \text{Melati} = \text{Bunga}$. Jadi, kategori "Bunga" pasti lebih besar dari sekadar subkategori "Mawar".
+- **Inklusi Kelas:** Kasih mereka 10 bunga mawar dan 5 melati, terus tanya "Mana yang lebih banyak, bunga mawar atau bunga?". Anak praoperasional biasanya jawab "mawar". Tapi anak operasional konkret udah ngerti kalau $\text{Mawar} + \text{Melati} = \text{Bunga}$. Jadi, kategori "Bunga" pasti lebih besar dari sekadar subkategori "Mawar".
 
 ### C. Seriasi
 
@@ -48,7 +48,7 @@ Bisa mikir mundur. Mereka sadar kalau sebuah tindakan itu bisa dibatalkan atau d
 
 Salah satu lompatan terbesarnya adalah kemampuan **Desentrasi**.
 
-> **Insight:** Desentrasi itu kemampuan buat fokus ke beberapa aspek dari sebuah masalah sekaligus, nggak cuma terpaku sama satu hal yang paling menonjol doang.
+> **Insight:** Desentrasi itu kemampuan buat fokus ke beberapa aspek dari sebuah masalah sekaligus. Perhatian mereka mulai lepas dari satu hal yang paling menonjol.
 
 Kalau dulu si anak cuma fokus ke "tingginya air", sekarang mereka ngeh juga soal "lebarnya wadah". Efeknya juga merembet ke ranah sosial. Mereka perlahan sadar kalau orang lain itu punya sudut pandang, perasaan, dan pikiran yang beda. Sifat egosentrisnya mulai luntur.
 
@@ -69,11 +69,11 @@ Daripada buru-buru nulis rumus abstrak di papan tulis, lebih efektif pakai **ban
 
 - **1. Konkret:** Pakai balok mainan buat ngajarin pembagian. "Kita punya 12 balok nih, mau dibagi ke 3 kotak. Tiap kotak isinya berapa?"
 - **2. Visual:** Gambar lingkaran sama titik-titik di kertas sebagai pengganti balok.
-- **3. Abstrak:** Baru deh tulis persamaannya: $12 : 3 = 4$.
+- **3. Abstrak:** Baru deh tulis persamaannya, $12 : 3 = 4$.
 
 ### Belajar Coding (Pemrograman Visual)
 
-Kalau di dunia tekno, bahasa pemrograman visual kayak **Scratch** itu cocok banget. Anak nggak disuruh ngetik deretan teks kode yang ruwet. Mereka tinggal nyusun "blok-blok" logika yang kelihatan bentuknya dan bisa digeser-geser.
+Kalau di dunia tekno, bahasa pemrograman visual kayak **Scratch** itu cocok banget. Anak tinggal nyusun "blok-blok" logika yang kelihatan bentuknya dan bisa digeser-geser, tanpa perlu ngetik deretan teks kode yang ruwet.
 
 Misalnya, anak cukup nyusun tiga blok ini berurutan:
 

@@ -145,4 +145,4 @@ Keberadaan lesung pipit (*dimples*) sengaja memicu turbulensi pada lapisan batas
 | **Ketahanan terhadap Separasi** | Rendah (mudah terpisah) | Tinggi (sulit terpisah) |
 | **Pencampuran Fluida Antarlapisan** | Difusi molekuler lambat | Konveksi eddy intensif |
 
-Dalam perancangan aerodinamika, turbulensi bukanlah kondisi yang selalu merugikan. Pengelolaan transisi aliran secara terarah merupakan kunci untuk mencegah separasi dini dan mempertahankan stabilitas wahana terbang.
+Dalam perancangan aerodinamika, turbulensi tidak selalu merugikan. Pengelolaan transisi aliran secara terarah merupakan kunci untuk mencegah separasi dini dan mempertahankan stabilitas wahana terbang.

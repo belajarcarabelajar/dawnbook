@@ -1,6 +1,6 @@
 ## Desain Kurikulum dan Program Multidisiplin
 
-Desain kurikulum dan program multidisiplin adalah fondasi untuk menciptakan pengalaman belajar yang kohesif dan terintegrasi. Hal ini memungkinkan peserta didik menggabungkan perspektif dari berbagai disiplin ilmu guna memahami dan memecahkan masalah kompleks dunia nyata. Bagian ini akan menjadi panduan praktis untuk merancang kurikulum yang tidak hanya relevan tetapi juga mendorong pemikiran holistik.
+Desain kurikulum dan program multidisiplin adalah fondasi untuk menciptakan pengalaman belajar yang kohesif dan terintegrasi. Hal ini memungkinkan peserta didik menggabungkan perspektif dari berbagai disiplin ilmu guna memahami dan memecahkan masalah kompleks dunia nyata. Bagian ini akan menjadi panduan praktis untuk merancang kurikulum yang relevan dan mendorong pemikiran holistik.
 
 ### 1. Prinsip-Prinsip Perancangan Kurikulum Multidisiplin
 
@@ -12,7 +12,7 @@ Berikut adalah prinsip utama yang memandu proses ini:
   Kurikulum harus dirancang untuk mengatasi masalah dan tantangan kontemporer yang secara inheren bersifat lintas disiplin. Dengan demikian, pembelajaran memiliki dampak langsung dan aplikasi praktis di masyarakat.
 
 - **Integrasi Substantif**
-  Upaya ini menuntut lebih dari sekadar menumpuk mata kuliah dari berbagai disiplin. Hubungan dan sintesis yang bermakna antardisiplin ilmu harus dibangun secara terarah, sehingga pemahaman yang terbentuk jauh lebih kaya dibanding jika masing-masing bidang dipelajari secara terpisah.
+  Hubungan dan sintesis yang bermakna antardisiplin ilmu harus dibangun secara terarah, sehingga pemahaman yang terbentuk jauh lebih kaya dibanding jika masing-masing bidang dipelajari secara terpisah.
 
 Keseimbangan antara keluasan cakupan disiplin dan kedalaman pemahaman di setiap bidang juga harus dijaga. Kurikulum sebaiknya tidak terlalu dangkal, tetapi juga tidak boleh terlalu spesifik hanya pada satu area.
 
@@ -42,7 +42,7 @@ Langkah praktis yang dapat diambil meliputi:
 
 Selanjutnya, perancang kurikulum perlu menentukan **konten inti multidisiplin** berupa mata kuliah pengantar atau modul khusus yang secara eksplisit membahas integrasi. Terakhir, harus ada **keseimbangan antara teori dan aplikasi**, sehingga mahasiswa mendapatkan dasar teoretis yang kokoh sekaligus kesempatan untuk mempraktikkannya.
 
-Dalam proses ini, penting bagi perancang kurikulum untuk memastikan bahwa pemilihan konten tidak hanya berfokus pada materi yang harus dipelajari, tetapi juga memperjelas alasan mendasar mengapa integrasi tersebut penting bagi peserta didik.
+Dalam proses ini, penting bagi perancang kurikulum untuk memastikan bahwa pemilihan konten mencakup materi yang harus dipelajari beserta alasan mendasar mengapa integrasi tersebut penting bagi peserta didik.
 
 #### 2.3. Struktur Program Multidisiplin
 
@@ -77,7 +77,7 @@ Di samping itu, pengajar dapat memanfaatkan **Studi Kasus** untuk menganalisis b
 
 ##### 2.4.2. Metode Penilaian yang Mendukung Integrasi
 
-Penilaian harus selaras dengan tujuan pembelajaran yang berfokus pada integrasi. Jika tujuan utamanya adalah integrasi ilmu, instrumen penilaian harus dirancang untuk mengukur kemampuan tersebut, bukan mengukur pemahaman masing-masing disiplin secara terpisah.
+Penilaian harus selaras dengan tujuan pembelajaran yang berfokus pada integrasi. Jika tujuan utamanya adalah integrasi ilmu, instrumen penilaian harus dirancang untuk mengukur kemampuan tersebut. Mengukur pemahaman masing-masing disiplin secara terpisah tidak cukup untuk itu.
 
 Berikut beberapa bentuk evaluasi yang relevan:
 
@@ -99,7 +99,7 @@ flowchart LR
 
 ### Ringkasan Poin Kunci
 
-- Desain kurikulum multidisiplin mengutamakan **integrasi substantif**, bukan sekadar menumpuk berbagai disiplin ilmu secara terpisah.
+- Desain kurikulum multidisiplin mengutamakan **integrasi substantif** yang menghubungkan berbagai disiplin ilmu.
 - **Tujuan pembelajaran** perlu menegaskan kemampuan peserta didik dalam menyintesis dan menerapkan pengetahuan lintas disiplin.
 - **Pemilihan konten** sebaiknya bertumpu pada isu dunia nyata yang dipetakan untuk memperlihatkan hubungan antarbidang.
 - **Struktur program** dirancang sebagai wadah yang memudahkan interaksi dan penerapan pengetahuan lintas disiplin secara bertahap.

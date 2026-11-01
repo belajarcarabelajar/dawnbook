@@ -1,6 +1,6 @@
 ## Emosi Positif dan Teori Broaden-and-Build
 
-Selama puluhan tahun, kajian psikologi tradisional cenderung terfokus pada emosi negatif seperti ketakutan, kemarahan, dan kesedihan. Secara evolusioner, hal ini masuk akal: jika ada ancaman seperti harimau di depanmu, rasa takut akan langsung memfokuskan seluruh perhatianmu pada satu tujuan, yaitu **bertahan hidup**. Namun, pernahkah kamu bertanya-tanya mengapa kita memiliki emosi positif seperti rasa ingin tahu, sukacita, atau ketenangan? Apakah emosi tersebut sekadar dampak menyenangkan setelah kita berhasil meraih sesuatu?
+Selama puluhan tahun, kajian psikologi tradisional cenderung terfokus pada emosi negatif seperti ketakutan, kemarahan, dan kesedihan. Secara evolusioner, hal ini masuk akal. Jika ada ancaman seperti harimau di depanmu, rasa takut akan langsung memfokuskan seluruh perhatianmu pada satu tujuan, yaitu **bertahan hidup**. Namun, pernahkah kamu bertanya-tanya mengapa kita memiliki emosi positif seperti rasa ingin tahu, sukacita, atau ketenangan? Apakah emosi tersebut sekadar dampak menyenangkan setelah kita berhasil meraih sesuatu?
 
 Barbara Fredrickson, seorang peneliti psikologi positif, menjawabnya melalui **Teori Broaden-and-Build**.
 
@@ -15,7 +15,7 @@ Berikut perbandingan sederhana antara mekanisme emosi negatif dan positif:
 - **Emosi Negatif memicu penyempitan fokus.** Saat takut atau marah, respons *fight-or-flight* aktif secara otomatis agar kamu fokus penuh menghadapi ancaman (*Specific Action Tendencies*).
 - **Emosi Positif meluaskan perspektif.** Sebaliknya, emosi positif tidak membatasi tindakanmu pada opsi bertahan hidup yang kaku. Fredrickson menyebut fenomena ini sebagai *Broadened Thought-Action Repertoires* (keberagaman pola pikir dan tindakan).
 
-Dalam artikelnya tahun 2001, Fredrickson menyimpulkan bahwa emosi positif layak dipupuk, bukan hanya sebagai tujuan akhir, tetapi juga sebagai sarana untuk bertumbuh secara psikologis dan meningkatkan kesejahteraan dari waktu ke waktu.
+Dalam artikelnya tahun 2001, Fredrickson menyimpulkan bahwa emosi positif layak dipupuk sebagai tujuan akhir sekaligus sarana untuk bertumbuh secara psikologis dan meningkatkan kesejahteraan dari waktu ke waktu.
 
 ## 2. Meluaskan (Broaden)
 
@@ -72,7 +72,7 @@ flowchart LR
     C -->|"relasi yang makin kuat memicu emosi positif baru"| A
 ```
 
-Sebagai ilustrasi praktis: bayangkan saat kamu memulai hari dengan obrolan ringan yang menyenangkan di kantor. Secara tidak sadar, kamu menjadi lebih produktif sepanjang hari dan lebih sabar saat menghadapi kemacetan di jalan pulang. Kejadian sederhana tersebut merupakan contoh nyata bagaimana spiral ke atas sedang bekerja.
+Sebagai ilustrasi praktis, bayangkan saat kamu memulai hari dengan obrolan ringan yang menyenangkan di kantor. Secara tidak sadar, kamu menjadi lebih produktif sepanjang hari dan lebih sabar saat menghadapi kemacetan di jalan pulang. Kejadian sederhana tersebut merupakan contoh nyata bagaimana spiral ke atas sedang bekerja.
 
 ## 5. Emosi Positif Utama dan Fungsinya
 
@@ -88,7 +88,7 @@ Fredrickson mengidentifikasi beberapa emosi positif utama yang masing-masing mem
 
 ## 6. Penerapan Praktis (Real-World Application)
 
-Bagaimana cara menerapkan Teori Broaden-and-Build ini? Ingat bahwa tujuannya bukan untuk menghapus emosi negatif (sebab rasa takut atau cemas tetap dibutuhkan sebagai sistem peringatan bahaya), melainkan untuk menyeimbangkan porsinya dalam keseharian.
+Bagaimana cara menerapkan Teori Broaden-and-Build ini? Tujuannya adalah menyeimbangkan porsi emosi negatif dalam keseharian. Emosi itu tidak perlu dihapus, sebab rasa takut atau cemas tetap dibutuhkan sebagai sistem peringatan bahaya.
 
 ### Kebuntuan Tim Proyek
 
@@ -104,10 +104,10 @@ Kamu bisa melatih diri menciptakan momen-momen kecil emosi positif. Kamu tidak m
 - Berikan senyuman tulus kepada kasir minimarket saat membayar (membangun koneksi sosial).
 - Luangkan waktu lima menit untuk membaca artikel di luar bidang keahlianmu (merangsang minat).
 
-**Poin Penting:** Pernah diajukan ambang batas rasio antara emosi positif dan negatif (dikenal sebagai *Losada Ratio*), tetapi dasar matematisnya kemudian dibantah dan angkanya masih terus didiskusikan. Poin utamanya tetap sama menurut teori broaden-and-build dari Fredrickson: emosi positif memperluas cara kita berpikir dan bertindak, lalu dari situ membangun sumber daya untuk berkembang (*flourish*).
+**Poin Penting:** Pernah diajukan ambang batas rasio antara emosi positif dan negatif (dikenal sebagai *Losada Ratio*), tetapi dasar matematisnya kemudian dibantah dan angkanya masih terus didiskusikan. Menurut teori broaden-and-build dari Fredrickson, poin utamanya tetap sama. Emosi positif memperluas cara kita berpikir dan bertindak, lalu dari situ membangun sumber daya untuk berkembang (*flourish*).
 
 ## Ringkasan untuk Refleksi
 
-Emosi positif tidak hanya berfungsi sebagai hadiah setelah target tercapai. Emosi ini adalah **bahan bakar** utama yang memampukan kita mencapai target tersebut. Dengan meluangkan waktu secara sengaja untuk merasakan sukacita, minat, dan ketenangan, kita sedang berinvestasi pada 'tabungan' sumber daya pribadi demi menghadapi tantangan di masa mendatang.
+Emosi positif adalah **bahan bakar** utama yang memampukan kita mencapai target, selain menjadi hadiah setelah target itu tercapai. Dengan meluangkan waktu secara sengaja untuk merasakan sukacita, minat, dan ketenangan, kita sedang berinvestasi pada 'tabungan' sumber daya pribadi demi menghadapi tantangan di masa mendatang.
 
-*Pertanyaan untukmu: Sumber daya pribadi apa (baik fisik, intelektual, sosial, maupun psikologis) yang paling ingin kamu bangun minggu ini, serta emosi positif apa yang bisa membantumu meluaskannya?*
+*Sumber daya pribadi apa (baik fisik, intelektual, sosial, maupun psikologis) yang paling ingin kamu bangun minggu ini? Emosi positif apa yang bisa membantumu meluaskannya?*

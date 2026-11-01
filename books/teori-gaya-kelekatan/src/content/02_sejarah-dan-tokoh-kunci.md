@@ -1,6 +1,6 @@
 ## Sejarah dan Tokoh Kunci
 
-Mari kita menengok kembali akar pemahaman tentang hubungan manusia. Sebelum masuk ke pembahasan gaya kelekatan secara mendalam, kita perlu mengenal para perintis teori ini. Mereka berhasil membuktikan bahwa ikatan ibu dan anak bukan cuma urusan pemberian makan, melainkan landasan penting bagi kelangsungan hidup emosional si anak.
+Mari kita menengok kembali akar pemahaman tentang hubungan manusia. Sebelum masuk ke pembahasan gaya kelekatan secara mendalam, kita perlu mengenal para perintis teori ini. Mereka berhasil membuktikan bahwa ikatan ibu dan anak adalah landasan penting bagi kelangsungan hidup emosional si anak. Pemberian makan hanya sebagian dari ikatan itu.
 
 ## Pionir Teori Evolusi Kelekatan John Bowlby
 
@@ -24,7 +24,7 @@ Karya utamanya adalah prosedur eksperimental bernama **The Strange Situation (Si
 
 ### Eksperimen 'Strange Situation'
 
-Metode ini diterapkan pada bayi usia 12 hingga 18 bulan. Fokus utamanya bukan mengamati cara bayi bermain, melainkan reaksi mereka saat menghadapi **stres** (ketika ditinggal pengasuh) serta momen **reuni** (ketika pengasuh kembali).
+Metode ini diterapkan pada bayi usia 12 hingga 18 bulan. Yang diamati terutama adalah reaksi bayi saat menghadapi **stres** (ketika ditinggal pengasuh) serta momen **reuni** (ketika pengasuh kembali).
 
 **Tahapan Prosedur (8 Episode):**
 
@@ -60,7 +60,7 @@ sequenceDiagram
     I->>B: 8. Ibu kembali untuk kedua kalinya
 ```
 
-Indikator terpenting bukanlah seberapa keras anak menangis saat ditinggal pergi, melainkan bagaimana perilakunya saat **reuni (bertemu kembali dengan ibu)**. Momen inilah yang menjadi dasar Ainsworth dalam menentukan kategori kelekatan.
+Seberapa keras anak menangis saat ditinggal pergi ternyata kalah penting dibanding perilakunya saat **reuni (bertemu kembali dengan ibu)**. Momen inilah yang menjadi dasar Ainsworth dalam menentukan kategori kelekatan.
 
 ## Tiga Klasifikasi Awal Ainsworth
 
@@ -76,7 +76,7 @@ Melalui eksperimen ini, Ainsworth awalnya mengidentifikasi tiga pola perilaku ut
 
 ## Relevansi dalam Hubungan Dewasa
 
-Memahami sejarah riset Bowlby dan Ainsworth membantu kita menyadari bahwa pola reaksi kita terhadap pasangan atau teman dekat di masa dewasa bukanlah suatu kebetulan belaka.
+Memahami sejarah riset Bowlby dan Ainsworth membantu kita menyadari bahwa pola reaksi kita terhadap pasangan atau teman dekat di masa dewasa tidak muncul secara kebetulan.
 
 **Skenario di Dunia Nyata:** Bayangkan kamu sedang berada di sebuah pesta ramai dan tidak mengenal siapa pun kecuali pasanganmu.
 
@@ -86,7 +86,7 @@ Memahami sejarah riset Bowlby dan Ainsworth membantu kita menyadari bahwa pola r
 
 ### Keyakinan Pengasuhan yang Dibantah
 
-Sebelum penelitian ini dipublikasikan, dunia pengasuhan meyakini bahwa terlalu sering memeluk atau memanjakan anak akan membuat mereka tumbuh menjadi pribadi yang lemah. Bowlby dan Ainsworth membantah keyakinan tersebut dan membuktikan hal sebaliknya: **kelekatan yang erat dan aman di awal kehidupan justru menjadi fondasi kekuatan serta kemandirian individu di masa depan.**
+Sebelum penelitian ini dipublikasikan, dunia pengasuhan meyakini bahwa terlalu sering memeluk atau memanjakan anak akan membuat mereka tumbuh menjadi pribadi yang lemah. Bowlby dan Ainsworth membantah keyakinan tersebut. Mereka membuktikan bahwa **kelekatan yang erat dan aman di awal kehidupan justru menjadi fondasi kekuatan serta kemandirian individu di masa depan.**
 
 ## Pola Basis Aman dalam Keseharian
 

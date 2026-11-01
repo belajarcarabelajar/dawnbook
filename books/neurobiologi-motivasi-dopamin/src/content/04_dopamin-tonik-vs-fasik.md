@@ -2,7 +2,7 @@
 
 Pernahkah kamu terbangun di pagi hari merasa sangat bersemangat dan siap memulai hari tanpa alasan yang jelas? Atau sebaliknya, merasa lesu dan tidak bermotivasi meskipun tidak ada hal buruk yang terjadi? Kunci dari fluktuasi perasaan ini terletak pada bagaimana otak kamu mengelola "stok" dopaminnya.
 
-Dalam memahami neurobiologi motivasi, kita harus membedakan antara dua cara dopamin bekerja dalam sistem saraf kita: **Dopamin Tonik** (level dasar) dan **Dopamin Fasik** (lonjakan mendadak).
+Dalam memahami neurobiologi motivasi, kita harus membedakan dua cara dopamin bekerja dalam sistem saraf kita, yaitu **Dopamin Tonik** (level dasar) dan **Dopamin Fasik** (lonjakan mendadak).
 
 ---
 
@@ -60,7 +60,7 @@ Jika $B$ (Tonik) kamu sangat rendah, bahkan $S$ (fasik/stimulus) yang besar pun 
 - **Pemicu:** Hal-hal baru (*novelty*), makanan lezat, notifikasi media sosial, atau pencapaian target.
 - **Fungsi:** Mengalihkan perhatian kita pada sesuatu yang dianggap penting oleh otak dan memicu tindakan segera.
 
-*Renungkan hal ini: Pernahkah kamu merasa sangat malas, lalu tiba-tiba mendengar bunyi kurir di depan rumah membawa paket yang kamu tunggu-tunggu? Lonjakan energi mendadak itu adalah dopamin fasik.*
+*Pernahkah kamu merasa sangat malas, lalu tiba-tiba mendengar bunyi kurir di depan rumah membawa paket yang kamu tunggu-tunggu? Lonjakan energi mendadak itu adalah dopamin fasik.*
 
 ---
 
@@ -126,7 +126,7 @@ Scrolling TikTok atau Instagram memberikan rentetan dopamin fasik yang cepat. Ha
 
 ### Strategi Meningkatkan Baseline Tonik secara Sehat
 
-Bukan lonjakan fasik yang kita cari untuk kebahagiaan jangka panjang, melainkan **baseline tonik yang tinggi dan stabil**. Berikut caranya:
+Kebahagiaan jangka panjang bertumpu pada **baseline tonik yang tinggi dan stabil**, dan lonjakan fasik tidak memberikannya. Berikut cara membangun baseline itu:
 
 1. **Paparan Cahaya Matahari Pagi:** Memicu pelepasan dopamin secara alami yang membantu mengatur ritme sirkadian dan baseline siang hari.
 2. **Paparan Dingin (Cold Plunge):** Satu penelitian menunjukkan berendam satu jam di air dingin (sekitar 14°C) dapat meningkatkan kadar dopamin dalam darah hingga $250\text{\%}$.

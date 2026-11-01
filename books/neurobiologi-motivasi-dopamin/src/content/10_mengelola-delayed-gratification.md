@@ -1,8 +1,8 @@
 ## Mengelola Delayed Gratification (Kepuasan Tertunda)
 
-Bayangkan kamu duduk di sebuah ruangan kecil. Di depan kamu, ada sebuah piring berisi satu butir marshmallow yang manis dan empuk. Seorang peneliti masuk dan memberi tahu kamu: "Saya harus keluar sebentar. Jika marshmallow ini masih ada di piring saat saya kembali, saya akan memberimu satu lagi. Jadi, kamu akan punya dua."
+Bayangkan kamu duduk di sebuah ruangan kecil. Di depan kamu, ada sebuah piring berisi satu butir marshmallow yang manis dan empuk. Seorang peneliti masuk dan memberi tahu kamu, "Saya harus keluar sebentar. Jika marshmallow ini masih ada di piring saat saya kembali, saya akan memberimu satu lagi. Jadi, kamu akan punya dua."
 
-Inilah inti dari **Delayed Gratification**: kemampuan untuk menolak godaan kesenangan instan demi mendapatkan imbalan yang jauh lebih besar di masa depan. Di bagian ini, kita akan mempelajari bagaimana melatih "otot" otak kita untuk menahan impulsivitas.
+Inilah inti dari **Delayed Gratification**, yaitu kemampuan untuk menolak godaan kesenangan instan demi mendapatkan imbalan yang jauh lebih besar di masa depan. Di bagian ini, kita akan mempelajari bagaimana melatih "otot" otak kita untuk menahan impulsivitas.
 
 ## PFC vs. Sistem Limbik
 
@@ -11,7 +11,7 @@ Secara neurobiologis, kemampuan untuk menunda kepuasan adalah hasil dari tarik-u
 1. **Sistem Limbik (The Gas Pedal):** Ini adalah bagian otak evolusioner yang tua. Ia bersifat impulsif, emosional, dan hanya peduli pada "sekarang". Ia menginginkan gula, media sosial, dan kenyamanan saat ini juga.
 2. **Prefrontal Cortex / PFC (The Brake):** Terletak di bagian depan otak, inilah pusat kendali eksekutif kita. PFC bertanggung jawab atas perencanaan masa depan, logika, dan kontrol diri.
 
-> **Wawasan Penting:** Kegagalan dalam menunda kepuasan bukanlah tanda kelemahan karakter, melainkan tanda bahwa Sistem Limbik kamu sedang membajak Prefrontal Cortex kamu.
+> **Wawasan Penting:** Kegagalan dalam menunda kepuasan menandakan bahwa Sistem Limbik kamu sedang membajak Prefrontal Cortex kamu. Kegagalan itu tidak membuktikan karaktermu lemah.
 
 ### Penunggang dan Gajah
 
@@ -42,7 +42,7 @@ Sama seperti otot, PFC bisa diperkuat melalui latihan yang konsisten. Berikut ad
 
 ### 1. Aturan 10 Menit (Micro-Delays)
 
-Jika kamu merasakan dorongan kuat untuk melakukan sesuatu yang impulsif (membeli barang tidak perlu, makan camilan tidak sehat, mengecek ponsel), katakan pada diri sendiri: *"Boleh, tapi tunggu 10 menit."*
+Jika kamu merasakan dorongan kuat untuk melakukan sesuatu yang impulsif (membeli barang tidak perlu, makan camilan tidak sehat, mengecek ponsel), bilang pada dirimu sendiri, *"Boleh, tapi tunggu 10 menit."*
 
 - **Mengapa ini berhasil?** Jeda ini memaksa PFC untuk "bangun" dan mengevaluasi situasi sebelum Sistem Limbik mengambil alih sepenuhnya. Sering kali, setelah 10 menit, intensitas keinginan tersebut akan menurun drastis.
 
@@ -61,7 +61,7 @@ Penelitian menunjukkan bahwa orang yang merasa "terkoneksi" dengan diri mereka d
 
 ### 4. "Saya Tidak" vs. "Saya Tidak Bisa"
 
-Gunakan bahasa yang menunjukkan kendali, bukan keterbatasan.
+Gunakan bahasa yang menunjukkan kendali, dan hindari kalimat yang terdengar seperti keterbatasan.
 
 - Katakan: *"Saya tidak makan gorengan"* (Identitas).
 - Jangan katakan: *"Saya tidak bisa makan gorengan"* (Larangan).
@@ -84,6 +84,6 @@ Salah satu cara terbaik untuk bertahan dalam *delayed gratification* adalah deng
 
 Sebagian rasa itu terkait dengan **dopamin yang sehat**. Alih-alih mendapatkan dopamin dari konsumsi (menonton, makan), mulailah mencari dopamin dari **pencapaian kecil** (*milestones*).
 
-> **Pesan Utama:** Disiplin bukanlah tentang menyiksa diri sendiri. Disiplin adalah tentang memberikan diri kamu di masa depan apa yang paling ia butuhkan, bukan apa yang kamu inginkan saat ini.
+> **Pesan Utama:** Disiplin tidak perlu menyiksa diri. Disiplin berarti memberi dirimu di masa depan apa yang paling ia butuhkan, walaupun keinginanmu saat ini berkata lain.
 
 *Refleksi: Apa satu kesenangan instan yang paling sering menghambat produktivitas kamu minggu ini? Strategi mana (Aturan 10 menit atau If-Then) yang akan kamu gunakan mulai besok pagi?*

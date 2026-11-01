@@ -1,18 +1,18 @@
 ## Manga Digital dan Perang Melawan Pembajakan
 
-Bab terbaru manga favoritmu terbit, dan dua tautan menunggu di layar: aplikasi resmi yang gratis, atau situs bajakan yang menyimpan seluruh arsipnya. Mana yang kamu ketuk? Pilihan sekecil itu sudah menjadi inti pertarungan industri manga beberapa tahun terakhir. Toko buku tidak lagi cukup, sebab pembaca sudah pindah ke ponsel, dan pembajak ikut menunggu di sana.
+Bab terbaru manga favoritmu terbit, lalu di layar menunggu aplikasi resmi yang gratis dan situs bajakan yang menyimpan seluruh arsipnya. Mana yang kamu ketuk? Pilihan sekecil itu sudah menjadi inti pertarungan industri manga beberapa tahun terakhir. Toko buku tidak lagi cukup, sebab pembaca sudah pindah ke ponsel, dan pembajak ikut menunggu di sana.
 
 ### Komik Digital Menggeser Versi Cetak
 
 Hitungan Shuppan Kagaku Kenkyujo, lembaga riset penerbitan Jepang, memperlihatkan seberapa jauh perpindahan itu. Pada 2025, komik digital sudah menguasai 76,1 persen pasar komik Jepang, sementara penjualan versi cetak anjlok 14,0 persen dalam setahun. Pasar secara keseluruhan turun 1,7 persen, penurunan pertama setelah tujuh tahun tumbuh berturut-turut.
 
-Ini bukan urusan satu rak di sudut toko. Tahun itu komik menyumbang 44,8 persen dari seluruh pasar penerbitan Jepang. Begitu cara orang membaca manga berubah, seluruh industri buku ikut bergeser bersamanya.
+Taruhannya besar, karena tahun itu komik menyumbang 44,8 persen dari seluruh pasar penerbitan Jepang. Begitu cara orang membaca manga berubah, seluruh industri buku ikut bergeser bersamanya.
 
 ### Kerugian dalam Angka Taksiran
 
 Layar yang memudahkan pembaca juga memudahkan pencuri. Salinan digital gampang disebar, dan satu situs bisa memuat banyak judul tanpa membayar apa-apa kepada pengarangnya.
 
-Besar kerugiannya berupa taksiran. CODA, organisasi antipembajakan konten Jepang, bersama PwC menempatkan kerugian 2022 di kisaran 1,95 sampai 2,202 triliun yen, sekitar lima kali lipat angka 2019. Taksiran yang lebih baru memakai cakupan konten digital dan hasilnya jauh lebih besar: [rilis bersama METI dan CODA](https://www.meti.go.jp/english/press/2026/0126_001.html) pada 26 Januari 2026 menyebut angka sekitar 5,7 triliun yen untuk 2025.
+Besar kerugiannya berupa taksiran. CODA, organisasi antipembajakan konten Jepang, bersama PwC menempatkan kerugian 2022 di kisaran 1,95 sampai 2,202 triliun yen, sekitar lima kali lipat angka 2019. Taksiran yang lebih baru memakai cakupan konten digital dan hasilnya jauh lebih besar, sekitar 5,7 triliun yen untuk 2025 menurut [rilis bersama METI dan CODA](https://www.meti.go.jp/english/press/2026/0126_001.html) pada 26 Januari 2026.
 
 ### Jatuhnya Manga-mura
 
@@ -47,7 +47,7 @@ Bagi pembaca di luar Jepang, artinya sederhana. Ada pilihan resmi yang tersedia 
 
 Strategi itu bertemu permintaan yang sedang tinggi. Di Amerika Serikat dan Kanada, ICv2 mencatat penjualan komik dan novel grafis mencapai 2,075 miliar dolar AS pada 2021, naik 62 persen, dengan manga sebagai salah satu pendorong terkuat. Di Prancis, data NielsenIQ-GfK menghitung 39,6 juta eksemplar manga terjual pada 2023, dan lebih dari separuh komik yang dibeli di sana adalah manga.
 
-Namun layar ponsel bukan milik manga sendirian. Pada 2019, [Japan Times](https://www.japantimes.co.jp/news/2019/05/05/business/tech/south-koreas-booming-webtoons-put-japans-print-manga-notice/) melaporkan bahwa *webtoon* Korea, komik digital yang dibaca lewat aplikasi, mulai menjadi ancaman serius bagi manga cetak Jepang. Laporan itu melihat pembaca muda yang tumbuh bersama ponsel beralih ke judul-judul berbasis aplikasi. Dari sudut ini, bab gratis di MANGA Plus juga menjadi cara agar manga tetap hadir di layar yang sama tempat webtoon bersaing.
+Namun manga harus berbagi layar ponsel dengan pesaing. Pada 2019, [Japan Times](https://www.japantimes.co.jp/news/2019/05/05/business/tech/south-koreas-booming-webtoons-put-japans-print-manga-notice/) melaporkan bahwa *webtoon* Korea, komik digital yang dibaca lewat aplikasi, mulai menjadi ancaman serius bagi manga cetak Jepang. Laporan itu melihat pembaca muda yang tumbuh bersama ponsel beralih ke judul-judul berbasis aplikasi. Dari sudut ini, bab gratis di MANGA Plus juga menjadi cara agar manga tetap hadir di layar yang sama tempat webtoon bersaing.
 
 ### Recap
 

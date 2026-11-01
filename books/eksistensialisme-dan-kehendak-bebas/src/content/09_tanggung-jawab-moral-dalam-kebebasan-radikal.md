@@ -1,6 +1,6 @@
 ## Tanggung Jawab Moral dalam Kebebasan Radikal
 
-Tanggung jawab moral dalam eksistensialisme radikal menegaskan bahwa kebebasan bertindak senantiasa memikul konsekuensi etis terhadap seluruh umat manusia. Dalam ketiadaan hukum moral transenden atau kodrat yang baku, manusia tidak lantas memperoleh lisensi untuk bertindak niretika. Sebaliknya, ketiadaan rujukan eksternal menjadikan beban tanggung jawab setiap subjek bersifat mutlak.
+Tanggung jawab moral dalam eksistensialisme radikal menegaskan bahwa kebebasan bertindak senantiasa memikul konsekuensi etis terhadap seluruh umat manusia. Ketiadaan hukum moral transenden atau kodrat yang baku menjadikan beban tanggung jawab setiap subjek bersifat mutlak, sehingga manusia tidak memperoleh lisensi untuk bertindak niretika.
 
 ### 1. Dialektika Kebebasan dan Tanggung Jawab
 
@@ -27,10 +27,10 @@ Apabila seorang subjek memilih kejujuran dalam situasi yang penuh risiko, ia mem
 
 ### 3. Etika Intersubjektivitas dan Tanggung Jawab terhadap Liyan (*The Other*)
 
-Eksistensi manusia tidak berlangsung dalam ruang soliter yang terisolasi, melainkan senantiasa berada dalam relasi intersubjektif dengan sesama:
+Eksistensi manusia senantiasa berada dalam relasi intersubjektif dengan sesama:
 
 1. **Rekognisi Kesadaran Bersama:** Kesadaran diri (*pour-soi*) hanya dapat mengonfirmasi keberadaannya melalui tatapan kesadaran lain (*the Look / le regard*). Dengan demikian, mendehumanisasi orang lain pada dasarnya merusak landasan kemanusiaan subjek itu sendiri.
-2. **Komitmen Keterlibatan (*Engagement*):** Mengambil posisi netral di hadapan penindasan bukanlah manifestasi ketiadaan pilihan, melainkan keputusan aktif untuk mengafirmasi status quo ketidakadilan.
+2. **Komitmen Keterlibatan (*Engagement*):** Mengambil posisi netral di hadapan penindasan adalah keputusan aktif untuk mengafirmasi status quo ketidakadilan. Sikap netral itu sendiri sudah merupakan pilihan.
 
 ### 4. Tiga Dalih untuk Menghindari Tanggung Jawab
 
@@ -48,4 +48,4 @@ Relevansi etika eksistensial terbukti nyata dalam merespons krisis kontemporer, 
 
 ### 6. Kebebasan Radikal Bukan Alasan Egois
 
-Kebebasan radikal bukanlah pembenaran atas egoisme subjektif, melainkan sebuah imperatif moral yang menuntut kewaspadaan etis. Setiap keputusan individu merupakan kontribusi langsung terhadap perumusan hakikat kemanusiaan. Dengan memikul tanggung jawab penuh atas tindakannya, manusia membuktikan martabat moralnya sebagai makhluk yang berdaulat dan beradab.
+Kebebasan radikal adalah sebuah imperatif moral yang menuntut kewaspadaan etis. Setiap keputusan individu merupakan kontribusi langsung terhadap perumusan hakikat kemanusiaan. Dengan memikul tanggung jawab penuh atas tindakannya, manusia membuktikan martabat moralnya sebagai makhluk yang berdaulat dan beradab.

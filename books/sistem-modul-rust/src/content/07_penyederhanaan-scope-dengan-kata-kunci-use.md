@@ -1,6 +1,6 @@
 ## Penyederhanaan Scope dengan Kata Kunci use
 
-Bayangkan kamu tinggal di sebuah kompleks perumahan yang besar. Setiap kali kamu ingin mengundang teman ke rumah, kamu harus memberikan alamat lengkap: **"Negara Indonesia, Provinsi DKI Jakarta, Kota Jakarta Selatan, Kecamatan Tebet, Jalan Tebet Raya Nomor 123"**.
+Bayangkan kamu tinggal di sebuah kompleks perumahan yang besar. Setiap kali kamu ingin mengundang teman ke rumah, kamu harus memberikan alamat lengkap seperti **"Negara Indonesia, Provinsi DKI Jakarta, Kota Jakarta Selatan, Kecamatan Tebet, Jalan Tebet Raya Nomor 123"**.
 
 Lama-lama, menuliskan alamat sepanjang itu di setiap surat undangan tentu melelahkan. Bukankah lebih mudah jika kamu cukup berkata, **"Datanglah ke Rumah Saya"**, dan semua orang di lingkungan tersebut sudah tahu maksudnya?
 
@@ -59,7 +59,7 @@ Meskipun kamu bisa membawa fungsi secara langsung ke dalam scope, Rust memiliki 
 
 ### 1. Parent Module untuk Fungsi
 
-Sangat disarankan untuk membawa **parent module** dari fungsi tersebut ke dalam scope, alih-alih mengimpor fungsinya secara langsung. Sebagai contoh, disarankan untuk menggunakan `use crate::front_of_house::hosting;` lalu memanggil `hosting::add_to_waitlist();`, daripada mengimpor fungsinya secara langsung dengan `use crate::front_of_house::hosting::add_to_waitlist;` kemudian memanggil `add_to_waitlist();`. Hal ini memberikan kejelasan visual bahwa fungsi tersebut didefinisikan di luar scope saat ini, bukan merupakan fungsi lokal.
+Sangat disarankan untuk membawa **parent module** dari fungsi tersebut ke dalam scope, alih-alih mengimpor fungsinya secara langsung. Sebagai contoh, disarankan untuk menggunakan `use crate::front_of_house::hosting;` lalu memanggil `hosting::add_to_waitlist();`, daripada mengimpor fungsinya secara langsung dengan `use crate::front_of_house::hosting::add_to_waitlist;` kemudian memanggil `add_to_waitlist();`. Cara ini menunjukkan secara visual bahwa fungsi tersebut didefinisikan di luar scope saat ini.
 
 ### 2. Path Lengkap untuk Struct, Enum, dan Item Lainnya
 
@@ -155,7 +155,7 @@ fn process_user_data(data: &str) -> JsonResult<()> {
 
 ### Pemisalan dalam Matematika
 
-Dalam matematika, jika kita memiliki variabel kompleks, kita sering memisalkannya: Misalkan $f(x, y, z) = \frac{x^2 + y^2}{z}$, daripada menuliskan seluruh rumus tersebut berulang kali dalam integrasi: $\int\_{0}^{1} \frac{x^2 + y^2}{z} dx$, kita cukup merujuk pada $f(x, y, z)$. Kata kunci `use` adalah cara Rust melakukan "pemisalan" tersebut untuk mempermudah operasi kode kita.
+Dalam matematika, variabel yang kompleks sering kita misalkan. Misalkan $f(x, y, z) = \frac{x^2 + y^2}{z}$. Daripada menuliskan seluruh rumus tersebut berulang kali dalam integrasi seperti $\int\_{0}^{1} \frac{x^2 + y^2}{z} dx$, kita cukup merujuk pada $f(x, y, z)$. Kata kunci `use` adalah cara Rust melakukan "pemisalan" tersebut untuk mempermudah operasi kode kita.
 
 ## Lima Cara Menulis use
 
@@ -167,4 +167,4 @@ Dalam matematika, jika kita memiliki variabel kompleks, kita sering memisalkanny
 | **Grouping** | `use std::{io, fs};` | Menghemat baris untuk impor dari parent yang sama. |
 | **Glob** | `use std::io::*;` | Membawa semua item (gunakan dengan bijak). |
 
-> **Insight:** Mengelola scope dengan baik bukan hanya tentang mengetik lebih sedikit, melainkan tentang memberikan informasi yang cukup bagi pembaca kode (atau kamu di masa mendatang) untuk memahami asal-usul setiap komponen tanpa perlu menelusuri seluruh hierarki proyek.
+> **Insight:** Scope yang dikelola dengan baik memberi pembaca kode (atau kamu di masa mendatang) informasi yang cukup untuk memahami asal-usul setiap komponen tanpa perlu menelusuri seluruh hierarki proyek.

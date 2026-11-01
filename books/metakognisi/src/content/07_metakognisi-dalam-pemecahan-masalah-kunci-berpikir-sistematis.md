@@ -2,13 +2,13 @@
 
 Pemecahan masalah merupakan salah satu kemampuan paling mendasar yang kita pakai setiap hari, baik saat belajar, bekerja, maupun dalam urusan pribadi. Lalu, bagaimana caranya memastikan cara kita menghadapi masalah sudah tepat sasaran? Jawabannya ada pada **metakognisi**. Singkatnya, metakognisi adalah "berpikir tentang cara kita berpikir". Kemampuan ini melibatkan pemahaman sekaligus kontrol terhadap jalan pikiran kita sendiri, yang pada akhirnya membantu kita memecahkan masalah dengan sistematis.
 
-Saat menghadapi suatu masalah, metakognisi membuat kita bisa mencari solusi sekaligus merencanakan, memantau, dan mengevaluasi seluruh proses berpikir. Proses ini membuat kita tidak asal bertindak, tapi benar-benar mengerti apa dan kenapa kita melakukan suatu tindakan.
+Saat menghadapi suatu masalah, metakognisi membuat kita bisa mencari solusi sekaligus merencanakan, memantau, dan mengevaluasi seluruh proses berpikir. Lewat proses ini, kita benar-benar mengerti apa yang kita lakukan dan kenapa kita melakukannya.
 
 Cara memecahkan masalah yang paling jitu dimulai jauh sebelum jawabannya ketemu, yaitu dari bagaimana kita melihat masalah itu.
 
 ## 1\. Perencanaan Strategi Pemecahan Masalah
 
-Langkah pertama yang perlu dilakukan adalah merencanakan segalanya dengan matang. Tujuannya bukan sekadar menetapkan hasil akhir, melainkan memikirkan cara mencapainya serta apa saja yang dibutuhkan.
+Langkah pertama yang perlu dilakukan adalah merencanakan segalanya dengan matang. Selain menetapkan hasil akhir, pikirkan cara mencapainya serta apa saja yang dibutuhkan.
 
 ### 1.1. Memahami dan Mendefinisikan Masalah
 
@@ -73,7 +73,7 @@ Dengan metakognisi, kamu bisa sadar lebih cepat saat strategimu mulai melenceng 
 3. **Mengidentifikasi hambatan:** Sadar bahwa ada blok `if` yang terlewat gara-gara logika kodenya kacau.
 4. **Menyesuaikan strategi:** Ketimbang mengulang baca kode dari atas, ia lebih memilih fokus membetulkan syarat di blok `if` tersebut dan mengetesnya kembali.
 
-Ambil contoh rekaan program kasir sebuah toko yang seharusnya memberi diskon 10% hanya untuk total belanja di atas 100. Ternyata pembeli dua barang yang masing-masing seharga 50 malah membayar 90, bukan 100. Lewat *debugger*, sang *programmer* melihat totalnya tepat 100, lalu sadar syarat diskon di programnya tertulis "100 atau lebih", sehingga ia menggantinya menjadi "lebih dari 100" dan mengetes ulang.
+Ambil contoh rekaan program kasir sebuah toko yang seharusnya memberi diskon 10% hanya untuk total belanja di atas 100. Ternyata pembeli dua barang yang masing-masing seharga 50 malah ikut mendapat diskon dan membayar 90. Lewat *debugger*, sang *programmer* melihat totalnya tepat 100, lalu sadar syarat diskon di programnya tertulis "100 atau lebih", sehingga ia menggantinya menjadi "lebih dari 100" dan mengetes ulang.
 
 ## 3\. Evaluasi Solusi dan Proses Pemecahan Masalah
 

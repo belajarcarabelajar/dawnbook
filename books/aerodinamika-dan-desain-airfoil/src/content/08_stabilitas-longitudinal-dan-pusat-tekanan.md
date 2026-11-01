@@ -1,8 +1,8 @@
 ## Stabilitas Longitudinal dan Pusat Tekanan
 
-Pernahkah timbul pertanyaan mengapa pesawat terbang tidak tiba-tiba menukik tajam atau mendongak ke atas saat melewati turbulensi ringan? Atau bagaimana seorang pilot menjaga pesawat tetap lurus dan seimbang mendatar (*level flight*) meskipun beban di dalam kabin berubah? Jawabannya terletak pada kesetimbangan dan interaksi antara dua titik acuan utama pada profil aerodinamika: **Pusat Tekanan (*Center of Pressure*)** dan **Pusat Aerodinamika (*Aerodynamic Center*)**.
+Pernahkah timbul pertanyaan mengapa pesawat terbang tidak tiba-tiba menukik tajam atau mendongak ke atas saat melewati turbulensi ringan? Atau bagaimana seorang pilot menjaga pesawat tetap lurus dan seimbang mendatar (*level flight*) meskipun beban di dalam kabin berubah? Jawabannya terletak pada kesetimbangan dan interaksi antara dua titik acuan utama pada profil aerodinamika, yakni **Pusat Tekanan (*Center of Pressure*)** dan **Pusat Aerodinamika (*Aerodynamic Center*)**.
 
-Bab ini membedah bagaimana distribusi tekanan pada sayap menciptakan momen yang menentukan stabilitas pesawat. Pemahaman posisi titik-titik ini penting agar pesawat tidak hanya mampu menghasilkan gaya angkat, tetapi juga dapat dikendalikan dengan aman dan terprediksi.
+Bab ini membedah bagaimana distribusi tekanan pada sayap menciptakan momen yang menentukan stabilitas pesawat. Pemahaman posisi titik-titik ini penting agar pesawat yang menghasilkan gaya angkat juga dapat dikendalikan dengan aman dan terprediksi.
 
 ### 1. Pusat Tekanan (*Center of Pressure* - $\text{CP}$)
 
@@ -52,7 +52,7 @@ Stabilitas statis longitudinal (*longitudinal static stability*) adalah kecender
 
 #### Kriteria Kestabilan Statis
 
-Kriteria utama agar pesawat stabil secara statis mensyaratkan bahwa: **Pusat Massa (*Center of Gravity* - $\text{CG}$) harus berada di depan titik netral pesawat (*Neutral Point* / $\text{NP}$).**
+Kriteria utama agar pesawat stabil secara statis adalah **Pusat Massa (*Center of Gravity* - $\text{CG}$) harus berada di depan titik netral pesawat (*Neutral Point* / $\text{NP}$).**
 
 1. **Stabil (*Statically Stable*):** Posisi $\text{CG}$ berada di depan $\text{NP}$. Ketika embusan angin mendadak mendongakkan hidung pesawat (peningkatan $\text{AoA}$), gaya angkat tambahan yang timbul di belakang $\text{CG}$ akan menghasilkan momen pemulih hidung turun (*restoring nose-down moment*), sehingga pesawat kembali ke orientasi setimbang.
 2. **Netral (*Neutrally Stable*):** Posisi $\text{CG}$ berhimpit tepat pada $\text{NP}$ (*Neutral Point*). Pesawat mempertahankan sikap sudut baru tanpa menghasilkan momen pemulih maupun momen yang memperbesar simpangan.
@@ -60,7 +60,7 @@ Kriteria utama agar pesawat stabil secara statis mensyaratkan bahwa: **Pusat Mas
 
 ### 4. Peran Penyeimbang Horizontal (*Horizontal Stabilizer*)
 
-Muncul pertanyaan: *"Jika $\text{CG}$ berada di depan $\text{AC}$, bukankah gaya berat di depan gaya angkat akan selalu membuat hidung pesawat cenderung menukik ke bawah?"*
+Pertanyaan berikut sering muncul. *"Jika $\text{CG}$ berada di depan $\text{AC}$, bukankah gaya berat di depan gaya angkat akan selalu membuat hidung pesawat cenderung menukik ke bawah?"*
 
 Kondisi tersebut tepat secara fisis. Pada sayap bertipe melengkung konvensional (*cambered*), profil secara alami menghasilkan momen angguk menunduk (*nose-down pitching moment*, $M_{\text{ac}} < 0$). Untuk mengatasi kecenderungan menukik ini, dipasang komponen **Horizontal Stabilizer** pada bagian ekor pesawat.
 
@@ -107,4 +107,4 @@ Pesawat tempur modern generasi ke-4 dan ke-5 (seperti F-16 Fighting Falcon atau 
 
 > **Catatan Kunci:** Jarak tanpa dimensi antara $\text{CG}$ dan titik netral total pesawat disebut sebagai **Static Margin** ($\text{SM}$). Semakin besar nilai $\text{SM}$, semakin stabil pesawat secara statis, tetapi semakin besar gaya kendali yang dibutuhkan untuk mengubah orientasi terbang.
 
-*Refleksi Konseptual: Bayangkan perancangan sebuah pesawat kertas sederhana. Ketika klip kertas ditambahkan pada bagian moncong depan, posisi $\text{CG}$ bergeser maju menjauhi $\text{AC}$. Fenomena ini mendemonstrasikan bagaimana penambahan kestabilan statis mengembalikan pesawat ke lintasan terbang lurus setelah mengalami gangguan embusan udara.*
+*Sebagai refleksi, bayangkan perancangan sebuah pesawat kertas sederhana. Ketika klip kertas ditambahkan pada bagian moncong depan, posisi $\text{CG}$ bergeser maju menjauhi $\text{AC}$. Fenomena ini mendemonstrasikan bagaimana penambahan kestabilan statis mengembalikan pesawat ke lintasan terbang lurus setelah mengalami gangguan embusan udara.*

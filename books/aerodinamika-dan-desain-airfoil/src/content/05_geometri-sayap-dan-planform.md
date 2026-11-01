@@ -2,7 +2,7 @@
 
 Bentuk sayap jika diproyeksikan dan dilihat tepat dari atas dikenal sebagai **planform**. Ketika mengamati berbagai jenis wahana udara, mulai dari pesawat latih ringan, pesawat komersial berbadan lebar, hingga jet tempur supersonik, tampak bahwa masing-masing memiliki konfigurasi planform yang sangat berbeda.
 
-Dalam aerodinamika terapan, planform bukan sekadar preferensi estetika atau arsitektur visual. Planform merupakan faktor primer yang menentukan distribusi sirkulasi udara, karakteristik pembentukan pusaran ujung sayap (*wingtip vortices*), besaran hambatan terinduksi (*induced drag*), perilaku pelepasan aliran saat *stall*, hingga distribusi beban struktur dan momen lentur pada pangkal sayap (*wing root*).
+Dalam aerodinamika terapan, planform merupakan faktor primer yang menentukan distribusi sirkulasi udara, karakteristik pembentukan pusaran ujung sayap (*wingtip vortices*), besaran hambatan terinduksi (*induced drag*), perilaku pelepasan aliran saat *stall*, hingga distribusi beban struktur dan momen lentur pada pangkal sayap (*wing root*).
 
 ### 1. Parameter Dasar Geometri Sayap
 
@@ -95,7 +95,7 @@ Ketika gaya angkat terdistribusi secara eliptik, kecepatan aliran turun (*downwa
 
 #### Analogi Dayung Perahu
 
-Bayangkan sebuah dayung perahu yang bergerak melalui air. Jika beban dorongan terdistribusi merata dan proporsional di seluruh bilah dayung, fluida terdorong secara stabil tanpa pergolakan pusaran berlebih di tepinya. Namun, jika gaya dorong terkonsentrasi berlebihan hanya pada ujung dayung, terbentuk pusaran turbulen yang kuat di tepian air dan batang dayung menerima tegangan lentur yang jauh lebih berat. Prinsip serupa berlaku pada sayap: distribusi beban yang tidak seimbang memperbesar pusaran ujung sayap dan memboroskan energi propulsi.
+Bayangkan sebuah dayung perahu yang bergerak melalui air. Jika beban dorongan terdistribusi merata dan proporsional di seluruh bilah dayung, fluida terdorong secara stabil tanpa pergolakan pusaran berlebih di tepinya. Namun, jika gaya dorong terkonsentrasi berlebihan hanya pada ujung dayung, terbentuk pusaran turbulen yang kuat di tepian air dan batang dayung menerima tegangan lentur yang jauh lebih berat. Hal serupa terjadi pada sayap. Distribusi beban yang tidak seimbang memperbesar pusaran ujung sayap dan memboroskan energi propulsi.
 
 ### 4. Metode Pendekatan Schrenk (Schrenk's Approximation)
 

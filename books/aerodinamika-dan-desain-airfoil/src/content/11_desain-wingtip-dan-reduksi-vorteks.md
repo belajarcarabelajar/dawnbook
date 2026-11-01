@@ -1,6 +1,6 @@
 ## Desain Wingtip dan Reduksi Vorteks
 
-Pernahkah kamu mengamati bentuk ujung sayap pesawat komersial modern saat duduk di dekat jendela kabin? Terlihat jelas ujung sayap yang melengkung ke atas atau memiliki sirip tambahan aerodinamis yang khas. Struktur tersebut bukan sekadar variasi estetika, melainkan perangkat untuk meningkatkan efisiensi bahan bakar dan performa aerodinamika.
+Pernahkah kamu mengamati bentuk ujung sayap pesawat komersial modern saat duduk di dekat jendela kabin? Terlihat jelas ujung sayap yang melengkung ke atas atau memiliki sirip tambahan aerodinamis yang khas. Struktur tersebut merupakan perangkat untuk meningkatkan efisiensi bahan bakar dan performa aerodinamika.
 
 Fisika dan matematika **Desain Wingtip dan Reduksi Vorteks** menjelaskan bagaimana kebocoran aliran udara di ujung sayap dapat dikendalikan dan diubah menjadi keuntungan aerodinamis.
 
@@ -39,7 +39,7 @@ $$
 F_{\text{thrust}} \approx L_{\text{winglet}} \cdot \sin(\theta)
 $$
 
-*Sebagai ilustrasi intuitif: Jika pusaran vorteks diibaratkan angin samping yang berputar, winglet berfungsi seperti layar kapal yang memanfaatkan energi putaran angin tersebut untuk menghasilkan gaya dorong bersih ke arah depan.*
+*Sebagai ilustrasi intuitif, jika pusaran vorteks diibaratkan angin samping yang berputar, winglet berfungsi seperti layar kapal yang memanfaatkan energi putaran angin tersebut untuk menghasilkan gaya dorong bersih ke arah depan.*
 
 #### Variasi Desain Wingtip Modern
 

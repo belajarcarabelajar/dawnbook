@@ -11,9 +11,9 @@ Dalam pembahasan resiliensi, ada sebuah perumpamaan klasik tentang pohon Oak dan
 - **Pohon Oak** besar, kuat, dan kaku. Ia melawan angin dengan segala kekuatannya. Namun, ketika angin melampaui batas kekuatannya, Oak akan tumbang atau patah.
 - **Bambu** mungkin terlihat lebih lemah, tetapi ia fleksibel. Saat badai menerjang, ia melengkung mengikuti arah angin. Setelah badai berlalu, ia tegak kembali tanpa kerusakan berarti.
 
-Fleksibilitas kognitif tidak berarti lemah. Ini adalah tentang kemampuan beradaptasi.
+Seperti bambu itu, fleksibilitas kognitif adalah kemampuan beradaptasi.
 
-Kecerdasan pun tampak dari kesediaan untuk berubah, bukan hanya dari banyaknya yang kamu tahu.
+Banyaknya yang kamu tahu menunjukkan kecerdasan, begitu pula kesediaanmu untuk berubah.
 
 ### Mengapa Ini Penting?
 
@@ -91,11 +91,11 @@ Sistem yang adaptif punya jalur cadangan (*fallback*), dan pola yang sama bisa k
 2. Beralih ke sistem cadangan.
 3. Menghentikan langkah dan mengevaluasi ulang.
 
-Setelah itu, tahap Decide dan Act memilih alternatif terbaik lalu menjalankannya. Ibarat sistem yang tangguh, kegagalan rencana utama tidak membuatmu runtuh karena stres, tetapi membuatmu beralih ke jalur alternatif.
+Setelah itu, tahap Decide dan Act memilih alternatif terbaik lalu menjalankannya. Ibarat sistem yang tangguh, saat rencana utama gagal, kamu beralih ke jalur alternatif tanpa runtuh karena stres.
 
 ## 5. Menghitung Keberhasilan Adaptasi
 
-Sebagai ilustrasi sederhana (bukan model ilmiah yang baku), peluang kesuksesan kita dalam lingkungan yang tidak pasti ($\mathbb{P}\_{\text{s}}$) berbanding lurus dengan jumlah alternatif valid ($n$) yang dapat kita hasilkan dalam waktu singkat ($t$).
+Anggap yang berikut ini ilustrasi sederhana yang belum menjadi model ilmiah baku. Peluang kesuksesan kita dalam lingkungan yang tidak pasti ($\mathbb{P}\_{\text{s}}$) berbanding lurus dengan jumlah alternatif valid ($n$) yang dapat kita hasilkan dalam waktu singkat ($t$).
 
 <div>
 $$
@@ -110,8 +110,8 @@ Keterangan:
 
 ## Fleksibel tanpa Kehilangan Prinsip
 
-**Penting:** Fleksibilitas kognitif bukan berarti kamu tidak memiliki prinsip atau tujuan. Tujuanmu tetap sama (misalnya, sampai ke tujuan), tetapi rute yang kamu ambil bisa berubah berkali-kali.
+**Penting:** Orang yang fleksibel secara kognitif memegang prinsip dan tujuannya. Tujuanmu tetap sama (misalnya, sampai ke tujuan), sementara rute yang kamu ambil bisa berubah berkali-kali.
 
-> **Key Takeaway:** Ketangguhan bukan tentang seberapa kuat kamu menahan beban tanpa bergerak, tetapi seberapa cepat kamu bisa menyesuaikan langkah saat keadaan berubah.
+> **Key Takeaway:** Ketangguhan terlihat dari seberapa cepat kamu bisa menyesuaikan langkah saat keadaan berubah.
 
 *Refleksikan satu tantangan yang sedang kamu hadapi saat ini. Jika pendekatan saat ini belum berhasil, apa tiga alternatif berbeda, sekalipun terdengar tidak biasa, yang bisa kamu coba besok?*

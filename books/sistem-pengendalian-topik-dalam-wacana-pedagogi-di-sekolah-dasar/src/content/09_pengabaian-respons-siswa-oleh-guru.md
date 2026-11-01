@@ -8,7 +8,7 @@ Pengabaian respons ini menciptakan dinamika komunikasi yang berat sebelah. Meski
 
 ### Mekanisme Pengabaian Respons dalam Struktur Interaksi
 
-Dalam kajian struktur wacana kelas, pola umum yang sering ditemukan adalah alur tiga tahap: Pemulaan (Initiation), Respons (Response), dan Umpan Balik (Feedback) atau yang sering disingkat pola IRF. Pada interaksi yang sehat, tahap umpan balik menjadi ruang bagi guru untuk memberikan dorongan, memvalidasi kebenaran informasi, atau memperluas gagasan yang disampaikan oleh siswa.
+Dalam kajian struktur wacana kelas, pola umum yang sering ditemukan adalah alur tiga tahap, mulai dari Pemulaan (Initiation), lalu Respons (Response), sampai Umpan Balik (Feedback), yang sering disingkat pola IRF. Pada interaksi yang sehat, tahap umpan balik menjadi ruang bagi guru untuk memberikan dorongan, memvalidasi kebenaran informasi, atau memperluas gagasan yang disampaikan oleh siswa.
 
 Namun, ketika guru menerapkan strategi pengabaian respons, tahap umpan balik ini sengaja dipotong. Pola interaksi bergeser menjadi Pemulaan-Respons-Pemulaan (IRI). Guru langsung melompat ke pertanyaan atau perintah baru segera setelah siswa selesai mengujarkan jawaban.
 
@@ -30,7 +30,7 @@ Untuk memahami bagaimana pengabaian respons berlangsung secara nyata di ruang ke
 | :---: | :---: | :---: | :--- | :--- |
 | **147-149** | G | Pemulai | "Coba, di mana ubi kayu ini ditanam? Coba kamu lihat gambarnya! Di mana pak tani menanam?" | Guru membuka topik pertanyaan berbasis media gambar. |
 | **150** | S | Respons | "Di sawaaah." | Siswa memberikan jawaban langsung sesuai pengamatan. |
-| **151** | G | Pemulai | "Di sana ada perhubungan, tidak?" | **Pengabaian 1:** Guru tidak memvalidasi jawaban "Di sawah", melainkan langsung beralih ke pertanyaan baru. |
+| **151** | G | Pemulai | "Di sana ada perhubungan, tidak?" | **Pengabaian 1:** Guru langsung beralih ke pertanyaan baru tanpa memvalidasi jawaban "Di sawah". |
 | **152** | S | Respons | "Adaaa." | Siswa menjawab pertanyaan kedua guru. |
 | **153-155**| G | Pemulai | "Udah gitu agar hasil lebih baik, menanam ubi kayu bagaimana caranya hayo? Ngomong!" | **Pengabaian 2:** Guru mengabaikan respons "Ada", lalu menanyakan prosedur menanam ubi kayu dengan nada mendesak. |
 | **156** | S | Respons | "Dengan cara yang cukup sederhana." | Siswa menjawab berdasarkan ingatan teks. |
@@ -43,7 +43,7 @@ Untuk memahami bagaimana pengabaian respons berlangsung secara nyata di ruang ke
 
 Jika kamu memperhatikan deretan gerakan di atas, khususnya pada gerakan [151], [153], dan [160], terlihat jelas bagaimana guru bertindak sebagai pengendali topik yang dominan. Jawaban siswa pada gerakan [150] ("Di sawaaah") tidak mendapatkan penegasan apakah ubi kayu memang ditanam di sawah atau di ladang. Guru langsung meloncat menanyakan hal lain pada gerakan [151].
 
-Demikian pula ketika siswa menjawab "Setengah meter" pada gerakan [161], interaksi tidak dilanjutkan dengan diskusi mengapa jarak setengah meter itu penting, melainkan sekadar menuntaskan daftar pertanyaan yang ada di pikiran guru.
+Demikian pula ketika siswa menjawab "Setengah meter" pada gerakan [161], interaksi berlanjut sekadar untuk menuntaskan daftar pertanyaan yang ada di pikiran guru. Tidak ada diskusi tentang mengapa jarak setengah meter itu penting.
 
 ---
 

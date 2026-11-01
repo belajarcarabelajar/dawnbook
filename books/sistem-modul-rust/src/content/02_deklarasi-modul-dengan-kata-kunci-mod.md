@@ -130,6 +130,6 @@ Penerapan `mod` mendukung pemisahan tanggung jawab. Tim pengembang dapat fokus p
 
 ## Tips Organisasi Modul
 
-- **Gunakan nama deskriptif**: Pilih nama modul berdasarkan kegunaannya, bukan cara kerjanya. Sebagai contoh, `mod autentikasi` lebih baik dibandingkan `mod fungsi_login`.
+- **Gunakan nama deskriptif**: Pilih nama modul yang menyebut kegunaannya. Sebagai contoh, `mod autentikasi` lebih baik dibandingkan `mod fungsi_login`.
 - **Batasi kedalaman sub-modul**: Usahakan tingkat kedalaman hierarki tidak lebih dari 3 atau 4 tingkat agar penulisan jalur pemanggilannya tidak terlalu panjang.
 - **Manfaatkan untuk pengujian**: Pengujian unit di Rust umumnya diletakkan di file yang sama dengan kode utama, di dalam sub-modul `mod tests`.

@@ -6,7 +6,7 @@ Asesmen dan evaluasi dalam pembelajaran multidisiplin melampaui batas pengukuran
 
 Asesmen yang efektif dalam pembelajaran lintas disiplin berdiri di atas beberapa prinsip utama:
 
-Pertama, penilaian harus menyasar pemahaman secara utuh. Guru atau dosen tidak boleh hanya menguji penguasaan konten mentah, melainkan juga harus mengukur keterampilan menghubungkan konsep, berpikir kritis, serta memecahkan masalah lintas bidang.
+Pertama, penilaian harus menyasar pemahaman secara utuh. Selain penguasaan konten mentah, guru atau dosen juga harus mengukur keterampilan menghubungkan konsep, berpikir kritis, serta memecahkan masalah lintas bidang.
 
 Selain itu, prinsip-prinsip berikut juga perlu diterapkan secara konsisten:
 * **Bersifat Otentik**: Menggunakan instrumen yang mencerminkan tugas dan tantangan dunia nyata, yang hampir selalu bersifat lintas disiplin.
@@ -56,7 +56,7 @@ Dalam praktiknya, pengembangan rubrik terintegrasi sebaiknya dilakukan secara ko
 Portofolio merupakan dokumentasi terstruktur dari karya-karya peserta didik yang merekam kerja keras, perkembangan, dan capaian mereka dalam kurun waktu tertentu. Dalam pembelajaran lintas disiplin, portofolio memiliki peran sentral karena beberapa alasan berikut:
 
 * **Melacak Rekam Jejak Perkembangan**: Kita bisa melihat langsung bagaimana cara berpikir peserta didik tumbuh dan bagaimana keahlian mereka dalam menghubungkan berbagai keilmuan semakin matang seiring waktu.
-* **Menghargai Setiap Proses**: Portofolio tidak hanya memajang hasil akhir. Draf kasar, coretan ide awal, catatan perbaikan, serta revisi dipajang untuk menunjukkan dinamika berpikir mereka.
+* **Menghargai Setiap Proses**: Selain hasil akhir, portofolio memajang draf kasar, coretan ide awal, catatan perbaikan, serta revisi untuk menunjukkan dinamika berpikir mereka.
 * **Wadah Karya yang Beragam**: Karya yang dikumpulkan bisa beragam, mulai dari laporan penelitian ilmiah, desain visual, purwarupa digital, hingga refleksi personal.
 * **Mengasah Kemampuan Refleksi**: Peserta didik diajak untuk merenungkan kembali bagaimana mereka menjembatani perbedaan teori antarbidang, mengatasi kendala teknis, serta mengambil hikmah dari seluruh proses belajar.
 
@@ -84,7 +84,7 @@ Kedua, proyek ini mengutamakan riset mendalam. Peserta didik didorong untuk meng
 Selain itu, kolaborasi tim dan produk akhir yang nyata menjadi ciri utama:
 * **Kerja Sama Lintas Kepala**: Proyek kelompok memicu dialog antarpeserta didik dengan latar belakang pemikiran berbeda, sekaligus melatih kecerdasan emosional dan komunikasi mereka.
 * **Karya Nyata yang Terukur**: Hasil akhir proyek harus berwujud nyata, baik berupa purwarupa fisik, aplikasi digital, pameran publik, maupun laporan kebijakan.
-* **Penilaian Menyeluruh**: Evaluasi tidak hanya menyasar produk akhir tetapi juga prosesnya, seperti perencanaan, riset, kolaborasi, dan presentasi. Rubrik terintegrasi sering digunakan dalam PBE.
+* **Penilaian Menyeluruh**: Evaluasi menyasar produk akhir sekaligus prosesnya, seperti perencanaan, riset, kolaborasi, dan presentasi. Rubrik terintegrasi sering digunakan dalam PBE.
 
 #### Proyek "Kota Berkelanjutan"
 

@@ -1,16 +1,16 @@
 ## Sekarang Selalu Menang karena Bias Masa Kini
 
-Mari mulai dengan eksperimen pikiran. Ini murni latihan membayangkan, bukan studi, dan tidak ada jawaban yang benar. Jawab saja dengan jujur di kepalamu.
+Mari mulai dengan eksperimen pikiran. Ini murni latihan membayangkan, dan tidak ada jawaban yang benar. Jawab saja dengan jujur di kepalamu.
 
-Tawaran pertama: kamu boleh menerima seratus ribu rupiah hari ini, atau seratus sepuluh ribu rupiah seminggu lagi. Pilih satu. Tawaran kedua: seratus ribu rupiah setahun lagi, atau seratus sepuluh ribu rupiah setahun lebih seminggu. Pilih lagi. Selisihnya sama persis di kedua tawaran: sepuluh ribu rupiah untuk menunggu tujuh hari tambahan.
+Pada tawaran pertama, kamu boleh menerima seratus ribu rupiah hari ini, atau seratus sepuluh ribu rupiah seminggu lagi. Pilih satu. Tawaran kedua menyodorkan seratus ribu rupiah setahun lagi, atau seratus sepuluh ribu rupiah setahun lebih seminggu. Pilih lagi. Di kedua tawaran, selisihnya sama persis, sepuluh ribu rupiah untuk menunggu tujuh hari tambahan.
 
 Kalau kamu memilih "hari ini" di tawaran pertama tetapi memilih "yang lebih besar" di tawaran kedua, kamu tidak sendirian, dan tidak ada yang salah dengan kepalamu. Kamu baru saja merasakan sesuatu yang oleh para ekonom perilaku disebut **bias masa kini** (*present bias*). Bab ini membahas apa itu, kenapa ia cocok dengan kebiasaan menunda, dan apa yang bisa dilakukan tentangnya.
 
 ### Diskon untuk menunggu
 
-Hampir semua orang menilai hadiah yang datang nanti lebih rendah daripada hadiah yang sama yang datang sekarang. Itu wajar dan sering masuk akal: uang bisa dipakai, masa depan tidak pasti. Para ekonom menyebutnya **diskonto**. Yang membuat cerita ini menarik adalah bentuk diskontonya.
+Hampir semua orang menilai hadiah yang datang nanti lebih rendah daripada hadiah yang sama yang datang sekarang. Itu wajar dan sering masuk akal, karena uang bisa dipakai dan masa depan tidak pasti. Para ekonom menyebutnya **diskonto**. Yang membuat cerita ini menarik adalah bentuk diskontonya.
 
-Kalau diskonto berlaku rata, misalnya menunggu setiap minggu selalu mengurangi nilai dengan persentase yang sama, maka pilihanmu di tawaran pertama dan kedua akan selalu searah. Fungsi diskonto **hiperbolik**, yang dalam model Laibson (1997) didekati dengan bentuk *quasi-hyperbolic*, berbeda: potongan nilainya paling curam untuk masa depan yang dekat, lalu melandai untuk masa depan yang jauh. Seminggu pertama dari sekarang "mahal" sekali. Seminggu yang sama di tahun depan terasa murah.
+Kalau diskonto berlaku rata, misalnya menunggu setiap minggu selalu mengurangi nilai dengan persentase yang sama, maka pilihanmu di tawaran pertama dan kedua akan selalu searah. Fungsi diskonto **hiperbolik**, yang dalam model Laibson (1997) didekati dengan bentuk *quasi-hyperbolic*, bekerja lain. Potongan nilainya paling curam untuk masa depan yang dekat, lalu melandai untuk masa depan yang jauh. Seminggu pertama dari sekarang "mahal" sekali. Seminggu yang sama di tahun depan terasa murah.
 
 Karena itu pilihanmu bisa berbalik arah hanya karena waktu berjalan. Di tawaran kedua, kedua hadiah sama-sama jauh, jadi sepuluh ribu rupiah tambahan terasa layak ditunggu. Tetapi ketika tahun itu berlalu dan hadiah pertama tinggal "hari ini", menunggu seminggu mendadak terasa berat. Pilihan yang sama, selisih yang sama, jawaban yang berbeda.
 
@@ -26,13 +26,13 @@ Semakin besar nilai $k$, semakin cepat hadiah "menyusut" di matamu, terutama di 
 
 ### Dua versi dirimu yang saling tidak setuju
 
-Inilah inti masalahnya. Bias masa kini menghasilkan **inkonsistensi waktu** (*time inconsistency*): rencana yang kamu buat hari ini tidak lagi kamu sukai ketika saatnya tiba. Laibson (1997) menyebut preferensi seperti ini tidak konsisten secara dinamis. O'Donoghue dan Rabin (1999) memakainya untuk memodelkan masalah kendali diri.
+Inilah inti masalahnya. Bias masa kini menghasilkan **inkonsistensi waktu** (*time inconsistency*), keadaan ketika rencana yang kamu buat hari ini tidak lagi kamu sukai saat waktunya tiba. Laibson (1997) menyebut preferensi seperti ini tidak konsisten secara dinamis. O'Donoghue dan Rabin (1999) memakainya untuk memodelkan masalah kendali diri.
 
-Biar gampang dibayangkan, anggap ada dua versi dirimu. *Kamu yang merencanakan* duduk tenang di sore hari, melihat jadwal besok, dan memutuskan: "Besok alarm jam lima, jogging dulu." Ia menimbang semuanya dari jarak aman. *Kamu yang mengeksekusi* adalah orang yang terbangun jam lima pagi dalam kamar gelap dengan selimut hangat. Baginya, tiga puluh menit tidur tambahan adalah hadiah yang bisa diraih detik ini juga, sementara manfaat jogging adalah janji yang jauh.
+Biar gampang dibayangkan, anggap ada dua versi dirimu. *Kamu yang merencanakan* duduk tenang di sore hari, melihat jadwal besok, dan memutuskan bahwa besok alarm berbunyi jam lima lalu ia jogging dulu. Ia menimbang semuanya dari jarak aman. *Kamu yang mengeksekusi* adalah orang yang terbangun jam lima pagi dalam kamar gelap dengan selimut hangat. Baginya, tiga puluh menit tidur tambahan adalah hadiah yang bisa diraih detik ini juga, sementara manfaat jogging adalah janji yang jauh.
 
-> Ilustrasi saya sendiri, bukan temuan studi. Semalam kamu bilang "tidur lebih awal, bangun lebih pagi" dan yakin sekali. Pukul lima pagi, kalimat yang sama terdengar seperti usulan orang asing yang tidak mengerti betapa nyamannya kasur.
+> Ilustrasi berikut saya karang sendiri. Semalam kamu bilang "tidur lebih awal, bangun lebih pagi" dan yakin sekali. Pukul lima pagi, kalimat yang sama terdengar seperti usulan orang asing yang tidak mengerti betapa nyamannya kasur.
 
-Dua versi itu tidak bohong. Keduanya jujur pada pandangannya masing-masing. Yang berubah adalah jarak ke hadiah dan biaya, dan jarak itulah yang memutar timbangan.
+Kedua versi itu jujur pada pandangannya masing-masing. Yang berubah adalah jarak ke hadiah dan biaya, dan jarak itulah yang memutar timbangan.
 
 ### Naif atau canggih soal bias dirimu
 
@@ -45,17 +45,17 @@ Perbedaan ini tampak dalam dua jenis aktivitas. Aktivitas dengan **biaya segera*
 | **Naif** | Menunda terus, karena yakin besok pasti dikerjakan | "Preproperate": melakukannya terlalu cepat, sebelum waktunya |
 | **Canggih** | Sadar akan kecenderungannya, jadi sudah memperhitungkannya saat merencanakan | Sadar akan kecenderungannya dan memperhitungkannya, tetapi bisa memperparah kecenderungan bertindak terlalu cepat |
 
-Kata *preproperate* adalah kebalikan dari menunda: bertindak lebih awal dari yang seharusnya. Satu mesin yang sama, bias masa kini, bisa membuat kita menunda hal yang berat sekaligus tergesa pada hal yang enak. O'Donoghue dan Rabin (1999) menemukan bahwa bias masa kini yang kecil pun bisa sangat merugikan orang naif untuk aktivitas berbiaya segera. Kekeliruan kecil yang diulang setiap hari, tanpa pernah disadari, bisa menumpuk.
+Kata *preproperate* adalah kebalikan dari menunda, yaitu bertindak lebih awal dari yang seharusnya. Satu mesin yang sama, bias masa kini, bisa membuat kita menunda hal yang berat sekaligus tergesa pada hal yang enak. O'Donoghue dan Rabin (1999) menemukan bahwa bias masa kini yang kecil pun bisa sangat merugikan orang naif untuk aktivitas berbiaya segera. Kekeliruan kecil yang diulang setiap hari, tanpa pernah disadari, bisa menumpuk.
 
 ### Kalau sadar, apa gunanya?
 
 Kabar baiknya ada di sini. Laibson (1997) menunjukkan bahwa preferensi yang tidak konsisten ini memberi motif untuk **membatasi pilihan diri di masa depan**. Modelnya mempertimbangkan konsumen hiperbolik yang punya akses ke teknologi komitmen yang tidak sempurna, misalnya aset yang sulit dicairkan. Dengan kata lain, masuk akal bagi kamu yang merencanakan untuk "mengikat tangan" kamu yang mengeksekusi.
 
-Contoh dalam kehidupan sehari-hari (lagi-lagi ilustrasi, bukan hasil studi): menaruh alarm di seberang kamar, membayar kelas olahraga di muka, atau menitipkan tabungan ke rekening yang susah ditarik. Strategi seperti ini kembali dibahas di bab 10. Untuk sekarang, cukup pegang prinsipnya: kalau kamu tahu dirimu akan tergoda, jangan mengandalkan tekad saat godaan itu tiba.
+Dalam kehidupan sehari-hari, contohnya (lagi-lagi sebatas ilustrasi saya) bisa berupa menaruh alarm di seberang kamar, membayar kelas olahraga di muka, atau menitipkan tabungan ke rekening yang susah ditarik. Strategi seperti ini kembali dibahas di bab 10. Untuk sekarang, cukup pegang prinsipnya. Kalau kamu tahu dirimu akan tergoda, jangan mengandalkan tekad saat godaan itu tiba.
 
 ### Jangan pegang satu angka
 
-Satu peringatan agar kita tidak terlalu percaya diri. Frederick, Loewenstein, dan O'Donoghue (2002) meninjau model diskonto dan berbagai anomalinya dari tiga dekade riset pilihan antarwaktu. Salah satu catatan pentingnya: tingkat diskonto implisit yang diperkirakan antarstudi bervariasi sangat besar. Jadi tidak ada satu "angka diskonto manusia" yang bisa dipatok. Bias masa kini adalah pola yang luas, tetapi seberapa kuat ia pada dirimu bergantung pada orang, situasi, dan cara mengukurnya.
+Satu peringatan agar kita tidak terlalu percaya diri. Frederick, Loewenstein, dan O'Donoghue (2002) meninjau model diskonto dan berbagai anomalinya dari tiga dekade riset pilihan antarwaktu. Mereka mencatat bahwa tingkat diskonto implisit yang diperkirakan antarstudi bervariasi sangat besar. Jadi tidak ada satu "angka diskonto manusia" yang bisa dipatok. Bias masa kini adalah pola yang luas, tetapi seberapa kuat ia pada dirimu bergantung pada orang, situasi, dan cara mengukurnya.
 
 ## Poin Penting
 
@@ -63,4 +63,4 @@ Satu peringatan agar kita tidak terlalu percaya diri. Frederick, Loewenstein, da
 - Bias yang sama membuat kita menunda hal yang berat dan tergesa pada hal yang enak, dan bagi orang naif bias kecil pun bisa sangat merugikan pada aktivitas berbiaya segera (O'Donoghue dan Rabin, 1999).
 - Mengikat pilihan masa depan masuk akal secara logika (Laibson, 1997), tetapi tingkat diskonto sangat bervariasi antarstudi, jadi hindari menempel satu angka pada dirimu (Frederick, Loewenstein, dan O'Donoghue, 2002).
 
-Kamu yang mengeksekusi biasanya menang karena ia berada paling dekat dengan hadiah. Tagihannya dikirim ke seseorang yang belum hadir: dirimu esok hari, minggu depan, atau tahun depan.
+Kamu yang mengeksekusi biasanya menang karena ia berada paling dekat dengan hadiah. Tagihannya dikirim ke dirimu esok hari, minggu depan, atau tahun depan, seseorang yang belum hadir.

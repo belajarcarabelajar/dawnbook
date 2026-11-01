@@ -6,7 +6,7 @@ Ibaratnya seperti beralih dari melihat dengan mata telanjang ke memakai teleskop
 
 ## 1\. Apa itu Tahap Operasional Formal?
 
-Mulai dari usia 11 atau 12 tahun sampai dewasa, otak mengalami transisi. Remaja tidak cuma memproses informasi konkret ("apa yang ada di depan mata"), tapi mulai memikirkan "apa yang mungkin terjadi". Mereka bisa mengutak-atik ide murni di dalam pikiran tanpa butuh alat peraga lagi.
+Mulai dari usia 11 atau 12 tahun sampai dewasa, otak mengalami transisi. Selain memproses informasi konkret ("apa yang ada di depan mata"), remaja mulai memikirkan "apa yang mungkin terjadi". Mereka bisa mengutak-atik ide murni di dalam pikiran tanpa butuh alat peraga lagi.
 
 > **Wawasan Penting:** Di fase ini, remaja juga mengembangkan kemampuan metakognisi, yaitu "berpikir tentang cara mereka berpikir".
 
@@ -18,7 +18,7 @@ Ada tiga ciri khas cara berpikir di tahap ini:
 
 Remaja mulai paham konsep tanpa wujud fisik seperti keadilan, cinta, nilai moral, atau politik. 
 
-*Contoh: Anak tahap konkret mungkin mengartikan "jujur" sebagai mengembalikan uang kembalian ibu. Sedangkan remaja tahap formal sudah bisa berdebat tentang konsep kejujuran dalam sistem hukum, misalnya dalam kasus korupsi.*
+*Misalnya, anak tahap konkret mungkin mengartikan "jujur" sebagai mengembalikan uang kembalian ibu. Sedangkan remaja tahap formal sudah bisa berdebat tentang konsep kejujuran dalam sistem hukum, misalnya dalam kasus korupsi.*
 
 ### B. Penalaran Hipotesis-Deduktif
 
@@ -61,8 +61,8 @@ Remaja di tahap ini sanggup mengevaluasi kebenaran logika suatu pernyataan (prop
 2. Meong adalah seekor kucing. (Premis 2)
 3. Jadi, Meong bisa terbang. (Kesimpulan)
 
-Anak tahap konkret akan protes keras: *"Mana ada kucing terbang!"*
-Tapi remaja tahap formal bisa bilang: *"Secara logika penalarannya sahih karena kesimpulannya mengikuti premis awal, biarpun di dunia nyata itu salah."*
+Anak tahap konkret akan protes keras, *"Mana ada kucing terbang!"*
+Tapi remaja tahap formal bisa bilang, *"Secara logika penalarannya sahih karena kesimpulannya mengikuti premis awal, biarpun di dunia nyata itu salah."*
 
 ## 5\. Penerapan Pemikiran Formal
 
@@ -80,8 +80,8 @@ Dalam dunia teknis, operasional formal sangat penting untuk *debugging* atau mer
 
 **Contoh Kasus Troubleshooting Jaringan**
 Seorang teknisi remaja memakai logika deduktif saat internet rumah mati:
-1. **Hipotesis 1:** Masalah ada di router. (Cara tes: lihat lampu indikator).
-2. **Hipotesis 2:** Masalah ada di kabel pusat ISP. (Cara tes: cek koneksi rumah tetangga).
+1. **Hipotesis 1:** Masalah ada di router. (Tesnya dengan melihat lampu indikator).
+2. **Hipotesis 2:** Masalah ada di kabel pusat ISP. (Tesnya dengan mengecek koneksi rumah tetangga).
 3. **Analisis:** Kalau router menyala hijau tapi internet tetap mati, masalahnya mungkin dari ISP.
 4. **Tindakan:** Kalau lampu router tidak menyala hijau, router perlu di-restart atau diganti. Kalau router hijau dan internet tetangga ikut mati, saatnya menghubungi ISP. Kalau router hijau dan internet tetangga lancar, yang perlu diperiksa adalah perangkat di rumah sendiri.
 
@@ -107,7 +107,7 @@ Uniknya, perkembangan cara berpikir ini juga memunculkan egosentrisme jenis baru
 
 ## Refleksi & Latihan
 
-*Coba ingat-ingat lagi saat kamu berumur 12-15 tahun.* Pernahkah kamu berdebat dengan orang tua bukan karena murni ingin memberontak, tapi karena kamu menangkap ada lubang logika di aturan mereka? Kalau iya, itu bukti nyata otak kamu sedang bertransisi ke tahap Operasional Formal!
+*Coba ingat-ingat lagi saat kamu berumur 12-15 tahun.* Pernahkah kamu berdebat dengan orang tua karena menangkap ada lubang logika di aturan mereka? Keinginan memberontak saja tidak menjelaskan perdebatan itu. Kalau iya, itu bukti nyata otak kamu sedang bertransisi ke tahap Operasional Formal!
 
 **Latihan Cepat:** Coba pikirkan, *"Apa yang terjadi kalau semua mata uang di dunia tiba-tiba hilang besok pagi?"*
 

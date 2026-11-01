@@ -2,7 +2,7 @@
 
 Belajar di era modern menuntut kita untuk membuka sudut pandang yang lebih luas dan terintegrasi demi memecahkan berbagai *complex problems*. Di sinilah istilah **multidisiplin** (*multidisciplinary*), **interdisipliner** (*interdisciplinary*), dan **transdisiplin** (*transdisciplinary*) kerap muncul untuk menggambarkan tingkat kolaborasi antardisiplin. Walau terdengar mirip, ketiganya menyimpan perbedaan mendasar pada pendekatan, tingkat integrasi, serta tujuan akhirnya. Memahami perbedaan ini penting agar kamu bisa memilih strategi paling tepat, baik dalam dunia pendidikan, riset, maupun penyelesaian masalah sehari-hari.
 
-> *Ketiga pendekatan ini tidak saling bertentangan. Sebaliknya, ketiganya saling melengkapi dan menandai evolusi dalam proses *knowledge production* untuk menjawab tantangan yang kian rumit.*
+> *Ketiga pendekatan ini saling melengkapi dan menandai evolusi dalam proses *knowledge production* untuk menjawab tantangan yang kian rumit.*
 
 ### 1. Multidisciplinary (Multidisiplin)
 
@@ -32,7 +32,7 @@ Mari kita lihat contoh implementasinya:
     Bidang ini memadukan Biology dan Computer Science untuk memproses data genomik. Ahli biologi memakai algoritma komputer untuk menganalisis DNA, sementara ahli komputer merancang program baru yang disesuaikan dengan kebutuhan biologis. Hasilnya adalah sebuah area studi baru yang terpadu.
     
 *   **Cognitive Neuroscience**
-    Disiplin ini menyatukan Neuroscience, Psychology, dan Computer Science untuk mempelajari cara kerja otak dan perilaku. Para peneliti di bidang ini tidak sekadar menaruh data psikologi dan neurologi bersebelahan. Mereka merancang eksperimen dan model kognitif baru yang menggabungkan kedua perspektif tersebut untuk melihat bagaimana kesadaran atau ingatan terbentuk dari jaringan saraf.
+    Disiplin ini menyatukan Neuroscience, Psychology, dan Computer Science untuk mempelajari cara kerja otak dan perilaku. Para peneliti di bidang ini merancang eksperimen dan model kognitif baru yang menggabungkan perspektif psikologi dan neurologi untuk melihat bagaimana kesadaran atau ingatan terbentuk dari jaringan saraf.
     
 *   **Environmental Studies**
     Studi ini menyintesis Environmental Science, Social Sciences, dan Natural Sciences untuk mencari solusi atas krisis ekologi. Ahli biologi yang meneliti pencemaran air bekerja langsung dengan sosiolog untuk menyusun program edukasi dan kebijakan masyarakat. Mereka merancang intervensi sosial-ilmiah yang menjaga keseimbangan alam sekaligus kebutuhan manusia secara bersamaan.
@@ -49,7 +49,7 @@ Bagaimana wujud nyatanya?
     Inisiatif global ini menjadi contoh nyata dari gerakan *transdisciplinary* berskala dunia. Aspek ekonomi, sosial, dan ekologi dirajut menjadi satu dengan melibatkan pemerintah, NGO, *private sector*, dan *civil society* untuk mendorong pembangunan yang adil dan berkelanjutan.
     
 *   **Clean Water Crisis Management di Pedesaan**
-    Untuk mengatasi kelangkaan air, sebuah tim tidak hanya mengandalkan kolaborasi akademis antara *hydrologists* (Natural Sciences), *sociologists* (Social Sciences), dan *engineers* (Applied Sciences). Mereka juga bekerja sama dengan pembuat kebijakan setempat, tokoh adat, dan warga desa. Mulai dari pemetaan masalah hingga perancangan infrastruktur, semua keputusan diambil bersama. Kolaborasi ini melahirkan sistem pengelolaan air yang ramah budaya, berkelanjutan secara ekonomi, dan melampaui batas ilmu murni.
+    Untuk mengatasi kelangkaan air, sebuah tim akademis yang terdiri atas *hydrologists* (Natural Sciences), *sociologists* (Social Sciences), dan *engineers* (Applied Sciences) bekerja sama dengan pembuat kebijakan setempat, tokoh adat, dan warga desa. Mulai dari pemetaan masalah hingga perancangan infrastruktur, semua keputusan diambil bersama. Kolaborasi ini melahirkan sistem pengelolaan air yang ramah budaya, berkelanjutan secara ekonomi, dan melampaui batas ilmu murni.
 
 ### Perbandingan Kunci Ketiga Pendekatan
 

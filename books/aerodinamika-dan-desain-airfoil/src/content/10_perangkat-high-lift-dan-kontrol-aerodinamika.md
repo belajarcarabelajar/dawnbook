@@ -26,7 +26,7 @@ $$
 
 Dari persamaan di atas terlihat jelas bahwa untuk memperkecil kecepatan pendaratan ($v_{\text{stall}}$ lebih rendah) tanpa mengubah berat pesawat ($W$), perancang harus memperbesar penyebut, yaitu meningkatkan koefisien gaya angkat maksimum ($C_{L,\max}$) dan/atau memperluas area permukaan efektif sayap ($S$).
 
-> **Prinsip Utama:** Perangkat *high-lift* bekerja melalui tiga mekanisme fundamental: menambah kelengkungan garis tengah airfoil (*camber*), meningkatkan luas efektif sayap ($S$), serta menyuntikkan energi kinetik ke lapisan batas (*boundary layer control*) untuk menunda separasi aliran pada sudut serang (*Angle of Attack* / $\text{AoA}$) tinggi.
+> **Prinsip Utama:** Perangkat *high-lift* bekerja melalui tiga mekanisme fundamental, yaitu menambah kelengkungan garis tengah airfoil (*camber*), meningkatkan luas efektif sayap ($S$), serta menyuntikkan energi kinetik ke lapisan batas (*boundary layer control*) untuk menunda separasi aliran pada sudut serang (*Angle of Attack* / $\text{AoA}$) tinggi.
 
 ### 2. Slats dan Slots di Tepi Depan
 

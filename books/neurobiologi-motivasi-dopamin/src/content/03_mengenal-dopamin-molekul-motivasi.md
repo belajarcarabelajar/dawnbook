@@ -2,7 +2,7 @@
 
 Selama puluhan tahun, dopamin sering kali disalahpahami oleh publik. Media populer kerap menjuluki dopamin sebagai "molekul kesenangan" (*pleasure chemical*). Kamu mungkin sering mendengar seseorang berkata, "Aku sedang dapat *dopamine hit*" saat mereka menikmati cokelat manis atau melihat jumlah *like* bertambah di media sosial.
 
-Namun, neurosains modern memberi gambaran yang berbeda. Dopamin sebenarnya bukanlah tentang **merasakan** kenikmatan, melainkan tentang **pengejaran** terhadap kenikmatan tersebut. Dopamin adalah bahan bakar neurokimia yang mendorong kamu untuk bergerak, mencari, bertindak, dan menginginkan sesuatu.
+Namun, neurosains modern memberi gambaran yang berbeda. Dopamin sebenarnya berurusan dengan **pengejaran** terhadap kenikmatan. **Merasakan** kenikmatan itu tidak termasuk tugasnya. Dopamin adalah bahan bakar neurokimia yang mendorong kamu untuk bergerak, mencari, bertindak, dan menginginkan sesuatu.
 
 ---
 
@@ -10,8 +10,8 @@ Namun, neurosains modern memberi gambaran yang berbeda. Dopamin sebenarnya bukan
 
 Untuk memahami bedanya pengejaran dan rasa nikmat, bayangkan kamu sedang sangat lapar lalu melihat kotak pizza hangat yang baru saja diantarkan ke meja:
 
-1. **Saat kamu mencium aromanya dan berjalan mendekat:** Pada momen inilah dopamin di otakmu melonjak drastis. Neurotransmiter ini menciptakan dorongan kuat: *"Aku harus mengambil sepotong sekarang!"*
-2. **Saat kamu menggigit dan mengunyah pizza tersebut:** Kadar dopamin justru mulai menurun. Sensasi nikmat dan lezat yang kamu rasakan saat mengunyah sebenarnya diperantarai oleh sistem **opioid endogen** (termasuk **endorfin**), bukan dopamin.
+1. **Saat kamu mencium aromanya dan berjalan mendekat:** Pada momen inilah dopamin di otakmu melonjak drastis. Neurotransmiter ini menciptakan dorongan kuat yang seolah berkata, *"Aku harus mengambil sepotong sekarang!"*
+2. **Saat kamu menggigit dan mengunyah pizza tersebut:** Kadar dopamin justru mulai menurun. Sensasi nikmat dan lezat yang kamu rasakan saat mengunyah sebenarnya diperantarai oleh sistem **opioid endogen** (termasuk **endorfin**).
 
 | Dimensi | Dopamin (*Wanting*) | Opioid & Endorfin (*Liking*) |
 | :--- | :--- | :--- |
@@ -22,7 +22,7 @@ Untuk memahami bedanya pengejaran dan rasa nikmat, bayangkan kamu sedang sangat 
 
 > **Insight Utama:** Dopamin mengatur sirkuit *wanting* (menginginkan), sedangkan molekul kimiawi lain seperti opioid endogen mengatur sirkuit *liking* (menyukai).
 
-*Pernahkah kamu merasa sangat bersemangat saat memesan barang secara online, tetapi ketika paketnya tiba dan dibuka, rasa antusias itu mendadak menguap begitu saja? Itu contoh bahwa dopamin bekerja pada proses antisipasi, bukan pada kepemilikan.*
+*Pernahkah kamu merasa sangat bersemangat saat memesan barang secara online, tetapi ketika paketnya tiba dan dibuka, rasa antusias itu mendadak menguap begitu saja? Itu contoh bahwa dopamin bekerja pada proses antisipasi dan mereda begitu barangnya sudah kamu miliki.*
 
 ---
 
@@ -65,10 +65,10 @@ Dalam eksperimen neurosains laboratorium, tikus yang kadar dopamin di otaknya di
 Memahami bahwa dopamin adalah molekul pengejaran akan mengubah caramu memandang produktivitas, kebiasaan, hingga prokrastinasi.
 
 ### 1. Jebakan Notifikasi Media Sosial
-Desain aplikasi media sosial dan strategi pemasaran digital sengaja mengeksploitasi sirkuit ini. Notifikasi merah di layar ponsel kamu memicu lonjakan dopamin karena menawarkan potensi "informasi baru". Kamu membuka ponsel bukan selalu karena menikmati kontennya, melainkan karena otak kamu terdorong oleh *antisipasi* terhadap kejutan informasi tersebut.
+Desain aplikasi media sosial dan strategi pemasaran digital sengaja mengeksploitasi sirkuit ini. Notifikasi merah di layar ponsel kamu memicu lonjakan dopamin karena menawarkan potensi "informasi baru". Dorongan untuk membuka ponsel sering datang dari *antisipasi* terhadap kejutan informasi tersebut, belum tentu dari kenikmatan atas kontennya.
 
 ### 2. Strategi Mengatasi Prokrastinasi
-Sering kali kamu menunda pekerjaan bukan karena tugas itu terlalu sulit, melainkan karena **antisipasi** terhadap rasa lelah atau kebosanan menekan pelepasan dopamin. 
+Sering kali penundaan berawal dari **antisipasi** terhadap rasa lelah atau kebosanan yang menekan pelepasan dopamin. Tugasnya sendiri belum tentu terlalu sulit.
 
 **Solusi Praktis:** Pecah tugas besar menjadi langkah-langkah mikro. Setiap kali kamu menyelesaikan satu langkah kecil, otak menerima sinyal kemajuan (*progress signal*) yang melepaskan dopamin dalam jumlah pas, memberikan energi untuk menyelesaikan langkah berikutnya.
 
@@ -85,11 +85,11 @@ Oleh karena itu, dopamin dirancang untuk **tidak pernah terpuaskan secara perman
 
 ### Ringkasan Poin Kunci
 
-- **Dopamin adalah Bahan Bakar Pendorong:** Ia memberi energi dan dorongan untuk bergerak menuju target, bukan penikmat hasil.
+- **Dopamin adalah Bahan Bakar Pendorong:** Ia memberi energi dan dorongan untuk bergerak menuju target. Menikmati hasilnya adalah peran molekul lain.
 - **Puncak Dopamin Ada pada Antisipasi:** Pelepasan dopamin tertinggi terjadi tepat *sebelum* imbalan diperoleh.
 - **Hindari Stimulasi Tanpa Pengejaran:** Mengincar kenikmatan instan tanpa usaha pengejaran (seperti perjudian atau stimulasi digital berlebih) dapat merusak kepekaan sirkuit motivasi alamiah kamu.
 
-> Rasa senang tidak hanya muncul saat tujuan tercapai, tetapi juga di sepanjang usaha untuk mencapainya.
+> Rasa senang bisa muncul di sepanjang usaha untuk mencapai tujuan, sama seperti saat tujuan itu tercapai.
 
 ---
 

@@ -147,7 +147,7 @@ f(m) = \text{m/mod.rs}
 $$
 </div>
 
-Jika kedua kondisi di atas terpenuhi $\text{m.rs} \cap \text{m/mod.rs}$, maka akan terjadi konflik: $\text{Error} \leftarrow \text{Ambiguitas struktur}$
+Jika kedua kondisi di atas terpenuhi $\text{m.rs} \cap \text{m/mod.rs}$, maka akan terjadi konflik, yaitu $\text{Error} \leftarrow \text{Ambiguitas struktur}$
 
 Alur keputusan compiler tersebut bisa kamu ikuti pada bagan berikut.
 

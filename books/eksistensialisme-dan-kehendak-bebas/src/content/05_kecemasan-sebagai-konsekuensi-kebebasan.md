@@ -13,11 +13,11 @@ Dalam tradisi filsafat eksistensial, khususnya melalui pemikiran Søren Kierkega
 
 #### Pusing di Tepi Jurang
 
-Kierkegaard mengilustrasikan kecemasan melalui pengalaman seseorang yang berdiri di bibir jurang curam. Dalam pembacaan eksistensialis, sensasi pusing yang dialami bukan sekadar ketakutan objektif akan tergelincir karena gravitasi, melainkan kesadaran eksistensial bahwa tidak ada rintangan fisik apa pun yang mencegah dirinya untuk melompat selain keputusan kehendaknya sendiri.
+Kierkegaard mengilustrasikan kecemasan melalui pengalaman seseorang yang berdiri di bibir jurang curam. Dalam pembacaan eksistensialis, sensasi pusing yang dialami lahir dari kesadaran eksistensial bahwa tidak ada rintangan fisik apa pun yang mencegah dirinya untuk melompat selain keputusan kehendaknya sendiri. Ketakutan objektif akan tergelincir karena gravitasi hanya sebagian dari rasa itu.
 
 ### 2. Tanggung Jawab Radikal sebagai Sumber Kecemasan
 
-Kebebasan eksistensial tidak berjalan dalam kehampaan tanpa dampak, melainkan senantiasa memikul beban tanggung jawab mutlak:
+Kebebasan eksistensial senantiasa memikul beban tanggung jawab mutlak:
 
 <div>
 $$
@@ -31,7 +31,7 @@ $$
 $$
 </div>
 
-Ketika seorang individu mengambil suatu keputusan, tindakan tersebut tidak hanya membentuk esensi dirinya, tetapi juga mencerminkan suatu model pilihan bagi kemanusiaan secara universal. Ketiadaan rujukan otoritas eksternal menjadikan subjek sebagai penanggung jawab tunggal atas konsekuensi tindakannya.
+Ketika seorang individu mengambil suatu keputusan, tindakan tersebut membentuk esensi dirinya sekaligus mencerminkan suatu model pilihan bagi kemanusiaan secara universal. Ketiadaan rujukan otoritas eksternal menjadikan subjek sebagai penanggung jawab tunggal atas konsekuensi tindakannya.
 
 ### 3. Manusia Dikutuk untuk Bebas menurut Sartre
 
@@ -46,12 +46,12 @@ Jean-Paul Sartre merumuskan paradoks fundamental bahwa manusia "dikutuk untuk be
 
 Dalam dinamika masyarakat kontemporer yang menyediakan multiplisitas opsi profesional dan personal, individu kerap mengalami kelumpuhan keputusan akibat kelebihan pilihan (*choice overload*):
 
-- **Studi Kasus Otonomi Profesional:** Seorang profesional yang melepaskan stabilitas karier korporat demi membangun inisiatif independen menghadapi *Angst* bukan semata karena risiko finansial, melainkan karena ketiadaan alibi jika proyek tersebut gagal.
+- **Studi Kasus Otonomi Profesional:** Seorang profesional yang melepaskan stabilitas karier korporat demi membangun inisiatif independen menghadapi *Angst* karena ketiadaan alibi jika proyek tersebut gagal, di samping risiko finansialnya.
 - **Ketiadaan Kambing Hitam:** Kegagalan atau keberhasilan proyek otonom merupakan buah langsung dari keputusan kehendak personal.
 
 ### 5. Memaknai Ulang Rasa Cemas
 
-Eksistensialisme tidak memandang kecemasan sebagai kondisi disfungsional yang harus dieliminasi melalui medikalisasi, melainkan sebagai indikator otentisitas kesadaran:
+Bagi eksistensialisme, kecemasan adalah indikator otentisitas kesadaran. Aliran ini tidak memperlakukannya sebagai kondisi disfungsional yang harus dieliminasi melalui medikalisasi.
 
 1. **Kompas Eksistensial:** Kehadiran rasa cemas menandakan bahwa subjek menyadari bobot signifikansi dari keputusan yang sedang dihadapi.
 2. **Katalis Komitmen (*Engagement*):** Penanggulangan rasa pusing akibat kebebasan dicapai melalui tindakan nyata dan komitmen praksis.
