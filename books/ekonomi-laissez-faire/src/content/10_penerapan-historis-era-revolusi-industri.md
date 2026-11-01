@@ -19,7 +19,7 @@ Salah satu momen penting dalam penerapan Laissez-faire adalah penghapusan **Corn
 
 Dengan aturan yang masih sangat minim mengenai standar produksi dan tanpa upah minimum, pengusaha Inggris berlomba-lomba melakukan mekanisasi massal.
 
-> "Laissez-faire di Inggris bukan hanya sebuah kebijakan, tetapi sebuah keyakinan bahwa kemajuan hanya dapat dicapai jika tangan pemerintah tetap berada di saku, bukan di kemudi industri."
+> "Laissez-faire di Inggris tumbuh menjadi keyakinan bahwa kemajuan hanya dapat dicapai jika tangan pemerintah tetap berada di saku dan menjauh dari kemudi industri."
 
 ## 2. Era "Gilded Age" Amerika Serikat
 
@@ -63,7 +63,7 @@ Dalam fungsi ini, $A$ (Teknologi) dan $K$ (Modal) meningkat drastis akibat akumu
 
 Dalam analisis ekonomi sejarah, kita melihat bagaimana ketiadaan pajak (pilar utama Laissez-faire) mempercepat akumulasi modal.
 
-Cermati sebuah ilustrasi hipotetis dengan angka rekaan: modal awal 100 dan laba 20% per tahun, dihitung selama 10 tahun. Dalam sistem Laissez-faire, seluruh laba diinvestasikan kembali tanpa dipajaki. Dalam sistem intervensionis, laba dipotong pajak 35% sebelum sisanya diinvestasikan kembali. Modal setelah $t$ tahun ($M_t$) dihitung dari modal awal ($M_0$) dan tingkat laba tahunan ($g$), dengan $g$ dan pajak ditulis sebagai pecahan (misalnya 0,35 untuk 35%):
+Cermati sebuah ilustrasi hipotetis dengan angka rekaan berupa modal awal 100 dan laba 20% per tahun, dihitung selama 10 tahun. Dalam sistem Laissez-faire, seluruh laba diinvestasikan kembali tanpa dipajaki. Dalam sistem intervensionis, laba dipotong pajak 35% sebelum sisanya diinvestasikan kembali. Modal setelah $t$ tahun ($M_t$) dihitung dari modal awal ($M_0$) dan tingkat laba tahunan ($g$), dengan $g$ dan pajak ditulis sebagai pecahan (misalnya 0,35 untuk 35%):
 
 <div>
 $$
@@ -76,7 +76,7 @@ $$
 | **Laissez-faire** | 0% | 20% | 619,17 |
 | **Intervensionis** | 35% | 13% | 339,46 |
 
-Dalam 10 tahun, sistem tanpa pajak menghasilkan akumulasi modal yang jauh lebih besar. Karena angkanya rekaan, hitungan ini hanya memperlihatkan logikanya, bukan membuktikan sejarah: laba yang tidak dipajaki dan terus diinvestasikan kembali membuat modal menumpuk lebih cepat, sejalan dengan gambaran industri abad ke-19 yang berkembang pesat.
+Dalam 10 tahun, sistem tanpa pajak menghasilkan akumulasi modal yang jauh lebih besar. Karena angkanya rekaan, hitungan ini hanya memperlihatkan logikanya dan belum membuktikan apa pun tentang sejarah. Laba yang tidak dipajaki dan terus diinvestasikan kembali membuat modal menumpuk lebih cepat, sejalan dengan gambaran industri abad ke-19 yang berkembang pesat.
 
 ## 5. Pelajaran untuk Masa Kini
 

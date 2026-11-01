@@ -1,6 +1,6 @@
 ## Masa Depan Netralitas Olahraga vs Realitas Politik
 
-Selama satu abad terakhir, kita telah melihat bagaimana lapangan hijau menjadi panggung bagi ambisi global. Dari propaganda fasis di Italia 1934 hingga *soft power* Qatar 2022, Piala Dunia tidak pernah sebatas permainan di lapangan hijau. Namun, saat kita menatap masa depan, sebuah pertanyaan besar membayangi: **Mungkinkah olahraga tetap netral di dunia yang semakin terbelah?**
+Selama satu abad terakhir, kita telah melihat bagaimana lapangan hijau menjadi panggung bagi ambisi global. Dari propaganda fasis di Italia 1934 hingga *soft power* Qatar 2022, Piala Dunia selalu sarat kepentingan di luar lapangan. Namun, saat kita menatap masa depan, sebuah pertanyaan besar membayangi. **Mungkinkah olahraga tetap netral di dunia yang semakin terbelah?**
 
 ### Evolusi Peran Politik dari Propaganda ke "Sportswashing"
 
@@ -75,14 +75,14 @@ Hanya beberapa hari setelah invasi Rusia ke Ukraina pada Februari 2022, FIFA (be
 
 ### Diplomasi Pragmatis FIFA
 
-Masa depan Piala Dunia akan ditandai dengan **"Diplomasi Pragmatis"**. FIFA mungkin tidak akan pernah bisa benar-benar netral, tetapi mereka harus belajar menyeimbangkan kepentingan politik tanpa menghancurkan esensi sepak bola itu sendiri.
+Masa depan Piala Dunia akan ditandai dengan **"Diplomasi Pragmatis"**. Karena FIFA mungkin tidak akan pernah bisa benar-benar netral, mereka harus belajar menyeimbangkan kepentingan politik tanpa menghancurkan esensi sepak bola itu sendiri.
 
 Sepak bola akan tetap menjadi:
 
 - **cermin** dari ketegangan politik dunia nyata;
 - **jembatan** unik yang mempertemukan pihak-pihak yang berseberangan untuk saling berjabat tangan di lapangan hijau.
 
-Pada akhirnya, kita dihadapkan pada pilihan mendasar: apakah kita menginginkan sepak bola sebagai ruang hiburan steril yang terputus dari realitas, atau menerimanya sebagai bagian dari kehidupan manusia yang rumit?
+Pada akhirnya, kita dihadapkan pada pilihan mendasar. Apakah kita menginginkan sepak bola sebagai ruang hiburan steril yang terputus dari realitas, atau menerimanya sebagai bagian dari kehidupan manusia yang rumit?
 
 <div>
 $$

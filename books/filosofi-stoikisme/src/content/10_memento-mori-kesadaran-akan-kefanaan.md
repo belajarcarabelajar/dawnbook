@@ -2,11 +2,11 @@
 
 Banyak orang menganggap bahwa memikirkan kematian adalah hal yang kelam, morbid, atau bahkan tabu. Namun, bagi para Stoik, **Memento Mori**, frasa Latin yang berarti "Ingatlah bahwa engkau akan mati", adalah salah satu alat mental untuk menjalani hidup yang lebih bermakna, penuh kasih, dan fokus.
 
-Bagi seorang Stoik, kesadaran bahwa hidup ini terbatas bukanlah alasan untuk berputus asa, melainkan pengingat untuk tidak menyia-nyiakan waktu pada hal-hal yang tidak penting.
+Bagi seorang Stoik, kesadaran bahwa hidup ini terbatas adalah pengingat untuk tidak menyia-nyiakan waktu pada hal-hal yang tidak penting.
 
 ## 1\. Memahami Hakikat Memento Mori
 
-Memento Mori bukanlah tentang ketakutan, melainkan tentang **kejujuran intelektual**. Kita semua tahu secara logika bahwa kita akan mati, tetapi kita sering hidup seolah-olah kita memiliki waktu selamanya. Kita menunda kebahagiaan, menunda kata maaf, dan menghabiskan energi untuk kemarahan yang sepele.
+Memento Mori adalah latihan **kejujuran intelektual**. Kita semua tahu secara logika bahwa kita akan mati, tetapi kita sering hidup seolah-olah kita memiliki waktu selamanya. Kita menunda kebahagiaan, menunda kata maaf, dan menghabiskan energi untuk kemarahan yang sepele.
 
 > "Bukannya kita memiliki waktu yang singkat, melainkan kita menyia-nyiakan banyak darinya." (**Seneca**)
 
@@ -32,7 +32,7 @@ W_{\text{sisa}} = (U_{\text{max}} - U_{\text{sekarang}}) \times \frac{2}{3}
 $$
 </div>
 
-Jika kamu berusia 30 tahun: $W\_{\text{sisa}} = (80 - 30) \times \frac{2}{3} = 33.3 \text{ tahun}$
+Jika kamu berusia 30 tahun, maka $W\_{\text{sisa}} = (80 - 30) \times \frac{2}{3} = 33.3 \text{ tahun}$
 
 Angka ini terlihat banyak, tetapi jika kita memasukkan faktor kesehatan dan energi yang menurun seiring usia, waktu untuk benar-benar "hidup" dengan kapasitas penuh terbatas.
 
@@ -48,7 +48,7 @@ Kematian adalah saat ketika tuan rumah berkata, *"Waktunya pulang."* Seorang Sto
 
 ## 4\. Filter Memento Mori
 
-Memento Mori berfungsi sebagai **filter keputusan**. Saat kamu dihadapkan pada stres atau konflik, ajukan pertanyaan ini: *"Apakah hal ini akan tetap penting saat aku berada di tempat tidur kematianku?"*
+Memento Mori berfungsi sebagai **filter keputusan**. Saat kamu dihadapkan pada stres atau konflik, ajukan pertanyaan *"Apakah hal ini akan tetap penting saat aku berada di tempat tidur kematianku?"*
 
 ### Konflik Lalu Lintas
 
@@ -59,14 +59,14 @@ Memento Mori berfungsi sebagai **filter keputusan**. Saat kamu dihadapkan pada s
 
 ### Email Atasan yang Agak Kasar
 
-Filter ini juga bisa memakai ukuran sederhana: apakah kejadian ini merusak karakter atau kebajikan kamu? Kalau tidak, abaikan, karena waktu terlalu berharga. Kalau kejadian itu menyangkut prinsip atau kasih sayang, berikan perhatian penuh. Email atasan yang agak kasar, misalnya, tidak merusak kebajikan kamu, jadi kamu bisa mengabaikannya.
+Ukuran sederhana lain untuk filter ini adalah bertanya apakah kejadian ini merusak karakter atau kebajikan kamu. Kalau tidak, abaikan, karena waktu terlalu berharga. Kalau kejadian itu menyangkut prinsip atau kasih sayang, berikan perhatian penuh. Email atasan yang agak kasar, misalnya, tidak merusak kebajikan kamu, jadi kamu bisa mengabaikannya.
 
 ## 5\. Latihan Meditasi Memento Mori
 
 Untuk mengintegrasikan konsep ini, Stoikisme menyarankan latihan rutin:
 
-1. **Pagi Hari:** Saat bangun, katakan pada diri sendiri: *"Aku mungkin tidak akan melihat malam hari."* Ini bukan untuk menakut-nakuti, tapi untuk membuat hari itu menjadi berharga.
-2. **Malam Hari:** Saat akan tidur, katakan: *"Aku telah hidup, dan aku telah menyelesaikan perjalanan yang diberikan takdir kepadaku."* (Seneca mengutip kalimat ini dari Vergilius dalam Surat 12). Jika kamu bangun besok pagi, itu adalah bonus.
+1. **Pagi Hari:** Saat bangun, katakan pada diri sendiri, *"Aku mungkin tidak akan melihat malam hari."* Tujuannya membuat hari itu menjadi berharga.
+2. **Malam Hari:** Saat akan tidur, ucapkan *"Aku telah hidup, dan aku telah menyelesaikan perjalanan yang diberikan takdir kepadaku."* (Seneca mengutip kalimat ini dari Vergilius dalam Surat 12). Jika kamu bangun besok pagi, itu adalah bonus.
 3. **Interaksi Sosial:** Saat berpisah dengan orang yang dicintai, sadarilah dalam hati bahwa ini *bisa jadi* pertemuan terakhir. Kesadaran ini akan menghilangkan keinginan untuk bertengkar dan meningkatkan rasa kasih sayang.
 
 ## 6\. Manfaat Psikologis
@@ -76,9 +76,9 @@ Banyak orang menghindari topik kematian karena **Death Anxiety** (Kecemasan akan
 **Keuntungan Memento Mori:**
 
 - **Prioritas Tajam:** Kamu berhenti mengejar validasi dari orang yang tidak kamu sukai.
-- **Rasa Syukur (Gratitude):** Hal-hal kecil seperti secangkir kopi atau udara pagi terasa lebih nikmat karena kamu tahu itu bukan hak permanen, melainkan pinjaman.
+- **Rasa Syukur (Gratitude):** Hal-hal kecil seperti secangkir kopi atau udara pagi terasa lebih nikmat karena kamu tahu semua itu hanya pinjaman.
 - **Keberanian:** Kematian adalah risiko terbesar. Jika kita sudah menerima kematian, risiko-risiko kecil lainnya (seperti gagal dalam bisnis atau ditolak) menjadi tidak terlalu menakutkan.
 
-> **Penting:** Memento Mori tidak mengajarkan kita untuk menjadi pasif atau ceroboh (nihilisme). Sebaliknya, ini adalah panggilan untuk **aksi yang intens** pada hal-hal yang benar-benar bermakna.
+> **Penting:** Memento Mori adalah panggilan untuk **aksi yang intens** pada hal-hal yang benar-benar bermakna. Ajaran ini tidak membuat kita pasif atau ceroboh (nihilisme).
 
 *Bahan Renungan: Tuliskan tiga hal yang sedang kamu khawatirkan saat ini. Coret hal-hal yang tidak akan relevan lagi dalam 10 tahun ke depan. Gunakan sisa energimu untuk hal yang tersisa di daftar tersebut.*

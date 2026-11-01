@@ -1,6 +1,6 @@
 ## Eksplorasi Diri untuk Menemukan Apa yang Kamu Cintai
 
-Di sini kita fokus pada pilar pertama dari Ikigai: **Apa yang Kamu Cintai** (*What You Love*). Area ini merupakan sumber energi utama. Mencari tahu apa yang benar-benar kamu nikmati adalah langkah awal untuk memetakan tujuan hidupmu.
+Di sini kita fokus pada **Apa yang Kamu Cintai** (*What You Love*), pilar pertama dari Ikigai. Area ini merupakan sumber energi utama. Mencari tahu apa yang benar-benar kamu nikmati adalah langkah awal untuk memetakan tujuan hidupmu.
 
 ## Mengapa Pilar Ini Penting?
 

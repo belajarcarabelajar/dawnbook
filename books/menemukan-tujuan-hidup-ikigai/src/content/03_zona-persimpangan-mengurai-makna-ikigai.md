@@ -92,10 +92,10 @@ Kondisi ini memberikan rasa senang dan kepuasan yang tulus. Inilah dorongan bati
 
 ## Dinamika dan Keseimbangan
 
-Ikigai bukan sebuah pencapaian yang statis. Seiring berjalannya waktu, minat, keterampilan, dan keadaan dunia terus berubah. Oleh karena itu, perjalanan ini menuntut penyesuaian yang terus-menerus.
+Ikigai ikut bergeser seiring berjalannya waktu, karena minat, keterampilan, dan keadaan dunia terus berubah. Oleh karena itu, perjalanan ini menuntut penyesuaian yang terus-menerus.
 
 Kamu harus bersikap fleksibel untuk meninjau kembali setiap pilar dalam hidupmu. Mencapai Ikigai juga sangat bergantung pada keseimbangan; terlalu berfokus pada mencari uang dapat mengikis gairah atau menghilangkan makna pekerjaan. Proses penemuan ini biasanya berjalan secara iteratif. Jarang seseorang langsung menemukan titik tengahnya; sebagian besar mencapainya perlahan lewat eksplorasi dan percobaan berulang.
 
 Bayangkan seorang fotografer amatir yang mencintai dunia potret satwa liar. Ia menghabiskan waktu bertahun-tahun untuk mengasah kemampuannya di bidang ini. Belakangan, ia menyadari bahwa dunia membutuhkan publikasi nyata untuk meningkatkan kesadaran konservasi lingkungan. Jika pada awalnya ia hanya memotret sebagai hobi, ia lantas mulai menjual karyanya, menerbitkan buku, atau menjadi fotografer resmi bagi organisasi pelestarian alam. Saat keempat elemen ini membaur, ia menikmati pekerjaannya, memberikan dampak nyata, sekaligus mendapatkan imbalan finansial yang layak.
 
-Pada praktiknya, Ikigai tidak selalu berwujud satu pekerjaan tunggal. Ia bisa saja terbentuk dari kombinasi berbagai kegiatan atau ragam proyek yang secara kolektif memenuhi keempat pilar tersebut.
+Pada praktiknya, Ikigai bisa berwujud satu pekerjaan tunggal, bisa juga terbentuk dari kombinasi berbagai kegiatan atau ragam proyek yang secara kolektif memenuhi keempat pilar tersebut.

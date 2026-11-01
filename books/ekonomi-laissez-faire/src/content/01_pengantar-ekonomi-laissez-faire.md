@@ -6,7 +6,7 @@ Dalam bagian ini, kita akan membedah akar kata, definisi, dan fondasi filosofis 
 
 ## 1. Etimologi Laissez-faire
 
-Istilah **Laissez-faire** (diucapkan: *le-se-fer*) berasal dari bahasa Prancis. Secara harfiah, istilah ini berarti **"biarkan terjadi"** atau **"biarkan berbuat."**
+Istilah **Laissez-faire** (dibaca *le-se-fer*) berasal dari bahasa Prancis. Secara harfiah, istilah ini berarti **"biarkan terjadi"** atau **"biarkan berbuat."**
 
 ### Kisah di Balik Istilah
 
@@ -16,7 +16,7 @@ Colbert, yang percaya bahwa ekonomi harus diatur ketat oleh negara (merkantilism
 
 > *"Laissez-nous faire."* (Biarkan kami melakukannya sendiri.)
 
-Jawaban ini lebih dari sekadar permintaan izin. Ini adalah pernyataan filosofis bahwa campur tangan pemerintah, sekecil apa pun itu, sering kali justru menjadi penghambat kemajuan ekonomi daripada menjadi pendorongnya.
+Di balik jawaban singkat itu ada pernyataan filosofis bahwa campur tangan pemerintah, sekecil apa pun, sering kali lebih banyak menghambat kemajuan ekonomi daripada mendorongnya.
 
 ## 2. Definisi Dasar
 
@@ -42,7 +42,7 @@ Para pemikir awal Laissez-faire percaya bahwa alam semesta memiliki hukumnya sen
 
 Filosofi ini memandang individu sebagai unit terkecil dan terpenting dalam masyarakat. Setiap orang dianggap memiliki hak alami untuk mengejar kepentingannya sendiri.
 
-- Coba renungkan: siapa yang lebih tahu apa yang kamu butuhkan? Kamu sendiri, atau seorang pejabat pemerintah di ibu kota?
+- Coba renungkan, siapa yang lebih tahu apa yang kamu butuhkan? Kamu sendiri, atau seorang pejabat pemerintah di ibu kota?
 
 ### C. Rasionalitas Ekonomi
 
@@ -61,7 +61,7 @@ Untuk memahami peran pemerintah dalam sistem Laissez-faire, mari gunakan analogi
 | **Keterlibatan** | Memerintah setiap gerakan di lapangan | Mengawasi dari dalam lapangan, bertindak hanya saat ada pelanggaran |
 | **Tujuan** | Memaksa sistem mencapai hasil tertentu | Membiarkan peserta berkompetisi secara bebas dan alami |
 
-> *Dalam Laissez-faire, pemerintah adalah sang wasit, bukan sang pelatih.*
+> *Dalam Laissez-faire, pemerintah cukup menjadi sang wasit.*
 
 ## 5. Contoh Penerapan di Kebijakan Tertentu
 
@@ -82,6 +82,6 @@ Pada akhir 1990-an, pertumbuhan internet sangat pesat, antara lain karena pemeri
 
 Memahami Laissez-faire adalah kunci untuk memahami perdebatan politik dan ekonomi hari ini. Ketika kamu mendengar berita tentang "pemotongan pajak", "deregulasi", atau "swastanisasi", kamu sebenarnya sedang menyaksikan perdebatan tentang prinsip-prinsip Laissez-faire.
 
-> **Wawasan Memorable:** Laissez-faire bukan berarti ketiadaan aturan sama sekali; ia adalah keyakinan bahwa aturan yang paling efektif adalah aturan yang dibuat oleh interaksi sukarela antara manusia, bukan oleh paksaan negara.
+> **Wawasan Memorable:** Laissez-faire meyakini bahwa aturan yang paling efektif lahir dari interaksi sukarela antarmanusia, tanpa paksaan negara. Jadi, sistem ini masih mengenal aturan.
 
 *Apakah menurut kamu pasar benar-benar bisa mengatur dirinya sendiri tanpa bantuan polisi atau hukum yang ketat? Di bagian selanjutnya, kita akan menelusuri bagaimana pemikiran ini berkembang dari para Fisiokrat Prancis hingga mencapai puncaknya pada karya Adam Smith.*

@@ -10,7 +10,7 @@ Salah satu ironi dari Laissez-faire adalah bahwa persaingan bebas cenderung meng
 
 ### Permainan Papan Monopoly
 
-Bayangkan kamu bermain permainan papan *Monopoly*. Pada awalnya, semua orang memiliki peluang yang sama. Namun, begitu satu pemain berhasil menguasai tanah-tanah strategis dan membangun hotel, pemain lain akan perlahan bangkrut karena harus membayar sewa yang mahal. Di akhir permainan, satu orang menguasai segalanya, dan permainan berakhir karena tidak ada lagi persaingan. Inilah yang dikhawatirkan kritikus: **Laissez-faire pada titik ekstremnya akan menghilangkan kompetisi yang menjadi penggeraknya sendiri.**
+Bayangkan kamu bermain permainan papan *Monopoly*. Pada awalnya, semua orang memiliki peluang yang sama. Namun, begitu satu pemain berhasil menguasai tanah-tanah strategis dan membangun hotel, pemain lain akan perlahan bangkrut karena harus membayar sewa yang mahal. Di akhir permainan, satu orang menguasai segalanya, dan permainan berakhir karena tidak ada lagi persaingan. Kritikus khawatir **Laissez-faire pada titik ekstremnya akan menghilangkan kompetisi yang menjadi penggeraknya sendiri.**
 
 **Dampak Negatif Monopoli:**
 
@@ -93,6 +93,6 @@ Salah satu contoh sejarah paling nyata dari kritik terhadap Laissez-faire adalah
 | **Eksternalitas** | Dampak buruk pada pihak ketiga (misal: polusi). | Kerusakan lingkungan, krisis kesehatan publik. |
 | **Barang Publik** | Pasar tidak tertarik memproduksi barang yang tidak bisa dijual secara individu. | Infrastruktur publik yang terbengkalai. |
 
-> **Catatan Penting:** Kritik terhadap Laissez-faire bukan berarti menyatakan bahwa pasar itu buruk. Sebaliknya, kritik ini menekankan bahwa **pasar memerlukan koridor hukum dan etika** agar tetap berfungsi untuk kepentingan orang banyak, bukan hanya untuk segelintir pemenang.
+> **Catatan Penting:** Kritik terhadap Laissez-faire menekankan bahwa **pasar memerlukan koridor hukum dan etika** agar manfaatnya sampai ke orang banyak dan tidak berhenti pada segelintir pemenang. Pasar itu sendiri tidak dianggap buruk.
 
 Setelah memahami kritik ini, pada bagian selanjutnya kita akan mempelajari bagaimana "Kegagalan Pasar" menjadi alasan fundamental bagi munculnya kebijakan ekonomi modern yang melibatkan intervensi pemerintah.

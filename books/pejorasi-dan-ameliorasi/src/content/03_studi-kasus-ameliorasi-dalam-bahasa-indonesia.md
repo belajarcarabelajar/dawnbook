@@ -19,7 +19,7 @@ Kendati secara etimologis kata *perempuan* memiliki landasan makna yang kuat (se
 
 ### 2. Kata 'Pramuniaga' sebagai Eufemisme yang Melembaga
 
-Perubahan orientasi pelayanan ritel modern mendorong adopsi istilah baru untuk menggantikan sebutan lama di pusat-pusat perdagangan. Tulisan lowongan kerja kini hampir selalu mencantumkan sebutan "Dibutuhkan Pramuniaga", bukan "Dibutuhkan Pelayan Toko".
+Perubahan orientasi pelayanan ritel modern mendorong adopsi istilah baru untuk menggantikan sebutan lama di pusat-pusat perdagangan. Tulisan lowongan kerja kini hampir selalu mencantumkan sebutan "Dibutuhkan Pramuniaga" untuk posisi yang dulu ditulis "Dibutuhkan Pelayan Toko".
 
 **Analisis Perubahan:** Dahulu, pekerja yang bertugas melayani pembeli di toko disebut sebagai **pelayan toko** atau **penjaga toko**. Namun, kata *pelayan* kerap memicu konotasi subordinatif sebagai pihak yang semata-mata menjalankan perintah pada strata sosial bawah.
 
@@ -46,7 +46,7 @@ Dalam ranah percakapan santai sehari-hari, kedua kata ini mungkin digunakan seca
 - **Bini:** Tergolong ragam nonformal atau vernakular yang bernuansa percakapan akrab, tetapi terasa kurang pantas bila dipakai dalam forum resmi kenegaraan.
 - **Istri:** Diserap dari bahasa Sanskerta *stri*, memberikan nilai rasa yang terhormat, anggun, dan berkesan sah secara hukum maupun agama.
 
-Perbedaan nilai rasa ini menunjukkan bahwa pemilihan kosakata tidak hanya bertumpu pada kesamaan arti referensial, melainkan juga menuntut kesesuaian derajat kesantunan dengan laras sosial tempat tuturan berlangsung.
+Perbedaan nilai rasa ini menunjukkan bahwa pemilihan kosakata menuntut kesesuaian derajat kesantunan dengan laras sosial tempat tuturan berlangsung, di samping kesamaan arti referensial.
 
 ### Penerapan Kontekstual dalam Komunikasi Publik
 

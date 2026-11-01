@@ -1,6 +1,6 @@
 ## Permainan Zero-Sum vs. Non-Zero-Sum
 
-Salah satu klasifikasi dasar dalam Teori Permainan adalah pembedaan antara **Zero-Sum Games** dan **Non-Zero-Sum Games**. Perbedaan ini bukan sekadar istilah teknis, melainkan cerminan dari bagaimana sumber daya, nilai, dan kepentingan didistribusikan dalam sebuah interaksi strategis.
+Salah satu klasifikasi dasar dalam Teori Permainan adalah pembedaan antara **Zero-Sum Games** dan **Non-Zero-Sum Games**. Perbedaan ini mencerminkan bagaimana sumber daya, nilai, dan kepentingan didistribusikan dalam sebuah interaksi strategis.
 
 Bayangkan sebuah kue di atas meja. Apakah kita hanya bisa memperebutkan potongan yang ada, atau mungkinkah kita bekerja sama untuk memanggang kue yang lebih besar? Pertanyaan inilah yang menjadi inti dari pembahasan kita kali ini.
 
@@ -45,10 +45,10 @@ Bayangkan sebuah kue ulang tahun. Jika kamu mengambil potongan yang lebih besar,
 
 ### Jenis-Jenis Non-Zero-Sum
 
-1. **Positive-Sum (Win-Win):** Total hasil meningkat. Contoh: Perdagangan internasional ketika kedua negara mendapatkan barang yang tidak bisa mereka produksi sendiri.
-2. **Negative-Sum (Lose-Lose):** Total hasil menurun. Contoh: Perang nuklir atau perang harga yang ekstrem ketika kedua pihak bangkrut karena biaya konflik melebihi keuntungan yang diperebutkan.
+1. **Positive-Sum (Win-Win):** Total hasil meningkat, misalnya dalam perdagangan internasional ketika kedua negara mendapatkan barang yang tidak bisa mereka produksi sendiri.
+2. **Negative-Sum (Lose-Lose):** Total hasil menurun, seperti pada perang nuklir atau perang harga yang ekstrem ketika kedua pihak bangkrut karena biaya konflik melebihi keuntungan yang diperebutkan.
 
-> **Insight:** Dalam permainan non-zero-sum, strategi yang paling cerdas sering kali melibatkan koordinasi dan kepercayaan, bukan sekadar agresi.
+> **Insight:** Dalam permainan non-zero-sum, strategi yang paling cerdas sering kali melibatkan koordinasi dan kepercayaan.
 
 ## 3. Perbandingan Strategis antara Zero-Sum dan Non-Zero-Sum
 
@@ -59,7 +59,7 @@ Bayangkan sebuah kue ulang tahun. Jika kamu mengambil potongan yang lebih besar,
 | **Tujuan Pemain** | Mengalahkan lawan | Mengoptimalkan hasil sendiri (bisa lewat kerja sama) |
 | **Contoh Dunia Nyata** | Judi, Olahraga kompetitif | Perdagangan, Diplomasi, Pernikahan |
 
-*Bahan Renungan: Apakah persaingan bisnis di industri yang sedang tumbuh (seperti teknologi AI saat ini) bersifat Zero-Sum atau Non-Zero-Sum? Bagaimana jika industrinya sudah jenuh (seperti pasar kartu ucapan fisik)?*
+*Sekarang pikirkan, apakah persaingan bisnis di industri yang sedang tumbuh (seperti teknologi AI saat ini) bersifat Zero-Sum atau Non-Zero-Sum? Bagaimana jika industrinya sudah jenuh (seperti pasar kartu ucapan fisik)?*
 
 ## 4. Representasi dalam Matriks Payoff
 
@@ -87,7 +87,7 @@ Dua rekan kerja memilih untuk bekerja keras atau malas.
 
 *Di sini, (5, 5) menunjukkan total hasil 10 (Positive-Sum). Jika keduanya malas (0,0), mereka tidak mendapatkan apa-apa.*
 
-Dari dua contoh ini terlihat cara cepat mengecek sifat sebuah matriks: jumlahkan kedua angka di setiap sel. Jika semua sel menghasilkan jumlah yang sama, yaitu nol (atau konstanta tertentu), permainan itu zero-sum. Begitu ada satu sel saja yang jumlahnya berbeda, seperti sel (5, 5) tadi, permainan itu sudah non-zero-sum.
+Dua contoh ini memperlihatkan cara cepat mengecek sifat sebuah matriks. Jumlahkan kedua angka di setiap sel. Jika semua sel menghasilkan jumlah yang sama, yaitu nol (atau konstanta tertentu), permainan itu zero-sum. Begitu ada satu sel saja yang jumlahnya berbeda, seperti sel (5, 5) tadi, permainan itu sudah non-zero-sum.
 
 ## 5. Aplikasi Dunia Nyata & Kasus Penggunaan
 

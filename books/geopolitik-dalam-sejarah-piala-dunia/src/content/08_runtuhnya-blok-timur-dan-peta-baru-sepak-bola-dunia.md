@@ -2,11 +2,11 @@
 
 Pernahkah kamu membayangkan apa yang terjadi jika sebuah band legendaris tiba-tiba bubar dan masing-masing anggotanya memulai karier solo? Atau sebaliknya, dua perusahaan besar yang bersaing ketat tiba-tiba melakukan merger? Dalam dunia sepak bola, fenomena ini terjadi secara masif di awal era 1990-an.
 
-Runtuhnya Tembok Berlin tidak hanya mengakhiri Perang Dingin secara simbolis, tetapi juga mengubah FIFA dan peta kekuatan sepak bola dunia. Dari satu negara besar yang pecah menjadi belasan negara baru, hingga penyatuan kembali kekuatan yang sempat terpisah, bab ini akan membedah bagaimana fragmen-fragmen politik ini membentuk ulang sejarah Piala Dunia.
+Runtuhnya Tembok Berlin menandai akhir simbolis Perang Dingin, dan gelombangnya ikut mengubah FIFA dan peta kekuatan sepak bola dunia. Dari satu negara besar yang pecah menjadi belasan negara baru, hingga penyatuan kembali kekuatan yang sempat terpisah, bab ini akan membedah bagaimana fragmen-fragmen politik ini membentuk ulang sejarah Piala Dunia.
 
 ## 1. Penyatuan Jerman
 
-Sebelum 1990, Jerman terbagi menjadi dua entitas: **Jerman Barat (BRD)** yang demokratis dan **Jerman Timur (DDR)** yang sosialis. Jerman Barat adalah raksasa sepak bola dengan dua gelar juara dunia, sementara Jerman Timur dikenal dengan sistem pelatihan atletnya yang sangat saintifik dan disiplin.
+Sebelum 1990, Jerman terbagi menjadi **Jerman Barat (BRD)** yang demokratis dan **Jerman Timur (DDR)** yang sosialis. Jerman Barat adalah raksasa sepak bola dengan dua gelar juara dunia, sementara Jerman Timur dikenal dengan sistem pelatihan atletnya yang sangat saintifik dan disiplin.
 
 ### Dampak Geopolitik dan Olahraga
 
@@ -14,7 +14,7 @@ Ketika Tembok Berlin runtuh pada 9 November 1989, proses reunifikasi dimulai. Da
 
 Proses reunifikasi ini memengaruhi tim nasional dan kompetisi domestik secara berbeda. Di tingkat internasional, Jerman Barat memenangkan Piala Dunia 1990 tepat sebelum penyatuan resmi dilakukan. Franz Beckenbauer, pelatih Jerman saat itu, dengan percaya diri menyatakan bahwa tambahan talenta dari Timur seperti Matthias Sammer dan Andreas Thom akan membuat Jerman sulit dikalahkan selama bertahun-tahun. Namun di tingkat domestik, integrasinya tidak semulus itu. Klub-klub Jerman Timur harus terseok-seok beradaptasi dengan sistem kapitalisme Bundesliga, yang akhirnya memicu kesulitan finansial parah bagi banyak klub legendaris asal Timur.
 
-> Penyatuan Jerman tidak hanya menambah jumlah talenta yang tersedia. Peristiwa ini menggabungkan dua filosofi besar: mentalitas juara Jerman Barat berpadu dengan disiplin fisik Jerman Timur.
+> Selain menambah jumlah talenta yang tersedia, penyatuan Jerman memadukan dua filosofi besar, yakni mentalitas juara Jerman Barat dan disiplin fisik Jerman Timur.
 
 ## 2. Fragmentasi Uni Soviet
 

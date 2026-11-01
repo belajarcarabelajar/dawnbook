@@ -2,13 +2,13 @@
 
 Pernahkah kamu merasa bahwa dunia ini terlalu berisik, terlalu cepat, dan sering kali tidak adil? Di tengah ketidakpastian ekonomi, tekanan media sosial, dan drama kehidupan pribadi, banyak orang mencari "pegangan" agar tidak hancur oleh keadaan. Di sinilah **Stoikisme** hadir.
 
-Stoikisme bukanlah sekadar teori akademik yang membosankan di dalam buku-buku tua. Sebaliknya, ia adalah sebuah **sistem operasi mental** yang dirancang untuk membantu kita tetap tenang di bawah tekanan, tangguh saat menghadapi kesulitan, dan bijaksana dalam setiap keputusan.
+Stoikisme adalah sebuah **sistem operasi mental** yang dirancang untuk membantu kita tetap tenang di bawah tekanan, tangguh saat menghadapi kesulitan, dan bijaksana dalam setiap keputusan.
 
 ## Apa Itu Stoikisme?
 
 Secara etimologis, Stoikisme berasal dari kata Yunani **"Stoa Poikile"** (Serambi Berhias), tempat pendiri aliran ini, Zeno dari Citium, pertama kali mengajar di Athena pada awal abad ke-3 SM. Berbeda dengan sekolah filsafat lain yang memiliki gedung tertutup, kaum Stoik mengajar di ruang publik yang bisa diakses oleh siapa saja.
 
-**Definisi Inti:** Stoikisme adalah filosofi praktis yang mengajarkan bahwa kebahagiaan sejati tidak bergantung pada keadaan eksternal (kekayaan, ketenaran, atau kesehatan), melainkan pada **kualitas karakter kita** dan cara kita memproses setiap kejadian di dunia ini.
+**Definisi Inti:** Stoikisme adalah filosofi praktis yang mengajarkan bahwa kebahagiaan sejati bergantung pada **kualitas karakter kita** dan cara kita memproses setiap kejadian di dunia ini. Keadaan eksternal seperti kekayaan, ketenaran, atau kesehatan tidak menentukannya.
 
 > "Filsafat tidak menjanjikan sesuatu yang bersifat eksternal bagi manusia. Jika menjanjikannya, ia akan menerima sesuatu yang berada di luar pokok bahasannya sendiri." - Epictetus
 
@@ -31,7 +31,7 @@ Dua konsep utama yang menjadi tujuan akhir dari perjalanan seorang Stoik adalah 
 
 ### 1\. Eudaimonia (Kemakmuran Jiwa)
 
-Sering diterjemahkan sebagai "kebahagiaan", tetapi makna aslinya lebih dalam: **berada dalam hubungan baik dengan batin yang luhur**. Ini bukan tentang perasaan senang yang sesaat (seperti makan es krim), melainkan kepuasan mendalam karena kita hidup sesuai dengan potensi terbaik kita sebagai manusia rasional.
+Kata ini sering diterjemahkan sebagai "kebahagiaan", padahal makna aslinya lebih dalam, yaitu **berada dalam hubungan baik dengan batin yang luhur**. Yang dimaksud adalah kepuasan mendalam karena kita hidup sesuai dengan potensi terbaik kita sebagai manusia rasional. Perasaan senang yang sesaat, seperti saat makan es krim, belum sampai ke sana.
 
 ### 2\. Ataraxia (Ketenteraman)
 
@@ -53,7 +53,7 @@ $$
 
 ## Menyaring Setiap Kejadian
 
-Meskipun Stoikisme adalah filsafat kuno, cara kerjanya sangat praktis. Seorang Stoik belajar menyaring setiap kejadian yang datang dengan satu pertanyaan: *"Apakah hal ini berada di bawah kendaliku?"*
+Meskipun Stoikisme adalah filsafat kuno, cara kerjanya sangat praktis. Seorang Stoik belajar menyaring setiap kejadian yang datang dengan bertanya, *"Apakah hal ini berada di bawah kendaliku?"*
 
 - **Jika berada di bawah kendali kamu:** ambil tindakan terbaik dengan kebajikan.
 - **Jika berada di luar kendali kamu:** terima dengan tenang (sikap yang kini sering disebut *Amor Fati*).
@@ -62,7 +62,7 @@ Misalnya, kamu terjebak macet total saat mau rapat penting. Kemacetan itu berada
 
 ## Mengapa Stoikisme Relevan Saat Ini?
 
-Stoikisme tidak meminta kamu untuk membuang harta atau menjadi pertapa. Sebaliknya, ia mengajarkan kamu untuk:
+Stoikisme tidak meminta kamu untuk membuang harta atau menjadi pertapa. Ia mengajarkan kamu untuk:
 
 1. **Menghadapi Ketidakpastian:** Di era ketika algoritma dan perubahan global tidak bisa diprediksi, Stoikisme memberikan stabilitas internal.
 2. **Mengurangi Kecemasan Sosial:** Kita sering menderita karena memikirkan pendapat orang lain. Stoikisme mengajarkan bahwa reputasi adalah "hal yang tidak penting secara moral" (*indifferent*).
@@ -74,7 +74,7 @@ Stoikisme tidak meminta kamu untuk membuang harta atau menjadi pertapa. Sebalikn
 
 > **Poin Utama untuk Diingat:**
 > 
-> - Stoikisme adalah alat praktis, bukan hanya teori.
+> - Stoikisme adalah alat praktis untuk menjalani hidup.
 > - Tujuannya adalah mencapai ketenangan (*ataraxia*) melalui pengembangan karakter.
 > - Filsafat ini membantu kita membedakan mana yang bisa diubah (pikiran dan tindakan kita) dan mana yang tidak (segala sesuatu di luar diri kita).
 

@@ -1,12 +1,12 @@
 ## Empat Kebajikan Utama (Cardinal Virtues)
 
-Bagi para filosof Stoik, tujuan hidup bukanlah kekayaan, ketenaran, atau sekadar menghindari rasa sakit. Tujuan utamanya adalah hidup dalam **Eudaimonia** (kebahagiaan yang timbul dari perkembangan jiwa) melalui **Arete** (kebajikan atau keunggulan karakter).
+Bagi para filosof Stoik, tujuan utama hidup adalah **Eudaimonia** (kebahagiaan yang timbul dari perkembangan jiwa). Jalan menuju ke sana adalah **Arete** (kebajikan atau keunggulan karakter). Kekayaan, ketenaran, atau sekadar terhindar dari rasa sakit tidak termasuk tujuan itu.
 
 Bayangkan hidup kamu sebagai sebuah kapal di tengah laut. Tanpa navigasi yang tepat, kamu akan terombang-ambing oleh emosi dan keadaan eksternal. **Empat Kebajikan Utama (Cardinal Virtues)** adalah kompas kamu. Kata "cardinal" sendiri berasal dari bahasa Latin *cardo* yang berarti "engsel", karena pada empat pilar inilah seluruh pintu menuju kehidupan yang bermakna berputar.
 
 ## 1\. Kebijaksanaan Praktis (Wisdom / Prudence - Phronesis)
 
-Kebijaksanaan dalam Stoikisme bukanlah sekadar kecerdasan akademis atau penguasaan teori. Ini adalah **Kebijaksanaan Praktis**, kemampuan untuk menavigasi situasi rumit dengan logika yang jernih.
+Kebijaksanaan dalam Stoikisme adalah **Kebijaksanaan Praktis**, kemampuan untuk menavigasi situasi rumit dengan logika yang jernih. Kecerdasan akademis atau penguasaan teori saja belum cukup untuk disebut bijaksana.
 
 **Definisi:** Kemampuan untuk membedakan antara apa yang baik, apa yang buruk, dan apa yang netral (indifferent).
 
@@ -26,7 +26,7 @@ Bagi kaum Stoik, Keadilan melampaui sekadar hukum legal di pengadilan. Ini adala
 - **Prinsip Utama:** Kita semua adalah bagian dari satu kesatuan yang besar. Jika sesuatu merugikan sarang lebah, maka itu juga merugikan lebah tersebut (analogi Marcus Aurelius).
 - **Dalam Praktik:** Kejujuran dalam bertransaksi, kebaikan hati kepada sesama, dan keberanian untuk membela kebenaran meskipun itu tidak populer.
 
-**Analogi:** Bayangkan sebuah orkestra. Keadilan adalah ketika setiap pemain memainkan instrumennya dengan tepat pada waktunya, bukan untuk menonjolkan diri sendiri, melainkan agar seluruh simfoni terdengar harmonis.
+**Analogi:** Bayangkan sebuah orkestra. Keadilan adalah ketika setiap pemain memainkan instrumennya dengan tepat pada waktunya agar seluruh simfoni terdengar harmonis, tanpa berusaha menonjolkan diri sendiri.
 
 ## 3\. Keberanian (Courage / Fortitude - Andreia)
 
@@ -45,11 +45,11 @@ Di dunia yang penuh dengan godaan konsumerisme dan kepuasan instan, *Temperance*
 
 **Definisi:** Penguasaan diri atas keinginan, nafsu, dan impuls. Ini adalah kemampuan untuk memilih apa yang cukup daripada apa yang diinginkan.
 
-- **Keseimbangan:** Bukan berarti hidup menderita (asketisme ekstrem), melainkan tidak menjadi budak dari kesenangan. Ini adalah tentang kontrol.
+- **Keseimbangan:** Menahan diri berarti tidak menjadi budak dari kesenangan. Ini soal kontrol, dan tidak menuntut hidup menderita (asketisme ekstrem).
 - **Prinsip:** *Mēden agan* (Jangan berlebihan dalam segala hal).
 - **Contoh:** Makan saat lapar tapi berhenti sebelum kekenyangan; menggunakan media sosial secukupnya untuk informasi tanpa terjerumus dalam distraksi berjam-jam.
 
-> **Poin Penting:** Menahan diri berarti kamu yang mengendalikan nafsu kamu, bukan nafsu kamu yang mengendalikan kamu.
+> **Poin Penting:** Menahan diri berarti kamu yang memegang kendali atas nafsu kamu.
 
 ## Kesatuan Kebajikan (Unity of Virtue)
 

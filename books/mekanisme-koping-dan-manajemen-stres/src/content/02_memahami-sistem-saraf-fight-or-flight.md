@@ -1,8 +1,8 @@
 ## Memahami Sistem Saraf Fight or Flight
 
-Pernahkah kamu merasa jantung berdegup kencang, napas memburu, dan telapak tangan berkeringat saat harus berbicara di depan umum? Atau ketika hampir mengalami kecelakaan di jalan raya? Reaksi tersebut bukan cuma rasa gugup biasa, tetapi sebuah mekanisme biologis yang telah menjaga nenek moyang kita tetap selamat selama ribuan tahun.
+Pernahkah kamu merasa jantung berdegup kencang, napas memburu, dan telapak tangan berkeringat saat harus berbicara di depan umum? Atau ketika hampir mengalami kecelakaan di jalan raya? Di balik rasa gugup itu bekerja sebuah mekanisme biologis yang telah menjaga nenek moyang kita tetap selamat selama ribuan tahun.
 
-Reaksi itu diatur oleh pusat kendali otomatis tubuh kamu: **Sistem Saraf Otonom**.
+Reaksi itu diatur oleh **Sistem Saraf Otonom**, pusat kendali otomatis tubuh kamu.
 
 ### 1. Sistem Saraf Otonom
 
@@ -57,21 +57,21 @@ Pernahkah kamu merasa sangat lelah atau mengantuk setelah melewati situasi yang 
 
 ### 4. Alarm Kebakaran yang Terlalu Sensitif
 
-Untuk memahami mengapa kita merasa stres di dunia modern, mari gunakan analogi berikut:
+Sebuah analogi bisa membantu kita memahami mengapa kita merasa stres di dunia modern.
 
 Sistem *fight-or-flight* kamu bekerja seperti sebuah **alarm kebakaran**. Di zaman purba, alarm ini berbunyi karena ada api nyata (seperti ancaman predator). Namun di dunia modern, sistem saraf kita sering kali terlalu sensitif. Alarm tersebut berbunyi keras hanya karena asap dari roti panggang (seperti email dari atasan, kemacetan lalu lintas, atau notifikasi media sosial).
 
-**Masalah utamanya:** Tubuh kamu tidak bisa membedakan antara ancaman fisik yang membahayakan nyawa dan tekanan psikologis. Keduanya memicu reaksi kimia yang sama kuatnya.
+Masalah utamanya ada pada tubuh kamu yang tidak bisa membedakan antara ancaman fisik yang membahayakan nyawa dan tekanan psikologis. Keduanya memicu reaksi kimia yang sama kuatnya.
 
 ### 5. *Freeze* (Membeku)
 
-Selain melawan (*fight*) atau lari (*flight*), ada reaksi otomatis ketiga yang sering terjadi: ***Freeze*** (membeku).
+Selain melawan (*fight*) atau lari (*flight*), ada reaksi otomatis ketiga yang sering terjadi, yaitu ***freeze*** (membeku).
 
 Reaksi ini terjadi ketika sistem saraf menilai bahwa melawan atau lari tidak mungkin dilakukan. Seperti rusa yang terpaku di depan lampu mobil, manusia dapat mengalami kelumpuhan sementara atau perasaan hampa (*dissociation*) saat tingkat stres melampaui batas kemampuan kopingnya.
 
 ### 6. Presentasi Kerja Penting
 
-Mari kita lihat bagaimana sistem ini bekerja dalam situasi sehari-hari:
+Mari kita lihat bagaimana sistem ini bekerja dalam situasi sehari-hari.
 
 **Skenario:** Kamu berdiri di depan ruang rapat untuk membawakan presentasi penting.
 
@@ -91,6 +91,6 @@ Mari kita lihat bagaimana sistem ini bekerja dalam situasi sehari-hari:
 | **Zat Kimia Utama** | Adrenalin & Kortisol | Asetilkolin (neurotransmiter) |
 
 > [!TIP]
-> **Pesan Penting:** Memahami bahwa reaksi tubuh kamu adalah proses biologis otomatis dapat membantu kamu merasa lebih tenang dan terkendali. Saat jantung berdebar karena stres, ingatkan diri kamu: *"Tubuhku sedang menyiapkan energi untuk menghadapi tantangan, bukan menandakan bahaya nyata."*
+> **Pesan Penting:** Memahami bahwa reaksi tubuh kamu adalah proses biologis otomatis dapat membantu kamu merasa lebih tenang dan terkendali. Saat jantung berdebar karena stres, ingatkan diri kamu: *"Tubuhku sedang menyiapkan energi untuk menghadapi tantangan. Tidak ada bahaya nyata di sini."*
 
 *Di bab selanjutnya (Teknik Pernapasan 4-7-8), kita akan mempelajari cara mengaktifkan rem parasimpatik secara manual kapan pun kita membutuhkannya.*

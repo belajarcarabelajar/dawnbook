@@ -8,7 +8,7 @@ Kondisi *flow* adalah keadaan yang sangat rapuh. Meskipun memberikan produktivit
 
 Di era modern, gangguan digital adalah penghambat nomor satu. Setiap kali ponsel kamu bergetar atau muncul notifikasi di sudut layar komputer, otak kamu mengalami apa yang disebut sebagai **Orienting Response**.
 
-Otak secara insting akan mengalihkan perhatian ke stimulus baru tersebut. Masalahnya bukan hanya pada waktu yang terbuang saat melihat ponsel, tetapi pada **Switching Cost** (biaya peralihan kognitif).
+Otak secara insting akan mengalihkan perhatian ke stimulus baru tersebut. Waktu yang terbuang saat melihat ponsel hanyalah awal masalahnya. Sisanya ada pada **Switching Cost** (biaya peralihan kognitif).
 
 > **Pesan Penting:** Dalam wawancara dengan Gallup pada 2006, peneliti Gloria Mark menyebut pekerjaan yang terputus rata-rata baru dilanjutkan **23 menit 15 detik** kemudian, biasanya setelah sekitar dua tugas lain dikerjakan lebih dulu.
 
@@ -38,7 +38,7 @@ Dalam kondisi stres tinggi:
 
 1. **Amigdala** (pusat emosi) mengambil alih kendali otak.
 2. **Prefrontal Cortex** (pusat logika dan fokus) menjadi kurang aktif.
-3. Hasilnya adalah kepanikan, bukan fokus.
+3. Kepanikan mengambil alih tempat fokus.
 
 *Tumpukan tugas yang terasa terlalu berat dapat membuat sistem saraf masuk ke mode "Freeze" - beku di tempat, tidak mampu memulai apa pun - yang merupakan kebalikan total dari kondisi flow.*
 
@@ -71,7 +71,7 @@ Mari kita terapkan ini dalam skenario profesional. Bayangkan seorang desainer gr
 **Solusi Perbaikan:**
 
 - Mengaktifkan mode **"Do Not Disturb"** selama 90 menit.
-- Menggunakan teknik **Time Blocking**: Dedikasikan waktu khusus untuk membalas pesan *setelah* sesi desain selesai.
+- Menggunakan teknik **Time Blocking**, yaitu mendedikasikan waktu khusus untuk membalas pesan *setelah* sesi desain selesai.
 - Menggunakan **Noise-Canceling Headphones** untuk menciptakan ruang isolasi suara.
 
 ## Penghambat, Dampak, dan Cara Mengatasinya

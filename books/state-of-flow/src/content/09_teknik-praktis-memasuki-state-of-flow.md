@@ -2,7 +2,7 @@
 
 Mengetahui apa itu *Flow* secara teori adalah satu hal, tetapi mampu memasukinya secara sengaja adalah keahlian yang berbeda. Jika teori adalah peta, maka latihan praktis adalah otot yang kamu gunakan untuk mendaki gunung tersebut.
 
-Bagian ini dirancang untuk membekali kamu dengan "peralatan" mental dan fisik agar *State of Flow* bukan lagi sebuah kebetulan yang jarang terjadi, melainkan sebuah kondisi yang bisa kamu masuki dengan sengaja.
+Bagian ini dirancang untuk membekali kamu dengan "peralatan" mental dan fisik agar *State of Flow* menjadi kondisi yang bisa kamu masuki dengan sengaja, tanpa menunggu kebetulan yang jarang terjadi.
 
 ## 1\. Manajemen Lingkungan
 
@@ -13,7 +13,7 @@ Otak kita sangat sensitif terhadap isyarat lingkungan. Jika meja kamu berantakan
 Bayangkan meja kerja kamu sebagai sebuah kokpit pesawat tempur. Setiap elemen harus mendukung misi utama kamu.
 
 - **Minimalisme Visual:** Bersihkan segala sesuatu yang tidak relevan dengan tugas saat ini dari pandangan mata.
-- **Isyarat Sensorik (Sauh):** Gunakan aroma tertentu (misalnya kopi atau minyak esensial) atau jenis musik tertentu yang hanya kamu dengarkan saat bekerja mendalam. Ini menciptakan asosiasi saraf: *"Aroma ini = Waktunya Flow."*
+- **Isyarat Sensorik (Sauh):** Gunakan aroma tertentu (misalnya kopi atau minyak esensial) atau jenis musik tertentu yang hanya kamu dengarkan saat bekerja mendalam. Ini menciptakan asosiasi saraf, seperti *"Aroma ini = Waktunya Flow."*
 - **Pencahayaan:** Pastikan pencahayaan cukup tetapi tidak menyilaukan. Cahaya alami sangat disarankan untuk menjaga ritme sirkadian.
 
 ### B. Lingkungan Digital
@@ -41,7 +41,7 @@ Sama seperti atlet profesional yang melakukan pemanasan sebelum bertanding, kamu
 
 ## 3\. Teknik "Pemicu Cepat" (Rapid Triggers)
 
-Untuk mempermudah transisi ke *Flow*, kamu bisa menggunakan beberapa teknik berikut dalam keseharian:
+Untuk mempermudah transisi ke *Flow*, kamu bisa menggunakan beberapa teknik berikut dalam keseharian.
 
 ### The 5-Minute Rule
 
@@ -70,13 +70,13 @@ Seorang programmer ingin menyelesaikan modul logika yang kompleks. Berikut adala
 
 1. **Persiapan:** Membuka IDE (Integrated Development Environment) dengan tema gelap yang konsisten.
 2. **Ritual:** Memutar daftar putar *Lo-fi Beats* (Isyarat Audio).
-3. **Implementasi Micro-Goal:** Bukannya menulis "Selesaikan fitur login", ia menulis catatan yang jauh lebih spesifik:
+3. **Implementasi Micro-Goal:** Ia menulis catatan yang jauh lebih spesifik daripada "Selesaikan fitur login":
    - **Tujuan:** memeriksa apakah email dan password yang diketik pengguna sudah sesuai pola penulisan yang benar (*regex*).
    - **Tugas pertama:** membuat pemeriksa email.
    - **Tugas kedua:** membuat pemeriksa password.
 4. **Deep Work Block:** Ia menggunakan timer 90 menit (durasi optimal siklus ultradian) tanpa interupsi sama sekali.
 
-> **Penting:** Jika di tengah jalan muncul ide lain (misal: "Oh, saya harus beli susu nanti"), jangan berhenti untuk melakukannya. Tulis ide tersebut di selembar kertas "Distraction List" di samping kamu, lalu kembali ke kode.
+> **Penting:** Jika di tengah jalan muncul ide lain (misalnya "Oh, saya harus beli susu nanti"), jangan berhenti untuk melakukannya. Tulis ide tersebut di selembar kertas "Distraction List" di samping kamu, lalu kembali ke kode.
 
 ## 6\. Checklist Persiapan Flow
 
@@ -88,6 +88,6 @@ Gunakan checklist ini sebelum kamu memulai tugas penting:
 - **Tantangan:** Apakah tugas ini cukup menantang (tidak terlalu mudah, tidak terlalu sulit)?
 - **Sauh:** Apakah ritual pembuka (musik/pernapasan) sudah dilakukan?
 
-> "Flow bukan tentang bekerja lebih keras, tetapi tentang bekerja lebih lancar dengan menyingkirkan hambatan antara niat dan tindakan."
+> "Flow berarti bekerja lebih lancar dengan menyingkirkan hambatan antara niat dan tindakan."
 
-*Catatan: Flow adalah keterampilan yang dilatih, bukan bakat bawaan. Pada awalnya, kamu mungkin hanya bisa bertahan selama 15 menit. Dengan latihan rutin, "jendela" fokus kamu akan melebar secara alami.*
+*Catatan: Flow adalah keterampilan yang terbentuk lewat latihan. Pada awalnya, kamu mungkin hanya bisa bertahan selama 15 menit. Dengan latihan rutin, "jendela" fokus kamu akan melebar secara alami.*

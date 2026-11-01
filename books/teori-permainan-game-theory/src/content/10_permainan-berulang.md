@@ -10,7 +10,7 @@ Apa yang membedakan satu kali pertemuan dengan pertemuan yang berulang? Jawabann
 
 > "Jika saya menipu kamu hari ini, saya mungkin untung sekarang. Tetapi jika saya harus bertemu kamu lagi besok, kamu mungkin tidak akan mau bekerja sama lagi dengan saya."
 
-Dalam permainan berulang, pemain harus mempertimbangkan bukan hanya hasil saat ini (payoff), tetapi juga dampak tindakan mereka terhadap hasil di masa depan. Konsep ini disebut sebagai **Shadow of the Future**. Semakin besar kemungkinan kita bertemu lagi di masa depan, semakin besar insentif kita untuk bekerja sama.
+Dalam permainan berulang, pemain harus menimbang hasil saat ini (payoff) sekaligus dampak tindakan mereka terhadap hasil di masa depan. Konsep ini disebut sebagai **Shadow of the Future**. Semakin besar kemungkinan kita bertemu lagi di masa depan, semakin besar insentif kita untuk bekerja sama.
 
 ### Faktor Diskonto (Discount Factor) $\delta$
 
@@ -37,7 +37,7 @@ Jika pemain tahu persis bahwa permainan akan berakhir pada ronde ke-10, muncul p
 2. Karena semua tahu semua orang akan curang di ronde ke-10, maka di ronde ke-9 tidak ada gunanya membangun kepercayaan. Pemain akan curang di ronde ke-9.
 3. Pola ini berlanjut hingga ke ronde pertama.
 
-*Coba renungkan: Jika kamu tahu seorang penyewa rumah akan pindah bulan depan dan tidak akan pernah bertemu kamu lagi, apakah kamu tetap memberikan pelayanan yang sama maksimalnya dengan penyewa yang baru saja menandatangani kontrak 5 tahun?*
+*Misalkan kamu tahu seorang penyewa rumah akan pindah bulan depan dan tidak akan pernah bertemu kamu lagi. Apakah kamu tetap memberikan pelayanan yang sama maksimalnya dengan penyewa yang baru saja menandatangani kontrak 5 tahun?*
 
 ### B. Permainan Berulang Tak Terbatas (Infinitely Repeated Games)
 
@@ -108,8 +108,8 @@ Ini menjelaskan mengapa di komunitas kecil atau pasar tradisional, orang-orang c
 
 Mari kita lihat bagaimana strategi ini bekerja selama lima ronde. Kamu memakai Tit-for-Tat, sedangkan lawanmu selalu bekerja sama kecuali sekali, yaitu di ronde ke-3, ketika ia curang. Poin setiap ronde memakai angka ilustrasi berikut:
 
-- Keduanya bekerja sama: masing-masing mendapat 3 poin.
-- Satu pihak curang dan pihak lain bekerja sama: yang curang mendapat 5 poin, yang dicurangi 0 poin.
+- Jika keduanya bekerja sama, masing-masing mendapat 3 poin.
+- Jika satu pihak curang dan pihak lain bekerja sama, yang curang mendapat 5 poin dan yang dicurangi 0 poin.
 
 | Ronde | Langkah kamu | Langkah lawan | Poin ronde (kamu, lawan) | Total poin (kamu, lawan) |
 | --- | --- | --- | --- | --- |
@@ -119,7 +119,7 @@ Mari kita lihat bagaimana strategi ini bekerja selama lima ronde. Kamu memakai T
 | 4 | Curang | Kerja sama | (5, 0) | (11, 11) |
 | 5 | Kerja sama | Kerja sama | (3, 3) | (14, 14) |
 
-Di ronde 3 kamu tertinggal 6 lawan 11 karena dicurangi. Di ronde 4 kamu membalas sesuai aturan Tit-for-Tat, sementara lawan sudah kembali bekerja sama, sehingga skor kembali imbang 11 lawan 11. Di ronde 5 kamu ikut bekerja sama lagi, dan setelah lima ronde kalian sama-sama mengantongi 14 poin. Sifat **tegas** dan **pemaaf** tadi terlihat langsung di tabel: satu kecurangan dibalas satu kali, lalu kerja sama pulih.
+Di ronde 3 kamu tertinggal 6 lawan 11 karena dicurangi. Di ronde 4 kamu membalas sesuai aturan Tit-for-Tat, sementara lawan sudah kembali bekerja sama, sehingga skor kembali imbang 11 lawan 11. Di ronde 5 kamu ikut bekerja sama lagi, dan setelah lima ronde kalian sama-sama mengantongi 14 poin. Tabel itu memperlihatkan sifat **tegas** dan **pemaaf** tadi. Satu kecurangan dibalas satu kali, lalu kerja sama pulih.
 
 ## 6. Permainan Berulang pada Maskapai, Perjanjian Internasional, dan Langganan
 
@@ -129,7 +129,7 @@ Dua maskapai penerbangan mungkin tergoda untuk menurunkan harga tiket secara dra
 
 ### Perjanjian Internasional
 
-Negara-negara mematuhi perjanjian pengurangan emisi atau nuklir bukan karena ada polisi dunia yang menangkap mereka, melainkan karena mereka tahu jika mereka melanggar janji, negara lain akan membatalkan kerja sama di bidang ekonomi atau keamanan di masa depan.
+Tidak ada polisi dunia yang menangkap negara pelanggar perjanjian pengurangan emisi atau nuklir. Negara-negara mematuhinya karena tahu bahwa jika mereka melanggar janji, negara lain akan membatalkan kerja sama di bidang ekonomi atau keamanan di masa depan.
 
 ### Langganan (Subscription Services)
 
@@ -137,7 +137,7 @@ Perusahaan seperti Netflix atau Spotify memperlakukan kamu dalam konteks permain
 
 ## Kesimpulan
 
-Permainan Berulang mengajarkan kita bahwa **etika dan kepercayaan bukan sekadar nilai moral, melainkan strategi matematika yang optimal**. Dalam interaksi yang berulang, bertindak egois dalam jangka pendek sering kali menjadi kerugian besar dalam jangka panjang.
+Permainan Berulang mengajarkan kita bahwa **etika dan kepercayaan adalah nilai moral sekaligus strategi matematika yang optimal**. Dalam interaksi yang berulang, bertindak egois dalam jangka pendek sering kali menjadi kerugian besar dalam jangka panjang.
 
 **Poin Utama untuk Diingat:**
 

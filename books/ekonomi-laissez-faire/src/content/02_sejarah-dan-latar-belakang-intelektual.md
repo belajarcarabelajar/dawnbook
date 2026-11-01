@@ -65,7 +65,7 @@ Ketika ide Adam Smith mulai diadopsi, negara-negara mulai menghapus tarif dan ha
 
 Meskipun teori-teori ini ditulis ratusan tahun lalu, logika di baliknya tetap relevan. Saat ini, ketika kita berdebat tentang apakah pemerintah harus mengatur harga tiket pesawat atau membatasi ekspor mineral mentah, kita sebenarnya sedang mengulangi perdebatan yang sama yang dimulai oleh Quesnay dan Smith.
 
-**Catatan Penting:** Laissez-faire dalam konteks sejarah tidak berarti "anarki". Para pemikir awal ini tetap mengakui bahwa hukum harus ada untuk melindungi hak milik dan memastikan kontrak dijalankan. Mereka hanya ingin agar pemerintah tidak menjadi pemain dalam permainan ekonomi, melainkan bertindak sebagai wasit.
+**Catatan Penting:** Para pemikir awal Laissez-faire tetap mengakui bahwa hukum harus ada untuk melindungi hak milik dan memastikan kontrak dijalankan. Dalam konteks sejarah, sistem ini jauh dari "anarki". Mereka hanya ingin pemerintah berdiri di luar permainan ekonomi dan bertindak sebagai wasit.
 
 *Jika kamu hidup di abad ke-18 dan melihat kemiskinan yang merajalela akibat monopoli kerajaan, apakah menurut kamu membiarkan pasar berjalan sendiri adalah solusi yang radikal atau solusi yang masuk akal? Bagaimana ide ini bisa disalahgunakan jika tidak ada aturan moral di belakangnya?*
 

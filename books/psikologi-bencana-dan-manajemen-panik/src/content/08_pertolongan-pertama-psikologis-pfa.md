@@ -2,7 +2,7 @@
 
 Bayangkan situasi darurat di lokasi kecelakaan massal atau sesaat setelah gempa bumi besar mengguncang. Di antara puing-puing reruntuhan, terlihat seorang penyintas yang secara fisik tidak mengalami luka terbuka parah, tetapi tubuhnya mematung, gemetaran hebat, dan pandangan matanya kosong. Langkah apa yang paling tepat untuk diambil dalam detik-detik awal krisis tersebut?
 
-Sama seperti luka fisik yang membutuhkan perban dan pembersihan antiseptik segera untuk mencegah infeksi sistemik, luka emosional akut akibat bencana membutuhkan intervensi awal yang terstruktur, yaitu **Pertolongan Pertama Psikologis** (*Psychological First Aid* atau PFA). PFA bukanlah terapi psikologis jangka panjang ataupun sesi konseling klinis mendalam; PFA berfungsi sebagai "perban mental" yang dirancang untuk menstabilkan kondisi emosional, mengurangi kepanikan akut, dan memulihkan rasa aman dasar.
+Sama seperti luka fisik yang membutuhkan perban dan pembersihan antiseptik segera untuk mencegah infeksi sistemik, luka emosional akut akibat bencana membutuhkan intervensi awal yang terstruktur, yaitu **Pertolongan Pertama Psikologis** (*Psychological First Aid* atau PFA). PFA berfungsi sebagai "perban mental" yang dirancang untuk menstabilkan kondisi emosional, mengurangi kepanikan akut, dan memulihkan rasa aman dasar. Terapi psikologis jangka panjang dan sesi konseling klinis mendalam berada di luar cakupannya.
 
 ---
 
@@ -19,7 +19,7 @@ Untuk menjaga keselamatan psikologis penyintas dan integritas penolong, penting 
 - **Bukan Terapi Klinis:** PFA tidak bertujuan mengobati gangguan kejiwaan mendalam atau menggantikan psikoterapi formal.
 - **Bukan Diagnosis Psikiatris:** Penolong tidak melakukan asesmen patologis atau melabeli kondisi penyintas dengan diagnosis medis tertentu.
 - **Bukan *Psychological Debriefing*:** PFA tidak memaksa penyintas merekonstruksi alur kejadian traumatis secara kronologis, karena pemaksaan narasi trauma pada fase akut dapat meningkatkan risiko retraumatisasi.
-- **Bukan Hanya untuk Profesional:** PFA dirancang agar dapat dipelajari dan diterapkan oleh relawan lapangan, petugas tanggap darurat, maupun masyarakat umum setelah melalui pelatihan terstandar.
+- **Tidak Terbatas pada Profesional:** PFA dirancang agar dapat dipelajari dan diterapkan oleh relawan lapangan, petugas tanggap darurat, maupun masyarakat umum setelah melalui pelatihan terstandar.
 
 ---
 
@@ -27,7 +27,7 @@ Untuk menjaga keselamatan psikologis penyintas dan integritas penolong, penting 
 
 Jika kotak P3K fisik berisi perban kasa, cairan antiseptik, dan plester steril, maka kotak P3K emosional berisi **kehadiran yang tenang, pendengaran aktif tanpa penghakiman, dan fasilitasi bantuan praktis**.
 
-Penolong di garis depan tidak bertugas "menjahit luka emosional" (psikoterapi), melainkan memastikan "pendarahan emosional" terkendali, penyintas merasa terlindungi, serta memiliki pijakan yang cukup stabil untuk melangkah ke fase penanganan lanjutan.
+Penolong di garis depan memastikan "pendarahan emosional" terkendali, penyintas merasa terlindungi, serta memiliki pijakan yang cukup stabil untuk melangkah ke fase penanganan lanjutan. Mereka tidak bertugas "menjahit luka emosional" lewat psikoterapi.
 
 ---
 
@@ -122,9 +122,9 @@ Seorang relawan bertugas di tenda pengungsian darurat beberapa jam pascakebakara
 2. **Inisiasi Kontak Empatik:**
    *"Selamat siang, Ibu. Saya relawan dari tim penanggulangan bencana. Tenda di sini agak ramai, bolehkah saya duduk di sebelah Ibu untuk menemani sebentar?"*
 3. **Penyediaan Bantuan Praktis:**
-   Menyodorkan segelas air mineral hangat tanpa memaksa penyintas untuk langsung berbicara. Memberikan penegasan kehadiran: *"Saya siap mendampingi jika Ibu membutuhkan bantuan untuk menghubungi keluarga atau memerlukan kebutuhan lain."*
+   Menyodorkan segelas air mineral hangat tanpa memaksa penyintas untuk langsung berbicara, lalu menegaskan kehadirannya dengan berkata, *"Saya siap mendampingi jika Ibu membutuhkan bantuan untuk menghubungi keluarga atau memerlukan kebutuhan lain."*
 4. **Stabilisasi Sensori (*Grounding*):**
-   Saat penyintas mulai menangis tersengal-sengal, relawan membimbing stabilisasi fisik: *"Ibu, mari kita tarik napas dalam bersama-sama melalui hidung, embuskan perlahan melalui mulut. Rasakan kedua telapak kaki Ibu menapak dengan kuat di atas tanah."*
+   Saat penyintas mulai menangis tersengal-sengal, relawan membimbing stabilisasi fisik sambil berkata, *"Ibu, mari kita tarik napas dalam bersama-sama melalui hidung, embuskan perlahan melalui mulut. Rasakan kedua telapak kaki Ibu menapak dengan kuat di atas tanah."*
 
 ---
 
@@ -150,4 +150,4 @@ Mendampingi individu yang terpapar tragedi kemanusiaan membawa beban emosional y
 - **Sesi Pembahasan Pascatugas (*Defusing & Peer Support*):** Luangkan waktu bersama tim atau supervisor untuk saling berbagi refleksi emosional tanpa penghakiman setelah menyelesaikan giliran tugas lapangan.
 - **Pemenuhan Kebutuhan Fisiologis Dasar:** Penolong tidak akan mampu memberikan proteksi optimal kepada orang lain apabila berada dalam kondisi dehidrasi, malnutrisi, atau kurang tidur.
 
-> **Prinsip Utama:** Hakikat dari Pertolongan Pertama Psikologis bukanlah menghapus jejak trauma secara instan, melainkan memberikan stabilitas awal agar penyintas mampu bertransisi dari fase disorientasi menuju kondisi yang terkendali. Ketenangan dan ketulusan penolong di lapangan sering kali menjadi pegangan bagi penyintas di tengah bencana.
+> **Prinsip Utama:** Hakikat Pertolongan Pertama Psikologis adalah memberikan stabilitas awal agar penyintas mampu bertransisi dari fase disorientasi menuju kondisi yang terkendali. Jejak trauma tidak terhapus secara instan. Ketenangan dan ketulusan penolong di lapangan sering kali menjadi pegangan bagi penyintas di tengah bencana.

@@ -2,11 +2,11 @@
 
 Bab-bab sebelumnya telah membawa kamu memahami apa itu *flow* dan bagaimana mekanisme biologis di balik kondisi ini bekerja. Sekarang kita melihat apa yang sedang dipersiapkan oleh sains dan teknologi di bidang ini.
 
-Dahulu, masuk ke kondisi *flow* dianggap sebagai sebuah "keberuntungan" atau hasil dari latihan disiplin selama bertahun-tahun. Namun, hari ini kita sedang memasuki era **"Flow on Demand"** - sebuah masa ketika kondisi alir bukan lagi sekadar kebetulan, melainkan sesuatu yang bisa dirancang, diinduksi, dan dioptimalkan secara presisi.
+Dahulu, masuk ke kondisi *flow* dianggap sebagai sebuah "keberuntungan" atau hasil dari latihan disiplin selama bertahun-tahun. Namun, hari ini kita sedang memasuki era **"Flow on Demand"** - sebuah masa ketika kondisi alir bisa dirancang, diinduksi, dan dioptimalkan secara presisi.
 
 ## 1\. Teknologi Induksi Flow
 
-Riset masa depan tidak lagi hanya bertanya "Apa itu *flow*?", melainkan "Bagaimana kita bisa memicu *flow* dengan menekan satu tombol?". Beberapa teknologi mutakhir yang sedang dikembangkan meliputi:
+Pertanyaan riset masa depan bergeser dari "Apa itu *flow*?" ke "Bagaimana kita bisa memicu *flow* dengan menekan satu tombol?". Beberapa teknologi mutakhir yang sedang dikembangkan untuk menjawabnya dibahas berikut.
 
 ### A. Brain-Computer Interfaces (BCI) & Neurofeedback
 
@@ -22,7 +22,7 @@ Penggunaan **tDCS (transcranial Direct Current Stimulation)** atau **tACS (trans
 
 ### C. Wearables dan Biometrik Terintegrasi
 
-Di masa depan, jam tangan pintar atau cincin pintar tidak hanya menghitung langkah kaki, tetapi juga memantau **Heart Rate Variability (HRV)**.
+Di masa depan, jam tangan pintar atau cincin pintar akan memantau **Heart Rate Variability (HRV)** selain menghitung langkah kaki.
 
 - **Aplikasi:** Saat HRV kamu menunjukkan tingkat stres tertentu yang menghalangi *flow*, lampu ruangan atau musik di sekitar kamu akan berubah secara otomatis untuk menurunkan tingkat kecemasan (anxiety) dan membawa kamu kembali ke *Flow Channel*.
 
@@ -32,7 +32,7 @@ Industri game adalah pelopor dalam penerapan teori *flow*. Namun, masa depannya 
 
 Pernahkah kamu merasa sebuah game tiba-tiba menjadi terlalu sulit atau justru terlalu membosankan? Riset masa depan berfokus pada algoritma **Dynamic Difficulty Adjustment (DDA)** yang didukung oleh AI.
 
-- **Skenario:** Jika AI mendeteksi kamu mulai sering melakukan kesalahan (indikasi *Anxiety*), ia tidak akan sekadar mengurangi nyawa musuh, melainkan mengubah tata letak level secara *procedural* agar sesuai dengan gaya bermain kamu.
+- **Skenario:** Jika AI mendeteksi kamu mulai sering melakukan kesalahan (indikasi *Anxiety*), ia akan mengubah tata letak level secara *procedural* agar sesuai dengan gaya bermain kamu.
 - **Real-world Application:** Game seperti *Left 4 Dead* telah menggunakan "AI Director", tetapi masa depan akan melibatkan pengenalan emosi melalui kamera wajah atau sensor detak jantung pemain untuk memastikan pemain tetap berada dalam keseimbangan matematis:
    $$\frac{\text{Tantangan}}{\text{Keterampilan}} \approx 1$$
 
@@ -48,13 +48,13 @@ Materi pelajaran akan dipecah menjadi unit-unit kecil yang memiliki struktur sep
 
 ### Lingkungan Belajar Imersif (VR/AR)
 
-Dengan **Virtual Reality (VR)**, seorang siswa sejarah tidak lagi membaca tentang Roma Kuno; ia "berada" di sana.
+Dengan **Virtual Reality (VR)**, seorang siswa sejarah "berada" langsung di Roma Kuno yang sedang ia pelajari.
 
 > **Penting:** Imersi total dalam VR meminimalkan gangguan eksternal (distraksi), yang merupakan musuh utama *flow*. Saat seluruh bidang pandang dan pendengaran kamu terkunci pada satu tugas, ambang batas untuk masuk ke kondisi alir menjadi jauh lebih rendah.
 
 ## 4\. Ruang Kerja "The Flow Hub"
 
-Bayangkan sebuah ruang kerja masa depan yang disebut **"Flow Hub"**. Ini bukan sekadar kantor *open-space*, melainkan lingkungan yang adaptif secara biologis.
+Bayangkan sebuah ruang kerja masa depan yang disebut **"Flow Hub"**. Ruang ini dirancang sebagai lingkungan yang adaptif secara biologis.
 
 **Skenario Penggunaan:**
 
@@ -74,8 +74,8 @@ Meskipun terdengar menjanjikan, riset masa depan juga menghadapi dilema etis yan
 
 ## Flow sebagai Literasi Baru
 
-Masa depan riset *state of flow* tidak lagi memandang kondisi ini sebagai sesuatu yang mistis. Kita sedang bergerak menuju dunia tempat **kemampuan untuk masuk ke dalam flow dianggap sebagai literasi dasar**, sama pentingnya dengan membaca atau berhitung.
+Masa depan riset *state of flow* melepaskan kondisi ini dari kesan mistis. Kita sedang bergerak menuju dunia tempat **kemampuan untuk masuk ke dalam flow dianggap sebagai literasi dasar**, sama pentingnya dengan membaca atau berhitung.
 
-Dengan bantuan AI, neurosains, dan desain yang cerdas, kita tidak hanya akan bekerja lebih cepat, tetapi juga lebih bahagia, karena kita menghabiskan lebih banyak waktu dalam kondisi saat kesadaran diri menghilang dan keahlian kita berada di puncaknya.
+Dengan bantuan AI, neurosains, dan desain yang cerdas, kita akan bekerja lebih cepat dan lebih bahagia, karena kita menghabiskan lebih banyak waktu dalam kondisi saat kesadaran diri menghilang dan keahlian kita berada di puncaknya.
 
-> "Masa depan bukan tentang bekerja lebih keras, tetapi tentang hidup lebih banyak dalam alir (flow)."
+> "Masa depan adalah tentang hidup lebih banyak dalam alir (flow)."

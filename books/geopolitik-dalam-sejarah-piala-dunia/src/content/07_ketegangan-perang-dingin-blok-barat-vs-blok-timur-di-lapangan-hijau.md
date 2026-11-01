@@ -1,6 +1,6 @@
 ## Ketegangan Perang Dingin di Lapangan Hijau
 
-Selama periode 1947 hingga 1991, Piala Dunia FIFA menjadi medan persaingan politik yang sengit. Di sana berlangsung "perang tanpa tembakan", meminjam istilah George Orwell, antara dua ideologi besar: **Kapitalisme (Blok Barat)** yang dipimpin Amerika Serikat dan **Komunisme (Blok Timur)** yang dipimpin Uni Soviet.
+Selama periode 1947 hingga 1991, Piala Dunia FIFA menjadi medan persaingan politik yang sengit. Di sana berlangsung "perang tanpa tembakan", meminjam istilah George Orwell, antara dua ideologi besar, yaitu **Kapitalisme (Blok Barat)** yang dipimpin Amerika Serikat dan **Komunisme (Blok Timur)** yang dipimpin Uni Soviet.
 
 Dalam bab ini, kita akan membedah bagaimana lapangan hijau menjadi instrumen validasi ideologi, tempat setiap gol dianggap sebagai kemenangan sistem politik.
 
@@ -34,7 +34,7 @@ Semua bermula ketika kudeta militer pimpinan Jenderal Augusto Pinochet, yang did
 
 ### Spionase dan Defeksi di Luar Lapangan
 
-Dalam atmosfer Perang Dingin, perpindahan pemain ke seberang blok dianggap sebagai tindakan **Defeksi** (pelarian politik), jauh melampaui transaksi transfer klub komersial.
+Dalam atmosfer Perang Dingin, perpindahan pemain ke seberang blok dianggap sebagai tindakan **Defeksi** (pelarian politik).
 
 Salah satu contohnya terjadi saat Revolusi Hungaria ditumpas oleh tank-tank Uni Soviet pada tahun 1956. Bintang-bintang sepak bola mereka, termasuk Ferenc Puskás, sedang berada di luar negeri ketika konflik pecah. Mereka menolak pulang dan memilih membelot ke Spanyol yang berada di bawah pengaruh Blok Barat, memberikan tamparan keras bagi harga diri olahraga Blok Timur.
 

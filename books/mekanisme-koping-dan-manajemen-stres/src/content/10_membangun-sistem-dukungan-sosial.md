@@ -2,7 +2,7 @@
 
 Pernahkah kamu membayangkan mencoba mengangkat sebuah balok kayu yang sangat berat sendirian? Kamu mungkin bisa menggesernya sedikit, tetapi punggungmu akan terasa sakit dan tenagamu akan terkuras habis. Sekarang, bayangkan jika ada empat orang teman yang datang dan masing-masing memegang satu sudut balok tersebut. Beban yang tadinya terasa berat menjadi ringan, bahkan kamu bisa memindahkannya sambil berbincang.
 
-Inilah inti dari *social support system* (sistem dukungan sosial). Dalam manajemen stres, dukungan sosial lebih dari sekadar tempat berkumpul atau mencari teman mengobrol. Ini adalah jaring pengaman emosional dan praktis yang menjaga kita agar tidak jatuh terpuruk saat beban hidup terasa terlalu berat.
+Inilah inti dari *social support system* (sistem dukungan sosial). Dalam manajemen stres, dukungan sosial berperan sebagai jaring pengaman emosional dan praktis yang menjaga kita agar tidak jatuh terpuruk saat beban hidup terasa terlalu berat.
 
 ### 1. Mengapa Manusia Membutuhkan Koneksi? (Perspektif Biopsikososial)
 
@@ -27,16 +27,16 @@ $$
 
 Dukungan sosial tidak selalu berbentuk kata-kata penyemangat. Menurut para ahli psikologi, terdapat empat pilar jenis dukungan utama yang kita butuhkan:
 
-1. **Dukungan Emosional (*Emotional Support*):** Berupa empati, kasih sayang, kepercayaan, dan kepedulian. Ini terjadi saat seseorang mendengarkan keluh kesahmu tanpa menghakimi. *Contoh: Seorang sahabat yang memelukmu saat kamu sedang merasa tertekan.*
-2. **Dukungan Instrumental (*Tangible Support*):** Bantuan nyata berupa barang atau jasa yang secara langsung menyelesaikan masalah. *Contoh: Tetangga yang meminjamkan kendaraan saat darurat atau teman yang mengantarkan makanan saat kamu sakit.*
-3. **Dukungan Informatif (*Informational Support*):** Pemberian saran, petunjuk, atau informasi yang dapat membantu memecahkan masalah. *Contoh: Rekan kerja yang memberi tahu cara menggunakan perangkat lunak baru yang sempat membuatmu bingung.*
-4. **Dukungan Penilaian (*Appraisal Support*):** Informasi yang berguna untuk evaluasi diri. Ini membantu kita melihat situasi dari sudut pandang yang lebih jernih. *Contoh: Teman yang mengingatkan, "Ingat tidak, tahun lalu kamu pernah menghadapi masalah yang lebih berat dan berhasil melaluinya? Kamu pasti bisa kali ini."*
+1. **Dukungan Emosional (*Emotional Support*):** Berupa empati, kasih sayang, kepercayaan, dan kepedulian. Ini terjadi saat seseorang mendengarkan keluh kesahmu tanpa menghakimi. *Misalnya, seorang sahabat yang memelukmu saat kamu sedang merasa tertekan.*
+2. **Dukungan Instrumental (*Tangible Support*):** Bantuan nyata berupa barang atau jasa yang secara langsung menyelesaikan masalah. *Contohnya, tetangga yang meminjamkan kendaraan saat darurat atau teman yang mengantarkan makanan saat kamu sakit.*
+3. **Dukungan Informatif (*Informational Support*):** Pemberian saran, petunjuk, atau informasi yang dapat membantu memecahkan masalah. *Misalnya, rekan kerja yang memberi tahu cara menggunakan perangkat lunak baru yang sempat membuatmu bingung.*
+4. **Dukungan Penilaian (*Appraisal Support*):** Informasi yang berguna untuk evaluasi diri. Ini membantu kita melihat situasi dari sudut pandang yang lebih jernih. *Contohnya, teman yang mengingatkan, "Ingat tidak, tahun lalu kamu pernah menghadapi masalah yang lebih berat dan berhasil melaluinya? Kamu pasti bisa kali ini."*
 
 > **Refleksi Mandiri:** Dari keempat jenis dukungan di atas, mana yang paling sering kamu berikan kepada orang lain? Dan mana jenis dukungan yang paling sulit kamu minta saat sedang mengalami stres?
 
 ### 3. Strategi Membangun Jaringan Pendukung yang Sehat
 
-Membangun sistem dukungan tidak diukur dari kuantitas pengikut di media sosial, melainkan dari kualitas dan kedalaman hubungan interpersonal.
+Sistem dukungan diukur dari kualitas dan kedalaman hubungan interpersonal. Jumlah pengikut di media sosial tidak masuk hitungan.
 
 #### A. Memetakan Jaringan Saat Ini
 
@@ -51,7 +51,7 @@ Gunakan teknik **"Lingkaran Dukungan"** (*Support Circles*) untuk memetakan siap
 1. **Jadilah Pendengar Aktif (*Active Listening*):** Sebelum ingin didengar, belajarlah mendengarkan dengan penuh perhatian. Hubungan yang sehat selalu bersifat resiprokal.
 2. **Tunjukkan Kerentanan (*Vulnerability*):** Jangan takut terlihat tidak sempurna. Mengakui bahwa kamu sedang menghadapi kesulitan justru sering kali membuat hubungan menjadi lebih dekat.
 3. **Investasi Waktu:** Hubungan memerlukan pemeliharaan rutin. Kirimkan pesan singkat, ajak minum kopi, atau sekadar menanyakan kabar tanpa ada agenda khusus.
-4. **Diversifikasi Jaringan:** Jangan bergantung hanya pada satu orang (misalnya pasangan saja). Miliki orang yang tepat untuk situasi yang tepat: teman A untuk urusan hobi, teman B untuk tempat curhat emosional, dan keluarga untuk bantuan praktis.
+4. **Diversifikasi Jaringan:** Jangan bergantung hanya pada satu orang (misalnya pasangan saja). Miliki orang yang tepat untuk situasi yang tepat, misalnya teman A untuk urusan hobi, teman B untuk tempat curhat emosional, dan keluarga untuk bantuan praktis.
 
 ### 4. Memilih Komunitas yang Tepat
 
@@ -63,7 +63,7 @@ Kadang-kadang, lingkaran sosial yang kita miliki saat ini belum cukup memberikan
 
 ### 5. *Burnout* di Tempat Kerja
 
-Mari kita lihat perbedaan dampak penggunaan dukungan sosial dalam skenario nyata:
+Mari kita lihat perbedaan dampak penggunaan dukungan sosial dalam skenario nyata.
 
 **Situasi Andi**
 *Andi merasa sangat tertekan karena beban kerja yang berlebihan dan tenggat waktu yang ketat.*
@@ -90,6 +90,6 @@ Tidak semua interaksi sosial memberikan dampak positif. Kamu perlu membedakan an
 
 ### Tidak Menanggung Beban Sendirian
 
-Membangun sistem dukungan sosial memperkuat ketahanan (*resilience*) emosionalmu dalam jangka panjang. Kita tidak harus menanggung seluruh beban sendirian. Dengan membangun koneksi yang sehat, kita tidak hanya belajar cara bertahan dari stres, tetapi juga cara untuk tumbuh dan berkembang bersama orang lain.
+Membangun sistem dukungan sosial memperkuat ketahanan (*resilience*) emosionalmu dalam jangka panjang. Kita tidak harus menanggung seluruh beban sendirian. Dengan membangun koneksi yang sehat, kita belajar bertahan dari stres sekaligus tumbuh dan berkembang bersama orang lain.
 
-*Mari mulai hari ini: Hubungi satu orang yang sudah lama tidak kamu ajak bicara, atau carilah satu komunitas yang sesuai dengan minatmu. Langkah kecil ini bisa menjadi awal dari sistem dukungan yang akan membantumu di masa depan.*
+*Mari mulai hari ini. Hubungi satu orang yang sudah lama tidak kamu ajak bicara, atau carilah satu komunitas yang sesuai dengan minatmu. Langkah kecil ini bisa menjadi awal dari sistem dukungan yang akan membantumu di masa depan.*

@@ -4,9 +4,9 @@ Ada bab-bab kelam dalam sejarah olahraga dunia, dan kisah sepak bola Italia pada
 
 ## Mussolini dan Sepak Bola
 
-Pada awal 1930-an, Italia berada di bawah kediktatoran **Benito Mussolini**, sang *Il Duce*. Bagi Mussolini, sepak bola jauh melampaui permainan sebelas lawan sebelas di lapangan hijau. Olahraga ini adalah instrumen politik untuk membuktikan kejantanan, disiplin, dan keunggulan rasial bangsa Italia.
+Pada awal 1930-an, Italia berada di bawah kediktatoran **Benito Mussolini**, sang *Il Duce*. Bagi Mussolini, pertandingan sebelas lawan sebelas di lapangan hijau adalah instrumen politik untuk membuktikan kejantanan, disiplin, dan keunggulan rasial bangsa Italia.
 
-Piala Dunia 1934 adalah edisi kedua turnamen ini. Mussolini memastikan Italia memegang peran ganda: sebagai tuan rumah sekaligus tim yang mendominasi. Ini adalah prototipe pertama dari apa yang sekarang kita kenal sebagai *sportswashing*, yakni menggunakan acara olahraga besar untuk membersihkan citra rezim yang represif dan memamerkan kekuatan negara kepada dunia.
+Piala Dunia 1934 adalah edisi kedua turnamen ini. Mussolini memastikan Italia menjadi tuan rumah sekaligus tim yang mendominasi. Ini adalah prototipe pertama dari apa yang sekarang kita kenal sebagai *sportswashing*, yakni menggunakan acara olahraga besar untuk membersihkan citra rezim yang represif dan memamerkan kekuatan negara kepada dunia.
 
 ## Strategi Propaganda Mussolini
 
@@ -20,7 +20,7 @@ Rezim fasis membangun dan merenovasi stadion-stadion megah seperti **Stadio Nazi
 
 Tim nasional Italia diposisikan sebagai representasi dari "Manusia Fasis Baru" yang kuat, disiplin, dan patuh. Para pemain diwajibkan melakukan hormat fasis (*saluto fascista*) sebelum pertandingan dimulai.
 
-Pesan yang tersirat dari semua itu cukup jelas: lewat semangat dan kemenangan para atletnya, rezim ingin memperlihatkan kepada dunia apa itu fasisme.
+Semua itu membawa pesan tersirat. Lewat semangat dan kemenangan para atletnya, rezim ingin memperlihatkan kepada dunia apa itu fasisme.
 
 ### 3. Media dan Manipulasi Informasi
 
@@ -38,7 +38,7 @@ Sejarah mencatat banyak kecurigaan mengenai keberpihakan wasit terhadap Italia s
 
 ### Kasus "Oriundi"
 
-Untuk memperkuat tim, Italia menggunakan kebijakan **Oriundi**, yaitu merekrut pemain-pemain kelahiran Amerika Selatan (terutama Argentina) yang memiliki darah Italia. Meskipun langkah ini tampak bertentangan dengan retorika nasionalisme murni, Mussolini menutup mata demi satu tujuan: **Kemenangan**.
+Untuk memperkuat tim, Italia menggunakan kebijakan **Oriundi**, yaitu merekrut pemain-pemain kelahiran Amerika Selatan (terutama Argentina) yang memiliki darah Italia. Meskipun langkah ini tampak bertentangan dengan retorika nasionalisme murni, Mussolini menutup mata demi satu tujuan, yaitu **kemenangan**.
 
 <div>
 $$

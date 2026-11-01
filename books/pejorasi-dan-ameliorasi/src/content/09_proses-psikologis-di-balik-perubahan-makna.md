@@ -4,7 +4,7 @@ Perubahan makna kata berakar pada dinamika kognitif otak manusia yang menghubung
 
 Kerap muncul pertanyaan mengenai alasan sebuah kata yang dahulu terdengar wajar tiba-tiba terasa menyakitkan atau merendahkan. Sebaliknya, terdapat pula istilah yang dahulu dianggap tabu tetapi kini menjadi sebutan terhormat.
 
-Pergeseran makna seperti **ameliorasi** (peningkatan nilai rasa) dan **pejorasi** (penurunan nilai rasa) berawal dari kerja kognitif di dalam benak manusia. Bahasa bukan sekadar kumpulan definisi kamus, melainkan sistem dinamis yang bergantung pada psikologi massa serta persepsi individu.
+Pergeseran makna seperti **ameliorasi** (peningkatan nilai rasa) dan **pejorasi** (penurunan nilai rasa) berawal dari kerja kognitif di dalam benak manusia. Bahasa bergerak sebagai sistem dinamis yang bergantung pada psikologi massa serta persepsi individu.
 
 ### 1. Mekanisme Asosiasi antara Label dan Isi di Dalam Otak
 
@@ -56,7 +56,7 @@ Hal tersebut terjadi karena skema mental mengaitkan *koruptor* dengan figur berd
 
 ### 4. Konformitas Sosial dan Psikologi Massa
 
-Perubahan makna tidak berlangsung secara terisolasi pada individu tunggal. Bahasa merupakan produk kesepakatan sosial. Secara psikologis, manusia memiliki kecenderungan bawaan menuju **konformitas**, yaitu dorongan untuk menyelaraskan perilaku dan pilihan kata dengan kelompok sosialnya.
+Perubahan makna berlangsung di tingkat kelompok, sebab bahasa merupakan produk kesepakatan sosial. Secara psikologis, manusia memiliki kecenderungan bawaan menuju **konformitas**, yaitu dorongan untuk menyelaraskan perilaku dan pilihan kata dengan kelompok sosialnya.
 
 Ketika mayoritas masyarakat memandang penggunaan kata tertentu sebagai bentuk pelecehan atau perendahan, penutur lain akan menghindari kata tersebut agar tidak dicap tidak beradab. Tekanan konformitas sosial inilah yang mendorong adopsi istilah-istilah amelioratif baru, seperti peralihan dari sebutan *cacat* menuju *difabel* atau *penyandang disabilitas*.
 
@@ -65,7 +65,7 @@ Ketika mayoritas masyarakat memandang penggunaan kata tertentu sebagai bentuk pe
 Dalam komunikasi profesional dan strategis, pemahaman atas psikologi perubahan semantik menjadi dasar penjenamaan (*branding*). Praktisi komunikasi merancang pilihan kata secara cermat demi menghindari asosiasi pejoratif yang tidak disengaja.
 
 **Skenario Penjenamaan Produk:**
-Sebuah perusahaan pangan tidak akan mencantumkan label "Sisa Olahan Daging", karena kata *sisa* memicu skema mental terkait limbah dan kualitas rendah (berkonotasi pejoratif). Sebaliknya, label yang dipilih adalah "Daging Olahan Pilihan" atau "Daging Olahan Premium" (berkonotasi positif) guna mengaktifkan asosiasi mutu tinggi dan eksklusivitas.
+Sebuah perusahaan pangan akan memilih label "Daging Olahan Pilihan" atau "Daging Olahan Premium" (berkonotasi positif) guna mengaktifkan asosiasi mutu tinggi dan eksklusivitas. Label "Sisa Olahan Daging" dihindari karena kata *sisa* memicu skema mental terkait limbah dan kualitas rendah (berkonotasi pejoratif).
 
 Pilihan kata dalam konteks formal mengikuti logika yang sama. Dari setiap pasangan berikut, kata yang cenderung dipilih adalah yang bernilai rasa lebih positif (*betina* lazim dipakai untuk hewan, sehingga terasa merendahkan bila dipakai untuk manusia):
 

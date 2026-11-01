@@ -1,6 +1,6 @@
 ## Faktor Sosial dan Budaya dalam Pergeseran Makna
 
-Pergeseran nilai rasa kata dalam semantik banyak dipengaruhi transformasi norma sosial, perkembangan budaya, dan dinamika struktur kekuasaan masyarakat. Perubahan nilai rasa, baik ameliorasi maupun pejorasi, tidak berlangsung terpisah dari masyarakat, melainkan bertumpu pada cara pandang kolektif yang terus berevolusi seiring berjalannya waktu.
+Pergeseran nilai rasa kata dalam semantik banyak dipengaruhi transformasi norma sosial, perkembangan budaya, dan dinamika struktur kekuasaan masyarakat. Perubahan nilai rasa, baik ameliorasi maupun pejorasi, bertumpu pada cara pandang kolektif masyarakat yang terus berevolusi seiring berjalannya waktu.
 
 Sering kali muncul fenomena saat sebuah kata yang pada masa lampau terdengar wajar kini dihindari karena dinilai kurang sopan. Sebaliknya, kata yang dahulu berkedudukan rendah kini dapat bergeser menjadi sebutan terhormat karena adanya perubahan apresiasi kultural.
 
@@ -91,7 +91,7 @@ Keterangan parameter:
 
 ### Poin Penting
 
-Pergeseran makna melalui ameliorasi dan pejorasi membuktikan bahwa bahasa mencerminkan perubahan masyarakat penuturnya. Pemahaman semantik yang utuh tidak hanya bertumpu pada dokumentasi kamus statis, melainkan menuntut kepekaan terhadap perubahan sosial, konvensi etika, dan relasi antarwarga.
+Pergeseran makna melalui ameliorasi dan pejorasi membuktikan bahwa bahasa mencerminkan perubahan masyarakat penuturnya. Pemahaman semantik yang utuh berangkat dari dokumentasi kamus, lalu menuntut kepekaan terhadap perubahan sosial, konvensi etika, dan relasi antarwarga.
 
 > Pemahaman terhadap faktor sosial dan budaya dalam bahasa memperkuat empati komunikatif. Mengetahui nilai rasa kata memungkinkan penutur menghargai martabat mitra tutur sekaligus merawat kesantunan dalam ruang publik.
 

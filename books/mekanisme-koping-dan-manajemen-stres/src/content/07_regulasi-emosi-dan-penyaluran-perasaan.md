@@ -2,7 +2,7 @@
 
 Pernahkah kamu merasa seperti bendungan yang hampir jebol karena debit air terlalu besar? Air tersebut menggambarkan emosi kamu (kemarahan, kesedihan, atau kecemasan) yang jika terus ditekan tanpa penyaluran memadai akan meluap dan menimbulkan kerusakan.
 
-Regulasi emosi (*emotion regulation*) memfokuskan perhatian pada pengelolaan arus perasaan agar tetap terkendali dan tersalurkan secara produktif, bukan menekan atau meniadakan emosi tersebut. Bab ini membahas cara mengenali, memberi nama, dan melepaskan emosi melalui teknik yang teruji secara neurosains dan psikologis.
+Regulasi emosi (*emotion regulation*) memfokuskan perhatian pada pengelolaan arus perasaan agar tetap terkendali dan tersalurkan secara produktif, tanpa menekan atau meniadakan emosi tersebut. Bab ini membahas cara mengenali, memberi nama, dan melepaskan emosi melalui teknik yang teruji secara neurosains dan psikologis.
 
 ### 1. Prinsip "Name It to Tame It"
 
@@ -13,7 +13,7 @@ Penelitian neurosains menunjukkan bahwa saat seseorang memberi nama pada emosi y
 > **Prinsip Utama:** Giving a name to a feeling is the first step toward regaining control. (Memberi nama pada perasaan adalah langkah awal mengambil kembali kendali atas diri kamu).
 
 **Cara Mempraktikkan Labeling:**
-Hindari sekadar mengelompokkan perasaan menjadi "saya merasa buruk". Gunakan *Emotional Wheel* (Roda Emosi) untuk melacak lebih spesifik:
+Label "saya merasa buruk" masih terlalu umum. Gunakan *Emotional Wheel* (Roda Emosi) untuk melacak lebih spesifik:
 - Apakah itu **marah** (*anger*), atau sebenarnya **kecewa** (*disappointment*)?
 - Apakah itu **takut** (*fear*), atau sebenarnya merasa **terancam** (*threatened*)?
 - Apakah itu **sedih** (*sadness*), atau sebenarnya merasa **kesepian** (*loneliness*)?
@@ -77,6 +77,6 @@ Persiapkan strategi respons sebelum gelombang emosi meluap. Isilah tabel panduan
 | **Ekspresi Kreatif** | Mendengarkan *playlist* musik penenang atau menyusun *puzzle*. |
 | **Penyaluran Fisik** | Berjalan kaki tempo cepat selama 15 menit saat merasakan sensasi marah atau meledak. |
 
-> **Catatan Penting:** Regulasi emosi adalah keterampilan yang diasah melalui latihan berkelanjutan, bukan bakat bawaan. Semakin sering kamu melatih kebiasaan memberi nama pada emosi dan menyalurkannya secara tepat, semakin tangguh kapasitas koping kamu saat menghadapi tantangan di masa depan.
+> **Catatan Penting:** Regulasi emosi adalah keterampilan yang terasah lewat latihan berkelanjutan. Semakin sering kamu melatih kebiasaan memberi nama pada emosi dan menyalurkannya secara tepat, semakin tangguh kapasitas koping kamu saat menghadapi tantangan di masa depan.
 
 > "Kamu tidak bisa menghentikan ombak, tetapi kamu bisa belajar berselancar." Kalimat ini adalah keterangan pada poster yang menampilkan Swami Satchidananda berselancar, seperti dikisahkan Jon Kabat-Zinn dalam *Wherever You Go, There You Are* (1994).

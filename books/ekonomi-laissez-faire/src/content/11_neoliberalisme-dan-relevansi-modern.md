@@ -1,12 +1,12 @@
 ## Neoliberalisme dan Relevansi Modern
 
-Setelah memahami fondasi klasik **Laissez-faire**, kita kini sampai pada babak modernnya: **Neoliberalisme**. Jika **Laissez-faire** adalah "leluhur" yang lahir di era Revolusi Industri, maka **Neoliberalisme** adalah "keturunan" yang beradaptasi dengan dunia digital, finansial, dan globalisasi saat ini.
+Setelah memahami fondasi klasik **Laissez-faire**, kita kini sampai pada babak modernnya yang bernama **Neoliberalisme**. Jika **Laissez-faire** adalah "leluhur" yang lahir di era Revolusi Industri, maka **Neoliberalisme** adalah "keturunan" yang beradaptasi dengan dunia digital, finansial, dan globalisasi saat ini.
 
 Dalam bagian ini, kita akan mengevaluasi bagaimana prinsip-prinsip kebebasan pasar bangkit kembali dan mendominasi kebijakan ekonomi global sejak akhir abad ke-20 hingga hari ini.
 
 ## 1. Apa Itu Neoliberalisme?
 
-Secara sederhana, **neoliberalisme** adalah kebangkitan kembali ide-ide ekonomi pasar bebas abad ke-19. Konsep ini tidak sebatas membiarkan pasar berjalan sendiri, melainkan sebuah rancangan terencana untuk membentuk masyarakat tempat **persaingan** menjadi pengatur utama aktivitas manusia.
+Secara sederhana, **neoliberalisme** adalah kebangkitan kembali ide-ide ekonomi pasar bebas abad ke-19. Konsep ini berupa rancangan terencana untuk membentuk masyarakat tempat **persaingan** menjadi pengatur utama aktivitas manusia.
 
 > **Analogi Pembaruan Sistem Operasi (OS Update)**
 > Bayangkan **Laissez-faire** klasik adalah sistem operasi komputer versi 1.0 yang sederhana (biarkan komputer berjalan tanpa intervensi). **Neoliberalisme** adalah "OS 2.0". Sistem ini lebih kompleks, dirancang untuk jaringan global, dan secara aktif menghapus program pemerintah (seperti subsidi atau perlindungan pekerja) yang dianggap memperlambat kinerja sistem.
@@ -20,14 +20,14 @@ Secara sederhana, **neoliberalisme** adalah kebangkitan kembali ide-ide ekonomi 
 
 Untuk memahami relevansinya, kita harus membedah empat pilar utama yang sering diterapkan dalam kebijakan ekonomi modern:
 
-1. **Deregulasi (Penyederhanaan Aturan):** Menghapus hambatan hukum bagi bisnis untuk beroperasi. Logikanya: semakin sedikit aturan, semakin cepat ekonomi tumbuh.
+1. **Deregulasi (Penyederhanaan Aturan):** Menghapus hambatan hukum bagi bisnis untuk beroperasi. Logikanya, semakin sedikit aturan, semakin cepat ekonomi tumbuh.
 2. **Privatisasi:** Mengalihkan aset publik (seperti listrik, air, atau transportasi) ke tangan perusahaan swasta dengan keyakinan bahwa sektor swasta lebih efisien daripada negara.
 3. **Austerity (Penghematan Fiskal):** Memotong anggaran belanja pemerintah (terutama bantuan sosial) untuk mengurangi utang negara dan menstabilkan mata uang.
 4. **Liberalisasi Perdagangan:** Menurunkan tarif dan hambatan ekspor-impor guna menciptakan pasar global yang terintegrasi.
 
 ## 3. Dari Teori ke Kebijakan Nyata
 
-Neoliberalisme bukan sekadar teori di atas kertas, melainkan kebijakan nyata yang muncul dalam berbagai peristiwa sejarah penting berikut:
+Neoliberalisme hadir sebagai kebijakan nyata dalam berbagai peristiwa sejarah penting berikut.
 
 ### Era Thatcher dan Reagan (1980-an)
 
@@ -47,7 +47,7 @@ $$
 
 Dalam rumus ini, $A$ adalah area antara garis kesetaraan sempurna dan kurva Lorenz, sedangkan $B$ adalah area di bawah kurva Lorenz. Dalam banyak ekonomi neoliberal, meskipun PDB naik secara total, nilai $G$ sering kali meningkat (mendekati 1), yang menunjukkan bahwa kekayaan terkonsentrasi di tangan segelintir orang.
 
-*Coba renungkan: Apakah pertumbuhan ekonomi yang sangat cepat bermanfaat jika hanya dirasakan oleh 1% penduduk?*
+*Coba renungkan, apakah pertumbuhan ekonomi yang sangat cepat bermanfaat jika hanya dirasakan oleh 1% penduduk?*
 
 ## 5. Relevansi Modern dan Penerapan di Dunia Nyata
 

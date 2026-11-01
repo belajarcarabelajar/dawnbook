@@ -2,11 +2,11 @@
 
 Bayangkan seseorang sedang melintasi jalur hutan yang sunyi, lalu tiba-tiba semak belukar di sampingnya berdesis keras. Sebelum kesadaran rasional sempat menganalisis apakah suara tersebut berasal dari embusan angin atau seekor ular berbisa, denyut jantung sudah melonjak drastis, frekuensi pernapasan memburu, dan seluruh serabut otot menegang secara instan.
 
-Reaksi kilat ini merupakan manifestasi dari mekanisme pertahanan biologis purba. Dalam dinamika krisis dan bencana alam, memahami cara kerja saraf di balik rasa takut bukan sekadar diskursus biomedis teoretis, melainkan dasar untuk merebut kembali kendali kognitif tatkala lingkungan sekitar berada dalam kekacauan.
+Reaksi kilat ini merupakan manifestasi dari mekanisme pertahanan biologis purba. Dalam dinamika krisis dan bencana alam, memahami cara kerja saraf di balik rasa takut menjadi dasar untuk merebut kembali kendali kognitif tatkala lingkungan sekitar berada dalam kekacauan.
 
 ### Amigdala dan Korteks Prefrontal
 
-Untuk mengurai dinamika kepanikan, perlu dipahami relasi timbal balik dan ketegangan fungsional antara dua wilayah kunci di dalam sistem saraf pusat:
+Untuk mengurai dinamika kepanikan, perlu dipahami relasi timbal balik dan ketegangan fungsional antara dua wilayah kunci di dalam sistem saraf pusat.
 
 #### Amigdala Pendeteksi Bahaya
 
@@ -50,7 +50,7 @@ Penelitian neurobiologis oleh Joseph LeDoux mengidentifikasi dua lintasan sirkui
 
 ### Dua Divisi Sistem Saraf Otonom
 
-Reaksi fisiologis tubuh terhadap bencana dimediasi oleh Sistem Saraf Otonom (*Autonomic Nervous System*), yang terbagi menjadi dua divisi fungsional:
+Reaksi fisiologis tubuh terhadap bencana dimediasi oleh Sistem Saraf Otonom (*Autonomic Nervous System*), yang terbagi menjadi dua divisi fungsional.
 
 #### Sistem Saraf Simpatik
 
@@ -112,4 +112,4 @@ Perbandingan respons antara warga sipil tanpa pelatihan (Subjek A) dan personel 
 | **Sistem Simpatik** | Akselerasi metabolisme, frekuensi jantung, dan tonus otot | Menyiapkan kapasitas lokomotor untuk konfrontasi atau evakuasi |
 | **Sistem Parasimpatik** | Deselerasi detak jantung dan stabilisasi kondisi fisiologis | Menjadi target intervensi teknik pernapasan untuk meredam panik |
 
-Fenomena ketidakmampuan bergerak atau berbicara saat menghadapi ancaman ekstrem bukanlah tanda kelemahan mental, melainkan konsekuensi langsung dari dominasi sirkuit defensif amigdala yang mengambil alih kontrol biologis. Dengan memahami bahwa kepanikan merupakan rentetan reaksi elektrokimiawi yang terstruktur, pemelajar dapat menerapkan teknik-teknik somatik dan intervensi kognitif untuk meregulasi respons biologis tersebut secara efektif di lapangan.
+Ketidakmampuan bergerak atau berbicara saat menghadapi ancaman ekstrem merupakan konsekuensi langsung dari dominasi sirkuit defensif amigdala yang mengambil alih kontrol biologis. Kondisi itu tidak menandakan kelemahan mental. Dengan memahami bahwa kepanikan merupakan rentetan reaksi elektrokimiawi yang terstruktur, pemelajar dapat menerapkan teknik-teknik somatik dan intervensi kognitif untuk meregulasi respons biologis tersebut secara efektif di lapangan.

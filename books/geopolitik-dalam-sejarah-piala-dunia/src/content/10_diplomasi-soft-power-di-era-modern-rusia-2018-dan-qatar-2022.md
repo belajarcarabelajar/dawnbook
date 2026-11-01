@@ -2,7 +2,7 @@
 
 Bayangkan perhatian dunia tertuju pada satu negara. Selama sebulan penuh, cerita tentang suatu negara tidak lagi didikte oleh kerasnya kebijakan luar negeri atau sengketa wilayah. Narasi itu kini dibentuk oleh kemeriahan stadion, kehangatan penduduk setempat, dan keindahan permainan di lapangan hijau. Inilah esensi dari kekuatan lunak (**soft power**) dalam sepak bola modern.
 
-Dalam bab ini, kita akan membedah bagaimana Rusia (2018) dan Qatar (2022) menjadikan Piala Dunia lebih dari sekadar kompetisi olahraga. Bagi kedua negara tersebut, ajang ini berfungsi sebagai instrumen strategis untuk memoles persepsi publik global sekaligus memperkuat posisi geopolitik mereka.
+Dalam bab ini, kita akan membedah bagaimana Rusia (2018) dan Qatar (2022) memakai Piala Dunia sebagai instrumen strategis untuk memoles persepsi publik global sekaligus memperkuat posisi geopolitik mereka.
 
 ## 1. Konsep Soft Power dan Sportswashing
 
@@ -58,11 +58,11 @@ Qatar menghadapi penolakan dan kritik keras terkait beberapa hal:
 
 Pemerintah Qatar menjawab segala kritik tersebut dengan menunjukkan tata kelola turnamen yang rapi. Mereka membangun kota baru (Lusail), jaringan metro, serta merancang jarak antarstadion yang dekat sehingga memudahkan mobilisasi penonton sepanjang kejuaraan berlangsung.
 
-> **Wawasan:** Qatar tidak berusaha meniru gaya hidup Barat. Mereka memanfaatkan Piala Dunia untuk membuktikan bahwa negara Arab sanggup menyelenggarakan turnamen global modern tanpa harus menanggalkan nilai-nilai tradisional dan budaya mereka.
+> **Wawasan:** Qatar memanfaatkan Piala Dunia untuk membuktikan bahwa negara Arab sanggup menyelenggarakan turnamen global modern tanpa meniru gaya hidup Barat dan tanpa harus menanggalkan nilai-nilai tradisional dan budaya mereka.
 
 ## 4. Apakah Sportswashing Berhasil?
 
-Pertanyaan besarnya adalah: *Apakah investasi sebesar ini benar-benar mampu membalikkan sudut pandang publik?*
+Pertanyaan besarnya, *apakah investasi sebesar ini benar-benar mampu membalikkan sudut pandang publik?*
 
 - **Dampak Positif**: Terjadi lompatan besar dalam nilai merek (brand value) negara penyelenggara. Pengunjung yang datang langsung biasanya membawa pulang kesan yang jauh lebih baik dibandingkan mereka yang hanya memantau dari kejauhan lewat media.
 - **Efek Bumerang (The Streisand Effect)**: Sering kali, upaya menutupi masalah dalam negeri justru membuat sorotan publik makin tajam. Sebagai contoh, masalah hak pekerja di Qatar baru mendapat perhatian global yang besar justru setelah negara itu menjadi tuan rumah Piala Dunia.
@@ -71,7 +71,7 @@ Jika Qatar tidak pernah menjadi tuan rumah Piala Dunia, apakah kamu akan pernah 
 
 ## 5. Mengapa Strategi Ini Relevan bagi Kita?
 
-Strategi kekuatan lunak ini kini meluas ke berbagai bidang kehidupan, tidak lagi terbatas pada hubungan diplomatik resmi antarnegara:
+Strategi kekuatan lunak ini kini meluas ke berbagai bidang kehidupan di luar hubungan diplomatik resmi antarnegara:
 
 1. **Promosi Pariwisata Daerah**: Sebuah kota menyelenggarakan festival musik internasional untuk mengalihkan perhatian publik dari masalah polusi atau kriminalitas tinggi demi menarik wisatawan.
 2. **Pencitraan Perusahaan (Greenwashing)**: Perusahaan energi fosil besar mendanai maraton ramah lingkungan guna meredam kritik atas dampak emisi karbon yang mereka hasilkan.

@@ -27,7 +27,7 @@ Di lapangan hijau, geopolitik sepak bola bekerja dengan cara serupa:
 - Para pemain di lapangan bertindak layaknya utusan diplomatik negara.
 - **Kemenangan** melambangkan superioritas sistem suatu negara dalam mencetak prestasi terbaik, jauh melampaui gengsi fisik dari trofi juara itu sendiri.
 
-Ketika sebuah negara berhasil terpilih sebagai tuan rumah, mereka tidak hanya mendirikan stadion baru. Langkah ini membuka pintu masuk bagi investasi asing, pariwisata, dan pengakuan politik di tingkat global.
+Ketika sebuah negara berhasil terpilih sebagai tuan rumah, status itu membuka pintu masuk bagi investasi asing, pariwisata, dan pengakuan politik di tingkat global, di samping stadion-stadion baru yang ia dirikan.
 
 ## Kekuasaan Negara dan Diplomasi melalui Bola
 
@@ -45,7 +45,7 @@ Rezim otoriter sepanjang sejarah menyadari bahwa sorotan kamera dunia sepanjang 
 
 ## Alasan Negara Membiayai Piala Dunia
 
-Kamu mungkin bertanya-tanya: *Mengapa sebuah negara bersedia menggelontorkan biaya hingga ratusan, bahkan ribuan, triliun rupiah hanya untuk menyelenggarakan turnamen sepanjang satu bulan?*
+Kamu mungkin bertanya-tanya, *mengapa sebuah negara bersedia menggelontorkan biaya hingga ratusan, bahkan ribuan, triliun rupiah hanya untuk menyelenggarakan turnamen sepanjang satu bulan?*
 
 Di atas kertas, investasi besar-besaran ini jarang menghasilkan keuntungan finansial langsung yang impas, dengan nilai $\text{ROI} < 1$. Namun, nilai geopolitik yang didapatkan jauh melampaui angka-angka tersebut:
 
@@ -88,4 +88,4 @@ Bagaimana jika FIFA mengumumkan bahwa semua pertandingan sepak bola internasiona
 - Piala Dunia bertindak sebagai panggung diplomasi internasional sekaligus sarana mempromosikan citra positif negara.
 - Hubungan sepak bola dan politik berjalan secara simbiotis, yaitu dunia politik membutuhkan basis massa sepak bola, sedangkan sepak bola sendiri memerlukan sokongan infrastruktur dari pemerintah.
 
-Sejarah dunia tidak hanya tercatat di buku, tetapi juga di stadion-stadion sepak bola.
+Stadion-stadion sepak bola menyimpan catatan sejarah dunia, sama seperti buku.

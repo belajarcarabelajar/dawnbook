@@ -1,6 +1,6 @@
 ## Manajemen Nyeri dan Pengobatan
 
-Setelah prosedur tonsilektomi selesai, tantangan terbesar yang dihadapi pasien adalah masa pemulihan di rumah, bukan operasi itu sendiri. Rasa nyeri di tenggorokan adalah hal yang tak terelakkan, tetapi dengan strategi yang tepat, rasa tidak nyaman ini bisa dikendalikan dengan sangat efektif.
+Bagi pasien tonsilektomi, tantangan terbesar datang setelah operasi selesai, yaitu masa pemulihan di rumah. Rasa nyeri di tenggorokan adalah hal yang tak terelakkan, tetapi dengan strategi yang tepat, rasa tidak nyaman ini bisa dikendalikan dengan sangat efektif.
 
 Analogi yang paling mendekati adalah membayangkan tenggorokanmu seperti **"lutut yang baru saja lecet parah karena terjatuh."** Jika lutut tersebut terus digerakkan atau terkena gesekan, rasanya akan perih. Bedanya, "lutut" ini berada di tenggorokan yang harus terus bekerja untuk menelan dan bernapas.
 
@@ -8,7 +8,7 @@ Analogi yang paling mendekati adalah membayangkan tenggorokanmu seperti **"lutut
 
 Rasa nyeri pascatonsilektomi ini dipicu oleh dua hal utama. Pertama, area bekas pengangkatan amandel menyisakan permukaan terbuka yang membuat ujung-ujung saraf sensitif terpapar langsung. Kedua, otot di sekitar tenggorokan cenderung menegang atau kram akibat manipulasi selama tindakan operasi.
 
-> **Wawasan Penting:** Nyeri sering kali tidak hanya terasa di tenggorokan, melainkan menjalar hingga ke telinga (disebut nyeri rujukan). Hal ini wajar terjadi karena saraf *Glossopharyngeal* melayani area tenggorokan sekaligus telinga. Jadi, jangan panik jika telingamu terasa sakit; itu adalah bagian normal dari proses pemulihan.
+> **Wawasan Penting:** Nyeri sering kali menjalar dari tenggorokan hingga ke telinga (disebut nyeri rujukan). Hal ini wajar terjadi karena saraf *Glossopharyngeal* melayani area tenggorokan sekaligus telinga. Jadi, jangan panik jika telingamu terasa sakit; itu adalah bagian normal dari proses pemulihan.
 
 ### Strategi Farmakologi
 
@@ -43,7 +43,7 @@ Selain obat medis, kamu juga bisa mempercepat pemulihan dengan beberapa langkah 
 
 ### Pola Grafik Nyeri
 
-Proses pemulihan setelah operasi ini sering kali naik-turun, tidak selalu membaik secara instan hari demi hari.
+Proses pemulihan setelah operasi ini sering kali naik-turun dari hari ke hari.
 
 1. Pada hari pertama dan kedua, nyeri biasanya sudah cukup terasa. Pada banyak anak kecil, justru di hari-hari inilah nyeri paling berat.
 2. Pada anak sepuluh tahun ke bawah, nyeri biasanya memuncak di hari kedua, lalu menurun hingga sekitar separuh dari puncaknya pada hari keenam. Pada pasien di atas sepuluh tahun, nyeri cenderung bertahan hingga sekitar hari ke-9 sebelum mereda.
@@ -71,4 +71,4 @@ Sebagai gambaran praktis, mari kita lihat bagaimana Budi, seorang pasien dewasa,
 - Bila diizinkan oleh dokter, mengunyah permen karet bebas gula bisa membantu merangsang air liur sekaligus melatih kelenturan rahang agar tidak kaku (trismus).
 - Hindari mandi air panas atau berada di tempat beruap tinggi karena suhu panas dapat memicu pelebaran pembuluh darah dan memperbesar risiko perdarahan pascaoperasi.
 
-> **Pesan Utama:** Manajemen nyeri yang ideal bertujuan meringankan rasa sakit ke tingkat yang wajar agar kamu bisa tetap minum dengan nyaman, alih-alih mencoba menghilangkan rasa nyeri sepenuhnya hingga nol persen. Ingat, fokus utama pemulihanmu adalah menjaga asupan cairan tubuh.
+> **Pesan Utama:** Manajemen nyeri yang ideal bertujuan meringankan rasa sakit ke tingkat yang wajar agar kamu bisa tetap minum dengan nyaman. Nyeri tidak harus hilang sepenuhnya hingga nol persen. Ingat, fokus utama pemulihanmu adalah menjaga asupan cairan tubuh.

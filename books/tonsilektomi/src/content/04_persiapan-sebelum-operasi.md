@@ -18,7 +18,7 @@ Beberapa tes yang biasanya diminta meliputi:
 
 ## 2. Konsultasi Anestesi
 
-Rasa cemas menjelang operasi sering kali dipicu oleh proses pembiusan, bukan tindakan bedahnya sendiri. Oleh sebab itu, rumah sakit menjadwalkan pertemuan khusus dengan dokter spesialis anestesi sebelum hari operasi tiba.
+Rasa cemas menjelang operasi sering kali bersumber dari proses pembiusan. Oleh sebab itu, rumah sakit menjadwalkan pertemuan khusus dengan dokter spesialis anestesi sebelum hari operasi tiba.
 
 Dalam sesi konsultasi ini, dokter anestesi akan mengevaluasi beberapa aspek keselamatan:
 
@@ -87,4 +87,4 @@ Budi adalah seorang pria berusia 28 tahun yang akan menjalani tonsilektomi karen
 4. Jam mulai puasa makanan padat dan cairan jernih sudah dicatat baik-baik.
 5. Seseorang yang tepercaya sudah dikonfirmasi akan mendampingi perjalanan pulang setelah operasi.
 
-*Setelah semua persiapan ini selesai, kamu kini siap melangkah ke tahap berikutnya: prosedur di ruang operasi.*
+*Setelah semua persiapan ini selesai, kamu kini siap melangkah ke prosedur di ruang operasi.*

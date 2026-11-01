@@ -2,7 +2,7 @@
 
 Pernahkah kamu merasa begitu tenggelam dalam suatu aktivitas sehingga dunia di sekitar kamu seolah menghilang? Kamu tidak lagi mendengar suara bising di luar, tidak merasa lapar, dan tiba-tiba saja tiga jam telah berlalu dalam sekejap mata.
 
-Inilah yang disebut dengan **State of Flow** (Kondisi Alir). Namun, flow bukan sekadar "fokus biasa". Mihaly Csikszentmihalyi, pionir psikologi positif, mengidentifikasi sembilan karakteristik spesifik yang membedakan flow dari kondisi mental lainnya. Memahami elemen-elemen ini adalah kunci untuk mengenali kapan kamu berada dalam performa puncak.
+Inilah yang disebut dengan **State of Flow** (Kondisi Alir). Mihaly Csikszentmihalyi, pionir psikologi positif, mengidentifikasi sembilan karakteristik spesifik yang membedakan flow dari kondisi mental lainnya, termasuk dari "fokus biasa". Memahami elemen-elemen ini adalah kunci untuk mengenali kapan kamu berada dalam performa puncak.
 
 ## 1\. Keseimbangan Antara Tantangan dan Keterampilan
 
@@ -16,7 +16,7 @@ Ini adalah fondasi utama dari flow. Bayangkan sebuah grafik yang sumbu $Y$ adala
 
 ## 2\. Penyatuan Aksi dan Kesadaran (Action-Awareness Merging)
 
-Dalam kondisi flow, tidak ada jarak antara pikiran dan gerakan tubuh. Kamu tidak lagi "berpikir untuk melakukan", tetapi kamu "langsung melakukan". Kesadaran kamu menyatu sepenuhnya dengan aktivitas tersebut.
+Dalam kondisi flow, tidak ada jarak antara pikiran dan gerakan tubuh. Kamu "langsung melakukan" tanpa lebih dulu "berpikir untuk melakukan". Kesadaran kamu menyatu sepenuhnya dengan aktivitas tersebut.
 
 - **Ciri khas:** Gerakan terasa otomatis dan spontan.
 
@@ -24,11 +24,11 @@ Dalam kondisi flow, tidak ada jarak antara pikiran dan gerakan tubuh. Kamu tidak
 
 Kamu tahu persis apa yang harus dilakukan dari satu momen ke momen berikutnya. Tidak ada kebingungan atau keraguan tentang langkah selanjutnya.
 
-Dalam pekerjaan kreatif, ini mungkin bukan berarti kamu tahu hasil akhirnya, tetapi kamu tahu bahwa langkah saat ini adalah "menulis kalimat berikutnya" atau "menggoreskan warna biru di sudut kanvas".
+Dalam pekerjaan kreatif, hasil akhirnya mungkin belum terbayang. Langkah saat ini sudah jelas bagimu, misalnya "menulis kalimat berikutnya" atau "menggoreskan warna biru di sudut kanvas".
 
 ## 4\. Umpan Balik yang Jelas dan Langsung (Immediate and Unambiguous Feedback)
 
-Saat berada dalam flow, kamu mendapatkan sinyal terus-menerus tentang keberhasilan tindakan kamu. Umpan balik ini tidak harus datang dari orang lain, melainkan dari aktivitas itu sendiri.
+Saat berada dalam flow, kamu mendapatkan sinyal terus-menerus tentang keberhasilan tindakan kamu. Umpan balik ini bisa datang dari aktivitas itu sendiri, tanpa perlu menunggu orang lain.
 
 - **Contoh:** Seorang pemanjat tebing tahu seketika saat jarinya mencengkeram batu dengan kuat. Seorang programmer tahu kodenya bekerja saat tes unit berhasil dijalankan.
 - **Penting:** Umpan balik ini membantu otak melakukan penyesuaian instan tanpa harus keluar dari kondisi fokus.
@@ -41,7 +41,7 @@ Ini adalah pemusatan perhatian yang intens pada satu titik (fokus tunggal). Gang
 
 ## 6\. Perasaan Kendali (Sense of Control)
 
-Meskipun aktivitas yang dilakukan mungkin berisiko atau sulit, individu dalam kondisi flow merasa memiliki kendali penuh atas tindakan mereka. Ini bukan berarti mereka mengendalikan hasil akhir secara mutlak, melainkan mereka merasa mampu menghadapi apa pun yang muncul.
+Meskipun aktivitas yang dilakukan mungkin berisiko atau sulit, individu dalam kondisi flow merasa memiliki kendali penuh atas tindakan mereka. Kendali itu tidak berarti menguasai hasil akhir secara mutlak. Mereka merasa mampu menghadapi apa pun yang muncul.
 
 Secara paradoks, perasaan kendali ini muncul tanpa adanya usaha keras untuk mengendalikan. Ini adalah *effortless control*.
 
@@ -67,11 +67,11 @@ Waktu seolah-olah memiliki aturannya sendiri. Csikszentmihalyi menyebut fenomena
 
 ## 9\. Pengalaman Autotelik (Autotelic Experience)
 
-Kata "autotelik" berasal dari bahasa Yunani *autos* (diri sendiri) dan *telos* (tujuan). Aktivitas tersebut menjadi hadiah bagi dirinya sendiri. Kamu melakukannya bukan demi uang, ketenaran, atau pujian, melainkan karena aktivitas itu sendiri terasa sangat memuaskan.
+Kata "autotelik" berasal dari bahasa Yunani *autos* (diri sendiri) dan *telos* (tujuan). Aktivitas tersebut menjadi hadiah bagi dirinya sendiri. Kamu melakukannya karena aktivitas itu terasa sangat memuaskan, sehingga uang, ketenaran, atau pujian tidak diperlukan sebagai alasan.
 
 ## Budi Memperbaiki Bug Sistem Keamanan Bank
 
-Mari kita lihat bagaimana sembilan elemen ini bekerja dalam satu skenario nyata:
+Mari kita lihat bagaimana sembilan elemen ini bekerja dalam satu skenario nyata.
 
 **Skenario:** Budi sedang memperbaiki *bug* rumit di sistem keamanan bank.
 
@@ -94,6 +94,6 @@ Tabel berikut merangkum empat dari sembilan karakteristik tersebut.
 | **Keseimbangan** | Kesesuaian antara tingkat kesulitan dan kemampuan. |
 | **Fokus Total** | Seluruh energi psikis terpusat pada satu hal. |
 | **Tanpa Ego** | Hilangnya rasa malu atau kekhawatiran sosial. |
-| **Autotelik** | Melakukan sesuatu karena kepuasan batin, bukan imbalan. |
+| **Autotelik** | Melakukan sesuatu demi kepuasan batin. |
 
-> **Poin Penting:** Tidak semua dari sembilan elemen harus hadir dengan intensitas yang sama agar seseorang disebut berada dalam flow, tetapi semakin banyak elemen yang hadir, semakin dalam (*deep flow*) kondisi tersebut dialami.
+> **Poin Penting:** Sembilan elemen ini tidak harus hadir dengan intensitas yang sama agar seseorang disebut berada dalam flow. Semakin banyak elemen yang hadir, semakin dalam (*deep flow*) kondisi tersebut dialami.

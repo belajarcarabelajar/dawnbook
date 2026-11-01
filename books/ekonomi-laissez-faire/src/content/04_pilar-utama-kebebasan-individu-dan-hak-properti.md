@@ -2,7 +2,7 @@
 
 Bayangkan kamu sedang berdiri di tengah pasar yang sangat ramai. Orang-orang bertukar barang, bernegosiasi harga, dan menciptakan inovasi baru setiap saat. Namun, bayangkan jika di pasar tersebut, barang yang kamu bawa bisa diambil siapa saja tanpa izin, atau janji yang dibuat seseorang untuk membayar kamu besok bisa diingkari tanpa konsekuensi.
 
-Apakah pasar itu akan tetap berjalan? Tentu tidak. Dalam sistem ekonomi **Laissez-faire**, kebebasan individu dan hak properti adalah **fondasi** yang menopang seluruh struktur ekonomi, bukan sekadar pelengkap.
+Apakah pasar itu akan tetap berjalan? Tentu tidak. Dalam sistem ekonomi **Laissez-faire**, kebebasan individu dan hak properti adalah **fondasi** yang menopang seluruh struktur ekonomi.
 
 ### 1. Hak Properti Pribadi
 
@@ -53,7 +53,7 @@ $$
 
 - **Otonomi Kehendak:** Tidak ada yang boleh dipaksa untuk bekerja atau menjual barang jika mereka tidak menginginkannya.
 - **Kejelasan Hukum:** Pemerintah hanya hadir sebagai "wasit" yang memastikan bahwa kontrak yang telah disepakati secara sukarela dipatuhi oleh kedua pihak.
-- **Dinamika Harga:** Harga ditentukan oleh kesepakatan, bukan oleh keputusan birokrat.
+- **Dinamika Harga:** Harga ditentukan oleh kesepakatan, dan birokrat tidak ikut memutuskannya.
 
 > **Bahan Pemikiran:** Apakah sebuah kontrak benar-benar bebas jika salah satu pihak menghadapi keterbatasan pilihan? Pendukung Laissez-faire berpendapat bahwa intervensi pemerintah justru mempersempit pilihan tersebut di masa depan.
 
@@ -86,4 +86,4 @@ Di era modern, prinsip Laissez-faire tentang hak properti meluas ke dunia digita
 | **Hak Properti** | Kepemilikan eksklusif & perlindungan aset | Mendorong investasi jangka panjang dan perawatan sumber daya. |
 | **Kebebasan Berkontrak** | Pertukaran sukarela tanpa paksaan | Menciptakan harga yang efisien dan alokasi sumber daya yang optimal. |
 
-> **Insight Penutup:** Kebebasan individu dalam Laissez-faire bukan berarti kebebasan untuk melakukan segalanya (anarki), melainkan kebebasan untuk bertindak di dalam ruang lingkup kepemilikan sendiri dan melalui kesepakatan damai dengan orang lain. Inilah yang oleh sebagian ekonom dianggap sebagai "koordinasi tanpa komando."
+> **Insight Penutup:** Kebebasan individu dalam Laissez-faire berlaku di dalam ruang lingkup kepemilikan sendiri dan lewat kesepakatan damai dengan orang lain, sehingga tidak sama dengan kebebasan untuk melakukan segalanya (anarki). Inilah yang oleh sebagian ekonom dianggap sebagai "koordinasi tanpa komando."

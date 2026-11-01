@@ -10,7 +10,7 @@ Bagi sebagian besar penyintas, reaksi stres akut segera setelah bencana merupaka
 
 ### Gejala Umum Manifestasi Trauma Kronis
 
-Dampak psikologis tidak selalu tampak dalam bentuk histeria atau ekspresi emosional yang eksplisit. Trauma kronis kerap bermanifestasi secara terselubung dalam pola perilaku sehari-hari:
+Dampak psikologis bisa muncul tanpa histeria atau ekspresi emosional yang eksplisit. Trauma kronis kerap bermanifestasi secara terselubung dalam pola perilaku sehari-hari:
 
 - **Gangguan Kognitif:** Penurunan konsentrasi, disorientasi spasial-temporal, hilangnya memori kerja secara parsial, dan kebingungan kronis.
 - **Gejala Somatisasi (Fisik):** Keluhan fisiologis tanpa etiologi medis organik yang jelas, seperti sefalalgia (sakit kepala kronis), gangguan motilitas pencernaan, takikardia idiopatik, atau ketegangan muskuloskeletal yang persisten.
@@ -42,7 +42,7 @@ Sebagai analogi neurobiologis, kondisi PTSD menyerupai sistem alarm kebakaran ge
 
 ## 3. Model Pemulihan Komunitas Zunin & Myers
 
-Pemulihan psikososial pascabencana bukanlah proses linier yang bergerak stabil ke arah positif, melainkan lintasan dinamik dengan fluktuasi emosional yang tajam. Model Zunin & Myers memetakan fase-fase psikologis komunitas penyintas:
+Pemulihan psikososial pascabencana berjalan sebagai lintasan dinamik dengan fluktuasi emosional yang tajam. Arahnya tidak lurus dan tidak selalu stabil menuju kondisi positif. Model Zunin & Myers memetakan fase-fase psikologis komunitas penyintas:
 
 1. **Fase Heroik (*Heroic Phase*):** Berlangsung segera setelah bencana melanda. Ditandai oleh ledakan energi altruistik tinggi, tindakan penyelamatan spontan, dan dorongan solidaritas untuk mempertahankan hidup sesama anggota komunitas.
 2. **Fase Bulan Madu (*Honeymoon Phase*):** Terjadi dalam rentang beberapa minggu pertama. Muncul optimisme kolektif yang didorong oleh kedatangan bantuan logistik, liputan media massa yang intens, serta janji rekonstruksi dari otoritas.
@@ -83,7 +83,7 @@ Selain PTSD, penyintas bencana kerap mengalami spektrum gangguan penyerta (*como
 
 1. **Identifikasi Simptom:** Santi menunjukkan manifestasi klasik dari *klaster penghindaran* (menolak area pesisir) dan *klaster intrusi* (reaksi distres fisiologis terhadap stimulus auditori analog).
 2. **Protokol Intervensi:**
-   - **Psikoedukasi Neurobiologis:** Membantu Santi memahami bahwa respons fisiologis tubuhnya merupakan mekanisme pertahanan amigdala yang terkalibrasi secara berlebihan, bukan tanda kelemahan karakter.
+   - **Psikoedukasi Neurobiologis:** Membantu Santi memahami bahwa respons fisiologis tubuhnya merupakan mekanisme pertahanan amigdala yang terkalibrasi secara berlebihan. Respons itu tidak menandakan kelemahan karakter.
    - **Terapi Desensitisasi Sistematis (*Systematic Desensitization*) & EMDR:** Paparan bertahap (*in vivo* dan *in sensu*) terhadap stimulus suara dan visual dalam lingkungan klinis yang terkontrol, dipadukan dengan stimulasi bilateral untuk memproses ulang memori traumatik yang tersimpan secara terfragmentasi.
    - **Kelompok Dukungan Sebaya (*Peer Support Group*):** Interaksi terstruktur dengan sesama penyintas untuk menormalisasi pengalaman emosional, mengurangi isolasi sosial, dan merestrukturisasi atribusi makna hidup.
 
@@ -107,4 +107,4 @@ Intervensi klinis mendesak wajib dicari apabila seorang penyintas atau individu 
 3. Episode disosiasi atau kilas balik intens yang menghilangkan kontak dengan orientasi realitas saat ini.
 4. Ketergantungan terhadap zat psikoaktif, alkohol, atau medikasi penenang tanpa pengawasan medis untuk meredakan kecemasan.
 
-> Pemulihan bukan berarti melupakan peristiwa yang telah terjadi. Pemulihan menandakan bahwa memori traumatik tersebut tidak lagi mendikte dan mengendalikan setiap detik jalannya kehidupan.
+> Pemulihan menandakan bahwa memori traumatik tidak lagi mendikte dan mengendalikan setiap detik jalannya kehidupan, meski peristiwa yang telah terjadi masih diingat.

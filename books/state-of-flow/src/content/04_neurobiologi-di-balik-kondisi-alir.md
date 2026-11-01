@@ -2,7 +2,7 @@
 
 Pernahkah kamu merasa seolah dunia di sekitarmu memudar, waktu melambat atau justru melesat cepat, dan kamu menyatu dengan apa yang sedang kamu kerjakan? Dalam psikologi, ini disebut **Flow**. Namun, di balik pengalaman subjektif ini, terdapat rangkaian proses biologis yang terkoordinasi di dalam otak kita.
 
-Memahami neurobiologi flow bukan hanya soal memuaskan rasa ingin tahu ilmiah. Dengan memahami "mesin" di balik kondisi ini, kita bisa belajar cara mengaktifkannya dengan lebih konsisten.
+Memahami neurobiologi flow juga punya kegunaan praktis. Dengan memahami "mesin" di balik kondisi ini, kita bisa belajar cara mengaktifkannya dengan lebih konsisten.
 
 ## 1\. Transient Hypofrontality di Korteks Prefrontal
 
@@ -12,7 +12,7 @@ Banyak orang mengira bahwa saat berada dalam kondisi flow, otak kita bekerja leb
 - **Hypo** berarti di bawah normal atau berkurang.
 - **Frontality** merujuk pada *Prefrontal Cortex* (PFC).
 
-PFC adalah "CEO" otak kita - bagian yang bertanggung jawab atas fungsi eksekutif, perencanaan kompleks, pemikiran logis, dan yang paling penting: **kesadaran diri (self-consciousness)**.
+PFC adalah "CEO" otak kita - bagian yang bertanggung jawab atas fungsi eksekutif, perencanaan kompleks, pemikiran logis, dan, yang paling penting, **kesadaran diri (self-consciousness)**.
 
 ### Bagaimana Ini Bekerja?
 
@@ -20,7 +20,7 @@ Saat kamu masuk ke dalam flow, otak melakukan efisiensi energi. Ia menonaktifkan
 
 **Analogi:** Bayangkan otak kamu adalah sebuah gedung perkantoran besar. Biasanya, manajer (PFC) terus-menerus memberikan instruksi, mengkritik pekerjaan, dan memeriksa jam. Dalam kondisi flow, sang manajer pulang lebih awal. Tanpa pengawasan yang cerewet, para pekerja di lapangan (insting dan keterampilan teknis) bisa bekerja dengan kecepatan penuh tanpa gangguan.
 
-**Dampaknya:**
+Dampaknya ada tiga.
 
 1. **Hilangnya Kritik Internal:** Suara di kepala kamu yang berkata "Ini tidak cukup baik" atau "Apa yang orang lain pikirkan?" menjadi senyap.
 2. **Distorsi Waktu:** Karena PFC yang memproses integrasi waktu melambat, kamu bisa merasa 2 jam berlalu seperti 2 menit.
@@ -56,7 +56,7 @@ $$\text{Kondisi Ideal} = \text{Alpha-Theta Border}$$
 
 ## 4\. Mekanisme Neurobiologis pada Programmer dan Atlet
 
-Mari kita lihat bagaimana mekanisme neurobiologis ini bekerja dalam skenario nyata:
+Mari kita lihat bagaimana mekanisme neurobiologis ini bekerja dalam skenario nyata.
 
 ### Programmer Menghadapi Bug Kompleks
 

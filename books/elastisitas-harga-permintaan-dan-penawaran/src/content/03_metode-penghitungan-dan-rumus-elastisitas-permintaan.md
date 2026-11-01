@@ -1,6 +1,6 @@
 ## Metode Penghitungan dan Rumus Elastisitas Permintaan
 Setelah memahami elastisitas permintaan secara konseptual, tantangan berikutnya adalah mengubah data pasar mentah menjadi angka yang bermakna. Mengukur elastisitas membantu kita memahami dan memprediksi perilaku pembeli di pasar.
-Dalam bagian ini, kita akan membahas teknik penghitungan elastisitas permintaan menggunakan dua metode utama: **Rumus Elastisitas Titik (Point Elasticity)** dan **Metode Nilai Tengah (Midpoint Method)**.
+Dalam bagian ini, kita akan membahas dua metode utama untuk menghitung elastisitas permintaan, yaitu **Rumus Elastisitas Titik (Point Elasticity)** dan **Metode Nilai Tengah (Midpoint Method)**.
 ## 1. Koefisien Elastisitas
 Sebelum masuk ke rumus teknis, kita perlu memahami apa yang sedang kita cari. Hasil dari penghitungan elastisitas disebut sebagai **Koefisien Elastisitas ($E_d$)**. Angka ini memberi tahu kita seberapa besar persentase perubahan jumlah permintaan jika harga berubah sebesar 1\%.
 Secara umum, rumusnya adalah:
@@ -50,7 +50,7 @@ Keterangan:
 
 Nilai mutlak $E_d = 2$.
 ## 3. Metode Nilai Tengah (Midpoint Method)
-Ada satu masalah utama dengan metode elastisitas titik: hasilnya bisa berbeda tergantung apakah kita menghitung dari titik A ke B atau dari B ke A. Inilah yang disebut dengan **masalah arah (direction problem)**.
+Metode elastisitas titik punya satu masalah utama. Hasilnya bisa berbeda tergantung apakah kita menghitung dari titik A ke B atau dari B ke A. Inilah yang disebut dengan **masalah arah (direction problem)**.
 *Analogi: Bayangkan kamu sedang mendaki bukit. Jika kamu naik dari kaki bukit setinggi 100 meter ke puncak 200 meter, kenaikannya adalah 100%. Tapi jika kamu turun dari 200 meter ke 100 meter, penurunannya 50%. Padahal, jarak yang ditempuh sama.*
 Untuk menghindari kebingungan ini, para ekonom menggunakan **Metode Nilai Tengah**. Metode ini menghitung persentase perubahan berdasarkan rata-rata (nilai tengah) dari titik awal dan akhir.
 ### Rumus Nilai Tengah
@@ -71,7 +71,7 @@ $$
 1. **Hitung perubahan jumlah ($Q_2 - Q_1$)** dan bagi dengan **rata-rata jumlah** [$(Q_1 + Q_2) / 2$].
 2. **Hitung perubahan harga ($P_2 - P_1$)** dan bagi dengan **rata-rata harga** [$(P_1 + P_2) / 2$].
 3. Bagi hasil langkah 1 dengan hasil langkah 2.
-**Contoh Kasus dengan Midpoint:** Gunakan data Latte yang sama: $P_1 = 20.000, P_2 = 22.000$ dan $Q_1 = 100, Q_2 = 80$.
+**Contoh Kasus dengan Midpoint:** Data Latte yang sama dipakai lagi, dengan $P_1 = 20.000, P_2 = 22.000$ dan $Q_1 = 100, Q_2 = 80$.
 - **Rata-rata $Q$:** $(100 + 80) / 2 = 90$
 - **Rata-rata $P$:** $(20.000 + 22.000) / 2 = 21.000$
 

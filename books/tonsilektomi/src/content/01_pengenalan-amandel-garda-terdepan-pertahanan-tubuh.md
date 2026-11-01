@@ -8,7 +8,7 @@ Dalam bagian ini, kita akan menjelajahi apa itu amandel, di mana letak persisnya
 
 Amandel, atau dalam istilah medis disebut sebagai **tonsil**, adalah kumpulan jaringan limfoid (jaringan yang menghasilkan sel kekebalan) yang terletak di bagian belakang tenggorokan. Mereka adalah bagian dari sistem limfatik, yang berfungsi seperti sistem drainase dan keamanan di dalam tubuh manusia.
 
-> **Intisari:** Amandel adalah organ tubuh yang normal, bukan sebuah penyakit. Ketika amandel meradang, kondisi ini disebut *tonsilitis*.
+> **Intisari:** Amandel sendiri adalah organ tubuh yang normal. Ketika amandel meradang, kondisi ini disebut *tonsilitis*.
 
 ## Letak Anatomi Amandel
 
@@ -25,7 +25,7 @@ Dokter mengenal struktur ini sebagai bagian dari **Cincin Waldeyer** (*Waldeyer'
 
 ### Kripta Tonsil
 
-Permukaan amandel tidaklah rata atau licin, melainkan dipenuhi oleh lekukan dan lubang-lubang kecil yang dalam yang disebut **kripta**. 
+Permukaan amandel dipenuhi lekukan dan lubang-lubang kecil yang dalam, yang disebut **kripta**. 
 
 Lekukan-lekukan ini memiliki fungsi yang sangat penting, yaitu memperluas permukaan amandel agar bisa menangkap lebih banyak kuman atau partikel asing yang masuk saat kamu bernapas atau makan. Secara matematis, jika kita memodelkan efektivitas penangkapan partikel sebagai $P$ dan luas permukaan amandel sebagai $A$, hubungan keduanya dapat dituliskan sebagai:
 
@@ -53,7 +53,7 @@ Di dalam amandel, terdapat konsentrasi sel darah putih (**limfosit**) yang sanga
 
 Amandel berperan layaknya ruang kelas bagi sistem pertahanan tubuh. Di sini, sistem imun diajari untuk mengenali jenis-jenis kuman yang ada di sekitar kita. Berkat proses belajar ini, tubuh bisa membentuk memori imunologis. Jika kelak kuman yang sama menyerang lagi, tubuhmu sudah siap dengan pertahanan yang lebih matang.
 
-Mengingat peran penting amandel bagi kekebalan tubuh, wajar jika muncul pertanyaan: mengapa ada kondisi yang membuat organ ini justru harus diangkat? Pertanyaan ini akan kita bahas secara mendalam di bagian "Alasan Medis dan Indikasi Operasi".
+Mengingat peran penting amandel bagi kekebalan tubuh, wajar jika kamu bertanya mengapa ada kondisi yang membuat organ ini justru harus diangkat. Pertanyaan ini akan kita bahas secara mendalam di bagian "Alasan Medis dan Indikasi Operasi".
 
 ## Pos Pemeriksaan Perbatasan
 
@@ -63,7 +63,7 @@ Setiap 'pendatang' (mulai dari makanan, udara bersih, hingga bakteri dan virus) 
 
 ## Perubahan Seiring Usia
 
-Peran amandel tidaklah konstan sepanjang hidup, melainkan berubah seiring bertambahnya usia kita:
+Peran amandel berubah seiring bertambahnya usia kita:
 
 1. **Masa Kanak-kanak:** Pada fase ini, amandel mencapai ukuran maksimal dan bekerja dengan intensitas tertinggi. Tubuh anak yang sedang tumbuh membutuhkan proteksi ekstra karena sistem imun mereka masih belajar mengenali dan melawan berbagai jenis kuman baru di lingkungannya.
 2. **Memasuki Pubertas hingga Usia Dewasa:** Setelah melewati masa pubertas, amandel perlahan-lahan menyusut (mengalami atrofi). Pada fase dewasa, organ pertahanan tubuh yang lain sudah berkembang matang, sehingga tugas amandel sebagai benteng pertahanan utama tidak lagi sedominan dahulu.
@@ -76,4 +76,4 @@ Pernahkah kamu bertanya mengapa amandel membengkak saat kita sakit? Itu sebenarn
 
 > **Penting:** Pembengkakan yang normal akan mereda setelah infeksi hilang. Namun, jika amandel terus-menerus membengkak atau sering mengalami infeksi hebat, fungsinya sebagai pelindung bisa berubah menjadi sumber masalah kesehatan.
 
-Setelah memahami anatomi dan fungsi penting dari amandel, wajar jika kamu bertanya-tanya: 'Jika organ ini sangat berguna, mengapa ada orang yang harus menjalani operasi pengangkatannya?' Kita akan mengupas tuntas jawabannya di bagian berikutnya: **Apa itu Tonsilektomi?**
+Setelah memahami anatomi dan fungsi penting amandel, satu pertanyaan masih menggantung. Jika organ ini sangat berguna, mengapa ada orang yang harus menjalani operasi pengangkatannya? Bagian berikutnya, **Apa itu Tonsilektomi?**, mengupas tuntas jawabannya.

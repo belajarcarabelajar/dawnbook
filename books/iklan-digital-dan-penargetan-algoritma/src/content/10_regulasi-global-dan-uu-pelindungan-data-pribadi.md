@@ -8,7 +8,7 @@ Di bagian ini, kita akan membedah "sabuk pengaman" dan "rambu-rambu" hukum yang 
 
 Dahulu, dunia periklanan digital sering dianggap sebagai *Wild West*, wilayah tanpa hukum tempat data pribadi dipanen secara masif tanpa izin. Namun, kesadaran akan privasi mengubah keadaan itu.
 
-> **Insight Utama:** Privasi bukan lagi sekadar fitur tambahan, melainkan hak asasi manusia yang kini dilindungi oleh undang-undang yang memiliki sanksi finansial sangat berat.
+> **Insight Utama:** Privasi kini diakui sebagai hak asasi manusia yang dilindungi oleh undang-undang dengan sanksi finansial sangat berat.
 
 ### Restoran dan Data Kamu
 
@@ -69,14 +69,14 @@ Mari kita lihat bagaimana sebuah perusahaan *e-commerce* lokal harus bertindak a
 **Langkah Kepatuhan (Compliance):**
 
 1. **Pemberitahuan (Notice):** TokoCepat harus memperbarui *Privacy Policy* yang menyatakan dengan bahasa sederhana bahwa mereka mengolah perilaku pencarian untuk memberikan rekomendasi produk.
-2. **Persetujuan (Consent):** Saat pengguna mendaftar, harus ada pilihan terpisah: "Saya setuju menerima iklan yang dipersonalisasi berdasarkan aktivitas saya". Jika pengguna menolak, TokoCepat tetap harus mengizinkan mereka berbelanja, meski tanpa iklan yang dipersonalisasi.
-3. **Keamanan Data:** Jika TokoCepat menggunakan pihak ketiga (misal: Google Ads) untuk retargeting, mereka harus memastikan pihak ketiga tersebut juga patuh pada UU PDP melalui kontrak hukum yang kuat.
+2. **Persetujuan (Consent):** Saat pengguna mendaftar, harus ada pilihan terpisah yang berbunyi "Saya setuju menerima iklan yang dipersonalisasi berdasarkan aktivitas saya". Jika pengguna menolak, TokoCepat tetap harus mengizinkan mereka berbelanja, meski tanpa iklan yang dipersonalisasi.
+3. **Keamanan Data:** Jika TokoCepat menggunakan pihak ketiga (misalnya Google Ads) untuk retargeting, mereka harus memastikan pihak ketiga tersebut juga patuh pada UU PDP melalui kontrak hukum yang kuat.
 
 **Logika Persetujuan Sederhana:** Di balik layar, pilihan iklan yang dipersonalisasi itu dalam keadaan mati sejak awal (*Privacy by Default*), sejalan dengan larangan kotak centang yang sudah terisi otomatis. Pilihan itulah yang menentukan iklan apa yang dilihat pengguna:
 
 | Pilihan iklan yang dipersonalisasi | Iklan yang tampil | Dasar pemilihan iklan |
 | --- | --- | --- |
-| Mati (keadaan awal) | Iklan umum (*Contextual Ad*) tanpa data pribadi | Isi halaman yang sedang dibuka, bukan profil pengguna |
+| Mati (keadaan awal) | Iklan umum (*Contextual Ad*) tanpa data pribadi | Isi halaman yang sedang dibuka, tanpa profil pengguna |
 | Dinyalakan oleh pengguna | Iklan yang dipersonalisasi | Profil pengguna yang diolah algoritma, dengan *tracking pixel* aktif |
 
 ## 6. Ringkasan Prinsip Utama
@@ -84,8 +84,8 @@ Mari kita lihat bagaimana sebuah perusahaan *e-commerce* lokal harus bertindak a
 | Prinsip | Penjelasan |
 | --- | --- |
 | **Transparansi** | Pengguna harus tahu siapa yang mengolah data mereka dan untuk apa. |
-| **Kedaulatan Data** | Data adalah milik individu, bukan milik perusahaan yang mengumpulkannya. |
+| **Kedaulatan Data** | Data adalah milik individu walaupun dikumpulkan oleh perusahaan. |
 | **Akuntabilitas** | Perusahaan wajib bertanggung jawab jika terjadi kebocoran atau penyalahgunaan data. |
-| **Privacy by Design** | Sistem harus dirancang aman dan privat sejak awal pengembangan, bukan setelah jadi. |
+| **Privacy by Design** | Sistem harus dirancang aman dan privat sejak awal pengembangan. |
 
-**Kesimpulan:** Regulasi seperti GDPR dan UU PDP tidak bertujuan untuk mematikan industri iklan digital. Sebaliknya, aturan ini bertujuan untuk membangun ekosistem yang lebih sehat dan terpercaya. Di masa depan, pengiklan yang paling sukses adalah mereka yang mampu memberikan nilai kepada konsumen sambil tetap menghormati batas-batas privasi mereka.
+**Kesimpulan:** Regulasi seperti GDPR dan UU PDP bertujuan membangun ekosistem iklan digital yang lebih sehat dan terpercaya. Di masa depan, pengiklan yang paling sukses adalah mereka yang mampu memberikan nilai kepada konsumen sambil tetap menghormati batas-batas privasi mereka.

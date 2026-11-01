@@ -26,7 +26,7 @@ Secara bertahap, kesadaran akan pulih melalui beberapa fase:
 2. Selanjutnya, pasien mulai menunjukkan **respons terhadap suara** dengan membuka mata saat dipanggil, meski biasanya langsung terpejam kembali.
 3. Fase akhir ditandai dengan **orientasi penuh**, ketika pasien sudah mengenali lingkungan sekitar dan mampu mengikuti instruksi sederhana seperti membuka mulut atau menarik napas dalam.
 
-Jika pasien adalah anak-anak, mereka berisiko mengalami *Emergence Delirium* (kondisi gelisah atau menangis histeris saat terbangun). Keadaan ini umumnya dipicu oleh kebingungan sensorik setelah pengaruh obat bius menghilang, bukan semata karena rasa sakit yang hebat.
+Jika pasien adalah anak-anak, mereka berisiko mengalami *Emergence Delirium* (kondisi gelisah atau menangis histeris saat terbangun). Keadaan ini umumnya dipicu oleh kebingungan sensorik setelah pengaruh obat bius menghilang. Rasa sakit yang hebat saja tidak cukup menjelaskannya.
 
 ## Manajemen Posisi dan Pencegahan Aspirasi
 
@@ -36,7 +36,7 @@ Posisi tubuh pascatonsilektomi sangat menentukan kelancaran jalan napas:
 
 ## Kriteria Kepulangan (Skala Aldrete)
 
-Pasien baru diperbolehkan pindah ke kamar rawat inap atau pulang setelah memenuhi kriteria keamanan tertentu. Penilaian ini umumnya merujuk pada **Skala Aldrete** yang mengukur lima aspek utama: aktivitas motorik (kemampuan menggerakkan anggota tubuh), kualitas pernapasan, kestabilan tekanan darah, tingkat kesadaran, serta warna kulit sebagai indikator oksigenasi jaringan.
+Pasien baru diperbolehkan pindah ke kamar rawat inap atau pulang setelah memenuhi kriteria keamanan tertentu. Penilaian ini umumnya merujuk pada **Skala Aldrete** yang mengukur lima aspek utama, mulai dari aktivitas motorik (kemampuan menggerakkan anggota tubuh), kualitas pernapasan, kestabilan tekanan darah, tingkat kesadaran, sampai warna kulit sebagai indikator oksigenasi jaringan.
 
 Selain skor Aldrete yang memadai, pemindahan dari PACU juga mensyaratkan beberapa kondisi klinis berikut:
 - Tanda-tanda vital stabil secara konsisten selama minimal 30 menit.

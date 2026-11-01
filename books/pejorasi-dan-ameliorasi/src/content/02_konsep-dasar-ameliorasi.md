@@ -2,7 +2,7 @@
 
 Ameliorasi merupakan proses perubahan semantik yang mengangkat nilai rasa suatu kata menjadi lebih sopan, terhormat, dan bermartabat dalam masyarakat.
 
-Dalam dinamika sejarah bahasa, kata-kata bukanlah entitas yang kaku dan statis. Kosakata terus beradaptasi mengikuti perkembangan peradaban, nilai sosial, dan kesepakatan kolektif para penuturnya. Suatu leksem yang pada masa lampau bernilai netral atau bahkan berkonotasi rendah dapat mengalami peningkatan derajat nilai rasa sehingga menempati posisi yang lebih santun dalam ragam resmi.
+Dalam dinamika sejarah bahasa, kosakata terus beradaptasi mengikuti perkembangan peradaban, nilai sosial, dan kesepakatan kolektif para penuturnya. Suatu leksem yang pada masa lampau bernilai netral atau bahkan berkonotasi rendah dapat mengalami peningkatan derajat nilai rasa sehingga menempati posisi yang lebih santun dalam ragam resmi.
 
 ### 1. Definisi dan Konsep Semantik
 
@@ -42,7 +42,7 @@ Ameliorasi dan eufemisme sama-sama berkenaan dengan kehalusan berbahasa, tetapi 
 | **Mekanisme** | Kenaikan derajat nilai rasa secara diakronis pada leksem. | Pemilihan kata pengganti untuk melunakkan tabu atau kekasaran. |
 | **Contoh Kasus** | Kata *istri* yang kini berderajat resmi dan terhormat melampaui *bini*. | Penggunaan frasa *kamar kecil* sebagai pengganti *kakus* atau *WC*. |
 
-Analogi yang tepat: eufemisme berfungsi sebagai perangkat penyesuaian nada bicara sesaat, sedangkan ameliorasi merupakan penetapan status nilai rasa permanen dalam kamus mental masyarakat.
+Eufemisme bisa diibaratkan perangkat penyesuaian nada bicara sesaat, sedangkan ameliorasi merupakan penetapan status nilai rasa permanen dalam kamus mental masyarakat.
 
 ### 4. Tahapan Mekanisme Pergeseran Makna
 

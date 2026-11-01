@@ -2,7 +2,7 @@
 
 Di bagian akhir ini, teknik-teknik yang sudah kamu pelajari dirangkai menjadi rencana manajemen stres pribadi yang bisa dijalankan jangka panjang. Jika bagian-bagian sebelumnya telah membekali kamu dengan pertolongan pertama dan teknik spesifik, bagian ini berfokus pada **keberlanjutan (sustainability)**.
 
-Mengelola stres bukan proyek sekali jalan, tetapi sebuah gaya hidup. Ibarat merawat sebuah bangunan, kamu tidak hanya memperbaiki atap yang bocor saat hujan (krisis), tetapi juga memastikan fondasinya tetap kokoh sepanjang tahun.
+Mengelola stres adalah gaya hidup yang dijalani terus-menerus. Ibarat merawat sebuah bangunan, kamu memperbaiki atap yang bocor saat hujan (krisis) sekaligus memastikan fondasinya kokoh sepanjang tahun.
 
 ### 1. Menyusun Rencana Manajemen Stres Berkelanjutan (Personalized Stress Plan)
 
@@ -26,7 +26,7 @@ Jika beban stresor meningkat, sumber daya dan dukungan kamu harus ditingkatkan a
 
 ### 2. Mengenali "Red Flags"
 
-Ada titik saat mekanisme koping mandiri tidak lagi cukup. Ini bukan tanda kelemahan, tetapi sinyal bahwa tantangan yang kamu hadapi memerlukan keahlian khusus.
+Ada titik saat mekanisme koping mandiri tidak lagi cukup. Kondisi itu adalah sinyal bahwa tantangan yang kamu hadapi memerlukan keahlian khusus. Mengakuinya tidak membuatmu lemah.
 
 > **Analogi Kesehatan:** Jika kaki kamu patah, kamu tidak akan mencoba menyembuhkannya hanya dengan berpikir positif. Kamu pasti pergi ke dokter spesialis bedah tulang. Kesehatan mental bekerja dengan prinsip yang persis sama.
 
@@ -103,8 +103,8 @@ Kamu dapat menggunakan format sederhana ini untuk mendokumentasikan strategi kam
 
 ### Mengenal Diri Sendiri dengan Jujur
 
-Strategi pemulihan jangka panjang adalah tentang **mengenal diri sendiri dengan jujur**. Manajemen stres bukan tentang menghilangkan stres sama sekali (karena stres adalah bagian dari kehidupan), tetapi tentang memastikan bahwa kamu memiliki kapasitas yang cukup untuk menghadapinya.
+Strategi pemulihan jangka panjang adalah tentang **mengenal diri sendiri dengan jujur**. Manajemen stres bertujuan memastikan bahwa kamu memiliki kapasitas yang cukup untuk menghadapi stres. Stres sendiri tidak perlu dihilangkan sama sekali karena ia adalah bagian dari kehidupan.
 
-> "Mengambil langkah untuk mencari bantuan profesional bukanlah tanda bahwa kamu 'rusak', melainkan bukti bahwa kamu memiliki keberanian untuk memprioritaskan kesejahteraan kamu sendiri."
+> "Mengambil langkah untuk mencari bantuan profesional adalah bukti bahwa kamu memiliki keberanian untuk memprioritaskan kesejahteraan kamu sendiri."
 
 > **Refleksi Diri:** Apa satu langkah kecil dari seluruh materi ini yang bisa kamu janjikan pada diri sendiri untuk dilakukan secara konsisten mulai besok?

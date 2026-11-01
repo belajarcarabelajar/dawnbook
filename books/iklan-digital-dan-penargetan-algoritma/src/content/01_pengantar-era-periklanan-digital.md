@@ -6,9 +6,9 @@ Perjalanan memahami **Iklan Digital** bisa dimulai dari satu pengalaman kecil ya
 
 Secara mendasar, **Iklan Digital** adalah segala bentuk pesan pemasaran yang disampaikan melalui saluran digital atau internet. Ini mencakup segala sesuatu mulai dari iklan video di YouTube, hasil pencarian di Google, hingga kiriman bersponsor di Instagram atau TikTok.
 
-Berbeda dengan iklan tradisional, iklan digital tidak hanya sekadar "memberi tahu", tetapi juga "mendengarkan". Ia bersifat interaktif dan dua arah.
+Iklan tradisional hanya "memberi tahu", sedangkan iklan digital juga "mendengarkan". Ia bersifat interaktif dan dua arah.
 
-> "Iklan digital bukan lagi tentang mencari audiens, melainkan tentang ditemukan oleh audiens yang tepat pada saat yang paling tepat."
+> "Iklan digital adalah soal ditemukan oleh audiens yang tepat pada saat yang paling tepat."
 
 ### Megafon vs. Asisten Pribadi
 
@@ -16,7 +16,7 @@ Bayangkan iklan tradisional seperti seseorang yang berteriak menggunakan **megaf
 
 ## Sejarah Singkat Iklan dari Cetak ke Digital
 
-Transisi dari media tradisional ke digital tidak terjadi dalam semalam. Mari kita lihat lini masa transformasinya:
+Transisi dari media tradisional ke digital tidak terjadi dalam semalam. Lini masa transformasinya bisa dibagi ke dalam empat era.
 
 ### 1\. Era Pra-Digital (Dominasi Media Tradisional)
 
@@ -26,7 +26,7 @@ Sebelum tahun 1990-an, iklan bersifat **pasif** dan **massal**. Perusahaan mengh
 
 ### 2\. Kelahiran Iklan Web Pertama (1994)
 
-Pada 27 Oktober 1994, sejarah berubah. Situs web *HotWired* menampilkan **banner ad** pertama di dunia milik AT&T. Bentuknya hanyalah kotak kecil bertuliskan: *"Have you ever clicked your mouse right here? YOU WILL."*
+Pada 27 Oktober 1994, sejarah berubah. Situs web *HotWired* menampilkan **banner ad** pertama di dunia milik AT&T. Bentuknya hanyalah kotak kecil bertuliskan *"Have you ever clicked your mouse right here? YOU WILL."*
 
 - **Hasilnya:** Angka klik (Click-Through Rate/CTR) mencapai 44%, angka yang hampir mustahil dicapai di era sekarang.
 
@@ -36,7 +36,7 @@ Google meluncurkan **AdWords** (sekarang Google Ads) pada tahun 2000. Ini mengus
 
 ### 4\. Era Media Sosial (Sekarang)
 
-Dengan munculnya Facebook, Instagram, dan TikTok, iklan tidak lagi hanya berdasarkan *apa yang kamu cari*, tetapi juga *siapa kamu*, *apa minat kamu*, dan *bagaimana perilaku kamu*. Kita telah masuk ke ekosistem yang sangat dinamis tempat konten iklan dibuat secara otomatis untuk menyesuaikan dengan selera individu.
+Dengan munculnya Facebook, Instagram, dan TikTok, iklan ikut menimbang *siapa kamu*, *apa minat kamu*, dan *bagaimana perilaku kamu*, di samping *apa yang kamu cari*. Kita telah masuk ke ekosistem yang sangat dinamis tempat konten iklan dibuat secara otomatis untuk menyesuaikan dengan selera individu.
 
 Keempat era tadi bisa kamu lihat sekaligus dalam lini masa berikut.
 
@@ -90,7 +90,7 @@ Mari kita lihat bagaimana transisi ini membantu sebuah bisnis kecil bernama *Ked
 
 ## Mengapa Ini Penting bagi Kamu?
 
-Memahami era periklanan digital bukan hanya penting bagi praktisi pemasaran, tetapi juga bagi kita sebagai pengguna internet.
+Memahami era periklanan digital penting bagi praktisi pemasaran, dan sama pentingnya bagi kita sebagai pengguna internet.
 
 - **Bagi Bisnis:** Ini adalah alat untuk efisiensi dan pertumbuhan.
 - **Bagi Konsumen:** Ini adalah alasan mengapa layanan seperti Google, YouTube, dan Facebook bisa kita gunakan secara gratis (kita "membayar" dengan perhatian kita terhadap iklan).

@@ -12,7 +12,7 @@ Peta paling sederhana dari perjalanan itu terdiri dari lima tahap:
 4. **Menyaring dan mengatur ulang.** Kandidat yang tidak layak dikeluarkan, dan urutan disesuaikan agar layar tidak dikuasai satu hal saja.
 5. **Menyusun layar.** Post yang lolos dicampur dengan komponen lain, misalnya iklan dan saran akun, lalu dikirim ke aplikasimu.
 
-Daftar ini adalah peta konsep, bukan urutan eksekusi yang persis. Sebagian filter sudah berjalan sebelum penilaian, dan kode juga punya jalur cadangan serta jalur bersyarat, misalnya pipeline kronologis terbalik yang dipakai bila penilaian gagal. Ada satu hal yang membuat dapur ini berbeda dari restoran biasa: setelah kamu membaca atau berinteraksi dengan sebuah post, aktivitas itu bisa menjadi bahan untuk permintaan feed berikutnya. Tamunya ikut menulis resep pesanan selanjutnya.
+Anggap daftar ini sebagai peta konsep, karena urutan eksekusinya di kode tidak persis seperti itu. Sebagian filter sudah berjalan sebelum penilaian, dan kode juga punya jalur cadangan serta jalur bersyarat, misalnya pipeline kronologis terbalik yang dipakai bila penilaian gagal. Dapur ini juga berbeda dari restoran biasa. Setelah kamu membaca atau berinteraksi dengan sebuah post, aktivitas itu bisa menjadi bahan untuk permintaan feed berikutnya. Tamunya ikut menulis resep pesanan selanjutnya.
 
 ### Dari Mana Calon Post Datang
 
@@ -36,11 +36,11 @@ Di luar daftar itu, pola follow dan interaksi bisa diolah menjadi representasi m
 - **Filtering**: mengeluarkan atau membatasi kandidat berdasarkan aturan tertentu.
 - **Mixing**: menata post bersama komponen lain, termasuk iklan dan rekomendasi akun.
 
-### Feed Bukan Daftar Skor Tertinggi
+### Skor Tertinggi Belum Tentu Tampil Duluan
 
-Kalau dapur hanya menyajikan hidangan bernilai tertinggi, kamu bisa saja menerima sepuluh piring dari juru masak yang sama. Home Mixer punya penyesuaian untuk mencegahnya: keragaman penulis, keseimbangan konten, kelelahan umpan balik (feedback fatigue), penghapusan duplikat dan konten yang sudah pernah kamu lihat, serta penyaringan visibilitas. Setelah itu, layar akhir masih dicampur dengan iklan, saran akun, dan modul lain seperti percakapan.
+Kalau dapur hanya menyajikan hidangan bernilai tertinggi, kamu bisa saja menerima sepuluh piring dari juru masak yang sama. Home Mixer mencegahnya dengan beberapa penyesuaian, antara lain keragaman penulis, keseimbangan konten, kelelahan umpan balik (feedback fatigue), penghapusan duplikat dan konten yang sudah pernah kamu lihat, serta penyaringan visibilitas. Setelah itu, layar akhir masih dicampur dengan iklan, saran akun, dan modul lain seperti percakapan.
 
-Akibatnya, dua post dengan prediksi berbeda belum tentu muncul dalam urutan yang bisa kamu tebak dari satu tindakan saja. Screenshot sebuah feed juga tidak bisa membuka bobot algoritma, karena yang terlihat hanya piring yang sudah tersaji, bukan resep dan takarannya.
+Akibatnya, dua post dengan prediksi berbeda belum tentu muncul dalam urutan yang bisa kamu tebak dari satu tindakan saja. Screenshot sebuah feed juga tidak bisa membuka bobot algoritma, karena yang terlihat hanya piring yang sudah tersaji, sementara resep dan takarannya tersimpan di dapur.
 
 ### Alur Baru di xai-org/x-algorithm
 
@@ -49,7 +49,7 @@ Repositori kedua, [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm),
 1. Post dari akun yang kamu ikuti datang dari Thunder, tempat penyimpanan post terbaru akun-akun tersebut. Post dari luar jaringan datang dari Phoenix retrieval, SimClusters, dan post populer.
 2. Sebelum dinilai, kandidat disaring. Yang dibuang antara lain post yang lebih tua dari 48 jam, post milikmu sendiri, post dari akun yang kamu blokir atau bisukan, post yang memuat kata yang kamu bisukan, serta post yang sudah pernah kamu lihat atau sudah dikirim kepadamu.
 3. Phoenix memprediksi tindakan yang mungkin kamu lakukan dengan membaca sekitar seribu aktivitas terbarumu.
-4. Prediksi itu dikalikan dengan bobot, lalu VMRanker menyusun ulang urutan demi keragaman. Bobot mengalikan peluang tindakan yang diprediksi, bukan memberi poin per tindakan.
+4. Prediksi itu dikalikan dengan bobot, lalu VMRanker menyusun ulang urutan demi keragaman. Jadi bobot bekerja pada peluang tindakan yang diprediksi. Sistem tidak membagikan poin untuk setiap tindakan.
 5. Kandidat teratas melewati penyaringan visibilitas, kemudian tahap blending menyisipkan iklan dan saran akun.
 
 Kelima langkah tadi bisa kamu telusuri sebagai satu alur dari atas ke bawah.
@@ -67,7 +67,7 @@ flowchart TD
     S --> B["Blending menyisipkan iklan dan saran akun"]
 ```
 
-Ingat bahwa tidak satu pun dari kedua repositori ini adalah salinan lengkap sistem yang berjalan. Konfigurasi per permintaan, model terlatih, data pengguna, dan banyak eksperimen langsung berada di luar jangkauan siapa pun yang membaca kodenya. Repositori baru memang menyalin nilai bawaan dari produksi dan menargetkan agar eksperimen yang menyentuh sekitar 10% lalu lintas atau lebih ikut terlihat, tetapi itu tetap bukan keseluruhan sistem.
+Ingat bahwa tidak satu pun dari kedua repositori ini adalah salinan lengkap sistem yang berjalan. Konfigurasi per permintaan, model terlatih, data pengguna, dan banyak eksperimen langsung berada di luar jangkauan siapa pun yang membaca kodenya. Repositori baru memang menyalin nilai bawaan dari produksi dan menargetkan agar eksperimen yang menyentuh sekitar 10% lalu lintas atau lebih ikut terlihat, tetapi yang terlihat di sana hanya sebagian sistem.
 
 ### Apa yang Berubah bagi Pembaca
 
@@ -79,9 +79,9 @@ Ingat bahwa tidak satu pun dari kedua repositori ini adalah salinan lengkap sist
 
 ## Benang Merah
 
-- Post di For You melewati lima tahap: dicari, dilengkapi fitur, diprediksi, disaring dan diatur ulang, lalu disusun di layar.
+- Post di For You melewati lima tahap, mulai dari dicari, dilengkapi fitur, diprediksi, disaring dan diatur ulang, sampai disusun di layar.
 - Kandidat datang dari akun yang kamu ikuti dan dari luar jaringan, jadi akun asing bisa muncul tanpa pernah kamu sukai.
-- Urutan feed bukan daftar skor tertinggi, dan screenshot tidak bisa membuka bobotnya.
+- Urutan feed sudah disesuaikan demi keragaman dan dicampur dengan komponen lain, sementara screenshot tidak bisa membuka bobotnya.
 - Repositori baru mengganti nama komponen, tetapi alur besar dan kendali utama pembaca tetap sama.
 
 Sisi dapur sudah kita telusuri dari meja ke meja, sementara separuh cerita lainnya ada di tanganmu, yaitu sinyal yang kamu kirim setiap kali membaca, berhenti, atau menggulir lewat.

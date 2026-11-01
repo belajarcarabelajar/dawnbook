@@ -1,12 +1,12 @@
 ## Hubungan dengan Eufemisme dan Disfemisme
 
-Pemahaman mengenai dinamika nilai rasa bahasa menuntut pemilahan tegas antara pergeseran makna historis dan pilihan gaya tutur saat berkomunikasi. Dalam telaah semantik, kerap muncul pertanyaan mendasar: apakah suatu kata memang sedang mengalami pergeseran makna leksikal, atau penuturnya hanya sedang menerapkan strategi kesantunan berbahasa?
+Pemahaman mengenai dinamika nilai rasa bahasa menuntut pemilahan tegas antara pergeseran makna historis dan pilihan gaya tutur saat berkomunikasi. Dalam telaah semantik, kerap muncul pertanyaan mendasar. Apakah suatu kata memang sedang mengalami pergeseran makna leksikal, atau penuturnya hanya sedang menerapkan strategi kesantunan berbahasa?
 
 Di sinilah batas konseptual antara **ameliorasi/pejorasi** dan **eufemisme/disfemisme** perlu ditarik secara jernih. Kendati keempat konsep tersebut sama-sama bersinggungan dengan nilai rasa suatu leksem, masing-masing beroperasi pada dimensi linguistik yang berbeda. Ameliorasi dan pejorasi berkaitan dengan evolusi historis leksikal dalam rentang waktu panjang, sedangkan eufemisme dan disfemisme merupakan pilihan stilistika pragmatis penutur pada saat peristiwa tutur berlangsung.
 
 ### Mengenal Eufemisme dan Disfemisme
 
-Sebelum membandingkan kedua pasangan konsep tersebut, penting untuk memahami batasan eufemisme dan disfemisme sebagai piranti gaya bahasa:
+Sebelum membandingkan kedua pasangan konsep tersebut, penting untuk memahami batasan eufemisme dan disfemisme sebagai piranti gaya bahasa.
 
 #### Eufemisme
 
@@ -24,7 +24,7 @@ Disfemisme merupakan kebalikan dari eufemisme, yakni penggunaan kata atau frasa 
 
 ### Perubahan Makna versus Gaya Bahasa
 
-Banyak pemerhati bahasa pemula menyamakan eufemisme dengan ameliorasi, padahal kedua gejala tersebut memiliki mekanisme operasional yang berlainan.
+Eufemisme dan ameliorasi memiliki mekanisme operasional yang berlainan, meski banyak pemerhati bahasa pemula menyamakan keduanya.
 
 #### Arsitektur Bangunan dan Tata Cahaya
 
@@ -55,7 +55,7 @@ Tahapan transmisi tersebut berlangsung melalui proses bertingkat:
 
 Dinamika serupa berlaku pada pejorasi. Sebuah disfemisme yang dilancarkan secara masif untuk melabeli kelompok sosial tertentu dapat mengubah leksem yang semula netral menjadi berkonotasi peyoratif secara permanen.
 
-Pertanyaan menarik muncul ketika mencermati kata *koruptor*: apakah kata tersebut kini terdengar lebih berkonotasi buruk dibandingkan *pencuri* karena proses pejorasi historis, ataukah murni akibat akumulasi pemakaian disfemisme secara konsisten dalam diskursus publik?
+Pertanyaan menarik muncul ketika mencermati kata *koruptor*. Apakah kata tersebut kini terdengar lebih berkonotasi buruk dibandingkan *pencuri* karena proses pejorasi historis, ataukah murni akibat akumulasi pemakaian disfemisme secara konsisten dalam diskursus publik?
 
 ### Penerapan Praktis dalam Bahasa Politik dan Media
 
@@ -65,7 +65,7 @@ Dalam interaksi sosial dan wacana media massa, kemampuan membedakan kedua ranah 
 
 Pemerintah atau korporasi kerap memilih frasa **"Penyesuaian Tarif"** daripada menggunakan ungkapan **"Kenaikan Tarif"**.
 
-- **Analisis Linguistik:** Fenomena ini merupakan bentuk **eufemisme**. Makna leksikal kata *naik* tidak mengalami pejorasi, melainkan penutur sengaja memilih kata *penyesuaian* demi meredam gejolak psikologis serta resistensi publik.
+- **Analisis Linguistik:** Fenomena ini merupakan bentuk **eufemisme**. Penutur sengaja memilih kata *penyesuaian* demi meredam gejolak psikologis serta resistensi publik. Makna leksikal kata *naik* sendiri tidak mengalami pejorasi.
 
 #### Disfemisme dalam Ruang Debat Publik
 
@@ -77,7 +77,7 @@ Dalam perdebatan sengit di media sosial, seorang pengguna dapat menyebut gagasan
 
 Contohnya adalah kata **"oknum"**. Pada mulanya, leksem *oknum* bermakna netral yang merujuk pada "pribadi", "unsur", atau "perseorangan" (sebagaimana akar kata teologisnya). Namun, tatkala frasa *ada oknum yang terlibat* diucapkan dalam wacana berita hukum, masyarakat secara spontan memahaminya sebagai perujuk pelaku kejahatan atau pelanggar aturan.
 
-- **Analisis Linguistik:** Kasus ini bukan lagi sekadar penerapan disfemisme pragmatis, melainkan telah berkembang menjadi **pejorasi** penuh. Konotasi negatifnya telah terlembagakan secara mantap dalam leksikon bahasa Indonesia kontemporer.
+- **Analisis Linguistik:** Kasus ini telah berkembang dari penerapan disfemisme pragmatis menjadi **pejorasi** penuh. Konotasi negatifnya telah terlembagakan secara mantap dalam leksikon bahasa Indonesia kontemporer.
 
 ### Mengukur Nilai Rasa Melalui Formula Konotasi
 

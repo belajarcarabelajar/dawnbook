@@ -1,6 +1,6 @@
 ## Teknik Bedah Tonsilektomi
 
-Membayangkan operasi amandel mungkin memicu ingatan tentang pisau bedah kecil di tangan dokter. Namun, instrumen bedah THT modern kini tidak lagi terbatas pada alat potong manual klasik; pilihannya mencakup teknologi mulai dari getaran ultrasonik hingga aliran plasma dingin.
+Membayangkan operasi amandel mungkin memicu ingatan tentang pisau bedah kecil di tangan dokter. Namun, di samping alat potong manual klasik, instrumen bedah THT modern kini mencakup teknologi mulai dari getaran ultrasonik hingga aliran plasma dingin.
 
 Setiap metode yang digunakan dokter spesialis THT (Telinga, Hidung, Tenggorok) untuk mengangkat amandel dirancang untuk tujuan tertentu, mulai dari meminimalkan kerusakan jaringan hingga mengendalikan perdarahan.
 
@@ -9,7 +9,7 @@ Setiap metode yang digunakan dokter spesialis THT (Telinga, Hidung, Tenggorok) u
 Sebelum membahas detail alatnya, kita perlu memahami dua pendekatan utama dalam tonsilektomi berdasarkan suhu instrumen yang digunakan:
 
 **Teknik Dingin (Cold Techniques)**
-Metode ini mengandalkan instrumen *surgical steel* untuk melepas tonsil secara fisik dari jaringan sekitarnya tanpa energi panas. Bayangkan seperti mengupas kulit jeruk dengan pisau dapur biasa: bersih, tetapi ada kemungkinan sedikit rembesan darah yang harus dihentikan manual.
+Metode ini mengandalkan instrumen *surgical steel* untuk melepas tonsil secara fisik dari jaringan sekitarnya tanpa energi panas. Bayangkan seperti mengupas kulit jeruk dengan pisau dapur biasa. Hasilnya bersih, tetapi ada kemungkinan sedikit rembesan darah yang harus dihentikan manual.
 
 **Teknik Panas (Hot Techniques)**
 Metode ini menggunakan energi termal dari listrik, laser, atau gelombang suara untuk memotong sekaligus menyegel pembuluh darah yang terbuka (kauterisasi). Pendekatan ini menyerupai *hot wire cutter* yang memotong sekaligus merekatkan bagian pinggirannya secara instan.
@@ -45,7 +45,7 @@ Keunggulan dari pisau ultrasonik ini adalah tingkat presisi pemotongan yang ting
 
 ## 6. Microdebrider (Intracapsular Tonsillectomy)
 
-Berbeda dengan metode diseksi total, teknik *microdebrider* biasanya ditujukan untuk tonsilotomi (pengangkatan sebagian amandel, bukan keseluruhan tonsil). Prosedur ini menggunakan instrumen *powered rotary shaver* yang dilengkapi saluran hisap terintegrasi.
+Berbeda dengan metode diseksi total, teknik *microdebrider* biasanya ditujukan untuk tonsilotomi (pengangkatan sebagian amandel saja). Prosedur ini menggunakan instrumen *powered rotary shaver* yang dilengkapi saluran hisap terintegrasi.
 
 Dokter bedah akan mencukur jaringan tonsil yang menyumbat jalan napas, tetapi sengaja menyisakan lapisan tipis kapsul tonsil untuk melindungi otot tenggorokan di bawahnya. Pendekatan ini sangat ideal bagi anak-anak dengan hipertrofi amandel yang memicu *sleep apnea*. Karena otot tenggorokan tidak terpapar langsung, pemulihan menjadi jauh lebih cepat dengan rasa nyeri minimal.
 

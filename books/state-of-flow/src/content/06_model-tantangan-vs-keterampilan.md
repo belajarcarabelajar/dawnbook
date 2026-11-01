@@ -1,6 +1,6 @@
 ## Model Tantangan vs Keterampilan
 
-Pernahkah kamu begitu tenggelam dalam sebuah tugas sehingga waktu seakan berhenti, tetapi di lain waktu merasa sangat frustrasi hingga ingin menyerah? Ada pula saat kamu merasa sangat bosan hingga mengantuk. Perbedaan perasaan ini bukan terjadi secara acak. Hal ini ditentukan oleh hubungan matematis dan psikologis antara seberapa sulit tugas tersebut (**Tantangan**) dan seberapa hebat kamu dalam melakukannya (**Keterampilan**).
+Pernahkah kamu begitu tenggelam dalam sebuah tugas sehingga waktu seakan berhenti, tetapi di lain waktu merasa sangat frustrasi hingga ingin menyerah? Ada pula saat kamu merasa sangat bosan hingga mengantuk. Perbedaan perasaan ini ditentukan oleh hubungan matematis dan psikologis antara seberapa sulit tugas tersebut (**Tantangan**) dan seberapa hebat kamu dalam melakukannya (**Keterampilan**).
 
 Mihaly Csikszentmihalyi, bapak dari konsep *Flow*, memetakan hubungan ini ke dalam sebuah model grafis yang menjadi fondasi utama dalam memahami bagaimana kita bisa mencapai performa puncak.
 
@@ -19,15 +19,15 @@ Secara matematis, kondisi *Flow* dapat digambarkan sebagai fungsi ketika tantang
 
 $$\text{Flow} \approx \text{Tantangan} = \text{Keterampilan}$$
 
-> **Insight Utama:** *Flow* bukanlah kondisi statis. Jika keterampilan kamu meningkat, tantangan yang sama akan menjadi membosankan. Agar bertahan dalam *Flow*, kamu harus mencari tantangan yang lebih tinggi. Ini adalah mekanisme alami pertumbuhan manusia.
+> **Insight Utama:** *Flow* berubah seiring kemampuanmu. Jika keterampilan kamu meningkat, tantangan yang sama akan menjadi membosankan. Agar bertahan dalam *Flow*, kamu harus mencari tantangan yang lebih tinggi. Ini adalah mekanisme alami pertumbuhan manusia.
 
 ## 2\. Tiga Wilayah Utama Pengalaman Mental
 
-Untuk memahami model ini secara praktis, mari kita bagi grafik tersebut menjadi tiga wilayah emosional utama:
+Untuk memahami model ini secara praktis, mari kita bagi grafik tersebut menjadi tiga wilayah emosional utama.
 
 ### A. Wilayah Kecemasan (Anxiety)
 
-Terjadi ketika $\text{Tantangan} > \text{Keterampilan}$. Jika kamu diberikan tugas yang jauh melampaui kemampuan saat ini (misalnya: diminta memimpin operasi bedah jantung padahal kamu baru mahasiswa kedokteran tahun pertama), kamu tidak akan masuk ke kondisi *flow*. Sebaliknya, sistem saraf kamu akan memicu respons stres.
+Terjadi ketika $\text{Tantangan} > \text{Keterampilan}$. Jika kamu diberikan tugas yang jauh melampaui kemampuan saat ini (misalnya diminta memimpin operasi bedah jantung padahal kamu baru mahasiswa kedokteran tahun pertama), sistem saraf kamu akan memicu respons stres, dan kondisi *flow* tidak tercapai.
 
 - **Gejala:** Panik, berkeringat dingin, pikiran buntu, dan keinginan untuk melarikan diri (*avoidance*).
 
@@ -91,13 +91,13 @@ Desainer game menggunakan model ini untuk menjaga pemain tetap setia. Jika level
 
 ## 5\. Strategi Menyesuaikan Diri ke Dalam Flow
 
-Jika kamu merasa keluar dari jalur *flow*, gunakan langkah-langkah praktis berikut:
+Jika kamu merasa keluar dari jalur *flow*, gunakan langkah-langkah praktis berikut.
 
 ### Jalan Keluar dari Zona Kecemasan (Tantangan Terlalu Tinggi)
 
 1. **Dekomposisi Tugas:** Pecah proyek besar menjadi langkah-langkah kecil yang tidak mengintimidasi.
 2. **Tingkatkan Resource:** Cari tutorial, mentor, atau alat bantu yang bisa meningkatkan kemampuan kamu secara instan.
-3. **Turunkan Ekspektasi:** Fokus pada penyelesaian (*done*), bukan kesempurnaan (*perfect*).
+3. **Turunkan Ekspektasi:** Kejar penyelesaian (*done*) dan lepaskan tuntutan kesempurnaan (*perfect*).
 
 ### Jalan Keluar dari Zona Kebosanan (Tantangan Terlalu Rendah)
 
@@ -109,4 +109,4 @@ Jika kamu merasa keluar dari jalur *flow*, gunakan langkah-langkah praktis berik
 
 ## Kesimpulan
 
-Model Tantangan vs Keterampilan mengajarkan kita bahwa kebahagiaan dan produktivitas bukan berasal dari ketiadaan kesulitan, melainkan dari **kualitas kesulitan** yang kita pilih. Untuk tetap berada di kondisi *Flow*, kita harus menjadi manajer atas diri sendiri: tahu kapan harus belajar lebih giat untuk mengejar tantangan, dan tahu kapan harus menaikkan standar saat segala sesuatunya mulai terasa terlalu mudah.
+Model Tantangan vs Keterampilan mengajarkan kita bahwa kebahagiaan dan produktivitas berasal dari **kualitas kesulitan** yang kita pilih. Untuk tetap berada di kondisi *Flow*, kita harus menjadi manajer atas diri sendiri yang tahu kapan harus belajar lebih giat untuk mengejar tantangan, dan tahu kapan harus menaikkan standar saat segala sesuatunya mulai terasa terlalu mudah.

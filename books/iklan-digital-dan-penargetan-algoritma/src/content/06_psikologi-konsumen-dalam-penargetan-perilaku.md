@@ -2,7 +2,7 @@
 
 Pernahkah kamu merasa seolah-olah ponsel kamu sedang "mendengarkan" pembicaraan kamu? Kamu baru saja membahas keinginan untuk mendaki gunung dengan teman, dan tiba-tiba, beranda media sosial kamu dipenuhi iklan sepatu *hiking* dan tenda.
 
-Ini adalah hasil dari **Penargetan Perilaku (Behavioral Targeting)** yang bekerja selaras dengan **Psikologi Konsumen**. Algoritma tidak hanya memproses data; mereka memetakan bagaimana otak manusia bekerja untuk menciptakan dorongan belanja.
+Ini adalah hasil dari **Penargetan Perilaku (Behavioral Targeting)** yang bekerja selaras dengan **Psikologi Konsumen**. Algoritma memproses data sekaligus memetakan cara otak manusia bekerja untuk menciptakan dorongan belanja.
 
 ## 1. Dari Data ke Keinginan Konsumen
 
@@ -10,7 +10,7 @@ Algoritma digital berfungsi seperti seorang pelayan restoran yang intuitif. Sebe
 
 Dalam dunia digital, setiap klik, durasi tontonan, dan pencarian adalah sinyal psikologis. Penargetan perilaku memanfaatkan sinyal ini untuk menyajikan iklan pada saat **Reseptivitas Maksimal**, yaitu saat pertahanan kognitif kamu paling rendah dan keinginan kamu paling tinggi.
 
-> "Iklan yang paling efektif tidak terasa seperti iklan; ia terasa seperti solusi tepat waktu untuk masalah yang baru saja kamu sadari."
+> "Iklan yang paling efektif terasa seperti solusi tepat waktu untuk masalah yang baru saja kamu sadari."
 
 ## 2. Memanfaatkan Bias Kognitif
 
@@ -75,9 +75,9 @@ Semakin banyak data psikologis (minat, emosi, waktu aktif) yang dimasukkan ke da
 **Skenario Perjalanan Membeli Sepatu Lari**
 
 1. **Kesadaran (Awareness):** Budi mencari "cara mulai lari maraton" di Google. Algoritma mencatat minat pada "kesehatan" dan "maraton".
-2. **Pertimbangan (Consideration):** Budi mengunjungi situs sepatu lari tetapi tidak membeli karena harganya mahal (Hambatan Psikologis: *Pain of Paying*).
-3. **Intervensi Algoritma:** Dua jam kemudian, Budi melihat iklan sepatu yang sama di Facebook dengan testimoni pelari profesional (Memicu: *Social Proof*).
-4. **Konversi (Conversion):** Keesokan harinya, muncul iklan dengan kode promo 10% yang berlaku hanya hari ini (Memicu: *Scarcity* dan mengurangi *Pain of Paying*).
+2. **Pertimbangan (Consideration):** Budi mengunjungi situs sepatu lari tetapi tidak membeli karena harganya mahal (hambatan psikologis berupa *Pain of Paying*).
+3. **Intervensi Algoritma:** Dua jam kemudian, Budi melihat iklan sepatu yang sama di Facebook dengan testimoni pelari profesional (memicu *Social Proof*).
+4. **Konversi (Conversion):** Keesokan harinya, muncul iklan dengan kode promo 10% yang berlaku hanya hari ini (memicu *Scarcity* dan mengurangi *Pain of Paying*).
 5. **Hasil:** Budi membeli. Iklan tersebut berhasil karena menyerang hambatan psikologis Budi di waktu yang tepat.
 
 ## 6. Manipulasi vs. Persuasi
@@ -93,6 +93,6 @@ Untuk benar-benar memahami ini, cobalah eksperimen kecil:
 
 1. Buka satu situs belanja (misalnya, peralatan dapur yang mahal) dan masukkan ke keranjang tanpa membayar.
 2. Amati bagaimana iklan di media sosial kamu berubah dalam 24 jam ke depan.
-3. Identifikasi bias kognitif mana yang sedang mereka coba picu pada kamu: Apakah itu **Kelangkaan**, **Validasi Sosial**, atau **Paparan Semata**?
+3. Identifikasi bias kognitif mana yang sedang mereka coba picu pada kamu. Apakah itu **Kelangkaan**, **Validasi Sosial**, atau **Paparan Semata**?
 
-Dengan memahami mekanisme psikologis di balik layar, kita tidak hanya menjadi pemasar yang lebih cerdas, tetapi juga konsumen yang lebih sadar akan keputusan kita sendiri.
+Dengan memahami mekanisme psikologis di balik layar, kita bisa menjadi pemasar yang lebih cerdas sekaligus konsumen yang lebih sadar akan keputusan kita sendiri.

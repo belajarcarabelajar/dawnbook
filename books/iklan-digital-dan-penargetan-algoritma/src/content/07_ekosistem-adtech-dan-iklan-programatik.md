@@ -2,11 +2,11 @@
 
 Periklanan digital modern dijalankan oleh sebuah sistem teknologi. Pernahkah kamu bertanya-tanya mengapa setelah mencari "sepatu lari" di mesin pencari, tiba-tiba iklan sepatu tersebut muncul di blog berita yang kamu baca hanya beberapa detik kemudian?
 
-Ini bukan kebetulan, dan bukan juga karena ponsel kamu "mendengarkan" pembicaraan kamu. Ini adalah hasil kerja dari **Ekosistem AdTech (Advertising Technology)** yang beroperasi dalam hitungan milidetik.
+Ponsel kamu tidak sedang "mendengarkan" pembicaraan kamu. Iklan itu muncul berkat kerja **Ekosistem AdTech (Advertising Technology)** yang beroperasi dalam hitungan milidetik.
 
 ### Apa itu AdTech dan Iklan Programatik?
 
-Dahulu, membeli iklan digital dilakukan secara manual: seorang pemasar menelepon pemilik situs web, bernegosiasi harga, dan mengirimkan file gambar iklan. Proses ini lambat dan tidak efisien.
+Dahulu, iklan digital dibeli secara manual. Seorang pemasar menelepon pemilik situs web, bernegosiasi harga, dan mengirimkan file gambar iklan. Proses ini lambat dan tidak efisien.
 
 **Iklan Programatik** adalah otomatisasi dari proses jual-beli ruang iklan digital. Alih-alih manusia yang bernegosiasi, algoritma dan perangkat lunaklah yang melakukannya.
 
@@ -19,7 +19,7 @@ Untuk memahami cara kerja sistem ini, kita perlu mengenal para aktor di balik la
 1. **Demand-Side Platform (DSP):** Alat yang digunakan oleh **pengiklan** (seperti Nike atau Traveloka) untuk membeli ruang iklan secara otomatis. Di sini, pengiklan menentukan target audiens dan anggaran mereka.
 2. **Supply-Side Platform (SSP):** Alat yang digunakan oleh **penerbit/publisher** (seperti Kompas.com atau Detik.com) untuk menjual ruang iklan yang kosong di situs mereka kepada penawar tertinggi.
 3. **Ad Exchange:** "Lantai bursa" digital tempat DSP dan SSP bertemu. Di sinilah proses lelang terjadi secara otomatis.
-4. **Data Management Platform (DMP):** Gudang data yang memberi tahu sistem siapa audiens tersebut (misal: "Pria, 25 tahun, suka lari, tinggal di Jakarta").
+4. **Data Management Platform (DMP):** Gudang data yang memberi tahu sistem siapa audiens tersebut (misalnya "Pria, 25 tahun, suka lari, tinggal di Jakarta").
 
 ### Real-Time Bidding (RTB)
 
@@ -66,13 +66,13 @@ Dalam AdTech, sering digunakan sistem **Second-Price Auction** (meskipun kini se
 
 Misalkan untuk satu slot iklan (CPM, *Cost Per Mille*):
 
-- Pengiklan A menawar: USD 2,50
-- Pengiklan B menawar: USD 3,10
-- Pengiklan C menawar: USD 2,00
+- Pengiklan A menawar USD 2,50.
+- Pengiklan B menawar USD 3,10.
+- Pengiklan C menawar USD 2,00.
 
 **Pemenang:** Pengiklan B. **Harga yang dibayar:** Harga tertinggi kedua (USD 2,50) + USD 0,01 = **USD 2,51**.
 
-Rumus sederhananya:
+Dalam bentuk rumus sederhana, aturannya menjadi seperti ini.
 
 $$
 \text{Harga Pemenang} = \text{Penawaran Tertinggi Ke-2} + \epsilon

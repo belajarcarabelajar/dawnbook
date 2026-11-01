@@ -1,6 +1,6 @@
 ## Analisis Diakronis
 
-Analisis diakronis meneliti perkembangan dan perubahan makna kata dari masa ke masa guna mengungkap evolusi bahasa dalam lintasan sejarah. Kata-kata yang digunakan dalam percakapan sehari-hari menyimpan jejak sejarah yang terbentuk selama berabad-abad. Bahasa tidak pernah bersifat statis, melainkan terus bertumbuh, beradaptasi, dan mengalami pergeseran bentuk serta makna.
+Analisis diakronis meneliti perkembangan dan perubahan makna kata dari masa ke masa guna mengungkap evolusi bahasa dalam lintasan sejarah. Kata-kata yang digunakan dalam percakapan sehari-hari menyimpan jejak sejarah yang terbentuk selama berabad-abad. Bahasa terus bertumbuh, beradaptasi, dan mengalami pergeseran bentuk serta makna.
 
 Secara etimologis, istilah diakronis berakar dari bahasa Yunani *dia* yang berarti 'melalui' dan *chronos* yang berarti 'waktu'. Berbeda dengan analisis sinkronis yang memotret kondisi bahasa pada satu kurun waktu tertentu secara statis, analisis diakronis menelusuri alur perubahan semantik secara kronologis, mulai dari perluasan makna, penyempitan makna, hingga pergeseran nilai rasa baik pejorasi maupun ameliorasi.
 

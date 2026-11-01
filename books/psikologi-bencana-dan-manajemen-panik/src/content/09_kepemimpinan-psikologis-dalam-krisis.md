@@ -2,13 +2,13 @@
 
 Ketika bencana mendadak melanda, misalnya gempa bumi besar yang mengguncang pusat perbelanjaan, listrik padam seketika dan alarm bahaya meraung. Reruntuhan mengaburkan pandangan. Dalam hitungan detik pertama, rantai komando dan struktur organisasi formal (seperti petugas keamanan, pengelola gedung, atau protokol evakuasi standar) kerap kali lumpuh akibat disorientasi massal. Di titik genting ini, **kepemimpinan psikologis** (*psychological leadership*) memegang peran penentu antara keselamatan bersama dan eskalasi kepanikan.
 
-Kepemimpinan psikologis tidak bertumpu pada jabatan struktural atau otoritas formal, melainkan pada kapasitas mental untuk memproyeksikan stabilitas, mengambil kendali atas disrupsi, serta memberikan arah navigasi yang terukur kepada massa yang kehilangan orientasi. Saat struktur formal runtuh, respons psikologis kolektif tidak mencari figur penguasa, melainkan figur penenang dan pelindung (*stabilizer and protector*).
+Kepemimpinan psikologis bertumpu pada kapasitas mental untuk memproyeksikan stabilitas, mengambil kendali atas disrupsi, serta memberikan arah navigasi yang terukur kepada massa yang kehilangan orientasi. Jabatan struktural atau otoritas formal tidak menjadi syaratnya. Saat struktur formal runtuh, respons psikologis kolektif mencari figur penenang dan pelindung (*stabilizer and protector*).
 
 ---
 
 ### 1. Membangun Otoritas Spontan (*Emergent Leadership*)
 
-Dalam sosiologi bencana, dikenal fenomena *emergent leadership*, yaitu kondisi ketika individu tanpa jabatan formal muncul ke garis depan untuk mengisi kekosongan kepemimpinan fungsional. Otoritas spontan ini tidak ditegakkan melalui koersi fisik, melainkan melalui proyeksi kehadiran (*command presence*).
+Dalam sosiologi bencana, dikenal fenomena *emergent leadership*, yaitu kondisi ketika individu tanpa jabatan formal muncul ke garis depan untuk mengisi kekosongan kepemimpinan fungsional. Otoritas spontan ini tegak lewat proyeksi kehadiran (*command presence*), tanpa koersi fisik.
 
 #### A. Bahasa Tubuh Berwibawa
 
@@ -22,7 +22,7 @@ Ketika sistem saraf manusia terperangkap dalam mode *fight-flight-freeze*, kapas
 
 Suara merupakan instrumen psikologis langsung dalam memodulasi aktivasi fisiologis massa:
 
-* **Proyeksi Diafragma, Bukan Teriakan Melengking:** Teriakan bernada tinggi memicu resonansi kepanikan pada amigdala orang lain. Proyeksi vokal berbasis diafragma dengan nada rendah dan tegas memancarkan ketenangan.
+* **Proyeksi Vokal dari Diafragma:** Teriakan bernada tinggi memicu resonansi kepanikan pada amigdala orang lain. Proyeksi vokal berbasis diafragma dengan nada rendah dan tegas memancarkan ketenangan.
 * **Sintaksis Direktif dan Singkat:** Menyampaikan instruksi dalam kalimat pendek berstruktur tegas.
 
 > *"Berhenti sejenak! Dengarkan instruksi. Kita bergerak teratur keluar melalui pintu darurat di sebelah kanan."*
@@ -53,7 +53,7 @@ Secara analitis, ketenangan seorang individu di tengah kekacauan mampu memutus r
 
 ### 3. Mengorganisasi Tindakan saat Rantai Komando Terputus
 
-Kekeliruan fatal dalam manajemen bencana adalah kecenderungan figur penyelamat untuk menangani seluruh beban sendirian. Pemimpin krisis yang efektif bertindak layaknya seorang dirigen orkestra, bukan pelaku tunggal.
+Kekeliruan fatal dalam manajemen bencana adalah kecenderungan figur penyelamat untuk menangani seluruh beban sendirian. Pemimpin krisis yang efektif bertindak layaknya seorang dirigen orkestra.
 
 Peran dirigen itu berjalan dalam empat mata rantai, dari krisis yang membekukan kelompok sampai rasa agensi yang pulih kembali.
 
@@ -74,7 +74,7 @@ Kondisi panik ekstrem sering memicu pembekuan kognitif (*cognitive freeze*). Mem
 * *"Bantu hitung jumlah orang yang melintasi pintu pembatas ini."*
 * *"Periksa bilik di sebelah kiri untuk memastikan tidak ada korban tertinggal."*
 
-> **Prinsip Utama:** Distribusi tugas mikro dalam krisis bukan semata-mata pembagian beban kerja teknis, melainkan intervensi psikologis untuk mengembalikan kendali diri dan memulihkan fungsi rasional korban.
+> **Prinsip Utama:** Distribusi tugas mikro dalam krisis membagi beban kerja teknis sekaligus berfungsi sebagai intervensi psikologis untuk mengembalikan kendali diri dan memulihkan fungsi rasional korban.
 
 ---
 
@@ -97,8 +97,8 @@ flowchart TD
 
 **Protokol Implementasi Kepemimpinan Psikologis:**
 
-1. **Intervensi Vokal dan Visibilitas:** Mengambil posisi yang terlihat jelas oleh massa (misalnya menaiki anak tangga atau podium kecil) dan memberikan komando vokal yang lantang: *"Semuanya, berhenti sejenak dan lihat arah tangga darurat!"*
-2. **Pembentukan Fokus Kolektif:** Mengarahkan perhatian dari kepanikan asap menuju rute evakuasi yang jelas: *"Asap terlihat di lorong kiri, namun jalur tangga darurat sisi kanan aman untuk dilalui secara berurutan."*
+1. **Intervensi Vokal dan Visibilitas:** Mengambil posisi yang terlihat jelas oleh massa (misalnya menaiki anak tangga atau podium kecil) dan memberikan komando vokal yang lantang, misalnya *"Semuanya, berhenti sejenak dan lihat arah tangga darurat!"*
+2. **Pembentukan Fokus Kolektif:** Mengarahkan perhatian dari kepanikan asap menuju rute evakuasi yang jelas dengan kalimat seperti *"Asap terlihat di lorong kiri, namun jalur tangga darurat sisi kanan aman untuk dilalui secara berurutan."*
 3. **Delegasi Instan (*Instant Delegation*):**
    * Menugaskan individu yang berfisik prima untuk mengontrol pintu darurat agar tidak terjadi penumpukan massal.
    * Menunjuk figur yang stabil untuk memimpin barisan terdepan dengan ritme jalan cepat tanpa berlari.
@@ -135,6 +135,6 @@ Untuk mencegah kelumpuhan analisis di tengah ancaman, pembatasan kognitif ditera
 * **Otoritas Berakar pada Ketenangan:** Pengendalian terhadap situasi krisis bermula dari kemampuan mengendalikan respons somatik dan fisiologis diri sendiri.
 * **Proyeksi Multimodal:** Kombinasi bahasa tubuh yang terbuka serta suara berbasis diafragma menjadi penanda visual dan auditori kepemimpinan yang dapat diandalkan.
 * **Aktivasi Agensi Melalui Tugas Mikro:** Pembagian tugas konkret secara cepat memecahkan kelumpuhan kognitif dan memulihkan fungsi rasional korban bencana.
-* **Peran Mercusuar:** Pemimpin psikologis bertindak sebagai pemandu arah dan pemberi kepastian tindakan, bukan pembawa histeria atau janji tanpa dasar.
+* **Peran Mercusuar:** Pemimpin psikologis bertindak sebagai pemandu arah dan pemberi kepastian tindakan. Ia tidak menyebarkan histeria atau janji tanpa dasar.
 
-> **Refleksi Filosofis:** Kepemimpinan psikologis pada dasarnya melayani keselamatan bersama, bukan dorongan ego maupun hierarki kekuasaan. Kepemimpinan ini terlihat saat kehadiran seseorang membuat kelompok berani bertahan hidup dan saling melindungi.
+> **Refleksi Filosofis:** Kepemimpinan psikologis pada dasarnya melayani keselamatan bersama. Ego dan hierarki kekuasaan tidak menjadi pendorongnya. Kepemimpinan ini terlihat saat kehadiran seseorang membuat kelompok berani bertahan hidup dan saling melindungi.

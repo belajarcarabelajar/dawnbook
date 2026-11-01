@@ -2,7 +2,7 @@
 
 Pernahkah kamu merasa seolah ponsel kamu sedang "mendengarkan" pembicaraan kamu? Kamu baru saja membahas tentang keinginan membeli sepatu lari baru, dan tiba-tiba, iklan sepatu lari muncul di feed media sosial kamu.
 
-Meskipun terdengar seperti penyadapan, kenyataannya jauh lebih teknis: ini adalah hasil kerja **algoritma penargetan**. Bagian ini akan membedah "kotak hitam" teknologi yang memproses miliaran titik data untuk memprediksi keinginan kamu.
+Kedengarannya seperti penyadapan, padahal kenyataannya jauh lebih teknis. Iklan itu hasil kerja **algoritma penargetan**. Bagian ini akan membedah "kotak hitam" teknologi yang memproses miliaran titik data untuk memprediksi keinginan kamu.
 
 ### 1. Mengubah Data Menjadi Vektor
 
@@ -22,11 +22,11 @@ Di sini, $f$ merepresentasikan fitur seperti (usia, lokasi, minat\_otomotif, riw
 
 ### 2. Tiga Pendekatan Algoritma Penargetan
 
-Untuk memprediksi apa yang ingin kamu lihat, algoritma menggunakan tiga pendekatan utama:
+Untuk memprediksi apa yang ingin kamu lihat, algoritma menggunakan tiga pendekatan utama.
 
 #### A. Collaborative Filtering (Penyaringan Kolaboratif)
 
-Logika ini bekerja berdasarkan prinsip: *"Orang yang memiliki minat yang sama di masa lalu, cenderung memiliki minat yang sama di masa depan."*
+Logika ini bekerja berdasarkan prinsip *"Orang yang memiliki minat yang sama di masa lalu, cenderung memiliki minat yang sama di masa depan."*
 
 - **Cara kerja:** Jika Pengguna A menyukai produk X, Y, dan Z, dan Pengguna B menyukai X dan Y, maka algoritma akan merekomendasikan produk Z kepada Pengguna B.
 - **Kekuatan:** Tidak perlu memahami isi konten, hanya perlu melihat pola perilaku antar pengguna.
@@ -35,7 +35,7 @@ Logika ini bekerja berdasarkan prinsip: *"Orang yang memiliki minat yang sama di
 
 Logika ini fokus pada properti dari item yang kamu konsumsi.
 
-- **Cara kerja:** Jika kamu sering menonton video tentang "Resep Rendang", algoritma akan mencari konten lain dengan metadata serupa (misal: "Masakan Padang", "Tips Daging Empuk").
+- **Cara kerja:** Jika kamu sering menonton video tentang "Resep Rendang", algoritma akan mencari konten lain dengan metadata serupa (misalnya "Masakan Padang" atau "Tips Daging Empuk").
 - **Kekuatan:** Sangat efektif untuk pengguna baru yang belum memiliki banyak interaksi sosial tetapi sudah menunjukkan minat spesifik.
 
 #### C. Lookalike Modeling (Pemodelan Serupa)
@@ -46,8 +46,8 @@ Ini adalah teknik lanjutan ketika pengiklan memberikan data pelanggan terbaik me
 
 Salah satu ciri teknis algoritma penargetan adalah kecepatannya. Seluruh proses, mulai dari kamu membuka aplikasi hingga iklan muncul, terjadi dalam waktu kurang dari **100 milidetik**.
 
-1. **Trigger:** Kamu membuka aplikasi (misal: Instagram).
-2. **Request:** Aplikasi mengirim sinyal ke server iklan: "Pengguna ID\_123 sedang aktif, butuh iklan."
+1. **Trigger:** Kamu membuka aplikasi, misalnya Instagram.
+2. **Request:** Aplikasi mengirim sinyal "Pengguna ID\_123 sedang aktif, butuh iklan" ke server iklan.
 3. **Scoring:** Algoritma melakukan *scoring* terhadap ribuan iklan yang tersedia berdasarkan kecocokan dengan vektor kamu.
 4. **Selection:** Iklan dengan skor tertinggi (gabungan minat dan bid) dipilih.
 5. **Rendering:** Iklan muncul di layar kamu.
@@ -84,7 +84,7 @@ Dalam hitungan ini, meskipun iklan "Luxury Watch" memiliki bayaran (bid) terting
 
 - **Data adalah Input:** Algoritma membutuhkan aliran data terus-menerus untuk menjaga akurasi.
 - **Vektorisasi:** Manusia diubah menjadi titik-titik data matematis agar bisa diproses secara komputasi.
-- **Prediksi vs Realitas:** Algoritma tidak tahu *pasti* apa yang kamu mau, mereka hanya menghitung **probabilitas statistik** berdasarkan pola masa lalu.
+- **Prediksi vs Realitas:** Algoritma menghitung **probabilitas statistik** berdasarkan pola masa lalu, sehingga tebakannya tentang apa yang kamu mau tidak pernah *pasti*.
 - **Real-Time:** Semua keputusan ini diambil lebih cepat daripada proses berpikir sadar manusia.
 
-> **Insight Memorable:** Algoritma penargetan tidak mengenal kamu secara pribadi; mereka hanya mengenal "bayangan digital" kamu yang terbentuk dari ribuan interaksi yang pernah kamu lakukan di internet.
+> **Insight Memorable:** Algoritma penargetan mengenal kamu lewat "bayangan digital" yang terbentuk dari ribuan interaksi yang pernah kamu lakukan di internet.

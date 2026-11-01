@@ -8,7 +8,7 @@ Sejarah penanganan bencana dan riset empiris menunjukkan bahwa dalam banyak kasu
 
 ### 1. Apa Itu Psikologi Bencana?
 
-**Psikologi Bencana** adalah cabang ilmu psikologi terapan yang berfokus pada pemahaman, mitigasi, dan penanganan respons perilaku serta proses mental manusia terhadap peristiwa destruktif berskala besar yang mengancam keselamatan jiwa, infrastruktur, dan tatanan sosial. Bidang ini tidak hanya menangani trauma psikologis *setelah* kejadian, melainkan juga meneliti dan mengintervensi perilaku manusia *sebelum* dan *saat* krisis berlangsung.
+**Psikologi Bencana** adalah cabang ilmu psikologi terapan yang berfokus pada pemahaman, mitigasi, dan penanganan respons perilaku serta proses mental manusia terhadap peristiwa destruktif berskala besar yang mengancam keselamatan jiwa, infrastruktur, dan tatanan sosial. Cakupannya membentang dari meneliti dan mengintervensi perilaku manusia *sebelum* dan *saat* krisis berlangsung sampai menangani trauma psikologis *setelah* kejadian.
 
 > "Bencana merupakan hasil interaksi antara ancaman fisik lingkungan dan kerentanan manusia. Psikologi bencana hadir untuk menjembatani dan memperkuat ketahanan di antara kedua aspek tersebut."
 
@@ -42,7 +42,7 @@ Psikologi bencana beroperasi secara berkesinambungan di seluruh tahapan krisis m
 
 ### 3. Signifikansi Faktor Psikologis dalam Penyelamatan
 
-Dalam manajemen bencana konvensional, perhatian kerap terpusat pada kesiapan logistik fisik: tenda darurat, ransum makanan, dan pasokan medis. Namun, pengabaian terhadap aspek psikologis dapat melumpuhkan efektivitas operasi penyelamatan di lapangan.
+Dalam manajemen bencana konvensional, perhatian kerap terpusat pada kesiapan logistik fisik seperti tenda darurat, ransum makanan, dan pasokan medis. Namun, pengabaian terhadap aspek psikologis dapat melumpuhkan efektivitas operasi penyelamatan di lapangan.
 
 #### A. Kecepatan Reaksi dan Waktu Evakuasi
 
@@ -90,7 +90,7 @@ Penerapan prinsip-prinsip psikologi bencana secara nyata membedakan keberhasilan
 | **Pengelolaan Evakuasi** | Membiarkan kepanikan menguasai massa hingga terjadi dorong-mendorong dan sumbatan di pintu keluar. | Petugas memancarkan ketenangan berwibawa melalui arahan vokal yang tegas, ritmis, dan terstruktur. |
 | **Fasilitas Pengungsian** | Terfokus eksklusif pada pembagian logistik fisik tanpa memperhatikan beban psikososial. | Menyediakan ruang aman bagi anak-anak, pendampingan awal PFA, dan pemulihan rutinitas sosial komunitas. |
 
-> **Prinsip Utama:** Keberhasilan manajemen bencana tidak hanya diukur dari berdirinya kembali bangunan fisik, melainkan dari seberapa cepat ketahanan kognitif dan kesehatan mental masyarakat dipulihkan agar dapat berfungsi kembali secara mandiri.
+> **Prinsip Utama:** Keberhasilan manajemen bencana ikut diukur dari seberapa cepat ketahanan kognitif dan kesehatan mental masyarakat dipulihkan agar dapat berfungsi kembali secara mandiri, di samping berdirinya kembali bangunan fisik.
 
 ---
 
@@ -98,6 +98,6 @@ Penerapan prinsip-prinsip psikologi bencana secara nyata membedakan keberhasilan
 
 Memahami psikologi bencana merupakan langkah fundamental dalam mentransformasikan respons instingtif yang rentan menjadi kesiapsiagaan yang terencana. Menyadari bahwa rasa takut adalah mekanisme biologis yang wajar memungkinkan setiap individu melatih regulasi emosi agar tetap dapat berpikir jernih di tengah kekacauan.
 
-Ketika keadaan darurat tiba-tiba terjadi di lingkungan sekitar, respons manusia umumnya terbagi ke dalam tiga pola utama: membeku di tempat (*freeze*), melarikan diri tanpa arah (*flee*), atau mengambil jeda sepersekian detik untuk menimbang keputusan evakuasi yang tepat (*rational appraisal*). Mengenali kecenderungan respons pribadi merupakan fondasi awal dalam melatih kesiapsiagaan kognitif.
+Ketika keadaan darurat tiba-tiba terjadi di lingkungan sekitar, respons manusia umumnya terbagi ke dalam tiga pola utama. Ada yang membeku di tempat (*freeze*), ada yang melarikan diri tanpa arah (*flee*), dan ada yang mengambil jeda sepersekian detik untuk menimbang keputusan evakuasi yang tepat (*rational appraisal*). Mengenali kecenderungan respons pribadi merupakan fondasi awal dalam melatih kesiapsiagaan kognitif.
 
 Di antara ketiga pola itu, mana yang paling mungkin muncul pada dirimu saat keadaan darurat tiba?

@@ -10,7 +10,7 @@ Secara biologis, pemicu flow bekerja dengan cara membanjiri sistem saraf kita de
 
 > **Analogi:** Jika Kondisi Flow adalah sebuah stasiun radio, maka Pemicu adalah tombol "tuning" yang membantu kamu menemukan frekuensi yang tepat sehingga suara musik terdengar jernih tanpa statis/gangguan.
 
-Terdapat sekitar 22 pemicu flow yang diidentifikasi oleh para peneliti (seperti Steven Kotler dari *Flow Research Collective*). Kita dapat mengategorikannya ke dalam beberapa kelompok. Tiga di antaranya dibahas berikut: **Internal, Eksternal, dan Sosial.**
+Terdapat sekitar 22 pemicu flow yang diidentifikasi oleh para peneliti (seperti Steven Kotler dari *Flow Research Collective*). Kita dapat mengategorikannya ke dalam beberapa kelompok. Tiga kelompok di antaranya dibahas berikut ini, yaitu **Internal, Eksternal, dan Sosial.**
 
 ## 1\. Pemicu Internal (Psikologis)
 
@@ -54,11 +54,11 @@ Lingkungan yang memiliki **Kebaruan (Novelty)**, **Kompleksitas**, dan **Ketidak
 
 ### C. Keterlibatan Tubuh Secara Mendalam (Deep Embodiment)
 
-Ini adalah keterlibatan seluruh indra. Bukan hanya berpikir, tapi merasakan. Pemicu ini sangat kuat bagi atlet, penari, atau praktisi bela diri. Ini adalah sinkronisasi antara apa yang dilihat mata, dirasakan kulit, dan dilakukan otot.
+Ini adalah keterlibatan seluruh indra, ketika berpikir dan merasakan berjalan bersama. Pemicu ini sangat kuat bagi atlet, penari, atau praktisi bela diri. Ini adalah sinkronisasi antara apa yang dilihat mata, dirasakan kulit, dan dilakukan otot.
 
 ## 3\. Pemicu Sosial (Group Flow)
 
-Flow tidak hanya terjadi secara individu. Pernahkah kamu berada dalam tim tempat semua orang tampak bisa membaca pikiran satu sama lain? Itu disebut **Group Flow**.
+Flow juga bisa terjadi dalam kelompok. Pernahkah kamu berada dalam tim tempat semua orang tampak bisa membaca pikiran satu sama lain? Itu disebut **Group Flow**.
 
 1. **Konsentrasi Kelompok:** Seluruh anggota tim fokus pada satu tujuan kolektif.
 2. **Komunikasi Terbuka:** Umpan balik yang jujur dan cepat antaranggota.
@@ -73,7 +73,7 @@ Mari kita lihat bagaimana seorang Software Engineer menggunakan pemicu ini untuk
 
 - **Risiko Tinggi:** Setiap menit bug ada, perusahaan kehilangan uang (Memicu adrenalin/fokus).
 - **Tujuan Jelas:** "Temukan fungsi yang gagal dan perbaiki logika validasi datanya."
-- **Umpan Balik Segera:** Insinyur tersebut menulis *unit test*. Setiap kali dia mengubah kode, dia menjalankan tes dan melihat hasil "Merah" (Gagal) atau "Hijau" (Berhasil). Misalnya, aturan validasinya menolak pembayaran bernilai nol atau negatif, dan tesnya memeriksa dua kasus: pembayaran bernilai positif harus diterima, sedangkan pembayaran bernilai negatif harus ditolak.
+- **Umpan Balik Segera:** Insinyur tersebut menulis *unit test*. Setiap kali dia mengubah kode, dia menjalankan tes dan melihat hasil "Merah" (Gagal) atau "Hijau" (Berhasil). Misalnya, aturan validasinya menolak pembayaran bernilai nol atau negatif, dan tesnya memeriksa dua kasus, yaitu pembayaran bernilai positif harus diterima dan pembayaran bernilai negatif harus ditolak.
 
 ## Membuat "Ritual Pemicu"
 
@@ -84,4 +84,4 @@ Untuk memudahkan kamu masuk ke dalam flow, kamu bisa merancang ritual sebelum be
 3. **Tingkatkan Pertaruhan (Risiko):** Gunakan teknik seperti *Pomodoro* dengan waktu yang ketat, atau berjanjilah pada rekan kerja untuk menunjukkan hasil dalam satu jam.
 4. **Hilangkan Distraksi:** Letakkan ponsel di ruangan lain.
 
-> **Ingat:** Flow bukanlah sesuatu yang bisa kamu "paksa", tetapi sesuatu yang bisa kamu "undang". Dengan menyiapkan pemicu-pemicu di atas, kamu memudahkan pikiran kamu untuk masuk ke dalam kondisi performa puncak tersebut.
+> **Ingat:** Kamu tidak bisa memaksa flow datang. Kamu bisa "mengundangnya" dengan menyiapkan pemicu-pemicu di atas, sehingga pikiran kamu lebih mudah masuk ke dalam kondisi performa puncak tersebut.

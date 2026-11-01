@@ -2,7 +2,7 @@
 
 Dalam terminologi Stoik, emosi yang merusak disebut sebagai **Pathe** (jamak dari *pathos*). Kata ini secara etimologis berakar dari bahasa Yunani yang berarti "penderitaan" atau "sesuatu yang menimpa".
 
-Bagi kaum Stoik, emosi negatif seperti kemarahan yang meluap-luap, kecemasan yang melumpuhkan, atau kegembiraan yang euforik dan dangkal dianggap sebagai **gangguan akal sehat**. Emosi-emosi ini bukanlah sesuatu yang datang dari luar, melainkan hasil dari penilaian internal yang keliru terhadap realitas.
+Bagi kaum Stoik, emosi negatif seperti kemarahan yang meluap-luap, kecemasan yang melumpuhkan, atau kegembiraan yang euforik dan dangkal dianggap sebagai **gangguan akal sehat**. Emosi-emosi ini lahir dari penilaian internal yang keliru terhadap realitas.
 
 > "Manusia tidak terganggu oleh hal-hal yang terjadi, tetapi oleh pendapat mereka tentang hal-hal tersebut." - **Epictetus**
 
@@ -18,7 +18,7 @@ $$
 
 Mari kita bedah komponennya:
 
-1. **Kesan (Phantasia/Impression):** Ini adalah data mentah yang masuk ke pancaindra kita. Contoh: Seseorang memotong jalur kamu saat berkendara.
+1. **Kesan (Phantasia/Impression):** Ini adalah data mentah yang masuk ke pancaindra kita, misalnya seseorang memotong jalur kamu saat berkendara.
 2. **Persetujuan (Sunkatathesis/Assent):** Di sinilah letak kendali kita. Kita memberikan "stempel setuju" pada penilaian bahwa kejadian tersebut "buruk" atau "menghina".
 3. **Emosi (Pathe):** Jika kita menyetujui bahwa kejadian itu buruk dan kita harus bereaksi, maka muncullah kemarahan.
 
@@ -32,7 +32,7 @@ flowchart LR
     B -->|"jika disetujui bahwa kejadian itu buruk dan harus bereaksi"| C["Emosi (Pathe)"]
 ```
 
-*Jika kamu melihat seseorang berteriak pada kamu dalam bahasa yang tidak kamu mengerti, apakah kamu akan merasa terhina? Mungkin tidak, karena kamu tidak memberikan "persetujuan" pada makna kata-katanya. Ini membuktikan bahwa emosi bergantung pada penilaian kamu, bukan pada kejadiannya.*
+*Jika kamu melihat seseorang berteriak pada kamu dalam bahasa yang tidak kamu mengerti, apakah kamu akan merasa terhina? Mungkin tidak, karena kamu tidak memberikan "persetujuan" pada makna kata-katanya. Ini membuktikan bahwa emosi bergantung pada penilaian kamu.*
 
 ## Empat Nafsu Utama (The Four Passions)
 
@@ -45,7 +45,7 @@ Stoikisme mengklasifikasikan emosi destruktif ke dalam empat kategori besar yang
 | **Lust (Epithumia)** | Keinginan yang tidak rasional akan apa yang dianggap baik. | Masa Depan |
 | **Delight (Hēdonē)** | Kegembiraan yang berlebihan atas hal yang dangkal/fana. | Masa Kini |
 
-**Penting:** Stoikisme tidak mengajarkan kita untuk menjadi robot tanpa perasaan. Tujuan mereka adalah mengganti *Pathe* dengan **Eupatheia** (perasaan baik/sehat) yang berlandaskan pada akal budi, seperti kegembiraan yang tenang, kehendak baik, dan kewaspadaan yang rasional.
+**Penting:** Tujuan kaum Stoik adalah mengganti *Pathe* dengan **Eupatheia** (perasaan baik/sehat) yang berlandaskan pada akal budi, seperti kegembiraan yang tenang, kehendak baik, dan kewaspadaan yang rasional. Seorang Stoik tidak berubah menjadi robot tanpa perasaan.
 
 ## Tiga Teknik Mengendalikan Emosi
 
@@ -62,15 +62,15 @@ Saat emosi mulai memuncak, jangan langsung bertindak. Stoik menyarankan untuk me
 Lihatlah hal-hal sebagaimana adanya, tanpa label nilai yang kita tempelkan.
 
 - **Analogi:** Marcus Aurelius sering mempraktikkan ini. Baginya, anggur mahal hanyalah sedikit sari buah anggur, dan jubah ungu kaisar hanyalah bulu domba yang dicelupkan ke dalam darah kerang.
-- **Aplikasi:** Jika kamu menginginkan gadget terbaru (Lust), katakan: *"Ini hanya tumpukan kaca, silikon, dan plastik yang akan usang dalam dua tahun."*
+- **Aplikasi:** Jika kamu menginginkan gadget terbaru (Lust), katakan dalam hati, *"Ini hanya tumpukan kaca, silikon, dan plastik yang akan usang dalam dua tahun."*
 
 ### 3\. Menguji Persetujuan
 
-Tanyakan pada diri sendiri: *"Apakah hal ini benar-benar di bawah kendaliku? Apakah penilaianku bahwa ini 'buruk' benar-benar akurat?"*
+Tanyakan pada diri sendiri, *"Apakah hal ini benar-benar di bawah kendaliku? Apakah penilaianku bahwa ini 'buruk' benar-benar akurat?"*
 
 ## Dua Pertanyaan Sebelum Bereaksi
 
-Seorang Stoik memeriksa sebuah peristiwa sebelum emosinya sempat menguasai dirinya. Saat peristiwa datang, ia mengajukan dua pertanyaan berurutan. Pertama, apakah peristiwa ini secara moral buruk, yaitu merusak karakter? Kalau ya, ambil tindakan perbaikan. Kalau tidak, berarti ini hanya masalah eksternal, misalnya macet, kritik orang, atau kehilangan uang. Lalu muncul pertanyaan kedua: apakah hal ini berada di luar kendali kamu? Kalau ya, bersikaplah netral (*indifferent*), dan hasilnya adalah ketenangan batin (*Ataraxia*). Kalau masih dalam kendali kamu, berikan respons yang rasional.
+Seorang Stoik memeriksa sebuah peristiwa sebelum emosinya sempat menguasai dirinya. Saat peristiwa datang, ia mengajukan dua pertanyaan berurutan. Pertama, apakah peristiwa ini secara moral buruk, yaitu merusak karakter? Kalau ya, ambil tindakan perbaikan. Kalau tidak, berarti ini hanya masalah eksternal, misalnya macet, kritik orang, atau kehilangan uang. Pertanyaan keduanya adalah apakah hal ini berada di luar kendali kamu. Kalau ya, bersikaplah netral (*indifferent*), dan hasilnya adalah ketenangan batin (*Ataraxia*). Kalau masih dalam kendali kamu, berikan respons yang rasional.
 
 Dua pertanyaan itu membentuk percabangan berikut.
 
@@ -97,6 +97,6 @@ flowchart TD
 
 ## Mendidik Perasaan
 
-Mengelola emosi dalam Stoikisme bukanlah tentang menekan atau memendam perasaan (*suppression*), melainkan tentang **mengedukasi perasaan** kita melalui akal sehat. Dengan mengubah cara kita menilai sebuah peristiwa, kita secara otomatis mengubah perasaan yang muncul dari peristiwa tersebut.
+Mengelola emosi dalam Stoikisme berarti **mengedukasi perasaan** kita melalui akal sehat. Perasaan itu tidak ditekan atau dipendam (*suppression*). Dengan mengubah cara kita menilai sebuah peristiwa, kita secara otomatis mengubah perasaan yang muncul dari peristiwa tersebut.
 
 > **Latihan Refleksi:** *Pikirkan satu hal yang membuat kamu kesal hari ini. Apakah kamu bisa melihat kejadian itu sebagai sesuatu yang "netral" jika kamu melepaskan label "buruk" yang kamu berikan padanya?*

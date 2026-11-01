@@ -12,7 +12,7 @@ Lucius Annaeus Seneca adalah sosok yang penuh kontras. Ia adalah salah satu oran
 
 Seneca sering kali dianggap sebagai "Stoik yang paling manusiawi" karena tulisan-tulisannya yang berbentuk surat (*Epistulae Morales ad Lucilium*) terasa pribadi dan penuh empati.
 
-- **Tentang Singkatnya Kehidupan**: Seneca berargumen bahwa hidup ini tidak pendek, melainkan kita yang membuang banyak waktu.
+- **Tentang Singkatnya Kehidupan**: Seneca berargumen bahwa hidup ini cukup panjang, dan kita sendiri yang membuang banyak waktunya.
 	> "Kita bukan kekurangan waktu, tapi kita yang terlalu banyak menyia-nyiakannya."
 - **Praktik Menghadapi Kemalangan**: Meskipun kaya, ia menyarankan agar kita sesekali hidup dalam kekurangan (makan makanan sederhana, berpakaian kasar) untuk membuktikan bahwa kemiskinan bukanlah hal yang perlu ditakuti.
 - **Manajemen Amarah**: Seneca menulis esai khusus tentang amarah, menganggapnya sebagai "kegilaan sesaat" yang harus dihindari dengan logika.
@@ -27,7 +27,7 @@ Jika Seneca mengajarkan bagaimana tetap menjadi Stoik di tengah kekayaan, Epicte
 
 Bagi Epictetus, inti dari Stoikisme adalah memahami bahwa satu-satunya hal yang benar-benar kita miliki adalah **kehendak bebas** atau cara kita merespons sesuatu.
 
-- **Pembedaan Sempurna**: Ia menyempurnakan konsep bahwa kita tidak bisa mengontrol apa yang terjadi pada tubuh atau reputasi kita, tetapi kita punya kendali penuh atas opini kita terhadap kejadian tersebut.
+- **Pembedaan Sempurna**: Ia menyempurnakan konsep bahwa apa yang terjadi pada tubuh atau reputasi kita berada di luar kontrol kita. Opini kita terhadap kejadian tersebut sepenuhnya kita kendalikan.
 - **Kemerdekaan Batin**: Ia mengajarkan bahwa seorang kaisar bisa saja menjadi budak dari nafsunya, sementara seorang budak bisa menjadi orang paling merdeka di dunia jika ia menguasai pikirannya.
 - **Peran dalam Hidup**: Ia menganalogikan hidup seperti sebuah drama. Kita tidak memilih peran kita (menjadi orang cacat, orang kaya, atau pemimpin), tugas kita hanyalah memainkan peran tersebut sebaik mungkin.
 
@@ -35,7 +35,7 @@ Bagi Epictetus, inti dari Stoikisme adalah memahami bahwa satu-satunya hal yang 
 
 ## 3\. Marcus Aurelius (121 M - 180 M)
 
-Marcus Aurelius adalah pemimpin Kekaisaran Romawi di masa-masa sulit: wabah penyakit (Antonine Plague), perang terus-menerus di perbatasan, dan pengkhianatan orang terdekat. Di tengah tekanan itu, ia menulis catatan harian untuk dirinya sendiri yang sekarang kita kenal sebagai *Meditations* (Renungan).
+Marcus Aurelius adalah pemimpin Kekaisaran Romawi di masa-masa sulit yang diwarnai wabah penyakit (Antonine Plague), perang terus-menerus di perbatasan, dan pengkhianatan orang terdekat. Di tengah tekanan itu, ia menulis catatan harian untuk dirinya sendiri yang sekarang kita kenal sebagai *Meditations* (Renungan).
 
 ### Kewajiban dan Kesadaran Kosmik
 
@@ -60,7 +60,7 @@ Berbeda dengan Seneca yang menulis untuk orang lain, Marcus menulis untuk mendis
 
 ## Cara Tiap Tokoh Menyikapi Gagal Promosi
 
-Bagaimana kita menerapkan perspektif mereka dalam menghadapi masalah modern (misalnya: gagal mendapatkan promosi jabatan)?
+Bagaimana kita menerapkan perspektif mereka dalam menghadapi masalah modern (misalnya gagal mendapatkan promosi jabatan)?
 
 1. **Gaya Seneca**: "Ingatlah bahwa posisi itu hanyalah pinjaman dari nasib. Gunakan waktu luangmu sekarang untuk menulis atau belajar hal lain yang lebih bermakna daripada sekadar mengejar status."
 2. **Gaya Epictetus**: "Promosi itu ada di luar kendalimu. Yang ada dalam kendalimu adalah bagaimana kamu bekerja dan bagaimana kamu bereaksi terhadap keputusan atasanmu. Jika kamu sudah bekerja baik, kamu tetap merdeka."
@@ -74,4 +74,4 @@ Bagaimana kita menerapkan perspektif mereka dalam menghadapi masalah modern (mis
 - *Apakah kamu merasa terjebak oleh keadaan yang tidak adil (seperti Epictetus)?*
 - *Atau kamu sedang berjuang mengelola kecemasan di tengah kesibukan dan ambisi (seperti Seneca)?*
 
-> **Pesan Penutup:** Meskipun keadaan hidup mereka berbeda, Seneca, Epictetus, dan Marcus Aurelius setuju pada satu hal: Kebahagiaan tidak ditemukan dalam status atau harta, melainkan dalam karakter dan cara kita berpikir.
+> **Pesan Penutup:** Meskipun keadaan hidup mereka berbeda, Seneca, Epictetus, dan Marcus Aurelius sepakat bahwa kebahagiaan ditemukan dalam karakter dan cara kita berpikir. Status dan harta tidak memberikannya.

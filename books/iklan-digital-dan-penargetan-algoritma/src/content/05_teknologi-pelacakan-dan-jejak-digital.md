@@ -1,6 +1,6 @@
 ## Teknologi Pelacakan dan Jejak Digital
 
-Pernahkah kamu merasa seolah-olah internet "mengikuti" kamu? Kamu baru saja melihat sepasang sepatu di sebuah toko online, dan tiba-tiba, iklan sepatu yang sama muncul di Instagram, portal berita, hingga aplikasi cuacamu. Ini bukan kebetulan. Ini adalah hasil kerja dari ekosistem teknologi pelacakan.
+Pernahkah kamu merasa seolah-olah internet "mengikuti" kamu? Kamu baru saja melihat sepasang sepatu di sebuah toko online, dan tiba-tiba, iklan sepatu yang sama muncul di Instagram, portal berita, hingga aplikasi cuacamu. Semua itu hasil kerja ekosistem teknologi pelacakan.
 
 Dalam bagian ini, kita akan membongkar mekanisme di balik "mata-mata digital" ini dan memahami bagaimana setiap langkah yang kamu ambil di internet meninggalkan jejak yang dapat dibaca oleh algoritma.
 
@@ -8,7 +8,7 @@ Dalam bagian ini, kita akan membongkar mekanisme di balik "mata-mata digital" in
 
 **Cookie** adalah file teks berukuran kecil yang disimpan oleh situs web di perangkatmu (komputer atau ponsel) melalui peramban (browser).
 
-> **Analogi:** Bayangkan cookie seperti nomor antrean di sebuah restoran atau tiket penitipan jaket. Saat kamu kembali ke kasir, mereka tidak perlu bertanya siapa kamu; mereka cukup melihat tiket tersebut untuk mengetahui pesanan atau jaket milikmu.
+> **Analogi:** Bayangkan cookie seperti nomor antrean di sebuah restoran atau tiket penitipan jaket. Saat kamu kembali ke kasir, mereka cukup melihat tiket tersebut untuk mengetahui pesanan atau jaket milikmu.
 
 #### Jenis-Jenis Cookie
 
@@ -30,7 +30,7 @@ Jika cookie adalah file teks, **Pixel Tracking** (sering disebut *web beacon* at
    - Alamat IP-mu.
    - Waktu kunjungan.
    - Jenis perangkat dan peramban yang digunakan.
-   - Aktivitas spesifik (misalnya: menekan tombol "Beli").
+   - Aktivitas spesifik (misalnya menekan tombol "Beli").
 
 Jika digambar, pertukaran tak kasatmata antara perambanmu dan server pengiklan tampak seperti ini.
 
@@ -80,7 +80,7 @@ Alih-alih menyimpan file di perangkatmu, teknik ini mengumpulkan puluhan informa
 - Zona waktu.
 - Pengaturan bahasa.
 
-Meskipun satu informasi (seperti "resolusi layar") dimiliki jutaan orang, kombinasi dari 20-30 informasi teknis ini hampir pasti bersifat unik bagimu. Probabilitas dua orang memiliki sidik jari browser yang identik sangatlah kecil: $P(\text{match}) \approx \frac{1}{2^{33}}$
+Meskipun satu informasi (seperti "resolusi layar") dimiliki jutaan orang, kombinasi dari 20-30 informasi teknis ini hampir pasti bersifat unik bagimu. Probabilitas dua orang memiliki sidik jari browser yang identik sangatlah kecil, dengan $P(\text{match}) \approx \frac{1}{2^{33}}$
 
 ### Perjalanan Data Andi Mencari Tenda
 

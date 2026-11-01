@@ -6,7 +6,7 @@ Jika tidak dikelola dengan bijak, pengejaran terhadap kondisi flow bisa berubah 
 
 ### 1\. Adiksi Terhadap "High" dari Flow
 
-Secara neurobiologis, saat kamu berada dalam kondisi flow, otak melepaskan "koktail" bahan kimia saraf: **Dopamin, Norepinefrin, Endorfin, Anandamida, dan Serotonin**.
+Secara neurobiologis, saat kamu berada dalam kondisi flow, otak melepaskan "koktail" bahan kimia saraf yang terdiri dari **Dopamin, Norepinefrin, Endorfin, Anandamida, dan Serotonin**.
 
 **Mesin yang Dipacu Berlebihan** Bayangkan flow seperti sistem *Nitrous Oxide* (NOS) pada mobil balap. Ia memberikan lonjakan kecepatan. Namun, jika kamu menekan tombol NOS terus-menerus tanpa henti, mesin akan mengalami *overheat* dan akhirnya hancur. Begitu pula dengan otak manusia.
 
@@ -51,7 +51,7 @@ Dengan:
 - $R$: *Recovery* (Kualitas istirahat/pemulihan)
 - $C$: *Cost* (Beban fisik dan mental yang dikeluarkan)
 
-**Pesan utamanya:** Jika $R$ (pemulihan) mendekati nol, maka $S$ (keberlanjutan) juga akan merosot, tidak peduli seberapa tinggi intensitas flow kamu.
+Jika $R$ (pemulihan) mendekati nol, maka $S$ (keberlanjutan) juga akan merosot, tidak peduli seberapa tinggi intensitas flow kamu.
 
 ### "The Crunch" di Industri Kreatif
 
@@ -70,6 +70,6 @@ Bagaimana cara kita menikmati manfaat flow tanpa jatuh ke dalam risikonya? Berik
 4. **Audit Etika dan Nilai:** Pastikan aktivitas yang membuat kamu flow sejalan dengan nilai-nilai moral dan tujuan hidup jangka panjang kamu.
 5. **Sosialisasi Terjadwal:** Jangan biarkan hobi atau pekerjaan yang memicu flow membuat kamu terisolasi. Jadwalkan waktu khusus untuk interaksi sosial yang tidak boleh diganggu oleh kegiatan flow tersebut.
 
-*Adiksi terhadap flow bukan sekadar risiko teoretis - ia adalah perangkap nyata yang bisa membuat kamu melupakan janji penting, mengabaikan orang-orang terdekat, dan pada akhirnya kehilangan kendali atas aktivitas yang seharusnya kamu kendalikan.*
+*Adiksi terhadap flow adalah perangkap nyata yang bisa membuat kamu melupakan janji penting, mengabaikan orang-orang terdekat, dan pada akhirnya kehilangan kendali atas aktivitas yang seharusnya kamu kendalikan.*
 
-> **Insight Memorable:** Flow adalah pelayan yang baik, tetapi tuan yang kejam. Gunakan ia untuk meningkatkan kualitas hidup kamu, bukan untuk menggantikan kehidupan kamu.
+> **Insight Memorable:** Flow adalah pelayan yang baik, tetapi tuan yang kejam. Biarkan ia meningkatkan kualitas hidup kamu tanpa menggantikan kehidupan itu sendiri.

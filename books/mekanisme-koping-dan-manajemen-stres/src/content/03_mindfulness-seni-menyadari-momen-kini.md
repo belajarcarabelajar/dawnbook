@@ -19,7 +19,7 @@ Bayangkan pikiranmu adalah sebuah stasiun kereta api yang sangat sibuk. Setiap k
 
 ### Mengapa Mindfulness Berhasil? (Perspektif Sains)
 
-Mindfulness tidak hanya berkaitan dengan aspek spiritual; ia memiliki dasar biologis yang kuat. Saat kita stres, bagian otak bernama **amigdala** (*amygdala*, pusat emosi/takut) menjadi sangat aktif.
+Di samping sisi spiritualnya, mindfulness memiliki dasar biologis yang kuat. Saat kita stres, bagian otak bernama **amigdala** (*amygdala*, pusat emosi/takut) menjadi sangat aktif.
 
 Melalui praktik mindfulness yang konsisten, kita melatih **korteks prefrontal** (*prefrontal cortex*, pusat logika dan kendali diri) untuk mengambil alih kendali. Secara matematis, tingkat stres $S$ dapat dianggap berbanding terbalik dengan tingkat kesadaran saat ini $C$ dan penerimaan $A$:
 
@@ -33,12 +33,12 @@ Artinya, semakin tinggi kesadaran kita akan momen kini ($C$) dan semakin besar p
 
 Untuk mempraktikkan mindfulness, kamu perlu memahami dua pilar utamanya:
 
-1. **Fokus pada "Saat Ini" (Present Moment):** Fokus kita hanya pada apa yang terjadi sekarang. Bukan apa yang akan kita masak nanti malam, atau kesalahan yang kita buat kemarin.
+1. **Fokus pada "Saat Ini" (Present Moment):** Fokus kita hanya pada apa yang terjadi sekarang, tanpa memikirkan apa yang akan kita masak nanti malam atau kesalahan yang kita buat kemarin.
 2. **Tanpa Penilaian (Non-judgmental):** Jika muncul pikiran negatif, jangan menghukum diri sendiri. Alih-alih berkata, "Duh, kenapa sih aku mikirin itu lagi? Aku payah banget!", katakanlah, "Oh, aku menyadari ada pikiran tentang masa lalu yang muncul." Berikan label, lalu lepaskan.
 
 ### Teknik Praktis Mindfulness
 
-Berikut adalah beberapa cara yang bisa kamu lakukan untuk melatih otot mindfulness kamu:
+Berikut adalah beberapa cara yang bisa kamu lakukan untuk melatih otot mindfulness kamu.
 
 #### 1. Metode S.T.O.P (Teknik Jeda Instan)
 
@@ -79,7 +79,7 @@ Alih-alih makan sambil menonton YouTube, cobalah lakukan ini:
 1. Kamu menyadari: "Oke, dadaku terasa sesak dan pikiranku mulai membuat skenario buruk."
 2. Kamu mengambil napas satu kali secara sadar.
 3. Kamu memisahkan antara **fakta** (kritikan atasan) dan **cerita** (pikiran bahwa kamu akan dipecat).
-4. Kamu merespons berdasarkan fakta, bukan berdasarkan emosi yang meledak-ledak.
+4. Kamu merespons berdasarkan fakta tanpa terbawa emosi yang meledak-ledak.
 
 ### Tips untuk Pemula
 
@@ -94,7 +94,7 @@ Alih-alih makan sambil menonton YouTube, cobalah lakukan ini:
 | **Berjalan** | Rasakan gesekan telapak kaki dengan lantai atau tanah. |
 | **Menunggu** | Saat mengantre atau di lampu merah, alih-alih kesal, amati napasmu. |
 
-> **Insight Memorable:** Kebahagiaan tidak ditemukan dengan melarikan diri dari masalah kita ke masa depan yang dibayangkan, tetapi dengan hadir sepenuhnya di sini, bahkan di tengah kekacauan sekalipun.
+> **Insight Memorable:** Kebahagiaan ditemukan dengan hadir sepenuhnya di sini, bahkan di tengah kekacauan sekalipun. Melarikan diri dari masalah ke masa depan yang dibayangkan tidak membawa kita ke sana.
 
 ---
 

@@ -39,7 +39,7 @@ Dalam wacana kekuasaan, ameliorasi diterapkan untuk membungkus kenyataan sosioek
 | **Keluarga Miskin** | Keluarga Prasejahtera | Mengalihkan fokus dari kegagalan struktural menuju fase persiapan kesejahteraan. |
 | **Penggusuran** | Penataan Permukiman | Menghapus konotasi kekerasan ruang dan menampilkan kesan perbaikan tata kota. |
 
-Perubahan sebutan dari kata 'miskin' menjadi 'prasejahtera' tidak serta-merta meningkatkan daya beli masyarakat. Perubahan leksikal ini lebih berperan dalam menata kenyamanan psikologis penutur dan audiens ketika mendiskusikan ketimpangan ekonomi.
+Perubahan sebutan dari kata 'miskin' menjadi 'prasejahtera' terutama menata kenyamanan psikologis penutur dan audiens ketika mendiskusikan ketimpangan ekonomi. Daya beli masyarakat tidak serta-merta ikut naik.
 
 ### 3. Pejorasi Politik
 
@@ -81,4 +81,4 @@ Penerapan rekayasa bahasa secara berkepanjangan menghadirkan konsekuensi sosial 
 
 Dinamika politik dan rekayasa bahasa menegaskan bahwa kosakata kerap menjadi alat dalam perebutan nilai. Ameliorasi berfungsi meredam keresahan publik, sedangkan pejorasi bekerja mendiskreditkan pihak penantang.
 
-Pemelajar bahasa yang cermat dituntut untuk mendekonstruksi setiap istilah yang beredar di ruang publik. Analisis kritis tidak berhenti pada pemahaman arti harfiah kata, melainkan meneliti kepentingan sosial politik di balik pemilihan istilah tersebut.
+Pemelajar bahasa yang cermat dituntut untuk mendekonstruksi setiap istilah yang beredar di ruang publik. Setelah arti harfiahnya dipahami, analisis kritis meneliti kepentingan sosial politik di balik pemilihan istilah tersebut.

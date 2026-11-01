@@ -44,7 +44,7 @@ Dengan:
 - $N_0$ = Jumlah inti mula-mula (saat $t = 0$).
 - $e$ = Bilangan Euler ($\approx 2.718$).
 
-> **Wawasan Penting:** Karena persamaannya bersifat eksponensial, secara teoretis zat radioaktif tidak akan pernah benar-benar mencapai angka nol (habis total), ia hanya akan terus mendekati nol.
+> **Wawasan Penting:** Karena persamaannya bersifat eksponensial, secara teoretis jumlah zat radioaktif terus mendekati nol. Angka nol (habis total) tidak akan pernah benar-benar tercapai.
 
 ### 3. Waktu Paruh (Half-Life)
 
@@ -62,7 +62,7 @@ Sehingga, rumus untuk mencari Waktu Paruh adalah:
 
 $T_{1/2} = \frac{0.693}{\lambda}$
 
-*Klarifikasi Konsep Waktu Paruh: Apabila sebuah isotop beta memiliki waktu paruh 10 menit dengan sampel awal 1 kg, setelah 10 menit tersisa 500 g. Setelah 20 menit, sampel tidak langsung habis melainkan menyisakan 250 g (setengah dari 500 g).*
+*Klarifikasi Konsep Waktu Paruh: Apabila sebuah isotop beta memiliki waktu paruh 10 menit dengan sampel awal 1 kg, setelah 10 menit tersisa 500 g. Setelah 20 menit, sampel itu belum habis. Yang tersisa 250 g, setengah dari 500 g.*
 
 Kalau digambar, sisa sampel pada contoh tadi menurun seperti grafik ini.
 
@@ -105,7 +105,7 @@ Misalkan kita memiliki isotop **Iodium-131** (pemancar beta yang digunakan dalam
    $$
    </div>
 
-2. Gunakan rumus praktis: $A = A_0 \times (\frac{1}{2})^n$
+2. Gunakan rumus praktis $A = A_0 \times (\frac{1}{2})^n$
 3. $A = 400 \times (\frac{1}{2})^3$
 4. $A = 400 \times \frac{1}{8} = 50 \text{ MBq}$
 

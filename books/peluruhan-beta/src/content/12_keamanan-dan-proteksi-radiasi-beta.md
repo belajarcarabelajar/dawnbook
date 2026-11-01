@@ -1,6 +1,6 @@
 ## Keamanan dan Proteksi Radiasi Beta
 
-Kamu sudah memahami bagaimana peluruhan beta terjadi dan bagaimana partikel ini digunakan dalam berbagai teknologi. Pertanyaan berikutnya adalah: **Bagaimana interaksi dengan radiasi ini dapat dilakukan secara aman?**
+Kamu sudah memahami bagaimana peluruhan beta terjadi dan bagaimana partikel ini digunakan dalam berbagai teknologi. Lalu, **bagaimana interaksi dengan radiasi ini dapat dilakukan secara aman?**
 
 Berbeda dengan partikel alfa yang berat atau sinar gamma yang sangat menembus, partikel beta memiliki karakteristik unik yang memerlukan strategi perlindungan khusus. Bagian ini akan membahas daya tembus partikel beta dan bagaimana memilih material perisai yang tepat untuk menjaga keselamatan diri.
 
@@ -18,7 +18,7 @@ Sebagai perbandingan sederhana:
 
 ### 2. Bahaya Paparan Radiasi Beta
 
-Memahami risiko adalah langkah pertama dalam proteksi. Radiasi beta menghadirkan dua jenis ancaman utama:
+Memahami risiko adalah langkah pertama dalam proteksi. Radiasi beta menghadirkan dua jenis ancaman utama.
 
 #### A. Bahaya Eksternal (Paparan Luar)
 

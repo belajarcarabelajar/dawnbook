@@ -1,8 +1,8 @@
 ## Tiga Pilar Stoikisme
 
-Bagi banyak orang saat ini, Stoikisme mungkin terdengar seperti sekumpulan kutipan motivasi untuk tetap tenang di bawah tekanan. Namun, bagi para filosof kuno di Stoa, ini adalah sebuah sistem ilmu pengetahuan yang terstruktur. Mereka tidak melihat filsafat sebagai hobi akhir pekan, melainkan sebagai kurikulum menyeluruh untuk memahami realitas dan menguasai seni hidup.
+Bagi banyak orang saat ini, Stoikisme mungkin terdengar seperti sekumpulan kutipan motivasi untuk tetap tenang di bawah tekanan. Namun, bagi para filosof kuno di Stoa, ini adalah sebuah sistem ilmu pengetahuan yang terstruktur. Mereka memperlakukan filsafat sebagai kurikulum menyeluruh untuk memahami realitas dan menguasai seni hidup.
 
-Untuk memahami Stoikisme secara utuh, kita harus melihat "Tiga Pilar" yang membangun fondasinya: **Logika**, **Fisika**, dan **Etika**.
+Untuk memahami Stoikisme secara utuh, kita harus melihat "Tiga Pilar" yang membangun fondasinya, yaitu **Logika**, **Fisika**, dan **Etika**.
 
 ## Taman Stoik
 
@@ -16,11 +16,11 @@ Para penganut Stoikisme awal (seperti Zeno dari Citium dan Chrysippus) menyukai 
 
 ## 1\. Logika
 
-Dalam konteks Stoik, **Logika** bukan hanya rumus matematika atau silogisme formal. Ia mencakup teori pengetahuan (*epistemologi*), retorika, dan dialektika.
+Dalam konteks Stoik, **Logika** mencakup lebih dari rumus matematika atau silogisme formal. Di dalamnya ada teori pengetahuan (*epistemologi*), retorika, dan dialektika.
 
 ### Mengapa Logika Penting?
 
-Logika adalah alat untuk memproses **Kesan (Impressions)**. Setiap hari, dunia membombardir kita dengan persepsi: "Orang itu menghinaku," "Pekerjaanku terancam," atau "Aku gagal."
+Logika adalah alat untuk memproses **Kesan (Impressions)**. Setiap hari, dunia membombardir kita dengan persepsi seperti "Orang itu menghinaku," "Pekerjaanku terancam," atau "Aku gagal."
 
 Stoikisme mengajarkan kita untuk tidak langsung menerima kesan tersebut sebagai kebenaran. Logika membantu kita memberikan **Persetujuan (Assent)** hanya pada hal-hal yang benar secara objektif.
 
@@ -31,15 +31,15 @@ Ini adalah kemampuan rasional manusia untuk mengevaluasi kesan. Kita belajar mem
 - **Fakta Objektif:** "Hujan turun."
 - **Penilaian Subjektif:** "Hujan ini merusak hariku dan ini sangat buruk."
 
-*Refleksi Batin: Berapa banyak penderitaan dalam hidup yang sebenarnya bukan berasal dari kejadian itu sendiri, melainkan dari persepsi subjektif dalam menilainya?*
+*Refleksi Batin: Berapa banyak penderitaan dalam hidup yang sebenarnya berasal dari persepsi subjektif kita saat menilai sebuah kejadian?*
 
 ## 2\. Fisika
 
-Bagi Stoik, **Fisika** bukan hanya belajar tentang gravitasi atau atom, melainkan studi tentang *Physis* (Alam). Ini adalah upaya untuk memahami struktur alam semesta dan posisi manusia di dalamnya.
+Bagi Stoik, **Fisika** adalah studi tentang *Physis* (Alam), dan gravitasi atau atom hanya sebagian darinya. Ini adalah upaya untuk memahami struktur alam semesta dan posisi manusia di dalamnya.
 
 ### Logos
 
-Stoik percaya bahwa alam semesta tidak kacau, melainkan diatur oleh rasionalitas ilahi yang disebut **Logos**. Alam semesta adalah satu organisme hidup yang saling terhubung.
+Stoik percaya bahwa alam semesta tertata, diatur oleh rasionalitas ilahi yang disebut **Logos**. Alam semesta adalah satu organisme hidup yang saling terhubung.
 
 Dalam pandangan Fisika Stoik:
 
@@ -49,17 +49,17 @@ Dalam pandangan Fisika Stoik:
 
 ### Persamaan Keseimbangan Alam
 
-Jika kita memodelkan hubungan antara bagian dan keseluruhan, para Stoik melihatnya sebagai harmoni. Secara metaforis, jika $U$ adalah alam semesta dan $p$ adalah bagian kecil (manusia), maka: $U = \sum\_{i=1}^{n} p\_i$. Setiap $p$ harus berfungsi sesuai dengan perannya agar $U$ tetap stabil. Jika satu bagian melawan hukum alam, ia hanya akan menyakiti dirinya sendiri tanpa bisa mengubah hukum tersebut.
+Jika kita memodelkan hubungan antara bagian dan keseluruhan, para Stoik melihatnya sebagai harmoni. Secara metaforis, jika $U$ adalah alam semesta dan $p$ adalah bagian kecil (manusia), maka $U = \sum\_{i=1}^{n} p\_i$. Setiap $p$ harus berfungsi sesuai dengan perannya agar $U$ tetap stabil. Jika satu bagian melawan hukum alam, ia hanya akan menyakiti dirinya sendiri tanpa bisa mengubah hukum tersebut.
 
 ## 3\. Etika
 
-Inilah puncak dari filsafat Stoik. **Etika** adalah jawaban atas pertanyaan: *"Bagaimana saya harus hidup?"*
+Inilah puncak dari filsafat Stoik. **Etika** menjawab pertanyaan *"Bagaimana saya harus hidup?"*
 
-Setelah kita memiliki **Logika** untuk berpikir jernih dan **Fisika** untuk memahami cara kerja dunia, kita menggunakan pengetahuan itu untuk bertindak. Etika Stoik berpusat pada satu tujuan: **Eudaimonia** (kebahagiaan yang bersumber dari ketenangan batin dan karakter yang luhur).
+Setelah kita memiliki **Logika** untuk berpikir jernih dan **Fisika** untuk memahami cara kerja dunia, kita menggunakan pengetahuan itu untuk bertindak. Tujuan yang menjadi pusat Etika Stoik adalah **Eudaimonia** (kebahagiaan yang bersumber dari ketenangan batin dan karakter yang luhur).
 
 ### Hidup Selaras dengan Alam
 
-Etika Stoik memerintahkan kita untuk "Hidup sesuai dengan alam." Artinya:
+Etika Stoik memerintahkan kita untuk "Hidup sesuai dengan alam." Perintah itu berarti tiga hal.
 
 1. Menggunakan akal budi (karena manusia adalah makhluk rasional).
 2. Menerima apa yang terjadi di luar kendali kita (karena kita memahami hukum Fisika/nasib).
@@ -77,7 +77,7 @@ Mari kita lihat bagaimana ketiga pilar ini bekerja dalam skenario nyata ketika k
 2. **Gunakan Fisika:**
 	- *Pemahaman:* Sadari bahwa ada faktor eksternal (ekonomi, keputusan klien, waktu) yang merupakan bagian dari hukum sebab-akibat di alam semesta. Kamu adalah bagian dari sistem yang kompleks, dan kegagalan adalah bagian alami dari proses pertumbuhan.
 3. **Gunakan Etika:**
-	- *Tindakan:* Apa yang bisa dilakukan sekarang? Bertindak dengan integritas. Akui kesalahan, pelajari apa yang bisa diperbaiki, dan tetap bekerja dengan tekun. Fokus pada karakter kamu (kebajikan), bukan pada bonus yang hilang.
+	- *Tindakan:* Apa yang bisa dilakukan sekarang? Bertindak dengan integritas. Akui kesalahan, pelajari apa yang bisa diperbaiki, dan tetap bekerja dengan tekun. Fokus pada karakter kamu (kebajikan), dan biarkan bonus yang hilang itu berlalu.
 
 ## Ringkasan Struktur Stoik
 

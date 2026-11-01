@@ -2,7 +2,7 @@
 
 Pernahkah kamu merasa bahwa hidup ini seperti papan catur? Setiap keputusan yang kamu ambil, mulai dari menawar harga di pasar hingga memilih strategi kampanye pemasaran, bergantung pada apa yang akan dilakukan orang lain.
 
-Jika ya, kamu sudah mulai berpikir secara strategis. **Teori Permainan (Game Theory)** adalah kerangka kerja matematis dan logis yang digunakan untuk menganalisis situasi ketika hasil dari tindakan kamu tidak hanya ditentukan oleh pilihan kamu sendiri, melainkan juga oleh pilihan orang lain.
+Jika ya, kamu sudah mulai berpikir secara strategis. **Teori Permainan (Game Theory)** adalah kerangka kerja matematis dan logis yang digunakan untuk menganalisis situasi ketika hasil dari tindakan kamu ikut ditentukan oleh pilihan orang lain, di samping pilihan kamu sendiri.
 
 ## Apa Itu Teori Permainan?
 
@@ -36,7 +36,7 @@ Dalam interaksi manusia, "keputusan terbaik" sering kali bersifat relatif. Teori
 - **Memahami Konflik dan Kerja Sama:** Ia menjelaskan mengapa dua pihak yang seharusnya bekerja sama sering kali berakhir dalam konflik (seperti dalam perlombaan senjata nuklir).
 - **Prediksi Perilaku Pasar:** Membantu perusahaan memprediksi reaksi kompetitor terhadap perubahan harga atau peluncuran produk baru.
 - **Desain Sistem:** Digunakan oleh pemerintah untuk merancang sistem lelang atau mekanisme pemungutan suara agar tidak mudah dicurangi.
-- **Rasionalitas Strategis:** Melatih kita untuk tidak hanya memikirkan langkah kita saat ini, tetapi juga langkah lawan di masa depan: berpikir dua atau tiga langkah ke depan.
+- **Rasionalitas Strategis:** Melatih kita memikirkan langkah lawan di masa depan selain langkah kita saat ini, sehingga kita terbiasa berpikir dua atau tiga langkah ke depan.
 
 *Pernahkah kamu berada dalam situasi ketika kamu tahu kerja sama adalah jalan terbaik, tetapi kamu takut dikhianati sehingga kamu memilih untuk egois? Itu adalah dilema klasik dalam teori permainan.*
 
@@ -48,7 +48,7 @@ Mari kita lihat contoh nyata bagaimana teori permainan bekerja di dunia bisnis.
 
 - Jika keduanya memasang harga normal, keduanya mendapat untung stabil.
 - Jika Toko A memotong harga secara drastis (diskon besar) sementara Toko B tetap normal, Toko A akan menyedot semua pelanggan dan mendapat untung besar, sementara Toko B merugi.
-- **Masalahnya:** Toko B juga berpikir hal yang sama. Jika keduanya memotong harga secara bersamaan, mereka berdua akan mendapatkan jumlah pelanggan yang sama seperti semula, tetapi dengan margin keuntungan yang jauh lebih kecil.
+- Masalahnya, Toko B juga berpikir hal yang sama. Jika keduanya memotong harga secara bersamaan, mereka berdua akan mendapatkan jumlah pelanggan yang sama seperti semula, tetapi dengan margin keuntungan yang jauh lebih kecil.
 
 **Hasilnya?** Sering kali, tanpa adanya komunikasi langsung, kedua toko terjebak dalam "perang harga" yang sebenarnya merugikan keduanya dibandingkan jika mereka bertahan di harga normal. Teori permainan membantu manajer memahami risiko ini sebelum mereka mulai memotong harga.
 

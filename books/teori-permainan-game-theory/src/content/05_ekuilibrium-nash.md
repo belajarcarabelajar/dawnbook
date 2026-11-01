@@ -1,6 +1,6 @@
 ## Ekuilibrium Nash (Nash Equilibrium)
 
-Jika kamu pernah menonton film *A Beautiful Mind*, kamu pasti tidak asing dengan sosok **John Nash**. Konsep yang ia rumuskan bukan sekadar teori akademis, melainkan cara untuk memahami berbagai interaksi, mulai dari perang dagang, strategi militer, hingga mengapa orang-orang mengantre di kasir supermarket.
+Jika kamu pernah menonton film *A Beautiful Mind*, kamu pasti tidak asing dengan sosok **John Nash**. Konsep yang ia rumuskan menjadi cara untuk memahami berbagai interaksi, mulai dari perang dagang, strategi militer, hingga mengapa orang-orang mengantre di kasir supermarket.
 
 Dalam bagian ini, kita akan membongkar apa itu Ekuilibrium Nash, mengapa ia disebut sebagai titik "tanpa penyesalan", dan bagaimana cara menemukannya dalam sebuah interaksi strategis.
 
@@ -10,14 +10,14 @@ Bayangkan kamu dan seorang teman sedang bermain. **Ekuilibrium Nash** adalah seb
 
 **Analogi Sederhana Pertemuan di Mal**
 
-Kamu dan temanmu berencana bertemu di sebuah mal besar yang memiliki dua pintu masuk: Pintu Utara dan Pintu Selatan. Ponsel kalian berdua mati, sehingga kalian tidak bisa berkomunikasi.
+Kamu dan temanmu berencana bertemu di sebuah mal besar yang memiliki dua pintu masuk, Pintu Utara dan Pintu Selatan. Ponsel kalian berdua mati, sehingga kalian tidak bisa berkomunikasi.
 
 - Jika kamu pergi ke Pintu Utara dan temanmu ke Pintu Utara, kalian bertemu (Hasil Bagus).
 - Jika kamu di Utara dan temanmu di Selatan, kalian tidak bertemu (Hasil Buruk).
 
 Jika saat ini kalian berdua berada di **Pintu Utara**, apakah kamu ingin pindah ke Selatan sendirian? Tidak, karena kamu justru tidak akan bertemu temanmu. Begitu juga temanmu. Karena tidak ada yang mau pindah secara sepihak, posisi "Keduanya di Pintu Utara" adalah sebuah **Ekuilibrium Nash**.
 
-> **Wawasan Penting:** Ekuilibrium Nash bukanlah tentang hasil yang "paling adil" atau "paling menguntungkan secara total", melainkan tentang **stabilitas**. Ini adalah titik tempat setiap pemain berkata, "Mengingat apa yang dilakukan lawan saya, saya sudah melakukan yang terbaik yang saya bisa."
+> **Wawasan Penting:** Ekuilibrium Nash berbicara tentang **stabilitas**, dan hasilnya belum tentu yang "paling adil" atau "paling menguntungkan secara total". Ini adalah titik tempat setiap pemain berkata, "Mengingat apa yang dilakukan lawan saya, saya sudah melakukan yang terbaik yang saya bisa."
 
 ### 2. Definisi Formal
 
@@ -46,7 +46,7 @@ Untuk mencari ekuilibrium dalam permainan simultan (pemain memilih di waktu yang
 | **Pasang Iklan** | (10, 10) | (20, 5) |
 | **Tidak Iklan** | (5, 20) | (15, 15) |
 
-*Catatan: Angka pertama dalam kurung adalah payoff Perusahaan A, angka kedua adalah payoff Perusahaan B.*
+*Angka pertama dalam kurung adalah payoff Perusahaan A, angka kedua adalah payoff Perusahaan B.*
 
 **Langkah-langkah Analisis:**
 
@@ -55,9 +55,9 @@ Untuk mencari ekuilibrium dalam permainan simultan (pemain memilih di waktu yang
 3. **Jika Perusahaan A Pasang Iklan:** Respons terbaik Perusahaan B adalah **Pasang Iklan** (10 lebih baik daripada 5). *Kita tandai angka 10 (milik B).*
 4. **Jika Perusahaan A Tidak Iklan:** Respons terbaik Perusahaan B adalah **Pasang Iklan** (20 lebih baik daripada 15). *Kita tandai angka 20 (milik B).*
 
-**Hasil:** Kotak tempat kedua pemain memberikan respons terbaiknya adalah **(Pasang Iklan, Pasang Iklan)** dengan payoff **(10, 10)**. Inilah Ekuilibrium Nash-nya.
+Kotak tempat kedua pemain memberikan respons terbaiknya adalah **(Pasang Iklan, Pasang Iklan)** dengan payoff **(10, 10)**. Inilah Ekuilibrium Nash-nya.
 
-*Coba renungkan: Apakah (10, 10) adalah hasil terbaik bagi kedua perusahaan? Secara kolektif, (15, 15) lebih baik. Namun, dalam Ekuilibrium Nash, godaan untuk mendapatkan 20 membuat posisi (15, 15) tidak stabil.*
+*Coba renungkan, apakah (10, 10) adalah hasil terbaik bagi kedua perusahaan? Secara kolektif, (15, 15) lebih baik. Namun, dalam Ekuilibrium Nash, godaan untuk mendapatkan 20 membuat posisi (15, 15) tidak stabil.*
 
 ### 4. Karakteristik Penting Ekuilibrium Nash
 
@@ -94,8 +94,8 @@ Pernahkah kamu bertanya-tanya mengapa gerai Alfamart dan Indomaret sering kali b
 ### 6. Rangkuman Singkat
 
 - **Ekuilibrium Nash** adalah kondisi stabil ketika tidak ada pemain yang untung jika mengubah strategi sendirian.
-- Ini mencerminkan pemikiran: "Saya melakukan yang terbaik berdasarkan apa yang kamu lakukan, dan kamu melakukan yang terbaik berdasarkan apa yang saya lakukan."
+- Ini mencerminkan cara berpikir "Saya melakukan yang terbaik berdasarkan apa yang kamu lakukan, dan kamu melakukan yang terbaik berdasarkan apa yang saya lakukan."
 - **Metode Pencarian:** Gunakan *best response* untuk setiap kemungkinan pilihan lawan dalam matriks hasil.
-- **Penting:** Ekuilibrium Nash tidak menjamin kebahagiaan maksimal, ia hanya menjamin stabilitas rasional.
+- **Penting:** Ekuilibrium Nash menjamin stabilitas rasional. Kebahagiaan maksimal berada di luar jaminan itu.
 
-> **Renungan:** Dalam hidup, kita sering terjebak dalam Ekuilibrium Nash yang buruk (seperti kemacetan lalu lintas ketika semua orang ingin mengambil jalur tercepat secara egois). Menurut kamu, apa cara terbaik untuk memecahkan ekuilibrium yang buruk dan berpindah ke hasil yang lebih menguntungkan semua orang? *(Petunjuk: Jawabannya sering kali melibatkan komunikasi atau regulasi!)*
+> **Renungan:** Dalam hidup, kita sering terjebak dalam Ekuilibrium Nash yang buruk (seperti kemacetan lalu lintas ketika semua orang ingin mengambil jalur tercepat secara egois). Menurut kamu, apa cara terbaik untuk memecahkan ekuilibrium yang buruk dan berpindah ke hasil yang lebih menguntungkan semua orang? *(Sebagai petunjuk, jawabannya sering kali melibatkan komunikasi atau regulasi!)*

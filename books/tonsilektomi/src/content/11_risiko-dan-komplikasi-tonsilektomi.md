@@ -2,7 +2,7 @@
 
 Setiap prosedur bedah, sekecil apa pun, adalah proses yang harus dilalui tubuh. Meskipun tonsilektomi (pengangkatan amandel) telah menjadi prosedur rutin yang sangat aman dengan tingkat keberhasilan tinggi, tubuh manusia bukanlah mesin yang selalu bisa diprediksi secara mekanis.
 
-Memahami risiko tidak bertujuan untuk menakut-nakuti. Pengetahuan ini justru membekali diri kamu dengan kesiapan untuk mendeteksi masalah lebih dini, sehingga proses pemulihan bisa berjalan mulus. Berikut adalah beberapa potensi risiko yang perlu diperhatikan.
+Memahami risiko membekali diri kamu dengan kesiapan untuk mendeteksi masalah lebih dini, sehingga proses pemulihan bisa berjalan mulus. Berikut adalah beberapa potensi risiko yang perlu diperhatikan.
 
 ## 1. Reaksi terhadap Anestesi (Bius Umum)
 
@@ -26,13 +26,13 @@ Ini adalah masa rawan yang unik pada pemulihan tonsilektomi. Saat luka mulai sem
 
 Jika keropeng ini lepas sebelum waktunya, misalnya karena tergesek makanan yang terlalu keras atau tenggorokan yang terlalu kering, pembuluh darah di bawahnya bisa pecah dan memicu perdarahan. Kasus ini terjadi pada sekitar 2% hingga 5% pasien.
 
-> **Insight Penting:** Perdarahan sekunder sering kali diawali dengan tetesan darah segar berwarna merah terang. Jika kamu melihat darah merah segar (bukan bercak kecokelatan), segera cari bantuan medis tanpa menunda.
+> **Insight Penting:** Perdarahan sekunder sering kali diawali dengan tetesan darah segar berwarna merah terang. Jika kamu melihat darah merah segar, segera cari bantuan medis tanpa menunda. Bercak kecokelatan tidak termasuk tanda ini.
 
 ## 3. Dehidrasi dan Lingkaran Setan Rasa Sakit
 
 Dehidrasi merupakan komplikasi yang paling sering menyebabkan pasien harus kembali dirawat di rumah sakit setelah tonsilektomi.
 
-Rasa sakit saat menelan kerap membuat pasien, terutama anak-anak, enggan minum sehingga tubuh kekurangan cairan $\text{H}_2\text{O}$. Hal ini dapat memicu lingkaran setan: tenggorokan yang kering akan terasa jauh lebih sakit dibandingkan tenggorokan yang lembap. Rasa sakit yang memburuk tersebut membuat pasien semakin takut untuk minum, yang pada akhirnya memperlambat penyembuhan luka.
+Rasa sakit saat menelan kerap membuat pasien, terutama anak-anak, enggan minum sehingga tubuh kekurangan cairan $\text{H}_2\text{O}$. Hal ini dapat memicu lingkaran setan, karena tenggorokan yang kering akan terasa jauh lebih sakit dibandingkan tenggorokan yang lembap. Rasa sakit yang memburuk tersebut membuat pasien semakin takut untuk minum, yang pada akhirnya memperlambat penyembuhan luka.
 
 Putaran yang saling memperparah itu bisa kamu ikuti pada bagan berikut.
 

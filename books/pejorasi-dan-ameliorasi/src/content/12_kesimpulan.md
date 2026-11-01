@@ -6,9 +6,9 @@ Bagian penutup ini merangkum esensi dari dinamika semantik sekaligus menyajikan 
 
 ### 1. Bahasa yang Terus Berubah
 
-Pelajaran mendasar dari studi semantik historis adalah sifat kebahasaan yang lentur dan senantiasa beradaptasi. Bahasa tidak diam di dalam kamus, melainkan terus dipakai dan berubah di ruang percakapan sehari-hari, kolom interaksi media sosial, dan struktur kognitif kolektif masyarakat.
+Pelajaran mendasar dari studi semantik historis adalah sifat kebahasaan yang lentur dan senantiasa beradaptasi. Bahasa terus dipakai dan berubah di ruang percakapan sehari-hari, kolom interaksi media sosial, dan struktur kognitif kolektif masyarakat.
 
-> **Intisari Utama:** Pergeseran makna, baik ameliorasi maupun pejorasi, bukan merupakan tanda kerusakan bahasa, melainkan refleksi dari pergeseran nilai sosial, perkembangan kebudayaan, dan dinamika kekuasaan dalam masyarakat.
+> **Intisari Utama:** Pergeseran makna, baik ameliorasi maupun pejorasi, merupakan refleksi dari pergeseran nilai sosial, perkembangan kebudayaan, dan dinamika kekuasaan dalam masyarakat. Gejala ini tidak menandakan kerusakan bahasa.
 
 Secara formal, pergeseran makna leksikal dapat dimodelkan sebagai fungsi dari makna asal, matriks sosiokultural, dan dimensi temporal:
 
@@ -20,8 +20,8 @@ $$
 
 Keterangan parameter:
 
-- **Ameliorasi** terjadi ketika indeks nilai rasa ($V$) bergerak ke arah positif: $V\_{t1} < V\_{t2}$.
-- **Pejorasi** terjadi ketika indeks nilai rasa ($V$) bergerak ke arah negatif: $V\_{t1} > V\_{t2}$.
+- **Ameliorasi** terjadi ketika indeks nilai rasa ($V$) bergerak ke arah positif ($V\_{t1} < V\_{t2}$).
+- **Pejorasi** terjadi ketika indeks nilai rasa ($V$) bergerak ke arah negatif ($V\_{t1} > V\_{t2}$).
 
 | Dimensi | Ameliorasi | Pejorasi |
 | :--- | :--- | :--- |
@@ -49,7 +49,7 @@ Kamus formal seperti KBBI berperan mencatat dan membakukan penggunaan, sementara
 
 ### 3. Proyeksi Masa Depan Dinamika Semantik
 
-Mencermati pola kebahasaan kontemporer, terdapat beberapa arah tren yang membentuk masa depan leksikologi:
+Mencermati pola kebahasaan kontemporer, terdapat beberapa arah tren yang membentuk masa depan leksikologi.
 
 #### A. Polarisasi dan Politisasi Kosakata
 
@@ -88,7 +88,7 @@ Implementasi industri dari pemodelan ini mencakup:
 
 Kajian semantik mengingatkan bahwa setiap kata menyimpan muatan sejarah, relasi kuasa, dan bobot emosional.
 
-> **Pesan Penutup:** Perubahan makna menunjukkan kemampuan manusia beradaptasi dalam berbahasa. Tanggung jawab penutur bukanlah menahan perubahan bahasa, melainkan memahami nuansa konteks agar pertukaran gagasan tetap berlangsung jernih, santun, dan bermartabat.
+> **Pesan Penutup:** Perubahan makna menunjukkan kemampuan manusia beradaptasi dalam berbahasa. Tanggung jawab penutur adalah memahami nuansa konteks agar pertukaran gagasan tetap berlangsung jernih, santun, dan bermartabat.
 
 - Gunakan pilihan kata dengan kesadaran penuh terhadap dampak psikologis dan sosialnya.
 - Pahami bahwa pemaknaan setiap individu dapat berbeda akibat perbedaan latar belakang kultural, komunitas, atau generasi.

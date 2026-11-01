@@ -2,9 +2,9 @@
 
 Bayangkan kamu sedang duduk di depan papan catur, atau mungkin sedang berada di tengah negosiasi gaji yang alot. Apa kesamaan dari kedua situasi tersebut? Keduanya adalah **permainan**.
 
-Dalam dunia Teori Permainan, sebuah "permainan" bukan sekadar hiburan, melainkan model matematis dari interaksi strategis. Agar sebuah situasi dapat dianalisis menggunakan teori permainan, ia harus memiliki tiga komponen fundamental yang sering disebut sebagai **"The Rules of the Game"**.
+Dalam dunia Teori Permainan, sebuah "permainan" adalah model matematis dari interaksi strategis. Agar sebuah situasi dapat dianalisis menggunakan teori permainan, ia harus memiliki tiga komponen fundamental yang sering disebut sebagai **"The Rules of the Game"**.
 
-Tanpa ketiga elemen ini, kita hanya memiliki aksi acak tanpa tujuan. Tiga elemen mendasar tersebut adalah: **Pemain (Players)**, **Strategi (Strategies)**, dan **Hasil atau Imbalan (Payoffs)**.
+Tanpa ketiga elemen ini, kita hanya memiliki aksi acak tanpa tujuan. Tiga elemen mendasar tersebut adalah **Pemain (Players)**, **Strategi (Strategies)**, dan **Hasil atau Imbalan (Payoffs)**.
 
 ### 1. Pemain (Players)
 
@@ -18,13 +18,13 @@ Pemain adalah para pengambil keputusan dalam permainan. Mereka adalah entitas ya
 
 ### 2. Strategi (Strategies)
 
-Strategi adalah rencana aksi yang **lengkap** dan **menyeluruh**. Ini bukan sekadar satu langkah tunggal, melainkan sebuah instruksi yang memberi tahu pemain apa yang harus dilakukan pada setiap situasi yang mungkin terjadi dalam permainan.
+Strategi adalah rencana aksi yang **lengkap** dan **menyeluruh**, berupa instruksi yang memberi tahu pemain apa yang harus dilakukan pada setiap situasi yang mungkin terjadi dalam permainan.
 
 - **Ruang Strategi:** Kumpulan semua strategi yang tersedia bagi pemain $i$ biasanya dilambangkan dengan $S\_i$.
 - **Contoh Sederhana:** Dalam permainan Gunting-Batu-Kertas, ruang strategi kamu adalah $S = \lbrace \text{Gunting}, \text{Batu}, \text{Kertas} \rbrace$.
 - **Strategi vs. Aksi:**
-  - **Aksi:** Langkah spesifik pada satu titik waktu (misal: "Saya memindahkan pion ke e4").
-  - **Strategi:** Rencana total (misal: "Jika dia menggerakkan kuda, saya akan memindahkan menteri; jika dia menggerakkan pion, saya akan bertahan").
+  - **Aksi:** Langkah spesifik pada satu titik waktu (misalnya "Saya memindahkan pion ke e4").
+  - **Strategi:** Rencana total (misalnya "Jika dia menggerakkan kuda, saya akan memindahkan menteri; jika dia menggerakkan pion, saya akan bertahan").
 
 *Jika kamu bermain catur, mampukah kamu menuliskan strategi yang benar-benar lengkap di atas kertas sebelum permainan dimulai? Secara teoretis bisa, tetapi secara praktis jumlah kombinasinya lebih banyak daripada atom di alam semesta!*
 
@@ -32,21 +32,21 @@ Strategi adalah rencana aksi yang **lengkap** dan **menyeluruh**. Ini bukan seka
 
 Imbalan adalah nilai numerik yang diterima pemain di akhir permainan. Nilai ini mencerminkan tingkat kepuasan, keuntungan, atau utilitas yang diperoleh pemain dari hasil interaksi tersebut.
 
-- **Fungsi Utilitas:** Imbalan biasanya dinyatakan dalam fungsi utilitas $u\_i(s\_1, s\_2, \dots, s\_n)$, yang berarti imbalan pemain $i$ bergantung bukan hanya pada strateginya sendiri ($s\_i$), tetapi juga pada strategi yang dipilih oleh semua pemain lainnya.
+- **Fungsi Utilitas:** Imbalan biasanya dinyatakan dalam fungsi utilitas $u\_i(s\_1, s\_2, \dots, s\_n)$, yang berarti imbalan pemain $i$ bergantung pada strateginya sendiri ($s\_i$) sekaligus pada strategi yang dipilih oleh semua pemain lainnya.
 - **Bentuk Imbalan:**
   - Dalam bisnis: **Profit/Laba**.
   - Dalam politik: **Jumlah suara atau kekuasaan**.
   - Dalam biologi: **Tingkat kelangsungan hidup** (*survival rate*).
 - **Matriks Imbalan:** Untuk permainan sederhana, imbalan sering ditampilkan dalam tabel (matriks).
 
-**Analogi Sederhana:** Bayangkan pemain sebagai **koki** (*Players*), strategi sebagai **resep** (*Strategies*), dan imbalan sebagai **rating bintang** dari juri (*Payoffs*). Rating yang diterima koki A tidak hanya tergantung pada bumbu yang dia pakai, tapi juga apakah koki B memasak hidangan yang lebih enak atau justru hidangan yang saling melengkapi.
+**Analogi Sederhana:** Bayangkan pemain sebagai **koki** (*Players*), strategi sebagai **resep** (*Strategies*), dan imbalan sebagai **rating bintang** dari juri (*Payoffs*). Rating yang diterima koki A tergantung pada bumbu yang dia pakai, dan juga pada hidangan koki B. Apakah koki B memasak sesuatu yang lebih enak, atau justru hidangan yang saling melengkapi?
 
 ### Perang Harga Antartoko
 
-Mari kita terapkan elemen-elemen di atas ke dalam skenario bisnis: **Toko A** dan **Toko B** menjual produk yang sama di jalan yang sama.
+Mari kita terapkan elemen-elemen di atas ke dalam skenario bisnis. **Toko A** dan **Toko B** menjual produk yang sama di jalan yang sama.
 
 1. **Pemain:** Toko A dan Toko B.
-2. **Strategi:** Masing-masing memiliki dua pilihan strategi harga: $\lbrace \text{Harga Tinggi}, \text{Harga Murah} \rbrace$.
+2. **Strategi:** Masing-masing memiliki dua pilihan strategi harga, yaitu $\lbrace \text{Harga Tinggi}, \text{Harga Murah} \rbrace$.
 3. **Imbalan (Profit):**
    - Jika keduanya memasang **Harga Tinggi**, masing-masing mendapat profit Rp10 juta (pasar stabil).
    - Jika keduanya memasang **Harga Murah**, masing-masing mendapat profit Rp5 juta (margin tipis).
@@ -73,7 +73,7 @@ Ketiga elemen tadi bisa dirangkum dalam satu matriks imbalan. Pilihan Toko A ada
 | **Harga Tinggi** | (10, 10) | (2, 15) |
 | **Harga Murah** | (15, 2) | (5, 5) |
 
-Sel kanan atas adalah kebalikan dari kasus ketiga: jika Toko A bertahan di Harga Tinggi sementara Toko B memasang Harga Murah, giliran Toko B yang merebut pelanggan dan mendapat Rp15 juta, sedangkan Toko A hanya mendapat Rp2 juta.
+Sel kanan atas adalah kebalikan dari kasus ketiga. Jika Toko A bertahan di Harga Tinggi sementara Toko B memasang Harga Murah, giliran Toko B yang merebut pelanggan dan mendapat Rp15 juta, sedangkan Toko A hanya mendapat Rp2 juta.
 
 ### Pemain, Strategi, dan Imbalan
 
@@ -85,4 +85,4 @@ Sel kanan atas adalah kebalikan dari kasus ketiga: jika Toko A bertahan di Harga
 
 Memahami ketiga elemen ini adalah fondasi sebelum kita melangkah ke konsep yang lebih kompleks seperti **Ekuilibrium Nash**. Tanpa pemahaman yang kuat tentang siapa yang bermain, apa pilihannya, dan apa tujuannya, analisis strategi akan menjadi bias dan tidak akurat.
 
-> **Ingat:** Dalam teori permainan, keberhasilan kamu tidak hanya ditentukan oleh tindakan kamu sendiri, tetapi juga oleh tindakan orang lain yang berada dalam permainan yang sama. Itulah esensi dari ketergantungan strategis.
+> **Ingat:** Dalam teori permainan, keberhasilan kamu ditentukan oleh tindakan kamu sendiri bersama tindakan orang lain yang berada dalam permainan yang sama. Itulah esensi dari ketergantungan strategis.

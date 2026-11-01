@@ -27,7 +27,7 @@ Pergeseran makna kata ini dipicu oleh pola pemberitaan media massa serta siaran 
 
 #### Makna Saat Ini
 
-Akibat penggunaan berulang dalam konteks berita kriminal, asosiasi masyarakat terhadap kata *oknum* bergeser secara permanen. Kini, kata tersebut langsung diidentikkan dengan pelaku pelanggaran hukum atau pihak yang menyalahgunakan wewenang dan seragam dinas, bukan lagi sekadar individu biasa.
+Akibat penggunaan berulang dalam konteks berita kriminal, asosiasi masyarakat terhadap kata *oknum* bergeser secara permanen. Kini, kata tersebut langsung diidentikkan dengan pelaku pelanggaran hukum atau pihak yang menyalahgunakan wewenang dan seragam dinas.
 
 ### 2. Kata "Gerombolan"
 
@@ -80,4 +80,4 @@ Dinamika pejorasi dapat dianalogikan dengan buah segar:
 
 ### Refleksi Dinamika Bahasa
 
-> **Kesimpulan Konseptual:** Pergeseran makna membuktikan bahwa bahasa terus berubah dan terikat pada ingatan bersama masyarakat penuturnya. Sebuah kata tidak semata-mata membawa definisi kamus, melainkan menyerap riwayat sosial, prasangka kultural, dan dinamika sejarah para penuturnya.
+> **Kesimpulan Konseptual:** Pergeseran makna membuktikan bahwa bahasa terus berubah dan terikat pada ingatan bersama masyarakat penuturnya. Selain membawa definisi kamus, sebuah kata menyerap riwayat sosial, prasangka kultural, dan dinamika sejarah para penuturnya.

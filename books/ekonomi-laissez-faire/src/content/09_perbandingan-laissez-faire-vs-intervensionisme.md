@@ -38,7 +38,7 @@ Dengan:
 - **$G$: Pengeluaran Pemerintah (Alat utama intervensi)**
 - $X - M$: Ekspor neto
 
-*Bayangkan situasi ini: Jika perusahaan takut berinvestasi ($I$) dan masyarakat berhenti belanja ($C$), siapa lagi yang bisa menggerakkan ekonomi selain pemerintah ($G$)?*
+*Bayangkan perusahaan takut berinvestasi ($I$) dan masyarakat berhenti belanja ($C$). Siapa lagi yang bisa menggerakkan ekonomi selain pemerintah ($G$)?*
 
 ## 4. Mekanisme Respons terhadap Krisis
 
@@ -99,7 +99,7 @@ Selama pandemi global 2020-2022, perdebatan ini muncul ke permukaan secara nyata
 ### Keunggulan Laissez-faire
 
 - **Inovasi Cepat:** Kompetisi yang ketat memaksa perusahaan untuk terus berinovasi.
-- **Efisiensi:** Sumber daya dialokasikan ke tempat yang paling menguntungkan, bukan yang paling politis.
+- **Efisiensi:** Sumber daya dialokasikan ke tempat yang paling menguntungkan tanpa ditarik oleh pertimbangan politik.
 
 ### Keunggulan Intervensionisme
 
@@ -108,6 +108,6 @@ Selama pandemi global 2020-2022, perdebatan ini muncul ke permukaan secara nyata
 
 *Refleksi: Menurut kamu, apakah efisiensi lebih penting daripada kesetaraan, atau mungkinkah kita mencapai keduanya sekaligus?*
 
-## Bukan Soal Siapa yang Benar
+## Mesin Pertumbuhan dan Rem Pengaman
 
-Perbandingan antara Laissez-faire dan Intervensionisme bukanlah tentang mencari siapa yang benar dan siapa yang salah, melainkan tentang menemukan **titik keseimbangan**. Laissez-faire memberikan mesin pertumbuhan yang kuat, sementara Intervensionisme menyediakan rem dan sabuk pengaman yang diperlukan untuk perjalanan yang aman bagi seluruh anggota masyarakat.
+Perbandingan antara Laissez-faire dan Intervensionisme pada akhirnya bermuara pada pencarian **titik keseimbangan**. Laissez-faire memberikan mesin pertumbuhan yang kuat, sementara Intervensionisme menyediakan rem dan sabuk pengaman yang diperlukan untuk perjalanan yang aman bagi seluruh anggota masyarakat.

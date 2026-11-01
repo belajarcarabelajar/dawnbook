@@ -3,8 +3,8 @@ Pasar punya dua pihak, dan pembahasan kini berpindah ke pihak yang menyediakan b
 Pernahkah kamu bertanya-tanya mengapa saat harga masker melonjak drastis, rak-rak toko tetap kosong selama berbulan-bulan sebelum akhirnya melimpah kembali? Atau mengapa harga tiket konser bisa naik tajam tanpa ada penambahan kursi penonton? Jawabannya terletak pada **Elastisitas Harga Penawaran**.
 ## Apa Itu Elastisitas Harga Penawaran?
 Secara sederhana, **Elastisitas Harga Penawaran (Price Elasticity of Supply atau PES)** mengukur seberapa sensitif atau responsif para produsen terhadap perubahan harga di pasar.
-Dalam hukum penawaran, kita tahu bahwa jika harga naik, produsen ingin menjual lebih banyak. Namun, pertanyaannya adalah: **Mampukah mereka?**
-> **Insight:** Elastisitas penawaran berfokus pada kemampuan produsen dalam menyesuaikan jumlah produksi ketika harga berubah, bukan sekadar kemauan untuk menjual.
+Dalam hukum penawaran, kita tahu bahwa jika harga naik, produsen ingin menjual lebih banyak. Namun, **mampukah mereka?**
+> **Insight:** Elastisitas penawaran berfokus pada kemampuan produsen dalam menyesuaikan jumlah produksi ketika harga berubah. Keinginan untuk menjual lebih banyak baru separuh ceritanya.
 Jika produsen dapat dengan mudah meningkatkan produksi saat harga naik sedikit saja, maka penawaran dikatakan **elastis**. Sebaliknya, jika produsen sulit menambah produksi meskipun harga melonjak tinggi, maka penawaran dikatakan **inelastis**.
 ## Percetakan Kaos dan Kebun Jati
 Karet gelang dari bab pertama juga punya padanan di sisi produsen, kali ini pada kemampuan menambah produksi:

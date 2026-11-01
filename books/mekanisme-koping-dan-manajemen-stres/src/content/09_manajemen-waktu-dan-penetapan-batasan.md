@@ -1,10 +1,10 @@
 ## Manajemen Waktu dan Penetapan Batasan
 
-Pernahkah kamu merasa seolah-olah sedang berlari di atas treadmill yang kecepatannya terus bertambah, namun kamu tidak tahu di mana tombol "stop"-nya? Itulah gambaran umum dari kegagalan manajemen waktu (*time management*) dan ketiadaan batasan (*boundaries*). Di bagian ini, kita akan belajar bahwa manajemen waktu bukan hanya soal menjadi produktif, tetapi tentang **menjaga kesehatan mental** dan mencegah *burnout*.
+Pernahkah kamu merasa seolah-olah sedang berlari di atas treadmill yang kecepatannya terus bertambah, namun kamu tidak tahu di mana tombol "stop"-nya? Itulah gambaran umum dari kegagalan manajemen waktu (*time management*) dan ketiadaan batasan (*boundaries*). Di bagian ini, kita akan belajar bahwa manajemen waktu ikut **menjaga kesehatan mental** dan mencegah *burnout*.
 
 ### 1. Memisahkan "Penting" dari "Mendesak"
 
-Sering kali, stres muncul bukan karena kita memiliki terlalu banyak hal untuk dikerjakan, tetapi karena kita mencoba menyelesaikan semuanya sekaligus tanpa urutan yang jelas.
+Sering kali, stres muncul karena kita mencoba menyelesaikan semuanya sekaligus tanpa urutan yang jelas.
 
 #### Toples Kehidupan
 
@@ -30,8 +30,8 @@ Banyak orang sulit mendelegasikan tugas karena merasa "kalau bukan saya yang ker
 
 1. **Identifikasi Tugas:** Pilih tugas yang bersifat repetitif atau yang bisa dilakukan orang lain dengan 80% kualitas yang kamu berikan.
 2. **Pilih Orang yang Tepat:** Sesuaikan tugas dengan keahlian mereka.
-3. **Berikan Instruksi Jelas:** Jelaskan hasil akhir yang diinginkan, bukan hanya metodenya.
-4. **Berikan Otoritas:** Jangan hanya memberi tugas, beri mereka wewenang untuk mengambil keputusan kecil.
+3. **Berikan Instruksi Jelas:** Selain metodenya, jelaskan juga hasil akhir yang diinginkan.
+4. **Berikan Otoritas:** Sertakan wewenang untuk mengambil keputusan kecil bersama tugas yang kamu serahkan.
 5. **Monitor, Jangan Mikromanajemen:** Periksa progres secara berkala tanpa "napas di pundak" mereka.
 
 ### 3. Berkata "Tidak"
@@ -49,11 +49,11 @@ Batasan atau *boundaries* adalah garis imajiner yang kita buat untuk melindungi 
 
 #### Jenis-jenis Batasan
 
-- **Batasan Waktu:** Menentukan kapan kamu bekerja dan kapan kamu beristirahat. Contoh: "Saya tidak mengecek email setelah jam 7 malam."
+- **Batasan Waktu:** Menentukan kapan kamu bekerja dan kapan kamu beristirahat, misalnya "Saya tidak mengecek email setelah jam 7 malam."
 - **Batasan Emosional:** Membedakan antara masalah orang lain dan emosi kamu sendiri. Kamu bisa berempati tanpa harus ikut "tenggelam" dalam drama orang lain.
 - **Batasan Fisik:** Menyangkut ruang pribadi dan kenyamanan sentuhan fisik.
 
-**Penting:** Batasan bukanlah tembok untuk mengisolasi diri, melainkan **gerbang** yang memungkinkan hal-hal baik masuk dan menahan hal-hal buruk tetap di luar.
+**Penting:** Batasan bekerja seperti **gerbang** yang memungkinkan hal-hal baik masuk dan menahan hal-hal buruk tetap di luar.
 
 ### 5. Situasi Profesional dan Pribadi
 
@@ -71,7 +71,7 @@ Keluarga atau teman sering meminta bantuan mendadak di waktu kamu seharusnya ber
 
 ### 6. Latihan Mandiri (Kinestetik & Reflektif)
 
-Mari kita praktikkan manajemen waktu dengan pendekatan matematis sederhana untuk melihat beban stres kamu:
+Mari kita praktikkan manajemen waktu dengan pendekatan matematis sederhana untuk melihat beban stres kamu.
 
 Misalkan $T$ adalah total waktu yang tersedia (24 jam). Misalkan $W_w$ adalah waktu wajib (tidur, makan, transportasi). Misalkan $W_k$ adalah waktu kerja/tugas. Misalkan $W_i$ adalah waktu istirahat/hobi.
 
@@ -86,6 +86,6 @@ Jika hasilnya negatif, berarti kamu sedang mengalami **defisit waktu** yang akan
 1. Ambil selembar kertas.
 2. Tuliskan 3 hal yang akan kamu katakan **TIDAK** mulai minggu ini.
 3. Tuliskan 1 tugas yang bisa kamu **DELEGASIKAN** kepada rekan kerja atau anggota keluarga.
-4. Tentukan 1 "Jam Terlarang" saat kamu sama sekali tidak menyentuh gawai (Contoh: Jam 21.00 - 06.00).
+4. Tentukan 1 "Jam Terlarang" saat kamu sama sekali tidak menyentuh gawai (misalnya jam 21.00 - 06.00).
 
-> Jika kamu terus memberikan 100% energi kamu untuk orang lain tanpa sisa, apa yang akan terjadi ketika kamu sendiri membutuhkan energi tersebut untuk menghadapi krisis pribadi? Keseimbangan bukanlah hasil akhir, melainkan proses harian dalam memilih apa yang layak mendapatkan perhatian kamu.
+> Jika kamu terus memberikan 100% energi kamu untuk orang lain tanpa sisa, apa yang akan terjadi ketika kamu sendiri membutuhkan energi tersebut untuk menghadapi krisis pribadi? Keseimbangan adalah proses harian dalam memilih apa yang layak mendapatkan perhatian kamu.

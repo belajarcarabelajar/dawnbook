@@ -6,11 +6,11 @@ Dalam bagian ini, kita akan membedah bagaimana aspek biologis tubuh, terutama ho
 
 ### 1. Kortisol dan Keseimbangan Biologis
 
-Sebelum kita membahas aktivitas fisik atau nutrisi, kita perlu mengenal hormon utama dalam respons stres: **Kortisol**.
+Sebelum kita membahas aktivitas fisik atau nutrisi, kita perlu mengenal **kortisol**, hormon utama dalam respons stres.
 
 Kortisol adalah hormon steroid yang diproduksi oleh kelenjar adrenal. Rumus kimianya adalah $C_{21}H_{30}O_5$. Dalam dosis yang tepat, kortisol membantu kita bangun pagi dan memberi energi. Namun, stres kronis membuat kadar kortisol tetap tinggi, yang berdampak buruk pada tubuh.
 
-> **Pesan Utama:** Gaya hidup sehat tak sebatas penampilan fisik, tetapi bertugas menjaga agar grafik kortisolmu tidak menyerupai pegunungan yang curam, melainkan gelombang yang tenang.
+> **Pesan Utama:** Gaya hidup sehat bertugas menjaga grafik kortisolmu agar bergerak seperti gelombang yang tenang, tanpa puncak curam seperti pegunungan.
 
 ### 2. Aktivitas Fisik
 
@@ -51,7 +51,7 @@ $$
 
 ### 4. Kualitas Tidur sebagai Pemulihan Utama
 
-Tidur bukanlah waktu kosong. Saat kamu tidur, otakmu melakukan "pembersihan limbah" melalui sistem glimfatik.
+Saat kamu tidur, otakmu sibuk melakukan "pembersihan limbah" melalui sistem glimfatik.
 
 #### Lingkaran Setan Tidur dan Stres
 
@@ -87,4 +87,4 @@ Kurang tidur adalah pemicu stres fisiologis yang besar. Tanpa tidur yang cukup, 
 | **Nutrisi** | Menstabilkan energi & hormon | Kurangi gula tambahan, tambah serat |
 | **Tidur** | Menjaga kortisol malam hari pada titik terendah | Tidur 15 menit lebih awal dari biasanya |
 
-> **Catatan Utama:** Manajemen stres tak hanya tentang cara bertahan saat krisis melanda, tetapi juga tentang bagaimana kamu mempersiapkan tubuh agar tangguh menghadapi tekanan. Gaya hidup sehat ikut menjaga kesehatan mentalmu.
+> **Catatan Utama:** Manajemen stres mencakup cara bertahan saat krisis melanda sekaligus cara mempersiapkan tubuh agar tangguh menghadapi tekanan. Gaya hidup sehat ikut menjaga kesehatan mentalmu.

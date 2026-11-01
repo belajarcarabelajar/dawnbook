@@ -12,7 +12,7 @@ Berbeda dengan peluruhan Beta Plus ($\beta^+$) yang memancarkan positron, pada p
 
 ### Mekanisme Terjadinya Penangkapan Elektron
 
-Mengapa sebuah inti atom melakukan ini? Alasannya serupa dengan peluruhan Beta Plus: inti atom memiliki **rasio proton yang terlalu tinggi** dibandingkan neutron (terlalu banyak muatan positif).
+Mengapa sebuah inti atom melakukan ini? Alasannya sama seperti pada peluruhan Beta Plus. Inti atom memiliki **rasio proton yang terlalu tinggi** dibandingkan neutron (terlalu banyak muatan positif).
 
 #### Proses di Tingkat Subatomik
 
@@ -37,7 +37,7 @@ $$
 
 ### Mengapa Memilih Penangkapan Elektron daripada Beta Plus?
 
-Mungkin muncul pertanyaan: *"Jika tujuannya sama-sama mengubah proton menjadi neutron, mengapa inti atom memilih menangkap elektron daripada memancarkan positron?"*
+Mungkin kamu bertanya, *"Jika tujuannya sama-sama mengubah proton menjadi neutron, mengapa inti atom memilih menangkap elektron daripada memancarkan positron?"*
 
 Ada faktor **Energi Ambang (Threshold Energy)**:
 
@@ -53,13 +53,13 @@ Penangkapan elektron menyisakan sebuah lubang pada kulit atom bagian dalam (bias
 Proses perpindahan elektron ini menghasilkan dua fenomena deteksi yang sangat penting:
 
 1. **Emisi Sinar-X Karakteristik:** Saat elektron turun ke tingkat energi yang lebih rendah, ia melepaskan kelebihan energinya dalam bentuk foton Sinar-X.
-2. **Efek Auger (Auger Effect):** Terkadang, energi dari perpindahan elektron tadi tidak keluar sebagai Sinar-X, melainkan diberikan kepada elektron lain di kulit luar, sehingga elektron tersebut terpental keluar dari atom. Elektron yang terpental ini disebut **Elektron Auger**.
+2. **Efek Auger (Auger Effect):** Terkadang, energi dari perpindahan elektron tadi diserahkan kepada elektron lain di kulit luar tanpa sempat menjadi Sinar-X, sehingga elektron tersebut terpental keluar dari atom. Elektron yang terpental ini disebut **Elektron Auger**.
 
 **Penting:** Karena penangkapan elektron tidak memancarkan partikel beta yang mudah dideteksi, para ilmuwan biasanya mendeteksi fenomena ini dengan mengamati **Sinar-X** yang dipancarkan setelah proses tersebut terjadi.
 
 ### Penggunaan dalam Sains dan Medis
 
-Penangkapan elektron bukan sekadar teori fisika; ia memiliki kegunaan praktis:
+Fenomena ini juga terpakai dalam sains dan dunia medis, seperti pada dua contoh berikut:
 
 - **Diagnostik Medis (Isotop Iodium-123):** Isotop ${}^{123}\text{I}$ meluruh melalui penangkapan elektron menjadi ${}^{123}\text{Te}$. Proses ini memancarkan Sinar-X dan sinar gamma yang berguna dalam pemindaian kelenjar tiroid tanpa memberikan dosis radiasi partikel (beta) yang merusak jaringan tubuh pasien.
 

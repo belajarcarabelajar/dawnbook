@@ -1,6 +1,6 @@
 ## Restrukturisasi Kognitif dan Manajemen Pikiran
 
-Pernahkah kamu merasa bahwa satu kegagalan kecil berarti seluruh hidup kamu hancur? Atau mungkin kamu merasa tahu persis apa yang orang lain pikirkan tentang kamu (dan itu biasanya buruk)? Jika ya, kamu tidak sendirian. Pikiran kita bukanlah cermin yang sempurna dari kenyataan; terkadang, pikiran kita lebih menyerupai kacamata yang buram, retak, atau berwarna gelap.
+Pernahkah kamu merasa bahwa satu kegagalan kecil berarti seluruh hidup kamu hancur? Atau mungkin kamu merasa tahu persis apa yang orang lain pikirkan tentang kamu (dan itu biasanya buruk)? Jika ya, kamu tidak sendirian. Pikiran kita tidak selalu mencerminkan kenyataan dengan tepat. Terkadang ia lebih menyerupai kacamata yang buram, retak, atau berwarna gelap.
 
 **Restrukturisasi Kognitif** (*cognitive restructuring*) adalah sebuah teknik berbasis bukti dari terapi kognitif-perilaku (*Cognitive Behavioral Therapy* / CBT) yang melatih kita untuk menjadi "detektif" bagi pikiran kita sendiri. Tujuannya adalah melatih cara berpikir yang realistis dan konstruktif, tanpa terjebak pada pemikiran positif yang buta.
 
@@ -48,7 +48,7 @@ Dalam kondisi stres, distorsi kognitif membuat $P$ (persepsi beban) terlihat san
 
 ### 3. Teknik 5 Langkah Model ABCDE
 
-Untuk mengubah pola pikir, kita bisa menggunakan pendekatan sistematis yang disebut **Model ABCDE**. Mari kita bedah langkah demi langkah:
+Untuk mengubah pola pikir, kita bisa menggunakan pendekatan sistematis yang disebut **Model ABCDE**. Mari kita bedah langkah demi langkah.
 
 #### A - Activating Event (Kejadian Pemicu)
 
@@ -76,7 +76,7 @@ Di sinilah proses evaluasi diri dimulai. Tantang pikiran kamu dengan pertanyaan 
 #### E - Effective New Belief (Keyakinan Baru yang Efektif)
 
 Ganti pikiran lama dengan perspektif yang lebih seimbang.  
-*Contoh:* "Revisi adalah bagian normal dari pekerjaan. Atasan meminta revisi agar hasilnya maksimal, bukan karena saya tidak kompeten."
+*Contoh:* "Revisi adalah bagian normal dari pekerjaan. Atasan meminta revisi agar hasilnya maksimal. Permintaan itu tidak berarti saya tidak kompeten."
 
 Langkah D dan E kembali menyasar keyakinan di langkah B:
 
@@ -101,7 +101,7 @@ Gunakan format tabel *thought records* berikut untuk berlatih secara mandiri saa
 | Pikiran Negatif Otomatis | Distorsi Kognitif | Bukti & Tantangan | Pikiran Alternatif (Rasional) |
 | --- | --- | --- | --- |
 | "Saya tidak akan pernah bisa menguasai materi ini." | Overgeneralisasi | "Saya pernah mempelajari hal sulit sebelumnya dan berhasil. Saya hanya butuh waktu lebih banyak." | "Materi ini sulit, tapi saya bisa mempelajarinya langkah demi langkah." |
-| "Semua orang menertawakan saya di pesta tadi." | *Mind Reading* | "Tidak ada yang tertawa secara terang-terangan. Kebanyakan orang sibuk dengan urusan mereka sendiri." | "Mungkin saya merasa canggung, tapi itu bukan berarti orang lain fokus menilai saya." |
+| "Semua orang menertawakan saya di pesta tadi." | *Mind Reading* | "Tidak ada yang tertawa secara terang-terangan. Kebanyakan orang sibuk dengan urusan mereka sendiri." | "Mungkin saya merasa canggung. Belum tentu orang lain fokus menilai saya." |
 
 ---
 
@@ -119,7 +119,7 @@ $$
 \lim_{n \to \infty} \frac{f}{n} \approx 0
 $$
 
-*Artinya: Satu kesalahan dari ribuan baris kode yang benar tidak menentukan profesionalisme kamu secara keseluruhan.*
+*Artinya, satu kesalahan dari ribuan baris kode yang benar tidak menentukan profesionalisme kamu secara keseluruhan.*
 
 2. **Mencari Solusi:** Alih-alih tenggelam dalam rasa bersalah, pikiran diubah menjadi: "Kesalahan terjadi pada sistem yang kompleks. Langkah terbaik adalah melakukan *rollback*, memperbaiki *bug*, dan membuat *automated test* agar ini tidak terulang."
 

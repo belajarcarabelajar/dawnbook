@@ -35,7 +35,7 @@ Ini adalah kondisi ekstrem ketika pada harga tertentu, produsen bersedia memasok
 | **Elastis** | $E_s > 1$ | Respons sangat sensitif | Landai |
 | **Elastis Sempurna** | $E_s = \infty$ | Respons tak terhingga | Horizontal |
 ## Menggolongkan Data Penawaran
-Dalam penetapan harga (*pricing*) atau analisis data ekonomi, data penjualan sering perlu digolongkan berdasarkan elastisitasnya. Caranya sederhana: hitung nilai $E_s$, lalu cocokkan dengan kolom nilai koefisien pada tabel ringkasan di atas.
+Dalam penetapan harga (*pricing*) atau analisis data ekonomi, data penjualan sering perlu digolongkan berdasarkan elastisitasnya. Cara menggolongkannya cukup sederhana. Hitung nilai $E_s$, lalu cocokkan dengan kolom nilai koefisien pada tabel ringkasan di atas.
 ### Contoh Skenario Dunia Nyata
 Sebuah perusahaan manufaktur sepatu melihat harga pasar naik dari Rp500.000 menjadi Rp600.000 ($+20 \text{\%}$). Karena mereka memiliki stok bahan baku yang melimpah dan mesin cadangan, mereka mampu meningkatkan produksi dari 1.000 pasang menjadi 1.500 pasang per bulan ($+50 \text{\%}$).
 

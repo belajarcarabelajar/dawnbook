@@ -2,7 +2,7 @@
 
 Pernahkah kamu begitu tenggelam dalam suatu aktivitas sehingga dunia di sekitar kamu seolah menghilang? Jam berlalu terasa seperti menit, dan kamu merasa memegang kendali penuh tanpa perlu bersusah payah? Kondisi inilah yang kita kenal sebagai **Flow**. Namun, sebelum menjadi istilah populer di dunia produktivitas dan olahraga, *Flow* adalah hasil dari pencarian mendalam seorang pria untuk memahami apa yang membuat hidup manusia benar-benar berharga.
 
-Pria itu adalah **Mihaly Csikszentmihalyi** (diucapkan: *Me-high Chick-sent-me-high*), seorang psikolog kelahiran Hungaria yang sering dijuluki sebagai salah satu pilar psikologi positif.
+Pria itu adalah **Mihaly Csikszentmihalyi** (dibaca *Me-high Chick-sent-me-high*), seorang psikolog kelahiran Hungaria yang sering dijuluki sebagai salah satu pilar psikologi positif.
 
 ## 1\. Siapakah Mihaly Csikszentmihalyi?
 
@@ -21,11 +21,11 @@ Pada tahun 1960-an, Csikszentmihalyi melakukan studi mendalam terhadap para seni
 
 **Pendaki Gunung vs Puncak** Bayangkan seorang pendaki gunung. Bagi orang luar, "hadiahnya" adalah mencapai puncak. Namun bagi mereka yang berada dalam kondisi *Flow*, hadiah sebenarnya adalah **setiap langkah sulit saat mendaki**. Puncak hanyalah alasan untuk melakukan pendakian itu sendiri.
 
-Mihaly menyimpulkan bahwa motivasi tersebut bersifat **Autotelik** (dari bahasa Yunani: *auto* berarti diri sendiri, dan *telos* berarti tujuan). Artinya, aktivitas tersebut dilakukan karena aktivitas itu sendiri adalah tujuannya, bukan karena imbalan eksternal seperti uang atau ketenaran.
+Mihaly menyimpulkan bahwa motivasi tersebut bersifat **Autotelik** (dari bahasa Yunani *auto* yang berarti diri sendiri dan *telos* yang berarti tujuan). Artinya, aktivitas tersebut sudah menjadi tujuannya sendiri, sehingga orang melakukannya tanpa mengejar imbalan eksternal seperti uang atau ketenaran.
 
 ## 3\. Dari Atlet hingga Ahli Bedah
 
-Untuk memastikan bahwa fenomena ini bukan hanya milik para seniman, Csikszentmihalyi memperluas studinya ke berbagai profesi dan hobi. Ia mewawancarai ribuan orang dari latar belakang yang sangat kontras:
+Untuk memastikan apakah fenomena ini juga muncul di luar kalangan seniman, Csikszentmihalyi memperluas studinya ke berbagai profesi dan hobi. Ia mewawancarai ribuan orang dari latar belakang yang sangat kontras:
 
 - **Atlet:** Yang menyebut kondisi ini sebagai *"being in the zone"*.
 - **Pemain Catur:** Yang merasa seolah-olah waktu melambat.
@@ -36,7 +36,7 @@ Meskipun aktivitasnya berbeda, deskripsi mereka tentang pengalaman tersebut seca
 
 ## 4\. Mengapa Dinamakan "Flow"?
 
-Nama "Flow" (Alir) tidak muncul dari teori akademis yang kaku, melainkan dari metafora yang digunakan oleh para subjek penelitian itu sendiri. Dalam bukunya *Flow* (1990), Csikszentmihalyi menjelaskan bahwa banyak orang yang ia wawancarai memakai kata itu untuk melukiskan rasanya berada dalam performa terbaik:
+Nama "Flow" (Alir) berasal dari metafora yang digunakan oleh para subjek penelitian itu sendiri. Dalam bukunya *Flow* (1990), Csikszentmihalyi menjelaskan bahwa banyak orang yang ia wawancarai memakai kata itu untuk melukiskan rasanya berada dalam performa terbaik:
 
 > "Rasanya seperti melayang," "Saya terbawa oleh aliran."
 
@@ -44,7 +44,7 @@ Mihaly secara resmi menggunakan istilah ini untuk menggambarkan kondisi mental k
 
 ## 5\. Pengalaman Optimal
 
-Dari sejarah risetnya, Mihaly merumuskan bahwa *Flow* adalah **Pengalaman Optimal**. Ini bukan sekadar relaksasi (seperti menonton TV atau berjemur di pantai), melainkan keterlibatan aktif.
+Dari sejarah risetnya, Mihaly merumuskan bahwa *Flow* adalah **Pengalaman Optimal**. Pengalaman ini menuntut keterlibatan aktif, dan karena itu berbeda dari relaksasi seperti menonton TV atau berjemur di pantai.
 
 Dalam catatan risetnya, ia sering menggambarkan hubungan antara tantangan dan keterampilan. Meskipun grafik formalnya akan dibahas di bagian lain, sejarah mencatat bahwa Mihaly menemukan "titik manis" ini melalui observasi terhadap berbagai kelompok, mulai dari seniman hingga atlet:
 
@@ -58,13 +58,13 @@ $$
 
 ## Belajar dari Sejarah
 
-Memahami sejarah *Flow* membantu kita menyadari bahwa kondisi ini bukan "bakat" atau "keberuntungan", melainkan desain mental yang bisa diakses oleh siapa saja.
+Memahami sejarah *Flow* membantu kita menyadari bahwa kondisi ini adalah desain mental yang bisa diakses oleh siapa saja, tanpa harus menunggu "bakat" atau "keberuntungan".
 
 **Di Kantor Modern** Bayangkan kamu adalah seorang programmer. Jika kamu bekerja hanya demi gaji (imbalan eksternal), kamu mungkin cepat merasa lelah. Namun, jika kamu mengadopsi pendekatan **Autotelik** seperti para seniman dalam riset Mihaly - yaitu fokus pada keindahan kode dan pemecahan logika sebagai permainan - kamu sedang mendekatkan diri pada kondisi *Flow*.
 
 **Poin Penting untuk Diingat:**
 
-1. **Proses > Hasil:** Sejarah *Flow* mengajarkan bahwa kepuasan tertinggi ada pada "melakukan", bukan hanya "mendapatkan".
+1. **Proses > Hasil:** Sejarah *Flow* mengajarkan bahwa kepuasan tertinggi datang saat kita "melakukan" sesuatu.
 2. **Universalitas:** *Flow* bisa dialami oleh siapa saja, mulai dari atlet Olimpiade hingga seseorang yang sedang memasak di dapur.
 3. **Kendali Internal:** Seperti yang ditemukan Mihaly pasca-perang, *Flow* adalah cara kita menciptakan keteraturan di tengah kekacauan (entropi) mental.
 
