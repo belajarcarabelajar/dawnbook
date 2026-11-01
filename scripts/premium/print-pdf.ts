@@ -9,7 +9,8 @@
  * Exit codes: 0 success, 1 failure, 2 usage error.
  *
  * Steps:
- *   1. `mdbook build books/<slug> -d <fresh mkdtemp dir under /tmp>` with
+ *   1. `mdbook build books/<slug> -d <fresh mkdtemp dir under /tmp>/build/<slug>` (two levels
+ *      deep, because book.toml reaches shared CSS through ../../apps/...) with
  *      MDBOOK_OUTPUT__HTML__PRINT__ENABLE=true. The template turns print.html off, and
  *      book.toml must never be edited (GEMINI.md section 1), so the env var switches it on.
  *   2. Insert `@page { size: A4; margin: 15mm; }` before </head> of the built print.html.
@@ -176,7 +177,11 @@ export function main(argv: string[], deps: Deps = defaultDeps()): number {
   }
 }
 
-function printBook(bookDir: string, work: string, out: string, deps: Deps): number {
+function printBook(bookDir: string, temp: string, out: string, deps: Deps): number {
+  // book.toml reaches the shared CSS through ../../apps/..., which mdBook resolves from the -d
+  // folder. Building two levels inside the temp dir keeps those writes inside it; a -d folder
+  // directly under /tmp made mdBook try to create /apps and fail (2026-11-01).
+  const work = path.join(temp, "build", path.basename(bookDir));
   const build = deps.run([deps.mdbook, "build", bookDir, "-d", work], {
     env: { ...process.env, MDBOOK_OUTPUT__HTML__PRINT__ENABLE: "true" },
   });
@@ -184,6 +189,10 @@ function printBook(bookDir: string, work: string, out: string, deps: Deps): numb
     deps.error(`print-pdf: mdbook build failed (exit ${build.exitCode})\n${tail(build.stderr)}`);
     return 1;
   }
+  // mdBook also copies the Dawnbook reader script (paywall, progress, redirects) one level up,
+  // and print.html loads it from there. In Chromium its redirect replaced the page with a
+  // one-page ERR_FILE_NOT_FOUND print (measured 2026-11-01), so the PDF is printed without it.
+  fs.rmSync(path.join(path.dirname(work), "shared-script.js"), { force: true });
   const html = path.join(work, "print.html");
   if (!fs.existsSync(html)) {
     deps.error(`print-pdf: mdbook wrote no print.html in ${work}`);
