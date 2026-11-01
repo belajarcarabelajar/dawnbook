@@ -62,6 +62,19 @@ const READER_CHROME = [
 ];
 const BODY_FONT = ["html", "body", ".content", ".content main"];
 
+// A 40 dpi grayscale A4 page as pdftoppm writes it (binary PGM). The watermark page carries a
+// 120 x 40 block of 240, the flat colour of the 6 % black watermark on white paper; the
+// measured real page 1 held 396 such pixels in the centre band, the same page without the
+// watermark 36.
+function pgmPage(watermark: boolean): Buffer {
+  const [w, h] = [331, 468];
+  const px = Buffer.alloc(w * h, 255);
+  if (watermark) {
+    for (let y = 214; y < 254; y++) px.fill(240, y * w + 105, y * w + 225);
+  }
+  return Buffer.concat([Buffer.from(`P5\n${w} ${h}\n255\n`, "latin1"), px]);
+}
+
 describe("injectPrintStyle", () => {
   const page = "<html><head><title>x</title></head><body>b</body></html>";
 
@@ -328,6 +341,8 @@ describe("main", () => {
     finish?: { exitCode?: number; stdout?: string; result?: Record<string, unknown> };
     // pdftotext output for the finished PDF; defaults to the book text.
     finalText?: string;
+    // The page pdftoppm rasterises from the finished PDF; defaults to one with the watermark.
+    page?: Buffer;
   }
 
   function fixture(pages: number, text: string, coverPages = 1, coverText = "LANCAR NUGAS", options: FixtureOptions = {}) {
@@ -414,6 +429,11 @@ describe("main", () => {
         const result = { pages: pages + (cover ? 1 : 0), outline: 3, encrypted: cmd.includes("--restrict") };
         const stdout = options.finish?.stdout ?? `${JSON.stringify({ ...result, ...options.finish?.result })}\n`;
         return { exitCode: 0, stdout, stderr: "" };
+      }
+      if (bin === "pdftoppm") {
+        // With -singlefile, pdftoppm writes <prefix>.pgm.
+        fs.writeFileSync(`${cmd[cmd.length - 1]!}.pgm`, options.page ?? pgmPage(true));
+        return { exitCode: 0, stdout: "", stderr: "" };
       }
       throw new Error(`unexpected command ${cmd.join(" ")}`);
     };
@@ -549,10 +569,11 @@ describe("main", () => {
 
     const bins = f.calls.map((c) => path.basename(c.cmd[0]!));
     expect(bins).not.toContain("pdfunite");
-    // After the book PDF passed pdfinfo and pdftotext; only the text layer check of the result follows.
-    expect(bins.slice(-2)).toEqual(["uv", "pdftotext"]);
+    // After the book PDF passed pdfinfo and pdftotext; only the text layer and watermark checks
+    // of the result follow.
+    expect(bins.slice(-3)).toEqual(["uv", "pdftotext", "pdftoppm"]);
     const temp = path.resolve(f.workDir(), "../..");
-    expect(f.calls[f.calls.length - 2]!.cmd).toEqual([
+    expect(f.calls[f.calls.length - 3]!.cmd).toEqual([
       "/usr/bin/uv",
       "run",
       "--no-project",
@@ -660,7 +681,44 @@ describe("main", () => {
     expect(await main(["buku-a", "--out", out, "--books-dir", f.booksDir, "--cover", cover], f.deps)).toBe(0);
     // Page 1 is the cover, whose own text may name the site.
     const temp = path.resolve(f.workDir(), "../..");
-    expect(f.calls[f.calls.length - 1]!.cmd).toEqual(["pdftotext", "-f", "2", path.join(temp, "final.pdf"), "-"]);
+    expect(f.calls[f.calls.length - 2]!.cmd).toEqual(["pdftotext", "-f", "2", path.join(temp, "final.pdf"), "-"]);
+  });
+
+  test("exits 1 and writes no PDF when the printed page shows no watermark", async () => {
+    // A Chromium that drops the fixed background prints pages with no watermark ink at all.
+    const f = fixture(12, "Bab 1", 1, "LANCAR NUGAS", { page: pgmPage(false) });
+    const out = path.join(f.root, "buku-a.pdf");
+    expect(await main(["buku-a", "--out", out, "--books-dir", f.booksDir, "--restrict"], f.deps)).toBe(1);
+    expect(f.logs.join("\n")).toContain("the watermark is missing from the printed pages");
+    expect(fs.existsSync(out)).toBe(false);
+    expect(tempDirsLeft(f.root)).toEqual([]);
+  });
+
+  test("checks the watermark on a 40 dpi gray render of the first book page of the finished PDF", async () => {
+    const f = fixture(12, "Bab 1");
+    const cover = path.join(f.root, "sampul.svg");
+    fs.writeFileSync(cover, "<svg/>");
+    const out = path.join(f.root, "buku-a.pdf");
+    expect(await main(["buku-a", "--out", out, "--books-dir", f.booksDir, "--cover", cover], f.deps)).toBe(0);
+    const temp = path.resolve(f.workDir(), "../..");
+    const final = path.join(temp, "final.pdf");
+    const prefix = path.join(temp, "watermark-check");
+    const pdftoppm = ["pdftoppm", "-r", "40", "-gray", "-singlefile"];
+    expect(f.calls[f.calls.length - 1]!.cmd).toEqual([...pdftoppm, "-f", "2", "-l", "2", final, prefix]);
+
+    // Without a cover, page 1 is the first book page.
+    const g = fixture(12, "Bab 1");
+    expect(await main(["buku-a", "--out", path.join(g.root, "b.pdf"), "--books-dir", g.booksDir], g.deps)).toBe(0);
+    const gTemp = path.resolve(g.workDir(), "../..");
+    expect(g.calls[g.calls.length - 1]!.cmd).toEqual([
+      ...pdftoppm,
+      "-f",
+      "1",
+      "-l",
+      "1",
+      path.join(gTemp, "final.pdf"),
+      path.join(gTemp, "watermark-check"),
+    ]);
   });
 
   test("exits 1 and writes no PDF when the cover prints to more than one page", async () => {
