@@ -37,6 +37,13 @@ trap 'rm -f "$live_manifest"' EXIT
 curl -fsS --max-time 20 https://dawnbook.belajarcarabelajar.com/manifest.json -o "$live_manifest" \
   || echo "⚠️  Could not snapshot the live manifest; the Telegram announcement will report it and send nothing."
 
+# A build without the private premium books would delete them from production,
+# because Pages replaces the whole site with this output.
+if ! bun run scripts/check-premium-output.ts; then
+  echo "❌ Error: premium books are missing from output/. Check out the private premium repo beside this one (or set DAWNBOOK_PREMIUM_DIR) and rebuild. Deploy aborted."
+  exit 1
+fi
+
 echo "☁️  4. Deploying to Cloudflare Pages (dawnbook.pages.dev)..."
 bunx wrangler pages deploy output --project-name dawnbook --branch main --commit-dirty=true
 

@@ -1,5 +1,6 @@
 import fs from "node:fs";
 import path from "node:path";
+import { premiumSlugs } from "../functions/lib/premium";
 
 export interface Hit {
   line: number;
@@ -722,13 +723,15 @@ function printScan(opts: Options, slugs: string[]): number {
   return violations.length > 0 ? 1 : 0;
 }
 
+// Premium books are verbatim paid e-books, so their headings are the publisher's and are not scanned.
 function resolveSlugs(opts: Options): string[] {
   const all = listBooks(opts.root);
-  if (!opts.books) return all;
+  const premium = premiumSlugs();
+  if (!opts.books) return all.filter((s) => !premium.includes(s));
   for (const s of opts.books) {
     if (!all.includes(s)) throw new UsageError(`unknown book slug: ${s}`);
   }
-  return opts.books;
+  return opts.books.filter((s) => !premium.includes(s));
 }
 
 function reportGuard(opts: Options, mode: string, failures: string[], note = ""): number {

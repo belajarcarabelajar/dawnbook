@@ -1,5 +1,6 @@
-import { readdir, writeFile, stat } from "node:fs/promises";
-import { join } from "node:path";
+import { readdir, readFile, writeFile, stat } from "node:fs/promises";
+import { join, resolve } from "node:path";
+import { premiumSlugs } from "../functions/lib/premium";
 
 export interface SitemapItem {
   loc: string;
@@ -8,9 +9,38 @@ export interface SitemapItem {
   priority?: string;
 }
 
-export async function generateSitemap() {
+export interface SitemapOptions {
+  outputDir?: string;
+}
+
+/**
+ * Pages of a premium book that may be listed: the book root and its first
+ * chapter (first SUMMARY entry in manifest.json). Paths are the decoded
+ * `/books/<slug>/...html` form the manifest uses. Without a manifest entry only
+ * the root is listed, so a missing manifest never exposes a paid chapter.
+ */
+async function premiumListablePages(outputDir: string): Promise<Map<string, Set<string>>> {
+  let chapters: Record<string, string[]> = {};
+  try {
+    const manifest = JSON.parse(await readFile(join(outputDir, "manifest.json"), "utf8"));
+    chapters = manifest?.chapters ?? {};
+  } catch {
+    // Fall through with no chapters: premium books keep only their root.
+  }
+  const listable = new Map<string, Set<string>>();
+  for (const slug of premiumSlugs()) {
+    const pages = new Set([`/books/${slug}/index.html`]);
+    const first = chapters[slug]?.[0];
+    if (first) pages.add(first);
+    listable.set(slug, pages);
+  }
+  return listable;
+}
+
+export async function generateSitemap(options: SitemapOptions = {}) {
   const rootDir = process.cwd();
-  const outputDir = join(rootDir, "output");
+  const outputDir = resolve(options.outputDir ?? join(rootDir, "output"));
+  const premiumPages = await premiumListablePages(outputDir);
   const baseUrl = "https://dawnbook.belajarcarabelajar.com";
   const todayIso = new Date().toISOString().split("T")[0];
 
@@ -33,7 +63,7 @@ export async function generateSitemap() {
         if (entry.isDirectory()) {
           await scanDirectory(fullPath);
         } else if (entry.isFile() && entry.name.endsWith(".html")) {
-          const relativePath = fullPath.split("output")[1].replace(/\\/g, "/");
+          const relativePath = fullPath.slice(outputDir.length).replace(/\\/g, "/");
           // Exclude system/utility pages from sitemap
           if (
             relativePath.endsWith("404.html") ||
@@ -43,6 +73,10 @@ export async function generateSitemap() {
           ) {
             return;
           }
+
+          const premiumSlug = /^\/books\/([^/]+)\//.exec(relativePath)?.[1];
+          const allowed = premiumSlug ? premiumPages.get(premiumSlug) : undefined;
+          if (allowed && !allowed.has(relativePath)) return;
 
           let cleanPath = relativePath;
           let priority = "0.8";

@@ -1,5 +1,45 @@
 import { readdir, readFile } from "node:fs/promises";
 import { join } from "node:path";
+import { premiumSlugs } from "../functions/lib/premium";
+
+const SITE = "https://dawnbook.belajarcarabelajar.com";
+
+/**
+ * Sitemap rule for one built page (relative path such as
+ * `/books/<slug>/content/01_x.html`). A free book's page must be listed. A
+ * premium book lists only its root and first chapter (`chapters[slug][0]`, the
+ * same definition generate-sitemap.ts uses), so its later chapters must be
+ * absent: listing one would advertise paid text. Returns an error or null.
+ */
+export function sitemapCoverageError(
+  relativePath: string,
+  sitemapContent: string,
+  chapters: Record<string, string[]>,
+): string | null {
+  const expectedUrl = `${SITE}${relativePath}`;
+  const canonicalUrl = expectedUrl.endsWith("/index.html")
+    ? expectedUrl.replace(/\/index\.html$/, "/")
+    : expectedUrl.endsWith(".html")
+      ? expectedUrl.replace(/\.html$/, "")
+      : expectedUrl;
+
+  const slug = /^\/books\/([^/]+)\//.exec(relativePath)?.[1];
+  if (slug && premiumSlugs().includes(slug)) {
+    const listable = relativePath === `/books/${slug}/index.html` || relativePath === chapters[slug]?.[0];
+    const listed =
+      sitemapContent.includes(`<loc>${expectedUrl}</loc>`) ||
+      sitemapContent.includes(`<loc>${canonicalUrl}</loc>`);
+    if (!listable) {
+      return listed ? `Premium path ${relativePath} must not be in sitemap.xml!` : null;
+    }
+    return listed ? null : `Content path ${relativePath} missing from sitemap.xml!`;
+  }
+
+  if (!sitemapContent.includes(expectedUrl) && !sitemapContent.includes(canonicalUrl)) {
+    return `Content path ${relativePath} missing from sitemap.xml!`;
+  }
+  return null;
+}
 
 async function checkSeo() {
   const rootDir = process.cwd();
@@ -26,6 +66,13 @@ async function checkSeo() {
   } catch (err) {
     console.error("❌ [FAIL] output/sitemap.xml missing. (R3)");
     hasErrors = true;
+  }
+
+  let manifestChapters: Record<string, string[]> = {};
+  try {
+    manifestChapters = JSON.parse(await readFile(join(outputDir, "manifest.json"), "utf-8")).chapters ?? {};
+  } catch {
+    // Without a manifest a premium book may list only its root, as in generate-sitemap.ts.
   }
 
   async function scanDirectory(dir: string) {
@@ -139,20 +186,10 @@ async function checkSeo() {
             }
           }
 
-          // Verify all valid content pages are present in sitemap.xml
-          let expectedUrl = `https://dawnbook.belajarcarabelajar.com${relativePath}`;
-          let canonicalUrl = expectedUrl.endsWith("/index.html")
-            ? expectedUrl.replace(/\/index\.html$/, "/")
-            : expectedUrl.endsWith(".html")
-              ? expectedUrl.replace(/\.html$/, "")
-              : expectedUrl;
-          if (
-            !sitemapContent.includes(expectedUrl) &&
-            !sitemapContent.includes(canonicalUrl)
-          ) {
-            console.error(
-              `❌ [FAIL] Content path ${relativePath} missing from sitemap.xml!`,
-            );
+          // Verify content pages against sitemap.xml (premium books: root and chapter 1 only)
+          const sitemapError = sitemapCoverageError(relativePath, sitemapContent, manifestChapters);
+          if (sitemapError) {
+            console.error(`❌ [FAIL] ${sitemapError}`);
             hasErrors = true;
           }
 
@@ -187,4 +224,6 @@ async function checkSeo() {
   }
 }
 
-checkSeo().catch(console.error);
+if (import.meta.main) {
+  checkSeo().catch(console.error);
+}

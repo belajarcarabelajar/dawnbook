@@ -3,6 +3,7 @@ import { join } from "node:path";
 import { $ } from "bun";
 import { BuiltBook } from "./metadata";
 import { CONTENT_SECURITY_POLICY } from "../../functions/lib/security-headers.ts";
+import { premiumSlugs } from "../../functions/lib/premium.ts";
 
 export function escapeHtml(unsafe: string): string {
   return unsafe
@@ -162,6 +163,8 @@ ${gaTag}    <meta charset="UTF-8">
 </body>
 </html>`;
 
+  const premium = new Set(premiumSlugs());
+
   const indexContent = `
     <div class="hero-section">
         <h1 data-i18n="hub.hero.title">Dawn Has Arrived</h1>
@@ -186,7 +189,7 @@ ${gaTag}    <meta charset="UTF-8">
       ${builtBooks
         .map(
           (b) => `
-        <a href="/books/${escapeHtml(b.slug)}/" class="book-card" data-slug="${escapeHtml(b.slug)}" data-created-at="${b.mtimeMs}" style="display: flex; flex-direction: column; padding: 20px; position: relative; transition: all 0.3s ease; height: 100%;">
+        <a href="/books/${escapeHtml(b.slug)}/" class="book-card" data-slug="${escapeHtml(b.slug)}"${premium.has(b.slug) ? ' data-premium="true"' : ""} data-created-at="${b.mtimeMs}" style="display: flex; flex-direction: column; padding: 20px; position: relative; transition: all 0.3s ease; height: 100%;">
             <div style="flex: 1; display: flex; flex-direction: column;">
                 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 16px;">
                     <span style="font-size: 48px; line-height: 1; display: inline-block; min-height: 48px; min-width: 48px;">${b.emoji}</span>
@@ -205,7 +208,7 @@ ${gaTag}    <meta charset="UTF-8">
                 </div>
                 <div style="display: flex; align-items: center; gap: 4px; font-size: 11px; font-weight: 600; padding: 2px 6px; border: 1px solid var(--color-secondary); border-radius: 4px; opacity: 0.8; flex-shrink: 0;">
                     <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path><line x1="7" y1="7" x2="7.01" y2="7"></line></svg>
-                    FREE
+                    ${premium.has(b.slug) ? "Premium" : "FREE"}
                 </div>
             </div>
         </a>
@@ -846,6 +849,7 @@ ${turnstileWidget}        <a id="google-signin-btn" href="#" style="display: inl
 
   const manifestData = {
     books: builtBooks.map((b) => b.slug),
+    premium: builtBooks.filter((b) => premium.has(b.slug)).map((b) => b.slug),
     chapters: builtBooks.reduce(
       (acc, b) => {
         acc[b.slug] = b.chapters;

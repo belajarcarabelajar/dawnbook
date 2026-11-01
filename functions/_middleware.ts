@@ -21,9 +21,86 @@ import { isPublicPath } from "./lib/gating";
 import { isVerifiedBotRequest } from "./lib/bot-verify";
 import { resolveLocale, COOKIE_NAME } from "./lib/i18n";
 import { CONTENT_SECURITY_POLICY } from "./lib/security-headers";
+import {
+  checkPremiumAccess,
+  isPremiumPublicPage,
+  loadPremiumRegistry,
+  premiumSlugOf,
+  type PremiumEntry,
+} from "./lib/premium";
+import type { D1Database } from "@cloudflare/workers-types";
 
 interface Env extends AuthEnv {
   // GOOGLE_CLIENT_ID, GOOGLE_CLIENT_SECRET, DB inherited from AuthEnv.
+  // Store database owned by the bcb repo; read with SELECT only.
+  LMS_DB?: D1Database;
+}
+
+const BUNDLE_URL = "https://belajarcarabelajar.com/product/bundle-ebook-bcb";
+
+function escapeHtml(value: string): string {
+  return value
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&#39;");
+}
+
+const PAGE_STYLE =
+  "body{font-family:system-ui,sans-serif;max-width:36rem;margin:3rem auto;padding:0 1rem;line-height:1.6}" +
+  "ul{padding-left:1.2rem}";
+
+function htmlPage(status: number, title: string, body: string): Response {
+  const html =
+    `<!doctype html><html lang="id"><head><meta charset="utf-8">` +
+    `<meta name="viewport" content="width=device-width, initial-scale=1">` +
+    `<meta name="robots" content="noindex">` +
+    `<title>${escapeHtml(title)}</title><style>${PAGE_STYLE}</style></head>` +
+    `<body><h1>${escapeHtml(title)}</h1>${body}</body></html>`;
+  return new Response(html, {
+    status,
+    headers: {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "private, no-store",
+      Vary: "Cookie",
+    },
+  });
+}
+
+function jsonError(status: number, error: string): Response {
+  return new Response(JSON.stringify({ error }), {
+    status,
+    headers: {
+      "Content-Type": "application/json",
+      "Cache-Control": "private, no-store",
+      Vary: "Cookie",
+    },
+  });
+}
+
+function premiumRefused(request: Request, email: string, entry: PremiumEntry): Response {
+  if (!wantsHtml(request)) return jsonError(403, "Forbidden");
+  const signIn = `/sign-in?redirect_url=${encodeURIComponent(request.url)}`;
+  const body =
+    `<p>Akun <strong>${escapeHtml(email)}</strong> belum punya akses ke e-book ini.</p>` +
+    `<p>Kalau kamu sudah membelinya, masuk dengan email yang kamu pakai saat membeli.</p>` +
+    `<ul>` +
+    `<li><a href="${escapeHtml(entry.productUrl)}">Beli e-book ini</a></li>` +
+    `<li><a href="${escapeHtml(BUNDLE_URL)}">Lihat Bundle E-book</a></li>` +
+    `<li><a href="${escapeHtml(signIn)}">Masuk dengan akun lain</a></li>` +
+    `<li><a href="/">Kembali ke Dawnbook</a></li>` +
+    `</ul>`;
+  return htmlPage(403, "Belum punya akses", body);
+}
+
+function premiumUnavailable(request: Request): Response {
+  if (!wantsHtml(request)) return jsonError(503, "Service Unavailable");
+  return htmlPage(
+    503,
+    "Sedang ada gangguan",
+    `<p>Sedang ada gangguan, coba lagi beberapa saat lagi.</p><p><a href="/">Kembali ke Dawnbook</a></p>`,
+  );
 }
 
 /**
@@ -99,6 +176,9 @@ function applySecurityHeaders(response: Response): Response {
 const gatingMiddleware: PagesFunction<Env> = async (context) => {
   const { request, next, env } = context;
   const url = new URL(request.url);
+  // Raw on purpose: isPublicPath, premiumSlugOf and isPremiumPublicPage each
+  // decode once and collapse repeated slashes; decoding here as well would
+  // turn %25 into a URIError and %252F into a real slash.
   const pathname = url.pathname;
 
   // --- Locale detection and cookie logic ---
@@ -125,6 +205,40 @@ const gatingMiddleware: PagesFunction<Env> = async (context) => {
         `${COOKIE_NAME}=${locale}; Path=/; Max-Age=31536000; SameSite=Lax`,
       );
       return newResponse;
+    }
+
+    // --- Premium e-books: purchase check, never a crawler bypass ---
+    const premiumSlug = premiumSlugOf(pathname);
+    if (premiumSlug !== null) {
+      if (isPremiumPublicPage(pathname)) {
+        const response = await nextWithLocale();
+        const newResponse = new Response(response.body, response);
+        newResponse.headers.append("Vary", "User-Agent");
+        return applySecurityHeaders(newResponse);
+      }
+
+      const session = await verifySession(request, env);
+      if (!session) {
+        if (wantsHtml(request)) {
+          const signInUrl = new URL("/sign-in", request.url);
+          signInUrl.searchParams.set("redirect_url", request.url);
+          return applySecurityHeaders(
+            Response.redirect(signInUrl.toString(), 302),
+          );
+        }
+        return applySecurityHeaders(unauthorizedJson());
+      }
+
+      const entry = loadPremiumRegistry()[premiumSlug];
+      const access = await checkPremiumAccess(env.LMS_DB, session.email, entry);
+      if (access === "allowed") {
+        const response = await nextWithLocale();
+        return applySecurityHeaders(applyGatedCacheHeaders(response));
+      }
+      if (access === "refused") {
+        return applySecurityHeaders(premiumRefused(request, session.email, entry));
+      }
+      return applySecurityHeaders(premiumUnavailable(request));
     }
 
     // --- Public paths or VERIFIED Search Engine Bots: pass through unchanged ---

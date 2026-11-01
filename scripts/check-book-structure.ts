@@ -1,5 +1,6 @@
 import fs from "node:fs";
 import path from "node:path";
+import { premiumSlugs } from "../functions/lib/premium";
 import { escapeHtml, formatSerpDescription } from "./inject-gating";
 
 // Structural checks for one book (GEMINI.md sections 6, 8, 14, 16, 21): SUMMARY and disk agree,
@@ -21,6 +22,8 @@ const URL = /https?:\/\/(?:[^\s()|>\]]|\([^\s()|>\]]*\))+/gi;
 // Inline link target (one level of balanced parentheses, optional quoted title) or an href value.
 const LINK_TARGET = /\]\(\s*((?:[^\s()]|\([^\s()]*\))+)(?:\s+(?:"[^"]*"|'[^']*'))?\s*\)|\bhref\s*=\s*(?:"([^"]*)"|'([^']*)')/gi;
 const ABSOLUTE_HTTP = /^https?:\/\//i;
+const MAILTO = /^mailto:[^\s@]+@[^\s@]+\.[^\s@]+$/i;
+const IMAGE_FILE = /\.(png|jpe?g|gif|webp|svg|avif)$/i;
 
 export function extractUrls(md: string): string[] {
   const seen = new Set<string>();
@@ -45,17 +48,18 @@ export function extractLinkTargets(md: string): string[] {
   return [...seen];
 }
 
-// A target is fine when it is an absolute http(s) URL, an in-page anchor, a site-root link to another
+// A target is fine when it is an absolute http(s) URL, a mailto: address, an in-page anchor, a site-root link to another
 // book that exists, or a relative link to a chapter of the book (mdBook rewrites .md links to .html,
-// so either extension names a source file).
+// so either extension names a source file), or a relative link to an image file inside the book's src/.
 function linkTargetOk(target: string, chapterDir: string, srcDir: string, booksDir: string): boolean {
-  if (ABSOLUTE_HTTP.test(target) || target.startsWith("#")) return true;
+  if (ABSOLUTE_HTTP.test(target) || target.startsWith("#") || MAILTO.test(target)) return true;
   const slug = /^\/books\/([a-z0-9-]+)\//.exec(target)?.[1];
   if (slug) return fs.existsSync(path.join(booksDir, slug, "book.toml"));
   if (target.startsWith("/") || /^[a-z][a-z0-9+.-]*:/i.test(target)) return false;
   const filePart = target.split("#")[0];
-  if (!/\.(md|html)$/i.test(filePart)) return false;
-  const resolved = path.resolve(chapterDir, filePart.replace(/\.html$/i, ".md"));
+  const isImage = IMAGE_FILE.test(filePart);
+  if (!isImage && !/\.(md|html)$/i.test(filePart)) return false;
+  const resolved = path.resolve(chapterDir, isImage ? filePart : filePart.replace(/\.html$/i, ".md"));
   return resolved.startsWith(path.resolve(srcDir) + path.sep) && fs.existsSync(resolved);
 }
 
@@ -125,7 +129,14 @@ function scanLine(where: string, line: string, problems: string[]): void {
   if (EMOJI.test(line)) problems.push(`${where}: emoji`);
 }
 
-export function checkBookStructure(bookDir: string): BookStructureResult {
+export interface BookStructureOptions {
+  // Premium books are verbatim copies of paid e-books, so the house content rules (em dash, emoji,
+  // "Anda", opener length, repeated headings) do not apply; the technical rules still do.
+  premium?: boolean;
+}
+
+export function checkBookStructure(bookDir: string, options: BookStructureOptions = {}): BookStructureResult {
+  const premium = options.premium ?? false;
   const problems: string[] = [];
   const srcDir = path.join(bookDir, "src");
   const contentDir = path.join(srcDir, "content");
@@ -149,7 +160,7 @@ export function checkBookStructure(bookDir: string): BookStructureResult {
   }
 
   const summaryLines = fs.readFileSync(summaryPath, "utf-8").split(/\r?\n/);
-  summaryLines.forEach((line, i) => scanLine(`SUMMARY.md:${i + 1}`, line, problems));
+  if (!premium) summaryLines.forEach((line, i) => scanLine(`SUMMARY.md:${i + 1}`, line, problems));
   const entries = summaryLines
     .map((l) => SUMMARY_ENTRY.exec(l))
     .filter((m): m is RegExpExecArray => m !== null)
@@ -178,8 +189,10 @@ export function checkBookStructure(bookDir: string): BookStructureResult {
     if (first !== title) problems.push(`${file}: first heading "${first}" differs from SUMMARY title "${title}"`);
 
     lines.forEach((line, i) => {
-      scanLine(`${file}:${i + 1}`, line, problems);
-      if (/\bAnda\b/.test(line)) problems.push(`${file}:${i + 1}: formal pronoun Anda`);
+      if (!premium) {
+        scanLine(`${file}:${i + 1}`, line, problems);
+        if (/\bAnda\b/.test(line)) problems.push(`${file}:${i + 1}: formal pronoun Anda`);
+      }
       if (!fenced[i]) {
         for (const target of extractLinkTargets(line)) {
           if (!linkTargetOk(target, contentDir, srcDir, path.dirname(path.resolve(bookDir)))) {
@@ -187,7 +200,7 @@ export function checkBookStructure(bookDir: string): BookStructureResult {
           }
         }
       }
-      if (i !== firstIdx && !fenced[i]) {
+      if (!premium && i !== firstIdx && !fenced[i]) {
         const h = HEADING.exec(line);
         if (h) {
           const key = h[2].trim().toLowerCase();
@@ -196,7 +209,7 @@ export function checkBookStructure(bookDir: string): BookStructureResult {
       }
     });
 
-    const lead = leadText(lines, fenced);
+    const lead = premium ? "" : leadText(lines, fenced);
     // Rule: the final meta must start with the complete first sentence of the cleaned lead.
     if (lead && !siteMeta(lead).startsWith(firstSentence(lead))) {
       problems.push(`${file}: opener's first sentence would be truncated in the meta description`);
@@ -222,8 +235,9 @@ export interface StructureGateResult {
 // such as _template are skipped, and a book with no checkable chapters fails instead of passing vacuously.
 export function runStructureGate(booksDir: string): StructureGateResult {
   const slugs = fs.readdirSync(booksDir).filter((s) => isBook(booksDir, s)).sort();
+  const premium = premiumSlugs();
   const problems = slugs.flatMap((slug) => {
-    const { chapters, problems: found } = checkBookStructure(path.join(booksDir, slug));
+    const { chapters, problems: found } = checkBookStructure(path.join(booksDir, slug), { premium: premium.includes(slug) });
     if (chapters === 0 && found.length === 0) return [`${slug}: no checkable chapters`];
     return found.map((p) => `${slug}/${p}`);
   });
@@ -251,8 +265,9 @@ if (import.meta.main) {
     process.exit(2);
   }
   let total = 0;
+  const premium = premiumSlugs();
   for (const slug of slugs) {
-    const { chapters, problems } = checkBookStructure(path.join(booksDir, slug));
+    const { chapters, problems } = checkBookStructure(path.join(booksDir, slug), { premium: premium.includes(slug) });
     for (const p of problems) console.log(p);
     if (chapters === 0 && problems.length === 0) {
       console.log(`${slug}: no checkable chapters`);
