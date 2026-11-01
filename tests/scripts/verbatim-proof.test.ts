@@ -259,4 +259,107 @@ describe("verbatim-proof CLI", () => {
     expect(r.stdout).toContain("hunks=0");
     expect(r.exitCode).toBe(0);
   });
+
+  test("a dash right after an opening bold or italic marker at line start is a list marker", () => {
+    const r = single(
+      ["Alasan utama.\n- Syarat Lulus\n\u2013 Simulasi Kerja\n"],
+      "Alasan utama.\n\n**- Syarat Lulus**\n\n*\u2013 Simulasi Kerja*\n",
+    );
+    expect(r.stdout).toContain("hunks=0");
+    expect(r.exitCode).toBe(0);
+  });
+
+  function acceptFixture(entries: unknown) {
+    const fx = makeFixture({
+      pages: ["Alfa beta gama.\n", "Delta epsilon zeta eta.\n"],
+      summary: "# Summary\n\n- [Isi](isi.md)\n",
+      chapters: { "isi.md": "Alfa beti gama.\n\nDelta zeta eta.\n" },
+    });
+    const accept = path.join(fx.root, "accept.json");
+    fs.writeFileSync(accept, JSON.stringify(entries));
+    const report = path.join(fx.root, "report.md");
+    const r = runCli(["--text", fx.textFile, "--book", fx.bookDir, "--accept", accept, "--report", report]);
+    return { ...r, report };
+  }
+
+  test("hunks listed in --accept are reported with their reason and do not fail the run", () => {
+    const r = acceptFixture([
+      { page: 1, kind: "changed", tokens: "pdf [beta] book [beti]", reason: "ejaan sumber berbeda" },
+      { page: 2, kind: "missing in book", tokens: "epsilon", reason: "kata hilang yang disetujui" },
+    ]);
+    expect(r.stdout).toContain("hunks=0");
+    expect(r.stdout).toContain("accepted=2");
+    expect(r.exitCode).toBe(0);
+    const md = fs.readFileSync(r.report, "utf8");
+    expect(md).toContain("## Accepted differences");
+    expect(md).toContain("ejaan sumber berbeda");
+    expect(md).toContain("kata hilang yang disetujui");
+  });
+
+  test("a hunk not listed in --accept still fails the run", () => {
+    const r = acceptFixture([{ page: 1, kind: "changed", tokens: "pdf [beta] book [beti]", reason: "ejaan" }]);
+    expect(r.stdout).toContain("hunks=1");
+    expect(r.stdout).toContain("accepted=1");
+    expect(r.exitCode).toBe(1);
+  });
+
+  test("an accept entry that matches no hunk is a stale entry and fails the run", () => {
+    const r = acceptFixture([
+      { page: 1, kind: "changed", tokens: "pdf [beta] book [beti]", reason: "ejaan" },
+      { page: 2, kind: "missing in book", tokens: "epsilon", reason: "disetujui" },
+      { page: 2, kind: "extra in book", tokens: "omega", reason: "tidak ada lagi" },
+    ]);
+    expect(r.stdout).toContain("stale accept entry");
+    expect(r.exitCode).toBe(1);
+  });
+
+  test("an accept entry without a reason is a usage error", () => {
+    const r = acceptFixture([{ page: 2, kind: "missing in book", tokens: "epsilon" }]);
+    expect(r.exitCode).toBe(2);
+    expect(r.stderr).toContain("accept entry 1 has no reason");
+  });
+
+  test("a line is a page number only at a page edge and within 3 of the page index", () => {
+    const pages = Array.from({ length: 8 }, (_, i) => `Isi halaman nomor ${"abcdefgh"[i]}.\n`);
+    pages[2] = "Contoh hitung.\nAngka awal.\n24213331212\nAdalah hasilnya.\nSelesai dihitung.\n";
+    pages[3] = "Hasil akhir.\n24213331212\n";
+    pages[6] = "Isi halaman nomor g.\n7\n";
+    pages[7] = "Isi halaman nomor h.\n9\n";
+    const chapter = pages.map((p) => p.replace(/^[79]\n/m, "")).join("\n");
+    const r = single(pages, chapter);
+    expect(r.stdout).toContain("boilerplate_lines=2");
+    expect(r.stdout).toContain("hunks=0");
+    expect(r.exitCode).toBe(0);
+  });
+
+  test("a number at a page edge far from the page index is content", () => {
+    const pages = Array.from({ length: 7 }, (_, i) => `Isi halaman nomor ${"abcdefg"[i]}.\n`);
+    pages[6] = "Isi halaman nomor g.\n40\n";
+    const r = single(pages, pages.join("\n"));
+    expect(r.stdout).toContain("boilerplate_lines=0");
+    expect(r.stdout).toContain("hunks=0");
+    expect(r.exitCode).toBe(0);
+  });
+
+  test("word bag: a pure reorder leaves the bags equal while the sequence still differs", () => {
+    const r = single(["Alfa beta gama delta.\n"], "beta Alfa gama delta.\n");
+    expect(r.stdout).toContain("bag: missing_in_book=0 extra_in_book=0");
+    expect(r.exitCode).toBe(1);
+  });
+
+  test("word bag: a dropped word is counted and listed on stdout and in the report", () => {
+    const fx = makeFixture({
+      pages: ["Alfa beta gama delta gama.\n"],
+      summary: "# Summary\n\n- [Isi](isi.md)\n",
+      chapters: { "isi.md": "Alfa beta delta gama.\n" },
+    });
+    const report = path.join(fx.root, "report.md");
+    const r = runCli(["--text", fx.textFile, "--book", fx.bookDir, "--report", report]);
+    expect(r.stdout).toContain("bag: missing_in_book=1 extra_in_book=0");
+    expect(r.stdout).toMatch(/bag missing_in_book: gama \(1\)/);
+    expect(r.exitCode).toBe(1);
+    const md = fs.readFileSync(report, "utf8");
+    expect(md).toContain("## Word bag difference");
+    expect(md).toMatch(/gama.*1/);
+  });
 });

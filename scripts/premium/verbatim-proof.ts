@@ -3,7 +3,7 @@
  * Proves that an mdBook book folder holds the text of a PDF word for word.
  *
  * Usage:
- *   bun run scripts/premium/verbatim-proof.ts (--pdf <file.pdf> | --text <file.txt>) --book <bookDir> [--report <out.md>]
+ *   bun run scripts/premium/verbatim-proof.ts (--pdf <file.pdf> | --text <file.txt>) --book <bookDir> [--report <out.md>] [--accept <file.json>]
  *
  * Exit codes: 0 no differences, 1 at least one hunk, 2 usage or I/O error.
  * Output never shows more than 20 tokens of one hunk, because the books are paid content.
@@ -50,15 +50,107 @@ export interface ProofResult {
   bullets: BulletGlyph[];
   bulletCount: number;
   hyphenJoins: number;
+  bag: WordBag;
+  accepted?: AcceptedHunk[];
+  stale?: AcceptEntry[];
 }
 
-const PAGE_NUMBER = /^(?:\d+|(?:xc|xl|l?x{0,3})(?:ix|iv|v?i{0,3})|(?:XC|XL|L?X{0,3})(?:IX|IV|V?I{0,3})|halaman\s+\d+)$/i;
+/** Token counts present on one side only, most frequent first; order is ignored, so this is evidence independent of the diff. */
+export interface WordBag {
+  missing: Array<[string, number]>;
+  extra: Array<[string, number]>;
+}
 
-function isPageNumber(trimmed: string): boolean {
-  if (trimmed === "") return false;
-  // The roman alternatives are case-locked: "Vi" or "iV" are not page numbers.
-  if (/^[ivxlIVXL]+$/.test(trimmed) && trimmed !== trimmed.toLowerCase() && trimmed !== trimmed.toUpperCase()) return false;
-  return PAGE_NUMBER.test(trimmed);
+export function compareBags(pdfTokens: string[], bookTokens: string[]): WordBag {
+  const counts = new Map<string, number>();
+  for (const t of pdfTokens) counts.set(t, (counts.get(t) ?? 0) + 1);
+  for (const t of bookTokens) counts.set(t, (counts.get(t) ?? 0) - 1);
+  const sorted = (entries: Array<[string, number]>) =>
+    entries.sort((a, b) => b[1] - a[1] || (a[0] < b[0] ? -1 : a[0] > b[0] ? 1 : 0));
+  const all = [...counts.entries()];
+  return {
+    missing: sorted(all.filter(([, n]) => n > 0)),
+    extra: sorted(all.filter(([, n]) => n < 0).map(([t, n]): [string, number] => [t, -n])),
+  };
+}
+
+function bagTotal(entries: Array<[string, number]>): number {
+  return entries.reduce((sum, [, n]) => sum + n, 0);
+}
+
+function bagList(entries: Array<[string, number]>, max = Number.POSITIVE_INFINITY): string {
+  const shown = entries.slice(0, max).map(([t, n]) => `${t} (${n})`).join(", ");
+  return entries.length > max ? `${shown}, ... (+${entries.length - max} more)` : shown;
+}
+
+export interface AcceptEntry {
+  page: number;
+  kind: Hunk["kind"];
+  tokens: string;
+  reason: string;
+}
+
+export interface AcceptedHunk {
+  hunk: Hunk;
+  reason: string;
+}
+
+const HUNK_KINDS: ReadonlyArray<Hunk["kind"]> = ["missing in book", "extra in book", "changed"];
+
+export function loadAccept(file: string): AcceptEntry[] {
+  if (!fs.existsSync(file)) throw new Error(`accept file not found: ${file}`);
+  let data: unknown;
+  try {
+    data = JSON.parse(fs.readFileSync(file, "utf8"));
+  } catch (err) {
+    throw new UsageError(`accept file is not valid JSON: ${err instanceof Error ? err.message : String(err)}`);
+  }
+  if (!Array.isArray(data)) throw new UsageError("accept file must hold a JSON array");
+  return data.map((e: unknown, i) => {
+    const n = i + 1;
+    const o = (typeof e === "object" && e !== null ? e : {}) as Record<string, unknown>;
+    if (typeof o.page !== "number" || !Number.isInteger(o.page)) throw new UsageError(`accept entry ${n} has no integer page`);
+    if (!HUNK_KINDS.includes(o.kind as Hunk["kind"])) throw new UsageError(`accept entry ${n} has an unknown kind`);
+    if (typeof o.tokens !== "string" || o.tokens === "") throw new UsageError(`accept entry ${n} has no tokens`);
+    if (typeof o.reason !== "string" || o.reason.trim() === "") throw new UsageError(`accept entry ${n} has no reason`);
+    return { page: o.page, kind: o.kind as Hunk["kind"], tokens: o.tokens, reason: o.reason };
+  });
+}
+
+/** Each entry accepts at most one hunk, so identical hunks need one entry each and a fixed one leaves a stale entry. */
+export function applyAccept(hunks: Hunk[], entries: AcceptEntry[]): { open: Hunk[]; accepted: AcceptedHunk[]; stale: AcceptEntry[] } {
+  const reasonOf = new Map<Hunk, string>();
+  const stale: AcceptEntry[] = [];
+  for (const e of entries) {
+    const hit = hunks.find((h) => !reasonOf.has(h) && h.page === e.page && h.kind === e.kind && hunkTokens(h) === e.tokens);
+    if (hit) reasonOf.set(hit, e.reason);
+    else stale.push(e);
+  }
+  return {
+    open: hunks.filter((h) => !reasonOf.has(h)),
+    accepted: hunks.filter((h) => reasonOf.has(h)).map((h) => ({ hunk: h, reason: reasonOf.get(h)! })),
+    stale,
+  };
+}
+
+const ROMAN = /^(?:(?:xc|xl|l?x{0,3})(?:ix|iv|v?i{0,3})|(?:XC|XL|L?X{0,3})(?:IX|IV|V?I{0,3}))$/;
+const ROMAN_VALUE: Record<string, number> = { i: 1, v: 5, x: 10, l: 50, c: 100 };
+// Printed page numbers drift from the PDF page index by cover and front matter; a worked-example number does not stay this close.
+const PAGE_NUMBER_SLACK = 3;
+
+/** The number a page-number line shows, or null when the line is not shaped like a page number. */
+function pageNumberValue(trimmed: string): number | null {
+  if (/^\d+$/.test(trimmed)) return Number(trimmed);
+  const halaman = /^halaman\s+(\d+)$/i.exec(trimmed);
+  if (halaman) return Number(halaman[1]);
+  if (trimmed === "" || !ROMAN.test(trimmed)) return null;
+  const digits = [...trimmed.toLowerCase()].map((c) => ROMAN_VALUE[c]!);
+  return digits.reduce((sum, d, i) => sum + (d < (digits[i + 1] ?? 0) ? -d : d), 0);
+}
+
+function edgeLineIndexes(lines: string[], skip: (i: number) => boolean): Set<number> {
+  const content = lines.map((l, i) => ({ t: l.trim(), i })).filter((x) => x.t !== "" && !skip(x.i));
+  return new Set([...content.slice(0, EDGE_LINES), ...content.slice(-EDGE_LINES)].map((x) => x.i));
 }
 
 const PICTO = "[\\u2190-\\u2BFF\\u{1F000}-\\u{1FAFF}]";
@@ -108,23 +200,18 @@ export function stripBoilerplate(pages: string[]): { pages: string[][]; boilerpl
   };
 
   lines.forEach((ls, p) => {
-    ls.forEach((l, i) => {
-      const t = l.trim();
-      if (isPageNumber(t)) {
+    for (const i of edgeLineIndexes(ls, () => false)) {
+      const t = ls[i]!.trim();
+      const value = pageNumberValue(t);
+      if (value !== null && Math.abs(value - (p + 1)) <= PAGE_NUMBER_SLACK) {
         drop[p]![i] = true;
         note(t, "page-number", p + 1);
       }
-    });
+    }
   });
 
   // Edge positions are taken after page numbers are gone, so a footer above the page number still counts.
-  const edgeIndexes = lines.map((ls, p) => {
-    const content = ls.map((l, i) => ({ t: l.trim(), i })).filter((x) => x.t !== "" && !drop[p]![x.i]);
-    const edges = new Set<number>();
-    content.slice(0, EDGE_LINES).forEach((x) => edges.add(x.i));
-    content.slice(-EDGE_LINES).forEach((x) => edges.add(x.i));
-    return edges;
-  });
+  const edgeIndexes = lines.map((ls, p) => edgeLineIndexes(ls, (i) => drop[p]![i]!));
   const edgePages = new Map<string, Set<number>>();
   edgeIndexes.forEach((edges, p) => {
     for (const i of edges) {
@@ -188,6 +275,8 @@ export function stripMarkdown(md: string): string {
     if (/^\s{0,3}([-*_])(\s*\1){2,}\s*$/.test(line)) continue;
     line = line.replace(/^\s{0,3}#{1,6}(\s+|$)/, "").replace(/\s+#+\s*$/, "");
     line = line.replace(/^\s*(>\s?)+/, "");
+    // A dash inside an opening bold or italic marker renders as the bullet the PDF shows, which its side strips.
+    line = line.replace(/^(\s*\*{1,2})[-\u2013]\s+/, "$1");
     // Ordered markers stay: the PDF prints the same number in front of the item.
     line = line.replace(/^\s*[-*+]\s+/, "");
     if (/^\s*\|/.test(line)) line = line.replace(/\|/g, " ");
@@ -282,6 +371,7 @@ export function proveVerbatim(pdfPages: string[], chapters: string[]): ProofResu
     bullets,
     bulletCount,
     hyphenJoins: joined.count,
+    bag: compareBags(pdfTokens, bookTokens),
   };
 }
 
@@ -290,16 +380,23 @@ function clip(tokens: string[], max: number): string {
   return tokens.length > max ? `${shown} ... (+${tokens.length - max} tokens)` : shown;
 }
 
+/** The hunk's tokens as printed; without a limit this is the string an accept entry must match. */
+export function hunkTokens(h: Hunk, max = Number.POSITIVE_INFINITY): string {
+  if (h.kind === "missing in book") return clip(h.pdfTokens, max);
+  if (h.kind === "extra in book") return clip(h.bookTokens, max);
+  return `pdf [${clip(h.pdfTokens, max / 2)}] book [${clip(h.bookTokens, max / 2)}]`;
+}
+
 export function formatHunk(h: Hunk): string {
-  const head = `${h.kind} (pdf page ${h.page})`;
-  if (h.kind === "missing in book") return `${head}: ${clip(h.pdfTokens, MAX_HUNK_TOKENS)}`;
-  if (h.kind === "extra in book") return `${head}: ${clip(h.bookTokens, MAX_HUNK_TOKENS)}`;
-  const half = MAX_HUNK_TOKENS / 2;
-  return `${head}: pdf [${clip(h.pdfTokens, half)}] book [${clip(h.bookTokens, half)}]`;
+  return `${h.kind} (pdf page ${h.page}): ${hunkTokens(h, MAX_HUNK_TOKENS)}`;
+}
+
+function formatStale(e: AcceptEntry): string {
+  return `stale accept entry: ${e.kind} (pdf page ${e.page}): ${clip(e.tokens.split(" "), MAX_HUNK_TOKENS)}`;
 }
 
 function summaryLine(r: ProofResult): string {
-  return `tokens pdf=${r.pdfTokens} book=${r.bookTokens} hunks=${r.hunks.length} boilerplate_lines=${r.boilerplateLines}`;
+  return `tokens pdf=${r.pdfTokens} book=${r.bookTokens} hunks=${r.hunks.length} boilerplate_lines=${r.boilerplateLines} accepted=${r.accepted?.length ?? 0}`;
 }
 
 function plural(n: number, word: string): string {
@@ -312,7 +409,7 @@ export function renderReport(r: ProofResult, source: string, bookDir: string): s
     "",
     `- Source: \`${source}\``,
     `- Book: \`${bookDir}\``,
-    `- Result: ${r.hunks.length === 0 ? "identical" : "differences found"}`,
+    `- Result: ${r.hunks.length === 0 && (r.stale?.length ?? 0) === 0 ? "identical apart from accepted differences" : "differences found"}`,
     `- \`${summaryLine(r)}\``,
     "",
     "## Removed boilerplate",
@@ -326,6 +423,19 @@ export function renderReport(r: ProofResult, source: string, bookDir: string): s
   out.push("", "## Hunks", "");
   if (r.hunks.length === 0) out.push("None.");
   r.hunks.forEach((h, i) => out.push(`${i + 1}. ${formatHunk(h)}`));
+  out.push("", "## Word bag difference", "", `- Missing in book: ${bagTotal(r.bag.missing)} tokens`);
+  for (const [t, n] of r.bag.missing) out.push(`  - \`${t}\`: ${n}`);
+  out.push(`- Extra in book: ${bagTotal(r.bag.extra)} tokens`);
+  for (const [t, n] of r.bag.extra) out.push(`  - \`${t}\`: ${n}`);
+  if (r.accepted !== undefined) {
+    out.push("", "## Accepted differences", "");
+    if (r.accepted.length === 0) out.push("None.");
+    r.accepted.forEach((a, i) => out.push(`${i + 1}. ${formatHunk(a.hunk)}`, `   Reason: ${a.reason}`));
+  }
+  if (r.stale !== undefined && r.stale.length > 0) {
+    out.push("", "## Stale accept entries", "");
+    r.stale.forEach((e, i) => out.push(`${i + 1}. ${formatStale(e)}`));
+  }
   return out.join("\n") + "\n";
 }
 
@@ -334,13 +444,14 @@ interface Args {
   text?: string;
   book?: string;
   report?: string;
+  accept?: string;
 }
 
 function parseArgs(argv: string[]): Args {
   const args: Args = {};
   for (let i = 0; i < argv.length; i++) {
     const flag = argv[i]!;
-    const key = ({ "--pdf": "pdf", "--text": "text", "--book": "book", "--report": "report" } as const)[flag as "--pdf"];
+    const key = ({ "--pdf": "pdf", "--text": "text", "--book": "book", "--report": "report", "--accept": "accept" } as const)[flag as "--pdf"];
     const value = argv[i + 1];
     if (!key || value === undefined || value.startsWith("--")) throw new UsageError(`bad argument: ${flag}`);
     if (args[key] !== undefined) throw new UsageError(`repeated argument: ${flag}`);
@@ -376,7 +487,12 @@ export function main(argv: string[]): number {
     const pages = readPdfPages(args);
     if (!fs.existsSync(args.book!)) throw new Error(`book folder not found: ${args.book}`);
     const chapters = readBookChapters(args.book!);
-    const result = proveVerbatim(pages, chapters);
+    const accept = args.accept !== undefined ? loadAccept(args.accept) : undefined;
+    let result = proveVerbatim(pages, chapters);
+    if (accept !== undefined) {
+      const { open, accepted, stale } = applyAccept(result.hunks, accept);
+      result = { ...result, hunks: open, accepted, stale };
+    }
 
     // Page numbers are one per page, so stdout gives their count and the report lists them.
     const pageNumbers = result.boilerplate.filter((b) => b.kind === "page-number");
@@ -390,12 +506,17 @@ export function main(argv: string[]): number {
     if (result.hunks.length > MAX_STDOUT_HUNKS) {
       console.log(`... ${result.hunks.length - MAX_STDOUT_HUNKS} more hunks, see --report`);
     }
+    for (const a of result.accepted ?? []) console.log(`accepted: ${formatHunk(a.hunk)}`);
+    for (const e of result.stale ?? []) console.log(formatStale(e));
     if (args.report !== undefined) {
       fs.mkdirSync(path.dirname(path.resolve(args.report)), { recursive: true });
       fs.writeFileSync(args.report, renderReport(result, args.pdf ?? args.text!, args.book!));
     }
+    console.log(`bag: missing_in_book=${bagTotal(result.bag.missing)} extra_in_book=${bagTotal(result.bag.extra)}`);
+    if (result.bag.missing.length > 0) console.log(`bag missing_in_book: ${bagList(result.bag.missing, MAX_HUNK_TOKENS)}`);
+    if (result.bag.extra.length > 0) console.log(`bag extra_in_book: ${bagList(result.bag.extra, MAX_HUNK_TOKENS)}`);
     console.log(summaryLine(result));
-    return result.hunks.length === 0 ? 0 : 1;
+    return result.hunks.length === 0 && (result.stale?.length ?? 0) === 0 ? 0 : 1;
   } catch (err) {
     const msg = err instanceof Error ? err.message : String(err);
     console.error(err instanceof UsageError ? `usage error: ${msg}\n${USAGE}` : `error: ${msg}`);
@@ -404,6 +525,6 @@ export function main(argv: string[]): number {
 }
 
 const USAGE =
-  "usage: bun run scripts/premium/verbatim-proof.ts (--pdf <file.pdf> | --text <file.txt>) --book <bookDir> [--report <out.md>]";
+  "usage: bun run scripts/premium/verbatim-proof.ts (--pdf <file.pdf> | --text <file.txt>) --book <bookDir> [--report <out.md>] [--accept <file.json>]";
 
 if (import.meta.main) process.exit(main(process.argv.slice(2)));
