@@ -248,8 +248,15 @@ const gatingMiddleware: PagesFunction<Env> = async (context) => {
     // reverse-DNS + forward-confirmation check in isVerifiedBotRequest() get
     // the crawler pass-through for gated content. Unverifiable bot claims are
     // treated as regular visitors and must authenticate like everyone else.
-    if (isPublicPath(pathname) || (await isVerifiedBotRequest(request))) {
+    const publicPath = isPublicPath(pathname);
+    if (publicPath || (await isVerifiedBotRequest(request))) {
       const response = await nextWithLocale();
+      if (!publicPath) {
+        // Gated text served to a crawler must never land in a shared cache.
+        const gated = applyGatedCacheHeaders(response);
+        gated.headers.set("Vary", "Cookie, User-Agent");
+        return applySecurityHeaders(gated);
+      }
       const newResponse = new Response(response.body, response);
       newResponse.headers.append("Vary", "User-Agent");
       return applySecurityHeaders(newResponse);

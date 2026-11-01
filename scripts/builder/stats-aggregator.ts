@@ -14,6 +14,7 @@
 
 import { readFile, readdir, writeFile, stat } from "node:fs/promises";
 import { join } from "node:path";
+import { premiumSlugs } from "../../functions/lib/premium.ts";
 
 export interface ContributorSummary {
   total: number;
@@ -30,7 +31,7 @@ export interface BuiltStats {
  * (lines starting with "- [") — mirrors the chapter-count logic in
  * scripts/builder/metadata.ts.
  */
-async function countTotalChapters(booksDir: string): Promise<number> {
+async function countTotalChapters(booksDir: string, skip: Set<string>): Promise<number> {
   let total = 0;
   let entries: string[];
   try {
@@ -46,7 +47,7 @@ async function countTotalChapters(booksDir: string): Promise<number> {
     } catch {
       continue;
     }
-    if (entry.startsWith("_")) continue; // skip _template, etc.
+    if (entry.startsWith("_") || skip.has(entry)) continue; // skip _template, premium, etc.
     try {
       const summary = await readFile(join(bookPath, "src", "SUMMARY.md"), "utf8");
       const count = summary
@@ -97,6 +98,7 @@ function parseAuthors(bookToml: string): string[] {
  */
 async function readAuthorsByBookCount(
   booksDir: string,
+  skip: Set<string>,
   topN: number = 5,
 ): Promise<ContributorSummary> {
   let entries: string[];
@@ -107,7 +109,7 @@ async function readAuthorsByBookCount(
   }
   const counts = new Map<string, number>();
   for (const entry of entries) {
-    if (entry.startsWith("_")) continue;
+    if (entry.startsWith("_") || skip.has(entry)) continue;
     const bookPath = join(booksDir, entry);
     try {
       const s = await stat(bookPath);
@@ -146,8 +148,11 @@ export async function writeBuiltStats(
   rootDir: string,
 ): Promise<BuiltStats> {
   const booksDir = join(rootDir, "books");
-  const totalChapters = await countTotalChapters(booksDir);
-  const contributors = await readAuthorsByBookCount(booksDir, 5);
+  // Premium books live in git-ignored folders that exist only with the private
+  // checkout, so counting them would make this tracked file differ per machine.
+  const premium = new Set(premiumSlugs());
+  const totalChapters = await countTotalChapters(booksDir, premium);
+  const contributors = await readAuthorsByBookCount(booksDir, premium, 5);
 
   const target = join(rootDir, "functions", "lib", "built-stats.ts");
   // Escape contributor names defensively (TypeScript string literal escaping).

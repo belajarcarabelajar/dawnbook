@@ -362,4 +362,44 @@ describe("verbatim-proof CLI", () => {
     expect(md).toContain("## Word bag difference");
     expect(md).toMatch(/gama.*1/);
   });
+
+  function bagFixture(pdf: string, book: string, entries: unknown[]) {
+    const fx = makeFixture({ pages: [pdf], summary: "# Summary\n\n- [Isi](isi.md)\n", chapters: { "isi.md": book } });
+    const accept = path.join(fx.root, "accept.json");
+    fs.writeFileSync(accept, JSON.stringify(entries));
+    const report = path.join(fx.root, "report.md");
+    const r = runCli(["--text", fx.textFile, "--book", fx.bookDir, "--accept", accept, "--report", report]);
+    return { ...r, report };
+  }
+
+  test("word bag coverage: a pure reorder accepted as two hunks exits 0", () => {
+    const r = bagFixture("Alfa beta gama delta.\n", "beta Alfa gama delta.\n", [
+      { page: 1, kind: "missing in book", tokens: "Alfa", reason: "urutan" },
+      { page: 1, kind: "extra in book", tokens: "Alfa", reason: "urutan" },
+    ]);
+    expect(r.stdout).toContain("bag: missing_in_book=0 extra_in_book=0");
+    expect(r.stdout).not.toContain("bag: uncovered");
+    expect(r.exitCode).toBe(0);
+  });
+
+  test("word bag coverage: an accepted unpaired missing word is covered by its hunk and exits 0", () => {
+    const r = bagFixture("Alfa beta gama delta.\n", "Alfa beta delta.\n", [
+      { page: 1, kind: "missing in book", tokens: "gama", reason: "disetujui" },
+    ]);
+    expect(r.stdout).toContain("bag: missing_in_book=1 extra_in_book=0");
+    expect(r.stdout).not.toContain("bag: uncovered");
+    expect(r.exitCode).toBe(0);
+  });
+
+  test("word bag coverage: a bag difference no accepted hunk covers is printed and fails the run", () => {
+    const r = bagFixture("Alfa beta gama delta epsilon \u201czeta\u201d eta.\n", 'Alfa beti gama delta epsilon "zeta" eta.\n', [
+      { page: 1, kind: "changed", tokens: "pdf [beta] book [beti]", reason: "ejaan" },
+    ]);
+    expect(r.stdout).toContain("bag: uncovered missing_in_book \u201czeta\u201d (1)");
+    expect(r.stdout).toContain('bag: uncovered extra_in_book "zeta" (1)');
+    expect(r.stdout).not.toContain("bag: uncovered missing_in_book beta");
+    expect(r.exitCode).toBe(1);
+    const md = fs.readFileSync(r.report, "utf8");
+    expect(md).toContain("### Uncovered by accepted hunks");
+  });
 });

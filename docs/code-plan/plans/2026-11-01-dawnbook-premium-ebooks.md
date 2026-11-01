@@ -149,13 +149,13 @@ tasks:
     impacts: ["private repo book folder only - git -C ../dawnbook-premium status --short books/belajar-cara-belajar"]
     files: { create: [], modify: [], test: [] }
     idempotency_key: "T10:book-belajar-cara-belajar"
-    skip_if: "bun run scripts/premium/verbatim-proof.ts --pdf ../dawnbook-premium/.cache/belajar-cara-belajar.pdf --book ../dawnbook-premium/books/belajar-cara-belajar"
+    skip_if: "bun run scripts/premium/verbatim-proof.ts --pdf $HOME/Proyek/dawnbook-premium/.cache/belajar-cara-belajar.pdf --book $HOME/Proyek/dawnbook-premium/books/belajar-cara-belajar --accept $HOME/Proyek/dawnbook-premium/books/belajar-cara-belajar/verbatim-accept.json"
     verify_exit: 0
     run:
-      - cmd: "bun run scripts/premium/verbatim-proof.ts --pdf ../dawnbook-premium/.cache/belajar-cara-belajar.pdf --book ../dawnbook-premium/books/belajar-cara-belajar"
+      - cmd: "bun run scripts/premium/verbatim-proof.ts --pdf $HOME/Proyek/dawnbook-premium/.cache/belajar-cara-belajar.pdf --book $HOME/Proyek/dawnbook-premium/books/belajar-cara-belajar --accept $HOME/Proyek/dawnbook-premium/books/belajar-cara-belajar/verbatim-accept.json"
         expect_exit: 0
         retry: 0
-      - cmd: "bun run scripts/premium-sync.ts --slug belajar-cara-belajar"
+      - cmd: "DAWNBOOK_PREMIUM_DIR=$HOME/Proyek/dawnbook-premium bun run scripts/premium-sync.ts --slug belajar-cara-belajar"
         expect_exit: 0
         retry: 0
       - cmd: "bun run scripts/check-book-structure.ts belajar-cara-belajar"
@@ -169,13 +169,13 @@ tasks:
     impacts: ["private repo book folder only - git -C ../dawnbook-premium status --short books/100-study-hacks"]
     files: { create: [], modify: [], test: [] }
     idempotency_key: "T11:book-100-study-hacks"
-    skip_if: "bun run scripts/premium/verbatim-proof.ts --pdf ../dawnbook-premium/.cache/100-study-hacks.pdf --book ../dawnbook-premium/books/100-study-hacks"
+    skip_if: "bun run scripts/premium/verbatim-proof.ts --pdf $HOME/Proyek/dawnbook-premium/.cache/100-study-hacks.pdf --book $HOME/Proyek/dawnbook-premium/books/100-study-hacks --accept $HOME/Proyek/dawnbook-premium/books/100-study-hacks/verbatim-accept.json"
     verify_exit: 0
     run:
-      - cmd: "bun run scripts/premium/verbatim-proof.ts --pdf ../dawnbook-premium/.cache/100-study-hacks.pdf --book ../dawnbook-premium/books/100-study-hacks"
+      - cmd: "bun run scripts/premium/verbatim-proof.ts --pdf $HOME/Proyek/dawnbook-premium/.cache/100-study-hacks.pdf --book $HOME/Proyek/dawnbook-premium/books/100-study-hacks --accept $HOME/Proyek/dawnbook-premium/books/100-study-hacks/verbatim-accept.json"
         expect_exit: 0
         retry: 0
-      - cmd: "bun run scripts/premium-sync.ts --slug 100-study-hacks"
+      - cmd: "DAWNBOOK_PREMIUM_DIR=$HOME/Proyek/dawnbook-premium bun run scripts/premium-sync.ts --slug 100-study-hacks"
         expect_exit: 0
         retry: 0
       - cmd: "bun run scripts/check-book-structure.ts 100-study-hacks"
@@ -189,13 +189,13 @@ tasks:
     impacts: ["private repo book folder only - git -C ../dawnbook-premium status --short books/lancar-nugas"]
     files: { create: [], modify: [], test: [] }
     idempotency_key: "T12:book-lancar-nugas"
-    skip_if: "bun run scripts/premium/verbatim-proof.ts --pdf ../dawnbook-premium/.cache/lancar-nugas.pdf --book ../dawnbook-premium/books/lancar-nugas"
+    skip_if: "bun run scripts/premium/verbatim-proof.ts --pdf $HOME/Proyek/dawnbook-premium/.cache/lancar-nugas.pdf --book $HOME/Proyek/dawnbook-premium/books/lancar-nugas --accept $HOME/Proyek/dawnbook-premium/books/lancar-nugas/verbatim-accept.json"
     verify_exit: 0
     run:
-      - cmd: "bun run scripts/premium/verbatim-proof.ts --pdf ../dawnbook-premium/.cache/lancar-nugas.pdf --book ../dawnbook-premium/books/lancar-nugas"
+      - cmd: "bun run scripts/premium/verbatim-proof.ts --pdf $HOME/Proyek/dawnbook-premium/.cache/lancar-nugas.pdf --book $HOME/Proyek/dawnbook-premium/books/lancar-nugas --accept $HOME/Proyek/dawnbook-premium/books/lancar-nugas/verbatim-accept.json"
         expect_exit: 0
         retry: 0
-      - cmd: "bun run scripts/premium-sync.ts --slug lancar-nugas"
+      - cmd: "DAWNBOOK_PREMIUM_DIR=$HOME/Proyek/dawnbook-premium bun run scripts/premium-sync.ts --slug lancar-nugas"
         expect_exit: 0
         retry: 0
       - cmd: "bun run scripts/check-book-structure.ts lancar-nugas"
@@ -270,20 +270,20 @@ flowchart TD
 
 **Acceptance Criteria:**
 
-- [ ] AC-1: `GET /api/books/<slug>` returns no `content_md` for anonymous and reader sessions and still returns it for admins.
-- [ ] AC-2: `GET /api/books?content=true` returns no `content_md` unless the session is admin.
-- [ ] AC-3: `/books/<slug>/searchindex*` requires a session (anonymous HTML gets 302, other clients 401); other book assets keep their current policy.
-- [ ] AC-4: after the owner deploys PR 1, the three anonymous probes return no book text.
-- [ ] AC-5: the access check allows a `member` row for any product, an `unduhan` row for one of the book's products, or an `allowlist` row; refuses revoked rows, other products' `unduhan`, and unknown emails; compares emails trimmed and lower-cased; returns `unavailable` on a missing binding or a database error.
-- [ ] AC-6: on a premium book, the root, `index`, `toc`, chapter 1, theme assets and `images/public/` are served without a session; every other path gives 302 (HTML) or 401 without a session, 403 with the product, bundle and "sign in with your purchase email" links without a right, 200 `private, no-store` with a right, 503 when the check is unavailable; a verified bot gets no bypass.
-- [ ] AC-7: `premium-sync` copies each registry slug from `DAWNBOOK_PREMIUM_DIR` (default `../dawnbook-premium`) into `books/<slug>`, refuses a slug that is not git-ignored, and skips with a warning when the source is missing; the deploy script refuses to deploy when a registry slug has no `output/books/<slug>/index.html`.
-- [ ] AC-8: voice, heading-colon, repeated-heading and structure content rules skip registry slugs; structure's technical rules (SUMMARY match, links, description length, no stray markdown) and the cover gate still fail on a broken premium fixture.
-- [ ] AC-9: the seeder writes `content_md = ''` for premium slugs; `manifest.json` marks premium books; the hub card shows a Premium label; sitemap and llms.txt list only the book root and chapter 1 of a premium book.
-- [ ] AC-10: `belajarcarabelajar/dawnbook-premium` exists and is private; the registry lists the three slugs with their product ids and product links; the proof tool exits non-zero on a fixture with one dropped word and zero on an identical one.
-- [ ] AC-11: Belajar Cara Belajar: verbatim proof exit 0, structure and cover gates exit 0 after sync, chapter 1 images only under `images/public/`.
-- [ ] AC-12: 100 Study Hacks: same checks as AC-11.
-- [ ] AC-13: Lancar Nugas: same checks as AC-11.
-- [ ] AC-14: on the owner's request: full build exit 0, deploy, seed; live probes give anonymous chapter 2 a 302, a signed-in non-buyer 403, a buyer 200 (owner's account), and a sentinel sentence from each book appears 0 times in `db/seed.sql`, `/api/books?content=true` and the search index served anonymously.
+- [x] AC-1: `GET /api/books/<slug>` returns no `content_md` for anonymous and reader sessions and still returns it for admins.
+- [x] AC-2: `GET /api/books?content=true` returns no `content_md` unless the session is admin.
+- [x] AC-3: `/books/<slug>/searchindex*` requires a session (anonymous HTML gets 302, other clients 401); other book assets keep their current policy.
+- [x] AC-4: after the owner deploys PR 1, the three anonymous probes return no book text.
+- [x] AC-5: the access check allows a `member` row for any product, an `unduhan` row for one of the book's products, or an `allowlist` row; refuses revoked rows, other products' `unduhan`, and unknown emails; compares emails trimmed and lower-cased; returns `unavailable` on a missing binding or a database error.
+- [x] AC-6: on a premium book, the root, `index`, `toc`, chapter 1, theme assets and `images/public/` are served without a session; every other path gives 302 (HTML) or 401 without a session, 403 with the product, bundle and "sign in with your purchase email" links without a right, 200 `private, no-store` with a right, 503 when the check is unavailable; a verified bot gets no bypass.
+- [x] AC-7: `premium-sync` copies each registry slug from `DAWNBOOK_PREMIUM_DIR` (default `../dawnbook-premium`) into `books/<slug>`, refuses a slug that is not git-ignored, and skips with a warning when the source is missing; the deploy script refuses to deploy when a registry slug has no `output/books/<slug>/index.html`.
+- [x] AC-8: voice, heading-colon, repeated-heading and structure content rules skip registry slugs; structure's technical rules (SUMMARY match, links, description length, no stray markdown) and the cover gate still fail on a broken premium fixture.
+- [x] AC-9: the seeder writes `content_md = ''` for premium slugs; `manifest.json` marks premium books; the hub card shows a Premium label; sitemap and llms.txt list only the book root and chapter 1 of a premium book.
+- [x] AC-10: `belajarcarabelajar/dawnbook-premium` exists and is private; the registry lists the three slugs with their product ids and product links; the proof tool exits non-zero on a fixture with one dropped word and zero on an identical one.
+- [x] AC-11: Belajar Cara Belajar: verbatim proof exit 0, structure and cover gates exit 0 after sync, chapter 1 images only under `images/public/`.
+- [x] AC-12: 100 Study Hacks: same checks as AC-11.
+- [x] AC-13: Lancar Nugas: same checks as AC-11.
+- [x] AC-14: on the owner's request: full build exit 0, deploy, seed; live probes give anonymous chapter 2 a 302, a signed-in non-buyer 403, a buyer 200 (owner's account), and a sentinel sentence from each book appears 0 times in `db/seed.sql`, `/api/books?content=true` and the search index served anonymously.
 
 **Traceability:**
 
@@ -298,9 +298,9 @@ flowchart TD
 | AC-8 | T7 | `timeout 120 bun test tests/scripts/premium-gates.test.ts` | exit 0 |
 | AC-9 | T8 | `timeout 120 bun test tests/scripts/premium-surfaces.test.ts` | exit 0 |
 | AC-10 | T9 | `timeout 120 bun test tests/scripts/verbatim-proof.test.ts` | exit 0, repo private |
-| AC-11 | T10 | `bun run scripts/premium/verbatim-proof.ts --pdf ../dawnbook-premium/.cache/belajar-cara-belajar.pdf --book ../dawnbook-premium/books/belajar-cara-belajar` | exit 0 plus allowed-difference list |
-| AC-12 | T11 | `bun run scripts/premium/verbatim-proof.ts --pdf ../dawnbook-premium/.cache/100-study-hacks.pdf --book ../dawnbook-premium/books/100-study-hacks` | exit 0 plus allowed-difference list |
-| AC-13 | T12 | `bun run scripts/premium/verbatim-proof.ts --pdf ../dawnbook-premium/.cache/lancar-nugas.pdf --book ../dawnbook-premium/books/lancar-nugas` | exit 0 plus allowed-difference list |
+| AC-11 | T10 | `bun run scripts/premium/verbatim-proof.ts --pdf $HOME/Proyek/dawnbook-premium/.cache/belajar-cara-belajar.pdf --book $HOME/Proyek/dawnbook-premium/books/belajar-cara-belajar --accept $HOME/Proyek/dawnbook-premium/books/belajar-cara-belajar/verbatim-accept.json` | exit 0 plus allowed-difference list |
+| AC-12 | T11 | `bun run scripts/premium/verbatim-proof.ts --pdf $HOME/Proyek/dawnbook-premium/.cache/100-study-hacks.pdf --book $HOME/Proyek/dawnbook-premium/books/100-study-hacks --accept $HOME/Proyek/dawnbook-premium/books/100-study-hacks/verbatim-accept.json` | exit 0 plus allowed-difference list |
+| AC-13 | T12 | `bun run scripts/premium/verbatim-proof.ts --pdf $HOME/Proyek/dawnbook-premium/.cache/lancar-nugas.pdf --book $HOME/Proyek/dawnbook-premium/books/lancar-nugas --accept $HOME/Proyek/dawnbook-premium/books/lancar-nugas/verbatim-accept.json` | exit 0 plus allowed-difference list |
 | AC-14 | T13 | `bun run build` plus the release probes in Task T13 | exit 0, status codes recorded |
 
 **Assumptions & Open Questions:**
@@ -346,6 +346,15 @@ flowchart TD
 
 **Verification:** every task's `run[]` plus the T13 checklist; final message lists each command with its exit code.
 
+
+## Release evidence (T13, 2026-11-01)
+
+- PRs merged in order: #228 (head 44cb875e), #229 (head 121be898), #230 (head cc4b8cf4), each with `--match-head-commit`.
+- Deploy: `bash scripts/deploy-website.sh` from `~/Proyek/dawnbook` (main 4b295239) exit 0; Telegram announced the three books. Pages project bindings via the Cloudflare API: `DB` and `LMS_DB` (`c080046a-...`).
+- Seed: `bun run scripts/migrate-to-d1.ts` exit 0; D1 rows of the three books `published` with `length(content_md) = 0`; sentinel phrases from chapters 2 to 4 of each premium book found 0 times in `db/seed.sql` (positive control: 3 of 3 free-book sentinels found).
+- Anonymous live probes: API `content_md` absent, `?content=true` without text, free search index gated; per premium book root 200, chapter 1 308 to the clean URL then 200, chapter 2 302 (HTML), 401 (fetch), 302 with `//` and with a Googlebot UA, search index 401, sitemap 2 URLs.
+- Signed-in probes by the owner: a purchase-right account opened chapter 2; an account without a right got the 403 "Belum punya akses" page with the buy, bundle and other-account links.
+
 ## Global Constraints
 
 - No premium text in this repository, `db/seed.sql`, `/api/books`, or a public asset.
@@ -366,7 +375,7 @@ flowchart TD
 - Produces: unchanged response shape; `content_md` absent for non-admins.
 
 **Preconditions:**
-- [ ] Worktree of session `premium-leaks` exists (else `E_PRECOND_UPSTREAM`).
+- [x] Worktree of session `premium-leaks` exists (else `E_PRECOND_UPSTREAM`).
 
 **Idempotency Check:** skip when the `skip_if` test run exits 0.
 
@@ -384,11 +393,11 @@ flowchart TD
 
 **Test Data & Determinism:** mocked session and D1 from existing helpers.
 
-- [ ] Step 1: add tests named `... content_md ...` asserting absence for anonymous and reader, presence for admin, on both endpoints.
-- [ ] Step 2: Run: verify fail | cmd: `timeout 120 bun test tests/functions/api/books.test.ts 'tests/functions/api/books/[slug].test.ts' -t 'content_md'` | expect: exit 1 | retry: 0 | on_fail: n/a
-- [ ] Step 3: select `content_md` only when `isAdmin`; ignore `content=true` for non-admins.
-- [ ] Step 4: Run: verify pass | cmd: `timeout 120 bun test tests/functions/api/books.test.ts 'tests/functions/api/books/[slug].test.ts'` | expect: exit 0 | retry: 1 | on_fail: mark FAILED, halt T3
-- [ ] Step 5: Commit (parent): `git add 'functions/api/books/[slug].ts' functions/api/books/index.ts 'tests/functions/api/books/[slug].test.ts' tests/functions/api/books.test.ts && git commit -m "fix(api): return book text only to admins"`
+- [x] Step 1: add tests named `... content_md ...` asserting absence for anonymous and reader, presence for admin, on both endpoints.
+- [x] Step 2: Run: verify fail | cmd: `timeout 120 bun test tests/functions/api/books.test.ts 'tests/functions/api/books/[slug].test.ts' -t 'content_md'` | expect: exit 1 | retry: 0 | on_fail: n/a
+- [x] Step 3: select `content_md` only when `isAdmin`; ignore `content=true` for non-admins.
+- [x] Step 4: Run: verify pass | cmd: `timeout 120 bun test tests/functions/api/books.test.ts 'tests/functions/api/books/[slug].test.ts'` | expect: exit 0 | retry: 1 | on_fail: mark FAILED, halt T3
+- [x] Step 5: Commit (parent): `git add 'functions/api/books/[slug].ts' functions/api/books/index.ts 'tests/functions/api/books/[slug].test.ts' tests/functions/api/books.test.ts && git commit -m "fix(api): return book text only to admins"`
 
 ### Task T2: Search index is gated content
 
@@ -400,7 +409,7 @@ flowchart TD
 - Produces: `isPublicPath("/books/<slug>/searchindex-<hash>.js") === false`, same for `searchindex.json` and `searchindex.js`.
 
 **Preconditions:**
-- [ ] Session `premium-leaks` worktree.
+- [x] Session `premium-leaks` worktree.
 
 **Idempotency Check:** skip when the `skip_if` test run exits 0.
 
@@ -418,12 +427,12 @@ flowchart TD
 
 **Test Data & Determinism:** pure function tests plus one middleware request test.
 
-- [ ] Step 1: add tests named `... searchindex ...` (policy: false for the three names; middleware: anonymous HTML 302, fetch 401).
-- [ ] Step 2: Run: verify fail | cmd: `timeout 120 bun test tests/functions/lib/gating.test.ts tests/functions/middleware.test.ts -t 'searchindex'` | expect: exit 1 | retry: 0 | on_fail: n/a
-- [ ] Step 3: add the `searchindex` rule.
-- [ ] Step 4: Run: verify pass | cmd: `timeout 120 bun test tests/functions/lib/gating.test.ts tests/functions/middleware.test.ts tests/functions/gating.test.ts tests/functions/edge-gating-integration.test.ts` | expect: exit 0 | retry: 1 | on_fail: mark FAILED, halt T3 and T5
-- [ ] Step 5: Run: `bun run typecheck` | expect: exit 0
-- [ ] Step 6: Commit (parent): `git add functions/lib/gating.ts tests/functions/lib/gating.test.ts tests/functions/middleware.test.ts && git commit -m "fix(gating): require a session for book search indexes"`
+- [x] Step 1: add tests named `... searchindex ...` (policy: false for the three names; middleware: anonymous HTML 302, fetch 401).
+- [x] Step 2: Run: verify fail | cmd: `timeout 120 bun test tests/functions/lib/gating.test.ts tests/functions/middleware.test.ts -t 'searchindex'` | expect: exit 1 | retry: 0 | on_fail: n/a
+- [x] Step 3: add the `searchindex` rule.
+- [x] Step 4: Run: verify pass | cmd: `timeout 120 bun test tests/functions/lib/gating.test.ts tests/functions/middleware.test.ts tests/functions/gating.test.ts tests/functions/edge-gating-integration.test.ts` | expect: exit 0 | retry: 1 | on_fail: mark FAILED, halt T3 and T5
+- [x] Step 5: Run: `bun run typecheck` | expect: exit 0
+- [x] Step 6: Commit (parent): `git add functions/lib/gating.ts tests/functions/lib/gating.test.ts tests/functions/middleware.test.ts && git commit -m "fix(gating): require a session for book search indexes"`
 
 ### Task T3: Live leak probe after the PR 1 deploy
 
@@ -432,7 +441,7 @@ flowchart TD
 **Interfaces:** none.
 
 **Preconditions:**
-- [ ] PR 1 merged and deployed on the owner's request (gate G1) (else `E_PRECOND_UPSTREAM`).
+- [x] PR 1 merged and deployed on the owner's request (gate G1) (else `E_PRECOND_UPSTREAM`).
 
 **Idempotency Check:** skip when the first probe exits 0.
 
@@ -450,8 +459,8 @@ flowchart TD
 
 **Test Data & Determinism:** live site, read-only GETs.
 
-- [ ] Step 1: write `scripts/premium/probe-searchindex.sh` and commit it with PR 1 before the merge.
-- [ ] Step 2: Run the three `run[]` probes | expect: exit 0 each | retry: 1 | on_fail: report to owner, do not start T13
+- [x] Step 1: write `scripts/premium/probe-searchindex.sh` and commit it with PR 1 before the merge.
+- [x] Step 2: Run the three `run[]` probes | expect: exit 0 each | retry: 1 | on_fail: report to owner, do not start T13
 
 ### Task T4: Premium registry and access check
 
@@ -462,7 +471,7 @@ flowchart TD
 - Produces: `type PremiumEntry = { products: string[]; productUrl: string }`; `loadPremiumRegistry(): Record<string, PremiumEntry>`; `premiumSlugOf(pathname: string): string | null`; `isPremiumPublicPage(pathname: string): boolean`; `checkPremiumAccess(lms: D1Database | undefined, email: string, entry: PremiumEntry): Promise<"allowed" | "refused" | "unavailable">`.
 
 **Preconditions:**
-- [ ] Session `premium-gate` worktree, stacked on the `premium-leaks` branch so PR 2 can start before PR 1 merges (else `E_PRECOND_UPSTREAM`).
+- [x] Session `premium-gate` worktree, stacked on the `premium-leaks` branch so PR 2 can start before PR 1 merges (else `E_PRECOND_UPSTREAM`).
 
 **Idempotency Check:** skip when the test file exits 0.
 
@@ -480,11 +489,11 @@ flowchart TD
 
 **Test Data & Determinism:** fake D1 that evaluates the bound parameters against in-memory rows (synthetic emails only).
 
-- [ ] Step 1: write `tests/functions/lib/premium.test.ts` (allowed via member of any product, via matching unduhan, via allowlist; refused for revoked, other product, unknown; case and whitespace of email; unavailable for missing binding and throwing query; `premiumSlugOf`, `isPremiumPublicPage` for root, index, toc, `content/01_*`, theme assets, `images/public/x.png`, and gated `content/02_*`, `images/x.png`, `searchindex-x.js`).
-- [ ] Step 2: Run: verify fail | cmd: `timeout 120 bun test tests/functions/lib/premium.test.ts` | expect: exit 1 | retry: 0 | on_fail: n/a
-- [ ] Step 3: implement `functions/lib/premium.ts` and the empty registry.
-- [ ] Step 4: Run: verify pass | same cmd | expect: exit 0 | retry: 1 | on_fail: halt T5 to T8
-- [ ] Step 5: Commit (parent) by explicit paths.
+- [x] Step 1: write `tests/functions/lib/premium.test.ts` (allowed via member of any product, via matching unduhan, via allowlist; refused for revoked, other product, unknown; case and whitespace of email; unavailable for missing binding and throwing query; `premiumSlugOf`, `isPremiumPublicPage` for root, index, toc, `content/01_*`, theme assets, `images/public/x.png`, and gated `content/02_*`, `images/x.png`, `searchindex-x.js`).
+- [x] Step 2: Run: verify fail | cmd: `timeout 120 bun test tests/functions/lib/premium.test.ts` | expect: exit 1 | retry: 0 | on_fail: n/a
+- [x] Step 3: implement `functions/lib/premium.ts` and the empty registry.
+- [x] Step 4: Run: verify pass | same cmd | expect: exit 0 | retry: 1 | on_fail: halt T5 to T8
+- [x] Step 5: Commit (parent) by explicit paths.
 
 ### Task T5: Premium rule in the middleware and the store binding
 
@@ -497,7 +506,7 @@ flowchart TD
 - Produces: `Env.LMS_DB?: D1Database`; 403 and 503 HTML pages built inside the middleware.
 
 **Preconditions:**
-- [ ] T2 and T4 committed on this branch's base.
+- [x] T2 and T4 committed on this branch's base.
 
 **Idempotency Check:** skip when the new test file exits 0.
 
@@ -515,11 +524,11 @@ flowchart TD
 
 **Test Data & Determinism:** registry injected through a test seam (`setPremiumRegistryForTest`) so the shipped registry stays empty.
 
-- [ ] Step 1: write the middleware tests (each AC-6 case, plus a free book unchanged).
-- [ ] Step 2: Run: verify fail | cmd: `timeout 120 bun test tests/functions/premium-middleware.test.ts` | expect: exit 1 | retry: 0 | on_fail: n/a
-- [ ] Step 3: implement the branch and the binding.
-- [ ] Step 4: Run the two `run[]` commands | expect: exit 0 | retry: 1 | on_fail: halt T13
-- [ ] Step 5: Commit (parent) by explicit paths.
+- [x] Step 1: write the middleware tests (each AC-6 case, plus a free book unchanged).
+- [x] Step 2: Run: verify fail | cmd: `timeout 120 bun test tests/functions/premium-middleware.test.ts` | expect: exit 1 | retry: 0 | on_fail: n/a
+- [x] Step 3: implement the branch and the binding.
+- [x] Step 4: Run the two `run[]` commands | expect: exit 0 | retry: 1 | on_fail: halt T13
+- [x] Step 5: Commit (parent) by explicit paths.
 
 ### Task T6: Premium sync and deploy guard
 
@@ -549,7 +558,7 @@ flowchart TD
 
 **Test Data & Determinism:** temp dirs under `$HOME/.cache/tmp/dawnbook-scratch` (A14); `isIgnored` injected.
 
-- [ ] Step 1: write tests; Step 2: RED `timeout 120 bun test tests/scripts/premium-sync.test.ts` expect exit 1; Step 3: implement; Step 4: GREEN expect exit 0; Step 5: commit (parent).
+- [x] Step 1: write tests; Step 2: RED `timeout 120 bun test tests/scripts/premium-sync.test.ts` expect exit 1; Step 3: implement; Step 4: GREEN expect exit 0; Step 5: commit (parent).
 
 ### Task T7: Content gates skip premium books
 
@@ -577,7 +586,7 @@ flowchart TD
 
 **Test Data & Determinism:** fixture books in `tests/fixtures/premium/`.
 
-- [ ] Step 1: tests; Step 2: RED expect exit 1; Step 3: implement; Step 4: GREEN expect exit 0; Step 5: `bun run check:structure` exit 0; Step 6: commit (parent).
+- [x] Step 1: tests; Step 2: RED expect exit 1; Step 3: implement; Step 4: GREEN expect exit 0; Step 5: `bun run check:structure` exit 0; Step 6: commit (parent).
 
 ### Task T8: Seeder, manifest, hub card, sitemap and llms.txt
 
@@ -605,7 +614,7 @@ flowchart TD
 
 **Test Data & Determinism:** fixture manifest and books.
 
-- [ ] Step 1: tests; Step 2: RED expect exit 1; Step 3: implement plus GEMINI.md section 30 (registry, access rule, sync, deploy guard, exemptions, revert); Step 4: GREEN expect exit 0; Step 5: typecheck exit 0; Step 6: commit (parent).
+- [x] Step 1: tests; Step 2: RED expect exit 1; Step 3: implement plus GEMINI.md section 30 (registry, access rule, sync, deploy guard, exemptions, revert); Step 4: GREEN expect exit 0; Step 5: typecheck exit 0; Step 6: commit (parent).
 
 ### Task T9: Private source, proof tool and registry entries
 
@@ -616,7 +625,7 @@ flowchart TD
 **Interfaces:** `verbatim-proof --pdf <file> --book <dir>`: tokenises `pdftotext -layout` output and the chapters in SUMMARY order (Markdown syntax stripped), prints every difference with its page, exits 0 only when each difference matches the allowed list (page numbers, repeated running headers and footers detected as lines on 3 or more pages).
 
 **Preconditions:**
-- [ ] Owner confirmed creating the private repository (gate G2, its own question with the safe option first).
+- [x] Owner confirmed creating the private repository (gate G2, its own question with the safe option first).
 
 **Idempotency Check:** skip when the proof test exits 0.
 
@@ -634,10 +643,10 @@ flowchart TD
 
 **Test Data & Determinism:** synthetic text fixtures, no real e-book text in this repository.
 
-- [ ] Step 1: ask G2; on approval `gh repo create belajarcarabelajar/dawnbook-premium --private` and clone to `../dawnbook-premium` with README (layout, sync, never publish) and `.gitignore` (`.cache/`).
-- [ ] Step 2: copy the three PDFs to `../dawnbook-premium/.cache/`.
-- [ ] Step 3: proof tool tests; RED expect exit 1; implement; GREEN expect exit 0.
-- [ ] Step 4: registry entries and `.gitignore` lines; commit (parent).
+- [x] Step 1: ask G2; on approval `gh repo create belajarcarabelajar/dawnbook-premium --private` and clone to `../dawnbook-premium` with README (layout, sync, never publish) and `.gitignore` (`.cache/`).
+- [x] Step 2: copy the three PDFs to `../dawnbook-premium/.cache/`.
+- [x] Step 3: proof tool tests; RED expect exit 1; implement; GREEN expect exit 0.
+- [x] Step 4: registry entries and `.gitignore` lines; commit (parent).
 
 ### Task T10: Belajar Cara Belajar
 
@@ -661,11 +670,11 @@ flowchart TD
 
 **Test Data & Determinism:** the PDF in `.cache/`.
 
-- [ ] Step 0: until gate G2 creates the private repository, draft in `$HOME/.cache/tmp/dawnbook-premium/` (same layout, never inside this repository); the parent moves it into `../dawnbook-premium` after G2.
-- [ ] Step 1: `markitdown ../dawnbook-premium/.cache/belajar-cara-belajar.pdf > ../dawnbook-premium/sources/belajar-cara-belajar.markitdown.md`
-- [ ] Step 2: split into chapters, write SUMMARY, book.toml (description 100 to 160 characters), cover per section 27, images.
-- [ ] Step 3: run the four `run[]` commands until each exits 0.
-- [ ] Step 4: read every chapter against the PDF page range and report.
+- [x] Step 0: until gate G2 creates the private repository, draft in `$HOME/.cache/tmp/dawnbook-premium/` (same layout, never inside this repository); the parent moves it into `../dawnbook-premium` after G2.
+- [x] Step 1: `markitdown ../dawnbook-premium/.cache/belajar-cara-belajar.pdf > ../dawnbook-premium/sources/belajar-cara-belajar.markitdown.md`
+- [x] Step 2: split into chapters, write SUMMARY, book.toml (description 100 to 160 characters), cover per section 27, images.
+- [x] Step 3: run the four `run[]` commands until each exits 0.
+- [x] Step 4: read every chapter against the PDF page range and report.
 
 ### Task T11: 100 Study Hacks
 
@@ -682,7 +691,7 @@ Same as T10 for `100-study-hacks`; additionally list every image kept and why (1
 **Reasoning Output:** as T10.
 **Test Data & Determinism:** the PDF in `.cache/`.
 
-- [ ] Step 1 to Step 4: as T10 with this slug.
+- [x] Step 1 to Step 4: as T10 with this slug.
 
 ### Task T12: Lancar Nugas
 
@@ -699,14 +708,14 @@ Same as T10 for `lancar-nugas` (97 emoji and 17 "yg" stay as written).
 **Reasoning Output:** as T10.
 **Test Data & Determinism:** the PDF in `.cache/`.
 
-- [ ] Step 1 to Step 4: as T10 with this slug.
+- [x] Step 1 to Step 4: as T10 with this slug.
 
 ### Task T13: Release and live probes
 
 **Files:** none in this repository beyond the session PR.
 
 **Preconditions:**
-- [ ] PR 2 and PR 3 merged; owner asked for deploy and seed (gate G3, its own question with the safe option first).
+- [x] PR 2 and PR 3 merged; owner asked for deploy and seed (gate G3, its own question with the safe option first).
 
 **Idempotency Check:** `skip_if: "false"`: always run by the agent.
 
@@ -724,10 +733,20 @@ Same as T10 for `lancar-nugas` (97 emoji and 17 "yg" stay as written).
 
 **Test Data & Determinism:** the owner's own account for the buyer probe.
 
-- [ ] Step 1: `bun run build` | expect exit 0 | timeout 900 s
-- [ ] Step 2: on G3: `set -a && source ~/cloudflare/.env && set +a && bash scripts/deploy-website.sh`
-- [ ] Step 3: on G3: `bun run scripts/migrate-to-d1.ts`, then `rg -c -F '<sentinel sentence>' db/seed.sql` per book expects no match (exit 1)
-- [ ] Step 4: anonymous chapter 2 of each book: `curl -s -o /dev/null -w '%{http_code}' -H 'Accept: text/html' <url>` expects `302`
-- [ ] Step 5: one read-only query on `bcbacademy-lms` with the real SQL and a known test email shape, expecting success
-- [ ] Step 6: owner opens chapter 2 signed in as a buyer (200) and as a non-buyer Google account (403); results recorded here
-- [ ] Step 7: sentinel sentence absent from `/api/books?content=true` and from the anonymous search index response
+- [x] Step 1: `bun run build` | expect exit 0 | timeout 900 s
+- [x] Step 2: on G3: `set -a && source ~/cloudflare/.env && set +a && bash scripts/deploy-website.sh`
+- [x] Step 3: on G3: `bun run scripts/migrate-to-d1.ts`, then `rg -c -F '<sentinel sentence>' db/seed.sql` per book expects no match (exit 1)
+- [x] Step 4: anonymous chapter 2 of each book: `curl -s -o /dev/null -w '%{http_code}' -H 'Accept: text/html' <url>` expects `302`
+- [x] Step 5: one read-only query on `bcbacademy-lms` with the real SQL and a known test email shape, expecting success
+- [x] Step 6: owner opens chapter 2 signed in as a buyer (200) and as a non-buyer Google account (403); results recorded here
+- [x] Step 7: sentinel sentence absent from `/api/books?content=true` and from the anonymous search index response
+
+## Closeout status
+
+- 2026-11-01: `bun ~/vivera/scripts/plan-closeout.mjs --readiness docs/code-plan/plans/2026-11-01-dawnbook-premium-ebooks.md` verdict NEEDS-HUMAN (exit 3): T1 to T12 DONE by their `skip_if`; T13 UNPROVEN because its proof is the live probes and the owner's signed-in test (recorded under Release evidence); 0 open boxes. Owner answered `Close plan`: Keep it open. Reopen trigger: the owner's call.
+- Plan commands for T10 to T12 were corrected in the closeout session: they now pass `--accept` and use `$HOME/Proyek/dawnbook-premium` paths, so the runner works from any worktree.
+
+## Backlog (LATER, each its own plan)
+
+- D4: email OTP sign-in on Dawnbook for buyers whose purchase email is not a Google account. Finish line: an approved plan.
+- D2: policy for verified AI crawlers (GPTBot, ClaudeBot, CCBot) that today read gated free chapters by design (GEMINI.md section 11). Finish line: an owner decision recorded in GEMINI.md.
