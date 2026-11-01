@@ -153,3 +153,47 @@ describe("llms.txt (scripts/generate-llmstxt.ts)", () => {
     expect(txt).toContain(`(${BASE}/books/buku-gratis/content/02_bab-dua.html)`);
   });
 });
+
+describe("SEO gate sitemap rule (scripts/check-seo.ts)", () => {
+  const loc = (p: string) => `<url>\n    <loc>${BASE}${p}</loc>\n  </url>`;
+  const chapters = { "buku-premium": chaptersOf("buku-premium"), "buku-gratis": chaptersOf("buku-gratis") };
+
+  test("a premium book needs only its root and chapter 1 in the sitemap", async () => {
+    const { sitemapCoverageError } = await import("../../scripts/check-seo");
+    premiumOnly("buku-premium");
+    const xml = [loc("/books/buku-premium/"), loc("/books/buku-premium/content/01_bab-satu")].join("\n");
+
+    expect(sitemapCoverageError("/books/buku-premium/index.html", xml, chapters)).toBeNull();
+    expect(sitemapCoverageError("/books/buku-premium/content/01_bab-satu.html", xml, chapters)).toBeNull();
+    expect(sitemapCoverageError("/books/buku-premium/content/02_bab-dua.html", xml, chapters)).toBeNull();
+  });
+
+  test("a paid premium chapter listed in the sitemap fails", async () => {
+    const { sitemapCoverageError } = await import("../../scripts/check-seo");
+    premiumOnly("buku-premium");
+    const xml = [
+      loc("/books/buku-premium/"),
+      loc("/books/buku-premium/content/01_bab-satu"),
+      loc("/books/buku-premium/content/02_bab-dua"),
+    ].join("\n");
+
+    expect(sitemapCoverageError("/books/buku-premium/content/02_bab-dua.html", xml, chapters)).toContain("must not be in sitemap.xml");
+  });
+
+  test("a premium chapter 1 missing from the sitemap still fails", async () => {
+    const { sitemapCoverageError } = await import("../../scripts/check-seo");
+    premiumOnly("buku-premium");
+    const xml = loc("/books/buku-premium/");
+
+    expect(sitemapCoverageError("/books/buku-premium/content/01_bab-satu.html", xml, chapters)).toContain("missing from sitemap.xml");
+  });
+
+  test("a free book still needs every chapter in the sitemap", async () => {
+    const { sitemapCoverageError } = await import("../../scripts/check-seo");
+    premiumOnly("buku-premium");
+    const xml = [loc("/books/buku-gratis/"), loc("/books/buku-gratis/content/01_bab-satu")].join("\n");
+
+    expect(sitemapCoverageError("/books/buku-gratis/content/01_bab-satu.html", xml, chapters)).toBeNull();
+    expect(sitemapCoverageError("/books/buku-gratis/content/02_bab-dua.html", xml, chapters)).toContain("missing from sitemap.xml");
+  });
+});
