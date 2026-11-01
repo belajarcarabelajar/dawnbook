@@ -228,7 +228,8 @@ describe("premium 403 page links to the store sign-in", () => {
     expect(res.status).toBe(403);
     const body = await res.text();
     // encodeURIComponent already turns & into %26, so the HTML escape leaves the href as is.
-    const href = "https://belajarcarabelajar.com/masuk-dawnbook?next=%2Fbooks%2Fbuku-a%2Fcontent%2F02_x.html%3Fa%3D1%26b%3D2";
+    // Same-origin launcher, so the state cookie is set before the store hop.
+    const href = "/api/auth/bcb/start?next=%2Fbooks%2Fbuku-a%2Fcontent%2F02_x.html%3Fa%3D1%26b%3D2";
     expect(body).toContain(
       `Masuk dengan akun lain</a></li><li><a href="${href}">Masuk lewat akun belajarcarabelajar.com</a></li>`,
     );

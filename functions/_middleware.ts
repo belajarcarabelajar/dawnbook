@@ -37,7 +37,8 @@ interface Env extends AuthEnv {
 }
 
 const BUNDLE_URL = "https://belajarcarabelajar.com/product/bundle-ebook-bcb";
-const STORE_SIGN_IN_URL = "https://belajarcarabelajar.com/masuk-dawnbook";
+// Same-origin launcher: it sets the hand-off state cookie before the store hop.
+const STORE_SIGN_IN_URL = "/api/auth/bcb/start";
 
 /** Joins Vary values, keeping the upstream ones and dropping case-insensitive duplicates. */
 function mergeVary(existing: string | null, add: string[]): string {

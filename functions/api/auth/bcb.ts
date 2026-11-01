@@ -1,19 +1,23 @@
 /**
  * functions/api/auth/bcb.ts
  *
- * GET /api/auth/bcb?t=<token>&next=<path>
+ * GET /api/auth/bcb?t=<token>&next=<path>&s=<state>
  *
- * Store hand-off from belajarcarabelajar.com: verifies the signed token
+ * Store hand-off from belajarcarabelajar.com. The `bcb_sso_state` cookie set by
+ * /api/auth/bcb/start must equal `s` before the token is even read; then it
+ * verifies the signed token
  * (functions/lib/bcb-sso.ts), burns its nonce, finds or creates the user by
  * email, opens a session exactly like the Google callback, and 302-redirects
  * to a same-site `next` path (or "/"). Failures redirect to
- * /sign-in?error=<code>. The token and email are never logged.
+ * /sign-in?error=<code>. Every response clears the state cookie. The token and
+ * email are never logged.
  */
 
 import type { PagesFunction } from "../../lib/pages-function";
 import type { Env } from "../../lib/auth";
 import { assertSsoSecret, verifySsoToken } from "../../lib/bcb-sso";
-import { safeRedirectPath } from "../../lib/oauth";
+import { constantTimeEqual, safeRedirectPath } from "../../lib/oauth";
+import { BCB_SSO_STATE_COOKIE, BCB_SSO_STATE_RE } from "./bcb/start";
 import { createSession } from "../../lib/db";
 import { findOrCreateBcbUser } from "../../lib/sso-user";
 
@@ -28,6 +32,25 @@ const SESSION_TTL_SECONDS = 60 * 60 * 24 * 30; // 30 days
 // Outlives SSO_MAX_AGE_S, so a token cannot be replayed after its nonce row
 // is garbage-collected.
 const NONCE_TTL_SECONDS = 600;
+const CLEAR_STATE_COOKIE = `${BCB_SSO_STATE_COOKIE}=; Path=/api/auth/bcb; Max-Age=0; HttpOnly; Secure; SameSite=Lax`;
+
+function stateCookie(request: Request): string | null {
+  for (const part of (request.headers.get("Cookie") ?? "").split(";")) {
+    const c = part.trim();
+    if (c.startsWith(`${BCB_SSO_STATE_COOKIE}=`)) return c.slice(BCB_SSO_STATE_COOKIE.length + 1);
+  }
+  return null;
+}
+
+// Both values have the fixed shape before the compare, so the compare runs
+// over equal lengths and leaks no prefix.
+function stateMatches(request: Request, url: URL): boolean {
+  const cookie = stateCookie(request);
+  const s = url.searchParams.get("s");
+  if (cookie === null || s === null) return false;
+  if (!BCB_SSO_STATE_RE.test(cookie) || !BCB_SSO_STATE_RE.test(s)) return false;
+  return constantTimeEqual(cookie, s);
+}
 
 function redirectWithError(request: Request, code: string): Response {
   const url = new URL("/sign-in", request.url);
@@ -49,12 +72,23 @@ export async function handleBcbSso(
   env: BcbSsoEnv,
   nowSec: number,
 ): Promise<Response> {
+  const res = await handOff(request, env, nowSec);
+  res.headers.append("Set-Cookie", CLEAR_STATE_COOKIE);
+  return res;
+}
+
+async function handOff(request: Request, env: BcbSsoEnv, nowSec: number): Promise<Response> {
   if (request.method !== "GET") {
     return new Response(null, {
       status: 405,
       headers: { Allow: "GET", "Cache-Control": "no-store" },
     });
   }
+
+  const url = new URL(request.url);
+  // Checked before the token and the nonce, so a planted link neither signs the
+  // victim in nor uses up the token.
+  if (!stateMatches(request, url)) return redirectWithError(request, "sso_invalid");
 
   let secret: string;
   try {
@@ -63,7 +97,6 @@ export async function handleBcbSso(
     return redirectWithError(request, "sso_unavailable");
   }
 
-  const url = new URL(request.url);
   const claims = await verifySsoToken(secret, url.searchParams.get("t") ?? "", nowSec);
   if (!claims) return redirectWithError(request, "sso_invalid");
 
