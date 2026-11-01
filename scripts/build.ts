@@ -10,6 +10,7 @@ import { checkCovers, COVER_FILE } from "./check-covers";
 import { runVoiceGate } from "./check-voice";
 import { runStructureGate } from "./check-book-structure";
 import { renderOgCards } from "./render-og-cards";
+import { syncPremiumBooksForRepo } from "./premium-sync";
 
 async function build() {
   await loadEnv();
@@ -18,6 +19,15 @@ async function build() {
   const booksDir = join(rootDir, "books");
   const outputDir = join(rootDir, "output");
   const outputBooksDir = join(outputDir, "books");
+
+  // Premium books come from the private checkout and must be in books/ before any gate reads it.
+  console.log("Syncing premium books...");
+  try {
+    syncPremiumBooksForRepo(rootDir);
+  } catch (err) {
+    console.error(`Premium sync failed: ${(err as Error).message}`);
+    process.exit(1);
+  }
 
   // Fails before the slow mdBook builds: every book needs a cover (GEMINI.md section 27).
   console.log("Checking book covers...");
