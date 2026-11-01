@@ -59,11 +59,14 @@ export function isPremiumPublicPage(pathname: string): boolean {
 
   if (ASSET_DIRS.some((d) => rest.startsWith(d))) return true;
 
-  const base = rest.slice(rest.lastIndexOf("/") + 1);
-  if (base.startsWith("favicon")) return true;
+  // mdBook writes its loose theme files only at the top of the book directory,
+  // so an asset-looking name anywhere deeper (content/02_y.js) is book content.
+  if (rest.includes("/")) return false;
+  const base = rest.toLowerCase();
   if (base.startsWith("searchindex")) return false;
+  if (base.startsWith("favicon")) return true;
   const dot = base.lastIndexOf(".");
-  return dot > 0 && ASSET_EXTENSIONS.has(base.slice(dot).toLowerCase());
+  return dot > 0 && ASSET_EXTENSIONS.has(base.slice(dot));
 }
 
 export async function checkPremiumAccess(

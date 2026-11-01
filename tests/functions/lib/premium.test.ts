@@ -117,7 +117,6 @@ describe("isPremiumPublicPage", () => {
     "/books/buku-a/chapter_1",
     "/books/buku-a/content/chapter_1.html",
     "/books/buku-a/book-abc123.js",
-    "/books/buku-a/theme/custom.css",
     "/books/buku-a/x.woff",
     "/books/buku-a/x.woff2",
     "/books/buku-a/x.ttf",
@@ -155,6 +154,39 @@ describe("isPremiumPublicPage", () => {
   ];
   for (const p of gatedPaths) {
     test(`gated: ${p}`, () => expect(isPremiumPublicPage(p)).toBe(false));
+  }
+});
+
+describe("isPremiumPublicPage hardening", () => {
+  const gatedByCase = ["/books/buku-a/SEARCHINDEX.JS", "/books/buku-a/SearchIndex-ab12.js", "/books/buku-a/content/02_x.JS"];
+  for (const p of gatedByCase) {
+    test(`hardening: upper-case name stays gated: ${p}`, () => expect(isPremiumPublicPage(p)).toBe(false));
+  }
+
+  const gatedOutsideThemeDirs = [
+    "/books/buku-a/content/02_y.js",
+    "/books/buku-a/content/02_y.css",
+    "/books/buku-a/images/x.css",
+    "/books/buku-a/images/x.woff2",
+    "/books/buku-a/content/favicon.png",
+    "/books/buku-a/theme/custom.css",
+  ];
+  for (const p of gatedOutsideThemeDirs) {
+    test(`hardening: theme asset outside mdBook theme dirs stays gated: ${p}`, () =>
+      expect(isPremiumPublicPage(p)).toBe(false));
+  }
+
+  const publicThemeAssets = [
+    "/books/buku-a/toc.js",
+    "/books/buku-a/book-1234.js",
+    "/books/buku-a/css/general.css",
+    "/books/buku-a/fonts/x.woff2",
+    "/books/buku-a/FontAwesome/fonts/x.woff2",
+    "/books/buku-a/favicon.svg",
+    "/books/buku-a/favicon-1234.png",
+  ];
+  for (const p of publicThemeAssets) {
+    test(`hardening: mdBook theme asset stays public: ${p}`, () => expect(isPremiumPublicPage(p)).toBe(true));
   }
 });
 
