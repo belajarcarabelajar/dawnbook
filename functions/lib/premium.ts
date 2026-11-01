@@ -2,9 +2,20 @@ import type { D1Database } from "@cloudflare/workers-types";
 import bundled from "../../data/premium-books.json";
 import { canonicalPath, hasEncodedEscape } from "./gating";
 
-export type PremiumEntry = { products: string[]; productUrl: string };
+// A book with `edition: 2026` is a revised edition we authored, so the content gates check it;
+// a book without an edition is published verbatim and the content gates skip it.
+export type PremiumEntry = { products: string[]; productUrl: string; edition?: 2026 };
 
-const BUNDLED: Record<string, PremiumEntry> = (bundled as { books: Record<string, PremiumEntry> }).books;
+function validated(reg: Record<string, PremiumEntry>): Record<string, PremiumEntry> {
+  for (const [slug, entry] of Object.entries(reg)) {
+    if ("edition" in entry && entry.edition !== 2026) {
+      throw new Error(`premium registry: ${slug} has edition ${JSON.stringify(entry.edition)}, only 2026 is allowed`);
+    }
+  }
+  return reg;
+}
+
+const BUNDLED = validated((bundled as { books: Record<string, PremiumEntry> }).books);
 
 let override: Record<string, PremiumEntry> | null = null;
 
@@ -13,11 +24,17 @@ export function loadPremiumRegistry(): Record<string, PremiumEntry> {
 }
 
 export function setPremiumRegistryForTest(reg: Record<string, PremiumEntry> | null): void {
-  override = reg;
+  override = reg && validated(reg);
 }
 
 export function premiumSlugs(): string[] {
   return Object.keys(loadPremiumRegistry());
+}
+
+export function contentGateExemptSlugs(): string[] {
+  return Object.entries(loadPremiumRegistry())
+    .filter(([, entry]) => entry.edition === undefined)
+    .map(([slug]) => slug);
 }
 
 const BOOK_PATH = /^\/books\/([^/]+)(?:\/(.*))?$/;

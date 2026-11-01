@@ -1,6 +1,6 @@
 import fs from "node:fs";
 import path from "node:path";
-import { premiumSlugs } from "../functions/lib/premium";
+import { contentGateExemptSlugs } from "../functions/lib/premium";
 import { escapeHtml, formatSerpDescription } from "./inject-gating";
 
 // Structural checks for one book (GEMINI.md sections 6, 8, 14, 16, 21): SUMMARY and disk agree,
@@ -130,7 +130,7 @@ function scanLine(where: string, line: string, problems: string[]): void {
 }
 
 export interface BookStructureOptions {
-  // Premium books are verbatim copies of paid e-books, so the house content rules (em dash, emoji,
+  // Verbatim premium books (no edition in the registry) are copies of paid e-books, so the house content rules (em dash, emoji,
   // "Anda", opener length, repeated headings) do not apply; the technical rules still do.
   premium?: boolean;
 }
@@ -235,7 +235,7 @@ export interface StructureGateResult {
 // such as _template are skipped, and a book with no checkable chapters fails instead of passing vacuously.
 export function runStructureGate(booksDir: string): StructureGateResult {
   const slugs = fs.readdirSync(booksDir).filter((s) => isBook(booksDir, s)).sort();
-  const premium = premiumSlugs();
+  const premium = contentGateExemptSlugs();
   const problems = slugs.flatMap((slug) => {
     const { chapters, problems: found } = checkBookStructure(path.join(booksDir, slug), { premium: premium.includes(slug) });
     if (chapters === 0 && found.length === 0) return [`${slug}: no checkable chapters`];
@@ -265,7 +265,7 @@ if (import.meta.main) {
     process.exit(2);
   }
   let total = 0;
-  const premium = premiumSlugs();
+  const premium = contentGateExemptSlugs();
   for (const slug of slugs) {
     const { chapters, problems } = checkBookStructure(path.join(booksDir, slug), { premium: premium.includes(slug) });
     for (const p of problems) console.log(p);

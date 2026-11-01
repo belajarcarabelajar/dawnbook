@@ -1,6 +1,6 @@
 import fs from "node:fs";
 import path from "node:path";
-import { premiumSlugs } from "../functions/lib/premium";
+import { contentGateExemptSlugs } from "../functions/lib/premium";
 
 // GEMINI.md section 21: no structural element may repeat verbatim across the chapters of one book.
 // The check counts chapters, not occurrences, and starts at three so a coincidental pair stays legal.
@@ -47,8 +47,8 @@ export function findRepeatedHeadings(root: string, min = DEFAULT_MIN_CHAPTERS): 
   const booksDir = path.join(root, "books");
   const found: RepeatedHeading[] = [];
   if (!fs.existsSync(booksDir)) return found;
-  // Premium books are verbatim paid e-books; their headings are the publisher's, not ours.
-  const premium = premiumSlugs();
+  // Verbatim premium books (no edition in the registry) are paid e-books as published; their headings are the publisher's, not ours.
+  const premium = contentGateExemptSlugs();
   for (const slug of fs.readdirSync(booksDir).sort()) {
     if (premium.includes(slug)) continue;
     const contentDir = path.join(booksDir, slug, "src", "content");
