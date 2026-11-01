@@ -17,7 +17,7 @@
 
 import type { PagesFunction } from "./lib/pages-function";
 import { verifySession, type Env as AuthEnv } from "./lib/auth";
-import { isPublicPath } from "./lib/gating";
+import { isAiCrawler, isPublicPath } from "./lib/gating";
 import { isVerifiedBotRequest } from "./lib/bot-verify";
 import { resolveLocale, COOKIE_NAME } from "./lib/i18n";
 import { CONTENT_SECURITY_POLICY } from "./lib/security-headers";
@@ -37,6 +37,20 @@ interface Env extends AuthEnv {
 }
 
 const BUNDLE_URL = "https://belajarcarabelajar.com/product/bundle-ebook-bcb";
+const STORE_SIGN_IN_URL = "https://belajarcarabelajar.com/masuk-dawnbook";
+
+/** Joins Vary values, keeping the upstream ones and dropping case-insensitive duplicates. */
+function mergeVary(existing: string | null, add: string[]): string {
+  const out: string[] = [];
+  const seen = new Set<string>();
+  for (const value of [...(existing ?? "").split(","), ...add]) {
+    const name = value.trim();
+    if (!name || seen.has(name.toLowerCase())) continue;
+    seen.add(name.toLowerCase());
+    out.push(name);
+  }
+  return out.join(", ");
+}
 
 function escapeHtml(value: string): string {
   return value
@@ -82,6 +96,8 @@ function jsonError(status: number, error: string): Response {
 function premiumRefused(request: Request, email: string, entry: PremiumEntry): Response {
   if (!wantsHtml(request)) return jsonError(403, "Forbidden");
   const signIn = `/sign-in?redirect_url=${encodeURIComponent(request.url)}`;
+  const requestUrl = new URL(request.url);
+  const storeSignIn = `${STORE_SIGN_IN_URL}?next=${encodeURIComponent(requestUrl.pathname + requestUrl.search)}`;
   const body =
     `<p>Akun <strong>${escapeHtml(email)}</strong> belum punya akses ke e-book ini.</p>` +
     `<p>Kalau kamu sudah membelinya, masuk dengan email yang kamu pakai saat membeli.</p>` +
@@ -89,6 +105,7 @@ function premiumRefused(request: Request, email: string, entry: PremiumEntry): R
     `<li><a href="${escapeHtml(entry.productUrl)}">Beli e-book ini</a></li>` +
     `<li><a href="${escapeHtml(BUNDLE_URL)}">Lihat Bundle E-book</a></li>` +
     `<li><a href="${escapeHtml(signIn)}">Masuk dengan akun lain</a></li>` +
+    `<li><a href="${escapeHtml(storeSignIn)}">Masuk lewat akun belajarcarabelajar.com</a></li>` +
     `<li><a href="/">Kembali ke Dawnbook</a></li>` +
     `</ul>`;
   return htmlPage(403, "Belum punya akses", body);
@@ -249,12 +266,16 @@ const gatingMiddleware: PagesFunction<Env> = async (context) => {
     // the crawler pass-through for gated content. Unverifiable bot claims are
     // treated as regular visitors and must authenticate like everyone else.
     const publicPath = isPublicPath(pathname);
-    if (publicPath || (await isVerifiedBotRequest(request))) {
+    if (
+      publicPath ||
+      (!isAiCrawler(request.headers.get("User-Agent")) && (await isVerifiedBotRequest(request)))
+    ) {
       const response = await nextWithLocale();
       if (!publicPath) {
         // Gated text served to a crawler must never land in a shared cache.
+        const upstreamVary = response.headers.get("Vary");
         const gated = applyGatedCacheHeaders(response);
-        gated.headers.set("Vary", "Cookie, User-Agent");
+        gated.headers.set("Vary", mergeVary(upstreamVary, ["Cookie", "User-Agent"]));
         return applySecurityHeaders(gated);
       }
       const newResponse = new Response(response.body, response);

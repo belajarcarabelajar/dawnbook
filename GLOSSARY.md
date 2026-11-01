@@ -21,3 +21,6 @@ Terms used in Dawnbook plans, specs, rules and tests. Meanings only; decisions l
 - **Store database:** the D1 database `bcbacademy-lms`, owned by the bcb repository.
 - **Private source:** the private repository that holds the premium book folders and the raw markitdown output.
 - **Verbatim proof:** the token comparison between the PDF text and the joined chapters, with every allowed difference listed.
+- **Store hand-off:** signing in to Dawnbook through a belajarcarabelajar.com session, carried by a short-lived signed token.
+- **Hand-off token:** the signed, single-use, two-minute token that names one verified email.
+- **AI crawler:** a bot that collects pages for AI models or AI answers, identified by its user agent, as opposed to a search-engine crawler.

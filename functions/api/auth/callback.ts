@@ -23,13 +23,17 @@ import {
 } from "../../lib/oauth";
 import {
   getUserByGoogleSub,
+  getUserByEmail,
+  linkGoogleSub,
   upsertGoogleUser,
   createSession,
   generateUserId,
+  type UserRow,
 } from "../../lib/db";
 import { enforceRateLimit } from "../../lib/rate-limit";
 import type { Env } from "../../lib/auth";
 
+const BCB_SUB_PREFIX = "bcb:";
 const STATE_COOKIE = "oauth_state";
 const REDIRECT_COOKIE = "oauth_redirect";
 const SESSION_COOKIE = "session_id";
@@ -115,21 +119,50 @@ export const onRequestGet: PagesFunction<Env> = async (context) => {
   }
 
   try {
-    // Lookup by google_sub; if absent, allocate a new user id.
+    // Lookup by google_sub; if absent, try the email: a store hand-off user
+    // ("bcb:" sub) is linked, a different Google account is refused, since
+    // email is UNIQUE and the insert would be silently ignored.
     const existing = await getUserByGoogleSub(env.DB, userInfo.sub);
-    const userId = existing?.id ?? generateUserId();
+    let fresh: UserRow | null = null;
+    let userId = existing?.id;
 
-    await upsertGoogleUser(env.DB, {
-      id: userId,
-      google_sub: userInfo.sub,
-      email: userInfo.email,
-      name: userInfo.name ?? null,
-      picture: userInfo.picture ?? null,
-    });
+    if (!existing) {
+      const byEmail = await getUserByEmail(
+        env.DB,
+        userInfo.email.trim().toLowerCase(),
+      );
+      // Linking hands over a store account, so only an address Google has
+      // verified may claim it; strict `=== true` refuses a missing or string flag.
+      if (
+        byEmail &&
+        byEmail.google_sub.startsWith(BCB_SUB_PREFIX) &&
+        userInfo.email_verified === true
+      ) {
+        fresh = await linkGoogleSub(env.DB, byEmail.id, userInfo.sub, {
+          name: userInfo.name ?? null,
+          picture: userInfo.picture ?? null,
+        });
+      } else if (byEmail && byEmail.google_sub !== userInfo.sub) {
+        return redirectWithError(request, "account_conflict");
+      } else {
+        // byEmail with the same sub means a concurrent first login inserted it.
+        userId = byEmail?.id;
+      }
+    }
 
-    // Look up the user again so we get the post-upsert row (with id, role).
-    const fresh = await getUserByGoogleSub(env.DB, userInfo.sub);
-    if (!fresh) throw new Error("user not found after upsert");
+    if (!fresh) {
+      await upsertGoogleUser(env.DB, {
+        id: userId ?? generateUserId(),
+        google_sub: userInfo.sub,
+        email: userInfo.email,
+        name: userInfo.name ?? null,
+        picture: userInfo.picture ?? null,
+      });
+
+      // Look up the user again so we get the post-upsert row (with id, role).
+      fresh = await getUserByGoogleSub(env.DB, userInfo.sub);
+      if (!fresh) throw new Error("user not found after upsert");
+    }
 
     // 32 bytes of entropy → 64-char hex. Matches the HEX64 regex used by
     // extractSessionId() on the verification side.
