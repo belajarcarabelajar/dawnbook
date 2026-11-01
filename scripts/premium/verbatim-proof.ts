@@ -53,6 +53,38 @@ export interface ProofResult {
   bag: WordBag;
   accepted?: AcceptedHunk[];
   stale?: AcceptEntry[];
+  uncovered: UncoveredToken[];
+}
+
+export interface UncoveredToken {
+  side: "missing_in_book" | "extra_in_book";
+  token: string;
+  count: number;
+}
+
+/** Bag tokens beyond what the accepted hunks hold on that side, so an accept file cannot hide a word the diff never paired. */
+export function uncoveredBag(bag: WordBag, accepted: AcceptedHunk[]): UncoveredToken[] {
+  const tally = (tokens: string[]) => {
+    const m = new Map<string, number>();
+    for (const t of tokens) m.set(t, (m.get(t) ?? 0) + 1);
+    return m;
+  };
+  const pdfSide = tally(accepted.flatMap((a) => a.hunk.pdfTokens));
+  const bookSide = tally(accepted.flatMap((a) => a.hunk.bookTokens));
+  const out: UncoveredToken[] = [];
+  for (const [token, n] of bag.missing) {
+    const left = n - (pdfSide.get(token) ?? 0);
+    if (left > 0) out.push({ side: "missing_in_book", token, count: left });
+  }
+  for (const [token, n] of bag.extra) {
+    const left = n - (bookSide.get(token) ?? 0);
+    if (left > 0) out.push({ side: "extra_in_book", token, count: left });
+  }
+  return out;
+}
+
+function formatUncovered(u: UncoveredToken): string {
+  return `bag: uncovered ${u.side} ${u.token} (${u.count})`;
 }
 
 /** Token counts present on one side only, most frequent first; order is ignored, so this is evidence independent of the diff. */
@@ -372,6 +404,7 @@ export function proveVerbatim(pdfPages: string[], chapters: string[]): ProofResu
     bulletCount,
     hyphenJoins: joined.count,
     bag: compareBags(pdfTokens, bookTokens),
+    uncovered: [],
   };
 }
 
@@ -427,6 +460,9 @@ export function renderReport(r: ProofResult, source: string, bookDir: string): s
   for (const [t, n] of r.bag.missing) out.push(`  - \`${t}\`: ${n}`);
   out.push(`- Extra in book: ${bagTotal(r.bag.extra)} tokens`);
   for (const [t, n] of r.bag.extra) out.push(`  - \`${t}\`: ${n}`);
+  out.push("", "### Uncovered by accepted hunks", "");
+  if (r.uncovered.length === 0) out.push("None.");
+  for (const u of r.uncovered) out.push(`- ${u.side} \`${u.token}\`: ${u.count}`);
   if (r.accepted !== undefined) {
     out.push("", "## Accepted differences", "");
     if (r.accepted.length === 0) out.push("None.");
@@ -493,6 +529,7 @@ export function main(argv: string[]): number {
       const { open, accepted, stale } = applyAccept(result.hunks, accept);
       result = { ...result, hunks: open, accepted, stale };
     }
+    result.uncovered = uncoveredBag(result.bag, result.accepted ?? []);
 
     // Page numbers are one per page, so stdout gives their count and the report lists them.
     const pageNumbers = result.boilerplate.filter((b) => b.kind === "page-number");
@@ -515,8 +552,13 @@ export function main(argv: string[]): number {
     console.log(`bag: missing_in_book=${bagTotal(result.bag.missing)} extra_in_book=${bagTotal(result.bag.extra)}`);
     if (result.bag.missing.length > 0) console.log(`bag missing_in_book: ${bagList(result.bag.missing, MAX_HUNK_TOKENS)}`);
     if (result.bag.extra.length > 0) console.log(`bag extra_in_book: ${bagList(result.bag.extra, MAX_HUNK_TOKENS)}`);
+    result.uncovered.slice(0, MAX_HUNK_TOKENS).forEach((u) => console.log(formatUncovered(u)));
+    if (result.uncovered.length > MAX_HUNK_TOKENS) {
+      console.log(`bag: ${result.uncovered.length - MAX_HUNK_TOKENS} more uncovered tokens, see --report`);
+    }
     console.log(summaryLine(result));
-    return result.hunks.length === 0 && (result.stale?.length ?? 0) === 0 ? 0 : 1;
+    const clean = result.hunks.length === 0 && (result.stale?.length ?? 0) === 0 && result.uncovered.length === 0;
+    return clean ? 0 : 1;
   } catch (err) {
     const msg = err instanceof Error ? err.message : String(err);
     console.error(err instanceof UsageError ? `usage error: ${msg}\n${USAGE}` : `error: ${msg}`);
