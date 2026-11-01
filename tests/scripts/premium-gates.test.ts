@@ -14,13 +14,14 @@ const FIXTURE = path.resolve(import.meta.dir, "../fixtures/premium");
 const ROOT = path.join(os.homedir(), ".cache/tmp/dawnbook-scratch/premium-gates-test");
 const BOOKS = path.join(ROOT, "books");
 const EM_DASH_TOKEN = "{{EM_DASH}}";
+const EMOJI_TOKEN = "{{EMOJI}}";
 
 function copyWithEmDash(dir: string): void {
   for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
     const full = path.join(dir, entry.name);
     if (entry.isDirectory()) copyWithEmDash(full);
     else if (entry.name.endsWith(".md")) {
-      fs.writeFileSync(full, fs.readFileSync(full, "utf-8").replaceAll(EM_DASH_TOKEN, "\u2014"));
+      fs.writeFileSync(full, fs.readFileSync(full, "utf-8").replaceAll(EM_DASH_TOKEN, "\u2014").replaceAll(EMOJI_TOKEN, "\u{1F642}"));
     }
   }
 }
