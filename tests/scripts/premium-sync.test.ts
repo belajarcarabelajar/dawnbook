@@ -160,10 +160,13 @@ describe("premium-sync CLI", () => {
     });
   }
 
-  test("exits 0 with an empty registry", () => {
+  test("exits 0 and skips every registered book when the private source is missing", () => {
+    const registered = Object.keys(JSON.parse(readFileSync(join(REPO, "data/premium-books.json"), "utf-8")).books);
     const r = run([]);
     expect(r.exitCode).toBe(0);
-    expect(r.stdout.toString()).toContain("no premium books registered");
+    const out = r.stdout.toString();
+    if (registered.length === 0) expect(out).toContain("no premium books registered");
+    for (const slug of registered) expect(out).toContain(`skipped ${slug} (source missing)`);
   });
 
   test("exits 2 for a --slug that is not in the registry", () => {

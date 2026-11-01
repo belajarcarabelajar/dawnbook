@@ -1,1 +1,16 @@
-{"books": {}}
+{
+  "books": {
+    "belajar-cara-belajar": {
+      "products": ["P-Z1vYc0z"],
+      "productUrl": "https://belajarcarabelajar.com/product/ebook-belajar-cara-belajar"
+    },
+    "100-study-hacks": {
+      "products": ["P-ZWIJwL"],
+      "productUrl": "https://belajarcarabelajar.com/product/ebook-100-study-hacks"
+    },
+    "lancar-nugas": {
+      "products": ["P-Ffa6A"],
+      "productUrl": "https://belajarcarabelajar.com/product/ebook-lancar-nugas"
+    }
+  }
+}
