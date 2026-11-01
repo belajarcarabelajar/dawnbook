@@ -1,4 +1,5 @@
 import { afterEach, beforeEach, describe, expect, test } from "bun:test";
+import { Database } from "bun:sqlite";
 import type { D1Database } from "@cloudflare/workers-types";
 import { readFileSync } from "node:fs";
 import { join } from "node:path";
@@ -265,6 +266,57 @@ describe("checkPremiumAccess", () => {
       },
     } as unknown as D1Database;
     expect(await checkPremiumAccess(db, "buyer@x.com", ENTRY_A)).toBe("unavailable");
+  });
+});
+
+// fakeD1 above decides access in JavaScript and never reads the SQL, so the
+// kind rules are tested here by running the real query on SQLite. Schema:
+// bcb apps/dashboard/migrations-lms 0000 (allowlist) and 0001 (entitlements),
+// with the kind list widened by bcb migration 0003.
+function sqliteLms(rows: { email: string; product_id: string; kind: string; revoked_at?: string }[]): D1Database {
+  const sqlite = new Database(":memory:");
+  sqlite.exec(`
+    CREATE TABLE allowlist (email TEXT PRIMARY KEY COLLATE NOCASE, created_at INTEGER NOT NULL, note TEXT);
+    CREATE TABLE entitlements (
+      id TEXT PRIMARY KEY,
+      email TEXT NOT NULL COLLATE NOCASE,
+      product_id TEXT NOT NULL,
+      order_id TEXT,
+      kind TEXT NOT NULL CHECK (kind IN ('member', 'ebook_premium', 'shinobidone', 'lms', 'unduhan', 'tautan')),
+      granted_at TEXT NOT NULL,
+      revoked_at TEXT,
+      UNIQUE (email, product_id, kind)
+    );
+  `);
+  const insert = sqlite.query(
+    "INSERT INTO entitlements (id, email, product_id, kind, granted_at, revoked_at) VALUES (?1, ?2, ?3, ?4, '2026-11-01T00:00:00Z', ?5)",
+  );
+  rows.forEach((r, i) => insert.run(`e${i}`, r.email, r.product_id, r.kind, r.revoked_at ?? null));
+  return {
+    prepare(sql: string) {
+      return {
+        bind(...params: unknown[]) {
+          return { first: async () => sqlite.query(sql).get(...(params as string[])) ?? null };
+        },
+      };
+    },
+  } as unknown as D1Database;
+}
+
+describe("checkPremiumAccess kinds on SQLite", () => {
+  test("ebook_premium: an ebook_premium entitlement for any product opens the book", async () => {
+    const db = sqliteLms([{ email: "reader@example.test", product_id: "P-1MUzOd", kind: "ebook_premium" }]);
+    expect(await checkPremiumAccess(db, "reader@example.test", ENTRY_A)).toBe("allowed");
+  });
+
+  test("ebook_premium: a shinobidone entitlement alone grants no e-book access", async () => {
+    const db = sqliteLms([{ email: "ninja@example.test", product_id: "P-Z1LSw6j", kind: "shinobidone" }]);
+    expect(await checkPremiumAccess(db, "ninja@example.test", ENTRY_A)).toBe("refused");
+  });
+
+  test("ebook_premium: a member entitlement still opens the book until the contract migration", async () => {
+    const db = sqliteLms([{ email: "member@example.test", product_id: "P-OTHER", kind: "member" }]);
+    expect(await checkPremiumAccess(db, "member@example.test", ENTRY_A)).toBe("allowed");
   });
 });
 

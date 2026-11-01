@@ -83,8 +83,10 @@ export async function checkPremiumAccess(
   const unduhan = entry.products.length
     ? ` OR (kind = 'unduhan' AND product_id IN (${placeholders}))`
     : "";
+  // 'member' stays until the bcb contract migration renames its last rows to
+  // 'ebook_premium'; 'shinobidone' (the old member rows of P-Z1LSw6j) is left out.
   const sql =
-    `SELECT 1 AS ok FROM entitlements WHERE email = ?1 AND revoked_at IS NULL AND (kind = 'member'${unduhan})` +
+    `SELECT 1 AS ok FROM entitlements WHERE email = ?1 AND revoked_at IS NULL AND (kind IN ('member', 'ebook_premium')${unduhan})` +
     ` UNION ALL SELECT 1 AS ok FROM allowlist WHERE email = ?1 LIMIT 1`;
 
   try {
