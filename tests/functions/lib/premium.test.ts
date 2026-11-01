@@ -5,6 +5,7 @@ import { readFileSync } from "node:fs";
 import { join } from "node:path";
 import {
   checkPremiumAccess,
+  contentGateExemptSlugs,
   isPremiumPublicPage,
   loadPremiumRegistry,
   premiumSlugOf,
@@ -77,6 +78,21 @@ describe("registry", () => {
     const bundled = JSON.parse(readFileSync(join(import.meta.dir, "../../../data/premium-books.json"), "utf-8")).books;
     expect(loadPremiumRegistry()).toEqual(bundled);
     expect(premiumSlugs().sort()).toEqual(Object.keys(bundled).sort());
+  });
+});
+
+describe("edition", () => {
+  test("edition 2026 is accepted and only books without an edition are exempt from content gates", () => {
+    setPremiumRegistryForTest({ "buku-baru": { ...ENTRY_A, edition: 2026 }, "buku-a": ENTRY_A });
+    expect(premiumSlugs().sort()).toEqual(["buku-a", "buku-baru"]);
+    expect(contentGateExemptSlugs()).toEqual(["buku-a"]);
+  });
+
+  test("any other edition value is rejected, naming the slug", () => {
+    for (const edition of [2025, "2026", null]) {
+      const reg = { "buku-x": { ...ENTRY_A, edition } } as unknown as Record<string, PremiumEntry>;
+      expect(() => setPremiumRegistryForTest(reg)).toThrow(/buku-x/);
+    }
   });
 });
 

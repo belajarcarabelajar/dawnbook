@@ -1,6 +1,6 @@
 import fs from "node:fs";
 import path from "node:path";
-import { premiumSlugs } from "../functions/lib/premium";
+import { contentGateExemptSlugs } from "../functions/lib/premium";
 
 // Voice guard (GEMINI.md section 29): caps per chapter on the scaffolds that make a chapter read like a
 // report on its sources. A green run is necessary, not sufficient; reviewers still judge the voice.
@@ -130,9 +130,9 @@ export interface VoiceGateResult {
 }
 
 // Build step (GEMINI.md section 29): every book in the library must pass, and a book with no
-// checkable chapters fails instead of passing vacuously. Premium books (verbatim paid e-books) are skipped.
+// checkable chapters fails instead of passing vacuously. Verbatim premium books (no edition in the registry) are skipped.
 export function runVoiceGate(booksDir: string): VoiceGateResult {
-  const premium = premiumSlugs();
+  const premium = contentGateExemptSlugs();
   const slugs = fs.readdirSync(booksDir).filter((s) => isBook(booksDir, s) && !premium.includes(s)).sort();
   const problems = slugs.flatMap((slug) => {
     const { chapters, problems: found } = checkVoice(path.join(booksDir, slug), BOOK_VOICE_CONFIG[slug]);
@@ -150,7 +150,7 @@ if (import.meta.main) {
     booksDir = path.resolve(args[at + 1] ?? "");
     args.splice(at, 2);
   }
-  const premium = premiumSlugs();
+  const premium = contentGateExemptSlugs();
   const slugs = args.includes("--all")
     ? fs.readdirSync(booksDir).filter((s) => isBook(booksDir, s) && !premium.includes(s)).sort()
     : args;
