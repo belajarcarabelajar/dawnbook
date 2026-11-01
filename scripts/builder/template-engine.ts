@@ -497,17 +497,62 @@ ${turnstileWidget}        <a id="google-signin-btn" href="#" style="display: inl
             </svg>
             <span data-i18n="signin.cta">Sign in with Google</span>
         </a>
+        <div style="margin-top: var(--spacing-md);">
+            <a id="bcb-signin-btn" href="https://belajarcarabelajar.com/masuk-dawnbook?next=%2F" style="display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.5rem; background: #fff; color: #1f1f1f; border: 1px solid #dadce0; border-radius: 4px; text-decoration: none; font-weight: 500; font-family: inherit; cursor: pointer;">
+                <span data-i18n="signin.bcb.cta">Sign in with your belajarcarabelajar.com account</span>
+            </a>
+            <p style="font-size: 0.875rem; opacity: 0.7; margin-top: var(--spacing-sm);" data-i18n="signin.bcb.hint">Use this if your purchase email is not a Google account.</p>
+        </div>
         <p id="signin-error" style="margin-top: var(--spacing-md); color: #c0392b; display: none;"></p>
         <p style="font-size: 0.875rem; opacity: 0.7; margin-top: var(--spacing-md);">No account? Signing in with Google will create one automatically.</p>
     </div>
     <script>
       ${minifyJs(`
+      function bcbSignInHref(redirectUrl, origin) {
+        var next = '/';
+        try {
+          var u = new URL(redirectUrl, origin);
+          if (u.origin === origin && u.pathname.charAt(1) !== '/') {
+            next = u.pathname + u.search;
+          }
+        } catch (e) {}
+        return 'https://belajarcarabelajar.com/masuk-dawnbook?next=' + encodeURIComponent(next);
+      }
       (function() {
         var params = new URLSearchParams(window.location.search);
         var redirectUrl = params.get('redirect_url') || '/';
         var err = params.get('error');
         var btn = document.getElementById('google-signin-btn');
         var errEl = document.getElementById('signin-error');
+        var bcbBtn = document.getElementById('bcb-signin-btn');
+
+        /* The shared catalogs in i18n/ hold no sign-in SSO strings, so this page
+           adds its own before the i18n runtime applies the locale. */
+        var catalogs = window.I18N_CATALOGS || {};
+        var extra = {
+          en: {
+            'signin.bcb.cta': 'Sign in with your belajarcarabelajar.com account',
+            'signin.bcb.hint': 'Use this if your purchase email is not a Google account.',
+            'signin.error.sso_invalid': 'The sign-in link expired or is invalid. Please try again.',
+            'signin.error.sso_unavailable': 'Signing in with belajarcarabelajar.com is unavailable right now. Please try again later.',
+            'signin.error.account_conflict': 'This email is already linked to another Google account. Sign in with that Google account.'
+          },
+          id: {
+            'signin.bcb.cta': 'Masuk lewat akun belajarcarabelajar.com',
+            'signin.bcb.hint': 'Pakai ini kalau email pembelianmu bukan akun Google.',
+            'signin.error.sso_invalid': 'Tautan masuk sudah kedaluwarsa atau tidak sah. Coba lagi.',
+            'signin.error.sso_unavailable': 'Masuk lewat belajarcarabelajar.com sedang tidak tersedia. Coba lagi nanti.',
+            'signin.error.account_conflict': 'Email ini sudah terhubung ke akun Google lain. Masuk dengan akun Google tersebut.'
+          }
+        };
+        for (var loc in extra) {
+          if (!catalogs[loc]) continue;
+          for (var key in extra[loc]) catalogs[loc][key] = extra[loc][key];
+        }
+
+        if (bcbBtn) {
+          bcbBtn.href = bcbSignInHref(redirectUrl, window.location.origin);
+        }
 
         if (err) {
           var messages = {
@@ -516,9 +561,15 @@ ${turnstileWidget}        <a id="google-signin-btn" href="#" style="display: inl
             config: 'Sign-in is not configured. Please contact support.',
             google_exchange: 'Google rejected the sign-in. Please try again.',
             server: 'Something went wrong on our end. Please try again shortly.',
-            bot_detected: 'Security verification failed or expired. Please complete the captcha and try again.'
+            bot_detected: 'Security verification failed or expired. Please complete the captcha and try again.',
+            sso_invalid: 'The sign-in link expired or is invalid. Please try again.',
+            sso_unavailable: 'Signing in with belajarcarabelajar.com is unavailable right now. Please try again later.',
+            account_conflict: 'This email is already linked to another Google account. Sign in with that Google account.'
           };
           errEl.textContent = messages[err] || ('Sign-in failed (' + err + ').');
+          if (extra.id['signin.error.' + err]) {
+            errEl.setAttribute('data-i18n', 'signin.error.' + err);
+          }
           errEl.style.display = 'block';
         }
 
