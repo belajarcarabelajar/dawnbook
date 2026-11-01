@@ -1,4 +1,6 @@
-import { afterEach, beforeEach, describe, expect, spyOn, test } from "bun:test";
+import { afterAll, afterEach, beforeAll, beforeEach, describe, expect, spyOn, test } from "bun:test";
+import fs from "node:fs";
+import os from "node:os";
 import path from "node:path";
 import { setPremiumRegistryForTest } from "../../functions/lib/premium";
 import { checkBookStructure, runStructureGate } from "../../scripts/check-book-structure";
@@ -6,8 +8,31 @@ import { main as headingColonsMain } from "../../scripts/check-heading-colons";
 import { findRepeatedHeadings } from "../../scripts/check-repeated-headings";
 import { runVoiceGate } from "../../scripts/check-voice";
 
-const ROOT = path.resolve(import.meta.dir, "../fixtures/premium");
+const FIXTURE = path.resolve(import.meta.dir, "../fixtures/premium");
+// The copy-rules check refuses a committed U+2014, so the fixture holds a token and the test
+// writes the real character into a scratch copy that the gates read.
+const ROOT = path.join(os.homedir(), ".cache/tmp/dawnbook-scratch/premium-gates-test");
 const BOOKS = path.join(ROOT, "books");
+const EM_DASH_TOKEN = "{{EM_DASH}}";
+
+function copyWithEmDash(dir: string): void {
+  for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
+    const full = path.join(dir, entry.name);
+    if (entry.isDirectory()) copyWithEmDash(full);
+    else if (entry.name.endsWith(".md")) {
+      fs.writeFileSync(full, fs.readFileSync(full, "utf-8").replaceAll(EM_DASH_TOKEN, "\u2014"));
+    }
+  }
+}
+
+beforeAll(() => {
+  fs.rmSync(ROOT, { recursive: true, force: true });
+  fs.cpSync(FIXTURE, ROOT, { recursive: true });
+  copyWithEmDash(ROOT);
+});
+afterAll(() => {
+  fs.rmSync(ROOT, { recursive: true, force: true });
+});
 const FREE_OK = "premium-bebas";
 const BROKEN = "premium-rusak";
 const FREE_IMAGES = "gratis-gambar";
@@ -28,6 +53,12 @@ afterEach(() => {
 });
 
 describe("premium book with house-rule breaches", () => {
+  test("the scratch copy carries a real em dash and no token", () => {
+    const md = fs.readFileSync(path.join(BOOKS, FREE_OK, "src/content/02_dua.md"), "utf-8");
+    expect(md).toContain("\u2014");
+    expect(md).not.toContain(EM_DASH_TOKEN);
+  });
+
   test("structure passes when marked premium", () => {
     expect(checkBookStructure(path.join(BOOKS, FREE_OK), { premium: true })).toEqual({ chapters: 3, problems: [] });
   });
