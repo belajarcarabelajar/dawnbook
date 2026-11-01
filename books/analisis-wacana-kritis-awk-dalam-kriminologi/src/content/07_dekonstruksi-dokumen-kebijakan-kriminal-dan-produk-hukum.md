@@ -1,12 +1,12 @@
 ## Dekonstruksi Dokumen Kebijakan Kriminal dan Produk Hukum
 
-Pernahkah kamu membaca undang-undang dan merasa bahasanya kaku, teknis, dan seolah-olah "turun dari langit" sebagai kebenaran mutlak? Dalam studi kriminologi konvensional, hukum sering dianggap sebagai instrumen netral untuk mencapai ketertiban. Namun, melalui lensa **Analisis Wacana Kritis (AWK)**, kita akan membedah bahwa dokumen kebijakan dan produk hukum bukanlah teks hampa prasangka.
+Pernahkah kamu membaca undang-undang dan merasa bahasanya kaku, teknis, dan seolah-olah "turun dari langit" sebagai kebenaran mutlak? Dalam studi kriminologi konvensional, hukum sering dianggap sebagai instrumen netral untuk mencapai ketertiban. Namun, melalui lensa **Analisis Wacana Kritis (AWK)**, kita akan membedah prasangka yang tersimpan di dalam dokumen kebijakan dan produk hukum.
 
 Dekonstruksi dalam konteks ini adalah proses membongkar lapisan-lapisan bahasa untuk melihat bagaimana kekuasaan bekerja, siapa yang diuntungkan, dan siapa yang dipinggirkan oleh sebuah regulasi.
 
 ---
 
-### 1. Hukum sebagai Konstruksi Bahasa, Bukan Sekadar Aturan
+### 1. Hukum yang Dibangun dari Bahasa
 
 Hukum tidak bekerja di ruang hampa. Sebelum sebuah pasal diketok palu, ada perdebatan ideologis, lobi politik, dan kepentingan ekonomi yang membentuknya. AWK memandang produk hukum sebagai **praktik diskursif**.
 
@@ -32,7 +32,7 @@ Untuk mendekonstruksi dokumen kebijakan kriminal, kita perlu memperhatikan beber
 
 Dalam dokumen kebijakan, sering kali tindakan keras atau kegagalan sistem disamarkan menggunakan **nominalisasi** (mengubah kata kerja menjadi kata benda).
 
-- **Kalimat Aktif:** "Polisi menangkap ribuan orang miskin dalam operasi ini." (Agen jelas: Polisi).
+- **Kalimat Aktif:** "Polisi menangkap ribuan orang miskin dalam operasi ini." (Polisi jelas menjadi agen).
 - **Nominalisasi Pasif:** "Telah terjadi penangkapan ribuan orang miskin dalam operasi ini." (Agen menjadi abstrak, seolah-olah penangkapan terjadi secara otomatis tanpa aktor yang bertanggung jawab).
 
 #### B. Penggunaan Eufemisme
@@ -65,7 +65,7 @@ Setiap kebijakan kriminal membawa **ideologi** tertentu. AWK membedah agenda ter
 Kebijakan narkotika dapat dibedah dengan pendekatan AWK sebagai berikut:
 
 - **Pilihan Kata:** Penggunaan metafora perang (*War*).
-- **Implikasi:** Jika menggunakan kata "Perang", logika yang terbangun adalah "Hancurkan musuh". Dalam konteks ini, pecandu narkoba tidak lagi dilihat sebagai pasien yang membutuhkan pengobatan, melainkan sebagai "musuh negara" yang harus diperangi.
+- **Implikasi:** Jika menggunakan kata "Perang", logika yang terbangun adalah "Hancurkan musuh". Dalam konteks ini, pecandu narkoba dilihat sebagai "musuh negara" yang harus diperangi. Status mereka sebagai pasien yang membutuhkan pengobatan tidak lagi terlihat.
 - **Bias Tersembunyi:** Kebijakan ini sering kali mengabaikan faktor kemiskinan sebagai pemicu peredaran gelap, dan lebih fokus pada penindakan fisik yang memperkuat anggaran lembaga penegak hukum.
 
 ---
@@ -102,6 +102,6 @@ Dalam banyak draf regulasi siber di berbagai negara, sering ditemukan frasa:
 
 ### Poin Kunci Dekonstruksi Dokumen Hukum
 
-> **Keberhasilan dekonstruksi dokumen hukum terletak pada kemampuan kita untuk membuktikan bahwa teks hukum bukanlah refleksi objektif dari keadilan, melainkan tempat ideologi saling bersaing, dan bahasa digunakan untuk mempertahankan status quo atau melegitimasi kontrol sosial.**
+> **Keberhasilan dekonstruksi dokumen hukum terletak pada kemampuan kita untuk membuktikan bahwa teks hukum adalah tempat ideologi saling bersaing, dan bahasa digunakan untuk mempertahankan status quo atau melegitimasi kontrol sosial.**
 
-*Refleksi: Saat membaca berita tentang pengesahan undang-undang baru, tanyakan pada diri sendiri: "Siapa yang menulis naskah ini, dan untuk kepentingan siapa bahasa ini disusun?"*
+*Refleksi: Saat membaca berita tentang pengesahan undang-undang baru, tanyakan pada diri sendiri siapa yang menulis naskah ini, dan untuk kepentingan siapa bahasa ini disusun.*

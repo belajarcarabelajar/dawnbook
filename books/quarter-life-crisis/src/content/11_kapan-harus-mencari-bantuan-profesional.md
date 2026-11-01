@@ -1,6 +1,6 @@
 ## Kapan Harus Mencari Bantuan Profesional?
 
-Memasuki usia 20-an sering kali terasa seperti mengemudikan kapal di tengah badai. Wajar jika kamu merasa goyah, bingung, atau cemas. Namun, ada titik ketika "goyahan" tersebut bukan hanya respons terhadap ombak besar. Bisa jadi, itu tanda bahwa kapalmu mulai bocor secara struktural.
+Memasuki usia 20-an sering kali terasa seperti mengemudikan kapal di tengah badai. Wajar jika kamu merasa goyah, bingung, atau cemas. Namun, ada titik ketika "goyahan" tersebut bisa jadi tanda bahwa kapalmu mulai bocor secara struktural.
 
 Dalam bagian ini, kita akan belajar membedakan antara **kecemasan transisi** (yang merupakan bagian alami dari pertumbuhan) dan **gejala gangguan kesehatan mental** yang memerlukan intervensi profesional.
 
@@ -9,11 +9,11 @@ Dalam bagian ini, kita akan belajar membedakan antara **kecemasan transisi** (ya
 Bayangkan kesehatan mentalmu seperti dasbor mobil.
 
 - **Kecemasan Transisi:** Seperti lampu indikator bensin yang menyala. Ini adalah sinyal bahwa kamu perlu "mengisi ulang" energi, beristirahat, atau menyesuaikan arah. Ini mengganggu, tetapi kamu masih bisa mengemudi ke pom bensin terdekat.
-- **Gangguan Kesehatan Mental:** Seperti lampu indikator mesin (*check engine*) yang berkedip merah disertai asap dari kap mobil. Jika kamu terus memaksa mengemudi, mesin bisa rusak permanen. Kamu tidak hanya butuh mengisi bensin, tetapi butuh bantuan montir ahli (profesional).
+- **Gangguan Kesehatan Mental:** Seperti lampu indikator mesin (*check engine*) yang berkedip merah disertai asap dari kap mobil. Jika kamu terus memaksa mengemudi, mesin bisa rusak permanen. Pada titik ini, yang kamu butuhkan adalah bantuan montir ahli (profesional).
 
 ## 2\. Membedakan Kecemasan Normal vs. Klinis
 
-Penting untuk memahami bahwa *Quarter-Life Crisis* (QLC) adalah fase perkembangan, bukan diagnosis medis. Namun, QLC dapat memicu atau menutupi gangguan klinis seperti Depresi Mayor atau Gangguan Kecemasan Umum (*Generalized Anxiety Disorder*).
+Penting untuk memahami bahwa *Quarter-Life Crisis* (QLC) adalah fase perkembangan. Istilah ini tidak termasuk diagnosis medis. Namun, QLC dapat memicu atau menutupi gangguan klinis seperti Depresi Mayor atau Gangguan Kecemasan Umum (*Generalized Anxiety Disorder*).
 
 ### Kapan Harus Waspada?
 
@@ -57,7 +57,7 @@ Ini adalah indikator terpenting. Apakah kondisi mentalmu menghambatmu dalam:
 Jika kamu mengalami salah satu dari hal berikut, segera jadwalkan pertemuan dengan profesional kesehatan mental (Psikolog atau Psikiater):
 
 - **Pikiran untuk Menyakiti Diri Sendiri:** Munculnya ide atau rencana untuk mengakhiri hidup atau menyakiti diri sendiri (*self-harm*). Jika keselamatanmu terasa terancam, segera hubungi layanan darurat atau datang ke IGD rumah sakit terdekat tanpa menunggu jadwal konsultasi.
-- **Anhedonia Total:** Kehilangan minat sepenuhnya pada hal-hal yang dulunya sangat kamu cintai (misal: hobi yang dulu sangat menyenangkan kini terasa hambar).
+- **Anhedonia Total:** Kehilangan minat sepenuhnya pada hal-hal yang dulunya sangat kamu cintai (misalnya hobi yang dulu sangat menyenangkan kini terasa hambar).
 - **Gejala Psikotik:** Mendengar suara-suara atau melihat hal yang tidak dilihat orang lain, atau merasa sangat paranoid tanpa alasan yang jelas.
 - **Penyalahgunaan Zat:** Menggunakan alkohol atau obat-obatan sebagai satu-satunya cara untuk "mematikan" rasa sakit emosional.
 - **Kelelahan Ekstrem:** Merasa lelah secara fisik meski sudah tidur cukup, atau merasa berat untuk sekadar bangun dari tempat tidur.
@@ -92,6 +92,6 @@ Banyak anak muda menahan diri untuk mencari bantuan karena takut dianggap "lemah
 
 - *Refleksi untukmu: Jika kakimu patah, apakah kamu akan mencoba menyembuhkannya sendiri dengan sekadar "berpikir positif"? Tentu tidak. Begitu juga dengan kesehatan mental.*
 
-Mencari bantuan profesional di tengah *Quarter-Life Crisis* bukan berarti kamu gagal dewasa. Sebaliknya, itu berarti kamu mengambil langkah proaktif untuk memastikan bahwa masa depanmu tidak terhambat oleh beban emosional yang sebenarnya bisa disembuhkan.
+Mencari bantuan profesional di tengah *Quarter-Life Crisis* berarti kamu mengambil langkah proaktif untuk memastikan bahwa masa depanmu tidak terhambat oleh beban emosional yang sebenarnya bisa disembuhkan. Langkah itu tidak menandakan kamu gagal menjadi dewasa.
 
-*Ingatlah, merawat kesehatan mental bukan pengeluaran yang sia-sia. Jika kamu merasa kewalahan, kamu tidak harus menanggungnya sendirian.*
+*Ingatlah, biaya untuk merawat kesehatan mental tidak sia-sia. Jika kamu merasa kewalahan, kamu tidak harus menanggungnya sendirian.*

@@ -1,6 +1,6 @@
 ## Sudut Pandang, Gaya Bahasa, dan Amanat Novel 9 Summers 10 Autumns
 
-Kekuatan sebuah narasi memoar tidak hanya terletak pada peristiwa yang dialami, melainkan pada bagaimana peristiwa tersebut dituturkan. Melalui perpaduan sudut pandang persona pertama, gaya bahasa puitis yang reflektif, serta pesan moral yang kuat, Iwan Setyawan menuturkan perjalanannya dari Kota Batu hingga ke New York dengan cara yang terasa dekat bagi pembaca.
+Kekuatan sebuah narasi memoar terletak pada peristiwa yang dialami dan pada cara peristiwa itu dituturkan. Melalui perpaduan sudut pandang persona pertama, gaya bahasa puitis yang reflektif, serta pesan moral yang kuat, Iwan Setyawan menuturkan perjalanannya dari Kota Batu hingga ke New York dengan cara yang terasa dekat bagi pembaca.
 
 ### Sudut Pandang Persona Pertama ('Aku')
 
@@ -12,7 +12,7 @@ Gaya bahasa adalah bahasa indah yang digunakan untuk meningkatkan efek cerita. G
 
 ### Amanat Novel 9 Summers 10 Autumns
 
-Amanat adalah pesan dari pengarang yang disampaikan melalui cerita. Amanat dapat berbentuk tersirat atau tersurat. Amanat secara tersirat dapat berupa tingkah laku tokoh, jalan pikiran tokoh, atau perasaan tokoh. Amanat secara tersurat dapat disampaikan di bagian tengah atau akhir cerita dengan cara pengarang menyampaikan saran, nasihat, dan pemikirannya. Dalam novel 9 Summers 10 Autumns, amanat yang terkandung adalah bahwa kemiskinan bukanlah tembok, melainkan tantangan yang bisa ditembus dengan kerja keras dan restu orang tua.
+Amanat adalah pesan dari pengarang yang disampaikan melalui cerita. Amanat dapat berbentuk tersirat atau tersurat. Amanat secara tersirat dapat berupa tingkah laku tokoh, jalan pikiran tokoh, atau perasaan tokoh. Amanat secara tersurat dapat disampaikan di bagian tengah atau akhir cerita dengan cara pengarang menyampaikan saran, nasihat, dan pemikirannya. Dalam novel 9 Summers 10 Autumns, amanat yang terkandung adalah bahwa kemiskinan adalah tantangan yang bisa ditembus dengan kerja keras dan restu orang tua.
 
 ### Membedah Personifikasi dan Metafora
 

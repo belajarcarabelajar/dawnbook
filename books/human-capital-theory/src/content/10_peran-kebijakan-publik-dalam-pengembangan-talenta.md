@@ -12,7 +12,7 @@ Intervensi pemerintah dalam pengembangan modal manusia berlandaskan pada analisi
 
 #### A. Eksternalitas Positif (Positive Externalities)
 
-Saat seorang individu meningkatkan keterampilannya, manfaat yang tercipta tidak hanya dinikmati oleh individu itu sendiri. Masyarakat luas ikut merasakan dampaknya, mulai dari peningkatan produktivitas nasional, penurunan tingkat kejahatan, peningkatan kualitas partisipasi kewarganegaraan, hingga terciptanya inovasi baru yang dapat dimanfaatkan publik.
+Saat seorang individu meningkatkan keterampilannya, masyarakat luas ikut merasakan dampaknya, mulai dari peningkatan produktivitas nasional, penurunan tingkat kejahatan, peningkatan kualitas partisipasi kewarganegaraan, hingga terciptanya inovasi baru yang dapat dimanfaatkan publik.
 
 > **Logika Ekonomi:**
 > 
@@ -136,4 +136,4 @@ Pilihan terbaik bergantung pada struktur ekonomi nasional, tingkat kesenjangan k
 
 - **Alasan Intervensi:** Kebijakan publik diperlukan karena adanya kegagalan pasar bebas, yaitu **Eksternalitas Positif**, **Kendala Pasar Kredit**, dan **Asimetri Informasi**.
 - **Pilihan Instrumen:** Pemerintah mengombinasikan **Direct Provision** (sekolah publik), **Subsidi & Beasiswa** (BOS, LPDP), serta **Insentif Pajak & Voucher** (Super Tax Deduction, Kartu Prakerja).
-- **Indikator Keberhasilan:** Efektivitas kebijakan publik tidak hanya diukur dari besarnya dana yang tersalurkan, melainkan dari besarnya **Social Return on Investment (SROI)** dan penurunan tingkat ketidakcocokan keahlian (*skill mismatch*) di pasar kerja.
+- **Indikator Keberhasilan:** Efektivitas kebijakan publik terlihat dari besarnya dana yang tersalurkan, dan lebih jauh lagi dari besarnya **Social Return on Investment (SROI)** dan penurunan tingkat ketidakcocokan keahlian (*skill mismatch*) di pasar kerja.

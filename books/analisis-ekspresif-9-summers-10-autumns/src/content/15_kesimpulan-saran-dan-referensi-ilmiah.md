@@ -4,13 +4,13 @@ Kisah hidup Iwan Setyawan dalam *9 Summers 10 Autumns* dapat dibaca lebih dari s
 
 ### Sintesis Akhir Kajian
 
-Keseluruhan unsur intrinsik dalam novel "9 Summers 10 Autumns" saling berkaitan membangun makna utuh cerita. Penggunaan alur campuran dengan sudut pandang persona pertama memberikan gambaran mengenai latar kehidupan tokoh utama di Kota Batu yang sarat akan keprihatinan dan kehidupannya ketika berada di New York yang berbeda jauh dengan kota asalnya. Hal ini membuat pembaca terhubung secara emosional dengan novel. Penokohan yang diceritakan oleh penulis dan dibalut dengan gaya bahasa puitis mempertegas tema karya ini: pendidikan sebagai tangga perubahan sosial dan kekuatan cinta keluarga.
+Keseluruhan unsur intrinsik dalam novel "9 Summers 10 Autumns" saling berkaitan membangun makna utuh cerita. Penggunaan alur campuran dengan sudut pandang persona pertama memberikan gambaran mengenai latar kehidupan tokoh utama di Kota Batu yang sarat akan keprihatinan dan kehidupannya ketika berada di New York yang berbeda jauh dengan kota asalnya. Hal ini membuat pembaca terhubung secara emosional dengan novel. Penokohan yang diceritakan oleh penulis dan dibalut dengan gaya bahasa puitis mempertegas tema karya ini, yaitu pendidikan sebagai tangga perubahan sosial dan kekuatan cinta keluarga.
 
 Melalui pendekatan ekspresif, terungkap bahwa novel ini merupakan hasil otentik perjalanan hidup Iwan Setyawan di tengah kondisi sulit. Kisah ini dituangkan berdasarkan latar belakang keluarga, kondisi sosial, masa kecil, dan latar belakang bidang akademiknya.
 
 ### Saran
 
-Pembaca diharapkan tidak hanya menikmati keindahan karya sastra dalam novel ini, tetapi juga berusaha mengimplementasikan nilai-nilai yang menjadi pesan yang disampaikan oleh pengarang, yaitu kerja keras, pantang menyerah, tekun, dan memperjuangkan pendidikan untuk masa depan. Kisah dalam novel ini membuktikan bahwa keterbatasan material bukanlah penghalang untuk memperjuangkan masa depan, melainkan tantangan yang harus ditaklukkan dengan perjuangan dan kerja keras.
+Sambil menikmati keindahan karya sastra dalam novel ini, pembaca diharapkan berusaha mengimplementasikan nilai-nilai yang menjadi pesan yang disampaikan oleh pengarang, yaitu kerja keras, pantang menyerah, tekun, dan memperjuangkan pendidikan untuk masa depan. Kisah dalam novel ini membuktikan bahwa keterbatasan material adalah tantangan yang harus ditaklukkan dengan perjuangan dan kerja keras.
 
 Penelitian selanjutnya diharapkan dapat mengkaji karya ini menggunakan pendekatan yang berbeda, seperti pendekatan sosiologi sastra atau psikologi sastra agar memperkaya keilmuan mengenai analisis novel "9 Summers 10 Autumns".
 

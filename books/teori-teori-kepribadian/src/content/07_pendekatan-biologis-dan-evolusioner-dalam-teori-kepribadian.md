@@ -1,13 +1,13 @@
 ## Pendekatan Biologis dan Evolusioner dalam Teori Kepribadian
 
-Pendekatan biologis dan evolusioner melihat kepribadian dari sudut pandang genetik, neurologis, dan adaptif. Kepribadian manusia tidak hanya terbentuk dari interaksi pengasuhan, tetapi juga oleh warisan biologis dari proses evolusi selama jutaan tahun.
+Pendekatan biologis dan evolusioner melihat kepribadian dari sudut pandang genetik, neurologis, dan adaptif. Kepribadian manusia terbentuk dari interaksi pengasuhan sekaligus dari warisan biologis hasil proses evolusi selama jutaan tahun.
 
 ### Pengaruh Genetika terhadap Kepribadian
 
 Genetika memiliki pengaruh langsung terhadap penentuan arah kepribadian. Berbagai studi membuktikan bahwa sejumlah sifat kepribadian memiliki tingkat *heritability* bawaan, yang berarti sebagian variasi tingkah laku antarindividu dapat dijelaskan oleh perbedaan genetik mereka.
 
 **Konsep Heritability**
-*Heritability* mengukur sejauh mana variasi genetik di sebuah populasi mampu menjelaskan variasi fenotipe atau sifat yang bisa diamati. Penghitungan statistik ini berjalan murni dalam level populasi, bukan takaran individu. *Heritability* bergantung secara dinamis pada situasi lingkungan; gen dan ekologi setempat saling tumpang tindih dalam memicu sebuah perilaku.
+*Heritability* mengukur sejauh mana variasi genetik di sebuah populasi mampu menjelaskan variasi fenotipe atau sifat yang bisa diamati. Penghitungan statistik ini berjalan murni di level populasi, sehingga angkanya tidak bisa dipakai sebagai takaran untuk satu individu. *Heritability* bergantung secara dinamis pada situasi lingkungan; gen dan ekologi setempat saling tumpang tindih dalam memicu sebuah perilaku.
 
 **Studi Kembar dan Adopsi**
 Peneliti umumnya menggunakan studi kembar dan adopsi untuk melacak jejak pengaruh genetik. Studi kembar membandingkan kembar monozigot yang secara genetik identik dengan kembar dizigot yang hanya berbagi sekitar $50\text{\%}$ materi genetik. Jika sepasang kembar identik menunjukkan kemiripan sifat yang tinggi meskipun dibesarkan di dua rumah yang terpisah, hal ini menunjukkan kuatnya pengaruh genetik.
@@ -48,7 +48,7 @@ Cabang psikologi evolusioner meyakini bahwa keragaman perilaku manusia yang ters
 
 Dalam konteks peradaban masa lampau, profil *extraversion* memuluskan jalan seorang individu untuk memperoleh pasangan reproduktif dan membangun dominasi teritorial. Sifat *conscientiousness* memastikan bahwa kelompok memiliki pembuat strategi yang andal dalam menimbun pasokan pangan untuk kelangsungan hidup panjang. Di sisi lain, *agreeableness* menjauhkan kelompok dari perpecahan internal berkat mekanisme saling asuh dan sikap rela berkorban.
 
-Berpindah dari satu habitat ekstrem ke habitat lain menuntut inovasi konstan, menjadikan sifat *openness to experience* penting untuk menciptakan alat dan taktik perburuan baru. Kecemasan bawaan dari *neuroticism* tidak semata-mata menjadi beban mental; pada zaman prasejarah, manusia yang diliputi perasaan paranoid terhadap bayangan pemangsa di balik semak-semak jauh lebih berpeluang bertahan hidup dibanding mereka yang melenggang ceroboh.
+Berpindah dari satu habitat ekstrem ke habitat lain menuntut inovasi konstan, menjadikan sifat *openness to experience* penting untuk menciptakan alat dan taktik perburuan baru. Kecemasan bawaan dari *neuroticism* pernah punya nilai untuk bertahan hidup. Pada zaman prasejarah, manusia yang diliputi perasaan paranoid terhadap bayangan pemangsa di balik semak-semak jauh lebih berpeluang bertahan hidup dibanding mereka yang melenggang ceroboh.
 
 **Frequency-Dependent Selection dan Life History Strategies**
 Sifat yang menguntungkan terkadang ditentukan oleh populasi di sekitarnya, sebuah fenomena yang dinamakan *frequency-dependent selection*. Apabila sebuah suku secara mayoritas diisi oleh anggota yang ramah dan memegang kuat rasa saling percaya, segelintir individu pemanipulasi dapat mengambil jalan pintas untuk berbuat curang dan memenangkan kompetisi memperebutkan sumber daya.

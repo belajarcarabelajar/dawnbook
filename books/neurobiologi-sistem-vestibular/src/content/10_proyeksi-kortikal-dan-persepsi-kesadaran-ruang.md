@@ -2,13 +2,13 @@
 
 Pernahkah seseorang terbangun tengah malam di ruangan gelap gulita, tetapi masih tahu persis arah "atas" dan posisi tubuh terhadap tempat tidur? Atau bayangkan ketika seseorang berada di dalam lift yang bergerak sangat halus; meskipun mata tidak melihat perubahan pemandangan di luar, tubuh tetap dapat "merasakan" pergerakan naik atau turun.
 
-Kesadaran spasial ini bukanlah kebetulan, melainkan hasil kerja integratif **proyeksi kortikal** sistem vestibular. Jika bagian sistem vestibular sebelumnya (seperti refleks vestibulo-okular dan kontrol postur) bekerja secara otomatis di bawah sadar, proyeksi kortikal merupakan gerbang utama yang memungkinkan manusia secara sadar memahami pergerakan diri (*self-motion*) dan orientasi dalam ruang tiga dimensi.
+Kesadaran spasial ini merupakan hasil kerja integratif **proyeksi kortikal** sistem vestibular. Jika bagian sistem vestibular sebelumnya (seperti refleks vestibulo-okular dan kontrol postur) bekerja secara otomatis di bawah sadar, proyeksi kortikal merupakan gerbang utama yang memungkinkan manusia secara sadar memahami pergerakan diri (*self-motion*) dan orientasi dalam ruang tiga dimensi.
 
 ### 1. Peran Talamus
 
 Sebelum informasi dari telinga dalam mencapai kesadaran di korteks serebri, sinyal saraf harus melewati stasiun relai utama otak, yaitu **Talamus**.
 
-Informasi yang berasal dari nukleus vestibularis di batang otak tidak langsung diproyeksikan ke korteks. Sinyal ini berjalan naik melalui jalur *lemniscus medialis* menuju kompleks nukleus di talamus, terutama:
+Informasi yang berasal dari nukleus vestibularis di batang otak lebih dulu berjalan naik melalui jalur *lemniscus medialis* menuju kompleks nukleus di talamus, terutama:
 
 - **Ventral Postero-Lateral (VPL) Nucleus:** Mengintegrasikan sinyal vestibular dengan informasi somatosensorik (sentuhan dan posisi sendi).
 - **Ventral Postero-Inferior (VPI) Nucleus:** Berperan sebagai pusat relai utama khusus untuk meneruskan sinyal vestibular menuju area korteks.
@@ -58,7 +58,7 @@ Keterangan parameter:
 - $\vec{I}_{\text{vis}}$: Komponen input aliran optik dan petunjuk visual (*visual cues*).
 - $\vec{I}_{\text{prop}}$: Komponen input proprioseptif dari reseptor otot, tendon, dan sendi.
 
-> **Wawasan Kunci:** Kesadaran ruang merupakan hasil konstruksi aktif sistem saraf pusat. Otak tidak sekadar menerima stimulus fisik secara pasif, melainkan menyusun representasi realitas berdasarkan konsensus berbagai modalitas sensorik. Apabila terjadi diskrepansi atau ketidaksesuaian antarsinyal sensorik (seperti pada mabuk perjalanan atau *motion sickness*), sistem saraf akan memicu respons disorientasi dan vertigo.
+> **Wawasan Kunci:** Kesadaran ruang merupakan hasil konstruksi aktif sistem saraf pusat. Otak menyusun representasi realitas berdasarkan konsensus berbagai modalitas sensorik. Apabila terjadi diskrepansi atau ketidaksesuaian antarsinyal sensorik (seperti pada mabuk perjalanan atau *motion sickness*), sistem saraf akan memicu respons disorientasi dan vertigo.
 
 ### 4. Navigasi Spasial dan Memori (Hipokampus)
 
@@ -109,4 +109,4 @@ flowchart TD
     K -.->|"proyeksi meluas"| G["Hipokampus dan korteks entorhinal"]
 ```
 
-> **Pesan Utama:** Persepsi kesadaran ruang merupakan hasil kerja sama antara transduksi fisik di telinga dalam dan interpretasi tingkat tinggi di korteks serebri. Manusia tidak hanya bereaksi terhadap tarikan gravitasi dan gerakan secara mekanis, melainkan memahami keberadaan dan orientasi diri dalam ruang melalui proyeksi kortikal ini.
+> **Pesan Utama:** Persepsi kesadaran ruang merupakan hasil kerja sama antara transduksi fisik di telinga dalam dan interpretasi tingkat tinggi di korteks serebri. Selain bereaksi secara mekanis terhadap tarikan gravitasi dan gerakan, manusia memahami keberadaan dan orientasi diri dalam ruang melalui proyeksi kortikal ini.

@@ -1,12 +1,12 @@
 ## Kognisi Sosial dan Struktur Wacana menurut Teun van Dijk
 
-Pernahkah terlintas pertanyaan mengapa sebuah kebijakan keamanan yang ketat sering kali diterima dengan tangan terbuka oleh masyarakat? Padahal, kebijakan tersebut mungkin membatasi kebebasan sipil. Jawabannya sering kali tidak terletak pada fakta-fakta statistik kejahatan, melainkan pada bagaimana pesan tersebut dikonstruksi dalam pikiran publik.
+Pernahkah terlintas pertanyaan mengapa sebuah kebijakan keamanan yang ketat sering kali diterima dengan tangan terbuka oleh masyarakat? Padahal, kebijakan tersebut mungkin membatasi kebebasan sipil. Jawabannya sering kali terletak pada cara pesan tersebut dikonstruksi dalam pikiran publik. Fakta-fakta statistik kejahatan jarang menjadi penentunya.
 
-Dalam kerangka Analisis Wacana Kritis (AWK), **Teun van Dijk** menawarkan perspektif yang unik dengan memasukkan elemen "jembatan" yang hilang dalam analisis bahasa tradisional: **Kognisi Sosial**.
+Dalam kerangka Analisis Wacana Kritis (AWK), **Teun van Dijk** menawarkan perspektif yang unik dengan memasukkan **Kognisi Sosial**, elemen "jembatan" yang hilang dalam analisis bahasa tradisional.
 
 ## 1. Wacana, Kognisi Sosial, dan Masyarakat
 
-Berbeda dengan pemikir lain yang mungkin langsung menghubungkan teks dengan struktur sosial, Van Dijk berpendapat bahwa tidak ada hubungan langsung antara wacana dan masyarakat. Hubungan tersebut dimediasi oleh kognisi manusia.
+Berbeda dengan pemikir lain yang mungkin langsung menghubungkan teks dengan struktur sosial, Van Dijk berpendapat bahwa hubungan antara wacana dan masyarakat selalu dimediasi oleh kognisi manusia.
 
 Teori ini dapat digambarkan sebagai sebuah sistem interaksi:
 
@@ -20,7 +20,7 @@ $$
 - **Kognisi Sosial (Social Cognition):** Representasi mental, skema, dan prasangka yang dimiliki oleh anggota kelompok (misalnya, ketakutan kolektif terhadap orang asing).
 - **Masyarakat (Society):** Struktur kekuasaan dan institusi (misalnya, kepolisian, kementerian hukum, atau media massa).
 
-> **Wawasan Penting:** Kekuasaan (*power*) tidak hanya bekerja dengan memaksa tubuh manusia, tetapi juga dengan mengelola pikiran mereka melalui wacana. Jika elite dapat mengontrol apa yang orang pikirkan tentang kejahatan, mereka dapat mengontrol bagaimana orang tersebut akan bertindak.
+> **Wawasan Penting:** Kekuasaan (*power*) bekerja dengan memaksa tubuh manusia dan dengan mengelola pikiran mereka melalui wacana. Jika elite dapat mengontrol apa yang orang pikirkan tentang kejahatan, mereka dapat mengontrol bagaimana orang tersebut akan bertindak.
 
 ## 2. Struktur Wacana
 
@@ -34,7 +34,7 @@ Ini adalah "inti" atau topik utama dari sebuah wacana. Dalam kriminologi, elite 
 
 ### B. Superstruktur (Skematik)
 
-Bagaimana bagian-bagian wacana disusun. Struktur ini biasanya mengikuti alur: **Pendahuluan $\rightarrow$ Masalah $\rightarrow$ Solusi (yang diinginkan elite).**
+Bagaimana bagian-bagian wacana disusun. Struktur ini biasanya mengikuti alur **Pendahuluan $\rightarrow$ Masalah $\rightarrow$ Solusi (yang diinginkan elite).**
 
 - *Analogi:* Seperti sebuah skrip film, jika penonton sudah disuguhi adegan "masalah" yang mengerikan di awal, mereka akan menerima "solusi" apa pun di akhir, meski solusi itu drastis.
 
@@ -50,7 +50,7 @@ Di sinilah detail bahasa berperan. Ini mencakup:
 
 Mengapa masyarakat percaya pada narasi elite? Van Dijk menjelaskan melalui konsep **Model Mental**.
 
-Setiap kali membaca berita kriminal, otak tidak hanya menyerap kata-kata, tetapi juga mencocokkannya dengan pengalaman masa lalu dan nilai-nilai kelompok. Elite kekuasaan memanipulasi hal ini dengan menciptakan **Skema Kelompok**.
+Setiap kali membaca berita kriminal, otak menyerap kata-kata lalu mencocokkannya dengan pengalaman masa lalu dan nilai-nilai kelompok. Elite kekuasaan memanipulasi hal ini dengan menciptakan **Skema Kelompok**.
 
 ### Strategi "Ideological Square" (Persegi Ideologi)
 
@@ -139,6 +139,6 @@ Untuk memahami bagaimana kriminolog menggunakan bahasa sebagai alat bukti, berik
 
 ## Benang Merah Pendekatan Van Dijk
 
-Pendekatan Teun van Dijk mengingatkan bahwa kriminologi bukan hanya tentang apa yang terjadi di jalanan, tetapi tentang apa yang terjadi di dalam ruang redaksi, ruang sidang, dan podium politik. Dengan memahami bagaimana wacana memengaruhi kognisi sosial, pemelajar dapat lebih kritis terhadap narasi "keamanan" yang sering kali digunakan untuk melegitimasi kontrol sosial yang berlebihan.
+Pendekatan Teun van Dijk mengingatkan bahwa kriminologi mengamati jalanan sekaligus apa yang terjadi di dalam ruang redaksi, ruang sidang, dan podium politik. Dengan memahami bagaimana wacana memengaruhi kognisi sosial, pemelajar dapat lebih kritis terhadap narasi "keamanan" yang sering kali digunakan untuk melegitimasi kontrol sosial yang berlebihan.
 
 > **Pesan Utama:** Barangsiapa mengendalikan wacana, ia mengendalikan cara masyarakat mendefinisikan apa itu kejahatan dan siapa yang layak dihukum.

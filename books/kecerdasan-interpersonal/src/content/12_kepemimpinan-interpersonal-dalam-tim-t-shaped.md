@@ -2,13 +2,13 @@
 
 Dari mendengar aktif hingga keamanan psikologis, semua kepingan kecerdasan interpersonal yang sudah kita pelajari kini disatukan di modul penutup ini.
 
-Dalam tim modern, kepemimpinan tidak lagi dijalankan melalui instruksi kaku dari atas ke bawah. Kepemimpinan interpersonal dalam konteks *T-Shaped Professional* adalah kemampuan untuk menyatukan berbagai keahlian mendalam (spesialis) menjadi sebuah solusi utuh yang selaras dengan visi perusahaan.
+Tim modern sudah meninggalkan kepemimpinan lewat instruksi kaku dari atas ke bawah. Dalam konteks *T-Shaped Professional*, kepemimpinan interpersonal berarti kemampuan untuk menyatukan berbagai keahlian mendalam (spesialis) menjadi sebuah solusi utuh yang selaras dengan visi perusahaan.
 
 ## 1. Filosofi Kepemimpinan T-Shaped
 
 Bayangkan sebuah orkestra. Di sana ada pemain biola yang piawai, pemain perkusi yang presisi, dan pemain tiup yang berbakat. Masing-masing adalah spesialis (*I-shaped*). Jika mereka semua bermain sekeras mungkin tanpa koordinasi, yang tercipta hanyalah kebisingan.
 
-Seorang pemimpin interpersonal dalam tim *T-Shaped* berperan layaknya konduktor. Kamu mungkin bukan pemain biola terbaik di ruangan itu, tetapi kamu memiliki kemampuan horizontal untuk memahami karakter setiap instrumen dan memastikan mereka bermain dalam tempo yang sama untuk menciptakan harmoni.
+Seorang pemimpin interpersonal dalam tim *T-Shaped* berperan layaknya konduktor. Pemain biola terbaik di ruangan itu mungkin orang lain. Kekuatanmu terletak pada kemampuan horizontal untuk memahami karakter setiap instrumen dan memastikan mereka bermain dalam tempo yang sama untuk menciptakan harmoni.
 
 > **Wawasan Utama:** Kepemimpinan *T-Shaped* adalah kemampuan untuk menghubungkan kedalaman teknis (*Vertical Depth*) dengan keluasan kolaborasi lintas disiplin (*Horizontal Breadth*).
 
@@ -42,7 +42,7 @@ Untuk memimpin inisiatif yang sukses, kamu harus mampu memadukan otoritas dengan
 
 Sebelum memulai pekerjaan, pastikan seluruh anggota tim memahami tujuan utama (*North Star*) perusahaan.
 
-- **Langkah Praktis:** Selenggarakan sesi *kick-off* yang berfokus pada "masalah siapa yang ingin kita selesaikan", bukan langsung membahas detail teknis apa yang akan dibuat.
+- **Langkah Praktis:** Selenggarakan sesi *kick-off* yang berfokus pada "masalah siapa yang ingin kita selesaikan" sebelum tim membahas detail teknis apa yang akan dibuat.
 
 ### B. Tahap Orkestrasi (The "How")
 
@@ -52,7 +52,7 @@ Gunakan teknik fasilitasi untuk memastikan suara dari rekan setim yang paling te
 
 ### C. Tahap Sintesis (The "Result")
 
-Inilah esensi kepemimpinan *T-Shaped*: menyerap masukan dari berbagai sudut pandang yang berbeda, lalu merangkumnya menjadi satu keputusan bulat yang disepakati bersama.
+Di tahap ini kamu menyerap masukan dari berbagai sudut pandang yang berbeda, lalu merangkumnya menjadi satu keputusan bulat yang disepakati bersama. Itulah esensi kepemimpinan *T-Shaped*.
 
 - **Langkah Praktis:** Susun dokumentasi bersama yang mencerminkan hasil integrasi tersebut secara jelas.
 
@@ -72,7 +72,7 @@ flowchart TD
 **Contoh keputusan hasil sintesis:** jika masukan teknis dari para spesialis tergolong sangat kompleks, sementara visi bisnis menuntut produk diluncurkan cepat, maka:
 
 - **Keputusan:** gunakan pendekatan modular atau MVP (*Minimum Viable Product*), dengan rencana skalabilitas di fase 2.
-- **Komunikasi:** jelaskan kepada tim teknis bahwa ini bukan kompromi kualitas, melainkan langkah strategis untuk masuk pasar.
+- **Komunikasi:** jelaskan kepada tim teknis bahwa pilihan ini adalah langkah strategis untuk masuk pasar dan kualitas tidak dikorbankan.
 
 ## 4. Peluncuran Fitur Baru
 
@@ -96,14 +96,14 @@ Fitur inti berhasil dirilis tepat waktu dengan sistem yang stabil. Hubungan kerj
 
 ## 5. Dari Fondasi hingga Kepemimpinan
 
-Sepanjang rangkaian modul ini, kita telah belajar bahwa kecerdasan interpersonal lebih dari sebatas pelengkap *soft skill*; ini adalah bagian inti dari perkembangan karier kamu.
+Sepanjang rangkaian modul ini, kita telah belajar bahwa kecerdasan interpersonal adalah bagian inti dari perkembangan karier kamu.
 
 - **Mulai dari fondasi:** Kamu sudah menanamkan kesadaran diri yang kuat sejak awal pembelajaran.
 - **Berbekal keterampilan praktis:** Mulai dari mendengar aktif, seni persuasi, hingga resolusi konflik yang konstruktif.
 - **Menciptakan ruang aman:** Kamu juga telah memahami cara membangun rasa aman secara psikologis di dalam tim.
-- **Puncaknya:** Kamu sekarang bisa memadukan seluruh aspek ini untuk memandu orang-orang di sekitarmu secara utuh, tidak lagi sebatas membagi pekerjaan.
+- **Puncaknya:** Kamu sekarang bisa memadukan seluruh aspek ini untuk memandu orang-orang di sekitarmu secara utuh.
 
-> **Pesan Penutup:** Kepemimpinan dalam tim *T-Shaped* bukan tentang menjadi orang paling pintar di ruangan. Peran utama kamu adalah memastikan kecerdasan kolektif seluruh anggota tim dapat bekerja sama dengan minim gesekan untuk mencapai tujuan bersama.
+> **Pesan Penutup:** Dalam tim *T-Shaped*, peran utama kamu sebagai pemimpin adalah memastikan kecerdasan kolektif seluruh anggota tim dapat bekerja sama dengan minim gesekan untuk mencapai tujuan bersama.
 
 Sebagai langkah awal setelah menyelesaikan modul ini, cobalah mengamati satu inisiatif di tempat kerja kamu yang melibatkan lintas departemen. Tentukan satu strategi interpersonal yang akan kamu terapkan langsung untuk menyelaraskan visi mereka mulai besok.
 

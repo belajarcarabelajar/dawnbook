@@ -1,6 +1,6 @@
 ## Manajemen Konflik dan Resolusi Masalah
 
-Dalam perjalanan karier seorang profesional T-shaped, konflik bukanlah tanda kegagalan tim. Perbedaan pendapat justru menjadi sinyal bahwa berbagai perspektif sedang berproses mencari jalan keluar terbaik. Oleh karena itu, manajemen konflik bukan sekadar taktik untuk memenangkan perdebatan. Fokus utamanya adalah mengarahkan perbedaan pendapat tersebut agar menghasilkan solusi yang lebih solid dibanding ide awal.
+Dalam perjalanan karier seorang profesional T-shaped, konflik tidak menandakan kegagalan tim. Perbedaan pendapat menjadi sinyal bahwa berbagai perspektif sedang berproses mencari jalan keluar terbaik. Karena itu, manajemen konflik berfokus pada upaya mengarahkan perbedaan pendapat tersebut agar menghasilkan solusi yang lebih solid dibanding ide awal.
 
 ## 1. Memahami Konflik
 
@@ -11,11 +11,11 @@ Dalam dinamika organisasi, konflik memegang peran seperti gesekan tersebut.
 - **Konflik Destruktif:** Perselisihan yang menyerang ranah pribadi, merusak reputasi rekan kerja, serta melumpuhkan ritme kerja tim.
 - **Konflik Konstruktif:** Perdebatan tajam yang berpusat pada pemecahan masalah teknis. Langkah ini menantang metode lama yang tidak lagi efektif demi memicu lahirnya inovasi baru.
 
-> **Insight Utama:** Peranmu bukan untuk meredam atau menghilangkan perbedaan pendapat sepenuhnya. Tantangan sebenarnya adalah mengolah benturan opini tersebut menjadi gagasan yang berguna melalui resolusi yang profesional.
+> **Insight Utama:** Tantanganmu adalah mengolah benturan opini menjadi gagasan yang berguna melalui resolusi yang profesional. Perbedaan pendapat tidak perlu diredam atau dihilangkan sepenuhnya.
 
 ## 2. Model Thomas-Kilmann
 
-Untuk menangani konflik secara profesional, kamu perlu memahami lima gaya manajemen konflik. Model ini didasarkan pada dua dimensi utama: **Asertivitas** (sejauh mana kamu memperjuangkan kepentingan sendiri) dan **Kooperatif** (sejauh mana kamu memprioritaskan kepentingan orang lain).
+Untuk menangani konflik secara profesional, kamu perlu memahami lima gaya manajemen konflik. Model ini didasarkan pada dua dimensi utama, yakni **Asertivitas** (sejauh mana kamu memperjuangkan kepentingan sendiri) dan **Kooperatif** (sejauh mana kamu memprioritaskan kepentingan orang lain).
 
 <div>
 $$
@@ -38,8 +38,8 @@ Metode IBR efektif di lingkungan profesional karena secara tegas memisahkan hubu
 ### Langkah Praktis Penerapan IBR
 
 1. **Menempatkan relasi sebagai prioritas utama.** Tegaskan sejak awal bahwa kamu menghargai rekan kerja tersebut secara personal, meskipun opini kalian saat ini berseberangan.
-2. **Memisahkan individu dari masalah teknis.** Hindari kalimat menyerang seperti, "Kamu lambat mengirim data." Sebagai gantinya, gunakan deskripsi objektif: "Keterlambatan pasokan data menghambat integrasi sistem."
-3. **Menggali *interest* (kepentingan), bukan sekadar mempertahankan posisi.**
+2. **Memisahkan individu dari masalah teknis.** Hindari kalimat menyerang seperti, "Kamu lambat mengirim data." Sebagai gantinya, gunakan deskripsi objektif seperti "Keterlambatan pasokan data menghambat integrasi sistem."
+3. **Menggali *interest* (kepentingan) di balik posisi.**
    - *Posisi:* "Saya mau menggunakan database SQL."
    - *Kepentingan:* "Saya membutuhkan konsistensi data yang tinggi untuk laporan keuangan."
 4. **Mendengar aktif sebelum merespons.** Gunakan empati untuk menangkap alasan mendasar di balik argumen mereka sebelum kamu mulai menjelaskan sudut pandangmu sendiri.
@@ -63,7 +63,7 @@ Inovasi sering kali lahir dari *creative abrasion*, istilah yang dipopulerkan ol
 
 **Cara memfasilitasi proses ini:**
 
-- **Menetapkan aturan main yang produktif.** Setiap kritik yang dilontarkan wajib disertai dengan alternatif solusi nyata, bukan sekadar menunjukkan kelemahan ide lawan.
+- **Menetapkan aturan main yang produktif.** Setiap kritik yang dilontarkan wajib disertai dengan alternatif solusi nyata. Menunjukkan kelemahan ide lawan saja belum cukup.
 - **Memvisualisasikan akar masalah.** Manfaatkan papan tulis atau *tools* kolaborasi digital. Langkah ini secara psikologis mengubah sudut pandang dari posisi "Saya vs Kamu" menjadi "Kita bersama melawan masalah."
 - **Menjadikan data sebagai penengah objektif.** Jika perdebatan mulai bias atau terlalu emosional, kembalikan fokus diskusi pada metrik kinerja atau data riil di lapangan.
 
@@ -82,7 +82,7 @@ Inovasi sering kali lahir dari *creative abrasion*, istilah yang dipopulerkan ol
 ## 6. Tips Praktis Menangani Perselisihan Secara Profesional
 
 - **Gunakan *I-Statements* (Pernyataan "Saya").** Misalnya, katakan "Saya khawatir dengan stabilitas sistem jika kita mengambil langkah ini," alih-alih menyerang dengan kalimat, "Kamu membuat sistem ini tidak stabil."
-- **Hindari asumsi sepihak.** Biasakan bertanya untuk mengklarifikasi: "Tolong bantu aku memahami sudut pandangmu mengenai pilihan teknologi ini."
+- **Hindari asumsi sepihak.** Biasakan bertanya untuk mengklarifikasi, misalnya "Tolong bantu aku memahami sudut pandangmu mengenai pilihan teknologi ini."
 - **Terapkan *cool-off period*.** Jika diskusi mulai memanas secara emosional, mintalah jeda selama 10 hingga 15 menit. Tensi emosi yang tinggi secara ilmiah menurunkan kemampuan berpikir logis seseorang.
 - **Dokumentasikan hasil kesepakatan.** Tuliskan poin-poin keputusan akhir untuk mencegah kesalahpahaman atau terulangnya konflik serupa di kemudian hari.
 

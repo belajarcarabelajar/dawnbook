@@ -1,6 +1,6 @@
 ## Anatomi Makroskopis Labirin Tulang dan Membran
 
-Inti dari sistem keseimbangan ada di telinga dalam: jika otak adalah pusat komando, telinga dalam adalah markas intelijen yang terlindungi dengan ketat. Tersembunyi jauh di dalam bagian petrosa tulang temporal (tulang tengkorak yang paling keras), terdapat sebuah labirin rumit yang menentukan bagaimana kita merasakan posisi kita di dalam ruang.
+Inti dari sistem keseimbangan ada di telinga dalam. Jika otak adalah pusat komando, telinga dalam adalah markas intelijen yang terlindungi dengan ketat. Tersembunyi jauh di dalam bagian petrosa tulang temporal (tulang tengkorak yang paling keras), terdapat sebuah labirin rumit yang menentukan bagaimana kita merasakan posisi kita di dalam ruang.
 
 Dalam bagian ini, kita akan membedah struktur "rumah" bagi sensor keseimbangan kita, memahami perbedaan antara dinding luar yang keras dan saluran dalam yang lunak, serta cairan yang mengisinya.
 
@@ -91,4 +91,4 @@ Dalam kondisi normal, produksi dan penyerapan endolymph berada dalam keseimbanga
 4. **Kanalis Semisirkularis** berisi Ductus Semicircularis.
 5. Interaksi antara kedua cairan ini sangat vital bagi fungsi sel rambut yang akan kita bahas pada bagian-bagian berikutnya.
 
-> **Poin Kunci:** Pemisahan kimiawi antara perilymph dan endolymph bukan sekadar detail anatomi, melainkan baterai biologis yang memungkinkan kita merasakan setiap kemiringan dan putaran kepala kita terhadap gravitasi.
+> **Poin Kunci:** Pemisahan kimiawi antara perilymph dan endolymph bekerja sebagai baterai biologis yang memungkinkan kita merasakan setiap kemiringan dan putaran kepala kita terhadap gravitasi.

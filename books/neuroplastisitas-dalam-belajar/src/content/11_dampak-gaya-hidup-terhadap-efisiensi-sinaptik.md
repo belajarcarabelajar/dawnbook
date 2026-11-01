@@ -1,12 +1,12 @@
 ## Dampak Gaya Hidup terhadap Efisiensi Sinaptik
 
-Pernahkah kamu merasa bahwa setelah berolahraga pagi atau tidur yang cukup, otak kamu terasa lebih "tajam" dan informasi lebih mudah diserap? Itu bukan sekadar perasaan kamu saja. Secara biologis, gaya hidup kamu menentukan seberapa subur "tanah" di otak kamu untuk menumbuhkan koneksi saraf baru.
+Pernahkah kamu merasa bahwa setelah berolahraga pagi atau tidur yang cukup, otak kamu terasa lebih "tajam" dan informasi lebih mudah diserap? Perasaan itu sejalan dengan biologi otak. Gaya hidup kamu menentukan seberapa subur "tanah" di otak kamu untuk menumbuhkan koneksi saraf baru.
 
 Dalam bab ini, kita akan mengeksplorasi bagaimana rutinitas harian, apa yang kamu makan, seberapa banyak kamu bergerak, dan bagaimana kamu beristirahat, berinteraksi langsung dengan protein bernama **BDNF** untuk menentukan efisiensi sinaptik kamu.
 
 ## 1\. Mengenal BDNF
 
-Sebelum kita membahas aktivitas spesifik, kita harus mengenal aktor utamanya: **Brain-Derived Neurotrophic Factor (BDNF)**.
+Sebelum kita membahas aktivitas spesifik, kita perlu berkenalan dulu dengan aktor utamanya, **Brain-Derived Neurotrophic Factor (BDNF)**.
 
 Bayangkan otak kamu adalah sebuah taman. Agar tanaman (neuron) dapat tumbuh kuat dan jembatan antartanaman (sinapsis) terbentuk dengan kokoh, kamu memerlukan pupuk berkualitas tinggi. BDNF adalah pupuk alami tersebut.
 
@@ -21,7 +21,7 @@ Bayangkan otak kamu adalah sebuah taman. Agar tanaman (neuron) dapat tumbuh kuat
 
 ## 2\. Aktivitas Fisik Meningkatkan BDNF
 
-Aktivitas fisik bukan hanya tentang kesehatan jantung atau otot; ini adalah intervensi neurobiologis yang kuat untuk meningkatkan efisiensi belajar.
+Selain menyehatkan jantung dan otot, aktivitas fisik adalah intervensi neurobiologis yang kuat untuk meningkatkan efisiensi belajar.
 
 ### Mekanisme Biologis
 
@@ -41,7 +41,7 @@ $$
 
 ## 3\. Sistem Pembersihan dan Konsolidasi saat Tidur
 
-Jika olahraga adalah proses "menanam", maka tidur adalah proses "merawat dan merapikan". Tidur yang berkualitas penting bagi efisiensi sinaptik melalui dua mekanisme utama:
+Jika olahraga adalah proses "menanam", maka tidur adalah proses "merawat dan merapikan". Tidur yang berkualitas penting bagi efisiensi sinaptik melalui dua mekanisme utama.
 
 ### A. Sistem Glimfatik (Pembersihan Otak)
 
@@ -72,7 +72,7 @@ Otak adalah organ yang paling lapar energi, menghabiskan sekitar 20% dari total 
 
 ## 5\. Hubungan Antarfaktor (Sinergi Gaya Hidup)
 
-Ketiga faktor ini tidak bekerja secara terpisah, melainkan saling memperkuat dalam sebuah ekosistem pembelajaran.
+Ketiga faktor ini saling memperkuat dalam sebuah ekosistem pembelajaran.
 
 | Faktor | Dampak Langsung pada Sinapsis | Peran BDNF |
 | --- | --- | --- |
@@ -88,6 +88,6 @@ Untuk memaksimalkan kapasitas belajar kamu berdasarkan sains neuroplastisitas, t
 2. **Prioritas Tidur:** Targetkan 7-9 jam tidur. Hindari cahaya biru dari layar menjelang tidur.
 3. **Diet Cerdas:** Konsumsi lemak sehat (ikan, kacang-kacangan, alpukat) dan kurangi gula rafinasi untuk menjaga stabilitas energi otak.
 
-> **Pesan Utama:** Otak kamu bukan hanya perangkat lunak yang bisa di-*update* dengan informasi, tapi juga perangkat keras yang kualitasnya bergantung pada cara kamu merawat tubuh. Efisiensi sinaptik adalah hasil dari sinergi antara apa yang kamu pelajari dan bagaimana kamu hidup.
+> **Pesan Utama:** Otak kamu adalah perangkat lunak yang bisa di-*update* dengan informasi sekaligus perangkat keras yang kualitasnya bergantung pada cara kamu merawat tubuh. Efisiensi sinaptik adalah hasil dari sinergi antara apa yang kamu pelajari dan bagaimana kamu hidup.
 
-*Mari berefleksi sejenak: Dari tiga pilar di atas (tidur, nutrisi, olahraga), manakah yang saat ini menjadi penghambat terbesar dalam proses belajar kamu? Langkah kecil apa yang bisa kamu ambil hari ini untuk memperbaikinya?*
+*Mari berefleksi sejenak. Dari tiga pilar di atas (tidur, nutrisi, olahraga), manakah yang saat ini menjadi penghambat terbesar dalam proses belajar kamu? Langkah kecil apa yang bisa kamu ambil hari ini untuk memperbaikinya?*

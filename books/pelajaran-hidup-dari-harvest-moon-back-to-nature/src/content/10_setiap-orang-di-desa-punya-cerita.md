@@ -18,11 +18,11 @@ Musim dingin menyimpan satu adegan lagi untuk Cliff. Pada hari bersalju, lewat p
 
 Panduan resmi dari Prima tidak menjelaskan foto apa itu, dan tidak pernah menyebut Cliff sedih atau sakit hati. Kamu juga tidak perlu tahu. Mengembalikan barang milik seseorang tidak menuntutmu memahami seluruh kisahnya, apalagi menebak isi hatinya lalu memberinya label.
 
-### Angka yang Bukan Potret Satu Orang
+### Angka tentang Banyak Orang
 
-Butuh kerja tetapi belum mendapatkannya bukan keadaan yang hanya ada di desa fiksi. Paul dan Moser (2009) menggabungkan ratusan studi tentang pengangguran dan kesehatan mental dalam sebuah [meta-analisis](https://doi.org/10.1016/j.jvb.2009.01.001). Rata-rata, 34 persen orang yang menganggur mengalami masalah psikologis, dibandingkan 16 persen di antara mereka yang bekerja. Studi jangka panjang dan eksperimen alamiah yang mereka tinjau mendukung dugaan bahwa pengangguran tidak hanya berjalan bersama tekanan batin, tetapi juga ikut menyebabkannya.
+Keadaan butuh kerja tetapi belum mendapatkannya juga ada di dunia nyata. Paul dan Moser (2009) menggabungkan ratusan studi tentang pengangguran dan kesehatan mental dalam sebuah [meta-analisis](https://doi.org/10.1016/j.jvb.2009.01.001). Rata-rata, 34 persen orang yang menganggur mengalami masalah psikologis, dibandingkan 16 persen di antara mereka yang bekerja. Studi jangka panjang dan eksperimen alamiah yang mereka tinjau mendukung dugaan bahwa pengangguran ikut menyebabkan tekanan batin itu.
 
-Itu angka rata-rata sebuah populasi. Ia tidak menjelaskan Cliff dan tidak bisa dipakai untuk menilai siapa pun yang kamu kenal. Yang bisa kamu bawa pulang lebih sederhana: bagi banyak orang, kehilangan pekerjaan terasa berat. Karena itu, kabar tentang sebuah lowongan, satu rekomendasi, atau ajakan untuk ikut membantu bisa berarti lebih dari yang terlihat.
+Itu angka rata-rata sebuah populasi. Ia tidak menjelaskan Cliff dan tidak bisa dipakai untuk menilai siapa pun yang kamu kenal. Yang bisa kamu bawa pulang lebih sederhana. Bagi banyak orang, kehilangan pekerjaan terasa berat. Karena itu, kabar tentang sebuah lowongan, satu rekomendasi, atau ajakan untuk ikut membantu bisa berarti lebih dari yang terlihat.
 
 ### Palu Gray yang Hancur
 
@@ -30,7 +30,7 @@ Di bengkel pandai besi, Gray berusaha membantu kakeknya, Saibara, tetapi merasa 
 
 Palu itu akhirnya hancur. Mary melihat kejadiannya dan, pada peristiwa berikutnya, menegur Gray di Rose Square. Belakangan Gray datang berterima kasih kepadamu, dan hubungan kalian membaik.
 
-Kamu tidak membuat palu itu berhasil. Yang kamu berikan hanya tempat untuk mencoba. Orang yang merasa tidak dihargai kadang tidak sedang butuh nasihat, melainkan ruang untuk membuktikan diri, termasuk ruang untuk gagal tanpa dihakimi.
+Yang kamu berikan hanya tempat untuk mencoba. Kadang yang dibutuhkan orang yang merasa tidak dihargai adalah ruang untuk membuktikan diri, termasuk ruang untuk gagal tanpa dihakimi.
 
 ### May di Dermaga Pukul Enam Sore
 
@@ -42,16 +42,16 @@ Dalam cerita ini, waktu sama pentingnya dengan niat baik. Datang terlalu pagi, d
 
 ### Jagung Pertama untuk Kai
 
-Kai hanya datang ke desa pada musim panas dan membuka Kai's Seaside Lodge di pantai. Saat kamu memanen jagung (*Corn*) untuk pertama kali, ia bertanya berapa harga yang kamu minta: 50, 100, atau 200 G. Harga normalnya 100 G, dan itu sudah adil.
+Kai hanya datang ke desa pada musim panas dan membuka Kai's Seaside Lodge di pantai. Saat kamu memanen jagung (*Corn*) untuk pertama kali, ia bertanya apakah kamu meminta 50, 100, atau 200 G. Harga normalnya 100 G, dan itu sudah adil.
 
 Minta 200 G, dan kamu tidak mendapat teman baru. Minta 50 G, separuh harga normal, dan Kai senang; jalan menuju persahabatan dengannya juga terbuka.
 
-Selisih 50 G tetap uang sungguhan bagi ladangmu. Namun pilihan ini bukan soal untung atau rugi. Ini keputusan untuk tidak memasang harga setinggi mungkin pada setiap transaksi, apalagi pada pertemuan pertama dengan orang yang baru kamu kenal.
+Selisih 50 G tetap uang sungguhan bagi ladangmu. Namun pilihan ini adalah keputusan untuk tidak memasang harga setinggi mungkin pada setiap transaksi, apalagi pada pertemuan pertama dengan orang yang baru kamu kenal.
 
 ### Gagasan Utama
 
 - Satu kabar tentang pekerjaan menentukan apakah Cliff tetap tinggal atau pamit di akhir musim dingin, dan mengembalikan fotonya tidak menuntutmu tahu seluruh kisahnya.
-- Dalam meta-analisis Paul dan Moser (2009), rata-rata 34 persen penganggur mengalami masalah psikologis, dibandingkan 16 persen pekerja; itu angka populasi, bukan diagnosis untuk siapa pun.
+- Dalam meta-analisis Paul dan Moser (2009), rata-rata 34 persen penganggur mengalami masalah psikologis, dibandingkan 16 persen pekerja; itu angka populasi yang tidak bisa dipakai untuk mendiagnosis siapa pun.
 - Bantuan kecil bisa berupa ruang untuk mencoba (Gray), kehadiran pada jam yang tepat (May), atau harga yang mau mengalah (Kai).
 
 Lalu bagaimana kalau di antara para tetangga itu ada satu orang yang ingin kamu dekati lebih dari sekadar teman? Hatinya bisa berubah warna, tetapi perlahan.

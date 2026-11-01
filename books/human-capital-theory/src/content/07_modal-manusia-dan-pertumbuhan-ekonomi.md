@@ -1,6 +1,6 @@
 ## Modal Manusia dan Pertumbuhan Ekonomi Jangka Panjang
 
-Pernahkah kamu bertanya-tanya mengapa negara seperti Korea Selatan atau Singapura bisa tumbuh cepat dalam hitungan dekade? Keduanya berangkat dari status negara berpendapatan rendah dengan sumber daya alam yang terbatas. Jawabannya bukan terletak pada kekayaan alam di bawah tanah mereka, melainkan pada kapasitas intelektual dan keterampilan penduduknya.
+Pernahkah kamu bertanya-tanya mengapa negara seperti Korea Selatan atau Singapura bisa tumbuh cepat dalam hitungan dekade? Keduanya berangkat dari status negara berpendapatan rendah dengan sumber daya alam yang terbatas. Jawabannya terletak pada kapasitas intelektual dan keterampilan penduduknya.
 
 Akumulasi pengetahuan, keterampilan, dan kesehatan kolektif (yang dikenal sebagai **Human Capital**) merupakan penggerak utama yang memastikan ekonomi sebuah negara dapat berkembang secara berkelanjutan dalam jangka panjang.
 
@@ -23,7 +23,7 @@ flowchart TD
 
 #### Model Pertumbuhan Solow (Eksogen)
 
-Pada pertengahan abad ke-20, model pertumbuhan neoklasik Robert Solow menyatakan bahwa output ekonomi ditentukan oleh kombinasi modal fisik (*Physical Capital*) dan tenaga kerja (*Labor*). Namun, model ini menghadapi keterbatasan fundamental: **hukum hasil yang semakin menurun (diminishing returns)**. 
+Pada pertengahan abad ke-20, model pertumbuhan neoklasik Robert Solow menyatakan bahwa output ekonomi ditentukan oleh kombinasi modal fisik (*Physical Capital*) dan tenaga kerja (*Labor*). Namun, model ini menghadapi keterbatasan fundamental berupa **hukum hasil yang semakin menurun (diminishing returns)**. 
 
 Jika kamu terus menambah unit mesin tanpa diimbangi peningkatan kapasitas atau inovasi, setiap unit mesin tambahan akan memberikan tambahan output yang semakin kecil hingga akhirnya pertumbuhan terhenti (berada pada kondisi *steady state*). Dalam kerangka ini, kemajuan teknologi dianggap sebagai faktor eksternal (*exogenous*) yang jatuh begitu saja tanpa penjelasan internal (*Solow Residual*).
 
@@ -58,7 +58,7 @@ Tenaga kerja yang terdidik dan terampil memiliki kapabilitas yang lebih tinggi d
 
 #### B. Penciptaan Inovasi dan Efek Limpahan (*Spillover Effect*)
 
-Pengetahuan memiliki sifat **non-rivalrous**: pemanfaatan suatu ide atau rumus matematika oleh satu pihak tidak mengurangi kesempatan pihak lain untuk menggunakannya secara bersamaan.
+Pengetahuan memiliki sifat **non-rivalrous**, artinya pemanfaatan suatu ide atau rumus matematika oleh satu pihak tidak mengurangi kesempatan pihak lain untuk menggunakannya secara bersamaan.
 
 - **Eksternalitas Positif:** Saat seorang teknisi menemukan metode efisiensi energi baru, manfaat penemuan tersebut dapat diadaptasi oleh seluruh industri.
 - **Akumulasi Kolektif:** Pengetahuan yang dihasilkan satu generasi menjadi pijakan bagi inovasi generasi berikutnya, memicu rantai pertumbuhan yang berkelanjutan.
@@ -148,12 +148,12 @@ Meskipun **Human Capital** menjadi pendorong utama pertumbuhan jangka panjang, t
 
 - **Ketidaksesuaian Keterampilan (*Skill Mismatch*):** Ketidakselarasan antara spesifikasi lulusan lembaga pendidikan dengan kebutuhan industri nyata, seperti berlebihnya lulusan teori dasar dibandingkan praktisi analisis data dan teknik.
 - **Depresiasi Pengetahuan (*Knowledge Obsolescence*):** Keterampilan yang tidak diperbarui secara berkala akan kehilangan nilainya akibat laju otomasi dan kecerdasan buatan (AI).
-- **Modal Kesehatan (*Health Capital*):** Produktivitas tidak hanya ditentukan oleh tingkat pendidikan, tetapi juga oleh status kesehatan populasi. Tenaga kerja yang berpendidikan tinggi tetapi memiliki masalah kesehatan kronis tidak dapat bekerja secara optimal.
+- **Modal Kesehatan (*Health Capital*):** Selain tingkat pendidikan, status kesehatan populasi ikut menentukan produktivitas. Tenaga kerja yang berpendidikan tinggi tetapi memiliki masalah kesehatan kronis tidak dapat bekerja secara optimal.
 
-> **Poin Penting:** Pertumbuhan ekonomi jangka panjang tidak ditentukan oleh penambahan jam kerja fisik (*labor intensity*), melainkan oleh peningkatan kapasitas pemecahan masalah dan inovasi (*Human Capital intensity*).
+> **Poin Penting:** Pertumbuhan ekonomi jangka panjang ditentukan oleh peningkatan kapasitas pemecahan masalah dan inovasi (*Human Capital intensity*). Menambah jam kerja fisik (*labor intensity*) tidak menentukan arah pertumbuhan itu.
 
 ---
 
 ### Benang Merah
 
-Dalam era ekonomi digital global, daya saing suatu bangsa tidak lagi diukur dari cadangan minyak atau mineral di dalam bumi, melainkan dari **kapasitas pembelajaran kolektif** dan adaptabilitas masyarakatnya. Negara yang mengabaikan pengembangan kapasitas manusia akan mengalami stagnasi, sementara negara yang memprioritaskan investasi **Human Capital** akan memimpin pertumbuhan ekonomi masa depan.
+Dalam era ekonomi digital global, ukuran daya saing suatu bangsa telah bergeser dari cadangan minyak atau mineral di dalam bumi ke **kapasitas pembelajaran kolektif** dan adaptabilitas masyarakatnya. Negara yang mengabaikan pengembangan kapasitas manusia akan mengalami stagnasi, sementara negara yang memprioritaskan investasi **Human Capital** akan memimpin pertumbuhan ekonomi masa depan.

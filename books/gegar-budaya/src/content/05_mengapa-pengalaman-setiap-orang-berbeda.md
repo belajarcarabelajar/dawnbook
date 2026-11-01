@@ -2,7 +2,7 @@
 
 Pernahkah kamu bertanya-tanya mengapa sebagian orang tampak mudah berbaur di negara baru, sementara yang lain tertekan hingga ingin segera pulang?
 
-Gegar budaya bukan merupakan fenomena "satu ukuran untuk semua". Intensitas atau berat-ringannya guncangan yang dirasakan seseorang bergantung pada interaksi berbagai variabel. Jika kita membayangkan proses adaptasi sebagai sebuah perjalanan melintasi laut, maka faktor-faktor ini adalah kombinasi antara kekuatan ombak (lingkungan), ketangguhan kapal (kepribadian), dan peta yang dibawa (persiapan).
+Gegar budaya terasa berbeda pada setiap orang. Intensitas atau berat-ringannya guncangan yang dirasakan seseorang bergantung pada interaksi berbagai variabel. Jika kita membayangkan proses adaptasi sebagai sebuah perjalanan melintasi laut, maka faktor-faktor ini adalah kombinasi antara kekuatan ombak (lingkungan), ketangguhan kapal (kepribadian), dan peta yang dibawa (persiapan).
 
 Secara matematis, kita bisa menggambarkan intensitas gegar budaya ($I$) sebagai fungsi dari berbagai variabel:
 
@@ -65,7 +65,7 @@ Keempat faktor ini bisa dipetakan menjadi sebuah profil untuk memperkirakan ting
 | **Pengalaman masa lalu ($E$)** | Belum punya pengalaman internasional |
 | **Dukungan sosial ($S$)** | Belum punya kontak warga lokal, tetapi ada komunitas dari negara asalnya |
 
-Dengan profil seperti ini, intensitas gegar budaya Andi diperkirakan tinggi. Rekomendasinya: fokus pada pelatihan bahasa dan segera mencari mentor lokal.
+Dengan profil seperti ini, intensitas gegar budaya Andi diperkirakan tinggi. Karena itu, langkah yang disarankan untuknya adalah fokus pada pelatihan bahasa dan segera mencari mentor lokal.
 
 ## Perbandingan Siti dan Budi
 
@@ -82,7 +82,7 @@ Dengan profil seperti ini, intensitas gegar budaya Andi diperkirakan tinggi. Rek
 
 ## Kesimpulan untuk Refleksi
 
-Intensitas gegar budaya bukanlah tanda kelemahan karakter. Itu adalah hasil interaksi antara siapa kamu, dari mana kamu berasal, dan ke mana kamu pergi.
+Intensitas gegar budaya adalah hasil interaksi antara siapa kamu, dari mana kamu berasal, dan ke mana kamu pergi. Berat-ringannya tidak mengukur kekuatan karaktermu.
 
 > **Insight:** Memahami faktor-faktor ini memungkinkan kita untuk melakukan intervensi dini. Jika kamu tahu kamu akan pindah ke budaya dengan jarak yang jauh ($D$ tinggi) dan kamu memiliki toleransi rendah terhadap ketidakpastian ($P$ rendah), maka kamu perlu menambah upaya dalam persiapan dan pencarian dukungan sosial ($E$ dan $S$) untuk menyeimbangkan keadaan.
 

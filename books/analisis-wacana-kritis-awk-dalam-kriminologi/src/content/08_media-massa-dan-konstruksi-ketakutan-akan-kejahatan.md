@@ -1,6 +1,6 @@
 ## Media Massa dan Konstruksi Ketakutan akan Kejahatan
 
-Pernahkah kamu takut berjalan sendirian pada malam hari setelah menonton berita pembegalan, padahal secara statistik lingkungan sekitar termasuk aman? Itulah kekuatan media massa. Media tidak sekadar memberikan jendela untuk melihat dunia; ia sering kali menjadi arsitek yang membangun persepsi publik tentang apa yang "aman" dan siapa yang "berbahaya".
+Pernahkah kamu takut berjalan sendirian pada malam hari setelah menonton berita pembegalan, padahal secara statistik lingkungan sekitar termasuk aman? Itulah kekuatan media massa. Media memberi kita jendela untuk melihat dunia, dan sering kali ia sekaligus menjadi arsitek yang membangun persepsi publik tentang apa yang "aman" dan siapa yang "berbahaya".
 
 Dalam bab ini, kita akan membedah bagaimana wacana media massa mengonstruksi ketakutan akan kejahatan (*fear of crime*) melalui lensa **Analisis Wacana Kritis (AWK)**. Kita akan melihat bagaimana pilihan kata, sudut pandang berita, dan pengulangan narasi dapat menciptakan kepanikan moral yang melampaui realitas objektif.
 
@@ -8,7 +8,7 @@ Dalam bab ini, kita akan membedah bagaimana wacana media massa mengonstruksi ket
 
 ### 1. Media sebagai Cermin Cembung Realitas Kriminal
 
-Bayangkan media massa sebagai sebuah cermin. Namun, ia bukan cermin datar yang memantulkan bayangan apa adanya, melainkan **cermin cembung** yang mendistorsi proporsi. Kejahatan kekerasan yang langka sering kali diperbesar porsinya di layar kaca, sementara kejahatan kerah putih (*white-collar crime*) yang berdampak sistemik sering kali tampak kecil atau bahkan tidak terlihat.
+Bayangkan media massa sebagai sebuah **cermin cembung**. Bayangan yang dipantulkannya tidak apa adanya, karena proporsinya terdistorsi. Kejahatan kekerasan yang langka sering kali diperbesar porsinya di layar kaca, sementara kejahatan kerah putih (*white-collar crime*) yang berdampak sistemik sering kali tampak kecil atau bahkan tidak terlihat.
 
 #### Mengapa Distorsi Ini Terjadi?
 
@@ -27,7 +27,7 @@ Istilah **Kepanikan Moral** (*Moral Panic*) dipopulerkan oleh sosiolog Stanley C
 
 #### Tahapan Konstruksi Kepanikan Moral dalam Wacana
 
-1. **Identifikasi *Folk Devils***: Media menunjuk satu kelompok tertentu sebagai "iblis rakyat" atau musuh bersama (misalnya: anak punk, geng motor, atau kelompok migran).
+1. **Identifikasi *Folk Devils***: Media menunjuk satu kelompok tertentu sebagai "iblis rakyat" atau musuh bersama (misalnya anak punk, geng motor, atau kelompok migran).
 2. **Eksagerasi dan Distorsi**: Penggunaan kata-kata hiperbolis seperti "serangan", "wabah kejahatan", atau "krisis nasional".
 3. **Prediksi Eskalatif**: Narasi implisit maupun eksplisit bahwa jika fenomena ini tidak dihentikan segera, tatanan masyarakat akan runtuh.
 4. **Simbolisasi**: Objek, atribut, atau gaya hidup tertentu (seperti tato, pakaian tertentu, atau gaya berkumpul) dijadikan simbol utama kejahatan.
@@ -113,7 +113,7 @@ Ketakutan yang dikonstruksi secara masif oleh media massa memiliki dampak konkre
 - **Populisme Punitif (*Punitive Populism*)**: Pembuat kebijakan sering merespons ketakutan publik yang diciptakan media dengan mengesahkan regulasi yang lebih represif dan berfokus pada pembalasan (*retributive*), meskipun langkah tersebut tidak mereduksi kriminalitas secara substantif.
 - **Stigmatisasi Permanen**: Kelompok marginal (seperti etnis minoritas atau masyarakat miskin kota) mengalami diskriminasi berulang karena penampilan visual mereka kerap diasosiasikan dengan "stereotip kriminal" di media massa.
 
-> **Pesan Utama:** Tugas Analisis Wacana Kritis bukan untuk meniadakan keberadaan kejahatan, melainkan untuk mempertanyakan *mengapa* kejahatan tertentu diberitakan dengan cara tertentu, dan *siapa* yang diuntungkan dari kepanikan moral yang muncul.
+> **Pesan Utama:** Analisis Wacana Kritis bertugas mempertanyakan *mengapa* kejahatan tertentu diberitakan dengan cara tertentu, dan *siapa* yang diuntungkan dari kepanikan moral yang muncul, tanpa menyangkal bahwa kejahatan itu memang ada.
 
 ---
 

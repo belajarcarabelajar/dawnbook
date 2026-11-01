@@ -1,6 +1,6 @@
 ## Membangun Kecerdasan Lintas Budaya (Cultural Intelligence)
 
-Setelah melewati fase krisis hingga tahap adaptasi, kamu mungkin bertanya-tanya apakah semua ini hanya tentang bertahan hidup di lingkungan baru. Jawabannya adalah tidak. Pengalaman gegar budaya sebenarnya merupakan proses yang membentuk kamu menjadi individu yang lebih tangguh.
+Setelah melewati fase krisis hingga tahap adaptasi, kamu mungkin bertanya-tanya apakah semua ini hanya tentang bertahan hidup di lingkungan baru. Pengalaman gegar budaya ternyata juga membentuk kamu menjadi individu yang lebih tangguh.
 
 Di sinilah kita masuk ke konsep **Cultural Intelligence (CQ)** atau Kecerdasan Lintas Budaya. Jika IQ mengukur logika dan EQ mengukur emosi, maka CQ adalah kemampuan kamu untuk berfungsi, berinteraksi, dan bekerja secara efektif dalam lingkungan yang memiliki latar belakang budaya berbeda-beda.
 
@@ -9,9 +9,9 @@ Di sinilah kita masuk ke konsep **Cultural Intelligence (CQ)** atau Kecerdasan L
 Bayangkan kamu memiliki sebuah peralatan elektronik yang canggih (diri kamu), tetapi kamu harus bepergian ke berbagai negara dengan jenis stopkontak yang berbeda-beda.
 
 - Orang dengan **CQ rendah** akan mencoba memaksa steker mereka masuk ke lubang yang tidak cocok, yang berisiko merusak alat tersebut atau menyebabkan korsleting.
-- Orang dengan **CQ tinggi** adalah mereka yang membawa **Adaptor Universal**. Mereka tidak mengubah identitas asli alat tersebut, tetapi mereka memiliki kemampuan untuk menyesuaikan koneksinya sehingga tetap bisa berfungsi di mana pun mereka berada.
+- Orang dengan **CQ tinggi** adalah mereka yang membawa **Adaptor Universal**. Mereka mampu menyesuaikan koneksinya sehingga tetap bisa berfungsi di mana pun mereka berada, sementara identitas asli alat tersebut tidak berubah.
 
-> **Wawasan Penting:** Kecerdasan Lintas Budaya bukan berarti kamu harus kehilangan identitas asli kamu. CQ adalah tentang memperluas repertoar perilaku kamu sehingga kamu bisa menjadi diri kamu sendiri dalam berbagai konteks budaya.
+> **Wawasan Penting:** CQ adalah kemampuan memperluas repertoar perilaku kamu sehingga kamu bisa menjadi diri kamu sendiri dalam berbagai konteks budaya.
 
 ## 2. Empat Pilar Kecerdasan Lintas Budaya (CQ)
 
@@ -30,7 +30,7 @@ Ini adalah sumber dorongan kamu. Seberapa besar minat dan kepercayaan diri kamu 
 Ini adalah pemahaman kognitif kamu tentang bagaimana budaya serupa dan berbeda.
 
 - Memahami sistem ekonomi, hukum, dan norma sosial.
-- Mengetahui nilai-nilai mendasar (misalnya: budaya individualis vs kolektivis).
+- Mengetahui nilai-nilai mendasar (misalnya perbedaan budaya individualis dan kolektivis).
 
 ### C. CQ Strategy (Strategi)
 
@@ -99,6 +99,6 @@ Berikut adalah langkah-langkah praktis yang bisa kamu lakukan sekarang juga untu
 2. **Cultural Mirroring:** Amati orang yang paling sukses (baik lokal maupun pendatang) di lingkungan tersebut. Cermati bagaimana mereka mendengarkan, berbicara, dan menggunakan bahasa tubuh. Cobalah untuk meniru sedikit demi sedikit dalam situasi berisiko rendah.
 3. **Jurnal Refleksi:** Tuliskan satu kejadian budaya setiap hari yang membuat kamu bingung, dan tuliskan tiga kemungkinan penjelasan dari sudut pandang orang lokal.
 
-**Penting:** Kecerdasan Lintas Budaya bukanlah sebuah tujuan akhir, melainkan proses yang terus berjalan. Setiap kali kamu berhasil menjembatani perbedaan, kamu menjadi lebih pintar secara budaya.
+**Penting:** Kecerdasan Lintas Budaya adalah proses yang terus berjalan tanpa garis akhir. Setiap kali kamu berhasil menjembatani perbedaan, kamu menjadi lebih pintar secara budaya.
 
 Penulis perjalanan Inggris Richard Lassels, dalam *The Voyage of Italy* (1670), memakai ungkapan dunia sebagai buku besar, yang ia sebut berasal dari St. Augustine, lalu menulis bahwa "mereka yang tidak pernah beranjak dari rumah hanya membaca satu halaman dari buku ini" ([Quote Investigator, 2025](https://quoteinvestigator.com/2025/09/25/world-book/)). Dalam urusan kecerdasan budaya, beranjak itu bisa berarti keluar dari zona nyaman budayamu, secara fisik maupun mental.

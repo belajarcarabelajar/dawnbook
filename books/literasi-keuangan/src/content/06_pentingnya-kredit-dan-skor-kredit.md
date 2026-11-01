@@ -75,7 +75,7 @@ Sebaliknya, kalau riwayat kamu ada di kategori buruk:
 
 ## Penentu Tinggi Rendahnya Skor
 
-SLIK sendiri mencatat status kolektibilitas, bukan rumus skor. Model penilaian skor yang umum dipakai biasanya menimbang beberapa elemen berikut:
+SLIK sendiri hanya mencatat status kolektibilitas. Model penilaian skor yang umum dipakai biasanya menimbang beberapa elemen berikut:
 - **Catatan Pembayaran:** Selalu bayar tepat waktu menunjukkan karakter yang bertanggung jawab. Telat bayar akan langsung memangkas poin.
 - **Rasio Pemakaian:** Seberapa banyak saldo yang dipakai dibanding total plafon yang ada. Sering memakai limit sampai mentok bisa dinilai sebagai kebiasaan terlalu mengandalkan utang.
 - **Umur Riwayat:** Makin lama kamu punya akun kredit yang aktif dan sehat, makin gampang bank membaca konsistensi pembayaranmu.

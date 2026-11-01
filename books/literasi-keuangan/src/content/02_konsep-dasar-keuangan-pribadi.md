@@ -74,7 +74,7 @@ Sebagai gambaran sederhana, anggap saja komposisi finansialmu seperti ini:
 - Total sisa utang (kartu kredit, cicilan mobil): Rp90.000.000
 - **Kekayaan Bersih:** Rp300.000.000 - Rp90.000.000 = Rp210.000.000
 
-Jadi, kekayaan bukan sebatas seberapa banyak uang di dompet, tetapi seberapa besar hartamu setelah dipotong semua utang yang mengikutinya.
+Jadi, ukuran kekayaanmu adalah besar harta yang tersisa setelah dipotong semua utang yang mengikutinya.
 
 ## Arus Kas (Cash Flow)
 

@@ -18,7 +18,7 @@ Selama berabad-abad, tidak ada yang tahu bahwa bagian dasar Borobudur menyimpan 
 
 ### 2. Mengapa Ditutup? Perdebatan Teori
 
-Hingga saat ini, para ahli masih memperdebatkan alasan utama penutupan 160 panel relief ini. Terdapat dua perspektif utama: **Perspektif Teknis (Arsitektural)** dan **Perspektif Filosofis (Keagamaan)**.
+Hingga saat ini, para ahli masih memperdebatkan alasan utama penutupan 160 panel relief ini. Perdebatan itu terbagi ke dalam dua perspektif utama, yakni **Perspektif Teknis (Arsitektural)** dan **Perspektif Filosofis (Keagamaan)**.
 
 #### A. Masalah Gravitasi
 

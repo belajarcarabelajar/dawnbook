@@ -20,13 +20,13 @@ Pendekatan minimalis mengajak kamu mengunci pintu. Buang barang-barang tak bergu
 
 Hubungan kita dengan teknologi berubah melalui pergeseran yang halus tetapi luas.
 
-Pada era sebelum 2007, ponsel umumnya hanya dipakai untuk menelepon dan SMS. Internet adalah tujuan yang kita kunjungi melalui komputer desktop, dan sama sekali tidak mengikuti kita di dalam saku. Ketika iPhone pertama kali diluncurkan, tujuannya sederhana: iPod yang bisa menelepon. Seiring berjalannya waktu, jumlah aplikasi bertambah pesat.
+Pada era sebelum 2007, ponsel umumnya hanya dipakai untuk menelepon dan SMS. Internet adalah tujuan yang kita kunjungi melalui komputer desktop, dan sama sekali tidak mengikuti kita di dalam saku. Ketika iPhone pertama kali diluncurkan, tujuannya sederhana, yaitu iPod yang bisa menelepon. Seiring berjalannya waktu, jumlah aplikasi bertambah pesat.
 
 Perusahaan teknologi menyadari bahwa semakin lama kita menatap layar, semakin banyak iklan yang bisa mereka jual. Mereka pun merancang fitur seperti *infinite scroll* dan *push notifications* untuk memanipulasi psikologi agar kita kecanduan. Kini, kita sampai pada titik jenuh. Teknologi mulai mendikte cara kita berpikir, merasa, dan menghabiskan waktu luang.
 
 ## Mengapa Kita Perlu Mengevaluasi Hubungan dengan Layar?
 
-Mengevaluasi penggunaan teknologi sudah menjadi kewajiban untuk menjaga kesehatan mental di era modern, jauh lebih penting daripada sebuah pilihan gaya hidup. 
+Mengevaluasi penggunaan teknologi sudah menjadi kewajiban untuk menjaga kesehatan mental di era modern.
 
 Kemampuan otak untuk melakukan *Deep Work* semakin luntur akibat paparan terus-menerus pada informasi singkat. Manusia juga rentan mengalami *Digital Burnout*, karena otak kita tidak dirancang untuk menerima ribuan stimulasi global dalam satu waktu. Hal ini sering kali memicu stres kronis dan kecemasan. 
 
@@ -48,7 +48,7 @@ Perbedaan pola pikir ini terlihat dalam keseharian. Ambil contoh saat menunggu a
 
 Di sisi lain, seorang digital minimalis akan membiarkan ponsel tetap di saku. Waktu tunggu ini dipakai untuk mengamati sekitar, memikirkan ide proyek kerja, atau sekadar berlatih pernapasan. Begitu tiba di meja teller, pikirannya bersih.
 
-Kasus lainnya terjadi saat menggunakan GPS. Banyak orang menyetir dengan arahan GPS sembari membaca notifikasi WhatsApp atau berita yang muncul di layar, sehingga sering salah belok karena pecah fokus. Berbeda dengan pendekatan minimalis: rute diatur sebelum mesin menyala, mode *Do Not Disturb* diaktifkan, dan layar murni berfungsi sebagai pemandu jalan tanpa interupsi komunikasi.
+Kasus lainnya terjadi saat menggunakan GPS. Banyak orang menyetir dengan arahan GPS sembari membaca notifikasi WhatsApp atau berita yang muncul di layar, sehingga sering salah belok karena pecah fokus. Seorang minimalis mengatur rute sebelum mesin menyala. Setelah itu mode *Do Not Disturb* diaktifkan, dan layar murni berfungsi sebagai pemandu jalan tanpa interupsi komunikasi.
 
 ## Refleksi Diri
 

@@ -1,6 +1,6 @@
 ## Gegar Budaya Balik (Reverse Culture Shock)
 
-Pernahkah kamu membayangkan bahwa pulang ke rumah sendiri bisa terasa lebih asing daripada saat kamu pertama kali menginjakkan kaki di negeri orang? Jika kamu merasa seperti orang asing di tanah kelahiran sendiri, tenanglah, kamu tidak sedang kehilangan akal. Kamu sedang mengalami **Gegar Budaya Balik** (*Reverse Culture Shock*).
+Pernahkah kamu membayangkan bahwa pulang ke rumah sendiri bisa terasa lebih asing daripada saat kamu pertama kali menginjakkan kaki di negeri orang? Jika kamu merasa seperti orang asing di tanah kelahiran sendiri, tenanglah. Kamu sedang mengalami **Gegar Budaya Balik** (*Reverse Culture Shock*).
 
 Sering kali, kita mempersiapkan mental dengan sungguh-sungguh saat akan pergi ke luar negeri, tetapi kita lupa menyiapkan mental untuk saat kembali. Fenomena ini sering kali lebih menyakitkan karena ia datang tanpa peringatan dan terjadi di tempat yang seharusnya kita rasa "paling aman".
 
@@ -53,12 +53,12 @@ flowchart TD
 
 ## Gejala yang Sering Tidak Disadari
 
-Gegar budaya balik tidak selalu berupa kesedihan; ia bisa muncul dalam berbagai bentuk:
+Gegar budaya balik bisa muncul dalam berbagai bentuk, dan kesedihan hanya salah satunya:
 
 - **Kebosanan:** Hidup di rumah terasa rutin dan tidak menantang dibandingkan pengalaman di luar negeri.
 - **Perasaan Terasing:** Merasa bahwa teman dan keluarga tidak lagi "nyambung" dengan pemikiranmu.
 - **"Reverse Homesickness":** Merasa rindu (kangen) pada negara tempat kamu merantau sebelumnya.
-- **Kritik Berlebih:** Menjadi vokal terhadap kekurangan negara asal (misalnya: "Kalau di London, busnya tidak pernah terlambat seperti ini!").
+- **Kritik Berlebih:** Menjadi vokal terhadap kekurangan negara asal (misalnya dengan berkata, "Kalau di London, busnya tidak pernah terlambat seperti ini!").
 
 ## Sepatu Lama yang Kekecilan
 
@@ -66,7 +66,7 @@ Bayangkan kamu memiliki sepasang sepatu favorit yang kamu tinggalkan di gudang s
 
 Saat kamu pulang dan mencoba memakai sepatu itu kembali, sepatu tersebut tetaplah sepatu yang sama, warnanya sama, talinya sama. Namun, saat kamu memasukkan kaki, rasanya **sesak dan menyakitkan**.
 
-**Rumahmu adalah sepatu itu, dan pengalaman internasionalmu adalah pertumbuhan kakimu.** Masalahnya bukan pada sepatunya, juga bukan pada kakimu. Masalahnya adalah kamu sudah melampaui ukuran lamamu.
+**Rumahmu adalah sepatu itu, dan pengalaman internasionalmu adalah pertumbuhan kakimu.** Tidak ada yang salah dengan sepatu maupun kakimu. Kamu hanya sudah melampaui ukuran lamamu.
 
 ## Contoh Budi dan Sari
 
@@ -84,7 +84,7 @@ Untuk meminimalkan dampak negatif, kamu bisa menggunakan pendekatan sistematis:
 
 ### 1\. Berhenti Membandingkan (Internal vs External)
 
-Gunakan energimu untuk membangun, bukan sekadar mengeluh. Daripada berkata "Di sana lebih baik", cobalah berpikir "Bagaimana cara menerapkan efisiensi yang saya pelajari di sana ke sini?".
+Arahkan energimu untuk membangun. Daripada berkata "Di sana lebih baik", cobalah berpikir "Bagaimana cara menerapkan efisiensi yang saya pelajari di sana ke sini?".
 
 ### 2\. Temukan "Suku" Kamu
 
@@ -108,4 +108,4 @@ Gegar Budaya Balik adalah bukti bahwa kamu telah berkembang. Alih-alih melihatny
 
 **Penting:** Proses ini membutuhkan waktu. Jangan terburu-buru menghakimi diri sendiri atau negaramu. Seperti halnya luka fisik, penyembuhan emosional dari transisi budaya memerlukan waktu yang tidak bisa dipaksa.
 
-> "Ujian sesungguhnya dari sebuah perjalanan bukanlah saat kita tiba di tujuan, melainkan saat kita pulang dan melihat rumah dengan cara yang baru."
+> "Ujian sesungguhnya dari sebuah perjalanan datang saat kita pulang dan melihat rumah dengan cara yang baru."

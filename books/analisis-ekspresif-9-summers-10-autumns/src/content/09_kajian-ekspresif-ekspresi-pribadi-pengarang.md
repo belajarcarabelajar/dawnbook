@@ -1,6 +1,6 @@
 ## Ekspresi Pribadi Pengarang
 
-Sebuah karya sastra lahir dari pengalaman batin penciptanya, bukan dari ruang hampa. Setelah menelusuri elemen-elemen formal seperti alur, penokohan, dan latar, kini kita beralih ke batin pengarang melalui pendekatan ekspresif. Dari sudut ini, novel *9 Summers 10 Autumns* memperlihatkan jejak emosional dan perjalanan hidup asli Iwan Setyawan.
+Sebuah karya sastra lahir dari pengalaman batin penciptanya. Setelah menelusuri elemen-elemen formal seperti alur, penokohan, dan latar, kini kita beralih ke batin pengarang melalui pendekatan ekspresif. Dari sudut ini, novel *9 Summers 10 Autumns* memperlihatkan jejak emosional dan perjalanan hidup asli Iwan Setyawan.
 
 ### Pergulatan Batin Pengarang di New York
 

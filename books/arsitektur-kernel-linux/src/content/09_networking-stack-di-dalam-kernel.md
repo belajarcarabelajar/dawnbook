@@ -47,7 +47,7 @@ Paket kemudian diserahkan ke fungsi `ip_rcv()`:
 
 ### C. Lapisan Transport (L4 - TCP/UDP)
 
-Kernel melihat header protokol (TCP atau UDP) dan memanggil fungsi yang sesuai (misal: `tcp_v4_rcv()`):
+Kernel melihat header protokol (TCP atau UDP) dan memanggil fungsi yang sesuai, misalnya `tcp_v4_rcv()`:
 
 1. **Port Lookup**: Kernel memindai tabel pencarian untuk menemukan socket aktif yang terasosiasi dengan nomor port tujuan paket tersebut.
 2. **Protocol State Machine**: Khusus untuk protokol TCP, kernel akan mengelola status koneksi, melacak nomor urut (*sequence numbers*), mengirimkan konfirmasi (*acknowledgments* / ACK), serta mengatur ukuran jendela transmisi (*windowing*).

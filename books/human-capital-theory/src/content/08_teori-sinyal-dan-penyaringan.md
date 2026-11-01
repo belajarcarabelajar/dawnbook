@@ -6,9 +6,9 @@ Dalam bab-bab sebelumnya, kita mempelajari Teori Modal Manusia (*Human Capital T
 
 ### 1. Pendidikan Menaikkan Produktivitas atau Sekadar Memberi Informasi?
 
-Teori Modal Manusia (*Human Capital Theory*) berasumsi bahwa pendidikan adalah sebuah **pabrik**: kamu masuk sebagai bahan baku, diproses melalui pembelajaran, dan keluar sebagai produk yang lebih bernilai serta produktif.
+Teori Modal Manusia (*Human Capital Theory*) berasumsi bahwa pendidikan adalah sebuah **pabrik**. Kamu masuk sebagai bahan baku, diproses melalui pembelajaran, dan keluar sebagai produk yang lebih bernilai serta produktif.
 
-Sebaliknya, Teori Sinyal yang dipelopori oleh **Michael Spence (1973)** berargumen bahwa pendidikan lebih mirip dengan **filter atau saringan**. Pendidikan tidak selalu meningkatkan kemampuan intrinsik seseorang, melainkan memberikan informasi kepada pemberi kerja tentang kemampuan yang *sudah dimiliki* individu tersebut sebelum mereka masuk sekolah.
+Sebaliknya, Teori Sinyal yang dipelopori oleh **Michael Spence (1973)** berargumen bahwa pendidikan lebih mirip dengan **filter atau saringan**. Dalam pandangan ini, pendidikan memberikan informasi kepada pemberi kerja tentang kemampuan yang *sudah dimiliki* individu tersebut sebelum mereka masuk sekolah. Kemampuan intrinsiknya sendiri belum tentu meningkat.
 
 > **Insight Utama:** Jika *Human Capital Theory* melihat pendidikan sebagai proses **transformasi** (mengubah kapasitas seseorang), Teori Sinyal melihat pendidikan sebagai proses **identifikasi** (menemukan kandidat dengan potensi yang sudah ada sebelumnya).
 
@@ -17,7 +17,7 @@ Sebaliknya, Teori Sinyal yang dipelopori oleh **Michael Spence (1973)** berargum
 Mari kita gunakan analogi untuk memperjelas perbedaan perspektif ini:
 
 - **Perspektif Modal Manusia (*Human Capital*):** Bayangkan kamu mengikuti kamp pelatihan lari selama 4 tahun. Di sana, otot kamu dilatih dan teknik lari kamu diperbaiki. Kamu lulus sebagai pelari yang lebih cepat daripada saat kamu mendaftar. Pendidikan **menciptakan** kecepatan kamu.
-- **Perspektif Sinyal/Penyaringan (*Signaling vs Screening*):** Bayangkan sebuah perusahaan hanya mau mempekerjakan orang yang memiliki stamina tinggi. Mereka mensyaratkan pelamar untuk menunjukkan medali maraton. Berhasil menyelesaikan maraton tidak *memberi* kamu stamina; namun, hanya orang yang *sudah punya* stamina tinggi dan disiplin yang sanggup menyelesaikan maraton tersebut. Medali itu adalah **sinyal**.
+- **Perspektif Sinyal/Penyaringan (*Signaling vs Screening*):** Bayangkan sebuah perusahaan hanya mau mempekerjakan orang yang memiliki stamina tinggi. Mereka mensyaratkan pelamar untuk menunjukkan medali maraton. Hanya orang yang *sudah punya* stamina tinggi dan disiplin yang sanggup menyelesaikan maraton tersebut. Medali itu adalah **sinyal** dari stamina yang sudah ada, karena lombanya sendiri tidak *memberi* kamu stamina.
 
 ### 3. Logika Ekonomi di Balik Sinyal
 
@@ -36,7 +36,7 @@ C(e)_{\text{L}} > C(e)_{\text{H}}
 $$
 </div>
 
-Dalam hal ini, $e$ adalah tingkat pendidikan dan $C(e)$ melambangkan fungsi biaya perolehan pendidikan. "Biaya" di sini bukan hanya uang sekolah, melainkan juga **biaya psikis, usaha, dan waktu**. Bagi seseorang yang kurang berbakat, bergadang untuk belajar kalkulus jauh lebih berat dan mahal secara peluang dibandingkan bagi seseorang yang berbakat.
+Dalam hal ini, $e$ adalah tingkat pendidikan dan $C(e)$ melambangkan fungsi biaya perolehan pendidikan. "Biaya" di sini mencakup uang sekolah beserta **biaya psikis, usaha, dan waktu**. Bagi seseorang yang kurang berbakat, bergadang untuk belajar kalkulus jauh lebih berat dan mahal secara peluang dibandingkan bagi seseorang yang berbakat.
 
 **Kesimpulan Logis:** Pemberi kerja menyadari bahwa hanya individu dari kelompok $P\_{\text{H}}$ yang rasional secara ekonomi untuk menyelesaikan pendidikan tinggi. Oleh karena itu, ijazah menjadi filter yang efisien di pasar tenaga kerja yang mengalami ketimpangan informasi (*information asymmetry*).
 
@@ -63,7 +63,7 @@ Perusahaan papan atas seperti McKinsey & Company atau Boston Consulting Group (B
 
 #### Fenomena *Credential Inflation* (Inflasi Ijazah)
 
-Lowongan pekerjaan untuk posisi administrasi dasar yang mensyaratkan gelar Sarjana (S1) merupakan bentuk **Credential Inflation**. Ketika semakin banyak populasi memiliki gelar S1, nilai sinyal dari gelar tersebut menurun. Akibatnya, individu terdorong mengambil gelar Magister (S2) bukan semata-mata demi ilmu baru, melainkan untuk tetap menonjol di tengah persaingan pasar kerja.
+Lowongan pekerjaan untuk posisi administrasi dasar yang mensyaratkan gelar Sarjana (S1) merupakan bentuk **Credential Inflation**. Ketika semakin banyak populasi memiliki gelar S1, nilai sinyal dari gelar tersebut menurun. Akibatnya, individu terdorong mengambil gelar Magister (S2) agar tetap menonjol di tengah persaingan pasar kerja, di samping mencari ilmu baru.
 
 > **Dampak Sosial:** Jika pendidikan hanya berfungsi sebagai sinyal tanpa meningkatkan produktivitas riil, subsidi publik yang besar untuk pendidikan tinggi dapat memicu inefisiensi alokasi sumber daya secara sosial (*credential treadmill*).
 
@@ -81,4 +81,4 @@ Lowongan pekerjaan untuk posisi administrasi dasar yang mensyaratkan gelar Sarja
 
 Kritik melalui Teori Sinyal tidak mengimplikasikan bahwa pendidikan tidak bernilai. Dalam realitas pasar kerja, dinamika yang terjadi merupakan kombinasi dari kedua teori tersebut. Pendidikan memberikan keterampilan teknis (**Human Capital**), sementara ijazah dari institusi memberikan tiket dan validasi untuk membuktikan keterampilan tersebut kepada pasar (**Signaling**).
 
-Memahami perbedaan ini membantu kita untuk tidak hanya mengejar gelar di atas kertas, tetapi juga memastikan bahwa di balik sinyal yang kita tampilkan, terdapat modal manusia nyata yang siap memberikan kontribusi produktif.
+Memahami perbedaan ini membantu kita memastikan bahwa di balik gelar di atas kertas dan sinyal yang kita tampilkan, terdapat modal manusia nyata yang siap memberikan kontribusi produktif.

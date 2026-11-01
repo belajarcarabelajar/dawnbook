@@ -2,13 +2,13 @@
 
 Mengapa seorang dokter spesialis berpenghasilan lebih besar daripada seorang dokter umum? Dan mengapa dokter umum yang telah berpraktik selama 20 tahun biasanya dibayar lebih tinggi daripada dokter yang baru lulus kemarin?
 
-Secara intuitif, jawabannya berada pada dua elemen utama: **Pendidikan** dan **Pengalaman**. Namun, dalam ilmu ekonomi tenaga kerja, kita membutuhkan alat ukur kuantitatif untuk menghitung kontribusi masing-masing faktor tersebut terhadap tingkat pendapatan seseorang. Di sinilah **Fungsi Upah Mincer** (*Mincer Earnings Function*) menjadi instrumen utama.
+Secara intuitif, jawabannya berada pada dua elemen utama, **Pendidikan** dan **Pengalaman**. Namun, dalam ilmu ekonomi tenaga kerja, kita membutuhkan alat ukur kuantitatif untuk menghitung kontribusi masing-masing faktor tersebut terhadap tingkat pendapatan seseorang. Di sinilah **Fungsi Upah Mincer** (*Mincer Earnings Function*) menjadi instrumen utama.
 
 Dikembangkan oleh Jacob Mincer pada tahun 1974, model ini diakui sebagai *framework* empiris standar dalam ekonomi tenaga kerja. Model Mincer menghubungkan Teori Modal Manusia (*Human Capital Theory*) dengan bukti empiris lapangan, mengukur nilai ekonomi dari setiap tambahan tahun pendidikan formal serta setiap tahun pengalaman kerja.
 
 ### 1. Anatomi Persamaan Mincer
 
-Mincer merumuskan bahwa distribusi pendapatan pekerja tidak terjadi secara acak, melainkan mengikuti pola logaritmik yang dipengaruhi secara langsung oleh investasi modal manusia (*human capital investment*).
+Mincer merumuskan bahwa distribusi pendapatan pekerja mengikuti pola logaritmik yang dipengaruhi secara langsung oleh investasi modal manusia (*human capital investment*).
 
 Persamaan dasar Mincer dirumuskan sebagai berikut:
 
@@ -54,7 +54,7 @@ Ketika analisis regresi menghasilkan estimasi koefisien $\beta\_1 = 0.10$, apa m
 Koefisien $\beta\_1$ merepresentasikan **Tingkat Pengembalian Pribadi** (*Private Rate of Return*) dari investasi pendidikan.
 
 - Nilai $\beta\_1 = 0.10$ mengindikasikan bahwa setiap tambahan satu tahun pendidikan formal diasosiasikan dengan kenaikan upah rata-rata sebesar **10%**.
-- Informasi ini menjadi fondasi bagi individu dalam mengambil keputusan strategis: mengevaluasi apakah mengambil jenjang magister selama 2 tahun sepadan dengan *opportunity cost* (pendapatan yang hilang selama masa studi) dibandingkan dengan estimasi peningkatan gaji sekitar 20% di masa mendatang.
+- Informasi ini menjadi fondasi bagi individu dalam mengambil keputusan strategis, misalnya saat mengevaluasi apakah mengambil jenjang magister selama 2 tahun sepadan dengan *opportunity cost* (pendapatan yang hilang selama masa studi) dibandingkan dengan estimasi peningkatan gaji sekitar 20% di masa mendatang.
 
 Jika kamu memilih kuliah selama 4 tahun daripada langsung bekerja, kamu kehilangan potensi pendapatan selama 4 tahun tersebut. Fungsi Mincer membantu kita menghitung secara rasional apakah peninggian upah di masa depan cukup untuk mengompensasi pengorbanan pendapatan saat ini.
 

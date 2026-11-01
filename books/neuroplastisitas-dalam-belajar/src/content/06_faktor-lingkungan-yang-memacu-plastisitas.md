@@ -1,6 +1,6 @@
 ## Faktor Lingkungan yang Memacu Plastisitas
 
-Pernahkah kamu merasa jauh lebih kreatif saat bekerja di kafe baru, atau merasa otak kamu "tumpul" saat terjebak rutinitas monoton berbulan-bulan? Itu bukan sekadar perasaan. Otak kita bukanlah entitas yang terisolasi di dalam tempurung kepala; ia adalah organ yang responsif terhadap dunia luar.
+Pernahkah kamu merasa jauh lebih kreatif saat bekerja di kafe baru, atau merasa otak kamu "tumpul" saat terjebak rutinitas monoton berbulan-bulan? Perasaan itu punya penjelasan. Otak kita memang tersimpan di dalam tempurung kepala, tetapi ia adalah organ yang responsif terhadap dunia luar.
 
 Dalam bagian ini, kita akan mengeksplorasi bagaimana dunia di sekitar kita (apa yang kita lihat, dengar, dan alami) secara fisik mengubah arsitektur otak kita melalui konsep yang dikenal sebagai **Enriched Environment** (Lingkungan yang Diperkaya).
 
@@ -10,7 +10,7 @@ Bayangkan dua tanaman yang identik. Tanaman A diletakkan di dalam lemari gelap d
 
 Logika yang sama berlaku bagi otak kita. Konsep **Enriched Environment** dipopulerkan oleh peneliti seperti Marian Diamond, yang menunjukkan bahwa otak tikus yang ditempatkan di lingkungan yang penuh stimulasi memiliki perbedaan fisik yang terukur dibandingkan dengan tikus yang berada di lingkungan yang membosankan.
 
-> **Insight Penting:** Lingkungan yang kaya bukan berarti lingkungan yang mahal atau mewah, melainkan lingkungan yang menawarkan **kebaruan (novelty)**, **kompleksitas (tantangan kognitif)**, dan **interaksi sosial**.
+> **Insight Penting:** Lingkungan yang kaya adalah lingkungan yang menawarkan **kebaruan (novelty)**, **kompleksitas (tantangan kognitif)**, dan **interaksi sosial**. Lingkungan seperti itu tidak harus mahal atau mewah.
 
 ### Perubahan Struktural yang Terjadi
 
@@ -42,7 +42,7 @@ Manusia adalah makhluk sosial. Interaksi dengan orang lain adalah salah satu tug
 
 ## 3\. Pengalaman Baru Mempercepat Plastisitas
 
-Setiap kali kamu mempelajari keterampilan baru atau berada di lingkungan asing, otak kamu melakukan "remodeling". Mari kita lihat skenario nyata:
+Setiap kali kamu mempelajari keterampilan baru atau berada di lingkungan asing, otak kamu melakukan "remodeling". Mari kita lihat satu skenario nyata.
 
 **Belajar di Luar Negeri vs. Rutinitas di Rumah** Seorang mahasiswa yang melakukan pertukaran pelajar ke negara dengan bahasa berbeda akan mengalami percepatan plastisitas dibandingkan jika ia tetap di rumah. Mengapa?
 
@@ -54,7 +54,7 @@ Setiap kali kamu mempelajari keterampilan baru atau berada di lingkungan asing, 
 
 ## 4\. Menciptakan Lingkungan yang Memacu Belajar
 
-Kamu tidak perlu pindah ke luar negeri untuk mendapatkan manfaat ini. Kamu dapat "merekayasa" lingkungan kamu saat ini:
+Kamu tidak perlu pindah ke luar negeri untuk mendapatkan manfaat ini. Kamu dapat "merekayasa" lingkungan kamu saat ini.
 
 ### Strategi Desain Lingkungan Mikro
 

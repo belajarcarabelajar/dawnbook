@@ -2,11 +2,11 @@
 
 Bayangkan kamu berdiri di tengah persimpangan jalan dengan ribuan penunjuk arah yang berbeda. Beberapa jalan terlihat berkilau dan penuh prestise, sementara yang lain tampak gelap dan penuh ketidakpastian. Di belakangmu, ada suara riuh rendah dari orang tua, media sosial, dan teman sebaya yang masing-masing meneriakkan jalur mana yang "seharusnya" kamu ambil.
 
-Inilah gambaran **Kecemasan Karier** dalam fase *Quarter-Life Crisis*. Ini bukan hanya soal mencari pekerjaan untuk membayar tagihan, tetapi tentang pencarian validasi, identitas, dan ketakutan akan kegagalan di tengah persaingan yang ketat.
+Inilah gambaran **Kecemasan Karier** dalam fase *Quarter-Life Crisis*. Di samping urusan membayar tagihan, kecemasan ini menyangkut pencarian validasi, identitas, dan ketakutan akan kegagalan di tengah persaingan yang ketat.
 
 ## 1\. Mitos 'Pekerjaan Impian' (The Dream Job Trap)
 
-Sejak kecil, kita sering ditanya, *"Kalau besar mau jadi apa?"*. Pertanyaan ini menanamkan benih bahwa pekerjaan adalah tujuan akhir dari kebahagiaan. Di usia 20-an, benih ini tumbuh menjadi tekanan untuk menemukan satu pekerjaan yang sempurna: yang mencakup passion, gaji tinggi, dampak sosial, dan keseimbangan hidup.
+Sejak kecil, kita sering ditanya, *"Kalau besar mau jadi apa?"*. Pertanyaan ini menanamkan benih bahwa pekerjaan adalah tujuan akhir dari kebahagiaan. Di usia 20-an, benih ini tumbuh menjadi tekanan untuk menemukan satu pekerjaan sempurna yang sekaligus mencakup passion, gaji tinggi, dampak sosial, dan keseimbangan hidup.
 
 ### Mengapa Konsep Ini Berbahaya?
 
@@ -14,7 +14,7 @@ Banyak dari kita terjebak dalam pemikiran bahwa jika kita belum menemukan "Peker
 
 **Analogi Restoran All-You-Can-Eat**
 
-> Memilih karier di usia 20-an seperti berada di restoran *all-you-can-eat*. Kamu merasa cemas karena ingin mengambil piring yang "paling benar" dan takut kenyang sebelum sempat mencoba hidangan terbaik. Padahal, kuncinya tidak terletak pada menemukan satu hidangan sempurna. Yang terpenting adalah proses mencicipi dan belajar apa yang sebenarnya cocok dengan lidah (minat) kamu.
+> Memilih karier di usia 20-an seperti berada di restoran *all-you-can-eat*. Kamu merasa cemas karena ingin mengambil piring yang "paling benar" dan takut kenyang sebelum sempat mencoba hidangan terbaik. Padahal, kuncinya ada pada proses mencicipi dan belajar apa yang sebenarnya cocok dengan lidah (minat) kamu.
 
 ## 2\. Memahami Sindrom Imposter (Imposter Syndrome)
 
@@ -32,7 +32,7 @@ Itulah **Sindrom Imposter**. Di awal masa dewasa, fenomena ini menguat karena ki
 
 ## 3\. Beban Ambisi dan Perbandingan Sosial
 
-Dalam ekonomi digital saat ini, ambisi sering kali menjadi beban. Kita tidak hanya ingin sukses, kita ingin sukses **secepat mungkin**.
+Dalam ekonomi digital saat ini, ambisi sering kali menjadi beban. Kita ingin sukses, dan maunya **secepat mungkin**.
 
 ### Persamaan Ketidakbahagiaan Karier
 
@@ -46,12 +46,12 @@ Semakin tinggi ekspektasimu dan semakin sering kamu membandingkan diri dengan pe
 
 ## 4\. Menavigasi Ketidakpastian Jalur Karier
 
-Dunia kerja saat ini tidak lagi bersifat linear. Jika generasi orang tua kita mungkin bekerja di satu perusahaan selama 30 tahun, generasi saat ini mungkin akan berganti karier (bukan hanya pindah tempat kerja) beberapa kali seumur hidup.
+Dunia kerja saat ini tidak lagi bersifat linear. Jika generasi orang tua kita mungkin bekerja di satu perusahaan selama 30 tahun, generasi saat ini mungkin akan beberapa kali berganti karier seumur hidup, sebuah perubahan yang lebih besar daripada sekadar pindah tempat kerja.
 
 ### Strategi Menghadapi Ketidakpastian
 
-1. **Iterasi, Bukan Finalisasi:** Anggap pekerjaan pertamamu sebagai "Versi Beta". Tujuannya bukan untuk menjadi sempurna, tetapi untuk mengumpulkan data tentang apa yang kamu sukai dan apa yang kamu kuasai.
-2. **Fokus pada Skill, Bukan Jabatan:** Jabatan bisa hilang karena otomatisasi atau perubahan pasar, tetapi keahlian (seperti *problem solving*, komunikasi, atau koding) akan selalu relevan.
+1. **Iterasi Sambil Jalan:** Anggap pekerjaan pertamamu sebagai "Versi Beta". Versi ini belum perlu sempurna. Tugasnya mengumpulkan data tentang apa yang kamu sukai dan apa yang kamu kuasai.
+2. **Fokus pada Skill:** Keahlian (seperti *problem solving*, komunikasi, atau koding) akan selalu relevan. Jabatan bisa hilang karena otomatisasi atau perubahan pasar.
 3. **Menerima 'Good Enough' Job:** Terkadang, pekerjaan yang "cukup baik" adalah jembatan yang diperlukan untuk menjaga kesehatan mental dan stabilitas finansial sebelum melompat ke sesuatu yang lebih besar.
 
 ## 5\. Dua Contoh di Tempat Kerja
@@ -82,8 +82,8 @@ Gunakan tabel di bawah ini untuk memetakan apa yang sebenarnya kamu rasakan saat
 
 ## Kesimpulan Penting
 
-> Kariermu adalah sebuah maraton di medan yang belum dipetakan, bukan perlombaan lari cepat (sprint). Tidak ada "jalur yang salah", yang ada hanyalah jalur yang memberikan pelajaran berbeda.
+> Kariermu adalah sebuah maraton di medan yang belum dipetakan, jadi larinya tidak perlu secepat sprint. Setiap jalur memberikan pelajaran yang berbeda.
 
-**Penting:** Pekerjaanmu adalah apa yang kamu lakukan untuk hidup, bukan siapa kamu sebagai manusia. Memisahkan identitas diri dari pencapaian karier membantu kamu melewati *Quarter-Life Crisis*.
+**Penting:** Pekerjaanmu adalah apa yang kamu lakukan untuk hidup. Pekerjaan itu tidak menentukan siapa kamu sebagai manusia. Memisahkan identitas diri dari pencapaian karier membantu kamu melewati *Quarter-Life Crisis*.
 
 *Refleksi untuk kamu: Jika besok semua gelar dan jabatanmu dihapus, kualitas apa yang tetap ada dalam dirimu yang membuat kamu berharga?*

@@ -1,6 +1,6 @@
 ## Tahap Krisis atau Penolakan (The Crisis Phase)
 
-Setelah euforia di Fase Bulan Madu perlahan memudar, kamu akan memasuki wilayah yang lebih menantang: **Tahap Krisis**. Jika Fase Bulan Madu adalah tentang "melihat pemandangan", maka Fase Krisis adalah tentang "mencoba hidup di dalamnya." Di fase ini, urusan sehari-hari mulai terasa sulit, dan perbedaan budaya yang dulunya tampak eksotis kini mulai terasa membebani.
+Setelah euforia di Fase Bulan Madu perlahan memudar, kamu akan memasuki **Tahap Krisis**, wilayah yang lebih menantang. Jika Fase Bulan Madu adalah tentang "melihat pemandangan", maka Fase Krisis adalah tentang "mencoba hidup di dalamnya." Di fase ini, urusan sehari-hari mulai terasa sulit, dan perbedaan budaya yang dulunya tampak eksotis kini mulai terasa membebani.
 
 ## 1. Mengapa Krisis Terjadi?
 
@@ -8,7 +8,7 @@ Tahap krisis biasanya muncul setelah beberapa minggu atau bulan di lingkungan ba
 
 Dalam psikologi, hal ini sering dikaitkan dengan hilangnya **isyarat-isyarat akrab (familiar cues)**. Bayangkan kamu sedang mencoba memecahkan teka-teki silang, tetapi instruksinya ditulis dalam bahasa yang belum sepenuhnya kamu kuasai. Tekanan mental inilah yang memicu krisis.
 
-> "Krisis bukan tanda kegagalan dalam beradaptasi, tetapi penanda bahwa proses pembelajaran yang sesungguhnya sedang dimulai."
+> "Krisis menandai saat proses pembelajaran yang sesungguhnya sedang dimulai."
 
 ### Sepatu Baru yang Sempit
 
@@ -70,7 +70,7 @@ Penolakan (*Rejection*) adalah mekanisme pertahanan diri. Ketika kita merasa tid
 
 Beberapa bentuk penolakan dalam fase ini:
 
-1. **Stereotyping:** Mulai memberi label negatif yang luas pada penduduk lokal (misalnya: "Mereka semua dingin", "Mereka semua tidak jujur").
+1. **Stereotyping:** Mulai memberi label negatif yang luas pada penduduk lokal (misalnya "Mereka semua dingin" atau "Mereka semua tidak jujur").
 2. **Penarikan Diri:** Hanya ingin bergaul dengan sesama ekspatriat atau orang dari negara asal (membuat "gelembung" budaya).
 3. **Hostilitas:** Menunjukkan sikap bermusuhan terhadap norma-norma lokal.
 
@@ -78,12 +78,12 @@ Beberapa bentuk penolakan dalam fase ini:
 
 Jika kamu atau rekanmu sedang mengalami hal ini, langkah pertama adalah **kesadaran (awareness)**.
 
-- **Validasi Perasaan:** Sadarilah bahwa merasa marah atau sedih adalah bagian normal dari proses "pendewasaan" budaya. Kamu tidak sedang gagal; kamu sedang bertumbuh.
+- **Validasi Perasaan:** Sadarilah bahwa merasa marah atau sedih adalah bagian normal dari proses "pendewasaan" budaya. Perasaan itu tanda bahwa kamu sedang bertumbuh.
 - **Identifikasi Pemicu:** Apakah kamu marah karena orangnya, atau karena kamu lelah bahasa? Sering kali, kelelahan linguistik ($\text{Linguistic Fatigue}$) disalahartikan sebagai kebencian terhadap budaya.
-- **Kurangi Perbandingan:** Berhenti menggunakan kata "harusnya". Budaya baru tidak "salah", ia hanya "berbeda".
+- **Kurangi Perbandingan:** Berhenti menggunakan kata "harusnya". Lihat budaya baru sebagai sesuatu yang "berbeda".
 
 **Penting:** Jangan mengambil keputusan besar di fase ini. Banyak orang memutuskan untuk berhenti kuliah atau berhenti bekerja dan pulang ke negara asal saat berada di puncak fase krisis. Ingatlah bahwa ini adalah kondisi emosional yang bersifat sementara.
 
-*Tanyakan pada diri sendiri: Apakah saya benar-benar membenci tempat ini, atau saya hanya merindukan kemudahan yang saya miliki di rumah?*
+*Coba tanyakan pada diri sendiri, apakah saya benar-benar membenci tempat ini, atau saya hanya merindukan kemudahan yang saya miliki di rumah?*
 
 > **Ringkasan Fase Krisis:** Tahap ini adalah "lembah" dalam kurva adaptasi. Meskipun menyakitkan, krisis adalah katalisator penting. Tanpa gesekan yang terjadi di fase krisis, kamu tidak akan pernah terdorong untuk mempelajari norma baru secara mendalam. Dari fase inilah ketangguhan lintas budayamu terbentuk.

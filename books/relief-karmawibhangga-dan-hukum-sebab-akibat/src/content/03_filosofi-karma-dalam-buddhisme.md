@@ -1,20 +1,20 @@
 ## Filosofi Karma dalam Buddhisme
 
-Pernahkah kamu bertanya-tanya mengapa kehidupan setiap orang tampak begitu berbeda? Mengapa ada yang lahir dalam kelimpahan sementara yang lain dalam kekurangan? Di dasar Candi Borobudur, tepatnya pada bagian **Kamadhatu**, terdapat 160 panel relief yang tidak sekadar menceritakan dongeng, melainkan sebuah hukum alam yang mendasar dalam ajaran Buddha: **Hukum Karma**.
+Pernahkah kamu bertanya-tanya mengapa kehidupan setiap orang tampak begitu berbeda? Mengapa ada yang lahir dalam kelimpahan sementara yang lain dalam kekurangan? Di dasar Candi Borobudur, tepatnya pada bagian **Kamadhatu**, terdapat 160 panel relief yang menuturkan sebuah hukum alam yang mendasar dalam ajaran Buddha, yaitu **Hukum Karma**.
 
 Sebelum kita membedah isi dari naskah *Mahakarmawibhangga* atau teknik pemahatannya, kita harus memahami terlebih dahulu "mesin" yang menggerakkan seluruh cerita di relief tersebut. Tanpa memahami filosofi Karma, relief-relief itu hanya akan terlihat seperti potongan gambar acak.
 
-## 1. Karma sebagai Aksi, Bukan Nasib
+## 1. Karma Berarti Perbuatan
 
 Dalam bahasa Sanskerta, **Karma** (atau *Kamma* dalam bahasa Pali) secara harfiah berarti **"perbuatan"** atau **"tindakan"**. Banyak orang salah kaprah menganggap karma sebagai "nasib buruk" atau "hukuman". Namun, dalam Buddhisme, Karma adalah hukum kausalitas (sebab-akibat) yang impersonal.
 
-> **Insight Utama:** Karma bukanlah sistem penghargaan dan hukuman dari "Tuhan" atau kekuatan eksternal. Karma adalah hukum alam yang bekerja secara otomatis, seperti hukum gravitasi. Jika kamu menjatuhkan gelas, gelas itu pecah karena hukum fisika, bukan karena gravitasi sedang marah kepadamu.
+> **Insight Utama:** Karma adalah hukum alam yang bekerja secara otomatis, seperti hukum gravitasi. Tidak ada "Tuhan" atau kekuatan eksternal yang membagikan penghargaan dan hukuman di dalamnya. Jika kamu menjatuhkan gelas, gelas itu pecah karena hukum fisika. Gravitasi tidak sedang marah kepadamu.
 
 ### Cetana (Niat)
 
 Sesuatu disebut sebagai "Karma" jika dan hanya jika terdapat **Cetana** atau niat/kehendak di baliknya. Buddha bersabda: *"Cetanāhaṃ bhikkhave kammaṃ vadāmi"* (O, para bhikkhu, kehendaklah yang kunamakan Karma).
 
-- **Contoh:** Jika kamu secara tidak sengaja menginjak semut saat berjalan tanpa ada niat membunuh, itu bukan merupakan Karma. Namun, jika kamu sengaja menginjaknya karena merasa terganggu, niat itulah yang menciptakan benih Karma.
+- **Contoh:** Jika kamu secara tidak sengaja menginjak semut saat berjalan tanpa ada niat membunuh, peristiwa itu tidak terhitung sebagai Karma. Namun, jika kamu sengaja menginjaknya karena merasa terganggu, niat itulah yang menciptakan benih Karma.
 
 ## 2. Mekanisme Sebab-Akibat (Hetu & Phala)
 
@@ -68,7 +68,7 @@ Salah satu alasan mengapa banyak orang meragukan hukum karma adalah karena hasil
 2. **Upapajja-vedaniya Kamma:** Matang pada kehidupan berikutnya segera setelah meninggal.
 3. **Aparapariya-vedaniya Kamma:** Matang di kehidupan-kehidupan yang jauh di masa depan ketika kondisinya memungkinkan.
 
-Hal ini dapat menjelaskan mengapa pada relief Karmawibhangga, satu panel sering kali dibagi menjadi dua bagian: **sisi kiri** menunjukkan perbuatan manusia, dan **sisi kanan** menunjukkan hasil yang mereka terima (baik di dunia ini maupun di alam lain).
+Hal ini dapat menjelaskan mengapa pada relief Karmawibhangga, satu panel sering kali dibagi menjadi dua bagian. **Sisi kiri** menunjukkan perbuatan manusia, sedangkan **sisi kanan** menunjukkan hasil yang mereka terima (baik di dunia ini maupun di alam lain).
 
 ## 5. Hubungan Karma dengan Samsara
 
@@ -80,7 +80,7 @@ Sang Buddha merangkum hukum ini dengan perumpamaan benih dalam *Samyutta Nikaya*
 
 ## Menerapkan Filosofi Karma
 
-Memahami filosofi di balik relief Karmawibhangga bukan sekadar studi sejarah, melainkan bekal untuk menjalani hidup sekarang:
+Memahami filosofi di balik relief Karmawibhangga memberi kita bekal untuk menjalani hidup sekarang:
 
 1. **Tanggung Jawab Pribadi:** Kita berhenti menyalahkan keberuntungan atau orang lain atas situasi kita. Kita menyadari bahwa kita adalah "pemilik" dan "pewaris" dari perbuatan kita sendiri.
 2. **Kesadaran Niat (Mindfulness):** Sebelum bertindak atau berbicara, tanyakan: *"Apakah niat saya didasari oleh keserakahan, kebencian, atau kasih sayang?"*

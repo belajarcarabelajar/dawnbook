@@ -12,11 +12,11 @@ Bayangkan kamu sedang mengendarai mobil di jalan tol yang panjang. Kamu sudah be
 - **Ketakutan akan Komitmen:** Kamu merasa terjepit di antara keinginan untuk menetap (dalam karier atau hubungan) dan ketakutan bahwa pilihan tersebut akan mengunci kamu selamanya dalam kehidupan yang tidak kamu sukai.
 - **Analogi "Roda Hamster":** Kamu terus berlari kencang, merasa lelah, tetapi menyadari bahwa kamu sebenarnya tidak berpindah tempat secara progresif dalam hidup.
 
-> "Perasaan terjebak sering kali muncul karena dihadapkan pada terlalu banyak pilihan yang tidak satu pun terasa benar-benar tepat, bukan karena ketiadaan pilihan sama sekali."
+> "Perasaan terjebak sering kali muncul karena dihadapkan pada terlalu banyak pilihan yang tidak satu pun terasa benar-benar tepat."
 
 ### 2. Kecemasan Berlebih (Excessive Anxiety)
 
-Kecemasan dalam QLC bukan sekadar gugup sebelum presentasi. Ini adalah kecemasan eksistensial tentang masa depan. Secara sederhana, kecemasan ini dapat digambarkan dengan ilustrasi berikut:
+Kecemasan dalam QLC adalah kecemasan eksistensial tentang masa depan, dan rasanya jauh lebih dalam daripada gugup sebelum presentasi. Secara sederhana, kecemasan ini dapat digambarkan dengan ilustrasi berikut:
 
 $$
 \text{Kecemasan} \approx \frac{\text{Ketidakpastian} \times \text{Harapan}}{\text{Kesiapan Mental}}
@@ -42,7 +42,7 @@ Pernahkah kamu merasa sangat bersemangat saat kuliah, tetapi setahun setelah bek
 
 ### 4. Isolasi Sosial dan Penarikan Diri
 
-Salah satu paradoks QLC adalah merasa kesepian di tengah dunia yang serba terhubung. Isolasi sosial di sini tidak diartikan sebagai ketiadaan teman. Kondisi ini lebih kepada perasaan **terputus secara emosional** dengan orang-orang di sekitar.
+Salah satu paradoks QLC adalah merasa kesepian di tengah dunia yang serba terhubung. Isolasi sosial di sini berarti perasaan **terputus secara emosional** dengan orang-orang di sekitar. Kamu bisa merasakannya walaupun temanmu tetap ada.
 
 - **Menghindari Pertemuan Sosial:** Kamu mulai menolak ajakan kumpul-kumpul karena malas menjawab pertanyaan seperti, *"Kerja di mana sekarang?"* atau *"Kapan nikah?"*.
 - **Merasa Tidak Dimengerti:** Muncul pemikiran bahwa semua orang lain tampak "baik-baik saja" dan "sukses", sementara hanya kamu yang berjuang sendirian.
@@ -52,17 +52,17 @@ Salah satu paradoks QLC adalah merasa kesepian di tengah dunia yang serba terhub
 
 **Kisah Maya (26 tahun)** Maya adalah seorang akuntan di perusahaan ternama. Secara objektif, hidupnya sukses. Namun, setiap hari Minggu sore, Maya merasakan sesak di dada (kecemasan). Ia merasa terjebak dalam angka-angka yang menurutnya tidak membantu siapa pun (hilangnya motivasi).
 
-Lama-kelamaan, Maya mulai mematikan notifikasi WhatsApp dan jarang berkumpul dengan teman-teman SMA-nya karena ia merasa "tertinggal" dibandingkan temannya yang sudah memulai bisnis sendiri (isolasi sosial). Maya tidak malas; ia hanya sedang mengalami gejala klasik *Quarter-Life Crisis*.
+Lama-kelamaan, Maya mulai mematikan notifikasi WhatsApp dan jarang berkumpul dengan teman-teman SMA-nya karena ia merasa "tertinggal" dibandingkan temannya yang sudah memulai bisnis sendiri (isolasi sosial). Semua itu gejala klasik *Quarter-Life Crisis*. Maya tidak malas.
 
 **Apa yang harus dilakukan jika kamu merasa seperti Maya?**
 
-1. **Validasi:** Akui bahwa perasaan ini nyata dan valid, bukan tanda kelemahan.
+1. **Validasi:** Akui bahwa perasaan ini nyata dan valid. Merasakannya tidak membuatmu lemah.
 2. **Identifikasi Dominasi Gejala:** Gunakan skala 1-10 untuk menilai gejala mana yang paling mengganggu kamu saat ini.
 3. **Journaling:** Tuliskan kapan biasanya perasaan "terjebak" itu muncul paling kuat.
 
-### Diagnosis Diri Bukan untuk Menghakimi
+### Lampu Peringatan dari Dalam Dirimu
 
-**Penting:** Tujuan mengenali tanda-tanda di atas bukan untuk melabeli diri sebagai "produk gagal". Anggaplah gejala-gejala ini sebagai **sistem peringatan dini (early warning system)** tubuhmu.
+**Penting:** Anggaplah gejala-gejala di atas sebagai **sistem peringatan dini (early warning system)** tubuhmu. Label "produk gagal" tidak perlu kamu tempelkan pada diri sendiri.
 
 Sama seperti lampu indikator bensin di mobil yang menyala, gejala QLC memberi tahu kamu bahwa ada "bahan bakar emosional" yang perlu diisi ulang atau ada rute perjalanan yang perlu dikalibrasi ulang.
 

@@ -2,7 +2,7 @@
 
 Pernahkah kamu merasa lelah setelah seharian berada di tempat baru, padahal kamu tidak melakukan aktivitas fisik yang berat? Atau mungkin kamu merasa tiba-tiba ingin marah hanya karena hal sepele seperti salah menekan tombol di mesin kopi?
 
-Gegar budaya lebih dari sekadar "perasaan asing". Ini adalah reaksi sistemik yang melibatkan pikiran dan tubuh kita saat mencoba memproses banyak informasi baru yang tidak dikenal. Bayangkan otak kamu seperti sebuah komputer yang mencoba menjalankan perangkat lunak (software) baru yang berat; kipas pendingin akan berputar kencang, baterai cepat habis, dan terkadang sistem menjadi *lag* atau macet. Begitulah cara kerja gejala fisik dan psikologis saat kita mengalami gegar budaya.
+Gegar budaya adalah reaksi sistemik yang melibatkan pikiran dan tubuh kita saat mencoba memproses banyak informasi baru yang tidak dikenal. Bayangkan otak kamu seperti sebuah komputer yang mencoba menjalankan perangkat lunak (software) baru yang berat; kipas pendingin akan berputar kencang, baterai cepat habis, dan terkadang sistem menjadi *lag* atau macet. Begitulah cara kerja gejala fisik dan psikologis saat kita mengalami gegar budaya.
 
 ## 1. Gejala Psikologis
 
@@ -20,7 +20,7 @@ Hal-hal kecil yang biasanya tidak mengganggu kamu (seperti suara bising tetangga
 
 Muncul pikiran seperti, *"Tidak ada yang mengerti saya di sini,"* atau *"Saya tidak akan pernah bisa menyesuaikan diri."* Ini sering disertai dengan keinginan kuat untuk menarik diri dari lingkungan sosial dan menghabiskan waktu sendirian di kamar.
 
-> **Pesan Penting:** Reaksi emosional yang kuat bukan tanda kelemahan karakter, melainkan tanda bahwa kapasitas kognitif kamu sedang bekerja mendekati batasnya.
+> **Pesan Penting:** Reaksi emosional yang kuat adalah tanda bahwa kapasitas kognitif kamu sedang bekerja mendekati batasnya. Reaksi itu tidak mencerminkan karakter yang lemah.
 
 ## 2. Gejala Fisik
 
@@ -28,7 +28,7 @@ Ketika pikiran stres, tubuh akan mengirimkan sinyal peringatan. Gejala fisik ini
 
 ### Gangguan Tidur (Insomnia atau Hipersomnia)
 
-Gegar budaya mengganggu ritme sirkadian kita, bukan hanya karena perbedaan zona waktu (jet lag), tetapi juga karena beban pikiran.
+Gegar budaya mengganggu ritme sirkadian kita lewat dua jalan sekaligus, yaitu perbedaan zona waktu (jet lag) dan beban pikiran.
 
 - **Insomnia:** Kesulitan tidur karena otak terus berputar memikirkan interaksi sosial di siang hari.
 - **Hipersomnia:** Keinginan untuk tidur sepanjang waktu sebagai bentuk pelarian dari realitas yang melelahkan.

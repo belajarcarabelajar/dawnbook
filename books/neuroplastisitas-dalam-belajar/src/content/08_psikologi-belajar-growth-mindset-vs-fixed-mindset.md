@@ -2,7 +2,7 @@
 
 Pernahkah kamu bertanya-tanya mengapa ada dua orang dengan tingkat kecerdasan yang sama, tetapi mencapai hasil yang sangat berbeda dalam hidup mereka? Atau mengapa ada siswa yang langsung menyerah saat menghadapi soal matematika yang sulit, sementara siswa lainnya justru terlihat semakin bersemangat?
 
-Jawabannya sering kali bukan terletak pada **apa** yang mereka ketahui, melainkan pada **bagaimana** mereka memandang kemampuan mereka sendiri. Pandangan itu dijelaskan oleh konsep *Growth Mindset* dan *Fixed Mindset* dalam psikologi belajar, yang dipopulerkan oleh Prof. Carol Dweck dari Stanford University.
+Jawabannya sering kali terletak pada **bagaimana** mereka memandang kemampuan mereka sendiri. Pandangan itu dijelaskan oleh konsep *Growth Mindset* dan *Fixed Mindset* dalam psikologi belajar, yang dipopulerkan oleh Prof. Carol Dweck dari Stanford University.
 
 ## 1\. Penelitian Carol Dweck
 
@@ -29,7 +29,7 @@ Individu dengan *Fixed Mindset* percaya bahwa kecerdasan, bakat, dan kemampuan a
 Sebaliknya, individu dengan *Growth Mindset* percaya bahwa kemampuan dasar dapat dikembangkan melalui kerja keras, strategi yang baik, dan masukan dari orang lain. Meskipun setiap orang berbeda dalam hal bakat awal dan minat, semua orang bisa tumbuh melalui upaya dan pengalaman.
 
 - **Keyakinan Utama:** "Saya belum bisa melakukan ini, tapi saya bisa mempelajarinya."
-- **Tujuan Utama:** Belajar dan berkembang, bukan sekadar mendapatkan nilai A atau pujian.
+- **Tujuan Utama:** Belajar dan berkembang.
 - **Pandangan terhadap Usaha:** Usaha adalah "nutrisi" bagi otak. Semakin keras kamu berlatih, semakin tajam kemampuan kamu.
 
 ## 3\. Kontras Perilaku dalam Belajar
@@ -51,14 +51,14 @@ Secara konseptual, kita bisa melihat perbedaan hasil belajar melalui pendekatan 
 - **Fixed Mindset View:** $H = B$. (Hasil hanya ditentukan oleh bakat. Jika $B$ rendah, maka $H$ akan selalu rendah).
 - **Growth Mindset View:** $H = B \times U^2$
 
-Dalam perspektif *Growth Mindset*, usaha ($U$) memiliki eksponen yang lebih besar karena usaha bukan hanya menambah pengetahuan, tetapi juga mengubah struktur biologis otak (neuroplastisitas) untuk memproses informasi lebih cepat di masa depan.
+Dalam perspektif *Growth Mindset*, usaha ($U$) memiliki eksponen yang lebih besar karena usaha menambah pengetahuan sekaligus mengubah struktur biologis otak (neuroplastisitas) untuk memproses informasi lebih cepat di masa depan.
 
 ## 5\. Dampak Psikologis pada Tantangan Akademik
 
 Persepsi individu terhadap kecerdasan memengaruhi sirkuit psikologis mereka dalam memproses kegagalan.
 
 - **The "Tyranny of Now" vs "Power of Yet":** Siswa dengan *Fixed Mindset* merasa terhukum oleh masa sekarang. Jika mereka mendapat nilai buruk sekarang, itu berarti mereka bodoh selamanya. Siswa dengan *Growth Mindset* menggunakan kata **"Belum"**. "Saya **belum** mengerti algoritma ini." Kata "belum" memberikan lintasan masa depan; itu menyiratkan bahwa pemahaman sedang dalam perjalanan.
-- **Atribusi Kegagalan:** Dalam psikologi belajar, individu *Growth Mindset* melakukan atribusi internal yang dapat dikontrol. Mereka tidak menyalahkan "otak yang kurang" (tidak dapat dikontrol), melainkan menyalahkan "kurangnya latihan" atau "strategi yang salah" (keduanya dapat diperbaiki).
+- **Atribusi Kegagalan:** Dalam psikologi belajar, individu *Growth Mindset* melakukan atribusi internal yang dapat dikontrol. Mereka menyalahkan "kurangnya latihan" atau "strategi yang salah" (keduanya dapat diperbaiki). "Otak yang kurang" (tidak dapat dikontrol) tidak masuk daftar tersangka mereka.
 
 ## 6\. Dua Mahasiswa dan Nilai D Pertama
 
@@ -67,16 +67,16 @@ Persepsi individu terhadap kecerdasan memengaruhi sirkuit psikologis mereka dala
 Bayangkan Budi dan Iwan mengambil mata kuliah "Struktur Data". Keduanya mendapatkan nilai D pada kuis pertama.
 
 - **Budi (Fixed Mindset):** Budi berpikir, "Mungkin saya memang bukan tipe orang IT." Dia mulai bolos kuliah karena merasa usahanya akan sia-sia. Baginya, nilai D adalah vonis permanen atas kapasitas otaknya.
-- **Iwan (Growth Mindset):** Iwan berpikir, "Wah, ternyata cara belajar saya yang kemarin belum efektif untuk materi ini." Dia mendatangi dosen, bertanya bagian mana yang salah, dan menambah jam latihan kodingnya. Iwan melihat nilai D sebagai data, bukan sebagai identitas.
+- **Iwan (Growth Mindset):** Iwan berpikir, "Wah, ternyata cara belajar saya yang kemarin belum efektif untuk materi ini." Dia mendatangi dosen, bertanya bagian mana yang salah, dan menambah jam latihan kodingnya. Bagi Iwan, nilai D hanyalah data dan tidak menentukan siapa dirinya.
 
-**Hasil Akhir:** Di akhir semester, Iwan mungkin tidak hanya mendapatkan nilai lebih baik, tetapi sirkuit sarafnya ikut beradaptasi untuk berpikir secara logis, sementara Budi tetap berada di tempat yang sama dengan keyakinan yang membatasi dirinya.
+**Hasil Akhir:** Di akhir semester, Iwan mungkin mendapatkan nilai lebih baik, dan sirkuit sarafnya ikut beradaptasi untuk berpikir secara logis, sementara Budi tetap berada di tempat yang sama dengan keyakinan yang membatasi dirinya.
 
 ## 7\. Strategi Mengembangkan Growth Mindset
 
 Bagaimana kita bisa bergeser dari pola pikir tetap ke pola pikir berkembang?
 
 1. **Ubah Dialog Internal:** Ganti kalimat "Saya tidak bisa" menjadi "Saya belum bisa."
-2. **Puji Proses, Bukan Bakat:** Jika kamu seorang pengajar atau orang tua, jangan katakan "Kamu pintar sekali!", melainkan "Saya melihat kamu bekerja sangat keras untuk memecahkan masalah ini."
+2. **Puji Prosesnya:** Jika kamu seorang pengajar atau orang tua, ganti pujian "Kamu pintar sekali!" dengan "Saya melihat kamu bekerja sangat keras untuk memecahkan masalah ini."
 3. **Cari Tantangan yang Tepat:** Jangan menetap di zona nyaman. Jika sebuah tugas terasa terlalu mudah, otak kamu tidak sedang membangun koneksi baru.
 4. **Lihat Kegagalan sebagai Data:** Anggap kegagalan sebagai sistem navigasi GPS yang memberi tahu kamu, *"Rute ini buntu, coba belok kiri (strategi baru)."*
 

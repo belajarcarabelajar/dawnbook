@@ -6,7 +6,7 @@ Setelah mempelajari bagaimana sistem vestibular bekerja secara normal, mulai dar
 
 ### 1. Vertigo
 
-**Vertigo** bukanlah sebuah penyakit, melainkan sebuah gejala. Secara neurobiologis, vertigo adalah manifestasi dari ketidakseimbangan (asimetri) sinyal saraf antara telinga kanan dan kiri, atau antara sistem vestibular perifer dan pusat.
+**Vertigo** adalah sebuah gejala, sehingga tidak bisa disebut penyakit tersendiri. Secara neurobiologis, vertigo adalah manifestasi dari ketidakseimbangan (asimetri) sinyal saraf antara telinga kanan dan kiri, atau antara sistem vestibular perifer dan pusat.
 
 #### Mekanisme Mismatch Sensorik
 
@@ -37,7 +37,7 @@ Sebagaimana telah dibahas pada bagian Organ Otolit, makula utrikulus mengandung 
 
 ### 3. Tekanan Hidrolik pada Penyakit Meniere
 
-Jika BPPV merupakan persoalan "partikel", maka **Penyakit Meniere** adalah persoalan "tekanan cairan". Kondisi ini ditandai dengan trias gejala: vertigo episodik, tinnitus (telinga berdenging), dan gangguan pendengaran fluktuatif.
+Jika BPPV merupakan persoalan "partikel", maka **Penyakit Meniere** adalah persoalan "tekanan cairan". Kondisi ini ditandai dengan trias gejala berupa vertigo episodik, tinnitus (telinga berdenging), dan gangguan pendengaran fluktuatif.
 
 #### Hidrops Endolimfatik
 
@@ -72,4 +72,4 @@ Pemahaman mendalam mengenai patofisiologi BPPV memungkinkan klinisi melakukan ko
 - **Penyakit Meniere** melibatkan kegagalan homeostasis cairan endolimfe yang menimbulkan peningkatan tekanan intralabirin.
 - **Nistagmus** berfungsi sebagai indikator objektif klinis untuk mengevaluasi sistem vestibular dan menentukan kanalis semisirkularis yang mengalami patologi.
 
-> **Pesan Utama:** Gangguan keseimbangan bukanlah sekadar keluhan pusing biasa, melainkan konsekuensi dari disfungsi fisik, kimiawi, atau persarafan pada sistem sensorik manusia yang berpresisi tinggi. Menentukan lokasi dan mekanisme kerusakan, baik akibat migrasi partikel maupun peningkatan tekanan hidrolik, merupakan kunci utama dalam menegakkan diagnosis serta penatalaksanaan yang presisi.
+> **Pesan Utama:** Di balik keluhan pusing, gangguan keseimbangan merupakan konsekuensi dari disfungsi fisik, kimiawi, atau persarafan pada sistem sensorik manusia yang berpresisi tinggi. Menentukan lokasi dan mekanisme kerusakan, baik akibat migrasi partikel maupun peningkatan tekanan hidrolik, merupakan kunci utama dalam menegakkan diagnosis serta penatalaksanaan yang presisi.

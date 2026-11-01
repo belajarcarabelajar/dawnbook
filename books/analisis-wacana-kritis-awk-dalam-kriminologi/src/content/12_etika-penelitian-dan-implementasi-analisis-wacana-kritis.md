@@ -1,8 +1,8 @@
 ## Etika Penelitian dan Implementasi Analisis Wacana Kritis
 
-Peneliti Analisis Wacana Kritis (AWK) dalam kriminologi memikul dua tugas: menjaga etika penelitian dan membawa temuannya ke reformasi hukum. Jika bab-bab sebelumnya telah membekali pemelajar dengan alat metodologis untuk membongkar ketidakadilan dalam bahasa, bab ini akan menjawab pertanyaan utama: *setelah ketimpangan tersebut ditemukan, apa tanggung jawab etis peneliti? Dan bagaimana hasil analisis tersebut dapat diimplementasikan untuk mengubah dunia nyata?*
+Peneliti Analisis Wacana Kritis (AWK) dalam kriminologi memikul tugas menjaga etika penelitian sekaligus membawa temuannya ke reformasi hukum. Jika bab-bab sebelumnya telah membekali pemelajar dengan alat metodologis untuk membongkar ketidakadilan dalam bahasa, bab ini akan menjawab pertanyaan utama berikut. *Setelah ketimpangan tersebut ditemukan, apa tanggung jawab etis peneliti? Dan bagaimana hasil analisis tersebut dapat diimplementasikan untuk mengubah dunia nyata?*
 
-Dalam kriminologi kritis, peneliti bukan sekadar penonton yang duduk di menara gading. Peneliti adalah partisipan aktif yang memiliki tanggung jawab etis untuk menyuarakan kelompok yang terbungkam oleh diskursus dominan.
+Dalam kriminologi kritis, peneliti turun dari menara gading dan menjadi partisipan aktif yang memiliki tanggung jawab etis untuk menyuarakan kelompok yang terbungkam oleh diskursus dominan.
 
 ---
 
@@ -15,7 +15,7 @@ Dalam riset konvensional, "objektivitas" sering kali diartikan sebagai netralita
 Peneliti AWK memiliki komitmen etis untuk **emansipasi**, yaitu upaya membebaskan kelompok tertindas dari dominasi ideologi.
 
 > **Wawasan Penting:**
-> Dalam AWK, menjadi "objektif" bukan berarti tidak memihak, melainkan menjadi transparan mengenai posisi teoretis dan politis peneliti, serta memastikan analisis didasarkan pada bukti tekstual yang ketat.
+> Dalam AWK, menjadi "objektif" berarti transparan mengenai posisi teoretis dan politis peneliti, serta memastikan analisis didasarkan pada bukti tekstual yang ketat. Keberpihakan tidak menghapus objektivitas itu.
 
 | Dimensi | Riset Konvensional | Analisis Wacana Kritis (AWK) |
 | :--- | :--- | :--- |
@@ -51,7 +51,7 @@ Gunakan kerangka berpikir ini saat mengevaluasi etika kritik:
 
 ### 3. Dari Analisis Menuju Reformasi Hukum
 
-AWK tidak berhenti pada laporan penelitian. Tujuan akhirnya adalah **Praksis**, yaitu teori yang diwujudkan dalam tindakan untuk mengubah struktur sosial.
+Tujuan akhir AWK adalah **Praksis**, yaitu teori yang diwujudkan dalam tindakan untuk mengubah struktur sosial.
 
 #### Advokasi Reformasi Hukum
 
@@ -99,7 +99,7 @@ Untuk menerapkan AWK bagi tujuan advokasi, langkah-langkah berikut dapat ditempu
 
 1. **Identifikasi "Bahasa Berbahaya":** Temukan istilah dalam dokumen hukum yang menciptakan diskriminasi.
 2. **Dekonstruksi:** Tunjukkan bagaimana istilah tersebut bekerja untuk mempertahankan kekuasaan pihak tertentu.
-3. **Tawarkan Alternatif:** Jangan hanya mengkritik; usulkan glosarium atau terminologi baru yang lebih adil secara sosial.
+3. **Tawarkan Alternatif:** Lengkapi kritik dengan usulan glosarium atau terminologi baru yang lebih adil secara sosial.
 4. **Kolaborasi:** Hubungkan temuan riset dengan organisasi bantuan hukum (LBH) atau aktivis hak asasi manusia.
 
 Sebelum temuan dibawa keluar, peneliti juga menilai secara etis langkah mana yang pantas diambil. Pertama, apakah analisis benar-benar menemukan bias kekuasaan dalam teks? Jika tidak, kerangka analitisnya yang perlu direvisi. Jika ya, peneliti menimbang kepentingan publik terhadap risiko pribadi. Bila kepentingan publik lebih besar, temuan dibawa ke reformasi wacana melalui *Policy Brief*; bila tidak, temuan diterbitkan sebagai publikasi akademik dengan anonimitas ketat.
@@ -116,7 +116,7 @@ flowchart TD
     C -->|"tidak"| E["Publikasi akademik dengan anonimitas ketat"]
 ```
 
-Pada akhirnya, tujuan kriminologi kritis bukan hanya memahami dunia, tetapi mengubahnya.
+Pada akhirnya, kriminologi kritis memahami dunia supaya bisa mengubahnya.
 
 ---
 
@@ -168,6 +168,6 @@ Kombinasi penggunaan istilah teknis medis yang presisi dengan tata bahasa yang t
 
 ### Yang Perlu Kamu Ingat tentang Etika AWK
 
-Etika dalam Analisis Wacana Kritis bukan sekadar tentang mengisi formulir persetujuan penelitian (*informed consent*). Etika adalah tentang **keberanian moral** untuk menunjukkan bahasa yang melindungi ketidakadilan. Bagi peneliti kriminologi, kata-kata adalah alat advokasi untuk mengurangi stigma dan mendorong sistem hukum yang lebih manusiawi dan berkeadilan.
+Etika dalam Analisis Wacana Kritis dimulai dari formulir persetujuan penelitian (*informed consent*) dan berlanjut pada **keberanian moral** untuk menunjukkan bahasa yang melindungi ketidakadilan. Bagi peneliti kriminologi, kata-kata adalah alat advokasi untuk mengurangi stigma dan mendorong sistem hukum yang lebih manusiawi dan berkeadilan.
 
 Peneliti perlu terus memeriksa dan berefleksi mengenai siapa yang diuntungkan dari penyusunan narasi serta penulisan hasil penelitian yang dihasilkan.

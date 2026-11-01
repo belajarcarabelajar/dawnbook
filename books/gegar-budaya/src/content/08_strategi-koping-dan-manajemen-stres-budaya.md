@@ -20,7 +20,7 @@ Keterangan:
 - $R$: Resiliensi Pribadi (Resilience)
 - $S_p$: Dukungan Sosial (Social Support)
 
-**Penting:** Untuk menurunkan nilai $S$ (Stres), kamu tidak selalu bisa mengubah $P$ atau $D$, tetapi kamu bisa meningkatkan $R$ (Resiliensi) dan $S_p$ (Dukungan Sosial).
+**Penting:** Untuk menurunkan nilai $S$ (Stres), tingkatkan $R$ (Resiliensi) dan $S_p$ (Dukungan Sosial). Keduanya bisa kamu usahakan sendiri, sementara $P$ dan $D$ tidak selalu bisa kamu ubah.
 
 ### 2. Strategi Koping Kognitif
 
@@ -31,7 +31,7 @@ Koping kognitif melibatkan perubahan cara kamu memproses informasi tentang buday
 - **Harapan yang Realistis:** Jangan menuntut diri sendiri untuk langsung fasih atau paham segalanya dalam sebulan. Gunakan prinsip *Kaizen* (perbaikan kecil yang berkelanjutan).
 - **Observasi Aktif:** Gunakan teknik "Antropolog Amatir". Amati tanpa menghakimi. Mengapa mereka melakukan itu? Apa nilai di baliknya?
 
-> **Insight:** Kegagalan dalam berkomunikasi bukan berarti kegagalan pribadi. Itu hanyalah kesalahan data yang perlu diperbaiki melalui pembelajaran.
+> **Insight:** Kegagalan dalam berkomunikasi adalah kesalahan data yang perlu diperbaiki melalui pembelajaran. Kesalahan itu tidak menjadikanmu pribadi yang gagal.
 
 ### 3. Strategi Emosional dan Resiliensi
 
@@ -68,7 +68,7 @@ Manusia adalah makhluk sosial. Di lingkungan baru, jaringan sosial adalah "banta
 
 Stres budaya sering kali termanifestasi dalam gejala fisik. Untuk melawannya, buatlah "Jangkar Rutinitas".
 
-- **Ritual Pagi:** Lakukan hal yang sama setiap pagi, di mana pun kamu berada (misalnya: menyeduh kopi yang sama, melakukan peregangan 10 menit). Rutinitas memberikan rasa kendali (sense of control).
+- **Ritual Pagi:** Lakukan hal yang sama setiap pagi, di mana pun kamu berada (misalnya menyeduh kopi yang sama atau melakukan peregangan 10 menit). Rutinitas memberikan rasa kendali (sense of control).
 - **Nutrisi dan Tidur:** Otak yang kekurangan tidur jauh lebih rentan terhadap kecemasan. Pastikan asupan magnesium dan vitamin B kompleks cukup untuk membantu sistem saraf.
 - **Aktivitas Fisik:** Olahraga melepaskan endorfin dan membantu menjaga stabilitas biologis selama transisi.
 
@@ -85,7 +85,7 @@ Sari adalah seorang profesional dari Indonesia yang pindah ke Tokyo. Pada bulan 
 3. **Sosial:** Sari bergabung dengan kelas *Ikebana* (seni merangkai bunga). Di sana, dia bertemu penduduk lokal dalam suasana yang tidak formal, yang membantunya merasa lebih terintegrasi.
 4. **Fisik:** Dia menjaga "Jangkar" dengan selalu memasak satu menu masakan Indonesia setiap hari Minggu untuk menjaga koneksi emosional dengan rumah.
 
-**Hasilnya:** Dalam 4 bulan, tingkat stres akulturatif Sari menurun, dan dia mulai menikmati dinamika hidup di Tokyo.
+Dalam 4 bulan, tingkat stres akulturatif Sari menurun, dan dia mulai menikmati dinamika hidup di Tokyo.
 
 ### Ringkasan Strategi (Checklist)
 
@@ -96,4 +96,4 @@ Sari adalah seorang profesional dari Indonesia yang pindah ke Tokyo. Pada bulan 
 | **Sosial** | Networking, Komunitas | Mengurangi isolasi dan mendapatkan informasi praktis. |
 | **Fisik** | Rutinitas, Olahraga, Nutrisi | Menjaga stabilitas biologis selama transisi. |
 
-> **Pesan Utama:** Manajemen stres budaya bukan tentang menghilangkan perbedaan, tetapi tentang memperluas kapasitas diri kamu untuk menampung perbedaan tersebut tanpa kehilangan jati diri.
+> **Pesan Utama:** Manajemen stres budaya adalah upaya memperluas kapasitas diri kamu untuk menampung perbedaan budaya tanpa kehilangan jati diri.

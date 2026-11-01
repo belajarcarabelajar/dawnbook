@@ -1,6 +1,6 @@
 ## Kajian Strukturalisme dan Tema Novel 9 Summers 10 Autumns
 
-Memahami sebuah karya sastra secara mendalam menuntut kesediaan untuk melihatnya sebagai satu kesatuan yang utuh. Di dalamnya, setiap elemen saling berkaitan dalam membentuk makna. Analisis novel *9 Summers 10 Autumns* ini dimulai dari struktur yang menyusun kisah hidup tokoh utamanya. Kajian strukturalisme menjadi alat analisis pertama: ia menelusuri keterkaitan antarunsur pembangun karya untuk menemukan tema utama cerita.
+Memahami sebuah karya sastra secara mendalam menuntut kesediaan untuk melihatnya sebagai satu kesatuan yang utuh. Di dalamnya, setiap elemen saling berkaitan dalam membentuk makna. Analisis novel *9 Summers 10 Autumns* ini dimulai dari struktur yang menyusun kisah hidup tokoh utamanya. Kajian strukturalisme menjadi alat analisis pertama. Kajian ini menelusuri keterkaitan antarunsur pembangun karya untuk menemukan tema utama cerita.
 
 ### Konsep Kajian Strukturalisme dalam Sastra
 
@@ -24,11 +24,11 @@ Dalam bab ini, fokus utama kita adalah memahami bagaimana tema besar novel dirum
 
 ### Tema Utama Pendidikan dan Cinta Keluarga
 
-Tema utama novel *9 Summers 10 Autumns* bertumpu pada dua hal: **pendidikan sebagai tangga perubahan sosial** dan **kekuatan cinta keluarga**. 
+Tema utama novel *9 Summers 10 Autumns* bertumpu pada **pendidikan sebagai tangga perubahan sosial** dan **kekuatan cinta keluarga**. 
 
 > "Nilai-nilai inilah yang membuat aku yakin bahwa impian haruslah menyala dengan apa pun yang kita miliki, meskipun yang kita miliki tidak sempurna, meskipun itu retak-retak." (Hlm. 21)
 
-Tema ini tidak dihadirkan secara abstrak, melainkan dioperasionalkan melalui perilaku nyata para tokohnya:
+Tema ini dioperasionalkan melalui perilaku nyata para tokohnya:
 1.  **Pendidikan sebagai Tangga Perubahan Sosial**: Tokoh "Aku" secara konsisten menunjukkan bahwa prestasi akademis (peringkat sekolah, kuliah di IPB, hingga karier global) adalah satu-satunya jalan keluar logis untuk memutus rantai kemiskinan turun-temurun keluarganya.
 2.  **Kekuatan Cinta Keluarga**: Pengorbanan tanpa pamrih (Bapak menyetir angkot tanpa mengeluh, Ibu membagi porsi nasi yang terbatas, Mbak Isa melepas kesempatan kuliah demi adiknya) menjadi dorongan emosional yang melahirkan tekad tokoh utama.
 

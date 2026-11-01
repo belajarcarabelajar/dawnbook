@@ -10,8 +10,8 @@ Mekanisme sinkronisasi adalah sekumpulan aturan dan alat yang digunakan kernel u
 
 > **Analogi Sederhana:** Bayangkan saldo bank kamu adalah Rp1.000.000.
 > 
-> 1. Proses A ingin menarik Rp200.000. Ia membaca saldo: Rp1.000.000.
-> 2. Pada saat yang hampir bersamaan, Proses B ingin menyetor Rp100.000. Ia juga membaca saldo: Rp1.000.000.
+> 1. Proses A ingin menarik Rp200.000. Ia membaca saldo sebesar Rp1.000.000.
+> 2. Pada saat yang hampir bersamaan, Proses B ingin menyetor Rp100.000. Ia juga membaca saldo yang sama, Rp1.000.000.
 > 3. Proses A menghitung dan menyimpan saldo baru:
 >
 >    <div>
@@ -30,7 +30,7 @@ Mekanisme sinkronisasi adalah sekumpulan aturan dan alat yang digunakan kernel u
 >
 >    Hasil akhirnya adalah Rp1.100.000. Uang Rp200.000 yang ditarik Proses A "hilang" dari catatan karena tertimpa oleh hasil Proses B.
 
-Untuk mencegah hal ini, kita membutuhkan **mutual exclusion**: memastikan hanya satu "koki" yang bisa mengakses "talenan" pada satu waktu.
+Untuk mencegah hal ini, kita membutuhkan **mutual exclusion**, yaitu cara memastikan hanya satu "koki" yang bisa mengakses "talenan" pada satu waktu.
 
 ## 2. Spinlock yang Terus Berputar
 
@@ -109,11 +109,11 @@ mutex_unlock(&my_mutex);
 ### Cara Kerja RCU
 
 1. **Read:** Reader mengakses data secara bebas tanpa kunci apa pun. Ini sangat cepat.
-2. **Copy:** Writer tidak mengubah data di tempat. Ia menyalin data lama ke area memori baru dan mengubah salinan tersebut.
+2. **Copy:** Writer menyalin data lama ke area memori baru dan mengubah salinan tersebut, sehingga data aslinya tetap utuh.
 3. **Update:** Writer mengalihkan pointer dari data lama ke data baru secara atomik.
 4. **Grace Period:** Data lama tidak langsung dihapus. Kernel menunggu sampai semua reader yang sedang mengakses data lama selesai, baru kemudian memori lama dibebaskan.
 
-> **Analogi:** Seperti mengganti menu di papan tulis kafe. Kamu tidak menghapus papan saat pelanggan sedang membaca. Kamu menulis menu baru di papan lain, lalu dengan cepat menukar posisi papan tersebut. Papan lama baru dibuang setelah kamu yakin tidak ada lagi pelanggan yang melihatnya.
+> **Analogi:** Seperti mengganti menu di papan tulis kafe. Selagi pelanggan masih membaca, kamu menulis menu baru di papan lain, lalu dengan cepat menukar posisi papan tersebut. Papan lama baru dibuang setelah kamu yakin tidak ada lagi pelanggan yang melihatnya.
 
 ## Perbandingan Cepat
 

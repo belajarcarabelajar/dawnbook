@@ -2,7 +2,7 @@
 
 Satu pertanyaan besar tentang *Quarter-Life Crisis* (QLC) masih menunggu jawaban, yaitu dari mana sebenarnya krisis di usia 20-an ini datang. Jika pada bagian sebelumnya kita telah mendefinisikan apa itu QLC dan mengenali gejalanya, sekarang saatnya kita membedah "mesin" di baliknya. Mengapa krisis ini terjadi? Mengapa generasi sekarang tampaknya lebih rentan merasakannya dibandingkan generasi sebelumnya?
 
-Kita akan menganalisis tiga pilar utama yang menjadi pemicu krisis ini: **beban ekspektasi sosial**, **transisi dari bangku kuliah ke dunia kerja**, dan **pergeseran peran dalam hubungan interpersonal**.
+Kita akan menganalisis tiga pilar utama yang memicu krisis ini, mulai dari **beban ekspektasi sosial**, **transisi dari bangku kuliah ke dunia kerja**, sampai **pergeseran peran dalam hubungan interpersonal**.
 
 ## 1\. Beban Ekspektasi Sosial
 
@@ -24,7 +24,7 @@ Semakin besar nilai $\text{Ekspektasi}$ yang dibebankan oleh masyarakat (orang t
 - **Standar Kesuksesan Material:** Definisi sukses yang sempit, seperti memiliki kendaraan pribadi, rumah, atau tabungan nominal tertentu di usia muda.
 - **Prestise Jabatan:** Tekanan untuk memiliki pekerjaan dengan gelar yang terdengar mentereng di mata keluarga besar.
 
-> **Insight:** Kita sering merasa tertinggal bukan karena kita berhenti berjalan, tetapi karena kita membandingkan kecepatan kita dengan garis akhir orang lain yang jalurnya berbeda.
+> **Insight:** Kita sering merasa tertinggal karena membandingkan kecepatan kita dengan garis akhir orang lain yang jalurnya berbeda, padahal langkah kita sendiri masih terus berjalan.
 
 ## 2\. Transisi dari Bangku Kuliah ke Dunia Kerja
 
@@ -32,8 +32,8 @@ Transisi dari dunia pendidikan ke dunia profesional adalah lompatan besar dalam 
 
 ### Mengapa Transisi Ini Menyakitkan?
 
-1. **Hilangnya Struktur (Loss of Structure):** Di dunia pendidikan, jalurnya jelas: belajar $\rightarrow$ ujian $\rightarrow$ naik kelas. Di dunia nyata, tidak ada kurikulum. Kamu bisa bekerja keras tetapi tidak mendapatkan "nilai A". Ketidakpastian ini memicu kecemasan.
-2. **Paradoks Pilihan (The Paradox of Choice):** Saat kuliah, pilihanmu terbatas pada mata kuliah. Saat lulus, dunia menawarkan ribuan jalan. Bukannya merasa bebas, banyaknya pilihan sering membuat kita lumpuh karena takut mengambil keputusan yang salah (*Analysis Paralysis*).
+1. **Hilangnya Struktur (Loss of Structure):** Di dunia pendidikan, jalurnya jelas. Kamu belajar $\rightarrow$ ujian $\rightarrow$ naik kelas. Di dunia nyata, tidak ada kurikulum. Kamu bisa bekerja keras tetapi tidak mendapatkan "nilai A". Ketidakpastian ini memicu kecemasan.
+2. **Paradoks Pilihan (The Paradox of Choice):** Saat kuliah, pilihanmu terbatas pada mata kuliah. Saat lulus, dunia menawarkan ribuan jalan. Banyaknya pilihan itu sering membuat kita lumpuh karena takut mengambil keputusan yang salah (*Analysis Paralysis*).
 3. **Kesenjangan Keterampilan:** Apa yang dipelajari di bangku formal sering tidak relevan dengan kebutuhan industri, sehingga muncul perasaan tidak kompeten.
 
 **Peta vs. Kompas** *Pendidikan memberikanmu **Peta** yang statis. Namun, dunia kerja adalah hutan belantara yang terus berubah. Masalahnya, banyak dari kita tidak diajarkan cara menggunakan **Kompas** (intuisi dan adaptabilitas), sehingga saat peta tidak lagi akurat, kita merasa tersesat.*
@@ -70,4 +70,4 @@ Memahami penyebab QLC adalah langkah pertama untuk melewatinya. Dengan mengetahu
 
 *Dari tiga penyebab utama di atas (ekspektasi sosial, transisi kerja, hubungan interpersonal), mana yang saat ini paling berat kamu rasakan? Mengapa faktor tersebut terasa begitu dominan dalam hidupmu sekarang?*
 
-> **Poin Utama:** Krisis usia 20-an bukanlah tanda kegagalan pribadi. Ini adalah reaksi normal terhadap perubahan lingkungan yang sangat cepat dan tuntutan sosial yang sering tidak realistis.
+> **Poin Utama:** Krisis usia 20-an adalah reaksi normal terhadap perubahan lingkungan yang sangat cepat dan tuntutan sosial yang sering tidak realistis. Mengalaminya tidak berarti kamu gagal secara pribadi.

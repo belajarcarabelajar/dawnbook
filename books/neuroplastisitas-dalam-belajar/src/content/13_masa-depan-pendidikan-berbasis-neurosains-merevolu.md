@@ -1,14 +1,14 @@
 ## Masa Depan Pendidikan Berbasis Neurosains
 
-Bayangkan sebuah sekolah yang kurikulumnya tidak kaku, melainkan beradaptasi seiring perkembangan sirkuit saraf setiap siswanya. Kita tidak lagi berada di era ketika "satu ukuran cocok untuk semua." Berkat pemahaman tentang **neuroplastisitas**, pendidikan sedang menuju perubahan besar.
+Bayangkan sebuah sekolah yang kurikulumnya lentur dan beradaptasi seiring perkembangan sirkuit saraf setiap siswanya. Kita tidak lagi berada di era ketika "satu ukuran cocok untuk semua." Berkat pemahaman tentang **neuroplastisitas**, pendidikan sedang menuju perubahan besar.
 
 Materi ini akan merangkum perjalanan kita memahami otak dan memproyeksikan bagaimana pengetahuan tersebut akan mengubah ruang kelas, kebijakan pendidikan, dan metode pengajaran di seluruh dunia.
 
 ## 1\. Meninggalkan Model Pabrik dalam Pendidikan
 
-Selama lebih dari seabad, sistem pendidikan global mengadopsi model industrial: siswa diproses secara linear berdasarkan usia kronologis, bukan kesiapan kognitif. Neurosains menawarkan analogi yang lebih akurat.
+Selama lebih dari seabad, sistem pendidikan global mengadopsi model industrial. Siswa diproses secara linear berdasarkan usia kronologis, tanpa memperhitungkan kesiapan kognitif. Neurosains menawarkan analogi yang lebih akurat.
 
-> **Taman Saraf** Jika pendidikan lama adalah **pabrik perakitan**, maka pendidikan berbasis neurosains adalah **taman saraf**. Guru bukan lagi buruh pabrik yang memasang "onderdil" informasi, melainkan seorang ahli botani saraf yang menyediakan nutrisi, stimulasi, dan lingkungan yang tepat agar setiap "pohon" saraf siswa dapat tumbuh sesuai potensinya yang unik.
+> **Taman Saraf** Jika pendidikan lama adalah **pabrik perakitan**, maka pendidikan berbasis neurosains adalah **taman saraf**. Guru menjadi seorang ahli botani saraf yang menyediakan nutrisi, stimulasi, dan lingkungan yang tepat agar setiap "pohon" saraf siswa dapat tumbuh sesuai potensinya yang unik.
 
 ### Transformasi Kurikulum Masa Depan
 
@@ -36,7 +36,7 @@ Bayangkan sistem masa depan menilai dua hal pada seorang siswa, yaitu skor perfo
 
 ## 3\. Guru sebagai "Neuro-Architect"
 
-Di masa depan, peran guru tidak akan digantikan oleh teknologi, melainkan bertransformasi menjadi **Neuro-Architect**. Mereka akan menggunakan data saraf untuk merancang interaksi sosial yang memperkuat belajar.
+Di masa depan, peran guru akan bertransformasi menjadi **Neuro-Architect**, dan teknologi tidak akan menggantikannya. Mereka akan menggunakan data saraf untuk merancang interaksi sosial yang memperkuat belajar.
 
 - **Pemanfaatan Mirror Neurons:** Guru akan fokus pada pemodelan perilaku dan empati, memanfaatkan sistem sel saraf cermin siswa untuk mempercepat pembelajaran keterampilan sosial dan motorik.
 - **Optimalisasi Neurotransmiter:** Guru akan merancang aktivitas yang memicu pelepasan **Dopamin** (melalui rasa ingin tahu dan *reward*) dan **Norepinefrin** (melalui tantangan yang sehat) untuk memastikan otak dalam kondisi paling plastis.
@@ -67,15 +67,15 @@ Keterangan:
 
 Meskipun masa depan ini tampak cerah, ada beberapa tantangan besar yang harus dihadapi:
 
-1. **Neuro-Equity:** Bagaimana kita memastikan bahwa teknologi peningkat plastisitas (seperti alat neurofeedback) tersedia untuk semua anak, bukan hanya mereka yang mampu secara finansial?
+1. **Neuro-Equity:** Bagaimana kita memastikan bahwa teknologi peningkat plastisitas (seperti alat neurofeedback) tersedia untuk semua anak, termasuk mereka yang tidak mampu secara finansial?
 2. **Privasi Saraf (Neuro-Privacy):** Siapa yang berhak memiliki data tentang pola pikir dan kecepatan belajar seorang anak?
 3. **Labeling:** Menghindari risiko melabeli anak berdasarkan kapasitas saraf mereka saat ini, mengingat inti dari neuroplastisitas adalah bahwa otak *selalu bisa berubah*.
 
-> **Pesan Penting:** Neurosains memberikan kita alat, tetapi nilai-nilai kemanusiaanlah yang menentukan bagaimana alat itu digunakan. Teknologi harus melayani potensi manusia, bukan mengaturnya.
+> **Pesan Penting:** Neurosains memberikan kita alat, tetapi nilai-nilai kemanusiaanlah yang menentukan bagaimana alat itu digunakan. Teknologi harus melayani potensi manusia, dan ia tidak boleh mengatur manusia.
 
 ## Penutup
 
-Masa depan pendidikan berbasis neurosains bukan hanya tentang teknologi canggih atau pemindaian otak di setiap meja. Ini tentang **pemahaman yang lebih penuh kasih** terhadap batasan dan potensi dari biologi manusia.
+Inti masa depan pendidikan berbasis neurosains adalah **pemahaman yang lebih penuh kasih** terhadap batasan dan potensi dari biologi manusia.
 
 Dengan mengakui bahwa otak setiap siswa bersifat plastis, kita menghapus kata "bodoh" atau "tidak berbakat" dari kamus pendidikan kita. Kita menggantinya dengan "belum terbentuk" atau "sedang berkembang."
 

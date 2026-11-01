@@ -2,13 +2,13 @@
 
 Pernahkah kamu membayangkan sebuah "buku raksasa" yang terbuat dari batu, yang mencatat setiap detail perilaku manusia? Catatan itu merentang dari gosip di pasar hingga tindakan mulia seorang raja. Di dasar Candi Borobudur, ada rangkaian relief yang melakukan hal itu.
 
-**Relief Karmawibhangga** adalah rangkaian panel cerita yang mengelilingi kaki candi. Namun, ada satu fakta unik: bagian ini tidak terlihat oleh mata wisatawan secara umum karena tertutup oleh struktur tambahan. Relief inilah titik awal untuk memahami dasar pemikiran Buddhis yang tertanam dalam arsitektur Borobudur.
+**Relief Karmawibhangga** adalah rangkaian panel cerita yang mengelilingi kaki candi. Namun, bagian ini tidak terlihat oleh mata wisatawan secara umum karena tertutup oleh struktur tambahan. Relief inilah titik awal untuk memahami dasar pemikiran Buddhis yang tertanam dalam arsitektur Borobudur.
 
 ## 1\. Apa Itu Karmawibhangga? (Definisi dan Etimologi)
 
 Secara etimologi, nama **Karmawibhangga** berasal dari bahasa Sanskerta yang terdiri dari dua kata utama:
 
-1. **Karma**: Berarti "perbuatan", "tindakan", atau "aksi". Dalam konteks ini, karma bukan sekadar nasib, melainkan hukum sebab-akibat yang dipicu oleh kehendak (*cetana*).
+1. **Karma**: Berarti "perbuatan", "tindakan", atau "aksi". Dalam konteks ini, karma adalah hukum sebab-akibat yang dipicu oleh kehendak (*cetana*). Pengertian ini lebih luas daripada sekadar nasib.
 2. **Wibhangga**: Berarti "penguraian", "pembedaan", atau "klasifikasi".
 
 > **Insight Utama:** Jadi, secara harfiah, **Karmawibhangga berarti "Uraian tentang Perbuatan"**. Relief ini berfungsi sebagai panduan visual yang menguraikan berbagai jenis perbuatan manusia dan konsekuensi (buah) yang akan diterima di masa depan.
@@ -38,7 +38,7 @@ Pada abad ke-8 dan ke-9, tingkat literasi masyarakat tentu berbeda dengan sekara
 
 ### B. Visualisasi Hukum Sebab-Akibat
 
-Tujuan utamanya adalah menunjukkan bahwa tidak ada tindakan yang luput dari konsekuensi. Jika kamu melakukan tindakan $A$, maka kamu akan mendapatkan hasil $B$. Hubungan ini bersifat universal dan mekanis, bukan karena hukuman dari "Tuhan" tertentu, melainkan sebagai hukum alam semesta.
+Tujuan utamanya adalah menunjukkan bahwa tidak ada tindakan yang luput dari konsekuensi. Jika kamu melakukan tindakan $A$, maka kamu akan mendapatkan hasil $B$. Hubungan ini bersifat universal dan mekanis karena bekerja sebagai hukum alam semesta. Akibatnya tidak datang sebagai hukuman dari "Tuhan" tertentu.
 
 ### C. Pengingat tentang Penderitaan (Samsara)
 
@@ -59,13 +59,13 @@ Relief Karmawibhangga adalah cermin bagi perbuatan manusia. Apa pun yang kita "t
 
 Meskipun terdiri dari 160 panel, secara umum struktur cerita di setiap panel Karmawibhangga mengikuti pola tertentu:
 
-1. **Sisi Kiri/Tengah**: Menggambarkan **perbuatan** (misalnya: orang yang suka bergunjing atau menyiksa binatang).
-2. **Sisi Kanan**: Menggambarkan **hasil/akibat** dari perbuatan tersebut di kehidupan mendatang (misalnya: dilahirkan di alam neraka atau menderita penyakit tertentu).
+1. **Sisi Kiri/Tengah**: Menggambarkan **perbuatan** (misalnya orang yang suka bergunjing atau menyiksa binatang).
+2. **Sisi Kanan**: Menggambarkan **hasil/akibat** dari perbuatan tersebut di kehidupan mendatang (misalnya dilahirkan di alam neraka atau menderita penyakit tertentu).
 
 ## 6\. Relevansi Masa Kini
 
 Meskipun dipahat berabad-abad lalu, pesan dari relief Karmawibhangga ini relevan dalam kehidupan modern:
 
 - **Tanggung Jawab Pribadi**: Karma mengajarkan bahwa kita adalah arsitek dari nasib kita sendiri. Kita tidak bisa menyalahkan keberuntungan atau orang lain atas posisi kita saat ini jika itu adalah hasil dari pilihan masa lalu kita.
-- **Kesadaran Berperilaku (Mindfulness)**: Sebelum mengunggah komentar negatif di media sosial atau mengambil hak orang lain, ingatlah prinsip Karmawibhangga: setiap perbuatan yang kita lakukan akan kembali kepada kita dalam bentuk yang berbeda.
+- **Kesadaran Berperilaku (Mindfulness)**: Sebelum mengunggah komentar negatif di media sosial atau mengambil hak orang lain, ingatlah prinsip Karmawibhangga bahwa setiap perbuatan yang kita lakukan akan kembali kepada kita dalam bentuk yang berbeda.
 - **Empati**: Memahami bahwa setiap orang sedang berjuang dengan "buah" dari perbuatan mereka sendiri dapat meningkatkan rasa kasih sayang kita terhadap sesama.

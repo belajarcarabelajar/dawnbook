@@ -1,8 +1,8 @@
 ## Kerangka Metodologis Model Tiga Dimensi Norman Fairclough
 
-Model tiga dimensi Norman Fairclough membaca wacana tentang kejahatan pada tiga lapis sekaligus: teks, praktik diskursif, dan praktik sosial-budaya. Jika kita membayangkan kriminologi sebagai upaya untuk membedah mengapa dan bagaimana kejahatan terjadi, maka model Norman Fairclough adalah mikroskop yang digunakan untuk melihat bagaimana bahasa menjadi instrumen kekuasaan dalam mendefinisikan kejahatan itu sendiri.
+Model tiga dimensi Norman Fairclough membaca wacana tentang kejahatan pada tiga lapis sekaligus, yaitu teks, praktik diskursif, dan praktik sosial-budaya. Jika kita membayangkan kriminologi sebagai upaya untuk membedah mengapa dan bagaimana kejahatan terjadi, maka model Norman Fairclough adalah mikroskop yang digunakan untuk melihat bagaimana bahasa menjadi instrumen kekuasaan dalam mendefinisikan kejahatan itu sendiri.
 
-Norman Fairclough memandang wacana bukan sekadar kata-kata yang diucapkan, melainkan sebuah **praktik sosial**. Untuk membedahnya, ia menawarkan kerangka kerja tiga dimensi yang saling berkaitan: **Teks**, **Praktik Diskursif**, dan **Praktik Sosial-Budaya**.
+Bagi Norman Fairclough, wacana, termasuk kata-kata yang diucapkan, adalah sebuah **praktik sosial**. Untuk membedahnya, ia menawarkan kerangka kerja tiga dimensi yang saling berkaitan, mulai dari **Teks** dan **Praktik Diskursif** sampai **Praktik Sosial-Budaya**.
 
 ### Membedah Sebuah Bangunan
 
@@ -18,7 +18,7 @@ Mari kita bedah masing-masing dimensi ini dalam konteks kriminologi.
 
 ## 1. Dimensi Mikro Analisis Teks
 
-Pada level ini, analisis linguistik dilakukan secara mendetail. Fokus utamanya bukan pada apa yang "dimaksud" oleh penulis, melainkan pada apa yang secara eksplisit "tertulis".
+Pada level ini, analisis linguistik dilakukan secara mendetail. Fokus utamanya adalah apa yang secara eksplisit "tertulis" oleh penulis.
 
 ### Elemen Kunci dalam Analisis Teks
 
@@ -73,7 +73,7 @@ Ini adalah level tertinggi tempat teks dihubungkan dengan konteks sosial yang le
 
 Model Fairclough dapat diterapkan pada fenomena pemberitaan begal di media massa melalui tiga tahap:
 
-1. **Analisis Teks:** Media menggunakan kata-kata hiperbolis seperti "sadis", "berdarah dingin", dan "meresahkan". Fokus teks adalah pada detail kekerasan yang dilakukan pelaku, bukan latar belakang sosioekonomi pelaku.
+1. **Analisis Teks:** Media menggunakan kata-kata hiperbolis seperti "sadis", "berdarah dingin", dan "meresahkan". Fokus teks ada pada detail kekerasan yang dilakukan pelaku, sementara latar belakang sosioekonominya tidak disentuh.
 2. **Praktik Diskursif:** Media mengambil data mentah dari humas Polri. Publik mengonsumsi berita ini melalui media sosial, yang memicu kemarahan massa (komentar "tembak di tempat"). Terdapat siklus ketika kemarahan publik mendorong aparat untuk bertindak lebih represif.
 3. **Praktik Sosial:** Wacana ini menciptakan *Moral Panic* (kepanikan moral). Secara sosial, fenomena ini membenarkan tindakan *extra-judicial killing* (pembunuhan di luar hukum) demi keamanan, yang pada hakikatnya mengikis prinsip *due process of law* (proses hukum yang adil).
 
@@ -130,9 +130,9 @@ flowchart TD
 
 ### Latihan Analisis Kritis
 
-Cobalah mengambil sebuah berita kriminal dari media massa hari ini dan amati judulnya. Apabila subjek (pelaku) diganti dengan deskripsi yang lebih humanis (misalnya: "seorang ayah tiga anak" alih-alih "pencuri motor"), cermati bagaimana persepsi publik terhadap kejahatan tersebut dapat berubah secara signifikan. Analisis ini menunjukkan alasan mengapa media massa cenderung memilih deskripsi tertentu.
+Cobalah mengambil sebuah berita kriminal dari media massa hari ini dan amati judulnya. Apabila subjek (pelaku) diganti dengan deskripsi yang lebih humanis (misalnya "seorang ayah tiga anak" alih-alih "pencuri motor"), cermati bagaimana persepsi publik terhadap kejahatan tersebut dapat berubah secara signifikan. Analisis ini menunjukkan alasan mengapa media massa cenderung memilih deskripsi tertentu.
 
-**Kesimpulan:** Model Tiga Dimensi Fairclough memungkinkan pemelajar untuk tidak hanya menjadi pembaca pasif, tetapi menjadi pengamat kritis yang mampu melihat agenda tersembunyi di balik narasi kriminalitas. Dengan memahami bagaimana teks dikonstruksi, analisis dapat dilakukan untuk mempertanyakan apakah "kebenaran" dalam hukum adalah kebenaran objektif atau sekadar hasil dari konstruksi bahasa yang dominan.
+**Kesimpulan:** Model Tiga Dimensi Fairclough memungkinkan pemelajar beranjak dari pembaca pasif menjadi pengamat kritis yang mampu melihat agenda tersembunyi di balik narasi kriminalitas. Dengan memahami bagaimana teks dikonstruksi, analisis dapat dilakukan untuk mempertanyakan apakah "kebenaran" dalam hukum adalah kebenaran objektif atau sekadar hasil dari konstruksi bahasa yang dominan.
 
 ---
 
@@ -146,7 +146,7 @@ Setiap individu memiliki **idiolek**. Idiolek adalah gaya bahasa unik yang dimil
 
 * **Pilihan Leksikal:** Apakah penulis menggunakan kata "perangkat" atau "peranti"?
 * **Sintaksis:** Bagaimana struktur kalimatnya? Apakah cenderung menggunakan kalimat pasif atau aktif?
-* **Ortografi:** Bagaimana pola penggunaan tanda baca atau singkatan (misalnya: "yg" vs "yang", atau penggunaan tanda seru secara berlebihan).
+* **Ortografi:** Bagaimana pola penggunaan tanda baca atau singkatan (misalnya "yg" vs "yang", atau penggunaan tanda seru secara berlebihan).
 
 ### 2. Atribusi Kepenulisan dan Pembandingan Teks Bukti
 
@@ -183,4 +183,4 @@ Dalam kasus hukum, perdebatan sering terjadi mengenai apakah suatu kalimat tergo
 ### 4. Hubungan dengan Profiling Kriminal
 Apabila sebuah surat tuntutan tebusan menggunakan istilah medis yang spesifik, tetapi disusun dengan tata bahasa yang tidak teratur, profil kriminologi dapat menyimpulkan bahwa tersangka kemungkinan memiliki latar belakang pekerjaan di bidang kesehatan atau pendidikan teknis tertentu, tetapi berada dalam kondisi tekanan psikologis tinggi saat menyusun teks tersebut.
 
-*Linguistik forensik bukan hanya tentang apa yang dikatakan, melainkan bagaimana hal itu dikatakan dan apa yang tersirat di balik struktur tersebut.*
+*Linguistik forensik menelaah apa yang dikatakan, bagaimana hal itu dikatakan, dan apa yang tersirat di balik struktur tersebut.*

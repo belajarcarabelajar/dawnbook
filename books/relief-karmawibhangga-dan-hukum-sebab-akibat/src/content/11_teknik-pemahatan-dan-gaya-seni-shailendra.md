@@ -1,8 +1,8 @@
 ## Teknik Pemahatan dan Gaya Seni Shailendra
 
-Relief Karmawibhangga tidak hanya menyimpan pesan moral, tetapi juga sisi estetika yang lahir dari cara setiap adegannya dipahat pada batu. Jika sebelumnya kita telah melihat apa saja pesan moral yang terkandung di dalamnya, sekarang kita akan membedah **bagaimana** pesan-pesan tersebut diwujudkan melalui pahatan batu.
+Relief Karmawibhangga menyimpan pesan moral sekaligus sisi estetika yang lahir dari cara setiap adegannya dipahat pada batu. Jika sebelumnya kita telah melihat apa saja pesan moral yang terkandung di dalamnya, sekarang kita akan membedah **bagaimana** pesan-pesan tersebut diwujudkan melalui pahatan batu.
 
-Gaya seni masa Wangsa Shailendra (abad ke-8 hingga ke-9 Masehi) bukan sekadar teknik memahat, melainkan sarana untuk menyampaikan ajaran.
+Pada masa Wangsa Shailendra (abad ke-8 hingga ke-9 Masehi), gaya seni memahat menjadi sarana untuk menyampaikan ajaran.
 
 ### 1. Karakteristik Estetika Shailendra
 
@@ -42,11 +42,11 @@ Salah satu ciri teknik pemahatan Shailendra pada Karmawibhangga adalah kemampuan
 
 ### 4. Teknik Memahat Batu Andesit
 
-Memahat di Borobudur bukanlah pekerjaan mudah. Bahan utamanya adalah **batu andesit**, sejenis batuan vulkanik yang jauh lebih keras dibandingkan marmer yang digunakan seniman Eropa seperti Michelangelo.
+Memahat di Borobudur adalah pekerjaan berat. Bahan utamanya adalah **batu andesit**, sejenis batuan vulkanik yang jauh lebih keras dibandingkan marmer yang digunakan seniman Eropa seperti Michelangelo.
 
 **Langkah-langkah Teknik Pemahatan Masa Itu:**
 
-1. **Persiapan Bidang:** Batu-batu disusun terlebih dahulu (sistem *interlocking*) sebelum dipahat. Artinya, seniman memahat di atas dinding yang sudah jadi, bukan memahat satu batu lalu menyusunnya.
+1. **Persiapan Bidang:** Batu-batu disusun terlebih dahulu (sistem *interlocking*) sebelum dipahat. Artinya, seniman memahat di atas dinding yang batu-batunya sudah tersusun.
 2. **Pembuatan Sketsa:** Menggunakan arang atau benda tajam untuk menggambar pola kasar di atas permukaan batu.
 3. **Teknik High Relief (Relief Tinggi):** Pemahat Shailendra cenderung menggunakan teknik yang membuat figur-figur menonjol cukup jauh dari latar belakangnya. Hal ini menciptakan bayangan yang kuat saat terkena sinar matahari, memberikan efek tiga dimensi.
 4. **Penghalusan:** Menggunakan batu yang lebih halus atau pasir untuk menghilangkan bekas pahatan yang kasar.
@@ -57,7 +57,7 @@ Bayangkan setiap panel relief Karmawibhangga adalah sebuah jepretan kamera pada 
 
 ### Inspirasi Desain Modern
 
-Pengetahuan tentang gaya seni Shailendra ini tidak hanya berhenti di buku sejarah. Saat ini, prinsip-prinsip tersebut diaplikasikan dalam berbagai bidang:
+Pengetahuan tentang gaya seni Shailendra ini masih hidup di luar buku sejarah. Saat ini, prinsip-prinsip tersebut diaplikasikan dalam berbagai bidang:
 
 - **Arsitektur dan Interior:** Penggunaan pola hiasan (ornamentasi) ala Borobudur pada gedung-gedung pemerintahan atau hotel berbintang untuk memberikan kesan agung dan lokal.
 - **Seni Patung Modern:** Banyak pemahat kontemporer Indonesia masih merujuk pada proporsi "tubuh luwes" Shailendra untuk menciptakan karya yang memiliki identitas keindonesiaan yang kuat.
@@ -65,6 +65,6 @@ Pengetahuan tentang gaya seni Shailendra ini tidak hanya berhenti di buku sejara
 
 ### Kesimpulan Visual
 
-Secara keseluruhan, teknik pemahatan dan gaya seni Shailendra pada Karmawibhangga adalah kombinasi antara **keterampilan teknis yang mumpuni** dan **kedalaman spiritual**. Mereka tidak hanya memahat batu; mereka memahat sebuah ajaran agar bisa dibaca orang lebih dari seribu tahun setelah pahatan itu pertama kali dibuat.
+Secara keseluruhan, teknik pemahatan dan gaya seni Shailendra pada Karmawibhangga adalah kombinasi antara **keterampilan teknis yang mumpuni** dan **kedalaman spiritual**. Lewat batu, mereka memahat sebuah ajaran agar bisa dibaca orang lebih dari seribu tahun setelah pahatan itu pertama kali dibuat.
 
 > **Pesan Utama:** Keindahan relief Borobudur terletak pada kemampuan para pemahatnya untuk membuat batu yang kaku menjadi tampak "hidup" melalui penguasaan proporsi anatomi dan ekspresi emosi yang halus.

@@ -1,8 +1,8 @@
 ## Pengantar Analisis Wacana Kritis (AWK) dalam Kriminologi
 
-Bahasa, kekuasaan, dan keadilan bertemu di satu titik setiap kali sebuah perbuatan didefinisikan sebagai kejahatan lewat susunan kata. Dalam studi kriminologi konvensional, analisis sering kali berfokus pada pertanyaan "siapa yang melakukan kejahatan?" atau "mengapa kejahatan tersebut dilakukan?". Namun, **Analisis Wacana Kritis (AWK)** (atau *Critical Discourse Analysis*, disingkat $\text{CDA}$) mengajak pemelajar untuk mundur satu langkah dan mempertanyakan: **"Bagaimana suatu perbuatan didefinisikan sebagai kejahatan melalui struktur bahasa?"**
+Bahasa, kekuasaan, dan keadilan bertemu di satu titik setiap kali sebuah perbuatan didefinisikan sebagai kejahatan lewat susunan kata. Dalam studi kriminologi konvensional, analisis sering kali berfokus pada pertanyaan "siapa yang melakukan kejahatan?" atau "mengapa kejahatan tersebut dilakukan?". Namun, **Analisis Wacana Kritis (AWK)** (atau *Critical Discourse Analysis*, disingkat $\text{CDA}$) mengajak pemelajar untuk mundur satu langkah dan bertanya **bagaimana suatu perbuatan didefinisikan sebagai kejahatan melalui struktur bahasa.**
 
-Bab ini mengajak pemelajar memahami bahwa kata-kata dalam formulasi hukum, pemberitaan kriminal di media massa, dan argumentasi di ruang sidang bukanlah alat komunikasi netral, melainkan instrumen kekuasaan yang membentuk realitas sosial dan persepsi keadilan.
+Kata-kata dalam formulasi hukum, pemberitaan kriminal di media massa, dan argumentasi di ruang sidang bekerja sebagai instrumen kekuasaan yang membentuk realitas sosial dan persepsi keadilan. Bab ini mengajak pemelajar memahami cara kerjanya.
 
 ## Apa itu Analisis Wacana Kritis (AWK)?
 
@@ -15,11 +15,11 @@ Secara konseptual, AWK adalah pendekatan interdisipliner yang mempelajari cara k
 > - **Linguistik Konvensional:** Hanya memetakan struktur gramatikal, sintaksis, dan pilihan kosakata permukaan (seperti menatap kaca jendela transparan).
 > - **AWK:** Menggunakan **kaca pembesar** untuk membedah serat-serat mikroskopis pada kaca tersebut sekaligus mengenali **filter warna** khusus yang terpasang. Filter tersebut mendikte bagaimana pembaca mengonstruksi peristiwa, menimbulkan bias emosional seperti rasa takut atau kemarahan terhadap kelompok sosial tertentu.
 
-Dalam lanskap kriminologi, AWK tidak sekadar menganalisis *apa* yang diujarkan, melainkan *siapa* yang memiliki wewenang untuk berbicara, *siapa* yang terpinggirkan dari wacana, dan *bagaimana* pembentukan diksi mampu membuat kebijakan penal yang keras tampak wajar (*taken for granted*) di mata publik.
+Dalam lanskap kriminologi, AWK menelusuri *siapa* yang memiliki wewenang untuk berbicara, *siapa* yang terpinggirkan dari wacana, dan *bagaimana* pembentukan diksi mampu membuat kebijakan penal yang keras tampak wajar (*taken for granted*) di mata publik, selain *apa* yang diujarkan.
 
 ## Akar Sejarah dan Perkembangan AWK
 
-AWK tidak muncul dalam ruang hampa epistemologis, melainkan merupakan hasil pergeseran pemikiran kritis abad ke-20 yang menggugat klaim objektivitas absolut dalam ilmu-ilmu sosial.
+AWK lahir dari pergeseran pemikiran kritis abad ke-20 yang menggugat klaim objektivitas absolut dalam ilmu-ilmu sosial.
 
 | Periode & Epistemologi | Tokoh / Mazhab Utama | Kontribusi terhadap Analisis Wacana |
 | :--- | :--- | :--- |
@@ -32,7 +32,7 @@ Perkembangan historis ini menegaskan bahwa analisis terhadap teks hukum dan nara
 
 ## Mengapa Bahasa Menjadi Instrumen Krusial dalam Kriminologi?
 
-Mungkin timbul pertanyaan dasar: *"Mengapa studi kriminologi perlu menganalisis susunan kata? Bukankah kejahatan merupakan tindakan fisik yang nyata?"*
+Mungkin timbul pertanyaan dasar. Mengapa studi kriminologi perlu menganalisis susunan kata, padahal kejahatan merupakan tindakan fisik yang nyata?
 
 Jawabannya berakar pada fakta bahwa **kejahatan adalah konstruksi sosial** (*social construction*). Suatu tindakan ditetapkan sebagai tindak pidana karena institusi sosial, melalui teks hukum dan konsensus wacana publik, memberikan pelabelan yuridis atas tindakan tersebut. 
 
@@ -58,7 +58,7 @@ Melalui wacana seperti *"War on Crime"* (Perang Melawan Kejahatan) atau *"Darura
 Dalam sistem peradilan pidana, penggunaan bahasa hukum yang sarat jargon teknis kerap mengasingkan masyarakat awam. AWK membedah bagaimana terminologi kompleks tersebut berpotensi menutupi bias kelas, ras, atau gender, sehingga putusan peradilan tampak objektif dan netral padahal mereproduksi kesenjangan sosial.
 
 > **Prinsip Utama AWK:**
-> Bahasa tidak sekadar mencerminkan realitas yang sudah ada; bahasa **membentuk dan membangun** realitas sosial itu sendiri.
+> Bahasa mencerminkan realitas yang sudah ada sekaligus **membentuk dan membangun** realitas sosial itu sendiri.
 
 ## Pilihan Diksi dalam Media Massa
 
@@ -81,7 +81,7 @@ $$
 $$
 </div>
 
-Persamaan di atas menunjukkan bahwa teks tidak pernah berdiri secara netral, melainkan selalu dipengaruhi oleh orientasi nilai dan kepentingan ideologis pembuatnya.
+Persamaan di atas menunjukkan bahwa setiap teks dipengaruhi oleh orientasi nilai dan kepentingan ideologis pembuatnya.
 
 ## Kapital Linguistik dan Akses Keadilan
 
@@ -102,7 +102,7 @@ Dalam ranah praktik penegakan hukum dan investigasi kriminal, AWK menjadi instru
 
 - **Hakikat AWK:** Analisis Wacana Kritis merupakan metodologi interdisipliner untuk mengungkap operasionalisasi kekuasaan dan dominasi di balik teks dan wacana.
 - **Akar Teoretis:** Berakar dari Teori Kritis Mazhab Frankfurt, pemikiran relasi kuasa Foucault, hingga Linguistik Kritis.
-- **Konstruksi Bahasa:** Bahasa bukanlah media netral, melainkan sarana yang membentuk definisi "kejahatan", "penjahat", dan "keadilan".
+- **Konstruksi Bahasa:** Bahasa ikut membentuk definisi "kejahatan", "penjahat", dan "keadilan".
 - **Relevansi Kriminologis:** AWK mencegah kriminologi menjadi instrumen legitimasi kekuasaan represif dan mendorong terwujudnya sistem peradilan yang emansipatoris.
 
 > *"Bahasa adalah instrumen yang sangat kuat, sebab tata bahasa mampu membuat struktur penindasan tampak sebagai ketertiban umum."*

@@ -68,7 +68,7 @@ Berangkat dari kelompok awal Freud, Alfred Adler (1870-1937) juga mengambil arah
 
 **Inferiority Feelings:** Adler menekankan bahwa manusia lahir dalam keadaan sangat bergantung. Kita kecil dan tak berdaya, sehingga otomatis memunculkan perasaan inferior. Ia menolak melihatnya sebagai patologi; perasaan inferior ini murni sebagai motor penggerak seseorang untuk mulai berjalan, belajar, dan tumbuh.
 
-**Compensation & Striving for Superiority:** Berawal dari rasa inferior, orang akan melakukan manuver kompensasi. Dorongan ini, *striving for superiority*, tidak diartikan sebagai keinginan menginjak orang lain, melainkan sifat kodrati untuk mengeksplorasi potensi dan berpindah dari kondisi tertinggal ke posisi yang lebih unggul.
+**Compensation & Striving for Superiority:** Berawal dari rasa inferior, orang akan melakukan manuver kompensasi. Dorongan ini, *striving for superiority*, adalah sifat kodrati untuk mengeksplorasi potensi dan berpindah dari kondisi tertinggal ke posisi yang lebih unggul. Adler tidak memaknainya sebagai keinginan menginjak orang lain.
 
 **Style of Life & Social Interest:** Rutinitas dan cara kita mengamankan tujuan tersebut akan membentuk gaya hidup. Namun, ambisi ini juga diseimbangkan dengan *Social interest* (*Gemeinschaftsgefühl*). Semakin kuat minat seseorang untuk hidup terhubung dan memikirkan kemaslahatan bersama, semakin sehat mental orang tersebut.
 

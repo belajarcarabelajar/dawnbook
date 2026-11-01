@@ -54,8 +54,8 @@ Bagaimana cara menerapkan pengetahuan ini secara praktis? Gunakan metode **"The 
 
 1. **Metode Observasi Diam:** Luangkan waktu 15 menit di kafe atau taman di negara baru. Jangan bermain ponsel. Amati bagaimana orang menyapa, berapa jarak antara mereka, dan seberapa banyak mereka menggerakkan tangan.
 2. **Mirroring (Penyelarasan):** Secara halus, tirulah bahasa tubuh lawan bicara kamu. Jika mereka berbicara dengan tenang dan tangan berada di bawah, jangan berbicara dengan gerakan tangan yang lebar. Ini menciptakan rasa aman secara psikologis bagi penduduk lokal.
-3. **Verifikasi Verbal:** Jika kamu ragu, gunakan kalimat terbuka: *"Saya menyadari di sini orang-orang cenderung \[X\], apakah saya melakukannya dengan benar?"*
+3. **Verifikasi Verbal:** Jika kamu ragu, gunakan kalimat terbuka seperti *"Saya menyadari di sini orang-orang cenderung \[X\], apakah saya melakukannya dengan benar?"*
 
-> **Pesan Utama:** Integrasi tidak membuatmu kehilangan jati diri, melainkan memperkaya "perbendaharaan kata" tubuh kamu. Memahami komunikasi nonverbal akan mengubah kamu dari seorang "orang asing yang aneh" menjadi "orang asing yang peka dan menghormati".
+> **Pesan Utama:** Integrasi memperkaya "perbendaharaan kata" tubuh kamu, dan jati dirimu tidak ikut hilang karenanya. Memahami komunikasi nonverbal akan mengubah kamu dari seorang "orang asing yang aneh" menjadi "orang asing yang peka dan menghormati".
 
 *Sudahkah kamu memperhatikan bagaimana cara orang-orang di sekitar kamu saat ini menggunakan tangan mereka saat berbicara? Coba amati satu hal kecil hari ini yang sebelumnya tidak pernah kamu sadari.*

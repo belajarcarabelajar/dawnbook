@@ -2,13 +2,13 @@
 
 Bayangkan kamu adalah seekor ikan yang sepanjang hidupnya berenang di air tawar yang tenang. Suatu hari, karena sebuah arus besar, kamu tiba-tiba berpindah ke air laut yang asin dan bergelombang. Kamu masih bisa berenang, tetapi "rasa" airnya berbeda, cara kamu mengapung berubah, dan makhluk di sekitar kamu tampak asing.
 
-Itulah esensi dari **Gegar Budaya** atau *Culture Shock*. Ini bukan cuma rasa rindu rumah (*homesickness*), melainkan sebuah proses psikologis saat navigasi mental kita tidak lagi berfungsi di lingkungan yang baru.
+Itulah esensi dari **Gegar Budaya** atau *Culture Shock*. Cakupannya lebih luas daripada rasa rindu rumah (*homesickness*). Gegar budaya adalah proses psikologis yang muncul saat navigasi mental kita tidak lagi berfungsi di lingkungan yang baru.
 
 ## Apa Itu Gegar Budaya?
 
 Secara teknis, **Gegar Budaya** adalah perasaan disorientasi, kecemasan, dan kebingungan yang dialami seseorang ketika mereka terpapar pada lingkungan budaya yang sangat berbeda dari lingkungan asalnya.
 
-> **Insight:** Gegar budaya terjadi karena hilangnya "tanda-tanda" (cues) sosial yang biasa kita gunakan dalam interaksi sehari-hari. Tanda-tanda ini mencakup ribuan cara kita berinteraksi: kapan harus berjabat tangan, bagaimana cara menawar di pasar, kapan harus serius, atau bagaimana cara menunjukkan rasa setuju.
+> **Insight:** Gegar budaya terjadi karena hilangnya "tanda-tanda" (cues) sosial yang biasa kita gunakan dalam interaksi sehari-hari. Tanda-tanda ini mencakup ribuan cara kita berinteraksi, misalnya kapan harus berjabat tangan, bagaimana cara menawar di pasar, kapan harus serius, atau bagaimana cara menunjukkan rasa setuju.
 
 ### Masalah Sistem Operasi
 
@@ -20,11 +20,11 @@ Istilah *Culture Shock* dipopulerkan oleh antropolog **Kalervo Oberg** pada tahu
 
 - **Tahun 1950-an:** Oberg mengamati para diplomat dan pekerja bantuan internasional. Ia melihat bahwa mereka menunjukkan gejala fisik dan emosional yang nyata saat bertugas di luar negeri.
 - **Pergeseran Pandangan:** Awalnya dianggap sebagai gangguan mental negatif, tetapi seiring berjalannya waktu, para ahli psikologi mulai melihat gegar budaya sebagai **proses transisi yang sehat dan normal**.
-- **Pentingnya Hal Ini:** Pemahaman baru ini menunjukkan bahwa ketidaknyamanan di tempat baru bukanlah tanda kelemahan karakter, melainkan respons alami otak manusia terhadap ketidakpastian.
+- **Pentingnya Hal Ini:** Pemahaman baru ini menunjukkan bahwa ketidaknyamanan di tempat baru adalah respons alami otak manusia terhadap ketidakpastian. Rasa tidak nyaman itu tidak menandakan karakter yang lemah.
 
 ## Mengapa Fenomena Ini Penting bagi Kamu?
 
-Di era globalisasi saat ini, batas-batas negara menjadi semakin tipis. Memahami gegar budaya bukan lagi sekadar pengetahuan tambahan bagi turis, melainkan keterampilan penting bagi siapa pun yang ingin sukses di tingkat internasional.
+Di era globalisasi saat ini, batas-batas negara menjadi semakin tipis. Memahami gegar budaya kini menjadi keterampilan penting bagi siapa pun yang ingin sukses di tingkat internasional.
 
 ### 1. Globalisasi dan Mobilitas Tinggi
 
@@ -66,7 +66,7 @@ Pernahkah kamu merasa tidak nyaman karena seseorang berdiri terlalu dekat atau b
 
 ## Rangkuman Awal
 
-Gegar budaya bukan cuma "kejutan" sesaat, melainkan sebuah proses emosional. Ia dimulai dari hilangnya kenyamanan terhadap hal-hal familiar dan berakhir (idealnya) pada penemuan identitas baru yang lebih luas.
+Gegar budaya adalah proses emosional yang berjalan lebih lama daripada sebuah "kejutan" sesaat. Ia dimulai dari hilangnya kenyamanan terhadap hal-hal familiar dan berakhir (idealnya) pada penemuan identitas baru yang lebih luas.
 
 **Poin Penting untuk Diingat:**
 

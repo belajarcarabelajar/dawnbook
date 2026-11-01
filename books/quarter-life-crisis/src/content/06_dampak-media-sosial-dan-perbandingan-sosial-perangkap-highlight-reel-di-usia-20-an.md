@@ -11,15 +11,15 @@ Manusia secara alami adalah makhluk sosial yang cenderung mengevaluasi dirinya d
 Ada dua jenis social comparison:
 
 1. **Upward Social Comparison:** Membandingkan diri dengan mereka yang kita anggap "lebih baik". Di media sosial, ini terjadi 24/7. Hal ini memicu perasaan tidak mampu dan rendah diri.
-2. **Downward Social Comparison:** Membandingkan diri dengan mereka yang kita anggap "kurang beruntung". Meski bisa meningkatkan rasa syukur sesaat, ini bukanlah fondasi yang sehat untuk harga diri.
+2. **Downward Social Comparison:** Membandingkan diri dengan mereka yang kita anggap "kurang beruntung". Meski bisa meningkatkan rasa syukur sesaat, perbandingan ini tidak sehat untuk dijadikan fondasi harga diri.
 
 **Analogi On-Stage vs. Backstage**
 
-> Bayangkan hidupmu adalah sebuah teater. Kamu sangat memahami kekacauan di **backstage** kamu: kabel yang berantakan, aktor yang lupa naskah, dan kostum yang robek. Namun, saat kamu melihat media sosial orang lain, kamu hanya melihat **pertunjukan on-stage** mereka yang sudah dipoles, diberi pencahayaan sempurna, dan dilatih berbulan-bulan. Menilai backstage-mu dengan pertunjukan on-stage orang lain adalah perbandingan yang tidak adil.
+> Bayangkan hidupmu adalah sebuah teater. Kamu sangat memahami kekacauan di **backstage** kamu, mulai dari kabel yang berantakan, aktor yang lupa naskah, sampai kostum yang robek. Namun, saat kamu melihat media sosial orang lain, kamu hanya melihat **pertunjukan on-stage** mereka yang sudah dipoles, diberi pencahayaan sempurna, dan dilatih berbulan-bulan. Menilai backstage-mu dengan pertunjukan on-stage orang lain adalah perbandingan yang tidak adil.
 
 ### 2\. Memahami Fenomena FOMO (Fear of Missing Out)
 
-**FOMO** adalah kecemasan sosial nyata ketika seseorang merasa orang lain sedang bersenang-senang tanpa dirinya, lebih dari sekadar istilah gaul biasa.
+**FOMO** adalah kecemasan sosial nyata ketika seseorang merasa orang lain sedang bersenang-senang tanpa dirinya.
 
 Dalam konteks *Quarter-Life Crisis*, FOMO berwujud sebagai **Existential FOMO**, melampaui ketakutan sederhana seperti melewatkan pesta di akhir pekan:
 
@@ -39,10 +39,10 @@ Semakin tinggi ekspektasi yang kita bangun dari melihat kurasi kehidupan orang l
 
 ### 3\. Digital Curation dan Reality Distortion
 
-Media sosial adalah platform **curation**, bukan dokumentasi. Pengguna secara selektif memilih momen terbaik untuk ditampilkan. Hal ini menciptakan distorsi yang disebut sebagai *Availability Bias*, kecenderungan otak kita untuk menganggap informasi yang paling mudah diingat (foto liburan mewah, berita sukses) sebagai gambaran umum dari realitas.
+Media sosial adalah platform **curation**. Pengguna secara selektif memilih momen terbaik untuk ditampilkan. Hal ini menciptakan distorsi yang disebut sebagai *Availability Bias*, kecenderungan otak kita untuk menganggap informasi yang paling mudah diingat (foto liburan mewah, berita sukses) sebagai gambaran umum dari realitas.
 
 - **Validation Algorithm:** Kita mengejar *likes* dan *comments* sebagai indikator kesuksesan sosial. Saat angka tersebut rendah, kita merasa nilai diri kita juga rendah.
-- **Filter dan Edit:** Penggunaan filter tidak hanya pada wajah, tetapi juga pada narasi hidup. Kegagalan jarang sekali "diposting", sehingga dunia digital tampak seperti kompetisi untuk menjadi sempurna.
+- **Filter dan Edit:** Filter dipakai pada wajah, dan juga pada narasi hidup. Kegagalan jarang sekali "diposting", sehingga dunia digital tampak seperti kompetisi untuk menjadi sempurna.
 
 *Coba ingat-ingat kembali unggahan terakhir kamu. Apakah kamu menampilkan kesulitan yang kamu alami saat mengambil foto tersebut, atau hanya hasil akhirnya yang tampak sempurna? Jika kamu hanya menampilkan hasil akhirnya, kemungkinan besar orang lain juga melakukan hal yang sama.*
 
@@ -62,7 +62,7 @@ Bagaimana cara kita memutus rantai social comparison yang merusak ini? Berikut a
 
 #### A. Digital Hygiene
 
-- **Unfollow/Mute yang Memicu Insecurity:** Jika akun tertentu membuat kamu merasa buruk tentang diri sendiri (meskipun itu temanmu), gunakan fitur *mute*. Hal ini bertujuan melindungi diri, bukan karena kebencian.
+- **Unfollow/Mute yang Memicu Insecurity:** Jika akun tertentu membuat kamu merasa buruk tentang diri sendiri (meskipun itu temanmu), gunakan fitur *mute*. Langkah ini untuk melindungi dirimu, tanpa perlu ada rasa benci.
 - **Batasi Waktu Penggunaan:** Gunakan fitur *Screen Time* pada ponselmu. Fokuslah pada interaksi aktif, kurangi scrolling pasif.
 
 #### B. Mengubah Perspektif Social Comparison
@@ -82,6 +82,6 @@ Media sosial adalah alat, tetapi di usia 20-an, alat ini sering kali menjadi cer
 
 **Penting:**
 
-> Self-worth-mu ($\text{Self-Worth}$) tidak ditentukan oleh algoritma, jumlah pengikut, atau seberapa estetis unggahanmu. Self-worth-mu bersifat intrinsik dan tetap ada, bahkan saat ponselmu dalam keadaan mati.
+> Self-worth-mu ($\text{Self-Worth}$) bersifat intrinsik dan tetap ada, bahkan saat ponselmu dalam keadaan mati. Algoritma, jumlah pengikut, atau seberapa estetis unggahanmu tidak ikut menentukannya.
 
 *Langkah selanjutnya dalam perjalanan ini adalah memahami bagaimana tekanan sosial ini sering kali berkaitan erat dengan ketidakpastian finansial, yang akan kita bahas di bagian berikutnya.*

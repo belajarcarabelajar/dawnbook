@@ -50,7 +50,7 @@ Waspadai juga efek bunga majemuk. Kalau cicilan menunggak, bunganya akan dihitun
 Saat kamu tidak sanggup membayar cicilan tepat waktu, bersiaplah menghadapi rentetan masalah:
 
 * **Denda Menumpuk:** Bakal ada biaya penalti atau denda keterlambatan yang otomatis menambah beban utang.
-* **Skor Kredit Anjlok:** Tunggakanmu tercatat di SLIK OJK (dulu dikenal sebagai BI Checking). OJK menegaskan SLIK bukan daftar hitam, tapi lembaga keuangan bisa memakai catatan itu saat menilai pengajuanmu, jadi ke depannya bisa sulit kalau butuh pinjaman KPR atau modal usaha.
+* **Skor Kredit Anjlok:** Tunggakanmu tercatat di SLIK OJK (dulu dikenal sebagai BI Checking). OJK menegaskan SLIK bukan daftar hitam. Catatan itu bisa dipakai lembaga keuangan saat menilai pengajuanmu, jadi ke depannya bisa sulit kalau butuh pinjaman KPR atau modal usaha.
 * **Risiko Sita Aset:** Kredit beragun seperti KPR atau cicilan mobil berisiko tinggi ditarik paksa kalau pembayaran macet parah.
 * **Jalur Hukum:** Pihak bank berhak menyeret masalah ini ke ranah hukum.
 
@@ -64,7 +64,7 @@ Bahaya terbesar muncul saat kamu harus cari pinjaman baru buat menambal cicilan 
 
 ## 3. Strategi Efektif Mengurangi Beban Utang
 
-Butuh disiplin buat melunasi kewajiban finansial. Ini beberapa langkah praktis yang bisa kamu terapkan:
+Butuh disiplin buat melunasi kewajiban finansial. Ini beberapa langkah praktis yang bisa kamu terapkan.
 
 ### 3.1 Petakan Semua Utangmu
 
@@ -86,7 +86,7 @@ Urutkan utang dari nominal paling kecil. Bayar sebatas minimum untuk semua tagih
 
 **Metode Longsoran (Debt Avalanche)**
 Fokus cara ini adalah menekan kerugian dari bunga yang membengkak.
-Urutkan dari yang bunganya paling tinggi (misal: kartu kredit atau pinjol). Lunasi secepat mungkin utang berbunga paling tinggi ini. Tagihan lain cukup bayar minimumnya dulu. Pendekatan ini bikin kamu hemat duit bunga dalam jangka panjang.
+Urutkan dari yang bunganya paling tinggi (misalnya kartu kredit atau pinjol). Lunasi secepat mungkin utang berbunga paling tinggi ini. Tagihan lain cukup bayar minimumnya dulu. Pendekatan ini bikin kamu hemat duit bunga dalam jangka panjang.
 
 ### 3.3 Beranikan Diri Restrukturisasi
 
@@ -97,7 +97,7 @@ Mentok bayar cicilan? Datangi bank atau krediturmu dan minta keringanan (restruk
 
 ### 3.4 Konsolidasi Utang
 
-Kalau punya banyak cicilan tercecer, kamu bisa menyatukannya jadi satu pinjaman tunggal. Syarat utamanya: pastikan bunga pinjaman baru ini jauh lebih rendah dari bunga gabungan utang lamamu. Ingat, konsolidasi ini bukan alasan buat nambah utang baru.
+Kalau punya banyak cicilan tercecer, kamu bisa menyatukannya jadi satu pinjaman tunggal. Pastikan bunga pinjaman baru ini jauh lebih rendah dari bunga gabungan utang lamamu, karena itulah syarat utamanya. Ingat juga, jangan jadikan konsolidasi ini alasan buat nambah utang baru.
 
 ### 3.5 Pangkas Pengeluaran, Tambah Penghasilan
 
@@ -111,7 +111,7 @@ Tidak mau terjeblos di lubang yang sama? Ikuti prinsip berikut:
 * **Teliti Dulu Sebelum Tanda Tangan:** Baca betul klausul soal penalti dan denda keterlambatan. Banyak jebakan tersembunyi di kontrak berhuruf kecil.
 * **Coret Pinjol Ilegal:** Pinjamlah hanya dari institusi resmi terdaftar di OJK. Jangan pernah berurusan dengan rentenir online yang gampang mencairkan uang tapi merampas data pribadimu.
 * **Setop "Gali Lubang":** Tambal utang pakai utang baru itu ibarat minum air laut saat haus. Semakin diteguk, semakin menyiksa.
-* **Tahan Diri untuk Keinginan:** Kalau barangnya cuma "lucu" atau "sedang tren", tundalah membelinya. Belanjalah dengan uang yang sudah ada di dompet, bukan menggesek limit paylater.
+* **Tahan Diri untuk Keinginan:** Kalau barangnya cuma "lucu" atau "sedang tren", tundalah membelinya. Belanjalah dengan uang yang sudah ada di dompet, dan biarkan limit paylater tak tersentuh.
 * **Siapkan Dana Darurat:** Punya tabungan darurat membuatmu tenang. Saat ada kondisi mendadak seperti sakit atau atap rumah bocor, kamu tidak langsung lari cari pinjaman.
 
 ## 5. Membangun Kebiasaan Finansial yang Bertanggung Jawab
@@ -120,7 +120,7 @@ Manajemen utang bertumpu pada rutinitas dan pengendalian diri.
 
 * **Pegang Kendali Anggaran:** Biasakan membuat pos-pos pengeluaran setiap awal bulan. Sisihkan langsung persentase tertentu buat melunasi cicilan.
 * **Jangan Cuma Bayar Minimum:** Kalau ada rezeki nomplok, setorkan buat menekan jumlah utang pokok. Bayar minimum cuma bikin senang pihak bank.
-* **Ukur Diri Sebelum Mengambil Kredit:** Sebelum apply cicilan baru, tanya diri sendiri: Mampukah saya bayar bulanannya tanpa mengorbankan porsi beras dan token listrik?
+* **Ukur Diri Sebelum Mengambil Kredit:** Sebelum apply cicilan baru, tanya diri sendiri, mampukah saya bayar bulanannya tanpa mengorbankan porsi beras dan token listrik?
 * **Terus Melek Finansial:** Ilmu keuangan pribadi itu akan selalu berkembang. Jangan malas mencari referensi soal cara mengelola dompet.
 
-Punya utang itu wajar dan bukan aib. Cara kamu menyikapinya yang membedakan apakah finansialmu aman atau bermasalah. Dikelola dengan benar, utang malah bisa mempercepat pencapaian aset finansialmu.
+Punya utang itu wajar. Cara kamu menyikapinya yang membedakan apakah finansialmu aman atau bermasalah. Dikelola dengan benar, utang malah bisa mempercepat pencapaian aset finansialmu.

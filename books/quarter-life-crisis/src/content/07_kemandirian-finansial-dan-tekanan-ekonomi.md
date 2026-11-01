@@ -38,12 +38,12 @@ Tidak semua utang itu buruk, namun dalam *Quarter-Life Crisis*, banyak yang terj
 
 - **Paylater & Pinjol (Pinjaman Online):** Kemudahan akses membuat banyak individu terjebak dalam bunga majemuk yang memberatkan.
 	- *Rumus Bunga Majemuk:* $A = P(1 + r)^n$
-		- Artinya, jika kamu menunda pembayaran, utangmu tumbuh secara eksponensial, bukan linear.
+		- Artinya, jika kamu menunda pembayaran, utangmu tumbuh secara eksponensial.
 - **Studi Kasus Singkat:** Rina (24 tahun) menggunakan fitur *Paylater* untuk membeli ponsel baru seharga Rp10.000.000 dengan bunga 3% per bulan. Jika ia hanya membayar minimum, dalam satu tahun ia bisa membayar hampir 1,5 kali lipat dari harga asli. Tekanan untuk melunasi ini sering kali memicu kecemasan setiap kali notifikasi jatuh tempo muncul.
 
 ## 3. "Money Anxiety" dan Ketidakpastian Global
 
-Tekanan ekonomi berdampak langsung pada beban mental, bukan hanya terlihat dari angka saldo di layar ATM. Stres psikologis muncul dari rasa tidak aman (*insecurity*) terhadap masa depan.
+Tekanan ekonomi tampak pada angka saldo di layar ATM, dan dampaknya langsung terasa pada beban mental. Stres psikologis muncul dari rasa tidak aman (*insecurity*) terhadap masa depan.
 
 **Tanda-Tanda Stres Ekonomi:**
 
@@ -80,7 +80,7 @@ Jika kamu merasa 50% tidak cukup untuk kebutuhan, mampukah kamu menekan bagian '
 
 ### B. Membangun Dana Darurat (Emergency Fund)
 
-Target awal bukanlah kekayaan, melainkan **ketenangan pikiran**. Memiliki dana darurat setara 3 bulan biaya hidup dapat menurunkan tingkat stres secara nyata saat menghadapi ketidakpastian ekonomi global.
+Target awalnya adalah **ketenangan pikiran**. Memiliki dana darurat setara 3 bulan biaya hidup dapat menurunkan tingkat stres secara nyata saat menghadapi ketidakpastian ekonomi global.
 
 ### C. Literasi Investasi
 
@@ -104,8 +104,8 @@ Jumlah itu hanya untuk mempertahankan standar hidup yang **sama**.
 2. **Negosiasi Gaji/Cari Side Hustle:** Karena biaya hidup naik secara matematis, pendapatan kamu juga harus tumbuh setidaknya secepat laju inflasi.
 3. **Financial Fasting:** Tetapkan satu minggu dalam sebulan ketika kamu hanya mengeluarkan uang untuk hal-hal yang benar-benar esensial.
 
-## Mandiri Bukan Berarti Sendirian
+## Mandiri Tanpa Harus Sendirian
 
-Kemandirian finansial di masa *Quarter-Life Crisis* bukan soal menjadi kaya dalam semalam, tetapi tentang keberanian **mengambil kendali atas hidupmu**. Tekanan ekonomi memang nyata dan sering kali tidak adil secara sistemik, tetapi dengan pemahaman yang baik tentang arus kas dan pengelolaan mental yang sehat, kamu bisa melewati fase ini dengan lebih tangguh.
+Kemandirian finansial di masa *Quarter-Life Crisis* berarti keberanian **mengambil kendali atas hidupmu**. Menjadi kaya dalam semalam tidak perlu kamu jadikan ukurannya. Tekanan ekonomi memang nyata dan sering kali tidak adil secara sistemik, tetapi dengan pemahaman yang baik tentang arus kas dan pengelolaan mental yang sehat, kamu bisa melewati fase ini dengan lebih tangguh.
 
 *Refleksi: Apa satu pengeluaran kecil yang jika kamu hentikan hari ini, akan memberikan rasa lega secara psikologis karena kamu merasa memegang kendali kembali?*

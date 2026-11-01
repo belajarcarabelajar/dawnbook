@@ -25,7 +25,7 @@ Selain tokoh utama, kehadiran tokoh pendukung dalam novel *9 Summers 10 Autumns*
 3. **Rini Agustina**
    Adik perempuan Iwan yang sangat terampil, rajin, dan tekun dalam membantu pekerjaan rumah tangga serta mencari nafkah:
    
-   Di SD Ngaglik I, tempat ia menjadi adik kelas Iwan, Rini lebih menyukai pelajaran keterampilan: menyulam, membuat boneka gajah dari kapas, atau membuat durian dari bola plastik. Tangannya begitu terampil (Hlm. 50).
+   Di SD Ngaglik I, tempat ia menjadi adik kelas Iwan, Rini lebih menyukai pelajaran keterampilan, seperti menyulam, membuat boneka gajah dari kapas, atau membuat durian dari bola plastik. Tangannya begitu terampil (Hlm. 50).
 
    Hari-hari Rini diisi alat dapur, buku pasien, sapu, dan kain pel. Ia selalu bangun pagi dan naik angkot oranye ke Desa Junggo, dan ketekunannya mencari uang melelehkan hati seluruh keluarga. Dalam kata-kata Iwan, “Keringatnya menetes di atas atap rumah mungilku” (Hlm. 51).
 
@@ -43,7 +43,7 @@ Selain tokoh utama, kehadiran tokoh pendukung dalam novel *9 Summers 10 Autumns*
 
 ### Peran Lingkungan Akademik dan Kerja
 
-Analisis peran sosial menunjukkan bahwa tokoh pendukung seperti para dosen di IPB dan rekan kerja di Jakarta (misalnya Mas Mul) tidak sekadar menjadi pelengkap cerita. Mereka bertindak sebagai jembatan transisi sosial (*social facilitators*) yang membantu Iwan keluar dari mentalitas minder anak daerah. Interaksi sosial dengan Audrey seusai yoga dan dalam perbincangan di West Village, misalnya, membantu mengekspresikan sisi humanis dan pencarian spiritual Iwan di tengah tekanan kerja korporat Amerika Serikat.
+Analisis peran sosial menunjukkan bahwa tokoh pendukung seperti para dosen di IPB dan rekan kerja di Jakarta (misalnya Mas Mul) bertindak sebagai jembatan transisi sosial (*social facilitators*) yang membantu Iwan keluar dari mentalitas minder anak daerah. Interaksi sosial dengan Audrey seusai yoga dan dalam perbincangan di West Village, misalnya, membantu mengekspresikan sisi humanis dan pencarian spiritual Iwan di tengah tekanan kerja korporat Amerika Serikat.
 
 ### Watak Tokoh dan Latar Cerita
 

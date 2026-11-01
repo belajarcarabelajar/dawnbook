@@ -1,10 +1,10 @@
 ## Nukleus Vestibularis sebagai Pusat Integrasi Sensorimotor
 
-Bayangkan saat kita sedang berada di dalam kereta api yang mulai bergerak perlahan. Mata melihat peron stasiun menjauh, telinga dalam merasakan percepatan halus, dan otot-otot kaki menyesuaikan ketegangan agar tubuh tetap seimbang. Bagaimana otak mengetahui bahwa tubuh yang bergerak, dan bukan stasiunnya yang bergeser?
+Bayangkan saat kita sedang berada di dalam kereta api yang mulai bergerak perlahan. Mata melihat peron stasiun menjauh, telinga dalam merasakan percepatan halus, dan otot-otot kaki menyesuaikan ketegangan agar tubuh tetap seimbang. Bagaimana otak mengetahui bahwa tubuhlah yang bergerak sementara stasiunnya diam?
 
-Jawabannya terletak pada sebuah pusat kendali lalu lintas di batang otak: **Nukleus Vestibularis**.
+Jawabannya terletak pada **Nukleus Vestibularis**, sebuah pusat kendali lalu lintas di batang otak.
 
-Nukleus vestibularis bukan sekadar stasiun pengulang (*relay station*) yang meneruskan sinyal dari telinga dalam ke otak. Struktur ini berfungsi sebagai prosesor komputasi biologis yang mengintegrasikan informasi dari berbagai modalitas sensorik untuk menciptakan gambaran akurat tentang posisi dan gerakan tubuh di ruang tiga dimensi.
+Nukleus vestibularis memang meneruskan sinyal dari telinga dalam ke otak, seperti stasiun pengulang (*relay station*). Di sana sinyal itu juga diolah, karena struktur ini berfungsi sebagai prosesor komputasi biologis yang mengintegrasikan informasi dari berbagai modalitas sensorik untuk menciptakan gambaran akurat tentang posisi dan gerakan tubuh di ruang tiga dimensi.
 
 ### 1. Anatomi dan Topografi
 
@@ -15,7 +15,7 @@ Nukleus vestibularis terletak di bagian bawah pons dan bagian atas medulla oblon
 3. **Nukleus Vestibularis Lateralis (Deiters):** Berisi neuron-neuron raksasa yang memproyeksikan akson ke sumsum tulang belakang untuk menjaga postur tubuh melalui Refleks Vestibulo-Spinal (VSR).
 4. **Nukleus Vestibularis Inferior (Roller):** Berfungsi sebagai integrator utama antara organ vestibular, serebelum (otak kecil), dan formasi retikular.
 
-> **Analogi:** Bayangkan Nukleus Vestibularis sebagai **Menara Pengawas Bandara**. Struktur ini tidak hanya menerima laporan dari pilot (organ telinga dalam), melainkan juga memantau radar (sistem visual) dan kondisi landasan (sensor proprioseptif tubuh) sebelum memberikan instruksi terkoordinasi bagi pendaratan.
+> **Analogi:** Bayangkan Nukleus Vestibularis sebagai **Menara Pengawas Bandara**. Struktur ini menerima laporan dari pilot (organ telinga dalam), memantau radar (sistem visual), dan memeriksa kondisi landasan (sensor proprioseptif tubuh) sebelum memberikan instruksi terkoordinasi bagi pendaratan.
 
 ### 2. Integrasi Multisensorik Tiga Jalur
 
@@ -38,7 +38,7 @@ Sensor mekanis pada otot leher, tendon, dan persendian menyampaikan informasi me
 
 ### 3. Komputasi Neural dan Komunikasi Komisural
 
-Kompleks nukleus vestibularis di belahan otak kiri dan kanan tidak beroperasi secara terisolasi. Keduanya terhubung erat melalui serabut **komisural**.
+Kompleks nukleus vestibularis di belahan otak kiri dan kanan terhubung erat melalui serabut **komisural**.
 
 Sistem ini menerapkan prinsip **inhibisi timbal balik** (*reciprocal inhibition*). Ketika kepala menoleh ke kiri, nukleus vestibularis kiri mengalami peningkatan frekuensi penembakan impuls (eksitasi), sekaligus mengirimkan sinyal inhibisi untuk menekan aktivitas nukleus vestibularis kanan.
 

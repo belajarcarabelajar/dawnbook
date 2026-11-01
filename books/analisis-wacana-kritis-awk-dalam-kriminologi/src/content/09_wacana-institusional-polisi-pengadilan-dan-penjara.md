@@ -1,6 +1,6 @@
 ## Wacana Institusional Polisi, Pengadilan, dan Penjara
 
-Bahasa dalam kriminologi bukan sekadar alat komunikasi, melainkan instrumen kekuasaan. Di balik tumpukan dokumen birokrasi, terdapat mekanisme yang menjaga otoritas negara serta menentukan pihak yang bebas dan yang ditahan. Institusi penegak hukum memanfaatkan wacana kebahasaan untuk mengonstruksi kekuasaan birokratis.
+Dalam kriminologi, bahasa bekerja sebagai instrumen kekuasaan. Di balik tumpukan dokumen birokrasi, terdapat mekanisme yang menjaga otoritas negara serta menentukan pihak yang bebas dan yang ditahan. Institusi penegak hukum memanfaatkan wacana kebahasaan untuk mengonstruksi kekuasaan birokratis.
 
 ### 1. Bahasa yang Memisahkan Pemegang Otoritas
 
@@ -16,7 +16,7 @@ Di kepolisian, wacana sering kali dikemas dalam bentuk Laporan Polisi, Berita Ac
 
 - **Penggunaan Kalimat Pasif:** Polisi sering menggunakan konstruksi kalimat pasif untuk mengaburkan aktor penindak atau menghilangkan tanggung jawab personal.
   - *Contoh:* "Tersangka berhasil dilumpuhkan" terdengar lebih objektif dan impersonal dibandingkan "Petugas memukul tersangka hingga jatuh."
-- **Kategorisasi dan Labeling:** Penggunaan label teknis seperti "Residivis", "Pelaku Curas", atau "Oknum". Label ini bukan sekadar deskripsi, melainkan mekanisme untuk menentukan tindakan yang akan diterapkan oleh sistem.
+- **Kategorisasi dan Labeling:** Penggunaan label teknis seperti "Residivis", "Pelaku Curas", atau "Oknum". Label ini berfungsi sebagai mekanisme untuk menentukan tindakan yang akan diterapkan oleh sistem.
 - **Dehumanisasi melalui Jargon:** Mengubah tragedi kemanusiaan menjadi kode-kode birokrasi. Kejadian kekerasan fisik sering kali diubah rumusan teksnya menjadi "gangguan kamtibmas" (keamanan dan ketertiban masyarakat).
 
 > **Pesan Kunci:** Penggunaan bahasa yang teknis dan dingin ini berfungsi melepaskan beban emosional dari petugas dan membuat tindakan kekerasan negara terlihat sebagai prosedur standar yang legal.
@@ -42,7 +42,7 @@ Di balik lembaga pemasyarakatan, bahasa berfungsi mendisiplinkan dan menormalisa
 
 Perubahan istilah dari "Penjara" menjadi "Lembaga Pemasyarakatan" (Lapas) serta dari "Narapidana" menjadi "Warga Binaan Pemasyarakatan" (WBP) merupakan bentuk **eufemisme ideologis**.
 
-- **Tujuan Institusional:** Membangun citra bahwa lembaga bersifat mendidik dan merehabilitasi (rehabilitatif), bukan sekadar menghukum (retributif).
+- **Tujuan Institusional:** Membangun citra bahwa lembaga itu mendidik dan merehabilitasi (rehabilitatif) di samping menghukum (retributif).
 - **Perspektif AWK:** Analisis Wacana Kritis mempertanyakan apakah perubahan peristilahan ini berbanding lurus dengan perubahan substansi perlakuan, ataukah sebatas cara halus untuk menjustifikasi kontrol total negara terhadap individu.
 
 #### Bahasa Kontrol Internal
@@ -115,6 +115,6 @@ Dalam praktik investigasi kriminologi, ahli linguistik forensik menganalisis ber
 
 ### Inti Pembahasan Wacana Institusional
 
-Wacana institusional dan linguistik forensik dalam kriminologi membuktikan bahwa bahasa bukan sekadar sarana penyampaian pesan. Bahasa adalah tempat kekuasaan diperebutkan, alat bukti ilmiah, sekaligus cermin dari relasi otoritas negara terhadap masyarakat. Melalui Analisis Wacana Kritis, ketidakadilan yang terselubung di balik bahasa formal birokrasi dapat diurai dan dikritik secara objektif.
+Wacana institusional dan linguistik forensik dalam kriminologi membuktikan bahwa bahasa adalah tempat kekuasaan diperebutkan, alat bukti ilmiah, sekaligus cermin dari relasi otoritas negara terhadap masyarakat. Melalui Analisis Wacana Kritis, ketidakadilan yang terselubung di balik bahasa formal birokrasi dapat diurai dan dikritik secara objektif.
 
 > **Insight:** "Kekuasaan yang paling efektif adalah kekuasaan yang membuat masyarakat tidak sadar bahwa mereka sedang dikendalikan, semata-mata karena bahasa yang digunakan telah dianggap wajar dan memang sudah seharusnya demikian."

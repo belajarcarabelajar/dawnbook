@@ -4,7 +4,7 @@ Penipuan keuangan di era digital bisa menimpa siapa saja. Modus penipuan terus b
 
 ## Mengapa Perlu Waspada terhadap Penipuan Keuangan?
 
-Literasi keuangan yang baik bukan cuma soal mengatur uang. Kamu juga harus bisa melindungi aset dan data pribadi.
+Literasi keuangan yang baik juga mencakup kemampuan melindungi aset dan data pribadi.
 
 Penipuan bisa menguras isi rekening, memicu stres, dan merusak nama baik. Kalau kamu sudah paham cara kerja penipu, kamu bisa lebih mudah melindungi diri.
 
@@ -39,7 +39,7 @@ Pelaku mendekati korban lewat aplikasi kencan atau media sosial, membangun hubun
 
 ### 4. Undian dan Hadiah Palsu
 
-Kamu tiba-tiba dikabari menang undian mobil atau uang tunai, padahal tidak pernah ikut kompetisi apa pun. Syarat klaimnya: kamu disuruh transfer "pajak pemenang" atau "biaya administrasi" lebih dulu. Ingat, undian resmi tidak memungut biaya di depan.
+Kamu tiba-tiba dikabari menang undian mobil atau uang tunai, padahal tidak pernah ikut kompetisi apa pun. Untuk mengklaimnya, kamu disuruh transfer "pajak pemenang" atau "biaya administrasi" lebih dulu. Ingat, undian resmi tidak memungut biaya di depan.
 
 ### 5. Toko Online Fiktif
 

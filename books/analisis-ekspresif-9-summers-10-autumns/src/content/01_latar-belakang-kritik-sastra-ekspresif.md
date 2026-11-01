@@ -4,7 +4,7 @@ Karya sastra lahir dari persilangan antara imajinasi kreatif dan realitas hidup 
 
 ### Latar Belakang Kritik Sastra dan Realitas Sosial
 
-Karya sastra pada dasarnya adalah ungkapan keadaan realitas secara khayal atau fiksi yang mencerminkan kehidupan masyarakat berdasarkan kenyataan sosial (Kusuma dkk., 2025). Sebuah karya fiksi tidak lahir dari kekosongan budaya, melainkan membawa serta nilai-nilai, ideologi, dan moral yang dianut oleh masyarakat penciptanya.
+Karya sastra pada dasarnya adalah ungkapan keadaan realitas secara khayal atau fiksi yang mencerminkan kehidupan masyarakat berdasarkan kenyataan sosial (Kusuma dkk., 2025). Sebuah karya fiksi membawa serta nilai-nilai, ideologi, dan moral yang dianut oleh masyarakat penciptanya.
 
 Dalam konteks kritik sastra, karya fiksi dapat menjadi cermin sosiologis:
 *   **Cerminan Budaya**: Karya sastra memotret kebiasaan, norma, dan tata nilai masyarakat pada masanya.
@@ -27,7 +27,7 @@ Melalui lensa ekspresif, novel *9 Summers 10 Autumns* berfungsi sebagai media ka
 
 ### Membandingkan Biografi dan Fiksi
 
-Jika kita membandingkan data biografi asli Iwan Setyawan dengan representasi fiksi dalam bab-bab awal novel, kita dapat mengidentifikasi bagaimana penulis memproyeksikan memori masa kecilnya di Batu secara langsung ke dalam teks. Batu yang dingin dan agraris dikonstruksikan tidak hanya sebagai koordinat geografis, melainkan sebagai metafora bagi kehangatan batin keluarga yang melindungi mereka dari kemiskinan ekonomi. Kontras biografis ini terlihat jelas ketika kita membandingkannya dengan novel otobiografis lain seperti *Laskar Pelangi* karya Andrea Hirata, tempat kemiskinan Belitung digambarkan lewat perjuangan kolektif di sekolah dasar yang reyot, sedangkan dalam *9 Summers 10 Autumns*, perjuangan Iwan lebih difokuskan pada dinamika domestik rumah mungilnya.
+Jika kita membandingkan data biografi asli Iwan Setyawan dengan representasi fiksi dalam bab-bab awal novel, kita dapat mengidentifikasi bagaimana penulis memproyeksikan memori masa kecilnya di Batu secara langsung ke dalam teks. Batu yang dingin dan agraris juga dikonstruksikan sebagai metafora bagi kehangatan batin keluarga yang melindungi mereka dari kemiskinan ekonomi. Kontras biografis ini terlihat jelas ketika kita membandingkannya dengan novel otobiografis lain seperti *Laskar Pelangi* karya Andrea Hirata, tempat kemiskinan Belitung digambarkan lewat perjuangan kolektif di sekolah dasar yang reyot, sedangkan dalam *9 Summers 10 Autumns*, perjuangan Iwan lebih difokuskan pada dinamika domestik rumah mungilnya.
 
 ### Batas Antara Penulis dan Karya
 

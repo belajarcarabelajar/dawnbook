@@ -2,7 +2,7 @@
 
 Di antara panel Karmawibhangga, ada deretan adegan pembunuhan, pencurian, dan fitnah yang disusul gambaran penderitaan pelakunya. Jika pada bagian sebelumnya kita telah memahami filosofi hukum karma, kini saatnya kita melihat bagaimana hukum tersebut "divisualisasikan" secara konkret oleh para pemahat Borobudur pada abad ke-8.
 
-Relief-relief ini bukan sekadar gambar mati; mereka adalah peringatan bahwa setiap tindakan negatif, sekecil apa pun, akan kembali kepada pelakunya.
+Relief-relief ini adalah peringatan bahwa setiap tindakan negatif, sekecil apa pun, akan kembali kepada pelakunya.
 
 ## Sebab di Kiri, Akibat di Kanan
 
@@ -11,7 +11,7 @@ Sebelum kita membedah panel-panel tertentu, penting untuk memahami "bahasa visua
 1. **Bagian Kiri/Tengah Panel:** Menggambarkan tindakan atau perilaku buruk (*Akusala Karma*) yang sedang dilakukan oleh manusia di dunia.
 2. **Bagian Kanan Panel:** Menggambarkan konsekuensi atau penderitaan (*Vipaka*) yang diterima, baik di kehidupan sekarang maupun di alam-alam penderitaan (neraka/niraya).
 
-> **Insight Penting:** Hubungan sebab-akibat ini digambarkan secara linear. Para pemahat ingin menunjukkan bahwa penderitaan bukanlah hukuman dari "Tuhan" atau entitas luar, melainkan hasil otomatis dari benih yang ditanam sendiri.
+> **Insight Penting:** Hubungan sebab-akibat ini digambarkan secara linear. Para pemahat ingin menunjukkan bahwa penderitaan adalah hasil otomatis dari benih yang ditanam sendiri. "Tuhan" atau entitas luar tidak berperan sebagai penghukum di sini.
 
 ## 1. Pembunuhan dan Kekejaman terhadap Makhluk Hidup
 
@@ -37,7 +37,7 @@ Pencurian (*Adinnadana*) atau mengambil apa yang tidak diberikan juga mendapat p
 
 ## 3. Fitnah dan Kata-kata Kasar
 
-Tidak hanya tindakan fisik, Karmawibhangga juga menyoroti perilaku verbal. Ucapan yang memecah belah atau menyakitkan hati digambarkan memiliki dampak yang pedih.
+Selain tindakan fisik, Karmawibhangga menyoroti perilaku verbal. Ucapan yang memecah belah atau menyakitkan hati digambarkan memiliki dampak yang pedih.
 
 - **Tindakan:** Panel menunjukkan dua orang yang sedang berbisik-bisik (memfitnah) atau seseorang yang berteriak dengan wajah penuh kemarahan kepada orang lain.
 - **Konsekuensi:** Di sisi kanan, mereka digambarkan terlahir dengan cacat fisik pada bagian mulut, atau berada di alam penderitaan tempat lidah mereka disiksa. Secara simbolis, ini melambangkan hilangnya kekuatan kata-kata mereka; tidak ada lagi yang percaya pada mereka.
@@ -74,6 +74,6 @@ Meskipun relief ini dipahat 1.200 tahun lalu, pesannya tetap relevan di era digi
 2. **Eksploitasi Alam sebagai "Pembunuhan":** Kekejaman terhadap hewan dan perusakan lingkungan dapat berujung pada bencana alam dan kelangkaan sumber daya.
 3. **Integritas Bisnis:** Menipu dalam timbangan di masa lalu sama dengan korupsi atau manipulasi data di masa kini. Keduanya menciptakan ketidakstabilan ekonomi yang pada akhirnya merugikan pelakunya.
 
-> **Pesan Utama:** Penderitaan bukanlah nasib sial yang jatuh dari langit, melainkan "panen" dari apa yang kita tanam di masa lalu. Dengan melihat kengerian di panel-panel ini, kita diajak untuk berhenti menanam benih penderitaan sekarang juga.
+> **Pesan Utama:** Penderitaan adalah "panen" dari apa yang kita tanam di masa lalu. Dengan melihat kengerian di panel-panel ini, kita diajak untuk berhenti menanam benih penderitaan sekarang juga.
 
-*Setelah melihat sisi gelap dari tindakan manusia, pada bagian selanjutnya kita akan mempelajari sisi terang: bagaimana tindakan mulia dan kebajikan membawa buah manis yang membahagiakan.*
+*Setelah melihat sisi gelap dari tindakan manusia, pada bagian selanjutnya kita akan mempelajari sisi terangnya, ketika tindakan mulia dan kebajikan membawa buah manis yang membahagiakan.*

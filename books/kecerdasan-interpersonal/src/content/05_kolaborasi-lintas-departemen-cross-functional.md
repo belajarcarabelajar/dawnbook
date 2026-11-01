@@ -2,7 +2,7 @@
 
 Pernahkah kamu berada dalam sebuah proyek tempat tim developer merasa desainer meminta hal-hal yang tidak mungkin secara teknis? Dalam proyek itu, tim marketing merasa produknya terlalu kaku dan tidak menarik. Selamat, kamu sedang menyaksikan fenomena **organizational silos** (silo organisasi).
 
-Kolaborasi lintas departemen membutuhkan lebih dari sekadar bekerja di gedung yang sama atau bergabung dalam grup komunikasi digital yang sama. Intinya adalah menyelaraskan berbagai perspektif dan prioritas kerja untuk mencapai satu target bersama. Bagi seorang *T-shaped professional*, kemampuanmu untuk menjadi jembatan (*bridge*) antardepartemen adalah aset yang berharga.
+Kolaborasi lintas departemen berarti menyelaraskan berbagai perspektif dan prioritas kerja untuk mencapai satu target bersama. Bekerja di gedung yang sama atau bergabung dalam grup komunikasi digital yang sama belum cukup untuk itu. Bagi seorang *T-shaped professional*, kemampuanmu untuk menjadi jembatan (*bridge*) antardepartemen adalah aset yang berharga.
 
 ## 1. Memahami Fenomena Silo
 
@@ -93,4 +93,4 @@ Jika kamu ditunjuk untuk memimpin atau bergabung dalam proyek lintas fungsi, gun
 - **Gunakan Alat Manajemen Proyek Terbuka:** Pilih tools seperti Jira, Trello, atau Asana agar semua divisi dapat memantau perkembangan pekerjaan tanpa hambatan akses.
 - **Coba Metode "Empathy Walk":** Luangkan waktu satu jam untuk duduk bersama departemen lain guna memahami tantangan harian yang mereka hadapi di lapangan.
 
-> **Pesan Utama:** Kolaborasi lintas departemen bukan tentang mencari siapa yang paling benar, melainkan menyatukan berbagai perspektif yang berbeda menjadi satu kesatuan yang utuh. Kekuatan seorang profesional dengan profil *T-shaped* terletak pada keahlian mendalam di bidang spesifiknya (vertikal) sekaligus kemampuannya berempati dan bekerja sama dengan disiplin ilmu lain (horizontal).
+> **Pesan Utama:** Kolaborasi lintas departemen menyatukan berbagai perspektif yang berbeda menjadi satu kesatuan yang utuh, tanpa sibuk mencari siapa yang paling benar. Kekuatan seorang profesional dengan profil *T-shaped* terletak pada keahlian mendalam di bidang spesifiknya (vertikal) sekaligus kemampuannya berempati dan bekerja sama dengan disiplin ilmu lain (horizontal).

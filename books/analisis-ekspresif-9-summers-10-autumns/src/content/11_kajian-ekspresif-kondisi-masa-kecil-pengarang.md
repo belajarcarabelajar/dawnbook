@@ -1,6 +1,6 @@
 ## Kondisi Masa Kecil Pengarang
 
-Masa kecil sering kali menjadi masa ketika kepribadian dan impian masa depan seseorang mulai terbentuk. Bagi Iwan Setyawan, kenangan masa kecil di Batu bukan hanya nostalgia tentang alam pegunungan, tetapi juga ruang refleksi yang dipenuhi kesederhanaan dan keprihatinan hidup. Melalui kacamata ekspresif, ingatan masa kanak-kanak ini memperlihatkan bagaimana tekanan ekonomi membentuk daya juang yang tampak jelas dalam karyanya.
+Masa kecil sering kali menjadi masa ketika kepribadian dan impian masa depan seseorang mulai terbentuk. Bagi Iwan Setyawan, kenangan masa kecil di Batu menyimpan nostalgia tentang alam pegunungan sekaligus ruang refleksi yang dipenuhi kesederhanaan dan keprihatinan hidup. Melalui kacamata ekspresif, ingatan masa kanak-kanak ini memperlihatkan bagaimana tekanan ekonomi membentuk daya juang yang tampak jelas dalam karyanya.
 
 ### Kehidupan Sederhana di Kaki Gunung
 
@@ -16,7 +16,7 @@ Kenangan masa kecil ini terekspresikan sebagai fondasi ketangguhan mental Iwan d
 
 ### Keterbatasan Fasilitas yang Memicu Tekad
 
-Melalui telaah biografis terhadap bab masa kecil Iwan, kita melihat bagaimana keterbatasan fasilitas belajar fisik (seperti belajar di bawah redupnya lampu minyak petromaks di Batu) dimanfaatkan oleh pengarang untuk memvalidasi dorongan psikologisnya. Keterbatasan ruang tidur dan mainan tidak diekspresikan sebagai trauma yang melumpuhkan, melainkan secara ekspresif didefinisikan kembali oleh penulis sebagai 'bahan bakar' yang memicu tekad kuat untuk mengeluarkan keluarganya dari kemiskinan.
+Melalui telaah biografis terhadap bab masa kecil Iwan, kita melihat bagaimana keterbatasan fasilitas belajar fisik (seperti belajar di bawah redupnya lampu minyak petromaks di Batu) dimanfaatkan oleh pengarang untuk memvalidasi dorongan psikologisnya. Keterbatasan ruang tidur dan mainan secara ekspresif didefinisikan kembali oleh penulis sebagai 'bahan bakar' yang memicu tekad kuat untuk mengeluarkan keluarganya dari kemiskinan. Dalam novel, keterbatasan itu tidak tampil sebagai trauma yang melumpuhkan.
 
 ### Dari Masa Kecil ke Teladan Orang Tua
 

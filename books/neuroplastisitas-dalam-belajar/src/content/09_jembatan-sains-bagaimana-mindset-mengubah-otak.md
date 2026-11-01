@@ -1,6 +1,6 @@
 ## Bagaimana Mindset Mengubah Otak
 
-Di bagian sebelumnya, kita telah mempelajari perbedaan psikologis antara **Growth Mindset** (pola pikir bertumbuh) dan **Fixed Mindset** (pola pikir tetap). Namun, apakah kamu tahu bahwa perbedaan ini bukan sekadar masalah "sikap positif"?
+Di bagian sebelumnya, kita telah mempelajari perbedaan psikologis antara **Growth Mindset** (pola pikir bertumbuh) dan **Fixed Mindset** (pola pikir tetap). Kali ini kita melihat apa yang terjadi di dalam kepala.
 
 Mindset sebenarnya ikut **membentuk otak kamu secara fisik**. Keyakinan kamu tentang kemampuan belajar memengaruhi bagaimana sirkuit saraf kamu merespons kegagalan, memproses informasi, dan membangun ketangguhan. Mari kita bedah bagaimana "kepercayaan" berubah menjadi "biologi".
 
@@ -13,10 +13,10 @@ Ketika kamu membuat kesalahan, misalnya salah menjawab soal matematika atau sala
 
 **Perbedaan Berbasis Mindset:** Penelitian oleh Dr. Jason Moser menunjukkan perbedaan yang mencolok pada sinyal Pe:
 
-- Individu dengan **Growth Mindset** memiliki sinyal **Pe yang jauh lebih kuat**. Otak mereka memberikan perhatian lebih besar pada kesalahan. Mereka tidak mengabaikan kegagalan; sebaliknya, mereka memakai kesalahan tersebut untuk belajar.
+- Individu dengan **Growth Mindset** memiliki sinyal **Pe yang jauh lebih kuat**. Otak mereka memberikan perhatian lebih besar pada kesalahan. Mereka memakai kesalahan tersebut untuk belajar.
 - Individu dengan **Fixed Mindset** cenderung memiliki sinyal Pe yang lemah. Otak mereka mencoba "menutup mata" terhadap kesalahan karena menganggap kesalahan sebagai ancaman terhadap identitas cerdas mereka.
 
-> **Insight Penting:** Pertumbuhan otak tidak hanya terjadi saat kamu melakukan segalanya dengan benar, tetapi juga saat kamu melakukan kesalahan dan otak kamu bekerja keras untuk memperbaikinya.
+> **Insight Penting:** Otak kamu juga bertumbuh saat kamu melakukan kesalahan, lalu bekerja keras untuk memperbaikinya.
 
 ### 2\. Peran ACC dalam Ketangguhan (Resilience)
 
@@ -27,7 +27,7 @@ Dalam konteks Growth Mindset, ACC terhubung lebih kuat dengan **Prefrontal Corte
 **Analogi Pilot dan Menara Pengawas:** Bayangkan otak kamu adalah sebuah pesawat.
 
 - **Fixed Mindset:** Ketika ada lampu indikator merah (kesalahan), pilot merasa panik dan menganggap pesawatnya rusak permanen. Ia mematikan alarm agar tidak perlu mendengar suaranya (menghindari tantangan).
-- **Growth Mindset:** Pilot melihat lampu merah sebagai data navigasi yang berharga. Ia berkomunikasi dengan menara pengawas (ACC) untuk menyesuaikan arah terbang. Baginya, lampu merah bukan tanda kegagalan, melainkan instruksi untuk kalibrasi.
+- **Growth Mindset:** Pilot melihat lampu merah sebagai data navigasi yang berharga. Ia berkomunikasi dengan menara pengawas (ACC) untuk menyesuaikan arah terbang. Baginya, lampu merah adalah instruksi untuk kalibrasi.
 
 ### 3\. Dopamin dan Tantangan
 
@@ -36,11 +36,11 @@ Mindset diduga juga mengubah cara otak memproses **Dopamin**, neurotransmiter ya
 - Pada **Fixed Mindset**, dopamin hanya dilepaskan saat mencapai hasil akhir (mendapat nilai A, menang lomba). Jika gagal, sistem dopamin "anjlok", menyebabkan demotivasi.
 - Pada **Growth Mindset**, otak mulai melepaskan dopamin selama **proses berjuang**. Otak belajar untuk menikmati sensasi "sulit" karena ia mengasosiasikan kesulitan dengan pertumbuhan saraf.
 
-Secara matematis, kita bisa melihat hubungan antara usaha ($u$), keyakinan ($k$), dan pertumbuhan sinapsis ($\Delta S$): $\Delta S \propto k \times u$ Jika keyakinan ($k$) kamu adalah nol (Fixed Mindset: "Saya tidak bisa berubah"), maka sebesar apa pun usaha ($u$) yang kamu lakukan, pertumbuhan sinapsis ($\Delta S$) akan minimal karena otak tidak dalam keadaan "siap" untuk plastisitas.
+Secara matematis, kita bisa melihat hubungan antara usaha ($u$), keyakinan ($k$), dan pertumbuhan sinapsis ($\Delta S$): $\Delta S \propto k \times u$ Jika keyakinan ($k$) kamu adalah nol (Fixed Mindset yang berbunyi "Saya tidak bisa berubah"), maka sebesar apa pun usaha ($u$) yang kamu lakukan, pertumbuhan sinapsis ($\Delta S$) akan minimal karena otak tidak dalam keadaan "siap" untuk plastisitas.
 
 ### 4\. Dua Respons Otak terhadap Error
 
-Bagaimana pengetahuan ini diterapkan dalam kehidupan sehari-hari? Mari kita lihat skenario berikut:
+Bagaimana pengetahuan ini diterapkan dalam kehidupan sehari-hari? Skenario berikut menggambarkannya.
 
 **Mempelajari Bahasa Pemrograman Baru** Seorang pemula mencoba menulis kode dan terus-menerus mendapatkan pesan *error*.
 
@@ -77,4 +77,4 @@ flowchart TD
 
 *Refleksi Proses Belajar: Jika hari ini tidak ada kekeliruan atau tantangan dalam proses belajar, akankah jaringan otak terdorong untuk melakukan adaptasi fisik secara optimal?*
 
-> **Kesimpulan:** Mindset bukan sekadar motivasi. Ia adalah **sakelar biologis**. Dengan meyakini bahwa otak dapat berubah, kamu mungkin sedang menurunkan ambang batas kimiawi bagi neuron-neuron kamu untuk membentuk koneksi baru. Kamu tidak hanya belajar lebih baik; kamu secara fisik sedang membangun otak yang lebih tangguh.
+> **Kesimpulan:** Mindset adalah **sakelar biologis**. Dengan meyakini bahwa otak dapat berubah, kamu mungkin sedang menurunkan ambang batas kimiawi bagi neuron-neuron kamu untuk membentuk koneksi baru. Sambil belajar lebih baik, kamu secara fisik sedang membangun otak yang lebih tangguh.

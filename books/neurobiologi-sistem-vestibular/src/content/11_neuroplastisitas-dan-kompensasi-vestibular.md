@@ -2,7 +2,7 @@
 
 Pernahkah terbayangkan apa yang terjadi jika salah satu "sensor keseimbangan" di telinga dalam tiba-tiba berhenti mengirimkan sinyal? Dunia akan terasa berputar (vertigo), mual melanda, dan berdiri tegak terasa mustahil. Namun, dalam beberapa minggu, sebagian besar orang dapat kembali berjalan normal.
 
-Kemampuan pulih ini bukan karena organ yang rusak itu sembuh dengan sendirinya, melainkan karena otak kita melakukan **reprogramming**. Inilah yang kita sebut sebagai **Kompensasi Vestibular**, sebuah wujud dari **Neuroplastisitas**.
+Organ yang rusak itu tidak sembuh dengan sendirinya. Kemampuan pulih ini datang dari otak kita yang melakukan **reprogramming**. Inilah yang kita sebut sebagai **Kompensasi Vestibular**, sebuah wujud dari **Neuroplastisitas**.
 
 ### 1. Apa Itu Kompensasi Vestibular?
 
@@ -33,7 +33,7 @@ Restorasi simetri ini bisa dibayangkan lewat angka ilustrasi berikut. Misalkan s
 | Awal kerusakan | 100 Hz | 0 Hz | 100 Hz | Vertigo akut |
 | Setelah kompensasi | 60 Hz | 40 Hz | 20 Hz | Keseimbangan terjaga |
 
-Sisi kiri diturunkan (*downregulation*), sedangkan sisi kanan naik lagi (*upregulation*) lewat aktivitas intrinsik nukleus vestibularis, bukan karena organnya sembuh. Yang dipulihkan otak adalah keseimbangan kedua sisi, sehingga selisihnya mengecil dari 100 Hz menjadi 20 Hz.
+Sisi kiri diturunkan (*downregulation*), sedangkan sisi kanan naik lagi (*upregulation*) lewat aktivitas intrinsik nukleus vestibularis, tanpa organnya sembuh. Yang dipulihkan otak adalah keseimbangan kedua sisi, sehingga selisihnya mengecil dari 100 Hz menjadi 20 Hz.
 
 #### B. Kompensasi Dinamis (Pemulihan Saat Bergerak)
 
@@ -42,7 +42,7 @@ Terjadi lebih lambat (minggu hingga bulan). Tujuannya adalah memastikan pandanga
 - **Sinaptik Long-Term Depression (LTD) & Potentiation (LTP):** Otak menyesuaikan kekuatan jalur saraf yang masih berfungsi melalui mekanisme $\text{LTD}$ dan $\text{LTP}$.
 - **Substitusi Sensorik:** Otak mulai lebih mengandalkan input dari mata (visual) dan sensor tekanan di kaki (somatosensorik).
 
-> **Memorable Insight:** Kompensasi bukan berarti sistem kembali ke kondisi "seperti semula", melainkan otak belajar menciptakan "keseimbangan fungsional baru" yang memadai untuk aktivitas sehari-hari.
+> **Memorable Insight:** Dalam kompensasi, otak belajar menciptakan "keseimbangan fungsional baru" yang memadai untuk aktivitas sehari-hari. Sistemnya tidak kembali ke kondisi "seperti semula".
 
 ### 3. Plastisitas Sinaptik dalam Angka
 
@@ -98,4 +98,4 @@ Tidak semua orang pulih dengan kecepatan yang sama. Beberapa faktor kuncinya ada
 
 *Pertanyaan reflektif: Ketika terjadi gangguan keseimbangan, mana yang lebih optimal, beristirahat total atau mencoba melakukan gerakan-gerakan ringan yang terarah? Mengapa?*
 
-> **Kesimpulan:** Neuroplastisitas adalah bukti bahwa otak kita bukanlah struktur statis yang kaku. Dalam sistem vestibular, otak bertindak sebagai insinyur yang mampu membangun kembali fondasi keseimbangan, memastikan bahwa meskipun salah satu sensor mengalami gangguan, keseimbangan tetap dapat dipertahankan untuk menavigasi lingkungan sekitar dengan stabil.
+> **Kesimpulan:** Neuroplastisitas adalah bukti bahwa otak kita lentur dan bisa berubah. Dalam sistem vestibular, otak bertindak sebagai insinyur yang mampu membangun kembali fondasi keseimbangan, memastikan bahwa meskipun salah satu sensor mengalami gangguan, keseimbangan tetap dapat dipertahankan untuk menavigasi lingkungan sekitar dengan stabil.

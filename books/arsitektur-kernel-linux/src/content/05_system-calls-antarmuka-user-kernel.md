@@ -14,7 +14,7 @@ Dalam sistem operasi, **kamu adalah aplikasi pengguna**, **dapur adalah kernel**
 
 Untuk melindungi sistem, CPU modern mendukung setidaknya dua mode operasi:
 
-1. **User Mode (Ring 3):** Mode dengan hak akses terbatas. Aplikasi seperti web browser, text editor, atau game berjalan di sini. Jika terjadi kesalahan di mode ini, hanya aplikasi tersebut yang berhenti (crash), bukan seluruh sistem.
+1. **User Mode (Ring 3):** Mode dengan hak akses terbatas. Aplikasi seperti web browser, text editor, atau game berjalan di sini. Jika terjadi kesalahan di mode ini, hanya aplikasi tersebut yang berhenti (crash), dan sistem secara keseluruhan tetap berjalan.
 2. **Kernel Mode (Ring 0):** Mode dengan hak akses penuh ke seluruh instruksi CPU dan hardware. Hanya kode inti kernel yang berjalan di sini.
 
 ### Mekanisme Transisi Mode

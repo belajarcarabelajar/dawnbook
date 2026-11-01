@@ -54,13 +54,13 @@ Melakukan pekerjaan berat (analisis data, pengiriman ke aplikasi). Bagian ini be
 2. **Tasklets**: Dibuat di atas softirqs agar lebih mudah dipakai, tetapi memiliki batasan hanya bisa berjalan di satu CPU dalam satu waktu.
 3. **Workqueues**: Menjalankan tugas berat di dalam *process context*, sehingga diizinkan untuk melakukan operasi blocking atau masuk ke mode *sleep*.
 
-Sebagai analogi, bayangkan seorang koki: menerima pesanan (*Top Half*) harus cepat agar pelanggan tidak menunggu lama, sedangkan memasak pesanan tersebut (*Bottom Half*) bisa diselesaikan setelahnya.
+Sebagai analogi, bayangkan seorang koki. Menerima pesanan (*Top Half*) harus cepat agar pelanggan tidak menunggu lama, sedangkan memasak pesanan tersebut (*Bottom Half*) bisa diselesaikan setelahnya.
 
 ## 5. Penanganan Exception (System Errors)
 
 Saat terjadi exception, kernel harus menangani kondisi yang muncul dari eksekusi instruksi sekaligus menjaga stabilitas sistem.
 
-- **Faults**: Masalah yang masih bisa diperbaiki oleh kernel. Contoh klasiknya adalah *page fault*: ketika data yang diminta ada di swap, kernel akan mengambil data tersebut ke memori fisik dan mengulangi instruksi tanpa membuat aplikasi crash.
+- **Faults**: Masalah yang masih bisa diperbaiki oleh kernel. Contoh klasiknya adalah *page fault*. Ketika data yang diminta ada di swap, kernel akan mengambil data tersebut ke memori fisik dan mengulangi instruksi tanpa membuat aplikasi crash.
 - **Traps**: Dipicu secara sengaja untuk kebutuhan debugging atau saat aplikasi memicu *system call*. Eksekusi instruksi berikutnya akan langsung dilanjutkan begitu handler selesai bertugas.
 - **Aborts**: Kegagalan fatal pada perangkat keras yang tidak bisa dipulihkan. Kernel terpaksa melakukan panic atau langsung mematikan proses yang bersangkutan demi menjaga kestabilan sistem.
 

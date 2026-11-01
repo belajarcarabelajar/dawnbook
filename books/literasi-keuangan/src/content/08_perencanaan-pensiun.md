@@ -16,7 +16,7 @@ Beberapa alasan mengapa persiapan awal ini penting:
 
 ## Cara Menghitung Kebutuhan Dana Pensiun
 
-Langkah pertama yang harus dilakukan adalah memproyeksikan target dana pensiun. Angka ini tidak harus presisi, tetapi cukup sebagai panduan dasar.
+Langkah pertama yang harus dilakukan adalah memproyeksikan target dana pensiun. Perkiraan kasar sudah cukup sebagai panduan dasar.
 
 Faktor utama yang memengaruhi perhitungan:
 
@@ -32,7 +32,7 @@ Untuk mendapatkan gambaran awal, kamu bisa menggunakan dua pendekatan ini:
 
 **Pendekatan Rasio Pendapatan**
 Targetkan 70-80% dari penghasilan terakhir kamu sebagai dana tahunan masa pensiun.
-- Contoh: Pendapatan terakhir kamu Rp120 juta/tahun. Maka kebutuhan dana saat pensiun sekitar Rp84 juta sampai Rp96 juta per tahun.
+- Misalnya pendapatan terakhir kamu Rp120 juta/tahun, maka kebutuhan dana saat pensiun sekitar Rp84 juta sampai Rp96 juta per tahun.
 
 **Pendekatan Estimasi Pengeluaran**
 Hitung rata-rata pengeluaran bulanan saat ini, lalu sesuaikan dengan proyeksi masa depan.

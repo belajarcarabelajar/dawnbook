@@ -2,15 +2,15 @@
 
 Pernahkah kamu merasa mudah berbicara dengan rekan setim divisi desain, tetapi mendadak seperti memakai bahasa asing saat berdiskusi dengan tim finance? Atau mungkin kamu merasa frustrasi saat atasan hanya ingin melihat angka-angka mentah, sementara kamu ingin menjabarkan visi kreatif di balik proyek tersebut?
 
-Perbedaan ini tidak menunjukkan bahwa salah satu pihak kurang kompeten. Hal tersebut murni karena perbedaan **gaya kerja dan kepribadian**. Di dalam profil *T-Shaped Professional*, kemampuan teknis spesifik kamu merupakan garis vertikal, sementara keluwesan beradaptasi dengan beragam kepribadian adalah garis horizontal yang memungkinkan kolaborasi.
+Perbedaan ini murni bersumber dari **gaya kerja dan kepribadian** yang berbeda. Ia tidak menunjukkan bahwa salah satu pihak kurang kompeten. Di dalam profil *T-Shaped Professional*, kemampuan teknis spesifik kamu merupakan garis vertikal, sementara keluwesan beradaptasi dengan beragam kepribadian adalah garis horizontal yang memungkinkan kolaborasi.
 
 ## Mengapa Kita Perlu Memahami Gaya Kerja?
 
-Bayangkan sebuah tim layaknya sebuah orkestra. Jika seluruh pemusik memukul drum sekeras-kerasnya, hasilnya bukan musik, melainkan kebisingan yang mengganggu. Sebaliknya, bila pemain biola tidak memahami kapan pemain perkusi akan masuk, ritme lagu akan berantakan.
+Bayangkan sebuah tim layaknya sebuah orkestra. Jika seluruh pemusik memukul drum sekeras-kerasnya, yang terdengar hanyalah kebisingan yang mengganggu. Sebaliknya, bila pemain biola tidak memahami kapan pemain perkusi akan masuk, ritme lagu akan berantakan.
 
 Memahami gaya kerja mempermudah kolaborasi dalam beberapa aspek:
 
-- **Mengurangi Gesekan:** Meminimalkan kesalahpahaman yang sering kali dipicu oleh cara penyampaian pesan, bukan karena isi pesannya yang salah.
+- **Mengurangi Gesekan:** Meminimalkan kesalahpahaman yang sering kali dipicu oleh cara penyampaian pesan walaupun isinya sudah benar.
 - **Meningkatkan Efektivitas:** Menyajikan informasi penting dengan cara yang paling mudah diproses oleh penerima informasi.
 - **Membangun Hubungan Profesional yang Solid:** Menunjukkan bahwa kita menghargai cara kerja unik dari setiap rekan setim.
 
@@ -18,7 +18,7 @@ Menerapkan satu cara komunikasi yang seragam ke semua orang justru bisa menjadi 
 
 ## Model Kepribadian DISC di Lingkungan Kerja
 
-Salah satu model yang praktis untuk memetakan dinamika tim adalah **DISC**. Kerangka ini membagi kepribadian berdasarkan dua sumbu utama: hubungan kerja (**Tugas vs. Orang** / *Task vs. People*) dan tempo kerja (**Cepat/Aktif vs. Lambat/Reflektif** / *Active vs. Reflective*).
+Salah satu model yang praktis untuk memetakan dinamika tim adalah **DISC**. Kerangka ini membagi kepribadian berdasarkan dua sumbu utama, yaitu hubungan kerja (**Tugas vs. Orang** / *Task vs. People*) dan tempo kerja (**Cepat/Aktif vs. Lambat/Reflektif** / *Active vs. Reflective*).
 
 ### 1. Dominance (Si Pelaksana Cepat)
 
@@ -89,7 +89,7 @@ Bagi kamu yang terbiasa bekerja di bidang teknis seperti software development at
 
 ## Penerapan Teknik Mirroring yang Sehat
 
-Menyesuaikan diri bukan berarti kamu harus memalsukan kepribadian asli. Konsep ini lebih menekankan pada kemampuan memilih **spektrum komunikasi** yang paling selaras dengan kenyamanan lawan bicara.
+Menyesuaikan diri berarti memilih **spektrum komunikasi** yang paling selaras dengan kenyamanan lawan bicara. Kamu tidak perlu memalsukan kepribadian asli untuk melakukannya.
 
 - **Amati Tempo Bicara:** Jika rekan kerja terbiasa berbicara dengan cepat dan bersemangat, cobalah untuk mengimbangi tempo tersebut. Jika mereka cenderung berbicara secara perlahan dan terukur, hindari memotong kalimat mereka.
 - **Gunakan Istilah yang Relevan:** Pilihlah kosakata yang akrab di telinga mereka. Misalnya, gunakan istilah ROI (*Return on Investment*) saat berbicara dengan tim finance, dan gunakan alur pengguna (*user journey*) sewaktu berdiskusi dengan desainer produk.
@@ -97,7 +97,7 @@ Menyesuaikan diri bukan berarti kamu harus memalsukan kepribadian asli. Konsep i
   - Tipe C dan S biasanya lebih nyaman menerima informasi lewat pesan tertulis seperti email agar memiliki waktu untuk menganalisis data.
   - Tipe D dan I cenderung menyukai panggilan telepon singkat atau pertemuan tatap muka untuk mempercepat pengambilan keputusan.
 
-> **Perspektif Utama:** Konflik di lingkungan kerja sering kali tidak berakar dari perbedaan tujuan akhir, melainkan dari ketidakselarasan metode yang digunakan untuk mencapai tujuan tersebut.
+> **Perspektif Utama:** Konflik di lingkungan kerja sering kali berakar dari ketidakselarasan metode yang digunakan untuk mencapai tujuan akhir.
 
 ## Skenario Kerja Sama Lintas Fungsi
 
@@ -112,6 +112,6 @@ Mari kita lihat skenario berikut saat sebuah tim lintas fungsi (teknologi, desai
 
 ## Menyesuaikan Diri dengan Gaya Rekan Kerja
 
-Memahami gaya kerja dan kepribadian rekan kerja merupakan bentuk nyata dari **empati intelektual**. Kamu menyadari bahwa setiap orang memiliki cara berpikir dan "sistem operasi" yang berbeda di kepala mereka. Dengan mengenali dan menyesuaikan diri dengan karakter komunikasi mereka, kamu tidak hanya tumbuh menjadi profesional yang andal secara teknis, tetapi juga memperkuat kekompakan tim.
+Memahami gaya kerja dan kepribadian rekan kerja merupakan bentuk nyata dari **empati intelektual**. Kamu menyadari bahwa setiap orang memiliki cara berpikir dan "sistem operasi" yang berbeda di kepala mereka. Dengan mengenali dan menyesuaikan diri dengan karakter komunikasi mereka, kamu tumbuh menjadi profesional yang andal secara teknis sekaligus memperkuat kekompakan tim.
 
 Langkah pertama yang dapat kamu coba mulai esok hari adalah memetakan satu orang rekan kerja yang paling menantang untuk diajak berkomunikasi. Dengan menebak kecenderungan tipe DISC mereka, kamu bisa merencanakan satu perubahan kecil pada caramu berbicara agar pesanmu dapat diterima dengan lebih efektif.

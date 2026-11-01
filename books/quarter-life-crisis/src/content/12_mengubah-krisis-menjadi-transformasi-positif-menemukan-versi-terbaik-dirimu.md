@@ -19,7 +19,7 @@ Transformasi dimulai dari cara kita memandang masalah. Jika kamu memandang QLC s
 - **Narasi Lama:** "Aku tertinggal dari teman-temanku. Aku tidak tahu apa yang aku lakukan dengan hidupku."
 - **Narasi Baru:** "Aku sedang dalam masa transisi aktif. Aku cukup berani untuk mempertanyakan jalan yang tidak cocok bagiku agar bisa menemukan jalan yang tepat."
 
-**Penting:** Krisis bukan berarti kamu rusak; krisis berarti kamu sedang tumbuh lebih besar dari wadah lama yang selama ini menampungmu.
+**Penting:** Krisis berarti kamu sedang tumbuh lebih besar dari wadah lama yang selama ini menampungmu. Tidak ada yang rusak dalam dirimu.
 
 ## 2. Menemukan Kembali Core Values
 
@@ -46,10 +46,10 @@ Dengan:
 
 ## 3. Low-Risk Experimentation (The Pivot)
 
-Transformasi tidak harus berarti berhenti dari pekerjaan secara mendadak atau pindah ke luar negeri tanpa rencana. Transformasi yang berkelanjutan sering kali dimulai dari **eksperimen mikro**.
+Transformasi yang berkelanjutan sering kali dimulai dari **eksperimen mikro**, tanpa harus berhenti dari pekerjaan secara mendadak atau pindah ke luar negeri tanpa rencana.
 
 1. **Curiosity over Passion (Rasa Ingin Tahu di atas Minat):** Jangan terbebani mencari "panggilan jiwa". Mulailah dengan apa yang membuatmu penasaran. Ambil kursus singkat, bergabung dengan komunitas, atau mulai proyek sampingan.
-2. **Fail Fast, Learn Fast:** Gunakan metode *prototyping*. Jika kamu penasaran dengan dunia desain, cobalah mengerjakan satu proyek kecil. Jika tidak suka, kamu tidak gagal; kamu baru saja berhasil mengeliminasi pilihan yang tidak cocok.
+2. **Fail Fast, Learn Fast:** Gunakan metode *prototyping*. Jika kamu penasaran dengan dunia desain, cobalah mengerjakan satu proyek kecil. Jika ternyata tidak suka, kamu baru saja berhasil mengeliminasi pilihan yang tidak cocok.
 
 ## Kisah Transformasi Maya
 
@@ -57,8 +57,8 @@ Transformasi tidak harus berarti berhenti dari pekerjaan secara mendadak atau pi
 > 
 > **Proses Transformasi:**
 > 
-> 1. **Acceptance (Penerimaan Diri):** Maya berhenti menyalahkan dirinya sendiri dan mengakui bahwa karier ini bukan jalannya.
-> 2. **Value Audit (Audit Nilai):** Ia menyadari nilai utamanya adalah *kreativitas* dan *kontribusi sosial*, bukan *prestise finansial*.
+> 1. **Acceptance (Penerimaan Diri):** Maya berhenti menyalahkan dirinya sendiri dan mengakui bahwa karier ini tidak sejalan dengan dirinya.
+> 2. **Value Audit (Audit Nilai):** Ia menyadari nilai utamanya adalah *kreativitas* dan *kontribusi sosial*. *Prestise finansial* tidak ada dalam daftar itu.
 > 3. **Langkah Kecil:** Sambil tetap bekerja, ia mulai menjadi relawan pengajar di akhir pekan dan menulis blog tentang pendidikan.
 > 4. **Hasil:** Setahun kemudian, Maya beralih karier ke sebuah NGO pendidikan. Gajinya mungkin sedikit berkurang, tetapi tingkat kepuasan hidup dan energi mentalnya meningkat pesat. Ia tidak lagi mengalami "Sunday Scaries" (kecemasan di hari Minggu malam).
 
@@ -70,7 +70,7 @@ Hidup autentik adalah hasil akhir dari transformasi ini. Ini adalah kondisi keti
 
 - **Berani Berkata Tidak:** Kamu menolak peluang atau ajakan yang tidak sesuai dengan nilai-nilaimu tanpa merasa bersalah.
 - **Penerimaan terhadap Ketidaksempurnaan:** Kamu berhenti mengejar standar "hidup sempurna" versi orang lain.
-- **Koneksi yang Bermakna:** Kamu mulai menarik orang-orang yang mendukung versi barumu, bukan yang hanya menyukai versi lamamu.
+- **Koneksi yang Bermakna:** Kamu mulai menarik orang-orang yang mendukung versi barumu.
 
 > "Krisis adalah cara hidup memberitahumu bahwa ada sesuatu yang lebih besar menantimu, jika saja kamu cukup berani untuk melepaskan apa yang sudah tidak lagi berguna bagimu."
 
@@ -85,6 +85,6 @@ Berikan tanda cek pada poin yang sudah atau sedang kamu rasakan:
 
 ## Awal dari Kedewasaan yang Sadar
 
-*Quarter-Life Crisis* bukan akhir dari masa mudamu. Ini adalah awal dari kedewasaan yang sadar. Dengan melewati krisis ini, kamu sedang melatih otot-otot emosional yang akan membuatmu tangguh di usia 30-an, 40-an, dan seterusnya.
+*Quarter-Life Crisis* adalah awal dari kedewasaan yang sadar. Dengan melewati krisis ini, kamu sedang melatih otot-otot emosional yang akan membuatmu tangguh di usia 30-an, 40-an, dan seterusnya.
 
-Ingatlah, **transformasi adalah maraton, bukan sprint.** Hargai setiap langkah kecil yang kamu ambil hari ini. Kamu sedang membangun masa depan yang berhasil sekaligus tenang.
+Ingatlah, **transformasi adalah maraton yang panjang.** Hargai setiap langkah kecil yang kamu ambil hari ini. Kamu sedang membangun masa depan yang berhasil sekaligus tenang.

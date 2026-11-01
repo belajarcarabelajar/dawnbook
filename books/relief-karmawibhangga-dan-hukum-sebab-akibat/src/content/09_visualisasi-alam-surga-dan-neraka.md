@@ -2,11 +2,11 @@
 
 Pernahkah kamu membayangkan bagaimana seniman abad ke-8 memvisualisasikan konsep abstrak seperti "pahala" dan "siksa"? Mereka tidak punya bantuan teknologi CGI atau layar digital. Di kaki tersembunyi Borobudur, relief Karmawibhangga melakukan hal itu. Jika bagian sebelumnya membahas *tindakan* manusia, maka bagian ini adalah tentang *destinasi* atau hasil akhir dari perjalanan jiwa tersebut.
 
-Relief ini bukan sekadar dekorasi, melainkan sebuah "peta kosmik" yang menggambarkan berbagai tingkatan alam keberadaan sebagai konsekuensi logis dari hukum sebab-akibat.
+Relief ini bekerja sebagai sebuah "peta kosmik" yang menggambarkan berbagai tingkatan alam keberadaan sebagai konsekuensi logis dari hukum sebab-akibat.
 
 ## 1. Konsep Ruang dan Waktu dalam Karmawibhangga
 
-Dalam kosmologi Buddhis, alam semesta dibagi menjadi beberapa tingkatan. Relief Karmawibhangga berfokus pada **Kāmadhātu** (Alam Hasrat), tempat makhluk-makhluk di dalamnya masih terikat oleh keinginan indrawi. Namun, di dalam Kāmadhātu sendiri terdapat spektrum yang lebar: dari penderitaan paling dalam di Neraka hingga kenikmatan surgawi.
+Dalam kosmologi Buddhis, alam semesta dibagi menjadi beberapa tingkatan. Relief Karmawibhangga berfokus pada **Kāmadhātu** (Alam Hasrat), tempat makhluk-makhluk di dalamnya masih terikat oleh keinginan indrawi. Namun, di dalam Kāmadhātu sendiri terdapat spektrum yang lebar, mulai dari penderitaan paling dalam di Neraka sampai kenikmatan surgawi.
 
 Para pemahat Borobudur menggunakan teknik visual tertentu untuk membedakan alam-alam ini:
 
@@ -17,7 +17,7 @@ Para pemahat Borobudur menggunakan teknik visual tertentu untuk membedakan alam-
 
 ## 2. Estetika Alam Surga
 
-Surga dalam relief Karmawibhangga tidak digambarkan sebagai tempat di awan yang abstrak, melainkan sebagai versi "ideal" dari dunia manusia. Para pemahat menggunakan referensi lingkungan Jawa Kuno yang paling indah untuk menggambarkan tempat ini.
+Surga dalam relief Karmawibhangga digambarkan sebagai versi "ideal" dari dunia manusia. Para pemahat menggunakan referensi lingkungan Jawa Kuno yang paling indah untuk menggambarkan tempat ini.
 
 ### Ciri Visual Utama Surga
 
@@ -70,7 +70,7 @@ Mengapa leluhur kita repot-repot memahat hal-hal yang mengerikan maupun yang ind
 
 ### Panel Orang Pelit bagi Peziarah Abad ke-9
 
-Bayangkan seorang peziarah di abad ke-9 berjalan mengelilingi kaki Borobudur. Dia melihat panel yang menggambarkan seseorang yang pelit di dunia manusia, lalu tepat di sebelahnya, dia melihat orang tersebut lahir kembali di alam *Preta*, tempat dia tidak bisa makan karena perutnya buncit tapi kerongkongannya sekecil lubang jarum. Tanpa satu kata pun terucap, pesan moralnya tersampaikan: **Keserakahan menciptakan penjara bagi diri sendiri.**
+Bayangkan seorang peziarah di abad ke-9 berjalan mengelilingi kaki Borobudur. Dia melihat panel yang menggambarkan seseorang yang pelit di dunia manusia, lalu tepat di sebelahnya, dia melihat orang tersebut lahir kembali di alam *Preta*, tempat dia tidak bisa makan karena perutnya buncit tapi kerongkongannya sekecil lubang jarum. Tanpa satu kata pun terucap, pesan moralnya tersampaikan bahwa **keserakahan menciptakan penjara bagi diri sendiri.**
 
 ## 6. Transisi Alam
 

@@ -1,6 +1,6 @@
 ## AWK dalam Viktimologi
 
-Dalam studi kriminologi dan viktimologi, analisis terhadap posisi korban tidak hanya berfokus pada dampak fisik atau finansial dari kejahatan. Analisis itu meluas ke cara bahasa mengonstruksi status sosial dan hukum korban. Bahasa bukan sekadar medium netral untuk menyampaikan fakta, melainkan instrumen kekuasaan tempat status seseorang sebagai korban yang sah diakui, diragukan, atau bahkan dipreteli.
+Kriminologi dan viktimologi menelaah posisi korban dari dampak fisik dan finansial kejahatan sampai cara bahasa mengonstruksi status sosial dan hukumnya. Di sini bahasa bekerja sebagai instrumen kekuasaan, tempat status seseorang sebagai korban yang sah diakui, diragukan, atau bahkan dipreteli.
 
 Analisis Wacana Kritis (AWK) memberikan kerangka kerja untuk membongkar bagaimana teks hukum, pemberitaan media massa, dan wacana publik mengonstruksi narasi tentang korban, yang sering kali mencerminkan struktur ketimpangan kekuasaan di masyarakat.
 
@@ -74,7 +74,7 @@ Media massa memegang peranan sentral dalam membentuk persepsi kolektif masyaraka
 
 #### Labeling dan Framing Berita
 
-1. **Labeling Ideologis:** Penggunaan frasa bernuansa emosional atau stereotipikal seperti *"Gadis Malang"*, *"Janda Kembang"*, atau *"Sosok Pendiam"*. Label ini tidak bersifat netral, melainkan membawa muatan norma budaya tentang bagaimana seorang korban seharusnya berperilaku.
+1. **Labeling Ideologis:** Penggunaan frasa bernuansa emosional atau stereotipikal seperti *"Gadis Malang"*, *"Janda Kembang"*, atau *"Sosok Pendiam"*. Label ini membawa muatan norma budaya tentang bagaimana seorang korban seharusnya berperilaku.
 2. **Framing Berita:** Pemilihan sudut pandang berita yang secara halus mengarahkan atribusi kesalahan pada gaya hidup korban.
 
 | Bingkai Media (*Framing*) | Contoh Headline / Narasi Berita | Implikasi Ideologis & Respons Publik |
@@ -94,7 +94,7 @@ Sebagai latihan metode AWK, cermati potongan kutipan berita berikut:
 
 1. **Pilihan Kata (Diksi):** Penggunaan kata *"nekat"* memberikan konotasi negatif dan impulsif, seolah-olah seluruh sumber masalah berakar pada keputusan emosional individu korban.
 2. **Representasi Karakter:** Keterangan *"jarang bersosialisasi"* mengonstruksi stereotipe bahwa korban adalah sosok antisosial. Narasi ini secara halus merenggangkan kedekatan emosional pembaca sehingga menurunkan tingkat empati publik.
-3. **Penyembunyian Struktur Kekuasaan:** Teks tersebut tidak memberikan ruang kritik terhadap praktik bisnis pinjaman online (pinjol) yang berkarakteristik predatoris. Wacana secara sistematis melokalisasi masalah pada kegagalan psikologis individu, bukan pada ketimpangan regulasi ekonomi.
+3. **Penyembunyian Struktur Kekuasaan:** Teks tersebut tidak memberikan ruang kritik terhadap praktik bisnis pinjaman online (pinjol) yang berkarakteristik predatoris. Wacana secara sistematis melokalisasi masalah pada kegagalan psikologis individu, sementara ketimpangan regulasi ekonomi luput dari sorotan.
 
 ---
 
@@ -139,4 +139,4 @@ Linguistik forensik membedakan antara ancaman pidana yang nyata (*true threat*) 
 - **Pencegahan Viktimisasi Sekunder:** Kesadaran terhadap bias bahasa di lingkungan penegak hukum dan media penting untuk mencegah terjadinya trauma berulang bagi korban.
 - **Peran Peneliti AWK:** Bertujuan membongkar bias ideologis tersembunyi dalam teks hukum dan media guna mendorong representasi korban yang lebih adil, netral, dan bermartabat.
 
-> **Insight Akhir:** Mengembangkan analisis wacana kritis terhadap representasi korban bukan bertujuan mengabaikan fakta hukum, melainkan memastikan bahwa instrumen bahasa dan peradilan tidak dipergunakan untuk menindas kembali pihak yang mengalami kejahatan.
+> **Insight Akhir:** Analisis wacana kritis terhadap representasi korban bertujuan memastikan bahwa instrumen bahasa dan peradilan tidak dipergunakan untuk menindas kembali pihak yang mengalami kejahatan, tanpa mengabaikan fakta hukum.

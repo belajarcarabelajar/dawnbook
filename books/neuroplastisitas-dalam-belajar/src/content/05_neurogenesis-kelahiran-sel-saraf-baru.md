@@ -2,7 +2,7 @@
 
 ## Neurogenesis
 
-Selama puluhan tahun, dunia sains meyakini sebuah dogma yang cukup suram: kita semua terlahir dengan jumlah sel otak tertentu. Menurut dogma itu, seiring bertambahnya usia, sel-sel tersebut akan mati tanpa pernah bisa digantikan. Namun, memasuki akhir abad ke-20, paradigma ini runtuh. Para ilmuwan menemukan bahwa otak orang dewasa bukanlah sebuah patung batu yang statis, melainkan sebuah taman yang dinamis tempat sel-sel baru terus tumbuh.
+Selama puluhan tahun, dunia sains meyakini bahwa kita semua terlahir dengan jumlah sel otak tertentu, sebuah dogma yang cukup suram. Menurut dogma itu, seiring bertambahnya usia, sel-sel tersebut akan mati tanpa pernah bisa digantikan. Namun, memasuki akhir abad ke-20, paradigma ini runtuh. Para ilmuwan menemukan bahwa otak orang dewasa lebih mirip taman yang dinamis tempat sel-sel baru terus tumbuh.
 
 Fenomena ini disebut **Neurogenesis**.
 
@@ -10,7 +10,7 @@ Fenomena ini disebut **Neurogenesis**.
 
 **Neurogenesis** adalah proses pembentukan neuron (sel saraf) baru dari sel punca neural (*neural stem cells*). Jika bagian lain dari neuroplastisitas berfokus pada penguatan atau penyusunan ulang "kabel" yang sudah ada, neurogenesis adalah tentang menambahkan "perangkat keras" baru ke dalam sistem.
 
-> "Otak kamu tidak hanya belajar dengan cara mengubah koneksi, tetapi dalam area tertentu, ia belajar dengan cara melahirkan anggota baru dalam tim sel sarafnya."
+> "Otak kamu belajar dengan cara mengubah koneksi, dan dalam area tertentu, ia juga belajar dengan cara melahirkan anggota baru dalam tim sel sarafnya."
 
 Meskipun terjadi secara terbatas di otak dewasa dibandingkan saat masa perkembangan janin, proses ini penting bagi fungsi kognitif kita.
 
@@ -25,7 +25,7 @@ Di otak manusia dewasa, neurogenesis terutama terjadi di dua lokasi utama, tetap
 
 ### Peran Neurogenesis dalam Fungsi Kognitif
 
-Mengapa kita butuh sel saraf baru jika kita sudah punya miliaran sel lainnya? Neuron muda memiliki karakteristik unik: mereka lebih fleksibel dan lebih mudah membentuk koneksi dibandingkan neuron "senior".
+Mengapa kita butuh sel saraf baru jika kita sudah punya miliaran sel lainnya? Neuron muda lebih fleksibel dan lebih mudah membentuk koneksi dibandingkan neuron "senior".
 
 #### 1\. Memori dan Pembelajaran
 
@@ -39,7 +39,7 @@ Setiap neuron baru menambah kapasitas "bandwidth" otak untuk menyerap informasi 
 
 ### Neurogenesis dan Regulasi Emosi
 
-Neurogenesis tidak hanya membuat kita cerdas, tetapi juga menjaga kesehatan mental kita. Hipokampus memiliki hubungan erat dengan sistem limbik, jaringan yang berperan penting dalam emosi.
+Neurogenesis juga ikut menjaga kesehatan mental kita. Hipokampus memiliki hubungan erat dengan sistem limbik, jaringan yang berperan penting dalam emosi.
 
 - **Resiliensi terhadap Stres:** Penelitian menunjukkan bahwa tingkat neurogenesis yang tinggi berkorelasi dengan kemampuan seseorang untuk pulih dari stres psikologis.
 - **Kaitan dengan Depresi:** Banyak ilmuwan menemukan bahwa penderita depresi klinis sering kali mengalami penyusutan volume hipokampus. Obat-obatan antidepresan dan aktivitas fisik bekerja (sebagian) dengan cara memicu kembali kelahiran neuron baru di area ini.
@@ -79,10 +79,10 @@ $$
 
 Salah satu bukti paling terkenal tentang plastisitas otak orang dewasa adalah studi Maguire dan rekan (2000) terhadap sopir taksi di London. Untuk mendapatkan lisensi, mereka harus menguasai "The Knowledge", yaitu cara bernavigasi di antara ribuan tempat di kota itu.
 
-**Hasil penelitian menunjukkan:**
+Hasil penelitiannya bisa diringkas dalam dua poin berikut.
 
 - Hasil pemindaian MRI memperlihatkan volume materi abu-abu di hipokampus posterior sopir taksi lebih besar dibandingkan kelompok pembanding yang tidak menyetir taksi, dan volume itu berkorelasi dengan lamanya mereka menjadi sopir taksi.
-- Studi ini mengukur volume, bukan kelahiran sel. Para penelitinya sendiri menyebut neurogenesis hanya sebagai salah satu mekanisme yang mungkin mendasari perubahan itu, karena data MRI tidak bisa menunjukkannya secara langsung.
+- Studi ini mengukur volume tanpa menghitung kelahiran sel. Para penelitinya sendiri menyebut neurogenesis hanya sebagai salah satu mekanisme yang mungkin mendasari perubahan itu, karena data MRI tidak bisa menunjukkannya secara langsung.
 
 ### Bagaimana Memacu Kelahiran Neuron Baru?
 

@@ -26,11 +26,11 @@ Meskipun fenomenanya mungkin sudah ada sejak lama, istilah ini tidak muncul begi
 
 ## Mengapa Fenomena Ini Sangat Relevan Sekarang?
 
-Mungkin kamu bertanya, *"Mengapa generasi orang tua kita dulu sepertinya tidak seheboh ini?"* Ini terjadi karena **konteks zamannya berbeda**, bukan karena mereka lebih tangguh. Berikut adalah alasan mengapa QLC menjadi relevan bagi generasi muda saat ini:
+Mungkin kamu bertanya, *"Mengapa generasi orang tua kita dulu sepertinya tidak seheboh ini?"* Penyebabnya adalah **konteks zaman yang berbeda**, dan itu tidak ada kaitannya dengan siapa yang lebih tangguh. Berikut adalah alasan mengapa QLC menjadi relevan bagi generasi muda saat ini:
 
 ### 1\. Paradoks Pilihan (Paradox of Choice)
 
-Dulu, jalur hidup cenderung linier: sekolah, kerja (di satu perusahaan sampai pensiun), menikah, punya anak. Sekarang, pilihannya jauh lebih banyak. Kamu bisa menjadi PNS, *freelancer*, *content creator*, hingga *digital nomad*. Terlalu banyak pilihan justru sering kali menyebabkan kecemasan karena takut melewatkan pilihan yang "terbaik".
+Dulu, jalur hidup cenderung linier, mulai dari sekolah, kerja (di satu perusahaan sampai pensiun), menikah, sampai punya anak. Sekarang, pilihannya jauh lebih banyak. Kamu bisa menjadi PNS, *freelancer*, *content creator*, hingga *digital nomad*. Terlalu banyak pilihan justru sering kali menyebabkan kecemasan karena takut melewatkan pilihan yang "terbaik".
 
 ### 2\. Kesenjangan Ekspektasi vs. Realitas
 
@@ -46,7 +46,7 @@ Dibandingkan 40 tahun lalu, orang dewasa muda saat ini membutuhkan waktu lebih l
 > 
 > Ia merasa terjebak dalam rutinitas yang tidak bermakna. Saat melihat teman kuliahnya di media sosial sedang mendaki gunung di Nepal, atau teman lainnya yang baru saja promosi jabatan, Maya merasa dirinya gagal. Ia mulai bertanya: *"Apakah ini hidup yang aku inginkan sampai 40 tahun ke depan? Siapa aku sebenarnya di luar pekerjaan ini?"*
 
-Kisah Maya adalah potret klasik QLC. Ini adalah tentang **pencarian makna** dan **krisis identitas**, bukan tentang kurangnya pencapaian.
+Kisah Maya adalah potret klasik QLC. Yang Maya alami adalah **pencarian makna** dan **krisis identitas**. Pencapaiannya sendiri tidak kurang.
 
 ## Mengapa Mempelajari Ini Penting?
 
@@ -54,7 +54,7 @@ Memahami definisi dan konteks QLC adalah langkah pertama untuk melewatinya. Tanp
 
 **Penting:**
 
-- **QLC bukan tanda kelemahan:** Ini adalah proses maturasi (pematangan) mental.
+- **QLC adalah proses pematangan:** Mentalmu sedang mengalami maturasi (pematangan), dan itu tidak menandakan kelemahan.
 - **Ini adalah periode transisi:** Sama seperti ulat yang harus menjadi kepompong sebelum jadi kupu-kupu, QLC adalah masa "kepompong" yang tidak nyaman namun perlu.
 
 *Jika kamu saat ini merasa bingung, mungkinkah itu sebenarnya tanda bahwa kamu sedang menolak untuk hidup dengan cara "autopilot" dan ingin mencari jalan yang lebih autentik?*
@@ -64,7 +64,7 @@ Memahami definisi dan konteks QLC adalah langkah pertama untuk melewatinya. Tanp
 Jika kamu merasa sedang berada di fase ini, mulailah dengan langkah-langkah dasar berikut:
 
 1. **Normalisasi Perasaanmu:** Sadarilah bahwa apa yang kamu rasakan divalidasi oleh sains dan dialami oleh jutaan orang lain di seluruh dunia.
-2. **Berhenti Membandingkan "Behind the Scenes" kamu dengan "Highlight Reel" Orang Lain:** Ingatlah bahwa apa yang kamu lihat di media sosial hanyalah bagian terbaik dari hidup orang lain, bukan kenyataan utuhnya.
+2. **Berhenti Membandingkan "Behind the Scenes" kamu dengan "Highlight Reel" Orang Lain:** Ingatlah bahwa apa yang kamu lihat di media sosial hanyalah bagian terbaik dari hidup orang lain. Kenyataan utuhnya jarang ikut diunggah.
 3. **Audit Ekspektasi:** Tanyakan pada diri sendiri, *"Apakah tujuan hidup ini adalah keinginanku sendiri, atau sekadar ekspektasi orang tua dan lingkungan?"*
 
 > "Quarter-life crisis adalah cara jiwa kita memberi tahu bahwa ada sesuatu yang tidak sinkron antara siapa kita saat ini dan siapa yang kita inginkan di masa depan."

@@ -10,7 +10,7 @@ Carl Rogers merumuskan *person-centered therapy*, sebuah landasan konseling yang
 
 #### Struktur Self-Concept
 
-Bagi Rogers, *self-concept* adalah komponen sentral kepribadian. Hal ini mencakup keseluruhan persepsi, nilai, dan keyakinan seseorang tentang dirinya sendiri. Sering kali, *self-concept* tidak sejalan dengan realitas objektif, melainkan semata-mata cerminan dari bagaimana kita memandang diri sendiri.
+Bagi Rogers, *self-concept* adalah komponen sentral kepribadian. Hal ini mencakup keseluruhan persepsi, nilai, dan keyakinan seseorang tentang dirinya sendiri. *Self-concept* sering kali hanya mencerminkan cara kita memandang diri sendiri, sehingga isinya bisa berbeda dari realitas objektif.
 
 *Self-concept* terbangun melalui tiga elemen utama:
 
@@ -45,7 +45,7 @@ Pribadi semacam ini mampu menerima pengalaman hidup apa adanya, baik saat suka m
 
 #### Aplikasi Dunia Nyata
 
-Dalam ruang konseling, terapis yang memakai pendekatan *person-centered therapy* wajib mempraktikkan empati, *congruence*, serta *unconditional positive regard*. Konselor bukanlah sosok pemberi solusi instan, melainkan penyedia ruang yang aman bagi klien agar perlahan sanggup mengurai *incongruence* di dalam dirinya.
+Dalam ruang konseling, terapis yang memakai pendekatan *person-centered therapy* wajib mempraktikkan empati, *congruence*, serta *unconditional positive regard*. Konselor menyediakan ruang yang aman bagi klien agar perlahan sanggup mengurai *incongruence* di dalam dirinya. Ia tidak datang membawa solusi instan.
 
 Di bidang pendidikan, konsep ini menuntun pengajar untuk memperlakukan siswa tanpa syarat-syarat yang mengekang. Saat guru menghargai anak didik sebagai individu merdeka, motivasi belajar organik akan tumbuh. Pola semacam ini juga menggeser iklim belajar menjadi lebih berpusat pada siswa.
 
@@ -81,9 +81,9 @@ flowchart BT
 
 *Self-actualization* adalah proses mengembangkan diri sepenuhnya sesuai dengan talenta alamiahnya. Melalui riset kualitatif terhadap sosok-sosok yang dianggap telah mengaktualisasikan dirinya (seperti Abraham Lincoln dan Eleanor Roosevelt), Maslow membedah bagaimana profil psikologis manusia di tahap tertinggi ini.
 
-Mereka umumnya toleran dalam menerima kekurangan diri maupun kecacatan orang lain. Dalam kesehariannya, mereka bersikap spontan, natural, dan tidak terikat oleh basa-basi sosial yang semu. Fokus pikirannya jarang berkutat pada masalah pribadi (ego), melainkan tertuju pada persoalan di luar sana yang lebih besar, seolah-olah dipandu oleh sebuah misi.
+Mereka umumnya toleran dalam menerima kekurangan diri maupun kecacatan orang lain. Dalam kesehariannya, mereka bersikap spontan, natural, dan tidak terikat oleh basa-basi sosial yang semu. Pikiran mereka lebih banyak tertuju pada persoalan di luar sana yang lebih besar, seolah-olah dipandu oleh sebuah misi, dan jarang berkutat pada masalah pribadi (ego).
 
-Orang-orang ini menikmati otonomi penuh dan menghargai privasi. Alih-alih haus pujian luar, mereka mandiri secara batin. Mereka juga acap kali menjumpai *peak experiences*, momen kebahagiaan yang intens ketika mereka merasa menyatu dengan semesta atau karya yang sedang dikerjakan. Hubungan sosial yang mereka bangun mungkin tidak terlalu luas atau mencolok, tetapi ikatan emosionalnya dalam dan bermakna.
+Orang-orang ini menikmati otonomi penuh dan menghargai privasi. Alih-alih haus pujian luar, mereka mandiri secara batin. Mereka juga acap kali menjumpai *peak experiences*, momen kebahagiaan yang intens ketika mereka merasa menyatu dengan semesta atau karya yang sedang dikerjakan. Ikatan emosional dalam hubungan sosial mereka dalam dan bermakna, meski lingkarannya mungkin tidak terlalu luas atau mencolok.
 
 #### Relevansi Maslow di Berbagai Sektor
 

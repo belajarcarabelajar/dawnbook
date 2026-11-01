@@ -22,7 +22,7 @@ Saat obrolan kelompok sedang ramai membahas drama media sosial terbaru yang terl
 
 ## 3. Disiplin di Tengah Godaan Teknologi Baru
 
-Perkembangan teknologi tidak mengenal kata jeda. Platform baru, *gadget* canggih, hingga alat kecerdasan buatan akan terus bermunculan. Seorang minimalis digital tak lantas berubah menjadi sosok yang membenci teknologi; mereka sekadar mengambil peran sebagai **penjaga gerbang**.
+Perkembangan teknologi tidak mengenal kata jeda. Platform baru, *gadget* canggih, hingga alat kecerdasan buatan akan terus bermunculan. Seorang minimalis digital mengambil peran sebagai **penjaga gerbang** yang menimbang setiap teknologi sebelum mengizinkannya masuk.
 
 Sebelum tergiur mengadopsi teknologi yang sedang naik daun, lakukan evaluasi sederhana ini:
 
@@ -40,7 +40,7 @@ $$
 
 Kalau $\text{Nilai Baru} \leq 0$, berarti inovasi tersebut belum layak mendapat ruang di ekosistem digital kamu.
 
-Khusus untuk tren AI dan aplikasi viral lainnya, pastikan kamu menetapkan niat awal yang jelas. Gunakanlah teknologi tersebut semata sebagai alat bantu produksi, bukan sekadar pelampiasan konsumsi. Terapkan juga aturan masa tunggu dua minggu sebelum mencoba aplikasi baru. Rasa penasaran impulsif biasanya akan memudar dengan sendirinya setelah periode tersebut.
+Khusus untuk tren AI dan aplikasi viral lainnya, pastikan kamu menetapkan niat awal yang jelas. Gunakanlah teknologi tersebut semata sebagai alat bantu produksi. Terapkan juga aturan masa tunggu dua minggu sebelum mencoba aplikasi baru. Rasa penasaran impulsif biasanya akan memudar dengan sendirinya setelah periode tersebut.
 
 ## 4. Merawat Kebiasaan dalam Jangka Panjang
 
@@ -61,7 +61,7 @@ Tabel ini merangkum langkah praktis untuk menjaga ritme digital minimalisme:
 
 ## Pegangan Cepat Menilai Aplikasi
 
-Setiap kali merasa kewalahan menghadapi gawai, ajukan dua pertanyaan untuk tiap aplikasi: apakah aplikasi ini mendukung nilai hidupmu, dan berapa menit gangguan yang ditimbulkannya per hari? Kedua jawaban itu langsung mengarah ke salah satu dari tiga keputusan berikut. Angka 30 menit di sini hanya patokan ilustrasi, sesuaikan dengan kondisimu:
+Setiap kali merasa kewalahan menghadapi gawai, ajukan dua pertanyaan untuk tiap aplikasi. Apakah aplikasi ini mendukung nilai hidupmu? Berapa menit gangguan yang ditimbulkannya per hari? Kedua jawaban itu langsung mengarah ke salah satu dari tiga keputusan berikut. Angka 30 menit di sini hanya patokan ilustrasi, sesuaikan dengan kondisimu:
 
 | Mendukung nilai hidupmu? | Gangguan per hari | Keputusan |
 | --- | --- | --- |
@@ -69,4 +69,4 @@ Setiap kali merasa kewalahan menghadapi gawai, ajukan dua pertanyaan untuk tiap 
 | Ya | 30 menit atau lebih | Cari cara akses lain, misalnya matikan notifikasinya atau buka lewat laptop. |
 | Tidak | Berapa pun | Hapus tanpa ragu. |
 
-Menjalani digital minimalisme tidak menuntut kesempurnaan hingga kamu tak pernah lagi berselancar tanpa arah di internet. Kuncinya terletak pada kecepatan menyadari kapan teknologi mulai mengambil alih setir, lalu segera merebut kembali kendali tersebut. Kamu sendiri yang menentukan ke mana perhatianmu pergi.
+Sesekali kamu mungkin masih berselancar tanpa arah di internet, dan itu wajar. Kunci digital minimalisme terletak pada kecepatan menyadari kapan teknologi mulai mengambil alih setir, lalu segera merebut kembali kendali tersebut. Kamu sendiri yang menentukan ke mana perhatianmu pergi.

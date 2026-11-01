@@ -16,7 +16,7 @@ Sifat Sekunder (*secondary traits*) sifatnya lebih spesifik, kurang mencolok, da
 
 Konsep penting lain dari Allport meliputi **Proprium**, yang mewakili inti dari kepribadian atau *self* yang bertumbuh seiring usia. Proprium menjaga kesinambungan identitas diri, kesadaran, serta harga diri. Allport berkeyakinan bahwa alih-alih ditahan oleh masa lalunya, manusia pada dasarnya ditarik oleh masa depannya. 
 
-Ada juga konsep **Functional Autonomy** (*otonomi fungsional*), sebuah gagasan orisinal yang menyebutkan bahwa motif perilaku orang dewasa bisa terlepas sepenuhnya dari alasan awal kemunculannya. Perilaku yang dulunya punya motif eksternal bisa berubah wujud menjadi motif internal yang mandiri. Allport membaginya jadi dua: *perseverative functional autonomy* (perilaku karena murni kebiasaan berulang) dan *propriate functional autonomy* (motif kompleks yang menyatu dengan nilai dan tujuan hidup).
+Ada juga konsep **Functional Autonomy** (*otonomi fungsional*), sebuah gagasan orisinal yang menyebutkan bahwa motif perilaku orang dewasa bisa terlepas sepenuhnya dari alasan awal kemunculannya. Perilaku yang dulunya punya motif eksternal bisa berubah wujud menjadi motif internal yang mandiri. Allport membaginya menjadi *perseverative functional autonomy* (perilaku karena murni kebiasaan berulang) dan *propriate functional autonomy* (motif kompleks yang menyatu dengan nilai dan tujuan hidup).
 
 ## Model 16 Faktor Kepribadian Raymond Cattell
 
@@ -41,7 +41,7 @@ Individu ekstrovert lekat dengan pembawaan dinamis, aktif, dan butuh bersosialis
 Dimensi neurotisisme melihat seberapa mudah seseorang merasakan emosi negatif semacam kecemasan, depresi, atau rasa bersalah. Dasar biologis dari sifat ini bersandar pada reaktivitas *Autonomic Nervous System* (ANS). Individu dengan reaktivitas ANS tinggi mudah terpicu emosinya meski situasi sekitarnya normal. Di kutub seberang, ada stabilitas emosional yang mewakili ketenangan dan ketangguhan dalam menghadapi stres.
 
 **Psychoticism vs. Impulse Control**
-Psikotisisme tidak merujuk pada patologi klinis secara langsung, melainkan karakter seperti agresivitas, sikap dingin, impulsivitas, dan kreativitas ekstrem. Meski punya kecenderungan genetik yang kuat di dimensi ini, seseorang tidak selalu berakhir dengan gangguan mental kecuali tertimpa stres yang berat. Individu dengan kontrol impuls yang baik justru terlihat kooperatif, berhati hangat, dan sabar.
+Psikotisisme merujuk pada karakter seperti agresivitas, sikap dingin, impulsivitas, dan kreativitas ekstrem. Istilah ini tidak secara langsung menunjuk patologi klinis. Meski punya kecenderungan genetik yang kuat di dimensi ini, seseorang tidak selalu berakhir dengan gangguan mental kecuali tertimpa stres yang berat. Individu dengan kontrol impuls yang baik justru terlihat kooperatif, berhati hangat, dan sabar.
 
 ## Model Lima Besar (Big Five)
 
@@ -59,6 +59,6 @@ Psikotisisme tidak merujuk pada patologi klinis secara langsung, melainkan karak
 
 ## Penerapan di Dunia Nyata
 
-Gagasan tentang sifat bawaan ini dipakai luas di lapangan. Di lingkup organisasi, profil sifat membantu proses seleksi dan penyusunan tim kerja: seorang agen penjualan mungkin butuh ekstraversi tinggi, sementara auditor butuh *conscientiousness* yang tinggi. 
+Gagasan tentang sifat bawaan ini dipakai luas di lapangan. Di lingkup organisasi, profil sifat membantu proses seleksi dan penyusunan tim kerja. Seorang agen penjualan, misalnya, mungkin butuh ekstraversi tinggi, sementara auditor butuh *conscientiousness* yang tinggi. 
 
 Pada ranah klinis, mengenali tingginya neurotisisme membantu terapis melacak akar kerentanan klien terhadap gangguan kecemasan. Sama halnya di dunia pendidikan, memahami apakah siswa punya sifat keterbukaan atau ketelitian memudahkan guru menyesuaikan tempo pengajaran yang paling pas. Model kepribadian ini menyediakan kerangka untuk meneliti hubungan antara kepribadian dasar dan perjalanan hidup manusia di kemudian hari.

@@ -58,7 +58,7 @@ Jika kecerdasan interpersonal mendekati nol, nilai profesional yang dihasilkan j
 Di dalam lingkungan organisasi, kecerdasan interpersonal menjadi fondasi karena tiga alasan utama:
 
 1. **Menghancurkan Ego Sektoral**  
-   Seorang teknisi yang memiliki kecerdasan ini akan memahami mengapa tim pemasaran meminta format data yang lebih sederhana. Ini terjadi karena perbedaan tujuan akhir yang harus dicapai masing-masing tim, bukan karena kurangnya kecerdasan.
+   Seorang teknisi yang memiliki kecerdasan ini akan memahami mengapa tim pemasaran meminta format data yang lebih sederhana. Permintaan itu lahir dari perbedaan tujuan akhir yang harus dicapai masing-masing tim, dan tidak menandakan kurangnya kecerdasan.
    
 2. **Katalisator Inovasi**  
    Inovasi lahir dari tabrakan berbagai perspektif. Hubungan interpersonal yang baik menciptakan ruang diskusi yang aman, tempat perbedaan pendapat tidak akan merusak hubungan personal.
@@ -75,12 +75,12 @@ Di dalam lingkungan organisasi, kecerdasan interpersonal menjadi fondasi karena 
 - **Berhenti sejenak dan menggali informasi:** Ia bertanya, "Apa tujuan bisnis utama dari fitur ini untuk pengguna kita?" demi memahami motivasi tim PM.
 - **Menerjemahkan kendala teknis:** Alih-alih berkata "Server kita akan *crash*", Andi menjelaskan, "Jika kita menerapkan ini sekarang, kecepatan akses pengguna akan melambat sekitar 5 detik. Apakah itu bisa diterima oleh klien?"
 
-**Hasilnya:** Garis horizontal Andi berfungsi dengan baik. Ia tidak lagi dipandang sebagai sekadar pelaksana teknis, melainkan mitra strategis lintas fungsi. Inilah esensi dari profesional *T-shaped*.
+**Hasilnya:** Garis horizontal Andi berfungsi dengan baik. Rekan-rekannya kini memandangnya sebagai mitra strategis lintas fungsi. Inilah esensi dari profesional *T-shaped*.
 
 ---
 
-Ketika kita mengingat kembali rekan kerja atau teman sekolah yang paling menyenangkan untuk diajak berkolaborasi, biasanya daya tarik mereka bersumber dari cara mereka berinteraksi dan menghargai orang lain, tidak terbatas pada kehebatan teknis semata.
+Ketika kita mengingat kembali rekan kerja atau teman sekolah yang paling menyenangkan untuk diajak berkolaborasi, biasanya daya tarik mereka bersumber dari cara mereka berinteraksi dan menghargai orang lain.
 
-Kabar baiknya, kecerdasan interpersonal bukanlah bakat bawaan yang kaku. Ini adalah otot yang bisa terus dilatih dan diperkuat. Memahami dasar-dasarnya hari ini menjadi langkah awal bagi kamu untuk memperlebar garis horizontal "T" dalam kariermu.
+Kabar baiknya, kecerdasan interpersonal bekerja seperti otot yang bisa terus dilatih dan diperkuat. Memahami dasar-dasarnya hari ini menjadi langkah awal bagi kamu untuk memperlebar garis horizontal "T" dalam kariermu.
 
 > **Pesan Utama:** Kedalaman teknis membuka pintu kerja, sedangkan kecerdasan interpersonal membuka jalan menuju kepemimpinan dan promosi.

@@ -1,12 +1,12 @@
 ## Stigmatisasi dan Marginalisasi melalui Bahasa
 
-Pernahkah terpikir bahwa sebuah kata bisa mengucilkan seseorang dari masyarakat? Dalam kriminologi, bahasa bukan sekadar alat komunikasi, melainkan instrumen kekuasaan yang mampu menentukan siapa yang layak diterima oleh masyarakat dan siapa yang harus disingkirkan ke tepian (marginal).
+Pernahkah terpikir bahwa sebuah kata bisa mengucilkan seseorang dari masyarakat? Dalam kriminologi, bahasa adalah instrumen kekuasaan yang mampu menentukan siapa yang layak diterima oleh masyarakat dan siapa yang harus disingkirkan ke tepian (marginal).
 
 Bab ini akan membedah bagaimana istilah-istilah yang digunakan sehari-hari (baik dalam teks hukum maupun berita kriminal) bekerja secara halus untuk menciptakan stigma dan memperkuat eksklusi sosial terhadap kelompok-kelompok tertentu.
 
 ### 1. Bahasa sebagai Label
 
-Dalam pandangan Analisis Wacana Kritis (AWK), bahasa tidak pernah netral. Pilihan kata atau **diksi** adalah tindakan politik. Ketika sebuah label disematkan pada seseorang, deskripsi tersebut bukan sekadar gambaran objektif, melainkan konstruksi realitas sosial bagi individu tersebut.
+Dalam pandangan Analisis Wacana Kritis (AWK), bahasa tidak pernah netral. Pilihan kata atau **diksi** adalah tindakan politik. Ketika sebuah label disematkan pada seseorang, deskripsi itu ikut mengonstruksi realitas sosial bagi individu tersebut.
 
 #### Teori Pelabelan (Labeling Theory) dalam AWK
 
@@ -38,8 +38,8 @@ Penggunaan istilah tertentu sering kali bertujuan untuk melakukan **dehumanisasi
 
 #### A. Eufemisme vs. Disfemisme
 
-- **Eufemisme:** Penghalusan kata untuk melindungi kelompok dominan. Contoh: "Kesalahan prosedur" (sering digunakan untuk tindakan kekerasan oleh aparat).
-- **Disfemisme:** Pengasaran kata untuk menyudutkan kelompok marginal. Contoh: "Sampah masyarakat" atau "Residivis kambuhan".
+- **Eufemisme:** Penghalusan kata untuk melindungi kelompok dominan, misalnya "Kesalahan prosedur" (sering digunakan untuk tindakan kekerasan oleh aparat).
+- **Disfemisme:** Pengasaran kata untuk menyudutkan kelompok marginal, seperti "Sampah masyarakat" atau "Residivis kambuhan".
 
 #### B. Kategorisasi yang Memarginalkan
 
@@ -72,10 +72,10 @@ Berikut adalah analisis terhadap bagaimana istilah "Anak Jalanan" sering kali di
 **Bedah AWK:**
 
 - **"Penertiban":** Kata kerja ini mengasumsikan bahwa subjek (anak jalanan) adalah entitas yang "tidak tertib" atau "kacau". Ini menjustifikasi penggunaan paksaan.
-- **"PMKS":** Akronim birokratis yang mengubah manusia menjadi kategori administratif. Ini menjauhkan empati publik; mereka bukan lagi "anak-anak", melainkan "masalah".
+- **"PMKS":** Akronim birokratis yang mengubah manusia menjadi kategori administratif. Ini menjauhkan empati publik, karena "anak-anak" itu kini terbaca sebagai "masalah".
 - **"Estetika":** Menempatkan keindahan kota di atas hak asasi manusia. Anak jalanan dianggap sebagai "noda visual".
 
-**Hasilnya:** Masyarakat tidak lagi melihat mereka sebagai korban kemiskinan, melainkan sebagai gangguan keamanan yang sah untuk disingkirkan. Inilah titik tempat **marginalisasi** terjadi secara sistematis melalui bahasa.
+Akibatnya, masyarakat memandang mereka sebagai gangguan keamanan yang sah untuk disingkirkan, dan kenyataan bahwa mereka korban kemiskinan hilang dari pandangan. Inilah titik tempat **marginalisasi** terjadi secara sistematis melalui bahasa.
 
 ### 5. Mengubah Narasi untuk Reintegrasi
 
@@ -83,7 +83,7 @@ Dalam sistem peradilan pidana modern, terdapat gerakan untuk menerapkan **Humani
 
 | Istilah Stigmatif | Istilah Humanis / Inklusif | Alasan |
 | --- | --- | --- |
-| Mantan Napi (*Ex-Con*) | Orang yang pernah bersinggungan dengan hukum | Fokus pada pengalaman, bukan identitas permanen. |
+| Mantan Napi (*Ex-Con*) | Orang yang pernah bersinggungan dengan hukum | Menyorot pengalaman, sehingga orang tidak dicap dengan identitas permanen. |
 | Pelaku Kejahatan | Orang yang melakukan tindak pidana | Membedakan antara *tindakan* dan *pribadi* orang tersebut. |
 | Korban (sebagai label tetap) | Penyintas (*Survivor*) | Memberikan agensi dan kekuatan kepada individu tersebut. |
 
@@ -96,11 +96,11 @@ Seorang petugas probasi yang menggunakan bahasa inklusif ("Mari kita susun renca
 Untuk memahami dampak stigmatisasi ini, langkah-langkah berikut dapat diterapkan:
 
 1. **Cari Berita:** Ambil satu berita kriminal dari media massa atau media online hari ini.
-2. **Identifikasi Kata Sifat:** Tandai semua kata sifat yang digunakan untuk mendeskripsikan pelaku (misalnya: "sadis", "bejat", "pengangguran").
+2. **Identifikasi Kata Sifat:** Tandai semua kata sifat yang digunakan untuk mendeskripsikan pelaku (misalnya "sadis", "bejat", "pengangguran").
 3. **Uji Empati:** Jika kata-kata tersebut diganti dengan terminologi medis atau sosiologis yang netral, amati bagaimana persepsi terhadap pelaku tersebut berubah.
 4. **Analisis Kritis:** Evaluasi penggunaan kata "oknum" untuk aparat dibandingkan "penjahat" untuk warga sipil guna melihat apakah terdapat standar ganda dalam penegakan hukum dan representasi media.
 
-> **Penting:** Marginalisasi bukan hanya tentang menjauhkan orang secara fisik (penjara), tetapi juga tentang memutus hubungan mereka dengan sesama melalui kata-kata yang dipilih untuk menyebut mereka.
+> **Penting:** Selain menjauhkan orang secara fisik lewat penjara, marginalisasi memutus hubungan mereka dengan sesama melalui kata-kata yang dipilih untuk menyebut mereka.
 
 ---
 

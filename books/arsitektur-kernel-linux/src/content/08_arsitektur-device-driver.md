@@ -6,9 +6,9 @@ Dalam sistem operasi, **device driver** adalah musisi tersebut. Mereka merupakan
 
 ## 1. Filosofi "Everything is a File"
 
-Sebelum masuk ke jenis-jenis driver, kita harus memahami prinsip fundamental Linux: **"Everything is a file"** (semua hal adalah file).
+Sebelum masuk ke jenis-jenis driver, kita harus memahami prinsip fundamental Linux yang berbunyi **"Everything is a file"** (semua hal adalah file).
 
-Di Linux, perangkat keras tidak diakses melalui instruksi khusus yang rumit. Sebaliknya, mereka muncul di sistem sebagai file di dalam direktori `/dev/`.
+Di Linux, perangkat keras muncul di sistem sebagai file di dalam direktori `/dev/`, sehingga aplikasi tidak perlu memakai instruksi khusus yang rumit untuk mengaksesnya.
 
 - Keyboard kamu mungkin diwakili oleh `/dev/input/eventX`.
 - Hard drive kamu mungkin muncul sebagai `/dev/sda`.
@@ -80,7 +80,7 @@ Sebagai gambaran, jika kamu ingin membuat driver untuk sensor lampu kustom, kamu
 
 ## 4. Major dan Minor Numbers
 
-Bagaimana kernel mengetahui bahwa ketika aplikasi membuka `/dev/tty0`, ia harus memanggil driver konsol dan bukan driver hard disk? Jawabannya terletak pada **Major** dan **Minor Numbers**.
+Bagaimana kernel mengetahui bahwa ketika aplikasi membuka `/dev/tty0`, yang harus dipanggil adalah driver konsol? Jawabannya terletak pada **Major** dan **Minor Numbers**.
 
 1. **Major Number:** Mengidentifikasi driver mana yang bertanggung jawab atas perangkat tersebut (misalnya, semua hard disk mungkin berbagi Major Number 8).
 2. **Minor Number:** Digunakan oleh driver tersebut untuk membedakan unit perangkat fisik yang spesifik (misalnya, disk A adalah Minor 0, disk B adalah Minor 1).
@@ -93,7 +93,7 @@ Bagaimana kernel mengetahui bahwa ketika aplikasi membuka `/dev/tty0`, ia harus 
 
 ## 5. Dari Aplikasi ke Hardware
 
-Mari kita lihat skenario dunia nyata: **Menyimpan dokumen ke USB Drive.**
+Mari kita lihat skenario dunia nyata saat kamu **menyimpan dokumen ke USB Drive.**
 
 1. **Aplikasi (User Space):** Kamu menekan tombol "Save". Aplikasi memanggil fungsi `write()` pada file di `/media/usb/data.txt`.
 2. **VFS (Kernel Space):** Virtual File System menerima permintaan tersebut dan mendeteksi bahwa file ini berada di *file system* FAT32 pada sebuah *block device*.
@@ -137,7 +137,7 @@ flowchart TD
 
 - **Character Driver:** Memproses data secara sekuensial (byte demi byte) dan memiliki representasi file di direktori `/dev/`.
 - **Block Driver:** Mengakses data dalam unit blok secara acak (*random access*), memanfaatkan sistem buffer, serta terdaftar di `/dev/`.
-- **Network Interface Driver:** Bekerja dengan orientasi paket tanpa representasi file di `/dev/`, melainkan dikendalikan langsung oleh *networking stack*.
+- **Network Interface Driver:** Bekerja dengan orientasi paket dan dikendalikan langsung oleh *networking stack*, tanpa representasi file di `/dev/`.
 
 **Penting:** Sebagian besar *device driver* beroperasi di dalam *Kernel Space*. Konsekuensinya, kesalahan kecil pada kode (seperti mengakses alamat memori yang tidak valid) dapat langsung memicu kegagalan sistem global atau *Kernel Panic*. Oleh karena itu, penulisan driver menuntut ketelitian jauh lebih tinggi dibanding pembuatan aplikasi biasa.
 

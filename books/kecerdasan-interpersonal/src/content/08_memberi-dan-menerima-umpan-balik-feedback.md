@@ -14,11 +14,11 @@ Untuk membangun hubungan interpersonal yang sehat di tempat kerja, kamu perlu me
 
 ## 2. Cara Memberikan Feedback yang Konstruktif
 
-Memberikan masukan bukan berarti menumpahkan kejujuran secara serampangan tanpa penyaringan. Diperlukan cara dan struktur yang tepat agar masukanmu tidak sekadar didengar, tetapi benar-benar dijalankan oleh rekan kerjamu.
+Kejujuran dalam memberi masukan perlu disaring dan disampaikan dengan cara serta struktur yang tepat, supaya rekan kerjamu benar-benar menjalankannya.
 
 ### A. Model SBI
 
-Model SBI membantu karena berfokus pada fakta objektif, bukan pada penilaian karakter seseorang.
+Model SBI membantu karena berfokus pada fakta objektif dan menjauhkan percakapan dari penilaian karakter seseorang.
 
 1. **Situation (Situasi)**: Sebutkan waktu dan tempat kejadian secara spesifik.
    * *Kurang tepat*: "Kamu sering terlambat rapat."
@@ -42,7 +42,7 @@ Menerima masukan menuntut kematangan emosional yang lebih besar dibanding saat m
 
 ### Langkah-langkah Menerima Feedback
 
-1. **Dengarkan untuk Memahami, Bukan Membela Diri**: Tahan dorongan spontan untuk langsung membantah, mencari alasan, atau mengatakan "tapi...".
+1. **Dengarkan untuk Memahami**: Tahan dorongan spontan untuk langsung membantah, mencari alasan, atau mengatakan "tapi...".
 2. **Ajukan Pertanyaan Klarifikasi**: Jika masukan yang diberikan terasa terlalu umum, bantu mereka untuk memperjelasnya.
    * *Contoh*: "Bisa bantu saya menunjukkan bagian mana dari laporan ini yang menurutmu masih kurang detail?"
 3. **Saring Masukan (*The Sifting Process*)**: Sadarilah bahwa tidak semua *feedback* sepenuhnya objektif atau akurat. Bayangkan seperti mendulang emas. Ambil butiran emas berupa pelajaran berharganya, lalu buang pasir kasarnya, seperti cara penyampaian yang kurang ramah atau bias subjektif dari si pemberi masukan.
@@ -67,7 +67,7 @@ Bayangkan kamu sedang mengemudikan mobil menuju kota yang baru pertama kali kamu
 
 **Menerima feedback** bekerja seperti kaca spion. Kamu tidak akan pernah bisa melihat apa yang ada tepat di belakang mobilmu tanpa bantuan cermin tersebut. Di sini, rekan kerja atau atasan berperan sebagai cerminmu.
 
-Sementara itu, **memberi feedback** menempatkanmu sebagai sistem navigasi GPS. Kamu tidak perlu memarahi pengemudi karena salah mengambil jalur belokan. Tugasmu hanya memberikan panduan baru: *"Di depan, silakan putar balik untuk kembali ke rute tercepat."*
+Sementara itu, **memberi feedback** menempatkanmu sebagai sistem navigasi GPS. Tugasmu cukup memberikan panduan baru tanpa memarahi pengemudi yang salah mengambil jalur belokan, misalnya *"Di depan, silakan putar balik untuk kembali ke rute tercepat."*
 
 ## 6. Latihan Mandiri untuk Meningkatkan Kemampuan Feedback
 
