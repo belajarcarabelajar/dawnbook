@@ -1,8 +1,8 @@
 ## Keberlanjutan Gaya Hidup Minimalis lewat Sistem Audit dan Guard Rail
 
-Setelah melewati proses *digital declutter* dan menata ulang perangkat kamu, tantangan sebenarnya dimulai: **bagaimana menjaganya agar bertahan lama?**
+Setelah melewati proses *digital declutter* dan menata ulang perangkat kamu, tantangan sebenarnya adalah **menjaganya agar bertahan lama**.
 
-Banyak orang terjebak dalam siklus "diet digital". Mereka membuang banyak aplikasi dan merasa bebas selama dua minggu. Sayangnya, perlahan-lahan desain algoritma dan tekanan lingkungan sekitar menarik mereka kembali ke kebiasaan lama. Keberlanjutan gaya hidup ini butuh sebuah **sistem** yang bekerja secara otomatis untuk melindungi fokusmu, tidak bisa hanya bergantung pada kemauan (*willpower*).
+Banyak orang terjebak dalam siklus "diet digital". Mereka membuang banyak aplikasi dan merasa bebas selama dua minggu. Sayangnya, perlahan-lahan desain algoritma dan tekanan lingkungan sekitar menarik mereka kembali ke kebiasaan lama. Agar gaya hidup ini bertahan, kamu butuh sebuah **sistem** yang bekerja secara otomatis untuk melindungi fokusmu. Kemauan (*willpower*) saja tidak cukup.
 
 ## 1\. Mengapa Disiplin Saja Akan Gagal
 
@@ -47,7 +47,7 @@ Keterangan:
 
 Hampir semua minimalis digital akan menjumpai masa-masa kambuh. Ada kalanya kamu menghabiskan 3 jam menonton video pendek atau mengunduh ulang aplikasi media sosial.
 
-Langkah pertama adalah berhenti menyalahkan diri sendiri. Rasa bersalah justru kerap memancing lebih banyak konsumsi digital sebagai bentuk pelarian emosional. Kemudian, cari tahu pemicunya: apakah kamu sedang stres, bosan, atau kesepian? Terakhir, terapkan jeda total selama 24 jam penuh untuk memutus kebiasaan dan menenangkan diri.
+Langkah pertama adalah berhenti menyalahkan diri sendiri. Rasa bersalah justru kerap memancing lebih banyak konsumsi digital sebagai bentuk pelarian emosional. Kemudian, cari tahu pemicunya. Apakah kamu sedang stres, bosan, atau kesepian? Terakhir, terapkan jeda total selama 24 jam penuh untuk memutus kebiasaan dan menenangkan diri.
 
 ## 5\. "The Minimalism Guard Rail"
 

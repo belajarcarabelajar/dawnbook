@@ -10,7 +10,7 @@ Bayangkan seorang koki profesional. Ia jarang membutuhkan 50 jenis gadget dapur 
 
 Dalam digital minimalisme, prinsipnya serupa. Setiap alat baru membawa biaya perawatan mental berupa notifikasi, pembaruan rutin, hingga kurva pembelajaran. Menguasai satu alat secara mendalam jauh lebih efektif daripada sekadar tahu sedikit-sedikit tentang sepuluh alat berbeda. Pembatasan ini juga meminimalkan perpindahan antaraplikasi (context switching).
 
-Alat yang hebat tidak hanya membantu kamu melakukan pekerjaan, tetapi juga mendukung pikiran untuk bekerja lebih jernih.
+Alat yang hebat membantu kamu menyelesaikan pekerjaan sekaligus membuat pikiranmu bekerja lebih jernih.
 
 ### 2. Menyesuaikan Alat dengan Nilai
 
@@ -71,6 +71,6 @@ Ketika kamu membutuhkan ponsel cerdas sebagai GPS di perjalanan (Nilai: Petualan
 2. *Fitur apa yang murni menjadi gangguan, misalnya feed berita di dalam aplikasi pencatatan?*
 3. *Adakah cara untuk mematikan fitur pengganggu tersebut atau membatasi aksesnya?*
 
-**Penting:** Optimalisasi merupakan sebuah proses yang terus berjalan. Setiap kali alat kamu menawarkan fitur-fitur baru seiring pembaruan teknologi, fokus kamu adalah menolak opsi yang tidak melayani nilai-nilai inti, alih-alih tergoda mencoba semuanya.
+**Penting:** Optimalisasi merupakan sebuah proses yang terus berjalan. Setiap kali alat kamu menawarkan fitur-fitur baru seiring pembaruan teknologi, tolak opsi yang tidak melayani nilai-nilai inti dan tahan godaan untuk mencoba semuanya.
 
 > **Ingat:** Digital minimalisme berarti mengendalikan teknologi masa kini agar kamu bisa hidup sepenuhnya di masa sekarang, tanpa harus kembali ke gaya hidup primitif tanpa teknologi.

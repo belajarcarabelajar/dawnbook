@@ -2,7 +2,7 @@
 
 Bayangkan kamu sedang berada di tengah laut yang sedang dilanda badai. Gelombang tinggi adalah ekspektasi karier, angin kencang adalah tekanan sosial, dan kompasmu tampak berputar tanpa arah. Dalam psikologi, kemampuan untuk tetap mengapung dan akhirnya mengarahkan kapalmu menuju ketenangan disebut dengan **Coping Strategy**.
 
-Quarter-Life Crisis (QLC) lebih dari sekadar fase "galau" biasa. Ini adalah masa saat tuntutan hidup melonjak tajam sementara sumber daya internal kita masih berkembang. Tanpa manajemen stres yang tepat, kita berisiko mengalami kelelahan mental (*burnout*) sebelum perjalanan yang sesungguhnya dimulai.
+Quarter-Life Crisis (QLC) adalah masa saat tuntutan hidup melonjak tajam sementara sumber daya internal kita masih berkembang. Tanpa manajemen stres yang tepat, kita berisiko mengalami kelelahan mental (*burnout*) sebelum perjalanan yang sesungguhnya dimulai.
 
 ## 1. Memahami "Stress Circuit" Kita
 
@@ -18,7 +18,7 @@ Jika pembilang (tekanan) jauh lebih besar daripada penyebut (sumber daya), krisi
 
 ## 2. Praktik Mindfulness
 
-Kecemasan QLC sering kali bersifat **antisipatoris**: kita takut akan masa depan yang belum terjadi. Mindfulness adalah teknik untuk menarik kesadaran kembali ke saat ini (*the present moment*).
+Kecemasan QLC sering kali bersifat **antisipatoris**, karena yang kita takutkan adalah masa depan yang belum terjadi. Mindfulness adalah teknik untuk menarik kesadaran kembali ke saat ini (*the present moment*).
 
 ### Teknik Grounding 5-4-3-2-1
 
@@ -39,7 +39,7 @@ Ini adalah teknik yang digunakan oleh atlet dan pasukan khusus untuk menenangkan
 3. Embuskan napas (4 detik)
 4. Tahan kosong (4 detik) *Ulangi 4 kali.*
 
-> **Insight:** Melalui mindfulness, kita melatih diri untuk menjadi pengamat yang tenang terhadap pikiran buruk tanpa harus tenggelam di dalamnya, alih-alih berusaha melenyapkannya.
+> **Insight:** Melalui mindfulness, kita melatih diri untuk mengamati pikiran buruk dengan tenang tanpa harus tenggelam di dalamnya. Pikiran itu tidak perlu dilenyapkan.
 
 ## 3. Menetapkan Batasan Diri (Boundaries) yang Sehat
 
@@ -57,15 +57,15 @@ Mengatakan tidak adalah sebuah keterampilan. Gunakan rumus: **"Terima kasih atas
 
 *Kapan terakhir kali kamu mengatakan "ya" pada orang lain, padahal sebenarnya kamu sedang mengatakan "tidak" pada kesehatan mentalmu sendiri?*
 
-## 4. Manajemen Energi, Bukan Hanya Manajemen Waktu
+## 4. Mengelola Energi di Samping Waktu
 
-Banyak anak muda terjebak dalam *productivity porn*: berusaha mengatur waktu sedemikian rupa hingga setiap detik harus menghasilkan uang atau prestasi. Namun, waktu bersifat terbatas (24 jam), sedangkan energi bisa diperbarui.
+Banyak anak muda terjebak dalam *productivity porn*, yaitu berusaha mengatur waktu sedemikian rupa hingga setiap detik harus menghasilkan uang atau prestasi. Namun, waktu bersifat terbatas (24 jam), sedangkan energi bisa diperbarui.
 
 **Empat Kuadran Energi:**
 
 - **Energi Fisik:** Tidur cukup, nutrisi, dan gerak tubuh.
 - **Energi Mental:** Fokus pada satu tugas (*monotasking*) daripada *multitasking*.
-- **Energi Emosional:** Berinteraksi dengan orang-orang yang memberikan dukungan, bukan yang menguras energi (*energy vampire*).
+- **Energi Emosional:** Berinteraksi dengan orang-orang yang memberikan dukungan, dan mengurangi waktu bersama mereka yang menguras energi (*energy vampire*).
 - **Energi Spiritual:** Melakukan hal yang sesuai dengan nilai-nilai pribadi (*values*).
 
 ## 5. Andi yang Cemas Melihat Unggahan Temannya

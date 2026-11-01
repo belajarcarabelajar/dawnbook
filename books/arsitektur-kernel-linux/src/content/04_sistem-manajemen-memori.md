@@ -1,6 +1,6 @@
 ## Sistem Manajemen Memori
 
-Bayangkan kamu adalah pengelola gudang besar yang menerima ribuan paket setiap detik. Kamu harus memutuskan di mana setiap paket diletakkan, memastikan paket yang sering digunakan mudah dijangkau, dan yang terpenting: memastikan tidak ada dua pengirim yang mencoba menaruh barang di kotak yang sama.
+Bayangkan kamu adalah pengelola gudang besar yang menerima ribuan paket setiap detik. Kamu harus memutuskan di mana setiap paket diletakkan, memastikan paket yang sering digunakan mudah dijangkau, dan yang terpenting, memastikan tidak ada dua pengirim yang mencoba menaruh barang di kotak yang sama.
 
 Dalam Linux, peran penting ini dijalankan oleh **sistem manajemen memori**. Fungsinya jauh melampaui pemindahan data sederhana ke RAM; sistem ini merupakan arsitektur kompleks yang memungkinkan komputer menjalankan berbagai aplikasi dengan total kebutuhan memori melebihi kapasitas fisik RAM yang terpasang.
 
@@ -73,7 +73,7 @@ Cara kerja SLAB mirip dengan nampan cetakan kue. Kernel menyediakan cetakan memo
 
 **Mengapa SLUB?** Saat ini, **SLUB** bertindak sebagai *allocator* standar pada Linux modern. Sebagai versi yang lebih ringkas (*lean*) dibanding SLAB, ia menawarkan efisiensi tinggi pada sistem dengan banyak inti prosesor (*multi-core*) karena memangkas beban manajemen metadata yang kompleks.
 
-> **Penting:** Mekanisme SLAB dan SLUB menjamin memori tidak sekadar dialokasikan, melainkan juga didaur ulang dengan cepat tanpa perlu mencari ruang kosong baru dari awal setiap kali objek dibuat.
+> **Penting:** Mekanisme SLAB dan SLUB menjamin memori yang sudah dialokasikan juga didaur ulang dengan cepat tanpa perlu mencari ruang kosong baru dari awal setiap kali objek dibuat.
 
 ## 5. Contoh Kode kmalloc
 
@@ -111,12 +111,12 @@ void example_allocation(void) {
 
 Pernahkah kamu menjalankan terlalu banyak aplikasi (seperti membuka puluhan tab peramban secara bersamaan) hingga salah satu aplikasi tiba-tiba tertutup sendiri? Peristiwa tersebut merupakan hasil kerja dari **Out-Of-Memory (OOM) Killer**.
 
-Saat kapasitas RAM benar-benar habis dan sistem tidak lagi sanggup melakukan paging, kernel terpaksa mengambil keputusan kritis: memilih proses mana yang harus dihentikan demi menyelamatkan seluruh sistem dari kegagalan total.
+Saat kapasitas RAM benar-benar habis dan sistem tidak lagi sanggup melakukan paging, kernel terpaksa mengambil keputusan kritis dengan memilih proses mana yang harus dihentikan demi menyelamatkan seluruh sistem dari kegagalan total.
 
 **Cara Kerja OOM Killer:**
 
 1. Kernel menghitung dan memberikan nilai `oom_score` ke setiap proses yang sedang berjalan.
-2. Proses dengan konsumsi memori besar tetapi bukan merupakan proses sistem yang kritis akan mendapatkan skor lebih tinggi.
+2. Proses dengan konsumsi memori besar yang tidak termasuk proses sistem kritis akan mendapatkan skor lebih tinggi.
 3. Kernel kemudian mengirimkan sinyal penutupan paksa `SIGKILL` ke proses dengan skor tertinggi agar memori segera terbebas.
 
 ## Ringkasan Singkat

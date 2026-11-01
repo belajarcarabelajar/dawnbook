@@ -1,6 +1,6 @@
 ## Tips Praktis Sebelum dan Selama Keberangkatan
 
-Pernahkah kamu membayangkan bahwa berpindah ke luar negeri atau daerah baru seperti mencoba menari di atas lantai yang licin? Tanpa latihan dan sepatu yang tepat, kamu akan sering terpeleset. Namun, dengan persiapan yang matang, kamu tidak hanya akan bertahan, tetapi juga bisa menikmati tarian tersebut.
+Pernahkah kamu membayangkan bahwa berpindah ke luar negeri atau daerah baru seperti mencoba menari di atas lantai yang licin? Tanpa latihan dan sepatu yang tepat, kamu akan sering terpeleset. Namun, dengan persiapan yang matang, kamu bisa bertahan sambil menikmati tarian tersebut.
 
 Mempersiapkan diri menghadapi gegar budaya (culture shock) bertujuan untuk memperkecil "guncangan" saat kamu mendarat, sebab tantangan itu pasti akan selalu ada. Bagian ini akan membekali kamu dengan persiapan mental dan teknis sebelum kakimu melangkah di bandara tujuan.
 
@@ -28,16 +28,16 @@ Keterangan:
 - **Visualisasi Skenario Buruk:** Jangan hanya membayangkan hal-hal indah. Bayangkan jika kamu tersesat, kehilangan paspor, atau tidak mengerti menu makanan. Bagaimana reaksimu saat hal itu terjadi? Memiliki rencana darurat mental akan mengurangi kepanikan saat situasi sulit benar-benar muncul.
 - **Terima Peran sebagai "Pemula":** Sadarilah bahwa di tempat baru, kamu akan menjadi "anak kecil" lagi. Kamu mungkin tidak tahu cara membuang sampah yang benar atau cara membeli tiket bus. Menerima status sebagai pembelajar akan menurunkan beban egomu.
 
-> "Gegar budaya bukan berarti kamu lemah; itu adalah tanda bahwa kamu sedang tumbuh melampaui batas kenyamanan lamamu."
+> "Gegar budaya adalah tanda bahwa kamu sedang tumbuh melampaui batas kenyamanan lamamu."
 
 ## 2. Riset Awal
 
-Riset lebih dari sekadar membaca Wikipedia. Ini adalah tentang memahami "aturan tak tertulis" dari lingkungan barumu.
+Riset yang baik berarti memahami "aturan tak tertulis" dari lingkungan barumu, dan untuk itu membaca Wikipedia saja belum cukup.
 
 ### Metode Lima Indra untuk Riset
 
-1. **Penglihatan:** Tonton vlog dari orang lokal (bukan hanya turis). Amati bagaimana mereka berpakaian dan berinteraksi di ruang publik.
-2. **Pendengaran:** Pelajari frasa kunci dalam bahasa lokal. Bukan hanya "Halo", tapi kalimat seperti *"Maaf, saya sedang belajar, bisa bicara lebih pelan?"*
+1. **Penglihatan:** Tonton vlog buatan orang lokal, selain vlog para turis. Amati bagaimana mereka berpakaian dan berinteraksi di ruang publik.
+2. **Pendengaran:** Pelajari frasa kunci dalam bahasa lokal. Selain "Halo", pelajari juga kalimat seperti *"Maaf, saya sedang belajar, bisa bicara lebih pelan?"*
 3. **Penciuman & Rasa:** Cari tahu bahan makanan apa yang dominan. Jika kamu terbiasa dengan sambal, dan tujuanmu adalah tempat yang minim bumbu pedas, siapkan mental (dan stok pribadi).
 4. **Sentuhan (Etika Fisik):** Riset tentang *personal space*. Apakah orang di sana bersalaman, membungkuk, atau berpelukan saat bertemu?
 
@@ -54,7 +54,7 @@ Logistik sering dianggap hal teknis, padahal memiliki dampak psikologis yang bes
 
 Bawalah barang-barang kecil yang memiliki keterikatan emosional kuat. Ini bisa berupa:
 
-- Foto keluarga fisik (bukan hanya di ponsel).
+- Foto keluarga dalam bentuk cetak, di samping yang tersimpan di ponsel.
 - Bumbu masak instan favorit.
 - Parfum atau sabun dengan aroma yang biasa kamu gunakan di rumah.
 
@@ -84,7 +84,7 @@ Transisi yang mulus dimulai saat kamu mendarat. Kelelahan fisik dan gangguan jam
 
 **Kasus Andi, Mahasiswa yang Pindah ke Jerman**
 
-- **Sebelum Berangkat:** Andi tidak hanya belajar bahasa Jerman, tapi dia juga meriset cara memilah sampah yang ketat di Jerman. Dia menonton video YouTube tentang "10 hal yang mengejutkan orang Indonesia di Jerman".
+- **Sebelum Berangkat:** Selain belajar bahasa Jerman, Andi meriset cara memilah sampah yang ketat di Jerman. Dia menonton video YouTube tentang "10 hal yang mengejutkan orang Indonesia di Jerman".
 - **Strategi Barang:** Andi membawa satu botol kecil kecap manis kegemarannya dan foto wisuda keluarga.
 - **Saat Tiba:** Alih-alih langsung tidur karena lelah, Andi pergi ke supermarket terdekat untuk melihat-lihat jenis roti yang tersedia. Hal kecil ini membuatnya merasa "menang" di hari pertama karena berhasil melakukan transaksi mandiri.
 
@@ -94,4 +94,4 @@ Transisi yang mulus dimulai saat kamu mendarat. Kelelahan fisik dan gangguan jam
 
 Semakin matang riset dan kesiapan mentalmu sebelum berangkat, semakin kecil kemungkinan kamu kebingungan saat menghadapi perbedaan budaya yang nyata.
 
-> **Ingat:** Tujuan persiapan ini bukan agar kamu tidak kaget, tetapi agar kamu memiliki alat untuk bangkit kembali saat rasa kaget itu muncul.
+> **Ingat:** Persiapan ini membekalimu dengan alat untuk bangkit kembali saat rasa kaget muncul. Rasa kagetnya sendiri mungkin masih datang.

@@ -1,8 +1,8 @@
 ## Naskah Mahakarmawibhangga
 
-Pernahkah kamu membayangkan bagaimana para pemahat di abad ke-8 dapat menciptakan 160 panel relief yang konsisten? Semua panel itu menceritakan hukum sebab-akibat yang kompleks. Mereka tidak bekerja hanya berdasarkan imajinasi. Ada sebuah "skenario" atau panduan tertulis yang menjadi acuan utama mereka. Panduan itu adalah naskah **Mahakarmawibhangga**.
+Pernahkah kamu membayangkan bagaimana para pemahat di abad ke-8 dapat menciptakan 160 panel relief yang konsisten? Semua panel itu menceritakan hukum sebab-akibat yang kompleks. Para pemahat itu berpegang pada sebuah "skenario" atau panduan tertulis sebagai acuan utama, yaitu naskah **Mahakarmawibhangga**.
 
-Dalam bagian ini, kita akan membedah naskah Sanskerta kuno ini, bukan hanya sebagai karya sastra, tetapi sebagai cetak biru yang memungkinkan pesan moral Borobudur tersampaikan secara visual.
+Dalam bagian ini, kita akan membedah naskah Sanskerta kuno ini sebagai karya sastra sekaligus cetak biru yang memungkinkan pesan moral Borobudur tersampaikan secara visual.
 
 ## 1. Apa itu Mahakarmawibhangga?
 
@@ -18,7 +18,7 @@ Jadi, **Mahakarmawibhangga** secara harfiah berarti *"Penguraian Besar tentang P
 
 ## 2. Struktur Logika Naskah
 
-Naskah Mahakarmawibhangga tidak ditulis seperti novel dengan alur cerita yang panjang, melainkan menggunakan struktur **logika kausalitas** (sebab-akibat). Pola dasarnya adalah:
+Naskah Mahakarmawibhangga disusun dengan struktur **logika kausalitas** (sebab-akibat). Kamu tidak akan menemukan alur cerita panjang ala novel di dalamnya. Pola dasarnya adalah:
 
 <div>
 $$
@@ -28,11 +28,11 @@ $$
 
 ### Pola Penyajian dalam Teks
 
-1. **Identifikasi Perbuatan**: Teks menyebutkan satu perilaku spesifik (misal: menghormati orang tua).
+1. **Identifikasi Perbuatan**: Teks menyebutkan satu perilaku spesifik (misalnya menghormati orang tua).
 2. **Penjelasan Variasi**: Kadang dijelaskan intensitas perbuatan tersebut.
-3. **Pernyataan Akibat**: Teks merinci hasil yang akan didapat (misal: terlahir di keluarga terhormat atau berumur panjang).
+3. **Pernyataan Akibat**: Teks merinci hasil yang akan didapat (misalnya terlahir di keluarga terhormat atau berumur panjang).
 
-Jika naskah ini adalah sebuah kode komputer, ia akan terbaca seperti struktur "jika-maka": jika seseorang membunuh makhluk hidup, maka ia berumur pendek atau terlahir di neraka; jika seseorang memberi sedekah dengan tulus, maka ia mendapat kekayaan melimpah atau terlahir di surga.
+Jika naskah ini adalah sebuah kode komputer, ia akan terbaca seperti struktur "jika-maka". Jika seseorang membunuh makhluk hidup, maka ia berumur pendek atau terlahir di neraka. Jika seseorang memberi sedekah dengan tulus, maka ia mendapat kekayaan melimpah atau terlahir di surga.
 
 ## 3. Penemuan Hubungan Teks dan Relief
 
@@ -40,12 +40,12 @@ Selama berabad-abad, identitas naskah yang menjadi sumber relief di kaki tersemb
 
 Lévi menemukan sebuah naskah Sanskerta di Nepal yang isinya identik dengan apa yang terpahat di relief Borobudur. Penemuan ini penting karena:
 
-- **Inskripsi Pendek**: Di atas beberapa panel relief yang belum selesai, ditemukan coretan instruksi singkat dalam aksara Kawi/Jawa Kuno (misal: *virupa* yang berarti "wajah buruk"). Kata-kata ini ternyata adalah kata kunci yang diambil langsung dari teks Mahakarmawibhangga.
+- **Inskripsi Pendek**: Di atas beberapa panel relief yang belum selesai, ditemukan coretan instruksi singkat dalam aksara Kawi/Jawa Kuno (misalnya *virupa* yang berarti "wajah buruk"). Kata-kata ini ternyata adalah kata kunci yang diambil langsung dari teks Mahakarmawibhangga.
 - **Urutan Panel**: Urutan 160 panel di kaki Borobudur ternyata mengikuti sistematika bab demi bab yang ada dalam naskah tersebut.
 
 ## 4. Mahakarmawibhangga dari Teks ke Visual
 
-Mengubah naskah filosofis menjadi gambar di batu bukanlah tugas mudah. Para pemahat (yang dipimpin oleh seorang *Sutradhara* atau perancang arsitektur) harus melakukan interpretasi visual terhadap konsep abstrak.
+Mengubah naskah filosofis menjadi gambar di batu adalah tugas yang sulit. Para pemahat (yang dipimpin oleh seorang *Sutradhara* atau perancang arsitektur) harus melakukan interpretasi visual terhadap konsep abstrak.
 
 | Unsur dalam Naskah | Manifestasi Visual pada Relief |
 | --- | --- |
@@ -58,7 +58,7 @@ Mengubah naskah filosofis menjadi gambar di batu bukanlah tugas mudah. Para pema
 Pemilihan Mahakarmawibhangga sebagai sumber utama di kaki Borobudur memiliki tujuan strategis:
 
 1. **Pendidikan Dasar**: Borobudur dirancang sebagai sarana ziarah edukatif. Hukum karma adalah fondasi dasar etika Buddhis bagi masyarakat awam sebelum mereka mempelajari tingkatan spiritual yang lebih tinggi di relief bagian atas.
-2. **Universalitas**: Cerita dalam naskah ini bersifat membumi. Ia berbicara tentang kehidupan sehari-hari: cara makan, hubungan keluarga, cara berdagang, dan etika sosial.
+2. **Universalitas**: Cerita dalam naskah ini bersifat membumi. Ia berbicara tentang kehidupan sehari-hari, mulai dari cara makan, hubungan keluarga, dan cara berdagang sampai etika sosial.
 3. **Standardisasi Ajaran**: Dengan merujuk pada teks Sanskerta yang diakui secara internasional (pada masa itu), Borobudur menegaskan posisinya sebagai pusat pembelajaran agama yang otentik.
 
 ## 6. Contoh Implementasi Naskah pada Relief
@@ -69,7 +69,7 @@ Mari kita lihat bagaimana satu baris teks diterjemahkan menjadi pahatan:
 
 > *"Sepuluh perbuatan yang menyebabkan seseorang berumur panjang: menjauhi pembunuhan, menganjurkan orang lain untuk tidak membunuh, memuji tindakan tidak membunuh..."*
 
-**Implementasi Visual (Relief):** Pemahat tidak hanya menggambar orang diam, melainkan sebuah adegan dinamis ketika seseorang sedang membebaskan burung dari sangkar atau tabib yang sedang mengobati pasien dengan penuh kasih sayang.
+**Implementasi Visual (Relief):** Pemahat menghadirkan sebuah adegan dinamis ketika seseorang sedang membebaskan burung dari sangkar atau tabib yang sedang mengobati pasien dengan penuh kasih sayang.
 
 ## Skenario Film dan Spesifikasi Teknis
 
@@ -78,4 +78,4 @@ Dalam dunia modern, peran Mahakarmawibhangga bagi Borobudur mirip dengan **skena
 - **Film**: Seorang sutradara tidak bisa membuat film tanpa skenario. Skenario memberikan instruksi dialog dan emosi, sama seperti naskah memberikan instruksi narasi moral bagi pemahat.
 - **Arsitektur**: Sebelum membangun gedung, ada dokumen spesifikasi teknis. Mahakarmawibhangga adalah "spesifikasi teknis moral" agar pesan yang disampaikan oleh banyak pemahat berbeda tetap konsisten dan tidak melenceng dari ajaran agama.
 
-> **Pesan Inti:** Naskah Mahakarmawibhangga membuktikan bahwa Borobudur bukan sekadar tumpukan batu yang indah, melainkan sebuah **literasi visual** yang terorganisir, dengan setiap pahatan memiliki dasar hukum tekstual yang kuat dan sistematis.
+> **Pesan Inti:** Naskah Mahakarmawibhangga membuktikan bahwa Borobudur adalah sebuah **literasi visual** yang terorganisir, dengan setiap pahatan memiliki dasar hukum tekstual yang kuat dan sistematis.

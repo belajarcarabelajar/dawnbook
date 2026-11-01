@@ -1,6 +1,6 @@
 ## Pengantar Teori Modal Manusia
 
-Pernahkah kamu bertanya-tanya mengapa seorang dokter spesialis mendapatkan pendapatan jauh lebih tinggi dibanding seorang pekerja administrasi dasar? Atau mengapa berbagai negara maju berlomba-lomba mengalokasikan porsi anggaran besar untuk sektor pendidikan dan kesehatan? Jawabannya terletak pada satu konsep ekonomi: **Human Capital** (Modal Manusia).
+Pernahkah kamu bertanya-tanya mengapa seorang dokter spesialis mendapatkan pendapatan jauh lebih tinggi dibanding seorang pekerja administrasi dasar? Atau mengapa berbagai negara maju berlomba-lomba mengalokasikan porsi anggaran besar untuk sektor pendidikan dan kesehatan? Jawabannya terletak pada konsep ekonomi yang disebut **Human Capital** (Modal Manusia).
 
 Dalam bab ini, kita akan mempelajari pemahaman dasar mengenai bagaimana kualitas diri manusia, seperti pengetahuan, keahlian, dan kesehatan, bertransformasi dari sekadar komponen biaya menjadi aset produktif dalam perekonomian modern.
 
@@ -41,7 +41,7 @@ Jika Schultz memberikan dasar makroekonomi, **Gary Becker** meletakkan fondasi m
 
 Dalam pandangan Becker, keputusan individu untuk menempuh pendidikan tinggi atau mengikuti kursus profesional beroperasi serupa dengan keputusan perusahaan membeli peralatan baru, yaitu melalui perbandingan rasional antara biaya investasi dan imbal hasil (*return*).
 
-Pertanyaan reflektif: Apakah kamu mengambil program sertifikasi atau kuliah saat ini demi kepuasan akademis semata, atau karena kamu memperhitungkan peningkatan nilai jual (*marketability*) keahlianmu di pasar kerja pada masa depan?
+Coba tanyakan pada dirimu, apakah kamu mengambil program sertifikasi atau kuliah saat ini demi kepuasan akademis semata, atau karena kamu memperhitungkan peningkatan nilai jual (*marketability*) keahlianmu di pasar kerja pada masa depan?
 
 ## Pergeseran Paradigma dari Beban (*Cost*) Menjadi Aset (*Asset*)
 
@@ -54,7 +54,7 @@ Kemunculan Teori Modal Manusia memicu perubahan mendasar dalam tata kelola manaj
 | **Dinamika Nilai** | Mengalami depresiasi seiring bertambahnya usia fisik. | Mengalami apresiasi melalui akumulasi pengalaman (*learning by doing*). |
 
 > **Prinsip Utama:**  
-> Keunggulan suatu entitas atau negara di era modern tidak lagi ditentukan oleh kelimpahan sumber daya alam mentah, melainkan oleh kualitas dan kapasitas intelektual populasi yang mengelolanya.
+> Di era modern, keunggulan suatu entitas atau negara ditentukan oleh kualitas dan kapasitas intelektual populasi yang mengelolanya. Kelimpahan sumber daya alam mentah tidak lagi menjadi penentunya.
 
 ## Aplikasi Dunia Nyata dan Evaluasi Investasi
 
@@ -84,7 +84,7 @@ Jika nilai $\text{NPV} > 0$, keputusan menunda pendapatan saat ini demi mengakum
 
 ### Implikasi pada Skala Perusahaan
 
-Perusahaan teknologi terkemuka mengalokasikan anggaran besar untuk penyediaan pelatihan berkelanjutan, program sertifikasi, serta jaminan kesehatan menyeluruh. Langkah ini diambil bukan sebagai bentuk kepedulian sosial belaka, melainkan karena manajemen menyadari bahwa kemampuan berpikir dan produktivitas tenaga kerja merupakan aset utama pembentuk nilai perusahaan.
+Perusahaan teknologi terkemuka mengalokasikan anggaran besar untuk penyediaan pelatihan berkelanjutan, program sertifikasi, serta jaminan kesehatan menyeluruh. Manajemen mengambil langkah ini karena menyadari bahwa kemampuan berpikir dan produktivitas tenaga kerja merupakan aset utama pembentuk nilai perusahaan.
 
 ## Ringkasan Bab
 

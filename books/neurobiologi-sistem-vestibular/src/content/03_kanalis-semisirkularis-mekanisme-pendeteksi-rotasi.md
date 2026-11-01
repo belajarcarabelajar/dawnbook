@@ -24,11 +24,11 @@ Di salah satu ujung setiap kanalis terdapat bagian yang membesar, yang disebut *
 - **Kupula:** Sebuah struktur gelatinosa (seperti jeli) yang menutupi krista ampularis. Kupula membentang dari dasar ampula hingga ke puncaknya, menciptakan penghalang yang bisa digerakkan oleh aliran cairan.
 - **Endolimfe:** Cairan yang mengisi seluruh kanalis semisirkularis.
 
-> **Penting:** Kupula memiliki berat jenis yang sama dengan endolimfe di sekitarnya. Artinya, kupula tidak terpengaruh oleh gravitasi (tidak seperti otolit), tetapi sangat sensitif terhadap dorongan cairan.
+> **Penting:** Kupula memiliki berat jenis yang sama dengan endolimfe di sekitarnya. Artinya, kupula sangat sensitif terhadap dorongan cairan, sementara gravitasi tidak memengaruhinya (berbeda dengan otolit).
 
 ### 3. Inersia dan Defleksi Kupula
 
-Bagaimana gerakan putar kepala berubah menjadi sinyal listrik di otak? Proses ini melibatkan prinsip fisika sederhana: **Inersia**.
+Bagaimana gerakan putar kepala berubah menjadi sinyal listrik di otak? Proses ini bertumpu pada prinsip fisika sederhana yang disebut **inersia**.
 
 1. **Kepala Mulai Berputar:** Saat kepala mulai berputar ke kanan, tulang kanalis semisirkularis ikut bergerak ke kanan.
 2. **Inersia Endolimfe:** Karena inersia, cairan endolimfe di dalam saluran cenderung "tertinggal" atau tetap diam sejenak. Hal ini menyebabkan aliran relatif cairan ke arah yang berlawanan dengan gerakan kepala.
@@ -55,7 +55,7 @@ Keterangan:
 - $I$ adalah momen inersia endolimfe.
 - $\alpha$ adalah akselerasi sudut kepala ($\frac{\text{rad}}{\text{s}^2}$).
 
-Sistem ini bekerja paling efektif untuk mendeteksi **akselerasi sudut** (perubahan kecepatan putar), bukan kecepatan konstan. Namun, dalam rentang gerak tertentu, sinyal yang dikirim ke otak mewakili:
+Sistem ini bekerja paling efektif untuk mendeteksi **akselerasi sudut** (perubahan kecepatan putar). Putaran dengan kecepatan konstan tidak terdeteksi sebaik itu. Meski begitu, dalam rentang gerak tertentu, sinyal yang dikirim ke otak mewakili:
 
 <div>
 $$

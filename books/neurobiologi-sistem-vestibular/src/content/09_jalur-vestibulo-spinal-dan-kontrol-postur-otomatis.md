@@ -12,7 +12,7 @@ Ketika tubuh miring ke kiri, pusat kendali ini menarik serat pada otot-otot sisi
 
 ### 2. Dua Jalur Utama Lateral dan Medial
 
-Sinyal dari organ vestibular tidak dikirim secara acak. Terdapat dua jalur utama yang membawa perintah dari nukleus vestibularis di batang otak menuju sumsum tulang belakang (*spinal cord*).
+Sinyal dari organ vestibular dikirim lewat dua jalur utama yang membawa perintah dari nukleus vestibularis di batang otak menuju sumsum tulang belakang (*spinal cord*).
 
 #### A. Traktus Vestibulospinalis Lateralis (LVST)
 
@@ -47,7 +47,7 @@ Bagaimana sinyal listrik diubah menjadi kekuatan mekanis otot? Proses ini meliba
 
 ### 4. Kontrol Postur Otomatis dalam Gerakan
 
-Kontrol postur tidak hanya berfungsi saat tubuh diam, tetapi juga mencakup mekanisme antisipasi dan reaksi dinamis ketika bergerak.
+Kontrol postur juga bekerja ketika tubuh bergerak, lewat mekanisme antisipasi dan reaksi dinamis.
 
 #### Mekanisme Feedback (Umpan Balik)
 
@@ -85,6 +85,6 @@ Pada kasus trauma kepala atau lesi struktural berat di batang otak bagian atas, 
 | **Aksi Muskular** | Memperkuat tonus otot ekstensor antigravitasi | Mengoordinasikan otot leher dan punggung atas |
 | **Analogi Mekanis** | Tiang penyangga struktur bangunan | Penyeimbang elektronik (*gimbal*) kamera |
 
-Bayangkan jika transmisi sinyal pada jalur ini mengalami keterlambatan (*delay*) beberapa milidetik saja: koordinasi motorik akan goyah, langkah kaki kehilangan presisi, dan kemampuan mempertahankan keseimbangan dinamis akan terganggu.
+Bayangkan jika transmisi sinyal pada jalur ini mengalami keterlambatan (*delay*) beberapa milidetik saja. Koordinasi motorik akan goyah, langkah kaki kehilangan presisi, dan kemampuan mempertahankan keseimbangan dinamis akan terganggu.
 
-> **Wawasan Penting:** Keseimbangan bukanlah sebuah kondisi statis, melainkan serangkaian koreksi mikro terintegrasi yang dijalankan secara terus-menerus oleh jalur vestibulo-spinal. Tubuh yang berdiri tegak tidak semata-mata berada dalam posisi pasif, melainkan secara aktif melakukan adaptasi neuromuskular agar tidak jatuh.
+> **Wawasan Penting:** Keseimbangan adalah serangkaian koreksi mikro terintegrasi yang dijalankan secara terus-menerus oleh jalur vestibulo-spinal. Saat berdiri tegak, tubuh secara aktif melakukan adaptasi neuromuskular agar tidak jatuh.

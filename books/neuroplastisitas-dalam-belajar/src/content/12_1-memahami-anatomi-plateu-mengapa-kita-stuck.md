@@ -2,7 +2,7 @@
 
 Pernahkah kamu merasa sudah belajar berjam-jam, berlatih setiap hari, tetapi kemampuan kamu seolah jalan di tempat? Dalam dunia psikologi belajar, fenomena ini disebut sebagai **Learning Plateau** (Dataran Tinggi Belajar).
 
-Meskipun membuat frustrasi, kabar baiknya adalah dari sudut pandang neuroplastisitas, plateau bukanlah tanda bahwa kamu berhenti belajar. Sebaliknya, itu adalah fase penting ketika otak kamu sedang melakukan "pemeliharaan sistem" di balik layar.
+Meskipun membuat frustrasi, plateau menyimpan kabar baik dari sudut pandang neuroplastisitas. Pada fase penting ini, otak kamu sedang melakukan "pemeliharaan sistem" di balik layar, jadi proses belajarmu masih berjalan.
 
 ## 1\. Memahami Anatomi Plateau
 
@@ -30,7 +30,7 @@ Banyak pembelajar menyerah saat mereka mulai melakukan kesalahan. Padahal, dalam
 
 ## 3\. Teknik Keluar dari Plateau (Breaking the Plateau)
 
-Untuk keluar dari plateau, kita harus memaksa otak keluar dari mode otomatisasi. Berikut adalah teknik berbasis sains untuk melakukannya:
+Untuk keluar dari plateau, kita harus memaksa otak keluar dari mode otomatisasi. Ada beberapa teknik berbasis sains untuk melakukannya.
 
 ### A. Prinsip "Desirable Difficulty" (Kesulitan yang Diinginkan)
 
@@ -74,9 +74,9 @@ Bayangkan seorang pengembang perangkat lunak yang merasa kemampuan *debugging*-n
 **Cara Mendobrak dengan Neuroplastisitas:**
 
 1. **Ganti Alat:** Paksa diri menggunakan *Debugger Tools* profesional atau melakukan *Rubber Ducking*.
-2. **Analisis Error Secara Mendalam:** Saat menemukan *bug*, jangan langsung memperbaikinya. Tanyakan: *"Mengapa asumsi saya salah?"*
+2. **Analisis Error Secara Mendalam:** Saat menemukan *bug*, jangan langsung memperbaikinya. Tanyakan dulu, *"Mengapa asumsi saya salah?"*
 3. **Time Pressure:** Beri batasan waktu yang ketat untuk menemukan masalah. Tekanan ini melepaskan neurokimia yang meningkatkan plastisitas.
-4. **Tambah Batasan Baru:** Jangan hanya menulis ulang program yang sudah biasa dibuat. Tulis program yang sama dengan batasan (*constraint*) baru. Misalnya, program penghitung huruf vokal yang biasanya memakai percabangan `if` dan perulangan `for` ditulis ulang tanpa keduanya.
+4. **Tambah Batasan Baru:** Tulis ulang program yang sudah biasa kamu buat dengan batasan (*constraint*) baru. Misalnya, program penghitung huruf vokal yang biasanya memakai percabangan `if` dan perulangan `for` ditulis ulang tanpa keduanya.
 
 ## 6\. Solusi untuk Tiap Masalah Plateau
 
@@ -89,4 +89,4 @@ Bayangkan seorang pengembang perangkat lunak yang merasa kemampuan *debugging*-n
 
 > **Pesan Penting:** Jangan benci plateau kamu. Plateau adalah tanda bahwa dasar bangunan kognitif kamu sedang diperkuat. Teruslah membuat kesalahan yang cerdas, dan biarkan otak kamu melakukan tugas kalibrasinya.
 
-*Coba renungkan: Kapan terakhir kali kamu merasa benar-benar kesulitan saat belajar? Jika itu sudah lama sekali, mungkin itu sebabnya kamu merasa tidak berkembang. Tantangan apa yang bisa kamu tambahkan hari ini?*
+*Coba renungkan, kapan terakhir kali kamu merasa benar-benar kesulitan saat belajar? Jika itu sudah lama sekali, mungkin itu sebabnya kamu merasa tidak berkembang. Tantangan apa yang bisa kamu tambahkan hari ini?*

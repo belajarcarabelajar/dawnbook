@@ -2,15 +2,15 @@
 
 Pada intinya, AWK dalam kriminologi membongkar asumsi bahwa "kejahatan" ada secara alamiah dan "penjahat" berbeda jenis dari masyarakat.
 
-Bagian ini memperlihatkan bagaimana bahasa bukan sekadar alat untuk melaporkan peristiwa, melainkan alat yang membentuk persepsi masyarakat tentang benar dan salah, normal dan menyimpang.
+Bagian ini memperlihatkan bagaimana bahasa yang dipakai untuk melaporkan peristiwa ikut membentuk persepsi masyarakat tentang benar dan salah, normal dan menyimpang.
 
-### 1. Kejahatan sebagai Produk Budaya, Bukan Fakta Alamiah
+### 1. Kejahatan Lahir dari Budaya
 
 Bayangkan ketika melihat tanaman liar di tengah taman bunga yang tertata rapi. Apakah tanaman itu secara biologis adalah "gulma"? Tidak. Secara biologis, ia hanyalah tumbuhan. Ia menjadi "gulma" hanya karena manusia memutuskan bahwa ia tumbuh di tempat yang salah dan mengganggu estetika taman tersebut.
 
 Begitu pula dengan kejahatan.
 
-> **Wawasan Utama:** Kejahatan bukanlah kualitas dari tindakan itu sendiri, melainkan hasil dari penerapan aturan dan sanksi oleh pihak berwenang kepada pihak yang dilabeli sebagai pelaku.
+> **Wawasan Utama:** Kejahatan adalah hasil dari penerapan aturan dan sanksi oleh pihak berwenang kepada pihak yang dilabeli sebagai pelaku. Sifat itu tidak melekat pada tindakan itu sendiri.
 
 Dalam pandangan AWK, sebuah tindakan (seperti mengonsumsi zat tertentu atau mengambil milik orang lain) hanya menjadi "kejahatan" ketika narasi dominan dalam masyarakat, melalui hukum dan diskursus publik, melabelinya demikian.
 
@@ -72,7 +72,7 @@ Mari lihat bagaimana narasi mengonstruksi realitas melalui contoh *"War on Drugs
 - Bahasa yang digunakan untuk **Individu A** adalah bahasa *empati* (mengonstruksi pelaku sebagai korban).
 - Bahasa yang digunakan untuk **Individu B** adalah bahasa *kriminalisasi* (mengonstruksi pelaku sebagai musuh masyarakat).
 
-Konstruksi sosial ini berdampak langsung pada kebijakan publik: masyarakat akan lebih mendukung anggaran besar untuk pemenjaraan bagi "Individu B" dan dukungan medis/rehabilitasi bagi "Individu A".
+Konstruksi sosial ini berdampak langsung pada kebijakan publik. Masyarakat akan lebih mendukung anggaran besar untuk pemenjaraan bagi "Individu B" dan dukungan medis/rehabilitasi bagi "Individu A".
 
 ### 5. Strategi Dekonstruksi bagi Pemelajar Kinestetik
 
@@ -107,9 +107,9 @@ Dalam kriminologi, bahasa dianggap sebagai manifestasi perilaku. Berikut adalah 
 
 ### Intisari Konstruksi Sosial Kejahatan
 
-> **Pesan Utama:** Kejahatan bukanlah sesuatu yang ditemukan di bawah mikroskop, melainkan sesuatu yang dikonstruksi melalui percakapan, hukum, dan media berita. Menjadi analis wacana kritis berarti berani mempertanyakan: *"Siapa yang diuntungkan dari definisi kejahatan ini?"*
+> **Pesan Utama:** Kejahatan dikonstruksi melalui percakapan, hukum, dan media berita. Menjadi analis wacana kritis berarti berani bertanya siapa yang diuntungkan dari definisi kejahatan itu.
 
-- **Identitas penjahat** adalah label sosial, bukan sifat genetik atau bawaan lahir.
+- **Identitas penjahat** adalah label sosial. Ia tidak diwariskan secara genetik atau dibawa sejak lahir.
 - **Bahasa** berfungsi sebagai alat kontrol sosial untuk menentukan siapa yang pantas dihukum dan siapa yang pantas dimaafkan.
 - **Analisis Wacana Kritis** membantu masyarakat melihat melampaui teks hukum untuk menemukan kepentingan politik dan ideologi yang tersembunyi di baliknya.
 - **Linguistik forensik** memberikan alat pembuktian ilmiah untuk mengidentifikasi pelaku kejahatan melalui analisis jejak bahasa dan struktur teks.

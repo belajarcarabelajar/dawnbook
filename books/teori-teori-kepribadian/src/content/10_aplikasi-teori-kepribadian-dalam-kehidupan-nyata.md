@@ -40,9 +40,9 @@ Sementara itu, untuk ranah pendidikan karakter, teori belajar sosial Albert Band
 
 ## 4. Pemahaman Lintas Budaya
 
-Konteks lintas budaya mengkaji pengaruh nilai-nilai masyarakat terhadap pikiran dan perilaku. Ada dua pendekatan utama yang sering dipakai: *etic* (universalitas) yang mencari aspek psikologis mendasar di semua wilayah, dan *emic* (spesifik budaya) yang berfokus pada keunikan lokal. Sebagai contoh, konsep *Amae* di Jepang menunjukkan ketergantungan yang dapat diterima antarindividu, hal yang berbeda jauh dengan penekanan kuat pada nilai independensi dan *Ego* mandiri di negara-negara Barat.
+Konteks lintas budaya mengkaji pengaruh nilai-nilai masyarakat terhadap pikiran dan perilaku. Dua pendekatan utama yang sering dipakai adalah *etic* (universalitas) yang mencari aspek psikologis mendasar di semua wilayah, dan *emic* (spesifik budaya) yang berfokus pada keunikan lokal. Sebagai contoh, konsep *Amae* di Jepang menunjukkan ketergantungan yang dapat diterima antarindividu, hal yang berbeda jauh dengan penekanan kuat pada nilai independensi dan *Ego* mandiri di negara-negara Barat.
 
-Banyak landasan psikologi yang asalnya berakar dari tradisi pemikiran Barat. Saat melakukan penilaian perilaku atau memberikan layanan, alat ukur yang digunakan harus dikalibrasi ulang dengan nilai setempat untuk menghindari bias yang menyesatkan. Klien dari latar budaya kolektif cenderung memiliki konsep diri yang terjalin erat dengan kelompok, tidak berdiri sendiri sebagai entitas yang terpisah.
+Banyak landasan psikologi yang asalnya berakar dari tradisi pemikiran Barat. Saat melakukan penilaian perilaku atau memberikan layanan, alat ukur yang digunakan harus dikalibrasi ulang dengan nilai setempat untuk menghindari bias yang menyesatkan. Klien dari latar budaya kolektif cenderung memiliki konsep diri yang terjalin erat dengan kelompoknya.
 
 Mengenali ragam ekspresi kepribadian ini akan memperbaiki kualitas komunikasi antarbangsa. Dalam bisnis internasional atau kerja sama global, perunding dari masyarakat individualis cenderung mengejar target spesifik pribadi atau perusahaannya. Di sisi lain, perunding dari kultur kolektif akan memprioritaskan terpeliharanya harmoni kelompok dan hubungan jangka panjang. Memahami beda prioritas ini akan mencegah kesalahpahaman.
 

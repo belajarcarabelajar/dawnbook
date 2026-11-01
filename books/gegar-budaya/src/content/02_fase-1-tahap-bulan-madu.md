@@ -6,7 +6,7 @@ Itulah **Fase Bulan Madu**, tahap pertama gegar budaya, saat lingkungan baru ter
 
 ## 1. Apa Itu Tahap Bulan Madu?
 
-Sesuai namanya, Tahap Bulan Madu adalah periode awal setelah seseorang tiba di lingkungan budaya yang baru. Pada fase ini, individu cenderung merasa positif, antusias, dan penuh rasa ingin tahu. Segala perbedaan budaya yang ditemui dianggap sebagai sesuatu yang eksotis dan memesona, bukan sebagai hambatan.
+Sesuai namanya, Tahap Bulan Madu adalah periode awal setelah seseorang tiba di lingkungan budaya yang baru. Pada fase ini, individu cenderung merasa positif, antusias, dan penuh rasa ingin tahu. Setiap perbedaan budaya yang ditemui terasa eksotis dan memesona.
 
 **Analogi:**
 
@@ -71,6 +71,6 @@ Agar fase ini menjadi fondasi yang kuat untuk tahap adaptasi selanjutnya, lakuka
 2. **Mulai Belajar Dasar Bahasa:** Manfaatkan energi euforia ini untuk mempelajari frasa dasar. Energi ini akan memudahkanmu menyerap informasi baru.
 3. **Bangun Jaringan Sosial:** Mulailah mencari teman, baik sesama perantau maupun warga lokal, selagi rasa percaya dirimu sedang tinggi.
 
-> **Catatan Berkesan:** Fase Bulan Madu bukanlah realitas budaya yang sesungguhnya; itu adalah perkenalan yang manis. Anggaplah fase ini sebagai "cadangan baterai emosional" yang sedang kamu isi untuk menghadapi tantangan di masa depan.
+> **Catatan Berkesan:** Fase Bulan Madu adalah perkenalan yang manis, dan wajah budaya yang sesungguhnya baru tampak sesudahnya. Anggaplah fase ini sebagai "cadangan baterai emosional" yang sedang kamu isi untuk menghadapi tantangan di masa depan.
 
 *Refleksi: Jika kamu sedang berada di tempat baru, hal apa yang paling membuatmu kagum hari ini? Apakah itu benar-benar bagian dari budaya mereka, atau hanya persepsi awalmu yang penuh semangat?*

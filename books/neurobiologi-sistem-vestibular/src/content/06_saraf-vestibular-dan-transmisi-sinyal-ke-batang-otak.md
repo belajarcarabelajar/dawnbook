@@ -21,7 +21,7 @@ Terletak di dalam meatus akustikus internus (*Internal Auditory Canal*), Ganglio
 
 ### 2. Struktur dan Pembagian Saraf Vestibular
 
-Saraf vestibular tidak berjalan sebagai satu berkas tunggal yang seragam, melainkan terbagi secara terorganisasi menjadi dua divisi utama. Pembagian anatomis ini memastikan sistem saraf pusat dapat memetakan asal sinyal secara spesifik:
+Saraf vestibular terbagi secara terorganisasi menjadi dua divisi utama. Pembagian anatomis ini memastikan sistem saraf pusat dapat memetakan asal sinyal secara spesifik:
 
 - **Saraf Vestibular Superior:** Membawa informasi sensorik dari:
   - Kanalis Semisirkularis Anterior (Superior).
@@ -105,7 +105,7 @@ $$
 
 - **Nervus Vestibulocochlearis (N. VIII)** merupakan konduit utama penyaluran informasi gravitasi dan gerak kepala dari perifer ke sentral.
 - **Ganglion Scarpa** menampung badan sel neuron bipolar aferen primer.
-- Informasi vestibular dikodekan melalui **modulasi frekuensi tembakan**, bukan melalui perubahan amplitudo potensial aksi.
+- Informasi vestibular dikodekan melalui **modulasi frekuensi tembakan**. Amplitudo potensial aksi tidak dipakai sebagai kode.
 - Sistem beroperasi menggunakan **tonus elektrokimiawi dasar** (pelepasan istirahat kontinu), yang menjamin sensitivitas deteksi gerak 360 derajat dalam segala orientasi ruang.
 
 > **Wawasan Penting:** Serat saraf vestibular memiliki kecepatan transmisi dan laju pelepasan kontinu yang tinggi. Kecepatan transmisi setinggi ini esensial karena penyesuaian refleksif terhadap gravitasi dan stabilitas visual harus terjadi sebelum persepsi sadar terbentuk di korteks serebri.

@@ -2,7 +2,7 @@
 
 Pernahkah kamu bertanya-tanya mengapa seseorang rela menghabiskan waktu empat tahun di universitas dan membayar biaya kuliah yang mahal? Ia bisa saja langsung bekerja setelah lulus SMA dan menghasilkan uang.
 
-Dalam **Teori Modal Manusia** (*Human Capital Theory*), keputusan ini bukan sekadar mengejar gelar atau prestise sosial. Pendidikan dipandang sebagai sebuah **investasi**, persis seperti perusahaan yang membeli mesin baru untuk meningkatkan kapasitas produksi. Keputusan untuk melanjutkan pendidikan merupakan hasil kalkulasi rasional antara pengorbanan hari ini dan potensi imbalan di masa depan.
+Dalam **Teori Modal Manusia** (*Human Capital Theory*), pendidikan dipandang sebagai sebuah **investasi**, persis seperti perusahaan yang membeli mesin baru untuk meningkatkan kapasitas produksi. Keputusan untuk melanjutkan pendidikan merupakan hasil kalkulasi rasional antara pengorbanan hari ini dan potensi imbalan di masa depan.
 
 ---
 
@@ -37,7 +37,7 @@ Biaya langsung mencakup seluruh pengeluaran riil yang keluar dari dompetmu:
 
 Biaya peluang merupakan komponen yang paling sering diabaikan, padahal nilainya kerap menjadi **biaya terbesar** dalam keputusan pendidikan. **Biaya peluang** (*opportunity cost*) adalah potensi pendapatan yang *seharusnya* kamu terima jika kamu memilih untuk bekerja penuh waktu daripada bersekolah.
 
-> **Analogi Persimpangan Jalan:** Bayangkan kamu berdiri di sebuah persimpangan. Jalan A menuju universitas selama 4 tahun. Jalan B menuju dunia kerja dengan gaji Rp5.000.000 per bulan. Jika kamu memilih Jalan A, biayamu bukan hanya uang SPP kuliah, melainkan juga Rp5.000.000 setiap bulan yang tidak pernah masuk ke rekening bankmu selama 4 tahun tersebut.
+> **Analogi Persimpangan Jalan:** Bayangkan kamu berdiri di sebuah persimpangan. Jalan A menuju universitas selama 4 tahun. Jalan B menuju dunia kerja dengan gaji Rp5.000.000 per bulan. Jika kamu memilih Jalan A, biayamu mencakup uang SPP kuliah ditambah Rp5.000.000 setiap bulan yang tidak pernah masuk ke rekening bankmu selama 4 tahun tersebut.
 
 ---
 
@@ -136,4 +136,4 @@ Meskipun biaya migrasi awal cukup tinggi, perbedaan manfaat moneter ($\text{B}\_
 - Seberapa panjang sisa horizon waktu kerjamu untuk memanen tingkat pengembalian dari investasi pendidikan ini?
 - Apakah peningkatan keterampilan yang kamu targetkan akan meningkatkan produktivitasmu secara nyata di pasar kerja?
 
-> **Pesan Utama:** Pendidikan bukan sekadar proses menimba ilmu, melainkan strategi mengelola alokasi waktu dan dana untuk mengoptimalkan akumulasi modal manusia sepanjang hidupmu.
+> **Pesan Utama:** Pendidikan adalah strategi mengelola alokasi waktu dan dana untuk mengoptimalkan akumulasi modal manusia sepanjang hidupmu.

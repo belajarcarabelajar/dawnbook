@@ -10,7 +10,7 @@ Secara sederhana, **literasi keuangan** (*financial literacy*) adalah kemampuan 
 
 Kamu perlu tahu konsep dasar seperti menabung, berutang, bunga, serta mengelola pengeluaran. Dari situ, kamu bisa mengambil keputusan finansial yang tepat berdasarkan informasi yang jelas.
 
-> Mengetahui istilah keuangan saja tidak cukup. Literasi keuangan menuntut kamu untuk mempraktikkan keterampilan tersebut setiap hari.
+> Literasi keuangan baru terasa manfaatnya ketika keterampilan tersebut kamu praktikkan setiap hari.
 
 Menurut Otoritas Jasa Keuangan (OJK), literasi keuangan adalah pengetahuan, keterampilan, dan keyakinan yang memengaruhi sikap dan perilaku untuk meningkatkan kualitas pengambilan keputusan dan pengelolaan keuangan. Semakin tinggi tingkat literasi ini, semakin baik pula cara masyarakat merencanakan dan mengatur keuangan mereka.
 

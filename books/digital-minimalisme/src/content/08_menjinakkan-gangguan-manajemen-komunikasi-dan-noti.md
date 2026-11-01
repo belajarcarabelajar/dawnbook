@@ -10,7 +10,7 @@ Banyak orang menganggap setiap notifikasi penting. Faktanya, sebagian besar peri
 
 > **Wawasan Penting:** Notifikasi adalah interupsi terjadwal oleh pihak lain terhadap waktumu.
 
-Dalam wawancara dengan Gallup pada 2006, Gloria Mark menceritakan temuan penelitiannya: pekerjaan yang terputus rata-rata baru dilanjutkan sekitar 23 menit kemudian, biasanya setelah ada sekitar dua tugas lain yang dikerjakan lebih dulu. Pengaruh gangguan bisa dilihat pada rumus efektivitas kerja ($E$):
+Dalam wawancara dengan Gallup pada 2006, Gloria Mark menceritakan bahwa dalam penelitiannya, pekerjaan yang terputus rata-rata baru dilanjutkan sekitar 23 menit kemudian, biasanya setelah ada sekitar dua tugas lain yang dikerjakan lebih dulu. Pengaruh gangguan bisa dilihat pada rumus efektivitas kerja ($E$):
 
 <div>
 $$
@@ -36,11 +36,11 @@ Manfaatkan fitur *Do Not Disturb* (DND) atau *Focus Mode* di ponsel. Atur jadwal
 
 Pesan WhatsApp, Telegram, maupun *email* sering menjadi sumber kecemasan tersendiri. Mengelolanya butuh siasat khusus agar kamu tidak kewalahan.
 
-Alih-alih langsung membalas setiap pesan, periksa dan tanggapi dalam tumpukan (*batching*) pada waktu tertentu. Contohnya, jadwalkan pemeriksaan pertama pukul 10.00 setelah menyelesaikan tugas terberat hari itu. Sediakan waktu singkat di siang hari untuk koordinasi cepat, dan selesaikan sisa balasan menjelang akhir jam kerja.
+Biarkan pesan terkumpul dulu, lalu periksa dan tanggapi dalam tumpukan (*batching*) pada waktu tertentu. Contohnya, jadwalkan pemeriksaan pertama pukul 10.00 setelah menyelesaikan tugas terberat hari itu. Sediakan waktu singkat di siang hari untuk koordinasi cepat, dan selesaikan sisa balasan menjelang akhir jam kerja.
 
 Demi menjaga efisiensi, biasakan membalas pesan maksimal dalam tiga kalimat. Jika penjelasan yang dibutuhkan terlalu panjang, segera telepon atau atur pertemuan langsung guna menghemat waktumu dan lawan bicara.
 
-*Pikirkan hal ini: Apakah kamu membalas pesan secara instan karena ada urgensi, atau sekadar tuntutan sosial semu?*
+*Coba tanyakan pada dirimu, apakah kamu membalas pesan secara instan karena ada urgensi, atau sekadar tuntutan sosial semu?*
 
 ### 4\. Mengubah Ponsel Menjadi Alat Fungsional
 

@@ -1,6 +1,6 @@
 ## Mendengar Aktif dan Empati
 
-Kebanyakan orang tidak mendengarkan dengan niat untuk memahami; mereka mendengarkan dengan niat untuk menjawab. Dalam dunia profesional yang bergerak cepat, komunikasi sering kali dianggap sebagai transmisi informasi satu arah. Namun, kecerdasan interpersonal yang sejati dimulai saat kamu berhenti menyusun argumen di kepalamu dan mulai benar-benar "hadir" untuk lawan bicara.
+Kebanyakan orang mendengarkan sambil menyiapkan jawaban. Dalam dunia profesional yang bergerak cepat, komunikasi sering kali dianggap sebagai transmisi informasi satu arah. Namun, kecerdasan interpersonal yang sejati dimulai saat kamu berhenti menyusun argumen di kepalamu dan mulai benar-benar "hadir" untuk lawan bicara.
 
 ## 1. Mendengar untuk Memahami vs. Mendengar untuk Menjawab
 
@@ -8,7 +8,7 @@ Sering kali kita terjebak dalam fenomena *autobiographical listening*, saat kita
 
 **Analoginya:** Bayangkan komunikasi sebagai frekuensi radio. Jika kamu hanya fokus memancarkan sinyal (menjawab), kamu tidak akan pernah bisa menerima siaran dari stasiun lain. Mendengar aktif adalah proses menyetel antenamu agar tepat berada pada frekuensi yang sama dengan lawan bicara.
 
-> **Intisari:** Mendengar aktif tidak berarti kamu harus selalu setuju dengan semua perkataan lawan bicara. Intinya adalah komitmen untuk memahami sudut pandang mereka secara utuh sebelum memberikan tanggapan.
+> **Intisari:** Mendengar aktif berarti berkomitmen memahami sudut pandang lawan bicara secara utuh sebelum memberikan tanggapan. Setuju atau tidak dengan perkataannya bisa kamu tentukan sesudah itu.
 
 Secara matematis, efektivitas komunikasi $E$ dapat dirumuskan secara sederhana sebagai berikut:
 
@@ -53,7 +53,7 @@ Dalam struktur organisasi, setiap departemen memiliki "bahasa" dan "prioritas" y
 ### Cara Membangun Empati Antartim
 
 * **Gunakan lensa mereka**: Cobalah bertanya, *"Indikator kinerja utama (KPI) apa yang ingin mereka kejar?"* sebelum kamu telanjur mengkritik permintaan dari divisi lain.
-* **Validasi emosi, bukan sekadar logika**: Akui rasa frustrasi mereka jika ada kendala mendadak. Contohnya: *"Saya mengerti perubahan mendadak ini sangat mengganggu jadwal padat tim desain."*
+* **Validasi emosi di samping logika**: Akui rasa frustrasi mereka jika ada kendala mendadak, misalnya dengan berkata, *"Saya mengerti perubahan mendadak ini sangat mengganggu jadwal padat tim desain."*
 * **Singkirkan sekat kelompok**: Ganti kalimat menuntut seperti *"Tim kami butuh ini segera dari tim kalian"* menjadi ajakan kolaborasi seperti *"Bagaimana kita bisa menyelaraskan langkah agar proyek ini berjalan lancar?"*
 
 Bayangkan saat kamu merasa kesal karena permintaan teknis kepada tim IT terasa lambat diproses. Sebelum mengirimkan surel tindak lanjut yang menuntut, cobalah bayangkan tumpukan antrean tiket masalah yang sedang mereka selesaikan serta tekanan sistem yang harus mereka jaga agar tidak mati.
@@ -67,13 +67,13 @@ Bayangkan saat kamu merasa kesal karena permintaan teknis kepada tim IT terasa l
 **Pendekatan Tanpa Mendengar Aktif:**
 
 - **PM:** "Kita harus rilis! Kompetitor sudah melakukannya."
-- **Engineer:** "Tidak bisa. Sistem akan crash. Kamu tidak paham teknis." *(Hasil: Kebuntuan dan ketegangan)*
+- **Engineer:** "Tidak bisa. Sistem akan crash. Kamu tidak paham teknis." *(Percakapan berakhir buntu dan tegang)*
 
 **Pendekatan dengan Mendengar Aktif & Empati:**
 
 - **PM:** "Saya dengar kamu khawatir soal stabilitas sistem jika kita memaksakan rilis ini dalam dua minggu. Bisa bantu saya paham bagian mana yang paling berisiko?" (*Restating* & *Clarifying*)
 - **Engineer:** "Masalahnya di integrasi API pihak ketiga yang belum stabil. Jika dipaksakan, user akan mengalami error saat checkout."
-- **PM:** "Jadi risiko utamanya adalah di proses checkout. Mengingat momentum pasar kita sangat menentukan di akhir bulan, apakah ada versi minimal (MVP) yang bisa kita rilis tanpa menyentuh modul checkout tersebut?" *(Hasil: Solusi kolaboratif yang menghargai kedua perspektif)*
+- **PM:** "Jadi risiko utamanya adalah di proses checkout. Mengingat momentum pasar kita sangat menentukan di akhir bulan, apakah ada versi minimal (MVP) yang bisa kita rilis tanpa menyentuh modul checkout tersebut?" *(Lahir solusi kolaboratif yang menghargai kedua perspektif)*
 
 ## 5. Latihan Mandiri dengan Aturan *The 80/20 Listening Rule*
 
@@ -82,4 +82,4 @@ Untuk mengasah kemampuan ini, cobalah terapkan aturan 80/20 dalam pertemuanmu be
 - **80% waktu** dialokasikan sepenuhnya untuk menyimak dengan saksama, membaca situasi, dan mencerna informasi yang masuk.
 - Sisa **20% waktu** barulah digunakan untuk mengajukan pertanyaan klarifikasi serta merespons dengan tepat.
 
-> **Pesan Penting:** Empati bukan kelemahan atau kekalahan dalam berargumen. Empati adalah sumber data. Dengan memahami perspektif orang lain secara mendalam, kamu memiliki data yang lebih akurat untuk membuat keputusan yang lebih cerdas dan strategis.
+> **Pesan Penting:** Empati adalah sumber data, dan memakainya tidak membuatmu lemah atau kalah dalam berargumen. Dengan memahami perspektif orang lain secara mendalam, kamu memiliki data yang lebih akurat untuk membuat keputusan yang lebih cerdas dan strategis.

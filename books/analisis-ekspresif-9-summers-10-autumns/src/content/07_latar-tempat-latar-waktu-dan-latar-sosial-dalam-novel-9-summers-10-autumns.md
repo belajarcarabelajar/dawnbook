@@ -1,6 +1,6 @@
 ## Latar Tempat, Latar Waktu, dan Latar Sosial dalam Novel 9 Summers 10 Autumns
 
-Bagaimana sebuah ruang geografis membentuk batin manusia? Dalam novel *9 Summers 10 Autumns*, unsur latar (spasial, temporal, dan sosiopsikologis) tidak sekadar berfungsi sebagai dekorasi atau tempat peristiwa berlangsung. Latar berfungsi sebagai cerminan sekaligus pembentuk dinamika psikologis tokoh utama, dari kesederhanaan masa kecil hingga kesepian di kota megapolitan.
+Bagaimana sebuah ruang geografis membentuk batin manusia? Dalam novel *9 Summers 10 Autumns*, unsur latar (spasial, temporal, dan sosiopsikologis) berfungsi sebagai cerminan sekaligus pembentuk dinamika psikologis tokoh utama, dari kesederhanaan masa kecil hingga kesepian di kota megapolitan.
 
 ### Latar dari Kota Batu hingga New York
 
@@ -48,7 +48,7 @@ Untuk memahami kontras spasial ini secara lebih terstruktur, berikut perbandinga
 | **Status Ekonomi** | Kemiskinan kelas pekerja (anak sopir angkot). | Kemapanan kelas atas (direktur riset korporat). |
 | **Efek Psikologis** | Rasa memiliki (*belonging*) meskipun serba terbatas. | Kesepian eksistensial (*alienation*) di tengah kemewahan. |
 
-Kontras ini menjadi sumber utama konflik batin tokoh Iwan. Keberadaannya di New York memicu kerinduan mendalam (*nostalgia*) terhadap Kota Batu, membuktikan bahwa identitas sejatinya tidak ditentukan oleh kemewahan Manhattan, melainkan oleh nilai-nilai kesederhanaan yang ia pelajari di kaki Gunung Panderman.
+Kontras ini menjadi sumber utama konflik batin tokoh Iwan. Keberadaannya di New York memicu kerinduan mendalam (*nostalgia*) terhadap Kota Batu, membuktikan bahwa identitas sejatinya ditentukan oleh nilai-nilai kesederhanaan yang ia pelajari di kaki Gunung Panderman.
 
 ### Nilai Sosial Kemiskinan dan Kemakmuran
 

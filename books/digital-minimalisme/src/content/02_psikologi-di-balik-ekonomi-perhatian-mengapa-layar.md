@@ -1,8 +1,8 @@
 ## Psikologi di Balik Attention Economy (Ekonomi Perhatian)
 
-Kebiasaan menatap layar lebih lama dari niat awal berakar pada cara aplikasi dirancang untuk menahan perhatianmu selama mungkin. Jika kamu pernah merasa ingin membuka Instagram "hanya untuk lima menit" tetapi tiba-tiba tersadar satu jam telah berlalu, kamu tidak sedang berhalusinasi. Kamu juga tidak sedang menunjukkan kelemahan karakter.
+Kebiasaan menatap layar lebih lama dari niat awal berakar pada cara aplikasi dirancang untuk menahan perhatianmu selama mungkin. Jika kamu pernah merasa ingin membuka Instagram "hanya untuk lima menit" tetapi tiba-tiba tersadar satu jam telah berlalu, pengalaman itu nyata dan tidak menandakan karakter yang lemah.
 
-Kamu sebenarnya sedang berhadapan dengan ribuan insinyur perangkat lunak dan psikolog perilaku di Silicon Valley yang tugas satu-satunya adalah memastikan kamu tetap menatap layar sesering dan selama mungkin. Inilah yang disebut dengan **Ekonomi Perhatian (Attention Economy)**.
+Lawanmu adalah ribuan insinyur perangkat lunak dan psikolog perilaku di Silicon Valley yang tugas satu-satunya adalah memastikan kamu tetap menatap layar sesering dan selama mungkin. Inilah yang disebut dengan **Ekonomi Perhatian (Attention Economy)**.
 
 ## 1\. Perhatian Adalah Mata Uang Baru
 
@@ -18,7 +18,7 @@ Banyak orang salah mengira bahwa **Dopamin** adalah hormon "kebahagiaan". Secara
 
 ### Siklus Dopamin
 
-Dopamin dilepaskan bukan saat kita mendapatkan hadiah, tetapi saat kita **mengharapkan** hadiah. Secara matematis, kita bisa melihat hubungan antara ekspektasi dan kepuasan sebagai berikut:
+Dopamin dilepaskan saat kita **mengharapkan** hadiah, sebelum hadiah itu benar-benar didapat. Secara matematis, kita bisa melihat hubungan antara ekspektasi dan kepuasan sebagai berikut:
 
 <div>
 $$
@@ -36,7 +36,7 @@ Mengapa kita terus melakukan *scrolling* meskipun kontennya membosankan? Jawaban
 
 ### Analogi Mesin Judi (Slot Machine)
 
-Bayangkan sebuah mesin judi. Kamu menarik tuasnya berulang kali bukan karena menang setiap saat, tetapi karena kamu **mungkin** menang di tarikan berikutnya.
+Bayangkan sebuah mesin judi. Kamu terus menarik tuasnya karena tarikan berikutnya **mungkin** membawa kemenangan.
 
 Aplikasi modern dirancang persis seperti ini:
 
@@ -58,7 +58,7 @@ Manusia adalah makhluk sosial yang secara evolusioner takut dikucilkan dari kelo
 Selain psikologi internal, ada teknik desain visual yang digunakan untuk memanen perhatian secara agresif:
 
 - **Infinite Scroll (Gulir Tanpa Batas):** Menghilangkan "sinyal berhenti". Di masa lalu, koran memiliki halaman terakhir dan buku memiliki bab penutup. *Infinite scroll* membuat konsumsi informasi menjadi tanpa dasar, sehingga otak tidak pernah menerima sinyal untuk berhenti.
-- **Autoplay:** Sebelum kamu sempat memutuskan untuk berhenti menonton, video berikutnya sudah dimulai. Ini memanfaatkan **inersia kognitif**: lebih mudah untuk terus menonton daripada mengambil tindakan untuk berhenti.
+- **Autoplay:** Sebelum kamu sempat memutuskan untuk berhenti menonton, video berikutnya sudah dimulai. Ini memanfaatkan **inersia kognitif**, karena terus menonton lebih mudah daripada mengambil tindakan untuk berhenti.
 - **The Red Dot (Titik Merah):** Lencana merah ini menarik mata untuk segera melihatnya.
 
 ## 6\. Anatomi Sebuah Sesi Media Sosial

@@ -14,7 +14,7 @@ Bayangkan nilai-nilai inti kamu sebagai sebuah filter. Tanpa filter ini, setiap 
 
 #### Kompas vs. Peta
 
-Peta digital (teknologi) menunjukkan kepada kamu ribuan jalan yang bisa ditempuh. Namun, tanpa **kompas** (nilai-nilai inti), kamu hanya akan berputar-putar tanpa arah, kelelahan mengikuti rute yang ditentukan oleh algoritma orang lain. Kompas tidak memberi tahu kamu setiap langkah, tetapi ia memberi tahu kamu **ke arah mana** kamu harus berjalan.
+Peta digital (teknologi) menunjukkan kepada kamu ribuan jalan yang bisa ditempuh. Namun, tanpa **kompas** (nilai-nilai inti), kamu hanya akan berputar-putar tanpa arah, kelelahan mengikuti rute yang ditentukan oleh algoritma orang lain. Kompas menunjukkan **ke arah mana** kamu harus berjalan.
 
 ### Proses Identifikasi Nilai-Nilai Inti
 
@@ -26,7 +26,7 @@ Ingatlah kembali tiga momen dalam hidup kamu saat kamu merasa paling hidup, pali
 
 #### 2. Memilih Nilai dari Daftar
 
-Ambil 5-10 nilai yang paling beresonansi dengan kondisimu saat ini, apa yang *benar-benar* penting, bukan apa yang *seharusnya* penting. Nilai-nilai ini bisa berupa **kesehatan** fisik dan mental, **koneksi** mendalam dengan orang terdekat, **kreativitas** dalam berkarya, **pembelajaran** yang terus berkembang, **ketenangan** batin, **otonomi** untuk memegang kendali atas waktumu, atau **kontribusi** nyata bagi lingkungan sekitar.
+Ambil 5-10 nilai yang paling beresonansi dengan kondisimu saat ini. Pilih yang *benar-benar* penting bagimu, dan lewati nilai yang hanya terasa *seharusnya* penting. Nilai-nilai ini bisa berupa **kesehatan** fisik dan mental, **koneksi** mendalam dengan orang terdekat, **kreativitas** dalam berkarya, **pembelajaran** yang terus berkembang, **ketenangan** batin, **otonomi** untuk memegang kendali atas waktumu, atau **kontribusi** nyata bagi lingkungan sekitar.
 
 #### 3. Kategorisasi dan Prioritas
 
@@ -55,7 +55,7 @@ Jika sebuah alat (misalnya Instagram) memiliki potensi gangguan yang sangat ting
 
 ### Maya, sang Desainer Grafis
 
-Maya merasa selalu sibuk tapi tidak produktif. Setelah berefleksi, dia menemukan tiga nilai intinya: **Keahlian (Mastery)**, **Keluarga**, dan **Keheningan**.
+Maya merasa selalu sibuk tapi tidak produktif. Setelah berefleksi, dia menemukan tiga nilai intinya, yaitu **Keahlian (Mastery)**, **Keluarga**, dan **Keheningan**.
 
 Awalnya, Maya menghabiskan 3 jam sehari di Twitter untuk melihat tren desain, yang pada akhirnya justru membuatnya merasa *insecure* dan kehilangan fokus untuk berkarya. Sebagai solusi berbasis nilai, dia menghapus Twitter dan menggantinya dengan langganan satu majalah desain fisik berkualitas untuk memenuhi nilai **Keahlian**. Untuk nilai **Keluarga**, dia mematikan seluruh notifikasi setelah jam 6 sore agar bisa hadir sepenuhnya untuk anak-anak. Terakhir, dia menghapus aplikasi podcast yang sering didengarkan saat berjalan kaki demi memenuhi nilai **Keheningan**, memberinya ruang berpikir tanpa intervensi pemikiran orang lain. Hasilnya, Maya merasa lebih tenang, lebih kreatif tanpa sekadar menjiplak tren, dan memiliki hubungan keluarga yang lebih hangat.
 
@@ -63,6 +63,6 @@ Awalnya, Maya menghabiskan 3 jam sehari di Twitter untuk melihat tren desain, ya
 
 Ambil ponsel kamu sekarang. Lihat layar utamanya. Tanyakan pada diri sendiri untuk setiap aplikasi: *"Apakah aplikasi ini cara terbaik untuk mendukung salah satu dari 3 nilai inti saya? Atau adakah alternatif non-digital yang lebih baik?"*
 
-> **Catatan:** Digital Minimalisme adalah tentang **pertukaran yang menguntungkan**, bukan tentang merampas kesenanganmu. Kamu menukar hiburan dangkal demi mendapatkan kembali pengalaman hidup yang lebih bermakna.
+> **Catatan:** Digital Minimalisme adalah tentang **pertukaran yang menguntungkan**. Kamu menukar hiburan dangkal demi mendapatkan kembali pengalaman hidup yang lebih bermakna.
 
 Jika kamu tidak tahu apa yang sedang kamu perjuangkan, kamu akan mudah terperangkap oleh desain adiktif yang dibuat oleh para insinyur Silicon Valley. **Tentukan nilai kamu hari ini, atau algoritma yang akan menentukannya untuk kamu.**

@@ -29,7 +29,7 @@ Struktur ini menyimpan metadata tentang file system yang sedang di-mount. Superb
 
 ### B. Inode Object (Index Node)
 
-Struktur ini menyimpan informasi metadata mengenai suatu file spesifik. Satu hal penting yang perlu diingat: inode tidak menyimpan nama file, melainkan hanya data teknisnya.
+Struktur ini menyimpan informasi metadata mengenai suatu file spesifik. Perlu diingat, inode hanya menyimpan data teknis file tanpa nama file itu sendiri.
 
 - **Atribut file:** Ukuran file, pemilik (UID/GID), hak akses (read-write-execute), timestamp, serta pointer ke blok data fisik di disk.
 - **Aturan unik:** Setiap file diidentifikasi melalui nomor inode unik dalam file system bersangkutan.
@@ -95,7 +95,7 @@ VFS baru dapat menggunakan "MyFS" setelah file system itu didaftarkan lewat `reg
 
 VFS memungkinkan pembuatan file system virtual. Pada direktori `/proc`, kamu akan menemukan file-file yang seolah-olah tersimpan secara fisik di disk, padahal file tersebut hanyalah representasi dinamis dari status kernel di memori RAM.
 
-- **Contoh:** Menjalankan perintah `cat /proc/cpuinfo` memicu VFS untuk memanggil fungsi internal kernel yang membaca status CPU secara real-time, bukan membaca blok data di SSD.
+- **Contoh:** Menjalankan perintah `cat /proc/cpuinfo` memicu VFS untuk memanggil fungsi internal kernel yang membaca status CPU secara real-time, tanpa membaca blok data di SSD.
 
 ### B. Network File System (NFS)
 

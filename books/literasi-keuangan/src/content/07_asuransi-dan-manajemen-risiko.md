@@ -65,7 +65,7 @@ Asuransi adalah perjanjian kontrak antara pemegang polis dan perusahaan asuransi
 ### Prinsip Dasar Asuransi
 
 1. **Insurable interest (Kepentingan yang diasuransikan):** Kamu harus punya kepentingan finansial atas objek yang diasuransikan. Kamu akan rugi jika terjadi sesuatu pada objek tersebut. Contohnya, kamu bisa mengasuransikan rumahmu sendiri, tapi tidak bisa mengasuransikan rumah tetangga.
-2. **Indemnity (Ganti rugi):** Asuransi bertujuan mengembalikan kondisi finansialmu seperti sebelum kerugian terjadi. Bukan untuk mencari untung. Kalau mobilmu rusak dan butuh biaya perbaikan Rp20 juta, asuransi hanya akan membayar maksimal Rp20 juta.
+2. **Indemnity (Ganti rugi):** Asuransi bertujuan mengembalikan kondisi finansialmu seperti sebelum kerugian terjadi, tanpa memberi keuntungan tambahan. Kalau mobilmu rusak dan butuh biaya perbaikan Rp20 juta, asuransi hanya akan membayar maksimal Rp20 juta.
 3. **Utmost good faith (Niat baik):** Tertanggung dan penanggung harus jujur. Kamu wajib memberikan info riwayat kesehatan secara transparan saat daftar asuransi jiwa.
 4. **Contribution (Kontribusi):** Kalau kamu punya lebih dari satu polis untuk risiko yang sama, perusahaan asuransi akan berbagi beban kerugian secara proporsional.
 5. **Subrogation (Subrogasi):** Setelah perusahaan membayar klaim, mereka punya hak menuntut pihak ketiga yang menyebabkan kerugian. Kalau mobilmu ditabrak orang dan asuransi sudah membayar perbaikannya, asuransimu berhak menuntut penabrak.
@@ -147,7 +147,7 @@ Melindungi rumah, bangunan, dan isinya dari risiko kebakaran, bencana alam, atau
 
 ## Cara Memilih Polis Asuransi yang Tepat
 
-Memilih asuransi itu lebih dari sekadar beli produk. Kamu harus menyesuaikannya dengan profil risiko dan kondisi dompet.
+Saat memilih asuransi, sesuaikan produknya dengan profil risiko dan kondisi dompetmu.
 
 ### Nilai Kebutuhan Pribadimu
 

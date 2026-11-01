@@ -23,7 +23,7 @@ Konsep SMART terdiri dari:
 - **Time-bound** (Batas waktu)
 
 ### 1. Spesifik (Specific)
-Tujuan harus detail. Daripada mengatakan "Saya ingin uang banyak", tentukan pencapaian pastinya.
+Tujuan harus detail. Kalimat "Saya ingin uang banyak" terlalu kabur, jadi tentukan pencapaian pastinya.
 Contoh: "Saya ingin menabung untuk DP rumah."
 
 ### 2. Terukur (Measurable)
@@ -49,7 +49,7 @@ Contoh: "Menabung Rp150.000.000 untuk DP rumah dalam waktu 4 tahun (sebelum Nove
 
 ## Strategi Eksekusi
 
-Punya target saja tidak cukup. Kamu butuh langkah strategis untuk mewujudkannya.
+Sebuah target baru terwujud lewat langkah-langkah strategis.
 
 **Pecah Rencana Jadi Langkah Kecil**
 Bagi nominal besar menjadi target bulanan. Angka Rp3.125.000 per bulan terasa lebih masuk akal dibanding memikirkan total Rp150.000.000.

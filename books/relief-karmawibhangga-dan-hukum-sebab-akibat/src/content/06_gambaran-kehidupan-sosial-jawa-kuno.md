@@ -1,12 +1,12 @@
 ## Gambaran Kehidupan Sosial Jawa Kuno
 
-Relief Karmawibhangga pada dasarnya adalah "buku pedoman moral" tentang hukum sebab-akibat, yang dipahatkan di 160 panel. Namun, bagi para arkeolog dan sejarawan, panel-panel ini adalah sebuah **kapsul waktu visual**. Para pemahat Borobudur tidak hanya menggambarkan surga dan neraka, tetapi juga memotret realitas sosial, gaya hidup, dan suasana lingkungan Jawa pada masa Wangsa Shailendra (sekitar tahun 750-850 M).
+Relief Karmawibhangga pada dasarnya adalah "buku pedoman moral" tentang hukum sebab-akibat, yang dipahatkan di 160 panel. Namun, bagi para arkeolog dan sejarawan, panel-panel ini adalah sebuah **kapsul waktu visual**. Selain surga dan neraka, para pemahat Borobudur memotret realitas sosial, gaya hidup, dan suasana lingkungan Jawa pada masa Wangsa Shailendra (sekitar tahun 750-850 M).
 
 Bayangkan relief ini sebagai sebuah "umpan Instagram" dari masa lalu. Melalui detail pahatan yang halus, kita bisa melihat apa yang mereka pakai, bagaimana bentuk rumah mereka, hingga bagaimana mereka berinteraksi satu sama lain lebih dari seribu tahun yang lalu.
 
 ## 1. Busana dan Perhiasan sebagai Simbol Status Sosial
 
-Busana pada masa Jawa Kuno bukan sekadar penutup tubuh, melainkan indikator hierarki sosial yang jelas.
+Pada masa Jawa Kuno, busana menjadi indikator hierarki sosial yang jelas.
 
 ### Pakaian Rakyat Jelata vs. Bangsawan
 
@@ -54,7 +54,7 @@ Dalam beberapa panel, terlihat aktivitas jual beli. Terdapat penggambaran timban
 Masyarakat Jawa Kuno adalah pecinta seni. Relief menunjukkan:
 
 - **Pemusik:** Memainkan instrumen seperti gendang (*mridangga*), seruling, kecapi, dan simbal.
-- **Penari:** Gerakan tari yang digambarkan luwes, menunjukkan bahwa tari bukan sekadar ritual, tapi juga hiburan profesional.
+- **Penari:** Gerakan tari yang digambarkan luwes, menunjukkan bahwa tari berfungsi sebagai ritual sekaligus hiburan profesional.
 - **Permainan:** Ada penggambaran orang yang sedang bermain dadu atau menyaksikan pertunjukan ketangkasan.
 
 ### Transportasi
@@ -70,7 +70,7 @@ Bagi orang di masa depan, ukiran itu adalah sumber sejarah utama. Itulah peran r
 
 ## 5. Kegunaan Praktis Pengetahuan Sosial Relief
 
-Pengetahuan tentang kehidupan sosial dalam relief ini bukan sekadar informasi usang. Berikut adalah kegunaan praktisnya saat ini:
+Pengetahuan tentang kehidupan sosial dalam relief ini masih berguna sampai sekarang. Berikut adalah kegunaan praktisnya:
 
 - **Arsitektur Hijau:** Arsitek modern mempelajari struktur rumah panggung di relief untuk merancang bangunan yang ramah lingkungan dan tahan bencana.
 - **Industri Kreatif:** Desainer kostum film kolosal atau penata tari tradisional menggunakan relief Karmawibhangga sebagai referensi utama agar karya mereka akurat secara historis (*historical accuracy*).
@@ -84,6 +84,6 @@ Pengetahuan tentang kehidupan sosial dalam relief ini bukan sekadar informasi us
 | **Pohon** | Kalpataru (pohon kehidupan) yang penuh hiasan. | Simbol kemakmuran dan hubungan dengan alam. |
 | **Alat Dapur** | Periuk tanah liat, tempayan air. | Menunjukkan penggunaan teknologi gerabah yang luas. |
 
-> **Pesan Memorable:** "Melihat relief Karmawibhangga bukan sekadar belajar tentang agama, tapi tentang mengenali wajah nenek moyang kita sendiri, bagaimana mereka tertawa, bekerja, dan berpakaian di tanah Jawa."
+> **Pesan Memorable:** "Melihat relief Karmawibhangga mengajak kita belajar tentang agama dan juga mengenali wajah nenek moyang kita sendiri, bagaimana mereka tertawa, bekerja, dan berpakaian di tanah Jawa."
 
 *Coba amati gambar atau foto relief Karmawibhangga yang tersedia di museum atau buku teks. Dapatkah kamu menemukan perbedaan antara cara seorang pelayan dan seorang raja memegang sebuah benda?*

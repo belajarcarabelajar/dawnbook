@@ -2,7 +2,7 @@
 
 ## Peran Fokus dan Atensi dalam Perubahan Otak
 
-Pernahkah kamu mencoba belajar sambil mendengarkan musik, membalas pesan teks, dan sesekali melirik televisi? Kamu mungkin merasa bisa melakukan semuanya, tetapi secara biologis, perhatian kamu sedang terpecah. Dalam dunia neuroplastisitas, **fokus bukanlah sekadar pilihan etika belajar, melainkan syarat mutlak terjadinya perubahan fisik pada otak.**
+Pernahkah kamu mencoba belajar sambil mendengarkan musik, membalas pesan teks, dan sesekali melirik televisi? Kamu mungkin merasa bisa melakukan semuanya, tetapi secara biologis, perhatian kamu sedang terpecah. Dalam dunia neuroplastisitas, **fokus adalah syarat mutlak terjadinya perubahan fisik pada otak.**
 
 Tanpa atensi atau perhatian yang terpusat, otak kita menganggap informasi yang masuk sebagai "kebisingan" (noise) yang tidak perlu disimpan. Mari kita bedah bagaimana mekanisme biologis mengubah fokus menjadi struktur saraf baru.
 
@@ -18,7 +18,7 @@ Bayangkan otak kamu adalah sebuah ruangan besar yang gelap, penuh dengan peralat
 
 ## 2\. Sistem Neuromodulator
 
-Agar sirkuit saraf berubah secara fisik, otak perlu melepaskan bahan kimia tertentu yang disebut **neuromodulator**. Tiga pemain utama dalam proses ini adalah:
+Agar sirkuit saraf berubah secara fisik, otak perlu melepaskan bahan kimia tertentu yang disebut **neuromodulator**. Ada tiga pemain utama dalam proses ini.
 
 ### A. Norepinefrin dan Epinefrin Memicu Kewaspadaan
 
@@ -42,7 +42,7 @@ Secara teknis, perubahan otak terjadi melalui modifikasi kekuatan sinaptik. Keti
 1. **Sinyal Atensi:** Korteks prefrontal (pusat kendali) mengirim sinyal bahwa informasi ini penting.
 2. **Pelepasan Neuromodulator:** Asetilkolin dilepaskan di area spesifik yang sedang bekerja.
 3. **Gating Mechanism:** Neuromodulator ini bertindak sebagai "gerbang". Mereka menurunkan ambang batas aktivasi neuron sehingga lebih mudah bagi neuron tersebut untuk menembakkan sinyal ($\text{fire}$).
-4. **Marking for Long-Term Potentiation (LTP):** Fokus memastikan bahwa protein-protein baru dikirim tepat ke sinapsis yang sedang digunakan, bukan ke tempat lain secara acak.
+4. **Marking for Long-Term Potentiation (LTP):** Fokus memastikan bahwa protein-protein baru dikirim tepat ke sinapsis yang sedang digunakan dan tidak tersebar secara acak.
 
    <div>
    $$
@@ -69,8 +69,8 @@ Otak kita terus-menerus menerima jutaan bit informasi. Salah satu cara atensi be
 
 Bayangkan dua orang, Budi dan Siti, sedang belajar fungsi `if-else` dalam Python.
 
-- **Budi (Multitasking):** Menonton tutorial sambil sesekali membalas WhatsApp. Asetilkolinnya tersebar ke sirkuit sosial, sirkuit visual HP, dan sedikit ke sirkuit coding. Hasilnya: Tidak ada sirkuit yang mendapatkan cukup "tanda" untuk berubah secara permanen.
-- **Siti (Deep Work):** Mematikan ponsel, masuk ke ruangan sunyi, dan fokus penuh selama 45 menit. Asetilkolin Siti terkonsentrasi hanya pada sirkuit logika pemrograman. Hasilnya: fokus setinggi itu memicu pelepasan neuromodulator, sehingga perubahan sinaptik benar-benar terjadi.
+- **Budi (Multitasking):** Menonton tutorial sambil sesekali membalas WhatsApp. Asetilkolinnya tersebar ke sirkuit sosial, sirkuit visual HP, dan sedikit ke sirkuit coding. Akibatnya, tidak ada sirkuit yang mendapatkan cukup "tanda" untuk berubah secara permanen.
+- **Siti (Deep Work):** Mematikan ponsel, masuk ke ruangan sunyi, dan fokus penuh selama 45 menit. Asetilkolin Siti terkonsentrasi hanya pada sirkuit logika pemrograman, dan fokus setinggi itu memicu pelepasan neuromodulator sehingga perubahan sinaptik benar-benar terjadi.
 
 ## 6\. Latihan Mandiri untuk Meningkatkan Plastisitas
 

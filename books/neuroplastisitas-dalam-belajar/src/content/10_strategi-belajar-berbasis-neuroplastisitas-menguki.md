@@ -13,7 +13,7 @@ Strategi berikut dirancang untuk **memperkuat sinapsis** dengan bekerja selaras 
 - **Mekanisme Neuroplastisitas:** Saat kamu mencoba mengingat sesuatu tanpa melihat catatan, kamu sedang menstimulasi jalur saraf secara intens. Proses "kesulitan yang diinginkan" (*desirable difficulty*) ini memicu pelepasan neurotransmiter yang memperkuat koneksi sinaptik lebih efektif daripada input pasif.
 - **Analogi:** Membaca ulang buku seperti melihat peta. *Active Recall* adalah mencoba menavigasi kota tanpa melihat peta tersebut. Hanya dengan mencoba navigasi sendiri, jalur di otak kamu benar-benar terbentuk.
 
-**Cara Melakukannya:**
+Ada tiga cara sederhana untuk melakukannya.
 
 - Tutup buku kamu dan tuliskan semua hal yang kamu ingat di kertas kosong.
 - Gunakan *flashcards* (seperti Anki atau Quizlet).
@@ -81,4 +81,4 @@ Untuk memastikan strategi di atas memicu neuroplastisitas yang maksimal, cermati
 > 2. **Beri jeda waktu** (Spaced Repetition) daripada belajar sistem kebut semalam.
 > 3. **Campur materi kamu** (Interleaving) daripada belajar secara monoton.
 
-Dengan menerapkan teknik-teknik ini, kamu tidak hanya belajar lebih cepat, tetapi juga secara sadar mengubah struktur otak kamu untuk menjadi lebih efisien dan tangguh dalam memproses informasi baru.
+Dengan menerapkan teknik-teknik ini, kamu belajar lebih cepat dan pada saat yang sama secara sadar mengubah struktur otak kamu untuk menjadi lebih efisien dan tangguh dalam memproses informasi baru.

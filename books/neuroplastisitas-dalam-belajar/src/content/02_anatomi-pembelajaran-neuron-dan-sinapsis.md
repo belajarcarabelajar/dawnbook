@@ -1,8 +1,8 @@
 ## Anatomi Neuron dan Sinapsis dalam Pembelajaran
 
-Bayangkan otak kamu adalah sebuah kota metropolitan yang sibuk, tetapi tidak dihubungkan oleh kabel tembaga atau fiber optik. Penghubungnya adalah miliaran sel hidup yang terus-menerus "berbicara" satu sama lain. Setiap kali kamu mempelajari kata baru dalam bahasa asing atau mencoba teknik baru dalam olahraga, kamu sebenarnya sedang mengubah jalur-jalur penghubung di dalam kepala kamu.
+Bayangkan otak kamu sebagai kota metropolitan yang sibuk, dihubungkan oleh miliaran sel hidup yang terus-menerus "berbicara" satu sama lain. Setiap kali kamu mempelajari kata baru dalam bahasa asing atau mencoba teknik baru dalam olahraga, kamu sebenarnya sedang mengubah jalur-jalur penghubung di dalam kepala kamu.
 
-Materi ini akan membawa kamu mempelajari fondasi fisik dari belajar: **Neuron** dan **Sinapsis**.
+Materi ini akan membawa kamu mempelajari dua fondasi fisik dari belajar, yaitu **Neuron** dan **Sinapsis**.
 
 ## 1\. Neuron sebagai Unit Dasar Komunikasi Otak
 
@@ -59,7 +59,7 @@ Tidak semua pesan kimiawi itu sama. Dalam konteks pembelajaran, ada beberapa akt
 
 ## 5\. Mengapa Belajar Itu Melelahkan?
 
-Pernahkah kamu merasa lelah secara fisik setelah belajar intensif selama dua jam? Itu bukan perasaan kamu saja. Secara biologis, proses pengiriman pesan di sinapsis membutuhkan energi (ATP) yang besar, dan itu diduga ikut berperan.
+Pernahkah kamu merasa lelah secara fisik setelah belajar intensif selama dua jam? Rasa lelah itu mungkin punya dasar biologis. Proses pengiriman pesan di sinapsis membutuhkan energi (ATP) yang besar, dan itu diduga ikut berperan.
 
 ### Belajar Instrumen Musik
 
@@ -82,11 +82,11 @@ Untuk membantu pemahaman visual, ikuti alur informasi berikut:
 
 *Jika setiap kali kamu mempelajari hal baru, terjadi perubahan fisik berupa penguatan sinapsis di otak kamu, apakah kamu sekarang melihat diri kamu sebagai sosok yang "statis" atau sosok yang terus "terpahat" oleh pengalaman?*
 
-> **Insight Terpenting:** Pembelajaran bukan sekadar memasukkan data ke dalam gudang penyimpanan. Pembelajaran adalah **perubahan anatomi**. Kamu secara harfiah sedang mengubah struktur biologis otak kamu setiap kali kamu berusaha memahami sesuatu yang baru.
+> **Insight Terpenting:** Pembelajaran adalah **perubahan anatomi**. Kamu secara harfiah sedang mengubah struktur biologis otak kamu setiap kali kamu berusaha memahami sesuatu yang baru.
 
 ## Intisari
 
-- **Neuron** adalah sel penyampai pesan dengan bagian utama: Dendrit, Soma, Akson, dan Mielin.
+- **Neuron** adalah sel penyampai pesan dengan bagian utama berupa Dendrit, Soma, Akson, dan Mielin.
 - **Sinapsis** adalah titik komunikasi antarneuron yang menggunakan bahan kimia (**neurotransmitter**).
 - **Belajar** secara biologis berarti memperkuat sinapsis dan meningkatkan kecepatan transmisi sinyal melalui mielinisasi.
 - **Fokus dan Pengulangan** adalah pemicu utama agar proses biokimia ini terjadi secara permanen.

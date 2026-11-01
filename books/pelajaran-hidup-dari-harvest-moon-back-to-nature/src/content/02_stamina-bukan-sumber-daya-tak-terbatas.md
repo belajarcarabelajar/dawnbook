@@ -6,7 +6,7 @@ Banyak dari kita mengenali adegan itu dari masa kecil. Layar sedang memberi isya
 
 ### Tiga Tanda Sebelum Pingsan
 
-Di HM BTN, tubuh si petani tidak langsung tumbang. Tandanya datang bertahap: ia berhenti untuk mengusap kening, lalu membungkuk terengah-engah, lalu roboh sebentar ke tanah. Kalau kamu tetap memaksanya bekerja, pemandangan berikutnya adalah ruang Clinic.
+Di HM BTN, tubuh si petani tidak langsung tumbang. Tandanya datang bertahap. Mula-mula ia berhenti untuk mengusap kening, lalu membungkuk terengah-engah, lalu roboh sebentar ke tanah. Kalau kamu tetap memaksanya bekerja, pemandangan berikutnya adalah ruang Clinic.
 
 Harga pingsan itu mahal. Dokter menahannya di sana sampai tenaganya pulih, praktis sepanjang hari. Esoknya ia bangun di rumah dalam keadaan kesiangan hingga tengah hari, dan belum sanggup bekerja banyak sebelum benar-benar segar. Satu hari yang dipaksa dibayar dengan satu setengah hari yang hilang. Kerja terlalu keras juga bisa membuatnya sakit, dan saat ia bekerja sambilan di kebun anggur Aja Winery milik Duke, terlalu capek bisa membuatnya kesiangan lalu melewatkan panen sama sekali.
 
@@ -29,7 +29,7 @@ Gim ini menyediakan penawarnya sendiri, dan penawar itu murah. Mampirlah ke Hot 
 
 Makanan bekerja dari sisi lain. Gim ini mengukur dua hal, *Strength* (tenaga) dan *Fatigue* (rasa lelah), dan makanan yang dijual Doug di penginapannya menambah yang pertama sekaligus mengurangi yang kedua. Satu jam berendam memang terasa seperti waktu yang terbuang ketika ladang masih menunggu. Bandingkan dengan Clinic, yang merampas sehari penuh ditambah separuh hari berikutnya.
 
-Pada hari badai, panduan resminya bahkan bercanda: tidur saja, dan bayangkan betapa segarnya si petani setelah terlelap 24 jam.
+Pada hari badai, panduan resminya bahkan bercanda dengan menyuruhmu tidur saja dan membayangkan betapa segarnya si petani setelah terlelap 24 jam.
 
 ### Kurang Tidur yang Tidak Terasa
 
@@ -47,6 +47,6 @@ Sejam berendam dan tidur sebelum pukul 1 adalah versi gim dari rambu-rambu tadi.
 
 ### Ringkasan
 
-Si petani muda memberi tiga tanda sebelum pingsan, dan mengabaikannya berarti kehilangan satu setengah hari di Clinic dan di tempat tidur. Makan, sejam di Hot Spring, dan tidur sebelum pukul 1 jauh lebih murah. Perasaan tidak selalu jujur: dalam percobaan Van Dongen, rasa kantuk yang dinilai pesertanya hanya naik sedikit, padahal kemampuan berpikir mereka terus merosot. Karena itu, tujuh jam tidur dan jam kerja yang wajar layak dipegang sebagai patokan, meski hubungannya dengan kesehatan baru berupa keterkaitan.
+Si petani muda memberi tiga tanda sebelum pingsan, dan mengabaikannya berarti kehilangan satu setengah hari di Clinic dan di tempat tidur. Makan, sejam di Hot Spring, dan tidur sebelum pukul 1 jauh lebih murah. Perasaan tidak selalu jujur. Dalam percobaan Van Dongen, rasa kantuk yang dinilai pesertanya hanya naik sedikit, padahal kemampuan berpikir mereka terus merosot. Karena itu, tujuh jam tidur dan jam kerja yang wajar layak dipegang sebagai patokan, meski hubungannya dengan kesehatan baru berupa keterkaitan.
 
-Tenaga sudah terjaga, tetapi jam di ladang terus berdetak. Besok pagi pertanyaannya bergeser: pekerjaan mana yang didahulukan, dan tenggat apa yang harus dikejar?
+Tenaga sudah terjaga, tetapi jam di ladang terus berdetak. Besok pagi, pekerjaan mana yang didahulukan, dan tenggat apa yang harus dikejar?

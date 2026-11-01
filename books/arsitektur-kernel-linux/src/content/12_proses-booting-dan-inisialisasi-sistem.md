@@ -36,7 +36,7 @@ Sebagai ilustrasi, jika kernel gagal melakukan inisialisasi *memory management*,
 
 ## 4. Mounting Root File System dan Initramfs
 
-Sebelum kernel dapat menjalankan program apa pun, akses ke *file system* mutlak diperlukan. Di sini muncul masalah klasik: driver untuk membaca media penyimpanan sering kali disimpan di dalam media penyimpanan itu sendiri.
+Sebelum kernel dapat menjalankan program apa pun, akses ke *file system* mutlak diperlukan. Di sini muncul masalah klasik, karena driver untuk membaca media penyimpanan sering kali disimpan di dalam media penyimpanan itu sendiri.
 
 Untuk mengatasi kendala tersebut, Linux memanfaatkan **initramfs**:
 
@@ -129,4 +129,4 @@ Kejadian kernel panic yang ditandai dengan layar hitam dan pesan error saat pros
 
 ## Kesimpulan
 
-Memahami proses booting membantu kita mengerti hierarki kendali di dalam sistem operasi, melampaui sekadar mengetahui cara komputer menyala. Kernel Linux bekerja dengan sangat efisien pada detik-detik awal peluncuran untuk memastikan bahwa saat kamu melihat layar login, seluruh infrastruktur sistem di bawahnya telah siap melayani perintahmu.
+Memahami proses booting membantu kita mengerti hierarki kendali di dalam sistem operasi. Kernel Linux bekerja dengan sangat efisien pada detik-detik awal peluncuran untuk memastikan bahwa saat kamu melihat layar login, seluruh infrastruktur sistem di bawahnya telah siap melayani perintahmu.

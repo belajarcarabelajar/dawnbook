@@ -16,7 +16,7 @@ Sel rambut vestibular memiliki struktur yang sangat terspesialisasi di bagian ap
 
 ### 2. Mekanotransduksi
 
-Proses pengubahan energi mekanik menjadi sinyal listrik disebut **mekanotransduksi**. Keunikan sistem vestibular dan pendengaran terletak pada kecepatannya yang tinggi karena tidak bergantung pada kurir kimiawi sekunder yang lambat, melainkan pada pembukaan gerbang saluran ion secara fisik langsung.
+Proses pengubahan energi mekanik menjadi sinyal listrik disebut **mekanotransduksi**. Keunikan sistem vestibular dan pendengaran terletak pada kecepatannya yang tinggi. Gerbang saluran ion dibuka secara fisik langsung, tanpa menunggu kurir kimiawi sekunder yang lambat.
 
 #### Defleksi dan Pembukaan Kanal
 
@@ -54,7 +54,7 @@ Mengapa sel rambut mempertahankan aktivitas penembakan basal saat istirahat? Mek
 
 ### 4. Adaptasi Sel Rambut
 
-Ketika posisi kepala dimiringkan dan dipertahankan dalam posisi tersebut, sel rambut tidak terus-menerus memancarkan sinyal maksimal. Sel menjalankan proses **adaptasi**.
+Ketika posisi kepala dimiringkan dan dipertahankan dalam posisi tersebut, sel rambut menjalankan proses **adaptasi** sehingga sinyalnya tidak terus-menerus maksimal.
 
 Melalui aktivitas protein motorik berbasis miosin (seperti Myosin-1c), titik penjangkaran *tip link* pada stereosilia dapat bergeser ke arah bawah. Pergeseran ini merelaksasi kembali ketegangan mekanis pada saluran $\text{MET}$ meskipun berkas stereosilia masih berada dalam posisi terdefleksi. Mekanisme ini memastikan sel rambut selalu siap merespons perubahan akselerasi baru tanpa mengalami kejenuhan (*saturation*) sinyal pada posisi statis yang berkepanjangan.
 

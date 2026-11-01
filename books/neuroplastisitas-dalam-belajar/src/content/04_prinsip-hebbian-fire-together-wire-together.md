@@ -1,6 +1,6 @@
 ## Prinsip Hebbian
 
-Setelah berulang kali berlatih alat musik atau menghafal kosa kata asing, jari-jari atau pikiran kamu seolah-olah bergerak secara otomatis. Pernahkah kamu bertanya-tanya mengapa hal itu terjadi? Fenomena ini bukan sekadar "kebiasaan", melainkan manifestasi fisik dari salah satu prinsip dasar neurosains: **Prinsip Hebbian**.
+Setelah berulang kali berlatih alat musik atau menghafal kosa kata asing, jari-jari atau pikiran kamu seolah-olah bergerak secara otomatis. Pernahkah kamu bertanya-tanya mengapa hal itu terjadi? Fenomena ini adalah manifestasi fisik dari salah satu prinsip dasar neurosains yang disebut **Prinsip Hebbian**.
 
 Dalam bagian ini, kita akan menjelajahi bagaimana aktivitas sinkron antara sel-sel saraf mengubah arsitektur otak kita dan menjadi fondasi utama bagi pembentukan memori jangka panjang.
 
@@ -12,7 +12,7 @@ Ia menulis sebuah postulat yang kini dikenal sebagai **Hukum Hebb**:
 
 > "Ketika akson dari sel A cukup dekat untuk merangsang sel B dan secara berulang atau terus-menerus ikut serta dalam memicu sel B, maka terjadi suatu proses pertumbuhan atau perubahan metabolisme pada satu atau kedua sel tersebut, sehingga efisiensi sel A dalam memicu sel B meningkat."
 
-Dalam bahasa yang lebih populer dan mudah diingat, ahli neurosains Carla Shatz merangkumnya menjadi: **"Neurons that fire together, wire together."** (Neuron yang menyala bersama akan terhubung bersama).
+Dalam bahasa yang lebih populer dan mudah diingat, ahli neurosains Carla Shatz merangkumnya menjadi kalimat **"Neurons that fire together, wire together."** (Neuron yang menyala bersama akan terhubung bersama).
 
 ## 2\. Jalan Setapak di Hutan Belantara
 
@@ -48,7 +48,7 @@ Keterangan:
 
 ## 4\. Langkah demi Langkah Proses Fire Together, Wire Together
 
-Mari kita lihat bagaimana proses ini terjadi dalam skenario nyata, misalnya saat belajar kata baru dalam bahasa asing (Contoh: "Apple" = "Apel").
+Mari kita lihat bagaimana proses ini terjadi dalam skenario nyata, misalnya saat belajar kata baru dalam bahasa asing, seperti "Apple" yang berarti "Apel".
 
 1. **Aktivasi Ganda:** Saat kamu melihat gambar apel (Neuron Visual) dan mendengar kata "Apple" (Neuron Auditoris) secara bersamaan, kedua kelompok neuron ini menyala (*fire*) pada waktu yang sama.
 2. **Sinyal Kimiawi:** Pelepasan neurotransmiter yang berulang menciptakan kondisi kimiawi di celah sinapsis yang ikut memicu reseptor khusus (seperti reseptor NMDA) untuk terbuka.
@@ -66,7 +66,7 @@ flowchart LR
     C --> D["Asosiasi (gambar apel otomatis memicu kata “Apple”)"]
 ```
 
-*Pertanyaan Reflektif: Apabila prinsip "Fire Together, Wire Together" mendasari proses belajar, dampak apakah yang terjadi ketika suatu jalur saraf tidak lagi diaktifkan secara berkala? (Petunjuk: Prinsip "Use it or lose it").*
+*Pertanyaan Reflektif: Apabila prinsip "Fire Together, Wire Together" mendasari proses belajar, dampak apakah yang terjadi ketika suatu jalur saraf tidak lagi diaktifkan secara berkala? Ingat prinsip "Use it or lose it".*
 
 ## 5\. Penerapan Prinsip Hebbian
 

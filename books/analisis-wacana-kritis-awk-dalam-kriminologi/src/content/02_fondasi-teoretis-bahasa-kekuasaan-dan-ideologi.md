@@ -1,14 +1,14 @@
 ## Fondasi Teoretis Bahasa, Kekuasaan, dan Ideologi
 
-Teori di balik Analisis Wacana Kritis (AWK) bertumpu pada tiga konsep yang saling terkait: bahasa, kekuasaan menurut Foucault dan Gramsci, serta ideologi. Jika pada bab sebelumnya kerangka dasar AWK secara umum telah dibahas, sekarang pembahasan akan membedah "mesin" teoretis yang menggerakkannya. Dalam kriminologi, kejahatan bukan sekadar aksi fisik, melainkan sesuatu yang didefinisikan, diperdebatkan, dan dikonstruksi melalui bahasa dan media diskursif.
+Teori di balik Analisis Wacana Kritis (AWK) bertumpu pada bahasa, kekuasaan menurut Foucault dan Gramsci, serta ideologi, tiga konsep yang saling terkait. Jika pada bab sebelumnya kerangka dasar AWK secara umum telah dibahas, sekarang pembahasan akan membedah "mesin" teoretis yang menggerakkannya. Dalam kriminologi, kejahatan adalah aksi fisik yang juga didefinisikan, diperdebatkan, dan dikonstruksi melalui bahasa dan media diskursif.
 
 Mengapa seorang individu yang mencuri barang kebutuhan pokok dilabeli sebagai "kriminal", sementara korporasi yang membuang limbah beracun ke sungai sering kali hanya disebut mengalami "masalah administratif"? Jawabannya terletak pada hubungan yang rumit antara **Bahasa**, **Kekuasaan**, dan **Ideologi**.
 
-### 1. Bahasa Bukan Sekadar Alat Komunikasi
+### 1. Bahasa yang Membentuk Kenyataan
 
 Dalam pandangan tradisional, bahasa dianggap sebagai cermin realitas; ia hanya memantulkan apa yang terjadi di dunia fisik. Namun, dalam AWK, bahasa dipahami sebagai **praktik sosial** (*social practice*) yang aktif membentuk kenyataan.
 
-> **Wawasan Utama:** Bahasa tidak hanya mendeskripsikan dunia; bahasa secara aktif mengonstruksi dan membentuk realitas sosial.
+> **Wawasan Utama:** Bahasa mendeskripsikan dunia sambil secara aktif mengonstruksi dan membentuk realitas sosial.
 
 #### Lensa Kamera
 
@@ -17,11 +17,11 @@ Bayangkan bahasa sebagai sebuah lensa kamera. Tergantung pada lensa yang digunak
 - **Lensa Wide-Angle:** "Kemiskinan sistemik dan ketimpangan struktural menyebabkan peningkatan angka pencurian." (Fokus pada struktur sosial dan ketidakadilan ekonomi).
 - **Lensa Macro:** "Si A adalah residivis yang tidak jera dan memiliki penyimpangan perilaku." (Fokus pada kesalahan individual dan patologi perseorangan).
 
-Pilihan "lensa" ini bukanlah hal yang kebetulan atau netral, melainkan hasil dari pengaruh dan relasi kekuasaan yang bekerja di balik layar.
+Pilihan "lensa" ini dibentuk oleh pengaruh dan relasi kekuasaan yang bekerja di balik layar.
 
 ### 2. Relasi Kuasa Michel Foucault
 
-Michel Foucault, pemikir asal Prancis, mengubah cara memandang kekuasaan. Baginya, kekuasaan bukan hanya sesuatu yang dimiliki raja atau pemerintah secara terpusat (*top-down*), melainkan sesuatu yang menyebar seperti jaringan kapiler di seluruh institusi dan praktik masyarakat.
+Michel Foucault, pemikir asal Prancis, mengubah cara memandang kekuasaan. Baginya, kekuasaan yang dimiliki raja atau pemerintah secara terpusat (*top-down*) hanyalah sebagian cerita. Kekuasaan menyebar seperti jaringan kapiler di seluruh institusi dan praktik masyarakat.
 
 #### Pengetahuan adalah Kekuasaan (*Power-Knowledge Relation*)
 
@@ -36,13 +36,13 @@ Dalam kriminologi, hal ini terlihat pada bagaimana "kebenaran" tentang kejahatan
 - **Wacana Medis dan Psikologis:** Menentukan batasan antara individu yang dikategorikan "mengalami gangguan jiwa" versus "jahat/kriminal".
 - **Wacana Hukum:** Menentukan batasan yuridis antara tindakan yang "legal" versus "ilegal".
 
-Pihak yang memiliki otoritas untuk mendefinisikan istilah-istilah ini memegang kendali kekuasaan yang nyata. Di ruang sidang, seorang hakim memiliki kekuasaan bukan hanya karena posisi resminya, tetapi karena penguasaannya atas "bahasa hukum" (*legalese*) yang asing bagi masyarakat awam.
+Pihak yang memiliki otoritas untuk mendefinisikan istilah-istilah ini memegang kendali kekuasaan yang nyata. Di ruang sidang, kekuasaan seorang hakim bersumber dari posisi resminya dan juga dari penguasaannya atas "bahasa hukum" (*legalese*) yang asing bagi masyarakat awam.
 
 > **Refleksi Analitis:** Perasaan terintimidasi saat berhadapan dengan istilah-istilah hukum yang rumit merupakan bentuk nyata dari relasi kuasa yang bekerja secara tak kasat mata melalui bahasa.
 
 ### 3. Hegemoni Antonio Gramsci sebagai Kekuasaan melalui Persetujuan
 
-Jika Foucault menekankan penyebaran kekuasaan melalui wacana dan pengetahuan, Antonio Gramsci memperkenalkan konsep **Hegemoni**. Hegemoni adalah cara kelas penguasa mempertahankan dominasi dan kontrol sosial tidak semata-mata melalui alat pemaksa fisik (seperti polisi atau militer), melainkan melalui **persetujuan spontan** (*spontaneous consent*) dari masyarakat yang dikuasai.
+Jika Foucault menekankan penyebaran kekuasaan melalui wacana dan pengetahuan, Antonio Gramsci memperkenalkan konsep **Hegemoni**. Hegemoni adalah cara kelas penguasa mempertahankan dominasi dan kontrol sosial melalui **persetujuan spontan** (*spontaneous consent*) dari masyarakat yang dikuasai, di samping alat pemaksa fisik (seperti polisi atau militer).
 
 #### Mekanisme Hegemoni dalam Kriminologi
 
@@ -96,7 +96,7 @@ Untuk memahami keterkaitan konsep-konsep di atas, lihat analisis terhadap narasi
 | **Hegemoni** | Dominasi sosial melalui konsensus nilai. | Menjadikan kebijakan kriminal tertentu dianggap sebagai satu-satunya standar normal. |
 | **Ideologi** | Kerangka berpikir yang sarat kepentingan. | Menyembunyikan agenda penguasa di balik narasi "kepentingan umum". |
 
-> **Pesan Utama:** Mempelajari AWK dalam kriminologi melatih kemampuan kritis untuk tidak menerima secara polos apa yang tertera dalam dokumen hukum atau pemberitaan media kriminal. Analisis harus selalu mengajukan pertanyaan kunci: *Siapa yang diuntungkan oleh wacana ini? Dan suara siapa yang sedang dibungkam?*
+> **Pesan Utama:** Mempelajari AWK dalam kriminologi melatih kemampuan kritis untuk tidak menerima secara polos apa yang tertera dalam dokumen hukum atau pemberitaan media kriminal. Analisis harus selalu mengajukan dua pertanyaan kunci. *Siapa yang diuntungkan oleh wacana ini? Dan suara siapa yang sedang dibungkam?*
 
 > **Refleksi Media:** Saat membaca pemberitaan mengenai penangkapan demonstran, pencermatan terhadap pilihan kata media antara "aktivis" atau "perusuh" mengungkapkan bagaimana satu kata mampu mengubah konstruksi kekuasaan dalam persepsi publik.
 

@@ -1,8 +1,8 @@
 ## Analisis Kesaksian Saksi dan Dinamika Ruang Sidang
 
-Setelah fondasi teoretis dan metodologi AWK dipelajari, analisis kini masuk ke praktik sistem peradilan pidana: **Ruang Sidang dan Ruang Interogasi.**
+Setelah fondasi teoretis dan metodologi AWK dipelajari, analisis kini masuk ke **ruang sidang dan ruang interogasi** dalam praktik sistem peradilan pidana.
 
-Di sini, bahasa bukan sekadar alat komunikasi. Bahasa adalah instrumen kekuasaan yang digunakan untuk mengonstruksi kebenaran, menghancurkan kredibilitas, atau membebaskan seseorang dari jerat hukum. Mari membedah bagaimana kata-kata bekerja di bawah tekanan hukum.
+Di sini, bahasa menjadi instrumen kekuasaan yang digunakan untuk mengonstruksi kebenaran, menghancurkan kredibilitas, atau membebaskan seseorang dari jerat hukum. Mari membedah bagaimana kata-kata bekerja di bawah tekanan hukum.
 
 ---
 
@@ -24,10 +24,10 @@ Bahasa dalam interogasi sering kali dirancang untuk membatasi ruang gerak lingui
 
 1. **Pertanyaan Tertutup (*Closed Questions*):** Memaksa jawaban "Ya" atau "Tidak", menghilangkan nuansa atau konteks.
 2. **Pertanyaan Mengarahkan (*Leading Questions*):** Pertanyaan yang sudah mengandung jawaban yang diinginkan.
-   - *Contoh:* "Melihat pisau itu di atas meja, bukan?" (Bandingkan dengan: "Apa yang terlihat di atas meja?")
+   - *Contoh:* "Melihat pisau itu di atas meja, bukan?" (Bandingkan dengan "Apa yang terlihat di atas meja?")
 3. **Presuposisi (*Presupposition*):** Asumsi yang terselip di dalam pertanyaan yang tidak bisa dibantah dengan jawaban sederhana.
    - *Contoh:* "Mengapa barang tersebut disembunyikan?"
-   - *Analisis:* Pertanyaan ini mengasumsikan bahwa barang tersebut **memang** disembunyikan. Subjek dipaksa menjawab "Mengapa", bukan "Apakah".
+   - *Analisis:* Pertanyaan ini mengasumsikan bahwa barang tersebut **memang** disembunyikan. Subjek dipaksa langsung menjawab "Mengapa" sehingga pertanyaan "Apakah" terlewati.
 
 ---
 
@@ -37,11 +37,11 @@ Ruang sidang adalah sebuah panggung tempat pengacara dan jaksa bertindak sebagai
 
 #### Pertanyaan Retoris dan Efek Psikologis
 
-Pertanyaan retoris dalam persidangan tidak memerlukan jawaban, melainkan bertujuan untuk menanamkan benih keraguan atau keyakinan.
+Pertanyaan retoris dalam persidangan dilontarkan tanpa menunggu jawaban. Tujuannya menanamkan benih keraguan atau keyakinan.
 
 > "Apakah orang yang jujur akan lari dari lokasi kejadian jika dia tidak bersalah?"
 
-Kalimat di atas bukan sekadar pertanyaan; kalimat tersebut adalah sebuah **argumen yang menyamar sebagai pertanyaan.** Secara diskursif, hal ini menutup kemungkinan interpretasi lain (seperti rasa takut atau panik).
+Kalimat di atas adalah sebuah **argumen yang menyamar sebagai pertanyaan.** Secara diskursif, hal ini menutup kemungkinan interpretasi lain (seperti rasa takut atau panik).
 
 #### Pilihan Kata (Diksi) dan Pembingkaian (*Framing*)
 
@@ -68,7 +68,7 @@ Sering kali, saksi dibuat merasa terpojok atau tidak konsisten melalui teknik:
 - **Repetisi:** Menanyakan hal yang sama berulang kali dengan sedikit variasi untuk mencari celah inkonsistensi.
 - **Kontrol Modalitas:** Memaksa saksi beralih dari pernyataan kemungkinan (*"Saya rasa..."*, *"Sepertinya..."*) ke pernyataan pasti (*"Ya"* atau *"Tidak"*). Jika saksi ragu, kredibilitasnya jatuh. Jika saksi pasti, tetapi ternyata salah sedikit saja, saksi dianggap berbohong.
 
-> **Refleksi Linguistik:** Pernahkah seseorang merasa terpojok oleh pertanyaan pihak lain bukan karena merasa salah, melainkan karena cara pertanyaan itu disusun membuat jawaban jujur terdengar mencurigakan?
+> **Refleksi Linguistik:** Pernahkah seseorang merasa terpojok oleh pertanyaan pihak lain padahal tidak merasa salah, hanya karena cara pertanyaan itu disusun membuat jawaban jujur terdengar mencurigakan?
 
 ---
 
@@ -112,7 +112,7 @@ Setiap orang memiliki **idiolek**. Idiolek adalah gaya bahasa unik yang dimiliki
 
 - **Pilihan Leksikal:** Apakah penulis menggunakan kata "perangkat" atau "peranti"?
 - **Sintaksis:** Bagaimana struktur kalimatnya? Apakah cenderung menggunakan kalimat pasif atau aktif?
-- **Ortografi:** Bagaimana penulis menggunakan tanda baca atau singkatan (misal: "yg" vs "yang", penggunaan tanda seru yang berlebihan).
+- **Ortografi:** Bagaimana penulis menggunakan tanda baca atau singkatan (misal "yg" vs "yang", penggunaan tanda seru yang berlebihan).
 
 #### Atribusi Kepenulisan untuk Melacak Penulis Teks yang Tidak Dikenal
 
@@ -145,13 +145,13 @@ Untuk memahami bagaimana seorang kriminolog menggunakan bahasa sebagai alat bukt
 
 4. **Hubungan dengan Profiling Kriminal:** Jika sebuah surat tuntutan tebusan menggunakan istilah medis yang spesifik, tetapi dengan tata bahasa yang tidak terstruktur, profil kriminologi seperti apa yang bisa disusun mengenai latar belakang tersangka?
 
-Linguistik forensik bukan hanya tentang apa yang dikatakan, melainkan bagaimana hal itu dikatakan dan apa yang tersirat di balik struktur tersebut.
+Linguistik forensik memperhatikan cara sesuatu dikatakan dan apa yang tersirat di balik strukturnya, sama telitinya dengan isi ucapan itu sendiri.
 
 ---
 
 ### Kesimpulan dan Rangkuman Bab
 
-Dinamika ruang sidang membuktikan bahwa hukum tidak hanya tentang apa yang terjadi di lapangan, melainkan tentang **siapa yang paling lihai merangkai cerita.** Analisis Wacana Kritis dan Linguistik Forensik memungkinkan pemelajar untuk melihat melampaui teks transkrip persidangan dan memahami bagaimana kekuasaan serta pembuktian bekerja melalui tata bahasa dan retorika.
+Dinamika ruang sidang membuktikan bahwa selain apa yang terjadi di lapangan, hukum juga ditentukan oleh **siapa yang paling lihai merangkai cerita.** Analisis Wacana Kritis dan Linguistik Forensik memungkinkan pemelajar untuk melihat melampaui teks transkrip persidangan dan memahami bagaimana kekuasaan serta pembuktian bekerja melalui tata bahasa dan retorika.
 
 **Poin Utama untuk Diingat:**
 
@@ -160,4 +160,4 @@ Dinamika ruang sidang membuktikan bahwa hukum tidak hanya tentang apa yang terja
 - **Ruang Sidang** adalah arena tempat kredibilitas dibangun atau dihancurkan melalui manipulasi modalitas bahasa.
 - **Linguistik Forensik** memanfaatkan idiolek dan sintaksis untuk mengidentifikasi kepenulisan dokumen kriminal.
 
-> **Wawasan Penting:** Dalam hukum, "kebenaran" sering kali bukan merupakan apa yang benar-benar terjadi, melainkan narasi yang paling sulit untuk dibantah secara linguistik.
+> **Wawasan Penting:** Dalam hukum, "kebenaran" sering kali berupa narasi yang paling sulit untuk dibantah secara linguistik, yang belum tentu sama dengan apa yang benar-benar terjadi.

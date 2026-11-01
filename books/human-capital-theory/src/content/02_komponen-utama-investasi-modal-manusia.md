@@ -1,6 +1,6 @@
 ## Komponen Utama Investasi Modal Manusia
 
-Pembahasan inti **Teori Modal Manusia** (*Human Capital Theory*) bermuara pada satu soal praktis: investasi apa saja yang bisa menaikkan nilai diri seseorang? Jika sebelumnya kita telah memahami bahwa manusia bukan hanya "biaya", tetapi "aset" ekonomi yang bernilai, sekarang kita akan membedah jenis-jenis investasi yang dapat ditanamkan ke dalam diri agar nilai aset tersebut meningkat.
+Pembahasan inti **Teori Modal Manusia** (*Human Capital Theory*) bermuara pada soal praktis tentang investasi apa saja yang bisa menaikkan nilai diri seseorang. Bab sebelumnya memperlihatkan manusia sebagai "aset" ekonomi yang bernilai, dan sekarang kita akan membedah jenis-jenis investasi yang dapat ditanamkan ke dalam diri agar nilai aset tersebut meningkat.
 
 Bayangkan diri kamu sebagai sebuah perangkat lunak (*software*). Pendidikan formal adalah sistem operasi dasarnya, pelatihan teknis adalah fitur-fitur khusus yang kamu tambahkan, dan kesehatan adalah perangkat keras (*hardware*) yang memastikan seluruh sistem berjalan lancar. Tanpa investasi yang tepat, potensi ekonomi seseorang akan tetap menjadi kapasitas yang tidak terpakai.
 
@@ -14,7 +14,7 @@ Pendidikan formal adalah bentuk investasi modal manusia yang paling terlihat dan
 
 Secara ekonomi, pendidikan formal meningkatkan **produktivitas marjinal** (*marginal productivity*) individu. Dengan menguasai literasi, numerasi, dan kemampuan berpikir kritis, seseorang menjadi lebih efisien dalam memecahkan masalah dan menyelesaikan pekerjaan yang kompleks.
 
-> **Definisi Utama:** Pendidikan bukan hanya tentang mengisi tempat penampungan informasi, melainkan membangun kemampuan produktif yang dipakai sepanjang masa kerja seseorang.
+> **Definisi Utama:** Pendidikan membangun kemampuan produktif yang dipakai sepanjang masa kerja seseorang.
 
 **Analogi:** Pendidikan formal ibarat membangun **fondasi gedung pencakar langit**. Semakin dalam dan kuat fondasinya (tingkat pendidikan), semakin tinggi struktur yang bisa dibangun di atasnya (karier dan pendapatan) tanpa risiko runtuh.
 

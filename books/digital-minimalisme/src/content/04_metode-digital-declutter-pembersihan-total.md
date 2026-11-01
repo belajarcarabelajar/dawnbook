@@ -6,7 +6,7 @@ Cal Newport memopulerkan metode ini untuk menghentikan kebiasaan digital yang ad
 
 ## Apa Itu Digital Declutter?
 
-Proses ini merupakan *reset* sistem selama 30 hari ketika kamu berhenti sejenak dari berbagai aktivitas digital opsional. Tujuannya sederhana: mencari tahu teknologi mana yang memberi nilai nyata untuk hidupmu, dan mana yang sekadar mencuri perhatian.
+Proses ini merupakan *reset* sistem selama 30 hari ketika kamu berhenti sejenak dari berbagai aktivitas digital opsional. Lewat jeda itu kamu mencari tahu teknologi mana yang memberi nilai nyata untuk hidupmu, dan mana yang sekadar mencuri perhatian.
 
 ## 1. Menentukan Aturan Main 
 
@@ -21,7 +21,7 @@ Alasan seperti "takut ketinggalan berita terkini" atau sekadar pelarian saat bos
 
 | Kategori | Contoh Aplikasi | Status | Alasan |
 | --- | --- | --- | --- |
-| Media Sosial | Instagram, TikTok, Twitter | **Opsional** | Hiburan, bukan kebutuhan vital. |
+| Media Sosial | Instagram, TikTok, Twitter | **Opsional** | Sebatas hiburan. |
 | Komunikasi | WhatsApp, Slack | **Tetap Digunakan** | Diperlukan untuk koordinasi kerja/keluarga (dengan batasan). |
 | Hiburan | Netflix, YouTube, Games | **Opsional** | Bisa diganti dengan aktivitas analog. |
 | Utilitas | Google Maps, M-Banking | **Tetap Digunakan** | Penting untuk fungsi harian. |

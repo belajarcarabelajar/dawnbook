@@ -47,7 +47,7 @@ Vektor gerakan ini dapat direpresentasikan secara matematis dalam tiga dimensi (
 
 ### 4. Peran Vestibular di Kehidupan Sehari-hari
 
-Memahami sistem vestibular bukan hanya teori akademis; ini adalah kunci di balik berbagai aktivitas manusia yang kompleks:
+Sistem vestibular ikut bekerja di balik berbagai aktivitas manusia yang kompleks, seperti contoh-contoh berikut.
 
 - **Olahraga Ekstrem:** Seorang pesenam artistik mengandalkan sistem vestibular yang sangat terlatih untuk melakukan salto di udara dan mendarat dengan tegak. Otak mereka memproses input akselerasi sudut yang sangat tinggi dalam hitungan milidetik.
 - **Navigasi dalam Gelap:** Saat terbangun di tengah malam dan berjalan dalam kegelapan total, sistem vestibular mengambil alih peran utama karena sistem visual tidak aktif. Sistem ini memberi tahu otak apakah posisi tubuh masih tegak.

@@ -4,7 +4,7 @@
 
 Pernahkah kamu membayangkan otak kamu sebagai sebuah kota yang sibuk tetapi belum memiliki peta jalan yang tetap? Setiap kali kamu mempelajari kata baru dalam bahasa asing atau mencoba teknik melakukan *dribble* bola basket, kota tersebut mulai membangun jalan setapak baru. Jika kamu terus melakukannya, jalan setapak itu berubah menjadi jalan raya yang lebar dan cepat.
 
-Mekanisme ini bukan sekadar kiasan; ini adalah proses biologis nyata yang disebut **neuroplastisitas struktural**. Mari kita bedah bagaimana otak kita secara fisik berubah bentuk saat kita belajar.
+Di balik kiasan itu ada proses biologis nyata yang disebut **neuroplastisitas struktural**. Mari kita bedah bagaimana otak kita secara fisik berubah bentuk saat kita belajar.
 
 ### 1\. Sinaptogenesis
 
@@ -33,7 +33,7 @@ Mielin adalah lapisan lemak yang membungkus akson, berfungsi mirip dengan isolat
 
 Mungkin terdengar kontraintuitif, tetapi bagian dari "belajar" juga melibatkan **penghapusan** koneksi. Proses ini disebut **Synaptic Pruning** (Pemangkasan Sinapsis).
 
-Otak memiliki prinsip ekonomi yang ketat: *"Gunakan atau Hilangkan"* (*Use it or Lose it*).
+Otak memiliki prinsip ekonomi yang ketat, yaitu *"Gunakan atau Hilangkan"* (*Use it or Lose it*).
 
 - Koneksi yang jarang digunakan akan dianggap sebagai "sampah" atau beban energi.
 - Otak akan memutus koneksi tersebut agar energi bisa dialirkan ke jalur yang lebih sering digunakan.
@@ -60,4 +60,4 @@ Memahami biologi ini memberi kita strategi nyata untuk belajar lebih efektif:
 
 **Pesan Utama:** Otak kamu adalah organ yang plastis. Setiap kali kamu menantang diri sendiri untuk mempelajari sesuatu yang sulit, kamu sedang mendorong neuron kamu untuk melakukan "jabat tangan" baru dan membangun jalan tol informasi.
 
-*Mari kita renungkan: Keterampilan apa yang ingin kamu bangun "jalan tol"-nya di dalam otak kamu mulai hari ini?*
+*Sekarang renungkan, keterampilan apa yang ingin kamu bangun "jalan tol"-nya di dalam otak kamu mulai hari ini?*

@@ -29,7 +29,7 @@ Jika $\text{Input}\_{\text{Eksternal}}$ mendekati nilai maksimal kapasitas, maka
 
 ## Mengapa Kebisingan Digital Begitu Berbahaya?
 
-Ketika kita terus-menerus terpapar pada "input dari otak lain", kita kehilangan kemampuan untuk memproses kehidupan kita sendiri. Berikut adalah dampaknya:
+Ketika kita terus-menerus terpapar pada "input dari otak lain", kita kehilangan kemampuan untuk memproses kehidupan kita sendiri. Dampaknya terasa di beberapa sisi.
 
 ### Penurunan Kejernihan Berpikir
 Otak membutuhkan waktu untuk mengonsolidasikan informasi. Tanpa waktu refleksi, informasi hanya akan menumpuk menjadi tumpukan fakta yang tidak terorganisir, gagal menjadi kebijaksanaan atau pemahaman mendalam.
@@ -38,7 +38,7 @@ Otak membutuhkan waktu untuk mengonsolidasikan informasi. Tanpa waktu refleksi, 
 Kreativitas sering kali muncul dari kondisi *Default Mode Network* (DMN) di otak, sebuah jaringan yang aktif justru saat kita sedang melamun. Input digital yang konstan memaksa otak tetap berada dalam mode reaktif, sehingga ide orisinal sulit muncul.
 
 ### Kerentanan Emosional
-Refleksi adalah cara kita memproses emosi kompleks. Saat menutupi kecemasan dengan distraksi digital, emosi tersebut tidak hilang. Emosi itu hanya terpendam dan bisa muncul kembali dalam bentuk stres kronis atau kelelahan mental (*burnout*).
+Refleksi adalah cara kita memproses emosi kompleks. Saat kecemasan ditutupi dengan distraksi digital, emosi tersebut hanya terpendam dan bisa muncul kembali dalam bentuk stres kronis atau kelelahan mental (*burnout*).
 
 *Bahan Renungan: Kapan terakhir kali kamu meluangkan waktu 10 menit duduk tenang tanpa gangguan perangkat digital, lalu mendengarkan arus pikiran sendiri?*
 
@@ -52,10 +52,10 @@ Menjauhkan diri dari kebisingan digital memberikan ruang bagi diri sendiri untuk
 
 ## Melatih Kesendirian
 
-Untuk melatih kembali kemampuanmu menyendiri, cobalah beberapa langkah berikut:
+Untuk melatih kembali kemampuanmu menyendiri, cobalah beberapa langkah berikut.
 
 ### Jalan-Jalan Tanpa Perangkat (The Solitude Walk)
-Cobalah berjalan kaki selama 15-20 menit di lingkungan sekitar. Syaratnya mutlak: tinggalkan ponsel di rumah. Jangan gunakan earphone. Tujuannya adalah mengamati lingkungan dan membiarkan pikiran berkelana secara bebas.
+Cobalah berjalan kaki selama 15-20 menit di lingkungan sekitar. Ponsel wajib ditinggal di rumah, begitu juga earphone. Tujuannya adalah mengamati lingkungan dan membiarkan pikiran berkelana secara bebas.
 
 ### Menulis Jurnal (Journaling)
 Menulis mengubah pikiran abstrak menjadi bentuk fisik. Tuliskan tiga hal yang mengganggu pikiranmu hari ini beserta satu hal yang kamu pelajari tentang dirimu sendiri.

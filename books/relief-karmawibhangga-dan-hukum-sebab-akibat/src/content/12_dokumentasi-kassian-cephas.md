@@ -6,7 +6,7 @@ Inilah analogi yang tepat untuk peran **Kassian Cephas** terhadap relief Karmawi
 
 ## Siapakah Kassian Cephas?
 
-Kassian Cephas (1845-1912) bukan sekadar fotografer biasa. Ia adalah fotografer profesional pertama dari kalangan pribumi (Jawa) yang diakui secara internasional. Sebagai fotografer resmi Kesultanan Yogyakarta, Cephas memiliki kemampuan teknis yang tinggi di era ketika fotografi masih rumit dan mahal.
+Kassian Cephas (1845-1912) adalah fotografer profesional pertama dari kalangan pribumi (Jawa) yang diakui secara internasional. Sebagai fotografer resmi Kesultanan Yogyakarta, Cephas memiliki kemampuan teknis yang tinggi di era ketika fotografi masih rumit dan mahal.
 
 **Mengapa Cephas yang dipilih?** Pada akhir abad ke-19, pemerintah kolonial Belanda melalui *Archaeologische Vereeniging* (Perhimpunan Arkeologi) menyadari pentingnya mendokumentasikan relief yang baru ditemukan oleh J.W. IJzerman pada tahun 1885. Cephas dipilih karena:
 
@@ -22,7 +22,7 @@ Keputusannya adalah **buka sejenak, dokumentasikan seluruhnya, lalu tutup selama
 
 ### Kendala Teknis Pemotretan
 
-Mendokumentasikan 160 panel relief pada tahun 1890 bukanlah perkara menekan tombol di ponsel pintar. Cephas harus menghadapi beberapa kendala teknis:
+Pada tahun 1890, belum ada ponsel pintar yang bisa memotret dengan satu sentuhan tombol. Untuk mendokumentasikan 160 panel relief, Cephas harus menghadapi beberapa kendala teknis:
 
 1. **Pencahayaan yang Terbatas:** Relief berada di bagian bawah dengan ruang gerak yang sempit. Cephas harus menunggu sudut cahaya matahari yang tepat agar tekstur pahatan terlihat jelas.
 2. **Teknologi Pelat Kaca:** Ia menggunakan kamera format besar dengan negatif berupa pelat kaca sensitif cahaya. Setiap kesalahan berarti pemborosan biaya yang besar.
@@ -75,7 +75,7 @@ Pengetahuan tentang dokumentasi Kassian Cephas memberikan kita pelajaran penting
 
 1. **Konservasi Digital:** Di era modern, kita belajar bahwa dokumentasi adalah bentuk penyelamatan kedua setelah fisik objeknya. Jika fisik hancur, data visualnya masih tersimpan.
 2. **Studi Sejarah Busana dan Budaya:** Peneliti masa kini menggunakan foto Cephas untuk melihat detail kain batik, alat musik, dan bentuk rumah pada abad ke-8 yang terpahat di relief tersebut.
-3. **Etika Fotografi:** Cephas mengajarkan bahwa fotografi bukan sekadar seni, melainkan tanggung jawab untuk "membekukan" waktu demi generasi mendatang.
+3. **Etika Fotografi:** Cephas mengajarkan bahwa fotografi juga memikul tanggung jawab untuk "membekukan" waktu demi generasi mendatang.
 
 ### Skenario Penggunaan dalam Pendidikan
 

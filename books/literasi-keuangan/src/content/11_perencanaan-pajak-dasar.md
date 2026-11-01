@@ -6,7 +6,7 @@ Bagian ini akan membahas dasar-dasar sistem pajak di Indonesia. Kamu juga akan b
 
 ## Memahami Sistem Pajak di Indonesia
 
-Pajak itu iuran wajib ke negara sesuai undang-undang. Kita memang tidak merasakan balas jasanya secara langsung, tapi dana ini dipakai untuk pembangunan dan kepentingan umum.
+Pajak itu iuran wajib ke negara sesuai undang-undang. Dana ini dipakai untuk pembangunan dan kepentingan umum, dan balas jasanya memang tidak langsung terasa oleh pembayarnya.
 
 Di Indonesia, sistem perpajakan menggunakan tiga pendekatan utama:
 
@@ -20,7 +20,7 @@ Di Indonesia, sistem perpajakan menggunakan tiga pendekatan utama:
 
 Secara sederhana, setiap tambahan kemampuan ekonomis yang kamu terima adalah objek Pajak Penghasilan (PPh). Ini berlaku baik untuk penghasilan dari dalam maupun luar negeri yang bisa dipakai untuk konsumsi atau menambah kekayaan.
 
-Tapi tenang, ada pengecualian. Sumbangan, zakat, atau harta hibah bukan termasuk objek PPh, asalkan tidak ada hubungannya dengan pekerjaan atau usaha di antara pihak yang terlibat.
+Tapi tenang, ada pengecualian. Sumbangan, zakat, atau harta hibah tidak termasuk objek PPh, asalkan tidak ada hubungannya dengan pekerjaan atau usaha di antara pihak yang terlibat.
 
 ### Tarif Pajak Penghasilan Individu
 
@@ -72,7 +72,7 @@ Kalau gajimu sudah memenuhi kriteria, kamu otomatis jadi Wajib Pajak. Ada bebera
 
 ## Panduan Singkat Melaporkan Pajak
 
-Mulai tahun pajak 2025, SPT Tahunan dilaporkan secara *online* lewat aplikasi Coretax DJP, bukan lagi lewat DJP Online. Ingat, batas akhirnya tetap tanggal 31 Maret di tahun berikutnya. Sebelum melapor, aktifkan dulu akun Coretax kamu dan buat kode otorisasi atau sertifikat elektronik.
+Mulai tahun pajak 2025, SPT Tahunan dilaporkan secara *online* lewat aplikasi Coretax DJP, yang menggantikan DJP Online. Ingat, batas akhirnya tetap tanggal 31 Maret di tahun berikutnya. Sebelum melapor, aktifkan dulu akun Coretax kamu dan buat kode otorisasi atau sertifikat elektronik.
 
 ### Satu Formulir untuk Semua
 
@@ -99,4 +99,4 @@ Merencanakan pajak berarti memanfaatkan aturan pajak yang ada supaya pengeluaran
 - **Klaim Pengurangan Pajak:** Jangan lewatkan fasilitas seperti PTKP atau insentif pajak lain.
 - **Simpan Bukti Transaksi:** Kalau kamu punya bisnis atau potong pajak mandiri, selalu simpan nota dan dokumen keuangan. Aturannya, dokumen ini perlu disimpan rapi sampai 10 tahun.
 - **Disiplin Waktu:** Telat bayar atau telat lapor sama dengan buang-buang uang buat bayar denda. Catat baik-baik tenggat waktunya di kalender.
-- **Tanya Ahlinya:** Punya banyak sumber pendapatan atau aset yang rumit? Jangan ragu pakai jasa konsultan pajak. Daripada salah hitung dan berujung denda, mending bayar profesional di awal.
+- **Tanya Ahlinya:** Punya banyak sumber pendapatan atau aset yang rumit? Jangan ragu pakai jasa konsultan pajak. Bayaran untuk profesional di awal bisa mencegah salah hitung yang berujung denda.

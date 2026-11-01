@@ -1,6 +1,6 @@
 ## Pengantar Neuroplastisitas
 
-**Neuroplastisitas** adalah salah satu temuan penting dalam sains modern, dan perjalanan kamu memahaminya dimulai dari halaman ini. Selama berabad-abad, manusia percaya bahwa otak kita adalah sebuah "mesin" yang sudah dipasang mati (hardwired) sejak lahir atau masa kanak-kanak. Namun, sains terbaru memberi tahu kita hal yang jauh lebih optimis: otak kamu adalah sebuah organ yang dinamis, hidup, dan terus berubah.
+**Neuroplastisitas** adalah salah satu temuan penting dalam sains modern, dan perjalanan kamu memahaminya dimulai dari halaman ini. Selama berabad-abad, manusia percaya bahwa otak kita adalah sebuah "mesin" yang sudah dipasang mati (hardwired) sejak lahir atau masa kanak-kanak. Namun, sains terbaru membawa kabar yang jauh lebih optimis. Otak kamu adalah sebuah organ yang dinamis, hidup, dan terus berubah.
 
 Materi ini akan membawa kamu memahami apa itu neuroplastisitas dan bagaimana sudut pandang dunia medis berubah dari melihat otak sebagai benda statis menjadi sesuatu yang adaptif.
 
@@ -34,9 +34,9 @@ Mulai tahun 1960-an dan 1970-an, penelitian mulai menunjukkan bukti yang mematah
 
 - Otak terus menciptakan jalur-jalur baru sebagai respons terhadap pembelajaran.
 - Bahkan pada lansia, otak masih memiliki kemampuan untuk berubah dan beradaptasi.
-- Kecerdasan bukanlah angka tetap (Fixed), melainkan sesuatu yang bisa ditingkatkan melalui stimulasi yang tepat.
+- Kecerdasan bisa ditingkatkan melalui stimulasi yang tepat, sehingga angkanya tidak tetap (Fixed).
 
-**Penting:** Perubahan paradigma ini mengubah banyak hal dalam pendidikan dan kedokteran. Kita tidak lagi dibatasi oleh "genetik" semata, melainkan memiliki kendali atas perkembangan otak kita sendiri melalui aktivitas dan cara berpikir.
+**Penting:** Perubahan paradigma ini mengubah banyak hal dalam pendidikan dan kedokteran. Lewat aktivitas dan cara berpikir, kita memiliki kendali atas perkembangan otak kita sendiri, dan "genetik" tidak lagi menjadi satu-satunya batas.
 
 ## 3\. Analogi untuk Memahami Neuroplastisitas
 
@@ -68,7 +68,7 @@ Artinya, perubahan struktur otak ($\Delta$) adalah fungsi ($f$) dari seberapa be
 
 ## 5\. Dampak Nyata dalam Kehidupan Manusia
 
-Neuroplastisitas bukan hanya teori laboratorium; ia memiliki dampak nyata dalam kehidupan manusia:
+Di luar laboratorium, neuroplastisitas memiliki dampak nyata dalam kehidupan manusia, misalnya pada tiga kelompok berikut.
 
 - **Pemulihan Stroke**: Dulu, penderita stroke yang lumpuh dianggap tidak akan bisa sembuh. Sekarang, dengan terapi fisik yang intensif, pasien dapat "mengajar" bagian otak yang sehat untuk mengambil alih fungsi bagian yang rusak, sehingga mereka bisa berjalan atau berbicara kembali.
 - **Belajar Bahasa Saat Dewasa**: Penelitian menemukan penebalan pada *Cerebral Cortex* orang dewasa yang belajar bahasa baru, petunjuk bahwa "plastisitas" masih bekerja.

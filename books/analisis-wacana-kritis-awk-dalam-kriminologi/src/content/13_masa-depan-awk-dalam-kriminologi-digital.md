@@ -1,6 +1,6 @@
 ## Masa Depan AWK dalam Kriminologi Digital
 
-Dunia kriminologi tidak lagi hanya berpijak pada ruang interogasi fisik atau lembaran koran cetak. Kita telah memasuki era ketika kejahatan, kontrol sosial, dan konstruksi tentang "siapa yang berbahaya" diproduksi melalui baris kode dan interaksi di media sosial. Analisis Wacana Kritis (AWK) kini menghadapi tantangan sekaligus peluang baru: **Kriminologi Digital**.
+Pijakan dunia kriminologi kini meluas melampaui ruang interogasi fisik dan lembaran koran cetak. Kita telah memasuki era ketika kejahatan, kontrol sosial, dan konstruksi tentang "siapa yang berbahaya" diproduksi melalui baris kode dan interaksi di media sosial. Analisis Wacana Kritis (AWK) kini menghadapi tantangan sekaligus peluang baru dalam **Kriminologi Digital**.
 
 Dalam bab ini, pemelajar akan mengeksplorasi bagaimana AWK beradaptasi untuk membongkar relasi kuasa yang tersembunyi di balik layar gawai, algoritma yang tidak terlihat, dan sistem pengawasan yang semakin canggih.
 
@@ -9,9 +9,9 @@ Dalam bab ini, pemelajar akan mengeksplorasi bagaimana AWK beradaptasi untuk mem
 Tradisionalnya, AWK menganalisis teks yang statis seperti pidato, berita cetak, atau undang-undang. Namun, dalam kriminologi digital, wacana bersifat **likuid, masif, dan instan**.
 
 - **Kecepatan (*Velocity*):** Narasi tentang sebuah kejahatan dapat menjadi viral dalam hitungan detik, menciptakan "pengadilan massa digital" sebelum proses hukum resmi dimulai.
-- **Interaktivitas:** Wacana tidak lagi searah. Komentar warganet, *retweet*, dan *share* adalah bentuk partisipasi diskursif yang memperkuat atau meruntuhkan stigma terhadap kelompok tertentu.
+- **Interaktivitas:** Wacana kini berjalan dua arah. Komentar warganet, *retweet*, dan *share* adalah bentuk partisipasi diskursif yang memperkuat atau meruntuhkan stigma terhadap kelompok tertentu.
 
-> **Analogi:** Jika wacana tradisional adalah sebuah buku yang tersusun rapi di perpustakaan, wacana digital adalah arus sungai yang deras. Pemelajar tidak hanya melihat airnya, tetapi harus memahami bagaimana arus (algoritma) dan penghalang (sensor/moderasi) menentukan ke mana arah air tersebut mengalir.
+> **Analogi:** Jika wacana tradisional adalah sebuah buku yang tersusun rapi di perpustakaan, wacana digital adalah arus sungai yang deras. Pemelajar perlu mengamati airnya sekaligus memahami bagaimana arus (algoritma) dan penghalang (sensor/moderasi) menentukan ke mana arah air tersebut mengalir.
 
 | Dimensi | Kriminologi Wacana Tradisional | Kriminologi Wacana Digital |
 | :--- | :--- | :--- |
@@ -22,13 +22,13 @@ Tradisionalnya, AWK menganalisis teks yang statis seperti pidato, berita cetak, 
 
 ### 2. Algoritma sebagai Wacana
 
-Salah satu tantangan baru dalam AWK adalah memahami bahwa **algoritma bukanlah alat netral**. Dalam kriminologi digital, algoritma berperan sebagai "kurator realitas" yang menentukan narasi kriminalitas mana yang muncul di beranda publik.
+Salah satu tantangan baru dalam AWK adalah memahami bahwa **algoritma tidak netral**. Dalam kriminologi digital, algoritma berperan sebagai "kurator realitas" yang menentukan narasi kriminalitas mana yang muncul di beranda publik.
 
 > **Definisi:** Dalam perspektif AWK, algoritma adalah bentuk **wacana teknologis**. Ia membawa ideologi penciptanya dan memperkuat bias sistemik yang ada di masyarakat.
 
 #### Predictive Policing (Kepolisian Prediktif)
 
-Banyak kepolisian modern menggunakan perangkat lunak untuk memprediksi di mana kejahatan akan terjadi. AWK dalam konteks ini tidak hanya menganalisis laporan polisi, tetapi juga menganalisis "logika" di balik kode tersebut.
+Banyak kepolisian modern menggunakan perangkat lunak untuk memprediksi di mana kejahatan akan terjadi. Dalam konteks ini, AWK menganalisis laporan polisi beserta "logika" di balik kode tersebut.
 
 Sebagai contoh, jika variabel "lokasi ekonomi rendah" diberi bobot tinggi dalam algoritma, maka secara diskursif, algoritma tersebut sedang mereproduksi narasi bahwa "kemiskinan identik dengan kriminalitas".
 
@@ -55,7 +55,7 @@ Negara dan korporasi kini memiliki kemampuan luas untuk mengawasi warga. AWK ber
 
 ### 4. AWK Komputasional
 
-Masa depan AWK dalam kriminologi melibatkan kolaborasi dengan ilmu data (*data science*). Peneliti tidak bisa lagi hanya membaca 10 artikel berita secara manual jika terdapat 10 juta cuitan di media sosial tentang sebuah kasus kejahatan.
+Masa depan AWK dalam kriminologi melibatkan kolaborasi dengan ilmu data (*data science*). Membaca 10 artikel berita secara manual tidak lagi memadai jika terdapat 10 juta cuitan di media sosial tentang sebuah kasus kejahatan.
 
 **Aplikasi Dunia Nyata dalam Analisis Sentimen dan Narasi**
 
@@ -113,4 +113,4 @@ Untuk menerapkan AWK di era digital, peneliti harus memperhatikan tiga elemen ku
 - **Aktor Non-Manusia:** Mengakui dan menganalisis peran *bot* serta kecerdasan buatan dalam memproduksi wacana.
 - **Resistensi Digital:** Mencari narasi tandingan dari kelompok-kelompok yang terpinggirkan melalui tagar atau gerakan bawah tanah digital.
 
-> **Insight Utama:** Masa depan kriminologi bukan lagi sekadar menghitung jumlah kejahatan, melainkan membongkar bagaimana **wacana digital** mendefinisikan apa yang dianggap sebagai kejahatan, siapa yang dianggap sebagai musuh, dan sejauh mana masyarakat rela menyerahkan kebebasan demi rasa aman yang dikonstruksikan secara digital.
+> **Insight Utama:** Ke depan, kriminologi perlu melangkah dari menghitung jumlah kejahatan ke membongkar bagaimana **wacana digital** mendefinisikan apa yang dianggap sebagai kejahatan, siapa yang dianggap sebagai musuh, dan sejauh mana masyarakat rela menyerahkan kebebasan demi rasa aman yang dikonstruksikan secara digital.

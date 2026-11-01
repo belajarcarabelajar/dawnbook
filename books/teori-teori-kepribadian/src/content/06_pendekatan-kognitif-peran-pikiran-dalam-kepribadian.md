@@ -10,7 +10,7 @@ George Kelly (1905–1967) adalah seorang psikolog Amerika yang merumuskan Perso
 
 **Konsep Utama:**
 
-1. **Manusia sebagai Ilmuwan:** Setiap individu secara sadar dan aktif berusaha membongkar pola dari rangkaian kejadian di hidup mereka. Bukannya membiarkan informasi lewat begitu saja, setiap orang selalu sibuk membangun sekaligus merombak ulang teori mengenai aturan main dunia di sekelilingnya.
+1. **Manusia sebagai Ilmuwan:** Setiap individu secara sadar dan aktif berusaha membongkar pola dari rangkaian kejadian di hidup mereka. Setiap orang selalu sibuk membangun sekaligus merombak ulang teori mengenai aturan main dunia di sekelilingnya.
 2. **Personal Constructs:** Rangkaian skema interpretatif yang dipakai untuk memilah dan menafsirkan pengalaman sehari-hari. Sebuah konstruk berwujud nilai dikotomis, misalnya "bijak vs ceroboh" atau "kooperatif vs egois". Seseorang biasanya tidak menganut nilai yang saling membantah di dalam satu bingkai konstruksi yang sama. Bentuk akhir dari setiap konstruk ini selalu unik karena dibentuk dari pengalaman hidup perorangan.
 3. **Constructive Alternativism:** Keyakinan dasar bahwa manusia tidak pernah terikat sepenuhnya pada konstruksinya sendiri. Selalu ada keleluasaan untuk menimbang, menyingkirkan, atau beralih ke konstruksi lain. Realitas ini menunjukkan bahwa batas-batas sistem pemaknaan kita akan terus melebar seiring datangnya benturan fakta-fakta baru yang menggoyahkan asumsi lama.
 
@@ -38,7 +38,7 @@ Mischel sempat melayangkan kritik pada gagasan *trait theory* (teori sifat) klas
 **Konsep Utama:**
 
 1. **Sistem Stabil Unit Kognitif-Afektif:** Tubuh kepribadian diibaratkan sebagai jaringan hidup dari gabungan aneka unit kognitif-afektif. Aspek-aspek fisiologis yang membaur dengan dimensi psikologis ini memungkinkan terjadinya relasi yang ajek antara manusia dengan lingkungannya.
-2. **Konteks Spesifik:** Gonta-ganti reaksi pada berbagai ruang situasi sama sekali bukan bentuk kekacauan. Gerakan bervariasi itu merujuk pada rentetan pola reaksi tetap milik masing-masing orang.
+2. **Konteks Spesifik:** Reaksi yang gonta-ganti pada berbagai ruang situasi punya keteraturan. Gerakan bervariasi itu merujuk pada rentetan pola reaksi tetap milik masing-masing orang.
 3. **Cognitive-Affective Units (CAU):** Proses manusia dalam mengolah informasi dari dunia luar ditata oleh lima cabang CAU berikut:
   - **Encoding Strategies:** Format dan filter kognitif sewaktu menjabarkan citra diri, figur lain, beserta pemicu eksternal yang lalu lalang.
   - **Competencies and Self-Regulatory Strategies:** Melibatkan volume kapasitas intelijensi, skema citra personal, parameter pencapaian personal, dan rancangan sistem mitigasi atas perbuatannya sendiri.
@@ -52,11 +52,11 @@ Dalam CAPS, pola tindakan yang ajek dari waktu ke waktu terwujud dalam formula: 
 
 **Implikasi:**
 
-Teori CAPS menjahit dua kutub yang terkesan saling menolak: kestabilan kepribadian dan kelenturan tingkah laku sosial. Rangka utama kepribadian bisa saja stabil dari waktu ke waktu, tetapi baju sosial yang dikenakannya bisa lepas-pasang mengikuti musim lingkungan sekitarnya. Upaya membedah lapisan mental manusia wajib memperhitungkan nuansa situasi tempatnya berdiri. Merangkum pribadi lewat tempelan satu label sifat permanen dinilai membatasi.
+Teori CAPS menjahit kestabilan kepribadian dan kelenturan tingkah laku sosial, dua kutub yang terkesan saling menolak. Rangka utama kepribadian bisa saja stabil dari waktu ke waktu, tetapi baju sosial yang dikenakannya bisa lepas-pasang mengikuti musim lingkungan sekitarnya. Upaya membedah lapisan mental manusia wajib memperhitungkan nuansa situasi tempatnya berdiri. Merangkum pribadi lewat tempelan satu label sifat permanen dinilai membatasi.
 
 **Studi Kasus:**
 
-Bayangkan seorang manajer lapangan yang vokal, menekan tenggat waktu secara keras, serta mendominasi perdebatan dengan klien korporat. Akan tetapi, begitu kakinya menginjak halaman rumah sepulang menjemput anak sekolah, ritmenya melambat total, menuruti semua usulan rekreasi dari keluarganya tanpa adu argumen. Dari pandangan CAPS, perbedaan tajam ini bukanlah inkonsistensi. Situasi kerja mengaktifkan tujuan profesional (*goals*) untuk memenangkan tender, sedangkan situasi rumah mengaktifkan harapan (*expectancies*) akan keharmonisan keluarga. Dua situasi yang berbeda itu menghasilkan tanda tangan psikologis: "Jika berada di atas podium otoritas, tekan pedal; jika di dalam wilayah pengasuhan, rem semuanya."
+Bayangkan seorang manajer lapangan yang vokal, menekan tenggat waktu secara keras, serta mendominasi perdebatan dengan klien korporat. Akan tetapi, begitu kakinya menginjak halaman rumah sepulang menjemput anak sekolah, ritmenya melambat total, menuruti semua usulan rekreasi dari keluarganya tanpa adu argumen. Pandangan CAPS membaca perbedaan tajam ini sebagai pola yang konsisten. Situasi kerja mengaktifkan tujuan profesional (*goals*) untuk memenangkan tender, sedangkan situasi rumah mengaktifkan harapan (*expectancies*) akan keharmonisan keluarga. Dua situasi yang berbeda itu menghasilkan tanda tangan psikologis: "Jika berada di atas podium otoritas, tekan pedal; jika di dalam wilayah pengasuhan, rem semuanya."
 
 ### Perbandingan Kelly dan Mischel
 

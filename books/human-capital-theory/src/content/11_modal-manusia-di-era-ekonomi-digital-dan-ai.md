@@ -6,7 +6,7 @@ Bayangkan modal manusia (*Human Capital*) sebagai sebuah perangkat lunak (*softw
 
 ### 1. Pergeseran dari Tugas Rutin ke Kreativitas Digital
 
-Transformasi teknologi tidak berarti tenaga kerja manusia digantikan secara penuh oleh mesin. Sebaliknya, terjadi pergeseran fokus pada bentuk keterampilan yang dinilai tinggi oleh pasar kerja.
+Transformasi teknologi menggeser fokus pada bentuk keterampilan yang dinilai tinggi oleh pasar kerja. Tenaga kerja manusia tidak serta-merta digantikan secara penuh oleh mesin.
 
 - **Substitusi vs. Augmentasi**: Teknologi AI cenderung menggantikan tugas-tugas rutin kognitif tingkat dasar (seperti rekapitulasi data atau penyusunan laporan sederhana). Di sisi lain, AI justru memperkuat (*augment*) pekerja yang memiliki kemampuan kognitif tingkat tinggi, kreativitas, dan empati.
 - **Skill-Biased Technological Change (SBTC)**: Konsep ekonomi ini menjelaskan bahwa kemajuan teknologi meningkatkan produktivitas pekerja terampil secara lebih besar dibandingkan pekerja tidak terampil, yang pada akhirnya memperlebar kesenjangan upah (*wage gap*).
@@ -19,13 +19,13 @@ Transformasi teknologi tidak berarti tenaga kerja manusia digantikan secara penu
 | **Fokus Utama Produktivitas** | Efisiensi eksekusi manual | Pengambilan keputusan kompleks & *systems thinking* |
 
 > **Analogi Pilot dan Autopilot**
-> Pesawat modern memiliki sistem autopilot yang canggih. Apakah pilot manusia masih dibutuhkan? Tentu saja. Namun, fokus pilot tersebut tidak lagi pada memutar tuas secara manual setiap detik. Modal manusia sang pilot kini bergeser ke arah pengawasan sistem, pengambilan keputusan darurat yang kompleks, serta manajemen krisis, yaitu fungsi yang belum dapat digantikan sepenuhnya oleh algoritma.
+> Pesawat modern memiliki sistem autopilot yang canggih. Apakah pilot manusia masih dibutuhkan? Tentu saja. Namun, modal manusia sang pilot kini bergeser dari memutar tuas secara manual setiap detik ke arah pengawasan sistem, pengambilan keputusan darurat yang kompleks, serta manajemen krisis, yaitu fungsi yang belum dapat digantikan sepenuhnya oleh algoritma.
 
 ### 2. Kebutuhan Keterampilan Baru di Era AI
 
-Di era ekonomi berbasis pengetahuan ini, modal manusia tidak lagi diukur dari apa yang kamu ketahui, melainkan dari seberapa cepat kamu mampu mempelajari hal baru. Berikut adalah klasifikasi keterampilan yang menjadi aset modal manusia utama:
+Di era ekonomi berbasis pengetahuan ini, modal manusia diukur dari seberapa cepat kamu mampu mempelajari hal baru. Apa yang sudah kamu ketahui tidak lagi menjadi ukurannya. Berikut adalah klasifikasi keterampilan yang menjadi aset modal manusia utama:
 
-1. **Digital Fluency (Kefasihan Digital)**: Kemampuan untuk tidak sekadar memakai perangkat komputer, melainkan memahami tata kelola data, prinsip keamanan siber, dan kolaborasi dalam ekosistem virtual.
+1. **Digital Fluency (Kefasihan Digital)**: Kemampuan memakai perangkat komputer sekaligus memahami tata kelola data, prinsip keamanan siber, dan kolaborasi dalam ekosistem virtual.
 2. **Human-Centric Skills (Soft Skills)**: Kemampuan yang sulit direplikasi oleh kecerdasan buatan, seperti kecerdasan emosional (EQ), negosiasi tingkat tinggi, kepemimpinan inspiratif, serta etika profesional.
 3. **Analytical & Systems Thinking**: Kemampuan untuk memahami hubungan sebab-akibat antarsistem yang kompleks dan memecahkan masalah nonlinier.
 
@@ -39,12 +39,12 @@ Dalam teori modal manusia klasik, investasi pendidikan terkonsentrasi pada perio
 
 Oleh karena itu, **Lifelong Learning** bertindak sebagai strategi penyesuaian modal manusia agar tetap relevan. Investasi modal manusia bertransformasi menjadi proses yang berkesinambungan:
 
-- **Upskilling**: Memperdalam atau memperbarui keterampilan yang telah dimiliki agar sejalan dengan perkembangan teknologi (contoh: akuntan yang mempelajari alur kerja AI untuk pengujian audit).
-- **Reskilling**: Mempelajari himpunan keterampilan baru untuk berpindah ke peran kerja yang berbeda (contoh: staf administrasi yang menguasai analisis data untuk beralih profesi).
+- **Upskilling**: Memperdalam atau memperbarui keterampilan yang telah dimiliki agar sejalan dengan perkembangan teknologi (misalnya akuntan yang mempelajari alur kerja AI untuk pengujian audit).
+- **Reskilling**: Mempelajari himpunan keterampilan baru untuk berpindah ke peran kerja yang berbeda (seperti staf administrasi yang menguasai analisis data untuk beralih profesi).
 
 ### 4. Produktivitas di Era Digital dalam Perspektif Teknis
 
-Secara matematis, produktivitas individu $P$ di era digital tidak hanya ditentukan oleh input jam kerja $L$, modal fisik $K$, dan stok modal manusia tradisional $H$, melainkan bergantung pada tingkat teknologi $A$ dan variabel kecepatan adaptasi keterampilan $\text{S}\_{\text{adapt}}$:
+Secara matematis, produktivitas individu $P$ di era digital ditentukan oleh input jam kerja $L$, modal fisik $K$, dan stok modal manusia tradisional $H$, dan ikut bergantung pada tingkat teknologi $A$ dan variabel kecepatan adaptasi keterampilan $\text{S}\_{\text{adapt}}$:
 
 <div>
 $$

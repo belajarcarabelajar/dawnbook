@@ -1,14 +1,14 @@
 ## Psikologi Perkembangan Dewasa Muda
 
-Pernahkah kamu merasa seperti mengendarai mobil di tengah kabut tebal tanpa peta, sementara semua orang di media sosial tampak sudah sampai di tujuan? Jika iya, kamu tidak sendirian. Apa yang kamu rasakan bukan cuma "galau" biasa; ada penjelasan ilmiah dan psikologis di baliknya.
+Pernahkah kamu merasa seperti mengendarai mobil di tengah kabut tebal tanpa peta, sementara semua orang di media sosial tampak sudah sampai di tujuan? Jika iya, kamu tidak sendirian. Rasa "galau" yang kamu alami punya penjelasan ilmiah dan psikologis di baliknya.
 
 Dalam bagian ini, kita akan membedah apa yang sebenarnya terjadi di dalam kepala dan hatimu selama rentang usia 20 hingga 30 tahun. Kita akan mengeksplorasi mengapa fase ini membingungkan, tetapi juga menentukan bagi pembentukan dirimu di masa depan.
 
 ## 1\. Mengenal 'Emerging Adulthood'
 
-Dahulu, psikologi membagi transisi hidup secara kaku: masa remaja lalu langsung masa dewasa. Namun, psikolog **Jeffrey Jensen Arnett** menyadari adanya celah besar di antaranya yang ia sebut sebagai **Emerging Adulthood**, biasanya terjadi pada usia 18 hingga 29 tahun.
+Dahulu, psikologi membagi transisi hidup secara kaku, dari masa remaja langsung ke masa dewasa. Namun, psikolog **Jeffrey Jensen Arnett** menyadari adanya celah besar di antaranya yang ia sebut sebagai **Emerging Adulthood**, biasanya terjadi pada usia 18 hingga 29 tahun.
 
-Arnett (2000) menggambarkannya sebagai masa ketika seseorang sudah bukan remaja lagi, tetapi belum sepenuhnya merasa menjadi orang dewasa.
+Arnett (2000) menggambarkannya sebagai masa ketika seseorang sudah meninggalkan masa remaja walau belum sepenuhnya merasa menjadi orang dewasa.
 
 Arnett mengidentifikasi lima fitur utama dari fase ini:
 
@@ -22,7 +22,7 @@ Apakah kamu merasa lebih sering menjawab "Iya dan Tidak" secara bersamaan ketika
 
 ## 2\. Otak yang Masih 'Dalam Perbaikan'
 
-Sering kali kita menyalahkan kurangnya motivasi atau karakter yang lemah saat menghadapi *Quarter-Life Crisis*. Padahal, ada faktor biologis yang berpengaruh: **Otak manusia belum sepenuhnya matang hingga usia pertengahan 20-an.**
+Sering kali kita menyalahkan kurangnya motivasi atau karakter yang lemah saat menghadapi *Quarter-Life Crisis*. Padahal, ada faktor biologis yang ikut berpengaruh. **Otak manusia belum sepenuhnya matang hingga usia pertengahan 20-an.**
 
 ### Prefrontal Cortex dan Amygdala
 
@@ -60,8 +60,8 @@ Ketidakpastian karier dan finansial sering kali menghambat proses ini, menciptak
 
 Kemampuan mengelola emosi (emotional regulation) berkembang pesat di fase ini. Kamu belajar bahwa:
 
-- Kegagalan bukan berarti akhir dari segalanya.
-- Perasaan tidak nyaman adalah sinyal untuk tumbuh, bukan sinyal untuk berhenti.
+- Kegagalan tidak berarti akhir dari segalanya.
+- Perasaan tidak nyaman adalah sinyal untuk tumbuh.
 - Ketidakpastian adalah bagian permanen dari kehidupan dewasa.
 
 ## 4\. Strategi Berbasis Psikologi
@@ -82,7 +82,7 @@ Kamu memiliki tiga tawaran pekerjaan atau pilihan hidup, dan kamu merasa lumpuh 
 
 ### Memutuskan Saat Emosi Sedang Tinggi
 
-Coba bayangkan cara otakmu menimbang pilihan sebagai sebuah percabangan. Selama PFC belum matang sepenuhnya, yaitu sampai sekitar pertengahan 20-an, amygdala sedang mendominasi dan emosi terasa sangat tinggi. Dalam kondisi ini, gunakan bantuan dari luar, seperti berdiskusi dengan mentor atau menulis jurnal (*journaling*), sebelum memutuskan. Kalau PFC sudah lebih matang, analisis logis tentang dampak jangka panjang dari tiap pilihan bisa berjalan lebih stabil. Pesannya sederhana: jangan membuat keputusan permanen saat kendali PFC-mu sedang lemah atau emosimu sedang tinggi.
+Coba bayangkan cara otakmu menimbang pilihan sebagai sebuah percabangan. Selama PFC belum matang sepenuhnya, yaitu sampai sekitar pertengahan 20-an, amygdala sedang mendominasi dan emosi terasa sangat tinggi. Dalam kondisi ini, gunakan bantuan dari luar, seperti berdiskusi dengan mentor atau menulis jurnal (*journaling*), sebelum memutuskan. Kalau PFC sudah lebih matang, analisis logis tentang dampak jangka panjang dari tiap pilihan bisa berjalan lebih stabil. Jadi, jangan membuat keputusan permanen saat kendali PFC-mu sedang lemah atau emosimu sedang tinggi.
 
 Kedua jalan menuju keputusan itu tampak seperti ini.
 
@@ -100,13 +100,13 @@ flowchart TD
 
 ## 5\. Mengapa Fase Ini Penting?
 
-Memahami psikologi perkembangan di balik Quarter-Life Crisis membantu kamu untuk berhenti menyalahkan diri sendiri. Kamu bukan sedang gagal; kamu sedang **berkembang**.
+Memahami psikologi perkembangan di balik Quarter-Life Crisis membantu kamu untuk berhenti menyalahkan diri sendiri. Yang sedang kamu jalani adalah proses **berkembang**.
 
 **Poin-poin Penting untuk Diingat:**
 
 - **Ketidakpastian adalah normal**: Otakmu sedang dalam tahap *fine-tuning*.
 - **Emerging Adulthood adalah kesempatan**: Ini adalah waktu paling fleksibel dalam hidupmu untuk mencoba dan gagal.
-- **Biologi bukan takdir**: Meskipun otak belum matang sempurna, kamu bisa melatihnya melalui meditasi, refleksi, dan aksi nyata.
+- **Otak bisa dilatih**: Meskipun otak belum matang sempurna, kamu bisa melatihnya melalui meditasi, refleksi, dan aksi nyata.
 
 **Penting:** Quarter-Life Crisis adalah sinyal bahwa identitas lama kamu sudah tidak cukup besar untuk menampung potensi baru kamu. Jangan hindari krisisnya, pelajari pesannya.
 

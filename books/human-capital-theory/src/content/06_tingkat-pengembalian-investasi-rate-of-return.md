@@ -1,8 +1,8 @@
 ## Tingkat Pengembalian Investasi (Rate of Return)
 
-Bayangkan kamu memiliki uang sebesar Rp100 juta. Kamu punya dua pilihan: memasukkannya ke dalam deposito bank dengan bunga 5% per tahun, atau menggunakannya untuk mengambil program sertifikasi profesional tingkat lanjut. Mana pilihan yang lebih menguntungkan?
+Bayangkan kamu memiliki uang sebesar Rp100 juta. Kamu bisa memasukkannya ke dalam deposito bank dengan bunga 5% per tahun, atau menggunakannya untuk mengambil program sertifikasi profesional tingkat lanjut. Mana pilihan yang lebih menguntungkan?
 
-Dalam **Teori Modal Manusia** (*Human Capital Theory*), pendidikan dan pelatihan tidak dipandang sebagai aktivitas konsumsi semata (seperti membeli pakaian atau makanan), melainkan sebagai **investasi**. Sama seperti investasi saham atau properti, investasi pada diri sendiri diharapkan memberikan imbal hasil atau **Rate of Return (RoR)** di masa depan. Keunikan dari modal manusia terletak pada cakupan manfaatnya: keuntungan finansial dan non-finansial tidak hanya dirasakan oleh kamu sendiri, tetapi juga oleh orang-orang di sekitar kamu.
+Dalam **Teori Modal Manusia** (*Human Capital Theory*), pendidikan dan pelatihan dipandang sebagai **investasi**, berbeda dari aktivitas konsumsi seperti membeli pakaian atau makanan. Sama seperti investasi saham atau properti, investasi pada diri sendiri diharapkan memberikan imbal hasil atau **Rate of Return (RoR)** di masa depan. Keunikan modal manusia terletak pada cakupan manfaatnya. Keuntungan finansial dan non-finansialnya ikut dirasakan oleh orang-orang di sekitar kamu.
 
 ---
 
@@ -62,7 +62,7 @@ Sebagai contoh pertimbangan finansial, jika tingkat pengembalian $r$ dari pendid
 
 ### Mengapa Masyarakat Peduli Jika Kamu Terampil?
 
-Ketika seseorang menjadi lebih terdidik dan terampil, ia tidak hanya meningkatkan taraf hidupnya sendiri, tetapi juga menciptakan dampak positif atau "efek tumpahan" (*spillover effects*) bagi lingkungan sekitarnya:
+Ketika seseorang menjadi lebih terdidik dan terampil, taraf hidupnya sendiri meningkat, dan ia ikut menciptakan dampak positif atau "efek tumpahan" (*spillover effects*) bagi lingkungan sekitarnya:
 
 1. **Peningkatan Produktivitas Nasional:** Tenaga kerja yang terlatih mendorong efisiensi industri dan daya saing ekonomi secara agregat.
 2. **Inovasi dan Penemuan:** Individu terdidik lebih berpeluang menciptakan teknologi, sistem, atau proses baru yang bermanfaat bagi publik.
@@ -121,6 +121,6 @@ Bagi pembuat kebijakan publik, analisis perbandingan antara pengembalian pribadi
 1. **Subsidi Tinggi untuk Pengembalian Sosial Tinggi:** Apabila manfaat sosial suatu pendidikan jauh melampaui manfaat pribadinya (seperti pendidikan dasar atau program literasi), pemerintah perlu memberikan subsidi besar atau menggratiskan akses pendidikan tersebut agar seluruh masyarakat berpartisipasi.
 2. **Subsidi Terbatas untuk Pengembalian Pribadi Tinggi:** Apabila manfaat pribadi sudah besar dan memberikan insentif finansial yang kuat bagi individu (seperti gelar MBA profesional atau spesialisasi tertentu), individu umumnya bersedia menanggung biayanya sendiri tanpa memerlukan subsidi besar dari negara.
 
-Sebagai pertimbangan simulasi kebijakan: Jika kamu menjabat sebagai Menteri Pendidikan, di manakah alokasi anggaran terbesar sebaiknya diarahkan? Apakah pada Pendidikan Anak Usia Dini (PAUD) yang membentuk fondasi karakter dengan pengembalian sosial tinggi (*High Social Return*), atau pada beasiswa program Doktoral dengan pengembalian pribadi tinggi (*High Private Return*)?
+Coba bayangkan kamu menjabat sebagai Menteri Pendidikan. Di manakah alokasi anggaran terbesar sebaiknya diarahkan? Apakah pada Pendidikan Anak Usia Dini (PAUD) yang membentuk fondasi karakter dengan pengembalian sosial tinggi (*High Social Return*), atau pada beasiswa program Doktoral dengan pengembalian pribadi tinggi (*High Private Return*)?
 
 > **Insight Utama:** Dalam investasi modal manusia, aset utamanya (yaitu kamu) semakin bernilai seiring dengan terus digunakannya pengalaman dan pengetahuan, sementara manfaat yang dihasilkan ikut dirasakan orang lain di luar dirimu.

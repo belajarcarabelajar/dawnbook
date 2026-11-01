@@ -38,7 +38,7 @@ Aplikasi seperti Slack, Microsoft Teams, atau WhatsApp dirancang untuk obrolan d
 ### C. Video Conference untuk Rapat Virtual
 Pertemuan video adalah pengganti terbaik untuk interaksi tatap muka langsung ketika tim bekerja secara terpisah.
 *   **Nyalakan kamera selagi memungkinkan.** Ini membantu membangun kedekatan visual. Apabila kamu harus mematikan kamera karena kendala teknis atau alasan mendesak, sampaikan permohonan maaf singkat melalui kolom chat.
-*   **Latih kontak mata virtual.** Arahkan pandangan kamu ke **lensa kamera** sesekali saat berbicara, bukan melulu menatap wajah sendiri atau wajah rekan kerja di layar. Hal ini memberi kesan bahwa kamu benar-benar sedang berbicara dengan mereka.
+*   **Latih kontak mata virtual.** Saat berbicara, sesekali alihkan pandangan dari wajahmu sendiri atau wajah rekan kerja di layar ke **lensa kamera**. Hal ini memberi kesan bahwa kamu benar-benar sedang berbicara dengan mereka.
 *   **Disiplin menggunakan tombol mute.** Jaga mikrofon tetap mati kecuali saat kamu mendapat giliran berbicara. Ini membantu meminimalkan kebisingan latar belakang yang mengganggu jalannya rapat.
 
 ## 3. Menyeimbangkan Komunikasi Sinkron dan Asinkron
@@ -70,7 +70,7 @@ Membaca pesan tersebut, Andi langsung merasa tersinggung. Di benaknya, komentar 
 1.  **Mengambil Jeda Sejenak**  
     Andi memilih tidak langsung membalas pesan saat emosinya sedang naik. Ia menyadari bahwa pesan teks tidak memiliki nada suara atau ekspresi wajah. Sangat mungkin Siska sedang terburu-buru mengetik di sela-sela rapat lain, tanpa ada maksud untuk menyerang pribadinya.
 2.  **Mengubah Medium Komunikasi**  
-    Alih-alih mendebat Siska lewat kolom komentar PR, Andi memilih mengirim pesan singkat: *"Hai Siska, saya ingin memastikan bagian mana yang perlu disesuaikan agar tidak salah langkah. Apakah kita bisa mengobrol singkat lewat panggilan suara sekitar 5 menit untuk menyelaraskan pemahaman?"*
+    Alih-alih mendebat Siska lewat kolom komentar PR, Andi memilih mengirim pesan singkat yang berbunyi *"Hai Siska, saya ingin memastikan bagian mana yang perlu disesuaikan agar tidak salah langkah. Apakah kita bisa mengobrol singkat lewat panggilan suara sekitar 5 menit untuk menyelaraskan pemahaman?"*
 3.  **Resolusi yang Konstruktif**  
     Saat mengobrol langsung, ketegangan langsung mencair. Mereka menyadari ada poin spesifikasi yang memiliki penafsiran ganda di dokumen perencanaan. Masalah selesai dengan cepat tanpa menyisakan rasa kesal.
 
@@ -94,6 +94,6 @@ Sebelum menekan tombol kirim atau menutup hari, luangkan waktu sejenak untuk mem
 
 ## Manusia Nyata di Balik Layar
 
-Etika komunikasi digital lebih dari sekadar kepatuhan pada aturan formal. Pada intinya, ini adalah bentuk nyata dari penghormatan terhadap waktu, fokus, dan energi orang lain. Kecakapan kamu untuk menyampaikan gagasan secara terstruktur dan penuh empati lewat media elektronik akan menjadi modal penting dalam perjalanan karier kamu.
+Etika komunikasi digital adalah bentuk nyata dari penghormatan terhadap waktu, fokus, dan energi orang lain. Kecakapan kamu untuk menyampaikan gagasan secara terstruktur dan penuh empati lewat media elektronik akan menjadi modal penting dalam perjalanan karier kamu.
 
 Selalu ingat bahwa di balik setiap baris kode pemrograman, kiriman email, atau baris percakapan singkat di layar, ada manusia nyata yang memiliki perasaan dan ingin dihargai.

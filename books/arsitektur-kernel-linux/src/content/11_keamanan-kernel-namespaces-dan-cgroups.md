@@ -1,8 +1,8 @@
 ## Keamanan Kernel melalui Namespaces dan Cgroups
 
-Inti teknologi containerization modern ada di dalam Kernel Linux. Jika kamu pernah bertanya-tanya bagaimana Docker atau Kubernetes dapat menjalankan ratusan aplikasi pada satu mesin tanpa saling mengganggu, jawabannya ada pada dua fitur fundamental dalam Kernel Linux: **Namespaces** dan **Control Groups (Cgroups)**.
+Inti teknologi containerization modern ada di dalam Kernel Linux. Jika kamu pernah bertanya-tanya bagaimana Docker atau Kubernetes dapat menjalankan ratusan aplikasi pada satu mesin tanpa saling mengganggu, jawabannya ada pada dua fitur fundamental dalam Kernel Linux, yaitu **Namespaces** dan **Control Groups (Cgroups)**.
 
-Dalam arsitektur kernel, keamanan bukan hanya soal enkripsi atau password, tetapi juga tentang **isolasi** dan **pembatasan**. Mari kita bedah bagaimana kernel membangun dinding virtual serta mengatur alokasi resource untuk menciptakan lingkungan yang aman dan efisien.
+Dalam arsitektur kernel, keamanan mencakup enkripsi dan password, juga **isolasi** dan **pembatasan**. Mari kita bedah bagaimana kernel membangun dinding virtual serta mengatur alokasi resource untuk menciptakan lingkungan yang aman dan efisien.
 
 ## 1. Peran Namespaces dan Cgroups
 
@@ -86,7 +86,7 @@ sudo unshare --fork --pid --mount-proc bash
 ps aux
 ```
 
-*Hasilnya: Kamu akan melihat bahwa shell tersebut memiliki PID 1, seolah-olah sistem baru saja booting.*
+*Kamu akan melihat bahwa shell tersebut memiliki PID 1, seolah-olah sistem baru saja booting.*
 
 ### Mengatur Cgroups (v2)
 
@@ -133,4 +133,4 @@ Kernel Linux terus berkembang. Saat ini, industri sedang beralih ke **Cgroups v2
 
 Perlu dicatat bahwa jika sebuah proses di dalam container berhasil mengeksploitasi kernel bug, Namespaces tidak selalu dapat melindungi host system. Oleh karena itu, keamanan kernel dirancang sebagai pertahanan berlapis, di mana Namespaces dan Cgroups bekerja bersama fitur lain seperti seccomp dan AppArmor untuk menjaga integritas sistem.
 
-Dengan memahami Namespaces dan Cgroups, kamu kini memahami fondasi dari infrastruktur cloud modern. Pemahaman ini membuatmu tidak hanya menjadi pengguna container biasa, tetapi juga seseorang yang mengerti cara kerja kernel dalam menjaga ketertiban di tengah ribuan proses yang berjalan bersamaan.
+Dengan memahami Namespaces dan Cgroups, kamu kini memahami fondasi dari infrastruktur cloud modern. Setiap kali menjalankan container, kamu kini mengerti cara kerja kernel dalam menjaga ketertiban di tengah ribuan proses yang berjalan bersamaan.

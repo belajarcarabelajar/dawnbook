@@ -1,6 +1,6 @@
 ## Metode Pembacaan dan Struktur Visual Relief Karmawibhangga
 
-Bayangkan kamu sedang berdiri di kaki Candi Borobudur. Di hadapanmu, terbentang deretan panel batu berisi cerita. Membaca relief Karmawibhangga bukan sekadar melihat gambar, melainkan mengikuti urutan perbuatan dan akibatnya.
+Bayangkan kamu sedang berdiri di kaki Candi Borobudur. Di hadapanmu, terbentang deretan panel batu berisi cerita. Membaca relief Karmawibhangga berarti mengikuti urutan perbuatan dan akibatnya.
 
 Untuk memahami pesan moral di balik 160 panel yang ada di kaki tersembunyi (*Kamadhatu*), kita memerlukan "kunci" teknis untuk membuka kode visualnya. Bab ini akan memandumu memahami struktur fisik panel dan metode pembacaan yang berakar pada tradisi pradaksina.
 
@@ -18,13 +18,13 @@ Dalam tradisi Buddhisme, sebuah monumen suci tidak dikunjungi secara acak. Ada a
 
 ### 2. Komposisi Visual Panel Sebab dan Akibat
 
-Setiap panel relief Karmawibhangga bukanlah satu adegan tunggal yang statis. Para pemahat Jawa Kuno menggunakan teknik narasi visual untuk menggambarkan hukum karma.
+Setiap panel relief Karmawibhangga menyimpan rangkaian adegan yang bergerak. Para pemahat Jawa Kuno menggunakan teknik narasi visual untuk menggambarkan hukum karma.
 
 #### Struktur Pembagian Panel
 
 Secara umum, satu panel relief sering kali dibagi menjadi dua atau tiga bagian komposisi secara horizontal untuk menunjukkan alur waktu:
 
-1. **Sisi Kiri (Sebab/Aksi):** Biasanya menggambarkan aktivitas manusia di dunia. Contoh: Seseorang yang sedang berburu, bersedekah, atau menghina orang tua.
+1. **Sisi Kiri (Sebab/Aksi):** Biasanya menggambarkan aktivitas manusia di dunia, misalnya seseorang yang sedang berburu, bersedekah, atau menghina orang tua.
 2. **Sisi Kanan (Akibat/Konsekuensi):** Menggambarkan hasil dari perbuatan di sisi kiri. Jika di kiri ia berburu, di kanan ia digambarkan menderita sakit atau berada di alam neraka.
 3. **Elemen Pemisah:** Untuk memisahkan satu adegan dengan adegan lainnya dalam satu panel, pemahat sering menggunakan pohon, pilar bangunan, atau sosok orang yang berdiri membelakangi adegan sebelumnya.
 
@@ -53,7 +53,7 @@ $$
 $$
 </div>
 
-Dalam bentuk percabangan, logika jika-maka itu dapat kamu baca sebagai panduan sederhana berikut: bila aksi manusia di sisi kiri panel berupa kebajikan, sisi kanan menunjukkan surga atau kebahagiaan; bila berupa kejahatan, sisi kanan menunjukkan neraka atau penderitaan.
+Dalam bentuk percabangan, logika jika-maka itu dapat kamu baca dengan cara sederhana. Bila aksi manusia di sisi kiri panel berupa kebajikan, sisi kanan menunjukkan surga atau kebahagiaan. Bila berupa kejahatan, sisi kanan menunjukkan neraka atau penderitaan.
 
 ```mermaid
 flowchart TD
@@ -83,4 +83,4 @@ Prinsip pembagian panel Karmawibhangga sebenarnya masih relevan dalam dunia prof
 - **Sisi Kiri (Sebab):** Gambar orang membuang sampah plastik ke sungai.
 - **Sisi Kanan (Akibat):** Gambar banjir yang merendam permukiman mereka sendiri. Ini adalah penggunaan struktur "Karmawibhangga" dalam komunikasi visual modern untuk menciptakan efek jera.
 
-> **Pesan Utama:** Struktur relief Karmawibhangga bukan dibuat untuk estetika semata. Urutan **Pradaksina** melatih kedisiplinan fisik, sementara pembagian **Sebab-Akibat** pada panel melatih cara berpikir sebab-akibat. Dengan memahami cara membacanya, kamu tidak lagi melihat batu berukir saja, tetapi membaca urutan perbuatan dan akibatnya.
+> **Pesan Utama:** Struktur relief Karmawibhangga dirancang dengan tujuan yang melampaui estetika. Urutan **Pradaksina** melatih kedisiplinan fisik, sementara pembagian **Sebab-Akibat** pada panel melatih cara berpikir sebab-akibat. Begitu kamu memahami cara membacanya, batu berukir itu berubah menjadi urutan perbuatan dan akibatnya yang bisa kamu ikuti.

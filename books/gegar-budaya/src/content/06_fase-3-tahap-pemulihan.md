@@ -2,11 +2,11 @@
 
 Setelah melewati frustrasi dan kesedihan pada **Fase Krisis**, kamu kini mulai memasuki wilayah yang lebih tenang. Jika Fase Krisis diibaratkan sebagai tersesat di tengah kabut tebal, maka **Tahap Pemulihan** adalah saat kabut tersebut mulai terangkat, dan kamu mulai melihat jalan setapak yang jelas di depan mata.
 
-Tahap ini tidak menuntutmu menjadi "penduduk lokal" dalam semalam. Ini adalah proses transisi dari rasa frustrasi menuju pemahaman. Kamu mulai memiliki kendali kembali atas hidupmu di lingkungan yang baru.
+Tahap ini adalah proses transisi dari rasa frustrasi menuju pemahaman, dan kamu boleh menjalaninya pelan-pelan tanpa harus menjadi "penduduk lokal" dalam semalam. Kamu mulai memiliki kendali kembali atas hidupmu di lingkungan yang baru.
 
 ## 1. Memahami Tahap Pemulihan
 
-Pada tahap ini, individu mulai mengembangkan rutinitas dan merasa lebih mampu menangani situasi sehari-hari. Secara psikologis, ini adalah fase **reintegrasi**. Kamu tidak lagi memandang perbedaan budaya sebagai ancaman, tetapi sebagai teka-teki yang mulai bisa kamu susun potongannya.
+Pada tahap ini, individu mulai mengembangkan rutinitas dan merasa lebih mampu menangani situasi sehari-hari. Secara psikologis, ini adalah fase **reintegrasi**. Perbedaan budaya yang dulu terasa mengancam kini tampak seperti teka-teki yang mulai bisa kamu susun potongannya.
 
 **Karakteristik Utama Fase Pemulihan:**
 
@@ -14,7 +14,7 @@ Pada tahap ini, individu mulai mengembangkan rutinitas dan merasa lebih mampu me
 - **Navigasi Sosial yang Lebih Baik:** Kamu tidak lagi merasa canggung saat mengantre, memesan makanan, atau menggunakan transportasi umum.
 - **Kembalinya Selera Humor:** Kamu mulai bisa menertawakan kesalahan-kesalahan kecil yang sebelumnya membuatmu menangis atau marah.
 
-> "Pemulihan bukan berarti hilangnya perbedaan, tetapi tumbuhnya kemampuan untuk menavigasi perbedaan tersebut tanpa stres yang melumpuhkan."
+> "Dalam pemulihan, perbedaan masih ada, sementara kemampuanmu untuk menavigasinya tanpa stres yang melumpuhkan terus tumbuh."
 
 ## 2. Analogi dan Logika Adaptasi
 
@@ -44,7 +44,7 @@ Pada fase ini, kamu mulai memahami "apa yang tidak terucap". Kamu mulai menyadar
 
 ### B. Kemajuan Linguistik dan Nuansa
 
-Bahasa tidak hanya mencakup kosakata, tetapi juga konteks. Di tahap pemulihan, otakmu mulai memproses bahasa asing dengan lebih otomatis.
+Bahasa mencakup kosakata sekaligus konteks. Di tahap pemulihan, otakmu mulai memproses bahasa asing dengan lebih otomatis.
 
 - **Dulu:** Kamu menerjemahkan setiap kata di kepala (melelahkan).
 - **Sekarang:** Kamu mulai "merasakan" makna kalimat tanpa perlu menerjemahkannya secara harfiah.
@@ -59,8 +59,8 @@ Rasa percaya diri yang sempat turun di Fase Krisis mulai pulih. Kamu merasa bang
 
 - **Bulan ke-4 (Puncak Krisis):** Andi merasa terisolasi. Dia benci betapa rumitnya sistem pembuangan sampah di apartemennya dan merasa orang Jepang sangat dingin karena tidak ada yang menyapanya di jalan.
 - **Bulan ke-7 (Masuk Fase Pemulihan):**
-  - **Kejadian:** Suatu sore, tetangga Andi memberikan beberapa buah persik. Kali ini, Andi tidak hanya membungkuk kaku, tetapi dia mampu membalas dengan percakapan singkat tentang cuaca menggunakan tata bahasa yang tepat.
-  - **Perasaan:** Andi pulang ke kamarnya dengan senyuman. Dia merasa "diterima". Dia mulai melihat sistem sampah yang rumit sebagai bentuk tanggung jawab bersama, bukan beban pribadi.
+  - **Kejadian:** Suatu sore, tetangga Andi memberikan beberapa buah persik. Dulu ia hanya bisa membungkuk kaku. Kali ini, Andi mampu membalas dengan percakapan singkat tentang cuaca menggunakan tata bahasa yang tepat.
+  - **Perasaan:** Andi pulang ke kamarnya dengan senyuman. Dia merasa "diterima". Sistem sampah yang rumit itu mulai ia lihat sebagai bentuk tanggung jawab bersama.
 
 **Penting:** Kemenangan-kemenangan kecil inilah yang membuat seseorang terus bertahan hingga mencapai tahap adaptasi penuh.
 

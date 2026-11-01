@@ -2,7 +2,7 @@
 
 Bayangkan sebuah perlombaan lari yang salah satu pesertanya memulai dari garis start yang bersih dan memakai sepatu lari mutakhir. Peserta lainnya harus memulai 100 meter di belakang dengan kaki telanjang. Dalam ekonomi, "garis start" ini adalah **Modal Manusia (Human Capital)**.
 
-Kesenjangan modal manusia bukan hanya perbedaan angka di atas kertas. Hal ini menjadi akar penyebab melebarnya jurang antara kelompok mampu dan kurang mampu, serta terkonsentrasinya kesejahteraan di wilayah tertentu saja.
+Kesenjangan modal manusia menjadi akar penyebab melebarnya jurang antara kelompok mampu dan kurang mampu, serta terkonsentrasinya kesejahteraan di wilayah tertentu saja.
 
 ## 1. Memahami Mekanisme Kesenjangan
 
@@ -27,10 +27,10 @@ Meskipun keduanya memiliki "kapasitas otak" awal yang sama, **investasi** yang m
 
 ## 2. Kualitas Pendidikan di Atas Kuantitas
 
-Masalah utama dalam kesenjangan modal manusia saat ini tidak lagi sebatas "apakah anak sekolah atau tidak", melainkan **"apa yang mereka dapatkan di sekolah"**.
+Pertanyaan "apakah anak sekolah atau tidak" kini hanya sebagian dari persoalan. Masalah utama dalam kesenjangan modal manusia saat ini adalah **"apa yang mereka dapatkan di sekolah"**.
 
 - **Disparitas Kualitas:** Siswa di sekolah elite kota besar memiliki akses ke laboratorium STEM dan guru bersertifikasi internasional, sementara siswa di pelosok belajar di bangunan yang kurang layak dengan jumlah tenaga pengajar yang terbatas.
-- **The Digital Divide (Kesenjangan Digital):** Di era ekonomi pengetahuan, penguasaan teknologi menjadi syarat penting. Ketidakmampuan mengakses perangkat digital menciptakan kelas sosial baru: mereka yang "cakap digital" dan mereka yang "terasing secara teknologi".
+- **The Digital Divide (Kesenjangan Digital):** Di era ekonomi pengetahuan, penguasaan teknologi menjadi syarat penting. Ketidakmampuan mengakses perangkat digital menciptakan kelas sosial baru yang memisahkan mereka yang "cakap digital" dari mereka yang "terasing secara teknologi".
 
 ### Representasi Matematis Ketimpangan Pendapatan
 
@@ -71,9 +71,9 @@ Dampaknya bagi wilayah asal:
 
 ## 5. Pewarisan Modal Manusia Antargenerasi
 
-Kesenjangan modal manusia cenderung bersifat turun-temurun. Orang tua yang memiliki modal manusia tinggi tidak hanya mewariskan uang, tetapi juga **Cultural Capital** (Modal Budaya).
+Kesenjangan modal manusia cenderung bersifat turun-temurun. Orang tua yang memiliki modal manusia tinggi mewariskan uang sekaligus **Cultural Capital** (Modal Budaya).
 
-Mengapa anak dari keluarga profesional cenderung menjadi profesional juga? Hal ini terjadi bukan hanya karena faktor finansial, melainkan juga karena keterpaparan terhadap kosakata kompleks, cara berpikir kritis, dan jaringan sosial (*social network*) sejak dini.
+Mengapa anak dari keluarga profesional cenderung menjadi profesional juga? Selain faktor finansial, anak-anak itu sejak dini terpapar kosakata kompleks, cara berpikir kritis, dan jaringan sosial (*social network*).
 
 > **Poin Penting:** Tanpa intervensi kebijakan yang tepat, modal manusia akan mengelompok (*cluster*) pada kelas sosial tertentu dan memperkaku struktur masyarakat, sehingga mobilitas vertikal menjadi terbatas.
 
@@ -87,7 +87,7 @@ Mengapa anak dari keluarga profesional cenderung menjadi profesional juga? Hal i
 
 ### Kawasan Industri Maju
 
-Di sebuah kota satelit dengan sistem sekolah vokasi yang terintegrasi dengan pabrik teknologi tinggi, penduduk lokal dilatih sesuai kebutuhan pasar. Hasilnya: tingkat pengangguran rendah dan pertumbuhan ekonomi merata di tingkat lokal.
+Di sebuah kota satelit dengan sistem sekolah vokasi yang terintegrasi dengan pabrik teknologi tinggi, penduduk lokal dilatih sesuai kebutuhan pasar. Hasilnya, tingkat pengangguran rendah dan pertumbuhan ekonomi merata di tingkat lokal.
 
 ### Wilayah Terisolasi
 

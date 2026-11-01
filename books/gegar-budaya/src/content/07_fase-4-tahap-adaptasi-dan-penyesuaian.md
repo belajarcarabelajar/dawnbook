@@ -2,21 +2,21 @@
 
 Setelah melewati masa sulit di tahap krisis dan mulai pulih perlahan di tahap pemulihan, kamu akhirnya sampai pada kondisi yang stabil. Kondisi itu bernama **Tahap Adaptasi dan Penyesuaian**. Jika tahap-tahap sebelumnya terasa seperti usaha untuk sekadar bertahan, fase ini adalah momen ketika kamu mulai menikmati keberadaan kamu di lingkungan yang baru.
 
-Dalam fase ini, keanehan budaya lokal tidak lagi terasa mengancam atau menjengkelkan, melainkan menjadi bagian dari rutinitas yang dapat diprediksi.
+Dalam fase ini, keanehan budaya lokal yang dulu terasa mengancam atau menjengkelkan sudah menjadi bagian dari rutinitas yang dapat diprediksi.
 
 ## Memahami "Keseimbangan Fungsional"
 
-Inti dari fase keempat ini adalah pencapaian **Keseimbangan Fungsional**. Ini tidak berarti kamu melupakan budaya asal atau menjadi warga lokal sepenuhnya, melainkan kamu telah menemukan cara untuk beroperasi secara efektif tanpa tekanan mental yang berlebihan.
+Inti dari fase keempat ini adalah pencapaian **Keseimbangan Fungsional**. Kamu telah menemukan cara untuk beroperasi secara efektif tanpa tekanan mental yang berlebihan, sambil membawa budaya asalmu dan tanpa harus menjadi warga lokal sepenuhnya.
 
 ### Mengemudi di Negara Berbeda
 
 Bayangkan kamu terbiasa menyetir di sisi kiri jalan, lalu pindah ke negara yang menyetir di sisi kanan.
 
 - **Tahap Krisis:** Kamu ketakutan, sering salah masuk jalur, dan berkali-kali hampir kecelakaan.
-- **Tahap Pemulihan:** Kamu bisa menyetir, tapi otak kamu bekerja keras. Kamu harus terus mengingatkan diri: *"Kanan, kanan, tetap di kanan."*
-- **Tahap Adaptasi:** Kamu menyetir sambil mendengarkan musik atau berbincang. Tangan dan kaki kamu bergerak secara otomatis. Kamu tidak lagi "berpikir" tentang jalurnya; kamu hanya "mengemudi".
+- **Tahap Pemulihan:** Kamu bisa menyetir, tapi otak kamu bekerja keras. Kamu harus terus mengingatkan diri dengan kalimat *"Kanan, kanan, tetap di kanan."*
+- **Tahap Adaptasi:** Kamu menyetir sambil mendengarkan musik atau berbincang. Tangan dan kaki kamu bergerak secara otomatis. Kamu cukup "mengemudi", dan jalurnya terurus dengan sendirinya.
 
-> **Insight:** Adaptasi bukanlah tentang hilangnya perbedaan, melainkan tentang hilangnya beban emosional yang menyertai perbedaan tersebut.
+> **Insight:** Dalam adaptasi, perbedaan budaya masih ada. Yang hilang adalah beban emosional yang dulu menyertainya.
 
 ## Karakteristik Utama Tahap Adaptasi
 
@@ -25,7 +25,7 @@ Pada titik ini, individu biasanya menunjukkan perubahan perilaku dan mental yang
 1. **Penerimaan terhadap Paradoks:** Kamu mulai memahami bahwa budaya lokal memiliki logika tersendiri. Kamu mungkin tetap tidak setuju dengan nilai tertentu, tetapi kamu bisa menerimanya sebagai bagian dari realitas tanpa merasa marah.
 2. **Kemampuan Navigasi Sosial:** Kamu mengerti nuansa bahasa (slang, sarkasme, atau eufemisme) dan norma tidak tertulis. Kamu tahu kapan harus tawar-menawar, kapan harus mengantre, dan bagaimana cara menyapa orang dengan tepat sesuai konteksnya.
 3. **Kembalinya Rasa Humor:** Salah satu indikator terkuat adaptasi adalah kemampuan untuk menertawakan diri sendiri atas kesalahan budaya yang pernah dibuat. Humor memerlukan pemahaman konteks yang dalam; jika kamu bisa bercanda dengan orang lokal, kamu telah beradaptasi.
-4. **Stabilitas Emosional:** Fluktuasi suasana hati yang ekstrem berkurang. Tingkat kecemasan menurun karena lingkungan baru bukan lagi sebuah "teka-teki" yang harus dipecahkan setiap hari.
+4. **Stabilitas Emosional:** Fluktuasi suasana hati yang ekstrem berkurang. Tingkat kecemasan menurun karena lingkungan baru sudah berhenti menjadi "teka-teki" yang harus dipecahkan setiap hari.
 
 ## Efisiensi Energi dalam Adaptasi
 
@@ -66,7 +66,7 @@ Banyak orang takut bahwa beradaptasi berarti kehilangan jati diri. Penting untuk
 | **Fleksibilitas** | Mampu berpindah kode (*code-switching*) antarbudaya. | Hanya menggunakan satu kode budaya. |
 | **Hasil** | Menjadi individu yang *bicultural* (dwibudaya). | Menjadi individu yang monokultural. |
 
-> **Penting:** Tahap Adaptasi dalam Gegar Budaya tidak menuntut kamu untuk "menjadi" orang lain, tetapi mendorong kamu menjadi versi diri yang lebih luas dan mampu berfungsi di berbagai spektrum budaya.
+> **Penting:** Tahap Adaptasi dalam Gegar Budaya mendorong kamu menjadi versi diri yang lebih luas dan mampu berfungsi di berbagai spektrum budaya. Kamu tidak dituntut untuk "menjadi" orang lain.
 
 ## Apakah Kamu Sudah di Sini?
 
@@ -75,6 +75,6 @@ Coba jawab pertanyaan berikut untuk mengetahui posisi kamu:
 1. Apakah kamu merasa "aman" dan "di rumah" saat kembali ke apartemen/rumah kamu di negara asing?
 2. Apakah kamu bisa menyelesaikan urusan birokrasi atau masalah teknis (seperti memperbaiki internet) tanpa merasa ingin menyerah?
 3. Apakah kamu memiliki rutinitas yang stabil dan lingkaran pertemanan yang dapat diandalkan?
-4. Apakah bahasa lokal (atau dialek lokal) mulai terdengar seperti "suara latar" dan bukan lagi "kebisingan" yang memusingkan?
+4. Apakah bahasa lokal (atau dialek lokal) yang dulu terasa seperti "kebisingan" memusingkan kini mulai terdengar seperti "suara latar"?
 
-Jika mayoritas jawaban kamu adalah **Ya**, selamat! Kamu telah berhasil melewati tantangan psikologis yang besar. Kamu bukan lagi pengunjung biasa; kamu sudah menjadi bagian dari lingkungan tersebut.
+Jika mayoritas jawaban kamu adalah **Ya**, selamat! Kamu telah berhasil melewati tantangan psikologis yang besar. Kamu sudah menjadi bagian dari lingkungan tersebut.

@@ -2,13 +2,13 @@
 
 Pernahkah kamu mengirim pesan teks yang disalahpahami sebagai kemarahan oleh temanmu, padahal kamu hanya sedang terburu-buru? Atau mungkin kamu pernah mendengarkan presentasi yang pembicaranya memiliki data yang kuat, tetapi suaranya yang monoton membuat audiens tertidur?
 
-Dalam profil **T-shaped professional**, kemampuan teknismu adalah garis vertikal yang mendalam, sedangkan **kemampuan komunikasi** adalah garis horizontal yang memungkinkan keahlian tersebut menjangkau dan memengaruhi orang lain. Komunikasi yang efektif berfokus pada cara pesan diterima dan dipahami oleh lawan bicara, tidak hanya terbatas pada kata-kata yang diucapkan.
+Dalam profil **T-shaped professional**, kemampuan teknismu adalah garis vertikal yang mendalam, sedangkan **kemampuan komunikasi** adalah garis horizontal yang memungkinkan keahlian tersebut menjangkau dan memengaruhi orang lain. Komunikasi yang efektif berfokus pada cara pesan diterima dan dipahami oleh lawan bicara.
 
 ## 1. Tiga Elemen Pesan
 
 Bayangkan komunikasi sebagai sebuah sinyal radio. Jika pemancar (kamu) mengirimkan sinyal yang lemah atau terganggu oleh *noise*, maka penerima akan mendapatkan pesan yang penuh derau dan tidak jelas.
 
-Dalam penyampaian perasaan atau sikap, Albert Mehrabian merumuskan model 7-38-55 yang membagi pesan ke dalam tiga elemen dasar: kata-kata verbal menyumbang sekitar 7%, aspek vokal seperti nada dan kecepatan bicara memiliki porsi 38%, sedangkan bahasa tubuh dan ekspresi nonverbal mendominasi hingga 55%.
+Dalam penyampaian perasaan atau sikap, Albert Mehrabian merumuskan model 7-38-55 yang membagi pesan ke dalam tiga elemen dasar. Kata-kata verbal menyumbang sekitar 7%, aspek vokal seperti nada dan kecepatan bicara memiliki porsi 38%, sedangkan bahasa tubuh dan ekspresi nonverbal mendominasi hingga 55%.
 
 > **Insight Utama:** Jika kata-katamu mengatakan "Saya senang membantu kamu," tetapi wajahmu cemberut dan nada suaramu ketus, orang akan lebih memercayai bahasa tubuhmu daripada kata-katamu. Fenomena ini disebut sebagai **inkongruensi** (*incongruence*).
 
@@ -63,7 +63,7 @@ I = V_{\text{jelas}} + P_{\text{tepat}} + B_{\text{sinkron}}
 $$
 </div>
 
-Jika salah satu bernilai negatif (misal: bahasa tubuh yang defensif), maka nilai $I$ akan turun drastis meskipun $V$ sangat kuat.
+Jika salah satu bernilai negatif (misalnya bahasa tubuh yang defensif), maka nilai $I$ akan turun drastis meskipun $V$ sangat kuat.
 
 ## 6. Skenario Profesional
 

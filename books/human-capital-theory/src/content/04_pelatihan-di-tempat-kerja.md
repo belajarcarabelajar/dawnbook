@@ -14,7 +14,7 @@ Gary Becker, ekonom peraih Hadiah Nobel, memformulasikan perbedaan mendasar inve
 
 ### 2. Pelatihan Umum (General Training)
 
-**Pelatihan Umum (*General Training*)** merujuk pada jenis pelatihan yang meningkatkan produktivitas marginal pekerja secara setara di berbagai perusahaan di pasar kerja, bukan hanya di perusahaan yang memberikan pelatihan tersebut.
+**Pelatihan Umum (*General Training*)** merujuk pada jenis pelatihan yang meningkatkan produktivitas marginal pekerja secara setara di berbagai perusahaan di pasar kerja. Manfaatnya ikut terbawa ketika pekerja pindah dari perusahaan yang memberikan pelatihan tersebut.
 
 #### Karakteristik Utama
 - **Tingkat Keteralihan Tinggi (*High Transferability*):** Keterampilan yang diperoleh dapat diterapkan dengan efisiensi sama di banyak pemberi kerja lain.

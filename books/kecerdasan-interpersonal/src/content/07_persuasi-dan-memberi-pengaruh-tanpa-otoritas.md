@@ -14,7 +14,7 @@ Aristoteles, ribuan tahun lalu, merumuskan tiga pilar persuasi yang masih releva
 - **Logos (Logika):** Kelayakan argumen yang diajukan. Apakah penjelasan tersebut masuk akal dan ditopang oleh data valid?
 - **Pathos (Emosi):** Kemampuan menyentuh nilai-nilai personal atau perasaan lawan bicara.
 
-> **Insight:** Tanpa jabatan formal, pilar **Ethos** dibangun melalui kompetensi dan karakter nyata, bukan sebatas label di kartu nama.
+> **Insight:** Tanpa jabatan formal, pilar **Ethos** dibangun melalui kompetensi dan karakter nyata.
 
 ### 2. Model Pertukaran Cohen-Bradford
 
@@ -36,7 +36,7 @@ Setiap orang di tempat kerja memiliki preferensi nilai atau "mata uang" yang ber
 Psikolog Robert Cialdini mengidentifikasi enam jalan pintas mental yang digunakan manusia dalam mengambil keputusan. Kamu dapat menerapkan ini secara etis untuk memperkuat posisimu:
 
 1. **Reciprocity (Timbal Balik):** Berikan bantuan terlebih dahulu. Orang cenderung merasa berutang budi kepada mereka yang pernah mempermudah pekerjaannya.
-2. **Scarcity (Kelangkaan):** Tunjukkan potensi kerugian jika kesempatan dilewatkan. Contohnya: "Kita akan kehilangan momentum pasar jika menunda peluncuran fitur ini."
+2. **Scarcity (Kelangkaan):** Tunjukkan potensi kerugian jika kesempatan dilewatkan, misalnya dengan berkata, "Kita akan kehilangan momentum pasar jika menunda peluncuran fitur ini."
 3. **Authority (Otoritas Pakar):** Bangun reputasi sebagai ahli di bidangmu. Orang akan bersedia mendengarkan mereka yang menguasai masalah dengan mendalam.
 4. **Consistency (Konsistensi):** Mulailah dengan meminta kesepakatan kecil terlebih dahulu. Begitu seseorang berkomitmen pada hal kecil, mereka cenderung lebih terbuka pada langkah berikutnya.
 5. **Liking (Rasa Suka):** Hubungan interpersonal yang hangat memperkuat persuasi. Temukan kesamaan minat dan sampaikan apresiasi yang tulus.
@@ -68,7 +68,7 @@ Cara kamu menyampaikan ide sering kali lebih penting daripada ide itu sendiri. G
 
 ### 6. Menanggapi Penolakan
 
-Ketika seseorang menolak idemu, jangan anggap itu sebagai titik akhir. Itu adalah awal dari ruang diskusi baru.
+Ketika seseorang menolak idemu, anggaplah penolakan itu sebagai awal dari ruang diskusi baru.
 
 > **Important:** Penolakan sering kali muncul dari rasa terancam, kesibukan yang padat, atau ketidakmampuan melihat keuntungan nyata dari ide tersebut.
 
@@ -83,7 +83,7 @@ Gunakan teknik **"Feel, Felt, Found"**:
 Sebelum mengajukan gagasan kepada orang lain, pastikan hal-hal berikut:
 
 - Hubungan baik sudah terjalin sebelumnya (*reciprocity* / *liking*).
-- Penjelasan berfokus pada manfaat bagi lawan bicara, bukan kepentingan pribadi (*framing*).
+- Penjelasan berfokus pada manfaat bagi lawan bicara (*framing*).
 - Data pendukung atau bukti sosial sudah siap saji (*logos* / *social proof*).
 - "Mata uang" yang ditawarkan sesuai dengan apa yang dihargai oleh penerima ide (*exchange model*).
 

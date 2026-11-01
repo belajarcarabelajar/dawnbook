@@ -2,7 +2,7 @@
 
 Begitu cangkul diserahkan ke bengkel Saibara, kamu harus mengurus ladang tanpanya selama tiga hari, padahal tanah di luar sana tidak ikut libur.
 
-Saibara bisa meningkatkan kelima alat utama si petani: cangkul, sabit, kapak, palu, dan penyiram tanaman. Ongkosnya lebih besar daripada angka yang ia sebutkan di meja.
+Saibara bisa meningkatkan kelima alat utama si petani, mulai dari cangkul, sabit, kapak, dan palu sampai penyiram tanaman. Ongkosnya lebih besar daripada angka yang ia sebutkan di meja.
 
 ### Harga yang Tidak Tertulis di Bengkel
 
@@ -20,11 +20,11 @@ Manfaatnya bergantung pada tempat. Di dalam tambang, cangkul setinggi apa pun ti
 
 Uang dan bijih belum cukup. Setiap alat punya meteran pengalaman yang terisi setiap kali alat itu dipakai. Peningkatan ke Copper baru terbuka setelah meteran melewati 100 persen, lalu 200, 300, dan 400 persen untuk tingkat-tingkat berikutnya.
 
-Artinya, alat yang lebih baik tidak bisa dibeli tanpa lebih dulu lama memakai alat yang ada. Membelah ranting setiap hari bukan kerja yang sia-sia, karena tanganmu sedang mengisi meteran untuk kapak yang lebih tajam.
+Artinya, alat yang lebih baik tidak bisa dibeli tanpa lebih dulu lama memakai alat yang ada. Setiap ranting yang kamu belah hari ini ikut mengisi meteran untuk kapak yang lebih tajam.
 
 ### Musim Ketika Cangkul Menganggur
 
-Pertanyaan yang lebih penting adalah kapan. Di musim dingin, penyiram, cangkul, dan sabit tidak bisa dipakai, jadi tiga hari tanpa salah satu dari ketiganya hampir tidak terasa. Penyiram layak didahulukan, sebab penyiram Mystrile membuat musim semi berikutnya jauh lebih ringan. Syaratnya cuma satu: semua alat sudah kembali dari Saibara sebelum musim tanam dimulai.
+Pertanyaan yang lebih penting adalah kapan. Di musim dingin, penyiram, cangkul, dan sabit tidak bisa dipakai, jadi tiga hari tanpa salah satu dari ketiganya hampir tidak terasa. Penyiram layak didahulukan, sebab penyiram Mystrile membuat musim semi berikutnya jauh lebih ringan. Pastikan saja semua alat sudah kembali dari Saibara sebelum musim tanam dimulai.
 
 Musim dingin juga saat yang baik untuk mengumpulkan kayu, dan kayu membawa kita ke jenis peningkatan yang kedua.
 
@@ -32,18 +32,18 @@ Musim dingin juga saat yang baik untuk mengumpulkan kayu, dan kayu membawa kita 
 
 Gotz, si tukang kayu, bisa memperbesar kandang ayam, Barn, dan rumah, masing-masing dengan uang dan kayu olahan (*lumber*). Kandang ayam dan Barn yang diperbesar menampung hewan dua kali lebih banyak, dan rumah bisa ditambah dapur serta kamar tidur. Gotz mengerjakannya satu per satu dengan urutan tetap, masing-masing tiga hari, dan perluasan rumah baru tersedia setelah kandang ayam diperbesar. Untuk kandang ayam saja ia meminta 5.000 G dan 420 potong kayu. Uangnya relatif mudah dicari lewat bertani dan menambang. Kayulah yang memakan waktu.
 
-Satu ranting hanya memberi satu potong kayu, satu tunggul enam, dan Panduan Prima memperkirakan kamu hanya sanggup mengumpulkan sekitar 45 potong sehari. Ranting dan tunggul di ladangmu sendiri hilang untuk selamanya begitu ditebang, sedangkan tunggul di luar ladang, misalnya di dekat Hot Spring, di Mother's Hill, dan di sekitar rumah Gotz, muncul lagi setiap hari di musim apa pun. Kayu juga bisa dibeli dari Gotz, tetapi jauh lebih mahal, jadi pilihannya tetap sama: bayar dengan uang, atau dengan hari-hari menebang. Kalau ditebang rutin, menurut perkiraan itu kayunya cukup untuk memperbesar dua bangunan atau lebih.
+Satu ranting hanya memberi satu potong kayu, satu tunggul enam, dan Panduan Prima memperkirakan kamu hanya sanggup mengumpulkan sekitar 45 potong sehari. Ranting dan tunggul di ladangmu sendiri hilang untuk selamanya begitu ditebang, sedangkan tunggul di luar ladang, misalnya di dekat Hot Spring, di Mother's Hill, dan di sekitar rumah Gotz, muncul lagi setiap hari di musim apa pun. Kayu juga bisa dibeli dari Gotz, tetapi jauh lebih mahal, jadi kamu tetap memilih antara membayar dengan uang atau dengan hari-hari menebang. Kalau ditebang rutin, menurut perkiraan itu kayunya cukup untuk memperbesar dua bangunan atau lebih.
 
 ### Biaya Peluang
 
-Ekonom menyebut harga tersembunyi ini biaya peluang (*opportunity cost*): nilai dari alternatif terbaik berikutnya yang kamu lepaskan ketika memutuskan sesuatu, rumusan yang dikutip [St. Louis Fed](https://www.stlouisfed.org/open-vault/2020/january/real-life-examples-opportunity-cost) dari Andrea Caceres-Santamaria (2019). Halaman itu juga memberi contoh yang kebetulan datang dari ladang. Petani yang memutuskan menanam gandum melepaskan jagung atau kedelai yang bisa ia tanam, juga cara lain memakai lahan dan peralatannya.
+Ekonom menyebut harga tersembunyi ini biaya peluang (*opportunity cost*), yakni nilai dari alternatif terbaik berikutnya yang kamu lepaskan ketika memutuskan sesuatu. Rumusan itu dikutip [St. Louis Fed](https://www.stlouisfed.org/open-vault/2020/january/real-life-examples-opportunity-cost) dari Andrea Caceres-Santamaria (2019). Halaman itu juga memberi contoh yang kebetulan datang dari ladang. Petani yang memutuskan menanam gandum melepaskan jagung atau kedelai yang bisa ia tanam, juga cara lain memakai lahan dan peralatannya.
 
-Menyerahkan cangkul ke Saibara punya pola yang sama. Yang dibayar bukan hanya uang dan bijih, tetapi juga tiga hari menggarap ladang dengan alat itu. Imbalannya datang belakangan, sebagai jangkauan yang lebih luas dan badan yang lebih jarang lelah.
+Menyerahkan cangkul ke Saibara punya pola yang sama. Yang dibayar adalah uang, bijih, dan tiga hari menggarap ladang dengan alat itu. Imbalannya datang belakangan, sebagai jangkauan yang lebih luas dan badan yang lebih jarang lelah.
 
-Kamu mungkin menghadapi tawar-menawar serupa saat mengambil kursus di akhir pekan, menyisihkan gaji untuk laptop yang lebih cepat, atau mempelajari aplikasi baru yang awalnya justru memperlambat kerja. Pertanyaannya sama dengan pertanyaan si petani: kapan kehilangan sementara itu paling murah? Musim dinginmu bisa berupa minggu yang sepi di kantor, libur semester, atau masa ketika tanggunganmu sedang ringan. Dan tidak perlu meningkatkan semuanya sekaligus. Mulailah dari satu hal yang paling sering kamu pakai.
+Kamu mungkin menghadapi tawar-menawar serupa saat mengambil kursus di akhir pekan, menyisihkan gaji untuk laptop yang lebih cepat, atau mempelajari aplikasi baru yang awalnya justru memperlambat kerja. Pertanyaanmu sama dengan pertanyaan si petani. Kapan kehilangan sementara itu paling murah? Musim dinginmu bisa berupa minggu yang sepi di kantor, libur semester, atau masa ketika tanggunganmu sedang ringan. Dan tidak perlu meningkatkan semuanya sekaligus. Mulailah dari satu hal yang paling sering kamu pakai.
 
 ### Yang Perlu Kamu Ingat
 
-Setiap peningkatan dibayar dua kali: dengan uang dan bijih di meja Saibara, lalu dengan tiga hari tanpa alat itu. Dua-duanya adalah biaya peluang, yaitu nilai pilihan terbaik yang kamu lepaskan, dan yang kedua lebih mudah terlewat. Bayarlah ketika yang dilepaskan paling sedikit, seperti musim dingin bagi cangkul dan penyiram, dan mulailah dari alat yang paling banyak menghemat kerja.
+Setiap peningkatan dibayar dua kali, pertama dengan uang dan bijih di meja Saibara, lalu dengan tiga hari tanpa alat itu. Dua-duanya adalah biaya peluang, yaitu nilai pilihan terbaik yang kamu lepaskan, dan yang kedua lebih mudah terlewat. Bayarlah ketika yang dilepaskan paling sedikit, seperti musim dingin bagi cangkul dan penyiram, dan mulailah dari alat yang paling banyak menghemat kerja.
 
-Setelah alat makin tajam dan kandang makin luas, tinggal satu pertanyaan: siapa yang akan menghuninya? Jawabannya ternyata dimulai dari ayam, bukan sapi.
+Setelah alat makin tajam dan kandang makin luas, siapa yang akan menghuninya? Jawabannya ternyata dimulai dari ayam, dan sapi menyusul kemudian.

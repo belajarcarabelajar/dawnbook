@@ -1,6 +1,6 @@
 ## Membangun Rekreasi Berkualitas Tinggi
 
-Pernahkah kamu merasa sangat lelah setelah dua jam *scrolling* di media sosial, padahal secara fisik kamu hanya duduk diam? Begitulah hiburan digital: energi mental terkuras tanpa ada pemulihan. Mengosongkan waktu dari layar hanyalah langkah awal dalam digital minimalisme. Langkah selanjutnya adalah mengisi ruang kosong itu dengan kegiatan yang benar-benar memuaskan.
+Pernahkah kamu merasa sangat lelah setelah dua jam *scrolling* di media sosial, padahal secara fisik kamu hanya duduk diam? Hiburan digital memang begitu, menguras energi mental tanpa memberi pemulihan. Mengosongkan waktu dari layar hanyalah langkah awal dalam digital minimalisme. Langkah selanjutnya adalah mengisi ruang kosong itu dengan kegiatan yang benar-benar memuaskan.
 
 ## 1. Memahami Spektrum Rekreasi
 
@@ -40,7 +40,7 @@ Jadwalkan kegiatan ini di kalender layaknya janji penting. Dengan menetapkan wak
 
 ## 5. Menerapkan Perubahan dalam Keseharian
 
-Bayangkan rutinitas sore setelah seharian bekerja. Daripada langsung merebahkan diri di sofa dan tenggelam dalam tayangan layar sampai malam, kamu bisa mencoba pola baru. 
+Bayangkan rutinitas sore setelah seharian bekerja, saat sofa dan tayangan layar biasanya menahanmu sampai malam. Sore ini kamu bisa mencoba pola baru.
 
 Tinggalkan ponsel di laci saat baru sampai rumah, lalu beralih merawat tanaman di halaman selama beberapa puluh menit. Setelah itu, kamu bisa menyiapkan makan malam berbekal buku resep fisik. Tubuhmu akan bergerak, ada makanan nyata yang tersaji, dan pikiran lebih jernih karena berhasil melepas penat lewat interaksi langsung dengan dunia nyata.
 

@@ -1,6 +1,6 @@
 ## Digital Minimalisme dalam Lingkungan Kerja
 
-Di dunia kerja modern, kita sering terjebak dalam ilusi produktivitas. Kita merasa sibuk karena membalas ratusan pesan Slack, memeriksa email setiap lima menit, dan menghadiri rapat virtual berturut-turut. Namun, di akhir hari, kita sering bertanya: *"Apa yang sebenarnya sudah saya selesaikan hari ini?"*
+Di dunia kerja modern, kita sering terjebak dalam ilusi produktivitas. Kita merasa sibuk karena membalas ratusan pesan Slack, memeriksa email setiap lima menit, dan menghadiri rapat virtual berturut-turut. Namun, di akhir hari, kita sering bertanya pada diri sendiri, *"Apa yang sebenarnya sudah saya selesaikan hari ini?"*
 
 Digital minimalisme di tempat kerja mengajarkan kita untuk mengabaikan ilusi kesibukan dan mulai **menggunakan teknologi secara intensional** demi menghasilkan karya yang bermakna.
 
@@ -28,13 +28,13 @@ Gangguan digital adalah "biaya tersembunyi" dalam pekerjaan. Setiap kali kamu be
 
 ### Strategi Praktis Mengurangi Gangguan
 
-Untuk meminimalkan gangguan, mulailah dengan mengatur jadwal otomatis pada sistem operasi atau aplikasi kerja agar masuk ke mode *Do Not Disturb* pada jam-jam sibuk. Daripada membalas pesan secara langsung saat masuk, tetapkan jendela waktu tertentu, misalnya pagi, siang, dan sore, khusus untuk memproses email dan obrolan. Di luar urusan komunikasi, pastikan juga desktop kamu bersih dari tab peramban yang berserakan. Lingkungan digital yang berantakan sama melelahkannya dengan meja fisik yang penuh tumpukan kertas.
+Untuk meminimalkan gangguan, mulailah dengan mengatur jadwal otomatis pada sistem operasi atau aplikasi kerja agar masuk ke mode *Do Not Disturb* pada jam-jam sibuk. Tetapkan juga jendela waktu tertentu, misalnya pagi, siang, dan sore, khusus untuk memproses email dan obrolan. Di luar urusan komunikasi, pastikan juga desktop kamu bersih dari tab peramban yang berserakan. Lingkungan digital yang berantakan sama melelahkannya dengan meja fisik yang penuh tumpukan kertas.
 
 *Audit Ruang Kerja Digital: Berapa banyak tab peramban web yang terbuka di layar perangkat saat ini? Berapa banyak di antaranya yang benar-benar relevan dengan tugas yang sedang dikerjakan?*
 
 ## 3\. Teknologi yang Mempercepat Tugas Repetitif
 
-Digital minimalis tidak antiteknologi. Mereka justru memanfaatkan alat bantu digital untuk mempercepat tugas-tugas repetitif sehingga tersisa lebih banyak waktu untuk *Deep Work*.
+Digital minimalis memanfaatkan alat bantu digital untuk mempercepat tugas-tugas repetitif sehingga tersisa lebih banyak waktu untuk *Deep Work*.
 
 ### Otomatisasi untuk Efisiensi
 
@@ -66,4 +66,4 @@ Perubahan tersebut meningkatkan kecepatan pengembangan secara nyata, karena para
 
 ## Kualitas di Atas Kuantitas
 
-Otak manusia pada dasarnya tidak dirancang untuk berpindah-pindah tugas secara konstan. Praktik *Deep Work* yang diimbangi dengan pembatasan gangguan serta otomatisasi tugas-tugas sepele akan membawa keseimbangan antara penyelesaian pekerjaan dan ketenangan mental. Di tengah lingkungan kerja yang penuh distraksi, kemampuan memusatkan perhatian utuh menjadi keunggulan tersendiri. Fokus bukan lagi sekadar cara kerja biasa, melainkan keahlian utama di tempat kerja.
+Otak manusia pada dasarnya tidak dirancang untuk berpindah-pindah tugas secara konstan. Praktik *Deep Work* yang diimbangi dengan pembatasan gangguan serta otomatisasi tugas-tugas sepele akan membawa keseimbangan antara penyelesaian pekerjaan dan ketenangan mental. Di tengah lingkungan kerja yang penuh distraksi, kemampuan memusatkan perhatian utuh menjadi keunggulan tersendiri. Fokus telah menjadi keahlian utama di tempat kerja.

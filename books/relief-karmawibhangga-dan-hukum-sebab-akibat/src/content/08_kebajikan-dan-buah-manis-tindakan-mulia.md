@@ -8,7 +8,7 @@ Di kaki tersembunyi Borobudur, terdapat panel-panel yang secara visual kontras d
 
 Untuk memahami panel-panel ini, bayangkan hukum sebab-akibat sebagai pertanian. Setiap tindakan kita adalah benih yang ditanam.
 
-> **Analogi:** Jika kemarahan adalah benih berduri yang melukai penanamnya, maka kebajikan adalah benih pohon buah yang rimbun. Kita tidak hanya menikmati buahnya yang manis, tetapi juga keteduhan di bawah naungannya.
+> **Analogi:** Jika kemarahan adalah benih berduri yang melukai penanamnya, maka kebajikan adalah benih pohon buah yang rimbun. Kita menikmati buahnya yang manis sekaligus keteduhan di bawah naungannya.
 
 Dalam bahasa matematika moralitas, kita dapat melihatnya sebagai sebuah fungsi linear:
 
@@ -72,15 +72,15 @@ Bayangkan sebuah panel relief yang menceritakan tentang **Dharma**, seorang peta
 
 > Dalam satu adegan, Dharma melihat seorang musafir yang kehausan. Alih-alih mengabaikannya, ia memberikan satu-satunya kendi air yang ia miliki. Di panel berikutnya, digambarkan musim kemarau melanda desa tersebut, tetapi ladang milik Dharma tetap mendapatkan aliran air yang cukup karena penduduk lain membantunya sebagai rasa terima kasih atas kebaikannya selama ini.
 
-Ini mengilustrasikan bahwa karma bukan hanya tentang "kehidupan nanti", tetapi juga tentang bagaimana perbuatan baik kita menciptakan lingkungan yang suportif bagi diri kita sendiri di masa kini.
+Kisah ini mengilustrasikan bahwa karma menyangkut "kehidupan nanti" dan juga masa kini, ketika perbuatan baik kita menciptakan lingkungan yang suportif bagi diri kita sendiri.
 
 ## Kebahagiaan sebagai Hasil Alami
 
-Pesan utama dari bagian relief ini adalah bahwa kebahagiaan bukanlah keberuntungan atau kebetulan. Kebahagiaan adalah **konsekuensi logis** dari tindakan yang didasari oleh cinta kasih dan kebijaksanaan.
+Pesan utama dari bagian relief ini adalah bahwa kebahagiaan merupakan **konsekuensi logis** dari tindakan yang didasari oleh cinta kasih dan kebijaksanaan.
 
 **Poin Penting:**
 
-- **Kebajikan bukan beban**, melainkan jalan menuju kedamaian diri sendiri.
+- **Kebajikan adalah jalan** menuju kedamaian diri sendiri.
 - **Kualitas niat** menentukan manisnya buah karma. Memberi dengan sombong memiliki hasil yang berbeda dengan memberi dengan rendah hati.
 - **Setiap tindakan kecil berharga**, sebagaimana setetes air yang lama-kelamaan memenuhi tempayan.
 
@@ -90,4 +90,4 @@ $$
 $$
 </div>
 
-> **Insight:** Relief ini tidak mengajak kita untuk berbuat baik demi "hadiah", melainkan menyadarkan kita bahwa tatanan alam semesta bekerja secara adil. Saat kita selaras dengan kebajikan, kita selaras dengan kebahagiaan itu sendiri.
+> **Insight:** Relief ini menyadarkan kita bahwa tatanan alam semesta bekerja secara adil, jadi kebaikan tidak perlu dikejar demi "hadiah". Saat kita selaras dengan kebajikan, kita selaras dengan kebahagiaan itu sendiri.
