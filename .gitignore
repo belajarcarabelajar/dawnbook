@@ -8,7 +8,10 @@ node_modules/
 # ==========================================
 output/
 .build-tmp/
+.build-tmp-pdf/
 books/.build-tmp/
+# Premium images moved out of output/ by the build, uploaded to R2 on deploy (GEMINI.md section 30)
+.premium-media/
 dist/
 dist-ssr/
 book/

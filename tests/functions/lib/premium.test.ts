@@ -8,6 +8,7 @@ import {
   contentGateExemptSlugs,
   isPremiumPublicPage,
   loadPremiumRegistry,
+  premiumMediaKey,
   premiumSlugOf,
   premiumSlugs,
   setPremiumRegistryForTest,
@@ -208,6 +209,47 @@ describe("isPremiumPublicPage hardening", () => {
   ];
   for (const p of publicThemeAssets) {
     test(`hardening: mdBook theme asset stays public: ${p}`, () => expect(isPremiumPublicPage(p)).toBe(true));
+  }
+});
+
+describe("premiumMediaKey", () => {
+  const keyed: [string, string][] = [
+    ["/books/buku-a/images/peta.png", "books/buku-a/images/peta.png"],
+    ["/books/buku-a/images/public/sampul.png", "books/buku-a/images/public/sampul.png"],
+    ["/books/buku-a/images/bab-2/alur.svg", "books/buku-a/images/bab-2/alur.svg"],
+    ["/books/buku-a/images/Gambar%201.png", "books/buku-a/images/Gambar 1.png"],
+    ["/books/buku%2Da/images/peta.png", "books/buku-a/images/peta.png"],
+    ["//books/buku-a//images//peta.png", "books/buku-a/images/peta.png"],
+  ];
+  for (const [path, key] of keyed) {
+    test(`media key: ${path} is ${key}`, () => expect(premiumMediaKey(path)).toBe(key));
+  }
+
+  const refused = [
+    "",
+    "/books/buku-b/images/peta.png",
+    "/books/buku-a/content/02_x.html",
+    "/books/buku-a/peta.png",
+    "/books/buku-a/images",
+    "/books/buku-a/images/",
+    "/books/buku-a/images/bab-2/",
+    "/books/buku-a/images/./peta.png",
+    "/books/buku-a/images/../content/02_x.html",
+    "/books/buku-a/images/public/../peta.png",
+    "/books/buku-a/images/a%00.png",
+    "/books/buku-a/images/a%0Ab.png",
+    "/books/buku-a/images/a%7F.png",
+    "/books/buku-a/images/a%2Fb.png",
+    "/books/buku-a/images/a%2fb.png",
+    "/books/buku-a/images%2Fpeta.png",
+    "/books/buku-a/images/public%2F..%2Fpeta.png",
+    "/books/buku-a/images/a%5Cb.png",
+    "/books/buku-a/images/a\\b.png",
+    "/books/buku-a/images/%2573ecret.png",
+    "/books/buku-a/images/%E0%A4%A",
+  ];
+  for (const path of refused) {
+    test(`no media key: ${JSON.stringify(path)}`, () => expect(premiumMediaKey(path)).toBeNull());
   }
 });
 

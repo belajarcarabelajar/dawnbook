@@ -11,6 +11,8 @@ import { runVoiceGate } from "./check-voice";
 import { runStructureGate } from "./check-book-structure";
 import { renderOgCards } from "./render-og-cards";
 import { syncPremiumBooksForRepo } from "./premium-sync";
+import { PREMIUM_MEDIA_DIR, stagePremiumMedia } from "./premium/move-media";
+import { premiumSlugs } from "../functions/lib/premium";
 
 async function build() {
   await loadEnv();
@@ -59,6 +61,11 @@ async function build() {
   await mkdir(outputBooksDir, { recursive: true });
 
   const builtBooks = await buildAllBooks(booksDir, outputBooksDir);
+
+  // Premium images are served from R2 after the access check (GEMINI.md section 30), so the
+  // Pages output must not carry them; deploy-website.sh uploads the staging folder.
+  const media = stagePremiumMedia({ outputDir, stagingDir: join(rootDir, PREMIUM_MEDIA_DIR), slugs: premiumSlugs() });
+  console.log(`Staged premium images in ${PREMIUM_MEDIA_DIR}/: ${media.moved.join(", ") || "none"}`);
 
   console.log("Computing build-time stats (chapters, contributors)...");
   const builtStats = await writeBuiltStats(rootDir);

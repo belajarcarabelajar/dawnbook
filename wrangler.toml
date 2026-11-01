@@ -12,3 +12,8 @@ migrations_dir = "db/migrations"
 binding = "LMS_DB"
 database_name = "bcbacademy-lms"
 database_id = "c080046a-72d6-4533-98bc-acedcf7b7ea3"
+
+# Premium book images, served only through the premium check in functions/_middleware.ts.
+[[r2_buckets]]
+binding = "PREMIUM_MEDIA"
+bucket_name = "dawnbook-premium-media"

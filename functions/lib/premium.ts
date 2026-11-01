@@ -87,6 +87,28 @@ export function isPremiumPublicPage(pathname: string): boolean {
   return dot > 0 && ASSET_EXTENSIONS.has(base.slice(dot));
 }
 
+const MEDIA_DIR = "images/";
+
+/**
+ * The R2 key (`books/<slug>/images/<name>`) of a premium book image, or null.
+ * The path is decoded once and its slashes collapsed, as in the checks above.
+ * An encoded slash or backslash, a backslash, a leftover escape, an empty name,
+ * a dot segment or a control character gives null, so such a path never
+ * reaches the bucket.
+ */
+export function premiumMediaKey(pathname: string): string | null {
+  if (/%(?:2f|5c)/i.test(pathname)) return null;
+  const decoded = tryDecode(pathname);
+  if (decoded === null || hasEncodedEscape(decoded) || decoded.includes("\\") || /[\x00-\x1f\x7f]/.test(decoded)) return null;
+  const m = BOOK_PATH.exec(canonicalPath(decoded));
+  if (!m || !Object.hasOwn(loadPremiumRegistry(), m[1])) return null;
+  const rest = m[2] ?? "";
+  if (!rest.startsWith(MEDIA_DIR)) return null;
+  const name = rest.slice(MEDIA_DIR.length);
+  if (name.split("/").some((s) => s === "" || s === "." || s === "..")) return null;
+  return `books/${m[1]}/${rest}`;
+}
+
 export async function checkPremiumAccess(
   lms: D1Database | undefined,
   email: string,

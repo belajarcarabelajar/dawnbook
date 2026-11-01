@@ -25,15 +25,18 @@ import {
   checkPremiumAccess,
   isPremiumPublicPage,
   loadPremiumRegistry,
+  premiumMediaKey,
   premiumSlugOf,
   type PremiumEntry,
 } from "./lib/premium";
-import type { D1Database } from "@cloudflare/workers-types";
+import type { D1Database, R2Bucket } from "@cloudflare/workers-types";
 
 interface Env extends AuthEnv {
   // GOOGLE_CLIENT_ID, GOOGLE_CLIENT_SECRET, DB inherited from AuthEnv.
   // Store database owned by the bcb repo; read with SELECT only.
   LMS_DB?: D1Database;
+  // Premium book images (bucket dawnbook-premium-media), read only through the premium check.
+  PREMIUM_MEDIA?: R2Bucket;
 }
 
 const BUNDLE_URL = "https://belajarcarabelajar.com/product/bundle-ebook-bcb";
@@ -119,6 +122,47 @@ function premiumUnavailable(request: Request): Response {
     "Sedang ada gangguan",
     `<p>Sedang ada gangguan, coba lagi beberapa saat lagi.</p><p><a href="/">Kembali ke Dawnbook</a></p>`,
   );
+}
+
+// The `/books/*` rule of _headers (GEMINI.md section 3), which Pages applies
+// only to static files, never to a response built here.
+const ZERO_CACHE = "no-store, no-cache, must-revalidate, proxy-revalidate, max-age=0";
+
+const MEDIA_TYPES = new Map([
+  [".png", "image/png"],
+  [".jpg", "image/jpeg"],
+  [".jpeg", "image/jpeg"],
+  [".gif", "image/gif"],
+  [".webp", "image/webp"],
+  [".avif", "image/avif"],
+  [".svg", "image/svg+xml"],
+]);
+
+function mediaContentType(key: string): string {
+  const dot = key.lastIndexOf(".");
+  const ext = dot > key.lastIndexOf("/") ? key.slice(dot).toLowerCase() : "";
+  return MEDIA_TYPES.get(ext) ?? "application/octet-stream";
+}
+
+/** Answers a premium image from R2; the caller has already run the access check for a gated one. */
+async function premiumMedia(
+  request: Request,
+  bucket: R2Bucket | undefined,
+  key: string,
+  gated: boolean,
+): Promise<Response> {
+  if (!bucket) return premiumUnavailable(request);
+  const object = await bucket.get(key);
+  if (!object) return jsonError(404, "Not Found");
+  // The imported R2 type carries the package's own ReadableStream, which the
+  // root tsconfig (Bun globals, see lib/pages-function.ts) does not accept.
+  const body = object.body as unknown as ReadableStream;
+  const response = new Response(body, {
+    headers: { "Content-Type": object.httpMetadata?.contentType || mediaContentType(key) },
+  });
+  if (gated) return applyGatedCacheHeaders(response);
+  response.headers.set("Cache-Control", ZERO_CACHE);
+  return response;
 }
 
 /**
@@ -228,7 +272,12 @@ const gatingMiddleware: PagesFunction<Env> = async (context) => {
     // --- Premium e-books: purchase check, never a crawler bypass ---
     const premiumSlug = premiumSlugOf(pathname);
     if (premiumSlug !== null) {
+      // Premium images live in R2, not in the Pages output.
+      const mediaKey = premiumMediaKey(pathname);
       if (isPremiumPublicPage(pathname)) {
+        if (mediaKey !== null) {
+          return applySecurityHeaders(await premiumMedia(request, env.PREMIUM_MEDIA, mediaKey, false));
+        }
         const response = await nextWithLocale();
         const newResponse = new Response(response.body, response);
         newResponse.headers.append("Vary", "User-Agent");
@@ -250,6 +299,9 @@ const gatingMiddleware: PagesFunction<Env> = async (context) => {
       const entry = loadPremiumRegistry()[premiumSlug];
       const access = await checkPremiumAccess(env.LMS_DB, session.email, entry);
       if (access === "allowed") {
+        if (mediaKey !== null) {
+          return applySecurityHeaders(await premiumMedia(request, env.PREMIUM_MEDIA, mediaKey, true));
+        }
         const response = await nextWithLocale();
         return applySecurityHeaders(applyGatedCacheHeaders(response));
       }
