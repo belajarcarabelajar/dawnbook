@@ -1,5 +1,7 @@
 import { afterEach, beforeEach, describe, expect, test } from "bun:test";
 import type { D1Database } from "@cloudflare/workers-types";
+import { readFileSync } from "node:fs";
+import { join } from "node:path";
 import {
   checkPremiumAccess,
   isPremiumPublicPage,
@@ -68,10 +70,12 @@ describe("registry", () => {
     expect(premiumSlugs()).toEqual(["buku-a"]);
   });
 
-  test("null restores the bundled registry, which starts empty", () => {
+  test("null restores the bundled registry from data/premium-books.json", () => {
+    setPremiumRegistryForTest({ "buku-a": { products: ["P-A"], productUrl: "https://x/a" } });
     setPremiumRegistryForTest(null);
-    expect(loadPremiumRegistry()).toEqual({});
-    expect(premiumSlugs()).toEqual([]);
+    const bundled = JSON.parse(readFileSync(join(import.meta.dir, "../../../data/premium-books.json"), "utf-8")).books;
+    expect(loadPremiumRegistry()).toEqual(bundled);
+    expect(premiumSlugs().sort()).toEqual(Object.keys(bundled).sort());
   });
 });
 
