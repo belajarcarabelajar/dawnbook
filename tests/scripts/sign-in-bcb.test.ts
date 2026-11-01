@@ -6,7 +6,9 @@ import { generateSitePages } from "../../scripts/builder/template-engine";
 
 const ROOT = join(import.meta.dir, "../..");
 const SCRATCH = join(homedir(), ".cache/tmp/dawnbook-scratch/sign-in-test");
-const SSO_BASE = "https://belajarcarabelajar.com/masuk-dawnbook?next=";
+// Same-origin start endpoint; it forwards to the store, so the page itself
+// never links off-site.
+const SSO_BASE = "/api/auth/bcb/start?next=";
 const ORIGIN = "https://dawnbook.belajarcarabelajar.com";
 
 let outDir = "";
@@ -60,6 +62,12 @@ describe("sign-in page: belajarcarabelajar.com account button", () => {
     expect(html).toContain("Sign in with your belajarcarabelajar.com account");
     expect(html).toContain("Pakai ini kalau email pembelianmu bukan akun Google.");
     expect(html).toContain("Use this if your purchase email is not a Google account.");
+  });
+
+  test("the page links only to the same-origin start endpoint, never to the store directly", () => {
+    expect(html).not.toContain("masuk-dawnbook");
+    const hrefs = [...html.matchAll(/id="bcb-signin-btn" href="([^"]*)"/g)].map((m) => m[1]);
+    expect(hrefs).toEqual(["/api/auth/bcb/start?next=%2F"]);
   });
 
   test("the page computes the href from redirect_url through the helper", () => {

@@ -488,7 +488,7 @@ ${gaTag}    <meta charset="UTF-8">
 ${turnstileScript}    <div class="content-panel" style="text-align: center; margin: 0 auto; max-width: 450px; padding: var(--spacing-xl);">
         <h2 style="color: var(--color-primary); margin-bottom: var(--spacing-md)" data-i18n="signin.title">Sign In to Continue Reading</h2>
         <p style="margin-bottom: var(--spacing-lg)" data-i18n="signin.body">Create a free account or sign in to access the full book content.</p>
-${turnstileWidget}        <a id="google-signin-btn" href="#" style="display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.5rem; background: #fff; color: #1f1f1f; border: 1px solid #dadce0; border-radius: 4px; text-decoration: none; font-weight: 500; font-family: inherit; cursor: pointer;">
+${turnstileWidget}        <a id="google-signin-btn" data-google-auth href="#" style="display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.5rem; background: #fff; color: #1f1f1f; border: 1px solid #dadce0; border-radius: 4px; text-decoration: none; font-weight: 500; font-family: inherit; cursor: pointer;">
             <svg width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
                 <path d="M17.64 9.2c0-.64-.06-1.25-.16-1.84H9v3.48h4.84a4.14 4.14 0 0 1-1.8 2.72v2.26h2.92c1.7-1.57 2.68-3.88 2.68-6.62z" fill="#4285F4"/>
                 <path d="M9 18c2.43 0 4.47-.81 5.96-2.18l-2.92-2.26c-.81.54-1.84.86-3.04.86-2.34 0-4.32-1.58-5.02-3.7H.96v2.32A9 9 0 0 0 9 18z" fill="#34A853"/>
@@ -498,7 +498,7 @@ ${turnstileWidget}        <a id="google-signin-btn" href="#" style="display: inl
             <span data-i18n="signin.cta">Sign in with Google</span>
         </a>
         <div style="margin-top: var(--spacing-md);">
-            <a id="bcb-signin-btn" href="https://belajarcarabelajar.com/masuk-dawnbook?next=%2F" style="display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.5rem; background: #fff; color: #1f1f1f; border: 1px solid #dadce0; border-radius: 4px; text-decoration: none; font-weight: 500; font-family: inherit; cursor: pointer;">
+            <a id="bcb-signin-btn" href="/api/auth/bcb/start?next=%2F" style="display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.5rem; background: #fff; color: #1f1f1f; border: 1px solid #dadce0; border-radius: 4px; text-decoration: none; font-weight: 500; font-family: inherit; cursor: pointer;">
                 <span data-i18n="signin.bcb.cta">Sign in with your belajarcarabelajar.com account</span>
             </a>
             <p style="font-size: 0.875rem; opacity: 0.7; margin-top: var(--spacing-sm);" data-i18n="signin.bcb.hint">Use this if your purchase email is not a Google account.</p>
@@ -516,13 +516,15 @@ ${turnstileWidget}        <a id="google-signin-btn" href="#" style="display: inl
             next = u.pathname + u.search;
           }
         } catch (e) {}
-        return 'https://belajarcarabelajar.com/masuk-dawnbook?next=' + encodeURIComponent(next);
+        return '/api/auth/bcb/start?next=' + encodeURIComponent(next);
       }
       (function() {
         var params = new URLSearchParams(window.location.search);
         var redirectUrl = params.get('redirect_url') || '/';
         var err = params.get('error');
-        var btn = document.getElementById('google-signin-btn');
+        /* The sign-up page is the sign-in page with the button id renamed, so look
+           the button up by a marker both pages keep. */
+        var btn = document.querySelector('[data-google-auth]');
         var errEl = document.getElementById('signin-error');
         var bcbBtn = document.getElementById('bcb-signin-btn');
 

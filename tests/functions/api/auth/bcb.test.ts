@@ -53,14 +53,30 @@ async function tokenFor(opts: { secret?: string; exp?: number; nonce?: string } 
   );
 }
 
-function ssoRequest(token: string, next?: string, method = "GET"): Request {
+// 43 base64url characters, the shape /api/auth/bcb/start issues.
+const STATE = "S".repeat(21) + "-_" + "t".repeat(20);
+const OTHER_STATE = "O".repeat(43);
+const CLEAR_STATE = "__Host-bcb_sso_state=; Path=/; Max-Age=0; HttpOnly; Secure; SameSite=Lax";
+
+function ssoRequest(
+  token: string,
+  next?: string,
+  method = "GET",
+  state: { cookie?: string | null; s?: string | null; cookieName?: string } = {},
+): Request {
+  const cookie = state.cookie === undefined ? STATE : state.cookie;
+  const s = state.s === undefined ? STATE : state.s;
   const url = new URL("https://example.com/api/auth/bcb");
   url.searchParams.set("t", token);
   if (next !== undefined) url.searchParams.set("next", next);
-  return new Request(url, {
-    method,
-    headers: { "CF-Connecting-IP": "203.0.113.9", "User-Agent": "uji-agen" },
-  });
+  if (s !== null) url.searchParams.set("s", s);
+  const headers: Record<string, string> = { "CF-Connecting-IP": "203.0.113.9", "User-Agent": "uji-agen" };
+  if (cookie !== null) headers.Cookie = `dawnbook_lang=id; ${state.cookieName ?? "__Host-bcb_sso_state"}=${cookie}`;
+  return new Request(url, { method, headers });
+}
+
+function setCookies(res: Response): string[] {
+  return res.headers.getSetCookie();
 }
 
 function users(sqlite: Database) {
@@ -110,9 +126,10 @@ describe("/api/auth/bcb store hand-off", () => {
     ]);
     const sid = sessionCookie(res);
     expect(sid).not.toBeNull();
-    expect(res.headers.get("Set-Cookie")).toBe(
+    expect(setCookies(res)).toEqual([
       `session_id=${sid}; Path=/; Max-Age=2592000; HttpOnly; Secure; SameSite=Lax`,
-    );
+      CLEAR_STATE,
+    ]);
     const sess = sessions(sqlite);
     expect(sess).toHaveLength(1);
     expect(sess[0]).toMatchObject({ id: sid, user_id: rows[0].id, user_agent: "uji-agen", ip: "203.0.113.9" });
@@ -201,7 +218,9 @@ describe("/api/auth/bcb store hand-off", () => {
   test("next=%2F%09%2Fevil.com (encoded tab) keeps the Location on the request origin", async () => {
     const { db } = createSqliteD1();
     const token = await tokenFor();
-    const req = new Request(`https://example.com/api/auth/bcb?t=${token}&next=%2F%09%2Fevil.com`);
+    const req = new Request(`https://example.com/api/auth/bcb?t=${token}&next=%2F%09%2Fevil.com&s=${STATE}`, {
+      headers: { Cookie: `__Host-bcb_sso_state=${STATE}` },
+    });
     const res = await handleBcbSso(req, { DB: db, BCB_SSO_SECRET: fixture.secret } as any, NOW);
     expect(res.status).toBe(302);
     expect(new URL(res.headers.get("Location")!).origin).toBe("https://example.com");
@@ -241,6 +260,60 @@ describe("/api/auth/bcb store hand-off", () => {
       expect(res.headers.get("Cache-Control")).toBe("no-store");
     });
   }
+
+  for (const [name, state] of [
+    ["no state cookie", { cookie: null }],
+    ["no s parameter", { s: null }],
+    ["neither cookie nor s", { cookie: null, s: null }],
+    ["cookie and s that differ", { s: OTHER_STATE }],
+    ["malformed s equal to the cookie", { cookie: "pendek", s: "pendek" }],
+    ["s with a character outside base64url", { cookie: STATE.slice(0, 42) + "=", s: STATE.slice(0, 42) + "=" }],
+    // A sibling subdomain can set an unprefixed Domain cookie; only the __Host- one counts.
+    ["only the old unprefixed cookie name", { cookieName: "bcb_sso_state" }],
+  ] as const) {
+    test(`valid token with ${name} is refused before the nonce is burned`, async () => {
+      const { sqlite, db } = createSqliteD1();
+      const res = await handleBcbSso(
+        ssoRequest(await tokenFor(), "/premium/buku/bab-1", "GET", state),
+        { DB: db, BCB_SSO_SECRET: fixture.secret } as any,
+        NOW,
+      );
+      expect(res.status).toBe(302);
+      expect(errorCode(res)).toBe("sso_invalid");
+      expect(res.headers.get("Cache-Control")).toBe("no-store");
+      expect(setCookies(res)).toEqual([CLEAR_STATE]);
+      expect(users(sqlite)).toEqual([]);
+      expect(sessions(sqlite)).toEqual([]);
+      expect(sqlite.query("SELECT key FROM rate_limits").all()).toEqual([]);
+    });
+  }
+
+  test("a token refused for a missing state still works with the matching state afterwards", async () => {
+    const { sqlite, db } = createSqliteD1();
+    const env = { DB: db, BCB_SSO_SECRET: fixture.secret } as any;
+    const token = await tokenFor();
+    const refused = await handleBcbSso(ssoRequest(token, "/", "GET", { cookie: null }), env, NOW);
+    expect(errorCode(refused)).toBe("sso_invalid");
+    const accepted = await handleBcbSso(ssoRequest(token, "/"), env, NOW);
+    expect(sessionCookie(accepted)).not.toBeNull();
+    expect(sessions(sqlite)).toHaveLength(1);
+  });
+
+  test("the state cookie is cleared on token, secret and method failures", async () => {
+    const { db } = createSqliteD1();
+    const expired = await handleBcbSso(
+      ssoRequest(await tokenFor({ exp: NOW })),
+      { DB: db, BCB_SSO_SECRET: fixture.secret } as any,
+      NOW,
+    );
+    const noSecret = await handleBcbSso(ssoRequest(await tokenFor()), { DB: db } as any, NOW);
+    const post = await handleBcbSso(
+      ssoRequest(await tokenFor(), "/", "POST"),
+      { DB: db, BCB_SSO_SECRET: fixture.secret } as any,
+      NOW,
+    );
+    for (const res of [expired, noSecret, post]) expect(setCookies(res)).toEqual([CLEAR_STATE]);
+  });
 
   test("POST is refused with 405 and no-store", async () => {
     const { sqlite, db } = createSqliteD1();
