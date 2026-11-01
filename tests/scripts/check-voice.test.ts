@@ -2,6 +2,7 @@ import { afterEach, describe, expect, test } from "bun:test";
 import fs from "node:fs";
 import os from "node:os";
 import path from "node:path";
+import { loadPremiumRegistry, setPremiumRegistryForTest } from "../../functions/lib/premium";
 import { BOOK_VOICE_CONFIG, VOICE_CAPS, checkVoice, runVoiceGate, voiceViolations } from "../../scripts/check-voice";
 
 const SCRIPT = path.resolve(import.meta.dir, "../../scripts/check-voice.ts");
@@ -20,6 +21,7 @@ function makeDir(files: Record<string, string>): string {
 
 afterEach(() => {
   for (const d of dirs.splice(0)) fs.rmSync(d, { recursive: true, force: true });
+  setPremiumRegistryForTest(null);
 });
 
 const CLEAN = "Si petani berhenti sebentar dan mengusap kening. Kamu tahu artinya: sudah waktunya istirahat.";
@@ -283,5 +285,76 @@ describe("runVoiceGate (build step)", () => {
   test("fails on a book with no checkable chapters", () => {
     const lib = makeDir({ "kosong/src/content/01_referensi.md": "Menariknya." });
     expect(runVoiceGate(lib)).toEqual({ ok: false, problems: ["kosong: no checkable chapters"] });
+  });
+});
+
+describe("contrast framing (GEMINI.md section 29 item 9), edition-2026 premium books only", () => {
+  const SANDWICH = "Itu temuan awal yang bukan jaminan tetapi petunjuk.";
+  const TRAILING = "Itu temuan awal, bukan jaminan.";
+  const CONTRAST = { contrastFraming: true };
+
+  test("bukan ... tetapi/tapi/melainkan/namun in one sentence is flagged, case-insensitive", () => {
+    expect(voiceViolations("05_x.md", SANDWICH, CONTRAST)).toEqual(["contrast framing (bukan ..., tetapi) x1 (max 0)"]);
+    expect(voiceViolations("05_x.md", "BUKAN hafalan TAPI latihan.", CONTRAST)).toEqual(["contrast framing (bukan ..., tetapi) x1 (max 0)"]);
+    expect(voiceViolations("05_x.md", "Ini bukan soal waktu melainkan niat.", CONTRAST)).toEqual(["contrast framing (bukan ..., tetapi) x1 (max 0)"]);
+    expect(voiceViolations("05_x.md", "Ini bukan soal waktu namun niat.", CONTRAST)).toEqual(["contrast framing (bukan ..., tetapi) x1 (max 0)"]);
+  });
+
+  test("bukan and tetapi in two different sentences are not one contrast", () => {
+    expect(voiceViolations("05_x.md", "Ini bukan soal waktu. Tetapi kamu tetap belajar.", CONTRAST)).toEqual([]);
+  });
+
+  test("the trailing , bukan form is flagged", () => {
+    expect(voiceViolations("05_x.md", TRAILING, CONTRAST)).toEqual(["trailing ', bukan' x1 (max 0)"]);
+  });
+
+  test("a plain negation passes", () => {
+    expect(voiceViolations("05_x.md", "Cara ini belum diuji pada mahasiswa dan bukan untuk anak kecil.", CONTRAST)).toEqual([]);
+  });
+
+  test("without the option (free books) both patterns pass", () => {
+    expect(voiceViolations("05_x.md", `${SANDWICH} ${TRAILING}`)).toEqual([]);
+  });
+
+  test("a blockquote line is a quoted template and is not counted", () => {
+    expect(voiceViolations("05_x.md", `> ${SANDWICH}\n>   ${TRAILING}\n\nTeks biasa.`, CONTRAST)).toEqual([]);
+    expect(voiceViolations("05_x.md", `  > ${TRAILING}`, CONTRAST)).toEqual([]);
+  });
+
+  test("a voice-ok marker exempts its line", () => {
+    expect(voiceViolations("05_x.md", `${SANDWICH} <!-- voice-ok: kutipan sumber -->`, CONTRAST)).toEqual([]);
+    expect(voiceViolations("05_x.md", `${TRAILING} <!-- voice-ok: kutipan sumber -->`, CONTRAST)).toEqual([]);
+  });
+
+  test("runVoiceGate flags the edition-2026 premium book and passes the same text in a free book", () => {
+    setPremiumRegistryForTest({
+      revisi: { products: ["P-x"], productUrl: "https://example.com/p", edition: 2026 },
+      verbatim: { products: ["P-y"], productUrl: "https://example.com/q" },
+    });
+    const body = `${SANDWICH}\n\n${TRAILING}`;
+    const lib = makeDir({
+      "gratis/src/content/01_a.md": body,
+      "revisi/src/content/01_a.md": body,
+      "verbatim/src/content/01_a.md": body,
+    });
+    expect(runVoiceGate(lib)).toEqual({
+      ok: false,
+      problems: ["revisi/01_a.md: contrast framing (bukan ..., tetapi) x1 (max 0)", "revisi/01_a.md: trailing ', bukan' x1 (max 0)"],
+    });
+  });
+
+  test("the CLI flags a registered edition-2026 book and passes a free one", () => {
+    const revised = Object.entries(loadPremiumRegistry()).find(([, e]) => e.edition === 2026)?.[0];
+    expect(revised).toBeDefined();
+    const lib = makeDir({
+      [`${revised}/src/content/01_a.md`]: TRAILING,
+      "gratis/src/content/01_a.md": TRAILING,
+    });
+    const flagged = runCli(["--books-dir", lib, revised as string]);
+    expect(flagged.exitCode).toBe(1);
+    expect(flagged.stdout).toContain("01_a.md: trailing ', bukan' x1 (max 0)");
+    const free = runCli(["--books-dir", lib, "gratis"]);
+    expect(free.exitCode).toBe(0);
+    expect(free.stdout).toContain("gratis: 1 chapters, 0 problems");
   });
 });

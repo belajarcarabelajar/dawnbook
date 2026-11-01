@@ -1,6 +1,6 @@
 import fs from "node:fs";
 import path from "node:path";
-import { contentGateExemptSlugs } from "../functions/lib/premium";
+import { contentGateExemptSlugs, loadPremiumRegistry } from "../functions/lib/premium";
 
 // Voice guard (GEMINI.md section 29): caps per chapter on the scaffolds that make a chapter read like a
 // report on its sources. A green run is necessary, not sufficient; reviewers still judge the voice.
@@ -24,6 +24,8 @@ export interface SourceWordCap {
 
 export interface VoiceOptions {
   sourceWord?: SourceWordCap;
+  // Item 9 of section 29 (owner, 2026-11-02). Only edition-2026 premium books are swept so far.
+  contrastFraming?: boolean;
 }
 
 export interface VoiceResult {
@@ -60,6 +62,19 @@ export const VOICE_CAPS: VoiceCap[] = [
   },
 ];
 
+// Blockquotes in the revised premium books are quoted templates, not the author's prose.
+const BLOCKQUOTE_LINE = /^[ \t]*>.*$/gm;
+
+export const CONTRAST_CAPS: VoiceCap[] = [
+  {
+    label: "contrast framing (bukan ..., tetapi)",
+    pattern: /\bbukan\b[^.!?]{0,160}?\b(tetapi|tapi|melainkan|namun)\b/gi,
+    max: 0,
+    except: [BLOCKQUOTE_LINE],
+  },
+  { label: "trailing ', bukan'", pattern: /,\s+bukan\b/gi, max: 0, except: [BLOCKQUOTE_LINE] },
+];
+
 const FENCE = /^```[^\n]*\n[\s\S]*?^```[ \t]*$/gm;
 
 function capText(text: string, cap: VoiceCap): string {
@@ -80,11 +95,17 @@ function escapeRegExp(s: string): string {
 }
 
 function capsFor(file: string, options: VoiceOptions = {}): VoiceCap[] {
+  const base = options.contrastFraming ? [...VOICE_CAPS, ...CONTRAST_CAPS] : VOICE_CAPS;
   const sw = options.sourceWord;
-  if (!sw) return VOICE_CAPS;
+  if (!sw) return base;
   const max = file.startsWith("01_") && sw.firstChapterMax !== undefined ? sw.firstChapterMax : sw.max;
   const pattern = new RegExp(`(?<![\\p{L}])${escapeRegExp(sw.word)}(?![\\p{L}])`, "giu");
-  return [...VOICE_CAPS, { label: sw.word, pattern, max }];
+  return [...base, { label: sw.word, pattern, max }];
+}
+
+function optionsFor(slug: string): VoiceOptions | undefined {
+  if (loadPremiumRegistry()[slug]?.edition !== 2026) return BOOK_VOICE_CONFIG[slug];
+  return { ...BOOK_VOICE_CONFIG[slug], contrastFraming: true };
 }
 
 // A line that quotes a source verbatim (a classroom transcript, a cited title) may keep a flagged
@@ -135,7 +156,7 @@ export function runVoiceGate(booksDir: string): VoiceGateResult {
   const premium = contentGateExemptSlugs();
   const slugs = fs.readdirSync(booksDir).filter((s) => isBook(booksDir, s) && !premium.includes(s)).sort();
   const problems = slugs.flatMap((slug) => {
-    const { chapters, problems: found } = checkVoice(path.join(booksDir, slug), BOOK_VOICE_CONFIG[slug]);
+    const { chapters, problems: found } = checkVoice(path.join(booksDir, slug), optionsFor(slug));
     if (chapters === 0) return [`${slug}: no checkable chapters`];
     return found.map((p) => `${slug}/${p}`);
   });
@@ -165,7 +186,7 @@ if (import.meta.main) {
   }
   let total = 0;
   for (const slug of slugs) {
-    const { chapters, problems } = checkVoice(path.join(booksDir, slug), BOOK_VOICE_CONFIG[slug]);
+    const { chapters, problems } = checkVoice(path.join(booksDir, slug), optionsFor(slug));
     for (const p of problems) console.log(`${slug}/${p}`);
     if (chapters === 0) {
       console.log(`${slug}: no checkable chapters`);
