@@ -38,6 +38,58 @@ const DRAFT_BOOK = {
   content_md: "# Secret draft content",
 };
 
+// Mirrors D1 column selection, so a row only carries the columns the SQL names
+// and a test can see whether the handler asked for content_md at all.
+function selectColumns(sql: string, row: Record<string, unknown>) {
+  const upper = sql.toUpperCase();
+  const cols = sql
+    .slice(upper.indexOf("SELECT") + "SELECT".length, upper.indexOf(" FROM "))
+    .split(",")
+    .map((c) => c.trim());
+  return Object.fromEntries(cols.filter((c) => c in row).map((c) => [c, row[c]]));
+}
+
+async function getBookAs(session: unknown, row: Record<string, unknown>) {
+  mockSession = session;
+  const env = createMockEnv();
+  setQueryHandler(env, "SELECT", (sql) => [selectColumns(sql, row)]);
+  const request = mockRequest(
+    `https://dawnbook.belajarcarabelajar.com/api/books/${row.slug}`,
+    { method: "GET" }
+  );
+  const response = await onRequest({ request, env, params: { slug: row.slug } } as any);
+  return { status: response.status, book: (await response.json()).book };
+}
+
+describe("GET /api/books/:slug content_md access", () => {
+  beforeEach(() => {
+    mockSession = null;
+  });
+
+  it("omits content_md for anonymous callers", async () => {
+    const { status, book } = await getBookAs(null, PUBLISHED_BOOK);
+    expect(status).toBe(200);
+    expect(book.slug).toBe("published-book");
+    expect(book.title).toBe("Published");
+    expect(Object.keys(book)).not.toContain("content_md");
+  });
+
+  it("omits content_md for reader sessions", async () => {
+    const { status, book } = await getBookAs({ sub: "reader_1", role: "reader" }, PUBLISHED_BOOK);
+    expect(status).toBe(200);
+    expect(book.slug).toBe("published-book");
+    expect(Object.keys(book)).not.toContain("content_md");
+  });
+
+  it("returns content_md to admins, including drafts", async () => {
+    const admin = { sub: "admin_1", role: "admin" };
+    const published = await getBookAs(admin, PUBLISHED_BOOK);
+    expect(published.book.content_md).toBe("# Published content");
+    const draft = await getBookAs(admin, DRAFT_BOOK);
+    expect(draft.book.content_md).toBe("# Secret draft content");
+  });
+});
+
 describe("GET /api/books/:slug", () => {
   beforeEach(() => {
     mockSession = null;
@@ -60,11 +112,9 @@ describe("GET /api/books/:slug", () => {
     expect(response.status).toBe(200);
     // Anonymous callers are constrained to published books at the SQL level.
     expect(capturedSql).toContain("status = 'published'");
-    // Published books still expose their content (the M1 boundary only hides drafts).
-    expect((await response.json()).book).toMatchObject({
-      slug: "published-book",
-      content_md: "# Published content",
-    });
+    // The SQL never asks for the book text on behalf of a non-admin.
+    expect(capturedSql).not.toContain("content_md");
+    expect((await response.json()).book).toMatchObject({ slug: "published-book" });
   });
 
   it("returns 404 for a draft book to anonymous callers", async () => {

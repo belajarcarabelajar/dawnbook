@@ -2,7 +2,7 @@
  * functions/api/books/[slug].ts
  *
  * Cloudflare Pages Function handling:
- *   GET /api/books/:slug — Retrieve a single book by slug (public; drafts only for admins)
+ *   GET /api/books/:slug: retrieve a single book by slug (public metadata; content_md and drafts only for admins)
  *   DELETE /api/books/:slug — Delete a book by slug (requires admin auth)
  */
 
@@ -44,6 +44,8 @@ export const onRequest: PagesFunction<Env> = async (context) => {
       const session = await verifySession(request, env);
       const isAdmin = session?.role === "admin";
 
+      // The full book text is only served to admins; everyone else reads it
+      // through the gated book pages, so the API must not bypass that gate.
       const result = isAdmin
         ? await env.DB.prepare(
             "SELECT id, slug, title, status, content_md, created_at, updated_at, subject_label, view_count FROM books WHERE slug = ?1"
@@ -51,10 +53,10 @@ export const onRequest: PagesFunction<Env> = async (context) => {
             .bind(slug)
             .first<BookRow>()
         : await env.DB.prepare(
-            "SELECT id, slug, title, status, content_md, created_at, updated_at, subject_label, view_count FROM books WHERE slug = ?1 AND status = 'published'"
+            "SELECT id, slug, title, status, created_at, updated_at, subject_label, view_count FROM books WHERE slug = ?1 AND status = 'published'"
           )
             .bind(slug)
-            .first<BookRow>();
+            .first<Omit<BookRow, "content_md">>();
 
       if (!result) {
         return errorResponse("Book not found", 404);
