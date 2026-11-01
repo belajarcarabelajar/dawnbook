@@ -81,12 +81,70 @@ describe("syncPremiumBooks", () => {
 });
 
 describe("checkPremiumOutput", () => {
-  test("reports a premium slug without index.html and not one with it", () => {
-    const out = join(ROOT, "output");
-    write(join(out, "books/ada/index.html"), "<html></html>");
-    mkdirSync(join(out, "books/kosong"), { recursive: true });
+  let out: string;
 
-    expect(checkPremiumOutput(out, ["ada", "kosong", "hilang"])).toEqual(["kosong", "hilang"]);
+  function book(slug: string, chapters: string[]) {
+    write(join(out, `books/${slug}/index.html`), "<html></html>");
+    for (const c of chapters) write(join(out, `books/${slug}/content/${c}`), "<html></html>");
+  }
+
+  function manifest(chapters: Record<string, string[]>) {
+    write(join(out, "manifest.json"), JSON.stringify({ chapters }));
+  }
+
+  const firstOf = (slug: string, file: string) => [`/books/${slug}/content/${file}`];
+
+  beforeEach(() => {
+    out = join(ROOT, "output");
+  });
+
+  test("passes a complete build whose first chapter is free", () => {
+    book("ada", ["01_awal.html", "02_lanjut.html"]);
+    book("lama", ["chapter_1.html"]);
+    manifest({ ada: firstOf("ada", "01_awal.html"), lama: firstOf("lama", "chapter_1.html") });
+
+    expect(checkPremiumOutput(out, ["ada", "lama"])).toEqual([]);
+  });
+
+  test("checks nothing, not even the manifest, when no slug is registered", () => {
+    expect(checkPremiumOutput(out, [])).toEqual([]);
+  });
+
+  test("reports a premium slug without index.html", () => {
+    mkdirSync(join(out, "books/kosong"), { recursive: true });
+    manifest({ kosong: firstOf("kosong", "01_awal.html") });
+
+    const problems = checkPremiumOutput(out, ["kosong"]);
+    expect(problems.some((p) => p.startsWith("kosong:") && p.includes("index.html"))).toBe(true);
+  });
+
+  test("reports a partial build with an index but no chapter html", () => {
+    book("separuh", []);
+    manifest({ separuh: firstOf("separuh", "01_awal.html") });
+
+    const problems = checkPremiumOutput(out, ["separuh"]);
+    expect(problems.length).toBeGreaterThan(0);
+    expect(problems.every((p) => p.startsWith("separuh:"))).toBe(true);
+    expect(problems.some((p) => p.includes("content/"))).toBe(true);
+  });
+
+  test("reports a first manifest chapter the middleware would not treat as free", () => {
+    for (const file of ["010_awal.html", "chapter_10.html", "02_awal.html", "pengantar.html"]) {
+      rmSync(out, { recursive: true, force: true });
+      book("salah", [file]);
+      manifest({ salah: firstOf("salah", file) });
+
+      const problems = checkPremiumOutput(out, ["salah"]);
+      expect(problems.some((p) => p.startsWith("salah:") && p.includes(file))).toBe(true);
+    }
+  });
+
+  test("reports a slug that is missing from the manifest or a missing manifest", () => {
+    book("ada", ["01_awal.html"]);
+    expect(checkPremiumOutput(out, ["ada"]).some((p) => p.startsWith("ada:") && p.includes("manifest"))).toBe(true);
+
+    manifest({});
+    expect(checkPremiumOutput(out, ["ada"]).some((p) => p.startsWith("ada:") && p.includes("manifest"))).toBe(true);
   });
 });
 
