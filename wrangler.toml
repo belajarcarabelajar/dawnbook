@@ -6,3 +6,9 @@ binding = "DB"
 database_name = "dawnbook-db"
 database_id = "b537a5d1-d944-421b-b4f9-7eaedabeb38e"
 migrations_dir = "db/migrations"
+
+# Store database owned by the bcb repo; Dawnbook reads it with SELECT only.
+[[d1_databases]]
+binding = "LMS_DB"
+database_name = "bcbacademy-lms"
+database_id = "c080046a-72d6-4533-98bc-acedcf7b7ea3"
