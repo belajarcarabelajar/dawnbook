@@ -319,7 +319,9 @@ export async function getBooks(
   let query: string;
   const params: unknown[] = [];
 
-  if (includeContent) {
+  // Book text is admin-only even when a caller asks for it, so a handler bug
+  // cannot leak premium chapters.
+  if (includeContent && isAdmin) {
     query = "SELECT id, slug, title, status, content_md, created_at, updated_at, subject_label, view_count FROM books";
   } else {
     query = "SELECT id, slug, title, status, created_at, updated_at, subject_label, view_count FROM books";

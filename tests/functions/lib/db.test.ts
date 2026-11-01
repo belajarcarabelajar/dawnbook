@@ -1,4 +1,5 @@
 import { expect, test, describe } from "bun:test";
+import { Database } from "bun:sqlite";
 import {
   getUserByEmail,
   getUserByGoogleSub,
@@ -279,6 +280,46 @@ describe("functions/lib/db.ts unit tests", () => {
 
       expect(capturedSql).toContain("ORDER BY created_at ASC");
       expect(capturedSql).not.toContain("WHERE");
+    });
+
+    // A real in-memory SQLite evaluates the SQL getBooks sends, so the rows
+    // show whether book text left the data layer.
+    function booksDb() {
+      const sqlite = new Database(":memory:");
+      sqlite.exec(`CREATE TABLE books (
+        id TEXT PRIMARY KEY, slug TEXT, title TEXT, status TEXT, content_md TEXT,
+        created_at TEXT, updated_at TEXT, subject_label TEXT, view_count INTEGER DEFAULT 0)`);
+      sqlite
+        .query("INSERT INTO books VALUES ('b1', 'buku', 'Buku', 'published', 'isi rahasia', '2026-01-01', '2026-01-01', NULL, 0)")
+        .run();
+      const db = {
+        prepare: (sql: string) => {
+          let params: any[] = [];
+          const stmt = {
+            bind: (...p: any[]) => {
+              params = p;
+              return stmt;
+            },
+            all: async () => ({ results: sqlite.query(sql).all(...params), success: true, meta: {} }),
+          };
+          return stmt;
+        },
+      };
+      return db as any;
+    }
+
+    test("getBooks admin: includeContent without isAdmin returns no content_md", async () => {
+      const { getBooks } = await import("../../../functions/lib/db");
+      const books = await getBooks(booksDb(), { includeContent: true, isAdmin: false });
+      expect(books).toHaveLength(1);
+      for (const book of books) expect(book).not.toHaveProperty("content_md");
+    });
+
+    test("getBooks admin: includeContent with isAdmin returns content_md", async () => {
+      const { getBooks } = await import("../../../functions/lib/db");
+      const books = await getBooks(booksDb(), { includeContent: true, isAdmin: true });
+      expect(books).toHaveLength(1);
+      expect(books[0].content_md).toBe("isi rahasia");
     });
   });
 });
