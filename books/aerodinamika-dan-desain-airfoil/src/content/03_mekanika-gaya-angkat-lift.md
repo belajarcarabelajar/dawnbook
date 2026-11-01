@@ -14,7 +14,7 @@ Ketika aliran udara bertemu dengan airfoil yang bergerak maju, aliran tersebut t
 
 ### 2. Bernoulli dan Newton
 
-Dalam literatur aerodinamika klasik, mekanisme pembangkitan gaya angkat kerap ditinjau dari dua sudut pandang: Prinsip Bernoulli dan Hukum Ketiga Newton. Kedua pendekatan ini saling melengkapi dan mendeskripsikan realitas fisis yang sama dari kerangka kerja berbeda.
+Dalam literatur aerodinamika klasik, mekanisme pembangkitan gaya angkat kerap ditinjau dari dua sudut pandang, yakni Prinsip Bernoulli dan Hukum Ketiga Newton. Kedua pendekatan ini saling melengkapi dan mendeskripsikan realitas fisis yang sama dari kerangka kerja berbeda.
 
 #### A. Prinsip Bernoulli (Perspektif Distribusi Tekanan)
 
@@ -110,7 +110,7 @@ Pada fase lepas landas (*take-off*), pesawat membutuhkan gaya angkat yang melamp
 
 Perpaduan tekanan dinamis yang tinggi dan nilai $C_L$ yang optimal menghasilkan gaya angkat total ($L$) yang mengatasi berat total wahana ($W = m \cdot g$), sehingga pesawat mengudara secara mulus.
 
-> **Rangkuman Konseptual:** Pembangkitan gaya angkat bukan semata-mata berasal dari bentuk profil sayap, melainkan integrasi dinamis antara percepatan fluida, perbedaan gradien tekanan, defleksi momentum aliran udara ke bawah (*downwash*), serta orientasi sudut serang terhadap vektor kecepatan relatif.
+> **Rangkuman Konseptual:** Gaya angkat lahir dari integrasi dinamis antara bentuk profil sayap, percepatan fluida, perbedaan gradien tekanan, defleksi momentum aliran udara ke bawah (*downwash*), serta orientasi sudut serang terhadap vektor kecepatan relatif.
 
 #### Eksperimen Mandiri
 

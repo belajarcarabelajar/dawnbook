@@ -2,7 +2,7 @@
 
 Pernahkah kamu membayangkan sebuah "obat" yang terbukti secara ilmiah dapat meningkatkan kualitas tidur dan menurunkan tingkat stres? Obat yang sama terbukti dapat memperbaiki hubungan sosial dan meningkatkan kebahagiaan secara keseluruhan, tanpa efek samping negatif. Dalam dunia psikologi positif, "obat" tersebut adalah **Rasa Syukur (Gratitude)**.
 
-Rasa syukur tidak sebatas ucapan "terima kasih" demi sopan santun. Praktik ini merupakan bentuk pengakuan mendalam terhadap kebaikan dalam hidup kita dan kesadaran bahwa sumber kebaikan tersebut sering kali berada di luar diri kita.
+Rasa syukur merupakan bentuk pengakuan mendalam terhadap kebaikan dalam hidup kita dan kesadaran bahwa sumber kebaikan tersebut sering kali berada di luar diri kita.
 
 ### 1. Memahami Syukur
 
@@ -30,7 +30,7 @@ Saat kita mempraktikkan rasa syukur, otak melepaskan dua neurotransmiter utama:
 
 #### Neuroplastisitas
 
-Dalam dunia neurosains, ada prinsip terkenal: *“Neurons that fire together, wire together”* (neuron yang aktif bersamaan akan saling terhubung). Ketika kita membiasakan otak mencari hal-hal yang patut dihargai, jalur saraf yang berkaitan dengan emosi positif ini akan semakin kuat.
+Dalam dunia neurosains, ada prinsip terkenal yang berbunyi *“Neurons that fire together, wire together”* (neuron yang aktif bersamaan akan saling terhubung). Ketika kita membiasakan otak mencari hal-hal yang patut dihargai, jalur saraf yang berkaitan dengan emosi positif ini akan semakin kuat.
 
 Secara matematis, hubungan antara frekuensi syukur $G$ dan tingkat kesejahteraan $W$ dapat digambarkan melalui fungsi akumulatif berikut:
 
@@ -50,17 +50,17 @@ Penelitian selama puluhan tahun menunjukkan bahwa kebiasaan bersyukur secara rut
 - **Kesehatan Mental:** Membantu mengurangi gejala kecemasan dan depresi serta menurunkan kadar kortisol (hormon stres).
 - **Koneksi Sosial:** Membangun empati yang membuat seseorang lebih mudah memaafkan dan menjalin hubungan interpersonal yang lebih hangat.
 
-> **Penting:** Bersyukur tidak berarti menutup mata dari masalah atau berpura-pura bahwa semuanya berjalan sempurna. Syukur adalah keputusan sadar untuk tetap menghargai sisi baik kehidupan di tengah kesulitan.
+> **Penting:** Syukur adalah keputusan sadar untuk menghargai sisi baik kehidupan di tengah kesulitan. Masalahnya tetap terlihat, dan kamu tidak perlu berpura-pura bahwa semuanya berjalan sempurna.
 
 ### 4. Teknik Praktis Menerapkan Syukur
 
-Bagaimana cara mengubah konsep ini menjadi rutinitas harian? Berikut beberapa metode praktis yang telah teruji secara ilmiah:
+Bagaimana cara mengubah konsep ini menjadi rutinitas harian? Berikut beberapa metode praktis yang telah teruji secara ilmiah.
 
 #### A. Jurnal Syukur (*Gratitude Journal*)
 
 Tuliskan 3 sampai 5 hal yang kamu syukuri setiap hari.
 
-- *Tips:* Fokus pada hal spesifik. Hindari menulis kalimat umum seperti "Saya bersyukur atas makanan hari ini." Alih-alih demikian, tulis hal yang mendetail: "Saya bersyukur bisa menikmati secangkir kopi hangat di tengah pagi yang dingin tadi."
+- *Tips:* Fokus pada hal spesifik. Hindari menulis kalimat umum seperti "Saya bersyukur atas makanan hari ini." Tulislah hal yang mendetail, misalnya "Saya bersyukur bisa menikmati secangkir kopi hangat di tengah pagi yang dingin tadi."
 
 #### B. Metode "Three Good Things" (Tiga Hal Baik)
 
@@ -82,7 +82,7 @@ Salah satu rintangan terbesar dalam mempertahankan rasa syukur adalah *Hedonic A
 
 Sebagai ilustrasi, ingat kembali saat pertama kali kamu mendapatkan ponsel baru atau diterima di pekerjaanmu saat ini. Betapa gembiranya kamu saat itu! Mengapa seiring berjalannya waktu, antusiasme tersebut memudar?
 
-Rasa syukur berfungsi sebagai penawar alami untuk melawan adaptasi hedonik. Dengan melatih diri menghargai apa yang sudah kita miliki, kita menjaga agar hal-hal berharga tersebut tidak sekadar menjadi latar belakang yang membosankan dalam keseharian kita.
+Rasa syukur berfungsi sebagai penawar alami untuk melawan adaptasi hedonik. Dengan melatih diri menghargai apa yang sudah kita miliki, kita menjaga agar hal-hal berharga tersebut tidak memudar menjadi latar belakang yang membosankan dalam keseharian kita.
 
 ### 6. Sari dan Kelelahan Kerja
 
@@ -91,13 +91,13 @@ Rasa syukur berfungsi sebagai penawar alami untuk melawan adaptasi hedonik. Deng
 **Penerapan Rasa Syukur:**
 
 1. **Menerapkan *Micro-gratitude* di Tempat Kerja:** Sari mulai mengalihkan fokusnya pada hal-hal kecil. Misalnya, ia menghargai rekan kerja yang membalas email dengan cepat, alih-alih terus mengeluhkan mereka yang lambat merespons.
-2. **Memanfaatkan Perjalanan sebagai Ritual:** Saat terjebak macet dalam perjalanan pulang, Sari tidak lagi larut dalam kejengkelan. Ia menggunakan waktu tersebut untuk mengingat satu sosok yang kehadirannya sangat ia syukuri.
+2. **Memanfaatkan Perjalanan sebagai Ritual:** Saat terjebak macet dalam perjalanan pulang, Sari menggunakan waktu tersebut untuk mengingat satu sosok yang kehadirannya sangat ia syukuri, sehingga kejengkelannya tidak lagi berlarut.
 3. **Mengubah Sudut Pandang (*Reframing*):** Menghadapi kendala teknis kini dilihatnya sebagai kesempatan. Ia bersyukur memiliki keahlian untuk menyelesaikan masalah tersebut, yang membuktikan kontribusinya bernilai bagi perusahaan.
 
-**Hasil nyata:** Setelah konsisten mempraktikkan hal ini selama 21 hari, Sari merasakan penurunan reaktivitas emosional. Tantangan pekerjaannya tidak hilang begitu saja, tetapi kapasitas mentalnya dalam mengelola stres telah bertumbuh pesat.
+**Hasil nyata:** Setelah konsisten mempraktikkan hal ini selama 21 hari, Sari merasakan penurunan reaktivitas emosional. Tantangan pekerjaannya masih ada, sementara kapasitas mentalnya dalam mengelola stres telah bertumbuh pesat.
 
 ### Syukur yang Tidak Naif
 
-Rasa syukur bukanlah sekadar anjuran untuk berpikiran positif secara naif. Ini adalah strategi kognitif berbasis sains untuk memperluas ruang kesadaran dan memperkokoh ketahanan mental kita. Melalui latihan teratur untuk mengenali sisi baik, kita secara aktif melatih kembali otak kita demi mencapai kualitas hidup yang lebih sejahtera.
+Rasa syukur adalah strategi kognitif berbasis sains untuk memperluas ruang kesadaran dan memperkokoh ketahanan mental kita. Melalui latihan teratur untuk mengenali sisi baik, kita secara aktif melatih kembali otak kita demi mencapai kualitas hidup yang lebih sejahtera.
 
-*Latihan untukmu: Sebelum menutup bab ini, luangkan waktu sejenak untuk memikirkan satu hal kecil yang kamu dapatkan hari ini dan membuatmu merasa lebih berdaya. Hal kecil itulah awal mula dari rasa syukur.*
+*Sebelum menutup bab ini, luangkan waktu sejenak untuk memikirkan satu hal kecil yang kamu dapatkan hari ini dan membuatmu merasa lebih berdaya. Hal kecil itulah awal mula dari rasa syukur.*

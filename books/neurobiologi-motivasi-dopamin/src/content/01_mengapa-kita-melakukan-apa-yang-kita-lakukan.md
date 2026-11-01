@@ -2,7 +2,7 @@
 
 Pernahkah kamu bertanya-tanya mengapa menggulir media sosial berjam-jam terasa sangat mudah, tetapi memulai satu halaman laporan kerja terasa sangat berat? Atau mengapa aroma kopi di pagi hari bisa membuat kamu beranjak dari tempat tidur bahkan sebelum kamu benar-benar meminumnya?
 
-Jawaban dari pertanyaan-pertanyaan ini tidak terletak pada kemauan semata, melainkan pada mekanisme biologis di dalam otak kita. Mekanisme inilah yang dipelajari **Neurobiologi Motivasi**.
+Kemauan saja tidak cukup menjawabnya. Jawabannya ada pada mekanisme biologis di dalam otak kita. Mekanisme inilah yang dipelajari **Neurobiologi Motivasi**.
 
 ## Motivasi Lebih dari Sekadar Keinginan
 
@@ -24,15 +24,15 @@ Tanpa motivasi, mobil kamu mungkin memiliki mesin yang kuat dan bahan bakar yang
 
 ## Bagaimana Otak Memproses Dorongan untuk Bertindak?
 
-Otak manusia berevolusi bukan untuk menciptakan kebahagiaan konstan, melainkan untuk menjaga **kelangsungan hidup**. Untuk memastikan kita bertahan hidup, otak mengembangkan sistem imbalan internal yang memberikan perasaan menyenangkan saat kita melakukan aktivitas yang mendukung kelangsungan hidup (seperti makan, bereproduksi, atau memecahkan masalah).
+Otak manusia berevolusi untuk menjaga **kelangsungan hidup**, dan kebahagiaan yang konstan tidak pernah menjadi tugasnya. Untuk memastikan kita bertahan hidup, otak mengembangkan sistem imbalan internal yang memberikan perasaan menyenangkan saat kita melakukan aktivitas yang mendukung kelangsungan hidup (seperti makan, bereproduksi, atau memecahkan masalah).
 
 Proses dorongan bertindak ini biasanya mengikuti alur tiga tahap:
 
 1. **Deteksi Sinyal (Stimulus):** Otak menangkap sinyal dari lingkungan (seperti melihat makanan lezat) atau dari dalam tubuh (seperti rasa lapar).
-2. **Evaluasi Nilai:** Otak menghitung secara instan: *"Berapa banyak energi yang harus dikeluarkan?"* berbanding *"Seberapa besar imbalan yang akan didapat?"*
+2. **Evaluasi Nilai:** Otak langsung menimbang *"Berapa banyak energi yang harus dikeluarkan?"* berbanding *"Seberapa besar imbalan yang akan didapat?"*
 3. **Inisiasi Motorik:** Jika imbalan dinilai sepadan dengan upayanya, otak akan mengirimkan sinyal ke sistem motorik untuk mulai bergerak.
 
-> **Insight Utama:** Motivasi bukan tentang apa yang kita rasakan *setelah* mencapai tujuan, melainkan dorongan saraf yang menggerakkan kita *menuju* tujuan tersebut.
+> **Insight Utama:** Motivasi adalah dorongan saraf yang menggerakkan kita *menuju* tujuan. Rasa yang muncul *setelah* tujuan tercapai adalah urusan yang lain.
 
 ## Matematika Motivasi dalam Otak
 
@@ -81,9 +81,9 @@ Bayangkan kamu menghadapi tugas berat seperti menulis esai atau laporan. Otak ka
 
 ## Ringkasan Bab Ini
 
-- **Motivasi adalah proses biologis**, berbasis mekanisme saraf dan bukan sekadar keteguhan mental.
+- **Motivasi adalah proses biologis** yang berjalan lewat mekanisme saraf, dan keteguhan mental hanya salah satu bagiannya.
 - **Otak berfungsi sebagai mesin prediksi** yang terus-menerus menghitung kelayakan suatu tindakan berdasarkan nisbah imbalan dan usaha.
 - **Dopamin** adalah molekul utama yang mendorong tindakan.
 - Memahami formulasi motivasi biologis membantu kamu mengubah kebiasaan sendiri untuk mengatasi penundaan pekerjaan.
 
-> **Pelajaran Utama:** Kita tidak bisa selalu mengontrol perasaan kita, tetapi kita bisa mengelola lingkungan dan cara kita menyajikan tugas kepada otak untuk memicu dorongan bertindak yang tepat.
+> **Pelajaran Utama:** Perasaan tidak selalu bisa kita kendalikan. Lingkungan dan cara kita menyajikan tugas kepada otak bisa kita kelola untuk memicu dorongan bertindak yang tepat.

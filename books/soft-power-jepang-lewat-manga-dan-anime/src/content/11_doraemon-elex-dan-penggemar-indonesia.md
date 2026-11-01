@@ -1,6 +1,6 @@
 ## Doraemon, Elex, dan Penggemar Indonesia
 
-Sarapan belum habis, jam dinding menunjuk pukul delapan, dan lagu pembuka si robot kucing biru sudah terdengar dari ruang tengah setiap Minggu pagi. Mungkin kamu tumbuh bersama suara itu. Kalau iya, kamu ikut menjadi bagian dari perubahan yang berjalan pelan: Indonesia bergeser dari penonton yang kebetulan menyalakan televisi menjadi khalayak yang belajar, berkumpul, berkarya, dan sebagian ikut menggambar.
+Sarapan belum habis, jam dinding menunjuk pukul delapan, dan lagu pembuka si robot kucing biru sudah terdengar dari ruang tengah setiap Minggu pagi. Mungkin kamu tumbuh bersama suara itu. Kalau iya, kamu ikut menjadi bagian dari perubahan yang berjalan pelan, ketika Indonesia bergeser dari penonton yang kebetulan menyalakan televisi menjadi khalayak yang belajar, berkumpul, berkarya, dan sebagian ikut menggambar.
 
 ### Robot Kucing Biru Setiap Minggu Pagi
 
@@ -8,19 +8,19 @@ Jadwal itu punya tanggal lahir. RCTI mengambil alih hak siar Doraemon pada 9 Des
 
 Karena kebiasaannya begitu panjang, hilangnya dari jadwal terasa janggal. Dari akhir Desember 2025 sampai awal Januari 2026, Doraemon menghilang dari jadwal RCTI tanpa penjelasan resmi.
 
-Barangkali seperti inilah soft power bekerja: pelan, berulang, dan nyaris tak terasa. Tidak ada kampanye yang menyuruhmu menyukai Nobita. Kamu hanya bertemu dengannya setiap pekan, dan pertemuan itu lama-lama berubah menjadi rasa akrab.
+Barangkali soft power memang bekerja pelan, berulang, dan nyaris tak terasa. Kamu menyukai Nobita tanpa disuruh kampanye apa pun, cukup karena bertemu dengannya setiap pekan, dan pertemuan itu lama-lama berubah menjadi rasa akrab.
 
 ### Lisensi dari Penerbit Buku Komputer
 
-Kalau televisi membuka pintu, toko bukulah yang menahannya agar tidak tertutup lagi. Elex Media Komputindo lahir pada 15 Januari 1985 sebagai penerbit buku komputer, bukan penerbit komik, walau kini ia menyebut dirinya pelopor komik Jepang di Indonesia.
+Kalau televisi membuka pintu, toko bukulah yang menahannya agar tidak tertutup lagi. Elex Media Komputindo lahir pada 15 Januari 1985 sebagai penerbit buku komputer, walau kini ia menyebut dirinya pelopor komik Jepang di Indonesia.
 
-Ceritanya datang dari Ratna Sari, editor Elex, yang berbincang dengan detikHot pada 2013. Elex membeli lisensi *Candy Candy* pada 1991, lalu menyusul *Kungfu Boy*, Doraemon, dan *Dragon Ball*. Jadi Elex lebih tepat disebut salah satu pelopor manga berlisensi, bukan penerbit manga pertama di negeri ini. Rajawali Grafitti Press sudah menerbitkan sejumlah judul manga pada 1980-an, kemungkinan besar tanpa lisensi.
+Ceritanya datang dari Ratna Sari, editor Elex, yang berbincang dengan detikHot pada 2013. Elex membeli lisensi *Candy Candy* pada 1991, lalu menyusul *Kungfu Boy*, Doraemon, dan *Dragon Ball*. Jadi Elex lebih tepat disebut salah satu pelopor manga berlisensi. Gelar penerbit manga pertama di negeri ini tidak jatuh padanya, karena Rajawali Grafitti Press sudah menerbitkan sejumlah judul manga pada 1980-an, kemungkinan besar tanpa lisensi.
 
-Kata "berlisensi" itu bukan urusan teknis kecil. Dengan lisensi, sebagian uang dari komik yang kamu beli mengalir kembali ke pemegang hak di Jepang.
+Kata "berlisensi" itu punya akibat nyata. Dengan lisensi, sebagian uang dari komik yang kamu beli mengalir kembali ke pemegang hak di Jepang.
 
 ### Dari Rasa Akrab ke Ruang Kelas
 
-Rasa akrab dengan tokoh fiksi kadang berlanjut ke hal yang menuntut kesabaran, yaitu belajar bahasanya. Survei Japan Foundation tahun 2024 menempatkan Indonesia di peringkat kedua dunia untuk jumlah pelajar bahasa Jepang, yakni 732.914 orang menurut angka Japan Foundation Jakarta yang dikutip CNBC Indonesia. Sumber yang sama menyebut Indonesia di peringkat pertama untuk jumlah lembaga pengajarnya, 3.103 lembaga. Survei itu tidak mengukur berapa banyak pelajar yang terdorong oleh anime, jadi bacalah angkanya sebagai tanda besarnya minat, bukan bukti sebab-akibat.
+Rasa akrab dengan tokoh fiksi kadang berlanjut ke hal yang menuntut kesabaran, yaitu belajar bahasanya. Survei Japan Foundation tahun 2024 menempatkan Indonesia di peringkat kedua dunia untuk jumlah pelajar bahasa Jepang, yakni 732.914 orang menurut angka Japan Foundation Jakarta yang dikutip CNBC Indonesia. Sumber yang sama menyebut Indonesia di peringkat pertama untuk jumlah lembaga pengajarnya, 3.103 lembaga. Survei itu tidak mengukur berapa banyak pelajar yang terdorong oleh anime, jadi bacalah angkanya sebagai tanda besarnya minat saja.
 
 Ada pula yang memilih berangkat. JNTO mencatat 517.651 pengunjung dari Indonesia pada 2024 dan memperkirakan rekor 640.600 pengunjung pada 2025. Godaannya adalah menyambungkan angka itu langsung ke anime, padahal belum ada sumber yang membuktikan hubungan tersebut. Keputusan berlibur ke luar negeri dipengaruhi banyak hal, dan anime paling banter hanya salah satunya.
 
@@ -28,9 +28,9 @@ Ada pula yang memilih berangkat. JNTO mencatat 517.651 pengunjung dari Indonesia
 
 Penggemar juga butuh tempat berkumpul. *Comic Frontier*, yang akrab disebut Comifuro, memperlihatkan seberapa jauh kebutuhan itu tumbuh. Comifuro pertama pada 2012 hanya diikuti sekitar 35 *circle*, kelompok kreator yang menjual karya sendiri. Comic Frontier 22 pada 16-17 Mei 2026 di ICE BSD City menghadirkan lebih dari 1.500 circle dari Indonesia, Asia Tenggara, dan Jepang, seperti dilaporkan Kompas Ohayo Jepang.
 
-Di aula yang sama, circle Indonesia berdiri sejajar dengan kreator dari Jepang. Penggemar lokal tidak lagi sekadar menerima budaya pop Jepang. Mereka mengolahnya menjadi karya baru.
+Di aula yang sama, circle Indonesia berdiri sejajar dengan kreator dari Jepang. Penggemar lokal mengolah budaya pop Jepang yang mereka terima menjadi karya baru.
 
-Pengolahan serupa tampak pada *cosplay*, kegiatan berdandan menyerupai tokoh fiksi. Ranny Rastati meneliti anak muda Muslim yang ber-cosplay dengan hijab dalam artikelnya di *Jurnal Masyarakat dan Budaya* tahun 2015 ([DOI 10.14203/jmb.v17i3.326](https://doi.org/10.14203/jmb.v17i3.326)). Para *cosplayer* itu menerima praktik ini selama mengikuti syariat, menghindari pose yang berlebihan, dan menghindari kontak dekat saat berfoto. Daya tarik budaya, dengan kata lain, tidak ditelan mentah-mentah. Penggemar menyesuaikannya dengan nilai yang mereka pegang.
+Pengolahan serupa tampak pada *cosplay*, kegiatan berdandan menyerupai tokoh fiksi. Ranny Rastati meneliti anak muda Muslim yang ber-cosplay dengan hijab dalam artikelnya di *Jurnal Masyarakat dan Budaya* tahun 2015 ([DOI 10.14203/jmb.v17i3.326](https://doi.org/10.14203/jmb.v17i3.326)). Para *cosplayer* itu menerima praktik ini selama mengikuti syariat, menghindari pose yang berlebihan, dan menghindari kontak dekat saat berfoto. Dengan kata lain, penggemar menyesuaikan daya tarik budaya itu dengan nilai yang mereka pegang.
 
 ### Menggambar untuk Penonton Negeri Lain
 

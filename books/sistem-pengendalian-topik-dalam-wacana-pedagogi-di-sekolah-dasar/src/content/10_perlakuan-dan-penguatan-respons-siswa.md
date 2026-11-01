@@ -2,7 +2,7 @@
 
 Dalam struktur interaksi kelas, setiap jawaban yang disampaikan oleh siswa tidak berdiri sendiri. Jawaban tersebut memerlukan umpan balik atau tanggapan dari guru. Langkah ini dikenal sebagai *Follow-up move* atau *Feedback move* dalam alur interaksi IRF (*Initiate - Respond - Follow-up*). Melalui langkah ini, guru menetapkan perlakuan dan penguatan (*reinforcement*) terhadap respons siswa, yang sekaligus berfungsi sebagai alat untuk mengendalikan jalannya percakapan dan arah topik pelajaran.
 
-Ketika kamu mengamati suasana pembelajaran di sekolah dasar, perlakuan respons ini memegang peranan penting. Guru tidak hanya menentukan apakah suatu jawaban benar atau salah, tetapi juga mengarahkan kapan suatu topik percakapan dianggap selesai dan kapan topik baru dimulai.
+Ketika kamu mengamati suasana pembelajaran di sekolah dasar, perlakuan respons ini memegang peranan penting. Dengan perlakuan itu, guru menilai benar atau salahnya suatu jawaban dan mengarahkan kapan suatu topik percakapan dianggap selesai serta kapan topik baru dimulai.
 
 ---
 
@@ -22,7 +22,7 @@ Dalam wacana pedagogi sekolah dasar yang diteliti Marliana (2017), perlakuan dan
 Pemberian umpan balik oleh guru mencerminkan bentuk otoritas dan dominasi guru dalam percakapan kelas. Guru memiliki wewenang penuh untuk memilih bentuk respons yang akan diberikan, apakah akan memuji, mengulang jawaban, atau justru mengabaikannya.
 
 #### 1. Pujian sebagai Penanda Penutup Topik
-Meski frekuensi pemberian pujian dalam interaksi kelas terkadang tergolong sedikit (sekitar 2% dari total alur percakapan menurut Marliana, 2017), kehadiran pujian memiliki bobot pedagogis yang besar. Sinclair dan Coulthard (1975) menegaskan bahwa komentar guru sebagai tindak lanjut (*follow-up*) sangat dibutuhkan agar siswa merasa dihargai. Ketika guru mengucapkan kata *"Bagus"* atau *"Pintar"*, tindakan ini tidak hanya memvalidasi siswa, tetapi juga berfungsi sebagai sinyal bahwa bahasan pada poin tersebut telah tuntas.
+Meski frekuensi pemberian pujian dalam interaksi kelas terkadang tergolong sedikit (sekitar 2% dari total alur percakapan menurut Marliana, 2017), kehadiran pujian memiliki bobot pedagogis yang besar. Sinclair dan Coulthard (1975) menegaskan bahwa komentar guru sebagai tindak lanjut (*follow-up*) sangat dibutuhkan agar siswa merasa dihargai. Ketika guru mengucapkan kata *"Bagus"* atau *"Pintar"*, tindakan ini memvalidasi siswa. Kata itu juga menjadi sinyal bahwa bahasan pada poin tersebut telah tuntas.
 
 #### 2. Pengulangan Jawaban sebagai Penjelas dan Pembatas
 Guru sering kali mengulang jawaban siswa (sekitar 6% dalam temuan Marliana, 2017) sebelum melangkah ke pertanyaan berikutnya. Repetisi ini memiliki fungsi ganda:
@@ -33,7 +33,7 @@ Guru sering kali mengulang jawaban siswa (sekitar 6% dalam temuan Marliana, 2017
 
 ### Ilustrasi Transkrip Percakapan dan Pembahasan
 
-Untuk memahami bagaimana penguatan respons berfungsi, amati contoh ilustrasi pertukaran wacana antara guru (G) dan siswa (S) berikut, yang bukan kutipan data penelitian.
+Untuk memahami bagaimana penguatan respons berfungsi, amati contoh ilustrasi pertukaran wacana antara guru (G) dan siswa (S) berikut. Percakapannya disusun untuk ilustrasi dan tidak berasal dari data penelitian.
 
 #### Penguatan Berupa Pujian Verbal
 
@@ -62,7 +62,7 @@ Dalam interaksi ini, pengulangan kata *"Kambing"* oleh guru memastikan seluruh k
 > ### Panduan Pedagogis untuk Mengoptimalkan Penguatan Respons
 >
 > 1. **Variasikan Bentuk Penguatan:** Kombinasikan pujian verbal dengan penguatan nonverbal (seperti senyuman atau anggukan) untuk menciptakan suasana kelas yang hangat.
-> 2. **Berikan Umpan Balik Spesifik:** Jangan hanya mengucapkan *"Bagus"*, tetapi jelaskan aspek mana dari jawaban siswa yang sudah tepat.
+> 2. **Berikan Umpan Balik Spesifik:** Setiap kali mengucapkan *"Bagus"*, jelaskan aspek mana dari jawaban siswa yang sudah tepat.
 > 3. **Gunakan Repetisi Secara Efektif:** Ulangi jawaban siswa untuk menegaskan konsep kunci, tetapi berikan pula kesempatan bagi siswa lain untuk menanggapi jawaban temannya agar interaksi tidak selalu berpusat pada guru.
 
 ---

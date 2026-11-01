@@ -1,6 +1,6 @@
 ## Pengenalan Sistem Modul Rust
 
-Menulis seluruh kode di dalam satu file `main.rs` mungkin terasa praktis saat kamu membangun aplikasi berskala kecil. Namun, bayangkan jika kamu harus mengembangkan sistem navigasi pesawat atau platform e-commerce besar. Menumpuk jutaan baris kode dalam satu file bukan hanya tidak efisien, melainkan juga membuat kode berantakan.
+Menulis seluruh kode di dalam satu file `main.rs` mungkin terasa praktis saat kamu membangun aplikasi berskala kecil. Namun, bayangkan jika kamu harus mengembangkan sistem navigasi pesawat atau platform e-commerce besar. Menumpuk jutaan baris kode dalam satu file tidak efisien dan membuat kode berantakan.
 
 Di sinilah Rust module system berguna. Fitur ini membantu kita memecah codebase yang kompleks menjadi bagian-bagian kecil yang lebih terkelola, logis, dan terstruktur.
 
@@ -17,7 +17,7 @@ Kondisi serupa terjadi dalam pemrograman. Seiring bertambahnya fitur aplikasi, c
 - **Privacy dan Encapsulation**
   Idealnya, tidak semua komponen kode bebas diakses dari mana saja. Logika internal yang sensitif harus disembunyikan agar terhindar dari modifikasi yang tidak disengaja oleh module lain.
 
-> **Insight:** Module system tidak sekadar merapikan struktur file, tetapi juga mengatur **scope** dan **privacy** kode kamu.
+> **Insight:** Selain merapikan struktur file, module system mengatur **scope** dan **privacy** kode kamu.
 
 ## Package, Crate, dan Module
 

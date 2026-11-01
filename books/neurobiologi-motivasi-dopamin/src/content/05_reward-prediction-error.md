@@ -2,7 +2,7 @@
 
 Pernahkah kamu memesan secangkir kopi di kedai baru tanpa ekspektasi tinggi, lalu terkejut karena rasanya enak? Kamu merasa senang dan mungkin ingin kembali lagi besok. Sebaliknya, bayangkan kamu pergi ke restoran berbintang lima dengan ekspektasi tinggi, tetapi makanannya terasa biasa saja. Kamu merasa kecewa, padahal makanannya tidak buruk.
 
-Fenomena ini bukan sekadar masalah selera, melainkan hasil dari perhitungan matematis yang dilakukan otakmu setiap saat. Inilah yang disebut dengan **Reward Prediction Error (RPE)** atau Kesalahan Prediksi Imbalan.
+Selera saja tidak menjelaskan fenomena ini. Ia lahir dari perhitungan matematis yang dilakukan otakmu setiap saat. Inilah yang disebut dengan **Reward Prediction Error (RPE)** atau Kesalahan Prediksi Imbalan.
 
 ---
 
@@ -42,7 +42,7 @@ Ketika kamu menghadapi sebuah tanda atau sinyal (misalnya melihat logo restoran 
 - **Kekecewaan:** Jika makanannya tak kunjung datang atau rasanya hambar, neuron-neuron ini akan berhenti menembak sejenak (*pause*).
 
 > [!TIP]
-> **Insight Utama:** Dopamin tidak dilepaskan semata-mata saat kamu mendapatkan imbalan, melainkan saat terjadi **kejutan positif** yang melampaui dugaan atau ketika kamu sedang **mengantisipasi** imbalan tersebut.
+> **Insight Utama:** Dopamin dilepaskan saat terjadi **kejutan positif** yang melampaui dugaan atau ketika kamu sedang **mengantisipasi** imbalan. Momen menerima imbalan hanyalah salah satu pemicunya.
 
 ---
 
@@ -50,7 +50,7 @@ Ketika kamu menghadapi sebuah tanda atau sinyal (misalnya melihat logo restoran 
 
 Tanpa adanya *error* atau kesalahan prediksi, proses belajar tidak akan pernah terjadi. Jika dunia selalu berjalan persis sesuai dugaanmu, otak tidak perlu membuang energi untuk mencermati detail baru.
 
-Coba renungkan: Mengapa perjudian atau aktivitas *scrolling* media sosial bisa sangat adiktif?
+Coba renungkan, mengapa perjudian atau aktivitas *scrolling* media sosial bisa sangat adiktif?
 
 Alasannya karena kedua hal tersebut mengandalkan **Variable Reward Schedule** (Jadwal Imbalan Variabel). Kamu tidak pernah tahu kapan "kejutan positif" berikutnya akan muncul. Ketidakpastian jadwal inilah yang menjaga RPE terus aktif dan membuat kadar dopamin bergejolak.
 
@@ -92,7 +92,7 @@ Untuk menjaga sistem motivasi otak tetap sehat dan seimbang, kamu bisa memanfaat
 2. **Kelola Ekspektasi dengan Bijak:** Hindari memvisualisasikan hasil akhir secara berlebihan; alihkan fokus utama pada proses. Visualisasi hasil yang terlalu muluk justru berisiko memicu *Negative Prediction Error* saat realitas tidak seindah bayangan.
 3. **Suntikkan Variasi dalam Rutinitas:** Jika kamu merasa jenuh dengan kebiasaan harian (*Zero RPE*), ubah sedikit cara atau suasana saat menjalankannya. Rute jalan kaki baru, latar musik yang berbeda saat bekerja, atau mencoba hobi baru sanggup memicu kembali dinamika sistem RPE.
 
-> Kebahagiaan bukan soal memiliki semua yang kamu inginkan, melainkan menyadari bahwa kenyataanmu saat ini lebih baik daripada yang kamu bayangkan.
+> Kebahagiaan tumbuh saat kamu menyadari bahwa kenyataanmu saat ini lebih baik daripada yang kamu bayangkan, meski belum semua keinginanmu terpenuhi.
 
 ---
 

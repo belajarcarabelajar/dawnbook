@@ -1,11 +1,11 @@
 ## Pemarkah Wacana dan Kata Penanda Transisi Topik
 
-Saat mengajar di depan kelas, seorang guru tidak hanya menyampaikan materi, tetapi juga mengatur lalu lintas percakapan. Dalam wacana pedagogi, peralihan dari satu materi ke materi berikutnya memerlukan alat navigasi verbal yang jelas. Alat navigasi ini dikenal sebagai **pemarkah wacana** (*discourse markers*) atau kata penanda transisi topik. Kata-kata sederhana seperti *ya*, *nah*, *jadi*, *coba*, *sekarang*, *baik*, hingga *eh* memegang peran sentral dalam memberi tahu siswa kapan suatu subtopik berakhir dan kapan fokus baru dimulai.
+Saat mengajar di depan kelas, seorang guru menyampaikan materi sambil mengatur lalu lintas percakapan. Dalam wacana pedagogi, peralihan dari satu materi ke materi berikutnya memerlukan alat navigasi verbal yang jelas. Alat navigasi ini dikenal sebagai **pemarkah wacana** (*discourse markers*) atau kata penanda transisi topik. Kata-kata sederhana seperti *ya*, *nah*, *jadi*, *coba*, *sekarang*, *baik*, hingga *eh* memegang peran sentral dalam memberi tahu siswa kapan suatu subtopik berakhir dan kapan fokus baru dimulai.
 
 Tanpa pemarkah wacana yang tepat, alur pelajaran akan terasa membingungkan bagi siswa. Pemarkah wacana berfungsi sebagai petunjuk arah verbal yang menjaga agar siswa tetap berada dalam jalur pemikiran yang sama dengan guru.
 
 > **Definisi Konseptual:**
-> Pemarkah wacana merupakan kata atau frasa yang tidak selalu menambah isi proposisional kalimat, tetapi berfungsi mengatur alur interaksi, menandai pembukaan atau penutupan topik, serta mengarahkan perhatian penutur dan mitra tutur dalam wacana.
+> Pemarkah wacana merupakan kata atau frasa yang berfungsi mengatur alur interaksi, menandai pembukaan atau penutupan topik, serta mengarahkan perhatian penutur dan mitra tutur dalam wacana. Kata atau frasa itu tidak selalu menambah isi proposisional kalimat.
 
 ---
 
@@ -63,7 +63,7 @@ Penggunaan kata *eh...* sering ditemui ketika guru menghentikan alur pembicaraan
 
 Dalam kutipan di atas, pelafalan *eh...* dengan jeda beberapa detik menandai dua hal:
 - Pengalihan kegiatan dari penjelasan lisan menuju pembagian lembar kerja siswa.
-- Penegasan kembali agar siswa tidak hanya membaca teks secara mekanis, melainkan memahami makna bacaan tersebut.
+- Penegasan kembali agar siswa memahami makna bacaan tersebut dan tidak membaca teks secara mekanis.
 
 #### 3. Kata Sapaan dan Pemarkah Sekuensial (*Anak-anakku sekalian* dan *Kemudian*)
 Pemarkah *kemudian* memberi penanda logis bahwa kalimat berikutnya merupakan sambungan yang tidak terpisahkan dari bahasan sebelumnya.
@@ -125,7 +125,7 @@ Pemahaman terhadap pemarkah wacana memberikan wawasan penting bagi kamu yang ing
 
 ### Kata-Kata Penanda Perpindahan Materi
 
-Pemarkah wacana seperti *ya*, *nah*, *jadi*, *coba*, *sekarang*, *baik*, *eh*, *kemudian*, dan *kalau begitu* merupakan instrumen verbal penting yang digunakan guru untuk memandu transisi topik dalam wacana kelas. Melalui pemarkah ini, guru tidak hanya mengendalikan batasan antartopik, tetapi juga mengarahkan perhatian siswa, mengelola ritme berpikir, dan menghubungkan satu konsep dengan konsep lainnya.
+Pemarkah wacana seperti *ya*, *nah*, *jadi*, *coba*, *sekarang*, *baik*, *eh*, *kemudian*, dan *kalau begitu* merupakan instrumen verbal penting yang digunakan guru untuk memandu transisi topik dalam wacana kelas. Melalui pemarkah ini, guru mengendalikan batasan antartopik, mengarahkan perhatian siswa, mengelola ritme berpikir, dan menghubungkan satu konsep dengan konsep lainnya.
 
 Jawablah pertanyaan refleksi berikut untuk menguji pemahaman kamu:
 

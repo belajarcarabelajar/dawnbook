@@ -1,6 +1,6 @@
 ## Pengantar Psikologi Positif
 
-Memahami apa yang membuat hidup kita berjalan optimal, bukan hanya berfokus untuk memperbaiki kerusakan, adalah tujuan perjalanan yang dimulai di sini. Selama puluhan tahun, psikologi sering kali diidentikkan dengan sofa terapis, diagnosis gangguan mental, dan upaya memulihkan trauma. Namun, **Psikologi Positif** hadir untuk melengkapi spektrum tersebut.
+Memahami apa yang membuat hidup kita berjalan optimal adalah tujuan perjalanan yang dimulai di sini. Selama puluhan tahun, psikologi sering kali diidentikkan dengan sofa terapis, diagnosis gangguan mental, dan upaya memulihkan trauma. Namun, **Psikologi Positif** hadir untuk melengkapi spektrum tersebut.
 
 > "Psikologi bukan hanya kajian tentang patologi, kelemahan, dan kerusakan; ia juga kajian tentang kekuatan dan kebajikan. Penanganan bukan hanya memperbaiki apa yang rusak; ia adalah merawat apa yang terbaik." - **Martin Seligman dan Mihaly Csikszentmihalyi**, [*Positive Psychology: An Introduction*](https://doi.org/10.1037/0003-066X.55.1.5) (2000)
 
@@ -14,7 +14,7 @@ Bayangkan pikiran kita seperti sebuah taman.
 
 Dalam analogi ini, psikologi tradisional berperan aktif mencabut gulma, seperti depresi, kecemasan, dan trauma, dengan tujuan membersihkan tanah dari gangguan. Di sisi lain, psikologi positif mengambil langkah berbeda dengan menanam bunga, menyiramnya, memberinya pupuk yang tepat, dan memastikan asupan sinar matahari cukup agar taman tersebut berkembang indah.
 
-Mencabut gulma memang penting agar tanaman tidak mati, tetapi taman yang indah tidak hanya tercipta dari ketiadaan gulma; ia membutuhkan usaha aktif untuk menumbuhkan keindahan.
+Mencabut gulma memang penting agar tanaman tidak mati. Agar taman benar-benar indah, masih dibutuhkan usaha aktif untuk menumbuhkan keindahannya.
 
 ## 2. Pergeseran Paradigma dari "Sakit" ke "Sejahtera"
 
@@ -61,18 +61,18 @@ Menurut para ahli, fokus studi ini terbagi menjadi tiga tingkatan utama:
 Banyak orang keliru menyamakan psikologi positif dengan "berpikir positif secara membabi buta". Batasan-batasan berikut meluruskannya:
 
 - **Bukan *Toxic Positivity*:** Pendekatan ini tidak meminta kamu untuk memaksakan senyum saat berduka atau menekan perasaan sedih. Emosi negatif seperti marah, takut, dan kecewa adalah respons manusiawi yang wajar dan penting untuk diproses.
-- **Berbeda dari Motivasi Instan:** Sebagai cabang ilmu, seluruh teori di dalamnya didasarkan pada eksperimen, analisis statistik, dan penelitian empiris, bukan kalimat motivasi tanpa landasan ilmiah.
+- **Berbeda dari Motivasi Instan:** Sebagai cabang ilmu, seluruh teori di dalamnya didasarkan pada eksperimen, analisis statistik, dan penelitian empiris. Kalimat motivasi tanpa landasan ilmiah tidak punya pijakan semacam itu.
 - **Bukan Formula yang Seragam:** Apa yang membuat satu orang bahagia belum tentu berlaku bagi orang lain. Pendekatan ini memetakan pola-pola kesejahteraan umum sambil tetap menghormati keunikan konteks kehidupan setiap orang.
 
 ## 6. Dua Pendekatan Evaluasi Tahunan
 
-Sebagai gambaran pergeseran paradigma ini, mari kita bandingkan dua pendekatan evaluasi tahunan di kantor:
+Sebagai gambaran pergeseran paradigma ini, mari kita bandingkan dua pendekatan evaluasi tahunan di kantor.
 
 Dalam **pendekatan tradisional**, manajer biasanya memfokuskan sebagian besar waktu rapat untuk membahas kesalahan karyawan sepanjang tahun dan merumuskan cara memperbaikinya. Seluruh energinya habis untuk menutup celah kelemahan.
 
 Sebaliknya, dengan **pendekatan psikologi positif**, manajer memang tetap meninjau area yang memerlukan perbaikan, tetapi porsi terbesar diskusi dialokasikan untuk memetakan kekuatan unik karyawan tersebut. Manajer akan mencari tahu kapan si karyawan merasa paling bersemangat (*engaged*) dalam bekerja, lalu menyesuaikan tanggung jawab baru dengan kekuatan tersebut agar performa berkembang secara alami.
 
-*Coba renungkan: kapan terakhir kali kamu menghargai kekuatan dirimu sendiri, alih-alih terus-menerus mengkritik kekuranganmu?*
+*Coba renungkan, kapan terakhir kali kamu menghargai kekuatan dirimu sendiri, alih-alih terus-menerus mengkritik kekuranganmu?*
 
 ## 7. Mengapa Ini Penting Bagimu?
 

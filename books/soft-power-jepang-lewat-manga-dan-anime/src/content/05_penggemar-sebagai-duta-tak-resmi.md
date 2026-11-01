@@ -2,9 +2,9 @@
 
 Bayangkan serial kesukaanmu tidak dijual di negaramu, dan satu-satunya jalan untuk menontonnya adalah terjemahan buatan orang asing yang sama gemarnya.
 
-Untuk sebagian penonton anime di Amerika Serikat, begitulah keadaannya selama bertahun-tahun. Yang mengantar tontonan itu sering kali bukan studio atau distributor, apalagi pemerintah. Pengantarnya orang biasa yang terlalu suka pada sebuah serial sampai tidak tahan menyimpannya sendiri.
+Untuk sebagian penonton anime di Amerika Serikat, begitulah keadaannya selama bertahun-tahun. Tontonan itu sering kali diantar orang biasa yang terlalu suka pada sebuah serial sampai tidak tahan menyimpannya sendiri, tanpa studio, distributor, apalagi pemerintah.
 
-Bab 4 mengikuti judul-judul yang menembus Barat lewat jalur dagang. Jalur para penggemar jauh lebih sunyi dan lebih berantakan: tanpa izin, tanpa bayaran.
+Bab 4 mengikuti judul-judul yang menembus Barat lewat jalur dagang. Jalur para penggemar jauh lebih sunyi dan lebih berantakan, karena berjalan tanpa izin dan tanpa bayaran.
 
 ### Pasar yang Ditinggal Pemiliknya
 
@@ -12,17 +12,17 @@ Sean Leonard memetakan jalur sunyi itu dalam artikel "Progress against the law" 
 
 Ruang kosong itu diisi penggemar. Mereka bekerja seperti orang yang sedang menyebarkan keyakinan. Menonton sendiri tidak cukup; mereka mengajak, membujuk, dan memperkenalkan judul demi judul kepada orang yang belum pernah mendengarnya. Dalam pembacaan Leonard, semangat menularkan kegemaran itulah yang menyalakan gerakan anime di Amerika Serikat.
 
-Leonard lalu menarik argumennya ke pertanyaan yang lebih luas, yaitu bagaimana sebuah budaya menjadi global. Kamu tidak perlu menguasai teorinya untuk menangkap intinya. Budaya Jepang tidak hanya dikirim dari Tokyo. Ia juga dijemput dari bawah oleh orang-orang di negeri lain.
+Leonard lalu menarik argumennya ke pertanyaan yang lebih luas, yaitu bagaimana sebuah budaya menjadi global. Kamu tidak perlu menguasai teorinya untuk menangkap intinya. Budaya Jepang dikirim dari Tokyo, dan orang-orang di negeri lain ikut menjemputnya dari bawah.
 
 ### Subtitle Buatan Para Penggemar
 
-Alat utama gerakan ini bernama *fansub*, gabungan kata *fan* dan *subtitle*: teks terjemahan yang dibuat penggemar untuk tontonan yang belum punya versi resmi. Seseorang yang paham bahasa Jepang menerjemahkan dialognya, teks itu ditempelkan pada video, lalu videonya berpindah dari satu penggemar ke penggemar lain. Tidak ada kontrak dan tidak ada honor. Jaminan mutunya hanya reputasi kelompok penerjemah.
+Alat utama gerakan ini bernama *fansub*, gabungan kata *fan* dan *subtitle*. Istilah ini merujuk pada teks terjemahan yang dibuat penggemar untuk tontonan yang belum punya versi resmi. Seseorang yang paham bahasa Jepang menerjemahkan dialognya, teks itu ditempelkan pada video, lalu videonya berpindah dari satu penggemar ke penggemar lain. Tidak ada kontrak dan tidak ada honor. Jaminan mutunya hanya reputasi kelompok penerjemah.
 
 Sejak 1998, tulis Leonard, sebagian besar *fansub* sudah berupa berkas digital. Salinan fisik harus berpindah tangan satu demi satu, sedangkan berkas digital jauh lebih mudah disalin dan dikirim ulang. Satu terjemahan pun bisa beredar lebih luas daripada sebelumnya.
 
 ### Pelanggaran Hak Cipta yang Ikut Membuka Pasar
 
-Bagian berikut ini tidak nyaman: semua kegiatan tadi melanggar hak cipta. Leonard tidak menutupinya. Ia malah menaruhnya di pusat argumen. Pelanggaran yang terus-menerus selama 1976 sampai 1993, katanya, ikut mendorong perdagangan dan perkembangan seni. Dalam kerangka itu, penonton tanpa izin pada masa tersebut adalah calon pembeli resmi begitu produknya akhirnya tersedia.
+Bagian berikut ini tidak nyaman, karena semua kegiatan tadi melanggar hak cipta. Leonard tidak menutupinya. Ia malah menaruhnya di pusat argumen. Pelanggaran yang terus-menerus selama 1976 sampai 1993, katanya, ikut mendorong perdagangan dan perkembangan seni. Dalam kerangka itu, penonton tanpa izin pada masa tersebut adalah calon pembeli resmi begitu produknya akhirnya tersedia.
 
 Argumen ini gampang dibaca sebagai pembenaran pembajakan, padahal konteksnya sempit. Leonard berbicara tentang masa ketika pemilik hak absen dari pasar itu. Ceritanya lain ketika layanan resmi sudah ada dan salinan tanpa izin bersaing langsung dengan produk yang bisa kamu beli. Tarik-menarik antara jasa penggemar dan kerugian pemegang hak itu muncul lagi di bab 9, saat manga digital berhadapan dengan pembajakan.
 
@@ -38,6 +38,6 @@ Lalu ada Netflix. Pengumumannya pada Juli 2025 ([pengumuman Netflix](https://abo
 
 ### Inti Pembahasan
 
-Selain jalur resmi, anime juga masuk ke Amerika Serikat lewat pintu belakang. Ketika pemegang hak di Jepang meninggalkan pasar itu, penggemar mengisinya dengan *fansub*, yang sejak 1998 sebagian besar berupa berkas digital, dan Leonard berpendapat bahwa pelanggaran itu ikut mendorong perdagangan. Pintu depannya baru terbuka lebar belakangan: Crunchyroll dengan 120 juta pengguna terdaftar ketika dibeli, MANGA Plus yang terbit serentak dengan Jepang, dan Netflix yang penonton animenya kebanyakan menonton versi sulih suara.
+Selain jalur resmi, anime juga masuk ke Amerika Serikat lewat pintu belakang. Ketika pemegang hak di Jepang meninggalkan pasar itu, penggemar mengisinya dengan *fansub*, yang sejak 1998 sebagian besar berupa berkas digital, dan Leonard berpendapat bahwa pelanggaran itu ikut mendorong perdagangan. Pintu depannya baru terbuka lebar belakangan, lewat Crunchyroll dengan 120 juta pengguna terdaftar ketika dibeli, MANGA Plus yang terbit serentak dengan Jepang, dan Netflix yang penonton animenya kebanyakan menonton versi sulih suara.
 
 Sejauh ini, yang bergerak di bab ini masih pasar dan komunitas. Kalau orang di negeri lain sudah sesuka itu pada anime, apakah negara asalnya akan diam saja? Di Tokyo, Kementerian Luar Negeri Jepang ternyata mulai ikut memandang budaya pop sebagai bagian dari diplomasi.

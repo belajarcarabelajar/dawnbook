@@ -1,26 +1,26 @@
 ## Takut Gagal dan Jebakan Perfeksionisme
 
-"Aku menunda karena aku perfeksionis. Maunya hasilnya sempurna, jadi susah mulai." Kalimat ini enak diucapkan. Ia terdengar seperti keluhan, tetapi diam-diam juga seperti pujian: penundaanku lahir dari standar yang tinggi, bukan dari malas. Banyak orang memegang keyakinan ini, dan masuk akal kalau kamu salah satunya.
+"Aku menunda karena aku perfeksionis. Maunya hasilnya sempurna, jadi susah mulai." Kalimat ini enak diucapkan. Ia terdengar seperti keluhan, padahal diam-diam juga memuji diri, seolah penundaan itu lahir dari standar yang tinggi dan tidak ada sangkut pautnya dengan malas. Banyak orang memegang keyakinan ini, dan masuk akal kalau kamu salah satunya.
 
-Masalahnya, riset tidak memberi jawaban "ya" atau "tidak" yang rapi. Jawabannya: tergantung perfeksionisme yang mana. Ada jenis yang berjalan bersama penundaan, ada jenis yang justru berjalan berlawanan. Bab ini membongkar keyakinan tadi, lalu melihat satu eksperimen klasik tentang cara penundaan melindungi harga diri.
+Masalahnya, riset tidak memberi jawaban "ya" atau "tidak" yang rapi. Jawabannya tergantung pada perfeksionisme yang mana. Ada jenis yang berjalan bersama penundaan, ada jenis yang justru berjalan berlawanan. Bab ini membongkar keyakinan tadi, lalu melihat satu eksperimen klasik tentang cara penundaan melindungi harga diri.
 
 ### Dua dimensi perfeksionisme
 
 Dalam meta-analisisnya atas 691 korelasi, Steel (2007) memperlakukan perfeksionisme sebagai satu dimensi tunggal dan tidak menemukan hubungannya dengan penundaan. Dari situ lahir kesan bahwa mitos "penunda itu perfeksionis" tidak ada dasarnya. Kesan itu terlalu cepat, sebab kata "perfeksionisme" ternyata menutupi dua hal yang berbeda.
 
-Sirois, Molnar, dan Hirsch (2017) memperbarui analisis itu dengan memisahkan dimensinya. Hasilnya, penundaan sifat berkorelasi positif dengan ***perfectionistic concerns*** (r = 0,23) dan berkorelasi negatif dengan ***perfectionistic strivings*** (r = -0,22). Pola ini tidak bervariasi menurut alat ukur maupun jenis kelamin. Dua angka yang hampir sama besar tetapi berlawanan tanda memberi satu penjelasan yang masuk akal (ini penalaran penulis, bukan klaim makalahnya) kenapa analisis satu dimensi tampak kosong: dua arus yang saling berlawanan bisa meniadakan satu sama lain ketika dicampur.
+Sirois, Molnar, dan Hirsch (2017) memperbarui analisis itu dengan memisahkan dimensinya. Hasilnya, penundaan sifat berkorelasi positif dengan ***perfectionistic concerns*** (r = 0,23) dan berkorelasi negatif dengan ***perfectionistic strivings*** (r = -0,22). Pola ini tidak bervariasi menurut alat ukur maupun jenis kelamin. Dua angka yang hampir sama besar tetapi berlawanan tanda memberi satu penjelasan yang masuk akal kenapa analisis satu dimensi tampak kosong. Dua arus yang saling berlawanan bisa meniadakan satu sama lain ketika dicampur. Penjelasan ini penalaran penulis buku; makalahnya sendiri tidak mengklaimnya.
 
 #### Perfectionistic concerns
 
-Ini sisi perfeksionisme yang berisi kekhawatiran. Isinya takut membuat kesalahan, merasa hasil kerja tidak pernah cukup, dan cemas terhadap penilaian orang lain. Karena setiap hasil terasa seperti ujian atas nilai diri, memulai pun terasa berisiko. Tidak heran kalau hubungannya dengan penundaan positif: semakin tinggi kekhawatiran ini, semakin cenderung seseorang menunda.
+Ini sisi perfeksionisme yang berisi kekhawatiran. Isinya takut membuat kesalahan, merasa hasil kerja tidak pernah cukup, dan cemas terhadap penilaian orang lain. Karena setiap hasil terasa seperti ujian atas nilai diri, memulai pun terasa berisiko. Tidak heran hubungannya dengan penundaan positif. Semakin tinggi kekhawatiran ini, semakin cenderung seseorang menunda.
 
 #### Perfectionistic strivings
 
-Sisi yang satu lagi berisi dorongan menetapkan standar tinggi dan ingin bekerja sebaik-baiknya karena itu penting bagimu sendiri. Hubungannya dengan penundaan justru negatif: semakin kuat dorongan ini, seseorang cenderung semakin sedikit menunda.
+Sisi yang satu lagi berisi dorongan menetapkan standar tinggi dan ingin bekerja sebaik-baiknya karena itu penting bagimu sendiri. Hubungannya dengan penundaan justru negatif, artinya semakin kuat dorongan ini, seseorang cenderung semakin sedikit menunda.
 
-Dua korelasi ini hanya menunjukkan keterkaitan, bukan sebab-akibat. Kita tidak tahu dari data ini apakah kekhawatiran yang membuat orang menunda, atau penundaan yang memupuk kekhawatiran, atau keduanya.
+Dua korelasi ini hanya menunjukkan keterkaitan. Dari data ini kita tidak tahu apakah kekhawatiran yang membuat orang menunda, atau penundaan yang memupuk kekhawatiran, atau keduanya.
 
-Dalam keseharian, bedanya kira-kira begini (ilustrasi penulis): *perfectionistic concerns* tampak seperti mengetik, menghapus, lalu menutup dokumen karena takut hasilnya jelek di mata atasan, sedangkan *perfectionistic strivings* tampak seperti membuat jadwal garapan sejak jauh hari karena ingin laporannya benar-benar bagus.
+Sebagai ilustrasi dari penulis, dalam keseharian *perfectionistic concerns* kira-kira tampak seperti mengetik, menghapus, lalu menutup dokumen karena takut hasilnya jelek di mata atasan, sedangkan *perfectionistic strivings* tampak seperti membuat jadwal garapan sejak jauh hari karena ingin laporannya benar-benar bagus.
 
 ### Menunda untuk menjaga muka
 
@@ -28,26 +28,26 @@ Mari beralih ke eksperimen yang menunjukkan bagaimana penundaan bisa berfungsi s
 
 Yang dimanipulasi adalah cara tugas itu dibingkai. Ketika tugas disebut permainan yang menyenangkan, penunda kronis tidak berlatih lebih sedikit daripada peserta lain. Namun ketika tugas disebut evaluasi penting atas kemampuan kognitif, penunda kronis menghabiskan lebih banyak waktu pada aktivitas menyenangkan dan lebih sedikit waktu untuk persiapan.
 
-Perbedaannya hanya pada taruhan terhadap citra diri, sedangkan tugasnya sama. Penulisnya menafsirkan pola ini sebagai ***self-handicapping*** perilaku: dengan sengaja menyiapkan diri kurang baik, seseorang menyiapkan alasan sebelum hasil keluar. Kalau nanti hasilnya buruk, "kurang persiapan" tersedia sebagai penjelasan, sehingga kemampuan yang sesungguhnya tidak ikut tertuduh.
+Perbedaannya hanya pada taruhan terhadap citra diri, sedangkan tugasnya sama. Penulisnya menafsirkan pola ini sebagai ***self-handicapping*** perilaku. Dengan sengaja menyiapkan diri kurang baik, seseorang menyiapkan alasan sebelum hasil keluar. Kalau nanti hasilnya buruk, "kurang persiapan" tersedia sebagai penjelasan, sehingga kemampuan yang sesungguhnya tidak ikut tertuduh.
 
 Hati-hati menarik kesimpulan terlalu jauh. Ini studi laboratorium dengan mahasiswa dan satu jenis tugas, dan temuannya tidak otomatis berlaku pada setiap penundaan di kantor atau di rumah. Studi ini juga tidak mengatakan semua penunda sedang melindungi diri, hanya bahwa pada kondisi evaluasi penting, pola itu muncul di antara penunda kronis.
 
 ### Dua jenis lega
 
-Bagian ini bacaan praktis penulis buku, bukan temuan dari studi mana pun. Coba bandingkan dua kalimat yang bisa kamu ucapkan setelah hasil yang mengecewakan.
+Bagian ini bacaan praktis penulis buku dan tidak berasal dari studi mana pun. Coba bandingkan dua kalimat yang bisa kamu ucapkan setelah hasil yang mengecewakan.
 
 > "Aku gagal karena belum siap."
 
 > "Aku gagal padahal sudah berusaha."
 
-Kalimat pertama terasa lebih ringan. Ia menaruh sebabnya pada waktu dan persiapan, hal yang masih bisa dibenahi, dan membiarkan pertanyaan tentang kemampuan tak terjawab. Kalimat kedua lebih berat karena tidak ada celah untuk lari: usaha sudah dikeluarkan, dan hasilnya tetap begitu. Bila tafsir Ferrari dan Tice benar, kelegaan jenis pertama itulah yang dibeli penundaan, dengan harga hasil yang lebih buruk lagi.
+Kalimat pertama terasa lebih ringan. Ia menaruh sebabnya pada waktu dan persiapan, hal yang masih bisa dibenahi, dan membiarkan pertanyaan tentang kemampuan tak terjawab. Kalimat kedua lebih berat karena tidak ada celah untuk lari. Usaha sudah dikeluarkan, dan hasilnya tetap begitu. Bila tafsir Ferrari dan Tice benar, kelegaan jenis pertama itulah yang dibeli penundaan, dengan harga hasil yang lebih buruk lagi.
 
-Kalau kamu mengenali pola ini pada dirimu, satu langkah kecil patut dicoba: pisahkan "hasil ini jelek" dari "aku ini jelek". Tindakan itu menurunkan taruhan, dan taruhan yang lebih rendah membuat memulai tidak lagi terasa seperti sidang.
+Kalau kamu mengenali pola ini pada dirimu, cobalah langkah kecil dengan memisahkan "hasil ini jelek" dari "aku ini jelek". Tindakan itu menurunkan taruhan, dan taruhan yang lebih rendah membuat memulai tidak lagi terasa seperti sidang.
 
 ## Intisari
 
-- Keyakinan "penunda itu perfeksionis" benar sebagian: perfeksionisme yang berisi kekhawatiran berjalan searah dengan penundaan (r = 0,23), sedangkan yang berisi standar pribadi berjalan berlawanan (r = -0,22).
-- Pada eksperimen Ferrari dan Tice (2000), penunda kronis lebih banyak memilih aktivitas menyenangkan dibanding berlatih ketika tugas dibingkai sebagai evaluasi penting; karena sampelnya mahasiswa di laboratorium, kita membacanya sebagai petunjuk, bukan hukum.
-- Saran penulis: memisahkan "hasil ini jelek" dari "aku ini jelek" menurunkan taruhan, sehingga memulai tidak lagi terasa seperti sidang.
+- Keyakinan "penunda itu perfeksionis" hanya benar sebagian. Perfeksionisme yang berisi kekhawatiran berjalan searah dengan penundaan (r = 0,23), sedangkan yang berisi standar pribadi berjalan berlawanan (r = -0,22).
+- Pada eksperimen Ferrari dan Tice (2000), penunda kronis lebih banyak memilih aktivitas menyenangkan dibanding berlatih ketika tugas dibingkai sebagai evaluasi penting; karena sampelnya mahasiswa di laboratorium, kita membacanya sebagai petunjuk saja.
+- Penulis menyarankan memisahkan "hasil ini jelek" dari "aku ini jelek" karena langkah itu menurunkan taruhan, sehingga memulai tidak lagi terasa seperti sidang.
 
 Namun tidak semua penundaan lahir dari rasa takut. Ada orang yang tidak cemas sama sekali, hanya gampang tergoda hal lain di depan mata.

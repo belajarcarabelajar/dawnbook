@@ -28,7 +28,7 @@ Awalnya, pendekatan monodisipliner (fokus pada satu disiplin ilmu) mendominasi p
 
 Perkembangan nyata menuju pendekatan multidisiplin mulai terlihat sejak abad ke-20. Dalam kajian sejarah, misalnya, sejarah baru menunjukkan pergeseran dari kajian politik yang kaku menuju studi yang lebih bersifat *social scientific*, berorientasi pada masalah, dan menggunakan pendekatan interdisipliner/multidisiplin. Peningkatan interaksi antardisiplin ilmu, terutama di era globalisasi, menjadikan pendekatan multidisiplin sebagai pilihan yang populer dalam kegiatan ilmiah untuk mencari solusi terhadap masalah kompleks yang tidak dapat diatasi oleh satu disiplin saja.
 
-Garis waktu di bawah ini merangkum tahapan perkembangan itu menurut era, bukan tanggal pasti.
+Garis waktu di bawah ini merangkum tahapan perkembangan itu menurut era, tanpa tanggal pasti.
 
 ```mermaid
 timeline
@@ -49,8 +49,8 @@ Di abad ke-21, yang ditandai dengan perkembangan ilmu pengetahuan dan teknologi 
 3. **Mendorong Inovasi dan Kreativitas:** Menggabungkan ide-ide dan pendekatan dari berbagai disiplin ilmu dapat menciptakan solusi yang baru dan lebih baik. Integrasi berbagai bidang keilmuan sering menghasilkan solusi yang lebih kreatif dan inovatif yang mungkin tidak muncul jika hanya menggunakan pendekatan tunggal.
 4. **Mengembangkan Keterampilan Abad ke-21:** Pembelajaran multidisiplin memfasilitasi pengembangan keterampilan berpikir kritis, analitis, dan kreatif pada peserta didik. Ini juga membantu mereka mengidentifikasi masalah, mengumpulkan data, merumuskan solusi, dan mempertimbangkan hasil secara multidisiplin.
 5. **Meningkatkan Adaptabilitas:** Perkembangan teknologi dan tren industri yang cepat menuntut kemampuan adaptasi. Pendidikan multidisiplin membantu individu mengembangkan kemampuan untuk belajar dan beradaptasi dengan hal-hal baru, karena mereka memiliki berbagai perspektif dan alat yang dapat diterapkan di banyak situasi.
-6. **Mempersiapkan untuk Dunia Kerja Modern:** Dunia kerja modern semakin dinamis dan kompleks, membutuhkan kompetensi yang tidak hanya berfokus pada satu disiplin ilmu. Kemampuan untuk berpikir lintas disiplin, beradaptasi dengan cepat, dan bekerja sama dalam tim yang beragam adalah aset berharga.
+6. **Mempersiapkan untuk Dunia Kerja Modern:** Dunia kerja modern semakin dinamis dan kompleks, membutuhkan kompetensi yang melampaui satu disiplin ilmu. Kemampuan untuk berpikir lintas disiplin, beradaptasi dengan cepat, dan bekerja sama dalam tim yang beragam adalah aset berharga.
 
-> **Penting:** Pembelajaran multidisiplin tidak bertujuan menumpuk informasi saja. Pendekatan ini berfokus pada penumbuhan pola pikir yang mampu memadukan dan menerapkan pengetahuan dari berbagai sumber untuk memecahkan masalah nyata.
+> **Penting:** Pembelajaran multidisiplin berfokus pada penumbuhan pola pikir yang mampu memadukan dan menerapkan pengetahuan dari berbagai sumber untuk memecahkan masalah nyata.
 
-Pendekatan ini melampaui status sebagai nilai tambah; ia telah menjadi kebutuhan utama bagi individu dan negara untuk mencapai kemajuan dan keberhasilan di berbagai bidang, termasuk pembangunan ekonomi, sosial, dan lingkungan.
+Bagi individu dan negara, pendekatan ini telah menjadi kebutuhan utama untuk mencapai kemajuan dan keberhasilan di berbagai bidang, termasuk pembangunan ekonomi, sosial, dan lingkungan.

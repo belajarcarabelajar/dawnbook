@@ -4,17 +4,17 @@ Penciptaan makna di tengah ketidakpastian ontologis merupakan bentuk aktualisasi
 
 ### 1. Ketiadaan Rancangan Awal Membuka Ruang Kreasi
 
-Dalam ontologi eksistensialisme, ketiadaan rancangan awal bagi manusia bukanlah kondisi defisit yang melumpuhkan, melainkan premis utama bagi terbukanya ruang kreasi nilai. Ketidakpastian objektif duniawi diposisikan sebagai ruang terbuka tempat kesadaran mewujudkan intensionalitasnya.
+Dalam ontologi eksistensialisme, ketiadaan rancangan awal bagi manusia menjadi premis utama bagi terbukanya ruang kreasi nilai. Ketidakpastian objektif duniawi diposisikan sebagai ruang terbuka tempat kesadaran mewujudkan intensionalitasnya.
 
 Sartre berpendapat bahwa hidup tidak membawa makna yang sudah ditetapkan sebelumnya. Kamulah yang memberinya makna, dan nilai tidak lain adalah makna yang kamu pilih.
 
 #### Membangun di Tepi Pantai
 
-Keberadaan manusia dapat dianalogikan dengan mendirikan struktur di tepi pantai yang senantiasa diterpa gelombang pasang surut. Karakter kefanaan struktur tersebut tidak mereduksi nilai dari tindakan pembangunannya. Justru dalam ketiadaan perintah kosmis dan kesadaran akan kefanaan itulah, kehendak untuk terus berkarya memperoleh signifikansi estetis dan martabat moral.
+Keberadaan manusia dapat dianalogikan dengan mendirikan struktur di tepi pantai yang senantiasa diterpa gelombang pasang surut. Karakter kefanaan struktur tersebut tidak mereduksi nilai dari tindakan pembangunannya. Dalam ketiadaan perintah kosmis dan kesadaran akan kefanaan itulah, kehendak untuk terus berkarya memperoleh signifikansi estetis dan martabat moral.
 
 ### 2. Metodologi Formulasi Proyek Eksistensial (*Le Projet*)
 
-Penciptaan makna bukanlah perenungan pasif yang solipsistik, melainkan praksis keterlibatan aktif (*engagement*). Formulasi pembentukan proyek eksistensial bertumpu pada tiga tahapan konseptual:
+Penciptaan makna adalah praksis keterlibatan aktif (*engagement*). Formulasi pembentukan proyek eksistensial bertumpu pada tiga tahapan konseptual:
 
 #### a. Audit Nilai Otentik
 Mendekonstruksi tujuan-tujuan palsu (*mauvaise foi*) yang diadopsi dari konformitas sosial, ekspektasi keluarga, atau hegemoni budaya populer.
@@ -51,6 +51,6 @@ Ketika seorang individu mengalami disrupsi struktural dalam kehidupannya (sepert
 - **Respons Pasif:** Mengidentifikasikan esensi diri secara kaku dengan status fungsional masa lalu, sehingga kehilangan peran sosial dianggap sebagai kehancuran eksistensi.
 - **Respons Eksistensial Otentik:** Menyadari bahwa peran masa lalu hanyalah faktisitas historis. Subjek menggunakan ruang kebebasan baru untuk merumuskan ulang proyek eksistensialnya melalui praksis yang selaras dengan nilai-nilai otentik.
 
-### 5. Makna Dibentuk, Bukan Ditemukan
+### 5. Makna Dibentuk oleh Kehendak Bebas
 
-Makna bukanlah artefak metafisik yang tertanam di kosmos untuk ditemukan secara pasif. Makna adalah konstruksi sadar yang dibentuk oleh kehendak bebas manusia di tengah ketidakpastian. Dengan menegakkan komitmen praksis dan merangkul kontingensi duniawi, manusia membuktikan kedaulatannya sebagai arsitek atas keberadaannya.
+Makna adalah konstruksi sadar yang dibentuk oleh kehendak bebas manusia di tengah ketidakpastian. Dengan menegakkan komitmen praksis dan merangkul kontingensi duniawi, manusia membuktikan kedaulatannya sebagai arsitek atas keberadaannya.

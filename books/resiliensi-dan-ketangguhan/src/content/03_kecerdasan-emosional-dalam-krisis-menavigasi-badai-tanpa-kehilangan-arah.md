@@ -10,7 +10,7 @@ Sebelum belajar mengelola emosi, kita harus memahami mengapa emosi bisa mengabur
 
 Dalam situasi krisis, amigdala sering kali mengambil alih kendali sebelum bagian otak rasional kita (**Prefrontal Cortex**) sempat berpikir. Inilah yang disebut dengan *Amygdala Hijack*.
 
-> **Analogi Dashboard Mobil:** Bayangkan emosi negatif seperti lampu indikator menyala merah di dashboard mobilmu. Jika kamu panik dan langsung membanting setir, kamu mungkin akan kecelakaan. Namun, jika kamu mengabaikannya, mesin bisa rusak. EQ mengajarkanmu untuk melihat lampu itu, memahami apa artinya (misalnya: mesin panas), dan mengambil tindakan perbaikan yang tepat tanpa kehilangan kendali atas kemudi.
+> **Analogi Dashboard Mobil:** Bayangkan emosi negatif seperti lampu indikator menyala merah di dashboard mobilmu. Jika kamu panik dan langsung membanting setir, kamu mungkin akan kecelakaan. Namun, jika kamu mengabaikannya, mesin bisa rusak. EQ mengajarkanmu untuk melihat lampu itu, memahami apa artinya (misalnya mesin panas), dan mengambil tindakan perbaikan yang tepat tanpa kehilangan kendali atas kemudi.
 
 Secara matematis, kita bisa melihat hubungan antara intensitas emosi dan kapasitas berpikir rasional sebagai berikut:
 
@@ -22,7 +22,7 @@ Artinya, semakin tinggi emosimu (marah, takut, panik), semakin kecil ruang yang 
 
 ### 2. Teknik "Name It to Tame It"
 
-Langkah pertama dalam mengelola emosi di bawah tekanan adalah dengan **mengenalinya**, bukan menekannya. Penelitian menunjukkan bahwa menyebutkan nama emosi yang dirasakan dapat menurunkan aktivitas di pusat ketakutan otak.
+Langkah pertama dalam mengelola emosi di bawah tekanan adalah **mengenalinya** tanpa menekannya. Penelitian menunjukkan bahwa menyebutkan nama emosi yang dirasakan dapat menurunkan aktivitas di pusat ketakutan otak.
 
 **Latihan Self-Scanning:** Saat tekanan meningkat, tanyakan pada diri sendiri secara spesifik:
 
@@ -40,7 +40,7 @@ Dalam krisis, ruang ini sering kali terasa sempit. Teknik untuk memperlebar ruan
 1. **S (Stop):** Berhenti sejenak dari apa pun yang sedang kamu lakukan atau katakan.
 2. **T (Take a breath):** Ambil napas dalam. Ini membantu menenangkan sistem saraf yang terpicu.
 3. **O (Observe):** Amati apa yang terjadi di dalam tubuhmu dan apa yang sedang kamu pikirkan tanpa menghakimi.
-4. **P (Proceed):** Lanjutkan tindakanmu setelah emosi sedikit mereda, dengan bertanya: *"Tindakan apa yang paling efektif saat ini?"*
+4. **P (Proceed):** Lanjutkan tindakanmu setelah emosi sedikit mereda, dengan bertanya, *"Tindakan apa yang paling efektif saat ini?"*
 
 ### 4. Mengelola Emosi untuk Keputusan Rasional
 
@@ -74,6 +74,6 @@ Ingatlah satu kejadian dalam seminggu terakhir ketika kamu merasa sangat terteka
 2. Bagaimana emosi tersebut memengaruhi caramu berbicara atau bertindak saat itu?
 3. Jika kamu bisa mengulang kejadian itu dengan teknik **S.T.O.P**, apa yang akan berubah?
 
-> **Insight:** Memiliki kecerdasan emosional tidak berarti kamu tidak pernah merasa marah, sedih, atau takut. EQ berarti kamu memiliki hubungan yang sehat dengan emosi tersebut: kamu merasakannya, tetapi tidak membiarkan emosi itu memegang kendali atas nilai-nilai dan tindakan jangka panjangmu.
+> **Insight:** EQ berarti kamu memiliki hubungan yang sehat dengan rasa marah, sedih, atau takut. Kamu merasakan emosi itu, lalu menjaganya agar tidak memegang kendali atas nilai-nilai dan tindakan jangka panjangmu.
 
 Dengan melatih kecerdasan emosional, kamu sedang membangun fondasi resiliensi yang kokoh. Kamu belajar bahwa meskipun tidak bisa mengendalikan arah angin (krisis), kamu selalu memiliki kendali atas bagaimana kamu mengatur layar (emosi dan responsmu).

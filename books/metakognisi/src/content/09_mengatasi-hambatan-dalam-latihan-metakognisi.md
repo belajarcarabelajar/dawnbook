@@ -56,7 +56,7 @@ Inti dari metakognisi adalah menyadari proses berpikirmu sendiri. Kalau kesadara
 
 ## Strategi Praktis Menghadapi Hambatan
 
-Untuk mengatasi tantangan di atas, kamu butuh pendekatan yang tepat. Berikut ini beberapa solusi yang bisa langsung dipraktikkan:
+Untuk mengatasi tantangan di atas, kamu butuh pendekatan yang tepat. Berikut ini beberapa solusi yang bisa langsung dipraktikkan.
 
 ### Mengatasi Kurangnya Motivasi
 
@@ -72,22 +72,22 @@ Untuk mengatasi tantangan di atas, kamu butuh pendekatan yang tepat. Berikut ini
 ### Memperbaiki Kebiasaan Belajar
 
 1. **Praktikkan Active Learning**
-   Tinggalkan kebiasaan sekadar membaca materi berulang kali. Ganti dengan metode *active recall*, membuat rangkuman memakai bahasa sendiri, menjelaskan materi ke teman, atau memperbanyak latihan soal. Contoh gampangnya: selesai membaca satu paragraf, tutup bukunya lalu coba tulis ulang ide utamanya dari ingatan.
+   Tinggalkan kebiasaan sekadar membaca materi berulang kali. Ganti dengan metode *active recall*, membuat rangkuman memakai bahasa sendiri, menjelaskan materi ke teman, atau memperbanyak latihan soal. Misalnya, selesai membaca satu paragraf, tutup bukunya lalu coba tulis ulang ide utamanya dari ingatan.
 2. **Gunakan Spaced Repetition**
    Sebarkan waktu belajarmu ke dalam beberapa sesi di hari yang berbeda. Jangan ditumpuk semalaman sebelum ujian. Retensi ingatan jangka panjang bakal lebih bagus kalau kamu meninjau ulang materi secara bertahap, misal hari ini, tiga hari lagi, lalu seminggu kemudian.
 3. **Coba Teknik Pomodoro**
    Fokus belajar selama rentang waktu tertentu (misalnya 25 menit) lalu diselingi istirahat pendek (5 menit). Cara ini lumayan efektif untuk menjaga konsentrasi dan mencegah otak cepat lelah. Pas jam istirahat, hindari memikirkan hal-hal yang berat.
 4. **Lakukan Refleksi Setelah Belajar**
-   Selesai mengerjakan tugas, sisihkan 5-10 menit buat berpikir: "Apa yang tadi berjalan lancar? Bagian mana yang masih kurang? Strategi apa yang pas? Apa yang harus diubah untuk sesi berikutnya?" Kebiasaan ini adalah praktik metakognisi.
+   Selesai mengerjakan tugas, sisihkan 5-10 menit buat memikirkan pertanyaan seperti "Apa yang tadi berjalan lancar? Bagian mana yang masih kurang? Strategi apa yang pas? Apa yang harus diubah untuk sesi berikutnya?" Kebiasaan ini adalah praktik metakognisi.
 
 ### Menghindari Bias Kognitif
 
 1. **Pahami Jenis Bias**
    Kenali berbagai macam bias kognitif yang ada supaya kamu lebih peka saat pikiranmu mulai terpengaruh. Menyadari kalau diri kita bisa saja bias adalah langkah pertama untuk menetralkannya.
 2. **Minta Feedback Orang Lain**
-   Jangan hanya mengandalkan penilaian pribadi. Minta bantuan teman atau mentor untuk mengomentari pemahamanmu. Saat mengerjakan soal latihan, jangan cuma mengecek benar atau salah di kunci jawaban, tapi cari tahu juga alasan kenapa jawabanmu bisa meleset.
+   Selain penilaian pribadi, minta bantuan teman atau mentor untuk mengomentari pemahamanmu. Saat mengerjakan soal latihan, cocokkan jawabanmu dengan kunci jawaban, lalu cari tahu alasan kenapa jawabanmu bisa meleset.
 3. **Tantang Asumsi Sendiri**
-   Sering-seringlah mempertanyakan apa yang sudah kamu yakini. Coba cari sudut pandang lain atau bukti yang mungkin berlawanan dengan pemikiranmu. Tanyakan ke dirimu sendiri: "Jangan-jangan aku cuma mencari info yang mendukung pendapatku saja?"
+   Sering-seringlah mempertanyakan apa yang sudah kamu yakini. Coba cari sudut pandang lain atau bukti yang mungkin berlawanan dengan pemikiranmu. Tanyakan ke dirimu sendiri, "Jangan-jangan aku cuma mencari info yang mendukung pendapatku saja?"
 4. **Latihan Prediksi dan Kalibrasi**
    Sebelum mengerjakan tugas atau ujian, tebak kira-kira seberapa bagus nilaimu nanti. Setelah hasilnya keluar, bandingkan dengan prediksi awalmu. Cara ini membantu agar tingkat kepercayaan diri kita lebih selaras dengan kemampuan aslinya.
 
@@ -100,7 +100,7 @@ Untuk mengatasi tantangan di atas, kamu butuh pendekatan yang tepat. Berikut ini
 3. **Buat Lingkungan yang Kondusif**
    Kurangi hal-hal yang gampang merusak fokus. Misalnya, nonaktifkan notifikasi HP atau rapikan meja belajarmu lebih dulu. Kalau perlu, tentukan satu area khusus yang memang hanya dipakai buat belajar tanpa gangguan.
 4. **Buat Batasan Diri**
-   Tentukan aturan tegas tentang kapan waktunya mulai belajar, kapan harus serius, dan kapan jadwalnya istirahat. Disiplin itu bukan sebatas memaksa diri melakukan hal yang tidak disuka, tapi lebih ke memilih hal yang paling prioritas saat ini.
+   Tentukan aturan tegas tentang kapan waktunya mulai belajar, kapan harus serius, dan kapan jadwalnya istirahat. Disiplin di sini lebih dekat ke memilih hal yang paling prioritas saat ini. Memaksa diri melakukan hal yang tidak disuka hanyalah salah satu sisinya.
 
 ### Meningkatkan Kesadaran Diri
 

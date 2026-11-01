@@ -2,7 +2,7 @@
 
 
 
-Piaget memandang anak bukan sebagai wadah kosong yang menunggu diisi, melainkan sebagai **"Ilmuwan Kecil"** yang secara aktif membangun dunianya sendiri. Bab ini akan menyintesis bagaimana perjalanan dari gerakan refleks seorang bayi bertransformasi menjadi pemikiran sistematis seorang ilmuwan atau filsuf.
+Piaget memandang anak sebagai **"Ilmuwan Kecil"** yang secara aktif membangun dunianya sendiri. Bab ini akan menyintesis bagaimana perjalanan dari gerakan refleks seorang bayi bertransformasi menjadi pemikiran sistematis seorang ilmuwan atau filsuf.
 
 ## 1\. Benang Merah Perkembangan
 
@@ -42,7 +42,7 @@ Penting untuk memahami apa yang dimaksud Piaget dengan "Operasi". Operasi adalah
 
 1. **Awalnya (Sensorimotor):** Anak "berpikir" dengan tangan dan mulutnya. Jika mereka tidak menyentuh benda itu, benda itu seolah tidak ada.
 2. **Transisi (Praoperasional):** Anak mulai bisa membayangkan benda di kepala mereka (simbol), tapi logika mereka masih "satu arah". Mereka belum bisa memutar balik proses mental secara konsisten.
-3. **Kematangan (Operasional):** Pada tahap konkret, mereka bisa membalikkan keadaan di dalam kepala (misalnya, $5 + 2 = 7$, maka $7 - 2 = 5$). Pada tahap formal, mereka tidak lagi butuh benda fisik; mereka bisa melakukan operasi mental pada ide-ide abstrak.
+3. **Kematangan (Operasional):** Pada tahap konkret, mereka bisa membalikkan keadaan di dalam kepala (misalnya, $5 + 2 = 7$, maka $7 - 2 = 5$). Pada tahap formal, mereka bisa melakukan operasi mental pada ide-ide abstrak tanpa bantuan benda fisik.
 
 ## 4\. Mengapa Sintesis Ini Penting?
 
@@ -58,12 +58,12 @@ Memahami sintesis ini mengubah cara kita berinteraksi dengan anak-anak di berbag
 
 - **Hormati Kesiapan (Readiness):** Jangan memaksakan konsep abstrak (seperti aljabar murni) kepada anak yang masih berada di tahap operasional konkret.
 - **Gunakan Ketidakseimbangan (Disekuilibrium):** Berikan tantangan yang sedikit di atas kemampuan mereka saat ini untuk memicu proses akomodasi.
-- **Belajar Lewat Tindakan:** Ingatlah bahwa pengetahuan dibangun melalui aktivitas, bukan sekadar transmisi verbal.
+- **Belajar Lewat Tindakan:** Ingatlah bahwa pengetahuan dibangun melalui aktivitas, sehingga transmisi verbal saja tidak cukup.
 
 ## 5\. Refleksi Akhir
 
-Teori Piaget memberikan kita kacamata untuk melihat bahwa setiap "kesalahan" logika anak sebenarnya adalah jendela menuju cara berpikir mereka yang unik. Saat seorang balita bersikeras bahwa bulan mengikuti mereka saat berjalan, itu bukan kebodohan, melainkan cerminan dari tahap perkembangan kognitif mereka.
+Teori Piaget memberikan kita kacamata untuk melihat bahwa setiap "kesalahan" logika anak sebenarnya adalah jendela menuju cara berpikir mereka yang unik. Saat seorang balita bersikeras bahwa bulan mengikuti mereka saat berjalan, keyakinan itu mencerminkan tahap perkembangan kognitif mereka.
 
-*Bahan Refleksi: Sebagai seorang pendidik, bagaimana kamu akan menyesuaikan cara menjelaskan sebuah kesalahan kepada siswa setelah memahami bahwa kesalahan tersebut merupakan bagian alami dari proses adaptasi kognitif mereka?*
+*Sebagai bahan refleksi, coba tanyakan pada dirimu. Sebagai seorang pendidik, bagaimana kamu akan menyesuaikan cara menjelaskan sebuah kesalahan kepada siswa setelah memahami bahwa kesalahan tersebut merupakan bagian alami dari proses adaptasi kognitif mereka?*
 
 > **Poin Utama:** Perjalanan kognitif adalah transformasi dari **organisme biologis yang bereaksi** menjadi **pemikir rasional yang beraksi** terhadap dunia dengan logika dan sistematisasi.

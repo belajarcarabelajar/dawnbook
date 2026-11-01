@@ -2,15 +2,15 @@
 
 Pernahkah kamu memperhatikan seorang balita yang terus-menerus menjatuhkan sendok dari meja makannya? Bagi orang tua, ini mungkin melelahkan. Namun, dalam pandangan Jean Piaget, anak tersebut sedang melakukan eksperimen ilmiah yang penting. Ia sedang mempelajari gravitasi, suara benturan, dan konsep sebab-akibat.
 
-Dalam teori Piaget, perkembangan kognitif tidak terjadi di dalam ruang hampa. Kecerdasan bukan sekadar hadiah genetika yang muncul begitu saja seiring bertambahnya usia. Sebaliknya, kecerdasan adalah hasil dari **interaksi aktif** antara anak dengan dunia fisik di sekitarnya.
+Dalam teori Piaget, perkembangan kognitif tidak terjadi di dalam ruang hampa. Kecerdasan tumbuh dari **interaksi aktif** antara anak dengan dunia fisik di sekitarnya. Gen dan bertambahnya usia saja tidak membuatnya muncul begitu saja.
 
 ## 1\. Anak sebagai "Ilmuwan Kecil"
 
-Piaget memandang anak-anak bukan sebagai bejana kosong yang menunggu untuk diisi informasi, melainkan sebagai **ilmuwan kecil (little scientists)** yang aktif membangun pemahaman mereka sendiri.
+Piaget memandang anak-anak sebagai **ilmuwan kecil (little scientists)** yang aktif membangun pemahaman mereka sendiri. Gambaran anak sebagai bejana kosong yang menunggu untuk diisi informasi tidak cocok dengan pandangannya.
 
 Lingkungan fisik berfungsi sebagai laboratorium. Tanpa benda-benda untuk disentuh, diputar, dilempar, atau dibongkar, proses kognitif anak akan terhambat. Melalui manipulasi objek, anak-anak menguji "hipotesis" mereka tentang bagaimana dunia bekerja.
 
-> **Intisari:** Pengetahuan tidak diberikan kepada anak, tetapi **dikonstruksi** oleh anak melalui tindakan terhadap objek fisik.
+> **Intisari:** Pengetahuan **dikonstruksi** oleh anak sendiri melalui tindakan terhadap objek fisik.
 
 ## 2\. Cara Benda Fisik Mengubah Skema
 
@@ -20,7 +20,7 @@ Bagaimana tepatnya sebuah benda fisik bisa mengubah cara berpikir seorang anak? 
 
 Ketika seorang anak bertemu dengan objek fisik yang perilakunya tidak sesuai dengan apa yang ia ketahui, terjadilah gangguan keseimbangan mental.
 
-*Contoh:* Seorang anak tahu bahwa bola karet membal saat dilempar. Suatu hari, ia melempar sebuah tomat. Tomat tersebut tidak membal, melainkan hancur. Kejutan fisik ini memaksa anak untuk merevisi skemanya tentang "benda bulat".
+*Contoh:* Seorang anak tahu bahwa bola karet membal saat dilempar. Suatu hari, ia melempar sebuah tomat. Tomat tersebut hancur dan tidak membal. Kejutan fisik ini memaksa anak untuk merevisi skemanya tentang "benda bulat".
 
 ### B. Abstraksi Empiris
 
@@ -76,7 +76,7 @@ Alih-alih memberikan rumus $V = p \times l \times t$ di papan tulis, guru yang m
 **Manfaat dari pendekatan ini:**
 
 - Siswa mengalami "kejutan" fisik yang memicu akomodasi.
-- Pengetahuan tersimpan lebih lama karena dibangun dari pengalaman langsung, bukan hafalan.
+- Pengetahuan tersimpan lebih lama karena dibangun dari pengalaman langsung, tanpa bergantung pada hafalan.
 
 ## 6\. Lingkungan Fisik Ibarat Material Bangunan
 
@@ -94,8 +94,8 @@ Tanpa material bangunan yang memadai dan bervariasi, tukang bangunan tidak akan 
 
 **Poin Penting untuk Diingat:**
 
-- Lingkungan fisik bukan sekadar tempat tinggal, tapi **alat berpikir**.
+- Selain tempat tinggal, lingkungan fisik berfungsi sebagai **alat berpikir**.
 - Interaksi fisik memicu **disekuilibrium**, yang merupakan motor penggerak belajar.
 - Pengetahuan tentang dunia dimulai dari **ujung jari** anak sebelum sampai ke **logika** mereka.
 
-> **Catatan Akhir:** Peran pendidik dan orang tua bukan untuk "mengajarkan" objek tersebut, melainkan menyediakan lingkungan tempat objek-objek tersebut tersedia untuk dijelajahi dan dieksplorasi secara bebas oleh anak.
+> **Catatan Akhir:** Pendidik dan orang tua cukup menyediakan lingkungan tempat objek-objek tersebut tersedia untuk dijelajahi dan dieksplorasi secara bebas oleh anak, tanpa harus "mengajarkan" objek itu.

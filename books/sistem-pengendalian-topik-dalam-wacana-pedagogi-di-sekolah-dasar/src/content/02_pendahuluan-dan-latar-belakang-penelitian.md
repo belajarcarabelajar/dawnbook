@@ -1,8 +1,8 @@
 ## Latar Belakang dan Urgensi Analisis Interaksi Kelas
 
-Dalam studi pendidikan, perhatian peneliti sering kali tertuju pada komponen fisik dan administratif pembelajaran. Evaluasi terhadap kurikulum, penyusunan bahan ajar, pemilihan metode pengajaran, hingga pengembangan media pembelajaran digital mendominasi ruang kajian akademis. Namun, ada satu dimensi mendasar yang kerap terabaikan: bagaimana proses belajar-mengajar tersebut sesungguhnya mewujud dalam tindak tutur sehari-hari di dalam kelas.
+Dalam studi pendidikan, perhatian peneliti sering kali tertuju pada komponen fisik dan administratif pembelajaran. Evaluasi terhadap kurikulum, penyusunan bahan ajar, pemilihan metode pengajaran, hingga pengembangan media pembelajaran digital mendominasi ruang kajian akademis. Namun, kajian itu kerap melewatkan satu dimensi mendasar, yakni cara proses belajar-mengajar tersebut sesungguhnya mewujud dalam tindak tutur sehari-hari di dalam kelas.
 
-Kajian wacana pedagogi (*pedagogic discourse*) atau wacana kelas (*classroom discourse*) hadir untuk mengisi ruang kosong ini. Melalui kacamata linguistik terapan, kelas tidak lagi dilihat hanya sebagai ruang fisik tempat materi disampaikan, melainkan sebagai sebuah lingkungan komunikasi yang memiliki struktur bahasa dan norma sosial tersendiri.
+Kajian wacana pedagogi (*pedagogic discourse*) atau wacana kelas (*classroom discourse*) hadir untuk mengisi ruang kosong ini. Melalui kacamata linguistik terapan, kelas dipandang sebagai lingkungan komunikasi yang memiliki struktur bahasa dan norma sosial tersendiri.
 
 > "Kajian wacana pedagogi memberikan bekal pengetahuan mendasar untuk memahami hubungan riil antara teori pedagogi dan praktiknya di lapangan."
 > (Coulthard & Brazil, 1989, dalam Marliana, 2017)
@@ -29,7 +29,7 @@ Dalam pola pertukaran (*exchange*), kerangka IRF (*Initiation - Response - Feedb
 
 ### Dinamika Kekuasaan dan Hak Bertutur (Fairclough, 1995)
 
-Wacana kelas tidak hanya mencerminkan transfer pengetahuan, tetapi juga mencerminkan distribusi kekuasaan antarpartisipan. Norman Fairclough (1995) menjelaskan bahwa interaksi bahasa di dalam kelas selalu terikat pada sistem hak dan kewajiban bertutur.
+Di samping transfer pengetahuan, wacana kelas mencerminkan distribusi kekuasaan antarpartisipan. Norman Fairclough (1995) menjelaskan bahwa interaksi bahasa di dalam kelas selalu terikat pada sistem hak dan kewajiban bertutur.
 
 Di sekolah dasar, peran sosial guru dan siswa menciptakan kontras yang jelas dalam penguasaan wacana:
 
@@ -54,7 +54,7 @@ Menganalisis wacana kelas memberikan manfaat praktis yang langsung menyentuh kua
 2. **Pengembangan Strategi Pembelajaran:** Memberi petunjuk konkret tentang bagaimana menyusun pertanyaan yang membuka ruang diskusi daripada pertanyaan tertutup yang tidak memberi ruang bagi inisiatif siswa.
 3. **Penilaian Kualitas Buku dan Bahan Ajar:** Memastikan bahwa contoh dialog dan instruksi dalam buku teks mencerminkan komunikasi autentik yang membimbing siswa berbahasa aktif.
 
-Dengan memahami wacana kelas sebagai objek kajian, kamu dapat melihat bahwa keberhasilan pendidikan tidak hanya ditentukan oleh apa yang diajarkan, tetapi juga oleh bagaimana bahasa digunakan untuk membangun hubungan belajar.
+Dengan memahami wacana kelas sebagai objek kajian, kamu dapat melihat bahwa keberhasilan pendidikan ditentukan oleh apa yang diajarkan dan oleh cara bahasa digunakan untuk membangun hubungan belajar.
 
 ---
 

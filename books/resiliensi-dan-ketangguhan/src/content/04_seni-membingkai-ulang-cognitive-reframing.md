@@ -2,17 +2,17 @@
 
 Bayangkan kamu sedang memotret sebuah pemandangan. Jika kamu mengarahkan lensa hanya pada tumpukan sampah di sudut jalan, fotomu akan terlihat kotor dan tidak menyenangkan. Namun, jika kamu sedikit menggeser sudut pandang (*angle*) kamera untuk menyertakan matahari terbenam di latar belakang, tumpukan sampah tersebut hanyalah bagian kecil dari sebuah komposisi yang lebih besar dan indah.
 
-Itulah inti dari **Cognitive Reframing** atau Membingkai Ulang Kognitif. Ini bukan tentang membohongi diri sendiri atau berpura-pura bahwa hal buruk tidak terjadi. Sebaliknya, ini adalah kemampuan untuk melihat situasi yang sama melalui "lensa" yang berbeda agar kita bisa menemukan makna yang lebih berguna.
+Itulah inti dari **Cognitive Reframing** atau Membingkai Ulang Kognitif. Teknik ini melatih kemampuan untuk melihat situasi yang sama melalui "lensa" yang berbeda agar kita bisa menemukan makna yang lebih berguna. Kamu tidak perlu membohongi diri sendiri atau berpura-pura bahwa hal buruk tidak terjadi.
 
 ### Apa itu Cognitive Reframing?
 
 Secara teknis, membingkai ulang adalah teknik psikologis yang membantu kita mengidentifikasi dan mengubah cara kita memandang suatu peristiwa, ide, atau emosi. Dalam konteks resiliensi, fokus utama kita adalah mengubah narasi tentang **kegagalan**.
 
-Filsuf Stoik Epiktetos sudah merumuskan gagasan ini hampir dua ribu tahun lalu dalam *Enchiridion* (bagian 5): manusia terganggu bukan oleh peristiwa, melainkan oleh pandangan yang mereka bentuk tentang peristiwa itu.
+Filsuf Stoik Epiktetos sudah merumuskan gagasan ini hampir dua ribu tahun lalu dalam *Enchiridion* (bagian 5). Menurutnya, yang mengganggu manusia adalah pandangan yang mereka bentuk tentang sebuah peristiwa. Peristiwa itu sendiri tidak.
 
 ### Mengubah Kegagalan dari Vonis Menjadi Data
 
-Bagi banyak orang, kegagalan dirasakan sebagai sebuah akhir atau vonis terhadap identitas diri. Kita cenderung berpikir: *"Saya gagal, berarti saya pecundang."* Dalam seni membingkai ulang, kita mengubah struktur kalimat tersebut menjadi sesuatu yang lebih analitis dan produktif.
+Bagi banyak orang, kegagalan dirasakan sebagai sebuah akhir atau vonis terhadap identitas diri. Kita cenderung berpikir, *"Saya gagal, berarti saya pecundang."* Dalam seni membingkai ulang, kita mengubah struktur kalimat tersebut menjadi sesuatu yang lebih analitis dan produktif.
 
 Mari kita gunakan pendekatan matematis sederhana untuk memahami pergeseran ini:
 
@@ -32,13 +32,13 @@ $$
 $$
 </div>
 
-Dalam perspektif ini, kegagalan bukan lagi sebuah serangan terhadap harga dirimu, melainkan sebuah **umpan balik (feedback)**.
+Dalam perspektif ini, kegagalan adalah sebuah **umpan balik (feedback)** yang tidak lagi menyerang harga dirimu.
 
 ### Cara Ilmuwan Memandang Eksperimen Gagal
 
 Bayangkan seorang ilmuwan yang sedang mencoba menciptakan obat baru. Dia mencampurkan dua zat kimia, dan tiba-tiba tabung reaksinya mengeluarkan asap hitam. Eksperimennya gagal.
 
-Apakah ilmuwan itu akan pulang, menangis, dan mengatakan, *"Saya adalah ilmuwan yang bodoh, saya menyerah"*? Tentu tidak. Dia akan mengambil catatan dan menulis: *"Zat A tidak bereaksi dengan baik pada suhu 100°C dengan Zat B. Saya butuh data baru."*
+Apakah ilmuwan itu akan pulang, menangis, dan mengatakan, *"Saya adalah ilmuwan yang bodoh, saya menyerah"*? Tentu tidak. Dia akan mengambil catatan dan menulis, *"Zat A tidak bereaksi dengan baik pada suhu 100°C dengan Zat B. Saya butuh data baru."*
 
 Bagi sang ilmuwan, kegagalan hanyalah **satu titik data lagi** yang membawa dia lebih dekat pada formula yang benar.
 
@@ -50,8 +50,8 @@ Untuk menguasai seni ini, kamu bisa mengikuti langkah-langkah sistematis berikut
 
 1. **Identifikasi Narasi Otomatis (The "Automatic Thought")** Sadarilah saat kamu mulai menyalahkan diri sendiri.
 	- *Contoh:* "Bisnis saya tutup. Saya tidak punya bakat jadi pengusaha."
-2. **Tantang Narasi Tersebut (Evidence Check)** Tanyakan pada diri sendiri: *"Apakah ini benar-benar fakta objektif, atau hanya perasaan saya saat ini?"*
-3. **Cari Data yang Tersembunyi (Mining for Data)** Alih-alih meratapi apa yang hilang, tanyakan: *"Informasi spesifik apa yang saya dapatkan dari kegagalan ini yang tidak saya miliki sebelumnya?"*
+2. **Tantang Narasi Tersebut (Evidence Check)** Tanyakan pada diri sendiri, *"Apakah ini benar-benar fakta objektif, atau hanya perasaan saya saat ini?"*
+3. **Cari Data yang Tersembunyi (Mining for Data)** Alih-alih meratapi apa yang hilang, tanyakan, *"Informasi spesifik apa yang saya dapatkan dari kegagalan ini yang tidak saya miliki sebelumnya?"*
 4. **Tulis Ulang Naskahnya (The Rewrite)** Ubah pernyataan tersebut menjadi berorientasi pada tindakan di masa depan.
 	- *Reframing:* "Bisnis ini tidak berjalan karena model distribusinya lemah. Sekarang saya tahu cara mana yang harus dihindari untuk proyek berikutnya."
 
@@ -76,7 +76,7 @@ Sering kali orang bingung membedakan antara berpikir positif (optimisme) dan mem
 | **Tujuan** | Merasa lebih baik secara instan. | Memperbaiki strategi untuk masa depan. |
 | **Tindakan** | Pasif. | Aktif dan adaptif. |
 
-**Penting:** Membingkai ulang bukan berarti kamu tidak boleh merasa sedih atau kecewa. Izinkan dirimu merasakan emosi tersebut, tetapi jangan biarkan emosi tersebut menulis narasi permanen tentang siapa dirimu.
+**Penting:** Saat membingkai ulang, kamu boleh merasa sedih atau kecewa. Izinkan dirimu merasakan emosi tersebut, tetapi jangan biarkan emosi tersebut menulis narasi permanen tentang siapa dirimu.
 
 ### Mengubah "Beban" Menjadi "Latihan"
 

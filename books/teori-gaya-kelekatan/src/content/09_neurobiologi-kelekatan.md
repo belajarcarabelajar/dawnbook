@@ -1,6 +1,6 @@
 ## Neurobiologi Kelekatan
 
-Pernahkah kamu bertanya-tanya mengapa aroma seseorang yang kamu cintai bisa seketika menenangkan detak jantung kamu? Atau mengapa penolakan dari pasangan terasa seperti rasa sakit fisik yang nyata? Jawabannya ada di sirkuit saraf kita, tidak hanya di "hati".
+Pernahkah kamu bertanya-tanya mengapa aroma seseorang yang kamu cintai bisa seketika menenangkan detak jantung kamu? Atau mengapa penolakan dari pasangan terasa seperti rasa sakit fisik yang nyata? Selain di "hati", jawabannya ada di sirkuit saraf kita.
 
 Kelekatan (*attachment*) adalah proses biologis yang nyata, lebih dari sekadar konsep psikologis abstrak. Hubungan awal kita dengan pengasuh berperan sebagai arsitek yang membangun struktur fisik otak kita.
 
@@ -46,7 +46,7 @@ Dopamin mengaktifkan sistem penghargaan (*reward system*) di otak. Saat pengasuh
 
 ## 4. Teori Polivagal dan Sistem Saraf Otonom
 
-Bagaimana kelekatan memengaruhi tubuh kita secara fisik? Stephen Porges memperkenalkan Teori Polivagal yang menjelaskan tiga tingkatan status sistem saraf kita:
+Bagaimana kelekatan memengaruhi tubuh kita secara fisik? Stephen Porges memperkenalkan Teori Polivagal yang menjelaskan tiga tingkatan status sistem saraf kita.
 
 Pertama, **Sistem Keterlibatan Sosial (Social Engagement)** yang aktif saat kita merasa aman. Di fase ini, saraf kranial membantu kita menunjukkan ekspresi wajah dan suara yang hangat untuk terhubung dengan orang lain.
 
@@ -54,7 +54,7 @@ Kedua, **Respons Lawan atau Lari (Fight or Flight)** yang dipicu oleh sistem sar
 
 Ketiga, **Respons Freeze (Lumpuh)** yang terjadi saat ancaman terlalu besar, membuat tubuh melakukan *shutdown* secara biologis sebagai pertahanan terakhir. Kondisi ini sering terlihat pada individu dengan gaya kelekatan disorganisasi (*fearful-avoidant*).
 
-Kamu mungkin pernah merasa lidah kamu kelu atau tubuh kamu kaku saat berhadapan dengan konflik dengan orang terdekat. Reaksi ini sebenarnya muncul karena sistem saraf kamu mengambil alih kendali untuk bertahan hidup, bukan karena rasa malu semata.
+Kamu mungkin pernah merasa lidah kamu kelu atau tubuh kamu kaku saat berhadapan dengan konflik dengan orang terdekat. Reaksi ini sebenarnya muncul karena sistem saraf kamu mengambil alih kendali untuk bertahan hidup. Rasa malu saja tidak cukup menjelaskannya.
 
 ## 5. Jendela Toleransi (Window of Tolerance)
 
@@ -76,7 +76,7 @@ Sebagai contoh, mari kita bayangkan situasi konflik antara Andi, yang memiliki k
 
 Saat pertengkaran terjadi, amigdala Andi langsung bereaksi aktif dan memicu kekhawatiran bahwa Budi akan pergi. Detak jantungnya meningkat dan kadar kortisol di tubuhnya naik, mendorongnya untuk terus mengejar Budi demi mendapatkan kepastian. Di sisi lain, sistem saraf Budi merasa kewalahan (*overwhelmed*). Untuk melindungi dirinya dari tekanan emosional tersebut, ia masuk ke mode mati rasa (*hipo-arousal*), memilih diam, dan menjauh.
 
-Penting untuk memahami bahwa reaksi ini adalah respons otomatis dari sistem saraf, bukan disengaja untuk menyakiti. Melalui proses regulasi bersama (*co-regulation*), seperti pelukan hangat atau bernapas tenang bersama, pasangan dapat membantu meredakan produksi hormon stres satu sama lain dan kembali ke dalam jendela toleransi mereka.
+Penting untuk memahami bahwa reaksi ini adalah respons otomatis dari sistem saraf yang tidak dimaksudkan untuk menyakiti. Melalui proses regulasi bersama (*co-regulation*), seperti pelukan hangat atau bernapas tenang bersama, pasangan dapat membantu meredakan produksi hormon stres satu sama lain dan kembali ke dalam jendela toleransi mereka.
 
 ## Harapan dalam Neuroplastisitas
 
@@ -86,4 +86,4 @@ Seperti kata sebuah ungkapan, luka yang lahir dari sebuah hubungan hanya bisa di
 
 Saat kamu merasa cemas dalam sebuah hubungan, cobalah untuk memperhatikan di bagian tubuh mana kamu merasakan ketegangan tersebut. Menyadari reaksi fisik ini membantu kamu memahami bahwa tubuh kamu sedang menjalankan pola pertahanan lama. Dengan kesadaran ini, kamu memiliki kemampuan untuk melatih kembali respons sistem saraf tersebut melalui kehadiran diri yang tenang.
 
-Kamu juga tidak harus melakukannya sendirian: lewat regulasi bersama, pelukan hangat atau napas tenang bersama pasangan ikut membantu sistem sarafmu kembali ke dalam jendela toleransi.
+Kamu juga tidak harus melakukannya sendirian. Lewat regulasi bersama, pelukan hangat atau napas tenang bersama pasangan ikut membantu sistem sarafmu kembali ke dalam jendela toleransi.

@@ -1,6 +1,6 @@
 ## Hakikat Kehendak Bebas
 
-Kehendak bebas dalam eksistensialisme merupakan kapasitas radikal subjek untuk menentukan tindakan di tengah ketidakpastian realitas. Subjek melakukannya tanpa paksaan determinisme. Kehendak bebas bukan sekadar konsep metafisika teoretis, melainkan kondisi eksistensial niscaya yang menempatkan manusia sebagai agen otonom yang memegang kendali penuh atas trayektori kehidupannya.
+Kehendak bebas dalam eksistensialisme merupakan kapasitas radikal subjek untuk menentukan tindakan di tengah ketidakpastian realitas. Subjek melakukannya tanpa paksaan determinisme. Kehendak bebas adalah kondisi eksistensial niscaya yang menempatkan manusia sebagai agen otonom yang memegang kendali penuh atas trayektori kehidupannya.
 
 ### 1. Kehendak Bebas Menghadapi Tiga Determinisme
 
@@ -10,9 +10,9 @@ Dalam diskursus filsafat dan sains, kehendak bebas kerap dihadapkan secara biner
 - **Determinisme Struktural-Sosial:** Asumsi bahwa seluruh pilihan individu hanyalah produk pasif dari hegemoni norma, kelas sosial, dan kebudayaan.
 - **Determinisme Materialistik-Biologis:** Reduksi keputusan kehendak sadar semata-mata pada aktivitas elektrokimia otak dan dorongan evolusioner genetik.
 
-Eksistensialisme tidak menyangkal adanya kendala material objektif, melainkan menegaskan bahwa modalitas respons sadar terhadap kendala tersebut senantiasa terbuka lebar bagi kehendak bebas manusia.
+Eksistensialisme mengakui adanya kendala material objektif. Pada saat yang sama, aliran ini menegaskan bahwa modalitas respons sadar terhadap kendala tersebut senantiasa terbuka lebar bagi kehendak bebas manusia.
 
-Sartre menyebut gagasan ini prinsip pertama eksistensialisme: manusia tidak lain adalah apa yang ia bentuk dari dirinya sendiri.
+Sartre menyebut gagasan bahwa manusia tidak lain adalah apa yang ia bentuk dari dirinya sendiri sebagai prinsip pertama eksistensialisme.
 
 ### 2. Dialektika Faktisitas dan Transendensi
 
@@ -48,7 +48,7 @@ Ketika seseorang bersikap pasif dan membiarkan institusi luar mendikte haluan hi
 Pengejawantahan kehendak bebas dalam realitas konkret memerlukan disiplin kognitif dan keberanian moral:
 
 1. **Artikulasi Ruang Jeda Kesadaran:** Menginterupsi respons instingtif otomatis dengan menghadirkan jeda reflektif sebelum mengambil tindakan terhadap stimulus eksternal.
-2. **Transformasi Faktisitas:** Menjadikan batasan objektif bukan sebagai alasan kepasrahan, melainkan sebagai batu pijakan untuk melancarkan proyek transendensi.
+2. **Transformasi Faktisitas:** Menjadikan batasan objektif sebagai batu pijakan untuk melancarkan proyek transendensi.
 3. **Akseptasi Konsekuensi Etis:** Menyadari bahwa kedaulatan memilih selalu berjalan beriringan dengan kesiapan memikul implikasi moral dan praktis dari pilihan tersebut.
 
 ### 6. Empat Sisi Kehendak Bebas

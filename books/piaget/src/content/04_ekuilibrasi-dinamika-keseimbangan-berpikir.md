@@ -10,7 +10,7 @@ Singkatnya, **ekuilibrasi adalah proses pencarian keseimbangan terus-menerus ant
 
 Manusia itu makhluk pencari keteraturan. Kita benci bingung. Ketika fakta baru bertabrakan dengan skema lama, muncullah rasa gelisah. Kondisi tak nyaman ini bernama **disekuilibrium**. Ekuilibrasi hadir sebagai dorongan biologis untuk kabur dari kegelisahan tersebut menuju titik seimbang yang baru.
 
-> Ekuilibrasi itu proses dinamis tanpa henti. Bayangkan sedang bersepeda: kamu terpaksa memutar kemudi ke kanan dan kiri seiring waktu, hanya supaya tubuh tidak terpelanting jatuh.
+> Ekuilibrasi itu proses dinamis tanpa henti. Bayangkan sedang bersepeda. Kamu terpaksa memutar kemudi ke kanan dan kiri seiring waktu, hanya supaya tubuh tidak terpelanting jatuh.
 
 ### 2\. Siklus Pertumbuhan Kognitif
 
@@ -61,30 +61,30 @@ $$
 \text{Ekuilibrasi} \approx \frac{\text{Asimilasi}}{\text{Akomodasi}} \rightarrow \text{Keseimbangan Mental}
 $$
 
-*Coba pikir: Pernah ketemu orang yang keras kepala (kebanyakan asimilasi)? Atau orang yang plin-plan nggak punya prinsip (kebanyakan akomodasi)? Menurut kacamata Piaget, ekuilibrasi mereka sedang macet.*
+*Coba pikir, pernah ketemu orang yang keras kepala (kebanyakan asimilasi)? Atau orang yang plin-plan nggak punya prinsip (kebanyakan akomodasi)? Menurut kacamata Piaget, ekuilibrasi mereka sedang macet.*
 
 ### 5\. Mengapa Langit Berwarna Biru?
 
 Kita pantau ekuilibrasi bekerja lewat kisah Budi si balita.
 
-**1. Ekuilibrium.** Budi yakin langit biru karena baru saja ada yang mengecatnya. Otaknya mencerna itu sebagai fakta paten (skema: warna ada karena kuas).
+**1. Ekuilibrium.** Budi yakin langit biru karena baru saja ada yang mengecatnya. Otaknya mencerna itu sebagai fakta paten (skemanya bilang warna ada karena kuas).
 
-**2. Tantangan.** Budi melihat awan jalan-jalan. Nggak ada tanda-tanda tumpahan cat dari langit. Gurunya bilang warna biru itu gara-gara cahaya matahari, bukan tukang cat gaib.
+**2. Tantangan.** Budi melihat awan jalan-jalan. Nggak ada tanda-tanda tumpahan cat dari langit. Gurunya bilang warna biru itu gara-gara cahaya matahari. Tidak ada tukang cat gaib di atas sana.
 
 **3. Disekuilibrium.** Budi garuk-garuk kepala. *"Kalau nggak dicat, kok warnanya biru terus? Kenapa nggak luntur pas hujan deras?"* Batinnya gelisah. Pada saat inilah ekuilibrasi mulai bekerja.
 
-**4. Ekuilibrasi & Akomodasi.** Budi berusaha mencerna omongan gurunya soal cahaya. Perlahan skemanya bergeser. Warna bukan cuma soal kuas yang dioles. Ternyata cahaya bisa menghasilkan warna.
+**4. Ekuilibrasi & Akomodasi.** Budi berusaha mencerna omongan gurunya soal cahaya. Perlahan skemanya bergeser. Selain kuas yang dioles, ternyata cahaya juga bisa menghasilkan warna.
 
 **5. Ekuilibrium Baru.** Budi kembali tenang. Dunianya masuk akal lagi. Namun kali ini struktur pikirannya sudah naik satu level.
 
 ### 6\. Pentingnya "Kebingungan"
 
-Bagi dunia pendidikan dan pengasuhan, ekuilibrasi membawa satu pesan: **sedikit kebingungan itu menyehatkan.**
+Bagi dunia pendidikan dan pengasuhan, ekuilibrasi mengajarkan bahwa **sedikit kebingungan itu menyehatkan.**
 
 - **Tahan Jawabanmu:** Guru yang buru-buru ngasih kunci jawaban malah menghilangkan disekuilibrium. Tanpa rasa bingung, tak ada ekuilibrasi. Biarkan anak memikirkan pertanyaannya sebentar.
 - **Beri Tantangan Pas:**
-	- Terlalu gampang $\rightarrow$ Anak bertahan di zona ekuilibrium (hasilnya: bosan).
+	- Terlalu gampang $\rightarrow$ Anak bertahan di zona ekuilibrium (akibatnya bosan).
 	- Terlampau susah $\rightarrow$ Anak stres dan memilih balik badan (ekuilibrasi batal).
 	- **Titik Optimal:** Berikan soal yang sedikit di atas batas pemahaman mereka.
 
-**Untuk Belajarmu Sendiri:** Mentok memahami algoritma koding? Jangan buru-buru tutup laptop. Kamu sedang mengalami **disekuilibrium**. Bukannya bodoh, kamu sedang berada di ambang pemahaman berikutnya.
+**Untuk Belajarmu Sendiri:** Mentok memahami algoritma koding? Jangan buru-buru tutup laptop. Kamu sedang mengalami **disekuilibrium**, dan rasa mentok itu menandakan kamu berada di ambang pemahaman berikutnya.

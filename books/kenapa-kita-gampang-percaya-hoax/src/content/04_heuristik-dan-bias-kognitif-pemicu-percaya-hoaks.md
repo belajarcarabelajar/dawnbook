@@ -1,6 +1,6 @@
 ## Heuristik dan Bias Kognitif Pemicu Percaya Hoaks
 
-Otak kamu tidak punya waktu untuk menimbang setiap informasi yang lewat dengan teliti. Setiap hari kamu dibombardir ratusan, bahkan ribuan potongan pesan: notifikasi grup keluarga, unggahan teman, judul berita, pesan berantai. Kalau otak harus memverifikasi semuanya satu per satu, kamu tidak akan sempat melakukan apa pun. Maka otak mengambil jalan pintas. Jalan pintas inilah yang jadi celah masuk bagi hoaks.
+Otak kamu tidak punya waktu untuk menimbang setiap informasi yang lewat dengan teliti. Setiap hari kamu dibombardir ratusan, bahkan ribuan potongan pesan, mulai dari notifikasi grup keluarga, unggahan teman, dan judul berita sampai pesan berantai. Kalau otak harus memverifikasi semuanya satu per satu, kamu tidak akan sempat melakukan apa pun. Maka otak mengambil jalan pintas. Jalan pintas inilah yang jadi celah masuk bagi hoaks.
 
 Di bab ini kamu akan berkenalan dengan cara otakmu mengambil keputusan cepat, dan kenapa cara yang sama yang membuatmu efisien juga membuatmu rentan.
 
@@ -8,11 +8,11 @@ Di bab ini kamu akan berkenalan dengan cara otakmu mengambil keputusan cepat, da
 
 Pada 1974, dua psikolog, **Amos Tversky** dan **Daniel Kahneman**, menunjukkan bahwa manusia jarang berpikir seperti kalkulator statistik. Sebaliknya, kita mengandalkan **heuristik**, yaitu aturan praktis yang menyederhanakan penilaian rumit menjadi keputusan cepat.
 
-Contohnya sederhana. Kalau ada dua warung, satu ramai dan satu sepi, kamu cenderung memilih yang ramai tanpa mengecek daftar harga atau kebersihan dapurnya. Aturan praktisnya: "ramai berarti enak". Sering benar, kadang meleset. Itulah watak heuristik. Ia hemat energi, tapi tidak akurat sempurna.
+Contohnya sederhana. Kalau ada dua warung, satu ramai dan satu sepi, kamu cenderung memilih yang ramai tanpa mengecek daftar harga atau kebersihan dapurnya. Aturan praktis yang kamu pakai adalah "ramai berarti enak". Sering benar, kadang meleset. Itulah watak heuristik. Ia hemat energi, tapi tidak akurat sempurna.
 
 Masalahnya, jalan pintas yang berguna untuk memilih warung juga dipakai untuk menilai kebenaran informasi. Dan di situ hoaks menyelinap. Pembuat hoaks tidak perlu membuat kebohongan yang sempurna. Ia cukup membuat kebohongan yang lolos dari jalan pintas otakmu.
 
-> Heuristik bukan cacat. Ia adalah fitur yang membuat manusia sanggup hidup di dunia yang kelewat rumit. Persoalannya, fitur ini bisa dibajak.
+> Heuristik adalah fitur yang membuat manusia sanggup hidup di dunia yang kelewat rumit. Persoalannya, fitur ini bisa dibajak.
 
 ### Bias konfirmasi
 
@@ -23,7 +23,7 @@ Lihat pola ini dalam keseharian:
 - Kamu sudah tidak suka pada suatu tokoh. Lalu muncul kabar buruk soal dia. Kamu langsung percaya dan membagikannya, tanpa merasa perlu mengecek.
 - Kabar baik tentang tokoh yang sama? Kamu curiga, kamu cari cacatnya, kamu anggap pencitraan.
 
-Hoaks yang "sesuai selera" adalah yang paling gampang menyebar, karena ia tidak menantang keyakinanmu, ia **memeluknya**. Kamu tidak merasa sedang ditipu. Kamu merasa sedang dibenarkan. Inilah kenapa hoaks politik, hoaks kesehatan, dan hoaks berbau kelompok mudah lengket: mereka membidik keyakinan yang sudah ada, bukan menciptakan keyakinan baru.
+Hoaks yang "sesuai selera" adalah yang paling gampang menyebar, karena ia **memeluk** keyakinanmu. Saat membacanya, kamu merasa sedang dibenarkan. Inilah kenapa hoaks politik, hoaks kesehatan, dan hoaks berbau kelompok mudah lengket. Sasarannya keyakinan yang sudah ada di kepalamu.
 
 ### Heuristik ketersediaan
 
@@ -37,15 +37,15 @@ Hoaks memanfaatkan ini dengan **cerita yang dramatis dan gampang dibayangkan**. 
 
 Ada dua jalan pintas kembar yang bekerja di sini.
 
-**Heuristik familiaritas** membuat sesuatu yang terasa **familiar** lebih dipercaya. Kalau kamu sudah beberapa kali melihat klaim yang sama berseliweran, ia mulai terasa benar hanya karena akrab, bukan karena terbukti. Ini adalah fondasi dari **efek kebenaran ilusi** yang akan kita bahas di bab 5.
+**Heuristik familiaritas** membuat sesuatu yang terasa **familiar** lebih dipercaya. Kalau kamu sudah beberapa kali melihat klaim yang sama berseliweran, ia mulai terasa benar hanya karena akrab, walau belum terbukti. Ini adalah fondasi dari **efek kebenaran ilusi** yang akan kita bahas di bab 5.
 
-**Source heuristic** membuat kamu menilai kebenaran pesan dari **siapa yang tampak menyampaikannya**. Kalau sebuah kabar seolah datang dari lembaga resmi, dokter, atau media besar, kamu cenderung menurunkan kewaspadaan. Pembuat hoaks tahu ini. Maka mereka menempelkan logo kementerian, mencatut nama rumah sakit, atau membuat tangkapan layar yang meniru tampilan media terkenal. Yang dinilai bukan isi klaimnya, melainkan **kemasannya yang terlihat sah**.
+**Source heuristic** membuat kamu menilai kebenaran pesan dari **siapa yang tampak menyampaikannya**. Kalau sebuah kabar seolah datang dari lembaga resmi, dokter, atau media besar, kamu cenderung menurunkan kewaspadaan. Pembuat hoaks tahu ini. Maka mereka menempelkan logo kementerian, mencatut nama rumah sakit, atau membuat tangkapan layar yang meniru tampilan media terkenal. Akhirnya kamu menilai **kemasannya yang terlihat sah**, dan isi klaimnya terlewat.
 
 ### Kefasihan pemrosesan
 
 Ini bias yang jarang disadari tapi kuat. **Kefasihan pemrosesan** (*processing fluency*) berarti otak menafsirkan **kemudahan** dalam memproses sesuatu sebagai tanda kebenaran.
 
-Pesan yang ditulis dengan kalimat sederhana, font yang jelas, nama yang gampang diucapkan, dan alur yang mulus akan **terasa lebih benar** dibanding pesan yang berbelit, sekalipun isinya sama-sama belum terbukti. Otak menyimpulkan: "kalau ini gampang dicerna, berarti masuk akal".
+Pesan yang ditulis dengan kalimat sederhana, font yang jelas, nama yang gampang diucapkan, dan alur yang mulus akan **terasa lebih benar** dibanding pesan yang berbelit, sekalipun isinya sama-sama belum terbukti. Otak menyimpulkan bahwa kalau sesuatu gampang dicerna, berarti ia masuk akal.
 
 Karena itu hoaks yang bagus jarang bertele-tele. Ia ringkas, bombastis, dan enak dibaca sekali lewat. Kelancaran membacamu disalahartikan otak sebagai kelayakan untuk dipercaya.
 
@@ -63,7 +63,7 @@ Karena itu hoaks yang bagus jarang bertele-tele. Ia ringkas, bombastis, dan enak
 
 Kerentanan terhadap bias di atas tidak hilang hanya karena **kecerdasan**. Orang pandai pun punya otak yang sama malasnya soal jalan pintas. Orang yang berpendidikan tinggi sekalipun bisa lebih lihai membela hoaks yang cocok dengan keyakinannya, karena ia punya lebih banyak amunisi argumen untuk membenarkan bias konfirmasinya.
 
-Jadi pertahanan pertama bukanlah merasa "aku terlalu pintar untuk tertipu". Justru sebaliknya. Pertahanan pertama adalah **menyadari bahwa otakmu memang dirancang untuk mengambil jalan pintas**, lalu sengaja memperlambat diri di titik-titik yang rawan: saat sebuah kabar terasa terlalu pas dengan selera, terlalu dramatis, terlalu akrab, terlalu resmi, atau terlalu mulus.
+Jadi pertahanan pertama adalah **menyadari bahwa otakmu memang dirancang untuk mengambil jalan pintas**, lalu sengaja memperlambat diri di titik-titik yang rawan, yaitu saat sebuah kabar terasa terlalu pas dengan selera, terlalu dramatis, terlalu akrab, terlalu resmi, atau terlalu mulus. Merasa "aku terlalu pintar untuk tertipu" tidak akan menolongmu di sini.
 
 ## Benang Merah
 
@@ -72,6 +72,6 @@ Jadi pertahanan pertama bukanlah merasa "aku terlalu pintar untuk tertipu". Just
 - **Heuristik ketersediaan** membuat cerita yang dramatis dan mudah dibayangkan terasa lebih benar.
 - **Familiaritas** dan **source heuristic** membuat yang akrab dan yang tampak resmi lebih dipercaya, tanpa memeriksa isinya.
 - **Kefasihan pemrosesan** membuat pesan yang mudah dibaca disalahartikan sebagai pesan yang benar.
-- Pembuat hoaks tidak menaklukkan logikamu, mereka membajak jalan pintasmu.
+- Pembuat hoaks cukup membajak jalan pintasmu, tanpa perlu menaklukkan logikamu.
 
-Salah satu jalan pintas di atas layak dibahas tersendiri. Ketika sebuah klaim palsu diulang cukup sering, ia mulai terasa benar hanya karena akrab di telinga. Di bab 5 kita akan membedah fenomena itu secara khusus: **Efek Kebenaran Ilusi**.
+Salah satu jalan pintas di atas layak dibahas tersendiri. Ketika sebuah klaim palsu diulang cukup sering, ia mulai terasa benar hanya karena akrab di telinga. Di bab 5 kita akan membedah fenomena bernama **efek kebenaran ilusi** itu secara khusus.

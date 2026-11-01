@@ -1,4 +1,4 @@
-Ketika proyek Rust berkembang dari sekadar "Hello World" menjadi aplikasi berskala produksi, memahami sintaksis bukan lagi tantangan terbesarnya. Kini yang paling berat adalah merancang **organisasi** kode. Tanpa struktur yang terencana, direktori `src` akan cepat menjadi berantakan dan membingungkan.
+Ketika proyek Rust berkembang dari "Hello World" menjadi aplikasi produksi, tantangan terbesarnya bergeser ke perancangan **organisasi** kode. Tanpa struktur yang terencana, direktori `src` akan cepat menjadi berantakan dan membingungkan.
 
 Para praktisi Rust (Rustaceans) menggunakan pola standar dan praktik terbaik tertentu untuk menjaga basis kode bersih, modular, dan mudah dipelihara.
 
@@ -32,7 +32,7 @@ src/
     └── connection.rs
 ```
 
-## 2. Pengelompokan Berdasarkan Domain (Bukan Tipe)
+## 2. Pengelompokan Berdasarkan Domain
 
 Jika kamu terbiasa dengan bahasa pemrograman lain, kamu mungkin sering mengelompokkan file berdasarkan tipenya (seperti meletakkan semua model di folder `models` dan semua controller di folder `controllers`). Di Rust, pendekatan yang lebih disarankan adalah mengelompokkan kode berdasarkan **Domain Bisnis** atau **Fitur**.
 
@@ -142,6 +142,6 @@ pub use crate::products::store::ProductStore;
 | **Modular Testing** | Terapkan atribut `#[cfg(test)]` agar kode pengujian tidak membebani ukuran biner produksi. |
 | **Modern Pattern** | Pilih salah satu antara pola lama `folder/mod.rs` atau pola baru `folder.rs` bersama folder pendamping, lalu terapkan secara konsisten. |
 
-> "Sistem modul bukan sekadar cara membagi file, melainkan bagaimana kamu memetakan alur pemikiran ke dalam struktur fisik kode."
+> "Lewat sistem modul, kamu memetakan alur pemikiran ke dalam struktur fisik kode."
 
 Menerapkan pola organisasi sejak awal akan membuat proyek Rust kamu tetap nyaman dikelola, bahkan ketika baris kodenya sudah berkembang hingga puluhan ribu baris.

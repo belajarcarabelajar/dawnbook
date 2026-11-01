@@ -42,7 +42,7 @@ Kelompok ini tersusun hampir sepenuhnya oleh tetesan air cair. Proses mikrofisik
 
 ### 3. Awan dengan Pertumbuhan Vertikal
 
-Awan pada kategori ini tidak terbatas pada satu tingkatan elevasi tertentu, melainkan berkembang secara vertikal menembus berbagai lapisan atmosfer akibat instabilitas konvektif yang kuat.
+Awan pada kategori ini berkembang secara vertikal dan menembus beberapa lapisan atmosfer sekaligus akibat instabilitas konvektif yang kuat.
 
 #### *Cumulus* (Cu)
 
@@ -97,4 +97,4 @@ Pemahaman mengenai morfologi awan memberikan pemetaan kondisi cuaca yang penting
 | ***Stratus*** | Rendah (< 2 km) | Air Cair | Kondisi stabil, kondensasi difusional tetesan |
 | ***Cumulonimbus*** | Vertikal (0,5–18 km) | Air, Es, Graupel | Konveksi mendalam, pemisahan muatan & presipitasi lebat |
 
-Dengan memahami morfologi awan, analisis atmosfer tidak lagi terbatas pada kenampakan visual di langit, melainkan mampu membaca penanda termodinamika alami yang menggambarkan dinamika mikrofisika di atmosfer.
+Dengan memahami morfologi awan, kamu bisa membaca bentuk awan di langit sebagai penanda termodinamika alami yang menggambarkan dinamika mikrofisika di atmosfer.

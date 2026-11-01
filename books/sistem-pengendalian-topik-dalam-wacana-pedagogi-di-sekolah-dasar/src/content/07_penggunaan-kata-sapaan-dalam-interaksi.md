@@ -1,6 +1,6 @@
 ## Penggunaan Kata Sapaan dalam Mengatur Interaksi Kelas
 
-Dalam wacana kelas sekolah dasar, bahasa tidak hanya menyampaikan materi, tetapi juga mengatur tata tertib komunikasi dan hubungan antarpenutur. Salah satu piranti kebahasaan yang memegang peran mendasar dalam dinamika ini adalah kata sapaan. Bentuk-bentuk sapaan seperti *Pak*, *Bu*, *Anak-anak*, serta pemanggilan nama diri siswa berfungsi mengarahkan perhatian, mengalokasikan giliran bicara, dan menjaga alur topik wacana.
+Dalam wacana kelas sekolah dasar, bahasa menyampaikan materi dan ikut mengatur tata tertib komunikasi serta hubungan antarpenutur. Salah satu piranti kebahasaan yang memegang peran mendasar dalam dinamika ini adalah kata sapaan. Bentuk-bentuk sapaan seperti *Pak*, *Bu*, *Anak-anak*, serta pemanggilan nama diri siswa berfungsi mengarahkan perhatian, mengalokasikan giliran bicara, dan menjaga alur topik wacana.
 
 Ketika guru berdiri di depan kelas dan mengucapkan kata sapaan tertentu, interaksi sosial langsung terbentuk. Sapaan menetapkan siapa yang berhak berbicara, siapa yang harus mendengarkan, serta bagaimana topik percakapan dimulai atau dialihkan. Oleh karena itu, analisis kata sapaan memberikan gambaran mengenai cara otoritas dan keakraban dikelola dalam wacana pedagogi.
 
@@ -21,7 +21,7 @@ Kata sapaan dalam interaksi kelas sekolah dasar terbagi ke dalam beberapa katego
    * **Fungsi**: Digunakan oleh siswa saat meminta izin, menjawab pertanyaan, atau mengajukan topik baru. Sapaan ini menandai penghormatan sekaligus mengukuhkan batas hierarki sosial di kelas.
 
 > **Fungsi Pragmatis Kata Sapaan dalam Wacana Kelas**:
-> Sapaan lebih dari sekadar penanda identitas fisik penutur. Sapaan berfungsi sebagai alat navigasi wacana yang menetapkan hak tutur, mengontrol laju informasi, serta membentuk suasana psikologis kelas.
+> Sapaan berfungsi sebagai alat navigasi wacana yang menetapkan hak tutur, mengontrol laju informasi, serta membentuk suasana psikologis kelas.
 
 ---
 
@@ -29,7 +29,7 @@ Kata sapaan dalam interaksi kelas sekolah dasar terbagi ke dalam beberapa katego
 
 Dalam struktur interaksi *Initiation-Response-Feedback* (IRF), penyampaian pertanyaan atau perintah oleh guru sering kali disertai kata sapaan nama siswa. Teknik ini bertujuan memastikan bahwa hanya siswa yang ditunjuk yang mengambil giliran bicara, sehingga percakapan kelas tetap teratur dan siswa tidak berbicara bersamaan.
 
-Mari cermati contoh ilustrasi pertukaran dialogik di bawah ini (bukan kutipan data penelitian) yang memperlihatkan bagaimana sapaan nama digunakan untuk menunjuk penutur dan memfokuskan topik pelajaran.
+Mari cermati contoh ilustrasi pertukaran dialogik di bawah ini, yang memperlihatkan bagaimana sapaan nama digunakan untuk menunjuk penutur dan memfokuskan topik pelajaran. Contoh ini disusun sebagai gambaran dan tidak diambil dari data penelitian.
 
 | Pertukaran | Gerakan | Penutur | Ujaran |
 | :--- | :--- | :--- | :--- |
@@ -45,7 +45,7 @@ Pada pertukaran di atas, guru menggunakan sapaan kolektif *"anak-anak"* pada ger
 
 ### Pengaturan Jarak Sosial, Solidaritas, dan Kesantunan Pedagogis
 
-Penggunaan kata sapaan juga mencerminkan dinamika jarak sosial dan kesantunan (politeness) antara guru dan siswa. Dalam teori sosiolinguistik, pemilihan kata sapaan dipengaruhi oleh dua variabel utama: kekuasaan (*power*) dan solidaritas (*solidarity*).
+Penggunaan kata sapaan juga mencerminkan dinamika jarak sosial dan kesantunan (politeness) antara guru dan siswa. Dalam teori sosiolinguistik, pemilihan kata sapaan dipengaruhi oleh dua variabel utama, yaitu kekuasaan (*power*) dan solidaritas (*solidarity*).
 
 Bagan berikut memetakan dua arah pilihan sapaan guru beserta dampak masing-masing.
 

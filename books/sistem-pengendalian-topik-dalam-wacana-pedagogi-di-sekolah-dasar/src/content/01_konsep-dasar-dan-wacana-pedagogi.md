@@ -1,8 +1,8 @@
 ## Konsep Dasar dan Wacana Pedagogi di Sekolah Dasar
 
-Ruang kelas sekolah dasar merupakan tempat guru dan siswa berinteraksi lewat bahasa. Setiap tutur kata yang diucapkan oleh guru maupun siswa tidak hanya menyampaikan informasi akademis, tetapi juga membentuk struktur komunikasi tertentu. Dalam konteks ini, wacana pedagogi hadir sebagai bentuk wacana khusus yang dirancang untuk mengarahkan, mengelola, dan memfasilitasi proses belajar-mengajar.
+Ruang kelas sekolah dasar merupakan tempat guru dan siswa berinteraksi lewat bahasa. Setiap tutur kata yang diucapkan oleh guru maupun siswa menyampaikan informasi akademis sekaligus membentuk struktur komunikasi tertentu. Dalam konteks ini, wacana pedagogi hadir sebagai bentuk wacana khusus yang dirancang untuk mengarahkan, mengelola, dan memfasilitasi proses belajar-mengajar.
 
-Memahami bagaimana wacana pedagogi bekerja di tingkat sekolah dasar membantu kamu melihat dinamika pembelajaran secara lebih mendalam. Komunikasi di kelas bukan sekadar proses tukar-menukar kata, melainkan sebuah sistem terstruktur yang menentukan siapa yang memegang kendali atas alur pembicaraan.
+Memahami bagaimana wacana pedagogi bekerja di tingkat sekolah dasar membantu kamu melihat dinamika pembelajaran secara lebih mendalam. Di balik tukar-menukar kata, komunikasi di kelas membentuk sistem terstruktur yang menentukan siapa yang memegang kendali atas alur pembicaraan.
 
 Buku ini menjelaskan dan membahas penelitian Marliana (2017), [Sistem pengendalian topik dalam wacana pedagogi di sekolah dasar](https://journal.unj.ac.id/unj/index.php/aksis/article/view/3281), yang terbit di *AKSIS: Jurnal Pendidikan Bahasa dan Sastra Indonesia*. Bab demi bab setelah ini menguraikan cara penelitian itu dilakukan beserta temuannya, lalu menimbang artinya bagi kamu yang mengajar atau mengamati kelas.
 
@@ -86,7 +86,7 @@ Untuk membangun suasana kelas yang lebih interaktif dan inklusif, kamu dapat mem
 #### Konsep Pokok Wacana Pedagogi
 1. Wacana pedagogi adalah sistem komunikasi terstruktur di kelas yang dirancang untuk mencapai tujuan pembelajaran di sekolah dasar.
 2. Sistem pengendalian topik mengatur siapa yang memulai, mengarahkan, mengalihkan, dan mengesahkan gagasan dalam interaksi kelas.
-3. Struktur wacana kelas terbagi secara hierarkis dari unit terbesar hingga terkecil: *Pelajaran* -> *Transaksi* -> *Pertukaran* -> *Gerakan* -> *Tindak*.
+3. Struktur wacana kelas terbagi secara hierarkis, mulai dari unit terbesar *Pelajaran*, lalu *Transaksi*, *Pertukaran*, dan *Gerakan*, sampai unit terkecil *Tindak*.
 4. Guru mengendalikan topik melalui pertanyaan, kata sapaan, pemarkah transisi, pengabaian respons, dan penguatan respons.
 
 #### Pertanyaan Refleksi

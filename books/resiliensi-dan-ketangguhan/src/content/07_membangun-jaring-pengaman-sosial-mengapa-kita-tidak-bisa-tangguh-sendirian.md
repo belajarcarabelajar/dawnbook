@@ -8,7 +8,7 @@ Dalam perjalanan membangun resiliensi, faktor internal seperti pola pikir dan ke
 
 ### 1. Peran Komunitas
 
-Komunitas lebih dari sekumpulan orang yang tinggal di tempat yang sama atau menyukai hobi yang sama. Dalam konteks resiliensi, komunitas merupakan sistem pendukung yang memberikan rasa **memiliki (belonging)** dan **tujuan bersama**.
+Dalam konteks resiliensi, komunitas merupakan sistem pendukung yang memberikan rasa **memiliki (belonging)** dan **tujuan bersama**.
 
 **Mengapa Komunitas Penting?**
 
@@ -39,7 +39,7 @@ Tidak semua interaksi sosial memperkuat resiliensi. Hubungan yang toksik justru 
 2. **Timbal Balik (Reciprocity):** Ada keseimbangan antara memberi dan menerima dukungan.
 3. **Kejujuran yang Penuh Kasih:** Mereka berani menegurmu saat kamu salah, tetapi dengan cara yang mendukung pertumbuhanmu.
 
-Dalam sosiologi, kekuatan hubungan ini sering dikaitkan dengan konsep **Modal Sosial**. Sebagai ilustrasi sederhana (bukan rumus baku):
+Dalam sosiologi, kekuatan hubungan ini sering dikaitkan dengan konsep **Modal Sosial**. Ilustrasi sederhananya seperti ini, dan rumus ini tidak dimaksudkan sebagai rumus baku:
 
 <div>
 $$
@@ -58,7 +58,7 @@ Keterangan:
 
 ### 4. Membangun Jaring Sebelum Jatuh
 
-Jaring pengaman tidak bisa dibuat saat kamu sedang terjatuh; ia harus dirajut saat kamu masih berdiri tegak di atas tali.
+Jaring pengaman perlu dirajut saat kamu masih berdiri tegak di atas tali. Begitu kamu terjatuh, sudah terlambat untuk membuatnya.
 
 **Krisis Karier** Budi kehilangan pekerjaannya secara tiba-tiba karena perampingan perusahaan.
 
@@ -70,7 +70,7 @@ Jaring pengaman tidak bisa dibuat saat kamu sedang terjatuh; ia harus dirajut sa
 1. **Audit Sosial:** Identifikasi siapa saja orang-orang di hidupmu saat ini. Siapa yang memberi energi? Siapa yang menguras energi?
 2. **Investasi Waktu:** Hubungan yang kuat membutuhkan waktu. Luangkan waktu 15 menit sehari untuk sekadar bertanya kabar pada teman atau anggota keluarga secara tulus.
 3. **Bergabung dengan Kelompok Minat:** Jangan hanya fokus pada pekerjaan. Bergabunglah dengan klub buku, komunitas lari, atau kelompok relawan. Ini memperluas jaringmu di luar lingkaran profesional.
-4. **Berani Meminta Bantuan:** Resiliensi bukan berarti tidak pernah butuh bantuan. Meminta bantuan adalah tanda keberanian dan cara untuk memperkuat ikatan sosial.
+4. **Berani Meminta Bantuan:** Orang yang tangguh juga butuh bantuan. Meminta bantuan adalah tanda keberanian dan cara untuk memperkuat ikatan sosial.
 
 ### 5. Latihan Peta Jaring Pengaman
 
@@ -85,4 +85,4 @@ Untuk kamu yang lebih suka belajar melalui tindakan, cobalah latihan **"Peta Jar
 
 **Penting:** Jaring pengaman sosial adalah jalan dua arah. Untuk memiliki jaring yang kuat, kamu juga harus bersedia menjadi bagian dari jaring pengaman orang lain. Saat kamu membantu orang lain, otakmu dapat melepaskan oksitosin yang secara paradoks justru dikaitkan dengan peningkatan ketahanan mental *kamu* sendiri.
 
-> **Insight Utama:** Kemandirian yang ekstrem (Hyper-independence) sebenarnya dapat menjadi mekanisme pertahanan dari trauma, bukan tanda resiliensi. Resiliensi yang sejati adalah mengetahui kapan harus berdiri tegak dan kapan harus bersandar pada orang lain.
+> **Insight Utama:** Kemandirian yang ekstrem (Hyper-independence) sebenarnya dapat menjadi mekanisme pertahanan dari trauma. Resiliensi yang sejati adalah mengetahui kapan harus berdiri tegak dan kapan harus bersandar pada orang lain.

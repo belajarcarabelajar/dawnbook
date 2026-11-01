@@ -1,8 +1,8 @@
 ## Anatomi Sistem Reward Otak
 
-Pernahkah kamu bertanya-tanya mengapa aroma kopi pagi bisa membuatmu beranjak dari tempat tidur, atau mengapa notifikasi ponsel begitu sulit diabaikan? Ini bukan sekadar kebetulan. Di dalam tempurung kepala kamu, terdapat sebuah sirkuit biologis yang dikenal sebagai **Sistem Reward (Imbalan) Otak**.
+Pernahkah kamu bertanya-tanya mengapa aroma kopi pagi bisa membuatmu beranjak dari tempat tidur, atau mengapa notifikasi ponsel begitu sulit diabaikan? Di dalam tempurung kepala kamu, terdapat sebuah sirkuit biologis yang dikenal sebagai **Sistem Reward (Imbalan) Otak**.
 
-Sistem ini bukanlah satu organ tunggal, melainkan jaringan dari berbagai struktur saraf yang bekerja bersama untuk memastikan kita mengejar hal-hal yang mendukung kelangsungan hidup (seperti makanan dan interaksi sosial) serta hal-hal yang kita persepsikan berharga.
+Sistem ini berupa jaringan dari berbagai struktur saraf yang bekerja bersama untuk memastikan kita mengejar hal-hal yang mendukung kelangsungan hidup (seperti makanan dan interaksi sosial) serta hal-hal yang kita persepsikan berharga.
 
 ---
 
@@ -10,7 +10,7 @@ Sistem ini bukanlah satu organ tunggal, melainkan jaringan dari berbagai struktu
 
 Sebelum membedah organ-organnya satu per satu, kita perlu mengenal **Jalur Mesolimbik**. Bayangkan ini sebagai jalan tol utama tempat pesan-pesan kimiawi, terutama **dopamin**, mengalir cepat untuk menggerakkan perilaku kita.
 
-> **Insight Utama:** Sistem reward tidak dirancang untuk membuat kita merasa senang selamanya, melainkan untuk mendorong kita terus mencari, mengeksplorasi, dan mempelajari hal-hal yang bermanfaat bagi kelangsungan hidup.
+> **Insight Utama:** Sistem reward dirancang untuk mendorong kita terus mencari, mengeksplorasi, dan mempelajari hal-hal yang bermanfaat bagi kelangsungan hidup. Rasa senang yang abadi tidak termasuk dalam rancangannya.
 
 ---
 
@@ -19,7 +19,7 @@ Sebelum membedah organ-organnya satu per satu, kita perlu mengenal **Jalur Mesol
 Terletak jauh di bagian tengah otak (*midbrain*), **Ventral Tegmental Area (VTA)** adalah titik awal keinginan dan motivasi. Jika sistem reward diibaratkan sebuah kendaraan, maka VTA adalah pabrik bahan bakarnya.
 
 - **Peran Utama:** VTA merupakan rumah bagi badan sel saraf (neuron dopaminergik) yang memproduksi **dopamin**. Ketika otak mendeteksi rangsangan yang berpotensi memberikan imbalan (seperti aroma makanan lezat atau peluang baru yang menjanjikan), neuron di VTA akan menembakkan dopamin ke struktur otak lainnya.
-- **Analogi:** Bayangkan VTA sebagai **Pabrik Pengolahan Bahan Bakar**. VTA tidak menentukan ke mana kendaraan akan melaju, melainkan menyediakan energi dan bahan bakar motivasi agar kendaraan tersebut bisa bergerak.
+- **Analogi:** Bayangkan VTA sebagai **Pabrik Pengolahan Bahan Bakar**. VTA menyediakan energi dan bahan bakar motivasi agar kendaraan tersebut bisa bergerak. Arah laju kendaraan tidak ia tentukan.
 
 > *Saat kamu merasa sangat bersemangat memulai hobi baru atau mengejar target kerja, VTA kamu sedang aktif mengirim dopamin ke sirkuit otak.*
 
@@ -81,7 +81,7 @@ Mengapa kita sering kali sulit berhenti menggulir media sosial meskipun menyadar
 2. **Eksekusi NAc:** Nucleus Accumbens menerima lonjakan dopamin dan menginstruksikan jari kamu untuk terus melakukan gerakan menggulir (*scrolling*).
 3. **Defisit Kontrol PFC:** Prefrontal Cortex mencoba memberi peringatan, tetapi karena stimulasi dari NAc terjadi secara konstan dan instan, fungsi "rem" dari PFC mengalami kelelahan (*executive fatigue*).
 
-> **Studi Kasus:** Fitur *infinite scroll* pada platform digital dapat menstimulasi VTA secara terus-menerus tanpa memberikan jeda waktu bagi PFC untuk mengambil alih kendali. Dengan memahami anatomi ini, kamu dapat menyadari bahwa kendala fokus bukanlah kelemahan karakter semata, melainkan interaksi neurobiologis antara sirkuit pendorong dan sirkuit pengendali di dalam otak.
+> **Studi Kasus:** Fitur *infinite scroll* pada platform digital dapat menstimulasi VTA secara terus-menerus tanpa memberikan jeda waktu bagi PFC untuk mengambil alih kendali. Dengan memahami anatomi ini, kamu dapat menyadari bahwa kendala fokus berakar pada interaksi neurobiologis antara sirkuit pendorong dan sirkuit pengendali di dalam otak. Kelemahan karakter saja tidak cukup menjelaskannya.
 
 ---
 

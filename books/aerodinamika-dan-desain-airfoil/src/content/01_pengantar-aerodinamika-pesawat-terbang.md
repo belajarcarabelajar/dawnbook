@@ -6,7 +6,7 @@ Secara etimologi, Aerodinamika berasal dari kata Yunani *aēr* (udara) dan *dyna
 
 ## 1. Udara sebagai Fluida
 
-Sebelum memahami gaya angkat, satu konsep mendasar perlu disepakati: **Udara adalah fluida**. Sama seperti air, udara dapat mengalir, berubah bentuk, dan memberikan tekanan.
+Sebelum memahami gaya angkat, ada satu konsep mendasar yang perlu disepakati, yaitu bahwa **udara adalah fluida**. Sama seperti air, udara dapat mengalir, berubah bentuk, dan memberikan tekanan.
 
 ### Karakteristik Dasar Aliran Fluida
 
@@ -67,11 +67,11 @@ Berdasarkan Hukum Ketiga Newton:
 - **Aksi:** Permukaan sayap mendorong dan membelokkan massa udara ke bawah.
 - **Reaksi:** Udara memberikan gaya dorong balik ke sayap ke arah atas.
 
-Sebagai ilustrasi praktis: ketika telapak tangan dikeluarkan dari jendela mobil yang sedang melaju lalu dimiringkan sedikit ke atas, telapak tangan akan terdorong ke atas oleh aliran udara. Fenomena tersebut merupakan manifestasi langsung dari Hukum Ketiga Newton.
+Ilustrasi praktisnya bisa kamu rasakan sendiri. Ketika telapak tangan dikeluarkan dari jendela mobil yang sedang melaju lalu dimiringkan sedikit ke atas, telapak tangan akan terdorong ke atas oleh aliran udara. Fenomena tersebut merupakan manifestasi langsung dari Hukum Ketiga Newton.
 
 ## 4. Bagaimana Gaya Angkat (Lift) Tercipta?
 
-Sering kali muncul pertanyaan: *"Mana penjelasan yang benar, Bernoulli atau Newton?"* Jawabannya adalah: **Keduanya benar dan saling melengkapi secara fisika.**
+Sering kali muncul pertanyaan, mana penjelasan yang benar, Bernoulli atau Newton? **Keduanya benar dan saling melengkapi secara fisika.**
 
 Tidak mungkin tercipta perbedaan tekanan (Bernoulli) tanpa adanya pembelokan aliran massa udara (Newton), demikian pula sebaliknya. Keduanya merupakan dua sudut pandang matematis dan fisis yang mendeskripsikan satu kesatuan fenomena fluida yang sama.
 
@@ -98,7 +98,7 @@ flowchart TD
 
 ## 5. Penerapan di Luar Pesawat Terbang
 
-Konsep dasar aerodinamika ini tidak hanya diaplikasikan pada pesawat terbang, melainkan juga pada berbagai inovasi teknologi lainnya:
+Konsep dasar aerodinamika ini juga diaplikasikan pada berbagai inovasi teknologi di luar pesawat terbang:
 
 - **Sayap Belakang Mobil Balap (Formula 1):** Bekerja dengan prinsip terbalik dari sayap pesawat. Profil sayap mobil balap dipasang terbalik untuk menghasilkan *downforce* (gaya tekan ke bawah), meningkatkan cengkeraman ban terhadap aspal saat bermanuver pada kecepatan tinggi.
 - **Layar Kapal Layar:** Bekerja menyerupai sayap yang diposisikan vertikal. Perbedaan tekanan antara sisi depan dan belakang layar menghasilkan gaya dorong maju meskipun kapal berlayar tidak persis searah dengan datangnya angin.

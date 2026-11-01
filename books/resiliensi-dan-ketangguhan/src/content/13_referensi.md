@@ -8,10 +8,10 @@ Clough, P., Strycharczyk, D., & Perry, J. (2021). *Developing mental toughness: 
 > Buku ini membahas model 4C (*Control, Commitment, Challenge, Confidence*) yang mendefinisikan ketangguhan mental serta metode praktis pengembangannya dalam konteks individu dan organisasi.
 
 Epictetus. *The Enchiridion*. The Internet Classics Archive, Massachusetts Institute of Technology. [https://classics.mit.edu/Epictetus/epicench.html](https://classics.mit.edu/Epictetus/epicench.html)
-> Pegangan ringkas ajaran Stoik; bagian 5 menyatakan bahwa manusia terganggu bukan oleh peristiwa, melainkan oleh pandangan yang mereka bentuk tentang peristiwa itu.
+> Pegangan ringkas ajaran Stoik; bagian 5 menyatakan bahwa manusia terganggu oleh pandangan yang mereka bentuk tentang suatu peristiwa. Peristiwa itu sendiri tidak mengganggu mereka.
 
 Grotberg, E. H. (1995). *A guide to promoting resilience in children: Strengthening the human spirit* (Early Childhood Development: Practice and Reflections, No. 8). Bernard van Leer Foundation. [https://bibalex.org/baifa/Attachment/Handlers/ShowAttachment.ashx?ID=287895](https://bibalex.org/baifa/Attachment/Handlers/ShowAttachment.ashx?ID=287895)
-> Karya klasik yang memperkenalkan kerangka kerja intervensi resiliensi berbasis tiga pilar: *I AM* (internal), *I HAVE* (eksternal), dan *I CAN* (sosial/interpersonal).
+> Karya klasik yang memperkenalkan kerangka kerja intervensi resiliensi berbasis tiga pilar, yaitu *I AM* (internal), *I HAVE* (eksternal), dan *I CAN* (sosial/interpersonal).
 
 Nashori, F., & Saputro, I. (2021). *Psikologi resiliensi*. Universitas Islam Indonesia. [https://dspace.uii.ac.id/handle/123456789/36881](https://dspace.uii.ac.id/handle/123456789/36881)
 > Buku referensi akademis dalam bahasa Indonesia yang membedah konsep resiliensi dari sudut pandang psikologi kontemporer dan penerapannya di lingkungan masyarakat Indonesia.
@@ -34,7 +34,7 @@ Luthar, S. S., Cicchetti, D., & Becker, B. (2000). The construct of resilience: 
 > Evaluasi kritis terhadap konstruk resiliensi, memberikan batasan konseptual yang jelas mengenai resiliensi sebagai proses dinamis alih-alih sekadar kepribadian bawaan.
 
 Masten, A. S. (2001). Ordinary magic: Resilience processes in development. *American Psychologist*, *56*(3), 227–238. [https://doi.org/10.1037/0003-066X.56.3.227](https://doi.org/10.1037/0003-066X.56.3.227)
-> Artikel ilmiah seminal yang memopulerkan pandangan bahwa resiliensi bukanlah kemampuan super langka, melainkan proses adaptasi alami manusia (*ordinary magic*) yang didukung oleh sistem pertahanan psikologis sehari-hari.
+> Artikel ilmiah seminal yang memopulerkan pandangan bahwa resiliensi adalah proses adaptasi alami manusia (*ordinary magic*) yang didukung oleh sistem pertahanan psikologis sehari-hari. Dalam pandangan ini, resiliensi tidak lagi dianggap kemampuan super langka.
 
 Rutter, M. (1985). Resilience in the face of adversity: Protective factors and resistance to psychiatric disorder. *The British Journal of Psychiatry*, *147*(6), 598–611. [https://doi.org/10.1192/bjp.147.6.598](https://doi.org/10.1192/bjp.147.6.598)
 > Salah satu penelitian perintis yang meneliti faktor pelindung (*protective factors*) dan mekanisme individu dalam menangkal dampak negatif stresor ekstrem terhadap kesehatan jiwa.

@@ -2,7 +2,7 @@
 
 Bayangkan sebuah profil airfoil baru saja selesai dirancang di atas kertas atau pemodelan CAD. Desain tersebut secara teoretis tampak efisien dan menjanjikan rasio gaya angkat terhadap hambat ($L/D$) yang tinggi. Namun, memasang profil tersebut secara langsung pada purwarupa pesawat terbang berawak berisiko tinggi tanpa serangkaian tahapan validasi eksperimental dan komputasional yang mendalam.
 
-Dalam mekanika fluida dan aerodinamika terapan, terdapat perbedaan nyata antara formulasi analitis teoretis dan fenomena aliran fluida nyata yang melibatkan viskositas, turbulensi, separasi, dan efek kompresibilitas. Untuk menjembatani perbedaan tersebut, aerodinamika modern bertumpu pada dua metode validasi utama: **Computational Fluid Dynamics (CFD)** dan **Pengujian Terowongan Angin (Wind Tunnel Testing)**.
+Dalam mekanika fluida dan aerodinamika terapan, terdapat perbedaan nyata antara formulasi analitis teoretis dan fenomena aliran fluida nyata yang melibatkan viskositas, turbulensi, separasi, dan efek kompresibilitas. Untuk menjembatani perbedaan tersebut, aerodinamika modern bertumpu pada dua metode validasi utama, yakni **Computational Fluid Dynamics (CFD)** dan **Pengujian Terowongan Angin (Wind Tunnel Testing)**.
 
 Urutan validasi yang perlu kamu tempuh, dari konsep geometri sampai uji terbang nyata, terlihat pada diagram berikut.
 
@@ -92,7 +92,7 @@ Proses analisis aerodinamika numerik terstruktur dalam tiga tahapan utama:
    - Pembuatan dan pembersihan geometri airfoil atau sayap 3D.
    - Pembangunan domain fluida (*farfield domain*) berjarak 20 hingga 50 panjang kord ($c$) dari bodi untuk meminimalkan gangguan batas domain.
    - Pembangkitan kisi komputasi (*meshing*), baik terstruktur (*structured hexahedral*), tak terstruktur (*unstructured tetrahedral/polyhedral*), maupun hibrida (*prism layers* pada dinding).
-   - Pengaturan kondisi batas (*boundary conditions*): *Velocity Inlet*, *Pressure Outlet*, dan *No-Slip Wall* pada permukaan airfoil.
+   - Pengaturan kondisi batas (*boundary conditions*) berupa *Velocity Inlet*, *Pressure Outlet*, dan *No-Slip Wall* pada permukaan airfoil.
 2. **Penyelesaian Numerik (Solving)**:
    - Pemilihan skema diskretisasi spasial (misalnya *Second-Order Upwind* untuk adveksi).
    - Algoritma kopling tekanan-kecepatan (seperti SIMPLE, SIMPLEC, atau PISO).
@@ -107,7 +107,7 @@ Proses analisis aerodinamika numerik terstruktur dalam tiga tahapan utama:
 
 Meskipun perangkat lunak simulasi semakin canggih, terowongan angin (*wind tunnel*) tetap menjadi standar kebenaran eksperimental (*ground truth*) dalam aerodinamika dan sertifikasi kelaikudaraan.
 
-Prinsip dasar pengujian terowongan angin bertumpu pada **relativitas aerodinamika Galileo**: gaya dan momen yang dialami sebuah benda padat yang bergerak menembus massa udara diam identik dengan gaya yang dialami benda diam yang dialiri fluida dengan kecepatan seragam yang sama.
+Prinsip dasar pengujian terowongan angin bertumpu pada **relativitas aerodinamika Galileo**. Menurut prinsip ini, gaya dan momen yang dialami sebuah benda padat yang bergerak menembus massa udara diam identik dengan gaya yang dialami benda diam yang dialiri fluida dengan kecepatan seragam yang sama.
 
 #### Prinsip Keserupaan Dinamik (Similitude)
 
@@ -207,4 +207,4 @@ Pada perancangan pesawat modern seperti Airbus A350 dan Boeing 787, bentuk kelen
 3. **Keserupaan Eksperimental**: Pengujian terowongan angin memerlukan kesamaan bilangan tak berdimensi, khususnya bilangan Reynolds ($\text{Re}$) dan bilangan Mach ($\text{Ma}$), agar data model skala representatif terhadap kondisi penerbangan nyata.
 4. **Integrasi Tekanan**: Performa aerodinamika terukur dari integrasi distribusi koefisien tekanan permukaan ($C\_p$) dan tegangan geser dinding ($\tau\_w$).
 
-> **Prinsip Rekayasa:** Semua model komputasi merupakan penyederhanaan realitas, tetapi model yang dikalibrasi dan divalidasi dengan benar menjadi fondasi keselamatan serta efisiensi rekayasa penerbangan modern. Statistikawan George Box merumuskan gagasan dasarnya dengan ringkas: "pada dasarnya, semua model salah, tetapi sebagian berguna" (Box dan Draper, 1987, hlm. 424).
+> **Prinsip Rekayasa:** Semua model komputasi merupakan penyederhanaan realitas, tetapi model yang dikalibrasi dan divalidasi dengan benar menjadi fondasi keselamatan serta efisiensi rekayasa penerbangan modern. Statistikawan George Box meringkas gagasan dasarnya dalam satu kalimat, "pada dasarnya, semua model salah, tetapi sebagian berguna" (Box dan Draper, 1987, hlm. 424).

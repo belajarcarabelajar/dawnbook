@@ -2,17 +2,17 @@
 
 Pernahkah kamu bertemu seseorang yang tampak sangat mandiri, tetapi seketika menarik diri saat hubungan mulai terasa terlalu serius? Atau mungkin kamu sendiri merasa bahwa emosi orang lain sering kali terasa menyesakkan dan membebani?
 
-Dalam spektrum teori kelekatan, tipe **Dismissive-Avoidant** (Menghindar-Menolak) sering dijuluki sebagai "Si Serigala Penyendiri" (*The Lone Wolf*). Mereka yang memiliki gaya ini membangun benteng tinggi di sekeliling dunia emosional mereka. Langkah ini diambil bukan karena mereka tidak mampu mencintai, tetapi sebagai mekanisme pertahanan yang sudah terbentuk sejak kecil.
+Dalam spektrum teori kelekatan, tipe **Dismissive-Avoidant** (Menghindar-Menolak) sering dijuluki sebagai "Si Serigala Penyendiri" (*The Lone Wolf*). Mereka yang memiliki gaya ini membangun benteng tinggi di sekeliling dunia emosional mereka. Mereka sanggup mencintai. Benteng itu adalah mekanisme pertahanan yang sudah terbentuk sejak kecil.
 
 ## Memahami Esensi Dismissive-Avoidant
 
-Gaya kelekatan **Dismissive-Avoidant** ditandai dengan upaya aktif untuk menjaga jarak emosional. Bagi mereka, kemandirian adalah dasar rasa aman, bukan sekadar pilihan gaya hidup.
+Gaya kelekatan **Dismissive-Avoidant** ditandai dengan upaya aktif untuk menjaga jarak emosional. Bagi mereka, kemandirian menjadi dasar rasa aman, sesuatu yang lebih dari pilihan gaya hidup.
 
 **Wawasan Penting:** Inti dari gaya ini adalah pandangan positif terhadap diri sendiri ("Saya baik-baik saja") disertai pandangan skeptis terhadap ketergantungan pada orang lain ("Orang lain tidak bisa diandalkan atau hanya akan mengekang saya").
 
 ### Benteng dengan Parit yang Dalam
 
-Bayangkan sebuah kastil yang terisolasi. Di dalamnya, sang penghuni memiliki segalanya untuk bertahan hidup sendirian. Untuk mencegah orang asing masuk, mereka tidak hanya mengunci gerbang, tetapi juga membangun parit yang dalam di sekelilingnya. Jika ada seseorang yang mencoba menyeberang, sang penghuni kastil akan segera menarik jembatan gantung. Mereka merasa lebih aman berada di dalam benteng sendirian daripada membiarkan seseorang masuk dan berisiko mengacaukan tatanan yang sudah mereka buat.
+Bayangkan sebuah kastil yang terisolasi. Di dalamnya, sang penghuni memiliki segalanya untuk bertahan hidup sendirian. Untuk mencegah orang asing masuk, mereka mengunci gerbang sekaligus membangun parit yang dalam di sekelilingnya. Jika ada seseorang yang mencoba menyeberang, sang penghuni kastil akan segera menarik jembatan gantung. Mereka merasa lebih aman berada di dalam benteng sendirian daripada membiarkan seseorang masuk dan berisiko mengacaukan tatanan yang sudah mereka buat.
 
 ## Bagaimana Pola Ini Terbentuk?
 
@@ -22,7 +22,7 @@ Gaya kelekatan ini biasanya berakar dari interaksi dengan pengasuh di masa kecil
 * **Penekanan Perasaan**: Anak dibiasakan untuk tidak cengeng. Saat mereka menangis atau menunjukkan kerentanan, respons yang diterima adalah teguran untuk diam atau tuntutan untuk lekas dewasa.
 * **Kemandirian Dini**: Pujian hanya datang ketika anak bisa menyelesaikan semuanya sendiri tanpa merepotkan siapa pun.
 
-Secara tidak sadar, anak tersebut mengambil kesimpulan logis: menunjukkan perasaan tidak akan mendapatkan respons yang dibutuhkan, mengandalkan orang lain hanya akan berujung pada penolakan, dan satu-satunya orang yang bisa diandalkan adalah diri mereka sendiri.
+Secara tidak sadar, anak tersebut sampai pada kesimpulan logis bahwa menunjukkan perasaan tidak akan mendapatkan respons yang dibutuhkan, mengandalkan orang lain hanya akan berujung pada penolakan, dan satu-satunya orang yang bisa diandalkan adalah diri mereka sendiri.
 
 ## Ciri-Ciri Utama dan Perilaku
 
@@ -48,13 +48,13 @@ Secara lahiriah, seorang *Dismissive-Avoidant* tampak sangat percaya diri dan ti
 
 Dalam eksperimen *Strange Situation*, saat bayi dengan gaya menghindar ditinggalkan oleh ibunya, mereka tampak tidak peduli. Namun, sensor fisiologis menunjukkan bahwa **detak jantung mereka meningkat tajam dan kadar kortisol (hormon stres) mereka melonjak tinggi**.
 
-**Artinya:** Mereka merasakan stres akibat perpisahan, tetapi mereka telah belajar untuk "mematikan" ekspresi luar dari stres tersebut agar tidak terlihat rentan.
+Mereka sebenarnya merasakan stres akibat perpisahan, hanya saja mereka telah belajar untuk "mematikan" ekspresi luar dari stres tersebut agar tidak terlihat rentan.
 
 ## Aplikasi Dunia Nyata dan Skenario
 
 ### 1. Dalam Hubungan Romantis
 
-**Skenario:** Budi dan Sari telah berkencan selama enam bulan. Suatu malam, Sari mengatakan, "Aku merasa kita semakin dekat, dan aku sangat mencintaimu." Bukannya merasa senang, Budi justru merasa sesak dan tiba-tiba teringat semua hal yang dia tidak sukai dari Sari. Minggu berikutnya, Budi menjadi sangat sibuk dengan pekerjaan dan jarang membalas pesan Sari.
+**Skenario:** Budi dan Sari telah berkencan selama enam bulan. Suatu malam, Sari mengatakan, "Aku merasa kita semakin dekat, dan aku sangat mencintaimu." Mendengar itu, Budi merasa sesak dan tiba-tiba teringat semua hal yang dia tidak sukai dari Sari. Minggu berikutnya, Budi menjadi sangat sibuk dengan pekerjaan dan jarang membalas pesan Sari.
 
 * **Analisis:** Ini adalah reaksi klasik *Dismissive-Avoidant*. Keintiman Sari memicu alarm bahaya bagi kebebasan Budi, sehingga ia menggunakan pekerjaan sebagai alasan untuk menciptakan jarak (strategi penonaktifan).
 
@@ -66,9 +66,9 @@ Dalam eksperimen *Strange Situation*, saat bayi dengan gaya menghindar ditinggal
 
 ## Refleksi dan Ruang Tumbuh
 
-Bagi kamu yang merasa memiliki kecenderungan ini, cobalah ingat kapan terakhir kali kamu membiarkan dirimu bersandar pada orang lain. Bagaimana rasanya? Sementara bagi kamu yang berhadapan dengan pasangan bertipe ini, cobalah melihat bahwa penarikan diri mereka sebenarnya bukan karena mereka tidak peduli, melainkan karena kecemasan akan kehilangan otonomi diri.
+Bagi kamu yang merasa memiliki kecenderungan ini, cobalah ingat kapan terakhir kali kamu membiarkan dirimu bersandar pada orang lain. Bagaimana rasanya? Sementara bagi kamu yang berhadapan dengan pasangan bertipe ini, cobalah melihat penarikan diri mereka sebagai tanda kecemasan akan kehilangan otonomi diri. Mereka menarik diri walaupun peduli.
 
-Menjadi seorang *Dismissive-Avoidant* bukanlah sebuah cacat karakter. Ini adalah sistem pertahanan adaptif yang dibangun sejak kecil untuk bertahan hidup di lingkungan yang kurang responsif secara emosional. Langkah awal menuju hubungan yang lebih sehat adalah menyadari bahwa kamu bisa menurunkan jembatan gantung kastil kamu secara perlahan, tanpa harus kehilangan rasa aman yang ada di dalamnya.
+Gaya *Dismissive-Avoidant* adalah sistem pertahanan adaptif yang dibangun sejak kecil untuk bertahan hidup di lingkungan yang kurang responsif secara emosional. Cacat karakter tidak ada hubungannya dengan pola ini. Langkah awal menuju hubungan yang lebih sehat adalah menyadari bahwa kamu bisa menurunkan jembatan gantung kastil kamu secara perlahan, tanpa harus kehilangan rasa aman yang ada di dalamnya.
 
 ## Ringkasan Singkat
 

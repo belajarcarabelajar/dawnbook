@@ -2,11 +2,11 @@
 
 Bayangkan kamu membeli sebatang cokelat di warung hanya karena di dalam bungkusnya ada stiker tokoh kartun yang sedang kamu kumpulkan. Cokelatnya mungkin enak, tetapi yang membuatmu datang lagi adalah stiker berikutnya. Tanpa terasa, sebatang camilan sudah berubah fungsi menjadi pintu masuk ke sebuah cerita.
 
-Logika sederhana itu tumbuh menjadi mesin besar bernama *media mix*. Di belakangnya ada cara industri anime membiayai karyanya, *seisaku iinkai* atau komite produksi. Keduanya menjawab satu pertanyaan: mengapa satu judul bisa hidup bersamaan di manga, televisi, bioskop, rak mainan, konsol gim, dan lagu tema?
+Logika sederhana itu tumbuh menjadi mesin besar bernama *media mix*. Di belakangnya ada cara industri anime membiayai karyanya, *seisaku iinkai* atau komite produksi. Keduanya menjelaskan mengapa satu judul bisa hidup bersamaan di manga, televisi, bioskop, rak mainan, konsol gim, dan lagu tema.
 
 ### Stiker yang Menjual Tayangan
 
-Stiker tadi bukan khayalan. Di bab 2 kamu sudah bertemu stiker Astro Boy yang dibagikan bersama cokelat Meiji Seika. Marc Steinberg membedah contoh ini dalam *Anime's Media Mix: Franchising Toys and Characters in Japan* (University of Minnesota Press, 2012), dan yang ia temukan lebih dari sekadar promosi. Arah hubungannya berubah. Acara televisi tidak lagi berdiri sendiri lalu ditopang iklan. Tokohnya yang berdiri di tengah, sementara tayangan, camilan, dan barang lain saling menjual satu sama lain.
+Stiker seperti itu pernah ada sungguhan. Di bab 2 kamu sudah bertemu stiker Astro Boy yang dibagikan bersama cokelat Meiji Seika. Marc Steinberg membedah contoh ini dalam *Anime's Media Mix: Franchising Toys and Characters in Japan* (University of Minnesota Press, 2012), dan ia melihat arah hubungannya berubah. Acara televisi tidak lagi berdiri sendiri lalu ditopang iklan. Kini tokohnya berdiri di tengah, sementara tayangan, camilan, dan barang lain saling menjual satu sama lain.
 
 Steinberg juga menyamakan *media mix* dengan apa yang di Barat dinamai konvergensi media (*convergence*). Dalam bacaannya, keduanya sama-sama berawal dari Astro Boy pada awal 1963, dan garis itu terus berlanjut ke waralaba yang datang belakangan.
 
@@ -24,7 +24,7 @@ Contoh yang diangkat Sakuga Blog adalah *Akira*, salah satu film awal yang dibia
 
 ### Porsi Kecil Studio Animasi di Komite
 
-Satu pihak sering hanya kebagian ujung meja itu. Studio animasi, tempat para animator benar-benar menggambar, sering hanya menjadi anggota kecil komite, dan kerap tidak menjadi anggota sama sekali, masih menurut tulisan yang sama. Akibatnya, ketika sebuah judul laris, sebagian besar hasilnya bisa mengalir ke pihak lain, bukan ke tangan yang membuat gambarnya bergerak. Ketimpangan ini dibahas lebih dalam di bab 12.
+Satu pihak sering hanya kebagian ujung meja itu. Studio animasi, tempat para animator benar-benar menggambar, sering hanya menjadi anggota kecil komite, dan kerap tidak menjadi anggota sama sekali, masih menurut tulisan yang sama. Akibatnya, ketika sebuah judul laris, sebagian besar hasilnya bisa mengalir ke pihak lain dan melewatkan tangan yang membuat gambarnya bergerak. Ketimpangan ini dibahas lebih dalam di bab 12.
 
 ### Rantai Pokémon dari Konsol ke Bioskop
 
@@ -40,6 +40,6 @@ Bagi *soft power*, di sinilah bobotnya. Penonton di luar Jepang jarang bertemu J
 
 ### Benang Merah
 
-Stiker di bungkus cokelat Meiji Seika dan serial Pokémon di 111 stasiun Amerika lahir dari logika yang sama: satu tokoh, banyak pintu. *Media mix* membuat cerita hidup di banyak medium sekaligus, dan komite produksi menyediakan modal serta jaringan mitranya sambil membagi risiko. Sisi lainnya, studio yang menggambar sering berada di pinggir pembagian hasil.
+Stiker di bungkus cokelat Meiji Seika dan serial Pokémon di 111 stasiun Amerika lahir dari logika yang sama. Satu tokoh dibukakan banyak pintu. *Media mix* membuat cerita hidup di banyak medium sekaligus, dan komite produksi menyediakan modal serta jaringan mitranya sambil membagi risiko. Sisi lainnya, studio yang menggambar sering berada di pinggir pembagian hasil.
 
-Mesinnya sudah terpasang. Pertanyaannya tinggal satu: apa yang terjadi ketika judul-judul ini meninggalkan rumah dan mulai mencari penonton di seluruh dunia?
+Mesinnya sudah terpasang. Sekarang kita lihat apa yang terjadi ketika judul-judul ini meninggalkan rumah dan mulai mencari penonton di seluruh dunia.

@@ -2,7 +2,7 @@
 
 Pernahkah kamu merasa memiliki segalanya (pekerjaan yang mapan, tubuh yang sehat, dan hiburan yang cukup) tetapi tetap merasa ada kehampaan di dalam diri? Perasaan ini sering kali muncul karena kita telah membangun kehidupan yang **bahagia**, tetapi belum tentu kehidupan yang **bermakna**.
 
-Dalam bab ini, kita akan menjelajahi salah satu pilar psikologi positif: bagaimana manusia mencari, menemukan, dan memelihara makna dalam hidup, serta mengapa hal ini jauh lebih mendasar bagi kesejahteraan jangka panjang dibandingkan kesenangan sesaat.
+Bab ini menjelajahi cara manusia mencari, menemukan, dan memelihara makna dalam hidup, salah satu pilar psikologi positif, serta alasan hal ini jauh lebih mendasar bagi kesejahteraan jangka panjang dibandingkan kesenangan sesaat.
 
 ### 1. Perbedaan Antara Kehidupan yang Bahagia dan Bermakna
 
@@ -42,7 +42,7 @@ $$
 
 ### 3. Menemukan Tujuan yang Lebih Besar dari Diri Sendiri (Self-Transcendence)
 
-Viktor Frankl, seorang psikiater dan penyintas Holocaust, dalam buku klasiknya *Man's Search for Meaning*, menegaskan bahwa dorongan terdalam manusia bukanlah mengejar kesenangan, melainkan **pencarian makna** (*search for meaning*). Untuk itu, ia memperkenalkan konsep **Self-Transcendence** (Transendensi Diri).
+Viktor Frankl, seorang psikiater dan penyintas Holocaust, dalam buku klasiknya *Man's Search for Meaning*, menegaskan bahwa dorongan terdalam manusia adalah **pencarian makna** (*search for meaning*), lebih dalam daripada dorongan mengejar kesenangan. Untuk itu, ia memperkenalkan konsep **Self-Transcendence** (Transendensi Diri).
 
 Transendensi diri merupakan kondisi saat perhatian kita teralihkan dari ego pribadi menuju hal lain di luar diri sendiri. Kamu dapat menemukan tujuan ini melalui tiga jalan utama:
 
@@ -83,10 +83,10 @@ Mengejar kebahagiaan tanpa diiringi makna sering kali berujung pada kekosongan e
 **Intisari Pembelajaran:**
 
 - Kebahagiaan berkaitan erat dengan **perasaan** saat ini, sedangkan makna berkaitan dengan hakikat **keberadaan** diri.
-- Makna hidup lebih sering ditemukan melalui pengabdian serta kontribusi bagi sesama, bukan dari konsumsi materi semata.
+- Makna hidup lebih sering ditemukan melalui pengabdian serta kontribusi bagi sesama daripada melalui konsumsi materi.
 - Munculnya penderitaan tidak otomatis menghalangi hadirnya makna; dalam banyak kasus, masa-masa sulit justru menjadi katalisator utama untuk menemukannya.
 
-Sebagai bahan perenungan:
+Renungkan pertanyaan berikut.
 
 > Jika hari ini adalah hari terakhirmu di dunia, kontribusi apa yang paling ingin kamu tinggalkan agar diingat oleh orang lain? Apakah pencapaian pribadimu, atau caramu menyentuh dan membantu kehidupan sesama?
 

@@ -76,11 +76,11 @@ Jika angka **Rasa Percaya** mendekati nol, maka **Tingkat Stres** menjadi tidak 
 
 ## 7. Refleksi dan Langkah Awal
 
-Jika kamu merasa memiliki gaya ini, atau sedang menjalin hubungan dengan seseorang yang memilikinya, penting untuk diingat bahwa ini bukanlah cacat karakter, melainkan mekanisme pertahanan yang terbentuk untuk bertahan hidup di masa lalu yang sulit.
+Jika kamu merasa memiliki gaya ini, atau sedang menjalin hubungan dengan seseorang yang memilikinya, ingatlah bahwa pola ini adalah mekanisme pertahanan yang terbentuk untuk bertahan hidup di masa lalu yang sulit. Ia tidak menandakan cacat karakter.
 
 * **Penting:** Kesadaran adalah langkah pertama. Menyadari kapan "alarm" kamu berbunyi secara salah dapat membantu kamu tidak langsung bertindak berdasarkan rasa takut tersebut.
 
-Banyak orang dengan gaya ini tanpa sadar merusak hubungan yang berjalan baik karena merasa cemas dan menduga hubungan itu akan berakhir buruk. Jika kamu pernah mengalami hal serupa, sadarilah bahwa tindakan tersebut adalah proyeksi dari ketakutan masa lalu, bukan kenyataan saat ini.
+Banyak orang dengan gaya ini tanpa sadar merusak hubungan yang berjalan baik karena merasa cemas dan menduga hubungan itu akan berakhir buruk. Jika kamu pernah mengalami hal serupa, sadarilah bahwa tindakan tersebut adalah proyeksi dari ketakutan masa lalu yang tidak sesuai dengan kenyataan saat ini.
 
 Hal terpenting dalam menghadapi gaya *Fearful-Avoidant* adalah membangun rasa aman di dalam diri sendiri terlebih dahulu, sehingga kehadiran atau ketidakhadiran orang lain tidak lagi terasa sebagai ancaman bagi diri sendiri.
 

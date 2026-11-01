@@ -4,13 +4,13 @@ Dialektika otentisitas dan iktikad buruk atau mauvaise foi menggambarkan ketegan
 
 ### 1. Hakikat Otentisitas
 
-Otentisitas bukanlah proses penemuan substansi esensial yang tersembunyi di kedalaman batin, melainkan praksis penciptaan diri yang dinamis melalui pilihan-pilihan sadar. Karena manusia hadir tanpa kodrat tetap, menjadi otentik menuntut kesadaran kritis atas tiga pilar utama:
+Otentisitas adalah praksis penciptaan diri yang dinamis melalui pilihan-pilihan sadar. Ia tidak ditemukan sebagai substansi esensial yang tersembunyi di kedalaman batin. Karena manusia hadir tanpa kodrat tetap, menjadi otentik menuntut kesadaran kritis atas tiga pilar utama:
 
 - Pengakuan eksplisit atas kebebasan radikal dalam merumuskan nilai dan arah tindakan.
 - Kesediaan memikul tanggung jawab etis secara penuh tanpa melimpahkan kesalahan kepada faktor luar.
-- Penyelarasan tindakan dengan pertimbangan rasional otonom, bukan sekadar reproduksi konvensi atau desakan kepatuhan sosial.
+- Penyelarasan tindakan dengan pertimbangan rasional otonom yang melampaui reproduksi konvensi atau desakan kepatuhan sosial.
 
-Bagi Sartre, manusia bukan sekadar apa yang ia bayangkan tentang dirinya, melainkan apa yang ia kehendaki setelah ia ada.
+Bagi Sartre, manusia adalah apa yang ia kehendaki setelah ia ada. Bayangan tentang dirinya saja belum cukup untuk mendefinisikannya.
 
 ### 2. Konsepsi *Mauvaise Foi* (Iktikad Buruk)
 

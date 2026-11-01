@@ -19,13 +19,13 @@ Temuan di atas menggarisbawahi adanya kesenjangan antara praktik interaksi kelas
 
 - **Mengubah Pola Pertanyaan**: Guru hendaknya mengurangi pertanyaan tertutup yang hanya menguji ingatan hafalan, dan mulai memperbanyak pertanyaan terbuka yang memicu pemikiran kritis serta eksplorasi gagasan.
 - **Memberikan Waktu Tunggu (*Wait Time*)**: Memberikan jeda waktu yang cukup setelah mengajukan pertanyaan memberi kesempatan kepada siswa untuk menyusun tanggapan yang lebih mendalam.
-- **Mengakomodasi Inisiatif Siswa**: Tanggapan dan pertanyaan yang muncul dari siswa perlu diterima serta dijadikan batu pijakan untuk mengembangkan bahasan kelas lebih lanjut, bukan diabaikan atau dengan cepat diputus.
+- **Mengakomodasi Inisiatif Siswa**: Tanggapan dan pertanyaan yang muncul dari siswa perlu diterima serta dijadikan batu pijakan untuk mengembangkan bahasan kelas lebih lanjut tanpa diabaikan atau diputus dengan cepat.
 - **Mendorong Pembelajaran Dialogis**: Interaksi di kelas seyogianya digeser dari bentuk pengujian kaku menuju dialog konstruktif tempat guru dan siswa bersama-sama membangun pengetahuan.
 
 ### Ringkasan Penutup
 
 > **Catatan Penutup**:
-> Pengendalian topik dalam wacana kelas tidak hanya menyangkut kelancaran tata tertib pembelajaran, tetapi juga mencerminkan relasi sosial dan kesempatan belajar yang diberikan kepada peserta didik. Dengan menyadari pola-pola tutur yang selama ini digunakan, para pendidik dapat membuka ruang komunikasi yang lebih ramah, inklusif, dan responsif terhadap potensi siswa. Diharapkan pembahasan atas penelitian Marliana dalam buku ini memberikan sumbangan nyata bagi peningkatan mutu pembelajaran Bahasa Indonesia di sekolah dasar.
+> Pengendalian topik dalam wacana kelas menyangkut kelancaran tata tertib pembelajaran dan mencerminkan relasi sosial serta kesempatan belajar yang diberikan kepada peserta didik. Dengan menyadari pola-pola tutur yang selama ini digunakan, para pendidik dapat membuka ruang komunikasi yang lebih ramah, inklusif, dan responsif terhadap potensi siswa. Diharapkan pembahasan atas penelitian Marliana dalam buku ini memberikan sumbangan nyata bagi peningkatan mutu pembelajaran Bahasa Indonesia di sekolah dasar.
 
 ### Pertanyaan Refleksi dan Diskusi Akhir
 

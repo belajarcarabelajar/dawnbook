@@ -4,7 +4,7 @@ Kehendak untuk berkuasa atau Wille zur Macht dari Friedrich Nietzsche merupakan 
 
 ### 1. Ontologi *Wille zur Macht*
 
-Nietzsche memosisikan *Wille zur Macht* (*Will to Power*) bukan sebagai ambisi hegemoni militeristik, melainkan sebagai asas vitalitas eksistensial yang menggerakkan seluruh organisme hidup untuk berekspansi, tumbuh, dan melampaui kondisi faktual dirinya (*Selbstüberwindung* / *self-overcoming*).
+Nietzsche memosisikan *Wille zur Macht* (*Will to Power*) sebagai asas vitalitas eksistensial yang menggerakkan seluruh organisme hidup untuk berekspansi, tumbuh, dan melampaui kondisi faktual dirinya (*Selbstüberwindung* / *self-overcoming*). Ambisi hegemoni militeristik tidak termasuk dalam maksud konsep ini.
 
 Dua teks Nietzsche saling melengkapi di sini. Dalam *Beyond Good and Evil* (aforisme 13) ia menulis bahwa kehidupan itu sendiri adalah kehendak untuk berkuasa. Dalam *Thus Spoke Zarathustra*, sosok Kehidupan menyebut dirinya sebagai sesuatu yang harus selalu mengatasi dirinya sendiri.
 
@@ -48,7 +48,7 @@ flowchart TD
 
 ### 4. *Übermensch* dan Model Pertumbuhan Diri
 
-Puncak dari proyek filosofis Nietzsche adalah figur **Übermensch** (Manusia Unggul / *Overman*). Übermensch bukanlah spesies mutan biologis, melainkan idealitas pencapaian eksistensial manusia yang berhasil melampaui nihilisme melalui penegasan hidup total (*Amor Fati*).
+Puncak dari proyek filosofis Nietzsche adalah figur **Übermensch** (Manusia Unggul / *Overman*). Übermensch adalah idealitas pencapaian eksistensial manusia yang berhasil melampaui nihilisme melalui penegasan hidup total (*Amor Fati*). Istilah ini tidak merujuk pada spesies mutan biologis.
 
 Secara konseptual, pertumbuhan potensi eksistensial teraktualisasi dapat dimodelkan sebagai fungsi atas intensitas penaklukan diri:
 
@@ -70,10 +70,10 @@ Formulasi ini menegaskan bahwa peningkatan derajat penaklukan diri ($s$) secara 
 
 Dalam realitas kontemporer, penerapan *Wille zur Macht* beroperasi dalam arena penataan disposisi internal:
 
-- **Transformasi Hambatan:** Memperlakukan kesulitan karier dan krisis personal bukan sebagai kutukan fatalistik, melainkan sebagai medan pengujian daya lenting kesadaran.
+- **Transformasi Hambatan:** Memperlakukan kesulitan karier dan krisis personal sebagai medan pengujian daya lenting kesadaran.
 - **Pembersihan Resentimen:** Menolak mentalitas korban yang menyalahkan struktur luar, dan mengalihkan energi untuk membangun kompetensi otonom.
 - **Afirmasi *Amor Fati*:** Mencintai realitas secara utuh beserta segala dinamika dan tantangan yang menyertainya tanpa penyesalan destruktif.
 
 ### 6. Menguasai Kelemahan Diri Sendiri
 
-Kehendak untuk berkuasa pada hakikatnya adalah kehendak untuk menguasai kelemahan diri sendiri. Manusia bukanlah produk statis, melainkan jembatan yang menghubungkan kebiasaan pasif masa lalu dengan kemungkinan-kemungkinan masa depan. Melalui penaklukan diri yang berkelanjutan, manusia merealisasikan kedaulatannya sebagai pencipta nilai yang merdeka.
+Kehendak untuk berkuasa pada hakikatnya adalah kehendak untuk menguasai kelemahan diri sendiri. Manusia adalah jembatan yang menghubungkan kebiasaan pasif masa lalu dengan kemungkinan-kemungkinan masa depan. Melalui penaklukan diri yang berkelanjutan, manusia merealisasikan kedaulatannya sebagai pencipta nilai yang merdeka.

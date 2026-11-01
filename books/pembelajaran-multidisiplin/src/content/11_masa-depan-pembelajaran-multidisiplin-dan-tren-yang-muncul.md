@@ -32,7 +32,7 @@ Pendekatan multidisiplin berdampak besar pada konsep belajar sepanjang hayat (*l
 
 #### 2.1 Peningkatan Adaptabilitas dan Relevansi
 
-Dalam dunia yang dinamis, kita dituntut untuk terus memperbarui pengetahuan dan keterampilan. Konsep *lifelong learning* mendorong proses belajar yang tidak berhenti saat lulus sekolah, melainkan terus berjalan secara mandiri di kehidupan sehari-hari demi menjaga relevansi diri.
+Dalam dunia yang dinamis, kita dituntut untuk terus memperbarui pengetahuan dan keterampilan. Konsep *lifelong learning* mendorong proses belajar yang terus berjalan secara mandiri di kehidupan sehari-hari setelah lulus sekolah, demi menjaga relevansi diri.
 
 #### 2.2 Pengembangan Potensi Diri yang Dinamis
 
@@ -60,7 +60,7 @@ Program belajar yang kontekstual dan terhubung dengan industri berperan penting 
 
 Pendidikan modern kian menekankan pengenalan karier sejak dini. Siswa dibimbing untuk mengenali minat dan bakat mereka sendiri. Lewat program magang, proyek berbasis industri, dan bimbingan mentor, mereka belajar menyelaraskan teori akademik dengan praktik nyata di lapangan.
 
-Keterampilan seperti adaptabilitas, kreativitas, dan kerja sama tim tidak bisa tumbuh hanya dari mendengarkan kuliah di dalam kelas. Kemampuan ini diasah melalui interaksi nyata dan keaktifan dalam berbagai kegiatan pengembangan diri.
+Keterampilan seperti adaptabilitas, kreativitas, dan kerja sama tim diasah melalui interaksi nyata dan keaktifan dalam berbagai kegiatan pengembangan diri. Mendengarkan kuliah di dalam kelas saja belum cukup untuk menumbuhkannya.
 
 ### 4. Menjawab Tantangan Global
 
@@ -68,7 +68,7 @@ Tantangan global seperti perubahan iklim, ketimpangan sosial, dan krisis kesehat
 
 #### 4.1 Pendekatan Holistik terhadap Masalah Kompleks
 
-Pendekatan multidisiplin melatih kita melihat masalah sosial dari berbagai sudut pandang, mulai dari ekonomi, sejarah, hingga lingkungan, bukan dari satu kacamata saja. Cara pandang yang kaya ini memicu siswa untuk berpikir lebih kritis terhadap isu-isu di sekitar mereka.
+Pendekatan multidisiplin melatih kita melihat masalah sosial dari berbagai sudut pandang, mulai dari ekonomi, sejarah, hingga lingkungan. Cara pandang yang kaya ini memicu siswa untuk berpikir lebih kritis terhadap isu-isu di sekitar mereka.
 
 #### 4.2 Mendorong Inovasi dan Solusi Kreatif
 
@@ -78,6 +78,6 @@ Menggabungkan berbagai ilmu sering kali melahirkan terobosan kreatif yang sulit 
 
 Para lulusan diharapkan peka terhadap kelestarian alam dan mampu menerapkan prinsip keberlanjutan dalam setiap karya mereka. Terlebih di era kecerdasan buatan, pemanfaatan teknologi harus tetap berlandaskan nilai kemanusiaan, agar efisiensi mesin sejalan dengan etika manusia.
 
-Tantangan terbesar kita kini adalah memastikan bahwa pendekatan multidisiplin melampaui pemecahan masalah teknis, sekaligus menumbuhkan empati dan tanggung jawab sosial yang mendalam terhadap tantangan global.
+Tantangan terbesar kita kini adalah memastikan bahwa pendekatan multidisiplin, selain memecahkan masalah teknis, juga menumbuhkan empati dan tanggung jawab sosial yang mendalam terhadap tantangan global.
 
 Pada akhirnya, masa depan pembelajaran multidisiplin terletak pada keterpaduan yang lebih erat antarilmu dengan dukungan teknologi. Fokusnya bergeser pada pembentukan keterampilan adaptif untuk mendukung belajar sepanjang hayat dan memenuhi kebutuhan pasar yang dinamis. Dengan pendekatan ini, generasi mendatang akan tumbuh menjadi pribadi yang lincah, inovatif, dan siap menyumbang solusi nyata bagi tantangan global.

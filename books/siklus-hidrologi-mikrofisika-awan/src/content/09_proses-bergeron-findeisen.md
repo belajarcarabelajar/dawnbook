@@ -1,6 +1,6 @@
 ## Proses Bergeron-Findeisen
 
-Bagaimana hujan dapat terbentuk di wilayah beriklim dingin saat musim dingin, atau di puncak awan kumulonimbus yang menjulang di khatulistiwa? Di tempat yang suhunya jauh di bawah titik beku, pembentukan presipitasi tidak hanya bergantung pada mekanisme tumbukan dan penggabungan (*collision-coalescence*) tetes air cair. Pada temperatur subnol, mekanisme dominan yang mendorong pertumbuhan partikel presipitasi adalah pembekuan dan transfer massa uap air yang dikenal sebagai **Proses Bergeron-Findeisen** (atau proses Tor Bergeron dan Walter Findeisen).
+Bagaimana hujan dapat terbentuk di wilayah beriklim dingin saat musim dingin, atau di puncak awan kumulonimbus yang menjulang di khatulistiwa? Di tempat yang suhunya jauh di bawah titik beku, pembentukan presipitasi melibatkan lebih dari mekanisme tumbukan dan penggabungan (*collision-coalescence*) tetes air cair. Pada temperatur subnol, mekanisme dominan yang mendorong pertumbuhan partikel presipitasi adalah pembekuan dan transfer massa uap air yang dikenal sebagai **Proses Bergeron-Findeisen** (atau proses Tor Bergeron dan Walter Findeisen).
 
 ### Memahami Kondisi Fase Campuran (*Mixed-Phase*)
 
@@ -60,7 +60,7 @@ flowchart TD
     D --> E["Kristal es tumbuh, tetes air menyusut hingga habis"]
 ```
 
-> **Catatan Fisika Awan:** Pada fase awal ini, pertumbuhan kristal es terjadi akibat ikatan deposisi uap air langsung dari fase gas ke padat, bukan akibat tumbukan fisik (*impact freezing*) antara kristal es dengan tetesan air superdingin.
+> **Catatan Fisika Awan:** Pada fase awal ini, kristal es tumbuh karena uap air terdeposisi langsung dari fase gas ke padat. Tumbukan fisik (*impact freezing*) antara kristal es dan tetesan air superdingin belum berperan di tahap ini.
 
 ### Pemodelan Laju Pertumbuhan Kristal Es
 

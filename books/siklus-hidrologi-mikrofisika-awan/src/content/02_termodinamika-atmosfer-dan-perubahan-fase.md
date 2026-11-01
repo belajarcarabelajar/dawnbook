@@ -4,7 +4,7 @@ Jika atmosfer Bumi dianggap sebagai sebuah mesin cuaca, uap air adalah bahan bak
 
 ### 1. Tiga Fase Air di Atmosfer
 
-Di atmosfer, air merupakan satu-satunya zat yang dapat ditemukan dalam tiga fase sekaligus: **padat (es)**, **cair (air)**, dan **gas (uap air)**. Perubahan dari satu fase ke fase lainnya disebut sebagai **perubahan fase**.
+Di atmosfer, air merupakan satu-satunya zat yang dapat ditemukan sekaligus dalam tiga fase, mulai dari **padat (es)**, **cair (air)**, sampai **gas (uap air)**. Perubahan dari satu fase ke fase lainnya disebut sebagai **perubahan fase**.
 
 Analogi sederhana untuk molekul air adalah sekelompok orang di sebuah ruang pertemuan:
 
@@ -20,7 +20,7 @@ Salah satu konsep utama dalam mikrofisika awan adalah **Panas Laten (Latent Heat
 
 > **Definisi:** Panas laten adalah energi yang diserap atau dilepaskan oleh suatu zat selama perubahan fase berlangsung tanpa mengubah suhu zat tersebut.
 
-Saat mendidihkan air, suhu air bertahan pada $100^\circ\text{C}$ meskipun sumber panas terus menyala. Energi dari kompor tidak lagi menaikkan suhu, melainkan digunakan untuk memutus ikatan antarmolekul cairan agar berubah wujud menjadi gas.
+Saat mendidihkan air, suhu air bertahan pada $100^\circ\text{C}$ meskipun sumber panas terus menyala. Energi dari kompor kini terpakai untuk memutus ikatan antarmolekul cairan agar berubah wujud menjadi gas, sehingga suhunya tidak naik lagi.
 
 #### Jenis-jenis Panas Laten
 
@@ -68,11 +68,11 @@ Keterangan variabel:
 - $R\_v$ adalah konstanta gas spesifik untuk uap air ($461.5\text{ J/(kg}\cdot\text{K)}$)
 - $T$ adalah suhu mutlak dalam Kelvin ($\text{K}$)
 
-**Poin Utama:** Udara hangat memiliki kapasitas menampung uap air yang jauh lebih besar daripada udara dingin. Hal ini menjelaskan mengapa badai di daerah tropis memiliki intensitas tinggi; terdapat ketersediaan energi laten yang melimpah.
+**Poin Utama:** Udara hangat memiliki kapasitas menampung uap air yang jauh lebih besar daripada udara dingin. Hal ini menjelaskan mengapa badai di daerah tropis memiliki intensitas tinggi, karena energi laten di sana tersedia melimpah.
 
 ### 5. Efek Pendinginan Evaporatif
 
-Alasan lingkungan hutan terasa sejuk tidak hanya berasal dari rimbunnya naungan pohon, melainkan juga akibat proses **Evapotranspirasi**. Tanaman melepaskan uap air melalui stomata. Penguapan ini menyerap panas dari udara sekitar (panas laten), sehingga menurunkan suhu lingkungan setempat.
+Lingkungan hutan terasa sejuk karena rimbunnya naungan pohon, dan juga karena proses **Evapotranspirasi**. Tanaman melepaskan uap air melalui stomata. Penguapan ini menyerap panas dari udara sekitar (panas laten), sehingga menurunkan suhu lingkungan setempat.
 
 #### Pembentukan Awan
 

@@ -8,11 +8,11 @@ Jika pola ini terus dibiarkan, kelas hanya menjadi tempat guru berbicara. Siswa 
 
 Berdasarkan analisis interaksi pembelajaran dalam penelitian itu, ada tiga kendala utama dalam wacana kelas konvensional:
 
-1. **Pengulangan Mekanis tanpa Klarifikasi**: Guru kerap mengulang ucapan siswa sekadar untuk mengisi transisi antartopik, bukan untuk memperdalam pemahaman.
+1. **Pengulangan Mekanis tanpa Klarifikasi**: Guru kerap mengulang ucapan siswa sekadar untuk mengisi transisi antartopik, sehingga pemahaman tidak ikut diperdalam.
 2. **Umpan Balik Ambigu**: Ketika siswa memberikan jawaban yang bervariasi, guru kerap membiarkannya tanpa konfirmasi atau justru membenarkan semua opsi yang saling bertolak belakang. Hal ini memicu kebingungan konsep pada anak.
 3. **Minimnya Penguatan Positif**: Porsi pengungkapan apresiasi atau pujian rendah (sekitar 2% dalam temuan Marliana, 2017). Padahal, anak usia sekolah dasar membutuhkan validasi emosional dan kognitif agar percaya diri dalam berpendapat.
 
-> **Catatan Pedagogis**: Pengendalian topik di dalam kelas hendaknya tidak dijadikan alat untuk membatasi ruang bicara anak, melainkan cara untuk menuntun siswa bernalar secara mandiri.
+> **Catatan Pedagogis**: Pengendalian topik di dalam kelas hendaknya menjadi cara untuk menuntun siswa bernalar secara mandiri, tanpa membatasi ruang bicara anak.
 
 ### Mengubah Pola Interaksi Kelas
 
@@ -31,18 +31,18 @@ Untuk menghadirkan perubahan yang nyata, kamu dapat membandingkan dua pendekatan
 Sebagai pendidik, kamu bisa menerapkan empat langkah konkret ini untuk menggeser pola wacana di kelas:
 
 #### 1. Ubah Pengulangan Pasif Menjadi Umpan Balik Elaboratif
-Saat siswa menjawab suatu pertanyaan, hindari mengulang kata tersebut begitu saja. Gunakan teknik bertanya susulan seperti: *"Mengapa kamu berpikir demikian?"* atau *"Bagaimana kamu bisa sampai pada kesimpulan itu?"*. Cara ini memaksa anak untuk mengurai jalan pikirannya.
+Saat siswa menjawab suatu pertanyaan, hindari mengulang kata tersebut begitu saja. Gunakan teknik bertanya susulan seperti *"Mengapa kamu berpikir demikian?"* atau *"Bagaimana kamu bisa sampai pada kesimpulan itu?"*. Cara ini memaksa anak untuk mengurai jalan pikirannya.
 
 #### 2. Berikan Konfirmasi Konsep yang Jelas
-Apabila muncul beragam jawaban dari beberapa siswa, jangan biarkan percakapan berlalu tanpa kejelasan. Fasilitasi siswa untuk membandingkan jawaban-jawaban tersebut hingga menemukan bukti yang tepat, bukan membiarkan mereka bingung dengan jawaban yang saling kontradiktif.
+Apabila muncul beragam jawaban dari beberapa siswa, jangan biarkan percakapan berlalu tanpa kejelasan. Fasilitasi siswa untuk membandingkan jawaban-jawaban tersebut hingga menemukan bukti yang tepat. Dengan begitu, mereka tidak dibiarkan bingung oleh jawaban yang saling kontradiktif.
 
 #### 3. Apresiasi Proses Bernalar Siswa
-Berikan penguatan positif yang jelas. Pujian tidak perlu berlebihan, tetapi harus spesifik pada usaha dan penalaran anak. Ucapan seperti *"Pengamatan yang sangat teliti!"* memberikan dampak psikologis yang jauh lebih kuat dibanding sekadar mengulang jawaban anak.
+Berikan penguatan positif yang jelas. Buat pujian itu wajar dan spesifik pada usaha serta penalaran anak. Ucapan seperti *"Pengamatan yang sangat teliti!"* memberikan dampak psikologis yang jauh lebih kuat dibanding sekadar mengulang jawaban anak.
 
 #### 4. Buka Ruang bagi Siswa untuk Mengarahkan Topik
 Beri kesempatan kepada siswa untuk mengajukan pertanyaan di tengah pembelajaran. Biarkan rasa ingin tahu mereka membuka subtopik baru yang relevan dengan materi, sehingga rasio pengendalian topik tidak lagi sepenuhnya milik guru.
 
-> **Prinsip Utama**: Pembelajaran yang interaktif dibangun atas keberanian siswa untuk bertanya dan berpendapat, bukan ketundukan mereka pada alur bicara guru.
+> **Prinsip Utama**: Pembelajaran yang interaktif dibangun atas keberanian siswa untuk bertanya dan berpendapat.
 
 ---
 

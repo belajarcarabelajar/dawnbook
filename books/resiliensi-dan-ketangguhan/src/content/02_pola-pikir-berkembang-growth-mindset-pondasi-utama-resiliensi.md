@@ -10,7 +10,7 @@ Konsep ini dipopulerkan oleh psikolog Stanford, **Carol Dweck**. Secara sederhan
 
 **Otot vs. Patung Batu** Bayangkan kemampuanmu sebagai sebuah **otot**. Semakin sering dilatih dengan beban yang tepat, ia akan semakin kuat dan besar. Sebaliknya, orang dengan *Fixed Mindset* (Pola Pikir Tetap) melihat kemampuan mereka seperti **patung batu**. Sekali dipahat, bentuknya tidak akan pernah berubah. Jika patung itu retak (gagal), maka ia dianggap rusak selamanya.
 
-> **Intisari:** Dalam pola pikir berkembang, tantangan tidak mengancam identitas diri kita, melainkan mengundang kita untuk terus bertumbuh.
+> **Intisari:** Dalam pola pikir berkembang, tantangan mengundang kita untuk terus bertumbuh. Identitas diri kita tidak ikut dipertaruhkan di sana.
 
 ### 2. Perbedaan Growth Mindset vs. Fixed Mindset
 
@@ -27,7 +27,7 @@ Memahami perbedaan ini penting agar kita bisa melakukan audit diri secara jujur.
 
 ### 3. Kekuatan "Belum" (The Power of "Yet")
 
-Salah satu teknik sederhana untuk beralih ke pola pikir berkembang adalah dengan menambahkan satu kata kecil: **"Belum"**.
+Salah satu teknik sederhana untuk beralih ke pola pikir berkembang adalah menambahkan satu kata kecil, **"Belum"**.
 
 - "Saya tidak bisa pemrograman Python." $\rightarrow$ **Fixed**
 - "Saya **belum** bisa pemrograman Python." $\rightarrow$ **Growth**
@@ -40,7 +40,7 @@ Kata "belum" memberi ruang bagi masa depan. Ia mengubah kegagalan dari sebuah ko
 
 Mengapa kita yakin otak bisa berubah? Jawabannya adalah **Neuroplastisitas**. Otak manusia bisa beradaptasi. Setiap kali kita mempelajari sesuatu yang baru atau memecahkan masalah sulit, koneksi antarneuron (sinapsis) di otak kita menjadi lebih kuat.
 
-Sebagai ilustrasi sederhana (bukan model ilmiah yang baku), pertumbuhan kemampuan kita tidak selalu berjalan lurus (linear), tetapi bisa melonjak secara eksponensial jika kita konsisten. Jika $\text{P}$ adalah potensi dan $\text{t}$ adalah waktu dengan usaha yang tepat, maka:
+Ilustrasi berikut sederhana saja dan tidak mengikuti model ilmiah yang baku. Pertumbuhan kemampuan kita tidak selalu berjalan lurus (linear). Jika kita konsisten, ia bisa melonjak secara eksponensial. Jika $\text{P}$ adalah potensi dan $\text{t}$ adalah waktu dengan usaha yang tepat, maka:
 
 $$
 \text{P}(\text{t}) = \text{P}_0 \cdot e^{\text{k}\text{t}}
@@ -60,7 +60,7 @@ Mengubah pola pikir tidak terjadi semalam. Ini adalah proses "re-wiring" otakmu.
 
 1. **Kenali Suara "Fixed Mindset":** Saat kamu gagal dan mendengar suara internal berkata, *"Sudah kubilang kan kamu tidak berbakat,"* segera sadari bahwa itu adalah jebakan pola pikir tetap.
 2. **Balas dengan Suara "Growth Mindset":** Jawab suara tersebut dengan, *"Mungkin saya memang belum mahir sekarang, tapi saya bisa belajar dari kesalahan ini."*
-3. **Hargai Proses, Bukan Hanya Hasil:** Alih-alih memuji diri sendiri karena "pintar", pujilah diri sendiri karena "strategi yang tepat" atau "usaha yang gigih".
+3. **Hargai Prosesnya Juga:** Alih-alih memuji diri sendiri karena "pintar", pujilah diri sendiri karena "strategi yang tepat" atau "usaha yang gigih".
 4. **Cari Tantangan yang Tepat:** Keluar dari zona nyaman secara bertahap. Jika terlalu mudah, kamu tidak belajar; jika terlalu sulit, kamu bisa frustrasi. Cari "Sweet Spot" tempat kamu merasa sedikit kesulitan tetapi masih tertantang.
 
 ### 6. Penerapan Nyata & Skenario
@@ -72,7 +72,7 @@ Seorang junior developer menghadapi *bug* yang tidak kunjung selesai selama dua 
 - **Respons Fixed:** "Mungkin saya bukan orang logika. Saya tidak cocok jadi programmer." (Menyerah dan frustrasi).
 - **Respons Growth:** "Bug ini menunjukkan ada konsep memori yang belum saya pahami. Ini adalah kesempatan untuk mendalami dokumentasi lebih jauh."
 
-Respons growth ini bisa diulang sebagai sebuah siklus sampai berhasil: mencoba, gagal, menganalisis kesalahan (inilah momen *growth*), menyesuaikan strategi, lalu mencoba lagi dengan bekal pemahaman yang baru.
+Respons growth ini bisa diulang sebagai sebuah siklus sampai berhasil, mulai dari mencoba, gagal, menganalisis kesalahan (inilah momen *growth*), menyesuaikan strategi, sampai mencoba lagi dengan bekal pemahaman yang baru.
 
 #### Dunia Kerja di Kantor
 
@@ -90,4 +90,4 @@ Cobalah isi latihan singkat ini untuk melatih otot *Growth Mindset* kamu:
 3. Apa satu kualitas karakter yang terasah karena kejadian tersebut?
 4. Jika kejadian itu terulang kembali, strategi berbeda apa yang akan kamu terapkan?
 
-> **Pesan Penting:** Pola pikir berkembang tidak berarti semua orang pasti bisa menjadi Einstein atau Mozart. Konsep ini hanya menekankan bahwa kita tidak pernah tahu seberapa jauh seseorang bisa melangkah jika mereka tekun dan terus belajar. Kegagalan bukanlah tanda untuk berhenti, melainkan data berharga untuk mengarahkan kita ke jalan yang lebih baik.
+> **Pesan Penting:** Pola pikir berkembang menekankan bahwa kita tidak pernah tahu seberapa jauh seseorang bisa melangkah jika mereka tekun dan terus belajar. Itu belum menjamin semua orang bisa menjadi Einstein atau Mozart. Perlakukan kegagalan sebagai data berharga yang mengarahkan kita ke jalan yang lebih baik.

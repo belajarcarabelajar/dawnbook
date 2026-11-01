@@ -2,7 +2,7 @@
 
 Setelah mempelajari teori, definisi, dan sejarah gaya kelekatan, sekarang saatnya kamu mengarahkan lensa tersebut ke dalam diri sendiri.
 
-Mengenali gaya kelekatan pribadi bukanlah untuk memberi label "baik" atau "buruk". Langkah ini adalah upaya memahami **cetak biru emosional** yang kamu bawa sejak masa kecil. Begitu memahami pola ini, kamu bisa mulai mengubah cara kamu mencintai, bekerja, dan berinteraksi dengan dunia.
+Mengenali gaya kelekatan pribadi adalah upaya memahami **cetak biru emosional** yang kamu bawa sejak masa kecil, tanpa memberi label "baik" atau "buruk". Begitu memahami pola ini, kamu bisa mulai mengubah cara kamu mencintai, bekerja, dan berinteraksi dengan dunia.
 
 ## 1. Metafora "Kaca Spion" dan "Peta Navigasi"
 
@@ -48,7 +48,7 @@ Respons otomatis yang paling sering kamu rasakan menunjukkan cara sistem sarafmu
 
 ## 4. Pendekatan "Internal Working Model" (IWM)
 
-Teori kelekatan mengenal konsep **Model Kerja Internal** (Internal Working Model). Secara sederhana, konsep ini bisa digambarkan sebagai hubungan antara dua variabel utama: **Citra Diri** dan **Citra Orang Lain**.
+Teori kelekatan mengenal konsep **Model Kerja Internal** (Internal Working Model). Secara sederhana, konsep ini bisa digambarkan sebagai hubungan antara **Citra Diri** dan **Citra Orang Lain**, dua variabel utamanya.
 
 $$
 \\text{Gaya Kelekatan} = f(\\text{Citra Diri}, \\text{Citra Orang Lain})
@@ -88,7 +88,7 @@ Gunakan pertanyaan-pertanyaan berikut sebagai bahan menulis di jurnal pribadi ka
 
 ## 6. Mengidentifikasi Pola dalam Pekerjaan
 
-Gaya kelekatan tidak hanya memengaruhi hubungan romantis, tetapi juga terlihat dalam dinamika pekerjaan.
+Di luar hubungan romantis, gaya kelekatan terlihat pula dalam dinamika pekerjaan.
 
 **Budi dan Proyek Tim:** Budi adalah manajer proyek yang kompeten. Namun, setiap kali menerima kritik membangun dari atasannya, dia merasa hancur secara emosional. Budi mulai bekerja lembur secara obsesif demi membuktikan kemampuannya. Pada saat yang sama, timbul rasa kesal kepada sang atasan karena dianggap telah mengancam rasa amannya.
 
@@ -96,7 +96,7 @@ Gaya kelekatan tidak hanya memengaruhi hubungan romantis, tetapi juga terlihat d
 
 ## 7. Fleksibilitas dan Kesadaran
 
-Ingatlah bahwa gaya kelekatan bersifat **spektrum**, bukan kotak kaku. Kamu bisa saja merasa dominan aman, tetapi tetap memiliki kecenderungan menghindar dalam situasi konflik tertentu.
+Ingatlah bahwa gaya kelekatan bersifat **spektrum** dengan batas yang lentur. Kamu bisa saja merasa dominan aman, tetapi tetap memiliki kecenderungan menghindar dalam situasi konflik tertentu.
 
 **Langkah Selanjutnya:** Setelah mengenali pola dominanmu, hindari menghakimi diri sendiri. Menyadari pola tersebut sudah menjadi langkah awal menuju pemulihan.
 

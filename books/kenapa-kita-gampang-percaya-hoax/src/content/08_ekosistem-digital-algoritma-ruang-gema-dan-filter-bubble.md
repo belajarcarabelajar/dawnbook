@@ -1,30 +1,30 @@
 ## Ekosistem Digital
 
-Sejauh ini kita membahas apa yang terjadi di dalam kepala: bias konfirmasi, efek kebenaran ilusi, emosi yang membajak nalar. Tapi kepala kamu tidak bekerja di ruang hampa. Setiap hari ia terhubung ke sistem yang memilih apa yang kamu lihat, kapan kamu melihatnya, dan seberapa sering. Sistem itu punya tujuannya sendiri, dan tujuan itu bukan kebenaran.
+Sejauh ini kita membahas apa yang terjadi di dalam kepala, seperti bias konfirmasi, efek kebenaran ilusi, dan emosi yang membajak nalar. Tapi kepala kamu tidak bekerja di ruang hampa. Setiap hari ia terhubung ke sistem yang memilih apa yang kamu lihat, kapan kamu melihatnya, dan seberapa sering. Sistem itu punya tujuannya sendiri, dan kebenaran tidak termasuk di dalamnya.
 
-Bab ini bukan tentang menyalahkan teknologi seolah dia jahat. Justru sebaliknya. Yang berbahaya adalah cara pikiran manusia dan desain platform saling mengunci, saling menguatkan, sampai keduanya sulit dipisahkan.
+Bab ini tidak sedang menuduh teknologi jahat. Yang berbahaya adalah cara pikiran manusia dan desain platform saling mengunci, saling menguatkan, sampai keduanya sulit dipisahkan.
 
 ### Algoritma yang membuatmu bertahan lebih lama
 
-Beranda media sosial kamu bukan urutan waktu apa adanya. Ia disusun oleh algoritma rekomendasi yang punya satu misi utama: membuat kamu bertahan lebih lama. Metriknya konkret dan bisa diukur:
+Beranda media sosial kamu tidak tampil menurut urutan waktu. Ia disusun oleh algoritma rekomendasi dengan satu misi utama, yaitu membuat kamu bertahan lebih lama. Metriknya konkret dan bisa diukur:
 
 - **Waktu tonton**: berapa lama kamu berhenti di sebuah unggahan.
 - **Klik**: apakah kamu membuka, memperbesar, membaca.
 - **Interaksi**: suka, komentar, dan terutama **share**.
 
-Tidak ada satu pun metrik itu bernama "benar". Algoritma tidak punya cara menilai apakah sebuah klaim akurat. Ia hanya tahu apakah klaim itu menahan perhatian. Dan di sinilah masalahnya menyambung ke bab tentang emosi: konten yang memicu marah, takut, atau jijik justru unggul dalam semua metrik itu.
+Tidak ada satu pun metrik itu bernama "benar". Algoritma tidak punya cara menilai apakah sebuah klaim akurat. Ia hanya tahu apakah klaim itu menahan perhatian. Dan di sinilah masalahnya menyambung ke bab tentang emosi, karena konten yang memicu marah, takut, atau jijik unggul dalam semua metrik itu.
 
 > Sebuah kebohongan yang membuat orang berang akan dibagikan lebih cepat daripada sebuah koreksi yang membosankan. Algoritma membaca kemarahan itu sebagai "konten bagus", lalu menyodorkannya ke lebih banyak orang.
 
-Jadi, bukan berarti algoritma sengaja menyebarkan hoaks. Algoritma hanya mengejar sinyal engagement, dan kebetulan hoaks yang menyentak emosi memancarkan sinyal itu paling kuat. Kejujuran kalah bukan karena dilarang, tapi karena dia jarang seheboh kebohongan.
+Algoritma tidak sengaja menyebarkan hoaks. Ia hanya mengejar sinyal engagement, dan kebetulan hoaks yang menyentak emosi memancarkan sinyal itu paling kuat. Tak ada yang melarang kejujuran. Ia kalah karena jarang seheboh kebohongan.
 
 ### Filter bubble dan dunia yang dipangkas untukmu
 
-Istilah **filter bubble** dipopulerkan Eli Pariser pada 2011. Idenya sederhana: karena platform mempersonalisasi apa yang kamu lihat berdasarkan perilaku masa lalu, lama-lama kamu tinggal di dalam gelembung informasi yang disesuaikan. Kamu makin sering ketemu hal yang sudah kamu sukai, dan makin jarang ketemu pandangan yang menantang.
+Istilah **filter bubble** dipopulerkan Eli Pariser pada 2011. Platform mempersonalisasi apa yang kamu lihat berdasarkan perilaku masa lalu, sehingga lama-lama kamu tinggal di dalam gelembung informasi yang disesuaikan. Kamu makin sering ketemu hal yang sudah kamu sukai, dan makin jarang ketemu pandangan yang menantang.
 
 Bahayanya halus. Kamu tidak merasa sedang disaring. Bagimu, gelembung itu terasa seperti "seluruh dunia", karena kamu tidak melihat apa yang disembunyikan. Yang tak pernah muncul di layar terasa seolah tidak ada.
 
-Personalisasi ini memberi makan bias konfirmasi. Kalau kamu cenderung mencari yang membenarkan keyakinanmu, dan platform dengan senang hati menyodorkan lebih banyak dari itu, terbentuklah lingkaran tertutup: kamu memberi sinyal, algoritma memantulkan balik, kamu makin yakin.
+Personalisasi ini memberi makan bias konfirmasi. Kalau kamu cenderung mencari yang membenarkan keyakinanmu, dan platform dengan senang hati menyodorkan lebih banyak dari itu, terbentuklah lingkaran tertutup. Kamu memberi sinyal, algoritma memantulkannya balik, dan kamu makin yakin.
 
 ### Ruang gema
 
@@ -41,13 +41,13 @@ Ruang gema membuat konsensus palsu terasa nyata. Sepuluh orang yang mengulang sa
 
 ### Jangan salahkan algoritma sepenuhnya
 
-Di sini penulis harus jujur, karena membesar-besarkan "filter bubble" sebagai satu-satunya biang keladi justru menyesatkan.
+Di sini penulis harus jujur, karena membesar-besarkan "filter bubble" sebagai satu-satunya biang keladi malah menyesatkan.
 
-Sebuah studi yang dimuat di jurnal *Science* pada 2015 oleh Bakshy, Messing, dan Adamic menelaah paparan berita di Facebook. Temuannya menantang narasi populer: **pilihan pribadi kita, siapa yang kita ikuti dan tautan mana yang kita klik, sering menyaring lebih banyak pandangan berbeda daripada yang dilakukan algoritma.** Gelembung itu tidak semata dibangun mesin. Kita ikut membangunnya dengan tangan sendiri.
+Sebuah studi yang dimuat di jurnal *Science* pada 2015 oleh Bakshy, Messing, dan Adamic menelaah paparan berita di Facebook. Temuannya menantang narasi populer. **Pilihan pribadi kita, siapa yang kita ikuti dan tautan mana yang kita klik, sering menyaring lebih banyak pandangan berbeda daripada yang dilakukan algoritma.** Mesin memang ikut membangun gelembung itu, begitu pula tangan kita sendiri.
 
 > Algoritma memang mempersempit, tapi manusia mempersempit lebih dulu. Kita memilih teman yang sepaham, mengikuti akun yang menyenangkan, dan melewati tautan yang bikin tidak nyaman.
 
-Kesimpulan yang jujur bukan "algoritma menjebak kita" dan bukan pula "algoritma tidak berpengaruh". Yang benar: **manusia dan algoritma saling menguatkan.** Kecenderungan kita menyaring memberi bahan bagi algoritma, dan algoritma mengembalikannya dalam dosis lebih besar. Kalau kamu ingin membebaskan diri, menyalahkan mesin saja tidak cukup. Kebiasaanmu sendiri juga bagian dari sistem.
+Algoritma berpengaruh, walau tidak sendirian menjebak kita. Kesimpulan yang jujur, **manusia dan algoritma saling menguatkan.** Kecenderungan kita menyaring memberi bahan bagi algoritma, dan algoritma mengembalikannya dalam dosis lebih besar. Kalau kamu ingin membebaskan diri, menyalahkan mesin saja tidak cukup. Kebiasaanmu sendiri juga bagian dari sistem.
 
 ### Struktur jaringan dan kecepatan
 
@@ -73,6 +73,6 @@ Ada orang yang benar-benar mencari nafkah dari memproduksi kebohongan viral. Bag
 
 ## Poin Kunci
 
-Ekosistem digital bukan wadah netral. Algoritma rekomendasi mengejar engagement, bukan kebenaran, sehingga konten yang memicu emosi diuntungkan. Filter bubble menyaring pandangan berbeda dari layarmu, sementara ruang gema memantulkan klaim yang sama berulang kali sampai efek kebenaran ilusi dan bias konfirmasi menguat. Tapi jujurlah: penelitian menunjukkan pilihan pribadi kita sering menyaring lebih banyak daripada algoritma. Manusia dan mesin saling menguatkan, bukan salah satu saja. Ditambah kecepatan berbagi, grup tertutup, bot, dan ekonomi perhatian yang membuat hoaks murah sekaligus menguntungkan, lingkungan ini praktis menjadi lahan subur bagi keyakinan yang keliru.
+Ekosistem digital jauh dari netral. Algoritma rekomendasi mengejar engagement tanpa menimbang kebenaran, sehingga konten yang memicu emosi diuntungkan. Filter bubble menyaring pandangan berbeda dari layarmu, sementara ruang gema memantulkan klaim yang sama berulang kali sampai efek kebenaran ilusi dan bias konfirmasi menguat. Tapi jujurlah, penelitian menunjukkan pilihan pribadi kita sering menyaring lebih banyak daripada algoritma. Manusia dan mesin saling menguatkan. Ditambah kecepatan berbagi, grup tertutup, bot, dan ekonomi perhatian yang membuat hoaks murah sekaligus menguntungkan, lingkungan ini praktis menjadi lahan subur bagi keyakinan yang keliru.
 
-Sampai di sini kita sudah memahami pikiran kita dan lingkungan yang membentuknya. Bab 9, **Efek Pengaruh Berkelanjutan**, akan menutup satu pertanyaan yang mengganggu: kalaupun sebuah hoaks akhirnya dibantah dan kamu menerima bantahan itu, kenapa jejaknya masih tertinggal di kepalamu?
+Sampai di sini kita sudah memahami pikiran kita dan lingkungan yang membentuknya. Bab 9, **Efek Pengaruh Berkelanjutan**, akan menutup satu pertanyaan yang mengganggu. Kalaupun sebuah hoaks akhirnya dibantah dan kamu menerima bantahan itu, kenapa jejaknya masih tertinggal di kepalamu?

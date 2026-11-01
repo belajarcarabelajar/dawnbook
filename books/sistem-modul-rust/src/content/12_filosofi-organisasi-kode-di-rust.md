@@ -11,7 +11,7 @@ Bayangkan kamu sedang membangun sebuah perpustakaan besar. Jika kamu hanya menum
 Salah satu praktik terbaik yang sering digunakan dalam library Rust populer seperti `serde` atau `tokio` adalah menyembunyikan kompleksitas internal dan menyajikan antarmuka (API) yang bersih kepada pengguna.
 
 ### Masalah
-Struktur folder internal kamu mungkin bersarang dalam karena mengikuti logika pengembangan: `src/auth/providers/oauth2/google.rs`
+Struktur folder internal kamu mungkin bersarang dalam karena mengikuti logika pengembangan, misalnya `src/auth/providers/oauth2/google.rs`.
 
 ### Solusi
 Gunakan re-exporting untuk memotong jalur bagi pengguna luar.
@@ -137,4 +137,4 @@ pub trait Payment {
 | **Folder per Domain** | Memudahkan navigasi tim saat proyek tumbuh menjadi ribuan baris. |
 | **Pisahkan `lib.rs`** | Memungkinkan logika bisnis kamu digunakan kembali oleh binary lain atau integration tests. |
 
-Struktur modul bukanlah sesuatu yang kaku. Mulailah secara sederhana di `main.rs`. Saat kode mulai terasa sesak, pecah menjadi modul. Ketika modul semakin padat, pindahkan ke file terpisah. Saat file-file tersebut mulai saling terkait, kelompokkan dalam folder. Ikuti pertumbuhan kode secara alami, jangan memaksakan struktur sejak awal.
+Struktur modul boleh berubah seiring waktu. Mulailah secara sederhana di `main.rs`. Saat kode mulai terasa sesak, pecah menjadi modul. Ketika modul semakin padat, pindahkan ke file terpisah. Saat file-file tersebut mulai saling terkait, kelompokkan dalam folder. Ikuti pertumbuhan kode secara alami, jangan memaksakan struktur sejak awal.

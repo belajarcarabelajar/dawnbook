@@ -65,13 +65,13 @@ Pengembangan beras analog berbasis uwi di Indonesia merupakan contoh implementas
 - **Arts**: Aspek artistik diterapkan untuk menjaga cita rasa dan tampilan visual agar selaras dengan preferensi estetika kuliner masyarakat.
 - **Mathematics**: Pemodelan matematika digunakan dalam memformulasikan komposisi bahan, menganalisis data statistik uji organoleptik, dan memprediksi respons mesin ekstrusi.
 
-Melalui pendekatan lintas disiplin ini, beras analog uwi berhasil diproduksi dengan kualitas tekstur dan rasa yang disukai konsumen. Inovasi ini tidak hanya menghadirkan pilihan pangan sehat, tetapi juga berpotensi memperkuat ketahanan pangan nasional serta memiliki daya saing ekonomi di pasar global.
+Melalui pendekatan lintas disiplin ini, beras analog uwi berhasil diproduksi dengan kualitas tekstur dan rasa yang disukai konsumen. Inovasi ini menghadirkan pilihan pangan sehat, berpotensi memperkuat ketahanan pangan nasional, serta memiliki daya saing ekonomi di pasar global.
 
 #### c. Pengembangan Produk Konsumen Lintas Fungsi
 
 Pembuatan produk konsumen modern kini mengandalkan kolaborasi erat tim lintas fungsi yang terdiri atas desainer, pengembang produk, serta tim pemasaran. Dengan memanfaatkan peranti pemodelan digital seperti *Computer-Aided Design* (CAD) dan menerapkan metodologi kerja *agile*, mereka memprioritaskan komunikasi langsung, pengembangan berulang (*iterative*), serta pembuatan prototipe cepat.
 
-Integrasi kerja ini memberikan perspektif menyeluruh terhadap seluruh rantai manufaktur. Perusahaan dapat mengidentifikasi kendala produksi lebih awal, mengoptimalkan efisiensi kerja, serta mengurangi sisa bahan produksi. Dampaknya nyata: waktu rilis produk ke pasar (*time-to-market*) dapat dipercepat hingga 20% dibanding metode konvensional, sembari menghemat biaya operasional dan mendongkrak kualitas akhir produk.
+Integrasi kerja ini memberikan perspektif menyeluruh terhadap seluruh rantai manufaktur. Perusahaan dapat mengidentifikasi kendala produksi lebih awal, mengoptimalkan efisiensi kerja, serta mengurangi sisa bahan produksi. Hasilnya, waktu rilis produk ke pasar (*time-to-market*) dapat dipercepat hingga 20% dibanding metode konvensional, sembari menghemat biaya operasional dan mendongkrak kualitas akhir produk.
 
 ### 4. Inovasi Sosial
 
@@ -93,7 +93,7 @@ Inovasi keuangan sosial ini berhasil membantu jutaan pelaku usaha kecil, yang se
 
 Kampung Flory di Sleman, Daerah Istimewa Yogyakarta, menunjukkan bagaimana lahan pertanian konvensional dapat diubah menjadi destinasi agrowisata ramah lingkungan yang inklusif. Transformasi ini terwujud berkat kolaborasi erat antara warga desa, pemerintah daerah, pelaku usaha, dan akademisi, yang didukung oleh pemanfaatan teknologi digital untuk promosi dan manajemen.
 
-Keberhasilan Kampung Flory tidak hanya mendongkrak perekonomian lokal dan menciptakan lapangan kerja baru bagi generasi muda, tetapi juga mempererat ikatan sosial antarwarga. Proyek agrowisata ini menjadi bukti konkret bahwa perencanaan wilayah yang melibatkan berbagai pemangku kepentingan mampu melahirkan nilai ekonomi sekaligus melestarikan lingkungan.
+Keberhasilan Kampung Flory mendongkrak perekonomian lokal, menciptakan lapangan kerja baru bagi generasi muda, dan mempererat ikatan sosial antarwarga. Proyek agrowisata ini menjadi bukti konkret bahwa perencanaan wilayah yang melibatkan berbagai pemangku kepentingan mampu melahirkan nilai ekonomi sekaligus melestarikan lingkungan.
 
 #### d. Platform Crowdsourcing InnoCentive
 
@@ -103,6 +103,6 @@ Platform ini mencatat tingkat keberhasilan hingga 80% dalam merumuskan solusi ba
 
 ### Benang Merah Keempat Bidang
 
-Berbagai studi kasus di atas memperlihatkan dengan jelas bahwa pendekatan multidisiplin lebih dari sekadar tren akademik sesaat. Metode ini merupakan kebutuhan nyata di era modern. Baik dalam merancang kurikulum pendidikan tinggi yang dinamis, memajukan riset ilmiah, melahirkan produk industri berorientasi pengguna, maupun mengurai masalah sosial yang rumit, kemampuan menghubungkan berbagai cabang ilmu menjadi dasar lahirnya solusi yang berdaya guna. Keberhasilan implementasi ini menuntut keterbukaan sikap, komunikasi yang jernih, serta kerelaan untuk keluar dari batas nyaman bidang keahlian masing-masing.
+Berbagai studi kasus di atas memperlihatkan dengan jelas bahwa pendekatan multidisiplin merupakan kebutuhan nyata di era modern. Baik dalam merancang kurikulum pendidikan tinggi yang dinamis, memajukan riset ilmiah, melahirkan produk industri berorientasi pengguna, maupun mengurai masalah sosial yang rumit, kemampuan menghubungkan berbagai cabang ilmu menjadi dasar lahirnya solusi yang berdaya guna. Keberhasilan implementasi ini menuntut keterbukaan sikap, komunikasi yang jernih, serta kerelaan untuk keluar dari batas nyaman bidang keahlian masing-masing.
 
 Pendekatan lintas ilmu ini pada akhirnya membekali individu maupun tim untuk tumbuh menjadi pembelajar yang lebih tangguh, kreatif, dan siap menjawab tantangan yang makin saling terkait.

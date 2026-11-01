@@ -1,6 +1,6 @@
 ## Komponen-Komponen Metakognisi
 
-Metakognisi sering disebut sebagai "berpikir tentang berpikir". Sebenarnya, ini adalah kemampuan dasar yang membuat kita sadar, mampu mengontrol, sekaligus mengevaluasi cara kita sendiri dalam memproses informasi. Istilah ini pertama kali dikenalkan oleh John Flavell pada tahun 1976. Kalau kita mau membedah metakognisi lebih dalam, ada tiga komponen utama pengetahuan metakognitif: pengetahuan deklaratif, prosedural, dan kondisional. Ketiga hal inilah yang nantinya menentukan seberapa efektif cara belajar seseorang.
+Metakognisi sering disebut sebagai "berpikir tentang berpikir". Sebenarnya, ini adalah kemampuan dasar yang membuat kita sadar, mampu mengontrol, sekaligus mengevaluasi cara kita sendiri dalam memproses informasi. Istilah ini pertama kali dikenalkan oleh John Flavell pada tahun 1976. Kalau kita mau membedah metakognisi lebih dalam, ada tiga komponen utama pengetahuan metakognitif, yaitu pengetahuan deklaratif, prosedural, dan kondisional. Ketiga hal inilah yang nantinya menentukan seberapa efektif cara belajar seseorang.
 
 ## 1. Pengetahuan Deklaratif
 
@@ -52,14 +52,13 @@ Contoh pengetahuan kondisional:
 
 ## Bagaimana Ketiga Komponen Ini Bekerja Sama
 
-Ketiganya tidak berjalan sendiri-sendiri. Mereka saling melengkapi untuk membentuk kesadaran metakognitif yang utuh. 
+Ketiganya saling melengkapi untuk membentuk kesadaran metakognitif yang utuh. 
 
 Pengetahuan deklaratif memberi gambaran tentang apa saja "amunisi" yang kamu punya. Setelah itu, pengetahuan prosedural menerjemahkan informasi tadi menjadi tindakan nyata. Terakhir, pengetahuan kondisional bertindak sebagai semacam manajer yang memutuskan kapan dan mengapa amunisi tersebut harus dikeluarkan.
 
 > **Catatan:** Pengetahuan deklaratif sering kali menjadi pijakan awal sebelum seseorang menguasai kemampuan prosedural. Keduanya kemudian disempurnakan oleh pengetahuan kondisional yang memastikan proses belajar berjalan efektif sesuai situasi.
 
-Coba bayangkan situasi ini:
-Kamu tahu bahwa "belajar bareng teman itu efektif kalau materinya susah" (deklaratif). Kamu juga tahu "cara bikin diskusi kelompok yang nggak cuma ngobrol doang" (prosedural). Saat menghadapi materi fisika yang bikin pusing (deklaratif tentang tugas), kamu pun langsung memutuskan untuk bikin jadwal belajar kelompok akhir pekan ini, *karena* materinya butuh pemahaman bareng-bareng (kondisional).
+Coba bayangkan kamu tahu bahwa "belajar bareng teman itu efektif kalau materinya susah" (deklaratif). Kamu juga tahu "cara bikin diskusi kelompok yang nggak cuma ngobrol doang" (prosedural). Saat menghadapi materi fisika yang bikin pusing (deklaratif tentang tugas), kamu pun langsung memutuskan untuk bikin jadwal belajar kelompok akhir pekan ini, *karena* materinya butuh pemahaman bareng-bareng (kondisional).
 
 ## Penerapan di Dunia Nyata
 
@@ -76,8 +75,8 @@ Biar lebih jelas, mari kita lihat skenario seorang mahasiswa yang sedang bersiap
 	- Ia terbiasa menulis poin-poin ringkasan dari tiap era.
 
 3. **Pengetahuan Kondisional ("Kapan & Mengapa"):**
-	- Ia memutuskan *kapan* harus memakai kartu *flash*: khusus untuk menghafal tanggal dan nama. Ia paham *mengapa* ini penting, karena hafalan butuh pengulangan yang rapi.
-	- Ia tahu *kapan* harus melihat *timeline*: saat butuh memahami hubungan sebab-akibat antarperistiwa sejarah, *karena* ini membantu melihat benang merahnya.
-	- Terakhir, ia paham *kapan* dan *mengapa* harus membaca ulang materi: khusus untuk topik yang masih belum ia kuasai penuh, agar pemahamannya utuh dan tidak sekadar hafal mati.
+	- Ia memutuskan memakai kartu *flash* khusus untuk menghafal tanggal dan nama. Ia paham *mengapa* ini penting, karena hafalan butuh pengulangan yang rapi.
+	- Ia membuka *timeline* setiap kali butuh memahami hubungan sebab-akibat antarperistiwa sejarah, *karena* ini membantu melihat benang merahnya.
+	- Terakhir, ia membaca ulang materi hanya untuk topik yang masih belum ia kuasai penuh, agar pemahamannya utuh dan tidak sekadar hafal mati.
 
 Lewat interaksi ketiga komponen inilah proses belajarnya jadi jauh lebih terarah dan nggak membuang waktu.

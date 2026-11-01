@@ -1,6 +1,6 @@
 ## Nomenklatur dan Geometri Airfoil
 
-Bentuk potongan melintang sayap pesawat memiliki geometri melengkung yang sangat spesifik dan bukan sekadar pelat datar. Bentuk potongan melintang sayap ini dikenal sebagai **airfoil** (atau *aerofoil*). Desain geometri airfoil bukan sekadar masalah estetika; kontur lengkungannya dirancang secara presisi untuk memanipulasi aliran udara demi membangkitkan gaya angkat (*lift*) secara optimal dan meminimalkan hambatan (*drag*).
+Bentuk potongan melintang sayap pesawat memiliki geometri melengkung yang sangat spesifik. Bentuk potongan melintang sayap ini dikenal sebagai **airfoil** (atau *aerofoil*). Kontur lengkungannya dirancang secara presisi untuk memanipulasi aliran udara demi membangkitkan gaya angkat (*lift*) secara optimal dan meminimalkan hambatan (*drag*).
 
 Dalam bab ini, pembahasan berfokus pada pembedahan anatomi airfoil, parameter geometris penentu performa, standardisasi penamaan NACA, serta korelasi langsung antara bentuk fisik sayap dan karakteristik aerodinamikanya.
 

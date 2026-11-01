@@ -4,7 +4,7 @@ Ada paradoks kecil yang hampir semua orang alami. Tugas yang paling berarti just
 
 ### Persamaan temporal motivation theory
 
-Steel dan König (2006) menyusun **temporal motivation theory** (TMT), teori motivasi yang memasukkan waktu sebagai pemain utama. Teori ini dibangun dari beberapa gagasan sebelumnya: picoeconomics, teori ekspektansi, cumulative prospect theory, dan teori kebutuhan. Intinya diringkas dalam satu persamaan:
+Steel dan König (2006) menyusun **temporal motivation theory** (TMT), teori motivasi yang memasukkan waktu sebagai pemain utama. Teori ini dibangun dari beberapa gagasan sebelumnya, yaitu picoeconomics, teori ekspektansi, cumulative prospect theory, dan teori kebutuhan. Intinya diringkas dalam satu persamaan:
 
 <div>
 $$
@@ -20,13 +20,13 @@ Anggap *utility* sebagai seberapa kuat tarikan sebuah tugas terasa bagimu saat i
 - **T - t**: jeda waktu sampai hadiah atau hasilnya benar-benar kamu terima.
 - **Z**: konstanta agar hasil hitungan tidak meledak ketika jeda mendekati nol.
 
-Pembilang berisi hal yang menarikmu maju, penyebut berisi hal yang menggerus tarikan itu karena hasilnya terlalu jauh. Persamaan ini juga punya fitur lain yang tidak kita bahas rinci di sini: kerugian dan keuntungan diperlakukan dengan fungsi yang berbeda.
+Pembilang berisi hal yang menarikmu maju, penyebut berisi hal yang menggerus tarikan itu karena hasilnya terlalu jauh. Ada juga fitur lain yang tidak kita bahas rinci di sini. Kerugian dan keuntungan diperlakukan dengan fungsi yang berbeda.
 
-Kamu mungkin pernah menemukan versi populer: Motivation = (Expectancy x Value) / (Impulsiveness x Delay). Anggap itu penyederhanaan yang beredar luas, bukan rumus dari makalah Steel dan König. Bentuk aslinya memakai penyebut Z + Gamma(T - t), dan perbedaan itu tidak sepele bagi siapa pun yang ingin mengutipnya dengan benar.
+Kamu mungkin pernah menemukan versi populer yang berbunyi Motivation = (Expectancy x Value) / (Impulsiveness x Delay). Versi itu penyederhanaan yang beredar luas. Makalah Steel dan König sendiri memakai penyebut Z + Gamma(T - t), dan perbedaan itu tidak sepele bagi siapa pun yang ingin mengutipnya dengan benar.
 
 ### Empat tuas dalam satu tabel
 
-Empat unsur tadi bisa dibaca sebagai tuas. Contoh di kolom kanan adalah ilustrasi buatan penulis untuk memudahkan, bukan temuan penelitian.
+Empat unsur tadi bisa dibaca sebagai tuas. Contoh di kolom kanan ilustrasi yang penulis karang sendiri untuk memudahkan, dan tidak diambil dari penelitian.
 
 | Tuas | Kalau naik | Kalau turun | Ilustrasi (misalnya) |
 |---|---|---|---|
@@ -41,7 +41,7 @@ Dua tuas pertama bekerja di pembilang, dua tuas terakhir di penyebut. Satu tuas 
 
 Sekarang paradoks tadi bisa dijelaskan. Tugas besar yang hasilnya jauh punya T - t yang lebar, sehingga penyebutnya gemuk dan tarikannya tipis. Tugas remeh yang selesai dalam lima menit punya jeda hampir nol, jadi tarikannya terasa kuat meski nilainya kecil.
 
-Dari sini muncul akibat logis yang sering kita rasakan sebagai "kekuatan kepepet". Ketika tenggat mendekat, T - t mengecil, penyebut menyusut ke arah Z, dan hasil bagi membesar. Ini konsekuensi dari bentuk persamaannya, bukan temuan terpisah dari eksperimen. Tarikan itu juga tidak naik pelan-pelan: selama jeda masih lebar, perubahannya nyaris tak terasa, lalu melonjak di ujung.
+Dari sini muncul akibat logis yang sering kita rasakan sebagai "kekuatan kepepet". Ketika tenggat mendekat, T - t mengecil, penyebut menyusut ke arah Z, dan hasil bagi membesar. Kenaikan ini murni akibat logis dari bentuk persamaannya. Selama jeda masih lebar, perubahan tarikannya nyaris tak terasa, lalu melonjak di ujung.
 
 Urutan akibat logis dari bentuk persamaan itu bisa dibaca dari kiri ke kanan.
 
@@ -54,32 +54,32 @@ flowchart LR
     C --> D["Hasil bagi membesar"]
 ```
 
-> Ilustrasi penulis, bukan temuan: sebuah esai yang tenggatnya sebulan lagi terasa jinak selama tiga minggu, lalu mendadak terasa mendesak di malam terakhir.
+> Sebagai ilustrasi dari penulis, bayangkan sebuah esai yang tenggatnya sebulan lagi. Selama tiga minggu ia terasa jinak, lalu mendadak terasa mendesak di malam terakhir.
 
-Itu hanya gambaran, tetapi polanya cocok dengan bentuk persamaan. Definisi Steel (2007) yang kita temui di bab pertama menjelaskan kenapa gambaran ini terasa janggal: kita tahu akan rugi, tetapi lonjakan tarikan di ujung datang terlambat untuk menyelamatkan kualitas.
+Itu hanya gambaran, tetapi polanya cocok dengan bentuk persamaan. Definisi Steel (2007) yang kita temui di bab pertama menjelaskan kenapa gambaran ini terasa janggal. Kita tahu akan rugi, sementara lonjakan tarikan di ujung datang terlambat untuk menyelamatkan kualitas.
 
 ### Cocok dengan temuan Steel (2007)
 
-Steel (2007) menganalisis 691 korelasi dalam sebuah meta-analisis dan menemukan beberapa prediktor penundaan yang kuat dan konsisten: task aversiveness (tugas yang terasa tidak menyenangkan), task delay, self-efficacy, impulsiveness, dan conscientiousness beserta fasetnya seperti kontrol diri, mudah teralihkan, keteraturan, dan dorongan berprestasi. Neuroticism, rebelliousness, dan sensation seeking hanya berkaitan lemah. Penulisnya menyatakan hasil ini konsisten dengan TMT.
+Steel (2007) menganalisis 691 korelasi dalam sebuah meta-analisis dan menemukan bahwa penundaan diprediksi secara kuat dan konsisten oleh task aversiveness (tugas yang terasa tidak menyenangkan), task delay, self-efficacy, impulsiveness, serta conscientiousness beserta fasetnya seperti kontrol diri, mudah teralihkan, keteraturan, dan dorongan berprestasi. Neuroticism, rebelliousness, dan sensation seeking hanya berkaitan lemah. Penulisnya menyatakan hasil ini konsisten dengan TMT.
 
 Petanya kira-kira begini, dan sebagian merupakan tafsir kasar penulis buku ini:
 
-- Task aversiveness menekan **nilai**: tugas yang dibenci kehilangan daya tarik.
-- Self-efficacy cocok dengan **harapan**: keyakinan bahwa kamu mampu.
+- Task aversiveness menekan **nilai**, karena tugas yang dibenci kehilangan daya tarik.
+- Self-efficacy cocok dengan **harapan**, keyakinan bahwa kamu mampu.
 - Impulsiveness sejajar dengan **Gamma**, sensitivitas terhadap penundaan.
 - Task delay menggambarkan **jeda** antara sekarang dan hasil.
 - Conscientiousness lebih berupa sifat umum, tidak menempel pada satu simbol. Faset seperti kontrol diri dan keteraturan lebih mudah dikaitkan dengan sisi impulsivitas.
 
-Ingat bahwa ini temuan korelasional. Hubungan itu menunjukkan pola yang searah dengan teori, bukan bukti bahwa tiap faktor menyebabkan penundaan.
+Ingat bahwa ini temuan korelasional. Hubungan itu menunjukkan pola yang searah dengan teori. Apakah tiap faktor benar-benar menyebabkan penundaan, data ini belum bisa memastikannya.
 
 ### Batas kegunaan persamaan ini
 
-Persamaan ini tidak bisa kamu isi dengan angka lalu memprediksi kapan tepatnya kamu akan mulai bekerja. Kamu tidak punya skala yang pasti untuk "nilai" atau "harapan", dan perasaanmu berubah dari jam ke jam. Model ini berguna sebagai peta: ia menunjuk empat tempat yang bisa dikutak-katik, bukan jam yang berdetak di kepalamu. Faktor lain seperti suasana hati dan stres juga ikut bermain.
+Persamaan ini tidak bisa kamu isi dengan angka lalu memprediksi kapan tepatnya kamu akan mulai bekerja. Kamu tidak punya skala yang pasti untuk "nilai" atau "harapan", dan perasaanmu berubah dari jam ke jam. Model ini berguna sebagai peta yang menunjuk empat tempat untuk dikutak-katik. Faktor lain seperti suasana hati dan stres juga ikut bermain.
 
 ## Inti Pembahasan
 
 1. Dalam temporal motivation theory (Steel dan König, 2006), harapan dan nilai berada di pembilang, sedangkan impulsivitas dan jeda waktu berada di penyebut.
-2. Tenggat menarik motivasi karena T - t mengecil. Ini akibat logis dari persamaan, bukan hasil eksperimen terpisah.
-3. Prediktor dalam meta-analisis Steel (2007) sejalan dengan unsur-unsur ini, tetapi sifatnya korelasional, dan model ini peta untuk berpikir, bukan alat ukur yang presisi.
+2. Tenggat menarik motivasi karena T - t mengecil, dan kenaikan itu diturunkan dari bentuk persamaannya saja.
+3. Prediktor dalam meta-analisis Steel (2007) sejalan dengan unsur-unsur ini, meski sifatnya korelasional. Pakai model ini sebagai peta untuk berpikir, karena ia tidak mengukur motivasimu dengan presisi.
 
-Satu unsur persamaan masih menyimpan pertanyaan: kenapa jeda waktu terasa berat? Jejaknya mengarah ke kebiasaan batin kita menimbang "sekarang" lebih besar daripada "nanti".
+Masih ada satu pertanyaan tentang persamaan ini. Kenapa jeda waktu terasa berat? Jejaknya mengarah ke kebiasaan batin kita menimbang "sekarang" lebih besar daripada "nanti".

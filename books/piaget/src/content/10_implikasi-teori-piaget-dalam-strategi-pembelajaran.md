@@ -2,15 +2,15 @@
 
 Lalu, bagaimana kita menerapkan semua teori kognitif ini di dalam kelas? 
 
-Jean Piaget punya pandangan yang agak berbeda dari pendidik pada zamannya. Ia menganggap anak-anak itu seperti ilmuwan kecil. Mereka secara aktif membangun pemahaman tentang dunia mereka sendiri. Jadi, tugas guru bukan lagi menjejalkan informasi ke dalam "wadah kosong".
+Jean Piaget punya pandangan yang agak berbeda dari pendidik pada zamannya. Ia menganggap anak-anak itu seperti ilmuwan kecil. Mereka secara aktif membangun pemahaman tentang dunia mereka sendiri. Jadi, guru tidak lagi bertugas menjejalkan informasi ke dalam "wadah kosong".
 
 ### Pembelajaran Penemuan (Discovery Learning)
 
-Konsep Discovery Learning sangat kental dengan pengaruh Piaget. Guru tidak lagi mendominasi kelas dengan ceramah satu arah. Pengetahuan tidak bisa ditransfer begitu saja, melainkan harus dikonstruksi sendiri oleh siswa melalui pengalaman.
+Konsep Discovery Learning sangat kental dengan pengaruh Piaget. Ceramah satu arah dari guru tidak lagi mendominasi kelas. Siswa harus mengonstruksi sendiri pengetahuannya melalui pengalaman, karena pengetahuan tidak bisa ditransfer begitu saja.
 
 Sebagai contoh, daripada sekadar menuliskan rumus $\text{Air} + \text{Panas} = \text{Uap}$ di papan tulis, guru bisa memfasilitasi eksperimen. Sediakan kompor, air, dan termometer. Biarkan siswa mengamati prosesnya, mencatat suhu yang berubah, lalu menarik kesimpulan dari apa yang mereka lihat.
 
-Dalam model ini, eksplorasi fisik sangat ditonjolkan. Guru lebih sering melontarkan pertanyaan pemantik untuk memancing pemikiran siswa. Kesalahan pun tidak dianggap sebagai kegagalan, tapi justru diakui sebagai langkah krusial dalam proses ekuilibrasi.
+Dalam model ini, eksplorasi fisik sangat ditonjolkan. Guru lebih sering melontarkan pertanyaan pemantik untuk memancing pemikiran siswa. Kesalahan siswa diakui sebagai langkah krusial dalam proses ekuilibrasi.
 
 ### Kesiapan Kognitif dan Adaptasi Materi
 
@@ -26,7 +26,7 @@ Barulah pada tahap Operasional Formal (sekitar usia 11 atau 12 tahun ke atas), s
 
 Proses belajar yang sesungguhnya baru terjadi saat anak merasa sedikit bingung. Kondisi ini disebut disekuilibrium. 
 
-Coba bayangkan: kalau materi yang diberikan terlalu mudah, anak pasti bosan. Tapi kalau kelewat susah, mereka akan menyerah. Guru harus jeli mencari titik tengah. Berikan informasi baru yang cukup mengusik pemahaman lama mereka, tapi tetap bisa diproses lewat akomodasi.
+Coba bayangkan. Kalau materi yang diberikan terlalu mudah, anak pasti bosan. Tapi kalau kelewat susah, mereka akan menyerah. Guru harus jeli mencari titik tengah. Berikan informasi baru yang cukup mengusik pemahaman lama mereka, tapi tetap bisa diproses lewat akomodasi.
 
 Takaran tantangan itulah yang menentukan nasib sebuah materi baru di kepala anak:
 
@@ -51,7 +51,7 @@ Selain itu, guru bertugas mengobservasi tingkat pemahaman siswa secara intens. T
 
 ### Penerapan pada Konsep Siklus Air
 
-Mari kita lihat perbedaan strategi mengajar untuk satu topik yang sama: siklus air.
+Mari kita lihat perbedaan strategi mengajar untuk satu topik yang sama, yaitu siklus air.
 
 - **Praoperasional:** Anak-anak mewarnai gambar awan. Bisa juga dengan membiarkan mereka mengamati genangan air yang pelan-pelan mengering di bawah terik matahari.
 - **Operasional Konkret:** Praktik langsung membuat miniatur siklus air. Siswa memasukkan air ke dalam botol tertutup, menjemurnya, lalu mengamati uap air yang menempel di dinding botol.

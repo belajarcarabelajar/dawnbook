@@ -1,6 +1,6 @@
 ## Grit
 
-Pernahkah kamu melihat seseorang yang secara akademis biasa saja, tetapi sepuluh tahun kemudian memimpin perusahaan besar atau menjadi ahli di bidangnya? Sementara itu, rekan mereka yang dianggap "jenius" justru tampak jalan di tempat. Perbedaan mencolok ini sering kali bukan disebabkan oleh tingkat IQ atau keberuntungan semata, melainkan sebuah kualitas mental yang disebut **Grit**.
+Pernahkah kamu melihat seseorang yang secara akademis biasa saja, tetapi sepuluh tahun kemudian memimpin perusahaan besar atau menjadi ahli di bidangnya? Sementara itu, rekan mereka yang dianggap "jenius" justru tampak jalan di tempat. Perbedaan mencolok ini sering kali bersumber dari sebuah kualitas mental yang disebut **Grit**. Tingkat IQ atau keberuntungan saja tidak cukup menjelaskannya.
 
 Dalam perjalanan membangun resiliensi, Grit membuat kamu terus bergerak saat motivasi awal sudah memudar. Jika resiliensi adalah kemampuan untuk bangkit kembali setelah jatuh, maka Grit adalah kemampuan untuk terus berjalan sampai garis finis, meski kamu harus jatuh bangun berkali-kali.
 
@@ -28,13 +28,13 @@ Dalam dua persamaan di atas, variabel **Usaha** muncul dua kali. Ini berarti ses
 
 ## Gairah dan Ketekunan
 
-Grit bukan hanya tentang bekerja keras. Grit adalah perpaduan antara dua elemen yang saling mendukung:
+Kerja keras hanyalah sebagian dari Grit. Grit memadukan dua elemen yang saling mendukung:
 
 ### 1. Gairah (Passion)
 
 Banyak orang salah mengartikan gairah sebagai "intensitas" atau antusiasme yang meledak-ledak di awal. Dalam konteks Grit, gairah adalah **konsistensi dalam jangka waktu lama**.
 
-- Bukan tentang "jatuh cinta" pada sebuah ide, tetapi tentang "tetap mencintai" ide tersebut selama bertahun-tahun.
+- Mencintai sebuah ide secara konsisten selama bertahun-tahun, melewati masa "jatuh cinta" di awal.
 - Memiliki "Kompas Internal" atau tujuan tingkat atas yang mengarahkan semua aktivitas harianmu.
 
 ### 2. Ketekunan (Perseverance)
@@ -48,10 +48,10 @@ Ketekunan adalah kemampuan untuk bertahan menghadapi kesulitan, kegagalan, dan k
 
 ## Empat Pilar untuk Menumbuhkan Grit
 
-Kabar baiknya, Grit bukanlah sifat bawaan lahir yang statis. Kamu bisa melatih "otot" Gritmu melalui empat tahap progresif:
+Kabar baiknya, Grit tidak terkunci sejak lahir. Kamu bisa melatih "otot" Gritmu melalui empat tahap progresif:
 
 1. **Minat (Interest):** Grit dimulai dengan menikmati apa yang kamu lakukan. Kamu tidak harus langsung menemukan panggilan hidupmu; mulailah dengan eksplorasi dan rasa ingin tahu yang mendalam terhadap suatu bidang.
-2. **Latihan (Practice):** Latihan yang dimaksud adalah *deliberate practice* (latihan sengaja) dan bukan latihan biasa. Ini adalah disiplin untuk fokus pada kelemahanmu dan mencoba memperbaikinya setiap hari.
+2. **Latihan (Practice):** Latihan yang dimaksud adalah *deliberate practice* (latihan sengaja), yaitu disiplin untuk fokus pada kelemahanmu dan mencoba memperbaikinya setiap hari.
    - <div>
      $$
      \text{Kualitas Latihan} > \text{Kuantitas Jam}
@@ -59,7 +59,7 @@ Kabar baiknya, Grit bukanlah sifat bawaan lahir yang statis. Kamu bisa melatih "
      </div>
 
 3. **Tujuan (Purpose):** Grit akan mencapai puncaknya ketika kamu merasa bahwa pekerjaanmu berkontribusi bagi kesejahteraan orang lain. Koneksi antara minat pribadi dan manfaat sosial menciptakan motivasi yang kuat.
-4. **Harapan (Hope):** Ini adalah jenis harapan yang aktif. Kamu tidak hanya berharap keadaan membaik dengan sendirinya, tetapi memiliki keyakinan bahwa usahamu mampu mengubah masa depanmu. Ini berkaitan erat dengan *Growth Mindset* yang dibahas di bagian lain.
+4. **Harapan (Hope):** Ini adalah jenis harapan yang aktif. Kamu yakin bahwa usahamu mampu mengubah masa depanmu. Menunggu keadaan membaik dengan sendirinya tidak cukup. Ini berkaitan erat dengan *Growth Mindset* yang dibahas di bagian lain.
 
 ## Pelari Maraton vs. Pelari Cepat
 
@@ -68,7 +68,7 @@ Bayangkan hidup sebagai sebuah lintasan.
 - **Bakat** adalah kecepatan maksimal yang bisa kamu capai dalam lari sprint 100 meter. Mengesankan, tetapi cepat berakhir.
 - **Grit** adalah stamina seorang pelari maraton. Ia mungkin tidak berlari paling cepat, tetapi ia mengatur napasnya, menjaga ritme kakinya, dan tidak berhenti meski ototnya mulai terasa terbakar.
 
-Di dunia nyata, kehidupan lebih mirip maraton daripada sprint. Orang yang menang bukan yang tercepat di satu kilometer pertama, tetapi yang masih berlari di kilometer ke-40.
+Di dunia nyata, kehidupan lebih mirip maraton daripada sprint. Pemenangnya adalah orang yang masih berlari di kilometer ke-40, siapa pun yang tercepat di kilometer pertama.
 
 ## Aplikasi Nyata dan Skenario
 
@@ -77,14 +77,14 @@ Di dunia nyata, kehidupan lebih mirip maraton daripada sprint. Orang yang menang
 Seorang programmer junior menghadapi *bug* kompleks yang membuat sistem perusahaan lumpuh.
 
 - **Tanpa Grit:** Dia akan merasa frustrasi setelah dua jam, menyalahkan alat yang digunakan, dan meminta orang lain menyelesaikannya.
-- **Dengan Grit:** Dia memahami bahwa kegagalan adalah bagian dari proses. Dia melakukan riset, mencoba berbagai pendekatan satu demi satu, dan bertahan di depan layar hingga masalah teratasi, meskipun itu memakan waktu 12 jam. Baginya, setiap *error* adalah petunjuk, bukan penghalang.
+- **Dengan Grit:** Dia memahami bahwa kegagalan adalah bagian dari proses. Dia melakukan riset, mencoba berbagai pendekatan satu demi satu, dan bertahan di depan layar hingga masalah teratasi, meskipun itu memakan waktu 12 jam. Baginya, setiap *error* berfungsi sebagai petunjuk.
 
 ### Startup yang Ditolak 20 Investor Pertama
 
 Seorang pendiri *startup* ditolak oleh 20 investor pertama.
 
 - **Tanpa Grit:** Dia akan merasa bahwa idenya buruk dan segera menutup bisnisnya.
-- **Dengan Grit:** Dia menggunakan umpan balik dari setiap penolakan untuk memperbaiki model bisnisnya. Gairahnya pada visi jangka panjang (misalnya: mengurangi limbah plastik) membuatnya terus maju hingga investor ke-21 memberikan pendanaan.
+- **Dengan Grit:** Dia menggunakan umpan balik dari setiap penolakan untuk memperbaiki model bisnisnya. Gairahnya pada visi jangka panjang (misalnya mengurangi limbah plastik) membuatnya terus maju hingga investor ke-21 memberikan pendanaan.
 
 ## Mengevaluasi Gritmu
 
@@ -96,6 +96,6 @@ Untuk memahami posisimu saat ini, renungkan beberapa pertanyaan berikut:
 
 **Tips Praktis:**
 
-> **Penerapan Aturan "Hal Sulit":** Cobalah berkomitmen melakukan satu "hal sulit" setiap hari (misalnya: belajar bahasa baru selama 30 menit atau lari pagi). Aturannya sederhana: kamu tidak boleh berhenti di tengah jalan hanya karena hari itu terasa berat atau membosankan. Kamu hanya boleh berhenti setelah tujuan kecil tersebut tercapai atau periode waktu yang dijanjikan selesai.
+> **Penerapan Aturan "Hal Sulit":** Cobalah berkomitmen melakukan satu "hal sulit" setiap hari (misalnya belajar bahasa baru selama 30 menit atau lari pagi). Aturannya sederhana. Kamu tidak boleh berhenti di tengah jalan hanya karena hari itu terasa berat atau membosankan. Kamu hanya boleh berhenti setelah tujuan kecil tersebut tercapai atau periode waktu yang dijanjikan selesai.
 
 Grit adalah tentang daya tahan. Kemajuan menuju keahlian tidak pernah berupa garis lurus ke atas. Ada masa naik, ada masa turun, dan ada banyak momen ketika satu-satunya hal yang membuatmu bertahan adalah janji pada diri sendiri untuk tidak menyerah.

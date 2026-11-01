@@ -109,7 +109,7 @@ r^2(t) = r^2(0) + 2 \xi t
 $$
 </div>
 
-Yang bertambah sebanding dengan waktu adalah $r^2$, bukan $r$. Setelah tetesan jauh lebih besar daripada jari-jari awalnya, menggandakan jari-jari membutuhkan waktu empat kali lebih lama. Karena itu laju pertambahan jari-jari ($\text{dr/dt}$) berlangsung sangat pesat pada tahap awal, tetapi melambat secara konsisten seiring bertambahnya ukuran tetesan.
+Persamaan ini membuat kuadrat jari-jari, $r^2$, bertambah sebanding dengan waktu. Setelah tetesan jauh lebih besar daripada jari-jari awalnya, menggandakan jari-jari membutuhkan waktu empat kali lebih lama. Karena itu laju pertambahan jari-jari ($\text{dr/dt}$) berlangsung sangat pesat pada tahap awal, tetapi melambat secara konsisten seiring bertambahnya ukuran tetesan.
 
 ---
 
