@@ -1,7 +1,7 @@
 ---
 schema: ultra-plan/v1
 plan_id: 2026-11-01-dawnbook-premium-ebooks
-status: Draft
+status: Approved
 version: 1
 runner_contract: true
 defaults:
@@ -328,7 +328,7 @@ flowchart TD
 
 **Definition of Done:** AC-1 to AC-14 checked with evidence; plan ticked from runner logs; owner answered the `Close plan` gate.
 
-**Plan Status & Version:** Draft, version 1.
+**Plan Status & Version:** Approved 2026-11-01 (`Plan` gate: Approve + fan out), version 1.
 
 **Reproducibility:** Bun 1.4.4, mdBook from `~/.cargo/bin`, markitdown at `~/.local/bin/markitdown`, poppler-utils; PDFs fetched with `cf r2 objects get member/<slug>.pdf --bucket-name bcb-admin-media`.
 
