@@ -50,9 +50,9 @@ Kelima langkah IBR tadi bisa kamu ringkas menjadi satu alur kerja.
 ```mermaid
 flowchart TD
     accTitle: Langkah praktis penerapan IBR
-    accDescr: Lima langkah IBR secara berurutan, yaitu menempatkan relasi sebagai prioritas utama, memisahkan individu dari masalah teknis, menggali kepentingan bukan posisi, mendengar aktif sebelum merespons, dan menemukan opsi win-win.
+    accDescr: Lima langkah IBR secara berurutan, yaitu menempatkan relasi sebagai prioritas utama, memisahkan individu dari masalah teknis, menggali kepentingan di balik posisi, mendengar aktif sebelum merespons, dan menemukan opsi win-win.
     A["1. Tempatkan relasi sebagai prioritas utama"] --> B["2. Pisahkan individu dari masalah teknis"]
-    B --> C["3. Gali kepentingan, bukan sekadar posisi"]
+    B --> C["3. Gali kepentingan di balik posisi"]
     C --> D["4. Dengar aktif sebelum merespons"]
     D --> E["5. Temukan opsi win-win"]
 ```

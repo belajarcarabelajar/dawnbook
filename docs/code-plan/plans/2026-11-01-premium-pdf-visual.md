@@ -1,7 +1,7 @@
 ---
 schema: ultra-plan/v1
 plan_id: 2026-11-01-premium-pdf-visual
-status: Approved
+status: Complete
 version: 1
 runner_contract: true
 defaults:
@@ -243,17 +243,17 @@ flowchart TD
 
 **Acceptance Criteria:**
 
-- [ ] AC-1: a premium chapter with a Mermaid block shows the same inlined SVG on the built web page and in the PDF, and the PDF text has no "```mermaid".
-- [ ] AC-2: the Referensi chapters of 100 Study Hacks and Belajar Cara Belajar render with a 1.27 cm hanging indent, left aligned, on the web and in the PDF.
-- [ ] AC-3: every `**Kekuatan bukti:**` paragraph renders as a callout of its level on the web and in the PDF; the built HTML has as many callouts as the source has labels.
-- [ ] AC-4: each store PDF opens with the full-page cover, has one bookmark per chapter, shows the diagonal watermark on every content page but not on the cover, keeps the watermark out of the text layer, and `pdfinfo` reports `copy:no`.
-- [ ] AC-5: every production deploy reprints the revised premium books and replaces `member/<slug>.pdf`; the object's sha256 equals the local file, and no other object is written.
+- [x] AC-1: a premium chapter with a Mermaid block shows the same inlined SVG on the built web page and in the PDF, and the PDF text has no "```mermaid".
+- [x] AC-2: the Referensi chapters of 100 Study Hacks and Belajar Cara Belajar render with a 1.27 cm hanging indent, left aligned, on the web and in the PDF.
+- [x] AC-3: every `**Kekuatan bukti:**` paragraph renders as a callout of its level on the web and in the PDF; the built HTML has as many callouts as the source has labels.
+- [x] AC-4: each store PDF opens with the full-page cover, has one bookmark per chapter, shows the diagonal watermark on every content page but not on the cover, keeps the watermark out of the text layer, and `pdfinfo` reports `copy:no`.
+- [x] AC-5: every production deploy reprints the revised premium books and replaces `member/<slug>.pdf`; the object's sha256 equals the local file, and no other object is written.
 - [x] AC-6: R2 `member/` holds only `100-study-hacks.pdf`, `belajar-cara-belajar.pdf`, `lancar-nugas.pdf` and `grandbook-pro.pdf`.
-- [ ] AC-7: every approved visual is in its chapter, grounded in that chapter's text, and the diagram, structure, voice and heading gates exit 0.
-- [ ] AC-8: the owner approves the web pages and the PDFs of the three books in a local review.
-- [ ] AC-9: production serves the new pages and the store serves the new PDFs.
-- [ ] AC-10: no premium image is in the Pages output; Dawnbook serves premium images from R2 to an entitled reader, refuses them to an anonymous one (except `images/public/`), and the bucket holds only the images the current books use.
-- [ ] AC-11: the repeated study retellings are trimmed (each study told in full once per book), the same study carries the same evidence label for the same claim, and Lancar Nugas chapter 17 has one subheading per tool group.
+- [x] AC-7: every approved visual is in its chapter, grounded in that chapter's text, and the diagram, structure, voice and heading gates exit 0.
+- [x] AC-8: the owner approves the web pages and the PDFs of the three books in a local review.
+- [x] AC-9: production serves the new pages and the store serves the new PDFs.
+- [x] AC-10: no premium image is in the Pages output; Dawnbook serves premium images from R2 to an entitled reader, refuses them to an anonymous one (except `images/public/`), and the bucket holds only the images the current books use.
+- [x] AC-11: the repeated study retellings are trimmed (each study told in full once per book), the same study carries the same evidence label for the same claim, and Lancar Nugas chapter 17 has one subheading per tool group.
 
 **Traceability:**
 
@@ -353,10 +353,10 @@ flowchart TD
 
 **Review & Evidence:** RED test with a fixture book holding a Mermaid block and its cached SVG (fake mdbook records the prepared file), GREEN, typecheck exit 0.
 
-- [ ] Step 1: Write the failing test: the file mdbook receives has the inlined SVG instead of the fence.
-- [ ] Step 2: Run: `timeout 120 bun test tests/scripts/premium-print-pdf.test.ts` | expect: exit 1.
-- [ ] Step 3: Implement the shared preparation in print-pdf.
-- [ ] Step 4: Run the test and `bun run typecheck` | expect: exit 0.
+- [x] Step 1: Write the failing test: the file mdbook receives has the inlined SVG instead of the fence.
+- [x] Step 2: Run: `timeout 120 bun test tests/scripts/premium-print-pdf.test.ts` | expect: exit 1.
+- [x] Step 3: Implement the shared preparation in print-pdf.
+- [x] Step 4: Run the test and `bun run typecheck` | expect: exit 0.
 
 ### Task T2: Reference list and evidence label styles
 
@@ -379,10 +379,10 @@ flowchart TD
 
 **Review & Evidence:** RED, GREEN, typecheck; a built page checked in the light and coal themes.
 
-- [ ] Step 1: Write the failing tests (references wrapped, each label level wrapped, no wrap without the edition flag, source file unchanged).
-- [ ] Step 2: Run: `timeout 120 bun test tests/scripts/decorate-premium.test.ts` | expect: exit 1.
-- [ ] Step 3: Implement the decoration and the CSS.
-- [ ] Step 4: Run the test and the typecheck | expect: exit 0.
+- [x] Step 1: Write the failing tests (references wrapped, each label level wrapped, no wrap without the edition flag, source file unchanged).
+- [x] Step 2: Run: `timeout 120 bun test tests/scripts/decorate-premium.test.ts` | expect: exit 1.
+- [x] Step 3: Implement the decoration and the CSS.
+- [x] Step 4: Run the test and the typecheck | expect: exit 0.
 
 ### Task T3: PDF finishing
 
@@ -407,10 +407,10 @@ flowchart TD
 
 **Review & Evidence:** RED, GREEN, typecheck, then one real print per book checked with pdfinfo (`copy:no`), the outline count, pdftotext and page images.
 
-- [ ] Step 1: Write the failing tests (break rules, watermark element and SVG has no `<text`, outline flag, finish step called with the cover first, restrict flag passed).
-- [ ] Step 2: Run the test file | expect: exit 1.
-- [ ] Step 3: Implement the style, the watermark and `finish-pdf.py`.
-- [ ] Step 4: Run the tests and the typecheck | expect: exit 0.
+- [x] Step 1: Write the failing tests (break rules, watermark element and SVG has no `<text`, outline flag, finish step called with the cover first, restrict flag passed).
+- [x] Step 2: Run the test file | expect: exit 1.
+- [x] Step 3: Implement the style, the watermark and `finish-pdf.py`.
+- [x] Step 4: Run the tests and the typecheck | expect: exit 0.
 
 ### Task T4: The PDFs are released with every deploy
 
@@ -433,10 +433,10 @@ flowchart TD
 
 **Review & Evidence:** RED, GREEN, typecheck; a `--dry-run` on the three books.
 
-- [ ] Step 1: Write the failing tests (only key member/<slug>.pdf, hash compare, failure list, dry run uploads nothing).
-- [ ] Step 2: Run the test file | expect: exit 1.
-- [ ] Step 3: Implement the script and the deploy step; document it in GEMINI.md section 30.
-- [ ] Step 4: Run the tests and the typecheck | expect: exit 0.
+- [x] Step 1: Write the failing tests (only key member/<slug>.pdf, hash compare, failure list, dry run uploads nothing).
+- [x] Step 2: Run the test file | expect: exit 1.
+- [x] Step 3: Implement the script and the deploy step; document it in GEMINI.md section 30.
+- [x] Step 4: Run the tests and the typecheck | expect: exit 0.
 
 ### Task T5: Delete the 2022 PDF backups in R2
 
@@ -468,9 +468,9 @@ flowchart TD
 
 **Review & Evidence:** check-diagrams, structure, voice and colon gates exit 0; each diagram and SVG rendered and looked at; a read-only reviewer checks grounding against the chapter text.
 
-- [ ] Step 1: Write the approved items and the trims, one writer per chapter.
-- [ ] Step 2: Render the diagram caches in the public worktree's synced copy and copy `diagrams/` back to the private book.
-- [ ] Step 3: Run the gates | expect: exit 0.
+- [x] Step 1: Write the approved items and the trims, one writer per chapter.
+- [x] Step 2: Render the diagram caches in the public worktree's synced copy and copy `diagrams/` back to the private book.
+- [x] Step 3: Run the gates | expect: exit 0.
 
 ### Task T7: Visuals and reading flow for Belajar Cara Belajar
 
@@ -478,17 +478,17 @@ Same shape and rules as T6, for the BCB items in the appendix. It also fixes:
 - the evidence label of one study cited in several chapters, so the same claim carries the same level everywhere;
 - the chapter 15 sentence that points at a formula the chapter never shows.
 
-- [ ] Step 1: Write the approved items, the trims and the two fixes.
-- [ ] Step 2: Render and copy the diagram caches back.
-- [ ] Step 3: Run the gates | expect: exit 0.
+- [x] Step 1: Write the approved items, the trims and the two fixes.
+- [x] Step 2: Render and copy the diagram caches back.
+- [x] Step 3: Run the gates | expect: exit 0.
 
 ### Task T8: Visuals and reading flow for Lancar Nugas
 
 Same shape and rules as T6, for the LN items in the appendix. It also turns the bold group names of chapter 17 into `###` subheadings, changing no wording.
 
-- [ ] Step 1: Write the approved items, the trims and the chapter 17 subheadings.
-- [ ] Step 2: Render and copy the diagram caches back.
-- [ ] Step 3: Run the gates | expect: exit 0.
+- [x] Step 1: Write the approved items, the trims and the chapter 17 subheadings.
+- [x] Step 2: Render and copy the diagram caches back.
+- [x] Step 3: Run the gates | expect: exit 0.
 
 ### Task T11: Premium web images from R2
 
@@ -517,23 +517,23 @@ Same shape and rules as T6, for the LN items in the appendix. It also turns the 
 
 **Review & Evidence:** RED, GREEN, typecheck; a local `wrangler pages dev` run with a local R2 binding seeded from the staging folder, showing 200 for an entitled session, 302 or 401 for an anonymous one, and 200 for `images/public/`; an independent `staid` review of the middleware diff.
 
-- [ ] Step 1: Write the failing tests (media route allowed, refused, public, missing key, missing binding, dot segments; sync upload, unchanged skip, prune, empty-staging refusal).
-- [ ] Step 2: Run: `timeout 120 bun test tests/scripts/premium-sync-media.test.ts tests/functions/premium-middleware.test.ts` | expect: exit 1.
-- [ ] Step 3: Implement the build move, the sync script, the middleware route, the binding and the deploy steps; document them in GEMINI.md section 30.
-- [ ] Step 4: Run the tests and the typecheck | expect: exit 0.
+- [x] Step 1: Write the failing tests (media route allowed, refused, public, missing key, missing binding, dot segments; sync upload, unchanged skip, prune, empty-staging refusal).
+- [x] Step 2: Run: `timeout 120 bun test tests/scripts/premium-sync-media.test.ts tests/functions/premium-middleware.test.ts` | expect: exit 1.
+- [x] Step 3: Implement the build move, the sync script, the middleware route, the binding and the deploy steps; document them in GEMINI.md section 30.
+- [x] Step 4: Run the tests and the typecheck | expect: exit 0.
 
 ### Task T9: Verify the web and the PDF
 
-- [ ] Step 1: `bun run check:diagrams` and the full build with the private worktree | expect: exit 0.
-- [ ] Step 2: Print the three PDFs with `--dry-run` of the release script; check AC-1 to AC-4 with pdfinfo, pdftotext, the outline and page images.
-- [ ] Step 3: Local preview of the web pages; owner `Review` gate for web and PDF.
+- [x] Step 1: `bun run check:diagrams` and the full build with the private worktree | expect: exit 0.
+- [x] Step 2: Print the three PDFs with `--dry-run` of the release script; check AC-1 to AC-4 with pdfinfo, pdftotext, the outline and page images.
+- [x] Step 3: Local preview of the web pages; owner `Review` gate for web and PDF.
 
 ### Task T10: Release
 
-- [ ] Step 1: Public PR and private PR, each merged after its own question.
-- [ ] Step 2: Create the bucket `dawnbook-premium-media` after its own question (`cf r2 buckets create dawnbook-premium-media`), then check it is listed.
-- [ ] Step 3: Deploy after its own question. The media upload runs before the Pages deploy, the PDF release and the media prune after it; check the sha256 lines and the media key list.
-- [ ] Step 4: Live probes: chapter 1 public; a paid chapter and a paid image answer 401 to an anonymous visitor; `images/public/` answers 200.
+- [x] Step 1: Public PR and private PR, each merged after its own question.
+- [x] Step 2: Create the bucket `dawnbook-premium-media` after its own question (`cf r2 buckets create dawnbook-premium-media`), then check it is listed.
+- [x] Step 3: Deploy after its own question. The media upload runs before the Pages deploy, the PDF release and the media prune after it; check the sha256 lines and the media key list.
+- [x] Step 4: Live probes: chapter 1 public; a paid chapter and a paid image answer 401 to an anonymous visitor; `images/public/` answers 200.
 
 ## Owner addition 2026-11-02: contrast framing and reveal colons
 
@@ -548,3 +548,7 @@ The candidate list quotes book headings, so it lives in the private repo: `plans
 | 100 Study Hacks | 7 | 5 | 1 replaced (3 small images become one) | 2 retellings trimmed |
 | Belajar Cara Belajar | 6 | 4 | 1 dropped (duplicate) | 1 retelling trimmed, 2 fixes |
 | Lancar Nugas | 6 + 1 reuse | 4 | none | 2 retellings trimmed, chapter 17 subheadings |
+
+## Closeout status
+
+- 2026-11-02: closed by the owner ("kedua plan itu seharusnya bisa diclose"). Evidence: public #244, #246, #247 and private dawnbook-premium #6 merged; deploys on 2026-11-02 ran the media upload, Pages, `release-pdfs.ts` (sha256 match per book) and the media prune, all exit 0; AC-8 approved by the owner in the local review. AC-9 (store PDFs as a buyer sees them) rests on the release script's sha256 check, not on a signed-in buyer session; the owner accepted that.

@@ -1,7 +1,7 @@
 ---
 schema: ultra-plan/v1
 plan_id: 2026-11-01-dawnbook-premium-debt
-status: Approved
+status: Complete
 version: 1
 runner_contract: true
 defaults:
@@ -297,3 +297,4 @@ bcb `apps/situs/src/akun/masuk-dawnbook.ts` (`RE_MASUK_DAWNBOOK`, session via `c
 - 2026-11-01: `bun ~/vivera/scripts/plan-closeout.mjs --readiness docs/code-plan/plans/2026-11-01-dawnbook-premium-debt.md` verdict NEEDS-HUMAN (exit 3): T1 to T6, T8, T9 DONE by their `skip_if`; T7 and T10 UNPROVEN because their proof is human evidence, recorded under Release evidence; 0 open boxes. Owner answered `Close plan`: Keep it open. Reopen trigger: the owner's call.
 - The T6 `skip_if` pointed at the wrong test file (`tests/functions/api/books.test.ts`, where the filter matched no test); corrected to `tests/functions/lib/db.test.ts` in the closeout session.
 - Follow-ups selected in the debt sweep and done in the closeout session: D12 (sign-up page Google button never got its click handler), D13 (the store hand-off is bound to a short-lived state cookie set by Dawnbook, against login CSRF), D14 (bcb `/masuk-dawnbook` matches the exact path only, like `run_worker_first`).
+- 2026-11-02: closed by the owner. Still open as backlog, not part of this plan: D15 (the sign-up page title loses its `data-i18n="signin.title"` key) and D16 (`session_id` and `oauth_state` cookies have no `__Host-` prefix; renaming signs every reader out once).

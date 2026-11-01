@@ -63,7 +63,7 @@ flowchart TD
     accDescr: Sel punca membelah diri menjadi sel progenitor lewat proliferasi, sel baru bermigrasi ke lokasi yang dibutuhkan, berdiferensiasi menjadi neuron, lalu lewat integrasi sinaptik menumbuhkan dendrit dan akson untuk terhubung dengan neuron lama.
     S(["Sel punca"]) -->|"proliferasi"| P["Sel progenitor"]
     P -->|"migrasi"| M["Sel baru di lokasi yang dibutuhkan"]
-    M -->|"diferensiasi"| D["Neuron, bukan jenis sel otak lainnya"]
+    M -->|"diferensiasi"| D["Neuron"]
     D -->|"integrasi sinaptik"| N(["Neuron baru terhubung dengan neuron lama"])
 ```
 
