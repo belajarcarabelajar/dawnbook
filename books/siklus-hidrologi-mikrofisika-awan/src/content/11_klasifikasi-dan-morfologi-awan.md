@@ -48,11 +48,13 @@ Awan pada kategori ini berkembang secara vertikal dan menembus beberapa lapisan 
 
 Memiliki kenampakan visual seperti gumpalan kapas dengan basis yang mendatar dan puncak membulat menyerupai kubah atau kembang kol.
 
-- Basis yang rata menandakan tingkat kondensasi terangkat atau **LCL** (*Lifting Condensation Level*), yaitu ketinggian saat suhu parsel udara mencapai titik embunnya:
+- Basis yang rata menandakan tingkat kondensasi terangkat atau **LCL** (*Lifting Condensation Level*), yaitu ketinggian saat suhu parsel udara mencapai titik embunnya. Ketinggiannya dalam meter dapat diperkirakan dengan rumus Espy dari bab 3:
 
+  <div>
   $$
-  T_d = T - \left(\frac{T - T_d}{0.8}\right) \times 100
+  h_{\text{LCL}} \approx 125 \times (T - T_d)
   $$
+  </div>
 
 - Apabila mikrofisika awan hanya melibatkan proses air hangat tanpa konveksi kuat, pertumbuhannya akan terbatas pada fase *Cumulus humilis*.
 
