@@ -15,3 +15,9 @@ Terms used in Dawnbook plans, specs, rules and tests. Meanings only; decisions l
 - **Old-book broadcast:** the daily posting of old books to the Dawnbook Telegram group, one per day, until each has been posted once.
 - **Frozen queue:** the ordered list of old-book messages written once at `init` and never rebuilt by later runs.
 - **In-flight send:** the record written just before a Telegram send and cleared after it; one left behind means the outcome is unknown.
+- **Premium book:** a Dawnbook book listed in the premium registry; its chapters after the first open only for readers with a purchase right.
+- **Premium registry:** the public file that lists premium slugs, the store product ids that unlock each, and the product page link.
+- **Purchase right:** a non-revoked store entitlement of kind `unduhan` for the book's product or of kind `member` for any product, or a course allowlist row, for the reader's email.
+- **Store database:** the D1 database `bcbacademy-lms`, owned by the bcb repository.
+- **Private source:** the private repository that holds the premium book folders and the raw markitdown output.
+- **Verbatim proof:** the token comparison between the PDF text and the joined chapters, with every allowed difference listed.
