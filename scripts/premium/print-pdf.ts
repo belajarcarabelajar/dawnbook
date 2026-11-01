@@ -17,7 +17,7 @@
  *   chapter 1 flowed with the text and left page 1 almost empty.
  * Exit codes: 0 success, 1 failure, 2 usage error.
  *
- * Needs mdbook, chromium, pdfinfo, pdftotext and uv. uv runs scripts/premium/finish-pdf.py with
+ * Needs mdbook, chromium, pdfinfo, pdftotext, pdftoppm and uv. uv runs scripts/premium/finish-pdf.py with
  * pikepdf pinned to PIKEPDF_VERSION below (pikepdf bundles qpdf, so no system package is added).
  *
  * Steps:
@@ -43,7 +43,8 @@
  *      when --restrict was given; anything else exits 1 and writes no PDF.
  *   8. pdftotext of the finished book pages must not hold "belajarcarabelajar.com" more often than
  *      the prepared Markdown does; otherwise the watermark leaked into the text layer.
- *   9. The PDF is copied to --out; the temp dir and the prepared copy are removed.
+ *   9. pdftoppm renders the first book page at 40 dpi gray; its centre must show the watermark's gray.
+ *  10. The PDF is copied to --out; the temp dir and the prepared copy are removed.
  *
  * Measured traps (2026-11-01):
  *   - Chromium here cannot read files under ~/.cache (where TMPDIR points on this machine).
@@ -95,6 +96,14 @@ export const PIKEPDF_VERSION = "10.17.0";
 const FINISH_SCRIPT = path.join(import.meta.dir, "finish-pdf.py");
 const WATERMARK_TEXT = "belajarcarabelajar.com";
 const WATERMARK_DIV = '<div class="pdf-watermark"></div>';
+// The watermark's flat colour on a gray render: 6 % black over white paper, 255 * 0.94 = 239.7.
+const WATERMARK_GRAY = 240;
+// Share of the centre band (middle half of the width, middle 30 % of the height) that must have
+// exactly that colour. Measured 2026-11-02 on all 41 pages of a book at 40 dpi, out of 23,714
+// pixels: 229 to 516 (0.97 % to 2.2 %) with the watermark, 0 to 75 (at most 0.32 %, from
+// antialiased text) without it. A wider band such as 225 to 252 overlapped: up to 8,498 pixels
+// without the watermark, from text and tinted boxes.
+const WATERMARK_MIN_SHARE = 0.006;
 
 export { UsageError };
 
@@ -293,6 +302,25 @@ function defaultDeps(): Deps {
   };
 }
 
+// Reads the binary PGM that pdftoppm -gray writes and returns the share of the centre band
+// that has the watermark's colour.
+export function watermarkShare(pgm: Buffer): number {
+  const header = /^P5\s+(\d+)\s+(\d+)\s+255\s/.exec(pgm.subarray(0, 64).toString("latin1"));
+  if (!header) throw new Error("pdftoppm wrote no 8-bit gray PGM page, cannot check the watermark");
+  const [width, height] = [Number(header[1]), Number(header[2])];
+  const pixels = pgm.subarray(header[0].length);
+  if (pixels.length < width * height) throw new Error("the PGM page from pdftoppm is truncated");
+  let band = 0;
+  let ink = 0;
+  for (let y = Math.floor(0.35 * height); y < 0.65 * height; y++) {
+    for (let x = Math.floor(0.25 * width); x < 0.75 * width; x++) {
+      band++;
+      if (pixels[y * width + x] === WATERMARK_GRAY) ink++;
+    }
+  }
+  return band === 0 ? 0 : ink / band;
+}
+
 function siteNameCount(text: string): number {
   return text.toLowerCase().split(WATERMARK_TEXT).length - 1;
 }
@@ -468,6 +496,23 @@ async function printBook(
       `print-pdf: watermark leaked into the text layer: the PDF text names ${WATERMARK_TEXT} ` +
         `${siteNamesInPdf} times, the book text ${siteNamesInBook} times`,
     );
+    return 1;
+  }
+
+  // The checks above cannot see the watermark itself: a Chromium that dropped the fixed
+  // background would print clean pages. pdftoppm reads the restricted PDF (empty open password).
+  const firstBookPage = coverPdf === undefined ? "1" : "2";
+  const raster = path.join(temp, "watermark-check");
+  const render = deps.run(
+    ["pdftoppm", "-r", "40", "-gray", "-singlefile", "-f", firstBookPage, "-l", firstBookPage, final, raster],
+    {},
+  );
+  if (render.exitCode !== 0 || !fs.existsSync(`${raster}.pgm`)) {
+    deps.error(`print-pdf: pdftoppm failed on the finished PDF (exit ${render.exitCode})\n${tail(render.stderr)}`);
+    return 1;
+  }
+  if (watermarkShare(fs.readFileSync(`${raster}.pgm`)) < WATERMARK_MIN_SHARE) {
+    deps.error("print-pdf: the watermark is missing from the printed pages");
     return 1;
   }
 
