@@ -11,6 +11,7 @@
 import { readdir, stat, readFile } from "node:fs/promises";
 import { join, basename } from "node:path";
 import { $ } from "bun";
+import { premiumSlugs } from "../functions/lib/premium";
 
 interface BookRow {
   id: string;
@@ -97,6 +98,7 @@ export async function runMigration(options: MigrationOptions = {}) {
   ).filter((e): e is string => e !== null);
 
   const rows: BookRow[] = [];
+  const premium = new Set(premiumSlugs());
 
   for (const entry of validEntries) {
     const bookPath = join(booksDir, entry);
@@ -119,6 +121,23 @@ export async function runMigration(options: MigrationOptions = {}) {
 
     const srcDir = join(bookPath, "src");
     let combinedMd = "";
+
+    // Premium text must never reach db/seed.sql (committed, public repo) or D1,
+    // so its row keeps the title and subject label with an empty content_md.
+    if (premium.has(entry)) {
+      rows.push({
+        id: entry,
+        slug: entry,
+        title,
+        status: "published",
+        subject_label,
+        content_md: "",
+        created_at: now,
+        updated_at: now,
+      });
+      console.log(`📖 Prepared: ${entry} → "${title}" (premium, content withheld)`);
+      continue;
+    }
 
     try {
       const mdFiles = (await readdir(srcDir, { recursive: true }))
