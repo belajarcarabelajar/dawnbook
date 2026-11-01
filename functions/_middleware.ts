@@ -176,10 +176,10 @@ function applySecurityHeaders(response: Response): Response {
 const gatingMiddleware: PagesFunction<Env> = async (context) => {
   const { request, next, env } = context;
   const url = new URL(request.url);
-  // Every gating decision uses one canonical path: decoded once (a malformed
-  // escape throws URIError, answered with 400 by onRequest) and with runs of
-  // "/" collapsed, so //books/<slug>/... cannot dodge the premium match.
-  const pathname = decodeURIComponent(url.pathname).replace(/\/{2,}/g, "/");
+  // Raw on purpose: isPublicPath, premiumSlugOf and isPremiumPublicPage each
+  // decode once and collapse repeated slashes; decoding here as well would
+  // turn %25 into a URIError and %252F into a real slash.
+  const pathname = url.pathname;
 
   // --- Locale detection and cookie logic ---
     const cookieHeader = request.headers.get("Cookie") ?? "";

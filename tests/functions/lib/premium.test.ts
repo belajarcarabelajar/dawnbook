@@ -231,3 +231,17 @@ describe("checkPremiumAccess", () => {
     expect(await checkPremiumAccess(db, "buyer@x.com", ENTRY_A)).toBe("unavailable");
   });
 });
+
+describe("single decode", () => {
+  test("premiumSlugOf collapses repeated slashes after its own decode", () => {
+    expect(premiumSlugOf("/books/buku-a//content/02_x.html")).toBe(premiumSlugOf("/books/buku-a/content/02_x.html"));
+    expect(premiumSlugOf("//books/buku-a/content/02_x.html")).toBe("buku-a");
+    expect(premiumSlugOf("/books/buku-a/%2Fcontent%2F02_x.html")).toBe("buku-a");
+  });
+
+  test("isPremiumPublicPage collapses repeated slashes after its own decode", () => {
+    expect(isPremiumPublicPage("/books/buku-a//content/01_x.html")).toBe(isPremiumPublicPage("/books/buku-a/content/01_x.html"));
+    expect(isPremiumPublicPage("/books/buku-a//content/01_x.html")).toBe(true);
+    expect(isPremiumPublicPage("/books/buku-a//content/02_x.html")).toBe(false);
+  });
+});

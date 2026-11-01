@@ -239,6 +239,20 @@ describe("premium e-book gate in functions/_middleware.ts", () => {
     });
   }
 
+  test("single decode: a free book path with %25 is gated, not a 400", async () => {
+    const { context, next } = makeContext("https://example.com/books/x/100%25.html", makeEnv());
+    const res = await onRequest(context as any);
+    expect(res.status).toBe(302);
+    expect(next).not.toHaveBeenCalled();
+  });
+
+  test("single decode: a double-encoded slash in a premium chapter stays behind the purchase check", async () => {
+    const { context, next } = makeContext(`${BOOK}/content/02%252Fx.html`, makeEnv({ email: "c@x.com", lms: "null" }), { session: true });
+    const res = await onRequest(context as any);
+    expect(res.status).toBe(403);
+    expect(next).not.toHaveBeenCalled();
+  });
+
   for (const path of ["/images/x.png", "/searchindex-x.js"]) {
     test(`premium ${path} is gated`, async () => {
       const { context, next } = makeContext(`${BOOK}${path}`, makeEnv(), { html: false });

@@ -32,7 +32,7 @@ function tryDecode(pathname: string): string | null {
 export function premiumSlugOf(pathname: string): string | null {
   // A malformed escape falls back to the raw path: returning null there would
   // treat a premium page as an ordinary one and skip the gate.
-  const m = BOOK_PATH.exec(tryDecode(pathname) ?? pathname);
+  const m = BOOK_PATH.exec((tryDecode(pathname) ?? pathname).replace(/\/{2,}/g, "/"));
   if (!m) return null;
   return Object.hasOwn(loadPremiumRegistry(), m[1]) ? m[1] : null;
 }
@@ -44,7 +44,7 @@ const ASSET_DIRS = ["css/", "fonts/", "FontAwesome/", "images/public/"];
 export function isPremiumPublicPage(pathname: string): boolean {
   const decoded = tryDecode(pathname);
   if (decoded === null) return false;
-  const m = BOOK_PATH.exec(decoded);
+  const m = BOOK_PATH.exec(decoded.replace(/\/{2,}/g, "/"));
   if (!m) return false;
   const rest = m[2] ?? "";
   // Encoded slashes decode into dot segments that a prefix check would wave
