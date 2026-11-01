@@ -74,8 +74,8 @@ describe("Cloudflare Pages Edge Middleware (functions/_middleware.ts)", () => {
     expect(response.status).toBe(200);
     expect(response.headers.get("Vary")).toContain("User-Agent");
 
-    // Should NOT have gated cache headers because it's treated like a public pass-through
-    expect(response.headers.get("Cache-Control")).toBeNull();
+    // The path is gated, so the bot pass-through must not be cacheable by a shared cache.
+    expect(response.headers.get("Cache-Control")).toBe("private, no-store");
 
     const text = await response.text();
     expect(text).toBe("Gated Content");
@@ -418,4 +418,58 @@ describe("Cloudflare Pages Edge Middleware (functions/_middleware.ts)", () => {
     expect(response.headers.get("Location")).toContain("/sign-in");
     expect(next).not.toHaveBeenCalled();
   });
+
+  test("bot cache: verified bot on a gated free chapter gets private, no-store", async () => {
+    verifyGooglebotForCacheTests();
+    const req = mockRequest("https://example.com/books/buku-gratis/content/02_x.html", {
+      headers: {
+        Accept: "text/html",
+        "User-Agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+        "CF-Connecting-IP": "66.249.65.1",
+        Cookie: "dawnbook_lang=id",
+      },
+    });
+    const next = mock(async () =>
+      new Response("<h1>Bab 2</h1>", { status: 200, headers: { "Cache-Control": "public, max-age=3600" } }),
+    );
+    const response = await onRequest({ request: req, env: createMockEnv(), next } as any);
+    expect(response.status).toBe(200);
+    expect(next).toHaveBeenCalledTimes(1);
+    expect(response.headers.get("Cache-Control")).toBe("private, no-store");
+    expect(response.headers.get("Vary")).toContain("Cookie");
+    expect(response.headers.get("Vary")).toContain("User-Agent");
+    expect(await response.text()).toBe("<h1>Bab 2</h1>");
+  });
+
+  test("bot cache: public page via a verified bot keeps its original cache header", async () => {
+    verifyGooglebotForCacheTests();
+    const req = mockRequest("https://example.com/", {
+      headers: {
+        Accept: "text/html",
+        "User-Agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+        "CF-Connecting-IP": "66.249.65.1",
+        Cookie: "dawnbook_lang=id",
+      },
+    });
+    const next = mock(async () =>
+      new Response("<h1>Hub</h1>", { status: 200, headers: { "Cache-Control": "public, max-age=60" } }),
+    );
+    const response = await onRequest({ request: req, env: createMockEnv(), next } as any);
+    expect(response.status).toBe(200);
+    expect(response.headers.get("Cache-Control")).toBe("public, max-age=60");
+    expect(response.headers.get("Vary")).toContain("User-Agent");
+  });
 });
+
+function verifyGooglebotForCacheTests() {
+  __setDnsFetcherForTests(async (urlStr: RequestInfo | URL) => {
+    const type = new URL(urlStr as string).searchParams.get("type");
+    if (type === "PTR") {
+      return new Response(JSON.stringify({ Status: 0, Answer: [{ type: 12, data: "crawl-66-249-65-1.googlebot.com." }] }));
+    }
+    if (type === "A") {
+      return new Response(JSON.stringify({ Status: 0, Answer: [{ type: 1, data: "66.249.65.1" }] }));
+    }
+    return new Response("{}", { status: 404 });
+  });
+}
