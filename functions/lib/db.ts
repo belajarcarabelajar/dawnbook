@@ -152,6 +152,36 @@ export async function upsertGoogleUser(
   return row;
 }
 
+/**
+ * Moves a user created by the store hand-off (`google_sub` = "bcb:<email>")
+ * onto their real Google subject id, refreshing name, picture and
+ * `last_login_at`. Returns the linked row.
+ */
+export async function linkGoogleSub(
+  db: D1Database,
+  userId: string,
+  googleSub: string,
+  profile: { name: string | null; picture: string | null },
+): Promise<UserRow> {
+  const now = new Date().toISOString();
+  // The prefix check repeats the caller's so a real Google sub can never be
+  // overwritten, even if the row changed between the lookup and this write.
+  await db
+    .prepare(
+      `UPDATE users
+       SET google_sub = ?1, name = ?2, picture = ?3, last_login_at = ?4
+       WHERE id = ?5 AND substr(google_sub, 1, 4) = 'bcb:'`,
+    )
+    .bind(googleSub, profile.name, profile.picture, now, userId)
+    .run();
+
+  const row = await getUserByGoogleSub(db, googleSub);
+  if (!row || row.id !== userId) {
+    throw new Error("linkGoogleSub: row not found after link");
+  }
+  return row;
+}
+
 export async function createSession(
   db: D1Database,
   params: {

@@ -230,6 +230,8 @@ describe("/api/auth/callback", () => {
         return [{ id: "mock_session_id", user_id: "mock_user_id", expires_at: "2099-01-01T00:00:00.000Z", created_at: "2024-01-01T00:00:00.000Z", last_seen_at: "2024-01-01T00:00:00.000Z", user_agent: null, ip: null }];
       }
       if (!sql.trimStart().toUpperCase().startsWith("SELECT")) return [];
+      // No other account holds the email (lookup added for store-user linking).
+      if (sql.includes("WHERE email = ?1")) return [];
       selectCalls++;
       if (selectCalls === 1) return [];
       return [{
@@ -357,6 +359,8 @@ describe("/api/auth/callback", () => {
           throw new Error("D1 session creation failure");
         }
         if (!sql.trimStart().toUpperCase().startsWith("SELECT")) return [];
+        // No other account holds the email (lookup added for store-user linking).
+        if (sql.includes("WHERE email = ?1")) return [];
         selectCalls++;
         if (selectCalls === 1) return [];
         return [{
