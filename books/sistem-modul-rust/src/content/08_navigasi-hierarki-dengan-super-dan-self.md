@@ -91,7 +91,7 @@ Berikut perbedaan penggunaannya dalam struktur modul:
 | **Relatif (`self`)** | `self::masak` | Untuk menegaskan pemanggilan item di dalam scope modul yang sama. |
 | **Relatif (`super`)** | `super::masak` | Saat mengakses item yang berada tepat satu tingkat di atas (parent module). |
 
-Jika kamu menulis kode di dalam modul yang dalam, mana yang lebih mudah dikelola jika suatu saat modul tersebut dipindahkan ke lokasi lain dalam hierarki: absolute path atau relative path?
+Jika kamu menulis kode di dalam modul yang dalam, mana yang lebih mudah dikelola jika suatu saat modul tersebut dipindahkan ke lokasi lain dalam hierarki, absolute path atau relative path?
 
 ### 4. Unit Testing
 

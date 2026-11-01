@@ -2,7 +2,7 @@
 
 Pernahkah kamu bertanya-tanya mengapa potongan pizza pertama terasa nikmat, tetapi potongan kelima terasa biasa saja? Atau mengapa sebuah video game yang dulu membuat kamu terjaga semalaman, kini hanya membuat kamu merasa lelah dan bosan?
 
-Penjelasannya ada pada salah satu mekanisme pertahanan otakmu: **Adaptasi Neurobiologis**. Di bagian ini, kita akan membedah bagaimana otak melakukan penyesuaian diri terhadap lonjakan dopamin dan mengapa hal ini menjadi alasan utama di balik hilangnya minat kita pada hal-hal yang dulunya sangat kita sukai.
+Penjelasannya ada pada **Adaptasi Neurobiologis**, salah satu mekanisme pertahanan otakmu. Di bagian ini, kita akan membedah bagaimana otak melakukan penyesuaian diri terhadap lonjakan dopamin dan mengapa hal ini menjadi alasan utama di balik hilangnya minat kita pada hal-hal yang dulunya sangat kita sukai.
 
 ---
 
@@ -54,7 +54,7 @@ Dampak langsung dari *downregulation* adalah lahirnya **Toleransi**. Ini merupak
 | **Tahap 4** | Kamu meningkatkan dosis atau intensitas stimulus. | Kebutuhan impulsif untuk mengejar tingkat sensasi lama. |
 | **Tahap 5** | Otak menekan reseptor lebih dalam. | Ambang batas kenikmatan semakin tinggi dan sulit dicapai. |
 
-*Coba renungkan: Apakah kamu menyadari bahwa kamu sekarang menghabiskan lebih banyak waktu untuk scrolling media sosial daripada setahun yang lalu, hanya untuk merasakan tingkat hiburan yang sama?*
+*Apakah kamu menyadari bahwa kamu sekarang menghabiskan lebih banyak waktu untuk scrolling media sosial daripada setahun yang lalu, hanya untuk merasakan tingkat hiburan yang sama?*
 
 ---
 
@@ -64,7 +64,7 @@ Ketika reseptor dopaminmu berkurang drastis, aktivitas sehari-hari yang biasanya
 
 Kondisi ini dikenal sebagai **Anhedonia ringan**, suatu keadaan ketika spektrum emosimu terasa datar atau abu-abu.
 
-> **Catatan Penting:** Pada tahap ini, seseorang sering kali melakukan aktivitas berdopamin tinggi bukan lagi untuk merasa senang (*high*), melainkan hanya untuk merasa "normal" atau sekadar menghindari perasaan hampa.
+> **Catatan Penting:** Pada tahap ini, seseorang sering kali melakukan aktivitas berdopamin tinggi hanya untuk merasa "normal" atau sekadar menghindari perasaan hampa. Mengejar rasa senang (*high*) sudah tidak lagi menjadi alasannya.
 
 ---
 
@@ -89,6 +89,6 @@ Kabar baiknya, otak manusia memiliki sifat **neuroplastisitas**. Reseptor dopami
 | **Aktivitas Dopamin Rendah** | Membiasakan diri dengan kegiatan bernilai dopamin alami secara perlahan (misalnya berjalan kaki atau bermeditasi). |
 | **Penerimaan Kebosanan** | Memahami bahwa periode kebosanan ekstrem adalah fase transisi sebelum sensitivitas reseptor pulih total. |
 
-> **Insight Utama:** Kebosanan bukanlah musuh, melainkan penanda biologis bahwa otakmu sedang memulihkan sensitivitas reseptornya. Jangan melarikan diri dari kebosanan dengan beralih ke stimulasi instan.
+> **Insight Utama:** Kebosanan adalah penanda biologis bahwa otakmu sedang memulihkan sensitivitas reseptornya, jadi jangan melarikan diri darinya dengan beralih ke stimulasi instan.
 
 *Pertanyaan Refleksi: Coba identifikasi satu aktivitas dalam hidupmu yang dulunya sangat menyenangkan tetapi kini terasa membebani atau membosankan. Mungkinkah kamu telah membangun toleransi tinggi terhadap aktivitas tersebut?*

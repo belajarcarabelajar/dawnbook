@@ -16,7 +16,7 @@ Tanpa adanya pembagian folder, semua anggota tim dari setiap departemen akan ber
 
 ### Pola File dan Folder Berdampingan
 
-Sejak Rust edisi 2018, cara standar untuk membuat submodul yang kompleks adalah dengan menggunakan pola **File-dan-Folder**. Aturannya cukup sederhana:
+Sejak Rust edisi 2018, cara standar untuk membuat submodul yang kompleks adalah dengan menggunakan pola **File-dan-Folder**, dengan aturan yang cukup sederhana.
 
 > Jika kamu memiliki modul bernama `network` yang memiliki submodul (anak), maka kamu memerlukan:
 > 

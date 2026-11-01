@@ -28,7 +28,7 @@ Memakai teknik SMART ini sebenarnya melatih cara berpikir metakognitif. Kamu jad
 
 ## 2. Bertanya pada Diri Sendiri (Self-Questioning)
 
-Pernah nggak sih kamu baca buku berjam-jam, tapi pas ditanya isinya, malah nge-blank? Nah, metode ini ngebantu biar kita nggak cuma baca pasif, tapi benar-benar ikut mikir. Intinya, kamu aktif nanya ke diri sendiri tentang materi yang lagi dipelajari.
+Pernah nggak sih kamu baca buku berjam-jam, tapi pas ditanya isinya, malah nge-blank? Nah, metode ini ngebantu kita benar-benar ikut mikir selama membaca. Intinya, kamu aktif nanya ke diri sendiri tentang materi yang lagi dipelajari.
 
 Kamu bisa pakai cara ini di berbagai tahap:
 
@@ -52,20 +52,20 @@ Saat kamu rajin nanya ke diri sendiri, posisimu berubah dari sekadar 'nampung' i
 
 ## 3. Bikin Catatan Reflektif
 
-Mencatat tuh bukan sekadar nyalin ulang isi buku atau slide presentasi ke buku tulis. Kalau cuma nyalin, otak kita nggak ikutan mikir. Catatan yang reflektif itu berarti kamu mengolah informasinya, lalu menyambungkannya dengan apa yang udah kamu tahu sebelumnya.
+Catatan yang reflektif berarti kamu mengolah informasinya, lalu menyambungkannya dengan apa yang udah kamu tahu sebelumnya. Kalau cuma nyalin ulang isi buku atau slide presentasi ke buku tulis, otak kita nggak ikutan mikir.
 
 Cara bikin catatan yang lebih mikir:
 
-- **Pakai bahasamu sendiri.** Coba tulis ulang intisarinya tanpa ngelihat buku. Ini maksa otak buat beneran mencerna isi bacaan, bukan cuma ingatan sesaat.
+- **Pakai bahasamu sendiri.** Coba tulis ulang intisarinya tanpa ngelihat buku. Ini maksa otak buat beneran mencerna isi bacaan.
 - **Sambungin sama ilmu lama.** Gimana materi baru ini nyambung sama hal-hal yang udah kamu pelajari sebelumnya?
 - **Tulis aja kalau ada yang bingung.** Catat pertanyaan yang tiba-tiba muncul atau bagian mana yang masih kerasa nggak masuk akal.
 - **Tandain bagian yang susah.** Kalau ada paragraf yang harus dibaca sampai tiga kali baru masuk ke kepala, tandain aja. Nanti kamu bisa cari referensi tambahan.
 
-Intinya, catatan yang bagus bukan dilihat dari seberapa tebal halamannya, tapi seberapa jauh kamu paham sama apa yang barusan kamu tulis.
+Ukur catatanmu dari seberapa jauh kamu paham sama apa yang barusan kamu tulis. Tebal-tipisnya halaman nggak jadi patokan.
 
 ## 4. Evaluasi Diri Pakai Rubrik
 
-Terkadang kita ngerasa udah ngerjain tugas dengan bagus, tapi kenyataannya masih banyak yang terlewat. Nah, rubrik penilaian diri ini ngebantu kamu buat ngecek hasil kerjaanmu secara lebih objektif, bukan cuma pakai *feeling*. 
+Terkadang kita ngerasa udah ngerjain tugas dengan bagus, tapi kenyataannya masih banyak yang terlewat. Nah, rubrik penilaian diri ini ngebantu kamu buat ngecek hasil kerjaanmu secara lebih objektif daripada sekadar pakai *feeling*.
 
 Gini cara memanfaatkannya:
 
@@ -84,10 +84,10 @@ Dikasih tugas gede biasanya bikin kita malas duluan karena kelihatan ribet bange
 Langkah-langkah praktisnya:
 
 1. **Pahami dulu apa target akhirnya.** Kamu harus tahu wujud akhir dari tugas ini. Misalnya nulis esai 2000 kata soal AI di dunia kerja.
-2. **Pecah jadi tugas-tugas kecil.** Jangan langsung mikir "nulis esai". Pecah jadi: cari referensi jurnal, bikin kerangka tulisan, nulis pendahuluan, nulis isi argumen satu per satu, sampai ngerapiin daftar pustaka.
+2. **Pecah jadi tugas-tugas kecil.** Jangan langsung mikir "nulis esai". Pecah jadi bagian-bagian, mulai dari cari referensi jurnal, bikin kerangka tulisan, nulis pendahuluan, nulis isi argumen satu per satu, sampai ngerapiin daftar pustaka.
 3. **Kira-kira butuh waktu berapa lama.** Kasih estimasi waktu untuk masing-masing tugas kecil tadi. Ini ngebantu mengatur ritme kerjamu.
 4. **Urutkan mana yang harus duluan.** Jelas nggak mungkin nulis isi kalau risetnya belum jalan. Susun urutannya, mana yang bisa dikerjain barengan dan mana yang harus nunggu kerjaan lain beres.
-5. **Pasang target kecil-kecilan.** Bikin target simpel, misal: "Sore ini aku harus dapet 5 sumber jurnal utama yang bisa dipakai."
+5. **Pasang target kecil-kecilan.** Bikin target simpel, misalnya "Sore ini aku harus dapet 5 sumber jurnal utama yang bisa dipakai."
 6. **Mulai eksekusi.** Langsung kerjain dari langkah paling pertama. Nggak usah kepikiran bagian akhirnya dulu.
 
 Memecah tugas kayak gini ampuh buat ngurangin kebiasaan menunda. Otak kita nggak ngerasa terlalu terbebani karena yang dilihat cuma langkah kecil yang masuk akal diselesaikan hari itu juga.

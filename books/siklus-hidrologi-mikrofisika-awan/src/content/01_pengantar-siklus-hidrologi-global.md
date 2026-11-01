@@ -8,7 +8,7 @@ Siklus hidrologi melingkupi sirkulasi air yang berlangsung secara konstan dan te
 
 Secara global, siklus hidrologi merupakan sebuah sistem tertutup. Artinya, jumlah total massa air di Bumi tidak bertambah maupun berkurang secara nyata dari waktu ke waktu. Air hanya berpindah tempat antarreservoir dan mengalami perubahan fase fisik.
 
-> **Wawasan Penting:** Air yang kita minum hari ini merupakan molekul air yang sama dengan yang pernah mengalir di Bumi jutaan tahun lalu. Bumi hampir tidak menciptakan air baru, melainkan terus memutar sirkulasi molekul air yang sudah ada secara berkelanjutan.
+> **Wawasan Penting:** Air yang kita minum hari ini merupakan molekul air yang sama dengan yang pernah mengalir di Bumi jutaan tahun lalu. Bumi hampir tidak menciptakan air baru. Molekul yang sudah ada terus diputar dalam sirkulasi yang berkelanjutan.
 
 #### Penggerak Utama (*The Engines*)
 
@@ -19,7 +19,7 @@ Dua kekuatan alam utama yang menggerakkan siklus hidrologi meliputi:
 
 ### 2. Komponen Utama Siklus Global
 
-Siklus hidrologi dapat dibedakan ke dalam tiga komponen pelepasan dan penerimaan air utama: Evaporasi, Transpirasi, dan Presipitasi.
+Tiga komponen utama pelepasan dan penerimaan air dalam siklus hidrologi adalah Evaporasi, Transpirasi, dan Presipitasi.
 
 #### A. Evaporasi (Penguapan Permukaan)
 
@@ -31,9 +31,9 @@ Dilihat dari sudut pandang termodinamika, proses evaporasi memerlukan penyerapan
 
 #### B. Transpirasi (Pelepasan Uap Air oleh Tumbuhan)
 
-Tumbuhan tidak hanya menyerap air dari dalam tanah, tetapi juga melepaskan sebagian air tersebut ke udara. Melalui celah mikroskopis pada permukaan daun yang disebut stomata, vegetasi melepaskan uap air ke atmosfer sebagai bagian dari mekanisme fisiologis dan pendinginan jaringan.
+Tumbuhan menyerap air dari dalam tanah, lalu melepaskan sebagian air tersebut ke udara. Melalui celah mikroskopis pada permukaan daun yang disebut stomata, vegetasi melepaskan uap air ke atmosfer sebagai bagian dari mekanisme fisiologis dan pendinginan jaringan.
 
-Dalam skala luas, proses penguapan dari tanah/perairan (evaporasi) dan penguapan dari vegetasi (transpirasi) digabungkan menjadi satu indikator utama: **Evapotranspirasi**.
+Dalam skala luas, proses penguapan dari tanah/perairan (evaporasi) dan penguapan dari vegetasi (transpirasi) digabungkan menjadi satu indikator utama yang disebut **Evapotranspirasi**.
 
 - **Fungsi Ekologis:** Hutan hujan tropis di kawasan khatulistiwa berfungsi layaknya pendorong kelembapan udara alami yang menyumbangkan uap air dalam jumlah besar ke atmosfer, yang selanjutnya memicu pembentukan awan dan hujan di wilayah sekitarnya.
 

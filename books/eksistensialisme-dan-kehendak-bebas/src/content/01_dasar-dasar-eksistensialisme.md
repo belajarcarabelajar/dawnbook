@@ -1,6 +1,6 @@
 ## Dasar-Dasar Eksistensialisme
 
-Eksistensialisme adalah aliran filsafat yang menjadikan pengalaman subjektif, kebebasan memilih, dan tanggung jawab individual fondasi eksistensi manusia. Pemikiran ini lahir bukan sekadar sebagai diskursus teoretis abstrak, melainkan sebagai artikulasi ontologis terhadap kondisi konkret manusia dalam menavigasi kehidupan di tengah dunia yang kontingen dan sarat ketidakpastian.
+Eksistensialisme adalah aliran filsafat yang menjadikan pengalaman subjektif, kebebasan memilih, dan tanggung jawab individual fondasi eksistensi manusia. Pemikiran ini lahir sebagai artikulasi ontologis terhadap kondisi konkret manusia dalam menavigasi kehidupan di tengah dunia yang kontingen dan sarat ketidakpastian.
 
 ### 1. Manusia Hadir Tanpa Tujuan Bawaan
 
@@ -31,7 +31,7 @@ Kendati berangkat dari paradigma yang bervariasi, para filsuf eksistensialis ber
 
 Penyelidikan eksistensialisme bertumpu pada persoalan-persoalan ontologis yang mendasar:
 
-- **Hakikat Identitas Diri:** Identitas bukanlah pemberian biologis atau takdir deterministik, melainkan kumulasi tindakan konkret yang dipilih secara sadar.
+- **Hakikat Identitas Diri:** Identitas terbentuk dari kumulasi tindakan konkret yang dipilih secara sadar. Biologi dan takdir tidak menetapkannya sejak awal.
 - **Teleologi Makna:** Dalam ketiadaan makna kodrati dari alam semesta, subjek manusia dituntut untuk merumuskan tujuan hidup secara mandiri.
 - **Batasan Kematian:** Mortalitas dipahami sebagai batas final yang memberikan urgensi eksistensial dan bobot nilai bagi setiap keputusan hidup.
 - **Derajat Otonomi:** Penilaian kritis mengenai sejauh mana keputusan individu lahir dari kehendak otonom atau sekadar reproduksi konformitas sosial.
@@ -54,9 +54,9 @@ Pada entitas objek seperti perkakas, konsepsi peruntukan dan tujuan telah diranc
 Prinsip-prinsip eksistensialisme menawarkan kerangka analisis yang tajam dalam mengkaji dinamika masyarakat modern:
 
 - **Orientasi Vokasi dan Eksistensi:** Menghindari jebakan determinisme karier yang didikte oleh konvensi keluarga atau masyarakat, serta menempatkan pilihan profesional sebagai ekspresi otentisitas personal.
-- **Kecemasan Eksistensial (*Angst*):** Menempatkan kecemasan bukan sebagai patologi psikologis semata, melainkan sebagai tanda kesadaran ontologis akan keluasan pilihan yang terbuka.
+- **Kecemasan Eksistensial (*Angst*):** Membaca kecemasan sebagai tanda kesadaran ontologis akan keluasan pilihan yang terbuka. Sisi patologisnya tidak menjadi satu-satunya ukuran.
 - **Otonomi di Tengah Digitalisasi:** Mempertahankan integritas individual di hadapan arus algoritma dan tekanan konformitas media digital.
 
 ### 7. Hidup Tanpa Cetak Biru
 
-Eksistensialisme menolak pasivitas deterministik dan menempatkan tanggung jawab penciptaan makna secara utuh pada pundak manusia. Ketiadaan cetak biru bawaan bukan merupakan kehampaan pasif, melainkan ruang pembuktian kedaulatan diri.
+Eksistensialisme menolak pasivitas deterministik dan menempatkan tanggung jawab penciptaan makna secara utuh pada pundak manusia. Ketiadaan cetak biru bawaan membuka ruang pembuktian kedaulatan diri.

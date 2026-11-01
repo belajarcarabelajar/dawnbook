@@ -23,7 +23,7 @@ Ini tidak efisien dan membocorkan detail implementasi internal kamu. Jika suatu 
 Pikirkan sebuah toko furnitur.
 
 * **Bagian Internal (Gudang):** Di sini barang-barang disimpan berdasarkan susunan logistik (misalnya ukuran, berat, atau tanggal masuk). Jalurnya bisa panjang seperti `Gudang -> Rak_B -> Baris_4 -> Kursi_Kayu`.
-* **Bagian Publik (Showroom):** Pajangan di bagian depan toko yang langsung terlihat oleh pembeli. Contoh jalurnya ringkas: `Showroom -> Kursi_Kayu`.
+* **Bagian Publik (Showroom):** Pajangan di bagian depan toko yang langsung terlihat oleh pembeli. Jalurnya ringkas, misalnya `Showroom -> Kursi_Kayu`.
 
 **Re-exporting** adalah tindakan mengambil barang dari rak terdalam di gudang dan meletakkannya tepat di depan pintu masuk toko (Showroom) sehingga pelanggan bisa langsung mengambilnya tanpa harus masuk ke lorong-lorong sempit di belakang.
 
@@ -42,7 +42,7 @@ pub use self::modul_internal::ItemPenting;
 
 ### Membangun Library Seni
 
-Mari kita lihat contoh nyata. Misalkan kita membuat library bernama `seni`. Secara internal, kita membaginya menjadi dua modul: `macam` (untuk warna) dan `utilitas` (untuk fungsi bantuan).
+Mari kita lihat contoh nyata. Misalkan kita membuat library bernama `seni`. Secara internal, kita membaginya menjadi dua modul, yaitu `macam` (untuk warna) dan `utilitas` (untuk fungsi bantuan).
 
 **Struktur File:**
 
@@ -89,7 +89,7 @@ pub mod macam;
 pub mod utilitas;
 ```
 
-Maka pengguna harus memanggilnya dengan cara yang panjang: `seni::macam::WarnaPrimer` dan `seni::utilitas::campur`.
+Maka pengguna harus memanggilnya dengan cara yang panjang, seperti `seni::macam::WarnaPrimer` dan `seni::utilitas::campur`.
 
 #### Isi src/lib.rs (Dengan Re-export)
 
@@ -105,7 +105,7 @@ pub use self::macam::WarnaSekunder;
 pub use self::utilitas::campur;
 ```
 
-**Hasilnya bagi pengguna:** Kini pengguna library kamu bisa menulis kode yang jauh lebih bersih:
+Dengan re-export ini, pengguna library kamu bisa menulis kode yang jauh lebih bersih:
 
 ```rust
 // Jauh lebih sederhana!
@@ -126,7 +126,7 @@ fn main() {
 
 ### Kapan Harus Menggunakan Re-exporting?
 
-Tanyakan pada diri sendiri: apakah pengguna library kamu perlu tahu bahwa suatu fungsi sebenarnya berada di dalam folder `utils/internal/helpers/`?
+Coba tanyakan pada dirimu, apakah pengguna library kamu perlu tahu bahwa suatu fungsi sebenarnya berada di dalam folder `utils/internal/helpers/`?
 
 Jika jawabannya tidak, maka fungsi tersebut layak untuk di-re-export ke tingkat yang lebih tinggi.
 
@@ -161,4 +161,4 @@ use crate::handlers::{get_user, create_product, place_order};
 
 Menggunakan `pub use` memberikan kebebasan bagi kamu sebagai penulis library. Kode internal bisa disusun serumit atau serinci mungkin demi kerapian teknis, sementara pengguna luar tetap disuguhi antarmuka yang bersih dan minimalis. 
 
-Bagaimanapun juga, kode yang baik tidak hanya dinilai dari cara ia berjalan tanpa error, tetapi juga dari seberapa mudah kode tersebut dipahami dan digunakan oleh orang lain.
+Bagaimanapun juga, kode yang baik dinilai dari dua hal, yaitu cara ia berjalan tanpa error dan seberapa mudah kode tersebut dipahami dan digunakan oleh orang lain.

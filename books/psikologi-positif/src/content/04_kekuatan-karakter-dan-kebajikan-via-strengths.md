@@ -1,19 +1,19 @@
 ## Kekuatan Karakter dan Kebajikan (VIA Strengths)
 
-Pernahkah kamu merasa sangat bersemangat saat mengerjakan sesuatu, hingga waktu terasa berlalu begitu saja? Atau mungkin kamu merasa "menjadi diri sendiri" ketika membantu orang lain atau memecahkan masalah yang rumit? Dalam psikologi positif, perasaan ini bukanlah kebetulan. Itu adalah tanda bahwa kamu sedang menggunakan **Kekuatan Karakter (Character Strengths)**-mu.
+Pernahkah kamu merasa sangat bersemangat saat mengerjakan sesuatu, hingga waktu terasa berlalu begitu saja? Atau mungkin kamu merasa "menjadi diri sendiri" ketika membantu orang lain atau memecahkan masalah yang rumit? Dalam psikologi positif, perasaan ini menandakan bahwa kamu sedang menggunakan **Kekuatan Karakter (Character Strengths)**-mu.
 
-Jika psikologi tradisional memiliki *Diagnostic and Statistical Manual of Mental Disorders* (DSM) untuk mengklasifikasikan gangguan mental, Dr. Christopher Peterson dan Dr. Martin Seligman menciptakan antitesisnya: klasifikasi **Values in Action (VIA)**. Klasifikasi ini berfungsi sebagai peta jalan ilmiah untuk mengidentifikasi potensi terbaik yang ada di dalam diri manusia.
+Jika psikologi tradisional memiliki *Diagnostic and Statistical Manual of Mental Disorders* (DSM) untuk mengklasifikasikan gangguan mental, Dr. Christopher Peterson dan Dr. Martin Seligman menciptakan klasifikasi **Values in Action (VIA)** sebagai antitesisnya. Klasifikasi ini berfungsi sebagai peta jalan ilmiah untuk mengidentifikasi potensi terbaik yang ada di dalam diri manusia.
 
 ## 1. Apa Itu Kekuatan Karakter?
 
 Bayangkan sebuah pohon. **Kebajikan (Virtues)** adalah akar dan batang utamanya, yaitu nilai-nilai moral universal yang dihargai oleh hampir semua kebudayaan dan agama sepanjang peradaban manusia. Sementara itu, **Kekuatan Karakter (Strengths)** adalah dahan dan rantingnya, yaitu cara-cara spesifik yang kita pilih untuk mengekspresikan kebajikan tersebut dalam interaksi sehari-hari.
 
-> "Kekuatan karakter tidak ditentukan oleh apa yang kamu miliki (seperti bakat atletik atau IQ tinggi), tetapi berakar pada siapa dirimu sebenarnya dan bagaimana kamu memilih untuk bertindak."
+> "Kekuatan karakter berakar pada siapa dirimu sebenarnya dan bagaimana kamu memilih untuk bertindak. Apa yang kamu miliki, seperti bakat atletik atau IQ tinggi, tidak menentukannya."
 
 ### Perbedaan Kekuatan vs. Bakat
 
 - **Bakat (Talents)** biasanya bersifat bawaan sejak lahir dan bekerja secara otomatis, seperti kemampuan mendengar nada dengan presisi (*perfect pitch*) atau kecepatan berlari alami.
-- **Kekuatan Karakter (Strengths)** menuntut peran kehendak dan keputusan moral kita. Kekuatan ini bukanlah sesuatu yang statis; kita bisa melatih dan memperkuatnya seiring waktu.
+- **Kekuatan Karakter (Strengths)** menuntut peran kehendak dan keputusan moral kita. Kekuatan ini bisa kita latih dan perkuat seiring waktu.
 
 ## 2. Klasifikasi VIA
 
@@ -79,7 +79,7 @@ Dari 24 kekuatan di atas, setiap orang biasanya memiliki 3 hingga 7 **Signature 
 
 **Kriteria Kekuatan Utama:**
 
-- **Esensial (*Essential*):** Muncul kesadaran mendalam: "Inilah diriku yang sebenarnya."
+- **Esensial (*Essential*):** Muncul kesadaran mendalam bahwa "inilah diriku yang sebenarnya."
 - **Tanpa Beban (*Effortless*):** Ketika mengekspresikannya, segala hal terasa mengalir alami tanpa paksaan.
 - **Menumbuhkan Energi (*Energizing*):** Alih-alih membuat letih, menggunakannya justru mengisi kembali daya hidup dan semangatmu.
 
@@ -133,4 +133,4 @@ Mari mulai memetakan kekuatanmu secara mandiri. Cobalah membuat tabel sederhana 
 
 **Penting:** Fokuslah pada upaya memperkuat apa yang sudah kuat dalam dirimu, alih-alih terobsesi memperbaiki kelemahan. Memperbaiki kelemahan memang mencegah kegagalan, tetapi membangun kekuatanlah yang melahirkan keunggulan.
 
-> **Insight Penutup:** Menggunakan kekuatan karakter tidak berarti kamu dituntut menjadi sempurna. Ini adalah tentang keaslian diri (*authenticity*). Saat kamu hidup selaras dengan kekuatan karaktermu, kamu tidak hanya akan merasa lebih bahagia, tetapi juga tumbuh menjadi pribadi yang lebih tangguh ketika masa sulit datang.
+> **Insight Penutup:** Menggunakan kekuatan karakter adalah soal keaslian diri (*authenticity*), dan kamu tidak dituntut menjadi sempurna. Saat kamu hidup selaras dengan kekuatan karaktermu, kamu akan merasa lebih bahagia sekaligus tumbuh menjadi pribadi yang lebih tangguh ketika masa sulit datang.

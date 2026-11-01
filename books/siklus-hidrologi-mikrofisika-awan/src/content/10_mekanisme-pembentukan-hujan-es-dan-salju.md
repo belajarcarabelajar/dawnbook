@@ -2,7 +2,7 @@
 
 Kita sudah melihat bagaimana **Proses Bergeron-Findeisen** menumbuhkan kristal es awal di awan dingin, tetapi kristal itu masih sangat kecil. Lalu bagaimana ia berubah menjadi kepingan salju atau bongkahan es (*hail*) yang merusak?
 
-Dalam bab ini, kita akan mengeksplorasi dua mekanisme pertumbuhan utama yang terjadi setelah fase difusi uap air: **Akresi (Riming)** dan **Agregasi**. Inilah tahap ketika partikel es mendapatkan massa yang cukup untuk melawan arus naik (*updraft*) dan jatuh ke bumi.
+Dalam bab ini, kita akan mengeksplorasi **Akresi (Riming)** dan **Agregasi**, dua mekanisme pertumbuhan utama yang terjadi setelah fase difusi uap air. Inilah tahap ketika partikel es mendapatkan massa yang cukup untuk melawan arus naik (*updraft*) dan jatuh ke bumi.
 
 ## 1. Pertumbuhan melalui Akresi (Riming)
 

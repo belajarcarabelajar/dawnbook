@@ -12,7 +12,7 @@ Ciri utama tahap ini adalah kemampuan menggunakan **simbol**. Simbol adalah sesu
 - **Permainan Simbolik (Pretend Play):** Seorang anak mungkin menaiki sapu dan menganggapnya sebagai kuda, atau menyusun kursi menjadi kereta api.
 - **Gambar:** Coretan yang awalnya tidak bermakna mulai diberi label. "Ini Ibu," kata mereka, meski gambarnya mungkin hanya berupa lingkaran dengan dua garis.
 
-> **Analogi:** Bayangkan otak anak seperti sebuah browser internet yang baru saja mendapatkan fitur "Bookmark". Mereka tidak perlu berada di situs web tersebut untuk tahu bahwa situs itu ada; mereka punya alamat (simbol) yang menyimpannya dalam ingatan.
+> **Analogi:** Bayangkan otak anak seperti sebuah browser internet yang baru saja mendapatkan fitur "Bookmark". Mereka punya alamat (simbol) yang menyimpan situs web itu dalam ingatan, sehingga tahu situs itu ada tanpa perlu membukanya.
 
 ## 2\. Batasan Kognitif
 
@@ -20,9 +20,9 @@ Walau sudah pandai bicara, struktur berpikir mereka masih kaku.
 
 ### A. Egosentrisme
 
-Egosentrisme di sini bukan berarti sombong atau egois dalam arti moral, melainkan ketidakmampuan secara kognitif untuk membedakan antara perspektif diri sendiri dan perspektif orang lain.
+Egosentrisme di sini adalah ketidakmampuan secara kognitif untuk membedakan antara perspektif diri sendiri dan perspektif orang lain. Istilah ini tidak menyangkut sifat sombong atau egois dalam arti moral.
 
-- **Eksperimen Tiga Gunung:** Piaget menunjukkan model tiga gunung yang berbeda pada anak. Saat ditanya apa yang dilihat oleh boneka yang duduk di sisi lain gunung, anak usia praoperasional cenderung menjawab berdasarkan apa yang *mereka* lihat, bukan apa yang dilihat boneka tersebut.
+- **Eksperimen Tiga Gunung:** Piaget menunjukkan model tiga gunung yang berbeda pada anak. Saat ditanya apa yang dilihat oleh boneka yang duduk di sisi lain gunung, anak usia praoperasional cenderung menjawab berdasarkan apa yang *mereka* sendiri lihat.
 - **Contoh Nyata:** Pernahkah kamu melihat balita "bersembunyi" dengan cara menutup matanya sendiri? Mereka berpikir, *"Jika aku tidak bisa melihat ayah, maka ayah tidak bisa melihatku."*
 
 ### B. Animisme
@@ -46,7 +46,7 @@ Bayangkan dua gelas identik (A dan B) berisi jumlah air yang sama.
 
 1. Anak setuju bahwa jumlah airnya sama.
 2. Air dari gelas B dituangkan ke gelas C yang lebih tinggi dan lebih ramping.
-3. Anak ditanya: "Mana yang lebih banyak airnya?"
+3. Anak ditanya, "Mana yang lebih banyak airnya?"
 4. **Jawaban Anak:** "Gelas C, karena lebih tinggi."
 
 **Mengapa ini terjadi?**
@@ -78,7 +78,7 @@ Sering geregetan melihat anak yang tidak logis? Pahami batasan umur ini supaya k
 - **Gunakan Alat Peraga Visual:** Karena mereka sulit berpikir abstrak, gunakan benda nyata. Mengajar berhitung lebih efektif dengan apel nyata daripada angka di papan tulis.
 - **Hands-on Experience:** Biarkan mereka bermain dengan air, pasir, dan tanah liat untuk perlahan membangun pemahaman tentang bentuk dan volume.
 - **Sederhanakan Instruksi:** Berikan instruksi satu per satu karena kemampuan mereka memproses urutan langkah masih terbatas.
-- **Hargai Imajinasi:** Jangan mengoreksi animisme mereka secara kasar. Alih-alih berkata "Batu itu benda mati," gunakan imajinasi itu untuk membangun empati (misal: "Mari kita letakkan batu ini pelan-pelan agar dia tidak sakit").
+- **Hargai Imajinasi:** Jangan mengoreksi animisme mereka secara kasar. Alih-alih berkata "Batu itu benda mati," gunakan imajinasi itu untuk membangun empati (misalnya dengan berkata, "Mari kita letakkan batu ini pelan-pelan agar dia tidak sakit").
 
 ## Roti Lapis Budi di Meja Makan
 
@@ -87,7 +87,7 @@ Sering geregetan melihat anak yang tidak logis? Pahami batasan umur ini supaya k
 **Analisis Piaget:**
 
 - Budi menunjukkan **kurangnya konservasi jumlah**. Baginya, dua potong lebih banyak daripada satu potong, meskipun total massa rotinya sama.
-- Budi mengalami **Centration**, ketika ia hanya fokus pada jumlah potongan, bukan ukuran total roti.
+- Budi mengalami **Centration**, ketika ia hanya fokus pada jumlah potongan dan mengabaikan ukuran total roti.
 - Ibunya tidak perlu berdebat logis dengan Budi. Mengapa? Karena secara struktur kognitif, otak Budi memang belum mampu memahami konservasi jumlah.
 
 Jadi, kalau melihat anak umur 4 tahun menyuapkan biskuit ke gambar kucing di buku cerita, tidak perlu heran. Itu sangat wajar. Kombinasi animisme dan fungsi simbolik memang sering memunculkan adegan imajinatif sekaligus kocak seperti itu.

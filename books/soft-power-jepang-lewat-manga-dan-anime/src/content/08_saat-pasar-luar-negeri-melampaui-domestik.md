@@ -2,7 +2,7 @@
 
 Sejak 2023, anime Jepang menghasilkan lebih banyak uang di luar negeri daripada di negeri asalnya sendiri, begitu catatan AJA.
 
-Kalimat itu terdengar seperti catatan kaki, padahal isinya membalik cara kita memandang industri ini. Lama sekali pasar domestik menjadi tumpuan utamanya. Data Association of Japanese Animations (AJA) menunjukkan posisi itu kini sudah bertukar. Bab-bab sebelumnya bercerita tentang strategi, kebijakan, dan penggemar yang menyebarkan anime tanpa diminta. Di sini kamu akan melihat apakah semua itu benar-benar berbuah. Jawabannya tidak tersimpan di pidato atau poster, melainkan di neraca.
+Kalimat itu terdengar seperti catatan kaki, padahal isinya membalik cara kita memandang industri ini. Lama sekali pasar domestik menjadi tumpuan utamanya. Data Association of Japanese Animations (AJA) menunjukkan posisi itu kini sudah bertukar. Bab-bab sebelumnya bercerita tentang strategi, kebijakan, dan penggemar yang menyebarkan anime tanpa diminta. Di sini kamu akan melihat apakah semua itu benar-benar berbuah. Jawabannya tersimpan di neraca.
 
 ### Dua Garis yang Akhirnya Bersilangan
 
@@ -16,7 +16,7 @@ Pada 2024 selisihnya melebar. [Ringkasan *Anime Industry Report 2025*](https://a
 
 Besarnya perubahan baru terasa kalau kamu mundur ke 2012. Japan Forward (Sankei), mengutip laporan AJA 2018, menulis bahwa pendapatan anime dari luar negeri pada tahun itu baru 240,8 miliar yen. Pada 2017 angkanya sudah 994,8 miliar yen.
 
-Sandingkan angka itu dengan 2.170,2 miliar yen pada 2024, dan hasilnya kira-kira sembilan kali lipat dalam dua belas tahun. Perkalian itu hitungan penulis buku ini, bukan angka resmi AJA, tetapi arahnya sulit dibantah. Pertanyaannya, lewat pintu mana penonton luar negeri kini menemukan anime?
+Sandingkan angka itu dengan 2.170,2 miliar yen pada 2024, dan hasilnya kira-kira sembilan kali lipat dalam dua belas tahun. Perkalian itu hitungan penulis buku ini, dan AJA tidak merilisnya sebagai angka resmi. Meski begitu, arahnya sulit dibantah. Pertanyaannya, lewat pintu mana penonton luar negeri kini menemukan anime?
 
 ### Peralihan ke Layanan Streaming
 
@@ -24,7 +24,7 @@ Dulu anime menyeberang lewat stasiun televisi, kaset video, dan subtitle buatan 
 
 Yang pertama Crunchyroll. Di bab 5 kamu sudah melihat kelompok Sony membelinya pada Agustus 2021, ketika layanan itu baru punya 5 juta pelanggan berbayar. Per akhir Maret 2026, Sony melaporkan Crunchyroll telah melewati 21 juta pelanggan berbayar di seluruh dunia.
 
-Yang kedua Netflix, layanan yang tidak lahir dari dunia anime. Pada 7 Juli 2025, [Netflix mengumumkan](https://about.netflix.com/en/news/anime-for-every-fan-fueling-new-era-global-fandom) bahwa lebih dari separuh anggotanya di seluruh dunia menonton anime, dan jumlah penonton anime di sana naik tiga kali lipat dalam lima tahun. Sepanjang 2024, anime ditonton lebih dari 1 miliar kali di sana, dan puluhan judulnya masuk daftar *Global Top 10* kategori non-Inggris. Di daftar itu, anime tidak hanya melayani penggemar setia. Ia bersaing langsung dengan drama dan film dari banyak negara untuk merebut perhatian penonton biasa. Kalau kamu pernah membuka aplikasi itu dan menemukan anime di deretan teratas, kamu sedang melihat pergeseran ini dari dekat.
+Yang kedua Netflix, layanan yang tidak lahir dari dunia anime. Pada 7 Juli 2025, [Netflix mengumumkan](https://about.netflix.com/en/news/anime-for-every-fan-fueling-new-era-global-fandom) bahwa lebih dari separuh anggotanya di seluruh dunia menonton anime, dan jumlah penonton anime di sana naik tiga kali lipat dalam lima tahun. Sepanjang 2024, anime ditonton lebih dari 1 miliar kali di sana, dan puluhan judulnya masuk daftar *Global Top 10* kategori non-Inggris. Di daftar itu, anime bersaing langsung dengan drama dan film dari banyak negara untuk merebut perhatian penonton biasa, di luar lingkaran penggemar setianya. Kalau kamu pernah membuka aplikasi itu dan menemukan anime di deretan teratas, kamu sedang melihat pergeseran ini dari dekat.
 
 ### Rekor Bioskop dari Kereta sampai Kastil
 
@@ -38,6 +38,6 @@ Pengakuan juga datang dari panggung yang lebih bergengsi. *Spirited Away* memena
 
 - Menurut AJA, pasar luar negeri melampaui pasar domestik sejak 2023, dan pada 2024 selisihnya hampir 500 miliar yen.
 - Dibanding 2012, pendapatan luar negeri tumbuh kira-kira sembilan kali lipat, menurut hitungan penulis dari angka yang dilaporkan.
-- Streaming dan bioskop menunjukkan arah yang sama: lebih dari separuh anggota Netflix menonton anime, dan lebih dari separuh pendapatan *Infinity Castle* datang dari luar Jepang.
+- Streaming dan bioskop menunjukkan arah yang sama. Lebih dari separuh anggota Netflix menonton anime, dan lebih dari separuh pendapatan *Infinity Castle* datang dari luar Jepang.
 
 Semua angka ini lahir dari layar. Padahal banyak cerita yang kamu tonton di layanan streaming bermula dari halaman komik, digambar hitam putih dan dibaca dari kanan ke kiri. Apakah halaman-halaman itu menempuh jalan yang sama menuju pembaca dunia, atau jalan yang sama sekali lain?

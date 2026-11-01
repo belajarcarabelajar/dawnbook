@@ -2,7 +2,7 @@
 
 Bayangkan dirimu seperti sebuah baterai ponsel pintar. Jika baterai tersebut terus dipaksa bekerja tanpa pernah diisi ulang, pada akhirnya ia akan mati. Dalam konteks resiliensi, **stres adalah penggunaan daya, dan pemulihan energi adalah proses pengisian ulangnya.**
 
-Ketangguhan bukan berarti kamu tidak pernah merasa lelah atau stres; ketangguhan adalah kemampuan untuk mengenali kapan "daya"-mu menipis dan tahu persis bagaimana cara mengisinya kembali secara efektif.
+Ketangguhan adalah kemampuan untuk mengenali kapan "daya"-mu menipis dan tahu persis bagaimana cara mengisinya kembali secara efektif. Kamu masih boleh merasa lelah atau stres.
 
 ### 1. Biologi Stres
 
@@ -10,7 +10,7 @@ Stres sering kali dianggap sebagai musuh, padahal secara biologis, stres adalah 
 
 Dalam dosis kecil, ini disebut sebagai **Eustress** (stres positif) yang membantu kita tetap fokus dan waspada. Namun, jika terjadi terus-menerus, ia berubah menjadi **Distress** yang merusak sel tubuh dan menurunkan fungsi kognitif.
 
-> **Insight:** Resiliensi tidak dibangun dengan menghindari stres, tetapi dengan memperpendek durasi respons stres dan mempercepat aktivasi *Parasympathetic Nervous System* (sistem saraf parasimpatik) yang bertanggung jawab untuk *rest and digest* (istirahat dan cerna).
+> **Insight:** Resiliensi dibangun dengan memperpendek durasi respons stres dan mempercepat aktivasi *Parasympathetic Nervous System* (sistem saraf parasimpatik) yang bertanggung jawab untuk *rest and digest* (istirahat dan cerna).
 
 *Kapan terakhir kali kamu merasa stres tetapi justru merasa produktif? Dan kapan stres tersebut mulai terasa melumpuhkan?*
 
@@ -27,7 +27,7 @@ Digunakan oleh atlet elit dan pasukan khusus untuk tetap tenang di bawah tekanan
 3. **Exhale**: Buang napas perlahan melalui mulut selama 4 detik.
 4. **Hold**: Tahan napas dalam keadaan kosong selama 4 detik.
 
-Secara matematis, kita bisa melihat pola ini sebagai: $\text{Pola} = 4 \rightarrow 4 \rightarrow 4 \rightarrow 4$
+Secara matematis, pola ini bisa ditulis sebagai $\text{Pola} = 4 \rightarrow 4 \rightarrow 4 \rightarrow 4$
 
 #### B. Teknik Grounding 5-4-3-2-1
 
@@ -57,7 +57,7 @@ Banyak orang mengira bahwa istirahat hanyalah tidur. Namun, pemulihan energi men
 
 ### 4. Mindfulness dalam Keseharian
 
-Mindfulness bukan berarti duduk diam selama berjam-jam dalam meditasi. Mindfulness adalah **kesadaran penuh tanpa penghakiman.**
+Mindfulness adalah **kesadaran penuh tanpa penghakiman.** Kamu tidak perlu duduk diam berjam-jam dalam meditasi untuk melatihnya.
 
 **Latihan Micro-Mindfulness:** Cobalah untuk melakukan satu aktivitas rutin, seperti mencuci piring atau berjalan menuju parkiran, dengan kesadaran penuh. Rasakan tekstur air, suhu udara, dan sensasi kaki menyentuh tanah. Ini melatih otot otak untuk kembali ke kendali diri saat stres melanda.
 
@@ -65,11 +65,11 @@ Mindfulness bukan berarti duduk diam selama berjam-jam dalam meditasi. Mindfulne
 
 ***Deadline* Proyek Besar di Kantor** Seorang manajer proyek menghadapi *deadline* dalam 48 jam ke depan. Tingkat stresnya berada pada puncaknya.
 
-- **Pendekatan Kurang Tepat:** Bekerja 18 jam nonstop, mengonsumsi 5 cangkir kopi, dan tidur hanya 3 jam. Hasilnya: Kesalahan fatal di jam-jam terakhir karena kelelahan kognitif.
+- **Pendekatan Kurang Tepat:** Bekerja 18 jam nonstop, mengonsumsi 5 cangkir kopi, dan tidur hanya 3 jam. Akibatnya, terjadi kesalahan fatal di jam-jam terakhir karena kelelahan kognitif.
 - **Pendekatan Resilien (Strategi Pemulihan Energi):**
 	1. **Metode Pomodoro:** Bekerja 25 menit, istirahat 5 menit (Istirahat Mental).
 	2. **Strategic Nap:** Tidur siang selama 20 menit untuk menyegarkan memori kognitif.
-	3. **High-Protein Fuel:** Memilih makanan yang menjaga stabilitas gula darah, bukan lonjakan gula dari camilan manis.
+	3. **High-Protein Fuel:** Memilih makanan yang menjaga stabilitas gula darah dan menghindari lonjakan gula dari camilan manis.
 
 **Protokol Pemulihan Sesuai Tingkat Stres:**
 

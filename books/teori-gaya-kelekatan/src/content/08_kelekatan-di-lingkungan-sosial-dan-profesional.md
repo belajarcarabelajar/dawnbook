@@ -6,7 +6,7 @@ Jawabannya sering kali berakar pada **gaya kelekatan (attachment styles)** yang 
 
 ## 1. Dinamika Kolaborasi dalam Tim
 
-Dalam sebuah tim, keberhasilan tidak hanya ditentukan oleh *hard skill*, tetapi juga oleh bagaimana setiap orang saling berinteraksi. Gaya kelekatan bertindak sebagai "cetak biru" tersembunyi dalam setiap kolaborasi.
+Dalam sebuah tim, keberhasilan ditentukan oleh *hard skill* dan oleh cara setiap orang saling berinteraksi. Gaya kelekatan bertindak sebagai "cetak biru" tersembunyi dalam setiap kolaborasi.
 
 ### Gaya Kelekatan Aman (Secure) di Tempat Kerja
 
@@ -14,7 +14,7 @@ Individu dengan gaya aman menjadi jangkar dalam tim. Mereka cenderung menunjukka
 
 * **Komunikatif:** Terbuka dalam menyampaikan ide dan berani mengakui kesalahan tanpa dibayangi ketakutan berlebih.
 * **Kolaboratif:** Tidak merasa terancam oleh kesuksesan rekan kerja dan dengan senang hati berbagi sumber daya.
-* **Resilien:** Melihat umpan balik negatif sebagai peluang pertumbuhan, bukan serangan pribadi.
+* **Resilien:** Menerima umpan balik negatif sebagai peluang pertumbuhan tanpa menganggapnya serangan pribadi.
 
 ### Gaya Kelekatan Cemas (Anxious) di Tempat Kerja
 
@@ -79,6 +79,6 @@ Jika kamu ingin meningkatkan efektivitas profesional berdasarkan teori ini, pert
 
 ## Dari Reaksi Otomatis ke Respons Sadar
 
-Memahami gaya kelekatan di lingkungan sosial dan profesional bukan tentang memberi label negatif pada diri sendiri atau orang lain. Ini adalah alat untuk meningkatkan kecerdasan emosional (EQ). Dengan mengenali pola-pola ini, kita bisa beralih dari reaksi otomatis menuju respons yang sadar dan konstruktif, menciptakan lingkungan kerja yang tidak hanya produktif tetapi juga sehat secara psikologis.
+Pemahaman tentang gaya kelekatan di lingkungan sosial dan profesional adalah alat untuk meningkatkan kecerdasan emosional (EQ), dan kamu tidak perlu memakainya untuk memberi label negatif pada diri sendiri atau orang lain. Dengan mengenali pola-pola ini, kita bisa beralih dari reaksi otomatis menuju respons yang sadar dan konstruktif, menciptakan lingkungan kerja yang produktif sekaligus sehat secara psikologis.
 
 "Cara kita memperlakukan orang lain dalam pekerjaan adalah cerminan dari bagaimana kita merasa aman di dalam diri kita sendiri."

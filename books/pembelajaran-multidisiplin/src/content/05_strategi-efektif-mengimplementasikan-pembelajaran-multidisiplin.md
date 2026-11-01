@@ -41,11 +41,11 @@ Sebagai contoh konkret, mahasiswa arsitektur, teknik lingkungan, dan sosiologi d
 
 #### Manfaat PjBL dalam Konteks Multidisiplin
 
-Penerapan PjBL membawa dampak positif yang luas. Peserta didik tidak hanya dituntut menyatukan teori dari berbagai bidang, tetapi juga mengasah ketajaman memecahkan masalah rumit dan meningkatkan kecakapan berkomunikasi. Terlebih lagi, terlibat langsung dalam tugas yang bermakna secara alami menumbuhkan motivasi dari dalam diri mereka.
+Penerapan PjBL membawa dampak positif yang luas. Peserta didik dituntut menyatukan teori dari berbagai bidang sambil mengasah ketajaman memecahkan masalah rumit dan meningkatkan kecakapan berkomunikasi. Terlebih lagi, terlibat langsung dalam tugas yang bermakna secara alami menumbuhkan motivasi dari dalam diri mereka.
 
 ### 3. Pentingnya Kolaborasi Antardisiplin
 
-Kolaborasi merupakan inti pembelajaran multidisiplin. Kerja sama ini tidak terbatas pada interaksi antarpeserta didik, tetapi juga harus dibangun di antara pendidik, peneliti, dan praktisi.
+Kolaborasi merupakan inti pembelajaran multidisiplin. Kerja sama ini perlu dibangun di antara peserta didik, dan juga di antara pendidik, peneliti, dan praktisi.
 
 #### a. Kolaborasi Antardosen dan Departemen
 
@@ -62,7 +62,7 @@ Menciptakan kesempatan bagi peserta didik untuk bekerja sama dengan rekan dari j
 
 ### 4. Perancangan Kurikulum Terintegrasi
 
-Perancangan kurikulum yang terencana dengan baik menjadi fondasi penting dalam pembelajaran multidisiplin. Struktur kurikulum harus sengaja dirancang untuk menghubungkan berbagai bidang ilmu, bukan hanya menyandingkannya tanpa kaitan yang jelas.
+Perancangan kurikulum yang terencana dengan baik menjadi fondasi penting dalam pembelajaran multidisiplin. Struktur kurikulum harus sengaja dirancang untuk menghubungkan berbagai bidang ilmu dengan kaitan yang jelas.
 
 #### a. Mata Kuliah Bersama atau Inti Multidisiplin
 

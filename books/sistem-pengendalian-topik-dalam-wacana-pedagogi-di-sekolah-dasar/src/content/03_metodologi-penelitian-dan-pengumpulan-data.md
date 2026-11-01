@@ -1,12 +1,12 @@
 ## Metodologi Penelitian dan Konteks Tiga SD di Bogor
 
-Memahami dinamika wacana pedagogi di kelas sekolah dasar menuntut pendekatan penelitian yang mampu menangkap keragaman interaksi verbal secara alami. Pembelajaran Bahasa Indonesia di kelas tidak hanya berputar pada penyerapan materi, tetapi juga melibatkan pembagian giliran bicara antara guru dan siswa. Untuk mengkaji mekanisme pengendalian topik tersebut, Marliana (2017) menerapkan pendekatan kualitatif deskriptif berbasis studi kasus.
+Memahami dinamika wacana pedagogi di kelas sekolah dasar menuntut pendekatan penelitian yang mampu menangkap keragaman interaksi verbal secara alami. Pembelajaran Bahasa Indonesia di kelas melibatkan penyerapan materi sekaligus pembagian giliran bicara antara guru dan siswa. Untuk mengkaji mekanisme pengendalian topik tersebut, Marliana (2017) menerapkan pendekatan kualitatif deskriptif berbasis studi kasus.
 
 Melalui pendekatan kualitatif, interaksi lisan yang berlangsung selama proses belajar-mengajar dapat diamati, direkam, serta dianalisis tanpa memanipulasi situasi kelas.
 
 ### Pendekatan dan Desain Penelitian Kualitatif
 
-Studi kasus dipilih karena mampu menyajikan gambaran utuh mengenai praktik wacana pedagogi pada latar alamiah (naturalistic setting). Peneliti tidak menempatkan variabel buatan, melainkan mengamati jalannya proses pembelajaran Bahasa Indonesia sebagaimana yang terjadi sehari-hari.
+Studi kasus dipilih karena mampu menyajikan gambaran utuh mengenai praktik wacana pedagogi pada latar alamiah (naturalistic setting). Peneliti mengamati jalannya proses pembelajaran Bahasa Indonesia sebagaimana yang terjadi sehari-hari, tanpa menempatkan variabel buatan.
 
 Fokus utama analisis terletak pada sistem pengendalian topik, yaitu bagaimana guru memulai, mengarahkan, mengalihkan, atau menutup topik pembicaraan di dalam kelas. Pendekatan deskriptif membantu menggambarkan pola tuturan tersebut secara rinci dan terstruktur.
 

@@ -10,7 +10,7 @@ Secara sederhana, **kelekatan (attachment)** adalah ikatan emosional mendalam ya
 
 Bayangkan **jangkar pada kapal**. Saat laut sedang berbadai, kelekatan adalah rantai yang menghubungkan kita dengan pelabuhan yang aman. Jika rantai itu kuat dan fleksibel, kapal dapat menjelajah jauh tetapi tetap merasa aman. Jika rantai itu rapuh atau terlalu kaku, kapal tersebut akan kesulitan untuk berfungsi dengan baik.
 
-"Kelekatan merupakan kebutuhan biologis untuk merasa aman, dilindungi, dan dipahami, bukan hanya dorongan untuk berdekatan secara fisik."
+"Kelekatan merupakan kebutuhan biologis untuk merasa aman, dilindungi, dan dipahami. Dorongan untuk berdekatan secara fisik hanyalah salah satu wujudnya."
 
 ## Mengapa Hubungan Awal Begitu Menentukan?
 
@@ -24,7 +24,7 @@ Sebagai contoh, ketika bayi menangis, tersenyum, atau memanggil (sebagai aksi), 
 
 ### 2. Pembentukan "Internal Working Model" (Peta Mental)
 
-Melalui interaksi berulang dengan pengasuh, seorang anak membangun apa yang disebut **Internal Working Model (IWM)**. Ini adalah peta mental tentang bagaimana dunia bekerja. Peta ini menjawab tiga pertanyaan dasar: *Apakah saya layak dicintai? Apakah orang lain dapat diandalkan saat saya sedang kesulitan?* Dan *Apakah dunia ini tempat yang aman untuk dijelajahi?*
+Melalui interaksi berulang dengan pengasuh, seorang anak membangun apa yang disebut **Internal Working Model (IWM)**. Ini adalah peta mental tentang bagaimana dunia bekerja. Peta ini menjawab tiga pertanyaan dasar, yaitu *Apakah saya layak dicintai? Apakah orang lain dapat diandalkan saat saya sedang kesulitan?* Dan *Apakah dunia ini tempat yang aman untuk dijelajahi?*
 
 Jika pengasuh responsif, anak menyimpulkan: *"Saya berharga dan orang lain bisa dipercayai."* Jika pengasuh tidak konsisten atau dingin, petanya mungkin menunjukkan: *"Dunia ini berbahaya dan saya harus berjuang sendirian."*
 
@@ -51,18 +51,18 @@ Pola yang terbentuk di masa bayi tidak serta-merta berhenti saat kita beranjak d
 
 ## Mengapa Mempelajari Ini Sekarang?
 
-Memahami teori kelekatan bukan bertujuan untuk menyalahkan orang tua atas masa lalu kita. Tujuan utamanya adalah membangun **kesadaran diri (self-awareness)**.
+Tujuan utama memahami teori kelekatan adalah membangun **kesadaran diri (self-awareness)**, tanpa perlu menyalahkan orang tua atas masa lalu kita.
 
-**Studi Kasus:** Andi selalu merasa cemas dan ingin melarikan diri dari hubungan setiap kali pasangannya mulai membicarakan komitmen masa depan yang serius. Melalui lensa teori kelekatan, Andi akhirnya menyadari bahwa perilakunya tidak disebabkan oleh kurangnya rasa cinta, melainkan merupakan mekanisme pertahanan yang terbentuk sejak kecil untuk melindungi dirinya dari kekecewaan emosional.
+**Studi Kasus:** Andi selalu merasa cemas dan ingin melarikan diri dari hubungan setiap kali pasangannya mulai membicarakan komitmen masa depan yang serius. Melalui lensa teori kelekatan, Andi akhirnya menyadari bahwa perilakunya merupakan mekanisme pertahanan yang terbentuk sejak kecil untuk melindungi dirinya dari kekecewaan emosional. Kurangnya rasa cinta tidak menjadi penyebabnya.
 
 **Manfaat Mempelajari Kelekatan:**
 
-* **Validasi Diri:** Kamu menyadari bahwa caramu bereaksi dalam hubungan bukanlah sebuah "kerusakan", melainkan strategi adaptasi yang pernah menyelamatkanmu di masa lalu.
+* **Validasi Diri:** Kamu menyadari bahwa caramu bereaksi dalam hubungan adalah strategi adaptasi yang pernah menyelamatkanmu di masa lalu. Tidak ada "kerusakan" yang perlu kamu sesali di sana.
 * **Komunikasi yang Lebih Baik:** Kamu terbantu untuk mengekspresikan kebutuhan emosional dengan lebih jernih kepada pasangan.
 * **Peluang untuk Tumbuh:** Kamu memiliki kesempatan untuk melatih diri menuju **Kelekatan Aman (Secure Attachment)** melalui proses yang dikenal sebagai *Earned Security*.
 
 **Poin Kunci untuk Diingat:**
 
-* Kelekatan adalah kebutuhan biologis yang mendasar, bukan sebuah kelemahan emosional.
+* Kelekatan adalah kebutuhan biologis yang mendasar dan tidak menandakan kelemahan emosional.
 * Hubungan awal masa kecil membentuk peta mental dasar kita dalam memandang dunia.
 * Peta mental ini tidak bersifat permanen. Gaya kelekatan bisa berubah dan disembuhkan seiring bertambahnya usia, kedewasaan, dan kesadaran diri.

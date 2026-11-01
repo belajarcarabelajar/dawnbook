@@ -6,7 +6,7 @@ Dalam bab ini, kita akan mempelajari partikel mikroskopis yang disebut **Aerosol
 
 ### 1. Apa itu Aerosol Atmosfer?
 
-Secara teknis, **aerosol** adalah suspensi partikel padat atau cair dalam medium gas (udara). Di atmosfer, aerosol bukan hanya polusi kendaraan, melainkan komponen alami dan esensial dari sistem cuaca Bumi.
+Secara teknis, **aerosol** adalah suspensi partikel padat atau cair dalam medium gas (udara). Di atmosfer, aerosol mencakup polusi kendaraan dan juga partikel alami yang menjadi komponen esensial sistem cuaca Bumi.
 
 #### Klasifikasi Berdasarkan Sumber
 

@@ -2,7 +2,7 @@
 
 Pernahkah kamu mendapati dirimu terus-menerus menekan tombol "Next Episode" di Netflix atau menggeser layar Instagram selama berjam-jam? Kamu terus melakukannya walau sudah merasa bosan, lelah, dan tidak lagi benar-benar menikmati konten yang kamu lihat.
 
-Secara logika, jika kita tidak menikmati sesuatu, kita seharusnya berhenti. Namun, otak manusia memiliki mekanisme yang jauh lebih kompleks. Dalam modul ini, kita akan membedah salah satu temuan penting dalam neurosains modern: **pemisahan antara keinginan (*wanting*) dan kesenangan (*liking*)**.
+Secara logika, jika kita tidak menikmati sesuatu, kita seharusnya berhenti. Namun, otak manusia memiliki mekanisme yang jauh lebih kompleks. Dalam modul ini, kita akan membedah **pemisahan antara keinginan (*wanting*) dan kesenangan (*liking*)**, salah satu temuan penting dalam neurosains modern.
 
 ---
 
@@ -41,7 +41,7 @@ Ini adalah sensasi kenikmatan murni saat kamu mendapatkan atau mengonsumsi imbal
 Dalam kondisi sehat, *wanting* dan *liking* berjalan selaras. Namun, dalam siklus adiksi (baik itu zat, gadget, maupun judi), terjadi pergeseran yang berbahaya:
 
 #### Sensitisasi *Wanting*
-Setiap kali otak terpapar stimulus yang memicu dopamin secara masif, sirkuit *wanting* mengalami **sensitisasi**. Artinya, sirkuit ini menjadi semakin peka terhadap petunjuk (*cues*) yang berkaitan dengan objek tersebut. Contoh: Hanya dengan melihat ikon aplikasi media sosial, otakmu sudah melepaskan dopamin dalam jumlah besar, menciptakan dorongan kuat untuk membukanya.
+Setiap kali otak terpapar stimulus yang memicu dopamin secara masif, sirkuit *wanting* mengalami **sensitisasi**. Artinya, sirkuit ini menjadi semakin peka terhadap petunjuk (*cues*) yang berkaitan dengan objek tersebut. Misalnya, hanya dengan melihat ikon aplikasi media sosial, otakmu sudah melepaskan dopamin dalam jumlah besar, menciptakan dorongan kuat untuk membukanya.
 
 #### Desensitisasi *Liking* (Toleransi)
 Di sisi lain, karena otak terpapar terus-menerus, ia melakukan proteksi diri dengan mengurangi jumlah dan sensitivitas reseptor. Ini disebut ***downregulation***. Akibatnya, kamu membutuhkan dosis yang lebih tinggi hanya untuk merasakan tingkat kenikmatan yang sama dengan sebelumnya.
@@ -72,8 +72,8 @@ Ikuti skenario nyata berikut:
 
 Memahami perbedaan ini adalah kunci untuk mendapatkan kembali kendali atas perilaku kita. Berikut adalah strategi berbasis neurosains:
 
-1. **Kenali *Craving* sebagai Sinyal Dopamin, Bukan Kebutuhan Hakiki**  
-   Saat kamu merasa dorongan kuat untuk melakukan sesuatu (misalnya merokok atau mengecek ponsel), katakan pada diri sendiri: *"Ini hanyalah sistem Wanting saya yang sedang aktif, ini tidak berarti saya akan benar-benar menikmatinya."* Memisahkan dorongan dari prediksi kenikmatan dapat melemahkan kekuatan adiksi tersebut.
+1. **Kenali *Craving* sebagai Sinyal Dopamin**  
+   Saat kamu merasa dorongan kuat untuk melakukan sesuatu (misalnya merokok atau mengecek ponsel), ucapkan dalam hati, *"Ini hanyalah sistem Wanting saya yang sedang aktif, ini tidak berarti saya akan benar-benar menikmatinya."* Memisahkan dorongan dari prediksi kenikmatan dapat melemahkan kekuatan adiksi tersebut.
 
 2. **Eliminasi *Cues* (Isyarat Visual & Lingkungan)**  
    Sistem *wanting* sangat reaktif terhadap lingkungan. Jika kamu ingin berhenti ngemil di malam hari, jangan taruh toples kue di meja makan. Hilangkan isyarat visual untuk menenangkan sirkuit dopaminmu.

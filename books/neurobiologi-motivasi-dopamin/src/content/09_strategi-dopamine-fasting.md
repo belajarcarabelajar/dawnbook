@@ -2,17 +2,17 @@
 
 Pernahkah kamu merasa bahwa bermain video game, menonton serial favorit, atau menelusuri media sosial kini terasa hambar dan membosankan? Aktivitas itu dulu sangat menyenangkan. Namun, di saat yang sama, kamu merasa tidak bisa berhenti melakukannya. Kamu terjebak dalam kondisi ketika kamu "menginginkan" sesuatu tetapi tidak benar-benar "menikmatinya".
 
-Ini adalah tanda bahwa sistem *reward* (imbalan) kamu mengalami **downregulation** atau penurunan sensitivitas reseptor. Bab ini akan membahas solusi praktis untuk masalah tersebut: **Dopamine Fasting** (Puasa Dopamin).
+Ini adalah tanda bahwa sistem *reward* (imbalan) kamu mengalami **downregulation** atau penurunan sensitivitas reseptor. Bab ini akan membahas **Dopamine Fasting** (Puasa Dopamin) sebagai solusi praktis untuk masalah tersebut.
 
 ---
 
 ### 1. Apa Itu Dopamine Fasting Sebenarnya?
 
-Sebelum masuk ke metode praktis, mari kita luruskan satu hal penting secara ilmiah: **kamu tidak bisa benar-benar "berpuasa" dari molekul dopamin.**
+Sebelum masuk ke metode praktis, mari kita luruskan satu hal penting secara ilmiah. **Kamu tidak bisa benar-benar "berpuasa" dari molekul dopamin.**
 
 Dopamin adalah neurotransmiter yang selalu ada di otak dan sangat penting untuk fungsi motorik serta kognitif dasar. Tanpa dopamin sama sekali, kamu akan sangat sulit bergerak atau berpikir.
 
-> **Insight Utama:** Dopamine Fasting bukanlah tentang menghilangkan dopamin dari otak, melainkan tentang **mengurangi stimulasi eksternal yang berlebihan dan impulsif** untuk memulihkan sensitivitas reseptor dopamin (terutama reseptor $\text{D}_2$).
+> **Insight Utama:** Dopamine Fasting berarti **mengurangi stimulasi eksternal yang berlebihan dan impulsif** untuk memulihkan sensitivitas reseptor dopamin (terutama reseptor $\text{D}_2$). Dopamin di otakmu sendiri tidak dihilangkan.
 
 #### Sensor Cahaya di Kamar Gelap
 
@@ -83,7 +83,7 @@ Jika kamu memutuskan untuk melakukan *The 24-Hour Reset*, ikuti langkah-langkah 
 1. **Persiapan Lingkungan:** Jauhkan perangkat digital dari jangkauan. Jika perlu, titipkan ponselmu pada teman atau simpan di laci yang terkunci.
 2. **Identifikasi Pemicu (*Triggers*):** Kenali perasaan apa yang membuatmu ingin mencari stimulasi. Apakah itu bosan, cemas, atau kesepian?
 3. **Rangkul Rasa Bosan:** Ini adalah bagian tersulit. Rasa bosan bisa jadi tanda bahwa otakmu sedang berusaha melakukan kalibrasi ulang sensitivitas reseptor. Jangan melarikan diri darinya.
-4. **Evaluasi Nilai (*Value Alignment*):** Gunakan waktu kosong ini untuk bertanya pada diri sendiri: *"Aktivitas mana yang benar-benar memberikan makna jangka panjang, dan mana yang hanya memberikan kesenangan sesaat?"*
+4. **Evaluasi Nilai (*Value Alignment*):** Gunakan waktu kosong ini untuk bertanya pada diri sendiri, *"Aktivitas mana yang benar-benar memberikan makna jangka panjang, dan mana yang hanya memberikan kesenangan sesaat?"*
 
 > **Pertanyaan Refleksi:** Kapan terakhir kali kamu benar-benar duduk diam selama 30 menit tanpa melakukan apa pun selain berpikir? Apa yang kamu rasakan saat itu?
 
@@ -108,6 +108,6 @@ Puasa dopamin tidak akan berguna jika setelah selesai, kamu langsung kembali ke 
 - **Aturan 80/20:** Berikan 80% waktumu untuk aktivitas yang menghasilkan dopamin melalui usaha (olahraga, belajar, berkarya) dan 20% untuk kesenangan instan yang terkontrol.
 - **Gunakan "Rasa Bosan" sebagai Alat:** Jika kamu merasa sangat sulit untuk mulai bekerja, cobalah duduk diam selama 10 menit tanpa melakukan apa pun. Otakmu akan menjadi begitu bosan sehingga aktivitas bekerja akan terlihat lebih menarik daripada tidak melakukan apa-apa.
 
-> **Pesan Penting:** Kemampuan untuk menoleransi kebosanan adalah keterampilan penting di era digital. Dengan mengatur ulang sistem *reward*-mu, kamu tidak lagi dikendalikan oleh impuls, melainkan oleh tujuan yang bermakna.
+> **Pesan Penting:** Kemampuan untuk menoleransi kebosanan adalah keterampilan penting di era digital. Dengan mengatur ulang sistem *reward*-mu, tujuan yang bermakna mengambil alih kendali dari impuls.
 
 > **Pertanyaan Penutup:** Dari semua stimulan eksternal (media sosial, makanan, game), mana yang paling mengendalikan hidupmu saat ini? Apa satu langkah kecil yang bisa kamu lakukan besok untuk mengurangi stimulasinya?

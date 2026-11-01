@@ -45,7 +45,7 @@ Postulat bahwa eksistensi mendahului esensi melahirkan konsekuensi etis yang men
 
 1. **Kebebasan Radikal:** Karena tidak ada otoritas transenden atau hukum alam absolut yang mendikte nilai manusia, setiap individu berdaulat penuh dalam memilih prinsip moralitasnya.
 2. **Tanggung Jawab Total:** Dalam ketiadaan determinisme eksternal, individu tidak dapat melimpahkan kegagalan moral atau eksistensialnya kepada faktor genetik, lingkungan masa kecil, atau nasib.
-3. **Konstruksi Nilai Mandiri:** Nilai dan makna tidak menunggu untuk ditemukan secara pasif di alam semesta, melainkan harus diciptakan secara aktif melalui komitmen tindakan.
+3. **Konstruksi Nilai Mandiri:** Nilai dan makna harus diciptakan secara aktif melalui komitmen tindakan. Keduanya tidak menunggu untuk ditemukan secara pasif di alam semesta.
 
 ### 4. Perbandingan Paradigma Esensialis dan Eksistensialis
 
@@ -70,4 +70,4 @@ Banyak individu mengalami kelumpuhan eksistensial akibat keyakinan bahwa terdapa
 
 ### 7. Manusia Menentukan Makna Hidupnya
 
-Doktrin eksistensi mendahului esensi menempatkan manusia sebagai arsitek tunggal atas makna keberadaannya. Ketiadaan kodrat tetap bukan alasan untuk putus asa, melainkan panggilan untuk menegakkan otonomi diri di hadapan kemungkinan-kemungkinan masa depan.
+Doktrin eksistensi mendahului esensi menempatkan manusia sebagai arsitek tunggal atas makna keberadaannya. Ketiadaan kodrat tetap memanggil manusia untuk menegakkan otonomi diri di hadapan kemungkinan-kemungkinan masa depan.

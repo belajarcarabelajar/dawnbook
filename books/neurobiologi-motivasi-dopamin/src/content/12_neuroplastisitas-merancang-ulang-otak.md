@@ -2,7 +2,7 @@
 
 ### Otak Kamu Tidak Bersifat Statis
 
-Kamu sudah mempelajari cara kerja dopamin, bagaimana sistem *reward* bisa "rusak" akibat stimulasi berlebih, dan bagaimana siklus adiksi terbentuk. Setelah semua itu, kamu mungkin merasa cemas. Kamu mungkin bertanya: *"Apakah otak saya sudah rusak selamanya?"* atau *"Apakah saya akan selalu terjebak dalam motivasi yang rendah?"*
+Kamu sudah mempelajari cara kerja dopamin, bagaimana sistem *reward* bisa "rusak" akibat stimulasi berlebih, dan bagaimana siklus adiksi terbentuk. Setelah semua itu, kamu mungkin merasa cemas. Kamu mungkin bertanya-tanya, *"Apakah otak saya sudah rusak selamanya?"* atau *"Apakah saya akan selalu terjebak dalam motivasi yang rendah?"*
 
 Jawabannya adalah **tidak**.
 
@@ -12,7 +12,7 @@ Alasannya adalah **neuroplastisitas**, kemampuan otak manusia untuk berubah, ber
 
 Secara etimologis, "neuro" merujuk pada sel saraf (neuron) dan "plastisitas" merujuk pada sifat *plastic*, sesuatu yang dapat dibentuk atau dimodifikasi.
 
-> **Insight:** Neuroplastisitas berarti sirkuit saraf di otak kamu tidak seperti sirkuit komputer yang kaku (*hardwired*), melainkan lebih seperti otot yang bisa tumbuh atau mengecil, atau seperti tanah liat yang bisa dibentuk ulang.
+> **Insight:** Neuroplastisitas berarti sirkuit saraf di otak kamu lebih mirip otot yang bisa tumbuh atau mengecil, atau tanah liat yang bisa dibentuk ulang. Ia tidak kaku seperti sirkuit komputer (*hardwired*).
 
 Dahulu, para ilmuwan percaya bahwa otak berhenti berkembang setelah masa kanak-kanak. Namun, penelitian modern membuktikan bahwa hingga usia tua pun, otak kita terus membentuk koneksi baru dan memangkas koneksi yang tidak digunakan. Dalam konteks motivasi, ini berarti **sirkuit motivasi yang lemah dapat diperkuat, dan jalur adiksi yang kuat dapat dilemahkan.**
 
@@ -25,7 +25,7 @@ Bagaimana sebenarnya otak "belajar" untuk berubah? Ada dua proses utama yang ter
 Ini adalah proses penguatan hubungan antarneuron. Ketika dua neuron berkomunikasi secara berulang-ulang, efisiensi transmisi sinyal di antara keduanya meningkat.
 
 - **Analogi:** Bayangkan sebuah jalan setapak di hutan. Semakin sering kamu melewatinya, semak-semak akan tersingkap, tanah menjadi padat, dan jalan tersebut menjadi semakin mudah dilalui.
-- **Prinsip Hebb:** Donald Hebb (1949) mengemukakan bahwa hubungan antara dua neuron menguat ketika satu neuron berulang kali ikut memicu aktivitas neuron lainnya. Rima populer *"neurons that fire together, wire together"* (neuron yang menyala bersama akan terhubung bersama) bukan kalimat Hebb sendiri, melainkan varian dari rima yang diperkenalkan Carla Shatz (1992), *"cells that fire together, wire together"*, seperti dicatat Keysers dan Gazzola (2014).
+- **Prinsip Hebb:** Donald Hebb (1949) mengemukakan bahwa hubungan antara dua neuron menguat ketika satu neuron berulang kali ikut memicu aktivitas neuron lainnya. Rima populer *"neurons that fire together, wire together"* (neuron yang menyala bersama akan terhubung bersama) adalah varian dari rima yang diperkenalkan Carla Shatz (1992), *"cells that fire together, wire together"*, seperti dicatat Keysers dan Gazzola (2014). Kalimat itu tidak berasal dari Hebb sendiri.
 
 #### 2. Long-Term Depression (LTD)
 
@@ -54,13 +54,13 @@ Berikut adalah langkah-langkah untuk melatih ulang otak kamu menggunakan prinsip
 
 #### 1. Kesadaran akan *The Peak of Discomfort*
 
-Saat kamu mencoba membangun kebiasaan baru (misalnya: membaca buku alih-alih bermain HP), otak kamu akan merasa tidak nyaman. Ini adalah tanda bahwa otak sedang mencoba memaksa kamu kembali ke jalur saraf yang lama (jalur dopamin murah).
+Saat kamu mencoba membangun kebiasaan baru (misalnya membaca buku alih-alih bermain HP), otak kamu akan merasa tidak nyaman. Ini adalah tanda bahwa otak sedang mencoba memaksa kamu kembali ke jalur saraf yang lama (jalur dopamin murah).
 
 > **Penting:** Rasa tidak nyaman adalah tanda bahwa neuroplastisitas sedang terjadi. Kamu sedang "mencangkul" jalan baru di otak kamu.
 
 #### 2. Konsistensi di Atas Intensitas
 
-Otak tidak berubah karena satu aktivitas besar, melainkan karena pengulangan kecil yang konsisten.
+Otak berubah lewat pengulangan kecil yang konsisten. Satu aktivitas besar tidak cukup untuk itu.
 
 - *Perbandingan:* Melakukan meditasi 5 menit setiap hari selama sebulan jauh lebih efektif untuk mengubah struktur otak daripada meditasi 5 jam hanya dalam satu hari.
 
@@ -90,7 +90,7 @@ Untuk mempercepat perubahan otak, kamu bisa menggunakan bantuan biologis berikut
 
 > Otak kamu bisa berubah secara sadar, sesuai keinginanmu sendiri.
 
-Mempelajari neurobiologi motivasi bukan hanya tentang memahami zat kimia, tetapi tentang memahami bahwa **kamu bisa berubah.** Kerusakan akibat dopamin instan tidaklah permanen. Dengan pemahaman tentang homeostasis, baseline dopamin, dan neuroplastisitas, kamu kini memiliki alat untuk mengambil alih kemudi.
+Mempelajari neurobiologi motivasi berarti memahami zat kimia, sekaligus memahami bahwa **kamu bisa berubah.** Kerusakan akibat dopamin instan tidaklah permanen. Dengan pemahaman tentang homeostasis, baseline dopamin, dan neuroplastisitas, kamu kini memiliki alat untuk mengambil alih kemudi.
 
 Pikirkan satu kebiasaan buruk yang ingin kamu hilangkan. Sadarilah bahwa setiap kali kamu menolaknya, kamu sedang melemahkan jalan setapak yang lama di otak kamu. Dan setiap kali kamu memilih kebiasaan baik, kamu sedang menanam benih untuk sirkuit motivasi yang lebih kuat di masa depan.
 

@@ -1,10 +1,10 @@
 ## Dunia yang Absurd dan Pemberontakan Manusia
 
-Konsep absurdisme Albert Camus menelaah ketegangan eksistensial saat hasrat manusia akan makna berbenturan dengan kesunyian alam semesta yang irasional. Jika Jean-Paul Sartre menekankan bahwa kebebasan merupakan kondisi ontologis niscaya, Camus mengajak kita menelaah realitas yang lebih mendasar: disonansi antara kerinduan rasional manusia akan kejelasan dan realitas kosmik yang sepenuhnya membisu.
+Konsep absurdisme Albert Camus menelaah ketegangan eksistensial saat hasrat manusia akan makna berbenturan dengan kesunyian alam semesta yang irasional. Jika Jean-Paul Sartre menekankan bahwa kebebasan merupakan kondisi ontologis niscaya, Camus mengajak kita menelaah realitas yang lebih mendasar, yakni disonansi antara kerinduan rasional manusia akan kejelasan dan realitas kosmik yang sepenuhnya membisu.
 
 ### 1. Apa yang Dimaksud Absurd
 
-Dalam pemikiran Camus, istilah "absurd" bukanlah sekadar keanehan situasi sehari-hari, melainkan sebuah kategori epistemologis yang spesifik. Absurditas lahir secara eksklusif dari relasi benturan antara dua elemen:
+Dalam pemikiran Camus, istilah "absurd" menunjuk sebuah kategori epistemologis yang spesifik. Absurditas lahir secara eksklusif dari relasi benturan antara dua elemen:
 
 1. Kebutuhan intrinsik kesadaran manusia akan kejelasan, kepastian, dan tatanan makna teleologis.
 2. Karakter alam semesta yang dingin, kontingen, dan tidak menyediakan jawaban atas pencarian manusia.
@@ -15,7 +15,7 @@ $$
 $$
 </div>
 
-Absurditas tidak berada di dalam diri subjek semata, tidak pula bersemayam di alam semesta secara terisolasi. Kondisi absurd terartikulasi secara murni dalam jalinan relasi ketegangan antara keduanya.
+Kondisi absurd terartikulasi secara murni dalam jalinan relasi ketegangan antara subjek dan alam semesta. Ia tidak berada di dalam salah satunya secara terisolasi.
 
 ### 2. Mitos Sisifus
 
@@ -34,7 +34,7 @@ Camus menegaskan bahwa momen paling krusial terletak pada saat Sisifus melangkah
 Dalam menghadapi realitas absurd, Camus memetakan tiga kemungkinan sikap yang dapat diambil oleh manusia:
 
 #### a. Bunuh Diri Fisik (*Physical Suicide*)
-Upaya mengakhiri hidup jasmani setelah menyimpulkan ketiadaan makna hidup. Camus menolak opsi ini secara tegas karena tindakan bunuh diri bukan pemecahan atas absurditas, melainkan bentuk penyerahan diri dan kekalahan total di hadapan ketiadaan makna.
+Upaya mengakhiri hidup jasmani setelah menyimpulkan ketiadaan makna hidup. Camus menolak opsi ini secara tegas karena tindakan bunuh diri tidak memecahkan absurditas. Baginya, tindakan itu adalah bentuk penyerahan diri dan kekalahan total di hadapan ketiadaan makna.
 
 #### b. Bunuh Diri Filosofis (*Philosophical Suicide / Leap of Faith*)
 Tindakan melarikan diri dari ketegangan absurd dengan cara memaksakan makna transenden buatan melalui dogma keagamaan atau ilusi metafisik. Camus mengklasifikasikannya sebagai bunuh diri filosofis karena subjek mengorbankan integritas nalar rasional demi ilusi kepastian mental.

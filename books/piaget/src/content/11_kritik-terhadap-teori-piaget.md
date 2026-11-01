@@ -6,7 +6,7 @@ Bagian ini membahas sisi kritis teori Piaget. Kita juga akan melihat cara pemiki
 
 ## 1\. Mengapa Teori Piaget Tidak Selalu Akurat?
 
-Mengkritik Piaget bukan berarti membuang teorinya sama sekali. Tujuannya adalah penyempurnaan. Piaget itu ibarat penemu mobil pertama. Mobil ciptaannya memang berhasil, tapi ilmuwan generasi selanjutnya tahu cara membuat mobil itu melaju lebih cepat. Atau mungkin, butuh jenis bahan bakar yang berbeda.
+Kritik terhadap Piaget bertujuan menyempurnakan teorinya, tanpa membuangnya sama sekali. Piaget itu ibarat penemu mobil pertama. Mobil ciptaannya memang berhasil, tapi ilmuwan generasi selanjutnya tahu cara membuat mobil itu melaju lebih cepat. Atau mungkin, butuh jenis bahan bakar yang berbeda.
 
 ### A. Meremehkan Kemampuan Anak (Underestimation)
 

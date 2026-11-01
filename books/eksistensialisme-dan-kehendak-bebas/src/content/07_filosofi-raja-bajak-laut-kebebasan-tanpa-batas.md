@@ -15,7 +15,7 @@ Dalam kacamata filsafat politik eksistensialis, terdapat disparitas kategoris an
 
 ### 2. Kebebasan Non-Dominatif dan Etika Intersubjektivitas
 
-Salah satu keunggulan filosofis dalam figurasi Luffy adalah pemahaman bahwa kebebasan absolut tidak harus bersifat *zero-sum* atau anarkistis-destruktif. Kebebasan otonom subjek justru berkelindan erat dengan penegakan kebebasan subjek-subjek lain di sekitarnya.
+Salah satu keunggulan filosofis dalam figurasi Luffy adalah pemahaman bahwa kebebasan otonom subjek berkelindan erat dengan penegakan kebebasan subjek-subjek lain di sekitarnya. Kebebasan absolut seperti itu tidak harus bersifat *zero-sum* atau anarkistis-destruktif.
 
 Sebagaimana digagas oleh Simone de Beauvoir dalam *The Ethics of Ambiguity*, kebebasan individu memerlukan kebebasan orang lain agar proyek eksistensialnya memiliki makna duniawi. Dalam setiap persinggahan pulau (seperti Alabasta, Dressrosa, maupun Wano), aksi perlawanan yang dipimpin kru Topi Jerami bertujuan meruntuhkan tirani yang membelenggu masyarakat lokal, lalu segera berlayar kembali tanpa mengambil alih kekuasaan politik wilayah tersebut.
 
@@ -27,19 +27,19 @@ K_{\text{total}} = K_{\text{diri}} + \sum K_{\text{sesama}}
 $$
 </div>
 
-Dalam rumus tersebut, $K\_{\text{diri}}$ merepresentasikan kedaulatan kehendak personal, sementara $\sum K\_{\text{sesama}}$ menandakan keterbukaan ruang kebebasan bagi entitas sosial lain. Membela kebebasan sesama dari tirani bukanlah tindakan moralitas paternalistik, melainkan praksis pembukaan ruang kemungkinan eksistensial bagi semua subjek.
+Dalam rumus tersebut, $K\_{\text{diri}}$ merepresentasikan kedaulatan kehendak personal, sementara $\sum K\_{\text{sesama}}$ menandakan keterbukaan ruang kebebasan bagi entitas sosial lain. Membela kebebasan sesama dari tirani adalah praksis pembukaan ruang kemungkinan eksistensial bagi semua subjek. Tindakan itu tidak lahir dari moralitas paternalistik.
 
 ### 3. Dekonstruksi Fatalisme di Hadapan Nubuat (*Will of D*)
 
 Dalam semesta *One Piece*, hadir mitologi mengenai "Kehendak D" (*Will of D*), nubuat kembalinya Joy Boy, dan penguraian rahasia Abad Kekosongan (*Void Century*). Kendati narasi mitologis mengeklaim hadirnya garis takdir masa lalu, karakter eksistensialis Luffy secara konsisten menolak untuk direduksi menjadi sekadar instrumen takdir kosmis:
 
 - **Penolakan atas Kepastian Informasi:** Luffy menolak mendengarkan bocoran rahasia harta karun One Piece dari Rayleigh, karena kepastian masa depan akan melenyapkan sensasi petualangan dan mematikan kehendak bebas memilih.
-- **Spontanitas Otentik:** Tindakan dieksekusi berdasarkan intensionalitas moral momen kekinian (*the eternal present*), bukan demi menggenapi ramalan apriori.
+- **Spontanitas Otentik:** Tindakan dieksekusi berdasarkan intensionalitas moral momen kekinian (*the eternal present*). Menggenapi ramalan apriori tidak menjadi tujuannya.
 - **Integritas Tanpa Topeng:** Ketiadaan persona buatan dan iktikad buruk (*mauvaise foi*) di hadapan dinamika sosial dan dogma takdir historis.
 
 ### 4. Organisasi Sosial Berbasis Asosiasi Sukarela (*Straw Hat Grand Fleet*)
 
-Dalam ranah sosiologi kelompok, komunitas bajak laut Topi Jerami dan aliansi Armada Besar Topi Jerami (*Straw Hat Grand Fleet*) beroperasi melalui asosiasi individu-individu merdeka (*free association of autonomous individuals*), bukan subordinasi hierarkis:
+Dalam ranah sosiologi kelompok, komunitas bajak laut Topi Jerami dan aliansi Armada Besar Topi Jerami (*Straw Hat Grand Fleet*) beroperasi melalui asosiasi individu-individu merdeka (*free association of autonomous individuals*) tanpa subordinasi hierarkis:
 
 | Parameter Komparasi | Struktur Militeristik Pemerintah Dunia | Asosiasi Eksistensial Kru Topi Jerami |
 | :--- | :--- | :--- |
@@ -47,8 +47,8 @@ Dalam ranah sosiologi kelompok, komunitas bajak laut Topi Jerami dan aliansi Arm
 | **Orientasi Teleologis** | Pemenuhan target otoritas pusat (*Tenryuubito*) | Aktualisasi potensi unik setiap anggota (peta dunia, pengobatan, arkeologi) |
 | **Penyelesaian Ketegangan** | Supresi konflik demi stabilitas status quo | Dialog dialektis, solidaritas organik, dan artikulasi ekspresi otentik |
 
-Ketika para komandan aliansi hendak bersumpah setia sebagai bawahan pasca-peristiwa Dressrosa, Luffy menolak tradisi cawan sumpah komandan-bawahan dan menegaskan bahwa relasi mereka dibangun atas dasar kesukarelaan untuk saling membantu tatkala dibutuhkan, bukan kepatuhan komando hierarkis.
+Ketika para komandan aliansi hendak bersumpah setia sebagai bawahan pasca-peristiwa Dressrosa, Luffy menolak tradisi cawan sumpah komandan-bawahan dan menegaskan bahwa relasi mereka dibangun atas dasar kesukarelaan untuk saling membantu tatkala dibutuhkan, tanpa ikatan kepatuhan pada komando hierarkis.
 
 ### 5. Kebebasan Non-Dominatif Raja Bajak Laut
 
-Filosofi Raja Bajak Laut dalam semesta *One Piece* menegaskan bahwa esensi kemerdekaan bukan terletak pada hasrat untuk menguasai atau menundukkan orang lain, melainkan pada keberanian menjadi tuan atas kehendak diri sendiri sembari membuka jalan bagi kebebasan sesama. Melalui praksis kebebasan non-dominatif ini, sosok Raja Bajak Laut menjadi simbol kebebasan manusia.
+Filosofi Raja Bajak Laut dalam semesta *One Piece* menegaskan bahwa esensi kemerdekaan terletak pada keberanian menjadi tuan atas kehendak diri sendiri sembari membuka jalan bagi kebebasan sesama. Hasrat untuk menguasai atau menundukkan orang lain berada di luar esensi itu. Melalui praksis kebebasan non-dominatif ini, sosok Raja Bajak Laut menjadi simbol kebebasan manusia.

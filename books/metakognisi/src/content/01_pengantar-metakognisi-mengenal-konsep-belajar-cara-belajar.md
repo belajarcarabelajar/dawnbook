@@ -1,6 +1,6 @@
 ## Pengantar Metakognisi
 
-Bagian ini membahas sebuah konsep dasar dalam pembelajaran yang dinamakan metakognisi. Intinya, kemampuan ini adalah keterampilan tentang "belajar bagaimana belajar". Metakognisi tidak hanya berfokus pada materi apa yang sedang kamu pelajari. Lebih dari itu, konsep ini menyoroti cara kamu memproses, mencerna, dan mempertahankan informasi tersebut. Saat kamu mulai paham pola kerja pemikiranmu sendiri, proses belajar akan terasa jauh lebih masuk akal dan tertata.
+Bagian ini membahas sebuah konsep dasar dalam pembelajaran yang dinamakan metakognisi. Intinya, kemampuan ini adalah keterampilan tentang "belajar bagaimana belajar". Selain materi yang sedang kamu pelajari, konsep ini menyoroti cara kamu memproses, mencerna, dan mempertahankan informasi tersebut. Saat kamu mulai paham pola kerja pemikiranmu sendiri, proses belajar akan terasa jauh lebih masuk akal dan tertata.
 
 ## Membedah Metakognisi
 
@@ -35,7 +35,7 @@ Saat kamu sudah mulai terbiasa memantau cara kerja kognisimu sendiri, perlahan-l
 - Secara umum, pemahaman materi dan performa akademik akan membaik seiring berjalannya waktu.
 - Rasa cemas atau stres sebelum tes biasanya menurun karena kamu memegang kendali atas persiapan yang sudah dilakukan.
 
-Pada dasarnya, metakognisi tidak lantas mengubahmu menjadi jenius dalam semalam. Praktik ini lebih ditujukan untuk membantumu memaksimalkan kapasitas otak dan potensi belajar yang sebenarnya sudah ada sejak awal.
+Pada dasarnya, praktik ini membantumu memaksimalkan kapasitas otak dan potensi belajar yang sebenarnya sudah ada sejak awal. Jangan berharap menjadi jenius dalam semalam.
 
 ---
 

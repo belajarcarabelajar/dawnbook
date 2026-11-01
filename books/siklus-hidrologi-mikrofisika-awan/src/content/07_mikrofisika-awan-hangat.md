@@ -2,7 +2,7 @@
 
 Awan di daerah tropis, seperti di Indonesia, dapat menghasilkan hujan yang sangat lebat meskipun suhu di dalam awan tidak pernah mencapai titik beku. Bagaimana hal itu bisa terjadi? Di sinilah **Mikrofisika Awan Hangat** memegang peran utama.
 
-Pada bagian sebelumnya, kita telah membahas bagaimana tetesan air tumbuh melalui **difusi uap**. Namun, pertumbuhan melalui difusi berlangsung sangat lambat setelah tetesan mencapai ukuran tertentu (sekitar $20\ \mu\text{m}$). Untuk menjadi tetes hujan yang berukuran $1\text{–}2\text{ mm}$, diperlukan mekanisme lain yang jauh lebih cepat: proses **Tabrakan dan Penyatuan (Collision-Coalescence)**.
+Pada bagian sebelumnya, kita telah membahas bagaimana tetesan air tumbuh melalui **difusi uap**. Namun, pertumbuhan melalui difusi berlangsung sangat lambat setelah tetesan mencapai ukuran tertentu (sekitar $20\ \mu\text{m}$). Untuk menjadi tetes hujan yang berukuran $1\text{–}2\text{ mm}$, diperlukan mekanisme lain yang jauh lebih cepat, yaitu proses **Tabrakan dan Penyatuan (Collision-Coalescence)**.
 
 ### 1. Mengapa Difusi Saja Tidak Cukup?
 
@@ -50,7 +50,7 @@ $$ E_{\text{coll}} = \frac{\text{Jumlah tabrakan aktual}}{\text{Jumlah tabrakan 
 
 ### 4. Mekanisme Penyatuan (Coalescence)
 
-Peristiwa tabrakan tidak selalu berakhir dengan penyatuan. Setelah tabrakan terjadi, terdapat dua kemungkinan: **menyatu (*merge*)** atau **memantul (*bounce*)**.
+Peristiwa tabrakan tidak selalu berakhir dengan penyatuan. Setelah bertabrakan, kedua tetesan bisa **menyatu (*merge*)** atau **memantul (*bounce*)**.
 
 Faktor-faktor yang memengaruhi penyatuan meliputi:
 
@@ -75,7 +75,7 @@ Hukum Stokes dapat dipakai untuk membandingkan tetes pengumpul (radius $30\ \mu\
 | Densitas udara | $\rho_{\text{a}}$ | 1,225 kg/m³ |
 | Viskositas dinamik udara | $\eta$ | 0,000018 kg/(m·s) |
 
-Hasilnya:
+Hasil perhitungannya tampak pada tabel berikut.
 
 | Tetesan | Radius | Kecepatan terminal $V_{\text{t}}$ |
 | --- | ---: | ---: |

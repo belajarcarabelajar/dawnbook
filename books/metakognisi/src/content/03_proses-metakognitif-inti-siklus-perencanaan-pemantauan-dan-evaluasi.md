@@ -1,6 +1,6 @@
 ## Proses Metakognitif Inti
 
-Metakognisi adalah tentang "belajar bagaimana belajar" – sebuah kesadaran sekaligus kontrol atas proses kognitif kamu sendiri. Secara mendasar, metakognisi berputar pada tiga proses kunci yang bekerja secara berulang: **perencanaan**, **pemantauan**, dan **evaluasi**. Memahami siklus ini membuat proses belajar menjadi jauh lebih efektif, adaptif, serta mandiri. Di bagian ini, kita akan membongkar setiap proses tersebut dan melihat cara ketiganya saling terhubung.
+Metakognisi adalah tentang "belajar bagaimana belajar" – sebuah kesadaran sekaligus kontrol atas proses kognitif kamu sendiri. Secara mendasar, metakognisi berputar pada tiga proses kunci yang bekerja secara berulang, mulai dari **perencanaan**, **pemantauan**, sampai **evaluasi**. Memahami siklus ini membuat proses belajar menjadi jauh lebih efektif, adaptif, serta mandiri. Di bagian ini, kita akan membongkar setiap proses tersebut dan melihat cara ketiganya saling terhubung.
 
 ## 1\. Perencanaan (Planning)
 
@@ -57,7 +57,7 @@ Evaluasi metakognitif adalah proses reflektif ketika pembelajar menilai efektivi
 - **Menilai Hasil Belajar:** Membandingkan hasil nyata dengan tujuan awal. Seberapa jauh kamu sukses mengejar target tersebut?
 	- *Contoh:* "Awalnya saya ingin memahami fotosintesis dan respirasi seluler. Usai ujian, saya merasa berhasil menguasai keduanya, tapi ternyata masih agak kewalahan saat berhadapan dengan siklus Krebs."
 - **Menganalisis Kesalahan:** Memahami mengapa kesalahan terjadi. Apakah itu karena kurangnya pengetahuan, strategi yang salah, atau kurangnya konsentrasi?
-	- *Contoh:* Saat mendapati nilai yang kurang memuaskan, coba tanya pada diri sendiri: "Apakah saya betulan paham konsepnya, atau sekadar menghafal buta?"
+	- *Contoh:* Saat mendapati nilai yang kurang memuaskan, coba tanya pada diri sendiri, "Apakah saya betulan paham konsepnya, atau sekadar menghafal buta?"
 - **Merumuskan Pembelajaran untuk Masa Depan:** Memanfaatkan hasil evaluasi guna mendongkrak kualitas belajar ke depannya. Perubahan apa yang akan kamu terapkan pada sesi berikutnya?
 	- *Contoh:* "Lain kali, saya akan meluangkan lebih banyak waktu untuk latihan soal setelah memahami teori."
 
@@ -65,7 +65,7 @@ Evaluasi metakognitif adalah proses reflektif ketika pembelajar menilai efektivi
 
 ## Siklus Metakognitif yang Berulang
 
-Ketiga proses ini sebenarnya tidak berjalan searah (linear), melainkan membentuk satu siklus.
+Ketiga proses ini sebenarnya berputar sebagai satu siklus, jadi urutannya tidak searah (linear).
 
 1. **Perencanaan** mendahului tugas belajar, menetapkan tujuan dan strategi awal.
 2. Saat tugas belajar berlangsung, **Pemantauan** terus-menerus terjadi, memeriksa pemahaman dan kemajuan.

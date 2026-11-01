@@ -2,7 +2,7 @@
 
 Setiap anime yang mendunia lahir dari ribuan jam kerja orang yang namanya jarang kamu ingat setelah kredit penutup selesai bergulir. Jadi, siapa sebenarnya yang membayar sebuah judul laris?
 
-Sepanjang buku ini, manga dan anime tampil sebagai wajah Jepang di mata dunia. Bab terakhir ini menengok sisi yang jarang masuk poster promosi: upah dan jam kerja, uang publik, pesaing dari negeri tetangga, dan mesin yang belajar meniru gambar.
+Sepanjang buku ini, manga dan anime tampil sebagai wajah Jepang di mata dunia. Bab terakhir ini menengok sisi yang jarang masuk poster promosi, mulai dari upah dan jam kerja, uang publik, dan pesaing dari negeri tetangga sampai mesin yang belajar meniru gambar.
 
 ### Gaji Animator Antara yang Tertinggal
 
@@ -22,13 +22,13 @@ Lalu ada upah per jam. Median upah per jam para responden 1.111 yen, sedikit di 
 
 Keluhan semacam ini akhirnya sampai ke meja regulator. Pada 24 Desember 2025, [Komisi Perdagangan yang Adil Jepang](https://www.jftc.go.jp/en/pressreleases/yearly-2025/December/251224.html) (*Japan Fair Trade Commission*, JFTC) merilis laporan pencarian fakta tentang lingkungan transaksi para kreator di lokasi produksi film dan anime, lalu mengirimkannya kepada anggota komite produksi dan perusahaan produksi. JFTC menyatakan akan bertindak tegas atas pelanggaran Undang-Undang Antimonopoli, undang-undang transaksi usaha kecil dan menengah, serta undang-undang pekerja lepas.
 
-Anime News Network melaporkan bahwa survei di balik laporan itu mencakup 130 perusahaan dan 165 pekerja lepas, dan 52,1 persen animator tidak puas dengan bayarannya. Keluhannya terdengar biasa sekaligus menyakitkan: pembayaran yang terlambat atau dipotong, revisi yang tidak dibayar, dan kontrak yang syaratnya ditentukan sepihak. Ingat pula model komite produksi di bab 3, tempat studio animasi sering hanya menjadi anggota kecil, atau bukan anggota sama sekali.
+Anime News Network melaporkan bahwa survei di balik laporan itu mencakup 130 perusahaan dan 165 pekerja lepas, dan 52,1 persen animator tidak puas dengan bayarannya. Keluhannya terdengar biasa sekaligus menyakitkan, seperti pembayaran yang terlambat atau dipotong, revisi yang tidak dibayar, dan kontrak yang syaratnya ditentukan sepihak. Ingat pula model komite produksi di bab 3, tempat studio animasi sering hanya menjadi anggota kecil, atau tidak menjadi anggota sama sekali.
 
 ### Kas Negara dan Pesaing dari Korea
 
 Sebagian ongkosnya ditanggung pembayar pajak. Cool Japan Fund, yang kamu temui di bab 7, mencatat kerugian kumulatif 54 miliar yen pada akhir Maret 2026, dan sumber pemerintah yang dikutip Mainichi menyebut pemerintah telah memutuskan untuk membubarkannya. Dana negara ternyata tidak otomatis mengubah daya tarik budaya menjadi laba.
 
-Jepang juga tidak lagi sendirian di panggung ini. Korea mencatat ekspor konten tertinggi sepanjang sejarahnya pada 2024, 14,08 miliar dolar AS, berdasarkan data Kementerian Kebudayaan yang dikutip *Korea Herald*. Angka itu tidak bisa disandingkan langsung dengan pasar anime Jepang karena dasar hitungnya berbeda. Yang bisa dibandingkan adalah caranya: Korea punya KOCCA, dan *Yomiuri* melaporkan Jepang kini merencanakan lembaga pusat komando konten yang meniru model itu.
+Jepang juga tidak lagi sendirian di panggung ini. Korea mencatat ekspor konten tertinggi sepanjang sejarahnya pada 2024, 14,08 miliar dolar AS, berdasarkan data Kementerian Kebudayaan yang dikutip *Korea Herald*. Angka itu tidak bisa disandingkan langsung dengan pasar anime Jepang karena dasar hitungnya berbeda. Yang bisa dibandingkan adalah caranya. Korea punya KOCCA, dan *Yomiuri* melaporkan Jepang kini merencanakan lembaga pusat komando konten yang meniru model itu.
 
 ### Gaya Gambar yang Ditiru Mesin
 
@@ -38,10 +38,10 @@ Persoalan ini berakar di tempat yang sama dengan soal upah tadi. Gaya visual yan
 
 ### Penutup
 
-Menengok seluruh perjalanan buku ini, polanya cukup jelas. Daya tarik Jepang tumbuh terutama dari karya dan penggemarnya: Astro Boy di televisi, Akira dan Pokémon di Barat, subtitle buatan penggemar, manga berlisensi Elex Media di Indonesia. Dalam urusan budaya pop, negara datang belakangan dan mencoba ikut mendorong lewat duta anime, hadiah manga, dan Cool Japan, tetapi jarang menjadi sumbernya.
+Menengok seluruh perjalanan buku ini, polanya cukup jelas. Daya tarik Jepang tumbuh terutama dari karya dan penggemarnya, seperti Astro Boy di televisi, Akira dan Pokémon di Barat, subtitle buatan penggemar, dan manga berlisensi Elex Media di Indonesia. Dalam urusan budaya pop, negara datang belakangan dan mencoba ikut mendorong lewat duta anime, hadiah manga, dan Cool Japan, tetapi jarang menjadi sumbernya.
 
 Koichi Iwabuchi mengingatkan sisi lainnya. Diplomasi budaya pop Jepang, menurutnya, cenderung menjadi proyeksi satu arah tanpa dialog lintas batas yang sungguh-sungguh. Daya tarik yang hanya dipancarkan, tanpa mendengar, mudah berubah menjadi sekadar kampanye citra.
 
-Bagi negara lain, termasuk Indonesia, pelajarannya bukan menyalin Cool Japan, melainkan urutannya: karya yang baik dan komunitas penggemar yang hidup lebih dulu, baru negara mendukung dengan hati-hati. Dukungan itu baru bermakna jika ikut menjaga orang-orang yang menggambar, menulis, dan menghidupkan cerita.
+Bagi negara lain, termasuk Indonesia, pelajarannya terletak pada urutan, dan Cool Japan tidak perlu disalin begitu saja. Karya yang baik dan komunitas penggemar yang hidup datang lebih dulu, baru negara mendukung dengan hati-hati. Dukungan itu baru bermakna jika ikut menjaga orang-orang yang menggambar, menulis, dan menghidupkan cerita.
 
 Jadi, lain kali episode favoritmu selesai, jangan buru-buru menutupnya. Biarkan kredit penutup bergulir sampai nama terakhir. Di antara deretan nama itu ada animator antara yang ikut menggambar gerak yang kamu sukai, dengan bayaran yang, menurut survei JAniCA 2023, jauh di bawah rata-rata pegawai swasta Jepang.

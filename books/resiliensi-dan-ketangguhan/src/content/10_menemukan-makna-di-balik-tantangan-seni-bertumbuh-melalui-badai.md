@@ -2,7 +2,7 @@
 
 Pernahkah kamu melihat sebuah pohon besar yang batangnya meliuk-liuk tidak beraturan, tetapi akarnya menancap dalam ke tanah? Sering kali, liukan itu terbentuk karena pohon tersebut harus beradaptasi dengan angin kencang atau rintangan bebatuan saat ia tumbuh. Manusia pun demikian.
 
-Dalam bab ini, kita akan melampaui konsep "sekadar bertahan" (surviving) menuju konsep **Post-Traumatic Growth (PTG)** atau Pertumbuhan Pasca-Trauma. Kita akan mempelajari bagaimana guncangan berat dalam hidup dapat mendorong perubahan karakter, tidak sekadar dilewati.
+Dalam bab ini, kita akan melampaui konsep "sekadar bertahan" (surviving) menuju konsep **Post-Traumatic Growth (PTG)** atau Pertumbuhan Pasca-Trauma. Kita akan mempelajari bagaimana guncangan berat dalam hidup dapat mendorong perubahan karakter.
 
 ## 1. Memahami Post-Traumatic Growth (PTG)
 
@@ -24,7 +24,7 @@ Menurut penelitian Tedeschi dan Calhoun, pertumbuhan ini biasanya muncul dalam l
 
 1. **Apresiasi terhadap Hidup:** Perubahan prioritas tentang apa yang penting. Hal-hal kecil yang dulu diabaikan (seperti udara pagi atau tawa keluarga) menjadi berharga.
 2. **Hubungan dengan Orang Lain:** Merasa lebih dekat dengan orang-orang tertentu, memiliki empati yang lebih dalam bagi mereka yang menderita, dan keberanian untuk menjadi "rentan" (vulnerable).
-3. **Kekuatan Pribadi:** Munculnya kesadaran: *"Jika saya bisa melewati badai sehebat itu, saya pasti bisa melewati tantangan apa pun di depan nanti."*
+3. **Kekuatan Pribadi:** Munculnya kesadaran seperti *"Jika saya bisa melewati badai sehebat itu, saya pasti bisa melewati tantangan apa pun di depan nanti."*
 4. **Kemungkinan Baru:** Mengembangkan minat baru, mengubah jalur karier, atau mengadopsi gaya hidup yang lebih bermakna karena jalur lama sudah tidak relevan lagi.
 5. **Perubahan Spiritual & Eksistensial:** Pemahaman yang lebih dalam tentang makna hidup, sering kali melibatkan pertanyaan-pertanyaan mendasar tentang eksistensi.
 
@@ -50,7 +50,7 @@ flowchart LR
 
 ## 4. Logoterapi Viktor Frankl
 
-Viktor Frankl, seorang psikiater dan penyintas kamp konsentrasi Nazi, dalam bukunya *Man’s Search for Meaning*, merumuskan bahwa motivasi utama manusia adalah **pencarian makna**, bukan kesenangan.
+Viktor Frankl, seorang psikiater dan penyintas kamp konsentrasi Nazi, dalam bukunya *Man’s Search for Meaning*, merumuskan bahwa motivasi utama manusia adalah **pencarian makna**.
 
 Ia menggunakan konsep matematika sederhana untuk menjelaskan keputusasaan:
 
@@ -72,7 +72,7 @@ Dalam tradisi Jepang, ada seni bernama **Kintsugi**. Ketika sebuah keramik pecah
 
 Hasilnya? Keramik tersebut secara estetika dipandang lebih indah daripada saat ia masih utuh. Retakan yang tadinya dianggap "cacat" justru menjadi garis-garis emas yang menandai sejarah keramik tersebut.
 
-**Pesan moralnya:** Lukamu bukan untuk ditutupi. Luka tersebut adalah bagian dari sejarah pertumbuhanmu yang membuatmu menjadi pribadi yang unik.
+**Pesan moralnya:** Lukamu adalah bagian dari sejarah pertumbuhanmu yang membuatmu menjadi pribadi yang unik, jadi tidak perlu ditutupi.
 
 ## 6. Mengubah Narasi
 
@@ -102,7 +102,7 @@ Alih-alih melihat tantangan sebagai titik henti, lihatlah sebagai titik balik (i
 
 ## 7. Memilih Respons terhadap Penderitaan
 
-Menemukan makna di balik tantangan bukan berarti kita mensyukuri kejadian buruk yang terjadi. Kita tidak harus menyukai penderitaan tersebut. Namun, kita bisa menentukan **apa yang akan kita lakukan dengan penderitaan itu.**
+Untuk menemukan makna di balik tantangan, kita tidak harus mensyukuri kejadian buruk atau menyukai penderitaan. Kita bisa menentukan **apa yang akan kita lakukan dengan penderitaan itu.**
 
 Dalam *Man’s Search for Meaning*, Frankl berpendapat bahwa, dalam arti tertentu, penderitaan berhenti menjadi penderitaan begitu ia menemukan maknanya.
 

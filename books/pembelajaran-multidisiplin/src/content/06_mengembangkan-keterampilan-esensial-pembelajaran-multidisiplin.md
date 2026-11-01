@@ -1,6 +1,6 @@
 ## Mengembangkan Keterampilan Esensial untuk Pembelajaran Multidisiplin
 
-Pembelajaran multidisiplin tidak cukup hanya dengan menguasai beberapa bidang ilmu. Proses ini membutuhkan seperangkat keterampilan dasar yang memungkinkan seseorang untuk menavigasi, berkolaborasi, dan berinovasi di persimpangan berbagai disiplin secara efektif. Keterampilan-keterampilan ini menjadi fondasi penting dalam memahami kerumitan dunia nyata serta merumuskan solusi yang utuh. Bagian ini membahas keterampilan utama yang harus dikembangkan untuk unggul di lingkungan pembelajaran multidisiplin.
+Pembelajaran multidisiplin membutuhkan seperangkat keterampilan dasar di samping penguasaan beberapa bidang ilmu. Keterampilan itu memungkinkan seseorang untuk menavigasi, berkolaborasi, dan berinovasi di persimpangan berbagai disiplin secara efektif. Keterampilan-keterampilan ini menjadi fondasi penting dalam memahami kerumitan dunia nyata serta merumuskan solusi yang utuh. Bagian ini membahas keterampilan utama yang harus dikembangkan untuk unggul di lingkungan pembelajaran multidisiplin.
 
 ### 1. Pengembangan Pemikiran Kritis
 
@@ -16,17 +16,17 @@ Untuk mengasah pemikiran kritis, ada beberapa langkah praktis yang bisa kamu ter
 - Secara aktif cari dan pelajari sudut pandang dari bidang atau orang lain, terutama yang berseberangan dengan pemikiranmu sendiri.
 - **Latih metakognisi (*metacognition*):** Luangkan waktu untuk merenungkan kembali proses berpikirmu. Bagaimana kamu bisa sampai pada kesimpulan tersebut? Adakah bias pribadi yang memengaruhi keputusanmu?
 
-> **Penting:** Pemikiran kritis tidak bertujuan membuat kamu skeptis terhadap segala informasi. Keterampilan ini lebih kepada melatih diri agar lebih jeli dan berhati-hati dalam menilai kebenaran serta kegunaan suatu informasi.
+> **Penting:** Pemikiran kritis melatih diri agar lebih jeli dan berhati-hati dalam menilai kebenaran serta kegunaan suatu informasi, tanpa harus menjadi skeptis terhadap segala informasi.
 
 ### 2. Kemampuan Komunikasi yang Efektif Lintas Disiplin
 
 Komunikasi yang efektif adalah jembatan yang menghubungkan berbagai disiplin ilmu. Dalam lingkungan multidisiplin, kamu akan berinteraksi dengan orang-orang yang memiliki latar belakang, istilah teknis, dan cara berpikir yang berbeda. Kemampuan menyampaikan gagasan dengan jelas dan memahami sudut pandang orang lain menjadi penting.
 
-Menjalin komunikasi antardisiplin tentu bukan tanpa hambatan. Beberapa tantangan yang sering muncul antara lain:
+Menjalin komunikasi antardisiplin tentu ada hambatannya. Beberapa tantangan yang sering muncul antara lain:
 
 1. **Tembok jargon:** Setiap bidang studi memiliki istilah teknisnya sendiri yang kerap membingungkan orang luar.
 2. Perbedaan kerangka berpikir membuat suatu konsep yang sama bisa diartikan berbeda atau memicu dampak yang bertolak belakang di bidang lain.
-3. Gaya penyampaian yang kontras: ada disiplin yang kaku dan berbasis data teknis, sementara yang lain lebih mengutamakan narasi atau konsep abstrak.
+3. Gaya penyampaian bisa sangat kontras. Ada disiplin yang kaku dan berbasis data teknis, sementara yang lain lebih mengutamakan narasi atau konsep abstrak.
 
 Agar pesanmu tersampaikan dengan baik lintas disiplin, cobalah beberapa strategi berikut:
 
@@ -38,7 +38,7 @@ Agar pesanmu tersampaikan dengan baik lintas disiplin, cobalah beberapa strategi
 
 ### 3. Empati terhadap Perspektif Berbeda
 
-Empati adalah kemampuan untuk memahami atau merasakan apa yang dialami orang lain dari sudut pandang mereka sendiri, dengan kata lain, menempatkan diri pada posisi orang lain. Dalam pembelajaran multidisiplin, empati melampaui perasaan emosional. Sikap ini melibatkan penghargaan intelektual terhadap cara disiplin ilmu lain melihat dan memecahkan masalah.
+Empati adalah kemampuan untuk memahami atau merasakan apa yang dialami orang lain dari sudut pandang mereka sendiri, dengan kata lain, menempatkan diri pada posisi orang lain. Dalam pembelajaran multidisiplin, empati juga melibatkan penghargaan intelektual terhadap cara disiplin ilmu lain melihat dan memecahkan masalah.
 
 Mengapa empati penting dalam pembelajaran multidisiplin?
 

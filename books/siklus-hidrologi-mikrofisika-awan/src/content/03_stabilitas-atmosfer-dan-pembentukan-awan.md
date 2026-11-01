@@ -129,7 +129,7 @@ Salah satu contoh penerapan nyata dari stabilitas atmosfer dan perubahan fase ua
 ### Cara Mengingat Stabilitas Atmosfer
 
 - **Visual (Grafis):** Bayangkan $\text{ELR}$ sebagai "peta jalan" suhu lingkungan, sedangkan $\text{DALR}/\text{SALR}$ sebagai "laju pendinginan" kendaraan (paket udara). Apabila paket udara tetap lebih hangat ketimbang suhu lingkungan, paket udara tersebut akan terus membumbung tinggi.
-- **Auditori (Narasi):** Mengingat alur utama pembentukan awan: *"Pengangkatan - Ekspansi - Pendinginan - Kejenuhan - Kondensasi Awan."*
-- **Kinestetik (Aksi):** Meniup punggung tangan dengan mulut terbuka lebar akan terasa hangat, sedangkan meniup dengan bibir mencucut kecil akan terasa dingin. Ini hanya analogi kasar bagi pendinginan adiabatik, bukan peragaan langsungnya.
+- **Auditori (Narasi):** Ucapkan alur utama pembentukan awan sebagai satu rangkaian, *"Pengangkatan - Ekspansi - Pendinginan - Kejenuhan - Kondensasi Awan."*
+- **Kinestetik (Aksi):** Meniup punggung tangan dengan mulut terbuka lebar akan terasa hangat, sedangkan meniup dengan bibir mencucut kecil akan terasa dingin. Peragaan ini hanya analogi kasar bagi pendinginan adiabatik.
 
 > **Pernyataan Penutup:** Stabilitas atmosfer merupakan pengatur utama dinamika cuaca. Parameter ini menentukan apakah energi laten di atmosfer akan tetap tersimpan atau dilepaskan dalam jumlah besar dalam bentuk badai konvektif. Pemahaman menyeluruh mengenai profil suhu vertikal menjadi fondasi utama dalam analisis dan prakiraan cuaca.

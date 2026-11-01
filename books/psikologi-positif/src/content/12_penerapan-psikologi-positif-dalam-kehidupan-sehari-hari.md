@@ -1,8 +1,8 @@
 ## Penerapan Psikologi Positif dalam Kehidupan Sehari-hari
 
-Dari model PERMA hingga kekuatan rasa syukur, kamu telah mempelajari berbagai pilar teori dalam Psikologi Positif. Namun, kesejahteraan tumbuh dari penerapan nyata, bukan dari pengetahuan saja.
+Dari model PERMA hingga kekuatan rasa syukur, kamu telah mempelajari berbagai pilar teori dalam Psikologi Positif. Kesejahteraan baru tumbuh saat pengetahuan itu kamu terapkan.
 
-Bagian ini dirancang untuk mengonversi teori menjadi tindakan nyata. Kita akan menelusuri bagaimana prinsip-prinsip ini bekerja di tiga ranah utama kehidupan: tempat kerja, dunia pendidikan, dan kesehatan fisik.
+Bagian ini dirancang untuk mengonversi teori menjadi tindakan nyata. Kita akan menelusuri bagaimana prinsip-prinsip ini bekerja di tiga ranah utama kehidupan, mulai dari tempat kerja, dunia pendidikan, sampai kesehatan fisik.
 
 ## 1. Psikologi Positif di Tempat Kerja
 
@@ -10,11 +10,11 @@ Banyak orang menganggap pekerjaan sebagai beban atau sarana mencari nafkah belak
 
 ### Job Crafting
 
-Bayangkan pekerjaanmu seperti tanah liat. Kamu bukan penerima bentuk yang pasif, tetapi pembuat bentuk itu sendiri. *Job crafting* adalah upaya proaktif menyesuaikan tugas dan hubungan kerja agar selaras dengan kekuatan karaktermu.
+Bayangkan pekerjaanmu seperti tanah liat. Kamulah yang membentuknya. *Job crafting* adalah upaya proaktif menyesuaikan tugas dan hubungan kerja agar selaras dengan kekuatan karaktermu.
 
-- **Task Crafting (Menyelaraskan Tugas):** Mengubah tanggung jawab harian. Contoh: Seorang staf IT yang gemar mengajar mulai membuat panduan video tutorial singkat untuk membantu rekan kerjanya (memanfaatkan kekuatan *Kindness* dan *Leadership*).
-- **Relational Crafting (Menyelaraskan Interaksi):** Menyesuaikan kualitas hubungan sosial di kantor. Contoh: Menginisiasi makan siang bersama untuk membangun kedekatan emosional yang lebih sehat.
-- **Cognitive Crafting (Menyelaraskan Sudut Pandang):** Mengubah cara memaknai pekerjaan. Contoh: Seorang petugas kebersihan rumah sakit melihat dirinya sebagai bagian vital dari kesembuhan pasien lewat sterilitas ruangan yang ia jaga, bukan cuma petugas penyapu lantai.
+- **Task Crafting (Menyelaraskan Tugas):** Mengubah tanggung jawab harian. Misalnya, seorang staf IT yang gemar mengajar mulai membuat panduan video tutorial singkat untuk membantu rekan kerjanya (memanfaatkan kekuatan *Kindness* dan *Leadership*).
+- **Relational Crafting (Menyelaraskan Interaksi):** Menyesuaikan kualitas hubungan sosial di kantor, contohnya dengan menginisiasi makan siang bersama untuk membangun kedekatan emosional yang lebih sehat.
+- **Cognitive Crafting (Menyelaraskan Sudut Pandang):** Mengubah cara memaknai pekerjaan. Seorang petugas kebersihan rumah sakit, misalnya, melihat dirinya sebagai bagian vital dari kesembuhan pasien lewat sterilitas ruangan yang ia jaga.
 
 ### Budaya Positive Feedback
 
@@ -33,11 +33,11 @@ Alih-alih bertanya, "Apa yang salah dengan nilai matematikamu?", pendidik yang m
 **Aplikasi Praktis di Kelas:**
 
 1. **Pohon Kekuatan:** Siswa menempelkan daun kertas berisi apresiasi kekuatan yang mereka amati dari teman sekelasnya. Hal ini membantu menumbuhkan rasa saling menghargai secara natural.
-2. **Penerapan Growth Mindset:** Memberikan umpan balik terfokus pada usaha dan proses kerja, bukan hanya memuji hasil akhir.
+2. **Penerapan Growth Mindset:** Memberikan umpan balik yang menyoroti usaha dan proses kerja di samping hasil akhir.
    - Alih-alih berkata: "Kamu pintar sekali."
    - Sebaiknya katakan: "Ibu melihat kamu mencoba berbagai strategi untuk memecahkan soal sulit ini. Usaha kerasmu membuahkan hasil!"
 
-*Sebagai pendidik atau orang tua, bayangkan jika rapor anak tidak hanya berisi angka kognitif, tetapi juga laporan perkembangan keberanian, kejujuran, serta rasa syukurnya.*
+*Sebagai pendidik atau orang tua, bayangkan jika rapor anak berisi angka kognitif sekaligus laporan perkembangan keberanian, kejujuran, serta rasa syukurnya.*
 
 ## 3. Psikologi Positif dan Kesehatan Fisik
 
@@ -54,11 +54,11 @@ Individu yang optimis cenderung memiliki kadar hormon stres atau kortisol ($\tex
 ### Praktik Kesehatan Berbasis Psikologi Positif
 
 - **Body Gratitude:** Menghargai apa yang mampu dilakukan oleh tubuhmu saat ini, seperti paru-paru yang membantumu bernapas lega, alih-alih terus mencemaskan kekurangan fisik.
-- **Mindful Movement:** Melakukan aktivitas fisik atau olahraga sebagai bentuk perayaan atas kekuatan tubuh untuk bergerak, bukan sebagai "hukuman" atas makanan yang kamu konsumsi.
+- **Mindful Movement:** Melakukan aktivitas fisik atau olahraga sebagai bentuk perayaan atas kekuatan tubuh untuk bergerak. Olahraga tidak perlu menjadi "hukuman" atas makanan yang kamu konsumsi.
 
 ## Strategi Integrasi Harian
 
-Untuk membiasakan prinsip-prinsip ini dalam keseharianmu, kamu bisa menerapkan "Protokol Kesejahteraan" berikut:
+Untuk membiasakan prinsip-prinsip ini dalam keseharianmu, kamu bisa menerapkan "Protokol Kesejahteraan" berikut.
 
 ### A. Set Intentions (Kognitif)
 
@@ -91,10 +91,10 @@ Di masa krisis kesehatan global, sebuah rumah sakit merintis program **"Positivi
 
 ## Kebahagiaan sebagai Keterampilan
 
-Psikologi positif tidak mengajak kita menutup mata dari kesulitan hidup, tetapi melatih kapasitas diri agar tetap bertumbuh di tengah masa sulit. Layaknya melatih kekuatan otot, kesejahteraan mental adalah sebuah keterampilan yang memerlukan latihan konsisten setiap hari.
+Psikologi positif melatih kapasitas diri agar tetap bertumbuh di tengah masa sulit, dengan mata yang terbuka pada kesulitan hidup. Layaknya melatih kekuatan otot, kesejahteraan mental adalah sebuah keterampilan yang memerlukan latihan konsisten setiap hari.
 
 **Catatan Penting:**
 
-> Kesejahteraan jangka panjang tidak diperoleh dari satu lompatan besar secara instan, tetapi dipupuk dari akumulasi "mikro-momen" positif yang kita bangun secara sadar dalam pekerjaan, proses belajar, hingga cara kita merawat tubuh sendiri.
+> Kesejahteraan jangka panjang dipupuk sedikit demi sedikit dari akumulasi "mikro-momen" positif yang kita bangun secara sadar dalam pekerjaan, proses belajar, hingga cara kita merawat tubuh sendiri.
 
-*Coba renungkan: Di antara berbagai langkah praktis di atas, tindakan kecil apa yang akan kamu lakukan dalam 24 jam ke depan untuk meningkatkan kesejahteraan dirimu atau orang-orang di sekitarmu?*
+*Di antara berbagai langkah praktis di atas, tindakan kecil apa yang akan kamu lakukan dalam 24 jam ke depan untuk meningkatkan kesejahteraan dirimu atau orang-orang di sekitarmu?*

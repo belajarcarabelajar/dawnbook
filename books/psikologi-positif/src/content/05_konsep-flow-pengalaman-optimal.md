@@ -11,13 +11,13 @@ Konsep ini dipelopori oleh **Mihaly Csikszentmihalyi** (diucapkan: *me-high chic
 *Flow* berbeda dengan konsentrasi biasa. Kondisi ini mencerminkan keteraturan kognitif yang tinggi. Csikszentmihalyi mengidentifikasi delapan elemen utama yang menandai kondisi *flow*:
 
 1. **Konsentrasi penuh**: Perhatianmu terserap sepenuhnya oleh tugas di hadapanmu, layaknya sorotan lampu yang tajam dan terarah.
-2. **Menyatunya tindakan dan kesadaran**: Hilangnya jarak antara pelaku dan aktivitas. Kamu tidak lagi menganalisis setiap gerakan, melainkan mengalir bersama apa yang sedang dikerjakan.
+2. **Menyatunya tindakan dan kesadaran**: Hilangnya jarak antara pelaku dan aktivitas. Kamu mengalir bersama apa yang sedang dikerjakan tanpa menganalisis setiap gerakan.
 3. **Lumpuhnya kritik internal (*loss of self-consciousness*)**: Suara skeptis di dalam kepala yang biasanya meragukan kemampuanmu menjadi diam.
 4. **Kendali penuh**: Keyakinan kuat bahwa kamu mampu mengarahkan tindakan serta menentukan hasil akhir tanpa rasa takut gagal.
 5. **Waktu yang melentur**: Distorsi waktu terjadi begitu saja, beberapa jam berlalu layaknya menit, atau sebaliknya, detik-detik penting terasa melambat agar kamu bisa merespons dengan presisi.
 6. **Umpan balik langsung**: Evaluasi berjalan secara instan; kamu langsung tahu apakah langkah yang diambil sudah tepat atau perlu disesuaikan saat itu juga.
 7. **Kejelasan tujuan**: Arah tindakan berikutnya sudah terpetakan dengan terang, meminimalkan keraguan dalam melangkah.
-8. **Sifat autotelik**: Aktivitas ini bernilai bagi dirimu sendiri. Kamu melakukannya bukan demi imbalan eksternal seperti uang atau pujian, melainkan karena prosesnya sendiri memberikan kepuasan mendalam.
+8. **Sifat autotelik**: Aktivitas ini bernilai bagi dirimu sendiri. Kamu melakukannya karena prosesnya sendiri memberikan kepuasan mendalam, tanpa menunggu imbalan eksternal seperti uang atau pujian.
 
 > **Intisari Memorable:** *Flow* tercipta saat keahlianmu sejajar dengan tingkat kesulitan tugas yang dihadapi.
 
@@ -25,7 +25,7 @@ Konsep ini dipelopori oleh **Mihaly Csikszentmihalyi** (diucapkan: *me-high chic
 
 Mengapa kita tidak selalu berada dalam kondisi *flow*? Csikszentmihalyi menjelaskan hal ini melalui hubungan dinamis antara **Tantangan** (*Challenge*) dan **Tingkat Keterampilan** (*Skill*).
 
-Mari kita petakan hubungan ini dalam model sederhana:
+Mari kita petakan hubungan ini dalam model sederhana.
 
 Misalkan $C$ adalah *Challenge* (Tantangan) dan $S$ adalah *Skill* (Keterampilan).
 
@@ -38,10 +38,10 @@ Misalkan $C$ adalah *Challenge* (Tantangan) dan $S$ adalah *Skill* (Keterampilan
 
 Pembagian empat kondisi berikut mengikuti model kuadran (*quadrant model*) yang dipopulerkan Csikszentmihalyi bersama rekan-rekannya, misalnya Massimini dan Carli (1988), seperti diulas Abuhamdeh (2020).
 
-- **Apathy (Apati):** Tantangan rendah dan keterampilan rendah (contoh: menonton televisi tanpa minat).
-- **Relaxation (Relaksasi):** Tantangan rendah namun keterampilan tinggi (contoh: menyelesaikan pekerjaan administratif rutin yang sangat familier).
-- **Anxiety (Kecemasan):** Tantangan tinggi sementara keterampilan rendah (contoh: ditunjuk secara mendadak untuk mempresentasikan proyek rumit yang belum dipahami).
-- **Flow:** Tantangan tinggi yang diimbangi dengan keterampilan yang mumpuni (contoh: seorang atlet profesional berlaga di pertandingan final).
+- **Apathy (Apati):** Tantangan rendah dan keterampilan rendah (misalnya menonton televisi tanpa minat).
+- **Relaxation (Relaksasi):** Tantangan rendah namun keterampilan tinggi (seperti saat menyelesaikan pekerjaan administratif rutin yang sangat familier).
+- **Anxiety (Kecemasan):** Tantangan tinggi sementara keterampilan rendah (misalnya ditunjuk secara mendadak untuk mempresentasikan proyek rumit yang belum dipahami).
+- **Flow:** Tantangan tinggi yang diimbangi dengan keterampilan yang mumpuni (seperti seorang atlet profesional berlaga di pertandingan final).
 
 Keempat kondisi itu bisa kamu bayangkan sebagai empat kuadran pada bidang tantangan dan keterampilan berikut.
 
@@ -71,7 +71,7 @@ Saat *flow*, bagian otak yang berfungsi mengkritik diri sendiri ini beristirahat
 
 ### 4. Cara Mencapai Pengalaman Optimal
 
-*Flow* tidak hadir karena faktor kebetulan; kita dapat mempersiapkan kondisi lingkungan dan psikologis untuk mencapainya.
+Kondisi lingkungan dan psikologis untuk mencapai *flow* dapat kita persiapkan sendiri.
 
 1. **Pilih aktivitas yang bermakna**: Memulai dari hal yang kamu kuasai atau benar-benar kamu sukai akan mempercepat transisi menuju kondisi fokus mendalam.
 2. **Tentukan sasaran yang spesifik**: Alih-alih menetapkan target yang abstrak, pilih tujuan konkret untuk satu sesi (misalnya, menulis tiga paragraf pertama atau menyelesaikan satu fungsi kode).
@@ -82,7 +82,7 @@ Saat *flow*, bagian otak yang berfungsi mengkritik diri sendiri ini beristirahat
 
 Di industri rekayasa perangkat lunak, kondisi *flow* sering kali diidentikkan dengan istilah *deep work* atau *in the zone*. Para profesional di bidang teknologi kerap merancang pola kerja mereka secara khusus demi masuk ke zona ini.
 
-Sebagai gambaran, bayangkan seorang *backend engineer* ditantang untuk merancang algoritma enkripsi data yang rumit. Ia memakai pengujian otomatis (*automated testing*) yang memeriksa dua syarat sekaligus: hasil enkripsinya harus aman, dan prosesnya harus selesai dalam waktu singkat, misalnya kurang dari 10 milidetik (angka ilustrasi). Begitu salah satu syarat tidak terpenuhi, ia langsung tahu letak kesalahannya. Umpan balik instan inilah yang menjaganya tetap berada di saluran *flow* tanpa terdistraksi oleh waktu tunggu yang lama.
+Sebagai gambaran, bayangkan seorang *backend engineer* ditantang untuk merancang algoritma enkripsi data yang rumit. Ia memakai pengujian otomatis (*automated testing*) yang memeriksa dua syarat sekaligus. Hasil enkripsinya harus aman, dan prosesnya harus selesai dalam waktu singkat, misalnya kurang dari 10 milidetik (angka ilustrasi). Begitu salah satu syarat tidak terpenuhi, ia langsung tahu letak kesalahannya. Umpan balik instan inilah yang menjaganya tetap berada di saluran *flow* tanpa terdistraksi oleh waktu tunggu yang lama.
 
 **Pola Kerja Pendukung di Tempat Kerja:**
 
@@ -94,10 +94,10 @@ Sebagai gambaran, bayangkan seorang *backend engineer* ditantang untuk merancang
 Mengapa *flow* layak diupayakan? Mengembangkan kebiasaan untuk masuk ke dalam kondisi *flow* memberikan kontribusi yang nyata bagi kualitas hidup kita sehari-hari.
 
 - **Lonjakan produktivitas**: Berada dalam kondisi *flow* dapat meningkatkan efisiensi kerja secara signifikan.
-- **Sumber kebahagiaan**: Temuan Csikszentmihalyi menunjukkan bahwa kepuasan hidup tertinggi tidak datang dari relaksasi pasif, melainkan dari keterlibatan aktif dalam tantangan yang menuntut fokus penuh.
+- **Sumber kebahagiaan**: Temuan Csikszentmihalyi menunjukkan bahwa kepuasan hidup tertinggi datang dari keterlibatan aktif dalam tantangan yang menuntut fokus penuh. Relaksasi pasif tidak memberikan kepuasan setinggi itu.
 - **Akselerasi kapasitas diri**: Karena kamu terus beroperasi di batas kemampuan optimal, secara alami kamu akan terdorong untuk mempelajari keahlian baru demi mengimbangi tantangan yang kian berkembang.
 
-Perlu diingat bahwa *flow* berbeda dengan memaksakan diri bekerja hingga kelelahan ekstrem (*burnout*). *Flow* ditandai oleh keterlibatan yang menyenangkan dan menyegarkan. Apabila selesai melakukan suatu kegiatan, kamu merasa sangat lelah secara emosional atau mental, kemungkinan besar kamu sedang mengalami kecemasan atau stres, bukan berada dalam kondisi *flow*.
+Perlu diingat bahwa *flow* berbeda dengan memaksakan diri bekerja hingga kelelahan ekstrem (*burnout*). *Flow* ditandai oleh keterlibatan yang menyenangkan dan menyegarkan. Apabila selesai melakukan suatu kegiatan, kamu merasa sangat lelah secara emosional atau mental, kemungkinan besar yang kamu alami adalah kecemasan atau stres.
 
 ### Latihan Refleksi
 

@@ -8,17 +8,17 @@ Kalau kamu pernah mengalami hal seperti ini, kamu tidak sendirian. Dan kalau kam
 
 Kita hidup di masa dengan akses informasi paling melimpah sepanjang sejarah manusia. Jawaban dari hampir semua pertanyaan ada dalam genggaman, tinggal ketik beberapa kata. Ensiklopedia, jurnal, arsip berita, banyak di antaranya bisa dibuka gratis dari kasur. Secara teori, ini seharusnya jadi zaman paling cerdas.
 
-Tapi kenyataannya, justru di zaman inilah kabar bohong menyebar dengan mudah. Semakin banyak informasi tersedia, semakin gampang pula kita tersesat di dalamnya. Inilah paradoks yang jadi titik awal buku ini: **melimpahnya akses tidak otomatis membuat kita lebih akurat**. Kadang malah sebaliknya.
+Tapi kenyataannya, justru di zaman inilah kabar bohong menyebar dengan mudah. Semakin banyak informasi tersedia, semakin gampang pula kita tersesat di dalamnya. Paradoks inilah titik awal buku ini. **Melimpahnya akses tidak otomatis membuat kita lebih akurat**, dan kadang malah sebaliknya.
 
 ### Kabar bohong ternyata lebih "menular"
 
 Ada penelitian yang menguji hal ini. Sekelompok peneliti dari MIT (Vosoughi, Roy, dan Aral) mempelajari jutaan cuitan di sebuah platform media sosial dan membandingkan bagaimana berita benar dan berita bohong menyebar. Hasilnya dimuat di jurnal *Science* pada 2018.
 
-Temuan utamanya: kabar bohong menyebar lebih cepat, lebih jauh, dan lebih dalam dibanding kabar yang benar. Berita palsu menjangkau lebih banyak orang dan berpindah tangan lebih sering. Hal ini bukan karena robot atau akun otomatis. Manusialah yang lebih rajin menyebarkan yang bohong. Salah satu dugaan penelitinya: kabar bohong sering terasa lebih baru, lebih mengejutkan, dan lebih memancing emosi, sehingga kita terdorong untuk ikut membagikannya.
+Mereka menemukan kabar bohong menyebar lebih cepat, lebih jauh, dan lebih dalam dibanding kabar yang benar. Berita palsu menjangkau lebih banyak orang dan berpindah tangan lebih sering. Robot dan akun otomatis tidak menjelaskan pola ini, karena manusialah yang lebih rajin menyebarkan yang bohong. Para penelitinya menduga, salah satu sebabnya adalah kabar bohong sering terasa lebih baru, lebih mengejutkan, dan lebih memancing emosi, sehingga kita terdorong untuk ikut membagikannya.
 
 > Bayangkan kebenaran itu seperti orang yang berjalan hati-hati sambil mengecek peta, sedangkan kabar bohong seperti orang yang berlari sambil berteriak. Yang berlari dan berteriak tentu lebih dulu sampai, dan lebih banyak kepala yang menoleh, walaupun arah larinya belum tentu benar.
 
-Angka pastinya tidak perlu kamu hafal. Yang penting kamu pegang satu hal: bohong punya keunggulan alami dalam perlombaan menyebar. Ini bukan kebetulan, ini pola.
+Angka pastinya tidak perlu kamu hafal. Cukup ingat bahwa bohong punya keunggulan alami dalam perlombaan menyebar. Keunggulan itu sebuah pola yang berulang.
 
 ### Ini bukan soal pintar atau bodoh
 
@@ -29,7 +29,7 @@ Percaya pada kabar bohong itu terjadi karena dua hal bertemu:
 1. **Cara kerja otak kita.** Otak manusia dirancang untuk cepat mengambil keputusan, hemat energi, dan mencari pola. Fitur-fitur yang dulu membantu nenek moyang kita bertahan hidup, di dunia digital malah bisa menjebak.
 2. **Bentuk lingkungan digital.** Media sosial dan aplikasi pesan dirancang untuk membuat kita betah, terus menggulir, dan terus membagikan. Rancangan ini kebetulan cocok untuk menyuburkan kabar bohong.
 
-Jadi ketika kamu terkecoh, itu bukan tanda kamu bodoh. Itu tanda kamu manusia normal yang otaknya sedang bertemu dengan lingkungan yang memang licin.
+Jadi ketika kamu terkecoh, itu tanda kamu manusia normal yang otaknya sedang bertemu dengan lingkungan yang memang licin.
 
 ### Tiga kata yang sering tertukar
 
@@ -47,21 +47,21 @@ Buku ini tidak akan menceramahi kamu supaya "lebih pintar". Sebaliknya, buku ini
 
 Perjalanannya kira-kira begini:
 
-- Kita mulai dari **cara kerja otak**: kenapa ada mode berpikir cepat (Sistem 1) dan mode berpikir lambat (Sistem 2), dan kenapa yang cepat sering menang.
-- Lalu masuk ke **bias kognitif**: jalan pintas berpikir yang bikin kita melihat apa yang ingin kita lihat.
-- Kita lihat **efek pengulangan**: kenapa sesuatu yang sering kita dengar terasa makin benar, walau tidak ada bukti baru.
-- Kita bahas peran **emosi dan identitas**: kenapa kabar yang bikin marah atau yang sesuai keyakinan kelompok kita jadi paling susah ditolak.
-- Kita bongkar peran **algoritma**: bagaimana lini masa yang kamu lihat sebenarnya sudah disaring dan dibentuk.
-- Terakhir, kita bangun **cara bertahan**: kebiasaan dan alat praktis untuk memeriksa informasi tanpa harus jadi paranoid.
+- Kita mulai dari **cara kerja otak**, tentang kenapa ada mode berpikir cepat (Sistem 1) dan mode berpikir lambat (Sistem 2), dan kenapa yang cepat sering menang.
+- Lalu masuk ke **bias kognitif**, jalan pintas berpikir yang bikin kita melihat apa yang ingin kita lihat.
+- Kita lihat **efek pengulangan** yang membuat sesuatu yang sering kita dengar terasa makin benar, walau tidak ada bukti baru.
+- Kita bahas peran **emosi dan identitas**, yang menjelaskan kenapa kabar yang bikin marah atau yang sesuai keyakinan kelompok kita jadi paling susah ditolak.
+- Kita bongkar peran **algoritma** dan melihat bagaimana lini masa yang kamu lihat sebenarnya sudah disaring dan dibentuk.
+- Terakhir, kita bangun **cara bertahan** lewat kebiasaan dan alat praktis untuk memeriksa informasi tanpa harus jadi paranoid.
 
-Tujuannya satu: membangun **ketahanan informasi**. Bukan supaya kamu curiga pada semua hal, tapi supaya kamu punya rem yang bisa diinjak saat sebuah kabar terlalu cepat memancing reaksi. Anggap saja ini semacam latihan otot, bukan untuk menang berdebat, tapi untuk lebih jarang tertipu.
+Semua itu mengarah ke satu tujuan, yaitu membangun **ketahanan informasi**. Kamu tidak perlu mencurigai semua hal. Cukup punya rem yang bisa diinjak saat sebuah kabar terlalu cepat memancing reaksi. Anggap saja ini semacam latihan otot agar kamu lebih jarang tertipu.
 
 ## Ringkasan
 
-- Kabar bohong menyebar lebih cepat, lebih jauh, dan lebih dalam dibanding kabar benar, dan yang menyebarkan sering kali manusia biasa, bukan robot.
+- Kabar bohong menyebar lebih cepat, lebih jauh, dan lebih dalam dibanding kabar benar, dan yang menyebarkannya sering kali manusia biasa.
 - Melimpahnya akses informasi tidak otomatis membuat kita lebih akurat; ini paradoks era digital.
-- Percaya hoaks bukan soal pintar atau bodoh, tapi soal cara kerja otak yang bertemu dengan lingkungan digital yang licin.
+- Percaya hoaks bisa menimpa orang pintar maupun tidak, karena sumbernya cara kerja otak yang bertemu dengan lingkungan digital yang licin.
 - Hoaks, misinformasi, dan disinformasi berbeda terutama pada niat penyebarnya.
-- Target buku ini adalah membangun ketahanan informasi lewat pemahaman, bukan lewat rasa curiga berlebihan.
+- Target buku ini adalah membangun ketahanan informasi lewat pemahaman, tanpa harus memelihara rasa curiga berlebihan.
 
-Sebelum bicara soal otak dan bias, kita perlu mengenal dulu "musuhnya" secara utuh, dan itu yang akan kita lakukan di bab 2: Anatomi Hoaks.
+Sebelum bicara soal otak dan bias, kita perlu mengenal dulu "musuhnya" secara utuh, dan itu yang akan kita lakukan di bab 2 lewat anatomi hoaks.

@@ -8,7 +8,7 @@ Tentu tidak. Kemungkinan besar, kamu akan menawarkan pelukan, secangkir kopi, da
 
 ## Memahami Tiga Pilar Self-Compassion
 
-Menurut Dr. Kristin Neff, pionir dalam penelitian ini, self-compassion lebih dari sekadar "menghibur diri". Konsep ini terdiri dari tiga komponen inti yang saling berkaitan:
+Menurut Dr. Kristin Neff, pionir dalam penelitian ini, self-compassion terdiri dari tiga komponen inti yang saling berkaitan:
 
 ### 1\. Self-Kindness (Kebaikan Diri) vs. Self-Judgment
 
@@ -20,7 +20,7 @@ Alih-alih menghakimi diri sendiri dengan keras ketika melakukan kesalahan, kita 
 
 Saat kita gagal, sering kali muncul perasaan seolah-olah hanya kita satu-satunya orang yang menderita atau gagal. *Common humanity* berarti menyadari bahwa penderitaan dan kegagalan adalah pengalaman kolektif manusia.
 
-> "Penderitaan bukan tanda bahwa ada yang salah dengan dirimu, tetapi bukti bahwa kamu adalah manusia."
+> "Penderitaan adalah bukti bahwa kamu manusia. Tidak ada yang salah dengan dirimu."
 
 ### 3\. Mindfulness (Kesadaran Penuh) vs. Over-identification
 
@@ -56,7 +56,7 @@ Ini adalah teknik reflektif untuk melatih otot self-compassion-mu.
 
 **Langkah-langkah:**
 
-1. Pikirkan satu hal tentang dirimu yang sering membuatmu merasa tidak aman atau ingin kamu kritik (misalnya: berat badan, kegagalan karier, atau kesalahan dalam hubungan).
+1. Pikirkan satu hal tentang dirimu yang sering membuatmu merasa tidak aman atau ingin kamu kritik (misalnya berat badan, kegagalan karier, atau kesalahan dalam hubungan).
 2. Tuliskan perasaanmu mengenai hal tersebut di atas kertas.
 3. Sekarang, bayangkan seorang sahabat yang sangat bijaksana, mencintai, dan memahami dirimu sepenuhnya. Sahabat ini tahu segala kelemahanmu tetapi tetap menghargaimu.
 4. **Tulis surat untuk dirimu sendiri** dari perspektif sahabat tersebut. Apa yang akan dia katakan tentang kekuranganmu? Bagaimana dia akan menunjukkan empatinya?
@@ -77,7 +77,7 @@ Ini adalah teknik reflektif untuk melatih otot self-compassion-mu.
 
 ## Belajar dari Kesalahan tanpa Menghukum Diri
 
-Self-compassion tidak berarti memaafkan perilaku buruk atau mengabaikan tanggung jawab. Sebaliknya, ini adalah tentang memberikan dirimu **ruang aman** untuk belajar dari kesalahan tanpa harus hancur oleh kritik internal yang destruktif.
+Self-compassion memberimu **ruang aman** untuk belajar dari kesalahan tanpa harus hancur oleh kritik internal yang destruktif. Perilaku buruk tidak lantas dimaafkan, dan tanggung jawab tidak boleh diabaikan.
 
 > **Key Takeaway:** Belas kasih pada diri sendiri menopang resiliensi. Saat masa sulit datang, mereka yang bersikap lembut pada diri sendiri akan melengkung mengikuti angin tanpa patah, lalu kembali tegak dengan lebih kuat.
 

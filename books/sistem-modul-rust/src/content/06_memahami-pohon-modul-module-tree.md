@@ -2,7 +2,7 @@
 
 Setelah memahami cara mendefinisikan module dan mengatur visibilitasnya, sekarang bayangkan module-module itu sebagai ruangan di dalam gedung besar. Bagaimana cara kamu memberi tahu orang lain lokasi ruangan tertentu?
 
-Ada dua cara: memberikan alamat lengkap dari pintu utama gedung (**Absolute Path**), atau memberikan petunjuk arah dari tempat kamu berdiri saat ini (**Relative Path**). Di Rust, kita menyebut "petunjuk arah" ini sebagai **Paths**.
+Kamu bisa memberikan alamat lengkap dari pintu utama gedung (**Absolute Path**) atau memberikan petunjuk arah dari tempat kamu berdiri saat ini (**Relative Path**). Di Rust, kita menyebut "petunjuk arah" ini sebagai **Paths**.
 
 Sebelum masuk ke teknis path, kita harus membayangkan kode kita sebagai sebuah pohon. Rust melihat struktur folder dan module kamu seperti struktur direktori pada komputer:
 

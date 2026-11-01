@@ -10,7 +10,7 @@ Otak manusia berevolusi di lingkungan yang langka sumber daya. Di masa lalu, men
 
 Masalahnya, evolusi biologi berjalan sangat lambat, sementara evolusi teknologi berjalan sangat cepat. Kita memiliki otak pemburu-pengumpul (*hunter-gatherer*) yang hidup di dunia yang menyerupai "hutan digital" yang penuh dengan buah-buahan yang terlalu manis dan terlalu mudah didapat.
 
-> **Insight Penting:** Masalahnya bukan pada dopamin itu sendiri, melainkan pada kecepatan, kemudahan, dan intensitas stimulasi yang kita terima di era digital.
+> **Insight Penting:** Dopamin sendiri tidak bermasalah. Kecepatan, kemudahan, dan intensitas stimulasi yang kita terima di era digital itulah sumber masalahnya.
 
 ## 1. Media Sosial
 
@@ -62,7 +62,7 @@ Keterangan:
 - $D$ = Penundaan imbalan (*Delay*)
 - $k$ = Konstanta impulsivitas individu
 
-*Coba renungkan: Semakin besar nilai $k$ (impulsivitas) seseorang akibat stimulasi digital berlebih, semakin kecil nilai imbalan masa depan di mata mereka.*
+*Coba renungkan apa artinya. Semakin besar nilai $k$ (impulsivitas) seseorang akibat stimulasi digital berlebih, semakin kecil nilai imbalan masa depan di mata mereka.*
 
 ## Dampak Dopamin Empat Aktivitas Sehari-hari
 
@@ -84,9 +84,9 @@ Budi ingin belajar untuk ujian besok (imbalan jangka panjang). Namun, ia melihat
 Untuk menghindari jebakan ini, kita perlu melakukan "rekayasa lingkungan":
 
 1. **Tambahkan Gesekan (Friction):** Letakkan ponsel di ruangan lain saat bekerja. Jadikan kesenangan instan lebih sulit diakses.
-2. **Gunakan Aturan 10 Menit:** Jika kamu merasa dorongan impulsif untuk membuka media sosial atau makan camilan, katakan pada diri sendiri: *"Boleh, tapi tunggu 10 menit."* Ini memberi waktu bagi PFC untuk "online" kembali dan mengambil alih kendali.
+2. **Gunakan Aturan 10 Menit:** Jika kamu merasa dorongan impulsif untuk membuka media sosial atau makan camilan, katakan pada diri sendiri, *"Boleh, tapi tunggu 10 menit."* Ini memberi waktu bagi PFC untuk "online" kembali dan mengambil alih kendali.
 3. **Matikan Notifikasi Non-Manusia:** Matikan semua notifikasi kecuali pesan langsung dari manusia nyata. Jangan biarkan algoritma menentukan kapan kamu harus memberikan perhatian.
 
 > **Pesan Utama:** Otak kamu tidak dirancang untuk menangani stimulasi yang terus-menerus. Menyadari bahwa kamu sedang "dipancing" oleh algoritma adalah langkah pertama untuk merebut kembali kendali atas perhatian dan motivasi kamu.
 
-*Coba renungkan: Dalam satu jam terakhir, berapa banyak tindakan yang kamu lakukan berdasarkan keputusan sadar, dan berapa banyak yang merupakan respons otomatis terhadap stimulasi instan?*
+*Dalam satu jam terakhir, berapa banyak tindakan yang kamu lakukan berdasarkan keputusan sadar, dan berapa banyak yang merupakan respons otomatis terhadap stimulasi instan?*

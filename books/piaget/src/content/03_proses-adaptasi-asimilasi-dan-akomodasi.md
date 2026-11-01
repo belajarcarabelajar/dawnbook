@@ -2,7 +2,7 @@
 
 Pernahkah kamu bertanya-tanya bagaimana anak kecil yang awalnya hanya mengenal "anjing" tiba-tiba bisa membedakan anjing, kucing, dan sapi? Atau bagaimana kita sebagai orang dewasa belajar menggunakan perangkat lunak baru yang sangat berbeda dari yang pernah kita gunakan sebelumnya?
 
-Menurut Jean Piaget, kecerdasan bukan sekadar tumpukan fakta, melainkan sebuah **proses adaptasi** yang dinamis. Jika pada bagian sebelumnya kita telah mempelajari **Skema** (wadah informasi dalam pikiran), maka sekarang kita akan membedah bagaimana "wadah" tersebut berinteraksi dengan dunia luar melalui dua mekanisme utama: **Asimilasi** dan **Akomodasi**.
+Menurut Jean Piaget, kecerdasan adalah sebuah **proses adaptasi** yang dinamis. Jika pada bagian sebelumnya kita telah mempelajari **Skema** (wadah informasi dalam pikiran), maka sekarang kita akan membedah bagaimana "wadah" tersebut berinteraksi dengan dunia luar melalui dua mekanisme utama, yaitu **Asimilasi** dan **Akomodasi**.
 
 ### 1\. Memahami Konsep Adaptasi
 
@@ -17,7 +17,7 @@ Proses ini terjadi melalui dua jalur yang saling melengkapi:
 
 ### 2\. Asimilasi
 
-**Asimilasi** adalah proses kognitif ketika seseorang memasukkan informasi atau pengalaman baru ke dalam skema yang sudah mereka miliki. Dalam proses ini, individu tidak mengubah struktur mentalnya, melainkan "memaksa" informasi baru tersebut agar muat ke dalam kategori yang sudah ada.
+**Asimilasi** adalah proses kognitif ketika seseorang memasukkan informasi atau pengalaman baru ke dalam skema yang sudah mereka miliki. Dalam proses ini, individu "memaksa" informasi baru tersebut agar muat ke dalam kategori yang sudah ada, sementara struktur mentalnya dibiarkan seperti semula.
 
 #### Folder Komputer
 
@@ -27,7 +27,7 @@ Bayangkan kamu memiliki folder di komputer berjudul "Lagu Rock". Ketika kamu men
 
 Seorang balita memiliki skema tentang "burung" sebagai "sesuatu yang kecil, punya sayap, dan bisa terbang". Ketika ia melihat seekor burung gereja di taman, ia menunjuk dan berteriak, *"Burung!"*. Ia berhasil mengasimilasi objek baru tersebut ke dalam skema burungnya.
 
-*Pertanyaan Kunci: Apakah asimilasi selalu akurat? Apa yang terjadi jika balita tersebut melihat sebuah pesawat terbang dan berteriak "Burung!"?*
+*Coba renungkan pertanyaan kunci ini. Apakah asimilasi selalu akurat? Apa yang terjadi jika balita tersebut melihat sebuah pesawat terbang dan berteriak "Burung!"?*
 
 ### 3\. Akomodasi
 
@@ -39,7 +39,7 @@ Jika asimilasi seperti mengisi air ke dalam gelas, maka akomodasi seperti memaha
 
 #### Burung Unta di Kebun Binatang
 
-Melanjutkan contoh balita tadi: Ia melihat seekor burung unta di kebun binatang. Ia mencoba mengasimilasi burung unta itu ke dalam skemanya ("burung harus bisa terbang"). Namun, ia melihat burung unta itu sangat besar dan hanya berlari. Sang ibu berkata, *"Itu burung unta, Nak. Dia burung, tapi tidak bisa terbang."* Anak tersebut sekarang harus melakukan **akomodasi**: Ia mengubah skema "burung"-nya dari "semua burung terbang" menjadi "sebagian besar burung terbang, tapi ada juga yang tidak".
+Kembali ke balita tadi. Kali ini ia melihat seekor burung unta di kebun binatang. Ia mencoba mengasimilasi burung unta itu ke dalam skemanya ("burung harus bisa terbang"). Namun, ia melihat burung unta itu sangat besar dan hanya berlari. Sang ibu berkata, *"Itu burung unta, Nak. Dia burung, tapi tidak bisa terbang."* Anak tersebut sekarang harus melakukan **akomodasi** dengan mengubah skema "burung"-nya dari "semua burung terbang" menjadi "sebagian besar burung terbang, tapi ada juga yang tidak".
 
 ### 4\. Asimilasi vs Akomodasi
 
@@ -60,13 +60,13 @@ Mekanisme asimilasi dan akomodasi tidak berhenti saat kita dewasa. Keduanya teru
 **Skenario Perpindahan dari Windows ke macOS**
 
 - **Asimilasi:** Saat kamu pertama kali membuka MacBook, kamu mencari tombol "X" untuk menutup jendela. Kamu mengasimilasi konsep "menutup jendela" dari pengalaman Windows kamu.
-- **Akomodasi:** Kamu menyadari bahwa tombol tutup di Mac ada di kiri atas (merah), bukan di kanan atas. Kamu harus melakukan akomodasi, mengubah skema operasional komputer kamu untuk memahami bahwa tata letak antarmuka bisa berbeda.
+- **Akomodasi:** Kamu menyadari bahwa tombol tutup di Mac ternyata ada di kiri atas (merah). Kamu harus melakukan akomodasi, mengubah skema operasional komputer kamu untuk memahami bahwa tata letak antarmuka bisa berbeda.
 
 **Dalam Pendidikan:** Guru yang efektif akan memberikan tantangan yang memicu akomodasi. Jika materi terlalu mudah, siswa hanya akan melakukan asimilasi tanpa perkembangan struktur kognitif yang signifikan. Jika terlalu sulit, akomodasi tidak bisa terjadi karena tidak ada "kait" skema awal yang bisa diubah.
 
 ### 6\. Hubungan Menuju Ekuilibrasi
 
-Asimilasi dan akomodasi bukanlah dua proses yang terpisah secara kaku, melainkan dua sisi dari satu koin bernama **Adaptasi**.
+Asimilasi dan akomodasi adalah dua sisi dari satu koin bernama **Adaptasi**, sehingga keduanya tidak bisa dipisahkan secara kaku.
 
 - Jika kita terlalu banyak melakukan **asimilasi**, kita akan cenderung mengabaikan perbedaan dan memiliki pemahaman yang dangkal (seperti menyebut semua hewan berkaki empat sebagai "guk-guk").
 - Jika kita terlalu banyak melakukan **akomodasi**, kita akan kesulitan menemukan pola umum karena setiap hal dianggap sebagai kategori baru yang unik.
