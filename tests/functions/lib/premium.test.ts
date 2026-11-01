@@ -281,3 +281,37 @@ describe("single decode", () => {
     expect(isPremiumPublicPage("/books/buku-a//content/02_x.html")).toBe(false);
   });
 });
+
+describe("canonical path", () => {
+  test("canonical: premiumSlugOf finds the slug through backslash separators", () => {
+    expect(premiumSlugOf("/books%5Cbuku-a/content/02_x.html")).toBe("buku-a");
+    expect(premiumSlugOf("/books/buku-a%5Ccontent%5C02_x.html")).toBe("buku-a");
+    expect(premiumSlugOf("/books\\buku-a\\content\\02_x.html")).toBe("buku-a");
+  });
+
+  test("canonical: premiumSlugOf still finds the slug when an encoded escape remains", () => {
+    expect(premiumSlugOf("/books/buku-a/%2573earchindex.js")).toBe("buku-a");
+  });
+
+  test("canonical: backslash forms of searchindex and chapter 2 are not public", () => {
+    expect(isPremiumPublicPage("/books/buku-a/%5Csearchindex.js")).toBe(false);
+    expect(isPremiumPublicPage("/books/buku-a%5Csearchindex.js")).toBe(false);
+    expect(isPremiumPublicPage("/books/buku-a%5Ccontent%5C02_x.html")).toBe(false);
+  });
+
+  test("canonical: an encoded escape left after the one decode is not public", () => {
+    expect(isPremiumPublicPage("/books/buku-a/%2573earchindex.js")).toBe(false);
+    expect(isPremiumPublicPage("/books/buku-a/%2541.css")).toBe(false);
+  });
+
+  test("canonical: ordinary public pages stay public", () => {
+    expect(isPremiumPublicPage("/books/buku-a/")).toBe(true);
+    expect(isPremiumPublicPage("/books/buku-a/content/01_x.html")).toBe(true);
+    expect(isPremiumPublicPage("/books/buku-a/css/general.css")).toBe(true);
+    expect(isPremiumPublicPage("/books/buku-a/book-1234.js")).toBe(true);
+  });
+
+  test("canonical: a literal percent that is not an escape is judged by the normal rules", () => {
+    expect(isPremiumPublicPage("/books/buku-a/content/01_100%25.html")).toBe(true);
+  });
+});

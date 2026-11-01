@@ -85,6 +85,26 @@ const PUBLIC_EXACT_PATHS = new Set([
 const PUBLIC_PATH_PREFIXES = ["/api/", "/sign-in", "/sign-up"];
 
 /**
+ * Canonicalises an already decoded pathname: a backslash becomes "/" and runs
+ * of "/" collapse into one. The static layer serves "/books/x//page" as the
+ * same file as "/books/x/page", and a backslash may be read as a separator
+ * further down, so every rule must see this form or such a path slips past
+ * the book rules.
+ */
+export function canonicalPath(decoded: string): string {
+  return decoded.replace(/\\/g, "/").replace(/\/{2,}/g, "/");
+}
+
+/**
+ * True when a path still holds a percent escape after the one decode
+ * ("%2573" became "%73"). No real asset name has one, so callers fail closed
+ * instead of decoding again.
+ */
+export function hasEncodedEscape(decoded: string): boolean {
+  return /%[0-9a-f]{2}/i.test(decoded);
+}
+
+/**
  * Determines whether a pathname is public (no auth required at edge).
  *
  * All content pages, book chapters, static assets, and public routes are public at the edge
@@ -95,10 +115,8 @@ const PUBLIC_PATH_PREFIXES = ["/api/", "/sign-in", "/sign-up"];
  * @returns true if the path should be served without edge-level auth redirection
  */
 export function isPublicPath(pathname: string): boolean {
-  // Runs of "/" are collapsed after decoding because the static layer serves
-  // "/books/x//page" (and "%2F") as the same file, so every rule below must
-  // see the canonical path or a doubled slash slips past the book rules.
-  const decoded = decodeURIComponent(pathname).replace(/\/{2,}/g, "/");
+  const decoded = canonicalPath(decodeURIComponent(pathname));
+  if (hasEncodedEscape(decoded)) return false;
 
   // 1. Admin SPA routes are gated
   if (decoded === "/admin" || decoded.startsWith("/admin/")) {

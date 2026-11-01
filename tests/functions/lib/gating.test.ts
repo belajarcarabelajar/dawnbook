@@ -110,3 +110,35 @@ describe("isPublicPath double slash canonicalisation", () => {
     expect(isPublicPath("/")).toBe(true);
   });
 });
+
+describe("isPublicPath canonical path", () => {
+  test("canonical: backslash before searchindex is not public", () => {
+    expect(isPublicPath("/books/x/%5Csearchindex.js")).toBe(false);
+    expect(isPublicPath("/books/x/\\searchindex.js")).toBe(false);
+    expect(isPublicPath("/books%5Cx%5Csearchindex-a2c06330.js")).toBe(false);
+  });
+
+  test("canonical: backslash does not open chapter 2", () => {
+    expect(isPublicPath("/books/x/%5C02_a.html")).toBe(false);
+    expect(isPublicPath("/books/x\\content\\02_a.html")).toBe(false);
+  });
+
+  test("canonical: an encoded escape left after the one decode is not public", () => {
+    expect(isPublicPath("/books/x/%2573earchindex.js")).toBe(false);
+    expect(isPublicPath("/books/x/%2541.css")).toBe(false);
+  });
+
+  test("canonical: ordinary public pages stay public", () => {
+    expect(isPublicPath("/")).toBe(true);
+    expect(isPublicPath("/books/x/")).toBe(true);
+    expect(isPublicPath("/books/x/01_a.html")).toBe(true);
+    expect(isPublicPath("/books/x/css/general.css")).toBe(true);
+    expect(isPublicPath("/books/x/book-1234.js")).toBe(true);
+  });
+
+  test("canonical: a literal percent that is not an escape is judged by the normal rules", () => {
+    // "%25" decodes to a bare "%", which is not followed by two hex digits.
+    expect(isPublicPath("/books/x/01_100%25.html")).toBe(true);
+    expect(isPublicPath("/books/x/100%25.html")).toBe(false);
+  });
+});
