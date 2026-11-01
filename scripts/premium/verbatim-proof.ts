@@ -16,6 +16,8 @@ const MAX_HUNK_TOKENS = 20;
 // The report file keeps every hunk; stdout stops here so a wrong PDF cannot stream a whole book.
 const MAX_STDOUT_HUNKS = 100;
 const RUNNING_MIN_PAGES = 3;
+// Divider pages repeat a title on a few pages; a real running header sits on a large share of them.
+const RUNNING_MIN_SHARE = 0.4;
 const EDGE_LINES = 2;
 
 class UsageError extends Error {}
@@ -47,6 +49,7 @@ export interface ProofResult {
   boilerplateLines: number;
   bullets: BulletGlyph[];
   bulletCount: number;
+  hyphenJoins: number;
 }
 
 const PAGE_NUMBER = /^(?:\d+|(?:xc|xl|l?x{0,3})(?:ix|iv|v?i{0,3})|(?:XC|XL|L?X{0,3})(?:IX|IV|V?I{0,3})|halaman\s+\d+)$/i;
@@ -58,8 +61,38 @@ function isPageNumber(trimmed: string): boolean {
   return PAGE_NUMBER.test(trimmed);
 }
 
+const PICTO = "[\\u2190-\\u2BFF\\u{1F000}-\\u{1FAFF}]";
+// Whitespace is not content, so an emoji glued to a word and one set apart give the same tokens.
+const EMOJI_CLUSTER = new RegExp(`${PICTO}\\uFE0F?(?:\\u200D${PICTO}\\uFE0F?)*`, "gu");
+
 export function tokenize(text: string): string[] {
-  return text.normalize("NFKC").split(/\s+/u).filter((t) => t !== "");
+  return text
+    .normalize("NFKC")
+    .replace(EMOJI_CLUSTER, " $& ")
+    .split(/\s+/u)
+    .filter((t) => t !== "");
+}
+
+/** Joins a word hyphenated at a PDF line end with the start of the next non-empty line, across pages too. */
+export function joinLineEndHyphens(pages: string[][]): { pages: string[][]; count: number } {
+  const lines = pages.map((ls) => [...ls]);
+  const refs: Array<[number, number]> = [];
+  lines.forEach((ls, p) => ls.forEach((l, i) => l.trim() !== "" && refs.push([p, i])));
+  let count = 0;
+  for (let k = 0; k < refs.length; k++) {
+    const [p, i] = refs[k]!;
+    while (/\p{L}-$/u.test(lines[p]![i]!.trimEnd())) {
+      const next = refs.findIndex((r, j) => j > k && lines[r[0]]![r[1]]!.trim() !== "");
+      if (next === -1) break;
+      const [np, ni] = refs[next]!;
+      const head = lines[np]![ni]!.trimStart();
+      if (!/^\p{L}/u.test(head)) break;
+      lines[p]![i] = lines[p]![i]!.trimEnd() + head;
+      lines[np]![ni] = "";
+      count++;
+    }
+  }
+  return { pages: lines, count };
 }
 
 /** Removes page numbers and running headers or footers, returning the page texts that remain. */
@@ -104,7 +137,8 @@ export function stripBoilerplate(pages: string[]): { pages: string[][]; boilerpl
   edgeIndexes.forEach((edges, p) => {
     for (const i of edges) {
       const t = lines[p]![i]!.trim();
-      if ((edgePages.get(t)?.size ?? 0) >= RUNNING_MIN_PAGES) {
+      const seen = edgePages.get(t)?.size ?? 0;
+      if (seen >= RUNNING_MIN_PAGES && seen >= RUNNING_MIN_SHARE * pages.length) {
         drop[p]![i] = true;
         note(t, "running", p + 1);
       }
@@ -117,7 +151,8 @@ export function stripBoilerplate(pages: string[]): { pages: string[][]; boilerpl
 }
 
 // The Markdown side writes these as unordered list markers, which stripMarkdown removes.
-const BULLET = /^(\s*)(?:([\u2022\u25CF\u25AA\u25E6\u25A0\u25A1\u27A2\u25BA\u2713\u2714\u2756\u25C6])\uFE0F?\s*|([-\u2013])\s+)/u;
+// A glyph followed by U+FE0F is emoji presentation, which the book keeps as content.
+const BULLET = /^(\s*)(?:([\u2022\u25CF\u25AA\u25E6\u25A0\u25A1\u27A2\u25BA\u2756\u25C6])(?!\uFE0F)\s*|([-\u2013])\s+)/u;
 
 /** Removes one leading bullet glyph per line and records which glyphs were removed on which pages. */
 export function stripBullets(pages: string[][]): { pages: string[][]; bullets: BulletGlyph[]; count: number } {
@@ -139,12 +174,15 @@ export function stripBullets(pages: string[][]): { pages: string[][]; bullets: B
   return { pages: kept, bullets: [...found.values()], count };
 }
 
+const ESCAPE_BASE = 0xe000;
+
 /** Strips Markdown syntax only, so the words a reader sees are what remains. */
 export function stripMarkdown(md: string): string {
   const withoutComments = md.replace(/<!--[\s\S]*?-->/g, " ");
   const out: string[] = [];
   for (const raw of withoutComments.split(/\r?\n/)) {
-    let line = raw;
+    // Escaped punctuation is parked in the private use area so no later rule can strip it.
+    let line = raw.replace(/\\([!-\/:-@\[-`{-~])/g, (_, c: string) => String.fromCharCode(ESCAPE_BASE + c.charCodeAt(0)));
     if (/^\s*<\/?div\b[^>]*>\s*$/i.test(line)) continue;
     if (/^\s*\|?\s*:?-+:?\s*(\|\s*:?-+:?\s*)+\|?\s*$/.test(line) || /^\s*\|\s*:?-+:?\s*\|\s*$/.test(line)) continue;
     if (/^\s{0,3}([-*_])(\s*\1){2,}\s*$/.test(line)) continue;
@@ -158,7 +196,7 @@ export function stripMarkdown(md: string): string {
     line = line.replace(/`+/g, "");
     line = line.replace(/(^|[\s(\["'])[*_]+(?=\S)/g, "$1");
     line = line.replace(/(?<=\S)[*_]+(?=$|[\s.,;:!?)\]"'])/g, "");
-    out.push(line);
+    out.push(line.replace(/[\uE000-\uE07F]/g, (c) => String.fromCharCode(c.charCodeAt(0) - ESCAPE_BASE)));
   }
   return out.join("\n");
 }
@@ -207,7 +245,9 @@ function diffTokens(a: string[], b: string[]): Array<{ kind: "a" | "c" | "d"; a1
 export function proveVerbatim(pdfPages: string[], chapters: string[]): ProofResult {
   const stripped = stripBoilerplate(pdfPages);
   const { boilerplate, removed } = stripped;
-  const { pages, bullets, count: bulletCount } = stripBullets(stripped.pages);
+  // Joining runs before bullet stripping so a bullet glyph on the next line blocks the join.
+  const joined = joinLineEndHyphens(stripped.pages);
+  const { pages, bullets, count: bulletCount } = stripBullets(joined.pages);
   const pdfTokens: string[] = [];
   const pdfPageOf: number[] = [];
   pages.forEach((ls, p) => {
@@ -241,6 +281,7 @@ export function proveVerbatim(pdfPages: string[], chapters: string[]): ProofResu
     boilerplateLines: removed,
     bullets,
     bulletCount,
+    hyphenJoins: joined.count,
   };
 }
 
@@ -311,15 +352,22 @@ function parseArgs(argv: string[]): Args {
   return args;
 }
 
+// pdftotext ends every page with a form feed, so the piece after the last one is not a page.
+function splitPages(text: string): string[] {
+  const pages = text.split("\f");
+  if (pages.length > 1 && pages.at(-1)!.trim() === "") pages.pop();
+  return pages;
+}
+
 function readPdfPages(args: Args): string[] {
   if (args.text !== undefined) {
     if (!fs.existsSync(args.text)) throw new Error(`text file not found: ${args.text}`);
-    return fs.readFileSync(args.text, "utf8").split("\f");
+    return splitPages(fs.readFileSync(args.text, "utf8"));
   }
   if (!fs.existsSync(args.pdf!)) throw new Error(`PDF not found: ${args.pdf}`);
   const r = Bun.spawnSync(["pdftotext", "-layout", args.pdf!, "-"], { stdout: "pipe", stderr: "pipe" });
   if (r.exitCode !== 0) throw new Error(`pdftotext failed (exit ${r.exitCode}): ${r.stderr.toString().trim()}`);
-  return r.stdout.toString().split("\f");
+  return splitPages(r.stdout.toString());
 }
 
 export function main(argv: string[]): number {
@@ -333,6 +381,7 @@ export function main(argv: string[]): number {
     // Page numbers are one per page, so stdout gives their count and the report lists them.
     const pageNumbers = result.boilerplate.filter((b) => b.kind === "page-number");
     if (pageNumbers.length > 0) console.log(`boilerplate: ${plural(pageNumbers.length, "page-number line")} (listed in --report)`);
+    if (result.hyphenJoins > 0) console.log(`boilerplate: ${plural(result.hyphenJoins, "line-end hyphen join")}`);
     if (result.bulletCount > 0) console.log(`boilerplate: ${plural(result.bulletCount, "bullet glyph")} (listed in --report)`);
     for (const b of result.boilerplate.filter((x) => x.kind === "running")) {
       console.log(`boilerplate: ${b.line} (${plural(b.pages.length, "page")})`);

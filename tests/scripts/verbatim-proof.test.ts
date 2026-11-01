@@ -203,7 +203,7 @@ describe("verbatim-proof CLI", () => {
   test("PDF bullet glyphs match Markdown list markers and are counted with their pages", () => {
     const pages = [
       "Bekal ke sekolah.\n  \u2022 Satu\n  \u25cf Dua\n",
-      "\u2013 Tiga\n- Empat\n\u2714 Lima\n",
+      "\u2013 Tiga\n- Empat\n\u25c6 Lima\n",
     ];
     const fx = makeFixture({
       pages,
@@ -218,5 +218,45 @@ describe("verbatim-proof CLI", () => {
     const md = fs.readFileSync(report, "utf8");
     expect(md).toMatch(/\u2022.*page 1/);
     expect(md).toMatch(/\u2013.*page 2/);
+  });
+
+  function single(pages: string[], chapter: string) {
+    const fx = makeFixture({ pages, summary: "# Summary\n\n- [Isi](isi.md)\n", chapters: { "isi.md": chapter } });
+    return runCli(["--text", fx.textFile, "--book", fx.bookDir]);
+  }
+
+  test("Markdown backslash escapes become the literal character and are never stripped", () => {
+    const r = single(["Isi titik ___, lalu *Optional ya.\n"], "Isi titik \\_\\_\\_, lalu \\*Optional ya.\n");
+    expect(r.stdout).toContain("tokens pdf=6 book=6 hunks=0");
+    expect(r.exitCode).toBe(0);
+  });
+
+  test("a PDF word hyphenated at a line end is joined with the next line and counted", () => {
+    const r = single(["Ajak temen-\ntemen dan cek deadline-\n\nnya hari ini.\n"], "Ajak temen-temen dan cek deadline-nya hari ini.\n");
+    expect(r.stdout).toContain("boilerplate: 2 line-end hyphen joins");
+    expect(r.stdout).toContain("tokens pdf=7 book=7 hunks=0");
+    expect(r.exitCode).toBe(0);
+  });
+
+  test("emoji clusters are split from adjacent letters on both sides", () => {
+    const r = single(["\u2611\ufe0fPengenalan dan \u{1F680} Roket\n"], "\u2611\ufe0f Pengenalan dan \u{1F680}Roket\n");
+    expect(r.stdout).toContain("tokens pdf=5 book=5 hunks=0");
+    expect(r.exitCode).toBe(0);
+  });
+
+  test("an edge line on 3 of 10 pages (under 40 percent) is not a running header", () => {
+    const pages = Array.from({ length: 10 }, (_, i) => (i < 3 ? "Buku Seri Tiga\n" : "") + `Isi halaman nomor ${"abcdefghij"[i]}.\n`);
+    const chapter = pages.join("\n");
+    const r = single(pages, chapter);
+    expect(r.stdout).toContain("boilerplate_lines=0");
+    expect(r.stdout).toContain("hunks=0");
+    expect(r.exitCode).toBe(0);
+  });
+
+  test("a check mark with emoji presentation and plain check marks are content, not bullets", () => {
+    const r = single(["\u2714\ufe0f Siap\n\u2714 Juga\n\u2713 Boleh\n\u2022 Satu\n"], "\u2714\ufe0f Siap\n\n\u2714 Juga\n\n\u2713 Boleh\n\n- Satu\n");
+    expect(r.stdout).toContain("boilerplate: 1 bullet glyph ");
+    expect(r.stdout).toContain("hunks=0");
+    expect(r.exitCode).toBe(0);
   });
 });
