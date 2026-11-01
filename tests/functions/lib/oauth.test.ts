@@ -86,4 +86,49 @@ describe("functions/lib/oauth.ts unit tests", () => {
     expect(safeRedirectPath(null)).toBe("/");
     expect(safeRedirectPath(undefined)).toBe("/");
   });
+
+  describe("safe redirect", () => {
+    const BASE = "https://dawnbook.example/api/auth/callback";
+
+    // URL parsing strips TAB, LF and CR, so "/\t/evil.com" resolves to
+    // https://evil.com/; the check must hold after parsing, not on raw text.
+    for (const input of [
+      "/\t/evil.com",
+      "/\n/evil.com",
+      "/\r/evil.com",
+      "/%09/evil.com",
+      "//evil.com",
+      "/\\evil.com",
+      "https://evil.com",
+      "javascript:alert(1)",
+      "/\u0000/evil.com",
+      "/\u007f/evil.com",
+      // Dot segments can normalise to a "//" path after parsing.
+      "/a/..//evil.com",
+    ]) {
+      test(`safe redirect keeps ${JSON.stringify(input)} on the site`, () => {
+        const out = safeRedirectPath(input);
+        expect(out.startsWith("/")).toBe(true);
+        expect(out.startsWith("//")).toBe(false);
+        expect(new URL(out, BASE).origin).toBe("https://dawnbook.example");
+      });
+    }
+
+    test("safe redirect refuses control characters outright", () => {
+      expect(safeRedirectPath("/\t/evil.com")).toBe("/");
+      expect(safeRedirectPath("/\n/evil.com")).toBe("/");
+      expect(safeRedirectPath("/\u0000/evil.com")).toBe("/");
+      expect(safeRedirectPath("/\u007f/evil.com")).toBe("/");
+    });
+
+    test("safe redirect keeps an encoded tab as a literal same-site path", () => {
+      expect(safeRedirectPath("/%09/evil.com")).toBe("/%09/evil.com");
+    });
+
+    test("safe redirect leaves a normal chapter path with query and hash unchanged", () => {
+      expect(safeRedirectPath("/books/x/content/02_a.html?y=1#z")).toBe(
+        "/books/x/content/02_a.html?y=1#z",
+      );
+    });
+  });
 });

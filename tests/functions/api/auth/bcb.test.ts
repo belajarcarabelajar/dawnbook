@@ -198,7 +198,37 @@ describe("/api/auth/bcb store hand-off", () => {
     expect(errorCode(res)).toBe("sso_unavailable");
   });
 
-  for (const next of ["https://evil.example", "//evil.example", "/\\evil.example"]) {
+  test("next=%2F%09%2Fevil.com (encoded tab) keeps the Location on the request origin", async () => {
+    const { db } = createSqliteD1();
+    const token = await tokenFor();
+    const req = new Request(`https://example.com/api/auth/bcb?t=${token}&next=%2F%09%2Fevil.com`);
+    const res = await handleBcbSso(req, { DB: db, BCB_SSO_SECRET: fixture.secret } as any, NOW);
+    expect(res.status).toBe(302);
+    expect(new URL(res.headers.get("Location")!).origin).toBe("https://example.com");
+    expect(res.headers.get("Cache-Control")).toBe("no-store");
+  });
+
+  test("admin user with the token's email gets no session and the nonce stays used", async () => {
+    const { sqlite, db } = createSqliteD1();
+    sqlite
+      .query("INSERT INTO users (id, google_sub, email, role) VALUES ('u_admin', 'g-admin', ?1, 'admin')")
+      .run(EMAIL);
+
+    const res = await handleBcbSso(
+      ssoRequest(await tokenFor(), "/"),
+      { DB: db, BCB_SSO_SECRET: fixture.secret } as any,
+      NOW,
+    );
+
+    expect(res.status).toBe(302);
+    expect(errorCode(res)).toBe("sso_invalid");
+    expect(sessionCookie(res)).toBeNull();
+    expect(res.headers.get("Cache-Control")).toBe("no-store");
+    expect(sessions(sqlite)).toEqual([]);
+    expect(sqlite.query("SELECT key FROM rate_limits").all()).toEqual([{ key: `sso:${NONCE_A}` }]);
+  });
+
+  for (const next of ["https://evil.example", "//evil.example", "/\\evil.example", "/\t/evil.example"]) {
     test(`next=${next} redirects to /`, async () => {
       const { db } = createSqliteD1();
       const res = await handleBcbSso(

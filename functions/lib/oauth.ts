@@ -155,14 +155,26 @@ export function constantTimeEqual(a: string, b: string): boolean {
  * Allows only same-origin relative paths (must start with "/" but not "//").
  * Returns "/" for anything else.
  */
+const REDIRECT_PROBE_ORIGIN = "https://x.invalid";
+
 export function safeRedirectPath(input: string | null | undefined): string {
   if (!input) return "/";
   if (typeof input !== "string") return "/";
   if (!input.startsWith("/")) return "/";
   if (input.startsWith("//")) return "/";
   if (input.includes("\\")) return "/";
-  if (input.includes("\n") || input.includes("\r")) return "/";
-  return input;
+  if (/[\u0000-\u001f\u007f]/.test(input)) return "/";
+  // URL parsing strips TAB/LF/CR and normalises the path, so the raw-text
+  // checks above are not enough on their own: judge the parsed result.
+  let parsed: URL;
+  try {
+    parsed = new URL(input, REDIRECT_PROBE_ORIGIN);
+  } catch {
+    return "/";
+  }
+  if (parsed.origin !== REDIRECT_PROBE_ORIGIN) return "/";
+  const path = parsed.pathname + parsed.search + parsed.hash;
+  return path.startsWith("//") ? "/" : path;
 }
 
 export function isValidState(

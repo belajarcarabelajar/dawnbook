@@ -79,6 +79,9 @@ export async function handleBcbSso(
     if (!burn.meta.changes) return redirectWithError(request, "sso_invalid");
 
     const user = await findOrCreateBcbUser(env.DB, claims.email);
+    // A store purchase must never grant an admin session; admins sign in with
+    // Google. The nonce stays consumed.
+    if (user.role === "admin") return redirectWithError(request, "sso_invalid");
 
     const sessionId = newSessionId();
     await createSession(env.DB, {
