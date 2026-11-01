@@ -314,6 +314,11 @@ describe("checkPremiumAccess kinds on SQLite", () => {
     expect(await checkPremiumAccess(db, "ninja@example.test", ENTRY_A)).toBe("refused");
   });
 
+  test("ebook_premium: a revoked ebook_premium entitlement (refund) is refused", async () => {
+    const db = sqliteLms([{ email: "refund@example.test", product_id: "P-1MUzOd", kind: "ebook_premium", revoked_at: "2026-11-01T00:00:00Z" }]);
+    expect(await checkPremiumAccess(db, "refund@example.test", ENTRY_A)).toBe("refused");
+  });
+
   test("ebook_premium: a member entitlement still opens the book until the contract migration", async () => {
     const db = sqliteLms([{ email: "member@example.test", product_id: "P-OTHER", kind: "member" }]);
     expect(await checkPremiumAccess(db, "member@example.test", ENTRY_A)).toBe("allowed");
