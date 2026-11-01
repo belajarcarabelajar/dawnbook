@@ -83,3 +83,8 @@ parse_headings.js
 GEMINI.md
 BUGS.md
 graphify-out/
+
+# Premium books: copied from the private repo by scripts/premium-sync.ts, never committed (GEMINI.md section 30)
+books/belajar-cara-belajar/
+books/100-study-hacks/
+books/lancar-nugas/
