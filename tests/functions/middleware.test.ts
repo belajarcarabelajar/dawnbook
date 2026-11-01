@@ -370,4 +370,36 @@ describe("Cloudflare Pages Edge Middleware (functions/_middleware.ts)", () => {
     expect(json.error).toBe("Bad Request");
     expect(json.message).toContain("Malformed URI component");
   });
+  test("anonymous HTML request for a book searchindex redirects 302 to /sign-in", async () => {
+    const env = createMockEnv();
+    setQueryHandler(env, "SELECT", () => []);
+
+    const req = mockRequest("https://example.com/books/x/searchindex-a2c06330.js", {
+      headers: { Accept: "text/html,application/xhtml+xml" },
+    });
+
+    const next = mock(async () => new Response("window.search = {}"));
+    const context = { request: req, env: env, next };
+
+    const response = await onRequest(context as any);
+    expect(response.status).toBe(302);
+    expect(response.headers.get("Location")).toContain("/sign-in");
+    expect(next).not.toHaveBeenCalled();
+  });
+
+  test("anonymous fetch of a book searchindex returns 401", async () => {
+    const env = createMockEnv();
+    setQueryHandler(env, "SELECT", () => []);
+
+    const req = mockRequest("https://example.com/books/x/searchindex-a2c06330.js", {
+      headers: { Accept: "*/*" },
+    });
+
+    const next = mock(async () => new Response("window.search = {}"));
+    const context = { request: req, env: env, next };
+
+    const response = await onRequest(context as any);
+    expect(response.status).toBe(401);
+    expect(next).not.toHaveBeenCalled();
+  });
 });

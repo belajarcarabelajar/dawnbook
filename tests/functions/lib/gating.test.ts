@@ -62,3 +62,23 @@ describe("isPublicPath — book content gating", () => {
     expect(isPublicPath("/books/piaget/content/02_konsep.html")).toBe(false);
   });
 });
+
+describe("isPublicPath searchindex gating", () => {
+  test("hashed searchindex js under a book is not public", () => {
+    expect(isPublicPath("/books/x/searchindex-a2c06330.js")).toBe(false);
+  });
+
+  test("plain searchindex.js and searchindex.json under a book are not public", () => {
+    expect(isPublicPath("/books/x/searchindex.js")).toBe(false);
+    expect(isPublicPath("/books/x/searchindex.json")).toBe(false);
+  });
+
+  test("percent-encoded searchindex path is still not public", () => {
+    expect(isPublicPath("/books/x/%73earchindex-a2c06330.js")).toBe(false);
+  });
+
+  test("other book js stays public next to the gated searchindex", () => {
+    expect(isPublicPath("/books/x/book-609e4cb8.js")).toBe(true);
+    expect(isPublicPath("/books/x/searcher-1f2e3d4c.js")).toBe(true);
+  });
+});
