@@ -5,11 +5,16 @@
  * Usage:
  *   bun run scripts/premium/check-links.ts <dir>
  *
- * A link is dead when its final status is 400 or more, when it times out or fails after one
- * retry, or when it redirects to another host that looks like a parked domain or a gambling
- * site (expired domains of old references often end up there and still answer 200).
- * A final 401, 403 or 429 is reported as unverified instead: many publishers refuse scripted
- * requests, so those links need a check by other means (a person or a fetch tool).
+ * Each link is asked with HEAD first. When HEAD fails or answers 400 or more, it is asked with
+ * GET, and a GET that times out or hits a network error is asked once more with GET, so a link
+ * gets at most three requests.
+ * A link is dead when its final status is 400 or more (404, 410, 5xx and so on), or when it
+ * redirects to another host that looks like a parked domain or a gambling site (expired domains
+ * of old references often end up there and still answer 200).
+ * A link is unverified instead when its final status is 401, 403 or 429, or when the GET retry
+ * still times out or fails (the reason ends with "(after retry)"): many publishers refuse or
+ * drop scripted requests while the page opens fine in a browser, so those links need a check by
+ * other means (a person or a fetch tool).
  * Exit codes: 0 no dead link (unverified links allowed), 1 at least one dead link, 2 usage error.
  */
 import fs from "node:fs";
@@ -147,8 +152,13 @@ async function probe(fetchFn: FetchLike, url: string, timeoutMs: number): Promis
   // Many servers answer HEAD with 404, 405 or 406 while GET returns the page.
   if ("error" in result || result.status >= 400) {
     result = await attempt(fetchFn, url, "GET", timeoutMs);
+    // Hosts that time out or reset a scripted connection often open fine a moment later or in a
+    // browser, so one more GET is tried and a second failure is left for a person to check.
+    if ("error" in result) {
+      result = await attempt(fetchFn, url, "GET", timeoutMs);
+      if ("error" in result) return { reason: `${result.error} (after retry)`, kind: "unverified" };
+    }
   }
-  if ("error" in result) return { reason: result.error, kind: "dead" };
   if (result.status >= 400) {
     return { reason: `HTTP ${result.status}`, kind: UNVERIFIED_STATUSES.has(result.status) ? "unverified" : "dead" };
   }

@@ -2,18 +2,21 @@ import { afterAll, beforeAll, describe, expect, test } from "bun:test";
 import fs from "node:fs";
 import os from "node:os";
 import path from "node:path";
-import { checkLinks, extractLinks, type FetchLike } from "../../scripts/premium/check-links";
+import { checkLinks, deniedHost, extractLinks, type FetchLike } from "../../scripts/premium/check-links";
 
 const ROOT = path.join(os.homedir(), ".cache/tmp/dawnbook-scratch/premium-check-links-test");
 
 type Route = { status: number; url?: string } | "hang" | "network-error";
-type Routes = Record<string, Partial<Record<"HEAD" | "GET", Route>>>;
+// A list answers successive calls of that method in order; its last entry repeats.
+type Routes = Record<string, Partial<Record<"HEAD" | "GET", Route | Route[]>>>;
 
 function fakeFetch(routes: Routes) {
   const calls: { url: string; method: string }[] = [];
   const fn: FetchLike = (url, init) => {
+    const nth = calls.filter((c) => c.url === url && c.method === init.method).length;
     calls.push({ url, method: init.method });
-    const route = routes[url]?.[init.method as "HEAD" | "GET"];
+    const entry = routes[url]?.[init.method as "HEAD" | "GET"];
+    const route = Array.isArray(entry) ? entry[Math.min(nth, entry.length - 1)] : entry;
     if (route === undefined) return Promise.reject(new Error(`unexpected ${init.method} ${url}`));
     if (route === "hang") return new Promise(() => {});
     if (route === "network-error") return Promise.reject(new TypeError("fetch failed"));
@@ -61,6 +64,15 @@ describe("extractLinks", () => {
   });
 });
 
+describe("deniedHost", () => {
+  test("a parking domain matches itself and its subdomains only, not a host that merely ends with it", () => {
+    expect(deniedHost("dan.com")).toBe(true);
+    expect(deniedHost("x.dan.com")).toBe(true);
+    expect(deniedHost("jordan.com")).toBe(false);
+    expect(deniedHost("dan.com.example")).toBe(false);
+  });
+});
+
 describe("checkLinks", () => {
   test("classifies dead and live links and reports every file:line occurrence", async () => {
     const dir = path.join(ROOT, "books-mixed");
@@ -96,13 +108,75 @@ describe("checkLinks", () => {
     expect(rows[0].reason).toContain("404");
     expect(rows[1].reason).toContain("slot-gacor88.example");
     expect(rows[2].reason).toContain("timeout");
+    expect(rows.map((r) => r.kind)).toEqual(["dead", "dead", "unverified", "dead"]);
 
     // A URL used twice is requested once; the mailto and the .txt file are never requested.
     expect(calls.filter((c) => c.url === "https://dead.example/x" && c.method === "HEAD")).toHaveLength(1);
     expect(calls.some((c) => c.url.startsWith("mailto:") || c.url.includes("ignored.example"))).toBe(false);
-    // The 405 to HEAD is retried with GET; the timeout is retried once and then counted dead.
+    // The 405 to HEAD is retried with GET; a GET timeout gets one more GET and then counts as unverified.
     expect(calls.filter((c) => c.url === "https://nohead.example/p").map((c) => c.method)).toEqual(["HEAD", "GET"]);
-    expect(calls.filter((c) => c.url === "https://slow.example/p").map((c) => c.method)).toEqual(["HEAD", "GET"]);
+    expect(calls.filter((c) => c.url === "https://slow.example/p").map((c) => c.method)).toEqual(["HEAD", "GET", "GET"]);
+  });
+
+  test("a GET that times out is asked once more with GET, and a live retry keeps the link alive", async () => {
+    const dir = path.join(ROOT, "books-retry-timeout");
+    write("books-retry-timeout/b.md", "https://sleepy.example/a\n");
+    const { fn, calls } = fakeFetch({
+      "https://sleepy.example/a": { HEAD: "hang", GET: ["hang", { status: 200 }] },
+    });
+    expect(await checkLinks(dir, fn, { timeoutMs: 30 })).toEqual([]);
+    expect(calls.map((c) => c.method)).toEqual(["HEAD", "GET", "GET"]);
+  });
+
+  test("a GET with a network error is asked once more with GET, and a live retry keeps the link alive", async () => {
+    const dir = path.join(ROOT, "books-retry-neterr");
+    write("books-retry-neterr/b.md", "https://reset.example/a\n");
+    const { fn, calls } = fakeFetch({
+      "https://reset.example/a": { HEAD: { status: 403 }, GET: ["network-error", { status: 200 }] },
+    });
+    expect(await checkLinks(dir, fn, { timeoutMs: 30 })).toEqual([]);
+    expect(calls.map((c) => c.method)).toEqual(["HEAD", "GET", "GET"]);
+  });
+
+  test("a GET that fails again on the retry is unverified, with its reason kept", async () => {
+    const dir = path.join(ROOT, "books-retry-fail");
+    write("books-retry-fail/b.md", "https://refused.example/a\nhttps://stuck.example/b\n");
+    const { fn, calls } = fakeFetch({
+      "https://refused.example/a": { HEAD: "network-error", GET: "network-error" },
+      "https://stuck.example/b": { HEAD: "hang", GET: "hang" },
+    });
+    const rows = (await checkLinks(dir, fn, { timeoutMs: 30 })).map((d) => [d.url, d.kind, d.reason]);
+    expect(rows).toEqual([
+      ["https://refused.example/a", "unverified", "network error: fetch failed (after retry)"],
+      ["https://stuck.example/b", "unverified", "timeout after 30 ms (after retry)"],
+    ]);
+    expect(calls.filter((c) => c.url === "https://refused.example/a").map((c) => c.method)).toEqual(["HEAD", "GET", "GET"]);
+    expect(calls.filter((c) => c.url === "https://stuck.example/b").map((c) => c.method)).toEqual(["HEAD", "GET", "GET"]);
+  });
+
+  test("an HTTP 404, 410 or 5xx answer to GET is not retried and stays dead", async () => {
+    const dir = path.join(ROOT, "books-http-dead");
+    write("books-http-dead/b.md", ["https://g404.example/", "https://g410.example/", "https://g503.example/"].join("\n"));
+    const routes: Routes = {};
+    for (const s of [404, 410, 503]) routes[`https://g${s}.example/`] = { HEAD: "network-error", GET: { status: s } };
+    const { fn, calls } = fakeFetch(routes);
+    const rows = (await checkLinks(dir, fn, { timeoutMs: 30 })).map((d) => [d.url, d.kind, d.reason]);
+    expect(rows).toEqual([
+      ["https://g404.example/", "dead", "HTTP 404"],
+      ["https://g410.example/", "dead", "HTTP 410"],
+      ["https://g503.example/", "dead", "HTTP 503"],
+    ]);
+    expect(calls.filter((c) => c.method === "GET")).toHaveLength(3);
+  });
+
+  test("a retry that redirects to a denylisted host is dead", async () => {
+    const dir = path.join(ROOT, "books-retry-deny");
+    write("books-retry-deny/b.md", "https://expired.example/a\n");
+    const { fn } = fakeFetch({
+      "https://expired.example/a": { HEAD: "hang", GET: ["hang", { status: 200, url: "https://www.hugedomains.com/x" }] },
+    });
+    const rows = (await checkLinks(dir, fn, { timeoutMs: 30 })).map((d) => [d.url, d.kind, d.reason]);
+    expect(rows).toEqual([["https://expired.example/a", "dead", "redirected to denylisted host www.hugedomains.com"]]);
   });
 
   test("a network error to HEAD is retried with GET and a live GET keeps the link alive", async () => {
