@@ -115,15 +115,20 @@ describe("main", () => {
     fs.mkdirSync(path.join(booksDir, "buku-a"), { recursive: true });
     const calls: { cmd: string[]; cwd?: string; env?: Record<string, string | undefined> }[] = [];
     let workDir = "";
+    let readerScriptAtPrint: boolean | undefined;
     const run: Runner = (cmd, opts) => {
       calls.push({ cmd, cwd: opts.cwd, env: opts.env });
       const bin = path.basename(cmd[0]!);
       if (bin === "mdbook") {
         workDir = cmd[cmd.indexOf("-d") + 1]!;
+        fs.mkdirSync(workDir, { recursive: true });
         fs.writeFileSync(path.join(workDir, "print.html"), "<html><head></head><body>x</body></html>");
+        // Like the real build, mdBook also copies the reader script one level up.
+        fs.writeFileSync(path.join(workDir, "..", "shared-script.js"), "/* reader script */");
         return { exitCode: 0, stdout: "", stderr: "" };
       }
       if (bin === "chromium") {
+        readerScriptAtPrint = fs.existsSync(path.join(workDir, "..", "shared-script.js"));
         const flag = cmd.find((a) => a.startsWith("--print-to-pdf="))!;
         fs.writeFileSync(flag.slice("--print-to-pdf=".length), "%PDF-fake");
         return { exitCode: 0, stdout: "", stderr: "" };
@@ -143,8 +148,17 @@ describe("main", () => {
       log: (s: string) => logs.push(s),
       error: (s: string) => logs.push(s),
     };
-    return { root, booksDir, calls, logs, deps, workDir: () => workDir };
+    return { root, booksDir, calls, logs, deps, workDir: () => workDir, readerScriptAtPrint: () => readerScriptAtPrint };
   }
+
+  test("removes the reader script before printing, so its redirect cannot replace the page", () => {
+    // Measured 2026-11-01: with ../shared-script.js present, Chromium printed a one-page
+    // ERR_FILE_NOT_FOUND page instead of the book; a copy without it printed 91 pages.
+    const f = fixture(12, "Bab 1");
+    const out = path.join(f.root, "buku-a.pdf");
+    expect(main(["buku-a", "--out", out, "--books-dir", f.booksDir], f.deps)).toBe(0);
+    expect(f.readerScriptAtPrint()).toBe(false);
+  });
 
   test("builds, prints, validates, copies the PDF and removes its temp dir", () => {
     const f = fixture(12, "Bab 1");
@@ -158,9 +172,20 @@ describe("main", () => {
     expect(mdbook.env?.MDBOOK_OUTPUT__HTML__PRINT__ENABLE).toBe("true");
     const chrome = f.calls[1]!;
     expect(chrome.cwd).toBe(f.workDir());
-    expect(path.dirname(f.workDir())).toBe(f.root);
     expect(fs.existsSync(f.workDir())).toBe(false);
     expect(f.logs.join("\n")).toMatch(/12 pages.*A4/);
+  });
+
+  test("builds two levels inside its temp dir, so the theme's ../../ paths stay inside it", () => {
+    // book.toml reaches the shared CSS through ../../apps/...; mdBook resolves that from the
+    // -d folder, so a -d folder directly under /tmp made mdBook try to create /apps (2026-11-01).
+    const f = fixture(12, "Bab 1");
+    const out = path.join(f.root, "buku-a.pdf");
+    expect(main(["buku-a", "--out", out, "--books-dir", f.booksDir], f.deps)).toBe(0);
+    const temp = path.resolve(f.workDir(), "../..");
+    expect(path.dirname(temp)).toBe(f.root);
+    expect(path.basename(temp).startsWith("dawnbook-print-buku-a-")).toBe(true);
+    expect(fs.existsSync(temp)).toBe(false);
   });
 
   test("exits 1 and leaves no output when Chromium printed its error page", () => {
