@@ -6,28 +6,28 @@ Berikut adalah panduan lengkap mengenai nutrisi dan diet yang harus kamu ikuti s
 
 ## Mengapa Nutrisi Penting Setelah Operasi?
 
-Setelah tonsil diangkat, area tersebut akan membentuk keropeng (scab) putih yang sensitive. Diet yang tepat berfungsi untuk:
+Setelah tonsil diangkat, area tersebut akan membentuk keropeng putih yang sensitif. Diet yang tepat berfungsi untuk:
 
-1. **Mencegah Dehydration:** Kekurangan fluid adalah penyebab utama yang memaksa pasien post-tonsillectomy harus kembali dirawat di rumah sakit.
+1. **Mencegah Dehidrasi:** Kekurangan cairan adalah penyebab utama yang memaksa pasien pascatonsilektomi harus kembali dirawat di rumah sakit.
 2. **Mengurangi Nyeri:** Makanan bertekstur keras dapat menggores luka, sehingga memilih asupan lunak sangat membantu.
-3. **Mempercepat Pemulihan:** Asupan nutrition yang cukup akan mendukung tissue regeneration tenggorokan.
+3. **Mempercepat Pemulihan:** Asupan nutrisi yang cukup akan mendukung regenerasi jaringan tenggorokan.
 
-> **Insight Penting:** Tenggorokan yang lembap akan jauh lebih nyaman daripada tenggorokan yang kering. Hydration yang baik menjaga tissue tetap elastis dan mengurangi risiko keropeng lepas sebelum waktunya.
+> **Catatan Penting:** Tenggorokan yang lembap akan jauh lebih nyaman daripada tenggorokan yang kering. Hidrasi yang baik menjaga jaringan tetap elastis dan mengurangi risiko keropeng lepas sebelum waktunya.
 
-## 1. Menjaga Hydration Tubuh
+## 1. Menjaga Hidrasi Tubuh
 
-Molekul air $\text{H}_2\text{O}$ adalah asupan utama kamu saat ini. Menjaga tubuh tetap hydrated membantu mengencerkan lendir di tenggorokan dan menjaga area operasi tetap basah.
+Molekul air $\text{H}_2\text{O}$ adalah asupan utama kamu saat ini. Menjaga tubuh tetap terhidrasi membantu mengencerkan lendir di tenggorokan dan menjaga area operasi tetap basah.
 
-- Air putih bersuhu room temperature atau dingin.
-- Minuman electrolytes yang membantu menjaga keseimbangan ion tubuh.
-- Jus buah non-acidic seperti jus apel atau pir.
-- Teh herbal dingin tanpa caffeine.
+- Air putih bersuhu ruang atau dingin.
+- Minuman elektrolit yang membantu menjaga keseimbangan ion tubuh.
+- Jus buah yang tidak asam seperti jus apel atau pir.
+- Teh herbal dingin tanpa kafein.
 
 Pernahkah kamu merasakan bibir pecah-pecah saat kurang minum? Kondisi yang sama dapat terjadi pada area operasi di tenggorokan jika kamu kurang minum.
 
 ## 2. Prinsip "Dingin dan Lunak"
 
-Selama 24-48 jam pertama, fokus utamanya adalah kenyamanan. Suhu dingin sangat dianjurkan karena bersifat **vasokonstriktor** (menyempitkan pembuluh darah) yang membantu mengurangi swelling dan meminimalkan bleeding.
+Selama 24-48 jam pertama, fokus utamanya adalah kenyamanan. Suhu dingin sangat dianjurkan karena bersifat **vasokonstriktor** (menyempitkan pembuluh darah) yang membantu mengurangi pembengkakan dan meminimalkan perdarahan.
 
 - **Makanan yang Dianjurkan:**
   - Gelatin dan puding dingin.
@@ -37,24 +37,24 @@ Selama 24-48 jam pertama, fokus utamanya adalah kenyamanan. Suhu dingin sangat d
 
 ## 3. Fase Transisi ke Makanan Lunak
 
-Setelah melewati dua hari pertama, kamu bisa secara gradual memperkenalkan makanan lunak lainnya (soft diet) yang disajikan dalam suhu dingin atau room temperature:
+Setelah melewati dua hari pertama, kamu bisa secara bertahap memperkenalkan makanan lunak lainnya yang disajikan dalam suhu dingin atau suhu ruang:
 
-- Telur orak-arik (scrambled eggs) yang dimasak sangat lembut.
+- Telur orak-arik yang dimasak sangat lembut.
 - Oatmeal atau bubur gandum dingin.
-- Kentang tumbuk (mashed potatoes) tanpa bumbu yang terlalu kuat.
+- Kentang tumbuk tanpa bumbu yang terlalu kuat.
 - Ikan kukus yang dihaluskan (pastikan suhunya tidak panas).
 - Pisang lumat atau buah alpukat yang matang.
 
-## Daftar Hitam (Blacklist) Makanan dan Minuman
+## Daftar Hitam Makanan dan Minuman
 
 Selama masa pemulihan, hindari kategori makanan berikut untuk mencegah komplikasi:
 
 | Kategori | Alasan Medis | Contoh |
 | --- | --- | --- |
 | **Keras & Tajam** | Dapat merobek keropeng yang terbentuk di tenggorokan. | Keripik, biskuit keras, roti panggang kering. |
-| **Asam** | Menimbulkan rasa perih yang hebat pada open wound. | Jeruk, lemon, tomat, jus jeruk. |
-| **Pedas** | Mengiritasi tissue yang sedang inflamed. | Sambal, lada berlebih, kari pedas. |
-| **Suhu Panas** | Memicu dilation of blood vessels (risiko bleeding). | Sup panas, kopi/teh panas. |
+| **Asam** | Menimbulkan rasa perih yang hebat pada luka terbuka. | Jeruk, lemon, tomat, jus jeruk. |
+| **Pedas** | Mengiritasi jaringan yang sedang meradang. | Sambal, lada berlebih, kari pedas. |
+| **Suhu Panas** | Memicu pelebaran pembuluh darah (risiko perdarahan). | Sup panas, kopi/teh panas. |
 | **Lengket** | Sulit ditelan dan bisa menempel di area operasi. | Selai kacang kental, permen karet. |
 
 ## Contoh Menu Aman Hari Keempat
@@ -62,7 +62,7 @@ Selama masa pemulihan, hindari kategori makanan berikut untuk mencegah komplikas
 Bayangkan ini adalah hari keempat pemulihanmu. Berikut adalah contoh menu aman yang bisa diterapkan:
 
 - **Sarapan:** Satu mangkuk kecil yogurt vanila dingin yang disajikan bersama pisang lumat.
-- **Camilan Pagi:** Segelas jus apel bersuhu room temperature dan es mambo.
+- **Camilan Pagi:** Segelas jus apel bersuhu ruang dan es mambo.
 - **Makan Siang:** Bubur sumsum dingin atau kentang tumbuk halus yang disiram sedikit kaldu ayam hangat kuku.
 - **Camilan Sore:** Puding cokelat atau gelatin rasa buah.
 - **Makan Malam:** Telur orak-arik lembut dengan taburan sedikit keju leleh.
@@ -71,10 +71,10 @@ Bayangkan ini adalah hari keempat pemulihanmu. Berikut adalah contoh menu aman y
 ## Tips Tambahan untuk Keberhasilan Diet
 
 1. **Gunakan Sendok Kecil:** Mengambil suapan dalam porsi kecil membantu kamu mengontrol jumlah makanan yang melewati tenggorokan.
-2. Hindari penggunaan sedotan karena negative pressure saat menyedot berpotensi merusak surgery wound dan memicu bleeding. Sebaiknya minum langsung dari gelas.
-3. **Makan Setelah Minum Obat Nyeri:** Waktu paling ideal untuk makan adalah 30 hingga 60 menit setelah mengonsumsi painkiller dari dokter, saat medication effect bekerja optimal.
+2. Hindari penggunaan sedotan karena tekanan negatif saat menyedot berpotensi merusak luka operasi dan memicu perdarahan. Sebaiknya minum langsung dari gelas.
+3. **Makan Setelah Minum Obat Nyeri:** Waktu paling ideal untuk makan adalah 30 hingga 60 menit setelah mengonsumsi obat pereda nyeri dari dokter, saat efek obatnya bekerja optimal.
 4. Jaga kebersihan mulut dengan membilasnya perlahan memakai air putih setelah makan untuk menyingkirkan sisa makanan.
 
-**Penting:** Jika kamu merasa sangat kesakitan saat menelan hingga sama sekali tidak bisa minum fluid selama lebih dari beberapa jam, segera hubungi dokter. Dehydration dapat terjadi dengan cepat, terutama pada anak-anak.
+**Penting:** Jika kamu merasa sangat kesakitan saat menelan hingga sama sekali tidak bisa minum cairan selama lebih dari beberapa jam, segera hubungi dokter. Dehidrasi dapat terjadi dengan cepat, terutama pada anak-anak.
 
-Nutrition adalah bahan bakar untuk cell repair. Meskipun menelan terasa sulit, setiap suapan makanan lembut dan setiap tegukan air akan mempercepat pemulihan tubuhmu.
+Nutrisi adalah bahan bakar untuk perbaikan sel. Meskipun menelan terasa sulit, setiap suapan makanan lembut dan setiap tegukan air akan mempercepat pemulihan tubuhmu.
