@@ -1,6 +1,6 @@
 ## Strategi Campuran (Mixed Strategies)
 
-Bayangkan kamu sedang bermain **Batu-Gunting-Kertas**. Jika kamu selalu mengeluarkan "Batu", lawan kamu akan dengan mudah mengalahkan kamu dengan "Kertas". Jika kamu beralih ke pola yang terbaca (misalnya: Batu, lalu Gunting, lalu Kertas), lawan yang cerdas akan segera menyadari pola tersebut dan mengeksploitasinya.
+Bayangkan kamu sedang bermain **Batu-Gunting-Kertas**. Jika kamu selalu mengeluarkan "Batu", lawan kamu akan dengan mudah mengalahkan kamu dengan "Kertas". Jika kamu beralih ke pola yang terbaca (misalnya Batu, lalu Gunting, lalu Kertas), lawan yang cerdas akan segera menyadari pola tersebut dan mengeksploitasinya.
 
 Dalam situasi ini, satu-satunya cara untuk tidak bisa dikalahkan secara konsisten adalah dengan menjadi **acak**. Inilah inti dari **Strategi Campuran** (*Mixed Strategies*).
 
@@ -20,7 +20,7 @@ Tidak ada titik "diam" di sini. Setiap kali satu pemain menetapkan satu pilihan 
 
 ### 2. Definisi Strategi Campuran
 
-**Strategi Campuran** adalah sebuah strategi ketika pemain menetapkan **probabilitas** untuk setiap strategi murni yang tersedia. Bukannya memilih satu aksi secara permanen, pemain "mengocok" pilihan mereka berdasarkan distribusi peluang tertentu.
+**Strategi Campuran** adalah sebuah strategi ketika pemain menetapkan **probabilitas** untuk setiap strategi murni yang tersedia. Pemain lalu "mengocok" pilihan mereka berdasarkan distribusi peluang tertentu.
 
 > **Definisi Formal:** Jika seorang pemain memiliki strategi murni $S_1, S_2, \dots, S_n$, maka strategi campuran adalah vektor probabilitas $P = (p_1, p_2, \dots, p_n)$ sedemikian sehingga:
 >
@@ -40,8 +40,8 @@ Agar sebuah strategi campuran menjadi Ekuilibrium Nash, probabilitas yang kamu p
 
 Dua pemain, A dan B, masing-masing menaruh koin di meja secara sembunyi-sembunyi (Angka atau Gambar).
 
-- Jika koin **cocok** (A: Angka, B: Angka), Pemain A menang (mendapat 1 poin dari B).
-- Jika koin **berbeda** (A: Angka, B: Gambar), Pemain B menang (mendapat 1 poin dari A).
+- Jika koin **cocok** (misalnya keduanya Angka), Pemain A menang (mendapat 1 poin dari B).
+- Jika koin **berbeda** (misalnya A Angka dan B Gambar), Pemain B menang (mendapat 1 poin dari A).
 
 **Matriks Hasil (*Payoff Matrix*):**
 
@@ -84,7 +84,7 @@ Perhitungan yang sama dari sisi Pemain A (menyamakan ekspektasi hasilnya saat me
 
 ### 4. Strategi Campuran di Keamanan Siber, Olahraga, dan Hukum
 
-Strategi campuran bukan sekadar teori matematika, melainkan alat pertahanan dan optimasi di dunia nyata.
+Di dunia nyata, strategi campuran dipakai sebagai alat pertahanan dan optimasi.
 
 #### A. Keamanan Siber dan Audit
 
@@ -115,6 +115,6 @@ Polisi lalu lintas tidak bisa berjaga di setiap sudut jalan setiap saat. Dengan 
 
 - **Pertanyaan Refleksi:** *Dalam kehidupan sehari-hari, pernahkah kamu sengaja bersikap tidak terduga agar orang lain tidak bisa menebak langkahmu? Apakah itu secara tidak sadar merupakan bentuk strategi campuran?*
 
-**Latihan Cepat:** Dalam permainan Batu-Gunting-Kertas, jika lawan kamu ternyata sangat sering mengeluarkan **Batu** (misal 60% waktu), apa yang harus kamu lakukan dengan strategi campuranmu untuk mengeksploitasi kelemahan tersebut? *(Petunjuk: Kamu tidak lagi harus 1/3, 1/3, 1/3. Kamu harus menyesuaikan probabilitasmu untuk lebih sering mengeluarkan Kertas!)*
+**Latihan Cepat:** Dalam permainan Batu-Gunting-Kertas, jika lawan kamu ternyata sangat sering mengeluarkan **Batu** (misal 60% waktu), apa yang harus kamu lakukan dengan strategi campuranmu untuk mengeksploitasi kelemahan tersebut? *(Petunjuk kecil, sesuaikan probabilitasmu supaya lebih sering mengeluarkan Kertas daripada pembagian rata 1/3, 1/3, 1/3!)*
 
 > **Pesan Utama:** Strategi campuran mengajarkan kita bahwa dalam persaingan, **ketidakpastian adalah aset**. Dengan menjadi acak secara terukur, kamu mencegah lawan mengeksploitasi pola pilihanmu.

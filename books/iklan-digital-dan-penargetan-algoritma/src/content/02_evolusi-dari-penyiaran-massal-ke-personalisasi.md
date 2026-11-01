@@ -23,17 +23,17 @@ Seiring berkembangnya media, pengiklan mulai beralih ke **Segmentasi**. Alih-ali
 - **Majalah Niche:** Iklan suku cadang mobil di majalah otomotif, atau iklan kosmetik di majalah wanita.
 - **Slot Waktu TV:** Iklan mainan anak-anak saat jam tayang kartun hari Minggu pagi.
 
-Meskipun lebih baik daripada penyiaran massal, segmentasi tetap memiliki kelemahan: ia memperlakukan semua orang dalam kelompok tersebut sebagai individu yang identik.
+Meskipun lebih baik daripada penyiaran massal, segmentasi tetap memiliki kelemahan karena memperlakukan semua orang dalam kelompok tersebut sebagai individu yang identik.
 
 ### 3. Era Personalisasi
 
-Masuknya internet dan teknologi algoritma menciptakan ledakan data yang memungkinkan transisi ke **Personalisasi** (sering disebut *One-to-One Marketing*). Di sini, iklan bukan lagi tentang "siapa kamu" (demografi), melainkan tentang "apa yang kamu lakukan" (perilaku).
+Masuknya internet dan teknologi algoritma menciptakan ledakan data yang memungkinkan transisi ke **Personalisasi** (sering disebut *One-to-One Marketing*). Di sini, iklan berpijak pada "apa yang kamu lakukan" (perilaku). Patokan lama, "siapa kamu" (demografi), tidak lagi cukup.
 
 #### Tiga Pergeseran Fokus
 
-1. **Dari Demografi ke Psikografi & Perilaku:** Bukan lagi menargetkan "Wanita, 25-35 tahun", melainkan "Seseorang yang baru saja mencari resep makanan sehat dan sering mengunjungi gym".
+1. **Dari Demografi ke Psikografi & Perilaku:** Target lama berbunyi "Wanita, 25-35 tahun". Target baru berbunyi "Seseorang yang baru saja mencari resep makanan sehat dan sering mengunjungi gym".
 2. **Dari Statis ke Dinamis:** Iklan dapat berubah secara *real-time* berdasarkan preferensi pengguna.
-3. **Dari Interupsi ke Relevansi:** Iklan tidak lagi dianggap sebagai gangguan, melainkan sebagai pemberi solusi atau rekomendasi yang berguna.
+3. **Dari Interupsi ke Relevansi:** Iklan mulai dipandang sebagai pemberi solusi atau rekomendasi yang berguna.
 
 **Model Logika Personalisasi:** Jika kita menggunakan notasi sederhana untuk menggambarkan perbedaan ini:
 
@@ -71,4 +71,4 @@ Evolusi dari penyiaran massal ke personalisasi adalah perjalanan dari kuantitas 
 
 > Jika iklan yang kamu lihat hari ini sangat akurat dengan apa yang kamu pikirkan, apakah kamu merasa terbantu karena kemudahannya, atau merasa tidak nyaman karena merasa "diawasi"? Perbatasan antara relevansi dan privasi adalah tantangan terbesar dalam evolusi ini.
 
-*Di bagian selanjutnya, kita akan membedah data yang memungkinkan personalisasi ini terjadi: **Big Data**.*
+*Di bagian selanjutnya, kita akan membedah **Big Data**, kumpulan data yang memungkinkan personalisasi ini terjadi.*

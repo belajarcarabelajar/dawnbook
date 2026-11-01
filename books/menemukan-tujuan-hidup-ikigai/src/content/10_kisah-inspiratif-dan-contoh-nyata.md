@@ -6,7 +6,7 @@ Mencari *Ikigai* adalah perjalanan personal. Melihat bagaimana orang lain menemu
 
 ### Jiro Ono Menekuni Sushi
 
-Jiro Ono adalah gambaran nyata tentang *Ikigai* sebagai pengabdian. Ia tidak menciptakan sesuatu dari nol, melainkan menyempurnakan hal yang sudah ia cintai dan kuasai. Ia menjalankan restoran sushi kecil dengan hanya sepuluh kursi di Tokyo, tetapi ketekunannya membuahkan penghargaan tiga bintang Michelin. Dedikasinya terhadap kesempurnaan rasa dan teknik pembuatan sushi yang diasah selama puluhan tahun menjawab keinginan penikmat kuliner akan mutu tinggi. Keahlian tingkat master ini pada akhirnya membawa kesuksesan finansial. Perjalanan Jiro Ono mengajarkan bahwa *Ikigai* lahir dari kesabaran, latihan berulang-ulang, dan keinginan untuk terus berkembang.
+Jiro Ono adalah gambaran nyata tentang *Ikigai* sebagai pengabdian. Ia menyempurnakan hal yang sudah ia cintai dan kuasai. Ia menjalankan restoran sushi kecil dengan hanya sepuluh kursi di Tokyo, tetapi ketekunannya membuahkan penghargaan tiga bintang Michelin. Dedikasinya terhadap kesempurnaan rasa dan teknik pembuatan sushi yang diasah selama puluhan tahun menjawab keinginan penikmat kuliner akan mutu tinggi. Keahlian tingkat master ini pada akhirnya membawa kesuksesan finansial. Perjalanan Jiro Ono mengajarkan bahwa *Ikigai* lahir dari kesabaran, latihan berulang-ulang, dan keinginan untuk terus berkembang.
 
 ### Jane Goodall Menjaga Simpanse
 
@@ -20,11 +20,11 @@ J.K. Rowling membuktikan bahwa *Ikigai* bisa lahir di masa-masa paling sulit. Me
 
 Di bidang bisnis, prinsip *Ikigai* terlihat jelas pada Tadashi Yanai (pendiri UNIQLO) dan Masayoshi Son (pendiri SoftBank). Mereka mengawali langkah dari minat kuat pada inovasi dan strategi. Keduanya menjadikan *passion* ini sebagai *profession* yang ditekuni bertahun-tahun melewati ragam kegagalan. Sebagai *vocation*, entitas bisnis yang mereka bangun menciptakan keuntungan besar. Lebih jauh lagi, mereka memasukkan unsur *mission* dalam kepemimpinannya. Tadashi Yanai berinisiatif membuka lapangan kerja bagi penyandang disabilitas, sementara Masayoshi Son mendirikan SoftBank Academia dan SoftBank University untuk membuka akses pendidikan lebih luas bagi generasi muda.
 
-> Setiap orang memiliki kombinasi *Ikigai* masing-masing, tetapi bermuara pada titik yang sama: ketenangan dan kepuasan batin.
+> Setiap orang memiliki kombinasi *Ikigai* masing-masing, dan semuanya bermuara pada ketenangan dan kepuasan batin.
 
 ## Memetik Pelajaran untuk Diri Sendiri
 
-Menemukan *Ikigai* tidak berarti kamu harus memutar arah hidup 180 derajat secara tiba-tiba. Menyempurnakan dan menekuni pekerjaan yang sudah kamu jalani saat ini juga bisa membawa kepuasan mendalam. Minat yang kuat, entah itu pada penelitian hewan atau penulisan fiksi, kerap menjadi pendorong awal.
+Menyempurnakan dan menekuni pekerjaan yang sudah kamu jalani saat ini juga bisa membawa kepuasan mendalam, jadi menemukan *Ikigai* tidak menuntutmu memutar arah hidup 180 derajat secara tiba-tiba. Minat yang kuat, entah itu pada penelitian hewan atau penulisan fiksi, kerap menjadi pendorong awal.
 
 Waktu akan terasa lebih berharga jika apa yang kamu kerjakan bisa berdampak positif bagi orang lain. Keahlian adalah fondasi utama supaya karyamu memiliki nilai jual atau manfaat yang dihargai masyarakat. Tidak jarang, jalan menemukannya cukup berliku. Fellexandro Ruby, seorang *creative entrepreneur*, pernah berpindah sembilan profesi sebelum benar-benar menemukan ritme *Ikigai*-nya.
 

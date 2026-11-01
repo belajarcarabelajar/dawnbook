@@ -24,7 +24,7 @@ Pada peluruhan beta, situasinya membingungkan para fisikawan awal abad ke-20. Pa
 
 ### 2. Memahami Grafik Spektrum Energi
 
-Jika kita memplot jumlah partikel beta yang dipancarkan terhadap energinya, kita akan mendapatkan kurva berbentuk lonceng yang landai, bukan garis lurus tunggal.
+Jika kita memplot jumlah partikel beta yang dipancarkan terhadap energinya, kita akan mendapatkan kurva berbentuk lonceng yang landai dan menyebar di banyak nilai energi.
 
 - **Energi Kinetik ($K$):** Sumbu horizontal menunjukkan energi yang dibawa partikel beta.
 - **Jumlah Partikel ($N$):** Sumbu vertikal menunjukkan seberapa banyak partikel yang keluar dengan energi tersebut.
@@ -36,7 +36,7 @@ Q = K_{\beta} + K_{\nu} + K_{\text{inti}}
 $$
 </div>
 
-Karena massa inti sangat besar dibandingkan elektron, energi kinetik inti ($K_{\text{inti}}$) biasanya diabaikan, sehingga: $Q \approx K_{\beta} + K_{\nu}$
+Karena massa inti sangat besar dibandingkan elektron, energi kinetik inti ($K_{\text{inti}}$) biasanya diabaikan, sehingga $Q \approx K_{\beta} + K_{\nu}$.
 
 Dengan $K_{\nu}$ adalah energi yang dibawa oleh partikel yang kita sebut **neutrino**.
 
@@ -51,7 +51,7 @@ Ada dua kemungkinan bagi fisikawan saat itu:
 
 Pada tahun 1930, Wolfgang Pauli memilih opsi kedua. Ia mengusulkan keberadaan partikel netral yang sangat ringan (kemudian dinamai neutrino oleh Enrico Fermi) yang berbagi energi dengan partikel beta.
 
-**Implikasinya:**
+Usulan Pauli membawa tiga akibat.
 
 - Jika partikel beta membawa energi kecil, neutrino membawa energi besar.
 - Jika partikel beta membawa energi maksimal ($E_{\text{max}}$), maka neutrino membawa energi mendekati nol.
@@ -70,13 +70,13 @@ Pada tahun 1930, Wolfgang Pauli memilih opsi kedua. Ia mengusulkan keberadaan pa
 
 Dalam dunia nyata, pemahaman tentang spektrum kontinu ini penting dalam **Dosimetri Radiasi** dan **Identifikasi Isotop**.
 
-**Brakiterapi Medis** Dalam pengobatan kanker menggunakan sumber beta seperti Strontium-90 (${}^{90}\text{Sr}$), dokter tidak hanya melihat energi maksimumnya. Karena spektrumnya kontinu, dosis radiasi yang diterima jaringan tidak seragam di seluruh kedalaman.
+**Brakiterapi Medis** Dalam pengobatan kanker menggunakan sumber beta seperti Strontium-90 (${}^{90}\text{Sr}$), energi maksimum saja belum cukup bagi dokter. Karena spektrumnya kontinu, dosis radiasi yang diterima jaringan tidak seragam di seluruh kedalaman.
 
 - Partikel beta dengan energi rendah akan berhenti di permukaan kulit (dosis permukaan tinggi).
 - Partikel beta dengan energi tinggi akan menembus lebih dalam ke tumor. Dengan memahami kurva spektrum energi, fisikawan medis dapat menghitung **Energi Rata-rata** ($\bar{E}$), yang biasanya bernilai sekitar sepertiga dari $E_{\text{max}}$ ($E_{\text{avg}} \approx \frac{1}{3} E_{\text{max}}$).
 
 ### Latihan Berpikir
 
-*Coba renungkan: Jika kita berhasil menciptakan alat pendeteksi yang bisa menangkap elektron dan neutrino secara bersamaan dalam sebuah peluruhan beta, apakah kita akan melihat spektrum garis kembali untuk total energi keduanya? Mengapa demikian?*
+*Coba renungkan, jika kita berhasil menciptakan alat pendeteksi yang bisa menangkap elektron dan neutrino secara bersamaan dalam sebuah peluruhan beta, apakah kita akan melihat spektrum garis kembali untuk total energi keduanya? Mengapa demikian?*
 
 > **Kesimpulan Penting:** Spektrum energi kontinu pada peluruhan beta adalah bukti tidak langsung tetapi kuat akan keberadaan **neutrino**. Tanpa distribusi energi yang kontinu ini, kita mungkin tidak akan pernah menyadari adanya neutrino.

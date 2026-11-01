@@ -1,6 +1,6 @@
 ## Mekanisme Persaingan dan Efisiensi Pasar
 
-Dalam sistem ekonomi Laissez-faire, persaingan bukanlah sebuah kekacauan, melainkan proses yang tertib. Tanpa adanya pengatur pusat (pemerintah), pasar mengandalkan kompetisi antarindividu dan perusahaan untuk menentukan siapa yang paling mampu memberikan nilai terbaik. Dalam pandangan ini, persaingan di pasar bebas menjadi kunci kemakmuran masyarakat.
+Dalam sistem ekonomi Laissez-faire, persaingan adalah proses yang tertib. Tanpa adanya pengatur pusat (pemerintah), pasar mengandalkan kompetisi antarindividu dan perusahaan untuk menentukan siapa yang paling mampu memberikan nilai terbaik. Dalam pandangan ini, persaingan di pasar bebas menjadi kunci kemakmuran masyarakat.
 
 ## Persaingan Antarprodusen
 
@@ -28,16 +28,16 @@ Karena dalam pasar persaingan sempurna produsen tidak bisa menentukan harga sesu
 
 ### 2. Inovasi Teknologi
 
-Persaingan memicu apa yang disebut para ekonom sebagai "penghancuran kreatif". Perusahaan tidak hanya bersaing lewat harga, tetapi juga lewat **kebaruan**.
+Persaingan memicu apa yang disebut para ekonom sebagai "penghancuran kreatif". Selain lewat harga, perusahaan bersaing lewat **kebaruan**.
 
 - **Inovasi Proses:** Menemukan cara baru memproduksi barang (misalnya, penggunaan robotika di pabrik).
 - **Inovasi Produk:** Menciptakan barang yang benar-benar baru yang lebih diinginkan konsumen.
 
-> *Mengapa ponsel pintar hari ini jauh lebih canggih tetapi relatif lebih terjangkau dibandingkan komputer raksasa pada tahun 1970-an? Jawabannya bukan karena kemurahan hati produsen, melainkan karena rasa takut mereka akan tertinggal oleh pesaing yang lebih inovatif.*
+> *Mengapa ponsel pintar hari ini jauh lebih canggih tetapi relatif lebih terjangkau dibandingkan komputer raksasa pada tahun 1970-an? Pendorongnya adalah rasa takut produsen akan tertinggal oleh pesaing yang lebih inovatif.*
 
 ## Keuntungan bagi Konsumen
 
-Sering kali muncul kekhawatiran bahwa tanpa campur tangan pemerintah, perusahaan akan menindas konsumen. Namun, teori Laissez-faire berpendapat sebaliknya: di pasar bebas berlaku **Kedaulatan Konsumen**, yaitu konsumen yang menentukan arah pasar.
+Sering kali muncul kekhawatiran bahwa tanpa campur tangan pemerintah, perusahaan akan menindas konsumen. Namun, teori Laissez-faire berpendapat sebaliknya. Di pasar bebas berlaku **Kedaulatan Konsumen**, yaitu konsumen yang menentukan arah pasar.
 
 ### Penurunan Harga secara Alami
 
@@ -45,7 +45,7 @@ Ketika sebuah perusahaan menemukan metode produksi yang lebih efisien, mereka da
 
 ### Peningkatan Kualitas
 
-Persaingan bukan hanya soal harga murah. Jika dua produk memiliki harga yang sama, konsumen akan memilih yang memiliki kualitas lebih baik, layanan purna jual yang lebih unggul, atau fitur yang lebih banyak. Persaingan memaksa produsen untuk terus mendengarkan keinginan pasar.
+Harga murah hanya satu sisi persaingan. Jika dua produk memiliki harga yang sama, konsumen akan memilih yang memiliki kualitas lebih baik, layanan purna jual yang lebih unggul, atau fitur yang lebih banyak. Persaingan memaksa produsen untuk terus mendengarkan keinginan pasar.
 
 > "Bukan dari kemurahan hati tukang daging, tukang pembuat bir, atau tukang roti kita mengharapkan makan malam kita, tetapi dari penghargaan mereka terhadap kepentingan diri mereka sendiri." - **Adam Smith**
 
@@ -89,6 +89,6 @@ Tanpa adanya persaingan bebas yang mendorong inovasi ini, kita mungkin masih aka
 
 ## Persaingan Menyaring Perusahaan
 
-Mekanisme persaingan dalam ekonomi Laissez-faire bertindak sebagai filter alami. Ia menyaring perusahaan yang tidak efisien dan memberikan penghargaan kepada mereka yang inovatif. Hasil akhirnya bukanlah kekacauan, melainkan sistem yang secara otomatis mengarahkan energi individu yang berorientasi pada kepentingan diri menuju satu tujuan: **menyediakan barang terbaik dengan harga terendah bagi masyarakat luas.**
+Mekanisme persaingan dalam ekonomi Laissez-faire bertindak sebagai filter alami. Ia menyaring perusahaan yang tidak efisien dan memberikan penghargaan kepada mereka yang inovatif. Hasil akhirnya adalah sistem yang secara otomatis mengarahkan energi individu yang berorientasi pada kepentingan diri untuk **menyediakan barang terbaik dengan harga terendah bagi masyarakat luas.**
 
 > **Refleksi:** Dapatkah kamu memikirkan satu produk di sekitar kamu yang kualitasnya menurun tetapi harganya terus naik? Jika ya, apakah di industri tersebut terdapat persaingan bebas, ataukah ada hambatan masuk yang diciptakan oleh regulasi?

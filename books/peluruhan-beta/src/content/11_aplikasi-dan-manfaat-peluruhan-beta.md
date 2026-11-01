@@ -1,8 +1,8 @@
 ## Aplikasi dan Manfaat Peluruhan Beta dalam Kehidupan
 
-Setelah kita mempelajari cara atom tak stabil melepaskan energi lewat peluruhan beta, muncul pertanyaan: **Apa gunanya semua radiasi ini bagi manusia?**
+Setelah kita mempelajari cara atom tak stabil melepaskan energi lewat peluruhan beta, kamu mungkin bertanya, **apa gunanya semua radiasi ini bagi manusia?**
 
-Meskipun radiasi sering kali dianggap menakutkan, peluruhan beta sebenarnya banyak dipakai dalam dunia medis, industri manufaktur, hingga pengungkapan sejarah peradaban manusia. Karakteristik partikel beta (yang memiliki daya tembus sedang: lebih kuat dari alfa tetapi lebih lemah dari gamma) membuatnya cocok untuk tugas-tugas presisi yang tidak bisa dilakukan oleh jenis radiasi lainnya.
+Meskipun radiasi sering kali dianggap menakutkan, peluruhan beta sebenarnya banyak dipakai dalam dunia medis, industri manufaktur, hingga pengungkapan sejarah peradaban manusia. Karakteristik partikel beta (daya tembusnya sedang, lebih kuat dari alfa tetapi lebih lemah dari gamma) membuatnya cocok untuk tugas-tugas presisi yang tidak bisa dilakukan oleh jenis radiasi lainnya.
 
 Mari kita jelajahi bagaimana partikel kecil berkecepatan tinggi ini bekerja untuk kita.
 
@@ -42,7 +42,7 @@ Pernahkah muncul pertanyaan bagaimana pabrik kertas atau plastik memastikan kete
 
 Bayangkan sorotan senter di balik selembar kertas. Jika kertasnya tipis, cahaya yang menembus akan terang. Jika kertasnya tebal, cahaya akan meredup. Partikel beta bekerja dengan prinsip yang sama.
 
-1. **Sumber Radiasi:** Sebuah sumber beta (biasanya **Strontium-90**) diletakkan di satu sisi material yang sedang diproduksi (misal: lembaran aluminium foil).
+1. **Sumber Radiasi:** Sebuah sumber beta (biasanya **Strontium-90**) diletakkan di satu sisi material yang sedang diproduksi (misalnya lembaran aluminium foil).
 2. **Detektor:** Sebuah detektor (Geiger counter) diletakkan di sisi yang berlawanan.
 3. **Logika Kontrol:**
    - Jika jumlah partikel beta yang terdeteksi **berkurang**, artinya material terlalu **tebal** (lebih banyak partikel yang terserap).
@@ -103,4 +103,4 @@ Beberapa jenis sensor asap (smoke detector) menggunakan prinsip ionisasi yang mi
 | **Industri** | ${}^{90}\text{Sr}$, ${}^{85}\text{Kr}$ | Pengukuran ketebalan | Daya tembus yang sensitif terhadap massa jenis |
 | **Arkeologi** | ${}^{14}\text{C}$ | Penanggalan Arkeologi | Laju peluruhan beta yang konstan (Waktu paruh) |
 
-> **Insight Penting:** Aplikasi peluruhan beta menunjukkan bahwa radiasi bukan sekadar bahaya yang harus dihindari, melainkan alat yang presisi. Kuncinya terletak pada pemahaman kita terhadap daya tembus dan waktu paruh isotop tersebut.
+> **Insight Penting:** Aplikasi peluruhan beta menunjukkan bahwa radiasi yang sering ditakuti juga bisa menjadi alat yang presisi. Kuncinya terletak pada pemahaman kita terhadap daya tembus dan waktu paruh isotop tersebut.

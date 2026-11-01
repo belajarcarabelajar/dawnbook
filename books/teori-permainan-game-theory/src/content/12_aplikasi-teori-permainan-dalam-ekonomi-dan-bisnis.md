@@ -1,6 +1,6 @@
 ## Aplikasi Teori Permainan dalam Ekonomi dan Bisnis
 
-Pernahkah kamu bertanya-tanya mengapa perusahaan besar seperti Samsung dan Apple harus memperhitungkan langkah pesaing sebelum meluncurkan produk? Atau mengapa harga tiket pesawat bisa berubah secara drastis hanya dalam hitungan jam? Dalam ekonomi, kesuksesan sebuah bisnis tidak hanya ditentukan oleh keputusannya sendiri, tetapi juga oleh bagaimana keputusan tersebut berinteraksi dengan langkah para pesaingnya.
+Pernahkah kamu bertanya-tanya mengapa perusahaan besar seperti Samsung dan Apple harus memperhitungkan langkah pesaing sebelum meluncurkan produk? Atau mengapa harga tiket pesawat bisa berubah secara drastis hanya dalam hitungan jam? Dalam ekonomi, kesuksesan sebuah bisnis ditentukan oleh keputusannya sendiri dan oleh cara keputusan itu berinteraksi dengan langkah para pesaingnya.
 
 Dalam bagian ini, kita akan melihat bagaimana Teori Permainan membantu memahami persaingan pasar, dinamika harga, dan cara kerja sistem lelang.
 
@@ -48,7 +48,7 @@ Bayangkan dua maskapai penerbangan, *Lestari Air* dan *Mega Flight*, yang melaya
 
 *Hasilnya?* Keduanya cenderung memilih harga rendah (**Ekuilibrium Nash**) untuk melindungi diri agar tidak "dihancurkan" oleh lawan, meskipun jika mereka bekerja sama, mereka bisa mendapatkan hasil yang lebih baik.
 
-*Pernahkah kamu melihat iklan "Kami memberikan jaminan harga termurah, jika ada yang lebih murah kami ganti selisihnya"? Secara strategis, ini bukan sekadar janji ke konsumen, melainkan sinyal kepada pesaing: "Jangan coba-coba turunkan harga, karena saya pasti akan mengikutinya dan kita berdua akan rugi."*
+*Pernahkah kamu melihat iklan "Kami memberikan jaminan harga termurah, jika ada yang lebih murah kami ganti selisihnya"? Secara strategis, janji ke konsumen itu juga mengirim sinyal kepada pesaing, "Jangan coba-coba turunkan harga, karena saya pasti akan mengikutinya dan kita berdua akan rugi."*
 
 ## 3. Penentuan Harga lewat Lelang
 
@@ -56,7 +56,7 @@ Lelang adalah salah satu aplikasi Teori Permainan, digunakan mulai dari menjual 
 
 ### Jenis-Jenis Lelang Utama
 
-1. **Lelang Inggris (Ascending-Price):** Harga naik terus sampai hanya tersisa satu penawar. Strategi optimal: Berhenti saat harga melebihi nilai subjektif kamu terhadap barang tersebut.
+1. **Lelang Inggris (Ascending-Price):** Harga naik terus sampai hanya tersisa satu penawar. Strategi optimalnya adalah berhenti saat harga melebihi nilai subjektif kamu terhadap barang tersebut.
 2. **Lelang Belanda (Descending-Price):** Juru lelang memulai dengan harga sangat tinggi dan menurunkannya sampai ada orang yang berteriak "Beli!". Ini mengandalkan kecepatan dan nyali.
 3. **Lelang Harga Pertama (First-Price Sealed-Bid):** Penawar memasukkan tawaran dalam amplop tertutup. Penawar tertinggi menang dan membayar sesuai angka yang ia tulis. Di sini sering terjadi *bid shading* (menawar di bawah nilai asli agar dapat untung).
 4. **Lelang Vickrey (Second-Price Sealed-Bid):** Penawar tertinggi menang, tetapi ia hanya perlu membayar **harga yang ditawarkan oleh penawar tertinggi kedua**.
@@ -72,7 +72,7 @@ Dalam lelang ketika nilai barang tidak pasti (misalnya hak pengeboran minyak), p
 Setiap kali kamu mencari sesuatu di Google, terjadi sebuah lelang dalam hitungan milidetik. Google menggunakan variasi dari **Lelang Vickrey** untuk menentukan iklan mana yang muncul di atas.
 
 - **Skenario:** Ada 3 slot iklan dan 5 perusahaan yang menawar.
-- **Mekanisme:** Google tidak hanya melihat siapa yang menawar paling tinggi (bid), tapi juga kualitas iklan tersebut. Namun, poin pentingnya adalah pengiklan biasanya hanya membayar sedikit di atas tawaran pesaing di bawahnya.
+- **Mekanisme:** Google melihat siapa yang menawar paling tinggi (bid) sekaligus kualitas iklan tersebut. Namun, poin pentingnya adalah pengiklan biasanya hanya membayar sedikit di atas tawaran pesaing di bawahnya.
 - **Manfaat:** Ini menciptakan ekosistem yang stabil dan menguntungkan bagi Google maupun pengiklan.
 
 ## Tiga Langkah Memetakan Persaingan

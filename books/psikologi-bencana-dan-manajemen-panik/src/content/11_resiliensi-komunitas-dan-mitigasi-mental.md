@@ -2,13 +2,13 @@
 
 Coba amati bagaimana rumpun bambu merespons terpaan angin badai yang hebat. Berbeda dengan pohon besar berbatang kaku yang rentan tumbang saat akarnya tak lagi sanggup menahan beban momen lentur, bambu melengkung dinamis mengikuti arah terpaan angin. Rumpun bambu tidak patah karena memiliki fleksibilitas mekanis, dan yang paling krusial, jalinan perakarannya saling bertaut rapat di bawah tanah membentuk jaringan penyangga struktural yang kokoh.
 
-Prinsip biomekanis tersebut menjadi fondasi utama konsep **Resiliensi Komunitas**. Daya lenting kolektif tidak semata-mata bersandar pada ketahanan individual yang terisolasi, melainkan pada kapasitas sistem sosial untuk menjalin keterikatan psikologis dan struktural. Melalui jejaring ini, masyarakat tidak hanya sanggup bertahan di tengah hantaman krisis, tetapi juga memiliki kemampuan bangkit kembali (*bounce back*) dengan kapasitas adaptif yang jauh lebih kuat.
+Prinsip biomekanis tersebut menjadi fondasi utama konsep **Resiliensi Komunitas**. Daya lenting kolektif bertumpu terutama pada kapasitas sistem sosial untuk menjalin keterikatan psikologis dan struktural. Ketahanan tiap individu yang terisolasi saja belum cukup. Melalui jejaring ini, masyarakat sanggup bertahan di tengah hantaman krisis dan mampu bangkit kembali (*bounce back*) dengan kapasitas adaptif yang jauh lebih kuat.
 
 ---
 
-### Resiliensi Bukan Sekadar Kembali Seperti Semula
+### Memaknai Ulang Resiliensi
 
-Resiliensi kerap disederhanakan sebagai upaya pasif untuk memulihkan keadaan kembali persis seperti semula (*restitution*). Namun, dalam diskursus psikologi bencana kontemporer, resiliensi dipahami sebagai kapasitas dinamis suatu entitas sosial untuk **beradaptasi secara positif** terhadap disrupsi ekstrem, memitigasi distres massal, dan melakukan transformasi fungsional pascakrisis.
+Resiliensi kerap disederhanakan sebagai upaya pasif untuk memulihkan keadaan kembali persis seperti semula (*restitution*). Dalam diskursus psikologi bencana kontemporer, resiliensi dipahami sebagai kapasitas dinamis suatu entitas sosial untuk **beradaptasi secara positif** terhadap disrupsi ekstrem, memitigasi distres massal, dan melakukan transformasi fungsional pascakrisis.
 
 Secara konseptual, indeks resiliensi komunitas ($R_c$) dapat diekspresikan melalui relasi antara modal sosial, literasi risiko, kualitas kepemimpinan, dan besaran stresor lingkungan:
 
@@ -18,7 +18,7 @@ R_c = \frac{(\text{Modal Sosial} + \text{Literasi Bencana}) \times \text{Kepemim
 $$
 </div>
 
-> **Prinsip Kunci:** Resiliensi bukanlah atribut statis yang tiba-tiba hadir saat krisis, melainkan proses kultural dan struktural dinamis yang dibangun secara terencana jauh sebelum sistem peringatan dini berbunyi.
+> **Prinsip Kunci:** Resiliensi adalah proses kultural dan struktural dinamis yang dibangun secara terencana jauh sebelum sistem peringatan dini berbunyi. Ia tidak muncul tiba-tiba saat krisis datang.
 
 | Dimensi | Pendekatan Reaktif Tradisional | Pendekatan Resiliensi Adaptif |
 | :--- | :--- | :--- |
@@ -31,7 +31,7 @@ $$
 
 ### Imunisasi Psikologis Prabencana
 
-Mitigasi mental merupakan rangkaian intervensi psikoedukasi terstruktur yang dirancang guna membangun ketahanan kognitif dan afektif sebelum disrupsi terjadi. Pendekatan ini mengadopsi prinsip profilaksis atau imunisasi: paparan terkontrol terhadap simulasi stresor memperkuat respons koping psikologis kolektif.
+Mitigasi mental merupakan rangkaian intervensi psikoedukasi terstruktur yang dirancang guna membangun ketahanan kognitif dan afektif sebelum disrupsi terjadi. Pendekatan ini mengadopsi prinsip profilaksis atau imunisasi, sehingga paparan terkontrol terhadap simulasi stresor dipakai untuk memperkuat respons koping psikologis kolektif.
 
 Tujuan utama mitigasi mental adalah menggeser persepsi kelompok masyarakat dari kerangka mental *korban yang tak berdaya* (*helpless victim*) menuju kerangka *penyintas berdaya tangguh* (*empowered survivor*).
 
@@ -116,21 +116,21 @@ flowchart LR
 * **Fase Kesiapsiagaan Prabencana:**
   * Warga menyusun basis data spasial mandiri, menandai letak hunian keluarga rentan.
   * Pertemuan bulanan warga menyisipkan simulasi pengambilan keputusan (*tabletop exercise*) sesuai skenario kenaikan status vulkanik.
-  * Pembagian peran fungsional: pemuda mengelola evakuasi fisik dan jalur transportasi, kelompok perempuan mengoordinasikan logistik nutrisi dan penanganan psikososial anak.
+  * Peran fungsional dibagi sehingga pemuda mengelola evakuasi fisik dan jalur transportasi, sedangkan kelompok perempuan mengoordinasikan logistik nutrisi dan penanganan psikososial anak.
 
 * **Dinamika Saat Terjadi Erupsi:**
   * Komunikasi komando terpusat melalui instalasi pengeras suara tunggal desa meredam kepanikan akibat rumor tak berdasar.
   * Tim evakuasi langsung menuju titik penjemputan warga rentan tanpa menunggu komando eksternal.
   * Di lokasi penampungan sementara, keakraban antarwarga memungkinkan ventilasi emosi dan dukungan timbal balik terjadi spontan tanpa harus menunggu intervensi konselor profesional.
 
-* **Capaian dan Dampak:** Pemulihan fungsional berlangsung lebih cepat karena kohesi sosial tidak terdisrupsi oleh tekanan bencana, melainkan bertransformasi menjadi modalitas kolektif yang memperkuat daya tahan jangka panjang.
+* **Capaian dan Dampak:** Pemulihan fungsional berlangsung lebih cepat karena kohesi sosial bertahan dari tekanan bencana dan bertransformasi menjadi modalitas kolektif yang memperkuat daya tahan jangka panjang.
 
 ---
 
 ### Sintesis
 
-Resiliensi komunitas bukan sekadar pembangunan infrastruktur fisik pelindung, melainkan penguatan jejaring warga yang terdidik, saling percaya, dan terkoordinasi. Mitigasi mental menegaskan bahwa kendati ancaman bencana alam tidak selalu dapat dihindari, kapasitas masyarakat untuk melindungi stabilitas psikologis dan martabat kemanusiaan dapat dipersiapkan secara menyeluruh.
+Resiliensi komunitas menuntut penguatan jejaring warga yang terdidik, saling percaya, dan terkoordinasi, di samping pembangunan infrastruktur fisik pelindung. Mitigasi mental menegaskan bahwa kendati ancaman bencana alam tidak selalu dapat dihindari, kapasitas masyarakat untuk melindungi stabilitas psikologis dan martabat kemanusiaan dapat dipersiapkan secara menyeluruh.
 
-> *"Kekuatan sejati sebuah komunitas tidak diukur dari ketiadaan ancaman krisis, melainkan dari kedalaman rasa saling percaya dan kesiapan kolektif untuk saling menopang saat krisis menerpa."*
+> *"Kekuatan sejati sebuah komunitas terukur dari kedalaman rasa saling percaya dan kesiapan kolektif untuk saling menopang saat krisis menerpa."*
 
 Mengenal lingkungan tetangga terdekat, membangun komunikasi empatik harian, dan membiasakan musyawarah kesiapsiagaan adalah fondasi paling konkret dalam mewujudkan mitigasi mental komunitas yang berdaya tahan.

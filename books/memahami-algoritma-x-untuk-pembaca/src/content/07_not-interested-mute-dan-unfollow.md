@@ -1,6 +1,6 @@
 ## Not Interested, Mute, dan Unfollow
 
-Beberapa minggu lalu kamu meminta X menampilkan lebih sedikit post dari seorang penulis, tetapi kini namanya perlahan muncul lagi di berandamu. Wajar kalau kamu curiga tombolnya rusak atau permintaanmu diabaikan. Penjelasannya bisa lebih sederhana: setiap kontrol di X mengubah hal yang berbeda, dan setidaknya di kode lama, ada jenis permintaan yang memang dirancang untuk memudar. Bab ini memetakan kontrol yang cocok untuk tiap masalah, lalu membedah satu mekanisme "tampilkan lebih sedikit" yang menjelaskan kenapa efeknya bisa melemah.
+Beberapa minggu lalu kamu meminta X menampilkan lebih sedikit post dari seorang penulis, tetapi kini namanya perlahan muncul lagi di berandamu. Wajar kalau kamu curiga tombolnya rusak atau permintaanmu diabaikan. Penjelasannya bisa lebih sederhana. Setiap kontrol di X mengubah hal yang berbeda, dan setidaknya di kode lama, ada jenis permintaan yang memang dirancang untuk memudar. Bab ini memetakan kontrol yang cocok untuk tiap masalah, lalu membedah satu mekanisme "tampilkan lebih sedikit" yang menjelaskan kenapa efeknya bisa melemah.
 
 ### Pilih Kontrol Sesuai Masalahnya
 
@@ -8,16 +8,16 @@ Tidak semua gangguan perlu ditangani dengan tombol yang sama. Isi tabel di bawah
 
 | Masalah | Tindakan paling langsung | Batas yang perlu diingat |
 | --- | --- | --- |
-| Satu rekomendasi tidak relevan | Not interested in this post, atau Not interested in this Topic | X akan merekomendasikan lebih sedikit konten sejenis, bukan menjamin seluruh topik hilang |
+| Satu rekomendasi tidak relevan | Not interested in this post, atau Not interested in this Topic | X akan merekomendasikan lebih sedikit konten sejenis, tanpa jaminan seluruh topik hilang |
 | Penulis yang direkomendasikan terus berulang | Opsi tampilkan lebih sedikit dari penulis itu, jika tersedia | Efeknya bisa memudar, seperti dibahas di bawah |
 | Satu akun terus mengganggu | Mute akun | Akun itu tidak diberi tahu; kalau kamu mengikutinya, balasan dan mention-nya tetap masuk Notifications dan balasannya masih tampil di dalam percakapan; DM tidak terpengaruh |
 | Akun di Following tidak lagi kamu perlukan | Unfollow, atau mute jika ingin tetap mengikuti tanpa melihat post-nya | Unfollow berhenti mengikuti, sedangkan mute menyembunyikan post tanpa berhenti mengikuti |
-| Frasa, nama, atau hashtag mengganggu | Muted words untuk Home timeline dan/atau Notifications | Juga menyembunyikan post di balasan serta notifikasi push, SMS, dan email; durasinya Forever (bawaan), 24 jam, 7 hari, atau 30 hari; notifikasi seluler yang kamu nyalakan untuk akun yang kamu ikuti tetap lolos; cara kerjanya mencocokkan kata, bukan memahami topik |
+| Frasa, nama, atau hashtag mengganggu | Muted words untuk Home timeline dan/atau Notifications | Juga menyembunyikan post di balasan serta notifikasi push, SMS, dan email; durasinya Forever (bawaan), 24 jam, 7 hari, atau 30 hari; notifikasi seluler yang kamu nyalakan untuk akun yang kamu ikuti tetap lolos; cara kerjanya mencocokkan kata tanpa memahami topik |
 | Percakapan mengirim notifikasi terus-menerus | Mute this conversation | Notifikasinya berhenti, tetapi post di percakapan itu masih bisa muncul di timeline |
 | Ada pelanggaran aturan | Report dengan alasan yang jujur dan sesuai | Jangan memakai report massal untuk konten yang sekadar tidak kamu sukai |
 | Kamu butuh batas interaksi dengan satu akun | Block | Periksa kebijakan block yang berlaku saat ini sebelum menyimpulkan efeknya |
 
-Satu catatan soal mute: X menyebut bahwa mute hanya berlaku untuk notifikasi dan Home timeline. Jadi jangan berharap kata yang kamu bisukan lenyap dari semua tempat, termasuk hasil pencarian.
+Soal mute, X menyebut bahwa mute hanya berlaku untuk notifikasi dan Home timeline. Jadi jangan berharap kata yang kamu bisukan lenyap dari semua tempat, termasuk hasil pencarian.
 
 ### Jejak SeeFewer di Implementasi Lama
 
@@ -55,13 +55,13 @@ xychart
     line [0.2, 0.4, 0.6, 0.8, 1.0]
 ```
 
-Ada syarat yang menyertainya. Jenis umpan baliknya harus SeeFewer, dan entrinya harus cocok dengan kandidat post. Kode juga memisahkan faktor untuk penulis asli, liker, follower, dan akun yang me-repost. Faktor-faktor itu saling dikalikan, tetapi masing-masing hanya berlaku bila syaratnya sendiri terpenuhi: faktor liker hanya jika semua liker yang ditampilkan terkena potongan, faktor follower hanya jika semua follower yang ditampilkan terkena potongan dan tidak ada liker, dan faktor reposter hanya untuk repost.
+Ada syarat yang menyertainya. Jenis umpan baliknya harus SeeFewer, dan entrinya harus cocok dengan kandidat post. Kode juga memisahkan faktor untuk penulis asli, liker, follower, dan akun yang me-repost. Faktor-faktor itu saling dikalikan, tetapi masing-masing hanya berlaku bila syaratnya sendiri terpenuhi. Faktor liker hanya berlaku jika semua liker yang ditampilkan terkena potongan, faktor follower hanya jika semua follower yang ditampilkan terkena potongan dan tidak ada liker, dan faktor reposter hanya untuk repost.
 
-Angka 0,2 juga mudah disalahpahami. Pada skor dasar yang positif, $m(t)$ sebesar 0,2 mempertahankan 20% skor dari faktor tersebut. Itu bukan peluang 20% bagi post untuk muncul.
+Angka 0,2 juga mudah disalahpahami. Pada skor dasar yang positif, $m(t)$ sebesar 0,2 mempertahankan 20% skor dari faktor tersebut. Angka itu tidak menyatakan peluang 20% bagi post untuk muncul.
 
-### Penyaring Bukan Pengurang Skor
+### Penyaring yang Terpisah dari Scorer
 
-Implementasi lama juga punya `FeedbackFatigueFilter`, yang hanya membaca SeeFewer dengan durasi bawaan 14 hari dan bisa diatur dari 0 sampai 100 hari. Penyaring menyingkirkan kandidat, sedangkan scorer hanya menurunkan skornya, jadi keduanya mekanisme berbeda dengan jam masing-masing. Tidak satu pun mengatur ulang riwayat minatmu. Ingat juga, semua ini menggambarkan jalur SeeFewer di kode tersebut, bukan cara kerja setiap tombol Not interested.
+Implementasi lama juga punya `FeedbackFatigueFilter`, yang hanya membaca SeeFewer dengan durasi bawaan 14 hari dan bisa diatur dari 0 sampai 100 hari. Penyaring menyingkirkan kandidat, sedangkan scorer hanya menurunkan skornya, jadi keduanya mekanisme berbeda dengan jam masing-masing. Tidak satu pun mengatur ulang riwayat minatmu. Ingat juga bahwa semua ini hanya menggambarkan jalur SeeFewer di kode tersebut. Setiap tombol Not interested belum tentu bekerja dengan cara yang sama.
 
 Kalau X masih memakai mekanisme serupa, potongan skor itu menipis dari minggu ke minggu, sehingga wajar bila penulis tadi pelan-pelan kembali. Meski begitu, repositori lama tidak membuktikan bahwa sistem produksi hari ini bekerja persis seperti itu.
 
@@ -75,7 +75,7 @@ Kalau kamu ingin menjaga jarak dari satu akun dalam waktu lama, mute atau unfoll
 
 ## Kesimpulan Bab
 
-- Pilih kontrol menurut masalahnya: Not interested untuk satu rekomendasi, mute atau unfollow untuk akun, muted words untuk frasa, dan report hanya untuk pelanggaran.
+- Pakai Not interested untuk satu rekomendasi, mute atau unfollow untuk akun, muted words untuk frasa, dan report hanya untuk pelanggaran.
 - Mute berlaku pada notifikasi dan Home timeline, dengan pengecualian yang perlu kamu kenali.
 - Di implementasi lama, pengali SeeFewer naik dari 0,2 ke 1,0 dalam 140 hari, sementara penyaringnya berdurasi bawaan 14 hari, dan keduanya tidak menghapus riwayat minat.
 - Repositori baru menyaring akun dan kata yang kamu bisukan sebelum penilaian, lalu memberi bobot negatif pada prediksi reaksi negatif.

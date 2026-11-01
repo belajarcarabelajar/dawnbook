@@ -1,6 +1,6 @@
 ## Mekanisme Peluruhan Beta Minus (β−)
 
-Pernahkah terbayang sebuah atom yang tiba-tiba berubah identitasnya? Dalam dunia fisika nuklir, ini bukan sekadar imajinasi. Peluruhan Beta Minus ($\beta^-$) adalah proses ketika sebuah inti atom melakukan transmutasi untuk mencapai kestabilan.
+Pernahkah terbayang sebuah atom yang tiba-tiba berubah identitasnya? Dalam dunia fisika nuklir, hal itu benar-benar terjadi. Peluruhan Beta Minus ($\beta^-$) adalah proses ketika sebuah inti atom melakukan transmutasi untuk mencapai kestabilan.
 
 Mari kita lihat bagaimana sebuah neutron yang tampak tenang di dalam inti atom bisa berubah menjadi proton dan memancarkan partikel berenergi tinggi.
 
@@ -30,7 +30,7 @@ Dalam peluruhan $\beta^-$, satu quark **down** di dalam neutron berubah menjadi 
 
 ### 2. Persamaan Peluruhan Beta Minus
 
-Secara matematis, proses dasar ini dapat dituliskan sebagai: $n \rightarrow p + e^- + \bar{\nu}_e$
+Secara matematis, proses dasar ini dapat dituliskan sebagai $n \rightarrow p + e^- + \bar{\nu}_e$
 
 Dengan:
 
@@ -55,7 +55,7 @@ $$
 
 Sebelum tahun 1930-an, para ilmuwan bingung karena energi yang dilepaskan dalam peluruhan beta tampak hilang (tidak sesuai dengan hukum kekekalan energi). Wolfgang Pauli kemudian mengusulkan keberadaan partikel ketiga yang membawa sisa energi tersebut.
 
-Partikel ini disebut **antineutrino**. Ia tidak membawa muatan listrik dan memiliki massa yang sangat kecil sehingga hampir selalu bisa menembus bumi tanpa menabrak satu atom pun! Inilah alasan mengapa partikel beta (elektron) yang kita deteksi memiliki spektrum energi yang bervariasi, bukan satu angka tetap.
+Partikel ini disebut **antineutrino**. Ia tidak membawa muatan listrik dan memiliki massa yang sangat kecil sehingga hampir selalu bisa menembus bumi tanpa menabrak satu atom pun! Karena itulah energi partikel beta (elektron) yang kita deteksi tersebar dalam spektrum yang bervariasi.
 
 ## Peluruhan Karbon-14
 
@@ -74,7 +74,7 @@ $$
 
 ## Kegunaan Peluruhan Beta Minus
 
-Mekanisme peluruhan $\beta^-$ bukan sekadar teori fisika; ia memiliki kegunaan praktis yang luas:
+Dalam praktik, mekanisme peluruhan $\beta^-$ punya kegunaan yang luas:
 
 - **Penanggalan Radiokarbon**: Mengukur sisa Karbon-14 pada fosil atau artefak kayu untuk menentukan usia mereka hingga puluhan ribu tahun.
 - **Pengukur Ketebalan Industri**: Partikel beta digunakan di pabrik kertas atau plastik. Sensor mendeteksi berapa banyak elektron yang bisa menembus lembaran; jika terlalu sedikit yang lolos, berarti lembaran tersebut terlalu tebal.

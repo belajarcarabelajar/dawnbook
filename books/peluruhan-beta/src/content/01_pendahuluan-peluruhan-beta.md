@@ -2,7 +2,7 @@
 
 Pernahkah terbayang sebuah timbangan yang terus-menerus bergoyang karena beban di sisi kiri dan kanan tidak sama? Di dunia atom, ketidakseimbangan ini sering terjadi di dalam inti atom. Untuk mencapai ketenangan atau stabilitas, inti atom tersebut harus melakukan sesuatu. Salah satu cara yang paling menarik adalah dengan melakukan **Peluruhan Beta**.
 
-Peluruhan beta bukan sekadar radiasi biasa; ini adalah proses transmutasi atau perubahan wujud ketika satu unsur kimia berubah menjadi unsur kimia lainnya. Ini adalah bukti bahwa atom bukanlah sesuatu yang statis, melainkan dinamis dan selalu mencari titik kestabilan.
+Peluruhan beta adalah proses transmutasi atau perubahan wujud, ketika satu unsur kimia berubah menjadi unsur kimia lainnya. Proses ini membuktikan bahwa atom bersifat dinamis dan selalu mencari titik kestabilan.
 
 ## Apa Itu Peluruhan Beta?
 
@@ -25,7 +25,7 @@ Melalui proses pemotongan dan penyesuaian ini, inti atom mencapai konfigurasi ya
 
 ## Mengenal Partikel Beta
 
-Partikel beta bukanlah sesuatu yang asing. Sebenarnya, mereka adalah teman lama kita dalam fisika, tetapi muncul dari tempat yang tidak terduga (yaitu dari *dalam* inti atom, bukan dari kulit atom). Ada dua jenis partikel beta:
+Partikel beta sebenarnya teman lama kita dalam fisika. Hanya tempat munculnya yang tak terduga, sebab partikel ini lahir di *dalam* inti atom dan tidak berasal dari kulit atom. Ada dua jenis partikel beta:
 
 1. **Beta Minus ($\beta^-$):** Ini adalah elektron biasa ($e^-$) yang bergerak dengan energi sangat tinggi.
 2. **Beta Plus ($\beta^+$):** Ini disebut **positron** ($e^+$), yang merupakan antimateri dari elektron. Ia memiliki massa yang sama dengan elektron tetapi bermuatan positif.

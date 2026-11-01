@@ -16,7 +16,7 @@ Keterangan:
 1. Hitung perubahan jumlah: $\Delta \text{Q} = \text{Q}_2 - \text{Q}_1$
 2. Hitung perubahan harga: $\Delta \text{P} = \text{P}_2 - \text{P}_1$
 3. Masukkan ke dalam rumus turunan: $\text{E}_s = \frac{\Delta \text{Q}}{\Delta \text{P}} \times \frac{\text{P}_1}{\text{Q}_1}$
-> **Penting:** Berbeda dengan elastisitas permintaan yang biasanya bernilai negatif (karena hukum permintaan), koefisien elastisitas penawaran hampir selalu bernilai **positif**. Hal ini mencerminkan Hukum Penawaran: saat harga naik, produsen cenderung menawarkan lebih banyak barang.
+> **Penting:** Berbeda dengan elastisitas permintaan yang biasanya bernilai negatif (karena hukum permintaan), koefisien elastisitas penawaran hampir selalu bernilai **positif**. Hal ini mencerminkan Hukum Penawaran, yang menyatakan bahwa saat harga naik, produsen cenderung menawarkan lebih banyak barang.
 ## 2. Metode Nilai Tengah (Midpoint Method)
 Bayangkan kamu seorang analis data. Jika kamu menghitung elastisitas dari harga Rp10.000 ke Rp12.000, hasilnya mungkin berbeda jika kamu menghitung arah sebaliknya (dari Rp12.000 ke Rp10.000). Untuk menghindari inkonsistensi ini, para ekonom menggunakan **Metode Nilai Tengah (Arc Elasticity)**.
 Metode ini menghitung perubahan relatif terhadap **rata-rata** dari nilai awal dan nilai akhir.
@@ -52,7 +52,7 @@ Mari kita terapkan rumus di atas ke dalam skenario nyata.
 
 **Interpretasi:** Nilai $\text{E}_s = 2$ berarti penawaran sepatu tersebut bersifat **elastis**. Setiap kenaikan harga sebesar 1\%, produsen akan merespons dengan meningkatkan penawaran sebesar 2%.
 ## 5. Hasil Metode Nilai Tengah
-Data pabrik sepatu yang sama juga bisa dihitung dengan rumus midpoint dari bagian 2. Bedanya, perubahan harga dan jumlah dibandingkan dengan **rata-rata** nilai awal dan nilai akhir, bukan dengan nilai awal saja.
+Data pabrik sepatu yang sama juga bisa dihitung dengan rumus midpoint dari bagian 2. Bedanya, perubahan harga dan jumlah dibandingkan dengan **rata-rata** nilai awal dan nilai akhir. Rumus turunan di bagian 4 hanya memakai nilai awal.
 
 | Langkah | Jumlah (pasang) | Harga (Rp) |
 | --- | --- | --- |
@@ -66,7 +66,7 @@ $$
 $$
 </div>
 
-Hasil metode nilai tengah adalah **1,8**, sedikit lebih kecil daripada angka 2 dari rumus turunan di bagian 4, karena kedua metode memakai pembanding yang berbeda. Kesimpulannya tetap sama: 1,8 lebih besar dari 1, sehingga penawaran sepatu ini **elastis**.
+Hasil metode nilai tengah adalah **1,8**, sedikit lebih kecil daripada angka 2 dari rumus turunan di bagian 4, karena kedua metode memakai pembanding yang berbeda. Kesimpulannya tetap sama. Angka 1,8 lebih besar dari 1, sehingga penawaran sepatu ini **elastis**.
 
 ## 6. Industri Agrikultur vs. Industri Digital
 Dalam praktiknya, teknik penghitungan ini memberikan wawasan berbeda untuk industri yang berbeda:

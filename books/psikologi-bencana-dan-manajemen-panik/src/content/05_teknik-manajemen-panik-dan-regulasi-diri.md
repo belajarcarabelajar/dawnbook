@@ -25,7 +25,7 @@ flowchart TD
 
 ### 1. Pernapasan Taktis (Tactical Breathing)
 
-Pernapasan taktis merupakan metode modulasi pernapasan terstruktur yang diterapkan secara luas oleh unit penyelamat profesional, personel taktis, dan petugas medis darurat untuk mempertahankan kestabilan performa di bawah tekanan ekstrem. Prosedur ini bukan sekadar relaksasi pasif, melainkan sebuah intervensi biologis langsung terhadap sistem saraf otonom.
+Pernapasan taktis merupakan metode modulasi pernapasan terstruktur yang diterapkan secara luas oleh unit penyelamat profesional, personel taktis, dan petugas medis darurat untuk mempertahankan kestabilan performa di bawah tekanan ekstrem. Prosedur ini merupakan intervensi biologis langsung terhadap sistem saraf otonom.
 
 #### Landasan Neurobiologis
 
@@ -35,7 +35,7 @@ Melalui pernapasan taktis dengan ritme terkontrol, individu merangsang **Saraf V
 
 #### Latihan Metode Kotak (Box Breathing)
 
-Protokol ini menggunakan ritme seimbang dengan rasio waktu $4 - 4 - 4 - 4$ detik:
+Protokol ini menggunakan ritme seimbang dengan rasio waktu $4 - 4 - 4 - 4$ detik.
 
 Putaran empat tahap metode kotak tampak pada bagan berikut.
 
@@ -93,7 +93,7 @@ Suara batin (*internal voice*) bertindak sebagai komando operasional bagi seluru
 | :--- | :--- |
 | "Napas tercekat, kondisi ini mematikan." | "Ini reaksi pelepasan adrenalin. Oksigen tetap mengalir. Lanjutkan hitungan empat detik." |
 | "Seluruh akses tertutup, situasi tanpa harapan." | "Kepanikan mempersempit pandangan. Mulai dari satu langkah kecil: temukan jalur keluar terdekat." |
-| "Ketakutan ini melumpuhkan seluruh tubuh." | "Rasa takut adalah alarm biologis untuk waspada, bukan alasan untuk berhenti bertindak." |
+| "Ketakutan ini melumpuhkan seluruh tubuh." | "Rasa takut adalah alarm biologis untuk waspada. Teruskan bertindak." |
 
 #### Karakteristik Perintah Internal Fungsional
 
@@ -124,7 +124,7 @@ flowchart TD
 
 1. **Intervensi Somatik Segera:** Menjalankan dua siklus *Box Breathing*. Tindakan ini meregulasi denyut nadi dan memperluas kembali lapang pandang visual yang sempat menyempit.
 2. **Stabilisasi Sensorik:** Memindai lima objek konkret di jalur evakuasi (pintu darurat, meja pelindung, lampu penunjuk arah, pegangan tangga, tas darurat). Langkah ini mengunci kesadaran pada realitas fisik dan mencegah tindakan gegabah seperti melompat ke area berbahaya.
-3. **Instruksi Kognitif Bertahap:** Mengarahkan diri dengan komando verbal tegas: *"Struktur bangunan telah stabil. Langkah utama adalah mencapai tangga darurat dengan tenang dan teratur."*
+3. **Instruksi Kognitif Bertahap:** Mengarahkan diri dengan mengucapkan komando verbal tegas *"Struktur bangunan telah stabil. Langkah utama adalah mencapai tangga darurat dengan tenang dan teratur."*
 
 ---
 
@@ -144,7 +144,7 @@ Jika dibiarkan tanpa sistem pendinginan, tekanan emosional akan melampaui batas 
 - **Metode Grounding** berfungsi mengalirkan fluida pendingin untuk menstabilkan temperatur sistem (*heat absorption*).
 - **Dialog Internal Terarah** bertindak sebagai kalibrasi ulang panel instrumen (*system recalibration*), mempertahankan operasi sistem pada rentang kerja yang aman bagi pengambilan keputusan kritis.
 
-> **Wawasan Kunci:** Ketenangan psikologis bukanlah ketiadaan rasa takut, melainkan kapasitas neurokognitif untuk **mengelola dan mengarahkan** ketakutan tersebut, sehingga kesadaran rasional tetap memegang kendali penuh atas setiap tindakan penyelamatan diri.
+> **Wawasan Kunci:** Ketenangan psikologis adalah kapasitas neurokognitif untuk **mengelola dan mengarahkan** rasa takut, sehingga kesadaran rasional tetap memegang kendali penuh atas setiap tindakan penyelamatan diri. Rasa takutnya sendiri tidak harus hilang.
 
 ---
 

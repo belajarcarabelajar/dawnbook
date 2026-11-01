@@ -1,12 +1,12 @@
 ## Permainan Sekuensial dan Induksi Mundur
 
-Bayangkan kamu sedang bermain catur. Sebelum kamu menggerakkan bidak, kamu tidak hanya memikirkan posisi saat ini, tetapi kamu mencoba membayangkan: *"Jika saya melangkah ke A, lawan akan melangkah ke B. Jika lawan melangkah ke B, saya akan membalas dengan C."*
+Bayangkan kamu sedang bermain catur. Sebelum menggerakkan bidak, kamu sudah membayangkan langkah-langkah sesudahnya, misalnya *"Jika saya melangkah ke A, lawan akan melangkah ke B. Jika lawan melangkah ke B, saya akan membalas dengan C."*
 
 Inilah inti dari **Permainan Sekuensial**. Berbeda dengan permainan simultan (seperti Batu-Gunting-Kertas) ketika semua orang bergerak bersamaan, dalam permainan sekuensial, urutan waktu dan informasi memegang peran utama.
 
 ## 1. Apa Itu Permainan Sekuensial?
 
-**Permainan Sekuensial** adalah situasi strategis ketika para pemain melakukan langkah secara bergantian. Pemain yang bergerak belakangan memiliki keuntungan informasi: mereka bisa melihat apa yang dilakukan pemain sebelumnya sebelum menentukan langkah mereka sendiri.
+**Permainan Sekuensial** adalah situasi strategis ketika para pemain melakukan langkah secara bergantian. Pemain yang bergerak belakangan memiliki keuntungan informasi karena mereka bisa melihat apa yang dilakukan pemain sebelumnya sebelum menentukan langkah mereka sendiri.
 
 **Karakteristik Utama:**
 
@@ -45,10 +45,10 @@ Karena untuk mengetahui apa yang harus kamu lakukan sekarang (langkah pertama), 
 
 Mari kita gunakan skenario nyata untuk memahami konsep ini.
 
-**Skenario:** Ada dua perusahaan: **Pendatang (P)** dan **Petahana (B)**.
+**Skenario:** Ada dua perusahaan, **Pendatang (P)** dan **Petahana (B)**.
 
-1. **P** harus memilih: **Masuk** ke pasar atau **Tetap Keluar**.
-2. Jika **P** masuk, **B** (yang sudah ada di pasar) punya dua pilihan: **Bertarung** (perang harga) atau **Akomodasi** (berbagi pasar).
+1. **P** harus memutuskan apakah akan **Masuk** ke pasar atau **Tetap Keluar**.
+2. Jika **P** masuk, **B** (yang sudah ada di pasar) bisa memilih **Bertarung** (perang harga) atau **Akomodasi** (berbagi pasar).
 
 **Data Hasil (Payoff):** (Pendatang, Petahana)
 
@@ -63,8 +63,8 @@ Mari kita gunakan skenario nyata untuk memahami konsep ini.
    - Jika B Akomodasi, hasilnya $5$.
    - *Pilihan Rasional B:* B akan memilih **Akomodasi** karena $5 > -1$.
 2. **Bergerak Mundur ke Langkah Pertama:** Sekarang **Pendatang (P)** membuat keputusan. P tahu bahwa jika dia masuk, B pasti akan memilih Akomodasi (berdasarkan analisis langkah 1).
-   - Jika P Masuk: Dia akan mendapat $2$ (karena B akan akomodasi).
-   - Jika P Tetap Keluar: Dia mendapat $0$.
+   - Jika P Masuk, dia akan mendapat $2$ (karena B akan akomodasi).
+   - Jika P Tetap Keluar, dia mendapat $0$.
    - *Pilihan Rasional P:* P akan memilih **Masuk** karena $2 > 0$.
 
 **Hasil Akhir (Ekuilibrium):** Pendatang Masuk, dan Petahana melakukan Akomodasi.

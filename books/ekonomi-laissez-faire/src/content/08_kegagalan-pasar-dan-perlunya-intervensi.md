@@ -47,7 +47,7 @@ Pasar bebas andal menyediakan barang pribadi (seperti sepatu atau ponsel), tetap
 
 Jika sebuah perusahaan swasta mencoba menjual jasa lampu jalan, siapa yang bersedia membayar jika mereka tahu lampu tersebut tetap menerangi jalan tanpa perlu membeli langganan?
 
-Inilah yang memicu **Masalah Penumpang Gelap (*Free Rider Problem*)**: semua orang menunggu pihak lain untuk membayar, sehingga barang tersebut tidak pernah disediakan oleh pasar bebas.
+Inilah yang memicu **Masalah Penumpang Gelap (*Free Rider Problem*)**. Semua orang menunggu pihak lain untuk membayar, sehingga barang tersebut tidak pernah disediakan oleh pasar bebas.
 
 ### 4. Informasi Asimetris
 
@@ -105,7 +105,7 @@ Krisis finansial global 2008 menjadi bukti nyata bagaimana kegagalan pasar dapat
 - **Informasi Asimetris:** Lembaga keuangan memperdagangkan instrumen investasi kompleks (*Mortgage-Backed Securities*) yang tingkat risikonya tidak dipahami oleh pembeli.
 - **Moral Hazard:** Bank-bank raksasa mengambil risiko spekulatif ekstrem karena merasa berstatus *Too Big to Fail* (terlalu besar untuk dibiarkan bangkrut), meyakini bahwa pemerintah akan menyelamatkan mereka saat krisis melanda.
 
-Krisis ini memicu perdebatan mendalam: Apakah pasar gagal karena minimnya regulasi, ataukah intervensi pemerintah sebelumnya yang justru merusak struktur insentif pasar?
+Krisis ini memicu perdebatan mendalam. Apakah pasar gagal karena minimnya regulasi, ataukah intervensi pemerintah sebelumnya yang justru merusak struktur insentif pasar?
 
 ### Menemukan Titik Keseimbangan
 
@@ -113,4 +113,4 @@ Meskipun kegagalan pasar menjadi landasan bagi intervensi publik, kita harus mew
 
 Tantangan utama dalam ekonomi Laissez-faire modern adalah merancang tata kelola intervensi yang paling minim distorsi tetapi efektif melindungi kesejahteraan masyarakat.
 
-Jika kamu seorang pembuat kebijakan, mana yang lebih kamu prioritaskan: mengoreksi ketimpangan pendapatan melalui instrumen redistribusi, atau membiarkan pasar tetap bebas demi memacu inovasi meskipun berisiko memperlebar kesenjangan sosial?
+Jika kamu seorang pembuat kebijakan, apakah kamu akan lebih dulu mengoreksi ketimpangan pendapatan melalui instrumen redistribusi, atau membiarkan pasar tetap bebas demi memacu inovasi meskipun berisiko memperlebar kesenjangan sosial?

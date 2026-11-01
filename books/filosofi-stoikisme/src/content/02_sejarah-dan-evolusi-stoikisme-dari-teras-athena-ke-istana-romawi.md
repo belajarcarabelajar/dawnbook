@@ -1,8 +1,8 @@
 ## Sejarah dan Evolusi Stoikisme
 
-Kutipan-kutipan bijak Stoik mudah ditemukan di Instagram, tetapi kutipan saja tidak cukup untuk memahami dari mana filsafat ini berasal. Kita harus kembali ke titik nol: sebuah kapal yang karam, seorang pedagang yang kehilangan segalanya, dan sebuah teras umum di jantung kota Athena.
+Kutipan-kutipan bijak Stoik mudah ditemukan di Instagram, tetapi kutipan saja tidak cukup untuk memahami dari mana filsafat ini berasal. Kita harus kembali ke titik nol, ke sebuah kapal yang karam, seorang pedagang yang kehilangan segalanya, dan sebuah teras umum di jantung kota Athena.
 
-Stoikisme bukanlah filsafat yang lahir di menara gading yang terisolasi. Ia lahir di jalanan, diuji oleh kesulitan hidup yang nyata, dan berevolusi selama lebih dari lima abad hingga menjadi kompas moral bagi budak maupun kaisar.
+Stoikisme lahir di jalanan, jauh dari menara gading yang terisolasi. Ia diuji oleh kesulitan hidup yang nyata dan berevolusi selama lebih dari lima abad hingga menjadi kompas moral bagi budak maupun kaisar.
 
 ## 1\. Zeno dari Citium
 
@@ -12,7 +12,7 @@ Inilah yang terjadi pada **Zeno dari Citium**. Alih-alih meratap, Zeno pergi ke 
 
 Zeno kemudian belajar di bawah asuhan berbagai guru filsafat (seperti kaum Sinis), tetapi ia akhirnya mengembangkan pemikirannya sendiri. Ia mulai mengajar di sebuah tempat umum yang disebut **Stoa Poikile** (Teras Berwarna).
 
-> **Pelajaran Penting:** Nama "Stoikisme" berasal dari kata *Stoa* (teras/serambi). Berbeda dengan sekolah filsafat lain yang tertutup, Stoikisme diajarkan di ruang publik. Ini menunjukkan bahwa filsafat ini adalah untuk **semua orang**, bukan hanya kaum elit akademis.
+> **Pelajaran Penting:** Nama "Stoikisme" berasal dari kata *Stoa* (teras/serambi). Berbeda dengan sekolah filsafat lain yang tertutup, Stoikisme diajarkan di ruang publik. Ini menunjukkan bahwa filsafat ini adalah untuk **semua orang**.
 
 ## 2\. Tiga Periode Utama Stoikisme
 
@@ -38,7 +38,7 @@ Pada masa ini, Stoikisme mulai menyebar ke Roma. Para filsuf mulai melunakkan be
 
 Inilah era yang paling kita kenal sekarang. Pada periode ini, diskusi teoretis tentang logika dan fisika mulai berkurang, digantikan oleh fokus penuh pada **Etika** dan **pengembangan karakter**.
 
-- Di sini kita menemukan tiga tokoh utama: **Seneca** (negarawan), **Epictetus** (mantan budak), dan **Marcus Aurelius** (kaisar).
+- Di sini kita menemukan tiga tokoh utama, yaitu **Seneca** (negarawan), **Epictetus** (mantan budak), dan **Marcus Aurelius** (kaisar).
 
 Ketiga periode itu, beserta tokoh-tokohnya, terangkum dalam garis waktu ini.
 
@@ -54,7 +54,7 @@ timeline
 
 ## 3\. Transformasi di Kekaisaran Romawi
 
-Mengapa orang Romawi mencintai Stoikisme? Jawabannya ada pada karakter bangsa Romawi itu sendiri: mereka adalah orang-orang yang menghargai tugas (*duty*), disiplin, dan keteguhan hati.
+Mengapa orang Romawi mencintai Stoikisme? Jawabannya ada pada karakter bangsa Romawi itu sendiri. Mereka adalah orang-orang yang menghargai tugas (*duty*), disiplin, dan keteguhan hati.
 
 Stoikisme di Romawi bertransformasi dari sekadar "teori tentang alam semesta" menjadi **"seni untuk hidup"** (*Ars Vivendi*).
 
@@ -64,7 +64,7 @@ Stoikisme di Romawi bertransformasi dari sekadar "teori tentang alam semesta" me
 - **Batang** adalah Fisika (memberi pemahaman tentang dunia).
 - **Buah** adalah Etika (hasil nyata yang bisa dinikmati manusia).
 
-Di zaman Romawi, orang-orang tidak lagi terlalu peduli dengan akarnya; mereka langsung ingin memetik dan memakan **buahnya**. Mereka butuh jawaban praktis: *"Bagaimana saya tetap tenang saat menghadapi fitnah politik?"* atau *"Bagaimana saya menghadapi kematian anak saya?"*
+Di zaman Romawi, orang-orang tidak lagi terlalu peduli dengan akarnya; mereka langsung ingin memetik dan memakan **buahnya**. Mereka butuh jawaban praktis untuk pertanyaan seperti *"Bagaimana saya tetap tenang saat menghadapi fitnah politik?"* atau *"Bagaimana saya menghadapi kematian anak saya?"*
 
 ## 4\. Keberagaman Pengikut
 
@@ -91,6 +91,6 @@ Bagaimana sejarah Stoikisme ini membantu kita di dunia modern?
 
 Stoikisme tidak mati bersama runtuhnya Kekaisaran Romawi. Ia "berhibernasi" dalam tulisan-tulisan para Bapa Gereja, muncul kembali di era Renaisans, memengaruhi para pemikir Pencerahan, dan kini populer kembali di era digital melalui terapi kognitif perilaku (CBT) dan gerakan pengembangan diri.
 
-Evolusi Stoikisme menunjukkan satu hal: **Selama manusia masih menghadapi penderitaan, ketidakpastian, dan kematian, prinsip-prinsip yang diajarkan di Teras Berwarna Athena akan selalu relevan.**
+Evolusi Stoikisme menunjukkan bahwa **selama manusia masih menghadapi penderitaan, ketidakpastian, dan kematian, prinsip-prinsip yang diajarkan di Teras Berwarna Athena akan selalu relevan.**
 
-> **Insight:** Stoikisme bukanlah tentang menjadi orang yang tidak punya perasaan, melainkan tentang membangun ketangguhan batin dalam diri kita agar tidak hancur oleh kesulitan hidup yang tidak terelakkan.
+> **Insight:** Stoikisme membangun ketangguhan batin dalam diri kita agar tidak hancur oleh kesulitan hidup yang tidak terelakkan. Orang yang menjalaninya tetap punya perasaan.

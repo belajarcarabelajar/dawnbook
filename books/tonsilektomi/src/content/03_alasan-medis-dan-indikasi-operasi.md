@@ -8,7 +8,7 @@ Mari kita ulas berbagai kondisi kesehatan yang menjadi alasan kuat bagi dokter s
 
 ## 1. Tonsilitis Rekuren (Infeksi Berulang)
 
-Alasan paling umum untuk tindakan tonsilektomi adalah infeksi yang terjadi terus-menerus. Infeksi ini tidak sekadar muncul sesekali dalam setahun, tetapi frekuensinya sudah sangat mengganggu aktivitas sehari-hari, sekolah, hingga pekerjaan.
+Alasan paling umum untuk tindakan tonsilektomi adalah infeksi yang terjadi terus-menerus. Frekuensinya sudah sangat mengganggu aktivitas sehari-hari, sekolah, hingga pekerjaan.
 
 ### Kriteria Paradise
 

@@ -29,19 +29,19 @@ Sebagai ilustrasi, jika pemerintah ingin menyejahterakan petani sementara penawa
 ## 3. Pengendalian Harga
 Otoritas publik sering kali melakukan intervensi harga untuk melindungi pihak tertentu. Elastisitas menentukan seberapa besar dampak "gangguan" yang tercipta dari kebijakan ini.
 ### A. Price Ceiling (Harga Eceran Tertinggi - HET)
-Pemerintah menetapkan harga maksimum di bawah harga keseimbangan untuk melindungi konsumen (misalnya: harga obat-obatan atau tarif sewa apartemen).
+Pemerintah menetapkan harga maksimum di bawah harga keseimbangan untuk melindungi konsumen (misalnya harga obat-obatan atau tarif sewa apartemen).
 - **Dampaknya:** Terjadi kelangkaan (Shortage).
 - **Peran Elastisitas:** Semakin **elastis** permintaan dan penawaran, maka kelangkaan yang terjadi akan semakin **parah**. Mengapa? Karena pembeli ingin membeli jauh lebih banyak, sementara penjual cepat menarik barangnya dari pasar.
 ### B. Price Floor (Harga Pembelian Minimum)
-Pemerintah menetapkan harga minimum di atas harga keseimbangan untuk melindungi produsen (misalnya: Upah Minimum atau harga dasar gabah).
+Pemerintah menetapkan harga minimum di atas harga keseimbangan untuk melindungi produsen (seperti Upah Minimum atau harga dasar gabah).
 - **Dampaknya:** Terjadi surplus (kelebihan pasokan).
 - **Peran Elastisitas:** Jika penawaran tenaga kerja sangat **elastis**, penetapan upah minimum yang terlalu tinggi akan menyebabkan lonjakan pengangguran (surplus tenaga kerja) yang jauh lebih besar dibandingkan jika penawarannya inelastis.
 ## Pajak Minuman Berpemanis
 Banyak negara kini menerapkan "Sugar Tax" atau pajak pada minuman berpemanis dalam kemasan (MBDK) untuk menekan angka obesitas.
 1. **Tujuan:** Mengurangi konsumsi gula masyarakat.
 2. **Analisis Elastisitas:** Agar kebijakan ini efektif mengurangi konsumsi, permintaan terhadap MBDK harus bersifat **elastis**. Jika elastis, kenaikan harga akibat pajak akan membuat orang beralih ke air mineral (substitusi).
-3. **Realita:** Jika ternyata masyarakat sudah "kecanduan" dan permintaannya **inelastis**, maka konsumsi gula tidak akan banyak berkurang, tetapi pemerintah akan mendapatkan **penerimaan pajak yang besar**.
-> **Insight Penting:** Pemerintah sering kali dihadapkan pada dilema. Jika tujuannya **mengubah perilaku** (misal: berhenti merokok), mereka butuh permintaan yang **elastis**. Jika tujuannya **menambah kas negara**, mereka mencari barang dengan permintaan yang **inelastis**.
+3. **Realita:** Jika ternyata masyarakat sudah "kecanduan" dan permintaannya **inelastis**, maka konsumsi gula tidak akan banyak berkurang, dan pemerintah akan mendapatkan **penerimaan pajak yang besar**.
+> **Insight Penting:** Pemerintah sering kali dihadapkan pada dilema. Jika tujuannya **mengubah perilaku** (misalnya berhenti merokok), mereka butuh permintaan yang **elastis**. Jika tujuannya **menambah kas negara**, mereka mencari barang dengan permintaan yang **inelastis**.
 ## Pajak, Subsidi, dan Kontrol Harga
 | Kebijakan | Jika Permintaan Inelastis | Jika Permintaan Elastis |
 | --- | --- | --- |
@@ -49,5 +49,5 @@ Banyak negara kini menerapkan "Sugar Tax" atau pajak pada minuman berpemanis dal
 | **Subsidi** | Manfaat utama dirasakan konsumen (harga turun). | Manfaat utama dirasakan produsen (pendapatan naik). |
 | **Kontrol Harga** | Dampak kelangkaan/surplus cenderung kecil. | Dampak kelangkaan/surplus besar. |
 ### Memajaki Garam atau Tiket Konser
-Cobalah bayangkan kamu adalah seorang menteri keuangan yang harus menutup defisit anggaran sebesar 10 triliun rupiah. Kamu memiliki dua pilihan: memajaki garam dapur atau memajaki tiket konser musik internasional. Berdasarkan konsep elastisitas, tentukan mana yang akan memberikan pendapatan lebih stabil dan jelaskan alasanmu.
+Cobalah bayangkan kamu adalah seorang menteri keuangan yang harus menutup defisit anggaran sebesar 10 triliun rupiah. Kamu bisa memajaki garam dapur atau memajaki tiket konser musik internasional. Berdasarkan konsep elastisitas, tentukan mana yang akan memberikan pendapatan lebih stabil dan jelaskan alasanmu.
 **Analogi Terakhir:** Bayangkan elastisitas sebagai sebuah karet gelang. Jika pemerintah menarik satu ujung (memberi beban pajak), ujung mana yang paling sakit? Pihak yang "karetnya" paling kaku (inelastis) tidak bisa menghindar, sehingga mereka yang menanggung tarikan paling kuat. Pihak yang "karetnya" lentur (elastis) bisa dengan mudah melompat atau menghindar ke produk lain, sehingga mereka terhindar dari beban tersebut.

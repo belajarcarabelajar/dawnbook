@@ -13,7 +13,7 @@ Keterangan:
 - $\text{TR}$ = Total Revenue (Total Penerimaan)
 - $P$ = Price (Harga per unit)
 - $Q$ = Quantity (Jumlah unit yang terjual)
-> **Insight Penting:** Perubahan dalam $\text{TR}$ bergantung pada mana yang lebih dominan: **kenaikan harga ($P$)** atau **penurunan jumlah yang diminta ($Q$)**. Hukum permintaan menyatakan bahwa jika $P$ naik, $Q$ turun. Elastisitas memberi tahu kita *seberapa besar* penurunan $Q$ tersebut.
+> **Insight Penting:** Perubahan dalam $\text{TR}$ bergantung pada mana yang lebih dominan, **kenaikan harga ($P$)** atau **penurunan jumlah yang diminta ($Q$)**. Hukum permintaan menyatakan bahwa jika $P$ naik, $Q$ turun. Elastisitas memberi tahu kita *seberapa besar* penurunan $Q$ tersebut.
 ### 2. Elastisitas vs. Total Revenue
 Efek perubahan harga terhadap total penerimaan akan berbeda-beda tergantung pada derajat elastisitas barang tersebut.
 #### A. Permintaan Elastis

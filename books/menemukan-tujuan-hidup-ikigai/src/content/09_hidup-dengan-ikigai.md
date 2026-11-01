@@ -4,7 +4,7 @@ Dari semua tahap perjalanan Ikigai kita, tahap inilah yang paling praktis, saat 
 
 ## Mengintegrasikan Ikigai ke dalam Kehidupan Sehari-hari
 
-Menyatukan Ikigai dalam keseharian berarti kamu mulai hidup dengan arah yang jelas dan merasa puas atas tindakanmu, baik besar maupun kecil. Ini merupakan serangkaian penyesuaian yang konsisten dan bermakna, alih-alih perombakan radikal dalam semalam.
+Menyatukan Ikigai dalam keseharian berarti kamu mulai hidup dengan arah yang jelas dan merasa puas atas tindakanmu, baik besar maupun kecil. Ini merupakan serangkaian penyesuaian yang konsisten dan bermakna, tanpa perlu perombakan radikal dalam semalam.
 
 ### Di Lingkungan Kerja
 
@@ -72,7 +72,7 @@ Untuk urusan jadwal, biasakan memblokir waktu spesifik khusus untuk kegiatan yan
 
 #### 4\. Fleksibilitas dan Adaptasi
 
-Tetaplah fleksibel karena Ikigai adalah konsep dinamis yang terus berkembang seiring kedewasaan diri. Setiap kemunduran bisa dijadikan materi pembelajaran yang berharga alih-alih dianggap sebagai penghalang.
+Tetaplah fleksibel karena Ikigai adalah konsep dinamis yang terus berkembang seiring kedewasaan diri. Setiap kemunduran bisa dijadikan materi pembelajaran yang berharga.
 
 #### 5\. Fokus pada Kemajuan Kecil
 
@@ -82,6 +82,6 @@ Jangan merasa terbebani oleh gambaran tujuan akhir yang terlalu besar. Pusatkan 
 
 Cari seseorang yang telah melewati jalan serupa. Seorang mentor atau praktisi *coaching* (*life coach*) dapat menawarkan panduan terarah untuk mengatasi hambatan dan menyusun rencana tindakan yang lebih tajam.
 
-> **Penting:** Perjalanan Ikigai adalah maraton, bukan sprint cepat. Akan ada hari baik dan hari sulit. Ketekunan, adaptasi, dan komitmen terhadap pertumbuhan diri akan memandu kamu menuju kehidupan yang selaras dan memuaskan.
+> **Penting:** Perjalanan Ikigai adalah maraton yang panjang. Akan ada hari baik dan hari sulit. Ketekunan, adaptasi, dan komitmen terhadap pertumbuhan diri akan memandu kamu menuju kehidupan yang selaras dan memuaskan.
 
 Menerapkan Ikigai ke dalam keseharian membutuhkan kesadaran, keberanian, dan kesediaan belajar secara terus-menerus. Dengan pola pikir yang tangguh, kamu akan mampu menghadapi hambatan dan menjalani kehidupan yang utuh.

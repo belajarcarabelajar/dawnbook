@@ -2,7 +2,7 @@
 
 Perubahan makna kata mencerminkan perubahan masyarakat melalui pergeseran nilai rasa, fungsi sosial, dan konteks penggunaan bahasa dari masa ke masa. Fenomena ini terlihat jelas ketika kata "bapak", yang mulanya bermakna hubungan kekerabatan biologis, meluas menjadi sebutan penghormatan bagi pria yang lebih tua atau berkedudukan tinggi. Demikian pula kata "pelayan toko" yang dalam konteks niaga modern kerap digantikan oleh istilah "pramuniaga" demi memberikan kesan yang lebih profesional.
 
-Semantik sebagai cabang linguistik membedah bagaimana bahasa bekerja bukan sebagai struktur yang kaku, melainkan sebagai sistem dinamis yang terus bertransformasi seiring perkembangan masyarakat penuturnya.
+Semantik sebagai cabang linguistik membedah bahasa sebagai sistem dinamis yang terus bertransformasi seiring perkembangan masyarakat penuturnya.
 
 ### Pengertian Semantik
 
@@ -42,7 +42,7 @@ Nilai rasa merupakan asosiasi emosional, kultural, dan sosial yang melekat pada 
 
 ### Faktor Pendorong Pergeseran Makna
 
-Transformasi makna kosakata tidak berlangsung secara terisolasi, melainkan dipicu oleh interaksi berbagai faktor:
+Transformasi makna kosakata dipicu oleh interaksi berbagai faktor:
 
 1. **Perubahan Norma Sosial dan Budaya:** Pergeseran pandangan kolektif dapat mengubah kata yang mulanya biasa menjadi tabu, atau sebaliknya menjadikan istilah tertentu lebih dihargai.
 2. **Kebutuhan Eufemisme dan Penghalusan Bahasa:** Dorongan untuk menghindari ungkapan yang dinilai vulgar, menyakitkan, atau tabu melahirkan kosakata pengganti yang lebih santun.

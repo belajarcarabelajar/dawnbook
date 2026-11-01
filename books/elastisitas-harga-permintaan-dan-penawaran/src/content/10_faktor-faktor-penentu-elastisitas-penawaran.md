@@ -43,7 +43,7 @@ Mari kita lihat fenomena kelangkaan chip global beberapa waktu lalu. Ketika perm
 1. **Kapasitas Produksi:** Pabrik chip (Fabs) sudah beroperasi pada kapasitas hampir 100%.
 2. **Mobilitas Faktor Produksi:** Membangun pabrik chip memerlukan investasi miliaran dolar dan teknologi canggih (mobilitas rendah).
 3. **Dimensi Waktu:** Dibutuhkan waktu 2 hingga 4 tahun untuk membangun satu pabrik chip baru.
-**Hasilnya:** Dalam jangka pendek, penawaran chip sangat **inelastis**, menyebabkan harga gadget dan mobil melonjak karena produsen chip tidak mampu merespons kenaikan harga dengan tambahan pasokan secara instan.
+Ketiga hal itu membuat penawaran chip dalam jangka pendek sangat **inelastis**, menyebabkan harga gadget dan mobil melonjak karena produsen chip tidak mampu merespons kenaikan harga dengan tambahan pasokan secara instan.
 ### Contoh Penghitungan Sederhana
 Meskipun fokus kita pada faktor penentu, mari kita lihat bagaimana ini terlihat dalam angka. Misalkan harga sebuah produk naik dari Rp10.000 menjadi Rp12.000 ($\Delta P = 20 \text{\%}$), dan karena produsen memiliki stok di gudang yang banyak, mereka meningkatkan jumlah penawaran dari 1.000 unit menjadi 1.500 unit ($\Delta Q_s = 50 \text{\%}$).
 
@@ -52,4 +52,4 @@ $$
 $$
 
 Karena $\text{E}_s > 1$, maka penawaran barang tersebut dikategorikan sebagai **Elastis**, kemungkinan besar karena didukung oleh faktor stok barang atau kapasitas yang masih longgar.
-**Catatan Penting:** Memahami faktor-faktor ini membantu manajer perusahaan untuk merencanakan strategi produksi dan membantu pemerintah dalam memprediksi bagaimana pasar akan bereaksi terhadap kebijakan tertentu, seperti pajak atau subsidi. Jika penawaran suatu barang inelastis, pemberian subsidi mungkin tidak akan banyak meningkatkan jumlah barang di pasar, melainkan hanya akan menguntungkan produsen secara finansial.
+**Catatan Penting:** Memahami faktor-faktor ini membantu manajer perusahaan untuk merencanakan strategi produksi dan membantu pemerintah dalam memprediksi bagaimana pasar akan bereaksi terhadap kebijakan tertentu, seperti pajak atau subsidi. Jika penawaran suatu barang inelastis, pemberian subsidi mungkin hanya akan menguntungkan produsen secara finansial tanpa banyak menambah jumlah barang di pasar.

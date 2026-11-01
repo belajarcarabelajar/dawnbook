@@ -1,8 +1,8 @@
 ## Pengambilan Keputusan di Bawah Tekanan Tinggi
 
-Situasi krisis sering kali datang tanpa peringatan awal. Bayangkan seorang kapten kapal yang mendapati alarm kebocoran berbunyi nyaring di tengah malam, sistem penerangan mendadak padam, dan kepanikan mulai menjalar di antara para penumpang. Dalam hitungan detik, keputusan krusial harus diambil: apakah segera mengevakuasi seluruh awak dan penumpang, atau berupaya menambal kebocoran di ruang mesin? Ketersediaan informasi sangat minim, jarum jam terus berputar cepat, dan keselamatan jiwa menjadi taruhannya.
+Situasi krisis sering kali datang tanpa peringatan awal. Bayangkan seorang kapten kapal yang mendapati alarm kebocoran berbunyi nyaring di tengah malam, sistem penerangan mendadak padam, dan kepanikan mulai menjalar di antara para penumpang. Dalam hitungan detik, keputusan krusial harus diambil. Apakah ia segera mengevakuasi seluruh awak dan penumpang, atau berupaya menambal kebocoran di ruang mesin? Ketersediaan informasi sangat minim, jarum jam terus berputar cepat, dan keselamatan jiwa menjadi taruhannya.
 
-Inilah dinamika utama dalam *High-Pressure Decision Making* (Pengambilan Keputusan di Bawah Tekanan Tinggi). Di tengah situasi bencana, sistem kognitif manusia tidak beroperasi seperti saat memilih menu santap siang. Otak secara otomatis beralih ke mode bertahan hidup (*survival mode*), yang kerap mendistorsi ketajaman analisis rasional yang sesungguhnya paling dibutuhkan.
+Inilah dinamika utama dalam *High-Pressure Decision Making* (Pengambilan Keputusan di Bawah Tekanan Tinggi). Memilih menu santap siang dan memutuskan sesuatu di tengah bencana melibatkan dua cara kerja otak yang berbeda. Saat bencana, otak secara otomatis beralih ke mode bertahan hidup (*survival mode*), yang kerap mendistorsi ketajaman analisis rasional yang sesungguhnya paling dibutuhkan.
 
 ## 1. Memahami Tunnel Vision dan Bias Informasi
 
@@ -10,7 +10,7 @@ Saat tingkat stres melonjak drastis, kapasitas pemrosesan kognitif mengalami pen
 
 ### Tunnel Vision (Visi Terowongan)
 
-Penyempitan atensi ini terjadi secara fisik maupun kognitif. Atensi seseorang menyempit dan hanya terpaku pada satu objek atau masalah tunggal (misalnya: pintu utama yang terkunci rapat) sehingga gagal menyadari alternatif jalan keluar lain di sekelilingnya (misalnya: jendela darurat yang terbuka lebar).
+Penyempitan atensi ini terjadi secara fisik maupun kognitif. Atensi seseorang menyempit dan hanya terpaku pada satu objek atau masalah tunggal (misalnya pintu utama yang terkunci rapat) sehingga gagal menyadari alternatif jalan keluar lain di sekelilingnya (seperti jendela darurat yang terbuka lebar).
 
 - **Analogi Analitis:** Ibarat melintasi hutan belantara pekat dengan senter sorot yang berdiameter sangat sempit. Sorotan cahaya terfokus sepenuhnya pada ular berbisa di atas tanah (ancaman langsung), tetapi karena sempitnya sudut pandang, keberadaan jembatan evakuasi tepat di sebelah rintangan tersebut luput dari pengamatan.
 
@@ -49,13 +49,13 @@ flowchart LR
 
 ## 3. Strategi Mengatasi Kelumpuhan Kognitif
 
-Bagaimana cara menjaga kejernihan berpikir ketika amigdala di dalam otak memicu alarm kecemasan ekstrem? Beberapa pendekatan berikut terbukti efektif:
+Bagaimana cara menjaga kejernihan berpikir ketika amigdala di dalam otak memicu alarm kecemasan ekstrem? Beberapa pendekatan berikut terbukti efektif.
 
 ### A. Aturan Tiga (Rule of Three)
 
 Kapasitas memori kerja (*working memory*) menurun tajam di bawah pengaruh hormon kortisol dan adrenalin. Membatasi beban mental menjadi kunci utama:
 
-- Tetapkan **tiga prioritas utama** tanpa menambah kerumitan daftar tindakan (contoh: 1. Amankan kelompok rentan atau anak-anak, 2. Ambil tas siaga bencana, 3. Evakuasi menuju titik kumpul melalui pintu darurat).
+- Tetapkan **tiga prioritas utama** tanpa menambah kerumitan daftar tindakan, misalnya mengamankan kelompok rentan atau anak-anak, mengambil tas siaga bencana, lalu evakuasi menuju titik kumpul melalui pintu darurat.
 
 ### B. Model Recognition-Primed Decision (RPD)
 
@@ -104,8 +104,8 @@ Mari telaah penerapan prinsip-prinsip ini dalam simulasi kedaruratan di lantai 1
 
 Membangun kesiapan kognitif memerlukan latihan berkelanjutan sebelum krisis sesungguhnya terjadi:
 
-- **Simulasi Mental (The What-If Exercise):** Saat berada di fasilitas publik, luangkan waktu sejenak untuk memetakan skenario kedaruratan: *"Jika gempa bumi terjadi detik ini, apa tiga langkah pertama yang wajib diambil?"* Latihan mental ini membangun jalur saraf (*neural pathways*) yang mempercepat respons di masa mendatang.
-- **Dialog Internal Terstruktur (Authoritative Self-Talk):** Memberi instruksi pada diri sendiri menggunakan nama pribadi (contoh: *"Budi, kendalikan napas, lihat tanda keluar darurat, dan bergerak sekarang."*) membantu menciptakan jarak psikologis dari rasa takut serta memulihkan kendali eksekutif atas respons panik.
+- **Simulasi Mental (The What-If Exercise):** Saat berada di fasilitas publik, luangkan waktu sejenak untuk memetakan skenario kedaruratan dengan bertanya *"Jika gempa bumi terjadi detik ini, apa tiga langkah pertama yang wajib diambil?"* Latihan mental ini membangun jalur saraf (*neural pathways*) yang mempercepat respons di masa mendatang.
+- **Dialog Internal Terstruktur (Authoritative Self-Talk):** Memberi instruksi pada diri sendiri menggunakan nama pribadi (misalnya *"Budi, kendalikan napas, lihat tanda keluar darurat, dan bergerak sekarang."*) membantu menciptakan jarak psikologis dari rasa takut serta memulihkan kendali eksekutif atas respons panik.
 
 Dalam situasi kedaruratan, kesiapan kognitif untuk memproses informasi dan bertindak cepat merupakan pembeda utama antara kelumpuhan mental dan keselamatan.
 

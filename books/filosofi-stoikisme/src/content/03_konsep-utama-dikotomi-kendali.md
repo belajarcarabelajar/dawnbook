@@ -1,6 +1,6 @@
 ## Konsep Utama Dikotomi Kendali
 
-Pernahkah kamu merasa sangat stres karena terjebak macet saat akan menghadiri pertemuan penting? Atau mungkin kamu merasa cemas memikirkan pendapat orang lain tentang presentasi kamu? Jika iya, kamu sedang mengalami konflik batin yang menurut para Stoik bersumber dari satu kesalahan fatal: **mencampuradukkan apa yang bisa kamu kendalikan dengan apa yang tidak.**
+Pernahkah kamu merasa sangat stres karena terjebak macet saat akan menghadiri pertemuan penting? Atau mungkin kamu merasa cemas memikirkan pendapat orang lain tentang presentasi kamu? Jika iya, kamu sedang mengalami konflik batin yang menurut para Stoik bersumber dari satu kesalahan fatal, yaitu **mencampuradukkan apa yang bisa kamu kendalikan dengan apa yang tidak.**
 
 Dikotomi Kendali adalah "pintu masuk" sekaligus fondasi paling penting dalam seluruh bangunan filsafat Stoikisme. Tanpa memahami ini, latihan Stoik lainnya akan sulit diterapkan.
 
@@ -10,7 +10,7 @@ Secara harfiah, **dikotomi** berarti pembagian dua hal yang saling bertolak bela
 
 > "Ada hal-hal yang berada di bawah kendali kita, dan ada hal-hal yang tidak berada di bawah kendali kita."
 
-Konsep ini mengajarkan bahwa kebahagiaan dan ketenangan batin kita tidak bergantung pada apa yang terjadi di luar sana, melainkan pada kemampuan kita untuk membedakan kedua wilayah ini.
+Konsep ini mengajarkan bahwa kebahagiaan dan ketenangan batin kita bergantung pada kemampuan kita untuk membedakan kedua wilayah ini. Apa yang terjadi di luar sana tidak memegang kunci itu.
 
 ### 1\. Hal-hal di Bawah Kendali Kita (Internal)
 
@@ -37,7 +37,7 @@ Untuk memahami konsep ini dengan lebih mendalam, bayangkan seorang pemanah yang 
 1. **Hal dalam kendali:** Sang pemanah bisa memilih busur terbaik, melatih ototnya, fokus pada bidikan, dan memilih momen yang tepat untuk melepaskan anak panah. Ini adalah niat dan usaha (*Internal*).
 2. **Hal di luar kendali:** Begitu anak panah terlepas dari busurnya, ia tidak lagi memiliki kendali. Embusan angin tiba-tiba, burung yang terbang melintas, atau target yang mendadak bergerak bisa membuat anak panah meleset.
 
-**Pelajaran bagi kita:** Seorang pemanah Stoik akan merasa puas jika ia telah memanah dengan sebaik-baiknya (*internal*), bukan hanya jika ia mengenai target (*eksternal*). Jika ia gagal mengenai target karena angin, ia tidak akan frustrasi karena ia tahu angin berada di luar kendalinya.
+**Pelajaran bagi kita:** Seorang pemanah Stoik akan merasa puas jika ia telah memanah dengan sebaik-baiknya (*internal*), entah anak panahnya mengenai target (*eksternal*) atau tidak. Jika ia gagal mengenai target karena angin, ia tidak akan frustrasi karena ia tahu angin berada di luar kendalinya.
 
 ## Mengapa Ini Penting? (Logika Kebahagiaan)
 
@@ -73,6 +73,6 @@ Untuk mulai menerapkan Dikotomi Kendali hari ini, lakukan langkah-langkah beriku
 2. **Pisahkan Elemen:** Buat dua kolom. Kolom A untuk hal-hal yang bisa kamu ubah/lakukan (Internal). Kolom B untuk hal-hal yang tidak bisa kamu ubah (Eksternal).
 3. **Fokuskan Energi:** Berjanjilah untuk melepaskan (*letting go*) semua item di Kolom B dan curahkan 100% perhatian kamu untuk mengeksekusi apa yang ada di Kolom A.
 
-**Penting:** Stoikisme tidak mengajarkan kita untuk menjadi pasif. Justru sebaliknya, dengan berhenti mencemaskan hal yang sia-sia, kita memiliki energi yang jauh lebih besar untuk mengerjakan hal-hal yang benar-benar bisa kita pengaruhi.
+**Penting:** Stoikisme tidak mengajarkan kita untuk menjadi pasif. Dengan berhenti mencemaskan hal yang sia-sia, kita memiliki energi yang jauh lebih besar untuk mengerjakan hal-hal yang benar-benar bisa kita pengaruhi.
 
-> **Wawasan Utama:** Kebebasan sejati bukan berarti memiliki segalanya, tetapi mengetahui dengan jelas apa yang tidak perlu kita miliki atau kendalikan agar pikiran kita tetap tenang. Fokuslah pada *proses*, bukan pada *hasil*.
+> **Wawasan Utama:** Kebebasan sejati berarti mengetahui dengan jelas apa yang tidak perlu kita miliki atau kendalikan agar pikiran kita tetap tenang. Arahkan fokus kamu pada *proses*, dan lepaskan *hasil*.

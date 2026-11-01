@@ -67,14 +67,14 @@ Ketika seseorang melebur ke dalam kerumunan yang padat, ia rentan mengalami **de
 
 ### 4. Strategi Pencegahan Eskalasi Ketakutan Kolektif
 
-Upaya memitigasi kepanikan massal tidak berfokus pada pelarangan rasa takut, melainkan pada tata kelola ekspresi dan kanal evakuasi kerumunan. Beberapa langkah strategis meliputi:
+Upaya memitigasi kepanikan massal berfokus pada tata kelola ekspresi dan kanal evakuasi kerumunan, tanpa berusaha melarang rasa takut. Beberapa langkah strategisnya diuraikan di bawah ini.
 
 #### A. Memutus Loop Umpan Balik (*Feedback Loop*)
 
 Petugas tanggap darurat dan pemangku kendali lapangan berfungsi sebagai penstabil situasi (*circuit breaker*):
 
 - **Otoritas Tenang:** Intonasi vokal yang stabil, tegas, dan terkendali bertindak sebagai jangkar psikologis bagi massa yang mulai kehilangan orientasi diri.
-- **Instruksi Aksi Spesifik:** Menghindari larangan abstrak seperti teriakan "Jangan panik!", melainkan menggantinya dengan instruksi direktif yang konkret, misalnya "Berjalan teratur ke arah jalur hijau di sebelah kanan!".
+- **Instruksi Aksi Spesifik:** Mengganti larangan abstrak seperti teriakan "Jangan panik!" dengan instruksi direktif yang konkret, misalnya "Berjalan teratur ke arah jalur hijau di sebelah kanan!".
 
 #### B. Manajemen Kepadatan Ruang (*Crowd Control*)
 
@@ -111,4 +111,4 @@ Ambiguitas situasi merupakan katalis utama yang melipatgandakan kepanikan.
 | **Perilaku Kawanan** (*Herd Behavior*) | Penumpukan massa secara destruktif pada satu pintu keluar. | Lakukan pengalihan aktif ke rute alternatif yang lebih lengang. |
 | **Deindividuasi** | Aksi dorong tanpa empati dan hilangnya kontrol moral. | Gunakan kontak mata langsung atau sapaan personal (misalnya: *"Petugas butuh bantuan Bapak berbaju biru untuk membuka pintu darurat ini"*). |
 
-> **Prinsip Utama:** Dalam kerumunan massa yang panik, kapasitas analisis individual cenderung menurun dan digantikan oleh kecenderungan mengikuti dorongan kolektif. Tanggung jawab manajemen krisis adalah memastikan bahwa arah yang diikuti oleh massa bukan ketakutan buta, melainkan panduan terstruktur yang menyelamatkan kehidupan.
+> **Prinsip Utama:** Dalam kerumunan massa yang panik, kapasitas analisis individual cenderung menurun dan digantikan oleh kecenderungan mengikuti dorongan kolektif. Tanggung jawab manajemen krisis adalah memastikan arah yang diikuti massa berasal dari panduan terstruktur yang menyelamatkan kehidupan.

@@ -11,7 +11,7 @@ Banyak orang mengira bahwa agar masyarakat sejahtera, setiap individu harus bert
 > "Bukan dari kebaikan hati tukang daging, pembuat bir, atau tukang roti kita mengharapkan makan malam kita, melainkan dari penghargaan mereka terhadap kepentingan diri mereka sendiri."  
 > - **Adam Smith, *The Wealth of Nations***
 
-**Analogi Tukang Roti:** Bayangkan seorang tukang roti. Dia tidak bangun pukul 3 pagi untuk memanggang roti karena dia sangat mencintai tetangganya dan ingin mereka kenyang. Dia melakukannya karena ingin **mencari nafkah** demi kepentingan pribadinya.
+**Analogi Tukang Roti:** Bayangkan seorang tukang roti. Dia bangun pukul 3 pagi untuk memanggang roti karena ingin **mencari nafkah** demi kepentingan pribadinya. Keinginan melihat tetangganya kenyang tidak menjadi alasan dia bangun sepagi itu.
 
 Namun, agar rotinya laku, dia harus:
 
@@ -19,11 +19,11 @@ Namun, agar rotinya laku, dia harus:
 2. Menjualnya dengan **harga yang kompetitif** dan efisien.
 3. Melayani pelanggan dengan **ramah**.
 
-Secara tidak sengaja, keinginan si tukang roti untuk mencari keuntungan justru memberikan manfaat bagi masyarakat: tersedianya roti berkualitas dengan harga terjangkau. Inilah cara kerja "Tangan Tak Terlihat".
+Secara tidak sengaja, keinginan si tukang roti untuk mencari keuntungan memberi masyarakat roti berkualitas dengan harga terjangkau. Inilah cara kerja "Tangan Tak Terlihat".
 
 ### 2. Mekanisme Kerja 'The Invisible Hand'
 
-Tangan tak terlihat bukanlah kekuatan gaib, melainkan kombinasi dari dua kekuatan pasar utama: **Kepentingan Pribadi** dan **Persaingan**.
+Tangan tak terlihat lahir dari perpaduan dua kekuatan pasar utama, yaitu **Kepentingan Pribadi** dan **Persaingan**.
 
 #### A. Harga sebagai Sinyal
 
@@ -49,7 +49,7 @@ flowchart TD
 
 Tanpa instruksi pemerintah, modal dan tenaga kerja mengalir secara alami ke sektor-sektor yang paling dibutuhkan masyarakat.
 
-Mengapa saat ini banyak perusahaan beralih memproduksi kendaraan listrik? Bukan karena perintah pemerintah semata, melainkan karena sinyal pasar memberi tahu mereka bahwa konsumen menginginkannya dan di sanalah peluang keuntungan masa depan berada.
+Mengapa saat ini banyak perusahaan beralih memproduksi kendaraan listrik? Perintah pemerintah hanya menjelaskan sebagian. Sinyal pasar memberi tahu mereka bahwa konsumen menginginkannya dan di sanalah peluang keuntungan masa depan berada.
 
 ### 3. Keseimbangan Pasar (Market Equilibrium)
 
@@ -69,7 +69,7 @@ Kondisi penyesuaian harga di pasar ditunjukkan pada tabel berikut:
 | $P < P_{\text{equilibrium}}$ | Kelangkaan (Barang kurang) | Konsumen bersaing mendapatkan barang | Harga naik menuju titik seimbang |
 | $P = P_{\text{equilibrium}}$ | Keseimbangan (*Equilibrium*) | Penawaran dan permintaan tepat serasi | Pasar berada pada efisiensi maksimal |
 
-**Hasil Akhirnya:** Pasar cenderung bergerak menuju titik efisiensi maksimal secara otomatis tanpa perlu intervensi langsung.
+Pada akhirnya, pasar cenderung bergerak menuju titik efisiensi maksimal secara otomatis tanpa perlu intervensi langsung.
 
 ### 4. Manfaat bagi Kesejahteraan Publik
 
@@ -98,6 +98,6 @@ Agar mekanisme ini berfungsi optimal, diperlukan beberapa prasyarat utama:
 - **Informasi yang Transparan:** Memastikan konsumen tahu persis kualitas barang yang mereka beli.
 - **Ketiadaan Monopoli:** Menjaga agar pintu persaingan terbuka lebar bagi pelaku usaha baru.
 
-> **Catatan Penting:** *The Invisible Hand* tidak berarti bahwa setiap tindakan egois berdampak baik. Konsep ini berlaku dalam kerangka pasar yang kompetitif dan bermoral, tempat hukum serta aturan main tetap dihormati.
+> **Catatan Penting:** *The Invisible Hand* berlaku dalam kerangka pasar yang kompetitif dan bermoral, tempat hukum serta aturan main tetap dihormati. Konsep ini tidak menjanjikan bahwa setiap tindakan egois berdampak baik.
 
-*Coba renungkan: Sebutkan satu barang di sekitar kamu saat ini yang keberadaannya murni hasil dari mekanisme pasar tanpa campur tangan pemerintah. Bagaimana kualitasnya dibandingkan barang yang disubsidi atau diatur ketat oleh negara?*
+*Coba sebutkan satu barang di sekitar kamu saat ini yang keberadaannya murni hasil dari mekanisme pasar tanpa campur tangan pemerintah. Bagaimana kualitasnya dibandingkan barang yang disubsidi atau diatur ketat oleh negara?*

@@ -22,7 +22,7 @@ Dunia periklanan digital modern digerakkan oleh pertukaran nilai. Namun, sering 
 - **Keamanan Data:** Risiko kebocoran data sensitif (lokasi, kesehatan, orientasi politik).
 - **Dampak Surveillance Capitalism:** Perasaan terus-menerus diawasi yang dapat mengubah perilaku alami manusia.
 
-> **Analogi "Si Pelayan vs. Si Penguntit"** Etika periklanan yang baik adalah seperti **pelayan profesional** di restoran mewah: dia ada saat dibutuhkan, memberikan rekomendasi berdasarkan menu yang kamu lihat, tapi tetap menjaga jarak. Etika yang buruk adalah seperti **penguntit**: dia tahu segala hal tentang kamu tanpa pernah memperkenalkan diri, dan muncul di tempat-tempat yang seharusnya tidak dia datangi.
+> **Analogi "Si Pelayan vs. Si Penguntit"** Etika periklanan yang baik adalah seperti **pelayan profesional** di restoran mewah, yang ada saat dibutuhkan, memberikan rekomendasi berdasarkan menu yang kamu lihat, tapi tetap menjaga jarak. Etika yang buruk mirip **penguntit**. Dia tahu segala hal tentang kamu tanpa pernah memperkenalkan diri, dan muncul di tempat-tempat yang seharusnya tidak dia datangi.
 
 ## 2. Pentingnya Persetujuan Eksplisit (Explicit Consent)
 
@@ -31,11 +31,11 @@ Salah satu pilar utama etika data adalah bagaimana data tersebut diperoleh. Dala
 1. **Implicit Consent (Opt-out):** Platform mengasumsikan kamu setuju untuk dilacak kecuali kamu secara manual masuk ke pengaturan dan mematikannya.
 2. **Explicit Consent (Opt-in):** Platform dilarang mengambil data apa pun sampai kamu secara sadar menekan tombol "Setuju".
 
-**Mengapa Persetujuan Eksplisit Sangat Penting?** Persetujuan eksplisit memberikan kembali kendali kepada pengguna. Ini bukan sekadar mencentang kotak "Syarat dan Ketentuan" yang panjangnya 50 halaman, melainkan tentang:
+**Mengapa Persetujuan Eksplisit Sangat Penting?** Persetujuan eksplisit memberikan kembali kendali kepada pengguna. Mencentang kotak "Syarat dan Ketentuan" yang panjangnya 50 halaman belum cukup, karena persetujuan eksplisit mencakup tiga hal berikut:
 
 - **Transparansi:** Mengetahui data apa yang diambil.
 - **Tujuan:** Mengetahui untuk apa data itu digunakan.
-- **Granularitas:** Pengguna bisa memilih: "Ya untuk email marketing, tapi Tidak untuk pelacakan lokasi."
+- **Granularitas:** Pengguna bisa memilih, misalnya "Ya untuk email marketing, tapi Tidak untuk pelacakan lokasi."
 
 ## 3. Prinsip Pengolahan Data yang Etis
 
@@ -59,7 +59,7 @@ Salah satu contoh pelanggaran etika data adalah kasus **Cambridge Analytica**.
 
 - **Skenario:** Data dari jutaan pengguna Facebook diambil melalui kuis kepribadian pihak ketiga tanpa persetujuan eksplisit untuk tujuan politik.
 - **Dampak:** Data tersebut digunakan untuk membuat profil psikologis (micro-targeting) guna memengaruhi pilihan pemilih dalam pemilu.
-- **Pelajaran:** Kasus ini membuktikan bahwa pelanggaran privasi data iklan bukan hanya soal "iklan sepatu yang mengganggu", tetapi bisa mengancam demokrasi dan stabilitas sosial.
+- **Pelajaran:** Kasus ini membuktikan bahwa pelanggaran privasi data iklan bisa mengancam demokrasi dan stabilitas sosial. Taruhannya jauh lebih besar daripada "iklan sepatu yang mengganggu".
 
 ## 6. Nilai vs. Privasi
 
@@ -69,16 +69,16 @@ $$
 U = f(P, V)
 $$
 
-Sering kali terdapat *trade-off*: $\uparrow P\implies\downarrow V$
+Sering kali terdapat *trade-off* berupa $\uparrow P\implies\downarrow V$
 
 Tujuan dari etika periklanan modern adalah mencari titik optimal tempat $P$ cukup tinggi untuk memberikan nilai, tetapi $V$ tidak turun di bawah ambang batas hak asasi manusia.
 
 ## Tanggung Jawab Bersama
 
-Etika periklanan bukan hanya tugas regulator atau pemerintah.
+Etika periklanan juga menjadi tugas pengembang, pengiklan, dan pengguna, di samping regulator atau pemerintah.
 
 - **Bagi Pengembang:** Bangunlah sistem dengan prinsip *Privacy by Design*.
-- **Bagi Pengiklan:** Fokuslah pada upaya membangun kepercayaan jangka panjang, bukan sekadar klik sesaat.
+- **Bagi Pengiklan:** Fokuslah pada upaya membangun kepercayaan jangka panjang.
 - **Bagi Pengguna:** Jadilah konsumen yang sadar akan jejak digital kamu.
 
-**Penting:** Privasi bukanlah sesuatu yang kita butuhkan karena kita memiliki sesuatu untuk disembunyikan; privasi adalah sesuatu yang kita miliki untuk melindungi jati diri kita dari manipulasi algoritma yang tidak terlihat.
+**Penting:** Kita membutuhkan privasi walaupun tidak punya apa pun untuk disembunyikan. Privasi melindungi jati diri kita dari manipulasi algoritma yang tidak terlihat.

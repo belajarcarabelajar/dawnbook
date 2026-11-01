@@ -35,9 +35,9 @@ Ini adalah teknik *grounding* yang populer dan efektif karena melibatkan kelima 
 Mari kita praktikkan langkah demi langkah:
 
 1. **5 Hal yang Dapat Kamu LIHAT**  
-   Cari benda-benda di sekitarmu yang biasanya luput dari perhatian. Amati detailnya: "Saya melihat pola serat kayu pada meja ini," atau "Saya melihat pantulan cahaya di sudut jendela."
+   Cari benda-benda di sekitarmu yang biasanya luput dari perhatian. Amati detailnya, misalnya "Saya melihat pola serat kayu pada meja ini," atau "Saya melihat pantulan cahaya di sudut jendela."
 2. **4 Hal yang Dapat Kamu SENTUH**  
-   Rasakan tekstur benda di sekitarmu. Amati rasa kain baju yang kamu kenakan, dinginnya permukaan meja, atau kokohnya lantai di bawah telapak kaki. Fokus pada sensasi fisik: Apakah rasanya kasar, halus, hangat, atau dingin?
+   Rasakan tekstur benda di sekitarmu. Amati rasa kain baju yang kamu kenakan, dinginnya permukaan meja, atau kokohnya lantai di bawah telapak kaki. Fokus pada sensasi fisik. Apakah rasanya kasar, halus, hangat, atau dingin?
 3. **3 Suara yang Dapat Kamu DENGAR**  
    Pejamkan mata sejenak bila membantu. Dengarkan detak jam dinding, kendaraan yang melintas jauh di luar, atau dengung lembut kipas angin/AC.
 4. **2 Aroma yang Dapat Kamu CIUM**  
@@ -47,7 +47,7 @@ Mari kita praktikkan langkah demi langkah:
 
 ### Variasi Teknik Grounding Lainnya
 
-Selain teknik 5-4-3-2-1, ada beberapa metode lain yang berbasis fisik (*kinesthetic grounding*) dan kognitif (*cognitive grounding*):
+Selain teknik 5-4-3-2-1, ada beberapa metode lain yang berbasis fisik (*kinesthetic grounding*) dan kognitif (*cognitive grounding*).
 
 #### 1. Teknik Suhu Ekstrem (The Ice Cube Trick)
 
@@ -72,7 +72,7 @@ Hentakkan telapak kaki ke lantai dengan mantap. Rasakan pijakan kokoh antara tel
 
 Bayangkan kamu sedang berada di perahu kecil di tengah lautan. Tiba-tiba badai panik datang dan gelombang laut bergulung tinggi. Fokus yang terpaku hanya pada gelombang akan memicu rasa pusing dan takut tenggelam.
 
-***Grounding* bekerja seperti melempar jangkar ke dasar laut.** Jangkar tidak langsung menghentikan badai, tetapi menjaga perahu tetap stabil dan tidak terbawa arus hingga cuaca kembali tenang.
+***Grounding* bekerja seperti melempar jangkar ke dasar laut.** Badainya tidak langsung berhenti. Jangkar menjaga perahu tetap stabil dan tidak terbawa arus hingga cuaca kembali tenang.
 
 ### Panik Sebelum Presentasi
 

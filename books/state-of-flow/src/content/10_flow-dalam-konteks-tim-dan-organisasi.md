@@ -10,21 +10,21 @@ Jika *Individual Flow* adalah tentang "berada dalam zona" secara pribadi, maka *
 
 ### Tim Dayung vs. Tim Penarik Tambang
 
-Dalam tarik tambang, kamu hanya perlu kekuatan kasar. Jika satu orang berhenti, yang lain bisa menarik lebih keras. Namun dalam **tim dayung (rowing)**, jika satu orang kehilangan ritme meski hanya satu detik, seluruh perahu akan bergoyang dan kehilangan kecepatan. *Group Flow* mirip dengan tim dayung: setiap gerakan harus selaras secara presisi untuk mencapai momentum maksimal.
+Dalam tarik tambang, kamu hanya perlu kekuatan kasar. Jika satu orang berhenti, yang lain bisa menarik lebih keras. Namun dalam **tim dayung (rowing)**, jika satu orang kehilangan ritme meski hanya satu detik, seluruh perahu akan bergoyang dan kehilangan kecepatan. *Group Flow* mirip dengan tim dayung, karena setiap gerakan harus selaras secara presisi untuk mencapai momentum maksimal.
 
 ## Pemicu (Triggers) Group Flow
 
-Untuk menciptakan kondisi ini, organisasi tidak bisa hanya "berharap" itu terjadi. Ada 10 pemicu utama yang harus dibangun dalam lingkungan kerja:
+Organisasi yang ingin menciptakan kondisi ini perlu membangun 10 pemicu utama dalam lingkungan kerja:
 
-1. **Shared Goals (Tujuan Bersama):** Tim harus memiliki target yang jelas dan dipahami secara universal. Bukan sekadar "meningkatkan profit", tapi misi yang spesifik seperti "meluncurkan fitur X tanpa bug dalam 24 jam".
-2. **Close Listening (Mendengarkan Secara Mendalam):** Interaksi harus bersifat responsif. Anggota tim tidak hanya menunggu giliran bicara, tetapi benar-benar merespons kontribusi rekan sebelumnya.
+1. **Shared Goals (Tujuan Bersama):** Tim harus memiliki target yang jelas dan dipahami secara universal. Contohnya "meluncurkan fitur X tanpa bug dalam 24 jam", sebuah misi yang jauh lebih spesifik daripada "meningkatkan profit".
+2. **Close Listening (Mendengarkan Secara Mendalam):** Interaksi harus bersifat responsif. Setiap anggota tim benar-benar merespons kontribusi rekan sebelumnya.
 3. **Complete Concentration (Konsentrasi Penuh):** Tim harus terlindungi dari gangguan eksternal (rapat yang tidak perlu, notifikasi terus-menerus).
 4. **Sense of Control (Perasaan Memegang Kendali):** Anggota tim merasa memiliki otonomi atas cara mereka bekerja untuk mencapai tujuan bersama.
-5. **Blending Egos (Penyatuan Ego):** Tidak ada tempat bagi "bintang" tunggal. Kesuksesan tim adalah identitas utama.
+5. **Blending Egos (Penyatuan Ego):** Kesuksesan tim menjadi identitas utama, sehingga tidak ada tempat bagi "bintang" tunggal.
 6. **Equal Participation (Partisipasi Setara):** Setiap anggota memiliki peran yang penting. Flow jarang terjadi jika satu orang mendominasi pembicaraan sementara yang lain pasif.
 7. **Familiarity (Keakraban):** Anggota tim perlu memahami gaya komunikasi, kelebihan, dan kelemahan satu sama lain agar dapat memprediksi langkah selanjutnya.
-8. **Constant Communication (Komunikasi Terus-menerus):** Umpan balik harus terjadi secara *real-time*, bukan menunggu evaluasi tahunan.
-9. **The "Yes, And" Rule (Pola Pikir Improvisasi):** Mengambil ide rekan dan membangunnya lebih lanjut, bukan langsung menolaknya.
+8. **Constant Communication (Komunikasi Terus-menerus):** Umpan balik harus terjadi secara *real-time*, tanpa menunggu evaluasi tahunan.
+9. **The "Yes, And" Rule (Pola Pikir Improvisasi):** Menerima ide rekan lebih dulu, lalu membangunnya lebih lanjut.
 10. **Shared Risk (Risiko Bersama):** Kegagalan atau keberhasilan ditanggung bersama, menciptakan rasa urgensi dan solidaritas.
 
 ## Struktur Organisasi yang Mendukung Flow
@@ -57,12 +57,12 @@ Contoh sederhananya adalah notifikasi otomatis. Bayangkan begitu satu tugas sele
 
 ## Tim Medis Darurat (ER)
 
-Dalam unit gawat darurat, *Group Flow* bukan sekadar konsep - ini adalah pembeda antara hidup dan mati. Saat pasien kritis datang:
+Dalam unit gawat darurat, *Group Flow* menjadi pembeda antara hidup dan mati. Saat pasien kritis datang:
 
 - Setiap dokter dan perawat tahu peran masing-masing tanpa harus diberi perintah mendetail setiap detiknya.
 - Mereka menggunakan komunikasi verbal yang singkat dan jelas (Closed-Loop Communication).
 - **Contoh:** Perawat berkata "1 mg epinefrin masuk", Dokter menjawab, "1 mg epinefrin masuk, dikonfirmasi".
-- Ada kesamaan visi yang mendesak: menyelamatkan nyawa. Di sini, ego hilang, dan yang ada hanyalah satu "organisme" yang bekerja untuk satu tujuan.
+- Ada kesamaan visi yang mendesak, yaitu menyelamatkan nyawa. Di sini, ego hilang, dan yang ada hanyalah satu "organisme" yang bekerja untuk satu tujuan.
 
 ## Refleksi untuk kamu
 

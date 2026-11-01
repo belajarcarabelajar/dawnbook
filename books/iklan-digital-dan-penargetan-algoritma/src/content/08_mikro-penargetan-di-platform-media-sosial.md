@@ -4,15 +4,15 @@ Bayangkan kamu sedang berjalan di tengah pasar raksasa yang berisi satu miliar o
 
 Namun, di era mikro-penargetan, menemukan sepuluh orang tersebut semudah menekan tombol "Publish" pada *dashboard* iklanmu.
 
-**Mikro-penargetan** adalah teknik pemasaran yang menggunakan data konsumen dan algoritma canggih untuk membagi audiens ke dalam segmen-segmen yang sangat kecil dan spesifik. Tujuannya bukan lagi menjangkau "semua orang", melainkan menjangkau "orang yang tepat" dengan pesan yang terasa sangat personal.
+**Mikro-penargetan** adalah teknik pemasaran yang menggunakan data konsumen dan algoritma canggih untuk membagi audiens ke dalam segmen-segmen yang sangat kecil dan spesifik. Tujuannya menjangkau "orang yang tepat" dengan pesan yang terasa sangat personal.
 
 ### 1. Meta (Facebook & Instagram)
 
-Meta membangun kekuatannya melalui **Social Graph**, yaitu pemetaan hubungan antara pengguna, minat, dan aktivitas mereka. Strategi mikro-penargetan Meta berpusat pada tiga pilar utama:
+Meta membangun kekuatannya melalui **Social Graph**, yaitu pemetaan hubungan antara pengguna, minat, dan aktivitas mereka. Strategi mikro-penargetan Meta berpusat pada tiga pilar utama.
 
 #### A. Penargetan Berdasarkan Minat (Interest-based)
 
-Meta tidak hanya tahu apa yang kamu sukai secara eksplisit (tombol *Like*), tetapi juga apa yang kamu sukai secara implisit. Algoritma mereka menganalisis berapa lama kamu berhenti untuk memandang sebuah foto produk atau kategori akun yang sering kamu kunjungi.
+Meta mengenali kesukaanmu yang eksplisit (tombol *Like*) sekaligus yang implisit. Algoritma mereka menganalisis berapa lama kamu berhenti untuk memandang sebuah foto produk atau kategori akun yang sering kamu kunjungi.
 
 #### B. Custom Audiences (Audiens Kustom)
 
@@ -28,7 +28,7 @@ Dengan algoritma *machine learning*, Meta dapat mencari pengguna baru yang memil
 
 ### 2. Graf Minat TikTok
 
-Berbeda dengan Meta yang berbasis hubungan sosial, TikTok menggunakan **Graf Minat (Interest Graph)**. TikTok tidak peduli siapa temanmu; ia peduli pada apa yang membuatmu terus menonton (*watch time*).
+Berbeda dengan Meta yang berbasis hubungan sosial, TikTok menggunakan **Graf Minat (Interest Graph)**. TikTok memusatkan perhatian pada apa yang membuatmu terus menonton (*watch time*).
 
 #### Bagaimana TikTok Melakukan Mikro-Penargetan?
 
@@ -39,9 +39,9 @@ Berbeda dengan Meta yang berbasis hubungan sosial, TikTok menggunakan **Graf Min
 
 Google memetakan segmen pasar melalui apa yang orang **cari** dan **lakukan**. Jika Meta tahu siapa kamu, Google tahu apa yang kamu butuhkan saat ini.
 
-- **Pencarian (Search):** Menggunakan kata kunci *long-tail* (sangat spesifik). Contoh: "sepatu lari untuk kaki datar pria ukuran 42".
+- **Pencarian (Search):** Menggunakan kata kunci *long-tail* (sangat spesifik), misalnya "sepatu lari untuk kaki datar pria ukuran 42".
 - **Afinitas & In-Market:** Google mengelompokkan pengguna berdasarkan kebiasaan jangka panjang (Afinitas) atau niat membeli yang mendesak (In-Market).
-- **Konteks Video (YouTube):** Mikro-penargetan pada kanal YouTube yang sangat spesifik (misal: hanya beriklan di kanal yang membahas restorasi jam tangan antik).
+- **Konteks Video (YouTube):** Mikro-penargetan pada kanal YouTube yang sangat spesifik (misalnya hanya beriklan di kanal yang membahas restorasi jam tangan antik).
 
 ### Mekanisme Teknis Cosine Similarity
 
@@ -76,7 +76,7 @@ Pengguna 2 sebenarnya juga suka kopi, tetapi tersaring karena tinggal di Bandung
 Sebuah perusahaan kecil ingin memasarkan makanan anjing vegan untuk anjing yang sudah tua di wilayah perkotaan.
 
 1. **Langkah 1 (Meta):** Menargetkan pengguna yang menyukai halaman "Kesejahteraan Hewan" DAN "Veganisme" DAN memiliki minat pada "Anjing Senior". Gunakan *geofencing* pada kota-kota besar saja.
-2. **Langkah 2 (Google):** Menawar kata kunci spesifik: "makanan anjing vegan untuk radang sendi".
+2. **Langkah 2 (Google):** Menawar kata kunci spesifik "makanan anjing vegan untuk radang sendi".
 3. **Langkah 3 (TikTok):** Bekerja sama dengan *micro-influencer* yang kontennya fokus pada perawatan hewan peliharaan lanjut usia.
 
 **Hasilnya:** Daripada membakar uang dengan beriklan ke semua pemilik anjing (yang mayoritas memberikan makanan daging biasa), perusahaan hanya mengeluarkan biaya untuk menjangkau kelompok kecil yang memiliki peluang konversi lebih tinggi.
@@ -86,7 +86,7 @@ Sebuah perusahaan kecil ingin memasarkan makanan anjing vegan untuk anjing yang 
 **Keuntungan:**
 
 - **Efisiensi Biaya:** Anggaran yang terbuang untuk audiens yang tidak relevan dapat diperkecil.
-- **Relevansi Tinggi:** Iklan terasa seperti rekomendasi dari teman, bukan gangguan.
+- **Relevansi Tinggi:** Iklan terasa seperti rekomendasi dari teman.
 - **Konversi Lebih Tinggi:** Pesan yang sangat spesifik lebih mudah menggerakkan orang untuk membeli.
 
 **Tantangan:**
@@ -95,4 +95,4 @@ Sebuah perusahaan kecil ingin memasarkan makanan anjing vegan untuk anjing yang 
 - **Skalabilitas:** Sulit untuk tumbuh besar jika hanya terpaku pada segmen yang sangat sempit.
 - **Isu Privasi:** Semakin spesifik penargetan, semakin banyak data pribadi yang harus "diintip" oleh algoritma (akan dibahas lebih dalam di bagian Etika Periklanan dan Privasi Data).
 
-> **Penting:** Mikro-penargetan bukan tentang mencari audiens sebanyak mungkin, melainkan tentang mencari audiens yang paling bernilai bagi bisnismu.
+> **Penting:** Mikro-penargetan berarti mencari audiens yang paling bernilai bagi bisnismu.

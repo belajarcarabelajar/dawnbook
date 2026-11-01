@@ -12,7 +12,7 @@ Secara etimologi, *Premeditatio Malorum* berasal dari bahasa Latin yang berarti 
 
 > Mengapa gedung-gedung melakukan latihan evakuasi kebakaran padahal tidak ada api? Karena ketika api benar-benar muncul, kepanikan adalah musuh terbesar. Latihan memungkinkan tubuh dan pikiran bergerak secara otomatis dan tenang. *Premeditatio Malorum* adalah latihan evakuasi kebakaran untuk jiwa kamu.
 
-Latihan ini bukan tentang menjadi pesimis atau menyebarkan aura negatif. Sebaliknya, ini adalah alat untuk membangun **resiliensi psikologis** dan menghargai apa yang kita miliki saat ini sebelum hal itu hilang.
+Latihan ini adalah alat untuk membangun **resiliensi psikologis** dan menghargai apa yang kita miliki saat ini sebelum hal itu hilang. Kamu tidak sedang melatih diri menjadi pesimis atau menyebarkan aura negatif.
 
 ## Mengapa Kita Melakukannya?
 
@@ -24,7 +24,7 @@ Seneca, salah satu filsuf Stoik, menulis:
 
 > "Sesuatu yang sudah diantisipasi sebelumnya akan datang dengan hantaman yang lebih ringan."
 
-Penderitaan manusia sering kali bukan berasal dari kejadian itu sendiri, melainkan dari **kesenjangan antara ekspektasi kita dan realitas**. Dengan membayangkan kemungkinan terburuk, kita menutup celah tersebut. Jika hal buruk terjadi, kita tidak terkejut. Jika hal buruk tidak terjadi, kita merasa jauh lebih beruntung.
+Penderitaan manusia sering kali berasal dari **kesenjangan antara ekspektasi kita dan realitas**. Dengan membayangkan kemungkinan terburuk, kita menutup celah tersebut. Jika hal buruk terjadi, kita tidak terkejut. Jika hal buruk tidak terjadi, kita merasa jauh lebih beruntung.
 
 ### 2\. Melawan Adaptasi Hedonik (Hedonic Adaptation)
 
@@ -82,7 +82,7 @@ Latihan *Premeditatio Malorum* menentukan cara kamu memproses emosi ketika sebua
 | Negatif | Belum | *"Guncangan ini adalah pelajaran. Gunakan akal sehat."* Kejadian ini sekaligus menjadi pengingat untuk berlatih di masa depan. |
 | Bukan negatif | Tidak perlu ditanyakan | *"Nikmati dengan penuh kesadaran, karena ini tidak abadi."* |
 
-Misalnya, koneksi internet kamu mati saat presentasi. Itu kejadian negatif, jadi pertanyaannya tinggal satu: sudahkah kamu mengantisipasinya?
+Misalnya, koneksi internet kamu mati saat presentasi. Itu kejadian negatif, jadi kamu cukup memeriksa satu hal, yaitu apakah kamu sudah mengantisipasinya.
 
 ## Penggunaan Praktis
 
@@ -92,7 +92,7 @@ Misalnya, koneksi internet kamu mati saat presentasi. Itu kejadian negatif, jadi
 
 ### B. Hubungan Asmara
 
-**Latihan:** Bayangkan orang yang kamu cintai suatu saat akan pergi, baik karena perpisahan atau kematian (sejalan dengan *Memento Mori*). **Hasil:** Bukannya menjadi sedih, kamu akan berhenti bermain HP saat makan malam bersama mereka dan benar-benar menghargai kehadiran mereka malam ini.
+**Latihan:** Bayangkan orang yang kamu cintai suatu saat akan pergi, baik karena perpisahan atau kematian (sejalan dengan *Memento Mori*). **Hasil:** Kamu akan berhenti bermain HP saat makan malam bersama mereka dan benar-benar menghargai kehadiran mereka malam ini.
 
 ### C. Perjalanan Udara
 
@@ -113,4 +113,4 @@ Banyak orang salah paham dan menganggap latihan ini sama dengan rasa cemas. Mari
 
 *Pikirkan satu hal yang paling kamu takuti terjadi minggu ini. Cobalah duduk tenang selama 2 menit, bayangkan hal itu benar-benar terjadi, dan lihatlah bagaimana karakter terbaik kamu (sabar, berani, atau bijaksana) bisa merespons situasi tersebut.*
 
-> **Pesan Utama:** Kita tidak bisa mengendalikan apa yang dilemparkan kehidupan kepada kita, tetapi kita bisa mengendalikan bagaimana kita mempersiapkan diri untuk menerimanya. Dengan berlatih menghadapi kesulitan di dalam pikiran, kita lebih siap saat kesulitan itu benar-benar datang.
+> **Pesan Utama:** Kita bisa mengendalikan cara kita mempersiapkan diri untuk menerima apa pun yang dilemparkan kehidupan kepada kita. Dengan berlatih menghadapi kesulitan di dalam pikiran, kita lebih siap saat kesulitan itu benar-benar datang.

@@ -2,7 +2,7 @@
 
 Pernahkah kamu membayangkan prosedur medis yang sudah ribuan tahun dilakukan manusia, tetapi tetap termasuk operasi paling umum di dunia medis modern? Itulah **Tonsilektomi**.
 
-Secara harfiah, Tonsilektomi berasal dari dua kata: *"Tonsil"* (amandel) dan *"Ektomi"* (pembuangan/pengangkatan). Dalam dunia medis, ini adalah prosedur pembedahan untuk mengangkat sepasang jaringan limfoid yang terletak di belakang tenggorokanmu.
+Secara harfiah, Tonsilektomi berasal dari gabungan kata *"Tonsil"* (amandel) dan *"Ektomi"* (pembuangan/pengangkatan). Dalam dunia medis, ini adalah prosedur pembedahan untuk mengangkat sepasang jaringan limfoid yang terletak di belakang tenggorokanmu.
 
 ## Definisi Tonsilektomi
 
@@ -28,7 +28,7 @@ Muncul alat yang disebut *Tonsillotome* atau *Guillotine* amandel. Alat ini beke
 
 ### 3. Era Modern
 
-Memasuki abad ke-20 dan ke-21, fokus pembedahan bergeser dari sekadar mengangkat jaringan menjadi upaya meminimalkan kerusakan pada area sekitar.
+Memasuki abad ke-20 dan ke-21, pembedahan mulai berfokus pada upaya meminimalkan kerusakan pada area sekitar saat jaringan diangkat.
 
 Beberapa metode modern yang sering digunakan antara lain:
 - **Metode Pisau Dingin (Cold Knife):** Teknik klasik menggunakan pisau bedah baja standar. Metode ini masih menjadi pilihan utama karena tidak menghasilkan panas, sehingga jaringan di sekitar amandel bebas dari kerusakan termal.

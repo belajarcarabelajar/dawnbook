@@ -2,7 +2,7 @@
 
 Biologi evolusioner, perilaku hewan, dan matematika strategis bertemu dalam satu cabang teori permainan. Jika sebelumnya kita membahas bagaimana manusia yang "rasional" mengambil keputusan, kali ini kita akan membuang asumsi "rasionalitas" tersebut.
 
-Dalam **Teori Permainan Evolusioner (Evolutionary Game Theory - EGT)**, kita tidak bertanya "Apa yang akan dipikirkan pemain?", melainkan "Strategi mana yang akan bertahan hidup dan mendominasi populasi?"
+Dalam **Teori Permainan Evolusioner (Evolutionary Game Theory - EGT)**, pertanyaan kita berganti menjadi "Strategi mana yang akan bertahan hidup dan mendominasi populasi?"
 
 ### 1. Mengapa Evolusi Membutuhkan Teori Permainan?
 
@@ -10,9 +10,9 @@ Dalam teori permainan klasik, kita berasumsi pemain memiliki kecerdasan untuk me
 
 Di sini, konsep-konsep kunci berubah:
 
-- **Pemain:** Bukan lagi individu yang berpikir, melainkan **gen atau organisme** yang membawa strategi tertentu.
-- **Strategi:** Bukan pilihan sadar, melainkan **sifat (trait)** yang diwariskan secara genetis (misalnya: perilaku agresif vs. perilaku damai).
-- **Payoff (Hasil):** Bukan uang atau kepuasan, melainkan **Fitness (Kebugaran)**, yang diukur dari keberhasilan reproduksi dan kelangsungan hidup.
+- **Pemain:** **Gen atau organisme** yang membawa strategi tertentu, tanpa perlu berpikir.
+- **Strategi:** **Sifat (trait)** yang diwariskan secara genetis, misalnya perilaku agresif vs. perilaku damai. Sifat ini tidak dipilih secara sadar.
+- **Payoff (Hasil):** **Fitness (Kebugaran)**, yang diukur dari keberhasilan reproduksi dan kelangsungan hidup.
 
 > **Analogi Strategi sebagai Warisan:** Bayangkan sebuah strategi adalah sebuah "resep masakan" yang tertanam dalam DNA. Jika resep itu membuat kamu kenyang dan panjang umur, kamu akan memiliki banyak anak dan mewariskan resep tersebut kepada mereka. Seiring waktu, seluruh populasi akan memasak dengan resep yang sama.
 
@@ -52,7 +52,7 @@ Ada dua strategi:
 
 ### 4. Dinamika Replikator (Replicator Dynamics)
 
-EGT tidak hanya bersifat statis, tetapi juga mempelajari bagaimana proporsi strategi berubah seiring waktu. Ini disebut **Dinamika Replikator**.
+EGT juga mempelajari bagaimana proporsi strategi berubah seiring waktu. Ini disebut **Dinamika Replikator**.
 
 Jika $x_i$ adalah proporsi individu yang menggunakan strategi $i$ dalam populasi, maka perubahan proporsi tersebut dapat dirumuskan sebagai:
 
@@ -65,7 +65,7 @@ Keterangan:
 - $f_i(x)$ adalah kebugaran dari strategi $i$.
 - $\phi(x)$ adalah rata-rata kebugaran seluruh populasi.
 
-**Intinya:** Jika sebuah strategi memberikan hasil di atas rata-rata populasi, maka proporsi pengguna strategi tersebut akan meningkat di generasi berikutnya.
+Artinya, jika sebuah strategi memberikan hasil di atas rata-rata populasi, proporsi pengguna strategi tersebut akan meningkat di generasi berikutnya.
 
 ### 5. Aplikasi Dunia Nyata & Kasus Praktis
 
@@ -83,7 +83,7 @@ Dalam bidang medis, dokter menggunakan EGT untuk memahami bagaimana bakteri "ber
 
 ### 6. Populasi Elang dan Merpati dari Generasi ke Generasi
 
-Supaya dinamika replikator terasa lebih konkret, mari hitung satu contoh dengan angka ilustrasi: nilai sumber daya $V = 50$, biaya cedera $C = 100$, dan populasi awal berisi 10% elang serta 90% merpati. Dengan angka ini, isi matriks payoff Hawk-Dove menjadi: elang melawan elang $-25$, elang melawan merpati $50$, merpati melawan elang $0$, dan merpati melawan merpati $25$.
+Supaya dinamika replikator terasa lebih konkret, mari hitung satu contoh dengan angka ilustrasi berupa nilai sumber daya $V = 50$, biaya cedera $C = 100$, dan populasi awal berisi 10% elang serta 90% merpati. Dengan angka ini, matriks payoff Hawk-Dove berisi elang melawan elang $-25$, elang melawan merpati $50$, merpati melawan elang $0$, dan merpati melawan merpati $25$.
 
 Misalkan $x_E$ adalah proporsi elang dan $x_M$ proporsi merpati. Kebugaran setiap strategi dihitung dari payoff-nya melawan elang dan melawan merpati, masing-masing ditimbang dengan proporsinya di populasi:
 
@@ -107,7 +107,7 @@ x_E^{\text{baru}} = x_E \cdot \frac{f_E}{\phi}
 $$
 </div>
 
-Arahnya sama dengan rumus dinamika replikator di bagian 4: proporsi elang naik jika $f_E > \phi$ dan turun jika $f_E < \phi$. Pada generasi awal, kebugaran elang adalah $0{,}1 \cdot (-25) + 0{,}9 \cdot 50 = 42{,}5$, kebugaran merpati $0{,}9 \cdot 25 = 22{,}5$, dan rata-ratanya $0{,}1 \cdot 42{,}5 + 0{,}9 \cdot 22{,}5 = 24{,}5$. Proporsi elang pada generasi berikutnya menjadi $0{,}1 \cdot 42{,}5 / 24{,}5 \approx 0{,}1735$, atau 17,35%. Hitungan yang sama, diulang tiap generasi, menghasilkan tabel ini (dibulatkan dua desimal):
+Arahnya sama dengan rumus dinamika replikator di bagian 4, yaitu proporsi elang naik jika $f_E > \phi$ dan turun jika $f_E < \phi$. Pada generasi awal, kebugaran elang adalah $0{,}1 \cdot (-25) + 0{,}9 \cdot 50 = 42{,}5$, kebugaran merpati $0{,}9 \cdot 25 = 22{,}5$, dan rata-ratanya $0{,}1 \cdot 42{,}5 + 0{,}9 \cdot 22{,}5 = 24{,}5$. Proporsi elang pada generasi berikutnya menjadi $0{,}1 \cdot 42{,}5 / 24{,}5 \approx 0{,}1735$, atau 17,35%. Hitungan yang sama, diulang tiap generasi, menghasilkan tabel ini (dibulatkan dua desimal):
 
 | Generasi | Elang | Merpati | Kebugaran elang | Kebugaran merpati | Kebugaran rata-rata |
 | --- | --- | --- | --- | --- | --- |
@@ -129,7 +129,7 @@ Teori Permainan Evolusioner mengajarkan kita bahwa perilaku yang tampak "tidak l
 **Hal yang Perlu Diingat:**
 
 - **ESS** adalah kondisi ketika populasi kebal terhadap "serangan" strategi asing.
-- **Kebugaran (Fitness)** adalah mata uang utama, bukan uang atau kepuasan pribadi.
+- **Kebugaran (Fitness)** menjadi mata uang utama dan menggantikan uang atau kepuasan pribadi.
 - **Konflik dan Kerja Sama** adalah hasil dari interaksi berulang selama jutaan tahun yang tertanam dalam mekanisme biologis.
 
 *Latihan Refleksi: Dapatkah kamu memikirkan norma sosial manusia yang mungkin merupakan sebuah ESS? Misalnya, mengapa kita mengantre? Apakah mengantre adalah strategi yang lebih stabil daripada berebut jika semua orang melakukannya?*

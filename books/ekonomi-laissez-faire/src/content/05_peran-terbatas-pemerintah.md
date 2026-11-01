@@ -2,19 +2,19 @@
 
 Bayangkan sebuah pertandingan sepak bola. Di sana ada pemain, bola, dan penonton. Di lapangan, ada wasit. Wasit tidak ikut menendang bola, tidak menentukan strategi tim, dan tidak mencetak gol. Namun, tanpa wasit, pertandingan akan berubah menjadi kekacauan. Wasit hanya meniup peluit jika ada pelanggaran aturan atau untuk memastikan permainan berjalan adil.
 
-Inilah inti dari **Peran Terbatas Pemerintah** dalam sistem ekonomi *Laissez-faire*. Pemerintah bertindak sebagai wasit yang memastikan aturan main ditaati agar pasar dapat berfungsi dengan sendirinya, alih-alih ikut bertanding sebagai pemain ekonomi.
+Inilah inti dari **Peran Terbatas Pemerintah** dalam sistem ekonomi *Laissez-faire*. Pemerintah bertindak sebagai wasit yang memastikan aturan main ditaati agar pasar dapat berfungsi dengan sendirinya. Ia tidak ikut bertanding sebagai pemain ekonomi.
 
 ### Filosofi "Negara Penjaga Malam" (The Night-Watchman State)
 
-Dalam tradisi *Laissez-faire*, pemerintah sering disebut sebagai **negara minimal** atau *Night-Watchman State*. Filosofinya adalah: pemerintah hanya boleh ada untuk melindungi individu dari paksaan, pencurian, penipuan, dan pelanggaran kontrak.
+Dalam tradisi *Laissez-faire*, pemerintah sering disebut sebagai **negara minimal** atau *Night-Watchman State*. Menurut filosofi ini, pemerintah hanya boleh ada untuk melindungi individu dari paksaan, pencurian, penipuan, dan pelanggaran kontrak.
 
-Semangat ini terangkum dalam semboyan "pemerintah yang terbaik adalah yang paling sedikit memerintah", yang sering dikira ucapan Thomas Jefferson. Ensiklopedia Monticello (Berkes, 2008) mencatatnya sebagai kutipan palsu Jefferson: bentuk tertua yang diketahui muncul pada 1837 dalam pengantar majalah *The United States Magazine and Democratic Review*. Henry David Thoreau kemudian membuka esai *Civil Disobedience* (1849) dengan menyatakan bahwa ia menerima semboyan itu.
+Semangat ini terangkum dalam semboyan "pemerintah yang terbaik adalah yang paling sedikit memerintah", yang sering dikira ucapan Thomas Jefferson. Ensiklopedia Monticello (Berkes, 2008) mencatatnya sebagai kutipan palsu Jefferson. Bentuk tertua yang diketahui muncul pada 1837 dalam pengantar majalah *The United States Magazine and Democratic Review*. Henry David Thoreau kemudian membuka esai *Civil Disobedience* (1849) dengan menyatakan bahwa ia menerima semboyan itu.
 
 Jika pemerintah melampaui batas ini, misalnya dengan mengatur harga atau mensubsidi industri tertentu, hal itu dianggap sebagai distorsi yang merusak efisiensi alami pasar.
 
 ### Tiga Tugas Utama Pemerintah
 
-Adam Smith, dalam bukunya *The Wealth of Nations*, menguraikan tiga tugas spesifik yang penting tetapi terbatas bagi pemerintah. Berikut adalah rinciannya:
+Adam Smith, dalam bukunya *The Wealth of Nations*, menguraikan tiga tugas spesifik yang penting tetapi terbatas bagi pemerintah.
 
 #### 1. Perlindungan Keamanan (Pertahanan Nasional)
 
@@ -39,7 +39,7 @@ Tanpa penegakan hukum ($H \to 0$), maka kepercayaan pasar akan runtuh ($K \to 0$
 Pemerintah bertugas membangun dan memelihara lembaga-lembaga publik dan infrastruktur tertentu yang tidak akan pernah dibangun oleh sektor swasta karena keuntungan yang tidak langsung atau terlalu kecil bagi individu, tetapi bermanfaat bagi masyarakat luas.
 
 - **Contoh:** Jalan raya utama, jembatan, sistem drainase, atau mercusuar.
-- **Prinsipnya:** Infrastruktur ini harus memfasilitasi perdagangan, bukan mengaturnya.
+- **Prinsipnya:** Infrastruktur ini harus memfasilitasi perdagangan tanpa ikut mengaturnya.
 
 ### Mengapa Pemerintah Tidak Boleh Ikut Campur Lebih Jauh?
 
@@ -49,11 +49,11 @@ Para pendukung *Laissez-faire* berargumen bahwa intervensi pemerintah yang berle
 2. **Hilangnya Inisiatif:** Jika pemerintah terlalu banyak membantu, individu dan perusahaan kehilangan insentif untuk berinovasi dan bekerja keras.
 3. **Pelanggaran Kebebasan:** Setiap regulasi baru sering kali berarti pengurangan kebebasan individu untuk memilih.
 
-> Coba pertimbangkan: Jika pemerintah memberikan subsidi kepada perusahaan yang hampir bangkrut, apakah langkah itu benar-benar membantu ekonomi secara keseluruhan, atau justru menghalangi perusahaan lain yang lebih inovatif untuk berkembang?
+> Bayangkan pemerintah memberikan subsidi kepada perusahaan yang hampir bangkrut. Apakah langkah itu benar-benar membantu ekonomi secara keseluruhan, atau malah menghalangi perusahaan lain yang lebih inovatif untuk berkembang?
 
 ### Tukang Kebun vs. Pemahat
 
-Pemerintah dalam sistem *Laissez-faire* bertindak seperti **tukang kebun**, bukan **pemahat**.
+Bandingkan cara kerja seorang **pemahat** dan seorang **tukang kebun**. Pemerintah dalam sistem *Laissez-faire* bertindak seperti tukang kebun.
 
 - Seorang **pemahat** memaksakan bentuk tertentu pada batu (pemerintah mengatur hasil ekonomi secara paksa).
 - Seorang **tukang kebun** hanya menyiapkan tanah yang subur, menyirami tanaman (infrastruktur), dan mencabut gulma (penegakan hukum), lalu membiarkan tanaman tumbuh sesuai kodratnya (pasar berkembang secara alami).

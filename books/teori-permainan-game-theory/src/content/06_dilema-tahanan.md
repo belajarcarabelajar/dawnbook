@@ -43,7 +43,7 @@ Secara formal, sebuah permainan dikategorikan sebagai Dilema Tahanan jika hasil 
 - $P$ = *Punishment* (Hukuman bagi keduanya): 5 tahun
 - $S$ = *Sucker’s payoff* (Hukuman bagi yang ditipu): 10 tahun
 
-Agar menjadi Dilema Tahanan, urutan preferensi haruslah: $T < R < P < S$ *(Catatan: Karena ini adalah tahun penjara, angka yang lebih kecil lebih diinginkan).*
+Agar menjadi Dilema Tahanan, urutan preferensinya harus $T < R < P < S$ *(karena ini adalah tahun penjara, angka yang lebih kecil lebih diinginkan).*
 
 Selain itu, untuk permainan berulang, terdapat syarat tambahan:
 
@@ -55,7 +55,7 @@ Artinya, bergiliran berkhianat tidak boleh lebih menguntungkan daripada kerja sa
 
 ### Kegagalan Kerja Sama di Bisnis, Politik, dan Lingkungan
 
-Dilema Tahanan bukan sekadar teka-teki logika; ini adalah model untuk memahami kegagalan kerja sama di berbagai bidang.
+Di luar ruang interogasi, Dilema Tahanan menjadi model untuk memahami kegagalan kerja sama di berbagai bidang.
 
 #### 1. Perang Iklan (Bisnis)
 

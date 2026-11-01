@@ -6,7 +6,7 @@ Dalam bagian ini, kita akan melihat bagaimana susunan inti atom menentukan apaka
 
 ### 1. Dua Gaya di Inti Atom
 
-Inti atom bukanlah sekumpulan partikel yang diam. Di dalamnya terdapat dua jenis nukleon (partikel penyusun inti): **Proton** yang bermuatan positif ($p^+$) dan **Neutron** yang bermuatan netral ($n^0$).
+Inti atom berisi dua jenis nukleon (partikel penyusun inti) yang tidak diam, yaitu **Proton** yang bermuatan positif ($p^+$) dan **Neutron** yang bermuatan netral ($n^0$).
 
 Keadaan di dalam inti atom ditentukan oleh tarik-ulur antara dua gaya fundamental:
 
@@ -17,7 +17,7 @@ Keadaan di dalam inti atom ditentukan oleh tarik-ulur antara dua gaya fundamenta
 
 ### 2. Rasio N/Z Penentu Stabilitas Nuklir
 
-Kestabilan sebuah atom tidak ditentukan oleh seberapa banyak jumlah proton atau neutronnya secara terpisah, melainkan oleh **perbandingan atau rasio jumlah neutron ($N$) terhadap jumlah proton ($Z$)**, yang dikenal sebagai **Rasio N/Z**.
+Kestabilan sebuah atom ditentukan oleh **perbandingan atau rasio jumlah neutron ($N$) terhadap jumlah proton ($Z$)**, yang dikenal sebagai **Rasio N/Z**. Jumlah proton atau neutronnya secara terpisah belum cukup untuk menilainya.
 
 #### A. Atom Ringan ($Z \le 20$)
 
@@ -51,9 +51,9 @@ Peluruhan beta adalah cara inti memperbaiki rasio N/Z yang menyimpang:
 
 ### 4. Matematika Ketidakstabilan
 
-Kita dapat menyatakan kondisi ini dengan persamaan sederhana. Misalkan sebuah inti memiliki nomor massa $A$ dan nomor atom $Z$, maka jumlah neutron $N$ adalah: $N = A - Z$
+Kita dapat menyatakan kondisi ini dengan persamaan sederhana. Misalkan sebuah inti memiliki nomor massa $A$ dan nomor atom $Z$, maka jumlah neutronnya adalah $N = A - Z$.
 
-Ketidakstabilan terjadi jika: $\frac{A - Z}{Z} \neq \text{Rasio Stabil}$
+Ketidakstabilan terjadi jika $\frac{A - Z}{Z} \neq \text{Rasio Stabil}$
 
 Untuk isotop berat, energi ikat rata-rata per nukleon ($\text{BE}/A$) juga memainkan peran. Jika perubahan melalui peluruhan beta menghasilkan inti baru dengan energi ikat yang lebih tinggi (lebih stabil), maka proses tersebut secara termodinamika akan terjadi secara spontan.
 
@@ -85,4 +85,4 @@ flowchart TD
     A -->|"sangat berat, Z lebih dari 83, di ujung atas pita"| D["Peluruhan alfa"]
 ```
 
-**Poin Penting:** Peluruhan beta bukanlah sebuah kerusakan, melainkan cara inti atom untuk mencapai konfigurasi energi yang paling rendah dan stabil melalui penyesuaian rasio proton dan neutronnya.
+**Poin Penting:** Peluruhan beta adalah cara inti atom mencapai konfigurasi energi yang paling rendah dan stabil melalui penyesuaian rasio proton dan neutronnya.

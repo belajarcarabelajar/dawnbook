@@ -1,6 +1,6 @@
 ## Rekonstruksi dan Pengucilan Negara Poros Pasca-Perang Dunia II
 
-Setelah jeda selama 12 tahun akibat kecamuk Perang Dunia II, sepak bola dunia mencoba bangkit kembali. Piala Dunia 1950 di Brasil lebih dari sekadar turnamen olahraga. Ajang ini menjadi simbol **rekonstruksi tatanan dunia**, memperlihatkan bagaimana diplomasi lapangan hijau digunakan untuk menghukum masa lalu sekaligus merajut masa depan.
+Setelah jeda selama 12 tahun akibat kecamuk Perang Dunia II, sepak bola dunia mencoba bangkit kembali. Piala Dunia 1950 di Brasil menjadi simbol **rekonstruksi tatanan dunia**, memperlihatkan bagaimana diplomasi lapangan hijau digunakan untuk menghukum masa lalu sekaligus merajut masa depan.
 
 ## 1. Jeda Panjang dan Trauma Global (1938-1950)
 
@@ -12,7 +12,7 @@ Bayangkan sebuah panggung teater yang tiba-tiba gelap gulita di tengah pertunjuk
 
 ## 2. Mengapa Piala Dunia 1950 Digelar di Brasil?
 
-FIFA berada dalam krisis. Tidak ada negara Eropa yang sanggup (secara finansial maupun infrastruktur) untuk menjadi tuan rumah. Brasil muncul sebagai penyelamat dengan syarat yang sangat politis: mereka bersedia menjadi tuan rumah asalkan turnamen diundur ke tahun 1950 agar mereka punya waktu membangun stadion **Maracanã** yang megah.
+FIFA berada dalam krisis. Tidak ada negara Eropa yang sanggup (secara finansial maupun infrastruktur) untuk menjadi tuan rumah. Brasil muncul sebagai penyelamat dengan syarat yang sangat politis. Mereka bersedia menjadi tuan rumah asalkan turnamen diundur ke tahun 1950 agar mereka punya waktu membangun stadion **Maracanã** yang megah.
 
 > **Analogi:** Jika dunia adalah sebuah rumah yang baru saja terbakar, Brasil adalah tetangga yang menawarkan halaman belakangnya untuk mengadakan pesta rekonsiliasi, sementara pemilik rumah aslinya masih sibuk memperbaiki atap yang runtuh.
 
@@ -37,7 +37,7 @@ Meskipun Italia adalah bagian dari Poros pimpinan Mussolini, mereka tetap diizin
 
 Selain pengucilan negara Poros, Piala Dunia 1950 juga diwarnai dengan ketegangan awal **Perang Dingin**.
 
-- **Blok Timur:** Negara-negara di bawah pengaruh Uni Soviet (seperti Cekoslowakia dan Hongaria) menolak berpartisipasi. Keputusan ini didasari alasan ideologis serta keengganan untuk bersaing dalam sistem "kapitalis" FIFA saat itu, bukan karena mereka terkena sanksi larangan bermain.
+- **Blok Timur:** Negara-negara di bawah pengaruh Uni Soviet (seperti Cekoslowakia dan Hongaria) menolak berpartisipasi. Keputusan ini didasari alasan ideologis serta keengganan untuk bersaing dalam sistem "kapitalis" FIFA saat itu. Mereka sendiri tidak terkena sanksi larangan bermain.
 - **Kasus India:** India mengundurkan diri, sering kali disebut karena FIFA melarang mereka bermain bertelanjang kaki. Namun, alasan yang lebih mendasar adalah biaya perjalanan yang sangat mahal dan prioritas domestik pasca-kemerdekaan dari Inggris.
 
 ## 5. Sanksi Olahraga sebagai Instrumen Politik
@@ -45,7 +45,7 @@ Selain pengucilan negara Poros, Piala Dunia 1950 juga diwarnai dengan ketegangan
 Pola pengucilan Jerman dan Jepang pada 1950 menjadi cetak biru bagi penggunaan **sanksi olahraga** di masa depan. Hingga hari ini, kita melihat mekanisme yang sama:
 
 - **Contoh Modern:** Pengucilan Rusia dari kualifikasi Piala Dunia 2022 akibat invasi ke Ukraina menjadi cerminan langsung dari apa yang dialami Jerman pada 1950.
-- **Fungsi:** Langkah pengucilan semacam ini tidak hanya menghukum para atlet secara sepihak, tetapi juga menyampaikan pesan diplomatik yang kuat. Sebuah negara tidak dapat menikmati keistimewaan di panggung global selama mereka melanggar norma perdamaian internasional.
+- **Fungsi:** Langkah pengucilan semacam ini menghukum para atlet secara sepihak sekaligus menyampaikan pesan diplomatik yang kuat. Sebuah negara tidak dapat menikmati keistimewaan di panggung global selama mereka melanggar norma perdamaian internasional.
 
 ## Peta Partisipasi Piala Dunia 1950
 
@@ -58,7 +58,7 @@ Kondisi partisipasi pada 1950 dapat diringkas dalam tabel berikut. Selain negara
 | **Mengundurkan diri** | India | Biaya perjalanan yang mahal dan prioritas domestik, meski larangan bermain bertelanjang kaki sering kali disebut sebagai alasannya |
 | **Mengundurkan diri** | Prancis | Jarak perjalanan antarstadion grup terlalu jauh |
 | **Mengundurkan diri** | Skotlandia | Hanya mau berangkat sebagai juara British Home Championship, padahal finis kedua |
-| **Menolak berpartisipasi** | Blok Timur, seperti Cekoslowakia dan Hongaria | Alasan ideologis, bukan sanksi |
+| **Menolak berpartisipasi** | Blok Timur, seperti Cekoslowakia dan Hongaria | Alasan ideologis, tanpa sanksi larangan bermain |
 | **Tuan rumah** | Brasil | Simbol kembalinya normalitas |
 
 ## Refleksi Sejarah

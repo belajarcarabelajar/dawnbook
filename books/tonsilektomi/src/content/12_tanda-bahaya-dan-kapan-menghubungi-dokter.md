@@ -1,6 +1,6 @@
 ## Tanda Bahaya dan Kapan Menghubungi Dokter
 
-Meskipun tonsilektomi tergolong prosedur rutin yang aman, pemulihan di rumah tetap membutuhkan perhatian cermat. Bayangkan seperti merenovasi lorong yang sempit: tenggorokanmu sedang memulihkan diri, dan sewaktu-waktu bisa muncul kendala kecil yang butuh penanganan medis. Oleh karena itu, penting untuk mengenali perbedaan antara rasa tidak nyaman yang wajar dan tanda bahaya (*red flags*) yang memerlukan tindakan darurat.
+Meskipun tonsilektomi tergolong prosedur rutin yang aman, pemulihan di rumah tetap membutuhkan perhatian cermat. Bayangkan seperti merenovasi lorong yang sempit. Tenggorokanmu sedang memulihkan diri, dan sewaktu-waktu bisa muncul kendala kecil yang butuh penanganan medis. Oleh karena itu, penting untuk mengenali perbedaan antara rasa tidak nyaman yang wajar dan tanda bahaya (*red flags*) yang memerlukan tindakan darurat.
 
 ## 1. Perdarahan Pascaoperasi sebagai Prioritas Utama
 
@@ -42,16 +42,16 @@ Sedikit pembengkakan di area tenggorokan adalah hal yang wajar. Namun, jika pemb
 
 Suhu tubuh yang sedikit meningkat (sekitar $37.5^\circ\text{C} - 38^\circ\text{C}$) biasa terjadi pada hari pertama atau kedua. Kamu perlu waspada jika muncul tanda-tanda infeksi berikut:
 - Demam tinggi dengan suhu tubuh mencapai lebih dari $38.5^\circ\text{C}$ dan tidak kunjung turun walau sudah minum obat pereda demam.
-- Nyeri hebat yang justru bertambah parah setelah hari ketujuh, bukannya berangsur membaik.
+- Nyeri hebat yang justru bertambah parah setelah hari ketujuh.
 - Bau mulut yang sangat menyengat (*fetor oris*) disertai dengan keluarnya nanah pada area bekas operasi.
 
 ## Skenario Tanggap Darurat
 
 Berikut adalah contoh perbedaan penanganan medis yang cepat dibandingkan dengan penundaan tindakan:
 
-**Skenario A (Tindakan Cepat dan Tepat):** Rudi (8 tahun) terbangun pada hari keenam pascaoperasi dengan bercak darah segar di bantal, lalu meludahkan sedikit darah merah. Ibunya segera meminta Rudi berkumur dengan air es. Karena perdarahan tidak berhenti setelah lima menit, ibunya langsung membawa Rudi ke UGD. *Hasil: Dokter dapat menghentikan perdarahan kecil tersebut dengan prosedur sederhana sebelum berkembang menjadi perdarahan serius.*
+**Skenario A (Tindakan Cepat dan Tepat):** Rudi (8 tahun) terbangun pada hari keenam pascaoperasi dengan bercak darah segar di bantal, lalu meludahkan sedikit darah merah. Ibunya segera meminta Rudi berkumur dengan air es. Karena perdarahan tidak berhenti setelah lima menit, ibunya langsung membawa Rudi ke UGD. *Berkat itu, dokter dapat menghentikan perdarahan kecil tersebut dengan prosedur sederhana sebelum berkembang menjadi perdarahan serius.*
 
-**Skenario B (Tindakan Terlambat):** Santi merasa sangat lemas dan tidak buang air kecil sejak pagi karena takut merasakan nyeri saat menelan. Ia mengira kondisi lemas ini wajar setelah operasi. Sore harinya, Santi pingsan akibat dehidrasi berat. *Hasil: Santi harus menjalani rawat inap kembali untuk mendapatkan infus cairan intravena, yang sebenarnya bisa dicegah jika tanda dehidrasi diantisipasi lebih awal.*
+**Skenario B (Tindakan Terlambat):** Santi merasa sangat lemas dan tidak buang air kecil sejak pagi karena takut merasakan nyeri saat menelan. Ia mengira kondisi lemas ini wajar setelah operasi. Sore harinya, Santi pingsan akibat dehidrasi berat. *Akibatnya, Santi harus menjalani rawat inap kembali untuk mendapatkan infus cairan intravena, yang sebenarnya bisa dicegah jika tanda dehidrasi diantisipasi lebih awal.*
 
 ## Gejala Darurat dan Tindakannya
 

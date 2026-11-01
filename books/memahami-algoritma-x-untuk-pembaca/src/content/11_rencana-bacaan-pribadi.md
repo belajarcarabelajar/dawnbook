@@ -1,16 +1,16 @@
 ## Rencana Bacaan Pribadi
 
-Banyak orang merasa lebih tenang membuka platform yang didominasi tulisan, seolah membaca huruf otomatis lebih menyehatkan daripada menonton video. Perasaan itu wajar, tetapi belum tentu tepat. X memang kaya teks, tetapi di dalamnya juga ada video, gambar, notifikasi, dan aliran rekomendasi yang terus berlanjut. Format teks saja tidak cukup untuk menyimpulkan bahwa sebuah platform memicu respons dopamin yang lebih rendah. Klaim seperti itu butuh penelitian tentang respons pengguna, bukan sekadar penjelasan cara kerja mesin rekomendasi, dan buku ini tidak membuat klaim semacam itu. Yang bisa kamu kendalikan adalah kebiasaanmu sendiri, dan bab ini merangkum semua yang sudah kamu pelajari menjadi satu rencana yang siap disalin.
+Banyak orang merasa lebih tenang membuka platform yang didominasi tulisan, seolah membaca huruf otomatis lebih menyehatkan daripada menonton video. Perasaan itu wajar, tetapi belum tentu tepat. X memang kaya teks, tetapi di dalamnya juga ada video, gambar, notifikasi, dan aliran rekomendasi yang terus berlanjut. Format teks saja tidak cukup untuk menyimpulkan bahwa sebuah platform memicu respons dopamin yang lebih rendah. Klaim seperti itu butuh penelitian tentang respons pengguna, dan penjelasan cara kerja mesin rekomendasi saja belum cukup. Buku ini tidak membuat klaim semacam itu. Yang bisa kamu kendalikan adalah kebiasaanmu sendiri, dan bab ini merangkum semua yang sudah kamu pelajari menjadi satu rencana yang siap disalin.
 
-### Menilai Kebiasaan, Bukan Format
+### Menilai Kebiasaan Membacamu
 
 Daripada bertanya apakah X sehat, ajukan tiga pertanyaan yang lebih bisa dijawab. Apakah kamu memahami apa yang baru dibaca? Apakah kamu memeriksa sumbernya? Apakah kamu bisa berhenti sesuai rencana? Jumlah post yang sudah lewat di layar tidak menjawab satu pun dari ketiganya.
 
-Teks pendek paling berguna kalau diperlakukan sebagai pintu, bukan ruangan. Sebuah post bisa mengantarmu ke artikel atau dokumentasi yang lebih lengkap. Setelah membacanya, tulis ulang satu gagasan dengan kalimatmu sendiri. Kalau kamu bisa menjelaskannya tanpa melihat sumber, bacaan tadi benar-benar masuk.
+Teks pendek paling berguna kalau diperlakukan sebagai pintu. Sebuah post bisa mengantarmu ke artikel atau dokumentasi yang lebih lengkap. Setelah membacanya, tulis ulang satu gagasan dengan kalimatmu sendiri. Kalau kamu bisa menjelaskannya tanpa melihat sumber, bacaan tadi benar-benar masuk.
 
 ### Tahu Kapan Berhenti
 
-Aliran rekomendasi terus berlanjut, jadi menunggu feed kehabisan hal menarik bukan cara berhenti yang bisa diandalkan. Sesi belajar butuh garis akhir yang kamu tentukan sebelum mulai. Pakai tiga tanda ini, mana pun yang datang lebih dulu:
+Aliran rekomendasi terus berlanjut, jadi menunggu feed kehabisan hal menarik tidak bisa diandalkan sebagai cara berhenti. Sesi belajar butuh garis akhir yang kamu tentukan sebelum mulai. Pakai tiga tanda ini, mana pun yang datang lebih dulu:
 
 1. Pertanyaan awalmu sudah terjawab.
 2. Sumber utama sudah kamu periksa.
@@ -20,7 +20,7 @@ Begitu salah satunya terpenuhi, tutup aplikasinya. Sisa post yang belum terbaca 
 
 ### Sumber yang Menguji Pandanganmu
 
-Feed yang relevan belum tentu mendukung belajar. Kalau semua yang muncul hanya mengulang keyakinan lamamu, kamu merasa makin paham padahal tidak ada yang sedang diuji. Sisakan tempat untuk akun yang menantang pandanganmu dengan bukti, bukan dengan suara paling keras. Di lembar rencana berikut, peran ini punya baris sendiri, yaitu penguji kritis. Akun yang hanya membuatmu kesal tanpa membawa bukti tidak masuk baris itu; tempatnya di baris akun yang mengganggu.
+Feed yang relevan belum tentu mendukung belajar. Kalau semua yang muncul hanya mengulang keyakinan lamamu, kamu merasa makin paham padahal tidak ada yang sedang diuji. Sisakan tempat untuk akun yang menantang pandanganmu dengan membawa bukti. Di lembar rencana berikut, peran ini punya baris sendiri, yaitu penguji kritis. Akun yang hanya membuatmu kesal tanpa membawa bukti tidak masuk baris itu; tempatnya di baris akun yang mengganggu.
 
 ### Lembar Rencana untuk Disalin
 
@@ -42,7 +42,7 @@ Salin bagian ini ke catatanmu, ganti semua isian dalam kurung siku, dan hapus ba
 
 **Jalur pembuka sesi** [List, Following, atau Search]
 
-**Saya memakai For You saat** [tujuan penemuan, bukan sekadar kebiasaan]
+**Saya memakai For You saat** [tujuan penemuan yang disengaja]
 
 | Akun atau sumber | Mengapa layak dibaca | Tindakan | Tanggal tinjau ulang |
 | --- | --- | --- | --- |
@@ -53,11 +53,11 @@ Salin bagian ini ke catatanmu, ganti semua isian dalam kurung siku, dan hapus ba
 
 #### Aturan Interaksi Saya
 
-- [ ] Saya memberi like karena isinya layak diapresiasi, bukan untuk mengejar kuota.
+- [ ] Saya memberi like karena isinya layak diapresiasi, tanpa mengejar kuota.
 - [ ] Saya memakai bookmark untuk bacaan yang akan dipakai, lengkap dengan status pemeriksaannya.
 - [ ] Saya menulis reply ketika punya pertanyaan atau kontribusi yang jelas.
 - [ ] Saya memeriksa sumber sebelum repost, quote, atau share.
-- [ ] Saat terganggu, saya memilih umpan balik atau mute yang sesuai, bukan debat tanpa tujuan.
+- [ ] Saat terganggu, saya memilih umpan balik atau mute yang sesuai dan menghindari debat tanpa tujuan.
 - [ ] Saya tidak menebar like, reply, bookmark, atau report demi mengubah feed.
 
 #### Batas Akun, Kata, dan Notifikasi
@@ -104,4 +104,4 @@ Catat juga risikonya, karena kata yang dibisukan terlalu luas bisa ikut menutup 
 
 ## Penutup
 
-Kode rekomendasi X terus diperbarui, jadi sebagian detail teknis di buku ini suatu hari akan tertinggal. Yang tidak ikut usang adalah kebiasaan yang kamu bangun: tahu apa yang dicari, memilih jalur baca dengan sengaja, memeriksa sumber, dan berhenti saat tujuan tercapai. Mesin rekomendasi boleh menebak minatmu, tetapi hanya kamu yang bisa menilai apakah sebuah bacaan benar-benar berguna. Mulailah dari satu List, satu catatan, dan satu sesi yang selesai tepat waktu, lalu tambah isi rencana ini sedikit demi sedikit.
+Kode rekomendasi X terus diperbarui, jadi sebagian detail teknis di buku ini suatu hari akan tertinggal. Kebiasaan yang kamu bangun tidak ikut usang, mulai dari tahu apa yang dicari, memilih jalur baca dengan sengaja, dan memeriksa sumber, sampai berhenti saat tujuan tercapai. Mesin rekomendasi boleh menebak minatmu, tetapi hanya kamu yang bisa menilai apakah sebuah bacaan benar-benar berguna. Mulailah dari satu List, satu catatan, dan satu sesi yang selesai tepat waktu, lalu tambah isi rencana ini sedikit demi sedikit.

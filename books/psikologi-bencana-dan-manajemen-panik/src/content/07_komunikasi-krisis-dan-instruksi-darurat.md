@@ -2,7 +2,7 @@
 
 Guncangan gempa bumi di pusat perbelanjaan atau padamnya sistem kelistrikan gedung bertingkat secara mendadak selalu memicu kekacauan sensorik. Hal yang sama terjadi pada kepulan asap tebal di koridor perkantoran. Lampu padam, sirene meraung, dan massa mulai bergerak tanpa arah yang jelas. Di tengah kekacauan tersebut, suara yang memberikan instruksi dengan tepat menjadi pembeda antara keselamatan massal dan tragedi kemanusiaan.
 
-Dalam psikologi bencana, komunikasi darurat bukan sekadar transmisi pesan verbal, melainkan instrumen intervensi psikologis aktif untuk menstabilkan perilaku massa, meredam disorientasi kognitif, dan mengarahkan tindakan penyelamatan secara terkoordinasi.
+Dalam psikologi bencana, komunikasi darurat bekerja sebagai instrumen intervensi psikologis aktif untuk menstabilkan perilaku massa, meredam disorientasi kognitif, dan mengarahkan tindakan penyelamatan secara terkoordinasi.
 
 ---
 
@@ -17,13 +17,13 @@ Sebelum merumuskan pesan yang efektif, pemelajar perlu memahami mekanisme pemros
 | **Respons Sensorik Pendengaran** | Mampu membedakan berbagai modulasi dan frekuensi suara | Mengalami *auditory exclusion*, frekuensi tinggi diabaikan atau memicu panik |
 | **Strategi Pembacaan Pesan** | Membaca dan menganalisis secara detail | Memindai (*scanning*) secara cepat hanya untuk mencari kata kunci keselamatan |
 
-> **Prinsip Kunci Kognitif:** Dalam kondisi krisis, korban bencana tidak membaca atau mendengarkan penjelasan panjang. Pikiran mereka memindai lingkungan secara instingtif untuk menangkap kata kunci tindakan penyelamatan.
+> **Prinsip Kunci Kognitif:** Dalam kondisi krisis, pikiran korban bencana memindai lingkungan secara instingtif untuk menangkap kata kunci tindakan penyelamatan. Penjelasan panjang tidak lagi mereka baca atau dengarkan.
 
 ---
 
 ### 2. Kualitas Vokal yang Menenangkan
 
-Untuk memandu massa yang sedang panik, petugas tanggap darurat harus memproyeksikan stabilitas melalui karakter vokal. Komunikasi krisis yang efektif bukan diukur dari seberapa keras seseorang berteriak, melainkan dari kualitas akustik dan ketenangan vokal yang dipancarkan.
+Untuk memandu massa yang sedang panik, petugas tanggap darurat harus memproyeksikan stabilitas melalui karakter vokal. Efektivitas komunikasi krisis diukur dari kualitas akustik dan ketenangan vokal yang dipancarkan seseorang.
 
 1. **Frekuensi Nada (*Pitch*):** Gunakan register nada rendah (bariton). Secara psikoakustik, nada rendah diasosiasikan oleh otak manusia dengan ketenangan, kendali, dan kepemimpinan. Sebaliknya, nada suara melengking atau tinggi sering kali dipersepsikan sebagai sinyal histeria yang menular ke massa.
 2. **Tempo Artikulasi (*Pacing*):** Berbicaralah dengan tempo lebih lambat daripada percakapan normal. Sisipkan jeda terukur di antara kalimat agar memori kerja pendengar memiliki interval waktu yang cukup untuk mencerna dan mengeksekusi instruksi.
@@ -78,7 +78,7 @@ Ketika kebisingan suara alarm atau dentuman fisik menenggelamkan artikulasi verb
 
 - **Kontak Mata Fiksatif (*Grounding Eye Contact*):** Saat berhadapan dengan individu yang mengalami syok histeris atau pembekuan respons, tatap langsung matanya dengan tenang. Interaksi visual ini membantu menarik kembali kesadaran kognitif individu ke realitas saat itu.
 - **Postur Terbuka dan Stabil (*Grounded Stance*):** Berdiri tegak dengan kedua kaki menapak kokoh selebar bahu dan kedua telapak tangan terbuka ke arah depan. Hindari menyilangkan tangan di dada atau memasukkan tangan ke dalam saku.
-- **Gestur Penunjuk Arah Makro:** Gunakan gerakan lengan penuh yang tegas dan terarah untuk menunjukkan jalur evakuasi, bukan sekadar menunjuk dengan jari telunjuk yang sulit terlihat dari kejauhan.
+- **Gestur Penunjuk Arah Makro:** Gunakan gerakan lengan penuh yang tegas dan terarah untuk menunjukkan jalur evakuasi. Jari telunjuk saja sulit terlihat dari kejauhan.
 
 > **Peringatan Psikologis:** Apabila instruksi verbal menyatakan kata "Tenang" sementara gestur tubuh menunjukkan tremor, langkah tersentak-sentak, dan pandangan mata liar, sistem persepsi massa akan mempercayai bahasa tubuh komunikator dan memicu penularan panik (*emotional contagion*).
 
@@ -88,7 +88,7 @@ Ketika kebisingan suara alarm atau dentuman fisik menenggelamkan artikulasi verb
 
 Penerapan prinsip-prinsip di atas diintegrasikan dalam simulasi komando evakuasi empat fase saat alarm kebakaran aktif dan asap mulai memasuki koridor gedung:
 
-1. **Interupsi pola dan menarik perhatian.** Dengan suara lantang dari diafragma, nada bariton, dan kedua lengan diangkat tinggi, petugas berseru: "SEMUA ORANG, BERHENTI DAN DENGARKAN INSTRUKSI SEKARANG!"
+1. **Interupsi pola dan menarik perhatian.** Dengan suara lantang dari diafragma, nada bariton, dan kedua lengan diangkat tinggi, petugas berseru, "SEMUA ORANG, BERHENTI DAN DENGARKAN INSTRUKSI SEKARANG!"
 2. **Instruksi aksi singkat.** "Tinggalkan tas dan laptop di meja. Berbaris satu jalur sekarang."
 3. **Panduan arah spasial presisi.** "Berjalan tenang menuju tangga darurat di sebelah kiri. Jangan gunakan lift. Ikuti lampu hijau darurat."
 4. **Penegasan kendali dan penutupan barisan.** "Berjalan cepat, jangan saling mendahului. Petugas berada di posisi paling belakang untuk memastikan seluruh ruangan kosong."
@@ -114,7 +114,7 @@ Variabel dalam persamaan di atas merepresentasikan dimensi komunikasi sebagai be
 
 Karakteristik kuadratik pada penyebut ($N^2$) menunjukkan bahwa peningkatan kecil pada kebisingan atau kepanikan massa akan menurunkan tingkat kejelasan instruksi secara kuadratik. Menaikkan volume suara komunikator ($V$) hanya memberikan dampak linier, yang sering kali kalah melawan kenaikan kuadratik tingkat kebisingan ($N^2$).
 
-Oleh karena itu, prioritas taktis pertama seorang komunikator darurat bukanlah berteriak lebih keras, melainkan menekan variabel $N$ terlebih dahulu melalui interupsi pola (meminta perhatian dan keheningan massal) sebelum meluncurkan butir instruksi keselamatan.
+Oleh karena itu, prioritas taktis pertama seorang komunikator darurat adalah menekan variabel $N$ terlebih dahulu melalui interupsi pola (meminta perhatian dan keheningan massal) sebelum meluncurkan butir instruksi keselamatan.
 
 ---
 

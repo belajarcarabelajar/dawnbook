@@ -2,7 +2,7 @@
 
 Pernahkah kamu begitu tenggelam dalam pekerjaan hingga dunia seolah lenyap, lalu sadar tugas yang biasanya memakan waktu seharian selesai dalam dua jam? Itulah kekuatan dari **State of Flow**.
 
-Dalam bagian ini, kita akan membedah bagaimana kondisi mental ini bukan sekadar perasaan "senang bekerja", melainkan kondisi yang mendorong efisiensi dan kreativitas serta mampu mengubah output kerja kamu.
+Dalam bagian ini, kita akan membedah bagaimana kondisi mental ini, yang sering dianggap sekadar perasaan "senang bekerja", mendorong efisiensi dan kreativitas serta mampu mengubah output kerja kamu.
 
 ### 1\. Lonjakan Produktivitas
 
@@ -12,9 +12,9 @@ Menurut riset yang dilakukan oleh **McKinsey & Company** selama sepuluh tahun te
 
 **Mari kita visualisasikan dengan logika matematika sederhana:**
 
-Jika produktivitas normal kamu adalah $P$, maka produktivitas dalam kondisi flow adalah: $P\_{\text{flow}} = 5 \times P\_{\text{normal}}$
+Jika produktivitas normal kamu adalah $P$, maka produktivitas dalam kondisi flow adalah $P\_{\text{flow}} = 5 \times P\_{\text{normal}}$
 
-*Artinya:* Jika kamu bisa masuk ke kondisi flow selama dua jam setiap hari Senin, kamu secara teknis telah menyelesaikan beban kerja setara satu hari penuh (10 jam) orang lain yang bekerja dalam kondisi mental rata-rata.
+Artinya, jika kamu bisa masuk ke kondisi flow selama dua jam setiap hari Senin, kamu secara teknis telah menyelesaikan beban kerja setara satu hari penuh (10 jam) orang lain yang bekerja dalam kondisi mental rata-rata.
 
 ### 2\. Mengapa Flow Meningkatkan Efisiensi?
 
@@ -22,7 +22,7 @@ Mengapa kita menjadi jauh lebih cepat saat berada dalam kondisi flow? Jawabannya
 
 #### A. Eliminasi "Mental Friction" (Gesekan Mental)
 
-Dalam kondisi biasa, otak kita dipenuhi dengan gangguan internal: keraguan diri, perencanaan makan malam, atau kekhawatiran tentang email yang belum dibalas. Ini disebut sebagai **Cognitive Load** atau beban kognitif yang tidak perlu. Saat flow, fenomena **Transient Hypofrontality** (penurunan aktivitas sementara pada korteks prefrontal) membuat suara-suara kritis ini diam.
+Dalam kondisi biasa, otak kita dipenuhi dengan gangguan internal seperti keraguan diri, perencanaan makan malam, atau kekhawatiran tentang email yang belum dibalas. Ini disebut sebagai **Cognitive Load** atau beban kognitif yang tidak perlu. Saat flow, fenomena **Transient Hypofrontality** (penurunan aktivitas sementara pada korteks prefrontal) membuat suara-suara kritis ini diam.
 
 > **Pesan Utama:** Flow menghilangkan hambatan internal, sehingga lebih banyak sumber daya mental dapat difokuskan pada penyelesaian tugas.
 
@@ -36,7 +36,7 @@ Meskipun intensitasnya tinggi, flow sering kali terasa "tanpa usaha" (*effortles
 
 ### 3\. Kualitas dan Kreativitas Hasil Kerja
 
-Flow bukan hanya tentang kecepatan (efisiensi), tetapi juga tentang **kualitas (efektivitas)**.
+Flow berpengaruh pada kecepatan (efisiensi) sekaligus **kualitas (efektivitas)**.
 
 Dalam kondisi mental biasa, kita cenderung menggunakan jalur pemikiran yang sudah dikenal (pemikiran linier). Namun, dalam flow, batas-batas antara ide-ide yang berbeda menjadi kabur. Ini memungkinkan terjadinya **sintesis kreatif**.
 
@@ -71,7 +71,7 @@ Bekerja dalam **kondisi flow** adalah seperti mengaktifkan sistem *turbocharger*
 #### Penulisan Kreatif atau Laporan
 
 - **Tanpa Flow:** Menatap layar kosong selama satu jam, menulis satu paragraf, menghapusnya, dan merasa lelah secara mental.
-- **Dalam Flow:** Kata-kata seolah "tumpah" dari pikiran ke jari-jari. Penulis tidak lagi memikirkan tata bahasa secara kaku, melainkan fokus pada penyampaian narasi. Laporan 2.000 kata selesai dalam sekali duduk dengan struktur yang logis.
+- **Dalam Flow:** Kata-kata seolah "tumpah" dari pikiran ke jari-jari. Penulis fokus pada penyampaian narasi dan berhenti memikirkan tata bahasa secara kaku. Laporan 2.000 kata selesai dalam sekali duduk dengan struktur yang logis.
 
 ### 7\. Strategi Implementasi
 
@@ -81,4 +81,4 @@ Untuk memanfaatkan flow demi produktivitas, kamu dapat menerapkan rumus **Deep W
 2. **Hapus Semua Gangguan:** Matikan notifikasi. Flow membutuhkan waktu rata-rata 15-20 menit untuk terbentuk, tetapi hanya butuh 1 detik gangguan untuk menghancurkannya.
 3. **Gunakan High-Stakes Focus:** Berikan diri kamu tantangan yang sedikit di atas kemampuan kamu saat ini (prinsip tantangan vs keterampilan).
 
-> **Pernyataan Penting:** Produktivitas tertinggi bukan ditemukan dalam multitasking, melainkan dalam **singletasking** yang dilakukan dalam kondisi flow.
+> **Pernyataan Penting:** Produktivitas tertinggi ditemukan dalam **singletasking** yang dilakukan dalam kondisi flow.

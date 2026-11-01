@@ -29,7 +29,7 @@ pie showData
     "Afrika, Asia, dan Oseania (gabungan)" : 1
 ```
 
-Mari kita lihat ketidakadilan ini melalui ekspresi matematis sederhana mengenai peluang kelolosan:
+Mari kita lihat ketidakadilan ini melalui ekspresi matematis sederhana mengenai peluang kelolosan.
 
 Jika $S$ adalah jumlah slot dan $C$ adalah jumlah benua yang bersaing, maka jatah per benua untuk blok Afrika-Asia-Oseania adalah:
 
@@ -74,7 +74,7 @@ Ketika FIFA menolak tuntutan tersebut, Djan menggalang kekuatan melalui **CAF (C
 
 ## Dampak dan Transformasi
 
-Boikot 1966 lebih dari aksi mogok biasa; tindakan ini merupakan pernyataan martabat. Aksi ini memaksa FIFA untuk menyadari bahwa mereka tidak bisa lagi mengabaikan aspirasi global.
+Boikot 1966 merupakan pernyataan martabat. Aksi ini memaksa FIFA untuk menyadari bahwa mereka tidak bisa lagi mengabaikan aspirasi global.
 
 ### Hasil Jangka Pendek
 

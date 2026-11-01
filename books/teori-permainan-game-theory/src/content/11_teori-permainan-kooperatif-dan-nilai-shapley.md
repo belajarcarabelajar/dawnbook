@@ -15,11 +15,11 @@ Dalam permainan kooperatif, setiap kelompok (koalisi) memiliki nilai tertentu ya
 - **Koalisi Besar (Grand Coalition):** Situasi ketika semua pemain dalam permainan bergabung menjadi satu kelompok besar.
 - **Nilai Koalisi ($v$):** Jumlah total keuntungan (atau penghematan biaya) yang dihasilkan oleh kelompok tersebut.
 
-> **Analogi Sederhana:** Bayangkan tiga orang teman: Andi, Budi, dan Caca.
+> **Analogi Sederhana:** Bayangkan tiga orang teman bernama Andi, Budi, dan Caca.
 > 
 > - Andi punya tepung.
 > - Budi punya telur.
-> - Caca punya oven. Secara individu, mereka tidak bisa membuat kue. Namun, jika mereka membentuk koalisi besar, mereka bisa membuat kue seharga Rp100.000. Masalahnya: **Siapa yang berhak mendapatkan berapa bagian dari Rp100.000 tersebut?**
+> - Caca punya oven. Secara individu, mereka tidak bisa membuat kue. Namun, jika mereka membentuk koalisi besar, mereka bisa membuat kue seharga Rp100.000. Lalu, **siapa yang berhak mendapatkan berapa bagian dari Rp100.000 tersebut?**
 
 ## 2. Nilai Shapley sebagai Definisi Keadilan
 
@@ -36,7 +36,7 @@ Kita tidak bisa sekadar membagi rata. Jika Andi memberikan kontribusi yang jauh 
 
 ## 3. Matematika di Balik Nilai Shapley
 
-Untuk menghitung Nilai Shapley bagi pemain $i$, kita melihat kontribusi marginalnya. Kontribusi marginal adalah: *Berapa banyak nilai yang bertambah ketika pemain $i$ bergabung ke dalam kelompok yang sudah ada?*
+Untuk menghitung Nilai Shapley bagi pemain $i$, kita melihat kontribusi marginalnya. Kontribusi marginal adalah tambahan nilai yang muncul ketika pemain $i$ bergabung ke dalam kelompok yang sudah ada.
 
 Rumusnya adalah:
 
@@ -68,7 +68,7 @@ Mari kita lihat skenario dunia nyata yang sering kita alami.
 **Langkah-langkah Nilai Shapley:**
 
 1. **Pemain A:** Dia harus membayar bagian dari biaya sampai ke rumahnya. Karena ada 3 orang yang menikmati perjalanan tersebut, A membayar $10.000 / 3 = 3.333$.
-2. **Pemain B:** Dia berbagi biaya $10.000$ pertama dengan A dan C, lalu dia berbagi biaya $10.000$ berikutnya (dari rumah A ke rumah B) hanya dengan C. Jadi:
+2. **Pemain B:** Dia berbagi biaya $10.000$ pertama dengan A dan C, lalu dia berbagi biaya $10.000$ berikutnya (dari rumah A ke rumah B) hanya dengan C. Bagian B dihitung seperti ini.
 
    <div>
    $$
@@ -76,7 +76,7 @@ Mari kita lihat skenario dunia nyata yang sering kita alami.
    $$
    </div>
 
-3. **Pemain C:** Dia berbagi biaya dengan A dan B, lalu dengan B saja, lalu menanggung sisa perjalanan sendiri. Jadi:
+3. **Pemain C:** Dia berbagi biaya dengan A dan B, lalu dengan B saja, lalu menanggung sisa perjalanan sendiri, dan bagiannya menjadi seperti berikut.
 
    <div>
    $$
@@ -88,7 +88,7 @@ Mari kita lihat skenario dunia nyata yang sering kita alami.
 
 ## 5. Nilai Shapley untuk Biaya Bandara, Explainable AI, dan Kekuatan Suara
 
-Konsep kooperatif dan Nilai Shapley bukan hanya teori di atas kertas. Ini digunakan di berbagai bidang:
+Di luar hitungan di atas kertas, konsep kooperatif dan Nilai Shapley dipakai di berbagai bidang.
 
 ### A. Alokasi Biaya Bandara (The Airport Problem)
 
@@ -96,7 +96,7 @@ Bandara melayani berbagai jenis pesawat, mulai dari jet kecil hingga Boeing 747.
 
 ### B. Machine Learning (Explainable AI)
 
-Dalam kecerdasan buatan, kita sering bertanya: *"Fitur mana yang paling berpengaruh terhadap prediksi model?"* Para ahli menggunakan **SHAP (SHapley Additive exPlanations)** untuk memecah kontribusi setiap variabel input terhadap hasil akhir model.
+Dalam kecerdasan buatan, kita sering ingin tahu fitur mana yang paling berpengaruh terhadap prediksi model. Para ahli menggunakan **SHAP (SHapley Additive exPlanations)** untuk memecah kontribusi setiap variabel input terhadap hasil akhir model.
 
 ### C. Kekuatan Pemungutan Suara (Voting Power)
 

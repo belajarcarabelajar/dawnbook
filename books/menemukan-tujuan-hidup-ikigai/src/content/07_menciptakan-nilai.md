@@ -16,7 +16,7 @@ Sebuah cara praktis adalah membuat daftar 'Masalah & Solusi'. Di satu sisi, tuli
 
 ## 2. Menemukan Pekerjaan yang Selaras
 
-Bekerja sebagai karyawan adalah rute paling umum untuk menghasilkan uang. Namun dalam konteks Ikigai, kamu didorong untuk mencari atau menciptakan pekerjaan yang tidak sekadar membayar tagihan. Pekerjaan tersebut idealnya memanfaatkan apa yang kamu cintai dan kuasai, sembari menjawab apa yang dibutuhkan dunia.
+Bekerja sebagai karyawan adalah rute paling umum untuk menghasilkan uang, dan gaji membayar tagihan. Dalam konteks Ikigai, kamu didorong untuk mencari atau menciptakan pekerjaan yang idealnya juga memanfaatkan apa yang kamu cintai dan kuasai, sembari menjawab apa yang dibutuhkan dunia.
 
 Untuk memulainya, telusuri berbagai industri tempat minat dan keahlianmu paling dihargai. Jika kamu suka menulis dan paham SEO, industri pemasaran digital bisa jadi cocok. Carilah peran yang memungkinkan kamu menggunakan kekuatan unikmu secara rutin. Jangan terlalu terpaku pada jabatan konvensional, karena terkadang peran hibrida atau profesi yang baru muncul lebih sesuai dengan Ikigaimu.
 
@@ -44,7 +44,7 @@ Kamu bisa menjajal *freelancing* dan masuk ke *gig economy* dengan menawarkan ke
 
 Pilihan lain adalah membuat konten digital. Berbagi pengetahuan atau perspektif unik melalui blog, *podcast*, atau YouTube bisa membuka sumber pendapatan dari iklan, sponsor, penjualan produk digital, atau donasi audiens.
 
-Jika kamu mahir dalam suatu bidang, cobalah mengajar, memberikan *workshop*, atau menjadi mentor. Mengajar secara daring tidak hanya menghasilkan uang, tetapi juga memberi ruang untuk membentuk orang lain. Selain itu, bagi yang memiliki modal lebih, investasi berdampak (*impact investing*) memungkinkan kamu menanamkan uang pada proyek yang sejalan dengan nilai-nilai pribadimu sekaligus memberikan keuntungan finansial.
+Jika kamu mahir dalam suatu bidang, cobalah mengajar, memberikan *workshop*, atau menjadi mentor. Mengajar secara daring menghasilkan uang dan memberi ruang untuk membentuk orang lain. Selain itu, bagi yang memiliki modal lebih, investasi berdampak (*impact investing*) memungkinkan kamu menanamkan uang pada proyek yang sejalan dengan nilai-nilai pribadimu sekaligus memberikan keuntungan finansial.
 
 ## 5. Penyelarasan dengan Elemen Lainnya
 
@@ -54,6 +54,6 @@ Pendapatanmu sebaiknya datang dari kegiatan yang memang dinikmati. Hal ini mence
 
 Ketika uang yang kamu hasilkan berasal dari penyelesaian masalah nyata di dunia, dampak kerjamu akan terasa lebih mendalam. Ini juga cenderung melahirkan bisnis atau karier yang lebih stabil karena ada permintaan yang nyata di masyarakat.
 
-> **Penting:** Perlu diingat bahwa tujuan utamanya bukan semata-mata menjadi sangat kaya, melainkan mencapai kemandirian finansial. Dengan kemandirian finansial, kamu punya ruang bergerak yang lebih leluasa untuk terus menghidupi Ikigai tanpa terhambat masalah ekonomi.
+> **Penting:** Perlu diingat bahwa tujuan utamanya adalah mencapai kemandirian finansial. Dengan kemandirian finansial, kamu punya ruang bergerak yang lebih leluasa untuk terus menghidupi Ikigai tanpa terhambat masalah ekonomi.
 
 Menciptakan nilai ekonomi dari Ikigai adalah sebuah perjalanan berkelanjutan. Proses ini akan membutuhkan banyak eksperimen, pembelajaran, dan adaptasi. Namun, ketika kamu berhasil menyelaraskan apa yang kamu cintai, kuasai, dan yang dibutuhkan dunia dengan kemampuan menghasilkan pendapatan, kamu akan menemukan stabilitas sekaligus kepuasan.

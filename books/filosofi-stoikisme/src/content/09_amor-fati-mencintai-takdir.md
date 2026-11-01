@@ -2,13 +2,13 @@
 
 Pernahkah kamu berada dalam situasi ketika segalanya tampak berjalan berlawanan dengan rencana kamu? Ban mobil bocor saat hendak berangkat ke rapat penting, hujan turun tepat saat kamu mengadakan acara *outdoor*, atau kegagalan proyek yang sudah dikerjakan berbulan-bulan. Reaksi spontan kita biasanya adalah mengeluh, marah, atau merasa menjadi korban keadaan.
 
-Namun, para Stoik menawarkan perspektif lain: **Amor Fati**.
+Namun, para Stoik menawarkan perspektif lain, dan perspektif itu dikenal sebagai **Amor Fati**.
 
 ## Apa Itu Amor Fati?
 
 Secara etimologis, **Amor Fati** berasal dari bahasa Latin yang berarti **"Cinta pada Takdir"**. Meskipun istilah ini dipopulerkan oleh filsuf Friedrich Nietzsche di kemudian hari, akarnya tertanam kuat dalam praktik Stoikisme kuno.
 
-Amor Fati bukan hanya "menerima" apa yang terjadi dengan pasrah (resignasi), melainkan sebuah sikap aktif untuk **mencintai** setiap momen dalam hidup, baik itu kesuksesan maupun kegagalan, sukacita maupun penderitaan, dan menganggapnya sebagai sesuatu yang diperlukan dan bermanfaat.
+Amor Fati adalah sikap aktif untuk **mencintai** setiap momen dalam hidup, baik itu kesuksesan maupun kegagalan, sukacita maupun penderitaan, dan menganggapnya sebagai sesuatu yang diperlukan dan bermanfaat. Sikap ini melangkah lebih jauh daripada sekadar "menerima" apa yang terjadi dengan pasrah (resignasi).
 
 > "Jangan menuntut agar hal-hal terjadi seperti yang kamu inginkan, tetapi inginkanlah agar hal-hal itu terjadi sebagaimana adanya, maka hidupmu akan berjalan dengan tenang." - **Epictetus**
 
@@ -22,7 +22,7 @@ Untuk memahami Amor Fati, kita bisa melihatnya sebagai sebuah tangga perkembanga
 
 ### Api Besar dan Api Kecil
 
-Marcus Aurelius, sang Kaisar Stoik, memberikan analogi tentang bagaimana Amor Fati bekerja:
+Marcus Aurelius, sang Kaisar Stoik, memberikan analogi tentang bagaimana Amor Fati bekerja.
 
 Bayangkan sebuah api kecil. Jika kamu melemparkan seember air atau tumpukan sampah besar ke atasnya, api itu akan padam. Namun, bayangkan **api yang berkobar hebat**. Apa pun yang dilemparkan ke dalamnya (kayu basah, kain kotor, atau sampah) justru akan **dilahap, dijadikan bahan bakar, dan membuat api tersebut menyala lebih terang.**
 
@@ -56,7 +56,7 @@ Bagaimana cara menerapkan Amor Fati dalam keseharian? Gunakan teknik **"Reverse 
 
 ### Kamera Pecah di Tengah Perjalanan
 
-Langkah yang sama juga bisa dipakai pada kejadian sehari-hari. Bayangkan kamera kamu pecah tepat saat ingin mendokumentasikan perjalanan. Kamu mengakui kenyataan itu, mencari peluang untuk tumbuh darinya, lalu menyerapnya menjadi kekuatan, sampai bisa berkata: *"Sekarang saya terpaksa melihat dunia dengan mata sendiri, bukan lewat lensa. Ini adalah pelajaran tentang kehadiran (presence)."*
+Langkah yang sama juga bisa dipakai pada kejadian sehari-hari. Bayangkan kamera kamu pecah tepat saat ingin mendokumentasikan perjalanan. Kamu mengakui kenyataan itu, mencari peluang untuk tumbuh darinya, lalu menyerapnya menjadi kekuatan, sampai bisa berkata, *"Sekarang saya terpaksa melihat dunia dengan mata sendiri, tanpa perantara lensa. Ini adalah pelajaran tentang kehadiran (presence)."*
 
 ## Aplikasi Nyata dalam Kehidupan
 
@@ -66,8 +66,8 @@ Langkah yang sama juga bisa dipakai pada kejadian sehari-hari. Bayangkan kamera 
 
 ## Perenungan untuk Kamu
 
-*Pikirkan satu kejadian "buruk" yang menimpa kamu minggu ini. Bayangkan kejadian itu bukan sebuah kesalahan, melainkan sebuah instruksi yang dikirimkan secara khusus oleh alam semesta untuk memperkuat kamu. Bagaimana perasaan kamu terhadap kejadian itu sekarang?*
+*Pikirkan satu kejadian "buruk" yang menimpa kamu minggu ini. Bayangkan kejadian itu sebagai sebuah instruksi yang dikirimkan secara khusus oleh alam semesta untuk memperkuat kamu. Bagaimana perasaan kamu terhadap kejadian itu sekarang?*
 
-> **Poin Penting:** Amor Fati bukan berarti kamu berhenti berusaha memperbaiki keadaan. Kamu tetap berusaha maksimal (sesuai dikotomi kendali), tetapi begitu hasilnya keluar, apa pun itu, kamu memeluknya seolah-olah itu adalah pilihan kamu sendiri sejak awal.
+> **Poin Penting:** Dalam Amor Fati, kamu tetap berusaha maksimal memperbaiki keadaan (sesuai dikotomi kendali). Begitu hasilnya keluar, apa pun itu, kamu memeluknya seolah-olah itu adalah pilihan kamu sendiri sejak awal.
 
 **Amor Fati adalah keberanian untuk berkata "Ya" kepada hidup, tanpa syarat.** Dengan mencintai apa pun yang terjadi, kamu tidak mudah dikalahkan oleh nasib, karena setiap kejadian bisa kamu manfaatkan untuk tumbuh.

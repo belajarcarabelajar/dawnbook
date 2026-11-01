@@ -18,28 +18,28 @@ Tabel berikut merangkum setiap jalur. Kolom tengah memadukan dokumentasi resmi X
 
 Banyak orang menyebut Following sebagai tab kronologis. Klaim itu perlu diletakkan pada sumber yang tepat. Halaman bantuan X hanya mengatakan bahwa Following menampilkan post dari akun yang kamu ikuti. Halaman itu tidak menyebut urutan kronologis dan tidak menawarkan pilihan cara mengurutkan.
 
-Urutan dari yang terbaru justru berasal dari [README Home Mixer](https://github.com/twitter/the-algorithm/blob/main/home-mixer/README.md) di repositori lama twitter/the-algorithm. Di sana Home Mixer, komponen penyusun timeline, punya tiga produk: For You (post dari dalam dan luar jaringanmu), Following (post akun yang kamu ikuti, terbaru di atas), dan Lists (post anggota List, terbaru di atas). README yang sama menyebut iklan bisa muncul di ketiganya, sementara saran akun untuk diikuti muncul di For You dan Following, tetapi tidak di Lists. Artinya, kronologis tidak sama dengan bebas iklan.
+Urutan dari yang terbaru justru berasal dari [README Home Mixer](https://github.com/twitter/the-algorithm/blob/main/home-mixer/README.md) di repositori lama twitter/the-algorithm. Di sana Home Mixer, komponen penyusun timeline, menyusun tiga produk. For You berisi post dari dalam dan luar jaringanmu, Following berisi post akun yang kamu ikuti dengan yang terbaru di atas, dan Lists berisi post anggota List, juga dengan yang terbaru di atas. README yang sama menyebut iklan bisa muncul di ketiganya, sementara saran akun untuk diikuti muncul di For You dan Following, tetapi tidak di Lists. Artinya, kronologis tidak sama dengan bebas iklan.
 
-Ada satu batas lagi. Repositori baru xai-org/x-algorithm, yang dibuat pada Januari 2026, hanya membahas For You dan tidak menjelaskan Following maupun Lists. Kedua repositori juga bukan salinan utuh sistem produksi, jadi perlakukan keterangan urutan ini sebagai gambaran implementasi lama, bukan janji tentang aplikasi yang kamu buka hari ini.
+Ada satu batas lagi. Repositori baru xai-org/x-algorithm, yang dibuat pada Januari 2026, hanya membahas For You dan tidak menjelaskan Following maupun Lists. Kedua repositori juga tidak memuat salinan utuh sistem produksi. Perlakukan keterangan urutan ini sebagai gambaran implementasi lama yang belum tentu berlaku pada aplikasi yang kamu buka hari ini.
 
 ### List dan Search sebagai Alat Utama
 
 List adalah cara paling langsung untuk memegang kendali atas siapa yang kamu baca. Menurut [panduan Lists di X Help](https://help.x.com/en/using-x/x-lists), List baru bersifat publik secara bawaan. Kalau ingin hanya kamu yang bisa melihatnya, aktifkan pilihan Private. List yang disematkan akan muncul di samping tab For You dan Following, jadi berpindah ke sana cukup satu ketukan. Nama List paling panjang 25 karakter dan tidak boleh diawali angka. Letak menunya bisa berbeda menurut perangkat, wilayah, dan versi aplikasi, jadi wajar kalau tampilan di layarmu tidak persis sama.
 
-Search melayani kebutuhan yang lain lagi: kamu datang membawa pertanyaan, bukan menunggu disodori. Pencarian lanjutan bisa menyaring berdasarkan kata (semua kata, frasa persis, salah satu kata, kata yang dikecualikan, tagar, dan bahasa), akun, tempat, serta tanggal. Fitur ini memerlukan sesi login di x.com. Hasil pencarian juga terbagi ke beberapa tab, termasuk Top dan Latest, jadi biasakan membuka keduanya sebelum menarik kesimpulan.
+Search melayani kebutuhan yang lain lagi, yaitu saat kamu datang membawa pertanyaanmu sendiri. Pencarian lanjutan bisa menyaring berdasarkan kata (semua kata, frasa persis, salah satu kata, kata yang dikecualikan, tagar, dan bahasa), akun, tempat, serta tanggal. Fitur ini memerlukan sesi login di x.com. Hasil pencarian juga terbagi ke beberapa tab, termasuk Top dan Latest, jadi biasakan membuka keduanya sebelum menarik kesimpulan.
 
 ### Cara Kerja Explore dan Trends
 
 Explore sering disangka sama dengan For You di beranda, padahal berbeda. Menurut penjelasan resmi X tentang rekomendasi Explore, tab For You di Explore merekomendasikan Trends, Events, Topics, dan Videos secara personal. Tab Trending terikat pada lokasi tertentu dan dijelaskan sebagai tidak dipersonalisasi untuk setiap akun.
 
-[Halaman rekomendasi Trends](https://help.x.com/en/resources/recommender-systems/trends-recommendations) menyebut empat hal yang memengaruhi Trends yang kamu lihat: Topics yang kamu ikuti, engagement terbarumu, minat yang sama dengan kelompok pengguna serupa, dan lokasi. Karena campurannya seluas itu, Trends personal tetap bisa memuat hal di luar minatmu. Di Uni Eropa, kotak What's happening tidak dipersonalisasi.
+[Halaman rekomendasi Trends](https://help.x.com/en/resources/recommender-systems/trends-recommendations) menyebut empat hal yang memengaruhi Trends yang kamu lihat, mulai dari Topics yang kamu ikuti, engagement terbarumu, dan minat yang sama dengan kelompok pengguna serupa, sampai lokasi. Karena campurannya seluas itu, Trends personal tetap bisa memuat hal di luar minatmu. Di Uni Eropa, kotak What's happening tidak dipersonalisasi.
 
 Ada dua jenis umpan balik dengan efek yang berbeda:
 
 - **Not interested** hanya mengubah Trends yang kamu lihat sendiri.
-- **Harmful or spammy** adalah laporan yang memengaruhi Trends di seluruh X. Pakai hanya bila alasannya memang benar, bukan sekadar karena topiknya tidak kamu sukai.
+- **Harmful or spammy** adalah laporan yang memengaruhi Trends di seluruh X. Pakai hanya bila alasannya memang benar. Topik yang sekadar tidak kamu sukai belum cukup jadi alasan.
 
-Yang perlu terus diingat, tren yang tinggi bukan bukti bahwa sesuatu penting atau benar. Sebelum ikut menyebarkannya, periksa apa yang sebenarnya terjadi, siapa sumber pertamanya, dan kapan informasi itu muncul.
+Yang perlu terus diingat, tren yang tinggi tidak membuktikan bahwa sesuatu penting atau benar. Sebelum ikut menyebarkannya, periksa apa yang sebenarnya terjadi, siapa sumber pertamanya, dan kapan informasi itu muncul.
 
 ### Rutinitas Baca yang Sederhana
 
@@ -56,6 +56,6 @@ Following dan List memberimu kendali lebih langsung atas kumpulan penulis, tetap
 - For You hanyalah salah satu jalur, dan karena X membuka kembali tab terakhir yang kamu pakai, kebiasaan mudah mengunci pilihanmu.
 - X Help hanya menyebut Following berisi post dari akun yang kamu ikuti; urutan terbaru dan penempatan iklan di Following serta Lists berasal dari README Home Mixer di repositori lama.
 - List memberi kendali atas sumber, bisa dibuat Private, dan bisa disematkan di samping tab For You dan Following, sedangkan Search menjawab pertanyaan lewat filter pencarian lanjutan.
-- Trends dipengaruhi minat, engagement, dan lokasi, jadi bukan ukuran penting atau benarnya sebuah kabar.
+- Trends dipengaruhi minat, engagement, dan lokasi, jadi tidak bisa dijadikan ukuran penting atau benarnya sebuah kabar.
 
 Setelah tahu ada banyak pintu masuk, saatnya mengintip mesin For You dari dekat dengan mengikuti perjalanan sebuah post, dari saat ia diterbitkan sampai mendarat di layarmu.

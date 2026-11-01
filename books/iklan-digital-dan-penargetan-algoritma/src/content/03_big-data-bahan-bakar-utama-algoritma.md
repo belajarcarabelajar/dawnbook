@@ -38,7 +38,7 @@ Algoritma sangat peduli dengan lokasi kamu karena relevansi iklan sering kali be
 
 Di sinilah algoritma mulai "mengenal" kepribadian kamu. Data ini jauh lebih berharga daripada sekadar demografi.
 
-- **Komponen:** Hobi (misal: *cycling*, *skincare*), nilai-nilai yang dianut, gaya hidup, dan opini politik.
+- **Komponen:** Hobi (misalnya *cycling* atau *skincare*), nilai-nilai yang dianut, gaya hidup, dan opini politik.
 - **Cara Pengumpulan:** Melalui akun yang kamu ikuti, grup yang kamu masuki, dan konten yang kamu beri "Like".
 
 #### D. Data Perilaku / Behavioral (Apa yang Kamu Lakukan?)
@@ -64,7 +64,7 @@ Tidak semua data didapatkan dengan cara yang sama. Industri membaginya menjadi e
 
 ### 4. Bagaimana Algoritma Melihat Kamu?
 
-Secara teknis, profil kamu bukanlah nama atau foto, melainkan deretan label dan angka dalam sebuah basis data. Tabel berikut adalah gambaran sederhana isi profil seorang pengguna rekaan yang siap diproses oleh algoritma (semua nilainya contoh rekaan):
+Secara teknis, profil kamu berupa deretan label dan angka dalam sebuah basis data. Tabel berikut adalah gambaran sederhana isi profil seorang pengguna rekaan yang siap diproses oleh algoritma (semua nilainya contoh rekaan):
 
 | Kelompok | Atribut | Nilai |
 | --- | --- | --- |
@@ -96,8 +96,8 @@ Pernahkah kamu membicarakan suatu produk dengan teman, lalu tiba-tiba iklan prod
 
 ### 6. Rangkuman Pembelajaran
 
-- **Big Data** adalah fondasi yang memungkinkan iklan tidak lagi bersifat massal, melainkan personal.
-- Data dikumpulkan dari berbagai aspek: **siapa kita** (demografis), **di mana kita** (geografis), **apa yang kita sukai** (minat), dan **apa yang kita lakukan** (perilaku).
+- **Big Data** adalah fondasi yang memungkinkan iklan beralih dari massal ke personal.
+- Data dikumpulkan dari berbagai aspek, mulai dari **siapa kita** (demografis), **di mana kita** (geografis), **apa yang kita sukai** (minat), sampai **apa yang kita lakukan** (perilaku).
 - Kombinasi dari berbagai sumber data (Zero, First, Second, Third party) menciptakan profil digital yang sangat akurat.
 
 **Penting:** Meskipun Big Data memberikan kenyamanan berupa iklan yang relevan, pengumpulannya memicu perdebatan besar mengenai privasi. Hal ini akan kita bahas lebih mendalam pada bagian **Etika Periklanan dan Privasi Data**.

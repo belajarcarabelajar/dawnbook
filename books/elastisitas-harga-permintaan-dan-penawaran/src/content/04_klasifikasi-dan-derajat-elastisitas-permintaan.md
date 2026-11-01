@@ -3,9 +3,9 @@ Setelah memahami cara menghitung koefisien elastisitas pada materi sebelumnya, m
 Dalam ekonomi, tidak semua barang memberikan reaksi yang sama terhadap perubahan harga. Ada barang yang permintaannya langsung turun tajam saat harganya naik sedikit saja, tetapi ada juga barang yang permintaannya hampir tidak berubah meskipun harganya melonjak drastis. Fenomena ini kita klasifikasikan ke dalam lima derajat elastisitas permintaan.
 ### Tiga Tingkat Kelenturan
 Kelenturan permintaan punya lebih dari dua tingkat, dari karet gelang sampai kawat besi:
-- Ada yang selentur **karet gelang**: ditarik sedikit saja, ia meregang panjang (Elastis).
-- Beberapa benda seperti **karet yang kaku**: butuh tenaga besar untuk membuatnya berubah sedikit (Inelastis).
-- Bahkan ada benda yang seperti **kawat besi**: ditarik sekuat apa pun, panjangnya tidak berubah (Inelastis Sempurna).
+- Ada yang selentur **karet gelang**, yang langsung meregang panjang walau hanya ditarik sedikit (Elastis).
+- Beberapa benda seperti **karet yang kaku** butuh tenaga besar untuk berubah sedikit saja (Inelastis).
+- Bahkan ada benda seperti **kawat besi**, yang panjangnya tidak berubah meski ditarik sekuat apa pun (Inelastis Sempurna).
 ### 1. Permintaan Elastis
 Permintaan dikatakan elastis jika persentase perubahan jumlah barang yang diminta **lebih besar** daripada persentase perubahan harga. Konsumen dalam kategori ini sangat sensitif terhadap harga.
 - **Karakteristik:** Jika harga naik 10%, maka jumlah permintaan akan turun lebih dari 10%.

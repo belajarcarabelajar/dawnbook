@@ -2,7 +2,7 @@
 
 Dalam Teori Permainan, cara kita menyajikan sebuah masalah menentukan seberapa mudah kita dapat menyelesaikannya. Bayangkan kamu sedang mencoba menjelaskan strategi bisnis yang kompleks atau taktik dalam sebuah olahraga. Jika kamu menjelaskannya hanya dengan kata-kata, risiko terjadinya salah paham menjadi besar.
 
-Representasi visual dan matematis berfungsi sebagai "cetak biru" yang mengubah narasi interaksi sosial atau ekonomi menjadi model yang dapat dihitung dan dianalisis. Terdapat dua format utama yang digunakan oleh para pakar: **Bentuk Normal (Matriks)** dan **Bentuk Ekstensif (Pohon)**.
+Representasi visual dan matematis berfungsi sebagai "cetak biru" yang mengubah narasi interaksi sosial atau ekonomi menjadi model yang dapat dihitung dan dianalisis. Para pakar memakai dua format utama, yaitu **Bentuk Normal (Matriks)** dan **Bentuk Ekstensif (Pohon)**.
 
 ## 1. Bentuk Normal (Normal Form)
 
@@ -44,7 +44,7 @@ Bentuk Ekstensif menggunakan diagram **Pohon Permainan (Game Tree)**. Representa
 
 Bentuk ini memungkinkan kita memodelkan konsep waktu dan informasi:
 
-- **Informasi Sempurna (Perfect Information):** Setiap pemain tahu persis apa yang telah dilakukan pemain sebelumnya (misal: Catur).
+- **Informasi Sempurna (Perfect Information):** Setiap pemain tahu persis apa yang telah dilakukan pemain sebelumnya (misalnya catur).
 - **Informasi Tidak Sempurna (Imperfect Information):** Pemain tidak tahu langkah pasti lawan sebelumnya meskipun mereka bergerak secara berurutan. Dalam diagram, ini digambarkan dengan garis putus-putus yang menghubungkan dua simpul keputusan.
 
 ### Analogi Pohon Keputusan
@@ -64,12 +64,12 @@ Meskipun setiap permainan bentuk ekstensif dapat dikonversi menjadi bentuk norma
 
 ## 4. Masuknya Perusahaan ke Pasar
 
-Bayangkan sebuah skenario bisnis: **Perusahaan A** (Pendatang Baru) memutuskan apakah akan masuk ke pasar yang dikuasai **Perusahaan B** (Petahana).
+Bayangkan sebuah skenario bisnis ketika **Perusahaan A** (Pendatang Baru) memutuskan apakah akan masuk ke pasar yang dikuasai **Perusahaan B** (Petahana).
 
 1. **Jika A Masuk:** Perusahaan B bisa memilih untuk "Bertarung" (perang harga) atau "Akomodasi".
 2. **Jika A Tetap Keluar:** Perusahaan B tetap menjadi monopoli.
 
-**Dalam Bentuk Ekstensif:** Awalnya ada satu simpul keputusan (Perusahaan A). Dua cabang keluar: "Masuk" dan "Tetap Keluar". Jika "Masuk", muncul simpul baru (Perusahaan B) dengan dua cabang: "Bertarung" atau "Akomodasi".
+**Dalam Bentuk Ekstensif:** Awalnya ada satu simpul keputusan (Perusahaan A). Dari simpul itu keluar dua cabang, "Masuk" dan "Tetap Keluar". Jika "Masuk", muncul simpul baru (Perusahaan B) dengan cabang "Bertarung" dan "Akomodasi".
 
 **Dalam Bentuk Normal:** Kita bisa memodelkannya sebagai matriks, tetapi kita akan kehilangan nuansa bahwa Perusahaan B baru bertindak *setelah* melihat langkah Perusahaan A.
 
@@ -80,6 +80,6 @@ Bayangkan sebuah skenario bisnis: **Perusahaan A** (Pendatang Baru) memutuskan a
 1. *Apakah ini lebih cocok digambarkan dengan Matriks atau Pohon? Mengapa?*
 2. *Jika kita sepakat pemain tidak boleh melihat tangan satu sama lain, bagaimana kamu menggambarkan "ketidaktahuan" tersebut dalam sebuah pohon permainan?*
 
-> **Poin Penting:** Meskipun visualisasinya berbeda, tujuan akhirnya sama: memetakan setiap kemungkinan pilihan ke sebuah nilai hasil tertentu sehingga kita dapat memprediksi perilaku manusia atau sistem secara rasional.
+> **Poin Penting:** Meskipun visualisasinya berbeda, keduanya sama-sama bertujuan memetakan setiap kemungkinan pilihan ke sebuah nilai hasil tertentu sehingga kita dapat memprediksi perilaku manusia atau sistem secara rasional.
 
 **Langkah Selanjutnya:** Setelah memahami bagaimana sebuah permainan "digambar", pada bagian selanjutnya kita akan mempelajari bagaimana pemain memilih strategi terbaik mereka melalui konsep **Strategi Dominan**, ketika kita mulai mencari tahu siapa yang akan menang dan mengapa.

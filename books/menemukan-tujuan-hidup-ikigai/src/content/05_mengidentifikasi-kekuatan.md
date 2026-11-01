@@ -1,6 +1,6 @@
 ## Mengidentifikasi Kekuatan dari Apa yang Kamu Kuasai
 
-Perjalanan Ikigai terus berlanjut. Setelah menggali apa yang kamu cintai, sekarang waktunya masuk ke pilar kedua: **Apa yang Kamu Kuasai**. Di sini kita akan mengenali bakat alami, keterampilan yang sudah terbentuk, serta area keahlian unik milikmu. Mengenali kekuatan-kekuatan ini menjadi fondasi untuk membangun tujuan hidup yang terarah.
+Perjalanan Ikigai terus berlanjut. Setelah menggali apa yang kamu cintai, sekarang waktunya masuk ke **Apa yang Kamu Kuasai**, pilar kedua Ikigai. Di sini kita akan mengenali bakat alami, keterampilan yang sudah terbentuk, serta area keahlian unik milikmu. Mengenali kekuatan-kekuatan ini menjadi fondasi untuk membangun tujuan hidup yang terarah.
 
 ## 1\. Memahami 'Apa yang Kamu Kuasai' dalam Konteks Ikigai
 
@@ -48,7 +48,7 @@ Melakukan _self-assessment_ berarti mengevaluasi kemampuan dan perilakumu secara
 	- **Opportunities:** Apakah ada tren luar yang selaras dengan kekuatanmu?
 	- **Threats:** Kondisi atau perubahan apa di luar sana yang bisa mengancam relevansi keterampilanmu saat ini?
 3. **Tes Kepribadian:** Tes seperti MBTI atau DISC bisa memberi peta awal tentang kecenderungan alamimu dalam berpikir dan bertindak.
-	> *Penting:* Hasil tes hanyalah panduan, bukan label kaku yang membatasi dirimu. Gunakan wawasan ini sebatas sebagai titik mula untuk bereksplorasi.
+	> *Penting:* Hasil tes hanyalah panduan. Jangan jadikan hasil itu label kaku yang membatasi dirimu. Gunakan wawasan ini sebatas sebagai titik mula untuk bereksplorasi.
 
 ## 4\. Menghubungkan Kekuatan dengan Ikigai
 

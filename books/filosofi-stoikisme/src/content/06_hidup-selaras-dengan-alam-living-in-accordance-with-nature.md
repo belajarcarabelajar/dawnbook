@@ -1,14 +1,14 @@
 ## Hidup Selaras dengan Alam (Living in Accordance with Nature)
 
-Jika kamu pernah mendengar slogan utama kaum Stoik, kemungkinan besar itu adalah: **"Hiduplah selaras dengan alam."**
+Jika kamu pernah mendengar slogan utama kaum Stoik, kemungkinan besar itu adalah **"Hiduplah selaras dengan alam."**
 
-Namun, jangan salah sangka. Bagi kaum Stoik, ini bukan berarti kamu harus pindah ke hutan, berhenti menggunakan teknologi, atau menjadi seorang naturalis. Hidup "selaras dengan alam" memiliki makna metafisika dan etika yang jauh lebih dalam, yang berkaitan dengan peran kita sebagai manusia di tengah keteraturan semesta.
+Bagi kaum Stoik, hidup "selaras dengan alam" memiliki makna metafisika dan etika yang dalam, yang berkaitan dengan peran kita sebagai manusia di tengah keteraturan semesta. Pindah ke hutan, berhenti menggunakan teknologi, atau menjadi seorang naturalis tidak termasuk tuntutannya.
 
 ## 1\. Memahami Konsep Logos
 
 Untuk memahami apa artinya hidup selaras dengan alam, kita harus terlebih dahulu memahami apa itu **Logos**.
 
-Dalam kosmologi Stoik, alam semesta bukanlah sekumpulan kejadian acak yang kacau. Sebaliknya, alam semesta adalah sebuah organisme yang hidup, teratur, dan rasional. Penggerak keteraturan ini disebut *Logos*.
+Dalam kosmologi Stoik, alam semesta adalah sebuah organisme yang hidup, teratur, dan rasional. Penggerak keteraturan ini disebut *Logos*.
 
 **Konduktor Orkestra** Bayangkan alam semesta sebagai sebuah pertunjukan orkestra. Setiap instrumen (bintang, planet, pohon, hewan, manusia) memiliki bagian untuk dimainkan. *Logos* adalah skor musik sekaligus konduktornya. Selama semua instrumen mengikuti skor tersebut, terciptalah harmoni. Kekacauan hanya terjadi jika instrumen mencoba memainkan lagunya sendiri di luar ritme yang ditentukan.
 
@@ -30,7 +30,7 @@ Ini adalah hukum fisik dan takdir yang mengatur dunia. Kita hidup selaras dengan
 
 ### B. Alam Manusia (Human Nature)
 
-Setiap makhluk memiliki "desain" spesifik. Sapi didesain untuk merumput, singa untuk berburu. Lalu, apa desain spesifik manusia? Kaum Stoik menjawab: **Nalar (Reason) dan Sosialisabilitas.**
+Setiap makhluk memiliki "desain" spesifik. Sapi didesain untuk merumput, singa untuk berburu. Lalu, apa desain spesifik manusia? Jawaban kaum Stoik adalah **Nalar (Reason) dan Sosialisabilitas.**
 
 - **Makhluk Rasional:** Kita memiliki kemampuan untuk berpikir kritis dan tidak hanya bertindak berdasarkan insting.
 - **Makhluk Sosial:** Kita didesain untuk hidup bersama dan saling membantu demi kebaikan bersama (*Cosmopolitanism*).
@@ -81,7 +81,7 @@ Bagaimana cara menerapkan prinsip "Hidup Selaras dengan Alam" saat ini? Berikut 
 ### 2\. Proses Penuaan
 
 - **Melawan Alam:** Menghabiskan energi dan kebahagiaan untuk membenci kerutan atau penurunan stamina, mencoba melawan hukum biologis yang tak terelakkan.
-- **Selaras dengan Alam:** Menerima bahwa pertumbuhan dan peluruhan adalah siklus alami ($\text{Birth} \rightarrow \text{Growth} \rightarrow \text{Decay}$). Fokus pada kebijaksanaan yang datang seiring usia, bukan pada fisik yang memudar.
+- **Selaras dengan Alam:** Menerima bahwa pertumbuhan dan peluruhan adalah siklus alami ($\text{Birth} \rightarrow \text{Growth} \rightarrow \text{Decay}$). Fokus pada kebijaksanaan yang datang seiring usia.
 
 ### 3\. Kegagalan dalam Pekerjaan
 
@@ -101,6 +101,6 @@ Misalnya, hujan deras turun saat kamu akan piknik. Hujan termasuk kategori unive
 
 ## Ringkasan untuk Diingat
 
-> **Poin Utama:** Hidup selaras dengan alam bukanlah kepasifan. Ini adalah **penerimaan aktif**. Kita menerima apa yang terjadi di dunia luar sebagai bagian dari rencana besar yang rasional (*Logos*), tetapi kita tetap aktif menggunakan nalar kita untuk bertindak dengan bijak, adil, dan berani di dalam dunia tersebut.
+> **Poin Utama:** Hidup selaras dengan alam adalah **penerimaan aktif**. Kita menerima apa yang terjadi di dunia luar sebagai bagian dari rencana besar yang rasional (*Logos*), tetapi kita tetap aktif menggunakan nalar kita untuk bertindak dengan bijak, adil, dan berani di dalam dunia tersebut.
 
-**Pikirkan ini sebagai tantangan:** Hari ini, ketika sesuatu tidak berjalan sesuai rencana kamu, berhentilah sejenak. Katakan pada diri sendiri: *"Ini adalah bagian dari jalannya alam semesta. Bagaimana saya bisa menggunakan nalar saya untuk meresponsnya dengan harmonis?"*
+**Pikirkan ini sebagai tantangan:** Hari ini, ketika sesuatu tidak berjalan sesuai rencana kamu, berhentilah sejenak. Katakan pada diri sendiri, *"Ini adalah bagian dari jalannya alam semesta. Bagaimana saya bisa menggunakan nalar saya untuk meresponsnya dengan harmonis?"*

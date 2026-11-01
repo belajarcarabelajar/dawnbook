@@ -2,7 +2,7 @@
 
 Saat mengambil keputusan strategis, kita sering pusing dengan banyaknya kemungkinan langkah yang bisa diambil oleh lawan. Namun, bagaimana jika ada sebuah langkah yang **selalu** lebih baik dari langkah lainnya, apa pun yang dilakukan orang lain? Inilah inti dari **Strategi Dominan**.
 
-Memahami strategi dominan bukan hanya tentang memenangkan permainan, tetapi tentang menyederhanakan situasi nyata yang rumit menjadi pilihan-pilihan yang logis.
+Memahami strategi dominan berarti belajar menyederhanakan situasi nyata yang rumit menjadi pilihan-pilihan yang logis.
 
 ### 1. Apa Itu Strategi Dominan?
 
@@ -45,7 +45,7 @@ $$
 u_i(s_i^*, s_{-i}) \geq u_i(s_i, s_{-i})
 $$
 
-*Ini bukan contoh dominasi lemah. Dalam dunia investasi, jika ada instrumen yang memberikan bunga 5% dengan risiko nol, dan instrumen lain memberikan bunga 5% tapi dengan risiko tinggi, mana yang akan kamu pilih? Kedua instrumen memberi hasil yang sama, jadi tidak ada yang lebih baik dari yang lain.*
+*Contoh berikut tidak termasuk dominasi lemah. Dalam dunia investasi, jika ada instrumen yang memberikan bunga 5% dengan risiko nol, dan instrumen lain memberikan bunga 5% tapi dengan risiko tinggi, mana yang akan kamu pilih? Kedua instrumen memberi hasil yang sama, jadi tidak ada yang lebih baik dari yang lain.*
 
 ### 3. Strategi yang Didominasi (Dominated Strategies)
 
@@ -59,8 +59,8 @@ Ini adalah teknik detektif dalam teori permainan. **Iterated Elimination of Stri
 
 #### Langkah-langkah IESDS
 
-1. Lihat dari perspektif Pemain 1: Adakah strategi yang selalu memberikan hasil lebih buruk daripada strategi lainnya? Jika ada, hapus baris tersebut.
-2. Lihat dari perspektif Pemain 2: Dengan sisa strategi yang ada, adakah strategi yang selalu memberikan hasil lebih buruk? Jika ada, hapus kolom tersebut.
+1. Mulailah dari perspektif Pemain 1. Adakah strategi yang selalu memberikan hasil lebih buruk daripada strategi lainnya? Jika ada, hapus baris tersebut.
+2. Beralih ke perspektif Pemain 2, lalu tanyakan apakah di antara sisa strategi yang ada terdapat strategi yang selalu memberikan hasil lebih buruk? Jika ada, hapus kolom tersebut.
 3. Ulangi proses ini sampai tidak ada lagi strategi yang bisa dieliminasi.
 
 #### Contoh Matriks (Permainan Iklan)
@@ -74,10 +74,10 @@ Dua perusahaan, A dan B, memutuskan apakah akan beriklan (I) atau tidak (TI).
 
 **Analisis untuk Perusahaan A:**
 
-- Jika B beriklan: I (50) > TI (20)
-- Jika B tidak iklan: I (90) > TI (70)
+- Jika B beriklan, I (50) > TI (20)
+- Jika B tidak iklan, I (90) > TI (70)
 
-Kesimpulan: Strategi **Beriklan** adalah strategi dominan ketat bagi A. Strategi **Tidak Iklan** didominasi secara ketat dan bisa kita hapus.
+Jadi, strategi **Beriklan** adalah strategi dominan ketat bagi A. Strategi **Tidak Iklan** didominasi secara ketat dan bisa kita hapus.
 
 Karena Perusahaan B juga rasional dan memiliki struktur payoff yang sama, mereka juga akan mengeliminasi "Tidak Iklan". Hasil akhirnya adalah (50, 50).
 
@@ -99,6 +99,6 @@ Dalam lelang tertutup harga kedua (Vickrey Auction), menawar sesuai dengan nilai
 
 Memahami strategi dominan membantu kita untuk memprediksi perilaku dalam situasi kompetitif. Jika lawanmu memiliki strategi dominan, kamu bisa berasumsi dengan yakin bahwa mereka akan mengambil langkah tersebut.
 
-*Renungkan hal ini: Dalam kehidupan sehari-hari, apakah kamu sering mengambil keputusan berdasarkan apa yang orang lain lakukan, atau apakah kamu memiliki "Strategi Dominan" yang tetap kamu jalankan apa pun situasinya?*
+*Dalam kehidupan sehari-hari, apakah kamu sering mengambil keputusan berdasarkan apa yang orang lain lakukan, atau apakah kamu memiliki "Strategi Dominan" yang tetap kamu jalankan apa pun situasinya?*
 
 > **Insight Utama:** Menemukan strategi dominan adalah langkah pertama dalam memecahkan permainan apa pun. Jika kamu tidak menemukannya, barulah kita beralih ke konsep yang lebih dalam seperti Ekuilibrium Nash.

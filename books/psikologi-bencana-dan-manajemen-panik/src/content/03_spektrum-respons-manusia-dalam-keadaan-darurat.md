@@ -2,7 +2,7 @@
 
 Bayangan umum mengenai respons individu saat menghadapi gempa bumi besar atau kebakaran gedung bertingkat sering kali terpolarisasi secara keliru. Seseorang dianggap akan langsung berlari menyelamatkan diri secara heroik atau sebaliknya langsung tenggelam dalam kepanikan buta. Namun, data empiris dalam psikologi bencana membuktikan bahwa respons manusia dalam keadaan darurat bekerja melintasi sebuah spektrum perilaku yang kompleks dan bertingkat.
 
-Perilaku manusia saat krisis bukanlah fenomena biner. Reaksi individu tidak sekadar terbagi menjadi tenang versus panik, melainkan bergerak dinamis pada kontinum kognitif dan motorik yang dipengaruhi oleh tingkat persepsi ancaman, riwayat latihan kedaruratan (*stress inoculation*), serta kapasitas regulasi sistem saraf otonom.
+Reaksi individu saat krisis bergerak dinamis pada sebuah kontinum kognitif dan motorik. Posisinya dipengaruhi oleh tingkat persepsi ancaman, riwayat latihan kedaruratan (*stress inoculation*), serta kapasitas regulasi sistem saraf otonom.
 
 ### 1. Teori Distribusi 10-80-10 John Leach
 
@@ -52,13 +52,13 @@ Ketika otak mendeteksi anomali ekstrem yang belum pernah tersimpan dalam skema m
 
 - **Kelebihan Beban Informasi (*Sensory Overload*):** Rangsangan suara ledakan, alarm, kepulan asap, dan teriakan membanjiri talamus, memutus transmisi kalkulasi rasional dari korteks prefrontal ke korteks motorik.
 - **Tanda Fisik dan Perilaku:** Tatapan mata kosong (*perceptual blanking*), tubuh kaku, ketidakmampuan merespons panggilan verbal, serta keterikatan motorik pada benda yang tidak relevan (seperti tetap memegang cangkir kopi atau tas belanjaan).
-- **Studi Kasus Evakuasi Penerbangan:** Penyelidikan pada insiden kecelakaan pesawat komersial mencatat sejumlah penumpang yang tetap duduk tenang tanpa melepaskan sabuk pengaman meskipun kabin telah dipenuhi gas beracun. Fenomena ini bukan penolakan untuk selamat, melainkan kelumpuhan sistem eksekutif otak untuk mengeksekusi urutan motorik sederhana di bawah tekanan ekstrem.
+- **Studi Kasus Evakuasi Penerbangan:** Penyelidikan pada insiden kecelakaan pesawat komersial mencatat sejumlah penumpang yang tetap duduk tenang tanpa melepaskan sabuk pengaman meskipun kabin telah dipenuhi gas beracun. Fenomena ini mencerminkan kelumpuhan sistem eksekutif otak untuk mengeksekusi urutan motorik sederhana di bawah tekanan ekstrem. Diamnya mereka tidak berarti menolak untuk selamat.
 
-Dalam manajemen darurat lapangan, pemutusan siklus pembekuan kognitif ini memerlukan stimulus eksternal yang tajam, seperti sentuhan fisik terukur atau instruksi verbal yang lugas dan berenergi tinggi (misalnya: *"LEPASKAN SABUK, BERDIRI SEKARANG!"*).
+Dalam manajemen darurat lapangan, pemutusan siklus pembekuan kognitif ini memerlukan stimulus eksternal yang tajam, seperti sentuhan fisik terukur atau instruksi verbal yang lugas dan berenergi tinggi (misalnya *"LEPASKAN SABUK, BERDIRI SEKARANG!"*).
 
 ### 3. Perilaku Heroik yang Impulsif
 
-Di kutub respons yang berlawanan, muncul tindakan kepahlawanan spontan. Penelitian psikologi bencana menunjukkan bahwa tindakan heroik dalam fase awal krisis kerap bersifat impulsif dan didorong oleh refleks otomatis prososial, bukan hasil pertimbangan deliberatif yang panjang.
+Di kutub respons yang berlawanan, muncul tindakan kepahlawanan spontan. Penelitian psikologi bencana menunjukkan bahwa tindakan heroik dalam fase awal krisis kerap bersifat impulsif dan didorong oleh refleks otomatis prososial yang muncul tanpa pertimbangan deliberatif panjang.
 
 #### Karakteristik Respons Heroik
 
@@ -92,7 +92,7 @@ flowchart LR
 Posisi seorang individu dalam kontinum respons darurat ditentukan oleh interaksi berbagai variabel biopsikososial:
 
 1. **Imunisasi Stres (*Stress Inoculation Training*):** Latihan simulasi yang realistis membentuk skema mental siap pakai pada hipokampus, sehingga otak tidak mempersepsikan keadaan darurat sebagai kejutan total yang melumpuhkan.
-2. **Pusat Kendali Diri (*Internal Locus of Control*):** Keyakinan bahwa keselamatan diri bergantung pada tindakan nyata yang diambil, bukan pada sikap pasrah terhadap takdir.
+2. **Pusat Kendali Diri (*Internal Locus of Control*):** Keyakinan bahwa keselamatan diri bergantung pada tindakan nyata yang diambil, tanpa menyerahkannya pada sikap pasrah terhadap takdir.
 3. **Kebugaran Neurofisiologis:** Kelelahan kronis atau deprivasi tidur menurunkan kapasitas ambang batas korteks prefrontal, mempercepat transisi menuju kondisi *cognitive freezing*.
 
 ### Ragam Respons Pengunjung saat Kebakaran di Pusat Perbelanjaan
@@ -108,6 +108,6 @@ Penerapan konsep spektrum respons dapat diamati secara jelas melalui simulasi ke
 
 ### Respons Darurat Bukan Ukuran Moral
 
-Spektrum respons manusia dalam keadaan darurat menegaskan bahwa perilaku individu pada detik-detik awal bencana bukanlah tolok ukur integritas moral, melainkan cerminan mekanisme neurofisiologis dalam merespons bahaya akut.
+Spektrum respons manusia dalam keadaan darurat menegaskan bahwa perilaku individu pada detik-detik awal bencana mencerminkan mekanisme neurofisiologis dalam merespons bahaya akut.
 
 Distribusi perilaku ini tidak bersifat permanen. Melalui pemahaman mendalam mengenai arsitektur respons krisis, pembiasaan simulasi evakuasi, serta peningkatan literasi navigasi darurat, kapasitas kognitif setiap individu dapat ditingkatkan agar mampu berpindah dari kerentanan pembekuan pasif menuju kesiapan aksi yang adaptif dan efektif.

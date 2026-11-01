@@ -34,7 +34,7 @@ Jika $\text{PoA}$ mendekati 1, maka perilaku individualistis pemain tidak merusa
 
 ## 3. Sistem Multi-Agen (Multi-Agent Systems - MAS)
 
-Dalam AI, kita sering tidak hanya membangun satu model, melainkan ekosistem ketika banyak agen berinteraksi.
+Dalam AI, kita sering membangun sebuah ekosistem berisi banyak agen yang saling berinteraksi.
 
 ### Karakteristik MAS
 
@@ -47,7 +47,7 @@ Saat kamu membuka halaman web, di balik layar terjadi lelang instan untuk menent
 
 ## 4. Desain Mekanisme (Mechanism Design)
 
-Jika Teori Permainan adalah tentang "memprediksi hasil dari aturan yang ada", maka **Desain Mekanisme** adalah kebalikannya: "mendesain aturan untuk mencapai hasil yang diinginkan". Ini sering disebut sebagai **Reverse Game Theory**.
+Jika Teori Permainan adalah tentang "memprediksi hasil dari aturan yang ada", maka **Desain Mekanisme** adalah kebalikannya, yaitu "mendesain aturan untuk mencapai hasil yang diinginkan". Ini sering disebut sebagai **Reverse Game Theory**.
 
 Tujuannya adalah menciptakan sistem yang *Strategy-Proof* (tahan manipulasi). Artinya, strategi terbaik bagi pemain adalah berkata jujur.
 
@@ -76,7 +76,7 @@ Nilai dari posisi-posisi paling ujung itu lalu dibawa mundur sampai ke posisi se
 
 ### Reinforcement Learning (RL) & Game Theory
 
-Dalam **Multi-Agent Reinforcement Learning (MARL)**, agen belajar melalui uji coba (*trial-and-error*). Tantangannya adalah "target yang bergerak": saat Agen A belajar, lingkungan Agen B berubah karena perilaku Agen A berubah. Ini sering diselesaikan dengan mencari **Ekuilibrium Nash** dalam proses pelatihan.
+Dalam **Multi-Agent Reinforcement Learning (MARL)**, agen belajar melalui uji coba (*trial-and-error*). Tantangannya berupa "target yang bergerak". Saat Agen A belajar, lingkungan Agen B berubah karena perilaku Agen A berubah. Ini sering diselesaikan dengan mencari **Ekuilibrium Nash** dalam proses pelatihan.
 
 ## 6. Teori Permainan pada Iklan Digital, Spektrum Radio, Keamanan Siber, dan Kripto
 
@@ -89,8 +89,8 @@ Dalam **Multi-Agent Reinforcement Learning (MARL)**, agen belajar melalui uji co
 
 Apa yang terjadi jika AI menjadi terlalu pintar dalam bernegosiasi? Ada risiko bahwa algoritma secara tidak sengaja belajar untuk melakukan **kolusi** (bekerja sama secara rahasia) untuk menaikkan harga bagi konsumen.
 
-*Coba bayangkan skenario ini: jika dua algoritma penetapan harga di toko online belajar bahwa mereka berdua untung lebih besar jika tidak pernah menurunkan harga, apakah itu sebuah kesuksesan AI atau kegagalan pasar?*
+*Ambil contoh dua algoritma penetapan harga di toko online yang belajar bahwa mereka berdua untung lebih besar jika tidak pernah menurunkan harga. Apakah itu sebuah kesuksesan AI atau kegagalan pasar?*
 
-> **Pesan Utama:** Teori permainan algoritmik bukan hanya tentang menang, tetapi tentang membangun sistem yang adil, stabil, dan efisien secara komputasi ketika banyak agen mementingkan diri sendiri.
+> **Pesan Utama:** Teori permainan algoritmik membahas cara menang, juga cara membangun sistem yang adil, stabil, dan efisien secara komputasi ketika banyak agen mementingkan diri sendiri.
 
 *Jika kamu merancang sebuah sistem yang dipakai banyak agen, aturan apa yang akan kamu buat agar berkata jujur menjadi strategi terbaik mereka?*

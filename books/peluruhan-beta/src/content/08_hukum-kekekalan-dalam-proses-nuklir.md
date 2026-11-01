@@ -17,7 +17,7 @@ Dalam fisika nuklir, muatan biasanya direpresentasikan oleh nomor atom ($Z$).
 - Positron ($e^+$) memiliki muatan $+1$
 - Neutron dan Neutrino memiliki muatan $0$
 
-**Mari kita lihat dalam aksi:** Dalam peluruhan $\beta^-$, sebuah neutron ($Z=0$) berubah menjadi proton ($Z=1$). Agar muatan tetap nol, alam semesta menciptakan elektron ($Z=-1$).
+Lihat bagaimana hukum ini bekerja. Dalam peluruhan $\beta^-$, sebuah neutron ($Z=0$) berubah menjadi proton ($Z=1$). Agar muatan tetap nol, alam semesta menciptakan elektron ($Z=-1$).
 
 <div>
 $$
@@ -25,7 +25,7 @@ $$
 $$
 </div>
 
-> **Penting:** Muatan tidak diciptakan atau dimusnahkan; ia hanya didistribusikan ulang antarpartikel.
+> **Penting:** Jumlah total muatan selalu sama sebelum dan sesudah peluruhan. Selama peluruhan, muatan hanya didistribusikan ulang antarpartikel.
 
 ## 2. Kekekalan Nomor Massa / Jumlah Nukleon ($A$)
 
@@ -39,13 +39,13 @@ $$
 $$
 </div>
 
-Lihat angka atas (14). Sebelum dan sesudah reaksi, jumlahnya tidak berubah, yaitu 14. *Analogi: Bayangkan terdapat 14 buah bola. Beberapa berwarna merah (proton) dan beberapa biru (neutron). Jika satu bola biru dicat menjadi merah, total bola masih 14.*
+Lihat angka atas (14). Sebelum dan sesudah reaksi, jumlahnya tidak berubah, yaitu 14. *Sebagai analogi, bayangkan terdapat 14 buah bola. Beberapa berwarna merah (proton) dan beberapa biru (neutron). Jika satu bola biru dicat menjadi merah, total bola masih 14.*
 
 ## 3. Kekekalan Momentum dan Energi
 
 Inilah bagian yang sempat membuat para fisikawan pusing di awal abad ke-20. Ketika mengamati peluruhan beta, para ilmuwan melihat bahwa energi elektron yang keluar bervariasi (spektrum kontinu). Jika hanya ada dua partikel yang dihasilkan (inti baru dan elektron), seharusnya elektron selalu memiliki energi yang sama berdasarkan hukum kekekalan energi dan momentum.
 
-Wolfgang Pauli mengusulkan sebuah solusi: ada partikel hantu yang membawa pergi sisa energi dan momentum tersebut agar hukum kekekalan terjaga. Partikel inilah yang kita kenal sebagai **Neutrino** ($\nu$) atau **Antineutrino** ($\bar{\nu}$).
+Wolfgang Pauli lalu mengusulkan adanya partikel hantu yang membawa pergi sisa energi dan momentum tersebut agar hukum kekekalan terjaga. Partikel inilah yang kita kenal sebagai **Neutrino** ($\nu$) atau **Antineutrino** ($\bar{\nu}$).
 
 - **Momentum Linear:** Jumlah vektor momentum sebelum dan sesudah harus sama. Jika inti sisa bergerak ke kiri, maka elektron dan neutrino harus bergerak ke arah yang menyeimbangkannya.
 - **Energi:** Total energi massa diam ditambah energi kinetik harus sama sebelum dan sesudah peluruhan:
@@ -81,11 +81,11 @@ $$
   - Antineutrino ($\bar{\nu}_e$): $L = -1$
 - Total Sisi Kanan: $0 + 1 + (-1) = 0$
 
-*Hasil: Hukum kekekalan bilangan lepton terpenuhi!* Inilah alasan mengapa peluruhan beta minus selalu menghasilkan *antineutrino*, bukan neutrino biasa.
+*Dengan begitu, hukum kekekalan bilangan lepton terpenuhi!* Karena itulah peluruhan beta minus selalu menghasilkan *antineutrino*.
 
 ## Pemantauan Reaktor Nuklir
 
-Hukum kekekalan ini bukan sekadar teori di atas kertas. Kita menggunakannya untuk aplikasi praktis seperti **Pemantauan Reaktor Nuklir**.
+Hukum kekekalan ini punya kegunaan nyata, salah satunya dalam **Pemantauan Reaktor Nuklir**.
 
 Reaktor nuklir menghasilkan aliran antineutrino yang sangat besar sebagai hasil sampingan dari peluruhan beta di dalam bahan bakar uranium. Karena hukum kekekalan bilangan lepton mewajibkan produksi antineutrino setiap kali elektron (partikel beta) tercipta, para ilmuwan bisa menghitung jumlah antineutrino yang keluar untuk:
 

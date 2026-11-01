@@ -54,7 +54,7 @@ flowchart TD
     Q -->|"sudah"| E["Selesai untuk awal latihan"]
 ```
 
-Cobalah rasakan perbedaan suhu udara: terasa sejuk saat masuk melalui hidung dan hangat saat keluar melalui mulut. Detail kecil ini membantu memfokuskan pikiranmu pada momen saat ini.
+Cobalah rasakan perbedaan suhu udara yang terasa sejuk saat masuk melalui hidung dan hangat saat keluar melalui mulut. Detail kecil ini membantu memfokuskan pikiranmu pada momen saat ini.
 
 ## Analogi Komputer yang Kelebihan Aplikasi
 

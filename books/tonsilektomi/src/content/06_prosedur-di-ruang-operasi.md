@@ -71,6 +71,6 @@ Mari kita lihat contoh nyata bagaimana tim bekerja secara sinkron:
 | **Operasi** | Pengangkatan tonsil dan kontrol perdarahan. | 20-40 menit |
 | **Ekstubasi** | Pasien dibangunkan dan selang napas dilepas. | 10 menit |
 
-**Penting:** Durasi di tabel hanyalah perkiraan kasar; lama seluruh prosedur dari saat kamu masuk hingga keluar ruang operasi bisa berbeda pada tiap pasien, seperti terlihat pada contoh anak 7 tahun di atas. Kecepatan bukanlah tujuan utama; ketelitian dan penghentian perdarahan yang tuntas adalah prioritas tertinggi tim medis.
+**Penting:** Durasi di tabel hanyalah perkiraan kasar; lama seluruh prosedur dari saat kamu masuk hingga keluar ruang operasi bisa berbeda pada tiap pasien, seperti terlihat pada contoh anak 7 tahun di atas. Bagi tim medis, ketelitian dan penghentian perdarahan yang tuntas jauh lebih penting daripada kecepatan.
 
 *Setelah tahap ini selesai, perjalananmu berlanjut ke ruang pemulihan (PACU), yang akan dibahas secara detail pada bagian selanjutnya dari materi ini.*

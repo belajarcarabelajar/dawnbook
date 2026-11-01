@@ -12,7 +12,7 @@ Untuk memahami mengapa FIFA (Federasi Sepak Bola Internasional) mengambil langka
 - Pemerintah membatasi hak-hak mayoritas kulit hitam secara drastis, mencakup wilayah tempat tinggal, akses pendidikan, hingga kesempatan kerja.
 - Aturan ketat dalam olahraga melarang pembentukan tim multirasial, melarang pemain kulit hitam dan putih bertanding di satu lapangan, serta memisahkan penonton stadion dengan pagar besi.
 
-> **Klub Eksklusif yang Rusak** Bayangkan sebuah liga sepak bola yang aturan utamanya bukan tentang siapa yang mencetak gol paling banyak, melainkan tentang warna sepatu yang kamu kenakan. Jika kamu memakai sepatu hitam, kamu tidak diizinkan masuk ke stadion utama, meskipun kamu adalah pemain terbaik di dunia. Inilah yang terjadi di Afrika Selatan; bakat sehebat apa pun tidak berarti jika ras kamu dianggap "salah" oleh hukum negara.
+> **Klub Eksklusif yang Rusak** Bayangkan sebuah liga sepak bola yang aturan utamanya menyangkut warna sepatu yang kamu kenakan. Jika kamu memakai sepatu hitam, kamu tidak diizinkan masuk ke stadion utama, meskipun kamu adalah pemain terbaik di dunia. Inilah yang terjadi di Afrika Selatan; bakat sehebat apa pun tidak berarti jika ras kamu dianggap "salah" oleh hukum negara.
 
 ### 2. Awal Mula Ketegangan dengan FIFA (1950-an)
 
@@ -47,7 +47,7 @@ Apakah keputusan FIFA mengeluarkan Afrika Selatan murni karena alasan moral kema
 
 ### 5. Dampak Pengucilan terhadap Sepak Bola Lokal
 
-Selama masa isolasi, sepak bola di Afrika Selatan tidak mati, tetapi tumbuh dalam "kegelapan":
+Selama masa isolasi, sepak bola di Afrika Selatan terus hidup dalam "kegelapan":
 
 - Banyak pemain berbakat kulit hitam Afrika Selatan kehilangan kesempatan bersinar di panggung dunia selama masa keemasan mereka. Ini menciptakan generasi yang hilang di kancah sepak bola internasional.
 - Pemerintah Apartheid berupaya mendatangkan tim-tim luar negeri dengan bayaran mahal untuk melakoni tur ilegal demi mengesankan bahwa mereka tidak terkucil. Namun, langkah ini gagal akibat sanksi keras FIFA dan PBB.
@@ -87,6 +87,6 @@ Kasus Afrika Selatan mengajarkan kita bagaimana olahraga dapat digunakan sebagai
 
 ### Inti Pembahasan
 
-Pengucilan Afrika Selatan dari FIFA merupakan pernyataan moral dunia bahwa diskriminasi rasial tidak memiliki tempat di atas lapangan hijau, bukan hanya persoalan teknis organisasi. Perjalanan dari pengusiran tahun 1976 hingga menjadi tuan rumah Piala Dunia 2010 menunjukkan bahwa segregasi dalam sepak bola negara itu telah berakhir.
+Pengucilan Afrika Selatan dari FIFA merupakan pernyataan moral dunia bahwa diskriminasi rasial tidak memiliki tempat di atas lapangan hijau. Perjalanan dari pengusiran tahun 1976 hingga menjadi tuan rumah Piala Dunia 2010 menunjukkan bahwa segregasi dalam sepak bola negara itu telah berakhir.
 
 Setelah mempelajari bab ini, menurut kamu, apakah FIFA saat ini masih harus menggunakan kekuatan "pengucilan" terhadap negara-negara yang melakukan pelanggaran HAM, ataukah olahraga harus tetap netral tanpa memandang situasi politik suatu negara?

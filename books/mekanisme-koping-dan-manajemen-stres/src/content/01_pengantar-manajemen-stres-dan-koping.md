@@ -4,11 +4,11 @@ Langkah pertama buku ini adalah memahami bagaimana pikiran dan tubuh berinteraks
 
 ### Apa Itu Stres?
 
-Secara sederhana, **stres** adalah reaksi tubuh dan pikiran terhadap tantangan atau tuntutan yang muncul dalam lingkungan kita. Bayangkan sebuah senar gitar: jika tidak ada tegangan sama sekali, ia tidak akan menghasilkan nada. Namun, jika ditarik terlalu kencang, ia akan putus. Stres adalah "tegangan" tersebut.
+Secara sederhana, **stres** adalah reaksi tubuh dan pikiran terhadap tantangan atau tuntutan yang muncul dalam lingkungan kita. Bayangkan sebuah senar gitar. Jika tidak ada tegangan sama sekali, ia tidak akan menghasilkan nada. Namun, jika ditarik terlalu kencang, ia akan putus. Stres adalah "tegangan" tersebut.
 
 Dalam istilah psikologis, stres sering dilihat sebagai ketidakseimbangan antara tuntutan yang kita hadapi dan kemampuan yang kita rasa kita miliki untuk mengatasinya.
 
-> **Wawasan Penting:** Stres bukanlah musuh yang harus dimusnahkan sepenuhnya. Stres adalah sistem alarm internal yang dirancang untuk membantu kita bertahan hidup dan beradaptasi.
+> **Wawasan Penting:** Stres adalah sistem alarm internal yang dirancang untuk membantu kita bertahan hidup dan beradaptasi. Karena itu, kita tidak perlu memusnahkannya sepenuhnya.
 
 #### Komponen Stres
 
@@ -22,7 +22,7 @@ Jika **Tuntutan** lebih besar daripada **Sumber Daya** yang kamu miliki, maka ti
 
 ### Eustress vs. Distress
 
-Banyak orang beranggapan bahwa stres selalu bersifat negatif. Faktanya, para ahli psikologi membagi stres menjadi dua kategori utama berdasarkan dampaknya terhadap individu:
+Banyak orang beranggapan bahwa stres selalu bersifat negatif. Faktanya, para ahli psikologi membagi stres menjadi dua kategori utama berdasarkan dampaknya terhadap individu.
 
 #### 1. Eustress (Stres Positif)
 
@@ -74,8 +74,8 @@ Mari kita lihat bagaimana perbedaan koping memengaruhi hasil akhir dalam situasi
 
 ### Langkah Selanjutnya
 
-Memahami bahwa stres adalah reaksi alami dan koping adalah keterampilan yang bisa dipelajari merupakan dasar manajemen diri. Stres bukan musuh untuk ditakuti, melainkan sinyal yang perlu dikelola dengan bijak.
+Memahami bahwa stres adalah reaksi alami dan koping adalah keterampilan yang bisa dipelajari merupakan dasar manajemen diri. Perlakukan stres sebagai sinyal yang perlu dikelola dengan bijak.
 
-Dalam bagian selanjutnya, kita akan menggali lebih dalam ke mesin di balik reaksi ini: **Sistem Saraf Kamu**. Kita akan mempelajari mengapa tubuh kamu terkadang merasa seperti sedang dikejar harimau, padahal kamu hanya sedang menghadapi tumpukan cucian atau email yang belum dibalas.
+Dalam bagian selanjutnya, kita akan menggali lebih dalam **sistem saraf kamu**, mesin di balik reaksi ini. Kita akan mempelajari mengapa tubuh kamu terkadang merasa seperti sedang dikejar harimau, padahal kamu hanya sedang menghadapi tumpukan cucian atau email yang belum dibalas.
 
 > **Pertanyaan Refleksi:** Coba ingat satu kejadian dalam seminggu terakhir ketika kamu merasa stres. Apakah itu termasuk *eustress* atau *distress*? Bagaimana cara kamu menanganinya saat itu?
