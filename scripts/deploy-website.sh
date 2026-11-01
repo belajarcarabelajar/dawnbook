@@ -44,11 +44,37 @@ if ! bun run scripts/check-premium-output.ts; then
   exit 1
 fi
 
+# Premium images are served from R2, not Pages (GEMINI.md section 30). Upload them before
+# the Pages deploy so no new page points at a missing image; prune only after it (step 7).
+echo "🖼️  3b. Uploading premium images to R2..."
+if ! bun run scripts/premium/sync-media.ts upload; then
+  echo "❌ Error: uploading the premium images to R2 failed. Deploy aborted, because the new pages would point at missing images."
+  exit 1
+fi
+
 echo "☁️  4. Deploying to Cloudflare Pages (dawnbook.pages.dev)..."
 bunx wrangler pages deploy output --project-name dawnbook --branch main --commit-dirty=true
 
 echo "📣 5. Announcing new books on Telegram..."
 bun run scripts/announce-new-books.ts --before "$live_manifest" --after output/manifest.json \
   || echo "⚠️  Telegram announcement failed; announce by hand with: bun run scripts/announce-new-books.ts --slug <slug>"
+
+# The site is live from here on, so a failed step is reported at the end instead of
+# stopping the steps after it.
+failed=()
+
+echo "📄 6. Releasing the premium store PDFs..."
+bun run scripts/premium/release-pdfs.ts \
+  || failed+=("bun run scripts/premium/release-pdfs.ts (store PDFs are stale)")
+
+echo "🧹 7. Deleting premium images no longer used from R2..."
+bun run scripts/premium/sync-media.ts prune \
+  || failed+=("bun run scripts/premium/sync-media.ts prune (unused images stay in R2)")
+
+if [ ${#failed[@]} -gt 0 ]; then
+  echo "❌ The site is live, but these steps failed. Fix the cause and re-run them:"
+  printf '   - %s\n' "${failed[@]}"
+  exit 1
+fi
 
 echo "✅ Deployment complete! D1 binding 'DB' is active."

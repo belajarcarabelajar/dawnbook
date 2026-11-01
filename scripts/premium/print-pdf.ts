@@ -4,30 +4,46 @@
  *
  * Usage:
  *   bun run scripts/premium/print-pdf.ts <slug> --out <file.pdf> [--books-dir <dir>]
- *     [--cover <file.svg|.png|.jpg>] [--hide-image <basename>]...
+ *     [--cover <file.svg|.png|.jpg>] [--hide-image <basename>]... [--restrict]
  *
- * --books-dir defaults to books/ of this repo, which scripts/premium-sync.ts fills.
+ * --books-dir defaults to books/ of this repo, which scripts/premium-sync.ts fills. As in the web
+ *   build, shared-header.css and shared-script.js are taken from this folder too.
  * --cover prints that image alone as page 1, filling the A4 page with no margin.
  * --hide-image (repeatable) hides every <img> whose src ends in <basename>, for a cover that
  *   already sits inside chapter 1.
+ * --restrict saves the PDF with AES-256, an empty open password, text extraction and changes not
+ *   allowed, printing allowed. Reader apps honour this as a request; it is not protection.
  * Why (owner, 2026-11-01): the web header and fonts leaked into the PDF, and a cover inside
  *   chapter 1 flowed with the text and left page 1 almost empty.
  * Exit codes: 0 success, 1 failure, 2 usage error.
  *
+ * Needs mdbook, chromium, pdfinfo, pdftotext and uv. uv runs scripts/premium/finish-pdf.py with
+ * pikepdf pinned to PIKEPDF_VERSION below (pikepdf bundles qpdf, so no system package is added).
+ *
  * Steps:
  *   1. With --cover: the image is copied into <temp>/cover next to a one-image cover.html,
  *      Chromium prints that to <temp>/cover.pdf, and pdfinfo must report exactly 1 page.
- *   2. `mdbook build books/<slug> -d <fresh mkdtemp dir under /tmp>/build/<slug>` (two levels
- *      deep, because book.toml reaches shared CSS through ../../apps/...) with
- *      MDBOOK_OUTPUT__HTML__PRINT__ENABLE=true. The template turns print.html off, and
- *      book.toml must never be edited (GEMINI.md section 1), so the env var switches it on.
- *   3. Insert one print <style> before </head> of the built print.html: `@page { size: A4;
- *      margin: 15mm; }`, the reader chrome (menu bar, sidebar, chapter arrows) hidden, Open Sans
- *      as the one body font, and the --hide-image rules.
- *   4. Headless Chromium prints that page to book.pdf, run with cwd set to the build dir.
- *   5. pdfinfo must report more than 1 page and pdftotext must not show Chromium's error page.
- *   6. With --cover: `pdfunite cover.pdf book.pdf final.pdf` puts the cover in front.
- *   7. The PDF is copied to --out and the temp dir is removed.
+ *   2. The book is prepared exactly like the web build: prepareBookForMdbook copies it to
+ *      .build-tmp-pdf/<slug> in this repo, and inlineDiagramsInBook replaces each Mermaid block
+ *      with its cached SVG. A diagram without a cached SVG fails the print with the web build's
+ *      message.
+ *   3. `mdbook build .build-tmp-pdf/<slug> -d <fresh mkdtemp dir under /tmp>/build/<slug>` (two
+ *      levels deep, because book.toml reaches shared CSS through ../../apps/...) with
+ *      MDBOOK_OUTPUT__HTML__PRINT__ENABLE=true. The template turns print.html off, and book.toml
+ *      must never be edited (GEMINI.md section 1), so the env var switches it on.
+ *   4. Insert the print <style> before </head> of the built print.html (A4 with 25 mm margins and
+ *      page numbers, the reader chrome hidden, Open Sans, justified 12 pt text, page-break rules,
+ *      the --hide-image rules) and the watermark: "belajarcarabelajar.com" drawn as paths, fixed
+ *      on every page at 6 % opacity. The cover has its own page and gets no watermark.
+ *   5. Headless Chromium prints that page to book.pdf with chapter bookmarks, run with cwd set to
+ *      the build dir.
+ *   6. pdfinfo must report more than 1 page and pdftotext must not show Chromium's error page.
+ *   7. finish-pdf.py puts the cover in front and, with --restrict, encrypts. Its JSON line must
+ *      show the book's pages (plus 1 with a cover), at least 1 bookmark, and encryption exactly
+ *      when --restrict was given; anything else exits 1 and writes no PDF.
+ *   8. pdftotext of the finished book pages must not hold "belajarcarabelajar.com" more often than
+ *      the prepared Markdown does; otherwise the watermark leaked into the text layer.
+ *   9. The PDF is copied to --out; the temp dir and the prepared copy are removed.
  *
  * Measured traps (2026-11-01):
  *   - Chromium here cannot read files under ~/.cache (where TMPDIR points on this machine).
@@ -38,13 +54,17 @@
  *
  * Nothing here prints book text: only page counts, sizes and command errors.
  *
- * Uploading the PDF to R2 is a separate step that needs the owner's approval. Back up the
- * old object first, then:
- *   cf r2 objects put member/<slug>.pdf --bucket-name bcb-admin-media --file <pdf> --content-type application/pdf
+ * Release: scripts/premium/release-pdfs.ts prints every revised premium book with each deploy and
+ * overwrites member/<slug>.pdf in R2 in place; it makes no backup objects.
  */
 import fs from "node:fs";
 import os from "node:os";
 import path from "node:path";
+import { Resvg } from "@resvg/resvg-js";
+import { prepareBookForMdbook } from "../builder/mdbook-runner";
+import { markdownFiles } from "../diagrams/books";
+import { inlineDiagramsInBook } from "../diagrams/inline";
+import { UsageError, tail } from "./cli";
 
 // The web reader's header, sidebar and chapter arrows, none of which belongs on paper.
 const READER_CHROME = [
@@ -65,10 +85,18 @@ const COVER_EXTS = [".svg", ".png", ".jpg"];
 const ERROR_PAGE_MARKERS = ["ERR_FILE_NOT_FOUND", "couldn't be accessed"];
 const USAGE =
   "usage: bun run scripts/premium/print-pdf.ts <slug> --out <file.pdf> [--books-dir <dir>] " +
-  "[--cover <file.svg|.png|.jpg>] [--hide-image <basename>]...";
+  "[--cover <file.svg|.png|.jpg>] [--hide-image <basename>]... [--restrict]";
 const REPO_ROOT = path.resolve(import.meta.dir, "../..");
+// Repo-local like the web build's .build-tmp/, so the theme's ../shared-header.css and
+// ../../apps/... resolve from the prepared copy exactly as they do in the web build.
+const PREPARED_DIR = ".build-tmp-pdf";
+// The latest pikepdf release on 2026-11-01; the one place the version is pinned.
+export const PIKEPDF_VERSION = "10.17.0";
+const FINISH_SCRIPT = path.join(import.meta.dir, "finish-pdf.py");
+const WATERMARK_TEXT = "belajarcarabelajar.com";
+const WATERMARK_DIV = '<div class="pdf-watermark"></div>';
 
-export class UsageError extends Error {}
+export { UsageError };
 
 export type Runner = (
   cmd: string[],
@@ -81,13 +109,16 @@ export interface PrintArgs {
   booksDir?: string;
   cover?: string;
   hideImages: string[];
+  restrict: boolean;
 }
 
 export interface Deps {
   run: Runner;
   tmpRoot: string;
+  repoRoot: string;
   mdbook: string;
   chromium: string;
+  uv: string | null;
   log: (line: string) => void;
   error: (line: string) => void;
 }
@@ -104,6 +135,14 @@ export function injectPrintStyle(html: string, hideImages: string[] = []): strin
     'h1, h2, h3, h4, h5, h6, strong, b { font-family: "Open Sans", sans-serif !important; }',
     "body { font-size: 12pt !important; line-height: 1.5 !important; }",
     ".content p, .content li, .content blockquote { text-align: justify !important; line-height: 1.5 !important; hyphens: auto; }",
+    // The hanging indent of the reference list (books/shared-header.css) needs ragged lines; the
+    // justify rule above would otherwise win.
+    ".content .daftar-pustaka p { text-align: left !important; }",
+    // No heading alone at the foot of a page, no figure, table or callout cut in two, and at
+    // least 2 lines of a paragraph on each side of a break.
+    "h1, h2, h3, h4 { break-after: avoid; }",
+    "img, svg, table, pre, figure, .bukti { break-inside: avoid; }",
+    "p, li { orphans: 2; widows: 2; }",
     // mdBook 0.5 opens every chapter on print.html with an <h1> of its SUMMARY title, and the
     // chapter's own ## title (equal to it, enforced by check-book-structure) follows: hide the twin.
     'main > h1:first-child + h2, div[style*="break-before"] + h1 + h2 { display: none !important; }',
@@ -122,12 +161,50 @@ export function injectPrintStyle(html: string, hideImages: string[] = []): strin
   return html.slice(0, at) + style + html.slice(at);
 }
 
-export function chromiumArgs(htmlPath: string, outPath: string): string[] {
+let watermark: string | undefined;
+
+// Outlines only: resvg turns the text into paths, so the site name never enters the PDF text
+// layer, where copying and screen readers would meet it on every page.
+export function watermarkSvg(): string {
+  if (watermark !== undefined) return watermark;
+  const source =
+    '<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000">' +
+    '<text x="500" y="500" text-anchor="middle" dominant-baseline="central" transform="rotate(-30 500 500)" ' +
+    `font-family="Noto Sans" font-weight="700" font-size="80" fill="#000" fill-opacity="0.06">${WATERMARK_TEXT}</text></svg>`;
+  // Unlike the share cards (GEMINI.md section 27), this SVG holds text, so resvg needs the
+  // system fonts.
+  const svg = new Resvg(source, { font: { loadSystemFonts: true, defaultFontFamily: "Noto Sans" } }).toString();
+  // Without a usable font resvg draws nothing, and the PDF would ship without its watermark.
+  if (!svg.includes("<path")) throw new Error("the watermark rendered no outlines; install the Noto Sans font");
+  watermark = svg;
+  return svg;
+}
+
+// Chromium repeats a position: fixed element on every printed page. print-color-adjust keeps the
+// background image even where a print setting drops backgrounds.
+export function injectWatermark(html: string, svg: string): string {
+  if (html.includes(WATERMARK_DIV)) return html;
+  const body = /<body\b[^>]*>/.exec(html);
+  if (!body) throw new Error("print.html has no <body>, cannot add the watermark");
+  const head = html.indexOf("</head>");
+  if (head < 0 || head > body.index) throw new Error("print.html has no </head> before <body>, cannot add the watermark");
+  const url = `data:image/svg+xml;base64,${Buffer.from(svg, "utf8").toString("base64")}`;
+  const style =
+    "<style>.pdf-watermark { position: fixed; inset: 0; pointer-events: none; z-index: 0; " +
+    `background: url("${url}") center / 75% auto no-repeat; ` +
+    "print-color-adjust: exact; -webkit-print-color-adjust: exact; }</style>";
+  const afterBody = body.index + body[0].length;
+  return html.slice(0, head) + style + html.slice(head, afterBody) + WATERMARK_DIV + html.slice(afterBody);
+}
+
+export function chromiumArgs(htmlPath: string, outPath: string, opts: { outline?: boolean } = {}): string[] {
   return [
     "--headless=new",
     "--disable-gpu",
     "--no-pdf-header-footer",
     "--virtual-time-budget=20000",
+    // PDF bookmarks from the headings, for the book pass; the cover page has none.
+    ...(opts.outline ? ["--generate-pdf-document-outline"] : []),
     `--print-to-pdf=${outPath}`,
     `file://${htmlPath}`,
   ];
@@ -153,6 +230,7 @@ export function parseArgs(argv: string[]): PrintArgs {
   let out: string | undefined;
   let booksDir: string | undefined;
   let cover: string | undefined;
+  let restrict = false;
   for (let i = 0; i < argv.length; i++) {
     const arg = argv[i]!;
     if (arg === "--out" || arg === "--books-dir" || arg === "--cover" || arg === "--hide-image") {
@@ -167,6 +245,8 @@ export function parseArgs(argv: string[]): PrintArgs {
           `invalid --hide-image ${JSON.stringify(value)}: use letters, digits, dot, dash and underscore only`,
         );
       }
+    } else if (arg === "--restrict") {
+      restrict = true;
     } else if (arg.startsWith("-")) {
       throw new UsageError(`unknown option ${arg}`);
     } else {
@@ -182,7 +262,7 @@ export function parseArgs(argv: string[]): PrintArgs {
   if (cover !== undefined && !COVER_EXTS.includes(path.extname(cover).toLowerCase())) {
     throw new UsageError("--cover must be a .svg, .png or .jpg file");
   }
-  return { slug, out, booksDir, cover, hideImages };
+  return { slug, out, booksDir, cover, hideImages, restrict };
 }
 
 const spawnRunner: Runner = (cmd, opts) => {
@@ -204,18 +284,39 @@ function defaultDeps(): Deps {
   return {
     run: spawnRunner,
     tmpRoot: "/tmp",
+    repoRoot: REPO_ROOT,
     mdbook: process.env.MDBOOK ?? path.join(os.homedir(), ".cargo/bin/mdbook"),
     chromium: process.env.CHROMIUM_PATH ?? "chromium",
+    uv: Bun.which("uv"),
     log: (line) => console.log(line),
     error: (line) => console.error(line),
   };
 }
 
-function tail(text: string, lines = 20): string {
-  return text.trimEnd().split("\n").slice(-lines).join("\n");
+function siteNameCount(text: string): number {
+  return text.toLowerCase().split(WATERMARK_TEXT).length - 1;
 }
 
-export function main(argv: string[], deps: Deps = defaultDeps()): number {
+// finish-pdf.py reads the saved file back, so its one JSON line describes what was written.
+function finishProblem(stdout: string, pages: number, restrict: boolean): string | null {
+  let result: unknown;
+  try {
+    result = JSON.parse(stdout.trim().split("\n").pop() ?? "");
+  } catch {
+    result = null;
+  }
+  if (typeof result !== "object" || result === null) return "finish-pdf printed no result line";
+  const { pages: got, outline, encrypted } = result as Record<string, unknown>;
+  if (got !== pages) return `the finished PDF has ${String(got)} pages, expected ${pages}`;
+  if (typeof outline !== "number" || outline < 1) return "the finished PDF has no bookmarks";
+  if (restrict && encrypted !== true) {
+    return "--restrict was asked but the finished PDF is not encrypted; refusing to ship an unrestricted file";
+  }
+  if (!restrict && encrypted !== false) return "the finished PDF is encrypted although --restrict was not given";
+  return null;
+}
+
+export async function main(argv: string[], deps: Deps = defaultDeps()): Promise<number> {
   let args: PrintArgs;
   try {
     args = parseArgs(argv);
@@ -224,7 +325,8 @@ export function main(argv: string[], deps: Deps = defaultDeps()): number {
     deps.error(`print-pdf: ${err.message}\n${USAGE}`);
     return 2;
   }
-  const bookDir = path.resolve(args.booksDir ?? path.join(REPO_ROOT, "books"), args.slug);
+  const booksDir = path.resolve(args.booksDir ?? path.join(deps.repoRoot, "books"));
+  const bookDir = path.join(booksDir, args.slug);
   if (!fs.existsSync(bookDir)) {
     deps.error(`print-pdf: book folder not found: ${bookDir} (run scripts/premium-sync.ts first?)`);
     return 1;
@@ -234,33 +336,52 @@ export function main(argv: string[], deps: Deps = defaultDeps()): number {
     deps.error(`print-pdf: cover file not found: ${cover}`);
     return 1;
   }
+  // Checked before any work: every PDF goes through the finishing step, so without uv a print
+  // could only end unfinished, and never as an unrestricted file when --restrict was asked.
+  if (deps.uv === null) {
+    deps.error("print-pdf: uv not found; it runs the pikepdf finishing step (install it: sudo pacman -S uv)");
+    return 1;
+  }
   const out = path.resolve(args.out);
+  const preparedBooks = path.join(deps.repoRoot, PREPARED_DIR);
   const work = fs.mkdtempSync(path.join(deps.tmpRoot, `dawnbook-print-${args.slug}-`));
   try {
-    return printBook(bookDir, work, out, { cover, hideImages: args.hideImages }, deps);
+    const book = { booksDir, slug: args.slug, preparedBooks };
+    const opts = { cover, hideImages: args.hideImages, restrict: args.restrict, uv: deps.uv };
+    return await printBook(book, work, out, opts, deps);
   } catch (err) {
     deps.error(`print-pdf: ${err instanceof Error ? err.message : String(err)}`);
     return 1;
   } finally {
     fs.rmSync(work, { recursive: true, force: true });
+    fs.rmSync(path.join(preparedBooks, args.slug), { recursive: true, force: true });
   }
 }
 
-function printBook(
-  bookDir: string,
+async function printBook(
+  book: { booksDir: string; slug: string; preparedBooks: string },
   temp: string,
   out: string,
-  opts: { cover?: string; hideImages: string[] },
+  opts: { cover?: string; hideImages: string[]; restrict: boolean; uv: string },
   deps: Deps,
-): number {
+): Promise<number> {
   // The cover goes first, so a cover that does not fit one page fails before the slow book build.
   const coverPdf = opts.cover === undefined ? undefined : printCover(opts.cover, temp, deps);
   if (coverPdf === null) return 1;
+  // The web build's own preparation, so a diagram or a build-time decoration cannot reach one
+  // output only. A diagram without a cached SVG throws here, with the web build's message.
+  await prepareBookForMdbook(book.booksDir, book.preparedBooks, book.slug);
+  const prepared = path.join(book.preparedBooks, book.slug);
+  inlineDiagramsInBook(prepared, path.join(book.booksDir, book.slug), deps.repoRoot);
+  const siteNamesInBook = markdownFiles(path.join(prepared, "src")).reduce(
+    (n, file) => n + siteNameCount(fs.readFileSync(file, "utf8")),
+    0,
+  );
   // book.toml reaches the shared CSS through ../../apps/..., which mdBook resolves from the -d
   // folder. Building two levels inside the temp dir keeps those writes inside it; a -d folder
   // directly under /tmp made mdBook try to create /apps and fail (2026-11-01).
-  const work = path.join(temp, "build", path.basename(bookDir));
-  const build = deps.run([deps.mdbook, "build", bookDir, "-d", work], {
+  const work = path.join(temp, "build", book.slug);
+  const build = deps.run([deps.mdbook, "build", prepared, "-d", work], {
     env: { ...process.env, MDBOOK_OUTPUT__HTML__PRINT__ENABLE: "true" },
   });
   if (build.exitCode !== 0) {
@@ -276,10 +397,11 @@ function printBook(
     deps.error(`print-pdf: mdbook wrote no print.html in ${work}`);
     return 1;
   }
-  fs.writeFileSync(html, injectPrintStyle(fs.readFileSync(html, "utf8"), opts.hideImages));
+  const styled = injectPrintStyle(fs.readFileSync(html, "utf8"), opts.hideImages);
+  fs.writeFileSync(html, injectWatermark(styled, watermarkSvg()));
 
   const pdf = path.join(work, "book.pdf");
-  const chrome = deps.run([deps.chromium, ...chromiumArgs(html, pdf)], { cwd: work });
+  const chrome = deps.run([deps.chromium, ...chromiumArgs(html, pdf, { outline: true })], { cwd: work });
   if (chrome.exitCode !== 0 || !fs.existsSync(pdf)) {
     deps.error(`print-pdf: chromium failed (exit ${chrome.exitCode})\n${tail(chrome.stderr)}`);
     return 1;
@@ -302,22 +424,56 @@ function printBook(
     return 1;
   }
 
-  let result = pdf;
-  let total = pages;
-  if (coverPdf !== undefined) {
-    const merged = path.join(temp, "final.pdf");
-    const unite = deps.run(["pdfunite", coverPdf, pdf, merged], {});
-    if (unite.exitCode !== 0 || !fs.existsSync(merged)) {
-      deps.error(`print-pdf: pdfunite failed (exit ${unite.exitCode})\n${tail(unite.stderr)}`);
-      return 1;
-    }
-    result = merged;
-    total = pages + 1;
+  // --no-project: a pyproject.toml in a parent folder must not turn this into a project sync.
+  const final = path.join(temp, "final.pdf");
+  const finish = deps.run(
+    [
+      opts.uv,
+      "run",
+      "--no-project",
+      "--quiet",
+      "--with",
+      `pikepdf==${PIKEPDF_VERSION}`,
+      "python3",
+      "-I",
+      FINISH_SCRIPT,
+      pdf,
+      final,
+      ...(coverPdf === undefined ? [] : ["--cover", coverPdf]),
+      ...(opts.restrict ? ["--restrict"] : []),
+    ],
+    {},
+  );
+  if (finish.exitCode !== 0 || !fs.existsSync(final)) {
+    deps.error(`print-pdf: finish-pdf failed (exit ${finish.exitCode})\n${tail(finish.stderr)}`);
+    return 1;
+  }
+  const total = pages + (coverPdf === undefined ? 0 : 1);
+  const problem = finishProblem(finish.stdout, total, opts.restrict);
+  if (problem) {
+    deps.error(`print-pdf: ${problem}`);
+    return 1;
+  }
+
+  // Book pages only: with a cover, page 1 is the cover, whose own artwork may name the site.
+  // pdftotext reads a copy-restricted PDF (probe 2026-11-01).
+  const finalText = deps.run(["pdftotext", ...(coverPdf === undefined ? [] : ["-f", "2"]), final, "-"], {});
+  if (finalText.exitCode !== 0) {
+    deps.error(`print-pdf: pdftotext failed on the finished PDF (exit ${finalText.exitCode})`);
+    return 1;
+  }
+  const siteNamesInPdf = siteNameCount(finalText.stdout);
+  if (siteNamesInPdf > siteNamesInBook) {
+    deps.error(
+      `print-pdf: watermark leaked into the text layer: the PDF text names ${WATERMARK_TEXT} ` +
+        `${siteNamesInPdf} times, the book text ${siteNamesInBook} times`,
+    );
+    return 1;
   }
 
   fs.mkdirSync(path.dirname(out), { recursive: true });
-  fs.copyFileSync(result, out);
-  deps.log(`print-pdf: wrote ${out}: ${total} pages, page size ${size}`);
+  fs.copyFileSync(final, out);
+  deps.log(`print-pdf: wrote ${out}: ${total} pages, page size ${size}${opts.restrict ? ", copy restricted" : ""}`);
   return 0;
 }
 
@@ -366,4 +522,4 @@ function coverPage(image: string): string {
   );
 }
 
-if (import.meta.main) process.exit(main(process.argv.slice(2)));
+if (import.meta.main) process.exit(await main(process.argv.slice(2)));

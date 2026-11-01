@@ -1,16 +1,30 @@
-import { afterEach, describe, expect, test } from "bun:test";
+import { afterEach, beforeAll, describe, expect, test } from "bun:test";
 import fs from "node:fs";
 import path from "node:path";
+import { diagramKey } from "../../scripts/diagrams/cache";
 import {
   chromiumArgs,
   injectPrintStyle,
+  injectWatermark,
   main,
   parseArgs,
   parsePdfInfo,
   pdfLooksBroken,
+  PIKEPDF_VERSION,
   type Runner,
   UsageError,
+  watermarkSvg,
 } from "../../scripts/premium/print-pdf";
+
+const REPO_ROOT = path.join(import.meta.dir, "..", "..");
+const FENCE = "```";
+
+// The first watermarkSvg() call scans the system fonts for resvg: 10.7 s with a cold font cache
+// on this machine (867 files), 65 ms warm (measured 2026-11-02). Warm it once here, so no test
+// that prints a page runs into the 5 s test timeout.
+beforeAll(() => {
+  watermarkSvg();
+}, 60_000);
 
 // The declarations each selector gets in the page's <style> blocks, so the checks below do
 // not depend on how the injected rules are formatted or ordered.
@@ -123,6 +137,22 @@ describe("injectPrintStyle", () => {
   test("throws when the page has no </head>", () => {
     expect(() => injectPrintStyle("<html><body>no head</body></html>")).toThrow(/<\/head>/);
   });
+
+  test("keeps the reference list left aligned, so the justify rule cannot undo its hanging indent", () => {
+    const rules = cssRules(injectPrintStyle(page));
+    expect(rules.get(".content .daftar-pustaka p") ?? []).toContain("text-align: left !important");
+  });
+
+  test("keeps headings with their text, blocks whole, and at least 2 lines together", () => {
+    const rules = cssRules(injectPrintStyle(page));
+    const headings = ["h1", "h2", "h3", "h4"];
+    expect(eachHas(rules, headings, "break-after: avoid")).toEqual(allTrue(headings));
+    const blocks = ["img", "svg", "table", "pre", "figure", ".bukti"];
+    expect(eachHas(rules, blocks, "break-inside: avoid")).toEqual(allTrue(blocks));
+    const lines = ["p", "li"];
+    expect(eachHas(rules, lines, "orphans: 2")).toEqual(allTrue(lines));
+    expect(eachHas(rules, lines, "widows: 2")).toEqual(allTrue(lines));
+  });
 });
 
 describe("chromiumArgs", () => {
@@ -135,6 +165,63 @@ describe("chromiumArgs", () => {
       "--print-to-pdf=/tmp/x/out.pdf",
       "file:///tmp/x/print.html",
     ]);
+  });
+
+  test("asks for PDF bookmarks from the headings when the outline option is on", () => {
+    const args = chromiumArgs("/tmp/x/print.html", "/tmp/x/out.pdf", { outline: true });
+    expect(args).toContain("--generate-pdf-document-outline");
+    expect(args[args.length - 1]).toBe("file:///tmp/x/print.html");
+  });
+});
+
+describe("watermarkSvg", () => {
+  test("draws the site name as paths only, so it never enters the PDF text layer", () => {
+    const svg = watermarkSvg();
+    expect(svg).toContain("<path");
+    expect(svg).not.toContain("<text");
+    expect(svg).not.toContain("belajarcarabelajar");
+  });
+
+  test("is black at 6 percent opacity, rotated by -30 degrees", () => {
+    const svg = watermarkSvg();
+    expect(svg).toContain('fill="#000000"');
+    expect(svg).toContain('fill-opacity="0.06"');
+    // rotate(-30) as a matrix: cos 30 = 0.8660254, sin -30 = -0.5.
+    expect(svg).toMatch(/matrix\(0\.866\d* -0\.5 0\.5 0\.866\d* /);
+  });
+});
+
+describe("injectWatermark", () => {
+  const page = '<html><head><title>x</title></head><body class="light no-js">b</body></html>';
+  const svg = '<svg xmlns="http://www.w3.org/2000/svg"><path d="M0 0L1 1"/></svg>';
+
+  test("puts one watermark element right after the opening <body> tag", () => {
+    const out = injectWatermark(page, svg);
+    expect(out).toContain('<body class="light no-js"><div class="pdf-watermark"></div>b</body>');
+    expect(out.match(/class="pdf-watermark"/g)).toHaveLength(1);
+  });
+
+  test("fixes the image over every page, centred at 75 percent width, in a head style", () => {
+    const out = injectWatermark(page, svg);
+    const at = out.indexOf(".pdf-watermark {");
+    expect(at).toBeGreaterThan(-1);
+    expect(at).toBeLessThan(out.indexOf("</head>"));
+    const rule = out.slice(at, out.indexOf("}", at));
+    for (const decl of ["position: fixed", "inset: 0", "pointer-events: none", "z-index: 0"]) {
+      expect(rule).toContain(decl);
+    }
+    const bg = /background: url\("data:image\/svg\+xml;base64,([A-Za-z0-9+/=]+)"\) center \/ 75% auto no-repeat/.exec(rule);
+    expect(Buffer.from(bg?.[1] ?? "", "base64").toString("utf8")).toBe(svg);
+  });
+
+  test("is idempotent", () => {
+    const once = injectWatermark(page, svg);
+    expect(injectWatermark(once, svg)).toBe(once);
+  });
+
+  test("throws when the page has no <body> or no </head>", () => {
+    expect(() => injectWatermark("<html><head></head></html>", svg)).toThrow(/<body/);
+    expect(() => injectWatermark("<html><body>b</body></html>", svg)).toThrow(/<\/head>/);
   });
 });
 
@@ -176,7 +263,12 @@ describe("parseArgs", () => {
       out: "/tmp/a.pdf",
       booksDir: undefined,
       hideImages: [],
+      restrict: false,
     });
+  });
+
+  test("reads --restrict", () => {
+    expect(parseArgs(["buku-a", "--restrict", "--out", "a.pdf"]).restrict).toBe(true);
   });
 
   test("reads each --hide-image in order", () => {
@@ -231,20 +323,51 @@ describe("main", () => {
     for (const dir of made.splice(0)) fs.rmSync(dir, { recursive: true, force: true });
   });
 
-  function fixture(pages: number, text: string, coverPages = 1, coverText = "LANCAR NUGAS") {
+  interface FixtureOptions {
+    // What the fake finish-pdf.py reports or does instead of the normal result.
+    finish?: { exitCode?: number; stdout?: string; result?: Record<string, unknown> };
+    // pdftotext output for the finished PDF; defaults to the book text.
+    finalText?: string;
+  }
+
+  function fixture(pages: number, text: string, coverPages = 1, coverText = "LANCAR NUGAS", options: FixtureOptions = {}) {
     const root = fs.mkdtempSync("/tmp/print-pdf-test-");
     made.push(root);
+    // The fixture root stands in for the repo root: the diagram cache key reads these files.
+    const keyDir = path.join(root, "scripts", "diagrams");
+    fs.mkdirSync(keyDir, { recursive: true });
+    for (const name of ["render-config.json", "theme.css"]) {
+      fs.copyFileSync(path.join(REPO_ROOT, "scripts", "diagrams", name), path.join(keyDir, name));
+    }
+    fs.writeFileSync(
+      path.join(root, "package.json"),
+      JSON.stringify({ devDependencies: { "@mermaid-js/mermaid-cli": "12.0.0" } }),
+    );
     const booksDir = path.join(root, "books");
-    fs.mkdirSync(path.join(booksDir, "buku-a"), { recursive: true });
+    const bookDir = path.join(booksDir, "buku-a");
+    const chapterPath = path.join(bookDir, "src", "content", "01_bab.md");
+    fs.mkdirSync(path.dirname(chapterPath), { recursive: true });
+    fs.writeFileSync(path.join(bookDir, "book.toml"), '[book]\ntitle = "Buku A"\n');
+    fs.writeFileSync(path.join(bookDir, "src", "SUMMARY.md"), "# Ringkasan\n\n- [Bab 1](content/01_bab.md)\n");
+    fs.writeFileSync(chapterPath, "## Bab 1\n\nIsi bab.\n");
+    fs.writeFileSync(path.join(booksDir, "shared-header.css"), "/* shared header */");
+    fs.writeFileSync(path.join(booksDir, "shared-script.js"), "/* reader script */");
     const calls: { cmd: string[]; cwd?: string; env?: Record<string, string | undefined> }[] = [];
     let workDir = "";
     let readerScriptAtPrint: boolean | undefined;
     let printHtmlAtPrint: string | undefined;
     let coverDirAtPrint: Record<string, string> | undefined;
+    let chapterAtBuild: string | undefined;
+    let sharedCssAtBuild: boolean | undefined;
     const run: Runner = (cmd, opts) => {
       calls.push({ cmd, cwd: opts.cwd, env: opts.env });
       const bin = path.basename(cmd[0]!);
       if (bin === "mdbook") {
+        const source = cmd[2]!;
+        const chapter = path.join(source, "src", "content", "01_bab.md");
+        chapterAtBuild = fs.existsSync(chapter) ? fs.readFileSync(chapter, "utf8") : undefined;
+        // The theme's ../shared-header.css is read from beside the book that mdbook builds.
+        sharedCssAtBuild = fs.existsSync(path.join(source, "..", "shared-header.css"));
         workDir = cmd[cmd.indexOf("-d") + 1]!;
         fs.mkdirSync(workDir, { recursive: true });
         fs.writeFileSync(path.join(workDir, "print.html"), "<html><head></head><body>x</body></html>");
@@ -273,12 +396,24 @@ describe("main", () => {
         return { exitCode: 0, stdout: `Pages: ${n}\nPage size: 595 x 842 pts (A4)\n`, stderr: "" };
       }
       if (bin === "pdftotext") {
-        return { exitCode: 0, stdout: path.basename(cmd[1]!) === "cover.pdf" ? coverText : text, stderr: "" };
+        const file = path.basename(cmd.find((a) => a.endsWith(".pdf"))!);
+        const out = file === "cover.pdf" ? coverText : file === "final.pdf" ? (options.finalText ?? text) : text;
+        return { exitCode: 0, stdout: out, stderr: "" };
       }
-      if (bin === "pdfunite") {
-        const inputs = cmd.slice(1, -1).map((p) => fs.readFileSync(p, "utf8"));
-        fs.writeFileSync(cmd[cmd.length - 1]!, inputs.join("+"));
-        return { exitCode: 0, stdout: "", stderr: "" };
+      if (bin === "uv") {
+        // Stands in for finish-pdf.py: the cover (if any) goes in front of the book.
+        const script = cmd.findIndex((a) => a.endsWith("finish-pdf.py"));
+        const [book, final] = [cmd[script + 1]!, cmd[script + 2]!];
+        const coverAt = cmd.indexOf("--cover");
+        const cover = coverAt < 0 ? undefined : cmd[coverAt + 1]!;
+        if (options.finish?.exitCode) {
+          return { exitCode: options.finish.exitCode, stdout: "", stderr: "finish-pdf: PdfError: broken xref" };
+        }
+        const parts = [...(cover ? [fs.readFileSync(cover, "utf8")] : []), fs.readFileSync(book, "utf8")];
+        fs.writeFileSync(final, parts.join("+"));
+        const result = { pages: pages + (cover ? 1 : 0), outline: 3, encrypted: cmd.includes("--restrict") };
+        const stdout = options.finish?.stdout ?? `${JSON.stringify({ ...result, ...options.finish?.result })}\n`;
+        return { exitCode: 0, stdout, stderr: "" };
       }
       throw new Error(`unexpected command ${cmd.join(" ")}`);
     };
@@ -286,14 +421,17 @@ describe("main", () => {
     const deps = {
       run,
       tmpRoot: root,
+      repoRoot: root,
       mdbook: "/opt/bin/mdbook",
       chromium: "chromium",
+      uv: "/usr/bin/uv" as string | null,
       log: (s: string) => logs.push(s),
       error: (s: string) => logs.push(s),
     };
     return {
       root,
       booksDir,
+      chapterPath,
       calls,
       logs,
       deps,
@@ -301,41 +439,90 @@ describe("main", () => {
       readerScriptAtPrint: () => readerScriptAtPrint,
       printHtmlAtPrint: () => printHtmlAtPrint,
       coverDirAtPrint: () => coverDirAtPrint,
+      chapterAtBuild: () => chapterAtBuild,
+      sharedCssAtBuild: () => sharedCssAtBuild,
     };
   }
+
+  // A chapter holding one Mermaid block, optionally with its SVG in the book's diagram cache.
+  function addDiagram(f: ReturnType<typeof fixture>, cached: boolean) {
+    const source = "flowchart TD\n  A[Mulai] --> B[Selesai]";
+    const svg = '<svg viewBox="0 0 10 10"><title>t</title></svg>';
+    const chapter = `## Bab 1\n\nIsi bab.\n\n${FENCE}mermaid\n${source}\n${FENCE}\n\nPenutup.\n`;
+    fs.writeFileSync(f.chapterPath, chapter);
+    if (cached) {
+      const svgPath = path.join(f.booksDir, "buku-a", "diagrams", `${diagramKey(source, f.root)}.svg`);
+      fs.mkdirSync(path.dirname(svgPath), { recursive: true });
+      fs.writeFileSync(svgPath, `${svg}\n`);
+    }
+    return { chapter, svg };
+  }
+
+  const preparedCopy = (f: ReturnType<typeof fixture>) => path.join(f.root, ".build-tmp-pdf", "buku-a");
+
+  test("prints the book as the web build prepares it, with each diagram inlined from its cache", async () => {
+    const f = fixture(12, "Bab 1");
+    const { chapter, svg } = addDiagram(f, true);
+    const out = path.join(f.root, "buku-a.pdf");
+    expect(await main(["buku-a", "--out", out, "--books-dir", f.booksDir], f.deps)).toBe(0);
+
+    const mdbook = f.calls.find((c) => path.basename(c.cmd[0]!) === "mdbook")!;
+    expect(mdbook.cmd.slice(0, 3)).toEqual(["/opt/bin/mdbook", "build", preparedCopy(f)]);
+    expect(f.chapterAtBuild()).toContain(`<div class="dawnbook-diagram">${svg}</div>`);
+    expect(f.chapterAtBuild()).not.toContain(`${FENCE}mermaid`);
+    expect(f.sharedCssAtBuild()).toBe(true);
+    // The prepared copy is removed afterwards, and the source book is never touched.
+    expect(fs.existsSync(preparedCopy(f))).toBe(false);
+    expect(fs.readFileSync(f.chapterPath, "utf8")).toBe(chapter);
+  });
+
+  test("exits 1 with the diagram cache message and runs no mdbook when a diagram has no cached SVG", async () => {
+    const f = fixture(12, "Bab 1");
+    addDiagram(f, false);
+    const out = path.join(f.root, "buku-a.pdf");
+    expect(await main(["buku-a", "--out", out, "--books-dir", f.booksDir], f.deps)).toBe(1);
+
+    expect(f.calls.some((c) => path.basename(c.cmd[0]!) === "mdbook")).toBe(false);
+    expect(f.logs.join("\n")).toMatch(
+      /buku-a\/src\/content\/01_bab\.md:\d+ has no cached SVG [0-9a-f]{12}\.svg; run: bun run diagrams:render --book buku-a/,
+    );
+    expect(fs.existsSync(out)).toBe(false);
+    expect(fs.existsSync(preparedCopy(f))).toBe(false);
+    expect(tempDirsLeft(f.root)).toEqual([]);
+  });
 
   function tempDirsLeft(root: string): string[] {
     return fs.readdirSync(root).filter((name) => name.startsWith("dawnbook-print-"));
   }
 
-  test("exits 1 before running anything when the cover file is missing", () => {
+  test("exits 1 before running anything when the cover file is missing", async () => {
     const f = fixture(12, "Bab 1");
     const cover = path.join(f.root, "hilang.png");
     const out = path.join(f.root, "buku-a.pdf");
-    expect(main(["buku-a", "--out", out, "--books-dir", f.booksDir, "--cover", cover], f.deps)).toBe(1);
+    expect(await main(["buku-a", "--out", out, "--books-dir", f.booksDir, "--cover", cover], f.deps)).toBe(1);
     expect(f.calls).toHaveLength(0);
     expect(fs.existsSync(out)).toBe(false);
     expect(tempDirsLeft(f.root)).toEqual([]);
     expect(f.logs.join("\n")).toContain(`cover file not found: ${cover}`);
   });
 
-  test("exits 1 with the same message when a folder in the cover path is a file", () => {
+  test("exits 1 with the same message when a folder in the cover path is a file", async () => {
     // Bun's statSync throws ENOTDIR here even with throwIfNoEntry: false (measured 2026-11-01).
     const f = fixture(12, "Bab 1");
     fs.writeFileSync(path.join(f.root, "berkas"), "x");
     const cover = path.join(f.root, "berkas", "sampul.png");
     const out = path.join(f.root, "buku-a.pdf");
-    expect(main(["buku-a", "--out", out, "--books-dir", f.booksDir, "--cover", cover], f.deps)).toBe(1);
+    expect(await main(["buku-a", "--out", out, "--books-dir", f.booksDir, "--cover", cover], f.deps)).toBe(1);
     expect(f.calls).toHaveLength(0);
     expect(f.logs.join("\n")).toContain(`cover file not found: ${cover}`);
   });
 
-  test("prints the cover first, from cover.html in its own folder next to a copy of the image", () => {
+  test("prints the cover first, from cover.html in its own folder next to a copy of the image", async () => {
     const f = fixture(12, "Bab 1");
     const cover = path.join(f.root, "Sampul.PNG");
     fs.writeFileSync(cover, "png-bytes");
     const out = path.join(f.root, "buku-a.pdf");
-    expect(main(["buku-a", "--out", out, "--books-dir", f.booksDir, "--cover", cover], f.deps)).toBe(0);
+    expect(await main(["buku-a", "--out", out, "--books-dir", f.booksDir, "--cover", cover], f.deps)).toBe(0);
 
     const temp = path.resolve(f.workDir(), "../..");
     const chromes = f.calls.filter((c) => path.basename(c.cmd[0]!) === "chromium");
@@ -353,75 +540,180 @@ describe("main", () => {
     });
   });
 
-  test("puts the cover before the book with pdfunite and copies the merged PDF to --out", () => {
+  test("finishes with finish-pdf.py under uv, cover first, then copies the result to --out", async () => {
     const f = fixture(12, "Bab 1");
     const cover = path.join(f.root, "sampul.svg");
     fs.writeFileSync(cover, "<svg/>");
     const out = path.join(f.root, "out", "buku-a.pdf");
-    expect(main(["buku-a", "--out", out, "--books-dir", f.booksDir, "--cover", cover], f.deps)).toBe(0);
+    expect(await main(["buku-a", "--out", out, "--books-dir", f.booksDir, "--cover", cover], f.deps)).toBe(0);
 
     const bins = f.calls.map((c) => path.basename(c.cmd[0]!));
-    expect(bins.filter((b) => b === "pdfunite")).toHaveLength(1);
-    // Last, so it runs only after the book PDF passed pdfinfo and pdftotext.
-    expect(bins[bins.length - 1]).toBe("pdfunite");
-    const unite = f.calls[f.calls.length - 1]!.cmd.slice(1).map((p) => path.basename(p));
-    expect(unite).toEqual(["cover.pdf", "book.pdf", "final.pdf"]);
+    expect(bins).not.toContain("pdfunite");
+    // After the book PDF passed pdfinfo and pdftotext; only the text layer check of the result follows.
+    expect(bins.slice(-2)).toEqual(["uv", "pdftotext"]);
+    const temp = path.resolve(f.workDir(), "../..");
+    expect(f.calls[f.calls.length - 2]!.cmd).toEqual([
+      "/usr/bin/uv",
+      "run",
+      "--no-project",
+      "--quiet",
+      "--with",
+      `pikepdf==${PIKEPDF_VERSION}`,
+      "python3",
+      "-I",
+      path.join(REPO_ROOT, "scripts", "premium", "finish-pdf.py"),
+      path.join(f.workDir(), "book.pdf"),
+      path.join(temp, "final.pdf"),
+      "--cover",
+      path.join(temp, "cover.pdf"),
+    ]);
+    expect(PIKEPDF_VERSION).toMatch(/^\d+\.\d+\.\d+$/);
     expect(fs.readFileSync(out, "utf8")).toBe("%PDF-cover+%PDF-fake");
     expect(f.logs.join("\n")).toMatch(/13 pages/);
     expect(tempDirsLeft(f.root)).toEqual([]);
   });
 
-  test("exits 1 and writes no PDF when the cover prints to more than one page", () => {
+  test("asks Chromium for bookmarks on the book pass only, not on the cover", async () => {
+    const f = fixture(12, "Bab 1");
+    const cover = path.join(f.root, "sampul.svg");
+    fs.writeFileSync(cover, "<svg/>");
+    const out = path.join(f.root, "buku-a.pdf");
+    expect(await main(["buku-a", "--out", out, "--books-dir", f.booksDir, "--cover", cover], f.deps)).toBe(0);
+    const chromes = f.calls.filter((c) => path.basename(c.cmd[0]!) === "chromium");
+    expect(chromes.map((c) => c.cmd.includes("--generate-pdf-document-outline"))).toEqual([false, true]);
+  });
+
+  test("prints the watermark on the book pages but not on the cover", async () => {
+    const f = fixture(12, "Bab 1");
+    const cover = path.join(f.root, "sampul.svg");
+    fs.writeFileSync(cover, "<svg/>");
+    const out = path.join(f.root, "buku-a.pdf");
+    expect(await main(["buku-a", "--out", out, "--books-dir", f.booksDir, "--cover", cover], f.deps)).toBe(0);
+    expect(f.printHtmlAtPrint()).toContain('<body><div class="pdf-watermark"></div>x</body>');
+    expect(f.printHtmlAtPrint()).toContain(".pdf-watermark {");
+    expect(JSON.stringify(f.coverDirAtPrint())).not.toContain("pdf-watermark");
+  });
+
+  test("passes --restrict to the finish step and ships the encrypted result", async () => {
+    const f = fixture(12, "Bab 1");
+    const out = path.join(f.root, "buku-a.pdf");
+    expect(await main(["buku-a", "--out", out, "--books-dir", f.booksDir, "--restrict"], f.deps)).toBe(0);
+    const finish = f.calls.find((c) => path.basename(c.cmd[0]!) === "uv")!.cmd;
+    expect(finish.slice(-3)).toEqual([path.join(f.workDir(), "book.pdf"), expect.stringMatching(/final\.pdf$/), "--restrict"]);
+    expect(fs.readFileSync(out, "utf8")).toBe("%PDF-fake");
+  });
+
+  test("never ships an unrestricted file when --restrict was asked", async () => {
+    const f = fixture(12, "Bab 1", 1, "LANCAR NUGAS", { finish: { result: { encrypted: false } } });
+    const out = path.join(f.root, "buku-a.pdf");
+    expect(await main(["buku-a", "--out", out, "--books-dir", f.booksDir, "--restrict"], f.deps)).toBe(1);
+    expect(fs.existsSync(out)).toBe(false);
+    expect(f.logs.join("\n")).toMatch(/--restrict.*not encrypted/);
+    expect(tempDirsLeft(f.root)).toEqual([]);
+  });
+
+  test.each([
+    ["a page count other than the book plus the cover", { result: { pages: 12 } }, /12 pages, expected 13/],
+    ["no bookmarks", { result: { outline: 0 } }, /no bookmarks/],
+    ["no result line", { stdout: "done\n" }, /no result line/],
+    ["a failed run", { exitCode: 1 }, /finish-pdf failed \(exit 1\)[\s\S]*PdfError: broken xref/],
+  ])("exits 1 and writes no PDF when the finish step reports %s", async (_, finish, message) => {
+    const f = fixture(12, "Bab 1", 1, "LANCAR NUGAS", { finish });
+    const cover = path.join(f.root, "sampul.svg");
+    fs.writeFileSync(cover, "<svg/>");
+    const out = path.join(f.root, "buku-a.pdf");
+    expect(await main(["buku-a", "--out", out, "--books-dir", f.booksDir, "--cover", cover], f.deps)).toBe(1);
+    expect(fs.existsSync(out)).toBe(false);
+    expect(f.logs.join("\n")).toMatch(message);
+    expect(tempDirsLeft(f.root)).toEqual([]);
+  });
+
+  test("exits 1 with an install hint and runs nothing when uv is missing", async () => {
+    const f = fixture(12, "Bab 1");
+    const out = path.join(f.root, "buku-a.pdf");
+    const deps = { ...f.deps, uv: null };
+    expect(await main(["buku-a", "--out", out, "--books-dir", f.booksDir, "--restrict"], deps)).toBe(1);
+    expect(f.calls).toHaveLength(0);
+    expect(fs.existsSync(out)).toBe(false);
+    expect(f.logs.join("\n")).toMatch(/uv not found.*sudo pacman -S uv/);
+    expect(tempDirsLeft(f.root)).toEqual([]);
+  });
+
+  test("exits 1 when the site name is in the PDF text more often than the book text writes it", async () => {
+    // A watermark drawn as text would put the site name into the text layer once per page.
+    const finalText = "Bab 1\nbelajarcarabelajar.com\nLihat belajarcarabelajar.com.\nbelajarcarabelajar.com\n";
+    const f = fixture(12, "Bab 1", 1, "LANCAR NUGAS", { finalText });
+    fs.writeFileSync(f.chapterPath, "## Bab 1\n\nLihat belajarcarabelajar.com.\n");
+    const out = path.join(f.root, "buku-a.pdf");
+    expect(await main(["buku-a", "--out", out, "--books-dir", f.booksDir], f.deps)).toBe(1);
+    expect(f.logs.join("\n")).toContain("watermark leaked into the text layer");
+    expect(fs.existsSync(out)).toBe(false);
+    expect(tempDirsLeft(f.root)).toEqual([]);
+  });
+
+  test("accepts the site name as often as the book text writes it, reading the book pages only", async () => {
+    const f = fixture(12, "Bab 1", 1, "belajarcarabelajar.com", { finalText: "Lihat BelajarCaraBelajar.com." });
+    fs.writeFileSync(f.chapterPath, "## Bab 1\n\nLihat belajarcarabelajar.com.\n");
+    const cover = path.join(f.root, "sampul.svg");
+    fs.writeFileSync(cover, "<svg/>");
+    const out = path.join(f.root, "buku-a.pdf");
+    expect(await main(["buku-a", "--out", out, "--books-dir", f.booksDir, "--cover", cover], f.deps)).toBe(0);
+    // Page 1 is the cover, whose own text may name the site.
+    const temp = path.resolve(f.workDir(), "../..");
+    expect(f.calls[f.calls.length - 1]!.cmd).toEqual(["pdftotext", "-f", "2", path.join(temp, "final.pdf"), "-"]);
+  });
+
+  test("exits 1 and writes no PDF when the cover prints to more than one page", async () => {
     const f = fixture(12, "Bab 1", 2);
     const cover = path.join(f.root, "sampul.jpg");
     fs.writeFileSync(cover, "jpg-bytes");
     const out = path.join(f.root, "buku-a.pdf");
-    expect(main(["buku-a", "--out", out, "--books-dir", f.booksDir, "--cover", cover], f.deps)).toBe(1);
+    expect(await main(["buku-a", "--out", out, "--books-dir", f.booksDir, "--cover", cover], f.deps)).toBe(1);
     expect(fs.existsSync(out)).toBe(false);
-    expect(f.calls.some((c) => path.basename(c.cmd[0]!) === "pdfunite")).toBe(false);
+    expect(f.calls.some((c) => path.basename(c.cmd[0]!) === "uv")).toBe(false);
     expect(f.logs.join("\n")).toMatch(/cover.*2 pages/);
     expect(tempDirsLeft(f.root)).toEqual([]);
   });
 
-  test("exits 1 and writes no PDF when the cover printed as Chromium's error page", () => {
+  test("exits 1 and writes no PDF when the cover printed as Chromium's error page", async () => {
     // A one-page ERR_FILE_NOT_FOUND print passes the 1-page check, so the cover text is read too.
     const f = fixture(12, "Bab 1", 1, "Your file couldn’t be accessed\nERR_FILE_NOT_FOUND");
     const cover = path.join(f.root, "sampul.svg");
     fs.writeFileSync(cover, "<svg/>");
     const out = path.join(f.root, "buku-a.pdf");
-    expect(main(["buku-a", "--out", out, "--books-dir", f.booksDir, "--cover", cover], f.deps)).toBe(1);
+    expect(await main(["buku-a", "--out", out, "--books-dir", f.booksDir, "--cover", cover], f.deps)).toBe(1);
     expect(fs.existsSync(out)).toBe(false);
     expect(f.logs.join("\n")).toMatch(/cover.*error page/);
     expect(tempDirsLeft(f.root)).toEqual([]);
   });
 
-  test("hides the images named by --hide-image in the printed page", () => {
+  test("hides the images named by --hide-image in the printed page", async () => {
     const f = fixture(12, "Bab 1");
     const out = path.join(f.root, "buku-a.pdf");
     const argv = ["buku-a", "--out", out, "--books-dir", f.booksDir, "--hide-image", "cover.png"];
-    expect(main(argv, f.deps)).toBe(0);
+    expect(await main(argv, f.deps)).toBe(0);
     const rules = cssRules(f.printHtmlAtPrint() ?? "");
     expect(rules.get('img[src$="cover.png"]') ?? []).toContain("display: none !important");
   });
 
-  test("removes the reader script before printing, so its redirect cannot replace the page", () => {
+  test("removes the reader script before printing, so its redirect cannot replace the page", async () => {
     // Measured 2026-11-01: with ../shared-script.js present, Chromium printed a one-page
     // ERR_FILE_NOT_FOUND page instead of the book; a copy without it printed 91 pages.
     const f = fixture(12, "Bab 1");
     const out = path.join(f.root, "buku-a.pdf");
-    expect(main(["buku-a", "--out", out, "--books-dir", f.booksDir], f.deps)).toBe(0);
+    expect(await main(["buku-a", "--out", out, "--books-dir", f.booksDir], f.deps)).toBe(0);
     expect(f.readerScriptAtPrint()).toBe(false);
   });
 
-  test("builds, prints, validates, copies the PDF and removes its temp dir", () => {
+  test("builds, prints, validates, copies the PDF and removes its temp dir", async () => {
     const f = fixture(12, "Bab 1");
     const out = path.join(f.root, "out", "buku-a.pdf");
-    const code = main(["buku-a", "--out", out, "--books-dir", f.booksDir], f.deps);
+    const code = await main(["buku-a", "--out", out, "--books-dir", f.booksDir], f.deps);
 
     expect(code).toBe(0);
     expect(fs.readFileSync(out, "utf8")).toBe("%PDF-fake");
     const mdbook = f.calls[0]!;
-    expect(mdbook.cmd.slice(0, 3)).toEqual(["/opt/bin/mdbook", "build", path.join(f.booksDir, "buku-a")]);
+    expect(mdbook.cmd.slice(0, 3)).toEqual(["/opt/bin/mdbook", "build", preparedCopy(f)]);
     expect(mdbook.env?.MDBOOK_OUTPUT__HTML__PRINT__ENABLE).toBe("true");
     const chrome = f.calls[1]!;
     expect(chrome.cwd).toBe(f.workDir());
@@ -429,38 +721,38 @@ describe("main", () => {
     expect(f.logs.join("\n")).toMatch(/12 pages.*A4/);
   });
 
-  test("builds two levels inside its temp dir, so the theme's ../../ paths stay inside it", () => {
+  test("builds two levels inside its temp dir, so the theme's ../../ paths stay inside it", async () => {
     // book.toml reaches the shared CSS through ../../apps/...; mdBook resolves that from the
     // -d folder, so a -d folder directly under /tmp made mdBook try to create /apps (2026-11-01).
     const f = fixture(12, "Bab 1");
     const out = path.join(f.root, "buku-a.pdf");
-    expect(main(["buku-a", "--out", out, "--books-dir", f.booksDir], f.deps)).toBe(0);
+    expect(await main(["buku-a", "--out", out, "--books-dir", f.booksDir], f.deps)).toBe(0);
     const temp = path.resolve(f.workDir(), "../..");
     expect(path.dirname(temp)).toBe(f.root);
     expect(path.basename(temp).startsWith("dawnbook-print-buku-a-")).toBe(true);
     expect(fs.existsSync(temp)).toBe(false);
   });
 
-  test("exits 1 and leaves no output when Chromium printed its error page", () => {
+  test("exits 1 and leaves no output when Chromium printed its error page", async () => {
     const f = fixture(1, "Your file couldn't be accessed\nERR_FILE_NOT_FOUND");
     const out = path.join(f.root, "buku-a.pdf");
-    const code = main(["buku-a", "--out", out, "--books-dir", f.booksDir], f.deps);
+    const code = await main(["buku-a", "--out", out, "--books-dir", f.booksDir], f.deps);
 
     expect(code).toBe(1);
     expect(fs.existsSync(out)).toBe(false);
     expect(fs.existsSync(f.workDir())).toBe(false);
   });
 
-  test("exits 1 when the book folder is missing", () => {
+  test("exits 1 when the book folder is missing", async () => {
     const f = fixture(12, "Bab 1");
-    const code = main(["buku-b", "--out", path.join(f.root, "b.pdf"), "--books-dir", f.booksDir], f.deps);
+    const code = await main(["buku-b", "--out", path.join(f.root, "b.pdf"), "--books-dir", f.booksDir], f.deps);
     expect(code).toBe(1);
     expect(f.calls).toHaveLength(0);
   });
 
-  test("exits 2 on a usage error", () => {
+  test("exits 2 on a usage error", async () => {
     const f = fixture(12, "Bab 1");
-    expect(main(["buku-a"], f.deps)).toBe(2);
+    expect(await main(["buku-a"], f.deps)).toBe(2);
     expect(f.calls).toHaveLength(0);
   });
 });

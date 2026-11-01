@@ -3,6 +3,8 @@ import { join } from "node:path";
 import { $ } from "bun";
 import { BuiltBook, parseBookMetadata } from "./metadata";
 import { inlineDiagramsInBook } from "../diagrams/inline";
+import { loadPremiumRegistry } from "../../functions/lib/premium";
+import { decoratePremiumBook } from "./decorate-premium";
 
 export async function prepareBookForMdbook(
   booksDir: string,
@@ -15,6 +17,13 @@ export async function prepareBookForMdbook(
   await $`rm -rf ${tmpBookPath}`;
   await mkdir(tmpBookPath, { recursive: true });
   await $`cp -r ${srcBookPath}/* ${tmpBookPath}/`;
+
+  // Verbatim premium books (no edition) are published exactly as written (GEMINI.md section 30).
+  const registry = loadPremiumRegistry();
+  if (Object.hasOwn(registry, bookName) && registry[bookName].edition === 2026) {
+    const { references, labels } = decoratePremiumBook(tmpBookPath);
+    console.log(`Decorated ${bookName}: ${references} reference list(s), ${labels} evidence label(s)`);
+  }
 
   const sharedAssets = ["shared-header.css", "shared-script.js"];
   for (const asset of sharedAssets) {

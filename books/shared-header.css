@@ -149,3 +149,16 @@ html {
 /* Inline Mermaid diagrams: scroll sideways on narrow screens instead of shrinking the labels. */
 .dawnbook-diagram { margin: 1.5rem 0; overflow-x: auto; -webkit-overflow-scrolling: touch; }
 .dawnbook-diagram svg { display: block; margin: 0 auto; height: auto; }
+
+/* Revised premium books (edition 2026) only: scripts/builder/decorate-premium.ts adds these classes at build time, so the chapter Markdown never holds them. */
+.daftar-pustaka p { padding-left: 1.27cm; text-indent: -1.27cm; text-align: left; margin: 0 0 0.6em 0; }
+
+/* Evidence callouts. Each border colour keeps at least 3:1 contrast (WCAG 2) on the page background (--bg) of the five mdBook 0.5.4 themes, light / rust / coal / navy / ayu:
+   kuat #15803d 5.02 / 3.82 / 3.65 / 3.50 / 3.69; sedang #b45309 5.02 / 3.82 / 3.65 / 3.49 / 3.68; terbatas #6b7280 4.83 / 3.68 / 3.79 / 3.63 / 3.83.
+   The level word stays in the text, so colour is never the only cue. */
+/* design-tells: allow the stripe colour encodes the evidence level (kuat, sedang, terbatas) set by the three .bukti-* rules below */
+.bukti { border-left: 4px solid; background: var(--quote-bg); padding: 0.6em 0.9em; border-radius: 6px; margin: 1em 0; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+.bukti p { margin: 0; }
+.bukti-kuat { border-left-color: #15803d; }
+.bukti-sedang { border-left-color: #b45309; }
+.bukti-terbatas { border-left-color: #6b7280; }
