@@ -2,15 +2,18 @@
   "books": {
     "belajar-cara-belajar": {
       "products": ["P-Z1vYc0z"],
-      "productUrl": "https://belajarcarabelajar.com/product/ebook-belajar-cara-belajar"
+      "productUrl": "https://belajarcarabelajar.com/product/ebook-belajar-cara-belajar",
+      "edition": 2026
     },
     "100-study-hacks": {
       "products": ["P-ZWIJwL"],
-      "productUrl": "https://belajarcarabelajar.com/product/ebook-100-study-hacks"
+      "productUrl": "https://belajarcarabelajar.com/product/ebook-100-study-hacks",
+      "edition": 2026
     },
     "lancar-nugas": {
       "products": ["P-Ffa6A"],
-      "productUrl": "https://belajarcarabelajar.com/product/ebook-lancar-nugas"
+      "productUrl": "https://belajarcarabelajar.com/product/ebook-lancar-nugas",
+      "edition": 2026
     }
   }
 }
