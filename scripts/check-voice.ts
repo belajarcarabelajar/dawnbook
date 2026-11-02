@@ -58,6 +58,10 @@ export const VOICE_CAPS: VoiceCap[] = [
     pattern: /(?<![\p{L}\p{N}])(pada bab ini|dalam bab ini|bab ini akan)(?![\p{L}\p{N}])/giu,
     max: 2,
   },
+  // Owner, 2026-11-02: a "Kekuatan bukti: <level>, ... Rujukan: [..](..)" line closing every hack is a template that
+  // does not blend with the book. Evidence is told in the prose where the claim is made, its link on the source's name.
+  { label: "evidence label", pattern: /(?<![\p{L}])kekuatan bukti\**\s*:/giu, max: 0 },
+  { label: "Rujukan: tag", pattern: /(?<![\p{L}])Rujukan:\s*\[/gu, max: 0 },
 ];
 
 // Item 9 of section 29 (owner, 2026-11-02), checked in every book since the 2026-11-02 sweep.

@@ -96,6 +96,12 @@ export const PIKEPDF_VERSION = "10.17.0";
 const FINISH_SCRIPT = path.join(import.meta.dir, "finish-pdf.py");
 const WATERMARK_TEXT = "belajarcarabelajar.com";
 const WATERMARK_DIV = '<div class="pdf-watermark"></div>';
+// The A4 sheet and its margin in millimetres; the watermark is drawn on the whole sheet.
+const PAGE_W_MM = 210;
+const PAGE_H_MM = 297;
+const PAGE_MARGIN_MM = 25;
+// Share of the sheet diagonal the site name spans (owner, 2026-11-02: corner to corner, larger).
+const WATERMARK_DIAGONAL_SHARE = 0.9;
 // The watermark's flat colour on a gray render: 6 % black over white paper, 255 * 0.94 = 239.7.
 const WATERMARK_GRAY = 240;
 // Share of the centre band (middle half of the width, middle 30 % of the height) that must have
@@ -138,7 +144,7 @@ export function injectPrintStyle(html: string, hideImages: string[] = []): strin
   // a display font on headings and bold with !important; this later rule wins), and a page
   // number at the bottom centre (CSS page margin boxes, Chromium 131 and later).
   const rules = [
-    '@page { size: A4; margin: 25mm; @bottom-center { content: counter(page); font-family: "Open Sans", sans-serif; font-size: 9pt; color: #555555; } }',
+    `@page { size: A4; margin: ${PAGE_MARGIN_MM}mm; @bottom-center { content: counter(page); font-family: "Open Sans", sans-serif; font-size: 9pt; color: #555555; } }`,
     `${READER_CHROME.join(", ")} { display: none !important; }`,
     'html, body, .content, .content main { font-family: "Open Sans", sans-serif !important; }',
     'h1, h2, h3, h4, h5, h6, strong, b { font-family: "Open Sans", sans-serif !important; }',
@@ -150,7 +156,7 @@ export function injectPrintStyle(html: string, hideImages: string[] = []): strin
     // No heading alone at the foot of a page, no figure, table or callout cut in two, and at
     // least 2 lines of a paragraph on each side of a break.
     "h1, h2, h3, h4 { break-after: avoid; }",
-    "img, svg, table, pre, figure, .bukti { break-inside: avoid; }",
+    "img, svg, table, pre, figure { break-inside: avoid; }",
     "p, li { orphans: 2; widows: 2; }",
     // mdBook 0.5 opens every chapter on print.html with an <h1> of its SUMMARY title, and the
     // chapter's own ## title (equal to it, enforced by check-book-structure) follows: hide the twin.
@@ -160,7 +166,14 @@ export function injectPrintStyle(html: string, hideImages: string[] = []): strin
     // page (100 Study Hacks, 2026-11-01). Wide content wraps instead, and no box scrolls.
     ".content, #content, .page, .page-wrapper, #page-wrapper, main, .table-wrapper { overflow: visible !important; }",
     "pre, pre code { white-space: pre-wrap !important; }",
-    "a, code, td, th { overflow-wrap: anywhere !important; }",
+    "a, code { overflow-wrap: anywhere !important; }",
+    // Table cells wrap between words only (owner, 2026-11-02): "anywhere" on td/th let Chromium shrink
+    // every column to about one letter ("Pen / eliti / an"). break-word still splits a word that is
+    // wider than its column on its own, and a smaller face gives five columns room in 160 mm.
+    "table { width: 100% !important; font-size: 10pt !important; line-height: 1.35 !important; }",
+    "td, th { overflow-wrap: break-word !important; word-break: normal !important; hyphens: manual !important; vertical-align: top !important; text-align: left !important; padding: 4pt 6pt !important; }",
+    // A link or code word in a cell must not shrink its column either ("Lucidc / hart", measured 2026-11-02).
+    "td a, th a, td code, th code { overflow-wrap: break-word !important; }",
     ...hideImages.map((name) => `img[src$="${name}"] { display: none !important; }`),
   ];
   const style = `<style>${rules.join("\n")}</style>`;
@@ -174,23 +187,43 @@ let watermark: string | undefined;
 
 // Outlines only: resvg turns the text into paths, so the site name never enters the PDF text
 // layer, where copying and screen readers would meet it on every page.
+// The name runs along the sheet diagonal, bottom left to top right, in a view box of the whole A4
+// sheet in millimetres; its font size is fitted so it spans WATERMARK_DIAGONAL_SHARE of the diagonal.
 export function watermarkSvg(): string {
   if (watermark !== undefined) return watermark;
-  const source =
-    '<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000">' +
-    '<text x="500" y="500" text-anchor="middle" dominant-baseline="central" transform="rotate(-30 500 500)" ' +
-    `font-family="Noto Sans" font-weight="700" font-size="80" fill="#000" fill-opacity="0.06">${WATERMARK_TEXT}</text></svg>`;
   // Unlike the share cards (GEMINI.md section 27), this SVG holds text, so resvg needs the
   // system fonts.
-  const svg = new Resvg(source, { font: { loadSystemFonts: true, defaultFontFamily: "Noto Sans" } }).toString();
+  const font = { loadSystemFonts: true, defaultFontFamily: "Noto Sans" };
+  const text = (attrs: string, size: number) =>
+    `<text ${attrs} font-family="Noto Sans" font-weight="700" font-size="${size}" fill="#000" fill-opacity="0.06">${WATERMARK_TEXT}</text>`;
+  const probe = new Resvg(
+    `<svg xmlns="http://www.w3.org/2000/svg" width="4000" height="400">${text('x="10" y="200"', 100)}</svg>`,
+    { font },
+  ).getBBox();
+  // Without a usable font resvg draws nothing, and the PDF would ship without its watermark.
+  if (!probe || probe.width <= 0) throw new Error("the watermark rendered no outlines; install the Noto Sans font");
+  const size = ((WATERMARK_DIAGONAL_SHARE * Math.hypot(PAGE_W_MM, PAGE_H_MM)) / probe.width) * 100;
+  const angle = (Math.atan2(PAGE_H_MM, PAGE_W_MM) * 180) / Math.PI;
+  const [cx, cy] = [PAGE_W_MM / 2, PAGE_H_MM / 2];
+  const source =
+    `<svg xmlns="http://www.w3.org/2000/svg" width="${PAGE_W_MM}" height="${PAGE_H_MM}" viewBox="0 0 ${PAGE_W_MM} ${PAGE_H_MM}">` +
+    text(`x="${cx}" y="${cy}" text-anchor="middle" dominant-baseline="central" transform="rotate(${-angle} ${cx} ${cy})"`, Number(size.toFixed(2))) +
+    "</svg>";
+  const svg = new Resvg(source, { font }).toString();
   // Without a usable font resvg draws nothing, and the PDF would ship without its watermark.
   if (!svg.includes("<path")) throw new Error("the watermark rendered no outlines; install the Noto Sans font");
   watermark = svg;
   return svg;
 }
 
-// Chromium repeats a position: fixed element on every printed page. print-color-adjust keeps the
-// background image even where a print setting drops backgrounds.
+// The mark covers the whole sheet in two aligned layers (probed with Chromium 156 on 2026-11-02):
+// - Chromium repeats a position: fixed element on every printed page but clips it to the page area
+//   inside the margins; that layer sits over the text, as before.
+// - An @page background is painted over the whole sheet, margins included, with its positioning
+//   origin at the page area and percentage sizes ignored, so it takes the sheet size in mm.
+// Both carry the sheet-sized image shifted back by the margin. The opaque html background hides
+// the @page layer under the page area, so the mark is never doubled there. print-color-adjust
+// keeps the backgrounds even where a print setting drops them.
 export function injectWatermark(html: string, svg: string): string {
   if (html.includes(WATERMARK_DIV)) return html;
   const body = /<body\b[^>]*>/.exec(html);
@@ -198,10 +231,12 @@ export function injectWatermark(html: string, svg: string): string {
   const head = html.indexOf("</head>");
   if (head < 0 || head > body.index) throw new Error("print.html has no </head> before <body>, cannot add the watermark");
   const url = `data:image/svg+xml;base64,${Buffer.from(svg, "utf8").toString("base64")}`;
+  const sheet = `url("${url}") -${PAGE_MARGIN_MM}mm -${PAGE_MARGIN_MM}mm / ${PAGE_W_MM}mm ${PAGE_H_MM}mm no-repeat`;
+  const exact = "print-color-adjust: exact; -webkit-print-color-adjust: exact;";
   const style =
-    "<style>.pdf-watermark { position: fixed; inset: 0; pointer-events: none; z-index: 0; " +
-    `background: url("${url}") center / 75% auto no-repeat; ` +
-    "print-color-adjust: exact; -webkit-print-color-adjust: exact; }</style>";
+    `<style>@page { background: ${sheet}; }\n` +
+    `html { background-color: #ffffff !important; ${exact} }\n` +
+    `.pdf-watermark { position: fixed; inset: 0; pointer-events: none; z-index: 0; background: ${sheet}; ${exact} }</style>`;
   const afterBody = body.index + body[0].length;
   return html.slice(0, head) + style + html.slice(head, afterBody) + WATERMARK_DIV + html.slice(afterBody);
 }

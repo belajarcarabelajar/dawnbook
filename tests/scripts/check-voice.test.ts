@@ -46,7 +46,17 @@ describe("voiceViolations generic caps", () => {
       ["diperhatikan opener", 0],
       ["bridge heading", 0],
       ["chapter announcement", 2],
+      ["evidence label", 0],
+      ["Rujukan: tag", 0],
     ]);
+  });
+
+  test("an evidence label or a Rujukan: tag before a link is flagged, prose about evidence is not", () => {
+    const label = "**Kekuatan bukti:** terbatas, satu studi kecil. Rujukan: [Studi](https://example.org/a).";
+    expect(voiceViolations("05_x.md", label)).toEqual(["evidence label x1 (max 0)", "Rujukan: tag x1 (max 0)"]);
+    expect(voiceViolations("05_x.md", "**Kekuatan bukti**: sedang.")).toEqual(["evidence label x1 (max 0)"]);
+    expect(voiceViolations("05_x.md", "Kekuatan bukti dari studi itu masih tipis.")).toEqual([]);
+    expect(voiceViolations("05_x.md", "- **Peta Rujukan:** kontak pos kesehatan.")).toEqual([]);
   });
 
   test("cooked prose passes", () => {
