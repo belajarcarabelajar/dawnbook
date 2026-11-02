@@ -1,7 +1,7 @@
 ---
 schema: ultra-plan/v1
 plan_id: 2026-11-01-dawnbook-premium-ebooks
-status: Approved
+status: Complete
 version: 1
 runner_contract: true
 defaults:
@@ -745,6 +745,7 @@ Same as T10 for `lancar-nugas` (97 emoji and 17 "yg" stay as written).
 
 - 2026-11-01: `bun ~/vivera/scripts/plan-closeout.mjs --readiness docs/code-plan/plans/2026-11-01-dawnbook-premium-ebooks.md` verdict NEEDS-HUMAN (exit 3): T1 to T12 DONE by their `skip_if`; T13 UNPROVEN because its proof is the live probes and the owner's signed-in test (recorded under Release evidence); 0 open boxes. Owner answered `Close plan`: Keep it open. Reopen trigger: the owner's call.
 - Plan commands for T10 to T12 were corrected in the closeout session: they now pass `--accept` and use `$HOME/Proyek/dawnbook-premium` paths, so the runner works from any worktree.
+- 2026-11-02: closed by the owner after an issue audit (65 of 65 boxes ticked, PR #228 to #231 merged, release evidence above). The revised edition continues in plan `2026-11-01-premium-edisi-2026`. Issue #227 closed.
 
 ## Backlog (LATER, each its own plan)
 
