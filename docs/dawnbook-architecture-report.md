@@ -624,25 +624,11 @@ dawnbook
 ├── docs
 │   ├── ADMIN_AUDIT.md
 │   ├── ADMIN_DESIGN_REQUIREMENTS_MAP.md
-│   ├── CORS_AUDIT_REPORT.md
 │   ├── DESIGN_REQUIREMENTS_MAP.md
-│   ├── GITIGNORE_AUDIT_REPORT.md
-│   ├── LATEX_SUPPORT_AUDIT.md
-│   ├── MDBOOK_RULES_AUDIT_REPORT.md
-│   ├── MDBOOK_SEO_AUDIT_REPORT.md
 │   ├── MDBOOK_SEO_RULES.md
-│   ├── MEDIA_EMBED_AUDIT.md
-│   ├── MOBILE_AUDIT.md
-│   ├── MOBILE_AUDIT_REPORT.md
-│   ├── NAVIGATION_AUDIT_REPORT.md
 │   ├── REORG_PLAN.md
-│   ├── SECRET_AUDIT_REPORT.md
 │   ├── SECRET_ROTATION_RUNBOOK.md
-│   ├── SECURITY_AUDIT_REPORT.md
 │   ├── SEO_Rules_and_Criteria.md
-│   ├── TDD_AUDIT_REPORT.md
-│   ├── THEME_TOGGLE_AUDIT_REPORT.md
-│   ├── UIUX_AUDIT_REPORT.md
 │   ├── audits
 │   │   ├── error-handling-logging-audit.md
 │   │   └── findings
@@ -650,9 +636,7 @@ dawnbook
 │   │       ├── security-audit-findings.json
 │   │       ├── theme-toggle-audit-findings.json
 │   │       └── uiux-audit-findings.json
-│   ├── cors-audit-findings.json
-│   ├── pake-build.md
-│   └── secret-audit-findings.json
+│   └── pake-build.md
 ├── functions
 │   ├── _middleware.ts
 │   ├── admin
