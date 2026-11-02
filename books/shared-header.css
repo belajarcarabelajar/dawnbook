@@ -162,3 +162,12 @@ html {
 .bukti-kuat { border-left-color: #15803d; }
 .bukti-sedang { border-left-color: #b45309; }
 .bukti-terbatas { border-left-color: #6b7280; }
+
+/* Google "preferred source" card at the end of every chapter, inserted by scripts/inject-gating.ts (owner 2026-11-02).
+   Text pairs are the theme's own: --fg on --quote-bg (as .bukti) and --fg on --bg for the button; --links only colours its outline. */
+.dawnbook-sumber-google { margin: 2.5rem 0 0.5rem; padding: 1.2em 1.4em; background: var(--quote-bg); border: 1px solid var(--quote-border); border-radius: 12px; text-align: center; color: var(--fg); }
+.dawnbook-sumber-google-judul { margin: 0 0 0.4em; font-weight: 700; font-size: 1.1em; line-height: 1.35; }
+.dawnbook-sumber-google-isi { margin: 0 0 1em; line-height: 1.6; }
+.content a.dawnbook-sumber-google-tombol { display: inline-flex; align-items: center; min-height: 44px; padding: 0.5em 1.2em; border: 2px solid var(--links); border-radius: 999px; background: var(--bg); color: var(--fg); font-weight: 700; text-decoration: none; }
+.content a.dawnbook-sumber-google-tombol:hover { background: var(--quote-bg); }
+.content a.dawnbook-sumber-google-tombol:focus-visible { outline: 2px solid var(--links); outline-offset: 2px; }

@@ -40,6 +40,48 @@ export interface InjectSeoOptions {
   ogImage?: string;
   /** What the card shows, for og:image:alt; defaults to the page title. */
   ogImageAlt?: string;
+  /** Add the Google "preferred source" card at the end of the chapter (book pages except toc, 404, print). */
+  preferredSourceCard?: boolean;
+}
+
+// Google "preferred source" card at the end of every chapter (owner request 2026-11-02). dawnbook.belajarcarabelajar.com is listed in
+// Google's source preferences tool (checked by the owner on 2026-11-02); readers who add it see Dawnbook pages more often in Top
+// Stories and get a "preferred" badge in AI Mode and AI Overviews. A plain deeplink, not Google's button script
+// (news.google.com/swg/js/v1/publisher.js), so no third-party script. The title is a <p>, not a heading: mdBook's toc.js lists the
+// page's h2-h6 in the sidebar. Styles: `.dawnbook-sumber-google` in books/shared-header.css.
+// Guide: https://developers.google.com/search/docs/appearance/preferred-sources
+// Revert: remove this block, the option above, its use in processDirectory, the CSS block and
+// tests/scripts/inject-gating-preferred-source.test.ts.
+export const PREFERRED_SOURCE_HREF = "https://www.google.com/preferences/source?q=dawnbook.belajarcarabelajar.com";
+
+export const PREFERRED_SOURCE_COPY = {
+  judul: "Mau buku Dawnbook lebih sering muncul di Google?",
+  isi: "Tambahkan dawnbook.belajarcarabelajar.com sebagai sumber pilihan kamu di Google. Nanti halaman Dawnbook lebih sering muncul waktu kamu mencari, dan diberi tanda di Ringkasan AI.",
+  tombol: "Tambahkan Dawnbook di Google",
+} as const;
+
+const PREFERRED_SOURCE_MARKER = 'class="dawnbook-sumber-google"';
+
+export function preferredSourceCardHtml(): string {
+  const c = PREFERRED_SOURCE_COPY;
+  return (
+    // A div, not an aside: a complementary landmark inside <main> fails axe's landmark-complementary-is-top-level.
+    `<div ${PREFERRED_SOURCE_MARKER}>` +
+    `<p class="dawnbook-sumber-google-judul">${escapeHtml(c.judul)}</p>` +
+    `<p class="dawnbook-sumber-google-isi">${escapeHtml(c.isi)}</p>` +
+    `<a class="dawnbook-sumber-google-tombol" href="${escapeHtml(PREFERRED_SOURCE_HREF)}" target="_blank" rel="noopener noreferrer">${escapeHtml(c.tombol)}</a>` +
+    `</div>`
+  );
+}
+
+/** Inserts the card right before the page's single </main>; a page that already has it is returned unchanged. */
+export function injectPreferredSourceCard(html: string): string {
+  if (html.includes(PREFERRED_SOURCE_MARKER)) return html;
+  const parts = html.split("</main>");
+  if (parts.length !== 2) {
+    throw new Error(`expected exactly one </main> for the preferred source card, found ${parts.length - 1}`);
+  }
+  return `${parts[0]}${preferredSourceCardHtml()}\n</main>${parts[1]}`;
 }
 
 /** Pages mdBook writes besides the SUMMARY.md chapters; they get no share card. */
@@ -192,7 +234,7 @@ export function markThemeScriptsCfAsync(html: string): string {
 }
 
 export function injectSeoAndGating(html: string, options: InjectSeoOptions): string {
-  const { pageTitle, url, isGatedClientSide, gaId, bookDescription, isBookRoot, ogImage, ogImageAlt } = options;
+  const { pageTitle, url, isGatedClientSide, gaId, bookDescription, isBookRoot, ogImage, ogImageAlt, preferredSourceCard } = options;
 
   let content = markThemeScriptsCfAsync(normalizeInternalLinks(html));
 
@@ -361,6 +403,9 @@ export function injectSeoAndGating(html: string, options: InjectSeoOptions): str
     }
   }
 
+  // Last, so the description above is read from the chapter alone.
+  if (preferredSourceCard) content = injectPreferredSourceCard(content);
+
   return content;
 }
 
@@ -410,6 +455,7 @@ async function processDirectory(
       let isBookRoot = false;
       let ogImage: string | undefined;
       let ogImageAlt: string | undefined;
+      let preferredSourceCard = false;
       const bookMatch = relativePath.match(
         /^\/books\/([a-zA-Z0-9_-]+)\/(.*)?$/,
       );
@@ -441,6 +487,8 @@ async function processDirectory(
         // disagree on its name, which would silently ship the site icon, so the build fails.
         ogImage = shareCardUrl(join(process.cwd(), "output"), slug, page);
         if (!ogImage && !NO_CARD_PAGES.has(page)) missingCards.push(relativePath);
+        // Chapters and the book root (which repeats the first chapter); not toc, 404 or print.
+        preferredSourceCard = !NO_CARD_PAGES.has(page);
 
         if (
           page !== "" &&
@@ -473,6 +521,7 @@ async function processDirectory(
         isBookRoot,
         ogImage,
         ogImageAlt,
+        preferredSourceCard,
       });
 
       await writeFile(fullPath, updatedContent, "utf-8");
