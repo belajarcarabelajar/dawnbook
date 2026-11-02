@@ -944,6 +944,4 @@ Assumption: The GitHub Actions workflow '.github/workflows/deploy.yml' has secre
 
 ## 11. Reference Documents
 - **SEO Rules & Criteria**: [docs/SEO_Rules_and_Criteria.md](docs/SEO_Rules_and_Criteria.md) — Comprehensive guidelines and knowledge base for AI agents on technical and on-page SEO.
-- **CORS Audit Report**: [docs/CORS_AUDIT_REPORT.md](docs/CORS_AUDIT_REPORT.md) — Analysis of Cross-Origin Resource Sharing policies.
-- **Secret Audit Report**: [docs/SECRET_AUDIT_REPORT.md](docs/SECRET_AUDIT_REPORT.md) — Audit of exposed secrets and vulnerabilities.
 - **Reorg Plan**: [docs/REORG_PLAN.md](docs/REORG_PLAN.md) — Structural reorganization planning document.
