@@ -7,7 +7,7 @@ describe("Admin Authorization", () => {
     const appTsxPath = join(import.meta.dir, "../../apps/admin/src/App.tsx");
     if (!existsSync(appTsxPath)) return; // Skip if file is moved, but it shouldn't be
     const appTsx = readFileSync(appTsxPath, "utf-8");
-    expect(appTsx).not.toContain("kurniawaniwan7906@gmail.com");
+    expect(appTsx).not.toMatch(/[\w.+-]+@gmail\.com/);
     expect(appTsx).not.toContain("user_3FGEVcEVho4UC4uCE6gs3TfyVwV");
     // D1-backed role check: AuthProvider exposes `isAdmin` derived from
     // the user's role in the D1 `users` table.

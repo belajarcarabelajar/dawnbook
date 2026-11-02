@@ -172,8 +172,9 @@ This file contains critical architectural decisions and strict rules for the Daw
   - Git Commit/Push Email: `iwan@belajarcarabelajar.com`
 - **Kania Salsabila Identity:**
   - Full Name: `Kania Salsabila`
-  - Git Commit/Push Email: `kaniasalsabila639@gmail.com`
-- **Rule:** When committing and pushing changes or authoring books specifically attributed to Kania Salsabila, agents and workflows MUST set or pass Git author identity as `Kania Salsabila <kaniasalsabila639@gmail.com>` (e.g. `git commit --author="Kania Salsabila <kaniasalsabila639@gmail.com>"` or setting `GIT_AUTHOR_NAME`/`GIT_AUTHOR_EMAIL` & `GIT_COMMITTER_NAME`/`GIT_COMMITTER_EMAIL`). For general repository maintenance and books authored by Iwan Kurniawan, use `Iwan Kurniawan <iwan@belajarcarabelajar.com>`.
+  - GitHub account: `kaniasalsabila639-ops`
+  - Git Commit/Push Email: kept out of this public repo. Read it from the environment variable `KANIA_GIT_EMAIL`; when that is unset, take it from her latest commit with `git log -1 --author='Kania Salsabila' --format='%ae'`.
+- **Rule:** When committing and pushing changes or authoring books specifically attributed to Kania Salsabila, agents and workflows MUST set or pass Git author identity as `Kania Salsabila <$KANIA_GIT_EMAIL>` (e.g. `git commit --author="Kania Salsabila <$KANIA_GIT_EMAIL>"` or setting `GIT_AUTHOR_NAME`/`GIT_AUTHOR_EMAIL` & `GIT_COMMITTER_NAME`/`GIT_COMMITTER_EMAIL`). For general repository maintenance and books authored by Iwan Kurniawan, use `Iwan Kurniawan <iwan@belajarcarabelajar.com>`.
 - **Co-author policy (repo owner directive, 2026-09-28):** every commit authored by **Kania Salsabila MUST carry the trailer** `Co-authored-by: Iwan Kurniawan <iwan@belajarcarabelajar.com>`. Commits authored by **Iwan Kurniawan carry NO co-author trailer** (empty). When fixing history, add the trailer via `git commit --amend --trailer "Co-authored-by: Iwan Kurniawan <iwan@belajarcarabelajar.com>"` on Kania-authored commits only.
 
 ## 19. Deployment Credentials Location (Cloudflare)

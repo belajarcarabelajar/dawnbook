@@ -704,7 +704,7 @@ Each rule states an **enforced constraint** and a **required end state**.
 
 *Surface:* `apps/admin/src/App.tsx` (lines 196-210).
 
-*Current state:* Admin access gated by client-side email/role check (`user?.primaryEmailAddress?.emailAddress === 'kurniawaniwan7906@gmail.com'` or `publicMetadata.role === 'admin'`). Purely visual — JS bundle is public.
+*Current state:* Admin access gated by client-side email/role check (`user?.primaryEmailAddress?.emailAddress === '<owner email>'` or `publicMetadata.role === 'admin'`). Purely visual: the JS bundle is public.
 
 *Enforced constraint:* Frontend bundle must not contain sensitive data or logic assuming client-side auth is sufficient. Frontend is presentation only.
 
