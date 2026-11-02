@@ -150,21 +150,11 @@ html {
 .dawnbook-diagram { margin: 1.5rem 0; overflow-x: auto; -webkit-overflow-scrolling: touch; }
 .dawnbook-diagram svg { display: block; margin: 0 auto; height: auto; }
 
-/* Revised premium books (edition 2026) only: scripts/builder/decorate-premium.ts adds these classes at build time, so the chapter Markdown never holds them. */
+/* Revised premium books (edition 2026) only: scripts/builder/decorate-premium.ts adds this class at build time, so the chapter Markdown never holds it. */
 .daftar-pustaka p { padding-left: 1.27cm; text-indent: -1.27cm; text-align: left; margin: 0 0 0.6em 0; }
 
-/* Evidence callouts. Each border colour keeps at least 3:1 contrast (WCAG 2) on the page background (--bg) of the five mdBook 0.5.4 themes, light / rust / coal / navy / ayu:
-   kuat #15803d 5.02 / 3.82 / 3.65 / 3.50 / 3.69; sedang #b45309 5.02 / 3.82 / 3.65 / 3.49 / 3.68; terbatas #6b7280 4.83 / 3.68 / 3.79 / 3.63 / 3.83.
-   The level word stays in the text, so colour is never the only cue. */
-/* design-tells: allow the stripe colour encodes the evidence level (kuat, sedang, terbatas) set by the three .bukti-* rules below */
-.bukti { border-left: 4px solid; background: var(--quote-bg); padding: 0.6em 0.9em; border-radius: 6px; margin: 1em 0; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
-.bukti p { margin: 0; }
-.bukti-kuat { border-left-color: #15803d; }
-.bukti-sedang { border-left-color: #b45309; }
-.bukti-terbatas { border-left-color: #6b7280; }
-
 /* Google "preferred source" card at the end of every chapter, inserted by scripts/inject-gating.ts (owner 2026-11-02).
-   Text pairs are the theme's own: --fg on --quote-bg (as .bukti) and --fg on --bg for the button; --links only colours its outline. */
+   Text pairs are the theme's own: --fg on --quote-bg (as blockquotes) and --fg on --bg for the button; --links only colours its outline. */
 .dawnbook-sumber-google { margin: 2.5rem 0 0.5rem; padding: 1.2em 1.4em; background: var(--quote-bg); border: 1px solid var(--quote-border); border-radius: 12px; text-align: center; color: var(--fg); }
 .dawnbook-sumber-google-judul { margin: 0 0 0.4em; font-weight: 700; font-size: 1.1em; line-height: 1.35; }
 .dawnbook-sumber-google-isi { margin: 0 0 1em; line-height: 1.6; }

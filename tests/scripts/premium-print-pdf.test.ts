@@ -1,6 +1,7 @@
 import { afterEach, beforeAll, describe, expect, test } from "bun:test";
 import fs from "node:fs";
 import path from "node:path";
+import { Resvg } from "@resvg/resvg-js";
 import { diagramKey } from "../../scripts/diagrams/cache";
 import {
   chromiumArgs,
@@ -118,8 +119,30 @@ describe("injectPrintStyle", () => {
     const boxes = [".content", "#content", ".page", ".page-wrapper", "#page-wrapper", "main", ".table-wrapper"];
     expect(eachHas(rules, boxes, "overflow: visible !important")).toEqual(allTrue(boxes));
     expect(eachHas(rules, ["pre", "pre code"], "white-space: pre-wrap !important")).toEqual(allTrue(["pre", "pre code"]));
-    const breakable = ["a", "code", "td", "th"];
+    const breakable = ["a", "code"];
     expect(eachHas(rules, breakable, "overflow-wrap: anywhere !important")).toEqual(allTrue(breakable));
+  });
+
+  test("wraps table cells between words, never inside a word", () => {
+    // Owner, 2026-11-02: "anywhere" on td/th let Chromium shrink each column to about one letter, so
+    // "Penelitian" printed as "Pen / eliti / an". break-word keeps each word whole in the column width.
+    const rules = cssRules(injectPrintStyle(page));
+    for (const cell of ["td", "th"]) {
+      expect(rules.get(cell) ?? []).toContain("overflow-wrap: break-word !important");
+      expect(rules.get(cell) ?? []).toContain("word-break: normal !important");
+      expect(rules.get(cell) ?? []).not.toContain("overflow-wrap: anywhere !important");
+      expect(rules.get(cell) ?? []).toContain("vertical-align: top !important");
+    }
+    expect(rules.get("table") ?? []).toContain("width: 100% !important");
+    expect(rules.get("table") ?? []).toContain("font-size: 10pt !important");
+  });
+
+  test("keeps a link or code word whole inside a table cell too", () => {
+    // Measured 2026-11-02: with "a { anywhere }" alone, a column of linked tool names in Lancar Nugas
+    // shrank to "Lucidc / hart" and "BioRe / nder".
+    const rules = cssRules(injectPrintStyle(page));
+    const inCells = ["td a", "th a", "td code", "th code"];
+    expect(eachHas(rules, inCells, "overflow-wrap: break-word !important")).toEqual(allTrue(inCells));
   });
 
   test("hides the web reader chrome so it never prints", () => {
@@ -160,7 +183,7 @@ describe("injectPrintStyle", () => {
     const rules = cssRules(injectPrintStyle(page));
     const headings = ["h1", "h2", "h3", "h4"];
     expect(eachHas(rules, headings, "break-after: avoid")).toEqual(allTrue(headings));
-    const blocks = ["img", "svg", "table", "pre", "figure", ".bukti"];
+    const blocks = ["img", "svg", "table", "pre", "figure"];
     expect(eachHas(rules, blocks, "break-inside: avoid")).toEqual(allTrue(blocks));
     const lines = ["p", "li"];
     expect(eachHas(rules, lines, "orphans: 2")).toEqual(allTrue(lines));
@@ -195,12 +218,27 @@ describe("watermarkSvg", () => {
     expect(svg).not.toContain("belajarcarabelajar");
   });
 
-  test("is black at 6 percent opacity, rotated by -30 degrees", () => {
+  test("is black at 6 percent opacity, along the A4 diagonal from corner to corner", () => {
     const svg = watermarkSvg();
     expect(svg).toContain('fill="#000000"');
     expect(svg).toContain('fill-opacity="0.06"');
-    // rotate(-30) as a matrix: cos 30 = 0.8660254, sin -30 = -0.5.
-    expect(svg).toMatch(/matrix\(0\.866\d* -0\.5 0\.5 0\.866\d* /);
+    // The view box is the whole A4 sheet in millimetres.
+    expect(svg).toMatch(/<svg width="210" height="297" viewBox="0 0 210 297"/);
+    // rotate(-atan(297/210)) as a matrix: cos = 1/sqrt(3) = 0.57735, sin = sqrt(2/3) = 0.81650.
+    expect(svg).toMatch(/matrix\(0\.5773\d* -0\.8165\d* 0\.8165\d* 0\.5773\d* /);
+  });
+
+  test("spans at least 90 percent of the sheet each way and stays on the sheet", () => {
+    // Owner, 2026-11-02: the old -30 degree mark was too small and did not run corner to corner.
+    const box = new Resvg(watermarkSvg()).getBBox();
+    expect(box).toBeDefined();
+    const { x, y, width, height } = box!;
+    expect(width).toBeGreaterThanOrEqual(0.9 * 210);
+    expect(height).toBeGreaterThanOrEqual(0.9 * 297);
+    expect(x).toBeGreaterThanOrEqual(0);
+    expect(y).toBeGreaterThanOrEqual(0);
+    expect(x + width).toBeLessThanOrEqual(210);
+    expect(y + height).toBeLessThanOrEqual(297);
   });
 });
 
@@ -214,7 +252,10 @@ describe("injectWatermark", () => {
     expect(out.match(/class="pdf-watermark"/g)).toHaveLength(1);
   });
 
-  test("fixes the image over every page, centred at 75 percent width, in a head style", () => {
+  test("covers the whole sheet: the page background in the margins, a fixed layer over the text", () => {
+    // Chromium clips a position: fixed element to the page area inside the margins, and paints an
+    // @page background over the whole sheet with its origin at the page area (probed 2026-11-02),
+    // so both carry the same sheet-sized image shifted back by the 25 mm margin and line up.
     const out = injectWatermark(page, svg);
     const at = out.indexOf(".pdf-watermark {");
     expect(at).toBeGreaterThan(-1);
@@ -223,8 +264,14 @@ describe("injectWatermark", () => {
     for (const decl of ["position: fixed", "inset: 0", "pointer-events: none", "z-index: 0"]) {
       expect(rule).toContain(decl);
     }
-    const bg = /background: url\("data:image\/svg\+xml;base64,([A-Za-z0-9+/=]+)"\) center \/ 75% auto no-repeat/.exec(rule);
-    expect(Buffer.from(bg?.[1] ?? "", "base64").toString("utf8")).toBe(svg);
+    const sheet = 'url\\("data:image/svg\\+xml;base64,([A-Za-z0-9+/=]+)"\\) -25mm -25mm \\/ 210mm 297mm no-repeat';
+    const layer = new RegExp(`background: ${sheet}`).exec(rule);
+    expect(Buffer.from(layer?.[1] ?? "", "base64").toString("utf8")).toBe(svg);
+    const pageAt = out.indexOf("@page {", out.indexOf("<style>"));
+    const pageRule = out.slice(pageAt, out.indexOf("}", pageAt));
+    expect(new RegExp(`background: ${sheet}`).exec(pageRule)?.[1]).toBe(layer?.[1]);
+    // An opaque page area hides the page background under the text, so the mark is not doubled there.
+    expect(out).toContain("html { background-color: #ffffff !important; print-color-adjust: exact; -webkit-print-color-adjust: exact; }");
   });
 
   test("is idempotent", () => {

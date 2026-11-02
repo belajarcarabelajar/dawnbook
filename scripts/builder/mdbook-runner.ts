@@ -21,8 +21,8 @@ export async function prepareBookForMdbook(
   // Verbatim premium books (no edition) are published exactly as written (GEMINI.md section 30).
   const registry = loadPremiumRegistry();
   if (Object.hasOwn(registry, bookName) && registry[bookName].edition === 2026) {
-    const { references, labels } = decoratePremiumBook(tmpBookPath);
-    console.log(`Decorated ${bookName}: ${references} reference list(s), ${labels} evidence label(s)`);
+    const { references } = decoratePremiumBook(tmpBookPath);
+    console.log(`Decorated ${bookName}: ${references} reference list(s)`);
   }
 
   const sharedAssets = ["shared-header.css", "shared-script.js"];
