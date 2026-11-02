@@ -45,8 +45,9 @@ Specifically:
     - Commit/Push Email: `iwan@belajarcarabelajar.com`
   - **Kania Salsabila Identity:**
     - Full Name: `Kania Salsabila`
-    - Commit/Push Email: `kaniasalsabila639@gmail.com`
-  - **Enforcement:** Whenever authoring, committing, or pushing changes specifically for books authored by Kania Salsabila, the Git author and committer identity MUST be explicitly set to `Kania Salsabila <kaniasalsabila639@gmail.com>` (via `git commit --author="Kania Salsabila <kaniasalsabila639@gmail.com>"` or environment variables `GIT_AUTHOR_NAME`/`GIT_AUTHOR_EMAIL` & `GIT_COMMITTER_NAME`/`GIT_COMMITTER_EMAIL`). For all other changes or books by Iwan Kurniawan, use `Iwan Kurniawan <iwan@belajarcarabelajar.com>`.
+    - GitHub account: `kaniasalsabila639-ops`
+    - Commit/Push Email: kept out of this public repo. Read it from the environment variable `KANIA_GIT_EMAIL`; when that is unset, take it from her latest commit with `git log -1 --author='Kania Salsabila' --format='%ae'`.
+  - **Enforcement:** Whenever authoring, committing, or pushing changes specifically for books authored by Kania Salsabila, the Git author and committer identity MUST be explicitly set to `Kania Salsabila <$KANIA_GIT_EMAIL>` (via `git commit --author="Kania Salsabila <$KANIA_GIT_EMAIL>"` or environment variables `GIT_AUTHOR_NAME`/`GIT_AUTHOR_EMAIL` & `GIT_COMMITTER_NAME`/`GIT_COMMITTER_EMAIL`). For all other changes or books by Iwan Kurniawan, use `Iwan Kurniawan <iwan@belajarcarabelajar.com>`.
 
 ## Cloudflare CLI — `cf`, bukan `wrangler`
 

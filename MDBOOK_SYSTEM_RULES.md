@@ -704,7 +704,7 @@ Each rule states an **enforced constraint** and a **required end state**.
 
 *Surface:* `apps/admin/src/App.tsx` (lines 196-210).
 
-*Current state:* Admin access gated by client-side email/role check (`user?.primaryEmailAddress?.emailAddress === 'kurniawaniwan7906@gmail.com'` or `publicMetadata.role === 'admin'`). Purely visual — JS bundle is public.
+*Current state:* Admin access gated by client-side email/role check (`user?.primaryEmailAddress?.emailAddress === '<owner email>'` or `publicMetadata.role === 'admin'`). Purely visual: the JS bundle is public.
 
 *Enforced constraint:* Frontend bundle must not contain sensitive data or logic assuming client-side auth is sufficient. Frontend is presentation only.
 
@@ -944,6 +944,4 @@ Assumption: The GitHub Actions workflow '.github/workflows/deploy.yml' has secre
 
 ## 11. Reference Documents
 - **SEO Rules & Criteria**: [docs/SEO_Rules_and_Criteria.md](docs/SEO_Rules_and_Criteria.md) — Comprehensive guidelines and knowledge base for AI agents on technical and on-page SEO.
-- **CORS Audit Report**: [docs/CORS_AUDIT_REPORT.md](docs/CORS_AUDIT_REPORT.md) — Analysis of Cross-Origin Resource Sharing policies.
-- **Secret Audit Report**: [docs/SECRET_AUDIT_REPORT.md](docs/SECRET_AUDIT_REPORT.md) — Audit of exposed secrets and vulnerabilities.
 - **Reorg Plan**: [docs/REORG_PLAN.md](docs/REORG_PLAN.md) — Structural reorganization planning document.
