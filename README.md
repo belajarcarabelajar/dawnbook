@@ -2,7 +2,11 @@
 
 An open-source platform for collaborating on and publishing educational books based on Markdown and mdBook.
 
-Welcome to Dawnbook! This is an open-source hub where contributors can submit and publish educational books. The platform aggregates over 29 books into a central hub, hosting texts such as **Teori Perkembangan Kognitif Piaget**, **Metakognisi**, **Filosofi Stoikisme**, **Digital Minimalisme**, and **Quarter Life Crisis**.
+Live site: **[dawnbook.belajarcarabelajar.com](https://dawnbook.belajarcarabelajar.com)**
+
+![Dawnbook hub home page with the list of available books](docs/images/screenshot.png)
+
+Welcome to Dawnbook! This is an open-source hub where contributors can submit and publish educational books. The platform gathers every book in the `books/` directory into a central hub, hosting texts such as **Teori Perkembangan Kognitif Piaget**, **Metakognisi**, **Filosofi Stoikisme**, **Digital Minimalisme**, and **Quarter Life Crisis**.
 
 ## Features & Architecture
 
@@ -14,7 +18,7 @@ This repository is a monorepo hosting a complete end-to-end publishing pipeline:
 - **Database**: Uses **Cloudflare D1** SQLite (`dawnbook-db`) to store book metadata, reading progress checkpoints, completed paths per user, and the auth tables (`users`, `sessions`).
 - **Automated SEO**: Includes a robust SEO validation pipeline (`scripts/check-seo.ts`), automated `sitemap.xml` generation, dynamic `X-Robots-Tag: noindex` header injection for gated chapters, and structured JSON-LD schemas.
 - **Hub Site**: A vanilla JS frontend (`apps/hub`) serving as the central landing page. It features an integrated **i18n** localization system (`en` and `id`) and a dedicated `/contribute` page to honor main contributors.
-- **Documentation & Audits**: The `docs/` directory contains all architectural guidelines, design requirements, and system audit reports.
+- **Documentation & Audits**: The `docs/` directory contains architectural guidelines, design requirements, runbooks, and session plans.
 
 ## Prerequisites
 
@@ -28,7 +32,7 @@ To run this platform locally, you need:
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/dawnbook.git
+   git clone https://github.com/belajarcarabelajar/dawnbook.git
    cd dawnbook
    ```
 
