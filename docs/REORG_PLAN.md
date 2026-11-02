@@ -47,6 +47,8 @@
 | `tests/admin/bookService.test.ts` | `tests/admin/book-service.test.ts` | rename | Normalize kebab-case |
 | `apps/admin/src/services/bookService.ts`| `apps/admin/src/services/book-service.ts`| rename | Normalize kebab-case |
 
+These reports were later deleted in PR #260 (stale AI-generated audits).
+
 ## Reference Updates
 - `apps/admin/src/App.tsx`: Updated import from `./services/bookService` to `./services/book-service`.
 - `tests/admin/book-service.test.ts`: Updated import from `../../apps/admin/src/services/bookService` to `../../apps/admin/src/services/book-service`, and fixed mock import from `../../helpers/mocks` to `../helpers/mocks`.
