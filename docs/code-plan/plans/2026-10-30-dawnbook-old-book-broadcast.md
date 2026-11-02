@@ -494,10 +494,10 @@ flowchart TD
 
 **Behavior & Acceptance:** AC1 on the real catalogue; the owner sees and approves the full list (A38).
 
-- [ ] Step 1: `cd ~/Proyek/dawnbook && bun run scripts/broadcast-old-books.ts init --dry-run`; show the full output in chat.
-- [ ] Step 2: Ask the owner to approve the list (question tool, header `Daftar`).
-- [ ] Step 3: `cd ~/Proyek/dawnbook && bun run scripts/broadcast-old-books.ts init`; then `bun run scripts/broadcast-old-books.ts status` exits 0 and shows `Terkirim 0/<n>`.
-- [ ] Step 4: `stat -c '%a' ~/.local/state/dawnbook-broadcast ~/.local/state/dawnbook-broadcast/state.json` prints `700` and `600`.
+- [x] Step 1: `cd ~/Proyek/dawnbook && bun run scripts/broadcast-old-books.ts init --dry-run`; show the full output in chat.
+- [x] Step 2: Ask the owner to approve the list (question tool, header `Daftar`).
+- [x] Step 3: `cd ~/Proyek/dawnbook && bun run scripts/broadcast-old-books.ts init`; then `bun run scripts/broadcast-old-books.ts status` exits 0 and shows `Terkirim 0/<n>`.
+- [x] Step 4: `stat -c '%a' ~/.local/state/dawnbook-broadcast ~/.local/state/dawnbook-broadcast/state.json` prints `700` and `600`.
 
 ### Task T7: Enable the timer and watch the first run (after merge)
 
@@ -507,13 +507,13 @@ flowchart TD
 
 **Behavior & Acceptance:** the timer is active and the first evening run posts exactly one message.
 
-- [ ] Step 1: Ask the risky gate (question tool, safe option first): enable `dawnbook-broadcast.timer`, which posts to the Dawnbook Telegram group from today 19.00 WIB.
-- [ ] Step 2: `cp ~/Proyek/dawnbook/scripts/systemd/dawnbook-broadcast.service ~/Proyek/dawnbook/scripts/systemd/dawnbook-broadcast.timer ~/.config/systemd/user/`
-- [ ] Step 3: `systemctl --user daemon-reload`
-- [ ] Step 4: `systemctl --user enable --now dawnbook-broadcast.timer`
-- [ ] Step 5: `systemctl --user list-timers dawnbook-broadcast.timer` shows the next trigger at 19.00, 20.00 or 21.00 WIB.
-- [ ] Step 6: Commit and tag `~/AGENTS.md` in `~/.local/share/home-bak.git` (section 8.5, tag `AGENTS.md.bak-20261030-dawnbook-broadcast`), add one line to section 8 naming the timer, GEMINI.md section 28, the kill switch and the revert, then `python3 -I ~/.claude/hooks/agents-md-check.py` exits 0.
-- [ ] Step 7: After the first trigger in the window: `journalctl --user -u dawnbook-broadcast --since today` shows one `sent` line, `status` shows `Terkirim 1/<n>`, and the owner confirms the post in the group.
+- [x] Step 1: Ask the risky gate (question tool, safe option first): enable `dawnbook-broadcast.timer`, which posts to the Dawnbook Telegram group from today 19.00 WIB.
+- [x] Step 2: `cp ~/Proyek/dawnbook/scripts/systemd/dawnbook-broadcast.service ~/Proyek/dawnbook/scripts/systemd/dawnbook-broadcast.timer ~/.config/systemd/user/`
+- [x] Step 3: `systemctl --user daemon-reload`
+- [x] Step 4: `systemctl --user enable --now dawnbook-broadcast.timer`
+- [x] Step 5: `systemctl --user list-timers dawnbook-broadcast.timer` shows the next trigger at 19.00, 20.00 or 21.00 WIB.
+- [x] Step 6: Commit and tag `~/AGENTS.md` in `~/.local/share/home-bak.git` (section 8.5, tag `AGENTS.md.bak-20261030-dawnbook-broadcast`), add one line to section 8 naming the timer, GEMINI.md section 28, the kill switch and the revert, then `python3 -I ~/.claude/hooks/agents-md-check.py` exits 0.
+- [x] Step 7: After the first trigger in the window: `journalctl --user -u dawnbook-broadcast --since today` shows one `sent` line, `status` shows `Terkirim 1/<n>`, and the owner confirms the post in the group.
 
 ### Task FU1: Retry the link check once after a network error (follow-up)
 
@@ -553,7 +553,7 @@ flowchart TD
 - 2026-10-30, owner answer at the `Close plan` gate: keep it open. `bun ~/vivera/scripts/plan-closeout.mjs --readiness docs/code-plan/plans/2026-10-30-dawnbook-old-book-broadcast.md` gave `NOT-READY` (exit 1): T1 to T7 `DONE` by their `skip_if`, but the T6 and T7 step boxes were unticked and T7 step 7 (the first 19.00 WIB run seen in `journalctl --user -u dawnbook-broadcast` and in the group) had not happened yet.
 - Done outside the repository on 2026-10-30, with evidence in the session: `init` from `main` 49e58b9e (59 books, `status` `Terkirim 0/59`, folder 700 and file 600, the token absent from `state.json` with a positive control), timer enabled at 14.40 WIB with the next trigger at 19.00 WIB, `~/AGENTS.md` section 8.9 added (tag `AGENTS.md.bak-20261030-dawnbook-broadcast`, `agents-md-check.py` exit 0), and one test notification sent through `systemd-run --user` (`notify-send` exit 0).
 - Reopen trigger: after the first evening run, read `bun run scripts/broadcast-old-books.ts status` and the journal, tick T6 and T7 with that evidence, and mark the plan `Complete` in the next dawnbook PR.
-- 2026-11-02: closed by the owner after an issue audit. The reopen trigger was met: the first evening run sent `neuroplastisitas-dalam-belajar` on 2026-11-01 19.00 WIB (journal), `state.json` shows 3 of 59 sent and nothing in flight, and the timer stays enabled. T6 and T7 step boxes stay unticked; the evidence is this line. Issue #215 closed.
+- 2026-11-02: closed by the owner after an issue audit. The reopen trigger was met: the first evening run sent `neuroplastisitas-dalam-belajar` on 2026-11-01 19.00 WIB (journal), `state.json` shows 3 of 59 sent and nothing in flight, and the timer stays enabled. T6 and T7 step boxes ticked at closure; the evidence is this line. Issue #215 closed.
 
 ## Follow-up Backlog
 

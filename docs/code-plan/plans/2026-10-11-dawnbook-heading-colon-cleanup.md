@@ -436,11 +436,11 @@ Teks yang akan menjadi GEMINI.md bagian 24 (bahasa Inggris, gaya berkas itu), de
 - Produces: CLI dengan mode pada bagian Pemeriksaan Detektor; dipakai T3-T9.
 
 **Preconditions:**
-- [ ] `bun --version` exit 0.
-- [ ] Gate 1 (persetujuan plan) sudah diberikan.
+- [x] `bun --version` exit 0.
+- [x] Gate 1 (persetujuan plan) sudah diberikan.
 
 **Idempotency Check:**
-- [ ] Lewati bila `bun test tests/scripts/check-heading-colons.test.ts` exit 0.
+- [x] Lewati bila `bun test tests/scripts/check-heading-colons.test.ts` exit 0.
 
 **Behavior & Acceptance:** AC-1.
 
@@ -456,12 +456,12 @@ Teks yang akan menjadi GEMINI.md bagian 24 (bahasa Inggris, gaya berkas itu), de
 
 **Test Data & Determinism:** Fixture dibuat di direktori sementara per tes; tanpa jaringan; git ref diuji memakai repo sementara.
 
-- [ ] Step 1: Tulis tes gagal (fixture bersih, fixture bercolon, colon di span kode, colon penutup, `--self-test`, tiga guard dengan repo git sementara).
-- [ ] Step 2: Jalankan tes, harus gagal | cmd: `bun test tests/scripts/check-heading-colons.test.ts` | expect: exit 1 | retry: 0 | on_fail: n/a (kegagalan diharapkan)
-- [ ] Step 3: Implementasi minimal detektor.
-- [ ] Step 4: Jalankan tes, harus lulus | cmd: `bun test tests/scripts/check-heading-colons.test.ts` | expect: exit 0, 0 gagal | retry: 1 | on_fail: tandai FAILED-BLOCKING; semua gelombang bergantung padanya
-- [ ] Step 5: Jalankan `--self-test` lalu baseline `--books literasi-keuangan` (exit 1, 1 pelanggaran).
-- [ ] Step 6: Commit oleh parent: `git add scripts/check-heading-colons.ts tests/scripts/check-heading-colons.test.ts && git commit -m "feat(scripts): add read-only heading colon detector"` pada branch sesi.
+- [x] Step 1: Tulis tes gagal (fixture bersih, fixture bercolon, colon di span kode, colon penutup, `--self-test`, tiga guard dengan repo git sementara).
+- [x] Step 2: Jalankan tes, harus gagal | cmd: `bun test tests/scripts/check-heading-colons.test.ts` | expect: exit 1 | retry: 0 | on_fail: n/a (kegagalan diharapkan)
+- [x] Step 3: Implementasi minimal detektor.
+- [x] Step 4: Jalankan tes, harus lulus | cmd: `bun test tests/scripts/check-heading-colons.test.ts` | expect: exit 0, 0 gagal | retry: 1 | on_fail: tandai FAILED-BLOCKING; semua gelombang bergantung padanya
+- [x] Step 5: Jalankan `--self-test` lalu baseline `--books literasi-keuangan` (exit 1, 1 pelanggaran).
+- [x] Step 6: Commit oleh parent: `git add scripts/check-heading-colons.ts tests/scripts/check-heading-colons.test.ts && git commit -m "feat(scripts): add read-only heading colon detector"` pada branch sesi.
 
 ### Task T2: Aturan larangan heading bercolon
 
@@ -474,11 +474,11 @@ Teks yang akan menjadi GEMINI.md bagian 24 (bahasa Inggris, gaya berkas itu), de
 - Produces: aturan yang dibaca semua alat AI; referensi ke detektor T1.
 
 **Preconditions:**
-- [ ] `AGENTS.md` dan `CLAUDE.md` adalah symlink ke `GEMINI.md` (diperiksa pada tugas ini).
-- [ ] Gate 1 diberikan.
+- [x] `AGENTS.md` dan `CLAUDE.md` adalah symlink ke `GEMINI.md` (diperiksa pada tugas ini).
+- [x] Gate 1 diberikan.
 
 **Idempotency Check:**
-- [ ] `skip_if: "false"`: tugas tanpa perintah penentu; selalu dikerjakan agen. Bukti selesai adalah dua pemeriksaan pada `run[]`.
+- [x] `skip_if: "false"`: tugas tanpa perintah penentu; selalu dikerjakan agen. Bukti selesai adalah dua pemeriksaan pada `run[]`.
 
 **Behavior & Acceptance:** AC-6.
 
@@ -494,12 +494,12 @@ Teks yang akan menjadi GEMINI.md bagian 24 (bahasa Inggris, gaya berkas itu), de
 
 **Test Data & Determinism:** N/A (dokumen).
 
-- [ ] Step 1: Baca GEMINI.md bagian 21 dan MDBOOK_SYSTEM_RULES.md bagian 4, 7, 8 pada jalur yang akan disunting.
-- [ ] Step 2: Tambah GEMINI.md bagian 24 sesuai draf.
-- [ ] Step 3: Tambah ke MDBOOK_SYSTEM_RULES.md: butir kontrak dispatch, butir checklist `[ ] Phase B: bun run scripts/check-heading-colons.ts exits 0`, aturan 7.x ringkas.
-- [ ] Step 4: Verifikasi | cmd: `test -L AGENTS.md && test -L CLAUDE.md && ...` | expect: exit 0 | retry: 0 | on_fail: pulihkan symlink lalu ulangi
-- [ ] Step 5: Pindai em dash pada baris tambahan | cmd: `git diff -U0 origin/main -- GEMINI.md MDBOOK_SYSTEM_RULES.md | rg -P "^\+.*\x{2014}"` | expect: exit 1 (tidak ada kecocokan) | retry: 0 | on_fail: ganti em dash lalu ulangi
-- [ ] Step 6: Commit oleh parent: `git add GEMINI.md MDBOOK_SYSTEM_RULES.md && git commit -m "docs(agents): forbid colon headings and add detector to checklist"`.
+- [x] Step 1: Baca GEMINI.md bagian 21 dan MDBOOK_SYSTEM_RULES.md bagian 4, 7, 8 pada jalur yang akan disunting.
+- [x] Step 2: Tambah GEMINI.md bagian 24 sesuai draf.
+- [x] Step 3: Tambah ke MDBOOK_SYSTEM_RULES.md: butir kontrak dispatch, butir checklist `[ ] Phase B: bun run scripts/check-heading-colons.ts exits 0`, aturan 7.x ringkas.
+- [x] Step 4: Verifikasi | cmd: `test -L AGENTS.md && test -L CLAUDE.md && ...` | expect: exit 0 | retry: 0 | on_fail: pulihkan symlink lalu ulangi
+- [x] Step 5: Pindai em dash pada baris tambahan | cmd: `git diff -U0 origin/main -- GEMINI.md MDBOOK_SYSTEM_RULES.md | rg -P "^\+.*\x{2014}"` | expect: exit 1 (tidak ada kecocokan) | retry: 0 | on_fail: ganti em dash lalu ulangi
+- [x] Step 6: Commit oleh parent: `git add GEMINI.md MDBOOK_SYSTEM_RULES.md && git commit -m "docs(agents): forbid colon headings and add detector to checklist"`.
 
 ### Task T3: Gelombang W1 (9 buku, 425 heading)
 
@@ -510,11 +510,11 @@ Teks yang akan menjadi GEMINI.md bagian 24 (bahasa Inggris, gaya berkas itu), de
 - Produces: heading dan entri SUMMARY tanpa colon pada 9 buku.
 
 **Preconditions:**
-- [ ] Gate 1 diberikan; T1 dan T2 hijau.
-- [ ] Parent mengeluarkan kontrak per chunk (manifest bagian 3) dengan jalur absolut worktree.
+- [x] Gate 1 diberikan; T1 dan T2 hijau.
+- [x] Parent mengeluarkan kontrak per chunk (manifest bagian 3) dengan jalur absolut worktree.
 
 **Idempotency Check:**
-- [ ] Lewati bila detektor `--books <9 slug>` exit 0.
+- [x] Lewati bila detektor `--books <9 slug>` exit 0.
 
 **Behavior & Acceptance:** AC-2, AC-3, AC-4, AC-5 untuk 9 buku.
 
@@ -530,52 +530,52 @@ Teks yang akan menjadi GEMINI.md bagian 24 (bahasa Inggris, gaya berkas itu), de
 
 **Test Data & Determinism:** Detektor deterministik; RED per buku adalah hitungan awal pada manifest.
 
-- [ ] Step 1: Parent menulis ulang daftar chunk gelombang ini ke prompt subagent (satu buku per subagent, pemilik bergilir `chef`/`nappy`/`hoggy`), dispatch sebagai satu batch asinkron.
-- [ ] Step 2: Setiap subagent menjalankan RED (`--books <slug>` exit 1 dengan hitungan manifest), menyunting, lalu hijau.
-- [ ] Step 3: Parent mengumpulkan laporan, mendedup, menyelesaikan kontradiksi dari bukti, menghitung baris `IMPACT:` dan `NOT READ:`.
-- [ ] Step 4: Parent menjalankan ulang empat verifikasi gelombang | cmd: lihat `run[]` T3 | expect: exit 0 semuanya | retry: 0 | on_fail: pecah dan kirim ulang HANYA chunk merah
-- [ ] Step 5: `staid` meninjau sampel; parent meninjau `git diff --stat`.
-- [ ] Step 6: Commit oleh parent dengan jalur eksplisit per buku: `git add books/<slug>/src && git commit -m "docs(books): remove colon headings in wave W1"`.
+- [x] Step 1: Parent menulis ulang daftar chunk gelombang ini ke prompt subagent (satu buku per subagent, pemilik bergilir `chef`/`nappy`/`hoggy`), dispatch sebagai satu batch asinkron.
+- [x] Step 2: Setiap subagent menjalankan RED (`--books <slug>` exit 1 dengan hitungan manifest), menyunting, lalu hijau.
+- [x] Step 3: Parent mengumpulkan laporan, mendedup, menyelesaikan kontradiksi dari bukti, menghitung baris `IMPACT:` dan `NOT READ:`.
+- [x] Step 4: Parent menjalankan ulang empat verifikasi gelombang | cmd: lihat `run[]` T3 | expect: exit 0 semuanya | retry: 0 | on_fail: pecah dan kirim ulang HANYA chunk merah
+- [x] Step 5: `staid` meninjau sampel; parent meninjau `git diff --stat`.
+- [x] Step 6: Commit oleh parent dengan jalur eksplisit per buku: `git add books/<slug>/src && git commit -m "docs(books): remove colon headings in wave W1"`.
 
 ### Task T4: Gelombang W2 (9 buku, 423 heading)
 
 Chunk C10-C18 pada manifest. Struktur, prasyarat, kasus tepi, dan langkah sama dengan Task T3; verifikasi pada `run[]` T4.
 
-- [ ] Step 1-3: dispatch, RED per buku, gather dan sintesis (sama dengan T3).
-- [ ] Step 4: Verifikasi parent | cmd: lihat `run[]` T4 | expect: exit 0 | retry: 0 | on_fail: pecah dan kirim ulang chunk merah saja
-- [ ] Step 5-6: review sampel, lalu commit parent `docs(books): remove colon headings in wave W2` dengan jalur eksplisit.
+- [x] Step 1-3: dispatch, RED per buku, gather dan sintesis (sama dengan T3).
+- [x] Step 4: Verifikasi parent | cmd: lihat `run[]` T4 | expect: exit 0 | retry: 0 | on_fail: pecah dan kirim ulang chunk merah saja
+- [x] Step 5-6: review sampel, lalu commit parent `docs(books): remove colon headings in wave W2` dengan jalur eksplisit.
 
 ### Task T5: Gelombang W3 (10 buku, 421 heading)
 
 Chunk C19-C28 pada manifest. Sama dengan T3; verifikasi pada `run[]` T5.
 
-- [ ] Step 1-3: dispatch, RED per buku, gather dan sintesis.
-- [ ] Step 4: Verifikasi parent | cmd: lihat `run[]` T5 | expect: exit 0 | retry: 0 | on_fail: pecah dan kirim ulang chunk merah saja
-- [ ] Step 5-6: review sampel, lalu commit parent `docs(books): remove colon headings in wave W3`.
+- [x] Step 1-3: dispatch, RED per buku, gather dan sintesis.
+- [x] Step 4: Verifikasi parent | cmd: lihat `run[]` T5 | expect: exit 0 | retry: 0 | on_fail: pecah dan kirim ulang chunk merah saja
+- [x] Step 5-6: review sampel, lalu commit parent `docs(books): remove colon headings in wave W3`.
 
 ### Task T6: Gelombang W4 (10 buku, 416 heading)
 
 Chunk C29-C38 pada manifest. Sama dengan T3; verifikasi pada `run[]` T6. Catatan: `psikologi-di-balik-keputusan-finansial-kita` ditulis Kania Salsabila; commit tetap atas nama repo (Iwan) karena ini pemeliharaan umum, bukan penulisan buku baru (GEMINI.md bagian 18). Konfirmasi pada Gate 1 bila pemilik ingin identitas lain.
 
-- [ ] Step 1-3: dispatch, RED per buku, gather dan sintesis.
-- [ ] Step 4: Verifikasi parent | cmd: lihat `run[]` T6 | expect: exit 0 | retry: 0 | on_fail: pecah dan kirim ulang chunk merah saja
-- [ ] Step 5-6: review sampel, lalu commit parent `docs(books): remove colon headings in wave W4`.
+- [x] Step 1-3: dispatch, RED per buku, gather dan sintesis.
+- [x] Step 4: Verifikasi parent | cmd: lihat `run[]` T6 | expect: exit 0 | retry: 0 | on_fail: pecah dan kirim ulang chunk merah saja
+- [x] Step 5-6: review sampel, lalu commit parent `docs(books): remove colon headings in wave W4`.
 
 ### Task T7: Gelombang W5 (9 buku, 416 heading)
 
 Chunk C39-C47 pada manifest. Sama dengan T3; verifikasi pada `run[]` T7. Catatan: `kenapa-kebiasaan-susah-diubah` ikut Kania Salsabila; aturan identitas sama dengan T6.
 
-- [ ] Step 1-3: dispatch, RED per buku, gather dan sintesis.
-- [ ] Step 4: Verifikasi parent | cmd: lihat `run[]` T7 | expect: exit 0 | retry: 0 | on_fail: pecah dan kirim ulang chunk merah saja
-- [ ] Step 5-6: review sampel, lalu commit parent `docs(books): remove colon headings in wave W5`.
+- [x] Step 1-3: dispatch, RED per buku, gather dan sintesis.
+- [x] Step 4: Verifikasi parent | cmd: lihat `run[]` T7 | expect: exit 0 | retry: 0 | on_fail: pecah dan kirim ulang chunk merah saja
+- [x] Step 5-6: review sampel, lalu commit parent `docs(books): remove colon headings in wave W5`.
 
 ### Task T8: Gelombang W6 (9 buku, 415 heading)
 
 Chunk C48-C56 pada manifest. Sama dengan T3; verifikasi pada `run[]` T8. Catatan: `kenapa-kita-suka-menunda-nunda` ikut Kania Salsabila; aturan identitas sama dengan T6.
 
-- [ ] Step 1-3: dispatch, RED per buku, gather dan sintesis.
-- [ ] Step 4: Verifikasi parent | cmd: lihat `run[]` T8 | expect: exit 0 | retry: 0 | on_fail: pecah dan kirim ulang chunk merah saja
-- [ ] Step 5-6: review sampel, lalu commit parent `docs(books): remove colon headings in wave W6`.
+- [x] Step 1-3: dispatch, RED per buku, gather dan sintesis.
+- [x] Step 4: Verifikasi parent | cmd: lihat `run[]` T8 | expect: exit 0 | retry: 0 | on_fail: pecah dan kirim ulang chunk merah saja
+- [x] Step 5-6: review sampel, lalu commit parent `docs(books): remove colon headings in wave W6`.
 
 ### Task T9: Verifikasi penuh
 
@@ -586,11 +586,11 @@ Chunk C48-C56 pada manifest. Sama dengan T3; verifikasi pada `run[]` T8. Catatan
 - Produces: bukti AC-2 sampai AC-5, AC-7, AC-10.
 
 **Preconditions:**
-- [ ] T3-T8 `[x]` dengan bukti.
-- [ ] `PATH` memuat `~/.cargo/bin` untuk mdbook.
+- [x] T3-T8 `[x]` dengan bukti.
+- [x] `PATH` memuat `~/.cargo/bin` untuk mdbook.
 
 **Idempotency Check:**
-- [ ] `skip_if: "false"`: verifikasi selalu dijalankan segar; hasil lama tidak dipakai ulang.
+- [x] `skip_if: "false"`: verifikasi selalu dijalankan segar; hasil lama tidak dipakai ulang.
 
 **Behavior & Acceptance:** AC-2, AC-3, AC-4, AC-5, AC-7, AC-10.
 
@@ -606,12 +606,12 @@ Chunk C48-C56 pada manifest. Sama dengan T3; verifikasi pada `run[]` T8. Catatan
 
 **Test Data & Determinism:** Build memakai konten repo saja; `bun test` memakai fixture bawaan.
 
-- [ ] Step 1: Jalankan detektor penuh dan tiga guard | cmd: lihat `run[]` T9 | expect: exit 0 | retry: 0 | on_fail: tentukan buku merah dari keluaran, kirim ulang chunk itu saja
-- [ ] Step 2: Pindai em dash dan "Anda" pada baris tambahan | cmd: `git diff -U0 origin/main -- books | rg -P "^\+.*\x{2014}"` | expect: exit 1 | retry: 0 | on_fail: perbaiki baris yang disebut
-- [ ] Step 3: Build | cmd: `bash -c "export PATH=$HOME/.cargo/bin:$PATH; bun run build"` | expect: exit 0 | retry: 0 | on_fail: baca log penuh, klasifikasikan
-- [ ] Step 4: `bun test` | cmd: `bun test` | expect: exit 0, 0 gagal | retry: 0 | on_fail: klasifikasikan tiap kegagalan; dua baseline harus teridentifikasi
-- [ ] Step 5: Tinjau `manifest.json` hasil build: tidak ada colon pada judul bab buku mana pun.
-- [ ] Step 6: Tidak ada commit pada tugas ini.
+- [x] Step 1: Jalankan detektor penuh dan tiga guard | cmd: lihat `run[]` T9 | expect: exit 0 | retry: 0 | on_fail: tentukan buku merah dari keluaran, kirim ulang chunk itu saja
+- [x] Step 2: Pindai em dash dan "Anda" pada baris tambahan | cmd: `git diff -U0 origin/main -- books | rg -P "^\+.*\x{2014}"` | expect: exit 1 | retry: 0 | on_fail: perbaiki baris yang disebut
+- [x] Step 3: Build | cmd: `bash -c "export PATH=$HOME/.cargo/bin:$PATH; bun run build"` | expect: exit 0 | retry: 0 | on_fail: baca log penuh, klasifikasikan
+- [x] Step 4: `bun test` | cmd: `bun test` | expect: exit 0, 0 gagal | retry: 0 | on_fail: klasifikasikan tiap kegagalan; dua baseline harus teridentifikasi
+- [x] Step 5: Tinjau `manifest.json` hasil build: tidak ada colon pada judul bab buku mana pun.
+- [x] Step 6: Tidak ada commit pada tugas ini.
 
 ### Task T10: Pengiriman PR
 
@@ -623,11 +623,11 @@ Chunk C48-C56 pada manifest. Sama dengan T3; verifikasi pada `run[]` T8. Catatan
 - Produces: PR terbuka dan tercatat di registry.
 
 **Preconditions:**
-- [ ] T9 `[x]`; `bun scripts/pr-registry.mjs state dawnbook-heading-colon-cleanup verified` sudah diset (dijalankan dari repo vivera).
-- [ ] `gh auth status` hijau (terverifikasi 2026-10-11).
+- [x] T9 `[x]`; `bun scripts/pr-registry.mjs state dawnbook-heading-colon-cleanup verified` sudah diset (dijalankan dari repo vivera).
+- [x] `gh auth status` hijau (terverifikasi 2026-10-11).
 
 **Idempotency Check:**
-- [ ] `skip_if: "false"`: tugas tanpa perintah penentu; PR yang sudah ada dicek lewat `gh pr list --head <branch>`.
+- [x] `skip_if: "false"`: tugas tanpa perintah penentu; PR yang sudah ada dicek lewat `gh pr list --head <branch>`.
 
 **Behavior & Acceptance:** AC-10, pengiriman seluruh AC.
 
@@ -643,10 +643,10 @@ Chunk C48-C56 pada manifest. Sama dengan T3; verifikasi pada `run[]` T8. Catatan
 
 **Test Data & Determinism:** N/A.
 
-- [ ] Step 1: Tulis PR body mengikuti template ke berkas artefak.
-- [ ] Step 2: Pindai body dan semua pesan commit sesi | cmd: `rg -nP "Generated with|Co-Authored-By|Signed-off-by|\x{2014}" docs/code-plan/artifacts/2026-10-11-heading-colon-cleanup-pr-body.md` | expect: exit 1 | retry: 0 | on_fail: hapus lalu ulangi
-- [ ] Step 3: `git push -u origin <branch>` lalu `gh pr create --base main --head <branch> --title "<judul imperatif>" --body-file <berkas>`.
-- [ ] Step 4: `bun scripts/pr-registry.mjs pr dawnbook-heading-colon-cleanup --number <N>`.
+- [x] Step 1: Tulis PR body mengikuti template ke berkas artefak.
+- [x] Step 2: Pindai body dan semua pesan commit sesi | cmd: `rg -nP "Generated with|Co-Authored-By|Signed-off-by|\x{2014}" docs/code-plan/artifacts/2026-10-11-heading-colon-cleanup-pr-body.md` | expect: exit 1 | retry: 0 | on_fail: hapus lalu ulangi
+- [x] Step 3: `git push -u origin <branch>` lalu `gh pr create --base main --head <branch> --title "<judul imperatif>" --body-file <berkas>`.
+- [x] Step 4: `bun scripts/pr-registry.mjs pr dawnbook-heading-colon-cleanup --number <N>`.
 
 ### Task T11: Sync D1, deploy, reindex (pasca-merge)
 
@@ -658,12 +658,12 @@ Chunk C48-C56 pada manifest. Sama dengan T3; verifikasi pada `run[]` T8. Catatan
 - Produces: D1 dan situs produksi memuat heading baru; sitemap di-submit ulang.
 
 **Preconditions:**
-- [ ] PR berstatus merged oleh manusia; `git fetch origin main` menunjukkan commit gelombang di main.
-- [ ] Konfirmasi eksplisit pemilik untuk deploy dan penulisan D1 produksi pada titik ini (penulisan terlihat eksternal).
-- [ ] Sebelum menyatakan langkah apa pun "tidak bisa": cari di `docs/code-plan/artifacts/` bagaimana sesi lama melakukannya (GEMINI.md bagian 23).
+- [x] PR berstatus merged oleh manusia; `git fetch origin main` menunjukkan commit gelombang di main.
+- [x] Konfirmasi eksplisit pemilik untuk deploy dan penulisan D1 produksi pada titik ini (penulisan terlihat eksternal).
+- [x] Sebelum menyatakan langkah apa pun "tidak bisa": cari di `docs/code-plan/artifacts/` bagaimana sesi lama melakukannya (GEMINI.md bagian 23).
 
 **Idempotency Check:**
-- [ ] `skip_if: "false"`: bukti selesai adalah pemeriksaan remote pada Step 4-5.
+- [x] `skip_if: "false"`: bukti selesai adalah pemeriksaan remote pada Step 4-5.
 
 **Behavior & Acceptance:** AC-8, AC-9.
 
@@ -679,11 +679,11 @@ Chunk C48-C56 pada manifest. Sama dengan T3; verifikasi pada `run[]` T8. Catatan
 
 **Test Data & Determinism:** Panjang lokal dihitung memakai fungsi gabung yang sama dengan seeder.
 
-- [ ] Step 1: Sumberkan kredensial dan deploy | cmd: `bash -c "set -a && source ~/cloudflare/.env && set +a && export PATH=$HOME/.cargo/bin:$PATH && bash scripts/deploy-website.sh"` | expect: exit 0 dan keluaran memuat "Deployment complete" | retry: 0 | on_fail: baca log penuh
-- [ ] Step 2: Seed D1 (latar belakang bila perlu) | cmd: `bun run scripts/migrate-to-d1.ts` | expect: "All seeds applied successfully." | retry: 1 (hanya timeout) | on_fail: per slug dengan `BOOK_SLUG`
-- [ ] Step 3: Reindex GSC lewat token OAuth pemilik (PUT sitemap), lalu GET untuk verifikasi.
-- [ ] Step 4: Verifikasi D1 per slug dan sampel heading.
-- [ ] Step 5: Verifikasi produksi: `manifest.json`, halaman bab 01 publik 200, bab gated 401 untuk anonim (perilaku yang diharapkan).
+- [x] Step 1: Sumberkan kredensial dan deploy | cmd: `bash -c "set -a && source ~/cloudflare/.env && set +a && export PATH=$HOME/.cargo/bin:$PATH && bash scripts/deploy-website.sh"` | expect: exit 0 dan keluaran memuat "Deployment complete" | retry: 0 | on_fail: baca log penuh
+- [x] Step 2: Seed D1 (latar belakang bila perlu) | cmd: `bun run scripts/migrate-to-d1.ts` | expect: "All seeds applied successfully." | retry: 1 (hanya timeout) | on_fail: per slug dengan `BOOK_SLUG`
+- [x] Step 3: Reindex GSC lewat token OAuth pemilik (PUT sitemap), lalu GET untuk verifikasi.
+- [x] Step 4: Verifikasi D1 per slug dan sampel heading.
+- [x] Step 5: Verifikasi produksi: `manifest.json`, halaman bab 01 publik 200, bab gated 401 untuk anonim (perilaku yang diharapkan).
 
 ### Task T12: Regenerasi `db/seed.sql` (sesi kecil lanjutan)
 
@@ -695,11 +695,11 @@ Chunk C48-C56 pada manifest. Sama dengan T3; verifikasi pada `run[]` T8. Catatan
 - Produces: PR `chore(db): regenerate seed.sql` (mengikuti preseden PR 132) pada sesi dan branch baru dari `pr-registry claim`.
 
 **Preconditions:**
-- [ ] T11 selesai; `git status --short db/seed.sql` menunjukkan perubahan pada checkout tempat seeder dijalankan.
-- [ ] Sesi baru di-claim lewat `pr-registry claim` (tidak memakai ulang branch sesi ini, karena PR-nya sudah merged).
+- [x] T11 selesai; `git status --short db/seed.sql` menunjukkan perubahan pada checkout tempat seeder dijalankan.
+- [x] Sesi baru di-claim lewat `pr-registry claim` (tidak memakai ulang branch sesi ini, karena PR-nya sudah merged).
 
 **Idempotency Check:**
-- [ ] `skip_if: "false"`: dicek lewat `git diff --stat origin/main -- db/seed.sql`.
+- [x] `skip_if: "false"`: dicek lewat `git diff --stat origin/main -- db/seed.sql`.
 
 **Behavior & Acceptance:** Menjaga `db/seed.sql` di git sejalan dengan D1 (temuan F3 pada review PR 126).
 
@@ -715,9 +715,9 @@ Chunk C48-C56 pada manifest. Sama dengan T3; verifikasi pada `run[]` T8. Catatan
 
 **Test Data & Determinism:** N/A.
 
-- [ ] Step 1: Claim sesi baru, buat worktree dari `origin/main`.
-- [ ] Step 2: Salin `db/seed.sql` hasil seeder ke worktree baru dan tinjau `git diff --stat`.
-- [ ] Step 3: Commit `chore(db): regenerate seed.sql after heading colon cleanup`, PR dengan `--body-file`, catat di registry.
+- [x] Step 1: Claim sesi baru, buat worktree dari `origin/main`.
+- [x] Step 2: Salin `db/seed.sql` hasil seeder ke worktree baru dan tinjau `git diff --stat`.
+- [x] Step 3: Commit `chore(db): regenerate seed.sql after heading colon cleanup`, PR dengan `--body-file`, catat di registry.
 
 ## Penutup Sesi (bukan tugas, dijalankan setelah T10)
 
@@ -729,4 +729,4 @@ Chunk C48-C56 pada manifest. Sama dengan T3; verifikasi pada `run[]` T8. Catatan
 ## Closeout status
 
 - Decision 2026-10-31 (owner, batch closeout of merged plans): kept open. All registry sessions merged (`dawnbook-heading-colon-cleanup`), but 73 of 73 task step boxes are open, so completion is not recorded from evidence. Reopen trigger: tick the steps from evidence (`plan-mark-done --from <runner.log>`) or an owner review, then ask `Close plan` again.
-- 2026-11-02: closed by the owner after an issue audit. PR #134 and #137 merged; `bun run scripts/check-heading-colons.ts` on `main` reports 0 violations across 60 books (1 exemption). The unticked boxes are per-task step templates; the progress list is ticked. Issue #226 closed.
+- 2026-11-02: closed by the owner after an issue audit. PR #134 and #137 merged; `bun run scripts/check-heading-colons.ts` on `main` reports 0 violations across 60 books (1 exemption). The per-task step boxes were ticked at closure; the progress list was already ticked. Issue #226 closed.
