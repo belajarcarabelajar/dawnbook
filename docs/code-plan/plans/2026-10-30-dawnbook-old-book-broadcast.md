@@ -1,7 +1,7 @@
 ---
 schema: ultra-plan/v1
 plan_id: 2026-10-30-dawnbook-old-book-broadcast
-status: InProgress
+status: Complete
 version: 1
 runner_contract: true
 skill: "super-ultra-code-plan (loaded through the Skill tool from ~/.claude/skills/super-ultra-code-plan/SKILL.md)"
@@ -553,6 +553,7 @@ flowchart TD
 - 2026-10-30, owner answer at the `Close plan` gate: keep it open. `bun ~/vivera/scripts/plan-closeout.mjs --readiness docs/code-plan/plans/2026-10-30-dawnbook-old-book-broadcast.md` gave `NOT-READY` (exit 1): T1 to T7 `DONE` by their `skip_if`, but the T6 and T7 step boxes were unticked and T7 step 7 (the first 19.00 WIB run seen in `journalctl --user -u dawnbook-broadcast` and in the group) had not happened yet.
 - Done outside the repository on 2026-10-30, with evidence in the session: `init` from `main` 49e58b9e (59 books, `status` `Terkirim 0/59`, folder 700 and file 600, the token absent from `state.json` with a positive control), timer enabled at 14.40 WIB with the next trigger at 19.00 WIB, `~/AGENTS.md` section 8.9 added (tag `AGENTS.md.bak-20261030-dawnbook-broadcast`, `agents-md-check.py` exit 0), and one test notification sent through `systemd-run --user` (`notify-send` exit 0).
 - Reopen trigger: after the first evening run, read `bun run scripts/broadcast-old-books.ts status` and the journal, tick T6 and T7 with that evidence, and mark the plan `Complete` in the next dawnbook PR.
+- 2026-11-02: closed by the owner after an issue audit. The reopen trigger was met: the first evening run sent `neuroplastisitas-dalam-belajar` on 2026-11-01 19.00 WIB (journal), `state.json` shows 3 of 59 sent and nothing in flight, and the timer stays enabled. T6 and T7 step boxes stay unticked; the evidence is this line. Issue #215 closed.
 
 ## Follow-up Backlog
 

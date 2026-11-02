@@ -1,7 +1,7 @@
 ---
 schema: ultra-plan/v1
 plan_id: 2026-10-11-dawnbook-heading-colon-cleanup
-status: InProgress
+status: Complete
 version: 1
 runner_contract: true
 skill: "super-ultra-code-plan (file pertama yang ditemukan pada chain: /home/belajarcarabelajar/vivera/Super Ultra Code Plan Implementation.md)"
@@ -729,3 +729,4 @@ Chunk C48-C56 pada manifest. Sama dengan T3; verifikasi pada `run[]` T8. Catatan
 ## Closeout status
 
 - Decision 2026-10-31 (owner, batch closeout of merged plans): kept open. All registry sessions merged (`dawnbook-heading-colon-cleanup`), but 73 of 73 task step boxes are open, so completion is not recorded from evidence. Reopen trigger: tick the steps from evidence (`plan-mark-done --from <runner.log>`) or an owner review, then ask `Close plan` again.
+- 2026-11-02: closed by the owner after an issue audit. PR #134 and #137 merged; `bun run scripts/check-heading-colons.ts` on `main` reports 0 violations across 60 books (1 exemption). The unticked boxes are per-task step templates; the progress list is ticked. Issue #226 closed.
