@@ -17,6 +17,18 @@ describe("functions/lib/auth.ts", () => {
     expect(extractSessionId(reqInvalid)).toBeNull();
   });
 
+  test("extractSessionId reads __Host-session_id and ignores a plain session_id cookie", () => {
+    const hostReq = new Request("https://example.com", {
+      headers: { Cookie: `__Host-session_id=${SESSION_HEX}` },
+    });
+    expect(extractSessionId(hostReq)).toBe(SESSION_HEX);
+
+    const plainReq = new Request("https://example.com", {
+      headers: { Cookie: `session_id=${SESSION_HEX}` },
+    });
+    expect(extractSessionId(plainReq)).toBeNull();
+  });
+
   test("verifySession handles last_seen_at UPDATE failure silently", async () => {
     const env = createMockEnv();
 
@@ -47,7 +59,7 @@ describe("functions/lib/auth.ts", () => {
     }) as any;
 
     const req = new Request("https://example.com", {
-      headers: { Cookie: `session_id=${SESSION_HEX}` },
+      headers: { Cookie: `__Host-session_id=${SESSION_HEX}` },
     });
     const session = await verifySession(req, env as any);
     expect(session).not.toBeNull();
@@ -88,7 +100,7 @@ describe("functions/lib/auth.ts", () => {
   }
 
   const sessionRequest = () =>
-    new Request("https://example.com", { headers: { Cookie: `session_id=${SESSION_HEX}` } });
+    new Request("https://example.com", { headers: { Cookie: `__Host-session_id=${SESSION_HEX}` } });
 
   test("verifySession skips the last_seen_at UPDATE when it is under 5 minutes old", async () => {
     const { env, updates } = envWithLastSeen(new Date(Date.now() - 60_000).toISOString());

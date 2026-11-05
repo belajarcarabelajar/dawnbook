@@ -49,7 +49,7 @@ describe("/api/auth/login", () => {
     expect(loc).toContain("scope=openid+email+profile");
     expect(loc).toMatch(/state=[a-f0-9]+/);
     const setCookie = res.headers.get("Set-Cookie")!;
-    expect(setCookie).toContain("oauth_state=");
+    expect(setCookie).toContain("__Host-oauth_state=");
     expect(setCookie).toContain("HttpOnly");
     expect(setCookie).toContain("Secure");
     expect(setCookie).toContain("SameSite=Lax");
@@ -61,7 +61,7 @@ describe("/api/auth/login", () => {
     const req = new Request("https://example.com/api/auth/login?redirect_url=/appreciation.html");
     const res = await loginHandler({ request: req, env } as any);
     const cookies = res.headers.get("Set-Cookie")!;
-    expect(cookies).toContain("oauth_redirect=");
+    expect(cookies).toContain("__Host-oauth_redirect=");
     // URL-encoded "/" is %2F
     expect(cookies).toContain("%2Fappreciation.html");
   });
@@ -73,7 +73,7 @@ describe("/api/auth/login", () => {
     const res = await loginHandler({ request: req, env } as any);
     const cookies = res.headers.get("Set-Cookie")!;
     // No oauth_redirect cookie should be set when redirect_url is unsafe.
-    expect(cookies).not.toContain("oauth_redirect=");
+    expect(cookies).not.toContain("__Host-oauth_redirect=");
   });
 
   test("redirects to /sign-in?error=bot_detected when Turnstile token verification fails", async () => {
@@ -157,7 +157,7 @@ describe("/api/auth/callback", () => {
     const env = createMockEnv(ENV_OVERRIDES) as unknown as Env;
     setEnvHandlers(env);
     const url = `${baseUrl}?code=abc&state=${STATE_HEX}`;
-    const req = new Request(url, { headers: { Cookie: `oauth_state=00ff00ff` } });
+    const req = new Request(url, { headers: { Cookie: `__Host-oauth_state=00ff00ff` } });
     const res = await callbackHandler({ request: req, env } as any);
     expect(res.status).toBe(302);
     expect(res.headers.get("Location")).toContain("error=state_mismatch");
@@ -167,7 +167,7 @@ describe("/api/auth/callback", () => {
     const env = createMockEnv(ENV_OVERRIDES) as unknown as Env;
     setEnvHandlers(env);
     const url = `${baseUrl}?code=abc&state=ZZZZ`;
-    const req = new Request(url, { headers: { Cookie: `oauth_state=ZZZZ` } });
+    const req = new Request(url, { headers: { Cookie: `__Host-oauth_state=ZZZZ` } });
     const res = await callbackHandler({ request: req, env } as any);
     expect(res.status).toBe(302);
     expect(res.headers.get("Location")).toContain("error=state_mismatch");
@@ -203,7 +203,7 @@ describe("/api/auth/callback", () => {
     const url = `${baseUrl}?code=valid_code&state=${STATE_HEX}`;
     const req = new Request(url, {
       headers: {
-        Cookie: `oauth_state=${STATE_HEX}; oauth_redirect=%2Fappreciation.html`,
+        Cookie: `__Host-oauth_state=${STATE_HEX}; __Host-oauth_redirect=%2Fappreciation.html`,
         "CF-Connecting-IP": "203.0.113.1",
         "User-Agent": "bun-test",
       },
@@ -212,11 +212,11 @@ describe("/api/auth/callback", () => {
 
     expect(res.status).toBe(302);
     const setCookie = res.headers.get("Set-Cookie")!;
-    expect(setCookie).toMatch(/session_id=[a-f0-9]{64}/);
+    expect(setCookie).toMatch(/__Host-session_id=[a-f0-9]{64}/);
     expect(setCookie).toContain("HttpOnly");
     expect(setCookie).toContain("Path=/");
-    expect(setCookie).toContain("oauth_state=;"); // cleared
-    expect(setCookie).toContain("oauth_redirect=;"); // cleared
+    expect(setCookie).toContain("__Host-oauth_state=;"); // cleared
+    expect(setCookie).toContain("__Host-oauth_redirect=;"); // cleared
     expect(res.headers.get("Location")).toContain("/appreciation.html");
   });
 
@@ -243,7 +243,7 @@ describe("/api/auth/callback", () => {
 
     const url = `${baseUrl}?code=valid_code&state=${STATE_HEX}`;
     // No oauth_redirect cookie at all.
-    const req = new Request(url, { headers: { Cookie: `oauth_state=${STATE_HEX}` } });
+    const req = new Request(url, { headers: { Cookie: `__Host-oauth_state=${STATE_HEX}` } });
     const res = await callbackHandler({ request: req, env } as any);
     const dest = new URL(res.headers.get("Location")!, "https://example.com");
     expect(dest.pathname).toBe("/");
@@ -256,7 +256,7 @@ describe("/api/auth/callback", () => {
     // Over the 60/10min per-IP limit.
     setQueryHandler(env, "INSERT", () => [{ count: 61, window_start: now, expires_at: now + 600 }]);
     const url = `${baseUrl}?code=abc&state=${STATE_HEX}`;
-    const req = new Request(url, { headers: { Cookie: `oauth_state=${STATE_HEX}` } });
+    const req = new Request(url, { headers: { Cookie: `__Host-oauth_state=${STATE_HEX}` } });
     const res = await callbackHandler({ request: req, env } as any);
     expect(res.status).toBe(302);
     expect(res.headers.get("Location")).toContain("error=rate_limited");
@@ -266,7 +266,7 @@ describe("/api/auth/callback", () => {
     const env = createMockEnv({ GOOGLE_CLIENT_ID: "client", GOOGLE_CLIENT_SECRET: "" }) as unknown as Env;
     setEnvHandlers(env);
     const url = `${baseUrl}?code=valid_code&state=${STATE_HEX}`;
-    const req = new Request(url, { headers: { Cookie: `oauth_state=${STATE_HEX}` } });
+    const req = new Request(url, { headers: { Cookie: `__Host-oauth_state=${STATE_HEX}` } });
     const res = await callbackHandler({ request: req, env } as any);
     expect(res.status).toBe(302);
     expect(res.headers.get("Location")).toContain("error=config");
@@ -281,12 +281,12 @@ describe("/api/auth/callback", () => {
       const env = createMockEnv(ENV_OVERRIDES) as unknown as Env;
       setEnvHandlers(env);
       const url = `${baseUrl}?code=bad_code&state=${STATE_HEX}`;
-      const req = new Request(url, { headers: { Cookie: `oauth_state=${STATE_HEX}` } });
+      const req = new Request(url, { headers: { Cookie: `__Host-oauth_state=${STATE_HEX}` } });
       const res = await callbackHandler({ request: req, env } as any);
       expect(res.status).toBe(302);
       expect(res.headers.get("Location")).toContain("error=google_exchange");
       const setCookie = res.headers.get("Set-Cookie")!;
-      expect(setCookie).toContain("oauth_state=");
+      expect(setCookie).toContain("__Host-oauth_state=");
       expect(setCookie).toContain("Max-Age=0");
       expect(consoleSpy).toHaveBeenCalledWith("[auth/callback] Google exchange failed:", expect.any(Error));
     } finally {
@@ -315,12 +315,12 @@ describe("/api/auth/callback", () => {
       const env = createMockEnv(ENV_OVERRIDES) as unknown as Env;
       setEnvHandlers(env);
       const url = `${baseUrl}?code=valid_code&state=${STATE_HEX}`;
-      const req = new Request(url, { headers: { Cookie: `oauth_state=${STATE_HEX}` } });
+      const req = new Request(url, { headers: { Cookie: `__Host-oauth_state=${STATE_HEX}` } });
       const res = await callbackHandler({ request: req, env } as any);
       expect(res.status).toBe(302);
       expect(res.headers.get("Location")).toContain("error=google_exchange");
       const setCookie = res.headers.get("Set-Cookie")!;
-      expect(setCookie).toContain("oauth_state=");
+      expect(setCookie).toContain("__Host-oauth_state=");
       expect(setCookie).toContain("Max-Age=0");
       expect(consoleSpy).toHaveBeenCalledWith("[auth/callback] Google exchange failed:", expect.any(Error));
     } finally {
@@ -337,7 +337,7 @@ describe("/api/auth/callback", () => {
         throw new Error("Fatal D1 Error");
       });
       const url = `${baseUrl}?code=valid_code&state=${STATE_HEX}`;
-      const req = new Request(url, { headers: { Cookie: `oauth_state=${STATE_HEX}` } });
+      const req = new Request(url, { headers: { Cookie: `__Host-oauth_state=${STATE_HEX}` } });
       const res = await callbackHandler({ request: req, env } as any);
       expect(res.status).toBe(302);
       expect(res.headers.get("Location")).toContain("error=server");
@@ -371,7 +371,7 @@ describe("/api/auth/callback", () => {
       });
 
       const url = `${baseUrl}?code=valid_code&state=${STATE_HEX}`;
-      const req = new Request(url, { headers: { Cookie: `oauth_state=${STATE_HEX}` } });
+      const req = new Request(url, { headers: { Cookie: `__Host-oauth_state=${STATE_HEX}` } });
       const res = await callbackHandler({ request: req, env } as any);
 
       expect(res.status).toBe(302);
@@ -392,7 +392,7 @@ describe("/api/auth/callback", () => {
       setQueryHandler(env, "SELECT", () => []);
 
       const url = `${baseUrl}?code=valid_code&state=${STATE_HEX}`;
-      const req = new Request(url, { headers: { Cookie: `oauth_state=${STATE_HEX}` } });
+      const req = new Request(url, { headers: { Cookie: `__Host-oauth_state=${STATE_HEX}` } });
       const res = await callbackHandler({ request: req, env } as any);
 
       expect(res.status).toBe(302);
@@ -411,7 +411,7 @@ describe("/api/auth/logout", () => {
     setEnvHandlers(env);
     const res = await onRequestPost({ request: new Request("https://example.com/api/auth/logout", { method: "POST" }), env } as any);
     expect(res.status).toBe(204);
-    expect(res.headers.get("Set-Cookie")).toContain("session_id=;");
+    expect(res.headers.get("Set-Cookie")).toContain("__Host-session_id=;");
     expect(res.headers.get("Set-Cookie")).toContain("Max-Age=0");
   });
 
@@ -420,11 +420,11 @@ describe("/api/auth/logout", () => {
     setEnvHandlers(env);
     const req = new Request("https://example.com/api/auth/logout", {
       method: "POST",
-      headers: { Cookie: `session_id=${SESSION_ID_HEX}` },
+      headers: { Cookie: `__Host-session_id=${SESSION_ID_HEX}` },
     });
     const res = await onRequestPost({ request: req, env } as any);
     expect(res.status).toBe(204);
-    expect(res.headers.get("Set-Cookie")).toContain("session_id=;");
+    expect(res.headers.get("Set-Cookie")).toContain("__Host-session_id=;");
   });
 
   test("GET answers 405 with Allow: POST and keeps the session", async () => {
@@ -437,7 +437,7 @@ describe("/api/auth/logout", () => {
       return prepare(sql);
     }) as any;
     const req = new Request("https://example.com/api/auth/logout", {
-      headers: { Cookie: `session_id=${SESSION_ID_HEX}` },
+      headers: { Cookie: `__Host-session_id=${SESSION_ID_HEX}` },
     });
     const res = await logoutGet({ request: req, env } as any);
     expect(res.status).toBe(405);
@@ -453,11 +453,11 @@ describe("/api/auth/logout", () => {
     });
     const req = new Request("https://example.com/api/auth/logout", {
       method: "POST",
-      headers: { Cookie: `session_id=${SESSION_ID_HEX}` },
+      headers: { Cookie: `__Host-session_id=${SESSION_ID_HEX}` },
     });
     const res = await onRequestPost({ request: req, env } as any);
     expect(res.status).toBe(204);
-    expect(res.headers.get("Set-Cookie")).toContain("session_id=;");
+    expect(res.headers.get("Set-Cookie")).toContain("__Host-session_id=;");
   });
 });
 
@@ -474,7 +474,7 @@ describe("/api/auth/me", () => {
     setEnvHandlers(env);
     setQueryHandler(env, "SELECT", () => []); // no row
     const req = new Request("https://example.com/api/auth/me", {
-      headers: { Cookie: `session_id=${SESSION_ID_HEX}` },
+      headers: { Cookie: `__Host-session_id=${SESSION_ID_HEX}` },
     });
     const res = await meHandler({ request: req, env } as any);
     expect(res.status).toBe(401);
@@ -492,7 +492,7 @@ describe("/api/auth/me", () => {
       u_created_at: "2000-01-01T00:00:00.000Z", u_last_login_at: "2000-01-01T00:00:00.000Z",
     }]);
     const req = new Request("https://example.com/api/auth/me", {
-      headers: { Cookie: `session_id=${SESSION_ID_HEX}` },
+      headers: { Cookie: `__Host-session_id=${SESSION_ID_HEX}` },
     });
     const res = await meHandler({ request: req, env } as any);
     expect(res.status).toBe(401);
@@ -510,7 +510,7 @@ describe("/api/auth/me", () => {
       u_created_at: "2024-01-01T00:00:00.000Z", u_last_login_at: "2024-01-01T00:00:00.000Z",
     }]);
     const req = new Request("https://example.com/api/auth/me", {
-      headers: { Cookie: `session_id=${SESSION_ID_HEX}` },
+      headers: { Cookie: `__Host-session_id=${SESSION_ID_HEX}` },
     });
     const res = await meHandler({ request: req, env } as any);
     expect(res.status).toBe(200);
@@ -537,7 +537,7 @@ describe("/api/auth/me", () => {
       u_created_at: "2024-01-01T00:00:00.000Z", u_last_login_at: "2024-01-01T00:00:00.000Z",
     }]);
     const req = new Request("https://example.com/api/auth/me", {
-      headers: { Cookie: `session_id=${SESSION_ID_HEX}` },
+      headers: { Cookie: `__Host-session_id=${SESSION_ID_HEX}` },
     });
     const res = await meHandler({ request: req, env } as any);
     expect(res.status).toBe(200);

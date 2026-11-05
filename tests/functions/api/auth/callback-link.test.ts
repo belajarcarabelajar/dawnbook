@@ -63,7 +63,7 @@ function installGoogleFetch(profile: GoogleProfile): () => void {
 
 async function callGoogleCallback(env: unknown): Promise<Response> {
   const req = new Request(`${BASE_URL}?code=valid_code&state=${STATE_HEX}`, {
-    headers: { Cookie: `oauth_state=${STATE_HEX}`, "CF-Connecting-IP": "203.0.113.9" },
+    headers: { Cookie: `__Host-oauth_state=${STATE_HEX}`, "CF-Connecting-IP": "203.0.113.9" },
   });
   return await callbackHandler({ request: req, env } as any);
 }
@@ -85,7 +85,7 @@ function sessions(sqlite: Database) {
 }
 
 function sessionCookie(res: Response): string | null {
-  const match = (res.headers.get("Set-Cookie") ?? "").match(/session_id=([a-f0-9]{64})/);
+  const match = (res.headers.get("Set-Cookie") ?? "").match(/__Host-session_id=([a-f0-9]{64})/);
   return match ? match[1] : null;
 }
 
@@ -220,7 +220,7 @@ describe("/api/auth/callback account linking", () => {
     const { sqlite, db } = createSqliteD1();
     restoreFetch = installGoogleFetch({ sub: "g-new", email: "baru@contoh.id" });
     const req = new Request(`${BASE_URL}?code=valid_code&state=${STATE_HEX}`, {
-      headers: { Cookie: `oauth_state=${STATE_HEX}; oauth_redirect=%E0%A4%A`, "CF-Connecting-IP": "203.0.113.9" },
+      headers: { Cookie: `__Host-oauth_state=${STATE_HEX}; __Host-oauth_redirect=%E0%A4%A`, "CF-Connecting-IP": "203.0.113.9" },
     });
 
     const res = await callbackHandler({

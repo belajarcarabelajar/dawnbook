@@ -87,11 +87,11 @@ The API is implemented as Cloudflare Pages Functions under `functions/api/books/
 | `/api/books/:slug` | GET | Public | Get a single book by slug |
 | `/api/auth/login` | GET | Public | Redirect to Google OAuth consent |
 | `/api/auth/callback` | GET | Public | Exchange OAuth code → set session cookie |
-| `/api/auth/logout` | POST | Public | Clear the session_id cookie |
+| `/api/auth/logout` | POST | Public | Clear the __Host-session_id cookie |
 | `/api/auth/me` | GET | Public | Current user JSON (or 401) |
 | `/api/progress` | GET / POST | D1 session | Reading progress (POST) + completed paths (GET) |
 
-Mutating endpoints require a valid `session_id` cookie (set automatically by `/api/auth/callback`). The browser sends it on every same-origin request; programmatic clients can also pass `Authorization: Session <hex>`.
+Mutating endpoints require a valid `__Host-session_id` cookie (set automatically by `/api/auth/callback`). The browser sends it on every same-origin request; programmatic clients can also pass `Authorization: Session <hex>`.
 
 ### Environment Variables (Pages)
 
@@ -223,7 +223,7 @@ Dawnbook uses a "free auth-gated content" model: book content beyond the first c
 1. Every request passes through `functions/_middleware.ts`.
 2. The middleware calls `isPublicPath()` (from `functions/lib/gating.ts`) to check the URL.
 3. **Public paths** → request passes through unchanged.
-4. **Gated paths** → middleware reads the `session_id` cookie (or `Authorization: Session <hex>` header), looks it up in D1 (`sessions` joined with `users`).
+4. **Gated paths** → middleware reads the `__Host-session_id` cookie (or `Authorization: Session <hex>` header), looks it up in D1 (`sessions` joined with `users`).
    - **Valid session** → request passes through, response gets `Cache-Control: private, no-store` and `Vary: Cookie` headers.
    - **Invalid/missing session** → HTML requests get `302` redirect to `/sign-in?redirect_url=...`; API requests get `401` JSON.
 

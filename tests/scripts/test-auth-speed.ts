@@ -34,7 +34,7 @@ const env: any = {
 };
 
 const req = new Request("https://dawnbook.belajarcarabelajar.com", {
-  headers: { Cookie: `session_id=${SID}` },
+  headers: { Cookie: `__Host-session_id=${SID}` },
 });
 
 async function run() {

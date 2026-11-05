@@ -4,7 +4,7 @@
  * Shared authentication logic for Cloudflare Pages Functions using D1 +
  * Google OAuth. Replaces the previous Clerk JWT-based flow.
  *
- * A session is identified by an opaque random `session_id` cookie (64-char
+ * A session is identified by an opaque random `__Host-session_id` cookie (64-char
  * hex). On every request, the cookie is looked up against the `sessions`
  * table; expiry and last-seen are checked; the joined `users` row is
  * returned as the authenticated principal.
@@ -17,6 +17,7 @@
  */
 
 import type { D1Database } from "@cloudflare/workers-types";
+import { SESSION_COOKIE } from "./cookies";
 
 export interface Env {
   DB: D1Database;
@@ -65,7 +66,7 @@ interface SessionRow {
 }
 
 /**
- * Extracts the session id from either the `session_id` cookie or the
+ * Extracts the session id from either the `__Host-session_id` cookie or the
  * `Authorization: Session <hex>` header. Returns null if absent or
  * malformed. Validates that the value is exactly 64 lowercase hex chars
  * (the format we generate on session creation).
@@ -77,8 +78,8 @@ export function extractSessionId(request: Request): string | null {
   const cookieHeader = request.headers.get("Cookie") ?? "";
   for (const part of cookieHeader.split(";")) {
     const c = part.trim();
-    if (c.startsWith("session_id=")) {
-      const v = c.slice("session_id=".length).trim();
+    if (c.startsWith(`${SESSION_COOKIE}=`)) {
+      const v = c.slice(SESSION_COOKIE.length + 1).trim();
       if (v && HEX64.test(v)) return v;
     }
   }

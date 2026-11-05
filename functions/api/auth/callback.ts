@@ -4,9 +4,9 @@
  * GET /api/auth/callback
  *
  * Handles the Google OAuth redirect. Validates the `state` against the
- * `oauth_state` cookie (one-shot), exchanges the `code` for an access
+ * `__Host-oauth_state` cookie (one-shot), exchanges the `code` for an access
  * token, fetches the userinfo, upserts the user into D1, creates a new
- * session, sets the `session_id` cookie, and 302-redirects to the
+ * session, sets the `__Host-session_id` cookie, and 302-redirects to the
  * originally requested `redirect_url` (or "/").
  *
  * On any failure, redirects to /sign-in?error=<code> so the user can be
@@ -32,11 +32,13 @@ import {
 } from "../../lib/db";
 import { enforceRateLimit } from "../../lib/rate-limit";
 import type { Env } from "../../lib/auth";
+import {
+  OAUTH_REDIRECT_COOKIE as REDIRECT_COOKIE,
+  OAUTH_STATE_COOKIE as STATE_COOKIE,
+  SESSION_COOKIE,
+} from "../../lib/cookies";
 
 const BCB_SUB_PREFIX = "bcb:";
-const STATE_COOKIE = "oauth_state";
-const REDIRECT_COOKIE = "oauth_redirect";
-const SESSION_COOKIE = "session_id";
 const SESSION_TTL_SECONDS = 60 * 60 * 24 * 30; // 30 days
 
 function readCookie(request: Request, name: string): string | null {

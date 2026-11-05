@@ -88,7 +88,7 @@ function sessions(sqlite: Database) {
 }
 
 function sessionCookie(res: Response): string | null {
-  const match = (res.headers.get("Set-Cookie") ?? "").match(/session_id=([a-f0-9]{64})/);
+  const match = (res.headers.get("Set-Cookie") ?? "").match(/__Host-session_id=([a-f0-9]{64})/);
   return match ? match[1] : null;
 }
 
@@ -127,7 +127,7 @@ describe("/api/auth/bcb store hand-off", () => {
     const sid = sessionCookie(res);
     expect(sid).not.toBeNull();
     expect(setCookies(res)).toEqual([
-      `session_id=${sid}; Path=/; Max-Age=2592000; HttpOnly; Secure; SameSite=Lax`,
+      `__Host-session_id=${sid}; Path=/; Max-Age=2592000; HttpOnly; Secure; SameSite=Lax`,
       CLEAR_STATE,
     ]);
     const sess = sessions(sqlite);

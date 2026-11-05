@@ -82,7 +82,7 @@ window.MathJax = {
 // Client-side gating & checkpoint system
 //
 // Replaces the previous Clerk-based gating. Instead of injecting Clerk's
-// JS, we call /api/auth/me (which reads the session_id cookie) to decide
+// JS, we call /api/auth/me (which reads the __Host-session_id cookie) to decide
 // whether the visitor is signed in. For non-public pages, signed-out
 // visitors are redirected to /sign-in. This avoids a flash of unauth'd
 // content because the auth check resolves before the page is revealed.

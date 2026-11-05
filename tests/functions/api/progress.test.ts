@@ -57,7 +57,7 @@ describe("API: /api/progress", () => {
     setRunHandler(env, "INSERT", () => ({ success: true }));
     const req = mockRequest("https://example.com/api/progress", {
       method: "POST",
-      headers: { Cookie: `session_id=${SID}`, "Content-Type": "application/json" },
+      headers: { Cookie: `__Host-session_id=${SID}`, "Content-Type": "application/json" },
       body: JSON.stringify({
         bookSlug: "test-book",
         path: "/books/test-book/ch1.html",
@@ -95,7 +95,7 @@ describe("API: /api/progress", () => {
 
     const req = mockRequest("https://example.com/api/progress?bookSlug=test-book", {
       method: "GET",
-      headers: { Cookie: `session_id=${SID}` },
+      headers: { Cookie: `__Host-session_id=${SID}` },
     });
     const response = await onRequest({ request: req, env } as any);
     expect(response.status).toBe(200);
@@ -132,7 +132,7 @@ describe("API: /api/progress", () => {
     } as any;
     const req = mockRequest("https://example.com/api/progress", {
       method: "GET",
-      headers: { Cookie: `session_id=${SID}` },
+      headers: { Cookie: `__Host-session_id=${SID}` },
     });
     const response = await onRequest({ request: req, env } as any);
     expect(response.status).toBe(200);
@@ -163,7 +163,7 @@ describe("API: /api/progress", () => {
     } as any;
     const req = mockRequest("https://example.com/api/progress", {
       method: "GET",
-      headers: { Cookie: `session_id=${SID}` },
+      headers: { Cookie: `__Host-session_id=${SID}` },
     });
     const response = await onRequest({ request: req, env } as any);
     expect(response.status).toBe(200);
@@ -195,7 +195,7 @@ describe("API: /api/progress", () => {
 
     const req = mockRequest("https://example.com/api/progress?bookSlug=test-book", {
       method: "GET",
-      headers: { Cookie: `session_id=${SID}` },
+      headers: { Cookie: `__Host-session_id=${SID}` },
     });
     const response = await onRequest({ request: req, env } as any);
     expect(response.status).toBe(200);
@@ -226,7 +226,7 @@ describe("API: /api/progress", () => {
 
     const req = mockRequest("https://example.com/api/progress?bookSlug=test-book", {
       method: "GET",
-      headers: { Cookie: `session_id=${SID}` },
+      headers: { Cookie: `__Host-session_id=${SID}` },
     });
     const response = await onRequest({ request: req, env } as any);
     expect(response.status).toBe(200);
@@ -260,7 +260,7 @@ describe("API: /api/progress", () => {
 
     const req = mockRequest("https://example.com/api/progress", {
       method: "POST",
-      headers: { Cookie: `session_id=${SID}`, "Content-Type": "application/json" },
+      headers: { Cookie: `__Host-session_id=${SID}`, "Content-Type": "application/json" },
       body: JSON.stringify({
         bookSlug: "test-book",
         path: "/books/test-book/ch1.html",
@@ -301,7 +301,7 @@ describe("API: /api/progress", () => {
 
     const req = mockRequest("https://example.com/api/progress", {
       method: "POST",
-      headers: { Cookie: `session_id=${SID}`, "Content-Type": "application/json" },
+      headers: { Cookie: `__Host-session_id=${SID}`, "Content-Type": "application/json" },
       body: JSON.stringify({
         bookSlug: "test-book",
         path: "/books/test-book/ch1.html",
@@ -346,7 +346,7 @@ describe("API: /api/progress", () => {
     } as any;
     const req = mockRequest("https://example.com/api/progress", {
       method: "GET",
-      headers: { Cookie: `session_id=${SID}` },
+      headers: { Cookie: `__Host-session_id=${SID}` },
     });
     const response = await onRequest({ request: req, env } as any);
     expect(response.status).toBe(200);
@@ -362,7 +362,7 @@ describe("API: /api/progress", () => {
     setQueryHandler(env, "SELECT", () => [makeUserRow()]);
     const req = mockRequest("https://example.com/api/progress", {
       method: "POST",
-      headers: { Cookie: `session_id=${SID}`, "Content-Type": "application/json" },
+      headers: { Cookie: `__Host-session_id=${SID}`, "Content-Type": "application/json" },
       body: JSON.stringify({ bookSlug: "INVALID SLUG!", path: "/x" }),
     });
     const response = await onRequest({ request: req, env } as any);
@@ -375,7 +375,7 @@ describe("API: /api/progress", () => {
     setQueryHandler(env, "SELECT", () => [makeUserRow()]);
     const req = mockRequest("https://example.com/api/progress", {
       method: "POST",
-      headers: { Cookie: `session_id=${SID}`, "Content-Type": "application/json" },
+      headers: { Cookie: `__Host-session_id=${SID}`, "Content-Type": "application/json" },
       body: JSON.stringify({ bookSlug: "valid", path: "no-leading-slash" }),
     });
     const response = await onRequest({ request: req, env } as any);
@@ -398,7 +398,7 @@ describe("API: /api/progress", () => {
 
     const req = mockRequest("https://example.com/api/progress?bookSlug=new-book", {
       method: "GET",
-      headers: { Cookie: `session_id=${SID}` },
+      headers: { Cookie: `__Host-session_id=${SID}` },
     });
     const response = await onRequest({ request: req, env } as any);
     expect(response.status).toBe(200);

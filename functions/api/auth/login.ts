@@ -4,7 +4,7 @@
  * GET /api/auth/login
  *
  * Initiates the Google OAuth flow. Generates a `state` nonce, stores it in
- * a short-lived HttpOnly cookie (`oauth_state`, 5 min), and 302-redirects
+ * a short-lived HttpOnly cookie (`__Host-oauth_state`, 5 min), and 302-redirects
  * the user to Google's consent screen.
  *
  * Query params:
@@ -17,8 +17,8 @@ import { buildAuthUrl, randomState, safeRedirectPath } from "../../lib/oauth";
 import { verifyTurnstileToken } from "../../lib/turnstile";
 import { enforceRateLimit } from "../../lib/rate-limit";
 import type { Env } from "../../lib/auth";
+import { OAUTH_REDIRECT_COOKIE, OAUTH_STATE_COOKIE as STATE_COOKIE } from "../../lib/cookies";
 
-const STATE_COOKIE = "oauth_state";
 const STATE_TTL_SECONDS = 300; // 5 minutes
 
 function setStateCookie(request: Request, state: string): string {
@@ -97,7 +97,7 @@ export const onRequestGet: PagesFunction<Env> = async (context) => {
   if (redirectUrl !== "/") {
     headers.append(
       "Set-Cookie",
-      `oauth_redirect=${encodeURIComponent(redirectUrl)}; Path=/; Max-Age=${STATE_TTL_SECONDS}; HttpOnly; Secure; SameSite=Lax`
+      `${OAUTH_REDIRECT_COOKIE}=${encodeURIComponent(redirectUrl)}; Path=/; Max-Age=${STATE_TTL_SECONDS}; HttpOnly; Secure; SameSite=Lax`
     );
   }
 
