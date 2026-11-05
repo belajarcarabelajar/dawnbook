@@ -7,7 +7,9 @@
 
 import type { D1Database } from "@cloudflare/workers-types";
 import type { PagesFunction } from "../../../lib/pages-function";
-import { enforceRateLimit } from "../../../lib/rate-limit";
+import { checkRateLimit, enforceRateLimit } from "../../../lib/rate-limit";
+
+const VIEW_DEDUPE_SECONDS = 86400;
 
 interface Env {
   DB: D1Database;
@@ -55,6 +57,16 @@ export const onRequest: PagesFunction<Env> = async (context) => {
 
   if (!slug || !/^[a-zA-Z0-9_-]+$/.test(slug)) {
     return errorResponse("Invalid slug format", 400);
+  }
+
+  // One counted view per IP per book per VIEW_DEDUPE_SECONDS.
+  const firstView = await checkRateLimit(env.DB, request, {
+    route: `books-view:${slug}`,
+    limit: 1,
+    windowSeconds: VIEW_DEDUPE_SECONDS,
+  });
+  if (!firstView.ok) {
+    return jsonResponse({ success: true, counted: false });
   }
 
   try {

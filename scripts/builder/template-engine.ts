@@ -192,7 +192,7 @@ ${gaTag}    <meta charset="UTF-8">
         <a href="/books/${escapeHtml(b.slug)}/" class="book-card" data-slug="${escapeHtml(b.slug)}"${premium.has(b.slug) ? ' data-premium="true"' : ""} data-created-at="${b.mtimeMs}" style="display: flex; flex-direction: column; padding: 20px; position: relative; transition: all 0.3s ease; height: 100%;">
             <div style="flex: 1; display: flex; flex-direction: column;">
                 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 16px;">
-                    <span style="font-size: 48px; line-height: 1; display: inline-block; min-height: 48px; min-width: 48px;">${b.emoji}</span>
+                    <span style="font-size: 48px; line-height: 1; display: inline-block; min-height: 48px; min-width: 48px;">${escapeHtml(b.emoji)}</span>
                     <div class="top-right-cluster">
                         <span class="subject-label-wrapper" style="display: none;"><span class="subject-label-chip"></span></span>
                         <span class="view-count-badge" style="display: none;">👁 0</span>
@@ -508,6 +508,22 @@ ${turnstileWidget}        <a id="google-signin-btn" data-google-auth href="#" st
     </div>
     <script>
       ${minifyJs(`
+      /* Only a root-relative path or an absolute URL on this origin is kept;
+         anything else becomes "/". */
+      function safeNext(redirectUrl, origin) {
+        var raw = String(redirectUrl || '');
+        if (raw.charAt(0) !== '/' && raw !== origin && raw.indexOf(origin + '/') !== 0 &&
+            raw.indexOf(origin + '?') !== 0 && raw.indexOf(origin + '#') !== 0) {
+          return '/';
+        }
+        try {
+          var u = new URL(raw, origin);
+          if (u.origin !== origin || u.pathname.charAt(1) === '/') return '/';
+          return u.pathname + u.search + u.hash;
+        } catch (e) {
+          return '/';
+        }
+      }
       function bcbSignInHref(redirectUrl, origin) {
         var next = '/';
         try {
@@ -520,7 +536,7 @@ ${turnstileWidget}        <a id="google-signin-btn" data-google-auth href="#" st
       }
       (function() {
         var params = new URLSearchParams(window.location.search);
-        var redirectUrl = params.get('redirect_url') || '/';
+        var redirectUrl = safeNext(params.get('redirect_url') || '/', window.location.origin);
         var err = params.get('error');
         /* The sign-up page is the sign-in page with the button id renamed, so look
            the button up by a marker both pages keep. */
@@ -537,14 +553,16 @@ ${turnstileWidget}        <a id="google-signin-btn" data-google-auth href="#" st
             'signin.bcb.hint': 'Use this if your purchase email is not a Google account.',
             'signin.error.sso_invalid': 'The sign-in link expired or is invalid. Please try again.',
             'signin.error.sso_unavailable': 'Signing in with belajarcarabelajar.com is unavailable right now. Please try again later.',
-            'signin.error.account_conflict': 'This email is already linked to another Google account. Sign in with that Google account.'
+            'signin.error.account_conflict': 'This email is already linked to another Google account. Sign in with that Google account.',
+            'signin.error.email_unverified': 'Your Google email address is not verified. Verify it with Google, or sign in with your belajarcarabelajar.com account.'
           },
           id: {
             'signin.bcb.cta': 'Masuk lewat akun belajarcarabelajar.com',
             'signin.bcb.hint': 'Pakai ini kalau email pembelianmu bukan akun Google.',
             'signin.error.sso_invalid': 'Tautan masuk sudah kedaluwarsa atau tidak sah. Coba lagi.',
             'signin.error.sso_unavailable': 'Masuk lewat belajarcarabelajar.com sedang tidak tersedia. Coba lagi nanti.',
-            'signin.error.account_conflict': 'Email ini sudah terhubung ke akun Google lain. Masuk dengan akun Google tersebut.'
+            'signin.error.account_conflict': 'Email ini sudah terhubung ke akun Google lain. Masuk dengan akun Google tersebut.',
+            'signin.error.email_unverified': 'Email Google kamu belum terverifikasi. Verifikasi dulu di Google, atau masuk lewat akun belajarcarabelajar.com.'
           }
         };
         for (var loc in extra) {
@@ -566,7 +584,8 @@ ${turnstileWidget}        <a id="google-signin-btn" data-google-auth href="#" st
             bot_detected: 'Security verification failed or expired. Please complete the captcha and try again.',
             sso_invalid: 'The sign-in link expired or is invalid. Please try again.',
             sso_unavailable: 'Signing in with belajarcarabelajar.com is unavailable right now. Please try again later.',
-            account_conflict: 'This email is already linked to another Google account. Sign in with that Google account.'
+            account_conflict: 'This email is already linked to another Google account. Sign in with that Google account.',
+            email_unverified: 'Your Google email address is not verified. Verify it with Google, or sign in with your belajarcarabelajar.com account.'
           };
           errEl.textContent = messages[err] || ('Sign-in failed (' + err + ').');
           if (extra.id['signin.error.' + err]) {

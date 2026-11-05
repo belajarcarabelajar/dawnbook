@@ -9,6 +9,15 @@
 import type { PagesFunction } from "../lib/pages-function";
 import { Env, verifySession } from "../lib/auth";
 import { enforceRateLimit } from "../lib/rate-limit";
+import { isJsonRequest } from "../lib/json-request";
+
+const MAX_COMPLETED_PATHS_PER_BOOK = 500;
+const MAX_BOOKS_PER_USER = 500;
+
+function isPathInBook(path: string, bookSlug: string): boolean {
+  const root = `/books/${bookSlug}`;
+  return path === root || path.startsWith(`${root}/`);
+}
 
 interface ProgressRow {
   last_read_path: string;
@@ -127,6 +136,10 @@ async function handlePostProgress(
   });
   if (rateLimited) return rateLimited;
 
+  if (!isJsonRequest(request)) {
+    return errorResponse("Content-Type must be application/json", 415);
+  }
+
   let payload: ProgressPayload;
   try {
     payload = (await request.json()) as ProgressPayload;
@@ -146,7 +159,7 @@ async function handlePostProgress(
     !payload.path ||
     typeof payload.path !== "string" ||
     payload.path.length > 1000 ||
-    !payload.path.startsWith("/")
+    !isPathInBook(payload.path, payload.bookSlug)
   ) {
     return errorResponse("Invalid path format or length", 400);
   }
@@ -155,7 +168,7 @@ async function handlePostProgress(
     payload.completed_path &&
     (typeof payload.completed_path !== "string" ||
       payload.completed_path.length > 1000 ||
-      !payload.completed_path.startsWith("/"))
+      !isPathInBook(payload.completed_path, payload.bookSlug))
   ) {
     return errorResponse("Invalid completed_path format or length", 400);
   }
@@ -169,6 +182,17 @@ async function handlePostProgress(
   )
     .bind(session.sub, payload.bookSlug)
     .first<{ completed_paths: string }>();
+
+  if (!existing) {
+    const owned = await env.DB.prepare(
+      "SELECT COUNT(*) AS n FROM reading_progress WHERE user_id = ?1",
+    )
+      .bind(session.sub)
+      .first<{ n: number }>();
+    if ((owned?.n ?? 0) >= MAX_BOOKS_PER_USER) {
+      return errorResponse("Too many books with progress", 400);
+    }
+  }
 
   if (existing && existing.completed_paths) {
     try {
@@ -185,6 +209,9 @@ async function handlePostProgress(
     payload.completed_path &&
     !completedPaths.includes(payload.completed_path)
   ) {
+    if (completedPaths.length >= MAX_COMPLETED_PATHS_PER_BOOK) {
+      return errorResponse("Too many completed paths for this book", 400);
+    }
     completedPaths.push(payload.completed_path);
   }
 

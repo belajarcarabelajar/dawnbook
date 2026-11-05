@@ -57,7 +57,7 @@ describe("API: /api/progress", () => {
     setRunHandler(env, "INSERT", () => ({ success: true }));
     const req = mockRequest("https://example.com/api/progress", {
       method: "POST",
-      headers: { Cookie: `session_id=${SID}` },
+      headers: { Cookie: `__Host-session_id=${SID}`, "Content-Type": "application/json" },
       body: JSON.stringify({
         bookSlug: "test-book",
         path: "/books/test-book/ch1.html",
@@ -95,7 +95,7 @@ describe("API: /api/progress", () => {
 
     const req = mockRequest("https://example.com/api/progress?bookSlug=test-book", {
       method: "GET",
-      headers: { Cookie: `session_id=${SID}` },
+      headers: { Cookie: `__Host-session_id=${SID}` },
     });
     const response = await onRequest({ request: req, env } as any);
     expect(response.status).toBe(200);
@@ -132,7 +132,7 @@ describe("API: /api/progress", () => {
     } as any;
     const req = mockRequest("https://example.com/api/progress", {
       method: "GET",
-      headers: { Cookie: `session_id=${SID}` },
+      headers: { Cookie: `__Host-session_id=${SID}` },
     });
     const response = await onRequest({ request: req, env } as any);
     expect(response.status).toBe(200);
@@ -163,7 +163,7 @@ describe("API: /api/progress", () => {
     } as any;
     const req = mockRequest("https://example.com/api/progress", {
       method: "GET",
-      headers: { Cookie: `session_id=${SID}` },
+      headers: { Cookie: `__Host-session_id=${SID}` },
     });
     const response = await onRequest({ request: req, env } as any);
     expect(response.status).toBe(200);
@@ -195,7 +195,7 @@ describe("API: /api/progress", () => {
 
     const req = mockRequest("https://example.com/api/progress?bookSlug=test-book", {
       method: "GET",
-      headers: { Cookie: `session_id=${SID}` },
+      headers: { Cookie: `__Host-session_id=${SID}` },
     });
     const response = await onRequest({ request: req, env } as any);
     expect(response.status).toBe(200);
@@ -226,7 +226,7 @@ describe("API: /api/progress", () => {
 
     const req = mockRequest("https://example.com/api/progress?bookSlug=test-book", {
       method: "GET",
-      headers: { Cookie: `session_id=${SID}` },
+      headers: { Cookie: `__Host-session_id=${SID}` },
     });
     const response = await onRequest({ request: req, env } as any);
     expect(response.status).toBe(200);
@@ -260,7 +260,7 @@ describe("API: /api/progress", () => {
 
     const req = mockRequest("https://example.com/api/progress", {
       method: "POST",
-      headers: { Cookie: `session_id=${SID}` },
+      headers: { Cookie: `__Host-session_id=${SID}`, "Content-Type": "application/json" },
       body: JSON.stringify({
         bookSlug: "test-book",
         path: "/books/test-book/ch1.html",
@@ -301,7 +301,7 @@ describe("API: /api/progress", () => {
 
     const req = mockRequest("https://example.com/api/progress", {
       method: "POST",
-      headers: { Cookie: `session_id=${SID}` },
+      headers: { Cookie: `__Host-session_id=${SID}`, "Content-Type": "application/json" },
       body: JSON.stringify({
         bookSlug: "test-book",
         path: "/books/test-book/ch1.html",
@@ -346,7 +346,7 @@ describe("API: /api/progress", () => {
     } as any;
     const req = mockRequest("https://example.com/api/progress", {
       method: "GET",
-      headers: { Cookie: `session_id=${SID}` },
+      headers: { Cookie: `__Host-session_id=${SID}` },
     });
     const response = await onRequest({ request: req, env } as any);
     expect(response.status).toBe(200);
@@ -362,7 +362,7 @@ describe("API: /api/progress", () => {
     setQueryHandler(env, "SELECT", () => [makeUserRow()]);
     const req = mockRequest("https://example.com/api/progress", {
       method: "POST",
-      headers: { Cookie: `session_id=${SID}` },
+      headers: { Cookie: `__Host-session_id=${SID}`, "Content-Type": "application/json" },
       body: JSON.stringify({ bookSlug: "INVALID SLUG!", path: "/x" }),
     });
     const response = await onRequest({ request: req, env } as any);
@@ -375,7 +375,7 @@ describe("API: /api/progress", () => {
     setQueryHandler(env, "SELECT", () => [makeUserRow()]);
     const req = mockRequest("https://example.com/api/progress", {
       method: "POST",
-      headers: { Cookie: `session_id=${SID}` },
+      headers: { Cookie: `__Host-session_id=${SID}`, "Content-Type": "application/json" },
       body: JSON.stringify({ bookSlug: "valid", path: "no-leading-slash" }),
     });
     const response = await onRequest({ request: req, env } as any);
@@ -398,7 +398,7 @@ describe("API: /api/progress", () => {
 
     const req = mockRequest("https://example.com/api/progress?bookSlug=new-book", {
       method: "GET",
-      headers: { Cookie: `session_id=${SID}` },
+      headers: { Cookie: `__Host-session_id=${SID}` },
     });
     const response = await onRequest({ request: req, env } as any);
     expect(response.status).toBe(200);
@@ -410,6 +410,7 @@ describe("API: /api/progress", () => {
     const env = createMockEnv();
     const req = mockRequest("https://example.com/api/progress", {
       method: "POST",
+      headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ bookSlug: "slug", path: "/path" }),
     });
     const response = await onRequest({ request: req, env } as any);
@@ -424,6 +425,7 @@ describe("API: /api/progress", () => {
     setQueryHandler(env, "INSERT", () => [{ count: 121, window_start: now, expires_at: now + 600 }]);
     const req = mockRequest("https://example.com/api/progress", {
       method: "POST",
+      headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ bookSlug: "slug", path: "/path" }),
     });
     const response = await onRequest({ request: req, env } as any);
@@ -437,6 +439,7 @@ describe("API: /api/progress", () => {
     const env = createMockEnv();
     const req = mockRequest("https://example.com/api/progress", {
       method: "POST",
+      headers: { "Content-Type": "application/json" },
       body: "not-json",
     });
     const response = await onRequest({ request: req, env } as any);
@@ -449,7 +452,8 @@ describe("API: /api/progress", () => {
     const env = createMockEnv();
     const req = mockRequest("https://example.com/api/progress", {
       method: "POST",
-      body: JSON.stringify({ bookSlug: "slug", path: "/path", completed_path: "invalid-no-slash" }),
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ bookSlug: "slug", path: "/books/slug/ch1.html", completed_path: "invalid-no-slash" }),
     });
     const response = await onRequest({ request: req, env } as any);
     expect(response.status).toBe(400);
@@ -473,7 +477,8 @@ describe("API: /api/progress", () => {
 
     const req = mockRequest("https://example.com/api/progress", {
       method: "POST",
-      body: JSON.stringify({ bookSlug: "slug", path: "/path" }),
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ bookSlug: "slug", path: "/books/slug/ch1.html" }),
     });
     const response = await onRequest({ request: req, env } as any);
     expect(response.status).toBe(500);
@@ -497,6 +502,178 @@ describe("API: /api/progress", () => {
     const req = mockRequest("https://example.com/api/progress", { method: "GET" });
     const response = await onRequest({ request: req, env } as any);
     expect(response.status).toBe(500);
+  });
+});
+
+describe("API: /api/progress POST limits", () => {
+  const READER = { sub: "u_123", role: "reader", sid: SID, email: "alice@example.com" };
+
+  // existing: the stored completed_paths of this book, or null when the user
+  // has no row for it yet. rowCount: how many book rows the user already has.
+  function progressEnv(existing: string[] | null, rowCount = 0) {
+    const writes: unknown[][] = [];
+    const env = createMockEnv();
+    env.DB = {
+      prepare: mock((sql: string) => {
+        let params: unknown[] = [];
+        const api: any = {
+          bind: (...p: unknown[]) => {
+            params = p;
+            return api;
+          },
+          first: async () => {
+            if (sql.startsWith("INSERT INTO rate_limits")) return null;
+            if (/COUNT\(\*\)/i.test(sql)) return { n: rowCount };
+            if (sql.includes("FROM reading_progress")) {
+              return existing ? { completed_paths: JSON.stringify(existing) } : null;
+            }
+            return null;
+          },
+          run: async () => {
+            if (sql.includes("INSERT INTO reading_progress")) writes.push(params);
+            return { success: true };
+          },
+        };
+        return api;
+      }),
+    } as any;
+    return { env, writes };
+  }
+
+  function post(body: unknown, contentType: string | null = "application/json") {
+    const headers: Record<string, string> = {};
+    if (contentType) headers["Content-Type"] = contentType;
+    return mockRequest("https://example.com/api/progress", {
+      method: "POST",
+      headers,
+      body: new TextEncoder().encode(JSON.stringify(body)),
+    });
+  }
+
+  const paths = (n: number) => Array.from({ length: n }, (_, i) => `/books/test-book/content/${i}.html`);
+
+  for (const [label, contentType] of [
+    ["no", null],
+    ["a text/plain", "text/plain;charset=UTF-8"],
+    ["a lookalike", "application/json-patch+json"],
+  ] as const) {
+    test(`answers 415 for ${label} content type and writes nothing`, async () => {
+      mockSession = READER;
+      const { env, writes } = progressEnv(null);
+      const res = await onRequest({
+        request: post({ bookSlug: "test-book", path: "/books/test-book/ch1.html" }, contentType),
+        env,
+      } as any);
+      expect(res.status).toBe(415);
+      expect(writes).toEqual([]);
+    });
+  }
+
+  test("accepts a JSON content type with parameters in any case", async () => {
+    mockSession = READER;
+    const { env, writes } = progressEnv(null);
+    const res = await onRequest({
+      request: post({ bookSlug: "test-book", path: "/books/test-book/ch1.html" }, "Application/JSON; charset=utf-8"),
+      env,
+    } as any);
+    expect(res.status).toBe(201);
+    expect(writes).toHaveLength(1);
+  });
+
+  test("accepts the book root as path", async () => {
+    mockSession = READER;
+    const { env, writes } = progressEnv(null);
+    const res = await onRequest({ request: post({ bookSlug: "test-book", path: "/books/test-book" }), env } as any);
+    expect(res.status).toBe(201);
+    expect(writes).toHaveLength(1);
+  });
+
+  for (const [label, body] of [
+    ["path of another book", { bookSlug: "test-book", path: "/books/other-book/ch1.html" }],
+    ["path of a slug sharing the prefix", { bookSlug: "test-book", path: "/books/test-book-2/ch1.html" }],
+    ["path outside /books/", { bookSlug: "test-book", path: "/admin/test-book/ch1.html" }],
+    [
+      "completed_path of another book",
+      { bookSlug: "test-book", path: "/books/test-book/ch1.html", completed_path: "/books/other-book/ch1.html" },
+    ],
+  ] as const) {
+    test(`answers 400 for a ${label} and writes nothing`, async () => {
+      mockSession = READER;
+      const { env, writes } = progressEnv(null);
+      const res = await onRequest({ request: post(body), env } as any);
+      expect(res.status).toBe(400);
+      expect(writes).toEqual([]);
+    });
+  }
+
+  test("refuses a new completed_path once the book holds 500 and writes nothing", async () => {
+    mockSession = READER;
+    const { env, writes } = progressEnv(paths(500));
+    const res = await onRequest({
+      request: post({
+        bookSlug: "test-book",
+        path: "/books/test-book/content/new.html",
+        completed_path: "/books/test-book/content/new.html",
+      }),
+      env,
+    } as any);
+    expect(res.status).toBe(400);
+    expect(writes).toEqual([]);
+  });
+
+  test("still saves a completed_path already in a full list", async () => {
+    mockSession = READER;
+    const { env, writes } = progressEnv(paths(500));
+    const res = await onRequest({
+      request: post({
+        bookSlug: "test-book",
+        path: "/books/test-book/content/3.html",
+        completed_path: "/books/test-book/content/3.html",
+      }),
+      env,
+    } as any);
+    expect(res.status).toBe(201);
+    expect(writes).toHaveLength(1);
+  });
+
+  test("adds the 500th completed_path", async () => {
+    mockSession = READER;
+    const { env, writes } = progressEnv(paths(499));
+    const res = await onRequest({
+      request: post({
+        bookSlug: "test-book",
+        path: "/books/test-book/content/new.html",
+        completed_path: "/books/test-book/content/new.html",
+      }),
+      env,
+    } as any);
+    expect(res.status).toBe(201);
+    expect((await res.json()).completed_paths).toHaveLength(500);
+    expect(writes).toHaveLength(1);
+  });
+
+  test("refuses a new book row when the user already has 500 and writes nothing", async () => {
+    mockSession = READER;
+    const { env, writes } = progressEnv(null, 500);
+    const res = await onRequest({ request: post({ bookSlug: "test-book", path: "/books/test-book/ch1.html" }), env } as any);
+    expect(res.status).toBe(400);
+    expect(writes).toEqual([]);
+  });
+
+  test("creates a new book row while the user has 499", async () => {
+    mockSession = READER;
+    const { env, writes } = progressEnv(null, 499);
+    const res = await onRequest({ request: post({ bookSlug: "test-book", path: "/books/test-book/ch1.html" }), env } as any);
+    expect(res.status).toBe(201);
+    expect(writes).toHaveLength(1);
+  });
+
+  test("updates an existing book row even when the user has 500 rows", async () => {
+    mockSession = READER;
+    const { env, writes } = progressEnv([], 500);
+    const res = await onRequest({ request: post({ bookSlug: "test-book", path: "/books/test-book/ch1.html" }), env } as any);
+    expect(res.status).toBe(201);
+    expect(writes).toHaveLength(1);
   });
 });
 

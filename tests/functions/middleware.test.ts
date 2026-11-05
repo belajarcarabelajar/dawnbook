@@ -174,7 +174,7 @@ describe("Cloudflare Pages Edge Middleware (functions/_middleware.ts)", () => {
     const req = mockRequest("https://example.com/admin/dashboard", {
       headers: {
         Accept: "text/html",
-        Cookie: `session_id=${validSessionId}`,
+        Cookie: `__Host-session_id=${validSessionId}`,
       },
     });
 
@@ -221,7 +221,7 @@ describe("Cloudflare Pages Edge Middleware (functions/_middleware.ts)", () => {
     const req = mockRequest("https://example.com/admin/data.json", {
       headers: {
         Accept: "application/json",
-        Cookie: `session_id=${validSessionId}`,
+        Cookie: `__Host-session_id=${validSessionId}`,
       },
     });
 
@@ -319,7 +319,7 @@ describe("Cloudflare Pages Edge Middleware (functions/_middleware.ts)", () => {
     const req = mockRequest("https://example.com/admin/secret", {
       headers: {
         Accept: "text/html",
-        Cookie: `session_id=${validSessionId}`,
+        Cookie: `__Host-session_id=${validSessionId}`,
       },
     });
 
@@ -352,7 +352,7 @@ describe("Cloudflare Pages Edge Middleware (functions/_middleware.ts)", () => {
     const req = mockRequest("https://example.com/admin/secret/%E0%A4%A", {
       headers: {
         Accept: "text/html",
-        Cookie: `session_id=${validSessionId}`,
+        Cookie: `__Host-session_id=${validSessionId}`,
       },
     });
 

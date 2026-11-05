@@ -4,7 +4,7 @@
  * POST /api/auth/logout
  *
  * Deletes the current session from D1 (so the cookie cannot be reused
- * after revocation) and clears the `session_id` cookie. Idempotent: if
+ * after revocation) and clears the `__Host-session_id` cookie. Idempotent: if
  * the cookie is missing or already invalid, returns 204 anyway.
  */
 
@@ -13,8 +13,7 @@ import { deleteSession } from "../../lib/db";
 import { extractSessionId } from "../../lib/auth";
 import { enforceRateLimit } from "../../lib/rate-limit";
 import type { Env } from "../../lib/auth";
-
-const SESSION_COOKIE = "session_id";
+import { SESSION_COOKIE } from "../../lib/cookies";
 
 export const onRequestPost: PagesFunction<Env> = async (context) => {
   const { request, env } = context;
@@ -46,6 +45,9 @@ export const onRequestPost: PagesFunction<Env> = async (context) => {
   });
 };
 
-// Allow GET for browser bookmark / direct link to sign out, with the same
-// semantics. Some sign-out UI patterns link to a URL rather than POSTing.
-export const onRequestGet = onRequestPost;
+// Sign-out changes state, so it is POST only; the hub posts to this route.
+export const onRequestGet: PagesFunction<Env> = async () =>
+  new Response(null, {
+    status: 405,
+    headers: { Allow: "POST", "Cache-Control": "no-store" },
+  });

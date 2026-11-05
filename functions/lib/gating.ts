@@ -164,8 +164,9 @@ export function isPublicPath(pathname: string): boolean {
     if (page === "" || page === "index.html" || page === "toc.html") {
       return true;
     }
-    // Chapter 1 / first chapter is public preview (starts with "01" or "chapter_1")
-    if (page.startsWith("01") || page.startsWith("chapter_1")) {
+    // Chapter 1 is the public preview: "01" or "chapter_1" with no digit after
+    // it, so chapter_10 and 010_x stay gated.
+    if (/^(01|chapter_1)(?!\d)/.test(page)) {
       return true;
     }
     // All other chapters require authentication at edge

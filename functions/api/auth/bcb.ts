@@ -20,14 +20,14 @@ import { constantTimeEqual, safeRedirectPath } from "../../lib/oauth";
 import { BCB_SSO_STATE_COOKIE, BCB_SSO_STATE_RE } from "./bcb/start";
 import { createSession } from "../../lib/db";
 import { findOrCreateBcbUser } from "../../lib/sso-user";
+import { SESSION_COOKIE } from "../../lib/cookies";
 
 export interface BcbSsoEnv extends Env {
   BCB_SSO_SECRET?: string;
 }
 
-// Same cookie name and lifetime as functions/api/auth/callback.ts, which keeps
-// them module-private; duplicated here rather than editing that file.
-const SESSION_COOKIE = "session_id";
+// Same session lifetime as functions/api/auth/callback.ts, which keeps it
+// module-private.
 const SESSION_TTL_SECONDS = 60 * 60 * 24 * 30; // 30 days
 // Outlives SSO_MAX_AGE_S, so a token cannot be replayed after its nonce row
 // is garbage-collected.

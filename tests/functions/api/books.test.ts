@@ -161,6 +161,7 @@ describe("API: /api/books", () => {
     const env = createMockEnv();
     const req = mockRequest("https://example.com/api/books", {
       method: "POST",
+      headers: { "Content-Type": "application/json" },
       body: "invalid-json",
     });
     const response = await onRequest({ request: req, env } as any);
@@ -177,6 +178,7 @@ describe("API: /api/books", () => {
     for (const body of invalidPayloads) {
       const req = mockRequest("https://example.com/api/books", {
         method: "POST",
+        headers: { "Content-Type": "application/json" },
         body,
       });
       const response = await onRequest({ request: req, env } as any);
@@ -192,6 +194,7 @@ describe("API: /api/books", () => {
     const env = createMockEnv();
     const req = mockRequest("https://example.com/api/books", {
       method: "POST",
+      headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ bookSlug: "x" }),
     });
     const response = await onRequest({ request: req, env } as any);
@@ -208,6 +211,7 @@ describe("API: /api/books", () => {
     // Invalid slug
     let req = mockRequest("https://example.com/api/books", {
       method: "POST",
+      headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ bookSlug: "bad slug!", chapterTitle: "t", markdownContent: "c" }),
     });
     let res = await onRequest({ request: req, env } as any);
@@ -216,6 +220,7 @@ describe("API: /api/books", () => {
     // Chapter title too long
     req = mockRequest("https://example.com/api/books", {
       method: "POST",
+      headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ bookSlug: "slug", chapterTitle: "a".repeat(301), markdownContent: "c" }),
     });
     res = await onRequest({ request: req, env } as any);
@@ -224,6 +229,7 @@ describe("API: /api/books", () => {
     // Subject label too long
     req = mockRequest("https://example.com/api/books", {
       method: "POST",
+      headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ bookSlug: "slug", chapterTitle: "t", markdownContent: "c", subjectLabel: "a".repeat(101) }),
     });
     res = await onRequest({ request: req, env } as any);
@@ -235,6 +241,7 @@ describe("API: /api/books", () => {
     const env = createMockEnv();
     const req = mockRequest("https://example.com/api/books", {
       method: "POST",
+      headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ bookSlug: "slug", chapterTitle: "t", markdownContent: "c" }),
     });
     const res = await onRequest({ request: req, env } as any);
@@ -247,6 +254,7 @@ describe("API: /api/books", () => {
     const env = createMockEnv();
     const req = mockRequest("https://example.com/api/books", {
       method: "POST",
+      headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ bookSlug: "slug", chapterTitle: "t", markdownContent: "c" }),
     });
     const res = await onRequest({ request: req, env } as any);
@@ -259,6 +267,7 @@ describe("API: /api/books", () => {
     const env = createMockEnv();
     const req = mockRequest("https://example.com/api/books", {
       method: "POST",
+      headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ bookSlug: "slug", chapterTitle: "t", markdownContent: "a".repeat(5000001) }),
     });
     const res = await onRequest({ request: req, env } as any);
@@ -266,34 +275,88 @@ describe("API: /api/books", () => {
     expect(await res.json()).toEqual({ error: "markdownContent too long" });
   });
 
-  test("POST returns 500 when D1 write or batch fails", async () => {
+  test("POST returns 500 when a statement of the publish batch fails", async () => {
     mockSession = { sub: "user_123", role: "admin" };
-    const env = createMockEnv();
-
-    // Metadata write fails
-    env.DB.prepare = mock(() => ({
-      bind: mock(() => ({
-        run: mock(async () => ({ success: false })),
-      })),
-    })) as any;
-
-    const req = mockRequest("https://example.com/api/books", {
-      method: "POST",
-      body: JSON.stringify({ bookSlug: "valid-slug", chapterTitle: "t", markdownContent: "c" }),
-    });
-    let res = await onRequest({ request: req, env } as any);
-    expect(res.status).toBe(500);
-
-    // Batch write fails
     const envBatchFail = createMockEnv();
-    envBatchFail.DB.batch = mock(async () => [{ success: false }]) as any;
+    envBatchFail.DB.batch = mock(async () => [{ success: true }, { success: false }]) as any;
     const reqBatch = mockRequest("https://example.com/api/books", {
       method: "POST",
+      headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ bookSlug: "valid-slug", chapterTitle: "t", markdownContent: "c" }),
     });
-    res = await onRequest({ request: reqBatch, env: envBatchFail } as any);
+    const res = await onRequest({ request: reqBatch, env: envBatchFail } as any);
     expect(res.status).toBe(500);
-    expect(await res.json()).toEqual({ error: "Database chunk write failed" });
+    expect(await res.json()).toEqual({ error: "Database write failed" });
+  });
+
+  test("POST writes the metadata upsert and every content chunk in one batch", async () => {
+    mockSession = { sub: "user_123", role: "admin" };
+    const env = createMockEnv();
+    const prepare = env.DB.prepare;
+    const runs: string[] = [];
+    env.DB.prepare = ((sql: string) => {
+      const stmt = prepare(sql) as any;
+      stmt.__sql = sql;
+      const run = stmt.run;
+      stmt.run = async () => {
+        runs.push(sql);
+        return run();
+      };
+      return stmt;
+    }) as any;
+    const batches: { sql: string }[][] = [];
+    env.DB.batch = mock(async (stmts: any[]) => {
+      batches.push(stmts.map((st) => ({ sql: st.__sql })));
+      return stmts.map(() => ({ success: true }));
+    }) as any;
+
+    const content = "A".repeat(65000); // three 30 000-character chunks
+    const req = mockRequest("https://example.com/api/books", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ bookSlug: "satu-batch", chapterTitle: "Bab 1", markdownContent: content }),
+    });
+    const res = await onRequest({ request: req, env } as any);
+
+    expect(res.status).toBe(201);
+    expect(batches).toHaveLength(1);
+    expect(batches[0]).toHaveLength(4);
+    expect(batches[0][0].sql).toContain("INSERT INTO books");
+    for (const st of batches[0].slice(1)) {
+      expect(st.sql).toContain("UPDATE books SET content_md = content_md ||");
+    }
+    expect(runs.filter((sql) => sql.includes("INSERT INTO books"))).toEqual([]);
+  });
+
+  for (const [label, contentType] of [
+    ["text/plain", "text/plain;charset=UTF-8"],
+    ["a form body", "application/x-www-form-urlencoded"],
+    ["a lookalike type", "application/jsonx"],
+  ] as const) {
+    test(`POST with ${label} content type answers 415 and writes nothing`, async () => {
+      mockSession = { sub: "user_123", role: "admin" };
+      const env = createMockEnv();
+      const req = mockRequest("https://example.com/api/books", {
+        method: "POST",
+        headers: { "Content-Type": contentType },
+        body: JSON.stringify({ bookSlug: "slug", chapterTitle: "t", markdownContent: "c" }),
+      });
+      const res = await onRequest({ request: req, env } as any);
+      expect(res.status).toBe(415);
+      expect(env.DB.batch).not.toHaveBeenCalled();
+    });
+  }
+
+  test("POST accepts a JSON content type with parameters in any case", async () => {
+    mockSession = { sub: "user_123", role: "admin" };
+    const env = createMockEnv();
+    const req = mockRequest("https://example.com/api/books", {
+      method: "POST",
+      headers: { "Content-Type": "Application/JSON; charset=utf-8" },
+      body: JSON.stringify({ bookSlug: "slug", chapterTitle: "t", markdownContent: "c" }),
+    });
+    const res = await onRequest({ request: req, env } as any);
+    expect(res.status).toBe(201);
   });
 
   test("POST returns 201 Created on successful book creation with chunked content", async () => {
@@ -303,6 +366,7 @@ describe("API: /api/books", () => {
     const longContent = "A".repeat(35000); // Triggers multiple chunks
     const req = mockRequest("https://example.com/api/books", {
       method: "POST",
+      headers: { "Content-Type": "application/json" },
       body: JSON.stringify({
         bookSlug: "my-new-book",
         chapterTitle: "Chapter 1",
@@ -355,6 +419,7 @@ describe("API: /api/books", () => {
       });
       const req = mockRequest("https://example.com/api/books", {
         method: "POST",
+        headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ bookSlug: "valid-slug", chapterTitle: "t", markdownContent: "c" }),
       });
       const response = await onRequest({ request: req, env } as any);

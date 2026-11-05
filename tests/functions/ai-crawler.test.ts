@@ -221,7 +221,7 @@ describe("premium 403 page links to the store sign-in", () => {
         : [],
     );
     const req = mockRequest("https://example.com/books/buku-a/content/02_x.html?a=1&b=2", {
-      headers: { Accept: "text/html", Cookie: `dawnbook_lang=id; session_id=${SID}` },
+      headers: { Accept: "text/html", Cookie: `dawnbook_lang=id; __Host-session_id=${SID}` },
     });
     const next = mock(async () => new Response("isi"));
     const res = await onRequest({ request: req, env, next } as any);

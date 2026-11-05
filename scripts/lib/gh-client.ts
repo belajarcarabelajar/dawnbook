@@ -7,9 +7,11 @@ export type PR = {
   number: number;
   title: string;
   body: string;
-  author: string;
+  author: { login: string };
   baseRefName: string;
   headRefName: string;
+  headRefOid: string;
+  isCrossRepository: boolean;
   createdAt: string;
   mergeable: string; // MERGEABLE | CONFLICTING | UNKNOWN
   files: { path: string; additions: number; deletions: number; changeType: string }[];
@@ -18,8 +20,15 @@ export type PR = {
   url: string;
 };
 
+export type GhRunner = (args: string[]) => string;
+
 const REPO = "belajarcarabelajar/dawnbook";
-const JULES_MARKER_RE = /jules\.google\.com\/task|Jules/i;
+// Jules opens its PRs under the repository owner account, so the login alone does not identify them.
+const JULES_OWNER_LOGIN = "belajarcarabelajar";
+const JULES_TASK_LINK_RE = /https:\/\/jules\.google\.com\/task\/\d+/;
+const HEAD_SHA_RE = /^[0-9a-f]{40}$/;
+const PR_LIST_FIELDS =
+  "number,title,body,author,baseRefName,headRefName,headRefOid,isCrossRepository,createdAt,mergeable,url,additions,deletions,files";
 
 function runGh(args: string[]): string {
   const proc = Bun.spawnSync(["gh", ...args], { stdout: "pipe", stderr: "pipe" });
@@ -64,35 +73,42 @@ export function getMergeStrategy(): "squash" | "merge" | "rebase" {
   return "squash"; // spec default
 }
 
-function isJulesPR(pr: { author: { login: string }; body?: string; title?: string }, authorPattern?: string): boolean {
+/**
+ * A Jules PR comes from the owner login, from a branch of this repository (never a fork),
+ * and carries a Jules task link in its body. An author pattern replaces the login check only.
+ */
+export function isJulesPR(
+  pr: { author: { login: string }; body?: string; isCrossRepository?: boolean },
+  authorPattern?: string,
+): boolean {
+  if (pr.isCrossRepository !== false) return false;
+  if (!JULES_TASK_LINK_RE.test(pr.body || "")) return false;
   const pattern = authorPattern || process.env.JULES_AUTHOR_PATTERN;
   if (pattern) {
     try {
-      const re = new RegExp(pattern, "i");
-      if (re.test(pr.author.login) || re.test(pr.body || "") || re.test(pr.title || "")) return true;
-    } catch { /* invalid regex, fall through */ }
+      return new RegExp(pattern, "i").test(pr.author.login);
+    } catch {
+      return false;
+    }
   }
-  if (pr.author.login.toLowerCase() === "jules") return true;
-  // Primary heuristic: body contains Jules marker (verified for PRs 120-123)
-  if (JULES_MARKER_RE.test(pr.body || "")) return true;
-  if (JULES_MARKER_RE.test(pr.title || "")) return true;
-  return false;
+  return pr.author.login === JULES_OWNER_LOGIN;
 }
 
-export function listJulesPrs(opts: { authorPattern?: string; limit?: number } = {}): PR[] {
+export function listJulesPrs(opts: { authorPattern?: string; limit?: number; run?: GhRunner } = {}): PR[] {
   const limit = opts.limit ?? 100;
-  const raw = runGh([
+  const run = opts.run ?? runGh;
+  const raw = run([
     "pr", "list",
     "--repo", REPO,
     "--state", "open",
     "--limit", String(limit),
-    "--json", "number,title,body,author,baseRefName,headRefName,createdAt,mergeable,url,additions,deletions,files",
+    "--json", PR_LIST_FIELDS,
   ]);
   const prs: PR[] = JSON.parse(raw);
 
-  const filtered = prs.filter((pr: any) => isJulesPR(pr, opts.authorPattern));
-  filtered.sort((a: any, b: any) => new Date(a.createdAt).getTime() - new Date(b.createdAt).getTime());
-  return filtered as PR[];
+  const filtered = prs.filter((pr) => isJulesPR(pr, opts.authorPattern));
+  filtered.sort((a, b) => new Date(a.createdAt).getTime() - new Date(b.createdAt).getTime());
+  return filtered;
 }
 
 export function getPrDiff(prNumber: number): string {
@@ -121,15 +137,28 @@ export function waitForMergeable(prNumber: number, timeoutMs = 30000): string {
   return status;
 }
 
-export function mergePr(prNumber: number, strategy: "squash" | "merge" | "rebase", deleteBranch = false): string {
+/** Merges only if the PR head is still the commit that was assessed (gh --match-head-commit). */
+export function mergePr(
+  prNumber: number,
+  strategy: "squash" | "merge" | "rebase",
+  headSha: string,
+  opts: { deleteBranch?: boolean; run?: GhRunner } = {},
+): string {
+  if (typeof headSha !== "string" || !HEAD_SHA_RE.test(headSha)) {
+    throw new Error(`refusing to merge PR #${prNumber}: no assessed head commit sha`);
+  }
+  const run = opts.run ?? runGh;
   const flag = strategy === "squash" ? "--squash" : strategy === "merge" ? "--merge" : "--rebase";
-  const args = ["pr", "merge", String(prNumber), "--repo", REPO, flag, "--body", "Automated merge by pr-integration-agent (SAFE)"];
-  if (deleteBranch) args.push("--delete-branch");
-  else args.push("--delete-branch=false");
-  runGh(args);
+  const args = [
+    "pr", "merge", String(prNumber), "--repo", REPO, flag,
+    "--match-head-commit", headSha,
+    "--body", "Automated merge by pr-integration-agent (SAFE)",
+  ];
+  args.push(opts.deleteBranch ? "--delete-branch" : "--delete-branch=false");
+  run(args);
   // Fetch merge commit
   try {
-    const out = runGh(["pr", "view", String(prNumber), "--repo", REPO, "--json", "mergeCommit"]);
+    const out = run(["pr", "view", String(prNumber), "--repo", REPO, "--json", "mergeCommit"]);
     const parsed = JSON.parse(out);
     return parsed.mergeCommit?.oid ?? "";
   } catch {

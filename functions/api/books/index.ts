@@ -10,6 +10,7 @@ import type { PagesFunction } from "../../lib/pages-function";
 import { Env, verifySession } from "../../lib/auth";
 import { getBooks } from "../../lib/db";
 import { enforceRateLimit } from "../../lib/rate-limit";
+import { isJsonRequest } from "../../lib/json-request";
 
 interface PublishPayload {
   bookSlug: string;
@@ -88,6 +89,10 @@ async function handlePostBook(
   });
   if (rateLimited) return rateLimited;
 
+  if (!isJsonRequest(request)) {
+    return errorResponse("Content-Type must be application/json", 415);
+  }
+
   let payload: PublishPayload;
   try {
     payload = (await request.json()) as PublishPayload;
@@ -123,8 +128,10 @@ async function handlePostBook(
   const now = new Date().toISOString();
   const id = payload.bookSlug; // Use slug as deterministic ID
 
-  // Upsert: insert or update on conflict (with empty content initially)
-  const initResult = await env.DB.prepare(
+  // Upsert with empty content, then append the chunks. All statements go in
+  // one D1 batch, which runs as a single transaction, so a failure never
+  // leaves a book with emptied or partial content.
+  const upsert = env.DB.prepare(
     `INSERT INTO books (id, slug, title, status, content_md, created_at, updated_at, subject_label, view_count)
      VALUES (?1, ?2, ?3, ?4, '', ?5, ?6, ?7, 0)
      ON CONFLICT(slug) DO UPDATE SET
@@ -142,16 +149,11 @@ async function handlePostBook(
       now,
       now,
       payload.subjectLabel || null
-    )
-    .run();
-
-  if (!initResult.success) {
-    return errorResponse("Database metadata write failed", 500);
-  }
+    );
 
   // Chunk content to avoid SQLITE_TOOBIG limits (Cloudflare D1 100KB statement limit)
   const chunkSize = 30000;
-  const statements = [];
+  const statements = [upsert];
   for (let i = 0; i < payload.markdownContent.length; i += chunkSize) {
     const chunk = payload.markdownContent.slice(i, i + chunkSize);
     statements.push(
@@ -161,12 +163,9 @@ async function handlePostBook(
     );
   }
 
-  if (statements.length > 0) {
-    const batchRes = await env.DB.batch(statements);
-    const allSuccess = batchRes.every((res) => res.success);
-    if (!allSuccess) {
-      return errorResponse("Database chunk write failed", 500);
-    }
+  const batchRes = await env.DB.batch(statements);
+  if (!batchRes.every((res) => res.success)) {
+    return errorResponse("Database write failed", 500);
   }
 
   return jsonResponse(

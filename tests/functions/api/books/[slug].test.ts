@@ -10,7 +10,11 @@ mock.module("../../../../functions/lib/auth", () => {
   };
 });
 
+import { Database } from "bun:sqlite";
+import { readFileSync } from "node:fs";
+import { join } from "node:path";
 import { onRequest } from "../../../../functions/api/books/[slug]";
+import { onRequest as onViewRequest } from "../../../../functions/api/books/[slug]/view";
 import {
   createMockEnv,
   mockRequest,
@@ -217,6 +221,87 @@ describe("DELETE /api/books/:slug", () => {
     expect(await response.json()).toEqual({
       error: "Forbidden: Administrator access required",
     });
+  });
+});
+
+// A D1 stand-in over in-memory SQLite with the rate_limits migration, so the
+// real counter SQL decides whether a view is counted.
+function viewDb() {
+  const sqlite = new Database(":memory:");
+  sqlite.exec(readFileSync(join(import.meta.dir, "../../../../db/migrations/0007_rate_limit.sql"), "utf8"));
+  sqlite.exec("CREATE TABLE books (slug TEXT PRIMARY KEY, view_count INTEGER NOT NULL DEFAULT 0)");
+  sqlite.exec("INSERT INTO books (slug) VALUES ('buku-a'), ('buku-b')");
+  const db = {
+    prepare(sql: string) {
+      let params: unknown[] = [];
+      const stmt = {
+        bind(...p: unknown[]) {
+          params = p;
+          return stmt;
+        },
+        async first<T>() {
+          return (sqlite.query(sql).get(...(params as any[])) as T) ?? null;
+        },
+        async run() {
+          const res = sqlite.query(sql).run(...(params as any[]));
+          return { success: true, meta: { changes: res.changes } };
+        },
+      };
+      return stmt;
+    },
+  };
+  const views = (slug: string) =>
+    (sqlite.query("SELECT view_count FROM books WHERE slug = ?1").get(slug) as { view_count: number }).view_count;
+  return { db, views };
+}
+
+async function postView(db: unknown, slug: string, ip: string) {
+  const request = new Request(`https://dawnbook.belajarcarabelajar.com/api/books/${slug}/view`, {
+    method: "POST",
+    headers: { "X-Requested-With": "XMLHttpRequest", "CF-Connecting-IP": ip },
+  });
+  return await onViewRequest({ request, env: { DB: db }, params: { slug } } as any);
+}
+
+describe("POST /api/books/:slug/view once per IP per book per day", () => {
+  it("counts the first view and not a repeat from the same IP", async () => {
+    const { db, views } = viewDb();
+
+    const first = await postView(db, "buku-a", "203.0.113.5");
+    expect(first.status).toBe(200);
+    expect(await first.json()).toEqual({ success: true });
+    expect(views("buku-a")).toBe(1);
+
+    const repeat = await postView(db, "buku-a", "203.0.113.5");
+    expect(repeat.status).toBe(200);
+    expect(await repeat.json()).toEqual({ success: true, counted: false });
+    expect(views("buku-a")).toBe(1);
+  });
+
+  it("counts another IP and another book separately", async () => {
+    const { db, views } = viewDb();
+
+    await postView(db, "buku-a", "203.0.113.5");
+    await postView(db, "buku-a", "198.51.100.7");
+    await postView(db, "buku-b", "203.0.113.5");
+
+    expect(views("buku-a")).toBe(2);
+    expect(views("buku-b")).toBe(1);
+  });
+
+  it("counts the same IP again after 24 hours", async () => {
+    const { db, views } = viewDb();
+    const realNow = Date.now;
+    try {
+      const start = realNow();
+      Date.now = () => start;
+      await postView(db, "buku-a", "203.0.113.5");
+      Date.now = () => start + 86_400_000 + 1000;
+      await postView(db, "buku-a", "203.0.113.5");
+    } finally {
+      Date.now = realNow;
+    }
+    expect(views("buku-a")).toBe(2);
   });
 });
 

@@ -40,16 +40,31 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Run PR Integration Agent
+        # Inputs reach the script only through env, never through expression expansion in the script.
+        # Only a manual run with dry_run set to false merges; a scheduled run is always a dry run.
+        shell: bash
         run: |
-          ARGS=""
-          if [ "${{ inputs.dry_run }}" = "true" ]; then ARGS="$ARGS --dry-run"; fi
-          if [ -n "${{ inputs.author_pattern }}" ]; then ARGS="$ARGS --author-pattern \"${{ inputs.author_pattern }}\""; fi
-          if [ -n "${{ inputs.pr_number }}" ]; then ARGS="$ARGS --pr ${{ inputs.pr_number }}"; fi
-          bun run scripts/pr-integration-agent.ts $ARGS
+          args=()
+          if [ "$GITHUB_EVENT_NAME" != "workflow_dispatch" ] || [ "$INPUT_DRY_RUN" != "false" ]; then
+            args+=(--dry-run)
+          fi
+          if [ -n "$INPUT_AUTHOR_PATTERN" ]; then
+            args+=(--author-pattern "$INPUT_AUTHOR_PATTERN")
+          fi
+          if [ -n "$INPUT_PR_NUMBER" ]; then
+            if ! [[ "$INPUT_PR_NUMBER" =~ ^[0-9]+$ ]]; then
+              echo "pr_number must be digits only" >&2
+              exit 1
+            fi
+            args+=(--pr "$INPUT_PR_NUMBER")
+          fi
+          bun run scripts/pr-integration-agent.ts "${args[@]}"
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           MERGE_STRATEGY: squash
-          JULES_AUTHOR_PATTERN: ${{ inputs.author_pattern }}
+          INPUT_DRY_RUN: ${{ inputs.dry_run }}
+          INPUT_AUTHOR_PATTERN: ${{ inputs.author_pattern }}
+          INPUT_PR_NUMBER: ${{ inputs.pr_number }}
       - name: Upload integration logs
         if: always()
         uses: actions/upload-artifact@v4

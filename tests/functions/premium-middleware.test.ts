@@ -60,7 +60,7 @@ function makeContext(
   const headers: Record<string, string> = {};
   headers.Accept = opts.html === false ? "application/json" : "text/html,application/xhtml+xml";
   const cookies = ["dawnbook_lang=id"];
-  if (opts.session) cookies.push(`session_id=${SID}`);
+  if (opts.session) cookies.push(`__Host-session_id=${SID}`);
   headers.Cookie = cookies.join("; ");
   if (opts.bot) {
     headers["User-Agent"] = "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)";
