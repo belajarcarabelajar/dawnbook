@@ -138,29 +138,7 @@ flowchart TD
 
 ## Verification of the findings
 
-| Issue | Audit no. | Verdict | Evidence |
-|---|---|---|---|
-| Jules PR recognised by the word "Jules" in title or body | 24, 173, 182 | real | `scripts/lib/gh-client.ts:22,67-80`; the past Jules PRs (#105 to #125) were opened under the owner account `belajarcarabelajar`, so detection uses owner login + same-repo head + `jules.google.com/task/<digits>` footer |
-| Cron runs without dry-run, no cap, merge not pinned to the assessed head | 24 | real | `.github/workflows/pr-integration.yml:45`, `scripts/lib/gh-client.ts:124-130` |
-| Workflow inputs interpolated into the shell | 174, 183 | real | `.github/workflows/pr-integration.yml:45-47` |
-| "MANUAL REVIEW" commit left on HEAD, pushed by the next PR | 25 | real | `scripts/pr-integration-agent.ts:203-205,241` |
-| Overlapping resolver inserts the other side as live code and pushes to main untested | 26 | real | `scripts/lib/conflict-resolver.ts:128-136`, `scripts/pr-integration-agent.ts:241` |
-| `deploy.yml` lacks the premium output guard | 27 | real | `.github/workflows/deploy.yml:45-51` vs `scripts/deploy-website.sh:42` |
-| Raw `redirect_url` on the sign-in page | 80, 130, 175 | real | `scripts/builder/template-engine.ts:523,582` |
-| `.amazonaws.com` PTR suffix trusted | 57, 122, 248 | real | `functions/lib/bot-verify.ts:72` |
-| New Google account without `email_verified` | 58, 125, 249 | real | `functions/api/auth/callback.ts:153-160` |
-| POST progress/books without Content-Type check | 65 | real, low (SameSite=Lax blocks cross-site; same-site siblings remain) | `functions/api/progress.ts:131`, `functions/api/books/index.ts:93` |
-| `completed_paths` and progress rows unbounded | 66, 68 | real | `functions/api/progress.ts:184-190` |
-| Book emoji not escaped on the hub | 176 | real, low (source is `icon.txt` in the repo) | `scripts/builder/template-engine.ts:195` |
-| Free-preview prefix without digit boundary | 35 | real, latent (no book uses `chapter_1x` or `01x` names today) | `functions/lib/gating.ts:168` |
-| Cookies without `__Host-` | 59, 124 | real | `functions/api/auth/login.ts:25`, `functions/lib/auth.ts:77` |
-| Logout by GET | 60, 123 | real | `functions/api/auth/logout.ts:51`; the only caller posts (`apps/hub/src/scripts/hub-runtime.ts:369`) |
-| `isPublicPath` throws URIError | 67 | false | `functions/_middleware.ts:363-381` catches URIError and answers 400 |
-| Prune deletes every image of a book missing from staging | 69 | real for a manual run (deploy order is guarded by `check-premium-output`) | `scripts/premium/sync-media.ts:140-150` |
-| Book publish not atomic | 70 | real | `functions/api/books/index.ts:127-170` |
-| View counter can be pumped | 71 | real, low | `functions/api/books/[slug]/view.ts:47` |
-| `decodeURIComponent` after the session is created | 250 | real | `functions/api/auth/callback.ts:190` |
-| `last_seen_at` UPDATE on every gated request | 251 | real | `functions/lib/auth.ts:133` |
+The 32 findings were merged into 21 issues and each was re-checked in the code at `fe5d13dc`: 20 are real, 1 is a false positive (a malformed path escape, which the middleware already answers with 400). The per-finding evidence is kept outside this public repository.
 
 ## Acceptance criteria
 
@@ -170,7 +148,7 @@ flowchart TD
 - [ ] AC-4: `deploy.yml` runs `scripts/check-premium-output.ts` before the Pages deploy.
 - [ ] AC-5: `sync-media prune` refuses to run when a registered premium book has no staged image.
 - [ ] AC-6: The sign-in and sign-up pages navigate only to a same-origin path from `redirect_url`, otherwise `/`, and show a message for `email_unverified`; the hub card escapes the emoji.
-- [ ] AC-7: `.amazonaws.com` is no longer a trusted PTR suffix, and a PTR suffix only verifies the crawler family whose user agent it belongs to.
+- [ ] AC-7: A PTR suffix only verifies the crawler family whose user agent it belongs to, and only crawler-owned domains are trusted.
 - [ ] AC-8: The free-preview prefix matches `01` and `chapter_1` only when no digit follows.
 - [ ] AC-9: A new Google account with `email_verified !== true` is refused with `email_unverified`; the redirect cookie is decoded safely before the session is created; logout answers only POST; `last_seen_at` is written at most once per 5 minutes per session.
 - [ ] AC-10: POST `/api/progress` and POST `/api/books` require `Content-Type: application/json`; progress paths must be under `/books/<bookSlug>/`, `completed_paths` is capped per book, and rows per user are capped; publish writes metadata and content in one batch; a view counts once per IP per book per 24 hours.
@@ -210,13 +188,13 @@ Files: `scripts/lib/gh-client.ts`, `scripts/pr-integration-agent.ts`, `.github/w
 
 ## Task T3: Sign-in redirect and card escape
 
-- [ ] Step 1: RED test that runs the built sign-in script with `redirect_url` values `javascript:alert(1)`, `https://evil.example/`, `//evil.example/`, a same-origin absolute URL and a path, and checks the navigation target; RED test that a card emoji `<img>` is escaped; message key `email_unverified` exists.
+- [ ] Step 1: RED test that runs the built sign-in script on a table of `redirect_url` values and checks the navigation target; RED test that card fields are escaped; message key `email_unverified` exists.
 - [ ] Step 2: implement one `safeNext(redirectUrl, origin)` used by the logged-in redirect, the Google button and `bcbSignInHref`; run the T3 command, expect exit 0.
 
 ## Task T4: Bot PTR and preview prefix
 
-- [ ] Step 1: RED tests: Googlebot UA from an `ec2-…compute-1.amazonaws.com` PTR is not verified; Googlebot UA with a `search.msn.com` PTR is not verified; Googlebot with `googlebot.com` still is; `chapter_10.html` and `010_x.html` are gated while `chapter_1.html` and `01_x.html` stay public.
-- [ ] Step 2: implement a UA family to PTR suffix map, drop `.amazonaws.com`; run the T4 command, expect exit 0.
+- [ ] Step 1: RED tests: a crawler user agent verifies only against its own family's reverse-DNS domains; `chapter_10.html` and `010_x.html` are gated while `chapter_1.html` and `01_x.html` stay public.
+- [ ] Step 2: implement a user-agent family to PTR suffix map; run the T4 command, expect exit 0.
 
 ## Task T5: Auth callback, logout, last seen
 
