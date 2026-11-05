@@ -12,7 +12,7 @@ Glosarium [Poetry Foundation](https://www.poetryfoundation.org/education/glossar
 
 ### Ruskin dan Empat Cara Memandang Alam
 
-Istilah ini berasal dari John Ruskin, kritikus seni Inggris. Ia menjadikannya judul satu bab dalam jilid ketiga [*Modern Painters*](https://www.gutenberg.org/files/38923/38923-h/38923-h.htm), yang kata pengantarnya bertanggal Januari 1856. Ruskin tidak sedang memuji. Baginya, kebiasaan melihat alam lewat perasaan yang meluap adalah tanda pikiran yang lemah atau sedang tidak sehat. Contoh yang ia bedah datang dari banyak penyair, dari Coleridge dan Pope sampai Kingsley, Keats, dan Tennyson, sehingga sasarannya tidak terbatas pada satu aliran.
+Istilah ini berasal dari John Ruskin, kritikus seni Inggris. Ia menjadikannya judul satu bab dalam jilid ketiga [Modern Painters](https://www.gutenberg.org/files/38923/38923-h/38923-h.htm), yang kata pengantarnya bertanggal Januari 1856. Ruskin tidak sedang memuji. Baginya, kebiasaan melihat alam lewat perasaan yang meluap adalah tanda pikiran yang lemah atau sedang tidak sehat. Contoh yang ia bedah datang dari banyak penyair, dari Coleridge dan Pope sampai Kingsley, Keats, dan Tennyson, sehingga sasarannya tidak terbatas pada satu aliran.
 
 Ruskin lalu memilah orang menjadi empat golongan. Golongan pertama perasaannya tipis, sehingga mereka melihat dengan benar, dan Ruskin tidak menghitung mereka sebagai penyair. Penyair tingkat kedua merasa kuat, berpikir lemah, lalu melihat dengan keliru. Keats dan Tennyson ia tempatkan di sini. Penyair tingkat pertama merasa kuat sekaligus berpikir kuat, sehingga pandangannya jernih, dan Dante menjadi teladannya. Golongan terakhir adalah mereka yang dikuasai sesuatu yang lebih besar daripada dirinya, keadaan yang ia kaitkan dengan ilham kenabian.
 
@@ -28,7 +28,7 @@ Seorang tokoh tidak perlu berkata bahwa ia marah bila di luar jendela badai peti
 
 ### Pagi yang Tetap Gelap di Macbeth
 
-Shakespeare memberi contoh yang terkenal dalam [*Macbeth*](https://www.folger.edu/explore/shakespeares-works/macbeth/read/2/4/), babak 2 adegan 4. Adegan ini terjadi pada pagi setelah Raja Duncan dibunuh, ketika Ross bercakap dengan seorang lelaki tua. Jam menandakan hari sudah datang, tetapi langit tetap gelap. Lelaki tua itu teringat bahwa pada Selasa sebelumnya seekor elang dibunuh oleh burung hantu yang biasa memburu tikus. Kuda-kuda Duncan menjadi liar dan mendobrak kandangnya. Kabarnya mereka saling memangsa, dan Ross membenarkan bahwa ia melihatnya sendiri.
+Shakespeare memberi contoh yang terkenal dalam [Macbeth](https://www.folger.edu/explore/shakespeares-works/macbeth/read/2/4/), babak 2 adegan 4. Adegan ini terjadi pada pagi setelah Raja Duncan dibunuh, ketika Ross bercakap dengan seorang lelaki tua. Jam menandakan hari sudah datang, tetapi langit tetap gelap. Lelaki tua itu teringat bahwa pada Selasa sebelumnya seekor elang dibunuh oleh burung hantu yang biasa memburu tikus. Kuda-kuda Duncan menjadi liar dan mendobrak kandangnya. Kabarnya mereka saling memangsa, dan Ross membenarkan bahwa ia melihatnya sendiri.
 
 Penonton tidak melihat satu pun keganjilan itu terjadi di panggung. Semuanya sampai lewat percakapan dua orang. Adegan ini sering dibaca sebagai tanda bahwa pembunuhan seorang raja ikut mengguncang tatanan alam.
 

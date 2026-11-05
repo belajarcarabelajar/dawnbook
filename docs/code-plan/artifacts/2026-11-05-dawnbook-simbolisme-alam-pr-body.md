@@ -51,6 +51,10 @@ The build ran in a detached scratch worktree on the NVMe with identical book fil
 
 Three independent reviewers. Chapters 01-07: 0 P1, 14 P2. Chapters 08-14 and Referensi: 1 P1, 11 P2. Test, scaffold, cover, diagrams and notes: correct. The P1 (a closing line in chapter 13 overstated The Road) and the P2 (mostly readings stated as fact, unsourced generalisations, intent or cause added) were fixed by three fixers on disjoint chapter groups; the parent read every changed sentence against pre-edit copies. Six findings were kept with reasons. Full table: `docs/code-plan/artifacts/2026-11-05-dawnbook-simbolisme-alam-review-report.md`.
 
-## 6. After Merge (owner-gated)
+## 6. Follow-ups in this PR
+
+Selected in the debt sweep: control cases for the meta-length test (N1) and plain link text for works in chapters 02 and 09 (N2). The plan stays open until the merge and the deploy check (see its Closeout status).
+
+## 7. After Merge (owner-gated)
 
 Deploy per GEMINI.md section 19 (posts the Telegram announcement, section 28), `bun run scripts/migrate-to-d1.ts`, then the GSC sitemap resubmission.

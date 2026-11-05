@@ -30,6 +30,10 @@ function chapterMeta(md: string): string {
   return escapeHtml(meta).length > 160 ? formatSerpDescription(lead, 145) : meta;
 }
 
+function metaOutOfRange(meta: string): boolean {
+  return meta.length < META_MIN || meta.length > META_MAX;
+}
+
 // The owner's notes are private study material, so they stay outside the repository and the scan reads them at run time.
 const SOURCE =
   process.env.DAWNBOOK_SA_SOURCE ?? path.join(os.homedir(), "Dokumen/Learn Earth/Simbolisme Alam dalam Sastra.md");
@@ -105,12 +109,29 @@ describe(`book ${SLUG}`, () => {
     }
   });
 
+  test("meta length check flags a short opener cut before a long second sentence and passes a 123-character one", () => {
+    const longSecond =
+      "Kamu duduk di beranda sambil memperhatikan genangan air yang memantulkan langit kelabu, lalu bertanya mengapa begitu banyak puisi memilih hujan sebagai lambang.";
+    const shortOpener = "Hujan sore itu turun pelan di atas atap seng rumah nenek di ujung kampung kami.";
+    const short = chapterMeta(`## Hujan\n\n${shortOpener} ${longSecond}\n\nParagraf berikutnya.\n`);
+    expect(short).toBe(shortOpener);
+    expect(short.length).toBe(79);
+    expect(metaOutOfRange(short)).toBe(true);
+
+    const okOpener =
+      "Sebuah pohon beringin besar berdiri di tengah alun-alun desa, dan setiap generasi menitipkan cerita yang berbeda kepadanya.";
+    const ok = chapterMeta(`## Beringin\n\n${okOpener} ${longSecond}\n`);
+    expect(ok).toBe(okOpener);
+    expect(ok.length).toBe(123);
+    expect(metaOutOfRange(ok)).toBe(false);
+  });
+
   test("every chapter meta description, computed as the build does, is 110 to 155 characters", () => {
     const files = contentFiles(BOOK);
     expect(files.length).toBe(CHAPTERS);
     const bad = files
       .map((f) => ({ f, meta: chapterMeta(readChapter(f)) }))
-      .filter((m) => m.meta.length < META_MIN || m.meta.length > META_MAX)
+      .filter((m) => metaOutOfRange(m.meta))
       .map((m) => ({ f: m.f, length: m.meta.length }));
     expect(bad).toEqual([]);
   });

@@ -16,7 +16,7 @@ Tafsir kedua menjadikan gunung tempat yang suci. Banyak tradisi sastra menempatk
 
 ### Sepuluh Tahun Zarathustra di Pegunungan
 
-Tafsir ketiga adalah keterasingan. Friedrich Nietzsche membuka [*Thus Spoke Zarathustra*](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm) dengan tokoh yang pada usia tiga puluh tahun meninggalkan kampung halamannya dan pergi ke pegunungan. Sepuluh tahun Zarathustra menikmati kesendiriannya di sana. Sesudah itu ia memutuskan turun untuk membagikan kebijaksanaannya kepada manusia.
+Tafsir ketiga adalah keterasingan. Friedrich Nietzsche membuka [Thus Spoke Zarathustra](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm) dengan tokoh yang pada usia tiga puluh tahun meninggalkan kampung halamannya dan pergi ke pegunungan. Sepuluh tahun Zarathustra menikmati kesendiriannya di sana. Sesudah itu ia memutuskan turun untuk membagikan kebijaksanaannya kepada manusia.
 
 Urutan itu layak direnungkan. Satu cara membacanya, puncak memberi Zarathustra kejernihan, dan kejernihan itu baru bermakna ketika dibawa turun kepada orang lain. Ketinggian juga punya harga dalam banyak cerita. Orang yang terlalu lama berada di atas bisa melihat dunia di bawahnya makin kecil. Jarak itu bisa melepaskannya dari urusan remeh, dan bisa pula mengikis empatinya kepada orang-orang di dataran. Sebab itu tokoh yang bertahan di puncak sering dibaca sebagai unggul sekaligus terputus dari sesamanya.
 
@@ -34,7 +34,7 @@ Dalam sastra, lembah gelap seperti ini sering dibaca sebagai masa putus asa, keh
 
 ### Jalan Christian dari Lembah ke Kota Surgawi
 
-John Bunyan menyusun perjalanan semacam ini menjadi alegori utuh dalam [*The Pilgrim's Progress*](https://www.gutenberg.org/files/131/131-h/131-h.htm) (1678). Tokohnya, Christian, lebih dulu melewati *Valley of Humiliation*, tempat ia bertarung dengan Apollyon, lalu menyusuri *Valley of the Shadow of Death*. Jauh sesudahnya, setelah lolos dari Doubting Castle, ia sampai di *Delectable Mountains*. Perjalanannya berakhir di Celestial City.
+John Bunyan menyusun perjalanan semacam ini menjadi alegori utuh dalam [The Pilgrim's Progress](https://www.gutenberg.org/files/131/131-h/131-h.htm) (1678). Tokohnya, Christian, lebih dulu melewati *Valley of Humiliation*, tempat ia bertarung dengan Apollyon, lalu menyusuri *Valley of the Shadow of Death*. Jauh sesudahnya, setelah lolos dari Doubting Castle, ia sampai di *Delectable Mountains*. Perjalanannya berakhir di Celestial City.
 
 Banyak pembaca melihat lembah-lembah dalam kisah ini sebagai ujian batin yang mengikis kesombongan, dan pegunungan sebagai tempat yang menyenangkan menjelang tujuan akhir. Dalam tafsir itu, naik dan turunnya jalan menjadi riwayat jiwa yang sedang bertumbuh. Bima di awal bab ini menempuh versi kecilnya dalam satu sore, dari lembah kekalahan menuju bukit yang memberinya sedikit pandangan.
 
