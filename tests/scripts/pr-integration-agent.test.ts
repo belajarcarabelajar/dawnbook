@@ -43,7 +43,7 @@ afterEach(() => {
 
 describe("pr-integration-agent", () => {
   it("SAFE assessment for a docs typo", () => {
-    expect(assessSafety({ number: 999, ...pr(999), diff: SAFE_DIFF } as any).verdict).toBe("SAFE");
+    expect(assessSafety({ ...pr(999), diff: SAFE_DIFF } as any).verdict).toBe("SAFE");
   });
 
   it("merges a SAFE mergeable PR with the head sha that was assessed", async () => {
