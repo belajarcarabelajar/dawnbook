@@ -13,7 +13,7 @@
  *   2. Forward DNS of that hostname must resolve back to the same IP.
  *
  * DNS lookups use Cloudflare's DNS-over-HTTPS JSON API (no extra package, no
- * `nodejs_compat` flag needed). Verdicts are cached per IP — 24h for verified,
+ * `nodejs_compat` flag needed). Verdicts are cached per IP and crawler family: 24h for verified,
  * 1h for unverified — so repeated crawls are cheap and a crawl burst does not
  * hammer DNS.
  *
@@ -32,46 +32,46 @@ const NEGATIVE_TTL_MS = 60 * 60 * 1000; // 1h
 const CACHE_MAX_ENTRIES = 10_000;
 
 /**
- * Hostname suffixes that identify legit crawler infrastructure. A PTR record
- * must end in one of these (after stripping the trailing dot). The list covers
- * the crawlers in `isSearchEngineBot()`; entries are intentionally narrow and
- * the forward-confirmation check prevents suffix spoofing.
+ * Crawler families: a User-Agent pattern and the hostname suffixes that crawler
+ * publishes for its PTR records. A PTR host verifies a request only when it
+ * ends with a suffix of a family whose pattern matches the request's
+ * User-Agent. The patterns use the same tokens as `isSearchEngineBot()`.
  */
-const VERIFIED_PTR_SUFFIXES = [
-  // Google
-  ".googlebot.com",
-  ".google.com",
-  // Microsoft Bing
-  ".search.msn.com",
-  ".msn.com",
-  // Yandex
-  ".yandex.com",
-  ".yandex.net",
-  ".yandex.ru",
-  // Baidu
-  ".baidu.com",
-  ".baidu.jp",
-  // DuckDuckGo
-  ".duckduckgo.com",
-  // Apple
-  ".apple.com",
-  // Meta
-  ".facebook.com",
-  // X / Twitter
-  ".twitter.com",
-  ".twttr.com",
-  // LinkedIn
-  ".linkedin.com",
-  // AI crawlers
-  ".openai.com",
-  ".anthropic.com",
-  ".bytedance.com",
-  ".bytedance.net",
-  ".commoncrawl.org",
-  ".amazon.com",
-  ".amazonaws.com",
-  ".perplexity.ai",
+interface CrawlerFamily {
+  name: string;
+  userAgent: RegExp;
+  ptrSuffixes: string[];
+}
+
+const CRAWLER_FAMILIES: CrawlerFamily[] = [
+  {
+    name: "google",
+    userAgent: /Googlebot|Google-InspectionTool|Google-Extended|Storebot-Google/i,
+    ptrSuffixes: [".googlebot.com", ".google.com"],
+  },
+  {
+    name: "bing",
+    userAgent: /Bingbot|BingPreview|msnbot/i,
+    ptrSuffixes: [".search.msn.com", ".msn.com"],
+  },
+  { name: "yandex", userAgent: /YandexBot/i, ptrSuffixes: [".yandex.com", ".yandex.net", ".yandex.ru"] },
+  { name: "baidu", userAgent: /Baiduspider/i, ptrSuffixes: [".baidu.com", ".baidu.jp"] },
+  { name: "duckduckgo", userAgent: /DuckDuckBot/i, ptrSuffixes: [".duckduckgo.com"] },
+  { name: "apple", userAgent: /Applebot/i, ptrSuffixes: [".apple.com"] },
+  { name: "facebook", userAgent: /facebookexternalhit/i, ptrSuffixes: [".facebook.com"] },
+  { name: "twitter", userAgent: /Twitterbot/i, ptrSuffixes: [".twitter.com", ".twttr.com"] },
+  { name: "linkedin", userAgent: /LinkedInBot/i, ptrSuffixes: [".linkedin.com"] },
+  { name: "openai", userAgent: /GPTBot|ChatGPT-User/i, ptrSuffixes: [".openai.com"] },
+  { name: "anthropic", userAgent: /ClaudeBot|Claude-Web|Anthropic/i, ptrSuffixes: [".anthropic.com"] },
+  { name: "bytedance", userAgent: /Bytespider/i, ptrSuffixes: [".bytedance.com", ".bytedance.net"] },
+  { name: "commoncrawl", userAgent: /CCBot/i, ptrSuffixes: [".commoncrawl.org"] },
+  { name: "amazon", userAgent: /Amazonbot/i, ptrSuffixes: [".amazon.com"] },
+  { name: "perplexity", userAgent: /PerplexityBot/i, ptrSuffixes: [".perplexity.ai"] },
 ];
+
+function familiesFor(userAgent: string): CrawlerFamily[] {
+  return CRAWLER_FAMILIES.filter((f) => f.userAgent.test(userAgent));
+}
 
 interface CacheEntry {
   verified: boolean;
@@ -80,7 +80,7 @@ interface CacheEntry {
 
 const verdictCache = new Map<string, CacheEntry>();
 
-/** Test hook: clears the per-IP verdict cache. */
+/** Test hook: clears the verdict cache. */
 export function clearBotCache(): void {
   verdictCache.clear();
 }
@@ -127,10 +127,17 @@ export async function isVerifiedBotRequest(request: Request): Promise<boolean> {
   const ip = request.headers.get("CF-Connecting-IP") ?? "";
   if (!ip) return false;
 
-  const cached = verdictCache.get(ip);
+  const families = familiesFor(userAgent ?? "");
+  if (families.length === 0) return false;
+  const suffixes = families.flatMap((f) => f.ptrSuffixes);
+
+  // Keyed by IP and family so a verdict for one crawler is never reused for
+  // a request that claims to be another.
+  const cacheKey = ip + "|" + families.map((f) => f.name).join(",");
+  const cached = verdictCache.get(cacheKey);
   if (cached) {
     if (cached.expires > Date.now()) return cached.verified;
-    verdictCache.delete(ip);
+    verdictCache.delete(cacheKey);
   }
 
   let verified = false;
@@ -140,7 +147,7 @@ export async function isVerifiedBotRequest(request: Request): Promise<boolean> {
       const ptrRecords = await dnsQuery(ptrNameValue, "PTR");
       const host = ptrRecords
         .map((h) => h.toLowerCase().replace(/\.$/, "")) // DoH PTR data has a trailing dot
-        .find((h) => VERIFIED_PTR_SUFFIXES.some((suffix) => h.endsWith(suffix)));
+        .find((h) => suffixes.some((suffix) => h.endsWith(suffix)));
       if (host) {
         // Forward confirmation: the hostname must resolve back to this IP.
         const forward = await dnsQuery(host, ip.includes(":") ? "AAAA" : "A");
@@ -157,7 +164,7 @@ export async function isVerifiedBotRequest(request: Request): Promise<boolean> {
   }
 
   if (verdictCache.size >= CACHE_MAX_ENTRIES) verdictCache.clear();
-  verdictCache.set(ip, {
+  verdictCache.set(cacheKey, {
     verified,
     expires: Date.now() + (verified ? POSITIVE_TTL_MS : NEGATIVE_TTL_MS),
   });

@@ -142,3 +142,19 @@ describe("isPublicPath canonical path", () => {
     expect(isPublicPath("/books/x/100%25.html")).toBe(false);
   });
 });
+
+describe("isPublicPath: free-preview prefix", () => {
+  test("a chapter whose number only starts with 01 or chapter_1 stays gated", () => {
+    expect(isPublicPath("/books/x/chapter_10.html")).toBe(false);
+    expect(isPublicPath("/books/x/chapter_12.html")).toBe(false);
+    expect(isPublicPath("/books/x/010_x.html")).toBe(false);
+    expect(isPublicPath("/books/x/content/010_x.html")).toBe(false);
+  });
+
+  test("chapter 1 stays public", () => {
+    expect(isPublicPath("/books/x/chapter_1.html")).toBe(true);
+    expect(isPublicPath("/books/x/01_intro.html")).toBe(true);
+    expect(isPublicPath("/books/x/01%20-%20Intro.html")).toBe(true);
+    expect(isPublicPath("/books/x/content/01_intro.html")).toBe(true);
+  });
+});

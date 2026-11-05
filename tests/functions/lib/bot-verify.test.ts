@@ -174,3 +174,61 @@ describe("isVerifiedBotRequest", () => {
     expect(dnsCalls).toBe(2); // PTR + A on the first call only
   });
 });
+
+describe("isVerifiedBotRequest: PTR domain must belong to the claimed crawler", () => {
+  it("rejects Googlebot from a forward-confirmed general cloud host", async () => {
+    __setDnsFetcherForTests(
+      dohResponder({
+        "4.3.2.1.in-addr.arpa|PTR": ["ec2-1-2-3-4.compute-1.amazonaws.com."],
+        "ec2-1-2-3-4.compute-1.amazonaws.com|A": ["1.2.3.4"],
+      })
+    );
+
+    expect(await isVerifiedBotRequest(botRequest("1.2.3.4"))).toBe(false);
+  });
+
+  it("rejects Googlebot whose forward-confirmed PTR is under search.msn.com", async () => {
+    __setDnsFetcherForTests(
+      dohResponder({
+        "1.0.55.157.in-addr.arpa|PTR": ["msnbot-157-55-0-1.search.msn.com."],
+        "msnbot-157-55-0-1.search.msn.com|A": ["157.55.0.1"],
+      })
+    );
+
+    expect(await isVerifiedBotRequest(botRequest("157.55.0.1", GOOGLEBOT_UA))).toBe(false);
+  });
+
+  it("verifies Googlebot whose PTR is crawl-x.googlebot.com", async () => {
+    __setDnsFetcherForTests(
+      dohResponder({
+        "9.65.249.66.in-addr.arpa|PTR": ["crawl-x.googlebot.com."],
+        "crawl-x.googlebot.com|A": ["66.249.65.9"],
+      })
+    );
+
+    expect(await isVerifiedBotRequest(botRequest("66.249.65.9"))).toBe(true);
+  });
+
+  it("verifies Bingbot whose PTR is under search.msn.com", async () => {
+    __setDnsFetcherForTests(
+      dohResponder({
+        "2.0.55.157.in-addr.arpa|PTR": ["msnbot-157-55-0-2.search.msn.com."],
+        "msnbot-157-55-0-2.search.msn.com|A": ["157.55.0.2"],
+      })
+    );
+
+    expect(await isVerifiedBotRequest(botRequest("157.55.0.2", BINGBOT_UA))).toBe(true);
+  });
+
+  it("does not reuse a verdict cached for one crawler family for another from the same IP", async () => {
+    __setDnsFetcherForTests(
+      dohResponder({
+        "1.0.55.157.in-addr.arpa|PTR": ["msnbot-157-55-0-1.search.msn.com."],
+        "msnbot-157-55-0-1.search.msn.com|A": ["157.55.0.1"],
+      })
+    );
+
+    expect(await isVerifiedBotRequest(botRequest("157.55.0.1", BINGBOT_UA))).toBe(true);
+    expect(await isVerifiedBotRequest(botRequest("157.55.0.1", GOOGLEBOT_UA))).toBe(false);
+  });
+});
