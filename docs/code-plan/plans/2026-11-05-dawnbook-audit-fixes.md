@@ -19,10 +19,10 @@ tasks:
     impacts: ["PR Integration workflow run step - rg -n 'pr-integration-agent' .github/workflows", "docs that describe the agent - rg -n -i 'pr-integration|conflict-resolver' docs README.md CONTRIBUTING.md"]
     files: { create: [tests/scripts/gh-client.test.ts, tests/scripts/pr-integration-workflow.test.ts], modify: [scripts/lib/gh-client.ts, scripts/pr-integration-agent.ts, .github/workflows/pr-integration.yml, tests/scripts/pr-integration-agent.test.ts], test: [] }
     idempotency_key: "T1:jules-pr-agent-hardening"
-    skip_if: "timeout 120 bun test tests/scripts/gh-client.test.ts tests/scripts/pr-integration-workflow.test.ts tests/scripts/pr-integration-agent.test.ts"
+    skip_if: "timeout 120 bun test ./tests/scripts/gh-client.test.ts ./tests/scripts/pr-integration-workflow.test.ts ./tests/scripts/pr-integration-agent.test.ts"
     verify_exit: 0
     run:
-      - cmd: "timeout 120 bun test tests/scripts/gh-client.test.ts tests/scripts/pr-integration-workflow.test.ts tests/scripts/pr-integration-agent.test.ts tests/scripts/pr-safety.test.ts"
+      - cmd: "timeout 120 bun test ./tests/scripts/gh-client.test.ts ./tests/scripts/pr-integration-workflow.test.ts ./tests/scripts/pr-integration-agent.test.ts ./tests/scripts/pr-safety.test.ts"
         expect_exit: 0
         retry: 1
   - id: T2
@@ -30,65 +30,65 @@ tasks:
     impacts: ["manual deploy prune step 7 - rg -n 'sync-media' scripts/deploy-website.sh", "CI deploy job when Actions are re-enabled - rg -n 'check-premium-output' .github/workflows/deploy.yml"]
     files: { create: [tests/scripts/deploy-workflow.test.ts], modify: [.github/workflows/deploy.yml, scripts/premium/sync-media.ts, tests/scripts/premium-sync-media.test.ts], test: [] }
     idempotency_key: "T2:premium-deploy-guards"
-    skip_if: "timeout 120 bun test tests/scripts/deploy-workflow.test.ts tests/scripts/premium-sync-media.test.ts"
+    skip_if: "timeout 120 bun test ./tests/scripts/deploy-workflow.test.ts ./tests/scripts/premium-sync-media.test.ts"
     verify_exit: 0
     run:
-      - cmd: "timeout 120 bun test tests/scripts/deploy-workflow.test.ts tests/scripts/premium-sync-media.test.ts"
+      - cmd: "timeout 120 bun test ./tests/scripts/deploy-workflow.test.ts ./tests/scripts/premium-sync-media.test.ts"
         expect_exit: 0
         retry: 1
   - id: T3
     depends_on: []
-    impacts: ["generated sign-in.html and sign-up.html - timeout 120 bun test tests/scripts/sign-in-bcb.test.ts tests/scripts/sign-up-google.test.ts", "hub book cards - timeout 120 bun test tests/scripts/builder-template-engine.test.ts"]
+    impacts: ["generated sign-in.html and sign-up.html - timeout 120 bun test ./tests/scripts/sign-in-bcb.test.ts ./tests/scripts/sign-up-google.test.ts", "hub book cards - timeout 120 bun test ./tests/scripts/builder-template-engine.test.ts"]
     files: { create: [tests/scripts/sign-in-redirect.test.ts], modify: [scripts/builder/template-engine.ts], test: [tests/scripts/builder-template-engine.test.ts] }
     idempotency_key: "T3:sign-in-redirect-and-card-escape"
-    skip_if: "timeout 120 bun test tests/scripts/sign-in-redirect.test.ts"
+    skip_if: "timeout 120 bun test ./tests/scripts/sign-in-redirect.test.ts"
     verify_exit: 0
     run:
-      - cmd: "timeout 120 bun test tests/scripts/sign-in-redirect.test.ts tests/scripts/sign-in-bcb.test.ts tests/scripts/sign-up-google.test.ts tests/scripts/builder-template-engine.test.ts"
+      - cmd: "timeout 120 bun test ./tests/scripts/sign-in-redirect.test.ts ./tests/scripts/sign-in-bcb.test.ts ./tests/scripts/sign-up-google.test.ts ./tests/scripts/builder-template-engine.test.ts"
         expect_exit: 0
         retry: 1
   - id: T4
     depends_on: []
-    impacts: ["search-engine crawl of gated free chapters (GEMINI.md section 11) - timeout 120 bun test tests/functions/ai-crawler.test.ts", "free chapter preview of every book - timeout 120 bun test tests/functions/gating.test.ts tests/functions/edge-gating-integration.test.ts"]
+    impacts: ["search-engine crawl of gated free chapters (GEMINI.md section 11) - timeout 120 bun test ./tests/functions/ai-crawler.test.ts", "free chapter preview of every book - timeout 120 bun test ./tests/functions/gating.test.ts ./tests/functions/edge-gating-integration.test.ts"]
     files: { create: [], modify: [functions/lib/bot-verify.ts, functions/lib/gating.ts], test: [tests/functions/lib/bot-verify.test.ts, tests/functions/lib/gating.test.ts] }
     idempotency_key: "T4:bot-ptr-and-preview-prefix"
-    skip_if: "timeout 120 bun test tests/functions/lib/bot-verify.test.ts tests/functions/lib/gating.test.ts"
+    skip_if: "timeout 120 bun test ./tests/functions/lib/bot-verify.test.ts ./tests/functions/lib/gating.test.ts"
     verify_exit: 0
     run:
-      - cmd: "timeout 120 bun test tests/functions/lib/bot-verify.test.ts tests/functions/lib/gating.test.ts tests/functions/gating.test.ts tests/functions/edge-gating-integration.test.ts tests/functions/ai-crawler.test.ts"
+      - cmd: "timeout 120 bun test ./tests/functions/lib/bot-verify.test.ts ./tests/functions/lib/gating.test.ts ./tests/functions/gating.test.ts ./tests/functions/edge-gating-integration.test.ts ./tests/functions/ai-crawler.test.ts"
         expect_exit: 0
         retry: 1
   - id: T5
     depends_on: []
-    impacts: ["every Google sign-in - timeout 120 bun test tests/functions/api/auth.test.ts tests/functions/api/auth/callback-link.test.ts", "every gated request verifies the session - timeout 120 bun test tests/functions/lib/auth.test.ts tests/functions/middleware.test.ts"]
+    impacts: ["every Google sign-in - timeout 120 bun test ./tests/functions/api/auth.test.ts ./tests/functions/api/auth/callback-link.test.ts", "every gated request verifies the session - timeout 120 bun test ./tests/functions/lib/auth.test.ts ./tests/functions/middleware.test.ts"]
     files: { create: [], modify: [functions/api/auth/callback.ts, functions/api/auth/logout.ts, functions/lib/auth.ts], test: [tests/functions/api/auth.test.ts, tests/functions/lib/auth.test.ts] }
     idempotency_key: "T5:auth-callback-logout-lastseen"
-    skip_if: "timeout 120 bun test tests/functions/api/auth.test.ts tests/functions/lib/auth.test.ts"
+    skip_if: "timeout 120 bun test ./tests/functions/api/auth.test.ts ./tests/functions/lib/auth.test.ts"
     verify_exit: 0
     run:
-      - cmd: "timeout 120 bun test tests/functions/api/auth.test.ts tests/functions/api/auth/callback-link.test.ts tests/functions/lib/auth.test.ts"
+      - cmd: "timeout 120 bun test ./tests/functions/api/auth.test.ts ./tests/functions/api/auth/callback-link.test.ts ./tests/functions/lib/auth.test.ts"
         expect_exit: 0
         retry: 1
   - id: T6
     depends_on: []
-    impacts: ["reader progress tracking in books/shared-script.js - timeout 120 bun test tests/books/shared-script.test.ts", "admin publish UI posts to /api/books - rg -n 'api/books' apps"]
+    impacts: ["reader progress tracking in books/shared-script.js - timeout 120 bun test ./tests/books/shared-script.test.ts", "admin publish UI posts to /api/books - rg -n 'api/books' apps"]
     files: { create: [], modify: [functions/api/progress.ts, functions/api/books/index.ts, "functions/api/books/[slug]/view.ts"], test: [tests/functions/api/progress.test.ts, tests/functions/api/books.test.ts, "tests/functions/api/books/[slug].test.ts"] }
     idempotency_key: "T6:api-write-limits"
-    skip_if: "timeout 120 bun test tests/functions/api/progress.test.ts tests/functions/api/books.test.ts"
+    skip_if: "timeout 120 bun test ./tests/functions/api/progress.test.ts ./tests/functions/api/books.test.ts"
     verify_exit: 0
     run:
-      - cmd: "timeout 120 bun test tests/functions/api/progress.test.ts tests/functions/api/books.test.ts tests/functions/api/books"
+      - cmd: "timeout 120 bun test ./tests/functions/api/progress.test.ts ./tests/functions/api/books.test.ts ./tests/functions/api/books"
         expect_exit: 0
         retry: 1
   - id: T7
     depends_on: [T4, T5, T6]
-    impacts: ["every signed-in reader is signed out once after deploy (owner decision 2026-11-05) - rg -n 'session_id' functions", "bcb SSO hand-off sets the session cookie - timeout 120 bun test tests/functions/api/auth/bcb.test.ts"]
+    impacts: ["every signed-in reader is signed out once after deploy (owner decision 2026-11-05) - rg -n 'session_id' functions", "bcb SSO hand-off sets the session cookie - timeout 120 bun test ./tests/functions/api/auth/bcb.test.ts"]
     files: { create: [functions/lib/cookies.ts], modify: [functions/lib/auth.ts, functions/api/auth/login.ts, functions/api/auth/callback.ts, functions/api/auth/logout.ts, functions/api/auth/bcb.ts], test: [] }
     idempotency_key: "T7:host-prefix-cookies"
-    skip_if: "timeout 300 bun test tests/functions"
+    skip_if: "timeout 300 bun test ./tests/functions"
     verify_exit: 0
     run:
-      - cmd: "timeout 300 bun test tests/functions"
+      - cmd: "timeout 300 bun test ./tests/functions"
         expect_exit: 0
         retry: 1
         timeout_s: 360
@@ -104,7 +104,7 @@ tasks:
         expect_exit: 0
         retry: 0
         timeout_s: 300
-      - cmd: "timeout 300 bun test tests/scripts tests/functions"
+      - cmd: "timeout 300 bun test ./tests/scripts ./tests/functions"
         expect_exit: 0
         retry: 1
         timeout_s: 360
@@ -142,18 +142,20 @@ The 32 findings were merged into 21 issues and each was re-checked in the code a
 
 ## Acceptance criteria
 
-- [ ] AC-1: A PR is a Jules PR only when its author login is `belajarcarabelajar`, its head is in this repository, and its body has a `jules.google.com/task/<digits>` link; the override pattern matches the author login only.
-- [ ] AC-2: The workflow passes inputs through `env:` only, rejects a non-numeric `pr_number`, and a scheduled run is always a dry run.
-- [ ] AC-3: A real merge uses `--match-head-commit <assessed sha>`, at most 3 PRs merge per run, and a conflicting PR is only flagged; the agent never commits or pushes to main itself, and the conflict resolver module is removed.
-- [ ] AC-4: `deploy.yml` runs `scripts/check-premium-output.ts` before the Pages deploy.
-- [ ] AC-5: `sync-media prune` refuses to run when a registered premium book has no staged image.
-- [ ] AC-6: The sign-in and sign-up pages navigate only to a same-origin path from `redirect_url`, otherwise `/`, and show a message for `email_unverified`; the hub card escapes the emoji.
-- [ ] AC-7: A PTR suffix only verifies the crawler family whose user agent it belongs to, and only crawler-owned domains are trusted.
-- [ ] AC-8: The free-preview prefix matches `01` and `chapter_1` only when no digit follows.
-- [ ] AC-9: A new Google account with `email_verified !== true` is refused with `email_unverified`; the redirect cookie is decoded safely before the session is created; logout answers only POST; `last_seen_at` is written at most once per 5 minutes per session.
-- [ ] AC-10: POST `/api/progress` and POST `/api/books` require `Content-Type: application/json`; progress paths must be under `/books/<bookSlug>/`, `completed_paths` is capped per book, and rows per user are capped; publish writes metadata and content in one batch; a view counts once per IP per book per 24 hours.
-- [ ] AC-11: The session, OAuth state and OAuth redirect cookies are named with the `__Host-` prefix through one shared module.
-- [ ] AC-12: `bun run typecheck` and the tests under `tests/scripts` and `tests/functions` exit 0.
+- [x] AC-1: A PR is a Jules PR only when its author login is `belajarcarabelajar`, its head is in this repository, and its body has a `jules.google.com/task/<digits>` link; the override pattern matches the author login only.
+- [x] AC-2: The workflow passes inputs through `env:` only, rejects a non-numeric `pr_number`, and a scheduled run is always a dry run.
+- [x] AC-3: A real merge uses `--match-head-commit <assessed sha>`, at most 3 PRs merge per run, and a conflicting PR is only flagged; the agent never commits or pushes to main itself, and the conflict resolver module is removed.
+- [x] AC-4: `deploy.yml` runs `scripts/check-premium-output.ts` before the Pages deploy.
+- [x] AC-5: `sync-media prune` refuses to run when a registered premium book has no staged image.
+- [x] AC-6: The sign-in and sign-up pages navigate only to a same-origin path from `redirect_url`, otherwise `/`, and show a message for `email_unverified`; the hub card escapes the emoji.
+- [x] AC-7: A PTR suffix only verifies the crawler family whose user agent it belongs to, and only crawler-owned domains are trusted.
+- [x] AC-8: The free-preview prefix matches `01` and `chapter_1` only when no digit follows.
+- [x] AC-9: A new Google account with `email_verified !== true` is refused with `email_unverified`; the redirect cookie is decoded safely before the session is created; logout answers only POST; `last_seen_at` is written at most once per 5 minutes per session.
+- [x] AC-10: POST `/api/progress` and POST `/api/books` require `Content-Type: application/json`; progress paths must be under `/books/<bookSlug>/`, `completed_paths` is capped per book, and rows per user are capped; publish writes metadata and content in one batch; a view counts once per IP per book per 24 hours.
+- [x] AC-11: The session, OAuth state and OAuth redirect cookies are named with the `__Host-` prefix through one shared module.
+- [x] AC-12: `bun run typecheck` and the tests under `tests/scripts` and `tests/functions` exit 0.
+
+Evidence for the ticks (2026-11-05): plan runner `--execute` exit 0 at `e5d6d3cf` (T1 to T7 green through their `skip_if` tests, T8 typecheck and `bun test ./tests/scripts ./tests/functions` PASSED, 1486 pass, 0 fail); independent review against AC-1 to AC-11 returned verdict correct.
 
 ## Traceability
 
@@ -169,8 +171,8 @@ The 32 findings were merged into 21 issues and each was re-checked in the code a
 | AC-8 | T4 | `tests/functions/lib/gating.test.ts` |
 | AC-9 | T5 | `tests/functions/api/auth.test.ts`, `tests/functions/lib/auth.test.ts` |
 | AC-10 | T6 | `tests/functions/api/progress.test.ts`, `tests/functions/api/books.test.ts`, `tests/functions/api/books/[slug].test.ts` |
-| AC-11 | T7 | `timeout 300 bun test tests/functions` |
-| AC-12 | T8 | `bun run typecheck`, `timeout 300 bun test tests/scripts tests/functions` |
+| AC-11 | T7 | `timeout 300 bun test ./tests/functions` |
+| AC-12 | T8 | `bun run typecheck`, `timeout 300 bun test ./tests/scripts ./tests/functions` |
 
 ## Task T1: Jules PR agent hardening
 
@@ -214,7 +216,7 @@ Files: `scripts/lib/gh-client.ts`, `scripts/pr-integration-agent.ts`, `.github/w
 ## Task T8: Gates
 
 - [x] Step 1: `bun run typecheck`, expect exit 0.
-- [x] Step 2: `timeout 300 bun test tests/scripts tests/functions`, expect exit 0.
+- [x] Step 2: `timeout 300 bun test ./tests/scripts ./tests/functions`, expect exit 0.
 
 ## Non-goals and follow-ups
 
