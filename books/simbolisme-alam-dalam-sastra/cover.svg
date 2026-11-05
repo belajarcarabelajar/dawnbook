@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 630 630" width="630" height="630">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#221846"/>
+      <stop offset="0.38" stop-color="#4f2c6c"/>
+      <stop offset="0.56" stop-color="#b9506d"/>
+      <stop offset="0.66" stop-color="#f39a5c"/>
+    </linearGradient>
+    <linearGradient id="river" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffd166"/>
+      <stop offset="0.35" stop-color="#f39a5c"/>
+      <stop offset="1" stop-color="#8fd1c4"/>
+    </linearGradient>
+    <mask id="crescent">
+      <rect width="630" height="630" fill="#fff"/>
+      <circle cx="164" cy="96" r="44" fill="#000"/>
+    </mask>
+    <path id="tree" d="M0,-200 L24,-148 L14,-148 L38,-92 L24,-92 L50,-28 L6,-28 L6,0 L-6,0 L-6,-28 L-50,-28 L-24,-92 L-38,-92 L-14,-148 L-24,-148 Z"/>
+    <ellipse id="petal" cx="520" cy="446" rx="17" ry="34"/>
+  </defs>
+
+  <rect width="630" height="630" fill="url(#sky)"/>
+
+  <g fill="#f6ecd6">
+    <circle cx="140" cy="112" r="50" mask="url(#crescent)"/>
+    <circle cx="300" cy="70" r="4"/>
+    <circle cx="390" cy="130" r="4"/>
+    <circle cx="520" cy="80" r="5"/>
+    <circle cx="60" cy="210" r="4"/>
+    <circle cx="590" cy="190" r="4"/>
+  </g>
+
+  <circle cx="530" cy="376" r="112" fill="#ffd166" opacity="0.22"/>
+  <circle cx="530" cy="376" r="60" fill="#ffd166"/>
+
+  <polygon points="-20,420 90,300 220,165 300,245 345,225 430,330 470,365 650,396 650,440 -20,440" fill="#2f3a74"/>
+  <polygon points="220,165 300,245 345,225 430,330 470,365 360,420 262,300" fill="#46509a"/>
+  <polygon points="220,165 250,196 236,204 222,192 204,206 194,192" fill="#e9d8f0"/>
+
+  <rect x="-10" y="396" width="650" height="244" fill="#1f2350"/>
+
+  <path d="M515,397 C541,397 550,402 545,411 C530,440 420,448 398,480 C376,515 470,548 470,640 L292,640 C304,566 246,522 266,480 C288,438 468,428 504,410 C510,404 505,397 515,397 Z" fill="url(#river)"/>
+  <g fill="#fff4d6" opacity="0.75">
+    <rect x="490" y="404" width="36" height="4" rx="2"/>
+    <rect x="420" y="440" width="44" height="4" rx="2"/>
+    <rect x="330" y="500" width="52" height="5" rx="2.5"/>
+  </g>
+
+  <g fill="#0f1a24">
+    <path d="M-10,430 C60,420 150,430 230,450 C270,462 290,490 280,520 L-10,560 Z"/>
+    <use href="#tree" transform="translate(20,470)"/>
+    <use href="#tree" transform="translate(80,455) scale(1.15)"/>
+    <use href="#tree" transform="translate(145,470) scale(0.95)"/>
+    <use href="#tree" transform="translate(205,480) scale(0.75)"/>
+    <use href="#tree" transform="translate(250,488) scale(0.55)"/>
+    <use href="#tree" transform="translate(612,430) scale(0.5)"/>
+  </g>
+
+  <path d="M-10,560 C120,520 260,540 360,575 C460,610 560,566 640,548 L640,640 L-10,640 Z" fill="#0d1420"/>
+
+  <g fill="#7cc8a8">
+    <path d="M528,610 C522,566 532,524 520,480" fill="none" stroke="#7cc8a8" stroke-width="7" stroke-linecap="round"/>
+    <path d="M526,566 C548,540 574,540 590,528 C574,562 550,572 526,566 Z"/>
+    <path d="M524,590 C500,570 478,572 462,562 C478,592 502,598 524,590 Z"/>
+  </g>
+  <g fill="#ff7a59">
+    <use href="#petal"/>
+    <use href="#petal" transform="rotate(60 520 480)"/>
+    <use href="#petal" transform="rotate(120 520 480)"/>
+    <use href="#petal" transform="rotate(180 520 480)"/>
+    <use href="#petal" transform="rotate(240 520 480)"/>
+    <use href="#petal" transform="rotate(300 520 480)"/>
+  </g>
+  <g fill="#d94f62" transform="rotate(30 520 480)">
+    <ellipse cx="520" cy="458" rx="10" ry="20"/>
+    <ellipse cx="520" cy="458" rx="10" ry="20" transform="rotate(120 520 480)"/>
+    <ellipse cx="520" cy="458" rx="10" ry="20" transform="rotate(240 520 480)"/>
+  </g>
+  <circle cx="520" cy="480" r="15" fill="#ffd166"/>
+</svg>
