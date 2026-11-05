@@ -176,45 +176,45 @@ The 32 findings were merged into 21 issues and each was re-checked in the code a
 
 Files: `scripts/lib/gh-client.ts`, `scripts/pr-integration-agent.ts`, `.github/workflows/pr-integration.yml`, delete `scripts/lib/conflict-resolver.ts` and `tests/scripts/conflict-resolver.test.ts`; tests `tests/scripts/gh-client.test.ts`, `tests/scripts/pr-integration-workflow.test.ts`, `tests/scripts/pr-integration-agent.test.ts`.
 
-- [ ] Step 1: RED tests for `isJulesPR` (owner + same repo + footer; a title or body "Jules" alone is refused; a fork is refused), for the merge args (`--match-head-commit`), for the cap of 3, for a conflicting PR being flagged without any git write, and for the workflow file (no `${{ inputs.` inside a `run:` block, schedule forces dry run).
-- [ ] Step 2: run them, expect exit 1.
-- [ ] Step 3: implement; `gh pr list --json` adds `headRefOid,isCrossRepository`.
-- [ ] Step 4: run the T1 command, expect exit 0.
+- [x] Step 1: RED tests for `isJulesPR` (owner + same repo + footer; a title or body "Jules" alone is refused; a fork is refused), for the merge args (`--match-head-commit`), for the cap of 3, for a conflicting PR being flagged without any git write, and for the workflow file (no `${{ inputs.` inside a `run:` block, schedule forces dry run).
+- [x] Step 2: run them, expect exit 1.
+- [x] Step 3: implement; `gh pr list --json` adds `headRefOid,isCrossRepository`.
+- [x] Step 4: run the T1 command, expect exit 0.
 
 ## Task T2: Premium deploy guards
 
-- [ ] Step 1: RED test that `deploy.yml` runs `bun run scripts/check-premium-output.ts` before the `Deploy to Cloudflare Pages` step, and a RED test that `prune` returns 1 and deletes nothing when a registry slug has no staged image.
-- [ ] Step 2: implement, run the T2 command, expect exit 0.
+- [x] Step 1: RED test that `deploy.yml` runs `bun run scripts/check-premium-output.ts` before the `Deploy to Cloudflare Pages` step, and a RED test that `prune` returns 1 and deletes nothing when a registry slug has no staged image.
+- [x] Step 2: implement, run the T2 command, expect exit 0.
 
 ## Task T3: Sign-in redirect and card escape
 
-- [ ] Step 1: RED test that runs the built sign-in script on a table of `redirect_url` values and checks the navigation target; RED test that card fields are escaped; message key `email_unverified` exists.
-- [ ] Step 2: implement one `safeNext(redirectUrl, origin)` used by the logged-in redirect, the Google button and `bcbSignInHref`; run the T3 command, expect exit 0.
+- [x] Step 1: RED test that runs the built sign-in script on a table of `redirect_url` values and checks the navigation target; RED test that card fields are escaped; message key `email_unverified` exists.
+- [x] Step 2: implement one `safeNext(redirectUrl, origin)` used by the logged-in redirect, the Google button and `bcbSignInHref`; run the T3 command, expect exit 0.
 
 ## Task T4: Bot PTR and preview prefix
 
-- [ ] Step 1: RED tests: a crawler user agent verifies only against its own family's reverse-DNS domains; `chapter_10.html` and `010_x.html` are gated while `chapter_1.html` and `01_x.html` stay public.
-- [ ] Step 2: implement a user-agent family to PTR suffix map; run the T4 command, expect exit 0.
+- [x] Step 1: RED tests: a crawler user agent verifies only against its own family's reverse-DNS domains; `chapter_10.html` and `010_x.html` are gated while `chapter_1.html` and `01_x.html` stay public.
+- [x] Step 2: implement a user-agent family to PTR suffix map; run the T4 command, expect exit 0.
 
 ## Task T5: Auth callback, logout, last seen
 
-- [ ] Step 1: RED tests: callback with `email_verified: false` for a new account redirects to `/sign-in?error=email_unverified` and creates no user or session; a malformed `oauth_redirect` cookie leads to `/` with a session and no orphan; GET logout answers 405; `verifySession` skips the UPDATE when `last_seen_at` is under 5 minutes old.
-- [ ] Step 2: implement; run the T5 command, expect exit 0.
+- [x] Step 1: RED tests: callback with `email_verified: false` for a new account redirects to `/sign-in?error=email_unverified` and creates no user or session; a malformed `oauth_redirect` cookie leads to `/` with a session and no orphan; GET logout answers 405; `verifySession` skips the UPDATE when `last_seen_at` is under 5 minutes old.
+- [x] Step 2: implement; run the T5 command, expect exit 0.
 
 ## Task T6: API write limits
 
-- [ ] Step 1: RED tests: POST without JSON content type answers 415; a path outside `/books/<bookSlug>/` answers 400; adding past the per-book cap of `completed_paths` is refused; a new book row past the per-user cap is refused; publish sends one `DB.batch` holding the metadata upsert and every chunk; a second view from the same IP for the same book within 24 hours does not increment.
-- [ ] Step 2: implement; run the T6 command, expect exit 0.
+- [x] Step 1: RED tests: POST without JSON content type answers 415; a path outside `/books/<bookSlug>/` answers 400; adding past the per-book cap of `completed_paths` is refused; a new book row past the per-user cap is refused; publish sends one `DB.batch` holding the metadata upsert and every chunk; a second view from the same IP for the same book within 24 hours does not increment.
+- [x] Step 2: implement; run the T6 command, expect exit 0.
 
 ## Task T7: `__Host-` cookies
 
-- [ ] Step 1: add `functions/lib/cookies.ts` with the three names, use it in every handler, update the cookie literals in the tests.
-- [ ] Step 2: run the T7 command, expect exit 0.
+- [x] Step 1: add `functions/lib/cookies.ts` with the three names, use it in every handler, update the cookie literals in the tests.
+- [x] Step 2: run the T7 command, expect exit 0.
 
 ## Task T8: Gates
 
-- [ ] Step 1: `bun run typecheck`, expect exit 0.
-- [ ] Step 2: `timeout 300 bun test tests/scripts tests/functions`, expect exit 0.
+- [x] Step 1: `bun run typecheck`, expect exit 0.
+- [x] Step 2: `timeout 300 bun test tests/scripts tests/functions`, expect exit 0.
 
 ## Non-goals and follow-ups
 
