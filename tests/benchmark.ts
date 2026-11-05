@@ -60,7 +60,7 @@ const runBenchmark = async () => {
 
   const req = mockRequest("https://example.com/api/books", {
     method: "POST",
-    headers: { "Authorization": `Bearer ${validToken}` },
+    headers: { "Authorization": `Bearer ${validToken}`, "Content-Type": "application/json" },
     body: JSON.stringify({ bookSlug: "perf-book", chapterTitle: "Perf Book", markdownContent: largeContent })
   });
 
