@@ -118,4 +118,43 @@ describe("scripts/builder/template-engine.ts", () => {
       }
     });
   });
+
+  describe("generateSitePages - hub book card", () => {
+    test("escapes the book emoji in the card", async () => {
+      const { generateSitePages } = await import("../../scripts/builder/template-engine");
+      const { mkdirSync, mkdtempSync, rmSync, readFileSync } = await import("fs");
+      const { homedir } = await import("os");
+      const { join } = await import("path");
+
+      const rootDir = join(import.meta.dir, "../..");
+      const scratch = join(homedir(), ".cache/tmp/dawnbook-scratch/card-escape-test");
+      mkdirSync(scratch, { recursive: true });
+      const tmpDir = mkdtempSync(join(scratch, "run-"));
+
+      try {
+        await generateSitePages(
+          rootDir,
+          tmpDir,
+          [
+            {
+              slug: "card-escape",
+              title: "Card Escape",
+              author: "Tester",
+              chapterCount: 1,
+              emoji: '<img src=x onerror="alert(1)">',
+              chapters: ["content/01_x.md"],
+              mtimeMs: 0,
+              formattedDate: "",
+            },
+          ],
+          {},
+        );
+        const indexHtml = readFileSync(join(tmpDir, "index.html"), "utf-8");
+        expect(indexHtml).not.toContain('<img src=x onerror="alert(1)">');
+        expect(indexHtml).toContain("&lt;img src=x onerror=&quot;alert(1)&quot;&gt;");
+      } finally {
+        rmSync(tmpDir, { recursive: true, force: true });
+      }
+    });
+  });
 });
