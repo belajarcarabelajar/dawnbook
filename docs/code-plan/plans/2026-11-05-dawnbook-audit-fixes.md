@@ -223,6 +223,13 @@ Files: `scripts/lib/gh-client.ts`, `scripts/pr-integration-agent.ts`, `.github/w
 - Re-enabling `pr-integration.yml` is a separate owner question after the PR; GitHub Actions stay off repo-wide (GEMINI.md section 19) whatever the answer.
 - Branch protection with required review on `main` (suggested in finding 24) is a repository setting, not code; offered as a follow-up.
 
+## Closeout status
+
+- 2026-11-05: `bun scripts/plan-closeout.mjs --readiness` verdict NEEDS-HUMAN (exit 3): T1 to T7 DONE, T8 UNPROVEN (`skip_if: "false"`; it PASSED in the runner `--execute` log). Owner kept the plan open.
+- Reopen trigger: PR #265 merged and the live site checked after the manual deploy (sign-in, chapter gating, one sign-in after the cookie rename).
+- Follow-up done in the same PR: removed the unused copies `books/kenapa-kebiasaan-susah-diubah/shared-script.js` and `books/human-capital-theory/shared-script.js` (their `book.toml` loads `../shared-script.js`).
+- Backlog: split `scripts/builder/template-engine.ts` (63 KB); an opt-out for a premium book with no images if one is ever registered (prune is strict); branch protection on `main` (repository setting, owner).
+
 ## Risks and rollback
 
 - The cookie rename signs every reader out once (owner decision). Rollback: revert the PR; old-name cookies are then read again.
