@@ -67,3 +67,4 @@ Daftar ini mengumpulkan karya dan halaman yang dibahas di buku ini, dikelompokka
 - Den of Geek. *How Hollywood Changed Werewolf Lore Forever*. [Den of Geek](https://www.denofgeek.com/movies/hollywood-changed-werewolf-lore-forever/).
 - Theoi Project. *Styx*. [STYX - Greek River-Goddess & Underworld River of Hatred](https://www.theoi.com/Khthonios/PotamosStyx.html).
 - The Pulitzer Prizes. *Cormac McCarthy*. [The Pulitzer Prizes](https://www.pulitzer.org/winners/cormac-mccarthy).
+- Encyclopedia.com. *House-Tree-Person Test*. [House-Tree-Person Test](https://www.encyclopedia.com/medicine/encyclopedias-almanacs-transcripts-and-maps/house-tree-person-test).
