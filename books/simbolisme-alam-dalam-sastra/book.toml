@@ -1,0 +1,18 @@
+[book]
+authors = ["Kania Salsabila"]
+language = "id"
+src = "src"
+title = "Simbolisme Alam dalam Sastra"
+description = "Cara penulis memakai matahari, bulan, musim, air, hutan, dan badai untuk menyuarakan batin tokoh, dibaca dari Shakespeare dan Brontë sampai Ahmad Tohari."
+
+[preprocessor.dawnbook]
+optional = true
+subject_label = "Sastra"
+
+[output.html.print]
+enable = false
+
+[output.html]
+mathjax-support = false
+additional-css = ["../shared-header.css", "../../apps/hub/src/styles/typography.css"]
+additional-js = ["../shared-script.js"]
