@@ -37,6 +37,9 @@ jobs:
           GA_MEASUREMENT_ID: ${{ vars.GA_MEASUREMENT_ID }}
           TURNSTILE_SITE_KEY: ${{ vars.TURNSTILE_SITE_KEY }}
         run: bun run build
+      - name: Check premium output
+        # A checkout without the private premium sources must not replace the live site.
+        run: bun run scripts/check-premium-output.ts
       - name: Snapshot live manifest
         # Baseline for the Telegram announcement (GEMINI.md section 28): a slug
         # missing from the live manifest before this deploy is a new book.

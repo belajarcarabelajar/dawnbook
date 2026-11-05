@@ -124,12 +124,13 @@ function flagOf(cmd: string[], name: string): string | undefined {
   return i >= 0 ? cmd[i + 1] : undefined;
 }
 
-async function sync(argv: string[], cf: ReturnType<typeof fakeCf>, dir = stagingDir()) {
+async function sync(argv: string[], cf: ReturnType<typeof fakeCf>, dir = stagingDir(), registeredSlugs = ["rahasia"]) {
   const out: string[] = [];
   const err: string[] = [];
   const code = await main(argv, {
     run: cf.run,
     stagingDir: dir,
+    registeredSlugs,
     log: (line) => out.push(line),
     error: (line) => err.push(line),
   });
@@ -290,6 +291,30 @@ describe("sync-media prune", () => {
 
     expect(r.code).toBe(1);
     expect(cf.calls).toEqual([]);
+  });
+
+  test("refuses to run, names the slug and deletes nothing when a registered premium book has no staged image", async () => {
+    staged("books/rahasia/images/a.svg", "abc");
+    const cf = fakeCf({ "books/rahasia/images/a.svg": MD5_ABC, "books/kedua/images/b.svg": MD5_ABC });
+
+    const r = await sync(["prune"], cf, stagingDir(), ["rahasia", "kedua"]);
+
+    expect(r.code).toBe(1);
+    expect(r.err).toContain("kedua");
+    expect(cf.of("delete")).toEqual([]);
+    expect(cf.bucket.has("books/kedua/images/b.svg")).toBe(true);
+  });
+
+  test("a book staged under a slug that only shares a prefix does not count as staged", async () => {
+    staged("books/rahasia-lain/images/a.svg", "abc");
+    staged("books/rahasia/images/a.svg", "abc");
+    const cf = fakeCf({ "books/rahas/images/b.svg": MD5_ABC });
+
+    const r = await sync(["prune"], cf, stagingDir(), ["rahasia", "rahas"]);
+
+    expect(r.code).toBe(1);
+    expect(r.err).toContain("rahas");
+    expect(cf.of("delete")).toEqual([]);
   });
 
   test("--dry-run prints the keys it would delete and deletes nothing", async () => {

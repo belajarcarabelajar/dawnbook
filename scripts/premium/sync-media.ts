@@ -8,6 +8,7 @@
 import { createHash } from "node:crypto";
 import { existsSync, readdirSync, readFileSync } from "node:fs";
 import { extname, join, relative, resolve, sep } from "node:path";
+import { premiumSlugs } from "../../functions/lib/premium";
 import { PREMIUM_MEDIA_DIR } from "./move-media";
 
 export const MEDIA_BUCKET = "dawnbook-premium-media";
@@ -30,6 +31,8 @@ export type CfResult = { exitCode: number; stdout: string; stderr: string };
 export type SyncDeps = {
   run: (cmd: string[]) => Promise<CfResult>;
   stagingDir: string;
+  /** Slugs in data/premium-books.json; prune refuses when one of them has nothing staged. */
+  registeredSlugs: string[];
   log: (line: string) => void;
   error: (line: string) => void;
 };
@@ -141,6 +144,11 @@ async function prune(deps: SyncDeps, staged: Staged[], dryRun: boolean): Promise
     deps.error(`sync-media: refusing to prune, ${deps.stagingDir}/books holds no images; a build without the private books would empty the bucket`);
     return 1;
   }
+  const missing = deps.registeredSlugs.filter((slug) => !staged.some((s) => s.key.startsWith(`${KEY_PREFIX}${slug}/`)));
+  if (missing.length > 0) {
+    deps.error(`sync-media: refusing to prune, no images staged for registered premium book(s): ${missing.join(", ")}`);
+    return 1;
+  }
 
   const remote = await listObjects(deps.run);
   const keep = new Set(staged.map((s) => s.key));
@@ -164,6 +172,7 @@ export async function main(argv: string[], deps: Partial<SyncDeps> = {}): Promis
   const d: SyncDeps = {
     run: runCf,
     stagingDir: resolve(import.meta.dir, "../..", PREMIUM_MEDIA_DIR),
+    registeredSlugs: deps.registeredSlugs ?? premiumSlugs(),
     log: (line) => console.log(line),
     error: (line) => console.error(line),
     ...deps,
