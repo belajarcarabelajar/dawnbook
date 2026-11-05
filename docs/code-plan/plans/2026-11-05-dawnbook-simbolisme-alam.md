@@ -1,7 +1,7 @@
 ---
 schema: ultra-plan/v1
 plan_id: 2026-11-05-dawnbook-simbolisme-alam
-status: Approved
+status: Complete
 version: 1
 runner_contract: true
 skill: "super-ultra-code-plan (loaded through the Skill tool from ~/.claude/skills/super-ultra-code-plan/SKILL.md)"
@@ -215,7 +215,7 @@ tasks:
 
 # Plan: Dawnbook book Simbolisme Alam dalam Sastra by Kania Salsabila
 
-Status: Approved
+Status: Complete
 Session: dawnbook-simbolisme-alam
 Branch: 2026-11-05-dawnbook-simbolisme-alam/dawnbook-simbolisme-alam
 Worktree: /mnt/belajarcarabelajar/dawnbook-wt/dawnbook-simbolisme-alam
@@ -467,8 +467,9 @@ Debt sweep 2026-11-05: 0 `defer:` markers in this repository (`git grep -nE '(#|
 
 - N1 (NOW candidate) Add a positive and a negative control to the meta-length case in tests/books/simbolisme-alam-dalam-sastra.test.ts, as the Harvest Moon sibling has (a short opener cut before a long second sentence, a 120-character opener); finish line: `bun test tests/books/simbolisme-alam-dalam-sastra.test.ts` exit 0 with the two new cases. Reviewer 3 P3. Done 2026-11-05 (owner selected): chef added `metaOutOfRange` and one control test (a 79-character opener cut before a 160-character second sentence is flagged; a 123-character opener passes); RED with META_MIN mutated to 200 (`bun test ... -t 'meta length check'` exit 1, `Expected: false, Received: true` at the 123-character case; mutation proven by diff), restored (cmp identical, `META_MIN = 110`); GREEN on an NVMe scratch worktree at 3dfa6991 with the three changed files copied (cmp identical): `bun test tests/books/simbolisme-alam-dalam-sastra.test.ts tests/books/referensi-links.test.ts tests/books/referensi-presence.test.ts tests/scripts/check-book-structure.test.ts` exit 0, 68 pass, 0 fail, 242 ms; `bun run typecheck` exit 0; scratch worktree removed. On the external disk the same file took 5-6 minutes per run while another session's vitest kept it 100% busy.
 - N2 (NOW candidate) Make link text for works consistent: chapter 02 puts italics inside link text (`[*Macbeth*]`, `[*Modern Painters*]`) while chapters 03-13 do not; finish line: `rg -n '\[\*' books/simbolisme-alam-dalam-sastra/src/content` returns nothing and the book test exit 0. Reviewer 1 P3. Done 2026-11-05 (owner selected): nappy removed the italics in chapter 02 (2 links, diff against the pre-copy shows only the 4 asterisks); the same pattern in chapter 09 (2 links) was fixed by the parent as the same item; `rg -n '\[\*' books/simbolisme-alam-dalam-sastra/src/content` exit 1 (no match); `bun run scripts/check-book-structure.ts simbolisme-alam-dalam-sastra` exit 0.
-- L1 Deploy, D1 seed, GSC sitemap resubmission and the Telegram announcement after PR #264 merges. `defer: owner-gated production deploy, after the merge of PR #264`
-- L2 `~/vivera/scripts/check-copy-rules.mjs` flags the emoji in books/*/icon.txt, which GEMINI.md section 14 permits. `defer: other repository (vivera), when a dawnbook PR next adds a book or icon` In progress 2026-11-05 (owner: "do backlog first"): vivera session copy-rule-icon-file.
+- L1 Deploy, D1 seed, GSC sitemap resubmission and the Telegram announcement after PR #264 merges. `defer: owner-gated production deploy, after the merge of PR #264` Done 2026-11-05 (owner: "do backlog first then do 1-4"): see docs/code-plan/artifacts/2026-11-05-dawnbook-simbolisme-alam-merge-evidence.md.
+- L2 `~/vivera/scripts/check-copy-rules.mjs` flags the emoji in books/*/icon.txt, which GEMINI.md section 14 permits. `defer: other repository (vivera), when a dawnbook PR next adds a book or icon` Done 2026-11-05 (owner: "do backlog first"): vivera session copy-rule-icon-file, commit b0a0f39, `bun run ci:targeted` exit 0 on an NVMe copy; vivera PR opened separately.
+- L5 Dawnbook requires `Co-authored-by: Iwan Kurniawan` on Kania Salsabila's commits (GEMINI.md section 18, owner decision 2026-11-05), and `~/vivera/scripts/check-copy-rules.mjs --diff origin/main` reports those trailers as violations (2 on PR #264). `defer: rule conflict for the owner to settle, when the next Kania-authored dawnbook PR runs the copy-rules check`
 - L3 13 orphaned diagram SVGs in other books (`bun run check:diagrams` warnings, pre-existing; `bun run diagrams:render --prune` deletes them). `defer: deletes files in other books, separate session with its own PR` Done 2026-11-05 (owner: "do backlog first"), in this PR: `bun run diagrams:render --prune` exit 0 (`rendered 0, cached 173, missing 0, orphans 13, pruned 13`), then `bun run check:diagrams` exit 0 (0 violations, 0 orphaned SVGs).
 - L4 The House-Tree-Person encyclopedia page (S30) linked in chapter 11 and the Ruskin Gutenberg HTML (S1) linked in chapter 02 have no Referensi entry of their own (the works are listed through other rows); Chaucer is named in chapter 03 without an entry (no source row). `defer: cosmetic, when the book is next revised` Done 2026-11-05 (owner: "do backlog first"): the Referensi fact-check group gains the House-Tree-Person entry (S30); Chaucer stays without an entry of his own because no source row covers him, and the chapter's Chaucer remark is backed by the Waste Land page (S9), which is listed.
 
@@ -478,3 +479,5 @@ Decision (AskUserQuestion 2026-11-05, Close plan): Keep it open. Follow-ups sele
 - Verdict: `bun ~/vivera/scripts/plan-closeout.mjs --readiness docs/code-plan/plans/2026-11-05-dawnbook-simbolisme-alam.md` exit 3, NEEDS-HUMAN: 0 open NOW follow-ups, 0 open step boxes, 1 other open box (the Sweep checklist item), every task UNPROVEN because its `skip_if` is the `false` sentinel (evidence is in the checklist, not machine-checkable).
 - What remains: the merge of PR #264, then the owner-gated deploy, D1 seed, GSC sitemap resubmission and Telegram announcement (backlog L1).
 - Reopen trigger: after PR #264 merges and the live book index answers 200 with its meta equal to the book.toml description, mark this plan Complete in the next dawnbook session's PR.
+
+Update 2026-11-05 (after the merge): the owner asked to finish the backlog and then merge, deploy, seed and mark the plan Complete ("do backlog first then do 1-4"). PR #264 merged (ba7d99b4); the deploy finished (deployment 7a917811, Telegram announcement sent); the live book index returns 200 and its meta equals the book.toml description; the sitemap was resubmitted to GSC (HTTP 204). The reopen trigger is met, so the plan is marked Complete in this closeout PR. Evidence: docs/code-plan/artifacts/2026-11-05-dawnbook-simbolisme-alam-merge-evidence.md. Backlog L1 to L4 closed; L5 stays deferred. Readiness re-run 2026-11-05 on this branch: `bun ~/vivera/scripts/plan-closeout.mjs --readiness docs/code-plan/plans/2026-11-05-dawnbook-simbolisme-alam.md` exit 3, NEEDS-HUMAN (0 open NOW follow-ups, 0 open step boxes, 0 other open boxes; every task UNPROVEN only because of the `false` sentinel); the owner's explicit request decides Complete. Cost estimate: `bun ~/vivera/scripts/plan-cost.mjs --plan 2026-11-05-dawnbook-simbolisme-alam` usd 73.3491 (estimate; its caveats: sessions that continued without a registry claim are not counted, other work in a claiming session is counted).
