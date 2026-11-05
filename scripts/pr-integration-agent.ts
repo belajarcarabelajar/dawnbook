@@ -59,7 +59,7 @@ function parseArgs(argv: string[]) {
   return { dryRun, help, prRaw, authorPattern };
 }
 
-function row(pr: any, status: ResultRow["status"], fields: Partial<ResultRow> = {}): ResultRow {
+function resultRow(pr: any, status: ResultRow["status"], fields: Partial<ResultRow> = {}): ResultRow {
   return {
     prId: pr.number,
     title: pr.title,
@@ -78,32 +78,32 @@ async function processOnePr(pr: any, strategy: Strategy, dryRun: boolean, deps: 
   const assessment = assessSafety({ number: pr.number, title: pr.title, body: pr.body ?? "", files: pr.files ?? [], diff });
 
   if (assessment.verdict === "UNSAFE") {
-    return row(pr, "Skipped", { reason: `UNSAFE: ${assessment.reasons.join("; ")}` });
+    return resultRow(pr, "Skipped", { reason: `UNSAFE: ${assessment.reasons.join("; ")}` });
   }
 
   if (pr.mergeable === "CONFLICTING") {
-    return row(pr, "Flagged", { reason: "SAFE but conflicting: needs manual resolution" });
+    return resultRow(pr, "Flagged", { reason: "SAFE but conflicting: needs manual resolution" });
   }
 
   if (pr.mergeable !== "MERGEABLE") {
-    return row(pr, "Skipped", { reason: `mergeable state is ${pr.mergeable}, not MERGEABLE` });
+    return resultRow(pr, "Skipped", { reason: `mergeable state is ${pr.mergeable}, not MERGEABLE` });
   }
 
   if (dryRun) {
-    return row(pr, "Flagged", { resolutionMethod: `dry-run: would merge via --${strategy}`, reason: "DRY RUN - no merge performed" });
+    return resultRow(pr, "Flagged", { resolutionMethod: `dry-run: would merge via --${strategy}`, reason: "DRY RUN - no merge performed" });
   }
 
   if (capReached) {
-    return row(pr, "Skipped", { reason: `merge cap reached (${MAX_MERGES_PER_RUN} per run)` });
+    return resultRow(pr, "Skipped", { reason: `merge cap reached (${MAX_MERGES_PER_RUN} per run)` });
   }
 
   if (typeof pr.headRefOid !== "string" || pr.headRefOid === "") {
-    return row(pr, "Skipped", { reason: "no head commit sha to match, not merged" });
+    return resultRow(pr, "Skipped", { reason: "no head commit sha to match, not merged" });
   }
 
   guardNoForcePush([`gh pr merge ${pr.number} --${strategy}`]);
   const hash = deps.merge(pr.number, strategy, pr.headRefOid);
-  return row(pr, "Merged", { resolutionMethod: strategy, hash });
+  return resultRow(pr, "Merged", { resolutionMethod: strategy, hash });
 }
 
 /** Assesses each PR in order and merges at most MAX_MERGES_PER_RUN of them. */
@@ -122,7 +122,7 @@ export async function processPrs(
     try {
       r = await processOnePr(pr, opts.strategy, opts.dryRun, deps, merged >= MAX_MERGES_PER_RUN);
     } catch (e: any) {
-      r = row(pr, "Skipped", { reason: `Error: ${String(e?.message ?? e).slice(0, 300)}` });
+      r = resultRow(pr, "Skipped", { reason: `Error: ${String(e?.message ?? e).slice(0, 300)}` });
     }
     if (r.status === "Merged") merged++;
     log(`Result: ${r.status} | Conflict: ${r.conflict} | Method: ${r.resolutionMethod} | Reason: ${r.reason} | Hash: ${r.hash}`);
