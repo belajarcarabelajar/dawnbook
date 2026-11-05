@@ -50,6 +50,14 @@ function readCookie(request: Request, name: string): string | null {
   return null;
 }
 
+function decodeCookieValue(value: string): string {
+  try {
+    return decodeURIComponent(value);
+  } catch {
+    return "/";
+  }
+}
+
 function clearStateCookies(headers: Headers): void {
   headers.append(
     "Set-Cookie",
@@ -144,9 +152,13 @@ export const onRequestGet: PagesFunction<Env> = async (context) => {
         });
       } else if (byEmail && byEmail.google_sub !== userInfo.sub) {
         return redirectWithError(request, "account_conflict");
-      } else {
+      } else if (byEmail) {
         // byEmail with the same sub means a concurrent first login inserted it.
-        userId = byEmail?.id;
+        userId = byEmail.id;
+      } else if (userInfo.email_verified !== true) {
+        // Premium access is matched by email, so a new account needs an
+        // address Google has verified.
+        return redirectWithError(request, "email_unverified");
       }
     }
 
@@ -163,6 +175,13 @@ export const onRequestGet: PagesFunction<Env> = async (context) => {
       fresh = await getUserByGoogleSub(env.DB, userInfo.sub);
       if (!fresh) throw new Error("user not found after upsert");
     }
+
+    // Decoded before the session exists, so a malformed cookie cannot leave
+    // an orphan session behind.
+    const redirectPath = safeRedirectPath(
+      decodeCookieValue(readCookie(request, REDIRECT_COOKIE) ?? ""),
+    );
+    const dest = new URL(redirectPath, request.url).toString();
 
     // 32 bytes of entropy → 64-char hex. Matches the HEX64 regex used by
     // extractSessionId() on the verification side.
@@ -185,11 +204,6 @@ export const onRequestGet: PagesFunction<Env> = async (context) => {
       user_agent: userAgent,
       ip,
     });
-
-    const redirectPath = safeRedirectPath(
-      decodeURIComponent(readCookie(request, REDIRECT_COOKIE) ?? ""),
-    );
-    const dest = new URL(redirectPath, request.url).toString();
 
     const headers = new Headers({
       Location: dest,

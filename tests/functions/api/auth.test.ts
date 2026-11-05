@@ -427,11 +427,23 @@ describe("/api/auth/logout", () => {
     expect(res.headers.get("Set-Cookie")).toContain("session_id=;");
   });
 
-  test("GET is allowed (idempotent sign-out via link)", async () => {
+  test("GET answers 405 with Allow: POST and keeps the session", async () => {
     const env = createMockEnv(ENV_OVERRIDES) as unknown as Env;
     setEnvHandlers(env);
-    const res = await logoutGet({ request: new Request("https://example.com/api/auth/logout"), env } as any);
-    expect(res.status).toBe(204);
+    const sqls: string[] = [];
+    const prepare = env.DB.prepare;
+    env.DB.prepare = ((sql: string) => {
+      sqls.push(sql);
+      return prepare(sql);
+    }) as any;
+    const req = new Request("https://example.com/api/auth/logout", {
+      headers: { Cookie: `session_id=${SESSION_ID_HEX}` },
+    });
+    const res = await logoutGet({ request: req, env } as any);
+    expect(res.status).toBe(405);
+    expect(res.headers.get("Allow")).toBe("POST");
+    expect(res.headers.get("Set-Cookie")).toBeNull();
+    expect(sqls.some((s) => /DELETE\s+FROM\s+sessions/i.test(s))).toBe(false);
   });
 
   test("returns 204 and clears cookie even when D1 deleteSession throws error", async () => {

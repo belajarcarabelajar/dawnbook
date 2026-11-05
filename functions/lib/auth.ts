@@ -50,10 +50,13 @@ export interface AuthSession {
   [key: string]: unknown;
 }
 
+const LAST_SEEN_INTERVAL_MS = 5 * 60 * 1000;
+
 interface SessionRow {
   s_id: string;
   s_user_id: string;
   s_expires_at: string;
+  s_last_seen_at: string | null;
   u_id: string;
   u_email: string;
   u_name: string | null;
@@ -108,6 +111,7 @@ export async function verifySession(
        s.id           AS s_id,
        s.user_id      AS s_user_id,
        s.expires_at   AS s_expires_at,
+       s.last_seen_at AS s_last_seen_at,
        u.id           AS u_id,
        u.email        AS u_email,
        u.name         AS u_name,
@@ -127,17 +131,22 @@ export async function verifySession(
   const now = new Date().toISOString();
   if (row.s_expires_at <= now) return null;
 
-  // Best-effort last-seen update. Failure here must not break the request,
-  // so swallow errors silently. (Pages Functions have ~50ms CPU budget
-  // per request on the free plan; this is a single point UPDATE.)
-  try {
-    await env.DB.prepare(
-      "UPDATE sessions SET last_seen_at = ?1 WHERE id = ?2"
-    )
-      .bind(now, sid)
-      .run();
-  } catch (err) {
-    console.warn("[auth] Best-effort update of last_seen_at failed:", err);
+  // Best-effort last-seen update, at most once per LAST_SEEN_INTERVAL_MS per
+  // session so gated page loads do not each cost a D1 write. Failure here
+  // must not break the request, so swallow errors silently.
+  const lastSeenMs = row.s_last_seen_at ? Date.parse(row.s_last_seen_at) : NaN;
+  const lastSeenStale =
+    Number.isNaN(lastSeenMs) || Date.now() - lastSeenMs >= LAST_SEEN_INTERVAL_MS;
+  if (lastSeenStale) {
+    try {
+      await env.DB.prepare(
+        "UPDATE sessions SET last_seen_at = ?1 WHERE id = ?2"
+      )
+        .bind(now, sid)
+        .run();
+    } catch (err) {
+      console.warn("[auth] Best-effort update of last_seen_at failed:", err);
+    }
   }
 
   return {

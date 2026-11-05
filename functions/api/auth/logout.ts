@@ -46,6 +46,9 @@ export const onRequestPost: PagesFunction<Env> = async (context) => {
   });
 };
 
-// Allow GET for browser bookmark / direct link to sign out, with the same
-// semantics. Some sign-out UI patterns link to a URL rather than POSTing.
-export const onRequestGet = onRequestPost;
+// Sign-out changes state, so it is POST only; the hub posts to this route.
+export const onRequestGet: PagesFunction<Env> = async () =>
+  new Response(null, {
+    status: 405,
+    headers: { Allow: "POST", "Cache-Control": "no-store" },
+  });

@@ -183,6 +183,58 @@ describe("/api/auth/callback account linking", () => {
     });
   }
 
+  for (const [label, emailVerified] of [
+    ["false", false],
+    ["missing", undefined],
+    ["the string \"true\"", "true"],
+  ] as const) {
+    test(`email_verified ${label}: a new account is refused with email_unverified, no user, no session`, async () => {
+      const { sqlite, db } = createSqliteD1();
+      restoreFetch = installGoogleFetch({ sub: "g-baru", email: "baru@contoh.id", email_verified: emailVerified });
+
+      const res = await callGoogleCallback({ DB: db, GOOGLE_CLIENT_ID: "id", GOOGLE_CLIENT_SECRET: "secret" });
+
+      expect(res.status).toBe(302);
+      const loc = new URL(res.headers.get("Location")!);
+      expect(loc.pathname).toBe("/sign-in");
+      expect(loc.searchParams.get("error")).toBe("email_unverified");
+      expect(sessionCookie(res)).toBeNull();
+      expect(users(sqlite)).toEqual([]);
+      expect(sessions(sqlite)).toEqual([]);
+    });
+  }
+
+  test("existing Google user with email_verified false still signs in", async () => {
+    const { sqlite, db } = createSqliteD1();
+    insertUser(sqlite, { id: "u_lama", google_sub: "g-lama", email: "lama@contoh.id" });
+    restoreFetch = installGoogleFetch({ sub: "g-lama", email: "lama@contoh.id", email_verified: false });
+
+    const res = await callGoogleCallback({ DB: db, GOOGLE_CLIENT_ID: "id", GOOGLE_CLIENT_SECRET: "secret" });
+
+    expect(res.status).toBe(302);
+    expect(res.headers.get("Location")).toBe("https://example.com/");
+    expect(sessions(sqlite)).toEqual([{ id: sessionCookie(res), user_id: "u_lama" }]);
+  });
+
+  test("malformed oauth_redirect cookie falls back to / with one session", async () => {
+    const { sqlite, db } = createSqliteD1();
+    restoreFetch = installGoogleFetch({ sub: "g-new", email: "baru@contoh.id" });
+    const req = new Request(`${BASE_URL}?code=valid_code&state=${STATE_HEX}`, {
+      headers: { Cookie: `oauth_state=${STATE_HEX}; oauth_redirect=%E0%A4%A`, "CF-Connecting-IP": "203.0.113.9" },
+    });
+
+    const res = await callbackHandler({
+      request: req,
+      env: { DB: db, GOOGLE_CLIENT_ID: "id", GOOGLE_CLIENT_SECRET: "secret" },
+    } as any);
+
+    expect(res.status).toBe(302);
+    expect(res.headers.get("Location")).toBe("https://example.com/");
+    const sid = sessionCookie(res);
+    expect(sid).not.toBeNull();
+    expect(sessions(sqlite)).toEqual([{ id: sid, user_id: users(sqlite)[0].id }]);
+  });
+
   test("email held by another Google sub is refused with account_conflict and no session", async () => {
     const { sqlite, db } = createSqliteD1();
     insertUser(sqlite, { id: "u_pemilik", google_sub: "g-pemilik", email: "bersama@contoh.id" });
