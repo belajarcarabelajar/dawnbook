@@ -9,6 +9,7 @@
 import type { PagesFunction } from "../lib/pages-function";
 import { Env, verifySession } from "../lib/auth";
 import { enforceRateLimit } from "../lib/rate-limit";
+import { isJsonRequest } from "../lib/json-request";
 
 const MAX_COMPLETED_PATHS_PER_BOOK = 500;
 const MAX_BOOKS_PER_USER = 500;
@@ -27,14 +28,6 @@ interface ProgressPayload {
   bookSlug: string;
   path: string;
   completed_path?: string;
-}
-
-function isJsonRequest(request: Request): boolean {
-  const mediaType = (request.headers.get("Content-Type") ?? "")
-    .split(";")[0]
-    .trim()
-    .toLowerCase();
-  return mediaType === "application/json";
 }
 
 function jsonResponse(data: unknown, status = 200): Response {

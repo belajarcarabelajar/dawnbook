@@ -10,20 +10,13 @@ import type { PagesFunction } from "../../lib/pages-function";
 import { Env, verifySession } from "../../lib/auth";
 import { getBooks } from "../../lib/db";
 import { enforceRateLimit } from "../../lib/rate-limit";
+import { isJsonRequest } from "../../lib/json-request";
 
 interface PublishPayload {
   bookSlug: string;
   chapterTitle: string;
   markdownContent: string;
   subjectLabel?: string;
-}
-
-function isJsonRequest(request: Request): boolean {
-  const mediaType = (request.headers.get("Content-Type") ?? "")
-    .split(";")[0]
-    .trim()
-    .toLowerCase();
-  return mediaType === "application/json";
 }
 
 function jsonResponse(data: unknown, status = 200): Response {

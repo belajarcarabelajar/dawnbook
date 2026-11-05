@@ -26,8 +26,8 @@ export interface BcbSsoEnv extends Env {
   BCB_SSO_SECRET?: string;
 }
 
-// Same cookie name and lifetime as functions/api/auth/callback.ts, which keeps
-// them module-private; duplicated here rather than editing that file.
+// Same session lifetime as functions/api/auth/callback.ts, which keeps it
+// module-private.
 const SESSION_TTL_SECONDS = 60 * 60 * 24 * 30; // 30 days
 // Outlives SSO_MAX_AGE_S, so a token cannot be replayed after its nonce row
 // is garbage-collected.

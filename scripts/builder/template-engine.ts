@@ -509,8 +509,7 @@ ${turnstileWidget}        <a id="google-signin-btn" data-google-auth href="#" st
     <script>
       ${minifyJs(`
       /* Only a root-relative path or an absolute URL on this origin is kept;
-         "https:host" style values parse as same-origin, so the raw prefix is
-         checked too. */
+         anything else becomes "/". */
       function safeNext(redirectUrl, origin) {
         var raw = String(redirectUrl || '');
         if (raw.charAt(0) !== '/' && raw !== origin && raw.indexOf(origin + '/') !== 0 &&

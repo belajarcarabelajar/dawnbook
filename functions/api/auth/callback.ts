@@ -158,8 +158,7 @@ export const onRequestGet: PagesFunction<Env> = async (context) => {
         // byEmail with the same sub means a concurrent first login inserted it.
         userId = byEmail.id;
       } else if (userInfo.email_verified !== true) {
-        // Premium access is matched by email, so a new account needs an
-        // address Google has verified.
+        // A new account needs an email address Google has verified.
         return redirectWithError(request, "email_unverified");
       }
     }
