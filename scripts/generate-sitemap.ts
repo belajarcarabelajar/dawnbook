@@ -69,34 +69,39 @@ function pageLastmod(lastmods: Map<string, string>, relativePath: string): strin
   return undefined;
 }
 
+function safeDecode(path: string): string {
+  try {
+    return decodeURIComponent(path);
+  } catch {
+    return path;
+  }
+}
+
 /**
- * Pages of a premium book that may be listed: the book root and its first
- * chapter (first SUMMARY entry in manifest.json). Paths are the decoded
- * `/books/<slug>/...html` form the manifest uses. Without a manifest entry only
- * the root is listed, so a missing manifest never exposes a paid chapter.
+ * Decoded first chapter (first SUMMARY entry in manifest.json) of every book.
+ * Its canonical is the book root (inject-gating.ts), and Google advises against
+ * listing a URL whose canonical is another page, so it is left out. Without a
+ * manifest nothing is skipped; premium books still list only their root.
  */
-async function premiumListablePages(outputDir: string): Promise<Map<string, Set<string>>> {
-  let chapters: Record<string, string[]> = {};
+async function firstChapters(outputDir: string): Promise<Map<string, string>> {
+  const firsts = new Map<string, string>();
   try {
     const manifest = JSON.parse(await readFile(join(outputDir, "manifest.json"), "utf8"));
-    chapters = manifest?.chapters ?? {};
+    for (const [slug, pages] of Object.entries(manifest?.chapters ?? {})) {
+      const first = Array.isArray(pages) ? pages[0] : undefined;
+      if (typeof first === "string") firsts.set(slug, safeDecode(first));
+    }
   } catch {
-    // Fall through with no chapters: premium books keep only their root.
+    // No manifest: nothing to skip.
   }
-  const listable = new Map<string, Set<string>>();
-  for (const slug of premiumSlugs()) {
-    const pages = new Set([`/books/${slug}/index.html`]);
-    const first = chapters[slug]?.[0];
-    if (first) pages.add(first);
-    listable.set(slug, pages);
-  }
-  return listable;
+  return firsts;
 }
 
 export async function generateSitemap(options: SitemapOptions = {}) {
   const rootDir = process.cwd();
   const outputDir = resolve(options.outputDir ?? join(rootDir, "output"));
-  const premiumPages = await premiumListablePages(outputDir);
+  const firsts = await firstChapters(outputDir);
+  const premium = new Set(premiumSlugs());
   const lastmods = options.lastmods ?? gitLastmods(rootDir);
   const baseUrl = "https://dawnbook.belajarcarabelajar.com";
 
@@ -130,9 +135,12 @@ export async function generateSitemap(options: SitemapOptions = {}) {
             return;
           }
 
-          const premiumSlug = /^\/books\/([^/]+)\//.exec(relativePath)?.[1];
-          const allowed = premiumSlug ? premiumPages.get(premiumSlug) : undefined;
-          if (allowed && !allowed.has(relativePath)) return;
+          const slug = /^\/books\/([^/]+)\//.exec(relativePath)?.[1];
+          if (slug) {
+            // A premium book lists only its root, so its paid chapters are never advertised.
+            if (premium.has(slug) && relativePath !== `/books/${slug}/index.html`) return;
+            if (firsts.get(slug) === safeDecode(relativePath)) return;
+          }
 
           let cleanPath = relativePath;
           if (cleanPath.endsWith("/index.html")) {

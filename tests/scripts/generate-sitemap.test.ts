@@ -68,6 +68,45 @@ function urlBlock(xml: string, loc: string): string {
   return match[0];
 }
 
+describe("sitemap chapter 1", () => {
+  async function demoSite(manifest: unknown): Promise<string> {
+    const outputDir = await mkdtemp(join(tmpdir(), "sitemap-chapter-one-"));
+    await mkdir(join(outputDir, "books", "demo", "content"), { recursive: true });
+    await Bun.write(join(outputDir, "books", "demo", "index.html"), "<html></html>");
+    await Bun.write(join(outputDir, "books", "demo", "content", "01_a b.html"), "<html></html>");
+    await Bun.write(join(outputDir, "books", "demo", "content", "02_b.html"), "<html></html>");
+    if (manifest !== undefined) await Bun.write(join(outputDir, "manifest.json"), JSON.stringify(manifest));
+    return outputDir;
+  }
+
+  test("skips the first chapter in manifest.json, its canonical being the book root", async () => {
+    const outputDir = await demoSite({
+      chapters: { demo: ["/books/demo/content/01_a%20b.html", "/books/demo/content/02_b.html"] },
+    });
+    try {
+      await generateSitemap({ outputDir, lastmods: new Map() });
+      const xml = await readFile(join(outputDir, "sitemap.xml"), "utf-8");
+      expect(xml).toContain(`<loc>${BASE}/books/demo/</loc>`);
+      expect(xml).toContain(`<loc>${BASE}/books/demo/content/02_b</loc>`);
+      expect(xml).not.toContain("01_a");
+    } finally {
+      await rm(outputDir, { recursive: true, force: true });
+    }
+  });
+
+  test("without a manifest no free page is skipped", async () => {
+    const outputDir = await demoSite(undefined);
+    try {
+      await generateSitemap({ outputDir, lastmods: new Map() });
+      const xml = await readFile(join(outputDir, "sitemap.xml"), "utf-8");
+      expect(xml).toContain(`<loc>${BASE}/books/demo/content/01_a b</loc>`);
+      expect(xml).toContain(`<loc>${BASE}/books/demo/content/02_b</loc>`);
+    } finally {
+      await rm(outputDir, { recursive: true, force: true });
+    }
+  });
+});
+
 describe("sitemap git lastmod", () => {
   async function buildFixture(): Promise<string> {
     const outputDir = await mkdtemp(join(tmpdir(), "sitemap-git-lastmod-"));

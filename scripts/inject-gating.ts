@@ -42,6 +42,11 @@ export interface InjectSeoOptions {
   ogImageAlt?: string;
   /** Add the Google "preferred source" card at the end of the chapter (book pages except toc, 404, print). */
   preferredSourceCard?: boolean;
+  /**
+   * URL for rel=canonical, og:url and both hreflang links; defaults to `url`. The first
+   * chapter repeats the book root's content, so processDirectory points it at the root.
+   */
+  canonicalUrl?: string;
 }
 
 // Google "preferred source" card at the end of every chapter (owner request 2026-11-02). dawnbook.belajarcarabelajar.com is listed in
@@ -256,7 +261,7 @@ export function injectSeoAndGating(html: string, options: InjectSeoOptions): str
   }
 
   const escapedTitle = escapeHtml(pageTitle);
-  const escapedUrl = escapeHtml(url);
+  const escapedCanonical = escapeHtml(options.canonicalUrl ?? url);
   const defaultImage = "https://dawnbook.belajarcarabelajar.com/icon-512.png";
   const image = escapeHtml(ogImage ?? defaultImage);
   const cardSizeTags = ogImage
@@ -365,14 +370,14 @@ export function injectSeoAndGating(html: string, options: InjectSeoOptions): str
         <meta name="theme-color" content="#000000" />
         <link rel="manifest" href="/manifest.webmanifest" />
         <script src="/pake-compat.js" defer></script>
-        <link rel="canonical" href="${escapedUrl}" />
-        <link rel="alternate" hreflang="en" href="${escapedUrl}" />
-        <link rel="alternate" hreflang="id" href="${escapedUrl}" />
+        <link rel="canonical" href="${escapedCanonical}" />
+        <link rel="alternate" hreflang="en" href="${escapedCanonical}" />
+        <link rel="alternate" hreflang="id" href="${escapedCanonical}" />
         <meta name="description" content="${escapedDesc}" />
         <meta property="og:title" content="${escapedTitle}" />
         <meta property="og:description" content="${escapedDesc}" />
         <meta property="og:type" content="article" />
-        <meta property="og:url" content="${escapedUrl}" />
+        <meta property="og:url" content="${escapedCanonical}" />
         <meta property="og:image" content="${image}" />${cardSizeTags}
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="${escapedTitle}" />
@@ -456,6 +461,7 @@ async function processDirectory(
       let ogImage: string | undefined;
       let ogImageAlt: string | undefined;
       let preferredSourceCard = false;
+      let canonicalUrl: string | undefined;
       const bookMatch = relativePath.match(
         /^\/books\/([a-zA-Z0-9_-]+)\/(.*)?$/,
       );
@@ -490,6 +496,12 @@ async function processDirectory(
         // Chapters and the book root (which repeats the first chapter); not toc, 404 or print.
         preferredSourceCard = !NO_CARD_PAGES.has(page);
 
+        // mdBook writes the first chapter's content into the root page too; the root is canonical.
+        const manifestFirst = manifestData.chapters?.[slug]?.[0];
+        if (manifestFirst && decodeURIComponent(manifestFirst) === decodeURIComponent(relativePath)) {
+          canonicalUrl = `https://dawnbook.belajarcarabelajar.com/books/${slug}/`;
+        }
+
         if (
           page !== "" &&
           page !== "index.html" &&
@@ -522,6 +534,7 @@ async function processDirectory(
         ogImage,
         ogImageAlt,
         preferredSourceCard,
+        canonicalUrl,
       });
 
       await writeFile(fullPath, updatedContent, "utf-8");

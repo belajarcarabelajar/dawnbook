@@ -4,12 +4,22 @@ import { premiumSlugs } from "../functions/lib/premium";
 
 const SITE = "https://dawnbook.belajarcarabelajar.com";
 
+function safeDecode(path: string): string {
+  try {
+    return decodeURIComponent(path);
+  } catch {
+    return path;
+  }
+}
+
 /**
  * Sitemap rule for one built page (relative path such as
- * `/books/<slug>/content/01_x.html`). A free book's page must be listed. A
- * premium book lists only its root and first chapter (`chapters[slug][0]`, the
- * same definition generate-sitemap.ts uses), so its later chapters must be
- * absent: listing one would advertise paid text. Returns an error or null.
+ * `/books/<slug>/content/01_x.html`). The first chapter of every book
+ * (`chapters[slug][0]`, the same definition generate-sitemap.ts and
+ * inject-gating.ts use) must be absent, because its canonical is the book root.
+ * A free book's other pages must be listed. A premium book lists only its root,
+ * so its later chapters must be absent: listing one would advertise paid text.
+ * Returns an error or null.
  */
 export function sitemapCoverageError(
   relativePath: string,
@@ -22,14 +32,18 @@ export function sitemapCoverageError(
     : expectedUrl.endsWith(".html")
       ? expectedUrl.replace(/\.html$/, "")
       : expectedUrl;
+  const listed =
+    sitemapContent.includes(`<loc>${expectedUrl}</loc>`) ||
+    sitemapContent.includes(`<loc>${canonicalUrl}</loc>`);
 
   const slug = /^\/books\/([^/]+)\//.exec(relativePath)?.[1];
+  const first = slug ? chapters[slug]?.[0] : undefined;
+  if (first && safeDecode(first) === safeDecode(relativePath)) {
+    return listed ? `Chapter 1 ${relativePath} must not be in sitemap.xml (its canonical is the book root)!` : null;
+  }
+
   if (slug && premiumSlugs().includes(slug)) {
-    const listable = relativePath === `/books/${slug}/index.html` || relativePath === chapters[slug]?.[0];
-    const listed =
-      sitemapContent.includes(`<loc>${expectedUrl}</loc>`) ||
-      sitemapContent.includes(`<loc>${canonicalUrl}</loc>`);
-    if (!listable) {
+    if (relativePath !== `/books/${slug}/index.html`) {
       return listed ? `Premium path ${relativePath} must not be in sitemap.xml!` : null;
     }
     return listed ? null : `Content path ${relativePath} missing from sitemap.xml!`;
@@ -186,7 +200,7 @@ async function checkSeo() {
             }
           }
 
-          // Verify content pages against sitemap.xml (premium books: root and chapter 1 only)
+          // Verify content pages against sitemap.xml (chapter 1 never; premium books: root only)
           const sitemapError = sitemapCoverageError(relativePath, sitemapContent, manifestChapters);
           if (sitemapError) {
             console.error(`❌ [FAIL] ${sitemapError}`);
