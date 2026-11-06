@@ -111,4 +111,13 @@ describe("Inject Gating Script (scripts/inject-gating.ts)", () => {
     expect(outputHtml).toContain('href="404.html"');
     expect(outputHtml).toContain('href="https://example.com/external.html"');
   });
+
+  test("normalizeInternalLinks treats only a whole index segment as the directory, not a chapter name with an index suffix", async () => {
+    const { normalizeInternalLinks } = await import("../../scripts/inject-gating");
+    expect(normalizeInternalLinks('<a href="content/05_subject-index.html">x</a>')).toBe(
+      '<a href="content/05_subject-index">x</a>',
+    );
+    expect(normalizeInternalLinks('<a href="index.html">x</a>')).toBe('<a href="./">x</a>');
+    expect(normalizeInternalLinks('<a href="../index.html#x">x</a>')).toBe('<a href="../#x">x</a>');
+  });
 });

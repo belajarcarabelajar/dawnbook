@@ -101,7 +101,7 @@ window.MathJax = {
     // auth check resolves.
     var freeChapter = null;
     try { freeChapter = sessionStorage.getItem('free_chapter_viewed'); } catch(e) { console.error('sessionStorage getItem error', e); }
-    var isPublic = (freeChapter === currentPath) || (freeChapter && decodeURIComponent(freeChapter) === path) || basename === 'index.html' || basename === '' || basename === 'toc.html' || basename === '404.html';
+    var isPublic = (freeChapter === currentPath) || (freeChapter && decodeURIComponent(freeChapter) === path) || basename === 'index.html' || basename === '' || basename === 'toc.html' || basename === '404.html' || !!document.querySelector('meta[name="dawnbook-free-chapter"]');
 
     // Internal chapter-to-chapter navigation detection (same pattern as
     // isInternalNavigation in handleCheckpoint below): if the referrer is a
@@ -299,6 +299,7 @@ document.addEventListener('DOMContentLoaded', function() {
         if (!p) return '';
         p = p.split('#')[0].split('?')[0];
         if (p.endsWith('/')) p += 'index.html';
+        if (!p.endsWith('.html') && p.includes('/content/')) p += '.html';
         return p;
     }
 

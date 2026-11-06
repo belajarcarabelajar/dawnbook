@@ -45,6 +45,14 @@ export async function compileHubRuntime(): Promise<string> {
   return await result.outputs[0].text();
 }
 
+const HUB_ORIGIN = "https://dawnbook.belajarcarabelajar.com";
+
+interface HubPageMeta {
+  path: string;
+  description: string;
+  noindex?: boolean;
+}
+
 export async function generateSitePages(
   rootDir: string,
   outputDir: string,
@@ -93,13 +101,19 @@ export async function generateSitePages(
   const generatePage = (
     title: string,
     content: string,
+    page: HubPageMeta,
     isHome: boolean = false,
   ) => `<!DOCTYPE html>
 <html lang="en">
 <head>
 ${gaTag}    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Dawnbook - A Scalable Educational Publishing Platform">
+    <meta name="description" content="${escapeHtml(page.description)}">
+${
+  page.noindex
+    ? `    <meta name="robots" content="noindex">`
+    : `    <link rel="canonical" href="${HUB_ORIGIN}${page.path}">`
+}
     <meta name="theme-color" content="#000000">
     <title>${title} | Dawnbook Platform</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -149,11 +163,11 @@ ${gaTag}    <meta charset="UTF-8">
             </div>
             <nav class="nav-links" aria-label="Main Navigation">
                 <a href="/" class="${isHome ? "active" : ""}" ${isHome ? 'aria-current="page"' : ""} data-i18n="hub.home">Home</a>
-                <a href="/about.html" class="${title === "About" ? "active" : ""}" ${title === "About" ? 'aria-current="page"' : ""} data-i18n="hub.about">About</a>
-                <a href="/statistics.html" class="${title === "Statistics" ? "active" : ""}" ${title === "Statistics" ? 'aria-current="page"' : ""} data-i18n="hub.statistics">Statistics</a>
-                <a href="/contribute.html" class="${title === "Contribute" ? "active" : ""}" ${title === "Contribute" ? 'aria-current="page"' : ""} data-i18n="hub.contribute">Contribute</a>
-                <a href="/donate.html" class="${title === "Donate" ? "active" : ""}" ${title === "Donate" ? 'aria-current="page"' : ""} data-i18n="hub.donate">Donate</a>
-                <a href="/dmca.html" class="${title === "DMCA Notice" ? "active" : ""}" ${title === "DMCA Notice" ? 'aria-current="page"' : ""} data-i18n="hub.dmca">DMCA</a>
+                <a href="/about" class="${title === "About" ? "active" : ""}" ${title === "About" ? 'aria-current="page"' : ""} data-i18n="hub.about">About</a>
+                <a href="/statistics" class="${title === "Statistics" ? "active" : ""}" ${title === "Statistics" ? 'aria-current="page"' : ""} data-i18n="hub.statistics">Statistics</a>
+                <a href="/contribute" class="${title === "Contribute" ? "active" : ""}" ${title === "Contribute" ? 'aria-current="page"' : ""} data-i18n="hub.contribute">Contribute</a>
+                <a href="/donate" class="${title === "Donate" ? "active" : ""}" ${title === "Donate" ? 'aria-current="page"' : ""} data-i18n="hub.donate">Donate</a>
+                <a href="/dmca" class="${title === "DMCA Notice" ? "active" : ""}" ${title === "DMCA Notice" ? 'aria-current="page"' : ""} data-i18n="hub.dmca">DMCA</a>
             </nav>
         </aside>
         <main id="main-content" class="hub-main">
@@ -420,14 +434,14 @@ ${gaTag}    <meta charset="UTF-8">
           '</svg>' +
           '<h3 data-i18n="appreciation.nobadge.title" style="color: var(--color-primary); margin: 0 0 8px 0;">No Badge Yet</h3>' +
           '<p data-i18n="appreciation.nobadge.desc" style="color: var(--color-text-muted); margin-bottom: 24px; line-height: 1.7;">You haven\\\'t made a donation yet. Support Dawnbook and earn your badge!</p>' +
-          '<a href="/donate.html" class="btn-primary" style="animation: none; opacity: 1; transform: none;" data-i18n="appreciation.nobadge.cta">Donate Now</a>' +
+          '<a href="/donate" class="btn-primary" style="animation: none; opacity: 1; transform: none;" data-i18n="appreciation.nobadge.cta">Donate Now</a>' +
         '</div>';
       }
 
       function renderSignInPrompt() {
         return '<div style="animation: fadeSlideUp 0.6s ease forwards;">' +
           '<p style="color: var(--color-text-muted); margin-bottom: 16px;" data-i18n="signin.body">Create a free account or sign in to access the full book content.</p>' +
-          '<a href="/sign-in?redirect_url=/appreciation.html" class="btn-primary" style="animation: none; opacity: 1; transform: none;" data-i18n="hub.signin">Sign In</a>' +
+          '<a href="/sign-in?redirect_url=/appreciation" class="btn-primary" style="animation: none; opacity: 1; transform: none;" data-i18n="hub.signin">Sign In</a>' +
         '</div>';
       }
 
@@ -884,39 +898,81 @@ ${turnstileWidget}        <a id="google-signin-btn" data-google-auth href="#" st
 
   await writeFile(
     join(outputDir, "index.html"),
-    generatePage("Home", indexContent, true),
+    generatePage(
+      "Home",
+      indexContent,
+      {
+        path: "/",
+        description: "Dawnbook - A Scalable Educational Publishing Platform",
+      },
+      true,
+    ),
   );
   await writeFile(
     join(outputDir, "about.html"),
-    generatePage("About", aboutContent),
+    generatePage("About", aboutContent, {
+      path: "/about",
+      description:
+        "Why Dawnbook exists, its philosophy of free and open learning, its core principles, and the meaning behind the dawn motif.",
+    }),
   );
   await writeFile(
     join(outputDir, "contribute.html"),
-    generatePage("Contribute", contributeContent),
+    generatePage("Contribute", contributeContent, {
+      path: "/contribute",
+      description:
+        "How to contribute chapters, typo fixes, or new books to Dawnbook through GitHub pull requests, and who the main contributors are.",
+    }),
   );
   await writeFile(
     join(outputDir, "donate.html"),
-    generatePage("Donate", donateContent),
+    generatePage("Donate", donateContent, {
+      path: "/donate",
+      description:
+        "Support Dawnbook by bank transfer or QRIS to help deliver free books to school libraries and community reading spaces in 3T areas.",
+    }),
   );
   await writeFile(
     join(outputDir, "appreciation.html"),
-    generatePage("Appreciation", appreciationContent),
+    generatePage("Appreciation", appreciationContent, {
+      path: "/appreciation",
+      description:
+        "See your Dawnbook appreciation badge, the Gold, Silver, or Bronze patron badge earned by donating to support free education.",
+    }),
   );
   await writeFile(
     join(outputDir, "statistics.html"),
-    generatePage("Statistics", statisticsContent),
+    generatePage("Statistics", statisticsContent, {
+      path: "/statistics",
+      description:
+        "Live Dawnbook statistics on books, chapters, subjects, views, the publication timeline, donations, and contributors.",
+    }),
   );
   await writeFile(
     join(outputDir, "sign-in.html"),
-    generatePage("Sign In", signInContent),
+    generatePage("Sign In", signInContent, {
+      path: "/sign-in",
+      description:
+        "Sign in to Dawnbook with Google or a belajarcarabelajar.com account to read the full book content.",
+      noindex: true,
+    }),
   );
   await writeFile(
     join(outputDir, "sign-up.html"),
-    generatePage("Sign Up", signUpContent),
+    generatePage("Sign Up", signUpContent, {
+      path: "/sign-up",
+      description:
+        "Create a free Dawnbook account by signing in with Google to read the full book content.",
+      noindex: true,
+    }),
   );
   await writeFile(
     join(outputDir, "dmca.html"),
-    generatePage("DMCA Notice", dmcaContent),
+    generatePage("DMCA Notice", dmcaContent, {
+      path: "/dmca",
+      description:
+        "Dawnbook DMCA notice and copyright policy, covering fair use, takedown notices, the copyright agent contact, counter-notices, and repeat infringers.",
+    }),
   );
 
   const manifestData = {

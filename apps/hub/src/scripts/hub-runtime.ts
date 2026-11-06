@@ -349,7 +349,7 @@ function mountUserControls(user: AuthUser | null): void {
     menu.setAttribute("role", "menu");
 
     const link = document.createElement("a");
-    link.href = "/appreciation.html";
+    link.href = "/appreciation";
     link.textContent = "Appreciation";
     link.style.cssText =
       "display:block;padding:0.5rem 0.9rem;color:var(--color-text);text-decoration:none;font-size:0.9rem;";

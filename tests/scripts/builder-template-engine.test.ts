@@ -84,8 +84,8 @@ describe("scripts/builder/template-engine.ts", () => {
 
         expect(dmcaHtml).toContain("data-i18n=\"dmca.title\"");
         expect(dmcaHtml).toContain("dmca@dawnbook.belajarcarabelajar.com");
-        expect(dmcaHtml).toContain("href=\"/dmca.html\"");
-        expect(indexHtml).toContain("href=\"/dmca.html\"");
+        expect(dmcaHtml).toContain("href=\"/dmca\"");
+        expect(indexHtml).toContain("href=\"/dmca\"");
       } finally {
         rmSync(tmpDir, { recursive: true, force: true });
       }

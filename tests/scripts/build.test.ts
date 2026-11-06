@@ -22,6 +22,18 @@ describe("Build Script & Modular Builder (scripts/build.ts)", () => {
     expect(pkg.scripts["check:structure"]).toBe("bun run scripts/check-book-structure.ts --all");
   });
 
+  test("build runs the indexing check on outputDir after check-seo and exits 1 on problems", () => {
+    const build = readFileSync(join(import.meta.dir, "../../scripts/build.ts"), "utf-8");
+    expect(build).toMatch(/import \{[^}]*\bcheckIndexingOutput\b[^}]*\} from "\.\/check-indexing-output"/);
+    const seo = build.indexOf("scripts/check-seo.ts");
+    const call = build.indexOf("checkIndexingOutput(outputDir)");
+    expect(seo).toBeGreaterThan(-1);
+    expect(call).toBeGreaterThan(seo);
+    const after = build.slice(call, build.indexOf("Premium Hub site generated successfully."));
+    expect(after).toContain("slice(0, 60)");
+    expect(after).toContain("process.exit(1)");
+  });
+
   test("build script includes compilation calls and SEO headers", () => {
     const runnerPath = join(import.meta.dir, "../../scripts/builder/mdbook-runner.ts");
     const enginePath = join(import.meta.dir, "../../scripts/builder/template-engine.ts");

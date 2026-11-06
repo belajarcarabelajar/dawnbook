@@ -223,4 +223,74 @@ describe("Shared Script Client-Side Logic Execution", () => {
 
     expect(mockWin.location.replace).toHaveBeenCalledWith("/books/my-book/content/02_chapter.html?redirected=true");
   });
+
+  async function runProgressBar(sidebarPaths: string[], completedPaths: string[]) {
+    const { mockWin, mockDoc, createdElements } = setupMockWindow("/books/b/index.html");
+    const links = sidebarPaths.map((pathname) => ({ pathname }));
+    mockDoc.querySelectorAll = mock((selector: string) => (selector === ".sidebar a" ? links : [])) as any;
+    global.fetch = mock(async () => new Response(JSON.stringify({ completed_paths: [] }))) as unknown as typeof fetch;
+
+    Function(scriptContent)();
+    const onReady = mockDoc.addEventListener.mock.calls.find((c: any[]) => c[0] === "DOMContentLoaded")?.[1] as
+      | (() => void)
+      | undefined;
+    expect(typeof onReady).toBe("function");
+    onReady!();
+    await new Promise((r) => setTimeout(r, 10));
+
+    mockWin.updateBookProgress(completedPaths);
+    return createdElements.find((el) => el.id === "book-progress-bar");
+  }
+
+  test("book progress reaches 100% when sidebar links are extensionless and completed paths end in .html", async () => {
+    const bar = await runProgressBar(
+      ["/books/b/content/01_a", "/books/b/content/02_b"],
+      ["/books/b/content/01_a.html", "/books/b/content/02_b.html"],
+    );
+    expect(bar.style.width).toBe("100%");
+  });
+
+  test("book progress reaches 100% when sidebar links end in .html and completed paths are extensionless", async () => {
+    const bar = await runProgressBar(
+      ["/books/b/content/01_a.html", "/books/b/content/02_b.html"],
+      ["/books/b/content/01_a", "/books/b/content/02_b"],
+    );
+    expect(bar.style.width).toBe("100%");
+  });
+
+  async function coldLanding(pathname: string, withFreeChapterMeta: boolean) {
+    const setup = setupMockWindow(pathname);
+    const original = setup.mockDoc.querySelector;
+    (setup.mockDoc as any).querySelector = mock((selector: string) => {
+      if (withFreeChapterMeta && selector === 'meta[name="dawnbook-free-chapter"]') {
+        return { getAttribute: () => "1" };
+      }
+      return original(selector);
+    });
+    global.fetch = mock(async (url: string) => {
+      if (url.includes("/api/auth/me")) return new Response(JSON.stringify(null), { status: 401 });
+      return new Response("{}");
+    }) as unknown as typeof fetch;
+
+    Function(scriptContent)();
+    await new Promise((r) => setTimeout(r, 10));
+    return setup;
+  }
+
+  test("first chapter with the free-chapter meta stays visible for a signed-out cold landing", async () => {
+    const { mockWin, mockDoc } = await coldLanding("/books/my-book/content/01_intro", true);
+    expect(mockWin.location.href).not.toStartWith("/sign-in?");
+    expect(mockDoc.documentElement.style.opacity).toBe("1");
+    expect(mockDoc.documentElement.style.visibility).toBe("visible");
+  });
+
+  test("first chapter path without the meta still redirects (control)", async () => {
+    const { mockWin } = await coldLanding("/books/my-book/content/01_intro", false);
+    expect(mockWin.location.href).toBe("/sign-in?redirect_url=%2Fbooks%2Fmy-book%2Fcontent%2F01_intro");
+  });
+
+  test("first chapter meta absent on chapter 2: a cold landing still redirects", async () => {
+    const { mockWin } = await coldLanding("/books/my-book/content/02_next", false);
+    expect(mockWin.location.href).toBe("/sign-in?redirect_url=%2Fbooks%2Fmy-book%2Fcontent%2F02_next");
+  });
 });
