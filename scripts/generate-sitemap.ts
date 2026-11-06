@@ -19,12 +19,23 @@ const DATE_LINE = /^\d{4}-\d{2}-\d{2}$/;
  * Date of the newest commit touching each file under books/, from one git log
  * run. Google trusts <lastmod> only when it is verifiably accurate, and a
  * build file's mtime is the deploy date for every page. Returns an empty map
- * when git is missing or the directory is not a repository.
+ * when git is missing or the directory is not a repository, and also in a
+ * shallow clone, where the one grafted commit would give every page the same
+ * date.
  */
 export function gitLastmods(rootDir: string): Map<string, string> {
   const map = new Map<string, string>();
   let stdout: string;
   try {
+    const shallow = Bun.spawnSync(["git", "rev-parse", "--is-shallow-repository"], {
+      cwd: rootDir,
+      stdout: "pipe",
+      stderr: "ignore",
+    });
+    if (shallow.exitCode === 0 && shallow.stdout.toString().trim() === "true") {
+      console.warn("sitemap: shallow git clone, omitting <lastmod> (fetch full history for accurate dates)");
+      return map;
+    }
     const result = Bun.spawnSync(
       ["git", "-c", "core.quotePath=false", "log", "--format=%cs", "--name-only", "--", "books"],
       { cwd: rootDir, stdout: "pipe", stderr: "ignore" },

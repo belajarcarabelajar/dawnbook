@@ -237,4 +237,50 @@ describe("sitemap git lastmod", () => {
       await rm(dir, { recursive: true, force: true });
     }
   });
+
+  test("git lastmod: gitLastmods returns an empty map in a shallow clone", async () => {
+    const base = await mkdtemp(join(tmpdir(), "sitemap-git-shallow-"));
+    const repo = join(base, "repo");
+    const clone = join(base, "clone");
+    const git = (cwd: string, args: string[], date?: string) => {
+      const env: Record<string, string> = { ...process.env } as Record<string, string>;
+      if (date) {
+        env.GIT_AUTHOR_DATE = date;
+        env.GIT_COMMITTER_DATE = date;
+      }
+      const r = Bun.spawnSync(["git", "-c", "user.name=Test", "-c", "user.email=test@example.com", ...args], {
+        cwd,
+        env,
+      });
+      if (r.exitCode !== 0) throw new Error(`git ${args.join(" ")}: ${r.stderr.toString()}`);
+    };
+    const file = join(repo, "books", "a", "src", "content", "x.md");
+    const originalWarn = console.warn;
+    const warnings: string[] = [];
+    try {
+      await mkdir(join(repo, "books", "a", "src", "content"), { recursive: true });
+      git(repo, ["init", "-q"]);
+      await Bun.write(file, "one\n");
+      git(repo, ["add", "-A"]);
+      git(repo, ["commit", "-q", "--no-verify", "-m", "first"], "2026-01-02T10:00:00");
+      await Bun.write(file, "two\n");
+      git(repo, ["add", "-A"]);
+      git(repo, ["commit", "-q", "--no-verify", "-m", "second"], "2026-03-04T10:00:00");
+      git(base, ["clone", "-q", "--depth", "1", `file://${repo}`, clone]);
+
+      expect(sitemap.gitLastmods(repo).get("books/a/src/content/x.md")).toBe("2026-03-04");
+
+      console.warn = (...args: unknown[]) => {
+        warnings.push(args.join(" "));
+      };
+      const shallow = sitemap.gitLastmods(clone);
+      console.warn = originalWarn;
+      expect(shallow.size).toBe(0);
+      expect(warnings.length).toBe(1);
+      expect(warnings[0]).toContain("shallow");
+    } finally {
+      console.warn = originalWarn;
+      await rm(base, { recursive: true, force: true });
+    }
+  });
 });
