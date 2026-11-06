@@ -31,7 +31,7 @@ tasks:
   - id: T2
     depends_on: []
     impacts: ["every hub page head and nav from generatePage - rg -n 'generatePage\\(' scripts/builder/template-engine.ts", "existing hub template tests - rg -l 'generateSitePages' tests", "offline page served by the service worker - rg -n 'offline.html' public/sw.js"]
-    files: { create: [tests/scripts/hub-seo.test.ts], modify: [scripts/builder/template-engine.ts, public/offline.html], test: [] }
+    files: { create: [tests/scripts/hub-seo.test.ts], modify: [scripts/builder/template-engine.ts, public/offline.html, apps/hub/src/scripts/hub-runtime.ts], test: [tests/scripts/builder-template-engine.test.ts] }
     idempotency_key: "T2:hub-canonical-noindex"
     skip_if: "colab-test -- bun test tests/scripts/hub-seo.test.ts"
     verify_exit: 0
@@ -73,7 +73,7 @@ tasks:
   - id: T5
     depends_on: [T3]
     impacts: ["canonical, og:url and hreflang of every first chapter - rg -n 'escapedUrl' scripts/inject-gating.ts", "sitemap entries for chapter 1 of free and premium books - rg -n 'premiumListablePages' scripts/generate-sitemap.ts", "GEMINI.md section 30 says the sitemap lists the book root and chapter 1 - rg -n 'list only the book root and chapter 1' GEMINI.md", "inject-gating tests - rg -l 'injectSeoAndGating' tests"]
-    files: { create: [tests/scripts/inject-gating-canonical.test.ts], modify: [scripts/inject-gating.ts, scripts/generate-sitemap.ts], test: [tests/scripts/generate-sitemap.test.ts, tests/scripts/premium-surfaces.test.ts] }
+    files: { create: [tests/scripts/inject-gating-canonical.test.ts], modify: [scripts/inject-gating.ts, scripts/generate-sitemap.ts, scripts/check-seo.ts], test: [tests/scripts/generate-sitemap.test.ts, tests/scripts/premium-surfaces.test.ts] }
     idempotency_key: "T5:chapter1-canonical-to-root"
     skip_if: "colab-test -- bun test tests/scripts/inject-gating-canonical.test.ts"
     verify_exit: 0
@@ -276,18 +276,35 @@ Raw probe data stays outside the repo in `~/.cache/tmp/dawnbook-gsc-coverage-202
 - [x] Scope decided by the owner: all four fixes plus chapter 1 canonical to root (question tool answer, 2026-11-07).
 - [x] Plan validated (`bun scripts/ultra-plan-runner.mjs` prints `Validation: OK`, exit 0, 8 tasks; `bun scripts/validate-skill.mjs` exit 0) and published at Draft (`plan-sync.mjs`: publish exit 0, issue-sync exit 0, issue #268).
 - [x] Plan approved by the owner (Gate 2, question tool answer "Approve, execute", 2026-11-07), approval recorded below, plan re-synced.
-- [ ] Session claimed: branch and worktree from `pr-registry claim`, plan copied into the worktree.
-- [ ] T1 done: RED then GREEN with exit codes.
-- [ ] T2 done: RED then GREEN with exit codes.
-- [ ] T3 done: RED then GREEN with exit codes.
-- [ ] T4 done: RED then GREEN with exit codes.
-- [ ] T5 done: RED then GREEN with exit codes.
-- [ ] T8 done: RED then GREEN with exit codes.
-- [ ] T6 done: copy-rules check exit 0.
+- [x] Session claimed: `pr-registry claim` exit 0, branch `2026-11-07-gsc-coverage-fixes/gsc-coverage-fixes`, worktree `/mnt/belajarcarabelajar/dawnbook-wt/gsc-coverage-fixes` from origin/main `f4bfae70`; plan committed `97459b21`.
+- [x] T1 done: RED `colab-test -- bun test tests/scripts/not-found-and-redirects.test.ts` exit 1 (7 fail, assertion failures); GREEN same command exit 0 (10 pass, 0 fail), re-run by the parent exit 0; commit `5f9e4b4e`.
+- [x] T2 done: RED `colab-test -- bun test tests/scripts/hub-seo.test.ts` exit 1 (21 fail on assertions); scope extended by the parent to `hub-runtime.ts` line 352 and the `/dmca.html` expectation in `builder-template-engine.test.ts`; GREEN 4 files exit 0 (75 pass, 0 fail), re-run by the parent exit 0; commit `70827566`.
+- [x] T3 done: RED `colab-test -- bun test tests/scripts/generate-sitemap.test.ts -t 'git lastmod'` exit 1 (7 fail); GREEN with `premium-surfaces.test.ts` exit 0 (18 pass, 0 fail), re-run by the parent exit 0; typecheck exit 0 on Colab; commit `59f80a6b`.
+- [x] T4 done: RED `colab-test -- bun test tests/scripts/normalize-toc-links.test.ts tests/books/shared-script.test.ts` exit 1 (2 progress assertions 0% vs 100%, missing module); GREEN with `build.test.ts` exit 0 (23 pass, 0 fail), re-run by the parent exit 0; real toc file probe 0 `.html` chapter links left; commit `363ae7b4`.
+- [x] T5 done: RED (3 test files) exit 1 (8 fail on assertions); scope extended by the parent to `scripts/check-seo.ts` (its build-time sitemap rule required chapter 1); GREEN 8 files exit 0 (69 pass), re-run by the parent (7 files) exit 0 (58 pass, 0 fail); typecheck exit 0 on Colab; commit `5c3f1e02`.
+- [x] T8 done: RED `colab-test -- bun test tests/books/shared-script.test.ts -t 'first chapter'` exit 1 (test (a) redirected to `/sign-in?redirect_url=%2Fbooks%2Fmy-book%2Fcontent%2F01_intro`, controls passed); GREEN 4 files exit 0 (35 pass), re-run by the parent exit 0 (35 pass, 0 fail); typecheck exit 0 on Colab; commit `e6cfca33`.
+- [x] T6 done: GEMINI.md section 31 plus the section 30 sentence; names checked against the code (`gitLastmods`, `canonicalUrl`, `normalizeTocLinks`, `dawnbook-free-chapter` all found); `check-copy-rules.mjs --diff origin/main` exit 0, merge base `f4bfae70` = origin/main.
 - [ ] T7 done: typecheck, suite, NVMe build and output checker exit 0.
 - [ ] Independent diff review done, findings resolved.
 - [ ] PR opened with `Refs #<issue>`, plan synced.
 - [ ] Debt sweep run, follow-ups decided, plan closed.
+
+## Batch Manifest
+
+Wave 1 runs in parallel (disjoint files); wave 2 and 3 follow their dependencies. Subagents edit and test only; the parent stages by path and commits.
+
+| Chunk | Owner | Permitted files | Expected output | Verification |
+|---|---|---|---|---|
+| T1 | chef | `public/404.html`, `public/_redirects`, `tests/scripts/not-found-and-redirects.test.ts` | 404 page, two 301 rules, test | `colab-test -- bun test tests/scripts/not-found-and-redirects.test.ts` RED then GREEN |
+| T2 | hoggy | `scripts/builder/template-engine.ts`, `public/offline.html`, `tests/scripts/hub-seo.test.ts`; extended by the parent: `apps/hub/src/scripts/hub-runtime.ts` (inlined `/appreciation.html` link), `tests/scripts/builder-template-engine.test.ts` (old `/dmca.html` expectation) | hub canonical, descriptions, noindex, extensionless nav | T2 `run[]` |
+| T3 | nappy | `scripts/generate-sitemap.ts`, `tests/scripts/generate-sitemap.test.ts` | `gitLastmods`, lastmod lookup, no changefreq/priority | T3 `run[]` |
+| T4 | chef (second instance) | `scripts/builder/normalize-toc-links.ts`, `tests/scripts/normalize-toc-links.test.ts`, `scripts/build.ts`, `books/shared-script.js`, `tests/books/shared-script.test.ts` | toc link rewrite, build call, form-agnostic `normalizePath` | T4 `run[]` |
+| T5 | nappy (second instance) | `scripts/inject-gating.ts`, `scripts/generate-sitemap.ts`, `scripts/check-seo.ts` (extended by the parent: its build-time sitemap rule required chapter 1), `tests/scripts/inject-gating-canonical.test.ts`, `tests/scripts/generate-sitemap.test.ts`, `tests/scripts/premium-surfaces.test.ts` | chapter 1 canonical to root, sitemap without chapter 1 | T5 `run[]` |
+| T8 | wave 3 implementer | `scripts/inject-gating.ts`, `books/shared-script.js`, `tests/books/shared-script.test.ts`, `tests/scripts/inject-gating-canonical.test.ts` | `dawnbook-free-chapter` meta and `isPublic` check | T8 `run[]` |
+| T6 | parent (one file, docs) | `GEMINI.md` | section 31 and the section 30 sentence | copy-rules check |
+| T7 | parent plus one implementer for `scripts/check-indexing-output.ts` | `scripts/check-indexing-output.ts` | output checker | T7 `run[]` |
+
+Boundary check: every task has one owner; no two chunks in the same wave write the same file (T3/T5 share `generate-sitemap.ts` and T4/T5/T8 share files across waves only).
 
 ## Task T1: Root 404 Page and Redirects for Moved URLs
 
