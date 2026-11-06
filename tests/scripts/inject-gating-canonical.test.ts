@@ -101,4 +101,30 @@ describe("inject-gating.ts gives the first chapter the book root as canonical", 
     expect(page(cwd, "content/01_spasi jalan.html")).toEqual(self(`${SITE}/books/buku/content/01_spasi jalan`));
     expect(page(cwd, "content/02_b.html")).toEqual(self(`${SITE}/books/buku/content/02_b`));
   });
+
+  test("first chapter carries the free-chapter meta exactly once; root and chapter 2 carry none", () => {
+    const cwd = site({ buku: ["/books/buku/content/01_spasi%20jalan.html", "/books/buku/content/02_b.html"] });
+    run(cwd);
+    const metaCount = (rel: string) =>
+      readFileSync(join(cwd, "output/books/buku", rel), "utf8").split('<meta name="dawnbook-free-chapter" content="1" />')
+        .length - 1;
+    expect(metaCount("content/01_spasi jalan.html")).toBe(1);
+    expect(metaCount("index.html")).toBe(0);
+    expect(metaCount("content/02_b.html")).toBe(0);
+  });
+});
+
+describe("injectSeoAndGating isFirstChapter", () => {
+  const META = '<meta name="dawnbook-free-chapter" content="1" />';
+  const base = { pageTitle: "Bab Satu - Buku Uji", url: chapterUrl, isGatedClientSide: false };
+
+  test("first chapter: adds the free-chapter meta exactly once, inside the head", () => {
+    const out = injectSeoAndGating(html, { ...base, isFirstChapter: true });
+    expect(out.split(META).length - 1).toBe(1);
+    expect(out.indexOf(META)).toBeLessThan(out.indexOf("</head>"));
+  });
+
+  test("without isFirstChapter there is no free-chapter meta", () => {
+    expect(injectSeoAndGating(html, base)).not.toContain("dawnbook-free-chapter");
+  });
 });

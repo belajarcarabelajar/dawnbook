@@ -257,4 +257,40 @@ describe("Shared Script Client-Side Logic Execution", () => {
     );
     expect(bar.style.width).toBe("100%");
   });
+
+  async function coldLanding(pathname: string, withFreeChapterMeta: boolean) {
+    const setup = setupMockWindow(pathname);
+    const original = setup.mockDoc.querySelector;
+    (setup.mockDoc as any).querySelector = mock((selector: string) => {
+      if (withFreeChapterMeta && selector === 'meta[name="dawnbook-free-chapter"]') {
+        return { getAttribute: () => "1" };
+      }
+      return original(selector);
+    });
+    global.fetch = mock(async (url: string) => {
+      if (url.includes("/api/auth/me")) return new Response(JSON.stringify(null), { status: 401 });
+      return new Response("{}");
+    }) as unknown as typeof fetch;
+
+    Function(scriptContent)();
+    await new Promise((r) => setTimeout(r, 10));
+    return setup;
+  }
+
+  test("first chapter with the free-chapter meta stays visible for a signed-out cold landing", async () => {
+    const { mockWin, mockDoc } = await coldLanding("/books/my-book/content/01_intro", true);
+    expect(mockWin.location.href).not.toStartWith("/sign-in?");
+    expect(mockDoc.documentElement.style.opacity).toBe("1");
+    expect(mockDoc.documentElement.style.visibility).toBe("visible");
+  });
+
+  test("first chapter path without the meta still redirects (control)", async () => {
+    const { mockWin } = await coldLanding("/books/my-book/content/01_intro", false);
+    expect(mockWin.location.href).toBe("/sign-in?redirect_url=%2Fbooks%2Fmy-book%2Fcontent%2F01_intro");
+  });
+
+  test("first chapter meta absent on chapter 2: a cold landing still redirects", async () => {
+    const { mockWin } = await coldLanding("/books/my-book/content/02_next", false);
+    expect(mockWin.location.href).toBe("/sign-in?redirect_url=%2Fbooks%2Fmy-book%2Fcontent%2F02_next");
+  });
 });

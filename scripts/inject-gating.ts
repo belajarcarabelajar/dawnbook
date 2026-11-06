@@ -47,6 +47,11 @@ export interface InjectSeoOptions {
    * chapter repeats the book root's content, so processDirectory points it at the root.
    */
   canonicalUrl?: string;
+  /**
+   * Marks the free first chapter with `<meta name="dawnbook-free-chapter">`, so shared-script.js
+   * keeps it public on a cold landing where sessionStorage has no `free_chapter_viewed` yet.
+   */
+  isFirstChapter?: boolean;
 }
 
 // Google "preferred source" card at the end of every chapter (owner request 2026-11-02). dawnbook.belajarcarabelajar.com is listed in
@@ -372,7 +377,8 @@ export function injectSeoAndGating(html: string, options: InjectSeoOptions): str
         <script src="/pake-compat.js" defer></script>
         <link rel="canonical" href="${escapedCanonical}" />
         <link rel="alternate" hreflang="en" href="${escapedCanonical}" />
-        <link rel="alternate" hreflang="id" href="${escapedCanonical}" />
+        <link rel="alternate" hreflang="id" href="${escapedCanonical}" />${options.isFirstChapter ? `
+        <meta name="dawnbook-free-chapter" content="1" />` : ""}
         <meta name="description" content="${escapedDesc}" />
         <meta property="og:title" content="${escapedTitle}" />
         <meta property="og:description" content="${escapedDesc}" />
@@ -462,6 +468,7 @@ async function processDirectory(
       let ogImageAlt: string | undefined;
       let preferredSourceCard = false;
       let canonicalUrl: string | undefined;
+      let isFirstChapter = false;
       const bookMatch = relativePath.match(
         /^\/books\/([a-zA-Z0-9_-]+)\/(.*)?$/,
       );
@@ -500,6 +507,7 @@ async function processDirectory(
         const manifestFirst = manifestData.chapters?.[slug]?.[0];
         if (manifestFirst && decodeURIComponent(manifestFirst) === decodeURIComponent(relativePath)) {
           canonicalUrl = `https://dawnbook.belajarcarabelajar.com/books/${slug}/`;
+          isFirstChapter = true;
         }
 
         if (
@@ -535,6 +543,7 @@ async function processDirectory(
         ogImageAlt,
         preferredSourceCard,
         canonicalUrl,
+        isFirstChapter,
       });
 
       await writeFile(fullPath, updatedContent, "utf-8");
