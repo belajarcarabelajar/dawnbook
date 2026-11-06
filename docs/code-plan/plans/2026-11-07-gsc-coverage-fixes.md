@@ -1,7 +1,7 @@
 ---
 schema: ultra-plan/v1
 plan_id: 2026-11-07-gsc-coverage-fixes
-status: Verification
+status: InProgress
 version: 1
 runner_contract: true
 defaults:
@@ -194,7 +194,7 @@ flowchart TD
 - [x] AC-5: no chapter link in any built `toc-*.js` ends in `.html`, links to `print`, `toc` and `404` keep theirs, and the progress bar counts an extensionless sidebar link against a `.html` completed path. (evidence: T4 tests exit 0; build normalized 64 toc files, checker exit 0)
 - [x] AC-6: a first chapter's canonical and `og:url` are its book root URL, every other page keeps a self canonical, and the sitemap lists no first chapter (free or premium). (evidence: T5 tests exit 0; build sitemap 794 URLs without chapter 1, check-seo in build passed, checker exit 0)
 - [x] AC-8: a signed-out reader (and Google's renderer) landing cold on a book's first chapter is never redirected to `/sign-in`; chapters 2 and later keep today's entry-point rule. (evidence: T8 RED exit 1 then GREEN exit 0 (35 pass); checker found the meta on every first chapter)
-- [ ] AC-7: `bun run typecheck` exit 0, `bun test` exit 0, and `bun run build` exit 0 on an NVMe copy whose output passes `scripts/check-indexing-output.ts`. (evidence: typecheck exit 0; build exit 0; checker exit 0; full suite exit 1 only on the pre-existing Colab Python import failure (same on base), so AC-7 is met except that one environment test)
+- [x] AC-7: `bun run typecheck` exit 0, `bun test` exit 0, and `bun run build` exit 0 on an NVMe copy whose output passes `scripts/check-indexing-output.ts`. (evidence: runner `--execute` 2026-11-07 after follow-up F1: T7 PASSED, `colab-test -- bun run typecheck` exit 0, `colab-test -- bun test` exit 0, NVMe `bun run build` exit 0 with the indexing check inside, `check-indexing-output.ts` exit 0)
 
 **Traceability:**
 
@@ -244,7 +244,7 @@ Raw probe data stays outside the repo in `~/.cache/tmp/dawnbook-gsc-coverage-202
 
 **Definition of Done:** AC-1..AC-7 checked with evidence; plan checklist ticked; PR opened with `Refs #<issue>`; debt sweep run.
 
-**Plan Status & Version:** Verification, version 1.
+**Plan Status & Version:** InProgress (closeout kept open by the owner), version 1.
 
 **Reproducibility:** Bun 1.4.4, mdBook from `~/.cargo/bin`, Colab pool through `colab-test`; build in `~/.cache/tmp/dawnbook-gsc-coverage-build` (NVMe).
 
@@ -287,7 +287,7 @@ Raw probe data stays outside the repo in `~/.cache/tmp/dawnbook-gsc-coverage-202
 - [x] T7 done: `colab-test -- bun run typecheck` exit 0. `colab-test -- bun test` exit 1: 1759 pass, 1 fail, the only failure `test_gsc_batch_indexing_ping.py` (ImportError `tests.scripts` under Colab's Python 3.13); same single failure on base `f4bfae70` (1683 pass, 1 fail), and the same Python test passes locally on this branch (exit 0, 6 tests), so it is a pre-existing Colab environment failure. NVMe build `bun run build` exit 0 (64 toc files normalized, sitemap 794 URLs, lastmod spread 2026-10-24..2026-11-05); `scripts/check-indexing-output.ts` on that output exit 0; build worktree removed. Runner log: T1-T5, T8 SKIPPED-IDEMPOTENT, T6 PASSED, T7 FAILED-ISOLATED at step 2 (the environment failure above), steps 3-7 then run by the parent.
 - [x] Independent diff review done (read-only reviewer, 34 targeted tests exit 0): no high or medium finding; finding 5 (checker decode throws) fixed in `d92399ea`; findings 1-4 (checker not wired into the build, shallow-clone lastmod, latent `index` suffix rule, llms.txt still lists chapter 1) carried to the debt sweep.
 - [x] PR #269 opened (`pr-registry open` exit 0, body `Refs #268`), plan synced.
-- [ ] Debt sweep run, follow-ups decided, plan closed.
+- [x] Debt sweep run: owner picked F1-F4, all done RED then GREEN (F1 `71896b1a`, F2 `07f6c60b`, F3 `f7b469ac`, F4 `58e08dd4`, parent re-run exit 0); runner re-run all PASSED or SKIPPED-IDEMPOTENT; closeout question asked again before merge.
 
 ## Batch Manifest
 
@@ -502,9 +502,9 @@ Boundary check: every task has one owner; no two chunks in the same wave write t
 
 **Files:** none changed except the build checker, `scripts/check-indexing-output.ts`, which T7's owner writes first and the parent commits. It exits 1 naming each failure when: `output/404.html` or `output/_redirects` is missing; a hub page lacks its canonical or sign-in lacks noindex; any `output/books/*/toc-*.js` holds `content/…\.html"`; any sitemap entry has `changefreq`/`priority` or a first chapter; a first chapter's canonical is not its root; any `href` in a hub page points at a file absent from `output/`.
 
-- [ ] Step 1: run | cmd: `colab-test -- bun run typecheck` | expect: exit 0 | retry: 1
-- [ ] Step 2: run | cmd: `colab-test -- bun test` | expect: exit 0 | retry: 1
-- [ ] Step 3: NVMe detached worktree, `node_modules` symlink, `bun run build`, checker, `git worktree remove` (each one `run[]` step).
+- [x] Step 1: run | cmd: `colab-test -- bun run typecheck` | expect: exit 0 | retry: 1
+- [x] Step 2: run | cmd: `colab-test -- bun test` | expect: exit 0 | retry: 1
+- [x] Step 3: NVMe detached worktree, `node_modules` symlink, `bun run build`, checker, `git worktree remove` (each one `run[]` step).
 
 ## Approval
 
@@ -523,6 +523,13 @@ Owner selection (question tool, 2026-11-07): all four follow-ups; plan stays ope
 | F2 | `bun run build` runs `checkIndexingOutput` after check-seo | `scripts/build.ts`, `tests/scripts/build.test.ts` | `-t 'indexing check'` RED/GREEN, NVMe build exit 0 |
 | F3 | Shallow clone gives no lastmod instead of one date | `scripts/generate-sitemap.ts`, `tests/scripts/generate-sitemap.test.ts` | `-t 'shallow'` RED/GREEN |
 | F4 | `normalizeInternalLinks` maps only a real `index` segment to the directory | `scripts/inject-gating.ts`, `tests/scripts/inject-gating.test.ts` | `-t 'index suffix'` RED/GREEN |
+
+## Closeout status
+
+- 2026-11-07, `bun scripts/plan-closeout.mjs --readiness` after the follow-ups: **NEEDS-HUMAN** (exit 3). T1-T5 and T8 DONE by `skip_if`; T6 and T7 UNPROVEN only because their `skip_if` is the `false` sentinel; the runner `--execute` log of the same day records T6 PASSED and T7 PASSED; 0 open step boxes, 0 other open boxes.
+- Owner answer to the `Close plan` gate: **Keep it open**.
+- Remaining: owner deploy of PR #269, then the Operations probes (unknown path 404, hub pages 200, sitemap resubmitted, Validate fix started, request indexing for the 28 first chapters).
+- Reopen the closeout question: when those probes pass after the deploy.
 
 ## Follow-up Backlog
 - `llms.txt` still lists chapter 1 while its canonical is the book root (`scripts/generate-llmstxt.ts`). `defer: hint file only, owner wants llms.txt to match the sitemap`.
