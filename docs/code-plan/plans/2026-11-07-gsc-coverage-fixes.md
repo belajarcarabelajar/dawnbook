@@ -187,14 +187,14 @@ flowchart TD
 
 **Acceptance Criteria:**
 
-- [ ] AC-1: the build output holds a root `404.html` (Indonesian, links to `/`), so Cloudflare Pages leaves SPA mode and an unknown non-book path is answered with status 404 instead of the home page.
-- [ ] AC-2: `_redirects` holds a 301 for each of the two URLs that earned impressions and no longer exist, each target is an existing chapter, and every source is absent from the build.
-- [ ] AC-3: every indexable hub page (`/`, `/about`, `/contribute`, `/donate`, `/appreciation`, `/statistics`, `/dmca`) carries exactly one self-referencing absolute canonical and its own meta description; `sign-in`, `sign-up` and `offline` carry `noindex`; hub nav links point at the extensionless URLs.
-- [ ] AC-4: each sitemap `lastmod` is the date of the last commit that touched that page's source (chapter `.md` for a chapter, the book folder for a book root, all books for `/`); a page with no git history has no `lastmod`; `changefreq` and `priority` are gone.
-- [ ] AC-5: no chapter link in any built `toc-*.js` ends in `.html`, links to `print`, `toc` and `404` keep theirs, and the progress bar counts an extensionless sidebar link against a `.html` completed path.
-- [ ] AC-6: a first chapter's canonical and `og:url` are its book root URL, every other page keeps a self canonical, and the sitemap lists no first chapter (free or premium).
-- [ ] AC-8: a signed-out reader (and Google's renderer) landing cold on a book's first chapter is never redirected to `/sign-in`; chapters 2 and later keep today's entry-point rule.
-- [ ] AC-7: `bun run typecheck` exit 0, `bun test` exit 0, and `bun run build` exit 0 on an NVMe copy whose output passes `scripts/check-indexing-output.ts`.
+- [x] AC-1: the build output holds a root `404.html` (Indonesian, links to `/`), so Cloudflare Pages leaves SPA mode and an unknown non-book path is answered with status 404 instead of the home page. (evidence: T1 test exit 0; NVMe build output has `404.html`, checker exit 0)
+- [x] AC-2: `_redirects` holds a 301 for each of the two URLs that earned impressions and no longer exist, each target is an existing chapter, and every source is absent from the build. (evidence: T1 test exit 0 (targets exist, sources absent); `_redirects` in build output)
+- [x] AC-3: every indexable hub page (`/`, `/about`, `/contribute`, `/donate`, `/appreciation`, `/statistics`, `/dmca`) carries exactly one self-referencing absolute canonical and its own meta description; `sign-in`, `sign-up` and `offline` carry `noindex`; hub nav links point at the extensionless URLs. (evidence: T2 tests exit 0 (75 pass); checker exit 0 on the build (canonicals, noindex, no `.html` hub links))
+- [x] AC-4: each sitemap `lastmod` is the date of the last commit that touched that page's source (chapter `.md` for a chapter, the book folder for a book root, all books for `/`); a page with no git history has no `lastmod`; `changefreq` and `priority` are gone. (evidence: T3 tests exit 0; build sitemap lastmod spread 2026-10-24..2026-11-05, no changefreq/priority)
+- [x] AC-5: no chapter link in any built `toc-*.js` ends in `.html`, links to `print`, `toc` and `404` keep theirs, and the progress bar counts an extensionless sidebar link against a `.html` completed path. (evidence: T4 tests exit 0; build normalized 64 toc files, checker exit 0)
+- [x] AC-6: a first chapter's canonical and `og:url` are its book root URL, every other page keeps a self canonical, and the sitemap lists no first chapter (free or premium). (evidence: T5 tests exit 0; build sitemap 794 URLs without chapter 1, check-seo in build passed, checker exit 0)
+- [x] AC-8: a signed-out reader (and Google's renderer) landing cold on a book's first chapter is never redirected to `/sign-in`; chapters 2 and later keep today's entry-point rule. (evidence: T8 RED exit 1 then GREEN exit 0 (35 pass); checker found the meta on every first chapter)
+- [ ] AC-7: `bun run typecheck` exit 0, `bun test` exit 0, and `bun run build` exit 0 on an NVMe copy whose output passes `scripts/check-indexing-output.ts`. (evidence: typecheck exit 0; build exit 0; checker exit 0; full suite exit 1 only on the pre-existing Colab Python import failure (same on base), so AC-7 is met except that one environment test)
 
 **Traceability:**
 
@@ -330,11 +330,11 @@ Boundary check: every task has one owner; no two chunks in the same wave write t
 
 **Review & Evidence:** RED exit 1, GREEN exit 0 (colab-test).
 
-- [ ] Step 1: write `tests/scripts/not-found-and-redirects.test.ts`.
-- [ ] Step 2: run RED | cmd: `colab-test -- bun test tests/scripts/not-found-and-redirects.test.ts` | expect: exit 1 | retry: 0
-- [ ] Step 3: write `public/404.html` and `public/_redirects`.
-- [ ] Step 4: run GREEN | cmd: `colab-test -- bun test tests/scripts/not-found-and-redirects.test.ts` | expect: exit 0 | retry: 1
-- [ ] Step 5: parent commits `public/404.html public/_redirects tests/scripts/not-found-and-redirects.test.ts`.
+- [x] Step 1: write `tests/scripts/not-found-and-redirects.test.ts`.
+- [x] Step 2: run RED | cmd: `colab-test -- bun test tests/scripts/not-found-and-redirects.test.ts` | expect: exit 1 | retry: 0
+- [x] Step 3: write `public/404.html` and `public/_redirects`.
+- [x] Step 4: run GREEN | cmd: `colab-test -- bun test tests/scripts/not-found-and-redirects.test.ts` | expect: exit 0 | retry: 1
+- [x] Step 5: parent commits `public/404.html public/_redirects tests/scripts/not-found-and-redirects.test.ts`.
 
 ## Task T2: Hub Canonical, Descriptions, Noindex and Nav Links
 
@@ -361,11 +361,11 @@ Boundary check: every task has one owner; no two chunks in the same wave write t
 
 **Review & Evidence:** RED exit 1, GREEN exit 0 together with `builder-template-engine.test.ts` and `sign-up-google.test.ts`.
 
-- [ ] Step 1: write `tests/scripts/hub-seo.test.ts`.
-- [ ] Step 2: run RED | cmd: `colab-test -- bun test tests/scripts/hub-seo.test.ts` | expect: exit 1 | retry: 0
-- [ ] Step 3: implement in `template-engine.ts` and `public/offline.html`.
-- [ ] Step 4: run GREEN | cmd: `colab-test -- bun test tests/scripts/hub-seo.test.ts tests/scripts/builder-template-engine.test.ts tests/scripts/sign-up-google.test.ts` | expect: exit 0 | retry: 1
-- [ ] Step 5: parent commits the three files.
+- [x] Step 1: write `tests/scripts/hub-seo.test.ts`.
+- [x] Step 2: run RED | cmd: `colab-test -- bun test tests/scripts/hub-seo.test.ts` | expect: exit 1 | retry: 0
+- [x] Step 3: implement in `template-engine.ts` and `public/offline.html`.
+- [x] Step 4: run GREEN | cmd: `colab-test -- bun test tests/scripts/hub-seo.test.ts tests/scripts/builder-template-engine.test.ts tests/scripts/sign-up-google.test.ts` | expect: exit 0 | retry: 1
+- [x] Step 5: parent commits the three files.
 
 ## Task T3: Sitemap Lastmod from Git History
 
@@ -391,11 +391,11 @@ Boundary check: every task has one owner; no two chunks in the same wave write t
 
 **Review & Evidence:** RED exit 1, GREEN exit 0 with `premium-surfaces.test.ts`.
 
-- [ ] Step 1: add the `git lastmod` tests.
-- [ ] Step 2: run RED | cmd: `colab-test -- bun test tests/scripts/generate-sitemap.test.ts -t 'git lastmod'` | expect: exit 1 | retry: 0
-- [ ] Step 3: implement `gitLastmods` and the lookup.
-- [ ] Step 4: run GREEN | cmd: `colab-test -- bun test tests/scripts/generate-sitemap.test.ts tests/scripts/premium-surfaces.test.ts` | expect: exit 0 | retry: 1
-- [ ] Step 5: parent commits the two files.
+- [x] Step 1: add the `git lastmod` tests.
+- [x] Step 2: run RED | cmd: `colab-test -- bun test tests/scripts/generate-sitemap.test.ts -t 'git lastmod'` | expect: exit 1 | retry: 0
+- [x] Step 3: implement `gitLastmods` and the lookup.
+- [x] Step 4: run GREEN | cmd: `colab-test -- bun test tests/scripts/generate-sitemap.test.ts tests/scripts/premium-surfaces.test.ts` | expect: exit 0 | retry: 1
+- [x] Step 5: parent commits the two files.
 
 ## Task T4: Sidebar Links Without .html
 
@@ -422,11 +422,11 @@ Boundary check: every task has one owner; no two chunks in the same wave write t
 
 **Review & Evidence:** RED exit 1, GREEN exit 0 with `build.test.ts`.
 
-- [ ] Step 1: write both tests.
-- [ ] Step 2: run RED | cmd: `colab-test -- bun test tests/scripts/normalize-toc-links.test.ts tests/books/shared-script.test.ts` | expect: exit 1 | retry: 0
-- [ ] Step 3: implement `normalize-toc-links.ts`, the build call and `normalizePath`.
-- [ ] Step 4: run GREEN | cmd: `colab-test -- bun test tests/scripts/normalize-toc-links.test.ts tests/books/shared-script.test.ts tests/scripts/build.test.ts` | expect: exit 0 | retry: 1
-- [ ] Step 5: parent commits the five files.
+- [x] Step 1: write both tests.
+- [x] Step 2: run RED | cmd: `colab-test -- bun test tests/scripts/normalize-toc-links.test.ts tests/books/shared-script.test.ts` | expect: exit 1 | retry: 0
+- [x] Step 3: implement `normalize-toc-links.ts`, the build call and `normalizePath`.
+- [x] Step 4: run GREEN | cmd: `colab-test -- bun test tests/scripts/normalize-toc-links.test.ts tests/books/shared-script.test.ts tests/scripts/build.test.ts` | expect: exit 0 | retry: 1
+- [x] Step 5: parent commits the five files.
 
 ## Task T5: Chapter 1 Canonical Points to the Book Root
 
@@ -453,11 +453,11 @@ Boundary check: every task has one owner; no two chunks in the same wave write t
 
 **Review & Evidence:** RED exit 1, GREEN exit 0 with the existing inject-gating and SERP tests.
 
-- [ ] Step 1: write the tests.
-- [ ] Step 2: run RED | cmd: `colab-test -- bun test tests/scripts/inject-gating-canonical.test.ts` | expect: exit 1 | retry: 0
-- [ ] Step 3: implement in both scripts.
-- [ ] Step 4: run GREEN | cmd: see `run[]` for T5 | expect: exit 0 | retry: 1
-- [ ] Step 5: parent commits the touched files.
+- [x] Step 1: write the tests.
+- [x] Step 2: run RED | cmd: `colab-test -- bun test tests/scripts/inject-gating-canonical.test.ts` | expect: exit 1 | retry: 0
+- [x] Step 3: implement in both scripts.
+- [x] Step 4: run GREEN | cmd: see `run[]` for T5 | expect: exit 0 | retry: 1
+- [x] Step 5: parent commits the touched files.
 
 ## Task T8: Chapter 1 Stays Public for Signed-out Readers
 
@@ -482,11 +482,11 @@ Boundary check: every task has one owner; no two chunks in the same wave write t
 
 **Review & Evidence:** RED exit 1 (new `first chapter` test against today's script), GREEN exit 0.
 
-- [ ] Step 1: add the `first chapter` tests.
-- [ ] Step 2: run RED | cmd: `colab-test -- bun test tests/books/shared-script.test.ts -t 'first chapter'` | expect: exit 1 | retry: 0
-- [ ] Step 3: implement the meta and the `isPublic` check.
-- [ ] Step 4: run GREEN | cmd: see `run[]` for T8 | expect: exit 0 | retry: 1
-- [ ] Step 5: parent commits the touched files.
+- [x] Step 1: add the `first chapter` tests.
+- [x] Step 2: run RED | cmd: `colab-test -- bun test tests/books/shared-script.test.ts -t 'first chapter'` | expect: exit 1 | retry: 0
+- [x] Step 3: implement the meta and the `isPublic` check.
+- [x] Step 4: run GREEN | cmd: see `run[]` for T8 | expect: exit 0 | retry: 1
+- [x] Step 5: parent commits the touched files.
 
 ## Task T6: GEMINI.md Indexing Hygiene Section
 
@@ -494,9 +494,9 @@ Boundary check: every task has one owner; no two chunks in the same wave write t
 
 **Behavior & Acceptance:** section 31 states, each with its file: keep `public/404.html` (without it Pages answers unknown URLs with the home page and 200); add a 301 to `public/_redirects` when renaming a chapter that has search impressions; hub pages carry a self canonical and sign-in/up/offline carry noindex; chapter 1 canonical is the book root and the sitemap omits it; sitemap `lastmod` comes from git; the first chapter carries the `dawnbook-free-chapter` meta so the client gate never bounces it; built `toc-*.js` links are extensionless and `normalizePath` accepts both forms; a revert line naming the files. No claim beyond the Evidence table.
 
-- [ ] Step 1: write the section.
-- [ ] Step 2: run | cmd: `bun /home/belajarcarabelajar/vivera/scripts/check-copy-rules.mjs --diff origin/main` | expect: exit 0 | retry: 0
-- [ ] Step 3: parent commits `GEMINI.md`.
+- [x] Step 1: write the section.
+- [x] Step 2: run | cmd: `bun /home/belajarcarabelajar/vivera/scripts/check-copy-rules.mjs --diff origin/main` | expect: exit 0 | retry: 0
+- [x] Step 3: parent commits `GEMINI.md`.
 
 ## Task T7: Verify Typecheck, Suite and Real Build
 
@@ -511,7 +511,22 @@ Boundary check: every task has one owner; no two chunks in the same wave write t
 - 2026-11-07: scope approved by the owner through the question tool (all four fixes; chapter 1 canonical to the book root).
 - 2026-11-07: plan approved by the owner through the question tool ("Approve, execute"), including T8.
 
+## Debt Sweep (2026-11-07)
+
+Harvest: 0 `defer:` comment markers in the branch (`git grep -nE '(#|//|/[*]) ?defer:'`; the same command finds 2 in vivera `scripts/validate-agents.mjs`, so the search works); no TODO, skip, ts-ignore added; reviewer findings 1-4; T7 full-suite failure. Learning harvest written to the session memory (`gsc-coverage-fix-traps`, `reindex-scripts-403-exit-0` updated).
+
+Owner selection (question tool, 2026-11-07): all four follow-ups; plan stays open (readiness NOT-READY at ask time).
+
+| ID | Follow-up | Files | Check |
+|---|---|---|---|
+| F1 | Python GSC ping test runnable on Colab (unittest discover, no `tests.scripts` import) | `tests/scripts/gsc-batch-indexing-ping.test.ts` | `colab-test -- bun test tests/scripts/gsc-batch-indexing-ping.test.ts` RED exit 1, GREEN exit 0 |
+| F2 | `bun run build` runs `checkIndexingOutput` after check-seo | `scripts/build.ts`, `tests/scripts/build.test.ts` | `-t 'indexing check'` RED/GREEN, NVMe build exit 0 |
+| F3 | Shallow clone gives no lastmod instead of one date | `scripts/generate-sitemap.ts`, `tests/scripts/generate-sitemap.test.ts` | `-t 'shallow'` RED/GREEN |
+| F4 | `normalizeInternalLinks` maps only a real `index` segment to the directory | `scripts/inject-gating.ts`, `tests/scripts/inject-gating.test.ts` | `-t 'index suffix'` RED/GREEN |
+
 ## Follow-up Backlog
+- `llms.txt` still lists chapter 1 while its canonical is the book root (`scripts/generate-llmstxt.ts`). `defer: hint file only, owner wants llms.txt to match the sitemap`.
+- Stale `.html` path comments in `functions/lib/gating.ts:11`, `functions/api/stats.ts:6` and sample paths in `tests/functions/api/auth.test.ts`. `defer: comments and samples, next edit of those files`.
 
 - Google canonical `/sign-in` for the `metodologi-microteaching` root (crawled 2026-09-28): re-inspect after deploy. `defer: 1 URL, still /sign-in after the first recrawl`.
 - After deploy, request indexing for the 28 first chapters recorded as redirects (list in `~/.cache/tmp/dawnbook-gsc-coverage-20261107/all.jsonl`). `defer: 28 URLs, owner deploys T8`.
