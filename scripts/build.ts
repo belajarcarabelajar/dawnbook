@@ -9,6 +9,7 @@ import { runHeadingGate } from "./heading-gate";
 import { checkCovers, COVER_FILE } from "./check-covers";
 import { runVoiceGate } from "./check-voice";
 import { runStructureGate } from "./check-book-structure";
+import { checkIndexingOutput } from "./check-indexing-output";
 import { renderOgCards } from "./render-og-cards";
 import { normalizeTocLinks } from "./builder/normalize-toc-links";
 import { syncPremiumBooksForRepo } from "./premium-sync";
@@ -115,6 +116,16 @@ async function build() {
 
   console.log("Running SEO validation...");
   await $`bun run scripts/check-seo.ts`;
+
+  console.log("Checking indexing signals in output...");
+  const indexingProblems = checkIndexingOutput(outputDir);
+  if (indexingProblems.length > 0) {
+    console.error(`Indexing check failed: ${indexingProblems.length} problem(s)`);
+    for (const p of indexingProblems.slice(0, 60)) console.error(`  ${p}`);
+    if (indexingProblems.length > 60) console.error(`  ... and ${indexingProblems.length - 60} more`);
+    process.exit(1);
+  }
+  console.log("  → indexing check passed");
 
   console.log("Premium Hub site generated successfully.");
 }
