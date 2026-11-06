@@ -1,9 +1,198 @@
 import { describe, expect, it, beforeEach, afterEach } from "bun:test";
+import fs from "node:fs";
+import os from "node:os";
+import path from "node:path";
 import {
   base64url,
   inspectUrl,
   getAccessTokenFromRefreshToken,
+  resolveAccessToken,
+  main,
 } from "../../scripts/audit-full-gsc-index";
+
+const TOKEN_URL = "https://oauth2.googleapis.com/token";
+const INSPECT_URL =
+  "https://searchconsole.googleapis.com/v1/urlInspection/index:inspect";
+
+const OAUTH_ENV = {
+  GSC_OAUTH_CLIENT_ID: "client-id-abc",
+  GSC_OAUTH_CLIENT_SECRET: "client-secret-SHOULD-NOT-LEAK",
+  GSC_OAUTH_REFRESH_TOKEN_TULIS: "tulis-refresh-SHOULD-NOT-LEAK",
+  GSC_OAUTH_REFRESH_TOKEN: "dead-refresh-SHOULD-NOT-LEAK",
+};
+
+type Call = { url: string; body: string };
+
+function fakeFetch(
+  calls: Call[],
+  inspect: () => Response,
+  tokenResponse: () => Response = () =>
+    new Response(JSON.stringify({ access_token: "access-SHOULD-NOT-LEAK" }), {
+      status: 200,
+    }),
+): typeof fetch {
+  return (async (input: string | URL | Request, init?: RequestInit) => {
+    const url = input.toString();
+    calls.push({ url, body: String(init?.body ?? "") });
+    if (url === TOKEN_URL) return tokenResponse();
+    if (url === INSPECT_URL) return inspect();
+    throw new Error(`unexpected URL ${url}`);
+  }) as typeof fetch;
+}
+
+function refreshTokenSent(call: Call): string | null {
+  return new URLSearchParams(call.body).get("refresh_token");
+}
+
+function captureConsole<T>(fn: () => Promise<T>): Promise<{ value: T; out: string }> {
+  const orig = {
+    log: console.log,
+    warn: console.warn,
+    error: console.error,
+    write: process.stdout.write,
+  };
+  let out = "";
+  const sink = (...args: unknown[]) => {
+    out += args.map(String).join(" ") + "\n";
+  };
+  console.log = sink;
+  console.warn = sink;
+  console.error = sink;
+  process.stdout.write = ((chunk: unknown) => {
+    out += String(chunk);
+    return true;
+  }) as typeof process.stdout.write;
+  return fn()
+    .then((value) => ({ value, out }))
+    .finally(() => {
+      console.log = orig.log;
+      console.warn = orig.warn;
+      console.error = orig.error;
+      process.stdout.write = orig.write;
+    });
+}
+
+describe("resolveAccessToken", () => {
+  it("uses GSC_OAUTH_REFRESH_TOKEN_TULIS when both refresh tokens are set", async () => {
+    const calls: Call[] = [];
+    const source = await resolveAccessToken(
+      OAUTH_ENV,
+      fakeFetch(calls, () => new Response("{}")),
+    );
+    expect(source.token).toBe("access-SHOULD-NOT-LEAK");
+    expect(calls).toHaveLength(1);
+    expect(refreshTokenSent(calls[0])).toBe("tulis-refresh-SHOULD-NOT-LEAK");
+  });
+
+  it("falls back to GSC_OAUTH_REFRESH_TOKEN when TULIS is unset", async () => {
+    const calls: Call[] = [];
+    const { GSC_OAUTH_REFRESH_TOKEN_TULIS: _unused, ...env } = OAUTH_ENV;
+    await resolveAccessToken(env, fakeFetch(calls, () => new Response("{}")));
+    expect(refreshTokenSent(calls[0])).toBe("dead-refresh-SHOULD-NOT-LEAK");
+  });
+
+  it("names the variable and hides secret values when the refresh fails", async () => {
+    const calls: Call[] = [];
+    const failing = fakeFetch(
+      calls,
+      () => new Response("{}"),
+      () =>
+        new Response(
+          JSON.stringify({ error: "invalid_grant", error_description: "Bad Request" }),
+          { status: 400 },
+        ),
+    );
+    const err = await resolveAccessToken(OAUTH_ENV, failing).catch((e) => e);
+    expect(err).toBeInstanceOf(Error);
+    expect(err.message).toContain("GSC_OAUTH_REFRESH_TOKEN_TULIS");
+    expect(err.message).toContain("invalid_grant");
+    expect(err.message).not.toContain("SHOULD-NOT-LEAK");
+  });
+
+  it("throws naming the variables when no credential is configured", async () => {
+    const err = await resolveAccessToken(
+      {},
+      fakeFetch([], () => new Response("{}")),
+      "/nonexistent/service-account.json",
+    ).catch((e) => e);
+    expect(err).toBeInstanceOf(Error);
+    expect(err.message).toContain("GSC_OAUTH_REFRESH_TOKEN_TULIS");
+  });
+});
+
+describe("main exit code", () => {
+  let dir: string;
+  beforeEach(() => {
+    dir = fs.mkdtempSync(path.join(os.tmpdir(), "audit-gsc-test-"));
+    fs.writeFileSync(
+      path.join(dir, "sitemap.xml"),
+      "<urlset><url><loc>https://dawnbook.belajarcarabelajar.com/books/a/</loc></url></urlset>",
+    );
+  });
+  afterEach(() => {
+    fs.rmSync(dir, { recursive: true, force: true });
+  });
+
+  const run = (fetchFn: typeof fetch) =>
+    captureConsole(() =>
+      main({
+        env: OAUTH_ENV,
+        fetchFn,
+        sitemapPath: path.join(dir, "sitemap.xml"),
+        reportDir: path.join(dir, "out"),
+        delayMs: 0,
+      }),
+    );
+
+  it("returns 0 when every inspection succeeds", async () => {
+    const { value } = await run(
+      fakeFetch([], () =>
+        new Response(
+          JSON.stringify({
+            inspectionResult: {
+              indexStatusResult: {
+                verdict: "PASS",
+                coverageState: "Submitted and indexed",
+                indexingState: "INDEXING_ALLOWED",
+              },
+            },
+          }),
+          { status: 200 },
+        ),
+      ),
+    );
+    expect(value).toBe(0);
+    expect(fs.existsSync(path.join(dir, "out", "FULL_GSC_INDEXING_REPORT.md"))).toBe(true);
+  });
+
+  it("returns non-zero when URL inspection answers 403", async () => {
+    const { value, out } = await run(
+      fakeFetch([], () =>
+        new Response(
+          JSON.stringify({
+            error: { code: 403, message: "User does not have sufficient permission" },
+          }),
+          { status: 403 },
+        ),
+      ),
+    );
+    expect(value).not.toBe(0);
+    expect(out).not.toContain("SHOULD-NOT-LEAK");
+  });
+
+  it("returns non-zero when the token refresh fails", async () => {
+    const { value, out } = await run(
+      fakeFetch(
+        [],
+        () => new Response("{}"),
+        () => new Response(JSON.stringify({ error: "invalid_grant" }), { status: 400 }),
+      ),
+    );
+    expect(value).not.toBe(0);
+    expect(out).toContain("GSC_OAUTH_REFRESH_TOKEN_TULIS");
+    expect(out).not.toContain("SHOULD-NOT-LEAK");
+  });
+});
 
 describe("audit-full-gsc-index script", () => {
   let originalFetch: typeof global.fetch;

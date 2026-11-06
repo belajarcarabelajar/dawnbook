@@ -15,28 +15,36 @@ function seoUrls(out: string) {
     canonical: out.match(/<link rel="canonical" href="([^"]*)"/)?.[1],
     hreflangEn: out.match(/<link rel="alternate" hreflang="en" href="([^"]*)"/)?.[1],
     hreflangId: out.match(/<link rel="alternate" hreflang="id" href="([^"]*)"/)?.[1],
+    hreflangDefault: out.match(/<link rel="alternate" hreflang="x-default" href="([^"]*)"/)?.[1],
     ogUrl: out.match(/<meta property="og:url" content="([^"]*)"/)?.[1],
   };
 }
 const description = (out: string) => out.match(/<meta name="description" content="([^"]*)"/)?.[1];
 
 describe("injectSeoAndGating canonicalUrl", () => {
-  test("canonicalUrl goes to canonical, og:url and both hreflang links", () => {
+  test("canonicalUrl goes to canonical, og:url and the id and x-default hreflang links, with no en", () => {
     const out = injectSeoAndGating(html, {
       pageTitle: "Bab Satu - Buku Uji",
       url: chapterUrl,
       isGatedClientSide: false,
       canonicalUrl: rootUrl,
     });
-    expect(seoUrls(out)).toEqual({ canonical: rootUrl, hreflangEn: rootUrl, hreflangId: rootUrl, ogUrl: rootUrl });
+    expect(seoUrls(out)).toEqual({
+      canonical: rootUrl,
+      hreflangEn: undefined,
+      hreflangId: rootUrl,
+      hreflangDefault: rootUrl,
+      ogUrl: rootUrl,
+    });
   });
 
   test("without canonicalUrl every one of them is the page url", () => {
     const out = injectSeoAndGating(html, { pageTitle: "Bab Satu - Buku Uji", url: chapterUrl, isGatedClientSide: false });
     expect(seoUrls(out)).toEqual({
       canonical: chapterUrl,
-      hreflangEn: chapterUrl,
+      hreflangEn: undefined,
       hreflangId: chapterUrl,
+      hreflangDefault: chapterUrl,
       ogUrl: chapterUrl,
     });
   });
@@ -81,7 +89,7 @@ describe("inject-gating.ts gives the first chapter the book root as canonical", 
     expect(result.exitCode).toBe(0);
   }
   const page = (cwd: string, rel: string) => seoUrls(readFileSync(join(cwd, "output/books/buku", rel), "utf8"));
-  const self = (u: string) => ({ canonical: u, hreflangEn: u, hreflangId: u, ogUrl: u });
+  const self = (u: string) => ({ canonical: u, hreflangEn: undefined, hreflangId: u, hreflangDefault: u, ogUrl: u });
   const bookRoot = `${SITE}/books/buku/`;
 
   test("chapter 1 points at the root; root, chapter 2 and toc keep their own url", () => {
@@ -126,5 +134,13 @@ describe("injectSeoAndGating isFirstChapter", () => {
 
   test("without isFirstChapter there is no free-chapter meta", () => {
     expect(injectSeoAndGating(html, base)).not.toContain("dawnbook-free-chapter");
+  });
+});
+
+describe("injectSeoAndGating hreflang", () => {
+  test("a book page has exactly one id and one x-default alternate and no en alternate", () => {
+    const out = injectSeoAndGating(html, { pageTitle: "Bab Satu - Buku Uji", url: chapterUrl, isGatedClientSide: false });
+    const langs = [...out.matchAll(/hreflang="([^"]*)"/g)].map((m) => m[1]);
+    expect(langs).toEqual(["id", "x-default"]);
   });
 });

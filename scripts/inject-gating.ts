@@ -43,7 +43,7 @@ export interface InjectSeoOptions {
   /** Add the Google "preferred source" card at the end of the chapter (book pages except toc, 404, print). */
   preferredSourceCard?: boolean;
   /**
-   * URL for rel=canonical, og:url and both hreflang links; defaults to `url`. The first
+   * URL for rel=canonical, og:url and the id and x-default hreflang links; defaults to `url`. The first
    * chapter repeats the book root's content, so processDirectory points it at the root.
    */
   canonicalUrl?: string;
@@ -376,8 +376,8 @@ export function injectSeoAndGating(html: string, options: InjectSeoOptions): str
         <link rel="manifest" href="/manifest.webmanifest" />
         <script src="/pake-compat.js" defer></script>
         <link rel="canonical" href="${escapedCanonical}" />
-        <link rel="alternate" hreflang="en" href="${escapedCanonical}" />
-        <link rel="alternate" hreflang="id" href="${escapedCanonical}" />${options.isFirstChapter ? `
+        <link rel="alternate" hreflang="id" href="${escapedCanonical}" />
+        <link rel="alternate" hreflang="x-default" href="${escapedCanonical}" />${options.isFirstChapter ? `
         <meta name="dawnbook-free-chapter" content="1" />` : ""}
         <meta name="description" content="${escapedDesc}" />
         <meta property="og:title" content="${escapedTitle}" />

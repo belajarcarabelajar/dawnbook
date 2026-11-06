@@ -137,7 +137,7 @@ describe("sitemap (scripts/generate-sitemap.ts)", () => {
 });
 
 describe("llms.txt (scripts/generate-llmstxt.ts)", () => {
-  test("lists only the root and chapter 1 of a premium book, every chapter of a free one", async () => {
+  test("lists only the root of a premium book, chapters 2 onward of a free one", async () => {
     // Imported lazily so a missing export fails this test alone, not the whole file.
     const { buildLlmsTxt } = await import("../../scripts/generate-llmstxt");
     premiumOnly("buku-premium");
@@ -147,10 +147,10 @@ describe("llms.txt (scripts/generate-llmstxt.ts)", () => {
     });
 
     expect(txt).toContain(`(${BASE}/books/buku-premium/)`);
-    expect(txt).toContain(`(${BASE}/books/buku-premium/content/01_bab-satu.html)`);
-    expect(txt).not.toContain("buku-premium/content/02_bab-dua");
-    expect(txt).toContain(`(${BASE}/books/buku-gratis/content/01_bab-satu.html)`);
-    expect(txt).toContain(`(${BASE}/books/buku-gratis/content/02_bab-dua.html)`);
+    expect(txt).not.toContain("buku-premium/content/");
+    expect(txt).toContain(`(${BASE}/books/buku-gratis/)`);
+    expect(txt).not.toContain("buku-gratis/content/01_bab-satu");
+    expect(txt).toContain(`(${BASE}/books/buku-gratis/content/02_bab-dua)`);
   });
 });
 

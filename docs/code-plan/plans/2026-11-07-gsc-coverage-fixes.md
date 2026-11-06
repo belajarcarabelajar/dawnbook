@@ -537,10 +537,15 @@ Owner selection (question tool, 2026-11-07): all four follow-ups; plan stays ope
 - Owner actions left in the Search Console UI (no API allows them): start "Validate fix" for Soft 404 and Duplicate without user-selected canonical; request indexing for the 31 book roots that were not indexed on 2026-11-07 (list `~/.cache/tmp/dawnbook-gsc-coverage-20261107/request-indexing-roots.txt`; the 28 first chapters now point to their roots, so requesting them is wasted). Google's Indexing API is limited to `JobPosting` and `BroadcastEvent` pages (Indexing API quickstart, fetched 2026-11-07).
 
 ## Follow-up Backlog
-- `llms.txt` still lists chapter 1 while its canonical is the book root (`scripts/generate-llmstxt.ts`). `defer: hint file only, owner wants llms.txt to match the sitemap`.
-- Stale `.html` path comments in `functions/lib/gating.ts:11`, `functions/api/stats.ts:6` and sample paths in `tests/functions/api/auth.test.ts`. `defer: comments and samples, next edit of those files`.
+Session `gsc-backlog` (2026-11-07, branch `2026-11-07-gsc-coverage-fixes/gsc-backlog`) closed these:
+- [x] `llms.txt` left out chapter 1 and wrote chapter links without `.html` (`scripts/generate-llmstxt.ts`; tests RED exit 1, GREEN exit 0).
+- [x] Stale `.html` comments in `functions/lib/gating.ts`, `functions/api/stats.ts`, `scripts/check-premium-output.ts` and the sample paths in `tests/functions/api/auth.test.ts` (auth test exit 0).
+- [x] `scripts/gsc_batch_indexing_ping.py`, its two tests and its runbook `docs/INDEXING_CHECKPOINT.md` plus `docs/indexing_checkpoint.json` retired (owner decision 2026-11-07).
+- [x] Hub `<html lang="id">`; book pages carry `hreflang="id"` plus `x-default` and no `en`; check-seo R2 enforces it (owner decision 2026-11-07).
+- [x] `gsc_trigger_reindex.py`, `gsc_seo_insights.py` and `audit-full-gsc-index.ts` use `GSC_OAUTH_REFRESH_TOKEN_TULIS` first and exit 1 on any failed call. Live: `gsc_trigger_reindex.py` exit 0 (sitemap PUT), `gsc_seo_insights.py` exit 0, a bogus token gives exit 1.
 
-- Google canonical `/sign-in` for the `metodologi-microteaching` root (crawled 2026-09-28): re-inspect after deploy. `defer: 1 URL, still /sign-in after the first recrawl`.
-- `scripts/gsc_batch_indexing_ping.py` sends book pages to the Indexing API (`indexing.googleapis.com`), which Google limits to `JobPosting` and `BroadcastEvent` pages and polices for abuse. `defer: one script, next post-deploy reindex run or an owner decision to retire it`.
-- Hub `lang="en"` and the identical `hreflang en`/`id` pair on book pages. `defer: language signals, owner decision on hub language`.
-- Repo scripts `audit-full-gsc-index.ts` and `gsc_*.py` use the expired read-only token or a service account. `defer: GSC tooling, next reindex run`.
+Still open:
+- Google canonical `/sign-in` for the `metodologi-microteaching` root: re-inspected 2026-11-07 after the deploy, last crawl still 2026-09-28, so Google has not seen the fix yet; it is in the owner's request-indexing list. `defer: 1 URL, re-inspect after its next crawl`.
+- The two Python GSC scripts each carry the same OAuth helper block (about 120 lines). `defer: extract scripts/gsc_auth.py when a third Python GSC script appears`.
+- `scripts/seo-request-reindex.ts` authenticates only with the service account. `defer: switch it to the TULIS token on its next use`.
+- The hub i18n runtime (`apps/hub/src/scripts/i18n-runtime.js`) defaults to `en` for a visitor without the `dawnbook_lang` cookie and swaps the `data-i18n` texts and `lang` together. `defer: owner decision if the hub default language should be id`.

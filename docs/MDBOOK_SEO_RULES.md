@@ -145,7 +145,7 @@ Verifies live HTTP headers, `noindex` presence, and canonical tags against the p
 - **Acceptance Check:** Exits code 0; script verifies no public HTML lacks these tags.
 
 **R2 : Canonical and Hreflang Tags**
-- **Statement:** Every public page MUST emit a self-referencing canonical link and reciprocal `hreflang` for `en` and `id` locales.
+- **Statement:** Every public book page MUST emit a self-referencing canonical link plus `hreflang="id"` and `hreflang="x-default"` to that canonical, and never `hreflang="en"`: the book text is Indonesian only, so an `en` alternate pointing at the same URL tells Google nothing (owner decision 2026-11-07).
 - **Command:** `bun run scripts/check-seo.ts`
 - **Acceptance Check:** Exits code 0; script verifies `<link rel="canonical">` and `<link rel="alternate" hreflang="...">` exist on all public pages.
 
@@ -191,7 +191,7 @@ Verifies live HTTP headers, `noindex` presence, and canonical tags against the p
 
 **R11 : Automated Search Console API & IndexNow Re-indexing**
 - **Statement:** Post-deployment automation MUST trigger `python3 scripts/gsc_trigger_reindex.py` or `bun run scripts/seo-request-reindex.ts` to submit `sitemap.xml` directly to Google Search Console API v3 (`PUT /webmasters/v3/sites/.../sitemaps/...`) and push URLs to IndexNow.
-- **Command:** `python3 scripts/gsc_trigger_reindex.py`
+- **Command:** `set -a && source ~/cloudflare/.env && set +a && python3 scripts/gsc_trigger_reindex.py` (authenticates with `GSC_OAUTH_REFRESH_TOKEN_TULIS`; exits 1 on any failed call)
 - **Acceptance Check:** API returns `204` / `200` Success for sitemap submission.
 
 ## 7. SEO Risk Rules
@@ -209,8 +209,8 @@ Verifies live HTTP headers, `noindex` presence, and canonical tags against the p
 - **Required End State:** External scripts (MathJax) must use `async` or `defer`. YouTube `<iframe>` elements must include `loading="lazy"`.
 
 **S4 : Missing Localization Signals**
-- **Statement:** Missing canonical and `hreflang` tags causes duplicate-content penalties and locale confusion across `en`/`id`.
-- **Required End State:** Exact locale mappings must be declared in `<head>` so Google correctly serves `id` to Indonesian users and `en` to others without algorithmic guessing.
+- **Statement:** Missing canonical and `hreflang` tags causes duplicate-content penalties and locale confusion.
+- **Required End State:** Each book page declares its canonical with `hreflang="id"` and `hreflang="x-default"` in `<head>`; there is no English edition to map, so no `en` alternate is declared.
 
 ## 8. Self-Verification Checklist
 

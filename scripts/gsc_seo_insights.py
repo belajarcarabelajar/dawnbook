@@ -1,27 +1,89 @@
 #!/usr/bin/env python3
+"""Mine Search Console analytics (last 90 days) into docs/GSC_SEO_OPPORTUNITIES_REPORT.md.
+
+Credentials, first match wins:
+  1. GSC_OAUTH_REFRESH_TOKEN_TULIS, with GSC_OAUTH_CLIENT_ID and GSC_OAUTH_CLIENT_SECRET.
+  2. GSC_OAUTH_REFRESH_TOKEN with the same client id and secret.
+  3. Service account (GSC_CLIENT_EMAIL + GSC_PRIVATE_KEY, or service-account.json).
+Exits 1 on any failed API call or missing credential, before the report is written.
+Never prints a token value.
+"""
 import json
 import time
+import urllib.error
 import urllib.request
 import urllib.parse
 import base64
 import subprocess
 import os
+import sys
 import tempfile
 
 # Repo moved from ~/dawnbook to ~/Proyek/dawnbook on 2026-09-30.
 # Paths are derived from this file's location instead of hardcoded absolute paths.
 REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
+TOKEN_URL = "https://oauth2.googleapis.com/token"
+SCOPE = "https://www.googleapis.com/auth/webmasters.readonly"
+REFRESH_TOKEN_VARS = ("GSC_OAUTH_REFRESH_TOKEN_TULIS", "GSC_OAUTH_REFRESH_TOKEN")
+DEFAULT_SITE_URL = "sc-domain:dawnbook.belajarcarabelajar.com"
+DEFAULT_REPORT_PATH = os.path.join(REPO_ROOT, "docs", "GSC_SEO_OPPORTUNITIES_REPORT.md")
+
+
+class GscError(Exception):
+    pass
+
+
 def base64url_encode(data: bytes) -> str:
     return base64.b64encode(data).decode('utf-8').replace('=', '').replace('+', '-').replace('/', '_')
 
-def get_access_token_jwt(sa: dict, scope: str) -> str:
+
+def _error_detail(raw: bytes) -> str:
+    # Google error bodies carry a code and message, never the credential that was sent.
+    try:
+        body = json.loads(raw.decode("utf-8"))
+    except (ValueError, UnicodeDecodeError):
+        return ""
+    err = body.get("error") if isinstance(body, dict) else None
+    if isinstance(err, dict):
+        return " ".join(str(err.get(k)) for k in ("status", "message") if err.get(k))
+    if isinstance(err, str):
+        return " ".join(x for x in (err, body.get("error_description")) if x)
+    return ""
+
+
+def http_json(req, urlopen, what: str) -> dict:
+    try:
+        with urlopen(req, timeout=60) as resp:
+            raw = resp.read()
+    except urllib.error.HTTPError as e:
+        raise GscError(f"{what} failed: HTTP {e.code} {_error_detail(e.read())}".rstrip())
+    except urllib.error.URLError as e:
+        raise GscError(f"{what} failed: {e.reason}")
+    return json.loads(raw.decode("utf-8")) if raw else {}
+
+
+def refresh_access_token(client_id, client_secret, refresh_token, var_name, urlopen) -> str:
+    data = urllib.parse.urlencode({
+        "client_id": client_id,
+        "client_secret": client_secret,
+        "refresh_token": refresh_token,
+        "grant_type": "refresh_token",
+    }).encode("utf-8")
+    req = urllib.request.Request(TOKEN_URL, data=data, headers={"Content-Type": "application/x-www-form-urlencoded"})
+    body = http_json(req, urlopen, f"Refreshing the access token from {var_name}")
+    if not body.get("access_token"):
+        raise GscError(f"Refreshing the access token from {var_name} returned no access_token")
+    return body["access_token"]
+
+
+def get_access_token_jwt(sa: dict, scope: str, urlopen) -> str:
     header = {"alg": "RS256", "typ": "JWT"}
     now = int(time.time())
     claim_set = {
         "iss": sa["client_email"],
         "scope": scope,
-        "aud": "https://oauth2.googleapis.com/token",
+        "aud": TOKEN_URL,
         "exp": now + 3600,
         "iat": now
     }
@@ -43,27 +105,59 @@ def get_access_token_jwt(sa: dict, scope: str) -> str:
         )
         signature_bytes, stderr = proc.communicate(input=sign_input.encode('utf-8'))
         if proc.returncode != 0:
-            raise RuntimeError(f"OpenSSL signing failed: {stderr.decode('utf-8')}")
+            raise GscError(f"OpenSSL signing failed: {stderr.decode('utf-8')}")
     finally:
         if os.path.exists(key_file_path):
             os.remove(key_file_path)
 
-    signature = base64url_encode(signature_bytes)
-    jwt = f"{sign_input}.{signature}"
-
+    jwt = f"{sign_input}.{base64url_encode(signature_bytes)}"
     data = urllib.parse.urlencode({
         "grant_type": "urn:ietf:params:oauth:grant-type:jwt-bearer",
         "assertion": jwt
     }).encode('utf-8')
+    req = urllib.request.Request(TOKEN_URL, data=data, headers={"Content-Type": "application/x-www-form-urlencoded"})
+    body = http_json(req, urlopen, "Service account token exchange")
+    if not body.get("access_token"):
+        raise GscError("Service account token exchange returned no access_token")
+    return body["access_token"]
 
-    req = urllib.request.Request("https://oauth2.googleapis.com/token", data=data, headers={"Content-Type": "application/x-www-form-urlencoded"})
-    with urllib.request.urlopen(req) as response:
-        res_json = json.loads(response.read().decode('utf-8'))
-        return res_json["access_token"]
 
-def query_search_analytics(token: str, site_url: str, dimensions: list, row_limit: int = 500):
+def load_service_account(env: dict, sa_path: str):
+    if env.get("GSC_CLIENT_EMAIL") and env.get("GSC_PRIVATE_KEY"):
+        return {
+            "client_email": env["GSC_CLIENT_EMAIL"],
+            "private_key": env["GSC_PRIVATE_KEY"].replace("\\n", "\n"),
+        }
+    if os.path.exists(sa_path):
+        with open(sa_path, 'r', encoding='utf-8') as f:
+            return json.load(f)
+    return None
+
+
+def get_access_token(env: dict, urlopen, scope: str, sa_path: str) -> str:
+    for var_name in REFRESH_TOKEN_VARS:
+        if env.get(var_name):
+            client_id = env.get("GSC_OAUTH_CLIENT_ID")
+            client_secret = env.get("GSC_OAUTH_CLIENT_SECRET")
+            if not client_id or not client_secret:
+                raise GscError(f"{var_name} is set but GSC_OAUTH_CLIENT_ID or GSC_OAUTH_CLIENT_SECRET is missing")
+            print(f"🔐 Authenticating with Google Search Console API via {var_name}...")
+            return refresh_access_token(client_id, client_secret, env[var_name], var_name, urlopen)
+
+    sa = load_service_account(env, sa_path)
+    if sa:
+        print("🔐 Authenticating with Google Search Console API via Service Account...")
+        return get_access_token_jwt(sa, scope, urlopen)
+
+    raise GscError(
+        "No credentials: set GSC_OAUTH_REFRESH_TOKEN_TULIS (or GSC_OAUTH_REFRESH_TOKEN) with "
+        "GSC_OAUTH_CLIENT_ID and GSC_OAUTH_CLIENT_SECRET, or a service account"
+    )
+
+
+def query_search_analytics(token: str, site_url: str, dimensions: list, urlopen, row_limit: int = 500):
     url = f"https://www.googleapis.com/webmasters/v3/sites/{urllib.parse.quote(site_url, safe='')}/searchAnalytics/query"
-    
+
     end_date = time.strftime('%Y-%m-%d')
     start_date = time.strftime('%Y-%m-%d', time.localtime(time.time() - 90 * 86400))
 
@@ -83,39 +177,31 @@ def query_search_analytics(token: str, site_url: str, dimensions: list, row_limi
         },
         method="POST"
     )
+    return http_json(req, urlopen, f"Search analytics query for dimensions {dimensions}").get("rows", [])
 
+
+def main(env=None, urlopen=urllib.request.urlopen, sa_path=None, report_path=DEFAULT_REPORT_PATH) -> int:
+    if env is None:
+        env = dict(os.environ)
+    if sa_path is None:
+        sa_path = os.path.join(REPO_ROOT, "service-account.json")
     try:
-        with urllib.request.urlopen(req) as resp:
-            return json.loads(resp.read().decode('utf-8')).get("rows", [])
-    except Exception as e:
-        print(f"Error querying search analytics for dimensions {dimensions}: {e}")
-        return []
+        token = get_access_token(env, urlopen, SCOPE, sa_path)
+        site_url = env.get("GSC_SITE_URL") or DEFAULT_SITE_URL
+        write_report(token, site_url, urlopen, report_path)
+    except GscError as e:
+        print(f"ERROR: {e}", file=sys.stderr)
+        return 1
+    return 0
 
-def main():
-    sa_path = os.path.join(REPO_ROOT, "service-account.json")
-    sa = None
-    if os.environ.get("GSC_CLIENT_EMAIL") and os.environ.get("GSC_PRIVATE_KEY"):
-        sa = {
-            "client_email": os.environ["GSC_CLIENT_EMAIL"],
-            "private_key": os.environ["GSC_PRIVATE_KEY"].replace("\\n", "\n")
-        }
-    elif os.path.exists(sa_path):
-        with open(sa_path, 'r', encoding='utf-8') as f:
-            sa = json.load(f)
-    else:
-        print(f"Service account credentials not found in env or at: {sa_path}")
-        return
 
-    print("🔐 Authenticating with Google Search Console API...")
-    token = get_access_token_jwt(sa, "https://www.googleapis.com/auth/webmasters.readonly")
-    site_url = "sc-domain:dawnbook.belajarcarabelajar.com"
-
+def write_report(token: str, site_url: str, urlopen, report_path: str):
     print("📊 Mining GSC Search Analytics Data (Last 90 Days)...")
 
     # 1. Query & Page breakdown
-    query_page_rows = query_search_analytics(token, site_url, ["query", "page"], row_limit=500)
+    query_page_rows = query_search_analytics(token, site_url, ["query", "page"], urlopen, row_limit=500)
     # 2. Page breakdown
-    page_rows = query_search_analytics(token, site_url, ["page"], row_limit=200)
+    page_rows = query_search_analytics(token, site_url, ["page"], urlopen, row_limit=200)
 
     # Analysis 1: Striking Distance Keywords (Position 4.0 to 20.0)
     striking_distance = []
@@ -202,7 +288,6 @@ def main():
     report_md += f"2. **CTR Optimization**: Rewrite `<meta name=\"description\">` in `book.toml` for low-CTR pages to include clear action benefits.\n"
     report_md += f"3. **Internal Link Juicing**: Link from high-impression chapters to newly published chapters.\n"
 
-    report_path = os.path.join(REPO_ROOT, "docs", "GSC_SEO_OPPORTUNITIES_REPORT.md")
     os.makedirs(os.path.dirname(report_path), exist_ok=True)
     with open(report_path, "w", encoding="utf-8") as f:
         f.write(report_md)
@@ -210,4 +295,4 @@ def main():
     print(f"Report saved to {report_path}")
 
 if __name__ == "__main__":
-    main()
+    sys.exit(main())

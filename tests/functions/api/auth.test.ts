@@ -58,12 +58,12 @@ describe("/api/auth/login", () => {
   test("stores redirect_url in oauth_redirect cookie when provided (safe path)", async () => {
     const env = createMockEnv(ENV_OVERRIDES) as unknown as Env;
     setEnvHandlers(env);
-    const req = new Request("https://example.com/api/auth/login?redirect_url=/appreciation.html");
+    const req = new Request("https://example.com/api/auth/login?redirect_url=/appreciation");
     const res = await loginHandler({ request: req, env } as any);
     const cookies = res.headers.get("Set-Cookie")!;
     expect(cookies).toContain("__Host-oauth_redirect=");
     // URL-encoded "/" is %2F
-    expect(cookies).toContain("%2Fappreciation.html");
+    expect(cookies).toContain("%2Fappreciation");
   });
 
   test("drops open-redirect attempt with //evil.com", async () => {
@@ -83,7 +83,7 @@ describe("/api/auth/login", () => {
     try {
       const env = createMockEnv({ ...ENV_OVERRIDES, TURNSTILE_SECRET: "mock_secret", TURNSTILE_SITE_KEY: "mock_site_key" }) as unknown as Env;
       setEnvHandlers(env);
-      const req = new Request("https://example.com/api/auth/login?cf-turnstile-response=bad_token&redirect_url=/appreciation.html", {
+      const req = new Request("https://example.com/api/auth/login?cf-turnstile-response=bad_token&redirect_url=/appreciation", {
         headers: { "CF-Connecting-IP": "1.2.3.4" },
       });
       const res = await loginHandler({ request: req, env } as any);
@@ -91,7 +91,7 @@ describe("/api/auth/login", () => {
       expect(res.status).toBe(302);
       const loc = res.headers.get("Location")!;
       expect(loc).toContain("/sign-in?error=bot_detected");
-      expect(loc).toContain("redirect_url=%2Fappreciation.html");
+      expect(loc).toContain("redirect_url=%2Fappreciation");
     } finally {
       global.fetch = originalFetch;
     }
@@ -203,7 +203,7 @@ describe("/api/auth/callback", () => {
     const url = `${baseUrl}?code=valid_code&state=${STATE_HEX}`;
     const req = new Request(url, {
       headers: {
-        Cookie: `__Host-oauth_state=${STATE_HEX}; __Host-oauth_redirect=%2Fappreciation.html`,
+        Cookie: `__Host-oauth_state=${STATE_HEX}; __Host-oauth_redirect=%2Fappreciation`,
         "CF-Connecting-IP": "203.0.113.1",
         "User-Agent": "bun-test",
       },
@@ -217,7 +217,7 @@ describe("/api/auth/callback", () => {
     expect(setCookie).toContain("Path=/");
     expect(setCookie).toContain("__Host-oauth_state=;"); // cleared
     expect(setCookie).toContain("__Host-oauth_redirect=;"); // cleared
-    expect(res.headers.get("Location")).toContain("/appreciation.html");
+    expect(res.headers.get("Location")).toContain("/appreciation");
   });
 
   test("falls back to / when redirect_url cookie missing or invalid", async () => {
