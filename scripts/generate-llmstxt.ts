@@ -28,9 +28,9 @@ export function buildLlmsTxt(manifestData: LlmsManifest): string {
 
     llmsTxt += `### [${title}](${baseUrl}/books/${bookSlug}/)\n`;
 
-    const allChapters = manifestData.chapters[bookSlug] || [];
-    // A premium book lists only its free first chapter; the rest are paid.
-    const chapters = premium.has(bookSlug) ? allChapters.slice(0, 1) : allChapters;
+    // Chapter 1 is left out because its canonical is the book root (GEMINI.md
+    // section 31), and a premium book's later chapters are paid.
+    const chapters = premium.has(bookSlug) ? [] : (manifestData.chapters[bookSlug] || []).slice(1);
     for (const chapterPath of chapters) {
       const chapterFileName = chapterPath.split("/").pop() || "";
       const cleanName = decodeURIComponent(chapterFileName)
@@ -40,7 +40,8 @@ export function buildLlmsTxt(manifestData: LlmsManifest): string {
         .map((w) => w.charAt(0).toUpperCase() + w.slice(1))
         .join(" ");
 
-      llmsTxt += `- [${cleanName}](${baseUrl}${chapterPath})\n`;
+      // Pages answers a .html URL with a 308, so link the extensionless form.
+      llmsTxt += `- [${cleanName}](${baseUrl}${chapterPath.replace(/\.html$/, "")})\n`;
     }
     llmsTxt += "\n";
   }

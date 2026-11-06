@@ -8,7 +8,7 @@
  *   "gated content"  = pages that require an authenticated D1 session
  *
  * Policy:
- *   - Hub pages (/, /about.html, /contribute.html) are always public.
+ *   - Hub pages (/, /about, /contribute) are always public.
  *   - Admin SPA (/admin/*) is always public at the edge (the admin UI gates it via /api/auth/me).
  *   - All static assets (CSS, JS, fonts, images, manifest, _redirects, _headers) are public,
  *     except a book's mdBook search index (/books/<slug>/searchindex*), which is gated.

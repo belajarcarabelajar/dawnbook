@@ -1,51 +1,47 @@
-import { expect, test, describe } from "bun:test";
+import { afterEach, describe, expect, test } from "bun:test";
+import { setPremiumRegistryForTest } from "../../functions/lib/premium";
+import { buildLlmsTxt } from "../../scripts/generate-llmstxt";
 
-function generateLlmsTxtContent(manifestData: { books: string[]; chapters: Record<string, string[]> }, baseUrl: string): string {
-  let llmsTxt = `# Dawnbook - Platform Buku Edukasi Open Source\n\n> Dawnbook adalah platform open-source untuk kolaborasi dan publikasi buku edukasi berbasis Markdown dan mdBook. Semua konten buku dirancang untuk pembelajaran multidisiplin, sains, filsafat, teknologi, dan pengembangan diri.\n\n## Daftar Buku & Modul Pembelajaran\n\n`;
+const BASE = "https://dawnbook.belajarcarabelajar.com";
 
-  for (const bookSlug of manifestData.books) {
-    const title = bookSlug
-      .split("-")
-      .map((w) => w.charAt(0).toUpperCase() + w.slice(1))
-      .join(" ");
+afterEach(() => {
+  setPremiumRegistryForTest(null);
+});
 
-    llmsTxt += `### [${title}](${baseUrl}/books/${bookSlug}/)\n`;
+describe("buildLlmsTxt (scripts/generate-llmstxt.ts)", () => {
+  const manifest = {
+    books: ["sistem-modul-rust"],
+    chapters: {
+      "sistem-modul-rust": [
+        "/books/sistem-modul-rust/content/01_pengantar-modul.html",
+        "/books/sistem-modul-rust/content/02_penjelasan-modul.html",
+        "/books/sistem-modul-rust/content/03_visibilitas-item.html",
+      ],
+    },
+  };
 
-    const chapters = manifestData.chapters[bookSlug] || [];
-    for (const chapterPath of chapters) {
-      const chapterFileName = chapterPath.split("/").pop() || "";
-      const cleanName = decodeURIComponent(chapterFileName)
-        .replace(/\.html$/, "")
-        .replace(/^[0-9]+[_\s-]+/, "")
-        .split("-")
-        .map((w) => w.charAt(0).toUpperCase() + w.slice(1))
-        .join(" ");
-
-      llmsTxt += `- [${cleanName}](${baseUrl}${chapterPath})\n`;
-    }
-    llmsTxt += "\n";
-  }
-
-  return llmsTxt.trim() + "\n";
-}
-
-describe("LLMs.txt Generator Logic", () => {
-  test("formats manifest data into valid markdown with correct title casing and chapter URLs", () => {
-    const mockManifest = {
-      books: ["sistem-modul-rust"],
-      chapters: {
-        "sistem-modul-rust": [
-          "/books/sistem-modul-rust/index.html",
-          "/books/sistem-modul-rust/01-penjelasan-modul.html",
-        ],
-      },
-    };
-
-    const result = generateLlmsTxtContent(mockManifest, "https://dawnbook.belajarcarabelajar.com");
+  test("formats the header and the book root heading with title casing", () => {
+    setPremiumRegistryForTest({});
+    const result = buildLlmsTxt(manifest);
 
     expect(result).toContain("# Dawnbook - Platform Buku Edukasi Open Source");
-    expect(result).toContain("### [Sistem Modul Rust](https://dawnbook.belajarcarabelajar.com/books/sistem-modul-rust/)");
-    expect(result).toContain("- [Index](https://dawnbook.belajarcarabelajar.com/books/sistem-modul-rust/index.html)");
-    expect(result).toContain("- [Penjelasan Modul](https://dawnbook.belajarcarabelajar.com/books/sistem-modul-rust/01-penjelasan-modul.html)");
+    expect(result).toContain(`### [Sistem Modul Rust](${BASE}/books/sistem-modul-rust/)`);
+  });
+
+  test("leaves chapter 1 of a free book out, because its canonical is the book root", () => {
+    setPremiumRegistryForTest({});
+    const result = buildLlmsTxt(manifest);
+
+    expect(result).not.toContain("01_pengantar-modul");
+    expect(result).not.toContain("Pengantar Modul");
+  });
+
+  test("lists chapters 2 onward of a free book without .html", () => {
+    setPremiumRegistryForTest({});
+    const result = buildLlmsTxt(manifest);
+
+    expect(result).toContain(`- [Penjelasan Modul](${BASE}/books/sistem-modul-rust/content/02_penjelasan-modul)\n`);
+    expect(result).toContain(`- [Visibilitas Item](${BASE}/books/sistem-modul-rust/content/03_visibilitas-item)\n`);
+    expect(result).not.toContain(".html");
   });
 });

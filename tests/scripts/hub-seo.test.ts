@@ -99,6 +99,20 @@ describe("hub robots noindex", () => {
   });
 });
 
+describe("hub pages declare Indonesian", () => {
+  const htmlLang = (page: string) => [...page.matchAll(/<html\b[^>]*\blang="([^"]*)"/g)].map((m) => m[1]);
+  for (const name of ALL) {
+    test(`${name} has <html lang="id">`, () => {
+      expect(htmlLang(pages[name])).toEqual(["id"]);
+    });
+  }
+  for (const rel of ["public/offline.html", "scripts/public/offline.html", "public/404.html"]) {
+    test(`${rel} has <html lang="id">`, () => {
+      expect(htmlLang(readFileSync(join(ROOT, rel), "utf8"))).toEqual(["id"]);
+    });
+  }
+});
+
 describe("hub meta descriptions", () => {
   test("the home keeps its existing description", () => {
     expect(description(pages["index.html"])).toBe(

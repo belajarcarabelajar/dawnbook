@@ -10,7 +10,50 @@ export function base64url(str: string | Buffer): string {
     .replace(/\//g, "_");
 }
 
-export async function getAccessToken(sa: any): Promise<string> {
+/**
+ * Inspects every sitemap URL with the Search Console URL Inspection API and writes
+ * docs/FULL_GSC_INDEXING_REPORT.md plus docs/full_gsc_indexing_data.json.
+ *
+ * Credentials, first match wins:
+ *   1. GSC_OAUTH_REFRESH_TOKEN_TULIS with GSC_OAUTH_CLIENT_ID and GSC_OAUTH_CLIENT_SECRET.
+ *   2. GSC_OAUTH_REFRESH_TOKEN with the same client id and secret.
+ *   3. Service account (GSC_CLIENT_EMAIL + GSC_PRIVATE_KEY, or service-account.json).
+ * Exits 1 when the token exchange fails or any inspection fails. Never prints a token value.
+ */
+
+const TOKEN_URL = "https://oauth2.googleapis.com/token";
+const REFRESH_TOKEN_VARS = [
+  "GSC_OAUTH_REFRESH_TOKEN_TULIS",
+  "GSC_OAUTH_REFRESH_TOKEN",
+] as const;
+const DEFAULT_SITE_URL = "sc-domain:dawnbook.belajarcarabelajar.com";
+
+type Env = Record<string, string | undefined>;
+
+// Google error bodies carry a code and message, never the credential that was sent.
+function describeError(data: any): string {
+  if (!data || typeof data !== "object") return "";
+  if (typeof data.error === "string") {
+    return [data.error, data.error_description].filter(Boolean).join(" ");
+  }
+  if (data.error && typeof data.error === "object") {
+    return [data.error.status, data.error.message].filter(Boolean).join(" ");
+  }
+  return "";
+}
+
+async function readJson(res: Response): Promise<any> {
+  try {
+    return await res.json();
+  } catch {
+    return {};
+  }
+}
+
+export async function getAccessToken(
+  sa: any,
+  fetchFn: typeof fetch = globalThis.fetch,
+): Promise<string> {
   const header = { alg: "RS256", typ: "JWT" };
   const now = Math.floor(Date.now() / 1000);
   const claimSet = {
@@ -35,7 +78,7 @@ export async function getAccessToken(sa: any): Promise<string> {
 
   const jwt = `${signInput}.${signature}`;
 
-  const res = await fetch("https://oauth2.googleapis.com/token", {
+  const res = await fetchFn(TOKEN_URL, {
     method: "POST",
     headers: { "Content-Type": "application/x-www-form-urlencoded" },
     body: new URLSearchParams({
@@ -44,7 +87,12 @@ export async function getAccessToken(sa: any): Promise<string> {
     }),
   });
 
-  const data = await res.json();
+  const data = await readJson(res);
+  if (!res.ok || !data.access_token) {
+    throw new Error(
+      `Service account token exchange failed: HTTP ${res.status} ${describeError(data)}`.trim(),
+    );
+  }
   return data.access_token;
 }
 
@@ -52,8 +100,10 @@ export async function getAccessTokenFromRefreshToken(
   clientId: string,
   clientSecret: string,
   refreshToken: string,
+  label = "refresh token",
+  fetchFn: typeof fetch = globalThis.fetch,
 ): Promise<string> {
-  const res = await fetch("https://oauth2.googleapis.com/token", {
+  const res = await fetchFn(TOKEN_URL, {
     method: "POST",
     headers: { "Content-Type": "application/x-www-form-urlencoded" },
     body: new URLSearchParams({
@@ -63,11 +113,58 @@ export async function getAccessTokenFromRefreshToken(
       grant_type: "refresh_token",
     }),
   });
-  const data = await res.json();
-  if (data.access_token) {
+  const data = await readJson(res);
+  if (res.ok && data.access_token) {
     return data.access_token;
   }
-  throw new Error(`Failed to refresh OAuth token: ${JSON.stringify(data)}`);
+  throw new Error(
+    `Failed to refresh OAuth token: ${label}: HTTP ${res.status} ${describeError(data)}`.trim(),
+  );
+}
+
+export interface TokenSource {
+  label: string;
+  token: string;
+  refresh: () => Promise<string>;
+}
+
+export async function resolveAccessToken(
+  env: Env,
+  fetchFn: typeof fetch = globalThis.fetch,
+  saPath = "service-account.json",
+): Promise<TokenSource> {
+  const varName = REFRESH_TOKEN_VARS.find((name) => env[name]);
+  if (varName) {
+    const clientId = env.GSC_OAUTH_CLIENT_ID;
+    const clientSecret = env.GSC_OAUTH_CLIENT_SECRET;
+    if (!clientId || !clientSecret) {
+      throw new Error(
+        `${varName} is set but GSC_OAUTH_CLIENT_ID or GSC_OAUTH_CLIENT_SECRET is missing`,
+      );
+    }
+    const refreshToken = env[varName] as string;
+    const refresh = () =>
+      getAccessTokenFromRefreshToken(clientId, clientSecret, refreshToken, varName, fetchFn);
+    return { label: varName, token: await refresh(), refresh };
+  }
+
+  let sa: any = null;
+  if (env.GSC_CLIENT_EMAIL && env.GSC_PRIVATE_KEY) {
+    sa = {
+      client_email: env.GSC_CLIENT_EMAIL,
+      private_key: env.GSC_PRIVATE_KEY.replace(/\\n/g, "\n"),
+    };
+  } else if (fs.existsSync(saPath)) {
+    sa = JSON.parse(await fs.promises.readFile(saPath, "utf8"));
+  }
+  if (sa) {
+    const refresh = () => getAccessToken(sa, fetchFn);
+    return { label: "service account", token: await refresh(), refresh };
+  }
+
+  throw new Error(
+    "No credentials: set GSC_OAUTH_REFRESH_TOKEN_TULIS (or GSC_OAUTH_REFRESH_TOKEN) with GSC_OAUTH_CLIENT_ID and GSC_OAUTH_CLIENT_SECRET, or a service account",
+  );
 }
 
 export interface InspectionResult {
@@ -84,9 +181,10 @@ export async function inspectUrl(
   token: string,
   inspectionUrl: string,
   siteUrl: string,
+  fetchFn: typeof fetch = globalThis.fetch,
 ): Promise<InspectionResult> {
   try {
-    const res = await fetch(
+    const res = await fetchFn(
       "https://searchconsole.googleapis.com/v1/urlInspection/index:inspect",
       {
         method: "POST",
@@ -101,7 +199,15 @@ export async function inspectUrl(
       },
     );
 
-    const data = await res.json();
+    const data = await readJson(res);
+    if (!res.ok) {
+      return {
+        url: inspectionUrl,
+        verdict: "ERROR",
+        coverageState: data.error?.message || `HTTP ${res.status}`,
+        indexingState: "ERROR",
+      };
+    }
     if (data.inspectionResult && data.inspectionResult.indexStatusResult) {
       const st = data.inspectionResult.indexStatusResult;
       return {
@@ -129,15 +235,27 @@ export async function inspectUrl(
   }
 }
 
-export async function main() {
+export interface MainOptions {
+  env?: Env;
+  fetchFn?: typeof fetch;
+  sitemapPath?: string;
+  reportDir?: string;
+  saPath?: string;
+  delayMs?: number;
+}
+
+export async function main(opts: MainOptions = {}): Promise<number> {
+  const env = opts.env ?? process.env;
+  const fetchFn = opts.fetchFn ?? globalThis.fetch;
+  const sitemapPath = opts.sitemapPath ?? "output/sitemap.xml";
+  const reportDir = opts.reportDir ?? "docs";
+  const DELAY_MS = opts.delayMs ?? 200;
+
   console.log("🔍 Starting Full Site-Wide GSC Indexing Audit for Dawnbook...");
 
-  const sitemapPath = "output/sitemap.xml";
-  try {
-    await fs.promises.access(sitemapPath);
-  } catch {
+  if (!fs.existsSync(sitemapPath)) {
     console.error("sitemap.xml not found at", sitemapPath);
-    process.exit(1);
+    return 1;
   }
 
   const sitemapContent = await fs.promises.readFile(sitemapPath, "utf8");
@@ -149,74 +267,39 @@ export async function main() {
 
   console.log(`Found ${urls.length} URLs in sitemap.xml.`);
 
-  const saPath = "service-account.json";
-  let token = process.env.GOOGLE_SEARCH_CONSOLE_TOKEN || "";
-  let sa: any = null;
-
-  let saFileExists = false;
+  let source: TokenSource;
   try {
-    await fs.promises.access(saPath);
-    saFileExists = true;
-  } catch {}
-
-  if (process.env.GSC_CLIENT_EMAIL && process.env.GSC_PRIVATE_KEY) {
-    sa = {
-      client_email: process.env.GSC_CLIENT_EMAIL,
-      private_key: process.env.GSC_PRIVATE_KEY.replace(/\\n/g, "\n"),
-    };
-    token = await getAccessToken(sa);
-  } else if (saFileExists) {
-    sa = JSON.parse(await fs.promises.readFile(saPath, "utf8"));
-    token = await getAccessToken(sa);
-  } else if (
-    process.env.GSC_REFRESH_TOKEN &&
-    process.env.GSC_CLIENT_ID &&
-    process.env.GSC_CLIENT_SECRET
-  ) {
-    try {
-      console.log("🔑 Exchanging OAuth refresh token for access token...");
-      token = await getAccessTokenFromRefreshToken(
-        process.env.GSC_CLIENT_ID,
-        process.env.GSC_CLIENT_SECRET,
-        process.env.GSC_REFRESH_TOKEN,
-      );
-      console.log("✅ Successfully obtained OAuth 2.0 Access Token!");
-    } catch (e: any) {
-      console.warn("Could not exchange refresh token:", e.message);
-      if (!token) {
-        token =
-          process.env.GOOGLE_SEARCH_CONSOLE_API_KEY ||
-          process.env.GSC_API_KEY ||
-          process.env.SEARCH_CONSOLE_API_KEY ||
-          "";
-      }
-    }
+    source = await resolveAccessToken(env, fetchFn, opts.saPath);
+  } catch (err: any) {
+    console.error("Could not get a Search Console access token:", err.message);
+    return 1;
   }
-  const siteUrl = "sc-domain:dawnbook.belajarcarabelajar.com";
+  console.log(`🔑 Authenticated via ${source.label}.`);
+  let token = source.token;
+  const siteUrl = env.GSC_SITE_URL || DEFAULT_SITE_URL;
 
   const results: InspectionResult[] = [];
   const BATCH_SIZE = 5;
-  const DELAY_MS = 200;
 
   let tokenRefreshedAt = Date.now();
 
   for (let i = 0; i < urls.length; i += BATCH_SIZE) {
-    // Refresh token every 45 mins
-    if (sa && Date.now() - tokenRefreshedAt > 45 * 60 * 1000) {
+    // Access tokens live one hour.
+    if (Date.now() - tokenRefreshedAt > 45 * 60 * 1000) {
       console.log("Refreshing GSC access token...");
-      token = await getAccessToken(sa);
+      token = await source.refresh();
       tokenRefreshedAt = Date.now();
     }
 
     const batch = urls.slice(i, i + BATCH_SIZE);
-    const promises = batch.map((url) => inspectUrl(token, url, siteUrl));
+    const promises = batch.map((url) => inspectUrl(token, url, siteUrl, fetchFn));
     const batchResults = await Promise.all(promises);
     results.push(...batchResults);
 
     process.stdout.write(
       `\rInspected ${Math.min(i + BATCH_SIZE, urls.length)} / ${urls.length} URLs...`,
     );
-    await new Promise((r) => setTimeout(r, DELAY_MS));
+    if (DELAY_MS > 0) await new Promise((r) => setTimeout(r, DELAY_MS));
   }
 
   console.log("\n\n✅ Inspection Complete! Aggregating Results...");
@@ -325,24 +408,36 @@ export async function main() {
     reportMd += `| \`${slug}\` | ${st.total} | ${st.indexed} | ${st.crawledNotIndexed} | ${st.discoveredNotIndexed} | ${st.redirect} | ${st.other} |\n`;
   }
 
-  const reportPath = "docs/FULL_GSC_INDEXING_REPORT.md";
+  const reportPath = path.join(reportDir, "FULL_GSC_INDEXING_REPORT.md");
   await fs.promises.mkdir(path.dirname(reportPath), { recursive: true });
   await fs.promises.writeFile(reportPath, reportMd, "utf8");
   console.log(`\nFull report written to ${reportPath}`);
 
   // Save JSON raw results
-  const jsonPath = "docs/full_gsc_indexing_data.json";
+  const jsonPath = path.join(reportDir, "full_gsc_indexing_data.json");
   await fs.promises.writeFile(
     jsonPath,
     JSON.stringify(results, null, 2),
     "utf8",
   );
   console.log(`Raw inspection data saved to ${jsonPath}`);
+
+  const failed = results.filter((r) => r.verdict === "ERROR");
+  if (failed.length > 0) {
+    console.error(
+      `${failed.length} of ${results.length} inspections failed (first: ${failed[0].url}: ${failed[0].coverageState}).`,
+    );
+    return 1;
+  }
+  return 0;
 }
 
 if (import.meta.main) {
-  main().catch((err) => {
-    console.error("Error running full GSC audit:", err);
-    process.exit(1);
-  });
+  main().then(
+    (code) => process.exit(code),
+    (err) => {
+      console.error("Error running full GSC audit:", err?.message ?? err);
+      process.exit(1);
+    },
+  );
 }

@@ -55,6 +55,19 @@ export function sitemapCoverageError(
   return null;
 }
 
+/**
+ * R2 hreflang rule for one built book page. The text is Indonesian only, so a page
+ * carries `hreflang="id"` and `hreflang="x-default"` and never `hreflang="en"`,
+ * which would tell Google an English version exists. Returns an error or null.
+ */
+export function hreflangError(content: string): string | null {
+  const problems: string[] = [];
+  if (content.includes('hreflang="en"')) problems.push('has hreflang="en"');
+  if (!content.includes('hreflang="id"')) problems.push('missing hreflang="id"');
+  if (!content.includes('hreflang="x-default"')) problems.push('missing hreflang="x-default"');
+  return problems.length ? problems.join(", ") : null;
+}
+
 async function checkSeo() {
   const rootDir = process.cwd();
   const outputDir = join(rootDir, "output");
@@ -156,13 +169,9 @@ async function checkSeo() {
             );
             hasErrors = true;
           }
-          if (
-            !content.includes('hreflang="en"') ||
-            !content.includes('hreflang="id"')
-          ) {
-            console.error(
-              `❌ [FAIL] ${relativePath} missing hreflang tags. (R2)`,
-            );
+          const hreflangProblem = hreflangError(content);
+          if (hreflangProblem) {
+            console.error(`❌ [FAIL] ${relativePath} ${hreflangProblem}. (R2)`);
             hasErrors = true;
           }
 

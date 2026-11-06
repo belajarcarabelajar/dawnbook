@@ -104,7 +104,7 @@ export async function generateSitePages(
     page: HubPageMeta,
     isHome: boolean = false,
   ) => `<!DOCTYPE html>
-<html lang="en">
+<html lang="id">
 <head>
 ${gaTag}    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">

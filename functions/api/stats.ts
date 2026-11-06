@@ -3,7 +3,7 @@
  *
  * Cloudflare Pages Function — GET /api/stats
  *
- * Public, cacheable (5 min) aggregator that powers the /statistics.html page.
+ * Public, cacheable (5 min) aggregator that powers the /statistics page.
  * Most fields come from D1 (books, users). Total chapters and contributors
  * are baked at build time via scripts/builder/stats-aggregator.ts → built-stats.ts.
  *

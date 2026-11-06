@@ -4,8 +4,8 @@ import { existsSync, readdirSync, readFileSync } from "node:fs";
 import { basename, join, resolve } from "node:path";
 import { premiumSlugs } from "../functions/lib/premium";
 
-// Same rule as the free-chapter test in functions/lib/premium.ts; sitemap and
-// llms.txt list manifest.chapters[slug][0] as free, so the two must agree.
+// Same rule as the free-chapter test in functions/lib/premium.ts; the manifest's
+// first chapter (manifest.chapters[slug][0]) is the public preview, so the two must agree.
 const FREE_CHAPTER = /^(?:01|chapter_1)(?!\d)/;
 
 function readManifestChapters(outputDir: string): Record<string, string[]> | null {
