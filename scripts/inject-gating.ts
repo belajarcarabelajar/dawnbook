@@ -195,7 +195,7 @@ export function normalizeInternalLinks(html: string): string {
       if (fileName === "print" || fileName === "404" || fileName === "toc") {
         return match;
       }
-      if (path.endsWith("index")) {
+      if (path === "index" || path.endsWith("/index")) {
         const prefix = path.slice(0, -"index".length);
         return `href="${prefix || "./"}${hash || ""}"`;
       }
