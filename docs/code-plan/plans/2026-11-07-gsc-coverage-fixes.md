@@ -286,7 +286,7 @@ Raw probe data stays outside the repo in `~/.cache/tmp/dawnbook-gsc-coverage-202
 - [x] T6 done: GEMINI.md section 31 plus the section 30 sentence; names checked against the code (`gitLastmods`, `canonicalUrl`, `normalizeTocLinks`, `dawnbook-free-chapter` all found); `check-copy-rules.mjs --diff origin/main` exit 0, merge base `f4bfae70` = origin/main.
 - [x] T7 done: `colab-test -- bun run typecheck` exit 0. `colab-test -- bun test` exit 1: 1759 pass, 1 fail, the only failure `test_gsc_batch_indexing_ping.py` (ImportError `tests.scripts` under Colab's Python 3.13); same single failure on base `f4bfae70` (1683 pass, 1 fail), and the same Python test passes locally on this branch (exit 0, 6 tests), so it is a pre-existing Colab environment failure. NVMe build `bun run build` exit 0 (64 toc files normalized, sitemap 794 URLs, lastmod spread 2026-10-24..2026-11-05); `scripts/check-indexing-output.ts` on that output exit 0; build worktree removed. Runner log: T1-T5, T8 SKIPPED-IDEMPOTENT, T6 PASSED, T7 FAILED-ISOLATED at step 2 (the environment failure above), steps 3-7 then run by the parent.
 - [x] Independent diff review done (read-only reviewer, 34 targeted tests exit 0): no high or medium finding; finding 5 (checker decode throws) fixed in `d92399ea`; findings 1-4 (checker not wired into the build, shallow-clone lastmod, latent `index` suffix rule, llms.txt still lists chapter 1) carried to the debt sweep.
-- [ ] PR opened with `Refs #<issue>`, plan synced.
+- [x] PR #269 opened (`pr-registry open` exit 0, body `Refs #268`), plan synced.
 - [ ] Debt sweep run, follow-ups decided, plan closed.
 
 ## Batch Manifest
