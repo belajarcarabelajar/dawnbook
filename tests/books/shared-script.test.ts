@@ -223,4 +223,38 @@ describe("Shared Script Client-Side Logic Execution", () => {
 
     expect(mockWin.location.replace).toHaveBeenCalledWith("/books/my-book/content/02_chapter.html?redirected=true");
   });
+
+  async function runProgressBar(sidebarPaths: string[], completedPaths: string[]) {
+    const { mockWin, mockDoc, createdElements } = setupMockWindow("/books/b/index.html");
+    const links = sidebarPaths.map((pathname) => ({ pathname }));
+    mockDoc.querySelectorAll = mock((selector: string) => (selector === ".sidebar a" ? links : [])) as any;
+    global.fetch = mock(async () => new Response(JSON.stringify({ completed_paths: [] }))) as unknown as typeof fetch;
+
+    Function(scriptContent)();
+    const onReady = mockDoc.addEventListener.mock.calls.find((c: any[]) => c[0] === "DOMContentLoaded")?.[1] as
+      | (() => void)
+      | undefined;
+    expect(typeof onReady).toBe("function");
+    onReady!();
+    await new Promise((r) => setTimeout(r, 10));
+
+    mockWin.updateBookProgress(completedPaths);
+    return createdElements.find((el) => el.id === "book-progress-bar");
+  }
+
+  test("book progress reaches 100% when sidebar links are extensionless and completed paths end in .html", async () => {
+    const bar = await runProgressBar(
+      ["/books/b/content/01_a", "/books/b/content/02_b"],
+      ["/books/b/content/01_a.html", "/books/b/content/02_b.html"],
+    );
+    expect(bar.style.width).toBe("100%");
+  });
+
+  test("book progress reaches 100% when sidebar links end in .html and completed paths are extensionless", async () => {
+    const bar = await runProgressBar(
+      ["/books/b/content/01_a.html", "/books/b/content/02_b.html"],
+      ["/books/b/content/01_a", "/books/b/content/02_b"],
+    );
+    expect(bar.style.width).toBe("100%");
+  });
 });

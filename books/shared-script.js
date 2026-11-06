@@ -299,6 +299,7 @@ document.addEventListener('DOMContentLoaded', function() {
         if (!p) return '';
         p = p.split('#')[0].split('?')[0];
         if (p.endsWith('/')) p += 'index.html';
+        if (!p.endsWith('.html') && p.includes('/content/')) p += '.html';
         return p;
     }
 

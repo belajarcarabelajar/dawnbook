@@ -10,6 +10,7 @@ import { checkCovers, COVER_FILE } from "./check-covers";
 import { runVoiceGate } from "./check-voice";
 import { runStructureGate } from "./check-book-structure";
 import { renderOgCards } from "./render-og-cards";
+import { normalizeTocLinks } from "./builder/normalize-toc-links";
 import { syncPremiumBooksForRepo } from "./premium-sync";
 import { PREMIUM_MEDIA_DIR, stagePremiumMedia } from "./premium/move-media";
 import { premiumSlugs } from "../functions/lib/premium";
@@ -85,6 +86,16 @@ async function build() {
 
   console.log("Applying anti-FOUC script to gated books...");
   await $`bun run scripts/inject-gating.ts`;
+
+  console.log("Normalizing sidebar links in toc JS...");
+  const toc = await normalizeTocLinks(outputBooksDir);
+  console.log(`  → ${toc.files} toc files, ${toc.changed} changed`);
+  if (builtBooks.length > 0 && toc.files === 0) {
+    console.error(
+      "No toc-*.js file found under output/books although books were built: the mdBook sidebar layout changed, so its .html links would not be normalized.",
+    );
+    process.exit(1);
+  }
 
   console.log("Generating security headers...");
   await buildHeaders(outputDir);
