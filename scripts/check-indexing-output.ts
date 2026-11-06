@@ -25,7 +25,12 @@ function canonicals(html: string): string[] {
 }
 
 function resolvesToFile(outputDir: string, href: string): boolean {
-  const path = decodeURIComponent(href.split(/[?#]/)[0]);
+  let path = href.split(/[?#]/)[0];
+  try {
+    path = decodeURIComponent(path);
+  } catch {
+    // A stray "%" stays raw; the existence check below then reports it.
+  }
   const target = join(outputDir, path);
   if (path.endsWith("/")) return existsSync(join(target, "index.html"));
   if (existsSync(target) && statSync(target).isFile()) return true;
