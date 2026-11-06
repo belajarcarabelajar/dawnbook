@@ -1,7 +1,7 @@
 ---
 schema: ultra-plan/v1
 plan_id: 2026-11-07-gsc-coverage-fixes
-status: InProgress
+status: Complete
 version: 1
 runner_contract: true
 defaults:
@@ -244,7 +244,7 @@ Raw probe data stays outside the repo in `~/.cache/tmp/dawnbook-gsc-coverage-202
 
 **Definition of Done:** AC-1..AC-7 checked with evidence; plan checklist ticked; PR opened with `Refs #<issue>`; debt sweep run.
 
-**Plan Status & Version:** InProgress (closeout kept open by the owner), version 1.
+**Plan Status & Version:** Complete, version 1.
 
 **Reproducibility:** Bun 1.4.4, mdBook from `~/.cargo/bin`, Colab pool through `colab-test`; build in `~/.cache/tmp/dawnbook-gsc-coverage-build` (NVMe).
 
@@ -530,12 +530,17 @@ Owner selection (question tool, 2026-11-07): all four follow-ups; plan stays ope
 - Owner answer to the `Close plan` gate: **Keep it open**.
 - Remaining: owner deploy of PR #269, then the Operations probes (unknown path 404, hub pages 200, sitemap resubmitted, Validate fix started, request indexing for the 28 first chapters).
 - Reopen the closeout question: when those probes pass after the deploy.
+- 2026-11-07, after the deploy: PR #269 merged (`45548e2f`); `scripts/deploy-website.sh` from `45548e2f` exit 0 (Pages deployment `7a137d55`, no new books announced, 3 store PDFs reprinted, R2 prune 0 deleted); post-deploy probes 18/18 PASS (unknown path and unknown book 404, 7 hub canonicals, sign-in noindex, chapter 1 200 with root canonical and `dawnbook-free-chapter` meta, sidebar toc JS without `.html` chapter links, sitemap 794 URLs without changefreq, priority or chapter 1, 9 distinct lastmod dates); sitemap resubmitted with the write-scope token (PUT 204, pending, 0 errors).
+- Readiness re-run on the closeout branch: `bun scripts/plan-closeout.mjs --readiness` **NEEDS-HUMAN** (exit 3; T6 and T7 UNPROVEN only by the `false` sentinel, both PASSED in the runner log; 0 open boxes).
+- Owner answer to the second `Close plan` gate, with that verdict in front of them: **Mark Complete**. Recorded as an owner decision on NEEDS-HUMAN; the skill's READY-only default yields to the owner's explicit answer.
+- Plan cost (`bun scripts/plan-cost.mjs --plan 2026-11-07-gsc-coverage-fixes`): 1 main transcript, 10 subagent runs, about 34.56 USD (estimate; caveats: sessions without a registry claim and other work in a claiming session are not separated).
+- Owner actions left in the Search Console UI (no API allows them): start "Validate fix" for Soft 404 and Duplicate without user-selected canonical; request indexing for the 31 book roots that were not indexed on 2026-11-07 (list `~/.cache/tmp/dawnbook-gsc-coverage-20261107/request-indexing-roots.txt`; the 28 first chapters now point to their roots, so requesting them is wasted). Google's Indexing API is limited to `JobPosting` and `BroadcastEvent` pages (Indexing API quickstart, fetched 2026-11-07).
 
 ## Follow-up Backlog
 - `llms.txt` still lists chapter 1 while its canonical is the book root (`scripts/generate-llmstxt.ts`). `defer: hint file only, owner wants llms.txt to match the sitemap`.
 - Stale `.html` path comments in `functions/lib/gating.ts:11`, `functions/api/stats.ts:6` and sample paths in `tests/functions/api/auth.test.ts`. `defer: comments and samples, next edit of those files`.
 
 - Google canonical `/sign-in` for the `metodologi-microteaching` root (crawled 2026-09-28): re-inspect after deploy. `defer: 1 URL, still /sign-in after the first recrawl`.
-- After deploy, request indexing for the 28 first chapters recorded as redirects (list in `~/.cache/tmp/dawnbook-gsc-coverage-20261107/all.jsonl`). `defer: 28 URLs, owner deploys T8`.
+- `scripts/gsc_batch_indexing_ping.py` sends book pages to the Indexing API (`indexing.googleapis.com`), which Google limits to `JobPosting` and `BroadcastEvent` pages and polices for abuse. `defer: one script, next post-deploy reindex run or an owner decision to retire it`.
 - Hub `lang="en"` and the identical `hreflang en`/`id` pair on book pages. `defer: language signals, owner decision on hub language`.
 - Repo scripts `audit-full-gsc-index.ts` and `gsc_*.py` use the expired read-only token or a service account. `defer: GSC tooling, next reindex run`.
