@@ -1,16 +1,72 @@
-import { readdir, readFile, writeFile, stat } from "node:fs/promises";
+import { readdir, readFile, writeFile } from "node:fs/promises";
 import { join, resolve } from "node:path";
 import { premiumSlugs } from "../functions/lib/premium";
 
 export interface SitemapItem {
   loc: string;
-  lastmod: string;
-  changefreq?: string;
-  priority?: string;
+  lastmod?: string;
 }
 
 export interface SitemapOptions {
   outputDir?: string;
+  /** Repo-relative path to YYYY-MM-DD of its newest commit; default gitLastmods(cwd). */
+  lastmods?: Map<string, string>;
+}
+
+const DATE_LINE = /^\d{4}-\d{2}-\d{2}$/;
+
+/**
+ * Date of the newest commit touching each file under books/, from one git log
+ * run. Google trusts <lastmod> only when it is verifiably accurate, and a
+ * build file's mtime is the deploy date for every page. Returns an empty map
+ * when git is missing or the directory is not a repository.
+ */
+export function gitLastmods(rootDir: string): Map<string, string> {
+  const map = new Map<string, string>();
+  let stdout: string;
+  try {
+    const result = Bun.spawnSync(
+      ["git", "-c", "core.quotePath=false", "log", "--format=%cs", "--name-only", "--", "books"],
+      { cwd: rootDir, stdout: "pipe", stderr: "ignore" },
+    );
+    if (result.exitCode !== 0) return map;
+    stdout = result.stdout.toString();
+  } catch {
+    return map;
+  }
+  let date = "";
+  for (const line of stdout.split("\n")) {
+    if (!line) continue;
+    if (DATE_LINE.test(line)) {
+      date = line;
+    } else if (date && !map.has(line)) {
+      // git log lists newest first, so the first date seen is the newest.
+      map.set(line, date);
+    }
+  }
+  return map;
+}
+
+function newestWithPrefix(lastmods: Map<string, string>, prefix: string): string | undefined {
+  let newest: string | undefined;
+  for (const [path, date] of lastmods) {
+    if (path.startsWith(prefix) && (!newest || date > newest)) newest = date;
+  }
+  return newest;
+}
+
+function pageLastmod(lastmods: Map<string, string>, relativePath: string): string | undefined {
+  let decoded = relativePath;
+  try {
+    decoded = decodeURIComponent(relativePath);
+  } catch {
+    // Keep the raw path when it holds a stray "%".
+  }
+  const chapter = /^\/books\/([^/]+)\/content\/(.+)\.html$/.exec(decoded);
+  if (chapter) return lastmods.get(`books/${chapter[1]}/src/content/${chapter[2]}.md`);
+  const root = /^\/books\/([^/]+)\/index\.html$/.exec(decoded);
+  if (root) return newestWithPrefix(lastmods, `books/${root[1]}/`);
+  return undefined;
 }
 
 /**
@@ -41,19 +97,19 @@ export async function generateSitemap(options: SitemapOptions = {}) {
   const rootDir = process.cwd();
   const outputDir = resolve(options.outputDir ?? join(rootDir, "output"));
   const premiumPages = await premiumListablePages(outputDir);
+  const lastmods = options.lastmods ?? gitLastmods(rootDir);
   const baseUrl = "https://dawnbook.belajarcarabelajar.com";
-  const todayIso = new Date().toISOString().split("T")[0];
 
   let entries: SitemapItem[] = [];
 
   // Add static public hub pages
-  entries.push({ loc: `${baseUrl}/`, lastmod: todayIso, changefreq: "daily", priority: "1.0" });
-  entries.push({ loc: `${baseUrl}/about`, lastmod: todayIso, changefreq: "monthly", priority: "0.7" });
-  entries.push({ loc: `${baseUrl}/contribute`, lastmod: todayIso, changefreq: "monthly", priority: "0.7" });
-  entries.push({ loc: `${baseUrl}/donate`, lastmod: todayIso, changefreq: "monthly", priority: "0.7" });
-  entries.push({ loc: `${baseUrl}/appreciation`, lastmod: todayIso, changefreq: "monthly", priority: "0.7" });
-  entries.push({ loc: `${baseUrl}/statistics`, lastmod: todayIso, changefreq: "weekly", priority: "0.7" });
-  entries.push({ loc: `${baseUrl}/dmca`, lastmod: todayIso, changefreq: "monthly", priority: "0.5" });
+  entries.push({ loc: `${baseUrl}/`, lastmod: newestWithPrefix(lastmods, "") });
+  entries.push({ loc: `${baseUrl}/about` });
+  entries.push({ loc: `${baseUrl}/contribute` });
+  entries.push({ loc: `${baseUrl}/donate` });
+  entries.push({ loc: `${baseUrl}/appreciation` });
+  entries.push({ loc: `${baseUrl}/statistics` });
+  entries.push({ loc: `${baseUrl}/dmca` });
 
   async function scanDirectory(dir: string) {
     const dirEntries = await readdir(dir, { withFileTypes: true });
@@ -79,29 +135,15 @@ export async function generateSitemap(options: SitemapOptions = {}) {
           if (allowed && !allowed.has(relativePath)) return;
 
           let cleanPath = relativePath;
-          let priority = "0.8";
           if (cleanPath.endsWith("/index.html")) {
             cleanPath = cleanPath.replace(/\/index\.html$/, "/");
-            priority = "0.9";
           } else if (cleanPath.endsWith(".html")) {
             cleanPath = cleanPath.replace(/\.html$/, "");
           }
 
-          let fileLastmod = todayIso;
-          try {
-            const fileStat = await stat(fullPath);
-            if (fileStat.mtime) {
-              fileLastmod = new Date(fileStat.mtime).toISOString().split("T")[0];
-            }
-          } catch {
-            // fallback to todayIso
-          }
-
           entries.push({
             loc: `${baseUrl}${cleanPath}`,
-            lastmod: fileLastmod,
-            changefreq: "weekly",
-            priority,
+            lastmod: pageLastmod(lastmods, relativePath),
           });
         }
       })
@@ -119,10 +161,7 @@ export async function generateSitemap(options: SitemapOptions = {}) {
 ${entries
   .map(
     (e) => `  <url>
-    <loc>${e.loc}</loc>
-    <lastmod>${e.lastmod}</lastmod>
-    <changefreq>${e.changefreq || "weekly"}</changefreq>
-    <priority>${e.priority || "0.8"}</priority>
+    <loc>${e.loc}</loc>${e.lastmod ? `\n    <lastmod>${e.lastmod}</lastmod>` : ""}
   </url>`,
   )
   .join("\n")}
