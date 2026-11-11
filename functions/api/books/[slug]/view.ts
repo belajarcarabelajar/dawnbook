@@ -7,7 +7,7 @@
 
 import type { D1Database } from "@cloudflare/workers-types";
 import type { PagesFunction } from "../../../lib/pages-function";
-import { checkRateLimit, enforceRateLimit } from "../../../lib/rate-limit";
+import { enforceRateLimit, RATE_LIMIT_UPSERT_SQL } from "../../../lib/rate-limit";
 
 const VIEW_DEDUPE_SECONDS = 86400;
 
@@ -59,25 +59,32 @@ export const onRequest: PagesFunction<Env> = async (context) => {
     return errorResponse("Invalid slug format", 400);
   }
 
-  // One counted view per IP per book per VIEW_DEDUPE_SECONDS.
-  const firstView = await checkRateLimit(env.DB, request, {
-    route: `books-view:${slug}`,
-    limit: 1,
-    windowSeconds: VIEW_DEDUPE_SECONDS,
-  });
-  if (!firstView.ok) {
-    return jsonResponse({ success: true, counted: false });
-  }
+  // One counted view per IP per book per VIEW_DEDUPE_SECONDS. The dedupe claim
+  // and the increment run in one D1 batch (a single transaction), so a failed
+  // increment rolls the claim back and the viewer's retry still counts. The
+  // UPDATE is guarded on the claim's count inside that transaction, so
+  // concurrent requests from one viewer increment at most once.
+  // The key must match what checkRateLimit wrote before this change, or live
+  // windows reset on deploy.
+  const ip = request.headers.get("CF-Connecting-IP");
+  const dedupeKey = `books-view:${slug}:ip:${ip ?? "unknown"}`;
+  const now = Math.floor(Date.now() / 1000);
 
   try {
-    const result = await env.DB.prepare(
-      "UPDATE books SET view_count = view_count + 1 WHERE slug = ?1",
-    )
-      .bind(slug)
-      .run();
+    const [claim, update] = await env.DB.batch<{ count: number }>([
+      env.DB.prepare(RATE_LIMIT_UPSERT_SQL).bind(dedupeKey, now, now + VIEW_DEDUPE_SECONDS),
+      env.DB.prepare(
+        "UPDATE books SET view_count = view_count + 1 WHERE slug = ?1 AND (SELECT count FROM rate_limits WHERE key = ?2) = 1",
+      ).bind(slug, dedupeKey),
+    ]);
 
-    if (!result.success) {
+    if (!claim?.success || !update?.success) {
       return errorResponse("Failed to update view count", 500);
+    }
+
+    const count = claim.results?.[0]?.count;
+    if (count !== undefined && count > 1) {
+      return jsonResponse({ success: true, counted: false });
     }
 
     return jsonResponse({ success: true });

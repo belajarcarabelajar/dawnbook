@@ -232,9 +232,19 @@ function viewDb() {
   sqlite.exec("CREATE TABLE books (slug TEXT PRIMARY KEY, view_count INTEGER NOT NULL DEFAULT 0)");
   sqlite.exec("INSERT INTO books (slug) VALUES ('buku-a'), ('buku-b')");
   const db = {
+    // D1 runs a batch as one transaction: a failing statement rolls back all.
+    async batch(stmts: { sql: string; params: unknown[] }[]) {
+      return sqlite.transaction(() =>
+        stmts.map((s) => ({ results: sqlite.query(s.sql).all(...(s.params as any[])), success: true, meta: {} })),
+      )();
+    },
     prepare(sql: string) {
       let params: unknown[] = [];
       const stmt = {
+        sql,
+        get params() {
+          return params;
+        },
         bind(...p: unknown[]) {
           params = p;
           return stmt;
