@@ -1,4 +1,4 @@
-// opentype.js 1.3.4 ships no types; this covers only the members cards.ts uses.
+// opentype.js 2.0.0 ships no types; this covers only the members cards.ts uses.
 declare module "opentype.js" {
   namespace opentype {
     interface Glyph {
