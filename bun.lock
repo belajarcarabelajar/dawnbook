@@ -10,7 +10,7 @@
         "@cloudflare/workers-types": "5.20261113.1",
         "@fontsource/epilogue": "5.3.0",
         "@fontsource/syne": "5.3.0",
-        "@mermaid-js/mermaid-cli": "12.0.0",
+        "@mermaid-js/mermaid-cli": "12.2.0",
         "@resvg/resvg-js": "2.6.2",
         "@types/bun": "1.4.4",
         "katex": "0.17.0",
@@ -217,7 +217,7 @@
 
     "@mermaid-js/layout-tidy-tree": ["@mermaid-js/layout-tidy-tree@1.0.1", "", { "dependencies": { "d3": "^7.9.0" }, "peerDependencies": { "mermaid": "^11.0.2 || ^12.0.0" } }, "sha512-suZgFgQQHYuAxiEiNVgPJwOoXi/keXV6DghCL3rT4K9DmX7xYQ2XZI2suiBVs/fj1gn/OoXIWB2DFSmeY7trvw=="],
 
-    "@mermaid-js/mermaid-cli": ["@mermaid-js/mermaid-cli@12.0.0", "", { "dependencies": { "@fontsource-variable/recursive": "^5.3.0", "@fontsource/open-sans": "^5.3.0", "@fortawesome/fontawesome-free": "^7.0.1", "@mermaid-js/mermaid-zenuml": "^1.0.1", "chalk": "^6.0.0", "commander": "^15.0.0", "import-meta-resolve": "^4.1.0", "katex": "^0.16.25", "mermaid": "^12.0.0", "p-limit": "^7.0.0" }, "optionalDependencies": { "@mermaid-js/layout-tidy-tree": "^1.0.1" }, "peerDependencies": { "puppeteer": "^25.0.0" }, "bin": { "mmdc": "src/cli.js" } }, "sha512-AA18uaJtWVlM5PX7RGBxrVrqTTesmEaWCmfV+l5RkD6A1CnpUAtPpL+wWhkQAZrDSfyAw5FZyj084MsnDIPY3g=="],
+    "@mermaid-js/mermaid-cli": ["@mermaid-js/mermaid-cli@12.2.0", "", { "dependencies": { "@fontsource-variable/recursive": "^5.3.0", "@fontsource/open-sans": "^5.3.0", "@fortawesome/fontawesome-free": "^7.0.1", "@mermaid-js/mermaid-zenuml": "^1.0.1", "chalk": "^6.0.0", "commander": "^15.0.0", "import-meta-resolve": "^4.1.0", "katex": "^0.18.10", "mermaid": "^12.2.0", "p-limit": "^7.0.0" }, "optionalDependencies": { "@mermaid-js/layout-tidy-tree": "^1.0.1" }, "peerDependencies": { "puppeteer": "^25.0.0" }, "bin": { "mmdc": "src/cli.js" } }, "sha512-oPfUxf4ly4MEf2wIgJh7DvtCz5mQFn9KFqCOZv5k2Vo7AtCAXO3NULy3W3UpNHDrP05Lbld7Gn6XeUgUWVpA2g=="],
 
     "@mermaid-js/mermaid-zenuml": ["@mermaid-js/mermaid-zenuml@1.0.1", "", { "dependencies": { "@zenuml/core": "^3.47.9" }, "peerDependencies": { "mermaid": "^10 || ^11 || ^12" } }, "sha512-O5DiRODoFVNgugOVloxcDXmd+bXe/sbGlDh3onnzuE4EWtgTWwaAlWuPPOXbU9QESsztnD4Gtnu7dr+tYLFE0A=="],
 
@@ -869,7 +869,7 @@
 
     "@headlessui/react/@floating-ui/react": ["@floating-ui/react@0.26.28", "", { "dependencies": { "@floating-ui/react-dom": "^2.1.2", "@floating-ui/utils": "^0.2.8", "tabbable": "^6.0.0" }, "peerDependencies": { "react": ">=16.8.0", "react-dom": ">=16.8.0" } }, "sha512-yORQuuAtVpiRjpMhdc0wJj06b9JFjrYF4qp96j++v2NBpbi6SEGF7donUJ3TMieerQ6qVkAv1tgr7L4r5roTqw=="],
 
-    "@mermaid-js/mermaid-cli/katex": ["katex@0.16.47", "", { "dependencies": { "commander": "^8.3.0" }, "bin": { "katex": "cli.js" } }, "sha512-Eeo8Ys1doU1z+x8AZsPpQu+p/QcZBI5PeOo7QGQdy2x2m0MU/hYagBbGOmXwr5KVbEfVuWv9LpnQWeehogurjg=="],
+    "@mermaid-js/mermaid-cli/katex": ["katex@0.18.11", "", { "dependencies": { "commander": "^15.0.0" }, "bin": { "katex": "cli.js" } }, "sha512-yvyz/2VMKqoho/35Hat5w37wIEdWJ5ElVMidTAlWrxr5uW4aBGsEpveTmKh18/zw08v/7lGswCPon4OhqmqrTA=="],
 
     "@zenuml/core/marked": ["marked@4.3.0", "", { "bin": { "marked": "bin/marked.js" } }, "sha512-PRsaiG84bK+AMvxziE/lCFss8juXjNaWzVbN5tXAm4XjeaS9NAHhop+PjQxz2A9h8Q4M/xGmzP8vqNwy6JeK0A=="],
 
@@ -916,8 +916,6 @@
     "wrap-ansi/strip-ansi": ["strip-ansi@7.2.0", "", { "dependencies": { "ansi-regex": "^6.2.2" } }, "sha512-yDPMNjp4WyfYBkHnjIRLfca1i6KMyGCtsVgoKe/z1+6vukgaENdgGBZt+ZmKPc4gavvEZ5OgHfHdrazhgNyG7w=="],
 
     "wsl-utils/is-wsl": ["is-wsl@3.1.1", "", { "dependencies": { "is-inside-container": "^1.0.0" } }, "sha512-e6rvdUCiQCAuumZslxRJWR/Doq4VpPR82kqclvcS0efgt430SlGIk05vdCN58+VrzgtIcfNODjozVielycD4Sw=="],
-
-    "@mermaid-js/mermaid-cli/katex/commander": ["commander@8.3.0", "", {}, "sha512-OkTL9umf+He2DZkUq8f8J9of7yL6RJKI24dVITBmNfZBmri9zYZQrKkuXiKhyfPSu8tUhnVBB1iKXevvnlR4Ww=="],
 
     "cliui/strip-ansi/ansi-regex": ["ansi-regex@6.4.0", "", {}, "sha512-KzTVk2tCWAHtYrvvvaP8bJKJq2pVinhLcGEQdtLIYPbmNGNyYe8QwNaTUYQp2J7/vIsUKt5QCqAfUkYyG9DkOw=="],
 
