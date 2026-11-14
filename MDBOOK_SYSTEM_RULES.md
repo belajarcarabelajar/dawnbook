@@ -55,7 +55,7 @@ The following terms are canonical. **Do not introduce synonyms.**
 | Edge Platform | **Cloudflare Pages + Pages Functions (TypeScript)** | Hosts static site and serverless API |
 | Edge Database | **Cloudflare D1 SQLite** (`dawnbook-db`) | Stores book metadata and content |
 | Authentication | **Clerk** | Session-based gating at edge and client |
-| Linting / Type Check | **ESLint + TypeScript** | Admin SPA only (`apps/admin/`) |
+| Type Check | **TypeScript** (`bun run typecheck`) | `scripts/`, `tests/`, `functions/` |
 
 ### 2.2 Fixed Entry Points and Paths
 
@@ -72,7 +72,6 @@ The following terms are canonical. **Do not introduce synonyms.**
 | `functions/api/books/index.ts` | Books API (list + create) |
 | `functions/api/books/[slug].ts` | Books API (single read) |
 | `apps/hub/src/` | Hub UI assets |
-| `apps/admin/src/` | Admin SPA |
 | `i18n/en.json`, `i18n/id.json` | i18n catalogs |
 
 ### 2.3 Environment Variable Names
@@ -152,7 +151,7 @@ bun run scripts/check-media-support.ts
 
 **What `check-latex-support.ts` does:** Reads every `books/*/book.toml` (passing a book that has `mathjax-support = true`, `mdbook-katex`, or a deferred MathJax script in `theme/head.hbs`) (corrected 2026-10-12), validates CSP headers, and parses/verifies all mathematical formulas in chapter Markdown files via the KaTeX compiler (flagging raw single `$` delimiters, math syntax/rendering errors, and failing on unformatted multi-letter variables). Exits 1 on failure or warning.
 
-**What `check-media-support.ts` does:** Verifies `books/shared-header-v3.css` has `.embed-responsive` and responsive `img`. Scans for forbidden `no-html = true`. Fails on `youtube.com/embed` (must use `youtube-nocookie.com`). Fails on unwrapped `<iframe>`. Verifies CSP directives. Exits 1 on error or warning.
+**What `check-media-support.ts` does:** Verifies `books/shared-header.css` has `.embed-responsive` and responsive `img`. Scans for forbidden `no-html = true`. Fails on `youtube.com/embed` (must use `youtube-nocookie.com`). Fails on unwrapped `<iframe>`. Verifies CSP directives. Exits 1 on error or warning.
 
 **Success gate:** `check-media-support.ts` exits code 0. Zero `[WARN]` or `[FAIL]` emitted. Any warnings will cause the script to exit 1 and block the pipeline. (corrected 2026-10-12)
 
@@ -188,10 +187,8 @@ bun run build
 
 **Trigger commands (in sequence):**
 ```bash
-# Step 1: Apply schema (idempotent)
-PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin \
-  npx wrangler d1 execute dawnbook-db --remote \
-  --file=db/migrations/0001_init.sql --yes
+# Step 1: Apply schema migrations (idempotent; the command scripts/deploy-website.sh runs)
+CI=true bunx wrangler d1 migrations apply dawnbook-db --remote
 
 # Step 2: Generate and apply seed (idempotent upsert)
 bun run scripts/migrate-to-d1.ts
@@ -234,7 +231,7 @@ bash scripts/test-i18n.sh
 bash scripts/deploy-website.sh
 ```
 
-**What happens:** `bun install` → sources `.env.local` → `bun run build` → D1 migration → `wrangler pages deploy output --project-name dawnbook --branch main --commit-dirty=true` → Telegram announcement of new books (`scripts/announce-new-books.ts`, GEMINI.md section 28).
+**What happens:** `bun install` → sources `/root/.env`, `.env` and `.dev.vars` when present → `bun run build` → D1 migration → `wrangler pages deploy output --project-name dawnbook --branch main --commit-dirty=true` → Telegram announcement of new books (`scripts/announce-new-books.ts`, GEMINI.md section 28).
 
 **Success gate:** Wrangler exits code 0 and prints deployment URL.
 
@@ -308,7 +305,7 @@ OrchestratorAgent
 | **Allowed file scope** | Write: `books/<slug>/book.toml`, `books/<slug>/icon.txt`, `books/<slug>/src/SUMMARY.md`, `books/<slug>/src/content/*.md` |
 | **Allowed commands** | File read/write tools only. No shell execution. |
 | **Output artifact** | All book source files populated with real content. |
-| **Success gate** | `book.toml` contains `mathjax-support = true`, `language = "id"`, and `subject_label`. `SUMMARY.md` has >= 1 `- [` entry. First chapter filename begins with `01`. No emoji in `SUMMARY.md`. `book.toml` includes `additional-css` and `additional-js`. All chapter files are in `src/content/` (NOT `src/` root). All chapter filenames match `/^\d{2}_[a-z0-9][a-z0-9-]*\.md$/`. All chapters open with `##` (H2), not `#` (H1). `src/introduction.md` deleted. |
+| **Success gate** | `book.toml` contains `mathjax-support = false`, `language = "id"`, and `subject_label`. `SUMMARY.md` has >= 1 `- [` entry. First chapter filename begins with `01`. No emoji in `SUMMARY.md`. `book.toml` includes `additional-css` and `additional-js`. All chapter files are in `src/content/` (NOT `src/` root). All chapter filenames match `/^\d{2}_[a-z0-9][a-z0-9-]*\.md$/`. All chapters open with `##` (H2), not `#` (H1). `src/introduction.md` deleted. |
 | **Failure/rollback** | Report which success gate was not met. OrchestratorAgent re-invokes with corrected inputs. |
 
 - **Heading rule in every authoring prompt:** OrchestratorAgent MUST copy the heading anti-colon rule (no `:` in chapter headings, SUMMARY.md entries, or a new book's `book.toml` title; no dash or "dan" disguise; scaffold-label cap) into every AuthoringAgent dispatch prompt. The agent must then confirm `bun run scripts/check-heading-colons.ts` exits 0 before reporting. Source of truth: `GEMINI.md` section 24.
@@ -320,7 +317,7 @@ OrchestratorAgent
 |---|---|
 | **Phase** | C + D |
 | **Input** | Slug, paths to all `books/<slug>/` files |
-| **Allowed file scope** | Read: `books/<slug>/**`, `books/*/book.toml`, `books/shared-header-v3.css`, `scripts/build.ts`, `scripts/check-latex-support.ts`, `scripts/check-media-support.ts` |
+| **Allowed file scope** | Read: `books/<slug>/**`, `books/*/book.toml`, `books/shared-header.css`, `scripts/build.ts`, `scripts/check-latex-support.ts`, `scripts/check-media-support.ts` |
 | **Allowed commands** | Slug regex check; `bun run scripts/check-latex-support.ts`; `bun run scripts/check-media-support.ts` |
 | **Output artifact** | Validation report (pass/fail per check with error messages). |
 | **Success gate** | Slug matches regex. Both check scripts exit code 0. Zero warnings allowed. |
@@ -331,10 +328,10 @@ OrchestratorAgent
 | Field | Value |
 |---|---|
 | **Phase** | E |
-| **Input** | All files under `books/<slug>/`, `apps/hub/src/`, `apps/admin/src/`, `i18n/`, `scripts/` |
+| **Input** | All files under `books/<slug>/`, `apps/hub/src/`, `i18n/`, `scripts/` |
 | **Allowed file scope** | Read: entire repository (except `node_modules`, `.git`). Write: `output/**` only. |
 | **Allowed commands** | `bun run build` |
-| **Output artifact** | `output/books/<slug>/`, `output/index.html`, `output/admin/`, `output/_redirects`, `output/_headers` |
+| **Output artifact** | `output/books/<slug>/`, `output/index.html`, `output/_redirects`, `output/_headers` |
 | **Success gate** | Exit code 0. `output/books/<slug>/index.html` exists. `output/_headers` exists. |
 | **Failure/rollback** | Report failing slug and stderr. Pipeline halts. AuthoringAgent re-activated. |
 
@@ -345,7 +342,7 @@ OrchestratorAgent
 | **Phase** | F |
 | **Input** | All `books/<slug>/` source files; `db/migrations/0001_init.sql` |
 | **Allowed file scope** | Read: `books/**`, `db/**`. Write: `db/seed.sql`. |
-| **Allowed commands** | `PATH=... npx wrangler d1 execute dawnbook-db --remote --file=db/migrations/0001_init.sql --yes`; `bun run scripts/migrate-to-d1.ts` |
+| **Allowed commands** | `CI=true bunx wrangler d1 migrations apply dawnbook-db --remote`; `bun run scripts/migrate-to-d1.ts` |
 | **Output artifact** | Updated `db/seed.sql`; confirmed D1 row for the new slug. |
 | **Success gate** | Both commands exit code 0. |
 | **Failure/rollback** | D1 operations are idempotent. Report wrangler error, do not retry automatically. |
@@ -368,7 +365,7 @@ OrchestratorAgent
 |---|---|
 | **Phase** | H |
 | **Input** | Confirmed Phase G success gate. Deployment credentials as env vars. |
-| **Allowed file scope** | Read: `output/**`, `wrangler.toml`, `apps/admin/.env.local`. Execute: `scripts/deploy-website.sh`. |
+| **Allowed file scope** | Read: `output/**`, `wrangler.toml`. Execute: `scripts/deploy-website.sh`. |
 | **Allowed commands** | `bash scripts/deploy-website.sh` |
 | **Output artifact** | Deployment URL from wrangler output. |
 | **Success gate** | Wrangler exits code 0. Deployment URL printed. |
@@ -427,10 +424,8 @@ echo "<slug>" | grep -qE '^[a-zA-Z0-9_-]+$' && echo "VALID" || { echo "INVALID";
 
 *Exact commands:*
 ```bash
-# Step 1: Schema (idempotent)
-PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin \
-  npx wrangler d1 execute dawnbook-db --remote \
-  --file=db/migrations/0001_init.sql --yes
+# Step 1: Schema migrations (idempotent)
+CI=true bunx wrangler d1 migrations apply dawnbook-db --remote
 
 # Step 2: Seed (idempotent upsert via chunked updates)
 bun run scripts/migrate-to-d1.ts
@@ -468,9 +463,9 @@ bash scripts/test-gating.sh https://dawnbook.belajarcarabelajar.com
 
 **R6 — Dynamic SEO-First Gating**
 
-*Statement:* The gating system (`functions/lib/gating.ts` and `books/shared-script-v3.js`) treats all chapter HTML files as public at the edge to ensure full SEO indexing. Gating is enforced dynamically on the client-side using `sessionStorage`: a user's first visited chapter is their free preview, and subsequent chapters require authentication. The book index (`index.html`), `toc.html`, `404.html`, and `print.html` are always public and do not consume the free preview.
+*Statement:* The gating system (`functions/lib/gating.ts` and `books/shared-script.js`) treats all chapter HTML files as public at the edge to ensure full SEO indexing. Gating is enforced dynamically on the client-side using `sessionStorage`: a user's first visited chapter is their free preview, and subsequent chapters require authentication. The book index (`index.html`), `toc.html`, `404.html`, and `print.html` are always public and do not consume the free preview.
 
-*Acceptance check:* `isPublicPath` in `functions/lib/gating.ts` returns `true` for all book paths. Client-side JS (`shared-script-v3.js`) reads/writes `free_chapter_viewed` in `sessionStorage`.
+*Acceptance check:* `isPublicPath` in `functions/lib/gating.ts` returns `true` for all book paths. Client-side JS (`shared-script.js`) reads/writes `free_chapter_viewed` in `sessionStorage`.
 
 ---
 
@@ -484,9 +479,9 @@ bash scripts/test-gating.sh https://dawnbook.belajarcarabelajar.com
 
 **R8 — book.toml Must Be Cloned from Template**
 
-*Statement:* Never create `book.toml` from scratch. Clone `books/_template/book.toml`, modify only `title` and `authors`. Ensures `mathjax-support = true`, `additional-css`, and `additional-js` are always present.
+*Statement:* Never create `book.toml` from scratch. Clone `books/_template/book.toml`, modify only `title` and `authors`. Ensures `mathjax-support = false` (MathJax loads from `theme/head.hbs`), `additional-css`, and `additional-js` are always present.
 
-*Acceptance check:* `book.toml` contains `mathjax-support = true`. `bun run scripts/check-latex-support.ts` exits 0.
+*Acceptance check:* `book.toml` contains `mathjax-support = false`. `bun run scripts/check-latex-support.ts` exits 0.
 
 ---
 
@@ -500,7 +495,7 @@ bash scripts/test-gating.sh https://dawnbook.belajarcarabelajar.com
 
 **R10 — LaTeX Formatting Rule**
 
-*Statement:* Raw LaTeX in chapter Markdown must use `\( ... \)` for inline and `\[ ... \]` (or `$$ ... $$`) for block math. Undelimited LaTeX will not render.
+*Statement:* Math in chapter Markdown uses `$...$` inline and a protected `<div>`/`$$` block for display (`GEMINI.md` section 9). mdBook strips the backslash from `\( ... \)` and `\[ ... \]`, so those delimiters never render. Undelimited LaTeX will not render.
 
 *Acceptance check:* `bun run scripts/check-latex-support.ts` exits 0.
 
@@ -543,8 +538,8 @@ EVERY AI agent or subagent MUST manually read EVERY SINGLE file line-by-line usi
 
 2. **Step 2 — Line-by-Line LaTeX & Content Checklist:**
    For every line viewed, verify:
-   - **Inline Math Delimiters:** Must strictly use `\( ... \)`. Never use unescaped single `$` or raw LaTeX.
-   - **Block Math Delimiters:** Must strictly be formatted as single-line `\[ ... \]` on one single line in the Markdown file. NEVER split `\[` and `\]` across multiple lines (which causes mdBook's pulldown-cmark parser to break the block into separate `<p>` tags, ruining MathJax rendering). NEVER double-wrap like `$$\\[ ... \\]$$` or `$$\(` or `$\(`.
+   - **Inline Math Delimiters:** `$...$` only, never `\( ... \)` or `\\( ... \\)` (`GEMINI.md` section 9).
+   - **Block Math Delimiters:** a protected block (`<div>`, `$$`, formula, `$$`, `</div>`, no blank line inside). Never `\[ ... \]`, and never double-wrap like `$$\\[`, `$$\(` or `$\(`.
    - **Multi-Letter Variables:** Multi-letter economic/scientific variables (e.g. `TR`, `AR`, `MR`, `ATC`, `MC`, `DWL`, `HHI`, `WTP`, `FC`, `TC`, `AC`) inside math blocks MUST be wrapped in `\text{...}` (e.g., `\text{MR}`, `\text{MC}`).
    - **Formula Context Accuracy:** Check that every formula matches the surrounding narrative paragraph. Ensure no copy-pasted supply-demand equations (`Q_d = a - bP`) appear in chapters dealing with Game Theory, Elasticity, or Cost Functions.
    - **No Garbled Text:** Ensure no raw math formulas are merged directly into narrative prose sentences or wrapped in invalid syntax like `$\( ... \)$`.
@@ -569,30 +564,11 @@ This rule mandates an absolute zero-tolerance policy for broken, raw, un-rendere
 
 ### 🌲 Fail-Safe Decision Tree (IF-ELSE Matrix):
 
-#### CASE 1: Writing Inline Math in Markdown
-- **IF** authoring or editing inline math inside a paragraph:
-  - **MUST USE:** Double-backslash `\\( ... \\)` in the Markdown source file.
-  - **WHY:** Single-backslash `\(` is parsed by mdBook's pulldown-cmark parser as a Markdown escape character for a literal parenthesis `(`, stripping `\` and outputting plain `(...)` into HTML so MathJax never renders it. Double-backslash `\\(` escapes the backslash, producing `\( ... \)` in HTML for MathJax to detect.
-  - **ELSE IF** double-backslash `\\(` fails in a specific edge case or generates single backslash in HTML, use `$` delimiters ONLY IF `inlineMath: [['$', '$']]` is configured in MathJax (e.g. `$P = 100$`).
-
-#### CASE 2: Writing Display (Block) Math in Markdown
-- **IF** authoring or editing display (centered block) math:
-  - **MUST USE:** Single-line `\\[ \text{formula} \\]` on **one single line** in the Markdown file.
-  - **STRICT PROHIBITION 1:** NEVER split `\\[` and `\\]` across multiple lines (e.g. `\\[` on line 1, formula on line 2, `\\]` on line 3). Multi-line splitting causes pulldown-cmark to wrap line 1 in `<p>\[</p>`, line 2 in `<p>formula</p>`, and line 3 in `<p>\]</p>`, producing broken un-rendered LaTeX in the browser.
-  - **STRICT PROHIBITION 2:** NEVER use `\begin{aligned}` with line breaks `\\` inside block math. pulldown-cmark consumes one backslash, emitting single `\` into HTML which causes MathJax to throw a KaTeX/MathJax parse error (`Invalid size` or `Unknown environment`).
-  - **SOLUTION FOR MULTI-LINE FORMULAS:** Write multiple separate single-line display equations:
-    ```markdown
-    \\[ Q_d = a - b P \\]
-    \\[ Q_s = c + d P \\]
-    \\[ \text{Keseimbangan: } Q_d = Q_s \\]
-    ```
-
-#### CASE 3: Syntax Contamination & Double Wrapping
-- **IF** any of the following invalid delimiter combinations are detected in source `.md` or compiled `.html`:
-  - `$$\\[` or `\\]$$` (double wrapped block delimiters)
-  - `$$\(` or `\)$$` (mixed block/inline delimiters)
-  - `$\(` or `\)$` (double wrapped inline delimiters)
-- **THEN IMMEDIATELY CLEAN** to purely single-line `\\[ ... \\]` (for display math) or `\\( ... \\)` (for inline math).
+#### CASES 1-3: Delimiters, Display Blocks, Double Wrapping
+- Inline math is `$...$`. `\(`, `\[` and their double-backslash forms are stripped by mdBook and never render.
+- Every display formula is a protected block (`<div>`, `$$`, formula, `$$`, `</div>`, no blank line inside, a blank line before and after; `GEMINI.md` section 9).
+- **STRICT PROHIBITION:** NEVER use `\begin{aligned}` or `\\` line breaks inside display math; pulldown-cmark consumes one backslash. Split a long formula into separate protected blocks.
+- Clean any mixed delimiter (`$$\\[`, `\\]$$`, `$$\(`, `$\(`) into one of the two forms above.
 
 #### CASE 4: Multi-Letter Economic / Scientific Variables
 - **IF** a math expression contains a variable name with 2 or more letters (e.g., `TR`, `AR`, `MR`, `ATC`, `MC`, `DWL`, `HHI`, `WTP`, `FC`, `TC`, `AC`):
@@ -602,19 +578,7 @@ This rule mandates an absolute zero-tolerance policy for broken, raw, un-rendere
 #### CASE 5: Cloudflare Rocket Loader Script Suppression
 - **IF** MathJax script fails to initialize in live browsers (or `<script>` tags show `type="<hash>-text/javascript"`):
   - **CAUSE:** Cloudflare Rocket Loader is intercepting and suppressing `<script>` execution.
-  - **SOLUTION:** Every book's `theme/head.hbs` MUST explicitly include `data-cfasync="false"` on all MathJax script tags:
-    ```html
-    <script data-cfasync="false">
-      window.MathJax = {
-        tex2jax: {
-          inlineMath: [['$', '$'], ['\\(', '\\)']],
-          displayMath: [['$$', '$$'], ['\\[', '\\]']],
-          processEscapes: true
-        }
-      };
-    </script>
-    <script data-cfasync="false" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-    ```
+  - **SOLUTION:** every MathJax `<script>` tag in `theme/head.hbs` carries `data-cfasync="false"` and loads with `defer`, never `async` (GEMINI.md sections 10 and 26). The canonical tags are in `books/_template/theme/head.hbs` (MathJax 2.7.9); edit them there and propagate with `scripts/sync-template.ts`.
   - **ALSO:** `mathjax-support = false` MUST be set in `book.toml` so mdBook does not inject a second un-annotated script tag. `scripts/sync-template.ts` must propagate `theme/head.hbs` to all books.
 
 #### CASE 6: Cloudflare Edge CDN Caching & Stale HTML
@@ -746,15 +710,15 @@ Each rule states an **enforced constraint** and a **required end state**.
 
 ---
 
-**S5 — Unpinned `npx wrangler` in Deploy Script**
+**S5 — Lockfile-Pinned `wrangler` in Deploy Script**
 
-*Surface:* `scripts/deploy-website.sh` (lines 18 and 23: `PATH=... npx wrangler ...`).
+*Surface:* `scripts/deploy-website.sh` (every `wrangler` call).
 
-*Current state:* `npx wrangler` fetches potentially different version each run, bypassing `bun.lock`.
+*Current state:* the script calls `bunx wrangler`, the version pinned in `bun.lock`.
 
 *Enforced constraint:* All wrangler invocations must use lockfile-pinned version (`bun run wrangler ...` or `bunx wrangler ...`).
 
-*Required end state (code recommendation):* Replace `npx wrangler` with `bunx wrangler` in `scripts/deploy-website.sh`.
+*Required end state:* No `npx wrangler` in the script.
 
 ---
 
@@ -814,7 +778,7 @@ Do not introduce CSS modifications (e.g., staggered `margin-top`) that break car
 OrchestratorAgent **must** deploy subagents in 1:1 ratio with chapter files. Each subagent handles exactly one `.md` file and applies all three content rules:
 
 - **Rule 7.7.1 — Pronoun Rule:** Formal "Anda" is forbidden. Replace all with "kamu".
-- **Rule 7.7.2 — LaTeX Rule:** Raw LaTeX MUST be converted to `\\( ... \\)` for inline and `\\[ ... \\]` (or `$$ ... $$`) for block math. You MUST use double backslashes so markdown parsers don't swallow them. If a word or multiple letters appear inside a math block (e.g., as a variable like `Ego` or `Efisiensi`), it MUST be wrapped in `\text{...}` (e.g., `\text{Ego}`). KaTeX strict mode will fail on unformatted multi-letter variables. **CRITICAL FOR MOBILE:** If a block math equation (`\\[ ... \\]`) is wide or contains multiple terms, you MUST use a multi-line environment like `\begin{aligned} ... \end{aligned}` to prevent horizontal scrolling issues on mobile devices. *(Cross-ref: R10)*
+- **Rule 7.7.2 — LaTeX Rule:** Write math by `GEMINI.md` section 9: `$...$` inline and a protected `<div>`/`$$` block for display. Wrap a word or multi-letter variable inside math (e.g. `Ego`, `Efisiensi`) in `\text{...}` (e.g. `\text{Ego}`). Split a wide formula into two protected blocks; never use `\begin{aligned}` or `\\` line breaks, which mdBook breaks. *(Cross-ref: R10)*
 - **Rule 7.7.3 — Humanization Rule:** Avoid AI cliches ("krusial", "signifikan", "komprehensif", "bukan sekadar X melainkan Y"). Avoid symmetrical bullet lists. Avoid "Sandwich" paragraph structure. **STRICTLY FORBIDDEN:** The phrase/pattern "*Think about this:*" or "*Pikirkan ini:*". Do not use repetitive rhetorical reflection prompts at the end of sections.
 - **Rule 7.7.4 — Read File First Rule:** AGENTS WAJIB READ FILE FIRST ALL. Agents must read and analyze the entire file completely before processing to ensure no raw LaTeX formatting (including unformatted multi-letter variables) or structural context is missed.
 - **Rule 7.7.5 — Dedicated Reference Chapter (Mandatory Web Search & Deep Links):** A dedicated chapter specifically for "Referensi" MUST be generated and appended at the end of the book. The subagent responsible for this chapter MUST execute `search_web` for EVERY single cited item to find robust, trustworthy literature and verified DOIs corresponding to the book's topic. **Strict Constraints:**
@@ -824,13 +788,13 @@ OrchestratorAgent **must** deploy subagents in 1:1 ratio with chapter files. Eac
   4. Plain-text reference entries without markdown hyperlinks are STRICTLY FORBIDDEN. All references MUST be consistently formatted in APA Style 7th Edition. (This rule applies only to new books processed going forward; existing books are exempt).
 - **Rule 7.7.6 — Single-Pass Write:** When processing the chapter file, the subagent MUST execute the write operation in a single pass using the `write_to_file` tool with `Overwrite: true` (or outputting the entire file at once). Do NOT use line-by-line iterative edit tools (`replace_file_content`) to prevent the agent from getting stuck.
 - **Rule 7.7.7 — Em-Dash Rule:** The character em-dash (`—`) is strictly forbidden in the final book output. Subagents must remove it entirely, replacing it with a comma (`,`), parentheses `( )` for parenthetical explanations, a colon (`:`) for definition clauses, or a regular hyphen (`-`) for quotation attributions, or rephrasing the sentence.
-- **Rule 7.7.8 — Rich Markdown and Layout Rule:** Every chapter markdown file MUST be visually rich, beautiful, and structured to maximize readability. Subagents MUST actively employ standard markdown formatting features, including:
+- **Rule 7.7.8 — Markdown Structure Rule:** Use Markdown structure where the content has that shape, and prose everywhere else: the chapter is the author's essay, not a report (GEMINI.md section 29). Useful forms:
   - **Tables** (`| Column 1 | Column 2 |`) for comparison data, contrast matrices, or structured summaries.
-  - **Blockquotes** (`>`) for all direct quotes from the text, books, or definitions, setting them apart elegantly.
+  - **Blockquotes** (`>`) for a short quote whose wording is the point; paraphrase everything else (GEMINI.md section 29, item 4).
   - **Structured Lists** (bulleted or numbered lists) to present classifications, multi-item details, or logical steps.
   - **Text Formatting** (bold `**` and italics `*`) applied strategically to key terms, core quotes, or definitions.
   - **Consistent Headings**: Ensure H3 (`### `) and H4 (`#### `) are used consistently to represent subsections without skipping levels, and NEVER use raw plain-text lines as fake headings.
-  - **Valid LaTeX/KaTeX Formatting**: For inline math, use `\\( ... \\)` (strictly double backslash delimiters) instead of raw `$ ... $`. For block math, use `\\[ ... \\]` or `$$ ... $$`.
+  - **Math**: write it by `GEMINI.md` section 9 (`$...$` inline, protected `<div>`/`$$` blocks for display).
   - **Mermaid Diagrams**: Optional, for a process, cycle, decision, dated chronology, or numbers the chapter already states, and for converting ASCII-art diagrams into a fenced `mermaid` block. Follow `GEMINI.md` section 25 "Mermaid Diagrams (Build-Time SVG)": allowed types only, mandatory `accTitle`/`accDescr`, no new facts or numbers, at most 3 per chapter; render with `bun run diagrams:render`, then confirm `bun run check:diagrams` exits 0.
 - **Rule 7.7.9 — Strict Zero-Emoji Rule:** All chapter markdown content files (`src/content/*.md`) and `SUMMARY.md` MUST be 100% clean and free of emoji characters. The ONLY file permitted to contain an emoji is `icon.txt` (which stores the single cover emoji for the book card). Subagents MUST actively inspect for, strip, and completely remove any emoji characters found in source input or chapter content during processing.
 
@@ -862,7 +826,7 @@ Run this checklist before declaring a new book deployment "complete". Every item
 ```
 [ ] Phase A: books/<slug>/ exists. book.toml exists. src/SUMMARY.md exists.
 [ ] Phase B: book.toml contains 'language = "id"' (NOT "en"). ⚠ Template defaults to "en" — must be overridden.
-[ ] Phase B: book.toml contains 'mathjax-support = true'.
+[ ] Phase B: book.toml contains 'mathjax-support = false'.
 [ ] Phase B: book.toml contains '[preprocessor.dawnbook]' and a valid 'subject_label'.
 [ ] Phase B: book.toml contains 'additional-css' and 'additional-js' referencing shared assets.
 [ ] Phase B: Chapter files are inside src/content/ — NOT in src/ root.
@@ -923,12 +887,8 @@ Assumption: The Clerk JWT verification in functions/api/books/index.ts correctly
             live verification against Clerk JWKS requires network access.
 
 Assumption: The 'mdbook' binary is available in PATH during Phase E. The repo does
-            not pin a specific mdBook version; the installed binary must support
-            'mathjax-support = true' in book.toml.
-
-Assumption: 'apps/admin/.env.local' is present and contains VITE_CLERK_PUBLISHABLE_KEY
-            for the admin SPA build during Phase E. If absent, the build succeeds but
-            the Clerk meta tag in hub HTML will be empty.
+            not pin a specific mdBook version in package.json; the build is
+            tested with mdBook v0.5.4 (GEMINI.md sections 9 and 19).
 
 Assumption: The GitHub Actions workflow '.github/workflows/deploy.yml' has secrets
             CLOUDFLARE_API_TOKEN and CLOUDFLARE_ACCOUNT_ID configured in repo settings.

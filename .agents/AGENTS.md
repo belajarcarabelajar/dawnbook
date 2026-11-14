@@ -11,16 +11,15 @@ Specifically:
 - **No Em-Dash (—) Rule**: The character em-dash (`—`) is strictly forbidden in the final book output. All subagents or operations must remove it entirely, replacing it with a comma (`,`), parentheses `( )` for parenthetical explanations, a colon (`:`) for definition clauses, or a regular hyphen (`-`) for quotation attributions, or rephrasing the sentence.
 - **Mandatory AI Brain Model Line-by-Line Inspection Rule (Rule R14)**: For any LaTeX task, agents MUST use the AI Agent's cognitive brain model to inspect files line-by-line. Relying on scripts (like `check-latex-support.ts`) as a formality or lazy shortcut is STRICTLY FORBIDDEN. Agents MUST follow a mandatory two-phase workflow: (1) First call `view_file` to read the file, detect all LaTeX formulas on the page, and count the total number of LaTeX instances using AI reasoning; (2) Once all instances and counts are identified, proceed with line-by-line edits directly using agentic coding tools (`view_file` and `replace_file_content`). Using automation scripts, Node batch converters, or mass search-and-replace scripts for LaTeX tasks is STRICTLY FORBIDDEN. All LaTeX formatting, fixes, and verification MUST be performed directly by the AI agent using generative AI tools. Check all inline math `$ ... $`, display math `$$ ... $$`, list item indentations, multi-letter `\text{...}` variables, underscore escaping (`_`), and context accuracy manually. Automated check scripts are ONLY post-flight verification tools, never a replacement for manual file reading with the AI brain model.
 - **Zero-Failure LaTeX Decision Tree (Rule R15)**: Follow rigid IF-ELSE matrix for LaTeX rendering:
-  - **Inline Math:** Standard `$ ... $` (or `\( ... \)`) in `.md`. Standard `$math$` (with NO spaces inside `$`, e.g. `$P_e$`) is recommended for native GitHub KaTeX rendering; `scripts/build.ts` automatically pre-processes `$ ... $` into `\\( ... \\)` for mdBook compilation.
-  - **Display Math:** Use `$$ ... $$` in `.md`.
-    - **Standalone Display Math:** Always place `$$` on its own line with blank lines before and after.
-    - **Display Math Inside List Items:** Indent by 3 spaces under list items (e.g. `   $$formula$$`) to maintain ordered list hierarchy without triggering CommonMark 4-space code-block traps.
-  - **MANDATORY BLANK LINES (Layout Rule):** Every standalone `$$` block MUST have a blank line BEFORE it AND a blank line AFTER it. Without blank lines, pulldown-cmark wraps the formula inside a `<p>` tag, making it render inline and scrambled.
+  - **Inline Math:** `$ ... $` in `.md`, never `\( ... \)` (mdBook strips the backslash). Write `$math$` with no spaces inside `$` (e.g. `$P_e$`); the build passes it to MathJax unchanged.
+  - **Display Math:** every display formula is a protected block: `<div>`, `$$`, formula, `$$`, `</div>`, with no blank line inside and a blank line before and after the whole block (`GEMINI.md` section 9).
+    - **Display Math Inside List Items:** indent all five lines to the item's text column (3 spaces) to keep the list hierarchy without triggering CommonMark 4-space code-block traps.
+  - **Blank lines around display math:** without the blank line before and after the block, pulldown-cmark wraps the formula inside a `<p>` tag and it renders inline and scrambled.
   - **Variables:** Wrap multi-letter variables in `\text{...}` (e.g. `\text{MR}`, `\text{MC}`, `\text{PED}`, `\text{PES}`).
-  - **Percentage Signs `%` — CRITICAL RULE:** The `%` character is a TeX comment delimiter. Inside ANY math block (`$ ... $` or `$$ ... $$`), it silently discards everything from `%` to end-of-line. MANDATORY: EVERY `%` inside math blocks MUST be written as `\text{\%}`. NO EXCEPTIONS.
-    - ✅ CORRECT: `$ 50 \text{\%} $` and `$$ \frac{\text{\%} \Delta Q}{\text{\%} \Delta P} $$`
-    - ❌ WRONG: `$ 50\% $` — `%` becomes TeX comment
-    - ❌ WRONG: `$ 50% $` — raw `%` is always a TeX comment
+  - **Percentage Signs `%`:** `%` starts a TeX comment and hides the rest of the line. In ordinary Markdown math (inline `$ ... $`, or a `$$` block that is not protected) write `\text{\%}`; inside a protected display block write `\%` (`GEMINI.md` section 9).
+    - ✅ CORRECT: `$ 50 \text{\%} $` inline, and `E_d = \frac{\% \Delta Q}{\% \Delta P}` as the formula line of a protected block
+    - ❌ WRONG: `$ 50\% $` inline (mdBook strips the backslash, so `%` becomes a TeX comment)
+    - ❌ WRONG: `\text{\%}` inside a protected block (prints a literal `\%`)
   - **Cloudflare Rocket Loader Bypass:** Ensure `theme/head.hbs` contains `data-cfasync="false"` on MathJax script tags. Set `mathjax-support = false` in `book.toml`.
   - **CDN Edge Cache:** Ensure `output/_headers` contains `Cache-Control: no-store`. Verify edge HTML via `fetch`.
 - **MANDATORY GENERATIVE AI AUDIT GATE (Rule R17):** Automated check scripts (such as `check-latex-support.ts`) are REMOVED from mandatory build blocking gates. All LaTeX inspection, formatting, and verification MUST be performed 100% by the Generative AI Agent using cognitive reasoning and line-by-line file reading (`view_file` + `replace_file_content`).
@@ -53,8 +52,9 @@ Specifically:
 
 Untuk setiap operasi Cloudflare (D1, KV, R2, Workers, Pages, zones, DNS,
 cache, Access), **wajib pakai `cf`**. Jangan pakai `wrangler` / `npx wrangler`
-/ `bunx wrangler`, kecuali tiga kondisi yang tercantum di `AGENTS.md`:
-CI/GitHub Actions, `wrangler pages dev`, dan worker esbuild/Rust/Python.
+/ `bunx wrangler`, kecuali empat kondisi yang tercantum di `AGENTS.md`:
+CI/GitHub Actions, `wrangler pages dev`, worker esbuild/Rust/Python, dan
+`scripts/deploy-website.sh` (`bunx wrangler d1 migrations apply` dan `pages deploy`).
 
 Aturan lengkap, jebakan yang sudah terukur, dan cara revert ada di
 `AGENTS.md`, bagian "Cloudflare — WAJIB pakai `cf`".
