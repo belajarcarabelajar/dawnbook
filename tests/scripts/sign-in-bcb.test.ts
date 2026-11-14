@@ -13,12 +13,15 @@ const ORIGIN = "https://dawnbook.belajarcarabelajar.com";
 
 let outDir = "";
 let html = "";
+// The sign-in script, loaded from /hub-scripts/ (strict script-src, no inline scripts).
+let js = "";
 
 beforeAll(async () => {
   mkdirSync(SCRATCH, { recursive: true });
   outDir = mkdtempSync(join(SCRATCH, "run-"));
   await generateSitePages(ROOT, outDir, [], {});
   html = readFileSync(join(outDir, "sign-in.html"), "utf8");
+  js = readFileSync(join(outDir, "hub-scripts/sign-in.js"), "utf8");
 });
 
 afterAll(() => {
@@ -58,24 +61,26 @@ describe("sign-in page: belajarcarabelajar.com account button", () => {
   });
 
   test("carries the Indonesian and English labels and helper line", () => {
-    expect(html).toContain("Masuk lewat akun belajarcarabelajar.com");
+    expect(html).toContain('<script src="/hub-scripts/sign-in.js"></script>');
+    expect(js).toContain("Masuk lewat akun belajarcarabelajar.com");
     expect(html).toContain("Sign in with your belajarcarabelajar.com account");
-    expect(html).toContain("Pakai ini kalau email pembelianmu bukan akun Google.");
+    expect(js).toContain("Pakai ini kalau email pembelianmu bukan akun Google.");
     expect(html).toContain("Use this if your purchase email is not a Google account.");
   });
 
   test("the page links only to the same-origin start endpoint, never to the store directly", () => {
     expect(html).not.toContain("masuk-dawnbook");
+    expect(js).not.toContain("masuk-dawnbook");
     const hrefs = [...html.matchAll(/id="bcb-signin-btn" href="([^"]*)"/g)].map((m) => m[1]);
     expect(hrefs).toEqual(["/api/auth/bcb/start?next=%2F"]);
   });
 
   test("the page computes the href from redirect_url through the helper", () => {
-    expect(html).toContain("bcbSignInHref(redirectUrl, window.location.origin)");
+    expect(js).toContain("bcbSignInHref(redirectUrl, window.location.origin)");
   });
 
   test("the helper keeps a same-origin path and search", () => {
-    const href = emittedHrefHelper(html);
+    const href = emittedHrefHelper(js);
     expect(href("/books/x/content/01.html?a=1", ORIGIN)).toBe(
       SSO_BASE + encodeURIComponent("/books/x/content/01.html?a=1"),
     );
@@ -85,7 +90,7 @@ describe("sign-in page: belajarcarabelajar.com account button", () => {
   });
 
   test("the helper falls back to / for anything that is not a same-origin path", () => {
-    const href = emittedHrefHelper(html);
+    const href = emittedHrefHelper(js);
     for (const bad of [
       "https://evil.example/steal",
       "//evil.example/steal",
@@ -119,8 +124,8 @@ describe("sign-in page: SSO error messages", () => {
 
   for (const [code, en, id] of cases) {
     test(`${code} has an English message in the error map and an Indonesian catalog entry`, () => {
-      expect(html).toContain(`${code}: '${en}'`);
-      expect(html).toContain(`'signin.error.${code}': '${id}'`);
+      expect(js).toContain(`${code}: '${en}'`);
+      expect(js).toContain(`'signin.error.${code}': '${id}'`);
     });
   }
 });

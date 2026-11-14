@@ -138,17 +138,42 @@ describe("Build Script & Modular Builder (scripts/build.ts)", () => {
     expect(inject).toContain("process.env.GA_MEASUREMENT_ID");
   });
 
-  test("root _headers and build output keep the CSP in sync with the shared single source of truth", async () => {
-    const { CONTENT_SECURITY_POLICY } = await import("../../functions/lib/security-headers.ts");
+  test("root _headers and build output give /* the strict CSP and /books/* the book CSP, in that order", async () => {
+    const headersModule: Record<string, unknown> = await import("../../functions/lib/security-headers.ts");
+    const strict = headersModule.CONTENT_SECURITY_POLICY as string;
+    const book = headersModule.BOOK_CONTENT_SECURITY_POLICY as string | undefined;
+    expect(typeof book).toBe("string");
+    expect(book).not.toBe(strict);
 
-    // The tracked root _headers file must carry the exact same CSP value, so
-    // the constant can never drift from what is actually deployed.
-    const rootHeaders = readFileSync(join(import.meta.dir, "../../_headers"), "utf-8");
-    expect(rootHeaders).toContain(`Content-Security-Policy: ${CONTENT_SECURITY_POLICY}`);
+    const { buildHeaders } = await import("../../scripts/builder/template-engine.ts");
+    const dir = mkdtempSync(join(tmpdir(), "dawnbook-headers-"));
+    let generated = "";
+    try {
+      await buildHeaders(dir);
+      generated = readFileSync(join(dir, "_headers"), "utf-8");
+    } finally {
+      rmSync(dir, { recursive: true, force: true });
+    }
+    const root = readFileSync(join(import.meta.dir, "../../_headers"), "utf-8");
 
-    // buildHeaders() must emit that same constant into the generated output.
-    const engine = readFileSync(join(import.meta.dir, "../../scripts/builder/template-engine.ts"), "utf-8");
-    expect(engine).toContain(`Content-Security-Policy: \${CONTENT_SECURITY_POLICY}`);
+    // Only the rules that touch the CSP, as [path, CSP lines] in file order.
+    // Pages detaches only what earlier rules added, so the /books/* override
+    // must come after the /* rule.
+    const cspRules = (text: string) => {
+      const rules: Array<[string, string[]]> = [];
+      for (const line of text.split("\n")) {
+        if (!line.trim() || line.trim().startsWith("#")) continue;
+        if (!/^\s/.test(line)) rules.push([line.trim(), []]);
+        else if (/^!?\s*Content-Security-Policy\b/.test(line.trim())) rules[rules.length - 1][1].push(line.trim());
+      }
+      return rules.filter(([, lines]) => lines.length > 0);
+    };
+    const expected: Array<[string, string[]]> = [
+      ["/*", [`Content-Security-Policy: ${strict}`]],
+      ["/books/*", ["! Content-Security-Policy", `Content-Security-Policy: ${book}`]],
+    ];
+    expect(cspRules(root)).toEqual(expected);
+    expect(cspRules(generated)).toEqual(expected);
   });
 
   test("every external origin loaded by generated pages is allowed by the CSP", async () => {
