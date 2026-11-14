@@ -35,7 +35,7 @@ This file contains critical architectural decisions and strict rules for the Daw
 ## 7. Remote Database Seeding (SQLITE_TOOBIG)
 - **Chunked Content Upsert:** Cloudflare D1 query limits restrict individual SQL statement length to 100 KB. Seeding books with large markdown contents (e.g., >100 KB) using a single SQL query will fail with a `statement too long: SQLITE_TOOBIG` error.
 - **Sequential Appending:** The database seeder (`scripts/migrate-to-d1.ts`) must insert book metadata with an empty `content_md` first, and then sequentially update the content in chunks of 30 KB using SQLite's string concatenation operator (`content_md = content_md || 'chunk'`) to avoid hitting statement size limits.
-- **Command-based Execution:** The `wrangler d1 execute --file` command often fails silently for SQL files containing complex multiline markdown structures and large text data. The seeding script **MUST** execute each statement individually using the `--command` argument (`wrangler d1 execute <DB> --command="..."`) rather than relying on file-based execution.
+- **Command-based Execution:** a SQL file holding large multiline markdown fails silently when applied as one file, so the seeding script executes each statement on its own (`cf d1 query <db-id> --sql "..."` in `scripts/migrate-to-d1.ts`), never as a file.
 
 
 
@@ -50,11 +50,9 @@ This file contains critical architectural decisions and strict rules for the Daw
 - **Rule:** Never create, scaffold, or compile a book without verifying that all pages satisfy these Google SERP meta description standards.
 
 ## 9. Mandatory AI Brain Model Line-by-Line File Inspection (No Script-Only Formalities for LaTeX)
-- **STRICT MANDATE — AI BRAIN MODEL INSPECTION ONLY:** Every LaTeX audit and verification MUST be performed using the AI Agent's cognitive brain model through direct, line-by-line file reading (`view_file`) and manual inspection. Relying ONLY on automated scripts (like `check-latex-support.ts`) as a formality or lazy shortcut is STRICTLY FORBIDDEN. Automated check scripts are ONLY post-flight verification safety nets, NEVER a replacement for manual AI reading.
-- **Mandatory Two-Phase LaTeX Workflow:** For any task involving LaTeX rendering or verification:
-  1. **Phase 1 (Detection & Counting via AI Brain):** You MUST call `view_file` to read the file, detect all LaTeX formulas on the page/file using AI reasoning, and count the total number of LaTeX instances.
-  2. **Phase 2 (Agentic Editing & Verification):** Once all instances and total counts are identified and verified, proceed with line-by-line edits directly using agentic coding tools (`view_file` and `replace_file_content`).
-- **FORBIDDEN AUTOMATION SCRIPTS FOR LATEX:** Automation scripts, Node batch converters, mass regular expression search-and-replace scripts, or automated transformation tools for any LaTeX task are STRICTLY FORBIDDEN. All LaTeX tasks must be handled manually line-by-line by the agent using AI reasoning.
+- **Read the formulas yourself:** every LaTeX audit and fix is done by reading the file line by line and checking each formula against its paragraph. `check-latex-support.ts` is an optional post-flight check and not a build gate; a clean run never replaces that reading.
+- **Order of work:** read the whole file and find every formula in it first, then fix them with targeted edits, then read the edited lines again.
+- **No batch tools for LaTeX:** do not run automation scripts, Node batch converters, or mass search-and-replace over formulas; edit each formula by hand. Batch passes corrupt subscripts and nest `\text{\%}` twice (see "Double-Nesting Forbidden" below).
 - **Pulldown-cmark `<em>` Tag Prevention:** Ensure all underscores (`_`) inside math delimiters are handled cleanly so that `pulldown-cmark` never injects `<em>...</em>` emphasis HTML tags inside MathJax/KaTeX expressions.
 - **`<div>` Wrapping Does NOT Stop Escape Processing (measured 2026-10-12, mdBook v0.5.4):** The HTML block opened by `<div>` ends at the first blank line, so the `$$` lines are parsed as a normal Markdown paragraph, where a backslash before ASCII punctuation is removed: `\,` renders as a comma, `\\` becomes a single backslash (so `\begin{cases}` rows collapse), and `\{` becomes `{`. `\text{\%}` still works only because it becomes `\text{%}`, which MathJax shows as a literal percent.
   - **Rule:** Never write `\,` `\;` `\!` `\\` `\{` `\}` `\|` inside math, not even in a protected block (below), so a formula stays correct if a blank line is ever added inside its block; use `\quad`, `\times`, or separate equations instead of `cases`. Existing books may contain these macros and need a manual line-by-line audit (no batch LaTeX scripts, per the rule above).
@@ -66,7 +64,7 @@ This file contains critical architectural decisions and strict rules for the Daw
   - the `\text{\%}` rule in item 5 below applies only to math in ordinary Markdown (inline `$...$` in paragraphs, list items and table cells, or an old `$$` block that is not protected), where mdBook removes the backslash before MathJax runs.
 - **Underscores in inline math (measured 2026-10-21):** two subscripts in one paragraph can pair into `<em>` tags (for example `$\text{A}_{i} + \text{B}_{j}$`), which MathJax cannot typeset. Write the underscore as `\_` in inline math whenever a paragraph holds more than one subscript; mdBook turns `\_` into `_`. Never use `\(`...`\)` or `\[`...`\]` delimiters in Markdown: mdBook strips their backslashes.
 - **Currency:** never leave a bare `$` amount in prose when another `$` can follow in the same paragraph; write "USD 700 juta" or "1,78 juta dolar AS". Quoted titles keep their wording.
-- **LaTeX & Formula Verification Checklist — MANDATORY, ZERO-EXCEPTION:**
+- **LaTeX & Formula Verification Checklist:**
   1. **Inline Math Delimiters:** Use `$ ... $` in `.md` files (not `\( ... \)`, see "Underscores in inline math" above). Standard `$math$` (with NO spaces inside `$`, e.g., `$P_e$`) is recommended so GitHub renders equations natively in repository view; MathJax, configured in `books/_template/theme/head.hbs`, renders `$ ... $` in the browser, and the build does not rewrite it.
   2. **Display Math Delimiters:** Use `$$ ... $$` in `.md` files, always in the protected block described above.
      - **Standalone Display Math:** `$$` on its own line inside `<div>`, with a blank line before and after the whole block and none inside it.
@@ -95,7 +93,6 @@ This file contains critical architectural decisions and strict rules for the Daw
      - ❌ WRONG: `$ 50\% $` (escaped `\%` — mdBook strips backslash, becomes raw `%`)
      - ❌ WRONG: `\text{\%}` inside a protected block (prints a literal "\%")
   6. **Formula Context:** Verify every formula matches the surrounding paragraph context and economic/mathematical meaning.
-- **LaTeX Auditing via Generative AI Brain Model Only:** Automated check scripts (such as `check-latex-support.ts`) are REMOVED from build blocking gates. All LaTeX formula inspection, verification, and formatting MUST be performed 100% by the Generative AI model reading files line-by-line (`view_file`) using AI reasoning.
 - **Double-Nesting Forbidden:** Batch find-replace scripts that target `\text{\%}` WILL produce `\text{\text{\%}}` if the pattern already exists. NEVER run a second pass of `\%` → `\text{\%}` replacement. In ordinary Markdown math the correct form is `\text{\%}`, single nesting only; in a protected block it is `\%`.
 
 ## 10. MathJax Loading & Navigation Rendering (Learned from Production Bug)
@@ -143,13 +140,13 @@ This file contains critical architectural decisions and strict rules for the Daw
 - **Premium books:** this rule does not apply to verbatim premium books (no edition in the registry), which are published as is (section 30).
 
 ## 15. Mandatory Reference Hyperlinks & DOIs Rule
-- **Mandatory Web Search Verification:** Every citation entry in a book's dedicated `Referensi` chapter MUST be 100% authentic, relevant, and verified via `search_web`. Subagents and agents are STRICTLY FORBIDDEN from guessing, hallucinating, or fabricating titles, authors, DOIs, or generic homepage URLs (such as `https://brill.com/` or `https://jstor.org/`).
-- **Mandatory Deep Markdown Hyperlinks:** Subagents MUST execute `search_web` for EVERY single cited work and explicitly include an authentic, clickable deep-link markdown hyperlink `[Judul/Nama Karya](URL)` or direct DOI resolution link `https://doi.org/10.xxxx/xxxx` targeting the exact publication landing page (e.g. `peraturan.bpk.go.id`, `eur-lex.europa.eu`, `https://doi.org/...`, UNESCO Digital Library, Leiden Digital Collections, Internet Archive, JSTOR, or publisher book page).
+- **Mandatory Web Search Verification:** Every citation entry in a book's dedicated `Referensi` chapter MUST be 100% authentic, relevant, and verified with a web search. Subagents and agents are STRICTLY FORBIDDEN from guessing, hallucinating, or fabricating titles, authors, DOIs, or generic homepage URLs (such as `https://brill.com/` or `https://jstor.org/`).
+- **Mandatory Deep Markdown Hyperlinks:** Subagents MUST run a web search for EVERY single cited work and explicitly include an authentic, clickable deep-link markdown hyperlink `[Judul/Nama Karya](URL)` or direct DOI resolution link `https://doi.org/10.xxxx/xxxx` targeting the exact publication landing page (e.g. `peraturan.bpk.go.id`, `eur-lex.europa.eu`, `https://doi.org/...`, UNESCO Digital Library, Leiden Digital Collections, Internet Archive, JSTOR, or publisher book page).
 - **No Plain-Text Citations:** Generating plain-text reference citations without markdown hyperlinks is STRICTLY FORBIDDEN.
 
 ## 16. Strict Zero-Loss Line-by-Line AI Reading & Anti-Batch Transformation Rule
 - **Prohibition of Batch Content Scripts:** Agents MUST NOT use batch find-replace scripts, mass regular expression transformations, or Node batch converters for authoring or editing book content. Automated batch scripts cause data loss, strip headers, merge paragraphs, and corrupt LaTeX subscripts.
-- **Mandatory 1:1 Line-by-Line AI Inspection (`view_file`):** Every chapter MUST be read line-by-line from source using `view_file` and verified line-by-line after writing using `view_file`.
+- **Mandatory 1:1 Line-by-Line AI Inspection:** Every chapter MUST be read line-by-line from source and verified line-by-line after writing, with the file-reading tool of the agent in use.
 - **Mandatory "kamu" Address (NOT "Anda"):** Every chapter MUST address the reader informally as **"kamu"**. The formal pronoun **"Anda" is strictly forbidden** and any occurrence MUST be replaced with "kamu". This matches Rule R7.7.1 in `MDBOOK_SYSTEM_RULES.md` and every existing book on the platform. (Historical note: an earlier version of this section wrongly banned "kamu" as well; that was incorrect and is superseded, confirmed by the repo owner on 2026-09-28.)
 - **Zero Em-Dash Policy (`—`):** Em-dash characters (`—`) are strictly forbidden in book output. Replace with a comma (`,`), colon (`:`), parenthetical `(...)`, or regular hyphen (`-`).
 - **`<div>` Wrapped Display Math:** All display math equations MUST be wrapped in `<div>\n$$ ... $$\n</div>` with blank lines before and after to prevent `pulldown-cmark` from parsing internal underscores into HTML `<em>` emphasis tags.
@@ -404,7 +401,7 @@ This file contains critical architectural decisions and strict rules for the Daw
 
 `cf` (Cloudflare CLI v1.0.0-beta.5) terpasang global di `~/.local/bin/cf` dan
 mencakup 3.000+ operasi API. Untuk **semua** operasi Cloudflare, pakai `cf`.
-Jangan pakai `wrangler` / `npx wrangler` / `bunx wrangler`, kecuali pada tiga
+Jangan pakai `wrangler` / `npx wrangler` / `bunx wrangler`, kecuali pada empat
 kondisi di bawah.
 
 **Auth sudah otomatis.** `~/cloudflare/.env` memuat `CLOUDFLARE_API_TOKEN` dan
@@ -412,17 +409,19 @@ kondisi di bawah.
 Tidak perlu `cf auth login`. Kalau `cf` bilang tidak terautentikasi, cek
 `cf auth whoami`. Jangan pernah mencetak nilai token.
 
-### Tetap pakai `wrangler` — hanya tiga kondisi
+### Tetap pakai `wrangler`: hanya empat kondisi
 
 Alasannya sudah diukur, bukan dugaan:
 
-1. **CI / GitHub Actions.** Runner tidak punya `cf` terpasang, dan pipeline
-   Snipset memakai Bun. Perintah `wrangler deploy` di `.github/workflows`
-   dibiarkan apa adanya.
+1. **CI / GitHub Actions.** Runner tidak punya `cf` terpasang. Perintah
+   `wrangler` di `.github/workflows` dibiarkan apa adanya.
 2. **`wrangler pages dev`.** Tidak ada padanan di `cf`. `cf pages` hanya punya
    `deploy` dan `projects`; `cf pages dev` keluar dengan exit 1.
 3. **Worker esbuild / Rust / Python.** `cf` sendiri mendelegasikan ke wrangler
    untuk kasus ini secara sengaja (pengumuman Cloudflare 2026-09-28).
+4. **`scripts/deploy-website.sh`.** Skrip deploy memakai `bunx wrangler`
+   (versi dari `bun.lock`) untuk `d1 migrations apply` dan `pages deploy`
+   (direct upload). Jalankan lewat skrip itu; jangan ganti dengan `cf`.
 
 ### Cari command, jangan menebak nama
 
