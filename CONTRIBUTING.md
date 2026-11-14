@@ -53,14 +53,14 @@ Then update the `database_id` in `wrangler.toml` with the ID from the output.
 
 ### Applying Schema Migrations
 
-Apply the initial schema (and any future migrations) to D1:
+Apply the schema migrations in `db/migrations/` (the remote command is the one `scripts/deploy-website.sh` runs):
 
 ```bash
 # Remote (production)
-npx wrangler d1 execute dawnbook-db --remote --file=db/migrations/0001_init.sql --yes
+CI=true bunx wrangler d1 migrations apply dawnbook-db --remote
 
 # Local (development)
-npx wrangler d1 execute dawnbook-db --local --file=db/migrations/0001_init.sql
+bunx wrangler d1 migrations apply dawnbook-db --local
 ```
 
 ### Seeding Data from File-Based Books
@@ -74,7 +74,7 @@ bun run scripts/migrate-to-d1.ts
 This script:
 1. Traverses `books/`, reads `book.toml` for metadata and `src/*.md` for content
 2. Generates `INSERT ... ON CONFLICT(slug) DO UPDATE` SQL
-3. Executes the SQL against D1 via `wrangler d1 execute`
+3. Executes each statement against D1 with `cf d1 query --sql` (the Cloudflare CLI), never as one SQL file
 
 ### Pages Functions (API Layer)
 
@@ -108,83 +108,41 @@ The D1 binding (`DB`) is configured in `wrangler.toml` and is automatically avai
 
 ## LaTeX Support
 
-Dawnbook enforces mathematical rendering consistency via the `latex-support` build rule. All new and existing books must support mathematical equations (LaTeX) using mdBook's native MathJax 2.7.1 integration.
+Books render math with MathJax 2.7.9, loaded with `defer` by `books/_template/theme/head.hbs`. The build copies that file into every book (`scripts/sync-template.ts`), so never edit a book's own `head.hbs`.
 
-When creating a new book or editing `book.toml`, you **must** include the following under `[output.html]`:
+Every `book.toml` keeps `mathjax-support = false` under `[output.html]`, so mdBook does not inject a second MathJax tag:
 
 ```toml
 [output.html]
-mathjax-support = true
+mathjax-support = false
 ```
 
-The build pipeline (`scripts/build.ts`) automatically validates this configuration via `scripts/check-latex-support.ts`. If this key is missing, the build will fail.
+Copy `book.toml` from `books/_template/` and change only the title, authors and description; the build syncs the rest from the template.
 
 The Cloudflare Pages CSP `_headers` is pre-configured to allow MathJax loading from `cdnjs.cloudflare.com` and `cdn.jsdelivr.net`.
 
-### ⚠️ Critical: Inline Math Delimiter Rules (mdBook v0.4.40)
+### Writing math (mdBook v0.5.4)
 
-> **This is the most common source of broken math rendering.** Confirmed via live testing against mdBook v0.4.40 + pulldown-cmark + MathJax 2.7.1.
+mdBook parses chapters with **pulldown-cmark**, which removes a backslash in front of ASCII punctuation outside raw HTML. That is why `\(x^2\)` and `\\(x^2\\)` never reach MathJax intact. The full, measured rules live in `GEMINI.md` section 9; the essentials:
 
-mdBook uses **pulldown-cmark** as its markdown parser. pulldown-cmark treats `\(` as an **escape sequence** and strips the backslash, outputting a plain `(` in HTML. MathJax never sees the delimiter and the formula renders as raw text.
-
-| Format in `.md` source | In HTML output | Renders in browser |
-|---|---|---|
-| `\(x^2\)` | `(x^2)` | ❌ Plain text |
-| `\\(x^2\\)` | `\\(x^2\\)` | ✅ MathJax renders |
-| `$$x^2$$` | `$$x^2$$` | ✅ MathJax display math |
-
-**Rules:**
-
-1. **Inline math** (variables, short expressions): use `\\(...\\)` - **two backslashes** in the `.md` file.
+1. **Inline math** uses `$...$` with no space after the opening `$` or before the closing one (`$P_e$`). Never use `\(...\)` or `\[...\]`.
+2. **Display math** is a protected block: `<div>`, `$$`, the formula, `$$`, `</div>`, with no blank line inside and a blank line before and after the whole block. Inside a list item, indent all five lines to the item's text column.
    ```markdown
-   <!-- ❌ WRONG: single backslash stripped by pulldown-cmark -->
-   - \(R_{1,t}\) adalah ekspektasi pendapatan...
-
-   <!-- ✅ CORRECT: double backslash passes through to HTML -->
-   - \\(R_{1,t}\\) adalah ekspektasi pendapatan...
+   <div>
+   $$
+   \text{MC} = \frac{d\text{TC}}{dQ} = 10Q + 20
+   $$
+   </div>
    ```
-
-2. **Display/block math** (full equations): use `$$...$$`.
-   ```markdown
-   $$\text{NPV} = \sum_{t=1}^{T} \frac{R_{1,t} - R_{0,t}}{(1+r)^t} - C_{\text{total}}$$
-   ```
-
-3. **Variable description lists** under a formula: every variable symbol **must** also use `\\(...\\)`.
-   ```markdown
-   <!-- ❌ WRONG: variable descriptions as plain text -->
-   - R_{1,t} adalah ekspektasi pendapatan...
-   - (R_{1,t}) adalah ekspektasi pendapatan...
-
-   <!-- ✅ CORRECT -->
-   - \\(R_{1,t}\\) adalah ekspektasi pendapatan setelah meningkatkan modal manusia pada periode \\(t\\).
-   - \\(R_{0,t}\\) adalah pendapatan tanpa tambahan pendidikan.
-   - \\(r\\) adalah tingkat diskonto (*discount rate*).
-   - \\(C_{\\text{total}}\\) adalah total biaya langsung (*direct costs*) pendidikan.
-   ```
-
-4. **Multi-letter variable names** inside math mode must use `\text{...}`:
-   ```markdown
-   <!-- ❌ WRONG: KaTeX renders NPV as N×P×V (italic multiplication) -->
-   $$NPV = ...$$
-
-   <!-- ✅ CORRECT -->
-   $$\text{NPV} = ...$$
-   ```
-
-5. **Inline text inside display math**: use `\text{...}` for prose words:
-   ```markdown
-   $$\text{Biaya Total} = \text{Biaya Tetap} + (v \times q)$$
-   ```
+3. **Multi-letter names** inside math use `\text{...}` (`\text{NPV}`, not `NPV`, which renders as N×P×V).
+4. **Percent signs:** `%` starts a TeX comment. Write `\text{\%}` in inline math and `\%` inside a protected block.
+5. **Subscripts:** when a paragraph holds more than one subscript, write the underscore as `\_` in inline math, so pulldown-cmark cannot pair two underscores into `<em>`.
+6. **Never write** `\,` `\;` `\!` `\\` `\{` `\}` `\|` inside math, and do not use `cases` or `aligned`. Split a long formula into two protected blocks.
+7. **Currency:** do not leave a bare `$` amount in prose when another `$` can follow in the same paragraph; write "USD 700 juta".
 
 ### Validation
 
-Run before every commit touching math content:
-
-```bash
-bun scripts/check-latex-support.ts
-```
-
-Expected: `✅ All LaTeX support checks passed.`
+Read each formula in the built page (`bun run build`, then open `output/books/<slug>/`). `bun scripts/check-latex-support.ts` is an optional extra check and is not part of the build. It does not know the protected-block rule, so it flags a correct `\%` inside a protected block.
 
 ## Embedding media
 
