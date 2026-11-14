@@ -1,0 +1,16 @@
+# MathJax and LaTeX: measurements
+
+Moved verbatim from `GEMINI.md` on 2026-11-15, when the always-loaded instruction files were compacted under the 150k-character limit. `GEMINI.md` keeps the binding summary of each rule and points here; each heading below names the `GEMINI.md` section the text belongs to. Read this file before the work its pointer in `GEMINI.md` names. In the moved text, "this section" and "this file" mean the `GEMINI.md` section named in the heading.
+
+## From section 9 (Mandatory AI Brain Model Line-by-Line File Inspection (No Script-Only Formalities for LaTeX))
+
+- **`<div>` Wrapping Does NOT Stop Escape Processing (measured 2026-10-12, mdBook v0.5.4):** The HTML block opened by `<div>` ends at the first blank line, so the `$$` lines are parsed as a normal Markdown paragraph, where a backslash before ASCII punctuation is removed: `\,` renders as a comma, `\\` becomes a single backslash (so `\begin{cases}` rows collapse), and `\{` becomes `{`. `\text{\%}` still works only because it becomes `\text{%}`, which MathJax shows as a literal percent.
+  - **Rule:** Never write `\,` `\;` `\!` `\\` `\{` `\}` `\|` inside math, not even in a protected block (below), so a formula stays correct if a blank line is ever added inside its block; use `\quad`, `\times`, or separate equations instead of `cases`. Existing books may contain these macros and need a manual line-by-line audit (no batch LaTeX scripts, per the rule above).
+
+## From section 10 (MathJax Loading & Navigation Rendering (Learned from Production Bug))
+
+- **Wide display math scrolls on its own (measured 2026-10-21):** `books/shared-header.css` sets `.content .MathJax_Display { overflow-x: auto; overflow-y: hidden; padding: 3px 0; }`. Before that rule, at a 390 px phone viewport (350 px column), formulas wider than the column made the whole `.content` column scroll sideways on 193 chapters in 46 books, and the rest of the formula was cut off at the screen edge. Do not remove the rule or move `overflow` onto `.content`.
+  - The padding is required: without it `overflow-y: hidden` cut the bottom pixel row of the descenders in `\text{... hingga ... bintang}` (multiple-intelligences 10). Keep it in whole pixels: 0.15em changed the rendering of 6 of 15 formulas in a screenshot test. The padding adds 3 px of space above and below every display formula.
+  - Verification: a before/after screenshot of all 583 display formulas at 1280 px (each crop follows the formula, with a clip-path control that must show differences) showed 0 changed with `3px`.
+  - After the rule, at 390 px, 206 display formulas scroll inside their own box. This rule does not cover inline `$...$` math: a long inline formula still widens its paragraph and shifts the whole column (33 chapters at 390 px and 39 at 360 px before they were converted on 2026-10-21; 0 after). Keep inline math well under 275 px rendered (the narrowest one that overflowed, inside a list item at 360 px); write anything longer as a protected display block, or for a "symbol = words" definition put only the symbol in math (`$D$ = durasi interupsi`).
+  - Some display boxes report 2 to 5 px of hidden vertical overflow (`scrollHeight` above `clientHeight`). The amount is the same at 390 and 1280 px, and at 1280 px the screenshot test shows no visible change, so no visible ink is lost there.
