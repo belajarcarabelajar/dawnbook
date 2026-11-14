@@ -20,7 +20,11 @@ import { verifySession, type Env as AuthEnv } from "./lib/auth";
 import { isAiCrawler, isPublicPath } from "./lib/gating";
 import { isVerifiedBotRequest } from "./lib/bot-verify";
 import { resolveLocale, COOKIE_NAME } from "./lib/i18n";
-import { CONTENT_SECURITY_POLICY } from "./lib/security-headers";
+import {
+  BOOK_CONTENT_SECURITY_POLICY,
+  CONTENT_SECURITY_POLICY,
+  isBookPath,
+} from "./lib/security-headers";
 import {
   checkPremiumAccess,
   isPremiumPublicPage,
@@ -208,8 +212,10 @@ function applyGatedCacheHeaders(response: Response): Response {
 
 /**
  * Applies baseline defensive HTTP security headers to an outgoing response.
+ * The CSP fallback follows _headers: the book policy under /books/, the
+ * strict one everywhere else (including the error responses, which pass no path).
  */
-function applySecurityHeaders(response: Response): Response {
+function applySecurityHeaders(response: Response, pathname = ""): Response {
   const newResponse = new Response(response.body, response);
   if (!newResponse.headers.has("X-Frame-Options")) {
     newResponse.headers.set("X-Frame-Options", "DENY");
@@ -230,7 +236,10 @@ function applySecurityHeaders(response: Response): Response {
     );
   }
   if (!newResponse.headers.has("Content-Security-Policy")) {
-    newResponse.headers.set("Content-Security-Policy", CONTENT_SECURITY_POLICY);
+    newResponse.headers.set(
+      "Content-Security-Policy",
+      isBookPath(pathname) ? BOOK_CONTENT_SECURITY_POLICY : CONTENT_SECURITY_POLICY,
+    );
   }
   return newResponse;
 }
@@ -276,12 +285,12 @@ const gatingMiddleware: PagesFunction<Env> = async (context) => {
       const mediaKey = premiumMediaKey(pathname);
       if (isPremiumPublicPage(pathname)) {
         if (mediaKey !== null) {
-          return applySecurityHeaders(await premiumMedia(request, env.PREMIUM_MEDIA, mediaKey, false));
+          return applySecurityHeaders(await premiumMedia(request, env.PREMIUM_MEDIA, mediaKey, false), pathname);
         }
         const response = await nextWithLocale();
         const newResponse = new Response(response.body, response);
         newResponse.headers.append("Vary", "User-Agent");
-        return applySecurityHeaders(newResponse);
+        return applySecurityHeaders(newResponse, pathname);
       }
 
       const session = await verifySession(request, env);
@@ -291,24 +300,25 @@ const gatingMiddleware: PagesFunction<Env> = async (context) => {
           signInUrl.searchParams.set("redirect_url", request.url);
           return applySecurityHeaders(
             Response.redirect(signInUrl.toString(), 302),
+            pathname,
           );
         }
-        return applySecurityHeaders(unauthorizedJson());
+        return applySecurityHeaders(unauthorizedJson(), pathname);
       }
 
       const entry = loadPremiumRegistry()[premiumSlug];
       const access = await checkPremiumAccess(env.LMS_DB, session.email, entry);
       if (access === "allowed") {
         if (mediaKey !== null) {
-          return applySecurityHeaders(await premiumMedia(request, env.PREMIUM_MEDIA, mediaKey, true));
+          return applySecurityHeaders(await premiumMedia(request, env.PREMIUM_MEDIA, mediaKey, true), pathname);
         }
         const response = await nextWithLocale();
-        return applySecurityHeaders(applyGatedCacheHeaders(response));
+        return applySecurityHeaders(applyGatedCacheHeaders(response), pathname);
       }
       if (access === "refused") {
-        return applySecurityHeaders(premiumRefused(request, session.email, entry));
+        return applySecurityHeaders(premiumRefused(request, session.email, entry), pathname);
       }
-      return applySecurityHeaders(premiumUnavailable(request));
+      return applySecurityHeaders(premiumUnavailable(request), pathname);
     }
 
     // --- Public paths or VERIFIED Search Engine Bots: pass through unchanged ---
@@ -329,11 +339,11 @@ const gatingMiddleware: PagesFunction<Env> = async (context) => {
         const upstreamVary = response.headers.get("Vary");
         const gated = applyGatedCacheHeaders(response);
         gated.headers.set("Vary", mergeVary(upstreamVary, ["Cookie", "User-Agent"]));
-        return applySecurityHeaders(gated);
+        return applySecurityHeaders(gated, pathname);
       }
       const newResponse = new Response(response.body, response);
       newResponse.headers.append("Vary", "User-Agent");
-      return applySecurityHeaders(newResponse);
+      return applySecurityHeaders(newResponse, pathname);
     }
 
     // --- Gated paths: require D1 session ---
@@ -344,20 +354,21 @@ const gatingMiddleware: PagesFunction<Env> = async (context) => {
         signInUrl.searchParams.set("redirect_url", request.url);
         return applySecurityHeaders(
           Response.redirect(signInUrl.toString(), 302),
+          pathname,
         );
       }
       const response = await nextWithLocale();
-      return applySecurityHeaders(applyGatedCacheHeaders(response));
+      return applySecurityHeaders(applyGatedCacheHeaders(response), pathname);
     }
 
     // Non-HTML (API/fetch).
     const session = await verifySession(request, env);
     if (!session) {
-      return applySecurityHeaders(unauthorizedJson());
+      return applySecurityHeaders(unauthorizedJson(), pathname);
     }
 
   const response = await nextWithLocale();
-  return applySecurityHeaders(applyGatedCacheHeaders(response));
+  return applySecurityHeaders(applyGatedCacheHeaders(response), pathname);
 };
 
 export const onRequest: PagesFunction<Env> = async (context) => {

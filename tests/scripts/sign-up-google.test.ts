@@ -71,11 +71,12 @@ function fakeDocument(page: string) {
   return { document, elements };
 }
 
+// The page loads its script from /hub-scripts/ (strict script-src, no inline scripts).
 function signInScript(page: string): string {
-  for (const m of page.matchAll(/<script>([\s\S]*?)<\/script>/g)) {
-    if (m[1].includes("function bcbSignInHref(")) return m[1];
-  }
-  throw new Error("sign-in script not found");
+  expect(page).toContain('<script src="/hub-scripts/sign-in.js"></script>');
+  const script = readFileSync(join(outDir, "hub-scripts/sign-in.js"), "utf8");
+  expect(script).toContain("function bcbSignInHref(");
+  return script;
 }
 
 function runPage(page: string) {

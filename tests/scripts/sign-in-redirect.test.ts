@@ -23,16 +23,18 @@ afterAll(() => {
   if (outDir) rmSync(outDir, { recursive: true, force: true });
 });
 
+// The page loads its script from /hub-scripts/ (strict script-src, no inline scripts).
 function authScript(page: string): string {
-  for (const m of page.matchAll(/<script>([\s\S]*?)<\/script>/g)) {
-    if (m[1].includes("function safeNext(")) return m[1];
-  }
-  throw new Error("sign-in script with safeNext not found");
+  expect(page).toContain('<script src="/hub-scripts/sign-in.js"></script>');
+  const script = readFileSync(join(outDir, "hub-scripts/sign-in.js"), "utf8");
+  expect(script).toContain("function safeNext(");
+  return script;
 }
 
 // Pulls the helper out of the emitted page so the test runs the code a browser
 // would run, not a copy of it.
-function emittedSafeNext(page: string): (redirectUrl: string, origin: string) => string {
+function emittedSafeNext(html: string): (redirectUrl: string, origin: string) => string {
+  const page = authScript(html);
   const start = page.indexOf("function safeNext(");
   expect(start).toBeGreaterThan(-1);
   let depth = 0;
@@ -158,10 +160,10 @@ for (const name of PAGES) {
     });
 
     test("redirect_url passes through safeNext before any use", () => {
-      expect(pages[name]).toContain(
+      expect(authScript(pages[name])).toContain(
         "var redirectUrl = safeNext(params.get('redirect_url') || '/', window.location.origin);",
       );
-      expect(pages[name]).not.toContain("var redirectUrl = params.get('redirect_url')");
+      expect(authScript(pages[name])).not.toContain("var redirectUrl = params.get('redirect_url')");
     });
 
     test("a signed-in visitor with a hostile redirect_url is sent to /", async () => {
@@ -183,7 +185,7 @@ for (const name of PAGES) {
 
 describe("sign-in page: email_unverified message", () => {
   test("has an English message in the error map and an Indonesian catalog entry", () => {
-    const html = pages["sign-in.html"];
+    const html = authScript(pages["sign-in.html"]);
     expect(html).toContain(
       "email_unverified: 'Your Google email address is not verified. Verify it with Google, or sign in with your belajarcarabelajar.com account.'",
     );

@@ -284,6 +284,36 @@ describe("Cloudflare Pages Edge Middleware (functions/_middleware.ts)", () => {
     );
   });
 
+  // Hub pages run without 'unsafe-inline' in script-src; mdBook book pages
+  // keep the previous policy until their inline scripts are moved out.
+  const BOOK_POLICY = "default-src 'self'; script-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net https://cdnjs.cloudflare.com https://www.googletagmanager.com https://challenges.cloudflare.com https://static.cloudflareinsights.com; style-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net https://cdnjs.cloudflare.com https://fonts.googleapis.com; font-src 'self' data: https://fonts.gstatic.com https://cdn.jsdelivr.net https://cdnjs.cloudflare.com; img-src 'self' data: https:; media-src 'self' https:; connect-src 'self' https://www.google-analytics.com https://region1.google-analytics.com https://stats.g.doubleclick.net https://www.googletagmanager.com https://challenges.cloudflare.com https://fonts.googleapis.com https://fonts.gstatic.com https://accounts.google.com https://*.googleusercontent.com https://analytics.google.com https://www.google.com https://cloudflareinsights.com; frame-src 'self' https://challenges.cloudflare.com https://www.youtube-nocookie.com https://www.youtube.com; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; frame-ancestors 'none'";
+  const STRICT_POLICY = "default-src 'self'; script-src 'self' https://cdn.jsdelivr.net https://cdnjs.cloudflare.com https://www.googletagmanager.com https://challenges.cloudflare.com https://static.cloudflareinsights.com; style-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net https://cdnjs.cloudflare.com https://fonts.googleapis.com; font-src 'self' data: https://fonts.gstatic.com https://cdn.jsdelivr.net https://cdnjs.cloudflare.com; img-src 'self' data: https:; media-src 'self' https:; connect-src 'self' https://www.google-analytics.com https://region1.google-analytics.com https://stats.g.doubleclick.net https://www.googletagmanager.com https://challenges.cloudflare.com https://fonts.googleapis.com https://fonts.gstatic.com https://accounts.google.com https://*.googleusercontent.com https://analytics.google.com https://www.google.com https://cloudflareinsights.com; frame-src 'self' https://challenges.cloudflare.com https://www.youtube-nocookie.com https://www.youtube.com; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; frame-ancestors 'none'";
+
+  async function fallbackCsp(path: string): Promise<string | null> {
+    const env = createMockEnv();
+    const context = {
+      request: mockRequest(`https://example.com${path}`, {}, "US"),
+      env,
+      next: mock(async () => new Response("<html>x</html>", { status: 200 })),
+    };
+    const response = await onRequest(context as any);
+    return response.headers.get("Content-Security-Policy");
+  }
+
+  test("CSP fallback: a book path gets the book policy, which equals the previous policy", async () => {
+    const headers: Record<string, unknown> = await import("../../functions/lib/security-headers");
+    expect(headers.BOOK_CONTENT_SECURITY_POLICY).toBe(BOOK_POLICY);
+    expect(await fallbackCsp("/books/test-book/")).toBe(BOOK_POLICY);
+  });
+
+  test("CSP fallback: the hub home page gets the strict policy", async () => {
+    expect(await fallbackCsp("/")).toBe(STRICT_POLICY);
+  });
+
+  test("CSP fallback: a path that only starts with the letters books gets the strict policy", async () => {
+    expect(await fallbackCsp("/booksx")).toBe(STRICT_POLICY);
+  });
+
   test("does not override existing security headers (X-Frame-Options, X-Content-Type-Options, Referrer-Policy, Permissions-Policy)", async () => {
     const env = createMockEnv();
     const req = mockRequest("https://example.com/", {}, "US");
