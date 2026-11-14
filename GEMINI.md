@@ -152,16 +152,8 @@ This file contains critical architectural decisions and strict rules for the Daw
 - **`<div>` Wrapped Display Math:** All display math equations MUST be wrapped in `<div>\n$$ ... $$\n</div>` with blank lines before and after to prevent `pulldown-cmark` from parsing internal underscores into HTML `<em>` emphasis tags.
 - **Premium books:** this rule does not apply to verbatim premium books (no edition in the registry), which are published as is (section 30).
 
-## 17. Tool Routing Matrix: Context Mode vs Native Tools
-- **Use Context Mode (`ctx_execute`, `ctx_execute_file`, `ctx_batch_execute`) for:**
-  1. **Build & Deployment Operations:** Running `bun run build`, `migrate-to-d1.ts`, `deploy-website.sh`, or git status.
-  2. **Log & Data Processing:** Inspecting build logs, SQL queries, D1 outputs, or large JSON payloads.
-  3. **Automated Post-Flight Audits:** Running Node.js audit scripts to verify heading alignment, KaTeX formulas, and content hygiene across multiple chapters without loading raw file contents into conversation context.
-  4. **Documentation Lookup:** Fetching and indexing web pages or API docs via `ctx_fetch_and_index` + `ctx_search`.
-- **Use Native Tools (`view_file`, `write_to_file`, `replace_file_content`) for:**
-  1. **Book Content Authoring & Reading (Rule R14 & Rule R24):** Reading chapter source text line-by-line using `view_file`.
-  2. **Book Content Writing & Editing:** Writing cleaned chapter files using `write_to_file` and performing targeted edits via `replace_file_content`.
-  3. **Mandatory Post-Writing AI Verification:** Line-by-line verification of headings, 0 pronouns ("Anda"/"kamu"), 0 em-dashes (`—`), 0 emojis, and `<div>` display math.
+## 17. (Retired)
+- The number stays so the section numbers cited in code and docs keep pointing at the same rules. Reading and writing chapters: section 16. Builds, typecheck, tests and gates: section 19. The checks after writing a chapter (headings, "kamu" with no "Anda", no em dash, no emoji, protected display math) are in sections 9, 14, 16 and 24, and `bun run check:structure` enforces most of them.
 
 ## 18. Mandatory Author Git Commit & Push Identity Rule
 - **Iwan Kurniawan Identity (Default):**
