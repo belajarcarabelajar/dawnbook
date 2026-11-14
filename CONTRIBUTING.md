@@ -12,10 +12,10 @@ Thank you for your interest in contributing! This platform is an open-source hub
 ## How to Add a Chapter
 
 1. **Find the Target Book**: Navigate to the `books/` directory and find the folder of the book you want to contribute to (e.g., `books/piaget/`).
-2. **Create Markdown File**: Add your new chapter as a Markdown (`.md`) file inside the `src/` directory of that book.
-3. **Register in SUMMARY**: Open `src/SUMMARY.md` in that book's folder and add a link to your new chapter. Example:
+2. **Create the chapter file**: add it as `src/content/NN_kebab-case-name.md` in that book: a two-digit number, then lowercase words joined by hyphens (e.g. `src/content/05_proses-asimilasi.md`). Never put a chapter directly in `src/`: mdBook compiles every Markdown file there, and the page would appear twice.
+3. **Title and SUMMARY**: start the file with a level-2 heading (`## Proses Asimilasi`), and add the same title to the book's `src/SUMMARY.md`:
    ```markdown
-   - [My New Chapter](./my-new-chapter.md)
+   - [Proses Asimilasi](content/05_proses-asimilasi.md)
    ```
 4. **Test Locally**: Run `bun run build` to ensure your changes build cleanly.
 5. **Open a PR**: Fill out the Pull Request template completely, describing your changes and confirming the originality of your work.
@@ -142,7 +142,7 @@ mdBook parses chapters with **pulldown-cmark**, which removes a backslash in fro
 
 ### Validation
 
-Read each formula in the built page (`bun run build`, then open `output/books/<slug>/`). `bun scripts/check-latex-support.ts` is an optional extra check and is not part of the build. It does not know the protected-block rule, so it flags a correct `\%` inside a protected block.
+Read each formula in the built page (`bun run build`, then open `output/books/<slug>/`). `bun scripts/check-latex-support.ts` is an optional extra check and is not part of the build. It checks percent signs by context: `\text{\%}` in ordinary math, `\%` inside a protected block.
 
 ## Embedding media
 
