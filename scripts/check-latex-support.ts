@@ -1,6 +1,7 @@
 import { readdir, readFile } from "node:fs/promises";
 import { join, basename } from "node:path";
 import katex from "katex";
+import { isProtectedDisplay, percentViolation } from "./lib/latex-percent";
 
 function checkMultiLetterVariables(math: string): string[] | null {
   // Strip out known math commands and formatting blocks:
@@ -67,9 +68,9 @@ async function checkFile(filePath: string, bookName: string): Promise<boolean> {
     let match;
     while ((match = inlineRegex.exec(line)) !== null) {
       const math = match[1].trim();
-      // Check for unescaped percentage symbols outside \text{}
-      if (/(?<!\\text\{[^}]*)%/g.test(math) && !math.includes('\\text{\\%}')) {
-        console.error(`❌ [FAIL] ${bookName}/${basename(filePath)}: Line ${idx + 1} has unescaped percentage symbol in inline math. Must use '\\text{\\%}': \\(${math}\\)`);
+      const percent = percentViolation(math, "ordinary");
+      if (percent) {
+        console.error(`❌ [FAIL] ${bookName}/${basename(filePath)}: Line ${idx + 1} ${percent}: \\(${math}\\)`);
         hasErrors = true;
       }
       
@@ -96,9 +97,9 @@ async function checkFile(filePath: string, bookName: string): Promise<boolean> {
     const offset = match.index;
     const lineNum = content.substring(0, offset).split('\n').length;
     
-    // Check for unescaped percentage symbols outside \text{}
-    if (/(?<!\\text\{[^}]*)%/g.test(math) && !math.includes('\\text{\\%}')) {
-      console.error(`❌ [FAIL] ${bookName}/${basename(filePath)}: Line ${lineNum} has unescaped percentage symbol in block math. Must use '\\text{\\%}': \\[${math}\\]`);
+    const percent = percentViolation(math, "ordinary");
+    if (percent) {
+      console.error(`❌ [FAIL] ${bookName}/${basename(filePath)}: Line ${lineNum} ${percent}: \\[${math}\\]`);
       hasErrors = true;
     }
 
@@ -123,8 +124,10 @@ async function checkFile(filePath: string, bookName: string): Promise<boolean> {
     const offset = match.index;
     const lineNum = content.substring(0, offset).split('\n').length;
 
-    if (/(?<!\\text\{[^}]*)%/g.test(math) && !math.includes('\\text{\\%}')) {
-      console.error(`❌ [FAIL] ${bookName}/${basename(filePath)}: Line ${lineNum} has unescaped percentage symbol in block math. Must use '\\text{\\%}': $$${math}$$`);
+    const context = isProtectedDisplay(content, offset, offset + match[0].length) ? "protected" : "ordinary";
+    const percent = percentViolation(math, context);
+    if (percent) {
+      console.error(`❌ [FAIL] ${bookName}/${basename(filePath)}: Line ${lineNum} ${percent}: $$${math}$$`);
       hasErrors = true;
     }
 
