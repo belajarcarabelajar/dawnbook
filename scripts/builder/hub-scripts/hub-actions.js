@@ -9,9 +9,6 @@
     "copy-account": function () {
       window.copyAccountNumber();
     },
-    reload: function () {
-      window.location.reload();
-    },
   };
 
   // Capture phase on the document, so a pin click is stopped before the card

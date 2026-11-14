@@ -385,6 +385,13 @@ This file contains critical architectural decisions and strict rules for the Daw
 - **After a deploy that changes these rules:** resubmit the sitemap with the owner's write-scope OAuth token (`GSC_OAUTH_REFRESH_TOKEN_TULIS` in `~/cloudflare/.env`), and the owner starts "Validate fix" in Search Console for the affected reasons.
 - **Revert:** delete `public/404.html` and `public/_redirects`; revert the pull request of plan `2026-11-07-gsc-coverage-fixes` for the code changes and this section.
 
+## 32. No Inline Scripts on Hub Pages (Added 2026-11-14)
+- **Why:** hub pages (every path outside `/books/`, including `offline.html`) are served with a `script-src` without `'unsafe-inline'` (`CONTENT_SECURITY_POLICY` in `functions/lib/security-headers.ts`), so the browser blocks any inline `<script>`, `on*=` attribute or `javascript:` link there. Book pages keep `'unsafe-inline'` (`BOOK_CONTENT_SECURITY_POLICY`) because mdBook and `scripts/inject-gating.ts` still emit inline scripts.
+- **Rule:** a new hub script goes in `scripts/builder/hub-scripts/<name>.js`, is copied to `output/hub-scripts/` by `generateSitePages` in `scripts/builder/template-engine.ts`, and is loaded with `<script src="/hub-scripts/<name>.js">`. Scripts built from other sources (`hub-runtime.js`, `i18n.js`, `gtag-init.js`) are written to the same folder by that function. A click handler is a `data-action="<name>"` (or `data-pin="<slug>"`) attribute plus a matching entry in the `actions` map of `hub-actions.js`, never an `onclick`. JSON data blocks (`type="application/ld+json"`) are allowed.
+- **Offline page:** `public/offline.html` and `scripts/public/offline.html` load no script at all, because a browser that is really offline cannot fetch `/hub-scripts/`. Retry is `<a class="retry" href="">`: the service worker serves the offline page in place of the requested URL, so an empty `href` asks for that URL again.
+- **Check:** `HEAVY_LOCAL=tests bun test tests/scripts/hub-inline-scripts.test.ts` renders every hub page and both offline pages and fails on an inline script, an event handler attribute, a `javascript:` link, a same-origin script file that is missing, or any script on the offline pages.
+- **Revert:** remove this section; the code side is the pull request of plan `2026-11-14-securityheaders-a-plus` (strict `script-src` for hub pages).
+
 ---
 **Last Updated:** Ensure you read this file before making sweeping changes to CSS, mdBook configurations, or progress tracking logic to avoid returning the project to "factory defaults" or introducing regressions.
 
