@@ -1,18 +1,18 @@
 ## Antropoid dan Kerabat Terdekat Manusia
 
-Seekor orangutan di balik kaca kebun binatang tampak meniru gerakan tangan penjaganya dengan begitu mirip sampai pengunjung yang menonton terdiam.
+Ada rasa ganjil ketika kamu melihat gerakanmu sendiri muncul pada tubuh makhluk lain, seperti pada seekor orangutan di balik kaca kebun binatang.
 
-Lestari, tokoh rekaan bab ini, menyaksikannya dari depan kandang. Penjaga di sana baru saja menyeka dahi dengan punggung tangan. Beberapa detik kemudian, lengan panjang berbulu jingga di balik kaca melakukan hal yang sama. Lestari tertawa, lalu terdiam cukup lama. Ada rasa ganjil ketika kamu melihat gerakanmu sendiri muncul pada tubuh makhluk lain, dan untuk kemiripan itu ada sebuah kata Yunani.
+Untuk kemiripan itu ada sebuah kata Yunani.
 
 ### Rupa yang Menyerupai Manusia
 
-Kata antropoid berasal dari ἀνθρωποειδής (*anthrōpoeidēs*), gabungan *anthrōpos* dengan akhiran *-eidēs* yang berarti serupa dalam bentuk. Dalam bahasa Inggris kata ini punya dua pemakaian menurut [Wiktionary](https://en.wiktionary.org/wiki/anthropoid), untuk sesuatu yang menyerupai manusia dan untuk seekor kera. Kedua arti itu berdiri berdampingan di depan kandang tadi. Lestari melihat makhluk yang serupa dirinya, dan makhluk itu memang seekor kera.
+Kata antropoid berasal dari ἀνθρωποειδής (*anthrōpoeidēs*), gabungan *anthrōpos* dengan akhiran *-eidēs* yang berarti serupa dalam bentuk. Dalam bahasa Inggris kata ini punya dua pemakaian menurut [Wiktionary](https://en.wiktionary.org/wiki/anthropoid), untuk sesuatu yang menyerupai manusia dan untuk seekor kera. Kedua arti itu bisa berlaku pada makhluk yang sama, karena orangutan yang tampak serupa manusia memang seekor kera.
 
 ### Kera, Monyet, dan Tempat Manusia
 
 Dalam ilmu primata, antropoid adalah nama sebuah kelompok, dan kelompok ini punya dua nama. Anthropoidea dan Simiiformes menunjuk himpunan hewan yang sama, yang kini ditempatkan sebagai infraordo di dalam primata haplorhini. Skema yang lebih tua menjadikan Anthropoidea sebuah subordo yang berhadapan dengan prosimian. Nama mana yang lebih berhak didahulukan masih diperdebatkan para ahli, seperti dirangkum [artikel Wikipedia tentang simian](https://en.wikipedia.org/wiki/Simiiformes).
 
-Para simian terbagi menjadi dua cabang. Monyet Dunia Baru berada dalam Platyrrhini, sementara monyet Dunia Lama dan kera berkumpul dalam Catarrhini. Di antara kera, [owa atau gibon](https://en.wikipedia.org/wiki/Gibbon) tergolong kera kecil. Kera besar terdiri atas simpanse, gorila, orangutan, dan manusia. Orangutan di balik kaca dan Lestari di depannya sama-sama kera besar, sama-sama anggota Hominoidea, dan tidak ada anak tangga yang menaruh salah satunya di puncak.
+Para simian terbagi menjadi dua cabang. Monyet Dunia Baru berada dalam Platyrrhini, sementara monyet Dunia Lama dan kera berkumpul dalam Catarrhini. Di antara kera, [owa atau gibon](https://en.wikipedia.org/wiki/Gibbon) tergolong kera kecil. Kera besar terdiri atas simpanse, gorila, orangutan, dan manusia. Orangutan dan kamu yang sedang membaca halaman ini sama-sama kera besar, sama-sama anggota Hominoidea, dan tidak ada anak tangga yang menaruh salah satunya di puncak.
 
 Tarsius ikut menggeser garis lama itu. Hewan ini ditempatkan bersama simian dalam Haplorhini, sehingga kata prosimian tidak lagi bisa dipakai sebagai lawan kata antropoid.
 
@@ -42,4 +42,4 @@ Bahan bakunya diam, maka ilmunya meminjam dari banyak arah. Paleoantropologi ber
 - Genom manusia dan simpanse hampir 99 persen atau sekitar 96 persen identik, tergantung cara menghitungnya, dan kromosom 2 manusia lahir dari penyatuan dua kromosom leluhur.
 - Komunitas simpanse dalam tujuh penelitian jangka panjang menunjukkan kebiasaan yang berbeda satu sama lain, dan satu kelompok yang diamati merawat betina tuanya yang sekarat tanpa simbol atau upacara kematian.
 
-Suatu hari orangutan itu akan mati, begitu pula Lestari dan penjaganya. Sebagian kecil tubuh semacam itu, kadang hanya sepotong tulang atau sebaris jejak kaki, akhirnya terkunci di dalam batuan. Lalu kamu boleh bertanya, jejak seperti apa yang sedang ditinggalkan manusia hari ini di lapisan bumi?
+Sebagian kecil tubuh kera dan tubuh manusia, kadang hanya sepotong tulang atau sebaris jejak kaki, akhirnya terkunci di dalam batuan. Jejak seperti apa yang sedang ditinggalkan manusia hari ini di lapisan bumi?

@@ -10,9 +10,9 @@ Kata sifat itu, φιλάνθρωπος (*philanthrōpos*), berarti mencintai uma
 
 Kamus masa kini memberi makna yang lebar. Entri [*philanthropy*](https://en.wiktionary.org/wiki/philanthropy) mencakup niat baik kepada sesama manusia sekaligus kegiatan menyumbang untuk tujuan amal. Di kalangan pegiat, kamu akan sering mendengar pembedaan lain. Amal dipahami sebagai pertolongan untuk kebutuhan hari ini, sedangkan filantropi diarahkan pada akar masalah. Pembedaan itu berguna sebagai cara berpikir, walau kamus tidak mencatatnya sebagai definisi.
 
-Bayangkan Dimas, seorang karyawan muda dalam contoh rekaan, punya sedikit uang lebih di akhir bulan. Ia bisa menyumbang untuk paket sembako yang dibagikan pekan ini. Ia juga bisa ikut membiayai kursus menjahit yang membuka jalan ke penghasilan baru bagi para pesertanya. Dalam kerangka para pegiat tadi, pilihan pertama disebut amal dan pilihan kedua lebih dekat ke filantropi. Keduanya berangkat dari rasa peduli yang sama.
+Misalnya, di akhir bulan ada sedikit uang lebih di tanganmu. Uang itu bisa menjadi sumbangan untuk paket sembako yang dibagikan pekan ini, atau ikut membiayai kursus menjahit yang membuka jalan ke penghasilan baru bagi para pesertanya. Dalam kerangka para pegiat tadi, pilihan pertama disebut amal dan pilihan kedua lebih dekat ke filantropi. Keduanya berangkat dari rasa peduli yang sama.
 
-Lingkungan pengelolaan persembahan gereja dan dunia penggalangan dana juga akrab dengan ungkapan *time, talent, treasure*, yakni waktu, keahlian, dan harta. Ungkapan sederhana ini mengingatkan Dimas bahwa yang ia berikan bisa berupa jam kerja dan keterampilan, selain uang.
+Lingkungan pengelolaan persembahan gereja dan dunia penggalangan dana juga akrab dengan ungkapan *time, talent, treasure*, yakni waktu, keahlian, dan harta. Ungkapan sederhana ini mengingatkan bahwa sebuah pemberian bisa berupa jam kerja dan keterampilan, selain uang.
 
 ### Wakaf, Yayasan, dan Umur Panjang Sebuah Pemberian
 

@@ -2,13 +2,13 @@
 
 Sebelas kata utama yang kamu temui di buku ini, dari antropologi sampai likantropi, tumbuh dari satu akar Yunani dan muat dicatat di satu halaman.
 
-Gilang, tokoh rekaan bab ini, menuliskannya di sebuah halaman buku catatan. Di pojok kiri atas ia menulis akar itu besar-besar, ἄνθρωπος (*anthrōpos*), lalu menarik garis lurus ke bawah. Di sepanjang garis itu berbaris antropologi, filantropi, misantropi, antropomorfisme, antroposentrisme, antropoid, Antroposen, antropometri, antroponimi, antropofagi, dan likantropi. Di samping setiap kata ada coretan kecil berisi unsur Yunani yang menjadi pasangannya. Tinta birunya rapi di baris-baris awal, lalu makin miring di bagian bawah, tempat kata-kata yang ia catat terburu-buru selepas kelas. Di beberapa baris masih ada tanda tanya, bekas keraguan yang belum sempat ia hapus.
+Akar itu adalah ἄνθρωπος (*anthrōpos*), manusia. Dari akar itu tumbuh antropologi, filantropi, misantropi, antropomorfisme, antroposentrisme, antropoid, Antroposen, antropometri, antroponimi, antropofagi, dan likantropi. Setiap kata itu menggandeng satu unsur Yunani lain sebagai pasangan.
 
-Sekilas halaman itu mirip daftar hafalan menjelang ujian. Kalau dibaca pelan, ia lebih menyerupai peta. Kata yang sama muncul di ruang kuliah, di meja yayasan amal, di catatan para pengamat primata, di perdebatan para ahli lapisan batuan, dan di cerita seram tentang serigala. Bab penutup ini mengajak kamu membaca ulang halaman Gilang itu dengan bekal dua belas bab sebelumnya.
+Sekilas, sebelas kata itu mirip deretan hafalan menjelang ujian. Kalau dibaca pelan, ia lebih menyerupai peta. Kata yang sama muncul di ruang kuliah, di meja yayasan amal, di catatan para pengamat primata, di perdebatan para ahli lapisan batuan, dan di cerita seram tentang serigala. Bab penutup ini mengajak kamu membaca ulang deretan itu dengan bekal dua belas bab sebelumnya.
 
 ### Ilmu, Sikap, dan Cara Memandang
 
-Sebagian pasangan di halaman Gilang menghasilkan nama ilmu. Antropologi merangkai *anthrōpos* dengan akhiran *-logia* lewat bahasa Latin Baru, dan di bab 2 kamu sudah melihat bagaimana ilmu ini memandang manusia secara utuh. Antropometri menggandeng μέτρον (*metron*), ukuran, untuk mengukur tubuh manusia seperti yang diurai di bab 9. Antroponimi meminjam ὄνομα (*onoma*), nama, dan menjadi kajian tentang nama diri manusia di bab 10.
+Sebagian pasangan itu menghasilkan nama ilmu. Antropologi merangkai *anthrōpos* dengan akhiran *-logia* lewat bahasa Latin Baru, dan di bab 2 kamu sudah melihat bagaimana ilmu ini memandang manusia secara utuh. Antropometri menggandeng μέτρον (*metron*), ukuran, untuk mengukur tubuh manusia seperti yang diurai di bab 9. Antroponimi meminjam ὄνομα (*onoma*), nama, dan menjadi kajian tentang nama diri manusia di bab 10.
 
 Kelompok kedua menamai sikap terhadap sesama. Filantropi berasal dari φιλανθρωπία (*philanthrōpia*), turunan kata sifat yang berarti mencintai umat manusia, dan kisahnya terbentang di bab 3. Misantropi memasangkan akar yang sama dengan μῖσος (*mîsos*), kebencian. Di bab 4 kata itu dibahas sebagai sikap terhadap sesama. Dua kata itu berbagi akar dan berdiri di kutub perasaan yang berseberangan.
 
@@ -20,7 +20,7 @@ Dua kata lain membawa akar ini ke kerabat primata dan ke Bumi. Antropoid menempe
 
 Kelompok terakhir berasal dari sejarah dan mitos. Antropofagi memadukan *anthrōpos* dengan φαγεῖν (*phagein*), makan, untuk praktik memakan daging manusia yang ditelusuri di bab 11. Likantropi memadukannya dengan λύκος (*lykos*), serigala, dan di bab 12 kata itu menamai manusia serigala dalam mitos sekaligus delusi seseorang yang merasa berubah menjadi hewan.
 
-Kalau coretan Gilang disusun ulang menurut bidangnya, dengan arti unsur pasangan di ujung setiap cabang, halaman itu berubah menjadi bagan berikut.
+Contohnya, kamu menuliskan kesebelas kata itu di satu halaman buku catatan, dengan akar ἄνθρωπος besar-besar di pojok kiri atas dan coretan kecil berisi unsur pasangan di samping setiap kata. Kalau coretan itu disusun ulang menurut bidangnya, dengan arti unsur pasangan di ujung setiap cabang, halaman itu berubah menjadi bagan berikut.
 
 ```mermaid
 flowchart LR
@@ -44,10 +44,10 @@ Satu hal tampak jelas dari bagan itu. Di hampir setiap kata, *anthrōpos* hadir 
 
 Arah pandangnya pun berganti-ganti. Dalam antropologi, antropometri, dan antroponimi, manusia menatap dirinya sendiri, entah lewat budaya, ukuran tubuh, atau nama. Dalam antropomorfisme, manusia meminjamkan rupanya kepada hal lain. Antropoid membalik arah itu, karena di sana makhluk lain yang dinilai serupa dengan manusia. Dua kata terakhir ini sama-sama memakai unsur yang berurusan dengan rupa, *morphē* dan *-eidēs*, dan perbedaan arahnya hanya terbaca kalau kamu tahu pasangan mana yang dipakai.
 
-Gilang juga perlu berhati-hati ketika menambah kata ke halamannya. Di bab 1 *anthrōpos* sudah dipisahkan dari *anēr*, sehingga kata berawalan andro- seperti androgini berasal dari akar lain dan tidak masuk ke kolom ini. Di bab 1 pula kamu membaca bahwa asal-usul *anthrōpos* sendiri belum pasti. Kata yang menamai begitu banyak bidang ternyata belum punya silsilah yang tuntas.
+Hati-hati juga ketika kamu menambah kata ke keluarga ini. Di bab 1 *anthrōpos* sudah dipisahkan dari *anēr*, sehingga kata berawalan andro- seperti androgini berasal dari akar lain dan tidak ikut dihitung di sini. Di bab 1 pula kamu membaca bahwa asal-usul *anthrōpos* sendiri belum pasti. Kata yang menamai begitu banyak bidang ternyata belum punya silsilah yang tuntas.
 
-Halaman itu juga menyimpan pelajaran tentang cara membaca istilah asing. Ketika kamu bertemu kata baru yang diawali antropo- atau berakhiran -antropi, cari dulu pasangannya. Begitu pasangannya ditemukan, separuh maknanya biasanya sudah terbuka, dan sisanya bisa kamu periksa di kamus yang baik.
+Keluarga kata ini juga menyimpan pelajaran tentang cara membaca istilah asing. Ketika kamu bertemu kata baru yang diawali antropo- atau berakhiran -antropi, cari dulu pasangannya. Begitu pasangannya ditemukan, separuh maknanya biasanya sudah terbuka, dan sisanya bisa kamu periksa di kamus yang baik.
 
 ### Penutup
 
-Halaman Gilang tetap satu lembar, dan sebagian besar tanda tanyanya kini sudah punya keterangan. Satu akar yang berarti manusia bergabung dengan *-logia*, cinta, kebencian, rupa, keserupaan, pusat, baru, ukuran, nama, makan, dan serigala, lalu menamai bidang yang sangat berbeda, dari ruang kuliah sampai mitos. Sebagian kisahnya masih menyisakan perdebatan, seperti makna ucapan Protagoras dan asal kata *anthrōpos* itu sendiri. Menyimpan keraguan semacam itu di pinggir halaman sama pentingnya dengan menulis jawabannya.
+Sebelas kata itu masih muat dalam satu daftar pendek, dan sebagian besar pertanyaan tentang kata-kata itu kini sudah terjawab. Satu akar yang berarti manusia bergabung dengan *-logia*, cinta, kebencian, rupa, keserupaan, pusat, baru, ukuran, nama, makan, dan serigala, lalu menamai bidang yang sangat berbeda, dari ruang kuliah sampai mitos. Sebagian kisahnya masih menyisakan perdebatan, seperti makna ucapan Protagoras dan asal kata *anthrōpos* itu sendiri. Menyimpan keraguan semacam itu di samping jawabannya sama pentingnya dengan menulis jawaban itu sendiri.
