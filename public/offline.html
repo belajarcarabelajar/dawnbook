@@ -20,7 +20,9 @@
         }
         h1 { margin-bottom: 8px; }
         p { color: #9e9e9e; }
-        button {
+        .retry {
+            display: inline-block;
+            text-decoration: none;
             margin-top: 24px;
             padding: 10px 20px;
             background: #ffffff;
@@ -31,11 +33,10 @@
             font-weight: bold;
         }
     </style>
-    <script src="/hub-scripts/hub-actions.js" defer></script>
 </head>
 <body>
     <h1>You are offline</h1>
     <p>Please check your internet connection and try again.</p>
-    <button type="button" data-action="reload">Retry</button>
+    <a class="retry" href="">Retry</a>
 </body>
 </html>

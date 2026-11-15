@@ -60,6 +60,10 @@ function inlineScripts(html: string): string[] {
   return found;
 }
 
+function scriptTags(html: string): string[] {
+  return [...html.matchAll(/<script\b[^>]*>/gi)].map((m) => m[0]);
+}
+
 function handlerAttributes(html: string): string[] {
   const found: string[] = [];
   for (const m of html.matchAll(/<[a-zA-Z][^>]*>/g)) {
@@ -151,9 +155,20 @@ describe("former inline handlers are data attributes", () => {
     expect(tags[0]).toContain('id="copy-btn"');
   });
 
-  test("the offline retry button carries data-action=reload", () => {
+  // A browser that is truly offline cannot fetch /hub-scripts/, so the offline
+  // page must work with no script at all.
+  test("both offline pages load no script", () => {
     for (const name of ["public/offline.html", "scripts/public/offline.html"]) {
-      expect([name, tagsWith(pages[name], 'data-action="reload"').length]).toEqual([name, 1]);
+      expect([name, scriptTags(pages[name])]).toEqual([name, []]);
+    }
+  });
+
+  test("the offline Retry control is a plain link to the current URL", () => {
+    for (const name of ["public/offline.html", "scripts/public/offline.html"]) {
+      const html = pages[name];
+      const links = [...html.matchAll(/<a\b([^>]*)>\s*Retry\s*<\/a>/g)].map((m) => m[1]);
+      expect([name, links.length, links.every((a) => / href=""/.test(a))]).toEqual([name, 1, true]);
+      expect([name, /<button\b/i.test(html), html.includes("data-action")]).toEqual([name, false, false]);
     }
   });
 
@@ -218,11 +233,9 @@ describe("hub-actions.js wires the data attributes", () => {
     click(listeners, { "data-action": "toggle-theme" });
     click(listeners, { "data-action": "toggle-menu" });
     click(listeners, { "data-action": "copy-account" });
-    click(listeners, { "data-action": "reload" });
     expect(window.toggleTheme).toHaveBeenCalledTimes(1);
     expect(window.toggleMenu).toHaveBeenCalledTimes(1);
     expect(window.copyAccountNumber).toHaveBeenCalledTimes(1);
-    expect(window.location.reload).toHaveBeenCalledTimes(1);
   });
 
   test("data-pin calls togglePin with the event and the slug", () => {
@@ -235,6 +248,8 @@ describe("hub-actions.js wires the data attributes", () => {
   test("an unknown data-action (the Turnstile widget's) does nothing", () => {
     const { listeners, window } = load();
     expect(() => click(listeners, { "data-action": "turnstile-spin-v2" })).not.toThrow();
+    // No page uses "reload" since the offline Retry became a link.
+    expect(() => click(listeners, { "data-action": "reload" })).not.toThrow();
     expect(window.toggleTheme).toHaveBeenCalledTimes(0);
     expect(window.toggleMenu).toHaveBeenCalledTimes(0);
     expect(window.togglePin).toHaveBeenCalledTimes(0);
