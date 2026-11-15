@@ -4,10 +4,15 @@ import path from "node:path";
 
 // GEMINI.md section 14, "Unique icon" (owner rule, 2026-11-15): a book's icon.txt emoji is
 // used by no other book and is never a stock pick. Books that existed before the rule are
-// grandfathered; any book not listed here must pass both checks.
+// grandfathered; any book not listed here must pass both checks. The three premium slugs
+// (data/premium-books.json) predate the rule too; their text is synced in only on checkouts
+// that hold the private sources, so a worktree without them still passes.
 const BOOKS = path.join(import.meta.dir, "..", "..", "books");
 
 const GRANDFATHERED = new Set([
+  "100-study-hacks",
+  "belajar-cara-belajar",
+  "lancar-nugas",
   "aerodinamika-dan-desain-airfoil",
   "analisis-ekspresif-9-summers-10-autumns",
   "analisis-wacana-kritis-awk-dalam-kriminologi",
@@ -111,7 +116,7 @@ export function iconProblems(all: Map<string, string>, grandfathered: Set<string
 describe("book icons", () => {
   test("every book added after 2026-11-15 has a unique, non-stock icon", () => {
     const all = icons();
-    expect(all.size).toBeGreaterThan(GRANDFATHERED.size);
+    expect([...all.keys()].some((slug) => !GRANDFATHERED.has(slug))).toBe(true);
     expect(iconProblems(all, GRANDFATHERED)).toEqual([]);
   });
 
