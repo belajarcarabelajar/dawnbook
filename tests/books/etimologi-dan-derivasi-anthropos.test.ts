@@ -1,6 +1,5 @@
 import { describe, expect, test } from "bun:test";
 import fs from "node:fs";
-import os from "node:os";
 import path from "node:path";
 import { checkBookStructure, extractLinkTargets, extractUrls } from "../../scripts/check-book-structure";
 import { escapeHtml, extractLeadText, formatSerpDescription } from "../../scripts/inject-gating";
@@ -90,11 +89,9 @@ function metaOutOfRange(meta: string): boolean {
 }
 
 // The owner's notes are private study material, so they stay outside the repository and the scan reads them at run time.
-const SOURCE =
-  process.env.DAWNBOOK_ETA_SOURCE ??
-  path.join(os.homedir(), ".config/dawnbook/private-notes/etimologi-dan-derivasi-anthropos.source.md");
-const SOURCE_EXISTS = fs.existsSync(SOURCE);
-if (!SOURCE_EXISTS) console.warn(`source overlap scan skipped: owner's notes not found at ${SOURCE}`);
+const SOURCE = process.env.DAWNBOOK_ETA_SOURCE ?? "";
+const SOURCE_EXISTS = SOURCE !== "" && fs.existsSync(SOURCE);
+if (!SOURCE_EXISTS) console.warn("source overlap scan skipped: set DAWNBOOK_ETA_SOURCE to the owner's notes file");
 
 function words(text: string): string[] {
   return text

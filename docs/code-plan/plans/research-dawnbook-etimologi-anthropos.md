@@ -5,7 +5,7 @@ Collected: 2026-11-15
 
 ## 1. Method
 
-- Base text: the owner's own study notes on the topic (12 modules, a local Markdown file outside this repository; path in the book test). Chapter authors read their line range there; these notes do not copy it. The notes carry no references.
+- Base text: the owner's own study notes on the topic (12 modules, a local Markdown file outside this repository, read through the environment variable named in the book test). Chapter authors read their part there; these notes do not copy it. The notes carry no references.
 - Every factual claim the chapters may keep was checked by four read-only researchers (aqua x2, timid x2; 55, 60, 72 and 73 tool calls) with TinyFish `search` and `fetch_content` on 2026-11-15, plus three parent fetches (Diogenes Laertius on Perseus, the Donner party page of the U.S. National Park Service, an Open Library record). Each item gives the verified fact in paraphrase and its source row (section 9).
 - Status words: CONFIRMED (state it), CORRECTED (state the corrected fact directly, with no mention of the old wording), HEDGE (state it with the hedge given), DROP and UNVERIFIED (leave it out of the book; an invented example may stay only as a clearly hypothetical scene with no factual claim).
 - etymonline.com and most Britannica pages refused automated fetches, so they are not cited. Rows marked "Wikipedia fallback" are the best fetched source for that fact.

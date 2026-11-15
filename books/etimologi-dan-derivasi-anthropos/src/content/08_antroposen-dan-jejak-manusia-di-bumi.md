@@ -2,7 +2,7 @@
 
 Jika kelak seorang ahli geologi menggali bebatuan Bumi jauh di masa depan, apa yang akan dia temukan di lapisan batu yang sedang kita tinggalkan?
 
-Bayangkan saja dia bernama Rara, tokoh rekaan yang berdiri di depan tebing berlapis-lapis dan membaca batuan seperti halaman buku. Di lapisan bawah, dia mungkin hanya menjumpai lumpur dan sisa tumbuhan. Di dekat puncak, barangkali muncul hal yang ganjil, seperti butiran plastik, kepingan aluminium, dan jejak plutonium. Sejak tahun 2000 hingga 2024, para ilmuwan memperdebatkan apakah lapisan semacam itu layak diberi nama sendiri, Antroposen.
+Bayangkan saja dia bernama Rara, tokoh rekaan yang berdiri di depan tebing berlapis-lapis dan membaca batuan seperti halaman buku. Di lapisan bawah, dia mungkin hanya menjumpai lumpur dan sisa tumbuhan. Di dekat puncak, barangkali muncul hal yang ganjil, seperti butiran plastik dan jejak plutonium. Sejak tahun 2000 hingga 2024, para ilmuwan memperdebatkan apakah lapisan semacam itu layak diberi nama sendiri, Antroposen.
 
 ### Kala Baru yang Dinamai dari Manusia
 
@@ -37,9 +37,7 @@ timeline
 
 Lepas dari soal status resmi, beberapa angka tentang Bumi hari ini bisa dibaca langsung. Rata-rata tahunan karbon dioksida di atmosfer global mencapai 422,8 ppm pada 2024, menurut data NOAA yang dirangkum [Climate.gov](https://climate.gov/news-features/understanding-climate/climate-change-atmospheric-carbon-dioxide). Inti es menunjukkan kadarnya tidak pernah melewati 300 ppm selama 800.000 tahun terakhir dan berada di sekitar 280 ppm sebelum Revolusi Industri.
 
-Sisa teknosfer yang bisa terawetkan disebut teknofosil. Salah satu contoh dalam [kajian Zalasiewicz dan rekan-rekannya tahun 2014](https://nora.nerc.ac.uk/id/eprint/506920/1/Zalasiewicz%20et%20al.%202014.pdf) adalah aluminium, logam yang di alam jarang dijumpai dalam bentuk murni. Jumlah yang sudah dibuat manusia, menurut perkiraan mereka, sedikitnya 500 juta ton, dan hampir semuanya sejak 1950. Benda semacam inilah yang mungkin kelak menyambut palu Rara.
-
-Plastik juga sampai ke tempat yang jauh dari pabrik. Kesebelas sampel salju yang diambil Napper dan rekan (2020) dari Gunung Everest mengandung mikroplastik, dengan kadar tertinggi di *base camp* dan sebagian di ketinggian 8.440 meter, seperti diliput [Science News](https://sciencenews.org/article/plastics-remote-places-microplastics-earth-mount-everest).
+Butiran plastik, salah satu benda yang mungkin kelak ditemui Rara, sampai ke tempat yang jauh dari pabrik. Kesebelas sampel salju yang diambil Napper dan rekan (2020) dari Gunung Everest mengandung mikroplastik, dengan kadar tertinggi di *base camp* dan sebagian di ketinggian 8.440 meter, seperti diliput [Science News](https://sciencenews.org/article/plastics-remote-places-microplastics-earth-mount-everest).
 
 ### Spesies yang Hilang dan Batas Suhu
 

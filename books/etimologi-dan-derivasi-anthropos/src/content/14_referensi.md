@@ -88,7 +88,6 @@ Sumber di bawah ini dikelompokkan menurut urutan bab, sehingga kamu bisa menelus
 - Subcommission on Quaternary Stratigraphy. [Working Group on the 'Anthropocene'](https://quaternary.stratigraphy.org/working-groups/anthropocene)
 - IUGS dan ICS (2024). [Joint statement by the IUGS and ICS on the vote by the ICS Subcommission on Quaternary Stratigraphy](https://stratigraphy.org/news/152)
 - NOAA. [Climate change: atmospheric carbon dioxide](https://climate.gov/news-features/understanding-climate/climate-change-atmospheric-carbon-dioxide)
-- Zalasiewicz et al. (2014). [The technofossil record of humans](https://nora.nerc.ac.uk/id/eprint/506920/1/Zalasiewicz%20et%20al.%202014.pdf)
 - UNFCCC. [The Paris Agreement](https://unfccc.int/process-and-meetings/the-paris-agreement)
 - Ceballos et al. (2015). [Accelerated modern human-induced species losses: Entering the sixth mass extinction](https://mahb.stanford.edu/wp-content/uploads/2015/07/2015_Ceballos-Ehrlich-Barnosky-Accelerated-Mass-Extinction.pdf)
 - USGS. [EarthWord: Anthropogenic](https://www.usgs.gov/news/earthword-anthropogenic)

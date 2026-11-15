@@ -266,8 +266,8 @@ Source: the owner chose the topic and supplied study notes (a local Markdown fil
 - [x] Audit (V1): parent line-by-line read of every chapter plus scans; diagrams rendered. Evidence: parent read chapters 01-14 in full; fixes: ch06 crutch words 5 to 3, openers of ch05, 06, 07, 09, 10, 13 no longer start "Bayangkan <name>" (each fictional character still marked as invented), ch07 title backed by the Broad release (S59, "our closest living relatives", added to note C5), Referensi +6 chapter-cited studies (10363 B), ch13 diagram rebuilt as flowchart LR (616 px, was 1076 px with split words); pre-edit copies in ~/.cache/tmp/dawnbook-etimologi-anthropos/pre-v1/; `check-voice` exit 0, `check-book-structure` exit 0 (14 chapters, 0 problems), `check-heading-colons` exit 0 (0 violations), book test exit 0 (18 pass, 0 fail), `diagrams:render --prune` exit 0 (rendered 1, cached 2, pruned 1), `check:diagrams --book` exit 0.
 - [x] Gates (V2): every run[] step exit 0, SEO validation passed in the NVMe build. Evidence: `bun ~/vivera/scripts/ultra-plan-runner.mjs <plan> --execute` exit 0, V2 PASSED, Error Ledger empty (log ~/.cache/tmp/dawnbook-etimologi-anthropos/runner-execute-2.log; the first run failed V2 step 7 `check:diagrams` on the ch13 diagram, fixed in V1); the full NVMe build regenerated functions/lib/built-stats.ts (chapters 784 to 798, Iwan Kurniawan books 49 to 50).
 - [x] Review (V3): independent reviewers, findings resolved, report saved. Evidence: 3 staid reviewers (facts, voice, technical), 0 blockers, 11 should-fix and the nits triaged in docs/code-plan/artifacts/2026-11-15-dawnbook-etimologi-anthropos-review-report.md; after the fixes book test exit 0 (19 pass, 0 fail), check-voice, check-book-structure, check-heading-colons, check-repeated-headings, check:diagrams and typecheck each exit 0; runner --execute exit 0 with V2 PASSED (runner-execute-3.log).
-- [ ] Deliver (D1): commit as Iwan Kurniawan with no trailer, PR opened through pr-registry, `Refs #<issue>`.
-- [ ] Sweep (S1): debt sweep, learning ledger, graphify sync, closeout decision.
+- [x] Deliver (D1): commit as Iwan Kurniawan with no trailer, PR opened through pr-registry, `Refs #<issue>`. Evidence: commit by explicit paths, `git show --name-only HEAD` equals the staged list, author Iwan Kurniawan <iwan@belajarcarabelajar.com>, no trailer; `bun ~/vivera/scripts/check-copy-rules.mjs --diff origin/main` exit 0 (merge-base 85c39d10 = origin/main); `pr-registry state ... verified` exit 0; `pr-registry open` exit 0, PR #286 with `Refs #285`.
+- [x] Sweep (S1): debt sweep, learning ledger, graphify sync, closeout decision. Evidence: learning ledger docs/code-plan/artifacts/2026-11-15-dawnbook-etimologi-anthropos-learning-ledger.md (3 KEEP rules written to project memory); follow-ups FU1-FU4 below, all selected by the owner and closed; `plan-closeout.mjs --readiness` NEEDS-HUMAN (exit 3), owner chose Keep it open; graphify update and sync recorded in the PR follow-up commit.
 
 ## Active Project Profile
 
@@ -290,11 +290,11 @@ Snapshot taken 2026-11-15 at origin/main 85c39d10.
 - Improvements over the notes, applied in every chapter: "kamu" instead of "Anda" (51 in the notes); no emoji, em dash (11 in the notes), colon heading or reveal colon; no "bukan X, tetapi Y" framing; no stock scaffolds ("Wawasan Penting", "Analogi untuk Mengingat", "Real-World Application", "Aplikasi Dunia Nyata", "Latihan Refleksi", "Insight Memorable", "Pesan Penting", repeated per chapter); factual errors fixed silently (no "the notes said" trace); claims with no reliable source dropped.
 - Non-goals: no edits to any other book, template, CSS or script; no new topics beyond the agreed outline; no deploy, D1 seed or announcement without a separate owner decision after merge.
 - Acceptance criteria:
-  - [ ] AC-1: 14 entries in SUMMARY.md equal 14 files in src/content; each chapter's first heading equals its SUMMARY title. Check: `HEAVY_LOCAL=check-structure bun run scripts/check-book-structure.ts etimologi-dan-derivasi-anthropos` exit 0.
-  - [ ] AC-2: 0 em dash, 0 emoji outside icon.txt, 0 "Anda", 0 colon headings, no heading repeated across chapters, every chapter meta 110 to 155 characters, 0 contrast-framing hits, 0 code blocks other than mermaid, 0 `$` math. Check: the book test, `bun run check:headings`, `bun run check:voice`.
-  - [ ] AC-3: no chapter shares 16 or more consecutive words with the owner's notes (cooked prose, section 29), and no corrected or dropped claim from the notes reappears. Check: book test shared-run and banned-phrase cases (the shared-run case is skipped with a warning when the private notes file is absent).
-  - [ ] AC-4: every URL in the book appears in research notes section 9, every Referensi entry is a markdown link, no archive.org/details link. Check: book test allowlist case, `tests/books/referensi-links.test.ts`, `tests/books/referensi-presence.test.ts`.
-  - [ ] AC-5: cover passes `bun run check:covers --book etimologi-dan-derivasi-anthropos`; `bun run build` exit 0 with SEO validation passed and the slug in output/manifest.json; `bun run check:diagrams` exit 0.
+  - [x] AC-1: 14 entries in SUMMARY.md equal 14 files in src/content; each chapter's first heading equals its SUMMARY title. Check: `HEAVY_LOCAL=check-structure bun run scripts/check-book-structure.ts etimologi-dan-derivasi-anthropos` exit 0. Evidence (2026-11-15): `check-book-structure.ts etimologi-dan-derivasi-anthropos` exit 0, 14 chapters, 0 problems.
+  - [x] AC-2: 0 em dash, 0 emoji outside icon.txt, 0 "Anda", 0 colon headings, no heading repeated across chapters, every chapter meta 110 to 155 characters, 0 contrast-framing hits, 0 code blocks other than mermaid, 0 `$` math. Check: the book test, `bun run check:headings`, `bun run check:voice`. Evidence: book test exit 0 (19 pass, 0 fail); `check-heading-colons.ts` exit 0; `check-voice.ts <slug>` exit 0; `check-repeated-headings.ts` exit 0.
+  - [x] AC-3: no chapter shares 16 or more consecutive words with the owner's notes (cooked prose, section 29), and no corrected or dropped claim from the notes reappears. Check: book test shared-run and banned-phrase cases (the shared-run case is skipped with a warning when the private notes file is absent). Evidence: book test exit 0 with the private notes present (shared-run and banned-phrase cases ran, not skipped).
+  - [x] AC-4: every URL in the book appears in research notes section 9, every Referensi entry is a markdown link, no archive.org/details link. Check: book test allowlist case, `tests/books/referensi-links.test.ts`, `tests/books/referensi-presence.test.ts`. Evidence: book test allowlist case passed; `bun test tests/books/referensi-links.test.ts tests/books/referensi-presence.test.ts` exit 0, 4 pass, 0 fail.
+  - [x] AC-5: cover passes `bun run check:covers --book etimologi-dan-derivasi-anthropos`; `bun run build` exit 0 with SEO validation passed and the slug in output/manifest.json; `bun run check:diagrams` exit 0. Evidence: runner --execute CV PASSED (runner-execute-3.log); parent read index.png and the ch06 card.
 
 **Traceability:**
 
@@ -375,19 +375,19 @@ Each chunk has one owner and writes one file (C1 writes its scaffold set). Subag
 |---|---|---|---|---|---|---|---|
 | T0 | chef | tests/books/etimologi-dan-derivasi-anthropos.test.ts | (book test) | n/a | section 9 | n/a | `bun test <file>` exit 1 for the right reason (book absent) |
 | C1 | nappy | book.toml, icon.txt, theme/, src/SUMMARY.md, release-dates.json | (scaffold) | n/a | n/a | n/a | `find`, `diff` against template, `jq` |
-| C2 | chef | 01_akar-kata-anthropos.md | Akar Kata Anthropos | 18-113 | A1-A7 (rows S1-S6) | 6-8.5 KB | `wc -c`, parent read |
-| C3 | nappy | 02_antropologi-ragawi-dan-budaya.md | Antropologi Ragawi dan Budaya | 114-195 | A11-A18, E14 | 6-8.5 KB | `wc -c`, parent read |
-| C4 | hoggy | 03_filantropi-sebagai-cinta-pada-sesama.md | Filantropi sebagai Cinta pada Sesama | 196-286 | A20-A29 | 6-8.5 KB | `wc -c`, parent read |
-| C5 | chef | 04_ketika-misantropi-tumbuh-dari-kecewa.md | Ketika Misantropi Tumbuh dari Kecewa | 287-379 | B1-B11 | 6-8.5 KB | `wc -c`, parent read |
-| C6 | nappy | 05_antropomorfisme-di-sekitar-kita.md | Antropomorfisme di Sekitar Kita | 380-472 | B13-B22 | 6-8.5 KB | `wc -c`, parent read |
-| C7 | hoggy | 06_antroposentrisme-dalam-etika-lingkungan.md | Antroposentrisme dalam Etika Lingkungan | 473-567 | B25-B35 | 6-8.5 KB | `wc -c`, parent read |
-| C8 | chef | 07_antropoid-dan-kerabat-terdekat-manusia.md | Antropoid dan Kerabat Terdekat Manusia | 568-664 | C1-C10 | 6-8.5 KB | `wc -c`, parent read |
-| C9 | nappy | 08_antroposen-dan-jejak-manusia-di-bumi.md | Antroposen dan Jejak Manusia di Bumi | 665-760 | C11-C23 | 6-8.5 KB | `wc -c`, parent read |
-| C10 | hoggy | 09_mengukur-tubuh-lewat-antropometri.md | Mengukur Tubuh lewat Antropometri | 761-886 | C25-C33, E11-E13 | 6-8.5 KB | `wc -c`, parent read |
-| C11 | chef | 10_antroponim-dan-kisah-di-balik-nama.md | Antroponim dan Kisah di Balik Nama | 887-1000 | D1-D19, E1-E7 | 6-8.5 KB | `wc -c`, parent read |
-| C12 | nappy | 11_antropofagi-dalam-sejarah-dan-ilmu.md | Antropofagi dalam Sejarah dan Ilmu | 1001-1107 | D22-D34, E8-E10 | 6-8.5 KB | `wc -c`, parent read |
+| C2 | chef | 01_akar-kata-anthropos.md | Akar Kata Anthropos | owner notes | A1-A7 (rows S1-S6) | 6-8.5 KB | `wc -c`, parent read |
+| C3 | nappy | 02_antropologi-ragawi-dan-budaya.md | Antropologi Ragawi dan Budaya | owner notes | A11-A18, E14 | 6-8.5 KB | `wc -c`, parent read |
+| C4 | hoggy | 03_filantropi-sebagai-cinta-pada-sesama.md | Filantropi sebagai Cinta pada Sesama | owner notes | A20-A29 | 6-8.5 KB | `wc -c`, parent read |
+| C5 | chef | 04_ketika-misantropi-tumbuh-dari-kecewa.md | Ketika Misantropi Tumbuh dari Kecewa | owner notes | B1-B11 | 6-8.5 KB | `wc -c`, parent read |
+| C6 | nappy | 05_antropomorfisme-di-sekitar-kita.md | Antropomorfisme di Sekitar Kita | owner notes | B13-B22 | 6-8.5 KB | `wc -c`, parent read |
+| C7 | hoggy | 06_antroposentrisme-dalam-etika-lingkungan.md | Antroposentrisme dalam Etika Lingkungan | owner notes | B25-B35 | 6-8.5 KB | `wc -c`, parent read |
+| C8 | chef | 07_antropoid-dan-kerabat-terdekat-manusia.md | Antropoid dan Kerabat Terdekat Manusia | owner notes | C1-C10 | 6-8.5 KB | `wc -c`, parent read |
+| C9 | nappy | 08_antroposen-dan-jejak-manusia-di-bumi.md | Antroposen dan Jejak Manusia di Bumi | owner notes | C11-C23 | 6-8.5 KB | `wc -c`, parent read |
+| C10 | hoggy | 09_mengukur-tubuh-lewat-antropometri.md | Mengukur Tubuh lewat Antropometri | owner notes | C25-C33, E11-E13 | 6-8.5 KB | `wc -c`, parent read |
+| C11 | chef | 10_antroponim-dan-kisah-di-balik-nama.md | Antroponim dan Kisah di Balik Nama | owner notes | D1-D19, E1-E7 | 6-8.5 KB | `wc -c`, parent read |
+| C12 | nappy | 11_antropofagi-dalam-sejarah-dan-ilmu.md | Antropofagi dalam Sejarah dan Ilmu | owner notes | D22-D34, E8-E10 | 6-8.5 KB | `wc -c`, parent read |
 | C13 | hoggy | 12_likantropi-dan-mitos-manusia-serigala.md | Likantropi dan Mitos Manusia Serigala | none (research only) | D37-D43 | 6-8.5 KB | `wc -c`, parent read |
-| C14 | chef | 13_warisan-anthropos-dalam-kosakata-dunia.md | Warisan Anthropos dalam Kosakata Dunia | 1108-1200 | D46-D54 (back-references only) | 6-8.5 KB | `wc -c`, parent read |
+| C14 | chef | 13_warisan-anthropos-dalam-kosakata-dunia.md | Warisan Anthropos dalam Kosakata Dunia | owner notes | D46-D54 (back-references only) | 6-8.5 KB | `wc -c`, parent read |
 | C15 | nappy | 14_referensi.md | Referensi | n/a | section 9 rows used by the chapters | 3-16 KB | `wc -c`, parent read |
 | CV | hoggy | cover.svg | (cover) | n/a | book.toml, SUMMARY.md | under 40 KB | `bun run check:covers --book <slug>`, `bun run og:preview <slug>` |
 
@@ -426,10 +426,10 @@ Four read-only researchers (aqua x2, timid x2, at most 40 tool calls each) verif
 
 ### Task T0
 
-chef writes tests/books/etimologi-dan-derivasi-anthropos.test.ts before any chapter exists, modelled on tests/books/simbolisme-alam-dalam-sastra.test.ts and reusing `checkBookStructure`, `extractUrls`, `extractLinkTargets`, `contentFiles`, `sourceTableSection`, `sourceTableUrls`, `extractLeadText`, `formatSerpDescription`. Cases: 14 chapters with Referensi last and no structural problems; byte budget per chapter (5,5 to 9 KB, Referensi 3 to 16 KB (raised from 11 KB in V3 so every chapter-cited source fits)); chapter metas 110 to 155 characters computed as the build does, with a positive and a negative control; the source table row count; every URL in the book from the source table; banned scaffolds and the section 8 phrases in no chapter; no fence other than mermaid and no `$` in any chapter; no 16-word run shared with the owner's notes (path from `DAWNBOOK_ETA_SOURCE`, default ~/.config/dawnbook/private-notes/etimologi-dan-derivasi-anthropos.source.md; skipped with a printed warning when absent), with a 16-word positive and a 15-word negative control; at most 2 headings per book starting with a scaffold label (section 24). The file stays ASCII (em dash built with `String.fromCharCode`).
-- [ ] Step 1: write the test (chef).
-- [ ] Step 2: `HEAVY_LOCAL=book-test-red timeout 120 bun test tests/books/etimologi-dan-derivasi-anthropos.test.ts` exit 1 because the book is absent; book-independent cases pass.
-- [ ] Step 3: `HEAVY_LOCAL=typecheck bun run typecheck` exit 0.
+chef writes tests/books/etimologi-dan-derivasi-anthropos.test.ts before any chapter exists, modelled on tests/books/simbolisme-alam-dalam-sastra.test.ts and reusing `checkBookStructure`, `extractUrls`, `extractLinkTargets`, `contentFiles`, `sourceTableSection`, `sourceTableUrls`, `extractLeadText`, `formatSerpDescription`. Cases: 14 chapters with Referensi last and no structural problems; byte budget per chapter (5,5 to 9 KB, Referensi 3 to 16 KB (raised from 11 KB in V3 so every chapter-cited source fits)); chapter metas 110 to 155 characters computed as the build does, with a positive and a negative control; the source table row count; every URL in the book from the source table; banned scaffolds and the section 8 phrases in no chapter; no fence other than mermaid and no `$` in any chapter; no 16-word run shared with the owner's notes (path only from the `DAWNBOOK_ETA_SOURCE` environment variable; skipped with a printed warning when absent), with a 16-word positive and a 15-word negative control; at most 2 headings per book starting with a scaffold label (section 24). The file stays ASCII (em dash built with `String.fromCharCode`).
+- [x] Step 1: write the test (chef).
+- [x] Step 2: `HEAVY_LOCAL=book-test-red timeout 120 bun test tests/books/etimologi-dan-derivasi-anthropos.test.ts` exit 1 because the book is absent; book-independent cases pass.
+- [x] Step 3: `HEAVY_LOCAL=typecheck bun run typecheck` exit 0.
 
 ### Task C1
 
@@ -437,47 +437,47 @@ nappy creates books/etimologi-dan-derivasi-anthropos/: book.toml as a copy of bo
 
 ### Task C2
 
-Writes books/etimologi-dan-derivasi-anthropos/src/content/01_akar-kata-anthropos.md, titled `## Akar Kata Anthropos`, from the owner's notes lines 18-113 and the web items in the manifest, by the per-chunk contract above. Evidence: `wc -c` inside the budget, the author's self-check output, the parent read in V1.
+Writes books/etimologi-dan-derivasi-anthropos/src/content/01_akar-kata-anthropos.md, titled `## Akar Kata Anthropos`, from the owner's notes and the web items in the manifest, by the per-chunk contract above. Evidence: `wc -c` inside the budget, the author's self-check output, the parent read in V1.
 
 ### Task C3
 
-Writes books/etimologi-dan-derivasi-anthropos/src/content/02_antropologi-ragawi-dan-budaya.md, titled `## Antropologi Ragawi dan Budaya`, from the owner's notes lines 114-195 and the web items in the manifest, by the per-chunk contract above. Evidence: `wc -c` inside the budget, the author's self-check output, the parent read in V1.
+Writes books/etimologi-dan-derivasi-anthropos/src/content/02_antropologi-ragawi-dan-budaya.md, titled `## Antropologi Ragawi dan Budaya`, from the owner's notes and the web items in the manifest, by the per-chunk contract above. Evidence: `wc -c` inside the budget, the author's self-check output, the parent read in V1.
 
 ### Task C4
 
-Writes books/etimologi-dan-derivasi-anthropos/src/content/03_filantropi-sebagai-cinta-pada-sesama.md, titled `## Filantropi sebagai Cinta pada Sesama`, from the owner's notes lines 196-286 and the web items in the manifest, by the per-chunk contract above. Evidence: `wc -c` inside the budget, the author's self-check output, the parent read in V1.
+Writes books/etimologi-dan-derivasi-anthropos/src/content/03_filantropi-sebagai-cinta-pada-sesama.md, titled `## Filantropi sebagai Cinta pada Sesama`, from the owner's notes and the web items in the manifest, by the per-chunk contract above. Evidence: `wc -c` inside the budget, the author's self-check output, the parent read in V1.
 
 ### Task C5
 
-Writes books/etimologi-dan-derivasi-anthropos/src/content/04_ketika-misantropi-tumbuh-dari-kecewa.md, titled `## Ketika Misantropi Tumbuh dari Kecewa`, from the owner's notes lines 287-379 and the web items in the manifest, by the per-chunk contract above. Evidence: `wc -c` inside the budget, the author's self-check output, the parent read in V1.
+Writes books/etimologi-dan-derivasi-anthropos/src/content/04_ketika-misantropi-tumbuh-dari-kecewa.md, titled `## Ketika Misantropi Tumbuh dari Kecewa`, from the owner's notes and the web items in the manifest, by the per-chunk contract above. Evidence: `wc -c` inside the budget, the author's self-check output, the parent read in V1.
 
 ### Task C6
 
-Writes books/etimologi-dan-derivasi-anthropos/src/content/05_antropomorfisme-di-sekitar-kita.md, titled `## Antropomorfisme di Sekitar Kita`, from the owner's notes lines 380-472 and the web items in the manifest, by the per-chunk contract above. Evidence: `wc -c` inside the budget, the author's self-check output, the parent read in V1.
+Writes books/etimologi-dan-derivasi-anthropos/src/content/05_antropomorfisme-di-sekitar-kita.md, titled `## Antropomorfisme di Sekitar Kita`, from the owner's notes and the web items in the manifest, by the per-chunk contract above. Evidence: `wc -c` inside the budget, the author's self-check output, the parent read in V1.
 
 ### Task C7
 
-Writes books/etimologi-dan-derivasi-anthropos/src/content/06_antroposentrisme-dalam-etika-lingkungan.md, titled `## Antroposentrisme dalam Etika Lingkungan`, from the owner's notes lines 473-567 and the web items in the manifest, by the per-chunk contract above. Evidence: `wc -c` inside the budget, the author's self-check output, the parent read in V1.
+Writes books/etimologi-dan-derivasi-anthropos/src/content/06_antroposentrisme-dalam-etika-lingkungan.md, titled `## Antroposentrisme dalam Etika Lingkungan`, from the owner's notes and the web items in the manifest, by the per-chunk contract above. Evidence: `wc -c` inside the budget, the author's self-check output, the parent read in V1.
 
 ### Task C8
 
-Writes books/etimologi-dan-derivasi-anthropos/src/content/07_antropoid-dan-kerabat-terdekat-manusia.md, titled `## Antropoid dan Kerabat Terdekat Manusia`, from the owner's notes lines 568-664 and the web items in the manifest, by the per-chunk contract above. Evidence: `wc -c` inside the budget, the author's self-check output, the parent read in V1.
+Writes books/etimologi-dan-derivasi-anthropos/src/content/07_antropoid-dan-kerabat-terdekat-manusia.md, titled `## Antropoid dan Kerabat Terdekat Manusia`, from the owner's notes and the web items in the manifest, by the per-chunk contract above. Evidence: `wc -c` inside the budget, the author's self-check output, the parent read in V1.
 
 ### Task C9
 
-Writes books/etimologi-dan-derivasi-anthropos/src/content/08_antroposen-dan-jejak-manusia-di-bumi.md, titled `## Antroposen dan Jejak Manusia di Bumi`, from the owner's notes lines 665-760 and the web items in the manifest, by the per-chunk contract above. Evidence: `wc -c` inside the budget, the author's self-check output, the parent read in V1.
+Writes books/etimologi-dan-derivasi-anthropos/src/content/08_antroposen-dan-jejak-manusia-di-bumi.md, titled `## Antroposen dan Jejak Manusia di Bumi`, from the owner's notes and the web items in the manifest, by the per-chunk contract above. Evidence: `wc -c` inside the budget, the author's self-check output, the parent read in V1.
 
 ### Task C10
 
-Writes books/etimologi-dan-derivasi-anthropos/src/content/09_mengukur-tubuh-lewat-antropometri.md, titled `## Mengukur Tubuh lewat Antropometri`, from the owner's notes lines 761-886 and the web items in the manifest, by the per-chunk contract above. Evidence: `wc -c` inside the budget, the author's self-check output, the parent read in V1.
+Writes books/etimologi-dan-derivasi-anthropos/src/content/09_mengukur-tubuh-lewat-antropometri.md, titled `## Mengukur Tubuh lewat Antropometri`, from the owner's notes and the web items in the manifest, by the per-chunk contract above. Evidence: `wc -c` inside the budget, the author's self-check output, the parent read in V1.
 
 ### Task C11
 
-Writes books/etimologi-dan-derivasi-anthropos/src/content/10_antroponim-dan-kisah-di-balik-nama.md, titled `## Antroponim dan Kisah di Balik Nama`, from the owner's notes lines 887-1000 and the web items in the manifest, by the per-chunk contract above. Evidence: `wc -c` inside the budget, the author's self-check output, the parent read in V1.
+Writes books/etimologi-dan-derivasi-anthropos/src/content/10_antroponim-dan-kisah-di-balik-nama.md, titled `## Antroponim dan Kisah di Balik Nama`, from the owner's notes and the web items in the manifest, by the per-chunk contract above. Evidence: `wc -c` inside the budget, the author's self-check output, the parent read in V1.
 
 ### Task C12
 
-Writes books/etimologi-dan-derivasi-anthropos/src/content/11_antropofagi-dalam-sejarah-dan-ilmu.md, titled `## Antropofagi dalam Sejarah dan Ilmu`, from the owner's notes lines 1001-1107 and the web items in the manifest, by the per-chunk contract above. Evidence: `wc -c` inside the budget, the author's self-check output, the parent read in V1.
+Writes books/etimologi-dan-derivasi-anthropos/src/content/11_antropofagi-dalam-sejarah-dan-ilmu.md, titled `## Antropofagi dalam Sejarah dan Ilmu`, from the owner's notes and the web items in the manifest, by the per-chunk contract above. Evidence: `wc -c` inside the budget, the author's self-check output, the parent read in V1.
 
 ### Task C13
 
@@ -485,7 +485,7 @@ Writes books/etimologi-dan-derivasi-anthropos/src/content/12_likantropi-dan-mito
 
 ### Task C14
 
-Writes books/etimologi-dan-derivasi-anthropos/src/content/13_warisan-anthropos-dalam-kosakata-dunia.md, titled `## Warisan Anthropos dalam Kosakata Dunia`, from the owner's notes lines 1108-1200 and the web items in the manifest, by the per-chunk contract above. Evidence: `wc -c` inside the budget, the author's self-check output, the parent read in V1.
+Writes books/etimologi-dan-derivasi-anthropos/src/content/13_warisan-anthropos-dalam-kosakata-dunia.md, titled `## Warisan Anthropos dalam Kosakata Dunia`, from the owner's notes and the web items in the manifest, by the per-chunk contract above. Evidence: `wc -c` inside the budget, the author's self-check output, the parent read in V1.
 
 ### Task C15
 
@@ -533,6 +533,17 @@ Session-close debt sweep (sucp-debt-sweep): debts found during the session, lear
 
 - Deploy, D1 seed (`bun run scripts/migrate-to-d1.ts`), Telegram announcement and GSC resubmission run after merge, each only when the owner asks (GEMINI.md sections 19, 28, 11).
 
+## Session-close follow-ups
+
+Selected by the owner in the debt sweep on 2026-11-15 (one question call), executed by 3 implementer subagents plus the parent, diff-audited by the parent:
+
+- FU1: source-as-subject paragraph openers recast in ch05, ch07, ch09 (ch08 already within 2). Evidence: book test exit 0, check-voice exit 0.
+- FU2: ch09 recap turned from 3 bullets into one paragraph. Evidence: check-book-structure exit 0 (14 chapters, 0 problems).
+- FU3: ch08 technofossil and aluminium paragraph dropped, its Referensi entry removed, the intro list trimmed. Evidence: book test exit 0; tests/books/referensi-links.test.ts and referensi-presence.test.ts exit 0, 4 pass, 0 fail.
+- FU4: the book test reads the owner's notes only from DAWNBOOK_ETA_SOURCE (skips with a warning when unset: exit 0, 1 warning line); the per-chapter notes line ranges are gone from this plan. Evidence: book test with the variable exit 0, 19 pass; without it exit 0; typecheck exit 0; runner --execute exit 0, V2 PASSED (runner-execute-4.log).
+
+Re-pass: no new debt found in the touched surfaces. Remaining non-blocking item, kept as a decision: chapter 13's eleven "di bab N" pointers stay, since the closing chapter is a map of the book.
+
 ## Closeout status
 
-Open until S1 runs.
+Kept open by the owner's choice on 2026-11-15. Readiness: `bun ~/vivera/scripts/plan-closeout.mjs --readiness <plan>` verdict NEEDS-HUMAN (exit 3): 0 open steps, 0 open NOW follow-ups; tasks R0, C1-C15, V1, V3, D1, S1 are UNPROVEN because they carry the `false` sentinel (prose work, evidence in the checklist). Reopen trigger: the owner accepts the checklist evidence for those prose tasks, or PR #286 is merged.
