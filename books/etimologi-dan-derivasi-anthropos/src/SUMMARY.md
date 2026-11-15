@@ -1,0 +1,16 @@
+# Summary
+
+- [Akar Kata Anthropos](content/01_akar-kata-anthropos.md)
+- [Antropologi Ragawi dan Budaya](content/02_antropologi-ragawi-dan-budaya.md)
+- [Filantropi sebagai Cinta pada Sesama](content/03_filantropi-sebagai-cinta-pada-sesama.md)
+- [Ketika Misantropi Tumbuh dari Kecewa](content/04_ketika-misantropi-tumbuh-dari-kecewa.md)
+- [Antropomorfisme di Sekitar Kita](content/05_antropomorfisme-di-sekitar-kita.md)
+- [Antroposentrisme dalam Etika Lingkungan](content/06_antroposentrisme-dalam-etika-lingkungan.md)
+- [Antropoid dan Kerabat Terdekat Manusia](content/07_antropoid-dan-kerabat-terdekat-manusia.md)
+- [Antroposen dan Jejak Manusia di Bumi](content/08_antroposen-dan-jejak-manusia-di-bumi.md)
+- [Mengukur Tubuh lewat Antropometri](content/09_mengukur-tubuh-lewat-antropometri.md)
+- [Antroponim dan Kisah di Balik Nama](content/10_antroponim-dan-kisah-di-balik-nama.md)
+- [Antropofagi dalam Sejarah dan Ilmu](content/11_antropofagi-dalam-sejarah-dan-ilmu.md)
+- [Likantropi dan Mitos Manusia Serigala](content/12_likantropi-dan-mitos-manusia-serigala.md)
+- [Warisan Anthropos dalam Kosakata Dunia](content/13_warisan-anthropos-dalam-kosakata-dunia.md)
+- [Referensi](content/14_referensi.md)
