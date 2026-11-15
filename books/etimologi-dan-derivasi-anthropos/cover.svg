@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 630 630" width="630" height="630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0.4" y2="1">
+      <stop offset="0" stop-color="#2f6f73"/>
+      <stop offset="1" stop-color="#1f4f56"/>
+    </linearGradient>
+    <clipPath id="strataClip"><circle r="50"/></clipPath>
+  </defs>
+  <rect width="630" height="630" fill="url(#bg)"/>
+  <circle cx="318" cy="250" r="262" fill="#f1e3c8" opacity="0.08"/>
+  <circle cx="318" cy="250" r="190" fill="#f1e3c8" opacity="0.06"/>
+  <g fill="none" stroke="#e0a03a" stroke-linecap="round">
+    <path d="M316 292 C310 240 296 196 262 152" stroke-width="18"/>
+    <path d="M304 232 C262 210 196 234 150 226" stroke-width="12"/>
+    <path d="M318 270 C356 226 384 176 420 146" stroke-width="12"/>
+    <path d="M374 330 C430 308 470 300 492 292" stroke-width="12"/>
+  </g>
+  <g fill="#e0a03a">
+    <ellipse cx="226" cy="214" rx="18" ry="9" transform="rotate(-24 226 214)"/>
+    <ellipse cx="372" cy="196" rx="18" ry="9" transform="rotate(-58 372 196)"/>
+    <ellipse cx="442" cy="296" rx="16" ry="8" transform="rotate(18 442 296)"/>
+    <ellipse cx="288" cy="176" rx="15" ry="8" transform="rotate(40 288 176)"/>
+  </g>
+  <path d="M128 630 C132 540 192 488 272 476 L292 474 L292 440 C260 424 248 392 248 360 C248 312 282 280 325 280 C368 280 402 312 402 360 C402 392 390 424 358 440 L358 474 L378 476 C458 488 518 540 522 630 Z" fill="#13262b" opacity="0.3"/>
+  <path d="M118 630 C122 540 182 488 262 476 L282 474 L282 440 C250 424 238 392 238 360 C238 312 272 280 315 280 C358 280 392 312 392 360 C392 392 380 424 348 440 L348 474 L368 476 C448 488 508 540 512 630 Z" fill="#f1e3c8"/>
+  <path d="M282 440 C300 450 330 450 348 440 L348 474 C330 482 300 482 282 474 Z" fill="#13262b" opacity="0.18"/>
+  <g transform="translate(118 222)">
+    <circle cx="6" cy="6" r="58" fill="#13262b" opacity="0.3"/>
+    <circle r="58" fill="#f1e3c8" stroke="#13262b" stroke-width="6"/>
+    <polygon points="-30,38 -36,24 -30,18 -34,4 -26,-12 -20,-18 -16,-42 -4,-20 6,-40 10,-16 20,-10 44,0 46,8 32,12 14,16 18,24 10,26 14,34 4,34 2,40" fill="#13262b"/>
+    <circle cx="10" cy="-4" r="4.5" fill="#e0a03a"/>
+  </g>
+  <g transform="translate(248 96)">
+    <circle cx="6" cy="6" r="58" fill="#13262b" opacity="0.3"/>
+    <circle r="58" fill="#f1e3c8" stroke="#13262b" stroke-width="6"/>
+    <circle cx="-14" cy="-14" r="13" fill="#b5482f"/>
+    <path d="M-40 36 C-40 8 -28 0 -14 0 C0 0 10 8 10 36 Z" fill="#b5482f"/>
+    <circle cx="16" cy="-10" r="12" fill="#e0a03a"/>
+    <path d="M-6 38 C-6 12 4 4 16 4 C28 4 38 12 38 38 Z" fill="#e0a03a"/>
+  </g>
+  <g transform="translate(438 112)">
+    <circle cx="6" cy="6" r="58" fill="#13262b" opacity="0.3"/>
+    <circle r="58" fill="#f1e3c8" stroke="#13262b" stroke-width="6"/>
+    <g transform="rotate(-35)">
+      <rect x="-46" y="-14" width="92" height="28" rx="4" fill="#e0a03a" stroke="#13262b" stroke-width="5"/>
+      <rect x="-28" y="-14" width="5" height="14" fill="#13262b"/>
+      <rect x="-9" y="-14" width="5" height="8" fill="#13262b"/>
+      <rect x="10" y="-14" width="5" height="14" fill="#13262b"/>
+      <rect x="28" y="-14" width="5" height="8" fill="#13262b"/>
+    </g>
+  </g>
+  <g transform="translate(546 284)">
+    <circle cx="6" cy="6" r="58" fill="#13262b" opacity="0.3"/>
+    <circle r="58" fill="#f1e3c8" stroke="#13262b" stroke-width="6"/>
+    <g clip-path="url(#strataClip)">
+      <rect x="-50" y="-50" width="100" height="100" fill="#2f6f73"/>
+      <path d="M-50 -22 C-24 -30 4 -14 50 -24 L50 50 L-50 50 Z" fill="#13262b"/>
+      <path d="M-50 -10 C-20 -18 10 -2 50 -12 L50 50 L-50 50 Z" fill="#e0a03a"/>
+      <path d="M-50 10 C-16 2 14 18 50 8 L50 50 L-50 50 Z" fill="#b5482f"/>
+      <path d="M-50 30 C-20 22 12 36 50 28 L50 50 L-50 50 Z" fill="#1f4f56"/>
+    </g>
+  </g>
+</svg>
