@@ -158,6 +158,9 @@ function readChapter(f: string): string {
   return fs.readFileSync(path.join(BOOK, "src/content", f), "utf-8");
 }
 
+// Named invented characters removed on 2026-11-15 (owner: examples must read as examples).
+const REMOVED_NAMES = ["Sinta", "Bayu", "Dimas", "Pak Harun", "Kirana", "Arif", "Lestari", "Rara", "Fikri", "Maya", "Yudha", "Rini", "Gilang"];
+
 const REGEX_SPECIAL = /[.*+?^${}()|[\]\\]/g;
 
 // A phrase that starts with a digit must not match inside a longer number ("3 juta tahun" vs "23 juta tahun").
@@ -230,6 +233,22 @@ describe(`book ${SLUG}`, () => {
   test("banned scaffolds and corrected claims from the notes appear in no chapter", () => {
     expect(contentFiles(BOOK).length).toBe(CHAPTERS);
     expect(chaptersContaining(BANNED_PHRASES)).toEqual([]);
+  });
+
+  test("no chapter carries a named invented character (GEMINI.md section 21, 2026-11-15)", () => {
+    const files = contentFiles(BOOK);
+    expect(files.length).toBe(CHAPTERS);
+    const hits = files.flatMap((f) => {
+      const md = readChapter(f);
+      return REMOVED_NAMES.filter((n) => new RegExp(`(?<![\\p{L}])${n}(?![\\p{L}])`, "u").test(md)).map((n) => ({ f, n }));
+    });
+    expect(hits).toEqual([]);
+  });
+
+  test("no chapter labels a scene as rekaan instead of announcing an example", () => {
+    const files = contentFiles(BOOK);
+    expect(files.length).toBe(CHAPTERS);
+    expect(files.filter((f) => /\b(tokoh|adegan|contoh|tetangga|mahasiswa arkeologi) rekaan\b|\brekaan\b/i.test(readChapter(f)))).toEqual([]);
   });
 
   test("a numeric banned phrase does not match inside a longer number", () => {

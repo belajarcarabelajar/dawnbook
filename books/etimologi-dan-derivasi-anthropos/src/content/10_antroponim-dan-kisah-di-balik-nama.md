@@ -1,8 +1,8 @@
 ## Antroponim dan Kisah di Balik Nama
 
-Maya sedang menimbang tiga calon nama untuk bayinya, sementara neneknya dulu menjalani hidup puluhan tahun dengan satu nama saja.
+Sebuah nama orang bisa menyimpan pekerjaan leluhur, julukan lama, tempat tinggal keluarga, nama sang ayah, atau arti yang jauh lebih tua dari pemakainya.
 
-Daftar Maya panjang. Ada nama yang ia ambil dari tokoh yang ia kagumi, ada yang dipilih karena bunyinya lembut, ada pula yang menyisipkan nama keluarga suaminya. Neneknya tidak pernah repot dengan semua itu. Satu kata cukup untuk dipanggil tetangga, dicatat di surat nikah, lalu ditulis di nisan. Dua generasi dalam satu keluarga, dua cara memperlakukan nama. Maya hanya tokoh rekaan, tetapi kamu mungkin mengenal adegan seperti ini di rumahmu sendiri. Kata *anthrōpos* ternyata juga bekerja di wilayah yang sedekat itu dengan keseharian.
+Setiap hari kamu memanggil orang dan dipanggil dengan nama, jarang sambil bertanya dari mana nama itu datang. Kata *anthrōpos* ternyata juga bekerja di wilayah yang sedekat itu dengan keseharian, dan di sini ia membantu memberi nama pada ilmu yang menekuni nama orang.
 
 ### Ilmu yang Menekuni Nama Orang
 
@@ -32,19 +32,21 @@ Masyarakat Minangkabau mengikuti logika lain yang juga berpusat pada keluarga. M
 
 ### Ketika Orang Tua Dipanggil dengan Nama Anaknya
 
-Kembali ke Maya. Setelah bayinya lahir, tetangga barangkali mulai memanggilnya "Ibu" disusul nama si bayi, dan nama Maya sendiri pelan-pelan jarang terdengar. Kebiasaan menyapa orang tua lewat nama anaknya ini disebut [teknonimi](https://en.wikipedia.org/wiki/Teknonymy). Istilahnya diperkenalkan Edward Burnett Tylor pada 1889, dari *téknon* (anak) dan *onoma* (nama). Di sini sebuah nama mendapat tugas baru tanpa diubah satu huruf pun, karena nama si anak kini ikut menandai siapa orang tuanya.
+Kebiasaan menyapa orang tua lewat nama anaknya disebut [teknonimi](https://en.wikipedia.org/wiki/Teknonymy). Istilahnya diperkenalkan Edward Burnett Tylor pada 1889, dari *téknon* (anak) dan *onoma* (nama).
+
+Contohnya, setelah seorang bayi lahir, tetangga barangkali mulai memanggil ibunya "Ibu" disusul nama si bayi, dan nama sang ibu sendiri pelan-pelan jarang terdengar. Di sini sebuah nama mendapat tugas baru tanpa diubah satu huruf pun, karena nama si anak kini ikut menandai siapa orang tuanya.
 
 ### Doa dan Kemuliaan yang Tersimpan dalam Nama
 
 Sebagian nama membawa makna yang jauh lebih tua dari pemakainya. Nama Ibrani [Yohanan](https://en.wiktionary.org/wiki/%D7%99%D7%95%D7%97%D7%A0%D7%9F) berarti "Tuhan bermurah hati", sebuah syukur yang diucapkan setiap kali seseorang memanggilnya. [Robert](https://en.wiktionary.org/wiki/Robert) berasal dari nama Jermanik yang kurang lebih berarti "kemuliaan yang bersinar". Arti seperti itu memberi sebuah nama bobot yang melampaui bunyinya, meski pemakainya hari ini belum tentu memikirkannya.
 
-Maya sedang melakukan hal yang sama. Ia menimbang bunyi, harapan, dan ingatan keluarga, lalu menitipkan semuanya pada beberapa suku kata.
+Coba cari arti namamu sendiri, atau nama orang-orang terdekatmu. Bisa jadi ada syukur atau pujian lama yang tersimpan di dalamnya.
 
 ### Satu Nama di Tanah Air
 
-Nenek Maya tidak sendirian. [Sulistyo Basuki dari UIN Syarif Hidayatullah Jakarta](https://uinjkt.ac.id/id/mungkinkah-negara-mengatur-penentuan-nama) mencatat bahwa Permendagri Nomor 73 Tahun 2022 meminta nama sekurang-kurangnya dua kata, sementara beberapa suku bangsa di Indonesia terbiasa memakai satu nama. Ia memberi contoh nama tunggal Jawa seperti Respati, Tumpak, dan Gludug untuk laki-laki, serta Bawon, Demirah, dan Desimah untuk perempuan.
+[Sulistyo Basuki dari UIN Syarif Hidayatullah Jakarta](https://uinjkt.ac.id/id/mungkinkah-negara-mengatur-penentuan-nama) mencatat bahwa Permendagri Nomor 73 Tahun 2022 meminta nama sekurang-kurangnya dua kata, sementara beberapa suku bangsa di Indonesia terbiasa memakai satu nama. Ia memberi contoh nama tunggal Jawa seperti Respati, Tumpak, dan Gludug untuk laki-laki, serta Bawon, Demirah, dan Desimah untuk perempuan.
 
-Bagi pemiliknya, satu kata itu sudah lengkap. Maya akan menulis dua atau tiga kata di akta kelahiran bayinya, sesuai permintaan aturan tadi, sementara neneknya menjalani hidup dengan satu kata. Keduanya sama-sama nama yang utuh, hanya lahir dari zaman dan kebiasaan yang berbeda.
+Bagi pemiliknya, satu kata itu sudah lengkap. Nama satu kata dan nama dua kata yang diminta aturan tadi sama-sama nama yang utuh, hanya lahir dari kebiasaan yang berbeda.
 
 ### Gagasan Utama
 

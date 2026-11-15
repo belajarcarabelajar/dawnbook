@@ -18,13 +18,13 @@ Lycaon sendiri adalah [raja mitologis Arkadia](https://en.wiktionary.org/wiki/Ly
 
 Kisah manusia serigala yang lain datang dari [Satyricon karya Petronius, bagian 62](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2007.01.0027%3Atext%3DSatyricon%3Asection%3D62). Penceritanya seorang tokoh bernama Niceros.
 
-Seorang prajurit berjalan pada malam hari, di bawah bulan yang bersinar terang. Jalan itu melintasi deretan makam. Coba bayangkan kamu berdiri di jalan itu, dengan nisan berderet di kiri dan kanan dan cahaya bulan jatuh di atasnya. Di sana, di antara batu-batu nisan, prajurit itu menanggalkan pakaiannya, lalu berubah menjadi serigala. Keesokan harinya ia terbaring di ranjang, sementara seorang dokter merawat lehernya. Niceros pun tahu bahwa prajurit itu seorang manusia serigala.
+Seorang prajurit berjalan pada malam hari, di bawah bulan yang bersinar terang. Jalan itu melintasi deretan makam. Di sana, di antara batu-batu nisan, prajurit itu menanggalkan pakaiannya, lalu berubah menjadi serigala. Keesokan harinya ia terbaring di ranjang, sementara seorang dokter merawat lehernya. Niceros pun tahu bahwa prajurit itu seorang manusia serigala.
 
 Bulan ada di cerita itu, dan perannya sederhana. Cahayanya menerangi jalan dan membuat makam-makam terlihat, sedangkan cerita Niceros tidak menjadikannya syarat perubahan. Setidaknya dalam penuturan Niceros, bulan hanya menjadi lampu yang kebetulan menyala malam itu.
 
 ### Purnama dalam Film Manusia Serigala
 
-Bayangkan Rini menonton film manusia serigala lama pada suatu malam. Tokohnya berubah setiap kali bulan purnama muncul di langit, dan Rini mungkin mengira aturan itu sudah berumur ribuan tahun, setua kisah Lycaon. Ia melirik ke jendela, melihat bulan bulat di atas atap tetangga, lalu menarik selimut sampai ke dagu. Lolongan di layar terdengar lebih panjang dari biasanya, dan setiap kali awan menutup bulan, ia menahan napas. Esok paginya, sambil menyeduh teh, ia tertawa sendiri mengingat rasa ngerinya. Aturan yang membuatnya ngeri itu tampaknya jauh lebih muda daripada yang ia kira.
+Sebagai contoh, kamu menonton film manusia serigala lama pada suatu malam, dan sosok di layar berubah setiap kali bulan purnama muncul di langit. Kamu mungkin mengira aturan itu sudah berumur ribuan tahun, setua kisah Lycaon. Kamu melirik ke jendela, melihat bulan bulat di atas atap, lalu menarik selimut sampai ke dagu. Lolongan di layar terdengar lebih panjang dari biasanya, dan setiap kali awan menutup bulan, kamu menahan napas. Aturan yang membuatmu ngeri itu tampaknya jauh lebih muda daripada yang kamu kira.
 
 Sajak dalam film [The Wolf Man (1941)](https://en.wikipedia.org/wiki/The_Wolf_Man_%281941_film%29) ditulis oleh penulis skenario Curt Siodmak, dan versi awalnya menyebut bulan musim gugur. Film-film sesudahnya menjadikan bulan purnama sebagai pemicu perubahan. Purnama yang kita kenal sekarang lebih tepat dibaca sebagai konvensi film modern, sementara dalam kisah Niceros tadi bulan hanya menerangi panggung. Lain kali kamu menonton adegan serupa, kamu boleh menduga bahwa jam weker sang manusia serigala dipasang oleh para pembuat film.
 

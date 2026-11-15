@@ -32,9 +32,9 @@ Coba baca ulang uraian itu. Kebiasaan makan diletakkan bersebelahan dengan ketia
 
 ### Yang Bisa Diceritakan Sepotong Tulang
 
-Misalkan Yudha, seorang mahasiswa arkeologi rekaan, menemukan tulang manusia dengan bekas yang mencurigakan. Godaan pertamanya tentu menyusun cerita lengkap dari bekas itu. Tinjauan [Bello (2025)](https://doi.org/10.1007/s10816-024-09676-3) menahan godaan semacam ini. Jejak pada tulang saja belum cukup untuk memisahkan kanibalisme demi bertahan hidup dari kanibalisme ritual, sehingga peneliti perlu membaca konteks temuannya.
+Contohnya, seorang mahasiswa arkeologi menemukan tulang manusia dengan bekas yang mencurigakan, dan godaan pertamanya tentu menyusun cerita lengkap dari bekas itu. Tinjauan [Bello (2025)](https://doi.org/10.1007/s10816-024-09676-3) menahan godaan semacam ini. Jejak pada tulang saja belum cukup untuk memisahkan kanibalisme demi bertahan hidup dari kanibalisme ritual, sehingga peneliti perlu membaca konteks temuannya.
 
-Bagi Yudha, artinya pekerjaan baru dimulai. Tulang itu hanya satu saksi, dan ia butuh saksi lain sebelum berani bercerita.
+Bagi mahasiswa itu, pekerjaan baru dimulai. Tulang itu hanya satu saksi, dan ia butuh saksi lain sebelum berani bercerita.
 
 ### Dua Kisah Bertahan Hidup
 
