@@ -27,6 +27,13 @@
  * key, no delete. cf takes its credentials from the environment (CLOUDFLARE_API_TOKEN and
  * CLOUDFLARE_ACCOUNT_ID, from ~/cloudflare/.env).
  *
+ * Per-buyer stamp (bcb plan 2026-11-18-cap-pdf-pembeli): bcb stamps every download of these PDFs
+ * with the buyer's email, using stamp data bound to the object's etag. A release here makes that
+ * data stale, so bcb serves the new PDF unstamped (and logs "unduh-member: cap basi <slug>") until
+ * the data is rebuilt. After each released book, run from the bcb main checkout:
+ *   bun --env-file ~/cloudflare/.env apps/situs/scripts/cap-pdf-member.ts --slug <slug> --unggah
+ * then confirm with the same script and --cek --live (exit 0). It writes only member-cap/<slug>.*.
+ *
  * Output: one summary line per registry book at the end, "release-pdfs: <slug>: ok, member/
  * <slug>.pdf sha256 <hex>", "... ok (dry run, not uploaded), sha256 <hex>", "... failed:
  * <reason>" or "... skipped: <reason>". A book that fails before its upload keeps its previous
