@@ -1,7 +1,7 @@
 ---
 schema: ultra-plan/v1
 plan_id: 2026-11-05-dawnbook-audit-fixes
-status: Approved
+status: Complete
 version: 1
 runner_contract: true
 defaults:
