@@ -254,6 +254,19 @@ export function chromiumArgs(htmlPath: string, outPath: string, opts: { outline?
   ];
 }
 
+// Chromium 158 (2026-11-26) exits 0 without writing the PDF when --virtual-time-budget meets a page
+// that calls window.print() itself, as mdBook's print.html does on load (measured 2026-11-27). A no-op
+// set before any page script keeps the headless print.
+const AUTO_PRINT_OFF = "<script>window.print = function () {};</script>";
+
+export function disableAutoPrint(html: string): string {
+  if (html.includes(AUTO_PRINT_OFF)) return html;
+  const head = /<head\b[^>]*>/.exec(html);
+  if (!head) throw new Error("print.html has no <head>, cannot disable its window.print call");
+  const at = head.index + head[0].length;
+  return html.slice(0, at) + AUTO_PRINT_OFF + html.slice(at);
+}
+
 export function pdfLooksBroken(pages: number, text: string): string | null {
   const plain = text.replaceAll("’", "'");
   const marker = ERROR_PAGE_MARKERS.find((m) => plain.includes(m));
@@ -461,7 +474,7 @@ async function printBook(
     return 1;
   }
   const styled = injectPrintStyle(fs.readFileSync(html, "utf8"), opts.hideImages);
-  fs.writeFileSync(html, injectWatermark(styled, watermarkSvg()));
+  fs.writeFileSync(html, disableAutoPrint(injectWatermark(styled, watermarkSvg())));
 
   const pdf = path.join(work, "book.pdf");
   const chrome = deps.run([deps.chromium, ...chromiumArgs(html, pdf, { outline: true })], { cwd: work });

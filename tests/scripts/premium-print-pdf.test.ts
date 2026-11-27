@@ -5,6 +5,7 @@ import { Resvg } from "@resvg/resvg-js";
 import { diagramKey } from "../../scripts/diagrams/cache";
 import {
   chromiumArgs,
+  disableAutoPrint,
   injectPrintStyle,
   injectWatermark,
   main,
@@ -207,6 +208,27 @@ describe("chromiumArgs", () => {
     const args = chromiumArgs("/tmp/x/print.html", "/tmp/x/out.pdf", { outline: true });
     expect(args).toContain("--generate-pdf-document-outline");
     expect(args[args.length - 1]).toBe("file:///tmp/x/print.html");
+  });
+});
+
+describe("disableAutoPrint", () => {
+  const page =
+    '<html><head><meta charset="utf-8"><script src="book.js"></script></head>' +
+    "<body><script>window.setTimeout(window.print, 100);</script></body></html>";
+
+  test("sets a no-op window.print before the first script of the page", () => {
+    const out = disableAutoPrint(page);
+    expect(out).toContain("<script>window.print = function () {};</script>");
+    expect(out.indexOf("window.print = function")).toBeLessThan(out.indexOf('<script src="book.js">'));
+  });
+
+  test("adds the no-op once when called twice", () => {
+    const out = disableAutoPrint(disableAutoPrint(page));
+    expect(out.split("window.print = function").length - 1).toBe(1);
+  });
+
+  test("refuses a page without <head>", () => {
+    expect(() => disableAutoPrint("<html><body>x</body></html>")).toThrow("<head>");
   });
 });
 
@@ -662,6 +684,13 @@ describe("main", () => {
     expect(JSON.stringify(f.coverDirAtPrint())).not.toContain("pdf-watermark");
   });
 
+  test("prints print.html with window.print disabled, so Chromium 158 still writes the PDF", async () => {
+    const f = fixture(12, "Bab 1");
+    const out = path.join(f.root, "buku-a.pdf");
+    expect(await main(["buku-a", "--out", out, "--books-dir", f.booksDir], f.deps)).toBe(0);
+    expect(f.printHtmlAtPrint()).toContain("<head><script>window.print = function () {};</script>");
+  });
+
   test("passes --restrict to the finish step and ships the encrypted result", async () => {
     const f = fixture(12, "Bab 1");
     const out = path.join(f.root, "buku-a.pdf");
@@ -860,4 +889,31 @@ describe("main", () => {
     expect(await main(["buku-a"], f.deps)).toBe(2);
     expect(f.calls).toHaveLength(0);
   });
+});
+
+// Chromium 158 exits 0 without a PDF when --virtual-time-budget meets a page that calls
+// window.print() on load, as mdBook's print.html does (measured 2026-11-27). It needs a real
+// browser, so it runs only with PRINT_PDF_CHROMIUM=1.
+describe.skipIf(process.env.PRINT_PDF_CHROMIUM !== "1")("real Chromium", () => {
+  test("prints a page that calls window.print on load once disableAutoPrint ran", () => {
+    // Under /tmp: Chromium here cannot read files under ~/.cache, where TMPDIR points.
+    const dir = fs.mkdtempSync("/tmp/dawnbook-print-test-");
+    try {
+      const page = path.join(dir, "print.html");
+      const pdf = path.join(dir, "out.pdf");
+      const html =
+        '<html><head><meta charset="utf-8"></head><body><p>Isi buku.</p><script>' +
+        'window.addEventListener("load", function () { window.setTimeout(window.print, 100); });' +
+        "</script></body></html>";
+      fs.writeFileSync(page, disableAutoPrint(html));
+      const chrome = Bun.spawnSync([process.env.CHROMIUM_PATH ?? "chromium", ...chromiumArgs(page, pdf)], {
+        stdout: "ignore",
+        stderr: "ignore",
+      });
+      expect(chrome.exitCode).toBe(0);
+      expect(fs.existsSync(pdf)).toBe(true);
+    } finally {
+      fs.rmSync(dir, { recursive: true, force: true });
+    }
+  }, 60_000);
 });
