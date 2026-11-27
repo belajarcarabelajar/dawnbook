@@ -98,17 +98,18 @@ describe("hub (scripts/builder/template-engine.ts)", () => {
     expect((manifest.chapters as Record<string, string[]>)["buku-gratis"]).toEqual(chaptersOf("buku-gratis"));
   });
 
-  test("a premium card shows the Premium label and a free card does not", async () => {
+  test("a premium book is hidden from the hub and a free card keeps the FREE label", async () => {
     const { index } = await renderHub();
-    expect(card(index, "buku-premium")).toContain("Premium");
-    expect(card(index, "buku-premium")).not.toContain("FREE");
+    expect(index).not.toContain(`data-slug="buku-premium"`);
+    expect(index).not.toContain("/books/buku-premium/");
+    expect(index).not.toContain("data-premium");
     expect(card(index, "buku-gratis")).not.toContain("Premium");
     expect(card(index, "buku-gratis")).toContain("FREE");
   });
 });
 
 describe("sitemap (scripts/generate-sitemap.ts)", () => {
-  test("lists only the root of a premium book, and every chapter but the first of a free one", async () => {
+  test("a premium book is hidden from the sitemap, root included, and a free one lists every chapter but the first", async () => {
     premiumOnly("buku-premium");
     const out = await tempDir();
     for (const slug of ["buku-premium", "buku-gratis"]) {
@@ -127,9 +128,7 @@ describe("sitemap (scripts/generate-sitemap.ts)", () => {
     await generateSitemap({ outputDir: out });
     const xml = await readFile(join(out, "sitemap.xml"), "utf8");
 
-    expect(xml).toContain(`<loc>${BASE}/books/buku-premium/</loc>`);
-    expect(xml).not.toContain("buku-premium/content/01_bab-satu");
-    expect(xml).not.toContain("buku-premium/content/02_bab-dua");
+    expect(xml).not.toContain("buku-premium");
     expect(xml).toContain(`<loc>${BASE}/books/buku-gratis/</loc>`);
     expect(xml).not.toContain("buku-gratis/content/01_bab-satu");
     expect(xml).toContain(`<loc>${BASE}/books/buku-gratis/content/02_bab-dua</loc>`);
@@ -137,7 +136,7 @@ describe("sitemap (scripts/generate-sitemap.ts)", () => {
 });
 
 describe("llms.txt (scripts/generate-llmstxt.ts)", () => {
-  test("lists only the root of a premium book, chapters 2 onward of a free one", async () => {
+  test("a premium book is hidden from llms.txt, root included, and a free one lists chapters 2 onward", async () => {
     // Imported lazily so a missing export fails this test alone, not the whole file.
     const { buildLlmsTxt } = await import("../../scripts/generate-llmstxt");
     premiumOnly("buku-premium");
@@ -146,8 +145,8 @@ describe("llms.txt (scripts/generate-llmstxt.ts)", () => {
       chapters: { "buku-premium": chaptersOf("buku-premium"), "buku-gratis": chaptersOf("buku-gratis") },
     });
 
-    expect(txt).toContain(`(${BASE}/books/buku-premium/)`);
-    expect(txt).not.toContain("buku-premium/content/");
+    expect(txt).not.toContain("buku-premium");
+    expect(txt).not.toContain("Buku Premium");
     expect(txt).toContain(`(${BASE}/books/buku-gratis/)`);
     expect(txt).not.toContain("buku-gratis/content/01_bab-satu");
     expect(txt).toContain(`(${BASE}/books/buku-gratis/content/02_bab-dua)`);
@@ -158,21 +157,23 @@ describe("SEO gate sitemap rule (scripts/check-seo.ts)", () => {
   const loc = (p: string) => `<url>\n    <loc>${BASE}${p}</loc>\n  </url>`;
   const chapters = { "buku-premium": chaptersOf("buku-premium"), "buku-gratis": chaptersOf("buku-gratis") };
 
-  test("a premium book needs only its root in the sitemap", async () => {
+  test("a premium book hidden from the sitemap passes, root included", async () => {
     const { sitemapCoverageError } = await import("../../scripts/check-seo");
     premiumOnly("buku-premium");
-    const xml = loc("/books/buku-premium/");
+    const xml = loc("/books/buku-gratis/");
 
     expect(sitemapCoverageError("/books/buku-premium/index.html", xml, chapters)).toBeNull();
     expect(sitemapCoverageError("/books/buku-premium/content/01_bab-satu.html", xml, chapters)).toBeNull();
     expect(sitemapCoverageError("/books/buku-premium/content/02_bab-dua.html", xml, chapters)).toBeNull();
   });
 
-  test("a premium root missing from the sitemap fails", async () => {
+  test("a premium root that is not hidden from the sitemap fails", async () => {
     const { sitemapCoverageError } = await import("../../scripts/check-seo");
     premiumOnly("buku-premium");
 
-    expect(sitemapCoverageError("/books/buku-premium/index.html", "", chapters)).toContain("missing from sitemap.xml");
+    expect(sitemapCoverageError("/books/buku-premium/index.html", loc("/books/buku-premium/"), chapters)).toContain(
+      "Premium path /books/buku-premium/index.html must not be in sitemap.xml",
+    );
   });
 
   test("a paid premium chapter listed in the sitemap fails", async () => {

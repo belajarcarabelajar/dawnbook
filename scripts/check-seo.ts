@@ -17,8 +17,8 @@ function safeDecode(path: string): string {
  * `/books/<slug>/content/01_x.html`). The first chapter of every book
  * (`chapters[slug][0]`, the same definition generate-sitemap.ts and
  * inject-gating.ts use) must be absent, because its canonical is the book root.
- * A free book's other pages must be listed. A premium book lists only its root,
- * so its later chapters must be absent: listing one would advertise paid text.
+ * A free book's other pages must be listed. A premium book is unlisted, so every
+ * path of it, root included, must be absent.
  * Returns an error or null.
  */
 export function sitemapCoverageError(
@@ -43,10 +43,7 @@ export function sitemapCoverageError(
   }
 
   if (slug && premiumSlugs().includes(slug)) {
-    if (relativePath !== `/books/${slug}/index.html`) {
-      return listed ? `Premium path ${relativePath} must not be in sitemap.xml!` : null;
-    }
-    return listed ? null : `Content path ${relativePath} missing from sitemap.xml!`;
+    return listed ? `Premium path ${relativePath} must not be in sitemap.xml!` : null;
   }
 
   if (!sitemapContent.includes(expectedUrl) && !sitemapContent.includes(canonicalUrl)) {
@@ -99,7 +96,7 @@ async function checkSeo() {
   try {
     manifestChapters = JSON.parse(await readFile(join(outputDir, "manifest.json"), "utf-8")).chapters ?? {};
   } catch {
-    // Without a manifest a premium book may list only its root, as in generate-sitemap.ts.
+    // Without a manifest no chapter 1 is known; premium books stay unlisted either way.
   }
 
   async function scanDirectory(dir: string) {
@@ -209,7 +206,7 @@ async function checkSeo() {
             }
           }
 
-          // Verify content pages against sitemap.xml (chapter 1 never; premium books: root only)
+          // Verify content pages against sitemap.xml (chapter 1 never; premium books never)
           const sitemapError = sitemapCoverageError(relativePath, sitemapContent, manifestChapters);
           if (sitemapError) {
             console.error(`❌ [FAIL] ${sitemapError}`);
