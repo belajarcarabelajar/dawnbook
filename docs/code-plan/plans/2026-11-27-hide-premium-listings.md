@@ -1,7 +1,7 @@
 ---
 schema: ultra-plan/v1
 plan_id: 2026-11-27-hide-premium-listings
-status: Approved
+status: Complete
 version: 1
 runner_contract: true
 defaults:
@@ -280,5 +280,7 @@ flowchart TD
 - [x] F3: `GET /api/books/<slug>` answers 404 for a premium slug to non-admin callers; admins unchanged (`functions/api/books/[slug].ts`; RED exit 1 with 2 fail, GREEN `[slug].test.ts` exit 0, 17 pass, `slug.test.ts` exit 0, 9 pass).
 
 **Backlog (LATER):** after the owner deploys, check live: `/` holds no premium card, `/sitemap.xml` and `/llms.txt` hold no premium URL, `/api/books` and `/api/stats` (D1 in production, tests ran on bun:sqlite) leave premium out.
+
+**Closeout (2026-11-27):** `bun ~/vivera/scripts/plan-closeout.mjs --readiness docs/code-plan/plans/2026-11-27-hide-premium-listings.md` exit 0, verdict READY (2 asserted: T4 and T5, evidence above), after follow-ups F1 to F3 at da40ae75 (`ma-run` typecheck exit 0; `bun test` 19 files exit 0, 277 pass, 0 fail). Owner chose Mark Complete. `bun scripts/plan-cost.mjs --plan 2026-11-27-hide-premium-listings`: usd 11.2960 (estimate; caveats: sessions without a registry claim are not counted, other work in this session is counted).
 
 **Approval:** Approved by the owner 2026-11-27 (Design gate, also Gate 2). Scope answers: home page, sitemap and llms.txt, /api/books, statistics; keep indexable; do not announce new premium books.
