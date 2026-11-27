@@ -20,7 +20,7 @@ const PREMIUM_CREATED = new Date().toISOString();
 const FREE_NEWEST = monthsAgo(3);
 const FREE_OLDEST = monthsAgo(5);
 
-function createSqliteD1() {
+function createSqliteD1(premiumCreated = PREMIUM_CREATED) {
   const sqlite = new Database(":memory:");
   for (const file of ["0001_init.sql", "0004_book_subject_label.sql", "0005_book_view_count.sql", "0006_user_oauth.sql"]) {
     sqlite.exec(readFileSync(join(MIGRATIONS, file), "utf8"));
@@ -29,7 +29,7 @@ function createSqliteD1() {
     "INSERT INTO books (id, slug, title, status, content_md, created_at, updated_at, subject_label, view_count) " +
       "VALUES (?1, ?1, ?2, 'published', '', ?3, ?3, ?4, ?5)",
   );
-  insert.run("buku-premium", "Premium", PREMIUM_CREATED, "Label Premium Saja", 1000);
+  insert.run("buku-premium", "Premium", premiumCreated, "Label Premium Saja", 1000);
   insert.run("buku-gratis-a", "Gratis A", FREE_NEWEST, "Psikologi", 7);
   insert.run("buku-gratis-b", "Gratis B", FREE_OLDEST, "Psikologi", 5);
   const makeStmt = (sql: string) => {
@@ -90,8 +90,8 @@ describe("GET /api/books hides premium books", () => {
 });
 
 describe("GET /api/stats hides premium books", () => {
-  async function stats() {
-    const env = createSqliteD1();
+  async function stats(premiumCreated?: string) {
+    const env = createSqliteD1(premiumCreated);
     const res = await statsRequest({ request: get("https://dawnbook.belajarcarabelajar.com/api/stats"), env } as any);
     expect(res.status).toBe(200);
     return (await res.json()) as any;
@@ -111,6 +111,12 @@ describe("GET /api/stats hides premium books", () => {
     expect(body.engagement.published_this_month).toBe(0);
     const timelineTotal = body.engagement.monthly_timeline.reduce((n: number, m: { count: number }) => n + m.count, 0);
     expect(timelineTotal).toBe(2);
+  });
+
+  it("ignores a premium book that is the oldest row", async () => {
+    const body = await stats(monthsAgo(8));
+    expect(body.engagement.first_release).toBe(FREE_OLDEST);
+    expect(body.engagement.last_release).toBe(FREE_NEWEST);
   });
 });
 
