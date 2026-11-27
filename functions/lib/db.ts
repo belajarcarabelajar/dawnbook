@@ -12,6 +12,7 @@
  */
 
 import type { D1Database } from "@cloudflare/workers-types";
+import { premiumSlugExclusion } from "./premium";
 
 export interface BookRow {
   id: string;
@@ -334,6 +335,12 @@ export async function getBooks(
     // `status` query param they pass.
     conditions.push(`status = ?${params.length + 1}`);
     params.push("published");
+    // Premium books are reachable by direct link but never listed.
+    const exclusion = premiumSlugExclusion(params.length + 1);
+    if (exclusion.sql) {
+      conditions.push(exclusion.sql);
+      params.push(...exclusion.params);
+    }
   } else if (statusFilter === "draft" || statusFilter === "published") {
     conditions.push(`status = ?${params.length + 1}`);
     params.push(statusFilter);

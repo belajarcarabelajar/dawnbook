@@ -11,6 +11,7 @@ import {
   generateUserId,
 } from "../../../functions/lib/db";
 import { createMockEnv } from "../../helpers/mocks";
+import { premiumSlugs } from "../../../functions/lib/premium";
 
 describe("functions/lib/db.ts unit tests", () => {
   test("getUserById fetches user by id", async () => {
@@ -224,7 +225,8 @@ describe("functions/lib/db.ts unit tests", () => {
       expect(capturedSql).toContain("status = ?1");
       expect(capturedSql).toContain("ORDER BY created_at DESC");
       expect(capturedSql).not.toContain("content_md");
-      expect(capturedParams).toEqual(["published"]);
+      // Premium books are never listed (GEMINI.md section 30).
+      expect(capturedParams).toEqual(["published", ...premiumSlugs()]);
     });
 
     test("builds correct SQL query for admin with content, draft status, subject, and popular sorting", async () => {

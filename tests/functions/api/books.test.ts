@@ -11,6 +11,7 @@ mock.module("../../../functions/lib/auth", () => {
 });
 
 import { onRequest } from "../../../functions/api/books/index";
+import { premiumSlugs } from "../../../functions/lib/premium";
 import { createMockEnv, mockRequest, setQueryHandler } from "../../helpers/mocks";
 
 // Mirrors D1 column selection, so a row only carries the columns the SQL names
@@ -107,7 +108,7 @@ describe("API: /api/books", () => {
     expect(res.status).toBe(200);
     expect(seen).toHaveLength(1);
     expect(seen[0].sql).toContain("status = ?1");
-    expect(seen[0].params).toEqual(["published"]);
+    expect(seen[0].params).toEqual(["published", ...premiumSlugs()]);
   });
 
   test("GET as reader only returns published books", async () => {
@@ -122,7 +123,7 @@ describe("API: /api/books", () => {
     const req = mockRequest("https://example.com/api/books?status=draft", { method: "GET" });
     const res = await onRequest({ request: req, env } as any);
     expect(res.status).toBe(200);
-    expect(seen[0].params).toEqual(["published"]);
+    expect(seen[0].params).toEqual(["published", ...premiumSlugs()]);
   });
 
   test("GET as admin respects the status filter", async () => {

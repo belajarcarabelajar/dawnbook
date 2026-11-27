@@ -31,6 +31,18 @@ export function premiumSlugs(): string[] {
   return Object.keys(loadPremiumRegistry());
 }
 
+/**
+ * A `slug NOT IN (...)` condition that drops premium books from a listing,
+ * with placeholders numbered from `firstParam`. An empty registry gives an
+ * empty condition, because `NOT IN ()` is a SQL error.
+ */
+export function premiumSlugExclusion(firstParam: number): { sql: string; params: string[] } {
+  const params = premiumSlugs();
+  if (params.length === 0) return { sql: "", params: [] };
+  const placeholders = params.map((_, i) => `?${firstParam + i}`).join(", ");
+  return { sql: `slug NOT IN (${placeholders})`, params };
+}
+
 export function contentGateExemptSlugs(): string[] {
   return Object.entries(loadPremiumRegistry())
     .filter(([, entry]) => entry.edition === undefined)
