@@ -21,6 +21,8 @@ export function buildLlmsTxt(manifestData: LlmsManifest): string {
 `;
 
   for (const bookSlug of manifestData.books) {
+    // Premium books are unlisted, root included.
+    if (premium.has(bookSlug)) continue;
     const title = bookSlug
       .split("-")
       .map((w) => w.charAt(0).toUpperCase() + w.slice(1))
@@ -28,9 +30,8 @@ export function buildLlmsTxt(manifestData: LlmsManifest): string {
 
     llmsTxt += `### [${title}](${baseUrl}/books/${bookSlug}/)\n`;
 
-    // Chapter 1 is left out because its canonical is the book root (GEMINI.md
-    // section 31), and a premium book's later chapters are paid.
-    const chapters = premium.has(bookSlug) ? [] : (manifestData.chapters[bookSlug] || []).slice(1);
+    // Chapter 1 is left out because its canonical is the book root (GEMINI.md section 31).
+    const chapters = (manifestData.chapters[bookSlug] || []).slice(1);
     for (const chapterPath of chapters) {
       const chapterFileName = chapterPath.split("/").pop() || "";
       const cleanName = decodeURIComponent(chapterFileName)

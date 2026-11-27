@@ -1,4 +1,4 @@
-import { describe, it, expect, beforeEach, mock, afterAll } from "bun:test";
+import { describe, it, expect, beforeEach, afterEach, mock, afterAll } from "bun:test";
 
 let mockSession: any = null;
 // bun's mock.module is process-global: snapshot the real module first and
@@ -15,6 +15,7 @@ import { readFileSync } from "node:fs";
 import { join } from "node:path";
 import { onRequest } from "../../../../functions/api/books/[slug]";
 import { onRequest as onViewRequest } from "../../../../functions/api/books/[slug]/view";
+import { setPremiumRegistryForTest } from "../../../../functions/lib/premium";
 import {
   createMockEnv,
   mockRequest,
@@ -186,6 +187,58 @@ describe("GET /api/books/:slug", () => {
 
     expect(response.status).toBe(400);
     expect(await response.json()).toEqual({ error: "Invalid slug format" });
+  });
+});
+
+describe("GET /api/books/:slug hides premium books from non-admins", () => {
+  const PREMIUM_BOOK = { ...PUBLISHED_BOOK, id: "premium-1", slug: "buku-premium", title: "Premium" };
+
+  beforeEach(() => {
+    mockSession = null;
+    setPremiumRegistryForTest({ "buku-premium": { products: ["P-x"], productUrl: "https://example.com/p" } });
+  });
+
+  afterEach(() => {
+    setPremiumRegistryForTest(null);
+  });
+
+  async function getPremiumAs(session: unknown, row: Record<string, unknown>) {
+    mockSession = session;
+    const env = createMockEnv();
+    let queried = false;
+    setQueryHandler(env, "SELECT", (sql) => {
+      queried = true;
+      return [selectColumns(sql, row)];
+    });
+    const request = mockRequest(`https://dawnbook.belajarcarabelajar.com/api/books/${row.slug}`, { method: "GET" });
+    const response = await onRequest({ request, env, params: { slug: row.slug } } as any);
+    return { status: response.status, body: await response.json(), queried };
+  }
+
+  it("returns 404 Book not found for a premium slug to anonymous callers without querying D1", async () => {
+    const { status, body, queried } = await getPremiumAs(null, PREMIUM_BOOK);
+    expect(status).toBe(404);
+    expect(body).toEqual({ error: "Book not found" });
+    expect(queried).toBe(false);
+  });
+
+  it("returns 404 for a premium slug to reader sessions", async () => {
+    const { status, body } = await getPremiumAs({ sub: "reader_1", role: "reader" }, PREMIUM_BOOK);
+    expect(status).toBe(404);
+    expect(body).toEqual({ error: "Book not found" });
+  });
+
+  it("returns a premium book to admins", async () => {
+    const { status, body } = await getPremiumAs({ sub: "admin_1", role: "admin" }, PREMIUM_BOOK);
+    expect(status).toBe(200);
+    expect(body.book.slug).toBe("buku-premium");
+    expect(body.book.title).toBe("Premium");
+  });
+
+  it("still returns a free book to anonymous callers while a premium registry is set", async () => {
+    const { status, body } = await getPremiumAs(null, PUBLISHED_BOOK);
+    expect(status).toBe(200);
+    expect(body.book.slug).toBe("published-book");
   });
 });
 

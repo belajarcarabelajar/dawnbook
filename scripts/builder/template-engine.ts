@@ -216,9 +216,11 @@ ${
 
     <div class="book-masonry" style="opacity: 0; transition: opacity 0.5s ease-in-out;">
       ${builtBooks
+        // Premium books stay reachable by direct link but are not listed on the hub.
+        .filter((b) => !premium.has(b.slug))
         .map(
           (b) => `
-        <a href="/books/${escapeHtml(b.slug)}/" class="book-card" data-slug="${escapeHtml(b.slug)}"${premium.has(b.slug) ? ' data-premium="true"' : ""} data-created-at="${b.mtimeMs}" style="display: flex; flex-direction: column; padding: 20px; position: relative; transition: all 0.3s ease; height: 100%;">
+        <a href="/books/${escapeHtml(b.slug)}/" class="book-card" data-slug="${escapeHtml(b.slug)}" data-created-at="${b.mtimeMs}" style="display: flex; flex-direction: column; padding: 20px; position: relative; transition: all 0.3s ease; height: 100%;">
             <div style="flex: 1; display: flex; flex-direction: column;">
                 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 16px;">
                     <span style="font-size: 48px; line-height: 1; display: inline-block; min-height: 48px; min-width: 48px;">${escapeHtml(b.emoji)}</span>
@@ -237,7 +239,7 @@ ${
                 </div>
                 <div style="display: flex; align-items: center; gap: 4px; font-size: 11px; font-weight: 600; padding: 2px 6px; border: 1px solid var(--color-secondary); border-radius: 4px; opacity: 0.8; flex-shrink: 0;">
                     <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path><line x1="7" y1="7" x2="7.01" y2="7"></line></svg>
-                    ${premium.has(b.slug) ? "Premium" : "FREE"}
+                    FREE
                 </div>
             </div>
         </a>

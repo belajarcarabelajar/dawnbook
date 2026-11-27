@@ -55,6 +55,18 @@ describe("findNewSlugs", () => {
     expect(() => findNewSlugs(null, { books: ["a"] })).toThrow(/baseline/);
   });
 
+  test("drops a new premium slug listed in the build manifest's premium array", () => {
+    const before = { books: ["a"] };
+    const after = { books: ["a", "gratis", "berbayar"], premium: ["berbayar"] };
+    expect(findNewSlugs(before, after)).toEqual(["gratis"]);
+  });
+
+  test("treats a build manifest without a premium key as all free (premium)", () => {
+    const before = { books: ["a"] };
+    const after = { books: ["a", "c", "d"] };
+    expect(findNewSlugs(before, after)).toEqual(["c", "d"]);
+  });
+
   test("refuses a build manifest without a books array", () => {
     expect(() => findNewSlugs({ books: ["a"] }, { chapters: {} })).toThrow(/build manifest/);
   });
@@ -245,6 +257,23 @@ describe("main", () => {
     expect(code).toBe(0);
     expect(calls).toHaveLength(1);
     expect(calls[0].body.text).toContain("Bab Satu - Buku Lama");
+  });
+
+  test("skips a new premium book on the deploy path, and --slug still announces it by hand", async () => {
+    await writeBook(root, "premi", "Buku Premi");
+    await writeFile(
+      join(root, "after.json"),
+      JSON.stringify({ books: ["lama", "baru", "premi"], premium: ["premi"], chapters: {} }),
+    );
+    const env = { TELEGRAM_BOT_TOKEN: TOKEN, DAWNBOOK_TELEGRAM_CHAT_ID: CHAT };
+    const calls: Call[] = [];
+    expect(await main(ciArgs(), { rootDir: root, env, fetch: fakeFetch(calls), log })).toBe(0);
+    expect(calls.map((c) => c.body.text)).toEqual([`Bab Satu - Buku Baru\n\n${SITE_URL}/books/baru/content/01_satu`]);
+
+    const manual: Call[] = [];
+    expect(await main(["--slug", "premi"], { rootDir: root, env, fetch: fakeFetch(manual), log })).toBe(0);
+    expect(manual).toHaveLength(1);
+    expect(manual[0].body.text).toContain("Bab Satu - Buku Premi");
   });
 
   test("--dry-run prints the message and sends nothing, even without credentials", async () => {

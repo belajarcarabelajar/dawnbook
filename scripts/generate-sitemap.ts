@@ -92,7 +92,7 @@ function safeDecode(path: string): string {
  * Decoded first chapter (first SUMMARY entry in manifest.json) of every book.
  * Its canonical is the book root (inject-gating.ts), and Google advises against
  * listing a URL whose canonical is another page, so it is left out. Without a
- * manifest nothing is skipped; premium books still list only their root.
+ * manifest nothing is skipped; premium books are never listed.
  */
 async function firstChapters(outputDir: string): Promise<Map<string, string>> {
   const firsts = new Map<string, string>();
@@ -148,8 +148,8 @@ export async function generateSitemap(options: SitemapOptions = {}) {
 
           const slug = /^\/books\/([^/]+)\//.exec(relativePath)?.[1];
           if (slug) {
-            // A premium book lists only its root, so its paid chapters are never advertised.
-            if (premium.has(slug) && relativePath !== `/books/${slug}/index.html`) return;
+            // Premium books are unlisted: no URL of theirs, root included, is advertised.
+            if (premium.has(slug)) return;
             if (firsts.get(slug) === safeDecode(relativePath)) return;
           }
 

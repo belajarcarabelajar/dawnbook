@@ -43,7 +43,9 @@ export function findNewSlugs(before: unknown, after: unknown): string[] {
   }
   const built = slugList(after);
   if (!built) throw new Error("build manifest has no books array");
-  const known = new Set(live);
+  // Premium books stay unlisted (owner, 2026-11-27); --slug can still announce one.
+  const premium = (after as { premium?: unknown }).premium;
+  const known = new Set([...live, ...(Array.isArray(premium) ? premium : [])]);
   return built.filter((slug) => !known.has(slug));
 }
 

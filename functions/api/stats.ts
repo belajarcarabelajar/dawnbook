@@ -14,6 +14,7 @@ import type { D1Database } from "@cloudflare/workers-types";
 import type { PagesFunction } from "../lib/pages-function";
 import { Env } from "../lib/auth";
 import { BUILT_TOTAL_CHAPTERS, BUILT_CONTRIBUTORS } from "../lib/built-stats";
+import { premiumSlugExclusion } from "../lib/premium";
 
 interface SubjectRow {
   label: string | null;
@@ -57,6 +58,12 @@ function errorResponse(message: string, status: number): Response {
   });
 }
 
+// Premium books are never counted on the public statistics page.
+function withoutPremium(firstParam: number): { and: string; params: string[] } {
+  const exclusion = premiumSlugExclusion(firstParam);
+  return { and: exclusion.sql ? ` AND ${exclusion.sql}` : "", params: exclusion.params };
+}
+
 function isoMonth(d: Date): string {
   // Returns "YYYY-MM" in UTC; created_at is stored ISO 8601 Z so UTC is the
   // canonical axis for grouping.
@@ -66,9 +73,10 @@ function isoMonth(d: Date): string {
 }
 
 async function getContentStats(db: D1Database) {
+  const free = withoutPremium(2);
   const totalBooksRow = await db
-    .prepare("SELECT COUNT(*) AS n FROM books WHERE status = ?1")
-    .bind("published")
+    .prepare(`SELECT COUNT(*) AS n FROM books WHERE status = ?1${free.and}`)
+    .bind("published", ...free.params)
     .first<{ n: number }>();
   const totalBooks = totalBooksRow?.n ?? 0;
 
@@ -76,12 +84,12 @@ async function getContentStats(db: D1Database) {
     .prepare(
       `SELECT COALESCE(subject_label, '—') AS label, COUNT(*) AS count
          FROM books
-         WHERE status = ?1
+         WHERE status = ?1${free.and}
          GROUP BY subject_label
          ORDER BY count DESC, label ASC
          LIMIT 12`,
     )
-    .bind("published")
+    .bind("published", ...free.params)
     .all<SubjectRow>();
 
   const totalChapters = BUILT_TOTAL_CHAPTERS;
@@ -100,19 +108,20 @@ async function getContentStats(db: D1Database) {
 }
 
 async function getEngagementStats(db: D1Database) {
+  const free = withoutPremium(2);
   const viewsRow = await db
     .prepare(
-      "SELECT COALESCE(SUM(view_count), 0) AS v FROM books WHERE status = ?1",
+      `SELECT COALESCE(SUM(view_count), 0) AS v FROM books WHERE status = ?1${free.and}`,
     )
-    .bind("published")
+    .bind("published", ...free.params)
     .first<{ v: number }>();
   const totalViews = viewsRow?.v ?? 0;
 
   const rangeRow = await db
     .prepare(
-      "SELECT MIN(created_at) AS first_release, MAX(created_at) AS last_release FROM books WHERE status = ?1",
+      `SELECT MIN(created_at) AS first_release, MAX(created_at) AS last_release FROM books WHERE status = ?1${free.and}`,
     )
-    .bind("published")
+    .bind("published", ...free.params)
     .first<RangeRow>();
 
   // Monthly timeline: build the last 12 month buckets from D1 data so we can
@@ -131,15 +140,16 @@ async function getEngagementStats(db: D1Database) {
   }
   const cutoffIso = twelveMonthsAgo.toISOString();
 
+  const freeSince = withoutPremium(3);
   const monthlyResult = await db
     .prepare(
       `SELECT strftime('%Y-%m', created_at) AS month, COUNT(*) AS count
          FROM books
-         WHERE status = ?1 AND created_at >= ?2
+         WHERE status = ?1 AND created_at >= ?2${freeSince.and}
          GROUP BY month
          ORDER BY month ASC`,
     )
-    .bind("published", cutoffIso)
+    .bind("published", cutoffIso, ...freeSince.params)
     .all<MonthlyRow>();
 
   const countsByMonth = new Map<string, number>();
