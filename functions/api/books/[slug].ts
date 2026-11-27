@@ -10,6 +10,7 @@ import type { PagesFunction } from "../../lib/pages-function";
 import { verifySession, type Env as AuthEnv } from "../../lib/auth";
 import { type BookRow } from "../../lib/db";
 import { enforceRateLimit } from "../../lib/rate-limit";
+import { premiumSlugs } from "../../lib/premium";
 
 interface Env extends AuthEnv {}
 
@@ -43,6 +44,11 @@ export const onRequest: PagesFunction<Env> = async (context) => {
       // missing book, so drafts cannot be probed via the API).
       const session = await verifySession(request, env);
       const isAdmin = session?.role === "admin";
+
+      // Premium books stay out of every listing, so non-admins get the same 404 as a missing book.
+      if (!isAdmin && premiumSlugs().includes(slug)) {
+        return errorResponse("Book not found", 404);
+      }
 
       // The full book text is only served to admins; everyone else reads it
       // through the gated book pages, so the API must not bypass that gate.
