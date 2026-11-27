@@ -129,13 +129,13 @@ flowchart TD
 
 **Acceptance Criteria:**
 
-- [ ] AC-1: the rendered hub `index.html` holds no card for a premium slug, and free cards keep the FREE label. (evidence: T1)
-- [ ] AC-2: `sitemap.xml` and `llms.txt` list no URL of a premium book, root included; `sitemapCoverageError` passes a premium path that is absent and fails one that is listed. (evidence: T1)
-- [ ] AC-3: `/api/books` for an anonymous or reader session returns no premium slug; an admin still gets them. (evidence: T2)
-- [ ] AC-4: `/api/stats` total_books, by_subject, total_views, release range and monthly timeline exclude premium rows; an empty registry adds no condition. (evidence: T2)
-- [ ] AC-5: `findNewSlugs` (or main) skips a new slug listed in the after-manifest `premium` key; `--slug` still announces it. (evidence: T3)
-- [ ] AC-6: GEMINI.md sections 28 and 30 and `docs/rules/premium-books.md` describe the unlisted behaviour. (evidence: T4)
-- [ ] AC-7: `bun run typecheck` exit 0 and the targeted test set exit 0 on `ma-run`. (evidence: T5)
+- [x] AC-1: the rendered hub `index.html` holds no card for a premium slug, and free cards keep the FREE label. (evidence: T1; premium-surfaces.test.ts -t hidden: RED exit 1 (5 fail), GREEN exit 0)
+- [x] AC-2: `sitemap.xml` and `llms.txt` list no URL of a premium book, root included; `sitemapCoverageError` passes a premium path that is absent and fails one that is listed. (evidence: T1; premium-surfaces.test.ts -t hidden: RED exit 1, GREEN exit 0; check-seo inverted test)
+- [x] AC-3: `/api/books` for an anonymous or reader session returns no premium slug; an admin still gets them. (evidence: T2; premium-listing.test.ts: RED exit 1 (4 fail), GREEN exit 0; db.test.ts and books.test.ts expect ["published", ...premiumSlugs()])
+- [x] AC-4: `/api/stats` total_books, by_subject, total_views, release range and monthly timeline exclude premium rows; an empty registry adds no condition. (evidence: T2; premium-listing.test.ts GREEN exit 0 (total_books 2, total_views 12, release range, timeline))
+- [x] AC-5: `findNewSlugs` (or main) skips a new slug listed in the after-manifest `premium` key; `--slug` still announces it. (evidence: T3; announce-new-books.test.ts -t premium: RED exit 1, GREEN exit 0 (25 pass))
+- [x] AC-6: GEMINI.md sections 28 and 30 and `docs/rules/premium-books.md` describe the unlisted behaviour. (evidence: T4; rg -n -i 'unlisted|hidden from the hub' GEMINI.md docs/rules/premium-books.md exit 0)
+- [x] AC-7: `bun run typecheck` exit 0 and the targeted test set exit 0 on `ma-run`. (evidence: T5; ma-run at f485ed4c: bun run typecheck exit 0; bun test on 17 affected files exit 0, 250 pass, 0 fail)
 
 **Size:** `scripts/builder/template-engine.ts` (47 KB) and `GEMINI.md` (77 KB) are over the 20 KB default; each changes by a few lines, so no split (size raise accepted for this plan).
 
@@ -171,11 +171,11 @@ flowchart TD
 
 **Review & Evidence:** RED exit 1, GREEN exit 0.
 
-- [ ] Step 1: edit the tests (RED).
-- [ ] Step 2: run RED | cmd: `HEAVY_LOCAL=iterate timeout 300 bun test ./tests/scripts/premium-surfaces.test.ts -t 'hidden'` | expect: exit 1 | retry: 0
-- [ ] Step 3: change the four source files.
-- [ ] Step 4: run GREEN | cmd: `HEAVY_LOCAL=iterate timeout 300 bun test ./tests/scripts/premium-surfaces.test.ts ./tests/scripts/generate-sitemap.test.ts ./tests/scripts/hub-seo.test.ts ./tests/scripts/build.test.ts` | expect: exit 0 | retry: 1
-- [ ] Step 5: parent commits the T1 paths by name.
+- [x] Step 1: edit the tests (RED).
+- [x] Step 2: run RED | cmd: `HEAVY_LOCAL=iterate timeout 300 bun test ./tests/scripts/premium-surfaces.test.ts -t 'hidden'` | expect: exit 1 | retry: 0
+- [x] Step 3: change the four source files.
+- [x] Step 4: run GREEN | cmd: `HEAVY_LOCAL=iterate timeout 300 bun test ./tests/scripts/premium-surfaces.test.ts ./tests/scripts/generate-sitemap.test.ts ./tests/scripts/hub-seo.test.ts ./tests/scripts/build.test.ts` | expect: exit 0 | retry: 1
+- [x] Step 5: parent commits the T1 paths by name.
 
 ## Task T2: API Books and Stats Hide Premium Books
 
@@ -198,11 +198,11 @@ flowchart TD
 
 **Review & Evidence:** RED exit 1, GREEN exit 0.
 
-- [ ] Step 1: write the test (RED).
-- [ ] Step 2: run RED | cmd: `HEAVY_LOCAL=iterate timeout 300 bun test ./tests/functions/premium-listing.test.ts` | expect: exit 1 | retry: 0
-- [ ] Step 3: add the helper and apply it.
-- [ ] Step 4: run GREEN | cmd: `HEAVY_LOCAL=iterate timeout 300 bun test ./tests/functions/premium-listing.test.ts ./tests/functions/lib/premium.test.ts` | expect: exit 0 | retry: 1
-- [ ] Step 5: parent commits the T2 paths by name.
+- [x] Step 1: write the test (RED).
+- [x] Step 2: run RED | cmd: `HEAVY_LOCAL=iterate timeout 300 bun test ./tests/functions/premium-listing.test.ts` | expect: exit 1 | retry: 0
+- [x] Step 3: add the helper and apply it.
+- [x] Step 4: run GREEN | cmd: `HEAVY_LOCAL=iterate timeout 300 bun test ./tests/functions/premium-listing.test.ts ./tests/functions/lib/premium.test.ts` | expect: exit 0 | retry: 1
+- [x] Step 5: parent commits the T2 paths by name.
 
 ## Task T3: Announcement Skips Premium Books
 
@@ -222,11 +222,11 @@ flowchart TD
 
 **Review & Evidence:** RED exit 1, GREEN exit 0.
 
-- [ ] Step 1: add the test (RED).
-- [ ] Step 2: run RED | cmd: `HEAVY_LOCAL=iterate timeout 300 bun test ./tests/scripts/announce-new-books.test.ts -t 'premium'` | expect: exit 1 | retry: 0
-- [ ] Step 3: filter in `findNewSlugs`.
-- [ ] Step 4: run GREEN | cmd: `HEAVY_LOCAL=iterate timeout 300 bun test ./tests/scripts/announce-new-books.test.ts` | expect: exit 0 | retry: 1
-- [ ] Step 5: parent commits the T3 paths by name.
+- [x] Step 1: add the test (RED).
+- [x] Step 2: run RED | cmd: `HEAVY_LOCAL=iterate timeout 300 bun test ./tests/scripts/announce-new-books.test.ts -t 'premium'` | expect: exit 1 | retry: 0
+- [x] Step 3: filter in `findNewSlugs`.
+- [x] Step 4: run GREEN | cmd: `HEAVY_LOCAL=iterate timeout 300 bun test ./tests/scripts/announce-new-books.test.ts` | expect: exit 0 | retry: 1
+- [x] Step 5: parent commits the T3 paths by name.
 
 ## Task T4: Docs
 
@@ -246,9 +246,9 @@ flowchart TD
 
 **Review & Evidence:** `rg` exit 0 on the new wording.
 
-- [ ] Step 1: edit the docs.
-- [ ] Step 2: run | cmd: `rg -n -i 'unlisted|hidden from the hub' GEMINI.md docs/rules/premium-books.md` | expect: exit 0 | retry: 0
-- [ ] Step 3: parent commits the T4 paths by name.
+- [x] Step 1: edit the docs.
+- [x] Step 2: run | cmd: `rg -n -i 'unlisted|hidden from the hub' GEMINI.md docs/rules/premium-books.md` | expect: exit 0 | retry: 0
+- [x] Step 3: parent commits the T4 paths by name.
 
 ## Task T5: Verification
 
@@ -268,7 +268,9 @@ flowchart TD
 
 **Review & Evidence:** exit codes from ma-run.
 
-- [ ] Step 1: run | cmd: `ma-run --base origin/main -- bun run typecheck` | expect: exit 0 | retry: 1
-- [ ] Step 2: run | cmd: `ma-run --base origin/main -- bun test` with the targeted set | expect: exit 0 | retry: 1
+- [x] Step 1: run | cmd: `ma-run --base origin/main -- bun run typecheck` | expect: exit 0 | retry: 1
+- [x] Step 2: run | cmd: `ma-run --base origin/main -- bun test` with the targeted set | expect: exit 0 | retry: 1
+
+**Verification (2026-11-27):** parent re-run `HEAVY_LOCAL=iterate timeout 300 bun test ./tests/functions/lib/db.test.ts ./tests/functions/api/books.test.ts ./tests/functions/api/stats.test.ts ./tests/functions/premium-listing.test.ts` exit 0, 50 pass, 0 fail. `ma-run --base origin/main -- bun run typecheck` exit 0 and `ma-run --base origin/main -- bun test` (17 affected files) exit 0, 250 pass, 0 fail, at f485ed4c. Independent review (staid): verdict correct, no blocking findings; `check-copy-rules.mjs --diff origin/main` exit 0.
 
 **Approval:** Approved by the owner 2026-11-27 (Design gate, also Gate 2). Scope answers: home page, sitemap and llms.txt, /api/books, statistics; keep indexable; do not announce new premium books.
