@@ -100,7 +100,7 @@ tasks:
 
 **Scope:** hub home cards, sitemap, llms.txt, check-seo coverage gate, `/api/books` for non-admin callers, `/api/stats` D1 aggregates, new-book announcement, docs.
 
-**Non-Goals:** `noindex` on premium pages (owner chose to keep them indexable, 2026-11-27); `manifest.json` (the deploy guard `check-premium-output.ts`, `inject-gating.ts`, sitemap, llms.txt and the announcement read it; it carries slugs only, no titles or rendered links); `/api/books/<slug>` (a direct lookup, not a listing); the frozen old-book broadcast queue (built before premium books existed); deploy.
+**Non-Goals:** `noindex` on premium pages (owner chose to keep them indexable, 2026-11-27); `manifest.json` (the deploy guard `check-premium-output.ts`, `inject-gating.ts`, sitemap, llms.txt and the announcement read it; it carries slugs only, no titles or rendered links); the frozen old-book broadcast queue (built before premium books existed); deploy.
 
 **Assumptions:** an admin session still sees premium books in `/api/books` (admin tooling); `/api/books?subject_label=...` filters the same way; a manual `announce-new-books.ts --slug <premium>` still announces (explicit owner action).
 
@@ -272,5 +272,13 @@ flowchart TD
 - [x] Step 2: run | cmd: `ma-run --base origin/main -- bun test` with the targeted set | expect: exit 0 | retry: 1
 
 **Verification (2026-11-27):** parent re-run `HEAVY_LOCAL=iterate timeout 300 bun test ./tests/functions/lib/db.test.ts ./tests/functions/api/books.test.ts ./tests/functions/api/stats.test.ts ./tests/functions/premium-listing.test.ts` exit 0, 50 pass, 0 fail. `ma-run --base origin/main -- bun run typecheck` exit 0 and `ma-run --base origin/main -- bun test` (17 affected files) exit 0, 250 pass, 0 fail, at f485ed4c. Independent review (staid): verdict correct, no blocking findings; `check-copy-rules.mjs --diff origin/main` exit 0.
+
+**Follow-ups (debt sweep, owner selected 2026-11-27):**
+
+- [x] F1: `tests/functions/premium-listing.test.ts` proves `first_release` ignores a premium row that is the oldest (RED by mutating the range query filter and its bind values: exit 1 at the first_release assertion; restored, `git diff --exit-code` exit 0; GREEN exit 0, 9 pass).
+- [x] F2: `docs/rules/premium-books.md` notes that `seo-request-reindex.ts` and `audit-full-gsc-index.ts` no longer submit premium pages (they read `sitemap.xml`).
+- [x] F3: `GET /api/books/<slug>` answers 404 for a premium slug to non-admin callers; admins unchanged (`functions/api/books/[slug].ts`; RED exit 1 with 2 fail, GREEN `[slug].test.ts` exit 0, 17 pass, `slug.test.ts` exit 0, 9 pass).
+
+**Backlog (LATER):** after the owner deploys, check live: `/` holds no premium card, `/sitemap.xml` and `/llms.txt` hold no premium URL, `/api/books` and `/api/stats` (D1 in production, tests ran on bun:sqlite) leave premium out.
 
 **Approval:** Approved by the owner 2026-11-27 (Design gate, also Gate 2). Scope answers: home page, sitemap and llms.txt, /api/books, statistics; keep indexable; do not announce new premium books.
