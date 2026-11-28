@@ -30,6 +30,16 @@ if echo "$HEADERS_PUBLIC" | grep -qi "X-Robots-Tag: noindex"; then
   exit 1
 fi
 
+# JSON API responses stay out of the index (GEMINI.md section 31). A book 404.html cannot be
+# checked here: anonymous requests to it get the gating middleware's 401.
+TEST_API_URL="$BASE_URL/api/stats"
+echo "Verifying X-Robots-Tag on API: $TEST_API_URL"
+HEADERS_API=$(curl -s -o /dev/null -D - "$TEST_API_URL")
+if ! echo "$HEADERS_API" | grep -qi "X-Robots-Tag: noindex"; then
+  echo "❌ [FAIL] API response lacks X-Robots-Tag: noindex"
+  exit 1
+fi
+
 echo "Verifying gated path: $TEST_GATED_URL"
 HTTP_STATUS=$(curl -s -o /dev/null -w "%{http_code}" "$TEST_GATED_URL")
 if [ "$HTTP_STATUS" -ne 200 ]; then

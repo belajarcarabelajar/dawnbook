@@ -1,7 +1,7 @@
 ---
 schema: ultra-plan/v1
 plan_id: 2026-11-28-gsc-crawled-not-indexed
-status: Approved
+status: Complete
 version: 1
 runner_contract: true
 defaults:
@@ -217,6 +217,17 @@ flowchart TD
 
 **Verification (2026-11-28):** `ma-run --base origin/main -- bun run typecheck` exit 0 and `ma-run --base origin/main -- bun test` (6 targeted files) exit 0, 58 pass, 0 fail, at 4b1a14c8. `check-copy-rules.mjs --diff origin/main` exit 0 (merge-base f2b75478 = origin/main).
 
-**Backlog (LATER, owner gates):** deploy; resubmit the sitemap with `GSC_OAUTH_REFRESH_TOKEN_TULIS`; the owner starts "Validate fix" for "Crawled - currently not indexed" in Search Console.
+**Follow-ups (debt sweep, owner selected 2026-11-28):**
+
+- [x] F1: `scripts/check-seo-live.sh` checks that `/api/stats` carries `X-Robots-Tag: noindex`, placed before the gated step. Against production before deploy: `bash -n` ok; run exit 1 at "API response lacks X-Robots-Tag: noindex" (the expected red until this PR is deployed). A book `404.html` cannot be checked there: anonymous requests to it get the middleware's 401.
+- [x] F2: backlog entry below for the `.html` probe.
+
+**Backlog (LATER, owner gates):**
+
+- Deploy; resubmit the sitemap with `GSC_OAUTH_REFRESH_TOKEN_TULIS`; the owner starts "Validate fix" for "Crawled - currently not indexed" in Search Console; then `bash scripts/check-seo-live.sh https://dawnbook.belajarcarabelajar.com` should pass the API step.
+- `.html` probe (owner, Search Console UI): run "Test live URL" on one gated `.html` chapter (for example `/books/filosofi-stoikisme/content/06_hidup-selaras-dengan-alam-living-in-accordance-with-nature.html`). The URL Inspection API lists Google's canonical as the `.html` URL itself with fetch SUCCESSFUL (last crawl 2026-11-18), while an unverified client gets 308 (public) or 401 (gated). If the live test shows 200 with the chapter body, a verified crawler is served a duplicate and a redirect at the edge is needed.
+- `scripts/check-seo-live.sh` already failed before this PR at its gated step: it expects HTTP 200 for chapter 2 of piaget, and the edge gating middleware answers anonymous requests with 401 (run 2026-11-28: exit 1, "Gated path returned HTTP 401"). Update that expectation to 401.
+
+**Closeout (2026-11-28):** `bun ~/vivera/scripts/plan-closeout.mjs --readiness docs/code-plan/plans/2026-11-28-gsc-crawled-not-indexed.md` exit 0, verdict READY (2 asserted: T3 and T4, evidence above), issue #297 current. Owner chose Mark Complete. `bun scripts/plan-cost.mjs --plan 2026-11-28-gsc-crawled-not-indexed`: usd: 8.5501 (estimate) (estimate; caveats: sessions without a registry claim are not counted, other work in this session is counted).
 
 **Approval:** Approved by the owner 2026-11-28 (Design gate, also Gate 2).
