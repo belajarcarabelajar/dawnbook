@@ -115,11 +115,11 @@ flowchart TD
 
 **Acceptance Criteria:**
 
-- [ ] AC-1: a built book `404.html` holds `<meta name="robots" content="noindex">` and no `rel="canonical"`, hreflang or `og:url`; chapter, root and toc pages are unchanged. (evidence: T1)
-- [ ] AC-2: `checkIndexingOutput` reports a book `404.html` without noindex. (evidence: T1)
-- [ ] AC-3: every middleware response for a path under `/api/` carries `X-Robots-Tag: noindex`; a book page and a hub page do not. (evidence: T2)
-- [ ] AC-4: GEMINI.md section 31 and `docs/rules/indexing.md` state both rules. (evidence: T3)
-- [ ] AC-5: `bun run typecheck` exit 0 and the targeted set exit 0 on `ma-run`. (evidence: T4)
+- [x] AC-1: a built book `404.html` holds `<meta name="robots" content="noindex">` and no `rel="canonical"`, hreflang or `og:url`; chapter, root and toc pages are unchanged. (evidence: T1; book-404-noindex.test.ts RED exit 1 (4 fail at assertions), GREEN with inject-gating tests exit 0, 22 pass)
+- [x] AC-2: `checkIndexingOutput` reports a book `404.html` without noindex. (evidence: T1; same test file; build.test.ts -t ndexing exit 0)
+- [x] AC-3: every middleware response for a path under `/api/` carries `X-Robots-Tag: noindex`; a book page and a hub page do not. (evidence: T2; api-noindex.test.ts RED exit 1 (2 fail, Received null), GREEN with middleware.test.ts exit 0, 24 pass)
+- [x] AC-4: GEMINI.md section 31 and `docs/rules/indexing.md` state both rules. (evidence: T3; rg -n 'X-Robots-Tag: noindex' GEMINI.md docs/rules/indexing.md exit 0)
+- [x] AC-5: `bun run typecheck` exit 0 and the targeted set exit 0 on `ma-run`. (evidence: T4; ma-run at 4b1a14c8: bun run typecheck exit 0; bun test 6 files exit 0, 58 pass, 0 fail)
 
 **Traceability:**
 
@@ -146,11 +146,11 @@ flowchart TD
 
 **Deliberate Shortcuts & Deferrals:** none.
 
-- [ ] Step 1: write the test (RED).
-- [ ] Step 2: run RED | cmd: `HEAVY_LOCAL=iterate timeout 300 bun test ./tests/scripts/book-404-noindex.test.ts` | expect: exit 1 | retry: 0
-- [ ] Step 3: implement.
-- [ ] Step 4: run GREEN | cmd: `HEAVY_LOCAL=iterate timeout 300 bun test ./tests/scripts/book-404-noindex.test.ts ./tests/scripts/inject-gating.test.ts ./tests/scripts/inject-gating-canonical.test.ts` | expect: exit 0 | retry: 1
-- [ ] Step 5: parent commits the T1 paths by name.
+- [x] Step 1: write the test (RED).
+- [x] Step 2: run RED | cmd: `HEAVY_LOCAL=iterate timeout 300 bun test ./tests/scripts/book-404-noindex.test.ts` | expect: exit 1 | retry: 0
+- [x] Step 3: implement.
+- [x] Step 4: run GREEN | cmd: `HEAVY_LOCAL=iterate timeout 300 bun test ./tests/scripts/book-404-noindex.test.ts ./tests/scripts/inject-gating.test.ts ./tests/scripts/inject-gating-canonical.test.ts` | expect: exit 0 | retry: 1
+- [x] Step 5: parent commits the T1 paths by name.
 
 ## Task T2: API Responses Carry X-Robots-Tag Noindex
 
@@ -168,11 +168,11 @@ flowchart TD
 
 **Deliberate Shortcuts & Deferrals:** none.
 
-- [ ] Step 1: write the test (RED).
-- [ ] Step 2: run RED | cmd: `HEAVY_LOCAL=iterate timeout 300 bun test ./tests/functions/api-noindex.test.ts` | expect: exit 1 | retry: 0
-- [ ] Step 3: implement.
-- [ ] Step 4: run GREEN | cmd: `HEAVY_LOCAL=iterate timeout 300 bun test ./tests/functions/api-noindex.test.ts ./tests/functions/middleware.test.ts` | expect: exit 0 | retry: 1
-- [ ] Step 5: parent commits the T2 paths by name.
+- [x] Step 1: write the test (RED).
+- [x] Step 2: run RED | cmd: `HEAVY_LOCAL=iterate timeout 300 bun test ./tests/functions/api-noindex.test.ts` | expect: exit 1 | retry: 0
+- [x] Step 3: implement.
+- [x] Step 4: run GREEN | cmd: `HEAVY_LOCAL=iterate timeout 300 bun test ./tests/functions/api-noindex.test.ts ./tests/functions/middleware.test.ts` | expect: exit 0 | retry: 1
+- [x] Step 5: parent commits the T2 paths by name.
 
 ## Task T3: Docs
 
@@ -190,9 +190,9 @@ flowchart TD
 
 **Deliberate Shortcuts & Deferrals:** none.
 
-- [ ] Step 1: edit the docs.
-- [ ] Step 2: run | cmd: `rg -n 'X-Robots-Tag: noindex' GEMINI.md docs/rules/indexing.md` | expect: exit 0 | retry: 0
-- [ ] Step 3: parent commits the T3 paths by name.
+- [x] Step 1: edit the docs.
+- [x] Step 2: run | cmd: `rg -n 'X-Robots-Tag: noindex' GEMINI.md docs/rules/indexing.md` | expect: exit 0 | retry: 0
+- [x] Step 3: parent commits the T3 paths by name.
 
 ## Task T4: Verification
 
@@ -210,10 +210,12 @@ flowchart TD
 
 **Deliberate Shortcuts & Deferrals:** no full `bun run build`; no full suite without asking (A12).
 
-- [ ] Step 1: run | cmd: `ma-run --base origin/main -- bun run typecheck` | expect: exit 0 | retry: 1
-- [ ] Step 2: run | cmd: `ma-run --base origin/main -- bun test` with the targeted set | expect: exit 0 | retry: 1
+- [x] Step 1: run | cmd: `ma-run --base origin/main -- bun run typecheck` | expect: exit 0 | retry: 1
+- [x] Step 2: run | cmd: `ma-run --base origin/main -- bun test` with the targeted set | expect: exit 0 | retry: 1
 
 **Size:** `scripts/inject-gating.ts` (22 KB) and `GEMINI.md` (78 KB) are over the 20 KB default; each changes by a few lines, so no split (size raise accepted for this plan).
+
+**Verification (2026-11-28):** `ma-run --base origin/main -- bun run typecheck` exit 0 and `ma-run --base origin/main -- bun test` (6 targeted files) exit 0, 58 pass, 0 fail, at 4b1a14c8. `check-copy-rules.mjs --diff origin/main` exit 0 (merge-base f2b75478 = origin/main).
 
 **Backlog (LATER, owner gates):** deploy; resubmit the sitemap with `GSC_OAUTH_REFRESH_TOKEN_TULIS`; the owner starts "Validate fix" for "Crawled - currently not indexed" in Search Console.
 
