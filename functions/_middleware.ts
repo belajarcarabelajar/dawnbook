@@ -241,6 +241,11 @@ function applySecurityHeaders(response: Response, pathname = ""): Response {
       isBookPath(pathname) ? BOOK_CONTENT_SECURITY_POLICY : CONTENT_SECURITY_POLICY,
     );
   }
+  // Header, not robots.txt: the hub fetches /api/* while Google renders it,
+  // so a Disallow would break rendering; noindex keeps the JSON out of the index.
+  if (pathname.startsWith("/api/") && !newResponse.headers.has("X-Robots-Tag")) {
+    newResponse.headers.set("X-Robots-Tag", "noindex");
+  }
   return newResponse;
 }
 
