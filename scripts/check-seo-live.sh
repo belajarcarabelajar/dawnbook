@@ -40,15 +40,22 @@ if ! echo "$HEADERS_API" | grep -qi "X-Robots-Tag: noindex"; then
   exit 1
 fi
 
+# Gated chapters are closed at the edge (functions/_middleware.ts): a signed-out fetch gets a
+# 401 JSON answer, a signed-out page request (Accept: text/html) a 302 to /sign-in.
 echo "Verifying gated path: $TEST_GATED_URL"
 HTTP_STATUS=$(curl -s -o /dev/null -w "%{http_code}" "$TEST_GATED_URL")
-if [ "$HTTP_STATUS" -ne 200 ]; then
-  echo "❌ [FAIL] Gated path returned HTTP $HTTP_STATUS"
+if [ "$HTTP_STATUS" -ne 401 ]; then
+  echo "❌ [FAIL] Gated path returned HTTP $HTTP_STATUS to a signed-out fetch, expected 401"
   exit 1
 fi
-
-# Verify noindex is present on gated (Note: under client-side gating, this check is skipped)
-echo "Skipping noindex header check for gated path (client-side gating)."
+GATED_HTML=$(curl -s -o /dev/null -w "%{http_code} %{redirect_url}" -H "Accept: text/html" "$TEST_GATED_URL")
+case "$GATED_HTML" in
+  "302 $BASE_URL/sign-in?"*) ;;
+  *)
+    echo "❌ [FAIL] Gated path answered a signed-out page request with \"$GATED_HTML\", expected a 302 to /sign-in"
+    exit 1
+    ;;
+esac
 
 echo "Verifying canonical tag on public path..."
 BODY_PUBLIC=$(curl -s "$TEST_PUBLIC_URL")
