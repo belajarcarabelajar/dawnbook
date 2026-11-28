@@ -81,6 +81,10 @@ export function checkIndexingOutput(outputDir: string): string[] {
       tocFiles++;
       if (TOC_HTML_LINK.test(readFileSync(join(booksDir, slug, f), "utf8"))) problems.push(`${slug}/${f}: chapter link still ends in .html`);
     }
+    const notFound = join(booksDir, slug, "404.html");
+    if (existsSync(notFound) && !NOINDEX_META.test(readFileSync(notFound, "utf8"))) {
+      problems.push(`books/${slug}/404.html: no robots noindex meta, so Google crawls it as a page`);
+    }
     const first = chapters[slug]?.[0];
     if (!first) continue;
     const firstFile = join(outputDir, decodeURIComponent(first));

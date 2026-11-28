@@ -52,6 +52,11 @@ export interface InjectSeoOptions {
    * keeps it public on a cold landing where sessionStorage has no `free_chapter_viewed` yet.
    */
   isFirstChapter?: boolean;
+  /**
+   * Adds `<meta name="robots" content="noindex">` and leaves out rel=canonical, hreflang and og:url.
+   * Book 404 pages carried a self canonical, so Google listed them as "Crawled - currently not indexed".
+   */
+  noindex?: boolean;
 }
 
 // Google "preferred source" card at the end of every chapter (owner request 2026-11-02). dawnbook.belajarcarabelajar.com is listed in
@@ -267,6 +272,21 @@ export function injectSeoAndGating(html: string, options: InjectSeoOptions): str
 
   const escapedTitle = escapeHtml(pageTitle);
   const escapedCanonical = escapeHtml(options.canonicalUrl ?? url);
+  const noindex = options.noindex === true;
+  const robotsTag = noindex && !/<meta\s+name=["']robots["']/i.test(content)
+    ? `
+        <meta name="robots" content="noindex" />`
+    : "";
+  const urlTags = noindex
+    ? ""
+    : `
+        <link rel="canonical" href="${escapedCanonical}" />
+        <link rel="alternate" hreflang="id" href="${escapedCanonical}" />
+        <link rel="alternate" hreflang="x-default" href="${escapedCanonical}" />`;
+  const ogUrlTag = noindex
+    ? ""
+    : `
+        <meta property="og:url" content="${escapedCanonical}" />`;
   const defaultImage = "https://dawnbook.belajarcarabelajar.com/icon-512.png";
   const image = escapeHtml(ogImage ?? defaultImage);
   const cardSizeTags = ogImage
@@ -374,16 +394,12 @@ export function injectSeoAndGating(html: string, options: InjectSeoOptions): str
   const seoTags = `
         <meta name="theme-color" content="#000000" />
         <link rel="manifest" href="/manifest.webmanifest" />
-        <script src="/pake-compat.js" defer></script>
-        <link rel="canonical" href="${escapedCanonical}" />
-        <link rel="alternate" hreflang="id" href="${escapedCanonical}" />
-        <link rel="alternate" hreflang="x-default" href="${escapedCanonical}" />${options.isFirstChapter ? `
+        <script src="/pake-compat.js" defer></script>${robotsTag}${urlTags}${options.isFirstChapter ? `
         <meta name="dawnbook-free-chapter" content="1" />` : ""}
         <meta name="description" content="${escapedDesc}" />
         <meta property="og:title" content="${escapedTitle}" />
         <meta property="og:description" content="${escapedDesc}" />
-        <meta property="og:type" content="article" />
-        <meta property="og:url" content="${escapedCanonical}" />
+        <meta property="og:type" content="article" />${ogUrlTag}
         <meta property="og:image" content="${image}" />${cardSizeTags}
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="${escapedTitle}" />
@@ -469,6 +485,7 @@ async function processDirectory(
       let preferredSourceCard = false;
       let canonicalUrl: string | undefined;
       let isFirstChapter = false;
+      let noindex = false;
       const bookMatch = relativePath.match(
         /^\/books\/([a-zA-Z0-9_-]+)\/(.*)?$/,
       );
@@ -495,6 +512,7 @@ async function processDirectory(
         if (page === "" || page === "index.html") {
           isBookRoot = true;
         }
+        noindex = page === "404.html";
 
         // render-og-cards writes og/<slug>/<page>.png. A chapter page without one means the two
         // disagree on its name, which would silently ship the site icon, so the build fails.
@@ -544,6 +562,7 @@ async function processDirectory(
         preferredSourceCard,
         canonicalUrl,
         isFirstChapter,
+        noindex,
       });
 
       await writeFile(fullPath, updatedContent, "utf-8");
